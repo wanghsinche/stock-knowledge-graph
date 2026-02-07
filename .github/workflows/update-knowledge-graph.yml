@@ -28,7 +28,7 @@ jobs:
 
       - name: Run knowledge graph generator
         run: |
-          python knowledge_graph/scripts/extract_relationships.py
+          uv run knowledge_graph/scripts/extract_relationships.py
 
       - name: Commit and push changes
         run: |
