@@ -1,0 +1,67 @@
+{
+  "ticker": "MSFT",
+  "company_name": "Microsoft Corporation",
+  "sector": "Technology",
+  "industry": "Software - Infrastructure",
+  "upstream": [
+    "INTC",
+    "NVDA",
+    "AMD",
+    "QCOM",
+    "005930.KS"
+  ],
+  "downstream": [
+    "Enterprise customers",
+    "Government agencies",
+    "DELL",
+    "Retail consumers",
+    "MSFT"
+  ],
+  "competitors": [
+    "AAPL",
+    "GOOGL",
+    "AMZN",
+    "ORCL",
+    "IBM"
+  ],
+  "key_products": [
+    "Windows operating system",
+    "Microsoft Office suite",
+    "Azure cloud platform",
+    "Microsoft 365",
+    "Xbox gaming console"
+  ],
+  "extracted_at": "2026-02-08 02:11:26",
+  "sources": [
+    {
+      "source": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Microsoft_Corporation",
+      "title": "Microsoft",
+      "snippet": "Microsoft Corporation is an American multinational technology conglomerate headquartered in Redmond, Washington. Founded in 1975, the company became influential in the rise of personal computers throu"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/MSFT-Suppliers",
+      "query": "Microsoft Corporation suppliers manufacturers",
+      "snippet": "Microsoft supply chain, list and performance of Microsofts' suppliers - CSIMarket"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.microsoft.com/en-us/procurement",
+      "query": "Microsoft Corporation suppliers manufacturers",
+      "snippet": "Microsoft Procurement is committed to building a diverse global supplier base that reflects the global diversity of our customers and provides all typ"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.microsoft.com/en/customers",
+      "query": "Microsoft Corporation major customers clients",
+      "snippet": "Explore customer success stories to learn how businesses are overcoming challenges, driving innovation, and achieving more with Microsoft solutions."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/MSFT-Customers",
+      "query": "Microsoft Corporation major customers clients",
+      "snippet": "Microsoft customers and markets, results by customer and performance relative to MSFT, by company and industry - CSIMarket"
+    }
+  ]
+}

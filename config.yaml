@@ -1,0 +1,25 @@
+# 股票知识图谱配置
+# 支持以下模式:
+# - WATCHLIST: 手动关注列表
+# - ACTIVE: TradingView 活跃股票
+# - BOTH: 两者都包含
+
+MODE: BOTH
+
+# 手动关注的股票列表
+WATCHLIST:
+  # 科技股
+  - MRNA
+  - NBIS
+  - CCJ
+
+# 每个模式取多少只股票
+ACTIVE_LIMIT: 20
+WATCHLIST_LIMIT: 20
+
+# 排除的股票 (不在任何模式下处理)
+EXCLUDE:
+  - SPY
+  - QQQ
+  - IWM
+  - DIA

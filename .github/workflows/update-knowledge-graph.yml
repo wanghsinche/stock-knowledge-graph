@@ -1,0 +1,57 @@
+name: Stock Knowledge Graph Update
+
+on:
+  schedule:
+    - cron: '0 16 * * 1-fri'  # 美股周一到周五 16:00 UTC (北京时间 midnight)
+  workflow_dispatch:
+  repository_dispatch:
+
+env:
+  NVIDIA_API_KEY: ${{ secrets.NVIDIA_API_KEY }}
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GH_TOKEN }}
+
+      - name: Install UV
+        uses: astral-sh/setup-uv@v4
+
+      - name: Set up Python
+        run: uv python install 3.11
+
+      - name: Install dependencies
+        run: uv pip install -e .
+
+      - name: Run knowledge graph generator
+        run: |
+          python knowledge_graph/scripts/extract_relationships.py
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git status
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "$(cat <<'EOF'
+            Update stock knowledge graph
+
+            Automated update of industry relationships
+            - Added/updated active stock relationships
+            - Regenerated index files
+            EOF
+            )"
+            git push
+          fi
+
+      - name: Notify on failure
+        if: failure()
+        run: |
+          echo "Knowledge graph update failed!"

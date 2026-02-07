@@ -1,0 +1,67 @@
+{
+  "ticker": "AAPL",
+  "company_name": "Apple Inc.",
+  "sector": "Technology",
+  "industry": "Consumer Electronics",
+  "upstream": [
+    "Foxconn (Hon Hai Precision Industry)",
+    "Compal Electronics",
+    "Pegatron",
+    "Quanta Computer",
+    "Wistron"
+  ],
+  "downstream": [
+    "Consumers (individual retail customers)",
+    "AAPL",
+    "AAPL",
+    "Enterprise customers",
+    "CAT"
+  ],
+  "competitors": [
+    "005930.KS",
+    "MSFT",
+    "GOOGL",
+    "AMZN",
+    "Huawei"
+  ],
+  "key_products": [
+    "iPhone",
+    "iPad",
+    "Mac",
+    "Apple Watch",
+    "AirPods"
+  ],
+  "extracted_at": "2026-02-08 02:11:52",
+  "sources": [
+    {
+      "source": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Apple_Inc.",
+      "title": "Apple Inc.",
+      "snippet": "Apple Inc. is an American multinational technology company headquartered in Cupertino, California, in Silicon Valley, best known for its consumer electronics, software and online services. Founded in "
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.investopedia.com/articles/investing/090315/10-major-companies-tied-apple-supply-chain.asp",
+      "query": "Apple Inc. suppliers manufacturers",
+      "snippet": "Key Apple Suppliers from Taiwan · Hon Hai Precision Industry (Foxconn) · Compal · Quanta Computer · Taiwan Semiconductor Manufacturing Company · Wistr"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.apple.com/supply-chain/",
+      "query": "Apple Inc. suppliers manufacturers",
+      "snippet": "Our suppliers are required to meet the strict standards of the Apple Supplier Code of Conduct, no matter where they operate or what type of goods, ser"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/AAPL-Customers",
+      "query": "Apple Inc. major customers clients",
+      "snippet": "Apple Inc's Comment on Sales, Marketing and Customers The Company's customers are primarily in the consumer, SMB, education, enterprise and government"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://businessmodelanalyst.com/apple-target-market/",
+      "query": "Apple Inc. major customers clients",
+      "snippet": "Understanding a company's target market is essential to its success. It helps shape product offerings, marketing strategies, and customer experiences "
+    }
+  ]
+}
