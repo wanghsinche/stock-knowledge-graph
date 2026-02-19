@@ -2,9 +2,12 @@ name: Stock Knowledge Graph Update
 
 on:
   schedule:
-    - cron: '0 16 * * 1-fri'  # 美股周一到周五 16:00 UTC (北京时间 midnight)
+    - cron: '0 16 * * 1-fri'
   workflow_dispatch:
   repository_dispatch:
+
+permissions:
+  contents: write
 
 env:
   NVIDIA_API_KEY: ${{ secrets.NVIDIA_API_KEY }}
