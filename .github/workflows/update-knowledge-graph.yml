@@ -39,14 +39,7 @@ jobs:
           if git diff --cached --quiet; then
             echo "No changes to commit"
           else
-            git commit -m "$(cat <<'EOF'
-            Update stock knowledge graph
-
-            Automated update of industry relationships
-            - Added/updated active stock relationships
-            - Regenerated index files
-            EOF
-            )"
+            git commit -m "Update stock knowledge graph - Automated update of industry relationships"
             git push
           fi
 
