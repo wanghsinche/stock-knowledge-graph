@@ -3,7 +3,7 @@ ticker: BAC
 company: Bank of America Corporation
 sector: Financial Services
 industry: Banks - Diversified
-extracted_at: 2026-02-19 14:47:00
+extracted_at: 2026-02-19 16:45:11
 last_updated: 2026-02-19
 ---
 
@@ -12,23 +12,23 @@ last_updated: 2026-02-19
 ## 基本信息
 
 - **所属行业**: Financial Services / Banks - Diversified
-- **提取时间**: 2026-02-19 14:47:00
+- **提取时间**: 2026-02-19 16:45:11
 
 ## 产业链关系
 
 ### 上游供应商
 - [[ORCL]]
-- [[MSFT]]
 - [[IBM]]
-- [[AMZN]]
-- [[Bloomberg]]
+- [[MSFT]]
+- [[SAP]]
+- [[Accenture]]
 
 ### 下游客户
-- [[Retail consumers]]
-- [[Small and medium enterprises]]
+- [[Retail banking customers]]
+- [[Small businesses]]
 - [[Large corporations]]
-- [[Government agencies]]
 - [[Institutional investors]]
+- [[Mortgage borrowers]]
 
 ### 竞争对手
 - [[JPMorgan Chase]]
@@ -39,18 +39,18 @@ last_updated: 2026-02-19
 
 ### 核心产品
 - [[Consumer banking]]
-- [[Corporate banking]]
-- [[Investment banking]]
-- [[Wealth management]]
+- [[Mortgage loans]]
 - [[Credit cards]]
+- [[Wealth management]]
+- [[Investment banking]]
 
 ## 数据来源
 
 - [Bank of America](https://en.wikipedia.org/wiki/Bank_of_America_Corporation)
 - [Bank of America Corporation suppliers manufacturers](https://en.wikipedia.org/wiki/Bank_of_America)
 - [Bank of America Corporation suppliers manufacturers](https://www.bankofamerica.com/)
+- [Bank of America Corporation major customers clients](https://en.wikipedia.org/wiki/Bank_of_America)
 - [Bank of America Corporation major customers clients](https://newsroom.bankofamerica.com/content/newsroom/company-overview/bank-of-america-fast-facts.html)
-- [Bank of America Corporation major customers clients](https://csimarket.com/stocks/BAC-Customers)
 
 ## 元数据
 

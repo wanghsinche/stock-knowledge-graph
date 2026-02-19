@@ -4,18 +4,18 @@
   "sector": "Technology",
   "industry": "Semiconductors",
   "upstream": [
-    "005930.KS",
     "TSM",
+    "005930.KS",
     "MU",
-    "GlobalFoundries",
-    "QCOM"
+    "SK Hynix",
+    "GlobalFoundries"
   ],
   "downstream": [
-    "MSFT",
     "AMZN",
     "GOOGL",
-    "Activision Blizzard",
-    "TSLA"
+    "MSFT",
+    "SONY",
+    "Coca‑Cola Company"
   ],
   "competitors": [
     "AMD",
@@ -25,13 +25,13 @@
     "AVGO"
   ],
   "key_products": [
-    "GeForce RTX GPUs",
-    "NVIDIA A100 Tensor Core GPU",
-    "NVIDIA Jetson AI platform",
-    "NVIDIA Drive PX automotive platform",
-    "NVIDIA DGX AI supercomputer"
+    "GeForce GPUs",
+    "Tesla GPUs",
+    "Jetson SoCs",
+    "CUDA API",
+    "RTX Ray‑Tracing Technology"
   ],
-  "extracted_at": "2026-02-19 14:27:20",
+  "extracted_at": "2026-02-19 16:40:58",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Nvidia",
+      "url": "https://marketplace.nvidia.com/en-us/enterprise/partners/",
       "query": "NVIDIA Corporation suppliers manufacturers",
-      "snippet": "16 hours ago - In August 2025, Nvidia ordered ... due to security concerns. The company directed suppliers including Taiwan Semiconductor Manufacturin"
+      "snippet": "Know about NVIDIA partners – cloud, data center provider, distributor, global systems integrator, independent software vendor, OEM, and many more part"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://medium.com/@farrago_course0f/exploring-the-key-companies-supplying-nvidia-a-comprehensive-overview-ebc639dd1d99",
+      "url": "https://csimarket.com/stocks/NVDA-Suppliers",
       "query": "NVIDIA Corporation suppliers manufacturers",
-      "snippet": "February 16, 2024 - Samsung Electronics plays a pivotal role in NVIDIA’s supply chain, contributing to the fabrication of GPU chips and memory compone"
+      "snippet": "Nov 20, 2025 · Nvidia supply chain, list and performance of Nvidias' suppliers - CSIMarket"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.investing.com/equities/nvidia-corp",
+      "url": "https://www.nvidia.com/en-us/lp/executive-insights/customer-stories/",
       "query": "NVIDIA Corporation major customers clients",
-      "snippet": "View today's NVIDIA Corporation stock price and latest NVDA news and analysis. Create real-time notifications to follow any changes in the live stock "
+      "snippet": "Customer: Moët Hennessy, The Coca-Cola Company, Beiersdorf. Product: NVIDIA Omniverse Enterprise, NVIDIA RTX Workstation, NVIDIA AI Enterprise."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.tradingview.com/symbols/NASDAQ-NVDA/",
+      "url": "https://finance.yahoo.com/news/nvidias-biggest-customers-095700428.html",
       "query": "NVIDIA Corporation major customers clients",
-      "snippet": "View live NVIDIA Corporation chart to track its stock's price action. Find market predictions, NVDA financials and market news."
+      "snippet": "Jun 26, 2025 · Nvidia has amassed an impressive list of customers, which includes top AI developers like Amazon, Microsoft, and Alphabet. Nvidia's cus"
     }
   ]
 }

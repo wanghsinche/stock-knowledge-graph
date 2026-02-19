@@ -11,11 +11,11 @@
     "MU"
   ],
   "downstream": [
-    "CSCO",
-    "DELL",
-    "HPQ",
     "AMZN",
-    "MSFT"
+    "MSFT",
+    "GOOGL",
+    "CSCO",
+    "DELL"
   ],
   "competitors": [
     "QCOM",
@@ -25,13 +25,13 @@
     "MediaTek"
   ],
   "key_products": [
-    "Wi‑Fi chips",
-    "Ethernet controllers",
-    "5G modems",
-    "Broadband chips",
-    "Storage controllers"
+    "Broadcom 7000 Series Ethernet Controllers",
+    "Wi‑Fi and Bluetooth SoCs",
+    "Broadband Modems",
+    "Data Center Networking ASICs",
+    "Storage Controllers"
   ],
-  "extracted_at": "2026-02-19 14:31:34",
+  "extracted_at": "2026-02-19 16:43:27",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,13 +43,13 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Broadcom",
       "query": "Broadcom Inc. suppliers manufacturers",
-      "snippet": "Broadcom Inc . is an American multinational designer, developer, manufacturer , and global supplier of a wide range of semiconductor and infrastructur"
+      "snippet": "Broadcom Inc. is an American multinational designer, developer, manufacturer, and global supplier of a wide range of semiconductor and infrastructure "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/AVGO-Suppliers",
+      "url": "https://www.broadcom.com/products",
       "query": "Broadcom Inc. suppliers manufacturers",
-      "snippet": "Broadcom Inc supply chain, list and performance of Broadcom Incs ' suppliers - CSIMarket."
+      "snippet": "Designed for today's enterprise, cloud, and data center environments, Broadcom is a leading supplier of Ethernet switching & routing merchant silicon,"
     },
     {
       "source": "DuckDuckGo",
@@ -59,9 +59,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/AVGO-Customers",
+      "url": "https://www.broadcom.com/case-studies",
       "query": "Broadcom Inc. major customers clients",
-      "snippet": "Broadcom Inc customers and markets, results by customer and performance relative to AVGO, by company and industry - CSIMarket"
+      "snippet": "Broadcom solutions empower our customers success. Power your future with Broadcom."
     }
   ]
 }

@@ -3,11 +3,35 @@
   "company_name": "Carvana Co.",
   "sector": "Consumer Cyclical",
   "industry": "Auto & Truck Dealerships",
-  "upstream": [],
-  "downstream": [],
-  "competitors": [],
-  "key_products": [],
-  "extracted_at": "2026-02-19 14:33:03",
+  "upstream": [
+    "Private individual sellers",
+    "Trade‑in customers",
+    "Auto auctions",
+    "Dealer consignments",
+    "Vehicle salvage yards"
+  ],
+  "downstream": [
+    "Individual consumers",
+    "Corporate fleet buyers",
+    "Rental companies",
+    "Car leasing companies",
+    "Insurance companies"
+  ],
+  "competitors": [
+    "CarMax",
+    "Vroom",
+    "Shift",
+    "DriveTime",
+    "AutoTrader"
+  ],
+  "key_products": [
+    "Used cars sold online",
+    "Car vending machines",
+    "Home delivery service",
+    "Financing and insurance options",
+    "CarCare maintenance service"
+  ],
+  "extracted_at": "2026-02-19 16:41:53",
   "sources": [
     {
       "source": "Wikipedia",
@@ -17,15 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/CVNA-Suppliers",
+      "url": "https://en.wikipedia.org/wiki/Carvana",
       "query": "Carvana Co. suppliers manufacturers",
-      "snippet": "Sources: Carvana Co 's official press releases and regulatory filings; CSIMarket.com's supply-chain research; and the financial filings and press rele"
+      "snippet": "Carvana Co . is an online used car retailer based in Tempe, Arizona. Carvana was named to the 2021 Fortune 500 list, one of the youngest companies to "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.financecharts.com/stocks/CVNA/profile",
+      "url": "https://www.carvana.com/",
       "query": "Carvana Co. suppliers manufacturers",
-      "snippet": "Carvana Co. is a holding company and an eCommerce platform, which engages in the buying and selling of used cars. The company is headquartered in Temp"
+      "snippet": "Tempe-based car company Carvana ."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/Carvana",
+      "query": "Carvana Co. major customers clients",
+      "snippet": "Carvana Co . is an online used car retailer based in Tempe, Arizona. Carvana was named to the 2021 Fortune 500 list, one of the youngest companies to "
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.carvana.com/",
+      "query": "Carvana Co. major customers clients",
+      "snippet": "Carvana Carvana Carvana provides a unique online car buying and selling..."
     }
   ]
 }

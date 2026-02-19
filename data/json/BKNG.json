@@ -4,18 +4,18 @@
   "sector": "Consumer Cyclical",
   "industry": "Travel Services",
   "upstream": [
-    "Hotel property owners",
-    "Airlines",
-    "Car rental companies",
-    "CAT",
-    "Cloud service providers"
+    "AMZN",
+    "MSFT",
+    "GOOGL",
+    "Stripe",
+    "PayPal"
   ],
   "downstream": [
-    "Individual travelers",
-    "Corporate travel managers",
-    "Travel agencies",
-    "Online travel agencies (OTAs)",
-    "Travel agency partners"
+    "Hotels",
+    "Airlines",
+    "Car Rental Companies",
+    "Travel Agencies",
+    "Corporate Travel Departments"
   ],
   "competitors": [
     "Expedia Group",
@@ -25,13 +25,13 @@
     "Kayak"
   ],
   "key_products": [
-    "Online booking platform",
-    "Mobile app",
-    "Travel search engine",
-    "Travel management services",
-    "Advertising solutions"
+    "Hotel Booking Platform",
+    "Flight Booking Platform",
+    "Car Rental Booking",
+    "Vacation Package Booking",
+    "Mobile App"
   ],
-  "extracted_at": "2026-02-19 14:35:16",
+  "extracted_at": "2026-02-19 16:44:12",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,25 +43,25 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Booking_Holdings",
       "query": "Booking Holdings Inc. suppliers manufacturers",
-      "snippet": "Booking Holdings Inc. is an American travel technology company based in Norwalk, Connecticut, that owns and operates several travel fare aggregators a"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.bookingholdings.com/",
-      "query": "Booking Holdings Inc. suppliers manufacturers",
-      "snippet": "Booking Holdings is the world's leader in online travel. Brands include Booking.com, priceline.com, agoda.com, Kayak, Rentalcars.com & OpenTable. Miss"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Booking_Holdings",
-      "query": "Booking Holdings Inc. major customers clients",
       "snippet": "Booking Holdings Inc. is an American travel technology company incorporated under Delaware General Corporation Law. It is located on 800 Connecticut A"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/BKNG-Customers",
+      "url": "https://csimarket.com/stocks/BKNG-Suppliers",
+      "query": "Booking Holdings Inc. suppliers manufacturers",
+      "snippet": "Sources: Booking Holdings Inc 's official press releases and regulatory filings; CSIMarket.com's supply-chain research; and the financial filings and "
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.bookingholdings.com/",
       "query": "Booking Holdings Inc. major customers clients",
-      "snippet": "Booking Holdings Inc customers and markets, results by customer and performance relative to BKNG, by company and industry - CSIMarket"
+      "snippet": "Booking Holdings is the world's leader in online travel. Brands include Booking.com, priceline.com, agoda.com, Kayak, Rentalcars.com & OpenTable. Miss"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://markets.financialcontent.com/stocks/article/finterra-2026-2-19-the-connected-giant-a-deep-dive-into-booking-holdings-inc-bkng-in-2026",
+      "query": "Booking Holdings Inc. major customers clients",
+      "snippet": "2 hours ago · Booking Holdings operates a diversified portfolio of brands including Booking.com, Priceline, Agoda, Rentalcars.com, KAYAK, and OpenTabl"
     }
   ]
 }

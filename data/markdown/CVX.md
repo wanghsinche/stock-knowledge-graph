@@ -3,7 +3,7 @@ ticker: CVX
 company: Chevron Corporation
 sector: Energy
 industry: Oil & Gas Integrated
-extracted_at: 2026-02-19 14:45:16
+extracted_at: 2026-02-19 16:46:53
 last_updated: 2026-02-19
 ---
 
@@ -12,23 +12,23 @@ last_updated: 2026-02-19
 ## 基本信息
 
 - **所属行业**: Energy / Oil & Gas Integrated
-- **提取时间**: 2026-02-19 14:45:16
+- **提取时间**: 2026-02-19 16:46:53
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Halliburton]]
+- [[Chevron Phillips Chemical]]
+- [[Chevron Supply and Trading]]
 - [[Schlumberger]]
 - [[Baker Hughes]]
-- [[Emerson Electric]]
-- [[CAT]]
+- [[Halliburton]]
 
 ### 下游客户
-- [[American Airlines]]
-- [[Delta Air Lines]]
-- [[Dow Chemical]]
-- [[BASF]]
-- [[Chevron Retail Fuel Stations]]
+- [[Shell]]
+- [[BP]]
+- [[TotalEnergies]]
+- [[Sinopec]]
+- [[PetroChina]]
 
 ### 竞争对手
 - [[ExxonMobil]]
@@ -38,17 +38,17 @@ last_updated: 2026-02-19
 - [[ConocoPhillips]]
 
 ### 核心产品
-- [[Crude Oil]]
-- [[Natural Gas]]
-- [[Refined Petroleum Products (Gasoline, Diesel, Jet Fuel)]]
-- [[Petrochemicals]]
-- [[Liquefied Natural Gas (LNG)]]
+- [[Crude oil]]
+- [[Natural gas]]
+- [[Refined petroleum products (gasoline, diesel, jet fuel)]]
+- [[Petrochemicals (ethylene, propylene)]]
+- [[Liquefied natural gas (LNG)]]
 
 ## 数据来源
 
 - [Chevron Corporation](https://en.wikipedia.org/wiki/Chevron_Corporation)
-- [Chevron Corporation suppliers manufacturers](https://en.wikipedia.org/wiki/Chevron_Corporation)
-- [Chevron Corporation suppliers manufacturers](https://ru.wikipedia.org/wiki/Chevron)
+- [Chevron Corporation suppliers manufacturers](https://www.cpchem.com/who-we-are/suppliers/general-suppliers)
+- [Chevron Corporation suppliers manufacturers](https://www.chevron.com/what-we-do/energy/supply-and-trading)
 - [Chevron Corporation major customers clients](https://en.wikipedia.org/wiki/Chevron_Corporation)
 - [Chevron Corporation major customers clients](https://csimarket.com/stocks/CVX-Customers)
 

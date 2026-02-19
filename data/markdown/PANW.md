@@ -1,9 +1,9 @@
 ---
 ticker: PANW
 company: Palo Alto Networks, Inc.
-sector: Technology / Software - Infrastructure
-industry: Cybersecurity
-extracted_at: 2026-02-19 14:31:54
+sector: Technology
+industry: Software - Infrastructure
+extracted_at: 2026-02-19 16:45:45
 last_updated: 2026-02-19
 ---
 
@@ -11,46 +11,42 @@ last_updated: 2026-02-19
 
 ## 基本信息
 
-- **所属行业**: Technology / Software - Infrastructure / Cybersecurity
-- **提取时间**: 2026-02-19 14:31:54
+- **所属行业**: Technology / Software - Infrastructure
+- **提取时间**: 2026-02-19 16:45:45
 
 ## 产业链关系
 
 ### 上游供应商
-- [[INTC]]
-- [[AMD]]
-- [[NVDA]]
-- [[MSFT]]
-- [[AMZN]]
+- [[Silicon (semiconductor manufacturers)]]
 
 ### 下游客户
-- [[Fortune 100 enterprises]]
-- [[U.S. Department of Defense]]
-- [[Major financial institutions (e.g., JPMorgan Chase, Bank of America)]]
-- [[Healthcare providers]]
-- [[CAT]]
+- [[ADT]]
+- [[Westfield]]
+- [[Fortune 100 companies]]
+- [[Government agencies]]
+- [[Financial institutions]]
 
 ### 竞争对手
 - [[CSCO]]
 - [[Fortinet]]
 - [[Check Point Software Technologies]]
 - [[JNPR]]
-- [[CrowdStrike]]
+- [[Sophos]]
 
 ### 核心产品
-- [[PAN-OS (firewall operating system)]]
 - [[Next‑Generation Firewall]]
-- [[Prisma Cloud]]
-- [[Cortex XDR]]
-- [[GlobalProtect]]
+- [[Cloud Security (CNAPP)]]
+- [[Endpoint Protection]]
+- [[Threat Intelligence (Unit 42)]]
+- [[Secure Access Service Edge (SASE)]]
 
 ## 数据来源
 
 - [Palo Alto Networks](https://en.wikipedia.org/wiki/Palo_Alto_Networks,_Inc.)
 - [Palo Alto Networks, Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/Silicon_Valley)
 - [Palo Alto Networks, Inc. suppliers manufacturers](https://www.paloaltonetworks.com/)
-- [Palo Alto Networks, Inc. major customers clients](https://habr.com/ru/companies/mws/articles/280866/)
-- [Palo Alto Networks, Inc. major customers clients](https://github.com/PaloAltoNetworks)
+- [Palo Alto Networks, Inc. major customers clients](https://www.paloaltonetworks.com/customers)
+- [Palo Alto Networks, Inc. major customers clients](https://csimarket.com/stocks/PANW-Customers)
 
 ## 元数据
 

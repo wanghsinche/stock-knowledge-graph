@@ -5,17 +5,17 @@
   "industry": "Banks - Diversified",
   "upstream": [
     "ORCL",
-    "MSFT",
     "IBM",
-    "AMZN",
-    "Bloomberg"
+    "MSFT",
+    "SAP",
+    "Accenture"
   ],
   "downstream": [
-    "Retail consumers",
-    "Small and medium enterprises",
+    "Retail banking customers",
+    "Small businesses",
     "Large corporations",
-    "Government agencies",
-    "Institutional investors"
+    "Institutional investors",
+    "Mortgage borrowers"
   ],
   "competitors": [
     "JPMorgan Chase",
@@ -26,12 +26,12 @@
   ],
   "key_products": [
     "Consumer banking",
-    "Corporate banking",
-    "Investment banking",
+    "Mortgage loans",
+    "Credit cards",
     "Wealth management",
-    "Credit cards"
+    "Investment banking"
   ],
-  "extracted_at": "2026-02-19 14:47:00",
+  "extracted_at": "2026-02-19 16:45:11",
   "sources": [
     {
       "source": "Wikipedia",
@@ -53,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://newsroom.bankofamerica.com/content/newsroom/company-overview/bank-of-america-fast-facts.html",
+      "url": "https://en.wikipedia.org/wiki/Bank_of_America",
       "query": "Bank of America Corporation major customers clients",
-      "snippet": "Jan 14, 2026 · Explore Bank of America Fast Facts for key insights on our global presence, financial services, client reach, and commitment to respons"
+      "snippet": "It serves about 10 percent of all American bank deposits, in direct competition with JPMorgan Chase, Citigroup, and Wells Fargo. Its primary financial"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/BAC-Customers",
+      "url": "https://newsroom.bankofamerica.com/content/newsroom/company-overview/bank-of-america-fast-facts.html",
       "query": "Bank of America Corporation major customers clients",
-      "snippet": "1 day ago · Bank Of America customers and markets, results by customer and performance relative to BAC, by company and industry - CSIMarket"
+      "snippet": "We serve approximately 70 million clients, institutional investor, medium and large corporate clients globally. Missing: major | Show results with: ma"
     }
   ]
 }

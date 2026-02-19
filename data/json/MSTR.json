@@ -1,37 +1,37 @@
 {
   "ticker": "MSTR",
-  "company_name": "Strategy Inc",
-  "sector": "Technology / Software - Application",
-  "industry": "Business Intelligence & Analytics",
+  "company_name": "MicroStrategy Incorporated",
+  "sector": "Technology",
+  "industry": "Software - Application",
   "upstream": [
-    "AMZN",
     "MSFT",
+    "AMZN",
     "GOOGL",
-    "DELL",
-    "IBM"
+    "ORCL",
+    "Data vendors (e.g., Bloomberg, Thomson Reuters)"
   ],
   "downstream": [
-    "Financial services firms (e.g., JPMorgan Chase, Goldman Sachs)",
-    "Government agencies (e.g., U.S. Department of Defense, U.S. Treasury)",
-    "Retail and consumer goods companies (e.g., Walmart, Procter & Gamble)",
-    "Healthcare organizations (e.g., UnitedHealth Group, Mayo Clinic)",
-    "CAT"
+    "Financial services firms",
+    "Retail and consumer goods companies",
+    "Manufacturing enterprises",
+    "Healthcare providers",
+    "Government agencies"
   ],
   "competitors": [
-    "CRM",
-    "MSFT",
+    "Tableau",
     "Qlik",
-    "GOOGL",
-    "Sisense"
+    "MSFT",
+    "Looker",
+    "SAP BusinessObjects"
   ],
   "key_products": [
     "MicroStrategy Desktop",
-    "MicroStrategy Cloud",
+    "MicroStrategy Web",
     "MicroStrategy Mobile",
-    "MicroStrategy Analytics Platform",
-    "MicroStrategy AI & Semantic Modeling"
+    "MicroStrategy Analytics",
+    "MicroStrategy Cloud"
   ],
-  "extracted_at": "2026-02-19 14:40:17",
+  "extracted_at": "2026-02-19 16:49:02",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.strategy.com/press/strategy-announces-legal-name-change-from-microstrategy-incorporated-to-strategy-inc_08-14-2025",
+      "url": "https://www.strategyinc.net/",
       "query": "Strategy Inc suppliers manufacturers",
-      "snippet": "August 14, 2025 Strategy Announces Legal Name Change from MicroStrategy Incorporated to Strategy Inc Press Release • August 14, 2025"
+      "snippet": "Strategy Inc . provides medical device consulting services to venture capitalists, emerging technology companies , law firms specializing in emerging "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.strategyinc.net/about-us/",
+      "url": "https://www.linkedin.com/company/strategyinc",
       "query": "Strategy Inc suppliers manufacturers",
-      "snippet": "At Strategy Inc . our seasoned medical device consultants provide an extensive range of due diligence services to support life sciences investment and"
+      "snippet": "Strategy Inc ., www.strategyinc.net, a global lifescience business intelligence company, offers a full suite of strategic medical device business cons"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/MicroStrategy",
       "query": "Strategy Inc major customers clients",
-      "snippet": "Strategy Inc., formerly known as MicroStrategy, is an American company that provides business intelligence (BI) and mobile software. Founded in 1989 b"
+      "snippet": "Strategy Inc ., formerly known as MicroStrategy, is an American company that provides business intelligence (BI) and mobile software. Founded in 1989 "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.strategy.com/press/strategy-recognized-customers-choice-gartner-peer-insights-through-user-feedback-for-fourth-consecutive-year_12-11-2025",
+      "url": "https://www.inc.com/",
       "query": "Strategy Inc major customers clients",
-      "snippet": "Dec 11, 2025 · Strategy, a pioneer in AI-powered data analytics and semantic modeling, is one of only four vendors named as a Customers' Choice in the"
+      "snippet": "Inc . media is the entrepreneurs source for ideas, resources and advice on how to successfully start, run and grow your business. Inc . Premium. Onboa"
     }
   ]
 }

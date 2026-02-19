@@ -3,7 +3,7 @@ ticker: CRM
 company: Salesforce, Inc.
 sector: Technology
 industry: Software - Application
-extracted_at: 2026-02-19 14:45:52
+extracted_at: 2026-02-19 16:48:16
 last_updated: 2026-02-19
 ---
 
@@ -12,7 +12,7 @@ last_updated: 2026-02-19
 ## 基本信息
 
 - **所属行业**: Technology / Software - Application
-- **提取时间**: 2026-02-19 14:45:52
+- **提取时间**: 2026-02-19 16:48:16
 
 ## 产业链关系
 
@@ -20,35 +20,35 @@ last_updated: 2026-02-19
 - [[AMZN]]
 - [[MSFT]]
 - [[GOOGL]]
-- [[DELL]]
-- [[CSCO]]
+- [[ORCL]]
+- [[IBM]]
 
 ### 下游客户
-- [[ADBE]]
-- [[American Express]]
-- [[Boeing]]
+- [[AMZN]]
+- [[AAPL]]
 - [[Coca‑Cola]]
-- [[Walmart]]
+- [[005930.KS]]
+- [[Toyota Motor Corporation]]
 
 ### 竞争对手
 - [[MSFT]]
+- [[SAP SuccessFactors]]
 - [[ORCL]]
-- [[SAP Sales Cloud]]
 - [[HubSpot]]
-- [[Zoho CRM]]
+- [[ADBE]]
 
 ### 核心产品
 - [[Sales Cloud]]
 - [[Service Cloud]]
 - [[Marketing Cloud]]
-- [[Commerce Cloud]]
 - [[Einstein AI]]
+- [[Tableau]]
 
 ## 数据来源
 
 - [Salesforce](https://en.wikipedia.org/wiki/Salesforce,_Inc.)
 - [Salesforce, Inc. suppliers manufacturers](https://www.salesforce.com/company/our-brands/)
-- [Salesforce, Inc. suppliers manufacturers](https://www.zoominfo.com/tech/713/salesforce-tech-by-revenue)
+- [Salesforce, Inc. suppliers manufacturers](https://brandsownedby.com/what-companies-does-salesforce-own/)
 - [Salesforce, Inc. major customers clients](https://www.ibirdsservices.com/how-many-companies-use-salesforce-stats-growth-report/)
 - [Salesforce, Inc. major customers clients](https://www.salesforce.com/customer-stories/)
 

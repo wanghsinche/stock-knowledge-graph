@@ -4,34 +4,34 @@
   "sector": "Consumer Cyclical",
   "industry": "Internet Retail",
   "upstream": [
-    "INTC",
-    "AMD",
-    "NVDA",
-    "DELL",
-    "HPQ"
+    "Book publishers",
+    "Electronics manufacturers",
+    "Third‑party sellers",
+    "Logistics and fulfillment partners",
+    "Digital content providers"
   ],
   "downstream": [
-    "NFLX",
-    "Airbnb",
-    "ADBE",
-    "005930.KS",
-    "MSFT"
+    "AMZN",
+    "AMZN",
+    "AMZN",
+    "AMZN",
+    "Retail consumers worldwide"
   ],
   "competitors": [
     "Walmart",
+    "Alibaba Group",
     "eBay",
-    "Alibaba",
     "Shopify",
     "Target"
   ],
   "key_products": [
-    "Amazon.com (e‑commerce)",
-    "Amazon Web Services (cloud)",
-    "Amazon Prime (subscription)",
-    "Amazon Alexa (voice assistant)",
-    "Amazon Kindle (e‑reader)"
+    "Amazon.com e‑commerce platform",
+    "Amazon Prime subscription",
+    "Amazon Web Services (cloud computing)",
+    "Amazon Echo (Alexa devices)",
+    "Amazon Kindle (e‑books & tablets)"
   ],
-  "extracted_at": "2026-02-19 14:28:47",
+  "extracted_at": "2026-02-19 16:42:05",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Apple_Inc.",
+      "url": "https://d39w7f4ix9f5s9.cloudfront.net/cb/19/77dfc5b441c892cd6e2be166ba70/final-amazon-supplier-list-2019-11-14-updated-1005am.pdf",
       "query": "Amazon.com, Inc. suppliers manufacturers",
-      "snippet": "Apple Inc . is an American multinational technology company headquartered in Cupertino, California, in Silicon Valley, best known for its consumer ele"
+      "snippet": "Nov 14, 2019 · Amazon Supplier List Amazon is strongly committed to conducting its business in a lawful and ethical manner, including engaging with su"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ir.aboutamazon.com/",
+      "url": "https://bigframe.net/who-are-amazons-main-suppliers/",
       "query": "Amazon.com, Inc. suppliers manufacturers",
-      "snippet": "Amazon . com , Inc . (NASDAQ: AMZN) today announced financial results for its second quarter ended June 30, 2025. Net sales increased 13% to $167.7 bi"
+      "snippet": "Oct 6, 2023 · In conclusion, Amazon’s main suppliers include a mix of large corporations, third-party sellers, and manufacturers for its own brands. T"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ir.aboutamazon.com/",
+      "url": "https://en.wikipedia.org/wiki/Amazon_(company)",
       "query": "Amazon.com, Inc. major customers clients",
-      "snippet": "Amazon . com , Inc . (NASDAQ: AMZN) today announced financial results for its second quarter ended June 30, 2025. Net sales increased 13% to $167.7 bi"
+      "snippet": "4 days ago - Amazon Flex, a smartphone app that enables individuals to act as independent contractors, delivering packages to customers from personal "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.amazon.com/s?k=...",
+      "url": "https://aws.amazon.com/about-aws/our-customers-and-partners/",
       "query": "Amazon.com, Inc. major customers clients",
-      "snippet": "Reach customers wherever they spend their time. 6pm. Score deals on fashion brands."
+      "snippet": "1 week ago - Netflix delivers award-winning entertainment to hundreds of millions of viewers worldwide, using the cloud for global content delivery an"
     }
   ]
 }

@@ -3,7 +3,7 @@ ticker: INTC
 company: Intel Corporation
 sector: Technology
 industry: Semiconductors
-extracted_at: 2026-02-19 14:34:31
+extracted_at: 2026-02-19 16:43:52
 last_updated: 2026-02-19
 ---
 
@@ -12,45 +12,45 @@ last_updated: 2026-02-19
 ## 基本信息
 
 - **所属行业**: Technology / Semiconductors
-- **提取时间**: 2026-02-19 14:34:31
+- **提取时间**: 2026-02-19 16:43:52
 
 ## 产业链关系
 
 ### 上游供应商
-- [[AMAT]]
-- [[ASML]]
-- [[LRCX]]
-- [[Tokyo Electron]]
-- [[KLA]]
+- [[TSM]]
+- [[005930.KS]]
+- [[GlobalFoundries]]
+- [[ASE Group]]
+- [[MU]]
 
 ### 下游客户
 - [[DELL]]
 - [[HPQ]]
-- [[Lenovo]]
+- [[Lenovo Group]]
 - [[AAPL]]
-- [[AMZN]]
+- [[MSFT]]
 
 ### 竞争对手
 - [[AMD]]
 - [[NVDA]]
 - [[QCOM]]
+- [[AVGO]]
 - [[005930.KS]]
-- [[TSM]]
 
 ### 核心产品
-- [[Intel Core i7/i9]]
-- [[Intel Xeon]]
-- [[Intel Atom]]
-- [[Intel Pentium]]
-- [[Intel 10nm process chips]]
+- [[Intel Core CPUs]]
+- [[Intel Xeon CPUs]]
+- [[Intel Arc GPUs]]
+- [[Intel FPGAs]]
+- [[Intel AI Accelerators]]
 
 ## 数据来源
 
 - [Intel](https://en.wikipedia.org/wiki/Intel_Corporation)
-- [Intel Corporation suppliers manufacturers](https://en.wikipedia.org/wiki/List_of_Intel_manufacturing_sites)
+- [Intel Corporation suppliers manufacturers](https://en.wikipedia.org/wiki/Intel)
 - [Intel Corporation suppliers manufacturers](https://www.intel.com/content/www/us/en/supplier/overview.html)
 - [Intel Corporation major customers clients](https://en.wikipedia.org/wiki/Intel)
-- [Intel Corporation major customers clients](https://www.intel.com/)
+- [Intel Corporation major customers clients](https://finance.yahoo.com/news/intels-break-foundry-moment-arrives-135500944.html)
 
 ## 元数据
 

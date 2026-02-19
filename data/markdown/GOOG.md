@@ -3,7 +3,7 @@ ticker: GOOG
 company: Alphabet Inc.
 sector: Communication Services
 industry: Internet Content & Information
-extracted_at: 2026-02-19 14:31:00
+extracted_at: 2026-02-19 16:44:04
 last_updated: 2026-02-19
 ---
 
@@ -12,36 +12,36 @@ last_updated: 2026-02-19
 ## 基本信息
 
 - **所属行业**: Communication Services / Internet Content & Information
-- **提取时间**: 2026-02-19 14:31:00
+- **提取时间**: 2026-02-19 16:44:04
 
 ## 产业链关系
 
 ### 上游供应商
-- [[TSM]]
 - [[INTC]]
-- [[005930.KS]]
-- [[SONY]]
 - [[QCOM]]
+- [[005930.KS]]
+- [[TSM]]
+- [[Foxconn]]
 
 ### 下游客户
 - [[Advertisers]]
-- [[GOOGL]]
-- [[App developers (Android)]]
-- [[Content creators (YouTube)]]
-- [[Device manufacturers (OEMs)]]
+- [[App developers]]
+- [[Enterprise customers]]
+- [[Consumers]]
+- [[OEM device manufacturers]]
 
 ### 竞争对手
 - [[MSFT]]
 - [[AMZN]]
-- [[META]]
 - [[AAPL]]
+- [[META]]
 - [[Tencent]]
 
 ### 核心产品
 - [[Google Search]]
 - [[YouTube]]
-- [[Google Cloud]]
 - [[Android]]
+- [[Google Cloud]]
 - [[Google Ads]]
 
 ## 数据来源
@@ -49,8 +49,8 @@ last_updated: 2026-02-19
 - [Alphabet Inc.](https://en.wikipedia.org/wiki/Alphabet_Inc.)
 - [Alphabet Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/Alphabet_Inc.)
 - [Alphabet Inc. suppliers manufacturers](https://csimarket.com/stocks/GOOG-Suppliers)
-- [Alphabet Inc. major customers clients](https://en.wikipedia.org/wiki/Alphabet_Inc.)
-- [Alphabet Inc. major customers clients](https://seekingalpha.com/article/4862619-alphabet-big-rally-ranking-the-magnificent-7)
+- [Alphabet Inc. major customers clients](https://csimarket.com/stocks/GOOGL-Customers)
+- [Alphabet Inc. major customers clients](https://swottemplate.com/blogs/target-market/abc-target-market)
 
 ## 元数据
 

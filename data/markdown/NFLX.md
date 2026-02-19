@@ -1,9 +1,9 @@
 ---
 ticker: NFLX
 company: Netflix, Inc.
-sector: Communication Services
-industry: Entertainment
-extracted_at: 2026-02-19 14:36:32
+sector: Communication Services / Entertainment
+industry: Streaming Media
+extracted_at: 2026-02-19 16:47:46
 last_updated: 2026-02-19
 ---
 
@@ -11,38 +11,38 @@ last_updated: 2026-02-19
 
 ## 基本信息
 
-- **所属行业**: Communication Services / Entertainment
-- **提取时间**: 2026-02-19 14:36:32
+- **所属行业**: Communication Services / Entertainment / Streaming Media
+- **提取时间**: 2026-02-19 16:47:46
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Content production studios]]
-- [[Film and television production companies]]
-- [[Cloud service providers]]
-- [[Technology hardware suppliers]]
-- [[Marketing and advertising agencies]]
+- [[AMZN]]
+- [[GOOGL]]
+- [[MSFT]]
+- [[Disney]]
+- [[Warner Bros. Discovery]]
 
 ### 下游客户
-- [[Individual subscribers]]
-- [[Corporate subscription services]]
-- [[International streaming markets]]
-- [[Device manufacturers (e.g., smart TVs)]]
-- [[Content distribution platforms]]
+- [[US households]]
+- [[Global subscribers]]
+- [[Smart TV users]]
+- [[Mobile users]]
+- [[Internet users]]
 
 ### 竞争对手
 - [[Disney+]]
-- [[AMZN]]
 - [[Hulu]]
+- [[AMZN]]
 - [[HBO Max]]
 - [[AAPL]]
 
 ### 核心产品
-- [[Over-the-top streaming service]]
-- [[Original series and films]]
-- [[Licensed TV shows]]
-- [[Mobile and web applications]]
-- [[Interactive content]]
+- [[Netflix streaming service]]
+- [[Original series]]
+- [[Movies]]
+- [[Documentaries]]
+- [[Kids content]]
 
 ## 数据来源
 

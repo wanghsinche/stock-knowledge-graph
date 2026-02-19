@@ -3,7 +3,7 @@ ticker: AVGO
 company: Broadcom Inc.
 sector: Technology
 industry: Semiconductors
-extracted_at: 2026-02-19 14:31:34
+extracted_at: 2026-02-19 16:43:27
 last_updated: 2026-02-19
 ---
 
@@ -12,7 +12,7 @@ last_updated: 2026-02-19
 ## 基本信息
 
 - **所属行业**: Technology / Semiconductors
-- **提取时间**: 2026-02-19 14:31:34
+- **提取时间**: 2026-02-19 16:43:27
 
 ## 产业链关系
 
@@ -24,11 +24,11 @@ last_updated: 2026-02-19
 - [[MU]]
 
 ### 下游客户
-- [[CSCO]]
-- [[DELL]]
-- [[HPQ]]
 - [[AMZN]]
 - [[MSFT]]
+- [[GOOGL]]
+- [[CSCO]]
+- [[DELL]]
 
 ### 竞争对手
 - [[QCOM]]
@@ -38,19 +38,19 @@ last_updated: 2026-02-19
 - [[MediaTek]]
 
 ### 核心产品
-- [[Wi‑Fi chips]]
-- [[Ethernet controllers]]
-- [[5G modems]]
-- [[Broadband chips]]
-- [[Storage controllers]]
+- [[Broadcom 7000 Series Ethernet Controllers]]
+- [[Wi‑Fi and Bluetooth SoCs]]
+- [[Broadband Modems]]
+- [[Data Center Networking ASICs]]
+- [[Storage Controllers]]
 
 ## 数据来源
 
 - [Broadcom](https://en.wikipedia.org/wiki/Broadcom_Inc.)
 - [Broadcom Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/Broadcom)
-- [Broadcom Inc. suppliers manufacturers](https://csimarket.com/stocks/AVGO-Suppliers)
+- [Broadcom Inc. suppliers manufacturers](https://www.broadcom.com/products)
 - [Broadcom Inc. major customers clients](https://en.wikipedia.org/wiki/Broadcom)
-- [Broadcom Inc. major customers clients](https://csimarket.com/stocks/AVGO-Customers)
+- [Broadcom Inc. major customers clients](https://www.broadcom.com/case-studies)
 
 ## 元数据
 

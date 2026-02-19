@@ -3,7 +3,7 @@ ticker: AMAT
 company: Applied Materials, Inc.
 sector: Technology
 industry: Semiconductor Equipment & Materials
-extracted_at: 2026-02-19 14:33:48
+extracted_at: 2026-02-19 16:47:30
 last_updated: 2026-02-19
 ---
 
@@ -12,44 +12,27 @@ last_updated: 2026-02-19
 ## 基本信息
 
 - **所属行业**: Technology / Semiconductor Equipment & Materials
-- **提取时间**: 2026-02-19 14:33:48
+- **提取时间**: 2026-02-19 16:47:30
 
 ## 产业链关系
 
 ### 上游供应商
-- [[ASML]]
-- [[LRCX]]
-- [[Tokyo Electron Limited]]
-- [[KLA Corporation]]
-- [[AMAT]]
+_暂无数据_
 
 ### 下游客户
-- [[INTC]]
-- [[005930.KS]]
-- [[TSM]]
-- [[MU]]
-- [[SK Hynix Inc.]]
+_暂无数据_
 
 ### 竞争对手
-- [[ASML]]
-- [[LRCX]]
-- [[Tokyo Electron Limited]]
-- [[KLA Corporation]]
+_暂无数据_
 
 ### 核心产品
-- [[Deposition equipment]]
-- [[Etching equipment]]
-- [[Lithography equipment]]
-- [[Wafer processing equipment]]
-- [[Chemical Mechanical Planarization (CMP) equipment]]
+_暂无数据_
 
 ## 数据来源
 
 - [Applied Materials](https://en.wikipedia.org/wiki/Applied_Materials,_Inc.)
-- [Applied Materials, Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/ASML_Holding)
+- [Applied Materials, Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/Applied_Materials)
 - [Applied Materials, Inc. suppliers manufacturers](https://www.appliedmaterials.com/)
-- [Applied Materials, Inc. major customers clients](https://ir.appliedmaterials.com/news-releases/news-release-details/applied-materials-joins-apple-and-texas-instruments)
-- [Applied Materials, Inc. major customers clients](https://portersfiveforce.com/blogs/target-market/appliedmaterials)
 
 ## 元数据
 

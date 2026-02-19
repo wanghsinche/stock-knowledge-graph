@@ -1,56 +1,56 @@
 ---
 ticker: MSTR
-company: Strategy Inc
-sector: Technology / Software - Application
-industry: Business Intelligence & Analytics
-extracted_at: 2026-02-19 14:40:17
+company: MicroStrategy Incorporated
+sector: Technology
+industry: Software - Application
+extracted_at: 2026-02-19 16:49:02
 last_updated: 2026-02-19
 ---
 
-# MSTR - Strategy Inc
+# MSTR - MicroStrategy Incorporated
 
 ## 基本信息
 
-- **所属行业**: Technology / Software - Application / Business Intelligence & Analytics
-- **提取时间**: 2026-02-19 14:40:17
+- **所属行业**: Technology / Software - Application
+- **提取时间**: 2026-02-19 16:49:02
 
 ## 产业链关系
 
 ### 上游供应商
-- [[AMZN]]
 - [[MSFT]]
+- [[AMZN]]
 - [[GOOGL]]
-- [[DELL]]
-- [[IBM]]
+- [[ORCL]]
+- [[Data vendors (e.g., Bloomberg, Thomson Reuters)]]
 
 ### 下游客户
-- [[Financial services firms (e.g., JPMorgan Chase, Goldman Sachs)]]
-- [[Government agencies (e.g., U.S. Department of Defense, U.S. Treasury)]]
-- [[Retail and consumer goods companies (e.g., Walmart, Procter & Gamble)]]
-- [[Healthcare organizations (e.g., UnitedHealth Group, Mayo Clinic)]]
-- [[CAT]]
+- [[Financial services firms]]
+- [[Retail and consumer goods companies]]
+- [[Manufacturing enterprises]]
+- [[Healthcare providers]]
+- [[Government agencies]]
 
 ### 竞争对手
-- [[CRM]]
-- [[MSFT]]
+- [[Tableau]]
 - [[Qlik]]
-- [[GOOGL]]
-- [[Sisense]]
+- [[MSFT]]
+- [[Looker]]
+- [[SAP BusinessObjects]]
 
 ### 核心产品
 - [[MicroStrategy Desktop]]
-- [[MicroStrategy Cloud]]
+- [[MicroStrategy Web]]
 - [[MicroStrategy Mobile]]
-- [[MicroStrategy Analytics Platform]]
-- [[MicroStrategy AI & Semantic Modeling]]
+- [[MicroStrategy Analytics]]
+- [[MicroStrategy Cloud]]
 
 ## 数据来源
 
 - 
-- [Strategy Inc suppliers manufacturers](https://www.strategy.com/press/strategy-announces-legal-name-change-from-microstrategy-incorporated-to-strategy-inc_08-14-2025)
-- [Strategy Inc suppliers manufacturers](https://www.strategyinc.net/about-us/)
+- [Strategy Inc suppliers manufacturers](https://www.strategyinc.net/)
+- [Strategy Inc suppliers manufacturers](https://www.linkedin.com/company/strategyinc)
 - [Strategy Inc major customers clients](https://en.wikipedia.org/wiki/MicroStrategy)
-- [Strategy Inc major customers clients](https://www.strategy.com/press/strategy-recognized-customers-choice-gartner-peer-insights-through-user-feedback-for-fourth-consecutive-year_12-11-2025)
+- [Strategy Inc major customers clients](https://www.inc.com/)
 
 ## 元数据
 

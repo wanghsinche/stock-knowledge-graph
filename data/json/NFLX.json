@@ -1,37 +1,37 @@
 {
   "ticker": "NFLX",
   "company_name": "Netflix, Inc.",
-  "sector": "Communication Services",
-  "industry": "Entertainment",
+  "sector": "Communication Services / Entertainment",
+  "industry": "Streaming Media",
   "upstream": [
-    "Content production studios",
-    "Film and television production companies",
-    "Cloud service providers",
-    "Technology hardware suppliers",
-    "Marketing and advertising agencies"
+    "AMZN",
+    "GOOGL",
+    "MSFT",
+    "Disney",
+    "Warner Bros. Discovery"
   ],
   "downstream": [
-    "Individual subscribers",
-    "Corporate subscription services",
-    "International streaming markets",
-    "Device manufacturers (e.g., smart TVs)",
-    "Content distribution platforms"
+    "US households",
+    "Global subscribers",
+    "Smart TV users",
+    "Mobile users",
+    "Internet users"
   ],
   "competitors": [
     "Disney+",
-    "AMZN",
     "Hulu",
+    "AMZN",
     "HBO Max",
     "AAPL"
   ],
   "key_products": [
-    "Over-the-top streaming service",
-    "Original series and films",
-    "Licensed TV shows",
-    "Mobile and web applications",
-    "Interactive content"
+    "Netflix streaming service",
+    "Original series",
+    "Movies",
+    "Documentaries",
+    "Kids content"
   ],
-  "extracted_at": "2026-02-19 14:36:32",
+  "extracted_at": "2026-02-19 16:47:46",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,25 +43,25 @@
       "source": "DuckDuckGo",
       "url": "https://csimarket.com/stocks/income.php?code=NFLX&hist=1044",
       "query": "Netflix, Inc. suppliers manufacturers",
-      "snippet": "Netflix Inc 's Inventory Turnover Ratio. Netflix Inc Executive Officers. Economic Indicators."
+      "snippet": "Netflix Inc Cash Flow Statement. Netflix Inc Geographic Information. Suppliers ."
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.stock-analysis-on.net/NASDAQ/Company/Netflix-Inc",
       "query": "Netflix, Inc. suppliers manufacturers",
-      "snippet": "Netflix financial ratios grouped by activity, liquidity, solvency, and profitability.Analysis of Solvency Ratios. Examines Netflix Inc . capital struc"
+      "snippet": "Netflix financial ratios grouped by activity, liquidity, solvency, and profitability.Examines Netflix Inc . capital structure in terms of the mix of i"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://ir.netflix.net/ir-overview/profile/default.aspx",
       "query": "Netflix, Inc. major customers clients",
-      "snippet": "Netflix is one of the world's leading entertainment services offering TV series, films, games and live programming across a wide variety of genres and"
+      "snippet": "6 days ago · Netflix is one of the world’s leading entertainment services offering TV series, films, games and live programming across a wide variety "
     },
     {
       "source": "DuckDuckGo",
       "url": "https://csimarket.com/stocks/markets_glance.php?code=NFLX",
       "query": "Netflix, Inc. major customers clients",
-      "snippet": "Netflix Inc customers and markets, results by customer and performance relative to NFLX, by company and industry - CSIMarket"
+      "snippet": "Dec 10, 2025 · Netflix Inc customers and markets, results by customer and performance relative to NFLX, by company and industry - CSIMarket"
     }
   ]
 }

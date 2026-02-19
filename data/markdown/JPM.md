@@ -3,7 +3,7 @@ ticker: JPM
 company: JPMorgan Chase & Co.
 sector: Financial Services
 industry: Banks - Diversified
-extracted_at: 2026-02-19 14:40:04
+extracted_at: 2026-02-19 16:49:24
 last_updated: 2026-02-19
 ---
 
@@ -12,23 +12,23 @@ last_updated: 2026-02-19
 ## 基本信息
 
 - **所属行业**: Financial Services / Banks - Diversified
-- **提取时间**: 2026-02-19 14:40:04
+- **提取时间**: 2026-02-19 16:49:24
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Financial technology vendors]]
-- [[Information technology service providers]]
-- [[Office equipment suppliers]]
-- [[Security and surveillance providers]]
-- [[Legal and consulting firms]]
+- [[MSFT]]
+- [[Security and cybersecurity firms]]
+- [[Legal and compliance service providers]]
+- [[Consulting firms (e.g., Accenture, Deloitte)]]
+- [[Office equipment and facility management suppliers]]
 
 ### 下游客户
-- [[Retail banking customers]]
-- [[Corporate and institutional clients]]
-- [[Investment banking and advisory clients]]
-- [[Wealth management and private banking clients]]
+- [[Large corporate clients]]
 - [[Government and public sector entities]]
+- [[Institutional investors (pension funds, mutual funds)]]
+- [[Retail banking customers]]
+- [[Small and medium‑enterprise borrowers]]
 
 ### 竞争对手
 - [[Bank of America]]
@@ -39,10 +39,10 @@ last_updated: 2026-02-19
 
 ### 核心产品
 - [[Retail banking services]]
-- [[Commercial banking and lending]]
-- [[Investment banking and capital markets]]
+- [[Investment banking and advisory]]
 - [[Asset and wealth management]]
-- [[Private banking and trust services]]
+- [[Credit card and consumer lending]]
+- [[Treasury and securities services]]
 
 ## 数据来源
 
@@ -50,7 +50,7 @@ last_updated: 2026-02-19
 - [JPMorgan Chase & Co. suppliers manufacturers](https://www.jpmorganchase.com/about/suppliers)
 - [JPMorgan Chase & Co. suppliers manufacturers](https://csimarket.com/stocks/JPM-Suppliers)
 - [JPMorgan Chase & Co. major customers clients](https://en.wikipedia.org/wiki/JPMorgan_Chase)
-- [JPMorgan Chase & Co. major customers clients](https://www.jpmorganchase.com/about)
+- [JPMorgan Chase & Co. major customers clients](https://www.jpmorganchase.com/content/dam/jpmc/jpmorgan-chase-and-co/investor-relations/documents/events/2025/jpmc-2025-investor-day/consumer-community-banking.pdf)
 
 ## 元数据
 

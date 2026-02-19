@@ -4,34 +4,34 @@
   "sector": "Communication Services",
   "industry": "Internet Content & Information",
   "upstream": [
-    "TSM",
     "INTC",
+    "QCOM",
     "005930.KS",
-    "SONY",
-    "QCOM"
+    "TSM",
+    "Foxconn"
   ],
   "downstream": [
     "Advertisers",
-    "GOOGL",
-    "App developers (Android)",
-    "Content creators (YouTube)",
-    "Device manufacturers (OEMs)"
+    "App developers",
+    "Enterprise customers",
+    "Consumers",
+    "OEM device manufacturers"
   ],
   "competitors": [
     "MSFT",
     "AMZN",
-    "META",
     "AAPL",
+    "META",
     "Tencent"
   ],
   "key_products": [
     "Google Search",
     "YouTube",
-    "Google Cloud",
     "Android",
+    "Google Cloud",
     "Google Ads"
   ],
-  "extracted_at": "2026-02-19 14:31:00",
+  "extracted_at": "2026-02-19 16:44:04",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,25 +43,25 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Alphabet_Inc.",
       "query": "Alphabet Inc. suppliers manufacturers",
-      "snippet": "Alphabet Inc . is an American multinational technology conglomerate holding company headquartered in Mountain View, California . It was created throug"
+      "snippet": "Alphabet Inc . is an American multinational technology conglomerate holding company headquartered in Mountain View, California. It was created through"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://csimarket.com/stocks/GOOG-Suppliers",
       "query": "Alphabet Inc. suppliers manufacturers",
-      "snippet": "Feb 6, 2026 · Alphabet Inc 's Comment on Supply Chain We rely on third parties to manufacture many of our assemblies and finished products, and we hav"
+      "snippet": "Feb 6, 2026 · Sources: Alphabet Inc 's official press releases and regulatory filings; CSIMarket.com's supply-chain research; and the financial filing"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Alphabet_Inc.",
+      "url": "https://csimarket.com/stocks/GOOGL-Customers",
       "query": "Alphabet Inc. major customers clients",
-      "snippet": "Google, Internet services, largest subsidiary and prior corporate entity name, Sundar Pichai ; Google Fiber, Internet access: via fiber, Dinesh Jain ;"
+      "snippet": "Alphabet Inc customers and markets, results by customer and performance relative to GOOGL, by company and industry - CSIMarket"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://seekingalpha.com/article/4862619-alphabet-big-rally-ranking-the-magnificent-7",
+      "url": "https://swottemplate.com/blogs/target-market/abc-target-market",
       "query": "Alphabet Inc. major customers clients",
-      "snippet": "Jan 26, 2026 · For example, its top five end customers (primarily hyperscalers for AI/custom chips) accounted for ~40% of net revenue in FY2025 (per 1"
+      "snippet": "This analysis of Alphabet target market and customer demographics is essential for investors, analysts, and anyone seeking to understand the company's"
     }
   ]
 }

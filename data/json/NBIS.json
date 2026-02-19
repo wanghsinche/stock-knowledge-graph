@@ -1,37 +1,37 @@
 {
   "ticker": "NBIS",
   "company_name": "Nebius Group N.V.",
-  "sector": "Communication Services / Internet Content & Information",
-  "industry": "Artificial Intelligence Infrastructure",
+  "sector": "Communication Services",
+  "industry": "Internet Content & Information",
   "upstream": [
     "NVDA",
-    "AMD",
     "INTC",
-    "AMZN",
-    "MSFT"
+    "AMD",
+    "GOOGL",
+    "AMZN"
   ],
   "downstream": [
+    "Federal Government IT systems",
     "GOOGL",
     "MSFT",
-    "AMZN",
-    "Alibaba",
-    "Tencent"
+    "IBM",
+    "ORCL"
   ],
   "competitors": [
-    "OpenAI",
-    "DeepMind",
-    "Anthropic",
-    "Cohere",
-    "Hugging Face"
+    "NVDA",
+    "INTC",
+    "AMD",
+    "GOOGL",
+    "AMZN"
   ],
   "key_products": [
     "Nebius AI Infrastructure Platform",
-    "Nebius Cloud Services",
-    "Nebius AI Development Tools",
-    "Nebius Data Processing Engine",
-    "Nebius AI Security Suite"
+    "Avride",
+    "TripleTen",
+    "Toloka",
+    "Clickhouse"
   ],
-  "extracted_at": "2026-02-19 14:47:45",
+  "extracted_at": "2026-02-19 16:46:41",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/NBIS/",
+      "url": "https://csimarket.com/stocks/NBIS-Suppliers",
       "query": "NBIS suppliers manufacturers",
-      "snippet": "Nebius Group NV ( NBIS ) Q4 2025 Earnings Call Highlights: Record Growth and Strategic Investments."
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://ru.investing.com/equities/yandex-nv",
-      "query": "NBIS suppliers manufacturers",
-      "snippet": "Акции Nebius Group NV ( NBIS ): курс сегодня, актуальная цена онлайн, графики, мнения, технический анализ, отчеты и другое о Nebius NV."
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Nebius_Group",
-      "query": "NBIS major customers clients",
-      "snippet": "Nebius Group N.V., headquartered in Amsterdam, is a technology company [3] that provides artificial intelligence infrastructure. [4] The company also "
+      "snippet": "Sources: Nebius Group n v 's official press releases and regulatory filings; CSIMarket.com's supply-chain research; and the financial filings and pres"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.dcsa.mil/Systems-Applications/National-Background-Investigation-Services-NBIS/",
+      "query": "NBIS suppliers manufacturers",
+      "snippet": "NBIS is the Federal government's IT system for end-to-end process for personnel vetting. This starts with the initiation and application for a backgro"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.youtube.com/watch?v=USAm2vxULdc",
       "query": "NBIS major customers clients",
-      "snippet": "The purpose of NBIS is to modernize, streamline and secure the entire process to enhance the user experience and provide a reliable and integrated set"
+      "snippet": "Today we break down the Google vs Nvidia AI chip debate that took over the market this week — and what this means for Nebius ( NBIS ) as a preferred N"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.nasdaq.com/market-activity/stocks/nbis",
+      "query": "NBIS major customers clients",
+      "snippet": "ETFs with NBIS as a Top 10 Holding*.Data Disclaimer: The Nasdaq Indices and the Major Indices are delayed at least 1 minute. Real-time Data is provide"
     }
   ]
 }

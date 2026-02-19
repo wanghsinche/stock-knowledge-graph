@@ -1,37 +1,37 @@
 {
   "ticker": "HOOD",
   "company_name": "Robinhood Markets, Inc.",
-  "sector": "Financial Services / Capital Markets",
-  "industry": "Financial Services",
+  "sector": "Financial Services",
+  "industry": "Capital Markets",
   "upstream": [
-    "Bloomberg",
-    "Refinitiv",
-    "Plaid",
-    "Stripe",
-    "AMZN"
+    "AMZN",
+    "MSFT",
+    "Bloomberg L.P. (market data)",
+    "Refinitiv (financial data)",
+    "Stripe (payment processing)"
   ],
   "downstream": [
-    "Retail investors",
-    "Institutional clients",
-    "High-frequency traders",
-    "Crypto traders",
-    "Options traders"
+    "Retail investors using the Robinhood app",
+    "Active traders using the platform’s advanced tools",
+    "Institutional clients accessing API services",
+    "Crypto traders buying and selling digital assets",
+    "Clients subscribing to Robinhood Gold premium service"
   ],
   "competitors": [
     "Charles Schwab",
-    "E*TRADE",
-    "Fidelity",
+    "Fidelity Investments",
     "TD Ameritrade",
+    "E*TRADE",
     "Webull"
   ],
   "key_products": [
-    "Commission-free stock trading",
-    "Margin trading",
-    "Options trading",
+    "Commission‑free stock and ETF trading",
+    "Margin trading and short selling",
+    "Options trading platform",
     "Cryptocurrency trading",
-    "Robinhood Gold"
+    "Robinhood Gold premium subscription"
   ],
-  "extracted_at": "2026-02-19 14:43:34",
+  "extracted_at": "2026-02-19 16:49:39",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,21 +41,21 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Robinhood_Markets",
+      "url": "https://csimarket.com/stocks/HOOD-Suppliers",
       "query": "Robinhood Markets, Inc. suppliers manufacturers",
-      "snippet": "Robinhood Markets , Inc . is an American financial services company based in Menlo Park, California . It provides an electronic trading platform that "
+      "snippet": "Sources: Robinhood Markets Inc 's official press releases and regulatory filings; CSIMarket.com's supply-chain research; and the financial filings and"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/HOOD-Suppliers",
+      "url": "https://investors.robinhood.com/",
       "query": "Robinhood Markets, Inc. suppliers manufacturers",
-      "snippet": "Aug 1, 2025 · Sources: Robinhood Markets Inc 's official press releases and regulatory filings; CSIMarket.com's supply -chain research; and the financ"
+      "snippet": "Robinhood Markets, Inc. Investor relations (IR) website contains information about our business for stockholders, potential investors, and financial a"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Robinhood_Markets",
       "query": "Robinhood Markets, Inc. major customers clients",
-      "snippet": "Robinhood Markets , Inc . is an American financial services company based in Menlo Park, California.In July 2025, Robinhood reported 26.7 million cust"
+      "snippet": "Robinhood Markets , Inc . is an American financial services company based in Menlo Park, California. It provides an electronic trading platform that f"
     },
     {
       "source": "DuckDuckGo",

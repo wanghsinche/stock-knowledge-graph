@@ -1,9 +1,9 @@
 ---
 ticker: NBIS
 company: Nebius Group N.V.
-sector: Communication Services / Internet Content & Information
-industry: Artificial Intelligence Infrastructure
-extracted_at: 2026-02-19 14:47:45
+sector: Communication Services
+industry: Internet Content & Information
+extracted_at: 2026-02-19 16:46:41
 last_updated: 2026-02-19
 ---
 
@@ -11,46 +11,46 @@ last_updated: 2026-02-19
 
 ## 基本信息
 
-- **所属行业**: Communication Services / Internet Content & Information / Artificial Intelligence Infrastructure
-- **提取时间**: 2026-02-19 14:47:45
+- **所属行业**: Communication Services / Internet Content & Information
+- **提取时间**: 2026-02-19 16:46:41
 
 ## 产业链关系
 
 ### 上游供应商
 - [[NVDA]]
-- [[AMD]]
 - [[INTC]]
+- [[AMD]]
+- [[GOOGL]]
 - [[AMZN]]
-- [[MSFT]]
 
 ### 下游客户
+- [[Federal Government IT systems]]
 - [[GOOGL]]
 - [[MSFT]]
-- [[AMZN]]
-- [[Alibaba]]
-- [[Tencent]]
+- [[IBM]]
+- [[ORCL]]
 
 ### 竞争对手
-- [[OpenAI]]
-- [[DeepMind]]
-- [[Anthropic]]
-- [[Cohere]]
-- [[Hugging Face]]
+- [[NVDA]]
+- [[INTC]]
+- [[AMD]]
+- [[GOOGL]]
+- [[AMZN]]
 
 ### 核心产品
 - [[Nebius AI Infrastructure Platform]]
-- [[Nebius Cloud Services]]
-- [[Nebius AI Development Tools]]
-- [[Nebius Data Processing Engine]]
-- [[Nebius AI Security Suite]]
+- [[Avride]]
+- [[TripleTen]]
+- [[Toloka]]
+- [[Clickhouse]]
 
 ## 数据来源
 
 - [Nebius Group](https://en.wikipedia.org/wiki/NBIS)
-- [NBIS suppliers manufacturers](https://finance.yahoo.com/quote/NBIS/)
-- [NBIS suppliers manufacturers](https://ru.investing.com/equities/yandex-nv)
-- [NBIS major customers clients](https://en.wikipedia.org/wiki/Nebius_Group)
-- [NBIS major customers clients](https://www.dcsa.mil/Systems-Applications/National-Background-Investigation-Services-NBIS/)
+- [NBIS suppliers manufacturers](https://csimarket.com/stocks/NBIS-Suppliers)
+- [NBIS suppliers manufacturers](https://www.dcsa.mil/Systems-Applications/National-Background-Investigation-Services-NBIS/)
+- [NBIS major customers clients](https://www.youtube.com/watch?v=USAm2vxULdc)
+- [NBIS major customers clients](https://www.nasdaq.com/market-activity/stocks/nbis)
 
 ## 元数据
 

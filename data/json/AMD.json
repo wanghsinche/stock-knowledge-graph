@@ -7,13 +7,13 @@
     "TSM",
     "005930.KS",
     "GlobalFoundries",
-    "ASE Group",
-    "Amkor Technology"
+    "UMC",
+    "INTC"
   ],
   "downstream": [
     "DELL",
     "HPQ",
-    "Lenovo",
+    "Lenovo Group",
     "SONY",
     "MSFT"
   ],
@@ -22,16 +22,16 @@
     "NVDA",
     "QCOM",
     "AVGO",
-    "AAPL"
+    "005930.KS"
   ],
   "key_products": [
     "Ryzen CPUs",
-    "EPYC server CPUs",
+    "EPYC CPUs",
     "Radeon GPUs",
     "Xilinx FPGAs",
-    "APU (Accelerated Processing Units)"
+    "APU SoCs"
   ],
-  "extracted_at": "2026-02-19 14:30:39",
+  "extracted_at": "2026-02-19 16:43:09",
   "sources": [
     {
       "source": "Wikipedia",
@@ -53,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/AMD-Customers",
+      "url": "https://en.wikipedia.org/wiki/AMD",
       "query": "Advanced Micro Devices, Inc. major customers clients",
-      "snippet": "5 days ago · Advanced Micro Devices Inc customers and markets, results by customer and performance relative to AMD, by company and industry - CSIMarke"
+      "snippet": "Advanced Micro Devices , Inc . Advanced Micro Devices , Inc . ( AMD ) is an American multinational semiconductor company headquartered in Santa Clara,"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/AMD/profile/?fr=sycsrp_catchall",
+      "url": "https://ca.finance.yahoo.com/news/advanced-micro-devices-inc-amd-031830027.html",
       "query": "Advanced Micro Devices, Inc. major customers clients",
-      "snippet": "See the company profile for Advanced Micro Devices, Inc. (AMD ) including business summary, industry/sector information, number of employees, business"
+      "snippet": "Advanced Micro Devices , Inc .'s share was trading at $252.74 as of January 28th. AMD ’s trailing and forward P/E were 131.95 and 39.68 respectively a"
     }
   ]
 }

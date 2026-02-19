@@ -4,22 +4,22 @@
   "sector": "Industrials",
   "industry": "Farm & Heavy Construction Machinery",
   "upstream": [
-    "U.S. Steel",
-    "ArcelorMittal",
-    "Alcoa",
-    "Bosch",
-    "Honeywell"
+    "Cummins Inc. (diesel engines)",
+    "Eaton Corporation (electrical components)",
+    "ArcelorMittal (steel and alloy suppliers)",
+    "BOSCH Rexroth (hydraulic systems)",
+    "Johnson Controls (battery and electronics)"
   ],
   "downstream": [
-    "Construction companies (e.g., Bechtel, Fluor)",
-    "HPQ",
-    "Government and municipal agencies",
-    "Infrastructure developers",
-    "Agricultural cooperatives"
+    "Construction and civil engineering firms",
+    "Mining and quarry operators",
+    "Government and defense agencies",
+    "Infrastructure development companies",
+    "Agricultural equipment distributors"
   ],
   "competitors": [
     "DE",
-    "Komatsu",
+    "Komatsu Ltd.",
     "Volvo Construction Equipment",
     "CNH Industrial",
     "Doosan Infracore"
@@ -28,10 +28,14 @@
     "Excavators",
     "Bulldozers",
     "Wheel loaders",
+    "Backhoes",
     "Mining trucks",
-    "Diesel engines"
+    "Diesel engines",
+    "Generators",
+    "Hydraulic systems",
+    "Construction equipment accessories"
   ],
-  "extracted_at": "2026-02-19 14:43:44",
+  "extracted_at": "2026-02-19 16:46:07",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +45,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Caterpillar_Inc.",
-      "query": "Caterpillar Inc. suppliers manufacturers",
-      "snippet": "Caterpillar stock is a component of the Dow Jones Industrial Average. [11] Caterpillar Inc . traces its origins to the 1925 merger of the Holt Manufac"
-    },
-    {
-      "source": "DuckDuckGo",
       "url": "https://www.caterpillar.com/en/company/working-together/suppliers.html",
       "query": "Caterpillar Inc. suppliers manufacturers",
       "snippet": "Caterpillar suppliers set high standards for specifications, delivery and price, communication and conduct."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/CAT-Customers",
-      "query": "Caterpillar Inc. major customers clients",
-      "snippet": "5 days ago · Caterpillar Inc customers and markets, results by customer and performance relative to CAT , by company and industry - CSIMarket"
+      "url": "https://csimarket.com/stocks/CAT-Suppliers",
+      "query": "Caterpillar Inc. suppliers manufacturers",
+      "snippet": "CAT's vs. Suppliers , Data (Revenue and Income for Trailing 12 Months, in Millions of $, except Employees) ... Sources: Caterpillar Inc's official pre"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.caterpillar.com/en/company/100/customers-success.html",
+      "url": "https://pestel-analysis.com/blogs/target-market/caterpillar",
       "query": "Caterpillar Inc. major customers clients",
-      "snippet": "\"Buy the iron, get the company.\" If you’ve been around Caterpillar long enough, you’re familiar with those words. And even if you haven’t, you get the"
+      "snippet": "Who are Caterpillar's customers ? Understanding customer demographics and target markets is crucial for any company's success. For a global industrial"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/CAT-Customers",
+      "query": "Caterpillar Inc. major customers clients",
+      "snippet": "Caterpillar Inc customers and markets, results by customer and performance relative to CAT, by company and industry - CSIMarket"
     }
   ]
 }

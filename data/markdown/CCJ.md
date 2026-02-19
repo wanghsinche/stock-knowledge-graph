@@ -3,7 +3,7 @@ ticker: CCJ
 company: Cameco Corporation
 sector: Energy
 industry: Uranium
-extracted_at: 2026-02-19 14:47:56
+extracted_at: 2026-02-19 16:52:26
 last_updated: 2026-02-19
 ---
 
@@ -12,45 +12,45 @@ last_updated: 2026-02-19
 ## 基本信息
 
 - **所属行业**: Energy / Uranium
-- **提取时间**: 2026-02-19 14:47:56
+- **提取时间**: 2026-02-19 16:52:26
 
 ## 产业链关系
 
 ### 上游供应商
 - [[Mining equipment manufacturers]]
 - [[Drilling rig suppliers]]
-- [[Geological survey firms]]
-- [[Mining software providers]]
-- [[Heavy machinery manufacturers]]
+- [[Exploration service providers]]
+- [[Geological survey companies]]
+- [[Mining software vendors]]
 
 ### 下游客户
-- [[Electric Power Generating Companies]]
-- [[Nuclear Power Plant Operators]]
-- [[National Energy Utilities]]
-- [[International Atomic Energy Agency (IAEA) clients]]
-- [[Nuclear fuel cycle contractors]]
+- [[Nuclear power plant operators]]
+- [[Government nuclear agencies]]
+- [[Nuclear fuel cycle companies]]
+- [[International nuclear regulators]]
+- [[Large industrial utilities]]
 
 ### 竞争对手
 - [[Kazatomprom]]
-- [[Energy Fuels Inc.]]
-- [[Uranium Energy Corp.]]
-- [[Uranium One Inc.]]
-- [[NexGen Energy Ltd.]]
+- [[Uranium Energy Corp]]
+- [[Orano]]
+- [[Uranium One]]
+- [[NexGen Energy]]
 
 ### 核心产品
-- [[Natural uranium ore]]
-- [[Uranium hexafluoride (UF6)]]
+- [[Uranium ore]]
+- [[Uranium concentrate (U3O8)]]
 - [[Enriched uranium fuel]]
-- [[Uranium fuel assemblies]]
-- [[Uranium enrichment services]]
+- [[Uranium processing services]]
+- [[Uranium mining equipment]]
 
 ## 数据来源
 
 - [Cameco](https://en.wikipedia.org/wiki/Cameco_Corporation)
-- [Cameco Corporation suppliers manufacturers](https://www.cameco.com/)
-- [Cameco Corporation suppliers manufacturers](https://www.cameco.com/about)
-- [Cameco Corporation major customers clients](https://finance.yahoo.com/news/cameco-ai-winner-hidden-plain-152721743.html)
-- [Cameco Corporation major customers clients](https://seekingalpha.com/article/4775247-cameco-corp-unrivaled-western-uranium-hegemony-from-mines-to-micro-reactors-edge)
+- [Cameco Corporation suppliers manufacturers](https://en.wikipedia.org/wiki/Cameco)
+- [Cameco Corporation suppliers manufacturers](https://www.power-technology.com/contractors/energy-and-utilities/cameco/)
+- [Cameco Corporation major customers clients](https://www.cameco.com/)
+- [Cameco Corporation major customers clients](https://www.marketresearch.com/MarketLine-v3883/Cameco-Corp-Company-Profile-SWOT-42667107/)
 
 ## 元数据
 

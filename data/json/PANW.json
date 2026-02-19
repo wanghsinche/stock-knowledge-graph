@@ -1,37 +1,33 @@
 {
   "ticker": "PANW",
   "company_name": "Palo Alto Networks, Inc.",
-  "sector": "Technology / Software - Infrastructure",
-  "industry": "Cybersecurity",
+  "sector": "Technology",
+  "industry": "Software - Infrastructure",
   "upstream": [
-    "INTC",
-    "AMD",
-    "NVDA",
-    "MSFT",
-    "AMZN"
+    "Silicon (semiconductor manufacturers)"
   ],
   "downstream": [
-    "Fortune 100 enterprises",
-    "U.S. Department of Defense",
-    "Major financial institutions (e.g., JPMorgan Chase, Bank of America)",
-    "Healthcare providers",
-    "CAT"
+    "ADT",
+    "Westfield",
+    "Fortune 100 companies",
+    "Government agencies",
+    "Financial institutions"
   ],
   "competitors": [
     "CSCO",
     "Fortinet",
     "Check Point Software Technologies",
     "JNPR",
-    "CrowdStrike"
+    "Sophos"
   ],
   "key_products": [
-    "PAN-OS (firewall operating system)",
     "Next‑Generation Firewall",
-    "Prisma Cloud",
-    "Cortex XDR",
-    "GlobalProtect"
+    "Cloud Security (CNAPP)",
+    "Endpoint Protection",
+    "Threat Intelligence (Unit 42)",
+    "Secure Access Service Edge (SASE)"
   ],
-  "extracted_at": "2026-02-19 14:31:54",
+  "extracted_at": "2026-02-19 16:45:45",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,25 +39,25 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Silicon_Valley",
       "query": "Palo Alto Networks, Inc. suppliers manufacturers",
-      "snippet": "Located in the southern part of the San Francisco Bay Area, it corresponds roughly to the geographical area of the Santa Clara Valley.[1][2][3]. The c"
+      "snippet": "\"Silicon\" refers to the chemical element used in silicon-based transistors and integrated circuit chips, which is the focus of a large number of compu"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.paloaltonetworks.com/",
       "query": "Palo Alto Networks, Inc. suppliers manufacturers",
-      "snippet": "Implement Zero Trust, Secure your Network , Cloud workloads, Hybrid Workforce, Leverage Threat Intelligence & Security Consulting. Palo Alto Networks "
+      "snippet": "Palo Alto Networks : Cloud Security Leader in First-Ever CNAPP Report. The Forrester Wave™: Cloud Workload Security, Q1 2024. Frost Radar™: Cloud Secu"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://habr.com/ru/companies/mws/articles/280866/",
+      "url": "https://www.paloaltonetworks.com/customers",
       "query": "Palo Alto Networks, Inc. major customers clients",
-      "snippet": "Компания Palo Alto Networks была основана в 2005 году Ниром Зуком (Nir Zuk) и группой старших инженеров компаний, лидирующих в сфере сетевой безопасно"
+      "snippet": "Discover how leading brands like ADT and Westfield secure their operations with Palo Alto Networks . Explore customer success stories in cybersecurity"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://github.com/PaloAltoNetworks",
+      "url": "https://csimarket.com/stocks/PANW-Customers",
       "query": "Palo Alto Networks, Inc. major customers clients",
-      "snippet": "The PAN-OS SDK for Python is a package to help interact with Palo Alto Networks devices (including physical and virtualized Next-generation Firewalls "
+      "snippet": "2 days ago · Palo Alto Networks Inc customers and markets, results by customer and performance relative to PANW, by company and industry - CSIMarket"
     }
   ]
 }

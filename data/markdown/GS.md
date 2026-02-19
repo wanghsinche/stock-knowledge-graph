@@ -3,7 +3,7 @@ ticker: GS
 company: The Goldman Sachs Group, Inc.
 sector: Financial Services
 industry: Capital Markets
-extracted_at: 2026-02-19 14:46:38
+extracted_at: 2026-02-19 16:50:02
 last_updated: 2026-02-19
 ---
 
@@ -12,44 +12,44 @@ last_updated: 2026-02-19
 ## 基本信息
 
 - **所属行业**: Financial Services / Capital Markets
-- **提取时间**: 2026-02-19 14:46:38
+- **提取时间**: 2026-02-19 16:50:02
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Bloomberg]]
-- [[Thomson Reuters]]
-- [[MSFT]]
-- [[ORCL]]
-- [[Accenture]]
+- [[Technology vendors]]
+- [[Data providers]]
+- [[Creative agencies]]
+- [[Legal services]]
+- [[Consulting firms]]
 
 ### 下游客户
-- [[Corporate clients]]
-- [[Government entities]]
 - [[Institutional investors]]
-- [[Pension funds]]
-- [[High net worth individuals]]
+- [[Corporations]]
+- [[Governments]]
+- [[Hedge funds]]
+- [[Private equity funds]]
 
 ### 竞争对手
-- [[JPMorgan Chase]]
+- [[JPMorgan Chase & Co.]]
 - [[Morgan Stanley]]
-- [[Bank of America]]
+- [[Bank of America Merrill Lynch]]
 - [[Citigroup]]
 - [[Wells Fargo]]
 
 ### 核心产品
-- [[Investment banking]]
-- [[Securities underwriting]]
+- [[Investment banking services]]
+- [[Securities trading]]
 - [[Asset management]]
 - [[Wealth management]]
-- [[Derivatives trading]]
+- [[Capital markets research]]
 
 ## 数据来源
 
 - [Goldman Sachs](https://en.wikipedia.org/wiki/The_Goldman_Sachs_Group,_Inc.)
-- [The Goldman Sachs Group, Inc. suppliers manufacturers](https://ru.wikipedia.org/wiki/Goldman_Sachs)
-- [The Goldman Sachs Group, Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/List_of_largest_companies_in_the_United_States_by_revenue)
-- [The Goldman Sachs Group, Inc. major customers clients](https://ru.wikipedia.org/wiki/Goldman_Sachs)
+- [The Goldman Sachs Group, Inc. suppliers manufacturers](https://www.goldmansachs.com/our-firm/our-vendor-program)
+- [The Goldman Sachs Group, Inc. suppliers manufacturers](https://csimarket.com/stocks/GS-Suppliers)
+- [The Goldman Sachs Group, Inc. major customers clients](https://en.wikipedia.org/wiki/Goldman_Sachs)
 - [The Goldman Sachs Group, Inc. major customers clients](https://www.goldmansachs.com/)
 
 ## 元数据
