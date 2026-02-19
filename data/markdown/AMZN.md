@@ -3,8 +3,8 @@ ticker: AMZN
 company: Amazon.com, Inc.
 sector: Consumer Cyclical
 industry: Internet Retail
-extracted_at: 2026-02-08 02:10:58
-last_updated: 2026-02-08
+extracted_at: 2026-02-19 14:28:47
+last_updated: 2026-02-19
 ---
 
 # AMZN - Amazon.com, Inc.
@@ -12,46 +12,46 @@ last_updated: 2026-02-08
 ## 基本信息
 
 - **所属行业**: Consumer Cyclical / Internet Retail
-- **提取时间**: 2026-02-08 02:10:58
+- **提取时间**: 2026-02-19 14:28:47
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Book publishers]]
-- [[Electronics manufacturers]]
-- [[Apparel and fashion brands]]
-- [[Third‑party sellers]]
-- [[Logistics partners (UPS, FedEx, DHL)]]
+- [[INTC]]
+- [[AMD]]
+- [[NVDA]]
+- [[DELL]]
+- [[HPQ]]
 
 ### 下游客户
-- [[AMZN]]
-- [[Small and medium businesses using AWS]]
-- [[AMZN]]
-- [[AMZN]]
-- [[AMZN]]
+- [[NFLX]]
+- [[Airbnb]]
+- [[ADBE]]
+- [[005930.KS]]
+- [[MSFT]]
 
 ### 竞争对手
 - [[Walmart]]
 - [[eBay]]
 - [[Alibaba]]
-- [[MSFT]]
-- [[GOOGL]]
+- [[Shopify]]
+- [[Target]]
 
 ### 核心产品
-- [[Amazon.com marketplace]]
-- [[Amazon Web Services (AWS)]]
-- [[Amazon Prime Video]]
-- [[Amazon Echo/Alexa]]
-- [[Amazon Kindle]]
+- [[Amazon.com (e‑commerce)]]
+- [[Amazon Web Services (cloud)]]
+- [[Amazon Prime (subscription)]]
+- [[Amazon Alexa (voice assistant)]]
+- [[Amazon Kindle (e‑reader)]]
 
 ## 数据来源
 
 - [Amazon (company)](https://en.wikipedia.org/wiki/Amazon.com,_Inc.)
-- [Amazon.com, Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/Amazon_(company))
-- [Amazon.com, Inc. suppliers manufacturers](https://www.obdlogistics.com/sell-on-amazon/)
-- [Amazon.com, Inc. major customers clients](https://capitaloneshopping.com/research/amazon-statistics/)
-- [Amazon.com, Inc. major customers clients](https://www.businessofapps.com/data/amazon-statistics/)
+- [Amazon.com, Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/Apple_Inc.)
+- [Amazon.com, Inc. suppliers manufacturers](https://ir.aboutamazon.com/)
+- [Amazon.com, Inc. major customers clients](https://ir.aboutamazon.com/)
+- [Amazon.com, Inc. major customers clients](https://www.amazon.com/s?k=...)
 
 ## 元数据
 
-- **更新日期**: 2026-02-08
+- **更新日期**: 2026-02-19

@@ -1,21 +1,21 @@
 {
   "ticker": "JPM",
   "company_name": "JPMorgan Chase & Co.",
-  "sector": "Financial Services / Banks - Diversified",
-  "industry": "Diversified Banks",
+  "sector": "Financial Services",
+  "industry": "Banks - Diversified",
   "upstream": [
-    "ORCL",
-    "Payment network providers (e.g., Visa, Mastercard)",
-    "Data analytics providers (e.g., Bloomberg)",
-    "Regulatory compliance vendors",
-    "Cybersecurity firms"
+    "Financial technology vendors",
+    "Information technology service providers",
+    "Office equipment suppliers",
+    "Security and surveillance providers",
+    "Legal and consulting firms"
   ],
   "downstream": [
-    "Large corporate clients",
-    "Institutional investors",
     "Retail banking customers",
-    "Small and medium enterprises",
-    "High-net-worth individuals"
+    "Corporate and institutional clients",
+    "Investment banking and advisory clients",
+    "Wealth management and private banking clients",
+    "Government and public sector entities"
   ],
   "competitors": [
     "Bank of America",
@@ -26,12 +26,12 @@
   ],
   "key_products": [
     "Retail banking services",
-    "Investment banking",
-    "Asset management",
-    "Wealth management",
-    "Credit card services"
+    "Commercial banking and lending",
+    "Investment banking and capital markets",
+    "Asset and wealth management",
+    "Private banking and trust services"
   ],
-  "extracted_at": "2026-02-08 02:14:16",
+  "extracted_at": "2026-02-19 14:40:04",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/JPMorgan_Chase",
+      "url": "https://www.jpmorganchase.com/about/suppliers",
       "query": "JPMorgan Chase & Co. suppliers manufacturers",
-      "snippet": "... and is set to move back across the ... Morgan & Co ., the new Chase expanded the investment and asset management groups through two acquisitions."
+      "snippet": "Building strong partnerships is the cornerstone of our success. At JPMorganChase , we place particular value in our supplier partnerships. Thanks to t"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://businessabc.net/wiki/jpmorgan-chase",
+      "url": "https://csimarket.com/stocks/JPM-Suppliers",
       "query": "JPMorgan Chase & Co. suppliers manufacturers",
-      "snippet": "At the turn of the 20th century, the various banks and companies that would eventually become JPMorgan Chase were expanding rapidly and playing ..."
+      "snippet": "Jpmorgan Chase And Co's Suppliers recorded an increase in sales by 9.13 % year on year in Q4 2025, sequentially sales grew by 10.61 %, while their net"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/JPMorgan_Chase",
       "query": "JPMorgan Chase & Co. major customers clients",
-      "snippet": "The JPMorgan Chase logo prior to the 2008 rebranding As of June 2008, the JPMorgan logo used for the company's Investment Banking, Asset Management, a"
+      "snippet": "JPMorgan Chase & Co. (stylized as JPMorganChase) is an American multinational banking institution headquartered in New York City and incorporated in ."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.jpmorganchase.com/content/dam/jpmc/jpmorgan-chase-and-co/investor-relations/documents/events/2025/jpmc-2025-investor-day/consumer-community-banking.pdf",
+      "url": "https://www.jpmorganchase.com/about",
       "query": "JPMorgan Chase & Co. major customers clients",
-      "snippet": "Large clients defined as businesses with an annual sales size of $1mm or greater; Small / Micro clients defined as businesses with an annual sales siz"
+      "snippet": "Our J.P. Morgan and Chase brands work to provide the highest quality service to millions of consumers, small businesses and corporate, institutional a"
     }
   ]
 }

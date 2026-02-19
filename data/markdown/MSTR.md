@@ -2,56 +2,56 @@
 ticker: MSTR
 company: Strategy Inc
 sector: Technology / Software - Application
-industry: Medical Device Consulting
-extracted_at: 2026-02-08 02:13:42
-last_updated: 2026-02-08
+industry: Business Intelligence & Analytics
+extracted_at: 2026-02-19 14:40:17
+last_updated: 2026-02-19
 ---
 
 # MSTR - Strategy Inc
 
 ## 基本信息
 
-- **所属行业**: Technology / Software - Application / Medical Device Consulting
-- **提取时间**: 2026-02-08 02:13:42
+- **所属行业**: Technology / Software - Application / Business Intelligence & Analytics
+- **提取时间**: 2026-02-19 14:40:17
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Medical device manufacturers]]
-- [[Healthcare technology vendors]]
-- [[Regulatory compliance firms]]
-- [[Clinical research organizations]]
-- [[Supply chain logistics providers]]
+- [[AMZN]]
+- [[MSFT]]
+- [[GOOGL]]
+- [[DELL]]
+- [[IBM]]
 
 ### 下游客户
-- [[Venture capital firms]]
-- [[Hospitals and health systems]]
-- [[Medical device startups]]
-- [[Pharmaceutical companies]]
-- [[Health insurance providers]]
+- [[Financial services firms (e.g., JPMorgan Chase, Goldman Sachs)]]
+- [[Government agencies (e.g., U.S. Department of Defense, U.S. Treasury)]]
+- [[Retail and consumer goods companies (e.g., Walmart, Procter & Gamble)]]
+- [[Healthcare organizations (e.g., UnitedHealth Group, Mayo Clinic)]]
+- [[CAT]]
 
 ### 竞争对手
-- [[MedTech Consulting]]
-- [[HealthTech Solutions]]
-- [[BioConsult]]
-- [[Clinical Advisory Group]]
-- [[Device Strategy Partners]]
+- [[CRM]]
+- [[MSFT]]
+- [[Qlik]]
+- [[GOOGL]]
+- [[Sisense]]
 
 ### 核心产品
-- [[Strategic consulting for medical device development]]
-- [[Market entry and regulatory strategy services]]
-- [[Product lifecycle management solutions]]
-- [[Clinical trial design and support]]
-- [[Technology roadmapping and portfolio analysis]]
+- [[MicroStrategy Desktop]]
+- [[MicroStrategy Cloud]]
+- [[MicroStrategy Mobile]]
+- [[MicroStrategy Analytics Platform]]
+- [[MicroStrategy AI & Semantic Modeling]]
 
 ## 数据来源
 
 - 
-- [Strategy Inc suppliers manufacturers](https://www.strategyinc.net/)
-- [Strategy Inc suppliers manufacturers](https://www.linkedin.com/company/strategyinc)
-- [Strategy Inc major customers clients](https://www.pivotalcoachingservices.com/post/critical-actions-for-your-client-strategy)
-- [Strategy Inc major customers clients](https://www.wowessays.com/free-samples/example-of-business-plan-on-customer-strategy-plan/)
+- [Strategy Inc suppliers manufacturers](https://www.strategy.com/press/strategy-announces-legal-name-change-from-microstrategy-incorporated-to-strategy-inc_08-14-2025)
+- [Strategy Inc suppliers manufacturers](https://www.strategyinc.net/about-us/)
+- [Strategy Inc major customers clients](https://en.wikipedia.org/wiki/MicroStrategy)
+- [Strategy Inc major customers clients](https://www.strategy.com/press/strategy-recognized-customers-choice-gartner-peer-insights-through-user-feedback-for-fourth-consecutive-year_12-11-2025)
 
 ## 元数据
 
-- **更新日期**: 2026-02-08
+- **更新日期**: 2026-02-19

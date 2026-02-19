@@ -3,8 +3,8 @@ ticker: NVDA
 company: NVIDIA Corporation
 sector: Technology
 industry: Semiconductors
-extracted_at: 2026-02-08 02:10:45
-last_updated: 2026-02-08
+extracted_at: 2026-02-19 14:27:20
+last_updated: 2026-02-19
 ---
 
 # NVDA - NVIDIA Corporation
@@ -12,46 +12,46 @@ last_updated: 2026-02-08
 ## 基本信息
 
 - **所属行业**: Technology / Semiconductors
-- **提取时间**: 2026-02-08 02:10:45
+- **提取时间**: 2026-02-19 14:27:20
 
 ## 产业链关系
 
 ### 上游供应商
-- [[TSM]]
 - [[005930.KS]]
-- [[GlobalFoundries]]
+- [[TSM]]
 - [[MU]]
-- [[SK Hynix]]
+- [[GlobalFoundries]]
+- [[QCOM]]
 
 ### 下游客户
-- [[DELL]]
-- [[HPQ]]
-- [[Lenovo Group]]
-- [[TSLA]]
+- [[MSFT]]
 - [[AMZN]]
+- [[GOOGL]]
+- [[Activision Blizzard]]
+- [[TSLA]]
 
 ### 竞争对手
 - [[AMD]]
 - [[INTC]]
 - [[QCOM]]
+- [[AAPL]]
 - [[AVGO]]
-- [[MediaTek Inc.]]
 
 ### 核心产品
-- [[GeForce GPUs]]
-- [[Quadro/RTX GPUs]]
-- [[Tesla/Datacenter GPUs]]
-- [[Jetson SoCs]]
-- [[CUDA API]]
+- [[GeForce RTX GPUs]]
+- [[NVIDIA A100 Tensor Core GPU]]
+- [[NVIDIA Jetson AI platform]]
+- [[NVIDIA Drive PX automotive platform]]
+- [[NVIDIA DGX AI supercomputer]]
 
 ## 数据来源
 
 - [Nvidia](https://en.wikipedia.org/wiki/NVIDIA_Corporation)
-- [NVIDIA Corporation suppliers manufacturers](https://stocksandfuturestrading.com/the-complete-list-of-nvidias-suppliers-and-consumers/)
-- [NVIDIA Corporation suppliers manufacturers](https://csimarket.com/stocks/NVDA-Suppliers)
-- [NVIDIA Corporation major customers clients](https://finance.yahoo.com/news/nvidias-biggest-customers-095700428.html)
-- [NVIDIA Corporation major customers clients](https://www.cnbc.com/2025/08/28/nvidias-top-two-mystery-customers-made-up-39percent-of-its-q2-revenue-.html)
+- [NVIDIA Corporation suppliers manufacturers](https://en.wikipedia.org/wiki/Nvidia)
+- [NVIDIA Corporation suppliers manufacturers](https://medium.com/@farrago_course0f/exploring-the-key-companies-supplying-nvidia-a-comprehensive-overview-ebc639dd1d99)
+- [NVIDIA Corporation major customers clients](https://www.investing.com/equities/nvidia-corp)
+- [NVIDIA Corporation major customers clients](https://www.tradingview.com/symbols/NASDAQ-NVDA/)
 
 ## 元数据
 
-- **更新日期**: 2026-02-08
+- **更新日期**: 2026-02-19

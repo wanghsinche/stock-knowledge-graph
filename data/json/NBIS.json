@@ -1,21 +1,37 @@
 {
   "ticker": "NBIS",
   "company_name": "Nebius Group N.V.",
-  "sector": "Communication Services",
-  "industry": "Internet Content & Information",
+  "sector": "Communication Services / Internet Content & Information",
+  "industry": "Artificial Intelligence Infrastructure",
   "upstream": [
-    "XPRT Sourcing"
+    "NVDA",
+    "AMD",
+    "INTC",
+    "AMZN",
+    "MSFT"
   ],
-  "downstream": [],
-  "competitors": [],
+  "downstream": [
+    "GOOGL",
+    "MSFT",
+    "AMZN",
+    "Alibaba",
+    "Tencent"
+  ],
+  "competitors": [
+    "OpenAI",
+    "DeepMind",
+    "Anthropic",
+    "Cohere",
+    "Hugging Face"
+  ],
   "key_products": [
-    "Artificial Intelligence Infrastructure",
-    "Avride",
-    "TripleTen",
-    "Toloka",
-    "Clickhouse"
+    "Nebius AI Infrastructure Platform",
+    "Nebius Cloud Services",
+    "Nebius AI Development Tools",
+    "Nebius Data Processing Engine",
+    "Nebius AI Security Suite"
   ],
-  "extracted_at": "2026-02-08 02:15:36",
+  "extracted_at": "2026-02-19 14:47:45",
   "sources": [
     {
       "source": "Wikipedia",
@@ -25,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.environmental-expert.com/companies/?keyword=NBIS",
+      "url": "https://finance.yahoo.com/quote/NBIS/",
       "query": "NBIS suppliers manufacturers",
-      "snippet": "Need help finding the right suppliers ? Try XPRT Sourcing. Let the XPRTs do the work for you"
+      "snippet": "Nebius Group NV ( NBIS ) Q4 2025 Earnings Call Highlights: Record Growth and Strategic Investments."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/news/nebius-group-n-v-nbis-062721510.html?fr=sycsrp_catchall",
+      "url": "https://ru.investing.com/equities/yandex-nv",
       "query": "NBIS suppliers manufacturers",
-      "snippet": "Nov 20, 2025 · Nebius Group N.V. (NASDAQ: NBIS ) is a technology company that builds full-stack cloud infrastructure for the global artificial intelli"
+      "snippet": "Акции Nebius Group NV ( NBIS ): курс сегодня, актуальная цена онлайн, графики, мнения, технический анализ, отчеты и другое о Nebius NV."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/Nebius_Group",
+      "query": "NBIS major customers clients",
+      "snippet": "Nebius Group N.V., headquartered in Amsterdam, is a technology company [3] that provides artificial intelligence infrastructure. [4] The company also "
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.dcsa.mil/Systems-Applications/National-Background-Investigation-Services-NBIS/",
       "query": "NBIS major customers clients",
       "snippet": "The purpose of NBIS is to modernize, streamline and secure the entire process to enhance the user experience and provide a reliable and integrated set"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/NBIS-Customers",
-      "query": "NBIS major customers clients",
-      "snippet": "Nebius Group N V customers and markets, results by customer and performance relative to NBIS , by company and industry - CSIMarket"
     }
   ]
 }

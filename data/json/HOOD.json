@@ -1,37 +1,37 @@
 {
   "ticker": "HOOD",
   "company_name": "Robinhood Markets, Inc.",
-  "sector": "Financial Services",
-  "industry": "Capital Markets",
+  "sector": "Financial Services / Capital Markets",
+  "industry": "Financial Services",
   "upstream": [
-    "AMZN",
-    "GOOGL",
     "Bloomberg",
+    "Refinitiv",
     "Plaid",
-    "Stripe"
+    "Stripe",
+    "AMZN"
   ],
   "downstream": [
     "Retail investors",
     "Institutional clients",
-    "High‑frequency traders",
-    "Day traders",
-    "Crypto traders"
+    "High-frequency traders",
+    "Crypto traders",
+    "Options traders"
   ],
   "competitors": [
     "Charles Schwab",
+    "E*TRADE",
     "Fidelity",
     "TD Ameritrade",
-    "E*TRADE",
     "Webull"
   ],
   "key_products": [
-    "Commission‑free stock trading",
-    "Robinhood Gold",
-    "Robinhood Crypto",
-    "Robinhood Cash Management",
-    "Robinhood Options"
+    "Commission-free stock trading",
+    "Margin trading",
+    "Options trading",
+    "Cryptocurrency trading",
+    "Robinhood Gold"
   ],
-  "extracted_at": "2026-02-08 02:14:42",
+  "extracted_at": "2026-02-19 14:43:34",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,25 +43,25 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Robinhood_Markets",
       "query": "Robinhood Markets, Inc. suppliers manufacturers",
-      "snippet": "Robinhood Markets , Inc . is an American financial services company based in Menlo Park, California. It provides an electronic trading platform that f"
+      "snippet": "Robinhood Markets , Inc . is an American financial services company based in Menlo Park, California . It provides an electronic trading platform that "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/suppliers_glance.php?code=HOOD",
+      "url": "https://csimarket.com/stocks/HOOD-Suppliers",
       "query": "Robinhood Markets, Inc. suppliers manufacturers",
-      "snippet": "Robinhood Markets Inc 's Suppliers Performance. HOOD 's Supply Chain. HOOD Costs vs Sales of Suppliers Growth.Among Robinhood Markets Inc suppliers , "
+      "snippet": "Aug 1, 2025 · Sources: Robinhood Markets Inc 's official press releases and regulatory filings; CSIMarket.com's supply -chain research; and the financ"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://thinkofgames.com/robinhood-revenue-doubles-as-stock-drops/",
+      "url": "https://en.wikipedia.org/wiki/Robinhood_Markets",
       "query": "Robinhood Markets, Inc. major customers clients",
-      "snippet": "Robinhood allows customers to customize their portfolios’ weights based on market data or their own personal preference."
+      "snippet": "Robinhood Markets , Inc . is an American financial services company based in Menlo Park, California.In July 2025, Robinhood reported 26.7 million cust"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://robinhood.com/us/en/newsroom/introducing-strategies-banking-and-cortex/",
+      "url": "https://robinhood.com/",
       "query": "Robinhood Markets, Inc. major customers clients",
-      "snippet": "We’re launching Robinhood Strategies and Robinhood Banking to give our customers access to private wealth management and banking services ..."
+      "snippet": "Trade stocks on Robinhood with commission-free investing & advanced trading tools. Access fractional shares, real-time market data, and more."
     }
   ]
 }

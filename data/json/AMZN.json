@@ -4,34 +4,34 @@
   "sector": "Consumer Cyclical",
   "industry": "Internet Retail",
   "upstream": [
-    "Book publishers",
-    "Electronics manufacturers",
-    "Apparel and fashion brands",
-    "Third‑party sellers",
-    "Logistics partners (UPS, FedEx, DHL)"
+    "INTC",
+    "AMD",
+    "NVDA",
+    "DELL",
+    "HPQ"
   ],
   "downstream": [
-    "AMZN",
-    "Small and medium businesses using AWS",
-    "AMZN",
-    "AMZN",
-    "AMZN"
+    "NFLX",
+    "Airbnb",
+    "ADBE",
+    "005930.KS",
+    "MSFT"
   ],
   "competitors": [
     "Walmart",
     "eBay",
     "Alibaba",
-    "MSFT",
-    "GOOGL"
+    "Shopify",
+    "Target"
   ],
   "key_products": [
-    "Amazon.com marketplace",
-    "Amazon Web Services (AWS)",
-    "Amazon Prime Video",
-    "Amazon Echo/Alexa",
-    "Amazon Kindle"
+    "Amazon.com (e‑commerce)",
+    "Amazon Web Services (cloud)",
+    "Amazon Prime (subscription)",
+    "Amazon Alexa (voice assistant)",
+    "Amazon Kindle (e‑reader)"
   ],
-  "extracted_at": "2026-02-08 02:10:58",
+  "extracted_at": "2026-02-19 14:28:47",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Amazon_(company)",
+      "url": "https://en.wikipedia.org/wiki/Apple_Inc.",
       "query": "Amazon.com, Inc. suppliers manufacturers",
-      "snippet": "The company has multiple subsidiaries , including Amazon Web Services , providing cloud computing; Zoox , a self-driving car division; Kuiper Systems "
+      "snippet": "Apple Inc . is an American multinational technology company headquartered in Cupertino, California, in Silicon Valley, best known for its consumer ele"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.obdlogistics.com/sell-on-amazon/",
+      "url": "https://ir.aboutamazon.com/",
       "query": "Amazon.com, Inc. suppliers manufacturers",
-      "snippet": "We will initiative to participate in international competition to be a first- class manufacturer of this product in the world."
+      "snippet": "Amazon . com , Inc . (NASDAQ: AMZN) today announced financial results for its second quarter ended June 30, 2025. Net sales increased 13% to $167.7 bi"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://capitaloneshopping.com/research/amazon-statistics/",
+      "url": "https://ir.aboutamazon.com/",
       "query": "Amazon.com, Inc. major customers clients",
-      "snippet": "Statistics & analysis on Amazon including total sales (per year & minute), number of products (SKUs), customers , sellers & more."
+      "snippet": "Amazon . com , Inc . (NASDAQ: AMZN) today announced financial results for its second quarter ended June 30, 2025. Net sales increased 13% to $167.7 bi"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.businessofapps.com/data/amazon-statistics/",
+      "url": "https://www.amazon.com/s?k=...",
       "query": "Amazon.com, Inc. major customers clients",
-      "snippet": "Amazon is one of the most recognisable brands in the world, and the third largest by revenue. It was the fourth tech company to reach a $1 trillion ma"
+      "snippet": "Reach customers wherever they spend their time. 6pm. Score deals on fashion brands."
     }
   ]
 }

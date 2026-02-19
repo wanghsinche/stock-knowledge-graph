@@ -7,13 +7,13 @@
     "TSM",
     "005930.KS",
     "GlobalFoundries",
-    "MU",
-    "ASE Group"
+    "ASE Group",
+    "Amkor Technology"
   ],
   "downstream": [
     "DELL",
     "HPQ",
-    "Lenovo Group",
+    "Lenovo",
     "SONY",
     "MSFT"
   ],
@@ -22,16 +22,16 @@
     "NVDA",
     "QCOM",
     "AVGO",
-    "005930.KS"
+    "AAPL"
   ],
   "key_products": [
     "Ryzen CPUs",
-    "EPYC CPUs",
+    "EPYC server CPUs",
     "Radeon GPUs",
-    "Radeon Instinct GPUs",
-    "Radeon RX 7000 Series"
+    "Xilinx FPGAs",
+    "APU (Accelerated Processing Units)"
   ],
-  "extracted_at": "2026-02-08 02:12:37",
+  "extracted_at": "2026-02-19 14:30:39",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,25 +43,25 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/AMD",
       "query": "Advanced Micro Devices, Inc. suppliers manufacturers",
-      "snippet": "Advanced Micro Devices , Inc . Advanced Micro Devices , Inc . ( AMD ) is an American multinational semiconductor company headquartered in Santa Clara,"
+      "snippet": "Advanced Micro Devices, Inc. (AMD) is an American multinational semiconductor company headquartered in Santa Clara, California, with significant opera"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ir.amd.com/",
+      "url": "https://www.britannica.com/money/Advanced-Micro-Devices-Inc",
       "query": "Advanced Micro Devices, Inc. suppliers manufacturers",
-      "snippet": "Advanced Micro Devices , Inc . IR Overview. Investor Relations. AMD Completes Divestiture of ZT Systems Data Center Infrastructure Manufacturing Busin"
+      "snippet": "Feb 4, 2026 · Advanced Micro Devices, Inc. (AMD) is an American semiconductor designer and global supplier of computing and graphics technologies used"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.directorstalkinterviews.com/advanced-micro-devices-inc.consensus-buy-rating-and-4.8-downside-potential/4121165006",
+      "url": "https://csimarket.com/stocks/AMD-Customers",
       "query": "Advanced Micro Devices, Inc. major customers clients",
-      "snippet": "The Client segment includes CPUs, accelerated processing units (APUs) that integrate microprocessors and GPUs (APUs), and chipsets for desktop and ..."
+      "snippet": "5 days ago · Advanced Micro Devices Inc customers and markets, results by customer and performance relative to AMD, by company and industry - CSIMarke"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.directorstalkinterviews.com/advanced-micro-devices-inc.consensus-buy-rating-and-6.8-upside-potential/4121140935",
+      "url": "https://finance.yahoo.com/quote/AMD/profile/?fr=sycsrp_catchall",
       "query": "Advanced Micro Devices, Inc. major customers clients",
-      "snippet": "The Client segment includes CPUs, accelerated processing units (APUs) that integrate microprocessors and GPUs (APUs), and chipsets for desktop and ..."
+      "snippet": "See the company profile for Advanced Micro Devices, Inc. (AMD ) including business summary, industry/sector information, number of employees, business"
     }
   ]
 }

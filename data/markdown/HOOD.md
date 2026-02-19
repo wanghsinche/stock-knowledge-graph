@@ -1,57 +1,57 @@
 ---
 ticker: HOOD
 company: Robinhood Markets, Inc.
-sector: Financial Services
-industry: Capital Markets
-extracted_at: 2026-02-08 02:14:42
-last_updated: 2026-02-08
+sector: Financial Services / Capital Markets
+industry: Financial Services
+extracted_at: 2026-02-19 14:43:34
+last_updated: 2026-02-19
 ---
 
 # HOOD - Robinhood Markets, Inc.
 
 ## 基本信息
 
-- **所属行业**: Financial Services / Capital Markets
-- **提取时间**: 2026-02-08 02:14:42
+- **所属行业**: Financial Services / Capital Markets / Financial Services
+- **提取时间**: 2026-02-19 14:43:34
 
 ## 产业链关系
 
 ### 上游供应商
-- [[AMZN]]
-- [[GOOGL]]
 - [[Bloomberg]]
+- [[Refinitiv]]
 - [[Plaid]]
 - [[Stripe]]
+- [[AMZN]]
 
 ### 下游客户
 - [[Retail investors]]
 - [[Institutional clients]]
-- [[High‑frequency traders]]
-- [[Day traders]]
+- [[High-frequency traders]]
 - [[Crypto traders]]
+- [[Options traders]]
 
 ### 竞争对手
 - [[Charles Schwab]]
+- [[E*TRADE]]
 - [[Fidelity]]
 - [[TD Ameritrade]]
-- [[E*TRADE]]
 - [[Webull]]
 
 ### 核心产品
-- [[Commission‑free stock trading]]
+- [[Commission-free stock trading]]
+- [[Margin trading]]
+- [[Options trading]]
+- [[Cryptocurrency trading]]
 - [[Robinhood Gold]]
-- [[Robinhood Crypto]]
-- [[Robinhood Cash Management]]
-- [[Robinhood Options]]
 
 ## 数据来源
 
 - 
 - [Robinhood Markets, Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/Robinhood_Markets)
-- [Robinhood Markets, Inc. suppliers manufacturers](https://csimarket.com/stocks/suppliers_glance.php?code=HOOD)
-- [Robinhood Markets, Inc. major customers clients](https://thinkofgames.com/robinhood-revenue-doubles-as-stock-drops/)
-- [Robinhood Markets, Inc. major customers clients](https://robinhood.com/us/en/newsroom/introducing-strategies-banking-and-cortex/)
+- [Robinhood Markets, Inc. suppliers manufacturers](https://csimarket.com/stocks/HOOD-Suppliers)
+- [Robinhood Markets, Inc. major customers clients](https://en.wikipedia.org/wiki/Robinhood_Markets)
+- [Robinhood Markets, Inc. major customers clients](https://robinhood.com/)
 
 ## 元数据
 
-- **更新日期**: 2026-02-08
+- **更新日期**: 2026-02-19

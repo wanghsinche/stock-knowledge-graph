@@ -3,8 +3,8 @@ ticker: INTC
 company: Intel Corporation
 sector: Technology
 industry: Semiconductors
-extracted_at: 2026-02-08 02:14:01
-last_updated: 2026-02-08
+extracted_at: 2026-02-19 14:34:31
+last_updated: 2026-02-19
 ---
 
 # INTC - Intel Corporation
@@ -12,28 +12,46 @@ last_updated: 2026-02-08
 ## 基本信息
 
 - **所属行业**: Technology / Semiconductors
-- **提取时间**: 2026-02-08 02:14:01
+- **提取时间**: 2026-02-19 14:34:31
 
 ## 产业链关系
 
 ### 上游供应商
-_暂无数据_
+- [[AMAT]]
+- [[ASML]]
+- [[LRCX]]
+- [[Tokyo Electron]]
+- [[KLA]]
 
 ### 下游客户
-_暂无数据_
+- [[DELL]]
+- [[HPQ]]
+- [[Lenovo]]
+- [[AAPL]]
+- [[AMZN]]
 
 ### 竞争对手
-_暂无数据_
+- [[AMD]]
+- [[NVDA]]
+- [[QCOM]]
+- [[005930.KS]]
+- [[TSM]]
 
 ### 核心产品
-_暂无数据_
+- [[Intel Core i7/i9]]
+- [[Intel Xeon]]
+- [[Intel Atom]]
+- [[Intel Pentium]]
+- [[Intel 10nm process chips]]
 
 ## 数据来源
 
 - [Intel](https://en.wikipedia.org/wiki/Intel_Corporation)
-- [Intel Corporation suppliers manufacturers](https://en.wikipedia.org/wiki/Intel)
-- [Intel Corporation suppliers manufacturers](https://www.intel.com/)
+- [Intel Corporation suppliers manufacturers](https://en.wikipedia.org/wiki/List_of_Intel_manufacturing_sites)
+- [Intel Corporation suppliers manufacturers](https://www.intel.com/content/www/us/en/supplier/overview.html)
+- [Intel Corporation major customers clients](https://en.wikipedia.org/wiki/Intel)
+- [Intel Corporation major customers clients](https://www.intel.com/)
 
 ## 元数据
 
-- **更新日期**: 2026-02-08
+- **更新日期**: 2026-02-19

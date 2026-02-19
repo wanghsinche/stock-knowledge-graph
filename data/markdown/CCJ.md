@@ -3,8 +3,8 @@ ticker: CCJ
 company: Cameco Corporation
 sector: Energy
 industry: Uranium
-extracted_at: 2026-02-08 02:15:50
-last_updated: 2026-02-08
+extracted_at: 2026-02-19 14:47:56
+last_updated: 2026-02-19
 ---
 
 # CCJ - Cameco Corporation
@@ -12,46 +12,46 @@ last_updated: 2026-02-08
 ## 基本信息
 
 - **所属行业**: Energy / Uranium
-- **提取时间**: 2026-02-08 02:15:50
+- **提取时间**: 2026-02-19 14:47:56
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Uranium mining equipment manufacturers]]
-- [[Drilling and drilling rig suppliers]]
-- [[CAT]]
-- [[Geological survey and exploration service firms]]
-- [[Mining safety and environmental compliance vendors]]
+- [[Mining equipment manufacturers]]
+- [[Drilling rig suppliers]]
+- [[Geological survey firms]]
+- [[Mining software providers]]
+- [[Heavy machinery manufacturers]]
 
 ### 下游客户
-- [[Nuclear power plant operators (e.g., EDF, EDF Energy)]]
-- [[National nuclear agencies (e.g., U.S. DOE, Canadian Nuclear Safety Commission)]]
-- [[Nuclear fuel cycle companies (e.g., Westinghouse, Areva)]]
-- [[International nuclear research facilities]]
-- [[Government procurement agencies for nuclear energy]]
+- [[Electric Power Generating Companies]]
+- [[Nuclear Power Plant Operators]]
+- [[National Energy Utilities]]
+- [[International Atomic Energy Agency (IAEA) clients]]
+- [[Nuclear fuel cycle contractors]]
 
 ### 竞争对手
 - [[Kazatomprom]]
-- [[Uranium Energy Corp]]
-- [[Orano (formerly Areva)]]
-- [[NexGen Energy Ltd.]]
+- [[Energy Fuels Inc.]]
+- [[Uranium Energy Corp.]]
 - [[Uranium One Inc.]]
+- [[NexGen Energy Ltd.]]
 
 ### 核心产品
-- [[Uranium ore (U3O8)]]
+- [[Natural uranium ore]]
 - [[Uranium hexafluoride (UF6)]]
-- [[Enriched uranium fuel assemblies]]
-- [[Depleted uranium byproducts]]
-- [[Uranium concentrate for fuel fabrication]]
+- [[Enriched uranium fuel]]
+- [[Uranium fuel assemblies]]
+- [[Uranium enrichment services]]
 
 ## 数据来源
 
 - [Cameco](https://en.wikipedia.org/wiki/Cameco_Corporation)
-- [Cameco Corporation suppliers manufacturers](https://www.cameco.com/media/news/cameco-announces-election-of-directors-and-achievement-of-commercial-produc)
-- [Cameco Corporation suppliers manufacturers](https://www.cameco.com/media/news/cameco-responds-to-us-dept-of-commerce-initiation-of-section-232-investigation-into-uranium-imports)
-- [Cameco Corporation major customers clients](https://www.cameco.com/invest)
-- [Cameco Corporation major customers clients](https://www.marketresearch.com/MarketLine-v3883/Cameco-Corp-Company-Profile-SWOT-42667107/)
+- [Cameco Corporation suppliers manufacturers](https://www.cameco.com/)
+- [Cameco Corporation suppliers manufacturers](https://www.cameco.com/about)
+- [Cameco Corporation major customers clients](https://finance.yahoo.com/news/cameco-ai-winner-hidden-plain-152721743.html)
+- [Cameco Corporation major customers clients](https://seekingalpha.com/article/4775247-cameco-corp-unrivaled-western-uranium-hegemony-from-mines-to-micro-reactors-edge)
 
 ## 元数据
 
-- **更新日期**: 2026-02-08
+- **更新日期**: 2026-02-19

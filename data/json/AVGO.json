@@ -8,30 +8,30 @@
     "005930.KS",
     "GlobalFoundries",
     "INTC",
-    "UMC"
+    "MU"
   ],
   "downstream": [
-    "AMZN",
-    "MSFT",
-    "GOOGL",
     "CSCO",
-    "DELL"
+    "DELL",
+    "HPQ",
+    "AMZN",
+    "MSFT"
   ],
   "competitors": [
     "QCOM",
     "INTC",
     "NVDA",
-    "MRVL",
-    "TXN"
+    "TXN",
+    "MediaTek"
   ],
   "key_products": [
-    "RF transceivers",
-    "Ethernet controllers",
     "Wi‑Fi chips",
-    "Broadband modems",
+    "Ethernet controllers",
+    "5G modems",
+    "Broadband chips",
     "Storage controllers"
   ],
-  "extracted_at": "2026-02-08 02:12:51",
+  "extracted_at": "2026-02-19 14:31:34",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,21 +47,21 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.broadcom.com/how-to-buy/partner-distributor-lookup",
+      "url": "https://csimarket.com/stocks/AVGO-Suppliers",
       "query": "Broadcom Inc. suppliers manufacturers",
-      "snippet": "The Partner Locator will help you find the local expertise you need to be successful with Broadcom solutions. Begin searching by typing what you're lo"
+      "snippet": "Broadcom Inc supply chain, list and performance of Broadcom Incs ' suppliers - CSIMarket."
     },
     {
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Broadcom",
       "query": "Broadcom Inc. major customers clients",
-      "snippet": "Broadcom Inc . is an American multinational designer, developer, manufacturer, and global supplier of a wide range of semiconductor and infrastructure"
+      "snippet": "Broadcom Inc. is an American multinational designer, developer, manufacturer, and global supplier of a wide range of semiconductor and infrastructure "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.broadcom.com/",
+      "url": "https://csimarket.com/stocks/AVGO-Customers",
       "query": "Broadcom Inc. major customers clients",
-      "snippet": "Broadcom delivers semiconductors and infrastructure software for global enterprises’ most complex, mission-critical needs."
+      "snippet": "Broadcom Inc customers and markets, results by customer and performance relative to AVGO, by company and industry - CSIMarket"
     }
   ]
 }

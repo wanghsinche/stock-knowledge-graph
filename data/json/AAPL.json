@@ -4,24 +4,24 @@
   "sector": "Technology",
   "industry": "Consumer Electronics",
   "upstream": [
-    "Foxconn (Hon Hai Precision Industry)",
-    "Compal Electronics",
-    "Pegatron",
-    "Quanta Computer",
-    "Wistron"
+    "TSM",
+    "005930.KS",
+    "Foxconn (Hon Hai)",
+    "ASE Technology Holding",
+    "QCOM"
   ],
   "downstream": [
-    "Consumers (individual retail customers)",
+    "Best Buy",
+    "AMZN",
+    "Walmart",
     "AAPL",
-    "AAPL",
-    "Enterprise customers",
-    "CAT"
+    "Enterprise customers"
   ],
   "competitors": [
     "005930.KS",
-    "MSFT",
     "GOOGL",
-    "AMZN",
+    "MSFT",
+    "Xiaomi",
     "Huawei"
   ],
   "key_products": [
@@ -29,9 +29,9 @@
     "iPad",
     "Mac",
     "Apple Watch",
-    "AirPods"
+    "Apple TV"
   ],
-  "extracted_at": "2026-02-08 02:11:52",
+  "extracted_at": "2026-02-19 14:29:52",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/Apple_supply_chain",
+      "query": "Apple Inc. suppliers manufacturers",
+      "snippet": "Apple supply chain As of 2021, Apple uses components from 43 countries. [1] The majority of assembling is done by Taiwanese original design manufactur"
+    },
+    {
+      "source": "DuckDuckGo",
       "url": "https://www.investopedia.com/articles/investing/090315/10-major-companies-tied-apple-supply-chain.asp",
       "query": "Apple Inc. suppliers manufacturers",
-      "snippet": "Key Apple Suppliers from Taiwan · Hon Hai Precision Industry (Foxconn) · Compal · Quanta Computer · Taiwan Semiconductor Manufacturing Company · Wistr"
+      "snippet": "Nov 13, 2025 · Discover Apple's top suppliers and how they enhance product performance and innovation. Learn about Apple's efficient supply chain and "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.apple.com/supply-chain/",
-      "query": "Apple Inc. suppliers manufacturers",
-      "snippet": "Our suppliers are required to meet the strict standards of the Apple Supplier Code of Conduct, no matter where they operate or what type of goods, ser"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/AAPL-Customers",
+      "url": "https://en.wikipedia.org/wiki/Apple_Inc.",
       "query": "Apple Inc. major customers clients",
-      "snippet": "Apple Inc's Comment on Sales, Marketing and Customers The Company's customers are primarily in the consumer, SMB, education, enterprise and government"
+      "snippet": "3 days ago - Gassée left the company later that year to set up a rival, Be Inc. The company pivoted strategy and, in October 1990, introduced three lo"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://businessmodelanalyst.com/apple-target-market/",
+      "url": "https://www.quora.com/Who-are-Apples-biggest-business-customers",
       "query": "Apple Inc. major customers clients",
-      "snippet": "Understanding a company's target market is essential to its success. It helps shape product offerings, marketing strategies, and customer experiences "
+      "snippet": "Answer: By market cap on the NYSE and Nasdaq stock exchanges the biggest customers are the cell phone carriers such as AT&T and Verizon . The iPhone i"
     }
   ]
 }

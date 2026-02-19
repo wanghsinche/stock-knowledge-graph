@@ -3,8 +3,8 @@ ticker: AAPL
 company: Apple Inc.
 sector: Technology
 industry: Consumer Electronics
-extracted_at: 2026-02-08 02:11:52
-last_updated: 2026-02-08
+extracted_at: 2026-02-19 14:29:52
+last_updated: 2026-02-19
 ---
 
 # AAPL - Apple Inc.
@@ -12,29 +12,29 @@ last_updated: 2026-02-08
 ## 基本信息
 
 - **所属行业**: Technology / Consumer Electronics
-- **提取时间**: 2026-02-08 02:11:52
+- **提取时间**: 2026-02-19 14:29:52
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Foxconn (Hon Hai Precision Industry)]]
-- [[Compal Electronics]]
-- [[Pegatron]]
-- [[Quanta Computer]]
-- [[Wistron]]
+- [[TSM]]
+- [[005930.KS]]
+- [[Foxconn (Hon Hai)]]
+- [[ASE Technology Holding]]
+- [[QCOM]]
 
 ### 下游客户
-- [[Consumers (individual retail customers)]]
-- [[AAPL]]
+- [[Best Buy]]
+- [[AMZN]]
+- [[Walmart]]
 - [[AAPL]]
 - [[Enterprise customers]]
-- [[CAT]]
 
 ### 竞争对手
 - [[005930.KS]]
-- [[MSFT]]
 - [[GOOGL]]
-- [[AMZN]]
+- [[MSFT]]
+- [[Xiaomi]]
 - [[Huawei]]
 
 ### 核心产品
@@ -42,16 +42,16 @@ last_updated: 2026-02-08
 - [[iPad]]
 - [[Mac]]
 - [[Apple Watch]]
-- [[AirPods]]
+- [[Apple TV]]
 
 ## 数据来源
 
 - [Apple Inc.](https://en.wikipedia.org/wiki/Apple_Inc.)
+- [Apple Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/Apple_supply_chain)
 - [Apple Inc. suppliers manufacturers](https://www.investopedia.com/articles/investing/090315/10-major-companies-tied-apple-supply-chain.asp)
-- [Apple Inc. suppliers manufacturers](https://www.apple.com/supply-chain/)
-- [Apple Inc. major customers clients](https://csimarket.com/stocks/AAPL-Customers)
-- [Apple Inc. major customers clients](https://businessmodelanalyst.com/apple-target-market/)
+- [Apple Inc. major customers clients](https://en.wikipedia.org/wiki/Apple_Inc.)
+- [Apple Inc. major customers clients](https://www.quora.com/Who-are-Apples-biggest-business-customers)
 
 ## 元数据
 
-- **更新日期**: 2026-02-08
+- **更新日期**: 2026-02-19

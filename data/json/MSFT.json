@@ -4,34 +4,32 @@
   "sector": "Technology",
   "industry": "Software - Infrastructure",
   "upstream": [
-    "INTC",
-    "NVDA",
-    "AMD",
-    "QCOM",
-    "005930.KS"
+    "Mont LLC",
+    "Smart Technologies (BD) LTD",
+    "IMPORTADORA Y DIS"
   ],
   "downstream": [
     "Enterprise customers",
     "Government agencies",
-    "DELL",
-    "Retail consumers",
-    "MSFT"
+    "OEMs",
+    "Retailers",
+    "CAT"
   ],
   "competitors": [
-    "AAPL",
     "GOOGL",
     "AMZN",
-    "ORCL",
-    "IBM"
+    "AAPL",
+    "META",
+    "NVDA"
   ],
   "key_products": [
     "Windows operating system",
     "Microsoft Office suite",
     "Azure cloud platform",
-    "Microsoft 365",
+    "Microsoft Teams",
     "Xbox gaming console"
   ],
-  "extracted_at": "2026-02-08 02:11:26",
+  "extracted_at": "2026-02-19 14:29:35",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,9 +39,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/MSFT-Suppliers",
+      "url": "https://devicepartner.microsoft.com/connect/distributor",
       "query": "Microsoft Corporation suppliers manufacturers",
-      "snippet": "Microsoft supply chain, list and performance of Microsofts' suppliers - CSIMarket"
+      "snippet": "Find a distributor · Mont LLC · Smart Technologies (BD) LTD. · IMPORTADORA Y DISTRIBUIDORA INTB SRL Microsoft Authorized OEM Distributor. NEXSYS DE BO"
     },
     {
       "source": "DuckDuckGo",
@@ -53,7 +51,7 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.microsoft.com/en/customers",
+      "url": "https://www.microsoft.com/en-us/customers/",
       "query": "Microsoft Corporation major customers clients",
       "snippet": "Explore customer success stories to learn how businesses are overcoming challenges, driving innovation, and achieving more with Microsoft solutions."
     },

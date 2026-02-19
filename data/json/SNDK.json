@@ -1,37 +1,37 @@
 {
   "ticker": "SNDK",
   "company_name": "Sandisk Corporation",
-  "sector": "Technology / Computer Hardware",
+  "sector": "Technology",
   "industry": "Computer Hardware",
   "upstream": [
-    "Nanya Technology",
-    "005930.KS",
     "MU",
+    "005930.KS",
     "SK Hynix",
-    "INTC"
+    "WDC",
+    "STX"
   ],
   "downstream": [
     "AAPL",
-    "MSFT",
-    "GOOGL",
-    "AMZN",
-    "DELL"
+    "DELL",
+    "HPQ",
+    "Lenovo",
+    "MSFT"
   ],
   "competitors": [
-    "005930.KS",
-    "MU",
-    "SK Hynix",
-    "WDC",
-    "Kingston Technology"
+    "Kingston Technology",
+    "Lexar",
+    "Corsair",
+    "Crucial",
+    "Transcend"
   ],
   "key_products": [
     "Memory cards",
     "USB flash drives",
-    "Solid-state drives",
-    "SD cards",
-    "MicroSD cards"
+    "Solid‑state drives (SSDs)",
+    "Embedded flash memory",
+    "Automotive‑grade flash"
   ],
-  "extracted_at": "2026-02-08 02:12:07",
+  "extracted_at": "2026-02-19 14:27:47",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.cogentsourcing.com/nsn/manufacturer/sandisk-corporation/",
+      "url": "https://en.wikipedia.org/wiki/SanDisk",
       "query": "Sandisk Corporation suppliers manufacturers",
-      "snippet": "Cogent Sourcing stocks multiple parts from the NSN part manufacturer Sandisk Corporation . ... Submit an RFQ for Sandisk Corporation NSN parts."
+      "snippet": "Sandisk Corporation (sometimes stylized as SanDisk , with the D capitalized in camelCase) is an American multinational computer technology company bas"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.sandisk.com/company/about-us",
+      "url": "https://www.sandisk.com/company/distributors",
       "query": "Sandisk Corporation suppliers manufacturers",
-      "snippet": "At Sandisk we keep people and businesses moving forward with inspired innovations to actualize their potential. ... SANDISK Corporation or its ..."
+      "snippet": "Sandisk's automotive-grade products are developed in alignment with key industry standards and quality frameworks. These standards guide our design, d"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://data.landbase.com/technology/sandisk/",
+      "url": "https://ru.wikipedia.org/wiki/SanDisk",
       "query": "Sandisk Corporation major customers clients",
-      "snippet": "We have data on 324 companies that use SanDisk . Our SanDisk customers list is available for download and comes enriched with vital company specifics,"
+      "snippet": "SanDisk Corporation . SanDisk — американская корпорация, занимавшаяся разработкой и производством носителей информации на базе флеш-памяти. Корпорация"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://enlyft.com/tech/products/sandisk",
+      "url": "https://en.wikipedia.org/wiki/Western_Digital",
       "query": "Sandisk Corporation major customers clients",
-      "snippet": "Top Industries that use SanDisk Top Industries that use SanDisk Looking at SanDisk customers by industry, we find that Information Technology and Serv"
+      "snippet": "Western Digital Corporation , doing business as WD, is an American data storage company headquartered in San Jose, California. Established in 1970, th"
     }
   ]
 }

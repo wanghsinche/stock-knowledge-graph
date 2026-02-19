@@ -4,18 +4,18 @@
   "sector": "Communication Services",
   "industry": "Internet Content & Information",
   "upstream": [
-    "QCOM",
+    "TSM",
     "INTC",
     "005930.KS",
-    "DELL",
-    "CSCO"
+    "SONY",
+    "QCOM"
   ],
   "downstream": [
+    "Advertisers",
     "GOOGL",
-    "Android device manufacturers",
-    "YouTube content creators",
-    "GOOGL",
-    "Waymo customers"
+    "App developers (Android)",
+    "Content creators (YouTube)",
+    "Device manufacturers (OEMs)"
   ],
   "competitors": [
     "MSFT",
@@ -26,12 +26,12 @@
   ],
   "key_products": [
     "Google Search",
-    "Android OS",
     "YouTube",
-    "Google Cloud Platform",
+    "Google Cloud",
+    "Android",
     "Google Ads"
   ],
-  "extracted_at": "2026-02-08 02:13:06",
+  "extracted_at": "2026-02-19 14:31:00",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,25 +43,25 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Alphabet_Inc.",
       "query": "Alphabet Inc. suppliers manufacturers",
-      "snippet": "Alphabet Inc . has faced numerous legal and ethical controversies, including a 2017 lawsuit against Uber over stolen self-driving technology, a 2020 p"
+      "snippet": "Alphabet Inc . is an American multinational technology conglomerate holding company headquartered in Mountain View, California . It was created throug"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://csimarket.com/stocks/GOOG-Suppliers",
       "query": "Alphabet Inc. suppliers manufacturers",
-      "snippet": "Nov 28, 2025 · Alphabet Inc supply chain, list and performance of Alphabet Incs ' suppliers - CSIMarket"
+      "snippet": "Feb 6, 2026 · Alphabet Inc 's Comment on Supply Chain We rely on third parties to manufacture many of our assemblies and finished products, and we hav"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Alphabet_Inc",
+      "url": "https://en.wikipedia.org/wiki/Alphabet_Inc.",
       "query": "Alphabet Inc. major customers clients",
-      "snippet": "In January 2024, Waymo, the autonomous driving division of Alphabet Inc .,which operates extensively in San Francisco, filed an application with the ."
+      "snippet": "Google, Internet services, largest subsidiary and prior corporate entity name, Sundar Pichai ; Google Fiber, Internet access: via fiber, Dinesh Jain ;"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Alphabet_(company)",
+      "url": "https://seekingalpha.com/article/4862619-alphabet-big-rally-ranking-the-magnificent-7",
       "query": "Alphabet Inc. major customers clients",
-      "snippet": "In January 2024, Waymo, the autonomous driving division of Alphabet Inc ., which operates extensively in San Francisco, filed an application with the "
+      "snippet": "Jan 26, 2026 · For example, its top five end customers (primarily hyperscalers for AI/custom chips) accounted for ~40% of net revenue in FY2025 (per 1"
     }
   ]
 }
