@@ -4,16 +4,16 @@
   "sector": "Financial Services",
   "industry": "Banks - Diversified",
   "upstream": [
-    "ORCL",
-    "IBM",
     "MSFT",
-    "SAP",
-    "Accenture"
+    "Office supplies and equipment providers",
+    "Legal and compliance service firms",
+    "Consulting and advisory firms",
+    "Data analytics and cybersecurity vendors"
   ],
   "downstream": [
     "Retail banking customers",
-    "Small businesses",
-    "Large corporations",
+    "Small and medium enterprises",
+    "Large corporate clients",
     "Institutional investors",
     "Mortgage borrowers"
   ],
@@ -25,13 +25,13 @@
     "Morgan Stanley"
   ],
   "key_products": [
-    "Consumer banking",
-    "Mortgage loans",
-    "Credit cards",
+    "Retail banking services",
+    "Commercial banking",
+    "Investment banking",
     "Wealth management",
-    "Investment banking"
+    "Mortgage lending"
   ],
-  "extracted_at": "2026-02-19 16:45:11",
+  "extracted_at": "2026-02-20 16:35:46",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Bank_of_America",
+      "url": "https://about.bankofamerica.com/en/our-company/supplier-management",
       "query": "Bank of America Corporation suppliers manufacturers",
+      "snippet": "Bank of America is dedicated to partnering with suppliers who value ethics, inclusion, human rights, and the environment. Learn more about our supplie"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/BAC-Suppliers",
+      "query": "Bank of America Corporation suppliers manufacturers",
+      "snippet": "Bank Of America supply chain, list and performance of Bank Of Americas' suppliers - CSIMarket"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/Bank_of_America",
+      "query": "Bank of America Corporation major customers clients",
       "snippet": "The Bank of America Corporation is an American multinational investment bank and financial services holding company headquartered at the Bank of Ameri"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.bankofamerica.com/",
-      "query": "Bank of America Corporation suppliers manufacturers",
-      "snippet": "Banking , credit card, automobile loans, mortgage and home equity products are provided by Bank of America , N.A. and affiliated banks , Members FDIC "
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Bank_of_America",
       "query": "Bank of America Corporation major customers clients",
-      "snippet": "It serves about 10 percent of all American bank deposits, in direct competition with JPMorgan Chase, Citigroup, and Wells Fargo. Its primary financial"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://newsroom.bankofamerica.com/content/newsroom/company-overview/bank-of-america-fast-facts.html",
-      "query": "Bank of America Corporation major customers clients",
-      "snippet": "We serve approximately 70 million clients, institutional investor, medium and large corporate clients globally. Missing: major | Show results with: ma"
+      "snippet": "At Bank of America , our purpose is to help make financial lives better through the power of every connection.Merrill Lynch Wealth Management Clients "
     }
   ]
 }

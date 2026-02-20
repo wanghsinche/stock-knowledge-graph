@@ -3,8 +3,8 @@ ticker: V
 company: Visa Inc.
 sector: Financial Services
 industry: Credit Services
-extracted_at: 2026-02-19 16:48:29
-last_updated: 2026-02-19
+extracted_at: 2026-02-20 16:36:22
+last_updated: 2026-02-20
 ---
 
 # V - Visa Inc.
@@ -12,23 +12,23 @@ last_updated: 2026-02-19
 ## 基本信息
 
 - **所属行业**: Financial Services / Credit Services
-- **提取时间**: 2026-02-19 16:48:29
+- **提取时间**: 2026-02-20 16:36:22
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Chip manufacturers (e.g., NXP, STMicroelectronics)]]
-- [[Card production facilities (e.g., Plastic Card Manufacturers)]]
-- [[Software vendors (e.g., payment gateway providers)]]
-- [[Network infrastructure providers (e.g., telecom carriers)]]
-- [[Security and compliance service providers]]
+- [[Card network infrastructure providers]]
+- [[Chip and card manufacturing suppliers]]
+- [[Payment processing technology vendors]]
+- [[Security and fraud detection service providers]]
+- [[Data analytics and cloud service providers]]
 
 ### 下游客户
-- [[Commercial banks and credit unions]]
-- [[Retail merchants and e‑commerce platforms]]
-- [[Corporate card issuers]]
-- [[Travel and hospitality partners]]
-- [[Consumer mobile wallet users]]
+- [[Retail merchants]]
+- [[Banks and financial institutions]]
+- [[Card issuers]]
+- [[Online merchants]]
+- [[Consumers]]
 
 ### 竞争对手
 - [[Mastercard]]
@@ -41,17 +41,17 @@ last_updated: 2026-02-19
 - [[Visa credit cards]]
 - [[Visa debit cards]]
 - [[Visa prepaid cards]]
-- [[Visa payment network]]
-- [[Mobile payment solutions (e.g., Visa Checkout, Visa PayWave)]]
+- [[Visa payment processing services]]
+- [[Visa digital payment solutions]]
 
 ## 数据来源
 
 - [Visa Inc.](https://en.wikipedia.org/wiki/Visa_Inc.)
-- [Visa Inc. suppliers manufacturers](https://usa.visa.com/partner-with-us/info-for-partners/info-for-suppliers.html)
-- [Visa Inc. suppliers manufacturers](https://csimarket.com/stocks/V-Suppliers)
+- [Visa Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/Visa_Inc.)
+- [Visa Inc. suppliers manufacturers](https://ru.wikipedia.org/wiki/Visa)
 - [Visa Inc. major customers clients](https://en.wikipedia.org/wiki/Visa_Inc.)
-- [Visa Inc. major customers clients](https://corporate.visa.com/)
+- [Visa Inc. major customers clients](https://www.visa.com/en-us/thought-leadership/case-studies)
 
 ## 元数据
 
-- **更新日期**: 2026-02-19
+- **更新日期**: 2026-02-20

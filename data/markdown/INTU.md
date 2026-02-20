@@ -3,8 +3,8 @@ ticker: INTU
 company: Intuit Inc.
 sector: Technology
 industry: Software - Application
-extracted_at: 2026-02-19 14:46:19
-last_updated: 2026-02-19
+extracted_at: 2026-02-20 16:36:30
+last_updated: 2026-02-20
 ---
 
 # INTU - Intuit Inc.
@@ -12,7 +12,7 @@ last_updated: 2026-02-19
 ## 基本信息
 
 - **所属行业**: Technology / Software - Application
-- **提取时间**: 2026-02-19 14:46:19
+- **提取时间**: 2026-02-20 16:36:30
 
 ## 产业链关系
 
@@ -20,38 +20,38 @@ last_updated: 2026-02-19
 - [[AMZN]]
 - [[MSFT]]
 - [[GOOGL]]
-- [[ORCL]]
-- [[CSCO]]
+- [[DELL]]
+- [[HPQ]]
 
 ### 下游客户
-- [[Small businesses (e.g., local restaurants, retail stores)]]
-- [[Certified Public Accountants (CPAs)]]
-- [[Tax preparers]]
-- [[Individual consumers using TurboTax]]
-- [[E‑commerce merchants]]
+- [[Small and medium‑size businesses]]
+- [[Individual taxpayers]]
+- [[Certified public accountants]]
+- [[Tax preparation firms]]
+- [[Financial advisors]]
 
 ### 竞争对手
-- [[Xero]]
 - [[Sage]]
-- [[FreshBooks]]
+- [[Xero]]
 - [[Wave]]
 - [[Zoho Books]]
+- [[TaxAct]]
 
 ### 核心产品
 - [[TurboTax]]
 - [[QuickBooks]]
 - [[Credit Karma]]
 - [[Mailchimp]]
-- [[Intuit Financial Software Suite]]
+- [[QuickBooks Online]]
 
 ## 数据来源
 
 - [Intuit](https://en.wikipedia.org/wiki/Intuit_Inc.)
+- [Intuit Inc. suppliers manufacturers](https://quickbooks.intuit.com/r/wholesale-trade/how-to-find-wholesale-suppliers/)
 - [Intuit Inc. suppliers manufacturers](https://quickbooks.intuit.com/r/supply-chain/5-ways-to-find-international-manufacturers/)
-- [Intuit Inc. suppliers manufacturers](https://investors.intuit.com/_assets/_95ad7170fb600fdc9a2c5384b928b8c2/intuit/db/933/10235/file/2023.05.21-Intuit+Inc.+and+Intuit+Canada+ULC-Modern+Slavery+Statement+(FY23+Supply+Chains+Act)-Executed.pdf)
+- [Intuit Inc. major customers clients](https://en.wikipedia.org/wiki/Intuit)
 - [Intuit Inc. major customers clients](https://csimarket.com/stocks/INTU-Customers)
-- [Intuit Inc. major customers clients](https://www.appsruntheworld.com/customers-database/vendors/view/intuit)
 
 ## 元数据
 
-- **更新日期**: 2026-02-19
+- **更新日期**: 2026-02-20

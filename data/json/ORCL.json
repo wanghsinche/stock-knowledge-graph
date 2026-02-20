@@ -7,22 +7,22 @@
     "INTC",
     "AMD",
     "NVDA",
-    "QCOM",
-    "AVGO"
+    "DELL",
+    "CSCO"
   ],
   "downstream": [
-    "Walmart",
     "JPMorgan Chase",
-    "UnitedHealth Group",
+    "Walmart",
     "Bank of America",
-    "U.S. Department of Defense"
+    "UnitedHealth Group",
+    "AT&T"
   ],
   "competitors": [
     "MSFT",
     "AMZN",
+    "GOOGL",
     "IBM",
-    "SAP",
-    "GOOGL"
+    "SAP"
   ],
   "key_products": [
     "Oracle Database",
@@ -31,7 +31,7 @@
     "Oracle ERP Cloud",
     "Oracle Analytics Cloud"
   ],
-  "extracted_at": "2026-02-19 16:45:53",
+  "extracted_at": "2026-02-20 16:31:20",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/List_of_acquisitions_by_Oracle",
-      "query": "Oracle Corporation suppliers manufacturers",
-      "snippet": "List of acquisitions by Oracle This is a listing of Oracle Corporation 's corporate acquisitions, including acquisitions of both companies and individ"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.oracle.com/corporate/suppliers/",
-      "query": "Oracle Corporation suppliers manufacturers",
-      "snippet": "Doing Business with Oracle Oracle iSupplier Portal (iSP) is a secured self-service tool, which provides Oracle's suppliers with the ability to use a s"
-    },
-    {
-      "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Oracle_Corporation",
-      "query": "Oracle Corporation major customers clients",
-      "snippet": "Oracle Corporation is an American multinational technology company headquartered in Austin, Texas. Co-founded in 1977 in Santa Clara, California, by i"
+      "query": "Oracle Corporation suppliers manufacturers",
+      "snippet": "Co-founded in 1977 in Santa Clara, California, by its current chairman of the board and chief technology officer Larry Ellison, Oracle is among the 20"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ru.wikipedia.org/wiki/Oracle",
+      "url": "https://ar.wikipedia.org/wiki/أوراكل",
+      "query": "Oracle Corporation suppliers manufacturers",
+      "snippet": "شركة أوراكل (بالإنجليزية: Oracle Corporation ) هي واحدة من أضخم وأهم شركات تقنية المعلومات بشكل عام وقواعد البيانات بشكل خاص. تأسست شركة أوراكل في الع"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.oracle.com/customers/",
       "query": "Oracle Corporation major customers clients",
-      "snippet": "Oracle ( Oracle Corporation ) — американская корпорация, второй по размеру выручки разработчик программного обеспечения (после Microsoft), четвёртая к"
+      "snippet": "Oracle Customer Successes Innovation, ease of use, better results—those are just some of the reasons organizations in all industries and of all sizes "
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.thomsondata.com/customer-base/oracle.php",
+      "query": "Oracle Corporation major customers clients",
+      "snippet": "Technographic Data of Companies That Use Oracle Oracle Customers List by Industry Different industries use Oracle technology for their business . Look"
     }
   ]
 }

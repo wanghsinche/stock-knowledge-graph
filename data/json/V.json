@@ -4,18 +4,18 @@
   "sector": "Financial Services",
   "industry": "Credit Services",
   "upstream": [
-    "Chip manufacturers (e.g., NXP, STMicroelectronics)",
-    "Card production facilities (e.g., Plastic Card Manufacturers)",
-    "Software vendors (e.g., payment gateway providers)",
-    "Network infrastructure providers (e.g., telecom carriers)",
-    "Security and compliance service providers"
+    "Card network infrastructure providers",
+    "Chip and card manufacturing suppliers",
+    "Payment processing technology vendors",
+    "Security and fraud detection service providers",
+    "Data analytics and cloud service providers"
   ],
   "downstream": [
-    "Commercial banks and credit unions",
-    "Retail merchants and e‑commerce platforms",
-    "Corporate card issuers",
-    "Travel and hospitality partners",
-    "Consumer mobile wallet users"
+    "Retail merchants",
+    "Banks and financial institutions",
+    "Card issuers",
+    "Online merchants",
+    "Consumers"
   ],
   "competitors": [
     "Mastercard",
@@ -28,10 +28,10 @@
     "Visa credit cards",
     "Visa debit cards",
     "Visa prepaid cards",
-    "Visa payment network",
-    "Mobile payment solutions (e.g., Visa Checkout, Visa PayWave)"
+    "Visa payment processing services",
+    "Visa digital payment solutions"
   ],
-  "extracted_at": "2026-02-19 16:48:29",
+  "extracted_at": "2026-02-20 16:36:22",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://usa.visa.com/partner-with-us/info-for-partners/info-for-suppliers.html",
+      "url": "https://en.wikipedia.org/wiki/Visa_Inc.",
       "query": "Visa Inc. suppliers manufacturers",
-      "snippet": "Visa recognizes the value of engaging with a broad group of suppliers , including small and micro-sized businesses (SMBs), and provides opportunities "
+      "snippet": "Visa Inc . is an American multinational payment card services corporation headquartered in San Francisco, California. It facilitates electronic funds "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/V-Suppliers",
+      "url": "https://ru.wikipedia.org/wiki/Visa",
       "query": "Visa Inc. suppliers manufacturers",
-      "snippet": "V Costs vs Sales of Suppliers Growth Visa Inc's Suppliers recorded an increase in sales by 1.89 % year on year in Q3 2025, from the previous quarter, "
+      "snippet": "Visa Inc . ([ˈviːzə] или [ˈviːsə]) — американская транснациональная компания, предоставляющая услуги проведения платёжных операций. Является основой о"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Visa_Inc.",
       "query": "Visa Inc. major customers clients",
-      "snippet": "Visa Inc . is an American multinational payment card services corporation headquartered in San Francisco, California."
+      "snippet": "Visa is the world's second-largest card payment organization (debit and credit cards combined), after being surpassed by China UnionPay in 2015, based"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://corporate.visa.com/",
+      "url": "https://www.visa.com/en-us/thought-leadership/case-studies",
       "query": "Visa Inc. major customers clients",
-      "snippet": "см. также документ: Visa Inc . Corporate Overview)."
+      "snippet": "Discover how Visa helps companies and governments around the globe increase customer loyalty, boost productivity, and help their businesses thrive. Mi"
     }
   ]
 }

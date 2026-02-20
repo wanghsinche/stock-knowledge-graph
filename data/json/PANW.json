@@ -4,12 +4,16 @@
   "sector": "Technology",
   "industry": "Software - Infrastructure",
   "upstream": [
-    "Silicon (semiconductor manufacturers)"
+    "Distributors",
+    "Manufacturers",
+    "Hardware component suppliers",
+    "Software integration partners",
+    "Cloud infrastructure providers"
   ],
   "downstream": [
     "ADT",
     "Westfield",
-    "Fortune 100 companies",
+    "Fortune 100 enterprises",
     "Government agencies",
     "Financial institutions"
   ],
@@ -18,16 +22,16 @@
     "Fortinet",
     "Check Point Software Technologies",
     "JNPR",
-    "Sophos"
+    "SonicWall"
   ],
   "key_products": [
-    "Next‑Generation Firewall",
-    "Cloud Security (CNAPP)",
-    "Endpoint Protection",
+    "Next‑Generation Firewall (NGFW)",
+    "Cloud Security (Prisma Cloud)",
     "Threat Intelligence (Unit 42)",
-    "Secure Access Service Edge (SASE)"
+    "Secure Access Service Edge (SASE)",
+    "Endpoint Protection (Traps)"
   ],
-  "extracted_at": "2026-02-19 16:45:45",
+  "extracted_at": "2026-02-20 16:31:53",
   "sources": [
     {
       "source": "Wikipedia",
@@ -37,15 +41,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Silicon_Valley",
+      "url": "https://paloaltonetworks.my.site.com/NextWavePartnerProgram/s/partnerlocator",
       "query": "Palo Alto Networks, Inc. suppliers manufacturers",
-      "snippet": "\"Silicon\" refers to the chemical element used in silicon-based transistors and integrated circuit chips, which is the focus of a large number of compu"
+      "snippet": "Distributors Extend Palo Alto Networks partners reach to address customer demand for Palo Alto Networks security solutions, services and support on a "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.paloaltonetworks.com/",
+      "url": "https://www.paloaltonetworks.com/industry/manufacturing",
       "query": "Palo Alto Networks, Inc. suppliers manufacturers",
-      "snippet": "Palo Alto Networks : Cloud Security Leader in First-Ever CNAPP Report. The Forrester Wave™: Cloud Workload Security, Q1 2024. Frost Radar™: Cloud Secu"
+      "snippet": "As Industry 4.0 unfolds and the internet of things (IoT) expands, manufacturers are deploying next-gen technologies at scale. Despite the do-or-die pa"
     },
     {
       "source": "DuckDuckGo",
@@ -55,9 +59,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/PANW-Customers",
+      "url": "https://www.appsruntheworld.com/customers-database/products/view/palo-alto-networks-pa-series",
       "query": "Palo Alto Networks, Inc. major customers clients",
-      "snippet": "2 days ago · Palo Alto Networks Inc customers and markets, results by customer and performance relative to PANW, by company and industry - CSIMarket"
+      "snippet": "The Palo Alto Networks PA-Series customer wins are being incorporated in our Enterprise Applications Buyer Insight and Technographics Customer Databas"
     }
   ]
 }

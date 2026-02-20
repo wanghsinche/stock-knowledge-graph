@@ -3,8 +3,8 @@ ticker: NBIS
 company: Nebius Group N.V.
 sector: Communication Services
 industry: Internet Content & Information
-extracted_at: 2026-02-19 16:46:41
-last_updated: 2026-02-19
+extracted_at: 2026-02-20 16:34:49
+last_updated: 2026-02-20
 ---
 
 # NBIS - Nebius Group N.V.
@@ -12,46 +12,46 @@ last_updated: 2026-02-19
 ## 基本信息
 
 - **所属行业**: Communication Services / Internet Content & Information
-- **提取时间**: 2026-02-19 16:46:41
+- **提取时间**: 2026-02-20 16:34:49
 
 ## 产业链关系
 
 ### 上游供应商
-- [[NVDA]]
 - [[INTC]]
-- [[AMD]]
-- [[GOOGL]]
+- [[NVDA]]
 - [[AMZN]]
+- [[MSFT]]
+- [[GOOGL]]
 
 ### 下游客户
-- [[Federal Government IT systems]]
-- [[GOOGL]]
+- [[Goldman Sachs]]
+- [[Cloudflare]]
 - [[MSFT]]
-- [[IBM]]
-- [[ORCL]]
+- [[AMZN]]
+- [[GOOGL]]
 
 ### 竞争对手
-- [[NVDA]]
-- [[INTC]]
-- [[AMD]]
-- [[GOOGL]]
-- [[AMZN]]
+- [[OpenAI]]
+- [[Anthropic]]
+- [[DeepMind]]
+- [[Cohere]]
+- [[AI21 Labs]]
 
 ### 核心产品
 - [[Nebius AI Infrastructure Platform]]
-- [[Avride]]
-- [[TripleTen]]
-- [[Toloka]]
-- [[Clickhouse]]
+- [[Nebius Cloud AI Services]]
+- [[Nebius AI Data Labeling Platform]]
+- [[Nebius AI Compute Services]]
+- [[Nebius AI Analytics]]
 
 ## 数据来源
 
 - [Nebius Group](https://en.wikipedia.org/wiki/NBIS)
 - [NBIS suppliers manufacturers](https://csimarket.com/stocks/NBIS-Suppliers)
-- [NBIS suppliers manufacturers](https://www.dcsa.mil/Systems-Applications/National-Background-Investigation-Services-NBIS/)
-- [NBIS major customers clients](https://www.youtube.com/watch?v=USAm2vxULdc)
-- [NBIS major customers clients](https://www.nasdaq.com/market-activity/stocks/nbis)
+- [NBIS suppliers manufacturers](https://www.chamberofcommerce.com/united-states/illinois/chicago/insurance-agency/30006197-nbis)
+- [NBIS major customers clients](https://x.com/techfund1/status/1955204045422899585)
+- [NBIS major customers clients](https://mvcinvesting.substack.com/p/nebius-group-nbis-the-key-catalysts)
 
 ## 元数据
 
-- **更新日期**: 2026-02-19
+- **更新日期**: 2026-02-20

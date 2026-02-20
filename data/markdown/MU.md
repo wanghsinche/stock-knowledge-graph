@@ -3,8 +3,8 @@ ticker: MU
 company: Micron Technology, Inc.
 sector: Technology
 industry: Semiconductors
-extracted_at: 2026-02-19 16:41:29
-last_updated: 2026-02-19
+extracted_at: 2026-02-20 16:27:55
+last_updated: 2026-02-20
 ---
 
 # MU - Micron Technology, Inc.
@@ -12,46 +12,28 @@ last_updated: 2026-02-19
 ## 基本信息
 
 - **所属行业**: Technology / Semiconductors
-- **提取时间**: 2026-02-19 16:41:29
+- **提取时间**: 2026-02-20 16:27:55
 
 ## 产业链关系
 
 ### 上游供应商
-- [[AMAT]]
-- [[ASML]]
-- [[LRCX]]
-- [[Tokyo Electron]]
-- [[KLA]]
+_暂无数据_
 
 ### 下游客户
-- [[DELL]]
-- [[HPQ]]
-- [[Lenovo Group]]
-- [[AAPL]]
-- [[005930.KS]]
+_暂无数据_
 
 ### 竞争对手
-- [[005930.KS]]
-- [[SK Hynix]]
-- [[INTC]]
-- [[WDC]]
-- [[STX]]
+_暂无数据_
 
 ### 核心产品
-- [[Dynamic Random‑Access Memory (DRAM)]]
-- [[NAND Flash Memory]]
-- [[Solid‑State Drives (SSDs)]]
-- [[Memory Modules]]
-- [[Embedded DRAM (eDRAM)]]
+_暂无数据_
 
 ## 数据来源
 
 - [Micron Technology](https://en.wikipedia.org/wiki/Micron_Technology,_Inc.)
-- [Micron Technology, Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/Micron_Technology)
-- [Micron Technology, Inc. suppliers manufacturers](https://www.micron.com/about/company/suppliers)
-- [Micron Technology, Inc. major customers clients](https://en.wikipedia.org/wiki/Micron_Technology)
-- [Micron Technology, Inc. major customers clients](https://www.quora.com/Who-are-the-customers-of-Micron-Technology)
+- [Micron Technology, Inc. suppliers manufacturers](https://www.micron.com/sales-support/sales-network/find-a-manufacturer)
+- [Micron Technology, Inc. suppliers manufacturers](https://csimarket.com/stocks/MU-Suppliers)
 
 ## 元数据
 
-- **更新日期**: 2026-02-19
+- **更新日期**: 2026-02-20

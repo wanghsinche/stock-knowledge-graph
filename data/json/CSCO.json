@@ -4,18 +4,18 @@
   "sector": "Technology",
   "industry": "Communication Equipment",
   "upstream": [
-    "INTC",
     "AVGO",
+    "INTC",
     "QCOM",
     "TXN",
-    "NVDA"
+    "MU"
   ],
   "downstream": [
-    "Enterprise IT departments",
+    "AT&T",
     "CAT",
-    "Government agencies",
-    "CAT",
-    "Healthcare organizations"
+    "GOOGL",
+    "AMZN",
+    "MSFT"
   ],
   "competitors": [
     "JNPR",
@@ -25,13 +25,13 @@
     "Ericsson"
   ],
   "key_products": [
-    "Cisco routers",
-    "Cisco switches",
-    "Cisco firewalls",
-    "Webex video conferencing",
-    "Cisco Meraki cloud‑managed networking"
+    "Cisco routers (ISR, ASR)",
+    "Cisco switches (Catalyst, Nexus)",
+    "Cisco firewalls (ASA, Firepower)",
+    "Cisco Webex (videoconferencing)",
+    "Cisco Meraki (cloud‑managed networking)"
   ],
-  "extracted_at": "2026-02-19 14:47:12",
+  "extracted_at": "2026-02-20 16:36:13",
   "sources": [
     {
       "source": "Wikipedia",
@@ -49,13 +49,13 @@
       "source": "DuckDuckGo",
       "url": "https://csimarket.com/stocks/CSCO-Suppliers",
       "query": "Cisco Systems, Inc. suppliers manufacturers",
-      "snippet": "Cisco Systems Inc supply chain, list and performance of Cisco Systems Incs' suppliers - CSIMarket"
+      "snippet": "1 day ago · Cisco Systems Inc supply chain, list and performance of Cisco Systems Incs ' suppliers - CSIMarket"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Cisco",
       "query": "Cisco Systems, Inc. major customers clients",
-      "snippet": "Cisco Systems , Inc . (using the trademark Cisco ) is an American multinational digital communications technology conglomerate corporation headquarter"
+      "snippet": "Cisco Systems , Inc . Cisco 's headquarters in Santana Row, San Jose, California. Cisco provides IT products and services across five major technology"
     },
     {
       "source": "DuckDuckGo",

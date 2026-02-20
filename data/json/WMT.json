@@ -1,37 +1,37 @@
 {
   "ticker": "WMT",
   "company_name": "Walmart Inc.",
-  "sector": "Consumer Defensive",
-  "industry": "Discount Stores",
+  "sector": "Consumer Defensive / Discount Stores",
+  "industry": "Retail - Discount Stores",
   "upstream": [
+    "Plug Power Inc.",
     "Procter & Gamble",
+    "HPQ",
     "Coca‑Cola",
-    "Johnson & Johnson",
-    "Nike",
-    "005930.KS"
+    "Nike"
   ],
   "downstream": [
     "U.S. consumers",
     "International consumers",
-    "Sam's Club members",
-    "Online shoppers via Walmart.com",
-    "Small business partners"
+    "Online shoppers",
+    "Local communities",
+    "Small businesses"
   ],
   "competitors": [
     "Target",
     "Costco",
     "AMZN",
-    "BJ's Wholesale",
-    "Dollar General"
+    "Kroger",
+    "Home Depot"
   ],
   "key_products": [
     "Groceries",
-    "Apparel",
     "Electronics",
+    "Clothing",
     "Household goods",
-    "Pharmacy products"
+    "Furniture"
   ],
-  "extracted_at": "2026-02-19 16:42:40",
+  "extracted_at": "2026-02-20 16:30:16",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,25 +43,25 @@
       "source": "DuckDuckGo",
       "url": "https://corporate.walmart.com/suppliers",
       "query": "Walmart Inc. suppliers manufacturers",
-      "snippet": "January 23, 2025 - When a supplier grows their business alongside us, everybody wins, including the communities where they operate and our customers. "
+      "snippet": "Supplier Development. Walmart works with suppliers around the world to source quality products at great prices to help our customers save money and li"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.investopedia.com/articles/insights/050116/walmart-stock-analyzing-5-key-suppliers-wmt.asp",
       "query": "Walmart Inc. suppliers manufacturers",
-      "snippet": "November 3, 2025 - As Walmart continues to grow, its number of suppliers grows as well. In 2021, Walmart announced that over the next ten years, it pl"
+      "snippet": "5 Key Suppliers of Walmart · 1. Plug Power Inc. · 2. Proctor & Gamble · 3. HP Inc. · 4. Green Dot Corporation · 5. Primo Brands Corporation."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Walmart",
+      "url": "https://capitaloneshopping.com/research/walmart-statistics/",
       "query": "Walmart Inc. major customers clients",
-      "snippet": "1969–1990: Incorporation and growth as a regional power. Logo used from 1966 to 1981. The company was incorporated under Delaware General Corporation "
+      "snippet": "Latest available data on Walmart's size and market share, both offline and online, with total sales and revenue breakdowns by year."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.walmart.com/",
+      "url": "https://businessmodelanalyst.com/walmart-target-market/",
       "query": "Walmart Inc. major customers clients",
-      "snippet": "Shop Walmart .com today for Every Day Low Prices. Join Walmart + for unlimited free delivery from your store and free shipping with no order minimum. "
+      "snippet": "This article will examine Walmart target market and approach to reaching a broad yet carefully segmented customer base. From demographic factors like "
     }
   ]
 }

@@ -4,34 +4,34 @@
   "sector": "Communication Services",
   "industry": "Internet Content & Information",
   "upstream": [
-    "NVDA",
     "INTC",
-    "AMD",
-    "GOOGL",
-    "AMZN"
+    "NVDA",
+    "AMZN",
+    "MSFT",
+    "GOOGL"
   ],
   "downstream": [
-    "Federal Government IT systems",
-    "GOOGL",
+    "Goldman Sachs",
+    "Cloudflare",
     "MSFT",
-    "IBM",
-    "ORCL"
+    "AMZN",
+    "GOOGL"
   ],
   "competitors": [
-    "NVDA",
-    "INTC",
-    "AMD",
-    "GOOGL",
-    "AMZN"
+    "OpenAI",
+    "Anthropic",
+    "DeepMind",
+    "Cohere",
+    "AI21 Labs"
   ],
   "key_products": [
     "Nebius AI Infrastructure Platform",
-    "Avride",
-    "TripleTen",
-    "Toloka",
-    "Clickhouse"
+    "Nebius Cloud AI Services",
+    "Nebius AI Data Labeling Platform",
+    "Nebius AI Compute Services",
+    "Nebius AI Analytics"
   ],
-  "extracted_at": "2026-02-19 16:46:41",
+  "extracted_at": "2026-02-20 16:34:49",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,25 +43,25 @@
       "source": "DuckDuckGo",
       "url": "https://csimarket.com/stocks/NBIS-Suppliers",
       "query": "NBIS suppliers manufacturers",
-      "snippet": "Sources: Nebius Group n v 's official press releases and regulatory filings; CSIMarket.com's supply-chain research; and the financial filings and pres"
+      "snippet": "May 3, 2025 · Sources: Nebius Group n v 's official press releases and regulatory filings; CSIMarket.com's supply -chain research; and the financial f"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.dcsa.mil/Systems-Applications/National-Background-Investigation-Services-NBIS/",
+      "url": "https://www.chamberofcommerce.com/united-states/illinois/chicago/insurance-agency/30006197-nbis",
       "query": "NBIS suppliers manufacturers",
-      "snippet": "NBIS is the Federal government's IT system for end-to-end process for personnel vetting. This starts with the initiation and application for a backgro"
+      "snippet": "AboutNbis Nbis is located at 1 S Wacker Dr, Ste 2910 in Chicago , Illinois 60606. Nbis can be contacted via phone at (312) 795-1040 for pricing, hours"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.youtube.com/watch?v=USAm2vxULdc",
+      "url": "https://x.com/techfund1/status/1955204045422899585",
       "query": "NBIS major customers clients",
-      "snippet": "Today we break down the Google vs Nvidia AI chip debate that took over the market this week — and what this means for Nebius ( NBIS ) as a preferred N"
+      "snippet": "Aug 12, 2025 · Goldman on Nebius $NBIS - winning major customers such as Cloudflare and Shopify, and company is in discussions with frontier AI labs a"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.nasdaq.com/market-activity/stocks/nbis",
+      "url": "https://mvcinvesting.substack.com/p/nebius-group-nbis-the-key-catalysts",
       "query": "NBIS major customers clients",
-      "snippet": "ETFs with NBIS as a Top 10 Holding*.Data Disclaimer: The Nasdaq Indices and the Major Indices are delayed at least 1 minute. Real-time Data is provide"
+      "snippet": "Jun 14, 2025 · ... NBIS to ink a large, multi-year deal with a major AI customer — potentially a LLM developer like OpenAI or Google. Once again, it's"
     }
   ]
 }

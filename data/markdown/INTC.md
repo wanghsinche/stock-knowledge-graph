@@ -3,8 +3,8 @@ ticker: INTC
 company: Intel Corporation
 sector: Technology
 industry: Semiconductors
-extracted_at: 2026-02-19 16:43:52
-last_updated: 2026-02-19
+extracted_at: 2026-02-20 16:30:07
+last_updated: 2026-02-20
 ---
 
 # INTC - Intel Corporation
@@ -12,16 +12,16 @@ last_updated: 2026-02-19
 ## 基本信息
 
 - **所属行业**: Technology / Semiconductors
-- **提取时间**: 2026-02-19 16:43:52
+- **提取时间**: 2026-02-20 16:30:07
 
 ## 产业链关系
 
 ### 上游供应商
-- [[TSM]]
-- [[005930.KS]]
-- [[GlobalFoundries]]
-- [[ASE Group]]
-- [[MU]]
+- [[ASML]]
+- [[AMAT]]
+- [[LRCX]]
+- [[Silicon wafer suppliers]]
+- [[Chemical suppliers (etchants, photoresists)]]
 
 ### 下游客户
 - [[DELL]]
@@ -41,17 +41,17 @@ last_updated: 2026-02-19
 - [[Intel Core CPUs]]
 - [[Intel Xeon CPUs]]
 - [[Intel Arc GPUs]]
-- [[Intel FPGAs]]
-- [[Intel AI Accelerators]]
+- [[Intel SSDs]]
+- [[Intel Network Processors]]
 
 ## 数据来源
 
 - [Intel](https://en.wikipedia.org/wiki/Intel_Corporation)
-- [Intel Corporation suppliers manufacturers](https://en.wikipedia.org/wiki/Intel)
-- [Intel Corporation suppliers manufacturers](https://www.intel.com/content/www/us/en/supplier/overview.html)
-- [Intel Corporation major customers clients](https://en.wikipedia.org/wiki/Intel)
-- [Intel Corporation major customers clients](https://finance.yahoo.com/news/intels-break-foundry-moment-arrives-135500944.html)
+- [Intel Corporation suppliers manufacturers](https://en.wikipedia.org/wiki/List_of_Intel_manufacturing_sites)
+- [Intel Corporation suppliers manufacturers](https://www.intel.com/content/www/us/en/partner/showcase/partner-directory/distributor.html)
+- [Intel Corporation major customers clients](https://csimarket.com/stocks/INTC-Customers)
+- [Intel Corporation major customers clients](https://www.investopedia.com/articles/markets/100214/inside-intel-look-mega-chipmaker.asp)
 
 ## 元数据
 
-- **更新日期**: 2026-02-19
+- **更新日期**: 2026-02-20

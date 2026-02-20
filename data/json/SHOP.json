@@ -4,11 +4,11 @@
   "sector": "Technology",
   "industry": "Software - Application",
   "upstream": [
-    "AMZN",
-    "GOOGL",
-    "MSFT",
-    "Stripe",
-    "PayPal"
+    "Wholesale distributors",
+    "POS hardware manufacturers",
+    "Payment processor partners",
+    "Cloud infrastructure providers",
+    "App marketplace vendors"
   ],
   "downstream": [
     "TSLA",
@@ -18,20 +18,20 @@
     "AB InBev"
   ],
   "competitors": [
+    "AMZN",
+    "eBay",
+    "Walmart Marketplace",
     "BigCommerce",
-    "Wix",
-    "Magento",
-    "WooCommerce",
-    "Squarespace"
+    "ADBE"
   ],
   "key_products": [
-    "Shopify Platform",
+    "Shopify e-commerce platform",
     "Shopify Payments",
     "Shopify POS",
     "Shopify Fulfillment Network",
     "Shopify Capital"
   ],
-  "extracted_at": "2026-02-19 14:38:27",
+  "extracted_at": "2026-02-20 16:33:38",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
+      "url": "https://www.shopify.com/blog/dropshipping-suppliers",
+      "query": "Shopify Inc. suppliers manufacturers",
+      "snippet": "Use Wholesale Central to find all types of suppliers, including wholesale distributors and manufacturers, as well as those offering dropshipping. Pros"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.shopify.com/blog/wholesale-suppliers",
+      "query": "Shopify Inc. suppliers manufacturers",
+      "snippet": "This guide will help you understand how wholesale buying works, explore your sourcing options, and learn how to find wholesale or dropshipping supplie"
+    },
+    {
+      "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Shopify",
-      "query": "Shopify Inc. suppliers manufacturers",
-      "snippet": "Shopify Inc ., stylized as shopify , is a Canadian multinational e-commerce company headquartered in Ottawa, Ontario that operates a platform for reta"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://ru.wikipedia.org/wiki/Shopify",
-      "query": "Shopify Inc. suppliers manufacturers",
-      "snippet": "Shopify — интернет-компания, занимается разработкой программного обеспечения для онлайн и розничных магазинов. Штаб-квартира находится в Оттаве, Канад"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://capitaloneshopping.com/research/shopify-statistics/",
       "query": "Shopify Inc. major customers clients",
-      "snippet": "Latest available data and statistics on Shopify including the number of stores, customers , users, revenue, growth rate and more."
+      "snippet": "Major customers include Tesla, LVMH, Nestlé, PepsiCo, AB InBev, Kraft Heinz, Lindt, Whole Foods Market, Red Bull, and Hyatt. Shopify Inc. Company type"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.thomsondata.com/customer-base/shopify-customers.php",
+      "url": "https://www.sitebuilderreport.com/biggest-companies-using-shopify",
       "query": "Shopify Inc. major customers clients",
-      "snippet": "Our Shopify Customers List helps you to target the Shopify Customers by industry type, job, location, and more. Get customized list of Companies Using"
+      "snippet": "Dec 31, 2025 · From $100 million DTC brands and $100 billion corporations to celebrities with 100s of millions of followers, some of the biggest names"
     }
   ]
 }

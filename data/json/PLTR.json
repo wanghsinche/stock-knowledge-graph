@@ -7,31 +7,31 @@
     "AMZN",
     "MSFT",
     "GOOGL",
-    "DELL",
-    "HPQ"
+    "ORCL",
+    "IBM"
   ],
   "downstream": [
     "U.S. Department of Defense",
+    "Federal Bureau of Investigation",
     "INTC",
-    "FBI",
-    "JPMorgan Chase",
-    "Walmart"
+    "JPMorgan Chase & Co.",
+    "Boeing"
   ],
   "competitors": [
-    "IBM",
-    "MSFT",
-    "Snowflake",
     "Splunk",
-    "Databricks"
+    "Databricks",
+    "Snowflake",
+    "IBM",
+    "ORCL"
   ],
   "key_products": [
     "Gotham",
     "Foundry",
-    "Palantir Apollo",
-    "Palantir Data Lake",
-    "Palantir Foundry Data Integration"
+    "Apollo",
+    "Palantir Platform",
+    "Palantir Data Integration Suite"
   ],
-  "extracted_at": "2026-02-19 16:42:16",
+  "extracted_at": "2026-02-20 16:29:38",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/PLTR/",
+      "url": "https://en.wikipedia.org/wiki/Palantir",
       "query": "Palantir Technologies Inc. suppliers manufacturers",
-      "snippet": "Find the latest Palantir Technologies Inc . (PLTR) stock quote, history, news and other vital information to help you with your stock trading and inve"
+      "snippet": "Palantir Technologies Inc. is an American publicly traded company that develops data integration and analytics platforms enabling government agencies,"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://dzen.ru/a/aZM0QxD7Vhuwdc-E",
+      "url": "https://www.palantir.com/explore/foundry-for-manufacturing/",
       "query": "Palantir Technologies Inc. suppliers manufacturers",
-      "snippet": "Интернет-предприниматель и бывший хакер Ким Дотком 15 февраля опубликовал в своем аккаунте в социальной сети X сообщение, в котором заявил, что америк"
+      "snippet": "Palantir Foundry offers a number of solutions for the manufacturing industry including predictive maintenance, digital twin, AI-powered applications, "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://data.landbase.com/technology/palantir/",
+      "url": "https://ru.wikipedia.org/wiki/Palantir",
       "query": "Palantir Technologies Inc. major customers clients",
-      "snippet": "Companies using Palantir by Palantir Technologies Inc in 2026 As of 2026, 1,479 verified companies use Palantir - across industries, company sizes, an"
+      "snippet": "Palantir — американская компания, разработчик программного обеспечения анализа данных для организаций, основные заказчики — военные структуры, спецслу"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.appsruntheworld.com/customers-database/products/view/palantir-foundry",
+      "url": "https://www.palantir.com/",
       "query": "Palantir Technologies Inc. major customers clients",
-      "snippet": "Contact APPS RUN THE WORLD to access the full verified Palantir Foundry customer database with detailed Firmographics such as industry, geography, rev"
+      "snippet": "Palantir Learning. Customer Success Services.\" Palantir 's frontline mixed reality capabilities...will complement our technology goals of worker enabl"
     }
   ]
 }

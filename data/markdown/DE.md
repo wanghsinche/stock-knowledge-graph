@@ -3,8 +3,8 @@ ticker: DE
 company: Deere & Company
 sector: Industrials
 industry: Farm & Heavy Construction Machinery
-extracted_at: 2026-02-19 16:43:39
-last_updated: 2026-02-19
+extracted_at: 2026-02-20 16:35:10
+last_updated: 2026-02-20
 ---
 
 # DE - Deere & Company
@@ -12,37 +12,39 @@ last_updated: 2026-02-19
 ## 基本信息
 
 - **所属行业**: Industrials / Farm & Heavy Construction Machinery
-- **提取时间**: 2026-02-19 16:43:39
+- **提取时间**: 2026-02-20 16:35:10
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Steel & alloy suppliers]]
-- [[Aluminum component manufacturers]]
-- [[Rubber and tire suppliers]]
-- [[Electronic control system vendors]]
-- [[Diesel engine parts suppliers]]
+- [[Steel and alloy suppliers]]
+- [[Aluminum and composite manufacturers]]
+- [[Rubber and tire producers]]
+- [[Electronic component suppliers]]
+- [[Diesel engine manufacturers]]
 
 ### 下游客户
-- [[Large‑scale commercial farms]]
-- [[Construction and mining companies]]
-- [[Forestry and logging operators]]
-- [[Municipal and lawn care services]]
-- [[Agricultural cooperatives]]
+- [[Commercial farmers and agribusinesses]]
+- [[Construction and civil engineering firms]]
+- [[Forestry and logging companies]]
+- [[Government and municipal agencies]]
+- [[Lawn and landscape maintenance businesses]]
 
 ### 竞争对手
-- [[CAT]]
+- [[AGCO Corp]]
 - [[CNH Industrial]]
-- [[AGCO]]
-- [[Kubota]]
-- [[JCB]]
+- [[Kubota Corp]]
+- [[Mahindra & Mahindra]]
+- [[CAT]]
 
 ### 核心产品
 - [[Tractors]]
 - [[Combine harvesters]]
-- [[Excavators]]
-- [[Forestry equipment]]
+- [[Sprayers and planters]]
+- [[Hay and forage equipment]]
+- [[Forestry and logging machinery]]
 - [[Diesel engines]]
+- [[Lawn care equipment]]
 
 ## 数据来源
 
@@ -50,8 +52,8 @@ last_updated: 2026-02-19
 - [Deere & Company suppliers manufacturers](https://www.deere.com/en/our-company/contact-us/becoming-a-supplier/)
 - [Deere & Company suppliers manufacturers](https://csimarket.com/stocks/DE-Suppliers)
 - [Deere & Company major customers clients](https://about.deere.com/en-us/our-company-and-purpose/celebrating-our-customers)
-- [Deere & Company major customers clients](https://portersfiveforce.com/blogs/target-market/deere)
+- [Deere & Company major customers clients](https://www.deere.com/assets/pdfs/common/our-company/deere-)
 
 ## 元数据
 
-- **更新日期**: 2026-02-19
+- **更新日期**: 2026-02-20

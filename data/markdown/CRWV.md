@@ -1,18 +1,18 @@
 ---
 ticker: CRWV
 company: CoreWeave, Inc.
-sector: Technology / Software - Infrastructure
-industry: AI Cloud Computing
-extracted_at: 2026-02-19 14:46:49
-last_updated: 2026-02-19
+sector: Technology
+industry: Software - Infrastructure
+extracted_at: 2026-02-20 16:30:30
+last_updated: 2026-02-20
 ---
 
 # CRWV - CoreWeave, Inc.
 
 ## 基本信息
 
-- **所属行业**: Technology / Software - Infrastructure / AI Cloud Computing
-- **提取时间**: 2026-02-19 14:46:49
+- **所属行业**: Technology / Software - Infrastructure
+- **提取时间**: 2026-02-20 16:30:30
 
 ## 产业链关系
 
@@ -20,38 +20,38 @@ last_updated: 2026-02-19
 - [[NVDA]]
 - [[AMD]]
 - [[INTC]]
-- [[TSM]]
-- [[005930.KS]]
+- [[QCOM]]
+- [[AVGO]]
 
 ### 下游客户
 - [[MSFT]]
 - [[DELL]]
-- [[OpenAI]]
-- [[Anthropic]]
-- [[AI startups]]
-
-### 竞争对手
-- [[Lambda]]
-- [[Cerebras]]
-- [[NVDA]]
 - [[AMZN]]
 - [[GOOGL]]
+- [[IBM]]
+
+### 竞争对手
+- [[AMZN]]
+- [[MSFT]]
+- [[GOOGL]]
+- [[NVDA]]
+- [[ORCL]]
 
 ### 核心产品
-- [[GPU Cloud Platform]]
-- [[GPU-as-a-Service]]
-- [[AI Compute Instances]]
-- [[GPU Management Software]]
-- [[Custom AI Workload Solutions]]
+- [[GPU‑based AI cloud infrastructure]]
+- [[AI Hyperscaler platform]]
+- [[Chip management software]]
+- [[GPU‑optimized virtual machines]]
+- [[AI workload orchestration]]
 
 ## 数据来源
 
 - [CoreWeave](https://en.wikipedia.org/wiki/CoreWeave,_Inc.)
 - [CoreWeave, Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/CoreWeave)
-- [CoreWeave, Inc. suppliers manufacturers](https://www.coreweave.com/)
+- [CoreWeave, Inc. suppliers manufacturers](https://www.coreweave.com/about-us)
 - [CoreWeave, Inc. major customers clients](https://en.wikipedia.org/wiki/CoreWeave)
 - [CoreWeave, Inc. major customers clients](https://www.crn.com/news/ai/2025/7-things-to-know-about-coreweave-s-s-1-top-customers-revenue-and-more)
 
 ## 元数据
 
-- **更新日期**: 2026-02-19
+- **更新日期**: 2026-02-20

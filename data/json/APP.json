@@ -4,34 +4,34 @@
   "sector": "Communication Services",
   "industry": "Advertising Agencies",
   "upstream": [
-    "QCOM",
     "GOOGL",
+    "META",
     "AMZN",
     "MSFT",
-    "META"
+    "AAPL"
   ],
   "downstream": [
     "Mobile app developers",
     "Game studios",
-    "E‑commerce platforms",
-    "Media companies",
-    "Social media platforms"
+    "Social media platforms",
+    "E‑commerce app creators",
+    "Content creators"
   ],
   "competitors": [
-    "Unity Ads",
-    "AdColony",
+    "Unity Technologies",
     "IronSource",
+    "AdColony",
     "Vungle",
-    "GOOGL"
+    "Chartboost"
   ],
   "key_products": [
-    "AppLovin Mobile Advertising Platform",
-    "AppLovin MAX",
-    "AppLovin SDK",
-    "AI‑driven ad targeting",
-    "In‑app monetization tools"
+    "AppLovin Mobile Marketing Platform",
+    "AppLovin Ads SDK",
+    "AppLovin Audience Network",
+    "AppLovin Analytics",
+    "AppLovin Monetization Suite"
   ],
-  "extracted_at": "2026-02-19 16:45:29",
+  "extracted_at": "2026-02-20 16:30:40",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.nasdaq.com/articles/applovin-and-semiconductor-have-been-highlighted-zacks-bull-and-bear-day",
+      "url": "https://en.wikipedia.org/wiki/AppLovin",
       "query": "AppLovin Corporation suppliers manufacturers",
-      "snippet": "Mar 14, 2025 · AppLovin Corporation is an artificial intelligence stock that outperformed Nvidia over the last two years, soaring 2,000% compared to N"
+      "snippet": "AppLovin Corporation is an American mobile technology company headquartered in Palo Alto, California. [3] Founded in 2012, the company helps developer"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://stocktwits.com/news-articles/markets/equity/app-lovin-retail-traders-stay-cautious-after-s-and-p-500-inclusion/chwW176Rdqu",
+      "url": "https://csimarket.com/stocks/APP-Suppliers",
       "query": "AppLovin Corporation suppliers manufacturers",
-      "snippet": "Sep 7, 2025 · Amon added that Qualcomm will stick to its existing suppliers, Taiwan Semiconductor Manufacturing Co. (TSM) and Samsung Electronics Co."
+      "snippet": "Sources: Applovin Corporation 's official press releases and regulatory filings; CSIMarket.com's supply-chain research; and the financial filings and "
     },
     {
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/AppLovin",
       "query": "AppLovin Corporation major customers clients",
-      "snippet": "AppLovin Corporation is an American mobile technology company headquartered in Palo Alto, California. [3] Founded in 2012, the company helps developer"
+      "snippet": "Before emerging from stealth mode, AppLovin acquired customers, including Opentable and Spotify. Missing: major | Show results with: major"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/APP-Customers",
+      "url": "https://matrixbcg.com/blogs/target-market/applovin",
       "query": "AppLovin Corporation major customers clients",
-      "snippet": "The fiscal landscape for AppLovin Corporation has shown some contrasting trends. In the fourth quarter of 2024, AppLovin s corporate customers experie"
+      "snippet": "Sep 9, 2025 · AppLovin's main clients are mobile app developers who need tools to grow their user base and monetize their applications. This segment i"
     }
   ]
 }

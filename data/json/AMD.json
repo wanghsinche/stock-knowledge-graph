@@ -7,8 +7,8 @@
     "TSM",
     "005930.KS",
     "GlobalFoundries",
-    "UMC",
-    "INTC"
+    "INTC",
+    "MU"
   ],
   "downstream": [
     "DELL",
@@ -22,16 +22,16 @@
     "NVDA",
     "QCOM",
     "AVGO",
-    "005930.KS"
+    "ARM Holdings"
   ],
   "key_products": [
     "Ryzen CPUs",
     "EPYC CPUs",
     "Radeon GPUs",
-    "Xilinx FPGAs",
-    "APU SoCs"
+    "FPGA devices",
+    "System-on-Chip (SoC) solutions"
   ],
-  "extracted_at": "2026-02-19 16:43:09",
+  "extracted_at": "2026-02-20 16:29:48",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/AMD",
+      "url": "https://csimarket.com/stocks/AMD-Suppliers",
       "query": "Advanced Micro Devices, Inc. suppliers manufacturers",
-      "snippet": "Advanced Micro Devices, Inc. (AMD) is an American multinational semiconductor company headquartered in Santa Clara, California, with significant opera"
+      "snippet": "Advanced Micro Devices Inc's Suppliers recorded an increase in sales by 3.11 % year on year in Q4 2025, from the previous quarter, sales fell by -3.76"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.britannica.com/money/Advanced-Micro-Devices-Inc",
+      "url": "https://fintel.io/doc/sec-advanced-micro-devices-inc-2488-ex21-2023-february-27-19415-1602",
       "query": "Advanced Micro Devices, Inc. suppliers manufacturers",
-      "snippet": "Feb 4, 2026 · Advanced Micro Devices, Inc. (AMD) is an American semiconductor designer and global supplier of computing and graphics technologies used"
+      "snippet": "Advanced Micro Devices, Inc. - List of AMD subsidiaries. - EX-21 - February 27, 2023 Advanced Micro Devices, Inc. US ˙ NasdaqGS ˙ US0079031078 211.23 "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/AMD",
+      "url": "https://csimarket.com/stocks/AMD-Customers",
       "query": "Advanced Micro Devices, Inc. major customers clients",
-      "snippet": "Advanced Micro Devices , Inc . Advanced Micro Devices , Inc . ( AMD ) is an American multinational semiconductor company headquartered in Santa Clara,"
+      "snippet": "6 days ago · Advanced Micro Devices Inc customers and markets, results by customer and performance relative to AMD, by company and industry - CSIMarke"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ca.finance.yahoo.com/news/advanced-micro-devices-inc-amd-031830027.html",
+      "url": "https://firmsworld.com/advanced-micro-devices/",
       "query": "Advanced Micro Devices, Inc. major customers clients",
-      "snippet": "Advanced Micro Devices , Inc .'s share was trading at $252.74 as of January 28th. AMD ’s trailing and forward P/E were 131.95 and 39.68 respectively a"
+      "snippet": "Advanced Micro Devices , Inc . (AMD) stands as a global leader in high-performance and adaptive computing, delivering innovative semiconductor solutio"
     }
   ]
 }

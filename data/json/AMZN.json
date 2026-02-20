@@ -1,37 +1,37 @@
 {
   "ticker": "AMZN",
   "company_name": "Amazon.com, Inc.",
-  "sector": "Consumer Cyclical",
+  "sector": "Consumer Cyclical / Internet Retail",
   "industry": "Internet Retail",
   "upstream": [
-    "Book publishers",
-    "Electronics manufacturers",
-    "Third‑party sellers",
-    "Logistics and fulfillment partners",
-    "Digital content providers"
+    "AAPL",
+    "005930.KS",
+    "Nike",
+    "Adidas",
+    "SONY"
   ],
   "downstream": [
-    "AMZN",
-    "AMZN",
-    "AMZN",
-    "AMZN",
-    "Retail consumers worldwide"
+    "Consumers",
+    "Enterprise customers",
+    "AWS customers",
+    "Prime members",
+    "Third‑party sellers"
   ],
   "competitors": [
-    "Walmart",
-    "Alibaba Group",
     "eBay",
+    "Walmart",
+    "Alibaba",
     "Shopify",
-    "Target"
+    "MSFT"
   ],
   "key_products": [
-    "Amazon.com e‑commerce platform",
-    "Amazon Prime subscription",
-    "Amazon Web Services (cloud computing)",
-    "Amazon Echo (Alexa devices)",
-    "Amazon Kindle (e‑books & tablets)"
+    "Amazon.com marketplace",
+    "Amazon Prime",
+    "Amazon Web Services",
+    "Amazon Echo",
+    "Kindle"
   ],
-  "extracted_at": "2026-02-19 16:42:05",
+  "extracted_at": "2026-02-20 16:28:17",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://d39w7f4ix9f5s9.cloudfront.net/cb/19/77dfc5b441c892cd6e2be166ba70/final-amazon-supplier-list-2019-11-14-updated-1005am.pdf",
+      "url": "https://www.alibaba.com/",
       "query": "Amazon.com, Inc. suppliers manufacturers",
-      "snippet": "Nov 14, 2019 · Amazon Supplier List Amazon is strongly committed to conducting its business in a lawful and ethical manner, including engaging with su"
+      "snippet": "Find quality Manufacturers , Suppliers , Exporters, Importers, Buyers, Wholesalers, Products and Trade Leads from our award-winning International Trad"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://bigframe.net/who-are-amazons-main-suppliers/",
+      "url": "https://ir.aboutamazon.com/",
       "query": "Amazon.com, Inc. suppliers manufacturers",
-      "snippet": "Oct 6, 2023 · In conclusion, Amazon’s main suppliers include a mix of large corporations, third-party sellers, and manufacturers for its own brands. T"
+      "snippet": "The Spheres. Select awards and recognition. Amazon . com Conditions of Use © 1996- Amazon . com , Inc . - IR or its affiliates."
     },
     {
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Amazon_(company)",
       "query": "Amazon.com, Inc. major customers clients",
-      "snippet": "4 days ago - Amazon Flex, a smartphone app that enables individuals to act as independent contractors, delivering packages to customers from personal "
+      "snippet": "It is mostly known as the world's biggest online shopping retailer and marketplace, best known for a wide range of products and supplying multiple ser"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://aws.amazon.com/about-aws/our-customers-and-partners/",
+      "url": "https://ir.aboutamazon.com/news-release/news-release-details/2026/Amazon-com-Announces-Fourth-Quarter-Results/",
       "query": "Amazon.com, Inc. major customers clients",
-      "snippet": "1 week ago - Netflix delivers award-winning entertainment to hundreds of millions of viewers worldwide, using the cloud for global content delivery an"
+      "snippet": "Feb 5, 2026 · “AWS growing 24% (our fastest growth in 13 quarters), Advertising growing 22%, Stores growing briskly across North America and Internati"
     }
   ]
 }

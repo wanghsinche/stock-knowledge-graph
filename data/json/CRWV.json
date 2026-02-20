@@ -1,37 +1,37 @@
 {
   "ticker": "CRWV",
   "company_name": "CoreWeave, Inc.",
-  "sector": "Technology / Software - Infrastructure",
-  "industry": "AI Cloud Computing",
+  "sector": "Technology",
+  "industry": "Software - Infrastructure",
   "upstream": [
     "NVDA",
     "AMD",
     "INTC",
-    "TSM",
-    "005930.KS"
+    "QCOM",
+    "AVGO"
   ],
   "downstream": [
     "MSFT",
     "DELL",
-    "OpenAI",
-    "Anthropic",
-    "AI startups"
+    "AMZN",
+    "GOOGL",
+    "IBM"
   ],
   "competitors": [
-    "Lambda",
-    "Cerebras",
-    "NVDA",
     "AMZN",
-    "GOOGL"
+    "MSFT",
+    "GOOGL",
+    "NVDA",
+    "ORCL"
   ],
   "key_products": [
-    "GPU Cloud Platform",
-    "GPU-as-a-Service",
-    "AI Compute Instances",
-    "GPU Management Software",
-    "Custom AI Workload Solutions"
+    "GPU‑based AI cloud infrastructure",
+    "AI Hyperscaler platform",
+    "Chip management software",
+    "GPU‑optimized virtual machines",
+    "AI workload orchestration"
   ],
-  "extracted_at": "2026-02-19 14:46:49",
+  "extracted_at": "2026-02-20 16:30:30",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,13 +43,13 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/CoreWeave",
       "query": "CoreWeave, Inc. suppliers manufacturers",
-      "snippet": "CoreWeave, Inc. is an American artificial intelligence (AI) cloud-computing company based in Livingston, New Jersey. It specializes in providing cloud"
+      "snippet": "CoreWeave , Inc . is an American artificial intelligence (AI) cloud-computing company based in Livingston, New Jersey. It specializes in providing clo"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.coreweave.com/",
+      "url": "https://www.coreweave.com/about-us",
       "query": "CoreWeave, Inc. suppliers manufacturers",
-      "snippet": "CoreWeave is the force multiplier that empowers pioneers with momentum, magnitude, and mastery—enabling them to innovate with confidence."
+      "snippet": "About CoreWeave The AI Hyperscaler™ empowering the future CoreWeave is a cloud purpose-built for scaling, supporting, and accelerating GenAI. We’re a "
     },
     {
       "source": "DuckDuckGo",
