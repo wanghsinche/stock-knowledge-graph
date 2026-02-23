@@ -5,17 +5,17 @@
   "industry": "Internet Content & Information",
   "upstream": [
     "INTC",
+    "AMD",
     "NVDA",
-    "QCOM",
-    "005930.KS",
-    "MSFT"
+    "CSCO",
+    "DELL"
   ],
   "downstream": [
-    "Advertisers",
+    "AMZN",
+    "005930.KS",
     "GOOGL",
-    "Android device manufacturers",
-    "Enterprise customers",
-    "App developers"
+    "YouTube content creators",
+    "GOOGL"
   ],
   "competitors": [
     "MSFT",
@@ -27,11 +27,17 @@
   "key_products": [
     "Google Search",
     "YouTube",
-    "Google Cloud Platform",
     "Android OS",
-    "Google Ads"
+    "Google Cloud Platform",
+    "Google Ads",
+    "Google Maps",
+    "Google Workspace",
+    "Google Chrome",
+    "Google Play",
+    "Google Pixel phones",
+    "Google Nest"
   ],
-  "extracted_at": "2026-02-20 16:29:20",
+  "extracted_at": "2026-02-23 17:06:20",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,15 +47,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Alphabet_Inc.",
+      "url": "https://en.wikipedia.org/wiki/List_of_mergers_and_acquisitions_by_Alphabet",
       "query": "Alphabet Inc. suppliers manufacturers",
-      "snippet": "Alphabet Inc . is an American multinational technology conglomerate holding company headquartered in Mountain View, California. It was created through"
+      "snippet": "As of March 2025, Alphabet has acquired over 200 companies, with its largest acquisition being the purchase of Wiz, a cloud security company, for $32 "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ru.wikipedia.org/wiki/Alphabet",
+      "url": "https://www.investopedia.com/investing/companies-owned-by-google/",
       "query": "Alphabet Inc. suppliers manufacturers",
-      "snippet": "Alphabet Inc . — холдинговая компания, управляющая компанией Google Inc и её дочерними структурами, а также рядом стартапов. Штаб-квартира расположена"
+      "snippet": "Seven major companies owned by Alphabet are YouTube, Waze, DoubleClick, Nest, Looker, Fitbit, and Mandiant."
     },
     {
       "source": "DuckDuckGo",

@@ -1,37 +1,37 @@
 {
   "ticker": "INTU",
   "company_name": "Intuit Inc.",
-  "sector": "Technology",
-  "industry": "Software - Application",
+  "sector": "Technology / Software - Application",
+  "industry": "Financial Software",
   "upstream": [
-    "AMZN",
-    "MSFT",
-    "GOOGL",
-    "DELL",
-    "HPQ"
+    "Hardware component suppliers",
+    "Cloud infrastructure providers",
+    "Software library vendors",
+    "Payment processor partners",
+    "Data center operators"
   ],
   "downstream": [
-    "Small and medium‑size businesses",
     "Individual taxpayers",
-    "Certified public accountants",
-    "Tax preparation firms",
+    "Small businesses",
+    "Accountants",
+    "Tax preparers",
     "Financial advisors"
   ],
   "competitors": [
-    "Sage",
+    "SAP",
+    "ORCL",
     "Xero",
-    "Wave",
-    "Zoho Books",
-    "TaxAct"
+    "Sage",
+    "FreshBooks"
   ],
   "key_products": [
     "TurboTax",
     "QuickBooks",
     "Credit Karma",
     "Mailchimp",
-    "QuickBooks Online"
+    "Intuit Payments"
   ],
-  "extracted_at": "2026-02-20 16:36:30",
+  "extracted_at": "2026-02-23 18:09:45",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,9 +41,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://quickbooks.intuit.com/r/wholesale-trade/how-to-find-wholesale-suppliers/",
+      "url": "https://investors.intuit.com/_assets/_95ad7170fb600fdc9a2c5384b928b8c2/intuit/db/933/10235/file/2023.05.21-Intuit+Inc.+and+Intuit+Canada+ULC-Modern+Slavery+Statement+(FY23+Supply+Chains+Act)-Executed.pdf",
       "query": "Intuit Inc. suppliers manufacturers",
-      "snippet": "Nov 16, 2016 · You have traditional wholesale suppliers like manufacturers, but there are also complementary producers as well as independent brokers."
+      "snippet": "Country risk: Suppliers may be in low-risk jurisdictions such as Canada, the UK, the EU, or the USA, but they may use overseas operations such as for "
     },
     {
       "source": "DuckDuckGo",

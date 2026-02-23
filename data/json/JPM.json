@@ -4,18 +4,18 @@
   "sector": "Financial Services",
   "industry": "Banks - Diversified",
   "upstream": [
+    "ORCL",
     "MSFT",
+    "Data providers (e.g., Bloomberg, Thomson Reuters)",
     "Payment processors (e.g., Visa, Mastercard)",
-    "Cloud infrastructure providers",
-    "Cybersecurity firms",
-    "Financial data providers (e.g., Bloomberg, Thomson Reuters)"
+    "Cybersecurity firms"
   ],
   "downstream": [
-    "Large corporate clients (e.g., Fortune 500 companies)",
-    "Institutional investors (e.g., pension funds, sovereign wealth funds)",
-    "High‑net‑worth individuals and families",
+    "Corporate and institutional clients",
     "Retail banking customers",
-    "Government and public sector entities"
+    "High‑net‑worth individuals",
+    "Government and public sector entities",
+    "Small and medium‑enterprise clients"
   ],
   "competitors": [
     "Bank of America",
@@ -26,12 +26,12 @@
   ],
   "key_products": [
     "Retail banking services",
-    "Corporate and investment banking",
-    "Wealth and asset management",
-    "Credit card and consumer lending",
-    "Treasury and cash management"
+    "Commercial banking and lending",
+    "Investment banking and advisory",
+    "Asset and wealth management",
+    "Credit card and payment services"
   ],
-  "extracted_at": "2026-02-20 16:34:17",
+  "extracted_at": "2026-02-23 17:47:40",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.jpmorganchase.com/about/suppliers",
+      "url": "https://en.wikipedia.org/wiki/JPMorgan_Chase",
       "query": "JPMorgan Chase & Co. suppliers manufacturers",
-      "snippet": "An inclusive supply chain where every business, including but not limited to small and diverse businesses, has the opportunity to be considered for ou"
+      "snippet": "JPMorgan Chase is the result of the combination of several large U.S. banking companies that merged since 1996, combining Chase Manhattan Bank, J . P "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://procurementmag.com/articles/how-jpmorgan-chase-run-its-supplier-diversity-programme",
+      "url": "https://ru.wikipedia.org/wiki/JPMorgan_Chase",
       "query": "JPMorgan Chase & Co. suppliers manufacturers",
-      "snippet": "Feb 6, 2024 · JPMorgan Chase & Co have been running programmes to develop and partner with businesses run by diverse and underrepresented groups in th"
+      "snippet": "JPMorgan Chase & Co , «Дж. П. Морган Чейз и Ко.» — американский транснациональный финансовый конгломерат, один из крупнейших банков мира, с центром уп"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.jpmorganchase.com/content/dam/jpmc/jpmorgan-chase-and-co/investor-relations/documents/events/2025/jpmc-2025-investor-day/consumer-community-banking.pdf",
+      "url": "https://www.jpmorganchase.com/about",
       "query": "JPMorgan Chase & Co. major customers clients",
-      "snippet": "Large clients defined as businesses with an annual sales size of $1mm or greater; Small / Micro clients defined as businesses with an annual sales siz"
+      "snippet": "Our J.P. Morgan and Chase brands work to provide the highest quality service to millions of consumers, small businesses and corporate, institutional a"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://canvasbusinessmodel.com/blogs/target-market/jp-morgan-chase-target-market",
+      "url": "https://media.chase.com/news/chase-celebrates-major-milestone-in-its-multi-billion-dollar-retail-expansion",
       "query": "JPMorgan Chase & Co. major customers clients",
-      "snippet": "JPMorgan Chase & Co. serves a broad spectrum of clients through its diverse business segments. These include individual consumers, small businesses, l"
+      "snippet": "Jul 31, 2025 · With a workforce of around 50,000 customer-facing staff, Chase branches offer significant employment opportunities, bolstering the loca"
     }
   ]
 }

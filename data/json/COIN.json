@@ -4,34 +4,34 @@
   "sector": "Financial Services",
   "industry": "Financial Data & Stock Exchanges",
   "upstream": [
-    "Cloud infrastructure providers (AWS, Azure, GCP)",
     "Blockchain network operators (Bitcoin, Ethereum)",
-    "Payment processors (Stripe, PayPal)",
-    "Regulatory bodies (SEC, CFTC)",
-    "Data providers (CoinMarketCap, CryptoCompare)"
+    "MSFT",
+    "Payment processors (Visa, Mastercard)",
+    "Regulatory bodies (SEC, FinCEN)",
+    "Security and compliance vendors"
   ],
   "downstream": [
-    "Retail cryptocurrency traders",
-    "Institutional investors",
-    "Crypto funds",
-    "Merchants accepting cryptocurrency",
-    "Developers using Coinbase API"
+    "Retail cryptocurrency investors",
+    "Institutional investors and asset managers",
+    "Crypto traders and market makers",
+    "DeFi projects and protocols",
+    "Financial institutions using custody services"
   ],
   "competitors": [
     "Binance",
     "Kraken",
     "Gemini",
     "Bitstamp",
-    "FTX (formerly)"
+    "FTX (defunct)"
   ],
   "key_products": [
-    "Spot trading platform",
-    "Custody services",
-    "Staking",
-    "Crypto wallet",
-    "Developer API"
+    "Cryptocurrency trading platform",
+    "Custody services for institutional clients",
+    "Earn and staking products for crypto assets",
+    "Coinbase Pro (advanced trading)",
+    "Coinbase Wallet and Coinbase Card"
   ],
-  "extracted_at": "2026-02-20 16:32:33",
+  "extracted_at": "2026-02-23 18:06:17",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,13 +43,13 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Coinbase",
       "query": "Coinbase Global, Inc. suppliers manufacturers",
-      "snippet": "Coinbase Global, Inc. is an American cryptocurrency exchange. [4][5][6] It was founded in 2012 by Brian Armstrong and Fred Ehrsam. [1] Coinbase has ov"
+      "snippet": "Coinbase Global , Inc . is an American cryptocurrency exchange. It was founded in 2012 by Brian Armstrong and Fred Ehrsam."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.coinbase.com/vendors/vendors-at-coinbase-code-of-conduct",
+      "url": "https://ru.wikipedia.org/wiki/Coinbase",
       "query": "Coinbase Global, Inc. suppliers manufacturers",
-      "snippet": "This information is the property of Coinbase , or the property of Coinbase's suppliers , customers, or business partners, and in many cases was develo"
+      "snippet": "Coinbase Global , Inc . — американская публичная компания, которая управляет онлайн-сервисом обмена цифровых валют."
     },
     {
       "source": "DuckDuckGo",
@@ -59,9 +59,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.coinbase.com/institutional/clients",
+      "url": "https://investingintheweb.com/brokers/coinbase-statistics/",
       "query": "Coinbase Global, Inc. major customers clients",
-      "snippet": "Coinbase Institutional is the market leader in delivering crypto solutions to global financial services companies."
+      "snippet": "Jan 6, 2026 · The $516 billion figure represents total assets on platform, encompassing customer crypto assets held in custody for retail users, insti"
     }
   ]
 }

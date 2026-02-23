@@ -2,39 +2,39 @@
 ticker: BKNG
 company: Booking Holdings Inc.
 sector: Consumer Cyclical / Travel Services
-industry: Online Travel Agency
-extracted_at: 2026-02-20 16:32:52
-last_updated: 2026-02-20
+industry: Travel & Tourism Services
+extracted_at: 2026-02-23 18:07:06
+last_updated: 2026-02-23
 ---
 
 # BKNG - Booking Holdings Inc.
 
 ## 基本信息
 
-- **所属行业**: Consumer Cyclical / Travel Services / Online Travel Agency
-- **提取时间**: 2026-02-20 16:32:52
+- **所属行业**: Consumer Cyclical / Travel Services / Travel & Tourism Services
+- **提取时间**: 2026-02-23 18:07:06
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Payment processors (e.g., Stripe, PayPal)]]
 - [[AMZN]]
-- [[Data analytics providers]]
-- [[Marketing and advertising agencies]]
-- [[Technology infrastructure vendors]]
+- [[Stripe (payment processing)]]
+- [[GOOGL]]
+- [[MSFT]]
+- [[Facebook Ads (advertising platform)]]
 
 ### 下游客户
-- [[Hotels and hospitality providers]]
+- [[Hotels and resorts]]
 - [[Airlines]]
-- [[Car rental companies]]
-- [[CAT]]
+- [[Car rental agencies]]
 - [[Travel agencies]]
+- [[Corporate travel departments]]
 
 ### 竞争对手
 - [[Expedia Group]]
 - [[TripAdvisor]]
 - [[Airbnb]]
-- [[Priceline]]
+- [[Priceline.com]]
 - [[Kayak]]
 
 ### 核心产品
@@ -48,10 +48,10 @@ last_updated: 2026-02-20
 
 - 
 - [Booking Holdings Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/Booking_Holdings)
-- [Booking Holdings Inc. suppliers manufacturers](https://www.bookingholdings.com/)
+- [Booking Holdings Inc. suppliers manufacturers](https://csimarket.com/stocks/BKNG-Suppliers)
 - [Booking Holdings Inc. major customers clients](https://en.wikipedia.org/wiki/Booking_Holdings)
 - [Booking Holdings Inc. major customers clients](https://csimarket.com/stocks/BKNG-Customers)
 
 ## 元数据
 
-- **更新日期**: 2026-02-20
+- **更新日期**: 2026-02-23

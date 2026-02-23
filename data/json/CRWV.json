@@ -7,31 +7,31 @@
     "NVDA",
     "AMD",
     "INTC",
-    "QCOM",
-    "AVGO"
+    "AMZN",
+    "MSFT"
   ],
   "downstream": [
+    "OpenAI",
     "MSFT",
-    "DELL",
-    "AMZN",
     "GOOGL",
+    "AMZN",
     "IBM"
   ],
   "competitors": [
-    "AMZN",
+    "AWS",
     "MSFT",
     "GOOGL",
     "NVDA",
-    "ORCL"
+    "Lambda Labs"
   ],
   "key_products": [
-    "GPU‑based AI cloud infrastructure",
-    "AI Hyperscaler platform",
-    "Chip management software",
-    "GPU‑optimized virtual machines",
-    "AI workload orchestration"
+    "GPU cloud computing",
+    "GPU infrastructure",
+    "AI cloud services",
+    "GPU virtualization",
+    "GPU management software"
   ],
-  "extracted_at": "2026-02-20 16:30:30",
+  "extracted_at": "2026-02-23 17:59:52",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,25 +43,25 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/CoreWeave",
       "query": "CoreWeave, Inc. suppliers manufacturers",
-      "snippet": "CoreWeave , Inc . is an American artificial intelligence (AI) cloud-computing company based in Livingston, New Jersey. It specializes in providing clo"
+      "snippet": "CoreWeave , Inc . is an American artificial intelligence cloud-computing company based in Livingston, New Jersey. It specializes in providing cloud-ba"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.coreweave.com/about-us",
+      "url": "https://www.coreweave.com/",
       "query": "CoreWeave, Inc. suppliers manufacturers",
-      "snippet": "About CoreWeave The AI Hyperscaler™ empowering the future CoreWeave is a cloud purpose-built for scaling, supporting, and accelerating GenAI. We’re a "
+      "snippet": "CoreWeave screenshot - 20 Meilleurs Fournisseurs de Services Cloud Gérés..."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/CoreWeave",
+      "url": "https://www.coreweave.com/case-studies",
       "query": "CoreWeave, Inc. major customers clients",
-      "snippet": "... top two clients, with Microsoft alone accounting for 62%. In Dec. 2024, Dell and CoreWeave began partnering on infrastructure. In 2025, CoreWeave "
+      "snippet": "Customer stories Where Customers Become Pioneers Discover how CoreWeave customers transform ambition into achievement. These pioneers are shaping the "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.crn.com/news/ai/2025/7-things-to-know-about-coreweave-s-s-1-top-customers-revenue-and-more",
+      "url": "https://csimarket.com/stocks/CRWV-Customers",
       "query": "CoreWeave, Inc. major customers clients",
-      "snippet": "Mar 5, 2025 · CoreWeave, a rising AI cloud provider, has revealed fast-growing revenue from a “limited number of customers,” including Microsoft, and "
+      "snippet": "5 days ago · Coreweave Inc customers and markets, results by customer and performance relative to CRWV, by company and industry - CSIMarket"
     }
   ]
 }

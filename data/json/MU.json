@@ -3,11 +3,35 @@
   "company_name": "Micron Technology, Inc.",
   "sector": "Technology",
   "industry": "Semiconductors",
-  "upstream": [],
-  "downstream": [],
-  "competitors": [],
-  "key_products": [],
-  "extracted_at": "2026-02-20 16:27:55",
+  "upstream": [
+    "Mouser Electronics",
+    "Arrow Electronics",
+    "Digi-Key",
+    "Avnet",
+    "Future Electronics"
+  ],
+  "downstream": [
+    "AAPL",
+    "MSFT",
+    "GOOGL",
+    "AMZN",
+    "DELL"
+  ],
+  "competitors": [
+    "005930.KS",
+    "SK Hynix",
+    "Nanya Technology",
+    "Kingston Technology",
+    "Crucial"
+  ],
+  "key_products": [
+    "Dynamic Random-Access Memory (DRAM)",
+    "Flash memory",
+    "Solid-State Drives (SSDs)",
+    "NAND flash",
+    "eMMC"
+  ],
+  "extracted_at": "2026-02-23 16:54:18",
   "sources": [
     {
       "source": "Wikipedia",
@@ -23,9 +47,21 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/MU-Suppliers",
+      "url": "https://thepartsdirect.com/microntechnology/distributors-and-vendors",
       "query": "Micron Technology, Inc. suppliers manufacturers",
-      "snippet": "Micron Technology Inc's Suppliers recorded an increase in sales by 12.86 % year on year in Q4 2025, from the previous quarter, sales fell by -1.37 %, "
+      "snippet": "Mouser Electronics offers the latest technology , over 4 million products from 1,000+ manufacturers , easy online ordering, same-day shipping, no mini"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/MU-Customers",
+      "query": "Micron Technology, Inc. major customers clients",
+      "snippet": "Micron Technology Inc customers and markets, results by customer and performance relative to MU, by company and industry - CSIMarket"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.micron.com/markets-industries/customer-and-partner-storage-success",
+      "query": "Micron Technology, Inc. major customers clients",
+      "snippet": "Explore how Micron Technology collaborates with customers and partners to create storage solutions that enable the world's most advanced workloads."
     }
   ]
 }

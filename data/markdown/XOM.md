@@ -3,8 +3,8 @@ ticker: XOM
 company: Exxon Mobil Corporation
 sector: Energy
 industry: Oil & Gas Integrated
-extracted_at: 2026-02-20 16:32:42
-last_updated: 2026-02-20
+extracted_at: 2026-02-23 18:08:04
+last_updated: 2026-02-23
 ---
 
 # XOM - Exxon Mobil Corporation
@@ -12,46 +12,46 @@ last_updated: 2026-02-20
 ## 基本信息
 
 - **所属行业**: Energy / Oil & Gas Integrated
-- **提取时间**: 2026-02-20 16:32:42
+- **提取时间**: 2026-02-23 18:08:04
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Crude oil producers (e.g., Saudi Aramco, BP, Chevron)]]
-- [[Oilfield service companies (e.g., Schlumberger, Halliburton, Baker Hughes)]]
-- [[CAT]]
-- [[DELL]]
-- [[Natural gas producers (e.g., Chesapeake Energy, EOG Resources)]]
+- [[Schlumberger]]
+- [[Baker Hughes]]
+- [[Halliburton]]
+- [[Weatherford]]
+- [[National Oilwell Varco]]
 
 ### 下游客户
-- [[Refining and marketing partners (e.g., Phillips 66, Valero)]]
-- [[Automotive fuel distributors (e.g., Shell, BP, Chevron)]]
-- [[Aviation fuel suppliers (e.g., JetBlue, Delta Air Lines)]]
-- [[Industrial customers (e.g., chemical plants, steel mills)]]
-- [[Retail gasoline stations (e.g., Exxon, Mobil, Chevron stations)]]
+- [[Chevron]]
+- [[BP]]
+- [[Shell]]
+- [[TotalEnergies]]
+- [[Saudi Aramco]]
 
 ### 竞争对手
-- [[Chevron Corporation]]
-- [[Royal Dutch Shell plc]]
-- [[BP plc]]
-- [[TotalEnergies SE]]
+- [[Chevron]]
+- [[BP]]
+- [[Shell]]
+- [[TotalEnergies]]
 - [[ConocoPhillips]]
 
 ### 核心产品
 - [[Crude oil]]
-- [[Refined petroleum products (gasoline, diesel, jet fuel)]]
-- [[Petrochemicals (ethylene, propylene, aromatics)]]
-- [[Natural gas liquids (NGLs)]]
-- [[Lubricants and specialty chemicals]]
+- [[Natural gas]]
+- [[Gasoline]]
+- [[Diesel]]
+- [[Petrochemicals]]
 
 ## 数据来源
 
 - [ExxonMobil](https://en.wikipedia.org/wiki/Exxon_Mobil_Corporation)
-- [Exxon Mobil Corporation suppliers manufacturers](https://en.wikipedia.org/wiki/ExxonMobil)
-- [Exxon Mobil Corporation suppliers manufacturers](https://ru.wikipedia.org/wiki/ExxonMobil)
+- [Exxon Mobil Corporation suppliers manufacturers](https://corporate.exxonmobil.com/procurement/exxonmobil-for-suppliers)
+- [Exxon Mobil Corporation suppliers manufacturers](https://csimarket.com/stocks/XOM-Suppliers)
 - [Exxon Mobil Corporation major customers clients](https://en.wikipedia.org/wiki/ExxonMobil)
-- [Exxon Mobil Corporation major customers clients](https://corporate.exxonmobil.com/)
+- [Exxon Mobil Corporation major customers clients](https://ru.wikipedia.org/wiki/ExxonMobil)
 
 ## 元数据
 
-- **更新日期**: 2026-02-20
+- **更新日期**: 2026-02-23

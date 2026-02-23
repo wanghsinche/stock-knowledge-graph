@@ -1,37 +1,37 @@
 {
   "ticker": "AMZN",
   "company_name": "Amazon.com, Inc.",
-  "sector": "Consumer Cyclical / Internet Retail",
+  "sector": "Consumer Cyclical",
   "industry": "Internet Retail",
   "upstream": [
-    "AAPL",
-    "005930.KS",
-    "Nike",
-    "Adidas",
-    "SONY"
+    "Book publishers",
+    "Electronics manufacturers",
+    "Third‑party sellers",
+    "AWS hardware suppliers",
+    "Logistics partners"
   ],
   "downstream": [
-    "Consumers",
-    "Enterprise customers",
-    "AWS customers",
+    "Retail consumers",
+    "Enterprise AWS customers",
     "Prime members",
-    "Third‑party sellers"
+    "Advertisers",
+    "Content creators"
   ],
   "competitors": [
     "eBay",
     "Walmart",
     "Alibaba",
-    "Shopify",
-    "MSFT"
+    "MSFT",
+    "GOOGL"
   ],
   "key_products": [
     "Amazon.com marketplace",
-    "Amazon Prime",
     "Amazon Web Services",
-    "Amazon Echo",
-    "Kindle"
+    "Amazon Prime",
+    "Amazon Echo (Alexa)",
+    "Amazon Kindle"
   ],
-  "extracted_at": "2026-02-20 16:28:17",
+  "extracted_at": "2026-02-23 16:57:12",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
+      "url": "https://ir.aboutamazon.com/",
+      "query": "Amazon.com, Inc. suppliers manufacturers",
+      "snippet": "Amazon . com , Inc . (NASDAQ: AMZN) today announced financial results for its second quarter ended June 30, 2025. Net sales increased 13% to $167.7 bi"
+    },
+    {
+      "source": "DuckDuckGo",
       "url": "https://www.alibaba.com/",
       "query": "Amazon.com, Inc. suppliers manufacturers",
       "snippet": "Find quality Manufacturers , Suppliers , Exporters, Importers, Buyers, Wholesalers, Products and Trade Leads from our award-winning International Trad"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ir.aboutamazon.com/",
-      "query": "Amazon.com, Inc. suppliers manufacturers",
-      "snippet": "The Spheres. Select awards and recognition. Amazon . com Conditions of Use © 1996- Amazon . com , Inc . - IR or its affiliates."
+      "url": "https://capitaloneshopping.com/research/amazon-statistics/",
+      "query": "Amazon.com, Inc. major customers clients",
+      "snippet": "Jan 28, 2026 · Statistics & analysis on Amazon including total sales (per year & minute), number of products (SKUs), customers , sellers & more."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Amazon_(company)",
+      "url": "https://csimarket.com/stocks/AMZN-Customers",
       "query": "Amazon.com, Inc. major customers clients",
-      "snippet": "It is mostly known as the world's biggest online shopping retailer and marketplace, best known for a wide range of products and supplying multiple ser"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://ir.aboutamazon.com/news-release/news-release-details/2026/Amazon-com-Announces-Fourth-Quarter-Results/",
-      "query": "Amazon.com, Inc. major customers clients",
-      "snippet": "Feb 5, 2026 · “AWS growing 24% (our fastest growth in 13 quarters), Advertising growing 22%, Stores growing briskly across North America and Internati"
+      "snippet": "Amazon Com Inc 's Comment on Sales, Marketing and Customers We serve consumers through our retail websites and focus on selection, price, and convenie"
     }
   ]
 }

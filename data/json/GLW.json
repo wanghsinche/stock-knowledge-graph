@@ -1,37 +1,37 @@
 {
   "ticker": "GLW",
   "company_name": "Corning Incorporated",
-  "sector": "Technology",
-  "industry": "Electronic Components",
+  "sector": "Technology / Electronic Components",
+  "industry": "Glass & Ceramics",
   "upstream": [
-    "BASF",
-    "Dow Chemical Company",
-    "Kuraray Co., Ltd.",
-    "Shin-Etsu Chemical Co., Ltd.",
-    "Wacker Chemie AG"
+    "Advanced Optics",
+    "Display Technologies",
+    "Environmental Tech",
+    "Silica Sand Suppliers",
+    "Chemical Suppliers"
   ],
   "downstream": [
     "AAPL",
     "005930.KS",
-    "INTC",
+    "GOOGL",
     "MSFT",
-    "GOOGL"
+    "SONY"
   ],
   "competitors": [
-    "Schott AG",
-    "Hoya Corporation",
-    "Carl Zeiss AG",
-    "Nikon Corporation",
-    "Canon Inc."
+    "LG Display",
+    "005930.KS",
+    "Panasonic",
+    "Nikon",
+    "Canon"
   ],
   "key_products": [
+    "Gorilla Glass",
     "Optical glass",
-    "Fiber optic cables",
-    "LCD glass panels",
     "Display glass",
-    "Optical fibers"
+    "Medical glass",
+    "Scientific glass"
   ],
-  "extracted_at": "2026-02-20 16:35:37",
+  "extracted_at": "2026-02-23 17:42:04",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Corning_Inc.",
+      "url": "https://www.corning.com/worldwide/en/products/life-sciences/config/Distributors.html",
       "query": "Corning Incorporated suppliers manufacturers",
-      "snippet": "Corning is one of the main suppliers to Apple Inc. since working with Steve Jobs in 2007 to develop the iPhone. Corning won the National Medal of ..."
+      "snippet": "Advanced Optics Corning ® Gorilla® Glass Display Technologies Environmental Technologies Life Sciences Optical Communications Pharmaceutical Technolog"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.mouser.com/manufacturer/corning/",
+      "query": "Corning Incorporated suppliers manufacturers",
+      "snippet": "Corning's industry-leading products include damage-resistant cover glass for mobile devices, precision glass for advanced displays, optical fiber, wir"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://ru.wikipedia.org/wiki/Corning_Inc.",
+      "query": "Corning Incorporated major customers clients",
+      "snippet": "Corning Incorporated — американская компания, специализирующаяся на производстве специальных стекол, керамики и связанных с ней материалов и технологи"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.corning.com/worldwide/en.html",
-      "query": "Corning Incorporated suppliers manufacturers",
-      "snippet": "Corning Incorporated is a global-leading innovator in materials science, with 170 years of life-changing inventions and category-defining products."
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Corning_Inc.",
       "query": "Corning Incorporated major customers clients",
-      "snippet": "Corning Incorporated is an American multinational technology company specializing in glass, ceramics, and related materials and technologies including"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://canvasbusinessmodel.com/blogs/target-market/corning-target-market",
-      "query": "Corning Incorporated major customers clients",
-      "snippet": "Jul 11, 2025 · Understanding Corning's customer demographics is critical for effective market analysis and crafting a winning business strategy. This "
+      "snippet": "Corning Incorporated is a global-leading innovator in materials science, with 170 years of life-changing inventions and category-defining products. Co"
     }
   ]
 }

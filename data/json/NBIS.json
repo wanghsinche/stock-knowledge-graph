@@ -4,11 +4,11 @@
   "sector": "Communication Services",
   "industry": "Internet Content & Information",
   "upstream": [
-    "INTC",
     "NVDA",
-    "AMZN",
-    "MSFT",
-    "GOOGL"
+    "Cloud service providers (e.g., AWS, Azure)",
+    "Data providers (e.g., data labeling services)",
+    "INTC",
+    "Software vendors (e.g., TensorFlow)"
   ],
   "downstream": [
     "Goldman Sachs",
@@ -21,17 +21,17 @@
     "OpenAI",
     "Anthropic",
     "DeepMind",
-    "Cohere",
-    "AI21 Labs"
+    "MSFT",
+    "GOOGL"
   ],
   "key_products": [
     "Nebius AI Infrastructure Platform",
-    "Nebius Cloud AI Services",
-    "Nebius AI Data Labeling Platform",
-    "Nebius AI Compute Services",
-    "Nebius AI Analytics"
+    "Nebius AI Cloud",
+    "Nebius AI Services",
+    "Nebius AI Solutions",
+    "Nebius AI Platform"
   ],
-  "extracted_at": "2026-02-20 16:34:49",
+  "extracted_at": "2026-02-23 18:11:25",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,15 +41,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/NBIS-Suppliers",
+      "url": "https://en.wikipedia.org/wiki/Nebius_Group",
       "query": "NBIS suppliers manufacturers",
-      "snippet": "May 3, 2025 · Sources: Nebius Group n v 's official press releases and regulatory filings; CSIMarket.com's supply -chain research; and the financial f"
+      "snippet": "Nebius Group N.V., headquartered in Amsterdam, is a technology company that provides artificial intelligence infrastructure."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.chamberofcommerce.com/united-states/illinois/chicago/insurance-agency/30006197-nbis",
+      "url": "https://finance.yahoo.com/quote/NBIS/",
       "query": "NBIS suppliers manufacturers",
-      "snippet": "AboutNbis Nbis is located at 1 S Wacker Dr, Ste 2910 in Chicago , Illinois 60606. Nbis can be contacted via phone at (312) 795-1040 for pricing, hours"
+      "snippet": "Nebius Group N.V. ( NBIS ) Strengthens AI Platform With $275M Tavily Deal.A Look At Nebius Group ( NBIS ) Valuation After Recent Share Price Pullback."
     },
     {
       "source": "DuckDuckGo",
@@ -59,9 +59,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://mvcinvesting.substack.com/p/nebius-group-nbis-the-key-catalysts",
+      "url": "https://seekingalpha.com/article/4855151-nebius-its-beginning-to-look-a-lot-like-trouble",
       "query": "NBIS major customers clients",
-      "snippet": "Jun 14, 2025 · ... NBIS to ink a large, multi-year deal with a major AI customer — potentially a LLM developer like OpenAI or Google. Once again, it's"
+      "snippet": "Dec 22, 2025 · NBIS's managed AI cloud model adds operating complexity, higher fixed costs, and greater execution risk compared to peers like CoreWeav"
     }
   ]
 }

@@ -4,11 +4,11 @@
   "sector": "Technology",
   "industry": "Semiconductors",
   "upstream": [
-    "ASML",
-    "AMAT",
-    "LRCX",
-    "Silicon wafer suppliers",
-    "Chemical suppliers (etchants, photoresists)"
+    "TSM",
+    "005930.KS",
+    "GlobalFoundries",
+    "UMC",
+    "Tower Semiconductor"
   ],
   "downstream": [
     "DELL",
@@ -22,16 +22,16 @@
     "NVDA",
     "QCOM",
     "AVGO",
-    "005930.KS"
+    "MU"
   ],
   "key_products": [
     "Intel Core CPUs",
     "Intel Xeon CPUs",
-    "Intel Arc GPUs",
-    "Intel SSDs",
-    "Intel Network Processors"
+    "Intel Atom CPUs",
+    "Intel FPGAs",
+    "Intel chipsets"
   ],
-  "extracted_at": "2026-02-20 16:30:07",
+  "extracted_at": "2026-02-23 17:56:19",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,21 +47,21 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.intel.com/content/www/us/en/partner/showcase/partner-directory/distributor.html",
+      "url": "https://csimarket.com/stocks/INTC-Suppliers",
       "query": "Intel Corporation suppliers manufacturers",
-      "snippet": "Distributor Partner Directory Sell Intel ® Products directly sourced from Intel as well as devices manufactured by OEMs Return to Intel ® Partner Show"
+      "snippet": "INTC's vs. Suppliers , Data (Revenue and Income for Trailing 12 Months, in Millions of $, except Employees) ... Sources: Intel Corporation's official "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/INTC-Customers",
+      "url": "https://en.wikipedia.org/wiki/Intel",
       "query": "Intel Corporation major customers clients",
-      "snippet": "6 days ago · Intel customers and markets, results by customer and performance relative to INTC, by company and industry - CSIMarket"
+      "snippet": "Client Computing Group – 51.8% of 2020 revenues – produces PC processors and related components. · Data Center Group – 33.7% of 2020 revenues – produc"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.investopedia.com/articles/markets/100214/inside-intel-look-mega-chipmaker.asp",
+      "url": "https://www.intel.com/content/www/us/en/customer-spotlight/overview.html",
       "query": "Intel Corporation major customers clients",
-      "snippet": "What separates Intel from most other semiconductor companiesis that it fabricates its products in house. The bulk of semiconductor “manufacturers” far"
+      "snippet": "Explore the Intel Customer Spotlight for the latest customer stories, case studies, and testimonials highlighting data-centric innovations. Missing: m"
     }
   ]
 }

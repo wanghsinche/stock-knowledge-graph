@@ -2,36 +2,36 @@
   "ticker": "UNH",
   "company_name": "UnitedHealth Group Incorporated",
   "sector": "Healthcare",
-  "industry": "Health Insurance / Health Care Services",
+  "industry": "Healthcare Plans",
   "upstream": [
-    "Pharmaceutical manufacturers",
-    "Medical device manufacturers",
-    "Health technology vendors",
-    "Data analytics providers",
-    "Health care IT services"
+    "Pharmaceutical manufacturers (e.g., Pfizer, Johnson & Johnson)",
+    "Medical device manufacturers (e.g., Medtronic, Abbott)",
+    "Health IT vendors (e.g., Cerner, Epic Systems)",
+    "Pharmacy benefit managers (e.g., Express Scripts)",
+    "IBM"
   ],
   "downstream": [
-    "Large employers (corporate clients)",
-    "Hospitals and health systems",
-    "Government agencies (Medicare, Medicaid)",
+    "U.S. federal government (Medicare, Medicaid)",
+    "AMZN",
+    "Small businesses and self‑insured employers",
     "Individual policyholders",
-    "Health care providers (physicians, clinics)"
+    "Health care providers (hospitals, clinics)"
   ],
   "competitors": [
     "Anthem",
     "Aetna (CVS Health)",
     "Cigna",
     "Humana",
-    "Kaiser Permanente"
+    "Blue Cross Blue Shield"
   ],
   "key_products": [
-    "Health insurance plans (individual, group, Medicare Advantage, Medicaid)",
+    "UnitedHealthcare insurance plans (individual, employer, Medicare Advantage, Medicaid)",
     "OptumRx pharmacy benefit management",
-    "OptumCare health services",
+    "OptumHealth clinical services",
     "OptumInsight data analytics",
-    "Health savings accounts (HSAs) and other financial products"
+    "OptumCare health care delivery"
   ],
-  "extracted_at": "2026-02-19 14:44:41",
+  "extracted_at": "2026-02-23 18:08:27",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,21 +41,21 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/List_of_largest_companies_in_the_United_States_by_revenue",
+      "url": "https://finance.yahoo.com/news/analysts-lower-expectations-unitedhealth-unh-013207958.html",
       "query": "UnitedHealth Group Incorporated suppliers manufacturers",
-      "snippet": "There are also corporations having foundation in the United States, such as corporate headquarters, operational headquarters and independent subsidiar"
+      "snippet": "UnitedHealth Group Incorporated (NYSE:UNH) is going through a difficult stretch, with the stock dropping nearly 14% since the start of 2026, reflectin"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/UNH/",
+      "url": "https://csimarket.com/news/guardian-or-goliath-analyzing-the-unraveling-of-unitedhealth-group-s-corporate-governance-amid-regulatory-scrutiny2025-03-25202458",
       "query": "UnitedHealth Group Incorporated suppliers manufacturers",
-      "snippet": "Find the latest UnitedHealth Group Incorporated (UNH) stock quote, history, news and other vital information to help you with your stock trading and i"
+      "snippet": "In a landscape where trust and transparency are paramount, UnitedHealth Group Incorporated (NYSE: UNH), one of the largest health insurance companies "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/UnitedHealth_Group",
+      "url": "https://csimarket.com/stocks/UNH-Customers",
       "query": "UnitedHealth Group Incorporated major customers clients",
-      "snippet": "UnitedHealth Group Incorporated is an American multinational for-profit company specializing in health insurance and health care services History · Fi"
+      "snippet": "Unitedhealth Group Incorporated customers and markets, results by customer and performance relative to UNH, by company and industry - CSIMarket"
     },
     {
       "source": "DuckDuckGo",

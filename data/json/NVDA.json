@@ -4,11 +4,11 @@
   "sector": "Technology",
   "industry": "Semiconductors",
   "upstream": [
-    "005930.KS",
     "TSM",
+    "005930.KS",
     "GlobalFoundries",
-    "NVDA",
-    "MU"
+    "MU",
+    "QCOM"
   ],
   "downstream": [
     "SONY",
@@ -22,16 +22,16 @@
     "INTC",
     "QCOM",
     "AVGO",
-    "ARM"
+    "ARM Holdings"
   ],
   "key_products": [
     "GeForce GPUs",
-    "Quadro GPUs",
+    "Quadro/RTX GPUs",
     "Tesla GPUs",
-    "Jetson SoCs",
-    "CUDA APIs"
+    "NVIDIA Tegra SoCs",
+    "CUDA API"
   ],
-  "extracted_at": "2026-02-20 16:26:59",
+  "extracted_at": "2026-02-23 16:45:35",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,7 +43,7 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Nvidia",
       "query": "NVIDIA Corporation suppliers manufacturers",
-      "snippet": "2 days ago - In August 2025, Nvidia ordered ... due to security concerns. The company directed suppliers including Taiwan Semiconductor Manufacturing "
+      "snippet": "1 day ago - In August 2025, Nvidia ordered ... due to security concerns. The company directed suppliers including Taiwan Semiconductor Manufacturing C"
     },
     {
       "source": "DuckDuckGo",
@@ -53,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.fool.com/investing/2025/06/26/who-are-nvidias-biggest-customers/",
+      "url": "https://www.investing.com/equities/nvidia-corp",
       "query": "NVIDIA Corporation major customers clients",
-      "snippet": "June 26, 2025 - Nvidia has amassed an impressive list of customers, which includes top AI developers like Amazon, Microsoft, and Alphabet ."
+      "snippet": "View today's NVIDIA Corporation stock price and latest NVDA news and analysis. Create real-time notifications to follow any changes in the live stock "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/news/nvidias-largest-customers-201900375.html",
+      "url": "https://www.tradingview.com/symbols/NASDAQ-NVDA/",
       "query": "NVIDIA Corporation major customers clients",
-      "snippet": "May 2, 2024 - However, in its recent 10-K filing, the company did say that one customer represented 13% of its revenue from its compute and networking"
+      "snippet": "View live NVIDIA Corporation chart to track its stock's price action. Find market predictions, NVDA financials and market news."
     }
   ]
 }

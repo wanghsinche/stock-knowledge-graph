@@ -1,37 +1,37 @@
 {
   "ticker": "WMT",
   "company_name": "Walmart Inc.",
-  "sector": "Consumer Defensive / Discount Stores",
-  "industry": "Retail - Discount Stores",
+  "sector": "Consumer Defensive",
+  "industry": "Discount Stores",
   "upstream": [
-    "Plug Power Inc.",
     "Procter & Gamble",
-    "HPQ",
     "Coca‑Cola",
-    "Nike"
+    "PepsiCo",
+    "Nestlé",
+    "Johnson & Johnson"
   ],
   "downstream": [
-    "U.S. consumers",
-    "International consumers",
+    "Individual consumers",
+    "Small and medium‑sized businesses",
+    "Corporate bulk buyers",
     "Online shoppers",
-    "Local communities",
-    "Small businesses"
+    "Sam’s Club members"
   ],
   "competitors": [
     "Target",
     "Costco",
     "AMZN",
-    "Kroger",
-    "Home Depot"
+    "BJ’s Wholesale Club",
+    "Kroger"
   ],
   "key_products": [
     "Groceries",
-    "Electronics",
-    "Clothing",
     "Household goods",
-    "Furniture"
+    "Electronics",
+    "Apparel",
+    "Private‑label brands"
   ],
-  "extracted_at": "2026-02-20 16:30:16",
+  "extracted_at": "2026-02-23 17:49:28",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,15 +41,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://corporate.walmart.com/suppliers",
+      "url": "https://en.wikipedia.org/wiki/Walmart",
       "query": "Walmart Inc. suppliers manufacturers",
-      "snippet": "Supplier Development. Walmart works with suppliers around the world to source quality products at great prices to help our customers save money and li"
+      "snippet": "Walmart Inc . is an American multinational retail corporation that operates a chain of hypermarkets (also called supercenters), discount department st"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.investopedia.com/articles/insights/050116/walmart-stock-analyzing-5-key-suppliers-wmt.asp",
+      "url": "https://ru.wikipedia.org/wiki/Walmart",
       "query": "Walmart Inc. suppliers manufacturers",
-      "snippet": "5 Key Suppliers of Walmart · 1. Plug Power Inc. · 2. Proctor & Gamble · 3. HP Inc. · 4. Green Dot Corporation · 5. Primo Brands Corporation."
+      "snippet": "Walmart , Inc . ([ˈwɔːlmɑːrt], «Уолмарт») — американская компания, управляющая крупнейшей в мире сетью оптовой и розничной торговли, действующей под т"
     },
     {
       "source": "DuckDuckGo",

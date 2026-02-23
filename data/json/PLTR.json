@@ -4,34 +4,34 @@
   "sector": "Technology",
   "industry": "Software - Infrastructure",
   "upstream": [
-    "AMZN",
-    "MSFT",
-    "GOOGL",
-    "ORCL",
-    "IBM"
+    "Global pharmaceutical manufacturers",
+    "Manufacturing industry solutions",
+    "Data providers",
+    "Cloud infrastructure providers",
+    "Hardware vendors"
   ],
   "downstream": [
     "U.S. Department of Defense",
-    "Federal Bureau of Investigation",
     "INTC",
-    "JPMorgan Chase & Co.",
-    "Boeing"
+    "Law enforcement agencies",
+    "Financial institutions",
+    "Healthcare organizations"
   ],
   "competitors": [
-    "Splunk",
-    "Databricks",
-    "Snowflake",
     "IBM",
-    "ORCL"
+    "MSFT",
+    "GOOGL",
+    "Snowflake",
+    "Databricks"
   ],
   "key_products": [
     "Gotham",
     "Foundry",
-    "Apollo",
     "Palantir Platform",
-    "Palantir Data Integration Suite"
+    "Palantir Data Integration",
+    "Palantir Analytics"
   ],
-  "extracted_at": "2026-02-20 16:29:38",
+  "extracted_at": "2026-02-23 17:00:34",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,9 +41,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Palantir",
+      "url": "https://www.palantir.com/explore/biomanufacturing/",
       "query": "Palantir Technologies Inc. suppliers manufacturers",
-      "snippet": "Palantir Technologies Inc. is an American publicly traded company that develops data integration and analytics platforms enabling government agencies,"
+      "snippet": "Global pharmaceutical manufacturers rely on Palantir Foundry to cultivate data connectivity, overcoming the challenges arising from operational and da"
     },
     {
       "source": "DuckDuckGo",
@@ -59,9 +59,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.palantir.com/",
+      "url": "https://www.marketwatch.com/investing/stock/pltr",
       "query": "Palantir Technologies Inc. major customers clients",
-      "snippet": "Palantir Learning. Customer Success Services.\" Palantir 's frontline mixed reality capabilities...will complement our technology goals of worker enabl"
+      "snippet": "PLTR | Complete Palantir Technologies Inc . stock news by MarketWatch. View real-time stock prices and stock quotes for a full financial overview."
     }
   ]
 }

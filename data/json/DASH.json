@@ -1,37 +1,37 @@
 {
   "ticker": "DASH",
   "company_name": "DoorDash, Inc.",
-  "sector": "Consumer Cyclical / Internet Retail",
-  "industry": "Online Food Delivery",
+  "sector": "Consumer Cyclical",
+  "industry": "Internet Retail",
   "upstream": [
-    "Restaurant partners",
-    "Grocery store partners",
-    "Convenience store partners",
-    "Food manufacturers",
-    "Tractor Supply"
+    "Restaurants and food suppliers",
+    "Food manufacturers and distributors",
+    "Packaging and disposable goods suppliers",
+    "GOOGL",
+    "Payment processors (e.g., Stripe, PayPal)"
   ],
   "downstream": [
-    "Consumers",
-    "Restaurant partners",
-    "Grocery store partners",
-    "Convenience store partners",
-    "Delivery couriers"
+    "Restaurant merchants",
+    "End‑user consumers",
+    "Delivery couriers",
+    "Convenience stores and grocery partners",
+    "Corporate and institutional clients"
   ],
   "competitors": [
     "Uber Eats",
     "Grubhub",
-    "Postmates",
-    "Instacart",
-    "Caviar"
+    "Postmates (now part of Uber)",
+    "Seamless",
+    "Deliveroo"
   ],
   "key_products": [
-    "Food delivery service",
-    "Convenience delivery",
-    "Grocery delivery",
-    "On‑demand delivery platform",
-    "DoorDash Drive"
+    "DoorDash mobile and web app",
+    "DoorDash Drive (delivery fleet)",
+    "DoorDash for Restaurants (merchant platform)",
+    "DoorDash Pay (payment solution)",
+    "DoorDash Marketplace (B2B ordering)"
   ],
-  "extracted_at": "2026-02-19 16:43:19",
+  "extracted_at": "2026-02-23 18:07:37",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://careersatdoordash.com/jobs/manufacturing-quality-engineer/7490108",
+      "url": "https://en.wikipedia.org/wiki/DoorDash",
       "query": "DoorDash, Inc. suppliers manufacturers",
-      "snippet": "Establish and manage the supplier quality function, including qualification, audits, PPAP/APQP alignment, and ongoing supplier performance monitoring."
+      "snippet": "DoorDash , Inc . is an American company operating online food ordering and food delivery. It trades under the symbol DASH. [4] With a 56% market share"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.farmequip.org/news/doordash-partners-with-tractor-supply/",
+      "url": "https://csimarket.com/stocks/suppliers_glance.php?code=DASH",
       "query": "DoorDash, Inc. suppliers manufacturers",
-      "snippet": "Nov 8, 2022 · Tractor Supply is available on the DoorDash marketplace to offer a wide selection of products in categories such as home improvement, fa"
+      "snippet": "Dec 9, 2025 · Doordash Inc supply chain, list and performance of Doordash Incs' suppliers - CSIMarket"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://doordash-landing-page.vercel.app/",
+      "url": "https://backlinko.com/doordash-users",
       "query": "DoorDash, Inc. major customers clients",
-      "snippet": "DoorDash Logo. Discover restaurants and more near you.Grow your business with DoorDash . Businesses large and small partner with DoorDash to reach new"
+      "snippet": "Jan 20, 2026 · Interesting DoorDash user stats. Includes data on orders, customers , couriers, market share and more."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://doordash.okta.com/",
+      "url": "https://csimarket.com/stocks/DASH-Customers",
       "query": "DoorDash, Inc. major customers clients",
-      "snippet": "OKTA Dashboard doordash .okta.com/."
+      "snippet": "4 days ago · Doordash Inc customers and markets, results by customer and performance relative to DASH, by company and industry - CSIMarket"
     }
   ]
 }

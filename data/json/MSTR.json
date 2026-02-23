@@ -2,20 +2,20 @@
   "ticker": "MSTR",
   "company_name": "MicroStrategy Incorporated",
   "sector": "Technology",
-  "industry": "Software - Application",
+  "industry": "Software—Application",
   "upstream": [
-    "DELL",
-    "HPQ",
-    "IBM",
-    "MSFT",
-    "AMZN"
+    "Hardware vendors",
+    "Cloud service providers",
+    "Data providers",
+    "Consulting partners",
+    "Technology partners"
   ],
   "downstream": [
-    "Coca‑Cola",
-    "Walmart",
-    "Bank of America",
-    "MSFT",
-    "AMZN"
+    "Financial services firms",
+    "Retail companies",
+    "Manufacturing firms",
+    "Healthcare organizations",
+    "Government agencies"
   ],
   "competitors": [
     "Tableau",
@@ -25,13 +25,13 @@
     "Sisense"
   ],
   "key_products": [
-    "MicroStrategy Desktop",
-    "MicroStrategy Web",
-    "MicroStrategy Mobile",
     "MicroStrategy Analytics",
-    "MicroStrategy Cloud"
+    "MicroStrategy Cloud",
+    "MicroStrategy Mobile",
+    "MicroStrategy Data Warehouse",
+    "MicroStrategy AI"
   ],
-  "extracted_at": "2026-02-20 16:31:29",
+  "extracted_at": "2026-02-23 18:01:20",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,15 +47,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.sustainment.com/platform/strategic-sourcing",
+      "url": "https://www.strategy.com/software",
       "query": "Strategy Inc suppliers manufacturers",
-      "snippet": "Sustainment's AI-powered Supplier Discovery streamlines strategic sourcing. Find U.S. suppliers and improve procurement with ease."
+      "snippet": "Strategy Solutions powered by Mosaic provide a universal semantic layer that unifies enterprise data, governs business metrics, and delivers trusted A"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/MicroStrategy",
       "query": "Strategy Inc major customers clients",
-      "snippet": "Strategy Inc ., formerly known as MicroStrategy, is an American company that provides business intelligence and mobile software.In 1992, MicroStrategy"
+      "snippet": "Strategy Inc ., formerly known as MicroStrategy, is an American company that provides business intelligence (BI) and mobile software. Founded in 1989 "
     },
     {
       "source": "DuckDuckGo",

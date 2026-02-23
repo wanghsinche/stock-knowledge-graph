@@ -4,34 +4,34 @@
   "sector": "Financial Services",
   "industry": "Credit Services",
   "upstream": [
-    "NXP Semiconductors",
-    "STMicroelectronics",
-    "IBM",
-    "MSFT",
-    "Card production manufacturers"
+    "Chip manufacturers (e.g., NXP, STMicroelectronics)",
+    "Card production suppliers (e.g., Gemalto, IDEMIA)",
+    "Payment network infrastructure providers",
+    "Software vendors for transaction processing",
+    "Security and encryption technology suppliers"
   ],
   "downstream": [
-    "JPMorgan Chase",
-    "Bank of America",
-    "Walmart",
+    "Commercial banks and credit unions",
+    "Retail merchants (e.g., Walmart, Target)",
     "AMZN",
-    "AAPL"
+    "Financial technology companies",
+    "Large multinational corporations using payment services"
   ],
   "competitors": [
-    "Visa",
+    "Visa Inc.",
     "American Express",
-    "Discover",
-    "JCB",
+    "Discover Financial Services",
+    "JCB Co., Ltd.",
     "UnionPay"
   ],
   "key_products": [
     "Payment processing network",
-    "Card issuance services",
-    "Digital wallet integration",
-    "Fraud detection services",
-    "Transaction analytics"
+    "Card issuance and management services",
+    "Fraud detection and prevention solutions",
+    "Data analytics and insights platform",
+    "Mobile and contactless payment solutions (Masterpass, tokenization)"
   ],
-  "extracted_at": "2026-02-19 14:45:26",
+  "extracted_at": "2026-02-23 18:10:52",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.mastercard.com/procurement/us/en/home.html",
-      "query": "Mastercard Incorporated suppliers manufacturers",
-      "snippet": "Mastercard Sourcing & Supplier Management provides a competitive advantage to Mastercard by creating and maximizing shareholder value through leading-"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/MA-Suppliers",
-      "query": "Mastercard Incorporated suppliers manufacturers",
-      "snippet": "Mastercard Incorporated's Suppliers recorded an increase in sales by 1.92 % year on year in Q3 2025, from the previous quarter, sales fell by -1.53 %,"
-    },
-    {
-      "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Mastercard",
-      "query": "Mastercard Incorporated major customers clients",
-      "snippet": "Throughout the world, its principal business is to process payments between the banks of merchants and the card-issuing banks or credit unions of the "
+      "query": "Mastercard Incorporated suppliers manufacturers",
+      "snippet": "Mastercard Inc . (stylized as MasterCard from 1979 to 2016 and as mastercard from 2016 to 2019) is an American multinational payment card services cor"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.mastercard.com/us/en/for-the-world/about-us.html",
+      "url": "https://ru.wikipedia.org/wiki/Mastercard",
+      "query": "Mastercard Incorporated suppliers manufacturers",
+      "snippet": "Mastercard Inc . (ранее MasterCard Worldwide или MasterCard Incorporated ) — международная платёжная система, транснациональная финансовая корпорация,"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/MA-Customers",
       "query": "Mastercard Incorporated major customers clients",
-      "snippet": "Mastercard powers economies and empowers people worldwide. With our customers, we deliver a wide range of payment choices, making transactions secure,"
+      "snippet": "Mastercard Incorporated customers and markets, results by customer and performance relative to MA, by company and industry - CSIMarket"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.mastercardservices.com/en/resources/case-studies",
+      "query": "Mastercard Incorporated major customers clients",
+      "snippet": "Learn how leading brands across the world use Mastercard 's services to make smarter decisions & drive outcomes."
     }
   ]
 }

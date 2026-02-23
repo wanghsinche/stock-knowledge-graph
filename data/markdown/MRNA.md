@@ -3,8 +3,8 @@ ticker: MRNA
 company: Moderna, Inc.
 sector: Healthcare
 industry: Biotechnology
-extracted_at: 2026-02-20 16:37:05
-last_updated: 2026-02-20
+extracted_at: 2026-02-23 18:11:15
+last_updated: 2026-02-23
 ---
 
 # MRNA - Moderna, Inc.
@@ -12,46 +12,46 @@ last_updated: 2026-02-20
 ## 基本信息
 
 - **所属行业**: Healthcare / Biotechnology
-- **提取时间**: 2026-02-20 16:37:05
+- **提取时间**: 2026-02-23 18:11:15
 
 ## 产业链关系
 
 ### 上游供应商
 - [[Thermo Fisher Scientific]]
-- [[Merck]]
-- [[Lonza]]
-- [[Boehringer Ingelheim]]
-- [[BASF]]
+- [[Merck & Co.]]
+- [[Lonza Group]]
+- [[GSK]]
+- [[BioNTech]]
 
 ### 下游客户
 - [[U.S. Department of Health and Human Services]]
-- [[European Medicines Agency]]
-- [[National Health Service (UK)]]
+- [[European Commission]]
 - [[World Health Organization]]
-- [[Private hospitals]]
+- [[Hospitals and Clinics]]
+- [[Pharmaceutical distributors]]
 
 ### 竞争对手
-- [[Pfizer]]
 - [[BioNTech]]
-- [[Johnson & Johnson]]
-- [[Novavax]]
 - [[CureVac]]
+- [[Translate Bio]]
+- [[Arcturus Therapeutics]]
+- [[Pfizer]]
 
 ### 核心产品
-- [[Spikevax (COVID-19 vaccine)]]
-- [[mRNA-4157 (cancer vaccine)]]
-- [[mRNA-1245 (RSV vaccine)]]
-- [[mRNA-1010 (influenza vaccine)]]
-- [[mRNA-1701 (influenza vaccine)]]
+- [[mRNA-1273 (COVID-19 vaccine)]]
+- [[mRNA-4157 (cancer therapeutic)]]
+- [[mRNA-3704 (RSV vaccine)]]
+- [[mRNA-1245 (influenza vaccine)]]
+- [[mRNA-1273.351 (variant vaccine)]]
 
 ## 数据来源
 
 - 
-- [Moderna, Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/Moderna)
-- [Moderna, Inc. suppliers manufacturers](https://www.modernatx.com/en-US/supplier/moderna-supplier-page)
-- [Moderna, Inc. major customers clients](https://canvasbusinessmodel.com/blogs/target-market/moderna-target-market)
-- [Moderna, Inc. major customers clients](https://csimarket.com/stocks/MRNA-Shares-vs-Customers)
+- [Moderna, Inc. suppliers manufacturers](https://modernadirect.com/authorized-distributor)
+- [Moderna, Inc. suppliers manufacturers](https://www.modernatx.com/supplier/moderna-supplier-page)
+- [Moderna, Inc. major customers clients](https://matrixbcg.com/blogs/target-market/moderna)
+- [Moderna, Inc. major customers clients](https://pestel-analysis.com/blogs/target-market/modernatx)
 
 ## 元数据
 
-- **更新日期**: 2026-02-20
+- **更新日期**: 2026-02-23
