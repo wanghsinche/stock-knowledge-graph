@@ -4,34 +4,34 @@
   "sector": "Healthcare",
   "industry": "Healthcare Plans",
   "upstream": [
-    "Pharmaceutical manufacturers (e.g., Pfizer, Johnson & Johnson)",
-    "Medical device manufacturers (e.g., Medtronic, Abbott)",
-    "Health IT vendors (e.g., Cerner, Epic Systems)",
-    "Pharmacy benefit managers (e.g., Express Scripts)",
-    "IBM"
+    "Medical device manufacturers",
+    "Pharmaceutical companies",
+    "Health technology vendors",
+    "Data analytics providers",
+    "Pharmacy benefit managers"
   ],
   "downstream": [
-    "U.S. federal government (Medicare, Medicaid)",
-    "AMZN",
-    "Small businesses and self‑insured employers",
-    "Individual policyholders",
-    "Health care providers (hospitals, clinics)"
+    "Large corporate employers",
+    "Government health programs (e.g., Medicare, Medicaid)",
+    "State and local governments",
+    "Health maintenance organizations (HMOs)",
+    "Individual consumers"
   ],
   "competitors": [
     "Anthem",
-    "Aetna (CVS Health)",
     "Cigna",
+    "Aetna",
     "Humana",
-    "Blue Cross Blue Shield"
+    "CVS Health"
   ],
   "key_products": [
-    "UnitedHealthcare insurance plans (individual, employer, Medicare Advantage, Medicaid)",
-    "OptumRx pharmacy benefit management",
-    "OptumHealth clinical services",
-    "OptumInsight data analytics",
-    "OptumCare health care delivery"
+    "Health insurance plans (individual, group, Medicare)",
+    "Optum health services (clinical, pharmacy, data analytics)",
+    "UnitedHealthcare pharmacy benefit management",
+    "OptumCare clinical services",
+    "OptumInsight data analytics solutions"
   ],
-  "extracted_at": "2026-02-23 18:08:27",
+  "extracted_at": "2026-02-24 17:01:20",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/news/analysts-lower-expectations-unitedhealth-unh-013207958.html",
+      "url": "https://www.unitedhealthgroup.com/suppliers/information.html",
       "query": "UnitedHealth Group Incorporated suppliers manufacturers",
-      "snippet": "UnitedHealth Group Incorporated (NYSE:UNH) is going through a difficult stretch, with the stock dropping nearly 14% since the start of 2026, reflectin"
+      "snippet": "Supplier Community Portal At UnitedHealth Group , we search for suppliers that help us deliver best-in-class services to our customers. These partners"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/news/guardian-or-goliath-analyzing-the-unraveling-of-unitedhealth-group-s-corporate-governance-amid-regulatory-scrutiny2025-03-25202458",
+      "url": "https://csimarket.com/stocks/UNH-Suppliers",
       "query": "UnitedHealth Group Incorporated suppliers manufacturers",
-      "snippet": "In a landscape where trust and transparency are paramount, UnitedHealth Group Incorporated (NYSE: UNH), one of the largest health insurance companies "
+      "snippet": "Unitedhealth Group Incorporated's Suppliers recorded an increase in sales by 8.14 % year on year in Q3 2025, sequentially sales grew by 4.56 %, United"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/UNH-Customers",
+      "url": "https://finance.yahoo.com/news/zacks-analyst-blog-unitedhealth-honeywell-084200010.html",
       "query": "UnitedHealth Group Incorporated major customers clients",
-      "snippet": "Unitedhealth Group Incorporated customers and markets, results by customer and performance relative to UNH, by company and industry - CSIMarket"
+      "snippet": "Nevertheless, UnitedHealth Group ’s fourth-quarter earnings beat estimates. It has shown steady revenue growth, driven by Optum and UnitedHealthcare. "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.unitedhealthgroup.com/uhg/businesses.html",
+      "url": "https://www.insidermonkey.com/blog/jim-cramer-on-unitedhealthgroup-incorporation-unh-unh-is-the-only-health-insurer-that-regularly-beats-earnings-1373978/",
       "query": "UnitedHealth Group Incorporated major customers clients",
-      "snippet": "UnitedHealth Group is a health care and well-being company with team members in two distinct and complementary businesses — Optum and UnitedHealthcare"
+      "snippet": "UnitedHealth Group Incorporated (NYSE:UNH). Number of Hedge Fund Holders: 114.Through its UnitedHealthcare segment, the company delivers health insura"
     }
   ]
 }

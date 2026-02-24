@@ -1,25 +1,25 @@
 {
   "ticker": "INTU",
   "company_name": "Intuit Inc.",
-  "sector": "Technology / Software - Application",
-  "industry": "Financial Software",
+  "sector": "Technology",
+  "industry": "Software - Application",
   "upstream": [
-    "Hardware component suppliers",
-    "Cloud infrastructure providers",
-    "Software library vendors",
-    "Payment processor partners",
-    "Data center operators"
+    "AMZN",
+    "MSFT",
+    "GOOGL",
+    "DELL",
+    "IBM"
   ],
   "downstream": [
-    "Individual taxpayers",
     "Small businesses",
     "Accountants",
-    "Tax preparers",
-    "Financial advisors"
+    "Tax professionals",
+    "CPA firms",
+    "Individual taxpayers"
   ],
   "competitors": [
-    "SAP",
-    "ORCL",
+    "H&R Block",
+    "TaxAct",
     "Xero",
     "Sage",
     "FreshBooks"
@@ -29,9 +29,9 @@
     "QuickBooks",
     "Credit Karma",
     "Mailchimp",
-    "Intuit Payments"
+    "QuickBooks Online"
   ],
-  "extracted_at": "2026-02-23 18:09:45",
+  "extracted_at": "2026-02-24 17:00:06",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,15 +41,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://investors.intuit.com/_assets/_95ad7170fb600fdc9a2c5384b928b8c2/intuit/db/933/10235/file/2023.05.21-Intuit+Inc.+and+Intuit+Canada+ULC-Modern+Slavery+Statement+(FY23+Supply+Chains+Act)-Executed.pdf",
+      "url": "https://csimarket.com/stocks/INTU-Suppliers",
       "query": "Intuit Inc. suppliers manufacturers",
-      "snippet": "Country risk: Suppliers may be in low-risk jurisdictions such as Canada, the UK, the EU, or the USA, but they may use overseas operations such as for "
+      "snippet": "Intuit Inc supply chain, list and performance of Intuit Incs ' suppliers - CSIMarket."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://quickbooks.intuit.com/r/supply-chain/5-ways-to-find-international-manufacturers/",
+      "url": "https://ca.finance.yahoo.com/news/intuit-intu-carries-strong-market-163651303.html",
       "query": "Intuit Inc. suppliers manufacturers",
-      "snippet": "There are many trusted online resources such as Alibaba.com, Thomasnet.com and Tdctrade.com that help you build a network of suppliers, manufacturers,"
+      "snippet": "On January 6, Truist Financial initiated coverage of Intuit Incorporated (NASDAQ:INTU) with a Buy rating and a $739 price target. The firm highlighted"
     },
     {
       "source": "DuckDuckGo",

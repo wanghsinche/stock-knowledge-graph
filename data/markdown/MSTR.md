@@ -2,56 +2,56 @@
 ticker: MSTR
 company: MicroStrategy Incorporated
 sector: Technology
-industry: Software—Application
-extracted_at: 2026-02-23 18:01:20
-last_updated: 2026-02-23
+industry: Software - Application
+extracted_at: 2026-02-24 17:04:23
+last_updated: 2026-02-24
 ---
 
 # MSTR - MicroStrategy Incorporated
 
 ## 基本信息
 
-- **所属行业**: Technology / Software—Application
-- **提取时间**: 2026-02-23 18:01:20
+- **所属行业**: Technology / Software - Application
+- **提取时间**: 2026-02-24 17:04:23
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Hardware vendors]]
-- [[Cloud service providers]]
-- [[Data providers]]
-- [[Consulting partners]]
-- [[Technology partners]]
+- [[MSFT]]
+- [[AMZN]]
+- [[GOOGL]]
+- [[ORCL]]
+- [[IBM]]
 
 ### 下游客户
-- [[Financial services firms]]
-- [[Retail companies]]
-- [[Manufacturing firms]]
-- [[Healthcare organizations]]
-- [[Government agencies]]
+- [[Bank of America]]
+- [[Wells Fargo]]
+- [[Citigroup]]
+- [[JPMorgan Chase]]
+- [[Goldman Sachs]]
 
 ### 竞争对手
 - [[Tableau]]
 - [[Qlik]]
 - [[MSFT]]
-- [[Looker]]
-- [[Sisense]]
+- [[SAP BusinessObjects]]
+- [[IBM]]
 
 ### 核心产品
-- [[MicroStrategy Analytics]]
-- [[MicroStrategy Cloud]]
+- [[MicroStrategy Desktop]]
+- [[MicroStrategy Web]]
 - [[MicroStrategy Mobile]]
-- [[MicroStrategy Data Warehouse]]
-- [[MicroStrategy AI]]
+- [[MicroStrategy Cloud]]
+- [[MicroStrategy Analytics]]
 
 ## 数据来源
 
 - 
-- [Strategy Inc suppliers manufacturers](https://www.strategy.com/software/blog/how-manufacturers-are-solving-supply-chain-chaos-with-smart-bi)
-- [Strategy Inc suppliers manufacturers](https://www.strategy.com/software)
-- [Strategy Inc major customers clients](https://en.wikipedia.org/wiki/MicroStrategy)
-- [Strategy Inc major customers clients](https://www.inc.com/)
+- [Strategy Inc suppliers manufacturers](https://www.tradingview.com/symbols/NASDAQ-MSTR/ideas/page-5/)
+- [Strategy Inc suppliers manufacturers](https://www.alibaba.com/)
+- [Strategy Inc major customers clients](https://csimarket.com/stocks/STRF-Customers)
+- [Strategy Inc major customers clients](https://www.strategy.com/software/customer-stories)
 
 ## 元数据
 
-- **更新日期**: 2026-02-23
+- **更新日期**: 2026-02-24

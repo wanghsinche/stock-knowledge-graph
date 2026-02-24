@@ -2,36 +2,36 @@
   "ticker": "IREN",
   "company_name": "IREN Limited",
   "sector": "Financial Services / Capital Markets",
-  "industry": "Financial Services / Capital Markets",
+  "industry": "Data Center & Cloud Services",
   "upstream": [
-    "NVDA",
-    "AMD",
-    "INTC",
-    "Supermicro",
-    "DELL"
+    "Renewable energy providers",
+    "Data center equipment manufacturers",
+    "GPU hardware suppliers",
+    "Cooling system vendors",
+    "Networking equipment suppliers"
   ],
   "downstream": [
-    "MSFT",
-    "GOOGL",
-    "AMZN",
-    "Alibaba",
-    "ORCL"
+    "Enterprise AI customers",
+    "Cloud service resellers",
+    "High-performance computing firms",
+    "Research institutions",
+    "Financial technology companies"
   ],
   "competitors": [
     "AMZN",
     "MSFT",
     "GOOGL",
-    "Alibaba Cloud",
+    "IBM",
     "ORCL"
   ],
   "key_products": [
-    "AI Cloud services",
-    "GPU cluster solutions",
-    "Renewable-powered data centers",
-    "Edge computing services",
-    "AI infrastructure"
+    "100% renewable-powered data centers",
+    "AI Cloud platform",
+    "GPU cluster services",
+    "Edge computing solutions",
+    "Data center infrastructure management"
   ],
-  "extracted_at": "2026-02-19 16:51:49",
+  "extracted_at": "2026-02-24 17:05:52",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,25 +43,25 @@
       "source": "DuckDuckGo",
       "url": "https://www.iren.com/",
       "query": "IREN Limited suppliers manufacturers",
-      "snippet": "Explore IREN 's 100% renewable-powered data centers offering AI Cloud, GPU clusters, colocation, and build-to-suit infrastructure for scalable compute"
+      "snippet": "Explore IREN's 100% renewable-powered data centers offering AI Cloud, GPU clusters, colocation, and build-to-suit infrastructure for scalable compute "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/IREN/profile/?fr=sycsrp_catchall",
+      "url": "https://csimarket.com/stocks/suppliers_glance.php?code=IREN",
       "query": "IREN Limited suppliers manufacturers",
-      "snippet": "See the company profile for IREN Limited ( IREN ) including business summary, industry/sector information, number of employees, business summary, corp"
+      "snippet": "IREN's vs. Suppliers , Data (Revenue and Income for Trailing 12 Months, in Millions of $, except Employees) COMPANY NAME MARKET CAP REVENUES INCOME EM"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/news/irens-ai-client-expands-growth-162300898.html",
+      "url": "https://csimarket.com/stocks/IREN-Customers",
       "query": "IREN Limited major customers clients",
-      "snippet": "Dec 26, 2025 · IREN's expanding AI client base, new multi-year wins, and record $240M quarterly revenue point to more durable growth beyond a single ."
+      "snippet": "Feb 16, 2026 · For your research, we’ve provided 9 tables on Iren Limited corporate clients . You can find them in the navigation menu under Customers"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.fool.com/investing/2026/01/12/why-iren-limited-skyrocketed-285-in-2025/",
+      "url": "https://finviz.com/news/262618/irens-ai-client-base-expands-is-growth-becoming-more-durable",
       "query": "IREN Limited major customers clients",
-      "snippet": "Jan 12, 2026 · Despite inking a landmark deal with Microsoft, IREN still has a massive amount of grid-connected land powered by renewable energy, whic"
+      "snippet": "Dec 26, 2025 · Importantly, CoreWeave noted that nine of its ten largest customers now have multiple contracts, indicating the growing expansion and d"
     }
   ]
 }

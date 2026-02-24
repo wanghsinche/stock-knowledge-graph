@@ -1,37 +1,37 @@
 {
   "ticker": "PLTR",
   "company_name": "Palantir Technologies Inc.",
-  "sector": "Technology",
-  "industry": "Software - Infrastructure",
+  "sector": "Technology / Software - Infrastructure",
+  "industry": "Data Analytics / Big Data",
   "upstream": [
-    "Global pharmaceutical manufacturers",
-    "Manufacturing industry solutions",
-    "Data providers",
-    "Cloud infrastructure providers",
-    "Hardware vendors"
+    "AMZN",
+    "MSFT",
+    "GOOGL",
+    "IBM",
+    "ORCL"
   ],
   "downstream": [
     "U.S. Department of Defense",
+    "Federal Bureau of Investigation",
     "INTC",
-    "Law enforcement agencies",
-    "Financial institutions",
-    "Healthcare organizations"
+    "JPMorgan Chase",
+    "Walmart"
   ],
   "competitors": [
-    "IBM",
-    "MSFT",
-    "GOOGL",
+    "Splunk",
     "Snowflake",
-    "Databricks"
+    "Databricks",
+    "IBM",
+    "MSFT"
   ],
   "key_products": [
     "Gotham",
     "Foundry",
+    "Apollo",
     "Palantir Platform",
-    "Palantir Data Integration",
-    "Palantir Analytics"
+    "Palantir Data Integration Suite"
   ],
-  "extracted_at": "2026-02-23 17:00:34",
+  "extracted_at": "2026-02-24 16:57:43",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,15 +41,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.palantir.com/explore/biomanufacturing/",
+      "url": "https://en.wikipedia.org/wiki/Palantir",
       "query": "Palantir Technologies Inc. suppliers manufacturers",
-      "snippet": "Global pharmaceutical manufacturers rely on Palantir Foundry to cultivate data connectivity, overcoming the challenges arising from operational and da"
+      "snippet": "Palantir Technologies Inc. (/ ˈpæləntiːr / PAL-ən-teer) is an American publicly traded company that develops data integration and analytics platforms "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.palantir.com/explore/foundry-for-manufacturing/",
+      "url": "https://csimarket.com/stocks/PLTR-Suppliers",
       "query": "Palantir Technologies Inc. suppliers manufacturers",
-      "snippet": "Palantir Foundry offers a number of solutions for the manufacturing industry including predictive maintenance, digital twin, AI-powered applications, "
+      "snippet": "Sources: Palantir Technologies Inc 's official press releases and regulatory filings; CSIMarket.com's supply-chain research; and the financial filings"
     },
     {
       "source": "DuckDuckGo",

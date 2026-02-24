@@ -3,8 +3,8 @@ ticker: NVDA
 company: NVIDIA Corporation
 sector: Technology
 industry: Semiconductors
-extracted_at: 2026-02-23 16:45:35
-last_updated: 2026-02-23
+extracted_at: 2026-02-24 16:55:49
+last_updated: 2026-02-24
 ---
 
 # NVDA - NVIDIA Corporation
@@ -12,7 +12,7 @@ last_updated: 2026-02-23
 ## 基本信息
 
 - **所属行业**: Technology / Semiconductors
-- **提取时间**: 2026-02-23 16:45:35
+- **提取时间**: 2026-02-24 16:55:49
 
 ## 产业链关系
 
@@ -21,13 +21,13 @@ last_updated: 2026-02-23
 - [[005930.KS]]
 - [[GlobalFoundries]]
 - [[MU]]
-- [[QCOM]]
+- [[NVDA]]
 
 ### 下游客户
-- [[SONY]]
+- [[DELL]]
+- [[HPQ]]
 - [[MSFT]]
-- [[AMZN]]
-- [[GOOGL]]
+- [[SONY]]
 - [[TSLA]]
 
 ### 竞争对手
@@ -40,18 +40,18 @@ last_updated: 2026-02-23
 ### 核心产品
 - [[GeForce GPUs]]
 - [[Quadro/RTX GPUs]]
-- [[Tesla GPUs]]
-- [[NVIDIA Tegra SoCs]]
+- [[Tesla/Datacenter GPUs]]
+- [[NVIDIA Jetson SoCs]]
 - [[CUDA API]]
 
 ## 数据来源
 
 - [Nvidia](https://en.wikipedia.org/wiki/NVIDIA_Corporation)
-- [NVIDIA Corporation suppliers manufacturers](https://en.wikipedia.org/wiki/Nvidia)
-- [NVIDIA Corporation suppliers manufacturers](https://medium.com/@farrago_course0f/exploring-the-key-companies-supplying-nvidia-a-comprehensive-overview-ebc639dd1d99)
-- [NVIDIA Corporation major customers clients](https://www.investing.com/equities/nvidia-corp)
-- [NVIDIA Corporation major customers clients](https://www.tradingview.com/symbols/NASDAQ-NVDA/)
+- [NVIDIA Corporation suppliers manufacturers](https://www.suppliersmap.com/nvidia)
+- [NVIDIA Corporation suppliers manufacturers](https://stocksandfuturestrading.com/the-complete-list-of-nvidias-suppliers-and-consumers/)
+- [NVIDIA Corporation major customers clients](https://finance.yahoo.com/news/nvidias-biggest-customers-095700428.html)
+- [NVIDIA Corporation major customers clients](https://www.linkedin.com/posts/jasoncalacanis_nvidia-is-the-worlds-most-valuable-company-activity-7367360878221877249-Jwbn)
 
 ## 元数据
 
-- **更新日期**: 2026-02-23
+- **更新日期**: 2026-02-24

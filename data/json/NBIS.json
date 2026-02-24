@@ -5,17 +5,13 @@
   "industry": "Internet Content & Information",
   "upstream": [
     "NVDA",
-    "Cloud service providers (e.g., AWS, Azure)",
-    "Data providers (e.g., data labeling services)",
-    "INTC",
-    "Software vendors (e.g., TensorFlow)"
+    "AMD",
+    "INTC"
   ],
   "downstream": [
     "Goldman Sachs",
-    "Cloudflare",
-    "MSFT",
-    "AMZN",
-    "GOOGL"
+    "Mistral AI",
+    "Cloudflare"
   ],
   "competitors": [
     "OpenAI",
@@ -25,13 +21,12 @@
     "GOOGL"
   ],
   "key_products": [
-    "Nebius AI Infrastructure Platform",
-    "Nebius AI Cloud",
+    "Nebius AI Platform",
     "Nebius AI Services",
-    "Nebius AI Solutions",
-    "Nebius AI Platform"
+    "Nebius AI Infrastructure",
+    "Nebius AI Solutions"
   ],
-  "extracted_at": "2026-02-23 18:11:25",
+  "extracted_at": "2026-02-24 17:07:12",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,13 +38,13 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Nebius_Group",
       "query": "NBIS suppliers manufacturers",
-      "snippet": "Nebius Group N.V., headquartered in Amsterdam, is a technology company that provides artificial intelligence infrastructure."
+      "snippet": "Nebius Group N.V., headquartered in Amsterdam, is a technology company [3] that provides artificial intelligence infrastructure. [4] The company also "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/NBIS/",
+      "url": "https://csimarket.com/stocks/NBIS-Suppliers",
       "query": "NBIS suppliers manufacturers",
-      "snippet": "Nebius Group N.V. ( NBIS ) Strengthens AI Platform With $275M Tavily Deal.A Look At Nebius Group ( NBIS ) Valuation After Recent Share Price Pullback."
+      "snippet": "Sources: Nebius Group n v 's official press releases and regulatory filings; CSIMarket.com's supply-chain research; and the financial filings and pres"
     },
     {
       "source": "DuckDuckGo",
@@ -59,9 +54,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://seekingalpha.com/article/4855151-nebius-its-beginning-to-look-a-lot-like-trouble",
+      "url": "https://www.reddit.com/r/NBIS_Stock/comments/1j4abth/who_are_nebius_customers/",
       "query": "NBIS major customers clients",
-      "snippet": "Dec 22, 2025 · NBIS's managed AI cloud model adds operating complexity, higher fixed costs, and greater execution risk compared to peers like CoreWeav"
+      "snippet": "Mar 5, 2025 · Mistral AI is probably the most famous one. Other good customer stories here: https://nebius.com/customer-stories Nebius (NBIS) Has Long"
     }
   ]
 }

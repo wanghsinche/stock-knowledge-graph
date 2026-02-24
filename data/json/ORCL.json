@@ -8,30 +8,30 @@
     "AMD",
     "NVDA",
     "DELL",
-    "CSCO"
+    "HPQ"
   ],
   "downstream": [
-    "Walmart",
     "JPMorgan Chase",
     "Bank of America",
-    "AT&T",
-    "Verizon"
+    "Walmart",
+    "UnitedHealth Group",
+    "AT&T"
   ],
   "competitors": [
     "MSFT",
+    "AMZN",
     "IBM",
     "SAP",
-    "AMZN",
-    "GOOGL"
+    "CRM"
   ],
   "key_products": [
     "Oracle Database",
     "Oracle Cloud Infrastructure",
+    "Oracle Autonomous Database",
     "Oracle ERP Cloud",
-    "Oracle E-Business Suite",
-    "Oracle Autonomous Database"
+    "Oracle Fusion Middleware"
   ],
-  "extracted_at": "2026-02-23 17:13:01",
+  "extracted_at": "2026-02-24 16:59:34",
   "sources": [
     {
       "source": "Wikipedia",
@@ -53,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Oracle_Corporation",
+      "url": "https://www.oracle.com/customers/",
       "query": "Oracle Corporation major customers clients",
-      "snippet": "Oracle Corporation is an American multinational technology company headquartered in Austin, Texas. Co-founded in Santa Clara, California by Bob Miner,"
+      "snippet": "Oracle Customer Successes Innovation, ease of use, better results—those are just some of the reasons organizations in all industries and of all sizes "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ru.wikipedia.org/wiki/Oracle",
+      "url": "https://www.thomsondata.com/customer-base/oracle.php",
       "query": "Oracle Corporation major customers clients",
-      "snippet": "Oracle ( Oracle Corporation ) — американская корпорация, второй по размеру выручки разработчик программного обеспечения (после Microsoft), четвёртая к"
+      "snippet": "Technographic Data of Companies That Use Oracle Oracle Customers List by Industry Different industries use Oracle technology for their business. Looki"
     }
   ]
 }

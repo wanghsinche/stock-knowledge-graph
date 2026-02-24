@@ -5,33 +5,33 @@
   "industry": "Banks - Diversified",
   "upstream": [
     "MSFT",
-    "Payment processors (e.g., Visa, Mastercard)",
+    "Payment processors (e.g., Visa, Mastercard, PayPal)",
     "Data providers (e.g., Bloomberg, Thomson Reuters)",
-    "MSFT",
-    "Cybersecurity firms (e.g., Palo Alto Networks, Symantec)"
+    "Cybersecurity firms (e.g., Palo Alto Networks, Symantec)",
+    "MSFT"
   ],
   "downstream": [
     "Retail banking customers (individuals)",
-    "Small and medium‑size business customers",
+    "Small and medium‑size businesses",
     "Large corporate clients",
     "Government and public sector entities",
-    "Wealth management clients"
+    "Institutional investors and asset managers"
   ],
   "competitors": [
-    "JPMorgan Chase",
-    "Citigroup",
-    "Wells Fargo",
-    "Goldman Sachs",
+    "JPMorgan Chase & Co.",
+    "Citigroup Inc.",
+    "Wells Fargo & Co.",
+    "Goldman Sachs Group Inc.",
     "Morgan Stanley"
   ],
   "key_products": [
-    "Consumer banking and credit cards",
+    "Consumer banking (checking, savings, mortgages)",
+    "Credit card services",
     "Wealth management and investment advisory",
-    "Investment banking and capital markets",
-    "Mortgage lending and real estate services",
-    "Treasury and cash management"
+    "Corporate and investment banking",
+    "Treasury and cash management services"
   ],
-  "extracted_at": "2026-02-23 18:08:12",
+  "extracted_at": "2026-02-24 17:01:37",
   "sources": [
     {
       "source": "Wikipedia",
@@ -49,19 +49,19 @@
       "source": "DuckDuckGo",
       "url": "https://www.bankofamerica.com/",
       "query": "Bank of America Corporation suppliers manufacturers",
-      "snippet": "At Bank of America , our purpose is to help make financial lives better through the power of every connection.Get it on the App Store. Download the Ba"
+      "snippet": "At Bank of America , our purpose is to help make financial lives better through the power of every connection.Your Bank of America deposits and Merril"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Bank_of_America",
+      "url": "https://newsroom.bankofamerica.com/content/newsroom/company-overview/bank-of-america-fast-facts.html",
       "query": "Bank of America Corporation major customers clients",
-      "snippet": "The Bank of America Corporation is an American multinational investment bank and financial services holding company headquartered at the Bank of Ameri"
+      "snippet": "Jan 14, 2026 · Explore Bank of America Fast Facts for key insights on our global presence, financial services, client reach, and commitment to respons"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.bankofamerica.com/",
+      "url": "https://csimarket.com/stocks/BAC-Customers",
       "query": "Bank of America Corporation major customers clients",
-      "snippet": "Get it on the App Store. Download the Bank of America App. Before you leave our site, we want you to know your app store has its own privacy practices"
+      "snippet": "6 days ago · For your research, we’ve provided 9 tables on Bank Of America Corporation corporate clients . You can find them in the navigation menu un"
     }
   ]
 }

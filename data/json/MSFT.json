@@ -7,31 +7,31 @@
     "INTC",
     "AMD",
     "NVDA",
-    "DELL",
-    "HPQ"
+    "QCOM",
+    "TSM"
   ],
   "downstream": [
-    "Enterprises",
-    "Government agencies",
-    "DELL",
+    "Fortune 500 companies",
+    "U.S. federal government",
     "CAT",
-    "Consumers"
+    "Healthcare organizations",
+    "Financial institutions"
   ],
   "competitors": [
-    "GOOGL",
     "AMZN",
-    "AAPL",
-    "META",
-    "NVDA"
+    "GOOGL",
+    "ORCL",
+    "IBM",
+    "CRM"
   ],
   "key_products": [
-    "Windows operating system",
-    "Microsoft Office suite",
-    "Azure cloud services",
-    "Microsoft Teams",
-    "Xbox gaming console"
+    "Windows",
+    "Office 365",
+    "Azure",
+    "Surface",
+    "Xbox"
   ],
-  "extracted_at": "2026-02-23 16:49:20",
+  "extracted_at": "2026-02-24 16:57:07",
   "sources": [
     {
       "source": "Wikipedia",
@@ -53,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Microsoft",
+      "url": "https://www.microsoft.com/en-us/customers/",
       "query": "Microsoft Corporation major customers clients",
-      "snippet": "Microsoft Corporation is an American multinational technology conglomerate headquartered in Redmond, Washington. Founded in 1975, the company became i"
+      "snippet": "Explore customer success stories to learn how businesses are overcoming challenges, driving innovation, and achieving more with Microsoft solutions."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://play.google.com/store/apps/details?id=com.microsoft.office.outlook&hl=en",
+      "url": "https://csimarket.com/stocks/MSFT-Customers",
       "query": "Microsoft Corporation major customers clients",
-      "snippet": "Microsoft Corporation . Contains adsIn-app purchases.But I now have two major problems. When I open any email, It scrolls to the bottom of the email. "
+      "snippet": "5 days ago · For your research, we’ve provided 9 tables on Microsoft Corporation corporate clients . You can find them in the navigation menu under Cu"
     }
   ]
 }

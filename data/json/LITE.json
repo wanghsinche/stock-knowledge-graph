@@ -2,12 +2,30 @@
   "ticker": "LITE",
   "company_name": "Lumentum Holdings Inc.",
   "sector": "Technology",
-  "industry": "Communication Equipment",
-  "upstream": [],
-  "downstream": [],
+  "industry": "Optical Communications",
+  "upstream": [
+    "Optical component manufacturers",
+    "Laser diode suppliers",
+    "Optical fiber manufacturers",
+    "Photonic integrated circuit suppliers",
+    "Optical amplifier manufacturers"
+  ],
+  "downstream": [
+    "Cloud & Networking customers",
+    "Data Center customers",
+    "CAT",
+    "Enterprise customers",
+    "Industrial customers"
+  ],
   "competitors": [],
-  "key_products": [],
-  "extracted_at": "2026-02-23 17:35:33",
+  "key_products": [
+    "Optical transceivers",
+    "Laser diodes",
+    "Optical amplifiers",
+    "Photonic integrated circuits",
+    "Optical sensors"
+  ],
+  "extracted_at": "2026-02-24 17:00:23",
   "sources": [
     {
       "source": "Wikipedia",
@@ -17,15 +35,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.lumentum.com/en",
+      "url": "https://www.lumentum.com/",
       "query": "Lumentum Holdings Inc. suppliers manufacturers",
       "snippet": "Discover how Lumentum enables innovation through optical and photonic technologies for cloud networking, 3D sensing, lasers, and advanced manufacturin"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.lumentum.com/en/company",
+      "url": "https://finance.yahoo.com/news/lumentum-rises-99-month-shares-174900022.html",
       "query": "Lumentum Holdings Inc. suppliers manufacturers",
-      "snippet": "Lumentum is illuminating the networks of tomorrow with advanced photonic technologies that enable AI, data centers, telecom, industrial, and sensing ."
+      "snippet": "Supply Lags Demand: Will LITE Pick Up the Pace? Supply is structurally tight in indium phosphide electro-absorption modulated lasers, with Lumentum un"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/LITE-Customers",
+      "query": "Lumentum Holdings Inc. major customers clients",
+      "snippet": "Feb 14, 2026 · Lumentum Holdings Inc customers and markets, results by customer and performance relative to LITE, by company and industry - CSIMarket"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://canvasbusinessmodel.com/blogs/target-market/lumentum-target-market",
+      "query": "Lumentum Holdings Inc. major customers clients",
+      "snippet": "Jul 12, 2025 · Lumentum's primary customers are in the Cloud & Networking and Industrial Tech sectors. The Cloud & Networking segment includes telecom"
     }
   ]
 }

@@ -7,15 +7,15 @@
     "TSM",
     "005930.KS",
     "GlobalFoundries",
-    "MU",
-    "SK Hynix"
+    "ASML",
+    "AMAT"
   ],
   "downstream": [
-    "MSFT",
-    "GOOGL",
-    "AMZN",
+    "DELL",
+    "HPQ",
+    "Lenovo",
     "AAPL",
-    "DELL"
+    "SONY"
   ],
   "competitors": [
     "INTC",
@@ -29,9 +29,9 @@
     "EPYC CPUs",
     "Radeon GPUs",
     "Xilinx FPGAs",
-    "AMD SoCs"
+    "APUs"
   ],
-  "extracted_at": "2026-02-23 17:10:32",
+  "extracted_at": "2026-02-24 16:56:07",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/AMD-Suppliers",
+      "url": "https://en.wikipedia.org/wiki/AMD",
       "query": "Advanced Micro Devices, Inc. suppliers manufacturers",
-      "snippet": "Feb 9, 2026 · Advanced Micro Devices Inc's Sup pliers recorded an increase in sales by 3.11 % year on year in Q4 2025, from the previous quarter, sale"
+      "snippet": "Advanced Micro Devices , Inc . (AMD) is an American multinational semiconductor company headquartered in Santa Clara, California, with significant ope"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://thepartsdirect.com/advancedmicrodevicesamd/distributors-and-vendors",
+      "url": "https://csimarket.com/stocks/AMD-Suppliers",
       "query": "Advanced Micro Devices, Inc. suppliers manufacturers",
-      "snippet": "144 Distributors & Vendors, 1 Locations associated to Advanced Micro Devices (AMD)"
+      "snippet": "Feb 9, 2026 · Advanced Micro Devices Inc supply chain, list and performance of Advanced Micro Devices Incs ' suppliers - CSIMarket"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/AMD",
+      "query": "Advanced Micro Devices, Inc. major customers clients",
+      "snippet": "AMD serves a wide range of business and consumer markets, including personal computers (PCs), gaming, data centers, and embedded systems. Advanced Mic"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://matrixbcg.com/blogs/target-market/amd",
       "query": "Advanced Micro Devices, Inc. major customers clients",
       "snippet": "Sep 8, 2025 · AMD's customer base is diverse, spanning individual consumers, businesses, and data centers. Key segments include PC gamers and creators"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.trefis.com/data/companies/AMD?fromforbesandarticle=trefis200213",
-      "query": "Advanced Micro Devices, Inc. major customers clients",
-      "snippet": "Major Customers of Advanced Micro Devices (AMD):. Microsoft Corporation (Symbol: MSFT). Provides custom Accelerated Processing Units (APUs) for Xbox g"
     }
   ]
 }

@@ -4,18 +4,18 @@
   "sector": "Financial Services",
   "industry": "Banks - Diversified",
   "upstream": [
-    "ORCL",
-    "MSFT",
-    "Data providers (e.g., Bloomberg, Thomson Reuters)",
-    "Payment processors (e.g., Visa, Mastercard)",
-    "Cybersecurity firms"
+    "Technology vendors",
+    "Office equipment suppliers",
+    "IT services providers",
+    "Security services",
+    "Legal services"
   ],
   "downstream": [
-    "Corporate and institutional clients",
     "Retail banking customers",
-    "High‑net‑worth individuals",
-    "Government and public sector entities",
-    "Small and medium‑enterprise clients"
+    "Corporate clients",
+    "Investment banking clients",
+    "Asset management clients",
+    "Private banking clients"
   ],
   "competitors": [
     "Bank of America",
@@ -25,13 +25,13 @@
     "Morgan Stanley"
   ],
   "key_products": [
-    "Retail banking services",
-    "Commercial banking and lending",
-    "Investment banking and advisory",
-    "Asset and wealth management",
-    "Credit card and payment services"
+    "Retail banking",
+    "Commercial banking",
+    "Investment banking",
+    "Asset management",
+    "Wealth management"
   ],
-  "extracted_at": "2026-02-23 17:47:40",
+  "extracted_at": "2026-02-24 16:59:06",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/JPMorgan_Chase",
+      "url": "https://www.jpmorganchase.com/about/suppliers",
       "query": "JPMorgan Chase & Co. suppliers manufacturers",
-      "snippet": "JPMorgan Chase is the result of the combination of several large U.S. banking companies that merged since 1996, combining Chase Manhattan Bank, J . P "
+      "snippet": "Building strong partnerships is the cornerstone of our success. At JPMorganChase , we place particular value in our supplier partnerships. Thanks to t"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ru.wikipedia.org/wiki/JPMorgan_Chase",
+      "url": "https://suppliercentral.jpmchase.com/",
       "query": "JPMorgan Chase & Co. suppliers manufacturers",
-      "snippet": "JPMorgan Chase & Co , «Дж. П. Морган Чейз и Ко.» — американский транснациональный финансовый конгломерат, один из крупнейших банков мира, с центром уп"
+      "snippet": "Access JPMorgan Chase's Preferred Supplier portal for streamlined payment solutions, reduced administrative costs, and efficient transactions."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.jpmorganchase.com/about",
+      "url": "https://www.jpmorganchase.com/",
       "query": "JPMorgan Chase & Co. major customers clients",
-      "snippet": "Our J.P. Morgan and Chase brands work to provide the highest quality service to millions of consumers, small businesses and corporate, institutional a"
+      "snippet": "Committed to service, innovation and growth JPMorganChase serves millions of customers , clients and communities in over 100 global markets. For 225 y"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://media.chase.com/news/chase-celebrates-major-milestone-in-its-multi-billion-dollar-retail-expansion",
+      "url": "https://canvasbusinessmodel.com/blogs/target-market/jp-morgan-chase-target-market",
       "query": "JPMorgan Chase & Co. major customers clients",
-      "snippet": "Jul 31, 2025 · With a workforce of around 50,000 customer-facing staff, Chase branches offer significant employment opportunities, bolstering the loca"
+      "snippet": "JPMorgan Chase & Co. serves a broad spectrum of clients through its diverse business segments. These include individual consumers, small businesses, l"
     }
   ]
 }

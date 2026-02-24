@@ -4,34 +4,34 @@
   "sector": "Consumer Cyclical",
   "industry": "Internet Retail",
   "upstream": [
-    "Book publishers",
-    "Electronics manufacturers",
-    "Third‑party sellers",
-    "AWS hardware suppliers",
-    "Logistics partners"
+    "AMZN",
+    "AAPL",
+    "Third‑party apparel manufacturers",
+    "Book publishers and distributors",
+    "Digital content providers (music, movies, e‑books)"
   ],
   "downstream": [
-    "Retail consumers",
-    "Enterprise AWS customers",
-    "Prime members",
-    "Advertisers",
-    "Content creators"
+    "AMZN",
+    "AMZN",
+    "AMZN",
+    "AMZN",
+    "General retail consumers"
   ],
   "competitors": [
-    "eBay",
     "Walmart",
     "Alibaba",
-    "MSFT",
-    "GOOGL"
+    "eBay",
+    "Target",
+    "Shopify"
   ],
   "key_products": [
-    "Amazon.com marketplace",
-    "Amazon Web Services",
-    "Amazon Prime",
-    "Amazon Echo (Alexa)",
-    "Amazon Kindle"
+    "Amazon.com e‑commerce platform",
+    "Amazon Web Services (cloud computing)",
+    "Amazon Prime Video (digital streaming)",
+    "Amazon Alexa (AI assistant)",
+    "Amazon Kindle (e‑reader)"
   ],
-  "extracted_at": "2026-02-23 16:57:12",
+  "extracted_at": "2026-02-24 16:57:35",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ir.aboutamazon.com/",
+      "url": "https://awesomers.com/amazon-supply-chain",
       "query": "Amazon.com, Inc. suppliers manufacturers",
-      "snippet": "Amazon . com , Inc . (NASDAQ: AMZN) today announced financial results for its second quarter ended June 30, 2025. Net sales increased 13% to $167.7 bi"
+      "snippet": "Amazon has released a list of its top 1000 suppliers and factories from around the world. This information became public as a part of an SEC disclosur"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.alibaba.com/",
+      "url": "https://d39w7f4ix9f5s9.cloudfront.net/cb/19/77dfc5b441c892cd6e2be166ba70/final-amazon-supplier-list-2019-11-14-updated-1005am.pdf",
       "query": "Amazon.com, Inc. suppliers manufacturers",
-      "snippet": "Find quality Manufacturers , Suppliers , Exporters, Importers, Buyers, Wholesalers, Products and Trade Leads from our award-winning International Trad"
+      "snippet": "The facilities listed produce Amazon-branded apparel, consumer electronics, and home goods products. This list was last updated November 2019 and is s"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://capitaloneshopping.com/research/amazon-statistics/",
       "query": "Amazon.com, Inc. major customers clients",
-      "snippet": "Jan 28, 2026 · Statistics & analysis on Amazon including total sales (per year & minute), number of products (SKUs), customers , sellers & more."
+      "snippet": "Statistics & analysis on Amazon including total sales (per year & minute), number of products (SKUs), customers , sellers & more."
     },
     {
       "source": "DuckDuckGo",
       "url": "https://csimarket.com/stocks/AMZN-Customers",
       "query": "Amazon.com, Inc. major customers clients",
-      "snippet": "Amazon Com Inc 's Comment on Sales, Marketing and Customers We serve consumers through our retail websites and focus on selection, price, and convenie"
+      "snippet": "Amazon Com Inc's Comment on Sales, Marketing and Customers We serve consumers through our retail websites and focus on selection, price, and convenien"
     }
   ]
 }

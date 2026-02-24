@@ -6,32 +6,32 @@
   "upstream": [
     "TSM",
     "005930.KS",
-    "SK Hynix",
+    "Foxconn (Hon Hai)",
     "AVGO",
-    "Foxconn"
+    "QCOM"
   ],
   "downstream": [
-    "iPhone",
-    "iPad",
-    "MacBook",
-    "AAPL",
-    "AAPL"
+    "Best Buy",
+    "AMZN",
+    "Walmart",
+    "Target",
+    "Costco"
   ],
   "competitors": [
     "005930.KS",
     "GOOGL",
     "MSFT",
-    "Huawei",
-    "Xiaomi"
+    "AMZN",
+    "Huawei"
   ],
   "key_products": [
     "iPhone",
     "iPad",
-    "MacBook",
+    "Mac",
     "Apple Watch",
-    "AirPods"
+    "Apple TV"
   ],
-  "extracted_at": "2026-02-23 17:02:27",
+  "extracted_at": "2026-02-24 16:57:19",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/Apple_supply_chain",
+      "query": "Apple Inc. suppliers manufacturers",
+      "snippet": "Apple supply chain As of 2021, Apple uses components from 43 countries. [1] The majority of assembling is done by Taiwanese original design manufactur"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.investopedia.com/articles/investing/090315/10-major-companies-tied-apple-supply-chain.asp",
+      "query": "Apple Inc. suppliers manufacturers",
+      "snippet": "Nov 13, 2025 · Discover Apple ' s top suppliers and how they enhance product performance and innovation. Learn about Apple 's efficient supply chain a"
+    },
+    {
+      "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Apple_Inc.",
-      "query": "Apple Inc. suppliers manufacturers",
-      "snippet": "Apple Inc . is an American multinational technology company headquartered in Cupertino, California, in Silicon Valley, best known for its consumer ele"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://ru.wikipedia.org/wiki/Apple",
-      "query": "Apple Inc. suppliers manufacturers",
-      "snippet": "Apple Inc — американская корпорация, разработчик персональных и планшетных компьютеров, аудиоплееров, смартфонов, программного обеспечения и цифрового"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/competitionNO4.php?markets&code=AAPL",
       "query": "Apple Inc. major customers clients",
-      "snippet": "Customers Customers Suppliers Computer Hardware Technology Basic Data Quarterly Results Stock Performance Growth Rates Per Employee Efficiency Managem"
+      "snippet": "Apple's product lineup includes portable and home hardware like the iPhone, iPad, Apple Watch, Mac, Apple Vision Pro, AirPods, and Apple TV; several i"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://businessmodelanalyst.com/apple-target-market/",
+      "url": "https://www.statista.com/topics/4753/apple-products-in-the-us/?srsltid=AfmBOorKOYbDUaOO9coQv74HxvD6fsmSOlr0hvOwhjbZj_GL2bRZHhbt",
       "query": "Apple Inc. major customers clients",
-      "snippet": "Nov 8, 2024 · Understanding a company’s target market is essential to its success. It helps shape product offerings, marketing strategies, and custome"
+      "snippet": "Feb 12, 2026 · The company's domestic presence remains formidable, with over 270 stores across the United States, offering customers the full range of"
     }
   ]
 }

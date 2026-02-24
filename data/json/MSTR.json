@@ -2,36 +2,36 @@
   "ticker": "MSTR",
   "company_name": "MicroStrategy Incorporated",
   "sector": "Technology",
-  "industry": "Software—Application",
+  "industry": "Software - Application",
   "upstream": [
-    "Hardware vendors",
-    "Cloud service providers",
-    "Data providers",
-    "Consulting partners",
-    "Technology partners"
+    "MSFT",
+    "AMZN",
+    "GOOGL",
+    "ORCL",
+    "IBM"
   ],
   "downstream": [
-    "Financial services firms",
-    "Retail companies",
-    "Manufacturing firms",
-    "Healthcare organizations",
-    "Government agencies"
+    "Bank of America",
+    "Wells Fargo",
+    "Citigroup",
+    "JPMorgan Chase",
+    "Goldman Sachs"
   ],
   "competitors": [
     "Tableau",
     "Qlik",
     "MSFT",
-    "Looker",
-    "Sisense"
+    "SAP BusinessObjects",
+    "IBM"
   ],
   "key_products": [
-    "MicroStrategy Analytics",
-    "MicroStrategy Cloud",
+    "MicroStrategy Desktop",
+    "MicroStrategy Web",
     "MicroStrategy Mobile",
-    "MicroStrategy Data Warehouse",
-    "MicroStrategy AI"
+    "MicroStrategy Cloud",
+    "MicroStrategy Analytics"
   ],
-  "extracted_at": "2026-02-23 18:01:20",
+  "extracted_at": "2026-02-24 17:04:23",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.strategy.com/software/blog/how-manufacturers-are-solving-supply-chain-chaos-with-smart-bi",
+      "url": "https://www.tradingview.com/symbols/NASDAQ-MSTR/ideas/page-5/",
       "query": "Strategy Inc suppliers manufacturers",
-      "snippet": "Discover how manufacturers are tackling supply chain chaos with Strategy One. Learn how AI-driven insights and real-time data can transform operations"
+      "snippet": "Check out the latest trade and investment ideas for Strategy Inc Class A from our top authors. They share opinions on price directions and technical o"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.strategy.com/software",
+      "url": "https://www.alibaba.com/",
       "query": "Strategy Inc suppliers manufacturers",
-      "snippet": "Strategy Solutions powered by Mosaic provide a universal semantic layer that unifies enterprise data, governs business metrics, and delivers trusted A"
+      "snippet": "Find quality Manufacturers , Suppliers , Exporters, Importers, Buyers, Wholesalers, Products and Trade Leads from our award-winning International Trad"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/MicroStrategy",
+      "url": "https://csimarket.com/stocks/STRF-Customers",
       "query": "Strategy Inc major customers clients",
-      "snippet": "Strategy Inc ., formerly known as MicroStrategy, is an American company that provides business intelligence (BI) and mobile software. Founded in 1989 "
+      "snippet": "Strategy Inc customers and markets, results by customer and performance relative to STRF, by company and industry - CSIMarket"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.inc.com/",
+      "url": "https://www.strategy.com/software/customer-stories",
       "query": "Strategy Inc major customers clients",
-      "snippet": "Inc . media is the entrepreneurs source for ideas, resources and advice on how to successfully start, run and grow your business. Inc . Premium. Onboa"
+      "snippet": "Dive into Strategy customer stories highlighting the impact of Analytics in Healthcare, Financial Services, Call Centers, Retail, Insurance, and Gover"
     }
   ]
 }

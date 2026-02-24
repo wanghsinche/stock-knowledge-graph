@@ -4,35 +4,34 @@
   "sector": "Financial Services",
   "industry": "Credit Services",
   "upstream": [
-    "Chip and card manufacturers (e.g., Gemalto, IDTech)",
-    "Payment network infrastructure providers (e.g., VisaNet, VisaNet Cloud)",
-    "MSFT",
-    "Security and fraud‑prevention solution providers (e.g., RSA, Symantec)",
-    "GOOGL"
+    "Card manufacturing suppliers (e.g., Gemalto, IDEMIA)",
+    "Chip and payment technology vendors",
+    "Network infrastructure providers",
+    "Software and security solution providers",
+    "Payment processing equipment manufacturers"
   ],
   "downstream": [
-    "Commercial banks and credit unions issuing Visa‑branded cards",
-    "Retail merchants and e‑commerce platforms accepting Visa payments",
-    "Financial technology (fintech) companies integrating Visa APIs",
-    "Consumers using Visa credit, debit, and prepaid cards",
-    "Government and public‑sector entities accepting Visa for payments"
+    "Commercial banks and credit unions",
+    "Retail merchants and e‑commerce platforms",
+    "Mobile wallet providers",
+    "Government agencies and public sector entities",
+    "Financial technology companies"
   ],
   "competitors": [
     "Mastercard",
     "American Express",
-    "Discover Financial Services",
-    "UnionPay",
-    "PayPal"
+    "Discover",
+    "JCB",
+    "UnionPay"
   ],
   "key_products": [
     "Visa credit cards",
     "Visa debit cards",
     "Visa prepaid cards",
-    "VisaNet payment processing network",
-    "Visa Direct real‑time payments service",
-    "Visa Token Service for tokenization"
+    "Visa payment network services",
+    "Contactless and mobile payment solutions"
   ],
-  "extracted_at": "2026-02-23 17:53:23",
+  "extracted_at": "2026-02-24 17:01:11",
   "sources": [
     {
       "source": "Wikipedia",
@@ -42,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Visa_Inc.",
+      "url": "https://ru.wikipedia.org/wiki/Visa",
       "query": "Visa Inc. suppliers manufacturers",
-      "snippet": "Visa Inc is an American multinational payment card services corporation headquartered in San Francisco, California. It facilitates electronic funds .."
+      "snippet": "Visa Inc . ([ˈviːzə] или [ˈviːsə]) — американская транснациональная компания, предоставляющая услуги проведения платёжных операций. Является основой о"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.visa.com/en-us/solutions/commercial-solutions",
+      "url": "https://csimarket.com/stocks/V-Suppliers",
       "query": "Visa Inc. suppliers manufacturers",
-      "snippet": "Visa Commercial Solutions partners with financial institutions and fintechs to support businesses of all sizes across a variety of verticals."
+      "snippet": "Visa Inc supply chain, list and performance of Visa Incs ' suppliers - CSIMarket. Visa Inc 's Suppliers Performance. V's Supply Chain. Download as CSV"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Visa_Inc.",
       "query": "Visa Inc. major customers clients",
-      "snippet": "Visa Inc . (/ ˈviːzə, ˈviːsə /) is an American multinational payment card services corporation headquartered in San Francisco, California. [2][5] It f"
+      "snippet": "Visa is the world's second-largest card payment organization (debit and credit cards combined), after being surpassed by China UnionPay in 2015, based"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/V-Customers",
+      "url": "https://www.visa.com/en-us/thought-leadership/case-studies",
       "query": "Visa Inc. major customers clients",
-      "snippet": "Visa also owns and manages additional data centers in the United States and internationally, including those we added with our acquisitions of CyberSo"
+      "snippet": "Discover how Visa helps companies and governments around the globe increase customer loyalty, boost productivity, and help their businesses thrive. Mi"
     }
   ]
 }

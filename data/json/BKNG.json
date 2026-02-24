@@ -1,37 +1,37 @@
 {
   "ticker": "BKNG",
   "company_name": "Booking Holdings Inc.",
-  "sector": "Consumer Cyclical / Travel Services",
-  "industry": "Travel & Tourism Services",
+  "sector": "Consumer Cyclical",
+  "industry": "Travel Services",
   "upstream": [
     "AMZN",
-    "Stripe (payment processing)",
-    "GOOGL",
-    "MSFT",
-    "Facebook Ads (advertising platform)"
+    "Payment processors (e.g., Stripe, PayPal)",
+    "Data providers (e.g., Sabre, Amadeus)",
+    "Technology infrastructure vendors",
+    "Advertising and marketing platforms"
   ],
   "downstream": [
-    "Hotels and resorts",
+    "Hotel chains and independent hotels",
     "Airlines",
     "Car rental agencies",
     "Travel agencies",
-    "Corporate travel departments"
+    "Individual travelers"
   ],
   "competitors": [
     "Expedia Group",
     "TripAdvisor",
     "Airbnb",
-    "Priceline.com",
-    "Kayak"
+    "Trivago",
+    "Ctrip (Trip.com)"
   ],
   "key_products": [
-    "Booking.com",
-    "Priceline.com",
-    "Kayak.com",
-    "Agoda",
-    "Rentalcars.com"
+    "Online hotel booking platform",
+    "Flight booking services",
+    "Car rental reservations",
+    "Vacation rental listings",
+    "Travel package bundles"
   ],
-  "extracted_at": "2026-02-23 18:07:06",
+  "extracted_at": "2026-02-24 17:02:02",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,25 +43,25 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Booking_Holdings",
       "query": "Booking Holdings Inc. suppliers manufacturers",
-      "snippet": "Booking Holdings Inc . is an American travel technology company based in Norwalk, Connecticut, that owns and operates several travel fare aggregators "
+      "snippet": "Booking Holdings Inc. is an American travel technology company based in Norwalk, Connecticut, that owns and operates several travel fare aggregators a"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/BKNG-Suppliers",
+      "url": "https://www.bookingholdings.com/",
       "query": "Booking Holdings Inc. suppliers manufacturers",
-      "snippet": "4 days ago · Sources: Booking Holdings Inc 's official press releases and regulatory filings; CSIMarket.com's supply-chain research; and the financial"
+      "snippet": "Booking Holdings is the world's leader in online travel. Brands include Booking.com, priceline.com, agoda.com, Kayak, Rentalcars.com & OpenTable. Miss"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Booking_Holdings",
       "query": "Booking Holdings Inc. major customers clients",
-      "snippet": "Booking Holdings Inc . is an American travel technology company based in Norwalk, Connecticut, that owns and operates several travel fare aggregators "
+      "snippet": "Booking Holdings ... Booking Holdings Inc . is an American travel technology company based in Norwalk, Connecticut, that owns and operates several tra"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/BKNG-Customers",
+      "url": "https://www.hivelr.com/2024/01/booking-holdings-bkng-porters-five-forces-industry-and-competition-analysis/",
       "query": "Booking Holdings Inc. major customers clients",
-      "snippet": "Booking Holdings Inc customers and markets, results by customer and performance relative to BKNG, by company and industry - CSIMarket"
+      "snippet": "Booking Holdings is subject to ongoing changes in the travel industry, market competition, and consumer preferences. Companies in this sector must ada"
     }
   ]
 }

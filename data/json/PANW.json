@@ -4,34 +4,34 @@
   "sector": "Technology / Software - Infrastructure",
   "industry": "Cybersecurity",
   "upstream": [
-    "Distributors",
-    "Manufacturers",
-    "Hardware vendors",
-    "Software vendors",
-    "Cloud providers"
+    "ASIC chip manufacturers",
+    "Network interface card suppliers",
+    "Software component vendors",
+    "Hardware component suppliers",
+    "Cloud infrastructure providers"
   ],
   "downstream": [
     "ADT",
     "Westfield",
+    "AMZN",
     "Fortune 100 companies",
-    "70,000 organizations",
-    "150 countries"
+    "70,000+ organizations worldwide"
   ],
   "competitors": [
-    "CSCO",
     "Fortinet",
-    "Check Point Software Technologies",
+    "Check Point",
+    "CSCO",
     "JNPR",
-    "CrowdStrike"
+    "Sophos"
   ],
   "key_products": [
-    "Advanced firewalls",
-    "Cloud‑based security platform",
-    "Unit 42 threat intelligence",
+    "Next‑Generation Firewall",
+    "Cloud Security Platform",
+    "Threat Intelligence (Unit 42)",
     "Secure Access Service Edge (SASE)",
     "Zero Trust Network Access (ZTNA)"
   ],
-  "extracted_at": "2026-02-23 17:45:40",
+  "extracted_at": "2026-02-24 17:05:43",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://paloaltonetworks.my.site.com/NextWavePartnerProgram/s/partnerlocator",
+      "url": "https://www.paloaltonetworks.com/resources/by-industry-manufacturing",
       "query": "Palo Alto Networks, Inc. suppliers manufacturers",
-      "snippet": "Distributors Extend Palo Alto Networks partners reach to address customer demand for Palo Alto Networks security solutions, services and support on a "
+      "snippet": "Explore research reports, download data sheets and read solutions to secure manufacturing for industry Missing: Inc. suppliers"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.paloaltonetworks.com/industry/manufacturing",
+      "url": "https://www.westconcomstor.com/ssa/en/vendors/palo-alto-networks.html",
       "query": "Palo Alto Networks, Inc. suppliers manufacturers",
-      "snippet": "As Industry 4.0 unfolds and the internet of things (IoT) expands, manufacturers are deploying next-gen technologies at scale. Despite the do-or-die pa"
+      "snippet": "Westcon is Palo Alto Networks' consistent, multi-award-winning distributor. As the leading global distributor for Palo Alto Networks, we bring unmatch"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.paloaltonetworks.com/customers",
       "query": "Palo Alto Networks, Inc. major customers clients",
-      "snippet": "Discover how leading brands like ADT and Westfield secure their operations with Palo Alto Networks . Explore customer success stories in cybersecurity"
+      "snippet": "Discover how leading brands like ADT and Westfield secure their operations with Palo Alto Networks. Explore customer success stories in cybersecurity "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.appsruntheworld.com/customers-database/products/view/palo-alto-networks-pa-series",
+      "url": "https://www.spanglobalservices.com/blog/top-companies-using-palo-alto-networks/",
       "query": "Palo Alto Networks, Inc. major customers clients",
-      "snippet": "The Palo Alto Networks PA-Series customer wins are being incorporated in our Enterprise Applications Buyer Insight and Technographics Customer Databas"
+      "snippet": "Dec 9, 2025 · Top 10 Companies Using Palo Alto Networks · 1. Amazon Web Services (AWS) · 2. JPMorgan Chase · 3. Coca-Cola · 4. Siemens · 5. University"
     }
   ]
 }

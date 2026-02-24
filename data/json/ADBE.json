@@ -4,11 +4,11 @@
   "sector": "Technology",
   "industry": "Software - Application",
   "upstream": [
+    "INTC",
+    "NVDA",
     "MSFT",
     "AMZN",
-    "GOOGL",
-    "IBM",
-    "ORCL"
+    "GOOGL"
   ],
   "downstream": [
     "Walmart",
@@ -18,20 +18,20 @@
     "GOOGL"
   ],
   "competitors": [
-    "MSFT",
-    "Corel",
     "Autodesk",
-    "Avid",
-    "Blackmagic Design"
+    "Corel",
+    "Quark",
+    "Serif",
+    "MSFT"
   ],
   "key_products": [
     "Adobe Photoshop",
     "Adobe Illustrator",
+    "Adobe InDesign",
     "Adobe Acrobat",
-    "Adobe Premiere Pro",
-    "Adobe After Effects"
+    "Adobe Premiere Pro"
   ],
-  "extracted_at": "2026-02-23 18:07:53",
+  "extracted_at": "2026-02-24 17:06:53",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,15 +41,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.adobe.com/procurement.html",
+      "url": "https://en.wikipedia.org/wiki/Adobe_Inc.",
       "query": "Adobe Inc. suppliers manufacturers",
-      "snippet": "Adobe aims at building long-term business partnerships with a select group of suppliers that share our commitment to delivering the highest quality pr"
+      "snippet": "Adobe Systems Incorporated (1982–2018). Company type. Public. Adobe added kanji printer products in 1988.[16] Warnock and Geschke were also able to bo"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/ADBE-Suppliers",
+      "url": "https://www.adobe.com/",
       "query": "Adobe Inc. suppliers manufacturers",
-      "snippet": "Jan 22, 2026 · Adobe Inc 's Comment on Supply Chain As the software industry is characterized by rapid technological change, a continuous high level o"
+      "snippet": "Adobe is changing the world through digital experiences. We help our customers create, deliver and optimize content and applications."
     },
     {
       "source": "DuckDuckGo",

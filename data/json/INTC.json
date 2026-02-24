@@ -4,16 +4,16 @@
   "sector": "Technology",
   "industry": "Semiconductors",
   "upstream": [
-    "TSM",
-    "005930.KS",
-    "GlobalFoundries",
-    "UMC",
-    "Tower Semiconductor"
+    "ASML",
+    "AMAT",
+    "LRCX",
+    "Tokyo Electron",
+    "GlobalFoundries"
   ],
   "downstream": [
     "DELL",
     "HPQ",
-    "Lenovo Group",
+    "Lenovo",
     "AAPL",
     "MSFT"
   ],
@@ -22,16 +22,16 @@
     "NVDA",
     "QCOM",
     "AVGO",
-    "MU"
+    "TSM"
   ],
   "key_products": [
     "Intel Core CPUs",
     "Intel Xeon CPUs",
-    "Intel Atom CPUs",
+    "Intel Arc GPUs",
     "Intel FPGAs",
-    "Intel chipsets"
+    "Intel AI accelerators"
   ],
-  "extracted_at": "2026-02-23 17:56:19",
+  "extracted_at": "2026-02-24 16:58:28",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,25 +43,25 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/List_of_Intel_manufacturing_sites",
       "query": "Intel Corporation suppliers manufacturers",
-      "snippet": "List of Intel manufacturing sites Intel is an American multinational corporation and technology company headquartered in Santa Clara, California. Proc"
+      "snippet": "Intel is an American multinational corporation and technology company headquartered in Santa Clara, California. Processors are manufactured in semicon"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/INTC-Suppliers",
+      "url": "https://www.intel.com/content/www/us/en/partner/showcase/partner-directory/distributor.html",
       "query": "Intel Corporation suppliers manufacturers",
-      "snippet": "INTC's vs. Suppliers , Data (Revenue and Income for Trailing 12 Months, in Millions of $, except Employees) ... Sources: Intel Corporation's official "
+      "snippet": "Sell Intel® Products directly sourced from Intel as well as devices manufactured by OEMs"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Intel",
       "query": "Intel Corporation major customers clients",
-      "snippet": "Client Computing Group – 51.8% of 2020 revenues – produces PC processors and related components. · Data Center Group – 33.7% of 2020 revenues – produc"
+      "snippet": "Intel Corporation is an American multinational technology company headquartered in Santa Clara, California. ... largest customer, Apple. As of July 20"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.intel.com/content/www/us/en/customer-spotlight/overview.html",
+      "url": "https://newsroom.intel.com/intel-foundry/intel-foundry-gathers-customers-partners-outlines-priorities",
       "query": "Intel Corporation major customers clients",
-      "snippet": "Explore the Intel Customer Spotlight for the latest customer stories, case studies, and testimonials highlighting data-centric innovations. Missing: m"
+      "snippet": "Apr 29, 2025 · At Direct Connect, Intel Foundry shares process technology roadmap, advanced packaging momentum and ecosystem partnerships. Missing: ma"
     }
   ]
 }

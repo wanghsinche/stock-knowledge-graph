@@ -4,34 +4,34 @@
   "sector": "Financial Services",
   "industry": "Credit Services",
   "upstream": [
-    "Chip manufacturers (e.g., NXP, STMicroelectronics)",
-    "Card production suppliers (e.g., Gemalto, IDEMIA)",
+    "Chip and card manufacturing suppliers",
     "Payment network infrastructure providers",
-    "Software vendors for transaction processing",
-    "Security and encryption technology suppliers"
+    "Data center and cloud service vendors",
+    "Software and cybersecurity vendors",
+    "CAT"
   ],
   "downstream": [
     "Commercial banks and credit unions",
-    "Retail merchants (e.g., Walmart, Target)",
-    "AMZN",
-    "Financial technology companies",
-    "Large multinational corporations using payment services"
+    "Merchant acquirers and point‑of‑sale providers",
+    "Card issuing banks",
+    "Retail and e‑commerce merchants",
+    "Consumers using Mastercard‑branded cards"
   ],
   "competitors": [
     "Visa Inc.",
-    "American Express",
+    "American Express Co.",
     "Discover Financial Services",
-    "JCB Co., Ltd.",
+    "JCB Co.",
     "UnionPay"
   ],
   "key_products": [
     "Payment processing network",
-    "Card issuance and management services",
-    "Fraud detection and prevention solutions",
-    "Data analytics and insights platform",
-    "Mobile and contactless payment solutions (Masterpass, tokenization)"
+    "Transaction processing services",
+    "Card issuing and management solutions",
+    "Fraud detection and prevention tools",
+    "Data analytics and risk management services"
   ],
-  "extracted_at": "2026-02-23 18:10:52",
+  "extracted_at": "2026-02-24 17:02:51",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
+      "url": "https://www.mastercard.com/procurement/us/en/home.html",
+      "query": "Mastercard Incorporated suppliers manufacturers",
+      "snippet": "Mastercard Sourcing & Supplier Management provides a competitive advantage to Mastercard by creating and maximizing shareholder value through leading-"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/MA-Suppliers",
+      "query": "Mastercard Incorporated suppliers manufacturers",
+      "snippet": "Sources: Mastercard Incorporated's official press releases and regulatory filings; CSIMarket.com's supply-chain research; and the financial filings an"
+    },
+    {
+      "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Mastercard",
-      "query": "Mastercard Incorporated suppliers manufacturers",
-      "snippet": "Mastercard Inc . (stylized as MasterCard from 1979 to 2016 and as mastercard from 2016 to 2019) is an American multinational payment card services cor"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://ru.wikipedia.org/wiki/Mastercard",
-      "query": "Mastercard Incorporated suppliers manufacturers",
-      "snippet": "Mastercard Inc . (ранее MasterCard Worldwide или MasterCard Incorporated ) — международная платёжная система, транснациональная финансовая корпорация,"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/MA-Customers",
       "query": "Mastercard Incorporated major customers clients",
-      "snippet": "Mastercard Incorporated customers and markets, results by customer and performance relative to MA, by company and industry - CSIMarket"
+      "snippet": "Throughout the world, its principal business is to process payments between the banks of merchants and the card-issuing banks or credit unions of the "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.mastercardservices.com/en/resources/case-studies",
+      "url": "https://www.msn.com/en-us/money/economy/mastercard-incorporated-ma-revenue-beats-forecasts-as-customers-continue-to-spend/ar-AA1Wdp61",
       "query": "Mastercard Incorporated major customers clients",
-      "snippet": "Learn how leading brands across the world use Mastercard 's services to make smarter decisions & drive outcomes."
+      "snippet": "2 days ago · Mastercard Incorporated (NYSE:MA) is a technology business that provides payment solutions for the development and operation of credit, d"
     }
   ]
 }

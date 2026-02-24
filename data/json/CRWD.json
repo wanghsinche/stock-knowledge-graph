@@ -1,28 +1,28 @@
 {
   "ticker": "CRWD",
   "company_name": "CrowdStrike Holdings, Inc.",
-  "sector": "Technology / Software - Infrastructure",
-  "industry": "Cybersecurity",
+  "sector": "Technology",
+  "industry": "Software - Infrastructure",
   "upstream": [
-    "MSFT",
     "AMZN",
+    "MSFT",
     "GOOGL",
-    "CSCO",
-    "DELL"
+    "INTC",
+    "AMD"
   ],
   "downstream": [
-    "Walmart",
     "JPMorgan Chase",
     "Bank of America",
-    "AT&T",
-    "MSFT"
+    "Walmart",
+    "UnitedHealth Group",
+    "U.S. Department of Defense"
   ],
   "competitors": [
     "Palo Alto Networks",
-    "SentinelOne",
+    "Fortinet",
+    "AVGO",
     "McAfee",
-    "Symantec",
-    "Fortinet"
+    "SentinelOne"
   ],
   "key_products": [
     "CrowdStrike Falcon Platform",
@@ -31,7 +31,7 @@
     "Falcon OverWatch",
     "Falcon X"
   ],
-  "extracted_at": "2026-02-23 17:08:23",
+  "extracted_at": "2026-02-24 16:59:50",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/CrowdStrike",
+      "url": "https://ru.wikipedia.org/wiki/CrowdStrike",
       "query": "CrowdStrike Holdings, Inc. suppliers manufacturers",
-      "snippet": "CrowdStrike Holdings, Inc. is an American cybersecurity technology company based in Austin, Texas. It provides endpoint security, threat intelligence,"
+      "snippet": "CrowdStrike Holdings , Inc . Изображение логотипа. Тип. CrowdStrike Holdings , Inc . — компания, работающая в сфере информационной безопасности. Основ"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.crowdstrike.com/en-us/about-us/suppliers/doing-business-with-crowdstrike/",
+      "url": "https://finance.yahoo.com/news/look-crowdstrike-holdings-valuation-claude-221333377.html",
       "query": "CrowdStrike Holdings, Inc. suppliers manufacturers",
-      "snippet": "We're committed to developing successful business partnerships as we recognize the important role our suppliers play. Learn more and contact us."
+      "snippet": "The launch of Anthropic’s Claude Code Security, an AI tool that autonomously scans and patches software vulnerabilities, affected sentiment around Cro"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://ir.crowdstrike.com/news-releases/news-release-details/crowdstrike-honors-top-customers-and-partners-driving-innovation",
+      "query": "CrowdStrike Holdings, Inc. major customers clients",
+      "snippet": "The awards recognize customers and partners who are advancing cybersecurity innovation and delivering exceptional protection outcomes on the AI-native"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://theirstack.com/en/technology/crowdstrike",
       "query": "CrowdStrike Holdings, Inc. major customers clients",
       "snippet": "How many customers does CrowdStrike have? Who uses CrowdStrike ? What companies use CrowdStrike ? In which countries CrowdStrike is used the most? How"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.appsruntheworld.com/customers-database/vendors/view/crowdstrike",
-      "query": "CrowdStrike Holdings, Inc. major customers clients",
-      "snippet": "List of companies using or evaluating CrowdStrike applications, with details on their revenues, employees, industries, and locations."
     }
   ]
 }

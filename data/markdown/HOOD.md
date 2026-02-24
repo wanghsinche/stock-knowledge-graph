@@ -1,40 +1,40 @@
 ---
 ticker: HOOD
 company: Robinhood Markets, Inc.
-sector: Financial Services
-industry: Capital Markets
-extracted_at: 2026-02-23 17:57:42
-last_updated: 2026-02-23
+sector: Financial Services / Capital Markets
+industry: Online Brokerage / Investment Services
+extracted_at: 2026-02-24 17:05:18
+last_updated: 2026-02-24
 ---
 
 # HOOD - Robinhood Markets, Inc.
 
 ## 基本信息
 
-- **所属行业**: Financial Services / Capital Markets
-- **提取时间**: 2026-02-23 17:57:42
+- **所属行业**: Financial Services / Capital Markets / Online Brokerage / Investment Services
+- **提取时间**: 2026-02-24 17:05:18
 
 ## 产业链关系
 
 ### 上游供应商
 - [[AMZN]]
 - [[MSFT]]
-- [[Bloomberg]]
+- [[Bloomberg L.P.]]
+- [[Refinitiv]]
 - [[Stripe]]
-- [[Plaid]]
 
 ### 下游客户
 - [[Retail investors]]
-- [[Institutional clients]]
 - [[High‑frequency traders]]
+- [[Institutional investors]]
 - [[Crypto traders]]
-- [[Financial advisors]]
+- [[Day traders]]
 
 ### 竞争对手
 - [[Charles Schwab]]
-- [[TD Ameritrade]]
+- [[Fidelity Investments]]
 - [[E*TRADE]]
-- [[Fidelity]]
+- [[TD Ameritrade]]
 - [[Webull]]
 
 ### 核心产品
@@ -42,16 +42,16 @@ last_updated: 2026-02-23
 - [[Options trading]]
 - [[Cryptocurrency trading]]
 - [[Margin trading (Robinhood Gold)]]
-- [[Cash management and interest accounts]]
+- [[Cash management services]]
 
 ## 数据来源
 
 - 
 - [Robinhood Markets, Inc. suppliers manufacturers](https://csimarket.com/stocks/HOOD-Suppliers)
-- [Robinhood Markets, Inc. suppliers manufacturers](https://www.marketscreener.com/quote/stock/ROBINHOOD-MARKETS-INC-125228571/company-group/)
+- [Robinhood Markets, Inc. suppliers manufacturers](https://robinhood.com/us/en/about-us/)
 - [Robinhood Markets, Inc. major customers clients](https://investingintheweb.com/brokers/robinhood-statistics/)
-- [Robinhood Markets, Inc. major customers clients](https://investors.robinhood.com/news-releases/news-release-details/robinhood-markets-inc-reports-august-2025-operating-data)
+- [Robinhood Markets, Inc. major customers clients](https://investors.robinhood.com/news-releases/news-release-details/robinhood-markets-inc-reports-january-2025-operating-data)
 
 ## 元数据
 
-- **更新日期**: 2026-02-23
+- **更新日期**: 2026-02-24

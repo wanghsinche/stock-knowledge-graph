@@ -4,34 +4,34 @@
   "sector": "Communication Services / Entertainment",
   "industry": "Streaming Media",
   "upstream": [
-    "Content producers (e.g., Warner Bros., Disney, NBCUniversal)",
-    "Production studios (e.g., Universal Studios, Paramount Pictures)",
-    "SONY",
+    "Visual Data (UK)",
     "AMZN",
-    "Distribution partners (e.g., cable operators, ISPs)"
+    "GOOGL",
+    "MSFT",
+    "NFLX"
   ],
   "downstream": [
-    "Global individual subscribers",
-    "Corporate clients (e.g., airlines, hotels)",
-    "005930.KS",
-    "AAPL",
-    "Gaming consoles (e.g., PlayStation, Xbox)"
+    "NFLX",
+    "Mobile app users",
+    "Smart TV app users",
+    "Streaming device users",
+    "NFLX"
   ],
   "competitors": [
-    "Disney+",
     "AMZN",
+    "Disney+",
     "Hulu",
     "HBO Max",
     "AAPL"
   ],
   "key_products": [
-    "Netflix streaming service (OTT)",
-    "Original series and films",
-    "Licensed movies and TV shows",
+    "Streaming video service",
+    "Netflix Originals",
+    "Licensed third‑party content",
     "Mobile and web apps",
     "Smart TV and console apps"
   ],
-  "extracted_at": "2026-02-23 17:38:55",
+  "extracted_at": "2026-02-24 17:04:31",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/NFLX-Suppliers",
+      "url": "https://npfp.netflixstudios.com/region/global/",
       "query": "Netflix, Inc. suppliers manufacturers",
-      "snippet": "Netflix Inc supply chain, list and performance of Netflix Incs ' suppliers - CSIMarket."
+      "snippet": "Visual Data (UK) became a Netflix Preferred Vendor in 2013 and its technical, professional and service standards are among the highest in the industry"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.stock-analysis-on.net/NASDAQ/Company/Netflix-Inc",
+      "url": "https://csimarket.com/stocks/NFLX-Suppliers",
       "query": "Netflix, Inc. suppliers manufacturers",
-      "snippet": "Netflix financial ratios grouped by activity, liquidity, solvency, and profitability.Examines Netflix Inc . capital structure in terms of the mix of i"
+      "snippet": "Jan 25, 2026 · Netflix Inc supply chain, list and performance of Netflix Incs ' suppliers - CSIMarket"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.businessofapps.com/data/netflix-statistics/",
+      "query": "Netflix, Inc. major customers clients",
+      "snippet": "Jan 7, 2026 · Netflix generated $39 billion revenue in 2024, an increase of 15.7% on 2023. It reported its first quarterly decline in Q4 2022."
     },
     {
       "source": "DuckDuckGo",
       "url": "https://ir.netflix.net/ir-overview/profile/default.aspx",
       "query": "Netflix, Inc. major customers clients",
-      "snippet": "Jan 20, 2026 · Netflix is one of the world’s leading entertainment services offering TV series, films, games and live programming across a wide variet"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/markets_glance.php?code=NFLX",
-      "query": "Netflix, Inc. major customers clients",
-      "snippet": "Dec 10, 2025 · Netflix Inc customers and markets, results by customer and performance relative to NFLX, by company and industry - CSIMarket"
+      "snippet": "Netflix is one of the world's leading entertainment services offering TV series, films, games and live programming across a wide variety of genres and"
     }
   ]
 }

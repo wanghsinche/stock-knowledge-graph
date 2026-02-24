@@ -5,33 +5,33 @@
   "industry": "Semiconductors",
   "upstream": [
     "TSM",
-    "005930.KS",
-    "GlobalFoundries",
-    "UMC",
-    "SMIC"
+    "MU",
+    "AMAT",
+    "Raw material suppliers (e.g., silicon, copper)",
+    "Design IP providers (e.g., ARM, Cadence)"
   ],
   "downstream": [
     "CSCO",
-    "DELL",
-    "HPQ",
-    "IBM",
-    "NetApp"
+    "Networking equipment vendors (e.g., Juniper, Arista)",
+    "AAPL",
+    "Broadband equipment vendors (e.g., Nokia, ARRIS)",
+    "Industrial automation companies (e.g., Siemens, Schneider Electric)"
   ],
   "competitors": [
     "QCOM",
     "INTC",
     "NVDA",
     "MRVL",
-    "JNPR"
+    "TXN"
   ],
   "key_products": [
-    "Broadcom Ethernet Switch ASICs",
-    "Broadcom Wi‑Fi chips",
-    "Broadcom LTE/5G modems",
-    "Broadcom Fibre Channel storage controllers",
-    "Broadcom Enterprise Software solutions"
+    "Broadcom BCM series chips (Wi‑Fi, Ethernet, Bluetooth)",
+    "Broadcom storage controllers (e.g., SATA, NVMe)",
+    "Broadcom networking ASICs (e.g., Ethernet, 10GbE)",
+    "Broadcom infrastructure software solutions",
+    "Broadcom wireless modules for mobile devices"
   ],
-  "extracted_at": "2026-02-23 17:30:10",
+  "extracted_at": "2026-02-24 16:57:58",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,13 +43,13 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Broadcom",
       "query": "Broadcom Inc. suppliers manufacturers",
-      "snippet": "Broadcom Inc. is an American multinational designer, developer, manufacturer , and global supplier of a wide range of semiconductor and infrastructure"
+      "snippet": "Broadcom Inc. is an American multinational designer, developer, manufacturer, and global supplier of a wide range of semiconductor and infrastructure "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.broadcom.com/how-to-buy/partner-distributor-lookup",
+      "url": "https://www.broadcom.com/products",
       "query": "Broadcom Inc. suppliers manufacturers",
-      "snippet": "Find a local reseller or global distributor of every Broadcom software solution for your business or enterprise, spanning the desktop to the Mainframe"
+      "snippet": "Broadcom's diverse product portfolio includes leading semiconductor and infrastructure software solutions."
     },
     {
       "source": "DuckDuckGo",

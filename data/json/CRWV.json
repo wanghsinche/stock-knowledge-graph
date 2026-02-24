@@ -1,37 +1,37 @@
 {
   "ticker": "CRWV",
   "company_name": "CoreWeave, Inc.",
-  "sector": "Technology",
-  "industry": "Software - Infrastructure",
+  "sector": "Technology / Software - Infrastructure",
+  "industry": "AI Cloud Computing",
   "upstream": [
     "NVDA",
     "AMD",
     "INTC",
-    "AMZN",
-    "MSFT"
+    "TSM",
+    "DELL"
   ],
   "downstream": [
-    "OpenAI",
-    "MSFT",
-    "GOOGL",
-    "AMZN",
-    "IBM"
+    "AI research labs",
+    "Tech enterprises",
+    "Gaming studios",
+    "Automotive AI teams",
+    "Biotech companies"
   ],
   "competitors": [
-    "AWS",
-    "MSFT",
+    "AWS Inferentia",
     "GOOGL",
+    "MSFT",
     "NVDA",
     "Lambda Labs"
   ],
   "key_products": [
-    "GPU cloud computing",
-    "GPU infrastructure",
-    "AI cloud services",
+    "GPU-based AI compute instances",
+    "GPU cloud infrastructure",
+    "AI chip management software",
     "GPU virtualization",
-    "GPU management software"
+    "AI training and inference services"
   ],
-  "extracted_at": "2026-02-23 17:59:52",
+  "extracted_at": "2026-02-24 17:02:22",
   "sources": [
     {
       "source": "Wikipedia",
@@ -55,13 +55,13 @@
       "source": "DuckDuckGo",
       "url": "https://www.coreweave.com/case-studies",
       "query": "CoreWeave, Inc. major customers clients",
-      "snippet": "Customer stories Where Customers Become Pioneers Discover how CoreWeave customers transform ambition into achievement. These pioneers are shaping the "
+      "snippet": "Discover how CoreWeave customers transform ambition into achievement. These pioneers are shaping the future of AI, VFX, and compute with speed, scale,"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/CRWV-Customers",
+      "url": "https://www.crn.com/news/ai/2025/7-things-to-know-about-coreweave-s-s-1-top-customers-revenue-and-more",
       "query": "CoreWeave, Inc. major customers clients",
-      "snippet": "5 days ago · Coreweave Inc customers and markets, results by customer and performance relative to CRWV, by company and industry - CSIMarket"
+      "snippet": "Mar 5, 2025 · Ahead of a plan to go public, rising AI cloud provider CoreWeave reveals fast-growing revenue from a ‘limited number of customers ,’ inc"
     }
   ]
 }

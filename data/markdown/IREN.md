@@ -2,56 +2,56 @@
 ticker: IREN
 company: IREN Limited
 sector: Financial Services / Capital Markets
-industry: Financial Services / Capital Markets
-extracted_at: 2026-02-19 16:51:49
-last_updated: 2026-02-19
+industry: Data Center & Cloud Services
+extracted_at: 2026-02-24 17:05:52
+last_updated: 2026-02-24
 ---
 
 # IREN - IREN Limited
 
 ## 基本信息
 
-- **所属行业**: Financial Services / Capital Markets / Financial Services / Capital Markets
-- **提取时间**: 2026-02-19 16:51:49
+- **所属行业**: Financial Services / Capital Markets / Data Center & Cloud Services
+- **提取时间**: 2026-02-24 17:05:52
 
 ## 产业链关系
 
 ### 上游供应商
-- [[NVDA]]
-- [[AMD]]
-- [[INTC]]
-- [[Supermicro]]
-- [[DELL]]
+- [[Renewable energy providers]]
+- [[Data center equipment manufacturers]]
+- [[GPU hardware suppliers]]
+- [[Cooling system vendors]]
+- [[Networking equipment suppliers]]
 
 ### 下游客户
-- [[MSFT]]
-- [[GOOGL]]
-- [[AMZN]]
-- [[Alibaba]]
-- [[ORCL]]
+- [[Enterprise AI customers]]
+- [[Cloud service resellers]]
+- [[High-performance computing firms]]
+- [[Research institutions]]
+- [[Financial technology companies]]
 
 ### 竞争对手
 - [[AMZN]]
 - [[MSFT]]
 - [[GOOGL]]
-- [[Alibaba Cloud]]
+- [[IBM]]
 - [[ORCL]]
 
 ### 核心产品
-- [[AI Cloud services]]
-- [[GPU cluster solutions]]
-- [[Renewable-powered data centers]]
-- [[Edge computing services]]
-- [[AI infrastructure]]
+- [[100% renewable-powered data centers]]
+- [[AI Cloud platform]]
+- [[GPU cluster services]]
+- [[Edge computing solutions]]
+- [[Data center infrastructure management]]
 
 ## 数据来源
 
 - 
 - [IREN Limited suppliers manufacturers](https://www.iren.com/)
-- [IREN Limited suppliers manufacturers](https://finance.yahoo.com/quote/IREN/profile/?fr=sycsrp_catchall)
-- [IREN Limited major customers clients](https://finance.yahoo.com/news/irens-ai-client-expands-growth-162300898.html)
-- [IREN Limited major customers clients](https://www.fool.com/investing/2026/01/12/why-iren-limited-skyrocketed-285-in-2025/)
+- [IREN Limited suppliers manufacturers](https://csimarket.com/stocks/suppliers_glance.php?code=IREN)
+- [IREN Limited major customers clients](https://csimarket.com/stocks/IREN-Customers)
+- [IREN Limited major customers clients](https://finviz.com/news/262618/irens-ai-client-base-expands-is-growth-becoming-more-durable)
 
 ## 元数据
 
-- **更新日期**: 2026-02-19
+- **更新日期**: 2026-02-24
