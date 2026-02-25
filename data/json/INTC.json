@@ -4,18 +4,18 @@
   "sector": "Technology",
   "industry": "Semiconductors",
   "upstream": [
-    "ASML",
     "AMAT",
+    "ASML",
     "LRCX",
     "Tokyo Electron",
-    "GlobalFoundries"
+    "KLA"
   ],
   "downstream": [
+    "AAPL",
     "DELL",
     "HPQ",
-    "Lenovo",
-    "AAPL",
-    "MSFT"
+    "MSFT",
+    "AMZN"
   ],
   "competitors": [
     "AMD",
@@ -25,13 +25,13 @@
     "TSM"
   ],
   "key_products": [
-    "Intel Core CPUs",
-    "Intel Xeon CPUs",
-    "Intel Arc GPUs",
-    "Intel FPGAs",
-    "Intel AI accelerators"
+    "Intel Core i7",
+    "Intel Xeon",
+    "Intel Pentium",
+    "Intel Atom",
+    "Intel Optane"
   ],
-  "extracted_at": "2026-02-24 16:58:28",
+  "extracted_at": "2026-02-25 17:02:24",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,25 +43,25 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/List_of_Intel_manufacturing_sites",
       "query": "Intel Corporation suppliers manufacturers",
-      "snippet": "Intel is an American multinational corporation and technology company headquartered in Santa Clara, California. Processors are manufactured in semicon"
+      "snippet": "List of Intel manufacturing sites Intel is an American multinational corporation and technology company headquartered in Santa Clara, California. Proc"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.intel.com/content/www/us/en/partner/showcase/partner-directory/distributor.html",
+      "url": "https://www.intel.com/content/www/us/en/supplier/overview.html",
       "query": "Intel Corporation suppliers manufacturers",
-      "snippet": "Sell Intel® Products directly sourced from Intel as well as devices manufactured by OEMs"
+      "snippet": "Existing Suppliers Enter here for the most current announcements, guides, forms, information on technology, accounts payable, and training to effectiv"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Intel",
+      "url": "https://www.intel.com/content/www/us/en/customer-spotlight/overview.html",
       "query": "Intel Corporation major customers clients",
-      "snippet": "Intel Corporation is an American multinational technology company headquartered in Santa Clara, California. ... largest customer, Apple. As of July 20"
+      "snippet": "Explore the Intel Customer Spotlight for the latest customer stories, case studies, and testimonials highlighting data-centric innovations."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://newsroom.intel.com/intel-foundry/intel-foundry-gathers-customers-partners-outlines-priorities",
+      "url": "https://csimarket.com/stocks/INTC-Customers",
       "query": "Intel Corporation major customers clients",
-      "snippet": "Apr 29, 2025 · At Direct Connect, Intel Foundry shares process technology roadmap, advanced packaging momentum and ecosystem partnerships. Missing: ma"
+      "snippet": "Intel customers and markets, results by customer and performance relative to INTC, by company and industry - CSIMarket"
     }
   ]
 }

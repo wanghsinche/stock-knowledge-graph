@@ -1,37 +1,37 @@
 {
   "ticker": "WDC",
   "company_name": "Western Digital Corporation",
-  "sector": "Technology",
-  "industry": "Computer Hardware",
+  "sector": "Technology / Computer Hardware",
+  "industry": "Data Storage",
   "upstream": [
     "MU",
-    "005930.KS",
-    "SK Hynix",
-    "Toshiba",
-    "INTC"
+    "Printed circuit board suppliers",
+    "META",
+    "Electronics component distributors",
+    "Packaging and logistics providers"
   ],
   "downstream": [
     "DELL",
     "HPQ",
     "Lenovo Group",
     "AAPL",
-    "AMZN"
+    "005930.KS"
   ],
   "competitors": [
     "STX",
     "Toshiba Corporation",
     "005930.KS",
     "MU",
-    "IBM"
+    "Kingston Technology"
   ],
   "key_products": [
-    "Hard Disk Drives (HDDs)",
-    "Solid State Drives (SSDs)",
-    "External Storage Devices",
-    "Network Attached Storage (NAS)",
-    "Enterprise Storage Solutions"
+    "Hard Disk Drives (HDD)",
+    "Solid State Drives (SSD)",
+    "External storage devices",
+    "Enterprise storage solutions",
+    "Cloud storage infrastructure"
   ],
-  "extracted_at": "2026-02-24 17:01:54",
+  "extracted_at": "2026-02-25 17:02:05",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,15 +41,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Western_Digital",
+      "url": "https://www.westerndigital.com/company/distributors",
       "query": "Western Digital Corporation suppliers manufacturers",
-      "snippet": "Western Digital Corporation , doing business as WD, is an American data storage company headquartered in San Jose, California. Established in 1970, th"
+      "snippet": "Find Western Digital authorized Distributors & Resellers Log back into your account for special pricing and other benefits."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.westerndigital.com/company/distributors",
+      "url": "https://csimarket.com/stocks/WDC-Suppliers",
       "query": "Western Digital Corporation suppliers manufacturers",
-      "snippet": "Find Distributors & Resellers Purchase from your preferred Western Digital authorized partner Region Country/Area Brand"
+      "snippet": "Western Digital supply chain, list and performance of Western Digitals' suppliers - CSIMarket"
     },
     {
       "source": "DuckDuckGo",
@@ -61,7 +61,7 @@
       "source": "DuckDuckGo",
       "url": "https://data.landbase.com/technology/western-digital/",
       "query": "Western Digital Corporation major customers clients",
-      "snippet": "Companies using Western Digital by Western Digital Corporation in 2026 As of 2026, 354 verified companies use Western Digital - across industries, com"
+      "snippet": "Aug 17, 2025 · Our Western Digital customers list is available for download and comes enriched with vital company specifics, including industry classi"
     }
   ]
 }

@@ -1,37 +1,37 @@
 {
   "ticker": "HOOD",
   "company_name": "Robinhood Markets, Inc.",
-  "sector": "Financial Services / Capital Markets",
-  "industry": "Online Brokerage / Investment Services",
+  "sector": "Financial Services",
+  "industry": "Capital Markets",
   "upstream": [
-    "AMZN",
     "MSFT",
-    "Bloomberg L.P.",
-    "Refinitiv",
-    "Stripe"
+    "Market data vendors (e.g., Bloomberg, Refinitiv)",
+    "Payment processing partners (e.g., Stripe, PayPal)",
+    "Clearing and settlement partners (e.g., Morgan Stanley, Citadel Securities)",
+    "GOOGL"
   ],
   "downstream": [
     "Retail investors",
-    "High‑frequency traders",
+    "Day traders",
     "Institutional investors",
-    "Crypto traders",
-    "Day traders"
+    "Retirement account holders",
+    "Small business investors"
   ],
   "competitors": [
-    "Charles Schwab",
-    "Fidelity Investments",
     "E*TRADE",
     "TD Ameritrade",
+    "Charles Schwab",
+    "Fidelity",
     "Webull"
   ],
   "key_products": [
-    "Commission‑free stock trading",
-    "Options trading",
-    "Cryptocurrency trading",
-    "Margin trading (Robinhood Gold)",
-    "Cash management services"
+    "Robinhood mobile app",
+    "Robinhood web platform",
+    "Robinhood Cash Management",
+    "Robinhood Crypto",
+    "Robinhood Options trading"
   ],
-  "extracted_at": "2026-02-24 17:05:18",
+  "extracted_at": "2026-02-25 17:03:09",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,25 +43,25 @@
       "source": "DuckDuckGo",
       "url": "https://csimarket.com/stocks/HOOD-Suppliers",
       "query": "Robinhood Markets, Inc. suppliers manufacturers",
-      "snippet": "Aug 1, 2025 · For your research, we’ve provided nine additional tables on Robinhood Markets Inc ’s suppliers . You can find them in the navigation men"
+      "snippet": "Sources: Robinhood Markets Inc 's official press releases and regulatory filings; CSIMarket.com's supply-chain research; and the financial filings and"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://robinhood.com/us/en/about-us/",
+      "url": "https://www.marketscreener.com/quote/stock/ROBINHOOD-MARKETS-INC-125228571/company-group/",
       "query": "Robinhood Markets, Inc. suppliers manufacturers",
-      "snippet": "They wanted to change that, so they headed back to California to build a financial product that would give everyone—not just the wealthy—access to fin"
+      "snippet": "Find the group structure chart of Robinhood Markets, Inc ., with the list of companies belonging to the same group as Robinhood Markets, Inc ., as wel"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://investingintheweb.com/brokers/robinhood-statistics/",
+      "url": "https://en.wikipedia.org/wiki/Robinhood_Markets",
       "query": "Robinhood Markets, Inc. major customers clients",
-      "snippet": "Jan 2, 2026 · The platform has gained a massive customer base in the US, making it a major disruptor in the finance industry. In this article, we’ll e"
+      "snippet": "The company has 27.0 million funded customers with 28.4 million investment accounts and $324 billion in assets under custody. Its platform is availabl"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://investors.robinhood.com/news-releases/news-release-details/robinhood-markets-inc-reports-january-2025-operating-data",
+      "url": "https://investors.robinhood.com/news-releases/news-release-details/robinhood-markets-inc-reports-may-2025-operating-data",
       "query": "Robinhood Markets, Inc. major customers clients",
-      "snippet": "Feb 14, 2025 · Today, Robinhood lets you trade stocks, options, futures (which includes options on futures, swaps, and event contracts), and crypto, i"
+      "snippet": "Today, Robinhood lets you trade stocks, options, futures (which includes options on futures, swaps, and event contracts), and crypto, invest for retir"
     }
   ]
 }

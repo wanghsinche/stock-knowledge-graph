@@ -4,34 +4,34 @@
   "sector": "Communication Services",
   "industry": "Internet Content & Information",
   "upstream": [
+    "QCOM",
     "INTC",
-    "AMD",
-    "NVDA",
-    "CSCO",
-    "DELL"
+    "005930.KS",
+    "TSM",
+    "NVDA"
   ],
   "downstream": [
-    "Advertisers",
-    "Android device manufacturers",
     "GOOGL",
+    "Android device manufacturers",
     "YouTube content creators",
+    "GOOGL",
     "GOOGL"
   ],
   "competitors": [
+    "META",
     "MSFT",
     "AMZN",
-    "META",
     "AAPL",
-    "Tencent"
+    "NFLX"
   ],
   "key_products": [
     "Google Search",
-    "YouTube",
-    "Google Cloud Platform",
     "Android OS",
+    "Google Cloud Platform",
+    "YouTube",
     "Google Ads"
   ],
-  "extracted_at": "2026-02-24 16:58:45",
+  "extracted_at": "2026-02-25 17:01:21",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,15 +41,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/List_of_mergers_and_acquisitions_by_Alphabet",
+      "url": "https://en.wikipedia.org/wiki/Alphabet_Inc.",
       "query": "Alphabet Inc. suppliers manufacturers",
-      "snippet": "As of March 2025, Alphabet has acquired over 200 companies, with its largest acquisition being the purchase of Wiz, a cloud security company, for $32 "
+      "snippet": "Alphabet Inc. is an American multinational technology conglomerate holding company headquartered in Mountain View, California. It was created through "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.investopedia.com/investing/companies-owned-by-google/",
+      "url": "https://csimarket.com/stocks/GOOG-Suppliers",
       "query": "Alphabet Inc. suppliers manufacturers",
-      "snippet": "Seven major companies owned by Alphabet are YouTube, Waze, DoubleClick, Nest, Looker, Fitbit, and Mandiant."
+      "snippet": "Alphabet Inc's Comment on Supply Chain We rely on third parties to manufacture many of our assemblies and finished products, and we have third-party a"
     },
     {
       "source": "DuckDuckGo",

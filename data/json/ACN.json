@@ -1,37 +1,37 @@
 {
   "ticker": "ACN",
   "company_name": "Accenture plc",
-  "sector": "Technology",
-  "industry": "Information Technology Services",
+  "sector": "Technology / Information Technology Services",
+  "industry": "IT Consulting Services",
   "upstream": [
     "MSFT",
     "AMZN",
     "GOOGL",
-    "ORCL",
-    "IBM"
+    "IBM",
+    "SAP"
   ],
   "downstream": [
-    "Financial Services firms",
-    "Healthcare organizations",
-    "Government agencies",
-    "Retail companies",
-    "Manufacturing firms"
+    "AAPL",
+    "AMZN",
+    "MSFT",
+    "GOOGL",
+    "Walmart"
   ],
   "competitors": [
     "Deloitte",
     "PwC",
     "EY",
-    "IBM",
+    "KPMG",
     "Capgemini"
   ],
   "key_products": [
-    "IT consulting",
+    "IT consulting services",
     "Digital transformation",
     "Cloud services",
-    "Cybersecurity",
-    "Analytics"
+    "Cybersecurity solutions",
+    "Artificial intelligence solutions"
   ],
-  "extracted_at": "2026-02-24 17:04:05",
+  "extracted_at": "2026-02-25 17:05:16",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.accenture.com/us-en/about/company/accenture-supplier-impact-sustainability",
+      "url": "https://www.accenture.com/us-en/services/ecosystem-partners",
       "query": "Accenture plc suppliers manufacturers",
-      "snippet": "Accenture's Supplier Impact & Sustainability aims to create more sustainable and inclusive supply chains through a mindset of responsible buying."
+      "snippet": "Accenture’ s ecosystem partners and suppliers bring deep expertise and the right technology to our clients for lasting value and accelerate change. Le"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.accenture.com/us-en/services/digital-engineering-manufacturing",
+      "url": "https://csimarket.com/stocks/ACN-Suppliers",
       "query": "Accenture plc suppliers manufacturers",
-      "snippet": "Accenture digital engineering & manufacturing services reimagine products with data, digital & AI to improve resiliency, productivity & security."
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Accenture",
-      "query": "Accenture plc major customers clients",
-      "snippet": "Accenture plc is a multinational technology consulting company headquartered in Dublin, Ireland. Founded in 1989, Accenture provides information techn"
+      "snippet": "Dec 21, 2025 · For your research, we’ve provided nine additional tables on Accenture Plc ’ s suppliers . You can find them in the navigation menu unde"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://newsroom.accenture.com/fact-sheet",
       "query": "Accenture plc major customers clients",
-      "snippet": "We continue to be the reinvention partner of choice, serving approximately 9,000 clients including a significant portion of the Fortune Global 100 and"
+      "snippet": "Aug 31, 2025 · Our strategists and deep industry, functional, customer and technology consultants work hand-in-hand with our clients and across our ca"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.oceanfrogs.com/accenture-clients-list/",
+      "query": "Accenture plc major customers clients",
+      "snippet": "Our areas of expertise are applied to a range of products and services that are adapted to the needs of each and every client across three major busin"
     }
   ]
 }

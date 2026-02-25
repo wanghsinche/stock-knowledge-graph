@@ -1,57 +1,57 @@
 ---
 ticker: AVGO
 company: Broadcom Inc.
-sector: Technology
+sector: Technology / Semiconductors
 industry: Semiconductors
-extracted_at: 2026-02-24 16:57:58
-last_updated: 2026-02-24
+extracted_at: 2026-02-25 17:01:12
+last_updated: 2026-02-25
 ---
 
 # AVGO - Broadcom Inc.
 
 ## 基本信息
 
-- **所属行业**: Technology / Semiconductors
-- **提取时间**: 2026-02-24 16:57:58
+- **所属行业**: Technology / Semiconductors / Semiconductors
+- **提取时间**: 2026-02-25 17:01:12
 
 ## 产业链关系
 
 ### 上游供应商
-- [[TSM]]
-- [[MU]]
+- [[ASML]]
 - [[AMAT]]
-- [[Raw material suppliers (e.g., silicon, copper)]]
-- [[Design IP providers (e.g., ARM, Cadence)]]
+- [[LRCX]]
+- [[Tokyo Electron]]
+- [[KLA]]
 
 ### 下游客户
 - [[CSCO]]
-- [[Networking equipment vendors (e.g., Juniper, Arista)]]
-- [[AAPL]]
-- [[Broadband equipment vendors (e.g., Nokia, ARRIS)]]
-- [[Industrial automation companies (e.g., Siemens, Schneider Electric)]]
+- [[DELL]]
+- [[HPQ]]
+- [[AMZN]]
+- [[MSFT]]
 
 ### 竞争对手
 - [[QCOM]]
 - [[INTC]]
 - [[NVDA]]
-- [[MRVL]]
 - [[TXN]]
+- [[MRVL]]
 
 ### 核心产品
-- [[Broadcom BCM series chips (Wi‑Fi, Ethernet, Bluetooth)]]
-- [[Broadcom storage controllers (e.g., SATA, NVMe)]]
-- [[Broadcom networking ASICs (e.g., Ethernet, 10GbE)]]
-- [[Broadcom infrastructure software solutions]]
-- [[Broadcom wireless modules for mobile devices]]
+- [[Broadcom Ethernet Switch ASICs]]
+- [[Broadcom Wi‑Fi/Bluetooth chips]]
+- [[Broadcom Fibre Channel storage controllers]]
+- [[Broadcom broadband modems]]
+- [[Broadcom data center networking solutions]]
 
 ## 数据来源
 
 - [Broadcom](https://en.wikipedia.org/wiki/Broadcom_Inc.)
 - [Broadcom Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/Broadcom)
-- [Broadcom Inc. suppliers manufacturers](https://www.broadcom.com/products)
-- [Broadcom Inc. major customers clients](https://en.wikipedia.org/wiki/Broadcom)
-- [Broadcom Inc. major customers clients](https://finance.yahoo.com/news/broadcom-10b-mystery-customer-underscores-103000515.html)
+- [Broadcom Inc. suppliers manufacturers](https://www.broadcom.com/how-to-buy/partner-distributor-lookup)
+- [Broadcom Inc. major customers clients](https://csimarket.com/stocks/AVGO-Customers)
+- [Broadcom Inc. major customers clients](https://www.appsruntheworld.com/customers-database/vendors/view/broadcom)
 
 ## 元数据
 
-- **更新日期**: 2026-02-24
+- **更新日期**: 2026-02-25

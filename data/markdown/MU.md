@@ -3,8 +3,8 @@ ticker: MU
 company: Micron Technology, Inc.
 sector: Technology
 industry: Semiconductors
-extracted_at: 2026-02-24 16:56:42
-last_updated: 2026-02-24
+extracted_at: 2026-02-25 16:59:54
+last_updated: 2026-02-25
 ---
 
 # MU - Micron Technology, Inc.
@@ -12,13 +12,13 @@ last_updated: 2026-02-24
 ## 基本信息
 
 - **所属行业**: Technology / Semiconductors
-- **提取时间**: 2026-02-24 16:56:42
+- **提取时间**: 2026-02-25 16:59:54
 
 ## 产业链关系
 
 ### 上游供应商
-- [[AMAT]]
 - [[ASML]]
+- [[AMAT]]
 - [[LRCX]]
 - [[Tokyo Electron]]
 - [[KLA]]
@@ -33,25 +33,25 @@ last_updated: 2026-02-24
 ### 竞争对手
 - [[005930.KS]]
 - [[SK Hynix]]
-- [[WDC]]
-- [[STX]]
 - [[INTC]]
+- [[WDC]]
+- [[SK Hynix]]
 
 ### 核心产品
-- [[Dynamic Random-Access Memory (DRAM)]]
-- [[NAND Flash Memory]]
-- [[Solid-State Drives (SSDs)]]
-- [[Memory Modules]]
-- [[Memory Solutions for Servers and Mobile Devices]]
+- [[DRAM]]
+- [[NAND flash memory]]
+- [[Solid‑state drives (SSDs)]]
+- [[Memory modules]]
+- [[Memory solutions]]
 
 ## 数据来源
 
 - [Micron Technology](https://en.wikipedia.org/wiki/Micron_Technology,_Inc.)
 - [Micron Technology, Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/Micron_Technology)
 - [Micron Technology, Inc. suppliers manufacturers](https://ru.wikipedia.org/wiki/Micron_Technology)
-- [Micron Technology, Inc. major customers clients](https://www.micron.com/markets-industries/customer-and-partner-storage-success)
-- [Micron Technology, Inc. major customers clients](https://creativestrategies.com/research/microns-mixed-reality-ai-strength-collides-with-consumer-weakness-in-fq1-2025/)
+- [Micron Technology, Inc. major customers clients](https://en.wikipedia.org/wiki/Micron_Technology)
+- [Micron Technology, Inc. major customers clients](https://ru.wikipedia.org/wiki/Micron_Technology)
 
 ## 元数据
 
-- **更新日期**: 2026-02-24
+- **更新日期**: 2026-02-25

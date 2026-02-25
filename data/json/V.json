@@ -4,34 +4,34 @@
   "sector": "Financial Services",
   "industry": "Credit Services",
   "upstream": [
-    "Card manufacturing suppliers (e.g., Gemalto, IDEMIA)",
-    "Chip and payment technology vendors",
-    "Network infrastructure providers",
-    "Software and security solution providers",
-    "Payment processing equipment manufacturers"
+    "Card manufacturers",
+    "Chip and semiconductor suppliers",
+    "Payment network infrastructure providers",
+    "Software and security vendors",
+    "Financial technology partners"
   ],
   "downstream": [
-    "Commercial banks and credit unions",
-    "Retail merchants and e‑commerce platforms",
-    "Mobile wallet providers",
-    "Government agencies and public sector entities",
-    "Financial technology companies"
+    "Commercial banks",
+    "Credit card issuers",
+    "Retail merchants",
+    "Government agencies",
+    "Financial institutions using Visa Analytics"
   ],
   "competitors": [
     "Mastercard",
     "American Express",
     "Discover",
-    "JCB",
-    "UnionPay"
+    "PayPal",
+    "Square"
   ],
   "key_products": [
     "Visa credit cards",
     "Visa debit cards",
     "Visa prepaid cards",
-    "Visa payment network services",
-    "Contactless and mobile payment solutions"
+    "Visa payment network",
+    "Visa Direct and Visa Checkout services"
   ],
-  "extracted_at": "2026-02-24 17:01:11",
+  "extracted_at": "2026-02-25 17:04:43",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ru.wikipedia.org/wiki/Visa",
-      "query": "Visa Inc. suppliers manufacturers",
-      "snippet": "Visa Inc . ([ˈviːzə] или [ˈviːsə]) — американская транснациональная компания, предоставляющая услуги проведения платёжных операций. Является основой о"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/V-Suppliers",
-      "query": "Visa Inc. suppliers manufacturers",
-      "snippet": "Visa Inc supply chain, list and performance of Visa Incs ' suppliers - CSIMarket. Visa Inc 's Suppliers Performance. V's Supply Chain. Download as CSV"
-    },
-    {
-      "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Visa_Inc.",
-      "query": "Visa Inc. major customers clients",
-      "snippet": "Visa is the world's second-largest card payment organization (debit and credit cards combined), after being surpassed by China UnionPay in 2015, based"
+      "query": "Visa Inc. suppliers manufacturers",
+      "snippet": "Visa Inc is an American multinational payment card services corporation headquartered in San Francisco, California. It facilitates electronic funds .."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.visa.com/en-us/solutions/commercial-solutions",
+      "query": "Visa Inc. suppliers manufacturers",
+      "snippet": "Visa Commercial Solutions partners with financial institutions and fintechs to support businesses of all sizes across a variety of verticals."
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.visa.com/en-us/thought-leadership/case-studies",
       "query": "Visa Inc. major customers clients",
       "snippet": "Discover how Visa helps companies and governments around the globe increase customer loyalty, boost productivity, and help their businesses thrive. Mi"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://usa.visa.com/partner-with-us/visa-analytics-platform/visa-analytics-platform-customer-stories.html",
+      "query": "Visa Inc. major customers clients",
+      "snippet": "Visa Analytics Platform empowers financial institutions with access to data and insights – helping identify growth opportunities and driving impact. M"
     }
   ]
 }

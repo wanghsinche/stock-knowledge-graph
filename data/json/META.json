@@ -4,34 +4,36 @@
   "sector": "Communication Services",
   "industry": "Internet Content & Information",
   "upstream": [
-    "QCOM",
-    "NVDA",
-    "INTC",
-    "005930.KS",
-    "SONY"
+    "META",
+    "META",
+    "META",
+    "META",
+    "Various cloud service providers"
   ],
   "downstream": [
-    "Advertisers",
-    "App developers",
+    "005930.KS",
     "META",
-    "Content creators",
-    "Enterprise partners"
+    "META",
+    "Content creators on Facebook, Instagram, WhatsApp",
+    "META"
   ],
   "competitors": [
     "GOOGL",
+    "AMZN",
     "AAPL",
     "MSFT",
-    "X (Twitter)",
-    "Snap Inc. (Snapchat)"
+    "NVDA"
   ],
   "key_products": [
     "Facebook",
     "Instagram",
     "WhatsApp",
     "Messenger",
-    "Meta Ads"
+    "Threads",
+    "Manus",
+    "Meta advertising network"
   ],
-  "extracted_at": "2026-02-24 16:58:12",
+  "extracted_at": "2026-02-25 17:01:30",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +43,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.suppliersmap.com/meta",
-      "query": "Meta Platforms, Inc. suppliers manufacturers",
-      "snippet": "Meta Meta works with leading technology suppliers for its AR/VR products, including Qualcomm for advanced processors, Sony and other display manufactu"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/META-Suppliers",
-      "query": "Meta Platforms, Inc. suppliers manufacturers",
-      "snippet": "Meta Platforms Inc's Suppliers recorded an increase in sales by 17.82 % year on year in Q3 2025, sequentially sales grew by 12.48 %, Meta Platforms In"
-    },
-    {
-      "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Meta_Platforms",
-      "query": "Meta Platforms, Inc. major customers clients",
+      "query": "Meta Platforms, Inc. suppliers manufacturers",
       "snippet": "Meta Platforms, Inc. (doing business as Meta ) is an American multinational technology company headquartered in Menlo Park, California. Meta owns and "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://canvasbusinessmodel.com/blogs/target-market/meta-target-market",
+      "url": "https://forwork.meta.com/legal/mfw-subprocessor-list/",
+      "query": "Meta Platforms, Inc. suppliers manufacturers",
+      "snippet": "Meta Germany GmbH Germany Meta Italy S.R.L. Italy Meta Netherlands B.V. Netherlands Meta Poland Sp. zoo Poland Meta Singapore Pte. Ltd. Singapore Meta"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.statista.com/topics/9038/meta-platforms/?srsltid=AfmBOoqjRsCfKD6Rk_lBFaJoopatpbotletWrJNrr_ElHiyBxpHNkKbq",
       "query": "Meta Platforms, Inc. major customers clients",
-      "snippet": "Meta's customer base is vast and varied, encompassing both individual users and businesses. The company's success depends on its ability to cater to t"
+      "snippet": "Meta Platforms owns social media giants Facebook, Instagram, WhatsApp, and Messenger, among others, all of which are household names that continue to "
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.meta.com/about/company-info/?srsltid=AfmBOorX3VzFaQCyiEMRiwklVuV8uMBSZ-Ib43O-N87v0qLHfZ8JqMHJ",
+      "query": "Meta Platforms, Inc. major customers clients",
+      "snippet": "Meta is building technology that connects you to people, interests and experiences that matter to you. Our principles embody what we stand for and gui"
     }
   ]
 }

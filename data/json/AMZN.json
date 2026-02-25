@@ -4,34 +4,34 @@
   "sector": "Consumer Cyclical",
   "industry": "Internet Retail",
   "upstream": [
-    "AMZN",
-    "AAPL",
-    "Third‑party apparel manufacturers",
-    "Book publishers and distributors",
-    "Digital content providers (music, movies, e‑books)"
+    "Book publishers",
+    "Electronics manufacturers",
+    "Apparel brands",
+    "Consumer electronics",
+    "Home goods manufacturers"
   ],
   "downstream": [
-    "AMZN",
-    "AMZN",
-    "AMZN",
-    "AMZN",
-    "General retail consumers"
+    "Individual consumers",
+    "Small businesses",
+    "Third‑party sellers",
+    "Corporate buyers",
+    "Enterprise customers"
   ],
   "competitors": [
+    "eBay",
     "Walmart",
     "Alibaba",
-    "eBay",
-    "Target",
-    "Shopify"
+    "Shopify",
+    "Target"
   ],
   "key_products": [
-    "Amazon.com e‑commerce platform",
-    "Amazon Web Services (cloud computing)",
-    "Amazon Prime Video (digital streaming)",
-    "Amazon Alexa (AI assistant)",
-    "Amazon Kindle (e‑reader)"
+    "Amazon Marketplace",
+    "Amazon Web Services",
+    "Amazon Prime Video",
+    "Amazon Advertising",
+    "Alexa AI"
   ],
-  "extracted_at": "2026-02-24 16:57:35",
+  "extracted_at": "2026-02-25 17:00:33",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://awesomers.com/amazon-supply-chain",
-      "query": "Amazon.com, Inc. suppliers manufacturers",
-      "snippet": "Amazon has released a list of its top 1000 suppliers and factories from around the world. This information became public as a part of an SEC disclosur"
-    },
-    {
-      "source": "DuckDuckGo",
       "url": "https://d39w7f4ix9f5s9.cloudfront.net/cb/19/77dfc5b441c892cd6e2be166ba70/final-amazon-supplier-list-2019-11-14-updated-1005am.pdf",
       "query": "Amazon.com, Inc. suppliers manufacturers",
-      "snippet": "The facilities listed produce Amazon-branded apparel, consumer electronics, and home goods products. This list was last updated November 2019 and is s"
+      "snippet": "Amazon Supplier List Amazon is strongly committed to conducting its business in a lawful and ethical manner, including engaging with suppliers that re"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://capitaloneshopping.com/research/amazon-statistics/",
-      "query": "Amazon.com, Inc. major customers clients",
-      "snippet": "Statistics & analysis on Amazon including total sales (per year & minute), number of products (SKUs), customers , sellers & more."
+      "url": "https://bigframe.net/who-are-amazons-main-suppliers/",
+      "query": "Amazon.com, Inc. suppliers manufacturers",
+      "snippet": "In conclusion, Amazon's main suppliers include a mix of large corporations, third-party sellers, and manufacturers for its own brands. These suppliers"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/AMZN-Customers",
+      "url": "https://en.wikipedia.org/wiki/Amazon_(company)",
       "query": "Amazon.com, Inc. major customers clients",
-      "snippet": "Amazon Com Inc's Comment on Sales, Marketing and Customers We serve consumers through our retail websites and focus on selection, price, and convenien"
+      "snippet": "It is mostly known as the world's biggest online shopping retailer and marketplace, best known for a wide range of products and supplying multiple ser"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.businessofapps.com/data/amazon-statistics/",
+      "query": "Amazon.com, Inc. major customers clients",
+      "snippet": "Jan 7, 2026 · Amazon is the second largest public company by revenue in the world, behind Walmart. Revenue increased by 9.5% in 2024 to $630 billion."
     }
   ]
 }

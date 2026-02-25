@@ -1,37 +1,37 @@
 {
   "ticker": "BKNG",
   "company_name": "Booking Holdings Inc.",
-  "sector": "Consumer Cyclical",
-  "industry": "Travel Services",
+  "sector": "Consumer Cyclical / Travel Services",
+  "industry": "Online Travel Agency",
   "upstream": [
-    "AMZN",
-    "Payment processors (e.g., Stripe, PayPal)",
-    "Data providers (e.g., Sabre, Amadeus)",
-    "Technology infrastructure vendors",
-    "Advertising and marketing platforms"
+    "Technology platform providers (e.g., cloud services, payment processors)",
+    "Data analytics vendors",
+    "Marketing and advertising agencies",
+    "Content and media partners",
+    "Legal and compliance service firms"
   ],
   "downstream": [
-    "Hotel chains and independent hotels",
-    "Airlines",
+    "Hotel and accommodation providers",
+    "Airlines and flight operators",
     "Car rental agencies",
-    "Travel agencies",
-    "Individual travelers"
+    "Corporate travel departments",
+    "Individual leisure travelers"
   ],
   "competitors": [
-    "Expedia Group",
-    "TripAdvisor",
-    "Airbnb",
-    "Trivago",
-    "Ctrip (Trip.com)"
+    "Expedia Group Inc.",
+    "TripAdvisor Inc.",
+    "Airbnb Inc.",
+    "Priceline.com (Booking Holdings subsidiary)",
+    "Kayak Inc."
   ],
   "key_products": [
-    "Online hotel booking platform",
+    "Online hotel reservation platform",
     "Flight booking services",
-    "Car rental reservations",
-    "Vacation rental listings",
-    "Travel package bundles"
+    "Car rental booking",
+    "Vacation package sales",
+    "Travel insurance offerings"
   ],
-  "extracted_at": "2026-02-24 17:02:02",
+  "extracted_at": "2026-02-25 17:07:25",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,21 +47,21 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.bookingholdings.com/",
+      "url": "https://csimarket.com/stocks/BKNG-Suppliers",
       "query": "Booking Holdings Inc. suppliers manufacturers",
-      "snippet": "Booking Holdings is the world's leader in online travel. Brands include Booking.com, priceline.com, agoda.com, Kayak, Rentalcars.com & OpenTable. Miss"
+      "snippet": "Sources: Booking Holdings Inc 's official press releases and regulatory filings; CSIMarket.com's supply-chain research; and the financial filings and "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Booking_Holdings",
+      "url": "https://csimarket.com/stocks/BKNG-Customers",
       "query": "Booking Holdings Inc. major customers clients",
-      "snippet": "Booking Holdings ... Booking Holdings Inc . is an American travel technology company based in Norwalk, Connecticut, that owns and operates several tra"
+      "snippet": "For your research, we’ve provided 9 tables on Booking Holdings Inc corporate clients . You can find them in the navigation menu under Customers & Mark"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.hivelr.com/2024/01/booking-holdings-bkng-porters-five-forces-industry-and-competition-analysis/",
+      "url": "https://ir.bookingholdings.com/financials/annual-reports/default.aspx",
       "query": "Booking Holdings Inc. major customers clients",
-      "snippet": "Booking Holdings is subject to ongoing changes in the travel industry, market competition, and consumer preferences. Companies in this sector must ada"
+      "snippet": "At Booking Holdings , we promise to treat your data with respect and will not share your information with any third party. You can unsubscribe to any "
     }
   ]
 }

@@ -6,12 +6,16 @@
   "upstream": [
     "NVDA",
     "AMD",
-    "INTC"
+    "INTC",
+    "QCOM",
+    "GOOGL"
   ],
   "downstream": [
     "Goldman Sachs",
     "Mistral AI",
-    "Cloudflare"
+    "MSFT",
+    "AMZN",
+    "GOOGL"
   ],
   "competitors": [
     "OpenAI",
@@ -21,12 +25,13 @@
     "GOOGL"
   ],
   "key_products": [
-    "Nebius AI Platform",
-    "Nebius AI Services",
-    "Nebius AI Infrastructure",
-    "Nebius AI Solutions"
+    "Nebius AI Infrastructure Platform",
+    "Avride",
+    "TripleTen",
+    "Toloka",
+    "Clickhouse"
   ],
-  "extracted_at": "2026-02-24 17:07:12",
+  "extracted_at": "2026-02-25 17:08:05",
   "sources": [
     {
       "source": "Wikipedia",
@@ -36,15 +41,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Nebius_Group",
+      "url": "https://www.dcsa.mil/Systems-Applications/National-Background-Investigation-Services-NBIS/",
       "query": "NBIS suppliers manufacturers",
-      "snippet": "Nebius Group N.V., headquartered in Amsterdam, is a technology company [3] that provides artificial intelligence infrastructure. [4] The company also "
+      "snippet": "NBIS is the Federal government's IT system for end-to-end process for personnel vetting. This starts with the initiation and application for a backgro"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://csimarket.com/stocks/NBIS-Suppliers",
       "query": "NBIS suppliers manufacturers",
-      "snippet": "Sources: Nebius Group n v 's official press releases and regulatory filings; CSIMarket.com's supply-chain research; and the financial filings and pres"
+      "snippet": "NBIS's vs. Suppliers , Data (Revenue and Income for Trailing 12 Months, in Millions of $, except Employees) COMPANY NAME MARKET CAP REVENUES INCOME EM"
     },
     {
       "source": "DuckDuckGo",

@@ -1,37 +1,37 @@
 {
   "ticker": "MSTR",
-  "company_name": "MicroStrategy Incorporated",
+  "company_name": "Strategy Inc",
   "sector": "Technology",
   "industry": "Software - Application",
   "upstream": [
-    "MSFT",
-    "AMZN",
-    "GOOGL",
-    "ORCL",
-    "IBM"
+    "Hardware manufacturers",
+    "Cloud service providers",
+    "Data vendors",
+    "Semiconductor suppliers",
+    "Software component providers"
   ],
   "downstream": [
-    "Bank of America",
-    "Wells Fargo",
-    "Citigroup",
-    "JPMorgan Chase",
-    "Goldman Sachs"
+    "Healthcare organizations",
+    "Financial services firms",
+    "Manufacturing enterprises",
+    "Retail chains",
+    "Government agencies"
   ],
   "competitors": [
     "Tableau",
-    "Qlik",
     "MSFT",
-    "SAP BusinessObjects",
-    "IBM"
+    "Qlik",
+    "SAS",
+    "Looker"
   ],
   "key_products": [
-    "MicroStrategy Desktop",
-    "MicroStrategy Web",
-    "MicroStrategy Mobile",
-    "MicroStrategy Cloud",
-    "MicroStrategy Analytics"
+    "Strategy One",
+    "Strategy Solutions",
+    "Mosaic semantic layer",
+    "Analytics platform",
+    "Data integration tools"
   ],
-  "extracted_at": "2026-02-24 17:04:23",
+  "extracted_at": "2026-02-25 17:03:29",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.tradingview.com/symbols/NASDAQ-MSTR/ideas/page-5/",
+      "url": "https://www.strategy.com/software/blog/how-manufacturers-are-solving-supply-chain-chaos-with-smart-bi",
       "query": "Strategy Inc suppliers manufacturers",
-      "snippet": "Check out the latest trade and investment ideas for Strategy Inc Class A from our top authors. They share opinions on price directions and technical o"
+      "snippet": "Discover how manufacturers are tackling supply chain chaos with Strategy One. Learn how AI-driven insights and real-time data can transform operations"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.alibaba.com/",
+      "url": "https://www.strategy.com/software",
       "query": "Strategy Inc suppliers manufacturers",
-      "snippet": "Find quality Manufacturers , Suppliers , Exporters, Importers, Buyers, Wholesalers, Products and Trade Leads from our award-winning International Trad"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/STRF-Customers",
-      "query": "Strategy Inc major customers clients",
-      "snippet": "Strategy Inc customers and markets, results by customer and performance relative to STRF, by company and industry - CSIMarket"
+      "snippet": "Strategy Solutions powered by Mosaic provide a universal semantic layer that unifies enterprise data, governs business metrics, and delivers trusted A"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.strategy.com/software/customer-stories",
       "query": "Strategy Inc major customers clients",
       "snippet": "Dive into Strategy customer stories highlighting the impact of Analytics in Healthcare, Financial Services, Call Centers, Retail, Insurance, and Gover"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://stockanalysis.com/stocks/strc/company/",
+      "query": "Strategy Inc major customers clients",
+      "snippet": "Company profile for Strategy Inc (STRC) stock, with a description, list of executives, contact details and other key facts."
     }
   ]
 }

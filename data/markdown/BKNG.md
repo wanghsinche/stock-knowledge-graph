@@ -1,57 +1,57 @@
 ---
 ticker: BKNG
 company: Booking Holdings Inc.
-sector: Consumer Cyclical
-industry: Travel Services
-extracted_at: 2026-02-24 17:02:02
-last_updated: 2026-02-24
+sector: Consumer Cyclical / Travel Services
+industry: Online Travel Agency
+extracted_at: 2026-02-25 17:07:25
+last_updated: 2026-02-25
 ---
 
 # BKNG - Booking Holdings Inc.
 
 ## 基本信息
 
-- **所属行业**: Consumer Cyclical / Travel Services
-- **提取时间**: 2026-02-24 17:02:02
+- **所属行业**: Consumer Cyclical / Travel Services / Online Travel Agency
+- **提取时间**: 2026-02-25 17:07:25
 
 ## 产业链关系
 
 ### 上游供应商
-- [[AMZN]]
-- [[Payment processors (e.g., Stripe, PayPal)]]
-- [[Data providers (e.g., Sabre, Amadeus)]]
-- [[Technology infrastructure vendors]]
-- [[Advertising and marketing platforms]]
+- [[Technology platform providers (e.g., cloud services, payment processors)]]
+- [[Data analytics vendors]]
+- [[Marketing and advertising agencies]]
+- [[Content and media partners]]
+- [[Legal and compliance service firms]]
 
 ### 下游客户
-- [[Hotel chains and independent hotels]]
-- [[Airlines]]
+- [[Hotel and accommodation providers]]
+- [[Airlines and flight operators]]
 - [[Car rental agencies]]
-- [[Travel agencies]]
-- [[Individual travelers]]
+- [[Corporate travel departments]]
+- [[Individual leisure travelers]]
 
 ### 竞争对手
-- [[Expedia Group]]
-- [[TripAdvisor]]
-- [[Airbnb]]
-- [[Trivago]]
-- [[Ctrip (Trip.com)]]
+- [[Expedia Group Inc.]]
+- [[TripAdvisor Inc.]]
+- [[Airbnb Inc.]]
+- [[Priceline.com (Booking Holdings subsidiary)]]
+- [[Kayak Inc.]]
 
 ### 核心产品
-- [[Online hotel booking platform]]
+- [[Online hotel reservation platform]]
 - [[Flight booking services]]
-- [[Car rental reservations]]
-- [[Vacation rental listings]]
-- [[Travel package bundles]]
+- [[Car rental booking]]
+- [[Vacation package sales]]
+- [[Travel insurance offerings]]
 
 ## 数据来源
 
 - 
 - [Booking Holdings Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/Booking_Holdings)
-- [Booking Holdings Inc. suppliers manufacturers](https://www.bookingholdings.com/)
-- [Booking Holdings Inc. major customers clients](https://en.wikipedia.org/wiki/Booking_Holdings)
-- [Booking Holdings Inc. major customers clients](https://www.hivelr.com/2024/01/booking-holdings-bkng-porters-five-forces-industry-and-competition-analysis/)
+- [Booking Holdings Inc. suppliers manufacturers](https://csimarket.com/stocks/BKNG-Suppliers)
+- [Booking Holdings Inc. major customers clients](https://csimarket.com/stocks/BKNG-Customers)
+- [Booking Holdings Inc. major customers clients](https://ir.bookingholdings.com/financials/annual-reports/default.aspx)
 
 ## 元数据
 
-- **更新日期**: 2026-02-24
+- **更新日期**: 2026-02-25

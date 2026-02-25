@@ -1,8 +1,8 @@
 {
   "ticker": "CRM",
   "company_name": "Salesforce, Inc.",
-  "sector": "Technology",
-  "industry": "Software - Application",
+  "sector": "Technology / Software - Application",
+  "industry": "CRM Software",
   "upstream": [
     "AMZN",
     "MSFT",
@@ -11,18 +11,18 @@
     "IBM"
   ],
   "downstream": [
-    "Coca-Cola",
-    "Toyota",
-    "005930.KS",
-    "eBay",
-    "ADBE"
+    "Walmart",
+    "AMZN",
+    "Coca‑Cola",
+    "General Electric",
+    "MSFT"
   ],
   "competitors": [
     "MSFT",
-    "SAP",
     "ORCL",
-    "IBM",
-    "Zoho"
+    "SAP Customer Experience",
+    "HubSpot",
+    "Zoho CRM"
   ],
   "key_products": [
     "Sales Cloud",
@@ -31,7 +31,7 @@
     "Commerce Cloud",
     "Einstein AI"
   ],
-  "extracted_at": "2026-02-24 16:59:26",
+  "extracted_at": "2026-02-25 17:03:20",
   "sources": [
     {
       "source": "Wikipedia",
@@ -53,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Salesforce",
+      "url": "https://www.salesforce.com/customer-stories/",
       "query": "Salesforce, Inc. major customers clients",
-      "snippet": "Salesforce , Inc ., is an American cloud-based software company headquartered in San Francisco, California. It provides applications focused on sales "
+      "snippet": "Discover how Salesforce helps 150000+ companies increase productivity, customer loyalty, and sales revenue — every day."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://login.salesforce.com/",
+      "url": "https://ascendix.com/blog/how-many-companies-use-salesforce/",
       "query": "Salesforce, Inc. major customers clients",
-      "snippet": "Salesforce Salesforce . 0 Saved Usernames Edit List.Not a customer ? Try for Free. Log In with a Different Username."
+      "snippet": "Rating 4.8 (27) Mar 25, 2025 · Walmart Inc. and Amazon are among the largest Salesforce customers, with revenues amounting to $611B and $538B, respect"
     }
   ]
 }

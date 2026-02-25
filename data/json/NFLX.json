@@ -1,37 +1,37 @@
 {
   "ticker": "NFLX",
   "company_name": "Netflix, Inc.",
-  "sector": "Communication Services / Entertainment",
-  "industry": "Streaming Media",
+  "sector": "Communication Services",
+  "industry": "Entertainment",
   "upstream": [
     "Visual Data (UK)",
-    "AMZN",
-    "GOOGL",
-    "MSFT",
-    "NFLX"
+    "Warner Bros. Studios",
+    "Disney Studios",
+    "SONY",
+    "Paramount Pictures"
   ],
   "downstream": [
-    "NFLX",
-    "Mobile app users",
-    "Smart TV app users",
-    "Streaming device users",
-    "NFLX"
+    "US households",
+    "India households",
+    "Canadian households",
+    "UK households",
+    "Australian households"
   ],
   "competitors": [
-    "AMZN",
     "Disney+",
+    "AMZN",
     "Hulu",
     "HBO Max",
     "AAPL"
   ],
   "key_products": [
-    "Streaming video service",
-    "Netflix Originals",
-    "Licensed third‑party content",
-    "Mobile and web apps",
-    "Smart TV and console apps"
+    "Over-the-top streaming service",
+    "Original series and films",
+    "Licensed movies and TV shows",
+    "Documentaries",
+    "Interactive content"
   ],
-  "extracted_at": "2026-02-24 17:04:31",
+  "extracted_at": "2026-02-25 17:00:43",
   "sources": [
     {
       "source": "Wikipedia",
@@ -53,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.businessofapps.com/data/netflix-statistics/",
+      "url": "https://www.bloomberg.com/news/newsletters/2025-03-31/asia-s-richest-man-takes-aim-at-netflix-youtube-in-india",
       "query": "Netflix, Inc. major customers clients",
-      "snippet": "Jan 7, 2026 · Netflix generated $39 billion revenue in 2024, an increase of 15.7% on 2023. It reported its first quarterly decline in Q4 2022."
+      "snippet": "In 2018, two years after introducing Netflix to India, co-founder Reed Hastings predicted his company would one day have 100 million customers in the "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ir.netflix.net/ir-overview/profile/default.aspx",
+      "url": "https://www.newsmax.com/newsfront/netflix-warner-bros-merger/2026/02/23/id/1247099/",
       "query": "Netflix, Inc. major customers clients",
-      "snippet": "Netflix is one of the world's leading entertainment services offering TV series, films, games and live programming across a wide variety of genres and"
+      "snippet": "The Justice Department has opened a sweeping Section 2 probe into Netflix Inc . as part of its review of the company's proposed $72 billion takeover o"
     }
   ]
 }

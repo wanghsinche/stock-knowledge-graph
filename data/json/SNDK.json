@@ -1,37 +1,35 @@
 {
   "ticker": "SNDK",
-  "company_name": "SanDisk Corporation",
-  "sector": "Technology / Computer Hardware",
-  "industry": "Computer Storage",
+  "company_name": "Sandisk Corporation",
+  "sector": "Technology",
+  "industry": "Computer Hardware",
   "upstream": [
     "MU",
     "005930.KS",
     "SK Hynix",
-    "WDC",
-    "INTC"
+    "Toshiba",
+    "WDC"
   ],
   "downstream": [
-    "AAPL",
-    "MSFT",
     "DELL",
     "HPQ",
-    "AMZN"
+    "Lenovo",
+    "AAPL",
+    "MSFT"
   ],
   "competitors": [
-    "005930.KS",
-    "MU",
-    "WDC",
-    "Kingston Technology",
-    "Crucial"
+    "Kingston",
+    "Crucial",
+    "Corsair",
+    "Lexar",
+    "PNY"
   ],
   "key_products": [
     "Memory cards",
     "USB flash drives",
-    "Solid-state drives",
-    "SD cards",
-    "MicroSD cards"
+    "Solid‑state drives"
   ],
-  "extracted_at": "2026-02-24 16:56:26",
+  "extracted_at": "2026-02-25 16:59:45",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,15 +39,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Sandisk",
+      "url": "https://en.wikipedia.org/wiki/SanDisk",
       "query": "Sandisk Corporation suppliers manufacturers",
-      "snippet": "Sandisk Corporation is an American multinational computer technology company based in Milpitas, California, that designs and manufactures flash memory"
+      "snippet": "Sandisk Corporation (sometimes stylized as SanDisk , with the D capitalized in camelCase) is an American multinational computer technology company bas"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.sandisk.com/company/distributors",
       "query": "Sandisk Corporation suppliers manufacturers",
-      "snippet": "4.7 · Free delivery over $50 · 30-day returns Find Sandisk Distributors & Resellers. Purchase from your preferred Sandisk authorized partner. Region. "
+      "snippet": "Sandisk's automotive-grade products are developed in alignment with key industry standards and quality frameworks. These standards guide our design, d"
     },
     {
       "source": "DuckDuckGo",

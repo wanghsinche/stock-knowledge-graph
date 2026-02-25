@@ -3,8 +3,8 @@ ticker: INTC
 company: Intel Corporation
 sector: Technology
 industry: Semiconductors
-extracted_at: 2026-02-24 16:58:28
-last_updated: 2026-02-24
+extracted_at: 2026-02-25 17:02:24
+last_updated: 2026-02-25
 ---
 
 # INTC - Intel Corporation
@@ -12,23 +12,23 @@ last_updated: 2026-02-24
 ## 基本信息
 
 - **所属行业**: Technology / Semiconductors
-- **提取时间**: 2026-02-24 16:58:28
+- **提取时间**: 2026-02-25 17:02:24
 
 ## 产业链关系
 
 ### 上游供应商
-- [[ASML]]
 - [[AMAT]]
+- [[ASML]]
 - [[LRCX]]
 - [[Tokyo Electron]]
-- [[GlobalFoundries]]
+- [[KLA]]
 
 ### 下游客户
+- [[AAPL]]
 - [[DELL]]
 - [[HPQ]]
-- [[Lenovo]]
-- [[AAPL]]
 - [[MSFT]]
+- [[AMZN]]
 
 ### 竞争对手
 - [[AMD]]
@@ -38,20 +38,20 @@ last_updated: 2026-02-24
 - [[TSM]]
 
 ### 核心产品
-- [[Intel Core CPUs]]
-- [[Intel Xeon CPUs]]
-- [[Intel Arc GPUs]]
-- [[Intel FPGAs]]
-- [[Intel AI accelerators]]
+- [[Intel Core i7]]
+- [[Intel Xeon]]
+- [[Intel Pentium]]
+- [[Intel Atom]]
+- [[Intel Optane]]
 
 ## 数据来源
 
 - [Intel](https://en.wikipedia.org/wiki/Intel_Corporation)
 - [Intel Corporation suppliers manufacturers](https://en.wikipedia.org/wiki/List_of_Intel_manufacturing_sites)
-- [Intel Corporation suppliers manufacturers](https://www.intel.com/content/www/us/en/partner/showcase/partner-directory/distributor.html)
-- [Intel Corporation major customers clients](https://en.wikipedia.org/wiki/Intel)
-- [Intel Corporation major customers clients](https://newsroom.intel.com/intel-foundry/intel-foundry-gathers-customers-partners-outlines-priorities)
+- [Intel Corporation suppliers manufacturers](https://www.intel.com/content/www/us/en/supplier/overview.html)
+- [Intel Corporation major customers clients](https://www.intel.com/content/www/us/en/customer-spotlight/overview.html)
+- [Intel Corporation major customers clients](https://csimarket.com/stocks/INTC-Customers)
 
 ## 元数据
 
-- **更新日期**: 2026-02-24
+- **更新日期**: 2026-02-25

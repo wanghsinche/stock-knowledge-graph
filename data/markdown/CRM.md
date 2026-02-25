@@ -1,18 +1,18 @@
 ---
 ticker: CRM
 company: Salesforce, Inc.
-sector: Technology
-industry: Software - Application
-extracted_at: 2026-02-24 16:59:26
-last_updated: 2026-02-24
+sector: Technology / Software - Application
+industry: CRM Software
+extracted_at: 2026-02-25 17:03:20
+last_updated: 2026-02-25
 ---
 
 # CRM - Salesforce, Inc.
 
 ## 基本信息
 
-- **所属行业**: Technology / Software - Application
-- **提取时间**: 2026-02-24 16:59:26
+- **所属行业**: Technology / Software - Application / CRM Software
+- **提取时间**: 2026-02-25 17:03:20
 
 ## 产业链关系
 
@@ -24,18 +24,18 @@ last_updated: 2026-02-24
 - [[IBM]]
 
 ### 下游客户
-- [[Coca-Cola]]
-- [[Toyota]]
-- [[005930.KS]]
-- [[eBay]]
-- [[ADBE]]
+- [[Walmart]]
+- [[AMZN]]
+- [[Coca‑Cola]]
+- [[General Electric]]
+- [[MSFT]]
 
 ### 竞争对手
 - [[MSFT]]
-- [[SAP]]
 - [[ORCL]]
-- [[IBM]]
-- [[Zoho]]
+- [[SAP Customer Experience]]
+- [[HubSpot]]
+- [[Zoho CRM]]
 
 ### 核心产品
 - [[Sales Cloud]]
@@ -49,9 +49,9 @@ last_updated: 2026-02-24
 - [Salesforce](https://en.wikipedia.org/wiki/Salesforce,_Inc.)
 - [Salesforce, Inc. suppliers manufacturers](https://csimarket.com/stocks/CRM-Suppliers)
 - [Salesforce, Inc. suppliers manufacturers](https://www.salesforce.com/company/our-brands/)
-- [Salesforce, Inc. major customers clients](https://en.wikipedia.org/wiki/Salesforce)
-- [Salesforce, Inc. major customers clients](https://login.salesforce.com/)
+- [Salesforce, Inc. major customers clients](https://www.salesforce.com/customer-stories/)
+- [Salesforce, Inc. major customers clients](https://ascendix.com/blog/how-many-companies-use-salesforce/)
 
 ## 元数据
 
-- **更新日期**: 2026-02-24
+- **更新日期**: 2026-02-25

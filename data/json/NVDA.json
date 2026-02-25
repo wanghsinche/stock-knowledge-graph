@@ -8,13 +8,13 @@
     "005930.KS",
     "GlobalFoundries",
     "MU",
-    "NVDA"
+    "SK Hynix"
   ],
   "downstream": [
-    "DELL",
-    "HPQ",
-    "MSFT",
     "SONY",
+    "MSFT",
+    "AMZN",
+    "GOOGL",
     "TSLA"
   ],
   "competitors": [
@@ -22,16 +22,16 @@
     "INTC",
     "QCOM",
     "AVGO",
-    "ARM Holdings"
+    "AAPL"
   ],
   "key_products": [
     "GeForce GPUs",
     "Quadro/RTX GPUs",
-    "Tesla/Datacenter GPUs",
-    "NVIDIA Jetson SoCs",
+    "Tesla GPUs",
+    "Jetson SoCs",
     "CUDA API"
   ],
-  "extracted_at": "2026-02-24 16:55:49",
+  "extracted_at": "2026-02-25 16:59:17",
   "sources": [
     {
       "source": "Wikipedia",
@@ -53,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/news/nvidias-biggest-customers-095700428.html",
+      "url": "https://www.fool.com/investing/2025/06/26/who-are-nvidias-biggest-customers/",
       "query": "NVIDIA Corporation major customers clients",
-      "snippet": "Jun 26, 2025 · Nvidia has amassed an impressive list of customers, which includes top AI developers like Amazon, Microsoft, and Alphabet. Nvidia's cus"
+      "snippet": "Jun 26, 2025 · Who Are Nvidia 's Biggest Customers ? Nvidia supplies the most powerful data center chips in the world for artificial intelligence (AI)"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.linkedin.com/posts/jasoncalacanis_nvidia-is-the-worlds-most-valuable-company-activity-7367360878221877249-Jwbn",
+      "url": "https://economictimes.indiatimes.com/news/international/us/two-mystery-customers-made-up-40-of-nvidias-revenue-who-are-they/articleshow/123635412.cms",
       "query": "NVIDIA Corporation major customers clients",
-      "snippet": "Aug 29, 2025 · NVIDIA is the world's most valuable company, but it's powered by JUST A FEW actual customers. Just ONE MYSTERY CUSTOMER (come on, it's "
+      "snippet": "Sep 1, 2025 · Nvidia ’ s latest earnings grabbed headlines with a jaw-dropping $46.7 billion in quarterly revenue, but buried inside the SEC filing wa"
     }
   ]
 }

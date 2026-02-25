@@ -1,37 +1,37 @@
 {
   "ticker": "STX",
   "company_name": "Seagate Technology Holdings plc",
-  "sector": "Technology",
-  "industry": "Computer Hardware",
+  "sector": "Technology / Computer Hardware",
+  "industry": "Hard Disk Drives / Storage Solutions",
   "upstream": [
-    "MU",
-    "005930.KS",
-    "TDK Corporation",
-    "Toshiba",
-    "WDC"
+    "Semiconductor manufacturers",
+    "Printed circuit board suppliers",
+    "META",
+    "Electronic component suppliers",
+    "Packaging suppliers"
   ],
   "downstream": [
-    "MSFT",
+    "DELL",
+    "HPQ",
+    "Lenovo Group",
     "AAPL",
-    "AMZN",
-    "GOOGL",
-    "DELL"
+    "MSFT"
   ],
   "competitors": [
     "WDC",
-    "Toshiba",
+    "Toshiba (Kioxia)",
     "005930.KS",
-    "IBM",
-    "MU"
+    "MU",
+    "IBM"
   ],
   "key_products": [
-    "Hard Disk Drives (HDD)",
-    "Solid State Drives (SSD)",
-    "Enterprise Storage Solutions",
-    "Cloud Storage Solutions",
-    "Data Center Storage Systems"
+    "Enterprise HDDs",
+    "Desktop HDDs",
+    "Portable HDDs",
+    "SSD solutions",
+    "Data center storage"
   ],
-  "extracted_at": "2026-02-19 16:48:44",
+  "extracted_at": "2026-02-25 17:07:06",
   "sources": [
     {
       "source": "Wikipedia",
@@ -53,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Seagate_Technology",
+      "url": "https://seagate.com/",
       "query": "Seagate Technology Holdings plc major customers clients",
-      "snippet": "Seagate Technology Holdings plc is an American data storage company. It was incorporated in 1978 as Shugart Technology and commenced business in 1979."
+      "snippet": "Seagate Technology Holdings PLC ."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/STX-Customers",
+      "url": "https://csimarket.com/stocks/STX-Return-on-Assets-ROA.html",
       "query": "Seagate Technology Holdings plc major customers clients",
-      "snippet": "Seagate Technology Holdings Plc customers and markets, results by customer and performance relative to STX, by company and industry - CSIMarket"
+      "snippet": "Seagate Technology Holdings Plc Customers Demand. STX Customers Expenditure Growth Rates. STX Customers Performance."
     }
   ]
 }

@@ -5,33 +5,33 @@
   "industry": "Information Technology Services",
   "upstream": [
     "AMD",
-    "NVDA",
-    "Software vendors (e.g., Red Hat, VMware)",
+    "DELL",
     "MSFT",
-    "DELL"
+    "MSFT",
+    "Research partners (e.g., MIT, Stanford)"
   ],
   "downstream": [
-    "U.S. federal and state governments",
-    "Large enterprises (e.g., banks, insurance, telecom)",
-    "Healthcare organizations",
-    "Retail and consumer goods companies",
-    "Academic and research institutions"
+    "U.S. Government agencies",
+    "Major banks (e.g., JPMorgan Chase, Bank of America)",
+    "Healthcare institutions (e.g., Mayo Clinic, UnitedHealth Group)",
+    "CAT",
+    "Manufacturing firms (e.g., General Electric, Siemens)"
   ],
   "competitors": [
     "MSFT",
     "Accenture",
     "ORCL",
     "SAP",
-    "CSCO"
+    "AMZN"
   ],
   "key_products": [
-    "IBM Cloud (public, private, hybrid)",
-    "IBM Watson AI & Cognitive Services",
+    "IBM Cloud",
+    "IBM Watson AI",
     "IBM Power Systems",
-    "IBM Security & Identity Governance",
-    "IBM Analytics & Data Science platforms"
+    "IBM Security",
+    "IBM Analytics"
   ],
-  "extracted_at": "2026-02-24 16:58:53",
+  "extracted_at": "2026-02-25 17:04:53",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,25 +43,25 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/IBM",
       "query": "International Business Machines Corporation suppliers manufacturers",
-      "snippet": "International Business Machines Corporation . Logo since 1972, designed by Paul Rand. IBM CHQ in Armonk, New York, in 2014.It was renamed \" Internatio"
+      "snippet": "International Business Machines Corporation, doing business as IBM (nicknamed Big Blue), is an American multinational technology company headquartered"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.alibaba.com/",
+      "url": "https://centreforaviation.com/data/profiles/suppliers/international-business-machines-corp-ibm",
       "query": "International Business Machines Corporation suppliers manufacturers",
-      "snippet": "Find quality Manufacturers , Suppliers , Exporters, Importers, Buyers, Wholesalers, Products and Trade Leads from our award-winning International Trad"
+      "snippet": "International Business Machines Corp. (IBM) is a global IT services and consulting corporation headquartered in New York, United States. Missing: manu"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/IBM",
+      "query": "International Business Machines Corporation major customers clients",
+      "snippet": "Also that year, IBM began announcing several major partnerships with other companies, including Apple Inc., Twitter, Facebook, Tencent ..."
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.quora.com/Who-are-IBMs-biggest-customers",
       "query": "International Business Machines Corporation major customers clients",
       "snippet": "Sep 8, 2011 · IBM does business with the American government (very large), the Chinese government (extremely large), Walmart (largest revenue company "
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.trefis.com/data/companies/IBM/?source=forbes",
-      "query": "International Business Machines Corporation major customers clients",
-      "snippet": "5 days ago · International Business Machines Corporation provides integrated solutions and services worldwide. The company operates through four busin"
     }
   ]
 }

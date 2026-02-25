@@ -1,37 +1,37 @@
 {
   "ticker": "AVGO",
   "company_name": "Broadcom Inc.",
-  "sector": "Technology",
+  "sector": "Technology / Semiconductors",
   "industry": "Semiconductors",
   "upstream": [
-    "TSM",
-    "MU",
+    "ASML",
     "AMAT",
-    "Raw material suppliers (e.g., silicon, copper)",
-    "Design IP providers (e.g., ARM, Cadence)"
+    "LRCX",
+    "Tokyo Electron",
+    "KLA"
   ],
   "downstream": [
     "CSCO",
-    "Networking equipment vendors (e.g., Juniper, Arista)",
-    "AAPL",
-    "Broadband equipment vendors (e.g., Nokia, ARRIS)",
-    "Industrial automation companies (e.g., Siemens, Schneider Electric)"
+    "DELL",
+    "HPQ",
+    "AMZN",
+    "MSFT"
   ],
   "competitors": [
     "QCOM",
     "INTC",
     "NVDA",
-    "MRVL",
-    "TXN"
+    "TXN",
+    "MRVL"
   ],
   "key_products": [
-    "Broadcom BCM series chips (Wi‑Fi, Ethernet, Bluetooth)",
-    "Broadcom storage controllers (e.g., SATA, NVMe)",
-    "Broadcom networking ASICs (e.g., Ethernet, 10GbE)",
-    "Broadcom infrastructure software solutions",
-    "Broadcom wireless modules for mobile devices"
+    "Broadcom Ethernet Switch ASICs",
+    "Broadcom Wi‑Fi/Bluetooth chips",
+    "Broadcom Fibre Channel storage controllers",
+    "Broadcom broadband modems",
+    "Broadcom data center networking solutions"
   ],
-  "extracted_at": "2026-02-24 16:57:58",
+  "extracted_at": "2026-02-25 17:01:12",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,25 +43,25 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Broadcom",
       "query": "Broadcom Inc. suppliers manufacturers",
-      "snippet": "Broadcom Inc. is an American multinational designer, developer, manufacturer, and global supplier of a wide range of semiconductor and infrastructure "
+      "snippet": "Broadcom Inc . is an American multinational designer, developer, manufacturer , and global supplier of a wide range of semiconductor and infrastructur"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.broadcom.com/products",
+      "url": "https://www.broadcom.com/how-to-buy/partner-distributor-lookup",
       "query": "Broadcom Inc. suppliers manufacturers",
-      "snippet": "Broadcom's diverse product portfolio includes leading semiconductor and infrastructure software solutions."
+      "snippet": "The Partner Locator will help you find the local expertise you need to be successful with Broadcom solutions. Begin searching by typing what you're lo"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Broadcom",
+      "url": "https://csimarket.com/stocks/AVGO-Customers",
       "query": "Broadcom Inc. major customers clients",
-      "snippet": "Broadcom Inc. is an American multinational designer, developer, manufacturer, and global supplier of a wide range of semiconductor and infrastructure "
+      "snippet": "1 day ago · Sales to our five largest customers represented 48.3%. Sales to Samsung represented 21.3%. Sales to Apple represented 13.3%."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/news/broadcom-10b-mystery-customer-underscores-103000515.html",
+      "url": "https://www.appsruntheworld.com/customers-database/vendors/view/broadcom",
       "query": "Broadcom Inc. major customers clients",
-      "snippet": "Oct 14, 2025 · Broadcom is tight-lipped about its client list, but analysts believe its three biggest customers are Google, Meta and TikTok-parent Byt"
+      "snippet": "List of companies using or evaluating Broadcom applications, with details on their revenues, employees, industries, and locations."
     }
   ]
 }
