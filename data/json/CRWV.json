@@ -2,36 +2,36 @@
   "ticker": "CRWV",
   "company_name": "CoreWeave, Inc.",
   "sector": "Technology / Software - Infrastructure",
-  "industry": "AI Cloud Computing",
+  "industry": "Artificial Intelligence Cloud Computing",
   "upstream": [
     "NVDA",
     "AMD",
     "INTC",
-    "QCOM",
+    "TSM",
     "005930.KS"
   ],
   "downstream": [
-    "OpenAI",
-    "MSFT",
-    "GOOGL",
-    "AMZN",
-    "IBM"
+    "AI developers",
+    "Enterprises",
+    "Research institutions",
+    "Universities",
+    "Startups"
   ],
   "competitors": [
-    "NVDA",
-    "GOOGL",
     "AMZN",
     "MSFT",
+    "GOOGL",
+    "NVDA",
     "IBM"
   ],
   "key_products": [
-    "GPU‑based AI compute clusters",
-    "Managed GPU cloud infrastructure",
+    "GPU-based AI cloud computing services",
+    "AI hyperscaler platform",
+    "GPU infrastructure and clusters",
     "Chip management software",
-    "AI workload orchestration platform",
-    "High‑performance networking solutions"
+    "AI compute platform"
   ],
-  "extracted_at": "2026-02-25 17:04:26",
+  "extracted_at": "2026-02-26 16:51:16",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,13 +43,13 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/CoreWeave",
       "query": "CoreWeave, Inc. suppliers manufacturers",
-      "snippet": "CoreWeave , Inc . is an American artificial intelligence cloud-computing company based in Livingston, New Jersey. It specializes in providing cloud-ba"
+      "snippet": "CoreWeave , Inc . is an American artificial intelligence (AI) cloud-computing company based in Livingston, New Jersey. It specializes in providing clo"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.coreweave.com/",
+      "url": "https://www.coreweave.com/about-us",
       "query": "CoreWeave, Inc. suppliers manufacturers",
-      "snippet": "CoreWeave screenshot - 20 Meilleurs Fournisseurs de Services Cloud Gérés..."
+      "snippet": "About CoreWeave The AI Hyperscaler™ empowering the future CoreWeave is a cloud purpose-built for scaling, supporting, and accelerating GenAI. We’re a "
     },
     {
       "source": "DuckDuckGo",
@@ -59,9 +59,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.crn.com/news/ai/2025/7-things-to-know-about-coreweave-s-s-1-top-customers-revenue-and-more",
+      "url": "https://www.appsruntheworld.com/customers-database/products/view/coreweave-compute-services",
       "query": "CoreWeave, Inc. major customers clients",
-      "snippet": "What follows are seven highlights from CoreWeave's S-1, including how much revenue it makes from top customers such as Microsoft, how its revenue and "
+      "snippet": "Since 2010, our global team of researchers has been studying CoreWeave Compute Services customers around the world, aggregating massive amounts of dat"
     }
   ]
 }

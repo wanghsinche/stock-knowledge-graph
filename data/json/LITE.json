@@ -3,11 +3,35 @@
   "company_name": "Lumentum Holdings Inc.",
   "sector": "Technology",
   "industry": "Communication Equipment",
-  "upstream": [],
-  "downstream": [],
-  "competitors": [],
-  "key_products": [],
-  "extracted_at": "2026-02-25 17:01:45",
+  "upstream": [
+    "II-VI Incorporated",
+    "Coherent Inc.",
+    "Laser diode manufacturers",
+    "Fiber optic component suppliers",
+    "Semiconductor component suppliers"
+  ],
+  "downstream": [
+    "CSCO",
+    "Huawei Technologies",
+    "Nokia",
+    "Ericsson",
+    "Data center equipment vendors"
+  ],
+  "competitors": [
+    "II-VI Incorporated",
+    "Coherent Inc.",
+    "Thorlabs",
+    "Avago Technologies",
+    "Lumen Technologies"
+  ],
+  "key_products": [
+    "Optical transceivers",
+    "Laser diodes",
+    "Photodetectors",
+    "Optical amplifiers",
+    "Optical sensors"
+  ],
+  "extracted_at": "2026-02-26 16:48:04",
   "sources": [
     {
       "source": "Wikipedia",
@@ -17,15 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.lumentum.com/en/company/distributors",
+      "url": "https://csimarket.com/stocks/LITE-Suppliers",
       "query": "Lumentum Holdings Inc. suppliers manufacturers",
-      "snippet": "Please contact customer service and they will direct you to a distributor near you. Lumentum is a global leader in optical and photonic products, enab"
+      "snippet": "Lumentum Holdings Inc supply chain, list and performance of Lumentum Holdings Incs' suppliers - CSIMarket"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/LITE-Suppliers",
+      "url": "https://www.lumentum.com/en/company",
       "query": "Lumentum Holdings Inc. suppliers manufacturers",
-      "snippet": "Feb 9, 2026 · Lumentum Holdings Inc supply chain, list and performance of Lumentum Holdings Incs ' suppliers - CSIMarket"
+      "snippet": "Company Lumentum is illuminating the networks of tomorrow with breakthrough optical and photonic technologies that power innovation across AI, cloud, "
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://de.investing.com/equities/lumentum-holdings-inc",
+      "query": "Lumentum Holdings Inc. major customers clients",
+      "snippet": "Die Frage, ob Lumentum Holdings Inc - oder irgendeine andere Aktie - ein guter Kauf ist, erfordert eine gründliche Analyse. Melden Sie sich dazu bei I"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://finance.yahoo.com/news/lumentum-holdings-lite-q2-earnings-124312247.html",
+      "query": "Lumentum Holdings Inc. major customers clients",
+      "snippet": "Lumentum Holdings Inc . Price, Consensus and EPS Surprise | Lumentum Holdings Inc . Quote. Quarter Details. Optical Communications (87.1% of total rev"
     }
   ]
 }

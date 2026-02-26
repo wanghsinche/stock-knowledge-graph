@@ -6,32 +6,30 @@
   "upstream": [
     "AMZN",
     "MSFT",
-    "GOOGL",
-    "Snowflake Partners",
-    "Hardware vendors"
+    "GOOGL"
   ],
   "downstream": [
-    "Capital One",
+    "CRM",
     "ADBE",
-    "SONY",
-    "eBay",
-    "NFLX"
+    "NFLX",
+    "Capital One",
+    "HSBC"
   ],
   "competitors": [
     "AMZN",
     "GOOGL",
     "MSFT",
     "Databricks",
-    "Snowplow Analytics"
+    "Teradata"
   ],
   "key_products": [
     "Snowflake Data Cloud",
+    "Snowflake Data Warehouse",
     "Snowflake Data Marketplace",
     "Snowflake Data Sharing",
-    "Snowflake Data Engineering",
-    "Snowflake Data Warehousing"
+    "Snowflake Snowpark"
   ],
-  "extracted_at": "2026-02-23 18:10:00",
+  "extracted_at": "2026-02-26 16:48:48",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,15 +39,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.snowflake.com/en/why-snowflake/partners/all-partners/",
+      "url": "https://en.wikipedia.org/wiki/Snowflake_Inc.",
       "query": "Snowflake Inc. suppliers manufacturers",
-      "snippet": "Snowflake Partners Find Partners, Apps, and Solutions that maximize your Snowflake deployment."
+      "snippet": "Snowflake booth Snowflake Inc. is an American cloud-based data platform company founded in San Mateo, California, and headquartered in Bozeman, Montan"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/SNOW-Suppliers",
+      "url": "https://www.snowflake.com/en/solutions/industries/manufacturing/partners/",
       "query": "Snowflake Inc. suppliers manufacturers",
-      "snippet": "Dec 9, 2025 · Snowflake Inc 's Comment on Supply Chain Our partnership strategy is focused on delivering complete end-to-end solutions for our custome"
+      "snippet": "Manufacturing Partners - Snowflake"
     },
     {
       "source": "DuckDuckGo",
@@ -59,9 +57,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/news/snowflake-rides-enterprise-ai-adoption-160900367.html",
+      "url": "https://finance.yahoo.com/news/investors-reacting-snowflake-snow-rising-021137720.html",
       "query": "Snowflake Inc. major customers clients",
-      "snippet": "Snowflake ’s strategic partnerships with major players like Google Cloud, SAP, Anthropic, and AWS further bolster its position in the enterprise AI ma"
+      "snippet": "Snowflake Investment Narrative Recap. To own Snowflake today, you need to believe its AI Data Cloud can turn rapid revenue growth into a durable, high"
     }
   ]
 }

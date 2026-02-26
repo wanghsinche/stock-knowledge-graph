@@ -7,22 +7,22 @@
     "AMZN",
     "MSFT",
     "GOOGL",
-    "Stripe",
-    "Square"
+    "DELL",
+    "ADBE"
   ],
   "downstream": [
-    "Small businesses",
-    "Accountants",
-    "Tax professionals",
-    "Individual consumers",
-    "Marketing agencies"
+    "Small and medium‑size businesses using QuickBooks",
+    "Individual taxpayers using TurboTax",
+    "Accountants and tax professionals",
+    "Credit Karma users for personal finance",
+    "Email marketers using Mailchimp"
   ],
   "competitors": [
-    "Sage",
-    "Xero",
-    "FreshBooks",
-    "Wave",
-    "Zoho Books"
+    "Xero (accounting software)",
+    "Sage (accounting and payroll)",
+    "FreshBooks (cloud accounting)",
+    "Wave (free accounting for SMBs)",
+    "Zoho Books (cloud accounting)"
   ],
   "key_products": [
     "TurboTax",
@@ -31,7 +31,7 @@
     "Mailchimp",
     "Intuit Payments"
   ],
-  "extracted_at": "2026-02-25 17:07:36",
+  "extracted_at": "2026-02-26 16:48:30",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/INTU-Suppliers",
+      "url": "https://investors.intuit.com/_assets/_95ad7170fb600fdc9a2c5384b928b8c2/intuit/db/933/10235/file/2023.05.21-Intuit+Inc.+and+Intuit+Canada+ULC-Modern+Slavery+Statement+(FY23+Supply+Chains+Act)-Executed.pdf",
       "query": "Intuit Inc. suppliers manufacturers",
-      "snippet": "Intuit Inc supply chain, list and performance of Intuit Incs ' suppliers - CSIMarket."
+      "snippet": "Country risk: Suppliers may be in low-risk jurisdictions such as Canada, the UK, the EU, or the USA, but they may use overseas operations such as for "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://investors.intuit.com/company-information/faq",
+      "url": "https://quickbooks.intuit.com/r/supply-chain/5-ways-to-find-international-manufacturers/",
       "query": "Intuit Inc. suppliers manufacturers",
-      "snippet": "Supplier Partner Programs. Diversity and Inclusion. Corporate Responsibility. Intuit began operations in March 1983 and was incorporated in California"
+      "snippet": "There are many trusted online resources such as Alibaba.com, Thomasnet.com and Tdctrade.com that help you build a network of suppliers, manufacturers,"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Intuit",
       "query": "Intuit Inc. major customers clients",
-      "snippet": "Intuit Inc. is an American multinational business software company that specializes in financial software. Headquartered in Mountain View, California,"
+      "snippet": "Intuit Inc . is an American multinational business software company that specializes in financial software. Headquartered in Mountain View, California"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://csimarket.com/stocks/INTU-Customers",
       "query": "Intuit Inc. major customers clients",
-      "snippet": "Intuit Inc's Comment on Sales, Marketing and Customers Markets Our primary target customers are small businesses, consumers, and accounting profession"
+      "snippet": "Intuit Inc 's Comment on Sales, Marketing and Customers Markets Our primary target customers are small businesses, consumers, and accounting professio"
     }
   ]
 }

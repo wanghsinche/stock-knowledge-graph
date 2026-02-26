@@ -4,34 +4,34 @@
   "sector": "Technology",
   "industry": "Software - Infrastructure",
   "upstream": [
-    "AMZN",
-    "MSFT",
-    "GOOGL",
+    "DELL",
     "IBM",
-    "DELL"
+    "MSFT",
+    "AMZN",
+    "GOOGL"
   ],
   "downstream": [
     "U.S. Department of Defense",
-    "Federal Bureau of Investigation",
-    "Walmart",
-    "AMZN",
-    "UnitedHealth Group"
+    "U.S. Department of Homeland Security",
+    "British Ministry of Defence",
+    "Airbus",
+    "Siemens"
   ],
   "competitors": [
+    "IBM",
+    "MSFT",
+    "GOOGL",
     "Snowflake",
-    "Databricks",
-    "Splunk",
-    "Qlik",
-    "Alteryx"
+    "Databricks"
   ],
   "key_products": [
     "Gotham",
     "Foundry",
-    "Apollo",
     "Palantir Platform",
-    "Data Integration Suite"
+    "Palantir Data Integration",
+    "Palantir Analytics"
   ],
-  "extracted_at": "2026-02-25 17:00:13",
+  "extracted_at": "2026-02-26 16:47:29",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/PLTR/",
+      "url": "https://en.wikipedia.org/wiki/Palantir_Technologies",
       "query": "Palantir Technologies Inc. suppliers manufacturers",
-      "snippet": "Find the latest Palantir Technologies Inc . (PLTR) stock quote, history, news and other vital information to help you with your stock trading and inve"
+      "snippet": "May 3, 2010 - According to the Journal, for two years the company continuously revised its technology based on the demands of analysts from the intell"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://data.ark.ai/analysis/suppliers/palantir-usg-inc-supplier-profile-overview/",
+      "query": "Palantir Technologies Inc. suppliers manufacturers",
+      "snippet": "Ark.ai conducted a vendor and supply chain analysis of Palantir Technologies Inc., examining their subcontractors, subsidiaries, list of suppliers, ma"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/Palantir_Technologies",
+      "query": "Palantir Technologies Inc. major customers clients",
+      "snippet": "Palantir Technologies Inc . is an American publicly traded company that develops data integration and analytics platforms enabling government agencies"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.marketwatch.com/investing/stock/pltr",
-      "query": "Palantir Technologies Inc. suppliers manufacturers",
+      "query": "Palantir Technologies Inc. major customers clients",
       "snippet": "PLTR | Complete Palantir Technologies Inc . stock news by MarketWatch. View real-time stock prices and stock quotes for a full financial overview."
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.zoominfo.com/tech/23803/palantir-tech-by-revenue",
-      "query": "Palantir Technologies Inc. major customers clients",
-      "snippet": "From the data gathered in Zoominfo, Walmart, Amazon, UnitedHealth Group, CVS Health, ExxonMobil, are using the Palantir technology. You can see the fu"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://theirstack.com/en/technology/palantir",
-      "query": "Palantir Technologies Inc. major customers clients",
-      "snippet": "We have data on 3,227 companies and users that use Palantir. Our Palantir users and customers list is available for download and comes enriched with v"
     }
   ]
 }

@@ -1,37 +1,39 @@
 {
   "ticker": "TSLA",
   "company_name": "Tesla, Inc.",
-  "sector": "Consumer Cyclical / Auto Manufacturers",
-  "industry": "Automotive / Clean Energy",
+  "sector": "Consumer Cyclical",
+  "industry": "Auto Manufacturers",
   "upstream": [
     "Panasonic",
     "LG Chem",
     "CAT",
     "005930.KS",
-    "TSLA"
+    "Bosch"
   ],
   "downstream": [
-    "Individual consumers",
-    "Ride‑hailing fleets (Uber, Lyft)",
-    "AMZN",
-    "Government fleet contracts",
-    "Commercial fleet operators"
+    "Individual consumers (private car buyers)",
+    "Commercial fleet operators",
+    "Utility companies (solar & energy storage)",
+    "Automotive dealers",
+    "Government agencies"
   ],
   "competitors": [
-    "Ford",
     "General Motors",
+    "Ford",
     "Volkswagen",
-    "Toyota",
-    "Hyundai"
+    "Hyundai",
+    "Nissan"
   ],
   "key_products": [
     "Model S",
     "Model 3",
     "Model X",
     "Model Y",
+    "Powerwall",
+    "Solar Roof",
     "Cybertruck"
   ],
-  "extracted_at": "2026-02-25 16:59:28",
+  "extracted_at": "2026-02-26 16:46:03",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,25 +45,25 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Tesla,_Inc.",
       "query": "Tesla, Inc. suppliers manufacturers",
-      "snippet": "3 days ago - The practice of vertical integration is rare in the automotive industry, where companies typically outsource 80% of components to supplie"
+      "snippet": "Tesla , Inc . is an American multinational automotive and clean energy company. Tesla was incorporated in July 2003 by Martin Eberhard and Marc Tarpen"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.investopedia.com/ask/answers/052815/who-are-teslas-tsla-main-suppliers.asp",
+      "url": "https://www.linkedin.com/company/tesla-motors",
       "query": "Tesla, Inc. suppliers manufacturers",
-      "snippet": "November 4, 2025 - Tesla manufactures key components like the electric motor, battery pack, and charger, but relies on suppliers for other parts. Key "
+      "snippet": "Tesla . Motor Vehicle Manufacturing . Austin, Texas 12,327,194 followers. Tesla is accelerating the world’s transition to sustainable abundance. To ac"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://businessmodelanalyst.com/tesla-target-market/",
+      "url": "https://en.wikipedia.org/wiki/Tesla,_Inc.",
       "query": "Tesla, Inc. major customers clients",
-      "snippet": "Nov 7, 2024 · This article explores the intricacies of Tesla target market, analyzing the demographic, geographic, psychographic, and behavioral facto"
+      "snippet": "1 day ago - Tesla Energy products include solar panels (built by other companies for Tesla), the Tesla Solar Roof (a solar shingle system), and the Te"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/TSLA-Customers",
+      "url": "https://www.tesla.com/customer-stories",
       "query": "Tesla, Inc. major customers clients",
-      "snippet": "We currently sell our cars primarily to individual customers . We have strategic or commercial relationships with Daimler, Toyota, and Panasonic. We c"
+      "snippet": "Incentives · Support · Partner with Tesla · Commercial · Utilities · Learn · LearnShop · LearnFind · LearnOrder · LearnOrder · Help Me Charge · Chargi"
     }
   ]
 }

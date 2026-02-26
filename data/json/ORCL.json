@@ -6,32 +6,32 @@
   "upstream": [
     "INTC",
     "AMD",
-    "NVDA",
-    "CSCO",
-    "DELL"
+    "DELL",
+    "HPQ",
+    "CSCO"
   ],
   "downstream": [
-    "Walmart",
     "JPMorgan Chase",
     "Bank of America",
-    "Coca‑Cola",
-    "UnitedHealth Group"
+    "Walmart",
+    "AT&T",
+    "Verizon"
   ],
   "competitors": [
     "MSFT",
     "AMZN",
     "IBM",
     "SAP",
-    "GOOGL"
+    "CRM"
   ],
   "key_products": [
     "Oracle Database",
     "Oracle Cloud Infrastructure",
-    "Oracle Autonomous Database",
-    "Oracle ERP Cloud",
-    "Oracle Analytics Cloud"
+    "Oracle E‑Business Suite",
+    "Oracle Fusion Applications",
+    "Oracle Autonomous Database"
   ],
-  "extracted_at": "2026-02-25 17:01:54",
+  "extracted_at": "2026-02-26 16:49:35",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Oracle_Corporation",
+      "url": "https://en.wikipedia.org/wiki/List_of_acquisitions_by_Oracle",
       "query": "Oracle Corporation suppliers manufacturers",
-      "snippet": "Oracle Corporation is an American multinational technology company headquartered in Austin, Texas. Co-founded in Santa Clara, California by Bob Miner,"
+      "snippet": "List of acquisitions by Oracle This is a listing of Oracle Corporation 's corporate acquisitions, including acquisitions of both companies and individ"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ru.wikipedia.org/wiki/Oracle",
+      "url": "https://www.oracle.com/corporate/suppliers/",
       "query": "Oracle Corporation suppliers manufacturers",
-      "snippet": "Oracle ( Oracle Corporation ) — американская корпорация, второй по размеру выручки разработчик программного обеспечения (после Microsoft), четвёртая к"
+      "snippet": "Doing Business with Oracle Oracle iSupplier Portal (iSP) is a secured self-service tool, which provides Oracle's suppliers with the ability to use a s"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.oracle.com/customers/",
       "query": "Oracle Corporation major customers clients",
-      "snippet": "Innovation, ease of use, better results—those are just some of the reasons organizations in all industries and of all sizes rely on Oracle to help the"
+      "snippet": "Hear from our customers to learn what makes Oracle the right choice for them, and why we're the right partner for your business."
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.thomsondata.com/customer-base/oracle.php",
       "query": "Oracle Corporation major customers clients",
-      "snippet": "Thomson Data makes it easy by offering an accurate and up-to-date list of companies that use Oracle. This list allows you to identify Oracle customers"
+      "snippet": "Technographic Data of Companies That Use Oracle Oracle Customers List by Industry Different industries use Oracle technology for their business. Looki"
     }
   ]
 }

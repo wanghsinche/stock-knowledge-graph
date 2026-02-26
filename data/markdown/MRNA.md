@@ -3,8 +3,8 @@ ticker: MRNA
 company: Moderna, Inc.
 sector: Healthcare
 industry: Biotechnology
-extracted_at: 2026-02-25 17:07:56
-last_updated: 2026-02-25
+extracted_at: 2026-02-26 16:54:19
+last_updated: 2026-02-26
 ---
 
 # MRNA - Moderna, Inc.
@@ -12,23 +12,23 @@ last_updated: 2026-02-25
 ## 基本信息
 
 - **所属行业**: Healthcare / Biotechnology
-- **提取时间**: 2026-02-25 17:07:56
+- **提取时间**: 2026-02-26 16:54:19
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Nucleic acid suppliers]]
-- [[Lipid nanoparticle manufacturers]]
-- [[Cell culture media suppliers]]
-- [[Contract manufacturing organizations (CMOs)]]
-- [[Equipment suppliers]]
+- [[Nucleic acid suppliers (e.g., Thermo Fisher Scientific)]]
+- [[Lipid nanoparticle manufacturers (e.g., Acuitas Therapeutics)]]
+- [[Cell culture media suppliers (e.g., Lonza)]]
+- [[Plasmid DNA providers (e.g., GenScript)]]
+- [[Enzyme and reagent suppliers (e.g., Sigma‑Aldrich)]]
 
 ### 下游客户
-- [[Healthcare providers]]
-- [[Government health agencies]]
-- [[Pharmaceutical distributors]]
-- [[Hospitals]]
-- [[Insurance companies]]
+- [[U.S. Department of Health and Human Services]]
+- [[European Medicines Agency]]
+- [[National Institutes of Health]]
+- [[Hospitals and clinics worldwide]]
+- [[Pharmaceutical partners (e.g., Pfizer, BioNTech)]]
 
 ### 竞争对手
 - [[Pfizer]]
@@ -39,19 +39,19 @@ last_updated: 2026-02-25
 
 ### 核心产品
 - [[Spikevax (COVID‑19 vaccine)]]
-- [[mRNA‑1273]]
+- [[mRNA‑1273 (COVID‑19 vaccine)]]
 - [[mRNA‑4157 (cancer vaccine)]]
+- [[mRNA‑5114 (influenza vaccine)]]
 - [[mRNA‑1245 (influenza vaccine)]]
-- [[mRNA‑1273.214 (bivalent COVID‑19 vaccine)]]
 
 ## 数据来源
 
 - 
-- [Moderna, Inc. suppliers manufacturers](https://csimarket.com/stocks/MRNA-Suppliers)
 - [Moderna, Inc. suppliers manufacturers](https://modernadirect.com/authorized-distributor)
-- [Moderna, Inc. major customers clients](https://en.wikipedia.org/wiki/Moderna)
+- [Moderna, Inc. suppliers manufacturers](https://www.modernatx.com/supplier/moderna-supplier-page)
 - [Moderna, Inc. major customers clients](https://canvasbusinessmodel.com/blogs/target-market/moderna-target-market)
+- [Moderna, Inc. major customers clients](https://www.fool.com/investing/2021/11/16/why-moderna-is-fighting-its-biggest-customer/)
 
 ## 元数据
 
-- **更新日期**: 2026-02-25
+- **更新日期**: 2026-02-26

@@ -1,11 +1,11 @@
 {
   "ticker": "AVGO",
   "company_name": "Broadcom Inc.",
-  "sector": "Technology / Semiconductors",
+  "sector": "Technology",
   "industry": "Semiconductors",
   "upstream": [
-    "ASML",
     "AMAT",
+    "ASML",
     "LRCX",
     "Tokyo Electron",
     "KLA"
@@ -18,20 +18,20 @@
     "MSFT"
   ],
   "competitors": [
-    "QCOM",
     "INTC",
+    "QCOM",
     "NVDA",
-    "TXN",
-    "MRVL"
+    "AMD",
+    "TXN"
   ],
   "key_products": [
-    "Broadcom Ethernet Switch ASICs",
-    "Broadcom Wi‑Fi/Bluetooth chips",
-    "Broadcom Fibre Channel storage controllers",
-    "Broadcom broadband modems",
-    "Broadcom data center networking solutions"
+    "Ethernet controllers",
+    "Wi‑Fi chips",
+    "Broadband chips",
+    "Storage controllers",
+    "Networking ASICs"
   ],
-  "extracted_at": "2026-02-25 17:01:12",
+  "extracted_at": "2026-02-26 16:46:44",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,25 +43,25 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Broadcom",
       "query": "Broadcom Inc. suppliers manufacturers",
-      "snippet": "Broadcom Inc . is an American multinational designer, developer, manufacturer , and global supplier of a wide range of semiconductor and infrastructur"
+      "snippet": "Broadcom Inc. is an American multinational designer, developer, manufacturer , and global supplier of a wide range of semiconductor and infrastructure"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.broadcom.com/how-to-buy/partner-distributor-lookup",
       "query": "Broadcom Inc. suppliers manufacturers",
-      "snippet": "The Partner Locator will help you find the local expertise you need to be successful with Broadcom solutions. Begin searching by typing what you're lo"
+      "snippet": "Find a local reseller or global distributor of every Broadcom software solution for your business or enterprise, spanning the desktop to the Mainframe"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/Broadcom",
+      "query": "Broadcom Inc. major customers clients",
+      "snippet": "Broadcom Inc . is an American multinational designer, developer, manufacturer, and global supplier of a wide range of semiconductor and infrastructure"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://csimarket.com/stocks/AVGO-Customers",
       "query": "Broadcom Inc. major customers clients",
-      "snippet": "1 day ago · Sales to our five largest customers represented 48.3%. Sales to Samsung represented 21.3%. Sales to Apple represented 13.3%."
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.appsruntheworld.com/customers-database/vendors/view/broadcom",
-      "query": "Broadcom Inc. major customers clients",
-      "snippet": "List of companies using or evaluating Broadcom applications, with details on their revenues, employees, industries, and locations."
+      "snippet": "2 days ago · Broadcom Inc customers and markets, results by customer and performance relative to AVGO, by company and industry - CSIMarket"
     }
   ]
 }

@@ -3,8 +3,8 @@ ticker: NOW
 company: ServiceNow, Inc.
 sector: Technology
 industry: Software - Application
-extracted_at: 2026-02-24 17:06:00
-last_updated: 2026-02-24
+extracted_at: 2026-02-26 16:49:18
+last_updated: 2026-02-26
 ---
 
 # NOW - ServiceNow, Inc.
@@ -12,46 +12,43 @@ last_updated: 2026-02-24
 ## 基本信息
 
 - **所属行业**: Technology / Software - Application
-- **提取时间**: 2026-02-24 17:06:00
+- **提取时间**: 2026-02-26 16:49:18
 
 ## 产业链关系
 
 ### 上游供应商
-- [[MSFT]]
-- [[AMZN]]
-- [[GOOGL]]
-- [[ORCL]]
-- [[IBM]]
+- [[Siemens]]
+- [[Pearson]]
+- [[Dropbox]]
+- [[King's Hawaiian]]
 
 ### 下游客户
-- [[Walmart]]
-- [[JPMorgan Chase]]
-- [[Coca‑Cola]]
-- [[Airbnb]]
-- [[Bank of America]]
+- [[Discover]]
+- [[Avention]]
+- [[Media]]
 
 ### 竞争对手
 - [[CRM]]
 - [[MSFT]]
-- [[SAP SuccessFactors]]
+- [[SAP]]
 - [[ORCL]]
-- [[Workday]]
+- [[IBM]]
 
 ### 核心产品
-- [[ServiceNow Platform]]
+- [[Now Platform]]
 - [[IT Service Management (ITSM)]]
 - [[IT Operations Management (ITOM)]]
-- [[Customer Service Management]]
+- [[Customer Service Management (CSM)]]
 - [[HR Service Delivery]]
 
 ## 数据来源
 
 - [ServiceNow](https://en.wikipedia.org/wiki/ServiceNow,_Inc.)
 - [ServiceNow, Inc. suppliers manufacturers](https://www.servicenow.com/company/supplier.html)
-- [ServiceNow, Inc. suppliers manufacturers](https://www.readycontacts.com/servicenow-partners-list/)
+- [ServiceNow, Inc. suppliers manufacturers](https://www.appsruntheworld.com/customers-database/products/view/servicenow-supplier-lifecycle-operations)
 - [ServiceNow, Inc. major customers clients](https://www.aventionmedia.com/technology-installed-base/servicenow/)
-- [ServiceNow, Inc. major customers clients](https://www.servicenow.com/customers.html)
+- [ServiceNow, Inc. major customers clients](https://data.landbase.com/technology/servicenow/)
 
 ## 元数据
 
-- **更新日期**: 2026-02-24
+- **更新日期**: 2026-02-26

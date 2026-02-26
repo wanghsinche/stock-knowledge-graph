@@ -7,8 +7,8 @@
     "TSM",
     "005930.KS",
     "GlobalFoundries",
-    "MU",
-    "SK Hynix"
+    "ASE Group",
+    "Amkor Technology"
   ],
   "downstream": [
     "SONY",
@@ -22,16 +22,18 @@
     "INTC",
     "QCOM",
     "AVGO",
-    "AAPL"
+    "005930.KS"
   ],
   "key_products": [
-    "GeForce GPUs",
-    "Quadro/RTX GPUs",
+    "GeForce RTX GPUs",
+    "Quadro RTX GPUs",
     "Tesla GPUs",
-    "Jetson SoCs",
-    "CUDA API"
+    "DGX AI systems",
+    "NVIDIA Shield",
+    "NVIDIA Drive",
+    "CUDA Toolkit"
   ],
-  "extracted_at": "2026-02-25 16:59:17",
+  "extracted_at": "2026-02-26 16:45:55",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +43,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.suppliersmap.com/nvidia",
+      "url": "https://en.wikipedia.org/wiki/Nvidia",
       "query": "NVIDIA Corporation suppliers manufacturers",
-      "snippet": "Nvidia Nvidia works with leading semiconductor manufacturers for its GPU products, including TSMC for advanced chip fabrication, Samsung and Micron fo"
+      "snippet": "Nvidia Corporation . Show dark mode logo. Nvidia uses external suppliers for all phases of manufacturing , including wafer fabrication, assembly, test"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://stocksandfuturestrading.com/the-complete-list-of-nvidias-suppliers-and-consumers/",
+      "url": "https://finance.yahoo.com/quote/NVDA/",
       "query": "NVIDIA Corporation suppliers manufacturers",
-      "snippet": "NVIDIA Key Business Relationships NVIDIA Suppliers TSMC ~25% of expenditure Samsung ~15% of expenditure ASE Technology ~10% of expenditure SK Hynix/Mi"
+      "snippet": "Find the latest NVIDIA Corporation (NVDA) stock quote, history, news and other vital information to help you with your stock trading and investing."
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.fool.com/investing/2025/06/26/who-are-nvidias-biggest-customers/",
       "query": "NVIDIA Corporation major customers clients",
-      "snippet": "Jun 26, 2025 · Who Are Nvidia 's Biggest Customers ? Nvidia supplies the most powerful data center chips in the world for artificial intelligence (AI)"
+      "snippet": "Nvidia's GPUs and networking equipment account for a large chunk of AI data center spending, but other major costs include land acquisition, construct"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://economictimes.indiatimes.com/news/international/us/two-mystery-customers-made-up-40-of-nvidias-revenue-who-are-they/articleshow/123635412.cms",
       "query": "NVIDIA Corporation major customers clients",
-      "snippet": "Sep 1, 2025 · Nvidia ’ s latest earnings grabbed headlines with a jaw-dropping $46.7 billion in quarterly revenue, but buried inside the SEC filing wa"
+      "snippet": "Nvidias latest earnings grabbed headlines with a jaw-dropping $46.7 billion in quarterly revenue, but buried inside the SEC filing was a detail that s"
     }
   ]
 }

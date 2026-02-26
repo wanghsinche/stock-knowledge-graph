@@ -1,37 +1,37 @@
 {
   "ticker": "ADBE",
   "company_name": "Adobe Inc.",
-  "sector": "Technology",
+  "sector": "Technology / Software - Application",
   "industry": "Software - Application",
   "upstream": [
     "INTC",
+    "AMD",
     "NVDA",
     "MSFT",
-    "AMZN",
-    "GOOGL"
+    "AMZN"
   ],
   "downstream": [
     "Walmart",
     "AAPL",
+    "GOOGL",
     "MSFT",
-    "AMZN",
-    "GOOGL"
+    "AMZN"
   ],
   "competitors": [
     "Autodesk",
     "Corel",
-    "Quark",
     "Serif",
+    "Quark",
     "MSFT"
   ],
   "key_products": [
-    "Adobe Photoshop",
-    "Adobe Illustrator",
-    "Adobe InDesign",
-    "Adobe Acrobat",
-    "Adobe Premiere Pro"
+    "Photoshop",
+    "Illustrator",
+    "Acrobat",
+    "Premiere Pro",
+    "After Effects"
   ],
-  "extracted_at": "2026-02-24 17:06:53",
+  "extracted_at": "2026-02-26 16:53:53",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,15 +41,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Adobe_Inc.",
+      "url": "https://www.adobe.com/procurement.html",
       "query": "Adobe Inc. suppliers manufacturers",
-      "snippet": "Adobe Systems Incorporated (1982–2018). Company type. Public. Adobe added kanji printer products in 1988.[16] Warnock and Geschke were also able to bo"
+      "snippet": "Adobe aims at building long-term business partnerships with a select group of suppliers that share our commitment to delivering the highest quality pr"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.adobe.com/",
+      "url": "https://csimarket.com/stocks/ADBE-Suppliers",
       "query": "Adobe Inc. suppliers manufacturers",
-      "snippet": "Adobe is changing the world through digital experiences. We help our customers create, deliver and optimize content and applications."
+      "snippet": "Adobe Inc's Comment on Supply Chain As the software industry is characterized by rapid technological change, a continuous high level of investment is "
     },
     {
       "source": "DuckDuckGo",

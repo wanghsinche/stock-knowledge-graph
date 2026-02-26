@@ -4,23 +4,23 @@
   "sector": "Financial Services",
   "industry": "Credit Services",
   "upstream": [
-    "Visa",
-    "Mastercard",
-    "American Express",
-    "Stripe",
-    "AMZN"
+    "Visa Inc.",
+    "Mastercard Inc.",
+    "Bank of America",
+    "AMZN",
+    "MSFT"
   ],
   "downstream": [
     "AMZN",
     "eBay",
     "Etsy",
     "Shopify",
-    "Walmart"
+    "Uber"
   ],
   "competitors": [
-    "Stripe",
-    "Square",
-    "Adyen",
+    "Stripe Inc.",
+    "Square Inc.",
+    "Adyen NV",
     "AMZN",
     "AAPL"
   ],
@@ -31,7 +31,7 @@
     "Braintree",
     "PayPal Checkout"
   ],
-  "extracted_at": "2026-02-25 17:05:07",
+  "extracted_at": "2026-02-26 16:50:59",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/PayPal",
-      "query": "PayPal Holdings, Inc. suppliers manufacturers",
-      "snippet": "PayPal Holdings, Inc. is an American multinational financial technology company operating an online payments system in the majority of countries that "
-    },
-    {
-      "source": "DuckDuckGo",
       "url": "https://csimarket.com/stocks/PYPL-Suppliers",
       "query": "PayPal Holdings, Inc. suppliers manufacturers",
       "snippet": "Paypal Holdings Inc's Comment on Supply Chain PYPL's Stock Perfrormance relative to it's Suppliers PYPL's vs. Suppliers , Data (Revenue and Income for"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/PayPal",
-      "query": "PayPal Holdings, Inc. major customers clients",
-      "snippet": "PayPal Holdings , Inc . is an American multinational financial technology company operating an online payments system in the majority of countries tha"
+      "url": "https://inspirationfeed.com/paypal-subsidiaries/",
+      "query": "PayPal Holdings, Inc. suppliers manufacturers",
+      "snippet": "The History of PayPal PayPal Holdings Inc. was birthed by Max Levchin and Peter Theil in 1998; it emerged as a hybrid baby of two parent companies nam"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.paypal.com/us/home",
+      "url": "https://capitaloneshopping.com/research/paypal-statistics/",
       "query": "PayPal Holdings, Inc. major customers clients",
-      "snippet": "From paying friends to saving money or getting cash back when you shop, explore what the new PayPal app has to offer.The lender for Pay Monthly is Web"
+      "snippet": "Sep 10, 2025 · Latest available data on Paypal 's number of users ( customers and merchants), transaction volume, revenue, market share and more."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/PYPL-Customers",
+      "query": "PayPal Holdings, Inc. major customers clients",
+      "snippet": "Jan 16, 2026 · Paypal Holdings Inc customers and markets, results by customer and performance relative to PYPL, by company and industry - CSIMarket"
     }
   ]
 }

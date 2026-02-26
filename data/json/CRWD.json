@@ -1,37 +1,37 @@
 {
   "ticker": "CRWD",
   "company_name": "CrowdStrike Holdings, Inc.",
-  "sector": "Technology / Software - Infrastructure",
-  "industry": "Cybersecurity / Endpoint Security",
+  "sector": "Technology",
+  "industry": "Software - Infrastructure",
   "upstream": [
     "MSFT",
     "AMZN",
     "GOOGL",
     "CSCO",
-    "DELL"
+    "IBM"
   ],
   "downstream": [
-    "U.S. Department of Defense",
-    "JPMorgan Chase",
-    "Bank of America",
     "Walmart",
-    "General Motors"
+    "JPMorgan Chase",
+    "AT&T",
+    "Bank of America",
+    "UnitedHealth Group"
   ],
   "competitors": [
     "Palo Alto Networks",
     "SentinelOne",
+    "McAfee",
     "Fortinet",
-    "Check Point Software",
-    "CSCO"
+    "Check Point Software Technologies"
   ],
   "key_products": [
-    "Falcon Platform",
-    "Falcon Endpoint Protection",
+    "CrowdStrike Falcon Platform",
+    "Falcon Prevent",
     "Falcon Insight",
     "Falcon OverWatch",
-    "Falcon Prevent"
+    "Falcon X"
   ],
-  "extracted_at": "2026-02-25 17:06:23",
+  "extracted_at": "2026-02-26 16:50:32",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/CrowdStrike",
+      "url": "https://ru.wikipedia.org/wiki/CrowdStrike",
       "query": "CrowdStrike Holdings, Inc. suppliers manufacturers",
-      "snippet": "CrowdStrike Holdings, Inc. is an American cybersecurity technology company based in Austin, Texas. It provides endpoint security, threat intelligence,"
+      "snippet": "CrowdStrike Holdings , Inc . Изображение логотипа. Тип. CrowdStrike Holdings , Inc . — компания, работающая в сфере информационной безопасности. Основ"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.crowdstrike.com/en-us/about-us/suppliers/doing-business-with-crowdstrike/",
+      "url": "https://finance.yahoo.com/news/crowdstrike-hits-oversold-territory-anthropic-205906832.html",
       "query": "CrowdStrike Holdings, Inc. suppliers manufacturers",
-      "snippet": "We're committed to developing successful business partnerships as we recognize the important role our suppliers play. Learn more and contact us."
+      "snippet": "CrowdStrike Holdings (CRWD) shares tanked another 12% on Feb.By integrating “agentic” artificial intelligence to automate threat detection, CrowdStrik"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ca.finance.yahoo.com/news/analyst-crowdstrike-holdings-crwd-customers-172748552.html",
+      "url": "https://www.appsruntheworld.com/customers-database/vendors/view/crowdstrike",
       "query": "CrowdStrike Holdings, Inc. major customers clients",
-      "snippet": "In this article, we are going to take a look at where Crowdstrike Holdings Inc (NASDAQ:CRWD) stands against other top AI stocks that should be On your"
+      "snippet": "List of companies using or evaluating CrowdStrike applications, with details on their revenues, employees, industries, and locations."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://strategy.transforml.co/crowdstrike-strategy-cascade-analysis",
+      "url": "https://theirstack.com/en/technology/crowdstrike",
       "query": "CrowdStrike Holdings, Inc. major customers clients",
-      "snippet": "Key Competitors for CrowdStrike Holdings , Inc . Palo Alto Networks. Major cybersecurity platform competitor with broad portfolio of security products"
+      "snippet": "How many customers does CrowdStrike have? Who uses CrowdStrike ? What companies use CrowdStrike ? In which countries CrowdStrike is used the most? How"
     }
   ]
 }

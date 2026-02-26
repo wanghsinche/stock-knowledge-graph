@@ -4,34 +4,36 @@
   "sector": "Industrials",
   "industry": "Farm & Heavy Construction Machinery",
   "upstream": [
-    "Cummins",
-    "Parker Hannifin",
-    "Eaton",
-    "Siemens",
-    "Baker Hughes"
+    "Cummins Inc.",
+    "Eaton Corporation",
+    "Bosch Rexroth AG",
+    "Hydra-Matic (ZF)",
+    "Schneider Electric"
   ],
   "downstream": [
-    "Construction companies",
-    "Mining companies",
-    "Oil & gas operators",
-    "Infrastructure developers",
-    "Government agencies"
+    "CAT",
+    "CAT",
+    "CAT",
+    "CAT",
+    "CAT"
   ],
   "competitors": [
+    "Komatsu Ltd.",
+    "Volvo Construction Equipment",
     "DE",
     "CNH Industrial",
-    "Komatsu",
-    "Volvo Construction Equipment",
     "Hitachi Construction Machinery"
   ],
   "key_products": [
-    "Excavators",
     "Bulldozers",
-    "Wheel loaders",
+    "Excavators",
+    "Wheel Loaders",
     "Backhoes",
-    "Mining trucks"
+    "Mining Trucks",
+    "Diesel Engines",
+    "Generators"
   ],
-  "extracted_at": "2026-02-25 17:07:16",
+  "extracted_at": "2026-02-26 16:49:59",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,7 +45,7 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Caterpillar_Inc.",
       "query": "Caterpillar Inc. suppliers manufacturers",
-      "snippet": "Caterpillar Inc . is an American construction, mining, and other engineering equipment manufacturer .International Harvester Company. Industrial gas t"
+      "snippet": "Caterpillar Inc . is an American construction, mining, and other engineering equipment manufacturer . The company is the world's largest manufacturer "
     },
     {
       "source": "DuckDuckGo",
@@ -55,13 +57,13 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Caterpillar_Inc.",
       "query": "Caterpillar Inc. major customers clients",
-      "snippet": "Caterpillar Inc. is an American construction, mining, and other engineering equipment manufacturer. The company is the world's largest manufacturer of"
+      "snippet": "Caterpillar Inc . is an American construction, mining, and other engineering equipment manufacturer. The company is the world's largest manufacturer o"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.caterpillar.com/en/investors/reports/annual-report/segment-highlights.html",
+      "url": "https://www.caterpillar.com/",
       "query": "Caterpillar Inc. major customers clients",
-      "snippet": "The Energy & Transportation (E&T) segment supports customers in oil and gas, power generation, marine, rail and industrial applications, including Cat"
+      "snippet": "Caterpillar is the world’s leading manufacturer of construction and mining equipment, diesel and natural gas engines, industrial turbines and diesel-e"
     }
   ]
 }

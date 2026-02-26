@@ -4,34 +4,34 @@
   "sector": "Communication Services",
   "industry": "Internet Content & Information",
   "upstream": [
-    "QCOM",
     "INTC",
+    "NVDA",
+    "QCOM",
     "005930.KS",
-    "TSM",
-    "NVDA"
+    "TSM"
   ],
   "downstream": [
     "GOOGL",
-    "Android device manufacturers",
-    "YouTube content creators",
+    "Android device users",
+    "YouTube viewers",
     "GOOGL",
     "GOOGL"
   ],
   "competitors": [
-    "META",
     "MSFT",
     "AMZN",
+    "META",
     "AAPL",
     "NFLX"
   ],
   "key_products": [
     "Google Search",
-    "Android OS",
-    "Google Cloud Platform",
     "YouTube",
+    "Google Cloud",
+    "Android OS",
     "Google Ads"
   ],
-  "extracted_at": "2026-02-25 17:01:21",
+  "extracted_at": "2026-02-26 16:47:11",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,25 +43,25 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Alphabet_Inc.",
       "query": "Alphabet Inc. suppliers manufacturers",
-      "snippet": "Alphabet Inc. is an American multinational technology conglomerate holding company headquartered in Mountain View, California. It was created through "
+      "snippet": "Alphabet Inc . is an American multinational technology conglomerate holding company headquartered in Mountain View, California. It was created through"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/GOOG-Suppliers",
+      "url": "https://ru.wikipedia.org/wiki/Alphabet",
       "query": "Alphabet Inc. suppliers manufacturers",
-      "snippet": "Alphabet Inc's Comment on Supply Chain We rely on third parties to manufacture many of our assemblies and finished products, and we have third-party a"
+      "snippet": "Alphabet Inc . — холдинговая компания, управляющая компанией Google Inc и её дочерними структурами, а также рядом стартапов. Штаб-квартира расположена"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://csimarket.com/stocks/GOOGL-Customers",
       "query": "Alphabet Inc. major customers clients",
-      "snippet": "Feb 9, 2026 · For your research, we’ve provided 9 tables on Alphabet Inc corporate clients . You can find them in the navigation menu under Customers "
+      "snippet": "Alphabet Inc customers and markets, results by customer and performance relative to GOOGL, by company and industry - CSIMarket"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://swottemplate.com/blogs/target-market/abc-target-market",
       "query": "Alphabet Inc. major customers clients",
-      "snippet": "Jul 4, 2025 · Alphabet Inc . serves a diverse range of primary customer segments, spanning both consumers (B2C) and businesses (B2B). Its extensive po"
+      "snippet": "This analysis of Alphabet target market and customer demographics is essential for investors, analysts, and anyone seeking to understand the company's"
     }
   ]
 }

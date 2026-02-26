@@ -3,8 +3,8 @@ ticker: VRT
 company: Vertiv Holdings Co
 sector: Industrials
 industry: Electrical Equipment & Parts
-extracted_at: 2026-02-25 17:06:57
-last_updated: 2026-02-25
+extracted_at: 2026-02-26 16:49:45
+last_updated: 2026-02-26
 ---
 
 # VRT - Vertiv Holdings Co
@@ -12,46 +12,46 @@ last_updated: 2026-02-25
 ## 基本信息
 
 - **所属行业**: Industrials / Electrical Equipment & Parts
-- **提取时间**: 2026-02-25 17:06:57
+- **提取时间**: 2026-02-26 16:49:45
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Schneider Electric]]
-- [[ABB]]
-- [[Siemens]]
-- [[Eaton]]
-- [[Honeywell]]
+- [[Power distribution equipment manufacturers]]
+- [[Cooling system suppliers]]
+- [[Server and storage vendors]]
+- [[Networking equipment producers]]
+- [[Environmental monitoring component suppliers]]
 
 ### 下游客户
-- [[AMZN]]
-- [[GOOGL]]
-- [[MSFT]]
-- [[Facebook]]
-- [[Alibaba Cloud]]
+- [[Data center operators]]
+- [[CAT]]
+- [[Cloud service providers]]
+- [[Enterprise IT departments]]
+- [[Government agencies]]
 
 ### 竞争对手
 - [[Schneider Electric]]
+- [[Eaton]]
 - [[ABB]]
 - [[Siemens]]
-- [[Eaton]]
 - [[Honeywell]]
 
 ### 核心产品
-- [[Power distribution units (PDUs)]]
-- [[Cooling systems for data centers]]
-- [[Rack‑mount power supplies]]
-- [[Uninterruptible power supplies (UPS)]]
-- [[Data center infrastructure management (DCIM) software]]
+- [[Power Distribution Units (PDUs)]]
+- [[Uninterruptible Power Supplies (UPS)]]
+- [[Data center cooling solutions]]
+- [[Rack‑mountable power and cooling systems]]
+- [[Data Center Infrastructure Management (DCIM) software]]
 
 ## 数据来源
 
 - [Vertiv](https://en.wikipedia.org/wiki/Vertiv_Holdings_Co)
 - [Vertiv Holdings Co suppliers manufacturers](https://en.wikipedia.org/wiki/Vertiv)
-- [Vertiv Holdings Co suppliers manufacturers](https://partners.vertiv.com/English/directory)
+- [Vertiv Holdings Co suppliers manufacturers](https://www.vertiv.com/en-us/solutions/manufacturing/)
 - [Vertiv Holdings Co major customers clients](https://en.wikipedia.org/wiki/Vertiv)
-- [Vertiv Holdings Co major customers clients](https://portersfiveforce.com/blogs/target-market/vertiv)
+- [Vertiv Holdings Co major customers clients](https://www.appsruntheworld.com/customers-database/vendors/view/vertiv)
 
 ## 元数据
 
-- **更新日期**: 2026-02-25
+- **更新日期**: 2026-02-26

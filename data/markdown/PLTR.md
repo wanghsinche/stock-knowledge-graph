@@ -3,8 +3,8 @@ ticker: PLTR
 company: Palantir Technologies Inc.
 sector: Technology
 industry: Software - Infrastructure
-extracted_at: 2026-02-25 17:00:13
-last_updated: 2026-02-25
+extracted_at: 2026-02-26 16:47:29
+last_updated: 2026-02-26
 ---
 
 # PLTR - Palantir Technologies Inc.
@@ -12,46 +12,46 @@ last_updated: 2026-02-25
 ## 基本信息
 
 - **所属行业**: Technology / Software - Infrastructure
-- **提取时间**: 2026-02-25 17:00:13
+- **提取时间**: 2026-02-26 16:47:29
 
 ## 产业链关系
 
 ### 上游供应商
-- [[AMZN]]
-- [[MSFT]]
-- [[GOOGL]]
-- [[IBM]]
 - [[DELL]]
+- [[IBM]]
+- [[MSFT]]
+- [[AMZN]]
+- [[GOOGL]]
 
 ### 下游客户
 - [[U.S. Department of Defense]]
-- [[Federal Bureau of Investigation]]
-- [[Walmart]]
-- [[AMZN]]
-- [[UnitedHealth Group]]
+- [[U.S. Department of Homeland Security]]
+- [[British Ministry of Defence]]
+- [[Airbus]]
+- [[Siemens]]
 
 ### 竞争对手
+- [[IBM]]
+- [[MSFT]]
+- [[GOOGL]]
 - [[Snowflake]]
 - [[Databricks]]
-- [[Splunk]]
-- [[Qlik]]
-- [[Alteryx]]
 
 ### 核心产品
 - [[Gotham]]
 - [[Foundry]]
-- [[Apollo]]
 - [[Palantir Platform]]
-- [[Data Integration Suite]]
+- [[Palantir Data Integration]]
+- [[Palantir Analytics]]
 
 ## 数据来源
 
 - [Palantir](https://en.wikipedia.org/wiki/Palantir_Technologies_Inc.)
-- [Palantir Technologies Inc. suppliers manufacturers](https://finance.yahoo.com/quote/PLTR/)
-- [Palantir Technologies Inc. suppliers manufacturers](https://www.marketwatch.com/investing/stock/pltr)
-- [Palantir Technologies Inc. major customers clients](https://www.zoominfo.com/tech/23803/palantir-tech-by-revenue)
-- [Palantir Technologies Inc. major customers clients](https://theirstack.com/en/technology/palantir)
+- [Palantir Technologies Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/Palantir_Technologies)
+- [Palantir Technologies Inc. suppliers manufacturers](https://data.ark.ai/analysis/suppliers/palantir-usg-inc-supplier-profile-overview/)
+- [Palantir Technologies Inc. major customers clients](https://en.wikipedia.org/wiki/Palantir_Technologies)
+- [Palantir Technologies Inc. major customers clients](https://www.marketwatch.com/investing/stock/pltr)
 
 ## 元数据
 
-- **更新日期**: 2026-02-25
+- **更新日期**: 2026-02-26

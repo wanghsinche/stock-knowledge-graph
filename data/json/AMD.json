@@ -7,31 +7,31 @@
     "TSM",
     "005930.KS",
     "GlobalFoundries",
-    "UMC",
-    "ASE"
+    "MU",
+    "NVDA"
   ],
   "downstream": [
-    "DELL",
-    "HPQ",
-    "Lenovo",
     "SONY",
-    "MSFT"
+    "MSFT",
+    "HPQ",
+    "DELL",
+    "Lenovo Group"
   ],
   "competitors": [
     "INTC",
     "NVDA",
     "QCOM",
     "AVGO",
-    "ARM"
+    "TXN"
   ],
   "key_products": [
-    "Ryzen CPUs",
-    "EPYC servers",
-    "Radeon GPUs",
-    "Xilinx FPGAs",
-    "APU SoCs"
+    "Central Processing Units (CPUs)",
+    "Graphics Processing Units (GPUs)",
+    "Field‑Programmable Gate Arrays (FPGAs)",
+    "System‑on‑Chip (SoC) solutions",
+    "High‑performance computer components"
   ],
-  "extracted_at": "2026-02-25 17:00:03",
+  "extracted_at": "2026-02-26 16:47:02",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/List_of_system_on_a_chip_suppliers",
-      "query": "Advanced Micro Devices, Inc. suppliers manufacturers",
-      "snippet": "The following is a list of system-on-a-chip suppliers . Actions Semiconductor Advanced Micro Devices (AMD) Advanced Semiconductor Engineering (ASE) Al"
-    },
-    {
-      "source": "DuckDuckGo",
       "url": "https://csimarket.com/stocks/AMD-Suppliers",
       "query": "Advanced Micro Devices, Inc. suppliers manufacturers",
-      "snippet": "Feb 9, 2026 · Advanced Micro Devices Inc supply chain, list and performance of Advanced Micro Devices Incs ' suppliers - CSIMarket"
+      "snippet": "Advanced Micro Devices Inc's Suppliers recorded an increase in sales by 3.41 % year on year in Q4 2025, from the previous quarter, sales fell by -1.6 "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/AMD-Customers",
-      "query": "Advanced Micro Devices, Inc. major customers clients",
-      "snippet": "Advanced Micro Devices Inc customers and markets, results by customer and performance relative to AMD, by company and industry - CSIMarket"
+      "url": "https://www.globalspec.com/Supplier/profile/AdvancedMicroDevices",
+      "query": "Advanced Micro Devices, Inc. suppliers manufacturers",
+      "snippet": "Advanced Micro Devices, Inc. business profile on GlobalSpec. Read about Advanced Micro Devices, Inc ., browse product catalogs and product areas."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.marketscreener.com/quote/stock/AMD-ADVANCED-MICRO-DEVICE-179387659/finances-segments/",
+      "url": "https://en.wikipedia.org/wiki/AMD",
       "query": "Advanced Micro Devices, Inc. major customers clients",
-      "snippet": "Understand how activity and revenue gets distributed for AMD ( Advanced Micro Devices ) (AMD). Ten-year segmentation history. The entire stock market "
+      "snippet": "3 days ago - In September 1969, AMD moved from its temporary location in Santa Clara to its new $500,000 15,000sqft headquarters at 901 Thompson Place"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.sec.gov/Archives/edgar/data/2488/000000248817000043/amd-12312016x10k.htm",
+      "query": "Advanced Micro Devices, Inc. major customers clients",
+      "snippet": "Our major customers, Sony Corporation, Microsoft Corporation and HP Inc. , each accounted for more than 10% of our consolidated net revenue for the ye"
     }
   ]
 }

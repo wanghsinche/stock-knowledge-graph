@@ -1,57 +1,57 @@
 ---
 ticker: WDC
 company: Western Digital Corporation
-sector: Technology / Computer Hardware
-industry: Data Storage
-extracted_at: 2026-02-25 17:02:05
-last_updated: 2026-02-25
+sector: Technology
+industry: Computer Hardware
+extracted_at: 2026-02-26 16:50:40
+last_updated: 2026-02-26
 ---
 
 # WDC - Western Digital Corporation
 
 ## 基本信息
 
-- **所属行业**: Technology / Computer Hardware / Data Storage
-- **提取时间**: 2026-02-25 17:02:05
+- **所属行业**: Technology / Computer Hardware
+- **提取时间**: 2026-02-26 16:50:40
 
 ## 产业链关系
 
 ### 上游供应商
+- [[TSM]]
+- [[005930.KS]]
 - [[MU]]
-- [[Printed circuit board suppliers]]
-- [[META]]
-- [[Electronics component distributors]]
-- [[Packaging and logistics providers]]
+- [[TXN]]
+- [[ADI]]
 
 ### 下游客户
 - [[DELL]]
 - [[HPQ]]
 - [[Lenovo Group]]
-- [[AAPL]]
-- [[005930.KS]]
+- [[AMZN]]
+- [[MSFT]]
 
 ### 竞争对手
 - [[STX]]
-- [[Toshiba Corporation]]
+- [[Kioxia (Toshiba)]]
 - [[005930.KS]]
 - [[MU]]
-- [[Kingston Technology]]
+- [[IBM]]
 
 ### 核心产品
 - [[Hard Disk Drives (HDD)]]
 - [[Solid State Drives (SSD)]]
-- [[External storage devices]]
-- [[Enterprise storage solutions]]
-- [[Cloud storage infrastructure]]
+- [[External Storage Devices]]
+- [[Enterprise Storage Solutions]]
+- [[Cloud Storage Infrastructure]]
 
 ## 数据来源
 
 - [Western Digital](https://en.wikipedia.org/wiki/Western_Digital_Corporation)
+- [Western Digital Corporation suppliers manufacturers](https://en.wikipedia.org/wiki/Western_Digital)
 - [Western Digital Corporation suppliers manufacturers](https://www.westerndigital.com/company/distributors)
-- [Western Digital Corporation suppliers manufacturers](https://csimarket.com/stocks/WDC-Suppliers)
 - [Western Digital Corporation major customers clients](https://csimarket.com/stocks/WDC-Customers)
 - [Western Digital Corporation major customers clients](https://data.landbase.com/technology/western-digital/)
 
 ## 元数据
 
-- **更新日期**: 2026-02-25
+- **更新日期**: 2026-02-26
