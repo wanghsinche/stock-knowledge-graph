@@ -3,8 +3,8 @@ ticker: NBIS
 company: Nebius Group N.V.
 sector: Communication Services
 industry: Internet Content & Information
-extracted_at: 2026-02-26 16:54:28
-last_updated: 2026-02-26
+extracted_at: 2026-02-27 16:49:12
+last_updated: 2026-02-27
 ---
 
 # NBIS - Nebius Group N.V.
@@ -12,7 +12,7 @@ last_updated: 2026-02-26
 ## 基本信息
 
 - **所属行业**: Communication Services / Internet Content & Information
-- **提取时间**: 2026-02-26 16:54:28
+- **提取时间**: 2026-02-27 16:49:12
 
 ## 产业链关系
 
@@ -20,38 +20,38 @@ last_updated: 2026-02-26
 - [[NVDA]]
 - [[AMD]]
 - [[INTC]]
-- [[AMZN]]
-- [[MSFT]]
+- [[QCOM]]
+- [[GOOGL]]
 
 ### 下游客户
 - [[GOOGL]]
-- [[AMZN]]
 - [[MSFT]]
-- [[META]]
-- [[Alibaba]]
+- [[AMZN]]
+- [[Facebook]]
+- [[AAPL]]
 
 ### 竞争对手
-- [[NVDA]]
-- [[GOOGL]]
-- [[AMZN]]
-- [[MSFT]]
-- [[IBM]]
+- [[OpenAI]]
+- [[DeepMind]]
+- [[Anthropic]]
+- [[Cohere]]
+- [[AI21 Labs]]
 
 ### 核心产品
-- [[Nebius AI Platform]]
-- [[Nebius Edge AI]]
-- [[Nebius Cloud AI]]
-- [[Nebius Data Lake]]
-- [[Nebius Analytics]]
+- [[Nebius AI Infrastructure Platform]]
+- [[Avride]]
+- [[TripleTen]]
+- [[Toloka]]
+- [[Clickhouse]]
 
 ## 数据来源
 
 - [Nebius Group](https://en.wikipedia.org/wiki/NBIS)
-- [NBIS suppliers manufacturers](https://en.wikipedia.org/wiki/Nebius_Group)
 - [NBIS suppliers manufacturers](https://finance.yahoo.com/quote/NBIS/)
-- [NBIS major customers clients](https://www.youtube.com/watch?v=USAm2vxULdc)
-- [NBIS major customers clients](https://www.nasdaq.com/market-activity/stocks/nbis)
+- [NBIS suppliers manufacturers](https://ru.investing.com/equities/yandex-nv)
+- [NBIS major customers clients](https://csimarket.com/stocks/NBIS-Customers)
+- [NBIS major customers clients](https://ts2.tech/en/ebius-group-n-v-nasdaq-nbis-stock-skyrockets-on-17b-ai-deal-what-investors-must-know/)
 
 ## 元数据
 
-- **更新日期**: 2026-02-26
+- **更新日期**: 2026-02-27

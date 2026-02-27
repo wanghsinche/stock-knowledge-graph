@@ -4,34 +4,34 @@
   "sector": "Financial Services",
   "industry": "Capital Markets",
   "upstream": [
-    "AMZN",
-    "GOOGL",
-    "Bloomberg L.P.",
+    "Bloomberg",
+    "Refinitiv",
     "FactSet",
-    "S&P Global"
+    "S&P Global",
+    "Morningstar"
   ],
   "downstream": [
     "Retail investors",
-    "Day traders",
-    "High‑frequency traders",
+    "Institutional clients",
+    "High-frequency traders",
     "Crypto traders",
-    "Institutional clients"
+    "Day traders"
   ],
   "competitors": [
     "Charles Schwab",
     "E*TRADE",
-    "TD Ameritrade",
     "Fidelity",
-    "Webull"
+    "TD Ameritrade",
+    "Interactive Brokers"
   ],
   "key_products": [
-    "Commission‑free stock trading",
-    "Margin trading",
+    "Commission-free stock trading",
     "Robinhood Gold",
-    "Cryptocurrency trading",
-    "Options trading"
+    "Crypto trading",
+    "Cash management",
+    "Margin trading"
   ],
-  "extracted_at": "2026-02-26 16:53:45",
+  "extracted_at": "2026-02-27 16:48:43",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/HOOD-Suppliers",
+      "url": "https://en.wikipedia.org/wiki/Robinhood_Markets",
       "query": "Robinhood Markets, Inc. suppliers manufacturers",
-      "snippet": "Aug 1, 2025 · Sources: Robinhood Markets Inc 's official press releases and regulatory filings; CSIMarket.com's supply -chain research; and the financ"
+      "snippet": "Robinhood Markets, Inc. is an American financial services company based in Menlo Park, California. It provides an electronic trading platform that fac"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://robinhood.com/us/en/about-us/",
+      "url": "https://robinhood.com/us/en/learn/articles/3ntoEHx7rdxnb7EV60s410/what-is-procurement/",
       "query": "Robinhood Markets, Inc. suppliers manufacturers",
-      "snippet": "Sign-up for Robinhood , a pioneering commission-free investing and trading app that gives you more ways to make your money work harder."
+      "snippet": "Sep 28, 2020 · Procurement is the process of seeking out vendors and acquiring goods and services for business purposes. Missing: manufacturers | Show"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Robinhood_Markets",
       "query": "Robinhood Markets, Inc. major customers clients",
-      "snippet": "Robinhood Markets , Inc . is an American financial services company based in Menlo Park, California. It provides an electronic trading platform that f"
+      "snippet": "Robinhood Markets, Inc. is an American financial services company based in Menlo Park, California. It provides an electronic trading platform that fac"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://robinhood.com/",
+      "url": "https://investingintheweb.com/brokers/robinhood-statistics/",
       "query": "Robinhood Markets, Inc. major customers clients",
-      "snippet": "Trade stocks on Robinhood with commission-free investing & advanced trading tools. Access fractional shares, real-time market data, and more."
+      "snippet": "Robinhood revenues Robinhood generates revenues through transaction-based revenues, net interest revenues, and other revenues. Transaction-based reven"
     }
   ]
 }

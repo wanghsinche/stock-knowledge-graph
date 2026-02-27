@@ -7,31 +7,31 @@
     "NVDA",
     "AMD",
     "INTC",
-    "AMZN",
-    "MSFT"
+    "QCOM",
+    "GOOGL"
   ],
   "downstream": [
     "GOOGL",
-    "AMZN",
     "MSFT",
-    "META",
-    "Alibaba"
+    "AMZN",
+    "Facebook",
+    "AAPL"
   ],
   "competitors": [
-    "NVDA",
-    "GOOGL",
-    "AMZN",
-    "MSFT",
-    "IBM"
+    "OpenAI",
+    "DeepMind",
+    "Anthropic",
+    "Cohere",
+    "AI21 Labs"
   ],
   "key_products": [
-    "Nebius AI Platform",
-    "Nebius Edge AI",
-    "Nebius Cloud AI",
-    "Nebius Data Lake",
-    "Nebius Analytics"
+    "Nebius AI Infrastructure Platform",
+    "Avride",
+    "TripleTen",
+    "Toloka",
+    "Clickhouse"
   ],
-  "extracted_at": "2026-02-26 16:54:28",
+  "extracted_at": "2026-02-27 16:49:12",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Nebius_Group",
-      "query": "NBIS suppliers manufacturers",
-      "snippet": "Nebius Group N.V., headquartered in Amsterdam, is a technology company that provides artificial intelligence infrastructure."
-    },
-    {
-      "source": "DuckDuckGo",
       "url": "https://finance.yahoo.com/quote/NBIS/",
       "query": "NBIS suppliers manufacturers",
-      "snippet": "News headlines Nebius Group ( NBIS ) has been highlighted as a strong growth prospect in the AI cloud infrastructure sector, with projected revenue gr"
+      "snippet": "Find the latest Nebius Group N.V. ( NBIS ) stock quote, history, news and other vital information to help you with your stock trading and investing."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.youtube.com/watch?v=USAm2vxULdc",
-      "query": "NBIS major customers clients",
-      "snippet": "Hello fellow investors, welcome back to Borex Investing. Today we break down the Google vs Nvidia AI chip debate that took over the market this week —"
+      "url": "https://ru.investing.com/equities/yandex-nv",
+      "query": "NBIS suppliers manufacturers",
+      "snippet": "Акции Nebius Group NV ( NBIS ): курс сегодня, актуальная цена онлайн, графики, мнения, технический анализ, отчеты и другое о Nebius NV."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.nasdaq.com/market-activity/stocks/nbis",
+      "url": "https://csimarket.com/stocks/NBIS-Customers",
       "query": "NBIS major customers clients",
-      "snippet": "NBIS : A Vertically Integrated AI Infrastructure Powerhouse.Compass Point Initiates Coverage of Nebius Group N.V. ( NBIS ) with Buy Recommendation."
+      "snippet": "Nebius Group N V customers and markets, results by customer and performance relative to NBIS , by company and industry - CSIMarket"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://ts2.tech/en/ebius-group-n-v-nasdaq-nbis-stock-skyrockets-on-17b-ai-deal-what-investors-must-know/",
+      "query": "NBIS major customers clients",
+      "snippet": "Oct 10, 2025 · Analysts note Nebius is unique in targeting major Western tech clients : it counts Cloudflare, Shopify, and now Microsoft as customers "
     }
   ]
 }

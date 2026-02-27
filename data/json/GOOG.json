@@ -5,17 +5,17 @@
   "industry": "Internet Content & Information",
   "upstream": [
     "INTC",
-    "NVDA",
     "QCOM",
     "005930.KS",
-    "TSM"
+    "TSM",
+    "Foxconn"
   ],
   "downstream": [
+    "Advertisers",
+    "App developers",
     "GOOGL",
-    "Android device users",
-    "YouTube viewers",
-    "GOOGL",
-    "GOOGL"
+    "YouTube users",
+    "Android device manufacturers"
   ],
   "competitors": [
     "MSFT",
@@ -26,12 +26,12 @@
   ],
   "key_products": [
     "Google Search",
-    "YouTube",
-    "Google Cloud",
     "Android OS",
+    "Google Cloud Platform",
+    "YouTube",
     "Google Ads"
   ],
-  "extracted_at": "2026-02-26 16:47:11",
+  "extracted_at": "2026-02-27 16:43:16",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,25 +43,25 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Alphabet_Inc.",
       "query": "Alphabet Inc. suppliers manufacturers",
-      "snippet": "Alphabet Inc . is an American multinational technology conglomerate holding company headquartered in Mountain View, California. It was created through"
+      "snippet": "Alphabet Inc . is an American multinational technology conglomerate holding company headquartered in Mountain View, California . It was created throug"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ru.wikipedia.org/wiki/Alphabet",
+      "url": "https://csimarket.com/stocks/GOOG-Suppliers",
       "query": "Alphabet Inc. suppliers manufacturers",
-      "snippet": "Alphabet Inc . — холдинговая компания, управляющая компанией Google Inc и её дочерними структурами, а также рядом стартапов. Штаб-квартира расположена"
+      "snippet": "Feb 6, 2026 · Alphabet Inc 's Comment on Supply Chain We rely on third parties to manufacture many of our assemblies and finished products, and we hav"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://csimarket.com/stocks/GOOGL-Customers",
       "query": "Alphabet Inc. major customers clients",
-      "snippet": "Alphabet Inc customers and markets, results by customer and performance relative to GOOGL, by company and industry - CSIMarket"
+      "snippet": "Feb 9, 2026 · Alphabet Inc customers and markets, results by customer and performance relative to GOOGL, by company and industry - CSIMarket"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://swottemplate.com/blogs/target-market/abc-target-market",
       "query": "Alphabet Inc. major customers clients",
-      "snippet": "This analysis of Alphabet target market and customer demographics is essential for investors, analysts, and anyone seeking to understand the company's"
+      "snippet": "Jul 4, 2025 · This analysis of Alphabet target market and customer demographics is essential for investors, analysts, and anyone seeking to understand"
     }
   ]
 }

@@ -4,19 +4,22 @@
   "sector": "Technology",
   "industry": "Software - Application",
   "upstream": [
-    "Siemens",
-    "Pearson",
-    "Dropbox",
-    "King's Hawaiian"
+    "AMZN",
+    "MSFT",
+    "GOOGL",
+    "DELL",
+    "HPQ"
   ],
   "downstream": [
-    "Discover",
-    "Avention",
-    "Media"
+    "MSFT",
+    "AMZN",
+    "Walmart",
+    "IBM",
+    "Coca‑Cola"
   ],
   "competitors": [
     "CRM",
-    "MSFT",
+    "Atlassian",
     "SAP",
     "ORCL",
     "IBM"
@@ -25,10 +28,10 @@
     "Now Platform",
     "IT Service Management (ITSM)",
     "IT Operations Management (ITOM)",
-    "Customer Service Management (CSM)",
-    "HR Service Delivery"
+    "IT Business Management (ITBM)",
+    "Customer Service Management (CSM)"
   ],
-  "extracted_at": "2026-02-26 16:49:18",
+  "extracted_at": "2026-02-27 16:50:23",
   "sources": [
     {
       "source": "Wikipedia",
@@ -38,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.servicenow.com/company/supplier.html",
+      "url": "https://www.alibaba.com/",
       "query": "ServiceNow, Inc. suppliers manufacturers",
-      "snippet": "ServiceNow partners with capable and competitive suppliers who commit to diversity, sustainability, and best-in-class goods and services. Learn more h"
+      "snippet": "Find quality Manufacturers , Suppliers , Exporters, Importers, Buyers, Wholesalers, Products and Trade Leads from our award-winning International Trad"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.appsruntheworld.com/customers-database/products/view/servicenow-supplier-lifecycle-operations",
+      "url": "https://www.servicenow.com/in/cookie-policy.html",
       "query": "ServiceNow, Inc. suppliers manufacturers",
-      "snippet": "Organizations such as Siemens, Pearson, Dropbox and King's Hawaiian are recorded users of ServiceNow Supplier Lifecycle Operations for Supplier Relati"
+      "snippet": "Supplier Lifecycle Operations. Streamline supplier onboarding, collaboration, and performance management. View All Products. ServiceNow , Inc . (“ Ser"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.servicenow.com/customers.html",
+      "query": "ServiceNow, Inc. major customers clients",
+      "snippet": "Discover the measurable improvements ServiceNow delivers to enhance efficiency, productivity, and customer satisfaction."
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.aventionmedia.com/technology-installed-base/servicenow/",
       "query": "ServiceNow, Inc. major customers clients",
-      "snippet": "Discover Avention Media's accurate and customizable ServiceNow customers list. Our verified ServiceNow data helps you target key decision-makers and c"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://data.landbase.com/technology/servicenow/",
-      "query": "ServiceNow, Inc. major customers clients",
-      "snippet": "ServiceNow by ServiceNow, is a cloud-based platform designed for digital workflows. It's commonly employed to automate and enhance various IT and busi"
+      "snippet": "Customers that are using ServiceNow include: Microsoft, a US Based MNC and Technology Company with over US$2 Tn revenue and Waltmart, a US Based Retai"
     }
   ]
 }

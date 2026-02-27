@@ -1,37 +1,37 @@
 {
   "ticker": "AMZN",
   "company_name": "Amazon.com, Inc.",
-  "sector": "Consumer Cyclical",
+  "sector": "Consumer Discretionary",
   "industry": "Internet Retail",
   "upstream": [
-    "AMZN",
     "Consumer electronics manufacturers",
-    "AMZN",
-    "Packaging material suppliers",
-    "Logistics equipment providers"
+    "Apparel manufacturers",
+    "Home goods suppliers",
+    "Book publishers",
+    "Third‑party sellers"
   ],
   "downstream": [
     "Retail consumers",
-    "AMZN",
-    "AMZN",
-    "AMZN",
-    "Prime Video streaming subscribers"
+    "Small businesses",
+    "Enterprise customers (AWS)",
+    "Advertisers",
+    "Content creators"
   ],
   "competitors": [
-    "eBay",
     "Walmart",
+    "eBay",
     "Alibaba",
     "Shopify",
     "MSFT"
   ],
   "key_products": [
-    "Amazon.com e-commerce platform",
-    "Amazon Web Services (AWS)",
-    "Amazon Prime Video",
-    "Amazon Echo (Alexa)",
-    "Amazon Kindle"
+    "Amazon.com marketplace",
+    "Amazon Prime",
+    "Amazon Web Services",
+    "Amazon Devices (Echo, Kindle)",
+    "Amazon Advertising"
   ],
-  "extracted_at": "2026-02-26 16:46:53",
+  "extracted_at": "2026-02-27 16:39:22",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.accio.com/supplier/manufacturer-amazon",
+      "url": "https://ir.aboutamazon.com/",
       "query": "Amazon.com, Inc. suppliers manufacturers",
-      "snippet": "Jan 11, 2026 · Looking for Amazon manufacturers? Discover certified suppliers offering apparel, supplements, and FBA logistics."
+      "snippet": "Amazon . com , Inc . (NASDAQ: AMZN) today announced financial results for its second quarter ended June 30, 2025. Net sales increased 13% to $167.7 bi"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://d39w7f4ix9f5s9.cloudfront.net/cb/19/77dfc5b441c892cd6e2be166ba70/final-amazon-supplier-list-2019-11-14-updated-1005am.pdf",
+      "url": "https://www.alibaba.com/",
       "query": "Amazon.com, Inc. suppliers manufacturers",
-      "snippet": "The facilities listed produce Amazon-branded apparel, consumer electronics, and home goods products. This list was last updated November 2019 and is s"
+      "snippet": "Find quality Manufacturers , Suppliers , Exporters, Importers, Buyers, Wholesalers, Products and Trade Leads from our award-winning International Trad"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://capitaloneshopping.com/research/amazon-statistics/",
       "query": "Amazon.com, Inc. major customers clients",
-      "snippet": "Jan 28, 2026 · Statistics & analysis on Amazon including total sales (per year & minute), number of products (SKUs), customers , sellers & more."
+      "snippet": "Statistics & analysis on Amazon including total sales (per year & minute), number of products (SKUs), customers , sellers & more."
     },
     {
       "source": "DuckDuckGo",
       "url": "https://csimarket.com/stocks/AMZN-Customers",
       "query": "Amazon.com, Inc. major customers clients",
-      "snippet": "Amazon Com Inc 's Comment on Sales, Marketing and Customers We serve consumers through our retail websites and focus on selection, price, and convenie"
+      "snippet": "Amazon Com Inc's Comment on Sales, Marketing and Customers We serve consumers through our retail websites and focus on selection, price, and convenien"
     }
   ]
 }

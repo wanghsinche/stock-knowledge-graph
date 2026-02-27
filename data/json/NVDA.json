@@ -6,34 +6,32 @@
   "upstream": [
     "TSM",
     "005930.KS",
+    "MU",
     "GlobalFoundries",
-    "ASE Group",
-    "Amkor Technology"
+    "NVDA"
   ],
   "downstream": [
-    "SONY",
     "MSFT",
-    "AMZN",
-    "GOOGL",
-    "TSLA"
+    "MSFT",
+    "TSLA",
+    "ORCL",
+    "AAPL"
   ],
   "competitors": [
     "AMD",
     "INTC",
     "QCOM",
     "AVGO",
-    "005930.KS"
+    "AAPL"
   ],
   "key_products": [
-    "GeForce RTX GPUs",
-    "Quadro RTX GPUs",
-    "Tesla GPUs",
-    "DGX AI systems",
-    "NVIDIA Shield",
-    "NVIDIA Drive",
-    "CUDA Toolkit"
+    "GeForce GPUs (RTX 30/40 series)",
+    "Quadro/RTX A-series professional GPUs",
+    "Tesla/Grace GPUs for data centers",
+    "NVIDIA Jetson SoCs for edge AI",
+    "CUDA and related software APIs"
   ],
-  "extracted_at": "2026-02-26 16:45:55",
+  "extracted_at": "2026-02-27 16:30:41",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Nvidia",
+      "url": "https://stocksandfuturestrading.com/the-complete-list-of-nvidias-suppliers-and-consumers/",
       "query": "NVIDIA Corporation suppliers manufacturers",
-      "snippet": "Nvidia Corporation . Show dark mode logo. Nvidia uses external suppliers for all phases of manufacturing , including wafer fabrication, assembly, test"
+      "snippet": "NVIDIA Key Business Relationships NVIDIA Suppliers TSMC ~25% of expenditure Samsung ~15% of expenditure ASE Technology ~10% of expenditure SK Hynix/Mi"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/NVDA/",
+      "url": "https://csimarket.com/stocks/NVDA-Suppliers",
       "query": "NVIDIA Corporation suppliers manufacturers",
-      "snippet": "Find the latest NVIDIA Corporation (NVDA) stock quote, history, news and other vital information to help you with your stock trading and investing."
+      "snippet": "Nov 20, 2025 · Nvidia supply chain, list and performance of Nvidias' suppliers - CSIMarket"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.fool.com/investing/2025/06/26/who-are-nvidias-biggest-customers/",
       "query": "NVIDIA Corporation major customers clients",
-      "snippet": "Nvidia's GPUs and networking equipment account for a large chunk of AI data center spending, but other major costs include land acquisition, construct"
+      "snippet": "June 26, 2025 - Nvidia has amassed an impressive list of customers, which includes top AI developers like Amazon, Microsoft, and Alphabet ."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://economictimes.indiatimes.com/news/international/us/two-mystery-customers-made-up-40-of-nvidias-revenue-who-are-they/articleshow/123635412.cms",
+      "url": "https://www.fool.com/investing/2024/05/02/who-are-nvidias-largest-customers/",
       "query": "NVIDIA Corporation major customers clients",
-      "snippet": "Nvidias latest earnings grabbed headlines with a jaw-dropping $46.7 billion in quarterly revenue, but buried inside the SEC filing was a detail that s"
+      "snippet": "May 2, 2024 - However, in its recent 10-K filing, the company did say that one customer represented 13% of its revenue from its compute and networking"
     }
   ]
 }

@@ -2,36 +2,36 @@
   "ticker": "BKNG",
   "company_name": "Booking Holdings Inc.",
   "sector": "Consumer Cyclical / Travel Services",
-  "industry": "Online Travel Agency",
+  "industry": "Travel & Tourism Services",
   "upstream": [
-    "Technology platform providers (e.g., cloud services, payment processors)",
-    "Data analytics vendors",
-    "Marketing and advertising agencies",
-    "Content and media partners",
-    "Legal and compliance service firms"
+    "Hotel chains",
+    "Airlines",
+    "Car rental companies",
+    "CAT",
+    "Travel agencies"
   ],
   "downstream": [
-    "Hotel and accommodation providers",
-    "Airlines and flight operators",
-    "Car rental agencies",
-    "Corporate travel departments",
-    "Individual leisure travelers"
+    "Individual travelers",
+    "Corporate travel managers",
+    "Travel agencies",
+    "Online travel portals",
+    "Travel bloggers"
   ],
   "competitors": [
-    "Expedia Group Inc.",
-    "TripAdvisor Inc.",
-    "Airbnb Inc.",
-    "Priceline.com (Booking Holdings subsidiary)",
-    "Kayak Inc."
+    "Expedia Group",
+    "TripAdvisor",
+    "Airbnb",
+    "Priceline",
+    "Kayak"
   ],
   "key_products": [
-    "Online hotel reservation platform",
-    "Flight booking services",
-    "Car rental booking",
-    "Vacation package sales",
-    "Travel insurance offerings"
+    "Booking.com",
+    "Priceline.com",
+    "Kayak",
+    "Rentalcars.com",
+    "Agoda"
   ],
-  "extracted_at": "2026-02-25 17:07:25",
+  "extracted_at": "2026-02-27 16:51:22",
   "sources": [
     {
       "source": "Wikipedia",
@@ -53,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/BKNG-Customers",
-      "query": "Booking Holdings Inc. major customers clients",
-      "snippet": "For your research, we’ve provided 9 tables on Booking Holdings Inc corporate clients . You can find them in the navigation menu under Customers & Mark"
-    },
-    {
-      "source": "DuckDuckGo",
       "url": "https://ir.bookingholdings.com/financials/annual-reports/default.aspx",
       "query": "Booking Holdings Inc. major customers clients",
       "snippet": "At Booking Holdings , we promise to treat your data with respect and will not share your information with any third party. You can unsubscribe to any "
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/BKNG-Customers",
+      "query": "Booking Holdings Inc. major customers clients",
+      "snippet": "Booking Holdings Inc customers and markets, results by customer and performance relative to BKNG, by company and industry - CSIMarket"
     }
   ]
 }

@@ -4,34 +4,34 @@
   "sector": "Financial Services",
   "industry": "Banks - Diversified",
   "upstream": [
+    "IBM",
     "MSFT",
-    "Payment processors (e.g., Visa, Mastercard, PayPal)",
-    "Data providers (e.g., Bloomberg, Thomson Reuters)",
-    "Cybersecurity firms (e.g., Palo Alto Networks, Symantec)",
-    "MSFT"
+    "ORCL",
+    "Accenture",
+    "Deloitte"
   ],
   "downstream": [
-    "Retail banking customers (individuals)",
-    "Small and medium‑size businesses",
-    "Large corporate clients",
-    "Government and public sector entities",
-    "Institutional investors and asset managers"
+    "U.S. consumers",
+    "U.S. small businesses",
+    "U.S. large corporations",
+    "U.S. government agencies",
+    "U.S. institutional investors"
   ],
   "competitors": [
-    "JPMorgan Chase & Co.",
-    "Citigroup Inc.",
-    "Wells Fargo & Co.",
-    "Goldman Sachs Group Inc.",
+    "JPMorgan Chase",
+    "Citigroup",
+    "Wells Fargo",
+    "Goldman Sachs",
     "Morgan Stanley"
   ],
   "key_products": [
-    "Consumer banking (checking, savings, mortgages)",
-    "Credit card services",
-    "Wealth management and investment advisory",
-    "Corporate and investment banking",
-    "Treasury and cash management services"
+    "Retail banking services",
+    "Commercial banking services",
+    "Investment banking services",
+    "Wealth management",
+    "Credit cards"
   ],
-  "extracted_at": "2026-02-24 17:01:37",
+  "extracted_at": "2026-02-27 16:47:21",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Bank_of_America",
+      "url": "https://csimarket.com/stocks/BAC-Suppliers",
       "query": "Bank of America Corporation suppliers manufacturers",
-      "snippet": "The Bank of America Corporation is an American multinational investment bank and financial services holding company headquartered at the Bank of Ameri"
+      "snippet": "Nov 1, 2025 · Bank Of America supply chain, list and performance of Bank Of Americas' suppliers - CSIMarket"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.bankofamerica.com/",
+      "url": "https://about.bankofamerica.com/en/our-company/supplier-management",
       "query": "Bank of America Corporation suppliers manufacturers",
-      "snippet": "At Bank of America , our purpose is to help make financial lives better through the power of every connection.Your Bank of America deposits and Merril"
+      "snippet": "Bank of America is dedicated to partnering with suppliers who value ethics, inclusion, human rights, and the environment. Learn more about our supplie"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/Bank_of_America",
+      "query": "Bank of America Corporation major customers clients",
+      "snippet": "The Bank of America Corporation ( Bank of America ; often abbreviated BAC or BofA) is an American multinational investment bank and financial services"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://newsroom.bankofamerica.com/content/newsroom/company-overview/bank-of-america-fast-facts.html",
       "query": "Bank of America Corporation major customers clients",
-      "snippet": "Jan 14, 2026 · Explore Bank of America Fast Facts for key insights on our global presence, financial services, client reach, and commitment to respons"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/BAC-Customers",
-      "query": "Bank of America Corporation major customers clients",
-      "snippet": "6 days ago · For your research, we’ve provided 9 tables on Bank Of America Corporation corporate clients . You can find them in the navigation menu un"
+      "snippet": "Explore Bank of America Fast Facts for key insights on our global presence, financial services, client reach, and commitment to responsible growth."
     }
   ]
 }

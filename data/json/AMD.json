@@ -5,33 +5,33 @@
   "industry": "Semiconductors",
   "upstream": [
     "TSM",
-    "005930.KS",
     "GlobalFoundries",
-    "MU",
-    "NVDA"
+    "005930.KS",
+    "United Microelectronics Corporation (UMC)",
+    "Semiconductor Manufacturing International Corporation (SMIC)"
   ],
   "downstream": [
-    "SONY",
     "MSFT",
-    "HPQ",
     "DELL",
-    "Lenovo Group"
+    "HPQ",
+    "Lenovo",
+    "SONY"
   ],
   "competitors": [
     "INTC",
     "NVDA",
     "QCOM",
     "AVGO",
-    "TXN"
+    "ARM"
   ],
   "key_products": [
-    "Central Processing Units (CPUs)",
-    "Graphics Processing Units (GPUs)",
-    "Field‑Programmable Gate Arrays (FPGAs)",
-    "System‑on‑Chip (SoC) solutions",
-    "High‑performance computer components"
+    "Ryzen CPUs",
+    "Ryzen Threadripper",
+    "EPYC servers",
+    "Radeon GPUs",
+    "Xilinx FPGAs"
   ],
-  "extracted_at": "2026-02-26 16:47:02",
+  "extracted_at": "2026-02-27 16:42:56",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/AMD-Suppliers",
-      "query": "Advanced Micro Devices, Inc. suppliers manufacturers",
-      "snippet": "Advanced Micro Devices Inc's Suppliers recorded an increase in sales by 3.41 % year on year in Q4 2025, from the previous quarter, sales fell by -1.6 "
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.globalspec.com/Supplier/profile/AdvancedMicroDevices",
-      "query": "Advanced Micro Devices, Inc. suppliers manufacturers",
-      "snippet": "Advanced Micro Devices, Inc. business profile on GlobalSpec. Read about Advanced Micro Devices, Inc ., browse product catalogs and product areas."
-    },
-    {
-      "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/AMD",
-      "query": "Advanced Micro Devices, Inc. major customers clients",
-      "snippet": "3 days ago - In September 1969, AMD moved from its temporary location in Santa Clara to its new $500,000 15,000sqft headquarters at 901 Thompson Place"
+      "query": "Advanced Micro Devices, Inc. suppliers manufacturers",
+      "snippet": "Advanced Micro Devices, Inc. (AMD) is an American multinational semiconductor company headquartered in Santa Clara, California, with significant opera"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.sec.gov/Archives/edgar/data/2488/000000248817000043/amd-12312016x10k.htm",
+      "url": "https://www.trefis.com/data/companies/AMD",
+      "query": "Advanced Micro Devices, Inc. suppliers manufacturers",
+      "snippet": "Major Suppliers for Advanced Micro Devices (AMD):. Taiwan Semiconductor Manufacturing Company (Symbol: TSM); ASE Technology Holding Co., Ltd. (Symbol:"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/AMD-Customers",
       "query": "Advanced Micro Devices, Inc. major customers clients",
-      "snippet": "Our major customers, Sony Corporation, Microsoft Corporation and HP Inc. , each accounted for more than 10% of our consolidated net revenue for the ye"
+      "snippet": "3 days ago · Advanced Micro Devices Inc customers and markets, results by customer and performance relative to AMD, by company and industry - CSIMarke"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.marketscreener.com/quote/stock/AMD-ADVANCED-MICRO-DEVICE-179387659/finances-segments/",
+      "query": "Advanced Micro Devices, Inc. major customers clients",
+      "snippet": "Feb 19, 2026 · Understand how activity and revenue gets distributed for AMD (Advanced Micro Devices ) (AMD). Ten-year segmentation history. The entire"
     }
   ]
 }

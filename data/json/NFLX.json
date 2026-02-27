@@ -1,21 +1,21 @@
 {
   "ticker": "NFLX",
   "company_name": "Netflix, Inc.",
-  "sector": "Communication Services",
-  "industry": "Entertainment",
+  "sector": "Communication Services / Entertainment",
+  "industry": "Streaming Media",
   "upstream": [
     "Content production studios",
     "Film distributors",
-    "Technology infrastructure providers",
-    "Marketing agencies",
-    "Equipment manufacturers"
+    "Video equipment manufacturers",
+    "Cloud service providers",
+    "Advertising technology providers"
   ],
   "downstream": [
     "Individual subscribers",
-    "Corporate enterprise plans",
-    "International markets",
-    "Smart TV OEMs",
-    "Mobile carriers"
+    "Corporate clients",
+    "CAT",
+    "Telecom providers",
+    "Cable operators"
   ],
   "competitors": [
     "Disney+",
@@ -26,12 +26,12 @@
   ],
   "key_products": [
     "Netflix streaming service",
-    "Original series",
-    "Original movies",
-    "Documentaries",
-    "Kids programming"
+    "Netflix Originals",
+    "Licensed TV shows",
+    "Movies",
+    "Documentaries"
   ],
-  "extracted_at": "2026-02-26 16:48:12",
+  "extracted_at": "2026-02-27 16:32:17",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://npfp.netflixstudios.com/region/global/",
+      "url": "https://en.wikipedia.org/wiki/Netflix,_Inc.",
       "query": "Netflix, Inc. suppliers manufacturers",
-      "snippet": "Netflix Preferred Fulfillment Partners Hiventy Group has been providing high-end technical solutions to the entertainment industry for more than 30 ye"
+      "snippet": "Netflix, Inc. is an American media company founded on August 29, 1997 by Reed Hastings and Marc Randolph in Scotts Valley, California, and currently b"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/NFLX-Suppliers",
+      "url": "https://www.eximpedia.app/companies/netflix-inc/68821493",
       "query": "Netflix, Inc. suppliers manufacturers",
-      "snippet": "Sources: Netflix Inc 's official press releases and regulatory filings; CSIMarket.com's supply-chain research; and the financial filings and press rel"
+      "snippet": "View Netflix Inc import export trade data, including shipment records, HS codes, top buyers, suppliers, trade values, and global market insights."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/markets_glance.php?code=NFLX",
+      "url": "https://www.bloomberg.com/news/articles/2026-02-27/netflix-investors-cheer-decision-to-drop-fight-for-warner-bros",
       "query": "Netflix, Inc. major customers clients",
-      "snippet": "Dec 10, 2025 · Netflix Inc customers and markets, results by customer and performance relative to NFLX, by company and industry - CSIMarket"
+      "snippet": "Netflix Inc . just won by losing. Shares of the streaming industry leader rose as much as 13% in extended trading late Thursday after the company anno"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://businessmodelanalyst.com/netflix-target-market/",
+      "url": "https://www.inc.com/jason-aten/netflix-just-revealed-its-doing-the-1-thing-customers-were-most-afraid-of/91110628",
       "query": "Netflix, Inc. major customers clients",
-      "snippet": "Dec 11, 2024 · In this context, understanding Netflix target market becomes even more significant for other brands hoping to emulate its success."
+      "snippet": "Before we get to that, an important thing to note is that this is the last time Netflix plans to share subscriber numbers—at least as a regular part o"
     }
   ]
 }

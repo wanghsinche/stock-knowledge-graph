@@ -2,36 +2,36 @@
   "ticker": "COIN",
   "company_name": "Coinbase Global, Inc.",
   "sector": "Financial Services",
-  "industry": "Cryptocurrency Exchanges",
+  "industry": "Financial Data & Stock Exchanges",
   "upstream": [
     "AMZN",
-    "GOOGL",
     "MSFT",
+    "GOOGL",
     "Stripe",
-    "Plaid"
+    "PayPal"
   ],
   "downstream": [
     "Retail cryptocurrency traders",
     "Institutional investors",
-    "Hedge funds",
-    "Banks",
-    "Corporate clients"
+    "Crypto merchants",
+    "DeFi protocol developers",
+    "Financial institutions"
   ],
   "competitors": [
     "Binance",
     "Kraken",
     "Gemini",
     "Bitstamp",
-    "Huobi"
+    "FTX (formerly)"
   ],
   "key_products": [
-    "Coinbase Pro",
-    "Coinbase Wallet",
-    "Coinbase Earn",
-    "Coinbase Custody",
-    "Coinbase Prime"
+    "Cryptocurrency spot trading",
+    "Crypto custody services",
+    "Staking and yield products",
+    "Fiat on‑ramp and off‑ramp",
+    "API and developer tools"
   ],
-  "extracted_at": "2026-02-26 16:50:50",
+  "extracted_at": "2026-02-27 16:49:44",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.coinbase.com/vendors/vendors-at-coinbase-code-of-conduct",
-      "query": "Coinbase Global, Inc. suppliers manufacturers",
-      "snippet": "This information is the property of Coinbase , or the property of Coinbase's suppliers , customers, or business partners, and in many cases was develo"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://fintel.io/doc/sec-coinbase-global-inc-1679788-ex211-2024-february-15-19768-5823",
-      "query": "Coinbase Global, Inc. suppliers manufacturers",
-      "snippet": "Coinbase Global, Inc. - List of Subsidiaries of the Registrant - EX-21.1 - February 15, 2024 COIN / Coinbase Global, Inc. Filings Coinbase Global, Inc"
-    },
-    {
-      "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Coinbase",
-      "query": "Coinbase Global, Inc. major customers clients",
-      "snippet": "Coinbase Global , Inc . is an American cryptocurrency exchange. It was founded in 2012 by Brian Armstrong and Fred Ehrsam."
+      "query": "Coinbase Global, Inc. suppliers manufacturers",
+      "snippet": "Coinbase Global, Inc. is an American cryptocurrency exchange. It was founded in 2012 by Brian Armstrong and Fred Ehrsam. Coinbase has over 100 million"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.investing.com/equities/coinbase-global",
+      "url": "https://www.coinbase.com/vendors/vendors-at-coinbase",
+      "query": "Coinbase Global, Inc. suppliers manufacturers",
+      "snippet": "Getting started as a Coinbase Vendor. Procurement guidelines & policies to streamline the vendor experience. Missing: Global, Inc. manufacturers"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://investor.coinbase.com/news/news-details/2026/Coinbase-Delivers-on-Q4-Financial-Outlook-Doubles-Total-Trading-Volume-and-Crypto-Trading-Volume-Market-Share-in-2025/default.aspx",
       "query": "Coinbase Global, Inc. major customers clients",
-      "snippet": "The dollar sign is a shorthand convention used to indicate that it is a stock ticker symbol. What Stock Exchange Does Coinbase Global Inc Trade On? Co"
+      "snippet": "All-time high Coinbase Total Trading Volume, up 156% Y/Y, outperforming the market All-time high Coinbase Crypto Trading Volume Market Share up 103% Y"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/COIN-Customers",
+      "query": "Coinbase Global, Inc. major customers clients",
+      "snippet": "Coinbase Global Inc customers and markets, results by customer and performance relative to COIN, by company and industry - CSIMarket"
     }
   ]
 }

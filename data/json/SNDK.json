@@ -1,37 +1,37 @@
 {
   "ticker": "SNDK",
-  "company_name": "Sandisk Corporation",
+  "company_name": "SanDisk Corporation",
   "sector": "Technology",
   "industry": "Computer Hardware",
   "upstream": [
-    "Matrix Semiconductor",
-    "MU",
     "005930.KS",
-    "NXP Semiconductors",
-    "SK Hynix"
+    "MU",
+    "SK Hynix",
+    "Toshiba Memory",
+    "WDC"
   ],
   "downstream": [
-    "Consumer electronics manufacturers",
-    "PC OEMs",
-    "Mobile device manufacturers",
-    "Enterprise storage vendors",
-    "Gaming console manufacturers"
+    "DELL",
+    "HPQ",
+    "Lenovo Group",
+    "AAPL",
+    "MSFT"
   ],
   "competitors": [
-    "MU",
     "005930.KS",
+    "MU",
     "Kingston Technology",
-    "Corsair",
-    "MU"
+    "MU",
+    "Lexar"
   ],
   "key_products": [
-    "Memory cards",
+    "SD memory cards",
+    "microSD cards",
     "USB flash drives",
-    "Solid-state drives",
-    "Embedded flash memory",
-    "Enterprise SSDs"
+    "Solid‑state drives (SSDs)",
+    "Enterprise flash storage"
   ],
-  "extracted_at": "2026-02-26 16:46:26",
+  "extracted_at": "2026-02-27 16:34:50",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,15 +41,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/SanDisk",
+      "url": "https://en.wikipedia.org/wiki/Sandisk",
       "query": "Sandisk Corporation suppliers manufacturers",
-      "snippet": "1 week ago - In October 2005, SanDisk acquired Matrix Semiconductor. In July 2006, SanDisk acquired M-Systems. In May 2011, SanDisk acquired Pliant Te"
+      "snippet": "Sandisk Corporation is an American multinational computer technology company based in Milpitas, California, that designs and manufactures flash memory"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.trustedparts.com/en/manufacturers/sandisk",
+      "url": "https://www.sandisk.com/en-ca/company/distributors",
       "query": "Sandisk Corporation suppliers manufacturers",
-      "snippet": "SanDisk distributor stock, prices & datasheets from authorized distributors. Search authorized SanDisk inventory."
+      "snippet": "4.7 · Free delivery over $50 · 30-day returns Find Sandisk Distributors & Resellers. Purchase from your preferred Sandisk authorized partner. Region. "
     },
     {
       "source": "DuckDuckGo",

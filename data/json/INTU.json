@@ -4,25 +4,25 @@
   "sector": "Technology",
   "industry": "Software - Application",
   "upstream": [
-    "AMZN",
     "MSFT",
+    "AMZN",
     "GOOGL",
-    "DELL",
-    "ADBE"
+    "ORCL",
+    "IBM"
   ],
   "downstream": [
-    "Small and medium‑size businesses using QuickBooks",
-    "Individual taxpayers using TurboTax",
-    "Accountants and tax professionals",
-    "Credit Karma users for personal finance",
-    "Email marketers using Mailchimp"
+    "Small and medium-sized enterprises (SMEs)",
+    "Individual taxpayers",
+    "Accounting firms",
+    "Financial advisors",
+    "Tax professionals"
   ],
   "competitors": [
-    "Xero (accounting software)",
-    "Sage (accounting and payroll)",
-    "FreshBooks (cloud accounting)",
-    "Wave (free accounting for SMBs)",
-    "Zoho Books (cloud accounting)"
+    "H&R Block",
+    "Sage",
+    "Xero",
+    "FreshBooks",
+    "Square"
   ],
   "key_products": [
     "TurboTax",
@@ -31,7 +31,7 @@
     "Mailchimp",
     "Intuit Payments"
   ],
-  "extracted_at": "2026-02-26 16:48:30",
+  "extracted_at": "2026-02-27 16:46:42",
   "sources": [
     {
       "source": "Wikipedia",
@@ -53,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Intuit",
+      "url": "https://finance.yahoo.com/quote/INTU/earnings/INTU-Q2-2026-earnings_call-421828.html",
       "query": "Intuit Inc. major customers clients",
-      "snippet": "Intuit Inc . is an American multinational business software company that specializes in financial software. Headquartered in Mountain View, California"
+      "snippet": "Intuit is fueling the success of our customers with innovation that enable businesses to operate from lead to cash and help consumers from credit buil"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/INTU-Customers",
+      "url": "https://www.linkedin.com/company/intuit",
       "query": "Intuit Inc. major customers clients",
-      "snippet": "Intuit Inc 's Comment on Sales, Marketing and Customers Markets Our primary target customers are small businesses, consumers, and accounting professio"
+      "snippet": "About us. Intuit is a global technology platform that helps our customers and communities overcome their most important financial challenges. Serving "
     }
   ]
 }

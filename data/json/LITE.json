@@ -1,37 +1,37 @@
 {
   "ticker": "LITE",
   "company_name": "Lumentum Holdings Inc.",
-  "sector": "Technology",
-  "industry": "Communication Equipment",
+  "sector": "Technology / Communication Equipment",
+  "industry": "Optical and Photonic Components",
   "upstream": [
-    "II-VI Incorporated",
+    "Corning Inc.",
     "Coherent Inc.",
-    "Laser diode manufacturers",
-    "Fiber optic component suppliers",
-    "Semiconductor component suppliers"
+    "II-VI Incorporated",
+    "Finisar Corp.",
+    "Lumentum Holdings Inc."
   ],
   "downstream": [
+    "AAPL",
     "CSCO",
-    "Huawei Technologies",
-    "Nokia",
-    "Ericsson",
-    "Data center equipment vendors"
+    "Ericsson AB",
+    "Nokia Corporation",
+    "Huawei Technologies Co., Ltd."
   ],
   "competitors": [
-    "II-VI Incorporated",
     "Coherent Inc.",
-    "Thorlabs",
-    "Avago Technologies",
-    "Lumen Technologies"
+    "Newport Corporation",
+    "II-VI Incorporated",
+    "Finisar Corp.",
+    "Lumen Technologies Inc."
   ],
   "key_products": [
     "Optical transceivers",
+    "Photonic integrated circuits",
     "Laser diodes",
-    "Photodetectors",
     "Optical amplifiers",
-    "Optical sensors"
+    "Fiber optic components"
   ],
-  "extracted_at": "2026-02-26 16:48:04",
+  "extracted_at": "2026-02-27 16:45:16",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
+      "url": "https://www.lumentum.com/en/company/distributors",
+      "query": "Lumentum Holdings Inc. suppliers manufacturers",
+      "snippet": "Lumentum is a global leader in optical and photonic products, enabling high-bandwidth connectivity, precision sensing, and advanced manufacturing."
+    },
+    {
+      "source": "DuckDuckGo",
       "url": "https://csimarket.com/stocks/LITE-Suppliers",
       "query": "Lumentum Holdings Inc. suppliers manufacturers",
-      "snippet": "Lumentum Holdings Inc supply chain, list and performance of Lumentum Holdings Incs' suppliers - CSIMarket"
+      "snippet": "Feb 9, 2026 · Lumentum Holdings Inc supply chain, list and performance of Lumentum Holdings Incs' suppliers - CSIMarket"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.lumentum.com/en/company",
-      "query": "Lumentum Holdings Inc. suppliers manufacturers",
-      "snippet": "Company Lumentum is illuminating the networks of tomorrow with breakthrough optical and photonic technologies that power innovation across AI, cloud, "
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://de.investing.com/equities/lumentum-holdings-inc",
+      "url": "https://matrixbcg.com/blogs/target-market/lumentum",
       "query": "Lumentum Holdings Inc. major customers clients",
-      "snippet": "Die Frage, ob Lumentum Holdings Inc - oder irgendeine andere Aktie - ein guter Kauf ist, erfordert eine gründliche Analyse. Melden Sie sich dazu bei I"
+      "snippet": "Nov 26, 2025 · Lumentum primarily serves business-to-business clients, focusing on two main customer segments: Cloud & Networking and Industrial Tech."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/news/lumentum-holdings-lite-q2-earnings-124312247.html",
+      "url": "https://www.trefis.com/data/companies/LITE",
       "query": "Lumentum Holdings Inc. major customers clients",
-      "snippet": "Lumentum Holdings Inc . Price, Consensus and EPS Surprise | Lumentum Holdings Inc . Quote. Quarter Details. Optical Communications (87.1% of total rev"
+      "snippet": "Its major customers include: Apple Inc. (AAPL) - Apple has been a significant customer for Lumentum, particularly for its 3D sensing components used i"
     }
   ]
 }

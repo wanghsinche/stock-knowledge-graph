@@ -4,34 +4,34 @@
   "sector": "Financial Services",
   "industry": "Credit Services",
   "upstream": [
-    "Card manufacturing vendors",
-    "Payment network providers (e.g., Visa, Mastercard)",
-    "Technology infrastructure suppliers",
-    "Data analytics and fraud‑prevention vendors",
-    "Compliance and regulatory consulting firms"
+    "Payment processors (e.g., Visa, Mastercard)",
+    "Card manufacturing suppliers",
+    "Technology vendors (e.g., payment gateway providers)",
+    "Security and fraud‑prevention service providers",
+    "Data analytics and risk‑management firms"
   ],
   "downstream": [
-    "Retail merchants and e‑commerce platforms",
-    "Travel agencies and airlines",
-    "Hotel chains and hospitality providers",
+    "Retail merchants (e.g., grocery stores, department stores)",
+    "Travel and hospitality partners (airlines, hotels, car rentals)",
+    "Corporate and institutional cardholders",
     "Consumer cardholders (individuals)",
-    "Corporate and business clients"
+    "Financial institutions using Amex co‑branded cards"
   ],
   "competitors": [
     "Visa Inc.",
     "Mastercard Inc.",
     "Discover Financial Services",
-    "Capital One",
-    "JPMorgan Chase (credit card division)"
+    "JCB Co., Ltd.",
+    "Capital One Financial Corp."
   ],
   "key_products": [
     "American Express charge cards",
     "American Express credit cards",
-    "Corporate and small‑business credit cards",
-    "Travel and concierge services",
-    "Merchant services and payment processing"
+    "Travelers' checks (historical)",
+    "Corporate payment solutions",
+    "Rewards and loyalty programs"
   ],
-  "extracted_at": "2026-02-24 17:03:26",
+  "extracted_at": "2026-02-27 16:47:09",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/American_Express",
+      "url": "https://www.americanexpress.com/en-us/company/supplier-management/",
       "query": "American Express Company suppliers manufacturers",
-      "snippet": "American Express Company or Amex is an American bank holding company and multinational financial services corporation that specializes in payment card"
+      "snippet": "American Express is a global company committed to working with suppliers that adhere to the same standard of ethics, legality, and integrity as Americ"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ru.wikipedia.org/wiki/American_Express",
+      "url": "https://greenplaces.com/suppliers/american-express/",
       "query": "American Express Company suppliers manufacturers",
-      "snippet": "«Американ Экспресс Компани» — американская финансовая компания. Известными продуктами компании являются кредитные карты, платежные карты и дорожные че"
+      "snippet": "American Express has set clear supplier sustainability requirements designed to ensure every vendor supports responsible business practices. For suppl"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/American_Express",
+      "url": "https://www.americanexpress.com/en-us/company/our-business/",
       "query": "American Express Company major customers clients",
-      "snippet": "American Express Company or Amex is an American bank holding company and multinational financial services corporation that specializes in payment card"
+      "snippet": "American Express is a global payments and premium lifestyle brand powered by technology. Our colleagues around the world back our customers with diffe"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ru.wikipedia.org/wiki/American_Express",
+      "url": "https://docs.publicnow.com/viewDoc?filename=23694\\EXT\\D2E69050751B66F168F645302D0EEF33D5BF86AE_5B70F2004314D0BFC747313F21D81D03868C1334.PDF",
       "query": "American Express Company major customers clients",
-      "snippet": "«Американ Экспресс Компани» ( American Express , AmEx ) — американская финансовая компания. Известными продуктами компании являются кредитные карты, п"
+      "snippet": "American Express is a globally integrated payments company with card-issuing, merchant-acquiring and card network businesses that offer products and s"
     }
   ]
 }

@@ -3,8 +3,8 @@ ticker: V
 company: Visa Inc.
 sector: Financial Services
 industry: Credit Services
-extracted_at: 2026-02-26 16:52:03
-last_updated: 2026-02-26
+extracted_at: 2026-02-27 16:49:01
+last_updated: 2026-02-27
 ---
 
 # V - Visa Inc.
@@ -12,37 +12,37 @@ last_updated: 2026-02-26
 ## 基本信息
 
 - **所属行业**: Financial Services / Credit Services
-- **提取时间**: 2026-02-26 16:52:03
+- **提取时间**: 2026-02-27 16:49:01
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Technology hardware suppliers]]
-- [[Software platform vendors]]
-- [[Data center service providers]]
+- [[Chip manufacturers (e.g., NXP, STMicroelectronics)]]
+- [[Card production vendors (e.g., Giesecke+Devrient)]]
 - [[Payment network infrastructure providers]]
-- [[Security and compliance solution vendors]]
+- [[Software and cybersecurity vendors]]
+- [[Data center and cloud service providers]]
 
 ### 下游客户
-- [[Retail merchants]]
-- [[Financial institutions (banks)]]
-- [[Online e‑commerce platforms]]
-- [[Travel and hospitality providers]]
-- [[Government agencies]]
+- [[Banks and financial institutions issuing Visa cards]]
+- [[Merchants and retailers accepting Visa payments]]
+- [[Card issuers (e.g., Chase, Citibank)]]
+- [[AAPL]]
+- [[Payment processors and acquirers]]
 
 ### 竞争对手
 - [[Mastercard]]
 - [[American Express]]
-- [[Discover Financial Services]]
-- [[PayPal]]
-- [[Square]]
+- [[Discover]]
+- [[JCB]]
+- [[UnionPay]]
 
 ### 核心产品
-- [[Visa credit cards]]
-- [[Visa debit cards]]
-- [[Visa prepaid cards]]
-- [[Payment processing network]]
-- [[Fraud detection and security services]]
+- [[Visa payment network (VisaNet)]]
+- [[Visa credit, debit, and prepaid cards]]
+- [[Mobile payment solutions (Visa Checkout, Visa Pay)]]
+- [[Fraud detection and risk management services]]
+- [[Data analytics and insights for merchants]]
 
 ## 数据来源
 
@@ -54,4 +54,4 @@ last_updated: 2026-02-26
 
 ## 元数据
 
-- **更新日期**: 2026-02-26
+- **更新日期**: 2026-02-27

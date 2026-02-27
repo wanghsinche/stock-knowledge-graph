@@ -3,8 +3,8 @@ ticker: LLY
 company: Eli Lilly and Company
 sector: Healthcare
 industry: Drug Manufacturers - General
-extracted_at: 2026-02-26 16:51:45
-last_updated: 2026-02-26
+extracted_at: 2026-02-27 16:50:11
+last_updated: 2026-02-27
 ---
 
 # LLY - Eli Lilly and Company
@@ -12,46 +12,28 @@ last_updated: 2026-02-26
 ## 基本信息
 
 - **所属行业**: Healthcare / Drug Manufacturers - General
-- **提取时间**: 2026-02-26 16:51:45
+- **提取时间**: 2026-02-27 16:50:11
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Lonza]]
-- [[CAT]]
-- [[Thermo Fisher Scientific]]
-- [[VWR International]]
-- [[Merck KGaA (chemical supplies)]]
+_暂无数据_
 
 ### 下游客户
-- [[Hospitals]]
-- [[Pharmacies]]
-- [[Health systems]]
-- [[Government agencies (e.g., Medicare, Medicaid)]]
-- [[Insurance companies]]
+_暂无数据_
 
 ### 竞争对手
-- [[Pfizer]]
-- [[Johnson & Johnson]]
-- [[Merck & Co.]]
-- [[AbbVie]]
-- [[Bristol-Myers Squibb]]
+_暂无数据_
 
 ### 核心产品
-- [[Humira (adalimumab)]]
-- [[Lantus (insulin glargine)]]
-- [[Trulicity (dulaglutide)]]
-- [[Mounjaro (tirzepatide)]]
-- [[Zyprexa (olanzapine)]]
+_暂无数据_
 
 ## 数据来源
 
 - [Eli Lilly and Company](https://en.wikipedia.org/wiki/Eli_Lilly_and_Company)
 - [Eli Lilly and Company suppliers manufacturers](https://en.wikipedia.org/wiki/Eli_Lilly_and_Company)
-- [Eli Lilly and Company suppliers manufacturers](https://www.lilly.com/)
-- [Eli Lilly and Company major customers clients](https://en.wikipedia.org/wiki/Eli_Lilly_and_Company)
-- [Eli Lilly and Company major customers clients](https://www.lilly.com/about/contact)
+- [Eli Lilly and Company suppliers manufacturers](https://www.lilly.com/suppliers)
 
 ## 元数据
 
-- **更新日期**: 2026-02-26
+- **更新日期**: 2026-02-27

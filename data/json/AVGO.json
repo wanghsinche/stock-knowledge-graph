@@ -4,34 +4,34 @@
   "sector": "Technology",
   "industry": "Semiconductors",
   "upstream": [
-    "AMAT",
-    "ASML",
-    "LRCX",
-    "Tokyo Electron",
-    "KLA"
+    "TSM",
+    "005930.KS",
+    "GlobalFoundries",
+    "INTC",
+    "MU"
   ],
   "downstream": [
-    "CSCO",
-    "DELL",
-    "HPQ",
     "AMZN",
-    "MSFT"
+    "MSFT",
+    "GOOGL",
+    "CSCO",
+    "IBM"
   ],
   "competitors": [
     "INTC",
     "QCOM",
     "NVDA",
     "AMD",
-    "TXN"
+    "MU"
   ],
   "key_products": [
+    "Broadcom BCM series chips",
+    "Wi‑Fi and Bluetooth modules",
     "Ethernet controllers",
-    "Wi‑Fi chips",
-    "Broadband chips",
-    "Storage controllers",
-    "Networking ASICs"
+    "Broadcom Switches",
+    "Broadcom Storage Controllers"
   ],
-  "extracted_at": "2026-02-26 16:46:44",
+  "extracted_at": "2026-02-27 16:42:23",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,25 +43,25 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Broadcom",
       "query": "Broadcom Inc. suppliers manufacturers",
-      "snippet": "Broadcom Inc. is an American multinational designer, developer, manufacturer , and global supplier of a wide range of semiconductor and infrastructure"
+      "snippet": "Broadcom Inc . is an American multinational designer, developer, manufacturer , and global supplier of a wide range of semiconductor and infrastructur"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.broadcom.com/how-to-buy/partner-distributor-lookup",
+      "url": "https://www.broadcom.com/",
       "query": "Broadcom Inc. suppliers manufacturers",
-      "snippet": "Find a local reseller or global distributor of every Broadcom software solution for your business or enterprise, spanning the desktop to the Mainframe"
+      "snippet": "Broadcom delivers semiconductors and infrastructure software for global enterprises’ most complex, mission-critical needs."
     },
     {
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Broadcom",
       "query": "Broadcom Inc. major customers clients",
-      "snippet": "Broadcom Inc . is an American multinational designer, developer, manufacturer, and global supplier of a wide range of semiconductor and infrastructure"
+      "snippet": "1 week ago - Broadcom also offers products for supporting BizOps, including: ... Broadcom uses the term XPU to refer to custom ASIC chips developed in"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/AVGO-Customers",
+      "url": "https://www.appsruntheworld.com/customers-database/vendors/view/broadcom",
       "query": "Broadcom Inc. major customers clients",
-      "snippet": "2 days ago · Broadcom Inc customers and markets, results by customer and performance relative to AVGO, by company and industry - CSIMarket"
+      "snippet": "1 month ago - The most widely adopted products are Broadcom Symantec Secure Web Gateway, AppWorx Workload Automation, Broadcom Symantec Endpoint Prote"
     }
   ]
 }

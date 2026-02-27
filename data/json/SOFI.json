@@ -4,34 +4,34 @@
   "sector": "Financial Services",
   "industry": "Credit Services",
   "upstream": [
-    "Cloud service providers (AWS, Azure)",
-    "Payment processors (Stripe, PayPal)",
-    "Data analytics vendors (Experian, Equifax)",
+    "AMZN",
     "MSFT",
-    "Cybersecurity providers (McAfee, Palo Alto)"
+    "Stripe",
+    "PayPal",
+    "Snowflake"
   ],
   "downstream": [
-    "Individual consumers (borrowers)",
-    "Student loan borrowers",
-    "Mortgage borrowers",
-    "Personal loan customers",
-    "Investors using SoFi Invest"
+    "U.S. banks and credit unions",
+    "Fintech partners",
+    "Mortgage lenders",
+    "Student loan servicers",
+    "Credit card issuers"
   ],
   "competitors": [
-    "LendingClub Corp.",
-    "Upstart Holdings Inc.",
+    "LendingClub",
+    "Prosper",
+    "Upstart",
     "Marcus by Goldman Sachs",
-    "Varo Money",
-    "Chime Inc."
+    "SoFi's own competitor: SoFi (internal competition for certain products)"
   ],
   "key_products": [
-    "Student loan refinancing",
     "Personal loans",
+    "Student loan refinancing",
     "Mortgage loans",
     "Credit cards",
-    "Investment platform (SoFi Invest)"
+    "Investment platform"
   ],
-  "extracted_at": "2026-02-23 18:08:41",
+  "extracted_at": "2026-02-27 16:48:31",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/SOFI-Suppliers",
+      "url": "https://en.wikipedia.org/wiki/SoFi",
       "query": "SoFi Technologies, Inc. suppliers manufacturers",
-      "snippet": "Sofi Technologies Inc's Comment on Supply Chain SOFI's Stock Perfrormance relative to it's Suppliers SOFI's vs. Suppliers , Data (Revenue and Income f"
+      "snippet": "SoFi Technologies , Inc . (abbreviated as SoFi ) is an American financial technology company. Founded in 2011 by Stanford University students, it oper"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://investors.sofi.com/overview/default.aspx",
+      "url": "https://investors.sofi.com/",
       "query": "SoFi Technologies, Inc. suppliers manufacturers",
-      "snippet": "SoFi's mission is to help people reach financial independence to realize their ambitions. Financial independence doesn't just mean being rich; it mean"
+      "snippet": "At Social Finance, Inc . ( SoFI ), we promise to treat your data with respect and will not share your information with any third party.By providing yo"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://csimarket.com/stocks/SOFI-Customers",
       "query": "SoFi Technologies, Inc. major customers clients",
-      "snippet": "Jan 25, 2026 · Sofi Technologies Inc customers and markets, results by customer and performance relative to SOFI, by company and industry - CSIMarket"
+      "snippet": "Jan 25, 2026 · Sofi Technologies Inc customers and markets, results by customer and performance relative to SOFI , by company and industry - CSIMarket"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://investingintheweb.com/digital-banks/sofi-statistics/",
       "query": "SoFi Technologies, Inc. major customers clients",
-      "snippet": "Jan 6, 2026 · Founded in 2011, SoFi Technologies , Inc ., commonly known as SoFi, is a US-based personal finance company and online bank. SoFi has gai"
+      "snippet": "Jan 6, 2026 · Founded in 2011, SoFi Technologies , Inc ., commonly known as SoFi , is a US-based personal finance company and online bank. SoFi has ga"
     }
   ]
 }

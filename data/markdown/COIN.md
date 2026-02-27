@@ -2,56 +2,56 @@
 ticker: COIN
 company: Coinbase Global, Inc.
 sector: Financial Services
-industry: Cryptocurrency Exchanges
-extracted_at: 2026-02-26 16:50:50
-last_updated: 2026-02-26
+industry: Financial Data & Stock Exchanges
+extracted_at: 2026-02-27 16:49:44
+last_updated: 2026-02-27
 ---
 
 # COIN - Coinbase Global, Inc.
 
 ## 基本信息
 
-- **所属行业**: Financial Services / Cryptocurrency Exchanges
-- **提取时间**: 2026-02-26 16:50:50
+- **所属行业**: Financial Services / Financial Data & Stock Exchanges
+- **提取时间**: 2026-02-27 16:49:44
 
 ## 产业链关系
 
 ### 上游供应商
 - [[AMZN]]
-- [[GOOGL]]
 - [[MSFT]]
+- [[GOOGL]]
 - [[Stripe]]
-- [[Plaid]]
+- [[PayPal]]
 
 ### 下游客户
 - [[Retail cryptocurrency traders]]
 - [[Institutional investors]]
-- [[Hedge funds]]
-- [[Banks]]
-- [[Corporate clients]]
+- [[Crypto merchants]]
+- [[DeFi protocol developers]]
+- [[Financial institutions]]
 
 ### 竞争对手
 - [[Binance]]
 - [[Kraken]]
 - [[Gemini]]
 - [[Bitstamp]]
-- [[Huobi]]
+- [[FTX (formerly)]]
 
 ### 核心产品
-- [[Coinbase Pro]]
-- [[Coinbase Wallet]]
-- [[Coinbase Earn]]
-- [[Coinbase Custody]]
-- [[Coinbase Prime]]
+- [[Cryptocurrency spot trading]]
+- [[Crypto custody services]]
+- [[Staking and yield products]]
+- [[Fiat on‑ramp and off‑ramp]]
+- [[API and developer tools]]
 
 ## 数据来源
 
 - [Coinbase](https://en.wikipedia.org/wiki/Coinbase_Global,_Inc.)
-- [Coinbase Global, Inc. suppliers manufacturers](https://www.coinbase.com/vendors/vendors-at-coinbase-code-of-conduct)
-- [Coinbase Global, Inc. suppliers manufacturers](https://fintel.io/doc/sec-coinbase-global-inc-1679788-ex211-2024-february-15-19768-5823)
-- [Coinbase Global, Inc. major customers clients](https://en.wikipedia.org/wiki/Coinbase)
-- [Coinbase Global, Inc. major customers clients](https://www.investing.com/equities/coinbase-global)
+- [Coinbase Global, Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/Coinbase)
+- [Coinbase Global, Inc. suppliers manufacturers](https://www.coinbase.com/vendors/vendors-at-coinbase)
+- [Coinbase Global, Inc. major customers clients](https://investor.coinbase.com/news/news-details/2026/Coinbase-Delivers-on-Q4-Financial-Outlook-Doubles-Total-Trading-Volume-and-Crypto-Trading-Volume-Market-Share-in-2025/default.aspx)
+- [Coinbase Global, Inc. major customers clients](https://csimarket.com/stocks/COIN-Customers)
 
 ## 元数据
 
-- **更新日期**: 2026-02-26
+- **更新日期**: 2026-02-27

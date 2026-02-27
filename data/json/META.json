@@ -4,34 +4,36 @@
   "sector": "Communication Services",
   "industry": "Internet Content & Information",
   "upstream": [
-    "META",
-    "META",
-    "META",
-    "META",
-    "META"
-  ],
-  "downstream": [
-    "Coca-Cola",
-    "Nike",
-    "Procter & Gamble",
-    "005930.KS",
-    "MSFT"
-  ],
-  "competitors": [
-    "GOOGL",
-    "AMZN",
-    "AAPL",
+    "DELL",
+    "Data center providers (e.g., Equinix, Digital Realty)",
+    "CAT",
     "MSFT",
     "NVDA"
+  ],
+  "downstream": [
+    "Advertisers (global brands, agencies)",
+    "App developers using Facebook SDK",
+    "Content creators on Facebook, Instagram, WhatsApp",
+    "Gaming partners (e.g., Roblox, Epic Games)",
+    "META"
+  ],
+  "competitors": [
+    "X (formerly Twitter)",
+    "Snap Inc. (Snapchat)",
+    "TikTok (ByteDance)",
+    "MSFT",
+    "Pinterest"
   ],
   "key_products": [
     "Facebook",
     "Instagram",
     "WhatsApp",
     "Messenger",
-    "Meta Ads"
+    "Threads",
+    "Manus",
+    "Meta Advertising Network"
   ],
-  "extracted_at": "2026-02-26 16:47:37",
+  "extracted_at": "2026-02-27 16:43:07",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +43,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/META-Suppliers",
+      "url": "https://ru.wikipedia.org/wiki/Meta_Platforms",
       "query": "Meta Platforms, Inc. suppliers manufacturers",
-      "snippet": "Nov 28, 2025 · Meta Platforms Inc 's Suppliers recorded an increase in sales by 17.82 % year on year in Q3 2025, sequentially sales grew by 12.48 %, M"
+      "snippet": "Meta Platforms , Inc . — американская транснациональная холдинговая компания, владеющая технологическим конгломератом и расположенная в Менло-Парке, К"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://forwork.meta.com/legal/mfw-subprocessor-list/",
+      "url": "https://en.wikipedia.org/wiki/List_of_computer_hardware_manufacturers",
       "query": "Meta Platforms, Inc. suppliers manufacturers",
-      "snippet": "Nov 13, 2023 · Meta Germany GmbH Germany Meta Italy S.R.L. Italy Meta Netherlands B.V. Netherlands Meta Poland Sp. zoo Poland Meta Singapore Pte. Ltd."
+      "snippet": "Current notable computer hardware manufacturers : Cases. [edit]. List of computer case manufacturers : This list is incomplete; you can help by adding"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Meta_Platforms",
+      "url": "https://www.meta.com/",
       "query": "Meta Platforms, Inc. major customers clients",
-      "snippet": "Meta Platforms , Inc . (doing business as Meta) is an American multinational technology company headquartered in Menlo Park, California. Meta owns and"
+      "snippet": "Meta Platforms , Inc , Slide 18 of 24."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://inbeat.agency/blog/meta-statistics",
+      "url": "https://www.computerhope.com/comp/meta.htm",
       "query": "Meta Platforms, Inc. major customers clients",
-      "snippet": "Meta Statistics for 2025 with key data on users, revenue, ads, and trends to help marketers boost ROI and improve targeting across Meta platforms ."
+      "snippet": "Meta Platforms Inc 1 Hacker Way Menlo Park, California 94025. Stock: MVRS (formerly FB)."
     }
   ]
 }
