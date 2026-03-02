@@ -3,8 +3,8 @@ ticker: RTX
 company: RTX Corporation
 sector: Industrials
 industry: Aerospace & Defense
-extracted_at: 2026-02-20 16:36:05
-last_updated: 2026-02-20
+extracted_at: 2026-03-02 16:40:54
+last_updated: 2026-03-02
 ---
 
 # RTX - RTX Corporation
@@ -12,49 +12,46 @@ last_updated: 2026-02-20
 ## 基本信息
 
 - **所属行业**: Industrials / Aerospace & Defense
-- **提取时间**: 2026-02-20 16:36:05
+- **提取时间**: 2026-03-02 16:40:54
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Aerospace component manufacturers]]
-- [[Electronics suppliers]]
-- [[Composite material suppliers]]
-- [[Engine component suppliers]]
-- [[Missile component suppliers]]
+- [[Honeywell International]]
+- [[General Electric Aerospace]]
+- [[Boeing]]
+- [[Northrop Grumman]]
+- [[Boeing Defense]]
 
 ### 下游客户
 - [[U.S. Department of Defense]]
 - [[U.S. Navy]]
 - [[U.S. Air Force]]
-- [[U.S. Army]]
 - [[U.S. Space Force]]
+- [[European Space Agency]]
 
 ### 竞争对手
 - [[Lockheed Martin]]
 - [[Boeing]]
 - [[Northrop Grumman]]
 - [[General Dynamics]]
-- [[BAE Systems]]
+- [[Airbus]]
 
 ### 核心产品
 - [[Aircraft engines]]
 - [[Avionics]]
 - [[Aerostructures]]
-- [[Cybersecurity solutions]]
 - [[Guided missiles]]
-- [[Air defense systems]]
 - [[Satellites]]
-- [[Drones]]
 
 ## 数据来源
 
 - [RTX Corporation](https://en.wikipedia.org/wiki/RTX_Corporation)
 - [RTX Corporation suppliers manufacturers](https://en.wikipedia.org/wiki/RTX_Corporation)
 - [RTX Corporation suppliers manufacturers](https://www.rtx.com/suppliers)
-- [RTX Corporation major customers clients](https://csimarket.com/stocks/RTX-Customers)
-- [RTX Corporation major customers clients](https://pestel-analysis.com/blogs/target-market/rtx)
+- [RTX Corporation major customers clients](https://en.wikipedia.org/wiki/RTX_Corporation)
+- [RTX Corporation major customers clients](https://www.rtx.com/raytheon/eagle/customers)
 
 ## 元数据
 
-- **更新日期**: 2026-02-20
+- **更新日期**: 2026-03-02

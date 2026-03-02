@@ -4,34 +4,34 @@
   "sector": "Healthcare",
   "industry": "Biotechnology",
   "upstream": [
-    "RNA synthesis providers",
+    "Nucleoside triphosphate suppliers",
     "Lipid nanoparticle manufacturers",
     "Cell culture media suppliers",
-    "Plasmid DNA vendors",
-    "Chemical reagent suppliers"
+    "Enzyme suppliers",
+    "CAT"
   ],
   "downstream": [
     "U.S. Department of Health and Human Services",
-    "Centers for Disease Control and Prevention (CDC)",
-    "National Institutes of Health (NIH)",
-    "European Medicines Agency (EMA)",
-    "Major hospital networks"
+    "Centers for Disease Control and Prevention",
+    "National Institutes of Health",
+    "Pfizer (COVID‑19 vaccine partnership)",
+    "GSK (influenza vaccine partnership)"
   ],
   "competitors": [
-    "Pfizer-BioNTech",
+    "BioNTech",
+    "Pfizer",
     "Johnson & Johnson",
     "Novavax",
-    "CureVac",
-    "Sanofi"
+    "CureVac"
   ],
   "key_products": [
-    "Spikevax (COVID‑19 vaccine)",
     "mRNA‑1273 (COVID‑19 vaccine)",
+    "mRNA‑1273.211 (COVID‑19 booster)",
+    "mRNA‑5325 (influenza vaccine)",
     "mRNA‑4157 (cancer vaccine)",
-    "mRNA‑1245 (influenza vaccine)",
-    "mRNA‑5891 (COVID‑19 variant vaccine)"
+    "mRNA‑3704 (influenza vaccine)"
   ],
-  "extracted_at": "2026-02-27 16:51:49",
+  "extracted_at": "2026-03-02 16:49:00",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,25 +43,25 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Moderna",
       "query": "Moderna, Inc. suppliers manufacturers",
-      "snippet": "Moderna, Inc is an American pharmaceutical and biotechnology company based in Cambridge, Massachusetts, that focuses on RNA therapeutics, primarily mR"
+      "snippet": "Moderna , Inc . (/ məˈdɜːrnə / mə-DUR-nə) [4] is an American pharmaceutical and biotechnology company based in Cambridge, Massachusetts, that focuses "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.modernatx.com/en-US/supplier/moderna-supplier-page",
+      "url": "https://modernadirect.com/authorized-distributor",
       "query": "Moderna, Inc. suppliers manufacturers",
-      "snippet": "This page is dedicated to serving Moderna's valued suppliers with essential information on Ariba, supplier onboarding, invoicing, and key contacts for"
+      "snippet": "Moderna collaborates with a network of authorized distributors dedicated to ensuring the distribution of our products. These distributors are carefull"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Moderna",
+      "url": "https://finviz.com/quote.ashx?t=mrna",
       "query": "Moderna, Inc. major customers clients",
-      "snippet": "Moderna, Inc is an American pharmaceutical and biotechnology company based in Cambridge, Massachusetts, that focuses on RNA therapeutics, primarily mR"
+      "snippet": "Moderna , Inc . engages in the development of transformative medicines based on messenger ribonucleic acid. The firm's product pipeline includes the f"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://matrixbcg.com/blogs/target-market/moderna",
+      "url": "https://www.bloomberg.com/quote/MRNAUSD:SW",
       "query": "Moderna, Inc. major customers clients",
-      "snippet": "Jul 28, 2025 · Moderna's primary customer base for mRNA therapeutics extends beyond infectious disease prevention to include patients and healthcare p"
+      "snippet": "The Company focuses on the discovery and development of messenger RNA therapeutics and vaccines. Moderna develops mRNA medicines for infectious, immun"
     }
   ]
 }

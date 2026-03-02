@@ -4,34 +4,34 @@
   "sector": "Technology",
   "industry": "Software - Application",
   "upstream": [
-    "MSFT",
     "AMZN",
+    "MSFT",
     "GOOGL",
-    "ORCL",
-    "IBM"
+    "DELL",
+    "ORCL"
   ],
   "downstream": [
-    "Small and medium-sized enterprises (SMEs)",
+    "Small businesses",
     "Individual taxpayers",
-    "Accounting firms",
-    "Financial advisors",
-    "Tax professionals"
+    "Freelancers",
+    "Accountants",
+    "Financial advisors"
   ],
   "competitors": [
-    "H&R Block",
-    "Sage",
+    "SAP",
+    "ORCL",
+    "MSFT",
     "Xero",
-    "FreshBooks",
-    "Square"
+    "FreshBooks"
   ],
   "key_products": [
     "TurboTax",
     "QuickBooks",
     "Credit Karma",
     "Mailchimp",
-    "Intuit Payments"
+    "ProConnect"
   ],
-  "extracted_at": "2026-02-27 16:46:42",
+  "extracted_at": "2026-03-02 16:46:03",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://investors.intuit.com/_assets/_95ad7170fb600fdc9a2c5384b928b8c2/intuit/db/933/10235/file/2023.05.21-Intuit+Inc.+and+Intuit+Canada+ULC-Modern+Slavery+Statement+(FY23+Supply+Chains+Act)-Executed.pdf",
+      "url": "https://en.wikipedia.org/wiki/Intuit",
       "query": "Intuit Inc. suppliers manufacturers",
-      "snippet": "Country risk: Suppliers may be in low-risk jurisdictions such as Canada, the UK, the EU, or the USA, but they may use overseas operations such as for "
+      "snippet": "Intuit Inc . is an American multinational business software company that specializes in financial software. Headquartered in Mountain View, California"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://quickbooks.intuit.com/r/supply-chain/5-ways-to-find-international-manufacturers/",
+      "url": "https://csimarket.com/stocks/INTU-Suppliers",
       "query": "Intuit Inc. suppliers manufacturers",
-      "snippet": "There are many trusted online resources such as Alibaba.com, Thomasnet.com and Tdctrade.com that help you build a network of suppliers, manufacturers,"
+      "snippet": "Intuit Inc supply chain, list and performance of Intuit Incs ' suppliers - CSIMarket"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/INTU/earnings/INTU-Q2-2026-earnings_call-421828.html",
+      "url": "https://en.wikipedia.org/wiki/Intuit",
       "query": "Intuit Inc. major customers clients",
-      "snippet": "Intuit is fueling the success of our customers with innovation that enable businesses to operate from lead to cash and help consumers from credit buil"
+      "snippet": "Intuit ; Credit Karma · Mailchimp · QuickBooks · TurboTax · ProConnect · Personal finance · Accounting software · Tax return software · Increase US$18"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.linkedin.com/company/intuit",
+      "url": "https://www.intuit.com/company/",
       "query": "Intuit Inc. major customers clients",
-      "snippet": "About us. Intuit is a global technology platform that helps our customers and communities overcome their most important financial challenges. Serving "
+      "snippet": "Serving approximately 100 million customers worldwide with TurboTax, Credit Karma, QuickBooks, and Mailchimp, Intuit helps put more money in consumers"
     }
   ]
 }

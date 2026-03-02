@@ -2,56 +2,56 @@
 ticker: LITE
 company: Lumentum Holdings Inc.
 sector: Technology / Communication Equipment
-industry: Optical and Photonic Components
-extracted_at: 2026-02-27 16:45:16
-last_updated: 2026-02-27
+industry: Photonics / Optical Communications
+extracted_at: 2026-03-02 16:36:48
+last_updated: 2026-03-02
 ---
 
 # LITE - Lumentum Holdings Inc.
 
 ## 基本信息
 
-- **所属行业**: Technology / Communication Equipment / Optical and Photonic Components
-- **提取时间**: 2026-02-27 16:45:16
+- **所属行业**: Technology / Communication Equipment / Photonics / Optical Communications
+- **提取时间**: 2026-03-02 16:36:48
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Corning Inc.]]
-- [[Coherent Inc.]]
-- [[II-VI Incorporated]]
-- [[Finisar Corp.]]
-- [[Lumentum Holdings Inc.]]
+- [[Laser diode manufacturers]]
+- [[Optical fiber suppliers]]
+- [[Photonic component suppliers]]
+- [[Semiconductor equipment suppliers]]
+- [[Optical amplifier component suppliers]]
 
 ### 下游客户
-- [[AAPL]]
 - [[CSCO]]
-- [[Ericsson AB]]
-- [[Nokia Corporation]]
-- [[Huawei Technologies Co., Ltd.]]
+- [[Huawei Technologies]]
+- [[Nokia]]
+- [[Ericsson]]
+- [[JNPR]]
 
 ### 竞争对手
 - [[Coherent Inc.]]
-- [[Newport Corporation]]
 - [[II-VI Incorporated]]
-- [[Finisar Corp.]]
-- [[Lumen Technologies Inc.]]
+- [[Lumen Technologies]]
+- [[Optical Solutions Inc.]]
+- [[Infinera]]
 
 ### 核心产品
-- [[Optical transceivers]]
-- [[Photonic integrated circuits]]
 - [[Laser diodes]]
 - [[Optical amplifiers]]
+- [[Photonic integrated circuits]]
+- [[Optical transceivers]]
 - [[Fiber optic components]]
 
 ## 数据来源
 
 - 
-- [Lumentum Holdings Inc. suppliers manufacturers](https://www.lumentum.com/en/company/distributors)
-- [Lumentum Holdings Inc. suppliers manufacturers](https://csimarket.com/stocks/LITE-Suppliers)
-- [Lumentum Holdings Inc. major customers clients](https://matrixbcg.com/blogs/target-market/lumentum)
-- [Lumentum Holdings Inc. major customers clients](https://www.trefis.com/data/companies/LITE)
+- [Lumentum Holdings Inc. suppliers manufacturers](https://www.lumentum.com/en/company)
+- [Lumentum Holdings Inc. suppliers manufacturers](https://investor.lumentum.com/financial-news-releases/news-details/2026/Lumentum-Showcases-Next-Generation-Ultrafast-and-UV-Laser-Platforms-for-Precision-Manufacturing-at-Photonics-West-2026/default.aspx)
+- [Lumentum Holdings Inc. major customers clients](https://csimarket.com/stocks/LITE-Customers)
+- [Lumentum Holdings Inc. major customers clients](https://markets.financialcontent.com/stocks/article/finterra-2026-3-2-lumentum-holdings-lite-the-optical-architecture-of-the-ai-supercycle)
 
 ## 元数据
 
-- **更新日期**: 2026-02-27
+- **更新日期**: 2026-03-02

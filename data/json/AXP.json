@@ -4,34 +4,34 @@
   "sector": "Financial Services",
   "industry": "Credit Services",
   "upstream": [
-    "Payment processors (e.g., Visa, Mastercard)",
     "Card manufacturing suppliers",
-    "Technology vendors (e.g., payment gateway providers)",
-    "Security and fraud‑prevention service providers",
-    "Data analytics and risk‑management firms"
+    "Payment processing technology vendors",
+    "Data security and encryption providers",
+    "Credit rating agencies",
+    "Insurance partners"
   ],
   "downstream": [
-    "Retail merchants (e.g., grocery stores, department stores)",
-    "Travel and hospitality partners (airlines, hotels, car rentals)",
-    "Corporate and institutional cardholders",
-    "Consumer cardholders (individuals)",
-    "Financial institutions using Amex co‑branded cards"
+    "Individual consumers",
+    "Small and medium‑size businesses",
+    "Large corporate clients",
+    "Travel agencies and airlines",
+    "Online merchants"
   ],
   "competitors": [
     "Visa Inc.",
     "Mastercard Inc.",
     "Discover Financial Services",
-    "JCB Co., Ltd.",
-    "Capital One Financial Corp."
+    "Capital One",
+    "PayPal"
   ],
   "key_products": [
     "American Express charge cards",
     "American Express credit cards",
-    "Travelers' checks (historical)",
-    "Corporate payment solutions",
+    "Travel and concierge services",
+    "Merchant services and payment solutions",
     "Rewards and loyalty programs"
   ],
-  "extracted_at": "2026-02-27 16:47:09",
+  "extracted_at": "2026-03-02 16:44:57",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,21 +47,21 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://greenplaces.com/suppliers/american-express/",
+      "url": "https://www.americanexpress.com/content/dam/amex/uk/business/Trends-insights/PDF/American+Express+Coverage+Manufacturing.pdf",
       "query": "American Express Company suppliers manufacturers",
-      "snippet": "American Express has set clear supplier sustainability requirements designed to ensure every vendor supports responsible business practices. For suppl"
+      "snippet": "AMAZON: Global internet retailer and provider of cloud infrastructure services. AMERICAN TRAFFIC SOLUTION: ATS is a provider of smart transportation s"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.americanexpress.com/en-us/company/our-business/",
+      "url": "https://en.wikipedia.org/wiki/American_Express",
       "query": "American Express Company major customers clients",
-      "snippet": "American Express is a global payments and premium lifestyle brand powered by technology. Our colleagues around the world back our customers with diffe"
+      "snippet": "American Express Company or Amex is an American bank holding company and multinational financial services corporation that specializes in payment card"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://docs.publicnow.com/viewDoc?filename=23694\\EXT\\D2E69050751B66F168F645302D0EEF33D5BF86AE_5B70F2004314D0BFC747313F21D81D03868C1334.PDF",
+      "url": "https://ru.wikipedia.org/wiki/American_Express",
       "query": "American Express Company major customers clients",
-      "snippet": "American Express is a globally integrated payments company with card-issuing, merchant-acquiring and card network businesses that offer products and s"
+      "snippet": "«Американ Экспресс Компани» ( American Express , AmEx ) — американская финансовая компания. Известными продуктами компании являются кредитные карты, п"
     }
   ]
 }

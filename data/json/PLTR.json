@@ -1,37 +1,37 @@
 {
   "ticker": "PLTR",
   "company_name": "Palantir Technologies Inc.",
-  "sector": "Technology / Software - Infrastructure",
-  "industry": "Data Analytics & Integration",
+  "sector": "Technology",
+  "industry": "Software - Infrastructure",
   "upstream": [
-    "Cloud infrastructure providers (AWS, Azure, GCP)",
-    "Hardware manufacturers (servers, storage)",
-    "Software component vendors (open‑source libraries)",
-    "Consulting & system integration firms",
-    "Data center operators"
+    "AMZN",
+    "MSFT",
+    "GOOGL",
+    "ORCL",
+    "IBM"
   ],
   "downstream": [
-    "U.S. federal agencies (FBI, CIA, DoD)",
-    "State and local law‑enforcement agencies",
-    "International government ministries",
-    "Large corporations (JPMorgan Chase, Walmart, ExxonMobil)",
-    "Financial services firms (investment banks, insurers)"
+    "U.S. Department of Defense",
+    "U.S. Department of Justice",
+    "U.S. Federal Bureau of Investigation",
+    "JPMorgan Chase & Co.",
+    "Boeing"
   ],
   "competitors": [
     "Snowflake",
     "Databricks",
+    "Splunk",
     "IBM",
-    "MSFT",
-    "GOOGL"
+    "MSFT"
   ],
   "key_products": [
     "Gotham",
     "Foundry",
-    "Palantir Apollo",
-    "Palantir Helix",
-    "Palantir Platform (data integration & analytics)"
+    "Apollo",
+    "Metropolis",
+    "Palantir Platform"
   ],
-  "extracted_at": "2026-02-27 16:41:18",
+  "extracted_at": "2026-03-02 16:35:17",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ru.wikipedia.org/wiki/Palantir",
-      "query": "Palantir Technologies Inc. suppliers manufacturers",
-      "snippet": "Palantir — американская компания, разработчик программного обеспечения анализа данных для организаций, основные заказчики — военные структуры, спецслу"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/PLTR/",
-      "query": "Palantir Technologies Inc. suppliers manufacturers",
-      "snippet": "Find the latest Palantir Technologies Inc . (PLTR) stock quote, history, news and other vital information to help you with your stock trading and inve"
-    },
-    {
-      "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Palantir",
-      "query": "Palantir Technologies Inc. major customers clients",
-      "snippet": "Palantir has been used for data integration and analysis by corporate clients such as Morgan Stanley, Merck KGaA, Airbus, Wejo, Lilium, PG&E and Fiat "
+      "query": "Palantir Technologies Inc. suppliers manufacturers",
+      "snippet": "Palantir Technologies Inc . is an American publicly traded company that develops data integration and analytics platforms enabling government agencies"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.statista.com/statistics/1286996/palantir-technologies-number-of-customers/?srsltid=AfmBOopzCswMoegDYMfNnXLKAqqBVTD8KMapGpS9SnpGLtOCKS4M7P_K",
+      "url": "https://csimarket.com/stocks/PLTR-Suppliers",
+      "query": "Palantir Technologies Inc. suppliers manufacturers",
+      "snippet": "For your research, we’ve provided nine additional tables on Palantir Technologies Inc ’ s suppliers . You can find them in the navigation menu under S"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/Alex_Karp",
       "query": "Palantir Technologies Inc. major customers clients",
-      "snippet": "Feb 3, 2026 · As of the fourth quarter of 2025, the American software company counted nearly 954 customers, up from 391 at the beginning of 2023. Miss"
+      "snippet": "Alexander Caedmon Karp is an American businessman and entrepreneur. He is the co-founder and chief executive officer of the software firm Palantir Tec"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.marketwatch.com/investing/stock/pltr",
+      "query": "Palantir Technologies Inc. major customers clients",
+      "snippet": "PLTR | Complete Palantir Technologies Inc . stock news by MarketWatch. View real-time stock prices and stock quotes for a full financial overview."
     }
   ]
 }

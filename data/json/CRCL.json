@@ -1,37 +1,37 @@
 {
   "ticker": "CRCL",
-  "company_name": "Circle Internet Group, Inc.",
+  "company_name": "Circle Internet Group",
   "sector": "Financial Services",
   "industry": "Capital Markets",
   "upstream": [
-    "Payment processors",
-    "Cloud service providers",
-    "Blockchain infrastructure vendors",
-    "Regulatory compliance firms",
-    "Financial data providers"
+    "Blockchain infrastructure providers",
+    "Cloud service providers (AWS, Azure, GCP)",
+    "Payment processors (Stripe, PayPal)",
+    "Financial data providers (Bloomberg, Reuters)",
+    "Regulatory compliance services"
   ],
   "downstream": [
-    "Banks and financial institutions",
-    "Cryptocurrency exchanges",
-    "Institutional investors",
-    "Retail investors",
-    "Fintech startups"
+    "Financial institutions and banks",
+    "Crypto exchanges (Coinbase, Binance)",
+    "Payment platforms (PayPal, Square)",
+    "Retailers using stablecoin payments",
+    "Enterprise treasury clients"
   ],
   "competitors": [
     "Coinbase",
-    "Gemini",
-    "Paxos",
     "Binance",
-    "Silvergate"
+    "PayPal",
+    "Stripe",
+    "Tether"
   ],
   "key_products": [
     "USDC stablecoin",
     "EURC stablecoin",
     "USYC tokenized money market fund",
-    "Crypto payment solutions",
-    "Digital asset custody"
+    "Circle Pay",
+    "Circle API for stablecoin integration"
   ],
-  "extracted_at": "2026-02-27 16:48:19",
+  "extracted_at": "2026-03-02 16:38:32",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Circle_Internet_Group",
-      "query": "Circle Internet Group suppliers manufacturers",
-      "snippet": "Circle (legally Circle Internet Group , Inc.[2]) is a payments technology company. Funded by Jeremy Allaire and Sean Neville in 2013, [3][4] it is cur"
-    },
-    {
-      "source": "DuckDuckGo",
       "url": "https://investor.circle.com/overview/default.aspx",
       "query": "Circle Internet Group suppliers manufacturers",
-      "snippet": "Jan 21, 2026 · Circle Investor Relations Circle is a global financial technology firm that enables businesses of all sizes to harness the power of dig"
+      "snippet": "Jan 21, 2026 · Circle is building the world’s largest, most-widely used, stablecoin network, and issues, through its regulated affiliates, USDC and EU"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.investing.com/news/analyst-ratings/william-blair-reiterates-outperform-on-circle-internet-stock-on-stablecoin-growth-potential-93CH-4525540",
-      "query": "Circle Internet Group major customers clients",
-      "snippet": "The company achieved an earnings per share (EPS) of $0.43, surpassing the forecasted $0.35 by 22.86%. Revenue for the quarter reached $770 million, re"
+      "url": "https://www.financecharts.com/stocks/CRCL/profile",
+      "query": "Circle Internet Group suppliers manufacturers",
+      "snippet": "Circle Internet Group , Inc. is a financial technology company that enables businesses of all sizes to harness the power of digital currencies and pub"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.benzinga.com/crypto/cryptocurrency/25/06/46165366/circle-stock-is-a-must-hold-says-bernstein-heres-why",
+      "url": "https://csimarket.com/stocks/CRCL-Customers",
       "query": "Circle Internet Group major customers clients",
-      "snippet": "The analysts described Circle as a “must-hold” stock for investors looking to participate in the evolution of digital dollar networks beyond crypto tr"
+      "snippet": "Jan 12, 2026 · Circle Internet Group Inc customers and markets, results by customer and performance relative to CRCL, by company and industry - CSIMar"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.appsruntheworld.com/customers-database/vendors/view/circle-internet-group",
+      "query": "Circle Internet Group major customers clients",
+      "snippet": "List of companies using or evaluating Circle Internet Group applications, with details on their revenues, employees, industries, and locations."
     }
   ]
 }

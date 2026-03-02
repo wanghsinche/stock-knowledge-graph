@@ -1,37 +1,37 @@
 {
   "ticker": "AAPL",
   "company_name": "Apple Inc.",
-  "sector": "Technology / Consumer Electronics",
+  "sector": "Technology",
   "industry": "Consumer Electronics",
   "upstream": [
-    "Hon Hai Precision Industry (Foxconn)",
-    "Compal Electronics",
-    "Pegatron",
-    "Wistron",
-    "Flex"
+    "Foxconn (Hon Hai Precision Industry)",
+    "TSM",
+    "005930.KS",
+    "AVGO",
+    "QCOM"
   ],
   "downstream": [
-    "Retail consumers",
-    "Enterprise customers",
-    "CAT",
-    "Government agencies",
-    "OEM partners"
+    "iPhone",
+    "iPad",
+    "IBM",
+    "AAPL",
+    "AAPL"
   ],
   "competitors": [
     "005930.KS",
-    "GOOGL",
     "MSFT",
+    "GOOGL",
     "AMZN",
-    "Huawei"
+    "SONY"
   ],
   "key_products": [
     "iPhone",
-    "Mac",
     "iPad",
+    "Mac",
     "Apple Watch",
-    "Apple Silicon chips"
+    "AirPods"
   ],
-  "extracted_at": "2026-02-27 16:40:42",
+  "extracted_at": "2026-03-02 16:35:56",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.investopedia.com/articles/investing/090315/10-major-companies-tied-apple-supply-chain.asp",
+      "url": "https://en.wikipedia.org/wiki/Apple_supply_chain",
       "query": "Apple Inc. suppliers manufacturers",
-      "snippet": "Key Apple Suppliers from Taiwan · Hon Hai Precision Industry (Foxconn) · Compal · Quanta Computer · Taiwan Semiconductor Manufacturing Company · Wistr"
+      "snippet": "Apple supply chain As of 2021, Apple uses components from 43 countries. [1] The majority of assembling is done by Taiwanese original design manufactur"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.apple.com/supply-chain/",
+      "url": "https://www.investopedia.com/articles/investing/090315/10-major-companies-tied-apple-supply-chain.asp",
       "query": "Apple Inc. suppliers manufacturers",
-      "snippet": "Our suppliers are required to meet the strict standards of the Apple Supplier Code of Conduct, no matter where they operate or what type of goods, ser"
+      "snippet": "Nov 13, 2025 · Discover Apple' s top suppliers and how they enhance product performance and innovation. Learn about Apple's efficient supply chain and"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://csimarket.com/stocks/competitionNO4.php?markets&code=AAPL",
       "query": "Apple Inc. major customers clients",
-      "snippet": "Customers Customers Suppliers Computer Hardware Technology Basic Data Quarterly Results Stock Performance Growth Rates Per Employee Efficiency Managem"
+      "snippet": "List of Apple Inc ' s Customers comparisons of Market Cap, Sales per Employee, Income per Employee - CSIMarket"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://businessmodelanalyst.com/apple-target-market/",
       "query": "Apple Inc. major customers clients",
-      "snippet": "Nov 8, 2024 · Understanding a company’s target market is essential to its success. It helps shape product offerings, marketing strategies, and custome"
+      "snippet": "Nov 8, 2024 · For Apple , this analysis reveals a distinct and loyal customer base characterized by specific core values and lifestyle choices. Apple "
     }
   ]
 }

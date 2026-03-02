@@ -3,8 +3,8 @@ ticker: OXY
 company: Occidental Petroleum Corporation
 sector: Energy
 industry: Oil & Gas E&P
-extracted_at: 2026-02-19 16:44:45
-last_updated: 2026-02-19
+extracted_at: 2026-03-02 16:43:57
+last_updated: 2026-03-02
 ---
 
 # OXY - Occidental Petroleum Corporation
@@ -12,22 +12,22 @@ last_updated: 2026-02-19
 ## 基本信息
 
 - **所属行业**: Energy / Oil & Gas E&P
-- **提取时间**: 2026-02-19 16:44:45
+- **提取时间**: 2026-03-02 16:43:57
 
 ## 产业链关系
 
 ### 上游供应商
-- [[EMCO Chemical Distributors]]
-- [[Schlumberger]]
 - [[Halliburton]]
+- [[Schlumberger]]
 - [[Baker Hughes]]
 - [[Weatherford]]
+- [[National Oilwell Varco]]
 
 ### 下游客户
 - [[Chevron]]
 - [[ExxonMobil]]
 - [[Shell]]
-- [[BP]]
+- [[PetroChina]]
 - [[TotalEnergies]]
 
 ### 竞争对手
@@ -35,23 +35,23 @@ last_updated: 2026-02-19
 - [[Chevron]]
 - [[ConocoPhillips]]
 - [[EOG Resources]]
-- [[Pioneer Natural Resources]]
+- [[Phillips 66]]
 
 ### 核心产品
 - [[Crude oil]]
 - [[Natural gas]]
 - [[Petroleum products]]
 - [[Petrochemicals]]
-- [[LNG]]
+- [[Refined fuels]]
 
 ## 数据来源
 
 - [Occidental Petroleum](https://en.wikipedia.org/wiki/Occidental_Petroleum_Corporation)
-- [Occidental Petroleum Corporation suppliers manufacturers](https://en.wikipedia.org/wiki/Occidental_Petroleum)
-- [Occidental Petroleum Corporation suppliers manufacturers](https://www.emcochem.com/occidental-chemical/)
+- [Occidental Petroleum Corporation suppliers manufacturers](https://en.wikipedia.org/wiki/Armand_Hammer)
+- [Occidental Petroleum Corporation suppliers manufacturers](https://finance.yahoo.com/research/reports/ARGUS_3285_AnalystReport_1772214724000/)
 - [Occidental Petroleum Corporation major customers clients](https://en.wikipedia.org/wiki/Occidental_Petroleum)
-- [Occidental Petroleum Corporation major customers clients](https://www.marketwatch.com/story/hess-occidental-petroleum-were-bankrupt-diamond-offshores-biggest-customers-in-2019-2020-04-27?gaa_at=eafs)
+- [Occidental Petroleum Corporation major customers clients](https://canvasbusinessmodel.com/blogs/target-market/occidental-petroleum-target-market)
 
 ## 元数据
 
-- **更新日期**: 2026-02-19
+- **更新日期**: 2026-03-02

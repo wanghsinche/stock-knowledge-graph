@@ -4,34 +4,33 @@
   "sector": "Consumer Defensive",
   "industry": "Discount Stores",
   "upstream": [
-    "Food and beverage manufacturers",
-    "Apparel manufacturers",
-    "Electronics manufacturers",
-    "Household goods manufacturers",
-    "Pharmaceutical manufacturers"
+    "Procter & Gamble",
+    "Coca‑Cola",
+    "PepsiCo",
+    "Johnson & Johnson",
+    "Nike"
   ],
   "downstream": [
-    "Retail customers in the US and 19 other countries",
+    "Consumers",
     "Sam's Club members",
     "Online shoppers",
-    "Corporate clients",
-    "Small businesses"
+    "Corporate clients"
   ],
   "competitors": [
-    "Target Corp",
-    "Costco Wholesale Corp",
+    "Target",
+    "Costco",
     "AMZN",
-    "Kroger Co",
-    "Home Depot Inc"
+    "BJ's Wholesale",
+    "Dollar General"
   ],
   "key_products": [
-    "Grocery products",
-    "Clothing and accessories",
-    "Electronics",
+    "Groceries",
     "Household goods",
-    "Pharmacy products"
+    "Apparel",
+    "Electronics",
+    "Pharmacy"
   ],
-  "extracted_at": "2026-02-27 16:47:30",
+  "extracted_at": "2026-03-02 16:45:22",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +40,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://corporate.walmart.com/suppliers",
+      "url": "https://en.wikipedia.org/wiki/Walmart",
       "query": "Walmart Inc. suppliers manufacturers",
-      "snippet": "Walmart works with suppliers around the world to source quality products at great prices to help our customers save money and live better. To deliver "
+      "snippet": "Walmart Inc . is an American multinational retail corporation that operates a chain of hypermarkets, discount department stores, and grocery stores in"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://corporate.walmart.com/about/international/about/sourcing",
+      "url": "https://ru.wikipedia.org/wiki/Walmart",
       "query": "Walmart Inc. suppliers manufacturers",
-      "snippet": "We have teams stationed in 22 countries across the globe sourcing more than 400,000 unique SKUs from over 4000 suppliers for our private brand product"
+      "snippet": "Walmart , Inc . ([ˈwɔːlmɑːrt], «Уолмарт») — американская компания, управляющая крупнейшей в мире сетью оптовой и розничной торговли, действующей под т"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Walmart",
       "query": "Walmart Inc. major customers clients",
-      "snippet": "Walmart Inc . is an American multinational retail corporation that operates a chain of hypermarkets, discount department stores, and grocery stores in"
+      "snippet": "Walmart Inc. is an American multinational retail corporation that operates a chain of hypermarkets (also called supercenters), discount department sto"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.walmart.com/",
+      "url": "https://corporate.walmart.com/about",
       "query": "Walmart Inc. major customers clients",
-      "snippet": "Shop Walmart .com today for Every Day Low Prices. Join Walmart + for unlimited free delivery from your store and free shipping with no order minimum. "
+      "snippet": "Each week, approximately 280 million customers and members visit our more than 10,900 stores and numerous eCommerce websites in 19 countries. Our unri"
     }
   ]
 }

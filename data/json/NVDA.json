@@ -6,15 +6,15 @@
   "upstream": [
     "TSM",
     "005930.KS",
-    "MU",
     "GlobalFoundries",
-    "NVDA"
+    "INTC",
+    "UMC"
   ],
   "downstream": [
-    "MSFT",
-    "MSFT",
-    "TSLA",
-    "ORCL",
+    "ASUS",
+    "MSI",
+    "Gigabyte",
+    "DELL",
     "AAPL"
   ],
   "competitors": [
@@ -22,16 +22,16 @@
     "INTC",
     "QCOM",
     "AVGO",
-    "AAPL"
+    "ARM"
   ],
   "key_products": [
-    "GeForce GPUs (RTX 30/40 series)",
-    "Quadro/RTX A-series professional GPUs",
-    "Tesla/Grace GPUs for data centers",
-    "NVIDIA Jetson SoCs for edge AI",
-    "CUDA and related software APIs"
+    "GeForce GPUs",
+    "Quadro GPUs",
+    "Tesla GPUs",
+    "NVIDIA DRIVE SoCs",
+    "CUDA & RTX APIs"
   ],
-  "extracted_at": "2026-02-27 16:30:41",
+  "extracted_at": "2026-03-02 16:33:37",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,15 +41,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://stocksandfuturestrading.com/the-complete-list-of-nvidias-suppliers-and-consumers/",
+      "url": "https://en.wikipedia.org/wiki/Nvidia",
       "query": "NVIDIA Corporation suppliers manufacturers",
-      "snippet": "NVIDIA Key Business Relationships NVIDIA Suppliers TSMC ~25% of expenditure Samsung ~15% of expenditure ASE Technology ~10% of expenditure SK Hynix/Mi"
+      "snippet": "2 days ago - In August 2025, Nvidia ordered ... due to security concerns. The company directed suppliers including Taiwan Semiconductor Manufacturing "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/NVDA-Suppliers",
+      "url": "https://www.theaireport.ai/partner-columns/nvidias-supply-chain--part-1",
       "query": "NVIDIA Corporation suppliers manufacturers",
-      "snippet": "Nov 20, 2025 · Nvidia supply chain, list and performance of Nvidias' suppliers - CSIMarket"
+      "snippet": "Answering this simple question could unearth some investment opportunities that average ETF investors will miss. Here’s what you need to know. Taiwan "
     },
     {
       "source": "DuckDuckGo",

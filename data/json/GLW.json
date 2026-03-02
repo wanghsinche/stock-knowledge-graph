@@ -3,11 +3,35 @@
   "company_name": "Corning Incorporated",
   "sector": "Technology",
   "industry": "Electronic Components",
-  "upstream": [],
-  "downstream": [],
-  "competitors": [],
-  "key_products": [],
-  "extracted_at": "2026-02-27 16:48:06",
+  "upstream": [
+    "Silicon wafer suppliers",
+    "Glass raw material suppliers",
+    "Ceramic manufacturers",
+    "Optical fiber manufacturers",
+    "Chemical suppliers"
+  ],
+  "downstream": [
+    "005930.KS",
+    "CSCO",
+    "AAPL",
+    "Industrial and scientific equipment manufacturers (e.g., Thermo Fisher, Siemens)",
+    "TSLA"
+  ],
+  "competitors": [
+    "Nikon",
+    "Canon",
+    "Zeiss",
+    "Lumentum",
+    "Coherent"
+  ],
+  "key_products": [
+    "Optical fiber",
+    "Display glass",
+    "Advanced optics",
+    "Glass substrates",
+    "Ceramic materials"
+  ],
+  "extracted_at": "2026-03-02 16:40:42",
   "sources": [
     {
       "source": "Wikipedia",
@@ -17,15 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Gorilla_Glass",
+      "url": "https://www.corning.com/worldwide/en/products/life-sciences/config/Distributors.html",
       "query": "Corning Incorporated suppliers manufacturers",
-      "snippet": "Gorilla Glass is a brand of chemically strengthened glass developed and manufactured by Corning Inc . Currently in its ninth generation, it is designe"
+      "snippet": "Find an authorized Corning Life Sciences distributor with our worldwide list."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.corning.com/worldwide/en.html",
+      "url": "https://www.mouser.com/manufacturer/corning/",
       "query": "Corning Incorporated suppliers manufacturers",
-      "snippet": "Corning Incorporated is a global-leading innovator in materials science, with 170 years of life-changing inventions and category-defining products."
+      "snippet": "Today, Corning' s markets include optical communications, mobile consumer electronics, display technology, automotive, and life sciences vessels."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/Corning_Inc.",
+      "query": "Corning Incorporated major customers clients",
+      "snippet": "As of 2014, Corning had five major business sectors: display technologies, environmental technologies, life sciences, optical communications, and spec"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://canvasbusinessmodel.com/blogs/target-market/corning-target-market",
+      "query": "Corning Incorporated major customers clients",
+      "snippet": "Jul 11, 2025 · Corning's customer base is segmented across five key market access platforms: display technologies, optical communications, specialty m"
     }
   ]
 }

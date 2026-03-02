@@ -3,8 +3,8 @@ ticker: DELL
 company: Dell Technologies Inc.
 sector: Technology
 industry: Computer Hardware
-extracted_at: 2026-02-27 16:42:44
-last_updated: 2026-02-27
+extracted_at: 2026-03-02 16:45:37
+last_updated: 2026-03-02
 ---
 
 # DELL - Dell Technologies Inc.
@@ -12,46 +12,48 @@ last_updated: 2026-02-27
 ## 基本信息
 
 - **所属行业**: Technology / Computer Hardware
-- **提取时间**: 2026-02-27 16:42:44
+- **提取时间**: 2026-03-02 16:45:37
 
 ## 产业链关系
 
 ### 上游供应商
-- [[INTC]]
-- [[AMD]]
-- [[NVDA]]
-- [[TSM]]
-- [[005930.KS]]
+- [[DELL]]
+- [[DELL]]
+- [[Original Design Manufacturers (ODMs)]]
+- [[EMC Corporation]]
+- [[DELL]]
 
 ### 下游客户
-- [[AMZN]]
-- [[GOOGL]]
-- [[MSFT]]
-- [[Walmart]]
-- [[Bank of America]]
+- [[Client Solutions Group]]
+- [[Enterprise customers]]
+- [[Government agencies]]
+- [[CAT]]
+- [[Retail customers]]
 
 ### 竞争对手
 - [[HPQ]]
-- [[Lenovo]]
+- [[Lenovo Group]]
 - [[AAPL]]
-- [[Acer]]
-- [[Asus]]
+- [[MSFT]]
+- [[CSCO]]
 
 ### 核心产品
-- [[Dell XPS laptops]]
-- [[Dell PowerEdge servers]]
-- [[Dell UltraSharp monitors]]
-- [[Dell EMC storage solutions]]
-- [[Dell SecureWorks security services]]
+- [[Personal computers]]
+- [[Servers]]
+- [[Monitors]]
+- [[Computer software]]
+- [[Computer security]]
+- [[Network security]]
+- [[Information security services]]
 
 ## 数据来源
 
 - [Dell Technologies](https://en.wikipedia.org/wiki/Dell_Technologies_Inc.)
+- [Dell Technologies Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/Dell)
 - [Dell Technologies Inc. suppliers manufacturers](https://www.delltechnologies.com/asset/pl-pl/solutions/business-solutions/briefs-summaries/dell-public-supplier-list.pdf)
-- [Dell Technologies Inc. suppliers manufacturers](https://csimarket.com/stocks/DELL-Suppliers)
-- [Dell Technologies Inc. major customers clients](https://csimarket.com/stocks/DELL-Customers)
+- [Dell Technologies Inc. major customers clients](https://en.wikipedia.org/wiki/Dell_Technologies)
 - [Dell Technologies Inc. major customers clients](https://www.dell.com/en-us/lp/dt/customer-stories)
 
 ## 元数据
 
-- **更新日期**: 2026-02-27
+- **更新日期**: 2026-03-02

@@ -1,57 +1,57 @@
 ---
 ticker: AAOI
 company: Applied Optoelectronics, Inc.
-sector: Technology / Communication Equipment
-industry: Optoelectronics
-extracted_at: 2026-02-27 16:46:52
-last_updated: 2026-02-27
+sector: Technology
+industry: Communication Equipment
+extracted_at: 2026-03-02 16:38:54
+last_updated: 2026-03-02
 ---
 
 # AAOI - Applied Optoelectronics, Inc.
 
 ## 基本信息
 
-- **所属行业**: Technology / Communication Equipment / Optoelectronics
-- **提取时间**: 2026-02-27 16:46:52
+- **所属行业**: Technology / Communication Equipment
+- **提取时间**: 2026-03-02 16:38:54
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Lumentum]]
-- [[Coherent]]
-- [[IPG Photonics]]
-- [[Thorlabs]]
-- [[Newport]]
+- [[Optical fiber suppliers]]
+- [[Semiconductor wafer manufacturers]]
+- [[Photonic component suppliers]]
+- [[Packaging material suppliers]]
+- [[Precision machining suppliers]]
 
 ### 下游客户
-- [[Telecom operators]]
-- [[Data center operators]]
-- [[Enterprise networking vendors]]
-- [[Government agencies]]
-- [[Defense contractors]]
+- [[Internet data center operators]]
+- [[Cable TV operators]]
+- [[CAT]]
+- [[Network equipment vendors]]
+- [[Enterprise network integrators]]
 
 ### 竞争对手
-- [[IPG Photonics]]
-- [[Corning Optica]]
-- [[Lumentum]]
-- [[Coherent]]
-- [[Thorlabs]]
+- [[Finisar Corp.]]
+- [[Lumentum Holdings]]
+- [[II-VI Incorporated]]
+- [[AVGO]]
+- [[CSCO]]
 
 ### 核心产品
-- [[Laser diodes]]
-- [[Optical amplifiers]]
-- [[Photonic integrated circuits]]
 - [[Optical transceivers]]
-- [[Fiber optic components]]
+- [[Fiber optic modules]]
+- [[Optical amplifiers]]
+- [[Optical connectors]]
+- [[Optical switches]]
 
 ## 数据来源
 
 - 
-- [Applied Optoelectronics, Inc. suppliers manufacturers](https://csimarket.com/stocks/AAOI-Suppliers)
-- [Applied Optoelectronics, Inc. suppliers manufacturers](https://craft.co/applied-optoelectronics/competitors)
+- [Applied Optoelectronics, Inc. suppliers manufacturers](https://ca.finance.yahoo.com/quote/AAOI/?p=AAOI)
+- [Applied Optoelectronics, Inc. suppliers manufacturers](https://last10k.com/sec-filings/aaoi)
 - [Applied Optoelectronics, Inc. major customers clients](https://csimarket.com/stocks/AAOI-Customers)
-- [Applied Optoelectronics, Inc. major customers clients](https://investors.ao-inc.com/news-releases/news-release-details/applied-optoelectronics-announces-first-volume-shipment-data)
+- [Applied Optoelectronics, Inc. major customers clients](https://investors.ao-inc.com/)
 
 ## 元数据
 
-- **更新日期**: 2026-02-27
+- **更新日期**: 2026-03-02

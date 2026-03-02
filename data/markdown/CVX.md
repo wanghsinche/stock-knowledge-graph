@@ -3,8 +3,8 @@ ticker: CVX
 company: Chevron Corporation
 sector: Energy
 industry: Oil & Gas Integrated
-extracted_at: 2026-02-19 16:46:53
-last_updated: 2026-02-19
+extracted_at: 2026-03-02 16:40:07
+last_updated: 2026-03-02
 ---
 
 # CVX - Chevron Corporation
@@ -12,23 +12,23 @@ last_updated: 2026-02-19
 ## 基本信息
 
 - **所属行业**: Energy / Oil & Gas Integrated
-- **提取时间**: 2026-02-19 16:46:53
+- **提取时间**: 2026-03-02 16:40:07
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Chevron Phillips Chemical]]
-- [[Chevron Supply and Trading]]
 - [[Schlumberger]]
-- [[Baker Hughes]]
 - [[Halliburton]]
+- [[Baker Hughes]]
+- [[Weatherford]]
+- [[National Oilwell Varco]]
 
 ### 下游客户
-- [[Shell]]
-- [[BP]]
-- [[TotalEnergies]]
-- [[Sinopec]]
-- [[PetroChina]]
+- [[Major gas stations (e.g., Chevron, Texaco)]]
+- [[Industrial refineries]]
+- [[Petrochemical plants]]
+- [[Airlines (fuel supply)]]
+- [[Utilities and power generators]]
 
 ### 竞争对手
 - [[ExxonMobil]]
@@ -41,17 +41,17 @@ last_updated: 2026-02-19
 - [[Crude oil]]
 - [[Natural gas]]
 - [[Refined petroleum products (gasoline, diesel, jet fuel)]]
-- [[Petrochemicals (ethylene, propylene)]]
+- [[Petrochemicals]]
 - [[Liquefied natural gas (LNG)]]
 
 ## 数据来源
 
 - [Chevron Corporation](https://en.wikipedia.org/wiki/Chevron_Corporation)
-- [Chevron Corporation suppliers manufacturers](https://www.cpchem.com/who-we-are/suppliers/general-suppliers)
-- [Chevron Corporation suppliers manufacturers](https://www.chevron.com/what-we-do/energy/supply-and-trading)
-- [Chevron Corporation major customers clients](https://en.wikipedia.org/wiki/Chevron_Corporation)
-- [Chevron Corporation major customers clients](https://csimarket.com/stocks/CVX-Customers)
+- [Chevron Corporation suppliers manufacturers](https://en.wikipedia.org/wiki/Standard_Oil)
+- [Chevron Corporation suppliers manufacturers](https://www.chevron.com/)
+- [Chevron Corporation major customers clients](https://matrixbcg.com/blogs/target-market/chevron)
+- [Chevron Corporation major customers clients](https://pestel-analysis.com/blogs/target-market/chevron)
 
 ## 元数据
 
-- **更新日期**: 2026-02-19
+- **更新日期**: 2026-03-02

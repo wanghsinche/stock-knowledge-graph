@@ -1,37 +1,37 @@
 {
   "ticker": "C",
   "company_name": "Citigroup Inc.",
-  "sector": "Financial Services",
-  "industry": "Banks - Diversified",
+  "sector": "Financial Services / Banks - Diversified",
+  "industry": "Diversified Banks",
   "upstream": [
     "MSFT",
-    "Data providers (e.g., Bloomberg, Thomson Reuters)",
-    "Payment network operators (e.g., Visa, Mastercard)",
-    "Regulatory compliance consultants",
-    "Cybersecurity firms"
+    "Consulting firms (Accenture, Deloitte)",
+    "Legal service providers",
+    "Insurance providers",
+    "Data analytics vendors"
   ],
   "downstream": [
     "AAPL",
-    "Government entities (e.g., U.S. Treasury, state governments)",
-    "Institutional investors (e.g., pension funds, mutual funds)",
-    "High‑net‑worth individuals",
-    "Retail consumers (personal banking, credit cards)"
+    "Government entities (U.S. Treasury)",
+    "Institutional investors (Pension funds)",
+    "Retail banking customers",
+    "Corporate clients"
   ],
   "competitors": [
     "JPMorgan Chase & Co.",
     "Bank of America Corp.",
-    "Wells Fargo & Co.",
     "Goldman Sachs Group Inc.",
-    "Morgan Stanley"
+    "Morgan Stanley",
+    "Wells Fargo & Co."
   ],
   "key_products": [
     "Investment banking services",
-    "Wealth and asset management",
-    "Retail and commercial banking",
-    "Credit card issuance",
-    "Treasury and cash management"
+    "Consumer banking & credit cards",
+    "Corporate banking & treasury services",
+    "Wealth management",
+    "Securities services"
   ],
-  "extracted_at": "2026-02-27 16:47:02",
+  "extracted_at": "2026-03-02 16:43:36",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,15 +47,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/C-Suppliers",
+      "url": "https://www.citigroup.com/rcs/citigpa/storage/public/Citi-Requirements-for-Suppliers-English.pdf",
       "query": "Citigroup Inc. suppliers manufacturers",
-      "snippet": "Citigroup Inc supply chain, list and performance of Citigroup Incs ' suppliers - CSIMarket."
+      "snippet": "These Citi Requirements for Suppliers (“Requirements”) detail some of the obligations that Suppliers must meet in the course of doing business with Ci"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Citigroup",
       "query": "Citigroup Inc. major customers clients",
-      "snippet": "Citigroup is the third-largest banking institution in the United States by assets; alongside JPMorgan Chase, Bank of America, and Wells Fargo"
+      "snippet": "Citigroup Inc . or Citi is an American multinational investment bank and financial services company based in New York City. The company was formed in "
     },
     {
       "source": "DuckDuckGo",

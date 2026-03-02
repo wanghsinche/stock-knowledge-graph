@@ -8,30 +8,30 @@
     "GlobalFoundries",
     "005930.KS",
     "United Microelectronics Corporation (UMC)",
-    "Semiconductor Manufacturing International Corporation (SMIC)"
+    "TXN"
   ],
   "downstream": [
-    "MSFT",
     "DELL",
     "HPQ",
     "Lenovo",
-    "SONY"
+    "MSFT",
+    "AMZN"
   ],
   "competitors": [
     "INTC",
     "NVDA",
     "QCOM",
     "AVGO",
-    "ARM"
+    "005930.KS"
   ],
   "key_products": [
     "Ryzen CPUs",
-    "Ryzen Threadripper",
-    "EPYC servers",
     "Radeon GPUs",
-    "Xilinx FPGAs"
+    "EPYC server CPUs",
+    "Xilinx FPGAs",
+    "SoCs"
   ],
-  "extracted_at": "2026-02-27 16:42:56",
+  "extracted_at": "2026-03-02 16:36:35",
   "sources": [
     {
       "source": "Wikipedia",
@@ -53,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/AMD-Customers",
+      "url": "https://en.wikipedia.org/wiki/AMD",
       "query": "Advanced Micro Devices, Inc. major customers clients",
-      "snippet": "3 days ago · Advanced Micro Devices Inc customers and markets, results by customer and performance relative to AMD, by company and industry - CSIMarke"
+      "snippet": "AMD serves a wide range of business and consumer markets, including personal computers (PCs), gaming, data centers, and embedded systems. Advanced Mic"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.marketscreener.com/quote/stock/AMD-ADVANCED-MICRO-DEVICE-179387659/finances-segments/",
+      "url": "https://matrixbcg.com/blogs/target-market/amd",
       "query": "Advanced Micro Devices, Inc. major customers clients",
-      "snippet": "Feb 19, 2026 · Understand how activity and revenue gets distributed for AMD (Advanced Micro Devices ) (AMD). Ten-year segmentation history. The entire"
+      "snippet": "Sep 8, 2025 · AMD's customer base is diverse, spanning individual consumers, businesses, and data centers. Key segments include PC gamers and creators"
     }
   ]
 }

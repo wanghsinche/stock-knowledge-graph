@@ -1,57 +1,57 @@
 ---
 ticker: CRCL
-company: Circle Internet Group, Inc.
+company: Circle Internet Group
 sector: Financial Services
 industry: Capital Markets
-extracted_at: 2026-02-27 16:48:19
-last_updated: 2026-02-27
+extracted_at: 2026-03-02 16:38:32
+last_updated: 2026-03-02
 ---
 
-# CRCL - Circle Internet Group, Inc.
+# CRCL - Circle Internet Group
 
 ## 基本信息
 
 - **所属行业**: Financial Services / Capital Markets
-- **提取时间**: 2026-02-27 16:48:19
+- **提取时间**: 2026-03-02 16:38:32
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Payment processors]]
-- [[Cloud service providers]]
-- [[Blockchain infrastructure vendors]]
-- [[Regulatory compliance firms]]
-- [[Financial data providers]]
+- [[Blockchain infrastructure providers]]
+- [[Cloud service providers (AWS, Azure, GCP)]]
+- [[Payment processors (Stripe, PayPal)]]
+- [[Financial data providers (Bloomberg, Reuters)]]
+- [[Regulatory compliance services]]
 
 ### 下游客户
-- [[Banks and financial institutions]]
-- [[Cryptocurrency exchanges]]
-- [[Institutional investors]]
-- [[Retail investors]]
-- [[Fintech startups]]
+- [[Financial institutions and banks]]
+- [[Crypto exchanges (Coinbase, Binance)]]
+- [[Payment platforms (PayPal, Square)]]
+- [[Retailers using stablecoin payments]]
+- [[Enterprise treasury clients]]
 
 ### 竞争对手
 - [[Coinbase]]
-- [[Gemini]]
-- [[Paxos]]
 - [[Binance]]
-- [[Silvergate]]
+- [[PayPal]]
+- [[Stripe]]
+- [[Tether]]
 
 ### 核心产品
 - [[USDC stablecoin]]
 - [[EURC stablecoin]]
 - [[USYC tokenized money market fund]]
-- [[Crypto payment solutions]]
-- [[Digital asset custody]]
+- [[Circle Pay]]
+- [[Circle API for stablecoin integration]]
 
 ## 数据来源
 
 - [Circle Internet Group](https://en.wikipedia.org/wiki/Circle_Internet_Group)
-- [Circle Internet Group suppliers manufacturers](https://en.wikipedia.org/wiki/Circle_Internet_Group)
 - [Circle Internet Group suppliers manufacturers](https://investor.circle.com/overview/default.aspx)
-- [Circle Internet Group major customers clients](https://www.investing.com/news/analyst-ratings/william-blair-reiterates-outperform-on-circle-internet-stock-on-stablecoin-growth-potential-93CH-4525540)
-- [Circle Internet Group major customers clients](https://www.benzinga.com/crypto/cryptocurrency/25/06/46165366/circle-stock-is-a-must-hold-says-bernstein-heres-why)
+- [Circle Internet Group suppliers manufacturers](https://www.financecharts.com/stocks/CRCL/profile)
+- [Circle Internet Group major customers clients](https://csimarket.com/stocks/CRCL-Customers)
+- [Circle Internet Group major customers clients](https://www.appsruntheworld.com/customers-database/vendors/view/circle-internet-group)
 
 ## 元数据
 
-- **更新日期**: 2026-02-27
+- **更新日期**: 2026-03-02

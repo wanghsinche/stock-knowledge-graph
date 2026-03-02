@@ -1,37 +1,37 @@
 {
   "ticker": "NBIS",
   "company_name": "Nebius Group N.V.",
-  "sector": "Communication Services",
-  "industry": "Internet Content & Information",
+  "sector": "Communication Services / Internet Content & Information",
+  "industry": "Artificial Intelligence Infrastructure",
   "upstream": [
     "NVDA",
     "AMD",
     "INTC",
-    "QCOM",
-    "GOOGL"
+    "GOOGL",
+    "AMZN"
   ],
   "downstream": [
     "GOOGL",
-    "MSFT",
     "AMZN",
-    "Facebook",
-    "AAPL"
+    "MSFT",
+    "IBM",
+    "ORCL"
   ],
   "competitors": [
     "OpenAI",
-    "DeepMind",
     "Anthropic",
     "Cohere",
-    "AI21 Labs"
+    "DeepMind",
+    "Hugging Face"
   ],
   "key_products": [
-    "Nebius AI Infrastructure Platform",
+    "Nebius AI Platform",
     "Avride",
     "TripleTen",
     "Toloka",
     "Clickhouse"
   ],
-  "extracted_at": "2026-02-27 16:49:12",
+  "extracted_at": "2026-03-02 16:49:21",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/NBIS/",
+      "url": "https://csimarket.com/stocks/NBIS-Suppliers",
       "query": "NBIS suppliers manufacturers",
-      "snippet": "Find the latest Nebius Group N.V. ( NBIS ) stock quote, history, news and other vital information to help you with your stock trading and investing."
+      "snippet": "May 3, 2025 · Nebius Group N V supply chain, list and performance of Nebius Group N Vs' suppliers - CSIMarket"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ru.investing.com/equities/yandex-nv",
+      "url": "https://mvcinvesting.substack.com/p/why-nebius-group-nbis-is-my-largest",
       "query": "NBIS suppliers manufacturers",
-      "snippet": "Акции Nebius Group NV ( NBIS ): курс сегодня, актуальная цена онлайн, графики, мнения, технический анализ, отчеты и другое о Nebius NV."
+      "snippet": "May 13, 2025 · Today, NBIS is a completely independent company — composed of Nebius (AI cloud), Avride (autonomous driving), Toloka (data labeling), T"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/NBIS-Customers",
+      "url": "https://www.youtube.com/watch?v=USAm2vxULdc",
       "query": "NBIS major customers clients",
-      "snippet": "Nebius Group N V customers and markets, results by customer and performance relative to NBIS , by company and industry - CSIMarket"
+      "snippet": "Hello fellow investors, welcome back to Borex Investing. Today we break down the Google vs Nvidia AI chip debate that took over the market this week —"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ts2.tech/en/ebius-group-n-v-nasdaq-nbis-stock-skyrockets-on-17b-ai-deal-what-investors-must-know/",
+      "url": "https://seekingalpha.com/symbol/NBIS",
       "query": "NBIS major customers clients",
-      "snippet": "Oct 10, 2025 · Analysts note Nebius is unique in targeting major Western tech clients : it counts Cloudflare, Shopify, and now Microsoft as customers "
+      "snippet": "A high-level overview of Nebius Group N.V. ( NBIS ) stock. View ( NBIS ) real-time stock price, chart, news, analysis, analyst reviews and more.Nebius"
     }
   ]
 }

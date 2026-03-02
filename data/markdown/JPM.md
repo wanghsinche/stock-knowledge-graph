@@ -3,8 +3,8 @@ ticker: JPM
 company: JPMorgan Chase & Co.
 sector: Financial Services
 industry: Banks - Diversified
-extracted_at: 2026-02-27 16:46:33
-last_updated: 2026-02-27
+extracted_at: 2026-03-02 16:44:36
+last_updated: 2026-03-02
 ---
 
 # JPM - JPMorgan Chase & Co.
@@ -12,23 +12,23 @@ last_updated: 2026-02-27
 ## 基本信息
 
 - **所属行业**: Financial Services / Banks - Diversified
-- **提取时间**: 2026-02-27 16:46:33
+- **提取时间**: 2026-03-02 16:44:36
 
 ## 产业链关系
 
 ### 上游供应商
-- [[MSFT]]
-- [[Payment processors (e.g., Visa, Mastercard)]]
-- [[MSFT]]
-- [[Data providers (e.g., Bloomberg, Thomson Reuters)]]
-- [[Cybersecurity firms (e.g., Palo Alto Networks, Symantec)]]
+- [[Technology vendors]]
+- [[Payment processors]]
+- [[Cloud service providers]]
+- [[Data analytics firms]]
+- [[Consulting & advisory services]]
 
 ### 下游客户
-- [[Large corporations and institutional investors]]
 - [[Retail banking customers]]
-- [[Small and medium‑size businesses]]
-- [[Government and public sector entities]]
-- [[High‑net‑worth individuals (wealth management clients)]]
+- [[Corporate banking clients]]
+- [[Investment banking clients]]
+- [[Private banking & wealth management clients]]
+- [[Government & institutional clients]]
 
 ### 竞争对手
 - [[Bank of America]]
@@ -39,10 +39,10 @@ last_updated: 2026-02-27
 
 ### 核心产品
 - [[Retail banking services]]
-- [[Corporate and investment banking]]
-- [[Credit card and consumer lending]]
-- [[Mortgage and real‑estate financing]]
-- [[Wealth and asset management]]
+- [[Commercial banking services]]
+- [[Investment banking & advisory]]
+- [[Asset & wealth management]]
+- [[Credit & payment solutions]]
 
 ## 数据来源
 
@@ -50,8 +50,8 @@ last_updated: 2026-02-27
 - [JPMorgan Chase & Co. suppliers manufacturers](https://en.wikipedia.org/wiki/JPMorgan_Chase)
 - [JPMorgan Chase & Co. suppliers manufacturers](https://ru.wikipedia.org/wiki/JPMorgan_Chase)
 - [JPMorgan Chase & Co. major customers clients](https://en.wikipedia.org/wiki/JPMorgan_Chase)
-- [JPMorgan Chase & Co. major customers clients](https://www.statista.com/topics/10395/jpmorgan-chase/)
+- [JPMorgan Chase & Co. major customers clients](https://www.jpmorganchase.com/content/dam/jpmc/jpmorgan-chase-and-co/investor-relations/documents/annualreport-2024.pdf)
 
 ## 元数据
 
-- **更新日期**: 2026-02-27
+- **更新日期**: 2026-03-02

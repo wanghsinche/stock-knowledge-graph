@@ -4,36 +4,34 @@
   "sector": "Communication Services",
   "industry": "Internet Content & Information",
   "upstream": [
-    "DELL",
-    "Data center providers (e.g., Equinix, Digital Realty)",
-    "CAT",
-    "MSFT",
+    "AAPL",
+    "005930.KS",
+    "INTC",
+    "QCOM",
     "NVDA"
   ],
   "downstream": [
-    "Advertisers (global brands, agencies)",
-    "App developers using Facebook SDK",
-    "Content creators on Facebook, Instagram, WhatsApp",
-    "Gaming partners (e.g., Roblox, Epic Games)",
-    "META"
+    "Advertisers (e.g., Coca‑Cola, Nike)",
+    "App developers",
+    "Content creators",
+    "Users",
+    "Business partners"
   ],
   "competitors": [
-    "X (formerly Twitter)",
-    "Snap Inc. (Snapchat)",
-    "TikTok (ByteDance)",
+    "GOOGL",
+    "AMZN",
+    "AAPL",
     "MSFT",
-    "Pinterest"
+    "ByteDance Ltd."
   ],
   "key_products": [
     "Facebook",
     "Instagram",
     "WhatsApp",
     "Messenger",
-    "Threads",
-    "Manus",
-    "Meta Advertising Network"
+    "Meta Quest"
   ],
-  "extracted_at": "2026-02-27 16:43:07",
+  "extracted_at": "2026-03-02 16:37:44",
   "sources": [
     {
       "source": "Wikipedia",
@@ -55,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.meta.com/",
+      "url": "https://csimarket.com/stocks/META-Customers",
       "query": "Meta Platforms, Inc. major customers clients",
-      "snippet": "Meta Platforms , Inc , Slide 18 of 24."
+      "snippet": "For your research, we’ve provided 9 tables on Meta Platforms Inc corporate clients . You can find them in the navigation menu under Customers & Market"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.computerhope.com/comp/meta.htm",
+      "url": "https://investor.atmeta.com/investor-news/press-release-details/2026/Meta-Reports-Fourth-Quarter-and-Full-Year-2025-Results/default.aspx",
       "query": "Meta Platforms, Inc. major customers clients",
-      "snippet": "Meta Platforms Inc 1 Hacker Way Menlo Park, California 94025. Stock: MVRS (formerly FB)."
+      "snippet": "Dec 31, 2025 · Meta Platforms , Inc . (Nasdaq: META ) today reported financial results for the quarter and full year ended December 31, 2025. \"We had "
     }
   ]
 }

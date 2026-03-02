@@ -1,18 +1,18 @@
 ---
 ticker: NBIS
 company: Nebius Group N.V.
-sector: Communication Services
-industry: Internet Content & Information
-extracted_at: 2026-02-27 16:49:12
-last_updated: 2026-02-27
+sector: Communication Services / Internet Content & Information
+industry: Artificial Intelligence Infrastructure
+extracted_at: 2026-03-02 16:49:21
+last_updated: 2026-03-02
 ---
 
 # NBIS - Nebius Group N.V.
 
 ## 基本信息
 
-- **所属行业**: Communication Services / Internet Content & Information
-- **提取时间**: 2026-02-27 16:49:12
+- **所属行业**: Communication Services / Internet Content & Information / Artificial Intelligence Infrastructure
+- **提取时间**: 2026-03-02 16:49:21
 
 ## 产业链关系
 
@@ -20,25 +20,25 @@ last_updated: 2026-02-27
 - [[NVDA]]
 - [[AMD]]
 - [[INTC]]
-- [[QCOM]]
 - [[GOOGL]]
+- [[AMZN]]
 
 ### 下游客户
 - [[GOOGL]]
-- [[MSFT]]
 - [[AMZN]]
-- [[Facebook]]
-- [[AAPL]]
+- [[MSFT]]
+- [[IBM]]
+- [[ORCL]]
 
 ### 竞争对手
 - [[OpenAI]]
-- [[DeepMind]]
 - [[Anthropic]]
 - [[Cohere]]
-- [[AI21 Labs]]
+- [[DeepMind]]
+- [[Hugging Face]]
 
 ### 核心产品
-- [[Nebius AI Infrastructure Platform]]
+- [[Nebius AI Platform]]
 - [[Avride]]
 - [[TripleTen]]
 - [[Toloka]]
@@ -47,11 +47,11 @@ last_updated: 2026-02-27
 ## 数据来源
 
 - [Nebius Group](https://en.wikipedia.org/wiki/NBIS)
-- [NBIS suppliers manufacturers](https://finance.yahoo.com/quote/NBIS/)
-- [NBIS suppliers manufacturers](https://ru.investing.com/equities/yandex-nv)
-- [NBIS major customers clients](https://csimarket.com/stocks/NBIS-Customers)
-- [NBIS major customers clients](https://ts2.tech/en/ebius-group-n-v-nasdaq-nbis-stock-skyrockets-on-17b-ai-deal-what-investors-must-know/)
+- [NBIS suppliers manufacturers](https://csimarket.com/stocks/NBIS-Suppliers)
+- [NBIS suppliers manufacturers](https://mvcinvesting.substack.com/p/why-nebius-group-nbis-is-my-largest)
+- [NBIS major customers clients](https://www.youtube.com/watch?v=USAm2vxULdc)
+- [NBIS major customers clients](https://seekingalpha.com/symbol/NBIS)
 
 ## 元数据
 
-- **更新日期**: 2026-02-27
+- **更新日期**: 2026-03-02

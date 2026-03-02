@@ -1,37 +1,37 @@
 {
   "ticker": "AMZN",
   "company_name": "Amazon.com, Inc.",
-  "sector": "Consumer Discretionary",
+  "sector": "Consumer Cyclical",
   "industry": "Internet Retail",
   "upstream": [
-    "Consumer electronics manufacturers",
-    "Apparel manufacturers",
-    "Home goods suppliers",
-    "Book publishers",
-    "Third‑party sellers"
+    "AAPL",
+    "005930.KS",
+    "SONY",
+    "Nike, Inc.",
+    "Adidas AG"
   ],
   "downstream": [
-    "Retail consumers",
-    "Small businesses",
-    "Enterprise customers (AWS)",
-    "Advertisers",
-    "Content creators"
-  ],
-  "competitors": [
-    "Walmart",
-    "eBay",
-    "Alibaba",
-    "Shopify",
+    "NFLX",
+    "Airbnb, Inc.",
+    "005930.KS",
+    "ADBE",
     "MSFT"
   ],
-  "key_products": [
-    "Amazon.com marketplace",
-    "Amazon Prime",
-    "Amazon Web Services",
-    "Amazon Devices (Echo, Kindle)",
-    "Amazon Advertising"
+  "competitors": [
+    "eBay Inc.",
+    "Walmart Inc.",
+    "Alibaba Group Holding Ltd.",
+    "Shopify Inc.",
+    "Target Corporation"
   ],
-  "extracted_at": "2026-02-27 16:39:22",
+  "key_products": [
+    "Amazon.com e‑commerce platform",
+    "Amazon Web Services (AWS)",
+    "Amazon Prime subscription",
+    "Amazon Kindle e‑reader",
+    "Amazon Echo (Alexa)"
+  ],
+  "extracted_at": "2026-03-02 16:35:37",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ir.aboutamazon.com/",
-      "query": "Amazon.com, Inc. suppliers manufacturers",
-      "snippet": "Amazon . com , Inc . (NASDAQ: AMZN) today announced financial results for its second quarter ended June 30, 2025. Net sales increased 13% to $167.7 bi"
-    },
-    {
-      "source": "DuckDuckGo",
       "url": "https://www.alibaba.com/",
       "query": "Amazon.com, Inc. suppliers manufacturers",
       "snippet": "Find quality Manufacturers , Suppliers , Exporters, Importers, Buyers, Wholesalers, Products and Trade Leads from our award-winning International Trad"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://capitaloneshopping.com/research/amazon-statistics/",
-      "query": "Amazon.com, Inc. major customers clients",
-      "snippet": "Statistics & analysis on Amazon including total sales (per year & minute), number of products (SKUs), customers , sellers & more."
+      "url": "https://www.amazon.com/amazon-fashion/b?ie=UTF8&node=7141123011",
+      "query": "Amazon.com, Inc. suppliers manufacturers",
+      "snippet": "Shop at Amazon Fashion for a wide selection of clothing, shoes, jewelry and watches for both men and women at Amazon . com . Free shipping and free re"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/AMZN-Customers",
+      "url": "https://ir.aboutamazon.com/",
       "query": "Amazon.com, Inc. major customers clients",
-      "snippet": "Amazon Com Inc's Comment on Sales, Marketing and Customers We serve consumers through our retail websites and focus on selection, price, and convenien"
+      "snippet": "Amazon . com , Inc . (NASDAQ: AMZN) today announced financial results for its second quarter ended June 30, 2025. Net sales increased 13% to $167.7 bi"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.amazon.com/Amazon-Fire-TV-Family/b?ie=UTF8&node=8521791011",
+      "query": "Amazon.com, Inc. major customers clients",
+      "snippet": "With tens of thousands of channels, apps and Alexa, Amazon Fire TV offers your favorite subscriptions and streaming services."
     }
   ]
 }

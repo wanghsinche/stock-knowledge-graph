@@ -4,18 +4,18 @@
   "sector": "Financial Services",
   "industry": "Banks - Diversified",
   "upstream": [
-    "MSFT",
-    "Payment processors (e.g., Visa, Mastercard)",
-    "MSFT",
-    "Data providers (e.g., Bloomberg, Thomson Reuters)",
-    "Cybersecurity firms (e.g., Palo Alto Networks, Symantec)"
+    "Technology vendors",
+    "Payment processors",
+    "Cloud service providers",
+    "Data analytics firms",
+    "Consulting & advisory services"
   ],
   "downstream": [
-    "Large corporations and institutional investors",
     "Retail banking customers",
-    "Small and medium‑size businesses",
-    "Government and public sector entities",
-    "High‑net‑worth individuals (wealth management clients)"
+    "Corporate banking clients",
+    "Investment banking clients",
+    "Private banking & wealth management clients",
+    "Government & institutional clients"
   ],
   "competitors": [
     "Bank of America",
@@ -26,12 +26,12 @@
   ],
   "key_products": [
     "Retail banking services",
-    "Corporate and investment banking",
-    "Credit card and consumer lending",
-    "Mortgage and real‑estate financing",
-    "Wealth and asset management"
+    "Commercial banking services",
+    "Investment banking & advisory",
+    "Asset & wealth management",
+    "Credit & payment solutions"
   ],
-  "extracted_at": "2026-02-27 16:46:33",
+  "extracted_at": "2026-03-02 16:44:36",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,7 +43,7 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/JPMorgan_Chase",
       "query": "JPMorgan Chase & Co. suppliers manufacturers",
-      "snippet": "JPMorgan Chase is the result of the combination of several large U.S. banking companies that merged since 1996, combining Chase Manhattan Bank, J . P "
+      "snippet": "JPMorgan Chase & Co . (stylized as JPMorganChase ) is an American multinational banking institution headquartered in New York City and incorporated in"
     },
     {
       "source": "DuckDuckGo",
@@ -55,13 +55,13 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/JPMorgan_Chase",
       "query": "JPMorgan Chase & Co. major customers clients",
-      "snippet": "The JPMorgan Chase logo prior to the 2008 rebranding As of June 2008, the JPMorgan logo used for the company's Investment Banking, Asset Management, a"
+      "snippet": "JPMorgan Chase & Co. (stylized as JPMorganChase) is an American multinational banking institution headquartered in New York City and incorporated in ."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.statista.com/topics/10395/jpmorgan-chase/",
+      "url": "https://www.jpmorganchase.com/content/dam/jpmc/jpmorgan-chase-and-co/investor-relations/documents/annualreport-2024.pdf",
       "query": "JPMorgan Chase & Co. major customers clients",
-      "snippet": "JPMorgan Chase - statistics & facts JPMorgan Chase stands as one of the largest and most influential banks in the United States, and it ranks among th"
+      "snippet": "Apr 7, 2025 · Under the J.P. Morgan and Chase brands, the firm serves millions of customers, predominantly in the U.S., and many of the world's most ."
     }
   ]
 }

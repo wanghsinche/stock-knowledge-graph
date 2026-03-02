@@ -1,37 +1,37 @@
 {
   "ticker": "SNDK",
-  "company_name": "SanDisk Corporation",
-  "sector": "Technology",
+  "company_name": "Sandisk Corporation",
+  "sector": "Technology / Computer Hardware",
   "industry": "Computer Hardware",
   "upstream": [
     "005930.KS",
     "MU",
     "SK Hynix",
-    "Toshiba Memory",
-    "WDC"
+    "WDC",
+    "Toshiba"
   ],
   "downstream": [
+    "AAPL",
     "DELL",
     "HPQ",
-    "Lenovo Group",
-    "AAPL",
+    "SONY",
     "MSFT"
   ],
   "competitors": [
     "005930.KS",
     "MU",
     "Kingston Technology",
-    "MU",
-    "Lexar"
+    "Lexar",
+    "WDC"
   ],
   "key_products": [
-    "SD memory cards",
-    "microSD cards",
+    "SD and microSD memory cards",
     "USB flash drives",
-    "Solid‑state drives (SSDs)",
-    "Enterprise flash storage"
+    "Solid-state drives (SSD)",
+    "Embedded flash memory for devices",
+    "Industrial flash storage solutions"
   ],
-  "extracted_at": "2026-02-27 16:34:50",
+  "extracted_at": "2026-03-02 16:34:43",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/SanDisk",
+      "query": "Sandisk Corporation suppliers manufacturers",
+      "snippet": "2 weeks ago - In October 2005, SanDisk acquired Matrix Semiconductor. In July 2006, SanDisk acquired M-Systems. In May 2011, SanDisk acquired Pliant T"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.trustedparts.com/en/manufacturers/sandisk",
+      "query": "Sandisk Corporation suppliers manufacturers",
+      "snippet": "SanDisk distributor stock, prices & datasheets from authorized distributors. Search authorized SanDisk inventory."
+    },
+    {
+      "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Sandisk",
-      "query": "Sandisk Corporation suppliers manufacturers",
-      "snippet": "Sandisk Corporation is an American multinational computer technology company based in Milpitas, California, that designs and manufactures flash memory"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.sandisk.com/en-ca/company/distributors",
-      "query": "Sandisk Corporation suppliers manufacturers",
-      "snippet": "4.7 · Free delivery over $50 · 30-day returns Find Sandisk Distributors & Resellers. Purchase from your preferred Sandisk authorized partner. Region. "
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://data.landbase.com/technology/sandisk/",
       "query": "Sandisk Corporation major customers clients",
-      "snippet": "We have data on 324 companies that use SanDisk . Our SanDisk customers list is available for download and comes enriched with vital company specifics,"
+      "snippet": "2 weeks ago - Sandisk Corporation (sometimes stylized as SanDisk, with the D capitalized in camelCase) is an American multinational computer technolog"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://enlyft.com/tech/products/sandisk",
+      "url": "https://www.sandisk.com/company/about-us",
       "query": "Sandisk Corporation major customers clients",
-      "snippet": "Target SanDisk customers to accomplish your sales and marketing goals. Customize SanDisk users by location, employees, revenue, industry, and more."
+      "snippet": "In this role, he oversees product development across market segments, including consumer, client, gaming, automotive, and the data center. Ismail lead"
     }
   ]
 }
