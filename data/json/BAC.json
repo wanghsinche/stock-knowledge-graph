@@ -4,18 +4,18 @@
   "sector": "Financial Services",
   "industry": "Banks - Diversified",
   "upstream": [
-    "IBM",
-    "MSFT",
-    "ORCL",
-    "Accenture",
-    "Deloitte"
+    "Technology vendors",
+    "IT service providers",
+    "Office equipment suppliers",
+    "Security and compliance service firms",
+    "Data analytics and cloud service providers"
   ],
   "downstream": [
-    "U.S. consumers",
-    "U.S. small businesses",
-    "U.S. large corporations",
-    "U.S. government agencies",
-    "U.S. institutional investors"
+    "Retail banking customers",
+    "Corporate and small‑business clients",
+    "Mortgage borrowers",
+    "Investment banking clients",
+    "Wealth management and private banking clients"
   ],
   "competitors": [
     "JPMorgan Chase",
@@ -26,12 +26,12 @@
   ],
   "key_products": [
     "Retail banking services",
-    "Commercial banking services",
-    "Investment banking services",
+    "Commercial banking",
+    "Investment banking",
     "Wealth management",
-    "Credit cards"
+    "Credit card and consumer lending"
   ],
-  "extracted_at": "2026-02-27 16:47:21",
+  "extracted_at": "2026-03-03 16:45:36",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/BAC-Suppliers",
+      "url": "https://about.bankofamerica.com/content/dam/about/pdfs/Bank_of_America_Supplier_Expectations.pdf",
       "query": "Bank of America Corporation suppliers manufacturers",
-      "snippet": "Nov 1, 2025 · Bank Of America supply chain, list and performance of Bank Of Americas' suppliers - CSIMarket"
+      "snippet": "Operating a responsible and transparent business, including through our suppliers, is critical to our strength and stability as a company and is a cor"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://about.bankofamerica.com/en/our-company/supplier-management",
+      "url": "https://newsroom.bankofamerica.com/content/newsroom/company-overview/bank-of-america-fast-facts.html",
       "query": "Bank of America Corporation suppliers manufacturers",
-      "snippet": "Bank of America is dedicated to partnering with suppliers who value ethics, inclusion, human rights, and the environment. Learn more about our supplie"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Bank_of_America",
-      "query": "Bank of America Corporation major customers clients",
-      "snippet": "The Bank of America Corporation ( Bank of America ; often abbreviated BAC or BofA) is an American multinational investment bank and financial services"
+      "snippet": "Explore Bank of America Fast Facts for key insights on our global presence, financial services, client reach, and commitment to responsible growth. Mi"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://newsroom.bankofamerica.com/content/newsroom/company-overview/bank-of-america-fast-facts.html",
       "query": "Bank of America Corporation major customers clients",
-      "snippet": "Explore Bank of America Fast Facts for key insights on our global presence, financial services, client reach, and commitment to responsible growth."
+      "snippet": "Feb 24, 2026 · Explore Bank of America Fast Facts for key insights on our global presence, financial services, client reach, and commitment to respons"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/BAC-Customers",
+      "query": "Bank of America Corporation major customers clients",
+      "snippet": "5 days ago · For your research, we’ve provided 9 tables on Bank Of America Corporation corporate clients . You can find them in the navigation menu un"
     }
   ]
 }

@@ -6,44 +6,48 @@
   "upstream": [
     "TSM",
     "005930.KS",
-    "GlobalFoundries",
-    "INTC",
-    "UMC"
+    "MU",
+    "NVDA",
+    "AMD"
   ],
   "downstream": [
-    "ASUS",
-    "MSI",
-    "Gigabyte",
-    "DELL",
-    "AAPL"
+    "SONY",
+    "MSFT",
+    "Nintendo Co., Ltd.",
+    "AMZN",
+    "GOOGL",
+    "TSLA",
+    "BMW AG"
   ],
   "competitors": [
     "AMD",
     "INTC",
     "QCOM",
     "AVGO",
-    "ARM"
+    "ARM Holdings"
   ],
   "key_products": [
     "GeForce GPUs",
     "Quadro GPUs",
     "Tesla GPUs",
-    "NVIDIA DRIVE SoCs",
-    "CUDA & RTX APIs"
+    "RTX GPUs",
+    "Jetson SoCs",
+    "CUDA API",
+    "DLSS technology"
   ],
-  "extracted_at": "2026-03-02 16:33:37",
+  "extracted_at": "2026-03-03 16:35:56",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/NVIDIA_Corporation",
       "title": "Nvidia",
-      "snippet": "Nvidia Corporation is an American technology company headquartered in Santa Clara, California. Founded in 1993 by Jensen Huang, Chris Malachowsky, and Curtis Priem, it develops graphics processing uni"
+      "snippet": "Nvidia Corporation is an American technology company headquartered in Santa Clara, California. Founded on April 5, 1993 by Jensen Huang, Chris Malachowsky, and Curtis Priem, it develops graphics proce"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Nvidia",
       "query": "NVIDIA Corporation suppliers manufacturers",
-      "snippet": "2 days ago - In August 2025, Nvidia ordered ... due to security concerns. The company directed suppliers including Taiwan Semiconductor Manufacturing "
+      "snippet": "19 hours ago - In August 2025, Nvidia ordered ... due to security concerns. The company directed suppliers including Taiwan Semiconductor Manufacturin"
     },
     {
       "source": "DuckDuckGo",
@@ -53,15 +57,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.fool.com/investing/2025/06/26/who-are-nvidias-biggest-customers/",
+      "url": "https://en.wikipedia.org/wiki/Nvidia",
       "query": "NVIDIA Corporation major customers clients",
-      "snippet": "June 26, 2025 - Nvidia has amassed an impressive list of customers, which includes top AI developers like Amazon, Microsoft, and Alphabet ."
+      "snippet": "^ Officially written as NVIDIA Corporation and stylized in its logo as nVIDIA with the lowercase \"n\" the same height as the uppercase \"VIDIA\". Formerl"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.fool.com/investing/2024/05/02/who-are-nvidias-largest-customers/",
+      "url": "https://finance.yahoo.com/quote/NVDA/",
       "query": "NVIDIA Corporation major customers clients",
-      "snippet": "May 2, 2024 - However, in its recent 10-K filing, the company did say that one customer represented 13% of its revenue from its compute and networking"
+      "snippet": "Find the latest NVIDIA Corporation (NVDA) stock quote, history, news and other vital information to help you with your stock trading and investing."
     }
   ]
 }

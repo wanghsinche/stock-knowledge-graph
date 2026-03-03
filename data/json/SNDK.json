@@ -1,37 +1,37 @@
 {
   "ticker": "SNDK",
-  "company_name": "Sandisk Corporation",
-  "sector": "Technology / Computer Hardware",
+  "company_name": "SanDisk Corporation",
+  "sector": "Technology",
   "industry": "Computer Hardware",
   "upstream": [
+    "Arrow Electronics",
+    "Nanya Technology",
     "005930.KS",
     "MU",
-    "SK Hynix",
-    "WDC",
-    "Toshiba"
+    "SK Hynix"
   ],
   "downstream": [
     "AAPL",
+    "MSFT",
     "DELL",
     "HPQ",
-    "SONY",
-    "MSFT"
+    "SONY"
   ],
   "competitors": [
-    "005930.KS",
-    "MU",
     "Kingston Technology",
-    "Lexar",
-    "WDC"
+    "Crucial",
+    "Corsair",
+    "005930.KS",
+    "Lexar"
   ],
   "key_products": [
-    "SD and microSD memory cards",
     "USB flash drives",
-    "Solid-state drives (SSD)",
-    "Embedded flash memory for devices",
-    "Industrial flash storage solutions"
+    "SD cards",
+    "Solid-state drives",
+    "Memory cards",
+    "Portable storage devices"
   ],
-  "extracted_at": "2026-03-02 16:34:43",
+  "extracted_at": "2026-03-03 16:36:29",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/SanDisk",
-      "query": "Sandisk Corporation suppliers manufacturers",
-      "snippet": "2 weeks ago - In October 2005, SanDisk acquired Matrix Semiconductor. In July 2006, SanDisk acquired M-Systems. In May 2011, SanDisk acquired Pliant T"
-    },
-    {
-      "source": "DuckDuckGo",
       "url": "https://www.trustedparts.com/en/manufacturers/sandisk",
       "query": "Sandisk Corporation suppliers manufacturers",
-      "snippet": "SanDisk distributor stock, prices & datasheets from authorized distributors. Search authorized SanDisk inventory."
+      "snippet": "Use the search box at the top of the page to check stock of all SanDisk authorized distributors participating in TrustedParts.com, a great place to fi"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Sandisk",
-      "query": "Sandisk Corporation major customers clients",
-      "snippet": "2 weeks ago - Sandisk Corporation (sometimes stylized as SanDisk, with the D capitalized in camelCase) is an American multinational computer technolog"
+      "url": "https://www.arrow.com/en/manufacturers/sandisk",
+      "query": "Sandisk Corporation suppliers manufacturers",
+      "snippet": "Arrow.com is an authorized distributor of SanDisk, stocking a wide selection of electronic components and supporting hundreds of reference designs."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.sandisk.com/company/about-us",
+      "url": "https://data.landbase.com/technology/sandisk/",
       "query": "Sandisk Corporation major customers clients",
-      "snippet": "In this role, he oversees product development across market segments, including consumer, client, gaming, automotive, and the data center. Ismail lead"
+      "snippet": "Aug 17, 2025 · Our SanDisk customers list is available for download and comes enriched with vital company specifics, including industry classification"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://enlyft.com/tech/products/sandisk",
+      "query": "Sandisk Corporation major customers clients",
+      "snippet": "Looking at SanDisk customers by industry, we find that Information Technology and Services (11%), Computer Software (9%), Marketing and Advertising (8"
     }
   ]
 }

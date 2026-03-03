@@ -1,37 +1,37 @@
 {
   "ticker": "CRCL",
-  "company_name": "Circle Internet Group",
+  "company_name": "Circle Internet Group, Inc.",
   "sector": "Financial Services",
-  "industry": "Capital Markets",
+  "industry": "Capital Markets / Payments Technology",
   "upstream": [
-    "Blockchain infrastructure providers",
-    "Cloud service providers (AWS, Azure, GCP)",
-    "Payment processors (Stripe, PayPal)",
-    "Financial data providers (Bloomberg, Reuters)",
-    "Regulatory compliance services"
+    "AMZN",
+    "MSFT",
+    "GOOGL",
+    "Ethereum blockchain (smart‑contract platform)",
+    "Algorand blockchain (smart‑contract platform)"
   ],
   "downstream": [
-    "Financial institutions and banks",
-    "Crypto exchanges (Coinbase, Binance)",
-    "Payment platforms (PayPal, Square)",
-    "Retailers using stablecoin payments",
-    "Enterprise treasury clients"
+    "Major cryptocurrency exchanges (e.g., Coinbase, Binance)",
+    "Fintech platforms (e.g., Stripe, PayPal)",
+    "Institutional investors and asset managers",
+    "Retail merchants accepting stablecoin payments",
+    "Banks and payment processors"
   ],
   "competitors": [
-    "Coinbase",
-    "Binance",
-    "PayPal",
-    "Stripe",
-    "Tether"
+    "Gemini Trust Company",
+    "Paxos Trust Company",
+    "Coinbase Global, Inc.",
+    "Silvergate Bank",
+    "Revolut Ltd."
   ],
   "key_products": [
     "USDC stablecoin",
     "EURC stablecoin",
-    "USYC tokenized money market fund",
-    "Circle Pay",
-    "Circle API for stablecoin integration"
+    "USYC tokenized money‑market fund",
+    "Payments API for stablecoin transactions",
+    "Crypto custody and treasury services"
   ],
-  "extracted_at": "2026-03-02 16:38:32",
+  "extracted_at": "2026-03-03 16:40:07",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,21 +47,21 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.financecharts.com/stocks/CRCL/profile",
+      "url": "https://swvam.org/manufacturers-map/",
       "query": "Circle Internet Group suppliers manufacturers",
-      "snippet": "Circle Internet Group , Inc. is a financial technology company that enables businesses of all sizes to harness the power of digital currencies and pub"
+      "snippet": "Jan 13, 2026 · Want to know more about what manufacturers look like today? Check out our Careers in Manufacturing Page. SVAM is a membership-driven or"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/CRCL-Customers",
+      "url": "https://en.wikipedia.org/wiki/Circle_Internet_Group",
       "query": "Circle Internet Group major customers clients",
-      "snippet": "Jan 12, 2026 · Circle Internet Group Inc customers and markets, results by customer and performance relative to CRCL, by company and industry - CSIMar"
+      "snippet": "Circle is a payments technology company. Funded by Jeremy Allaire and Sean Neville in 2013, it is currently headquartered in New York City and issues "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.appsruntheworld.com/customers-database/vendors/view/circle-internet-group",
+      "url": "https://www.circle.com/pressroom/circle-reports-fourth-quarter-and-full-fiscal-year-2025-financial-results",
       "query": "Circle Internet Group major customers clients",
-      "snippet": "List of companies using or evaluating Circle Internet Group applications, with details on their revenues, employees, industries, and locations."
+      "snippet": "6 days ago · Circle Internet Group, Inc. today announced results for the fourth quarter and full fiscal year 2025."
     }
   ]
 }

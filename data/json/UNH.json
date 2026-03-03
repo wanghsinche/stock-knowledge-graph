@@ -2,36 +2,37 @@
   "ticker": "UNH",
   "company_name": "UnitedHealth Group Incorporated",
   "sector": "Healthcare",
-  "industry": "Healthcare Plans",
+  "industry": "Health Insurance / Health Care Services",
   "upstream": [
     "Pharmaceutical manufacturers",
-    "Medical device manufacturers",
-    "Health IT vendors",
-    "Data analytics firms",
-    "Pharmacy benefit managers"
+    "Medical device producers",
+    "Health technology vendors",
+    "Data analytics providers",
+    "Pharmacy benefit management suppliers"
   ],
   "downstream": [
-    "Employers (group insurance)",
+    "Large corporate employers",
     "Government agencies (Medicare, Medicaid)",
     "Individual consumers",
-    "Health care providers (hospitals, clinics)",
-    "Corporate partners"
+    "Small and medium businesses",
+    "Health care providers (hospitals, clinics)"
   ],
   "competitors": [
     "Anthem",
     "Aetna",
     "Cigna",
     "Humana",
-    "CVS Health (Aetna)"
+    "CVS Health"
   ],
   "key_products": [
-    "Health insurance plans (individual, group)",
+    "UnitedHealthcare commercial insurance plans",
     "Medicare Advantage plans",
-    "Medicaid managed care",
-    "Pharmacy benefit management services",
-    "Optum health services (clinical, pharmacy, data analytics)"
+    "Medicaid managed care plans",
+    "OptumRx pharmacy benefit management",
+    "OptumCare health services",
+    "OptumInsight data analytics"
   ],
-  "extracted_at": "2026-02-26 16:51:07",
+  "extracted_at": "2026-03-03 16:46:43",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,13 +44,13 @@
       "source": "DuckDuckGo",
       "url": "https://www.unitedhealthgroup.com/suppliers/information.html",
       "query": "UnitedHealth Group Incorporated suppliers manufacturers",
-      "snippet": "Supplier Community Portal At UnitedHealth Group , we search for suppliers that help us deliver best-in-class services to our customers. These partners"
+      "snippet": "At UnitedHealth Group, we search for suppliers that help us deliver best-in-class services to our customers. These partners support the UnitedHealth G"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/UNH-Suppliers",
+      "url": "https://www.unitedhealthgroup.com/suppliers/procurement.html",
       "query": "UnitedHealth Group Incorporated suppliers manufacturers",
-      "snippet": "Sources: Unitedhealth Group Incorporated 's official press releases and regulatory filings; CSIMarket.com's supply -chain research; and the financial "
+      "snippet": "UnitedHealth Group's Supplier Compliance Program webpage provides education and resources for our suppliers related to our compliance policies and pro"
     },
     {
       "source": "DuckDuckGo",
@@ -59,9 +60,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/UNH-Customers",
+      "url": "https://www.unitedhealthgroup.com/uhg/businesses.html",
       "query": "UnitedHealth Group Incorporated major customers clients",
-      "snippet": "Unitedhealth Group Incorporated customers and markets, results by customer and performance relative to UNH, by company and industry - CSIMarket"
+      "snippet": "UnitedHealth Group is a health care and well-being company with team members in two distinct and complementary businesses — Optum and UnitedHealthcare"
     }
   ]
 }

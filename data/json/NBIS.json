@@ -1,37 +1,33 @@
 {
   "ticker": "NBIS",
   "company_name": "Nebius Group N.V.",
-  "sector": "Communication Services / Internet Content & Information",
-  "industry": "Artificial Intelligence Infrastructure",
+  "sector": "Communication Services",
+  "industry": "Internet Content & Information",
   "upstream": [
-    "NVDA",
-    "AMD",
-    "INTC",
-    "GOOGL",
-    "AMZN"
+    "Nebius Group N.V."
   ],
   "downstream": [
-    "GOOGL",
-    "AMZN",
-    "MSFT",
-    "IBM",
-    "ORCL"
+    "Corporate clients",
+    "Enterprise customers",
+    "Government agencies",
+    "Technology partners",
+    "Research institutions"
   ],
   "competitors": [
     "OpenAI",
-    "Anthropic",
-    "Cohere",
-    "DeepMind",
-    "Hugging Face"
+    "GOOGL",
+    "MSFT",
+    "AMZN",
+    "IBM"
   ],
   "key_products": [
-    "Nebius AI Platform",
+    "Artificial intelligence infrastructure",
     "Avride",
     "TripleTen",
     "Toloka",
     "Clickhouse"
   ],
-  "extracted_at": "2026-03-02 16:49:21",
+  "extracted_at": "2026-03-03 16:47:08",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +37,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/NBIS-Suppliers",
+      "url": "https://en.wikipedia.org/wiki/Nebius_Group",
       "query": "NBIS suppliers manufacturers",
-      "snippet": "May 3, 2025 · Nebius Group N V supply chain, list and performance of Nebius Group N Vs' suppliers - CSIMarket"
+      "snippet": "Nebius Group N.V., headquartered in Amsterdam, is a technology company that provides artificial intelligence infrastructure. The company also owns Avr"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://mvcinvesting.substack.com/p/why-nebius-group-nbis-is-my-largest",
+      "url": "https://mono.ipros.com/en/product/detail/2000386002/",
       "query": "NBIS suppliers manufacturers",
-      "snippet": "May 13, 2025 · Today, NBIS is a completely independent company — composed of Nebius (AI cloud), Avride (autonomous driving), Toloka (data labeling), T"
+      "snippet": "Jul 10, 2018 · \"NBIS\" is a building management system constructed by Network Corporation using an open system for small and medium-sized buildings. N-"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.youtube.com/watch?v=USAm2vxULdc",
+      "url": "https://csimarket.com/stocks/NBIS-Customers",
       "query": "NBIS major customers clients",
-      "snippet": "Hello fellow investors, welcome back to Borex Investing. Today we break down the Google vs Nvidia AI chip debate that took over the market this week —"
+      "snippet": "For your research, we’ve provided 9 tables on Nebius Group n v corporate clients . You can find them in the navigation menu under Customers & Markets."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://seekingalpha.com/symbol/NBIS",
+      "url": "https://mvcinvesting.substack.com/p/nebius-group-nbis-the-key-catalysts",
       "query": "NBIS major customers clients",
-      "snippet": "A high-level overview of Nebius Group N.V. ( NBIS ) stock. View ( NBIS ) real-time stock price, chart, news, analysis, analyst reviews and more.Nebius"
+      "snippet": "Jun 14, 2025 · This facility will unlock the scale necessary to support high-density workloads and will finally position NBIS to ink a large, multi-ye"
     }
   ]
 }

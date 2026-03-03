@@ -1,21 +1,21 @@
 {
   "ticker": "NFLX",
   "company_name": "Netflix, Inc.",
-  "sector": "Communication Services / Entertainment",
-  "industry": "Streaming Media",
+  "sector": "Communication Services",
+  "industry": "Entertainment",
   "upstream": [
-    "Warner Bros. Discovery",
-    "Disney",
-    "Universal Studios",
-    "SONY",
-    "Paramount Global"
+    "Content production studios (e.g., Warner Bros., Universal)",
+    "Independent film and TV producers",
+    "AMZN",
+    "Hardware manufacturers (e.g., TV, set‑top box makers)",
+    "Digital rights management and licensing agencies"
   ],
   "downstream": [
-    "Global individual subscribers",
-    "Corporate clients (airlines, hotels, airlines)",
-    "International markets",
-    "Enterprise partners",
-    "Content distributors"
+    "Individual household subscribers worldwide",
+    "Corporate clients (e.g., airlines, hotels, telecom operators)",
+    "NFLX",
+    "Advertising partners for promotional content",
+    "NFLX"
   ],
   "competitors": [
     "Disney+",
@@ -25,13 +25,13 @@
     "AAPL"
   ],
   "key_products": [
-    "Netflix streaming service",
-    "Original series",
-    "Original movies",
-    "Licensed TV shows",
-    "Documentaries"
+    "Netflix streaming service (subscription video on demand)",
+    "Netflix Originals (original movies, series, documentaries)",
+    "Mobile and web applications for content consumption",
+    "Parental controls and profile management features",
+    "Offline download capability for mobile devices"
   ],
-  "extracted_at": "2026-03-02 16:36:15",
+  "extracted_at": "2026-03-03 16:39:09",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,15 +41,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://porteranalysis.com/porters-five-forces-of-netflix/",
+      "url": "https://en.wikipedia.org/wiki/Netflix,_Inc.",
       "query": "Netflix, Inc. suppliers manufacturers",
-      "snippet": "This is the detailed Porter’s five forces of Netflix that would allow to gain insight into the industry."
+      "snippet": "Netflix, Inc. is an American media company founded on August 29, 1997 by Reed Hastings and Marc Randolph in Scotts Valley, California, and currently b"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.alibaba.com/",
+      "url": "https://www.eximpedia.app/companies/netflix-inc/68821493",
       "query": "Netflix, Inc. suppliers manufacturers",
-      "snippet": "Find quality Manufacturers , Suppliers , Exporters, Importers, Buyers, Wholesalers, Products and Trade Leads from our award-winning International Trad"
+      "snippet": "View Netflix Inc import export trade data, including shipment records, HS codes, top buyers, suppliers, trade values, and global market insights."
     },
     {
       "source": "DuckDuckGo",
@@ -61,7 +61,7 @@
       "source": "DuckDuckGo",
       "url": "https://ir.netflix.net/ir-overview/profile/default.aspx",
       "query": "Netflix, Inc. major customers clients",
-      "snippet": "Jan 20, 2026 · Netflix is one of the world’s leading entertainment services offering TV series, films, games and live programming across a wide variet"
+      "snippet": "4 days ago · Netflix is one of the world’s leading entertainment services offering TV series, films, games and live programming across a wide variety "
     }
   ]
 }

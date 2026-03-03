@@ -2,56 +2,56 @@
 ticker: HOOD
 company: Robinhood Markets, Inc.
 sector: Financial Services
-industry: Capital Markets
-extracted_at: 2026-03-02 16:41:41
-last_updated: 2026-03-02
+industry: Capital Markets / Brokerage
+extracted_at: 2026-03-03 16:43:22
+last_updated: 2026-03-03
 ---
 
 # HOOD - Robinhood Markets, Inc.
 
 ## 基本信息
 
-- **所属行业**: Financial Services / Capital Markets
-- **提取时间**: 2026-03-02 16:41:41
+- **所属行业**: Financial Services / Capital Markets / Brokerage
+- **提取时间**: 2026-03-03 16:43:22
 
 ## 产业链关系
 
 ### 上游供应商
+- [[NASDAQ market data feeds]]
+- [[Bloomberg data services]]
 - [[AMZN]]
-- [[MSFT]]
-- [[Bloomberg]]
-- [[Refinitiv]]
-- [[Stripe]]
+- [[Stripe payment processing]]
+- [[Plaid API]]
 
 ### 下游客户
 - [[Retail investors]]
-- [[Institutional investors]]
-- [[High‑net‑worth individuals]]
-- [[Fintech partners]]
+- [[Institutional clients]]
+- [[High‑frequency traders]]
+- [[Financial advisors]]
 - [[Corporate clients]]
 
 ### 竞争对手
-- [[E*TRADE]]
-- [[TD Ameritrade]]
 - [[Charles Schwab]]
+- [[E*TRADE]]
 - [[Fidelity]]
+- [[TD Ameritrade]]
 - [[Webull]]
 
 ### 核心产品
-- [[Commission‑free trading]]
-- [[Robinhood Gold]]
-- [[Crypto trading]]
-- [[Cash management]]
+- [[Commission‑free stock trading]]
+- [[Cryptocurrency trading]]
 - [[Margin trading]]
+- [[Robinhood Gold subscription]]
+- [[Options trading]]
 
 ## 数据来源
 
 - 
 - [Robinhood Markets, Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/Robinhood_Markets)
-- [Robinhood Markets, Inc. suppliers manufacturers](https://ru.wikipedia.org/wiki/Robinhood_(компания))
+- [Robinhood Markets, Inc. suppliers manufacturers](https://robinhood.com/us/en/learn/articles/3ntoEHx7rdxnb7EV60s410/what-is-procurement/)
 - [Robinhood Markets, Inc. major customers clients](https://en.wikipedia.org/wiki/Robinhood_Markets)
-- [Robinhood Markets, Inc. major customers clients](https://investors.robinhood.com/news-releases/news-release-details/robinhood-markets-inc-reports-january-2025-operating-data)
+- [Robinhood Markets, Inc. major customers clients](https://investors.robinhood.com/news-releases/news-release-details/robinhood-reports-fourth-quarter-and-full-year-2025-results)
 
 ## 元数据
 
-- **更新日期**: 2026-03-02
+- **更新日期**: 2026-03-03

@@ -11,11 +11,11 @@
     "005930.KS"
   ],
   "downstream": [
-    "Individual consumers",
-    "Small‑ and medium‑size businesses",
-    "Large enterprises",
+    "Enterprise customers (e.g., Fortune 500 companies)",
     "Government agencies",
-    "CAT"
+    "CAT",
+    "Small and medium‑size businesses",
+    "Individual consumers"
   ],
   "competitors": [
     "GOOGL",
@@ -28,10 +28,10 @@
     "Windows operating system",
     "Microsoft Office suite",
     "Azure cloud platform",
-    "Microsoft Teams",
+    "Surface hardware",
     "Xbox gaming console"
   ],
-  "extracted_at": "2026-03-02 16:34:59",
+  "extracted_at": "2026-03-03 16:36:37",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/List_of_mergers_and_acquisitions_by_Microsoft",
+      "url": "https://www.microsoft.com/en-us/professionalservices/suppliers",
       "query": "Microsoft Corporation suppliers manufacturers",
-      "snippet": "Microsoft has subsequently acquired over 225 companies, purchased stakes in 64 companies, and made 25 divestments."
+      "snippet": "When customers engage with Microsoft for Professional Services, including enterprise services, consulting, and support solutions, Microsoft may hire a"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://devicepartner.microsoft.com/connect/distributor",
+      "url": "https://download.microsoft.com/download/F/3/8/F38AF681-EB3A-4645-A9C4-D4F31B8BA8F2/Microsoft+Top+100+Production+Suppliers.pdf",
       "query": "Microsoft Corporation suppliers manufacturers",
-      "snippet": "Find Microsoft Authorized OEM Distributors and OEM Channel Distributors. Select a country to view Authorized OEM Distributors."
+      "snippet": "The official Microsoft Download Center. Featuring the latest software updates and drivers for Windows, Office, Xbox and more. Operating systems includ"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.appsruntheworld.com/customers-database/vendors/view/microsoft",
+      "query": "Microsoft Corporation major customers clients",
+      "snippet": "1 month ago - Each quarter our research team identifies companies that are using Microsoft applications such as Microsoft 365 for Collaboration, Micro"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.microsoft.com/investor/reports/ar13/financial-review/business-description/customers/index.html",
       "query": "Microsoft Corporation major customers clients",
       "snippet": "Our customers include individual consumers, small- and medium-sized organizations, enterprises, governmental institutions, educational institutions, I"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.microsoft.com/en-us/customers/b",
-      "query": "Microsoft Corporation major customers clients",
-      "snippet": "Explore customer success stories to learn how businesses are overcoming challenges, driving innovation, and achieving more with Microsoft solutions. M"
     }
   ]
 }

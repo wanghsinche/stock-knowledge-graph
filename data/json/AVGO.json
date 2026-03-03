@@ -7,31 +7,31 @@
     "TSM",
     "005930.KS",
     "GlobalFoundries",
-    "INTC",
+    "UMC",
     "MU"
   ],
   "downstream": [
     "CSCO",
     "DELL",
+    "HPQ",
     "IBM",
-    "AMZN",
-    "MSFT"
+    "AMZN"
   ],
   "competitors": [
-    "INTC",
     "QCOM",
+    "INTC",
     "NVDA",
-    "MRVL",
-    "TXN"
+    "TXN",
+    "AMD"
   ],
   "key_products": [
-    "Wi‑Fi and Bluetooth chips",
-    "Ethernet controllers",
-    "Broadband modems",
-    "Storage controllers",
-    "RF transceivers"
+    "Broadcom BCM2835 (Raspberry Pi SoC)",
+    "Broadcom BCM4360 (Wi‑Fi 6E)",
+    "Broadcom BCM5719 (Ethernet controller)",
+    "Broadcom Storage Controller (SAS)",
+    "Broadcom Infrastructure Software (Enterprise solutions)"
   ],
-  "extracted_at": "2026-03-02 16:37:20",
+  "extracted_at": "2026-03-03 16:38:56",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,9 +47,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.broadcom.com/how-to-buy/partner-distributor-lookup",
+      "url": "https://www.broadcom.com/",
       "query": "Broadcom Inc. suppliers manufacturers",
-      "snippet": "The Partner Locator will help you find the local expertise you need to be successful with Broadcom solutions. Begin searching by typing what you're lo"
+      "snippet": "Broadcom delivers semiconductors and infrastructure software for global enterprises’ most complex, mission-critical needs."
     },
     {
       "source": "DuckDuckGo",

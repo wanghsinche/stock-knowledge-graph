@@ -1,14 +1,14 @@
 {
   "ticker": "GS",
   "company_name": "The Goldman Sachs Group, Inc.",
-  "sector": "Financial Services",
-  "industry": "Capital Markets",
+  "sector": "Financial Services / Capital Markets",
+  "industry": "Investment Banking & Brokerage",
   "upstream": [
-    "Financial product issuers",
-    "Clearing service providers",
     "Technology vendors",
     "Data providers",
-    "Regulatory bodies"
+    "Legal services",
+    "Regulatory compliance services",
+    "Risk management software providers"
   ],
   "downstream": [
     "Private equity funds",
@@ -18,20 +18,20 @@
     "High‑net‑worth individuals"
   ],
   "competitors": [
-    "J.P. Morgan Chase & Co.",
+    "JPMorgan Chase & Co.",
     "Morgan Stanley",
-    "Citigroup",
     "Bank of America Merrill Lynch",
-    "Credit Suisse"
+    "Citigroup",
+    "Wells Fargo"
   ],
   "key_products": [
     "Investment banking services",
+    "Securities trading",
     "Asset management",
-    "Trading and brokerage",
-    "Capital markets solutions",
-    "Wealth management"
+    "Wealth management",
+    "Capital markets solutions"
   ],
-  "extracted_at": "2026-03-02 16:41:06",
+  "extracted_at": "2026-03-03 16:41:41",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,13 +43,13 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Goldman_Sachs",
       "query": "The Goldman Sachs Group, Inc. suppliers manufacturers",
-      "snippet": "It is a market maker for many types of financial products and provides clearing and custodian bank services. It operates private-equity funds and hedg"
+      "snippet": "The Goldman Sachs Group , Inc . (/ sæks / SAKS) is an American multinational investment bank and financial services company. Founded in 1869, Goldman "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.goldmansachs.com/our-firm/sustainable-finance/our-operational-impact/responsible-sourcing-and-supply-change-management",
+      "url": "https://csimarket.com/stocks/GS-Suppliers",
       "query": "The Goldman Sachs Group, Inc. suppliers manufacturers",
-      "snippet": "At Goldman Sachs, we work hard to partner with competitive small businesses to source the goods and services needed to support our operations and achi"
+      "snippet": "For your research, we’ve provided nine additional tables on The Goldman Sachs Group Inc ’s suppliers . You can find them in the navigation menu under "
     },
     {
       "source": "DuckDuckGo",

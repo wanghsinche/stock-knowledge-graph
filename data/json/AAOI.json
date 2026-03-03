@@ -1,37 +1,37 @@
 {
   "ticker": "AAOI",
   "company_name": "Applied Optoelectronics, Inc.",
-  "sector": "Technology",
-  "industry": "Communication Equipment",
+  "sector": "Technology / Communication Equipment",
+  "industry": "Optical Communications / Semiconductor",
   "upstream": [
-    "Optical fiber suppliers",
-    "Semiconductor wafer manufacturers",
-    "Photonic component suppliers",
-    "Packaging material suppliers",
-    "Precision machining suppliers"
+    "Silicon wafer suppliers",
+    "Photonic material suppliers",
+    "Lithography equipment manufacturers",
+    "Packaging equipment providers",
+    "Cleanroom equipment suppliers"
   ],
   "downstream": [
     "Internet data center operators",
-    "Cable TV operators",
     "CAT",
-    "Network equipment vendors",
-    "Enterprise network integrators"
+    "CAT",
+    "Network equipment manufacturers",
+    "Cloud service providers"
   ],
   "competitors": [
-    "Finisar Corp.",
-    "Lumentum Holdings",
-    "II-VI Incorporated",
+    "Finisar (II‑VI)",
+    "Lumentum",
+    "II‑VI Incorporated",
     "AVGO",
-    "CSCO"
+    "CAT"
   ],
   "key_products": [
-    "Optical transceivers",
-    "Fiber optic modules",
-    "Optical amplifiers",
-    "Optical connectors",
-    "Optical switches"
+    "800G optical transceivers",
+    "400G optical transceivers",
+    "200G optical transceivers",
+    "100G optical transceivers",
+    "40G optical transceivers"
   ],
-  "extracted_at": "2026-03-02 16:38:54",
+  "extracted_at": "2026-03-03 16:43:32",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ca.finance.yahoo.com/quote/AAOI/?p=AAOI",
+      "url": "https://en.wikipedia.org/wiki/Applied_Optoelectronics",
       "query": "Applied Optoelectronics, Inc. suppliers manufacturers",
-      "snippet": "Applied Optoelectronics , Inc . Overview Communication Equipment / Technology. Applied Optoelectronics , Inc . designs, manufactures , and sells fiber"
+      "snippet": "Applied Optoelectronics Inc . is an American semiconductor company that focuses on optical devices. It was founded in 1997 at the University of Housto"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://last10k.com/sec-filings/aaoi",
+      "url": "https://stockanalysis.com/stocks/aaoi/company/",
       "query": "Applied Optoelectronics, Inc. suppliers manufacturers",
-      "snippet": "Applied Optoelectronics Inc . (AOI) is a leading developer and manufacturer of advanced optical products, including components, modules and equipment."
+      "snippet": "3 days ago · The company sells its products to internet data center operators, cable television, telecom equipment manufacturers , fiber-to-the-home, "
     },
     {
       "source": "DuckDuckGo",
       "url": "https://csimarket.com/stocks/AAOI-Customers",
       "query": "Applied Optoelectronics, Inc. major customers clients",
-      "snippet": "5 days ago · Our customers are primarily internet data center operators, CATV and telecommunications equipment manufacturers, and internet service pro"
+      "snippet": "Our customers are primarily internet data center operators, CATV and telecommunications equipment manufacturers, and internet service providers. We ge"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://investors.ao-inc.com/",
+      "url": "https://finance.yahoo.com/news/applied-optoelectronics-inc-q4-2025-133000802.html?fr=sycsrp_catchall",
       "query": "Applied Optoelectronics, Inc. major customers clients",
-      "snippet": "Feb 17, 2026 · Applied Optoelectronics, Inc . is a prominent provider in the fiber-optic networking sector, dedicated to supplying reliable solutions "
+      "snippet": "4 days ago · A slight Q4 revenue shortfall in 800G was attributed to ongoing firmware optimization for interoperability across a major hyperscale cust"
     }
   ]
 }

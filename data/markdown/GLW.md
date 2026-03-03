@@ -3,8 +3,8 @@ ticker: GLW
 company: Corning Incorporated
 sector: Technology
 industry: Electronic Components
-extracted_at: 2026-03-02 16:40:42
-last_updated: 2026-03-02
+extracted_at: 2026-03-03 16:43:14
+last_updated: 2026-03-03
 ---
 
 # GLW - Corning Incorporated
@@ -12,46 +12,46 @@ last_updated: 2026-03-02
 ## 基本信息
 
 - **所属行业**: Technology / Electronic Components
-- **提取时间**: 2026-03-02 16:40:42
+- **提取时间**: 2026-03-03 16:43:14
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Silicon wafer suppliers]]
-- [[Glass raw material suppliers]]
-- [[Ceramic manufacturers]]
-- [[Optical fiber manufacturers]]
-- [[Chemical suppliers]]
+- [[Silica sand]]
+- [[Chemical reagents (e.g., soda ash, boric acid)]]
+- [[Glass manufacturing furnaces]]
+- [[Glass coating equipment]]
+- [[Glass fiber production machinery]]
 
 ### 下游客户
-- [[005930.KS]]
-- [[CSCO]]
-- [[AAPL]]
-- [[Industrial and scientific equipment manufacturers (e.g., Thermo Fisher, Siemens)]]
+- [[CAT]]
+- [[Aerospace manufacturers (e.g., Boeing, Airbus)]]
+- [[Medical device makers (e.g., Medtronic, Johnson & Johnson)]]
 - [[TSLA]]
+- [[AAPL]]
 
 ### 竞争对手
-- [[Nikon]]
-- [[Canon]]
-- [[Zeiss]]
-- [[Lumentum]]
-- [[Coherent]]
+- [[Schott AG]]
+- [[Saint‑Gobain]]
+- [[AGC Inc.]]
+- [[005930.KS]]
+- [[LG Display]]
 
 ### 核心产品
-- [[Optical fiber]]
-- [[Display glass]]
-- [[Advanced optics]]
-- [[Glass substrates]]
-- [[Ceramic materials]]
+- [[Gorilla Glass]]
+- [[Optical fibers]]
+- [[Specialty glass for scientific instruments]]
+- [[Glass substrates for flat‑panel displays]]
+- [[Glass for medical device applications]]
 
 ## 数据来源
 
 - [Corning Inc.](https://en.wikipedia.org/wiki/Corning_Incorporated)
-- [Corning Incorporated suppliers manufacturers](https://www.corning.com/worldwide/en/products/life-sciences/config/Distributors.html)
-- [Corning Incorporated suppliers manufacturers](https://www.mouser.com/manufacturer/corning/)
-- [Corning Incorporated major customers clients](https://en.wikipedia.org/wiki/Corning_Inc.)
+- [Corning Incorporated suppliers manufacturers](https://ru.wikipedia.org/wiki/Corning_Inc.)
+- [Corning Incorporated suppliers manufacturers](https://en.wikipedia.org/wiki/Gorilla_Glass)
 - [Corning Incorporated major customers clients](https://canvasbusinessmodel.com/blogs/target-market/corning-target-market)
+- [Corning Incorporated major customers clients](https://csimarket.com/stocks/GLW-Customers)
 
 ## 元数据
 
-- **更新日期**: 2026-03-02
+- **更新日期**: 2026-03-03

@@ -7,13 +7,13 @@
     "ASML",
     "AMAT",
     "LRCX",
-    "Silicon wafer suppliers",
-    "Chemical suppliers (etchants, photoresists)"
+    "Tokyo Electron",
+    "KLA"
   ],
   "downstream": [
     "DELL",
     "HPQ",
-    "Lenovo Group",
+    "Lenovo",
     "AAPL",
     "MSFT"
   ],
@@ -22,16 +22,16 @@
     "NVDA",
     "QCOM",
     "AVGO",
-    "005930.KS"
+    "TSM"
   ],
   "key_products": [
-    "Intel Core processors",
-    "Intel Xeon processors",
-    "Intel Optane SSDs",
-    "Intel Ethernet controllers",
+    "Intel Core CPUs",
+    "Intel Xeon CPUs",
+    "Intel Arc GPUs",
+    "Intel chipsets",
     "Intel AI accelerators"
   ],
-  "extracted_at": "2026-03-02 16:40:24",
+  "extracted_at": "2026-03-03 16:39:23",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,21 +47,21 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/INTC/",
-      "query": "Intel Corporation suppliers manufacturers",
-      "snippet": "Find the latest Intel Corporation (INTC) stock quote, history, news and other vital information to help you with your stock trading and investing."
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Intel",
-      "query": "Intel Corporation major customers clients",
-      "snippet": "Intel Corporation is an American multinational technology company headquartered in Santa Clara, California. It designs, manufactures, and sells comput"
-    },
-    {
-      "source": "DuckDuckGo",
       "url": "https://www.intel.com/",
+      "query": "Intel Corporation suppliers manufacturers",
+      "snippet": "See how suppliers are developing solutions based on Intel ® Xeon® for..."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/INTC-Customers",
       "query": "Intel Corporation major customers clients",
-      "snippet": "12 days ago AI, Security, 5G: New Intel ® Xeon® Processors for IoT The 3rd..."
+      "snippet": "6 days ago · Intel customers and markets, results by customer and performance relative to INTC, by company and industry - CSIMarket"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.intel.com/content/www/us/en/customer-spotlight/overview.html",
+      "query": "Intel Corporation major customers clients",
+      "snippet": "Explore the Intel Customer Spotlight for the latest customer stories, case studies, and testimonials highlighting data-centric innovations."
     }
   ]
 }

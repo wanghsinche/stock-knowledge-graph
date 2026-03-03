@@ -1,18 +1,18 @@
 ---
 ticker: PLTR
 company: Palantir Technologies Inc.
-sector: Technology
-industry: Software - Infrastructure
-extracted_at: 2026-03-02 16:35:17
-last_updated: 2026-03-02
+sector: Technology / Software - Infrastructure
+industry: Data Analytics & Integration
+extracted_at: 2026-03-03 16:37:02
+last_updated: 2026-03-03
 ---
 
 # PLTR - Palantir Technologies Inc.
 
 ## 基本信息
 
-- **所属行业**: Technology / Software - Infrastructure
-- **提取时间**: 2026-03-02 16:35:17
+- **所属行业**: Technology / Software - Infrastructure / Data Analytics & Integration
+- **提取时间**: 2026-03-03 16:37:02
 
 ## 产业链关系
 
@@ -20,29 +20,29 @@ last_updated: 2026-03-02
 - [[AMZN]]
 - [[MSFT]]
 - [[GOOGL]]
-- [[ORCL]]
-- [[IBM]]
+- [[DELL]]
+- [[INTC]]
 
 ### 下游客户
 - [[U.S. Department of Defense]]
-- [[U.S. Department of Justice]]
-- [[U.S. Federal Bureau of Investigation]]
-- [[JPMorgan Chase & Co.]]
-- [[Boeing]]
+- [[INTC]]
+- [[U.S. Department of Homeland Security]]
+- [[General Electric]]
+- [[Goldman Sachs]]
 
 ### 竞争对手
-- [[Snowflake]]
-- [[Databricks]]
-- [[Splunk]]
 - [[IBM]]
+- [[SAS]]
+- [[ORCL]]
 - [[MSFT]]
+- [[CRM]]
 
 ### 核心产品
 - [[Gotham]]
 - [[Foundry]]
 - [[Apollo]]
-- [[Metropolis]]
 - [[Palantir Platform]]
+- [[Data Integration Suite]]
 
 ## 数据来源
 
@@ -50,8 +50,8 @@ last_updated: 2026-03-02
 - [Palantir Technologies Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/Palantir)
 - [Palantir Technologies Inc. suppliers manufacturers](https://csimarket.com/stocks/PLTR-Suppliers)
 - [Palantir Technologies Inc. major customers clients](https://en.wikipedia.org/wiki/Alex_Karp)
-- [Palantir Technologies Inc. major customers clients](https://www.marketwatch.com/investing/stock/pltr)
+- [Palantir Technologies Inc. major customers clients](https://ru.wikipedia.org/wiki/Palantir)
 
 ## 元数据
 
-- **更新日期**: 2026-03-02
+- **更新日期**: 2026-03-03

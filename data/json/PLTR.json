@@ -1,37 +1,37 @@
 {
   "ticker": "PLTR",
   "company_name": "Palantir Technologies Inc.",
-  "sector": "Technology",
-  "industry": "Software - Infrastructure",
+  "sector": "Technology / Software - Infrastructure",
+  "industry": "Data Analytics & Integration",
   "upstream": [
     "AMZN",
     "MSFT",
     "GOOGL",
-    "ORCL",
-    "IBM"
+    "DELL",
+    "INTC"
   ],
   "downstream": [
     "U.S. Department of Defense",
-    "U.S. Department of Justice",
-    "U.S. Federal Bureau of Investigation",
-    "JPMorgan Chase & Co.",
-    "Boeing"
+    "INTC",
+    "U.S. Department of Homeland Security",
+    "General Electric",
+    "Goldman Sachs"
   ],
   "competitors": [
-    "Snowflake",
-    "Databricks",
-    "Splunk",
     "IBM",
-    "MSFT"
+    "SAS",
+    "ORCL",
+    "MSFT",
+    "CRM"
   ],
   "key_products": [
     "Gotham",
     "Foundry",
     "Apollo",
-    "Metropolis",
-    "Palantir Platform"
+    "Palantir Platform",
+    "Data Integration Suite"
   ],
-  "extracted_at": "2026-03-02 16:35:17",
+  "extracted_at": "2026-03-03 16:37:02",
   "sources": [
     {
       "source": "Wikipedia",
@@ -55,13 +55,13 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Alex_Karp",
       "query": "Palantir Technologies Inc. major customers clients",
-      "snippet": "Alexander Caedmon Karp is an American businessman and entrepreneur. He is the co-founder and chief executive officer of the software firm Palantir Tec"
+      "snippet": "Alexander Caedmon Karp (born October 2, 1967) is an American businessman and entrepreneur. He is the co-founder and chief executive officer (CEO) of t"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.marketwatch.com/investing/stock/pltr",
+      "url": "https://ru.wikipedia.org/wiki/Palantir",
       "query": "Palantir Technologies Inc. major customers clients",
-      "snippet": "PLTR | Complete Palantir Technologies Inc . stock news by MarketWatch. View real-time stock prices and stock quotes for a full financial overview."
+      "snippet": "Palantir — американская компания, разработчик программного обеспечения анализа данных для организаций, основные заказчики — военные структуры, спецслу"
     }
   ]
 }

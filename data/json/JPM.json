@@ -4,18 +4,18 @@
   "sector": "Financial Services",
   "industry": "Banks - Diversified",
   "upstream": [
-    "Technology vendors",
-    "Payment processors",
-    "Cloud service providers",
-    "Data analytics firms",
-    "Consulting & advisory services"
+    "MSFT",
+    "Data providers (e.g., Bloomberg, Thomson Reuters)",
+    "Payment processors (e.g., Visa, Mastercard)",
+    "AMZN",
+    "Consulting firms (e.g., Accenture)"
   ],
   "downstream": [
     "Retail banking customers",
     "Corporate banking clients",
-    "Investment banking clients",
-    "Private banking & wealth management clients",
-    "Government & institutional clients"
+    "Institutional investors",
+    "Wealth management clients",
+    "Small and medium enterprises"
   ],
   "competitors": [
     "Bank of America",
@@ -26,12 +26,12 @@
   ],
   "key_products": [
     "Retail banking services",
-    "Commercial banking services",
-    "Investment banking & advisory",
-    "Asset & wealth management",
-    "Credit & payment solutions"
+    "Investment banking services",
+    "Asset management",
+    "Credit card products",
+    "Treasury and cash management"
   ],
-  "extracted_at": "2026-03-02 16:44:36",
+  "extracted_at": "2026-03-03 16:42:58",
   "sources": [
     {
       "source": "Wikipedia",
@@ -59,9 +59,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.jpmorganchase.com/content/dam/jpmc/jpmorgan-chase-and-co/investor-relations/documents/annualreport-2024.pdf",
+      "url": "https://www.jpmorganchase.com/",
       "query": "JPMorgan Chase & Co. major customers clients",
-      "snippet": "Apr 7, 2025 · Under the J.P. Morgan and Chase brands, the firm serves millions of customers, predominantly in the U.S., and many of the world's most ."
+      "snippet": "JPMorganChase serves millions of customers, clients and communities in over 100 global markets. For 225 years, our work has been guided by principles "
     }
   ]
 }

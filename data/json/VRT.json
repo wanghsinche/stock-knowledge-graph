@@ -4,34 +4,34 @@
   "sector": "Industrials",
   "industry": "Electrical Equipment & Parts",
   "upstream": [
-    "Power distribution equipment manufacturers",
-    "Cooling system suppliers",
-    "Server and storage vendors",
-    "Networking equipment producers",
-    "Environmental monitoring component suppliers"
+    "Power supply manufacturers",
+    "Cooling system manufacturers",
+    "Networking equipment manufacturers",
+    "Data center infrastructure component suppliers",
+    "Component and semiconductor suppliers"
   ],
   "downstream": [
-    "Data center operators",
-    "CAT",
-    "Cloud service providers",
-    "Enterprise IT departments",
-    "Government agencies"
+    "AMZN",
+    "MSFT",
+    "GOOGL",
+    "Equinix",
+    "AT&T"
   ],
   "competitors": [
     "Schneider Electric",
-    "Eaton",
     "ABB",
-    "Siemens",
-    "Honeywell"
+    "CSCO",
+    "HPQ",
+    "DELL"
   ],
   "key_products": [
-    "Power Distribution Units (PDUs)",
     "Uninterruptible Power Supplies (UPS)",
-    "Data center cooling solutions",
-    "Rack‑mountable power and cooling systems",
-    "Data Center Infrastructure Management (DCIM) software"
+    "Power Distribution Units (PDU)",
+    "Cooling solutions for data centers",
+    "Data Center Infrastructure Management (DCIM) software",
+    "Rack‑mount equipment and enclosures"
   ],
-  "extracted_at": "2026-02-26 16:49:45",
+  "extracted_at": "2026-03-03 16:44:53",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,7 +47,7 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.vertiv.com/en-us/solutions/manufacturing/",
+      "url": "https://www.vertiv.com/en-emea/solutions/manufacturing/",
       "query": "Vertiv Holdings Co suppliers manufacturers",
       "snippet": "Vertiv delivers the infrastructure solutions manufacturers need to fully realize the benefits of AI, automation and robotics. faster deployment times "
     },

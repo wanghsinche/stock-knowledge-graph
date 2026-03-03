@@ -1,57 +1,57 @@
 ---
 ticker: WDC
 company: Western Digital Corporation
-sector: Technology
-industry: Computer Hardware
-extracted_at: 2026-03-02 16:42:33
-last_updated: 2026-03-02
+sector: Technology / Computer Hardware
+industry: Data Storage Devices
+extracted_at: 2026-03-03 16:42:24
+last_updated: 2026-03-03
 ---
 
 # WDC - Western Digital Corporation
 
 ## 基本信息
 
-- **所属行业**: Technology / Computer Hardware
-- **提取时间**: 2026-03-02 16:42:33
+- **所属行业**: Technology / Computer Hardware / Data Storage Devices
+- **提取时间**: 2026-03-03 16:42:24
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Silicon wafer suppliers]]
-- [[Memory chip manufacturers]]
-- [[PCB manufacturers]]
-- [[Electronics component suppliers]]
-- [[Manufacturing equipment suppliers]]
+- [[MU]]
+- [[005930.KS]]
+- [[SK Hynix]]
+- [[Toshiba]]
+- [[WDC]]
 
 ### 下游客户
+- [[AMZN]]
+- [[MSFT]]
+- [[GOOGL]]
 - [[DELL]]
 - [[HPQ]]
-- [[Lenovo Group]]
-- [[AAPL]]
-- [[005930.KS]]
 
 ### 竞争对手
 - [[STX]]
-- [[Toshiba Corporation]]
+- [[Toshiba]]
 - [[005930.KS]]
+- [[INTC]]
 - [[MU]]
-- [[IBM]]
 
 ### 核心产品
 - [[Hard Disk Drives (HDD)]]
 - [[Solid State Drives (SSD)]]
-- [[External storage devices]]
 - [[Enterprise storage solutions]]
-- [[Cloud storage infrastructure]]
+- [[Data center storage]]
+- [[Portable storage devices]]
 
 ## 数据来源
 
 - [Western Digital](https://en.wikipedia.org/wiki/Western_Digital_Corporation)
-- [Western Digital Corporation suppliers manufacturers](https://en.wikipedia.org/wiki/Western_Digital)
-- [Western Digital Corporation suppliers manufacturers](https://ru.wikipedia.org/wiki/Western_Digital)
+- [Western Digital Corporation suppliers manufacturers](https://www.westerndigital.com/company/distributors)
+- [Western Digital Corporation suppliers manufacturers](https://csimarket.com/stocks/WDC-Suppliers)
 - [Western Digital Corporation major customers clients](https://data.landbase.com/technology/western-digital/)
-- [Western Digital Corporation major customers clients](https://matrixbcg.com/blogs/target-market/westerndigital)
+- [Western Digital Corporation major customers clients](https://www.stockjabber.com/company/WDC/company-insights/Customers)
 
 ## 元数据
 
-- **更新日期**: 2026-03-02
+- **更新日期**: 2026-03-03

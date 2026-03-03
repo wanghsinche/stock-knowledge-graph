@@ -5,17 +5,17 @@
   "industry": "Semiconductors",
   "upstream": [
     "TSM",
-    "GlobalFoundries",
     "005930.KS",
-    "United Microelectronics Corporation (UMC)",
-    "TXN"
+    "GlobalFoundries",
+    "MU",
+    "NVDA"
   ],
   "downstream": [
     "DELL",
     "HPQ",
     "Lenovo",
-    "MSFT",
-    "AMZN"
+    "SONY",
+    "MSFT"
   ],
   "competitors": [
     "INTC",
@@ -26,12 +26,12 @@
   ],
   "key_products": [
     "Ryzen CPUs",
+    "EPYC CPUs",
     "Radeon GPUs",
-    "EPYC server CPUs",
     "Xilinx FPGAs",
-    "SoCs"
+    "APU SoCs"
   ],
-  "extracted_at": "2026-03-02 16:36:35",
+  "extracted_at": "2026-03-03 16:37:46",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,21 +47,21 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.trefis.com/data/companies/AMD",
+      "url": "https://pcxco.com/electronic-components-manufacturers/Advanced-Micro-Devices?srsltid=AfmBOortBa3jl6GqfMbGEETNgk9OuSsL4X8By4zR3NvR0qjm-RYcw42n",
       "query": "Advanced Micro Devices, Inc. suppliers manufacturers",
-      "snippet": "Major Suppliers for Advanced Micro Devices (AMD):. Taiwan Semiconductor Manufacturing Company (Symbol: TSM); ASE Technology Holding Co., Ltd. (Symbol:"
+      "snippet": "Advanced Micro Devices, also known as AMD, is a leading global provider of innovative processing solutions in the computing, graphics, and visualizati"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/AMD",
       "query": "Advanced Micro Devices, Inc. major customers clients",
-      "snippet": "AMD serves a wide range of business and consumer markets, including personal computers (PCs), gaming, data centers, and embedded systems. Advanced Mic"
+      "snippet": "Advanced Micro Devices , Inc . Advanced Micro Devices , Inc . ( AMD ) is an American multinational semiconductor company headquartered in Santa Clara,"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://matrixbcg.com/blogs/target-market/amd",
+      "url": "https://au.finance.yahoo.com/news/why-advanced-micro-devices-amd-090745086.html",
       "query": "Advanced Micro Devices, Inc. major customers clients",
-      "snippet": "Sep 8, 2025 · AMD's customer base is diverse, spanning individual consumers, businesses, and data centers. Key segments include PC gamers and creators"
+      "snippet": "Advanced Micro Devices , Inc . (NASDAQ: AMD ). Number of Hedge Fund Holders: 107. Advanced Micro Devices , Inc . (NASDAQ: AMD ) is a global semiconduc"
     }
   ]
 }

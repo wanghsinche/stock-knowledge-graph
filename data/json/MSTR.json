@@ -1,37 +1,37 @@
 {
   "ticker": "MSTR",
-  "company_name": "Strategy Inc",
+  "company_name": "MicroStrategy Incorporated",
   "sector": "Technology",
   "industry": "Software - Application",
   "upstream": [
-    "Medical device manufacturers",
-    "Venture capital firms",
-    "California Manufacturing Industry Database",
-    "Technology hardware suppliers",
-    "Software development tool vendors"
+    "DELL",
+    "MSFT",
+    "Data providers (e.g., Bloomberg, Thomson Reuters)",
+    "NVDA",
+    "ORCL"
   ],
   "downstream": [
-    "Healthcare organizations",
-    "Analytics clients",
-    "Medical device companies",
-    "Venture capital firms",
-    "Enterprise customers"
+    "Financial services firms",
+    "Government agencies",
+    "Retail and e‑commerce companies",
+    "Manufacturing enterprises",
+    "Healthcare organizations"
   ],
   "competitors": [
+    "Tableau Software",
     "MSFT",
-    "ORCL",
-    "SAP",
-    "CRM",
-    "ADBE"
+    "Qlik",
+    "GOOGL",
+    "SAP Analytics Cloud"
   ],
   "key_products": [
-    "Business intelligence software",
-    "Analytics platform",
-    "Data visualization tools",
-    "Mobile analytics",
-    "Enterprise reporting"
+    "MicroStrategy Desktop",
+    "MicroStrategy Cloud",
+    "MicroStrategy Mobile",
+    "MicroStrategy Analytics",
+    "MicroStrategy Data Warehouse"
   ],
-  "extracted_at": "2026-03-02 16:39:42",
+  "extracted_at": "2026-03-03 16:42:07",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.strategyinc.net/",
+      "url": "https://www.strategy.com/software/blog/how-manufacturers-are-solving-supply-chain-chaos-with-smart-bi",
       "query": "Strategy Inc suppliers manufacturers",
-      "snippet": "Strategy Inc . provides medical device consulting services to venture capitalists, emerging technology companies, law firms specializing in emerging b"
+      "snippet": "Discover how manufacturers are tackling supply chain chaos with Strategy One. Learn how AI-driven insights and real-time data can transform operations"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.mni.net/info/directory-of-california-manufacturers",
+      "url": "https://www.strategy.com/software",
       "query": "Strategy Inc suppliers manufacturers",
-      "snippet": "The California Manufacturing Industry Database includes additional profiles for selected wholesalers , distributors, suppliers , and industrial servic"
+      "snippet": "Strategy Solutions powered by Mosaic provide a universal semantic layer that unifies enterprise data, governs business metrics, and delivers trusted A"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/STRF-Customers",
+      "url": "https://en.wikipedia.org/wiki/MicroStrategy",
       "query": "Strategy Inc major customers clients",
-      "snippet": "Jan 30, 2026 · For your research, we’ve provided 9 tables on Strategy Inc corporate clients . You can find them in the navigation menu under Customers"
+      "snippet": "Strategy Inc ., formerly known as MicroStrategy, is an American company that provides business intelligence (BI) and mobile software. Founded in 1989 "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.strategy.com/software/customer-stories",
+      "url": "https://www.inc.com/",
       "query": "Strategy Inc major customers clients",
-      "snippet": "Dive into Strategy customer stories highlighting the impact of Analytics in Healthcare, Financial Services, Call Centers, Retail, Insurance, and Gover"
+      "snippet": "Inc . media is the entrepreneurs source for ideas, resources and advice on how to successfully start, run and grow your business.Lilly’s New Weight‑Lo"
     }
   ]
 }

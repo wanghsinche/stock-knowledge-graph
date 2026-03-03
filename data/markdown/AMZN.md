@@ -3,8 +3,8 @@ ticker: AMZN
 company: Amazon.com, Inc.
 sector: Consumer Cyclical
 industry: Internet Retail
-extracted_at: 2026-03-02 16:35:37
-last_updated: 2026-03-02
+extracted_at: 2026-03-03 16:37:17
+last_updated: 2026-03-03
 ---
 
 # AMZN - Amazon.com, Inc.
@@ -12,46 +12,46 @@ last_updated: 2026-03-02
 ## 基本信息
 
 - **所属行业**: Consumer Cyclical / Internet Retail
-- **提取时间**: 2026-03-02 16:35:37
+- **提取时间**: 2026-03-03 16:37:17
 
 ## 产业链关系
 
 ### 上游供应商
-- [[AAPL]]
 - [[005930.KS]]
+- [[AAPL]]
 - [[SONY]]
 - [[Nike, Inc.]]
 - [[Adidas AG]]
 
 ### 下游客户
-- [[NFLX]]
-- [[Airbnb, Inc.]]
-- [[005930.KS]]
-- [[ADBE]]
-- [[MSFT]]
+- [[AMZN]]
+- [[AMZN]]
+- [[AMZN]]
+- [[AMZN]]
+- [[AMZN]]
 
 ### 竞争对手
-- [[eBay Inc.]]
 - [[Walmart Inc.]]
+- [[eBay Inc.]]
 - [[Alibaba Group Holding Ltd.]]
 - [[Shopify Inc.]]
 - [[Target Corporation]]
 
 ### 核心产品
 - [[Amazon.com e‑commerce platform]]
-- [[Amazon Web Services (AWS)]]
-- [[Amazon Prime subscription]]
-- [[Amazon Kindle e‑reader]]
-- [[Amazon Echo (Alexa)]]
+- [[Amazon Web Services (cloud computing)]]
+- [[Amazon Prime subscription services]]
+- [[Alexa voice‑assistant ecosystem]]
+- [[Kindle e‑reader and Fire TV streaming devices]]
 
 ## 数据来源
 
 - [Amazon (company)](https://en.wikipedia.org/wiki/Amazon.com,_Inc.)
-- [Amazon.com, Inc. suppliers manufacturers](https://www.alibaba.com/)
-- [Amazon.com, Inc. suppliers manufacturers](https://www.amazon.com/amazon-fashion/b?ie=UTF8&node=7141123011)
-- [Amazon.com, Inc. major customers clients](https://ir.aboutamazon.com/)
-- [Amazon.com, Inc. major customers clients](https://www.amazon.com/Amazon-Fire-TV-Family/b?ie=UTF8&node=8521791011)
+- [Amazon.com, Inc. suppliers manufacturers](https://d39w7f4ix9f5s9.cloudfront.net/cb/19/77dfc5b441c892cd6e2be166ba70/final-amazon-supplier-list-2019-11-14-updated-1005am.pdf)
+- [Amazon.com, Inc. suppliers manufacturers](https://www.ecomdepotwholesale.com/post/list-of-amazon-authorized-suppliers-for-2024-the-complete-guide-to-finding-verified-suppliers)
+- [Amazon.com, Inc. major customers clients](https://www.amazon.com.tr/)
+- [Amazon.com, Inc. major customers clients](https://www.aboutamazon.com/)
 
 ## 元数据
 
-- **更新日期**: 2026-03-02
+- **更新日期**: 2026-03-03

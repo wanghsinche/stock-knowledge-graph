@@ -4,34 +4,39 @@
   "sector": "Consumer Cyclical",
   "industry": "Auto Manufacturers",
   "upstream": [
-    "Panasonic",
     "LG Chem",
+    "Panasonic",
     "CAT",
-    "005930.KS",
-    "TSLA"
+    "Bosch",
+    "Magna International"
   ],
   "downstream": [
     "Individual consumers",
-    "Fleet operators (e.g., Uber, Lyft)",
-    "Commercial delivery companies",
-    "Utility companies (grid‑scale storage)",
+    "Commercial fleet operators",
+    "Utility companies",
+    "Corporate customers",
     "Government agencies"
   ],
   "competitors": [
-    "General Motors",
-    "Ford",
-    "Volkswagen",
-    "Nissan",
-    "Toyota"
+    "NIO",
+    "Lucid Motors",
+    "Rivian",
+    "BYD",
+    "General Motors"
   ],
   "key_products": [
-    "Model 3",
-    "Model Y",
     "Model S",
+    "Model 3",
     "Model X",
-    "Powerwall"
+    "Model Y",
+    "Cybertruck",
+    "Semi",
+    "Powerwall",
+    "Powerpack",
+    "Megapack",
+    "Solar Roof"
   ],
-  "extracted_at": "2026-03-02 16:33:58",
+  "extracted_at": "2026-03-03 16:36:09",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,25 +48,25 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Tesla,_Inc.",
       "query": "Tesla, Inc. suppliers manufacturers",
-      "snippet": "Main article: History of Tesla , Inc . Founding (2003–2004). The company was incorporated as Tesla Motors, Inc ., on July 1, 2003, by Martin Eberhard "
+      "snippet": "2 days ago - The practice of vertical integration is rare in the automotive industry, where companies typically outsource 80% of components to supplie"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.tesla.com/",
+      "url": "https://www.investopedia.com/ask/answers/052815/who-are-teslas-tsla-main-suppliers.asp",
       "query": "Tesla, Inc. suppliers manufacturers",
-      "snippet": "Explore limited-time offers on Tesla vehicles. Learn More. Robovan."
+      "snippet": "November 4, 2025 - Tesla manufactures key components like the electric motor, battery pack, and charger, but relies on suppliers for other parts. Key "
     },
     {
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Tesla,_Inc.",
       "query": "Tesla, Inc. major customers clients",
-      "snippet": "Tesla , Inc . is an American multinational automotive and clean energy company. Tesla was incorporated in July 2003 by Martin Eberhard and Marc Tarpen"
+      "snippet": "2 days ago - Tesla Energy products include solar panels (built by other companies for Tesla), the Tesla Solar Roof (a solar shingle system), and the T"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.tesla.com/",
+      "url": "https://www.tesla.com/customer-stories",
       "query": "Tesla, Inc. major customers clients",
-      "snippet": "Video Guides. Customer Stories. Events. Safety.Explore limited-time offers on Tesla vehicles."
+      "snippet": "Incentives · Support · Partner with Tesla · Commercial · Utilities · Learn · LearnShop · LearnFind · LearnOrder · LearnOrder · Help Me Charge · Chargi"
     }
   ]
 }

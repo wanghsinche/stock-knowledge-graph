@@ -2,36 +2,36 @@
   "ticker": "COIN",
   "company_name": "Coinbase Global, Inc.",
   "sector": "Financial Services",
-  "industry": "Financial Data & Stock Exchanges",
+  "industry": "Cryptocurrency Exchange",
   "upstream": [
     "AMZN",
+    "Stripe (payment processing)",
     "MSFT",
-    "GOOGL",
-    "Coinbase's own data centers",
-    "Payment processors (e.g., Stripe, PayPal)"
+    "Coinbase's own blockchain nodes",
+    "Third‑party API providers (e.g., Chainalysis)"
   ],
   "downstream": [
-    "Retail cryptocurrency traders",
-    "Institutional investors",
-    "Crypto asset custodians",
-    "DeFi protocol users",
-    "Crypto payment merchants"
+    "Retail cryptocurrency users",
+    "Institutional investors (e.g., hedge funds, family offices)",
+    "Crypto merchants and payment processors",
+    "DeFi developers and protocol integrators",
+    "Regulatory bodies and compliance partners"
   ],
   "competitors": [
     "Binance",
     "Kraken",
     "Gemini",
     "Bitstamp",
-    "FTX (formerly)"
+    "FTX (post‑bankruptcy assets)"
   ],
   "key_products": [
-    "Coinbase Trading Platform",
-    "Coinbase Pro",
-    "Coinbase Custody",
-    "Coinbase Earn",
-    "Coinbase Card"
+    "Coinbase Pro trading platform",
+    "Coinbase Custody for institutional clients",
+    "Coinbase Wallet (mobile & web)",
+    "Staking and Earn programs",
+    "API services for algorithmic trading"
   ],
-  "extracted_at": "2026-03-02 16:42:07",
+  "extracted_at": "2026-03-03 16:44:14",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,13 +43,13 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Coinbase",
       "query": "Coinbase Global, Inc. suppliers manufacturers",
-      "snippet": "Coinbase Global, Inc. is an American cryptocurrency exchange. It was founded in 2012 by Brian Armstrong and Fred Ehrsam. Coinbase has over 100 million"
+      "snippet": "Coinbase Global , Inc . is an American cryptocurrency exchange. It was founded in 2012 by Brian Armstrong and Fred Ehrsam."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.coinbase.com/vendors/vendors-at-coinbase",
+      "url": "https://ru.wikipedia.org/wiki/Coinbase",
       "query": "Coinbase Global, Inc. suppliers manufacturers",
-      "snippet": "Getting started as a Coinbase Vendor. Procurement guidelines & policies to streamline the vendor experience. Missing: Inc. | Show results with: Inc."
+      "snippet": "Coinbase Global , Inc . (бренд Coinbase ) — американская публичная компания, которая управляет онлайн-сервисом обмена цифровых валют (биржей криптовал"
     },
     {
       "source": "DuckDuckGo",

@@ -2,36 +2,36 @@
   "ticker": "HOOD",
   "company_name": "Robinhood Markets, Inc.",
   "sector": "Financial Services",
-  "industry": "Capital Markets",
+  "industry": "Capital Markets / Brokerage",
   "upstream": [
+    "NASDAQ market data feeds",
+    "Bloomberg data services",
     "AMZN",
-    "MSFT",
-    "Bloomberg",
-    "Refinitiv",
-    "Stripe"
+    "Stripe payment processing",
+    "Plaid API"
   ],
   "downstream": [
     "Retail investors",
-    "Institutional investors",
-    "High‑net‑worth individuals",
-    "Fintech partners",
+    "Institutional clients",
+    "High‑frequency traders",
+    "Financial advisors",
     "Corporate clients"
   ],
   "competitors": [
-    "E*TRADE",
-    "TD Ameritrade",
     "Charles Schwab",
+    "E*TRADE",
     "Fidelity",
+    "TD Ameritrade",
     "Webull"
   ],
   "key_products": [
-    "Commission‑free trading",
-    "Robinhood Gold",
-    "Crypto trading",
-    "Cash management",
-    "Margin trading"
+    "Commission‑free stock trading",
+    "Cryptocurrency trading",
+    "Margin trading",
+    "Robinhood Gold subscription",
+    "Options trading"
   ],
-  "extracted_at": "2026-03-02 16:41:41",
+  "extracted_at": "2026-03-03 16:43:22",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,13 +43,13 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Robinhood_Markets",
       "query": "Robinhood Markets, Inc. suppliers manufacturers",
-      "snippet": "Robinhood Markets , Inc . is an American financial services company based in Menlo Park, California."
+      "snippet": "Robinhood Markets, Inc. is an American financial services company based in Menlo Park, California. It provides an electronic trading platform that fac"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ru.wikipedia.org/wiki/Robinhood_(компания)",
+      "url": "https://robinhood.com/us/en/learn/articles/3ntoEHx7rdxnb7EV60s410/what-is-procurement/",
       "query": "Robinhood Markets, Inc. suppliers manufacturers",
-      "snippet": "Robinhood Markets , Inc . — американская компания со штаб-квартирой в Менло-Парке, штат Калифорния."
+      "snippet": "Sep 28, 2020 · Procurement is the process of seeking out vendors and acquiring goods and services for business purposes. Missing: manufacturers | Show"
     },
     {
       "source": "DuckDuckGo",
@@ -59,9 +59,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://investors.robinhood.com/news-releases/news-release-details/robinhood-markets-inc-reports-january-2025-operating-data",
+      "url": "https://investors.robinhood.com/news-releases/news-release-details/robinhood-reports-fourth-quarter-and-full-year-2025-results",
       "query": "Robinhood Markets, Inc. major customers clients",
-      "snippet": "Robinhood Markets, Inc. Reports January 2025 Operating Data ; Customer Margin and Cash Sweep ($B) ; Margin Book. $8.3. $7.9, +5%. $3.6 ; Total Cash Sw"
+      "snippet": "Feb 10, 2026 · Today, Robinhood, through its subsidiaries, lets you trade stocks, options, futures, swaps (which include event contracts), and crypto,"
     }
   ]
 }
