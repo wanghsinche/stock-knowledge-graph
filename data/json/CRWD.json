@@ -1,37 +1,37 @@
 {
   "ticker": "CRWD",
   "company_name": "CrowdStrike Holdings, Inc.",
-  "sector": "Technology",
-  "industry": "Software - Infrastructure",
+  "sector": "Technology / Software - Infrastructure",
+  "industry": "Cybersecurity",
   "upstream": [
     "MSFT",
     "AMZN",
     "GOOGL",
-    "CSCO",
-    "IBM"
+    "INTC",
+    "AMD"
   ],
   "downstream": [
-    "Walmart",
-    "JPMorgan Chase",
-    "AT&T",
     "Bank of America",
-    "UnitedHealth Group"
+    "Citigroup",
+    "Walmart",
+    "UnitedHealth",
+    "US Department of Defense"
   ],
   "competitors": [
     "Palo Alto Networks",
     "SentinelOne",
     "McAfee",
-    "Fortinet",
-    "Check Point Software Technologies"
+    "Sophos",
+    "Trend Micro"
   ],
   "key_products": [
-    "CrowdStrike Falcon Platform",
+    "CrowdStrike Falcon",
     "Falcon Prevent",
     "Falcon Insight",
     "Falcon OverWatch",
     "Falcon X"
   ],
-  "extracted_at": "2026-02-26 16:50:32",
+  "extracted_at": "2026-03-04 16:36:07",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,25 +43,25 @@
       "source": "DuckDuckGo",
       "url": "https://ru.wikipedia.org/wiki/CrowdStrike",
       "query": "CrowdStrike Holdings, Inc. suppliers manufacturers",
-      "snippet": "CrowdStrike Holdings , Inc . Изображение логотипа. Тип. CrowdStrike Holdings , Inc . — компания, работающая в сфере информационной безопасности. Основ"
+      "snippet": "CrowdStrike Holdings , Inc . Изображение логотипа. CrowdStrike Holdings , Inc . — компания, работающая в сфере информационной безопасности. Основана в"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/news/crowdstrike-hits-oversold-territory-anthropic-205906832.html",
+      "url": "https://csimarket.com/news/crowdstrike-defending-against-the-future-of-cyber-threats-and-leading-the-charge-in-financial-resilience2025-08-28120557",
       "query": "CrowdStrike Holdings, Inc. suppliers manufacturers",
-      "snippet": "CrowdStrike Holdings (CRWD) shares tanked another 12% on Feb.By integrating “agentic” artificial intelligence to automate threat detection, CrowdStrik"
+      "snippet": "Crowdstrike Holdings Inc Competitors Results. CrowdStrike Named a Leader in 2025 IDC MarketScape for Worldwide Incident Response Services'. In an era "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.appsruntheworld.com/customers-database/vendors/view/crowdstrike",
+      "url": "https://ru.wikipedia.org/wiki/CrowdStrike",
       "query": "CrowdStrike Holdings, Inc. major customers clients",
-      "snippet": "List of companies using or evaluating CrowdStrike applications, with details on their revenues, employees, industries, and locations."
+      "snippet": "CrowdStrike Holdings , Inc . Изображение логотипа. CrowdStrike Holdings , Inc . — компания, работающая в сфере информационной безопасности. Основана в"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://theirstack.com/en/technology/crowdstrike",
+      "url": "https://finance.yahoo.com/news/crowdstrike-raises-612-million-ipo-020636745.html",
       "query": "CrowdStrike Holdings, Inc. major customers clients",
-      "snippet": "How many customers does CrowdStrike have? Who uses CrowdStrike ? What companies use CrowdStrike ? In which countries CrowdStrike is used the most? How"
+      "snippet": "(Bloomberg) -- Software maker CrowdStrike Holdings Inc . soared in its trading debut after raising $612 million in one of the biggest-ever initial pub"
     }
   ]
 }

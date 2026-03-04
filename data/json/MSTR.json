@@ -1,37 +1,37 @@
 {
   "ticker": "MSTR",
-  "company_name": "MicroStrategy Incorporated",
+  "company_name": "Strategy Inc",
   "sector": "Technology",
   "industry": "Software - Application",
   "upstream": [
-    "DELL",
-    "MSFT",
-    "Data providers (e.g., Bloomberg, Thomson Reuters)",
-    "NVDA",
-    "ORCL"
+    "SCOR model consortium",
+    "B2B online marketplace & sourcing platform",
+    "cloud service providers",
+    "data vendors",
+    "hardware manufacturers"
   ],
   "downstream": [
-    "Financial services firms",
-    "Government agencies",
-    "Retail and e‑commerce companies",
-    "Manufacturing enterprises",
-    "Healthcare organizations"
+    "Healthcare organizations",
+    "Retail chains",
+    "Manufacturing firms",
+    "Financial institutions",
+    "Government agencies"
   ],
   "competitors": [
-    "Tableau Software",
+    "Tableau",
     "MSFT",
     "Qlik",
-    "GOOGL",
-    "SAP Analytics Cloud"
+    "Looker",
+    "Sisense"
   ],
   "key_products": [
-    "MicroStrategy Desktop",
-    "MicroStrategy Cloud",
-    "MicroStrategy Mobile",
-    "MicroStrategy Analytics",
-    "MicroStrategy Data Warehouse"
+    "Strategy Analytics Platform",
+    "Data Integration Suite",
+    "Business Intelligence Dashboard",
+    "Predictive Analytics Engine",
+    "Data Visualization Tools"
   ],
-  "extracted_at": "2026-03-03 16:42:07",
+  "extracted_at": "2026-03-04 16:35:05",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.strategy.com/software/blog/how-manufacturers-are-solving-supply-chain-chaos-with-smart-bi",
+      "url": "https://en.wikipedia.org/wiki/Supply_chain",
       "query": "Strategy Inc suppliers manufacturers",
-      "snippet": "Discover how manufacturers are tackling supply chain chaos with Strategy One. Learn how AI-driven insights and real-time data can transform operations"
+      "snippet": "The SCOR ( Supply -Chain Operations Reference) model, developed by a consortium of industry and the non-profit Supply Chain Council (now part of APICS"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.strategy.com/software",
+      "url": "https://www.globalsources.com/",
       "query": "Strategy Inc suppliers manufacturers",
-      "snippet": "Strategy Solutions powered by Mosaic provide a universal semantic layer that unifies enterprise data, governs business metrics, and delivers trusted A"
+      "snippet": "The leading international multichannel B2B online marketplace & sourcing platform connecting authentic buyers and verified wholesale suppliers & manuf"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/MicroStrategy",
+      "url": "https://csimarket.com/stocks/STRF-Customers",
       "query": "Strategy Inc major customers clients",
-      "snippet": "Strategy Inc ., formerly known as MicroStrategy, is an American company that provides business intelligence (BI) and mobile software. Founded in 1989 "
+      "snippet": "Jan 30, 2026 · For your research, we’ve provided 9 tables on Strategy Inc corporate clients . You can find them in the navigation menu under Customers"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.inc.com/",
+      "url": "https://www.strategy.com/software/customer-stories",
       "query": "Strategy Inc major customers clients",
-      "snippet": "Inc . media is the entrepreneurs source for ideas, resources and advice on how to successfully start, run and grow your business.Lilly’s New Weight‑Lo"
+      "snippet": "Dive into Strategy customer stories highlighting the impact of Analytics in Healthcare, Financial Services, Call Centers, Retail, Insurance, and Gover"
     }
   ]
 }

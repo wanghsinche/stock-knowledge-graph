@@ -3,8 +3,8 @@ ticker: CCJ
 company: Cameco Corporation
 sector: Energy
 industry: Uranium
-extracted_at: 2026-03-03 16:47:16
-last_updated: 2026-03-03
+extracted_at: 2026-03-04 16:42:34
+last_updated: 2026-03-04
 ---
 
 # CCJ - Cameco Corporation
@@ -12,46 +12,46 @@ last_updated: 2026-03-03
 ## 基本信息
 
 - **所属行业**: Energy / Uranium
-- **提取时间**: 2026-03-03 16:47:16
+- **提取时间**: 2026-03-04 16:42:34
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Cameco Fuel Manufacturing]]
-- [[Power Resources Inc.]]
 - [[CAT]]
-- [[Komatsu Mining Machinery]]
-- [[HPQ]]
+- [[Drilling service providers]]
+- [[Geological survey and exploration firms]]
+- [[Mining safety equipment suppliers]]
+- [[Uranium ore processing equipment vendors]]
 
 ### 下游客户
+- [[Centrus Energy]]
 - [[Canadian Nuclear Laboratories]]
 - [[U.S. Department of Energy]]
-- [[China National Nuclear Corporation]]
-- [[Korea Electric Power Corporation (KEPCO)]]
-- [[Indian Nuclear Power Corporation]]
+- [[Nuclear power plant operators worldwide]]
+- [[Government nuclear agencies]]
 
 ### 竞争对手
-- [[NexGen Energy Ltd.]]
+- [[Kazatomprom]]
 - [[Energy Fuels Inc.]]
 - [[Uranium Energy Corp.]]
-- [[Uranium One Inc.]]
-- [[Kuna Energy Ltd.]]
+- [[Uranium One]]
+- [[NexGen Energy]]
 
 ### 核心产品
 - [[Uranium ore]]
-- [[Uranium concentrate]]
-- [[Uranium fuel pellets]]
 - [[Uranium hexafluoride (UF6)]]
-- [[Uranium enrichment services]]
+- [[Enriched uranium fuel]]
+- [[Uranium concentrate]]
+- [[Uranium processing services]]
 
 ## 数据来源
 
 - [Cameco](https://en.wikipedia.org/wiki/Cameco_Corporation)
-- [Cameco Corporation suppliers manufacturers](https://en.wikipedia.org/wiki/Cameco)
-- [Cameco Corporation suppliers manufacturers](https://www.camecofuel.com/business/cameco-fuel-manufacturing)
-- [Cameco Corporation major customers clients](https://www.fool.com/investing/2017/09/08/how-cameco-corporation-makes-most-of-its-money.aspx)
-- [Cameco Corporation major customers clients](https://www.spglobal.com/ratings/en/regulatory/article/-/view/type/HTML/id/3449462)
+- [Cameco Corporation suppliers manufacturers](https://www.cameco.com/)
+- [Cameco Corporation suppliers manufacturers](https://www.cameco.com/about)
+- [Cameco Corporation major customers clients](https://www.cameco.com/)
+- [Cameco Corporation major customers clients](https://ca.finance.yahoo.com/news/centrus-energy-vs-cameco-uranium-171800852.html)
 
 ## 元数据
 
-- **更新日期**: 2026-03-03
+- **更新日期**: 2026-03-04

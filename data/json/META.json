@@ -3,23 +3,35 @@
   "company_name": "Meta Platforms, Inc.",
   "sector": "Communication Services",
   "industry": "Internet Content & Information",
-  "upstream": [],
-  "downstream": [],
+  "upstream": [
+    "QCOM",
+    "INTC",
+    "NVDA",
+    "AMD",
+    "005930.KS"
+  ],
+  "downstream": [
+    "Advertisers",
+    "Businesses",
+    "App developers",
+    "Content creators",
+    "Social media users"
+  ],
   "competitors": [
     "GOOGL",
     "AMZN",
     "AAPL",
     "MSFT",
-    "NVDA"
+    "Twitter (X)"
   ],
   "key_products": [
     "Facebook",
     "Instagram",
     "WhatsApp",
     "Messenger",
-    "Threads"
+    "Meta Ads"
   ],
-  "extracted_at": "2026-03-03 16:37:57",
+  "extracted_at": "2026-03-04 16:33:57",
   "sources": [
     {
       "source": "Wikipedia",
@@ -29,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ru.wikipedia.org/wiki/Meta_Platforms",
+      "url": "https://en.wikipedia.org/wiki/Meta_Platforms",
       "query": "Meta Platforms, Inc. suppliers manufacturers",
+      "snippet": "Meta Platforms , Inc . (doing business as Meta) is an American multinational technology company headquartered in Menlo Park, California. Meta owns and"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://forwork.meta.com/legal/mfw-subprocessor-list/",
+      "query": "Meta Platforms, Inc. suppliers manufacturers",
+      "snippet": "Nov 13, 2023 · Starting February 20, 2026, Meta Horizon managed services will no longer be available for purchase. Visit the Help Center to learn more"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://ru.wikipedia.org/wiki/Meta_Platforms",
+      "query": "Meta Platforms, Inc. major customers clients",
       "snippet": "Meta Platforms , Inc . — американская транснациональная холдинговая компания, владеющая технологическим конгломератом и расположенная в Менло-Парке, К"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/List_of_computer_hardware_manufacturers",
-      "query": "Meta Platforms, Inc. suppliers manufacturers",
-      "snippet": "Current notable computer hardware manufacturers : Cases. [edit]. List of computer case manufacturers : This list is incomplete; you can help by adding"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://ca.finance.yahoo.com/news/meta-platforms-inc-meta-dominating-181152625.html",
+      "url": "https://www.meta.com/about/",
       "query": "Meta Platforms, Inc. major customers clients",
-      "snippet": "In this article, we are going to take a look at where Meta Platforms , Inc . (NASDAQ: META ) stands against the other stocks that are dominating a bil"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.insidermonkey.com/blog/meta-platforms-meta-an-example-of-the-strength-of-long-term-investment-1631992/",
-      "query": "Meta Platforms, Inc. major customers clients",
-      "snippet": "“ Meta Platforms , Inc . (NASDAQ: META ) has been our largest holding for several years and remains one of the best examples of what long-term ownersh"
+      "snippet": "Meta - Social Media Advertising Platform (Facebook & Instagram)."
     }
   ]
 }

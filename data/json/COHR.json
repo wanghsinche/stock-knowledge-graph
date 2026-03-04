@@ -3,11 +3,35 @@
   "company_name": "Coherent Corp.",
   "sector": "Technology",
   "industry": "Scientific & Technical Instruments",
-  "upstream": [],
-  "downstream": [],
-  "competitors": [],
-  "key_products": [],
-  "extracted_at": "2026-03-03 16:41:27",
+  "upstream": [
+    "Silicon wafer suppliers",
+    "Gallium arsenide manufacturers",
+    "Rare‑earth element suppliers",
+    "Optical glass and crystal producers",
+    "Photonic component suppliers"
+  ],
+  "downstream": [
+    "CAT",
+    "CAT",
+    "Medical imaging device makers",
+    "Defense and aerospace systems integrators",
+    "Scientific research laboratories"
+  ],
+  "competitors": [
+    "II‑VI Incorporated",
+    "Newport Corporation",
+    "Lumentum Holdings",
+    "Thorlabs",
+    "Edmund Optics"
+  ],
+  "key_products": [
+    "VCSEL arrays",
+    "Laser diodes",
+    "Optical fibers and waveguides",
+    "Lenses and optical filters",
+    "Optical couplers and isolators"
+  ],
+  "extracted_at": "2026-03-04 16:36:17",
   "sources": [
     {
       "source": "Wikipedia",
@@ -17,15 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/Coherent_Corp.",
+      "query": "Coherent Corp. suppliers manufacturers",
+      "snippet": "Coherent Corp . (formerly II-VI Incorporated) is an American manufacturer of optical materials and semiconductors. As of 2023, the company had 26,622 "
+    },
+    {
+      "source": "DuckDuckGo",
       "url": "https://www.coherent.com/",
       "query": "Coherent Corp. suppliers manufacturers",
+      "snippet": "From Silicon photonics, VCSEL arrays, lenses, filters and couplers, and isolators, Coherent is a vertically integrated supplier alleviating supply cha"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.coherent.com/",
+      "query": "Coherent Corp. major customers clients",
       "snippet": "Learn how Coherent empowers innovations and breakthrough technologies for the industrial, communications, electronics, and instrumentation markets."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/news/nvidia-coherent-announce-strategic-partnership-130000557.html",
-      "query": "Coherent Corp. suppliers manufacturers",
-      "snippet": "NVIDIA to Invest $2 Billion in Coherent to Expand Supply , Deepen R&D and Advance US-Based Manufacturing . SANTA CLARA, Calif. and SAXONBURG, Pa., Mar"
+      "url": "https://www.insidermonkey.com/blog/coherent-cohr-gets-higher-price-target-from-morgan-stanley-on-bullish-optical-markets-forecast-1705567/",
+      "query": "Coherent Corp. major customers clients",
+      "snippet": "Coherent Corp . (NYSE:COHR) engages in the development, refinement, manufacturing, and marketing of engineered materials, opto-electronic components a"
     }
   ]
 }

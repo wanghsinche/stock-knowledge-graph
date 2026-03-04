@@ -4,35 +4,34 @@
   "sector": "Healthcare",
   "industry": "Health Insurance / Health Care Services",
   "upstream": [
-    "Pharmaceutical manufacturers",
-    "Medical device producers",
+    "Medical device manufacturers",
+    "Pharmaceutical companies",
     "Health technology vendors",
     "Data analytics providers",
-    "Pharmacy benefit management suppliers"
+    "IT infrastructure suppliers"
   ],
   "downstream": [
     "Large corporate employers",
-    "Government agencies (Medicare, Medicaid)",
+    "Government health programs (Medicare, Medicaid)",
+    "Small and medium‑size businesses",
     "Individual consumers",
-    "Small and medium businesses",
     "Health care providers (hospitals, clinics)"
   ],
   "competitors": [
-    "Anthem",
-    "Aetna",
-    "Cigna",
-    "Humana",
-    "CVS Health"
+    "Anthem, Inc.",
+    "Aetna (CVS Health)",
+    "Cigna Corporation",
+    "Humana Inc.",
+    "Kaiser Permanente"
   ],
   "key_products": [
-    "UnitedHealthcare commercial insurance plans",
+    "UnitedHealthcare commercial health plans",
     "Medicare Advantage plans",
     "Medicaid managed care plans",
     "OptumRx pharmacy benefit management",
-    "OptumCare health services",
-    "OptumInsight data analytics"
+    "OptumCare health services"
   ],
-  "extracted_at": "2026-03-03 16:46:43",
+  "extracted_at": "2026-03-04 16:40:43",
   "sources": [
     {
       "source": "Wikipedia",
@@ -42,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.unitedhealthgroup.com/suppliers/information.html",
+      "url": "https://en.wikipedia.org/wiki/List_of_largest_companies_in_the_United_States_by_revenue",
       "query": "UnitedHealth Group Incorporated suppliers manufacturers",
-      "snippet": "At UnitedHealth Group, we search for suppliers that help us deliver best-in-class services to our customers. These partners support the UnitedHealth G"
+      "snippet": "There are also corporations having foundation in the United States, such as corporate headquarters, operational headquarters and independent subsidiar"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.unitedhealthgroup.com/suppliers/procurement.html",
+      "url": "https://member.uhc.com/",
       "query": "UnitedHealth Group Incorporated suppliers manufacturers",
-      "snippet": "UnitedHealth Group's Supplier Compliance Program webpage provides education and resources for our suppliers related to our compliance policies and pro"
+      "snippet": "Tags: UnitedHealth Group UnitedHealthcare."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/UnitedHealth_Group",
+      "url": "https://finance.yahoo.com/news/believe-growth-potential-unitedhealth-group-144411092.html",
       "query": "UnitedHealth Group Incorporated major customers clients",
-      "snippet": "UnitedHealth Group Incorporated is an American multinational for-profit company based in Eden Prairie, Minnesota specializing in health insurance and "
+      "snippet": "\"Shares of UnitedHealth Group Incorporated (NYSE:UNH) were purchased in the strategy during the quarter. UnitedHealth is the largest diversified manag"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.unitedhealthgroup.com/uhg/businesses.html",
+      "url": "https://capital.com/en-int/market-updates/unitedhealth-stock-forecast-02-03-2026",
       "query": "UnitedHealth Group Incorporated major customers clients",
-      "snippet": "UnitedHealth Group is a health care and well-being company with team members in two distinct and complementary businesses — Optum and UnitedHealthcare"
+      "snippet": "UnitedHealth Group is a US-listed healthcare company whose shares have moved following its January results, which showed $447.6bn in 2025 revenue, rev"
     }
   ]
 }

@@ -4,34 +4,34 @@
   "sector": "Communication Services",
   "industry": "Internet Content & Information",
   "upstream": [
+    "TSM",
     "INTC",
     "QCOM",
-    "005930.KS",
     "NVDA",
-    "SONY"
+    "005930.KS"
   ],
   "downstream": [
-    "Advertisers",
-    "App developers",
     "GOOGL",
-    "YouTube creators",
-    "Android device manufacturers"
+    "Android device manufacturers",
+    "GOOGL",
+    "YouTube content creators",
+    "GOOGL"
   ],
   "competitors": [
     "MSFT",
     "AMZN",
     "META",
     "AAPL",
-    "NFLX"
+    "Tencent"
   ],
   "key_products": [
     "Google Search",
     "YouTube",
-    "Google Cloud",
-    "Android",
+    "Google Cloud Platform",
+    "Android OS",
     "Google Ads"
   ],
-  "extracted_at": "2026-03-03 16:38:40",
+  "extracted_at": "2026-03-04 16:35:18",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,21 +47,21 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ru.wikipedia.org/wiki/Alphabet",
+      "url": "https://csimarket.com/stocks/GOOG-Suppliers",
       "query": "Alphabet Inc. suppliers manufacturers",
-      "snippet": "Alphabet Inc . — холдинговая компания, управляющая компанией Google Inc и её дочерними структурами, а также рядом стартапов. Штаб-квартира расположена"
+      "snippet": "Feb 6, 2026 · Alphabet Inc supply chain, list and performance of Alphabet Incs ' suppliers - CSIMarket"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Alphabet_Inc.",
+      "url": "https://csimarket.com/stocks/GOOGL-Customers",
       "query": "Alphabet Inc. major customers clients",
-      "snippet": "Alphabet is the world's second-largest technology company by revenue, after Nvidia, the largest technology company by profit, and one of the world's m"
+      "snippet": "Feb 9, 2026 · For your research, we’ve provided 9 tables on Alphabet Inc corporate clients . You can find them in the navigation menu under Customers "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://portersfiveforce.com/blogs/target-market/abc",
+      "url": "https://swottemplate.com/blogs/target-market/abc-target-market",
       "query": "Alphabet Inc. major customers clients",
-      "snippet": "Nov 10, 2025 · This is Alphabet's primary revenue driver, consisting of over 10 million advertisers and Google Cloud Platform clients. GCP achieved 28"
+      "snippet": "Jul 4, 2025 · Alphabet Inc . serves a diverse range of primary customer segments, spanning both consumers (B2C) and businesses (B2B). Its extensive po"
     }
   ]
 }

@@ -4,23 +4,23 @@
   "sector": "Technology",
   "industry": "Consumer Electronics",
   "upstream": [
-    "Foxconn (Hon Hai Precision Industry)",
-    "Compal Electronics",
+    "Foxconn (Hon Hai Precision Industry Co.)",
     "Pegatron",
     "Wistron",
-    "TSM"
+    "TSM",
+    "LG Display"
   ],
   "downstream": [
-    "Enterprise customers",
-    "CAT",
-    "Government agencies",
-    "Retail customers",
-    "Individual consumers"
+    "iPhone",
+    "iPad",
+    "IBM",
+    "AAPL",
+    "AirPods"
   ],
   "competitors": [
     "005930.KS",
-    "GOOGL",
     "MSFT",
+    "GOOGL",
     "AMZN",
     "SONY"
   ],
@@ -31,7 +31,7 @@
     "Apple Watch",
     "AirPods"
   ],
-  "extracted_at": "2026-03-03 16:37:27",
+  "extracted_at": "2026-03-04 16:34:09",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.apple.com/supply-chain/",
+      "url": "https://en.wikipedia.org/wiki/Apple_Inc.",
       "query": "Apple Inc. suppliers manufacturers",
-      "snippet": "Our suppliers are required to meet the strict standards of the Apple Supplier Code of Conduct, no matter where they operate or what type of goods, ser"
+      "snippet": "Apple Inc . is an American multinational technology company headquartered in Cupertino, California, in Silicon Valley, best known for its consumer ele"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.investopedia.com/articles/investing/090315/10-major-companies-tied-apple-supply-chain.asp",
+      "url": "https://ru.wikipedia.org/wiki/Apple",
       "query": "Apple Inc. suppliers manufacturers",
-      "snippet": "Key Apple Suppliers from Taiwan · Hon Hai Precision Industry (Foxconn) · Compal · Quanta Computer · Taiwan Semiconductor Manufacturing Company · Wistr"
+      "snippet": "Apple Inc — американская корпорация, разработчик персональных и планшетных компьютеров, аудиоплееров, смартфонов, программного обеспечения и цифрового"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/competitionNO4.php?markets&code=AAPL",
+      "url": "https://en.wikipedia.org/wiki/Apple_Inc.",
       "query": "Apple Inc. major customers clients",
-      "snippet": "List of Apple Inc ' s Customers comparisons of Market Cap, Sales per Employee, Income per Employee - CSIMarket"
+      "snippet": "Apple Inc . is an American multinational technology company headquartered in Cupertino, California, in Silicon Valley, best known for its consumer ele"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://businessmodelanalyst.com/apple-target-market/",
+      "url": "https://www.apple.com/",
       "query": "Apple Inc. major customers clients",
-      "snippet": "Nov 8, 2024 · For Apple , this analysis reveals a distinct and loyal customer base characterized by specific core values and lifestyle choices. Apple "
+      "snippet": "Discover the innovative world of Apple and shop everything iPhone, iPad, Apple Watch, Mac, and Apple TV, plus explore accessories, entertainment, and "
     }
   ]
 }

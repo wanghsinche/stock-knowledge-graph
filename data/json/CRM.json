@@ -7,22 +7,22 @@
     "AMZN",
     "MSFT",
     "GOOGL",
-    "DELL",
-    "CSCO"
+    "ORCL",
+    "CRM"
   ],
   "downstream": [
+    "AMZN",
+    "AAPL",
     "Coca‑Cola",
-    "Toyota",
-    "American Express",
-    "005930.KS",
-    "SONY"
+    "HPQ",
+    "IBM"
   ],
   "competitors": [
     "MSFT",
     "ORCL",
-    "SAP SuccessFactors",
+    "SAP Customer Experience",
     "HubSpot",
-    "ADBE"
+    "Zoho CRM"
   ],
   "key_products": [
     "Sales Cloud",
@@ -31,7 +31,7 @@
     "Commerce Cloud",
     "Einstein AI"
   ],
-  "extracted_at": "2026-03-03 16:46:27",
+  "extracted_at": "2026-03-04 16:38:40",
   "sources": [
     {
       "source": "Wikipedia",
@@ -53,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.ibirdsservices.com/how-many-companies-use-salesforce-stats-growth-report/",
+      "url": "https://en.wikipedia.org/wiki/Salesforce",
       "query": "Salesforce, Inc. major customers clients",
-      "snippet": "Dec 26, 2025 · As of 2025, Salesforce is used by over 150,000 companies worldwide. Its customers include startups, mid-sized businesses, and more than"
+      "snippet": "Salesforce , Inc ., is an American cloud-based software company headquartered in San Francisco, California. It provides applications focused on sales "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.salesforce.com/customer-stories/",
+      "url": "https://www.salesforce.com/",
       "query": "Salesforce, Inc. major customers clients",
-      "snippet": "Discover how Salesforce helps 150,000+ companies increase productivity, customer loyalty, and sales revenue — every day."
+      "snippet": "Salesforce Enterprise-grade CRM with deep reporting, sales operations, and..."
     }
   ]
 }

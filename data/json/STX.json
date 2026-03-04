@@ -1,14 +1,14 @@
 {
   "ticker": "STX",
   "company_name": "Seagate Technology Holdings plc",
-  "sector": "Technology",
-  "industry": "Computer Hardware",
+  "sector": "Technology / Computer Hardware",
+  "industry": "Computer Storage Devices",
   "upstream": [
-    "TSM",
-    "005930.KS",
-    "MU",
-    "AMD",
-    "PCB manufacturers (e.g., Flex Ltd.)"
+    "Silicon wafer manufacturers",
+    "Magnetic head manufacturers",
+    "Printed circuit board (PCB) suppliers",
+    "Electronic component suppliers",
+    "Software and firmware providers"
   ],
   "downstream": [
     "DELL",
@@ -22,16 +22,16 @@
     "Toshiba Corporation",
     "005930.KS",
     "MU",
-    "STX"
+    "INTC"
   ],
   "key_products": [
-    "3.5\" HDDs for desktop & enterprise",
-    "2.5\" HDDs for laptops & servers",
-    "Solid‑state drives (SSDs)",
-    "Enterprise storage solutions (e.g., Seagate IronWolf)",
-    "Network Attached Storage (NAS) drives"
+    "Hard Disk Drives (HDD)",
+    "Solid State Drives (SSD)",
+    "Enterprise storage solutions",
+    "Data center storage systems",
+    "External and portable storage devices"
   ],
-  "extracted_at": "2026-03-03 16:45:01",
+  "extracted_at": "2026-03-04 16:40:08",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.seagate.com/",
+      "url": "https://en.wikipedia.org/wiki/Seagate_Technology",
       "query": "Seagate Technology Holdings plc suppliers manufacturers",
-      "snippet": "Seagate Technology Holdings Plc ."
+      "snippet": "In 1989, Seagate acquired Control Data Corporation 's Imprimis division, the makers of CDC's HDD products. Seagate acquired Conner Peripherals in 1996"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/news/seagate-technology-cfo-sees-nearline-233341446.html",
+      "url": "https://www.accio.com/supplier/seagate-hard-disk-manufacturer",
       "query": "Seagate Technology Holdings plc suppliers manufacturers",
-      "snippet": "Interested in Seagate Technology Holdings PLC ? Here are five stocks we like better. Seagate Technology (NASDAQ: STX) is a global data storage company"
+      "snippet": "Aug 5, 2025 · Need reliable Seagate hard disk manufacturers ? Discover verified suppliers offering 1TB-18TB drives for enterprise and surveillance app"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/STX-Customers",
+      "url": "https://seagate.com/",
       "query": "Seagate Technology Holdings plc major customers clients",
-      "snippet": "Seagate Technology Holdings Plc customers and markets, results by customer and performance relative to STX, by company and industry - CSIMarket"
+      "snippet": "Seagate Technology Holdings PLC ."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.appsruntheworld.com/customers-database/vendors/view/seagate-technology",
+      "url": "https://finance.yahoo.com/news/heres-much-youd-invested-1000-133003003.html",
       "query": "Seagate Technology Holdings plc major customers clients",
-      "snippet": "List of companies using or evaluating Seagate Technology applications, with details on their revenues, employees, industries, and locations."
+      "snippet": "Seagate Technology Holdings PLC (STX) : Free Stock Analysis Report. This article originally published on Zacks Investment Research (zacks.com).RGC Reg"
     }
   ]
 }

@@ -6,36 +6,32 @@
   "upstream": [
     "TSM",
     "005930.KS",
-    "MU",
-    "NVDA",
-    "AMD"
+    "GlobalFoundries",
+    "UMC",
+    "SMIC"
   ],
   "downstream": [
+    "DELL",
+    "HPQ",
+    "Lenovo Group",
     "SONY",
-    "MSFT",
-    "Nintendo Co., Ltd.",
-    "AMZN",
-    "GOOGL",
-    "TSLA",
-    "BMW AG"
+    "MSFT"
   ],
   "competitors": [
     "AMD",
     "INTC",
     "QCOM",
     "AVGO",
-    "ARM Holdings"
+    "AAPL"
   ],
   "key_products": [
-    "GeForce GPUs",
+    "GeForce RTX GPUs",
     "Quadro GPUs",
     "Tesla GPUs",
-    "RTX GPUs",
-    "Jetson SoCs",
-    "CUDA API",
-    "DLSS technology"
+    "Jetson SoC",
+    "DGX AI systems"
   ],
-  "extracted_at": "2026-03-03 16:35:56",
+  "extracted_at": "2026-03-04 16:32:22",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,7 +43,7 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Nvidia",
       "query": "NVIDIA Corporation suppliers manufacturers",
-      "snippet": "19 hours ago - In August 2025, Nvidia ordered ... due to security concerns. The company directed suppliers including Taiwan Semiconductor Manufacturin"
+      "snippet": "2 days ago - In August 2025, Nvidia ordered ... due to security concerns. The company directed suppliers including Taiwan Semiconductor Manufacturing "
     },
     {
       "source": "DuckDuckGo",
@@ -59,13 +55,13 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Nvidia",
       "query": "NVIDIA Corporation major customers clients",
-      "snippet": "^ Officially written as NVIDIA Corporation and stylized in its logo as nVIDIA with the lowercase \"n\" the same height as the uppercase \"VIDIA\". Formerl"
+      "snippet": "Nvidia Corporation . Show dark mode logo.^ Officially written as NVIDIA Corporation and stylized in its logo as nVIDIA with the lowercase \"n\" the same"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/NVDA/",
+      "url": "https://www.nvidia.com/en-us/drivers/",
       "query": "NVIDIA Corporation major customers clients",
-      "snippet": "Find the latest NVIDIA Corporation (NVDA) stock quote, history, news and other vital information to help you with your stock trading and investing."
+      "snippet": "Download the latest official NVIDIA drivers to enhance your PC gaming experience and run apps faster.Download Type. \"All\" Shows all available driver o"
     }
   ]
 }

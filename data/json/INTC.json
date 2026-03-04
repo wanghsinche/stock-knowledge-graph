@@ -4,16 +4,16 @@
   "sector": "Technology",
   "industry": "Semiconductors",
   "upstream": [
-    "ASML",
-    "AMAT",
-    "LRCX",
-    "Tokyo Electron",
-    "KLA"
+    "TSM",
+    "005930.KS",
+    "MU",
+    "SK Hynix",
+    "GlobalFoundries"
   ],
   "downstream": [
     "DELL",
     "HPQ",
-    "Lenovo",
+    "Lenovo Group",
     "AAPL",
     "MSFT"
   ],
@@ -22,16 +22,16 @@
     "NVDA",
     "QCOM",
     "AVGO",
-    "TSM"
+    "005930.KS"
   ],
   "key_products": [
     "Intel Core CPUs",
     "Intel Xeon CPUs",
-    "Intel Arc GPUs",
     "Intel chipsets",
-    "Intel AI accelerators"
+    "Intel SSDs",
+    "Intel AI chips"
   ],
-  "extracted_at": "2026-03-03 16:39:23",
+  "extracted_at": "2026-03-04 16:35:42",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,21 +41,21 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Intel",
+      "url": "https://en.wikipedia.org/wiki/List_of_Intel_manufacturing_sites",
       "query": "Intel Corporation suppliers manufacturers",
-      "snippet": "Intel Corporation is an American multinational technology company headquartered in Santa Clara, California. It designs, manufactures , and sells compu"
+      "snippet": "Intel is an American multinational corporation and technology company headquartered in Santa Clara, California. Processors are manufactured in semicon"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.intel.com/",
+      "url": "https://www.intel.com/content/www/us/en/partner/showcase/partner-directory/distributor.html",
       "query": "Intel Corporation suppliers manufacturers",
-      "snippet": "See how suppliers are developing solutions based on Intel ® Xeon® for..."
+      "snippet": "Sell Intel® Products directly sourced from Intel as well as devices manufactured by OEMs"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://csimarket.com/stocks/INTC-Customers",
       "query": "Intel Corporation major customers clients",
-      "snippet": "6 days ago · Intel customers and markets, results by customer and performance relative to INTC, by company and industry - CSIMarket"
+      "snippet": "Intel customers and markets, results by customer and performance relative to INTC, by company and industry - CSIMarket"
     },
     {
       "source": "DuckDuckGo",

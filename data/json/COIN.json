@@ -4,34 +4,34 @@
   "sector": "Financial Services",
   "industry": "Cryptocurrency Exchange",
   "upstream": [
-    "AMZN",
-    "Stripe (payment processing)",
     "MSFT",
-    "Coinbase's own blockchain nodes",
-    "Third‑party API providers (e.g., Chainalysis)"
+    "Payment processors (e.g., Stripe, PayPal)",
+    "Security and compliance vendors (e.g., Okta, Symantec)",
+    "Data analytics and market data providers (e.g., Bloomberg, Refinitiv)",
+    "Legal and regulatory consulting firms"
   ],
   "downstream": [
-    "Retail cryptocurrency users",
-    "Institutional investors (e.g., hedge funds, family offices)",
+    "Retail cryptocurrency traders",
+    "Institutional investors and asset managers",
     "Crypto merchants and payment processors",
-    "DeFi developers and protocol integrators",
-    "Regulatory bodies and compliance partners"
+    "DeFi protocol developers",
+    "Financial institutions using custody services"
   ],
   "competitors": [
     "Binance",
     "Kraken",
     "Gemini",
     "Bitstamp",
-    "FTX (post‑bankruptcy assets)"
+    "FTX"
   ],
   "key_products": [
-    "Coinbase Pro trading platform",
-    "Coinbase Custody for institutional clients",
-    "Coinbase Wallet (mobile & web)",
-    "Staking and Earn programs",
-    "API services for algorithmic trading"
+    "Cryptocurrency trading platform",
+    "Custody services",
+    "Staking and yield products",
+    "Crypto debit card",
+    "API for algorithmic trading"
   ],
-  "extracted_at": "2026-03-03 16:44:14",
+  "extracted_at": "2026-03-04 16:33:45",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
+      "url": "https://www.coinbase.com/vendors/vendors-at-coinbase-code-of-conduct",
+      "query": "Coinbase Global, Inc. suppliers manufacturers",
+      "snippet": "For purposes of this Code, vendors include any third party, firm, or individual that provides a product or service to Coinbase, including: vendors , s"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://fintel.io/doc/sec-coinbase-global-inc-1679788-ex211-2024-february-15-19768-5823",
+      "query": "Coinbase Global, Inc. suppliers manufacturers",
+      "snippet": "Pursuant to Item 601 (b) (21) (ii) of Regulation S-K, the names of other subsidiaries of Coinbase Global , Inc . are omitted because, considered in th"
+    },
+    {
+      "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Coinbase",
-      "query": "Coinbase Global, Inc. suppliers manufacturers",
-      "snippet": "Coinbase Global , Inc . is an American cryptocurrency exchange. It was founded in 2012 by Brian Armstrong and Fred Ehrsam."
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://ru.wikipedia.org/wiki/Coinbase",
-      "query": "Coinbase Global, Inc. suppliers manufacturers",
-      "snippet": "Coinbase Global , Inc . (бренд Coinbase ) — американская публичная компания, которая управляет онлайн-сервисом обмена цифровых валют (биржей криптовал"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.demandsage.com/coinbase-users-statistics/",
       "query": "Coinbase Global, Inc. major customers clients",
-      "snippet": "Aug 13, 2025 · Coinbase ’s user base stands at around 120 million, meaning it serves about 19.45% of all global cryptocurrency users. This makes Coinb"
+      "snippet": "Coinbase has over 100 million users, [7] and is the largest U.S. based cryptocurrency exchange as well as the world's biggest bitcoin custodian, as of"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/COIN-Customers",
+      "url": "https://investingintheweb.com/brokers/coinbase-statistics/",
       "query": "Coinbase Global, Inc. major customers clients",
-      "snippet": "Coinbase Global Inc customers and markets, results by customer and performance relative to COIN, by company and industry - CSIMarket"
+      "snippet": "Jan 6, 2026 · In this article, we’ll examine some Coinbase key statistics, such as their Revenue, Net Income, AUMs, and other relevant metrics."
     }
   ]
 }

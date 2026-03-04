@@ -4,18 +4,18 @@
   "sector": "Financial Services",
   "industry": "Banks - Diversified",
   "upstream": [
-    "Technology vendors",
-    "IT service providers",
-    "Office equipment suppliers",
-    "Security and compliance service firms",
-    "Data analytics and cloud service providers"
+    "ORCL",
+    "MSFT",
+    "IBM",
+    "SAP",
+    "CRM"
   ],
   "downstream": [
-    "Retail banking customers",
-    "Corporate and small‑business clients",
-    "Mortgage borrowers",
-    "Investment banking clients",
-    "Wealth management and private banking clients"
+    "AAPL",
+    "AMZN",
+    "GOOGL",
+    "MSFT",
+    "Walmart"
   ],
   "competitors": [
     "JPMorgan Chase",
@@ -25,13 +25,13 @@
     "Morgan Stanley"
   ],
   "key_products": [
-    "Retail banking services",
+    "Retail banking",
     "Commercial banking",
     "Investment banking",
     "Wealth management",
-    "Credit card and consumer lending"
+    "Credit cards"
   ],
-  "extracted_at": "2026-03-03 16:45:36",
+  "extracted_at": "2026-03-04 16:41:11",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://about.bankofamerica.com/content/dam/about/pdfs/Bank_of_America_Supplier_Expectations.pdf",
+      "url": "https://en.wikipedia.org/wiki/Bank_of_America",
       "query": "Bank of America Corporation suppliers manufacturers",
-      "snippet": "Operating a responsible and transparent business, including through our suppliers, is critical to our strength and stability as a company and is a cor"
+      "snippet": "The Bank of America Corporation is an American multinational investment bank and financial services holding company headquartered at the Bank of Ameri"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://newsroom.bankofamerica.com/content/newsroom/company-overview/bank-of-america-fast-facts.html",
+      "url": "https://ru.wikipedia.org/wiki/Bank_of_America",
       "query": "Bank of America Corporation suppliers manufacturers",
-      "snippet": "Explore Bank of America Fast Facts for key insights on our global presence, financial services, client reach, and commitment to responsible growth. Mi"
+      "snippet": "Bank of America , «Бэнк оф Америка», Банк Америки — американский финансовый конгломерат, оказывающий широкий спектр финансовых услуг частным и юридиче"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://newsroom.bankofamerica.com/content/newsroom/company-overview/bank-of-america-fast-facts.html",
+      "url": "https://en.wikipedia.org/wiki/Bank_of_America",
       "query": "Bank of America Corporation major customers clients",
-      "snippet": "Feb 24, 2026 · Explore Bank of America Fast Facts for key insights on our global presence, financial services, client reach, and commitment to respons"
+      "snippet": "The Bank of America Corporation is an American multinational investment bank and financial services holding company headquartered at the Bank of Ameri"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/BAC-Customers",
+      "url": "https://www.bankofamerica.com/",
       "query": "Bank of America Corporation major customers clients",
-      "snippet": "5 days ago · For your research, we’ve provided 9 tables on Bank Of America Corporation corporate clients . You can find them in the navigation menu un"
+      "snippet": "Get it on the App Store. Download the Bank of America App. Before you leave our site, we want you to know your app store has its own privacy practices"
     }
   ]
 }

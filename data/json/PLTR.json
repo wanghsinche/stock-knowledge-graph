@@ -1,37 +1,37 @@
 {
   "ticker": "PLTR",
   "company_name": "Palantir Technologies Inc.",
-  "sector": "Technology / Software - Infrastructure",
-  "industry": "Data Analytics & Integration",
+  "sector": "Technology",
+  "industry": "Software - Infrastructure",
   "upstream": [
     "AMZN",
     "MSFT",
     "GOOGL",
     "DELL",
-    "INTC"
+    "HPQ"
   ],
   "downstream": [
     "U.S. Department of Defense",
+    "Federal Bureau of Investigation (FBI)",
     "INTC",
-    "U.S. Department of Homeland Security",
-    "General Electric",
-    "Goldman Sachs"
+    "JPMorgan Chase & Co.",
+    "Walmart Inc."
   ],
   "competitors": [
-    "IBM",
-    "SAS",
-    "ORCL",
-    "MSFT",
+    "Snowflake Inc.",
+    "Databricks Inc.",
+    "Splunk Inc.",
+    "Qlik Technologies",
     "CRM"
   ],
   "key_products": [
     "Gotham",
     "Foundry",
-    "Apollo",
-    "Palantir Platform",
-    "Data Integration Suite"
+    "Palantir Apollo",
+    "Palantir Helios",
+    "Palantir Data Integration Platform"
   ],
-  "extracted_at": "2026-03-03 16:37:02",
+  "extracted_at": "2026-03-04 16:33:13",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Palantir",
+      "url": "https://en.wikipedia.org/wiki/Peter_Thiel",
       "query": "Palantir Technologies Inc. suppliers manufacturers",
-      "snippet": "Palantir Technologies Inc . is an American publicly traded company that develops data integration and analytics platforms enabling government agencies"
+      "snippet": "Peter Andreas Thiel is a German and American entrepreneur, venture capitalist, and political activist. A co-founder of PayPal, Palantir Technologies ,"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/PLTR-Suppliers",
+      "url": "https://tr.wikipedia.org/wiki/Palantir_Technologies",
       "query": "Palantir Technologies Inc. suppliers manufacturers",
-      "snippet": "For your research, we’ve provided nine additional tables on Palantir Technologies Inc ’ s suppliers . You can find them in the navigation menu under S"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Alex_Karp",
-      "query": "Palantir Technologies Inc. major customers clients",
-      "snippet": "Alexander Caedmon Karp (born October 2, 1967) is an American businessman and entrepreneur. He is the co-founder and chief executive officer (CEO) of t"
+      "snippet": "Palantir Technologies Inc ., büyük veri analitiği için yazılım platformlarında uzmanlaşmış bir Amerikan halka açık şirketidir. Merkezi Denver, Colorad"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://ru.wikipedia.org/wiki/Palantir",
       "query": "Palantir Technologies Inc. major customers clients",
       "snippet": "Palantir — американская компания, разработчик программного обеспечения анализа данных для организаций, основные заказчики — военные структуры, спецслу"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/Alex_Karp",
+      "query": "Palantir Technologies Inc. major customers clients",
+      "snippet": "Alexander Caedmon Karp is an American businessman and entrepreneur. He is the co-founder and chief executive officer of the software firm Palantir Tec"
     }
   ]
 }

@@ -4,34 +4,34 @@
   "sector": "Communication Services",
   "industry": "Internet Content & Information",
   "upstream": [
-    "AMZN",
+    "SONY",
+    "Independent artists and music publishers",
     "GOOGL",
-    "MSFT",
-    "Dolby Laboratories",
-    "SONY"
+    "Payment processors (Stripe, PayPal)",
+    "Data analytics and AI service vendors"
   ],
   "downstream": [
-    "Individual consumers (listeners)",
-    "Advertisers (brands)",
-    "Podcast creators",
-    "Artists",
-    "Record labels"
+    "Individual music listeners (free & premium users)",
+    "Advertisers and marketing agencies",
+    "Podcast creators and distribution partners",
+    "Device manufacturers (smart speakers, car infotainment)",
+    "Enterprise customers (Spotify for Business)"
   ],
   "competitors": [
     "AAPL",
     "AMZN",
     "YouTube Music",
     "Tidal",
-    "Pandora"
+    "Deezer"
   ],
   "key_products": [
-    "Spotify Music Streaming",
-    "Spotify Podcasts",
-    "Spotify Ad Studio",
-    "Spotify Premium",
-    "Spotify Free"
+    "Spotify Premium (ad‑free streaming)",
+    "Spotify Free (ad‑supported tier)",
+    "Spotify for Artists (artist analytics & promotion)",
+    "Spotify Podcasts (podcast hosting & discovery)",
+    "Spotify Ad Studio (audio ad creation platform)"
   ],
-  "extracted_at": "2026-02-19 14:45:41",
+  "extracted_at": "2026-03-04 16:38:18",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/SPOT-Suppliers",
+      "query": "Spotify Technology S.A. suppliers manufacturers",
+      "snippet": "Feb 9, 2024 · For your research, we’ve provided nine additional tables on Spotify Technology S a ’s suppliers . You can find them in the navigation me"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://markets.ft.com/data/equities/tearsheet/profile?s=SPOT:NYQ",
+      "query": "Spotify Technology S.A. suppliers manufacturers",
+      "snippet": "5 days ago · Spotify Technology SA (SPOT:NYQ) company profile with history, revenue, mergers & acquisitions, peer analysis, institutional shareholders"
+    },
+    {
+      "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Spotify",
-      "query": "Spotify Technology S.A. suppliers manufacturers",
-      "snippet": "Spotify is a Swedish audio streaming and media service provider founded in April 2006 by Daniel Ek and Martin Lorentzon. As of December 2025, it was o"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://support.spotify.com/us/article/contact-us/",
-      "query": "Spotify Technology S.A. suppliers manufacturers",
-      "snippet": "Post or search on our Spotify Community, where listeners help out and share ideas and solutions. Spotify for Artists."
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/SPOT-Customers",
       "query": "Spotify Technology S.A. major customers clients",
-      "snippet": "Spotify Technology S A's Comment on Sales, Marketing and Customers SPOT's Stock Performance relative to it's Customers SPOT's vs. Customers , Data (Re"
+      "snippet": "Spotify Technology S . A . Spotify has client software currently available for Windows, macOS, Wear OS, Android, iOS, watchOS, iPadOS, PlayStation 3, "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://portersfiveforce.com/blogs/target-market/spotify",
+      "url": "https://open.spotify.com/",
       "query": "Spotify Technology S.A. major customers clients",
-      "snippet": "Spotify Technology employs a sophisticated, data-driven approach to customer acquisition and retention. Its multi-channel strategy leverages a viral f"
+      "snippet": "Spotify is a digital music service that gives you access to millions of songs."
     }
   ]
 }

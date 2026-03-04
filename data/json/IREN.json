@@ -1,37 +1,37 @@
 {
   "ticker": "IREN",
   "company_name": "IREN Limited",
-  "sector": "Financial Services / Capital Markets",
-  "industry": "Data Center & Cloud Services",
+  "sector": "Technology",
+  "industry": "Data Center Services",
   "upstream": [
-    "Renewable energy providers",
-    "Data center equipment manufacturers",
-    "GPU hardware suppliers",
-    "Cooling system vendors",
-    "Networking equipment suppliers"
+    "NVDA",
+    "AMD",
+    "DELL",
+    "HPQ",
+    "CSCO"
   ],
   "downstream": [
-    "Enterprise AI customers",
-    "Cloud service resellers",
-    "High-performance computing firms",
-    "Research institutions",
-    "Financial technology companies"
+    "Financial institutions",
+    "Fintech companies",
+    "E‑commerce platforms",
+    "Gaming companies",
+    "AI research labs"
   ],
   "competitors": [
-    "AMZN",
-    "MSFT",
-    "GOOGL",
-    "IBM",
-    "ORCL"
+    "Equinix",
+    "Digital Realty",
+    "CyrusOne",
+    "QTS",
+    "Switch"
   ],
   "key_products": [
-    "100% renewable-powered data centers",
-    "AI Cloud platform",
-    "GPU cluster services",
-    "Edge computing solutions",
-    "Data center infrastructure management"
+    "GPU‑as‑a‑Service",
+    "Turnkey data center solutions",
+    "Colocation services",
+    "Edge computing",
+    "Managed IT services"
   ],
-  "extracted_at": "2026-02-24 17:05:52",
+  "extracted_at": "2026-03-04 16:37:58",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,25 +43,25 @@
       "source": "DuckDuckGo",
       "url": "https://www.iren.com/",
       "query": "IREN Limited suppliers manufacturers",
-      "snippet": "Explore IREN's 100% renewable-powered data centers offering AI Cloud, GPU clusters, colocation, and build-to-suit infrastructure for scalable compute "
+      "snippet": "Whether you need immediate access to GPUs, world-class turnkey data centers for your own hardware, or a partner to design and build your AI-ready faci"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/suppliers_glance.php?code=IREN",
+      "url": "https://finance.yahoo.com/quote/IREN/profile/?fr=sycsrp_catchall",
       "query": "IREN Limited suppliers manufacturers",
-      "snippet": "IREN's vs. Suppliers , Data (Revenue and Income for Trailing 12 Months, in Millions of $, except Employees) COMPANY NAME MARKET CAP REVENUES INCOME EM"
+      "snippet": "IREN Limited operates in the vertically integrated data center business in Australia and Canada. The company owns and operates computing hardware, as "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/IREN-Customers",
+      "url": "https://www.investing.com/equities/iris-energy",
       "query": "IREN Limited major customers clients",
-      "snippet": "Feb 16, 2026 · For your research, we’ve provided 9 tables on Iren Limited corporate clients . You can find them in the navigation menu under Customers"
+      "snippet": "IREN Ltd stock price live, this page displays NASDAQ IREN stock exchange data. View the IREN premarket stock price ahead of the market session or asse"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finviz.com/news/262618/irens-ai-client-base-expands-is-growth-becoming-more-durable",
+      "url": "https://www.benzinga.com/trading-ideas/movers/25/07/46671095/iren-shares-drop-after-jpmorgan-downgrade-on-valuation-concerns",
       "query": "IREN Limited major customers clients",
-      "snippet": "Dec 26, 2025 · Importantly, CoreWeave noted that nine of its ten largest customers now have multiple contracts, indicating the growing expansion and d"
+      "snippet": "Shares of IREN Limited (NASDAQ: IREN ) are trading lower Monday following a downgrade from JPMorgan, which lowered its rating on the stock from Overwe"
     }
   ]
 }

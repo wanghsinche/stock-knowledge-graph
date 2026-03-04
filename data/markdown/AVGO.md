@@ -3,8 +3,8 @@ ticker: AVGO
 company: Broadcom Inc.
 sector: Technology
 industry: Semiconductors
-extracted_at: 2026-03-03 16:38:56
-last_updated: 2026-03-03
+extracted_at: 2026-03-04 16:34:21
+last_updated: 2026-03-04
 ---
 
 # AVGO - Broadcom Inc.
@@ -12,7 +12,7 @@ last_updated: 2026-03-03
 ## 基本信息
 
 - **所属行业**: Technology / Semiconductors
-- **提取时间**: 2026-03-03 16:38:56
+- **提取时间**: 2026-03-04 16:34:21
 
 ## 产业链关系
 
@@ -20,38 +20,38 @@ last_updated: 2026-03-03
 - [[TSM]]
 - [[005930.KS]]
 - [[GlobalFoundries]]
-- [[UMC]]
+- [[INTC]]
 - [[MU]]
 
 ### 下游客户
 - [[CSCO]]
 - [[DELL]]
 - [[HPQ]]
-- [[IBM]]
 - [[AMZN]]
+- [[MSFT]]
 
 ### 竞争对手
 - [[QCOM]]
 - [[INTC]]
-- [[NVDA]]
+- [[MRVL]]
 - [[TXN]]
-- [[AMD]]
+- [[ADI]]
 
 ### 核心产品
-- [[Broadcom BCM2835 (Raspberry Pi SoC)]]
-- [[Broadcom BCM4360 (Wi‑Fi 6E)]]
-- [[Broadcom BCM5719 (Ethernet controller)]]
-- [[Broadcom Storage Controller (SAS)]]
-- [[Broadcom Infrastructure Software (Enterprise solutions)]]
+- [[Ethernet controllers]]
+- [[Wi‑Fi chips]]
+- [[Bluetooth chips]]
+- [[Broadband modems]]
+- [[Data center networking chips]]
 
 ## 数据来源
 
 - [Broadcom](https://en.wikipedia.org/wiki/Broadcom_Inc.)
 - [Broadcom Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/Broadcom)
-- [Broadcom Inc. suppliers manufacturers](https://www.broadcom.com/)
+- [Broadcom Inc. suppliers manufacturers](https://csimarket.com/stocks/AVGO-Suppliers)
 - [Broadcom Inc. major customers clients](https://en.wikipedia.org/wiki/Broadcom)
-- [Broadcom Inc. major customers clients](https://finance.yahoo.com/news/broadcom-10b-mystery-customer-underscores-103000515.html)
+- [Broadcom Inc. major customers clients](https://capital.com/en-int/market-updates/broadcom-stock-forecast-2-03-2026)
 
 ## 元数据
 
-- **更新日期**: 2026-03-03
+- **更新日期**: 2026-03-04

@@ -4,17 +4,17 @@
   "sector": "Financial Services",
   "industry": "Credit Services",
   "upstream": [
-    "Chip manufacturers (e.g., NXP, STMicroelectronics)",
-    "Card production vendors (e.g., Giesecke+Devrient)",
+    "Chip and card manufacturers",
     "Payment network infrastructure providers",
-    "Software and cybersecurity vendors",
-    "Data center and cloud service providers"
+    "Technology platform vendors",
+    "Security and fraud‑prevention solution suppliers",
+    "Data analytics and cloud service providers"
   ],
   "downstream": [
-    "Banks and financial institutions issuing Visa cards",
-    "Merchants and retailers accepting Visa payments",
-    "Card issuers (e.g., Chase, Citibank)",
-    "AAPL",
+    "Commercial banks and credit unions",
+    "Retail merchants and e‑commerce platforms",
+    "Financial institutions issuing Visa‑branded cards",
+    "Cardholders (individual consumers)",
     "Payment processors and acquirers"
   ],
   "competitors": [
@@ -25,13 +25,13 @@
     "UnionPay"
   ],
   "key_products": [
-    "Visa payment network (VisaNet)",
-    "Visa credit, debit, and prepaid cards",
-    "Mobile payment solutions (Visa Checkout, Visa Pay)",
-    "Fraud detection and risk management services",
-    "Data analytics and insights for merchants"
+    "Visa payment network",
+    "Visa card issuance platform",
+    "Transaction processing services",
+    "Fraud‑prevention and risk management solutions",
+    "Mobile payment and digital wallet services"
   ],
-  "extracted_at": "2026-02-27 16:49:01",
+  "extracted_at": "2026-03-04 16:41:56",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://usa.visa.com/partner-with-us/info-for-partners/info-for-suppliers.html",
+      "url": "https://ru.wikipedia.org/wiki/Visa",
       "query": "Visa Inc. suppliers manufacturers",
-      "snippet": "Visa recognizes the value of engaging with a broad group of suppliers , including small and micro-sized businesses (SMBs), and provides opportunities "
+      "snippet": "Visa Inc . — американская транснациональная компания, предоставляющая услуги проведения платёжных операций. Является основой одноимённой ассоциации. С"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://csimarket.com/stocks/V-Suppliers",
       "query": "Visa Inc. suppliers manufacturers",
-      "snippet": "V Costs vs Sales of Suppliers Growth Visa Inc's Suppliers recorded an increase in sales by 1.89 % year on year in Q3 2025, from the previous quarter, "
+      "snippet": "Visa Inc supply chain, list and performance of Visa Incs ' suppliers - CSIMarket."
     },
     {
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Visa_Inc.",
       "query": "Visa Inc. major customers clients",
-      "snippet": "Visa Inc. (/ ˈviːzə, ˈviːsə /) is an American multinational payment card services corporation headquartered in San Francisco, California. [2][5] It fa"
+      "snippet": "Visa does not issue cards, extend credit, or set rates and fees for consumers ; rather, Visa provides financial institutions with Visa-branded payment"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://csimarket.com/stocks/V-Customers",
       "query": "Visa Inc. major customers clients",
-      "snippet": "Visa also owns and manages additional data centers in the United States and internationally, including those we added with our acquisitions of CyberSo"
+      "snippet": "These facilities enable transaction services and provide uninterrupted connectivity for account holders, our financial institution clients and our pro"
     }
   ]
 }

@@ -7,31 +7,31 @@
     "AMZN",
     "MSFT",
     "GOOGL",
-    "DELL",
-    "HPQ"
-  ],
-  "downstream": [
-    "MSFT",
-    "AMZN",
-    "Walmart",
-    "IBM",
-    "Coca‑Cola"
-  ],
-  "competitors": [
-    "CRM",
-    "Atlassian",
-    "SAP",
     "ORCL",
     "IBM"
   ],
-  "key_products": [
-    "Now Platform",
-    "IT Service Management (ITSM)",
-    "IT Operations Management (ITOM)",
-    "IT Business Management (ITBM)",
-    "Customer Service Management (CSM)"
+  "downstream": [
+    "Walmart",
+    "JPMorgan Chase",
+    "Coca‑Cola",
+    "Airbnb",
+    "General Motors"
   ],
-  "extracted_at": "2026-02-27 16:50:23",
+  "competitors": [
+    "CRM",
+    "MSFT",
+    "SAP SuccessFactors",
+    "ORCL",
+    "Workday"
+  ],
+  "key_products": [
+    "ServiceNow IT Service Management",
+    "ServiceNow IT Operations Management",
+    "ServiceNow HR Service Delivery",
+    "ServiceNow Customer Service Management",
+    "ServiceNow Security Operations"
+  ],
+  "extracted_at": "2026-03-04 16:37:47",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.alibaba.com/",
+      "url": "https://www.servicenow.com/company/supplier.html",
       "query": "ServiceNow, Inc. suppliers manufacturers",
-      "snippet": "Find quality Manufacturers , Suppliers , Exporters, Importers, Buyers, Wholesalers, Products and Trade Leads from our award-winning International Trad"
+      "snippet": "ServiceNow partners with capable and competitive suppliers who commit to diversity, sustainability, and best-in-class goods and services. Learn more h"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.servicenow.com/in/cookie-policy.html",
+      "url": "https://itcompanies.net/blog/top-servicenow-partners",
       "query": "ServiceNow, Inc. suppliers manufacturers",
-      "snippet": "Supplier Lifecycle Operations. Streamline supplier onboarding, collaboration, and performance management. View All Products. ServiceNow , Inc . (“ Ser"
+      "snippet": "ServiceNow has 5 different partner programs as at now, as follows: 1. Sales Partners: For those who want to resale ServiceNow products or offer outsou"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.servicenow.com/customers.html",
+      "url": "https://www.servicenow.com/",
       "query": "ServiceNow, Inc. major customers clients",
-      "snippet": "Discover the measurable improvements ServiceNow delivers to enhance efficiency, productivity, and customer satisfaction."
+      "snippet": "Streamline your enterprise workflows with the ServiceNow AI Platform—empowering both customers and employees in every corner of your business."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.aventionmedia.com/technology-installed-base/servicenow/",
+      "url": "https://www.investing.com/equities/servicenow-inc-earnings",
       "query": "ServiceNow, Inc. major customers clients",
-      "snippet": "Customers that are using ServiceNow include: Microsoft, a US Based MNC and Technology Company with over US$2 Tn revenue and Waltmart, a US Based Retai"
+      "snippet": "Investing.com - ServiceNow Inc (NYSE: NOW ) reported second quarter EPS of $4.09, $0.52 better than the analyst estimate of $3.57...."
     }
   ]
 }

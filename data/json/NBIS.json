@@ -4,30 +4,34 @@
   "sector": "Communication Services",
   "industry": "Internet Content & Information",
   "upstream": [
-    "Nebius Group N.V."
+    "NVDA",
+    "INTC",
+    "AMD",
+    "GOOGL",
+    "AMZN"
   ],
   "downstream": [
-    "Corporate clients",
-    "Enterprise customers",
-    "Government agencies",
-    "Technology partners",
-    "Research institutions"
+    "MSFT",
+    "AMZN",
+    "GOOGL",
+    "META",
+    "Alibaba"
   ],
   "competitors": [
     "OpenAI",
-    "GOOGL",
-    "MSFT",
-    "AMZN",
+    "Anthropic",
+    "DeepMind",
+    "META",
     "IBM"
   ],
   "key_products": [
-    "Artificial intelligence infrastructure",
-    "Avride",
-    "TripleTen",
-    "Toloka",
-    "Clickhouse"
+    "Nebius AI Platform",
+    "Nebius Cloud",
+    "Nebius AI SDK",
+    "Nebius AI Services",
+    "Nebius AI Infrastructure"
   ],
-  "extracted_at": "2026-03-03 16:47:08",
+  "extracted_at": "2026-03-04 16:42:21",
   "sources": [
     {
       "source": "Wikipedia",
@@ -39,13 +43,13 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Nebius_Group",
       "query": "NBIS suppliers manufacturers",
-      "snippet": "Nebius Group N.V., headquartered in Amsterdam, is a technology company that provides artificial intelligence infrastructure. The company also owns Avr"
+      "snippet": "Nebius Group N.V., headquartered in Amsterdam, is a technology company that provides artificial intelligence infrastructure."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://mono.ipros.com/en/product/detail/2000386002/",
+      "url": "https://csimarket.com/stocks/suppliers_glance.php?code=NBIS",
       "query": "NBIS suppliers manufacturers",
-      "snippet": "Jul 10, 2018 · \"NBIS\" is a building management system constructed by Network Corporation using an open system for small and medium-sized buildings. N-"
+      "snippet": "NBIS 's Suppliers Management Effectiveness. NBIS 's Competitors Results.Nebius Group N V's Comment on Supply Chain. NBIS 's Stock Perfrormance relativ"
     },
     {
       "source": "DuckDuckGo",
@@ -55,9 +59,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://mvcinvesting.substack.com/p/nebius-group-nbis-the-key-catalysts",
+      "url": "https://www.dcsa.mil/Systems-Applications/National-Background-Investigation-Services-NBIS/",
       "query": "NBIS major customers clients",
-      "snippet": "Jun 14, 2025 · This facility will unlock the scale necessary to support high-density workloads and will finally position NBIS to ink a large, multi-ye"
+      "snippet": "The purpose of NBIS is to modernize, streamline and secure the entire process to enhance the user experience and provide a reliable and integrated set"
     }
   ]
 }

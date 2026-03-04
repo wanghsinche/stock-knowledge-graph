@@ -4,34 +4,34 @@
   "sector": "Communication Services",
   "industry": "Advertising Agencies",
   "upstream": [
-    "GOOGL",
     "AAPL",
-    "MSFT",
+    "GOOGL",
     "AMZN",
-    "Facebook"
+    "MSFT",
+    "META"
   ],
   "downstream": [
-    "Mobile game developers",
-    "App developers",
-    "Advertisers",
-    "Media publishers",
-    "Digital marketing agencies"
+    "GOOGL",
+    "AAPL",
+    "Unity Technologies",
+    "Game developers",
+    "Brands & advertisers"
   ],
   "competitors": [
     "Unity Ads",
-    "AdColony",
     "Vungle",
-    "IronSource",
-    "GOOGL"
+    "AdColony",
+    "Chartboost",
+    "Tapjoy"
   ],
   "key_products": [
-    "Mobile advertising platform",
-    "In-app video ads",
-    "Ad mediation",
-    "App discovery",
-    "Analytics & attribution"
+    "AppLovin MAX",
+    "Mobile Ads SDK",
+    "User Acquisition Platform",
+    "Data Analytics & Attribution",
+    "Video & Rewarded Video Ads"
   ],
-  "extracted_at": "2026-02-27 16:47:51",
+  "extracted_at": "2026-03-04 16:36:28",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,25 +43,25 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/AppLovin",
       "query": "AppLovin Corporation suppliers manufacturers",
-      "snippet": "AppLovin Corporation is an American mobile technology company headquartered in Palo Alto, California. [3] Founded in 2012, the company helps developer"
+      "snippet": "On April 15, 2021, AppLovin became a public company, trading on the Nasdaq under the ticker APP; it began trading at US$70 per share, with a total val"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://csimarket.com/stocks/APP-Suppliers",
       "query": "AppLovin Corporation suppliers manufacturers",
-      "snippet": "Sources: Applovin Corporation's official press releases and regulatory filings; CSIMarket.com's supply-chain research; and the financial filings and p"
+      "snippet": "For your research, we’ve provided nine additional tables on Applovin Corporation ’ s suppliers . You can find them in the navigation menu under Suppli"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/AppLovin",
       "query": "AppLovin Corporation major customers clients",
-      "snippet": "AppLovin Corporation is an American mobile technology company headquartered in Palo Alto, California. [3] Founded in 2012, the company helps developer"
+      "snippet": "Before emerging from stealth mode, AppLovin acquired customers , including Opentable and Spotify. [9][10] The company was ranked #10 on the 2016 Deloi"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://csimarket.com/stocks/APP-Customers",
       "query": "AppLovin Corporation major customers clients",
-      "snippet": "Applovin 's Comment on Sales, Marketing and Customers News about Applovin Corporation Contracts Navigating the Storm AppLovin Faces Legal Challenges a"
+      "snippet": "For your research, we’ve provided 9 tables on Applovin Corporation corporate clients . You can find them in the navigation menu under Customers & Mark"
     }
   ]
 }
