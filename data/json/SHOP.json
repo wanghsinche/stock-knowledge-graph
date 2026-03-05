@@ -1,14 +1,14 @@
 {
   "ticker": "SHOP",
   "company_name": "Shopify Inc.",
-  "sector": "Technology",
-  "industry": "Software - Application",
+  "sector": "Technology / Software - Application",
+  "industry": "E-commerce Platform",
   "upstream": [
-    "Oberlo",
-    "Spocket",
-    "Modalyst",
-    "Printful",
-    "Printify"
+    "AMZN",
+    "GOOGL",
+    "MSFT",
+    "POS hardware manufacturers (e.g., Shopify Retail POS)",
+    "Cloud infrastructure providers"
   ],
   "downstream": [
     "TSLA",
@@ -18,20 +18,20 @@
     "AB InBev"
   ],
   "competitors": [
-    "AMZN",
-    "eBay",
+    "BigCommerce",
+    "ADBE",
     "WooCommerce",
-    "Magento",
-    "BigCommerce"
+    "CRM",
+    "Wix eCommerce"
   ],
   "key_products": [
     "Shopify e-commerce platform",
-    "Shopify POS",
     "Shopify Payments",
-    "Shopify App Store",
-    "Shopify Fulfillment Network"
+    "Shopify POS",
+    "Shopify Fulfillment Network",
+    "Shopify Capital"
   ],
-  "extracted_at": "2026-02-23 18:10:18",
+  "extracted_at": "2026-03-05 18:03:35",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://eprolo.com/shopify-dropshipping-suppliers",
+      "url": "https://www.shopify.com/blog/13975985-how-to-find-a-manufacturer-or-supplier-for-your-product-idea",
       "query": "Shopify Inc. suppliers manufacturers",
-      "snippet": "Discover the 18 best dropshipping suppliers for Shopify . Learn how to start, find suppliers , and grow a profitable dropshipping business."
+      "snippet": "Dec 1, 2025 · This guide walks you through finding a manufacturer or supplier for your product ideas, with advice for evaluating manufacturers , decid"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.uncap.com/",
+      "url": "https://www.hulkapps.com/blogs/shopify-hub/how-to-find-a-supplier-for-shopify-a-comprehensive-guide",
       "query": "Shopify Inc. suppliers manufacturers",
-      "snippet": "Shopify Accelerator for Suppliers , Distributors, and Manufacturers We deliver unified commerce for industrial brands across equipment, tools, parts, "
+      "snippet": "This guide will walk you through the steps of finding a suitable supplier for your Shopify store, including tips on leveraging the Shopify App Store, "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.thomsondata.com/customer-base/shopify-customers.php",
+      "url": "https://en.wikipedia.org/wiki/Shopify",
       "query": "Shopify Inc. major customers clients",
-      "snippet": "Our Shopify Customers List helps you to target the Shopify Customers by industry type, job, location, and more. Get customized list of Companies Using"
+      "snippet": "Shopify Inc ., stylized as shopify , is a Canadian multinational e-commerce company headquartered in Ottawa, Ontario that operates a platform for reta"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://capitaloneshopping.com/research/shopify-statistics/",
+      "url": "https://www.shopify.com/",
       "query": "Shopify Inc. major customers clients",
-      "snippet": "Nov 6, 2025 · Latest available data and statistics on Shopify including the number of stores, customers , users, revenue, growth rate and more."
+      "snippet": "Try Shopify free and start a business or grow an existing one. Get more than ecommerce software with tools to manage every part of your business.Raise"
     }
   ]
 }

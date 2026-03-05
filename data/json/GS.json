@@ -1,37 +1,37 @@
 {
   "ticker": "GS",
   "company_name": "The Goldman Sachs Group, Inc.",
-  "sector": "Financial Services / Capital Markets",
-  "industry": "Investment Banking & Brokerage",
+  "sector": "Financial Services",
+  "industry": "Capital Markets",
   "upstream": [
-    "Technology vendors",
-    "Data providers",
-    "Legal services",
-    "Regulatory compliance services",
-    "Risk management software providers"
+    "Technology vendors (e.g., Bloomberg, Refinitiv)",
+    "MSFT",
+    "Data providers (FactSet, S&P Global)",
+    "Legal and compliance firms",
+    "Office equipment suppliers"
   ],
   "downstream": [
-    "Private equity funds",
-    "Hedge funds",
-    "Corporations",
-    "Governments",
-    "High‑net‑worth individuals"
+    "AAPL",
+    "Governments and sovereign entities",
+    "Institutional investors (pension funds, endowments)",
+    "Hedge funds and private equity firms",
+    "High-net-worth individuals"
   ],
   "competitors": [
     "JPMorgan Chase & Co.",
     "Morgan Stanley",
+    "Citigroup Inc.",
     "Bank of America Merrill Lynch",
-    "Citigroup",
-    "Wells Fargo"
+    "UBS Group AG"
   ],
   "key_products": [
-    "Investment banking services",
-    "Securities trading",
+    "Investment banking advisory",
+    "Securities underwriting",
     "Asset management",
     "Wealth management",
-    "Capital markets solutions"
+    "Trading and market making"
   ],
-  "extracted_at": "2026-03-03 16:41:41",
+  "extracted_at": "2026-03-05 18:03:23",
   "sources": [
     {
       "source": "Wikipedia",
@@ -53,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Goldman_Sachs",
+      "url": "https://www.goldmansachs.com/what-we-do/serving-clients",
       "query": "The Goldman Sachs Group, Inc. major customers clients",
-      "snippet": "It operates private-equity funds and hedge funds. It structures complex and tailor-made financial products. It also owns Goldman Sachs Bank USA, a dir"
+      "snippet": "Financing, advisory services, risk distribution, and hedging for our institutional and corporate clients . Advice, investing, and execution for instit"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.goldmansachs.com/what-we-do/serving-clients",
+      "url": "https://investguiding.com/articles/who-are-goldman-sachs-clients",
       "query": "The Goldman Sachs Group, Inc. major customers clients",
-      "snippet": "We act as one firm, mobilizing our people, capital, and ideas to deliver superior results and exceptional client service – day after day, year over ye"
+      "snippet": "Feb 19, 2026 · How many clients does Goldman Sachs have? We are pleased with our early progress: we have more than 3 million total customers , $36 bil"
     }
   ]
 }

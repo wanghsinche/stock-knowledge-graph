@@ -4,17 +4,17 @@
   "sector": "Communication Services",
   "industry": "Internet Content & Information",
   "upstream": [
-    "TSM",
     "INTC",
-    "QCOM",
     "NVDA",
+    "AMD",
+    "QCOM",
     "005930.KS"
   ],
   "downstream": [
     "GOOGL",
-    "Android device manufacturers",
     "GOOGL",
-    "YouTube content creators",
+    "Android device manufacturers",
+    "YouTube creators",
     "GOOGL"
   ],
   "competitors": [
@@ -28,10 +28,10 @@
     "Google Search",
     "YouTube",
     "Google Cloud Platform",
-    "Android OS",
+    "Android",
     "Google Ads"
   ],
-  "extracted_at": "2026-03-04 16:35:18",
+  "extracted_at": "2026-03-05 17:55:56",
   "sources": [
     {
       "source": "Wikipedia",
@@ -53,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/GOOGL-Customers",
+      "url": "https://en.wikipedia.org/wiki/Alphabet_Inc.",
       "query": "Alphabet Inc. major customers clients",
-      "snippet": "Feb 9, 2026 · For your research, we’ve provided 9 tables on Alphabet Inc corporate clients . You can find them in the navigation menu under Customers "
+      "snippet": "Google, Internet services, largest subsidiary and prior corporate entity name, Sundar Pichai ; Google Fiber, Internet access: via fiber, Dinesh Jain ;"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://swottemplate.com/blogs/target-market/abc-target-market",
+      "url": "https://portersfiveforce.com/blogs/target-market/abc",
       "query": "Alphabet Inc. major customers clients",
-      "snippet": "Jul 4, 2025 · Alphabet Inc . serves a diverse range of primary customer segments, spanning both consumers (B2C) and businesses (B2B). Its extensive po"
+      "snippet": "Nov 10, 2025 · Who Are Alphabet's Main Customers? Alphabet's customer segmentation is fundamentally split into B2C and B2B groups. The B2B segment now"
     }
   ]
 }

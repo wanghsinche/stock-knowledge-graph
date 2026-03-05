@@ -3,29 +3,35 @@
   "company_name": "GE Vernova Inc.",
   "sector": "Industrials",
   "industry": "Specialty Industrial Machinery",
-  "upstream": [],
+  "upstream": [
+    "Honeywell",
+    "Siemens",
+    "Bosch",
+    "ABB",
+    "Schneider Electric"
+  ],
   "downstream": [
-    "Electric utilities",
-    "Oil & gas companies",
-    "Renewable energy developers",
-    "Industrial power plants",
-    "Government agencies"
+    "AMZN",
+    "GOOGL",
+    "MSFT",
+    "Equinix",
+    "Digital Realty"
   ],
   "competitors": [
     "Siemens Energy",
     "Schneider Electric",
     "ABB",
-    "Emerson Electric",
-    "General Electric"
+    "Honeywell",
+    "Emerson"
   ],
   "key_products": [
     "Gas turbines",
     "Steam turbines",
-    "Generators",
-    "Power plant equipment",
-    "Energy solutions"
+    "Wind turbines",
+    "Grid solutions",
+    "Power generation equipment"
   ],
-  "extracted_at": "2026-03-04 16:39:26",
+  "extracted_at": "2026-03-05 18:00:53",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ru.wikipedia.org/wiki/GE_Vernova",
+      "url": "https://www.bloomberg.com/news/articles/2026-01-21/ge-vernova-customer-base-shifts-as-tech-companies-boost-backlog",
       "query": "GE Vernova Inc. major customers clients",
-      "snippet": "GE Vernova — американская компания, производитель оборудования для энергетической отрасли. До апреля 2024 года являлась подразделением General Electri"
+      "snippet": "Jan 21, 2026 · Big data-center operators may make up as much as 25% of GE Vernova's customers this year, up from 10% last year and a “negligible” amou"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.gevernova.com/",
+      "url": "https://www.energycentral.com/energy-biz/post/news-ai-boom-shifts-the-mix-of-ge-vernova-s-customers-ceo-says-8r9QenK4LZevUnf",
       "query": "GE Vernova Inc. major customers clients",
-      "snippet": "GE Vernova is accelerating the path to more reliable, affordable, and sustainable energy through our innovative portfolio of electrification and decar"
+      "snippet": "Jan 21, 2026 · GE Vernova CEO Scott Strazik told Bloomberg that Big Tech could account for 25% of the company's customer base this year—up from 10% la"
     }
   ]
 }

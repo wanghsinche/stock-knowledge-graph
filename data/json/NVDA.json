@@ -7,31 +7,31 @@
     "TSM",
     "005930.KS",
     "GlobalFoundries",
-    "UMC",
-    "SMIC"
+    "NVDA",
+    "AMD"
   ],
   "downstream": [
     "DELL",
     "HPQ",
     "Lenovo Group",
-    "SONY",
-    "MSFT"
+    "TSLA",
+    "Mercedes‑Benz AG"
   ],
   "competitors": [
     "AMD",
     "INTC",
     "QCOM",
     "AVGO",
-    "AAPL"
+    "MU"
   ],
   "key_products": [
-    "GeForce RTX GPUs",
-    "Quadro GPUs",
-    "Tesla GPUs",
-    "Jetson SoC",
-    "DGX AI systems"
+    "GeForce GPUs",
+    "Quadro/RTX GPUs",
+    "Tesla/Datacenter GPUs",
+    "Jetson SoCs",
+    "CUDA API"
   ],
-  "extracted_at": "2026-03-04 16:32:22",
+  "extracted_at": "2026-03-05 17:53:58",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Nvidia",
+      "url": "https://www.moomoo.com/community/feed/nvidia-s-supply-chain-empire-who-powers-the-ai-s-114771677478918",
       "query": "NVIDIA Corporation suppliers manufacturers",
-      "snippet": "2 days ago - In August 2025, Nvidia ordered ... due to security concerns. The company directed suppliers including Taiwan Semiconductor Manufacturing "
+      "snippet": "Jun 30, 2025 · NVIDIA's suppliers include TSMC in the semiconductor manufacturing field, SK Hynix and $Micron Technology (MU.US)$ in the storage chip "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.theaireport.ai/partner-columns/nvidias-supply-chain--part-1",
+      "url": "https://www.nvidia.com/en-us/data-center/products/certified-systems/",
       "query": "NVIDIA Corporation suppliers manufacturers",
-      "snippet": "Answering this simple question could unearth some investment opportunities that average ETF investors will miss. Here’s what you need to know. Taiwan "
+      "snippet": "NVIDIA-Certified Systems Partners · Boxx logo · Dell Technologies logo · Z by HP logo · Leadtek logo · Lenovo logo · Microway logo · Siemens logo · Su"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Nvidia",
+      "url": "https://www.fool.com/investing/2025/06/26/who-are-nvidias-biggest-customers/",
       "query": "NVIDIA Corporation major customers clients",
-      "snippet": "Nvidia Corporation . Show dark mode logo.^ Officially written as NVIDIA Corporation and stylized in its logo as nVIDIA with the lowercase \"n\" the same"
+      "snippet": "Jun 26, 2025 · Who Are Nvidia 's Biggest Customers ? Nvidia supplies the most powerful data center chips in the world for artificial intelligence (AI)"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.nvidia.com/en-us/drivers/",
+      "url": "https://economictimes.indiatimes.com/news/international/us/two-mystery-customers-made-up-40-of-nvidias-revenue-who-are-they/articleshow/123635412.cms",
       "query": "NVIDIA Corporation major customers clients",
-      "snippet": "Download the latest official NVIDIA drivers to enhance your PC gaming experience and run apps faster.Download Type. \"All\" Shows all available driver o"
+      "snippet": "Sep 1, 2025 · Nvidia ’ s latest earnings grabbed headlines with a jaw-dropping $46.7 billion in quarterly revenue, but buried inside the SEC filing wa"
     }
   ]
 }

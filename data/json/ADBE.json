@@ -1,37 +1,37 @@
 {
   "ticker": "ADBE",
   "company_name": "Adobe Inc.",
-  "sector": "Technology / Software - Application",
+  "sector": "Technology",
   "industry": "Software - Application",
   "upstream": [
     "INTC",
     "AMD",
     "NVDA",
-    "MSFT",
-    "AMZN"
+    "QCOM",
+    "ARM"
   ],
   "downstream": [
-    "Walmart",
-    "AAPL",
-    "GOOGL",
-    "MSFT",
-    "AMZN"
+    "ADBE",
+    "ADBE",
+    "ADBE",
+    "ADBE",
+    "ADBE"
   ],
   "competitors": [
     "Autodesk",
     "Corel",
-    "Serif",
-    "Quark",
-    "MSFT"
+    "MSFT",
+    "AAPL",
+    "Avid"
   ],
   "key_products": [
     "Photoshop",
     "Illustrator",
-    "Acrobat",
+    "InDesign",
     "Premiere Pro",
-    "After Effects"
+    "Acrobat Reader"
   ],
-  "extracted_at": "2026-02-26 16:53:53",
+  "extracted_at": "2026-03-05 18:03:50",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.adobe.com/procurement.html",
+      "url": "https://en.wikipedia.org/wiki/Adobe_Inc.",
       "query": "Adobe Inc. suppliers manufacturers",
-      "snippet": "Adobe aims at building long-term business partnerships with a select group of suppliers that share our commitment to delivering the highest quality pr"
+      "snippet": "Adobe Systems Incorporated (1982–2018). Company type. Public. Adobe added kanji printer products in 1988.[16] Warnock and Geschke were also able to bo"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/ADBE-Suppliers",
+      "url": "https://ru.wikipedia.org/wiki/Adobe",
       "query": "Adobe Inc. suppliers manufacturers",
-      "snippet": "Adobe Inc's Comment on Supply Chain As the software industry is characterized by rapid technological change, a continuous high level of investment is "
+      "snippet": "Adobe — американская компания, разработчик программного обеспечения. Штаб-квартира расположена в Сан-Хосе.Доля в акционерном капитале, % Стоимость акц"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.appsruntheworld.com/customers-database/vendors/view/adobe-systems",
+      "url": "https://en.wikipedia.org/wiki/Adobe_Inc.",
       "query": "Adobe Inc. major customers clients",
-      "snippet": "List of companies using or evaluating Adobe Systems applications, with details on their revenues, employees, industries, and locations. Missing: major"
+      "snippet": "Adobe Systems Incorporated (1982–2018). Company type.As of 2022,[update] Adobe had more than 26,000 employees worldwide.[4] Adobe also has major devel"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.aventionmedia.com/technology-installed-base/adobe/",
+      "url": "https://www.readycontacts.com/target-account-profiling/adobe-test-and-target/",
       "query": "Adobe Inc. major customers clients",
-      "snippet": "Walmart, https://www.walmart.com/, $648 billion ; Apple, https://www.apple.com/, $391 billion ; Autodesk, https://www.autodesk.com/, $906 million ; Tr"
+      "snippet": "While we can't disclose specific client names, the Adobe Test and Target customer list includes Fortune 500 companies, leading e-commerce retailers, m"
     }
   ]
 }

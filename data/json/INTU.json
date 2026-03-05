@@ -8,19 +8,19 @@
     "AMZN",
     "GOOGL",
     "ORCL",
-    "IBM"
+    "SAP"
   ],
   "downstream": [
     "Small businesses",
+    "Tax filers",
+    "Freelancers",
     "Accountants",
-    "Tax professionals",
-    "Financial advisors",
-    "Individuals"
+    "Financial advisors"
   ],
   "competitors": [
+    "MSFT",
     "SAP",
     "ORCL",
-    "MSFT",
     "Xero",
     "FreshBooks"
   ],
@@ -30,7 +30,7 @@
     "Credit Karma",
     "Mailchimp"
   ],
-  "extracted_at": "2026-03-04 16:39:38",
+  "extracted_at": "2026-03-05 17:58:07",
   "sources": [
     {
       "source": "Wikipedia",
@@ -40,27 +40,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/INTU-Suppliers",
+      "url": "https://en.wikipedia.org/wiki/Intuit",
       "query": "Intuit Inc. suppliers manufacturers",
-      "snippet": "Intuit Inc supply chain, list and performance of Intuit Incs ' suppliers - CSIMarket."
+      "snippet": "Intuit Inc . is an American multinational business software company that specializes in financial software. Headquartered in Mountain View, California"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://investors.intuit.com/company-information/faq",
+      "url": "https://csimarket.com/stocks/INTU-Suppliers",
       "query": "Intuit Inc. suppliers manufacturers",
-      "snippet": "Intuit began operations in March 1983 and was incorporated in California in March 1984."
+      "snippet": "Intuit Inc supply chain, list and performance of Intuit Incs ' suppliers - CSIMarket"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Intuit",
       "query": "Intuit Inc. major customers clients",
-      "snippet": "Intuit Inc . is an American multinational business software company that specializes in financial software. Headquartered in Mountain View, California"
+      "snippet": "Intuit Inc. is an American multinational business software company that specializes in financial software. Headquartered in Mountain View, California,"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.appsruntheworld.com/customers-database/vendors/view/intuit",
+      "url": "https://www.intuit.com/company/",
       "query": "Intuit Inc. major customers clients",
-      "snippet": "List of companies using or evaluating Intuit applications, with details on their revenues, employees, industries, and locations."
+      "snippet": "Serving approximately 100 million customers worldwide with TurboTax, Credit Karma, QuickBooks, and Mailchimp, Intuit helps put more money in consumers"
     }
   ]
 }

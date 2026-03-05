@@ -4,34 +4,32 @@
   "sector": "Technology",
   "industry": "Software - Infrastructure",
   "upstream": [
-    "AMZN",
+    "Trinity Industries",
     "MSFT",
+    "AMZN",
     "GOOGL",
-    "DELL",
-    "HPQ"
+    "IBM"
   ],
   "downstream": [
     "U.S. Department of Defense",
-    "Federal Bureau of Investigation (FBI)",
     "INTC",
-    "JPMorgan Chase & Co.",
-    "Walmart Inc."
+    "U.S. Federal Bureau of Investigation",
+    "Major Fortune 500 corporations",
+    "International government agencies"
   ],
   "competitors": [
-    "Snowflake Inc.",
-    "Databricks Inc.",
-    "Splunk Inc.",
-    "Qlik Technologies",
-    "CRM"
+    "IBM",
+    "SAS Institute",
+    "ORCL",
+    "MSFT",
+    "Snowflake"
   ],
   "key_products": [
     "Gotham",
     "Foundry",
-    "Palantir Apollo",
-    "Palantir Helios",
-    "Palantir Data Integration Platform"
+    "Apollo"
   ],
-  "extracted_at": "2026-03-04 16:33:13",
+  "extracted_at": "2026-03-05 17:55:25",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +39,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Peter_Thiel",
+      "url": "https://en.wikipedia.org/wiki/Palantir",
       "query": "Palantir Technologies Inc. suppliers manufacturers",
-      "snippet": "Peter Andreas Thiel is a German and American entrepreneur, venture capitalist, and political activist. A co-founder of PayPal, Palantir Technologies ,"
+      "snippet": "Palantir Technologies Inc . is an American publicly traded company that develops data integration and analytics platforms enabling government agencies"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://tr.wikipedia.org/wiki/Palantir_Technologies",
+      "url": "https://www.palantir.com/offerings/procurement/",
       "query": "Palantir Technologies Inc. suppliers manufacturers",
-      "snippet": "Palantir Technologies Inc ., büyük veri analitiği için yazılım platformlarında uzmanlaşmış bir Amerikan halka açık şirketidir. Merkezi Denver, Colorad"
+      "snippet": "With billions of dollars worth of materials being procured by Trinity Industries each year, the legacy rail company leverages Palantir to revolutioniz"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ru.wikipedia.org/wiki/Palantir",
+      "url": "https://finance.yahoo.com/news/palantir-isnt-adding-many-customers-013107617.html",
       "query": "Palantir Technologies Inc. major customers clients",
-      "snippet": "Palantir — американская компания, разработчик программного обеспечения анализа данных для организаций, основные заказчики — военные структуры, спецслу"
+      "snippet": "Feb 4, 2026 · Palantir Isn't Adding Many New Customers — Existing Clients Are Spending Much More, CEO Alex Karp Says: 'AI Has Just Put Gasoline On All"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Alex_Karp",
+      "url": "https://www.designgurus.io/answers/detail/who-are-the-main-customers-of-palantir",
       "query": "Palantir Technologies Inc. major customers clients",
-      "snippet": "Alexander Caedmon Karp is an American businessman and entrepreneur. He is the co-founder and chief executive officer of the software firm Palantir Tec"
+      "snippet": "Nov 28, 2024 · Palantir's government clients include defense, intelligence, and civil agencies: U.S. Government Agencies: Palantir has collaborated wi"
     }
   ]
 }

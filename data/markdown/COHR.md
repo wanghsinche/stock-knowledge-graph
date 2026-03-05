@@ -1,48 +1,48 @@
 ---
 ticker: COHR
 company: Coherent Corp.
-sector: Technology
-industry: Scientific & Technical Instruments
-extracted_at: 2026-03-04 16:36:17
-last_updated: 2026-03-04
+sector: Technology / Scientific & Technical Instruments
+industry: Optical Instruments
+extracted_at: 2026-03-05 17:59:44
+last_updated: 2026-03-05
 ---
 
 # COHR - Coherent Corp.
 
 ## 基本信息
 
-- **所属行业**: Technology / Scientific & Technical Instruments
-- **提取时间**: 2026-03-04 16:36:17
+- **所属行业**: Technology / Scientific & Technical Instruments / Optical Instruments
+- **提取时间**: 2026-03-05 17:59:44
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Silicon wafer suppliers]]
-- [[Gallium arsenide manufacturers]]
-- [[Rare‑earth element suppliers]]
-- [[Optical glass and crystal producers]]
-- [[Photonic component suppliers]]
+- [[Silicon photonics suppliers]]
+- [[VCSEL array manufacturers]]
+- [[Lens manufacturers]]
+- [[Filter manufacturers]]
+- [[Coupler manufacturers]]
 
 ### 下游客户
 - [[CAT]]
 - [[CAT]]
-- [[Medical imaging device makers]]
-- [[Defense and aerospace systems integrators]]
-- [[Scientific research laboratories]]
+- [[Medical device manufacturers]]
+- [[Defense and aerospace contractors]]
+- [[Research laboratories]]
 
 ### 竞争对手
-- [[II‑VI Incorporated]]
-- [[Newport Corporation]]
-- [[Lumentum Holdings]]
 - [[Thorlabs]]
 - [[Edmund Optics]]
+- [[Lumentum]]
+- [[II-VI Incorporated]]
+- [[Coherent Inc.]]
 
 ### 核心产品
-- [[VCSEL arrays]]
 - [[Laser diodes]]
-- [[Optical fibers and waveguides]]
-- [[Lenses and optical filters]]
-- [[Optical couplers and isolators]]
+- [[VCSELs]]
+- [[Optical fibers]]
+- [[Lenses]]
+- [[Filters]]
 
 ## 数据来源
 
@@ -50,8 +50,8 @@ last_updated: 2026-03-04
 - [Coherent Corp. suppliers manufacturers](https://en.wikipedia.org/wiki/Coherent_Corp.)
 - [Coherent Corp. suppliers manufacturers](https://www.coherent.com/)
 - [Coherent Corp. major customers clients](https://www.coherent.com/)
-- [Coherent Corp. major customers clients](https://www.insidermonkey.com/blog/coherent-cohr-gets-higher-price-target-from-morgan-stanley-on-bullish-optical-markets-forecast-1705567/)
+- [Coherent Corp. major customers clients](https://finance.yahoo.com/news/investors-may-respond-coherent-cohr-070837618.html)
 
 ## 元数据
 
-- **更新日期**: 2026-03-04
+- **更新日期**: 2026-03-05

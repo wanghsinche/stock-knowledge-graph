@@ -1,37 +1,37 @@
 {
   "ticker": "CRWV",
   "company_name": "CoreWeave, Inc.",
-  "sector": "Technology",
-  "industry": "Software - Infrastructure",
+  "sector": "Technology / Software - Infrastructure",
+  "industry": "Artificial Intelligence Cloud Computing",
   "upstream": [
     "NVDA",
     "AMD",
     "INTC",
-    "MU",
-    "005930.KS"
+    "GOOGL",
+    "AMZN"
   ],
   "downstream": [
-    "AI developers",
-    "Enterprises",
-    "Research labs",
-    "Gaming companies",
-    "Fintech firms"
-  ],
-  "competitors": [
+    "OpenAI",
+    "MSFT",
     "AMZN",
     "GOOGL",
-    "MSFT",
-    "Paperspace",
-    "Lambda Labs"
+    "NVDA"
+  ],
+  "competitors": [
+    "Lambda",
+    "Cerebras",
+    "GOOGL",
+    "AWS Inferentia",
+    "MSFT"
   ],
   "key_products": [
-    "GPU cloud infrastructure",
-    "AI compute services",
-    "Chip management software",
-    "GPU clusters",
-    "AI training services"
+    "GPU-based AI cloud infrastructure",
+    "GPU cluster management",
+    "AI workload acceleration",
+    "Custom GPU software stack",
+    "Cloud-based GPU services"
   ],
-  "extracted_at": "2026-03-04 16:37:03",
+  "extracted_at": "2026-03-05 18:02:38",
   "sources": [
     {
       "source": "Wikipedia",
@@ -61,7 +61,7 @@
       "source": "DuckDuckGo",
       "url": "https://www.coreweave.com/",
       "query": "CoreWeave, Inc. major customers clients",
-      "snippet": "CoreWeave is a GPU cloud provider."
+      "snippet": "CoreWeave Inc .’s."
     }
   ]
 }

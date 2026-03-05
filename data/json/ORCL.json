@@ -6,32 +6,32 @@
   "upstream": [
     "INTC",
     "AMD",
-    "NVDA",
     "DELL",
-    "HPQ"
+    "HPQ",
+    "CSCO"
   ],
   "downstream": [
-    "JPMorgan Chase",
-    "Bank of America",
-    "Walmart",
-    "AT&T",
-    "Verizon"
+    "MSFT",
+    "UnitedHealth Group",
+    "Citigroup",
+    "Edward Jones",
+    "Walmart"
   ],
   "competitors": [
     "MSFT",
-    "SAP",
+    "AMZN",
     "IBM",
-    "CRM",
-    "AMZN"
+    "SAP",
+    "GOOGL"
   ],
   "key_products": [
     "Oracle Database",
     "Oracle Cloud Infrastructure",
+    "Oracle Autonomous Database",
     "Oracle E-Business Suite",
-    "Oracle Fusion Middleware",
-    "Oracle Autonomous Database"
+    "Oracle Fusion Middleware"
   ],
-  "extracted_at": "2026-03-04 16:36:37",
+  "extracted_at": "2026-03-05 17:57:36",
   "sources": [
     {
       "source": "Wikipedia",
@@ -53,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Oracle_Corporation",
+      "url": "https://www.oracle.com/customers/",
       "query": "Oracle Corporation major customers clients",
-      "snippet": "Oracle Corporation is an American multinational technology company headquartered in Austin, Texas. Co-founded in Santa Clara, California by Bob Miner,"
+      "snippet": "Hear from our customers to learn what makes Oracle the right choice for them, and why we're the right partner for your business. Missing: major | Show"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ru.wikipedia.org/wiki/Oracle",
+      "url": "https://www.aventionmedia.com/technology-installed-base/oracle/",
       "query": "Oracle Corporation major customers clients",
-      "snippet": "Oracle ( Oracle Corporation ) — американская корпорация, второй по размеру выручки разработчик программного обеспечения (после Microsoft), четвёртая к"
+      "snippet": "Microsoft, UnitedHealth Group, Citi Group, and Edward Jones are the biggest customers of Oracle. The top companies that use Oracle include Intel, Cisc"
     }
   ]
 }

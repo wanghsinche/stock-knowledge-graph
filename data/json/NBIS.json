@@ -1,37 +1,37 @@
 {
   "ticker": "NBIS",
   "company_name": "Nebius Group N.V.",
-  "sector": "Communication Services",
-  "industry": "Internet Content & Information",
+  "sector": "Communication Services / Internet Content & Information",
+  "industry": "Artificial Intelligence Infrastructure",
   "upstream": [
     "NVDA",
-    "INTC",
     "AMD",
-    "GOOGL",
-    "AMZN"
+    "INTC",
+    "AMZN",
+    "MSFT"
   ],
   "downstream": [
+    "GOOGL",
     "MSFT",
     "AMZN",
-    "GOOGL",
-    "META",
-    "Alibaba"
+    "IBM",
+    "ORCL"
   ],
   "competitors": [
     "OpenAI",
     "Anthropic",
     "DeepMind",
-    "META",
-    "IBM"
+    "MSFT",
+    "AMZN"
   ],
   "key_products": [
     "Nebius AI Platform",
     "Nebius Cloud",
     "Nebius AI SDK",
-    "Nebius AI Services",
-    "Nebius AI Infrastructure"
+    "Nebius AI APIs",
+    "Nebius AI Services"
   ],
-  "extracted_at": "2026-03-04 16:42:21",
+  "extracted_at": "2026-03-05 18:04:15",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Nebius_Group",
+      "url": "https://csimarket.com/stocks/NBIS-Suppliers",
       "query": "NBIS suppliers manufacturers",
-      "snippet": "Nebius Group N.V., headquartered in Amsterdam, is a technology company that provides artificial intelligence infrastructure."
+      "snippet": "May 3, 2025 · Nebius Group N V supply chain, list and performance of Nebius Group N Vs' suppliers - CSIMarket"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/suppliers_glance.php?code=NBIS",
+      "url": "https://www.industryselect.com/blog/top-10-manufacturing-companies-in-illinois",
       "query": "NBIS suppliers manufacturers",
-      "snippet": "NBIS 's Suppliers Management Effectiveness. NBIS 's Competitors Results.Nebius Group N V's Comment on Supply Chain. NBIS 's Stock Perfrormance relativ"
+      "snippet": "Illinois is currently home to 13,975 manufacturers employing 722,894 workers, making it among the largest industrial states in the U.S. According to I"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/NBIS-Customers",
+      "url": "https://www.youtube.com/watch?v=USAm2vxULdc",
       "query": "NBIS major customers clients",
-      "snippet": "For your research, we’ve provided 9 tables on Nebius Group n v corporate clients . You can find them in the navigation menu under Customers & Markets."
+      "snippet": "Today we break down the Google vs Nvidia AI chip debate that took over the market this week — and what this means for Nebius ( NBIS ) as a preferred N"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.dcsa.mil/Systems-Applications/National-Background-Investigation-Services-NBIS/",
+      "url": "https://www.nasdaq.com/market-activity/stocks/nbis",
       "query": "NBIS major customers clients",
-      "snippet": "The purpose of NBIS is to modernize, streamline and secure the entire process to enhance the user experience and provide a reliable and integrated set"
+      "snippet": "Show more results ->. NBIS . Summary. Quotes.Data Disclaimer: The Nasdaq Indices and the Major Indices are delayed at least 1 minute."
     }
   ]
 }

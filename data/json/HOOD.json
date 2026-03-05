@@ -1,37 +1,37 @@
 {
   "ticker": "HOOD",
   "company_name": "Robinhood Markets, Inc.",
-  "sector": "Financial Services / Capital Markets",
-  "industry": "Brokerage & Investment Services",
+  "sector": "Financial Services",
+  "industry": "Capital Markets",
   "upstream": [
-    "NASDAQ data feeds",
+    "AMZN",
+    "MSFT",
     "Bloomberg",
-    "Thomson Reuters",
-    "Stripe",
-    "Plaid"
+    "Refinitiv",
+    "Stripe"
   ],
   "downstream": [
     "Retail investors",
-    "Day traders",
-    "High‑frequency traders",
-    "Institutional clients",
+    "Institutional investors",
+    "High‑net‑worth individuals",
+    "Small businesses",
     "Crypto traders"
   ],
   "competitors": [
     "E*TRADE",
-    "TD Ameritrade",
     "Charles Schwab",
     "Fidelity",
-    "Webull"
+    "TD Ameritrade",
+    "Interactive Brokers"
   ],
   "key_products": [
     "Commission‑free stock trading",
     "Options trading",
-    "Cryptocurrency trading",
-    "Cash management",
-    "Margin trading"
+    "Margin trading",
+    "Crypto trading",
+    "Robinhood Gold subscription"
   ],
-  "extracted_at": "2026-03-04 16:35:30",
+  "extracted_at": "2026-03-05 17:56:56",
   "sources": [
     {
       "source": "Wikipedia",
@@ -59,9 +59,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://robinhood.com/",
+      "url": "https://www.bbb.org/us/ca/palo-alto/profile/financial-services/robinhood-markets-inc-1216-417256/customer-reviews",
       "query": "Robinhood Markets, Inc. major customers clients",
-      "snippet": "Trade stocks on Robinhood with commission-free investing & advanced trading tools. Access fractional shares, real-time market data, and more."
+      "snippet": "Robinhood Markets , Inc . is NOT a BBB Accredited Business. To become accredited, a business must agree to BBB Standards for Trust and pass BBB's vett"
     }
   ]
 }

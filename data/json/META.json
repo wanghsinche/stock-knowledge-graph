@@ -4,25 +4,25 @@
   "sector": "Communication Services",
   "industry": "Internet Content & Information",
   "upstream": [
+    "Corning",
     "QCOM",
     "INTC",
-    "NVDA",
-    "AMD",
-    "005930.KS"
+    "005930.KS",
+    "LG Display"
   ],
   "downstream": [
-    "Advertisers",
-    "Businesses",
-    "App developers",
-    "Content creators",
-    "Social media users"
+    "Coca-Cola",
+    "Nike",
+    "AMZN",
+    "MSFT",
+    "GOOGL"
   ],
   "competitors": [
     "GOOGL",
     "AMZN",
     "AAPL",
     "MSFT",
-    "Twitter (X)"
+    "TikTok"
   ],
   "key_products": [
     "Facebook",
@@ -31,7 +31,7 @@
     "Messenger",
     "Meta Ads"
   ],
-  "extracted_at": "2026-03-04 16:33:57",
+  "extracted_at": "2026-03-05 17:55:36",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,15 +41,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Meta_Platforms",
+      "url": "https://investor.corning.com/news-and-events/news/news-details/2026/Corning-and-Meta-Announce-Multiyear-up-to-6-Billion-Agreement-to-Accelerate-US-Data-Center-Buildout/default.aspx",
       "query": "Meta Platforms, Inc. suppliers manufacturers",
-      "snippet": "Meta Platforms , Inc . (doing business as Meta) is an American multinational technology company headquartered in Menlo Park, California. Meta owns and"
+      "snippet": "Jan 27, 2026 · Under the agreement, Corning will supply Meta with its newest innovations in optical fiber, cable, and connectivity solutions. To suppo"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://forwork.meta.com/legal/mfw-subprocessor-list/",
+      "url": "https://manufacturingdigital.com/news/metas-6bn-us-manufacturing-deal-for-data-centre-hardware",
       "query": "Meta Platforms, Inc. suppliers manufacturers",
-      "snippet": "Nov 13, 2023 · Starting February 20, 2026, Meta Horizon managed services will no longer be available for purchase. Visit the Help Center to learn more"
+      "snippet": "Jan 28, 2026 · Meta has announced an agreement with Corning worth up to US$6bn to support the manufacturing of data centre infrastructure in the US."
     },
     {
       "source": "DuckDuckGo",
@@ -59,9 +59,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.meta.com/about/",
+      "url": "https://www.meta.com/",
       "query": "Meta Platforms, Inc. major customers clients",
-      "snippet": "Meta - Social Media Advertising Platform (Facebook & Instagram)."
+      "snippet": "Meta Platforms , Inc , Slide 18 of 24."
     }
   ]
 }

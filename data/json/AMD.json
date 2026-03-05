@@ -7,31 +7,31 @@
     "TSM",
     "005930.KS",
     "GlobalFoundries",
-    "MU",
-    "SK Hynix"
+    "UMC",
+    "SMIC"
   ],
   "downstream": [
+    "MSFT",
+    "SONY",
     "DELL",
     "HPQ",
-    "Lenovo",
-    "SONY",
-    "MSFT"
+    "Lenovo"
   ],
   "competitors": [
     "INTC",
     "NVDA",
     "QCOM",
     "AVGO",
-    "005930.KS"
+    "MU"
   ],
   "key_products": [
     "Ryzen CPUs",
-    "EPYC servers",
+    "EPYC CPUs",
     "Radeon GPUs",
     "Xilinx FPGAs",
     "SoCs"
   ],
-  "extracted_at": "2026-03-04 16:33:34",
+  "extracted_at": "2026-03-05 17:55:47",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/List_of_system_on_a_chip_suppliers",
+      "query": "Advanced Micro Devices, Inc. suppliers manufacturers",
+      "snippet": "The following is a list of system-on-a-chip suppliers . Actions Semiconductor Advanced Micro Devices (AMD) Advanced Semiconductor Engineering (ASE) Al"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/AMD-Suppliers",
+      "query": "Advanced Micro Devices, Inc. suppliers manufacturers",
+      "snippet": "Feb 9, 2026 · Advanced Micro Devices Inc supply chain, list and performance of Advanced Micro Devices Incs ' suppliers - CSIMarket"
+    },
+    {
+      "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/AMD",
-      "query": "Advanced Micro Devices, Inc. suppliers manufacturers",
-      "snippet": "Advanced Micro Devices , Inc . Image of AMD 's headquarters located in Santa Clara, California.in 1979.[49][50] AMD closed Advanced Micro Computers in"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://ir.amd.com/",
-      "query": "Advanced Micro Devices, Inc. suppliers manufacturers",
-      "snippet": "For 50 years AMD has driven innovation in high-performance computing, graphics and visualization technologies ― the building blocks for gaming, immers"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/AMD-Customers",
       "query": "Advanced Micro Devices, Inc. major customers clients",
-      "snippet": "4 days ago · Focus of this report: Advanced Micro Devices Inc ’ s corporate clients . For your research, we’ve provided 9 tables on Advanced Micro Dev"
+      "snippet": "AMD serves a wide range of business and consumer markets, including personal computers (PCs), gaming, data centers, and embedded systems. Advanced Mic"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ir.amd.com/financial-information/sec-filings/content/0001193125-25-067185/0001193125-25-067185.pdf",
+      "url": "https://www.trefis.com/data/companies/AMD?source=forbes",
       "query": "Advanced Micro Devices, Inc. major customers clients",
-      "snippet": "With our high-performance product portfolios, we deliver differentiated solutions, such as our semi-custom System-on-Chip (SoCs), Adaptive SoCs, and a"
+      "snippet": "3 days ago · Major Customers of Advanced Micro Devices (AMD):. Microsoft Corporation (Symbol: MSFT). Provides custom Accelerated Processing Units (APU"
     }
   ]
 }

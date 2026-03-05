@@ -1,37 +1,37 @@
 {
   "ticker": "WDC",
   "company_name": "Western Digital Corporation",
-  "sector": "Technology",
-  "industry": "Computer Hardware",
+  "sector": "Technology / Computer Hardware",
+  "industry": "Data Storage / Hard Disk Drives",
   "upstream": [
-    "Semiconductor manufacturers",
-    "Printed circuit board suppliers",
-    "Magnetic media suppliers",
-    "Electronics component suppliers",
-    "Firmware development firms"
+    "Toshiba (Kioxia)",
+    "005930.KS",
+    "MU",
+    "INTC",
+    "WDC"
   ],
   "downstream": [
     "DELL",
-    "DELL",
+    "HPQ",
+    "Lenovo Group",
     "AAPL",
-    "GOOGL",
-    "Enterprise storage integrators"
+    "CSCO"
   ],
   "competitors": [
     "STX",
-    "Toshiba",
+    "Toshiba (Kioxia)",
     "005930.KS",
-    "IBM",
-    "MU"
+    "MU",
+    "INTC"
   ],
   "key_products": [
-    "Hard Disk Drives (HDD)",
-    "Solid State Drives (SSD)",
-    "Enterprise Storage Solutions",
-    "Network Attached Storage (NAS)",
-    "Cloud Storage Solutions"
+    "WD Blue HDD",
+    "WD Red NAS HDD",
+    "WD Black Gaming HDD",
+    "WD My Passport External HDD",
+    "WD SSDs"
   ],
-  "extracted_at": "2026-03-04 16:37:14",
+  "extracted_at": "2026-03-05 18:02:04",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,13 +43,13 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Western_Digital",
       "query": "Western Digital Corporation suppliers manufacturers",
-      "snippet": "Western Digital Corporation , doing business as WD , is an American data storage company headquartered in San Jose, California. Established in 1970, t"
+      "snippet": "Western Digital Corporation , doing business as WD, is an American data storage company headquartered in San Jose, California. Established in 1970, th"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ru.wikipedia.org/wiki/Western_Digital",
+      "url": "https://www.westerndigital.com/company/distributors",
       "query": "Western Digital Corporation suppliers manufacturers",
-      "snippet": "Western Digital Corporation (NASDAQ: WDC, по-русски «Вестерн Диджитал»[3]) — компания, производитель компьютерной электроники. Наиболее известна произ"
+      "snippet": "Find Distributors & Resellers Purchase from your preferred Western Digital authorized partner Region Country/Area Brand"
     },
     {
       "source": "DuckDuckGo",
@@ -59,9 +59,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.mycloud.com/?ref=comdurav.com",
+      "url": "https://ru.wikipedia.org/wiki/Western_Digital",
       "query": "Western Digital Corporation major customers clients",
-      "snippet": "© 2020 Western Digital Corporation или аффилированные лица."
+      "snippet": "Western Digital Corporation (NASDAQ: WDC, по-русски «Вестерн Диджитал»[3]) — компания, производитель компьютерной электроники. Наиболее известна произ"
     }
   ]
 }

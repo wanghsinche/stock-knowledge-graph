@@ -1,37 +1,37 @@
 {
   "ticker": "IREN",
   "company_name": "IREN Limited",
-  "sector": "Technology",
+  "sector": "Financial Services / Capital Markets",
   "industry": "Data Center Services",
   "upstream": [
-    "NVDA",
-    "AMD",
     "DELL",
     "HPQ",
-    "CSCO"
+    "CSCO",
+    "Schneider Electric",
+    "NVDA"
   ],
   "downstream": [
-    "Financial institutions",
-    "Fintech companies",
-    "E‑commerce platforms",
-    "Gaming companies",
-    "AI research labs"
+    "Australian Financial Institutions",
+    "Tech Startups",
+    "Government Agencies",
+    "CAT",
+    "Cloud Service Providers"
   ],
   "competitors": [
     "Equinix",
     "Digital Realty",
-    "CyrusOne",
-    "QTS",
-    "Switch"
+    "Global Switch",
+    "GDS",
+    "Vantage Data Centers"
   ],
   "key_products": [
-    "GPU‑as‑a‑Service",
-    "Turnkey data center solutions",
-    "Colocation services",
-    "Edge computing",
-    "Managed IT services"
+    "Colocation Services",
+    "Managed Hosting",
+    "Cloud Connectivity",
+    "Power & Cooling Solutions",
+    "Security & Compliance"
   ],
-  "extracted_at": "2026-03-04 16:37:58",
+  "extracted_at": "2026-03-05 18:00:37",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,13 +41,13 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.iren.com/",
+      "url": "https://irencloud.com/",
       "query": "IREN Limited suppliers manufacturers",
-      "snippet": "Whether you need immediate access to GPUs, world-class turnkey data centers for your own hardware, or a partner to design and build your AI-ready faci"
+      "snippet": "Deal directly with IREN's owner-operated data centers to access exclusive pricing tailored to your GPU needs."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/IREN/profile/?fr=sycsrp_catchall",
+      "url": "https://finance.yahoo.com/quote/IREN/profile/",
       "query": "IREN Limited suppliers manufacturers",
       "snippet": "IREN Limited operates in the vertically integrated data center business in Australia and Canada. The company owns and operates computing hardware, as "
     },
@@ -55,13 +55,13 @@
       "source": "DuckDuckGo",
       "url": "https://www.investing.com/equities/iris-energy",
       "query": "IREN Limited major customers clients",
-      "snippet": "IREN Ltd stock price live, this page displays NASDAQ IREN stock exchange data. View the IREN premarket stock price ahead of the market session or asse"
+      "snippet": "View today's IREN Ltd stock price and latest IREN news and analysis. Create real-time notifications to follow any changes in the live stock price."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.benzinga.com/trading-ideas/movers/25/07/46671095/iren-shares-drop-after-jpmorgan-downgrade-on-valuation-concerns",
+      "url": "https://www.tickertape.in/us-stocks/iren-ltd-IREN-share-price",
       "query": "IREN Limited major customers clients",
-      "snippet": "Shares of IREN Limited (NASDAQ: IREN ) are trading lower Monday following a downgrade from JPMorgan, which lowered its rating on the stock from Overwe"
+      "snippet": "View the latest IREN Ltd ( IREN ) share price on Tickertape. Track charts, financials, 52-week range, performance and key data used to invest in US st"
     }
   ]
 }

@@ -3,35 +3,26 @@
   "company_name": "CrowdStrike Holdings, Inc.",
   "sector": "Technology / Software - Infrastructure",
   "industry": "Cybersecurity",
-  "upstream": [
-    "MSFT",
-    "AMZN",
-    "GOOGL",
-    "INTC",
-    "AMD"
-  ],
+  "upstream": [],
   "downstream": [
-    "Bank of America",
-    "Citigroup",
-    "Walmart",
-    "UnitedHealth",
-    "US Department of Defense"
+    "AMZN",
+    "NVDA"
   ],
   "competitors": [
     "Palo Alto Networks",
     "SentinelOne",
     "McAfee",
-    "Sophos",
-    "Trend Micro"
+    "Symantec",
+    "FireEye"
   ],
   "key_products": [
-    "CrowdStrike Falcon",
-    "Falcon Prevent",
+    "Falcon Platform",
+    "Falcon Endpoint Protection",
     "Falcon Insight",
-    "Falcon OverWatch",
-    "Falcon X"
+    "Falcon Prevent",
+    "Falcon Discover"
   ],
-  "extracted_at": "2026-03-04 16:36:07",
+  "extracted_at": "2026-03-05 17:59:10",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +32,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ru.wikipedia.org/wiki/CrowdStrike",
+      "url": "https://en.wikipedia.org/wiki/CrowdStrike",
       "query": "CrowdStrike Holdings, Inc. suppliers manufacturers",
-      "snippet": "CrowdStrike Holdings , Inc . Изображение логотипа. CrowdStrike Holdings , Inc . — компания, работающая в сфере информационной безопасности. Основана в"
+      "snippet": "CrowdStrike Holdings, Inc. is an American cybersecurity technology company based in Austin, Texas. It provides endpoint security, threat intelligence,"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/news/crowdstrike-defending-against-the-future-of-cyber-threats-and-leading-the-charge-in-financial-resilience2025-08-28120557",
+      "url": "https://www.crowdstrike.com/en-us/about-us/suppliers/doing-business-with-crowdstrike/",
       "query": "CrowdStrike Holdings, Inc. suppliers manufacturers",
-      "snippet": "Crowdstrike Holdings Inc Competitors Results. CrowdStrike Named a Leader in 2025 IDC MarketScape for Worldwide Incident Response Services'. In an era "
+      "snippet": "We're committed to developing successful business partnerships as we recognize the important role our suppliers play. Learn more and contact us."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ru.wikipedia.org/wiki/CrowdStrike",
+      "url": "https://ir.crowdstrike.com/news-releases/news-release-details/crowdstrike-honors-top-customers-and-partners-driving-innovation",
       "query": "CrowdStrike Holdings, Inc. major customers clients",
-      "snippet": "CrowdStrike Holdings , Inc . Изображение логотипа. CrowdStrike Holdings , Inc . — компания, работающая в сфере информационной безопасности. Основана в"
+      "snippet": "Sep 19, 2025 · Amazon Web Services (AWS) – Global Partner of the Year · NVIDIA – Global AI Partner of the Year · Accenture – Global Services Partner o"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/news/crowdstrike-raises-612-million-ipo-020636745.html",
+      "url": "https://www.crowdstrike.com/en-us/resources/customer-stories/",
       "query": "CrowdStrike Holdings, Inc. major customers clients",
-      "snippet": "(Bloomberg) -- Software maker CrowdStrike Holdings Inc . soared in its trading debut after raising $612 million in one of the biggest-ever initial pub"
+      "snippet": "People all over the world count on our customers to keep their businesses running, their communities safe, and their lives moving forward. Missing: Ho"
     }
   ]
 }

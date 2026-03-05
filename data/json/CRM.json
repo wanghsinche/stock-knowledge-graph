@@ -4,23 +4,23 @@
   "sector": "Technology",
   "industry": "Software - Application",
   "upstream": [
+    "Demandware Inc",
     "AMZN",
     "MSFT",
     "GOOGL",
-    "ORCL",
-    "CRM"
+    "ORCL"
   ],
   "downstream": [
     "AMZN",
-    "AAPL",
     "Coca‑Cola",
-    "HPQ",
-    "IBM"
+    "Toyota",
+    "Nike",
+    "Walmart"
   ],
   "competitors": [
     "MSFT",
     "ORCL",
-    "SAP Customer Experience",
+    "SAP SuccessFactors",
     "HubSpot",
     "Zoho CRM"
   ],
@@ -31,7 +31,7 @@
     "Commerce Cloud",
     "Einstein AI"
   ],
-  "extracted_at": "2026-03-04 16:38:40",
+  "extracted_at": "2026-03-05 17:57:18",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://login.salesforce.com/",
+      "url": "https://csimarket.com/stocks/CRM-Suppliers",
       "query": "Salesforce, Inc. suppliers manufacturers",
-      "snippet": "Salesforce Salesforce . 0 Saved Usernames Edit List. Save."
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/CRM-Shares-vs-Suppliers",
-      "query": "Salesforce, Inc. suppliers manufacturers",
-      "snippet": "Salesforce Inc Suppliers - financial insights and peer comparison. Salesforce Inc Competitors Results. CRM vs Competitors Stock Performance."
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Salesforce",
-      "query": "Salesforce, Inc. major customers clients",
-      "snippet": "Salesforce , Inc ., is an American cloud-based software company headquartered in San Francisco, California. It provides applications focused on sales "
+      "snippet": "Salesforce Inc supply chain, list and performance of Salesforce Incs ' suppliers - CSIMarket."
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.salesforce.com/",
+      "query": "Salesforce, Inc. suppliers manufacturers",
+      "snippet": "Demandware Inc ."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.salesforce.com/customer-stories/",
       "query": "Salesforce, Inc. major customers clients",
-      "snippet": "Salesforce Enterprise-grade CRM with deep reporting, sales operations, and..."
+      "snippet": "Discover how Salesforce helps 150,000+ companies increase productivity, customer loyalty, and sales revenue — every day."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.ibirdsservices.com/how-many-companies-use-salesforce-stats-growth-report/",
+      "query": "Salesforce, Inc. major customers clients",
+      "snippet": "Dec 26, 2025 · As of 2025, Salesforce is used by over 150,000 companies worldwide. Its customers include startups, mid-sized businesses, and more than"
     }
   ]
 }
