@@ -1,13 +1,37 @@
 {
   "ticker": "LITE",
   "company_name": "Lumentum Holdings Inc.",
-  "sector": "Technology",
-  "industry": "Communication Equipment",
-  "upstream": [],
-  "downstream": [],
-  "competitors": [],
-  "key_products": [],
-  "extracted_at": "2026-03-05 17:56:24",
+  "sector": "Technology / Communication Equipment",
+  "industry": "Photonics / Optical Communications",
+  "upstream": [
+    "Semiconductor wafer suppliers",
+    "Optical glass manufacturers",
+    "META",
+    "Laser diode manufacturers",
+    "Optical fiber component suppliers"
+  ],
+  "downstream": [
+    "AT&T",
+    "Verizon",
+    "CSCO",
+    "Huawei",
+    "Nokia"
+  ],
+  "competitors": [
+    "Coherent Inc.",
+    "IPG Photonics",
+    "Thorlabs",
+    "Lumenis",
+    "AdvanSix"
+  ],
+  "key_products": [
+    "Laser transmitters",
+    "Optical amplifiers",
+    "Optical transceivers",
+    "Photonic integrated circuits",
+    "Laser diodes"
+  ],
+  "extracted_at": "2026-03-06 16:31:38",
   "sources": [
     {
       "source": "Wikipedia",
@@ -17,15 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://markets.financialcontent.com/stocks/article/finterra-2026-3-2-lumentum-holdings-lite-the-optical-architecture-of-the-ai-supercycle",
+      "url": "https://www.lumentum.com/en/company/distributors",
       "query": "Lumentum Holdings Inc. suppliers manufacturers",
-      "snippet": "Conclusion. Lumentum Holdings Inc . has successfully navigated its transition from a legacy telecom supplier to a cornerstone of the AI era. By March "
+      "snippet": "Lumentum is a global leader in optical and photonic products, enabling high-bandwidth connectivity, precision sensing, and advanced manufacturing."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://siliconangle.com/2026/03/02/nvidia-invests-4b-co-packaged-optics-suppliers-lumentum-coherent/",
+      "url": "https://csimarket.com/stocks/LITE-Suppliers",
       "query": "Lumentum Holdings Inc. suppliers manufacturers",
-      "snippet": "Nvidia Corp. today announced plans to invest in Lumentum Holdings Inc . and Coherent Corp., two publicly traded suppliers of optical networking equipm"
+      "snippet": "Feb 9, 2026 · Lumentum Holdings Inc supply chain, list and performance of Lumentum Holdings Incs' suppliers - CSIMarket"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://de.investing.com/equities/lumentum-holdings-inc",
+      "query": "Lumentum Holdings Inc. major customers clients",
+      "snippet": "Lumentum Holdings Inc Aktie (NASDAQ: LITE) und aktueller Kurs 268,93 - dazu Charts, News, Termine und Kursziele zu Lumentum Holdings Inc ."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.benzinga.com/insights/options/26/01/49940402/what-the-options-market-tells-us-about-lumentum-holdings",
+      "query": "Lumentum Holdings Inc. major customers clients",
+      "snippet": "Lumentum Holdings Inc is a California-based technology firm.Having examined the options trading patterns of Lumentum Holdings , our attention now turn"
     }
   ]
 }

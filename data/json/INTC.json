@@ -4,10 +4,11 @@
   "sector": "Technology",
   "industry": "Semiconductors",
   "upstream": [
-    "MU",
-    "005930.KS",
     "TSM",
-    "GlobalFoundries"
+    "005930.KS",
+    "GlobalFoundries",
+    "ASE Technology Holding",
+    "MU"
   ],
   "downstream": [
     "DELL",
@@ -19,18 +20,18 @@
   "competitors": [
     "AMD",
     "NVDA",
-    "TSM",
+    "QCOM",
     "AVGO",
-    "QCOM"
+    "005930.KS"
   ],
   "key_products": [
     "Intel Core processors",
     "Intel Xeon processors",
-    "Intel Xe GPUs",
-    "Intel chipsets",
-    "Intel FPGAs (Stratix)"
+    "Intel Atom processors",
+    "Intel FPGAs (Stratix, Arria)",
+    "Intel AI accelerators (Xeon Phi, Habana Labs)"
   ],
-  "extracted_at": "2026-03-05 17:57:56",
+  "extracted_at": "2026-03-06 16:31:59",
   "sources": [
     {
       "source": "Wikipedia",
@@ -40,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/List_of_Intel_manufacturing_sites",
+      "url": "https://en.wikipedia.org/wiki/Intel",
       "query": "Intel Corporation suppliers manufacturers",
-      "snippet": "Intel is an American multinational corporation and technology company headquartered in Santa Clara, California. Processors are manufactured in semicon"
+      "snippet": "Intel Corporation is an American multinational technology company headquartered in Santa Clara, California. It designs, manufactures , and sells compu"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.intel.com/content/www/us/en/partner/showcase/partner-directory/distributor.html",
+      "url": "https://csimarket.com/stocks/INTC-Suppliers",
       "query": "Intel Corporation suppliers manufacturers",
-      "snippet": "Sell Intel® Products directly sourced from Intel as well as devices manufactured by OEMs"
+      "snippet": "Intel supply chain, list and performance of Intels' suppliers - CSIMarket. Intel 's Comment on Supply Chain. We use third-party foundries to manufactu"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Intel",
       "query": "Intel Corporation major customers clients",
-      "snippet": "Intel Corporation is an American multinational technology company headquartered in Santa Clara, California. ... largest customer, Apple. As of July 20"
+      "snippet": "Intel Corporation is an American multinational technology company headquartered in Santa Clara, California. It designs, manufactures, and sells comput"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.intel.com/content/www/us/en/customer-spotlight/overview.html",
+      "url": "https://www.benzinga.com/25/03/44469986/intel-targets-major-foundry-clients-in-new-strategy-to-revitalize-chip-design-says-ubs",
       "query": "Intel Corporation major customers clients",
-      "snippet": "Kibernetika Inc. Klas Telecom; Lancoo Group; Lanner Electronics Inc. LEADERG INC. Lecoo AI Technologies; LEX Computech; LIPS Corporation; Mamotech Co."
+      "snippet": "Intel Corp . (NASDAQ: INTC) is reportedly strategizing to rejuvenate its chip design and broaden its foundry business, with the potential of securing "
     }
   ]
 }

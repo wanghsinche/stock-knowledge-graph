@@ -4,18 +4,18 @@
   "sector": "Consumer Defensive",
   "industry": "Discount Stores",
   "upstream": [
-    "Tyson Foods",
-    "JBS",
-    "Cargill",
-    "Nestlé",
-    "PepsiCo"
+    "Food manufacturers (e.g., Tyson Foods, Tyson Fresh Meats)",
+    "Beverage producers (e.g., Diageo, Constellation Brands)",
+    "Apparel brands (e.g., Levi Strauss, Nike)",
+    "005930.KS",
+    "Household goods producers (e.g., Whirlpool, GE Appliances)"
   ],
   "downstream": [
-    "Individual consumers",
-    "Small businesses",
-    "Restaurants",
-    "Hotels",
-    "Healthcare facilities"
+    "American consumers (membership holders)",
+    "Corporate and small‑business customers",
+    "Online shoppers via Costco.com",
+    "International members in Canada, Mexico, and the UK",
+    "Local community groups and charities"
   ],
   "competitors": [
     "Walmart",
@@ -25,13 +25,13 @@
     "AMZN"
   ],
   "key_products": [
-    "Bulk groceries",
-    "Electronics",
-    "Apparel",
-    "Household goods",
-    "Organic produce"
+    "Bulk groceries and fresh produce",
+    "Meat and poultry",
+    "Dairy and cheese",
+    "Household goods and appliances",
+    "Electronics and apparel"
   ],
-  "extracted_at": "2026-03-05 18:01:15",
+  "extracted_at": "2026-03-06 16:33:12",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/COST-Suppliers",
+      "query": "Costco Wholesale Corporation suppliers manufacturers",
+      "snippet": "Dec 18, 2025 · Costco Wholesale 's Comment on Supply Chain We buy the majority of our merchandise directly from manufacturers and route it to a cross-"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.costco.com/f/-/vendor-inquiries",
+      "query": "Costco Wholesale Corporation suppliers manufacturers",
+      "snippet": "Nov 7, 2025 · Vendor Inquiries Prospective vendors of non-food or sundry items can contact the corporate office at the addresses below. Costco 's corp"
+    },
+    {
+      "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Costco",
-      "query": "Costco Wholesale Corporation suppliers manufacturers",
-      "snippet": "Costco Wholesale Corporation . Logo since 1997.Ken Kimble, Costco 's Vice President of Corporate Food and Sundries, condemned the use of monkey labor "
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://ru.wikipedia.org/wiki/Costco",
-      "query": "Costco Wholesale Corporation suppliers manufacturers",
-      "snippet": "Costco Wholesale Corporation — крупнейшая в мире сеть складов самообслуживания клубного типа. Пятое по величине продаж розничное торговое предприятие "
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.marketingscoop.com/consumer/costco-target-market-demographics/",
       "query": "Costco Wholesale Corporation major customers clients",
-      "snippet": "Apr 19, 2024 · But who exactly are these customers , and what makes them keep coming back to Costco? In this comprehensive article, we‘ll take a deep "
+      "snippet": "Costco Wholesale Corporation . Logo since 1997. Costco warehouse interior in Brampton, Ontario in Canada in 2021. Costco is a membership-only warehous"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://investor.costco.com/news/news-details/2025/Costco-Wholesale-Corporation-Reports-Fourth-Quarter-and-Fiscal-Year-2025-Operating-Results/default.aspx",
+      "url": "https://www.costco.com/",
       "query": "Costco Wholesale Corporation major customers clients",
-      "snippet": "Sep 25, 2025 · ISSAQUAH, Wash., Sept. 25, 2025 (GLOBE NEWSWIRE) - Costco Wholesale Corporation (“Costco” or the “Company”) (Nasdaq: COST) today announ"
+      "snippet": "official website of Costco Wholesale Corporation ."
     }
   ]
 }

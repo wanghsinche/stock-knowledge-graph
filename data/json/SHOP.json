@@ -1,14 +1,14 @@
 {
   "ticker": "SHOP",
   "company_name": "Shopify Inc.",
-  "sector": "Technology / Software - Application",
-  "industry": "E-commerce Platform",
+  "sector": "Technology",
+  "industry": "Software - Application",
   "upstream": [
     "AMZN",
-    "GOOGL",
     "MSFT",
-    "POS hardware manufacturers (e.g., Shopify Retail POS)",
-    "Cloud infrastructure providers"
+    "GOOGL",
+    "Stripe",
+    "PayPal"
   ],
   "downstream": [
     "TSLA",
@@ -19,19 +19,19 @@
   ],
   "competitors": [
     "BigCommerce",
-    "ADBE",
     "WooCommerce",
+    "Magento",
     "CRM",
     "Wix eCommerce"
   ],
   "key_products": [
-    "Shopify e-commerce platform",
-    "Shopify Payments",
+    "Shopify Platform",
     "Shopify POS",
+    "Shopify Payments",
     "Shopify Fulfillment Network",
-    "Shopify Capital"
+    "Shopify Plus"
   ],
-  "extracted_at": "2026-03-05 18:03:35",
+  "extracted_at": "2026-03-06 16:38:27",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,15 +41,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.shopify.com/blog/13975985-how-to-find-a-manufacturer-or-supplier-for-your-product-idea",
+      "url": "https://ru.wikipedia.org/wiki/Shopify",
       "query": "Shopify Inc. suppliers manufacturers",
-      "snippet": "Dec 1, 2025 · This guide walks you through finding a manufacturer or supplier for your product ideas, with advice for evaluating manufacturers , decid"
+      "snippet": "Shopify — интернет-компания, занимается разработкой программного обеспечения для онлайн и розничных магазинов. Штаб-квартира находится в Оттаве, Канад"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.hulkapps.com/blogs/shopify-hub/how-to-find-a-supplier-for-shopify-a-comprehensive-guide",
+      "url": "https://csimarket.com/stocks/suppliers_glance.php?code=SHOP",
       "query": "Shopify Inc. suppliers manufacturers",
-      "snippet": "This guide will walk you through the steps of finding a suitable supplier for your Shopify store, including tips on leveraging the Shopify App Store, "
+      "snippet": "Shopify Inc supply chain, list and performance of Shopify Incs ' suppliers - CSIMarket."
     },
     {
       "source": "DuckDuckGo",
@@ -61,7 +61,7 @@
       "source": "DuckDuckGo",
       "url": "https://www.shopify.com/",
       "query": "Shopify Inc. major customers clients",
-      "snippet": "Try Shopify free and start a business or grow an existing one. Get more than ecommerce software with tools to manage every part of your business.Raise"
+      "snippet": "Try Shopify free and start a business or grow an existing one.Photo of customer at plant retailer The Sill, paying for purchase by tapping phone to Sh"
     }
   ]
 }

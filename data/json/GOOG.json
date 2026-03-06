@@ -5,17 +5,17 @@
   "industry": "Internet Content & Information",
   "upstream": [
     "INTC",
-    "NVDA",
     "AMD",
-    "QCOM",
-    "005930.KS"
+    "NVDA",
+    "CSCO",
+    "DELL"
   ],
   "downstream": [
     "GOOGL",
     "GOOGL",
-    "Android device manufacturers",
-    "YouTube creators",
-    "GOOGL"
+    "GOOGL",
+    "GOOGL",
+    "Content creators (YouTube partners)"
   ],
   "competitors": [
     "MSFT",
@@ -28,10 +28,10 @@
     "Google Search",
     "YouTube",
     "Google Cloud Platform",
-    "Android",
-    "Google Ads"
+    "Google Ads",
+    "Android OS"
   ],
-  "extracted_at": "2026-03-05 17:55:56",
+  "extracted_at": "2026-03-06 16:31:27",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,21 +47,21 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/GOOG-Suppliers",
+      "url": "https://ru.wikipedia.org/wiki/Alphabet",
       "query": "Alphabet Inc. suppliers manufacturers",
-      "snippet": "Feb 6, 2026 · Alphabet Inc supply chain, list and performance of Alphabet Incs ' suppliers - CSIMarket"
+      "snippet": "Alphabet Inc . — холдинговая компания, управляющая компанией Google Inc и её дочерними структурами, а также рядом стартапов. Штаб-квартира расположена"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Alphabet_Inc.",
+      "url": "https://csimarket.com/stocks/GOOGL-Customers",
       "query": "Alphabet Inc. major customers clients",
-      "snippet": "Google, Internet services, largest subsidiary and prior corporate entity name, Sundar Pichai ; Google Fiber, Internet access: via fiber, Dinesh Jain ;"
+      "snippet": "Feb 9, 2026 · Alphabet Inc customers and markets, results by customer and performance relative to GOOGL, by company and industry - CSIMarket"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://portersfiveforce.com/blogs/target-market/abc",
+      "url": "https://swottemplate.com/blogs/target-market/abc-target-market",
       "query": "Alphabet Inc. major customers clients",
-      "snippet": "Nov 10, 2025 · Who Are Alphabet's Main Customers? Alphabet's customer segmentation is fundamentally split into B2C and B2B groups. The B2B segment now"
+      "snippet": "Jul 4, 2025 · This analysis of Alphabet target market and customer demographics is essential for investors, analysts, and anyone seeking to understand"
     }
   ]
 }

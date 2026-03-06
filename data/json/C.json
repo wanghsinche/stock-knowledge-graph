@@ -1,37 +1,37 @@
 {
   "ticker": "C",
   "company_name": "Citigroup Inc.",
-  "sector": "Financial Services / Banks - Diversified",
-  "industry": "Diversified Banks",
+  "sector": "Financial Services",
+  "industry": "Banks - Diversified",
   "upstream": [
     "MSFT",
-    "Consulting firms (Accenture, Deloitte)",
-    "Legal service providers",
-    "Insurance providers",
-    "Data analytics vendors"
+    "Data providers (e.g., Bloomberg, Refinitiv)",
+    "Payment processors (e.g., Visa, Mastercard)",
+    "Cybersecurity firms (e.g., Palo Alto Networks)",
+    "AMZN"
   ],
   "downstream": [
-    "AAPL",
-    "Government entities (U.S. Treasury)",
-    "Institutional investors (Pension funds)",
+    "Corporate clients (e.g., Fortune 500 companies)",
+    "Institutional investors (e.g., pension funds)",
     "Retail banking customers",
-    "Corporate clients"
+    "Government agencies",
+    "High‑net‑worth individuals"
   ],
   "competitors": [
     "JPMorgan Chase & Co.",
     "Bank of America Corp.",
+    "Wells Fargo & Co.",
     "Goldman Sachs Group Inc.",
-    "Morgan Stanley",
-    "Wells Fargo & Co."
+    "Morgan Stanley"
   ],
   "key_products": [
     "Investment banking services",
-    "Consumer banking & credit cards",
-    "Corporate banking & treasury services",
-    "Wealth management",
-    "Securities services"
+    "Consumer banking and credit cards",
+    "Wealth and asset management",
+    "Treasury and cash management",
+    "Global trade and securities services"
   ],
-  "extracted_at": "2026-03-02 16:43:36",
+  "extracted_at": "2026-03-06 16:37:03",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,15 +41,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Citigroup",
+      "url": "https://www.citigroup.com/global/suppliers/supplier-engagement-program",
       "query": "Citigroup Inc. suppliers manufacturers",
-      "snippet": "Citigroup Inc . or Citi is an American multinational investment bank and financial services company based in New York City. The company was formed in "
+      "snippet": "Supplier Engagement Suppliers provide significant value in helping Citi grow our business and support our clients. Procurement and Third-Party Managem"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.citigroup.com/rcs/citigpa/storage/public/Citi-Requirements-for-Suppliers-English.pdf",
+      "url": "https://csimarket.com/stocks/C-Suppliers",
       "query": "Citigroup Inc. suppliers manufacturers",
-      "snippet": "These Citi Requirements for Suppliers (“Requirements”) detail some of the obligations that Suppliers must meet in the course of doing business with Ci"
+      "snippet": "Feb 22, 2026 · Citigroup Inc supply chain, list and performance of Citigroup Incs' suppliers - CSIMarket"
     },
     {
       "source": "DuckDuckGo",
@@ -59,9 +59,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.appsruntheworld.com/customers-database/vendors/view/citigroup",
+      "url": "https://www.businesswire.com/news/home/20210407005046/en/Citi-Incorporates-ESG-Scores-into-Citi-VelocitySM-Clarity",
       "query": "Citigroup Inc. major customers clients",
-      "snippet": "List of companies using or evaluating Citigroup applications, with details on their revenues, employees, industries, and locations."
+      "snippet": "Citi has incorporated ESG (environmental, social and governance) scores into its securities services data platform, Citi VelocitySM Clarity, allowing "
     }
   ]
 }

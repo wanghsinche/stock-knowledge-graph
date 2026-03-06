@@ -1,28 +1,37 @@
 {
   "ticker": "CRWD",
   "company_name": "CrowdStrike Holdings, Inc.",
-  "sector": "Technology / Software - Infrastructure",
-  "industry": "Cybersecurity",
-  "upstream": [],
-  "downstream": [
+  "sector": "Technology",
+  "industry": "Software - Infrastructure",
+  "upstream": [
+    "MSFT",
     "AMZN",
-    "NVDA"
+    "GOOGL",
+    "VMware",
+    "CSCO"
+  ],
+  "downstream": [
+    "Walmart",
+    "JPMorgan Chase",
+    "Bank of America",
+    "U.S. Department of Defense",
+    "General Motors"
   ],
   "competitors": [
     "Palo Alto Networks",
     "SentinelOne",
-    "McAfee",
-    "Symantec",
-    "FireEye"
+    "Fortinet",
+    "Check Point Software",
+    "McAfee"
   ],
   "key_products": [
-    "Falcon Platform",
-    "Falcon Endpoint Protection",
-    "Falcon Insight",
+    "CrowdStrike Falcon Platform",
     "Falcon Prevent",
-    "Falcon Discover"
+    "Falcon Insight",
+    "Falcon OverWatch",
+    "Falcon X"
   ],
-  "extracted_at": "2026-03-05 17:59:10",
+  "extracted_at": "2026-03-06 16:35:58",
   "sources": [
     {
       "source": "Wikipedia",
@@ -34,25 +43,25 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/CrowdStrike",
       "query": "CrowdStrike Holdings, Inc. suppliers manufacturers",
-      "snippet": "CrowdStrike Holdings, Inc. is an American cybersecurity technology company based in Austin, Texas. It provides endpoint security, threat intelligence,"
+      "snippet": "CrowdStrike Holdings , Inc . is an American cybersecurity technology company based in Austin, Texas. It provides endpoint security, threat intelligenc"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.crowdstrike.com/en-us/about-us/suppliers/doing-business-with-crowdstrike/",
+      "url": "https://www.crowdstrike.com/en-us/about-us/suppliers/",
       "query": "CrowdStrike Holdings, Inc. suppliers manufacturers",
-      "snippet": "We're committed to developing successful business partnerships as we recognize the important role our suppliers play. Learn more and contact us."
+      "snippet": "CrowdStrike is committed to developing partnerships with a diverse range of suppliers who value quality and integrity in order to help us stop breache"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ir.crowdstrike.com/news-releases/news-release-details/crowdstrike-honors-top-customers-and-partners-driving-innovation",
+      "url": "https://ru.wikipedia.org/wiki/CrowdStrike",
       "query": "CrowdStrike Holdings, Inc. major customers clients",
-      "snippet": "Sep 19, 2025 · Amazon Web Services (AWS) – Global Partner of the Year · NVIDIA – Global AI Partner of the Year · Accenture – Global Services Partner o"
+      "snippet": "CrowdStrike Holdings , Inc . Изображение логотипа. CrowdStrike Holdings , Inc . — компания, работающая в сфере информационной безопасности. Основана в"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.crowdstrike.com/en-us/resources/customer-stories/",
+      "url": "https://seekingalpha.com/article/4877929-crowdstrike-holdings-inc-2026-q4-results-earnings-call-presentation",
       "query": "CrowdStrike Holdings, Inc. major customers clients",
-      "snippet": "People all over the world count on our customers to keep their businesses running, their communities safe, and their lives moving forward. Missing: Ho"
+      "snippet": "| Revenue of $1.31B (23.32% Y/Y) beats by $7.98M. The following slide deck was published by CrowdStrike Holdings , Inc . in conjunction with their 202"
     }
   ]
 }

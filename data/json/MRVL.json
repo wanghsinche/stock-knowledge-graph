@@ -8,30 +8,30 @@
     "005930.KS",
     "GlobalFoundries",
     "UMC",
-    "Tower Semiconductor"
+    "INTC"
   ],
   "downstream": [
-    "AAPL",
-    "CSCO",
-    "Huawei Technologies",
-    "DELL",
-    "MSFT"
+    "AMZN",
+    "MSFT",
+    "GOOGL",
+    "Huawei",
+    "CSCO"
   ],
   "competitors": [
     "AVGO",
     "QCOM",
     "INTC",
-    "NVDA",
-    "MediaTek Inc."
+    "MediaTek Inc.",
+    "NVDA"
   ],
   "key_products": [
-    "Storage controller chips",
-    "Ethernet and network processors",
-    "Wi‑Fi and Bluetooth chips",
-    "SoC solutions for servers",
-    "Embedded security processors"
+    "Ethernet controllers",
+    "Network processors",
+    "Storage controllers",
+    "Wi‑Fi 6/6E modules",
+    "5G modems"
   ],
-  "extracted_at": "2026-03-05 18:02:49",
+  "extracted_at": "2026-03-06 16:29:59",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,21 +47,21 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.marvell.com/company/sales.html",
+      "url": "https://www.marvell.com/",
       "query": "Marvell Technology, Inc. suppliers manufacturers",
-      "snippet": "Search below for a list of the nearest Marvell representatives, distributors and direct sales offices in your vicinity or submit our Request for Infor"
+      "snippet": "Designed for your current needs and future ambitions, Marvell delivers the data infrastructure technology transforming tomorrow’s enterprise, cloud, a"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Marvell_Technology",
       "query": "Marvell Technology, Inc. major customers clients",
-      "snippet": "Marvell Technology , Inc . is an American company, headquartered in Santa Clara, California, which develops and produces semiconductors and related te"
+      "snippet": "December 3, 2025 - Marvell also offered Customer Specific Standard Product (CSSP), where customer accelerators and interfaces could be integrated dire"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.marvell.com/",
       "query": "Marvell Technology, Inc. major customers clients",
-      "snippet": "Designed for your current needs and future ambitions, Marvell delivers the data infrastructure technology transforming tomorrow’s enterprise, cloud, a"
+      "snippet": "To realize the promise of AI, hyperscalers are undertaking one of the largest infrastructure buildouts in history—and they rely on Marvell as a critic"
     }
   ]
 }

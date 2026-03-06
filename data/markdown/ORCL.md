@@ -3,8 +3,8 @@ ticker: ORCL
 company: Oracle Corporation
 sector: Technology
 industry: Software - Infrastructure
-extracted_at: 2026-03-05 17:57:36
-last_updated: 2026-03-05
+extracted_at: 2026-03-06 16:31:07
+last_updated: 2026-03-06
 ---
 
 # ORCL - Oracle Corporation
@@ -12,22 +12,22 @@ last_updated: 2026-03-05
 ## 基本信息
 
 - **所属行业**: Technology / Software - Infrastructure
-- **提取时间**: 2026-03-05 17:57:36
+- **提取时间**: 2026-03-06 16:31:07
 
 ## 产业链关系
 
 ### 上游供应商
 - [[INTC]]
 - [[AMD]]
-- [[DELL]]
-- [[HPQ]]
 - [[CSCO]]
+- [[DELL]]
+- [[Hewlett‑Packard Enterprise]]
 
 ### 下游客户
-- [[MSFT]]
+- [[Bank of America]]
 - [[UnitedHealth Group]]
-- [[Citigroup]]
-- [[Edward Jones]]
+- [[General Motors]]
+- [[U.S. Department of Defense]]
 - [[Walmart]]
 
 ### 竞争对手
@@ -41,7 +41,7 @@ last_updated: 2026-03-05
 - [[Oracle Database]]
 - [[Oracle Cloud Infrastructure]]
 - [[Oracle Autonomous Database]]
-- [[Oracle E-Business Suite]]
+- [[Oracle E‑Business Suite]]
 - [[Oracle Fusion Middleware]]
 
 ## 数据来源
@@ -50,8 +50,8 @@ last_updated: 2026-03-05
 - [Oracle Corporation suppliers manufacturers](https://en.wikipedia.org/wiki/Oracle_Corporation)
 - [Oracle Corporation suppliers manufacturers](https://ru.wikipedia.org/wiki/Oracle)
 - [Oracle Corporation major customers clients](https://www.oracle.com/customers/)
-- [Oracle Corporation major customers clients](https://www.aventionmedia.com/technology-installed-base/oracle/)
+- [Oracle Corporation major customers clients](https://www.thomsondata.com/customer-base/oracle.php)
 
 ## 元数据
 
-- **更新日期**: 2026-03-05
+- **更新日期**: 2026-03-06

@@ -1,18 +1,18 @@
 ---
 ticker: TSLA
 company: Tesla, Inc.
-sector: Consumer Cyclical
+sector: Consumer Cyclical / Auto Manufacturers
 industry: Auto Manufacturers
-extracted_at: 2026-03-05 17:54:07
-last_updated: 2026-03-05
+extracted_at: 2026-03-06 16:28:57
+last_updated: 2026-03-06
 ---
 
 # TSLA - Tesla, Inc.
 
 ## 基本信息
 
-- **所属行业**: Consumer Cyclical / Auto Manufacturers
-- **提取时间**: 2026-03-05 17:54:07
+- **所属行业**: Consumer Cyclical / Auto Manufacturers / Auto Manufacturers
+- **提取时间**: 2026-03-06 16:28:57
 
 ## 产业链关系
 
@@ -25,33 +25,33 @@ last_updated: 2026-03-05
 
 ### 下游客户
 - [[Individual consumers]]
-- [[Fleet operators]]
-- [[Commercial businesses]]
-- [[Utility companies]]
-- [[Governments]]
+- [[Ride‑hailing fleets (Uber, Lyft)]]
+- [[Commercial fleet operators]]
+- [[Government agencies]]
+- [[Electric vehicle charging network operators]]
 
 ### 竞争对手
-- [[General Motors]]
 - [[Ford]]
+- [[General Motors]]
 - [[Volkswagen]]
-- [[Rivian]]
-- [[Lucid]]
+- [[Toyota]]
+- [[Hyundai]]
 
 ### 核心产品
-- [[Electric vehicles (Model S, 3, X, Y, Cybertruck)]]
-- [[Battery storage (Powerwall, Powerpack, Megapack)]]
-- [[Solar panels]]
-- [[Solar roof shingles]]
-- [[Related services (charging, software)]]
+- [[Model S]]
+- [[Model 3]]
+- [[Model X]]
+- [[Model Y]]
+- [[Powerwall]]
 
 ## 数据来源
 
 - [Tesla, Inc.](https://en.wikipedia.org/wiki/Tesla,_Inc.)
-- [Tesla, Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/Tesla,_Inc.)
-- [Tesla, Inc. suppliers manufacturers](https://csimarket.com/stocks/TSLA-Suppliers)
-- [Tesla, Inc. major customers clients](https://www.reuters.com/business/autos-transportation/teslas-brand-loyalty-collapsed-after-musk-backed-trump-data-shows-2025-08-04/)
-- [Tesla, Inc. major customers clients](https://matrixbcg.com/blogs/target-market/tesla)
+- [Tesla, Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/List_of_Tesla_factories)
+- [Tesla, Inc. suppliers manufacturers](https://www.investopedia.com/ask/answers/052815/who-are-teslas-tsla-main-suppliers.asp)
+- [Tesla, Inc. major customers clients](https://en.wikipedia.org/wiki/Tesla,_Inc.)
+- [Tesla, Inc. major customers clients](https://www.tesla.com/)
 
 ## 元数据
 
-- **更新日期**: 2026-03-05
+- **更新日期**: 2026-03-06

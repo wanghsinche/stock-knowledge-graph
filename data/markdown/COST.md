@@ -3,8 +3,8 @@ ticker: COST
 company: Costco Wholesale Corporation
 sector: Consumer Defensive
 industry: Discount Stores
-extracted_at: 2026-03-05 18:01:15
-last_updated: 2026-03-05
+extracted_at: 2026-03-06 16:33:12
+last_updated: 2026-03-06
 ---
 
 # COST - Costco Wholesale Corporation
@@ -12,23 +12,23 @@ last_updated: 2026-03-05
 ## 基本信息
 
 - **所属行业**: Consumer Defensive / Discount Stores
-- **提取时间**: 2026-03-05 18:01:15
+- **提取时间**: 2026-03-06 16:33:12
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Tyson Foods]]
-- [[JBS]]
-- [[Cargill]]
-- [[Nestlé]]
-- [[PepsiCo]]
+- [[Food manufacturers (e.g., Tyson Foods, Tyson Fresh Meats)]]
+- [[Beverage producers (e.g., Diageo, Constellation Brands)]]
+- [[Apparel brands (e.g., Levi Strauss, Nike)]]
+- [[005930.KS]]
+- [[Household goods producers (e.g., Whirlpool, GE Appliances)]]
 
 ### 下游客户
-- [[Individual consumers]]
-- [[Small businesses]]
-- [[Restaurants]]
-- [[Hotels]]
-- [[Healthcare facilities]]
+- [[American consumers (membership holders)]]
+- [[Corporate and small‑business customers]]
+- [[Online shoppers via Costco.com]]
+- [[International members in Canada, Mexico, and the UK]]
+- [[Local community groups and charities]]
 
 ### 竞争对手
 - [[Walmart]]
@@ -38,20 +38,20 @@ last_updated: 2026-03-05
 - [[AMZN]]
 
 ### 核心产品
-- [[Bulk groceries]]
-- [[Electronics]]
-- [[Apparel]]
-- [[Household goods]]
-- [[Organic produce]]
+- [[Bulk groceries and fresh produce]]
+- [[Meat and poultry]]
+- [[Dairy and cheese]]
+- [[Household goods and appliances]]
+- [[Electronics and apparel]]
 
 ## 数据来源
 
 - [Costco](https://en.wikipedia.org/wiki/Costco_Wholesale_Corporation)
-- [Costco Wholesale Corporation suppliers manufacturers](https://en.wikipedia.org/wiki/Costco)
-- [Costco Wholesale Corporation suppliers manufacturers](https://ru.wikipedia.org/wiki/Costco)
-- [Costco Wholesale Corporation major customers clients](https://www.marketingscoop.com/consumer/costco-target-market-demographics/)
-- [Costco Wholesale Corporation major customers clients](https://investor.costco.com/news/news-details/2025/Costco-Wholesale-Corporation-Reports-Fourth-Quarter-and-Fiscal-Year-2025-Operating-Results/default.aspx)
+- [Costco Wholesale Corporation suppliers manufacturers](https://csimarket.com/stocks/COST-Suppliers)
+- [Costco Wholesale Corporation suppliers manufacturers](https://www.costco.com/f/-/vendor-inquiries)
+- [Costco Wholesale Corporation major customers clients](https://en.wikipedia.org/wiki/Costco)
+- [Costco Wholesale Corporation major customers clients](https://www.costco.com/)
 
 ## 元数据
 
-- **更新日期**: 2026-03-05
+- **更新日期**: 2026-03-06

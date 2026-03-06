@@ -4,34 +4,34 @@
   "sector": "Energy",
   "industry": "Uranium",
   "upstream": [
-    "Uranium ore suppliers",
     "Mining equipment manufacturers",
-    "Drilling contractors",
-    "Geological survey firms",
-    "Exploration services"
+    "Drilling rig suppliers",
+    "Fuel suppliers",
+    "Engineering and construction firms",
+    "Materials suppliers"
   ],
   "downstream": [
     "Nuclear power plant operators",
-    "Nuclear utilities",
-    "Electricity generation companies",
-    "Nuclear fuel distributors",
+    "Electric utilities",
+    "Government nuclear agencies",
+    "Nuclear fuel cycle companies",
     "International nuclear regulators"
   ],
   "competitors": [
     "Kazatomprom",
+    "Orano",
+    "Uranium Energy Corp",
     "Energy Fuels Inc.",
-    "Uranium Energy Corp.",
-    "NexGen Energy Ltd.",
     "Uranium One"
   ],
   "key_products": [
-    "Uranium concentrate (U3O8)",
-    "Uranium fuel assemblies",
-    "Enriched uranium",
+    "Uranium ore",
     "Uranium hexafluoride (UF6)",
-    "Uranium fuel services"
+    "Enriched uranium fuel",
+    "Nuclear fuel assemblies",
+    "Uranium concentrate"
   ],
-  "extracted_at": "2026-03-05 18:04:31",
+  "extracted_at": "2026-03-06 16:40:59",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/Cameco",
+      "query": "Cameco Corporation suppliers manufacturers",
+      "snippet": "Cameco Corporation (formerly Canadian Mining and Energy Corporation ) is the world's largest publicly traded uranium company, based in Saskatoon, Sask"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.cameco.com/businesses",
+      "query": "Cameco Corporation suppliers manufacturers",
+      "snippet": "Businesses Cameco is one of the largest global providers of the fuel needed to power a safe, secure energy future. Utilities around the world rely on "
+    },
+    {
+      "source": "DuckDuckGo",
       "url": "https://www.cameco.com/",
-      "query": "Cameco Corporation suppliers manufacturers",
-      "snippet": "© 2026 Cameco Corp . Cameco is one of the largest global providers of the uranium fuel needed to power a safe, secure energy future."
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.cameco.com/about",
-      "query": "Cameco Corporation suppliers manufacturers",
-      "snippet": "Cameco is one of the largest global providers of the uranium fuel needed to power a safe, secure energy future.Our competitive position is based on ou"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.cameco.com/invest/markets/cameco-customers",
       "query": "Cameco Corporation major customers clients",
-      "snippet": "We sell uranium and fuel services directly to nuclear utilities around the world as uranium concentrates, UO 2 and UF 6, conversion services, or fuel "
+      "snippet": "© 2026 Cameco Corp . Cameco will play a pivotal role by providing Saskatchewan-mined uranium to help fuel the energy needs of India's growing populati"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/CCJ-Customers",
+      "url": "https://www.fool.ca/2026/03/02/comparing-uranium-stocks-cameco-and-nexgen-energy/",
       "query": "Cameco Corporation major customers clients",
-      "snippet": "3 days ago · For your research, we’ve provided 9 tables on Cameco Corporation corporate clients . You can find them in the navigation menu under Custo"
+      "snippet": "Cameco 's Stability and Strength: As Canada's largest uranium miner, Cameco offers predictable cash flow through long-term contracts and diversified i"
     }
   ]
 }

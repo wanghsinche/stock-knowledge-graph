@@ -3,11 +3,35 @@
   "company_name": "Micron Technology, Inc.",
   "sector": "Technology",
   "industry": "Semiconductors",
-  "upstream": [],
-  "downstream": [],
-  "competitors": [],
-  "key_products": [],
-  "extracted_at": "2026-03-05 17:54:53",
+  "upstream": [
+    "TSM",
+    "GlobalFoundries",
+    "INTC",
+    "005930.KS",
+    "SK Hynix"
+  ],
+  "downstream": [
+    "AAPL",
+    "MSFT",
+    "AMZN",
+    "GOOGL",
+    "DELL"
+  ],
+  "competitors": [
+    "005930.KS",
+    "SK Hynix",
+    "Nanya Technology",
+    "Kingmax",
+    "Kioxia"
+  ],
+  "key_products": [
+    "Dynamic Random-Access Memory (DRAM)",
+    "Flash memory (NAND)",
+    "Solid-State Drives (SSDs)",
+    "NOR flash memory",
+    "Memory modules for servers"
+  ],
+  "extracted_at": "2026-03-06 16:29:07",
   "sources": [
     {
       "source": "Wikipedia",
@@ -17,15 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.micron.com/sales-support/sales-network/find-a-manufacturer",
+      "url": "https://www.micron.com/sales-support/sales-network/authorized-distributors",
       "query": "Micron Technology, Inc. suppliers manufacturers",
-      "snippet": "Locate an authorized Micron manufacturer using our global sales network directory for reliable memory and storage solutions"
+      "snippet": "Learn about Micron 's presence around the globe, including a list of our distributors, branches and contact details."
     },
     {
       "source": "DuckDuckGo",
       "url": "https://csimarket.com/stocks/MU-Suppliers",
       "query": "Micron Technology, Inc. suppliers manufacturers",
-      "snippet": "Dec 21, 2025 · For your research, we’ve provided nine additional tables on Micron Technology Inc ’s suppliers . You can find them in the navigation me"
+      "snippet": "Dec 21, 2025 · Micron Technology Inc 's Suppliers recorded an increase in sales by 13.08 % year on year in Q4 2025, sequentially sales grew by 83.76 %"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/MU-Customers",
+      "query": "Micron Technology, Inc. major customers clients",
+      "snippet": "Micron Technology Inc customers and markets, results by customer and performance relative to MU, by company and industry - CSIMarket"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.trendforce.com/news/2025/06/26/news-micron-scales-up-hbm-to-four-major-gpuasic-clients-targets-24-market-share-by-year-end/",
+      "query": "Micron Technology, Inc. major customers clients",
+      "snippet": "Jun 26, 2025 · Notably, Micron said in its press release that it is now shipping high-volume HBM to four customers across both GPU and ASIC platforms."
     }
   ]
 }

@@ -3,8 +3,8 @@ ticker: SNDK
 company: SanDisk Corporation
 sector: Technology
 industry: Computer Hardware
-extracted_at: 2026-03-05 17:55:12
-last_updated: 2026-03-05
+extracted_at: 2026-03-06 16:29:43
+last_updated: 2026-03-06
 ---
 
 # SNDK - SanDisk Corporation
@@ -12,46 +12,44 @@ last_updated: 2026-03-05
 ## 基本信息
 
 - **所属行业**: Technology / Computer Hardware
-- **提取时间**: 2026-03-05 17:55:12
+- **提取时间**: 2026-03-06 16:29:43
 
 ## 产业链关系
 
 ### 上游供应商
-- [[005930.KS]]
 - [[MU]]
+- [[005930.KS]]
 - [[SK Hynix]]
-- [[Toshiba]]
+- [[Toshiba Memory]]
 - [[WDC]]
 
 ### 下游客户
-- [[Consumer electronics (smartphones, tablets, laptops)]]
-- [[Gaming consoles]]
-- [[Automotive electronics]]
-- [[Enterprise storage solutions]]
-- [[Cloud service providers]]
+- [[AAPL]]
+- [[MSFT]]
+- [[DELL]]
+- [[HPQ]]
+- [[Lenovo Group]]
 
 ### 竞争对手
-- [[005930.KS]]
-- [[MU]]
-- [[WDC]]
 - [[Kingston Technology]]
+- [[MU]]
+- [[Corsair]]
 - [[Lexar]]
+- [[PNY Technologies]]
 
 ### 核心产品
-- [[SD and microSD memory cards]]
+- [[Memory cards]]
 - [[USB flash drives]]
-- [[Solid‑state drives (SSDs)]]
-- [[External SSDs]]
-- [[Enterprise flash storage solutions]]
+- [[Solid-state drives]]
 
 ## 数据来源
 
 - [Sandisk](https://en.wikipedia.org/wiki/Sandisk_Corporation)
-- [Sandisk Corporation suppliers manufacturers](https://www.sandisk.com/company/distributors)
-- [Sandisk Corporation suppliers manufacturers](https://www.mouser.com/manufacturer/sandisk/)
-- [Sandisk Corporation major customers clients](https://ru.wikipedia.org/wiki/SanDisk)
-- [Sandisk Corporation major customers clients](https://www.sandisk.com/)
+- [Sandisk Corporation suppliers manufacturers](https://en.wikipedia.org/wiki/List_of_computer_hardware_manufacturers)
+- [Sandisk Corporation suppliers manufacturers](https://ru.wikipedia.org/wiki/SanDisk)
+- [Sandisk Corporation major customers clients](https://data.landbase.com/technology/sandisk/)
+- [Sandisk Corporation major customers clients](https://csimarket.com/stocks/SNDK-Customers)
 
 ## 元数据
 
-- **更新日期**: 2026-03-05
+- **更新日期**: 2026-03-06

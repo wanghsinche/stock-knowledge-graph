@@ -1,18 +1,18 @@
 ---
 ticker: CRWV
 company: CoreWeave, Inc.
-sector: Technology / Software - Infrastructure
-industry: Artificial Intelligence Cloud Computing
-extracted_at: 2026-03-05 18:02:38
-last_updated: 2026-03-05
+sector: Technology
+industry: Software - Infrastructure
+extracted_at: 2026-03-06 16:37:17
+last_updated: 2026-03-06
 ---
 
 # CRWV - CoreWeave, Inc.
 
 ## 基本信息
 
-- **所属行业**: Technology / Software - Infrastructure / Artificial Intelligence Cloud Computing
-- **提取时间**: 2026-03-05 18:02:38
+- **所属行业**: Technology / Software - Infrastructure
+- **提取时间**: 2026-03-06 16:37:17
 
 ## 产业链关系
 
@@ -20,29 +20,29 @@ last_updated: 2026-03-05
 - [[NVDA]]
 - [[AMD]]
 - [[INTC]]
-- [[GOOGL]]
-- [[AMZN]]
+- [[QCOM]]
+- [[005930.KS]]
 
 ### 下游客户
 - [[OpenAI]]
 - [[MSFT]]
-- [[AMZN]]
 - [[GOOGL]]
-- [[NVDA]]
+- [[AMZN]]
+- [[ADBE]]
 
 ### 竞争对手
-- [[Lambda]]
-- [[Cerebras]]
+- [[NVDA]]
 - [[GOOGL]]
-- [[AWS Inferentia]]
+- [[AMZN]]
 - [[MSFT]]
+- [[Paperspace]]
 
 ### 核心产品
-- [[GPU-based AI cloud infrastructure]]
-- [[GPU cluster management]]
-- [[AI workload acceleration]]
-- [[Custom GPU software stack]]
-- [[Cloud-based GPU services]]
+- [[GPU‑based AI cloud infrastructure]]
+- [[CoreWeave AI Hyperscaler]]
+- [[Chip management software]]
+- [[AI‑optimized virtual machines]]
+- [[GPU‑accelerated data analytics services]]
 
 ## 数据来源
 
@@ -54,4 +54,4 @@ last_updated: 2026-03-05
 
 ## 元数据
 
-- **更新日期**: 2026-03-05
+- **更新日期**: 2026-03-06

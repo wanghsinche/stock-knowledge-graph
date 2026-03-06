@@ -2,56 +2,56 @@
 ticker: UNH
 company: UnitedHealth Group Incorporated
 sector: Healthcare
-industry: Health Insurance / Health Care Services
-extracted_at: 2026-03-04 16:40:43
-last_updated: 2026-03-04
+industry: Healthcare Plans
+extracted_at: 2026-03-06 16:39:03
+last_updated: 2026-03-06
 ---
 
 # UNH - UnitedHealth Group Incorporated
 
 ## 基本信息
 
-- **所属行业**: Healthcare / Health Insurance / Health Care Services
-- **提取时间**: 2026-03-04 16:40:43
+- **所属行业**: Healthcare / Healthcare Plans
+- **提取时间**: 2026-03-06 16:39:03
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Medical device manufacturers]]
-- [[Pharmaceutical companies]]
-- [[Health technology vendors]]
-- [[Data analytics providers]]
-- [[IT infrastructure suppliers]]
+- [[Medtronic]]
+- [[Stryker]]
+- [[Boston Scientific]]
+- [[Cerner]]
+- [[IBM]]
 
 ### 下游客户
-- [[Large corporate employers]]
-- [[Government health programs (Medicare, Medicaid)]]
-- [[Small and medium‑size businesses]]
-- [[Individual consumers]]
-- [[Health care providers (hospitals, clinics)]]
+- [[MSFT]]
+- [[Government programs (Medicare, Medicaid)]]
+- [[Health care providers (e.g., Mayo Clinic, Cleveland Clinic)]]
+- [[Individual policyholders]]
+- [[Health plans (e.g., Blue Cross Blue Shield)]]
 
 ### 竞争对手
-- [[Anthem, Inc.]]
-- [[Aetna (CVS Health)]]
-- [[Cigna Corporation]]
-- [[Humana Inc.]]
 - [[Kaiser Permanente]]
+- [[Aetna]]
+- [[Cigna]]
+- [[Humana]]
+- [[Blue Cross Blue Shield]]
 
 ### 核心产品
-- [[UnitedHealthcare commercial health plans]]
-- [[Medicare Advantage plans]]
-- [[Medicaid managed care plans]]
+- [[UnitedHealthcare insurance plans]]
+- [[Optum health services]]
 - [[OptumRx pharmacy benefit management]]
-- [[OptumCare health services]]
+- [[OptumLabs data analytics]]
+- [[OptumInsight health IT solutions]]
 
 ## 数据来源
 
 - [UnitedHealth Group](https://en.wikipedia.org/wiki/UnitedHealth_Group_Incorporated)
-- [UnitedHealth Group Incorporated suppliers manufacturers](https://en.wikipedia.org/wiki/List_of_largest_companies_in_the_United_States_by_revenue)
-- [UnitedHealth Group Incorporated suppliers manufacturers](https://member.uhc.com/)
-- [UnitedHealth Group Incorporated major customers clients](https://finance.yahoo.com/news/believe-growth-potential-unitedhealth-group-144411092.html)
-- [UnitedHealth Group Incorporated major customers clients](https://capital.com/en-int/market-updates/unitedhealth-stock-forecast-02-03-2026)
+- [UnitedHealth Group Incorporated suppliers manufacturers](https://www.unitedhealthgroup.com/suppliers/information.html)
+- [UnitedHealth Group Incorporated suppliers manufacturers](https://csimarket.com/stocks/UNH-Suppliers)
+- [UnitedHealth Group Incorporated major customers clients](https://csimarket.com/stocks/UNH-Customers)
+- [UnitedHealth Group Incorporated major customers clients](https://www.unitedhealthgroup.com/uhg/businesses.html)
 
 ## 元数据
 
-- **更新日期**: 2026-03-04
+- **更新日期**: 2026-03-06

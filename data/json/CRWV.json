@@ -1,37 +1,37 @@
 {
   "ticker": "CRWV",
   "company_name": "CoreWeave, Inc.",
-  "sector": "Technology / Software - Infrastructure",
-  "industry": "Artificial Intelligence Cloud Computing",
+  "sector": "Technology",
+  "industry": "Software - Infrastructure",
   "upstream": [
     "NVDA",
     "AMD",
     "INTC",
-    "GOOGL",
-    "AMZN"
+    "QCOM",
+    "005930.KS"
   ],
   "downstream": [
     "OpenAI",
     "MSFT",
-    "AMZN",
     "GOOGL",
-    "NVDA"
+    "AMZN",
+    "ADBE"
   ],
   "competitors": [
-    "Lambda",
-    "Cerebras",
+    "NVDA",
     "GOOGL",
-    "AWS Inferentia",
-    "MSFT"
+    "AMZN",
+    "MSFT",
+    "Paperspace"
   ],
   "key_products": [
-    "GPU-based AI cloud infrastructure",
-    "GPU cluster management",
-    "AI workload acceleration",
-    "Custom GPU software stack",
-    "Cloud-based GPU services"
+    "GPU‑based AI cloud infrastructure",
+    "CoreWeave AI Hyperscaler",
+    "Chip management software",
+    "AI‑optimized virtual machines",
+    "GPU‑accelerated data analytics services"
   ],
-  "extracted_at": "2026-03-05 18:02:38",
+  "extracted_at": "2026-03-06 16:37:17",
   "sources": [
     {
       "source": "Wikipedia",
@@ -49,7 +49,7 @@
       "source": "DuckDuckGo",
       "url": "https://www.coreweave.com/about-us",
       "query": "CoreWeave, Inc. suppliers manufacturers",
-      "snippet": "CoreWeave is a cloud purpose-built for scaling, supporting, and accelerating GenAI. We’re a comprehensive platform and strategic partner designed to t"
+      "snippet": "About CoreWeave The AI Hyperscaler™ empowering the future CoreWeave is a cloud purpose-built for scaling, supporting, and accelerating GenAI. We’re a "
     },
     {
       "source": "DuckDuckGo",

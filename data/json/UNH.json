@@ -2,36 +2,36 @@
   "ticker": "UNH",
   "company_name": "UnitedHealth Group Incorporated",
   "sector": "Healthcare",
-  "industry": "Health Insurance / Health Care Services",
+  "industry": "Healthcare Plans",
   "upstream": [
-    "Medical device manufacturers",
-    "Pharmaceutical companies",
-    "Health technology vendors",
-    "Data analytics providers",
-    "IT infrastructure suppliers"
+    "Medtronic",
+    "Stryker",
+    "Boston Scientific",
+    "Cerner",
+    "IBM"
   ],
   "downstream": [
-    "Large corporate employers",
-    "Government health programs (Medicare, Medicaid)",
-    "Small and medium‑size businesses",
-    "Individual consumers",
-    "Health care providers (hospitals, clinics)"
+    "MSFT",
+    "Government programs (Medicare, Medicaid)",
+    "Health care providers (e.g., Mayo Clinic, Cleveland Clinic)",
+    "Individual policyholders",
+    "Health plans (e.g., Blue Cross Blue Shield)"
   ],
   "competitors": [
-    "Anthem, Inc.",
-    "Aetna (CVS Health)",
-    "Cigna Corporation",
-    "Humana Inc.",
-    "Kaiser Permanente"
+    "Kaiser Permanente",
+    "Aetna",
+    "Cigna",
+    "Humana",
+    "Blue Cross Blue Shield"
   ],
   "key_products": [
-    "UnitedHealthcare commercial health plans",
-    "Medicare Advantage plans",
-    "Medicaid managed care plans",
+    "UnitedHealthcare insurance plans",
+    "Optum health services",
     "OptumRx pharmacy benefit management",
-    "OptumCare health services"
+    "OptumLabs data analytics",
+    "OptumInsight health IT solutions"
   ],
-  "extracted_at": "2026-03-04 16:40:43",
+  "extracted_at": "2026-03-06 16:39:03",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/List_of_largest_companies_in_the_United_States_by_revenue",
+      "url": "https://www.unitedhealthgroup.com/suppliers/information.html",
       "query": "UnitedHealth Group Incorporated suppliers manufacturers",
-      "snippet": "There are also corporations having foundation in the United States, such as corporate headquarters, operational headquarters and independent subsidiar"
+      "snippet": "Supplier Community Portal At UnitedHealth Group , we search for suppliers that help us deliver best-in-class services to our customers. These partners"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://member.uhc.com/",
+      "url": "https://csimarket.com/stocks/UNH-Suppliers",
       "query": "UnitedHealth Group Incorporated suppliers manufacturers",
-      "snippet": "Tags: UnitedHealth Group UnitedHealthcare."
+      "snippet": "Sources: Unitedhealth Group Incorporated 's official press releases and regulatory filings; CSIMarket.com's supply -chain research; and the financial "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/news/believe-growth-potential-unitedhealth-group-144411092.html",
+      "url": "https://csimarket.com/stocks/UNH-Customers",
       "query": "UnitedHealth Group Incorporated major customers clients",
-      "snippet": "\"Shares of UnitedHealth Group Incorporated (NYSE:UNH) were purchased in the strategy during the quarter. UnitedHealth is the largest diversified manag"
+      "snippet": "Unitedhealth Group Incorporated customers and markets, results by customer and performance relative to UNH, by company and industry - CSIMarket"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://capital.com/en-int/market-updates/unitedhealth-stock-forecast-02-03-2026",
+      "url": "https://www.unitedhealthgroup.com/uhg/businesses.html",
       "query": "UnitedHealth Group Incorporated major customers clients",
-      "snippet": "UnitedHealth Group is a US-listed healthcare company whose shares have moved following its January results, which showed $447.6bn in 2025 revenue, rev"
+      "snippet": "UnitedHealth Group is a health care and well-being company with team members in two distinct and complementary businesses — Optum and UnitedHealthcare"
     }
   ]
 }

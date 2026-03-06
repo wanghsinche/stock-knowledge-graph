@@ -2,56 +2,56 @@
 ticker: ONDS
 company: Ondas Inc.
 sector: Technology / Communication Equipment
-industry: Private Wireless Networks / Autonomous Systems
-extracted_at: 2026-03-02 16:41:30
-last_updated: 2026-03-02
+industry: Autonomous Systems
+extracted_at: 2026-03-06 16:36:49
+last_updated: 2026-03-06
 ---
 
 # ONDS - Ondas Inc.
 
 ## 基本信息
 
-- **所属行业**: Technology / Communication Equipment / Private Wireless Networks / Autonomous Systems
-- **提取时间**: 2026-03-02 16:41:30
+- **所属行业**: Technology / Communication Equipment / Autonomous Systems
+- **提取时间**: 2026-03-06 16:36:49
 
 ## 产业链关系
 
 ### 上游供应商
-- [[QCOM]]
-- [[INTC]]
-- [[NVDA]]
-- [[AVGO]]
-- [[005930.KS]]
+- [[Sensor manufacturers]]
+- [[Electronics component suppliers]]
+- [[AI chip vendors]]
+- [[Battery and power system suppliers]]
+- [[Software platform providers]]
 
 ### 下游客户
-- [[Verizon]]
-- [[AT&T]]
-- [[T-Mobile]]
-- [[Ericsson]]
-- [[Huawei]]
+- [[Railroad operators]]
+- [[Utility companies]]
+- [[Oil and gas enterprises]]
+- [[Government agencies]]
+- [[Industrial automation customers]]
 
 ### 竞争对手
-- [[CSCO]]
-- [[Aruba Networks]]
-- [[Nokia]]
-- [[Huawei]]
-- [[JNPR]]
+- [[Boston Dynamics]]
+- [[Waymo]]
+- [[Aurora]]
+- [[NVDA]]
+- [[TSLA]]
 
 ### 核心产品
-- [[Private Wi‑Fi solutions]]
-- [[Autonomous system platforms]]
-- [[Edge computing modules]]
-- [[IoT connectivity]]
-- [[Network management software]]
+- [[Autonomous vehicle platforms]]
+- [[Robotic delivery systems]]
+- [[AI-powered navigation software]]
+- [[Sensor suite integrations]]
+- [[Fleet management solutions]]
 
 ## 数据来源
 
 - 
-- [Ondas Inc. suppliers manufacturers](https://www.ondas.com/)
-- [Ondas Inc. suppliers manufacturers](https://ir.ondas.com/press-releases/detail/184/one-of-the-worlds-largest-semiconductor-manufacturers)
-- [Ondas Inc. major customers clients](https://ca.finance.yahoo.com/quote/ONDS/)
-- [Ondas Inc. major customers clients](https://www.ondas.com/return-policy)
+- [Ondas Inc. suppliers manufacturers](https://ca.finance.yahoo.com/news/ondas-receives-20-million-initial-133000401.html)
+- [Ondas Inc. suppliers manufacturers](https://www.investing.com/news/company-news/ondas-appoints-mckinsey-partner-to-autonomous-systems-board-93CH-4544195)
+- [Ondas Inc. major customers clients](https://csimarket.com/stocks/ONDS-Customers)
+- [Ondas Inc. major customers clients](https://ir.ondas.com/)
 
 ## 元数据
 
-- **更新日期**: 2026-03-02
+- **更新日期**: 2026-03-06

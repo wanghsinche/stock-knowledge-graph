@@ -1,37 +1,37 @@
 {
   "ticker": "HOOD",
   "company_name": "Robinhood Markets, Inc.",
-  "sector": "Financial Services",
-  "industry": "Capital Markets",
+  "sector": "Financial Services / Capital Markets",
+  "industry": "Brokerage & Trading Services",
   "upstream": [
     "AMZN",
     "MSFT",
-    "Bloomberg",
+    "Bloomberg L.P.",
     "Refinitiv",
     "Stripe"
   ],
   "downstream": [
     "Retail investors",
-    "Institutional investors",
-    "High‑net‑worth individuals",
-    "Small businesses",
+    "High-net-worth individuals",
+    "Institutional traders",
+    "Day traders",
     "Crypto traders"
   ],
   "competitors": [
-    "E*TRADE",
     "Charles Schwab",
-    "Fidelity",
+    "Fidelity Investments",
     "TD Ameritrade",
-    "Interactive Brokers"
+    "Webull",
+    "SoFi Invest"
   ],
   "key_products": [
-    "Commission‑free stock trading",
+    "Commission-free stock trading",
+    "Robinhood Gold",
+    "Cash Management",
     "Options trading",
-    "Margin trading",
-    "Crypto trading",
-    "Robinhood Gold subscription"
+    "Cryptocurrency trading"
   ],
-  "extracted_at": "2026-03-05 17:56:56",
+  "extracted_at": "2026-03-06 16:32:44",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Robinhood_Markets",
+      "url": "https://csimarket.com/stocks/HOOD-Suppliers",
       "query": "Robinhood Markets, Inc. suppliers manufacturers",
-      "snippet": "Robinhood Markets , Inc . Robinhood Markets , Inc . is an American financial services company based in Menlo Park, California."
+      "snippet": "Aug 1, 2025 · Sources: Robinhood Markets Inc 's official press releases and regulatory filings; CSIMarket.com's supply -chain research; and the financ"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://robinhood.com/",
+      "url": "https://robinhood.com/us/en/about-us/",
       "query": "Robinhood Markets, Inc. suppliers manufacturers",
-      "snippet": "Trade stocks on Robinhood with commission-free investing & advanced trading tools. Access fractional shares, real-time market data, and more."
+      "snippet": "Sign-up for Robinhood , a pioneering commission-free investing and trading app that gives you more ways to make your money work harder."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Robinhood_Markets",
+      "url": "https://investingintheweb.com/brokers/robinhood-statistics/",
       "query": "Robinhood Markets, Inc. major customers clients",
-      "snippet": "Robinhood Markets , Inc . is an American financial services company based in Menlo Park, California. It provides an electronic trading platform that f"
+      "snippet": "Jan 2, 2026 · Robinhood revenues Robinhood generates revenues through transaction-based revenues, net interest revenues, and other revenues. Transacti"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.bbb.org/us/ca/palo-alto/profile/financial-services/robinhood-markets-inc-1216-417256/customer-reviews",
+      "url": "https://investors.robinhood.com/news-releases/news-release-details/robinhood-markets-inc-reports-january-2025-operating-data",
       "query": "Robinhood Markets, Inc. major customers clients",
-      "snippet": "Robinhood Markets , Inc . is NOT a BBB Accredited Business. To become accredited, a business must agree to BBB Standards for Trust and pass BBB's vett"
+      "snippet": "Feb 14, 2025 · February 14, 2025 PDF Version MENLO PARK, Calif., Feb. 14, 2025 (GLOBE NEWSWIRE) -- Robinhood Markets , Inc . (“ Robinhood ”) (NASDAQ: "
     }
   ]
 }

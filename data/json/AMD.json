@@ -7,31 +7,31 @@
     "TSM",
     "005930.KS",
     "GlobalFoundries",
-    "UMC",
-    "SMIC"
+    "ASE Technology Holding",
+    "Amkor Technology"
   ],
   "downstream": [
-    "MSFT",
-    "SONY",
     "DELL",
     "HPQ",
-    "Lenovo"
+    "Lenovo",
+    "MSFT",
+    "SONY"
   ],
   "competitors": [
     "INTC",
     "NVDA",
     "QCOM",
     "AVGO",
-    "MU"
+    "ARM Holdings"
   ],
   "key_products": [
     "Ryzen CPUs",
-    "EPYC CPUs",
+    "EPYC Servers",
     "Radeon GPUs",
-    "Xilinx FPGAs",
-    "SoCs"
+    "Radeon Instinct",
+    "Radeon Pro"
   ],
-  "extracted_at": "2026-03-05 17:55:47",
+  "extracted_at": "2026-03-06 16:30:56",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/List_of_system_on_a_chip_suppliers",
-      "query": "Advanced Micro Devices, Inc. suppliers manufacturers",
-      "snippet": "The following is a list of system-on-a-chip suppliers . Actions Semiconductor Advanced Micro Devices (AMD) Advanced Semiconductor Engineering (ASE) Al"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/AMD-Suppliers",
-      "query": "Advanced Micro Devices, Inc. suppliers manufacturers",
-      "snippet": "Feb 9, 2026 · Advanced Micro Devices Inc supply chain, list and performance of Advanced Micro Devices Incs ' suppliers - CSIMarket"
-    },
-    {
-      "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/AMD",
-      "query": "Advanced Micro Devices, Inc. major customers clients",
-      "snippet": "AMD serves a wide range of business and consumer markets, including personal computers (PCs), gaming, data centers, and embedded systems. Advanced Mic"
+      "query": "Advanced Micro Devices, Inc. suppliers manufacturers",
+      "snippet": "Advanced Micro Devices , Inc . Advanced Micro Devices , Inc . ( AMD ) is an American multinational semiconductor company headquartered in Santa Clara,"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.trefis.com/data/companies/AMD?source=forbes",
+      "url": "https://www.britannica.com/money/Advanced-Micro-Devices-Inc",
+      "query": "Advanced Micro Devices, Inc. suppliers manufacturers",
+      "snippet": "Advanced Micro Devices , Inc . ( AMD ) is an American semiconductor designer and global supplier of computing and graphics technologies used in data c"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/AMD-Customers",
       "query": "Advanced Micro Devices, Inc. major customers clients",
-      "snippet": "3 days ago · Major Customers of Advanced Micro Devices (AMD):. Microsoft Corporation (Symbol: MSFT). Provides custom Accelerated Processing Units (APU"
+      "snippet": "2 days ago · Advanced Micro Devices Inc customers and markets, results by customer and performance relative to AMD, by company and industry - CSIMarke"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://ir.amd.com/financial-information/sec-filings/content/0001193125-25-067185/0001193125-25-067185.pdf",
+      "query": "Advanced Micro Devices, Inc. major customers clients",
+      "snippet": "With our high-performance product portfolios, we deliver differentiated solutions, such as our semi-custom System-on-Chip (SoCs), Adaptive SoCs, and a"
     }
   ]
 }

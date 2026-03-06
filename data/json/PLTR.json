@@ -4,22 +4,22 @@
   "sector": "Technology",
   "industry": "Software - Infrastructure",
   "upstream": [
-    "Trinity Industries",
-    "MSFT",
     "AMZN",
+    "MSFT",
     "GOOGL",
-    "IBM"
+    "IBM",
+    "DELL"
   ],
   "downstream": [
     "U.S. Department of Defense",
     "INTC",
-    "U.S. Federal Bureau of Investigation",
-    "Major Fortune 500 corporations",
-    "International government agencies"
+    "Law Enforcement Agencies",
+    "Financial Institutions",
+    "Healthcare Providers"
   ],
   "competitors": [
     "IBM",
-    "SAS Institute",
+    "SAS",
     "ORCL",
     "MSFT",
     "Snowflake"
@@ -27,9 +27,11 @@
   "key_products": [
     "Gotham",
     "Foundry",
-    "Apollo"
+    "Palantir Apollo",
+    "Palantir Platform",
+    "Palantir Data Integration"
   ],
-  "extracted_at": "2026-03-05 17:55:25",
+  "extracted_at": "2026-03-06 16:30:25",
   "sources": [
     {
       "source": "Wikipedia",
@@ -45,21 +47,21 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.palantir.com/offerings/procurement/",
+      "url": "https://csimarket.com/stocks/PLTR-Suppliers",
       "query": "Palantir Technologies Inc. suppliers manufacturers",
-      "snippet": "With billions of dollars worth of materials being procured by Trinity Industries each year, the legacy rail company leverages Palantir to revolutioniz"
+      "snippet": "Feb 19, 2026 · Sources: Palantir Technologies Inc 's official press releases and regulatory filings; CSIMarket.com's supply-chain research; and the fi"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/news/palantir-isnt-adding-many-customers-013107617.html",
+      "url": "https://www.marketwatch.com/investing/stock/pltr",
       "query": "Palantir Technologies Inc. major customers clients",
-      "snippet": "Feb 4, 2026 · Palantir Isn't Adding Many New Customers — Existing Clients Are Spending Much More, CEO Alex Karp Says: 'AI Has Just Put Gasoline On All"
+      "snippet": "PLTR | Complete Palantir Technologies Inc . stock news by MarketWatch. Palantir Technologies , Inc . engages in the business of building and deploying"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.designgurus.io/answers/detail/who-are-the-main-customers-of-palantir",
+      "url": "https://www.youtube.com/watch?v=dRgPbNJ5RJc",
       "query": "Palantir Technologies Inc. major customers clients",
-      "snippet": "Nov 28, 2024 · Palantir's government clients include defense, intelligence, and civil agencies: U.S. Government Agencies: Palantir has collaborated wi"
+      "snippet": "A conversation with Alex Karp, CEO and Co-Founder of Palantir Technologies .Speakers: Alex Karp, Laurence D. FinkThe 56th Annual Meeting of the World "
     }
   ]
 }

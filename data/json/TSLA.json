@@ -1,7 +1,7 @@
 {
   "ticker": "TSLA",
   "company_name": "Tesla, Inc.",
-  "sector": "Consumer Cyclical",
+  "sector": "Consumer Cyclical / Auto Manufacturers",
   "industry": "Auto Manufacturers",
   "upstream": [
     "Panasonic",
@@ -12,26 +12,26 @@
   ],
   "downstream": [
     "Individual consumers",
-    "Fleet operators",
-    "Commercial businesses",
-    "Utility companies",
-    "Governments"
+    "Ride‑hailing fleets (Uber, Lyft)",
+    "Commercial fleet operators",
+    "Government agencies",
+    "Electric vehicle charging network operators"
   ],
   "competitors": [
-    "General Motors",
     "Ford",
+    "General Motors",
     "Volkswagen",
-    "Rivian",
-    "Lucid"
+    "Toyota",
+    "Hyundai"
   ],
   "key_products": [
-    "Electric vehicles (Model S, 3, X, Y, Cybertruck)",
-    "Battery storage (Powerwall, Powerpack, Megapack)",
-    "Solar panels",
-    "Solar roof shingles",
-    "Related services (charging, software)"
+    "Model S",
+    "Model 3",
+    "Model X",
+    "Model Y",
+    "Powerwall"
   ],
-  "extracted_at": "2026-03-05 17:54:07",
+  "extracted_at": "2026-03-06 16:28:57",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Tesla,_Inc.",
+      "url": "https://en.wikipedia.org/wiki/List_of_Tesla_factories",
       "query": "Tesla, Inc. suppliers manufacturers",
+      "snippet": "List of Tesla factories Robotic manufacturing of the Model S at the Tesla Factory in Fremont, California Tesla, Inc . manufactures their products worl"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.investopedia.com/ask/answers/052815/who-are-teslas-tsla-main-suppliers.asp",
+      "query": "Tesla, Inc. suppliers manufacturers",
+      "snippet": "Nov 4, 2025 · Discover Tesla's key and rumored parts suppliers . Learn which companies provide essential components for Tesla's electric vehicles and "
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/Tesla,_Inc.",
+      "query": "Tesla, Inc. major customers clients",
       "snippet": "Tesla , Inc . is an American multinational automotive and clean energy company. Tesla was incorporated in July 2003 by Martin Eberhard and Marc Tarpen"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/TSLA-Suppliers",
-      "query": "Tesla, Inc. suppliers manufacturers",
-      "snippet": "Tesla Inc 's Suppliers Performance. TSLA's Supply Chain. Tesla relies on a wide range of suppliers beyond just battery manufacturers to build our elec"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.reuters.com/business/autos-transportation/teslas-brand-loyalty-collapsed-after-musk-backed-trump-data-shows-2025-08-04/",
+      "url": "https://www.tesla.com/",
       "query": "Tesla, Inc. major customers clients",
-      "snippet": "Aug 4, 2025 · Brands that now attract more Tesla customers than they lose to Tesla include Rivian, Polestar, Porsche and Cadillac, the data show."
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://matrixbcg.com/blogs/target-market/tesla",
-      "query": "Tesla, Inc. major customers clients",
-      "snippet": "Dec 7, 2025 · Primary Customer Segments: Affluent, tech-savvy, environmentally conscious consumers. · Median Age: 48 in 2025, with Model S owners aver"
+      "snippet": "Tesla is building a world of amazing abundance with AI, electric cars, solar, home batteries and integrated renewable energy solutions for homes and b"
     }
   ]
 }

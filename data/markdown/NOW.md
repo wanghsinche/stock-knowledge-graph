@@ -3,8 +3,8 @@ ticker: NOW
 company: ServiceNow, Inc.
 sector: Technology
 industry: Software - Application
-extracted_at: 2026-03-05 17:57:28
-last_updated: 2026-03-05
+extracted_at: 2026-03-06 16:32:28
+last_updated: 2026-03-06
 ---
 
 # NOW - ServiceNow, Inc.
@@ -12,7 +12,7 @@ last_updated: 2026-03-05
 ## 基本信息
 
 - **所属行业**: Technology / Software - Application
-- **提取时间**: 2026-03-05 17:57:28
+- **提取时间**: 2026-03-06 16:32:28
 
 ## 产业链关系
 
@@ -26,16 +26,16 @@ last_updated: 2026-03-05
 ### 下游客户
 - [[Walmart]]
 - [[JPMorgan Chase]]
+- [[AT&T]]
 - [[Coca‑Cola]]
 - [[Bank of America]]
-- [[UnitedHealth Group]]
 
 ### 竞争对手
 - [[CRM]]
 - [[MSFT]]
 - [[SAP SuccessFactors]]
 - [[ORCL]]
-- [[Workday]]
+- [[IBM]]
 
 ### 核心产品
 - [[ServiceNow Platform]]
@@ -48,10 +48,10 @@ last_updated: 2026-03-05
 
 - [ServiceNow](https://en.wikipedia.org/wiki/ServiceNow,_Inc.)
 - [ServiceNow, Inc. suppliers manufacturers](https://www.servicenow.com/company/supplier.html)
-- [ServiceNow, Inc. suppliers manufacturers](https://itcompanies.net/blog/top-servicenow-partners)
-- [ServiceNow, Inc. major customers clients](https://data.landbase.com/technology/servicenow/)
-- [ServiceNow, Inc. major customers clients](https://www.aventionmedia.com/technology-installed-base/servicenow/)
+- [ServiceNow, Inc. suppliers manufacturers](https://csimarket.com/stocks/NOW-Suppliers)
+- [ServiceNow, Inc. major customers clients](https://finviz.com/quote.ashx?t=NOW&ty=rv&p=m)
+- [ServiceNow, Inc. major customers clients](https://www.marketwatch.com/story/servicenow-inc-stock-underperforms-friday-when-compared-to-competitors-5cef831b-c188538359b1)
 
 ## 元数据
 
-- **更新日期**: 2026-03-05
+- **更新日期**: 2026-03-06

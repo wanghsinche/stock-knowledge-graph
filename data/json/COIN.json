@@ -6,15 +6,15 @@
   "upstream": [
     "AMZN",
     "MSFT",
-    "GOOGL",
     "Stripe",
-    "PayPal"
+    "PayPal",
+    "GOOGL"
   ],
   "downstream": [
     "Retail cryptocurrency traders",
     "Institutional investors",
     "Crypto funds",
-    "DeFi platforms",
+    "DeFi projects",
     "NFT marketplaces"
   ],
   "competitors": [
@@ -22,16 +22,16 @@
     "Kraken",
     "Gemini",
     "Bitstamp",
-    "Bittrex"
+    "Bitfinex"
   ],
   "key_products": [
+    "Coinbase Exchange",
     "Coinbase Pro",
     "Coinbase Wallet",
-    "Coinbase Custody",
     "Coinbase Earn",
-    "Coinbase Card"
+    "Coinbase Custody"
   ],
-  "extracted_at": "2026-03-05 17:57:09",
+  "extracted_at": "2026-03-06 16:33:22",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Coinbase",
+      "url": "https://www.coinbase.com/vendors/vendors-at-coinbase-code-of-conduct",
       "query": "Coinbase Global, Inc. suppliers manufacturers",
+      "snippet": "This information is the property of Coinbase, or the property of Coinbase’s suppliers , customers, or business partners, and in many cases was develop"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://fintel.io/doc/sec-coinbase-global-inc-1679788-ex211-2024-february-15-19768-5823",
+      "query": "Coinbase Global, Inc. suppliers manufacturers",
+      "snippet": "Coinbase Global , Inc . - List of Subsidiaries of the Registrant - EX-21.1 - February 15, 2024 COIN / Coinbase Global , Inc . Filings Coinbase Global "
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/Coinbase",
+      "query": "Coinbase Global, Inc. major customers clients",
       "snippet": "Coinbase Global , Inc . is an American cryptocurrency exchange. It was founded in 2012 by Brian Armstrong and Fred Ehrsam."
     },
     {
       "source": "DuckDuckGo",
       "url": "https://ru.wikipedia.org/wiki/Coinbase",
-      "query": "Coinbase Global, Inc. suppliers manufacturers",
+      "query": "Coinbase Global, Inc. major customers clients",
       "snippet": "Coinbase Global , Inc . (бренд Coinbase ) — американская публичная компания, которая управляет онлайн-сервисом обмена цифровых валют (биржей криптовал"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Coinbase",
-      "query": "Coinbase Global, Inc. major customers clients",
-      "snippet": "Coinbase has over 100 million users, [7] and is the largest US based cryptocurrency exchange as well as the world's biggest bitcoin custodian. Missing"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://portersfiveforce.com/blogs/target-market/coinbase",
-      "query": "Coinbase Global, Inc. major customers clients",
-      "snippet": "Dec 1, 2025 · Coinbase effectively segments its customer base into two distinct primary groups: retail consumers and institutional clients. The instit"
     }
   ]
 }

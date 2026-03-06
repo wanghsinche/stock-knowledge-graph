@@ -2,36 +2,36 @@
   "ticker": "CRCL",
   "company_name": "Circle Internet Group, Inc.",
   "sector": "Financial Services",
-  "industry": "Payments Technology / Stablecoin Issuance",
+  "industry": "Capital Markets",
   "upstream": [
-    "Blockchain infrastructure providers",
-    "Cloud service providers (e.g., AWS, Azure)",
+    "Blockchain infrastructure providers (e.g., Ethereum, Bitcoin)",
+    "MSFT",
     "Payment processors (e.g., Stripe, PayPal)",
-    "Regulatory compliance and audit firms",
-    "CAT"
+    "Financial data providers (Bloomberg, Refinitiv)",
+    "Regulatory compliance and legal services"
   ],
   "downstream": [
-    "Cryptocurrency exchanges (e.g., Coinbase, Binance)",
-    "Payment platforms (e.g., PayPal, Square)",
-    "Financial institutions using stablecoins",
-    "E‑commerce merchants integrating Circle Pay",
-    "Tokenized asset platforms"
+    "Financial institutions (banks, credit unions)",
+    "Retail merchants and e‑commerce platforms",
+    "Crypto exchanges and trading platforms",
+    "Enterprise businesses using digital currency solutions",
+    "Individual consumers via Circle Pay"
   ],
   "competitors": [
-    "Paxos",
-    "Gemini",
-    "Digital Currency Group",
     "Coinbase",
-    "Binance"
+    "PayPal",
+    "Square (Block)",
+    "Stripe",
+    "Revolut"
   ],
   "key_products": [
     "USDC stablecoin",
     "EURC stablecoin",
-    "USYC tokenized money‑market fund",
-    "Circle Pay payment solution",
-    "Circle API for digital currency integration"
+    "USYC tokenized money market fund",
+    "Circle Pay",
+    "Circle Invest"
   ],
-  "extracted_at": "2026-03-05 17:59:34",
+  "extracted_at": "2026-03-06 16:35:29",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.circle.com/",
-      "query": "Circle Internet Group suppliers manufacturers",
-      "snippet": "Circle (NYSE: CRCL) enables businesses to leverage digital currencies and public blockchains for payments, commerce and financial applications worldwi"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/news/circle-internet-group-q4-earnings-030848252.html",
-      "query": "Circle Internet Group suppliers manufacturers",
-      "snippet": "Circle Internet Group (NYSE:CRCL) executives highlighted rapid growth in USDC circulation and transaction activity, expanding product lines, and impro"
-    },
-    {
-      "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Circle_Internet_Group",
-      "query": "Circle Internet Group major customers clients",
+      "query": "Circle Internet Group suppliers manufacturers",
       "snippet": "Circle (legally Circle Internet Group , Inc.[2]) is a payments technology company. Funded by Jeremy Allaire and Sean Neville in 2013, [3][4] it is cur"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.appsruntheworld.com/customers-database/vendors/view/circle-internet-group",
+      "url": "https://investor.circle.com/overview/default.aspx",
+      "query": "Circle Internet Group suppliers manufacturers",
+      "snippet": "Jan 21, 2026 · Circle Investor Relations Circle is a global financial technology firm that enables businesses of all sizes to harness the power of dig"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.circle.com/",
       "query": "Circle Internet Group major customers clients",
-      "snippet": "List of companies using or evaluating Circle Internet Group applications, with details on their revenues, employees, industries, and locations."
+      "snippet": "Circle (NYSE: CRCL) enables businesses to leverage digital currencies and public blockchains for payments, commerce and financial applications worldwi"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.insidermonkey.com/blog/mizuho-raises-its-price-target-on-circle-internet-group-crcl-to-100-and-maintains-a-neutral-rating-1709937/",
+      "query": "Circle Internet Group major customers clients",
+      "snippet": "On February 25, 2026, Circle Internet Group (NYSE:CRCL) reported Q4 EPS of 43c, compared with consensus estimates of 25c. The company reported Q4 reve"
     }
   ]
 }

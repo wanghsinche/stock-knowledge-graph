@@ -7,31 +7,31 @@
     "TSM",
     "005930.KS",
     "GlobalFoundries",
-    "INTC",
-    "MU"
+    "UMC",
+    "SMIC"
   ],
   "downstream": [
-    "005930.KS",
     "CSCO",
     "DELL",
     "HPQ",
-    "Lenovo"
+    "AMZN",
+    "MSFT"
   ],
   "competitors": [
-    "QCOM",
     "INTC",
+    "QCOM",
     "NVDA",
-    "MRVL",
+    "AMD",
     "TXN"
   ],
   "key_products": [
-    "Wi‑Fi chips",
     "Ethernet controllers",
+    "Wi‑Fi chips",
     "Broadband modems",
-    "5G modems",
-    "Storage controllers"
+    "Storage controllers",
+    "Network processors"
   ],
-  "extracted_at": "2026-03-05 17:54:16",
+  "extracted_at": "2026-03-06 16:29:18",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,25 +43,25 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Broadcom",
       "query": "Broadcom Inc. suppliers manufacturers",
-      "snippet": "Broadcom Inc. is an American multinational designer, developer, manufacturer, and global supplier of a wide range of semiconductor and infrastructure "
+      "snippet": "2 weeks ago - Broadcom also offers products for supporting BizOps, including: ... Broadcom uses the term XPU to refer to custom ASIC chips developed i"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.broadcom.com/products",
+      "url": "https://en.wikipedia.org/wiki/Broadcom_Corporation",
       "query": "Broadcom Inc. suppliers manufacturers",
-      "snippet": "Broadcom's diverse product portfolio includes leading semiconductor and infrastructure software solutions."
+      "snippet": "December 24, 2025 - It outsources all semiconductor manufacturing to foundries, such as GlobalFoundries, Semiconductor Manufacturing International Cor"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.trendforce.com/news/2026/03/05/news-broadcom-reportedly-eyes-100b-ai-chip-revenue-in-2027-backed-by-six-key-clients-including-google-meta/",
+      "url": "https://en.wikipedia.org/wiki/Broadcom",
       "query": "Broadcom Inc. major customers clients",
-      "snippet": "17 hours ago · News Please note that this article cites information from Reuter, CNBC and Broadcom . As major tech firms accelerate in-house chip deve"
+      "snippet": "2 weeks ago - Broadcom also offers products for supporting BizOps, including: ... Broadcom uses the term XPU to refer to custom ASIC chips developed i"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/AVGO-Customers",
+      "url": "https://www.appsruntheworld.com/customers-database/vendors/view/broadcom",
       "query": "Broadcom Inc. major customers clients",
-      "snippet": "Sales to our five largest customers represented 48.3%. Sales to Samsung represented 21.3%. Sales to Apple represented 13.3%."
+      "snippet": "5 days ago - The most widely adopted products are Broadcom Symantec Secure Web Gateway, AppWorx Workload Automation, Broadcom Symantec Endpoint Protec"
     }
   ]
 }

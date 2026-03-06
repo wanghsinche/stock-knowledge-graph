@@ -4,34 +4,32 @@
   "sector": "Technology",
   "industry": "Computer Hardware",
   "upstream": [
-    "005930.KS",
     "MU",
+    "005930.KS",
     "SK Hynix",
-    "Toshiba",
+    "Toshiba Memory",
     "WDC"
   ],
   "downstream": [
-    "Consumer electronics (smartphones, tablets, laptops)",
-    "Gaming consoles",
-    "Automotive electronics",
-    "Enterprise storage solutions",
-    "Cloud service providers"
+    "AAPL",
+    "MSFT",
+    "DELL",
+    "HPQ",
+    "Lenovo Group"
   ],
   "competitors": [
-    "005930.KS",
-    "MU",
-    "WDC",
     "Kingston Technology",
-    "Lexar"
+    "MU",
+    "Corsair",
+    "Lexar",
+    "PNY Technologies"
   ],
   "key_products": [
-    "SD and microSD memory cards",
+    "Memory cards",
     "USB flash drives",
-    "Solid‑state drives (SSDs)",
-    "External SSDs",
-    "Enterprise flash storage solutions"
+    "Solid-state drives"
   ],
-  "extracted_at": "2026-03-05 17:55:12",
+  "extracted_at": "2026-03-06 16:29:43",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +39,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.sandisk.com/company/distributors",
+      "url": "https://en.wikipedia.org/wiki/List_of_computer_hardware_manufacturers",
       "query": "Sandisk Corporation suppliers manufacturers",
-      "snippet": "Find Sandisk Distributors & Resellers Purchase from your preferred Sandisk authorized partner."
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.mouser.com/manufacturer/sandisk/",
-      "query": "Sandisk Corporation suppliers manufacturers",
-      "snippet": "SanDisk Corporation is a global leader in flash storage solutions, expanding the possibilities of storage and providing trusted and innovative product"
+      "snippet": "Current notable computer hardware manufacturers : Cases. [edit]. List of computer case manufacturers : This list is incomplete; you can help by adding"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://ru.wikipedia.org/wiki/SanDisk",
-      "query": "Sandisk Corporation major customers clients",
-      "snippet": "SanDisk Corporation . SanDisk — американская корпорация, занимавшаяся разработкой и производством носителей информации на базе флеш-памяти. Корпорация"
+      "query": "Sandisk Corporation suppliers manufacturers",
+      "snippet": "SanDisk Corporation . Изображение логотипа. SanDisk — американская корпорация, занимавшаяся разработкой и производством носителей информации на базе ф"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.sandisk.com/",
+      "url": "https://data.landbase.com/technology/sandisk/",
       "query": "Sandisk Corporation major customers clients",
-      "snippet": "Sandisk online store members receive free standard shipping on all eligible orders.New Sandisk Customers Sign Up and Save 10% Off. Explore the latest "
+      "snippet": "Aug 17, 2025 · We have data on 324 companies that use SanDisk. Our SanDisk customers list is available for download and comes enriched with vital comp"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/SNDK-Customers",
+      "query": "Sandisk Corporation major customers clients",
+      "snippet": "Sandisk customers and markets, results by customer and performance relative to SNDK, by company and industry - CSIMarket"
     }
   ]
 }

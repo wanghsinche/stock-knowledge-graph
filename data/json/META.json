@@ -4,34 +4,34 @@
   "sector": "Communication Services",
   "industry": "Internet Content & Information",
   "upstream": [
-    "Corning",
-    "QCOM",
-    "INTC",
-    "005930.KS",
-    "LG Display"
+    "DELL",
+    "HPQ",
+    "Lenovo",
+    "CSCO",
+    "NVDA"
   ],
   "downstream": [
-    "Coca-Cola",
-    "Nike",
-    "AMZN",
-    "MSFT",
-    "GOOGL"
+    "Advertisers (brands and agencies)",
+    "App developers",
+    "Content creators",
+    "Small businesses",
+    "Large enterprises"
   ],
   "competitors": [
     "GOOGL",
     "AMZN",
     "AAPL",
     "MSFT",
-    "TikTok"
+    "TikTok (ByteDance)"
   ],
   "key_products": [
     "Facebook",
     "Instagram",
     "WhatsApp",
     "Messenger",
-    "Meta Ads"
+    "Threads"
   ],
-  "extracted_at": "2026-03-05 17:55:36",
+  "extracted_at": "2026-03-06 16:30:47",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,15 +41,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://investor.corning.com/news-and-events/news/news-details/2026/Corning-and-Meta-Announce-Multiyear-up-to-6-Billion-Agreement-to-Accelerate-US-Data-Center-Buildout/default.aspx",
+      "url": "https://ru.wikipedia.org/wiki/Meta_Platforms",
       "query": "Meta Platforms, Inc. suppliers manufacturers",
-      "snippet": "Jan 27, 2026 · Under the agreement, Corning will supply Meta with its newest innovations in optical fiber, cable, and connectivity solutions. To suppo"
+      "snippet": "Meta Platforms , Inc . — американская транснациональная холдинговая компания, владеющая технологическим конгломератом и расположенная в Менло-Парке, К"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://manufacturingdigital.com/news/metas-6bn-us-manufacturing-deal-for-data-centre-hardware",
+      "url": "https://en.wikipedia.org/wiki/List_of_computer_hardware_manufacturers",
       "query": "Meta Platforms, Inc. suppliers manufacturers",
-      "snippet": "Jan 28, 2026 · Meta has announced an agreement with Corning worth up to US$6bn to support the manufacturing of data centre infrastructure in the US."
+      "snippet": "Current notable computer hardware manufacturers : Cases. [edit]. List of computer case manufacturers : This list is incomplete; you can help by adding"
     },
     {
       "source": "DuckDuckGo",
@@ -59,9 +59,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.meta.com/",
+      "url": "https://developers.meta.com/",
       "query": "Meta Platforms, Inc. major customers clients",
-      "snippet": "Meta Platforms , Inc , Slide 18 of 24."
+      "snippet": "Build on every platform with Meta . Develop with Meta to create successful apps and projects, and grow your business.LAFISE Bank. Providing fast, more"
     }
   ]
 }
