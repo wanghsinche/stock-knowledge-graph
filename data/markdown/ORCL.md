@@ -3,8 +3,8 @@ ticker: ORCL
 company: Oracle Corporation
 sector: Technology
 industry: Software - Infrastructure
-extracted_at: 2026-03-06 16:31:07
-last_updated: 2026-03-06
+extracted_at: 2026-03-09 16:52:59
+last_updated: 2026-03-09
 ---
 
 # ORCL - Oracle Corporation
@@ -12,46 +12,46 @@ last_updated: 2026-03-06
 ## 基本信息
 
 - **所属行业**: Technology / Software - Infrastructure
-- **提取时间**: 2026-03-06 16:31:07
+- **提取时间**: 2026-03-09 16:52:59
 
 ## 产业链关系
 
 ### 上游供应商
-- [[INTC]]
-- [[AMD]]
-- [[CSCO]]
 - [[DELL]]
-- [[Hewlett‑Packard Enterprise]]
+- [[MSFT]]
+- [[AMD]]
+- [[Software component vendors (e.g., Red Hat, VMware)]]
+- [[Data center and hosting providers]]
 
 ### 下游客户
-- [[Bank of America]]
-- [[UnitedHealth Group]]
-- [[General Motors]]
-- [[U.S. Department of Defense]]
-- [[Walmart]]
+- [[Large enterprises in finance and banking]]
+- [[Healthcare and pharmaceutical companies]]
+- [[Retail and e‑commerce businesses]]
+- [[Government and public sector agencies]]
+- [[CAT]]
 
 ### 竞争对手
 - [[MSFT]]
 - [[AMZN]]
-- [[IBM]]
 - [[SAP]]
+- [[IBM]]
 - [[GOOGL]]
 
 ### 核心产品
 - [[Oracle Database]]
-- [[Oracle Cloud Infrastructure]]
+- [[Oracle Cloud Infrastructure (OCI)]]
+- [[Oracle Fusion Applications]]
 - [[Oracle Autonomous Database]]
-- [[Oracle E‑Business Suite]]
-- [[Oracle Fusion Middleware]]
+- [[Oracle Analytics Cloud]]
 
 ## 数据来源
 
 - [Oracle Corporation](https://en.wikipedia.org/wiki/Oracle_Corporation)
 - [Oracle Corporation suppliers manufacturers](https://en.wikipedia.org/wiki/Oracle_Corporation)
-- [Oracle Corporation suppliers manufacturers](https://ru.wikipedia.org/wiki/Oracle)
+- [Oracle Corporation suppliers manufacturers](https://www.oracle.com/scm/manufacturing/)
 - [Oracle Corporation major customers clients](https://www.oracle.com/customers/)
-- [Oracle Corporation major customers clients](https://www.thomsondata.com/customer-base/oracle.php)
+- [Oracle Corporation major customers clients](https://download.oracle.com/partners/scm_cust_prof.pdf)
 
 ## 元数据
 
-- **更新日期**: 2026-03-06
+- **更新日期**: 2026-03-09

@@ -4,34 +4,34 @@
   "sector": "Financial Services",
   "industry": "Banks - Diversified",
   "upstream": [
-    "MSFT",
-    "Data providers (e.g., Bloomberg, Refinitiv)",
+    "ORCL",
+    "Data providers (e.g., Bloomberg, Thomson Reuters)",
     "Payment processors (e.g., Visa, Mastercard)",
-    "Cybersecurity firms (e.g., Palo Alto Networks)",
-    "AMZN"
+    "Legal and compliance service firms",
+    "Consulting firms (e.g., Accenture)"
   ],
   "downstream": [
-    "Corporate clients (e.g., Fortune 500 companies)",
-    "Institutional investors (e.g., pension funds)",
-    "Retail banking customers",
+    "Retail consumers",
+    "Corporate clients",
     "Government agencies",
+    "Small and medium enterprises",
     "High‑net‑worth individuals"
   ],
   "competitors": [
-    "JPMorgan Chase & Co.",
-    "Bank of America Corp.",
-    "Wells Fargo & Co.",
-    "Goldman Sachs Group Inc.",
+    "JPMorgan Chase",
+    "Bank of America",
+    "Wells Fargo",
+    "Goldman Sachs",
     "Morgan Stanley"
   ],
   "key_products": [
-    "Investment banking services",
-    "Consumer banking and credit cards",
-    "Wealth and asset management",
-    "Treasury and cash management",
-    "Global trade and securities services"
+    "Retail banking services",
+    "Corporate banking and lending",
+    "Investment banking and advisory",
+    "Wealth management and private banking",
+    "Credit card services"
   ],
-  "extracted_at": "2026-03-06 16:37:03",
+  "extracted_at": "2026-03-09 16:59:30",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.citigroup.com/global/suppliers/supplier-engagement-program",
+      "url": "https://csimarket.com/stocks/C-Suppliers",
       "query": "Citigroup Inc. suppliers manufacturers",
-      "snippet": "Supplier Engagement Suppliers provide significant value in helping Citi grow our business and support our clients. Procurement and Third-Party Managem"
+      "snippet": "Feb 22, 2026 · Citigroup Inc supply chain, list and performance of Citigroup Incs ' suppliers - CSIMarket"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/C-Suppliers",
+      "url": "https://www.citigroup.com/global/suppliers/supplier-engagement-program",
       "query": "Citigroup Inc. suppliers manufacturers",
-      "snippet": "Feb 22, 2026 · Citigroup Inc supply chain, list and performance of Citigroup Incs' suppliers - CSIMarket"
+      "snippet": "We raise awareness of our Procurement and Third-Party Management initiatives by identifying suppliers that bring innovative solutions that support our"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Citigroup",
       "query": "Citigroup Inc. major customers clients",
-      "snippet": "Citigroup Inc . or Citi is an American multinational investment bank and financial services company based in New York City. The company was formed in "
+      "snippet": "This list only contains chairmen since the formation of Citigroup in 1998; for a full list of chairmen including Citigroup 's predecessors, please see"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.businesswire.com/news/home/20210407005046/en/Citi-Incorporates-ESG-Scores-into-Citi-VelocitySM-Clarity",
+      "url": "https://csimarket.com/stocks/C-Customers",
       "query": "Citigroup Inc. major customers clients",
-      "snippet": "Citi has incorporated ESG (environmental, social and governance) scores into its securities services data platform, Citi VelocitySM Clarity, allowing "
+      "snippet": "Feb 28, 2026 · Citigroup Inc customers and markets, results by customer and performance relative to C, by company and industry - CSIMarket"
     }
   ]
 }

@@ -4,33 +4,33 @@
   "sector": "Technology",
   "industry": "Semiconductor Equipment & Materials",
   "upstream": [
-    "Silicon wafer suppliers (e.g., Shin-Etsu Chemical, Sumitomo Chemical)",
-    "Specialty gas suppliers (e.g., Air Liquide, Linde)",
-    "Chemical suppliers (e.g., BASF, Dow Chemical)",
-    "ASML",
-    "Component manufacturers for deposition and etching tools"
+    "Silicon wafer suppliers",
+    "Chemical and gas suppliers",
+    "META",
+    "Electronic component manufacturers",
+    "Precision machinery suppliers"
   ],
   "downstream": [
+    "INTC",
     "TSM",
     "005930.KS",
-    "INTC",
-    "GlobalFoundries",
-    "LG Display"
+    "MU",
+    "SK Hynix"
   ],
   "competitors": [
     "ASML",
     "LRCX",
     "Tokyo Electron",
-    "KLA"
+    "KLA Corporation"
   ],
   "key_products": [
+    "Lithography systems",
     "Deposition equipment (CVD, PVD)",
-    "Etching equipment (plasma etch)",
-    "Lithography equipment",
-    "Wafer processing systems",
-    "Software and services for semiconductor manufacturing"
+    "Etch and ion implantation tools",
+    "Wafer cleaning and inspection systems",
+    "Advanced packaging equipment"
   ],
-  "extracted_at": "2026-03-06 16:37:48",
+  "extracted_at": "2026-03-09 16:57:49",
   "sources": [
     {
       "source": "Wikipedia",
@@ -52,15 +52,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.appliedmaterials.com/us/en.html",
+      "url": "https://en.wikipedia.org/wiki/Applied_Materials",
       "query": "Applied Materials, Inc. major customers clients",
-      "snippet": "Applied Materials , Inc . is the leader in materials engineering solutions that are at the foundation of virtually every new semiconductor and advance"
+      "snippet": "Applied Materials, Inc. is an American corporation that supplies equipment, services and software for the manufacture of semiconductor (integrated cir"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.marketwatch.com/data-news/applied-materials-inc-stock-underperforms-thursday-when-compared-to-competitors-ed249312-460e83757715?mod=mw_quote_news",
+      "url": "https://portersfiveforce.com/blogs/target-market/appliedmaterials",
       "query": "Applied Materials, Inc. major customers clients",
-      "snippet": "Shares of Applied Materials Inc . AMAT slipped 3.14% to $346.53 Thursday, on what proved to be an all-around rough trading session for the stock marke"
+      "snippet": "Nov 9, 2025 · The company's customer base is highly concentrated among the top global semiconductor producers, who represent over 80% of the industry'"
     }
   ]
 }

@@ -4,34 +4,34 @@
   "sector": "Technology",
   "industry": "Software - Infrastructure",
   "upstream": [
-    "INTC",
-    "AMD",
-    "CSCO",
     "DELL",
-    "Hewlett‑Packard Enterprise"
+    "MSFT",
+    "AMD",
+    "Software component vendors (e.g., Red Hat, VMware)",
+    "Data center and hosting providers"
   ],
   "downstream": [
-    "Bank of America",
-    "UnitedHealth Group",
-    "General Motors",
-    "U.S. Department of Defense",
-    "Walmart"
+    "Large enterprises in finance and banking",
+    "Healthcare and pharmaceutical companies",
+    "Retail and e‑commerce businesses",
+    "Government and public sector agencies",
+    "CAT"
   ],
   "competitors": [
     "MSFT",
     "AMZN",
-    "IBM",
     "SAP",
+    "IBM",
     "GOOGL"
   ],
   "key_products": [
     "Oracle Database",
-    "Oracle Cloud Infrastructure",
+    "Oracle Cloud Infrastructure (OCI)",
+    "Oracle Fusion Applications",
     "Oracle Autonomous Database",
-    "Oracle E‑Business Suite",
-    "Oracle Fusion Middleware"
+    "Oracle Analytics Cloud"
   ],
-  "extracted_at": "2026-03-06 16:31:07",
+  "extracted_at": "2026-03-09 16:52:59",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,21 +47,21 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ru.wikipedia.org/wiki/Oracle",
+      "url": "https://www.oracle.com/scm/manufacturing/",
       "query": "Oracle Corporation suppliers manufacturers",
-      "snippet": "Oracle ( Oracle Corporation ) — американская корпорация, второй по размеру выручки разработчик программного обеспечения (после Microsoft), четвёртая к"
+      "snippet": "Oracle Fusion Cloud Manufacturing helps you streamline your global, mixed-mode manufacturing to maximize operational performance."
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.oracle.com/customers/",
       "query": "Oracle Corporation major customers clients",
-      "snippet": "Hear from our customers to learn what makes Oracle the right choice for them, and why we're the right partner for your business ."
+      "snippet": "Hear from our customers to learn what makes Oracle the right choice for them, and why we're the right partner for your business. Missing: major | Show"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.thomsondata.com/customer-base/oracle.php",
+      "url": "https://download.oracle.com/partners/scm_cust_prof.pdf",
       "query": "Oracle Corporation major customers clients",
-      "snippet": "Technographic Data of Companies That Use Oracle Oracle Customers List by Industry Different industries use Oracle technology for their business . Look"
+      "snippet": "\"One of our major Pharma clients is connected to our Oracle Clinical system ... these top priorities, the company plans to implement Oracle Order Mana"
     }
   ]
 }

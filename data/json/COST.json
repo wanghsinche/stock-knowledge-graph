@@ -4,18 +4,18 @@
   "sector": "Consumer Defensive",
   "industry": "Discount Stores",
   "upstream": [
-    "Food manufacturers (e.g., Tyson Foods, Tyson Fresh Meats)",
-    "Beverage producers (e.g., Diageo, Constellation Brands)",
-    "Apparel brands (e.g., Levi Strauss, Nike)",
-    "005930.KS",
-    "Household goods producers (e.g., Whirlpool, GE Appliances)"
+    "Food and beverage suppliers (beef, poultry, organic produce, wine)",
+    "Household goods manufacturers",
+    "Electronics producers",
+    "Apparel and footwear manufacturers",
+    "Furniture and home décor suppliers"
   ],
   "downstream": [
-    "American consumers (membership holders)",
-    "Corporate and small‑business customers",
+    "American consumers (retail shoppers)",
+    "Corporate and institutional bulk buyers",
+    "Small business owners",
     "Online shoppers via Costco.com",
-    "International members in Canada, Mexico, and the UK",
-    "Local community groups and charities"
+    "International members in Canada, Mexico, and the UK"
   ],
   "competitors": [
     "Walmart",
@@ -25,13 +25,13 @@
     "AMZN"
   ],
   "key_products": [
-    "Bulk groceries and fresh produce",
-    "Meat and poultry",
-    "Dairy and cheese",
-    "Household goods and appliances",
-    "Electronics and apparel"
+    "Bulk groceries (beef, poultry, organic produce)",
+    "Household essentials (cleaning supplies, paper goods)",
+    "Electronics (TVs, computers, appliances)",
+    "Apparel and footwear",
+    "Wine and alcoholic beverages"
   ],
-  "extracted_at": "2026-03-06 16:33:12",
+  "extracted_at": "2026-03-09 16:58:35",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/COST-Suppliers",
+      "url": "https://www.costco.com/f/-/vendor-inquiries",
       "query": "Costco Wholesale Corporation suppliers manufacturers",
-      "snippet": "Dec 18, 2025 · Costco Wholesale 's Comment on Supply Chain We buy the majority of our merchandise directly from manufacturers and route it to a cross-"
+      "snippet": "Vendor Inquiries Prospective vendors of non-food or sundry items can contact the corporate office at the addresses below. Costco's corporate mailing a"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.costco.com/f/-/vendor-inquiries",
+      "url": "https://www.sourcifychina.com/top-costco-suppliers-list-compare/",
       "query": "Costco Wholesale Corporation suppliers manufacturers",
-      "snippet": "Nov 7, 2025 · Vendor Inquiries Prospective vendors of non-food or sundry items can contact the corporate office at the addresses below. Costco 's corp"
+      "snippet": "Product Details: Costco Global Manufacturers & Suppliers List provides insights into international manufacturers and suppliers associated with Costco,"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Costco",
       "query": "Costco Wholesale Corporation major customers clients",
-      "snippet": "Costco Wholesale Corporation . Logo since 1997. Costco warehouse interior in Brampton, Ontario in Canada in 2021. Costco is a membership-only warehous"
+      "snippet": "As of 2021, Costco is the third-largest retailer in the world, and as of August 2024, the world's largest retailer of beef, poultry, organic produce, "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.costco.com/",
+      "url": "https://www.investopedia.com/average-costco-customer-8731440",
       "query": "Costco Wholesale Corporation major customers clients",
-      "snippet": "official website of Costco Wholesale Corporation ."
+      "snippet": "Dec 11, 2024 · Costco shoppers are known for their loyalty and tendency to make large purchases. Customers visit Costco about 30 times per year, spend"
     }
   ]
 }

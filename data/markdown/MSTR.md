@@ -1,41 +1,57 @@
 ---
 ticker: MSTR
-company: Strategy Inc
+company: MicroStrategy Incorporated
 sector: Technology / Software - Application
-industry: Business Analytics
-extracted_at: 2026-03-06 16:33:31
-last_updated: 2026-03-06
+industry: Business Intelligence & Analytics
+extracted_at: 2026-03-09 16:54:05
+last_updated: 2026-03-09
 ---
 
-# MSTR - Strategy Inc
+# MSTR - MicroStrategy Incorporated
 
 ## 基本信息
 
-- **所属行业**: Technology / Software - Application / Business Analytics
-- **提取时间**: 2026-03-06 16:33:31
+- **所属行业**: Technology / Software - Application / Business Intelligence & Analytics
+- **提取时间**: 2026-03-09 16:54:05
 
 ## 产业链关系
 
 ### 上游供应商
-_暂无数据_
+- [[DELL]]
+- [[Cloud service providers (AWS, Azure, GCP)]]
+- [[Data integration vendors (Informatica, Talend)]]
+- [[ORCL]]
+- [[CSCO]]
 
 ### 下游客户
-_暂无数据_
+- [[Financial services firms (JPMorgan, Goldman Sachs)]]
+- [[Retail corporations (Walmart, Target)]]
+- [[Manufacturing companies (General Electric)]]
+- [[Healthcare organizations (UnitedHealth)]]
+- [[Government agencies (U.S. Department of Defense)]]
 
 ### 竞争对手
-_暂无数据_
+- [[Tableau Software]]
+- [[MSFT]]
+- [[Qlik]]
+- [[SAP BusinessObjects]]
+- [[ORCL]]
 
 ### 核心产品
-_暂无数据_
+- [[MicroStrategy Analytics Platform]]
+- [[MicroStrategy Mobile]]
+- [[MicroStrategy Cloud]]
+- [[MicroStrategy Data Warehouse]]
+- [[MicroStrategy AI Analytics]]
 
 ## 数据来源
 
 - 
 - [Strategy Inc suppliers manufacturers](https://www.alibaba.com/)
-- [Strategy Inc suppliers manufacturers](https://www.globalsources.com/)
-- [Strategy Inc major customers clients](https://csimarket.com/stocks/STRF-Customers)
-- [Strategy Inc major customers clients](https://www.strategy.com/software/customer-stories)
+- [Strategy Inc suppliers manufacturers](https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2l6dFkzTkVCSGxBclVDc0ZROWR5Z0FQAQ?hl=en-US&gl=US&ceid=US:en)
+- [Strategy Inc major customers clients](https://en.wikipedia.org/wiki/MicroStrategy)
+- [Strategy Inc major customers clients](https://www.bloomberg.com/news/articles/2026-03-09/strategy-buys-1-3-billion-of-bitcoin-using-mostly-common-stock)
 
 ## 元数据
 
-- **更新日期**: 2026-03-06
+- **更新日期**: 2026-03-09

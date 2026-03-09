@@ -13,25 +13,25 @@
   "downstream": [
     "Enterprise customers (e.g., banks, government agencies)",
     "DELL",
-    "Consumer users worldwide",
-    "Cloud service clients (e.g., large enterprises using Azure)",
-    "Gaming studios and developers using Xbox and Game Pass"
+    "AMZN",
+    "Cloud service users (Azure)",
+    "Gaming industry (Xbox, game developers)"
   ],
   "competitors": [
-    "AAPL",
     "GOOGL",
     "AMZN",
-    "ORCL",
-    "CRM"
+    "AAPL",
+    "META",
+    "NVDA"
   ],
   "key_products": [
     "Windows operating system",
     "Microsoft Office suite",
     "Azure cloud platform",
-    "Surface hardware line",
+    "Surface hardware",
     "Xbox gaming console"
   ],
-  "extracted_at": "2026-03-06 16:29:29",
+  "extracted_at": "2026-03-09 16:49:08",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,15 +41,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Microsoft",
+      "url": "https://csimarket.com/stocks/MSFT-Suppliers",
       "query": "Microsoft Corporation suppliers manufacturers",
-      "snippet": "Microsoft Corporation is an American multinational technology conglomerate headquartered in Redmond, Washington. Founded in 1975, the company became i"
+      "snippet": "Jan 29, 2026 · Microsoft supply chain, list and performance of Microsofts ' suppliers - CSIMarket"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/MSFT-Suppliers",
+      "url": "https://www.microsoft.com/en-us/procurement",
       "query": "Microsoft Corporation suppliers manufacturers",
-      "snippet": "Microsoft supply chain, list and performance of Microsofts' suppliers - CSIMarket."
+      "snippet": "Microsoft Procurement is committed to building a diverse global supplier base that reflects the global diversity of our customers and provides all typ"
     },
     {
       "source": "DuckDuckGo",
@@ -61,7 +61,7 @@
       "source": "DuckDuckGo",
       "url": "https://csimarket.com/stocks/MSFT-Customers",
       "query": "Microsoft Corporation major customers clients",
-      "snippet": "Microsoft customers and markets, results by customer and performance relative to MSFT, by company and industry - CSIMarket"
+      "snippet": "3 days ago · Individual consumers obtain these products primarily through retail outlets, such as Wal-Mart, Dixons, and Microsoft retail stores. We di"
     }
   ]
 }

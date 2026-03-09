@@ -4,34 +4,34 @@
   "sector": "Energy",
   "industry": "Oil & Gas Integrated",
   "upstream": [
-    "Schlumberger",
-    "Halliburton",
-    "Baker Hughes",
-    "Weatherford",
-    "National Oilwell Varco"
+    "Crude oil producers (e.g., Saudi Aramco, Rosneft)",
+    "Drilling contractors (e.g., Halliburton, Schlumberger)",
+    "CAT",
+    "DELL",
+    "Pipeline operators (e.g., Kinder Morgan)"
   ],
   "downstream": [
-    "Automotive manufacturers (e.g., Ford, GM)",
-    "Petrochemical companies (e.g., Dow, DuPont)",
-    "Airlines (e.g., Delta, United)",
-    "Retail fuel distributors (e.g., Phillips 66)",
-    "Governments"
+    "Gasoline stations and convenience stores",
+    "Airlines and aviation fuel suppliers",
+    "Industrial petrochemical plants",
+    "Automotive manufacturers",
+    "Retail fuel distributors"
   ],
   "competitors": [
-    "Chevron",
-    "Royal Dutch Shell",
-    "BP",
-    "TotalEnergies",
+    "Chevron Corporation",
+    "BP plc",
+    "Royal Dutch Shell plc",
+    "TotalEnergies SE",
     "ConocoPhillips"
   ],
   "key_products": [
     "Crude oil",
-    "Natural gas",
     "Gasoline",
     "Diesel",
-    "Petrochemicals (ethylene, propylene)"
+    "Jet fuel",
+    "Petrochemicals (ethylene, propylene, plastics)"
   ],
-  "extracted_at": "2026-03-06 16:33:02",
+  "extracted_at": "2026-03-09 16:53:38",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
+      "url": "https://corporate.exxonmobil.com/procurement/exxonmobil-for-suppliers",
+      "query": "Exxon Mobil Corporation suppliers manufacturers",
+      "snippet": "Learn about our supplier's collaboration portal, which provides suppliers with access to collaborate with us, view invoices, report issues, ..."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://corporate.exxonmobil.com/who-we-are/our-global-organization/brands",
+      "query": "Exxon Mobil Corporation suppliers manufacturers",
+      "snippet": "Worldwide, ExxonMobil markets fuels, lubricants and chemicals under four brands: Esso, Exxon, Mobil and ExxonMobil."
+    },
+    {
+      "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/ExxonMobil",
-      "query": "Exxon Mobil Corporation suppliers manufacturers",
-      "snippet": "Exxon Mobil Corporation . Floating cube at ExxonMobil headquarters in Spring, Texas."
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://ru.wikipedia.org/wiki/ExxonMobil",
-      "query": "Exxon Mobil Corporation suppliers manufacturers",
-      "snippet": "Exxon Mobil Corporation — американская компания, одна из крупнейших нефтяных компаний в мире, одна из крупнейших корпораций в мире по размеру рыночной"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/XOM-Customers",
       "query": "Exxon Mobil Corporation major customers clients",
-      "snippet": "Exxon Mobil customers and markets, results by customer and performance relative to XOM, by company and industry - CSIMarket"
+      "snippet": "As the largest U.S.-based oil and gas company, ExxonMobil is the eighth-largest company by revenue in the U.S. and 13th-largest in the world. It is al"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://corporate.exxonmobil.com/",
       "query": "Exxon Mobil Corporation major customers clients",
-      "snippet": "1 day ago · ExxonMobil 's three primary businesses provide products that enable modern life, including energy, chemicals, lubricants, and lower-emissi"
+      "snippet": "ExxonMobil's three primary businesses provide products that enable modern life, including energy, chemicals, lubricants, and lower-emissions technolog"
     }
   ]
 }

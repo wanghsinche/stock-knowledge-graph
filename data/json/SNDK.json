@@ -4,32 +4,34 @@
   "sector": "Technology",
   "industry": "Computer Hardware",
   "upstream": [
+    "WDC",
     "MU",
     "005930.KS",
     "SK Hynix",
-    "Toshiba Memory",
-    "WDC"
+    "Nanya Technology"
   ],
   "downstream": [
     "AAPL",
-    "MSFT",
     "DELL",
     "HPQ",
-    "Lenovo Group"
+    "Lenovo Group",
+    "MSFT"
   ],
   "competitors": [
     "Kingston Technology",
     "MU",
+    "Lexar Technologies",
     "Corsair",
-    "Lexar",
-    "PNY Technologies"
+    "005930.KS"
   ],
   "key_products": [
-    "Memory cards",
+    "Memory cards (SD, microSD)",
     "USB flash drives",
-    "Solid-state drives"
+    "Solid‑state drives (SSDs)",
+    "Enterprise flash storage",
+    "Embedded flash solutions"
   ],
-  "extracted_at": "2026-03-06 16:29:43",
+  "extracted_at": "2026-03-09 16:48:32",
   "sources": [
     {
       "source": "Wikipedia",
@@ -39,9 +41,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/List_of_computer_hardware_manufacturers",
+      "url": "https://en.wikipedia.org/wiki/Western_Digital",
       "query": "Sandisk Corporation suppliers manufacturers",
-      "snippet": "Current notable computer hardware manufacturers : Cases. [edit]. List of computer case manufacturers : This list is incomplete; you can help by adding"
+      "snippet": "Western Digital Corporation , doing business as WD, is an American data storage company headquartered in San Jose, California. Established in 1970, th"
     },
     {
       "source": "DuckDuckGo",
@@ -53,13 +55,13 @@
       "source": "DuckDuckGo",
       "url": "https://data.landbase.com/technology/sandisk/",
       "query": "Sandisk Corporation major customers clients",
-      "snippet": "Aug 17, 2025 · We have data on 324 companies that use SanDisk. Our SanDisk customers list is available for download and comes enriched with vital comp"
+      "snippet": "Aug 17, 2025 · Our SanDisk customers list is available for download and comes enriched with vital company specifics, including industry classification"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/SNDK-Customers",
+      "url": "https://enlyft.com/tech/products/sandisk",
       "query": "Sandisk Corporation major customers clients",
-      "snippet": "Sandisk customers and markets, results by customer and performance relative to SNDK, by company and industry - CSIMarket"
+      "snippet": "Looking at SanDisk customers by industry, we find that Information Technology and Services (12%), Computer Software (8%), Marketing and Advertising (8"
     }
   ]
 }

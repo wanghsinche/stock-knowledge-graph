@@ -3,8 +3,8 @@ ticker: PLTR
 company: Palantir Technologies Inc.
 sector: Technology
 industry: Software - Infrastructure
-extracted_at: 2026-03-06 16:30:25
-last_updated: 2026-03-06
+extracted_at: 2026-03-09 16:49:43
+last_updated: 2026-03-09
 ---
 
 # PLTR - Palantir Technologies Inc.
@@ -12,7 +12,7 @@ last_updated: 2026-03-06
 ## 基本信息
 
 - **所属行业**: Technology / Software - Infrastructure
-- **提取时间**: 2026-03-06 16:30:25
+- **提取时间**: 2026-03-09 16:49:43
 
 ## 产业链关系
 
@@ -20,27 +20,27 @@ last_updated: 2026-03-06
 - [[AMZN]]
 - [[MSFT]]
 - [[GOOGL]]
-- [[IBM]]
-- [[DELL]]
+- [[INTC]]
+- [[NVDA]]
 
 ### 下游客户
 - [[U.S. Department of Defense]]
-- [[INTC]]
-- [[Law Enforcement Agencies]]
-- [[Financial Institutions]]
-- [[Healthcare Providers]]
+- [[Federal Bureau of Investigation (FBI)]]
+- [[UK Ministry of Defence]]
+- [[JPMorgan Chase]]
+- [[Walmart]]
 
 ### 竞争对手
-- [[IBM]]
-- [[SAS]]
-- [[ORCL]]
-- [[MSFT]]
 - [[Snowflake]]
+- [[Databricks]]
+- [[Splunk]]
+- [[CRM]]
+- [[Qlik]]
 
 ### 核心产品
 - [[Gotham]]
 - [[Foundry]]
-- [[Palantir Apollo]]
+- [[Apollo]]
 - [[Palantir Platform]]
 - [[Palantir Data Integration]]
 
@@ -48,10 +48,10 @@ last_updated: 2026-03-06
 
 - [Palantir](https://en.wikipedia.org/wiki/Palantir_Technologies_Inc.)
 - [Palantir Technologies Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/Palantir)
-- [Palantir Technologies Inc. suppliers manufacturers](https://csimarket.com/stocks/PLTR-Suppliers)
-- [Palantir Technologies Inc. major customers clients](https://www.marketwatch.com/investing/stock/pltr)
-- [Palantir Technologies Inc. major customers clients](https://www.youtube.com/watch?v=dRgPbNJ5RJc)
+- [Palantir Technologies Inc. suppliers manufacturers](https://www.palantir.com/explore/foundry-for-manufacturing/)
+- [Palantir Technologies Inc. major customers clients](https://enlyft.com/tech/products/palantir)
+- [Palantir Technologies Inc. major customers clients](https://www.statista.com/statistics/1286996/palantir-technologies-number-of-customers/?srsltid=AfmBOopm0KyjwHREDTcAjkyesF31_4nG9q1Zs7vskzzTIuzTW8uRg4lW)
 
 ## 元数据
 
-- **更新日期**: 2026-03-06
+- **更新日期**: 2026-03-09

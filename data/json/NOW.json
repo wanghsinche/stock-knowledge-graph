@@ -4,34 +4,34 @@
   "sector": "Technology",
   "industry": "Software - Application",
   "upstream": [
-    "AMZN",
     "MSFT",
+    "AMZN",
     "GOOGL",
-    "ORCL",
-    "IBM"
+    "IBM",
+    "ORCL"
   ],
   "downstream": [
-    "Walmart",
-    "JPMorgan Chase",
-    "AT&T",
-    "Coca‑Cola",
-    "Bank of America"
+    "MSFT",
+    "AMZN",
+    "GOOGL",
+    "IBM",
+    "ORCL"
   ],
   "competitors": [
     "CRM",
-    "MSFT",
+    "Workday",
     "SAP SuccessFactors",
     "ORCL",
     "IBM"
   ],
   "key_products": [
-    "ServiceNow Platform",
+    "Now Platform",
     "IT Service Management (ITSM)",
     "IT Operations Management (ITOM)",
-    "Customer Service Management (CSM)",
-    "HR Service Delivery"
+    "IT Business Management (ITBM)",
+    "Customer Service Management (CSM)"
   ],
-  "extracted_at": "2026-03-06 16:32:28",
+  "extracted_at": "2026-03-09 16:57:19",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,21 +47,21 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/NOW-Suppliers",
+      "url": "https://www.servicenow.com/products/supplier-lifecycle-management.html",
       "query": "ServiceNow, Inc. suppliers manufacturers",
-      "snippet": "Jan 29, 2026 · Servicenow Inc 's Suppliers recorded an increase in sales by 4.22 % year on year in Q4 2025, sequentially sales grew by 27.21 %, Servic"
+      "snippet": "With ServiceNow Supplier Lifecycle Operations, you can streamline supplier and procurement activities for easy onboarding and collaboration. Missing: "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finviz.com/quote.ashx?t=NOW&ty=rv&p=m",
+      "url": "https://www.servicenow.com/customers.html",
       "query": "ServiceNow, Inc. major customers clients",
-      "snippet": "ServiceNow Inc ( NOW ) Expands AI Strategy With Key Acquisitions. ServiceNow , Inc . engages in the provision of an end-to-end workflow automation pla"
+      "snippet": "Discover the measurable improvements ServiceNow delivers to enhance efficiency, productivity, and customer satisfaction."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.marketwatch.com/story/servicenow-inc-stock-underperforms-friday-when-compared-to-competitors-5cef831b-c188538359b1",
+      "url": "https://www.aventionmedia.com/technology-installed-base/servicenow/",
       "query": "ServiceNow, Inc. major customers clients",
-      "snippet": "Shares of ServiceNow Inc . NOW slumped 0.24% to $534.03 Friday, on what proved to be an all-around great trading session for the stock market, with th"
+      "snippet": "Customers that are using ServiceNow include: Microsoft, a US Based MNC and Technology Company with over US$2 Tn revenue and Waltmart, a US Based Retai"
     }
   ]
 }

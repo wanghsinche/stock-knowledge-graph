@@ -3,8 +3,8 @@ ticker: AAPL
 company: Apple Inc.
 sector: Technology
 industry: Consumer Electronics
-extracted_at: 2026-03-06 16:30:38
-last_updated: 2026-03-06
+extracted_at: 2026-03-09 16:50:10
+last_updated: 2026-03-09
 ---
 
 # AAPL - Apple Inc.
@@ -12,7 +12,7 @@ last_updated: 2026-03-06
 ## 基本信息
 
 - **所属行业**: Technology / Consumer Electronics
-- **提取时间**: 2026-03-06 16:30:38
+- **提取时间**: 2026-03-09 16:50:10
 
 ## 产业链关系
 
@@ -20,8 +20,8 @@ last_updated: 2026-03-06
 - [[TSM]]
 - [[Foxconn]]
 - [[005930.KS]]
-- [[LG Display]]
 - [[AVGO]]
+- [[QCOM]]
 
 ### 下游客户
 - [[iPhone users]]
@@ -32,26 +32,26 @@ last_updated: 2026-03-06
 
 ### 竞争对手
 - [[005930.KS]]
-- [[GOOGL]]
 - [[MSFT]]
+- [[GOOGL]]
+- [[AMZN]]
 - [[SONY]]
-- [[DELL]]
 
 ### 核心产品
 - [[iPhone]]
 - [[iPad]]
 - [[Mac]]
 - [[Apple Watch]]
-- [[Apple Services (Apple Music, iCloud, App Store)]]
+- [[Apple TV]]
 
 ## 数据来源
 
 - [Apple Inc.](https://en.wikipedia.org/wiki/Apple_Inc.)
 - [Apple Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/Apple_Inc.)
-- [Apple Inc. suppliers manufacturers](https://ru.wikipedia.org/wiki/Apple)
+- [Apple Inc. suppliers manufacturers](https://www.alibaba.com/)
 - [Apple Inc. major customers clients](https://en.wikipedia.org/wiki/Apple_Inc.)
 - [Apple Inc. major customers clients](https://www.apple.com/)
 
 ## 元数据
 
-- **更新日期**: 2026-03-06
+- **更新日期**: 2026-03-09

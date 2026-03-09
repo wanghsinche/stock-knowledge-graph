@@ -6,32 +6,32 @@
   "upstream": [
     "TSM",
     "005930.KS",
-    "GlobalFoundries",
     "MU",
-    "INTC"
+    "NVDA",
+    "AMD"
   ],
   "downstream": [
-    "MSFT",
     "AMZN",
-    "GOOGL",
-    "SONY",
-    "TSLA"
+    "MSFT",
+    "MSFT",
+    "TSLA",
+    "High‑performance computing centers (DOE labs, universities)"
   ],
   "competitors": [
     "AMD",
     "INTC",
     "QCOM",
-    "AVGO",
-    "ARM"
+    "AAPL",
+    "ARM Holdings (GPU IP licensing)"
   ],
   "key_products": [
-    "GeForce GPUs",
-    "Quadro GPUs",
-    "Tesla GPUs",
-    "Jetson SoCs",
-    "CUDA API"
+    "GeForce GPUs (gaming)",
+    "Quadro/RTX GPUs (professional visualization)",
+    "Tesla/Datacenter GPUs (AI & HPC)",
+    "Jetson SoCs (edge AI & robotics)",
+    "CUDA API & software ecosystem"
   ],
-  "extracted_at": "2026-03-06 16:28:44",
+  "extracted_at": "2026-03-09 16:48:06",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://marketplace.nvidia.com/en-us/enterprise/partners/",
+      "url": "https://www.nvidia.com/en-us/",
       "query": "NVIDIA Corporation suppliers manufacturers",
-      "snippet": "Know about NVIDIA partners – cloud, data center provider, distributor, global systems integrator, independent software vendor, OEM, and many more part"
+      "snippet": "NVIDIA invents the GPU and drives advances in AI, HPC, gaming, creative design, autonomous vehicles, and robotics."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://stocksandfuturestrading.com/the-complete-list-of-nvidias-suppliers-and-consumers/",
+      "url": "https://www.alibaba.com/",
       "query": "NVIDIA Corporation suppliers manufacturers",
-      "snippet": "NVIDIA Key Business Relationships NVIDIA Suppliers TSMC ~25% of expenditure Samsung ~15% of expenditure ASE Technology ~10% of expenditure SK Hynix/Mi"
+      "snippet": "Find quality Manufacturers , Suppliers , Exporters, Importers, Buyers, Wholesalers, Products and Trade Leads from our award-winning International Trad"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://indianexpress.com/article/technology/artificial-intelligence/nvidia-majority-revenue-two-buyers-who-are-they-10223770/",
+      "url": "https://www.fool.com/investing/2025/06/26/who-are-nvidias-biggest-customers/",
       "query": "NVIDIA Corporation major customers clients",
-      "snippet": "Four other customers accounted for 14 per cent, 11 per cent, another 11 per cent, and 10 per cent of Q2 revenue, Nvidia further said. These figures un"
+      "snippet": "June 26, 2025 - Nvidia has amassed an impressive list of customers, which includes top AI developers like Amazon, Microsoft, and Alphabet ."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.tradingview.com/symbols/NASDAQ-NVDA/",
+      "url": "https://www.fool.com/investing/2024/05/02/who-are-nvidias-largest-customers/",
       "query": "NVIDIA Corporation major customers clients",
-      "snippet": "View live NVIDIA Corporation chart to track its stock's price action. Find market predictions, NVDA financials and market news."
+      "snippet": "May 2, 2024 - However, in its recent 10-K filing, the company did say that one customer represented 13% of its revenue from its compute and networking"
     }
   ]
 }

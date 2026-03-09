@@ -1,18 +1,18 @@
 ---
 ticker: CSCO
 company: Cisco Systems, Inc.
-sector: Technology
-industry: Communication Equipment
-extracted_at: 2026-02-20 16:36:13
-last_updated: 2026-02-20
+sector: Technology / Communication Equipment
+industry: Networking & Communications
+extracted_at: 2026-03-09 16:56:26
+last_updated: 2026-03-09
 ---
 
 # CSCO - Cisco Systems, Inc.
 
 ## 基本信息
 
-- **所属行业**: Technology / Communication Equipment
-- **提取时间**: 2026-02-20 16:36:13
+- **所属行业**: Technology / Communication Equipment / Networking & Communications
+- **提取时间**: 2026-03-09 16:56:26
 
 ## 产业链关系
 
@@ -21,37 +21,37 @@ last_updated: 2026-02-20
 - [[INTC]]
 - [[QCOM]]
 - [[TXN]]
-- [[MU]]
+- [[NVDA]]
 
 ### 下游客户
 - [[AT&T]]
-- [[CAT]]
-- [[GOOGL]]
-- [[AMZN]]
+- [[Verizon]]
+- [[Comcast]]
 - [[MSFT]]
+- [[AMZN]]
 
 ### 竞争对手
 - [[JNPR]]
 - [[ANET]]
+- [[HPQ]]
 - [[Huawei]]
 - [[Nokia]]
-- [[Ericsson]]
 
 ### 核心产品
-- [[Cisco routers (ISR, ASR)]]
-- [[Cisco switches (Catalyst, Nexus)]]
-- [[Cisco firewalls (ASA, Firepower)]]
-- [[Cisco Webex (videoconferencing)]]
-- [[Cisco Meraki (cloud‑managed networking)]]
+- [[Cisco routers]]
+- [[Cisco switches]]
+- [[Cisco firewalls]]
+- [[Webex]]
+- [[OpenDNS]]
 
 ## 数据来源
 
 - [Cisco](https://en.wikipedia.org/wiki/Cisco_Systems,_Inc.)
 - [Cisco Systems, Inc. suppliers manufacturers](https://www.cisco.com/c/dam/en_us/about/supply-chain/cisco-supplier-list.pdf)
-- [Cisco Systems, Inc. suppliers manufacturers](https://csimarket.com/stocks/CSCO-Suppliers)
-- [Cisco Systems, Inc. major customers clients](https://en.wikipedia.org/wiki/Cisco)
-- [Cisco Systems, Inc. major customers clients](https://ru.wikipedia.org/wiki/Cisco)
+- [Cisco Systems, Inc. suppliers manufacturers](https://www.cisco.com/c/en/us/about/suppliers.html)
+- [Cisco Systems, Inc. major customers clients](https://www.cisco.com/site/us/en/about/case-studies-customer-stories/index.html)
+- [Cisco Systems, Inc. major customers clients](https://www.appsruntheworld.com/customers-database/vendors/view/cisco-systems)
 
 ## 元数据
 
-- **更新日期**: 2026-02-20
+- **更新日期**: 2026-03-09

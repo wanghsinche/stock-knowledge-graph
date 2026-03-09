@@ -4,18 +4,18 @@
   "sector": "Financial Services",
   "industry": "Credit Services",
   "upstream": [
-    "Card manufacturing partners (e.g., Gemalto, IDEMIA)",
-    "Payment processing technology vendors",
-    "Security and fraud‑prevention providers",
-    "Network infrastructure suppliers",
-    "Data analytics and cloud service providers"
+    "Card manufacturing vendors",
+    "Payment processing technology providers",
+    "Security and fraud‑prevention software suppliers",
+    "Network infrastructure equipment manufacturers",
+    "Data center and cloud service providers"
   ],
   "downstream": [
-    "Commercial banks and credit unions",
-    "Retail merchants and e‑commerce platforms",
-    "Financial technology (fintech) companies",
-    "Government and public‑sector payment programs",
-    "Individual consumers using Visa‑branded cards"
+    "Banking institutions issuing Visa‑branded cards",
+    "Retail merchants accepting Visa payments",
+    "E‑commerce platforms integrating Visa checkout",
+    "Mobile wallet providers using Visa network",
+    "Financial technology firms offering Visa‑based payment solutions"
   ],
   "competitors": [
     "Mastercard",
@@ -25,13 +25,13 @@
     "Square"
   ],
   "key_products": [
-    "Visa credit cards",
-    "Visa debit cards",
-    "Visa prepaid cards",
-    "Visa Direct (real‑time payments)",
-    "Visa Checkout (online payment gateway)"
+    "Visa payment network",
+    "Visa credit, debit, and prepaid card programs",
+    "Mobile payment solutions (Visa Checkout, Visa Pay)",
+    "Fraud‑prevention and risk‑management services",
+    "Data analytics and transaction reporting tools"
   ],
-  "extracted_at": "2026-03-05 18:00:21",
+  "extracted_at": "2026-03-09 16:58:57",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Visa_Inc.",
+      "url": "https://www.visa.com/splisting/LearnMore.html",
       "query": "Visa Inc. suppliers manufacturers",
-      "snippet": "Visa Inc is an American multinational payment card services corporation headquartered in San Francisco, California. It facilitates electronic funds .."
+      "snippet": "The Visa Global Registry of Service Providers lists all approved vendors (card manufacturers , magnetic-stripe card personalizers, IC personalizers, I"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.visa.com/en-us/solutions/commercial-solutions",
+      "url": "https://csimarket.com/stocks/V-Suppliers",
       "query": "Visa Inc. suppliers manufacturers",
-      "snippet": "Visa Commercial Solutions partners with financial institutions and fintechs to support businesses of all sizes across a variety of verticals."
+      "snippet": "Nov 26, 2025 · Sources: Visa Inc 's official press releases and regulatory filings; CSIMarket.com's supply -chain research; and the financial filings "
     },
     {
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Visa_Inc.",
       "query": "Visa Inc. major customers clients",
-      "snippet": "Visa is the world's second-largest card payment organization (debit and credit cards combined), after being surpassed by China UnionPay in 2015, based"
+      "snippet": "Visa does not issue cards, extend credit, or set rates and fees for consumers ; rather, Visa provides financial institutions with Visa-branded payment"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://corporate.visa.com/en/about-visa.html",
+      "url": "https://csimarket.com/stocks/V-Customers",
       "query": "Visa Inc. major customers clients",
-      "snippet": "We're a trusted network and world leader in digital payments, working to remove barriers and connect more people to the global economy. Missing: major"
+      "snippet": "These facilities enable transaction services and provide uninterrupted connectivity for account holders, our financial institution clients and our pro"
     }
   ]
 }

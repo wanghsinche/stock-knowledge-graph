@@ -1,43 +1,43 @@
 {
   "ticker": "CRCL",
   "company_name": "Circle Internet Group, Inc.",
-  "sector": "Financial Services",
-  "industry": "Capital Markets",
+  "sector": "Financial Services / Capital Markets",
+  "industry": "Payments Technology / Stablecoin Issuer",
   "upstream": [
-    "Blockchain infrastructure providers (e.g., Ethereum, Bitcoin)",
+    "AMZN",
     "MSFT",
-    "Payment processors (e.g., Stripe, PayPal)",
-    "Financial data providers (Bloomberg, Refinitiv)",
-    "Regulatory compliance and legal services"
+    "GOOGL",
+    "Stripe",
+    "PayPal"
   ],
   "downstream": [
-    "Financial institutions (banks, credit unions)",
-    "Retail merchants and e‑commerce platforms",
-    "Crypto exchanges and trading platforms",
-    "Enterprise businesses using digital currency solutions",
-    "Individual consumers via Circle Pay"
+    "Barclays",
+    "Coinbase",
+    "Binance",
+    "PayPal",
+    "Visa"
   ],
   "competitors": [
     "Coinbase",
-    "PayPal",
-    "Square (Block)",
-    "Stripe",
-    "Revolut"
+    "Gemini",
+    "Paxos",
+    "Tether",
+    "Binance USD"
   ],
   "key_products": [
     "USDC stablecoin",
     "EURC stablecoin",
     "USYC tokenized money market fund",
-    "Circle Pay",
-    "Circle Invest"
+    "Crypto payment APIs",
+    "Digital wallet services"
   ],
-  "extracted_at": "2026-03-06 16:35:29",
+  "extracted_at": "2026-03-09 16:53:48",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Circle_Internet_Group",
       "title": "Circle Internet Group",
-      "snippet": "Circle is a payments technology company. Funded by Jeremy Allaire and Sean Neville in 2013, it is currently headquartered in New York City and issues two types of stablecoin: USDC, which has a convers"
+      "snippet": "Circle is a payments technology company. Founded by Jeremy Allaire and Sean Neville in 2013, it is currently headquartered in New York City and issues two types of stablecoin: USDC, which has a conver"
     },
     {
       "source": "DuckDuckGo",
@@ -49,19 +49,19 @@
       "source": "DuckDuckGo",
       "url": "https://investor.circle.com/overview/default.aspx",
       "query": "Circle Internet Group suppliers manufacturers",
-      "snippet": "Jan 21, 2026 · Circle Investor Relations Circle is a global financial technology firm that enables businesses of all sizes to harness the power of dig"
+      "snippet": "Jan 21, 2026 · Circle is building the world’s largest, most-widely used, stablecoin network, and issues, through its regulated affiliates, USDC and EU"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.circle.com/",
+      "url": "https://en.wikipedia.org/wiki/Circle_Internet_Group",
       "query": "Circle Internet Group major customers clients",
-      "snippet": "Circle (NYSE: CRCL) enables businesses to leverage digital currencies and public blockchains for payments, commerce and financial applications worldwi"
+      "snippet": "In 2015, Circle began working with the UK bank Barclays in what was the first banking relationship between a large global bank and a bitcoin company. "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.insidermonkey.com/blog/mizuho-raises-its-price-target-on-circle-internet-group-crcl-to-100-and-maintains-a-neutral-rating-1709937/",
+      "url": "https://www.circle.com/pressroom/circle-reports-fourth-quarter-and-full-fiscal-year-2025-financial-results",
       "query": "Circle Internet Group major customers clients",
-      "snippet": "On February 25, 2026, Circle Internet Group (NYSE:CRCL) reported Q4 EPS of 43c, compared with consensus estimates of 25c. The company reported Q4 reve"
+      "snippet": "Feb 25, 2026 · Circle Internet Group, Inc. today announced results for the fourth quarter and full fiscal year 2025. Missing: clients | Show results w"
     }
   ]
 }

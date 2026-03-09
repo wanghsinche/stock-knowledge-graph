@@ -3,8 +3,8 @@ ticker: NVDA
 company: NVIDIA Corporation
 sector: Technology
 industry: Semiconductors
-extracted_at: 2026-03-06 16:28:44
-last_updated: 2026-03-06
+extracted_at: 2026-03-09 16:48:06
+last_updated: 2026-03-09
 ---
 
 # NVDA - NVIDIA Corporation
@@ -12,46 +12,46 @@ last_updated: 2026-03-06
 ## 基本信息
 
 - **所属行业**: Technology / Semiconductors
-- **提取时间**: 2026-03-06 16:28:44
+- **提取时间**: 2026-03-09 16:48:06
 
 ## 产业链关系
 
 ### 上游供应商
 - [[TSM]]
 - [[005930.KS]]
-- [[GlobalFoundries]]
 - [[MU]]
-- [[INTC]]
+- [[NVDA]]
+- [[AMD]]
 
 ### 下游客户
-- [[MSFT]]
 - [[AMZN]]
-- [[GOOGL]]
-- [[SONY]]
+- [[MSFT]]
+- [[MSFT]]
 - [[TSLA]]
+- [[High‑performance computing centers (DOE labs, universities)]]
 
 ### 竞争对手
 - [[AMD]]
 - [[INTC]]
 - [[QCOM]]
-- [[AVGO]]
-- [[ARM]]
+- [[AAPL]]
+- [[ARM Holdings (GPU IP licensing)]]
 
 ### 核心产品
-- [[GeForce GPUs]]
-- [[Quadro GPUs]]
-- [[Tesla GPUs]]
-- [[Jetson SoCs]]
-- [[CUDA API]]
+- [[GeForce GPUs (gaming)]]
+- [[Quadro/RTX GPUs (professional visualization)]]
+- [[Tesla/Datacenter GPUs (AI & HPC)]]
+- [[Jetson SoCs (edge AI & robotics)]]
+- [[CUDA API & software ecosystem]]
 
 ## 数据来源
 
 - [Nvidia](https://en.wikipedia.org/wiki/NVIDIA_Corporation)
-- [NVIDIA Corporation suppliers manufacturers](https://marketplace.nvidia.com/en-us/enterprise/partners/)
-- [NVIDIA Corporation suppliers manufacturers](https://stocksandfuturestrading.com/the-complete-list-of-nvidias-suppliers-and-consumers/)
-- [NVIDIA Corporation major customers clients](https://indianexpress.com/article/technology/artificial-intelligence/nvidia-majority-revenue-two-buyers-who-are-they-10223770/)
-- [NVIDIA Corporation major customers clients](https://www.tradingview.com/symbols/NASDAQ-NVDA/)
+- [NVIDIA Corporation suppliers manufacturers](https://www.nvidia.com/en-us/)
+- [NVIDIA Corporation suppliers manufacturers](https://www.alibaba.com/)
+- [NVIDIA Corporation major customers clients](https://www.fool.com/investing/2025/06/26/who-are-nvidias-biggest-customers/)
+- [NVIDIA Corporation major customers clients](https://www.fool.com/investing/2024/05/02/who-are-nvidias-largest-customers/)
 
 ## 元数据
 
-- **更新日期**: 2026-03-06
+- **更新日期**: 2026-03-09

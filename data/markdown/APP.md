@@ -1,57 +1,57 @@
 ---
 ticker: APP
 company: AppLovin Corporation
-sector: Communication Services
+sector: Communication Services / Advertising Agencies
 industry: Advertising Agencies
-extracted_at: 2026-03-06 16:34:45
-last_updated: 2026-03-06
+extracted_at: 2026-03-09 16:56:54
+last_updated: 2026-03-09
 ---
 
 # APP - AppLovin Corporation
 
 ## 基本信息
 
-- **所属行业**: Communication Services / Advertising Agencies
-- **提取时间**: 2026-03-06 16:34:45
+- **所属行业**: Communication Services / Advertising Agencies / Advertising Agencies
+- **提取时间**: 2026-03-09 16:56:54
 
 ## 产业链关系
 
 ### 上游供应商
-- [[GOOGL]]
 - [[AMZN]]
 - [[MSFT]]
-- [[META]]
-- [[Twitter]]
+- [[GOOGL]]
+- [[AAPL]]
+- [[GOOGL]]
 
 ### 下游客户
-- [[Mobile app developers]]
-- [[Game developers]]
-- [[E-commerce brands]]
-- [[Media companies]]
-- [[Fintech apps]]
+- [[Openta]]
+- [[Kalshi]]
+- [[Etsy]]
+- [[Mobile game developers]]
+- [[App publishers]]
 
 ### 竞争对手
+- [[The Trade Desk]]
+- [[GOOGL]]
+- [[META]]
 - [[Unity Ads]]
-- [[AdColony]]
-- [[Vungle]]
-- [[Chartboost]]
-- [[Tapjoy]]
+- [[IronSource]]
 
 ### 核心产品
 - [[Mobile advertising platform]]
 - [[App monetization solutions]]
-- [[User acquisition services]]
-- [[Data analytics and insights]]
-- [[Video advertising solutions]]
+- [[User acquisition platform]]
+- [[Ad mediation network]]
+- [[Data analytics platform]]
 
 ## 数据来源
 
 - 
+- [AppLovin Corporation suppliers manufacturers](https://en.wikipedia.org/wiki/AppLovin)
 - [AppLovin Corporation suppliers manufacturers](https://www.applovin.com/)
-- [AppLovin Corporation suppliers manufacturers](https://seekingalpha.com/article/4877124-applovin-astounding-growth-and-profitability-yet-demonstrably-out-of-favor)
-- [AppLovin Corporation major customers clients](https://www.applovin.com/)
-- [AppLovin Corporation major customers clients](https://finance.yahoo.com/news/analysts-positive-applovin-corporation-app-190018113.html)
+- [AppLovin Corporation major customers clients](https://en.wikipedia.org/wiki/AppLovin)
+- [AppLovin Corporation major customers clients](https://www.barrons.com/articles/applovin-stock-price-5471de64?gaa_at=eafs)
 
 ## 元数据
 
-- **更新日期**: 2026-03-06
+- **更新日期**: 2026-03-09

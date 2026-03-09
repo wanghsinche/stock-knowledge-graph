@@ -1,57 +1,39 @@
 ---
 ticker: LITE
 company: Lumentum Holdings Inc.
-sector: Technology / Communication Equipment
-industry: Photonics / Optical Communications
-extracted_at: 2026-03-06 16:31:38
-last_updated: 2026-03-06
+sector: Technology
+industry: Communication Equipment
+extracted_at: 2026-03-09 16:51:27
+last_updated: 2026-03-09
 ---
 
 # LITE - Lumentum Holdings Inc.
 
 ## 基本信息
 
-- **所属行业**: Technology / Communication Equipment / Photonics / Optical Communications
-- **提取时间**: 2026-03-06 16:31:38
+- **所属行业**: Technology / Communication Equipment
+- **提取时间**: 2026-03-09 16:51:27
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Semiconductor wafer suppliers]]
-- [[Optical glass manufacturers]]
-- [[META]]
-- [[Laser diode manufacturers]]
-- [[Optical fiber component suppliers]]
+_暂无数据_
 
 ### 下游客户
-- [[AT&T]]
-- [[Verizon]]
-- [[CSCO]]
-- [[Huawei]]
-- [[Nokia]]
+_暂无数据_
 
 ### 竞争对手
-- [[Coherent Inc.]]
-- [[IPG Photonics]]
-- [[Thorlabs]]
-- [[Lumenis]]
-- [[AdvanSix]]
+_暂无数据_
 
 ### 核心产品
-- [[Laser transmitters]]
-- [[Optical amplifiers]]
-- [[Optical transceivers]]
-- [[Photonic integrated circuits]]
-- [[Laser diodes]]
+_暂无数据_
 
 ## 数据来源
 
 - 
-- [Lumentum Holdings Inc. suppliers manufacturers](https://www.lumentum.com/en/company/distributors)
-- [Lumentum Holdings Inc. suppliers manufacturers](https://csimarket.com/stocks/LITE-Suppliers)
-- [Lumentum Holdings Inc. major customers clients](https://de.investing.com/equities/lumentum-holdings-inc)
-- [Lumentum Holdings Inc. major customers clients](https://www.benzinga.com/insights/options/26/01/49940402/what-the-options-market-tells-us-about-lumentum-holdings)
+- [Lumentum Holdings Inc. suppliers manufacturers](https://www.lumentum.com/en)
+- [Lumentum Holdings Inc. suppliers manufacturers](https://investor.lumentum.com/financial-news-releases/news-details/2026/NVIDIA-Announces-Strategic-Partnership-With-Lumentum-to-Develop-State-of-the-Art-Optics-Technology/default.aspx)
 
 ## 元数据
 
-- **更新日期**: 2026-03-06
+- **更新日期**: 2026-03-09

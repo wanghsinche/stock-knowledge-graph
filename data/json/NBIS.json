@@ -3,15 +3,35 @@
   "company_name": "Nebius Group N.V.",
   "sector": "Communication Services",
   "industry": "Internet Content & Information",
-  "upstream": [],
-  "downstream": [],
-  "competitors": [],
-  "key_products": [
-    "Artificial intelligence infrastructure",
-    "Nebius AI platform",
-    "Nebius AI services"
+  "upstream": [
+    "NVDA",
+    "INTC",
+    "AMD",
+    "GOOGL",
+    "AMZN"
   ],
-  "extracted_at": "2026-03-06 16:40:42",
+  "downstream": [
+    "Goldman Sachs",
+    "Cloudflare",
+    "MSFT",
+    "IBM",
+    "ORCL"
+  ],
+  "competitors": [
+    "OpenAI",
+    "Anthropic",
+    "Cohere",
+    "DeepMind",
+    "Hugging Face"
+  ],
+  "key_products": [
+    "Nebius AI Infrastructure Platform",
+    "Nebius Cloud AI Services",
+    "Nebius AI Hardware Accelerator",
+    "Nebius Data Processing Engine",
+    "Nebius AI Analytics Suite"
+  ],
+  "extracted_at": "2026-03-09 17:00:21",
   "sources": [
     {
       "source": "Wikipedia",
@@ -21,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/NBIS-Suppliers",
-      "query": "NBIS suppliers manufacturers",
-      "snippet": "May 3, 2025 · Sources: Nebius Group n v 's official press releases and regulatory filings; CSIMarket.com's supply -chain research; and the financial f"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.chamberofcommerce.com/united-states/illinois/chicago/insurance-agency/30006197-nbis",
-      "query": "NBIS suppliers manufacturers",
-      "snippet": "AboutNbis Nbis is located at 1 S Wacker Dr, Ste 2910 in Chicago , Illinois 60606. Nbis can be contacted via phone at (312) 795-1040 for pricing, hours"
-    },
-    {
-      "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Nebius_Group",
-      "query": "NBIS major customers clients",
-      "snippet": "Nebius Group N.V., headquartered in Amsterdam, is a technology company [3] that provides artificial intelligence infrastructure. [4] The company also "
+      "query": "NBIS suppliers manufacturers",
+      "snippet": "Nebius Group N.V., headquartered in Amsterdam, is a technology company that provides artificial intelligence infrastructure."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/NBIS-Customers",
+      "url": "https://finance.yahoo.com/quote/NBIS/",
+      "query": "NBIS suppliers manufacturers",
+      "snippet": "Find the latest Nebius Group N.V. ( NBIS ) stock quote, history, news and other vital information to help you with your stock trading and investing."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://x.com/techfund1/status/1955204045422899585",
       "query": "NBIS major customers clients",
-      "snippet": "Nebius Group N V customers and markets, results by customer and performance relative to NBIS , by company and industry - CSIMarket"
+      "snippet": "Aug 12, 2025 · Goldman on Nebius $NBIS - winning major customers such as Cloudflare and Shopify, and company is in discussions with frontier AI labs a"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://finance.yahoo.com/news/nebius-group-just-became-major-162548127.html",
+      "query": "NBIS major customers clients",
+      "snippet": "5 days ago · Nebius (NBIS) secured approval for a 1.2 GW Missouri AI factory on 400 acres with power delivery starting 2H 2026."
     }
   ]
 }

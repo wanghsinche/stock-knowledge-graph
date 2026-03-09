@@ -4,34 +4,34 @@
   "sector": "Healthcare",
   "industry": "Healthcare Plans",
   "upstream": [
-    "Medtronic",
-    "Stryker",
-    "Boston Scientific",
-    "Cerner",
-    "IBM"
+    "Pharmaceutical manufacturers",
+    "Medical device manufacturers",
+    "Health IT vendors",
+    "Data analytics vendors",
+    "Health care service providers"
   ],
   "downstream": [
-    "MSFT",
-    "Government programs (Medicare, Medicaid)",
-    "Health care providers (e.g., Mayo Clinic, Cleveland Clinic)",
+    "Large corporate employers",
+    "Government agencies (Medicare, Medicaid)",
+    "Small and medium businesses",
     "Individual policyholders",
-    "Health plans (e.g., Blue Cross Blue Shield)"
+    "Health care providers (hospitals, clinics)"
   ],
   "competitors": [
-    "Kaiser Permanente",
+    "Anthem",
     "Aetna",
     "Cigna",
     "Humana",
-    "Blue Cross Blue Shield"
+    "Kaiser Permanente"
   ],
   "key_products": [
     "UnitedHealthcare insurance plans",
-    "Optum health services",
-    "OptumRx pharmacy benefit management",
-    "OptumLabs data analytics",
-    "OptumInsight health IT solutions"
+    "Optum health care services",
+    "OptumRx pharmacy services",
+    "OptumInsight data analytics",
+    "OptumLabs clinical services"
   ],
-  "extracted_at": "2026-03-06 16:39:03",
+  "extracted_at": "2026-03-09 16:57:39",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/UnitedHealth_Group",
+      "query": "UnitedHealth Group Incorporated suppliers manufacturers",
+      "snippet": "UnitedHealth Group Incorporated is an American multinational for-profit company based in Eden Prairie, Minnesota specializing in health insurance and "
+    },
+    {
+      "source": "DuckDuckGo",
       "url": "https://www.unitedhealthgroup.com/suppliers/information.html",
       "query": "UnitedHealth Group Incorporated suppliers manufacturers",
-      "snippet": "Supplier Community Portal At UnitedHealth Group , we search for suppliers that help us deliver best-in-class services to our customers. These partners"
+      "snippet": "Information for UnitedHealth Group suppliers, including access to our vendor portal."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/UNH-Suppliers",
-      "query": "UnitedHealth Group Incorporated suppliers manufacturers",
-      "snippet": "Sources: Unitedhealth Group Incorporated 's official press releases and regulatory filings; CSIMarket.com's supply -chain research; and the financial "
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/UNH-Customers",
+      "url": "https://finance.yahoo.com/news/jim-cramer-unitedhealthgroup-incorporation-unh-200611867.html",
       "query": "UnitedHealth Group Incorporated major customers clients",
-      "snippet": "Unitedhealth Group Incorporated customers and markets, results by customer and performance relative to UNH, by company and industry - CSIMarket"
+      "snippet": "UnitedHealth Group Incorporated (NYSE:UNH). Number of Hedge Fund Holders: 114.UNH is the only health insurer that regularly beats earnings. Nothing's "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.unitedhealthgroup.com/uhg/businesses.html",
+      "url": "https://www.bbb.org/us/mn/minnetonka/profile/health-insurance/unitedhealth-group-0704-21000358/customer-reviews",
       "query": "UnitedHealth Group Incorporated major customers clients",
-      "snippet": "UnitedHealth Group is a health care and well-being company with team members in two distinct and complementary businesses — Optum and UnitedHealthcare"
+      "snippet": "View BBB customer reviews of UnitedHealth Group . Leave a review and share your experience with the BBB and UnitedHealth Group . UnitedHealth Group ha"
     }
   ]
 }

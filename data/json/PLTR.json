@@ -7,31 +7,31 @@
     "AMZN",
     "MSFT",
     "GOOGL",
-    "IBM",
-    "DELL"
+    "INTC",
+    "NVDA"
   ],
   "downstream": [
     "U.S. Department of Defense",
-    "INTC",
-    "Law Enforcement Agencies",
-    "Financial Institutions",
-    "Healthcare Providers"
+    "Federal Bureau of Investigation (FBI)",
+    "UK Ministry of Defence",
+    "JPMorgan Chase",
+    "Walmart"
   ],
   "competitors": [
-    "IBM",
-    "SAS",
-    "ORCL",
-    "MSFT",
-    "Snowflake"
+    "Snowflake",
+    "Databricks",
+    "Splunk",
+    "CRM",
+    "Qlik"
   ],
   "key_products": [
     "Gotham",
     "Foundry",
-    "Palantir Apollo",
+    "Apollo",
     "Palantir Platform",
     "Palantir Data Integration"
   ],
-  "extracted_at": "2026-03-06 16:30:25",
+  "extracted_at": "2026-03-09 16:49:43",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,25 +43,25 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Palantir",
       "query": "Palantir Technologies Inc. suppliers manufacturers",
-      "snippet": "Palantir Technologies Inc . is an American publicly traded company that develops data integration and analytics platforms enabling government agencies"
+      "snippet": "Palantir Technologies Inc. is an American publicly traded company that develops data integration and analytics platforms enabling government agencies,"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/PLTR-Suppliers",
+      "url": "https://www.palantir.com/explore/foundry-for-manufacturing/",
       "query": "Palantir Technologies Inc. suppliers manufacturers",
-      "snippet": "Feb 19, 2026 · Sources: Palantir Technologies Inc 's official press releases and regulatory filings; CSIMarket.com's supply-chain research; and the fi"
+      "snippet": "Palantir Foundry offers a number of solutions for the manufacturing industry including predictive maintenance, digital twin, AI-powered applications, "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.marketwatch.com/investing/stock/pltr",
+      "url": "https://enlyft.com/tech/products/palantir",
       "query": "Palantir Technologies Inc. major customers clients",
-      "snippet": "PLTR | Complete Palantir Technologies Inc . stock news by MarketWatch. Palantir Technologies , Inc . engages in the business of building and deploying"
+      "snippet": "2184 companies use Palantir. Palantir is most often used by companies with 50-200 employees & $1M-10M in revenue. Our usage data goes back 10 years an"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.youtube.com/watch?v=dRgPbNJ5RJc",
+      "url": "https://www.statista.com/statistics/1286996/palantir-technologies-number-of-customers/?srsltid=AfmBOopm0KyjwHREDTcAjkyesF31_4nG9q1Zs7vskzzTIuzTW8uRg4lW",
       "query": "Palantir Technologies Inc. major customers clients",
-      "snippet": "A conversation with Alex Karp, CEO and Co-Founder of Palantir Technologies .Speakers: Alex Karp, Laurence D. FinkThe 56th Annual Meeting of the World "
+      "snippet": "Feb 3, 2026 · As of the fourth quarter of 2025, the American software company counted nearly 954 customers, up from 391 at the beginning of 2023. Miss"
     }
   ]
 }

@@ -4,34 +4,34 @@
   "sector": "Financial Services",
   "industry": "Asset Management",
   "upstream": [
-    "Bloomberg L.P.",
-    "Refinitiv",
-    "MSFT",
-    "AMZN",
-    "FactSet"
+    "Financial data providers",
+    "Technology vendors",
+    "Consulting firms",
+    "Cloud service providers",
+    "Regulatory bodies"
   ],
   "downstream": [
     "Pension funds",
     "Sovereign wealth funds",
+    "Mutual funds",
     "Insurance companies",
-    "Endowments",
-    "Mutual fund investors"
+    "Individual investors"
   ],
   "competitors": [
     "Vanguard Group",
     "Fidelity Investments",
-    "State Street Global Advisors",
+    "State Street Corporation",
     "J.P. Morgan Asset Management",
     "BNY Mellon Investment Management"
   ],
   "key_products": [
     "iShares ETFs",
-    "Aladdin risk‑management platform",
-    "BlackRock Mutual Funds",
-    "Alternative investment solutions",
-    "Wealth management services"
+    "Aladdin risk management platform",
+    "BlackRock Investment Management services",
+    "Private equity funds",
+    "Sustainable investing solutions"
   ],
-  "extracted_at": "2026-03-06 16:40:02",
+  "extracted_at": "2026-03-09 16:59:52",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/competitionNO4.php?supply&code=BLK",
+      "url": "https://en.wikipedia.org/wiki/BlackRock",
       "query": "BlackRock, Inc. suppliers manufacturers",
-      "snippet": "Suppliers Customers Suppliers Investment Services Financial Basic Data Quarterly Results Stock Performance Growth Rates Per Employee Efficiency Manage"
+      "snippet": "BlackRock , Inc . is an American multinational investment company. Founded in 1988, initially as an enterprise risk management and fixed income instit"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.blackrock.com/corporate/literature/continuous-disclosure-and-important-information/blackrock-supplier-code-of-conduct.pdf",
+      "url": "https://ru.wikipedia.org/wiki/BlackRock",
       "query": "BlackRock, Inc. suppliers manufacturers",
-      "snippet": "This BlackRock Supplier Code of Conduct & Ethics (“Code”) outlines the minimum expectations and standards of all BlackRock Suppliers in relation to an"
+      "snippet": "BlackRock , Inc ., «БлэкРок» — американская международная инвестиционная компания со штаб-квартирой в Нью-Йорке. Одна из крупнейших инвестиционных ком"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/BlackRock",
       "query": "BlackRock, Inc. major customers clients",
-      "snippet": "BlackRock , Inc . is an American multinational investment company.In August 2004, BlackRock made its first major acquisition, buying State Street Rese"
+      "snippet": "BlackRock states these shares are ultimately owned by the company's clients, not by BlackRock itself—a view shared by multiple independent academics—b"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ru.wikipedia.org/wiki/BlackRock",
+      "url": "https://www.blackrock.com/institutions/en-us/solutions/blackrock-client-partnership/all-client-groups",
       "query": "BlackRock, Inc. major customers clients",
-      "snippet": "BlackRock , Inc ., «БлэкРок» — американская международная инвестиционная компания со штаб-квартирой в Нью-Йорке. Одна из крупнейших инвестиционных ком"
+      "snippet": "At BlackRock , our business is investing on behalf of our institutional clients – from large pension funds, to foundations, to single-family offices."
     }
   ]
 }

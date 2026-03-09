@@ -3,11 +3,35 @@
   "company_name": "Bloom Energy Corporation",
   "sector": "Industrials",
   "industry": "Electrical Equipment & Parts",
-  "upstream": [],
-  "downstream": [],
-  "competitors": [],
-  "key_products": [],
-  "extracted_at": "2026-03-06 16:38:12",
+  "upstream": [
+    "CAT",
+    "Nickel alloy suppliers",
+    "Ceramic material suppliers",
+    "Electrolyzer component manufacturers",
+    "Fuel suppliers (natural gas, biogas, hydrogen)"
+  ],
+  "downstream": [
+    "AMZN",
+    "GOOGL",
+    "MSFT",
+    "Manufacturing facilities",
+    "Hospitals and healthcare facilities"
+  ],
+  "competitors": [
+    "FuelCell Energy",
+    "Plug Power",
+    "Doosan Fuel Cell",
+    "PowerCell Sweden",
+    "NexGen Energy"
+  ],
+  "key_products": [
+    "Solid Oxide Fuel Cells (SOFCs)",
+    "Electrolyzers for hydrogen production",
+    "On‑site power systems",
+    "Hybrid power solutions",
+    "Power modules"
+  ],
+  "extracted_at": "2026-03-09 16:57:29",
   "sources": [
     {
       "source": "Wikipedia",
@@ -23,9 +47,21 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/BE-Suppliers",
+      "url": "https://www.bloomenergy.com/",
       "query": "Bloom Energy Corporation suppliers manufacturers",
-      "snippet": "Feb 10, 2026 · Sources: Bloom Energy Corporation 's official press releases and regulatory filings; CSIMarket.com's supply-chain research; and the fin"
+      "snippet": "Bloom Energy delivers clean, reliable, scalable onsite power to multiple industries, installed in as little as three months."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.linkedin.com/company/bloom-energy",
+      "query": "Bloom Energy Corporation major customers clients",
+      "snippet": "Bloom Energy empowers businesses and communities to responsibly take charge of their energy . The company’s leading solid-oxide platform for distribut"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://finance.yahoo.com/news/bloom-energy-corporation-best-hydrogen-144600863.html",
+      "query": "Bloom Energy Corporation major customers clients",
+      "snippet": "Bloom Energy Corporation (NYSE:BE) is a clean energy company that manufactures and installs solid oxide fuel cell systems under its flagship product, "
     }
   ]
 }

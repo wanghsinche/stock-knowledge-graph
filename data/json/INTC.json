@@ -7,8 +7,8 @@
     "TSM",
     "005930.KS",
     "GlobalFoundries",
-    "ASE Technology Holding",
-    "MU"
+    "MU",
+    "SK Hynix"
   ],
   "downstream": [
     "DELL",
@@ -21,17 +21,17 @@
     "AMD",
     "NVDA",
     "QCOM",
-    "AVGO",
+    "TSM",
     "005930.KS"
   ],
   "key_products": [
     "Intel Core processors",
     "Intel Xeon processors",
-    "Intel Atom processors",
-    "Intel FPGAs (Stratix, Arria)",
-    "Intel AI accelerators (Xeon Phi, Habana Labs)"
+    "Intel Optane memory",
+    "Intel Ethernet controllers",
+    "Intel AI inference chips"
   ],
-  "extracted_at": "2026-03-06 16:31:59",
+  "extracted_at": "2026-03-09 16:53:27",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,21 +47,21 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/INTC-Suppliers",
+      "url": "https://www.intel.com/",
       "query": "Intel Corporation suppliers manufacturers",
-      "snippet": "Intel supply chain, list and performance of Intels' suppliers - CSIMarket. Intel 's Comment on Supply Chain. We use third-party foundries to manufactu"
+      "snippet": "See how suppliers are developing solutions based on Intel ® Xeon® for..."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Intel",
+      "url": "https://csimarket.com/stocks/INTC-Customers",
       "query": "Intel Corporation major customers clients",
-      "snippet": "Intel Corporation is an American multinational technology company headquartered in Santa Clara, California. It designs, manufactures, and sells comput"
+      "snippet": "Intel customers and markets, results by customer and performance relative to INTC, by company and industry - CSIMarket"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.benzinga.com/25/03/44469986/intel-targets-major-foundry-clients-in-new-strategy-to-revitalize-chip-design-says-ubs",
+      "url": "https://www.investopedia.com/articles/markets/100214/inside-intel-look-mega-chipmaker.asp",
       "query": "Intel Corporation major customers clients",
-      "snippet": "Intel Corp . (NASDAQ: INTC) is reportedly strategizing to rejuvenate its chip design and broaden its foundry business, with the potential of securing "
+      "snippet": "6 days ago · Intel has lost market share to TSMC, AMD, and Samsung. The completion of Intel's new Ohio plant has been delayed to 2030. Intel's main cu"
     }
   ]
 }

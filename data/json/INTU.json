@@ -4,33 +4,34 @@
   "sector": "Technology",
   "industry": "Software - Application",
   "upstream": [
-    "Cloud service providers (e.g., AWS, Azure)",
-    "Payment processors (e.g., Stripe, PayPal)",
-    "Data providers (e.g., tax data aggregators)",
-    "Hardware manufacturers (e.g., PC and mobile device makers)",
-    "Software component vendors (e.g., UI libraries, analytics tools)"
+    "AMZN",
+    "MSFT",
+    "GOOGL",
+    "INTC",
+    "NVDA"
   ],
   "downstream": [
-    "Individual taxpayers using TurboTax",
-    "Small business owners using QuickBooks",
-    "Accountants and CPA firms",
-    "Credit monitoring customers using Credit Karma",
-    "Marketing agencies using Mailchimp"
+    "Small businesses",
+    "Individual taxpayers",
+    "Accountants",
+    "Tax preparers",
+    "Financial advisors"
   ],
   "competitors": [
-    "Sage",
+    "H&R Block",
+    "TaxAct",
     "Xero",
-    "FreshBooks",
-    "Wave",
-    "Zoho Books"
+    "Sage",
+    "FreshBooks"
   ],
   "key_products": [
     "TurboTax",
     "QuickBooks",
     "Credit Karma",
-    "Mailchimp"
+    "Mailchimp",
+    "QuickBooks Payments"
   ],
-  "extracted_at": "2026-03-06 16:34:08",
+  "extracted_at": "2026-03-09 17:00:01",
   "sources": [
     {
       "source": "Wikipedia",
@@ -40,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/Intuit",
+      "query": "Intuit Inc. suppliers manufacturers",
+      "snippet": "Intuit Inc . is an American multinational business software company that specializes in financial software. Headquartered in Mountain View, California"
+    },
+    {
+      "source": "DuckDuckGo",
       "url": "https://csimarket.com/stocks/INTU-Suppliers",
       "query": "Intuit Inc. suppliers manufacturers",
-      "snippet": "Intuit Inc 's Suppliers recorded an increase in sales by 4.22 % year on year in Q3 2025, sequentially sales grew by 2.69 %, Intuit Inc recorded increa"
+      "snippet": "Intuit Inc supply chain, list and performance of Intuit Incs ' suppliers - CSIMarket"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.intuit.com/company/supplier-programs/",
-      "query": "Intuit Inc. suppliers manufacturers",
-      "snippet": "Supplier Management Growth and Innovation We are dedicated to improving the way suppliers interact and conduct business with us. The Coupa Supplier Po"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/news/intuit-inc-intu-posts-strong-004013404.html",
+      "url": "https://ca.finance.yahoo.com/news/intuit-inc-intu-posts-strong-004013404.html",
       "query": "Intuit Inc. major customers clients",
       "snippet": "Intuit Inc . (NASDAQ:INTU) is one of the best blue chip stocks to buy for the long term. On February 27, TD Cowen analyst Jared Levine reiterated a Bu"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.zacks.com/stock/news/2876269/intuit-intu-q2-earnings-and-revenues-top-estimates",
+      "url": "https://www.marketresearch.com/GlobalData-v3648/Intuit-INTU-Financial-Strategic-SWOT-38414797/",
       "query": "Intuit Inc. major customers clients",
-      "snippet": "Intuit (INTU) delivered earnings and revenue surprises of +13.25% and +2.75%, respectively, for the quarter ended January 2026. Do the numbers hold cl"
+      "snippet": "Highlights. Intuit Inc ( Intuit ) offers financial management, marketing and compliance products and services. It also provides tax products to accoun"
     }
   ]
 }

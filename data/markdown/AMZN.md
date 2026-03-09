@@ -3,8 +3,8 @@ ticker: AMZN
 company: Amazon.com, Inc.
 sector: Consumer Cyclical
 industry: Internet Retail
-extracted_at: 2026-03-06 16:30:12
-last_updated: 2026-03-06
+extracted_at: 2026-03-09 16:49:33
+last_updated: 2026-03-09
 ---
 
 # AMZN - Amazon.com, Inc.
@@ -12,46 +12,46 @@ last_updated: 2026-03-06
 ## 基本信息
 
 - **所属行业**: Consumer Cyclical / Internet Retail
-- **提取时间**: 2026-03-06 16:30:12
+- **提取时间**: 2026-03-09 16:49:33
 
 ## 产业链关系
 
 ### 上游供应商
 - [[Book publishers]]
-- [[AAPL]]
-- [[Apparel brands (e.g., Nike, Adidas)]]
-- [[Home goods suppliers]]
-- [[Consumer electronics distributors]]
+- [[Electronics manufacturers]]
+- [[Apparel suppliers]]
+- [[Home goods distributors]]
+- [[Third‑party logistics providers]]
 
 ### 下游客户
-- [[Individual consumers worldwide]]
+- [[Individual consumers]]
 - [[AMZN]]
-- [[AMZN]]
+- [[Enterprise customers using AWS]]
 - [[AMZN]]
 - [[AMZN]]
 
 ### 竞争对手
-- [[eBay]]
-- [[Walmart]]
-- [[Alibaba]]
-- [[Shopify]]
-- [[Target]]
+- [[Walmart Inc.]]
+- [[Alibaba Group Holding Ltd.]]
+- [[eBay Inc.]]
+- [[Shopify Inc.]]
+- [[MSFT]]
 
 ### 核心产品
-- [[Amazon.com marketplace]]
-- [[Amazon Prime subscription]]
-- [[Amazon Web Services (AWS)]]
-- [[Amazon Echo/Alexa devices]]
-- [[Amazon Kindle e-readers]]
+- [[Amazon.com e‑commerce marketplace]]
+- [[Amazon Prime subscription services]]
+- [[Amazon Web Services (cloud computing)]]
+- [[Amazon Advertising platform]]
+- [[Amazon Devices (Echo, Kindle, Fire)]]
 
 ## 数据来源
 
 - [Amazon (company)](https://en.wikipedia.org/wiki/Amazon.com,_Inc.)
-- [Amazon.com, Inc. suppliers manufacturers](https://www.ecomdepotwholesale.com/post/list-of-amazon-authorized-suppliers-for-2024-the-complete-guide-to-finding-verified-suppliers)
-- [Amazon.com, Inc. suppliers manufacturers](https://d39w7f4ix9f5s9.cloudfront.net/cb/19/77dfc5b441c892cd6e2be166ba70/final-amazon-supplier-list-2019-11-14-updated-1005am.pdf)
-- [Amazon.com, Inc. major customers clients](https://capitaloneshopping.com/research/amazon-statistics/)
-- [Amazon.com, Inc. major customers clients](https://www.businessofapps.com/data/amazon-statistics)
+- [Amazon.com, Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/Amazon_(company))
+- [Amazon.com, Inc. suppliers manufacturers](https://suppliercentral.amazon.com/)
+- [Amazon.com, Inc. major customers clients](https://en.wikipedia.org/wiki/Amazon_(company))
+- [Amazon.com, Inc. major customers clients](https://ir.aboutamazon.com/news-release/news-release-details/2026/Amazon-com-Announces-Fourth-Quarter-Results/)
 
 ## 元数据
 
-- **更新日期**: 2026-03-06
+- **更新日期**: 2026-03-09

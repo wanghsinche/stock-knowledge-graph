@@ -4,18 +4,18 @@
   "sector": "Communication Services",
   "industry": "Internet Content & Information",
   "upstream": [
+    "QCOM",
     "INTC",
-    "AMD",
-    "NVDA",
-    "CSCO",
-    "DELL"
+    "005930.KS",
+    "TSM",
+    "NVDA"
   ],
   "downstream": [
     "GOOGL",
+    "YouTube advertisers",
+    "Android OEMs",
     "GOOGL",
-    "GOOGL",
-    "GOOGL",
-    "Content creators (YouTube partners)"
+    "GOOGL"
   ],
   "competitors": [
     "MSFT",
@@ -27,11 +27,11 @@
   "key_products": [
     "Google Search",
     "YouTube",
-    "Google Cloud Platform",
-    "Google Ads",
-    "Android OS"
+    "Google Cloud",
+    "Android OS",
+    "Google Ads"
   ],
-  "extracted_at": "2026-03-06 16:31:27",
+  "extracted_at": "2026-03-09 16:52:50",
   "sources": [
     {
       "source": "Wikipedia",
@@ -53,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/GOOGL-Customers",
+      "url": "https://en.wikipedia.org/wiki/Alphabet_Inc.",
       "query": "Alphabet Inc. major customers clients",
-      "snippet": "Feb 9, 2026 · Alphabet Inc customers and markets, results by customer and performance relative to GOOGL, by company and industry - CSIMarket"
+      "snippet": "Google, Internet services, largest subsidiary and prior corporate entity name, Sundar Pichai ; Google Fiber, Internet access: via fiber, Dinesh Jain ;"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://swottemplate.com/blogs/target-market/abc-target-market",
+      "url": "https://portersfiveforce.com/blogs/target-market/abc",
       "query": "Alphabet Inc. major customers clients",
-      "snippet": "Jul 4, 2025 · This analysis of Alphabet target market and customer demographics is essential for investors, analysts, and anyone seeking to understand"
+      "snippet": "Nov 10, 2025 · This is Alphabet's primary revenue driver, consisting of over 10 million advertisers and Google Cloud Platform clients. GCP achieved 28"
     }
   ]
 }

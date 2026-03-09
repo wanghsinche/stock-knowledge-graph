@@ -4,34 +4,34 @@
   "sector": "Communication Services",
   "industry": "Internet Content & Information",
   "upstream": [
-    "DELL",
-    "HPQ",
-    "Lenovo",
-    "CSCO",
+    "Corning Inc. (glass for VR and mobile devices)",
+    "QCOM",
+    "005930.KS",
+    "INTC",
     "NVDA"
   ],
   "downstream": [
-    "Advertisers (brands and agencies)",
-    "App developers",
-    "Content creators",
-    "Small businesses",
-    "Large enterprises"
+    "Coca‑Cola Co. (advertiser)",
+    "Nike, Inc. (advertiser)",
+    "005930.KS",
+    "GOOGL",
+    "AMZN"
   ],
   "competitors": [
     "GOOGL",
     "AMZN",
     "AAPL",
     "MSFT",
-    "TikTok (ByteDance)"
+    "ByteDance Ltd. (TikTok)"
   ],
   "key_products": [
     "Facebook",
     "Instagram",
     "WhatsApp",
-    "Messenger",
-    "Threads"
+    "Meta Quest (VR/AR headset)",
+    "Meta Ads (advertising platform)"
   ],
-  "extracted_at": "2026-03-06 16:30:47",
+  "extracted_at": "2026-03-09 16:50:52",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ru.wikipedia.org/wiki/Meta_Platforms",
+      "url": "https://finance.yahoo.com/news/meta-platforms-resets-ai-supply-160540199.html",
       "query": "Meta Platforms, Inc. suppliers manufacturers",
-      "snippet": "Meta Platforms , Inc . — американская транснациональная холдинговая компания, владеющая технологическим конгломератом и расположенная в Менло-Парке, К"
+      "snippet": "3 days ago · Meta Platforms (NasdaqGS:META) has agreed multi billion dollar, multi year AI infrastructure and data center hardware deals with AMD, ..."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/List_of_computer_hardware_manufacturers",
+      "url": "https://www.corning.com/worldwide/en/about-us/news-events/news-releases/2026/01/corning-and-meta-announce-multiyear-up-to-6-billion-agreement-to-accelerate-us-data-center-buildout.html",
       "query": "Meta Platforms, Inc. suppliers manufacturers",
-      "snippet": "Current notable computer hardware manufacturers : Cases. [edit]. List of computer case manufacturers : This list is incomplete; you can help by adding"
+      "snippet": "Jan 27, 2026 · Under the agreement, Corning will supply Meta with its newest innovations in optical fiber, cable, and connectivity solutions. To suppo"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ru.wikipedia.org/wiki/Meta_Platforms",
+      "url": "https://en.wikipedia.org/wiki/Meta_Platforms",
       "query": "Meta Platforms, Inc. major customers clients",
-      "snippet": "Meta Platforms , Inc . — американская транснациональная холдинговая компания, владеющая технологическим конгломератом и расположенная в Менло-Парке, К"
+      "snippet": "Meta owns and operates several prominent social media platforms and communication services, including Facebook, Instagram, WhatsApp, Messenger, Thread"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://developers.meta.com/",
+      "url": "https://www.statista.com/topics/9038/meta-platforms/?srsltid=AfmBOoq44zS0ZFChIRkx6LUgo4zm9_wBggqPjNaoL7FiJ6-RO1JxzVDp",
       "query": "Meta Platforms, Inc. major customers clients",
-      "snippet": "Build on every platform with Meta . Develop with Meta to create successful apps and projects, and grow your business.LAFISE Bank. Providing fast, more"
+      "snippet": "Clear market dominance Meta Platforms owns social media giants Facebook, Instagram, WhatsApp, and Messenger, among others, all of which are household "
     }
   ]
 }

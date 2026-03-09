@@ -4,34 +4,34 @@
   "sector": "Financial Services",
   "industry": "Banks - Diversified",
   "upstream": [
-    "MSFT",
-    "MSFT",
-    "Payment processors (e.g., Visa, Mastercard)",
-    "Cybersecurity vendors (e.g., Symantec, Palo Alto Networks)",
-    "Data analytics providers (e.g., SAS, Palantir)"
+    "Technology vendors",
+    "IT service providers",
+    "Office equipment suppliers",
+    "Legal services firms",
+    "Consulting firms"
   ],
   "downstream": [
-    "Retail banking customers (individuals)",
-    "Small business clients",
-    "Corporate and institutional clients",
-    "Wealth management and private banking clients",
-    "Mortgage borrowers"
+    "Retail banking customers",
+    "Corporate clients",
+    "Institutional investors",
+    "Mortgage borrowers",
+    "Small and medium enterprises"
   ],
   "competitors": [
-    "JPMorgan Chase & Co.",
-    "Citigroup Inc.",
-    "Wells Fargo & Co.",
-    "Goldman Sachs Group Inc.",
+    "JPMorgan Chase",
+    "Citigroup",
+    "Wells Fargo",
+    "Goldman Sachs",
     "Morgan Stanley"
   ],
   "key_products": [
     "Retail banking services",
-    "Commercial banking services",
-    "Investment banking and capital markets",
-    "Wealth management and private banking",
-    "Credit card and consumer lending"
+    "Commercial banking",
+    "Investment banking",
+    "Wealth management",
+    "Mortgage lending"
   ],
-  "extracted_at": "2026-03-06 16:39:47",
+  "extracted_at": "2026-03-09 16:55:32",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Bank_of_America",
+      "url": "https://about.bankofamerica.com/content/dam/about/pdfs/Bank_of_America_Supplier_Expectations.pdf",
       "query": "Bank of America Corporation suppliers manufacturers",
-      "snippet": "The Bank of America Corporation is an American multinational investment bank and financial services holding company headquartered at the Bank of Ameri"
+      "snippet": "Operating a responsible and transparent business, including through our suppliers, is critical to our strength and stability as a company and is a cor"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.bankofamerica.com/online-banking/sign-in/",
+      "url": "https://business.bofa.com/en-us/content/supply-chain-finance-solutions-in-action.html",
       "query": "Bank of America Corporation suppliers manufacturers",
-      "snippet": "Log in to Mobile & Online Banking to access your personal and small business accounts, see balances, transfer funds, pay bills and more.Employer Spons"
+      "snippet": "How suppliers can benefit ; Lower-cost financing. Access funds based on your buyer's credit profile ; Better cash flow forecasting. Monetize your rece"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/Bank_of_America",
+      "query": "Bank of America Corporation major customers clients",
+      "snippet": "It serves about 10 percent of all American bank deposits, in direct competition with JPMorgan Chase, Citigroup, and Wells Fargo. Its primary financial"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://newsroom.bankofamerica.com/content/newsroom/company-overview/bank-of-america-fast-facts.html",
       "query": "Bank of America Corporation major customers clients",
-      "snippet": "Feb 24, 2026 · Explore Bank of America Fast Facts for key insights on our global presence, financial services, client reach, and commitment to respons"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/BAC-Customers",
-      "query": "Bank of America Corporation major customers clients",
-      "snippet": "Feb 26, 2026 · Bank Of America customers and markets, results by customer and performance relative to BAC, by company and industry - CSIMarket"
+      "snippet": "We serve approximately 70 million clients, institutional investor, medium and large corporate clients globally. Missing: major | Show results with: ma"
     }
   ]
 }
