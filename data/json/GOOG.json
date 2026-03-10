@@ -4,34 +4,34 @@
   "sector": "Communication Services",
   "industry": "Internet Content & Information",
   "upstream": [
-    "QCOM",
     "INTC",
+    "QCOM",
     "005930.KS",
-    "TSM",
-    "NVDA"
+    "NVDA",
+    "AVGO"
   ],
   "downstream": [
     "GOOGL",
-    "YouTube advertisers",
-    "Android OEMs",
     "GOOGL",
-    "GOOGL"
+    "GOOGL",
+    "YouTube content creators",
+    "Android device manufacturers"
   ],
   "competitors": [
     "MSFT",
     "AMZN",
     "META",
     "AAPL",
-    "Tencent"
+    "NFLX"
   ],
   "key_products": [
     "Google Search",
     "YouTube",
-    "Google Cloud",
     "Android OS",
+    "Google Cloud Platform",
     "Google Ads"
   ],
-  "extracted_at": "2026-03-09 16:52:50",
+  "extracted_at": "2026-03-10 16:48:55",
   "sources": [
     {
       "source": "Wikipedia",
@@ -55,13 +55,13 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Alphabet_Inc.",
       "query": "Alphabet Inc. major customers clients",
-      "snippet": "Google, Internet services, largest subsidiary and prior corporate entity name, Sundar Pichai ; Google Fiber, Internet access: via fiber, Dinesh Jain ;"
+      "snippet": "Alphabet Inc . is an American multinational technology conglomerate holding company headquartered in Mountain View, California. It was created through"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://portersfiveforce.com/blogs/target-market/abc",
+      "url": "https://www.britannica.com/money/Alphabet-Inc",
       "query": "Alphabet Inc. major customers clients",
-      "snippet": "Nov 10, 2025 · This is Alphabet's primary revenue driver, consisting of over 10 million advertisers and Google Cloud Platform clients. GCP achieved 28"
+      "snippet": "Alphabet Inc . is an American technology conglomerate and holding company formed in 2015 as a strategic... Alphabet ’s subsidiaries are generally sepa"
     }
   ]
 }

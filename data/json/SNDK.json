@@ -1,37 +1,35 @@
 {
   "ticker": "SNDK",
-  "company_name": "SanDisk Corporation",
+  "company_name": "Sandisk Corporation",
   "sector": "Technology",
   "industry": "Computer Hardware",
   "upstream": [
-    "WDC",
-    "MU",
+    "TSM",
     "005930.KS",
+    "MU",
     "SK Hynix",
-    "Nanya Technology"
+    "INTC"
   ],
   "downstream": [
-    "AAPL",
     "DELL",
     "HPQ",
-    "Lenovo Group",
+    "Lenovo",
+    "AAPL",
     "MSFT"
   ],
   "competitors": [
     "Kingston Technology",
     "MU",
-    "Lexar Technologies",
     "Corsair",
-    "005930.KS"
+    "005930.KS",
+    "INTC"
   ],
   "key_products": [
-    "Memory cards (SD, microSD)",
+    "Memory cards",
     "USB flash drives",
-    "Solid‑state drives (SSDs)",
-    "Enterprise flash storage",
-    "Embedded flash solutions"
+    "Solid-state drives"
   ],
-  "extracted_at": "2026-03-09 16:48:32",
+  "extracted_at": "2026-03-10 16:46:59",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +39,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Western_Digital",
+      "url": "https://www.sandisk.com/company/distributors",
       "query": "Sandisk Corporation suppliers manufacturers",
-      "snippet": "Western Digital Corporation , doing business as WD, is an American data storage company headquartered in San Jose, California. Established in 1970, th"
+      "snippet": "Find Sandisk Distributors & Resellers Purchase from your preferred Sandisk authorized partner. Region Country/Area Brand"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ru.wikipedia.org/wiki/SanDisk",
+      "url": "https://www.mouser.com/manufacturer/sandisk/",
       "query": "Sandisk Corporation suppliers manufacturers",
-      "snippet": "SanDisk Corporation . Изображение логотипа. SanDisk — американская корпорация, занимавшаяся разработкой и производством носителей информации на базе ф"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://data.landbase.com/technology/sandisk/",
-      "query": "Sandisk Corporation major customers clients",
-      "snippet": "Aug 17, 2025 · Our SanDisk customers list is available for download and comes enriched with vital company specifics, including industry classification"
+      "snippet": "SanDisk Corporation is a global leader in flash storage solutions, expanding the possibilities of storage and providing trusted and innovative product"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://enlyft.com/tech/products/sandisk",
       "query": "Sandisk Corporation major customers clients",
-      "snippet": "Looking at SanDisk customers by industry, we find that Information Technology and Services (12%), Computer Software (8%), Marketing and Advertising (8"
+      "snippet": "Looking at SanDisk customers by industry, we find that Information Technology and Services (11%), Computer Software (9%), Marketing and Advertising (8"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://investor.sandisk.com/news-releases/news-release-details/sandisk-reports-fiscal-second-quarter-2026-financial-results",
+      "query": "Sandisk Corporation major customers clients",
+      "snippet": "Jan 29, 2026 · Datacenter revenue was up 64% sequentially, driven by strong adoption among AI infrastructure builders, semi-custom customers, and tech"
     }
   ]
 }

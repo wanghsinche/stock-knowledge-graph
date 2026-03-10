@@ -1,57 +1,57 @@
 ---
 ticker: WDC
 company: Western Digital Corporation
-sector: Technology
-industry: Computer Hardware
-extracted_at: 2026-03-09 16:55:24
-last_updated: 2026-03-09
+sector: Technology / Computer Hardware
+industry: Data Storage
+extracted_at: 2026-03-10 16:50:25
+last_updated: 2026-03-10
 ---
 
 # WDC - Western Digital Corporation
 
 ## 基本信息
 
-- **所属行业**: Technology / Computer Hardware
-- **提取时间**: 2026-03-09 16:55:24
+- **所属行业**: Technology / Computer Hardware / Data Storage
+- **提取时间**: 2026-03-10 16:50:25
 
 ## 产业链关系
 
 ### 上游供应商
 - [[005930.KS]]
-- [[Printed circuit board (PCB) suppliers]]
-- [[META]]
-- [[Electronics component suppliers (capacitors, resistors)]]
-- [[Precision machining and assembly equipment vendors]]
+- [[SK Hynix]]
+- [[MU]]
+- [[Toshiba]]
+- [[WDC]]
 
 ### 下游客户
 - [[DELL]]
-- [[DELL]]
-- [[MSFT]]
-- [[Data center operators and telecom companies]]
-- [[SONY]]
+- [[HPQ]]
+- [[Lenovo]]
+- [[AAPL]]
+- [[AMZN]]
 
 ### 竞争对手
 - [[STX]]
-- [[Toshiba Storage]]
+- [[Toshiba]]
 - [[005930.KS]]
 - [[MU]]
-- [[IBM]]
+- [[SK Hynix]]
 
 ### 核心产品
-- [[Internal hard disk drives (HDDs)]]
-- [[Solid-state drives (SSDs)]]
-- [[External storage solutions]]
-- [[Enterprise storage arrays]]
-- [[Data center storage platforms]]
+- [[Hard Disk Drives]]
+- [[Solid State Drives]]
+- [[Enterprise Storage Solutions]]
+- [[Cloud Storage]]
+- [[Data Center Solutions]]
 
 ## 数据来源
 
 - [Western Digital](https://en.wikipedia.org/wiki/Western_Digital_Corporation)
-- [Western Digital Corporation suppliers manufacturers](https://en.wikipedia.org/wiki/Western_Digital)
-- [Western Digital Corporation suppliers manufacturers](https://ru.wikipedia.org/wiki/Western_Digital)
+- [Western Digital Corporation suppliers manufacturers](https://csimarket.com/stocks/WDC-Suppliers)
+- [Western Digital Corporation suppliers manufacturers](https://thepartsdirect.com/westerndigital/distributors-and-vendors)
+- [Western Digital Corporation major customers clients](https://csimarket.com/stocks/WDC-Customers)
 - [Western Digital Corporation major customers clients](https://data.landbase.com/technology/western-digital/)
-- [Western Digital Corporation major customers clients](https://matrixbcg.com/blogs/target-market/westerndigital)
 
 ## 元数据
 
-- **更新日期**: 2026-03-09
+- **更新日期**: 2026-03-10

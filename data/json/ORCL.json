@@ -5,33 +5,33 @@
   "industry": "Software - Infrastructure",
   "upstream": [
     "DELL",
-    "MSFT",
-    "AMD",
-    "Software component vendors (e.g., Red Hat, VMware)",
-    "Data center and hosting providers"
+    "HPQ",
+    "IBM",
+    "Lenovo",
+    "CSCO"
   ],
   "downstream": [
-    "Large enterprises in finance and banking",
-    "Healthcare and pharmaceutical companies",
-    "Retail and e‑commerce businesses",
-    "Government and public sector agencies",
-    "CAT"
+    "Bank of America",
+    "JPMorgan Chase",
+    "AT&T",
+    "CAT",
+    "Walmart"
   ],
   "competitors": [
     "MSFT",
     "AMZN",
-    "SAP",
     "IBM",
+    "SAP",
     "GOOGL"
   ],
   "key_products": [
     "Oracle Database",
-    "Oracle Cloud Infrastructure (OCI)",
-    "Oracle Fusion Applications",
+    "Oracle Cloud Infrastructure",
+    "Oracle ERP Cloud",
     "Oracle Autonomous Database",
     "Oracle Analytics Cloud"
   ],
-  "extracted_at": "2026-03-09 16:52:59",
+  "extracted_at": "2026-03-10 16:48:19",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Oracle_Corporation",
+      "url": "https://en.wikipedia.org/wiki/List_of_acquisitions_by_Oracle",
       "query": "Oracle Corporation suppliers manufacturers",
+      "snippet": "List of acquisitions by Oracle This is a listing of Oracle Corporation 's corporate acquisitions, including acquisitions of both companies and individ"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.oracle.com/corporate/suppliers/",
+      "query": "Oracle Corporation suppliers manufacturers",
+      "snippet": "Oracle is always looking for suppliers who can meet our high quality standards and satisfy our ever-evolving business needs. We believe in the importa"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/Oracle_Corporation",
+      "query": "Oracle Corporation major customers clients",
       "snippet": "Oracle Corporation is an American multinational technology company headquartered in Austin, Texas. Co-founded in Santa Clara, California by Bob Miner,"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.oracle.com/scm/manufacturing/",
-      "query": "Oracle Corporation suppliers manufacturers",
-      "snippet": "Oracle Fusion Cloud Manufacturing helps you streamline your global, mixed-mode manufacturing to maximize operational performance."
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.oracle.com/customers/",
+      "url": "https://ru.wikipedia.org/wiki/Oracle",
       "query": "Oracle Corporation major customers clients",
-      "snippet": "Hear from our customers to learn what makes Oracle the right choice for them, and why we're the right partner for your business. Missing: major | Show"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://download.oracle.com/partners/scm_cust_prof.pdf",
-      "query": "Oracle Corporation major customers clients",
-      "snippet": "\"One of our major Pharma clients is connected to our Oracle Clinical system ... these top priorities, the company plans to implement Oracle Order Mana"
+      "snippet": "Oracle ( Oracle Corporation ) — американская корпорация, второй по размеру выручки разработчик программного обеспечения (после Microsoft), четвёртая к"
     }
   ]
 }

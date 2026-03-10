@@ -3,11 +3,35 @@
   "company_name": "JPMorgan Chase & Co.",
   "sector": "Financial Services",
   "industry": "Banks - Diversified",
-  "upstream": [],
-  "downstream": [],
-  "competitors": [],
-  "key_products": [],
-  "extracted_at": "2026-03-09 16:54:27",
+  "upstream": [
+    "MSFT",
+    "ORCL",
+    "IBM",
+    "Accenture",
+    "Deloitte"
+  ],
+  "downstream": [
+    "Large Corporations",
+    "Institutional Investors",
+    "Governments",
+    "High Net Worth Individuals",
+    "Small Businesses"
+  ],
+  "competitors": [
+    "Bank of America",
+    "Citigroup",
+    "Wells Fargo",
+    "Goldman Sachs",
+    "Morgan Stanley"
+  ],
+  "key_products": [
+    "Retail Banking",
+    "Investment Banking",
+    "Asset Management",
+    "Wealth Management",
+    "Credit Cards"
+  ],
+  "extracted_at": "2026-03-10 16:51:30",
   "sources": [
     {
       "source": "Wikipedia",
@@ -17,15 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.jpmorganchase.com/about/suppliers",
+      "url": "https://en.wikipedia.org/wiki/JPMorgan_Chase",
       "query": "JPMorgan Chase & Co. suppliers manufacturers",
-      "snippet": "An inclusive supply chain where every business, including but not limited to small and diverse businesses, has the opportunity to be considered for ou"
+      "snippet": "JPMorgan Chase & Co . (stylized as JPMorganChase ) is an American multinational banking institution headquartered in New York City and incorporated in"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.jpmorganchase.com/about/suppliers/supplier-diversity",
+      "url": "https://ru.wikipedia.org/wiki/JPMorgan_Chase",
       "query": "JPMorgan Chase & Co. suppliers manufacturers",
-      "snippet": "Our Global Supplier Diversity program is focused on facilitating the growth and development of businesses in our supply chain network. Missing: manufa"
+      "snippet": "JPMorgan Chase & Co , «Дж. П. Морган Чейз и Ко.» — американский транснациональный финансовый конгломерат, один из крупнейших банков мира, с центром уп"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.investopedia.com/companies-owned-by-jpmorgan-chase-and-co-5092490",
+      "query": "JPMorgan Chase & Co. major customers clients",
+      "snippet": "Dec 22, 2025 · Chase Manhattan, Bear Stearns, Bank One, Washington Mutual, Cazenove, InstaMed, and WePay are major companies owned by JPMorgan Chase &"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.jpmorganchase.com/about",
+      "query": "JPMorgan Chase & Co. major customers clients",
+      "snippet": "Our J . P . Morgan and Chase brands work to provide the highest quality service to millions of consumers, small businesses and corporate, institutiona"
     }
   ]
 }

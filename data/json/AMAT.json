@@ -5,32 +5,33 @@
   "industry": "Semiconductor Equipment & Materials",
   "upstream": [
     "Silicon wafer suppliers",
-    "Chemical and gas suppliers",
+    "Chemical suppliers",
     "META",
-    "Electronic component manufacturers",
-    "Precision machinery suppliers"
+    "Gas suppliers",
+    "Component suppliers"
   ],
   "downstream": [
-    "INTC",
-    "TSM",
+    "AAPL",
     "005930.KS",
-    "MU",
-    "SK Hynix"
+    "TSM",
+    "INTC",
+    "MU"
   ],
   "competitors": [
     "ASML",
     "LRCX",
     "Tokyo Electron",
-    "KLA Corporation"
+    "KLA Corporation",
+    "AMAT"
   ],
   "key_products": [
-    "Lithography systems",
-    "Deposition equipment (CVD, PVD)",
-    "Etch and ion implantation tools",
-    "Wafer cleaning and inspection systems",
-    "Advanced packaging equipment"
+    "Semiconductor fabrication equipment",
+    "Chemical vapor deposition (CVD) systems",
+    "Physical vapor deposition (PVD) systems",
+    "Etching equipment",
+    "Metrology and inspection tools"
   ],
-  "extracted_at": "2026-03-09 16:57:49",
+  "extracted_at": "2026-03-10 16:52:21",
   "sources": [
     {
       "source": "Wikipedia",
@@ -42,13 +43,13 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Applied_Materials",
       "query": "Applied Materials, Inc. suppliers manufacturers",
-      "snippet": "Applied Materials , Inc . is an American corporation that supplies equipment, services and software for the manufacture of semiconductor (integrated c"
+      "snippet": "Applied Materials, Inc. is an American corporation that supplies equipment, services and software for the manufacture of semiconductor (integrated cir"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.appliedmaterials.com/",
+      "url": "https://www.appliedmaterials.com/us/en.html",
       "query": "Applied Materials, Inc. suppliers manufacturers",
-      "snippet": "Applied Materials , Inc . is the leader in materials engineering solutions that are at the foundation of virtually every new semiconductor and advance"
+      "snippet": "Applied Materials, Inc. is the leader in materials engineering solutions that are at the foundation of virtually every new semiconductor and advanced "
     },
     {
       "source": "DuckDuckGo",

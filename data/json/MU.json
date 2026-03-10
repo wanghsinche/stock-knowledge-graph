@@ -4,34 +4,34 @@
   "sector": "Technology",
   "industry": "Semiconductors",
   "upstream": [
-    "AMAT",
     "ASML",
+    "AMAT",
     "LRCX",
-    "Tokyo Electron",
-    "KLA"
+    "KLA",
+    "Tokyo Electron"
   ],
   "downstream": [
-    "DELL",
-    "HPQ",
     "AAPL",
+    "MSFT",
     "AMZN",
-    "TSLA"
+    "GOOGL",
+    "DELL"
   ],
   "competitors": [
     "005930.KS",
     "SK Hynix",
     "Nanya Technology",
-    "Kioxia",
-    "WDC"
+    "Kingmax Technology",
+    "Netlist"
   ],
   "key_products": [
     "DRAM",
     "NAND flash memory",
-    "Solid‑state drives (SSDs)",
-    "Memory modules",
-    "Memory chips"
+    "SSD",
+    "LPDDR",
+    "HBM"
   ],
-  "extracted_at": "2026-03-09 16:48:24",
+  "extracted_at": "2026-03-10 16:46:50",
   "sources": [
     {
       "source": "Wikipedia",
@@ -53,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Micron_Technology",
+      "url": "https://www.trendforce.com/news/2025/06/26/news-micron-scales-up-hbm-to-four-major-gpuasic-clients-targets-24-market-share-by-year-end/",
       "query": "Micron Technology, Inc. major customers clients",
-      "snippet": "Micron Technology , Inc . is an American multinational semiconductor company that manufactures computer memory and computer data storage products, inc"
+      "snippet": "Jun 26, 2025 · Notably, Micron said in its press release that it is now shipping high-volume HBM to four customers across both GPU and ASIC platforms."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.youtube.com/channel/UCBqcI352Dc2ExKq1uSdwZvg",
+      "url": "https://www.msn.com/en-us/news/technology/micron-mu-ships-industry-first-256gb-socamm2-samples-for-ai-infrastructure/ar-AA1XGyOI",
       "query": "Micron Technology, Inc. major customers clients",
-      "snippet": "Micron Technology . @MicronTechnology. • 22.8K subscribers • 455 videos.To learn more about Micron Technology , Inc . (Nasdaq: MU), visit micron .com."
+      "snippet": "Micron Technology Inc . (NASDAQ:MU) is one of the stocks that should double in 3 years. On March 3, Micron Technology set a new industry benchmark by "
     }
   ]
 }

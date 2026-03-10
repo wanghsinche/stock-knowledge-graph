@@ -4,34 +4,34 @@
   "sector": "Technology",
   "industry": "Software - Application",
   "upstream": [
-    "MSFT",
     "AMZN",
-    "GOOGL",
-    "IBM",
-    "ORCL"
-  ],
-  "downstream": [
     "MSFT",
-    "AMZN",
     "GOOGL",
-    "IBM",
-    "ORCL"
-  ],
-  "competitors": [
-    "CRM",
-    "Workday",
-    "SAP SuccessFactors",
     "ORCL",
     "IBM"
+  ],
+  "downstream": [
+    "Walmart",
+    "JPMorgan Chase",
+    "AT&T",
+    "Bank of America",
+    "Coca‑Cola"
+  ],
+  "competitors": [
+    "MSFT",
+    "CRM",
+    "IBM",
+    "ORCL",
+    "SAP Cloud Platform Workflow"
   ],
   "key_products": [
     "Now Platform",
     "IT Service Management (ITSM)",
     "IT Operations Management (ITOM)",
-    "IT Business Management (ITBM)",
-    "Customer Service Management (CSM)"
+    "Customer Service Management (CSM)",
+    "HR Service Delivery"
   ],
-  "extracted_at": "2026-03-09 16:57:19",
+  "extracted_at": "2026-03-10 16:49:35",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.servicenow.com/company/supplier.html",
+      "url": "https://www.alibaba.com/",
       "query": "ServiceNow, Inc. suppliers manufacturers",
-      "snippet": "ServiceNow partners with capable and competitive suppliers who commit to diversity, sustainability, and best-in-class goods and services. Learn more h"
+      "snippet": "Find quality Manufacturers , Suppliers , Exporters, Importers, Buyers, Wholesalers, Products and Trade Leads from our award-winning International Trad"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.servicenow.com/products/supplier-lifecycle-management.html",
+      "url": "https://www.servicenow.com/in/standard/resource-center/data-sheet/ds-self-service-in-servicenow-customer-service-management.html",
       "query": "ServiceNow, Inc. suppliers manufacturers",
-      "snippet": "With ServiceNow Supplier Lifecycle Operations, you can streamline supplier and procurement activities for easy onboarding and collaboration. Missing: "
+      "snippet": "Enhance customer experience with ServiceNow Customer Service Management. Streamline self- service options, personalized support, and easy access to so"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.servicenow.com/customers.html",
+      "url": "https://acquirersmultiple.com/2026/03/top-superinvestors-are-buying-servicenow-inc-now/",
       "query": "ServiceNow, Inc. major customers clients",
-      "snippet": "Discover the measurable improvements ServiceNow delivers to enhance efficiency, productivity, and customer satisfaction."
+      "snippet": "According to the most recent 13F filings, institutional investors made aggressive additions to ServiceNow , Inc . ( NOW ), underscoring continued conv"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.aventionmedia.com/technology-installed-base/servicenow/",
+      "url": "https://www.servicenow.com/in/standard/resource-center/data-sheet/ds-case-management-in-servicenow-customer-service-management.html",
       "query": "ServiceNow, Inc. major customers clients",
-      "snippet": "Customers that are using ServiceNow include: Microsoft, a US Based MNC and Technology Company with over US$2 Tn revenue and Waltmart, a US Based Retai"
+      "snippet": "Streamline case management, enhance customer satisfaction, and simplify outsourced operations with ServiceNow Customer Service Management."
     }
   ]
 }

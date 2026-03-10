@@ -1,37 +1,37 @@
 {
   "ticker": "MSTR",
   "company_name": "MicroStrategy Incorporated",
-  "sector": "Technology / Software - Application",
-  "industry": "Business Intelligence & Analytics",
+  "sector": "Technology",
+  "industry": "Software—Application",
   "upstream": [
-    "DELL",
-    "Cloud service providers (AWS, Azure, GCP)",
-    "Data integration vendors (Informatica, Talend)",
+    "MSFT",
+    "AMZN",
+    "GOOGL",
     "ORCL",
-    "CSCO"
+    "IBM"
   ],
   "downstream": [
-    "Financial services firms (JPMorgan, Goldman Sachs)",
-    "Retail corporations (Walmart, Target)",
-    "Manufacturing companies (General Electric)",
-    "Healthcare organizations (UnitedHealth)",
-    "Government agencies (U.S. Department of Defense)"
+    "Bank of America",
+    "JPMorgan Chase",
+    "Walmart",
+    "Coca‑Cola",
+    "General Motors"
   ],
   "competitors": [
-    "Tableau Software",
-    "MSFT",
+    "Tableau",
     "Qlik",
+    "MSFT",
     "SAP BusinessObjects",
     "ORCL"
   ],
   "key_products": [
-    "MicroStrategy Analytics Platform",
+    "MicroStrategy Desktop",
+    "MicroStrategy Web",
     "MicroStrategy Mobile",
     "MicroStrategy Cloud",
-    "MicroStrategy Data Warehouse",
-    "MicroStrategy AI Analytics"
+    "MicroStrategy Analytics"
   ],
-  "extracted_at": "2026-03-09 16:54:05",
+  "extracted_at": "2026-03-10 16:49:52",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,15 +41,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.alibaba.com/",
+      "url": "https://www.strategy.com/software/blog/how-manufacturers-are-solving-supply-chain-chaos-with-smart-bi",
       "query": "Strategy Inc suppliers manufacturers",
-      "snippet": "Find quality Manufacturers , Suppliers , Exporters, Importers, Buyers, Wholesalers, Products and Trade Leads from our award-winning International Trad"
+      "snippet": "Discover how manufacturers are tackling supply chain chaos with Strategy One. Learn how AI-driven insights and real-time data can transform operations"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2l6dFkzTkVCSGxBclVDc0ZROWR5Z0FQAQ?hl=en-US&gl=US&ceid=US:en",
+      "url": "https://www.developmentaid.org/organizations/view/129475/strategy-inc-ltd",
       "query": "Strategy Inc suppliers manufacturers",
-      "snippet": "Strategy Inc updates at-the-market program and bitcoin holdings. Strategy lifts holdings to 3.4% of Bitcoin's total supply amid inflows into crypto pr"
+      "snippet": "Strategy Inc Ltd. — Supplier / manufacturer from India, has experience with World Bank HQ, it`s involved in Furniture & Office Supplies sector."
     },
     {
       "source": "DuckDuckGo",
@@ -59,9 +59,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.bloomberg.com/news/articles/2026-03-09/strategy-buys-1-3-billion-of-bitcoin-using-mostly-common-stock",
+      "url": "https://www.inc.com/",
       "query": "Strategy Inc major customers clients",
-      "snippet": "Michael Saylor’s Strategy Inc . accelerated its Bitcoin buying with a nearly $1.3 billion purchase — the biggest in seven weeks — leaning again on its"
+      "snippet": "Inc . media is the entrepreneurs source for ideas, resources and advice on how to successfully start, run and grow your business.Practical advice and "
     }
   ]
 }

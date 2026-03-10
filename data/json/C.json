@@ -1,21 +1,21 @@
 {
   "ticker": "C",
   "company_name": "Citigroup Inc.",
-  "sector": "Financial Services",
-  "industry": "Banks - Diversified",
+  "sector": "Financial Services / Banks - Diversified",
+  "industry": "Diversified Banks",
   "upstream": [
-    "ORCL",
-    "Data providers (e.g., Bloomberg, Thomson Reuters)",
+    "MSFT",
+    "Data providers (e.g., Bloomberg)",
     "Payment processors (e.g., Visa, Mastercard)",
-    "Legal and compliance service firms",
+    "Cloud service providers (e.g., AWS, Azure)",
     "Consulting firms (e.g., Accenture)"
   ],
   "downstream": [
-    "Retail consumers",
-    "Corporate clients",
-    "Government agencies",
-    "Small and medium enterprises",
-    "High‑net‑worth individuals"
+    "Large corporations",
+    "Governments and public sector entities",
+    "Institutional investors",
+    "Retail banking customers",
+    "Small and medium‑size businesses"
   ],
   "competitors": [
     "JPMorgan Chase",
@@ -25,13 +25,13 @@
     "Morgan Stanley"
   ],
   "key_products": [
-    "Retail banking services",
-    "Corporate banking and lending",
-    "Investment banking and advisory",
+    "Investment banking services",
     "Wealth management and private banking",
-    "Credit card services"
+    "Retail banking and credit cards",
+    "Treasury and cash management",
+    "Securities and asset‑management services"
   ],
-  "extracted_at": "2026-03-09 16:59:30",
+  "extracted_at": "2026-03-10 16:52:09",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,7 +43,7 @@
       "source": "DuckDuckGo",
       "url": "https://csimarket.com/stocks/C-Suppliers",
       "query": "Citigroup Inc. suppliers manufacturers",
-      "snippet": "Feb 22, 2026 · Citigroup Inc supply chain, list and performance of Citigroup Incs ' suppliers - CSIMarket"
+      "snippet": "Feb 22, 2026 · For your research, we’ve provided nine additional tables on Citigroup inc ’ s suppliers . You can find them in the navigation menu unde"
     },
     {
       "source": "DuckDuckGo",
@@ -55,13 +55,13 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Citigroup",
       "query": "Citigroup Inc. major customers clients",
-      "snippet": "This list only contains chairmen since the formation of Citigroup in 1998; for a full list of chairmen including Citigroup 's predecessors, please see"
+      "snippet": "Citigroup is the third-largest banking institution in the United States by assets; alongside JPMorgan Chase, Bank of America, and Wells Fargo"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/C-Customers",
+      "url": "https://www.citigroup.com/rcs/citigpa/storage/public/citi-2025-10-k-2-20-26.pdf",
       "query": "Citigroup Inc. major customers clients",
-      "snippet": "Feb 28, 2026 · Citigroup Inc customers and markets, results by customer and performance relative to C, by company and industry - CSIMarket"
+      "snippet": "Throughout this report, “Citigroup,” “Citi” and “the. Company” refer to Citigroup Inc. ... clients, customers, businesses, funding costs ... major imp"
     }
   ]
 }

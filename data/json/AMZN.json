@@ -1,37 +1,37 @@
 {
   "ticker": "AMZN",
   "company_name": "Amazon.com, Inc.",
-  "sector": "Consumer Cyclical",
-  "industry": "Internet Retail",
+  "sector": "Consumer Cyclical / Internet Retail",
+  "industry": "E-commerce, Cloud Computing, Online Advertising, Digital Streaming, Artificial Intelligence",
   "upstream": [
-    "Book publishers",
-    "Electronics manufacturers",
-    "Apparel suppliers",
-    "Home goods distributors",
-    "Third‑party logistics providers"
+    "AAPL",
+    "005930.KS",
+    "SONY",
+    "DELL",
+    "HPQ"
   ],
   "downstream": [
-    "Individual consumers",
-    "AMZN",
-    "Enterprise customers using AWS",
-    "AMZN",
-    "AMZN"
+    "NFLX",
+    "Airbnb",
+    "ADBE",
+    "MSFT",
+    "GOOGL"
   ],
   "competitors": [
-    "Walmart Inc.",
-    "Alibaba Group Holding Ltd.",
-    "eBay Inc.",
-    "Shopify Inc.",
-    "MSFT"
+    "eBay",
+    "Walmart",
+    "Alibaba",
+    "Target",
+    "Shopify"
   ],
   "key_products": [
-    "Amazon.com e‑commerce marketplace",
-    "Amazon Prime subscription services",
-    "Amazon Web Services (cloud computing)",
-    "Amazon Advertising platform",
-    "Amazon Devices (Echo, Kindle, Fire)"
+    "Amazon.com marketplace",
+    "Amazon Web Services (AWS)",
+    "Amazon Prime Video",
+    "Amazon Echo (Alexa)",
+    "Amazon Kindle"
   ],
-  "extracted_at": "2026-03-09 16:49:33",
+  "extracted_at": "2026-03-10 16:47:30",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Amazon_(company)",
+      "url": "https://www.ecomdepotwholesale.com/post/list-of-amazon-authorized-suppliers-for-2024-the-complete-guide-to-finding-verified-suppliers",
       "query": "Amazon.com, Inc. suppliers manufacturers",
-      "snippet": "3 days ago - The company's localized storefronts, which differ in selection and prices, are differentiated by top-level domain and country code: In 20"
+      "snippet": "Oct 21, 2024 · To ensure your success, we've put together a list of Amazon authorized suppliers for 2024. These verified suppliers understand Amazon's"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://suppliercentral.amazon.com/",
+      "url": "https://d39w7f4ix9f5s9.cloudfront.net/cb/19/77dfc5b441c892cd6e2be166ba70/final-amazon-supplier-list-2019-11-14-updated-1005am.pdf",
       "query": "Amazon.com, Inc. suppliers manufacturers",
-      "snippet": "Amazon is committed to helping our suppliers be more effective in making amazing products. Please contact your Amazon partner for an invitation. Impro"
+      "snippet": "Nov 14, 2019 · Our global teams work closely with suppliers to communicate our standards, and help suppliers build their capacity to provide safe and "
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/Amazon_Web_Services",
+      "query": "Amazon.com, Inc. major customers clients",
+      "snippet": "1 day ago - Multiple financial services firms have shifted to AWS in some form. Notable customers include NASA and the Obama presidential campaign of "
     },
     {
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Amazon_(company)",
       "query": "Amazon.com, Inc. major customers clients",
-      "snippet": "It is mostly known as the world's biggest online shopping retailer and marketplace, best known for a wide range of products and supplying multiple ser"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://ir.aboutamazon.com/news-release/news-release-details/2026/Amazon-com-Announces-Fourth-Quarter-Results/",
-      "query": "Amazon.com, Inc. major customers clients",
-      "snippet": "Feb 5, 2026 · “AWS growing 24% (our fastest growth in 13 quarters), Advertising growing 22%, Stores growing briskly across North America and Internati"
+      "snippet": "4 days ago - Amazon Flex, a smartphone app that enables individuals to act as independent contractors, delivering packages to customers from personal "
     }
   ]
 }

@@ -4,34 +4,34 @@
   "sector": "Financial Services",
   "industry": "Banks - Diversified",
   "upstream": [
-    "Technology vendors",
-    "IT service providers",
-    "Office equipment suppliers",
-    "Legal services firms",
-    "Consulting firms"
+    "MSFT",
+    "Payment networks (Visa, Mastercard)",
+    "Credit card processors",
+    "Data analytics providers",
+    "Regulatory compliance software"
   ],
   "downstream": [
     "Retail banking customers",
-    "Corporate clients",
-    "Institutional investors",
-    "Mortgage borrowers",
-    "Small and medium enterprises"
+    "Small‑to‑medium business clients",
+    "Corporate banking clients",
+    "Wealth management and investment advisory clients",
+    "Mortgage borrowers"
   ],
   "competitors": [
-    "JPMorgan Chase",
-    "Citigroup",
-    "Wells Fargo",
-    "Goldman Sachs",
+    "JPMorgan Chase & Co.",
+    "Citigroup Inc.",
+    "Wells Fargo & Co.",
+    "Goldman Sachs Group Inc.",
     "Morgan Stanley"
   ],
   "key_products": [
-    "Retail banking services",
-    "Commercial banking",
-    "Investment banking",
-    "Wealth management",
-    "Mortgage lending"
+    "Consumer banking and credit cards",
+    "Mortgage and home equity products",
+    "Corporate and investment banking services",
+    "Wealth management and private banking",
+    "Capital markets and securities trading"
   ],
-  "extracted_at": "2026-03-09 16:55:32",
+  "extracted_at": "2026-03-10 16:52:53",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://about.bankofamerica.com/content/dam/about/pdfs/Bank_of_America_Supplier_Expectations.pdf",
+      "url": "https://en.wikipedia.org/wiki/Bank_of_America",
       "query": "Bank of America Corporation suppliers manufacturers",
-      "snippet": "Operating a responsible and transparent business, including through our suppliers, is critical to our strength and stability as a company and is a cor"
+      "snippet": "The Bank of America Corporation is an American multinational investment bank and financial services holding company headquartered at the Bank of Ameri"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://business.bofa.com/en-us/content/supply-chain-finance-solutions-in-action.html",
+      "url": "https://www.bankofamerica.com/",
       "query": "Bank of America Corporation suppliers manufacturers",
-      "snippet": "How suppliers can benefit ; Lower-cost financing. Access funds based on your buyer's credit profile ; Better cash flow forecasting. Monetize your rece"
+      "snippet": "Banking , credit card, automobile loans, mortgage and home equity products are provided by Bank of America , N.A. and affiliated banks , Members FDIC "
     },
     {
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Bank_of_America",
       "query": "Bank of America Corporation major customers clients",
-      "snippet": "It serves about 10 percent of all American bank deposits, in direct competition with JPMorgan Chase, Citigroup, and Wells Fargo. Its primary financial"
+      "snippet": "The Bank of America Corporation is an American multinational investment bank and financial services holding company headquartered at the Bank of Ameri"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://newsroom.bankofamerica.com/content/newsroom/company-overview/bank-of-america-fast-facts.html",
+      "url": "https://www.bankofamerica.com/",
       "query": "Bank of America Corporation major customers clients",
-      "snippet": "We serve approximately 70 million clients, institutional investor, medium and large corporate clients globally. Missing: major | Show results with: ma"
+      "snippet": "For customers with a Bank of America login with no credit score impact. Ready for an electric vehicle?Merrill Lynch Wealth Management Clients : 800-ME"
     }
   ]
 }

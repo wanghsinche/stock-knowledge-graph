@@ -1,37 +1,37 @@
 {
   "ticker": "WMT",
   "company_name": "Walmart Inc.",
-  "sector": "Consumer Defensive",
-  "industry": "Discount Stores",
+  "sector": "Consumer Defensive / Discount Stores",
+  "industry": "Retail - discount stores",
   "upstream": [
     "Procter & Gamble",
-    "Unilever",
     "Coca‑Cola",
     "PepsiCo",
-    "Nestlé"
+    "Nestlé",
+    "Johnson & Johnson"
   ],
   "downstream": [
-    "US consumers",
-    "International consumers",
+    "Individual consumers",
+    "Households",
     "Online shoppers",
     "Small businesses",
-    "Local communities"
+    "Corporate clients"
   ],
   "competitors": [
     "Target",
     "Costco",
-    "Dollar General",
-    "Aldi",
-    "BJ's Wholesale Club"
+    "AMZN",
+    "BJ's Wholesale Club",
+    "Kroger"
   ],
   "key_products": [
     "Groceries",
-    "Household goods",
-    "Electronics",
     "Apparel",
-    "Private‑label brands"
+    "Electronics",
+    "Household goods",
+    "Pharmacy products"
   ],
-  "extracted_at": "2026-03-09 16:59:41",
+  "extracted_at": "2026-03-10 16:52:02",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://corporate.walmart.com/suppliers",
+      "url": "https://en.wikipedia.org/wiki/Walmart",
       "query": "Walmart Inc. suppliers manufacturers",
-      "snippet": "Walmart works with suppliers around the world to source quality products at great prices to help our customers save money and live better. To deliver "
+      "snippet": "Walmart Inc . is an American multinational retail corporation that operates a chain of hypermarkets, discount department stores, and grocery stores in"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.investopedia.com/articles/insights/050116/walmart-stock-analyzing-5-key-suppliers-wmt.asp",
+      "url": "https://ru.wikipedia.org/wiki/Walmart",
       "query": "Walmart Inc. suppliers manufacturers",
-      "snippet": "Plug Power derives the majority of its business from Walmart and Amazon. The companies use Plug Power's energy cells in their machinery, such as forkl"
+      "snippet": "Walmart , Inc . ([ˈwɔːlmɑːrt], «Уолмарт») — американская компания, управляющая крупнейшей в мире сетью оптовой и розничной торговли, действующей под т"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://capitaloneshopping.com/research/walmart-statistics/",
+      "url": "https://en.wikipedia.org/wiki/Walmart",
       "query": "Walmart Inc. major customers clients",
-      "snippet": "Nov 6, 2025 · Latest available data on Walmart ' s size and market share, both offline and online, with total sales and revenue breakdowns by year."
+      "snippet": "Walmart Inc . is an American multinational retail corporation that operates a chain of hypermarkets, discount department stores, and grocery stores in"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://businessmodelanalyst.com/walmart-target-market/",
+      "url": "https://www.walmart.com/",
       "query": "Walmart Inc. major customers clients",
-      "snippet": "Dec 2, 2024 · This article will examine Walmart target market and approach to reaching a broad yet carefully segmented customer base."
+      "snippet": "Shop Walmart .com today for Every Day Low Prices. Join Walmart + for unlimited free delivery from your store & free shipping with no order minimum. St"
     }
   ]
 }

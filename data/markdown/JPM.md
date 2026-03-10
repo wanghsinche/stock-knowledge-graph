@@ -3,8 +3,8 @@ ticker: JPM
 company: JPMorgan Chase & Co.
 sector: Financial Services
 industry: Banks - Diversified
-extracted_at: 2026-03-09 16:54:27
-last_updated: 2026-03-09
+extracted_at: 2026-03-10 16:51:30
+last_updated: 2026-03-10
 ---
 
 # JPM - JPMorgan Chase & Co.
@@ -12,28 +12,46 @@ last_updated: 2026-03-09
 ## 基本信息
 
 - **所属行业**: Financial Services / Banks - Diversified
-- **提取时间**: 2026-03-09 16:54:27
+- **提取时间**: 2026-03-10 16:51:30
 
 ## 产业链关系
 
 ### 上游供应商
-_暂无数据_
+- [[MSFT]]
+- [[ORCL]]
+- [[IBM]]
+- [[Accenture]]
+- [[Deloitte]]
 
 ### 下游客户
-_暂无数据_
+- [[Large Corporations]]
+- [[Institutional Investors]]
+- [[Governments]]
+- [[High Net Worth Individuals]]
+- [[Small Businesses]]
 
 ### 竞争对手
-_暂无数据_
+- [[Bank of America]]
+- [[Citigroup]]
+- [[Wells Fargo]]
+- [[Goldman Sachs]]
+- [[Morgan Stanley]]
 
 ### 核心产品
-_暂无数据_
+- [[Retail Banking]]
+- [[Investment Banking]]
+- [[Asset Management]]
+- [[Wealth Management]]
+- [[Credit Cards]]
 
 ## 数据来源
 
 - [JPMorgan Chase](https://en.wikipedia.org/wiki/JPMorgan_Chase_&_Co.)
-- [JPMorgan Chase & Co. suppliers manufacturers](https://www.jpmorganchase.com/about/suppliers)
-- [JPMorgan Chase & Co. suppliers manufacturers](https://www.jpmorganchase.com/about/suppliers/supplier-diversity)
+- [JPMorgan Chase & Co. suppliers manufacturers](https://en.wikipedia.org/wiki/JPMorgan_Chase)
+- [JPMorgan Chase & Co. suppliers manufacturers](https://ru.wikipedia.org/wiki/JPMorgan_Chase)
+- [JPMorgan Chase & Co. major customers clients](https://www.investopedia.com/companies-owned-by-jpmorgan-chase-and-co-5092490)
+- [JPMorgan Chase & Co. major customers clients](https://www.jpmorganchase.com/about)
 
 ## 元数据
 
-- **更新日期**: 2026-03-09
+- **更新日期**: 2026-03-10

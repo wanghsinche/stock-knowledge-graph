@@ -7,31 +7,31 @@
     "INTC",
     "AMD",
     "NVDA",
-    "QCOM",
-    "TSM"
+    "DELL",
+    "CSCO"
   ],
   "downstream": [
-    "Enterprise customers (e.g., banks, government agencies)",
-    "DELL",
-    "AMZN",
-    "Cloud service users (Azure)",
-    "Gaming industry (Xbox, game developers)"
+    "Carlsberg Group",
+    "KPMG",
+    "City of Montreal",
+    "CSX",
+    "Levi Strauss"
   ],
   "competitors": [
+    "AMZN",
     "GOOGL",
     "AMZN",
-    "AAPL",
-    "META",
-    "NVDA"
+    "ORCL",
+    "IBM"
   ],
   "key_products": [
-    "Windows operating system",
-    "Microsoft Office suite",
-    "Azure cloud platform",
-    "Surface hardware",
-    "Xbox gaming console"
+    "Windows",
+    "Office",
+    "Azure",
+    "Teams",
+    "Surface"
   ],
-  "extracted_at": "2026-03-09 16:49:08",
+  "extracted_at": "2026-03-10 16:47:07",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
+      "url": "https://www.microsoft.com/en-us/professionalservices/suppliers",
+      "query": "Microsoft Corporation suppliers manufacturers",
+      "snippet": "Microsoft requires all suppliers to join the Microsoft Supplier Security and Privacy Assurance Program (SSPA). This program is designed to standardize"
+    },
+    {
+      "source": "DuckDuckGo",
       "url": "https://csimarket.com/stocks/MSFT-Suppliers",
       "query": "Microsoft Corporation suppliers manufacturers",
       "snippet": "Jan 29, 2026 · Microsoft supply chain, list and performance of Microsofts ' suppliers - CSIMarket"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.microsoft.com/en-us/procurement",
-      "query": "Microsoft Corporation suppliers manufacturers",
-      "snippet": "Microsoft Procurement is committed to building a diverse global supplier base that reflects the global diversity of our customers and provides all typ"
+      "url": "https://www.microsoft.com/en-us/customers",
+      "query": "Microsoft Corporation major customers clients",
+      "snippet": "Carlsberg Group. KPMG. City of Montreal. CSX. Kantar ; Nationwide. Levi Strauss and Company. Fujitsu. Audi AG. TriNet ; Alaska Airlines. NIQ. AT and T"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.microsoft.com/en-us/customers/",
+      "url": "https://cloudwars.com/cloud/microsoft-top-10-customers-for-digital-transformation-the-satya-nadella-touch/",
       "query": "Microsoft Corporation major customers clients",
-      "snippet": "Explore customer success stories to learn how businesses are overcoming challenges, driving innovation, and achieving more with Microsoft solutions."
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/MSFT-Customers",
-      "query": "Microsoft Corporation major customers clients",
-      "snippet": "3 days ago · Individual consumers obtain these products primarily through retail outlets, such as Wal-Mart, Dixons, and Microsoft retail stores. We di"
+      "snippet": "May 26, 2020 · Let's take a look at 10 dazzling customer engagements Microsoft has disclosed in the past 18 months or so. In these, we'll see what sor"
     }
   ]
 }

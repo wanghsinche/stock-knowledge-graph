@@ -1,37 +1,36 @@
 {
   "ticker": "GLW",
   "company_name": "Corning Incorporated",
-  "sector": "Technology",
-  "industry": "Electronic Components",
+  "sector": "Technology / Electronic Components",
+  "industry": "Optical Communications",
   "upstream": [
     "Silica sand suppliers",
-    "Chemical suppliers for glass manufacturing",
-    "Glass furnace equipment manufacturers",
-    "Glass molding equipment suppliers",
-    "Raw material logistics providers"
+    "Chemical suppliers (e.g., sodium hydroxide, acids)",
+    "META",
+    "Glass manufacturing equipment suppliers",
+    "Ceramic raw material suppliers"
   ],
   "downstream": [
-    "NVDA",
-    "OpenAI",
-    "GOOGL",
-    "AMZN",
-    "AT&T"
+    "CAT",
+    "AAPL",
+    "INTC",
+    "Scientific instrument manufacturers (e.g., Nikon, Zeiss)",
+    "TSLA"
   ],
   "competitors": [
     "Lumentum",
     "II-VI Incorporated",
-    "Saint-Gobain",
-    "Schott AG",
-    "Coherent"
+    "Coherent",
+    "Edwards Lifesciences"
   ],
   "key_products": [
-    "Optical fiber",
-    "Glass fiber",
-    "Optical components",
-    "Glass ceramics",
-    "Advanced optics"
+    "Optical fibers",
+    "Optical connectors",
+    "Glass substrates for displays",
+    "Ceramic components for high‑temperature applications",
+    "Advanced optics for scientific instruments"
   ],
-  "extracted_at": "2026-03-09 16:58:11",
+  "extracted_at": "2026-03-10 16:49:43",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +40,27 @@
     },
     {
       "source": "DuckDuckGo",
+      "url": "https://www.corning.com/worldwide/en/products/life-sciences/config/Distributors.html",
+      "query": "Corning Incorporated suppliers manufacturers",
+      "snippet": "Find an authorized Corning Life Sciences distributor with our worldwide list."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.mouser.com/manufacturer/corning/",
+      "query": "Corning Incorporated suppliers manufacturers",
+      "snippet": "Today, Corning ' s markets include optical communications, mobile consumer electronics, display technology, automotive, and life sciences vessels."
+    },
+    {
+      "source": "DuckDuckGo",
       "url": "https://www.corning.com/worldwide/en.html",
-      "query": "Corning Incorporated suppliers manufacturers",
-      "snippet": "Corning Incorporated is a global-leading innovator in materials science, with 170 years of life-changing inventions and category-defining products. Co"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.volza.com/company-profile/corning-incorporated-732127/import/suppliers/",
-      "query": "Corning Incorporated suppliers manufacturers",
-      "snippet": "Corning Incorporated - Supplier Directory: 125 Verified Vendors. Mark Favourite. Bookmark.View Corning Incorporateds suppliers , import shipments, pro"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://investor.corning.com/news-and-events/news/news-details/2026/Corning-Announces-Outstanding-2025-Financial-Results-1--Upgrades-Springboard-Plan-for-Faster-Sales-Growth-on-Significantly-Enhanced-Financial-Profile/default.aspx",
       "query": "Corning Incorporated major customers clients",
-      "snippet": "Jan 28, 2026 · Today, Corning's markets include optical communications, mobile consumer electronics, display, automotive, solar, semiconductors, and l"
+      "snippet": "Corning Incorporated is a global-leading innovator in materials science, with 170 years of life-changing inventions and category-defining products."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.forbes.com/sites/greatspeculations/2026/01/28/corning-stocks-ai-surge-after-the-meta-blockbuster-is-glw-still-a-buy/",
+      "url": "https://www.youtube.com/channel/UCGyKit14usd5PNw_nZ-8gKQ",
       "query": "Corning Incorporated major customers clients",
-      "snippet": "Jan 28, 2026 · With prominent clients such as Nvidia, OpenAI, Google, Amazon, and Microsoft, along with Meta, Corning is increasing its production cap"
+      "snippet": "Corning Incorporated . @CorningIncorporated. • 118K subscribers • 511 videos. Welcome to the official YouTube channel of Corning Incorporated . Cornin"
     }
   ]
 }

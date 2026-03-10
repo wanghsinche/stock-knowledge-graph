@@ -6,32 +6,32 @@
   "upstream": [
     "Pharmaceutical manufacturers",
     "Medical device manufacturers",
-    "Health IT vendors",
-    "Data analytics vendors",
-    "Health care service providers"
+    "Health technology vendors",
+    "Pharmacy benefit managers",
+    "Health data analytics providers"
   ],
   "downstream": [
-    "Large corporate employers",
+    "Employers (group plans)",
     "Government agencies (Medicare, Medicaid)",
-    "Small and medium businesses",
-    "Individual policyholders",
-    "Health care providers (hospitals, clinics)"
+    "Individual consumers",
+    "Health care providers (hospitals, clinics)",
+    "Health plan partners"
   ],
   "competitors": [
-    "Anthem",
+    "Kaiser Permanente",
     "Aetna",
     "Cigna",
     "Humana",
-    "Kaiser Permanente"
+    "Blue Cross Blue Shield"
   ],
   "key_products": [
     "UnitedHealthcare insurance plans",
-    "Optum health care services",
-    "OptumRx pharmacy services",
-    "OptumInsight data analytics",
-    "OptumLabs clinical services"
+    "Optum health services",
+    "OptumRx pharmacy benefit manager",
+    "OptumLabs data analytics",
+    "OptumCare health services"
   ],
-  "extracted_at": "2026-03-09 16:57:39",
+  "extracted_at": "2026-03-10 16:52:45",
   "sources": [
     {
       "source": "Wikipedia",
@@ -49,19 +49,19 @@
       "source": "DuckDuckGo",
       "url": "https://www.unitedhealthgroup.com/suppliers/information.html",
       "query": "UnitedHealth Group Incorporated suppliers manufacturers",
-      "snippet": "Information for UnitedHealth Group suppliers, including access to our vendor portal."
+      "snippet": "At UnitedHealth Group, we search for suppliers that help us deliver best-in-class services to our customers. These partners support the UnitedHealth G"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/news/jim-cramer-unitedhealthgroup-incorporation-unh-200611867.html",
+      "url": "https://csimarket.com/stocks/UNH-Customers",
       "query": "UnitedHealth Group Incorporated major customers clients",
-      "snippet": "UnitedHealth Group Incorporated (NYSE:UNH). Number of Hedge Fund Holders: 114.UNH is the only health insurer that regularly beats earnings. Nothing's "
+      "snippet": "Unitedhealth Group Incorporated customers and markets, results by customer and performance relative to UNH, by company and industry - CSIMarket"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.bbb.org/us/mn/minnetonka/profile/health-insurance/unitedhealth-group-0704-21000358/customer-reviews",
+      "url": "https://www.unitedhealthgroup.com/uhg/businesses.html",
       "query": "UnitedHealth Group Incorporated major customers clients",
-      "snippet": "View BBB customer reviews of UnitedHealth Group . Leave a review and share your experience with the BBB and UnitedHealth Group . UnitedHealth Group ha"
+      "snippet": "UnitedHealth Group is a health care and well-being company with team members in two distinct and complementary businesses — Optum and UnitedHealthcare"
     }
   ]
 }

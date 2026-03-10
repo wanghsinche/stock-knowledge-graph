@@ -4,34 +4,34 @@
   "sector": "Technology",
   "industry": "Semiconductors",
   "upstream": [
-    "TSM",
-    "005930.KS",
-    "GlobalFoundries",
-    "MU",
-    "SK Hynix"
+    "ASML",
+    "AMAT",
+    "LRCX",
+    "Tokyo Electron",
+    "Nikon"
   ],
   "downstream": [
     "DELL",
     "HPQ",
     "Lenovo Group",
     "AAPL",
-    "MSFT"
+    "AMZN"
   ],
   "competitors": [
     "AMD",
     "NVDA",
     "QCOM",
-    "TSM",
-    "005930.KS"
+    "AVGO",
+    "TSM"
   ],
   "key_products": [
-    "Intel Core processors",
-    "Intel Xeon processors",
-    "Intel Optane memory",
-    "Intel Ethernet controllers",
-    "Intel AI inference chips"
+    "Intel Core CPUs",
+    "Intel Xeon Servers",
+    "Intel FPGAs",
+    "Intel AI Accelerators",
+    "Intel Chipsets"
   ],
-  "extracted_at": "2026-03-09 16:53:27",
+  "extracted_at": "2026-03-10 16:48:27",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/List_of_Intel_manufacturing_sites",
+      "query": "Intel Corporation suppliers manufacturers",
+      "snippet": "Intel is an American multinational corporation and technology company headquartered in Santa Clara, California. Processors are manufactured in semicon"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.intel.com/content/www/us/en/partner/showcase/partner-directory/distributor.html",
+      "query": "Intel Corporation suppliers manufacturers",
+      "snippet": "Sell Intel® Products directly sourced from Intel as well as devices manufactured by OEMs"
+    },
+    {
+      "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Intel",
-      "query": "Intel Corporation suppliers manufacturers",
-      "snippet": "Intel Corporation is an American multinational technology company headquartered in Santa Clara, California. It designs, manufactures , and sells compu"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.intel.com/",
-      "query": "Intel Corporation suppliers manufacturers",
-      "snippet": "See how suppliers are developing solutions based on Intel ® Xeon® for..."
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/INTC-Customers",
       "query": "Intel Corporation major customers clients",
-      "snippet": "Intel customers and markets, results by customer and performance relative to INTC, by company and industry - CSIMarket"
+      "snippet": "Intel Corporation is an American multinational technology company headquartered in Santa Clara, California. ... largest customer, Apple. As of July 20"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.investopedia.com/articles/markets/100214/inside-intel-look-mega-chipmaker.asp",
+      "url": "https://seekingalpha.com/news/4541893-intel-outlines-path-to-45-percent-client-market-share-and-signals-14a-foundry-customer",
       "query": "Intel Corporation major customers clients",
-      "snippet": "6 days ago · Intel has lost market share to TSMC, AMD, and Samsung. The completion of Intel's new Ohio plant has been delayed to 2030. Intel's main cu"
+      "snippet": "Jan 22, 2026 · Intel (INTC) Q4 2025 earnings call recap: AI-driven growth, Intel 18A/14A foundry progress, supply and margin outlook, and Q1 2026 ..."
     }
   ]
 }

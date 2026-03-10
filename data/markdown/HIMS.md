@@ -3,8 +3,8 @@ ticker: HIMS
 company: Hims & Hers Health, Inc.
 sector: Healthcare
 industry: Drug Manufacturers - Specialty & Generic
-extracted_at: 2026-03-09 16:52:24
-last_updated: 2026-03-09
+extracted_at: 2026-03-10 16:48:46
+last_updated: 2026-03-10
 ---
 
 # HIMS - Hims & Hers Health, Inc.
@@ -12,37 +12,37 @@ last_updated: 2026-03-09
 ## 基本信息
 
 - **所属行业**: Healthcare / Drug Manufacturers - Specialty & Generic
-- **提取时间**: 2026-03-09 16:52:24
+- **提取时间**: 2026-03-10 16:48:46
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Teva Pharmaceutical Industries]]
-- [[Mylan]]
-- [[Sandoz]]
-- [[Pfizer]]
-- [[Johnson & Johnson]]
+- [[Pharmaceutical contract manufacturers]]
+- [[Raw material suppliers (active ingredients)]]
+- [[Packaging and labeling vendors]]
+- [[Logistics and distribution partners]]
+- [[Regulatory compliance service providers]]
 
 ### 下游客户
-- [[Consumers]]
-- [[Health insurers]]
+- [[Individual consumers via telehealth platform]]
+- [[Health insurance providers]]
 - [[Retail pharmacies]]
-- [[Online pharmacies]]
-- [[Healthcare providers]]
+- [[Healthcare providers (primary care practices)]]
+- [[Corporate wellness programs]]
 
 ### 竞争对手
 - [[Roman]]
+- [[Ro (formerly Roman)]]
 - [[Nurx]]
-- [[Lively]]
-- [[Pharmacy.com]]
-- [[CVS Health]]
+- [[CVS Health (direct-to-consumer pharmacy)]]
+- [[Walgreens (telehealth services)]]
 
 ### 核心产品
-- [[Prescription erectile dysfunction medications]]
-- [[Hair loss treatments]]
-- [[Acne medication]]
-- [[Depression and anxiety medication]]
-- [[Over-the-counter pain relievers]]
+- [[Prescription erectile dysfunction medication (e.g., sildenafil)]]
+- [[Hair loss treatments (minoxidil)]]
+- [[Prescription acne medication]]
+- [[Over‑the‑counter pain relievers]]
+- [[Personal care products (e.g., deodorants, skincare)]]
 
 ## 数据来源
 
@@ -54,4 +54,4 @@ last_updated: 2026-03-09
 
 ## 元数据
 
-- **更新日期**: 2026-03-09
+- **更新日期**: 2026-03-10

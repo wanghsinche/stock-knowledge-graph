@@ -1,13 +1,37 @@
 {
   "ticker": "LITE",
   "company_name": "Lumentum Holdings Inc.",
-  "sector": "Technology",
-  "industry": "Communication Equipment",
-  "upstream": [],
-  "downstream": [],
-  "competitors": [],
-  "key_products": [],
-  "extracted_at": "2026-03-09 16:51:27",
+  "sector": "Technology / Communication Equipment",
+  "industry": "Optical Communications",
+  "upstream": [
+    "Cree, Inc.",
+    "Coherent, Inc.",
+    "Thorlabs",
+    "Lumenis",
+    "InnoLux"
+  ],
+  "downstream": [
+    "AT&T",
+    "Verizon",
+    "CSCO",
+    "Huawei",
+    "Nokia"
+  ],
+  "competitors": [
+    "Coherent, Inc.",
+    "Thorlabs",
+    "InnoLux",
+    "Trumpf",
+    "Infinera"
+  ],
+  "key_products": [
+    "Laser diodes",
+    "Optical amplifiers",
+    "Optical transceivers",
+    "Photonic integrated circuits",
+    "Optical sensors"
+  ],
+  "extracted_at": "2026-03-10 16:47:44",
   "sources": [
     {
       "source": "Wikipedia",
@@ -17,15 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.lumentum.com/en",
+      "url": "https://www.lumentum.com/en/company/distributors",
       "query": "Lumentum Holdings Inc. suppliers manufacturers",
+      "snippet": "Please contact customer service and they will direct you to a distributor near you. Lumentum is a global leader in optical and photonic products, enab"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/LITE-Suppliers",
+      "query": "Lumentum Holdings Inc. suppliers manufacturers",
+      "snippet": "Feb 9, 2026 · Lumentum Holdings Inc supply chain, list and performance of Lumentum Holdings Incs ' suppliers - CSIMarket"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.lumentum.com/",
+      "query": "Lumentum Holdings Inc. major customers clients",
       "snippet": "Discover how Lumentum enables innovation through optical and photonic technologies for cloud networking, 3D sensing, lasers, and advanced manufacturin"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://investor.lumentum.com/financial-news-releases/news-details/2026/NVIDIA-Announces-Strategic-Partnership-With-Lumentum-to-Develop-State-of-the-Art-Optics-Technology/default.aspx",
-      "query": "Lumentum Holdings Inc. suppliers manufacturers",
-      "snippet": "7 days ago · NVIDIA to Invest $2 Billion in Lumentum to Grow Capacity, Advance US-Based Manufacturing and Deepen R&D Collaboration in Data Center Opti"
+      "url": "https://in.investing.com/equities/lumentum-holdings-inc",
+      "query": "Lumentum Holdings Inc. major customers clients",
+      "snippet": "View the real-time Lumentum Holdings Inc (NASDAQ LITE) share price. Assess historical data, charts, technical analysis and contribute in the forum."
     }
   ]
 }

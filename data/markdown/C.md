@@ -1,34 +1,34 @@
 ---
 ticker: C
 company: Citigroup Inc.
-sector: Financial Services
-industry: Banks - Diversified
-extracted_at: 2026-03-09 16:59:30
-last_updated: 2026-03-09
+sector: Financial Services / Banks - Diversified
+industry: Diversified Banks
+extracted_at: 2026-03-10 16:52:09
+last_updated: 2026-03-10
 ---
 
 # C - Citigroup Inc.
 
 ## 基本信息
 
-- **所属行业**: Financial Services / Banks - Diversified
-- **提取时间**: 2026-03-09 16:59:30
+- **所属行业**: Financial Services / Banks - Diversified / Diversified Banks
+- **提取时间**: 2026-03-10 16:52:09
 
 ## 产业链关系
 
 ### 上游供应商
-- [[ORCL]]
-- [[Data providers (e.g., Bloomberg, Thomson Reuters)]]
+- [[MSFT]]
+- [[Data providers (e.g., Bloomberg)]]
 - [[Payment processors (e.g., Visa, Mastercard)]]
-- [[Legal and compliance service firms]]
+- [[Cloud service providers (e.g., AWS, Azure)]]
 - [[Consulting firms (e.g., Accenture)]]
 
 ### 下游客户
-- [[Retail consumers]]
-- [[Corporate clients]]
-- [[Government agencies]]
-- [[Small and medium enterprises]]
-- [[High‑net‑worth individuals]]
+- [[Large corporations]]
+- [[Governments and public sector entities]]
+- [[Institutional investors]]
+- [[Retail banking customers]]
+- [[Small and medium‑size businesses]]
 
 ### 竞争对手
 - [[JPMorgan Chase]]
@@ -38,11 +38,11 @@ last_updated: 2026-03-09
 - [[Morgan Stanley]]
 
 ### 核心产品
-- [[Retail banking services]]
-- [[Corporate banking and lending]]
-- [[Investment banking and advisory]]
+- [[Investment banking services]]
 - [[Wealth management and private banking]]
-- [[Credit card services]]
+- [[Retail banking and credit cards]]
+- [[Treasury and cash management]]
+- [[Securities and asset‑management services]]
 
 ## 数据来源
 
@@ -50,8 +50,8 @@ last_updated: 2026-03-09
 - [Citigroup Inc. suppliers manufacturers](https://csimarket.com/stocks/C-Suppliers)
 - [Citigroup Inc. suppliers manufacturers](https://www.citigroup.com/global/suppliers/supplier-engagement-program)
 - [Citigroup Inc. major customers clients](https://en.wikipedia.org/wiki/Citigroup)
-- [Citigroup Inc. major customers clients](https://csimarket.com/stocks/C-Customers)
+- [Citigroup Inc. major customers clients](https://www.citigroup.com/rcs/citigpa/storage/public/citi-2025-10-k-2-20-26.pdf)
 
 ## 元数据
 
-- **更新日期**: 2026-03-09
+- **更新日期**: 2026-03-10

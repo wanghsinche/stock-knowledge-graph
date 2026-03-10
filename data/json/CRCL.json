@@ -1,37 +1,37 @@
 {
   "ticker": "CRCL",
-  "company_name": "Circle Internet Group, Inc.",
+  "company_name": "Circle Internet Group",
   "sector": "Financial Services / Capital Markets",
-  "industry": "Payments Technology / Stablecoin Issuer",
+  "industry": "Payments Technology",
   "upstream": [
-    "AMZN",
-    "MSFT",
-    "GOOGL",
-    "Stripe",
-    "PayPal"
+    "Blockchain infrastructure providers",
+    "Cloud service providers",
+    "Financial data providers",
+    "Regulatory compliance vendors",
+    "Payment network providers"
   ],
   "downstream": [
-    "Barclays",
-    "Coinbase",
-    "Binance",
-    "PayPal",
-    "Visa"
+    "Banks and financial institutions",
+    "Crypto exchanges",
+    "Fintech companies",
+    "Retail merchants",
+    "Institutional investors"
   ],
   "competitors": [
     "Coinbase",
+    "Binance",
     "Gemini",
-    "Paxos",
-    "Tether",
-    "Binance USD"
+    "PayPal",
+    "Stripe"
   ],
   "key_products": [
     "USDC stablecoin",
     "EURC stablecoin",
     "USYC tokenized money market fund",
-    "Crypto payment APIs",
-    "Digital wallet services"
+    "Circle Pay",
+    "Circle API"
   ],
-  "extracted_at": "2026-03-09 16:53:48",
+  "extracted_at": "2026-03-10 16:49:16",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Circle_Internet_Group",
+      "url": "https://www.circle.com/",
       "query": "Circle Internet Group suppliers manufacturers",
-      "snippet": "Circle (legally Circle Internet Group , Inc.[2]) is a payments technology company. Funded by Jeremy Allaire and Sean Neville in 2013, [3][4] it is cur"
+      "snippet": "Circle (NYSE: CRCL) enables businesses to leverage digital currencies and public blockchains for payments, commerce and financial applications worldwi"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://investor.circle.com/overview/default.aspx",
+      "url": "https://www.alibaba.com/",
       "query": "Circle Internet Group suppliers manufacturers",
-      "snippet": "Jan 21, 2026 · Circle is building the world’s largest, most-widely used, stablecoin network, and issues, through its regulated affiliates, USDC and EU"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Circle_Internet_Group",
-      "query": "Circle Internet Group major customers clients",
-      "snippet": "In 2015, Circle began working with the UK bank Barclays in what was the first banking relationship between a large global bank and a bitcoin company. "
+      "snippet": "Find quality Manufacturers , Suppliers , Exporters, Importers, Buyers, Wholesalers, Products and Trade Leads from our award-winning International Trad"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.circle.com/pressroom/circle-reports-fourth-quarter-and-full-fiscal-year-2025-financial-results",
       "query": "Circle Internet Group major customers clients",
       "snippet": "Feb 25, 2026 · Circle Internet Group, Inc. today announced results for the fourth quarter and full fiscal year 2025. Missing: clients | Show results w"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://finance.yahoo.com/news/stablecoin-issuer-circle-faces-uphill-210924642.html",
+      "query": "Circle Internet Group major customers clients",
+      "snippet": "Nov 13, 2025 · Circle shares slumped as investors focused on weakening reserve yields despite a sharp jump in revenue and USDC supply."
     }
   ]
 }

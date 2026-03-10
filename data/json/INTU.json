@@ -7,31 +7,31 @@
     "AMZN",
     "MSFT",
     "GOOGL",
-    "INTC",
-    "NVDA"
+    "Stripe",
+    "Plaid"
   ],
   "downstream": [
-    "Small businesses",
+    "Small and medium‑size businesses",
     "Individual taxpayers",
-    "Accountants",
-    "Tax preparers",
-    "Financial advisors"
+    "Certified public accountants",
+    "Tax professionals",
+    "Mid‑market enterprises"
   ],
   "competitors": [
     "H&R Block",
-    "TaxAct",
-    "Xero",
     "Sage",
-    "FreshBooks"
+    "Xero",
+    "FreshBooks",
+    "Wave"
   ],
   "key_products": [
     "TurboTax",
-    "QuickBooks",
+    "QuickBooks Online",
+    "QuickBooks Desktop",
     "Credit Karma",
-    "Mailchimp",
-    "QuickBooks Payments"
+    "Mailchimp"
   ],
-  "extracted_at": "2026-03-09 17:00:01",
+  "extracted_at": "2026-03-10 16:51:46",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Intuit",
-      "query": "Intuit Inc. suppliers manufacturers",
-      "snippet": "Intuit Inc . is an American multinational business software company that specializes in financial software. Headquartered in Mountain View, California"
-    },
-    {
-      "source": "DuckDuckGo",
       "url": "https://csimarket.com/stocks/INTU-Suppliers",
       "query": "Intuit Inc. suppliers manufacturers",
       "snippet": "Intuit Inc supply chain, list and performance of Intuit Incs ' suppliers - CSIMarket"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ca.finance.yahoo.com/news/intuit-inc-intu-posts-strong-004013404.html",
-      "query": "Intuit Inc. major customers clients",
-      "snippet": "Intuit Inc . (NASDAQ:INTU) is one of the best blue chip stocks to buy for the long term. On February 27, TD Cowen analyst Jared Levine reiterated a Bu"
+      "url": "https://www.intuit.com/company/supplier-programs/",
+      "query": "Intuit Inc. suppliers manufacturers",
+      "snippet": "We’re always looking for opportunities to work with new suppliers who share our passion for innovation, customer obsession, and above-and-beyond corpo"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.marketresearch.com/GlobalData-v3648/Intuit-INTU-Financial-Strategic-SWOT-38414797/",
+      "url": "https://www.fool.com/earnings/call-transcripts/2025/08/21/intuit-intu-q4-2025-earnings-call-transcript/",
       "query": "Intuit Inc. major customers clients",
-      "snippet": "Highlights. Intuit Inc ( Intuit ) offers financial management, marketing and compliance products and services. It also provides tax products to accoun"
+      "snippet": "Intuit Enterprise Suite (IES): Intuit 's advanced software suite targeting mid-market customers , offering integrated business management, finance, an"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://finviz.com/news/334274/truist-lowers-pt-on-intuit-inc-intu-stock-to-500-from-739",
+      "query": "Intuit Inc. major customers clients",
+      "snippet": "As per the analyst, Intuit Inc . (NASDAQ:INTU) posted strong Q2 2026 results, with revenues coming at $4.65 billion and adjusted operating income surp"
     }
   ]
 }

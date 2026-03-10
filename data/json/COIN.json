@@ -11,18 +11,18 @@
     "PayPal"
   ],
   "downstream": [
-    "Retail cryptocurrency users",
+    "Retail investors",
     "Institutional investors",
     "Crypto traders",
-    "DeFi protocol developers",
-    "Financial institutions"
+    "DeFi protocols",
+    "Blockchain projects"
   ],
   "competitors": [
     "Binance",
     "Kraken",
     "Gemini",
-    "Bitstamp",
-    "Huobi"
+    "FTX",
+    "Bitstamp"
   ],
   "key_products": [
     "Coinbase Pro",
@@ -31,7 +31,7 @@
     "Coinbase Earn",
     "Coinbase Prime"
   ],
-  "extracted_at": "2026-03-09 16:54:15",
+  "extracted_at": "2026-03-10 16:50:15",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/Coinbase",
+      "query": "Coinbase Global, Inc. suppliers manufacturers",
+      "snippet": "Coinbase Global, Inc. is an American cryptocurrency exchange. It was founded in 2012 by Brian Armstrong and Fred Ehrsam. Coinbase has over 100 million"
+    },
+    {
+      "source": "DuckDuckGo",
       "url": "https://www.coinbase.com/vendors/vendors-at-coinbase",
       "query": "Coinbase Global, Inc. suppliers manufacturers",
-      "snippet": "Getting started as a Coinbase Vendor. Procurement guidelines & policies to streamline the vendor experience. Missing: Global, Inc. manufacturers"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.coinbase.com/",
-      "query": "Coinbase Global, Inc. suppliers manufacturers",
-      "snippet": "Coinbase is a secure online platform for buying, selling, transferring, and storing cryptocurrency. Missing: suppliers manufacturers"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.demandsage.com/coinbase-users-statistics/",
-      "query": "Coinbase Global, Inc. major customers clients",
-      "snippet": "Aug 13, 2025 · Coinbase ’s user base stands at around 120 million, meaning it serves about 19.45% of all global cryptocurrency users. This makes Coinb"
+      "snippet": "Getting started as a Coinbase Vendor. Procurement guidelines & policies to streamline the vendor experience. Missing: Inc. | Show results with: Inc."
     },
     {
       "source": "DuckDuckGo",
       "url": "https://csimarket.com/stocks/COIN-Customers",
       "query": "Coinbase Global, Inc. major customers clients",
       "snippet": "Coinbase Global Inc customers and markets, results by customer and performance relative to COIN, by company and industry - CSIMarket"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.demandsage.com/coinbase-users-statistics/",
+      "query": "Coinbase Global, Inc. major customers clients",
+      "snippet": "Aug 13, 2025 · Coinbase ’s user base stands at around 120 million, meaning it serves about 19.45% of all global cryptocurrency users. This makes Coinb"
     }
   ]
 }
