@@ -3,8 +3,8 @@ ticker: CVX
 company: Chevron Corporation
 sector: Energy
 industry: Oil & Gas Integrated
-extracted_at: 2026-03-10 16:51:21
-last_updated: 2026-03-10
+extracted_at: 2026-03-11 16:47:47
+last_updated: 2026-03-11
 ---
 
 # CVX - Chevron Corporation
@@ -12,7 +12,7 @@ last_updated: 2026-03-10
 ## 基本信息
 
 - **所属行业**: Energy / Oil & Gas Integrated
-- **提取时间**: 2026-03-10 16:51:21
+- **提取时间**: 2026-03-11 16:47:47
 
 ## 产业链关系
 
@@ -20,15 +20,15 @@ last_updated: 2026-03-10
 - [[Halliburton]]
 - [[Schlumberger]]
 - [[Baker Hughes]]
-- [[Weatherford]]
+- [[Emerson Electric]]
 - [[CAT]]
 
 ### 下游客户
-- [[Chevron Texaco gas stations]]
-- [[Shell]]
-- [[ExxonMobil]]
-- [[BP]]
-- [[TotalEnergies]]
+- [[Airlines (e.g., Delta, United)]]
+- [[Automotive manufacturers]]
+- [[Industrial refineries]]
+- [[Retail fuel stations]]
+- [[Chemical manufacturers]]
 
 ### 竞争对手
 - [[ExxonMobil]]
@@ -40,18 +40,18 @@ last_updated: 2026-03-10
 ### 核心产品
 - [[Crude oil]]
 - [[Natural gas]]
-- [[Refined petroleum products]]
-- [[Petrochemicals]]
+- [[Refined petroleum products (gasoline, diesel)]]
+- [[Petrochemicals (ethylene, propylene)]]
 - [[Liquefied natural gas (LNG)]]
 
 ## 数据来源
 
 - [Chevron Corporation](https://en.wikipedia.org/wiki/Chevron_Corporation)
-- [Chevron Corporation suppliers manufacturers](https://ru.wikipedia.org/wiki/Chevron)
-- [Chevron Corporation suppliers manufacturers](https://www.chevron.com/)
-- [Chevron Corporation major customers clients](https://en.wikipedia.org/wiki/Chevron_Corporation)
-- [Chevron Corporation major customers clients](https://csimarket.com/stocks/CVX-Customers)
+- [Chevron Corporation suppliers manufacturers](https://stationsupport.chevron.com/s/article/Chevron-Approved-Vendor-List)
+- [Chevron Corporation suppliers manufacturers](https://www.cpchem.com/who-we-are/suppliers/general-suppliers)
+- [Chevron Corporation major customers clients](https://www.chevron.com/)
+- [Chevron Corporation major customers clients](https://www.libertify.com/interactive-library/chevron-annual-report-2024/)
 
 ## 元数据
 
-- **更新日期**: 2026-03-10
+- **更新日期**: 2026-03-11

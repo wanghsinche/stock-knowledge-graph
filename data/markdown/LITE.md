@@ -1,57 +1,57 @@
 ---
 ticker: LITE
 company: Lumentum Holdings Inc.
-sector: Technology / Communication Equipment
-industry: Optical Communications
-extracted_at: 2026-03-10 16:47:44
-last_updated: 2026-03-10
+sector: Technology
+industry: Communication Equipment
+extracted_at: 2026-03-11 16:42:15
+last_updated: 2026-03-11
 ---
 
 # LITE - Lumentum Holdings Inc.
 
 ## 基本信息
 
-- **所属行业**: Technology / Communication Equipment / Optical Communications
-- **提取时间**: 2026-03-10 16:47:44
+- **所属行业**: Technology / Communication Equipment
+- **提取时间**: 2026-03-11 16:42:15
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Cree, Inc.]]
-- [[Coherent, Inc.]]
-- [[Thorlabs]]
-- [[Lumenis]]
-- [[InnoLux]]
+- [[Corning Inc.]]
+- [[II-VI Incorporated]]
+- [[Coherent Inc.]]
+- [[Lumentum's fiber optic suppliers]]
+- [[Laser Components Inc.]]
 
 ### 下游客户
-- [[AT&T]]
-- [[Verizon]]
 - [[CSCO]]
-- [[Huawei]]
+- [[Huawei Technologies]]
 - [[Nokia]]
+- [[Ericsson]]
+- [[JNPR]]
 
 ### 竞争对手
-- [[Coherent, Inc.]]
+- [[II-VI Incorporated]]
+- [[Coherent Inc.]]
+- [[Lumen Technologies]]
+- [[Nikon Photonics]]
 - [[Thorlabs]]
-- [[InnoLux]]
-- [[Trumpf]]
-- [[Infinera]]
 
 ### 核心产品
-- [[Laser diodes]]
-- [[Optical amplifiers]]
 - [[Optical transceivers]]
+- [[Laser diodes]]
 - [[Photonic integrated circuits]]
-- [[Optical sensors]]
+- [[Optical amplifiers]]
+- [[Fiber optic components]]
 
 ## 数据来源
 
 - 
-- [Lumentum Holdings Inc. suppliers manufacturers](https://www.lumentum.com/en/company/distributors)
-- [Lumentum Holdings Inc. suppliers manufacturers](https://csimarket.com/stocks/LITE-Suppliers)
-- [Lumentum Holdings Inc. major customers clients](https://www.lumentum.com/)
-- [Lumentum Holdings Inc. major customers clients](https://in.investing.com/equities/lumentum-holdings-inc)
+- [Lumentum Holdings Inc. suppliers manufacturers](https://www.lumentum.com/)
+- [Lumentum Holdings Inc. suppliers manufacturers](https://markets.financialcontent.com/stocks/article/finterra-2026-3-2-lumentum-holdings-lite-the-optical-architecture-of-the-ai-supercycle)
+- [Lumentum Holdings Inc. major customers clients](https://au.finance.yahoo.com/news/lumentum-holdings-inc-lite-rallies-151101936.html)
+- [Lumentum Holdings Inc. major customers clients](https://www.investing.com/news/susquehanna-stick-to-their-buy-rating-for-lumentum-holdings-2412587)
 
 ## 元数据
 
-- **更新日期**: 2026-03-10
+- **更新日期**: 2026-03-11

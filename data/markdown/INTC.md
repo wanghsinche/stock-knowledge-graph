@@ -3,8 +3,8 @@ ticker: INTC
 company: Intel Corporation
 sector: Technology
 industry: Semiconductors
-extracted_at: 2026-03-10 16:48:27
-last_updated: 2026-03-10
+extracted_at: 2026-03-11 16:42:00
+last_updated: 2026-03-11
 ---
 
 # INTC - Intel Corporation
@@ -12,23 +12,23 @@ last_updated: 2026-03-10
 ## 基本信息
 
 - **所属行业**: Technology / Semiconductors
-- **提取时间**: 2026-03-10 16:48:27
+- **提取时间**: 2026-03-11 16:42:00
 
 ## 产业链关系
 
 ### 上游供应商
+- [[TSM]]
+- [[005930.KS]]
+- [[GlobalFoundries]]
 - [[ASML]]
 - [[AMAT]]
-- [[LRCX]]
-- [[Tokyo Electron]]
-- [[Nikon]]
 
 ### 下游客户
 - [[DELL]]
 - [[HPQ]]
 - [[Lenovo Group]]
 - [[AAPL]]
-- [[AMZN]]
+- [[MSFT]]
 
 ### 竞争对手
 - [[AMD]]
@@ -38,20 +38,20 @@ last_updated: 2026-03-10
 - [[TSM]]
 
 ### 核心产品
-- [[Intel Core CPUs]]
-- [[Intel Xeon Servers]]
-- [[Intel FPGAs]]
-- [[Intel AI Accelerators]]
-- [[Intel Chipsets]]
+- [[Intel Core processors]]
+- [[Intel Xeon processors]]
+- [[Intel Atom processors]]
+- [[Intel Optane memory]]
+- [[Intel Ethernet controllers]]
 
 ## 数据来源
 
 - [Intel](https://en.wikipedia.org/wiki/Intel_Corporation)
-- [Intel Corporation suppliers manufacturers](https://en.wikipedia.org/wiki/List_of_Intel_manufacturing_sites)
-- [Intel Corporation suppliers manufacturers](https://www.intel.com/content/www/us/en/partner/showcase/partner-directory/distributor.html)
-- [Intel Corporation major customers clients](https://en.wikipedia.org/wiki/Intel)
-- [Intel Corporation major customers clients](https://seekingalpha.com/news/4541893-intel-outlines-path-to-45-percent-client-market-share-and-signals-14a-foundry-customer)
+- [Intel Corporation suppliers manufacturers](https://en.wikipedia.org/wiki/Intel)
+- [Intel Corporation suppliers manufacturers](https://www.intel.com/)
+- [Intel Corporation major customers clients](https://csimarket.com/stocks/INTC-Customers)
+- [Intel Corporation major customers clients](https://www.intel.com/content/www/us/en/customer-spotlight/overview.html)
 
 ## 元数据
 
-- **更新日期**: 2026-03-10
+- **更新日期**: 2026-03-11

@@ -2,7 +2,7 @@
   "ticker": "CRM",
   "company_name": "Salesforce, Inc.",
   "sector": "Technology / Software - Application",
-  "industry": "Cloud Computing / SaaS",
+  "industry": "Cloud-based Customer Relationship Management (CRM) Software",
   "upstream": [
     "AMZN",
     "MSFT",
@@ -12,17 +12,17 @@
   ],
   "downstream": [
     "AMZN",
+    "AAPL",
     "Coca‑Cola",
-    "Ford",
-    "General Electric",
+    "DELL",
     "Walmart"
   ],
   "competitors": [
     "MSFT",
-    "SAP",
     "ORCL",
-    "ADBE",
-    "HubSpot"
+    "SAP Customer Experience",
+    "HubSpot",
+    "Zoho CRM"
   ],
   "key_products": [
     "Sales Cloud",
@@ -31,7 +31,7 @@
     "Commerce Cloud",
     "Einstein AI"
   ],
-  "extracted_at": "2026-03-10 16:50:07",
+  "extracted_at": "2026-03-11 16:45:54",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,15 +41,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.salesforce.com/company/our-brands/",
+      "url": "https://help.salesforce.com/s/articleView?id=ind.mfg_warranties_suppliers_create_suppliers.htm",
       "query": "Salesforce, Inc. suppliers manufacturers",
-      "snippet": "See our full list of Salesforce brands and find out how these companies inspire innovation to provide customer solutions."
+      "snippet": "Create supplier records to capture important details about the suppliers that you procure product parts and components from. Create supplier products "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.builtinchicago.org/companies/tech/salesforce-companies",
+      "url": "https://www.salesforce.com/company/our-brands/",
       "query": "Salesforce, Inc. suppliers manufacturers",
-      "snippet": "Check out this list of the top Salesforce companies in Chicago, IL. See company benefits, info, interviews and more at Built In Chicago."
+      "snippet": "See our full list of Salesforce brands and find out how these companies inspire innovation to provide customer solutions."
     },
     {
       "source": "DuckDuckGo",

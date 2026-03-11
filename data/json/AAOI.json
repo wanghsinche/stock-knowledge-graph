@@ -1,37 +1,37 @@
 {
   "ticker": "AAOI",
   "company_name": "Applied Optoelectronics, Inc.",
-  "sector": "Technology / Communication Equipment",
-  "industry": "Optical Communications",
+  "sector": "Technology",
+  "industry": "Communication Equipment",
   "upstream": [
-    "TSM",
-    "005930.KS",
-    "GlobalFoundries",
-    "INTC",
-    "AVGO"
+    "Inphi (silicon photonics)",
+    "Lumentum (laser sources)",
+    "Finisar (laser sources)",
+    "AVGO",
+    "MRVL"
   ],
   "downstream": [
     "AMZN",
-    "GOOGL",
     "MSFT",
-    "META",
-    "Cloudflare"
+    "GOOGL",
+    "Equinix",
+    "CSCO"
   ],
   "competitors": [
+    "Finisar (II‑VI)",
+    "Lumentum",
     "AVGO",
-    "CSCO",
-    "JNPR",
-    "Infinera",
+    "MRVL",
     "Ciena"
   ],
   "key_products": [
-    "1.6T data center transceivers",
-    "800G optical modules",
-    "400G optical transceivers",
-    "2.5T optical interconnect solutions",
-    "high‑speed optical transceiver platforms"
+    "1.6 Tbit/s transceivers",
+    "400 Gbit/s QSFP28 transceivers",
+    "800 Gbit/s QSFP28 transceivers",
+    "400 Gbit/s CFP4 transceivers",
+    "400 Gbit/s CXP transceivers"
   ],
-  "extracted_at": "2026-03-10 16:50:51",
+  "extracted_at": "2026-03-11 16:45:15",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://investors.ao-inc.com/news-releases/news-release-details/applied-optoelectronics-announces-first-volume-shipment-data",
+      "url": "https://csimarket.com/stocks/AAOI-Suppliers",
       "query": "Applied Optoelectronics, Inc. suppliers manufacturers",
-      "snippet": "Jun 11, 2025 · (AOI) is a leading developer and manufacturer of advanced optical products, including components, modules and equipment. AOI's products"
+      "snippet": "Feb 27, 2026 · Applied Optoelectronics Inc's Sup pliers recorded an increase in sales by 7.13 % year on year in Q3 2025, sequentially sales grew by 3."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://investors.ao-inc.com/news-releases/news-release-details/applied-optoelectronics-introduces-next-generation-products-ofc",
+      "url": "https://en.abrams.wiki/Applied-Optoelectronics-Inc/3-VOhNemYYMvNbtk9t32Xurg",
       "query": "Applied Optoelectronics, Inc. suppliers manufacturers",
-      "snippet": "Applied Optoelectronics, Inc. (AOI) is a leading developer and manufacturer of advanced optical products, including components, modules and equipment."
+      "snippet": "59 shipments of Applied Optoelectronics Inc . with information about suppliers , customers, products purchased and sold, quantities, prices and supply"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/news/aoi-receives-first-volume-order-110000851.html",
+      "url": "https://seekingalpha.com/news/4562310-applied-optoelectronics-climbs-after-receiving-first-volume-order-for-its-16t-data-center-transceivers",
       "query": "Applied Optoelectronics, Inc. major customers clients",
-      "snippet": "1 day ago · AOI Receives First Volume Order of 1.6T Data Center Transceivers from Major Hyperscale Customer. Applied Optoelectronics, Inc. Mon, March "
+      "snippet": "2 days ago · The order came from one of Applied Optoelectronics long-term hyperscale customers. \"We are seeing a clear progression toward higher-speed"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.stocktitan.net/news/AAOI/aoi-receives-first-volume-order-of-1-6t-data-center-transceivers-ygsaveoo58dj.html",
+      "url": "https://www.trefis.com/articles/593009/applied-optoelectronics-16-200m-ai-order-from-hyperscaler/2026-03-10",
       "query": "Applied Optoelectronics, Inc. major customers clients",
-      "snippet": "1 day ago · More than $200M from a hyperscale customer backs AOI's 1.6T data center optics and its plan to exceed 500000 800G/1.6T units a month by .."
+      "snippet": "1 day ago · AAOI received its first volume order for 1.6T transceivers from a major hyperscale customer. The initial order totals more than $200 milli"
     }
   ]
 }

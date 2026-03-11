@@ -4,18 +4,18 @@
   "sector": "Financial Services",
   "industry": "Financial Data & Stock Exchanges",
   "upstream": [
-    "AMZN",
+    "Cryptocurrency mining hardware manufacturers (e.g., Bitmain, Canaan)",
     "MSFT",
-    "GOOGL",
-    "Stripe",
-    "PayPal"
+    "Payment processors (e.g., Stripe, PayPal)",
+    "Regulatory bodies (e.g., SEC, FinCEN)",
+    "Financial institutions providing fiat deposits"
   ],
   "downstream": [
-    "Retail investors",
-    "Institutional investors",
-    "Crypto traders",
-    "DeFi protocols",
-    "Blockchain projects"
+    "Retail cryptocurrency traders",
+    "Institutional investors (e.g., hedge funds, family offices)",
+    "Asset managers (e.g., BlackRock, Fidelity)",
+    "Financial institutions using crypto custody",
+    "Corporate treasury departments"
   ],
   "competitors": [
     "Binance",
@@ -25,13 +25,13 @@
     "Bitstamp"
   ],
   "key_products": [
-    "Coinbase Pro",
-    "Coinbase Wallet",
-    "Coinbase Custody",
-    "Coinbase Earn",
-    "Coinbase Prime"
+    "Cryptocurrency exchange platform",
+    "Custody services",
+    "Earn interest products",
+    "Staking services",
+    "Coinbase Wallet"
   ],
-  "extracted_at": "2026-03-10 16:50:15",
+  "extracted_at": "2026-03-11 16:44:20",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
+      "url": "https://www.coinbase.com/vendors/vendors-at-coinbase-code-of-conduct",
+      "query": "Coinbase Global, Inc. suppliers manufacturers",
+      "snippet": "This information is the property of Coinbase , or the property of Coinbase ’s suppliers , customers, or business partners, and in many cases was devel"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://fintel.io/doc/sec-coinbase-global-inc-1679788-ex211-2024-february-15-19768-5823",
+      "query": "Coinbase Global, Inc. suppliers manufacturers",
+      "snippet": "Coinbase Global , Inc . - List of Subsidiaries of the Registrant - EX-21.1 - February 15, 2024 COIN / Coinbase Global , Inc . Filings Coinbase Global "
+    },
+    {
+      "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Coinbase",
-      "query": "Coinbase Global, Inc. suppliers manufacturers",
-      "snippet": "Coinbase Global, Inc. is an American cryptocurrency exchange. It was founded in 2012 by Brian Armstrong and Fred Ehrsam. Coinbase has over 100 million"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.coinbase.com/vendors/vendors-at-coinbase",
-      "query": "Coinbase Global, Inc. suppliers manufacturers",
-      "snippet": "Getting started as a Coinbase Vendor. Procurement guidelines & policies to streamline the vendor experience. Missing: Inc. | Show results with: Inc."
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/COIN-Customers",
       "query": "Coinbase Global, Inc. major customers clients",
-      "snippet": "Coinbase Global Inc customers and markets, results by customer and performance relative to COIN, by company and industry - CSIMarket"
+      "snippet": "Coinbase has over 100 million users, [7] and is the largest US based cryptocurrency exchange as well as the world's biggest bitcoin custodian."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.demandsage.com/coinbase-users-statistics/",
+      "url": "https://www.coinbase.com/institutional/clients",
       "query": "Coinbase Global, Inc. major customers clients",
-      "snippet": "Aug 13, 2025 · Coinbase ’s user base stands at around 120 million, meaning it serves about 19.45% of all global cryptocurrency users. This makes Coinb"
+      "snippet": "Coinbase was selected by BlackRock to provide Aladdin clients access to crypto trading and custody via Coinbase Prime. Crypto solutions for institutio"
     }
   ]
 }

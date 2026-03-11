@@ -1,37 +1,37 @@
 {
   "ticker": "CRWV",
   "company_name": "CoreWeave, Inc.",
-  "sector": "Technology",
-  "industry": "Software - Infrastructure",
+  "sector": "Technology / Software - Infrastructure",
+  "industry": "Artificial Intelligence Cloud Computing",
   "upstream": [
     "NVDA",
     "AMD",
     "INTC",
-    "QCOM",
+    "TSM",
     "005930.KS"
   ],
   "downstream": [
     "OpenAI",
     "MSFT",
-    "GOOGL",
     "AMZN",
-    "ADBE"
+    "GOOGL",
+    "IBM"
   ],
   "competitors": [
-    "NVDA",
-    "GOOGL",
     "AMZN",
+    "GOOGL",
     "MSFT",
+    "NVDA",
     "Paperspace"
   ],
   "key_products": [
-    "GPU‑based AI cloud infrastructure",
-    "CoreWeave AI Hyperscaler",
+    "GPU‑based AI compute instances",
+    "Custom GPU cluster provisioning",
+    "GPU virtualization for AI workloads",
     "Chip management software",
-    "AI‑optimized virtual machines",
-    "GPU‑accelerated data analytics services"
+    "AI training and inference services"
   ],
-  "extracted_at": "2026-03-06 16:37:17",
+  "extracted_at": "2026-03-11 16:42:27",
   "sources": [
     {
       "source": "Wikipedia",
@@ -49,19 +49,19 @@
       "source": "DuckDuckGo",
       "url": "https://www.coreweave.com/about-us",
       "query": "CoreWeave, Inc. suppliers manufacturers",
-      "snippet": "About CoreWeave The AI Hyperscaler™ empowering the future CoreWeave is a cloud purpose-built for scaling, supporting, and accelerating GenAI. We’re a "
+      "snippet": "About CoreWeave The Essential Cloud for AI CoreWeave is a cloud purpose-built for scaling, supporting, and accelerating GenAI. We’re a comprehensive p"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/CoreWeave",
       "query": "CoreWeave, Inc. major customers clients",
-      "snippet": "CoreWeave , Inc . is an American artificial intelligence cloud-computing company based in Livingston, New Jersey. It specializes in providing cloud-ba"
+      "snippet": "CoreWeave , Inc . is an American artificial intelligence (AI) cloud-computing company based in Livingston, New Jersey. It specializes in providing clo"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.coreweave.com/",
+      "url": "https://www.coreweave.com/case-studies",
       "query": "CoreWeave, Inc. major customers clients",
-      "snippet": "CoreWeave Inc .’s."
+      "snippet": "Customer stories Where Customers Become Pioneers Discover how CoreWeave customers transform ambition into achievement. These pioneers are shaping the "
     }
   ]
 }

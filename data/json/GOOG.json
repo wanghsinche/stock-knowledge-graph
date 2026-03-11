@@ -4,34 +4,34 @@
   "sector": "Communication Services",
   "industry": "Internet Content & Information",
   "upstream": [
-    "INTC",
     "QCOM",
+    "INTC",
     "005930.KS",
-    "NVDA",
-    "AVGO"
+    "TSM",
+    "NVDA"
   ],
   "downstream": [
-    "GOOGL",
-    "GOOGL",
-    "GOOGL",
+    "MSFT",
+    "Android app developers",
     "YouTube content creators",
-    "Android device manufacturers"
+    "GOOGL",
+    "GOOGL"
   ],
   "competitors": [
-    "MSFT",
-    "AMZN",
     "META",
+    "AMZN",
+    "MSFT",
     "AAPL",
-    "NFLX"
+    "Tencent"
   ],
   "key_products": [
     "Google Search",
     "YouTube",
-    "Android OS",
-    "Google Cloud Platform",
+    "Android",
+    "Google Cloud",
     "Google Ads"
   ],
-  "extracted_at": "2026-03-10 16:48:55",
+  "extracted_at": "2026-03-11 16:42:48",
   "sources": [
     {
       "source": "Wikipedia",
@@ -53,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Alphabet_Inc.",
+      "url": "https://csimarket.com/stocks/GOOGL-Customers",
       "query": "Alphabet Inc. major customers clients",
-      "snippet": "Alphabet Inc . is an American multinational technology conglomerate holding company headquartered in Mountain View, California. It was created through"
+      "snippet": "Feb 9, 2026 · Alphabet Inc customers and markets, results by customer and performance relative to GOOGL, by company and industry - CSIMarket"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.britannica.com/money/Alphabet-Inc",
+      "url": "https://pitchgrade.com/companies/alphabet-inc",
       "query": "Alphabet Inc. major customers clients",
-      "snippet": "Alphabet Inc . is an American technology conglomerate and holding company formed in 2015 as a strategic... Alphabet ’s subsidiaries are generally sepa"
+      "snippet": "Jan 16, 2026 · Customer Segments: Alphabet Inc . serves multiple distinct customer segments, which may include consumers, small and medium businesses,"
     }
   ]
 }

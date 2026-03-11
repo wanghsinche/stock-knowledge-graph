@@ -6,23 +6,23 @@
   "upstream": [
     "TSM",
     "005930.KS",
-    "Foxconn (Hon Hai Precision)",
-    "AVGO",
-    "QCOM"
+    "Foxconn",
+    "Pegatron",
+    "Wistron"
   ],
   "downstream": [
-    "Consumers worldwide",
+    "iTunes",
+    "App Store",
     "AAPL",
-    "Best Buy",
-    "AMZN",
+    "AAPL",
     "AAPL"
   ],
   "competitors": [
     "005930.KS",
     "GOOGL",
     "MSFT",
-    "Huawei",
-    "Xiaomi"
+    "AMZN",
+    "SONY"
   ],
   "key_products": [
     "iPhone",
@@ -31,7 +31,7 @@
     "Apple Watch",
     "AirPods"
   ],
-  "extracted_at": "2026-03-10 16:48:10",
+  "extracted_at": "2026-03-11 16:41:52",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Apple_Inc.",
+      "url": "https://en.wikipedia.org/wiki/Apple_supply_chain",
       "query": "Apple Inc. suppliers manufacturers",
+      "snippet": "Apple policy on how it influences the corporate culture of its suppliers is presented in the \" Supplier Responsibility Progress Reports\" document. [28"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.investopedia.com/articles/investing/090315/10-major-companies-tied-apple-supply-chain.asp",
+      "query": "Apple Inc. suppliers manufacturers",
+      "snippet": "Nov 13, 2025 · Discover Apple's top suppliers and how they enhance product performance and innovation. Learn about Apple's efficient supply chain and "
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/Apple_Inc.",
+      "query": "Apple Inc. major customers clients",
       "snippet": "Apple Inc . is an American multinational technology company headquartered in Cupertino, California, in Silicon Valley, best known for its consumer ele"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.alibaba.com/",
-      "query": "Apple Inc. suppliers manufacturers",
-      "snippet": "Find quality Manufacturers , Suppliers , Exporters, Importers, Buyers, Wholesalers, Products and Trade Leads from our award-winning International Trad"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/AAPL-Customers",
+      "url": "https://247wallst.com/special-report/2012/04/30/american-companies-with-the-most-customers/",
       "query": "Apple Inc. major customers clients",
-      "snippet": "For your research, we’ve provided 9 tables on Apple Inc corporate clients . You can find them in the navigation menu under Customers & Markets. To dow"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://businessmodelanalyst.com/apple-target-market/",
-      "query": "Apple Inc. major customers clients",
-      "snippet": "Nov 8, 2024 · For Apple , this analysis reveals a distinct and loyal customer base characterized by specific core values and lifestyle choices. Apple "
+      "snippet": "2. iTunes > Customers : 225 million > Industry: e-commerce > Parent company: Apple Inc . > Major competitors: Amazon.com (NASDAQ: AMZN), eBay (NASDAQ:"
     }
   ]
 }

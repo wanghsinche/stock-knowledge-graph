@@ -7,15 +7,15 @@
     "TSM",
     "005930.KS",
     "GlobalFoundries",
-    "UMC",
-    "MU"
+    "ASE Group",
+    "Amkor Technology"
   ],
   "downstream": [
     "AMZN",
-    "META",
     "MSFT",
     "GOOGL",
-    "AAPL"
+    "SONY",
+    "TSLA"
   ],
   "competitors": [
     "AMD",
@@ -25,13 +25,13 @@
     "AAPL"
   ],
   "key_products": [
-    "GeForce GPUs",
-    "Tesla GPUs",
-    "NVIDIA Tegra SoCs",
-    "NVIDIA Jetson SoCs",
-    "CUDA API"
+    "GeForce RTX GPUs",
+    "NVIDIA A100 & H100 GPUs",
+    "NVIDIA Drive automotive platform",
+    "CUDA & TensorRT AI software",
+    "NVIDIA DGX AI systems"
   ],
-  "extracted_at": "2026-03-10 16:46:34",
+  "extracted_at": "2026-03-11 16:40:18",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,25 +43,25 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Nvidia",
       "query": "NVIDIA Corporation suppliers manufacturers",
-      "snippet": "Nvidia Corporation . Show dark mode logo. Nvidia uses external suppliers for all phases of manufacturing , including wafer fabrication, assembly, test"
+      "snippet": "5 days ago - In August 2025, Nvidia ordered ... due to security concerns. The company directed suppliers including Taiwan Semiconductor Manufacturing "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.investing.com/equities/nvidia-corp",
+      "url": "https://www.theaireport.ai/partner-columns/nvidias-supply-chain--part-1",
       "query": "NVIDIA Corporation suppliers manufacturers",
-      "snippet": "View today's NVIDIA Corporation stock price and latest NVDA news and analysis. Create real-time notifications to follow any changes in the live stock "
+      "snippet": "Answering this simple question could unearth some investment opportunities that average ETF investors will miss. Here’s what you need to know. Taiwan "
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.fool.com/investing/2025/06/26/who-are-nvidias-biggest-customers/",
       "query": "NVIDIA Corporation major customers clients",
-      "snippet": "Jun 26, 2025 · Who Are Nvidia 's Biggest Customers ? Nvidia supplies the most powerful data center chips in the world for artificial intelligence (AI)"
+      "snippet": "June 26, 2025 - Nvidia has amassed an impressive list of customers, which includes top AI developers like Amazon, Microsoft, and Alphabet ."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/news/nvidias-largest-customers-201900375.html?fr=sycsrp_catchall",
+      "url": "https://www.fool.com/investing/2024/05/02/who-are-nvidias-largest-customers/",
       "query": "NVIDIA Corporation major customers clients",
-      "snippet": "May 2, 2024 · Unsurprisingly, big tech companies like Amazon, Meta Platforms, Microsoft, and Alphabet are believed to be among Nvidia 's biggest custo"
+      "snippet": "May 2, 2024 - However, in its recent 10-K filing, the company did say that one customer represented 13% of its revenue from its compute and networking"
     }
   ]
 }

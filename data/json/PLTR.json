@@ -4,34 +4,34 @@
   "sector": "Technology",
   "industry": "Software - Infrastructure",
   "upstream": [
-    "Cloud service providers (AWS, Azure, GCP)",
-    "Hardware manufacturers (servers, storage)",
-    "Data integration middleware vendors",
-    "Open‑source software libraries (Apache, Hadoop)",
-    "Cybersecurity solution providers"
+    "AMZN",
+    "MSFT",
+    "GOOGL",
+    "INTC",
+    "NVDA"
   ],
   "downstream": [
     "U.S. Department of Defense",
-    "U.S. Department of Homeland Security",
-    "Federal law‑enforcement agencies (FBI, DEA)",
-    "Large multinational corporations (e.g., Walmart, JPMorgan)",
-    "INTC"
+    "Federal Bureau of Investigation",
+    "National Security Agency",
+    "JPMorgan Chase",
+    "Walmart"
   ],
   "competitors": [
-    "Splunk",
     "Snowflake",
     "Databricks",
+    "Splunk",
     "IBM",
     "MSFT"
   ],
   "key_products": [
     "Gotham",
     "Foundry",
-    "Apollo (data orchestration)",
-    "Metropolis (data governance)",
-    "Palantir Platform (API services)"
+    "Apollo",
+    "Palantir Data Integration Platform",
+    "Palantir Analytics Suite"
   ],
-  "extracted_at": "2026-03-10 16:47:22",
+  "extracted_at": "2026-03-11 16:41:11",
   "sources": [
     {
       "source": "Wikipedia",
@@ -53,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://data.landbase.com/technology/palantir/",
+      "url": "https://enlyft.com/tech/products/palantir",
       "query": "Palantir Technologies Inc. major customers clients",
-      "snippet": "Aug 17, 2025 · Our Palantir customers list is available for download and comes enriched with vital company specifics, including industry classificatio"
+      "snippet": "2302 companies use Palantir. Palantir is most often used by companies with 50-200 employees & $1M-10M in revenue. Our usage data goes back 10 years an"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.appsruntheworld.com/customers-database/products/view/palantir-foundry",
+      "url": "https://www.statista.com/statistics/1286996/palantir-technologies-number-of-customers/?srsltid=AfmBOop4x7aq-XmIyZsC2SwCK7SZASjq1ZQF-39F8VvCV9WZX1q5XjPS",
       "query": "Palantir Technologies Inc. major customers clients",
-      "snippet": "Since 2010, our global team of researchers has been studying Palantir Foundry customers around the world, aggregating massive amounts of data points t"
+      "snippet": "Feb 3, 2026 · As of the fourth quarter of 2025, the American software company counted nearly 954 customers, up from 391 at the beginning of 2023. Miss"
     }
   ]
 }

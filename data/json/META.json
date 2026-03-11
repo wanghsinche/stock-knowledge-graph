@@ -4,35 +4,35 @@
   "sector": "Communication Services",
   "industry": "Internet Content & Information",
   "upstream": [
-    "INTC",
-    "NVDA",
-    "AMD",
     "TSM",
+    "QCOM",
+    "INTC",
+    "005930.KS",
     "CSCO"
   ],
   "downstream": [
-    "Coca‑Cola",
-    "Nike",
-    "005930.KS",
-    "Walmart",
-    "MSFT"
+    "Advertisers",
+    "App developers",
+    "Content creators",
+    "Individual users",
+    "Third‑party developers"
   ],
   "competitors": [
     "GOOGL",
     "AMZN",
     "AAPL",
     "MSFT",
-    "TikTok"
+    "ByteDance (TikTok)"
   ],
   "key_products": [
     "Facebook",
     "Instagram",
     "WhatsApp",
     "Messenger",
-    "Meta Ads",
-    "Threads"
+    "Threads",
+    "Meta Quest"
   ],
-  "extracted_at": "2026-03-10 16:48:00",
+  "extracted_at": "2026-03-11 16:41:44",
   "sources": [
     {
       "source": "Wikipedia",
@@ -48,21 +48,21 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/META-Suppliers",
+      "url": "https://forwork.meta.com/legal/mfw-subprocessor-list/",
       "query": "Meta Platforms, Inc. suppliers manufacturers",
-      "snippet": "Mar 3, 2026 · For your research, we’ve provided nine additional tables on Meta Platforms Inc ’ s suppliers . You can find them in the navigation menu "
+      "snippet": "Nov 13, 2023 · Poland Meta Singapore Pte. Ltd. Singapore Meta Spain SL Spain Meta UK Limited United Kingdom Meta Operations, LLC United States Meta Pl"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.meta.com/about/",
+      "url": "https://csimarket.com/stocks/META-Customers",
       "query": "Meta Platforms, Inc. major customers clients",
-      "snippet": "Meta - Social Media Advertising Platform (Facebook & Instagram)."
+      "snippet": "For your research, we’ve provided 9 tables on Meta Platforms Inc corporate clients . You can find them in the navigation menu under Customers & Market"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://investor.atmeta.com/",
+      "url": "https://canvasbusinessmodel.com/blogs/target-market/meta-target-market",
       "query": "Meta Platforms, Inc. major customers clients",
-      "snippet": "Investor Education Center. Meta for Business. Meta Ads Guide."
+      "snippet": "Jul 26, 2025 · Meta ' s primary customer segments are divided into individual users (B2C) and businesses/advertisers (B2B). The company's revenue mode"
     }
   ]
 }

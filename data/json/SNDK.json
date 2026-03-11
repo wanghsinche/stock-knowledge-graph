@@ -4,16 +4,16 @@
   "sector": "Technology",
   "industry": "Computer Hardware",
   "upstream": [
-    "TSM",
-    "005930.KS",
     "MU",
+    "005930.KS",
     "SK Hynix",
-    "INTC"
+    "WDC",
+    "Toshiba Memory"
   ],
   "downstream": [
     "DELL",
     "HPQ",
-    "Lenovo",
+    "Lenovo Group",
     "AAPL",
     "MSFT"
   ],
@@ -21,15 +21,17 @@
     "Kingston Technology",
     "MU",
     "Corsair",
-    "005930.KS",
-    "INTC"
+    "Lexar",
+    "PNY Technologies"
   ],
   "key_products": [
-    "Memory cards",
+    "SD and microSD memory cards",
     "USB flash drives",
-    "Solid-state drives"
+    "Solid‑state drives (SSD)",
+    "USB‑C flash drives",
+    "Enterprise SSDs"
   ],
-  "extracted_at": "2026-03-10 16:46:59",
+  "extracted_at": "2026-03-11 16:40:48",
   "sources": [
     {
       "source": "Wikipedia",
@@ -39,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.sandisk.com/company/distributors",
+      "url": "https://en.wikipedia.org/wiki/Sandisk",
       "query": "Sandisk Corporation suppliers manufacturers",
-      "snippet": "Find Sandisk Distributors & Resellers Purchase from your preferred Sandisk authorized partner. Region Country/Area Brand"
+      "snippet": "Sandisk Corporation is an American multinational computer technology company based in Milpitas, California, that designs and manufactures flash memory"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.mouser.com/manufacturer/sandisk/",
+      "url": "https://ru.wikipedia.org/wiki/SanDisk",
       "query": "Sandisk Corporation suppliers manufacturers",
-      "snippet": "SanDisk Corporation is a global leader in flash storage solutions, expanding the possibilities of storage and providing trusted and innovative product"
+      "snippet": "SanDisk Corporation . Изображение логотипа. Тип. SanDisk — американская корпорация, занимавшаяся разработкой и производством носителей информации на б"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/Sandisk",
+      "query": "Sandisk Corporation major customers clients",
+      "snippet": "Sandisk Corporation is an American multinational computer technology company based in Milpitas, California, that designs and manufactures flash memory"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://enlyft.com/tech/products/sandisk",
       "query": "Sandisk Corporation major customers clients",
-      "snippet": "Looking at SanDisk customers by industry, we find that Information Technology and Services (11%), Computer Software (9%), Marketing and Advertising (8"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://investor.sandisk.com/news-releases/news-release-details/sandisk-reports-fiscal-second-quarter-2026-financial-results",
-      "query": "Sandisk Corporation major customers clients",
-      "snippet": "Jan 29, 2026 · Datacenter revenue was up 64% sequentially, driven by strong adoption among AI infrastructure builders, semi-custom customers, and tech"
+      "snippet": "Looking at SanDisk customers by industry, we find that Information Technology and Services (12%), Marketing and Advertising (8%), Computer Software (8"
     }
   ]
 }

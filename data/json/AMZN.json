@@ -1,37 +1,37 @@
 {
   "ticker": "AMZN",
   "company_name": "Amazon.com, Inc.",
-  "sector": "Consumer Cyclical / Internet Retail",
-  "industry": "E-commerce, Cloud Computing, Online Advertising, Digital Streaming, Artificial Intelligence",
+  "sector": "Consumer Cyclical",
+  "industry": "Internet Retail",
   "upstream": [
-    "AAPL",
-    "005930.KS",
-    "SONY",
-    "DELL",
-    "HPQ"
+    "Electronics manufacturers",
+    "Apparel manufacturers",
+    "Consumer electronics suppliers",
+    "Home goods manufacturers",
+    "AMZN"
   ],
   "downstream": [
-    "NFLX",
-    "Airbnb",
-    "ADBE",
-    "MSFT",
-    "GOOGL"
+    "Retail consumers",
+    "Enterprise customers (AWS)",
+    "Advertising clients",
+    "Prime members",
+    "Third‑party sellers"
   ],
   "competitors": [
-    "eBay",
     "Walmart",
+    "eBay",
     "Alibaba",
-    "Target",
-    "Shopify"
+    "Shopify",
+    "MSFT"
   ],
   "key_products": [
-    "Amazon.com marketplace",
-    "Amazon Web Services (AWS)",
+    "Amazon.com e‑commerce platform",
+    "Amazon Web Services",
     "Amazon Prime Video",
-    "Amazon Echo (Alexa)",
-    "Amazon Kindle"
+    "Amazon Kindle",
+    "Amazon Echo/Alexa"
   ],
-  "extracted_at": "2026-03-10 16:47:30",
+  "extracted_at": "2026-03-11 16:41:04",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.ecomdepotwholesale.com/post/list-of-amazon-authorized-suppliers-for-2024-the-complete-guide-to-finding-verified-suppliers",
+      "url": "https://awesomers.com/amazon-supply-chain",
       "query": "Amazon.com, Inc. suppliers manufacturers",
-      "snippet": "Oct 21, 2024 · To ensure your success, we've put together a list of Amazon authorized suppliers for 2024. These verified suppliers understand Amazon's"
+      "snippet": "Amazon has released a list of its top 1000 suppliers and factories from around the world. This information became public as a part of an SEC disclosur"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://d39w7f4ix9f5s9.cloudfront.net/cb/19/77dfc5b441c892cd6e2be166ba70/final-amazon-supplier-list-2019-11-14-updated-1005am.pdf",
+      "url": "https://www.accio.com/supplier/manufacturer-amazon",
       "query": "Amazon.com, Inc. suppliers manufacturers",
-      "snippet": "Nov 14, 2019 · Our global teams work closely with suppliers to communicate our standards, and help suppliers build their capacity to provide safe and "
+      "snippet": "Jan 11, 2026 · Looking for Amazon manufacturers? Discover certified suppliers offering apparel, supplements, and FBA logistics."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Amazon_Web_Services",
+      "url": "https://capitaloneshopping.com/research/amazon-statistics/",
       "query": "Amazon.com, Inc. major customers clients",
-      "snippet": "1 day ago - Multiple financial services firms have shifted to AWS in some form. Notable customers include NASA and the Obama presidential campaign of "
+      "snippet": "Jan 28, 2026 · Statistics & analysis on Amazon including total sales (per year & minute), number of products (SKUs), customers , sellers & more."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Amazon_(company)",
+      "url": "https://csimarket.com/stocks/AMZN-Customers",
       "query": "Amazon.com, Inc. major customers clients",
-      "snippet": "4 days ago - Amazon Flex, a smartphone app that enables individuals to act as independent contractors, delivering packages to customers from personal "
+      "snippet": "Amazon Com Inc 's Comment on Sales, Marketing and Customers We serve consumers through our retail websites and focus on selection, price, and convenie"
     }
   ]
 }

@@ -4,34 +4,34 @@
   "sector": "Communication Services",
   "industry": "Advertising Agencies",
   "upstream": [
-    "AMZN",
     "GOOGL",
-    "MSFT",
-    "Nielsen",
-    "comScore"
+    "GOOGL",
+    "Data providers (acquisition data vendors)",
+    "Analytics and attribution platforms (Adjust, Appsflyer)",
+    "Mobile SDK providers"
   ],
   "downstream": [
-    "Supercell",
-    "Zynga",
-    "King",
-    "Electronic Arts",
-    "Tencent"
+    "Mobile app developers",
+    "Game developers",
+    "App publishers",
+    "Digital marketing agencies",
+    "Brands seeking mobile advertising"
   ],
   "competitors": [
-    "The Trade Desk",
-    "AdColony",
     "Unity Ads",
+    "AdColony",
     "Vungle",
-    "IronSource"
+    "IronSource",
+    "GOOGL"
   ],
   "key_products": [
-    "AppLovin Mobile Advertising Platform",
-    "MAX Ad SDK",
-    "Lytics Data Analytics",
-    "AppLovin AI‑Driven Ad Solutions",
-    "AppLovin Marketing Cloud"
+    "Mobile advertising platform",
+    "App marketing technology",
+    "User acquisition solutions",
+    "In-app advertising SDK",
+    "Data analytics and attribution"
   ],
-  "extracted_at": "2026-03-10 16:49:26",
+  "extracted_at": "2026-03-11 16:43:51",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.nasdaq.com/articles/applovin-and-semiconductor-have-been-highlighted-zacks-bull-and-bear-day",
-      "query": "AppLovin Corporation suppliers manufacturers",
-      "snippet": "Mar 14, 2025 · AppLovin Corporation is an artificial intelligence stock that outperformed Nvidia over the last two years, soaring 2,000% compared to N"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://danelfin.com/stocks/ARBE-arbe-robotics-vs-APP-applovin-compare",
-      "query": "AppLovin Corporation suppliers manufacturers",
-      "snippet": "AppLovin Corporation specializes in creating a software-focused framework that allows advertisers to incrementally develop and monetize their content,"
-    },
-    {
-      "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/AppLovin",
-      "query": "AppLovin Corporation major customers clients",
-      "snippet": "Before emerging from stealth mode, AppLovin acquired customers , including Opentable and Spotify. [9][10] The company was ranked #10 on the 2016 Deloi"
+      "query": "AppLovin Corporation suppliers manufacturers",
+      "snippet": "AppLovin Corporation is an American mobile technology company headquartered in Palo Alto, California. Founded in 2012, the company helps developers ma"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/APP-Customers",
+      "url": "https://www.applovin.com/",
+      "query": "AppLovin Corporation suppliers manufacturers",
+      "snippet": "AppLovin enables businesses to advertise profitably with marketing technologies that attract customers, increase revenue, and track ad performance."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://matrixbcg.com/blogs/target-market/applovin",
       "query": "AppLovin Corporation major customers clients",
-      "snippet": "For your research, we’ve provided 9 tables on Applovin Corporation corporate clients . You can find them in the navigation menu under Customers & Mark"
+      "snippet": "Sep 9, 2025 · AppLovin's main clients are mobile app developers who need tools to grow their user base and monetize their applications. This segment i"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://portersfiveforce.com/blogs/target-market/applovin",
+      "query": "AppLovin Corporation major customers clients",
+      "snippet": "Nov 27, 2025 · Its B2B clients demand high ROAS and simplified advertising technology, while its B2C gaming audience seeks engaging entertainment and "
     }
   ]
 }

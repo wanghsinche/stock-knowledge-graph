@@ -4,34 +4,34 @@
   "sector": "Communication Services",
   "industry": "Entertainment",
   "upstream": [
-    "Visual Data (UK)",
-    "AMZN",
-    "Disney",
-    "Warner Bros",
-    "Universal Studios"
+    "Content production studios",
+    "Film and television distributors",
+    "Technology infrastructure providers",
+    "Equipment manufacturers (cameras, lighting, editing suites)",
+    "Marketing and advertising agencies"
   ],
   "downstream": [
-    "US households",
-    "International subscribers",
-    "Corporate clients",
-    "Smart TV users",
-    "Mobile app users"
+    "Individual subscribers worldwide",
+    "Corporate enterprise customers (airlines, hotels, etc.)",
+    "Device manufacturers (smart TVs, set‑top boxes, gaming consoles)",
+    "Smartphone and tablet users",
+    "International regional markets"
   ],
   "competitors": [
     "Disney+",
-    "HBO Max",
     "AMZN",
     "Hulu",
+    "HBO Max",
     "AAPL"
   ],
   "key_products": [
-    "Netflix streaming service",
-    "Netflix Originals",
-    "Licensed content library",
-    "Mobile app",
-    "Smart TV app"
+    "Netflix streaming service (OTT platform)",
+    "Original series and films",
+    "Licensed movies and television shows",
+    "Mobile and web applications",
+    "Smart TV and console applications"
   ],
-  "extracted_at": "2026-03-10 16:48:37",
+  "extracted_at": "2026-03-11 16:42:55",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://npfp.netflixstudios.com/region/global/",
-      "query": "Netflix, Inc. suppliers manufacturers",
-      "snippet": "Visual Data (UK) became a Netflix Preferred Vendor in 2013 and its technical, professional and service standards are among the highest in the industry"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/NFLX-Suppliers",
-      "query": "Netflix, Inc. suppliers manufacturers",
-      "snippet": "Jan 25, 2026 · Netflix Inc supply chain, list and performance of Netflix Incs ' suppliers - CSIMarket"
-    },
-    {
-      "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Netflix,_Inc.",
-      "query": "Netflix, Inc. major customers clients",
-      "snippet": "It is the second largest entertainment/media company by market capitalization as of February 2022. In 2021, Netflix was ranked as the eighth-most trus"
+      "query": "Netflix, Inc. suppliers manufacturers",
+      "snippet": "Netflix, Inc. is an American media company founded on August 29, 1997 by Reed Hastings and Marc Randolph in Scotts Valley, California, and currently b"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.businessofapps.com/data/netflix-statistics/",
+      "url": "https://www.eximpedia.app/companies/netflix-inc/68821493",
+      "query": "Netflix, Inc. suppliers manufacturers",
+      "snippet": "View Netflix Inc import export trade data, including shipment records, HS codes, top buyers, suppliers, trade values, and global market insights."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://ir.netflix.net/ir-overview/profile/default.aspx",
       "query": "Netflix, Inc. major customers clients",
-      "snippet": "Jan 7, 2026 · Netflix generated $39 billion revenue in 2024, an increase of 15.7% on 2023. It reported its first quarterly decline in Q4 2022."
+      "snippet": "Jan 20, 2026 · Netflix is one of the world’s leading entertainment services offering TV series, films, games and live programming across a wide variet"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/markets_glance.php?code=NFLX",
+      "query": "Netflix, Inc. major customers clients",
+      "snippet": "Dec 10, 2025 · Netflix Inc customers and markets, results by customer and performance relative to NFLX, by company and industry - CSIMarket"
     }
   ]
 }

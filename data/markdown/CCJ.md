@@ -3,8 +3,8 @@ ticker: CCJ
 company: Cameco Corporation
 sector: Energy
 industry: Uranium
-extracted_at: 2026-03-10 16:54:14
-last_updated: 2026-03-10
+extracted_at: 2026-03-11 16:49:12
+last_updated: 2026-03-11
 ---
 
 # CCJ - Cameco Corporation
@@ -12,46 +12,46 @@ last_updated: 2026-03-10
 ## 基本信息
 
 - **所属行业**: Energy / Uranium
-- **提取时间**: 2026-03-10 16:54:14
+- **提取时间**: 2026-03-11 16:49:12
 
 ## 产业链关系
 
 ### 上游供应商
-- [[CAT]]
-- [[Komatsu Ltd.]]
-- [[Sandvik AB]]
-- [[ThyssenKrupp AG]]
-- [[GE Energy]]
+- [[Uranium mining companies]]
+- [[Uranium ore suppliers]]
+- [[Mining equipment manufacturers]]
+- [[Fuel processing facilities]]
+- [[Enrichment service providers]]
 
 ### 下游客户
-- [[Ontario Power Generation]]
-- [[Westinghouse Electric Company]]
-- [[EDF (France)]]
-- [[Canadian Nuclear Laboratories]]
-- [[U.S. Department of Energy]]
+- [[Nuclear power utilities]]
+- [[Electricity generation companies]]
+- [[Nuclear power plant operators]]
+- [[Government nuclear agencies]]
+- [[International nuclear fuel buyers]]
 
 ### 竞争对手
+- [[NexGen Energy]]
 - [[Kazatomprom]]
 - [[Uranium Energy Corp]]
 - [[Orano]]
-- [[Energy Fuels Inc.]]
-- [[NexGen Energy]]
+- [[Uranium One]]
 
 ### 核心产品
-- [[Uranium ore]]
-- [[Uranium hexafluoride (UF6)]]
-- [[Enriched uranium]]
 - [[Uranium fuel assemblies]]
-- [[Uranium processing services]]
+- [[Uranium hexafluoride (UF6)]]
+- [[Uranium dioxide (UO2)]]
+- [[Enriched uranium services]]
+- [[Uranium enrichment technology]]
 
 ## 数据来源
 
 - [Cameco](https://en.wikipedia.org/wiki/Cameco_Corporation)
-- [Cameco Corporation suppliers manufacturers](https://en.wikipedia.org/wiki/Cameco)
-- [Cameco Corporation suppliers manufacturers](https://www.power-technology.com/contractors/energy-and-utilities/cameco/)
+- [Cameco Corporation suppliers manufacturers](https://www.cameco.com/about)
+- [Cameco Corporation suppliers manufacturers](https://triangle-investor.com/articles/cameco-stock-analysis-2026-uranium-market-outlook-production-forecast-nuclear-energy/)
+- [Cameco Corporation major customers clients](https://www.nasdaq.com/articles/cameco-inks-19b-long-term-uranium-supply-deal-india)
 - [Cameco Corporation major customers clients](https://seekingalpha.com/article/4775247-cameco-corp-unrivaled-western-uranium-hegemony-from-mines-to-micro-reactors-edge)
-- [Cameco Corporation major customers clients](https://www.spglobal.com/ratings/en/regulatory/article/-/view/type/HTML/id/3449461)
 
 ## 元数据
 
-- **更新日期**: 2026-03-10
+- **更新日期**: 2026-03-11

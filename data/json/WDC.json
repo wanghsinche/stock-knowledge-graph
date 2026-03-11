@@ -1,37 +1,37 @@
 {
   "ticker": "WDC",
   "company_name": "Western Digital Corporation",
-  "sector": "Technology / Computer Hardware",
-  "industry": "Data Storage",
+  "sector": "Technology",
+  "industry": "Computer Hardware",
   "upstream": [
+    "MU",
     "005930.KS",
     "SK Hynix",
-    "MU",
-    "Toshiba",
+    "Toshiba Corporation",
     "WDC"
   ],
   "downstream": [
-    "DELL",
-    "HPQ",
-    "Lenovo",
     "AAPL",
-    "AMZN"
+    "MSFT",
+    "AMZN",
+    "GOOGL",
+    "DELL"
   ],
   "competitors": [
     "STX",
-    "Toshiba",
+    "Toshiba Corporation",
     "005930.KS",
     "MU",
-    "SK Hynix"
+    "IBM"
   ],
   "key_products": [
-    "Hard Disk Drives",
-    "Solid State Drives",
-    "Enterprise Storage Solutions",
-    "Cloud Storage",
-    "Data Center Solutions"
+    "Hard Disk Drives (HDD)",
+    "Solid State Drives (SSD)",
+    "External Storage Devices",
+    "Network Attached Storage (NAS) Drives",
+    "Enterprise Storage Solutions"
   ],
-  "extracted_at": "2026-03-10 16:50:25",
+  "extracted_at": "2026-03-11 16:45:06",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
+      "url": "https://www.westerndigital.com/company/distributors",
+      "query": "Western Digital Corporation suppliers manufacturers",
+      "snippet": "Find Western Digital authorized Distributors & Resellers Tiered Pricing for Business Members Get special rates on select products. New products added "
+    },
+    {
+      "source": "DuckDuckGo",
       "url": "https://csimarket.com/stocks/WDC-Suppliers",
       "query": "Western Digital Corporation suppliers manufacturers",
-      "snippet": "Jan 30, 2026 · For your research, we’ve provided nine additional tables on Western Digital Corporation ’ s suppliers . You can find them in the naviga"
+      "snippet": "Jan 30, 2026 · Western Digital supply chain, list and performance of Western Digitals' suppliers - CSIMarket"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://thepartsdirect.com/westerndigital/distributors-and-vendors",
-      "query": "Western Digital Corporation suppliers manufacturers",
-      "snippet": "Western Digital Manufacturer Products include: IDE hard drives Reps Contact Information"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/WDC-Customers",
+      "url": "https://en.wikipedia.org/wiki/Western_Digital",
       "query": "Western Digital Corporation major customers clients",
-      "snippet": "Mar 3, 2026 · Western Digital customers and markets, results by customer and performance relative to WDC, by company and industry - CSIMarket"
+      "snippet": "Western Digital Corporation , doing business as WD , is an American data storage company headquartered in San Jose, California. Established in 1970, t"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://data.landbase.com/technology/western-digital/",
+      "url": "https://ca.finance.yahoo.com/news/zacks-analyst-blog-western-digital-103200403.html",
       "query": "Western Digital Corporation major customers clients",
-      "snippet": "Aug 17, 2025 · Our Western Digital customers list is available for download and comes enriched with vital company specifics, including industry classi"
+      "snippet": "These companies are: Western Digital Corp ., Seagate Technology Holdings plc and Sandisk Corp .These stocks have huge short-term upside left. Each of "
     }
   ]
 }

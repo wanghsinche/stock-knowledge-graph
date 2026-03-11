@@ -2,36 +2,36 @@
   "ticker": "UBER",
   "company_name": "Uber Technologies, Inc.",
   "sector": "Technology / Software - Application",
-  "industry": "Ride‑hailing / Mobility Services",
+  "industry": "Ride‑hailing & Delivery Services",
   "upstream": [
     "TSLA",
     "AAPL",
-    "Payment processors (e.g., Visa, Mastercard)",
     "GOOGL",
-    "Insurance providers"
+    "Payment processors (Visa, Mastercard, PayPal)",
+    "App development platforms (iOS, Android SDKs)"
   ],
   "downstream": [
-    "Individual riders",
-    "Drivers and couriers",
-    "Restaurants and food partners",
-    "Freight shippers",
-    "Corporate clients using Uber for Business"
+    "Individual riders and couriers",
+    "Restaurants and food partners (Uber Eats)",
+    "Freight shippers and logistics customers",
+    "Corporate clients (Uber for Business)",
+    "Healthcare providers (Uber Health)"
   ],
   "competitors": [
     "Lyft",
-    "DiDi",
+    "DiDi Chuxing",
     "Grab",
     "Ola",
     "Bolt"
   ],
   "key_products": [
-    "Uber Ride (ride‑hailing)",
+    "Uber Ride (passenger transportation)",
     "Uber Eats (food delivery)",
-    "Uber Freight (freight logistics)",
-    "Uber for Business",
-    "Uber Health"
+    "Uber Freight (logistics)",
+    "Uber for Business (corporate mobility)",
+    "Uber Health (healthcare transportation)"
   ],
-  "extracted_at": "2026-02-19 16:51:33",
+  "extracted_at": "2026-03-11 16:46:32",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/UBER-Suppliers",
+      "url": "https://en.wikipedia.org/wiki/Uber",
       "query": "Uber Technologies, Inc. suppliers manufacturers",
-      "snippet": "Sources: Uber Technologies Inc 's official press releases and regulatory filings; CSIMarket.com's supply-chain research; and the financial filings and"
+      "snippet": "Uber Technologies , Inc . is an American multinational transportation company that provides ride-hailing services, courier services, food delivery, an"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.uber.com/us/en/suppliers/",
+      "url": "https://ru.wikipedia.org/wiki/Uber",
       "query": "Uber Technologies, Inc. suppliers manufacturers",
-      "snippet": "Uber Global Supplier Portal with information on how to become a supplier for Uber ."
+      "snippet": "Uber Technologies Inc . ; Uber — американская международная публичная компания из Сан-Франциско, создавшая одноимённое мобильное приложение для поиска"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Uber",
       "query": "Uber Technologies, Inc. major customers clients",
-      "snippet": "Uber Technologies , Inc . is an American multinational transportation company that provides ride-hailing services, courier services, food delivery, an"
+      "snippet": "It is the largest ridesharing company worldwide with over 202 million monthly active users and 10 million active drivers and couriers. It coordinates "
     },
     {
       "source": "DuckDuckGo",
-      "url": "http://www.uber.com/",
+      "url": "https://www.uber.com/us/en/business/resources/customer-stories/",
       "query": "Uber Technologies, Inc. major customers clients",
-      "snippet": "Visit the Uber Technologies website."
+      "snippet": "Proud partner of businesses everywhere. Learn how companies across industries are solving some of their toughest challenges with Uber for Business. Mi"
     }
   ]
 }

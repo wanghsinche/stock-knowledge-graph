@@ -2,20 +2,20 @@
   "ticker": "HOOD",
   "company_name": "Robinhood Markets, Inc.",
   "sector": "Financial Services",
-  "industry": "Capital Markets / FinTech",
+  "industry": "Capital Markets",
   "upstream": [
+    "Payment processors (e.g., Stripe, PayPal)",
     "AMZN",
-    "Stripe (payment processing)",
-    "Bloomberg / Refinitiv (market data feeds)",
-    "Plaid (account aggregation)",
-    "MSFT"
+    "Data providers (e.g., Bloomberg, Refinitiv)",
+    "Regulatory technology firms (e.g., Onfido)",
+    "Cybersecurity vendors (e.g., Palo Alto Networks)"
   ],
   "downstream": [
-    "Retail investors using the Robinhood app",
-    "Crypto traders on the platform",
-    "Small‑cap and penny‑stock traders",
-    "Institutional clients via Robinhood Institutional",
-    "Students and young professionals seeking entry‑level investing"
+    "Retail investors",
+    "High‑frequency traders",
+    "Institutional clients",
+    "Crypto traders",
+    "Financial advisors"
   ],
   "competitors": [
     "Charles Schwab",
@@ -25,13 +25,13 @@
     "Webull"
   ],
   "key_products": [
-    "Commission‑free stock and ETF trading",
-    "Robinhood Gold (margin & extended hours)",
+    "Commission‑free stock trading",
     "Cryptocurrency trading",
-    "Options trading",
-    "Cash management & interest‑earning accounts"
+    "Margin trading",
+    "Robinhood Gold subscription",
+    "Cash management services"
   ],
-  "extracted_at": "2026-03-10 16:51:15",
+  "extracted_at": "2026-03-11 16:44:58",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,25 +43,25 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Robinhood_Markets",
       "query": "Robinhood Markets, Inc. suppliers manufacturers",
-      "snippet": "Robinhood Markets, Inc. is an American financial services company based in Menlo Park, California. It provides an electronic trading platform that fac"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://robinhood.com/us/en/learn/articles/3ntoEHx7rdxnb7EV60s410/what-is-procurement/",
-      "query": "Robinhood Markets, Inc. suppliers manufacturers",
-      "snippet": "Sep 28, 2020 · Procurement is the process of seeking out vendors and acquiring goods and services for business purposes. Missing: manufacturers | Show"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Robinhood_Markets",
-      "query": "Robinhood Markets, Inc. major customers clients",
       "snippet": "Robinhood Markets , Inc . is an American financial services company based in Menlo Park, California. It provides an electronic trading platform that f"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.bbb.org/us/ca/palo-alto/profile/financial-services/robinhood-markets-inc-1216-417256/customer-reviews",
+      "url": "https://csimarket.com/stocks/HOOD-Suppliers",
+      "query": "Robinhood Markets, Inc. suppliers manufacturers",
+      "snippet": "Feb 28, 2026 · Robinhood Markets Inc 's Suppliers recorded an increase in sales by 9.36 % year on year in Q4 2025, sequentially sales grew by 10.48 %,"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://investingintheweb.com/brokers/robinhood-statistics/",
       "query": "Robinhood Markets, Inc. major customers clients",
-      "snippet": "Robinhood Markets , Inc . is NOT a BBB Accredited Business. To become accredited, a business must agree to BBB Standards for Trust and pass BBB's vett"
+      "snippet": "Jan 2, 2026 · Robinhood revenues Robinhood generates revenues through transaction-based revenues, net interest revenues, and other revenues. Transacti"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://investors.robinhood.com/",
+      "query": "Robinhood Markets, Inc. major customers clients",
+      "snippet": "Jan 31, 2026 · Robinhood Markets , Inc . Investor relations (IR) website contains information about our business for stockholders, potential investors"
     }
   ]
 }

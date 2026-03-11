@@ -1,37 +1,37 @@
 {
   "ticker": "BE",
   "company_name": "Bloom Energy Corporation",
-  "sector": "Industrials",
-  "industry": "Electrical Equipment & Parts",
+  "sector": "Industrials / Electrical Equipment & Parts",
+  "industry": "Solid Oxide Fuel Cell Manufacturing",
   "upstream": [
-    "Taiwanese component manufacturers",
-    "Semiconductor suppliers",
-    "Electronics component suppliers",
-    "Materials suppliers (ceramics, electrolytes)",
-    "Industrial equipment suppliers"
+    "Taiwanese component suppliers",
+    "US-based component manufacturers",
+    "Global semiconductor suppliers",
+    "Electronics component distributors",
+    "META"
   ],
   "downstream": [
-    "MSFT",
+    "Data center operators",
     "Manufacturing facilities",
-    "Commercial real estate developers",
-    "Utility companies",
+    "Commercial enterprise customers",
+    "Cloud service providers",
     "Industrial power users"
   ],
   "competitors": [
-    "FuelCell Energy",
     "Plug Power",
-    "Ballard Power Systems",
-    "Bloom Energy’s own internal R&D",
-    "Hydrogen fuel cell startups"
+    "FuelCell Energy",
+    "Cummins (fuel cell division)",
+    "Nexamp",
+    "PowerCell Sweden"
   ],
   "key_products": [
     "Solid Oxide Fuel Cells (SOFCs)",
-    "On‑site power generation systems",
+    "Bloom Energy Server",
     "Electrolyzers for hydrogen production",
-    "Hybrid fuel cell modules",
-    "Power management software"
+    "Fuel cell stacks",
+    "On‑site power generation systems"
   ],
-  "extracted_at": "2026-03-10 16:51:37",
+  "extracted_at": "2026-03-11 16:44:42",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,21 +47,21 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/news/bloom-energy-price-targets-increased-161549013.html",
+      "url": "https://www.linkedin.com/company/bloom-energy",
       "query": "Bloom Energy Corporation suppliers manufacturers",
-      "snippet": "Bloom Energy Corporation (NYSE:BE) is one of the 12 Best Performing Stocks in the Last 3 Months. On October 31, Jefferies increased its price target o"
+      "snippet": "Bloom Energy empowers businesses and communities to responsibly take charge of their energy . The company’s leading solid-oxide platform for distribut"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://finance.yahoo.com/news/bloom-energy-good-investment-143933772.html",
+      "query": "Bloom Energy Corporation major customers clients",
+      "snippet": "Bloom Energy Corporation (NYSE:BE) engages in the design, manufacture and installation of solid-oxide fuel cell systems for on-site power generation."
     },
     {
       "source": "DuckDuckGo",
       "url": "https://investor.bloomenergy.com/press-releases/press-release-details/2010/Bloom-Energy-Announces-Industry-Leading-Customers/default.aspx",
       "query": "Bloom Energy Corporation major customers clients",
       "snippet": "With the Bloom Energy Server, customers can efficiently generate their own electricity on site, reducing their carbon footprint while lowering energy "
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://financhill.com/blog/investing/is-bloom-energy-stock-undervalued",
-      "query": "Bloom Energy Corporation major customers clients",
-      "snippet": "Bloom Energy (NYSE:BE) manufactures scalable fuel cells for providing on-site power. Shares in the energy startup are up over 63 percent in the last 1"
     }
   ]
 }

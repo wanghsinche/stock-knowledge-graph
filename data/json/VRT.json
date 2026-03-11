@@ -3,11 +3,35 @@
   "company_name": "Vertiv Holdings Co",
   "sector": "Industrials",
   "industry": "Electrical Equipment & Parts",
-  "upstream": [],
-  "downstream": [],
-  "competitors": [],
-  "key_products": [],
-  "extracted_at": "2026-03-10 16:49:08",
+  "upstream": [
+    "Power supply manufacturers",
+    "Cooling system suppliers",
+    "Networking equipment vendors",
+    "Semiconductor component suppliers",
+    "Industrial automation component suppliers"
+  ],
+  "downstream": [
+    "AMZN",
+    "MSFT",
+    "GOOGL",
+    "Equinix",
+    "AT&T"
+  ],
+  "competitors": [
+    "Schneider Electric",
+    "Eaton",
+    "ABB",
+    "CSCO",
+    "DELL"
+  ],
+  "key_products": [
+    "Power Distribution Units (PDUs)",
+    "Rack‑mount Power Supplies",
+    "Data Center Cooling Systems",
+    "Environmental Monitoring Equipment",
+    "Data Center Infrastructure Management (DCIM) Software"
+  ],
+  "extracted_at": "2026-03-11 16:44:13",
   "sources": [
     {
       "source": "Wikipedia",
@@ -17,15 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.insidermonkey.com/blog/vertiv-holdings-co-vrt-a-bull-case-theory-5-1661399/",
+      "url": "https://www.zacks.com/stock/news/2881450/vertiv-vs-modine-which-stock-has-the-edge-in-ai-data-center-cooling",
       "query": "Vertiv Holdings Co suppliers manufacturers",
-      "snippet": "Vertiv Holdings Co is not on our list of the 30 Most Popular Stocks Among Hedge Funds. As per our database, 102 hedge fund portfolios held VRT at the "
+      "snippet": "To meet rising demand, Vertiv is expanding manufacturing capacity and strengthening its supplier network to convert its growing backlog into revenues."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/singleEfficiencyit.php?code=VRT",
+      "url": "https://finviz.com/news/257487/vertiv-holdings-co-vrt-a-bull-case-theory",
       "query": "Vertiv Holdings Co suppliers manufacturers",
-      "snippet": "Vertiv Holdings Co Cash Flow Statement. Suppliers . Vertiv Holdings Co Competitors Results. VRT Competitors Stock Performance."
+      "snippet": "We came across a bullish thesis on Vertiv Holdings Co on X.com by @TheValueist. In this article, we will summarize the bulls’ thesis on VRT. Vertiv Ho"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.appsruntheworld.com/customers-database/vendors/view/vertiv",
+      "query": "Vertiv Holdings Co major customers clients",
+      "snippet": "List of companies using or evaluating Vertiv applications, with details on their revenues, employees, industries, and locations."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/VRT-Customers",
+      "query": "Vertiv Holdings Co major customers clients",
+      "snippet": "5 days ago · Sources: Vertiv Holdings Co ’s official press releases and regulatory filings; CSIMarket.com’s market research; and the financial filings"
     }
   ]
 }

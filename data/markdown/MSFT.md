@@ -3,8 +3,8 @@ ticker: MSFT
 company: Microsoft Corporation
 sector: Technology
 industry: Software - Infrastructure
-extracted_at: 2026-03-10 16:47:07
-last_updated: 2026-03-10
+extracted_at: 2026-03-11 16:40:57
+last_updated: 2026-03-11
 ---
 
 # MSFT - Microsoft Corporation
@@ -12,7 +12,7 @@ last_updated: 2026-03-10
 ## 基本信息
 
 - **所属行业**: Technology / Software - Infrastructure
-- **提取时间**: 2026-03-10 16:47:07
+- **提取时间**: 2026-03-11 16:40:57
 
 ## 产业链关系
 
@@ -24,34 +24,34 @@ last_updated: 2026-03-10
 - [[CSCO]]
 
 ### 下游客户
-- [[Carlsberg Group]]
-- [[KPMG]]
-- [[City of Montreal]]
-- [[CSX]]
-- [[Levi Strauss]]
+- [[Enterprise customers (e.g., Fortune 500 companies)]]
+- [[Government agencies]]
+- [[Small and medium businesses (SMBs)]]
+- [[Consumers (Windows, Office, Xbox)]]
+- [[Cloud customers (Azure)]]
 
 ### 竞争对手
-- [[AMZN]]
 - [[GOOGL]]
 - [[AMZN]]
-- [[ORCL]]
-- [[IBM]]
+- [[AAPL]]
+- [[META]]
+- [[NVDA]]
 
 ### 核心产品
-- [[Windows]]
-- [[Office]]
-- [[Azure]]
-- [[Teams]]
-- [[Surface]]
+- [[Windows operating system]]
+- [[Microsoft Office suite]]
+- [[Azure cloud platform]]
+- [[Microsoft 365]]
+- [[Xbox gaming console]]
 
 ## 数据来源
 
 - [Microsoft](https://en.wikipedia.org/wiki/Microsoft_Corporation)
-- [Microsoft Corporation suppliers manufacturers](https://www.microsoft.com/en-us/professionalservices/suppliers)
+- [Microsoft Corporation suppliers manufacturers](https://en.wikipedia.org/wiki/Microsoft)
 - [Microsoft Corporation suppliers manufacturers](https://csimarket.com/stocks/MSFT-Suppliers)
-- [Microsoft Corporation major customers clients](https://www.microsoft.com/en-us/customers)
-- [Microsoft Corporation major customers clients](https://cloudwars.com/cloud/microsoft-top-10-customers-for-digital-transformation-the-satya-nadella-touch/)
+- [Microsoft Corporation major customers clients](https://www.microsoft.com/en-us/customers/)
+- [Microsoft Corporation major customers clients](https://csimarket.com/stocks/MSFT-Customers)
 
 ## 元数据
 
-- **更新日期**: 2026-03-10
+- **更新日期**: 2026-03-11

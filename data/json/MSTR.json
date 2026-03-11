@@ -2,36 +2,33 @@
   "ticker": "MSTR",
   "company_name": "MicroStrategy Incorporated",
   "sector": "Technology",
-  "industry": "Software—Application",
+  "industry": "Software - Application",
   "upstream": [
-    "MSFT",
-    "AMZN",
-    "GOOGL",
-    "ORCL",
-    "IBM"
+    "Strategy One",
+    "Strategy Inc Ltd."
   ],
   "downstream": [
-    "Bank of America",
-    "JPMorgan Chase",
-    "Walmart",
-    "Coca‑Cola",
-    "General Motors"
+    "Healthcare",
+    "Financial services",
+    "Retail",
+    "Government",
+    "CAT"
   ],
   "competitors": [
     "Tableau",
     "Qlik",
     "MSFT",
     "SAP BusinessObjects",
-    "ORCL"
+    "IBM"
   ],
   "key_products": [
     "MicroStrategy Desktop",
     "MicroStrategy Web",
     "MicroStrategy Mobile",
-    "MicroStrategy Cloud",
-    "MicroStrategy Analytics"
+    "MicroStrategy Analytics",
+    "MicroStrategy Cloud"
   ],
-  "extracted_at": "2026-03-10 16:49:52",
+  "extracted_at": "2026-03-11 16:43:29",
   "sources": [
     {
       "source": "Wikipedia",
@@ -55,13 +52,13 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/MicroStrategy",
       "query": "Strategy Inc major customers clients",
-      "snippet": "Strategy Inc ., formerly known as MicroStrategy, is an American company that provides business intelligence and mobile software.In 1992, MicroStrategy"
+      "snippet": "Strategy Inc., formerly known as MicroStrategy, is an American company that provides business intelligence (BI) and mobile software."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.inc.com/",
+      "url": "https://www.strategy.com/software/customer-stories",
       "query": "Strategy Inc major customers clients",
-      "snippet": "Inc . media is the entrepreneurs source for ideas, resources and advice on how to successfully start, run and grow your business.Practical advice and "
+      "snippet": "Dive into Strategy customer stories highlighting the impact of Analytics in Healthcare, Financial Services, Call Centers, Retail, Insurance, and Gover"
     }
   ]
 }

@@ -1,36 +1,37 @@
 {
   "ticker": "GLW",
   "company_name": "Corning Incorporated",
-  "sector": "Technology / Electronic Components",
-  "industry": "Optical Communications",
+  "sector": "Technology",
+  "industry": "Electronic Components",
   "upstream": [
     "Silica sand suppliers",
-    "Chemical suppliers (e.g., sodium hydroxide, acids)",
-    "META",
-    "Glass manufacturing equipment suppliers",
-    "Ceramic raw material suppliers"
+    "Alumina suppliers",
+    "Boron oxide suppliers",
+    "Chemical feedstock suppliers",
+    "Glass furnace equipment manufacturers"
   ],
   "downstream": [
+    "005930.KS",
+    "Environmental sensor manufacturers",
     "CAT",
-    "AAPL",
-    "INTC",
-    "Scientific instrument manufacturers (e.g., Nikon, Zeiss)",
-    "TSLA"
+    "Medical imaging equipment manufacturers",
+    "Automotive electronics suppliers"
   ],
   "competitors": [
-    "Lumentum",
-    "II-VI Incorporated",
-    "Coherent",
-    "Edwards Lifesciences"
+    "Schott AG",
+    "Nikon",
+    "Canon",
+    "Zeiss",
+    "Bausch & Lomb"
   ],
   "key_products": [
+    "Gorilla Glass",
     "Optical fibers",
-    "Optical connectors",
+    "Advanced scientific optics",
     "Glass substrates for displays",
-    "Ceramic components for high‑temperature applications",
-    "Advanced optics for scientific instruments"
+    "Ceramic materials"
   ],
-  "extracted_at": "2026-03-10 16:49:43",
+  "extracted_at": "2026-03-11 16:44:28",
   "sources": [
     {
       "source": "Wikipedia",
@@ -40,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.corning.com/worldwide/en/products/life-sciences/config/Distributors.html",
+      "url": "https://en.wikipedia.org/wiki/Gorilla_Glass",
       "query": "Corning Incorporated suppliers manufacturers",
-      "snippet": "Find an authorized Corning Life Sciences distributor with our worldwide list."
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.mouser.com/manufacturer/corning/",
-      "query": "Corning Incorporated suppliers manufacturers",
-      "snippet": "Today, Corning ' s markets include optical communications, mobile consumer electronics, display technology, automotive, and life sciences vessels."
+      "snippet": "Gorilla Glass is a brand of chemically strengthened glass developed and manufactured by Corning Inc . Currently in its ninth generation, it is designe"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.corning.com/worldwide/en.html",
-      "query": "Corning Incorporated major customers clients",
-      "snippet": "Corning Incorporated is a global-leading innovator in materials science, with 170 years of life-changing inventions and category-defining products."
+      "query": "Corning Incorporated suppliers manufacturers",
+      "snippet": "Corning Incorporated is a global-leading innovator in materials science, with 170 years of life-changing inventions and category-defining products. Co"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.youtube.com/channel/UCGyKit14usd5PNw_nZ-8gKQ",
+      "url": "https://en.wikipedia.org/wiki/Corning_Inc.",
       "query": "Corning Incorporated major customers clients",
-      "snippet": "Corning Incorporated . @CorningIncorporated. • 118K subscribers • 511 videos. Welcome to the official YouTube channel of Corning Incorporated . Cornin"
+      "snippet": "As of 2014, Corning had five major business sectors: display technologies, environmental technologies, life sciences, optical communications, and spec"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://pestel-analysis.com/blogs/target-market/corning",
+      "query": "Corning Incorporated major customers clients",
+      "snippet": "Oct 22, 2025 · Corning Incorporated 's customer base is predominantly Business -to- Business (B2B), serving major corporations across various high-tec"
     }
   ]
 }

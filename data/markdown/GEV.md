@@ -3,8 +3,8 @@ ticker: GEV
 company: GE Vernova Inc.
 sector: Industrials
 industry: Specialty Industrial Machinery
-extracted_at: 2026-03-10 16:52:30
-last_updated: 2026-03-10
+extracted_at: 2026-03-11 16:47:24
+last_updated: 2026-03-11
 ---
 
 # GEV - GE Vernova Inc.
@@ -12,46 +12,46 @@ last_updated: 2026-03-10
 ## 基本信息
 
 - **所属行业**: Industrials / Specialty Industrial Machinery
-- **提取时间**: 2026-03-10 16:52:30
+- **提取时间**: 2026-03-11 16:47:24
 
 ## 产业链关系
 
 ### 上游供应商
 - [[Siemens Energy]]
-- [[Alstom Power]]
-- [[Mitsubishi Hitachi Power Systems]]
-- [[General Electric (GE Aerospace)]]
-- [[Boeing]]
+- [[ABB]]
+- [[Schneider Electric]]
+- [[Honeywell]]
+- [[Emerson]]
 
 ### 下游客户
-- [[Electric utilities]]
-- [[Independent power producers]]
-- [[Oil & gas companies]]
+- [[Utilities]]
+- [[Oil & Gas companies]]
 - [[Renewable energy developers]]
 - [[Industrial power plants]]
+- [[Power generation companies]]
 
 ### 竞争对手
 - [[Siemens Energy]]
-- [[Alstom Power]]
-- [[Mitsubishi Hitachi Power Systems]]
-- [[General Electric (GE Power)]]
-- [[Doosan Power Systems]]
+- [[ABB]]
+- [[Schneider Electric]]
+- [[Emerson]]
+- [[General Electric (previously)]]
 
 ### 核心产品
 - [[Gas turbines]]
 - [[Steam turbines]]
-- [[Generators]]
-- [[Power plant equipment]]
-- [[Renewable energy solutions]]
+- [[Power generation equipment]]
+- [[Energy management solutions]]
+- [[Industrial automation systems]]
 
 ## 数据来源
 
 - 
-- [GE Vernova Inc. suppliers manufacturers](https://www.gevernova.com/grid-solutions/suppliers)
-- [GE Vernova Inc. suppliers manufacturers](https://www.volza.com/p/ge-vernova/manufacturers/)
-- [GE Vernova Inc. major customers clients](https://ru.wikipedia.org/wiki/GE_Vernova)
+- [GE Vernova Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/GE_Vernova)
+- [GE Vernova Inc. suppliers manufacturers](https://www.gevernova.com/suppliers)
 - [GE Vernova Inc. major customers clients](https://www.gevernova.com/)
+- [GE Vernova Inc. major customers clients](https://www.linkedin.com/company/gevernova)
 
 ## 元数据
 
-- **更新日期**: 2026-03-10
+- **更新日期**: 2026-03-11

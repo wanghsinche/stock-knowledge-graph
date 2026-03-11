@@ -4,34 +4,34 @@
   "sector": "Technology",
   "industry": "Semiconductors",
   "upstream": [
-    "ASML",
     "AMAT",
     "LRCX",
-    "KLA",
-    "Tokyo Electron"
+    "Tokyo Electron",
+    "ASML",
+    "KLA"
   ],
   "downstream": [
     "AAPL",
-    "MSFT",
-    "AMZN",
-    "GOOGL",
-    "DELL"
+    "DELL",
+    "HPQ",
+    "Lenovo",
+    "AMZN"
   ],
   "competitors": [
     "005930.KS",
     "SK Hynix",
     "Nanya Technology",
-    "Kingmax Technology",
-    "Netlist"
+    "WDC",
+    "SK Hynix"
   ],
   "key_products": [
-    "DRAM",
-    "NAND flash memory",
-    "SSD",
-    "LPDDR",
-    "HBM"
+    "Dynamic Random-Access Memory (DRAM)",
+    "Flash Memory",
+    "Solid-State Drives (SSDs)",
+    "NAND Flash",
+    "Memory Modules"
   ],
-  "extracted_at": "2026-03-10 16:46:50",
+  "extracted_at": "2026-03-11 16:40:37",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,25 +43,25 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Micron_Technology",
       "query": "Micron Technology, Inc. suppliers manufacturers",
-      "snippet": "It is one of the “Big Three” computer memory manufacturers, together with the South Korean companies Samsung Electronics and SK Hynix. Micron Technolo"
+      "snippet": "Micron Technology , Inc . Micron logo since 2024. Micron 's campus in San Jose, California. Micron Technology owed Netlist, Inc . $445 million in dama"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.micron.com/about/company/suppliers/registered-suppliers",
+      "url": "https://ru.wikipedia.org/wiki/Micron_Technology",
       "query": "Micron Technology, Inc. suppliers manufacturers",
-      "snippet": "Registered Suppliers. Thank you for your valued partnership with Micron. Listed below is additional information related to doing business with Micron."
+      "snippet": "Micron Technology , Inc . Micron Technology — американская транснациональная корпорация, известная своей полупроводниковой продукцией, основную часть "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.trendforce.com/news/2025/06/26/news-micron-scales-up-hbm-to-four-major-gpuasic-clients-targets-24-market-share-by-year-end/",
+      "url": "https://en.wikipedia.org/wiki/Micron_Technology",
       "query": "Micron Technology, Inc. major customers clients",
-      "snippet": "Jun 26, 2025 · Notably, Micron said in its press release that it is now shipping high-volume HBM to four customers across both GPU and ASIC platforms."
+      "snippet": "Micron Technology , Inc . is an American multinational semiconductor company that manufactures computer memory and computer data storage products, inc"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.msn.com/en-us/news/technology/micron-mu-ships-industry-first-256gb-socamm2-samples-for-ai-infrastructure/ar-AA1XGyOI",
+      "url": "https://www.micron.com/",
       "query": "Micron Technology, Inc. major customers clients",
-      "snippet": "Micron Technology Inc . (NASDAQ:MU) is one of the stocks that should double in 3 years. On March 3, Micron Technology set a new industry benchmark by "
+      "snippet": "Explore Micron Technology , leading in semiconductors with a broad range of performance-enhancing memory and storage solutions.Our technologies provid"
     }
   ]
 }
