@@ -1,57 +1,53 @@
 ---
 ticker: ONDS
 company: Ondas Inc.
-sector: Technology / Communication Equipment
-industry: Autonomous Systems
-extracted_at: 2026-03-06 16:36:49
-last_updated: 2026-03-06
+sector: Technology
+industry: Communication Equipment
+extracted_at: 2026-03-12 16:56:44
+last_updated: 2026-03-12
 ---
 
 # ONDS - Ondas Inc.
 
 ## 基本信息
 
-- **所属行业**: Technology / Communication Equipment / Autonomous Systems
-- **提取时间**: 2026-03-06 16:36:49
+- **所属行业**: Technology / Communication Equipment
+- **提取时间**: 2026-03-12 16:56:44
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Sensor manufacturers]]
-- [[Electronics component suppliers]]
-- [[AI chip vendors]]
-- [[Battery and power system suppliers]]
+- [[Semiconductor manufacturers]]
+- [[Electronic component suppliers]]
+- [[Aerospace parts manufacturers]]
+- [[Sensor component suppliers]]
 - [[Software platform providers]]
 
 ### 下游客户
-- [[Railroad operators]]
-- [[Utility companies]]
-- [[Oil and gas enterprises]]
+- [[NATO]]
+- [[Airobotics Ltd.]]
+- [[European defense contractors]]
+- [[Commercial drone operators]]
 - [[Government agencies]]
-- [[Industrial automation customers]]
 
 ### 竞争对手
-- [[Boston Dynamics]]
-- [[Waymo]]
-- [[Aurora]]
-- [[NVDA]]
-- [[TSLA]]
+_暂无数据_
 
 ### 核心产品
-- [[Autonomous vehicle platforms]]
-- [[Robotic delivery systems]]
-- [[AI-powered navigation software]]
-- [[Sensor suite integrations]]
-- [[Fleet management solutions]]
+- [[Autonomous drones]]
+- [[Robotic ground vehicles]]
+- [[Communication modules]]
+- [[Sensor suites]]
+- [[Control software]]
 
 ## 数据来源
 
 - 
-- [Ondas Inc. suppliers manufacturers](https://ca.finance.yahoo.com/news/ondas-receives-20-million-initial-133000401.html)
-- [Ondas Inc. suppliers manufacturers](https://www.investing.com/news/company-news/ondas-appoints-mckinsey-partner-to-autonomous-systems-board-93CH-4544195)
-- [Ondas Inc. major customers clients](https://csimarket.com/stocks/ONDS-Customers)
-- [Ondas Inc. major customers clients](https://ir.ondas.com/)
+- [Ondas Inc. suppliers manufacturers](https://finance.yahoo.com/quote/ONDS/)
+- [Ondas Inc. suppliers manufacturers](https://www.linkedin.com/company/ondas-inc)
+- [Ondas Inc. major customers clients](https://ir.ondas.com/press-releases/detail/280/ondas-secures-new-multi-million-dollar-european-order-for)
+- [Ondas Inc. major customers clients](https://www.ondas.com/post/ondas-secures-14-3-million-order-from-a-leading-defense-customer-for-optimus-drone-systems)
 
 ## 元数据
 
-- **更新日期**: 2026-03-06
+- **更新日期**: 2026-03-12

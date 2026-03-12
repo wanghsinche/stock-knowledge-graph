@@ -3,8 +3,8 @@ ticker: CAT
 company: Caterpillar Inc.
 sector: Industrials
 industry: Farm & Heavy Construction Machinery
-extracted_at: 2026-03-10 16:51:07
-last_updated: 2026-03-10
+extracted_at: 2026-03-12 16:55:11
+last_updated: 2026-03-12
 ---
 
 # CAT - Caterpillar Inc.
@@ -12,46 +12,28 @@ last_updated: 2026-03-10
 ## 基本信息
 
 - **所属行业**: Industrials / Farm & Heavy Construction Machinery
-- **提取时间**: 2026-03-10 16:51:07
+- **提取时间**: 2026-03-12 16:55:11
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Alcoa]]
-- [[ArcelorMittal]]
-- [[BASF]]
-- [[Honeywell]]
-- [[Siemens]]
+_暂无数据_
 
 ### 下游客户
-- [[Bechtel]]
-- [[HPQ]]
-- [[Rio Tinto]]
-- [[U.S. Army]]
-- [[Vanguard]]
+_暂无数据_
 
 ### 竞争对手
-- [[Komatsu]]
-- [[Volvo Construction Equipment]]
-- [[CNH Industrial]]
-- [[DE]]
-- [[Hitachi Construction Machinery]]
+_暂无数据_
 
 ### 核心产品
-- [[Excavators]]
-- [[Bulldozers]]
-- [[Wheel Loaders]]
-- [[Mining Trucks]]
-- [[Concrete Mixers]]
+_暂无数据_
 
 ## 数据来源
 
 - [Caterpillar Inc.](https://en.wikipedia.org/wiki/Caterpillar_Inc.)
 - [Caterpillar Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/Caterpillar_Inc.)
-- [Caterpillar Inc. suppliers manufacturers](https://www.caterpillar.com/en/company/working-together/suppliers/potential-suppliers.html)
-- [Caterpillar Inc. major customers clients](https://en.wikipedia.org/wiki/Caterpillar_Inc.)
-- [Caterpillar Inc. major customers clients](https://matrixbcg.com/blogs/target-market/caterpillar)
+- [Caterpillar Inc. suppliers manufacturers](https://csimarket.com/stocks/CAT-Suppliers)
 
 ## 元数据
 
-- **更新日期**: 2026-03-10
+- **更新日期**: 2026-03-12

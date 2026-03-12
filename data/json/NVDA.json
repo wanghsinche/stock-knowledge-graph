@@ -11,27 +11,27 @@
     "Amkor Technology"
   ],
   "downstream": [
-    "AMZN",
-    "MSFT",
-    "GOOGL",
     "SONY",
+    "MSFT",
+    "DELL",
+    "AMZN",
     "TSLA"
   ],
   "competitors": [
     "AMD",
     "INTC",
     "QCOM",
-    "AVGO",
-    "AAPL"
+    "AAPL",
+    "GOOGL"
   ],
   "key_products": [
-    "GeForce RTX GPUs",
-    "NVIDIA A100 & H100 GPUs",
-    "NVIDIA Drive automotive platform",
-    "CUDA & TensorRT AI software",
-    "NVIDIA DGX AI systems"
+    "GeForce GPUs",
+    "Tesla GPUs",
+    "Jetson SoCs",
+    "RTX GPUs",
+    "CUDA API"
   ],
-  "extracted_at": "2026-03-11 16:40:18",
+  "extracted_at": "2026-03-12 16:50:26",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
+      "url": "https://stocksandfuturestrading.com/the-complete-list-of-nvidias-suppliers-and-consumers/",
+      "query": "NVIDIA Corporation suppliers manufacturers",
+      "snippet": "Nov 22, 2024 · Trading Resources The Complete List Of Nvidia ’s Suppliers And Consumers By Stocks & Futures Trading This is the most recently updated "
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/NVDA-Suppliers",
+      "query": "NVIDIA Corporation suppliers manufacturers",
+      "snippet": "Feb 26, 2026 · We utilize a fabless and contracting manufacturing strategy, whereby we employ and partner with key suppliers for all phases of the man"
+    },
+    {
+      "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Nvidia",
-      "query": "NVIDIA Corporation suppliers manufacturers",
-      "snippet": "5 days ago - In August 2025, Nvidia ordered ... due to security concerns. The company directed suppliers including Taiwan Semiconductor Manufacturing "
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.theaireport.ai/partner-columns/nvidias-supply-chain--part-1",
-      "query": "NVIDIA Corporation suppliers manufacturers",
-      "snippet": "Answering this simple question could unearth some investment opportunities that average ETF investors will miss. Here’s what you need to know. Taiwan "
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.fool.com/investing/2025/06/26/who-are-nvidias-biggest-customers/",
       "query": "NVIDIA Corporation major customers clients",
-      "snippet": "June 26, 2025 - Nvidia has amassed an impressive list of customers, which includes top AI developers like Amazon, Microsoft, and Alphabet ."
+      "snippet": "Nvidia thus avoids most of the investment and production costs and risks associated with chip manufacturing, although it does sometimes directly procu"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.fool.com/investing/2024/05/02/who-are-nvidias-largest-customers/",
+      "url": "https://finance.yahoo.com/news/nvidia-stock-warning-nvda-challenger-184049791.html",
       "query": "NVIDIA Corporation major customers clients",
-      "snippet": "May 2, 2024 - However, in its recent 10-K filing, the company did say that one customer represented 13% of its revenue from its compute and networking"
+      "snippet": "Nvidia (NVDA) shares inched down today, July 22, after FuriosaAI said it has landed LG as its first major customer .For Nvidia , it raises competitive"
     }
   ]
 }

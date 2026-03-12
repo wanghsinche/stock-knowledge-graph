@@ -1,47 +1,47 @@
 ---
 ticker: COHR
 company: Coherent Corp.
-sector: Technology / Scientific & Technical Instruments
-industry: Optical Materials and Semiconductors
-extracted_at: 2026-03-11 16:43:44
-last_updated: 2026-03-11
+sector: Technology
+industry: Scientific & Technical Instruments
+extracted_at: 2026-03-12 16:56:20
+last_updated: 2026-03-12
 ---
 
 # COHR - Coherent Corp.
 
 ## 基本信息
 
-- **所属行业**: Technology / Scientific & Technical Instruments / Optical Materials and Semiconductors
-- **提取时间**: 2026-03-11 16:43:44
+- **所属行业**: Technology / Scientific & Technical Instruments
+- **提取时间**: 2026-03-12 16:56:20
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Corning Inc.]]
-- [[AMAT]]
-- [[ASML]]
-- [[Nikon Corporation]]
-- [[Canon Inc.]]
+- [[II-VI Incorporated]]
+- [[Thorlabs]]
+- [[MKS Instruments]]
+- [[Laser Components]]
+- [[Lumerical]]
 
 ### 下游客户
-- [[NVDA]]
-- [[INTC]]
-- [[005930.KS]]
-- [[IBM]]
-- [[MIT]]
+- [[NASA]]
+- [[National Institutes of Health]]
+- [[U.S. Department of Defense]]
+- [[Space agencies]]
+- [[Optical research laboratories]]
 
 ### 竞争对手
-- [[II-VI Incorporated]]
-- [[Lumentum Holdings]]
 - [[Thorlabs]]
-- [[Edmund Optics]]
+- [[Newport Corporation]]
+- [[MKS Instruments]]
+- [[Laser Components]]
 - [[Coherent Inc.]]
 
 ### 核心产品
 - [[Laser diodes]]
-- [[Optical fibers]]
-- [[Photonic integrated circuits]]
+- [[Optical waveguides]]
 - [[Semiconductor lasers]]
+- [[Optical amplifiers]]
 - [[Laser modules]]
 
 ## 数据来源
@@ -49,9 +49,9 @@ last_updated: 2026-03-11
 - [Coherent Corp.](https://en.wikipedia.org/wiki/Coherent_Corp.)
 - [Coherent Corp. suppliers manufacturers](https://en.wikipedia.org/wiki/Coherent_Corp.)
 - [Coherent Corp. suppliers manufacturers](https://www.coherent.com/)
-- [Coherent Corp. major customers clients](https://www.coherent.com/company/about-us)
-- [Coherent Corp. major customers clients](https://pestel-analysis.com/blogs/target-market/coherent)
+- [Coherent Corp. major customers clients](https://en.wikipedia.org/wiki/Coherent_Corp.)
+- [Coherent Corp. major customers clients](https://www.coherent.com/)
 
 ## 元数据
 
-- **更新日期**: 2026-03-11
+- **更新日期**: 2026-03-12

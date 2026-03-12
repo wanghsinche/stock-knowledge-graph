@@ -7,15 +7,15 @@
     "INTC",
     "AMD",
     "NVDA",
-    "DELL",
-    "CSCO"
+    "TSM",
+    "005930.KS"
   ],
   "downstream": [
-    "Enterprise customers (e.g., Fortune 500 companies)",
-    "Government agencies",
-    "Small and medium businesses (SMBs)",
-    "Consumers (Windows, Office, Xbox)",
-    "Cloud customers (Azure)"
+    "Carlsberg Group",
+    "KPMG",
+    "City of Montreal",
+    "Walmart",
+    "Bank of America"
   ],
   "competitors": [
     "GOOGL",
@@ -25,13 +25,13 @@
     "NVDA"
   ],
   "key_products": [
-    "Windows operating system",
-    "Microsoft Office suite",
-    "Azure cloud platform",
+    "Windows Operating System",
+    "Microsoft Office Suite",
+    "Azure Cloud Platform",
     "Microsoft 365",
-    "Xbox gaming console"
+    "Xbox Gaming Console"
   ],
-  "extracted_at": "2026-03-11 16:40:57",
+  "extracted_at": "2026-03-12 16:51:03",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Microsoft",
+      "url": "https://www.microsoft.com/en-us/procurement",
       "query": "Microsoft Corporation suppliers manufacturers",
-      "snippet": "Microsoft Corporation is an American multinational technology conglomerate headquartered in Redmond, Washington. Founded in 1975, the company became i"
+      "snippet": "Microsoft Procurement is committed to building a diverse global supplier base that reflects the global diversity of our customers and provides all typ"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://csimarket.com/stocks/MSFT-Suppliers",
       "query": "Microsoft Corporation suppliers manufacturers",
-      "snippet": "Microsoft supply chain, list and performance of Microsofts' suppliers - CSIMarket."
+      "snippet": "Jan 29, 2026 · Microsoft supply chain, list and performance of Microsofts ' suppliers - CSIMarket"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.microsoft.com/en-us/customers/",
+      "url": "https://www.microsoft.com/en-us/customers",
       "query": "Microsoft Corporation major customers clients",
-      "snippet": "Explore customer success stories to learn how businesses are overcoming challenges, driving innovation, and achieving more with Microsoft solutions."
+      "snippet": "Discover ways customers are evolving ; Carlsberg Group. KPMG. City of Montreal ; Nationwide. Levi Strauss and Company. Fujitsu ; Alaska Airlines. NIQ."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/MSFT-Customers",
+      "url": "https://www.microsoft.com/en-us/customers/search",
       "query": "Microsoft Corporation major customers clients",
-      "snippet": "5 days ago · Microsoft customers and markets, results by customer and performance relative to MSFT, by company and industry - CSIMarket"
+      "snippet": "Search Microsoft customer success stories by industry, product, and business need to discover how companies are achieving more with trusted solutions."
     }
   ]
 }

@@ -4,23 +4,23 @@
   "sector": "Consumer Cyclical",
   "industry": "Internet Retail",
   "upstream": [
-    "Electronics manufacturers",
-    "Apparel manufacturers",
-    "Consumer electronics suppliers",
-    "Home goods manufacturers",
-    "AMZN"
+    "INTC",
+    "AMD",
+    "NVDA",
+    "UPS",
+    "FedEx"
   ],
   "downstream": [
     "Retail consumers",
-    "Enterprise customers (AWS)",
-    "Advertising clients",
     "Prime members",
-    "Third‑party sellers"
+    "Business customers (AWS)",
+    "Third‑party sellers",
+    "Prime Video subscribers"
   ],
   "competitors": [
     "Walmart",
-    "eBay",
     "Alibaba",
+    "eBay",
     "Shopify",
     "MSFT"
   ],
@@ -31,7 +31,7 @@
     "Amazon Kindle",
     "Amazon Echo/Alexa"
   ],
-  "extracted_at": "2026-03-11 16:41:04",
+  "extracted_at": "2026-03-12 16:51:11",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://awesomers.com/amazon-supply-chain",
+      "url": "https://ir.aboutamazon.com/",
       "query": "Amazon.com, Inc. suppliers manufacturers",
-      "snippet": "Amazon has released a list of its top 1000 suppliers and factories from around the world. This information became public as a part of an SEC disclosur"
+      "snippet": "Amazon . com , Inc . (NASDAQ: AMZN) today announced financial results for its second quarter ended June 30, 2025. Net sales increased 13% to $167.7 bi"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.accio.com/supplier/manufacturer-amazon",
+      "url": "https://www.alibaba.com/",
       "query": "Amazon.com, Inc. suppliers manufacturers",
-      "snippet": "Jan 11, 2026 · Looking for Amazon manufacturers? Discover certified suppliers offering apparel, supplements, and FBA logistics."
+      "snippet": "Find quality Manufacturers , Suppliers , Exporters, Importers, Buyers, Wholesalers, Products and Trade Leads from our award-winning International Trad"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://capitaloneshopping.com/research/amazon-statistics/",
       "query": "Amazon.com, Inc. major customers clients",
-      "snippet": "Jan 28, 2026 · Statistics & analysis on Amazon including total sales (per year & minute), number of products (SKUs), customers , sellers & more."
+      "snippet": "Jan 28, 2026 · Over 310 million global consumers shop on Amazon at least once a year. 2 million active selling partners have shops on Amazon. Independ"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://csimarket.com/stocks/AMZN-Customers",
       "query": "Amazon.com, Inc. major customers clients",
-      "snippet": "Amazon Com Inc 's Comment on Sales, Marketing and Customers We serve consumers through our retail websites and focus on selection, price, and convenie"
+      "snippet": "Updated on: Thursday, March 5, 2026 10:31 PM Focus of this report: Amazon com Inc ’s corporate clients . For your research, we’ve provided 9 tables on"
     }
   ]
 }

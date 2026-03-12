@@ -6,32 +6,32 @@
   "upstream": [
     "TSM",
     "005930.KS",
-    "MU",
     "GlobalFoundries",
-    "ASML"
+    "UMC",
+    "Tower Semiconductor"
   ],
   "downstream": [
     "DELL",
     "HPQ",
     "Lenovo Group",
     "MSFT",
-    "AMZN"
+    "SONY"
   ],
   "competitors": [
     "INTC",
     "NVDA",
     "QCOM",
     "AVGO",
-    "005930.KS"
+    "ARM Holdings"
   ],
   "key_products": [
     "Ryzen CPUs",
-    "EPYC CPUs",
+    "EPYC server CPUs",
     "Radeon GPUs",
-    "Xilinx FPGAs",
-    "AMD SoCs"
+    "Radeon Instinct accelerators",
+    "Xilinx FPGAs"
   ],
-  "extracted_at": "2026-03-11 16:41:27",
+  "extracted_at": "2026-03-12 16:51:35",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/List_of_system_on_a_chip_suppliers",
+      "url": "https://en.wikipedia.org/wiki/AMD",
       "query": "Advanced Micro Devices, Inc. suppliers manufacturers",
-      "snippet": "The following is a list of system-on-a-chip suppliers . Actions Semiconductor Advanced Micro Devices (AMD) Advanced Semiconductor Engineering (ASE) Al"
+      "snippet": "Advanced Micro Devices, Inc. (AMD) is an American multinational semiconductor company headquartered in Santa Clara, California, with significant opera"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.micron.com/",
+      "url": "https://pcxco.com/electronic-components-manufacturers/Advanced-Micro-Devices?srsltid=AfmBOoqN9_3cbT5n5Dj0TMksnobnuZe3aKmYn1ASAqxCnUsHLLx59Vlv",
       "query": "Advanced Micro Devices, Inc. suppliers manufacturers",
-      "snippet": "Micron engineers advanced memory and storage solutions designed to meet the dynamic demands of industrial IoT and aerospace systems. Our technologies "
+      "snippet": "Advanced Micro Devices, also known as AMD, is a leading global provider of innovative processing solutions in the computing, graphics, and visualizati"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/AMD-Customers",
+      "url": "https://en.wikipedia.org/wiki/AMD",
       "query": "Advanced Micro Devices, Inc. major customers clients",
-      "snippet": "Advanced Micro Devices Inc customers and markets, results by customer and performance relative to AMD, by company and industry - CSIMarket"
+      "snippet": "AMD serves a wide range of business and consumer markets, including personal computers (PCs), gaming, data centers, and embedded systems. Advanced Mic"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ir.amd.com/financial-information/sec-filings/content/0001193125-25-067185/0001193125-25-067185.pdf",
+      "url": "https://matrixbcg.com/blogs/target-market/amd",
       "query": "Advanced Micro Devices, Inc. major customers clients",
-      "snippet": "2024 was another major inflection point for our server business as share gains accelerated. EPYC processors have become the CPU of choice for the mode"
+      "snippet": "Sep 8, 2025 · AMD's customer base is diverse, spanning individual consumers, businesses, and data centers. Key segments include PC gamers and creators"
     }
   ]
 }

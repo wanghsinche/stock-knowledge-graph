@@ -5,33 +5,33 @@
   "industry": "Advertising Agencies",
   "upstream": [
     "GOOGL",
-    "GOOGL",
-    "Data providers (acquisition data vendors)",
-    "Analytics and attribution platforms (Adjust, Appsflyer)",
-    "Mobile SDK providers"
+    "AMZN",
+    "MSFT",
+    "IBM",
+    "ORCL"
   ],
   "downstream": [
-    "Mobile app developers",
-    "Game developers",
-    "App publishers",
+    "Mobile game developers",
+    "App developers",
     "Digital marketing agencies",
-    "Brands seeking mobile advertising"
+    "Advertisers",
+    "Publishers"
   ],
   "competitors": [
     "Unity Ads",
-    "AdColony",
+    "GOOGL",
+    "Facebook Audience Network",
     "Vungle",
-    "IronSource",
-    "GOOGL"
+    "Chartboost"
   ],
   "key_products": [
-    "Mobile advertising platform",
-    "App marketing technology",
-    "User acquisition solutions",
-    "In-app advertising SDK",
-    "Data analytics and attribution"
+    "AppLovin MAX",
+    "AppLovin Studio",
+    "AppLovin SDK",
+    "AppLovin Data",
+    "AppLovin AI"
   ],
-  "extracted_at": "2026-03-11 16:43:51",
+  "extracted_at": "2026-03-12 16:54:43",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/AppLovin",
+      "url": "https://finance.yahoo.com/news/applovin-app-rides-ai-powered-194256245.html",
       "query": "AppLovin Corporation suppliers manufacturers",
-      "snippet": "AppLovin Corporation is an American mobile technology company headquartered in Palo Alto, California. Founded in 2012, the company helps developers ma"
+      "snippet": "Feb 11, 2025 · In this article, we are going to take a look at where AppLovin Corporation (NASDAQ:APP) stands against other AI news making waves on Wa"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.nasdaq.com/articles/applovin-and-semiconductor-have-been-highlighted-zacks-bull-and-bear-day",
+      "query": "AppLovin Corporation suppliers manufacturers",
+      "snippet": "Mar 14, 2025 · AppLovin Corporation is an artificial intelligence stock that outperformed Nvidia over the last two years, soaring 2,000% compared to N"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://pitchgrade.com/companies/applovin",
+      "query": "AppLovin Corporation major customers clients",
+      "snippet": "Customer Segments: AppLovin Corporation serves multiple distinct customer segments, which may include consumers, small and medium businesses, enterpri"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.applovin.com/",
-      "query": "AppLovin Corporation suppliers manufacturers",
-      "snippet": "AppLovin enables businesses to advertise profitably with marketing technologies that attract customers, increase revenue, and track ad performance."
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://matrixbcg.com/blogs/target-market/applovin",
       "query": "AppLovin Corporation major customers clients",
-      "snippet": "Sep 9, 2025 · AppLovin's main clients are mobile app developers who need tools to grow their user base and monetize their applications. This segment i"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://portersfiveforce.com/blogs/target-market/applovin",
-      "query": "AppLovin Corporation major customers clients",
-      "snippet": "Nov 27, 2025 · Its B2B clients demand high ROAS and simplified advertising technology, while its B2C gaming audience seeks engaging entertainment and "
+      "snippet": "AppLovin enables businesses to advertise profitably with marketing technologies that attract customers , increase revenue, and track ad performance."
     }
   ]
 }

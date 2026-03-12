@@ -3,8 +3,8 @@ ticker: BAC
 company: Bank of America Corporation
 sector: Financial Services
 industry: Banks - Diversified
-extracted_at: 2026-03-11 16:45:28
-last_updated: 2026-03-11
+extracted_at: 2026-03-12 16:54:10
+last_updated: 2026-03-12
 ---
 
 # BAC - Bank of America Corporation
@@ -12,23 +12,23 @@ last_updated: 2026-03-11
 ## 基本信息
 
 - **所属行业**: Financial Services / Banks - Diversified
-- **提取时间**: 2026-03-11 16:45:28
+- **提取时间**: 2026-03-12 16:54:10
 
 ## 产业链关系
 
 ### 上游供应商
-- [[ORCL]]
 - [[MSFT]]
+- [[ORCL]]
 - [[AMZN]]
-- [[Visa]]
-- [[Palo Alto Networks]]
+- [[DELL]]
+- [[AT&T]]
 
 ### 下游客户
-- [[Retail banking customers]]
+- [[Retail customers]]
 - [[Small businesses]]
 - [[Large corporations]]
-- [[Mortgage borrowers]]
-- [[Credit card holders]]
+- [[Institutional investors]]
+- [[Government agencies]]
 
 ### 竞争对手
 - [[JPMorgan Chase]]
@@ -47,11 +47,11 @@ last_updated: 2026-03-11
 ## 数据来源
 
 - [Bank of America](https://en.wikipedia.org/wiki/Bank_of_America_Corporation)
-- [Bank of America Corporation suppliers manufacturers](https://en.wikipedia.org/wiki/Bank_of_America)
-- [Bank of America Corporation suppliers manufacturers](https://www.bankofamerica.com/)
+- [Bank of America Corporation suppliers manufacturers](https://csimarket.com/stocks/BAC-Suppliers)
+- [Bank of America Corporation suppliers manufacturers](https://about.bankofamerica.com/en/our-company/supplier-management)
 - [Bank of America Corporation major customers clients](https://en.wikipedia.org/wiki/Bank_of_America)
-- [Bank of America Corporation major customers clients](https://www.bankofamerica.com/)
+- [Bank of America Corporation major customers clients](https://newsroom.bankofamerica.com/content/newsroom/company-overview/bank-of-america-fast-facts.html)
 
 ## 元数据
 
-- **更新日期**: 2026-03-11
+- **更新日期**: 2026-03-12

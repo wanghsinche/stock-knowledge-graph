@@ -4,31 +4,34 @@
   "sector": "Technology",
   "industry": "Software - Application",
   "upstream": [
-    "Strategy One",
-    "Strategy Inc Ltd."
+    "DELL",
+    "HPQ",
+    "IBM",
+    "AMZN",
+    "MSFT"
   ],
   "downstream": [
-    "Healthcare",
-    "Financial services",
-    "Retail",
-    "Government",
-    "CAT"
+    "Bank of America",
+    "JPMorgan Chase",
+    "Walmart",
+    "AT&T",
+    "UnitedHealth Group"
   ],
   "competitors": [
-    "Tableau",
-    "Qlik",
+    "Tableau Software",
+    "Qlik Technologies",
     "MSFT",
     "SAP BusinessObjects",
-    "IBM"
+    "ORCL"
   ],
   "key_products": [
-    "MicroStrategy Desktop",
-    "MicroStrategy Web",
-    "MicroStrategy Mobile",
     "MicroStrategy Analytics",
-    "MicroStrategy Cloud"
+    "MicroStrategy Desktop",
+    "MicroStrategy Mobile",
+    "MicroStrategy Cloud",
+    "MicroStrategy Data Warehouse"
   ],
-  "extracted_at": "2026-03-11 16:43:29",
+  "extracted_at": "2026-03-12 16:54:26",
   "sources": [
     {
       "source": "Wikipedia",
@@ -38,15 +41,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.strategy.com/software/blog/how-manufacturers-are-solving-supply-chain-chaos-with-smart-bi",
+      "url": "https://en.wikipedia.org/wiki/Supply_chain",
       "query": "Strategy Inc suppliers manufacturers",
-      "snippet": "Discover how manufacturers are tackling supply chain chaos with Strategy One. Learn how AI-driven insights and real-time data can transform operations"
+      "snippet": "A typical supply chain can be divided into two stages namely, production and distribution stages. In the production stage, components and semi-finishe"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.developmentaid.org/organizations/view/129475/strategy-inc-ltd",
+      "url": "https://www.inc.com/",
       "query": "Strategy Inc suppliers manufacturers",
-      "snippet": "Strategy Inc Ltd. — Supplier / manufacturer from India, has experience with World Bank HQ, it`s involved in Furniture & Office Supplies sector."
+      "snippet": "Inc . media is the entrepreneurs source for ideas, resources and advice on how to successfully start, run and grow your business.Practical advice and "
     },
     {
       "source": "DuckDuckGo",

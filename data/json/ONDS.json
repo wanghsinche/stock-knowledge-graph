@@ -1,37 +1,31 @@
 {
   "ticker": "ONDS",
   "company_name": "Ondas Inc.",
-  "sector": "Technology / Communication Equipment",
-  "industry": "Autonomous Systems",
+  "sector": "Technology",
+  "industry": "Communication Equipment",
   "upstream": [
-    "Sensor manufacturers",
-    "Electronics component suppliers",
-    "AI chip vendors",
-    "Battery and power system suppliers",
+    "Semiconductor manufacturers",
+    "Electronic component suppliers",
+    "Aerospace parts manufacturers",
+    "Sensor component suppliers",
     "Software platform providers"
   ],
   "downstream": [
-    "Railroad operators",
-    "Utility companies",
-    "Oil and gas enterprises",
-    "Government agencies",
-    "Industrial automation customers"
+    "NATO",
+    "Airobotics Ltd.",
+    "European defense contractors",
+    "Commercial drone operators",
+    "Government agencies"
   ],
-  "competitors": [
-    "Boston Dynamics",
-    "Waymo",
-    "Aurora",
-    "NVDA",
-    "TSLA"
-  ],
+  "competitors": [],
   "key_products": [
-    "Autonomous vehicle platforms",
-    "Robotic delivery systems",
-    "AI-powered navigation software",
-    "Sensor suite integrations",
-    "Fleet management solutions"
+    "Autonomous drones",
+    "Robotic ground vehicles",
+    "Communication modules",
+    "Sensor suites",
+    "Control software"
   ],
-  "extracted_at": "2026-03-06 16:36:49",
+  "extracted_at": "2026-03-12 16:56:44",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +35,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ca.finance.yahoo.com/news/ondas-receives-20-million-initial-133000401.html",
+      "url": "https://finance.yahoo.com/quote/ONDS/",
       "query": "Ondas Inc. suppliers manufacturers",
-      "snippet": "Ondas Inc . (Nasdaq:ONDS) is a leading provider of autonomous systems and private wireless solutions through its business units Ondas Autonomous Syste"
+      "snippet": "Ondas Inc . OverviewCommunication Equipment / Technology. Ondas Inc . provides private wireless, drone, and automated data solutions in the United Sta"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.investing.com/news/company-news/ondas-appoints-mckinsey-partner-to-autonomous-systems-board-93CH-4544195",
+      "url": "https://www.linkedin.com/company/ondas-inc",
       "query": "Ondas Inc. suppliers manufacturers",
-      "snippet": "Ondas Inc . operates two main business units: Ondas Autonomous Systems, which provides autonomous systems for defense and security, and Ondas Networks"
+      "snippet": "About us. Ondas Inc . (Nasdaq: ONDS) is a leading provider of autonomous systems and private wireless solutions through its business units Ondas Auton"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/ONDS-Customers",
+      "url": "https://ir.ondas.com/press-releases/detail/280/ondas-secures-new-multi-million-dollar-european-order-for",
       "query": "Ondas Inc. major customers clients",
-      "snippet": "Feb 27, 2026 · Ondas Holdings Inc customers and markets, results by customer and performance relative to ONDS, by company and industry - CSIMarket"
+      "snippet": "Feb 13, 2026 · New NATO-country order highlights expanding European demand for operationally ready counter-UAS systems in civil environments. Missing:"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ir.ondas.com/",
+      "url": "https://www.ondas.com/post/ondas-secures-14-3-million-order-from-a-leading-defense-customer-for-optimus-drone-systems",
       "query": "Ondas Inc. major customers clients",
-      "snippet": "Ondas Networks' customer end markets include railroads, utilities, oil and gas, transportation, aviation (including drone operators) and government en"
+      "snippet": "Jun 9, 2025 · Airobotics Ltd., has secured a $14.3 million purchase order from a major defense customer for multiple units of its Optimus System. Miss"
     }
   ]
 }

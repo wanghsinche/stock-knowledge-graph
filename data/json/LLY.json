@@ -3,11 +3,35 @@
   "company_name": "Eli Lilly and Company",
   "sector": "Healthcare",
   "industry": "Drug Manufacturers - General",
-  "upstream": [],
-  "downstream": [],
-  "competitors": [],
-  "key_products": [],
-  "extracted_at": "2026-03-09 16:56:05",
+  "upstream": [
+    "Lonza Group",
+    "CAT",
+    "Thermo Fisher Scientific",
+    "Merck KGaA",
+    "Boehringer Ingelheim"
+  ],
+  "downstream": [
+    "United States Department of Veterans Affairs",
+    "United States Department of Defense",
+    "National Health Service (UK)",
+    "Canadian Health Services",
+    "Walgreens Boots Alliance"
+  ],
+  "competitors": [
+    "Pfizer",
+    "Johnson & Johnson",
+    "Merck & Co.",
+    "AbbVie",
+    "Bristol-Myers Squibb"
+  ],
+  "key_products": [
+    "Humira (adalimumab)",
+    "Lantus (insulin glargine)",
+    "Cialis (tadalafil)",
+    "Zyprexa (olanzapine)",
+    "Trulicity (dulaglutide)"
+  ],
+  "extracted_at": "2026-03-12 16:55:19",
   "sources": [
     {
       "source": "Wikipedia",
@@ -19,13 +43,25 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Eli_Lilly_and_Company",
       "query": "Eli Lilly and Company suppliers manufacturers",
-      "snippet": "Eli Lilly and Company, doing business as Lilly, is an American multinational pharmaceutical company headquartered in Indianapolis, Indiana, with offic"
+      "snippet": "Eli Lilly and Company , doing business as Lilly , is an American multinational pharmaceutical company headquartered in Indianapolis, Indiana, with off"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.lilly.com/suppliers",
+      "url": "https://ru.wikipedia.org/wiki/Eli_Lilly_and_Company",
       "query": "Eli Lilly and Company suppliers manufacturers",
-      "snippet": "View supplier resources including accounts payable, invoicing, payments, new and existing supplier guidance, and the Lilly Supplier portal."
+      "snippet": "Eli Lilly and Company — американская фармацевтическая компания. Была основана в 1876 году в Индианаполисе, где по-прежнему располагается её штаб-кварт"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/Eli_Lilly_and_Company",
+      "query": "Eli Lilly and Company major customers clients",
+      "snippet": "It achieved commercial success with major depressive disorder drugs Prozac (fluoxetine) (1986), Cymbalta (duloxetine) (2004), and its antipsychotic me"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.lilly.com/medicines/current",
+      "query": "Eli Lilly and Company major customers clients",
+      "snippet": "Find a list of current Lilly medicines, and filter by commonly prescribed, most recently available, and therapeutic area. Missing: clients | Show resu"
     }
   ]
 }

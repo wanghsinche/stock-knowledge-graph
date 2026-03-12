@@ -3,8 +3,8 @@ ticker: NFLX
 company: Netflix, Inc.
 sector: Communication Services
 industry: Entertainment
-extracted_at: 2026-03-11 16:42:55
-last_updated: 2026-03-11
+extracted_at: 2026-03-12 16:53:05
+last_updated: 2026-03-12
 ---
 
 # NFLX - Netflix, Inc.
@@ -12,23 +12,23 @@ last_updated: 2026-03-11
 ## 基本信息
 
 - **所属行业**: Communication Services / Entertainment
-- **提取时间**: 2026-03-11 16:42:55
+- **提取时间**: 2026-03-12 16:53:05
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Content production studios]]
-- [[Film and television distributors]]
-- [[Technology infrastructure providers]]
-- [[Equipment manufacturers (cameras, lighting, editing suites)]]
-- [[Marketing and advertising agencies]]
+- [[Warner Bros. Pictures]]
+- [[Disney Studios]]
+- [[SONY]]
+- [[Paramount Pictures]]
+- [[Universal Studios]]
 
 ### 下游客户
 - [[Individual subscribers worldwide]]
-- [[Corporate enterprise customers (airlines, hotels, etc.)]]
-- [[Device manufacturers (smart TVs, set‑top boxes, gaming consoles)]]
-- [[Smartphone and tablet users]]
-- [[International regional markets]]
+- [[Corporate account holders]]
+- [[AAPL]]
+- [[Smart TV OEMs]]
+- [[Streaming platform partners]]
 
 ### 竞争对手
 - [[Disney+]]
@@ -38,20 +38,20 @@ last_updated: 2026-03-11
 - [[AAPL]]
 
 ### 核心产品
-- [[Netflix streaming service (OTT platform)]]
+- [[Over-the-top streaming service]]
 - [[Original series and films]]
-- [[Licensed movies and television shows]]
-- [[Mobile and web applications]]
-- [[Smart TV and console applications]]
+- [[Licensed movies and TV shows]]
+- [[Documentaries and specials]]
+- [[Recommendation engine & user interface]]
 
 ## 数据来源
 
 - [Netflix, Inc.](https://en.wikipedia.org/wiki/Netflix,_Inc.)
 - [Netflix, Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/Netflix,_Inc.)
-- [Netflix, Inc. suppliers manufacturers](https://www.eximpedia.app/companies/netflix-inc/68821493)
-- [Netflix, Inc. major customers clients](https://ir.netflix.net/ir-overview/profile/default.aspx)
-- [Netflix, Inc. major customers clients](https://csimarket.com/stocks/markets_glance.php?code=NFLX)
+- [Netflix, Inc. suppliers manufacturers](https://www.eximpedia.app/companies/netflix-inc/43866177)
+- [Netflix, Inc. major customers clients](https://www.inc.com/jason-aten/theres-no-one-left-to-sign-up-for-netflix-so-its-raising-prices-again-instead.html)
+- [Netflix, Inc. major customers clients](https://ir.netflix.net/)
 
 ## 元数据
 
-- **更新日期**: 2026-03-11
+- **更新日期**: 2026-03-12

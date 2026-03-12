@@ -4,25 +4,25 @@
   "sector": "Communication Services",
   "industry": "Internet Content & Information",
   "upstream": [
-    "TSM",
+    "Corning Inc.",
     "QCOM",
+    "NVDA",
     "INTC",
-    "005930.KS",
-    "CSCO"
+    "005930.KS"
   ],
   "downstream": [
-    "Advertisers",
-    "App developers",
-    "Content creators",
-    "Individual users",
-    "Third‑party developers"
+    "Advertisers (global brands)",
+    "App developers (Facebook/Instagram APIs)",
+    "Content creators on Facebook, Instagram, Threads",
+    "META",
+    "Media partners for live streaming"
   ],
   "competitors": [
     "GOOGL",
     "AMZN",
     "AAPL",
     "MSFT",
-    "ByteDance (TikTok)"
+    "ByteDance Ltd. (TikTok)"
   ],
   "key_products": [
     "Facebook",
@@ -30,9 +30,9 @@
     "WhatsApp",
     "Messenger",
     "Threads",
-    "Meta Quest"
+    "Meta Ads Platform"
   ],
-  "extracted_at": "2026-03-11 16:41:44",
+  "extracted_at": "2026-03-12 16:51:53",
   "sources": [
     {
       "source": "Wikipedia",
@@ -42,27 +42,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Meta_Platforms",
+      "url": "https://finance.yahoo.com/news/meta-platforms-resets-ai-supply-160540199.html",
       "query": "Meta Platforms, Inc. suppliers manufacturers",
-      "snippet": "Meta Platforms , Inc . (doing business as Meta) is an American multinational technology company headquartered in Menlo Park, California. Meta owns and"
+      "snippet": "6 days ago · Meta Platforms (NasdaqGS:META) has agreed multi billion dollar, multi year AI infrastructure and data center hardware deals with AMD, ..."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://forwork.meta.com/legal/mfw-subprocessor-list/",
+      "url": "https://www.corning.com/worldwide/en/about-us/news-events/news-releases/2026/01/corning-and-meta-announce-multiyear-up-to-6-billion-agreement-to-accelerate-us-data-center-buildout.html",
       "query": "Meta Platforms, Inc. suppliers manufacturers",
-      "snippet": "Nov 13, 2023 · Poland Meta Singapore Pte. Ltd. Singapore Meta Spain SL Spain Meta UK Limited United Kingdom Meta Operations, LLC United States Meta Pl"
+      "snippet": "Jan 27, 2026 · Under the agreement, Corning will supply Meta with its newest innovations in optical fiber, cable, and connectivity solutions. To suppo"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/META-Customers",
+      "url": "https://www.g2.com/sellers/meta-platforms-inc",
       "query": "Meta Platforms, Inc. major customers clients",
-      "snippet": "For your research, we’ve provided 9 tables on Meta Platforms Inc corporate clients . You can find them in the navigation menu under Customers & Market"
+      "snippet": "Meta Platforms , Inc . is a global leader in social technology, connecting people and businesses through its family of apps like Facebook, Instagram, "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://canvasbusinessmodel.com/blogs/target-market/meta-target-market",
+      "url": "https://www.pcgamer.com/software/ai/meta-bought-moltbook-an-almost-entirely-ai-populated-social-media-platform-for-we-dont-know-how-much-and-were-not-completely-sure-why-yet-either/",
       "query": "Meta Platforms, Inc. major customers clients",
-      "snippet": "Jul 26, 2025 · Meta ' s primary customer segments are divided into individual users (B2C) and businesses/advertisers (B2B). The company's revenue mode"
+      "snippet": "Meta just bought Moltbook, a 'social' media platform for AI agents.As part of the deal, Moltbook's team will be incorporated into Meta 's own Superint"
     }
   ]
 }

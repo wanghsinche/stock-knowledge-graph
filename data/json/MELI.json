@@ -1,13 +1,34 @@
 {
   "ticker": "MELI",
   "company_name": "MercadoLibre, Inc.",
-  "sector": "Consumer Cyclical",
+  "sector": "Consumer Cyclical / Internet Retail",
   "industry": "Internet Retail",
-  "upstream": [],
-  "downstream": [],
-  "competitors": [],
-  "key_products": [],
-  "extracted_at": "2026-03-03 16:46:02",
+  "upstream": [
+    "Mercadolibre S.a. De C.v. Tlahuac",
+    "TrueCommerce"
+  ],
+  "downstream": [
+    "Consumers in Latin America",
+    "Retailers in Latin America",
+    "SMEs in Latin America",
+    "Online sellers on the platform",
+    "Marketplace users"
+  ],
+  "competitors": [
+    "AMZN",
+    "eBay",
+    "Alibaba",
+    "Shopify",
+    "Walmart"
+  ],
+  "key_products": [
+    "Marketplace platform",
+    "Payment services (MercadoPago)",
+    "Logistics services (Mercado Envíos)",
+    "Advertising solutions",
+    "Fintech services"
+  ],
+  "extracted_at": "2026-03-12 16:54:59",
   "sources": [
     {
       "source": "Wikipedia",
@@ -17,15 +38,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.stocktitan.net/sec-filings/MELI/10-k-mercadolibre-inc-files-annual-report-592489ec32c3.html",
+      "url": "https://www.volza.com/company-profile/mercadolibre-s-a-de-c-v-13980667/",
       "query": "MercadoLibre, Inc. suppliers manufacturers",
-      "snippet": "6 days ago · MercadoLibre, Inc. files its annual report describing a large, integrated e‑commerce and fintech ecosystem across Latin America."
+      "snippet": "Feb 3, 2026 · Mercadolibre S.a. De C.v. Tlahuac, Mexico is an importer with 26 import shipments from 5 suppliers. Imports: On the import side, Mercado"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://seekingalpha.com/news/4435868-mercadolibre-ceo-sees-latin-america-as-a-potential-winner-of-the-us-china-trade-war",
+      "url": "https://www.truecommerce.com/trading-partner-network/mercadolibre-mx/",
       "query": "MercadoLibre, Inc. suppliers manufacturers",
-      "snippet": "Apr 25, 2025 · MercadoLibre (NASDAQ:MELI) CEO Marcos Galperin thinks Latin America firms could emerge from the other side of the US-China trade war in"
+      "snippet": "TrueCommerce is a global leader in supply chain connectivity, with more than two decades of experience in the retail industry. Our MercadoLibre MX EDI"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/Mercado_Libre",
+      "query": "MercadoLibre, Inc. major customers clients",
+      "snippet": "MercadoLibre , Inc . (Spanish pronunciation: [meɾˈkaðo ˈliβɾe]), known as Mercado Livre in Brazil. Mercado Libre 's MarketPlace is a platform designed"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://investor.mercadolibre.com/",
+      "query": "MercadoLibre, Inc. major customers clients",
+      "snippet": "MercadoLibre is the market leader in each of the major countries where it is..."
     }
   ]
 }

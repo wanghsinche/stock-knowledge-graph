@@ -1,27 +1,27 @@
 {
   "ticker": "NOW",
   "company_name": "ServiceNow, Inc.",
-  "sector": "Technology",
-  "industry": "Software - Application",
+  "sector": "Technology / Software - Application",
+  "industry": "Application Software",
   "upstream": [
-    "AMZN",
+    "DELL",
+    "HPQ",
+    "CSCO",
     "MSFT",
-    "GOOGL",
-    "ORCL",
-    "IBM"
+    "AMZN"
   ],
   "downstream": [
+    "MSFT",
+    "IBM",
+    "AT&T",
     "Walmart",
-    "JPMorgan Chase",
-    "Coca‑Cola",
-    "Bank of America",
-    "General Motors"
+    "eBay"
   ],
   "competitors": [
     "CRM",
     "SAP",
+    "Workday",
     "ORCL",
-    "IBM",
     "MSFT"
   ],
   "key_products": [
@@ -29,9 +29,9 @@
     "IT Service Management (ITSM)",
     "IT Operations Management (ITOM)",
     "Customer Service Management (CSM)",
-    "Security Operations (SecOps)"
+    "IntegrationHub"
   ],
-  "extracted_at": "2026-03-11 16:46:24",
+  "extracted_at": "2026-03-12 16:53:36",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,25 +43,25 @@
       "source": "DuckDuckGo",
       "url": "https://www.servicenow.com/company/supplier.html",
       "query": "ServiceNow, Inc. suppliers manufacturers",
-      "snippet": "ServiceNow partners with capable and competitive suppliers who commit to diversity, sustainability, and best-in-class goods and services. Learn more h"
+      "snippet": "Suppliers drive our success. ServiceNow® engages with suppliers committed to innovation, sustainability, and delivering best-in-class goods and servic"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.servicenow.com/blogs/topics/manufacturing",
+      "url": "https://www.servicenow.com/partners/partner-finder.html",
       "query": "ServiceNow, Inc. suppliers manufacturers",
-      "snippet": "Read about ServiceNow's Company News, Announcements, and Updates ... Suppliers · Investors · Code of ethics · Newsroom · Blog · Workflow magazine: Ins"
+      "snippet": "Find a partner. Connect with a ServiceNow partner to reach your business goals. Become a partner. Join our partner ecosystem. Choose the partner paths"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.servicenow.com/in/standard/resource-center/data-sheet/ds-case-management-in-servicenow-customer-service-management.html",
+      "url": "https://www.servicenow.com/customers.html",
       "query": "ServiceNow, Inc. major customers clients",
-      "snippet": "Streamline case management, enhance customer satisfaction, and simplify outsourced operations with ServiceNow Customer Service Management."
+      "snippet": "Discover the measurable improvements ServiceNow delivers to enhance efficiency, productivity, and customer satisfaction."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://acquirersmultiple.com/2026/03/top-superinvestors-are-buying-servicenow-inc-now/",
+      "url": "https://www.aventionmedia.com/technology-installed-base/servicenow/",
       "query": "ServiceNow, Inc. major customers clients",
-      "snippet": "According to the most recent 13F filings, institutional investors made aggressive additions to ServiceNow , Inc . ( NOW ), underscoring continued conv"
+      "snippet": "Customers that are using ServiceNow include: Microsoft, a US Based MNC and Technology Company with over US$2 Tn revenue and Waltmart, a US Based Retai"
     }
   ]
 }

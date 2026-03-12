@@ -4,34 +4,34 @@
   "sector": "Technology",
   "industry": "Software - Infrastructure",
   "upstream": [
+    "INTC",
+    "AMD",
+    "CSCO",
     "DELL",
-    "NVDA",
-    "MSFT",
-    "Software component vendors (e.g., Red Hat, VMware)",
-    "Data center service providers"
+    "NetApp"
   ],
   "downstream": [
-    "Large enterprises (e.g., Walmart, JPMorgan Chase)",
-    "Government agencies (e.g., U.S. Department of Defense)",
-    "Financial institutions (e.g., Bank of America, Citigroup)",
-    "Healthcare organizations (e.g., Mayo Clinic)",
-    "AMZN"
+    "Walmart",
+    "JPMorgan Chase",
+    "AT&T",
+    "Bank of America",
+    "UnitedHealth Group"
   ],
   "competitors": [
     "MSFT",
     "AMZN",
     "IBM",
-    "SAP (HANA)",
+    "SAP",
     "CRM"
   ],
   "key_products": [
-    "Oracle Database (Oracle Database 19c, 21c)",
+    "Oracle Database",
+    "Oracle Cloud Infrastructure",
+    "Oracle Fusion Applications",
     "Oracle Autonomous Database",
-    "Oracle Cloud Infrastructure (OCI)",
-    "Oracle E-Business Suite",
-    "Oracle Fusion Applications"
+    "Oracle Exadata"
   ],
-  "extracted_at": "2026-03-11 16:40:27",
+  "extracted_at": "2026-03-12 16:51:27",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.oracle.com/corporate/suppliers/",
-      "query": "Oracle Corporation suppliers manufacturers",
-      "snippet": "Doing Business with Oracle Oracle iSupplier Portal (iSP) is a secured self-service tool, which provides Oracle 's suppliers with the ability to use a "
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/ORCL-Suppliers",
-      "query": "Oracle Corporation suppliers manufacturers",
-      "snippet": "Dec 12, 2025 · Our internal manufacturing operations consist primarily of materials procurement, assembly, testing and quality control of our Oracle E"
-    },
-    {
-      "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Oracle_Corporation",
-      "query": "Oracle Corporation major customers clients",
-      "snippet": "17 hours ago - Despite the SAP partnership with Microsoft, and the increasing integration of SAP applications with Microsoft products (such as Microso"
+      "query": "Oracle Corporation suppliers manufacturers",
+      "snippet": "Oracle Corporation is an American multinational technology company headquartered in Austin, Texas. Co-founded in Santa Clara, California by Bob Miner,"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.quora.com/Who-are-Oracles-company-biggest-customers",
+      "url": "https://www.oracle.com/scm/manufacturing/",
+      "query": "Oracle Corporation suppliers manufacturers",
+      "snippet": "Oracle Fusion Cloud Manufacturing helps you streamline your global, mixed-mode manufacturing to maximize operational performance."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.oracle.com/customers/",
       "query": "Oracle Corporation major customers clients",
-      "snippet": "In the arena of Database Management ... ... In terms of customers by industry, Computer Software (22%), Information Technology and Services (10%) and "
+      "snippet": "Innovation, ease of use, better results—those are just some of the reasons organizations in all industries and of all sizes rely on Oracle to help the"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.thomsondata.com/customer-base/oracle.php",
+      "query": "Oracle Corporation major customers clients",
+      "snippet": "Thomson Data makes it easy by offering an accurate and up-to-date list of companies that use Oracle. This list allows you to identify Oracle customers"
     }
   ]
 }

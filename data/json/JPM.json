@@ -4,18 +4,18 @@
   "sector": "Financial Services",
   "industry": "Banks - Diversified",
   "upstream": [
-    "Technology vendors",
-    "IT services providers",
-    "Legal service firms",
-    "Consulting firms",
-    "Office equipment suppliers"
+    "MSFT",
+    "CRM",
+    "Security and cybersecurity firms",
+    "Office supply and equipment suppliers",
+    "Data center and cloud service providers"
   ],
   "downstream": [
-    "Retail banking customers",
-    "Corporate banking clients",
-    "Institutional investors",
-    "Wealth management clients",
-    "Mortgage borrowers"
+    "Retail banking customers (individuals)",
+    "Corporate and institutional clients",
+    "Government and public sector entities",
+    "High‑net‑worth individuals (wealth management)",
+    "Investment funds and pension funds"
   ],
   "competitors": [
     "Bank of America",
@@ -25,13 +25,13 @@
     "Morgan Stanley"
   ],
   "key_products": [
-    "Retail banking",
-    "Investment banking",
-    "Asset management",
-    "Wealth management",
-    "Credit cards"
+    "Retail banking services",
+    "Investment banking and underwriting",
+    "Asset and wealth management",
+    "Credit card and consumer lending",
+    "Treasury and cash management"
   ],
-  "extracted_at": "2026-03-11 16:44:50",
+  "extracted_at": "2026-03-12 16:52:57",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,13 +43,13 @@
       "source": "DuckDuckGo",
       "url": "https://www.jpmorganchase.com/about/suppliers",
       "query": "JPMorgan Chase & Co. suppliers manufacturers",
-      "snippet": "At JPMorganChase , we place particular value in our supplier partnerships. Thanks to the help of a diverse range of suppliers and advisors, we are abl"
+      "snippet": "An inclusive supply chain where every business, including but not limited to small and diverse businesses, has the opportunity to be considered for ou"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://suppliercentral.jpmchase.com/",
+      "url": "https://fintechmagazine.com/financial-services-finserv/jpmorgan-chase-global-supplier-diversity",
       "query": "JPMorgan Chase & Co. suppliers manufacturers",
-      "snippet": "Access JPMorgan Chase 's Preferred Supplier portal for streamlined payment solutions, reduced administrative costs, and efficient transactions."
+      "snippet": "Feb 6, 2024 · JPMorgan Chase & Co is on a mission to increase diversity across its supply chain network, driving economic growth in the process. Missi"
     },
     {
       "source": "DuckDuckGo",
@@ -59,9 +59,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ru.wikipedia.org/wiki/JPMorgan_Chase",
+      "url": "https://www.jpmorganchase.com/",
       "query": "JPMorgan Chase & Co. major customers clients",
-      "snippet": "JPMorgan Chase & Co , «Дж. П. Морган Чейз и Ко.» — американский транснациональный финансовый конгломерат, один из крупнейших банков мира, с центром уп"
+      "snippet": "JPMorganChase opened its new global headquarters at 270 Park Avenue, marking a major milestone in its commitment to New York City.Committed to service"
     }
   ]
 }

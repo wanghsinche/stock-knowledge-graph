@@ -3,8 +3,8 @@ ticker: ADBE
 company: Adobe Inc.
 sector: Technology
 industry: Software - Application
-extracted_at: 2026-03-05 18:03:50
-last_updated: 2026-03-05
+extracted_at: 2026-03-12 16:57:09
+last_updated: 2026-03-12
 ---
 
 # ADBE - Adobe Inc.
@@ -12,7 +12,7 @@ last_updated: 2026-03-05
 ## 基本信息
 
 - **所属行业**: Technology / Software - Application
-- **提取时间**: 2026-03-05 18:03:50
+- **提取时间**: 2026-03-12 16:57:09
 
 ## 产业链关系
 
@@ -20,8 +20,8 @@ last_updated: 2026-03-05
 - [[INTC]]
 - [[AMD]]
 - [[NVDA]]
-- [[QCOM]]
-- [[ARM]]
+- [[AMZN]]
+- [[MSFT]]
 
 ### 下游客户
 - [[ADBE]]
@@ -32,26 +32,26 @@ last_updated: 2026-03-05
 
 ### 竞争对手
 - [[Autodesk]]
-- [[Corel]]
-- [[MSFT]]
+- [[Avid Technology]]
 - [[AAPL]]
-- [[Avid]]
+- [[MSFT]]
+- [[GOOGL]]
 
 ### 核心产品
-- [[Photoshop]]
-- [[Illustrator]]
-- [[InDesign]]
-- [[Premiere Pro]]
-- [[Acrobat Reader]]
+- [[Adobe Photoshop]]
+- [[Adobe Illustrator]]
+- [[Adobe Premiere Pro]]
+- [[Adobe Acrobat]]
+- [[Adobe After Effects]]
 
 ## 数据来源
 
 - [Adobe Inc.](https://en.wikipedia.org/wiki/Adobe_Inc.)
-- [Adobe Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/Adobe_Inc.)
-- [Adobe Inc. suppliers manufacturers](https://ru.wikipedia.org/wiki/Adobe)
+- [Adobe Inc. suppliers manufacturers](https://www.adobe.com/procurement.html)
+- [Adobe Inc. suppliers manufacturers](https://csimarket.com/stocks/ADBE-Suppliers)
 - [Adobe Inc. major customers clients](https://en.wikipedia.org/wiki/Adobe_Inc.)
-- [Adobe Inc. major customers clients](https://www.readycontacts.com/target-account-profiling/adobe-test-and-target/)
+- [Adobe Inc. major customers clients](https://www.adobe.com/)
 
 ## 元数据
 
-- **更新日期**: 2026-03-05
+- **更新日期**: 2026-03-12

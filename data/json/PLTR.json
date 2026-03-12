@@ -4,34 +4,31 @@
   "sector": "Technology",
   "industry": "Software - Infrastructure",
   "upstream": [
-    "AMZN",
     "MSFT",
+    "AMZN",
     "GOOGL",
-    "INTC",
-    "NVDA"
+    "IBM",
+    "ORCL"
   ],
   "downstream": [
-    "U.S. Department of Defense",
-    "Federal Bureau of Investigation",
-    "National Security Agency",
-    "JPMorgan Chase",
-    "Walmart"
+    "Walmart",
+    "AMZN",
+    "AAPL",
+    "United Healthcare",
+    "CVS Health"
   ],
   "competitors": [
-    "Snowflake",
-    "Databricks",
-    "Splunk",
     "IBM",
-    "MSFT"
+    "SAS",
+    "ORCL",
+    "MSFT",
+    "Snowflake"
   ],
   "key_products": [
     "Gotham",
-    "Foundry",
-    "Apollo",
-    "Palantir Data Integration Platform",
-    "Palantir Analytics Suite"
+    "Foundry"
   ],
-  "extracted_at": "2026-03-11 16:41:11",
+  "extracted_at": "2026-03-12 16:50:56",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +38,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Palantir",
+      "url": "https://en.wikipedia.org/wiki/Palantir_Technologies",
       "query": "Palantir Technologies Inc. suppliers manufacturers",
-      "snippet": "Palantir Technologies Inc. is an American publicly traded company that develops data integration and analytics platforms enabling government agencies,"
+      "snippet": "May 3, 2010 - According to the Journal, for two years the company continuously revised its technology based on the demands of analysts from the intell"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.palantir.com/explore/foundry-for-manufacturing/",
+      "url": "https://data.ark.ai/analysis/suppliers/palantir-usg-inc-supplier-profile-overview/",
       "query": "Palantir Technologies Inc. suppliers manufacturers",
-      "snippet": "Palantir Foundry offers a number of solutions for the manufacturing industry including predictive maintenance, digital twin, AI-powered applications, "
+      "snippet": "Ark.ai conducted a vendor and supply chain analysis of Palantir Technologies Inc., examining their subcontractors, subsidiaries, list of suppliers, ma"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://enlyft.com/tech/products/palantir",
+      "url": "https://investors.palantir.com/news-details/2025/Palantir-Warp-Speed-Accelerates-Announces-Six-New-Customers-That-Are-Re-Industrializing-American-Manufacturing/",
       "query": "Palantir Technologies Inc. major customers clients",
-      "snippet": "2302 companies use Palantir. Palantir is most often used by companies with 50-200 employees & $1M-10M in revenue. Our usage data goes back 10 years an"
+      "snippet": "Mar 13, 2025 · The newest Warp Speed customers include Epirus, Red Cat, Saildrone, Saronic, Ursa Major, and SNC. ... About Palantir Technologies Inc."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.statista.com/statistics/1286996/palantir-technologies-number-of-customers/?srsltid=AfmBOop4x7aq-XmIyZsC2SwCK7SZASjq1ZQF-39F8VvCV9WZX1q5XjPS",
+      "url": "https://www.appsruntheworld.com/customers-database/products/view/palantir-foundry",
       "query": "Palantir Technologies Inc. major customers clients",
-      "snippet": "Feb 3, 2026 · As of the fourth quarter of 2025, the American software company counted nearly 954 customers, up from 391 at the beginning of 2023. Miss"
+      "snippet": "Organizations such as Walmart, Amazon, Apple, United Healthcare and CVS are recorded users of Palantir Foundry for Analytics and BI. Q4. What is the i"
     }
   ]
 }

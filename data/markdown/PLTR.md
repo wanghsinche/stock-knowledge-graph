@@ -3,8 +3,8 @@ ticker: PLTR
 company: Palantir Technologies Inc.
 sector: Technology
 industry: Software - Infrastructure
-extracted_at: 2026-03-11 16:41:11
-last_updated: 2026-03-11
+extracted_at: 2026-03-12 16:50:56
+last_updated: 2026-03-12
 ---
 
 # PLTR - Palantir Technologies Inc.
@@ -12,46 +12,43 @@ last_updated: 2026-03-11
 ## 基本信息
 
 - **所属行业**: Technology / Software - Infrastructure
-- **提取时间**: 2026-03-11 16:41:11
+- **提取时间**: 2026-03-12 16:50:56
 
 ## 产业链关系
 
 ### 上游供应商
-- [[AMZN]]
 - [[MSFT]]
+- [[AMZN]]
 - [[GOOGL]]
-- [[INTC]]
-- [[NVDA]]
+- [[IBM]]
+- [[ORCL]]
 
 ### 下游客户
-- [[U.S. Department of Defense]]
-- [[Federal Bureau of Investigation]]
-- [[National Security Agency]]
-- [[JPMorgan Chase]]
 - [[Walmart]]
+- [[AMZN]]
+- [[AAPL]]
+- [[United Healthcare]]
+- [[CVS Health]]
 
 ### 竞争对手
-- [[Snowflake]]
-- [[Databricks]]
-- [[Splunk]]
 - [[IBM]]
+- [[SAS]]
+- [[ORCL]]
 - [[MSFT]]
+- [[Snowflake]]
 
 ### 核心产品
 - [[Gotham]]
 - [[Foundry]]
-- [[Apollo]]
-- [[Palantir Data Integration Platform]]
-- [[Palantir Analytics Suite]]
 
 ## 数据来源
 
 - [Palantir](https://en.wikipedia.org/wiki/Palantir_Technologies_Inc.)
-- [Palantir Technologies Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/Palantir)
-- [Palantir Technologies Inc. suppliers manufacturers](https://www.palantir.com/explore/foundry-for-manufacturing/)
-- [Palantir Technologies Inc. major customers clients](https://enlyft.com/tech/products/palantir)
-- [Palantir Technologies Inc. major customers clients](https://www.statista.com/statistics/1286996/palantir-technologies-number-of-customers/?srsltid=AfmBOop4x7aq-XmIyZsC2SwCK7SZASjq1ZQF-39F8VvCV9WZX1q5XjPS)
+- [Palantir Technologies Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/Palantir_Technologies)
+- [Palantir Technologies Inc. suppliers manufacturers](https://data.ark.ai/analysis/suppliers/palantir-usg-inc-supplier-profile-overview/)
+- [Palantir Technologies Inc. major customers clients](https://investors.palantir.com/news-details/2025/Palantir-Warp-Speed-Accelerates-Announces-Six-New-Customers-That-Are-Re-Industrializing-American-Manufacturing/)
+- [Palantir Technologies Inc. major customers clients](https://www.appsruntheworld.com/customers-database/products/view/palantir-foundry)
 
 ## 元数据
 
-- **更新日期**: 2026-03-11
+- **更新日期**: 2026-03-12

@@ -4,18 +4,18 @@
   "sector": "Communication Services",
   "industry": "Internet Content & Information",
   "upstream": [
-    "QCOM",
     "INTC",
+    "NVDA",
+    "QCOM",
     "005930.KS",
-    "TSM",
-    "NVDA"
+    "TSM"
   ],
   "downstream": [
-    "MSFT",
-    "Android app developers",
-    "YouTube content creators",
+    "Advertisers",
+    "Android device manufacturers",
     "GOOGL",
-    "GOOGL"
+    "YouTube creators",
+    "App developers"
   ],
   "competitors": [
     "META",
@@ -31,7 +31,7 @@
     "Google Cloud",
     "Google Ads"
   ],
-  "extracted_at": "2026-03-11 16:42:48",
+  "extracted_at": "2026-03-12 16:52:29",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,25 +43,25 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Alphabet_Inc.",
       "query": "Alphabet Inc. suppliers manufacturers",
-      "snippet": "Alphabet Inc . is an American multinational technology conglomerate holding company headquartered in Mountain View, California. It was created through"
+      "snippet": "Alphabet Inc. is an American multinational technology conglomerate holding company headquartered in Mountain View, California."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ru.wikipedia.org/wiki/Alphabet",
+      "url": "https://www.thomasnet.com/insights/a-complete-list-of-alphabet-owned-companies/",
       "query": "Alphabet Inc. suppliers manufacturers",
-      "snippet": "Alphabet Inc . — холдинговая компания, управляющая компанией Google Inc и её дочерними структурами, а также рядом стартапов. Штаб-квартира расположена"
+      "snippet": "7 days ago · Today, Alphabet is separated into three major segments: Google Services, Google Cloud, and Other Bets. It is the fourth-largest company i"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/GOOGL-Customers",
+      "url": "https://en.wikipedia.org/wiki/Alphabet_Inc.",
       "query": "Alphabet Inc. major customers clients",
-      "snippet": "Feb 9, 2026 · Alphabet Inc customers and markets, results by customer and performance relative to GOOGL, by company and industry - CSIMarket"
+      "snippet": "Google, Internet services, largest subsidiary and prior corporate entity name, Sundar Pichai ; Google Fiber, Internet access: via fiber, Dinesh Jain ;"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://pitchgrade.com/companies/alphabet-inc",
+      "url": "https://portersfiveforce.com/blogs/target-market/abc",
       "query": "Alphabet Inc. major customers clients",
-      "snippet": "Jan 16, 2026 · Customer Segments: Alphabet Inc . serves multiple distinct customer segments, which may include consumers, small and medium businesses,"
+      "snippet": "Nov 10, 2025 · This is Alphabet's primary revenue driver, consisting of over 10 million advertisers and Google Cloud Platform clients. GCP achieved 28"
     }
   ]
 }

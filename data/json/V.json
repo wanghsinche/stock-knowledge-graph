@@ -4,34 +4,34 @@
   "sector": "Financial Services",
   "industry": "Credit Services",
   "upstream": [
+    "Bank card issuers",
     "Chip manufacturers (e.g., NXP Semiconductors)",
-    "Payment processing technology vendors (e.g., Fiserv)",
-    "CSCO",
-    "Security solution providers (e.g., Symantec)",
-    "AMZN"
+    "Payment processing technology providers",
+    "Network infrastructure vendors",
+    "Regulatory bodies"
   ],
   "downstream": [
-    "Major banks (e.g., JPMorgan Chase, Bank of America, Citigroup)",
-    "AMZN",
-    "Card issuers (e.g., Capital One, American Express)",
-    "Retailers and service providers",
-    "Consumers worldwide"
+    "Retail merchants",
+    "Online merchants",
+    "Financial institutions issuing Visa cards",
+    "Consumers using Visa cards",
+    "Payment processors"
   ],
   "competitors": [
     "Mastercard",
     "American Express",
     "Discover",
-    "JCB",
-    "UnionPay"
+    "PayPal",
+    "Square"
   ],
   "key_products": [
-    "Visa Credit Card",
-    "Visa Debit Card",
     "VisaNet payment network",
-    "Visa Direct",
-    "Visa Token Service"
+    "Visa Direct real‑time payments",
+    "Visa Checkout online payment solution",
+    "Visa Token Service",
+    "Visa Card Issuance platform"
   ],
-  "extracted_at": "2026-03-11 16:48:49",
+  "extracted_at": "2026-03-12 16:57:00",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/Visa_Inc.",
+      "query": "Visa Inc. suppliers manufacturers",
+      "snippet": "Visa Inc . is an American multinational payment card services corporation headquartered in San Francisco, California."
+    },
+    {
+      "source": "DuckDuckGo",
       "url": "https://ru.wikipedia.org/wiki/Visa",
       "query": "Visa Inc. suppliers manufacturers",
       "snippet": "Visa Inc . — американская транснациональная компания, предоставляющая услуги проведения платёжных операций. Является основой одноимённой ассоциации. С"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/V-Suppliers",
-      "query": "Visa Inc. suppliers manufacturers",
-      "snippet": "Visa Inc supply chain, list and performance of Visa Incs ' suppliers - CSIMarket."
-    },
-    {
-      "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Visa_Inc.",
       "query": "Visa Inc. major customers clients",
-      "snippet": "Visa is the world's second-largest card payment organization (debit and credit cards combined), after being surpassed by China UnionPay in 2015, based"
+      "snippet": "Visa does not issue cards, extend credit, or set rates and fees for consumers ; rather, Visa provides financial institutions with Visa-branded payment"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://corporate.visa.com/en/about-visa.html",
+      "url": "https://csimarket.com/stocks/V-Customers",
       "query": "Visa Inc. major customers clients",
-      "snippet": "We're a trusted network and world leader in digital payments, working to remove barriers and connect more people to the global economy. Missing: major"
+      "snippet": "These facilities enable transaction services and provide uninterrupted connectivity for account holders, our financial institution clients and our pro"
     }
   ]
 }

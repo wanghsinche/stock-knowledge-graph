@@ -3,8 +3,8 @@ ticker: META
 company: Meta Platforms, Inc.
 sector: Communication Services
 industry: Internet Content & Information
-extracted_at: 2026-03-11 16:41:44
-last_updated: 2026-03-11
+extracted_at: 2026-03-12 16:51:53
+last_updated: 2026-03-12
 ---
 
 # META - Meta Platforms, Inc.
@@ -12,30 +12,30 @@ last_updated: 2026-03-11
 ## 基本信息
 
 - **所属行业**: Communication Services / Internet Content & Information
-- **提取时间**: 2026-03-11 16:41:44
+- **提取时间**: 2026-03-12 16:51:53
 
 ## 产业链关系
 
 ### 上游供应商
-- [[TSM]]
+- [[Corning Inc.]]
 - [[QCOM]]
+- [[NVDA]]
 - [[INTC]]
 - [[005930.KS]]
-- [[CSCO]]
 
 ### 下游客户
-- [[Advertisers]]
-- [[App developers]]
-- [[Content creators]]
-- [[Individual users]]
-- [[Third‑party developers]]
+- [[Advertisers (global brands)]]
+- [[App developers (Facebook/Instagram APIs)]]
+- [[Content creators on Facebook, Instagram, Threads]]
+- [[META]]
+- [[Media partners for live streaming]]
 
 ### 竞争对手
 - [[GOOGL]]
 - [[AMZN]]
 - [[AAPL]]
 - [[MSFT]]
-- [[ByteDance (TikTok)]]
+- [[ByteDance Ltd. (TikTok)]]
 
 ### 核心产品
 - [[Facebook]]
@@ -43,16 +43,16 @@ last_updated: 2026-03-11
 - [[WhatsApp]]
 - [[Messenger]]
 - [[Threads]]
-- [[Meta Quest]]
+- [[Meta Ads Platform]]
 
 ## 数据来源
 
 - [Meta Platforms](https://en.wikipedia.org/wiki/Meta_Platforms,_Inc.)
-- [Meta Platforms, Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/Meta_Platforms)
-- [Meta Platforms, Inc. suppliers manufacturers](https://forwork.meta.com/legal/mfw-subprocessor-list/)
-- [Meta Platforms, Inc. major customers clients](https://csimarket.com/stocks/META-Customers)
-- [Meta Platforms, Inc. major customers clients](https://canvasbusinessmodel.com/blogs/target-market/meta-target-market)
+- [Meta Platforms, Inc. suppliers manufacturers](https://finance.yahoo.com/news/meta-platforms-resets-ai-supply-160540199.html)
+- [Meta Platforms, Inc. suppliers manufacturers](https://www.corning.com/worldwide/en/about-us/news-events/news-releases/2026/01/corning-and-meta-announce-multiyear-up-to-6-billion-agreement-to-accelerate-us-data-center-buildout.html)
+- [Meta Platforms, Inc. major customers clients](https://www.g2.com/sellers/meta-platforms-inc)
+- [Meta Platforms, Inc. major customers clients](https://www.pcgamer.com/software/ai/meta-bought-moltbook-an-almost-entirely-ai-populated-social-media-platform-for-we-dont-know-how-much-and-were-not-completely-sure-why-yet-either/)
 
 ## 元数据
 
-- **更新日期**: 2026-03-11
+- **更新日期**: 2026-03-12

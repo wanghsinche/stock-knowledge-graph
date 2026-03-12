@@ -4,34 +4,34 @@
   "sector": "Financial Services",
   "industry": "Financial Data & Stock Exchanges",
   "upstream": [
-    "Cryptocurrency mining hardware manufacturers (e.g., Bitmain, Canaan)",
     "MSFT",
-    "Payment processors (e.g., Stripe, PayPal)",
-    "Regulatory bodies (e.g., SEC, FinCEN)",
-    "Financial institutions providing fiat deposits"
+    "Security and compliance vendors (e.g., Symantec, Palo Alto Networks)",
+    "Blockchain infrastructure and node operators",
+    "Payment processing partners (e.g., Stripe, PayPal)",
+    "Hardware manufacturers (e.g., ASIC miners, secure key storage devices)"
   ],
   "downstream": [
-    "Retail cryptocurrency traders",
-    "Institutional investors (e.g., hedge funds, family offices)",
-    "Asset managers (e.g., BlackRock, Fidelity)",
-    "Financial institutions using crypto custody",
-    "Corporate treasury departments"
+    "Retail cryptocurrency investors",
+    "Institutional traders and asset managers",
+    "DeFi projects and token issuers",
+    "Crypto payment merchants",
+    "Financial technology startups"
   ],
   "competitors": [
     "Binance",
     "Kraken",
     "Gemini",
-    "FTX",
-    "Bitstamp"
+    "Bitstamp",
+    "FTX (formerly)"
   ],
   "key_products": [
-    "Cryptocurrency exchange platform",
-    "Custody services",
-    "Earn interest products",
-    "Staking services",
-    "Coinbase Wallet"
+    "Cryptocurrency trading platform (Coinbase.com)",
+    "Professional trading platform (Coinbase Pro)",
+    "Custodial wallet services (Coinbase Custody)",
+    "Earn program for learning and earning crypto (Coinbase Earn)",
+    "Crypto debit card (Coinbase Card)"
   ],
-  "extracted_at": "2026-03-11 16:44:20",
+  "extracted_at": "2026-03-12 16:56:04",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,15 +41,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.coinbase.com/vendors/vendors-at-coinbase-code-of-conduct",
+      "url": "https://www.coinbase.com/vendors/vendors-at-coinbase",
       "query": "Coinbase Global, Inc. suppliers manufacturers",
-      "snippet": "This information is the property of Coinbase , or the property of Coinbase ’s suppliers , customers, or business partners, and in many cases was devel"
+      "snippet": "Getting started as a Coinbase Vendor. Procurement guidelines & policies to streamline the vendor experience. Missing: Inc. | Show results with: Inc."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://fintel.io/doc/sec-coinbase-global-inc-1679788-ex211-2024-february-15-19768-5823",
+      "url": "https://www.coinbase.com/public-policy/advocacy/documents/blockchain-and-supply-chain",
       "query": "Coinbase Global, Inc. suppliers manufacturers",
-      "snippet": "Coinbase Global , Inc . - List of Subsidiaries of the Registrant - EX-21.1 - February 15, 2024 COIN / Coinbase Global , Inc . Filings Coinbase Global "
+      "snippet": "All parties involved, including manufacturers, suppliers, and retailers, can access the same up-to-date data, eliminating discrepancies and creating a"
     },
     {
       "source": "DuckDuckGo",
@@ -59,9 +59,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.coinbase.com/institutional/clients",
+      "url": "https://www.businessofapps.com/data/coinbase-statistics/",
       "query": "Coinbase Global, Inc. major customers clients",
-      "snippet": "Coinbase was selected by BlackRock to provide Aladdin clients access to crypto trading and custody via Coinbase Prime. Crypto solutions for institutio"
+      "snippet": "Jan 7, 2026 · Coinbase has 105 million users worldwide and 10.8 million people actively exchange every month; Coinbase valuation skyrocketed in 2024 a"
     }
   ]
 }

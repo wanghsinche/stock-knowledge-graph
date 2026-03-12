@@ -3,8 +3,8 @@ ticker: APP
 company: AppLovin Corporation
 sector: Communication Services
 industry: Advertising Agencies
-extracted_at: 2026-03-11 16:43:51
-last_updated: 2026-03-11
+extracted_at: 2026-03-12 16:54:43
+last_updated: 2026-03-12
 ---
 
 # APP - AppLovin Corporation
@@ -12,46 +12,46 @@ last_updated: 2026-03-11
 ## 基本信息
 
 - **所属行业**: Communication Services / Advertising Agencies
-- **提取时间**: 2026-03-11 16:43:51
+- **提取时间**: 2026-03-12 16:54:43
 
 ## 产业链关系
 
 ### 上游供应商
 - [[GOOGL]]
-- [[GOOGL]]
-- [[Data providers (acquisition data vendors)]]
-- [[Analytics and attribution platforms (Adjust, Appsflyer)]]
-- [[Mobile SDK providers]]
+- [[AMZN]]
+- [[MSFT]]
+- [[IBM]]
+- [[ORCL]]
 
 ### 下游客户
-- [[Mobile app developers]]
-- [[Game developers]]
-- [[App publishers]]
+- [[Mobile game developers]]
+- [[App developers]]
 - [[Digital marketing agencies]]
-- [[Brands seeking mobile advertising]]
+- [[Advertisers]]
+- [[Publishers]]
 
 ### 竞争对手
 - [[Unity Ads]]
-- [[AdColony]]
-- [[Vungle]]
-- [[IronSource]]
 - [[GOOGL]]
+- [[Facebook Audience Network]]
+- [[Vungle]]
+- [[Chartboost]]
 
 ### 核心产品
-- [[Mobile advertising platform]]
-- [[App marketing technology]]
-- [[User acquisition solutions]]
-- [[In-app advertising SDK]]
-- [[Data analytics and attribution]]
+- [[AppLovin MAX]]
+- [[AppLovin Studio]]
+- [[AppLovin SDK]]
+- [[AppLovin Data]]
+- [[AppLovin AI]]
 
 ## 数据来源
 
 - 
-- [AppLovin Corporation suppliers manufacturers](https://en.wikipedia.org/wiki/AppLovin)
-- [AppLovin Corporation suppliers manufacturers](https://www.applovin.com/)
-- [AppLovin Corporation major customers clients](https://matrixbcg.com/blogs/target-market/applovin)
-- [AppLovin Corporation major customers clients](https://portersfiveforce.com/blogs/target-market/applovin)
+- [AppLovin Corporation suppliers manufacturers](https://finance.yahoo.com/news/applovin-app-rides-ai-powered-194256245.html)
+- [AppLovin Corporation suppliers manufacturers](https://www.nasdaq.com/articles/applovin-and-semiconductor-have-been-highlighted-zacks-bull-and-bear-day)
+- [AppLovin Corporation major customers clients](https://pitchgrade.com/companies/applovin)
+- [AppLovin Corporation major customers clients](https://www.applovin.com/)
 
 ## 元数据
 
-- **更新日期**: 2026-03-11
+- **更新日期**: 2026-03-12

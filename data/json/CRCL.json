@@ -1,37 +1,37 @@
 {
   "ticker": "CRCL",
   "company_name": "Circle Internet Group, Inc.",
-  "sector": "Financial Services",
-  "industry": "Capital Markets",
+  "sector": "Financial Services / Capital Markets",
+  "industry": "Payments Technology",
   "upstream": [
-    "Digital infrastructure providers (e.g., AWS, Azure)",
-    "Blockchain network operators (e.g., Ethereum, Solana)",
-    "Payment processors (e.g., Stripe, PayPal)",
-    "Regulatory compliance firms",
-    "Cryptocurrency liquidity providers"
+    "Ethereum blockchain infrastructure",
+    "Bitcoin blockchain infrastructure",
+    "AMZN",
+    "MSFT",
+    "Visa payment network"
   ],
   "downstream": [
-    "Retail merchants using Circle Pay",
-    "Banks and financial institutions integrating USDC",
-    "Crypto exchanges (e.g., Coinbase, Binance)",
-    "DeFi platforms",
-    "Institutional investors using USYC"
+    "Financial institutions (banks, credit unions)",
+    "Retail merchants and e‑commerce platforms",
+    "Cryptocurrency exchanges (Binance, Coinbase)",
+    "Payment processors (PayPal, Stripe)",
+    "Individual consumers using digital wallets"
   ],
   "competitors": [
-    "Coinbase",
-    "Gemini",
     "PayPal",
     "Stripe",
-    "Square"
+    "Square",
+    "Revolut",
+    "Wise (formerly TransferWise)"
   ],
   "key_products": [
     "USDC stablecoin",
     "EURC stablecoin",
     "USYC tokenized money market fund",
-    "Circle API for payments",
-    "Crypto custody services"
+    "Circle Pay (digital wallet)",
+    "Circle Invest (investment platform)"
   ],
-  "extracted_at": "2026-03-11 16:43:11",
+  "extracted_at": "2026-03-12 16:55:49",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,9 +47,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/news/circle-internet-group-stock-surge-131245082.html",
+      "url": "https://finance.yahoo.com/news/circle-internet-soars-110-month-131100545.html",
       "query": "Circle Internet Group suppliers manufacturers",
-      "snippet": "Circle Internet Group stock moves without a clear news catalyst. Circle Internet Group (CRCL) has drawn investor attention after a strong recent share"
+      "snippet": "Circle Internet Group CRCL shares have surged 109.9% in the past month, comfortably outperforming the Zacks Finance sector and the Zacks Financial- Mi"
     },
     {
       "source": "DuckDuckGo",
