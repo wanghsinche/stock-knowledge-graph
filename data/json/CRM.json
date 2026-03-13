@@ -7,20 +7,20 @@
     "AMZN",
     "MSFT",
     "GOOGL",
-    "ORCL",
-    "IBM"
+    "DELL",
+    "CSCO"
   ],
   "downstream": [
+    "AMZN",
     "Coca‑Cola",
     "Toyota",
-    "American Express",
-    "005930.KS",
-    "AT&T"
+    "General Electric",
+    "Walmart"
   ],
   "competitors": [
     "MSFT",
     "ORCL",
-    "SAP SuccessFactors",
+    "SAP Customer Experience",
     "ADBE",
     "HubSpot"
   ],
@@ -31,7 +31,7 @@
     "Commerce Cloud",
     "Einstein AI"
   ],
-  "extracted_at": "2026-03-12 16:52:00",
+  "extracted_at": "2026-03-13 16:32:36",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.salesforce.com/manufacturing/",
-      "query": "Salesforce, Inc. suppliers manufacturers",
-      "snippet": "Agentforce 360 for Manufacturing refers to the entirety of Salesforce for the manufacturing industry. This extensible platform provides access to solu"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://help.salesforce.com/s/articleView?id=ind.mfg_warranties_suppliers_create_suppliers.htm",
-      "query": "Salesforce, Inc. suppliers manufacturers",
-      "snippet": "Create supplier records to capture important details about the suppliers that you procure product parts and components from. Create supplier products "
-    },
-    {
-      "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Salesforce",
-      "query": "Salesforce, Inc. major customers clients",
-      "snippet": "Salesforce , Inc ., is an American cloud-based software company headquartered in San Francisco, California. It provides applications focused on sales "
+      "query": "Salesforce, Inc. suppliers manufacturers",
+      "snippet": "Salesforce, Inc. is an American cloud-based software company headquartered in San Francisco, California. It provides applications focused on sales, cu"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://login.salesforce.com/",
+      "url": "https://www.salesforce.com/company/our-brands/",
+      "query": "Salesforce, Inc. suppliers manufacturers",
+      "snippet": "See our full list of Salesforce brands and find out how these companies inspire innovation to provide customer solutions."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.salesforce.com/customer-stories/",
       "query": "Salesforce, Inc. major customers clients",
-      "snippet": "Salesforce Salesforce . 0 Saved Usernames Edit List.Not a customer ? Try for Free. Log In with a Different Username."
+      "snippet": "Discover how Salesforce helps 150000+ companies increase productivity, customer loyalty, and sales revenue — every day."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://bloomberry.com/data/salesforce-crm/",
+      "query": "Salesforce, Inc. major customers clients",
+      "snippet": "We detected 41026 companies using Salesforce, 9828 companies that churned, and 1000 customers with upcoming renewal in the next 3 months."
     }
   ]
 }

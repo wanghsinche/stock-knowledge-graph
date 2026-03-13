@@ -1,37 +1,37 @@
 {
   "ticker": "GE",
-  "company_name": "GE Aerospace",
+  "company_name": "General Electric Company (GE Aerospace)",
   "sector": "Industrials",
   "industry": "Aerospace & Defense",
   "upstream": [
-    "Alcoa (aluminum)",
-    "Linde (industrial gases)",
-    "Honeywell (components)",
-    "3M (composite materials)",
-    "Boeing (supplier of aircraft structures)"
+    "Aluminum suppliers (e.g., Alcoa)",
+    "Titanium suppliers (e.g., Rio Tinto)",
+    "Composite material manufacturers (e.g., Hexcel)",
+    "Fuel suppliers (e.g., ExxonMobil)",
+    "Electronic component suppliers (e.g., Honeywell Aerospace)"
   ],
   "downstream": [
-    "Boeing",
-    "Airbus",
-    "United Airlines",
-    "Delta Air Lines",
-    "U.S. Air Force"
+    "Major airlines (e.g., Delta, United, American)",
+    "Aircraft manufacturers (e.g., Boeing, Airbus)",
+    "Aircraft leasing firms (e.g., AerCap, GECAS)",
+    "Defense contractors (e.g., Lockheed Martin, Boeing Defense)",
+    "Regional carriers and cargo operators"
   ],
   "competitors": [
-    "Pratt & Whitney (Raytheon)",
-    "Rolls‑Royce",
-    "Safran",
+    "Pratt & Whitney (Raytheon Technologies)",
+    "Rolls-Royce",
+    "Honeywell Aerospace",
     "MTU Aero Engines",
-    "Honeywell Aerospace"
+    "Safran"
   ],
   "key_products": [
-    "GE90 jet engine",
-    "GE2X turboprop engine",
-    "GE9X jet engine",
-    "GE75 turbofan",
-    "GE75-1 turbofan"
+    "GE90 turbofan",
+    "CF34 turbofan",
+    "CF6 turbofan",
+    "TFE731 turbofan",
+    "F110 turbofan"
   ],
-  "extracted_at": "2026-03-12 16:54:33",
+  "extracted_at": "2026-03-13 16:36:04",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.geaerospace.com/company/doing-business",
+      "url": "https://www.geaerospace.com/news/press-releases/ge-aerospace-invest-another-1b-us-manufacturing",
       "query": "GE Aerospace suppliers manufacturers",
-      "snippet": "As a world-leading manufacturer and service provider for jet engines, GE Aerospace works closely with suppliers around the globe."
+      "snippet": "4 days ago · CINCINNATI – March 9, 2026 – GE Aerospace plans to invest another $1 billion in its U.S. manufacturing sites and supplier base during 202"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.geaerospace.com/",
+      "url": "https://www.accio.com/supplier/ge-aviation-approved-supplier-list",
       "query": "GE Aerospace suppliers manufacturers",
-      "snippet": "GE Aerospace is a world-leading provider of jet and turboprop engines, as well as integrated systems for commercial, military, business and general av"
+      "snippet": "4 days ago · Need GE Aviation certified suppliers ? Discover vetted manufacturers of precision aircraft components. Click to access the full approved "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.geaerospace.com/news/press-releases/systems/ge-aviations-avionics-business-rates-1-vendor-aftermarket-support",
+      "url": "https://en.wikipedia.org/wiki/GE_Aerospace",
       "query": "GE Aerospace major customers clients",
-      "snippet": "Overall, GE Aviation's Avionics business was ranked third out of 41 major aerospace OEMs and suppliers, following after Boeing and Airbus. This surpas"
+      "snippet": "This acquisition will reportedly give the combined unit the clout to resist pricing pressures from its two largest customers, Boeing and Airbus. Histo"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.geaerospace.com/news/press-releases/ge-aerospace-now-one-largest-users-us-department-energy-exascale-supercomputers",
+      "url": "https://portersfiveforce.com/blogs/target-market/geaerospace",
       "query": "GE Aerospace major customers clients",
-      "snippet": "Feb 13, 2025 · GE Aerospace (NYSE: GE) is now one of the largest users of US Department of Energy exascale supercomputers, a breakthrough capability h"
+      "snippet": "Dec 27, 2025 · It includes major airlines, aircraft leasing firms like AerCap and Avolon, and airframe manufacturers Airbus and Boeing. Icon Military "
     }
   ]
 }

@@ -7,31 +7,30 @@
     "NVDA",
     "AMD",
     "INTC",
-    "GOOGL",
-    "MSFT"
+    "QCOM",
+    "005930.KS"
   ],
   "downstream": [
+    "MSFT",
+    "DELL",
     "OpenAI",
-    "Mistral AI",
-    "Anthropic",
-    "Stability AI",
-    "DeepMind"
+    "IBM"
   ],
   "competitors": [
-    "Lambda Labs",
-    "Vast.ai",
-    "Cerebras Systems",
-    "AWS Inferentia",
-    "MSFT"
+    "NVDA",
+    "AMZN",
+    "MSFT",
+    "GOOGL",
+    "IBM"
   ],
   "key_products": [
-    "GPU‑based AI cloud infrastructure",
-    "GPU instance management software",
-    "AI compute services",
-    "Custom GPU cluster orchestration",
-    "Chip management platform"
+    "GPU Cloud Infrastructure",
+    "GPU-as-a-Service",
+    "AI Workload Management",
+    "Chip Management Software",
+    "GPU Virtualization"
   ],
-  "extracted_at": "2026-03-12 16:57:18",
+  "extracted_at": "2026-03-13 16:34:38",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,25 +42,25 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/CoreWeave",
       "query": "CoreWeave, Inc. suppliers manufacturers",
-      "snippet": "CoreWeave , Inc . is an American artificial intelligence (AI) cloud-computing company based in Livingston, New Jersey. It specializes in providing clo"
+      "snippet": "CoreWeave , Inc . is an American artificial intelligence (AI) cloud-computing company based in Livingston, New Jersey."
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.coreweave.com/",
       "query": "CoreWeave, Inc. suppliers manufacturers",
-      "snippet": "2 days ago · From leading AI labs like OpenAI and Mistral AI to global giants like IBM, the world’s most ambitious AI innovators build on CoreWeave . "
+      "snippet": "CoreWeave screenshot - 20 Meilleurs Fournisseurs de Services Cloud Gérés..."
     },
     {
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/CoreWeave",
       "query": "CoreWeave, Inc. major customers clients",
-      "snippet": "CoreWeave , Inc . is an American artificial intelligence cloud-computing company based in Livingston, New Jersey. It specializes in providing cloud-ba"
+      "snippet": "... top two clients, with Microsoft alone accounting for 62%. In Dec. 2024, Dell and CoreWeave began partnering on infrastructure. In 2025, CoreWeave "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.coreweave.com/",
+      "url": "https://www.coreweave.com/case-studies",
       "query": "CoreWeave, Inc. major customers clients",
-      "snippet": "CoreWeave Inc .’s."
+      "snippet": "Learn how CoreWeave customers like OpenAI and IBM are provisioning the GPUs they need and building AI infrastructure on a massive scale with unprecede"
     }
   ]
 }

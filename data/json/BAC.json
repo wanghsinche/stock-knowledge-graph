@@ -5,17 +5,17 @@
   "industry": "Banks - Diversified",
   "upstream": [
     "MSFT",
-    "ORCL",
-    "AMZN",
-    "DELL",
-    "AT&T"
+    "Payment processors (e.g., Visa, Mastercard)",
+    "Data providers (e.g., Bloomberg, Thomson Reuters)",
+    "MSFT",
+    "Cybersecurity firms (e.g., Palo Alto Networks, Symantec)"
   ],
   "downstream": [
-    "Retail customers",
-    "Small businesses",
-    "Large corporations",
-    "Institutional investors",
-    "Government agencies"
+    "Retail banking customers",
+    "Corporate banking clients",
+    "Mortgage borrowers",
+    "Credit card holders",
+    "Wealth management clients"
   ],
   "competitors": [
     "JPMorgan Chase",
@@ -25,13 +25,13 @@
     "Morgan Stanley"
   ],
   "key_products": [
-    "Consumer banking",
-    "Corporate banking",
-    "Investment banking",
-    "Wealth management",
-    "Credit cards"
+    "Checking accounts",
+    "Savings accounts",
+    "Mortgages",
+    "Credit cards",
+    "Investment banking services"
   ],
-  "extracted_at": "2026-03-12 16:54:10",
+  "extracted_at": "2026-03-13 16:35:57",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/BAC-Suppliers",
-      "query": "Bank of America Corporation suppliers manufacturers",
-      "snippet": "Feb 26, 2026 · For your research, we’ve provided nine additional tables on Bank Of America Corporation ’ s suppliers . You can find them in the naviga"
-    },
-    {
-      "source": "DuckDuckGo",
       "url": "https://about.bankofamerica.com/en/our-company/supplier-management",
       "query": "Bank of America Corporation suppliers manufacturers",
       "snippet": "Bank of America is dedicated to partnering with suppliers who value ethics, inclusion, human rights, and the environment. Learn more about our supplie"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Bank_of_America",
-      "query": "Bank of America Corporation major customers clients",
-      "snippet": "It serves about 10 percent of all American bank deposits, in direct competition with JPMorgan Chase, Citigroup, and Wells Fargo. Its primary financial"
+      "url": "https://csimarket.com/stocks/BAC-Suppliers",
+      "query": "Bank of America Corporation suppliers manufacturers",
+      "snippet": "Feb 26, 2026 · For your research, we’ve provided nine additional tables on Bank Of America Corporation ’ s suppliers . You can find them in the naviga"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://newsroom.bankofamerica.com/content/newsroom/company-overview/bank-of-america-fast-facts.html",
       "query": "Bank of America Corporation major customers clients",
-      "snippet": "We serve approximately 70 million clients, institutional investor, medium and large corporate clients globally."
+      "snippet": "Feb 24, 2026 · Explore Bank of America Fast Facts for key insights on our global presence, financial services, client reach, and commitment to respons"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/BAC-Customers",
+      "query": "Bank of America Corporation major customers clients",
+      "snippet": "Mar 6, 2026 · For your research, we’ve provided 9 tables on Bank Of America Corporation corporate clients . You can find them in the navigation menu u"
     }
   ]
 }

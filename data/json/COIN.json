@@ -4,34 +4,34 @@
   "sector": "Financial Services",
   "industry": "Financial Data & Stock Exchanges",
   "upstream": [
+    "AMZN",
     "MSFT",
-    "Security and compliance vendors (e.g., Symantec, Palo Alto Networks)",
-    "Blockchain infrastructure and node operators",
-    "Payment processing partners (e.g., Stripe, PayPal)",
-    "Hardware manufacturers (e.g., ASIC miners, secure key storage devices)"
+    "GOOGL",
+    "Stripe",
+    "PayPal"
   ],
   "downstream": [
-    "Retail cryptocurrency investors",
-    "Institutional traders and asset managers",
-    "DeFi projects and token issuers",
-    "Crypto payment merchants",
-    "Financial technology startups"
+    "Retail investors",
+    "Institutional investors",
+    "Hedge funds",
+    "Crypto traders",
+    "Corporate clients"
   ],
   "competitors": [
     "Binance",
     "Kraken",
     "Gemini",
     "Bitstamp",
-    "FTX (formerly)"
+    "Huobi"
   ],
   "key_products": [
-    "Cryptocurrency trading platform (Coinbase.com)",
-    "Professional trading platform (Coinbase Pro)",
-    "Custodial wallet services (Coinbase Custody)",
-    "Earn program for learning and earning crypto (Coinbase Earn)",
-    "Crypto debit card (Coinbase Card)"
+    "Coinbase Pro",
+    "Coinbase Wallet",
+    "Coinbase Earn",
+    "Coinbase Custody",
+    "Coinbase Prime"
   ],
-  "extracted_at": "2026-03-12 16:56:04",
+  "extracted_at": "2026-03-13 16:31:30",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.coinbase.com/vendors/vendors-at-coinbase",
-      "query": "Coinbase Global, Inc. suppliers manufacturers",
-      "snippet": "Getting started as a Coinbase Vendor. Procurement guidelines & policies to streamline the vendor experience. Missing: Inc. | Show results with: Inc."
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.coinbase.com/public-policy/advocacy/documents/blockchain-and-supply-chain",
-      "query": "Coinbase Global, Inc. suppliers manufacturers",
-      "snippet": "All parties involved, including manufacturers, suppliers, and retailers, can access the same up-to-date data, eliminating discrepancies and creating a"
-    },
-    {
-      "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Coinbase",
-      "query": "Coinbase Global, Inc. major customers clients",
-      "snippet": "Coinbase has over 100 million users, [7] and is the largest US based cryptocurrency exchange as well as the world's biggest bitcoin custodian."
+      "query": "Coinbase Global, Inc. suppliers manufacturers",
+      "snippet": "Coinbase Global , Inc . is an American cryptocurrency exchange. It was founded in 2012 by Brian Armstrong and Fred Ehrsam."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.businessofapps.com/data/coinbase-statistics/",
+      "url": "https://ru.wikipedia.org/wiki/Coinbase",
+      "query": "Coinbase Global, Inc. suppliers manufacturers",
+      "snippet": "Coinbase Global , Inc . (бренд Coinbase ) — американская публичная компания, которая управляет онлайн-сервисом обмена цифровых валют (биржей криптовал"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.demandsage.com/coinbase-users-statistics/",
       "query": "Coinbase Global, Inc. major customers clients",
-      "snippet": "Jan 7, 2026 · Coinbase has 105 million users worldwide and 10.8 million people actively exchange every month; Coinbase valuation skyrocketed in 2024 a"
+      "snippet": "Aug 13, 2025 · Coinbase ’s user base stands at around 120 million, meaning it serves about 19.45% of all global cryptocurrency users. This makes Coinb"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/COIN-Customers",
+      "query": "Coinbase Global, Inc. major customers clients",
+      "snippet": "Coinbase Global Inc customers and markets, results by customer and performance relative to COIN, by company and industry - CSIMarket"
     }
   ]
 }

@@ -2,17 +2,17 @@
 ticker: ADBE
 company: Adobe Inc.
 sector: Technology
-industry: Software - Application
-extracted_at: 2026-03-12 16:57:09
-last_updated: 2026-03-12
+industry: Application Software
+extracted_at: 2026-03-13 16:30:37
+last_updated: 2026-03-13
 ---
 
 # ADBE - Adobe Inc.
 
 ## 基本信息
 
-- **所属行业**: Technology / Software - Application
-- **提取时间**: 2026-03-12 16:57:09
+- **所属行业**: Technology / Application Software
+- **提取时间**: 2026-03-13 16:30:37
 
 ## 产业链关系
 
@@ -26,32 +26,32 @@ last_updated: 2026-03-12
 ### 下游客户
 - [[ADBE]]
 - [[ADBE]]
-- [[ADBE]]
-- [[ADBE]]
-- [[ADBE]]
+- [[Media and entertainment companies (Disney, Warner Bros)]]
+- [[Advertising agencies (WPP, Omnicom)]]
+- [[Publishers (Penguin Random House)]]
 
 ### 竞争对手
-- [[Autodesk]]
-- [[Avid Technology]]
-- [[AAPL]]
 - [[MSFT]]
-- [[GOOGL]]
+- [[Autodesk]]
+- [[Corel]]
+- [[AAPL]]
+- [[Avid]]
 
 ### 核心产品
 - [[Adobe Photoshop]]
 - [[Adobe Illustrator]]
-- [[Adobe Premiere Pro]]
 - [[Adobe Acrobat]]
+- [[Adobe Premiere Pro]]
 - [[Adobe After Effects]]
 
 ## 数据来源
 
 - [Adobe Inc.](https://en.wikipedia.org/wiki/Adobe_Inc.)
-- [Adobe Inc. suppliers manufacturers](https://www.adobe.com/procurement.html)
-- [Adobe Inc. suppliers manufacturers](https://csimarket.com/stocks/ADBE-Suppliers)
-- [Adobe Inc. major customers clients](https://en.wikipedia.org/wiki/Adobe_Inc.)
-- [Adobe Inc. major customers clients](https://www.adobe.com/)
+- [Adobe Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/Adobe_Inc.)
+- [Adobe Inc. suppliers manufacturers](https://santanadobe.com/)
+- [Adobe Inc. major customers clients](https://www.aventionmedia.com/technology-installed-base/adobe/)
+- [Adobe Inc. major customers clients](https://www.appsruntheworld.com/customers-database/vendors/view/adobe-systems)
 
 ## 元数据
 
-- **更新日期**: 2026-03-12
+- **更新日期**: 2026-03-13

@@ -4,24 +4,24 @@
   "sector": "Technology",
   "industry": "Consumer Electronics",
   "upstream": [
-    "Foxconn (Hon Hai Precision Industry)",
+    "Foxconn",
     "Pegatron",
-    "Wistron",
     "TSM",
-    "005930.KS"
+    "005930.KS",
+    "LG Display"
   ],
   "downstream": [
+    "Retail customers (individual consumers)",
+    "Enterprise customers (businesses and institutions)",
     "AAPL",
-    "AAPL",
-    "Verizon",
-    "AT&T",
-    "T-Mobile"
+    "Best Buy",
+    "AMZN"
   ],
   "competitors": [
     "005930.KS",
     "GOOGL",
     "MSFT",
-    "SONY",
+    "AMZN",
     "Huawei"
   ],
   "key_products": [
@@ -29,9 +29,9 @@
     "iPad",
     "Mac",
     "Apple Watch",
-    "AirPods"
+    "Apple Services (iCloud, Apple Music, App Store)"
   ],
-  "extracted_at": "2026-03-12 16:51:20",
+  "extracted_at": "2026-03-13 16:30:21",
   "sources": [
     {
       "source": "Wikipedia",
@@ -53,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.statista.com/topics/4753/apple-products-in-the-us/?srsltid=AfmBOoqaaAx9fGPAt-E9Hti2wXenPpxoJ_tNnyTcvjyuDPq18yK_-KnV",
+      "url": "https://en.wikipedia.org/wiki/Apple_Inc.",
       "query": "Apple Inc. major customers clients",
-      "snippet": "Feb 12, 2026 · The company's domestic presence remains formidable, with over 270 stores across the United States, offering customers the full range of"
+      "snippet": "Apple Inc . is an American multinational technology company headquartered in Cupertino, California, in Silicon Valley, best known for its consumer ele"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.start.io/blog/apple-target-market-analysis-apple-demographics-marketing-strategy-competitors/",
+      "url": "https://www.apple.com/",
       "query": "Apple Inc. major customers clients",
-      "snippet": "Aug 14, 2024 · The Apple target market includes mainly younger to middle aged consumers, and the brand is more popular among women than men. Missing: "
+      "snippet": "Neither Apple Inc . nor Apple Payments Services LLC is a bank. All communications from Apple and Goldman Sachs Bank USA about Apple Card (including tr"
     }
   ]
 }

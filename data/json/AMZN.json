@@ -4,34 +4,34 @@
   "sector": "Consumer Cyclical",
   "industry": "Internet Retail",
   "upstream": [
-    "INTC",
-    "AMD",
-    "NVDA",
-    "UPS",
-    "FedEx"
+    "Book publishers",
+    "AAPL",
+    "Apparel manufacturers",
+    "Third‑party sellers",
+    "Logistics partners (UPS, FedEx)"
   ],
   "downstream": [
-    "Retail consumers",
-    "Prime members",
-    "Business customers (AWS)",
-    "Third‑party sellers",
-    "Prime Video subscribers"
+    "AMZN",
+    "AMZN",
+    "AMZN",
+    "AMZN",
+    "AMZN"
   ],
   "competitors": [
+    "eBay",
     "Walmart",
     "Alibaba",
-    "eBay",
     "Shopify",
-    "MSFT"
+    "Target"
   ],
   "key_products": [
     "Amazon.com e‑commerce platform",
-    "Amazon Web Services",
-    "Amazon Prime Video",
-    "Amazon Kindle",
-    "Amazon Echo/Alexa"
+    "Amazon Prime subscription",
+    "Amazon Web Services (AWS)",
+    "Amazon Kindle e‑reader",
+    "Amazon Echo (Alexa) smart speaker"
   ],
-  "extracted_at": "2026-03-12 16:51:11",
+  "extracted_at": "2026-03-13 16:30:09",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,15 +41,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ir.aboutamazon.com/",
+      "url": "https://en.wikipedia.org/wiki/Amazon_(company)",
       "query": "Amazon.com, Inc. suppliers manufacturers",
-      "snippet": "Amazon . com , Inc . (NASDAQ: AMZN) today announced financial results for its second quarter ended June 30, 2025. Net sales increased 13% to $167.7 bi"
+      "snippet": "19 hours ago - The company's localized storefronts, which differ in selection and prices, are differentiated by top-level domain and country code: In "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.alibaba.com/",
+      "url": "https://suppliercentral.amazon.com/",
       "query": "Amazon.com, Inc. suppliers manufacturers",
-      "snippet": "Find quality Manufacturers , Suppliers , Exporters, Importers, Buyers, Wholesalers, Products and Trade Leads from our award-winning International Trad"
+      "snippet": "Amazon is committed to helping our suppliers be more effective in making amazing products. Please contact your Amazon partner for an invitation. Impro"
     },
     {
       "source": "DuckDuckGo",
@@ -61,7 +61,7 @@
       "source": "DuckDuckGo",
       "url": "https://csimarket.com/stocks/AMZN-Customers",
       "query": "Amazon.com, Inc. major customers clients",
-      "snippet": "Updated on: Thursday, March 5, 2026 10:31 PM Focus of this report: Amazon com Inc ’s corporate clients . For your research, we’ve provided 9 tables on"
+      "snippet": "Mar 5, 2026 · Updated on: Thursday, March 5, 2026 10:31 PM Focus of this report: Amazon com Inc ’s corporate clients . For your research, we’ve provid"
     }
   ]
 }

@@ -5,15 +5,15 @@
   "industry": "Semiconductors",
   "upstream": [
     "TSM",
-    "005930.KS",
     "GlobalFoundries",
+    "005930.KS",
     "UMC",
     "Tower Semiconductor"
   ],
   "downstream": [
     "DELL",
     "HPQ",
-    "Lenovo Group",
+    "Lenovo",
     "MSFT",
     "SONY"
   ],
@@ -21,17 +21,17 @@
     "INTC",
     "NVDA",
     "QCOM",
-    "AVGO",
-    "ARM Holdings"
+    "AAPL",
+    "AVGO"
   ],
   "key_products": [
     "Ryzen CPUs",
-    "EPYC server CPUs",
+    "EPYC Servers",
     "Radeon GPUs",
-    "Radeon Instinct accelerators",
-    "Xilinx FPGAs"
+    "Radeon Instinct Accelerators",
+    "AMD GPUs for gaming consoles"
   ],
-  "extracted_at": "2026-03-12 16:51:35",
+  "extracted_at": "2026-03-13 16:30:29",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,21 +47,21 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://pcxco.com/electronic-components-manufacturers/Advanced-Micro-Devices?srsltid=AfmBOoqN9_3cbT5n5Dj0TMksnobnuZe3aKmYn1ASAqxCnUsHLLx59Vlv",
+      "url": "https://amdmanufacturing.com/",
       "query": "Advanced Micro Devices, Inc. suppliers manufacturers",
-      "snippet": "Advanced Micro Devices, also known as AMD, is a leading global provider of innovative processing solutions in the computing, graphics, and visualizati"
+      "snippet": "AMD Manufacturing Inc. is a major supplier of Advantec, GVS and other fine purveyors of filtration products. Our goal is to be the largest supplier of"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/AMD",
+      "url": "https://csimarket.com/stocks/AMD-Customers",
       "query": "Advanced Micro Devices, Inc. major customers clients",
-      "snippet": "AMD serves a wide range of business and consumer markets, including personal computers (PCs), gaming, data centers, and embedded systems. Advanced Mic"
+      "snippet": "Advanced Micro Devices Inc customers and markets, results by customer and performance relative to AMD, by company and industry - CSIMarket"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://matrixbcg.com/blogs/target-market/amd",
+      "url": "https://ir.amd.com/financial-information/sec-filings/content/0001193125-25-067185/0001193125-25-067185.pdf",
       "query": "Advanced Micro Devices, Inc. major customers clients",
-      "snippet": "Sep 8, 2025 · AMD's customer base is diverse, spanning individual consumers, businesses, and data centers. Key segments include PC gamers and creators"
+      "snippet": "With our high-performance product portfolios, we deliver differentiated solutions, such as our semi-custom System-on-Chip (SoCs), Adaptive SoCs, and a"
     }
   ]
 }

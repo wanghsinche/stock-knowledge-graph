@@ -1,37 +1,33 @@
 {
   "ticker": "MSTR",
-  "company_name": "MicroStrategy Incorporated",
+  "company_name": "Strategy Inc",
   "sector": "Technology",
   "industry": "Software - Application",
   "upstream": [
-    "DELL",
-    "HPQ",
-    "IBM",
-    "AMZN",
-    "MSFT"
+    "Strategy One",
+    "Strategy Inc Ltd."
   ],
   "downstream": [
-    "Bank of America",
-    "JPMorgan Chase",
-    "Walmart",
-    "AT&T",
-    "UnitedHealth Group"
+    "Healthcare organizations",
+    "Financial institutions",
+    "Retail companies",
+    "Government agencies"
   ],
   "competitors": [
-    "Tableau Software",
-    "Qlik Technologies",
-    "MSFT",
-    "SAP BusinessObjects",
-    "ORCL"
+    "Tableau",
+    "Power BI",
+    "Qlik",
+    "Looker",
+    "Sisense"
   ],
   "key_products": [
-    "MicroStrategy Analytics",
-    "MicroStrategy Desktop",
+    "MicroStrategy Analytics Platform",
     "MicroStrategy Mobile",
     "MicroStrategy Cloud",
-    "MicroStrategy Data Warehouse"
+    "MicroStrategy Data Governance",
+    "MicroStrategy Data Visualization"
   ],
-  "extracted_at": "2026-03-12 16:54:26",
+  "extracted_at": "2026-03-13 16:30:46",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,21 +37,21 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Supply_chain",
+      "url": "https://www.strategy.com/software/blog/how-manufacturers-are-solving-supply-chain-chaos-with-smart-bi",
       "query": "Strategy Inc suppliers manufacturers",
-      "snippet": "A typical supply chain can be divided into two stages namely, production and distribution stages. In the production stage, components and semi-finishe"
+      "snippet": "Discover how manufacturers are tackling supply chain chaos with Strategy One. Learn how AI-driven insights and real-time data can transform operations"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.inc.com/",
+      "url": "https://www.developmentaid.org/organizations/view/129475/strategy-inc-ltd",
       "query": "Strategy Inc suppliers manufacturers",
-      "snippet": "Inc . media is the entrepreneurs source for ideas, resources and advice on how to successfully start, run and grow your business.Practical advice and "
+      "snippet": "Strategy Inc Ltd. — Supplier / manufacturer from India, has experience with World Bank HQ, it`s involved in Furniture & Office Supplies sector."
     },
     {
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/MicroStrategy",
       "query": "Strategy Inc major customers clients",
-      "snippet": "Strategy Inc., formerly known as MicroStrategy, is an American company that provides business intelligence (BI) and mobile software."
+      "snippet": "Strategy Inc., formerly known as MicroStrategy, is an American company that provides business intelligence (BI) and mobile software. Founded in 1989 b"
     },
     {
       "source": "DuckDuckGo",

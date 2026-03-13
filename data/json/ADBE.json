@@ -2,7 +2,7 @@
   "ticker": "ADBE",
   "company_name": "Adobe Inc.",
   "sector": "Technology",
-  "industry": "Software - Application",
+  "industry": "Application Software",
   "upstream": [
     "INTC",
     "AMD",
@@ -13,25 +13,25 @@
   "downstream": [
     "ADBE",
     "ADBE",
-    "ADBE",
-    "ADBE",
-    "ADBE"
+    "Media and entertainment companies (Disney, Warner Bros)",
+    "Advertising agencies (WPP, Omnicom)",
+    "Publishers (Penguin Random House)"
   ],
   "competitors": [
-    "Autodesk",
-    "Avid Technology",
-    "AAPL",
     "MSFT",
-    "GOOGL"
+    "Autodesk",
+    "Corel",
+    "AAPL",
+    "Avid"
   ],
   "key_products": [
     "Adobe Photoshop",
     "Adobe Illustrator",
-    "Adobe Premiere Pro",
     "Adobe Acrobat",
+    "Adobe Premiere Pro",
     "Adobe After Effects"
   ],
-  "extracted_at": "2026-03-12 16:57:09",
+  "extracted_at": "2026-03-13 16:30:37",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.adobe.com/procurement.html",
-      "query": "Adobe Inc. suppliers manufacturers",
-      "snippet": "Adobe aims at building long-term business partnerships with a select group of suppliers that share our commitment to delivering the highest quality pr"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/ADBE-Suppliers",
-      "query": "Adobe Inc. suppliers manufacturers",
-      "snippet": "Jan 22, 2026 · For your research, we’ve provided nine additional tables on Adobe Inc ’ s suppliers . You can find them in the navigation menu under Su"
-    },
-    {
-      "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Adobe_Inc.",
-      "query": "Adobe Inc. major customers clients",
-      "snippet": "Adobe Systems Incorporated (1982–2018). Company type.As of 2022,[update] Adobe had more than 26,000 employees worldwide.[4] Adobe also has major devel"
+      "query": "Adobe Inc. suppliers manufacturers",
+      "snippet": "Adobe Inc. (/əˈdoʊbi/ ə-DOH-bee), formerly Adobe Systems Incorporated, is an American multinational computer software company based in San Jose, Calif"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.adobe.com/",
+      "url": "https://santanadobe.com/",
+      "query": "Adobe Inc. suppliers manufacturers",
+      "snippet": "While boasting the most modern adobe manufacturing equipment to date, San Tan has the ability to produce 20,000 Adobe per day."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.aventionmedia.com/technology-installed-base/adobe/",
       "query": "Adobe Inc. major customers clients",
-      "snippet": "Adobe is changing the world through digital experiences. We help our customers create, deliver and optimize content and applications. Adobe Firefly. G"
+      "snippet": "Who are Adobe's biggest customers? Some of Adobe's biggest customers list is inclusive of: Walmart; Apple; Autodesk and more. Missing: Inc. major"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.appsruntheworld.com/customers-database/vendors/view/adobe-systems",
+      "query": "Adobe Inc. major customers clients",
+      "snippet": "List of companies using or evaluating Adobe Systems applications, with details on their revenues, employees, industries, and locations. Missing: major"
     }
   ]
 }

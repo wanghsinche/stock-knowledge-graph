@@ -5,33 +5,33 @@
   "industry": "Semiconductors",
   "upstream": [
     "TSM",
-    "AMAT",
-    "Raw material suppliers (e.g., silicon wafer producers)",
-    "MU",
-    "Packaging and testing service providers"
+    "005930.KS",
+    "GlobalFoundries",
+    "INTC",
+    "MU"
   ],
   "downstream": [
-    "MSFT",
-    "CSCO",
-    "Broadband service providers (e.g., AT&T, Verizon)",
     "AAPL",
-    "DELL"
+    "CSCO",
+    "Huawei",
+    "DELL",
+    "MSFT"
   ],
   "competitors": [
-    "QCOM",
     "INTC",
+    "QCOM",
     "NVDA",
-    "TXN",
+    "MRVL",
     "MediaTek"
   ],
   "key_products": [
-    "Networking ASICs",
-    "Broadband and wireless chips",
-    "Data center processors",
-    "Storage controller chips",
-    "Infrastructure software solutions"
+    "Broadcom Wi‑Fi chips",
+    "Broadcom Ethernet controllers",
+    "Broadcom storage controllers",
+    "Broadcom security solutions",
+    "Broadcom infrastructure software"
   ],
-  "extracted_at": "2026-03-12 16:51:42",
+  "extracted_at": "2026-03-13 16:29:48",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,25 +43,25 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Broadcom",
       "query": "Broadcom Inc. suppliers manufacturers",
-      "snippet": "Broadcom Inc . is an American multinational designer, developer, manufacturer , and global supplier of a wide range of semiconductor and infrastructur"
+      "snippet": "Broadcom Inc. is an American multinational designer, developer, manufacturer, and global supplier of a wide range of semiconductor and infrastructure "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.broadcom.com/",
+      "url": "https://www.broadcom.com/products",
       "query": "Broadcom Inc. suppliers manufacturers",
-      "snippet": "Broadcom delivers semiconductors and infrastructure software for global enterprises’ most complex, mission-critical needs.All Rights Reserved. The ter"
+      "snippet": "Broadcom is a worldwide leading provider of solutions for wireless LAN infrastructure, developing SoC solutions for 802.11 Wi-Fi routers, service prov"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Broadcom",
       "query": "Broadcom Inc. major customers clients",
-      "snippet": "Broadcom Inc. is an American multinational designer, developer, manufacturer, and global supplier of a wide range of semiconductor and infrastructure "
+      "snippet": "1 week ago - Broadcom also offers products for supporting BizOps, including: ... Broadcom uses the term XPU to refer to custom ASIC chips developed in"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/news/broadcom-10b-mystery-customer-underscores-103000515.html",
+      "url": "https://www.appsruntheworld.com/customers-database/vendors/view/broadcom",
       "query": "Broadcom Inc. major customers clients",
-      "snippet": "Oct 14, 2025 · Broadcom is tight-lipped about its client list, but analysts believe its three biggest customers are Google, Meta and TikTok-parent Byt"
+      "snippet": "2 weeks ago - The most widely adopted products are Broadcom Symantec Secure Web Gateway, AppWorx Workload Automation, Broadcom Symantec Endpoint Prote"
     }
   ]
 }

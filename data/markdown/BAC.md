@@ -3,8 +3,8 @@ ticker: BAC
 company: Bank of America Corporation
 sector: Financial Services
 industry: Banks - Diversified
-extracted_at: 2026-03-12 16:54:10
-last_updated: 2026-03-12
+extracted_at: 2026-03-13 16:35:57
+last_updated: 2026-03-13
 ---
 
 # BAC - Bank of America Corporation
@@ -12,23 +12,23 @@ last_updated: 2026-03-12
 ## 基本信息
 
 - **所属行业**: Financial Services / Banks - Diversified
-- **提取时间**: 2026-03-12 16:54:10
+- **提取时间**: 2026-03-13 16:35:57
 
 ## 产业链关系
 
 ### 上游供应商
 - [[MSFT]]
-- [[ORCL]]
-- [[AMZN]]
-- [[DELL]]
-- [[AT&T]]
+- [[Payment processors (e.g., Visa, Mastercard)]]
+- [[Data providers (e.g., Bloomberg, Thomson Reuters)]]
+- [[MSFT]]
+- [[Cybersecurity firms (e.g., Palo Alto Networks, Symantec)]]
 
 ### 下游客户
-- [[Retail customers]]
-- [[Small businesses]]
-- [[Large corporations]]
-- [[Institutional investors]]
-- [[Government agencies]]
+- [[Retail banking customers]]
+- [[Corporate banking clients]]
+- [[Mortgage borrowers]]
+- [[Credit card holders]]
+- [[Wealth management clients]]
 
 ### 竞争对手
 - [[JPMorgan Chase]]
@@ -38,20 +38,20 @@ last_updated: 2026-03-12
 - [[Morgan Stanley]]
 
 ### 核心产品
-- [[Consumer banking]]
-- [[Corporate banking]]
-- [[Investment banking]]
-- [[Wealth management]]
+- [[Checking accounts]]
+- [[Savings accounts]]
+- [[Mortgages]]
 - [[Credit cards]]
+- [[Investment banking services]]
 
 ## 数据来源
 
 - [Bank of America](https://en.wikipedia.org/wiki/Bank_of_America_Corporation)
-- [Bank of America Corporation suppliers manufacturers](https://csimarket.com/stocks/BAC-Suppliers)
 - [Bank of America Corporation suppliers manufacturers](https://about.bankofamerica.com/en/our-company/supplier-management)
-- [Bank of America Corporation major customers clients](https://en.wikipedia.org/wiki/Bank_of_America)
+- [Bank of America Corporation suppliers manufacturers](https://csimarket.com/stocks/BAC-Suppliers)
 - [Bank of America Corporation major customers clients](https://newsroom.bankofamerica.com/content/newsroom/company-overview/bank-of-america-fast-facts.html)
+- [Bank of America Corporation major customers clients](https://csimarket.com/stocks/BAC-Customers)
 
 ## 元数据
 
-- **更新日期**: 2026-03-12
+- **更新日期**: 2026-03-13

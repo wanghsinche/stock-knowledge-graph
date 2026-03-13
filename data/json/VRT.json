@@ -1,37 +1,37 @@
 {
   "ticker": "VRT",
   "company_name": "Vertiv Holdings Co",
-  "sector": "Industrials / Electrical Equipment & Parts",
+  "sector": "Industrials",
   "industry": "Electrical Equipment & Parts",
   "upstream": [
-    "Capitol Refrigeration Industries",
-    "Crown Cooling Systems",
     "Schneider Electric",
+    "Eaton",
     "ABB",
-    "Vertiv MegaMod HDX components"
+    "Siemens",
+    "Rittal"
   ],
   "downstream": [
-    "Equinix",
-    "Digital Realty",
     "AMZN",
+    "GOOGL",
     "MSFT",
-    "GOOGL"
+    "AT&T",
+    "Verizon"
   ],
   "competitors": [
     "Schneider Electric",
+    "Eaton",
     "ABB",
-    "CSCO",
-    "HPQ",
-    "DELL"
+    "Siemens",
+    "Rittal"
   ],
   "key_products": [
-    "Vertiv MegaMod HDX",
-    "Vertiv Power Distribution Units",
-    "Vertiv Cooling Solutions",
-    "Vertiv Data Center Infrastructure",
-    "Vertiv Network Infrastructure"
+    "Power Distribution Units (PDUs)",
+    "Uninterruptible Power Supplies (UPS)",
+    "Data Center Cooling Systems",
+    "Rack-Mount Power Distribution",
+    "Data Center Infrastructure Management (DCIM) Software"
   ],
-  "extracted_at": "2026-03-12 16:54:19",
+  "extracted_at": "2026-03-13 16:34:30",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Vertiv",
+      "url": "https://partners.vertiv.com/English/directory",
       "query": "Vertiv Holdings Co suppliers manufacturers",
-      "snippet": "Vertiv Holdings Co . Formerly. Capitol Refrigeration Industries (1946–1965).Headquartered in Westerville, Ohio, Vertiv has ~31,000 employees worldwide"
+      "snippet": "Information and Product Security. Report a Security Concern. Corporate. About Vertiv ."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.vertiv.com/en-us/",
+      "url": "https://elioplus.com/profile/channel-partners/vertiv",
       "query": "Vertiv Holdings Co suppliers manufacturers",
-      "snippet": "The Vertiv ™ MegaMod™ HDX is a next-generation infrastructure solution engineered to meet challenges driven by rapidly evolving digital landscape— the"
+      "snippet": "Find in the list below a Vertiv reseller or a channel partner that are currently on our platform. You can locate the Vertiv partners based on their co"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Vertiv",
+      "url": "https://vertiv.com/",
       "query": "Vertiv Holdings Co major customers clients",
-      "snippet": "Vertiv is an American provider of infrastructure and services for data centers, communication networks, and commercial and industrial environments. Hi"
+      "snippet": "Vertiv Holdings Co ."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.vertiv.com/en-emea/solutions/success-stories/",
+      "url": "https://www.nasdaq.com/articles/bull-of-the-day:-vertiv-holdings-co-vrt-0",
       "query": "Vertiv Holdings Co major customers clients",
-      "snippet": "Case Studies. Vertiv supports development of major Nigerian data centre. Missing: Holdings | Show results with: Holdings"
+      "snippet": "Vertiv Holdings Co (VRT) stock has doubled Nvidia over the last 12 months, driven by Wall Street’s insatiable appetite for AI-boosted growth."
     }
   ]
 }

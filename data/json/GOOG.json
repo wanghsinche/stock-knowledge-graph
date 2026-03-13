@@ -5,33 +5,33 @@
   "industry": "Internet Content & Information",
   "upstream": [
     "INTC",
-    "NVDA",
     "QCOM",
     "005930.KS",
-    "TSM"
+    "TSM",
+    "NVDA"
   ],
   "downstream": [
     "Advertisers",
-    "Android device manufacturers",
+    "App developers",
     "GOOGL",
-    "YouTube creators",
-    "App developers"
+    "YouTube viewers",
+    "GOOGL"
   ],
   "competitors": [
-    "META",
-    "AMZN",
     "MSFT",
+    "AMZN",
+    "META",
     "AAPL",
     "Tencent"
   ],
   "key_products": [
     "Google Search",
+    "Android OS",
     "YouTube",
-    "Android",
-    "Google Cloud",
+    "Google Cloud Platform",
     "Google Ads"
   ],
-  "extracted_at": "2026-03-12 16:52:29",
+  "extracted_at": "2026-03-13 16:31:09",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,25 +43,25 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Alphabet_Inc.",
       "query": "Alphabet Inc. suppliers manufacturers",
-      "snippet": "Alphabet Inc. is an American multinational technology conglomerate holding company headquartered in Mountain View, California."
+      "snippet": "Alphabet Inc . has faced numerous legal and ethical controversies, including a 2017 lawsuit against Uber over stolen self-driving technology, a 2020 p"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.thomasnet.com/insights/a-complete-list-of-alphabet-owned-companies/",
+      "url": "https://csimarket.com/stocks/GOOG-Suppliers",
       "query": "Alphabet Inc. suppliers manufacturers",
-      "snippet": "7 days ago · Today, Alphabet is separated into three major segments: Google Services, Google Cloud, and Other Bets. It is the fourth-largest company i"
+      "snippet": "Feb 6, 2026 · Alphabet Inc supply chain, list and performance of Alphabet Incs ' suppliers - CSIMarket"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Alphabet_Inc.",
       "query": "Alphabet Inc. major customers clients",
-      "snippet": "Google, Internet services, largest subsidiary and prior corporate entity name, Sundar Pichai ; Google Fiber, Internet access: via fiber, Dinesh Jain ;"
+      "snippet": "Alphabet is the world's second-largest technology company by revenue, after Nvidia, the largest technology company by profit, and one of the world's m"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://portersfiveforce.com/blogs/target-market/abc",
+      "url": "https://matrixbcg.com/blogs/target-market/abc",
       "query": "Alphabet Inc. major customers clients",
-      "snippet": "Nov 10, 2025 · This is Alphabet's primary revenue driver, consisting of over 10 million advertisers and Google Cloud Platform clients. GCP achieved 28"
+      "snippet": "5 days ago · Customer demographics include global users aged 18–65+, advertisers focused on ROI, enterprises adopting Google Cloud, and developers bui"
     }
   ]
 }

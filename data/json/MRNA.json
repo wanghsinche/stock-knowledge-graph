@@ -4,34 +4,34 @@
   "sector": "Healthcare",
   "industry": "Biotechnology",
   "upstream": [
-    "Nucleic acid suppliers",
-    "Lipid nanoparticle manufacturers",
     "Cell culture media suppliers",
-    "Plasmid DNA providers",
-    "GMP contract manufacturing organizations"
+    "Enzyme and reagent manufacturers",
+    "Lipid nanoparticle producers",
+    "RNA synthesis providers",
+    "Raw material suppliers for mRNA production"
   ],
   "downstream": [
     "U.S. Department of Health and Human Services",
-    "Centers for Disease Control and Prevention",
-    "World Health Organization",
-    "European Medicines Agency",
-    "National health ministries"
+    "Centers for Disease Control and Prevention (CDC)",
+    "Global health organizations (e.g., WHO)",
+    "Pharmaceutical distributors",
+    "Healthcare providers and hospitals"
   ],
   "competitors": [
-    "Pfizer",
     "BioNTech",
+    "Pfizer",
+    "AstraZeneca",
     "Johnson & Johnson",
-    "Novavax",
-    "CureVac"
+    "Novavax"
   ],
   "key_products": [
-    "mRNA‑1273 (COVID‑19 vaccine)",
-    "mRNA‑4157 (cancer vaccine)",
-    "mRNA‑3704 (influenza vaccine)",
-    "mRNA‑1345 (influenza vaccine)",
-    "mRNA‑1273.222 (bivalent COVID‑19 vaccine)"
+    "mRNA-1273 (COVID‑19 vaccine)",
+    "mRNA-1273.214 (bivalent COVID‑19 vaccine)",
+    "mRNA-4157 (cancer vaccine)",
+    "mRNA-1245 (influenza vaccine)",
+    "mRNA-1273.222 (updated COVID‑19 vaccine)"
   ],
-  "extracted_at": "2026-03-12 16:57:25",
+  "extracted_at": "2026-03-13 16:37:40",
   "sources": [
     {
       "source": "Wikipedia",
@@ -53,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://investors.modernatx.com/",
+      "url": "https://en.wikipedia.org/wiki/Moderna",
       "query": "Moderna, Inc. major customers clients",
-      "snippet": "- Moderna ’s Pipeline: Development Programs. Click here to learn more."
+      "snippet": "Moderna, Inc is an American pharmaceutical and biotechnology company based in Cambridge, Massachusetts, that focuses on RNA therapeutics, primarily mR"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.marketresearch.com/GlobalData-v3648/Moderna-MRNA-Financial-Strategic-SWOT-42027160/",
+      "url": "https://matrixbcg.com/blogs/target-market/moderna",
       "query": "Moderna, Inc. major customers clients",
-      "snippet": "Moderna Inc ( Moderna ) is a biotechnology company that focuses on the development of messenger RNA (mRNA) therapeutics and vaccines. The company deve"
+      "snippet": "Jul 28, 2025 · Moderna's primary customer base for mRNA therapeutics extends beyond infectious disease prevention to include patients and healthcare p"
     }
   ]
 }

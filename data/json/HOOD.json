@@ -2,36 +2,36 @@
   "ticker": "HOOD",
   "company_name": "Robinhood Markets, Inc.",
   "sector": "Financial Services / Capital Markets",
-  "industry": "Online Brokerage / Retail Trading Platform",
+  "industry": "Online Brokerage / Fintech",
   "upstream": [
     "AMZN",
     "MSFT",
     "Bloomberg L.P. (financial data)",
-    "Refinitiv (market data)",
-    "Stripe (payment processing)"
+    "Stripe Inc. (payment processing)",
+    "PayPal Holdings Inc. (payment processing)"
   ],
   "downstream": [
-    "Retail investors",
-    "Day traders",
-    "High‑frequency traders",
-    "Institutional clients",
-    "Crypto traders"
+    "Retail investors using the Robinhood app",
+    "Small business owners trading equities",
+    "High‑frequency traders using Robinhood Gold",
+    "Crypto traders via the Robinhood crypto platform",
+    "Institutional clients accessing advanced trading tools"
   ],
   "competitors": [
-    "Charles Schwab",
-    "Fidelity Investments",
-    "TD Ameritrade",
-    "E*TRADE",
-    "Webull"
+    "Webull Holdings Inc.",
+    "eToro Ltd.",
+    "Charles Schwab Corp.",
+    "TD Ameritrade (now part of Charles Schwab)",
+    "Fidelity Investments"
   ],
   "key_products": [
-    "Commission‑free stock trading",
-    "Robinhood Gold (margin and premium features)",
+    "Commission‑free stock and ETF trading",
+    "Robinhood Gold subscription (margin, extended hours, research)",
     "Options trading platform",
-    "Cryptocurrency trading",
-    "Cash management and interest‑earning accounts"
+    "Crypto trading and staking",
+    "Cash Management and debit card services"
   ],
-  "extracted_at": "2026-03-12 16:55:33",
+  "extracted_at": "2026-03-13 16:31:44",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,15 +41,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Robinhood_Markets",
+      "url": "https://csimarket.com/stocks/HOOD-Suppliers",
       "query": "Robinhood Markets, Inc. suppliers manufacturers",
-      "snippet": "Robinhood Markets , Inc . Robinhood Markets , Inc . is an American financial services company based in Menlo Park, California."
+      "snippet": "Feb 28, 2026 · For your research, we’ve provided nine additional tables on Robinhood Markets Inc ’s suppliers . You can find them in the navigation me"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://robinhood.com/",
+      "url": "https://investors.robinhood.com/",
       "query": "Robinhood Markets, Inc. suppliers manufacturers",
-      "snippet": "Trade stocks on Robinhood with commission-free investing & advanced trading tools. Access fractional shares, real-time market data, and more."
+      "snippet": "Jan 31, 2026 · Robinhood Markets , Inc . Investor relations (IR) website contains information about our business for stockholders, potential investors"
     },
     {
       "source": "DuckDuckGo",
@@ -59,9 +59,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://pitchgrade.com/companies/robinhood-markets",
+      "url": "https://robinhood.com/",
       "query": "Robinhood Markets, Inc. major customers clients",
-      "snippet": "Customer Segments: Robinhood Markets , Inc . serves multiple distinct customer segments, which may include consumers, small and medium businesses, ent"
+      "snippet": "Trade stocks on Robinhood with commission-free investing & advanced trading tools. Access fractional shares, real-time market data, and more."
     }
   ]
 }

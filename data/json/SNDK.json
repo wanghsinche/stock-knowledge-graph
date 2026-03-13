@@ -1,37 +1,37 @@
 {
   "ticker": "SNDK",
   "company_name": "Sandisk Corporation",
-  "sector": "Technology / Computer Hardware",
+  "sector": "Technology",
   "industry": "Computer Hardware",
   "upstream": [
-    "MU",
     "005930.KS",
+    "MU",
     "SK Hynix",
-    "Nanya Technology",
-    "Winbond Electronics"
+    "Toshiba",
+    "WDC"
   ],
   "downstream": [
-    "AAPL",
-    "MSFT",
     "DELL",
     "HPQ",
+    "Lenovo",
+    "AAPL",
     "SONY"
   ],
   "competitors": [
     "005930.KS",
     "MU",
-    "WDC",
-    "Crucial",
-    "Kingston Technology"
+    "Kingston",
+    "Lexar",
+    "PNY"
   ],
   "key_products": [
-    "Memory cards",
-    "USB flash drives",
-    "Solid-state drives",
     "SD cards",
-    "MicroSD cards"
+    "microSD cards",
+    "USB flash drives",
+    "solid‑state drives (SSDs)",
+    "USB‑C flash drives"
   ],
-  "extracted_at": "2026-03-12 16:50:49",
+  "extracted_at": "2026-03-13 16:29:29",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,15 +47,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.trustedparts.com/en/manufacturers/sandisk",
+      "url": "https://ru.wikipedia.org/wiki/SanDisk",
       "query": "Sandisk Corporation suppliers manufacturers",
-      "snippet": "SanDisk distributor stock, prices & datasheets from authorized distributors. Search authorized SanDisk inventory. Missing: suppliers | Show results wi"
+      "snippet": "SanDisk Corporation . Изображение логотипа. SanDisk — американская корпорация, занимавшаяся разработкой и производством носителей информации на базе ф"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ru.wikipedia.org/wiki/SanDisk",
+      "url": "https://en.wikipedia.org/wiki/Sandisk",
       "query": "Sandisk Corporation major customers clients",
-      "snippet": "SanDisk Corporation . Изображение логотипа. Тип. SanDisk — американская корпорация, занимавшаяся разработкой и производством носителей информации на б"
+      "snippet": "Sandisk Corporation is an American multinational computer technology company based in Milpitas, California, that designs and manufactures flash memory"
     },
     {
       "source": "DuckDuckGo",

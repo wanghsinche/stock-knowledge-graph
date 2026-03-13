@@ -4,34 +4,34 @@
   "sector": "Technology",
   "industry": "Software - Infrastructure",
   "upstream": [
-    "INTC",
-    "AMD",
-    "CSCO",
     "DELL",
-    "NetApp"
+    "GOOGL",
+    "AMD",
+    "Software component vendors (e.g., Java, Linux distributions)",
+    "CSCO"
   ],
   "downstream": [
-    "Walmart",
-    "JPMorgan Chase",
-    "AT&T",
-    "Bank of America",
-    "UnitedHealth Group"
+    "Large enterprises (e.g., Walmart, JPMorgan Chase)",
+    "Government agencies (e.g., U.S. Department of Defense)",
+    "Financial institutions (e.g., Bank of America, Citigroup)",
+    "Healthcare providers (e.g., UnitedHealth Group)",
+    "AMZN"
   ],
   "competitors": [
     "MSFT",
     "AMZN",
+    "GOOGL",
     "IBM",
-    "SAP",
-    "CRM"
+    "SAP"
   ],
   "key_products": [
     "Oracle Database",
-    "Oracle Cloud Infrastructure",
-    "Oracle Fusion Applications",
+    "Oracle Cloud Infrastructure (OCI)",
     "Oracle Autonomous Database",
-    "Oracle Exadata"
+    "Oracle ERP Cloud",
+    "Oracle Analytics Cloud"
   ],
-  "extracted_at": "2026-03-12 16:51:27",
+  "extracted_at": "2026-03-13 16:30:54",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,15 +41,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Oracle_Corporation",
-      "query": "Oracle Corporation suppliers manufacturers",
-      "snippet": "Oracle Corporation is an American multinational technology company headquartered in Austin, Texas. Co-founded in Santa Clara, California by Bob Miner,"
-    },
-    {
-      "source": "DuckDuckGo",
       "url": "https://www.oracle.com/scm/manufacturing/",
       "query": "Oracle Corporation suppliers manufacturers",
       "snippet": "Oracle Fusion Cloud Manufacturing helps you streamline your global, mixed-mode manufacturing to maximize operational performance."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.oracle.com/il-en/industrial-manufacturing/innovating-with-oracle/",
+      "query": "Oracle Corporation suppliers manufacturers",
+      "snippet": "Oracle solutions for industrial manufacturers provide best-in-class capability in finance, manufacturing, supply chain, logistics, HR and customer exp"
     },
     {
       "source": "DuckDuckGo",

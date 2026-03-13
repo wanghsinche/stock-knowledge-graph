@@ -2,36 +2,36 @@
   "ticker": "UNH",
   "company_name": "UnitedHealth Group Incorporated",
   "sector": "Healthcare",
-  "industry": "Health Insurance / Health Plans",
+  "industry": "Healthcare Plans",
   "upstream": [
+    "Hospitals and health care providers",
     "Pharmaceutical manufacturers",
     "Medical device manufacturers",
     "Health technology vendors",
-    "Pharmacy benefit manager suppliers",
-    "IT and data analytics service providers"
+    "Pharmacy benefit managers"
   ],
   "downstream": [
-    "Medicare beneficiaries",
-    "Medicaid beneficiaries",
-    "Large employer groups",
-    "Individual consumers",
-    "Health care provider networks"
+    "Employers and corporate clients",
+    "Individual policyholders",
+    "Government programs (Medicare, Medicaid)",
+    "Small businesses",
+    "Large corporations"
   ],
   "competitors": [
-    "Anthem",
     "Aetna",
     "Cigna",
     "Humana",
-    "CVS Health"
+    "Blue Cross Blue Shield",
+    "Kaiser Permanente"
   ],
   "key_products": [
-    "UnitedHealthcare commercial insurance plans",
-    "UnitedHealthcare Medicare Advantage plans",
-    "UnitedHealthcare Medicaid plans",
-    "Optum health services (OptumCare, OptumRx, OptumInsight)",
-    "OptumRx pharmacy benefit management"
+    "UnitedHealthcare insurance plans",
+    "Optum health services",
+    "OptumRx pharmacy benefit management",
+    "OptumInsight data analytics",
+    "OptumCare health services"
   ],
-  "extracted_at": "2026-03-12 16:53:54",
+  "extracted_at": "2026-03-13 16:37:24",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.unitedhealthgroup.com/suppliers/information.html",
-      "query": "UnitedHealth Group Incorporated suppliers manufacturers",
-      "snippet": "Information for UnitedHealth Group suppliers , including access to our vendor portal"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/UNH-Suppliers",
-      "query": "UnitedHealth Group Incorporated suppliers manufacturers",
-      "snippet": "For your research, we’ve provided nine additional tables on Unitedhealth Group Incorporated ’s suppliers . You can find them in the navigation menu un"
-    },
-    {
-      "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/UnitedHealth_Group",
-      "query": "UnitedHealth Group Incorporated major customers clients",
+      "query": "UnitedHealth Group Incorporated suppliers manufacturers",
       "snippet": "UnitedHealth Group Incorporated is an American multinational for-profit company based in Eden Prairie, Minnesota specializing in health insurance and "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.unitedhealthgroup.com/uhg/businesses.html",
+      "url": "https://www.unitedhealthgroup.com/suppliers/procurement.html",
+      "query": "UnitedHealth Group Incorporated suppliers manufacturers",
+      "snippet": "UnitedHealth Group's Supplier Compliance Program webpage provides education and resources for our suppliers related to our compliance policies and pro"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.marketresearch.com/MarketLine-v3883/UnitedHealth-Group-Incorporated-Company-Profile-38951281/",
       "query": "UnitedHealth Group Incorporated major customers clients",
-      "snippet": "UnitedHealthcare Medicare & Retirement serves nearly 13.8 million consumers. Our plans span Medicare Advantage, Medicare Part D, Medicare Supplement a"
+      "snippet": "UnitedHealth Group Incorporated ( UnitedHealth Group or 'the company) is a health care company. The company provides health care benefits and services"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.zacks.com/stock/news/2881057/healthcare-jobs-drop-unitedhealth-stock-slips-opportunity-or-risk",
+      "query": "UnitedHealth Group Incorporated major customers clients",
+      "snippet": "UnitedHealth Group Incorporated .Over the past four quarters, the company has missed estimates twice and beat twice, producing an average earnings sur"
     }
   ]
 }

@@ -1,37 +1,37 @@
 {
   "ticker": "NVDA",
   "company_name": "NVIDIA Corporation",
-  "sector": "Technology",
-  "industry": "Semiconductors",
+  "sector": "Technology / Semiconductors",
+  "industry": "Semiconductor Equipment & Materials",
   "upstream": [
     "TSM",
     "005930.KS",
     "GlobalFoundries",
-    "ASE Group",
-    "Amkor Technology"
+    "UMC",
+    "ASE Group"
   ],
   "downstream": [
     "SONY",
     "MSFT",
-    "DELL",
     "AMZN",
-    "TSLA"
+    "TSLA",
+    "GOOGL"
   ],
   "competitors": [
     "AMD",
     "INTC",
     "QCOM",
-    "AAPL",
-    "GOOGL"
+    "GOOGL",
+    "AAPL"
   ],
   "key_products": [
-    "GeForce GPUs",
-    "Tesla GPUs",
-    "Jetson SoCs",
-    "RTX GPUs",
-    "CUDA API"
+    "GeForce RTX series",
+    "Tesla V100",
+    "A100",
+    "DGX A100",
+    "Jetson Nano"
   ],
-  "extracted_at": "2026-03-12 16:50:26",
+  "extracted_at": "2026-03-13 16:28:53",
   "sources": [
     {
       "source": "Wikipedia",
@@ -53,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Nvidia",
+      "url": "https://www.fool.com/investing/2025/06/26/who-are-nvidias-biggest-customers/",
       "query": "NVIDIA Corporation major customers clients",
-      "snippet": "Nvidia thus avoids most of the investment and production costs and risks associated with chip manufacturing, although it does sometimes directly procu"
+      "snippet": "Jun 26, 2025 · Who Are Nvidia 's Biggest Customers ? Nvidia supplies the most powerful data center chips in the world for artificial intelligence (AI)"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/news/nvidia-stock-warning-nvda-challenger-184049791.html",
+      "url": "https://stocksandfuturestrading.com/the-complete-list-of-nvidias-suppliers-and-consumers/",
       "query": "NVIDIA Corporation major customers clients",
-      "snippet": "Nvidia (NVDA) shares inched down today, July 22, after FuriosaAI said it has landed LG as its first major customer .For Nvidia , it raises competitive"
+      "snippet": "Nov 22, 2024 · NVIDIA has completed one of the most dramatic business transformations in market history — going from a gaming GPU company to the backb"
     }
   ]
 }

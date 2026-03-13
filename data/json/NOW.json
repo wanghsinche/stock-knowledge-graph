@@ -1,37 +1,37 @@
 {
   "ticker": "NOW",
   "company_name": "ServiceNow, Inc.",
-  "sector": "Technology / Software - Application",
-  "industry": "Application Software",
+  "sector": "Technology",
+  "industry": "Software - Application",
   "upstream": [
-    "DELL",
-    "HPQ",
-    "CSCO",
+    "AMZN",
     "MSFT",
-    "AMZN"
+    "GOOGL",
+    "IBM",
+    "ORCL"
   ],
   "downstream": [
-    "MSFT",
-    "IBM",
-    "AT&T",
     "Walmart",
-    "eBay"
+    "JPMorgan Chase",
+    "AT&T",
+    "Verizon",
+    "Bank of America"
   ],
   "competitors": [
-    "CRM",
-    "SAP",
-    "Workday",
-    "ORCL",
-    "MSFT"
+    "MSFT",
+    "Atlassian Jira Service Management",
+    "BMC Software",
+    "IBM",
+    "ORCL"
   ],
   "key_products": [
-    "ServiceNow Platform",
+    "Now Platform",
     "IT Service Management (ITSM)",
     "IT Operations Management (ITOM)",
-    "Customer Service Management (CSM)",
-    "IntegrationHub"
+    "IT Business Management (ITBM)",
+    "Customer Service Management (CSM)"
   ],
-  "extracted_at": "2026-03-12 16:53:36",
+  "extracted_at": "2026-03-13 16:35:02",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,25 +43,25 @@
       "source": "DuckDuckGo",
       "url": "https://www.servicenow.com/company/supplier.html",
       "query": "ServiceNow, Inc. suppliers manufacturers",
-      "snippet": "Suppliers drive our success. ServiceNow® engages with suppliers committed to innovation, sustainability, and delivering best-in-class goods and servic"
+      "snippet": "ServiceNow partners with capable and competitive suppliers who commit to diversity, sustainability, and best-in-class goods and services. Learn more h"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.servicenow.com/partners/partner-finder.html",
+      "url": "https://www.servicenow.com/products/supplier-lifecycle-management.html",
       "query": "ServiceNow, Inc. suppliers manufacturers",
-      "snippet": "Find a partner. Connect with a ServiceNow partner to reach your business goals. Become a partner. Join our partner ecosystem. Choose the partner paths"
+      "snippet": "With ServiceNow Supplier Lifecycle Operations, you can streamline supplier and procurement activities for easy onboarding and collaboration. Missing: "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.servicenow.com/customers.html",
+      "url": "https://www.servicenow.com/",
       "query": "ServiceNow, Inc. major customers clients",
-      "snippet": "Discover the measurable improvements ServiceNow delivers to enhance efficiency, productivity, and customer satisfaction."
+      "snippet": "Customer Service Management. Empower self- service , boost agent productivity, and speed up resolution.AI Agent Stories. Learn how ServiceNow customer"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.aventionmedia.com/technology-installed-base/servicenow/",
+      "url": "https://www.gurufocus.com/stock/DE0OW4/summary",
       "query": "ServiceNow, Inc. major customers clients",
-      "snippet": "Customers that are using ServiceNow include: Microsoft, a US Based MNC and Technology Company with over US$2 Tn revenue and Waltmart, a US Based Retai"
+      "snippet": "ServiceNow Inc provides software solutions to structure and automate various business processes via a SaaS delivery model. ServiceNow Inc Frequently A"
     }
   ]
 }

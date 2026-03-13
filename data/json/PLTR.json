@@ -4,31 +4,34 @@
   "sector": "Technology",
   "industry": "Software - Infrastructure",
   "upstream": [
-    "MSFT",
-    "AMZN",
-    "GOOGL",
-    "IBM",
-    "ORCL"
+    "Hardware manufacturers",
+    "Cloud service providers",
+    "Data providers",
+    "Software component vendors",
+    "Security and compliance consultants"
   ],
   "downstream": [
-    "Walmart",
-    "AMZN",
-    "AAPL",
-    "United Healthcare",
-    "CVS Health"
+    "U.S. federal government agencies",
+    "U.S. military branches",
+    "International law‑enforcement agencies",
+    "Large multinational corporations",
+    "Financial services firms"
   ],
   "competitors": [
-    "IBM",
-    "SAS",
-    "ORCL",
+    "Snowflake",
+    "Databricks",
     "MSFT",
-    "Snowflake"
+    "IBM",
+    "GOOGL"
   ],
   "key_products": [
     "Gotham",
-    "Foundry"
+    "Foundry",
+    "Palantir Apollo",
+    "Palantir Helix",
+    "Palantir Data Lake"
   ],
-  "extracted_at": "2026-03-12 16:50:56",
+  "extracted_at": "2026-03-13 16:29:56",
   "sources": [
     {
       "source": "Wikipedia",
@@ -50,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://investors.palantir.com/news-details/2025/Palantir-Warp-Speed-Accelerates-Announces-Six-New-Customers-That-Are-Re-Industrializing-American-Manufacturing/",
+      "url": "https://data.landbase.com/technology/palantir/",
       "query": "Palantir Technologies Inc. major customers clients",
-      "snippet": "Mar 13, 2025 · The newest Warp Speed customers include Epirus, Red Cat, Saildrone, Saronic, Ursa Major, and SNC. ... About Palantir Technologies Inc."
+      "snippet": "Aug 17, 2025 · Our Palantir customers list is available for download and comes enriched with vital company specifics, including industry classificatio"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.appsruntheworld.com/customers-database/products/view/palantir-foundry",
       "query": "Palantir Technologies Inc. major customers clients",
-      "snippet": "Organizations such as Walmart, Amazon, Apple, United Healthcare and CVS are recorded users of Palantir Foundry for Analytics and BI. Q4. What is the i"
+      "snippet": "Since 2010, our global team of researchers has been studying Palantir Foundry customers around the world, aggregating massive amounts of data points t"
     }
   ]
 }

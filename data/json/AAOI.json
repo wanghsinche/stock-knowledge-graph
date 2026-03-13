@@ -2,36 +2,36 @@
   "ticker": "AAOI",
   "company_name": "Applied Optoelectronics, Inc.",
   "sector": "Technology / Communication Equipment",
-  "industry": "Optical Communications Equipment",
+  "industry": "Optical Communications",
   "upstream": [
-    "Semiconductor manufacturers (e.g., Lumentum, II‑VI, Finisar)",
-    "Laser diode suppliers",
-    "Photodiode suppliers",
-    "Optical fiber manufacturers",
-    "Packaging and assembly suppliers"
+    "II-VI Incorporated",
+    "Lumentum Holdings",
+    "Coherent Inc.",
+    "AVGO",
+    "Ciena Corporation"
   ],
   "downstream": [
-    "MSFT",
+    "Internet data center operators",
     "CAT",
-    "CSCO",
-    "Cloud service providers",
-    "High‑performance computing clusters"
+    "CAT",
+    "Enterprise networking vendors",
+    "Cloud service providers"
   ],
   "competitors": [
-    "Finisar (II‑VI)",
+    "Ciena Corporation",
     "AVGO",
-    "MRVL",
-    "Lumentum",
-    "Ciena"
+    "Coherent Inc.",
+    "II-VI Incorporated",
+    "Lumentum Holdings"
   ],
   "key_products": [
-    "1.6T optical transceivers",
-    "400G optical transceivers",
-    "100G optical transceivers",
-    "Optical modules for data centers",
-    "Optical transceiver modules"
+    "10G/40G/100G optical transceivers",
+    "Fiber optic modules",
+    "Optical connectors and adapters",
+    "Optical amplifiers",
+    "Optical power meters"
   ],
-  "extracted_at": "2026-03-12 16:53:46",
+  "extracted_at": "2026-03-13 16:33:18",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,21 +47,21 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/AAOI/options/?straddle=false&strike=128&type=all",
+      "url": "https://ca.finance.yahoo.com/news/applied-optoelectronics-inc-aaoi-bull-201049847.html",
       "query": "Applied Optoelectronics, Inc. suppliers manufacturers",
-      "snippet": "View the basic AAOI option chain and compare options of Applied Optoelectronics , Inc . on Yahoo Finance.Related Tickers. LITE Lumentum Holdings Inc ."
+      "snippet": "Applied Optoelectronics , Inc .’s share was trading at $26.02 as of December 2nd. AAOI’s forward P/E was 84.03 according to Yahoo Finance. Applied Opt"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://investors.ao-inc.com/news-releases/news-release-details/aoi-receives-first-volume-order-16t-data-center-transceivers",
+      "url": "https://csimarket.com/stocks/AAOI-Customers",
       "query": "Applied Optoelectronics, Inc. major customers clients",
-      "snippet": "3 days ago · (AOI) is a leading developer and manufacturer of advanced optical and HFC networking products that are the building blocks for AI datacen"
+      "snippet": "2 days ago · Our customers are primarily internet data center operators, CATV and telecommunications equipment manufacturers, and internet service pro"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/news/aoi-receives-first-volume-order-110000851.html",
+      "url": "https://investors.ao-inc.com/",
       "query": "Applied Optoelectronics, Inc. major customers clients",
-      "snippet": "3 days ago · AOI Receives First Volume Order of 1.6T Data Center Transceivers from Major Hyperscale Customer. Applied Optoelectronics, Inc. Mon, March"
+      "snippet": "Feb 18, 2026 · Applied Optoelectronics, Inc . is a prominent provider in the fiber-optic networking sector, dedicated to supplying reliable solutions "
     }
   ]
 }

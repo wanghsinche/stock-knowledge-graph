@@ -4,11 +4,11 @@
   "sector": "Technology",
   "industry": "Semiconductor Equipment & Materials",
   "upstream": [
-    "Silicon wafer suppliers",
-    "Chemical gas suppliers (e.g., silane, ammonia)",
-    "META",
-    "Semiconductor equipment component manufacturers",
-    "Cleanroom material providers"
+    "Semiconductor equipment component suppliers",
+    "Optical component manufacturers",
+    "Vacuum system suppliers",
+    "Laser technology providers",
+    "Electronic component suppliers"
   ],
   "downstream": [
     "TSM",
@@ -21,16 +21,17 @@
     "ASML",
     "LRCX",
     "Tokyo Electron",
-    "KLA"
+    "KLA Corporation",
+    "AMAT"
   ],
   "key_products": [
-    "Chemical Vapor Deposition (CVD) systems",
-    "Physical Vapor Deposition (PVD) systems",
-    "Plasma Etch systems",
-    "Ion Implantation systems",
-    "Wafer Cleaning systems"
+    "Lithography equipment",
+    "Etch systems",
+    "Deposition systems",
+    "Inspection and metrology tools",
+    "Materials engineering solutions"
   ],
-  "extracted_at": "2026-03-11 16:48:30",
+  "extracted_at": "2026-03-13 16:35:21",
   "sources": [
     {
       "source": "Wikipedia",
@@ -40,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.appliedmaterials.com/us/en.html",
+      "url": "https://en.wikipedia.org/wiki/Applied_Materials",
+      "query": "Applied Materials, Inc. suppliers manufacturers",
+      "snippet": "Applied Materials , Inc . is an American corporation that supplies equipment, services and software for the manufacture of semiconductor (integrated c"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.appliedmaterials.com/",
       "query": "Applied Materials, Inc. suppliers manufacturers",
       "snippet": "Applied Materials , Inc . is the leader in materials engineering solutions that are at the foundation of virtually every new semiconductor and advance"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/news/applied-materials-amat-well-positioned-114532742.html",
-      "query": "Applied Materials, Inc. suppliers manufacturers",
-      "snippet": "Applied Materials , Inc . (NASDAQ: AMAT ) is not on our list of 30 Most Popular Stocks Among Hedge Funds. As per our database, 83 hedge fund portfolio"
+      "url": "https://en.wikipedia.org/wiki/Applied_Materials",
+      "query": "Applied Materials, Inc. major customers clients",
+      "snippet": "Applied Materials , Inc . is an American corporation that supplies equipment, services and software for the manufacture of semiconductor (integrated c"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://portersfiveforce.com/blogs/target-market/appliedmaterials",
+      "url": "https://www.appliedmaterials.com/",
       "query": "Applied Materials, Inc. major customers clients",
-      "snippet": "Nov 9, 2025 · The company's customer base is highly concentrated among the top global semiconductor producers, who represent over 80% of the industry'"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/news/decoding-applied-materials-inc-amat-050109063.html",
-      "query": "Applied Materials, Inc. major customers clients",
-      "snippet": "May 25, 2024 · Customer Concentration: A significant weakness for Applied Materials Inc is its reliance on a concentrated customer base. The company's"
+      "snippet": "Applied Materials , Inc . is the leader in materials engineering solutions that are at the foundation of virtually every new semiconductor and advance"
     }
   ]
 }
