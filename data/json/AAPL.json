@@ -4,34 +4,34 @@
   "sector": "Technology",
   "industry": "Consumer Electronics",
   "upstream": [
-    "Foxconn",
-    "Pegatron",
     "TSM",
     "005930.KS",
-    "LG Display"
+    "LG Display",
+    "Foxconn (Hon Hai Precision)",
+    "AVGO"
   ],
   "downstream": [
-    "Retail customers (individual consumers)",
-    "Enterprise customers (businesses and institutions)",
+    "iPhone",
+    "iPad",
+    "MacBook",
     "AAPL",
-    "Best Buy",
-    "AMZN"
+    "AAPL"
   ],
   "competitors": [
     "005930.KS",
     "GOOGL",
     "MSFT",
-    "AMZN",
-    "Huawei"
+    "SONY",
+    "DELL"
   ],
   "key_products": [
     "iPhone",
     "iPad",
-    "Mac",
+    "MacBook",
     "Apple Watch",
-    "Apple Services (iCloud, Apple Music, App Store)"
+    "Apple TV"
   ],
-  "extracted_at": "2026-03-13 16:30:21",
+  "extracted_at": "2026-03-16 16:55:17",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,15 +41,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Apple_supply_chain",
+      "url": "https://en.wikipedia.org/wiki/Apple_Inc.",
       "query": "Apple Inc. suppliers manufacturers",
-      "snippet": "In response, Apple launched its Supplier Responsibility program, which aimed to improve Apple's oversight of supplier partners and enforce its ethics "
+      "snippet": "Apple Inc . is an American multinational technology company headquartered in Cupertino, California, in Silicon Valley, best known for its consumer ele"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.investopedia.com/articles/investing/090315/10-major-companies-tied-apple-supply-chain.asp",
+      "url": "https://www.sourcifychina.com/top-apple-inc-suppliers-compare/",
       "query": "Apple Inc. suppliers manufacturers",
-      "snippet": "Nov 13, 2025 · Discover Apple' s top suppliers and how they enhance product performance and innovation. Learn about Apple's efficient supply chain and"
+      "snippet": "Vendor and supply chain analysis of Apple Inc ., including subcontractors, subsidiaries, suppliers , manufacturers , shippers, and government contract"
     },
     {
       "source": "DuckDuckGo",
@@ -59,9 +59,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.apple.com/",
+      "url": "https://www.nbcnews.com/business/business-news/american-companies-most-customers-flna752756",
       "query": "Apple Inc. major customers clients",
-      "snippet": "Neither Apple Inc . nor Apple Payments Services LLC is a bank. All communications from Apple and Goldman Sachs Bank USA about Apple Card (including tr"
+      "snippet": "Customers : 225 million. Industry: e-commerce. Parent company: Apple Inc . Major competitors: Amazon.com, eBay, PayPal. There are at least 225 million"
     }
   ]
 }

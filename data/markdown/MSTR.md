@@ -1,53 +1,57 @@
 ---
 ticker: MSTR
-company: Strategy Inc
+company: MicroStrategy Incorporated
 sector: Technology
 industry: Software - Application
-extracted_at: 2026-03-13 16:30:46
-last_updated: 2026-03-13
+extracted_at: 2026-03-16 16:56:36
+last_updated: 2026-03-16
 ---
 
-# MSTR - Strategy Inc
+# MSTR - MicroStrategy Incorporated
 
 ## 基本信息
 
 - **所属行业**: Technology / Software - Application
-- **提取时间**: 2026-03-13 16:30:46
+- **提取时间**: 2026-03-16 16:56:36
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Strategy One]]
-- [[Strategy Inc Ltd.]]
+- [[MSFT]]
+- [[AMZN]]
+- [[ORCL]]
+- [[GOOGL]]
+- [[IBM]]
 
 ### 下游客户
-- [[Healthcare organizations]]
-- [[Financial institutions]]
-- [[Retail companies]]
-- [[Government agencies]]
+- [[JPMorgan Chase]]
+- [[Bank of America]]
+- [[Walmart]]
+- [[Coca‑Cola]]
+- [[AT&T]]
 
 ### 竞争对手
 - [[Tableau]]
-- [[Power BI]]
 - [[Qlik]]
-- [[Looker]]
-- [[Sisense]]
+- [[MSFT]]
+- [[SAP BusinessObjects]]
+- [[IBM]]
 
 ### 核心产品
-- [[MicroStrategy Analytics Platform]]
-- [[MicroStrategy Mobile]]
+- [[MicroStrategy Desktop]]
 - [[MicroStrategy Cloud]]
-- [[MicroStrategy Data Governance]]
-- [[MicroStrategy Data Visualization]]
+- [[MicroStrategy Mobile]]
+- [[MicroStrategy Analytics]]
+- [[MicroStrategy Data Warehouse]]
 
 ## 数据来源
 
 - 
-- [Strategy Inc suppliers manufacturers](https://www.strategy.com/software/blog/how-manufacturers-are-solving-supply-chain-chaos-with-smart-bi)
-- [Strategy Inc suppliers manufacturers](https://www.developmentaid.org/organizations/view/129475/strategy-inc-ltd)
-- [Strategy Inc major customers clients](https://en.wikipedia.org/wiki/MicroStrategy)
+- [Strategy Inc suppliers manufacturers](https://www.industryselect.com/blog/top-10-manufacturing-companies-in-iowa)
+- [Strategy Inc suppliers manufacturers](https://www.strategyinc.net/services-overview/)
+- [Strategy Inc major customers clients](https://csimarket.com/stocks/STRF-Customers)
 - [Strategy Inc major customers clients](https://www.strategy.com/software/customer-stories)
 
 ## 元数据
 
-- **更新日期**: 2026-03-13
+- **更新日期**: 2026-03-16

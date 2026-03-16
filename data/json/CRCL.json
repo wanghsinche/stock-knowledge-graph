@@ -1,37 +1,37 @@
 {
   "ticker": "CRCL",
   "company_name": "Circle Internet Group, Inc.",
-  "sector": "Financial Services / Capital Markets",
-  "industry": "Payments Technology",
+  "sector": "Financial Services",
+  "industry": "Capital Markets",
   "upstream": [
-    "Cloud service providers (AWS, Azure)",
-    "Blockchain infrastructure providers (Ethereum, Solana)",
-    "Payment processors (Visa, Mastercard)",
-    "Financial institutions (banks)",
-    "Regulatory bodies (SEC, FinCEN)"
+    "MSFT",
+    "Payment processing networks (e.g., Visa, Mastercard)",
+    "Cryptocurrency exchange platforms",
+    "Regulatory compliance service providers",
+    "Technology vendors for blockchain infrastructure"
   ],
   "downstream": [
-    "Businesses using stablecoins",
-    "Financial institutions",
-    "Retail investors",
-    "Crypto exchanges",
-    "Payment merchants"
+    "Retail merchants using Circle’s payment solutions",
+    "Banks and credit unions integrating Circle’s APIs",
+    "Crypto exchanges and wallet providers",
+    "Financial institutions issuing stablecoins",
+    "Enterprise clients for cross‑border payments"
   ],
   "competitors": [
-    "Coinbase",
     "PayPal",
     "Stripe",
     "Square",
-    "Revolut"
+    "Revolut",
+    "Coinbase"
   ],
   "key_products": [
     "USDC stablecoin",
     "EURC stablecoin",
-    "USYC tokenized money market fund",
-    "Circle Pay",
-    "Circle Wallet"
+    "USYC tokenized money‑market fund",
+    "Circle Payments API",
+    "Crypto custody and treasury services"
   ],
-  "extracted_at": "2026-03-13 16:34:14",
+  "extracted_at": "2026-03-16 16:57:37",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,15 +41,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.circle.com/",
+      "url": "https://etpinvest.ru/quote/crcl/financials/",
       "query": "Circle Internet Group suppliers manufacturers",
-      "snippet": "Circle (NYSE: CRCL) enables businesses to leverage digital currencies and public blockchains for payments, commerce and financial applications worldwi"
+      "snippet": "Финансовый отчет Circle Internet Group (CRCL): выручка, чистая прибыль, EBITDA и EPS по кварталам и годам."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.alibaba.com/",
+      "url": "https://www.benzinga.com/trading-ideas/movers/26/03/51246943/circle-internet-stock-rises-after-mizuhos-target-boost",
       "query": "Circle Internet Group suppliers manufacturers",
-      "snippet": "Find quality Manufacturers , Suppliers , Exporters, Importers, Buyers, Wholesalers, Products and Trade Leads from our award-winning International Trad"
+      "snippet": "Circle Internet Group stock is showing upward movement. Circle Internet Group Inc (NYSE: CRCL) is trading higher on Friday after Mizuho boosted its pr"
     },
     {
       "source": "DuckDuckGo",

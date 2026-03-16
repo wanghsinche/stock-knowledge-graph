@@ -4,17 +4,17 @@
   "sector": "Communication Services",
   "industry": "Internet Content & Information",
   "upstream": [
+    "TSM",
     "INTC",
     "QCOM",
     "005930.KS",
-    "TSM",
     "NVDA"
   ],
   "downstream": [
-    "Advertisers",
-    "App developers",
     "GOOGL",
-    "YouTube viewers",
+    "Android device manufacturers",
+    "YouTube content creators",
+    "GOOGL",
     "GOOGL"
   ],
   "competitors": [
@@ -22,16 +22,16 @@
     "AMZN",
     "META",
     "AAPL",
-    "Tencent"
+    "Facebook"
   ],
   "key_products": [
     "Google Search",
     "Android OS",
+    "Google Cloud",
     "YouTube",
-    "Google Cloud Platform",
     "Google Ads"
   ],
-  "extracted_at": "2026-03-13 16:31:09",
+  "extracted_at": "2026-03-16 16:56:14",
   "sources": [
     {
       "source": "Wikipedia",
@@ -53,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Alphabet_Inc.",
+      "url": "https://csimarket.com/stocks/GOOG-Customers",
       "query": "Alphabet Inc. major customers clients",
-      "snippet": "Alphabet is the world's second-largest technology company by revenue, after Nvidia, the largest technology company by profit, and one of the world's m"
+      "snippet": "For your research, we’ve provided 9 tables on Alphabet Inc corporate clients . You can find them in the navigation menu under Customers & Markets. To "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://matrixbcg.com/blogs/target-market/abc",
+      "url": "https://pitchgrade.com/companies/alphabet-inc",
       "query": "Alphabet Inc. major customers clients",
-      "snippet": "5 days ago · Customer demographics include global users aged 18–65+, advertisers focused on ROI, enterprises adopting Google Cloud, and developers bui"
+      "snippet": "Jan 16, 2026 · Customer Segments: Alphabet Inc . serves multiple distinct customer segments, which may include consumers, small and medium businesses,"
     }
   ]
 }

@@ -6,32 +6,32 @@
   "upstream": [
     "TSM",
     "005930.KS",
-    "GlobalFoundries",
     "INTC",
+    "GlobalFoundries",
     "MU"
   ],
   "downstream": [
-    "AAPL",
     "CSCO",
-    "Huawei",
     "DELL",
-    "MSFT"
+    "HPQ",
+    "IBM",
+    "AAPL"
   ],
   "competitors": [
-    "INTC",
     "QCOM",
+    "INTC",
     "NVDA",
-    "MRVL",
-    "MediaTek"
+    "TXN",
+    "MRVL"
   ],
   "key_products": [
-    "Broadcom Wi‑Fi chips",
-    "Broadcom Ethernet controllers",
-    "Broadcom storage controllers",
-    "Broadcom security solutions",
-    "Broadcom infrastructure software"
+    "Broadcom BCM networking chips",
+    "Broadcom Wi‑Fi and Bluetooth chips",
+    "Broadcom broadband and cable modems",
+    "Broadcom storage controller chips",
+    "Broadcom infrastructure software solutions"
   ],
-  "extracted_at": "2026-03-13 16:29:48",
+  "extracted_at": "2026-03-16 16:54:56",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,25 +43,25 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Broadcom",
       "query": "Broadcom Inc. suppliers manufacturers",
-      "snippet": "Broadcom Inc. is an American multinational designer, developer, manufacturer, and global supplier of a wide range of semiconductor and infrastructure "
+      "snippet": "Broadcom Inc . is an American multinational designer, developer, manufacturer , and global supplier of a wide range of semiconductor and infrastructur"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.broadcom.com/products",
+      "url": "https://www.broadcom.com/how-to-buy/partner-distributor-lookup",
       "query": "Broadcom Inc. suppliers manufacturers",
-      "snippet": "Broadcom is a worldwide leading provider of solutions for wireless LAN infrastructure, developing SoC solutions for 802.11 Wi-Fi routers, service prov"
+      "snippet": "The Partner Locator will help you find the local expertise you need to be successful with Broadcom solutions. Begin searching by typing what you're lo"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Broadcom",
       "query": "Broadcom Inc. major customers clients",
-      "snippet": "1 week ago - Broadcom also offers products for supporting BizOps, including: ... Broadcom uses the term XPU to refer to custom ASIC chips developed in"
+      "snippet": "Broadcom Inc . is an American multinational designer, developer, manufacturer, and global supplier of a wide range of semiconductor and infrastructure"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.appsruntheworld.com/customers-database/vendors/view/broadcom",
       "query": "Broadcom Inc. major customers clients",
-      "snippet": "2 weeks ago - The most widely adopted products are Broadcom Symantec Secure Web Gateway, AppWorx Workload Automation, Broadcom Symantec Endpoint Prote"
+      "snippet": "List of companies using or evaluating Broadcom applications, with details on their revenues, employees, industries, and locations."
     }
   ]
 }

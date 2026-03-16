@@ -3,8 +3,8 @@ ticker: CCJ
 company: Cameco Corporation
 sector: Energy
 industry: Uranium
-extracted_at: 2026-03-13 16:37:47
-last_updated: 2026-03-13
+extracted_at: 2026-03-16 17:03:37
+last_updated: 2026-03-16
 ---
 
 # CCJ - Cameco Corporation
@@ -12,46 +12,46 @@ last_updated: 2026-03-13
 ## 基本信息
 
 - **所属行业**: Energy / Uranium
-- **提取时间**: 2026-03-13 16:37:47
+- **提取时间**: 2026-03-16 17:03:37
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Mining equipment manufacturers]]
-- [[Drilling rig suppliers]]
-- [[Exploration service providers]]
-- [[Geological survey firms]]
-- [[Uranium ore processing equipment vendors]]
+- [[Uranium mining companies (e.g., Kazatomprom, Uranium Energy Corp)]]
+- [[CAT]]
+- [[HPQ]]
+- [[Chemical suppliers for UF6 production]]
+- [[Engineering and construction contractors for mining infrastructure]]
 
 ### 下游客户
-- [[Nuclear power plant operators]]
-- [[Government nuclear agencies]]
-- [[International Atomic Energy Agency (IAEA)]]
-- [[Nuclear fuel cycle companies]]
-- [[Energy utilities with nuclear portfolios]]
+- [[Nuclear power plant operators (e.g., EDF, E.ON, Duke Energy)]]
+- [[National nuclear agencies (e.g., U.S. DOE, Canadian Nuclear Safety Commission)]]
+- [[Utilities with nuclear fleets (e.g., Southern Company, Pacific Gas & Electric)]]
+- [[International nuclear fuel suppliers (e.g., Rosatom, China National Nuclear Corporation)]]
+- [[Government procurement agencies for nuclear fuel]]
 
 ### 竞争对手
 - [[Kazatomprom]]
+- [[Uranium Energy Corp]]
+- [[Uranium One]]
 - [[Energy Fuels Inc.]]
-- [[Uranium Energy Corp.]]
 - [[NexGen Energy Ltd.]]
-- [[Uranium One Inc.]]
 
 ### 核心产品
-- [[Uranium concentrate (U3O8)]]
 - [[Uranium hexafluoride (UF6)]]
-- [[Uranium ore]]
-- [[Uranium enrichment services]]
-- [[Uranium fuel fabrication]]
+- [[Uranium dioxide (UO2) fuel pellets]]
+- [[Enriched uranium fuel assemblies]]
+- [[Uranium ore concentrates]]
+- [[Uranium processing chemicals]]
 
 ## 数据来源
 
 - [Cameco](https://en.wikipedia.org/wiki/Cameco_Corporation)
-- [Cameco Corporation suppliers manufacturers](https://www.camecoresources.com/about/cameco-corporation)
-- [Cameco Corporation suppliers manufacturers](https://www.cameco.com/businesses/fuel-services)
-- [Cameco Corporation major customers clients](https://www.nasdaq.com/articles/cameco-stands-gain-meta-and-big-tech-turn-nuclear-power)
-- [Cameco Corporation major customers clients](https://www.spglobal.com/ratings/en/regulatory/article/-/view/type/HTML/id/3449461)
+- [Cameco Corporation suppliers manufacturers](https://www.cameco.com/)
+- [Cameco Corporation suppliers manufacturers](https://www.cameco.com/about)
+- [Cameco Corporation major customers clients](https://www.cameco.com/)
+- [Cameco Corporation major customers clients](https://www.cameco.com/about)
 
 ## 元数据
 
-- **更新日期**: 2026-03-13
+- **更新日期**: 2026-03-16

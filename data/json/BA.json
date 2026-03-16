@@ -1,37 +1,37 @@
 {
   "ticker": "BA",
   "company_name": "The Boeing Company",
-  "sector": "Industrials",
+  "sector": "Industrials / Aerospace & Defense",
   "industry": "Aerospace & Defense",
   "upstream": [
-    "Spirit AeroSystems",
     "Pratt & Whitney",
-    "Honeywell",
     "GE Aviation",
+    "Honeywell",
+    "Rockwell Collins",
     "Raytheon Technologies"
   ],
   "downstream": [
     "U.S. Department of Defense",
-    "United States Air Force",
-    "United States Navy",
-    "United States Army",
-    "United Kingdom Ministry of Defence"
+    "NASA",
+    "United Airlines",
+    "Delta Air Lines",
+    "Emirates"
   ],
   "competitors": [
     "Lockheed Martin",
+    "Airbus",
     "Northrop Grumman",
     "Raytheon Technologies",
-    "Airbus",
     "General Dynamics"
   ],
   "key_products": [
-    "737",
-    "787 Dreamliner",
-    "F-15 Eagle",
-    "F/A-18 Hornet",
-    "KC-46 Pegasus"
+    "Boeing 737",
+    "Boeing 747",
+    "Boeing 787",
+    "KC‑46A Pegasus",
+    "P‑8A Poseidon"
   ],
-  "extracted_at": "2026-03-13 16:34:53",
+  "extracted_at": "2026-03-16 16:59:05",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,9 +47,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ru.wikipedia.org/wiki/Boeing",
+      "url": "https://www.boeing.com/",
       "query": "The Boeing Company suppliers manufacturers",
-      "snippet": "The Boeing Company — американская корпорация, один из крупнейших в мире производителей авиационной, космической и военной техники. С середины 2022 год"
+      "snippet": "Discover news and information about The Boeing Company , a leading global aerospace company that develops, manufactures and services commercial airpla"
     },
     {
       "source": "DuckDuckGo",
@@ -59,9 +59,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ru.wikipedia.org/wiki/Boeing",
+      "url": "https://www.boeing.com/",
       "query": "The Boeing Company major customers clients",
-      "snippet": "The Boeing Company — американская корпорация, один из крупнейших в мире производителей авиационной, космической и военной техники. С середины 2022 год"
+      "snippet": "Discover news and information about The Boeing Company , a leading global aerospace company that develops, manufactures and services commercial airpla"
     }
   ]
 }

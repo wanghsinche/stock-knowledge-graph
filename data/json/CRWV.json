@@ -2,35 +2,36 @@
   "ticker": "CRWV",
   "company_name": "CoreWeave, Inc.",
   "sector": "Technology / Software - Infrastructure",
-  "industry": "Artificial Intelligence Cloud Computing",
+  "industry": "AI Cloud Computing",
   "upstream": [
     "NVDA",
     "AMD",
     "INTC",
     "QCOM",
-    "005930.KS"
+    "Xilinx"
   ],
   "downstream": [
-    "MSFT",
-    "DELL",
     "OpenAI",
+    "GOOGL",
+    "MSFT",
+    "AMZN",
     "IBM"
   ],
   "competitors": [
-    "NVDA",
     "AMZN",
-    "MSFT",
     "GOOGL",
-    "IBM"
+    "MSFT",
+    "IBM",
+    "NVDA"
   ],
   "key_products": [
-    "GPU Cloud Infrastructure",
-    "GPU-as-a-Service",
-    "AI Workload Management",
-    "Chip Management Software",
-    "GPU Virtualization"
+    "GPU‑based AI cloud infrastructure",
+    "GPU management and orchestration software",
+    "AI training and inference services",
+    "High‑performance computing (HPC) instances",
+    "Custom AI workloads on dedicated GPUs"
   ],
-  "extracted_at": "2026-03-13 16:34:38",
+  "extracted_at": "2026-03-16 16:58:00",
   "sources": [
     {
       "source": "Wikipedia",
@@ -54,13 +55,13 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/CoreWeave",
       "query": "CoreWeave, Inc. major customers clients",
-      "snippet": "... top two clients, with Microsoft alone accounting for 62%. In Dec. 2024, Dell and CoreWeave began partnering on infrastructure. In 2025, CoreWeave "
+      "snippet": "CoreWeave , Inc . is an American artificial intelligence cloud-computing company based in Livingston, New Jersey. It specializes in providing cloud-ba"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.coreweave.com/case-studies",
+      "url": "https://www.coreweave.com/",
       "query": "CoreWeave, Inc. major customers clients",
-      "snippet": "Learn how CoreWeave customers like OpenAI and IBM are provisioning the GPUs they need and building AI infrastructure on a massive scale with unprecede"
+      "snippet": "CoreWeave Inc .’s."
     }
   ]
 }

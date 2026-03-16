@@ -4,34 +4,34 @@
   "sector": "Technology",
   "industry": "Software - Infrastructure",
   "upstream": [
-    "DELL",
-    "GOOGL",
+    "INTC",
     "AMD",
-    "Software component vendors (e.g., Java, Linux distributions)",
-    "CSCO"
+    "NVDA",
+    "CSCO",
+    "JNPR"
   ],
   "downstream": [
-    "Large enterprises (e.g., Walmart, JPMorgan Chase)",
-    "Government agencies (e.g., U.S. Department of Defense)",
-    "Financial institutions (e.g., Bank of America, Citigroup)",
-    "Healthcare providers (e.g., UnitedHealth Group)",
-    "AMZN"
+    "Walmart",
+    "JPMorgan Chase",
+    "Bank of America",
+    "AT&T",
+    "Verizon"
   ],
   "competitors": [
     "MSFT",
     "AMZN",
-    "GOOGL",
     "IBM",
-    "SAP"
+    "SAP",
+    "GOOGL"
   ],
   "key_products": [
     "Oracle Database",
-    "Oracle Cloud Infrastructure (OCI)",
+    "Oracle Cloud Infrastructure",
     "Oracle Autonomous Database",
-    "Oracle ERP Cloud",
-    "Oracle Analytics Cloud"
+    "Oracle E-Business Suite",
+    "Oracle Fusion Middleware"
   ],
-  "extracted_at": "2026-03-13 16:30:54",
+  "extracted_at": "2026-03-16 16:56:24",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.oracle.com/scm/manufacturing/",
+      "url": "https://www.oracle.com/corporate/suppliers/",
       "query": "Oracle Corporation suppliers manufacturers",
-      "snippet": "Oracle Fusion Cloud Manufacturing helps you streamline your global, mixed-mode manufacturing to maximize operational performance."
+      "snippet": "Oracle is always looking for suppliers who can meet our high quality standards and satisfy our ever-evolving business needs. We believe in the importa"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.oracle.com/il-en/industrial-manufacturing/innovating-with-oracle/",
+      "url": "https://www.trademo.com/manufacturers/oracle",
       "query": "Oracle Corporation suppliers manufacturers",
-      "snippet": "Oracle solutions for industrial manufacturers provide best-in-class capability in finance, manufacturing, supply chain, logistics, HR and customer exp"
+      "snippet": "Find and discover international oracle manufacturers & suppliers , featuring details on their shipment activities, trade volumes, trading partners, an"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.oracle.com/customers/",
+      "url": "https://en.wikipedia.org/wiki/Oracle_Corporation",
       "query": "Oracle Corporation major customers clients",
-      "snippet": "Innovation, ease of use, better results—those are just some of the reasons organizations in all industries and of all sizes rely on Oracle to help the"
+      "snippet": "Oracle Corporation is an American multinational technology company headquartered in Austin, Texas. Co-founded in Santa Clara, California by Bob Miner,"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.thomsondata.com/customer-base/oracle.php",
+      "url": "https://www.oracle.com/corporate/",
       "query": "Oracle Corporation major customers clients",
-      "snippet": "Thomson Data makes it easy by offering an accurate and up-to-date list of companies that use Oracle. This list allows you to identify Oracle customers"
+      "snippet": "Oracle is pleased to provide information about our company, customers , partners, events, communities, press, analysts, investors, and careers.The com"
     }
   ]
 }

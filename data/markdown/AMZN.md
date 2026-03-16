@@ -3,8 +3,8 @@ ticker: AMZN
 company: Amazon.com, Inc.
 sector: Consumer Cyclical
 industry: Internet Retail
-extracted_at: 2026-03-13 16:30:09
-last_updated: 2026-03-13
+extracted_at: 2026-03-16 16:55:07
+last_updated: 2026-03-16
 ---
 
 # AMZN - Amazon.com, Inc.
@@ -12,46 +12,46 @@ last_updated: 2026-03-13
 ## 基本信息
 
 - **所属行业**: Consumer Cyclical / Internet Retail
-- **提取时间**: 2026-03-13 16:30:09
+- **提取时间**: 2026-03-16 16:55:07
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Book publishers]]
-- [[AAPL]]
-- [[Apparel manufacturers]]
-- [[Third‑party sellers]]
-- [[Logistics partners (UPS, FedEx)]]
+- [[INTC]]
+- [[AMD]]
+- [[NVDA]]
+- [[UPS]]
+- [[FedEx]]
 
 ### 下游客户
 - [[AMZN]]
-- [[AMZN]]
-- [[AMZN]]
-- [[AMZN]]
+- [[Third‑party sellers]]
+- [[AWS enterprise customers]]
+- [[Advertisers]]
 - [[AMZN]]
 
 ### 竞争对手
 - [[eBay]]
 - [[Walmart]]
 - [[Alibaba]]
-- [[Shopify]]
-- [[Target]]
+- [[MSFT]]
+- [[GOOGL]]
 
 ### 核心产品
-- [[Amazon.com e‑commerce platform]]
-- [[Amazon Prime subscription]]
-- [[Amazon Web Services (AWS)]]
-- [[Amazon Kindle e‑reader]]
-- [[Amazon Echo (Alexa) smart speaker]]
+- [[Amazon Marketplace]]
+- [[Amazon Prime]]
+- [[AWS]]
+- [[Amazon Echo]]
+- [[Kindle]]
 
 ## 数据来源
 
 - [Amazon (company)](https://en.wikipedia.org/wiki/Amazon.com,_Inc.)
-- [Amazon.com, Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/Amazon_(company))
-- [Amazon.com, Inc. suppliers manufacturers](https://suppliercentral.amazon.com/)
+- [Amazon.com, Inc. suppliers manufacturers](https://www.ecomdepotwholesale.com/post/list-of-amazon-authorized-suppliers-for-2024-the-complete-guide-to-finding-verified-suppliers)
+- [Amazon.com, Inc. suppliers manufacturers](https://bigframe.net/who-are-amazons-main-suppliers/)
 - [Amazon.com, Inc. major customers clients](https://capitaloneshopping.com/research/amazon-statistics/)
 - [Amazon.com, Inc. major customers clients](https://csimarket.com/stocks/AMZN-Customers)
 
 ## 元数据
 
-- **更新日期**: 2026-03-13
+- **更新日期**: 2026-03-16

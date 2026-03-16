@@ -6,16 +6,16 @@
   "upstream": [
     "AMZN",
     "MSFT",
-    "GOOGL",
-    "Stripe",
-    "PayPal"
+    "Stripe (payment processing)",
+    "Plaid (financial data aggregation)",
+    "Chainalysis (blockchain analytics)"
   ],
   "downstream": [
-    "Retail investors",
+    "Retail cryptocurrency traders",
     "Institutional investors",
-    "Hedge funds",
-    "Crypto traders",
-    "Corporate clients"
+    "Crypto asset managers",
+    "Merchants accepting crypto payments",
+    "DeFi protocol developers"
   ],
   "competitors": [
     "Binance",
@@ -25,13 +25,13 @@
     "Huobi"
   ],
   "key_products": [
-    "Coinbase Pro",
-    "Coinbase Wallet",
-    "Coinbase Earn",
-    "Coinbase Custody",
-    "Coinbase Prime"
+    "Cryptocurrency trading platform",
+    "Custody services for institutional clients",
+    "Staking and yield products",
+    "Crypto wallet and mobile app",
+    "API and developer tools"
   ],
-  "extracted_at": "2026-03-13 16:31:30",
+  "extracted_at": "2026-03-16 16:57:26",
   "sources": [
     {
       "source": "Wikipedia",
@@ -53,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.demandsage.com/coinbase-users-statistics/",
+      "url": "https://en.wikipedia.org/wiki/Coinbase",
       "query": "Coinbase Global, Inc. major customers clients",
-      "snippet": "Aug 13, 2025 · Coinbase ’s user base stands at around 120 million, meaning it serves about 19.45% of all global cryptocurrency users. This makes Coinb"
+      "snippet": "Coinbase Global , Inc . is an American cryptocurrency exchange. It was founded in 2012 by Brian Armstrong and Fred Ehrsam."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/COIN-Customers",
+      "url": "https://www.coinbase.com/",
       "query": "Coinbase Global, Inc. major customers clients",
-      "snippet": "Coinbase Global Inc customers and markets, results by customer and performance relative to COIN, by company and industry - CSIMarket"
+      "snippet": "Coinbase United States is a secure online platform for buying, selling, transferring, and storing cryptocurrency. Coinbase believes crypto will be par"
     }
   ]
 }

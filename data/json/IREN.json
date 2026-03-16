@@ -3,17 +3,35 @@
   "company_name": "IREN Limited",
   "sector": "Financial Services",
   "industry": "Capital Markets",
-  "upstream": [],
-  "downstream": [],
-  "competitors": [],
-  "key_products": [
-    "Investment advisory services",
-    "Wealth management",
-    "Brokerage services",
-    "Capital market solutions",
-    "Financial planning"
+  "upstream": [
+    "Technology vendors (e.g., Bloomberg, Refinitiv)",
+    "Data providers (e.g., FactSet)",
+    "Cloud service providers (e.g., AWS, Azure)",
+    "Regulatory bodies (e.g., SEC)",
+    "Payment processors (e.g., Visa, Mastercard)"
   ],
-  "extracted_at": "2026-03-13 16:33:28",
+  "downstream": [
+    "Institutional investors",
+    "Retail brokerage clients",
+    "High-net-worth individuals",
+    "Financial advisors",
+    "Corporate clients"
+  ],
+  "competitors": [
+    "Interactive Brokers",
+    "Charles Schwab",
+    "Fidelity Investments",
+    "E*TRADE",
+    "TD Ameritrade"
+  ],
+  "key_products": [
+    "Online brokerage platform",
+    "Trading execution services",
+    "Investment research",
+    "Wealth management solutions",
+    "Financial data analytics"
+  ],
+  "extracted_at": "2026-03-16 16:58:34",
   "sources": [
     {
       "source": "Wikipedia",
@@ -35,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/IREN-Customers",
+      "url": "https://finance.yahoo.com/quote/IREN/",
       "query": "IREN Limited major customers clients",
-      "snippet": "4 days ago · For your research, we’ve provided 9 tables on Iren Limited corporate clients . You can find them in the navigation menu under Customers &"
+      "snippet": "Find the latest IREN Limited ( IREN ) stock quote, history, news and other vital information to help you with your stock trading and investing."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finviz.com/news/262618/irens-ai-client-base-expands-is-growth-becoming-more-durable",
+      "url": "https://www.investing.com/equities/iris-energy",
       "query": "IREN Limited major customers clients",
-      "snippet": "Dec 26, 2025 · Importantly, CoreWeave noted that nine of its ten largest customers now have multiple contracts, indicating the growing expansion and d"
+      "snippet": "View today's IREN Ltd stock price and latest IREN news and analysis. Create real-time notifications to follow any changes in the live stock price."
     }
   ]
 }

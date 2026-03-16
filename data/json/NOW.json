@@ -4,25 +4,25 @@
   "sector": "Technology",
   "industry": "Software - Application",
   "upstream": [
-    "AMZN",
     "MSFT",
+    "AMZN",
     "GOOGL",
     "IBM",
     "ORCL"
   ],
   "downstream": [
-    "Walmart",
-    "JPMorgan Chase",
-    "AT&T",
-    "Verizon",
-    "Bank of America"
+    "GOOGL",
+    "AMZN",
+    "MSFT",
+    "Bank of America",
+    "Coca‑Cola"
   ],
   "competitors": [
-    "MSFT",
-    "Atlassian Jira Service Management",
-    "BMC Software",
-    "IBM",
-    "ORCL"
+    "CRM",
+    "Workday",
+    "SAP",
+    "ORCL",
+    "MSFT"
   ],
   "key_products": [
     "Now Platform",
@@ -31,7 +31,7 @@
     "IT Business Management (ITBM)",
     "Customer Service Management (CSM)"
   ],
-  "extracted_at": "2026-03-13 16:35:02",
+  "extracted_at": "2026-03-16 17:02:48",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,21 +47,21 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.servicenow.com/products/supplier-lifecycle-management.html",
+      "url": "https://csimarket.com/stocks/NOW-Suppliers",
       "query": "ServiceNow, Inc. suppliers manufacturers",
-      "snippet": "With ServiceNow Supplier Lifecycle Operations, you can streamline supplier and procurement activities for easy onboarding and collaboration. Missing: "
+      "snippet": "Jan 29, 2026 · Servicenow Inc supply chain, list and performance of Servicenow Incs ' suppliers - CSIMarket"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.servicenow.com/",
+      "url": "https://www.aventionmedia.com/technology-installed-base/servicenow/",
       "query": "ServiceNow, Inc. major customers clients",
-      "snippet": "Customer Service Management. Empower self- service , boost agent productivity, and speed up resolution.AI Agent Stories. Learn how ServiceNow customer"
+      "snippet": "Businesses whose solutions and services can help Cloud- Service Customers achieve any of their business requirements can make use of our List of Compa"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.gurufocus.com/stock/DE0OW4/summary",
+      "url": "https://data.landbase.com/technology/servicenow/",
       "query": "ServiceNow, Inc. major customers clients",
-      "snippet": "ServiceNow Inc provides software solutions to structure and automate various business processes via a SaaS delivery model. ServiceNow Inc Frequently A"
+      "snippet": "Aug 17, 2025 · Our ServiceNow customers list is available for download and comes enriched with vital company specifics, including industry classificat"
     }
   ]
 }

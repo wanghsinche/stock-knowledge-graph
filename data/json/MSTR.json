@@ -1,33 +1,37 @@
 {
   "ticker": "MSTR",
-  "company_name": "Strategy Inc",
+  "company_name": "MicroStrategy Incorporated",
   "sector": "Technology",
   "industry": "Software - Application",
   "upstream": [
-    "Strategy One",
-    "Strategy Inc Ltd."
+    "MSFT",
+    "AMZN",
+    "ORCL",
+    "GOOGL",
+    "IBM"
   ],
   "downstream": [
-    "Healthcare organizations",
-    "Financial institutions",
-    "Retail companies",
-    "Government agencies"
+    "JPMorgan Chase",
+    "Bank of America",
+    "Walmart",
+    "Coca‑Cola",
+    "AT&T"
   ],
   "competitors": [
     "Tableau",
-    "Power BI",
     "Qlik",
-    "Looker",
-    "Sisense"
+    "MSFT",
+    "SAP BusinessObjects",
+    "IBM"
   ],
   "key_products": [
-    "MicroStrategy Analytics Platform",
-    "MicroStrategy Mobile",
+    "MicroStrategy Desktop",
     "MicroStrategy Cloud",
-    "MicroStrategy Data Governance",
-    "MicroStrategy Data Visualization"
+    "MicroStrategy Mobile",
+    "MicroStrategy Analytics",
+    "MicroStrategy Data Warehouse"
   ],
-  "extracted_at": "2026-03-13 16:30:46",
+  "extracted_at": "2026-03-16 16:56:36",
   "sources": [
     {
       "source": "Wikipedia",
@@ -37,21 +41,21 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.strategy.com/software/blog/how-manufacturers-are-solving-supply-chain-chaos-with-smart-bi",
+      "url": "https://www.industryselect.com/blog/top-10-manufacturing-companies-in-iowa",
       "query": "Strategy Inc suppliers manufacturers",
-      "snippet": "Discover how manufacturers are tackling supply chain chaos with Strategy One. Learn how AI-driven insights and real-time data can transform operations"
+      "snippet": "With its low cost of doing business (not to mention its low cost of living) robust economy and abundant agricultural resources, Iowa is home to a numb"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.developmentaid.org/organizations/view/129475/strategy-inc-ltd",
+      "url": "https://www.strategyinc.net/services-overview/",
       "query": "Strategy Inc suppliers manufacturers",
-      "snippet": "Strategy Inc Ltd. — Supplier / manufacturer from India, has experience with World Bank HQ, it`s involved in Furniture & Office Supplies sector."
+      "snippet": "At Strategy Inc ., we offer a comprehensive range of consulting services required for life science and medical device due diligence, such as: market a"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/MicroStrategy",
+      "url": "https://csimarket.com/stocks/STRF-Customers",
       "query": "Strategy Inc major customers clients",
-      "snippet": "Strategy Inc., formerly known as MicroStrategy, is an American company that provides business intelligence (BI) and mobile software. Founded in 1989 b"
+      "snippet": "Jan 30, 2026 · For your research, we’ve provided 9 tables on Strategy Inc corporate clients . You can find them in the navigation menu under Customers"
     },
     {
       "source": "DuckDuckGo",

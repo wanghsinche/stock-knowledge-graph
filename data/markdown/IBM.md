@@ -3,8 +3,8 @@ ticker: IBM
 company: International Business Machines Corporation
 sector: Technology
 industry: Information Technology Services
-extracted_at: 2026-02-25 17:04:53
-last_updated: 2026-02-25
+extracted_at: 2026-03-16 17:01:47
+last_updated: 2026-03-16
 ---
 
 # IBM - International Business Machines Corporation
@@ -12,46 +12,46 @@ last_updated: 2026-02-25
 ## 基本信息
 
 - **所属行业**: Technology / Information Technology Services
-- **提取时间**: 2026-02-25 17:04:53
+- **提取时间**: 2026-03-16 17:01:47
 
 ## 产业链关系
 
 ### 上游供应商
+- [[INTC]]
 - [[AMD]]
-- [[DELL]]
+- [[NVDA]]
+- [[CSCO]]
 - [[MSFT]]
-- [[MSFT]]
-- [[Research partners (e.g., MIT, Stanford)]]
 
 ### 下游客户
-- [[U.S. Government agencies]]
-- [[Major banks (e.g., JPMorgan Chase, Bank of America)]]
-- [[Healthcare institutions (e.g., Mayo Clinic, UnitedHealth Group)]]
-- [[CAT]]
-- [[Manufacturing firms (e.g., General Electric, Siemens)]]
+- [[U.S. Federal Government]]
+- [[Bank of America]]
+- [[Walmart]]
+- [[General Electric]]
+- [[Coca‑Cola]]
 
 ### 竞争对手
-- [[MSFT]]
 - [[Accenture]]
-- [[ORCL]]
-- [[SAP]]
-- [[AMZN]]
+- [[Deloitte]]
+- [[Capgemini]]
+- [[Tata Consultancy Services]]
+- [[Infosys]]
 
 ### 核心产品
 - [[IBM Cloud]]
-- [[IBM Watson AI]]
+- [[IBM Watson]]
 - [[IBM Power Systems]]
+- [[IBM z Systems]]
 - [[IBM Security]]
-- [[IBM Analytics]]
 
 ## 数据来源
 
 - [IBM](https://en.wikipedia.org/wiki/International_Business_Machines_Corporation)
 - [International Business Machines Corporation suppliers manufacturers](https://en.wikipedia.org/wiki/IBM)
-- [International Business Machines Corporation suppliers manufacturers](https://centreforaviation.com/data/profiles/suppliers/international-business-machines-corp-ibm)
+- [International Business Machines Corporation suppliers manufacturers](https://ru.wikipedia.org/wiki/IBM)
 - [International Business Machines Corporation major customers clients](https://en.wikipedia.org/wiki/IBM)
-- [International Business Machines Corporation major customers clients](https://www.quora.com/Who-are-IBMs-biggest-customers)
+- [International Business Machines Corporation major customers clients](https://csimarket.com/stocks/IBM-Customers)
 
 ## 元数据
 
-- **更新日期**: 2026-02-25
+- **更新日期**: 2026-03-16

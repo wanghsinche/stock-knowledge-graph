@@ -4,34 +4,34 @@
   "sector": "Technology",
   "industry": "Computer Hardware",
   "upstream": [
-    "005930.KS",
     "MU",
+    "005930.KS",
     "SK Hynix",
-    "Toshiba",
-    "WDC"
+    "WDC",
+    "INTC"
   ],
   "downstream": [
+    "AAPL",
+    "MSFT",
     "DELL",
     "HPQ",
-    "Lenovo",
-    "AAPL",
-    "SONY"
+    "AMZN"
   ],
   "competitors": [
     "005930.KS",
     "MU",
+    "WDC",
     "Kingston",
-    "Lexar",
-    "PNY"
+    "Crucial"
   ],
   "key_products": [
-    "SD cards",
-    "microSD cards",
+    "Memory cards",
     "USB flash drives",
-    "solid‑state drives (SSDs)",
-    "USB‑C flash drives"
+    "Solid-state drives",
+    "SD cards",
+    "microSD cards"
   ],
-  "extracted_at": "2026-03-13 16:29:29",
+  "extracted_at": "2026-03-16 16:54:22",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Sandisk",
+      "url": "https://www.sandisk.com/company/distributors",
       "query": "Sandisk Corporation suppliers manufacturers",
-      "snippet": "Sandisk Corporation is an American multinational computer technology company based in Milpitas, California, that designs and manufactures flash memory"
+      "snippet": "Distributors | Sandisk . Region. Loading Region. Region. Country/Area. Loading Country/Area. Country/Area. Brand. Loading Brand. Brand."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ru.wikipedia.org/wiki/SanDisk",
+      "url": "https://www.mouser.com/manufacturer/sandisk/",
       "query": "Sandisk Corporation suppliers manufacturers",
-      "snippet": "SanDisk Corporation . Изображение логотипа. SanDisk — американская корпорация, занимавшаяся разработкой и производством носителей информации на базе ф"
+      "snippet": "SanDisk Corporation is a global leader in flash storage solutions, expanding the possibilities of storage and providing trusted and innovative product"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Sandisk",
       "query": "Sandisk Corporation major customers clients",
-      "snippet": "Sandisk Corporation is an American multinational computer technology company based in Milpitas, California, that designs and manufactures flash memory"
+      "snippet": "1 week ago - Sandisk Corporation (sometimes stylized as SanDisk, with the D capitalized in camelCase) is an American multinational computer technology"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.sandisk.com/",
+      "url": "https://www.sandisk.com/company/about-us",
       "query": "Sandisk Corporation major customers clients",
-      "snippet": "Sandisk online store members receive free standard shipping on all eligible orders.New Sandisk Customers Sign Up and Save 10% Off. Explore the latest "
+      "snippet": "In this role, he oversees product development across market segments, including consumer, client, gaming, automotive, and the data center. Ismail lead"
     }
   ]
 }

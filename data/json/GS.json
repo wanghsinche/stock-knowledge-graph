@@ -2,36 +2,36 @@
   "ticker": "GS",
   "company_name": "The Goldman Sachs Group, Inc.",
   "sector": "Financial Services",
-  "industry": "Capital Markets",
+  "industry": "Capital Markets / Investment Banking",
   "upstream": [
-    "MSFT",
-    "Data providers (e.g., Bloomberg, Refinitiv)",
-    "Legal service firms",
-    "Consulting firms (e.g., McKinsey)",
-    "Cloud infrastructure providers"
+    "Technology vendors (e.g., Bloomberg, Refinitiv)",
+    "Data providers (e.g., S&P Global, Moody’s)",
+    "Legal and compliance service firms",
+    "Risk management software providers",
+    "MSFT"
   ],
   "downstream": [
-    "Corporate clients (e.g., Fortune 500 companies)",
-    "Institutional investors (e.g., pension funds)",
+    "Institutional investors (mutual funds, pension funds)",
+    "Corporations seeking M&A advisory",
     "Governments and sovereign entities",
-    "High net worth individuals",
-    "Asset managers"
+    "High‑net‑worth individuals and family offices",
+    "Asset managers and hedge funds"
   ],
   "competitors": [
     "JPMorgan Chase & Co.",
     "Morgan Stanley",
     "Bank of America Merrill Lynch",
-    "Citigroup",
-    "UBS"
+    "Citigroup Inc.",
+    "Wells Fargo & Co."
   ],
   "key_products": [
-    "Investment banking services",
-    "Securities underwriting",
-    "Asset management",
-    "Wealth management",
-    "Trading and market making"
+    "Investment banking advisory and underwriting",
+    "Asset management and wealth management",
+    "Securities trading and market making",
+    "Capital markets financing (equity & debt)",
+    "Risk management and derivatives"
   ],
-  "extracted_at": "2026-03-13 16:33:09",
+  "extracted_at": "2026-03-16 17:00:10",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,15 +41,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.goldmansachs.com/our-firm/our-vendor-program",
+      "url": "https://en.wikipedia.org/wiki/Goldman_Sachs",
       "query": "The Goldman Sachs Group, Inc. suppliers manufacturers",
-      "snippet": "Our vendor program gives us the opportunity to partner with organizations to simultaneously drive business value, support economic growth, and promote"
+      "snippet": "The Goldman Sachs Group , Inc . is an American multinational investment bank and financial services company. Founded in 1869, Goldman Sachs is headqua"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.goldmansachs.com/our-firm/sustainable-finance/our-operational-impact/responsible-sourcing-and-supply-change-management",
+      "url": "https://ru.wikipedia.org/wiki/Goldman_Sachs",
       "query": "The Goldman Sachs Group, Inc. suppliers manufacturers",
-      "snippet": "At Goldman Sachs, we work hard to partner with competitive small businesses to source the goods and services needed to support our operations and achi"
+      "snippet": "The Goldman Sachs Group , Inc . Изображение логотипа.В 2006 году Goldman Sachs Group участвовал в первичном размещении «Роснефти» (хотя и не являлся б"
     },
     {
       "source": "DuckDuckGo",

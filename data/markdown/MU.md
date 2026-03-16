@@ -3,8 +3,8 @@ ticker: MU
 company: Micron Technology, Inc.
 sector: Technology
 industry: Semiconductors
-extracted_at: 2026-03-13 16:29:12
-last_updated: 2026-03-13
+extracted_at: 2026-03-16 16:54:12
+last_updated: 2026-03-16
 ---
 
 # MU - Micron Technology, Inc.
@@ -12,46 +12,46 @@ last_updated: 2026-03-13
 ## 基本信息
 
 - **所属行业**: Technology / Semiconductors
-- **提取时间**: 2026-03-13 16:29:12
+- **提取时间**: 2026-03-16 16:54:12
 
 ## 产业链关系
 
 ### 上游供应商
-- [[AMAT]]
-- [[ASML]]
-- [[LRCX]]
-- [[Tokyo Electron]]
-- [[KLA]]
+- [[Silicon wafer suppliers]]
+- [[Chemical suppliers]]
+- [[Equipment suppliers]]
+- [[Packaging suppliers]]
+- [[Testing equipment suppliers]]
 
 ### 下游客户
-- [[AAPL]]
 - [[DELL]]
-- [[HPQ]]
-- [[Lenovo]]
+- [[DELL]]
+- [[AAPL]]
 - [[MSFT]]
+- [[Automotive electronics OEMs]]
 
 ### 竞争对手
 - [[005930.KS]]
 - [[SK Hynix]]
+- [[Nanya Technology]]
+- [[Kioxia]]
 - [[WDC]]
-- [[INTC]]
-- [[Toshiba]]
 
 ### 核心产品
 - [[DRAM]]
 - [[NAND flash memory]]
-- [[SSDs]]
-- [[3D NAND]]
-- [[GDDR]]
+- [[SSD]]
+- [[Embedded DRAM]]
+- [[Memory modules]]
 
 ## 数据来源
 
 - [Micron Technology](https://en.wikipedia.org/wiki/Micron_Technology,_Inc.)
 - [Micron Technology, Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/Micron_Technology)
-- [Micron Technology, Inc. suppliers manufacturers](https://ru.wikipedia.org/wiki/Micron_Technology)
-- [Micron Technology, Inc. major customers clients](https://en.wikipedia.org/wiki/Micron_Technology)
-- [Micron Technology, Inc. major customers clients](https://www.quora.com/Who-are-the-customers-of-Micron-Technology)
+- [Micron Technology, Inc. suppliers manufacturers](https://www.micron.com/about/company/suppliers)
+- [Micron Technology, Inc. major customers clients](https://www.trendforce.com/news/2025/06/26/news-micron-scales-up-hbm-to-four-major-gpuasic-clients-targets-24-market-share-by-year-end/)
+- [Micron Technology, Inc. major customers clients](https://www.micron.com/markets-industries/customer-and-partner-storage-success)
 
 ## 元数据
 
-- **更新日期**: 2026-03-13
+- **更新日期**: 2026-03-16

@@ -4,34 +4,34 @@
   "sector": "Communication Services",
   "industry": "Entertainment",
   "upstream": [
-    "Hollywood Studios",
+    "Visual Data (UK)",
+    "Hollywood studios",
     "Albuquerque Studios",
-    "Production Companies",
-    "Content Distributors",
-    "AAPL"
+    "Production companies (e.g., Warner Bros., Disney)",
+    "Content distributors"
   ],
   "downstream": [
-    "Individual Subscribers",
-    "Corporate Accounts",
-    "Device Manufacturers",
-    "Smart TV Platforms",
-    "Streaming Service Integrators"
+    "US subscribers",
+    "International subscribers",
+    "Corporate accounts",
+    "Mobile app users",
+    "Smart TV app users"
   ],
   "competitors": [
     "Disney+",
     "AMZN",
     "Hulu",
     "HBO Max",
-    "Peacock"
+    "AAPL"
   ],
   "key_products": [
-    "Over-the-top streaming service",
-    "Original Series",
-    "Original Movies",
-    "Documentaries",
-    "User Interface & Recommendation Engine"
+    "Streaming service",
+    "Original programming",
+    "Licensed third‑party content",
+    "Mobile app",
+    "Smart TV app"
   ],
-  "extracted_at": "2026-03-13 16:32:19",
+  "extracted_at": "2026-03-16 16:57:16",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Netflix,_Inc.",
+      "url": "https://npfp.netflixstudios.com/region/global/",
       "query": "Netflix, Inc. suppliers manufacturers",
-      "snippet": "Netflix, Inc. is an American media company founded on August 29, 1997 by Reed Hastings and Marc Randolph in Scotts Valley, California, and currently b"
+      "snippet": "Visual Data (UK) became a Netflix Preferred Vendor in 2013 and its technical, professional and service standards are among the highest in the industry"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.eximpedia.app/companies/netflix-inc/43866177",
+      "url": "https://csimarket.com/stocks/NFLX-Suppliers",
       "query": "Netflix, Inc. suppliers manufacturers",
-      "snippet": "View Netflix Inc import export trade data, including shipment records, HS codes, top buyers, suppliers, trade values, and global market insights."
+      "snippet": "Jan 25, 2026 · Netflix Inc supply chain, list and performance of Netflix Incs ' suppliers - CSIMarket"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Reed_Hastings",
+      "url": "https://www.bloomberg.com/news/articles/2019-07-17/netflix-plunges-as-price-increase-leads-to-u-s-customer-losses",
       "query": "Netflix, Inc. major customers clients",
-      "snippet": "Wilmot Reed Hastings Jr. is an American billionaire businessman. He is the co-founder and chairman of Netflix , Inc ., which provides the Netflix stre"
+      "snippet": "Netflix Inc . shocked investors by reporting a drop in U.S. customers and much slower growth overseas, raising fears that the streaming giant is losin"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.msn.com/en-us/money/savingandinvesting/netflix-goes-from-m-a-loser-to-market-winner-without-warner-deal/ar-AA1XPE3E",
+      "url": "https://www.nytimes.com/2021/04/20/business/media/netflix-subscribers-earnings.html",
       "query": "Netflix, Inc. major customers clients",
-      "snippet": "Netflix Inc .’s stock price is staging a dramatic reversal triggered by management’s decision to walk away from its proposed acquisition of Warner Bro"
+      "snippet": "Netflix recorded a jump in new sign-ups, leading to a record year of nearly 37 million additional customers . The company is unlikely to repeat that p"
     }
   ]
 }

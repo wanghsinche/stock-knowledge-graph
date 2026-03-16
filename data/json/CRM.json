@@ -2,7 +2,7 @@
   "ticker": "CRM",
   "company_name": "Salesforce, Inc.",
   "sector": "Technology",
-  "industry": "Software - Application",
+  "industry": "Software – Application",
   "upstream": [
     "AMZN",
     "MSFT",
@@ -11,16 +11,16 @@
     "CSCO"
   ],
   "downstream": [
-    "AMZN",
     "Coca‑Cola",
-    "Toyota",
-    "General Electric",
-    "Walmart"
+    "Ford Motor Company",
+    "American Express",
+    "Unilever",
+    "Airbnb"
   ],
   "competitors": [
     "MSFT",
-    "ORCL",
     "SAP Customer Experience",
+    "ORCL",
     "ADBE",
     "HubSpot"
   ],
@@ -31,7 +31,7 @@
     "Commerce Cloud",
     "Einstein AI"
   ],
-  "extracted_at": "2026-03-13 16:32:36",
+  "extracted_at": "2026-03-16 16:59:26",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,7 +43,7 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Salesforce",
       "query": "Salesforce, Inc. suppliers manufacturers",
-      "snippet": "Salesforce, Inc. is an American cloud-based software company headquartered in San Francisco, California. It provides applications focused on sales, cu"
+      "snippet": "Salesforce , Inc ., is an American cloud -based software company headquartered in San Francisco, California. It provides applications focused on sales"
     },
     {
       "source": "DuckDuckGo",
@@ -53,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.salesforce.com/customer-stories/",
+      "url": "https://en.wikipedia.org/wiki/Salesforce",
       "query": "Salesforce, Inc. major customers clients",
-      "snippet": "Discover how Salesforce helps 150000+ companies increase productivity, customer loyalty, and sales revenue — every day."
+      "snippet": "Salesforce , Inc ., is an American cloud-based software company headquartered in San Francisco, California. It provides applications focused on sales "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://bloomberry.com/data/salesforce-crm/",
+      "url": "https://login.salesforce.com/",
       "query": "Salesforce, Inc. major customers clients",
-      "snippet": "We detected 41026 companies using Salesforce, 9828 companies that churned, and 1000 customers with upcoming renewal in the next 3 months."
+      "snippet": "Salesforce Salesforce . Edit List. Save.Not a customer ? Try for Free. Log In with a Different Username."
     }
   ]
 }

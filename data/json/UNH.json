@@ -4,34 +4,34 @@
   "sector": "Healthcare",
   "industry": "Healthcare Plans",
   "upstream": [
-    "Hospitals and health care providers",
     "Pharmaceutical manufacturers",
     "Medical device manufacturers",
-    "Health technology vendors",
-    "Pharmacy benefit managers"
+    "Technology vendors",
+    "Pharmacy benefit managers",
+    "Health data analytics providers"
   ],
   "downstream": [
-    "Employers and corporate clients",
-    "Individual policyholders",
+    "Employers (group plans)",
     "Government programs (Medicare, Medicaid)",
-    "Small businesses",
-    "Large corporations"
+    "Individual consumers",
+    "Health care providers (hospitals, clinics)",
+    "Pharmacy chains"
   ],
   "competitors": [
     "Aetna",
     "Cigna",
+    "Anthem",
     "Humana",
-    "Blue Cross Blue Shield",
-    "Kaiser Permanente"
+    "CVS Health"
   ],
   "key_products": [
-    "UnitedHealthcare insurance plans",
-    "Optum health services",
-    "OptumRx pharmacy benefit management",
-    "OptumInsight data analytics",
-    "OptumCare health services"
+    "Health insurance plans (individual & group)",
+    "Medicare Advantage & Prescription plans",
+    "Medicaid plans",
+    "Pharmacy benefit management services",
+    "Optum health data analytics & telehealth"
   ],
-  "extracted_at": "2026-03-13 16:37:24",
+  "extracted_at": "2026-03-16 17:03:01",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/UnitedHealth_Group",
+      "url": "https://pitchgrade.com/companies/unitedhealth",
       "query": "UnitedHealth Group Incorporated suppliers manufacturers",
-      "snippet": "UnitedHealth Group Incorporated is an American multinational for-profit company based in Eden Prairie, Minnesota specializing in health insurance and "
+      "snippet": "UnitedHealth Group Incorporated is publicly traded on the NYQ under the ticker symbol UNH. As a public company, it is owned by millions of shareholder"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.unitedhealthgroup.com/suppliers/procurement.html",
+      "url": "https://artificall.com/analysis/companies/unitedhealth-group-incorporated/",
       "query": "UnitedHealth Group Incorporated suppliers manufacturers",
-      "snippet": "UnitedHealth Group's Supplier Compliance Program webpage provides education and resources for our suppliers related to our compliance policies and pro"
+      "snippet": "UnitedHealth Group Incorporated ranks 1st among its 7 competitors, with a market cap 1.059 times that of the top player (itself). It is positioned wel"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.marketresearch.com/MarketLine-v3883/UnitedHealth-Group-Incorporated-Company-Profile-38951281/",
+      "url": "https://pitchgrade.com/companies/unitedhealth",
       "query": "UnitedHealth Group Incorporated major customers clients",
-      "snippet": "UnitedHealth Group Incorporated ( UnitedHealth Group or 'the company) is a health care company. The company provides health care benefits and services"
+      "snippet": "Customer Segments: UnitedHealth Group Incorporated serves multiple distinct customer segments, which may include consumers, small and medium businesse"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.zacks.com/stock/news/2881057/healthcare-jobs-drop-unitedhealth-stock-slips-opportunity-or-risk",
+      "url": "https://greyknight.co.uk/united-health-group-business-model/",
       "query": "UnitedHealth Group Incorporated major customers clients",
-      "snippet": "UnitedHealth Group Incorporated .Over the past four quarters, the company has missed estimates twice and beat twice, producing an average earnings sur"
+      "snippet": "UnitedHealth Group Incorporated is a diversified health and well-being company based in Minnetonka, Minnesota. It was founded in 1977 by Richard Burke"
     }
   ]
 }

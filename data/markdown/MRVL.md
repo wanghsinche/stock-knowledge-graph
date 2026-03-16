@@ -3,8 +3,8 @@ ticker: MRVL
 company: Marvell Technology, Inc.
 sector: Technology
 industry: Semiconductors
-extracted_at: 2026-03-11 16:46:17
-last_updated: 2026-03-11
+extracted_at: 2026-03-16 17:02:08
+last_updated: 2026-03-16
 ---
 
 # MRVL - Marvell Technology, Inc.
@@ -12,46 +12,46 @@ last_updated: 2026-03-11
 ## 基本信息
 
 - **所属行业**: Technology / Semiconductors
-- **提取时间**: 2026-03-11 16:46:17
+- **提取时间**: 2026-03-16 17:02:08
 
 ## 产业链关系
 
 ### 上游供应商
-- [[TSM]]
-- [[005930.KS]]
-- [[GlobalFoundries]]
-- [[INTC]]
-- [[SMIC]]
+- [[AMAT]]
+- [[ASML]]
+- [[LRCX]]
+- [[Tokyo Electron]]
+- [[KLA]]
 
 ### 下游客户
 - [[CSCO]]
 - [[DELL]]
-- [[Huawei Technologies]]
-- [[Nokia]]
-- [[MSFT]]
+- [[Huawei]]
+- [[005930.KS]]
+- [[AAPL]]
 
 ### 竞争对手
 - [[AVGO]]
 - [[QCOM]]
 - [[INTC]]
+- [[MediaTek]]
 - [[NVDA]]
-- [[AMD]]
 
 ### 核心产品
-- [[Storage controller chips]]
-- [[Networking ASICs]]
-- [[Wi‑Fi and Bluetooth chips]]
-- [[5G modem solutions]]
-- [[Embedded processors]]
+- [[Ethernet controllers]]
+- [[Wi‑Fi and 5G modems]]
+- [[Storage controllers]]
+- [[Network processors]]
+- [[SoCs for data centers]]
 
 ## 数据来源
 
 - [Marvell Technology](https://en.wikipedia.org/wiki/Marvell_Technology,_Inc.)
-- [Marvell Technology, Inc. suppliers manufacturers](https://ru.wikipedia.org/wiki/Marvell)
+- [Marvell Technology, Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/Marvell_Technology)
 - [Marvell Technology, Inc. suppliers manufacturers](https://www.marvell.com/)
-- [Marvell Technology, Inc. major customers clients](https://en.wikipedia.org/wiki/Marvell_Technology)
-- [Marvell Technology, Inc. major customers clients](https://www.marvell.com/blogs/marvell-named-to-worlds-most-trustworthy-companies-list-2025.html)
+- [Marvell Technology, Inc. major customers clients](https://csimarket.com/stocks/MRVL-Customers)
+- [Marvell Technology, Inc. major customers clients](https://pestel-analysis.com/blogs/target-market/marvell)
 
 ## 元数据
 
-- **更新日期**: 2026-03-11
+- **更新日期**: 2026-03-16

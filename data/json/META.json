@@ -4,25 +4,25 @@
   "sector": "Communication Services",
   "industry": "Internet Content & Information",
   "upstream": [
-    "QCOM",
-    "NVDA",
+    "DELL",
+    "HPQ",
+    "CSCO",
     "INTC",
-    "005930.KS",
-    "TSM"
+    "NVDA"
   ],
   "downstream": [
     "Advertisers (global brands)",
+    "Individual users",
     "App developers",
     "Content creators",
-    "Gamers",
-    "META"
+    "Business partners"
   ],
   "competitors": [
-    "GOOGL",
-    "AMZN",
-    "AAPL",
+    "X (Twitter)",
+    "Snap Inc.",
+    "ByteDance (TikTok)",
     "MSFT",
-    "ByteDance (TikTok)"
+    "Pinterest"
   ],
   "key_products": [
     "Facebook",
@@ -30,11 +30,10 @@
     "WhatsApp",
     "Messenger",
     "Threads",
-    "Meta Quest (VR)",
-    "Meta Ads",
-    "Meta Business Suite"
+    "Meta Quest",
+    "Meta Portal"
   ],
-  "extracted_at": "2026-03-13 16:29:21",
+  "extracted_at": "2026-03-16 16:54:36",
   "sources": [
     {
       "source": "Wikipedia",
@@ -44,27 +43,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://it.wikipedia.org/wiki/Meta_Platforms",
+      "url": "https://en.wikipedia.org/wiki/List_of_computer_hardware_manufacturers",
       "query": "Meta Platforms, Inc. suppliers manufacturers",
-      "snippet": "Meta Platforms , Inc ., nota più semplicemente come Meta , è un'impresa statunitense attiva nel settore della tecnologia con sede a Menlo Park, in Cal"
+      "snippet": "Current notable computer hardware manufacturers : Cases. [edit]. List of computer case manufacturers : This list is incomplete; you can help by adding"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.g2.com/sellers/meta-platforms-inc",
+      "url": "https://www.meta.com/about/",
       "query": "Meta Platforms, Inc. suppliers manufacturers",
-      "snippet": "Meta Platforms , Inc has been rated 4.3 stars by 5553 verified reviews on G2."
+      "snippet": "Meta - Social Media Advertising Platform (Facebook & Instagram)."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ru.wikipedia.org/wiki/Meta_Platforms",
+      "url": "https://csimarket.com/stocks/META-Customers",
       "query": "Meta Platforms, Inc. major customers clients",
-      "snippet": "Meta Platforms , Inc . — американская транснациональная холдинговая компания, владеющая технологическим конгломератом и расположенная в Менло-Парке, К"
+      "snippet": "For your research, we’ve provided 9 tables on Meta Platforms Inc corporate clients . You can find them in the navigation menu under Customers & Market"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.g2.com/sellers/meta-platforms-inc",
+      "url": "https://canvasbusinessmodel.com/blogs/target-market/meta-target-market",
       "query": "Meta Platforms, Inc. major customers clients",
-      "snippet": "Meta Platforms , Inc . is a global leader in social technology, connecting people and businesses through its family of apps like Facebook, Instagram, "
+      "snippet": "Jul 26, 2025 · Meta ' s primary customer segments are divided into individual users (B2C) and businesses/advertisers (B2B). The company's revenue mode"
     }
   ]
 }

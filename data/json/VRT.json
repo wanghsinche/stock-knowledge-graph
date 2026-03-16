@@ -1,37 +1,37 @@
 {
   "ticker": "VRT",
   "company_name": "Vertiv Holdings Co",
-  "sector": "Industrials",
-  "industry": "Electrical Equipment & Parts",
+  "sector": "Industrials / Electrical Equipment & Parts",
+  "industry": "Data Center Infrastructure",
   "upstream": [
-    "Schneider Electric",
-    "Eaton",
     "ABB",
-    "Siemens",
-    "Rittal"
+    "Schneider Electric",
+    "Delta Electronics",
+    "Nidec",
+    "Siemens"
   ],
   "downstream": [
     "AMZN",
     "GOOGL",
     "MSFT",
-    "AT&T",
-    "Verizon"
+    "Equinix",
+    "AT&T"
   ],
   "competitors": [
     "Schneider Electric",
-    "Eaton",
     "ABB",
-    "Siemens",
-    "Rittal"
+    "Eaton",
+    "Delta Electronics",
+    "Nidec"
   ],
   "key_products": [
     "Power Distribution Units (PDUs)",
+    "Computer Room Air Conditioning (CRAC) units",
     "Uninterruptible Power Supplies (UPS)",
-    "Data Center Cooling Systems",
-    "Rack-Mount Power Distribution",
-    "Data Center Infrastructure Management (DCIM) Software"
+    "Cooling solutions",
+    "Data Center Infrastructure Management (DCIM) software"
   ],
-  "extracted_at": "2026-03-13 16:34:30",
+  "extracted_at": "2026-03-16 16:59:17",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://partners.vertiv.com/English/directory",
+      "url": "https://finance.yahoo.com/quote/VRT/",
       "query": "Vertiv Holdings Co suppliers manufacturers",
-      "snippet": "Information and Product Security. Report a Security Concern. Corporate. About Vertiv ."
+      "snippet": "News headlines Vertiv Holdings Co . (VRT) has experienced a 12.2% stock price increase since its last earnings report, driven by strong performance me"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://elioplus.com/profile/channel-partners/vertiv",
+      "url": "https://stockanalysis.com/stocks/vrt/company/",
       "query": "Vertiv Holdings Co suppliers manufacturers",
-      "snippet": "Find in the list below a Vertiv reseller or a channel partner that are currently on our platform. You can locate the Vertiv partners based on their co"
+      "snippet": "Company profile for Vertiv Holdings Co (VRT) stock, with a description, list of executives, contact details and other key facts."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://vertiv.com/",
+      "url": "https://simplywall.st/community/narratives/us/capital-goods/nyse-vrt/vertiv-holdings-co/x26r1isx-analysts-raise-vertiv-price-target-amid-executive-changes-and-upbeat-growth-outlook",
       "query": "Vertiv Holdings Co major customers clients",
-      "snippet": "Vertiv Holdings Co ."
+      "snippet": "Analysts have raised their price target for Vertiv Holdings Co . from $173.11 to $192.66. They cite improved revenue growth expectations and slight ad"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.nasdaq.com/articles/bull-of-the-day:-vertiv-holdings-co-vrt-0",
+      "url": "https://www.gurufocus.com/stock/MIL:1VRT/summary",
       "query": "Vertiv Holdings Co major customers clients",
-      "snippet": "Vertiv Holdings Co (VRT) stock has doubled Nvidia over the last 12 months, driven by Wall Street’s insatiable appetite for AI-boosted growth."
+      "snippet": "Vertiv Holdings Co Stock Events. Financials Calendars. Download to Excel(.xlsx).The Forward Dividend Yield % of Vertiv Holdings Co (MIL:1VRT) is 0.09%"
     }
   ]
 }

@@ -1,37 +1,37 @@
 {
   "ticker": "ACN",
   "company_name": "Accenture plc",
-  "sector": "Technology",
+  "sector": "Technology / Information Technology Services",
   "industry": "Information Technology Services",
   "upstream": [
     "MSFT",
-    "AMZN",
-    "GOOGL",
     "IBM",
-    "ORCL"
+    "ORCL",
+    "SAP",
+    "GOOGL"
   ],
   "downstream": [
+    "Cardinal Health",
     "Walmart",
     "Coca‑Cola",
-    "JPMorgan Chase",
-    "Bank of America",
-    "AT&T"
+    "AT&T",
+    "MSFT"
   ],
   "competitors": [
-    "Deloitte",
-    "PwC",
-    "EY",
-    "KPMG",
+    "Deloitte Consulting",
+    "PwC Consulting",
+    "EY Advisory",
+    "KPMG Advisory",
     "IBM"
   ],
   "key_products": [
     "Digital Transformation Consulting",
     "Cloud Services",
     "Cybersecurity Services",
-    "Analytics & AI",
-    "Automation & Managed Services"
+    "Analytics & AI Services",
+    "Managed Services"
   ],
-  "extracted_at": "2026-02-26 16:52:28",
+  "extracted_at": "2026-03-16 17:01:58",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,25 +43,25 @@
       "source": "DuckDuckGo",
       "url": "https://www.accenture.com/us-en/services/ecosystem-partners",
       "query": "Accenture plc suppliers manufacturers",
-      "snippet": "Accenture's ecosystem partners and suppliers bring deep expertise and the right technology to our clients for lasting value and accelerate change. Lea"
+      "snippet": "Accenture’ s ecosystem partners and suppliers bring deep expertise and the right technology to our clients for lasting value and accelerate change. Le"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://csimarket.com/stocks/ACN-Suppliers",
       "query": "Accenture plc suppliers manufacturers",
-      "snippet": "Accenture Plc's Comment on Supply Chain We combine our capabilities across management consulting, technology and business process outsourcing to provi"
+      "snippet": "Dec 21, 2025 · For your research, we’ve provided nine additional tables on Accenture Plc ’ s suppliers . You can find them in the navigation menu unde"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.marketresearch.com/GlobalData-v3648/Accenture-Plc-ACN-Financial-Strategic-36870190/",
+      "url": "https://newsroom.accenture.com/fact-sheet",
       "query": "Accenture plc major customers clients",
-      "snippet": "Accenture Plc - Major Products and Services. Accenture Plc , Recent Deals Summary. Section 4 – Company’s Recent Developments. Apr 03, 2024: Accenture "
+      "snippet": "Aug 31, 2025 · Our strategists and deep industry, functional, customer and technology consultants work hand-in-hand with our clients and across our ca"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/news/accenture-plc-acn-among-bourgeon-144357227.html",
+      "url": "https://thecambridgeconsultant.com/accentures-biggest-clients/",
       "query": "Accenture plc major customers clients",
-      "snippet": "Accenture plc (NYSE:ACN). Number of Hedge Fund Holders as of Q4: 79. Bourgeon Capital’s Equity Stake: $14.48 Million."
+      "snippet": "Cardinal Health, Inc is the biggest client of Accenture and offers customized solutions for health systems, pharmacies, and hospitals. See full list o"
     }
   ]
 }
