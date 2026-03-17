@@ -4,34 +4,34 @@
   "sector": "Technology",
   "industry": "Software - Application",
   "upstream": [
-    "MSFT",
     "AMZN",
+    "MSFT",
     "GOOGL",
-    "IBM",
-    "ORCL"
+    "ORCL",
+    "IBM"
   ],
   "downstream": [
-    "GOOGL",
-    "AMZN",
-    "MSFT",
-    "Bank of America",
-    "Coca‑Cola"
+    "Walmart",
+    "JPMorgan Chase",
+    "AT&T",
+    "CSCO",
+    "Bank of America"
   ],
   "competitors": [
     "CRM",
-    "Workday",
     "SAP",
     "ORCL",
-    "MSFT"
+    "MSFT",
+    "IBM"
   ],
   "key_products": [
-    "Now Platform",
+    "ServiceNow Platform",
     "IT Service Management (ITSM)",
     "IT Operations Management (ITOM)",
     "IT Business Management (ITBM)",
     "Customer Service Management (CSM)"
   ],
-  "extracted_at": "2026-03-16 17:02:48",
+  "extracted_at": "2026-03-17 17:06:56",
   "sources": [
     {
       "source": "Wikipedia",
@@ -53,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.aventionmedia.com/technology-installed-base/servicenow/",
+      "url": "https://www.servicenow.com/",
       "query": "ServiceNow, Inc. major customers clients",
-      "snippet": "Businesses whose solutions and services can help Cloud- Service Customers achieve any of their business requirements can make use of our List of Compa"
+      "snippet": "Customer Service Management. Empower self- service , boost agent productivity, and speed up resolution.AI Agent Stories. Learn how ServiceNow customer"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://data.landbase.com/technology/servicenow/",
+      "url": "https://www.thestreet.com/employment/servicenow-ceo-delivers-a-troubling-ai-warning-to-new-grads",
       "query": "ServiceNow, Inc. major customers clients",
-      "snippet": "Aug 17, 2025 · Our ServiceNow customers list is available for download and comes enriched with vital company specifics, including industry classificat"
+      "snippet": "ServiceNow : Revenue up 22% with headcount-neutral growth, having automated 90% of customer service use cases. As AI enters the workforce, entry-level"
     }
   ]
 }

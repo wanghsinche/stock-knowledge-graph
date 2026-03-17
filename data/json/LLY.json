@@ -3,11 +3,35 @@
   "company_name": "Eli Lilly and Company",
   "sector": "Healthcare",
   "industry": "Drug Manufacturers - General",
-  "upstream": [],
-  "downstream": [],
-  "competitors": [],
-  "key_products": [],
-  "extracted_at": "2026-03-16 17:01:12",
+  "upstream": [
+    "Sigma-Aldrich",
+    "Thermo Fisher Scientific",
+    "Merck KGaA",
+    "BASF",
+    "Lonza"
+  ],
+  "downstream": [
+    "UnitedHealth Group",
+    "CVS Health",
+    "Walgreens Boots Alliance",
+    "Walmart",
+    "US Department of Veterans Affairs"
+  ],
+  "competitors": [
+    "Pfizer",
+    "Johnson & Johnson",
+    "Merck & Co.",
+    "AbbVie",
+    "Bristol Myers Squibb"
+  ],
+  "key_products": [
+    "Humira (adalimumab)",
+    "Trulicity (dulaglutide)",
+    "Mounjaro (tirzepatide)",
+    "Lantus (insulin glargine)",
+    "Jardiance (empagliflozin)"
+  ],
+  "extracted_at": "2026-03-17 16:59:06",
   "sources": [
     {
       "source": "Wikipedia",
@@ -23,9 +47,21 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.lilly.com/suppliers",
+      "url": "https://ru.wikipedia.org/wiki/Eli_Lilly_and_Company",
       "query": "Eli Lilly and Company suppliers manufacturers",
-      "snippet": "View supplier resources including accounts payable, invoicing, payments, new and existing supplier guidance, and the Lilly Supplier portal."
+      "snippet": "Eli Lilly and Company — американская фармацевтическая компания. Была основана в 1876 году в Индианаполисе, где по-прежнему располагается её штаб-кварт"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/LLY-Customers",
+      "query": "Eli Lilly and Company major customers clients",
+      "snippet": "Eli Lilly customers and markets, results by customer and performance relative to LLY, by company and industry - CSIMarket"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.hivelr.com/2023/08/eli-lilly-porters-five-forces-industry-and-competition-analysis/",
+      "query": "Eli Lilly and Company major customers clients",
+      "snippet": "Aug 30, 2023 · Overall, while buyers have some influence, Eli Lilly ’s strong portfolio of pharmaceuticals and brand reputation often allows the compa"
     }
   ]
 }

@@ -4,36 +4,34 @@
   "sector": "Communication Services",
   "industry": "Internet Content & Information",
   "upstream": [
-    "DELL",
-    "HPQ",
-    "CSCO",
+    "NVDA",
     "INTC",
-    "NVDA"
+    "AMD",
+    "CSCO",
+    "DELL"
   ],
   "downstream": [
-    "Advertisers (global brands)",
-    "Individual users",
+    "Advertisers (brands & agencies)",
     "App developers",
     "Content creators",
-    "Business partners"
+    "META",
+    "End users of Facebook, Instagram, WhatsApp, Messenger"
   ],
   "competitors": [
-    "X (Twitter)",
-    "Snap Inc.",
-    "ByteDance (TikTok)",
+    "GOOGL",
+    "AMZN",
+    "AAPL",
     "MSFT",
-    "Pinterest"
+    "ByteDance (TikTok)"
   ],
   "key_products": [
     "Facebook",
     "Instagram",
     "WhatsApp",
     "Messenger",
-    "Threads",
-    "Meta Quest",
-    "Meta Portal"
+    "Meta Ads Manager"
   ],
-  "extracted_at": "2026-03-16 16:54:36",
+  "extracted_at": "2026-03-17 16:58:04",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/List_of_computer_hardware_manufacturers",
-      "query": "Meta Platforms, Inc. suppliers manufacturers",
-      "snippet": "Current notable computer hardware manufacturers : Cases. [edit]. List of computer case manufacturers : This list is incomplete; you can help by adding"
-    },
-    {
-      "source": "DuckDuckGo",
       "url": "https://www.meta.com/about/",
       "query": "Meta Platforms, Inc. suppliers manufacturers",
       "snippet": "Meta - Social Media Advertising Platform (Facebook & Instagram)."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/META-Customers",
-      "query": "Meta Platforms, Inc. major customers clients",
-      "snippet": "For your research, we’ve provided 9 tables on Meta Platforms Inc corporate clients . You can find them in the navigation menu under Customers & Market"
+      "url": "https://www.computerhope.com/comp/meta.htm",
+      "query": "Meta Platforms, Inc. suppliers manufacturers",
+      "snippet": "Before it was rebranded as Meta in October 2021, Meta was known as Facebook Inc . According to Zuckerberg, the name Meta emphasizes their focus on VR "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://canvasbusinessmodel.com/blogs/target-market/meta-target-market",
+      "url": "https://ru.wikipedia.org/wiki/Meta_Platforms",
       "query": "Meta Platforms, Inc. major customers clients",
-      "snippet": "Jul 26, 2025 · Meta ' s primary customer segments are divided into individual users (B2C) and businesses/advertisers (B2B). The company's revenue mode"
+      "snippet": "Meta Platforms , Inc . — американская транснациональная холдинговая компания, владеющая технологическим конгломератом и расположенная в Менло-Парке, К"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.cnn.com/markets/stocks/META",
+      "query": "Meta Platforms, Inc. major customers clients",
+      "snippet": "View Meta Platforms Inc Class A META stock quote prices, financial information, real-time forecasts, and company news from CNN."
     }
   ]
 }

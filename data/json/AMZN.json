@@ -1,37 +1,37 @@
 {
   "ticker": "AMZN",
   "company_name": "Amazon.com, Inc.",
-  "sector": "Consumer Cyclical",
+  "sector": "Consumer Discretionary",
   "industry": "Internet Retail",
   "upstream": [
-    "INTC",
-    "AMD",
-    "NVDA",
-    "UPS",
-    "FedEx"
+    "AAPL",
+    "005930.KS",
+    "DELL",
+    "HPQ",
+    "SONY"
   ],
   "downstream": [
     "AMZN",
-    "Third‑party sellers",
-    "AWS enterprise customers",
-    "Advertisers",
-    "AMZN"
+    "NFLX",
+    "Airbnb, Inc.",
+    "005930.KS",
+    "ADBE"
   ],
   "competitors": [
-    "eBay",
-    "Walmart",
-    "Alibaba",
-    "MSFT",
-    "GOOGL"
+    "Walmart Inc.",
+    "Alibaba Group Holding Ltd.",
+    "eBay Inc.",
+    "Shopify Inc.",
+    "MSFT"
   ],
   "key_products": [
-    "Amazon Marketplace",
-    "Amazon Prime",
-    "AWS",
-    "Amazon Echo",
-    "Kindle"
+    "Amazon.com e‑commerce platform",
+    "Amazon Prime subscription services",
+    "Amazon Web Services (cloud computing)",
+    "Amazon Echo (Alexa smart speaker)",
+    "Amazon Kindle (e‑reader)"
   ],
-  "extracted_at": "2026-03-16 16:55:07",
+  "extracted_at": "2026-03-17 16:57:48",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.ecomdepotwholesale.com/post/list-of-amazon-authorized-suppliers-for-2024-the-complete-guide-to-finding-verified-suppliers",
-      "query": "Amazon.com, Inc. suppliers manufacturers",
-      "snippet": "Oct 21, 2024 · To ensure your success, we've put together a list of Amazon authorized suppliers for 2024. These verified suppliers understand Amazon's"
-    },
-    {
-      "source": "DuckDuckGo",
       "url": "https://bigframe.net/who-are-amazons-main-suppliers/",
       "query": "Amazon.com, Inc. suppliers manufacturers",
       "snippet": "Oct 6, 2023 · These suppliers range from small businesses to multinational corporations, each playing a crucial role in Amazon’s supply chain. This ar"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://capitaloneshopping.com/research/amazon-statistics/",
-      "query": "Amazon.com, Inc. major customers clients",
-      "snippet": "Jan 28, 2026 · Over 310 million global consumers shop on Amazon at least once a year. 2 million active selling partners have shops on Amazon. Independ"
+      "url": "https://www.ecomdepotwholesale.com/post/list-of-amazon-authorized-suppliers-for-2024-the-complete-guide-to-finding-verified-suppliers",
+      "query": "Amazon.com, Inc. suppliers manufacturers",
+      "snippet": "Oct 21, 2024 · To ensure your success, we've put together a list of Amazon authorized suppliers for 2024. These verified suppliers understand Amazon's"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/AMZN-Customers",
+      "url": "https://ir.aboutamazon.com/",
       "query": "Amazon.com, Inc. major customers clients",
-      "snippet": "Mar 5, 2026 · Updated on: Thursday, March 5, 2026 10:31 PM Focus of this report: Amazon com Inc ’s corporate clients . For your research, we’ve provid"
+      "snippet": "Amazon . com , Inc . (NASDAQ: AMZN) today announced financial results for its second quarter ended June 30, 2025. Net sales increased 13% to $167.7 bi"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.amazon.com/cart/add-to-cart/ref=dp_start-bbf_1_glance",
+      "query": "Amazon.com, Inc. major customers clients",
+      "snippet": "The price and availability of items at Amazon . com are subject to change. The Cart is a temporary place to store a list of your items and reflects ea"
     }
   ]
 }

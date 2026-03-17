@@ -3,8 +3,8 @@ ticker: ORCL
 company: Oracle Corporation
 sector: Technology
 industry: Software - Infrastructure
-extracted_at: 2026-03-16 16:56:24
-last_updated: 2026-03-16
+extracted_at: 2026-03-17 16:59:20
+last_updated: 2026-03-17
 ---
 
 # ORCL - Oracle Corporation
@@ -12,7 +12,7 @@ last_updated: 2026-03-16
 ## 基本信息
 
 - **所属行业**: Technology / Software - Infrastructure
-- **提取时间**: 2026-03-16 16:56:24
+- **提取时间**: 2026-03-17 16:59:20
 
 ## 产业链关系
 
@@ -21,37 +21,37 @@ last_updated: 2026-03-16
 - [[AMD]]
 - [[NVDA]]
 - [[CSCO]]
-- [[JNPR]]
+- [[DELL]]
 
 ### 下游客户
 - [[Walmart]]
 - [[JPMorgan Chase]]
-- [[Bank of America]]
 - [[AT&T]]
-- [[Verizon]]
+- [[Bank of America]]
+- [[General Motors]]
 
 ### 竞争对手
 - [[MSFT]]
 - [[AMZN]]
+- [[GOOGL]]
 - [[IBM]]
 - [[SAP]]
-- [[GOOGL]]
 
 ### 核心产品
 - [[Oracle Database]]
 - [[Oracle Cloud Infrastructure]]
 - [[Oracle Autonomous Database]]
 - [[Oracle E-Business Suite]]
-- [[Oracle Fusion Middleware]]
+- [[Oracle Fusion Applications]]
 
 ## 数据来源
 
 - [Oracle Corporation](https://en.wikipedia.org/wiki/Oracle_Corporation)
 - [Oracle Corporation suppliers manufacturers](https://www.oracle.com/corporate/suppliers/)
-- [Oracle Corporation suppliers manufacturers](https://www.trademo.com/manufacturers/oracle)
+- [Oracle Corporation suppliers manufacturers](https://www.datacenters.com/providers/oracle/data-center-locations)
 - [Oracle Corporation major customers clients](https://en.wikipedia.org/wiki/Oracle_Corporation)
 - [Oracle Corporation major customers clients](https://www.oracle.com/corporate/)
 
 ## 元数据
 
-- **更新日期**: 2026-03-16
+- **更新日期**: 2026-03-17

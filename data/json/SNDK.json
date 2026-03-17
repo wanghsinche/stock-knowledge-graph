@@ -1,37 +1,37 @@
 {
   "ticker": "SNDK",
   "company_name": "Sandisk Corporation",
-  "sector": "Technology",
-  "industry": "Computer Hardware",
+  "sector": "Technology / Computer Hardware",
+  "industry": "Computer Storage",
   "upstream": [
     "MU",
     "005930.KS",
+    "Kioxia (formerly Toshiba Memory)",
     "SK Hynix",
-    "WDC",
     "INTC"
   ],
   "downstream": [
     "AAPL",
     "MSFT",
+    "SONY",
     "DELL",
-    "HPQ",
-    "AMZN"
+    "Nintendo Co., Ltd."
   ],
   "competitors": [
     "005930.KS",
+    "Kingston Technology",
     "MU",
     "WDC",
-    "Kingston",
-    "Crucial"
+    "Lexar"
   ],
   "key_products": [
-    "Memory cards",
+    "SD and microSD memory cards",
     "USB flash drives",
-    "Solid-state drives",
-    "SD cards",
-    "microSD cards"
+    "Solid‑state drives (SSDs)",
+    "Portable storage devices",
+    "Embedded flash memory solutions"
   ],
-  "extracted_at": "2026-03-16 16:54:22",
+  "extracted_at": "2026-03-17 16:56:44",
   "sources": [
     {
       "source": "Wikipedia",
@@ -53,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Sandisk",
+      "url": "https://data.landbase.com/technology/sandisk/",
       "query": "Sandisk Corporation major customers clients",
-      "snippet": "1 week ago - Sandisk Corporation (sometimes stylized as SanDisk, with the D capitalized in camelCase) is an American multinational computer technology"
+      "snippet": "Aug 17, 2025 · Our SanDisk customers list is available for download and comes enriched with vital company specifics, including industry classification"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.sandisk.com/company/about-us",
+      "url": "https://enlyft.com/tech/products/sandisk",
       "query": "Sandisk Corporation major customers clients",
-      "snippet": "In this role, he oversees product development across market segments, including consumer, client, gaming, automotive, and the data center. Ismail lead"
+      "snippet": "Looking at SanDisk customers by industry, we find that Information Technology and Services (12%), Marketing and Advertising (8%), Computer Software (8"
     }
   ]
 }

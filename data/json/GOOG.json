@@ -4,11 +4,11 @@
   "sector": "Communication Services",
   "industry": "Internet Content & Information",
   "upstream": [
-    "TSM",
     "INTC",
-    "QCOM",
+    "TSM",
     "005930.KS",
-    "NVDA"
+    "LG Display",
+    "DELL"
   ],
   "downstream": [
     "GOOGL",
@@ -22,16 +22,16 @@
     "AMZN",
     "META",
     "AAPL",
-    "Facebook"
+    "Tencent"
   ],
   "key_products": [
     "Google Search",
-    "Android OS",
-    "Google Cloud",
     "YouTube",
+    "Google Cloud Platform",
+    "Android OS",
     "Google Ads"
   ],
-  "extracted_at": "2026-03-16 16:56:14",
+  "extracted_at": "2026-03-17 16:59:49",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Alphabet_Inc.",
-      "query": "Alphabet Inc. suppliers manufacturers",
-      "snippet": "Alphabet Inc . has faced numerous legal and ethical controversies, including a 2017 lawsuit against Uber over stolen self-driving technology, a 2020 p"
-    },
-    {
-      "source": "DuckDuckGo",
       "url": "https://csimarket.com/stocks/GOOG-Suppliers",
       "query": "Alphabet Inc. suppliers manufacturers",
       "snippet": "Feb 6, 2026 · Alphabet Inc supply chain, list and performance of Alphabet Incs ' suppliers - CSIMarket"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/GOOG-Customers",
-      "query": "Alphabet Inc. major customers clients",
-      "snippet": "For your research, we’ve provided 9 tables on Alphabet Inc corporate clients . You can find them in the navigation menu under Customers & Markets. To "
+      "url": "https://companydata.com/company-profile/alphabet-inc/",
+      "query": "Alphabet Inc. suppliers manufacturers",
+      "snippet": "You can access detailed, verified data on Alphabet Inc and all its subsidiaries, updated daily by CompanyData.com. This includes company names, regist"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://pitchgrade.com/companies/alphabet-inc",
+      "url": "https://en.wikipedia.org/wiki/Alphabet_Inc.",
       "query": "Alphabet Inc. major customers clients",
-      "snippet": "Jan 16, 2026 · Customer Segments: Alphabet Inc . serves multiple distinct customer segments, which may include consumers, small and medium businesses,"
+      "snippet": "Alphabet Inc . is an American multinational technology conglomerate holding company headquartered in Mountain View, California. It was created through"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://finance.yahoo.com/quote/GOOG/",
+      "query": "Alphabet Inc. major customers clients",
+      "snippet": "Find the latest Alphabet Inc . (GOOG) stock quote, history, news and other vital information to help you with your stock trading and investing. Alphab"
     }
   ]
 }

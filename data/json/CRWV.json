@@ -2,36 +2,36 @@
   "ticker": "CRWV",
   "company_name": "CoreWeave, Inc.",
   "sector": "Technology / Software - Infrastructure",
-  "industry": "AI Cloud Computing",
+  "industry": "Artificial Intelligence Cloud Computing",
   "upstream": [
     "NVDA",
     "AMD",
     "INTC",
     "QCOM",
-    "Xilinx"
+    "AVGO"
   ],
   "downstream": [
     "OpenAI",
-    "GOOGL",
     "MSFT",
     "AMZN",
+    "GOOGL",
     "IBM"
   ],
   "competitors": [
-    "AMZN",
-    "GOOGL",
-    "MSFT",
-    "IBM",
-    "NVDA"
+    "Lambda Labs",
+    "Cerebras Systems",
+    "NVDA",
+    "AWS Inferentia",
+    "Azure AI"
   ],
   "key_products": [
-    "GPU‑based AI cloud infrastructure",
-    "GPU management and orchestration software",
-    "AI training and inference services",
-    "High‑performance computing (HPC) instances",
-    "Custom AI workloads on dedicated GPUs"
+    "GPU-based AI cloud infrastructure",
+    "GPU virtualization services",
+    "AI compute instances",
+    "Chip management software",
+    "High-performance GPU clusters"
   ],
-  "extracted_at": "2026-03-16 16:58:00",
+  "extracted_at": "2026-03-17 17:03:59",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,7 +43,7 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/CoreWeave",
       "query": "CoreWeave, Inc. suppliers manufacturers",
-      "snippet": "CoreWeave , Inc . is an American artificial intelligence (AI) cloud-computing company based in Livingston, New Jersey."
+      "snippet": "CoreWeave , Inc . is an American artificial intelligence cloud-computing company based in Livingston, New Jersey."
     },
     {
       "source": "DuckDuckGo",

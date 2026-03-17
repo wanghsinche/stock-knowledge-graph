@@ -3,8 +3,8 @@ ticker: INTC
 company: Intel Corporation
 sector: Technology
 industry: Semiconductors
-extracted_at: 2026-03-16 16:56:04
-last_updated: 2026-03-16
+extracted_at: 2026-03-17 16:58:52
+last_updated: 2026-03-17
 ---
 
 # INTC - Intel Corporation
@@ -12,7 +12,7 @@ last_updated: 2026-03-16
 ## 基本信息
 
 - **所属行业**: Technology / Semiconductors
-- **提取时间**: 2026-03-16 16:56:04
+- **提取时间**: 2026-03-17 16:58:52
 
 ## 产业链关系
 
@@ -20,8 +20,8 @@ last_updated: 2026-03-16
 - [[TSM]]
 - [[005930.KS]]
 - [[MU]]
-- [[SK Hynix]]
-- [[GlobalFoundries]]
+- [[ASML]]
+- [[AMAT]]
 
 ### 下游客户
 - [[DELL]]
@@ -35,14 +35,14 @@ last_updated: 2026-03-16
 - [[NVDA]]
 - [[QCOM]]
 - [[AVGO]]
-- [[TSM]]
+- [[005930.KS]]
 
 ### 核心产品
 - [[Intel Core CPUs]]
-- [[Xeon Processors]]
-- [[Intel Chipsets]]
-- [[AI Inference Accelerators]]
-- [[Integrated Graphics]]
+- [[Intel Xeon CPUs]]
+- [[Intel Arc GPUs]]
+- [[Intel FPGAs]]
+- [[Intel AI accelerators]]
 
 ## 数据来源
 
@@ -54,4 +54,4 @@ last_updated: 2026-03-16
 
 ## 元数据
 
-- **更新日期**: 2026-03-16
+- **更新日期**: 2026-03-17

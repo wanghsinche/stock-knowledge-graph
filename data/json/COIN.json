@@ -6,16 +6,16 @@
   "upstream": [
     "AMZN",
     "MSFT",
-    "Stripe (payment processing)",
-    "Plaid (financial data aggregation)",
-    "Chainalysis (blockchain analytics)"
+    "GOOGL",
+    "Stripe",
+    "PayPal"
   ],
   "downstream": [
     "Retail cryptocurrency traders",
     "Institutional investors",
-    "Crypto asset managers",
-    "Merchants accepting crypto payments",
-    "DeFi protocol developers"
+    "Crypto funds and hedge funds",
+    "DeFi protocol developers",
+    "Blockchain startups"
   ],
   "competitors": [
     "Binance",
@@ -29,9 +29,9 @@
     "Custody services for institutional clients",
     "Staking and yield products",
     "Crypto wallet and mobile app",
-    "API and developer tools"
+    "API for algorithmic trading"
   ],
-  "extracted_at": "2026-03-16 16:57:26",
+  "extracted_at": "2026-03-17 17:01:20",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,21 +47,21 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ru.wikipedia.org/wiki/Coinbase",
+      "url": "https://finance.yahoo.com/quote/COIN/",
       "query": "Coinbase Global, Inc. suppliers manufacturers",
-      "snippet": "Coinbase Global , Inc . (бренд Coinbase ) — американская публичная компания, которая управляет онлайн-сервисом обмена цифровых валют (биржей криптовал"
+      "snippet": "Coinbase Global , Inc . OverviewFinancial Data & Stock Exchanges / Financial Services. Coinbase Global , Inc . operates platform for crypto assets in "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Coinbase",
+      "url": "https://csimarket.com/stocks/COIN-Customers",
       "query": "Coinbase Global, Inc. major customers clients",
-      "snippet": "Coinbase Global , Inc . is an American cryptocurrency exchange. It was founded in 2012 by Brian Armstrong and Fred Ehrsam."
+      "snippet": "Coinbase Global Inc customers and markets, results by customer and performance relative to COIN, by company and industry - CSIMarket"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.coinbase.com/",
+      "url": "https://www.demandsage.com/coinbase-users-statistics/",
       "query": "Coinbase Global, Inc. major customers clients",
-      "snippet": "Coinbase United States is a secure online platform for buying, selling, transferring, and storing cryptocurrency. Coinbase believes crypto will be par"
+      "snippet": "Aug 13, 2025 · Coinbase ’s user base stands at around 120 million, meaning it serves about 19.45% of all global cryptocurrency users. This makes Coinb"
     }
   ]
 }

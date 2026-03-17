@@ -4,11 +4,11 @@
   "sector": "Technology",
   "industry": "Software - Application",
   "upstream": [
+    "INTC",
+    "AMD",
+    "NVDA",
     "AMZN",
-    "MSFT",
-    "GOOGL",
-    "ADBE",
-    "ADBE"
+    "MSFT"
   ],
   "downstream": [
     "Coca‑Cola",
@@ -18,20 +18,20 @@
     "MSFT"
   ],
   "competitors": [
+    "MSFT",
+    "AAPL",
     "Autodesk",
-    "Corel",
-    "Serif",
-    "Affinity",
-    "Canva"
+    "Canva",
+    "Figma"
   ],
   "key_products": [
     "Adobe Photoshop",
     "Adobe Illustrator",
-    "Adobe InDesign",
     "Adobe Premiere Pro",
+    "Adobe After Effects",
     "Adobe Acrobat"
   ],
-  "extracted_at": "2026-03-16 16:56:48",
+  "extracted_at": "2026-03-17 17:03:24",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,15 +41,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.adobe.com/procurement.html",
+      "url": "https://en.wikipedia.org/wiki/Adobe_Inc.",
       "query": "Adobe Inc. suppliers manufacturers",
-      "snippet": "Adobe aims at building long-term business partnerships with a select group of suppliers that share our commitment to delivering the highest quality pr"
+      "snippet": "Adobe Systems Incorporated (1982–2018). Company type. Adobe added kanji printer products in 1988.[16] Warnock and Geschke were also able to bolster th"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/ADBE-Suppliers",
+      "url": "https://www.adobe.com/",
       "query": "Adobe Inc. suppliers manufacturers",
-      "snippet": "Jan 22, 2026 · For your research, we’ve provided nine additional tables on Adobe Inc ’ s suppliers . You can find them in the navigation menu under Su"
+      "snippet": "Adobe is changing the world through digital experiences. Adobe Firefly. Generate without limits. Unlimited generations."
     },
     {
       "source": "DuckDuckGo",
@@ -61,7 +61,7 @@
       "source": "DuckDuckGo",
       "url": "https://www.appsruntheworld.com/customers-database/products/view/adobe-creative-cloud",
       "query": "Adobe Inc. major customers clients",
-      "snippet": "Customers of Adobe Creative Cloud include firms across all revenue levels — from $0-100M, to $101M-$1B, $1B-$10B, and $10B+ global corporations."
+      "snippet": "Since 2010, our global team of researchers has been studying Adobe Creative Cloud customers around the world, aggregating massive amounts of data poin"
     }
   ]
 }

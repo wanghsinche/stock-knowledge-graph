@@ -2,7 +2,7 @@
   "ticker": "CRM",
   "company_name": "Salesforce, Inc.",
   "sector": "Technology",
-  "industry": "Software – Application",
+  "industry": "Software - Application",
   "upstream": [
     "AMZN",
     "MSFT",
@@ -12,17 +12,17 @@
   ],
   "downstream": [
     "Coca‑Cola",
-    "Ford Motor Company",
+    "Toyota",
     "American Express",
-    "Unilever",
-    "Airbnb"
+    "Spotify",
+    "ADBE"
   ],
   "competitors": [
     "MSFT",
     "SAP Customer Experience",
     "ORCL",
-    "ADBE",
-    "HubSpot"
+    "HubSpot",
+    "Zoho CRM"
   ],
   "key_products": [
     "Sales Cloud",
@@ -31,7 +31,7 @@
     "Commerce Cloud",
     "Einstein AI"
   ],
-  "extracted_at": "2026-03-16 16:59:26",
+  "extracted_at": "2026-03-17 17:07:24",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,15 +41,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Salesforce",
-      "query": "Salesforce, Inc. suppliers manufacturers",
-      "snippet": "Salesforce , Inc ., is an American cloud -based software company headquartered in San Francisco, California. It provides applications focused on sales"
-    },
-    {
-      "source": "DuckDuckGo",
       "url": "https://www.salesforce.com/company/our-brands/",
       "query": "Salesforce, Inc. suppliers manufacturers",
       "snippet": "See our full list of Salesforce brands and find out how these companies inspire innovation to provide customer solutions."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.salesforce.com/company/locations/",
+      "query": "Salesforce, Inc. suppliers manufacturers",
+      "snippet": "Salesforce has a worldwide presence. Browse our locations across the globe and see how we're changing AI and CRM in your country."
     },
     {
       "source": "DuckDuckGo",

@@ -3,8 +3,8 @@ ticker: CRDO
 company: Credo Technology Group Holding Ltd
 sector: Technology
 industry: Semiconductors
-extracted_at: 2026-03-03 16:44:05
-last_updated: 2026-03-03
+extracted_at: 2026-03-17 17:04:24
+last_updated: 2026-03-17
 ---
 
 # CRDO - Credo Technology Group Holding Ltd
@@ -12,46 +12,46 @@ last_updated: 2026-03-03
 ## 基本信息
 
 - **所属行业**: Technology / Semiconductors
-- **提取时间**: 2026-03-03 16:44:05
+- **提取时间**: 2026-03-17 17:04:24
 
 ## 产业链关系
 
 ### 上游供应商
-- [[CAT]]
+- [[Silicon wafer suppliers]]
+- [[Photolithography equipment manufacturers]]
+- [[Laser diode manufacturers]]
+- [[Optical fiber manufacturers]]
 - [[Electronic component suppliers]]
-- [[Optical component manufacturers]]
-- [[Audio component suppliers]]
-- [[Technology accessory suppliers]]
 
 ### 下游客户
-- [[OEM electronics manufacturers]]
-- [[CAT]]
-- [[Consumer electronics brands]]
-- [[Automotive electronics suppliers]]
-- [[Industrial equipment manufacturers]]
+- [[MSFT]]
+- [[Telecom operators (e.g., China Mobile, AT&T)]]
+- [[CSCO]]
+- [[Cloud service providers]]
+- [[Enterprise IT infrastructure vendors]]
 
 ### 竞争对手
-- [[NVDA]]
-- [[AMD]]
-- [[INTC]]
-- [[QCOM]]
+- [[Finisar (II‑VI)]]
+- [[Lumentum]]
 - [[AVGO]]
+- [[Ciena]]
+- [[Infinera]]
 
 ### 核心产品
-- [[Audio processing chips]]
-- [[Optical transceiver chips]]
-- [[RF communication chips]]
-- [[LED driver ICs]]
-- [[Power management ICs]]
+- [[Optical transceivers (SFP+, QSFP28)]]
+- [[Optical modules]]
+- [[Photonic integrated circuits]]
+- [[Optical switches]]
+- [[Optical amplifiers]]
 
 ## 数据来源
 
 - 
-- [Credo Technology Group Holding Ltd suppliers manufacturers](https://finance.yahoo.com/news/credo-technology-group-holding-ltd-210500532.html)
-- [Credo Technology Group Holding Ltd suppliers manufacturers](https://www.fool.com/earnings/call-transcripts/2026/03/02/credo-tech-crdo-q3-2026-earnings-call-transcript/)
+- [Credo Technology Group Holding Ltd suppliers manufacturers](https://finance.yahoo.com/quote/CRDO/)
+- [Credo Technology Group Holding Ltd suppliers manufacturers](https://markets.financialcontent.com/stocks/article/finterra-2026-3-16-the-ai-pipeline-a-deep-dive-into-credo-technology-group-crdo-and-the-future-of-16t-connectivity)
 - [Credo Technology Group Holding Ltd major customers clients](https://csimarket.com/stocks/CRDO-Customers)
 - [Credo Technology Group Holding Ltd major customers clients](https://investors.credosemi.com/overview/default.aspx)
 
 ## 元数据
 
-- **更新日期**: 2026-03-03
+- **更新日期**: 2026-03-17

@@ -1,42 +1,37 @@
 {
   "ticker": "TSLA",
   "company_name": "Tesla, Inc.",
-  "sector": "Consumer Cyclical",
-  "industry": "Auto Manufacturers",
+  "sector": "Consumer Cyclical / Auto Manufacturers",
+  "industry": "Automotive",
   "upstream": [
     "Panasonic",
     "LG Chem",
     "CAT",
     "005930.KS",
-    "BorgWarner"
+    "Bosch"
   ],
   "downstream": [
     "Individual consumers",
-    "Commercial fleet operators",
-    "Logistics companies",
-    "Ride‑hailing services",
-    "Energy storage customers"
+    "Fleet operators (e.g., Uber, Lyft)",
+    "Corporate fleet customers",
+    "Government agencies",
+    "Delivery companies"
   ],
   "competitors": [
-    "NIO",
-    "BYD",
-    "Lucid Motors",
+    "General Motors",
+    "Ford",
+    "Volkswagen",
     "Rivian",
-    "General Motors"
+    "Lucid"
   ],
   "key_products": [
     "Model S",
     "Model 3",
     "Model X",
     "Model Y",
-    "Cybertruck",
-    "Semi",
-    "Powerwall",
-    "Powerpack",
-    "Solar Roof",
-    "Solar Panels"
+    "Powerwall"
   ],
-  "extracted_at": "2026-03-16 16:54:04",
+  "extracted_at": "2026-03-17 16:56:35",
   "sources": [
     {
       "source": "Wikipedia",
@@ -46,15 +41,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Tesla,_Inc.",
+      "url": "https://en.wikipedia.org/wiki/List_of_Tesla_factories",
       "query": "Tesla, Inc. suppliers manufacturers",
-      "snippet": "Tesla , Inc . is an American multinational automotive and clean energy company. Tesla was incorporated in July 2003 by Martin Eberhard and Marc Tarpen"
+      "snippet": "Due to the short holding time and no known products produced under Tesla , their production facilities are not listed above. See full list on en.wikip"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.tesla.com/",
+      "url": "https://www.investopedia.com/ask/answers/052815/who-are-teslas-tsla-main-suppliers.asp",
       "query": "Tesla, Inc. suppliers manufacturers",
-      "snippet": "Explore limited-time offers on Tesla vehicles. Learn More. Robovan."
+      "snippet": "Nov 4, 2025 · Discover Tesla's key and rumored parts suppliers . Learn which companies provide essential components for Tesla's electric vehicles and "
     },
     {
       "source": "DuckDuckGo",
@@ -66,7 +61,7 @@
       "source": "DuckDuckGo",
       "url": "https://www.tesla.com/",
       "query": "Tesla, Inc. major customers clients",
-      "snippet": "Video Guides. Customer Stories. Events. Safety.Explore limited-time offers on Tesla vehicles."
+      "snippet": "Tesla is building a world of amazing abundance with AI, electric cars, solar, home batteries and integrated renewable energy solutions for homes and b"
     }
   ]
 }

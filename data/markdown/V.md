@@ -3,8 +3,8 @@ ticker: V
 company: Visa Inc.
 sector: Financial Services
 industry: Credit Services
-extracted_at: 2026-03-12 16:57:00
-last_updated: 2026-03-12
+extracted_at: 2026-03-17 17:04:58
+last_updated: 2026-03-17
 ---
 
 # V - Visa Inc.
@@ -12,46 +12,46 @@ last_updated: 2026-03-12
 ## 基本信息
 
 - **所属行业**: Financial Services / Credit Services
-- **提取时间**: 2026-03-12 16:57:00
+- **提取时间**: 2026-03-17 17:04:58
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Bank card issuers]]
-- [[Chip manufacturers (e.g., NXP Semiconductors)]]
-- [[Payment processing technology providers]]
-- [[Network infrastructure vendors]]
-- [[Regulatory bodies]]
+- [[Chip and card manufacturing vendors (e.g., NXP, STMicroelectronics)]]
+- [[Payment network infrastructure providers]]
+- [[Technology platform suppliers (e.g., cloud services, cybersecurity)]]
+- [[Data analytics and fraud‑prevention vendors]]
+- [[Payment gateway and API integration partners]]
 
 ### 下游客户
-- [[Retail merchants]]
-- [[Online merchants]]
-- [[Financial institutions issuing Visa cards]]
-- [[Consumers using Visa cards]]
-- [[Payment processors]]
+- [[Commercial banks and financial institutions issuing Visa cards]]
+- [[Retail merchants and e‑commerce platforms accepting Visa payments]]
+- [[Consumers using Visa‑branded credit, debit, and prepaid cards]]
+- [[Travel and hospitality partners integrating Visa payment solutions]]
+- [[Mobile wallet and fintech app developers incorporating Visa services]]
 
 ### 竞争对手
 - [[Mastercard]]
 - [[American Express]]
-- [[Discover]]
-- [[PayPal]]
-- [[Square]]
+- [[Discover Financial Services]]
+- [[JCB Co., Ltd.]]
+- [[UnionPay]]
 
 ### 核心产品
-- [[VisaNet payment network]]
-- [[Visa Direct real‑time payments]]
-- [[Visa Checkout online payment solution]]
-- [[Visa Token Service]]
-- [[Visa Card Issuance platform]]
+- [[Visa payment network and transaction processing]]
+- [[Visa card issuance and management services]]
+- [[Contactless and mobile payment solutions (e.g., Visa PayWave, Visa Token Service)]]
+- [[Fraud detection and prevention tools]]
+- [[Data analytics and reporting platforms for merchants and issuers]]
 
 ## 数据来源
 
 - [Visa Inc.](https://en.wikipedia.org/wiki/Visa_Inc.)
-- [Visa Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/Visa_Inc.)
 - [Visa Inc. suppliers manufacturers](https://ru.wikipedia.org/wiki/Visa)
+- [Visa Inc. suppliers manufacturers](https://www.visa.com/en-us)
 - [Visa Inc. major customers clients](https://en.wikipedia.org/wiki/Visa_Inc.)
 - [Visa Inc. major customers clients](https://csimarket.com/stocks/V-Customers)
 
 ## 元数据
 
-- **更新日期**: 2026-03-12
+- **更新日期**: 2026-03-17

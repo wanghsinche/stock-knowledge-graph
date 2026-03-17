@@ -1,37 +1,37 @@
 {
   "ticker": "VRT",
   "company_name": "Vertiv Holdings Co",
-  "sector": "Industrials / Electrical Equipment & Parts",
-  "industry": "Data Center Infrastructure",
+  "sector": "Industrials",
+  "industry": "Electrical Equipment & Parts",
   "upstream": [
-    "ABB",
-    "Schneider Electric",
-    "Delta Electronics",
-    "Nidec",
-    "Siemens"
+    "AC/DC power management component manufacturers",
+    "Switchgear manufacturers",
+    "Busbar manufacturers",
+    "Electrical distribution equipment suppliers",
+    "Power electronics suppliers"
   ],
   "downstream": [
-    "AMZN",
-    "GOOGL",
-    "MSFT",
-    "Equinix",
-    "AT&T"
+    "Data center operators",
+    "CAT",
+    "Enterprise IT customers",
+    "Government agencies",
+    "Industrial automation firms"
   ],
   "competitors": [
     "Schneider Electric",
-    "ABB",
     "Eaton",
-    "Delta Electronics",
-    "Nidec"
+    "ABB",
+    "Siemens",
+    "Legrand"
   ],
   "key_products": [
-    "Power Distribution Units (PDUs)",
-    "Computer Room Air Conditioning (CRAC) units",
-    "Uninterruptible Power Supplies (UPS)",
-    "Cooling solutions",
-    "Data Center Infrastructure Management (DCIM) software"
+    "AC power management solutions",
+    "DC power management solutions",
+    "Switchgear",
+    "Busbar",
+    "Data center infrastructure services"
   ],
-  "extracted_at": "2026-03-16 16:59:17",
+  "extracted_at": "2026-03-17 17:07:09",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/VRT/",
+      "url": "https://en.wikipedia.org/wiki/Vertiv",
       "query": "Vertiv Holdings Co suppliers manufacturers",
-      "snippet": "News headlines Vertiv Holdings Co . (VRT) has experienced a 12.2% stock price increase since its last earnings report, driven by strong performance me"
+      "snippet": "Vertiv produces AC and DC power management products, switchgear and busbar products, thermal management products, integrated rack systems, and modular"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://stockanalysis.com/stocks/vrt/company/",
+      "url": "https://partners.vertiv.com/English/directory",
       "query": "Vertiv Holdings Co suppliers manufacturers",
-      "snippet": "Company profile for Vertiv Holdings Co (VRT) stock, with a description, list of executives, contact details and other key facts."
+      "snippet": "Information and Product Security. Report a Security Concern. Corporate. About Vertiv ."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://simplywall.st/community/narratives/us/capital-goods/nyse-vrt/vertiv-holdings-co/x26r1isx-analysts-raise-vertiv-price-target-amid-executive-changes-and-upbeat-growth-outlook",
+      "url": "https://www.zacks.com/stock/news/2884812/vertiv-holdings-co-vrt-outperforms-broader-market-what-you-need-to-know",
       "query": "Vertiv Holdings Co major customers clients",
-      "snippet": "Analysts have raised their price target for Vertiv Holdings Co . from $173.11 to $192.66. They cite improved revenue growth expectations and slight ad"
+      "snippet": "In the context of valuation, Vertiv Holdings Co . is at present trading with a Forward P/E ratio of 42.1. This indicates a premium in contrast to its "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.gurufocus.com/stock/MIL:1VRT/summary",
+      "url": "https://www.insidermonkey.com/blog/vertiv-holdings-co-vrt-among-the-worst-performing-ai-stocks-of-last-week-1351551/",
       "query": "Vertiv Holdings Co major customers clients",
-      "snippet": "Vertiv Holdings Co Stock Events. Financials Calendars. Download to Excel(.xlsx).The Forward Dividend Yield % of Vertiv Holdings Co (MIL:1VRT) is 0.09%"
+      "snippet": "Vertiv Holdings Co (NYSE:VRT) is an electrical components and equipment company based in Westerville, Ohio. It offers critical digital infrastructure "
     }
   ]
 }

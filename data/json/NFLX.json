@@ -2,20 +2,20 @@
   "ticker": "NFLX",
   "company_name": "Netflix, Inc.",
   "sector": "Communication Services",
-  "industry": "Entertainment",
+  "industry": "Streaming Media",
   "upstream": [
-    "Visual Data (UK)",
-    "Hollywood studios",
-    "Albuquerque Studios",
-    "Production companies (e.g., Warner Bros., Disney)",
-    "Content distributors"
+    "Warner Bros. Discovery",
+    "Disney Studios",
+    "AMZN",
+    "HBO (Warner Bros. Discovery)",
+    "SONY"
   ],
   "downstream": [
-    "US subscribers",
-    "International subscribers",
-    "Corporate accounts",
-    "Mobile app users",
-    "Smart TV app users"
+    "Global individual subscribers",
+    "Corporate clients (airlines, hotels)",
+    "Enterprise streaming solutions",
+    "CAT",
+    "International streaming partners"
   ],
   "competitors": [
     "Disney+",
@@ -25,13 +25,13 @@
     "AAPL"
   ],
   "key_products": [
-    "Streaming service",
-    "Original programming",
+    "Over-the-top streaming service",
+    "Original series and films",
     "Licensed third‑party content",
-    "Mobile app",
-    "Smart TV app"
+    "Mobile and web applications",
+    "Smart TV and console apps"
   ],
-  "extracted_at": "2026-03-16 16:57:16",
+  "extracted_at": "2026-03-17 17:02:00",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://npfp.netflixstudios.com/region/global/",
+      "url": "https://www.case48.com/porter-analysis/5226-Netflix-Inc",
       "query": "Netflix, Inc. suppliers manufacturers",
-      "snippet": "Visual Data (UK) became a Netflix Preferred Vendor in 2013 and its technical, professional and service standards are among the highest in the industry"
+      "snippet": "Netflix Inc is highly price sensitive and has adequate market knowledge. There is no threat of forward integration by suppliers . How Netflix Inc can "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/NFLX-Suppliers",
+      "url": "https://www.alibaba.com/",
       "query": "Netflix, Inc. suppliers manufacturers",
-      "snippet": "Jan 25, 2026 · Netflix Inc supply chain, list and performance of Netflix Incs ' suppliers - CSIMarket"
+      "snippet": "Find quality Manufacturers , Suppliers , Exporters, Importers, Buyers, Wholesalers, Products and Trade Leads from our award-winning International Trad"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.bloomberg.com/news/articles/2019-07-17/netflix-plunges-as-price-increase-leads-to-u-s-customer-losses",
+      "url": "https://businessmodelanalyst.com/netflix-target-market/",
       "query": "Netflix, Inc. major customers clients",
-      "snippet": "Netflix Inc . shocked investors by reporting a drop in U.S. customers and much slower growth overseas, raising fears that the streaming giant is losin"
+      "snippet": "Dec 11, 2024 · Netflix’ s target customers are not confined to a single country or region but encompass a broad and diverse international demographic."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.nytimes.com/2021/04/20/business/media/netflix-subscribers-earnings.html",
+      "url": "https://csimarket.com/stocks/markets_glance.php?code=NFLX",
       "query": "Netflix, Inc. major customers clients",
-      "snippet": "Netflix recorded a jump in new sign-ups, leading to a record year of nearly 37 million additional customers . The company is unlikely to repeat that p"
+      "snippet": "Dec 10, 2025 · Focus of this report: Netflix Inc ’ s corporate clients . For your research, we’ve provided 9 tables on Netflix Inc corporate clients ."
     }
   ]
 }

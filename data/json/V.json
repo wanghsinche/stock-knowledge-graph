@@ -4,34 +4,34 @@
   "sector": "Financial Services",
   "industry": "Credit Services",
   "upstream": [
-    "Bank card issuers",
-    "Chip manufacturers (e.g., NXP Semiconductors)",
-    "Payment processing technology providers",
-    "Network infrastructure vendors",
-    "Regulatory bodies"
+    "Chip and card manufacturing vendors (e.g., NXP, STMicroelectronics)",
+    "Payment network infrastructure providers",
+    "Technology platform suppliers (e.g., cloud services, cybersecurity)",
+    "Data analytics and fraud‑prevention vendors",
+    "Payment gateway and API integration partners"
   ],
   "downstream": [
-    "Retail merchants",
-    "Online merchants",
-    "Financial institutions issuing Visa cards",
-    "Consumers using Visa cards",
-    "Payment processors"
+    "Commercial banks and financial institutions issuing Visa cards",
+    "Retail merchants and e‑commerce platforms accepting Visa payments",
+    "Consumers using Visa‑branded credit, debit, and prepaid cards",
+    "Travel and hospitality partners integrating Visa payment solutions",
+    "Mobile wallet and fintech app developers incorporating Visa services"
   ],
   "competitors": [
     "Mastercard",
     "American Express",
-    "Discover",
-    "PayPal",
-    "Square"
+    "Discover Financial Services",
+    "JCB Co., Ltd.",
+    "UnionPay"
   ],
   "key_products": [
-    "VisaNet payment network",
-    "Visa Direct real‑time payments",
-    "Visa Checkout online payment solution",
-    "Visa Token Service",
-    "Visa Card Issuance platform"
+    "Visa payment network and transaction processing",
+    "Visa card issuance and management services",
+    "Contactless and mobile payment solutions (e.g., Visa PayWave, Visa Token Service)",
+    "Fraud detection and prevention tools",
+    "Data analytics and reporting platforms for merchants and issuers"
   ],
-  "extracted_at": "2026-03-12 16:57:00",
+  "extracted_at": "2026-03-17 17:04:58",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,15 +41,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Visa_Inc.",
-      "query": "Visa Inc. suppliers manufacturers",
-      "snippet": "Visa Inc . is an American multinational payment card services corporation headquartered in San Francisco, California."
-    },
-    {
-      "source": "DuckDuckGo",
       "url": "https://ru.wikipedia.org/wiki/Visa",
       "query": "Visa Inc. suppliers manufacturers",
       "snippet": "Visa Inc . — американская транснациональная компания, предоставляющая услуги проведения платёжных операций. Является основой одноимённой ассоциации. С"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.visa.com/en-us",
+      "query": "Visa Inc. suppliers manufacturers",
+      "snippet": "Discover Visa personal payment solutions, secure transactions, travel support, cards and rewards designed to bring more value to your everyday experie"
     },
     {
       "source": "DuckDuckGo",

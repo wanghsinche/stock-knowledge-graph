@@ -3,11 +3,35 @@
   "company_name": "Lumentum Holdings Inc.",
   "sector": "Technology",
   "industry": "Communication Equipment",
-  "upstream": [],
-  "downstream": [],
-  "competitors": [],
-  "key_products": [],
-  "extracted_at": "2026-03-16 16:57:03",
+  "upstream": [
+    "Silicon wafer suppliers",
+    "Rare earth element suppliers",
+    "Laser diode manufacturers",
+    "Optical fiber manufacturers",
+    "Photonic component suppliers"
+  ],
+  "downstream": [
+    "CAT",
+    "Data center infrastructure providers",
+    "Defense contractors",
+    "Optical networking vendors",
+    "Enterprise networking companies"
+  ],
+  "competitors": [
+    "II-VI Incorporated",
+    "Coherent Inc.",
+    "Newport Corporation",
+    "Lumen Technologies",
+    "Thorlabs"
+  ],
+  "key_products": [
+    "Optical transceivers",
+    "Laser diodes",
+    "Photonic integrated circuits",
+    "Optical amplifiers",
+    "Optical sensors"
+  ],
+  "extracted_at": "2026-03-17 16:58:25",
   "sources": [
     {
       "source": "Wikipedia",
@@ -19,13 +43,25 @@
       "source": "DuckDuckGo",
       "url": "https://www.lumentum.com/en/company/distributors",
       "query": "Lumentum Holdings Inc. suppliers manufacturers",
-      "snippet": "Please contact customer service and they will direct you to a distributor near you. Lumentum is a global leader in optical and photonic products, enab"
+      "snippet": "Lumentum is a global leader in optical and photonic products, enabling high-bandwidth connectivity, precision sensing, and advanced manufacturing ."
     },
     {
       "source": "DuckDuckGo",
       "url": "https://csimarket.com/stocks/LITE-Suppliers",
       "query": "Lumentum Holdings Inc. suppliers manufacturers",
       "snippet": "Feb 9, 2026 · Lumentum Holdings Inc supply chain, list and performance of Lumentum Holdings Incs ' suppliers - CSIMarket"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/LITE-Customers",
+      "query": "Lumentum Holdings Inc. major customers clients",
+      "snippet": "Lumentum Holdings Inc customers and markets, results by customer and performance relative to LITE, by company and industry - CSIMarket."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://finance.yahoo.com/quote/LITE/",
+      "query": "Lumentum Holdings Inc. major customers clients",
+      "snippet": "Find the latest Lumentum Holdings Inc . (LITE) stock quote, history, news and other vital information to help you with your stock trading and investin"
     }
   ]
 }

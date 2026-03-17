@@ -7,31 +7,31 @@
     "AMZN",
     "MSFT",
     "GOOGL",
-    "IBM",
-    "ORCL"
+    "DELL",
+    "HPQ"
   ],
   "downstream": [
     "U.S. Department of Defense",
+    "Federal Bureau of Investigation",
     "INTC",
-    "U.S. Department of Homeland Security",
-    "U.K. Ministry of Defence",
-    "Law enforcement agencies (e.g., FBI, DHS)"
+    "JPMorgan Chase & Co.",
+    "Walmart Inc."
   ],
   "competitors": [
-    "Snowflake",
-    "Databricks",
-    "Splunk",
-    "Qlik",
-    "MSFT"
+    "IBM",
+    "SAS",
+    "MSFT",
+    "ORCL",
+    "GOOGL"
   ],
   "key_products": [
     "Gotham",
     "Foundry",
     "Apollo",
-    "Palantir Data Lake",
-    "Palantir Integration Suite"
+    "Palantir Platform",
+    "Data Integration Services"
   ],
-  "extracted_at": "2026-03-16 16:55:51",
+  "extracted_at": "2026-03-17 16:57:35",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Palantir",
+      "url": "https://en.wikipedia.org/wiki/Palantir_Technologies",
       "query": "Palantir Technologies Inc. suppliers manufacturers",
+      "snippet": "February 12, 2026 - According to the Journal, for two years the company continuously revised its technology based on the demands of analysts from the "
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://data.ark.ai/analysis/suppliers/palantir-usg-inc-supplier-profile-overview/",
+      "query": "Palantir Technologies Inc. suppliers manufacturers",
+      "snippet": "Ark.ai conducted a vendor and supply chain analysis of Palantir Technologies Inc., examining their subcontractors, subsidiaries, list of suppliers, ma"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/Palantir",
+      "query": "Palantir Technologies Inc. major customers clients",
       "snippet": "Palantir Technologies Inc . is an American publicly traded company that develops data integration and analytics platforms enabling government agencies"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/PLTR-Suppliers",
-      "query": "Palantir Technologies Inc. suppliers manufacturers",
-      "snippet": "Feb 19, 2026 · For your research, we’ve provided nine additional tables on Palantir Technologies Inc ’ s suppliers . You can find them in the navigati"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://data.landbase.com/technology/palantir/",
+      "url": "https://www.investing.com/equities/palantir-technologies-inc",
       "query": "Palantir Technologies Inc. major customers clients",
-      "snippet": "Aug 17, 2025 · Our Palantir customers list is available for download and comes enriched with vital company specifics, including industry classificatio"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.appsruntheworld.com/customers-database/products/view/palantir-foundry",
-      "query": "Palantir Technologies Inc. major customers clients",
-      "snippet": "Since 2010, our global team of researchers has been studying Palantir Foundry customers around the world, aggregating massive amounts of data points t"
+      "snippet": "What Is the Palantir Technologies Inc Stock Price Today?AI Market Dominance. Explore Palantir 's leading position in AI and data analytics, driving im"
     }
   ]
 }

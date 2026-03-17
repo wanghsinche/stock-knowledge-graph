@@ -5,17 +5,17 @@
   "industry": "Banks - Diversified",
   "upstream": [
     "MSFT",
-    "Consulting firms (e.g., Accenture, Deloitte)",
-    "Office supply providers",
-    "Security and cybersecurity services",
-    "Legal service providers"
+    "Security and cybersecurity providers",
+    "Office and facility management services",
+    "Data analytics and AI solution providers",
+    "Financial software developers (e.g., FIS, Fiserv)"
   ],
   "downstream": [
-    "Retail banking customers",
-    "Corporate clients",
-    "Institutional investors",
-    "High-net-worth individuals",
-    "Small and medium enterprises"
+    "Retail banking customers (individuals)",
+    "Corporate and institutional clients",
+    "Wealth management clients",
+    "Mortgage borrowers",
+    "Credit card holders"
   ],
   "competitors": [
     "Bank of America",
@@ -26,12 +26,12 @@
   ],
   "key_products": [
     "Retail banking services",
+    "Investment banking and capital markets",
+    "Asset and wealth management",
     "Commercial banking",
-    "Investment banking",
-    "Asset management",
-    "Wealth management"
+    "Credit card and consumer lending"
   ],
-  "extracted_at": "2026-03-16 16:58:54",
+  "extracted_at": "2026-03-17 17:02:15",
   "sources": [
     {
       "source": "Wikipedia",
@@ -55,13 +55,13 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/JPMorgan_Chase",
       "query": "JPMorgan Chase & Co. major customers clients",
-      "snippet": "Today, the firm is a major provider of investment banking services, through corporate advisory, mergers and acquisitions, sales and trading, and publi"
+      "snippet": "JPMorgan Chase & Co . (stylized as JPMorganChase ) is an American multinational banking institution headquartered in New York City and incorporated in"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.jpmorganchase.com/",
+      "url": "https://www.chase.com/",
       "query": "JPMorgan Chase & Co. major customers clients",
-      "snippet": "Committed to service, innovation and growth JPMorganChase serves millions of customers , clients and communities in over 100 global markets. For 225 y"
+      "snippet": "Chase online lets you manage your Chase accounts, view statements, monitor activity, pay bills or transfer funds securely from one central place. To l"
     }
   ]
 }

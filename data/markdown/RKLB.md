@@ -3,8 +3,8 @@ ticker: RKLB
 company: Rocket Lab Corporation
 sector: Industrials
 industry: Aerospace & Defense
-extracted_at: 2026-03-13 16:36:22
-last_updated: 2026-03-13
+extracted_at: 2026-03-17 17:00:21
+last_updated: 2026-03-17
 ---
 
 # RKLB - Rocket Lab Corporation
@@ -12,45 +12,46 @@ last_updated: 2026-03-13
 ## 基本信息
 
 - **所属行业**: Industrials / Aerospace & Defense
-- **提取时间**: 2026-03-13 16:36:22
+- **提取时间**: 2026-03-17 17:00:21
 
 ## 产业链关系
 
 ### 上游供应商
 - [[Honeywell Aerospace]]
-- [[Thales Alenia Space]]
-- [[SolarEdge Technologies]]
+- [[STMicroelectronics]]
 - [[Lockheed Martin]]
+- [[Raytheon Technologies]]
 - [[Boeing]]
 
 ### 下游客户
-- [[Planet Labs]]
 - [[NASA]]
-- [[US Space Force]]
-- [[European Space Agency]]
-- [[Planetary Resources]]
+- [[US Air Force]]
+- [[US Navy]]
+- [[DARPA]]
+- [[Planet Labs]]
 
 ### 竞争对手
 - [[SpaceX]]
-- [[Firefly Aerospace]]
 - [[Blue Origin]]
-- [[Arianespace]]
+- [[Virgin Orbit]]
 - [[Relativity Space]]
+- [[Astra]]
 
 ### 核心产品
 - [[Electron orbital rocket]]
-- [[HASTE suborbital variant]]
-- [[Neutron medium‑lift launch vehicle]]
-- [[Satellite components (star trackers, reaction wheels, solar panels, software‑defined radios, composite structures, separation systems, EO/IR)]]
+- [[HASTE suborbital vehicle]]
+- [[Neutron medium-lift rocket]]
+- [[Star trackers]]
+- [[Reaction wheels]]
 
 ## 数据来源
 
 - [Rocket Lab](https://en.wikipedia.org/wiki/Rocket_Lab_Corporation)
 - [Rocket Lab Corporation suppliers manufacturers](https://en.wikipedia.org/wiki/Rocket_Lab)
-- [Rocket Lab Corporation suppliers manufacturers](https://rocketlabcorp.com/)
+- [Rocket Lab Corporation suppliers manufacturers](https://www.semiconductor-today.com/news_items/2025/aug/rocketlabs-250825.shtml)
 - [Rocket Lab Corporation major customers clients](https://csimarket.com/stocks/RKLB-Customers)
-- [Rocket Lab Corporation major customers clients](https://portersfiveforce.com/blogs/target-market/rocketlabusa)
+- [Rocket Lab Corporation major customers clients](https://canvasbusinessmodel.com/blogs/target-market/rocket-lab-target-market)
 
 ## 元数据
 
-- **更新日期**: 2026-03-13
+- **更新日期**: 2026-03-17

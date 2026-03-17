@@ -1,37 +1,37 @@
 {
   "ticker": "MSTR",
-  "company_name": "MicroStrategy Incorporated",
+  "company_name": "Strategy Inc",
   "sector": "Technology",
   "industry": "Software - Application",
   "upstream": [
-    "MSFT",
-    "AMZN",
-    "ORCL",
-    "GOOGL",
-    "IBM"
+    "Technology hardware suppliers",
+    "Software component vendors",
+    "Cloud service providers",
+    "Data center equipment manufacturers",
+    "IT infrastructure suppliers"
   ],
   "downstream": [
-    "JPMorgan Chase",
-    "Bank of America",
-    "Walmart",
-    "Coca‑Cola",
-    "AT&T"
+    "Enterprise customers",
+    "Financial institutions",
+    "Government agencies",
+    "Consulting firms",
+    "Large corporations"
   ],
   "competitors": [
-    "Tableau",
-    "Qlik",
     "MSFT",
-    "SAP BusinessObjects",
+    "SAP",
+    "ORCL",
+    "CRM",
     "IBM"
   ],
   "key_products": [
-    "MicroStrategy Desktop",
-    "MicroStrategy Cloud",
-    "MicroStrategy Mobile",
-    "MicroStrategy Analytics",
-    "MicroStrategy Data Warehouse"
+    "Business intelligence software",
+    "Enterprise analytics",
+    "Data visualization",
+    "Mobile applications",
+    "Cloud services"
   ],
-  "extracted_at": "2026-03-16 16:56:36",
+  "extracted_at": "2026-03-17 17:00:01",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.industryselect.com/blog/top-10-manufacturing-companies-in-iowa",
+      "url": "https://en.wikipedia.org/wiki/Supply_chain",
       "query": "Strategy Inc suppliers manufacturers",
-      "snippet": "With its low cost of doing business (not to mention its low cost of living) robust economy and abundant agricultural resources, Iowa is home to a numb"
+      "snippet": "A typical supply chain can be divided into two stages namely, production and distribution stages. In the production stage, components and semi-finishe"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.strategyinc.net/services-overview/",
+      "url": "https://www.tradingview.com/symbols/NASDAQ-MSTR/ideas/?sort=recent",
       "query": "Strategy Inc suppliers manufacturers",
-      "snippet": "At Strategy Inc ., we offer a comprehensive range of consulting services required for life science and medical device due diligence, such as: market a"
+      "snippet": "Check out the latest trade and investment ideas for Strategy Inc Class A from our top authors. They share opinions on price directions and technical o"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/STRF-Customers",
+      "url": "https://en.wikipedia.org/wiki/MicroStrategy",
       "query": "Strategy Inc major customers clients",
-      "snippet": "Jan 30, 2026 · For your research, we’ve provided 9 tables on Strategy Inc corporate clients . You can find them in the navigation menu under Customers"
+      "snippet": "Strategy Inc ., formerly known as MicroStrategy, is an American company that provides business intelligence and mobile software.In 1992, MicroStrategy"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.strategy.com/software/customer-stories",
+      "url": "https://www.tradingview.com/symbols/NASDAQ-MSTR/ideas/?sort=recent",
       "query": "Strategy Inc major customers clients",
-      "snippet": "Dive into Strategy customer stories highlighting the impact of Analytics in Healthcare, Financial Services, Call Centers, Retail, Insurance, and Gover"
+      "snippet": "Check out the latest trade and investment ideas for Strategy Inc Class A from our top authors. They share opinions on price directions and technical o"
     }
   ]
 }

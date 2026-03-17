@@ -3,8 +3,8 @@ ticker: APP
 company: AppLovin Corporation
 sector: Communication Services
 industry: Advertising Agencies
-extracted_at: 2026-03-16 17:00:46
-last_updated: 2026-03-16
+extracted_at: 2026-03-17 17:01:32
+last_updated: 2026-03-17
 ---
 
 # APP - AppLovin Corporation
@@ -12,37 +12,37 @@ last_updated: 2026-03-16
 ## 基本信息
 
 - **所属行业**: Communication Services / Advertising Agencies
-- **提取时间**: 2026-03-16 17:00:46
+- **提取时间**: 2026-03-17 17:01:32
 
 ## 产业链关系
 
 ### 上游供应商
-- [[AAPL]]
-- [[GOOGL]]
-- [[MSFT]]
-- [[AMZN]]
-- [[005930.KS]]
+- [[Mobile app development platforms]]
+- [[Advertising technology providers]]
+- [[Data analytics providers]]
+- [[Cloud service providers]]
+- [[Mobile operating system vendors]]
 
 ### 下游客户
-- [[Zynga]]
-- [[Supercell]]
-- [[Electronic Arts]]
-- [[Tencent Games]]
-- [[Snap Inc.]]
+- [[Mobile app developers]]
+- [[Advertisers]]
+- [[Gaming companies]]
+- [[Social media platforms]]
+- [[E-commerce apps]]
 
 ### 竞争对手
-- [[The Trade Desk]]
-- [[AppNexus]]
-- [[AdMob]]
-- [[Facebook Ads]]
 - [[Unity Ads]]
+- [[GOOGL]]
+- [[Facebook Audience Network]]
+- [[IronSource]]
+- [[Vungle]]
 
 ### 核心产品
-- [[AppLovin SDK]]
 - [[AppLovin MAX]]
-- [[Audience Network]]
-- [[AppLovin Analytics]]
+- [[AppLovin SDK]]
 - [[AppLovin Studio]]
+- [[AppLovin Mobile Advertising Platform]]
+- [[App Discovery]]
 
 ## 数据来源
 
@@ -54,4 +54,4 @@ last_updated: 2026-03-16
 
 ## 元数据
 
-- **更新日期**: 2026-03-16
+- **更新日期**: 2026-03-17

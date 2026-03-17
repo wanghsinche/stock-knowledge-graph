@@ -1,13 +1,37 @@
 {
   "ticker": "STX",
   "company_name": "Seagate Technology Holdings plc",
-  "sector": "Technology",
-  "industry": "Computer Hardware",
-  "upstream": [],
-  "downstream": [],
-  "competitors": [],
-  "key_products": [],
-  "extracted_at": "2026-03-13 16:36:36",
+  "sector": "Technology / Computer Hardware",
+  "industry": "Data Storage / Hard Disk Drives",
+  "upstream": [
+    "005930.KS",
+    "SK Hynix",
+    "MU",
+    "TDK Corporation",
+    "Toshiba Corporation"
+  ],
+  "downstream": [
+    "DELL",
+    "HPQ",
+    "Lenovo Group",
+    "AAPL",
+    "AMZN"
+  ],
+  "competitors": [
+    "WDC",
+    "Toshiba",
+    "IBM",
+    "MU",
+    "005930.KS"
+  ],
+  "key_products": [
+    "Hard Disk Drives (HDD)",
+    "Solid State Drives (SSD)",
+    "Enterprise Storage Solutions",
+    "Cloud Storage Solutions",
+    "Data Center Storage"
+  ],
+  "extracted_at": "2026-03-17 17:06:44",
   "sources": [
     {
       "source": "Wikipedia",
@@ -17,15 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Seagate_Technology",
+      "url": "https://finance.yahoo.com/news/seagate-technology-holdings-plcs-dividend-110417727.html",
       "query": "Seagate Technology Holdings plc suppliers manufacturers",
+      "snippet": "Seagate Technology Holdings PLC is a leading supplier of hard disk drives for data storage to the enterprise and consumer markets. It forms a practica"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.thestockobserver.com/2026/03/17/kinetic-partners-management-lp-invests-23-68-million-in-seagate-technology-holdings-plc-stx.html",
+      "query": "Seagate Technology Holdings plc suppliers manufacturers",
+      "snippet": "Seagate Technology logo Kinetic Partners Management LP acquired a new stake in Seagate Technology Holdings PLC (NASDAQ:STX – Free Report) in the third"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/Seagate_Technology",
+      "query": "Seagate Technology Holdings plc major customers clients",
       "snippet": "Seagate Technology Holdings plc is an American data storage company. It was incorporated in 1978 as Shugart Technology and commenced business in 1979."
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.seagate.com/",
-      "query": "Seagate Technology Holdings plc suppliers manufacturers",
-      "snippet": "Seagate is a leader in mass-capacity data storage. We've delivered more than four billion terabytes of capacity over the past four decades."
+      "query": "Seagate Technology Holdings plc major customers clients",
+      "snippet": "Seagate Technology Holdings Plc ."
     }
   ]
 }

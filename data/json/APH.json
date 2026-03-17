@@ -3,11 +3,35 @@
   "company_name": "Amphenol Corporation",
   "sector": "Technology",
   "industry": "Electronic Components",
-  "upstream": [],
-  "downstream": [],
-  "competitors": [],
-  "key_products": [],
-  "extracted_at": "2026-03-03 16:46:18",
+  "upstream": [
+    "Copper suppliers (e.g., Codelco, Freeport‑McMoRan)",
+    "Plastic resin suppliers (e.g., Dow Chemical, DuPont)",
+    "Glass fiber suppliers (e.g., Corning)",
+    "TXN",
+    "Precision machining suppliers (e.g., KUKA, ABB)"
+  ],
+  "downstream": [
+    "CSCO",
+    "INTC",
+    "QCOM",
+    "005930.KS",
+    "AAPL"
+  ],
+  "competitors": [
+    "TE Connectivity",
+    "3M",
+    "Belden",
+    "Molex",
+    "Hubbell"
+  ],
+  "key_products": [
+    "Coaxial connectors",
+    "Fiber optic connectors",
+    "Cable assemblies",
+    "Interconnect systems",
+    "RF connectors"
+  ],
+  "extracted_at": "2026-03-17 17:04:42",
   "sources": [
     {
       "source": "Wikipedia",
@@ -17,15 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
+      "url": "https://amphenol-industrial.com/sales-support/distributors/",
+      "query": "Amphenol Corporation suppliers manufacturers",
+      "snippet": "Engage with our skilled sales and technical teams who are committed to offering you personalized assistance tailored specifically to your project requ"
+    },
+    {
+      "source": "DuckDuckGo",
       "url": "https://www.amphenol.com/",
       "query": "Amphenol Corporation suppliers manufacturers",
       "snippet": "Amphenol is one of the world’s largest designers, manufacturers and marketers of connectors and interconnect systems, antennas solutions, sensors and "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.amphenol-cs.com/",
-      "query": "Amphenol Corporation suppliers manufacturers",
-      "snippet": "Feb 11, 2026 · Amphenol Communications Solutions (ACS), a division of Amphenol Corporation , is a world leader in interconnect solutions for Communica"
+      "url": "https://csimarket.com/stocks/APH-Customers",
+      "query": "Amphenol Corporation major customers clients",
+      "snippet": "For your research, we’ve provided 9 tables on Amphenol Corporation corporate clients . You can find them in the navigation menu under Customers & Mark"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://canvasbusinessmodel.com/blogs/target-market/amphenol-target-market",
+      "query": "Amphenol Corporation major customers clients",
+      "snippet": "Jul 11, 2025 · This deep dive into Amphenol's customer demographics and target market unveils a fascinating journey from niche components to a vast ar"
     }
   ]
 }

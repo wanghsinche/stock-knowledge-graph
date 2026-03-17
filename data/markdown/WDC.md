@@ -3,8 +3,8 @@ ticker: WDC
 company: Western Digital Corporation
 sector: Technology
 industry: Computer Hardware
-extracted_at: 2026-03-16 16:58:22
-last_updated: 2026-03-16
+extracted_at: 2026-03-17 16:59:37
+last_updated: 2026-03-17
 ---
 
 # WDC - Western Digital Corporation
@@ -12,46 +12,46 @@ last_updated: 2026-03-16
 ## 基本信息
 
 - **所属行业**: Technology / Computer Hardware
-- **提取时间**: 2026-03-16 16:58:22
+- **提取时间**: 2026-03-17 16:59:37
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Silicon wafer suppliers]]
-- [[Magnetic head manufacturers]]
-- [[Electronics component suppliers]]
-- [[Firmware development partners]]
-- [[Packaging and assembly providers]]
+- [[MU]]
+- [[005930.KS]]
+- [[SK Hynix]]
+- [[Toshiba]]
+- [[INTC]]
 
 ### 下游客户
 - [[DELL]]
 - [[HPQ]]
-- [[Lenovo]]
+- [[Lenovo Group]]
 - [[AAPL]]
-- [[005930.KS]]
+- [[AMZN]]
 
 ### 竞争对手
 - [[STX]]
-- [[Toshiba]]
+- [[Toshiba Corporation]]
 - [[005930.KS]]
 - [[MU]]
-- [[INTC]]
+- [[SK Hynix]]
 
 ### 核心产品
-- [[Hard Disk Drives (HDDs)]]
-- [[Solid State Drives (SSDs)]]
+- [[Hard Disk Drives (HDD)]]
+- [[Solid State Drives (SSD)]]
 - [[External Storage Devices]]
+- [[Network Attached Storage (NAS)]]
 - [[Enterprise Storage Solutions]]
-- [[NAS Drives]]
 
 ## 数据来源
 
 - [Western Digital](https://en.wikipedia.org/wiki/Western_Digital_Corporation)
+- [Western Digital Corporation suppliers manufacturers](https://www.westerndigital.com/company/distributors)
 - [Western Digital Corporation suppliers manufacturers](https://csimarket.com/stocks/WDC-Suppliers)
-- [Western Digital Corporation suppliers manufacturers](https://thepartsdirect.com/westerndigital/distributors-and-vendors)
-- [Western Digital Corporation major customers clients](https://en.wikipedia.org/wiki/Western_Digital)
-- [Western Digital Corporation major customers clients](https://csimarket.com/news/western-digital-s-shifting-landscape-innovation-amidst-revenue-contraction2025-11-14101227)
+- [Western Digital Corporation major customers clients](https://csimarket.com/stocks/WDC-Customers)
+- [Western Digital Corporation major customers clients](https://data.landbase.com/technology/western-digital/)
 
 ## 元数据
 
-- **更新日期**: 2026-03-16
+- **更新日期**: 2026-03-17

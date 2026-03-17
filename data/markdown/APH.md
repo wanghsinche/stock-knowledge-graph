@@ -3,8 +3,8 @@ ticker: APH
 company: Amphenol Corporation
 sector: Technology
 industry: Electronic Components
-extracted_at: 2026-03-03 16:46:18
-last_updated: 2026-03-03
+extracted_at: 2026-03-17 17:04:42
+last_updated: 2026-03-17
 ---
 
 # APH - Amphenol Corporation
@@ -12,28 +12,46 @@ last_updated: 2026-03-03
 ## 基本信息
 
 - **所属行业**: Technology / Electronic Components
-- **提取时间**: 2026-03-03 16:46:18
+- **提取时间**: 2026-03-17 17:04:42
 
 ## 产业链关系
 
 ### 上游供应商
-_暂无数据_
+- [[Copper suppliers (e.g., Codelco, Freeport‑McMoRan)]]
+- [[Plastic resin suppliers (e.g., Dow Chemical, DuPont)]]
+- [[Glass fiber suppliers (e.g., Corning)]]
+- [[TXN]]
+- [[Precision machining suppliers (e.g., KUKA, ABB)]]
 
 ### 下游客户
-_暂无数据_
+- [[CSCO]]
+- [[INTC]]
+- [[QCOM]]
+- [[005930.KS]]
+- [[AAPL]]
 
 ### 竞争对手
-_暂无数据_
+- [[TE Connectivity]]
+- [[3M]]
+- [[Belden]]
+- [[Molex]]
+- [[Hubbell]]
 
 ### 核心产品
-_暂无数据_
+- [[Coaxial connectors]]
+- [[Fiber optic connectors]]
+- [[Cable assemblies]]
+- [[Interconnect systems]]
+- [[RF connectors]]
 
 ## 数据来源
 
 - [Amphenol](https://en.wikipedia.org/wiki/Amphenol_Corporation)
+- [Amphenol Corporation suppliers manufacturers](https://amphenol-industrial.com/sales-support/distributors/)
 - [Amphenol Corporation suppliers manufacturers](https://www.amphenol.com/)
-- [Amphenol Corporation suppliers manufacturers](https://www.amphenol-cs.com/)
+- [Amphenol Corporation major customers clients](https://csimarket.com/stocks/APH-Customers)
+- [Amphenol Corporation major customers clients](https://canvasbusinessmodel.com/blogs/target-market/amphenol-target-market)
 
 ## 元数据
 
-- **更新日期**: 2026-03-03
+- **更新日期**: 2026-03-17

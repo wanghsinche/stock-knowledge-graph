@@ -3,8 +3,8 @@ ticker: GOOG
 company: Alphabet Inc.
 sector: Communication Services
 industry: Internet Content & Information
-extracted_at: 2026-03-16 16:56:14
-last_updated: 2026-03-16
+extracted_at: 2026-03-17 16:59:49
+last_updated: 2026-03-17
 ---
 
 # GOOG - Alphabet Inc.
@@ -12,16 +12,16 @@ last_updated: 2026-03-16
 ## 基本信息
 
 - **所属行业**: Communication Services / Internet Content & Information
-- **提取时间**: 2026-03-16 16:56:14
+- **提取时间**: 2026-03-17 16:59:49
 
 ## 产业链关系
 
 ### 上游供应商
-- [[TSM]]
 - [[INTC]]
-- [[QCOM]]
+- [[TSM]]
 - [[005930.KS]]
-- [[NVDA]]
+- [[LG Display]]
+- [[DELL]]
 
 ### 下游客户
 - [[GOOGL]]
@@ -35,23 +35,23 @@ last_updated: 2026-03-16
 - [[AMZN]]
 - [[META]]
 - [[AAPL]]
-- [[Facebook]]
+- [[Tencent]]
 
 ### 核心产品
 - [[Google Search]]
-- [[Android OS]]
-- [[Google Cloud]]
 - [[YouTube]]
+- [[Google Cloud Platform]]
+- [[Android OS]]
 - [[Google Ads]]
 
 ## 数据来源
 
 - [Alphabet Inc.](https://en.wikipedia.org/wiki/Alphabet_Inc.)
-- [Alphabet Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/Alphabet_Inc.)
 - [Alphabet Inc. suppliers manufacturers](https://csimarket.com/stocks/GOOG-Suppliers)
-- [Alphabet Inc. major customers clients](https://csimarket.com/stocks/GOOG-Customers)
-- [Alphabet Inc. major customers clients](https://pitchgrade.com/companies/alphabet-inc)
+- [Alphabet Inc. suppliers manufacturers](https://companydata.com/company-profile/alphabet-inc/)
+- [Alphabet Inc. major customers clients](https://en.wikipedia.org/wiki/Alphabet_Inc.)
+- [Alphabet Inc. major customers clients](https://finance.yahoo.com/quote/GOOG/)
 
 ## 元数据
 
-- **更新日期**: 2026-03-16
+- **更新日期**: 2026-03-17

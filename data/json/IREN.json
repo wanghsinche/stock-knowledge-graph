@@ -4,34 +4,34 @@
   "sector": "Financial Services",
   "industry": "Capital Markets",
   "upstream": [
-    "Technology vendors (e.g., Bloomberg, Refinitiv)",
-    "Data providers (e.g., FactSet)",
-    "Cloud service providers (e.g., AWS, Azure)",
-    "Regulatory bodies (e.g., SEC)",
-    "Payment processors (e.g., Visa, Mastercard)"
+    "Bloomberg",
+    "Refinitiv",
+    "MSFT",
+    "AMZN",
+    "ORCL"
   ],
   "downstream": [
+    "Retail investors",
     "Institutional investors",
-    "Retail brokerage clients",
-    "High-net-worth individuals",
-    "Financial advisors",
-    "Corporate clients"
+    "High net worth individuals",
+    "Corporate clients",
+    "Fund managers"
   ],
   "competitors": [
-    "Interactive Brokers",
-    "Charles Schwab",
-    "Fidelity Investments",
-    "E*TRADE",
-    "TD Ameritrade"
+    "HSBC Securities",
+    "Citic Securities",
+    "Standard Chartered Securities",
+    "Bank of China Securities",
+    "Guangzhou Securities"
   ],
   "key_products": [
-    "Online brokerage platform",
-    "Trading execution services",
+    "Brokerage services",
+    "Wealth management",
     "Investment research",
-    "Wealth management solutions",
-    "Financial data analytics"
+    "Trading platform",
+    "Asset management"
   ],
-  "extracted_at": "2026-03-16 16:58:34",
+  "extracted_at": "2026-03-17 17:05:48",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.iren.com/",
-      "query": "IREN Limited suppliers manufacturers",
-      "snippet": "Whether you need immediate access to GPUs, world-class turnkey data centers for your own hardware, or a partner to design and build your AI-ready faci"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/suppliers_glance.php?code=IREN",
-      "query": "IREN Limited suppliers manufacturers",
-      "snippet": "Iren Limited supply chain, list and performance of Iren Limiteds ' suppliers - CSIMarket"
-    },
-    {
-      "source": "DuckDuckGo",
       "url": "https://finance.yahoo.com/quote/IREN/",
-      "query": "IREN Limited major customers clients",
+      "query": "IREN Limited suppliers manufacturers",
       "snippet": "Find the latest IREN Limited ( IREN ) stock quote, history, news and other vital information to help you with your stock trading and investing."
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.investing.com/equities/iris-energy",
+      "query": "IREN Limited suppliers manufacturers",
+      "snippet": "IREN Ltd stock price live, this page displays NASDAQ IREN stock exchange data. View the IREN premarket stock price ahead of the market session or asse"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/IREN-Customers",
       "query": "IREN Limited major customers clients",
-      "snippet": "View today's IREN Ltd stock price and latest IREN news and analysis. Create real-time notifications to follow any changes in the live stock price."
+      "snippet": "Mar 9, 2026 · For your research, we’ve provided 9 tables on Iren Limited corporate clients . You can find them in the navigation menu under Customers "
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.msn.com/en-us/money/topstocks/irens-ai-client-base-expands-is-growth-becoming-more-durable/ar-AA1T5bT4",
+      "query": "IREN Limited major customers clients",
+      "snippet": "Beyond the highly visible $9.7 billion Microsoft AI cloud agreement, the company has added several multi-year AI cloud customers , including Together "
     }
   ]
 }

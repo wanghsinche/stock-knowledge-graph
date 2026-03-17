@@ -8,30 +8,30 @@
     "005930.KS",
     "MU",
     "SK Hynix",
-    "NVDA"
+    "ASE Group"
   ],
   "downstream": [
     "SONY",
     "MSFT",
-    "AMZN",
-    "GOOGL",
-    "TSLA"
+    "DELL",
+    "TSLA",
+    "AMZN"
   ],
   "competitors": [
     "AMD",
     "INTC",
     "QCOM",
-    "AVGO",
-    "AAPL"
+    "AAPL",
+    "AVGO"
   ],
   "key_products": [
-    "GeForce GPUs",
-    "Quadro GPUs",
+    "GeForce RTX GPUs",
     "Tesla GPUs",
     "Jetson SoCs",
-    "CUDA API"
+    "DGX AI systems",
+    "CUDA software"
   ],
-  "extracted_at": "2026-03-16 16:53:52",
+  "extracted_at": "2026-03-17 16:56:14",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,25 +43,25 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Nvidia",
       "query": "NVIDIA Corporation suppliers manufacturers",
-      "snippet": "Nvidia Corporation . Show dark mode logo. Nvidia uses external suppliers for all phases of manufacturing , including wafer fabrication, assembly, test"
+      "snippet": "3 hours ago - In August 2025, Nvidia ordered ... due to security concerns. The company directed suppliers including Taiwan Semiconductor Manufacturing"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.investing.com/equities/nvidia-corp",
+      "url": "https://www.nvidia.com/en-us/about-nvidia/partners/",
       "query": "NVIDIA Corporation suppliers manufacturers",
-      "snippet": "View today's NVIDIA Corporation stock price and latest NVDA news and analysis. Create real-time notifications to follow any changes in the live stock "
+      "snippet": "Partners that design, develop, and manufacture systems that include NVIDIA-based technology."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Nvidia",
+      "url": "https://www.fool.com/investing/2025/06/26/who-are-nvidias-biggest-customers/",
       "query": "NVIDIA Corporation major customers clients",
-      "snippet": "Nvidia thus avoids most of the investment and production costs and risks associated with chip manufacturing, although it does sometimes directly procu"
+      "snippet": "Jun 26, 2025 · Who Are Nvidia 's Biggest Customers ? Nvidia supplies the most powerful data center chips in the world for artificial intelligence (AI)"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/NVDA/",
+      "url": "https://stocksandfuturestrading.com/the-complete-list-of-nvidias-suppliers-and-consumers/",
       "query": "NVIDIA Corporation major customers clients",
-      "snippet": "Find the latest NVIDIA Corporation (NVDA) stock quote, history, news and other vital information to help you with your stock trading and investing."
+      "snippet": "Nov 22, 2024 · NVIDIA has completed one of the most dramatic business transformations in market history — going from a gaming GPU company to the backb"
     }
   ]
 }
