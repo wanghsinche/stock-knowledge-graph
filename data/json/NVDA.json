@@ -6,62 +6,62 @@
   "upstream": [
     "TSM",
     "005930.KS",
+    "GlobalFoundries",
     "MU",
-    "SK Hynix",
-    "ASE Group"
+    "NVDA"
   ],
   "downstream": [
-    "SONY",
-    "MSFT",
+    "Game developers (e.g., Ubisoft, Electronic Arts)",
     "DELL",
     "TSLA",
-    "AMZN"
+    "GOOGL",
+    "NVDA"
   ],
   "competitors": [
     "AMD",
     "INTC",
     "QCOM",
-    "AAPL",
-    "AVGO"
+    "AVGO",
+    "AAPL"
   ],
   "key_products": [
-    "GeForce RTX GPUs",
-    "Tesla GPUs",
-    "Jetson SoCs",
-    "DGX AI systems",
-    "CUDA software"
+    "GeForce GPUs (consumer gaming)",
+    "Quadro/RTX GPUs (professional visualization)",
+    "Tesla GPUs (data‑center AI)",
+    "Jetson SoCs (edge AI & robotics)",
+    "CUDA API & software stack"
   ],
-  "extracted_at": "2026-03-17 16:56:14",
+  "extracted_at": "2026-03-18 16:50:44",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/NVIDIA_Corporation",
       "title": "Nvidia",
-      "snippet": "Nvidia Corporation is an American technology company headquartered in Santa Clara, California. Founded on April 5, 1993 by Jensen Huang, Chris Malachowsky, and Curtis Priem, it develops graphics proce"
+      "snippet": "Nvidia Corporation is an American technology company headquartered in Santa Clara, California. Founded in 1993 by Jensen Huang, Chris Malachowsky, and Curtis Priem, it develops graphics processing uni"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Nvidia",
       "query": "NVIDIA Corporation suppliers manufacturers",
-      "snippet": "3 hours ago - In August 2025, Nvidia ordered ... due to security concerns. The company directed suppliers including Taiwan Semiconductor Manufacturing"
+      "snippet": "Nvidia Corporation . Show dark mode logo. Nvidia uses external suppliers for all phases of manufacturing , including wafer fabrication, assembly, test"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.nvidia.com/en-us/about-nvidia/partners/",
+      "url": "https://finance.yahoo.com/quote/NVDA/",
       "query": "NVIDIA Corporation suppliers manufacturers",
-      "snippet": "Partners that design, develop, and manufacture systems that include NVIDIA-based technology."
+      "snippet": "Find the latest NVIDIA Corporation (NVDA) stock quote, history, news and other vital information to help you with your stock trading and investing."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.fool.com/investing/2025/06/26/who-are-nvidias-biggest-customers/",
+      "url": "https://en.wikipedia.org/wiki/Nvidia",
       "query": "NVIDIA Corporation major customers clients",
-      "snippet": "Jun 26, 2025 · Who Are Nvidia 's Biggest Customers ? Nvidia supplies the most powerful data center chips in the world for artificial intelligence (AI)"
+      "snippet": "Nvidia thus avoids most of the investment and production costs and risks associated with chip manufacturing, although it does sometimes directly procu"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://stocksandfuturestrading.com/the-complete-list-of-nvidias-suppliers-and-consumers/",
+      "url": "https://coinlaw.io/nvidia-revenue-customer-concentration-q2/",
       "query": "NVIDIA Corporation major customers clients",
-      "snippet": "Nov 22, 2024 · NVIDIA has completed one of the most dramatic business transformations in market history — going from a gaming GPU company to the backb"
+      "snippet": "Nvidia revealed that just two unnamed customers accounted for 39 percent of its total revenue in Q2, sparking debate about risk and transparency. Key "
     }
   ]
 }

@@ -3,8 +3,8 @@ ticker: XOM
 company: Exxon Mobil Corporation
 sector: Energy
 industry: Oil & Gas Integrated
-extracted_at: 2026-03-17 17:00:35
-last_updated: 2026-03-17
+extracted_at: 2026-03-18 16:55:01
+last_updated: 2026-03-18
 ---
 
 # XOM - Exxon Mobil Corporation
@@ -12,29 +12,29 @@ last_updated: 2026-03-17
 ## 基本信息
 
 - **所属行业**: Energy / Oil & Gas Integrated
-- **提取时间**: 2026-03-17 17:00:35
+- **提取时间**: 2026-03-18 16:55:01
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Crude oil suppliers (e.g., Saudi Aramco, Rosneft)]]
-- [[Natural gas producers (e.g., Gazprom, Exxon’s own LNG fields)]]
-- [[Petrochemical feedstock suppliers (e.g., petrochemical plants in Gulf Coast)]]
-- [[Equipment manufacturers (e.g., Halliburton, Schlumberger)]]
-- [[Chemical raw material suppliers (e.g., BASF, Dow Chemical)]]
+- [[Chevron]]
+- [[ConocoPhillips]]
+- [[Royal Dutch Shell]]
+- [[BP]]
+- [[TotalEnergies]]
 
 ### 下游客户
-- [[Automotive industry (fuel, lubricants)]]
-- [[Aviation industry (jet fuel)]]
-- [[Industrial sector (diesel, propane)]]
-- [[Retail fuel stations (Shell, Chevron, BP)]]
-- [[Chemical manufacturers (for plastics, synthetic rubber)]]
+- [[Ford Motor Company]]
+- [[General Motors]]
+- [[American Airlines]]
+- [[Petrochemical plants]]
+- [[Industrial lubricant users]]
 
 ### 竞争对手
-- [[Chevron Corporation]]
+- [[Chevron]]
 - [[Royal Dutch Shell]]
-- [[BP plc]]
-- [[TotalEnergies SE]]
+- [[BP]]
+- [[TotalEnergies]]
 - [[ConocoPhillips]]
 
 ### 核心产品
@@ -43,10 +43,10 @@ last_updated: 2026-03-17
 - [[Gasoline]]
 - [[Diesel]]
 - [[Jet fuel]]
-- [[Lubricants (Mobil 1)]]
-- [[Petrochemicals (ethylene, propylene)]]
+- [[Lubricants]]
+- [[Petrochemicals]]
+- [[Plastics]]
 - [[Synthetic rubber]]
-- [[Plastic resins]]
 
 ## 数据来源
 
@@ -58,4 +58,4 @@ last_updated: 2026-03-17
 
 ## 元数据
 
-- **更新日期**: 2026-03-17
+- **更新日期**: 2026-03-18

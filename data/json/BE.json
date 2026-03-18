@@ -1,37 +1,37 @@
 {
   "ticker": "BE",
   "company_name": "Bloom Energy Corporation",
-  "sector": "Industrials / Electrical Equipment & Parts",
-  "industry": "Fuel Cell & Energy Storage",
+  "sector": "Industrials",
+  "industry": "Electrical Equipment & Parts",
   "upstream": [
-    "Solid oxide electrolyte material suppliers",
-    "CAT",
-    "Fuel cell stack assembly suppliers",
-    "Natural gas and biogas providers",
-    "Power electronics and control system vendors"
+    "Natural gas suppliers",
+    "Biogas producers",
+    "Hydrogen suppliers",
+    "Electrolyzer component manufacturers",
+    "Fuel cell stack component suppliers"
   ],
   "downstream": [
-    "MSFT",
-    "CAT",
-    "Manufacturing facilities (semiconductor, automotive)",
-    "Commercial building operators",
-    "Hospital and healthcare facilities"
+    "Data center operators",
+    "Manufacturing plants",
+    "Commercial businesses",
+    "Utilities",
+    "Government agencies"
   ],
   "competitors": [
+    "Plug Power",
     "FuelCell Energy",
     "Heliogen",
     "PowerCell",
-    "Plug Power",
-    "Generac"
+    "Sierra Energy"
   ],
   "key_products": [
-    "Bloom Energy Server (solid oxide fuel cell system)",
-    "Electrolyzer units for hydrogen production",
-    "Integrated power conversion and control systems",
-    "Fuel cell stack modules",
-    "Renewable energy integration solutions"
+    "Solid oxide fuel cells (SOFCs)",
+    "Electrolyzers for hydrogen production",
+    "Fuel cell stacks",
+    "On‑site power generation systems",
+    "Hydrogen production units"
   ],
-  "extracted_at": "2026-03-16 17:00:20",
+  "extracted_at": "2026-03-18 16:57:20",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,21 +47,21 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/news/bloom-energy-good-investment-143933772.html",
+      "url": "https://finance.yahoo.com/news/bloom-energy-corporation-best-hydrogen-144600863.html",
       "query": "Bloom Energy Corporation suppliers manufacturers",
-      "snippet": "Bloom Energy Corporation (NYSE:BE) engages in the design, manufacture and installation of solid-oxide fuel cell systems for on-site power generation."
+      "snippet": "Bloom Energy Corporation (NYSE:BE) is a clean energy company that manufactures and installs solid oxide fuel cell systems under its flagship product, "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.bloomenergy.com/customers/",
+      "url": "https://www.linkedin.com/company/bloom-energy",
       "query": "Bloom Energy Corporation major customers clients",
-      "snippet": "Bloom Energy ' s customers have important goals: clean energy, dependency, resiliency, reliability, and affordability. We're here to help reach those "
+      "snippet": "Bloom Energy empowers businesses and communities to responsibly take charge of their energy . The company’s leading solid-oxide platform for distribut"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/BE-Customers",
+      "url": "https://trellis.net/article/10-things-you-should-know-about-bloom-energys-ipo/",
       "query": "Bloom Energy Corporation major customers clients",
-      "snippet": "6 days ago · For your research, we’ve provided 9 tables on Bloom Energy Corporation corporate clients . You can find them in the navigation menu under"
+      "snippet": "Over the years, sales of Bloom Energy ’s fuel cells have benefited from the federal investment tax credit (or ITC), which provides customers a tax cre"
     }
   ]
 }

@@ -4,18 +4,18 @@
   "sector": "Communication Services",
   "industry": "Internet Content & Information",
   "upstream": [
+    "AMZN",
+    "GOOGL",
+    "MSFT",
     "NVDA",
-    "INTC",
-    "AMD",
-    "CSCO",
-    "DELL"
+    "INTC"
   ],
   "downstream": [
-    "Advertisers (brands & agencies)",
-    "App developers",
-    "Content creators",
-    "META",
-    "End users of Facebook, Instagram, WhatsApp, Messenger"
+    "Coca‑Cola (advertiser)",
+    "Nike (advertiser)",
+    "Procter & Gamble (advertiser)",
+    "Small businesses (advertiser)",
+    "Digital agencies (advertiser)"
   ],
   "competitors": [
     "GOOGL",
@@ -31,7 +31,7 @@
     "Messenger",
     "Meta Ads Manager"
   ],
-  "extracted_at": "2026-03-17 16:58:04",
+  "extracted_at": "2026-03-18 16:51:36",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,21 +47,21 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.computerhope.com/comp/meta.htm",
+      "url": "https://www.bloomberg.com/news/articles/2026-03-16/meta-to-spend-up-to-27-billion-on-ai-infrastructure-from-nebius",
       "query": "Meta Platforms, Inc. suppliers manufacturers",
-      "snippet": "Before it was rebranded as Meta in October 2021, Meta was known as Facebook Inc . According to Zuckerberg, the name Meta emphasizes their focus on VR "
+      "snippet": "Meta Platforms Inc . will pay as much as $27 billion over the next five years for access to artificial intelligence infrastructure from cloud provider"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ru.wikipedia.org/wiki/Meta_Platforms",
+      "url": "https://en.wikipedia.org/wiki/Meta_Platforms",
       "query": "Meta Platforms, Inc. major customers clients",
-      "snippet": "Meta Platforms , Inc . — американская транснациональная холдинговая компания, владеющая технологическим конгломератом и расположенная в Менло-Парке, К"
+      "snippet": "Meta Platforms , Inc . (doing business as Meta) is an American multinational technology company headquartered in Menlo Park, California. Meta owns and"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.cnn.com/markets/stocks/META",
+      "url": "https://csimarket.com/stocks/META-Customers",
       "query": "Meta Platforms, Inc. major customers clients",
-      "snippet": "View Meta Platforms Inc Class A META stock quote prices, financial information, real-time forecasts, and company news from CNN."
+      "snippet": "Meta Platforms Inc ’s Comment on Sales, Marketing and Customers The majority of our marketers use our self-service ad platform to establish accounts a"
     }
   ]
 }

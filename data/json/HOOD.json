@@ -1,37 +1,37 @@
 {
   "ticker": "HOOD",
   "company_name": "Robinhood Markets, Inc.",
-  "sector": "Financial Services",
-  "industry": "Capital Markets",
+  "sector": "Financial Services / Capital Markets",
+  "industry": "Online Brokerage",
   "upstream": [
-    "AMZN",
-    "Stripe",
-    "Plaid",
+    "NASDAQ",
+    "NYSE",
     "Bloomberg",
-    "Refinitiv"
+    "Refinitiv",
+    "AMZN"
   ],
   "downstream": [
     "Retail investors",
-    "Day traders",
+    "High net worth individuals",
     "Institutional clients",
-    "High‑frequency traders",
+    "Day traders",
     "Crypto traders"
   ],
   "competitors": [
-    "Webull",
-    "eToro",
-    "Fidelity",
     "Charles Schwab",
-    "TD Ameritrade"
+    "E*TRADE",
+    "Fidelity",
+    "TD Ameritrade",
+    "Webull"
   ],
   "key_products": [
     "Commission‑free stock trading",
-    "Options trading",
     "Cryptocurrency trading",
     "Margin trading",
+    "Robinhood Gold subscription",
     "Cash management"
   ],
-  "extracted_at": "2026-03-17 17:03:36",
+  "extracted_at": "2026-03-18 16:56:07",
   "sources": [
     {
       "source": "Wikipedia",
@@ -59,9 +59,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://robinhood.com/",
+      "url": "https://pitchgrade.com/companies/robinhood-markets",
       "query": "Robinhood Markets, Inc. major customers clients",
-      "snippet": "Trade stocks on Robinhood with commission-free investing & advanced trading tools. Access fractional shares, real-time market data, and more."
+      "snippet": "Customer Segments: Robinhood Markets , Inc . serves multiple distinct customer segments, which may include consumers, small and medium businesses, ent"
     }
   ]
 }

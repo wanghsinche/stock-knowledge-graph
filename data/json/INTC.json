@@ -7,13 +7,13 @@
     "TSM",
     "005930.KS",
     "MU",
-    "ASML",
-    "AMAT"
+    "SK Hynix",
+    "AVGO"
   ],
   "downstream": [
     "DELL",
-    "Lenovo",
     "HPQ",
+    "Lenovo",
     "AAPL",
     "MSFT"
   ],
@@ -27,11 +27,11 @@
   "key_products": [
     "Intel Core CPUs",
     "Intel Xeon CPUs",
-    "Intel Arc GPUs",
-    "Intel FPGAs",
-    "Intel AI accelerators"
+    "Intel Optane memory",
+    "Intel Atom CPUs",
+    "Intel Iris GPUs"
   ],
-  "extracted_at": "2026-03-17 16:58:52",
+  "extracted_at": "2026-03-18 16:52:52",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Intel",
+      "url": "https://en.wikipedia.org/wiki/List_of_Intel_manufacturing_sites",
       "query": "Intel Corporation suppliers manufacturers",
-      "snippet": "Intel Corporation is an American multinational technology company headquartered in Santa Clara, California. It designs, manufactures , and sells compu"
+      "snippet": "List of Intel manufacturing sites Intel is an American multinational corporation and technology company headquartered in Santa Clara, California. Proc"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.intel.com/content/www/us/en/supplier/potential-suppliers.html",
+      "query": "Intel Corporation suppliers manufacturers",
+      "snippet": "Intel depends on a multifaceted ecosystem of suppliers who support our business, and we are proud of the strong relationships built past, present and "
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/Intel",
+      "query": "Intel Corporation major customers clients",
+      "snippet": "Intel Corporation is an American multinational technology company headquartered in Santa Clara, California. It designs, manufactures, and sells comput"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.intel.com/",
-      "query": "Intel Corporation suppliers manufacturers",
-      "snippet": "Ссылка на официальный сайт. Intel Core i7-9700KF OEM."
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/INTC-Customers",
       "query": "Intel Corporation major customers clients",
-      "snippet": "Intel customers and markets, results by customer and performance relative to INTC, by company and industry - CSIMarket"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.investopedia.com/articles/markets/100214/inside-intel-look-mega-chipmaker.asp",
-      "query": "Intel Corporation major customers clients",
-      "snippet": "Mar 3, 2026 · Intel's main customers include Dell, Lenovo, and HP. Get personalized, AI-powered answers built on 27+ years of trusted expertise. Never"
+      "snippet": "12 days ago AI, Security, 5G: New Intel ® Xeon® Processors for IoT The 3rd..."
     }
   ]
 }

@@ -1,57 +1,57 @@
 ---
 ticker: CRCL
-company: Circle Internet Group
-sector: Financial Services
-industry: Payments Technology / Stablecoin Issuer
-extracted_at: 2026-03-17 17:01:10
-last_updated: 2026-03-17
+company: Circle Internet Group, Inc.
+sector: Financial Services / Capital Markets
+industry: Payments Technology
+extracted_at: 2026-03-18 16:54:36
+last_updated: 2026-03-18
 ---
 
-# CRCL - Circle Internet Group
+# CRCL - Circle Internet Group, Inc.
 
 ## 基本信息
 
-- **所属行业**: Financial Services / Payments Technology / Stablecoin Issuer
-- **提取时间**: 2026-03-17 17:01:10
+- **所属行业**: Financial Services / Capital Markets / Payments Technology
+- **提取时间**: 2026-03-18 16:54:36
 
 ## 产业链关系
 
 ### 上游供应商
+- [[Payment processors]]
 - [[Blockchain infrastructure providers]]
 - [[Cloud service providers]]
-- [[Payment processing platforms]]
-- [[Data analytics vendors]]
-- [[Regulatory compliance firms]]
+- [[Regulatory compliance vendors]]
+- [[Financial data providers]]
 
 ### 下游客户
-- [[Banks and financial institutions]]
-- [[Cryptocurrency exchanges]]
-- [[Fintech companies]]
-- [[Merchants and e-commerce platforms]]
-- [[Institutional investors]]
+- [[Retail merchants]]
+- [[Financial institutions]]
+- [[Crypto exchanges]]
+- [[Payment processors]]
+- [[Enterprise clients]]
 
 ### 竞争对手
-- [[Coinbase]]
 - [[PayPal]]
-- [[Stripe]]
 - [[Square]]
+- [[Stripe]]
 - [[Revolut]]
+- [[Adyen]]
 
 ### 核心产品
 - [[USDC stablecoin]]
 - [[EURC stablecoin]]
 - [[USYC tokenized money market fund]]
 - [[Payments API]]
-- [[Digital wallet services]]
+- [[Crypto custody solutions]]
 
 ## 数据来源
 
 - [Circle Internet Group](https://en.wikipedia.org/wiki/Circle_Internet_Group)
-- [Circle Internet Group suppliers manufacturers](https://finance.yahoo.com/video/circle-stock-jumps-upgrade-micron-181345554.html)
-- [Circle Internet Group suppliers manufacturers](https://www.investing.com/news/insider-trading-news/date-rajeev-v-circle-internet-group-director-sells-431547-in-shares-93CH-4564479)
-- [Circle Internet Group major customers clients](https://www.fool.com/investing/2025/06/27/why-circle-internet-stock-imploded-this-week/)
-- [Circle Internet Group major customers clients](https://www.aol.com/articles/why-circle-internet-group-stock-235248635.html)
+- [Circle Internet Group suppliers manufacturers](https://www.benzinga.com/trading-ideas/movers/26/03/51272776/circle-internet-group-crcl-stock-climbs-as-bitcoin-strength-analyst-upgrade-boost-shares)
+- [Circle Internet Group suppliers manufacturers](https://www.investing.com/news/insider-trading-news/tarbert-heath-sells-circle-internet-group-shares-for-174-million-93CH-4564066)
+- [Circle Internet Group major customers clients](https://en.wikipedia.org/wiki/Circle_Internet_Group)
+- [Circle Internet Group major customers clients](https://www.appsruntheworld.com/customers-database/vendors/view/circle-internet-group)
 
 ## 元数据
 
-- **更新日期**: 2026-03-17
+- **更新日期**: 2026-03-18

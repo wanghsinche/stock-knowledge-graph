@@ -3,8 +3,8 @@ ticker: V
 company: Visa Inc.
 sector: Financial Services
 industry: Credit Services
-extracted_at: 2026-03-17 17:04:58
-last_updated: 2026-03-17
+extracted_at: 2026-03-18 16:56:33
+last_updated: 2026-03-18
 ---
 
 # V - Visa Inc.
@@ -12,37 +12,37 @@ last_updated: 2026-03-17
 ## 基本信息
 
 - **所属行业**: Financial Services / Credit Services
-- **提取时间**: 2026-03-17 17:04:58
+- **提取时间**: 2026-03-18 16:56:33
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Chip and card manufacturing vendors (e.g., NXP, STMicroelectronics)]]
-- [[Payment network infrastructure providers]]
-- [[Technology platform suppliers (e.g., cloud services, cybersecurity)]]
-- [[Data analytics and fraud‑prevention vendors]]
-- [[Payment gateway and API integration partners]]
+- [[005930.KS]]
+- [[Card manufacturing facilities]]
+- [[Payment network infrastructure providers (VisaNet)]]
+- [[Software vendors for transaction processing]]
+- [[Security technology suppliers]]
 
 ### 下游客户
-- [[Commercial banks and financial institutions issuing Visa cards]]
-- [[Retail merchants and e‑commerce platforms accepting Visa payments]]
-- [[Consumers using Visa‑branded credit, debit, and prepaid cards]]
-- [[Travel and hospitality partners integrating Visa payment solutions]]
-- [[Mobile wallet and fintech app developers incorporating Visa services]]
+- [[Commercial banks and credit unions]]
+- [[Retail merchants and e‑commerce platforms]]
+- [[Consumer cardholders]]
+- [[Financial institutions issuing Visa cards]]
+- [[Online payment gateways]]
 
 ### 竞争对手
 - [[Mastercard]]
 - [[American Express]]
-- [[Discover Financial Services]]
-- [[JCB Co., Ltd.]]
-- [[UnionPay]]
+- [[Discover]]
+- [[PayPal]]
+- [[Square]]
 
 ### 核心产品
-- [[Visa payment network and transaction processing]]
-- [[Visa card issuance and management services]]
-- [[Contactless and mobile payment solutions (e.g., Visa PayWave, Visa Token Service)]]
-- [[Fraud detection and prevention tools]]
-- [[Data analytics and reporting platforms for merchants and issuers]]
+- [[Visa credit cards]]
+- [[Visa debit cards]]
+- [[Visa prepaid cards]]
+- [[VisaNet payment processing network]]
+- [[Visa Direct real‑time payments]]
 
 ## 数据来源
 
@@ -50,8 +50,8 @@ last_updated: 2026-03-17
 - [Visa Inc. suppliers manufacturers](https://ru.wikipedia.org/wiki/Visa)
 - [Visa Inc. suppliers manufacturers](https://www.visa.com/en-us)
 - [Visa Inc. major customers clients](https://en.wikipedia.org/wiki/Visa_Inc.)
-- [Visa Inc. major customers clients](https://csimarket.com/stocks/V-Customers)
+- [Visa Inc. major customers clients](https://www.visa.com/en-us)
 
 ## 元数据
 
-- **更新日期**: 2026-03-17
+- **更新日期**: 2026-03-18

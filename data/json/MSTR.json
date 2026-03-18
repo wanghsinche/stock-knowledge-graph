@@ -1,37 +1,37 @@
 {
   "ticker": "MSTR",
-  "company_name": "Strategy Inc",
+  "company_name": "MicroStrategy Incorporated",
   "sector": "Technology",
   "industry": "Software - Application",
   "upstream": [
-    "Technology hardware suppliers",
-    "Software component vendors",
-    "Cloud service providers",
-    "Data center equipment manufacturers",
-    "IT infrastructure suppliers"
+    "Hardware vendors",
+    "Cloud service providers (AWS, Azure, GCP)",
+    "Data integration partners",
+    "Security solution providers",
+    "Consulting partners"
   ],
   "downstream": [
-    "Enterprise customers",
-    "Financial institutions",
+    "Enterprise customers (banks, insurance, retail)",
     "Government agencies",
-    "Consulting firms",
-    "Large corporations"
+    "Healthcare organizations",
+    "Financial services firms",
+    "Manufacturing companies"
   ],
   "competitors": [
+    "Tableau",
     "MSFT",
-    "SAP",
-    "ORCL",
-    "CRM",
-    "IBM"
+    "Qlik",
+    "Looker",
+    "SAP BusinessObjects"
   ],
   "key_products": [
-    "Business intelligence software",
-    "Enterprise analytics",
-    "Data visualization",
-    "Mobile applications",
-    "Cloud services"
+    "MicroStrategy Desktop",
+    "MicroStrategy Web",
+    "MicroStrategy Mobile",
+    "MicroStrategy Analytics",
+    "MicroStrategy Cloud"
   ],
-  "extracted_at": "2026-03-17 17:00:01",
+  "extracted_at": "2026-03-18 16:53:32",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,15 +41,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Supply_chain",
+      "url": "https://www.strategyinc.net/",
       "query": "Strategy Inc suppliers manufacturers",
-      "snippet": "A typical supply chain can be divided into two stages namely, production and distribution stages. In the production stage, components and semi-finishe"
+      "snippet": "Strategy Inc . offers comprehensive medical device consulting services for essential financial and market due diligence, such as: market analysis, fin"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.tradingview.com/symbols/NASDAQ-MSTR/ideas/?sort=recent",
+      "url": "https://www.strategyinc.net/services-overview/",
       "query": "Strategy Inc suppliers manufacturers",
-      "snippet": "Check out the latest trade and investment ideas for Strategy Inc Class A from our top authors. They share opinions on price directions and technical o"
+      "snippet": "Our Consulting Services At Strategy Inc ., we offer a comprehensive range of consulting services required for life science and medical device due dili"
     },
     {
       "source": "DuckDuckGo",

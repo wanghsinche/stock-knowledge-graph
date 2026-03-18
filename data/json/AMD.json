@@ -5,33 +5,32 @@
   "industry": "Semiconductors",
   "upstream": [
     "TSM",
-    "005930.KS",
     "GlobalFoundries",
-    "INTC",
-    "MU"
+    "005930.KS",
+    "INTC"
   ],
   "downstream": [
-    "MSFT",
     "DELL",
     "HPQ",
     "Lenovo",
-    "AMZN"
+    "SONY",
+    "MSFT"
   ],
   "competitors": [
     "INTC",
     "NVDA",
     "QCOM",
     "AVGO",
-    "ARM"
+    "005930.KS"
   ],
   "key_products": [
     "Ryzen CPUs",
     "EPYC CPUs",
     "Radeon GPUs",
-    "Xilinx FPGAs",
-    "SoCs"
+    "Radeon Instinct GPUs",
+    "APU (Accelerated Processing Unit)"
   ],
-  "extracted_at": "2026-03-17 16:58:15",
+  "extracted_at": "2026-03-18 16:52:13",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,15 +40,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/List_of_system_on_a_chip_suppliers",
+      "url": "https://en.wikipedia.org/wiki/AMD",
       "query": "Advanced Micro Devices, Inc. suppliers manufacturers",
-      "snippet": "The following is a list of system-on-a-chip suppliers . Actions Semiconductor Advanced Micro Devices (AMD) Advanced Semiconductor Engineering (ASE) Al"
+      "snippet": "Advanced Micro Devices, Inc. (AMD) is an American multinational semiconductor company headquartered in Santa Clara, California, with significant opera"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/AMD-Suppliers",
+      "url": "https://amdmanufacturing.com/",
       "query": "Advanced Micro Devices, Inc. suppliers manufacturers",
-      "snippet": "Feb 9, 2026 · Advanced Micro Devices Inc supply chain, list and performance of Advanced Micro Devices Incs ' suppliers - CSIMarket"
+      "snippet": "AMD Manufacturing Inc. is a Canadian company providing exceptional quality filtration products at competitive prices with emphasis on maintaining a hi"
     },
     {
       "source": "DuckDuckGo",
@@ -59,9 +58,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ir.amd.com/",
+      "url": "https://www.dcfmodeling.com/products/amd-marketing-mix",
       "query": "Advanced Micro Devices, Inc. major customers clients",
-      "snippet": "Advanced Micro Devices , Inc . IR Overview. Investor Relations. AMD Expands AI Leadership Across Client , Graphics, and Software with New Ryzen, Ryzen"
+      "snippet": "Advanced Micro Devices , Inc . ( AMD ) described this product as its fastest ramping product in company history. The MI350X variant specifically deliv"
     }
   ]
 }

@@ -3,11 +3,35 @@
   "company_name": "SoFi Technologies, Inc.",
   "sector": "Financial Services",
   "industry": "Credit Services",
-  "upstream": [],
-  "downstream": [],
-  "competitors": [],
-  "key_products": [],
-  "extracted_at": "2026-03-17 17:06:10",
+  "upstream": [
+    "AMZN",
+    "MSFT",
+    "Stripe",
+    "Plaid",
+    "GOOGL"
+  ],
+  "downstream": [
+    "Individual borrowers",
+    "Small‑business borrowers",
+    "Student loan holders",
+    "Mortgage borrowers",
+    "Investors in SoFi’s investment platform"
+  ],
+  "competitors": [
+    "LendingClub",
+    "Upstart",
+    "Marcus by Goldman Sachs",
+    "SoFi’s own credit card issuer",
+    "Traditional banks (e.g., JPMorgan Chase)"
+  ],
+  "key_products": [
+    "Personal loans",
+    "Student loan refinancing",
+    "Mortgage refinancing",
+    "Credit cards",
+    "Investment accounts"
+  ],
+  "extracted_at": "2026-03-18 16:56:51",
   "sources": [
     {
       "source": "Wikipedia",
@@ -17,15 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/SOFI-Suppliers",
+      "url": "https://en.wikipedia.org/wiki/SoFi",
       "query": "SoFi Technologies, Inc. suppliers manufacturers",
-      "snippet": "Feb 19, 2026 · For your research, we’ve provided nine additional tables on Sofi Technologies Inc ’ s suppliers . You can find them in the navigation m"
+      "snippet": "SoFi Technologies , Inc . is an American financial technology company. Founded in 2011 by Stanford University students, it operates as a nationally ch"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.accio.com/business/sofi",
+      "url": "https://investors.sofi.com/",
       "query": "SoFi Technologies, Inc. suppliers manufacturers",
-      "snippet": "Dec 23, 2025 · Discover top SOFI suppliers in sanitary napkins, fiber optics, and sofas . Get a detailed company analysis report with verified recomme"
+      "snippet": "Social Finance, Inc . ( SoFI ). Overview.Corporate Overview. SoFi 's mission is to help people reach financial independence to realize their ambitions"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://investors.sofi.com/",
+      "query": "SoFi Technologies, Inc. major customers clients",
+      "snippet": "Social Finance, Inc . ( SoFI ). Overview.Corporate Overview. SoFi 's mission is to help people reach financial independence to realize their ambitions"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://finance.yahoo.com/quote/SOFI/",
+      "query": "SoFi Technologies, Inc. major customers clients",
+      "snippet": "SoFi Technologies , Inc . ( SOFI ). Time to buy SOFI ? SoFi Technologies , Inc . provides various financial services in the United States, Latin Ameri"
     }
   ]
 }

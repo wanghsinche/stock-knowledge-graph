@@ -1,25 +1,25 @@
 {
   "ticker": "TSLA",
   "company_name": "Tesla, Inc.",
-  "sector": "Consumer Cyclical / Auto Manufacturers",
-  "industry": "Automotive",
+  "sector": "Consumer Cyclical",
+  "industry": "Auto Manufacturers",
   "upstream": [
     "Panasonic",
     "LG Chem",
     "CAT",
-    "005930.KS",
-    "Bosch"
+    "Bosch",
+    "Denso"
   ],
   "downstream": [
     "Individual consumers",
-    "Fleet operators (e.g., Uber, Lyft)",
-    "Corporate fleet customers",
-    "Government agencies",
-    "Delivery companies"
+    "Fleet operators",
+    "Commercial customers",
+    "Utility companies",
+    "Government agencies"
   ],
   "competitors": [
-    "General Motors",
     "Ford",
+    "General Motors",
     "Volkswagen",
     "Rivian",
     "Lucid"
@@ -29,9 +29,9 @@
     "Model 3",
     "Model X",
     "Model Y",
-    "Powerwall"
+    "Cybertruck"
   ],
-  "extracted_at": "2026-03-17 16:56:35",
+  "extracted_at": "2026-03-18 16:51:03",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,15 +41,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/List_of_Tesla_factories",
-      "query": "Tesla, Inc. suppliers manufacturers",
-      "snippet": "Due to the short holding time and no known products produced under Tesla , their production facilities are not listed above. See full list on en.wikip"
-    },
-    {
-      "source": "DuckDuckGo",
       "url": "https://www.investopedia.com/ask/answers/052815/who-are-teslas-tsla-main-suppliers.asp",
       "query": "Tesla, Inc. suppliers manufacturers",
       "snippet": "Nov 4, 2025 · Discover Tesla's key and rumored parts suppliers . Learn which companies provide essential components for Tesla's electric vehicles and "
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://investguiding.com/article/who-are-tesla-s-main-suppliers",
+      "query": "Tesla, Inc. suppliers manufacturers",
+      "snippet": "1 day ago · Who Are Tesla's Battery Suppliers ? Does Tesla Make Its Own Microchips? FAQs A relative newcomer to the automotive sector, Tesla, Inc . (N"
     },
     {
       "source": "DuckDuckGo",

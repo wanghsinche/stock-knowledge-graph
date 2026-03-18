@@ -5,24 +5,24 @@
   "industry": "Consumer Electronics",
   "upstream": [
     "TSM",
-    "Foxconn (Hon Hai)",
-    "Pegatron",
-    "Wistron",
-    "005930.KS"
+    "Foxconn",
+    "005930.KS",
+    "LG Display",
+    "QCOM"
   ],
   "downstream": [
+    "iPhone",
+    "iPad",
+    "MacBook",
     "AAPL",
-    "Enterprise customers",
-    "CAT",
-    "Government agencies",
-    "OEM partners"
+    "AirPods"
   ],
   "competitors": [
     "005930.KS",
     "GOOGL",
     "MSFT",
-    "AMZN",
-    "Huawei"
+    "SONY",
+    "DELL"
   ],
   "key_products": [
     "iPhone",
@@ -31,7 +31,7 @@
     "Apple Watch",
     "AirPods"
   ],
-  "extracted_at": "2026-03-17 16:58:42",
+  "extracted_at": "2026-03-18 16:52:23",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,25 +43,25 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Apple_supply_chain",
       "query": "Apple Inc. suppliers manufacturers",
-      "snippet": "In response, Apple launched its Supplier Responsibility program, which aimed to improve Apple's oversight of supplier partners and enforce its ethics "
+      "snippet": "Apple policy on how it influences the corporate culture of its suppliers is presented in the \" Supplier Responsibility Progress Reports\" document. [28"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.investopedia.com/articles/investing/090315/10-major-companies-tied-apple-supply-chain.asp",
       "query": "Apple Inc. suppliers manufacturers",
-      "snippet": "Nov 13, 2025 · Discover Apple' s top suppliers and how they enhance product performance and innovation. Learn about Apple's efficient supply chain and"
+      "snippet": "Nov 13, 2025 · Discover Apple's top suppliers and how they enhance product performance and innovation. Learn about Apple's efficient supply chain and "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/AAPL-Customers",
+      "url": "https://en.wikipedia.org/wiki/Apple_Inc.",
       "query": "Apple Inc. major customers clients",
-      "snippet": "For your research, we’ve provided 9 tables on Apple Inc corporate clients . You can find them in the navigation menu under Customers & Markets. To dow"
+      "snippet": "Apple Inc . is an American multinational technology company headquartered in Cupertino, California, in Silicon Valley, best known for its consumer ele"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://businessmodelanalyst.com/apple-target-market/",
+      "url": "https://www.apple.com/",
       "query": "Apple Inc. major customers clients",
-      "snippet": "Nov 8, 2024 · For Apple , this analysis reveals a distinct and loyal customer base characterized by specific core values and lifestyle choices. Apple "
+      "snippet": "Neither Apple Inc . nor Apple Payments Services LLC is a bank. All communications from Apple and Goldman Sachs Bank USA about Apple Card (including tr"
     }
   ]
 }

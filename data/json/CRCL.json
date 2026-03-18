@@ -1,37 +1,37 @@
 {
   "ticker": "CRCL",
-  "company_name": "Circle Internet Group",
-  "sector": "Financial Services",
-  "industry": "Payments Technology / Stablecoin Issuer",
+  "company_name": "Circle Internet Group, Inc.",
+  "sector": "Financial Services / Capital Markets",
+  "industry": "Payments Technology",
   "upstream": [
+    "Payment processors",
     "Blockchain infrastructure providers",
     "Cloud service providers",
-    "Payment processing platforms",
-    "Data analytics vendors",
-    "Regulatory compliance firms"
+    "Regulatory compliance vendors",
+    "Financial data providers"
   ],
   "downstream": [
-    "Banks and financial institutions",
-    "Cryptocurrency exchanges",
-    "Fintech companies",
-    "Merchants and e-commerce platforms",
-    "Institutional investors"
+    "Retail merchants",
+    "Financial institutions",
+    "Crypto exchanges",
+    "Payment processors",
+    "Enterprise clients"
   ],
   "competitors": [
-    "Coinbase",
     "PayPal",
-    "Stripe",
     "Square",
-    "Revolut"
+    "Stripe",
+    "Revolut",
+    "Adyen"
   ],
   "key_products": [
     "USDC stablecoin",
     "EURC stablecoin",
     "USYC tokenized money market fund",
     "Payments API",
-    "Digital wallet services"
+    "Crypto custody solutions"
   ],
-  "extracted_at": "2026-03-17 17:01:10",
+  "extracted_at": "2026-03-18 16:54:36",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/video/circle-stock-jumps-upgrade-micron-181345554.html",
+      "url": "https://www.benzinga.com/trading-ideas/movers/26/03/51272776/circle-internet-group-crcl-stock-climbs-as-bitcoin-strength-analyst-upgrade-boost-shares",
       "query": "Circle Internet Group suppliers manufacturers",
-      "snippet": "Yahoo Finance Host Josh Lipton tracks today's top moving stocks and biggest market stories in this Market Minute, including Circle Internet Group (CRC"
+      "snippet": "Circle Internet Group Stock Rebounds Above $120. Circle Internet Group shares have been highly volatile since their IPO in June 2025, surging to a pea"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.investing.com/news/insider-trading-news/date-rajeev-v-circle-internet-group-director-sells-431547-in-shares-93CH-4564479",
+      "url": "https://www.investing.com/news/insider-trading-news/tarbert-heath-sells-circle-internet-group-shares-for-174-million-93CH-4564066",
       "query": "Circle Internet Group suppliers manufacturers",
-      "snippet": "Director Date Rajeev V of Circle Internet Group , Inc. (EXCHANGE:CRCL) sold 3,819 shares of Class A Common Stock at $113.0 per share, for a total of $"
+      "snippet": "President of Circle Internet Group , Inc. (EXCHANGE:CRCL), Tarbert Heath, sold 15,000 shares of Class A Common Stock on March 13, 2026, for a total va"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.fool.com/investing/2025/06/27/why-circle-internet-stock-imploded-this-week/",
+      "url": "https://en.wikipedia.org/wiki/Circle_Internet_Group",
       "query": "Circle Internet Group major customers clients",
-      "snippet": "Circle Internet Group Stock Quote. Market Cap.A major valuation is making many nervous. Even after this week's nearly 25% retreat, Circle 's market ca"
+      "snippet": "Circle (legally Circle Internet Group , Inc.[2]) is a payments technology company. Founded by Jeremy Allaire and Sean Neville in 2013, [3][4] it is cu"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.aol.com/articles/why-circle-internet-group-stock-235248635.html",
+      "url": "https://www.appsruntheworld.com/customers-database/vendors/view/circle-internet-group",
       "query": "Circle Internet Group major customers clients",
-      "snippet": "On the back of increased demand for USDC, Lau upgraded his recommendation on its No. 1 adopter on Monday. In response, market players eagerly snapped "
+      "snippet": "List of companies using or evaluating Circle Internet Group applications, with details on their revenues, employees, industries, and locations."
     }
   ]
 }

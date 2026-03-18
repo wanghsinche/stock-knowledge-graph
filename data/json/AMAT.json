@@ -4,34 +4,34 @@
   "sector": "Technology",
   "industry": "Semiconductor Equipment & Materials",
   "upstream": [
-    "Semiconductor equipment component suppliers",
-    "Optical component manufacturers",
-    "Vacuum system suppliers",
-    "Laser technology providers",
-    "Electronic component suppliers"
+    "Silicon wafer suppliers",
+    "Chemical and gases suppliers",
+    "META",
+    "Photolithography equipment vendors",
+    "Cleanroom equipment providers"
   ],
   "downstream": [
-    "TSM",
-    "005930.KS",
     "INTC",
+    "005930.KS",
+    "TSM",
     "MU",
-    "GlobalFoundries"
+    "SK Hynix"
   ],
   "competitors": [
     "ASML",
     "LRCX",
-    "Tokyo Electron",
+    "Tokyo Electron Ltd.",
     "KLA Corporation",
     "AMAT"
   ],
   "key_products": [
-    "Lithography equipment",
-    "Etch systems",
-    "Deposition systems",
-    "Inspection and metrology tools",
-    "Materials engineering solutions"
+    "Deposition equipment (CVD, ALD, PVD)",
+    "Etching systems (plasma, wet)",
+    "Metrology and inspection tools",
+    "Photolithography equipment",
+    "Software and services for process optimization"
   ],
-  "extracted_at": "2026-03-13 16:35:21",
+  "extracted_at": "2026-03-18 16:57:00",
   "sources": [
     {
       "source": "Wikipedia",
@@ -53,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Applied_Materials",
+      "url": "https://csimarket.com/stocks/AMAT-Customers",
       "query": "Applied Materials, Inc. major customers clients",
-      "snippet": "Applied Materials , Inc . is an American corporation that supplies equipment, services and software for the manufacture of semiconductor (integrated c"
+      "snippet": "1 day ago · Applied Materials Inc customers and markets, results by customer and performance relative to AMAT, by company and industry - CSIMarket"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.appliedmaterials.com/",
+      "url": "https://portersfiveforce.com/blogs/target-market/appliedmaterials",
       "query": "Applied Materials, Inc. major customers clients",
-      "snippet": "Applied Materials , Inc . is the leader in materials engineering solutions that are at the foundation of virtually every new semiconductor and advance"
+      "snippet": "Nov 9, 2025 · Defining the Applied Materials Customer Base The customer demographics for Applied Materials are defined by immense scale and technologi"
     }
   ]
 }

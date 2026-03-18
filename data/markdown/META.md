@@ -3,8 +3,8 @@ ticker: META
 company: Meta Platforms, Inc.
 sector: Communication Services
 industry: Internet Content & Information
-extracted_at: 2026-03-17 16:58:04
-last_updated: 2026-03-17
+extracted_at: 2026-03-18 16:51:36
+last_updated: 2026-03-18
 ---
 
 # META - Meta Platforms, Inc.
@@ -12,23 +12,23 @@ last_updated: 2026-03-17
 ## 基本信息
 
 - **所属行业**: Communication Services / Internet Content & Information
-- **提取时间**: 2026-03-17 16:58:04
+- **提取时间**: 2026-03-18 16:51:36
 
 ## 产业链关系
 
 ### 上游供应商
+- [[AMZN]]
+- [[GOOGL]]
+- [[MSFT]]
 - [[NVDA]]
 - [[INTC]]
-- [[AMD]]
-- [[CSCO]]
-- [[DELL]]
 
 ### 下游客户
-- [[Advertisers (brands & agencies)]]
-- [[App developers]]
-- [[Content creators]]
-- [[META]]
-- [[End users of Facebook, Instagram, WhatsApp, Messenger]]
+- [[Coca‑Cola (advertiser)]]
+- [[Nike (advertiser)]]
+- [[Procter & Gamble (advertiser)]]
+- [[Small businesses (advertiser)]]
+- [[Digital agencies (advertiser)]]
 
 ### 竞争对手
 - [[GOOGL]]
@@ -48,10 +48,10 @@ last_updated: 2026-03-17
 
 - [Meta Platforms](https://en.wikipedia.org/wiki/Meta_Platforms,_Inc.)
 - [Meta Platforms, Inc. suppliers manufacturers](https://www.meta.com/about/)
-- [Meta Platforms, Inc. suppliers manufacturers](https://www.computerhope.com/comp/meta.htm)
-- [Meta Platforms, Inc. major customers clients](https://ru.wikipedia.org/wiki/Meta_Platforms)
-- [Meta Platforms, Inc. major customers clients](https://www.cnn.com/markets/stocks/META)
+- [Meta Platforms, Inc. suppliers manufacturers](https://www.bloomberg.com/news/articles/2026-03-16/meta-to-spend-up-to-27-billion-on-ai-infrastructure-from-nebius)
+- [Meta Platforms, Inc. major customers clients](https://en.wikipedia.org/wiki/Meta_Platforms)
+- [Meta Platforms, Inc. major customers clients](https://csimarket.com/stocks/META-Customers)
 
 ## 元数据
 
-- **更新日期**: 2026-03-17
+- **更新日期**: 2026-03-18
