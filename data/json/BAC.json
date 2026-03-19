@@ -4,33 +4,34 @@
   "sector": "Financial Services",
   "industry": "Banks - Diversified",
   "upstream": [
-    "Technology vendors (software & hardware)",
-    "Office supplies & equipment providers",
-    "Security & cybersecurity firms",
-    "Cloud service providers",
-    "Professional services (consulting & legal)"
+    "MSFT",
+    "Payment processors (e.g., Visa, Mastercard)",
+    "MSFT",
+    "Data analytics vendors (e.g., SAS, Palantir)",
+    "Cybersecurity solutions providers (e.g., Palo Alto Networks, Symantec)"
   ],
   "downstream": [
-    "Retail banking customers",
-    "Small‑to‑medium business clients",
-    "Corporate & institutional clients",
+    "Retail banking customers (individual depositors)",
+    "Small and medium‑enterprise customers",
+    "Corporate and institutional clients",
     "Mortgage borrowers",
-    "Wealth management and investment clients"
+    "Wealth management and private banking clients"
   ],
   "competitors": [
-    "JPMorgan Chase & Co.",
-    "Citigroup Inc.",
-    "Wells Fargo & Co.",
-    "Goldman Sachs Group Inc."
+    "JPMorgan Chase",
+    "Citigroup",
+    "Wells Fargo",
+    "Goldman Sachs",
+    "Morgan Stanley"
   ],
   "key_products": [
     "Consumer banking (checking, savings, credit cards)",
-    "Corporate & investment banking",
-    "Wealth management & advisory",
-    "Mortgage lending",
-    "Online & mobile banking platforms"
+    "Corporate banking (loans, treasury services)",
+    "Investment banking (M&A advisory, underwriting)",
+    "Wealth management and private banking",
+    "Mortgage lending and home equity products"
   ],
-  "extracted_at": "2026-03-18 16:57:48",
+  "extracted_at": "2026-03-19 16:55:06",
   "sources": [
     {
       "source": "Wikipedia",
@@ -40,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://about.bankofamerica.com/en/our-company/supplier-management",
+      "url": "https://en.wikipedia.org/wiki/Bank_of_America",
       "query": "Bank of America Corporation suppliers manufacturers",
-      "snippet": "Bank of America is dedicated to partnering with suppliers who value ethics, inclusion, human rights, and the environment. Learn more about our supplie"
+      "snippet": "American multinational banking and financial services corporation . Bank of America Corporation . Bank of America Tower, headquarters for Bank of Amer"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/BAC-Suppliers",
+      "url": "https://www.bankofamerica.com/",
       "query": "Bank of America Corporation suppliers manufacturers",
-      "snippet": "Feb 26, 2026 · Bank Of America supply chain, list and performance of Bank Of Americas' suppliers - CSIMarket"
+      "snippet": "Banking , credit card, automobile loans, mortgage and home equity products are provided by Bank of America , N.A. and affiliated banks , Members FDIC "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://newsroom.bankofamerica.com/content/newsroom/company-overview/bank-of-america-fast-facts.html",
+      "url": "https://en.wikipedia.org/wiki/Bank_of_America",
       "query": "Bank of America Corporation major customers clients",
-      "snippet": "Feb 24, 2026 · Explore Bank of America Fast Facts for key insights on our global presence, financial services, client reach, and commitment to respons"
+      "snippet": "The Bank of America Corporation is an American multinational investment bank and financial services holding company headquartered at the Bank of Ameri"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/BAC-Customers",
+      "url": "https://www.bankofamerica.com/",
       "query": "Bank of America Corporation major customers clients",
-      "snippet": "4 days ago · Bank Of America customers and markets, results by customer and performance relative to BAC, by company and industry - CSIMarket"
+      "snippet": "For customers with a Bank of America login with no credit score impact. Ready for an electric vehicle?Merrill Lynch Wealth Management Clients : 800-ME"
     }
   ]
 }

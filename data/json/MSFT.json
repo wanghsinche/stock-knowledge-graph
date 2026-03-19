@@ -4,18 +4,18 @@
   "sector": "Technology",
   "industry": "Software - Infrastructure",
   "upstream": [
-    "DELL",
-    "HPQ",
-    "Lenovo Group",
     "INTC",
-    "NVDA"
+    "NVDA",
+    "AMD",
+    "QCOM",
+    "005930.KS"
   ],
   "downstream": [
-    "Enterprise customers (e.g., Fortune 500 companies)",
-    "Government agencies",
-    "Small and medium-sized businesses",
+    "Enterprise customers (e.g., banks, government agencies)",
+    "DELL",
     "Individual consumers",
-    "CAT"
+    "CAT",
+    "Gaming studios"
   ],
   "competitors": [
     "GOOGL",
@@ -28,11 +28,10 @@
     "Windows operating system",
     "Microsoft Office suite",
     "Azure cloud platform",
-    "Microsoft Teams",
-    "Surface hardware line",
+    "Surface hardware",
     "Xbox gaming console"
   ],
-  "extracted_at": "2026-03-18 16:51:27",
+  "extracted_at": "2026-03-19 16:47:28",
   "sources": [
     {
       "source": "Wikipedia",
@@ -56,7 +55,7 @@
       "source": "DuckDuckGo",
       "url": "https://www.appsruntheworld.com/customers-database/vendors/view/microsoft",
       "query": "Microsoft Corporation major customers clients",
-      "snippet": "1 week ago - Each quarter our research team identifies companies that are using Microsoft applications such as Microsoft 365 for Collaboration, Micros"
+      "snippet": "2 weeks ago - Each quarter our research team identifies companies that are using Microsoft applications such as Microsoft 365 for Collaboration, Micro"
     },
     {
       "source": "DuckDuckGo",

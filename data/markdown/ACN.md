@@ -1,57 +1,57 @@
 ---
 ticker: ACN
 company: Accenture plc
-sector: Technology / Information Technology Services
+sector: Technology
 industry: Information Technology Services
-extracted_at: 2026-03-16 17:01:58
-last_updated: 2026-03-16
+extracted_at: 2026-03-19 16:51:49
+last_updated: 2026-03-19
 ---
 
 # ACN - Accenture plc
 
 ## 基本信息
 
-- **所属行业**: Technology / Information Technology Services / Information Technology Services
-- **提取时间**: 2026-03-16 17:01:58
+- **所属行业**: Technology / Information Technology Services
+- **提取时间**: 2026-03-19 16:51:49
 
 ## 产业链关系
 
 ### 上游供应商
+- [[DELL]]
+- [[CSCO]]
 - [[MSFT]]
 - [[IBM]]
-- [[ORCL]]
-- [[SAP]]
-- [[GOOGL]]
+- [[HPQ]]
 
 ### 下游客户
-- [[Cardinal Health]]
+- [[MSFT]]
+- [[AMZN]]
 - [[Walmart]]
 - [[Coca‑Cola]]
-- [[AT&T]]
-- [[MSFT]]
+- [[Bank of America]]
 
 ### 竞争对手
-- [[Deloitte Consulting]]
-- [[PwC Consulting]]
-- [[EY Advisory]]
-- [[KPMG Advisory]]
+- [[Deloitte]]
+- [[PwC]]
+- [[EY]]
+- [[KPMG]]
 - [[IBM]]
 
 ### 核心产品
 - [[Digital Transformation Consulting]]
 - [[Cloud Services]]
-- [[Cybersecurity Services]]
+- [[Cybersecurity Solutions]]
 - [[Analytics & AI Services]]
-- [[Managed Services]]
+- [[Enterprise Software Integration]]
 
 ## 数据来源
 
 - [Accenture](https://en.wikipedia.org/wiki/Accenture_plc)
-- [Accenture plc suppliers manufacturers](https://www.accenture.com/us-en/services/ecosystem-partners)
 - [Accenture plc suppliers manufacturers](https://csimarket.com/stocks/ACN-Suppliers)
+- [Accenture plc suppliers manufacturers](https://simplywall.st/stocks/us/software/nyse-acn/accenture)
+- [Accenture plc major customers clients](https://en.wikipedia.org/wiki/Accenture)
 - [Accenture plc major customers clients](https://newsroom.accenture.com/fact-sheet)
-- [Accenture plc major customers clients](https://thecambridgeconsultant.com/accentures-biggest-clients/)
 
 ## 元数据
 
-- **更新日期**: 2026-03-16
+- **更新日期**: 2026-03-19

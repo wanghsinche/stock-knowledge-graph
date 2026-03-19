@@ -3,17 +3,35 @@
   "company_name": "Nebius Group N.V.",
   "sector": "Communication Services",
   "industry": "Internet Content & Information",
-  "upstream": [],
-  "downstream": [],
-  "competitors": [],
-  "key_products": [
-    "Artificial intelligence infrastructure",
-    "Avride",
-    "TripleTen",
-    "Toloka",
-    "Clickhouse"
+  "upstream": [
+    "NVDA",
+    "INTC",
+    "AMD",
+    "QCOM",
+    "MSFT"
   ],
-  "extracted_at": "2026-03-18 16:52:05",
+  "downstream": [
+    "GOOGL",
+    "MSFT",
+    "AMZN",
+    "IBM",
+    "Alibaba Cloud"
+  ],
+  "competitors": [
+    "OpenAI",
+    "Anthropic",
+    "DeepMind",
+    "Cerebras Systems",
+    "Graphcore"
+  ],
+  "key_products": [
+    "Nebius AI Platform",
+    "Nebius Cloud",
+    "Nebius Edge AI",
+    "Nebius Data Lake",
+    "Nebius Analytics"
+  ],
+  "extracted_at": "2026-03-19 16:52:00",
   "sources": [
     {
       "source": "Wikipedia",
@@ -25,19 +43,19 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Nebius_Group",
       "query": "NBIS suppliers manufacturers",
-      "snippet": "Nebius Group N.V., headquartered in Amsterdam, is a technology company [3] that provides artificial intelligence infrastructure. [4] The company also "
+      "snippet": "Nebius Group N.V., headquartered in Amsterdam, is a technology company that provides artificial intelligence infrastructure."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/NBIS-Suppliers",
+      "url": "https://finance.yahoo.com/quote/NBIS/",
       "query": "NBIS suppliers manufacturers",
-      "snippet": "May 3, 2025 · Nebius Group N V's Comment on Supply Chain NBIS 's Stock Perfrormance relative to it's Suppliers NBIS 's vs. Suppliers , Data (Revenue a"
+      "snippet": "Find the latest Nebius Group N.V. ( NBIS ) stock quote, history, news and other vital information to help you with your stock trading and investing."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.tradingview.com/symbols/NASDAQ-NBIS/ideas/page-2/",
+      "url": "https://finance.yahoo.com/quote/NBIS/",
       "query": "NBIS major customers clients",
-      "snippet": "NBIS trade ideas. Videos onlyVideos only. NBIS setup bullish I have added another 100 shares in the last few days we we dipped back into the demand zo"
+      "snippet": "Find the latest Nebius Group N.V. ( NBIS ) stock quote, history, news and other vital information to help you with your stock trading and investing."
     },
     {
       "source": "DuckDuckGo",

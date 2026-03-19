@@ -4,34 +4,34 @@
   "sector": "Communication Services",
   "industry": "Internet Content & Information",
   "upstream": [
-    "AMZN",
-    "GOOGL",
-    "MSFT",
+    "INTC",
     "NVDA",
-    "INTC"
+    "AMD",
+    "CSCO",
+    "DELL"
   ],
   "downstream": [
-    "Coca‑Cola (advertiser)",
-    "Nike (advertiser)",
-    "Procter & Gamble (advertiser)",
-    "Small businesses (advertiser)",
-    "Digital agencies (advertiser)"
+    "AMZN",
+    "Coca‑Cola",
+    "Nike",
+    "005930.KS",
+    "GOOGL"
   ],
   "competitors": [
     "GOOGL",
     "AMZN",
     "AAPL",
     "MSFT",
-    "ByteDance (TikTok)"
+    "TikTok"
   ],
   "key_products": [
     "Facebook",
     "Instagram",
     "WhatsApp",
     "Messenger",
-    "Meta Ads Manager"
+    "Meta Quest"
   ],
-  "extracted_at": "2026-03-18 16:51:36",
+  "extracted_at": "2026-03-19 16:47:41",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.meta.com/about/",
+      "url": "https://en.wikipedia.org/wiki/List_of_computer_hardware_manufacturers",
       "query": "Meta Platforms, Inc. suppliers manufacturers",
-      "snippet": "Meta - Social Media Advertising Platform (Facebook & Instagram)."
+      "snippet": "Current notable computer hardware manufacturers : Cases. [edit]. List of computer case manufacturers : This list is incomplete; you can help by adding"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.bloomberg.com/news/articles/2026-03-16/meta-to-spend-up-to-27-billion-on-ai-infrastructure-from-nebius",
+      "url": "https://it.wikipedia.org/wiki/Meta_Platforms",
       "query": "Meta Platforms, Inc. suppliers manufacturers",
-      "snippet": "Meta Platforms Inc . will pay as much as $27 billion over the next five years for access to artificial intelligence infrastructure from cloud provider"
+      "snippet": "Meta Platforms , Inc ., nota più semplicemente come Meta , è un'impresa statunitense attiva nel settore della tecnologia con sede a Menlo Park, in Cal"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Meta_Platforms",
       "query": "Meta Platforms, Inc. major customers clients",
-      "snippet": "Meta Platforms , Inc . (doing business as Meta) is an American multinational technology company headquartered in Menlo Park, California. Meta owns and"
+      "snippet": "Meta owns and operates several prominent social media platforms and communication services, including Facebook, Instagram, WhatsApp, Messenger, Thread"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://csimarket.com/stocks/META-Customers",
       "query": "Meta Platforms, Inc. major customers clients",
-      "snippet": "Meta Platforms Inc ’s Comment on Sales, Marketing and Customers The majority of our marketers use our self-service ad platform to establish accounts a"
+      "snippet": "For your research, we’ve provided 9 tables on Meta Platforms Inc corporate clients . You can find them in the navigation menu under Customers & Market"
     }
   ]
 }

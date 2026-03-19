@@ -1,37 +1,37 @@
 {
   "ticker": "C",
   "company_name": "Citigroup Inc.",
-  "sector": "Financial Services",
+  "sector": "Financial Services / Banks - Diversified",
   "industry": "Diversified Banks",
   "upstream": [
     "MSFT",
-    "Consulting firms (e.g., Accenture, Deloitte)",
-    "Legal service providers",
-    "Risk management software suppliers",
-    "AMZN"
+    "Data providers (e.g., Bloomberg, Refinitiv)",
+    "Payment processors (e.g., Visa, Mastercard)",
+    "Regulatory compliance firms",
+    "Cybersecurity providers"
   ],
   "downstream": [
-    "Corporate and institutional clients",
-    "Government and sovereign entities",
     "Retail banking customers",
-    "Small and medium‑enterprise (SME) clients",
-    "High‑net‑worth individuals (wealth management)"
+    "Corporate clients",
+    "Institutional investors",
+    "Wealth management clients",
+    "Credit card holders"
   ],
   "competitors": [
-    "JPMorgan Chase & Co.",
-    "Bank of America Corp.",
-    "Wells Fargo & Co.",
-    "Goldman Sachs Group Inc.",
+    "JPMorgan Chase",
+    "Bank of America",
+    "Wells Fargo",
+    "Goldman Sachs",
     "Morgan Stanley"
   ],
   "key_products": [
     "Investment banking services",
-    "Retail banking and credit cards",
-    "Corporate and investment banking loans",
-    "Wealth and asset management",
-    "Treasury and trade solutions"
+    "Retail banking services",
+    "Credit cards",
+    "Wealth management",
+    "Capital markets"
   ],
-  "extracted_at": "2026-03-12 16:56:12",
+  "extracted_at": "2026-03-19 16:56:07",
   "sources": [
     {
       "source": "Wikipedia",
@@ -55,13 +55,13 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Citigroup",
       "query": "Citigroup Inc. major customers clients",
-      "snippet": "Citigroup Inc . or Citi is an American multinational investment bank and financial services company based in New York City. The company was formed in "
+      "snippet": "This list only contains chairmen since the formation of Citigroup in 1998; for a full list of chairmen including Citigroup 's predecessors, please see"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://cleverism.com/company/citigroup/",
+      "url": "https://csimarket.com/stocks/C-Customers",
       "query": "Citigroup Inc. major customers clients",
-      "snippet": "MISSION. Citigroup Inc (“ Citi ”) seeks to make high-quality financial and banking services accessible to a broad range of corporate and consumer cust"
+      "snippet": "Feb 28, 2026 · For your research, we’ve provided 9 tables on Citigroup inc corporate clients . You can find them in the navigation menu under Customer"
     }
   ]
 }

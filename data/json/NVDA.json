@@ -7,31 +7,34 @@
     "TSM",
     "005930.KS",
     "GlobalFoundries",
-    "MU",
-    "NVDA"
+    "UMC",
+    "SMIC"
   ],
   "downstream": [
-    "Game developers (e.g., Ubisoft, Electronic Arts)",
-    "DELL",
+    "MSFT",
+    "SONY",
+    "AMZN",
     "TSLA",
-    "GOOGL",
-    "NVDA"
+    "AAPL"
   ],
   "competitors": [
     "AMD",
     "INTC",
     "QCOM",
     "AVGO",
-    "AAPL"
+    "ARM Holdings"
   ],
   "key_products": [
-    "GeForce GPUs (consumer gaming)",
-    "Quadro/RTX GPUs (professional visualization)",
-    "Tesla GPUs (data‑center AI)",
-    "Jetson SoCs (edge AI & robotics)",
-    "CUDA API & software stack"
+    "GeForce GPUs",
+    "Quadro GPUs",
+    "Tesla GPUs",
+    "RTX GPUs",
+    "NVIDIA DRIVE SoC",
+    "Jetson SoC",
+    "CUDA API",
+    "PhysX API"
   ],
-  "extracted_at": "2026-03-18 16:50:44",
+  "extracted_at": "2026-03-19 16:47:00",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,15 +44,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Nvidia",
+      "url": "https://stocksandfuturestrading.com/the-complete-list-of-nvidias-suppliers-and-consumers/",
       "query": "NVIDIA Corporation suppliers manufacturers",
-      "snippet": "Nvidia Corporation . Show dark mode logo. Nvidia uses external suppliers for all phases of manufacturing , including wafer fabrication, assembly, test"
+      "snippet": "Nov 22, 2024 · NVIDIA has completed one of the most dramatic business transformations in market history — going from a gaming GPU company to the backb"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/NVDA/",
+      "url": "https://csimarket.com/stocks/NVDA-Suppliers",
       "query": "NVIDIA Corporation suppliers manufacturers",
-      "snippet": "Find the latest NVIDIA Corporation (NVDA) stock quote, history, news and other vital information to help you with your stock trading and investing."
+      "snippet": "Feb 26, 2026 · We utilize a fabless and contracting manufacturing strategy, whereby we employ and partner with key suppliers for all phases of the man"
     },
     {
       "source": "DuckDuckGo",
@@ -59,9 +62,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://coinlaw.io/nvidia-revenue-customer-concentration-q2/",
+      "url": "https://www.investing.com/equities/nvidia-corp",
       "query": "NVIDIA Corporation major customers clients",
-      "snippet": "Nvidia revealed that just two unnamed customers accounted for 39 percent of its total revenue in Q2, sparking debate about risk and transparency. Key "
+      "snippet": "View today's NVIDIA Corporation stock price and latest NVDA news and analysis. Create real-time notifications to follow any changes in the live stock "
     }
   ]
 }

@@ -3,8 +3,8 @@ ticker: XOM
 company: Exxon Mobil Corporation
 sector: Energy
 industry: Oil & Gas Integrated
-extracted_at: 2026-03-18 16:55:01
-last_updated: 2026-03-18
+extracted_at: 2026-03-19 16:49:08
+last_updated: 2026-03-19
 ---
 
 # XOM - Exxon Mobil Corporation
@@ -12,30 +12,30 @@ last_updated: 2026-03-18
 ## 基本信息
 
 - **所属行业**: Energy / Oil & Gas Integrated
-- **提取时间**: 2026-03-18 16:55:01
+- **提取时间**: 2026-03-19 16:49:08
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Chevron]]
-- [[ConocoPhillips]]
-- [[Royal Dutch Shell]]
-- [[BP]]
-- [[TotalEnergies]]
+- [[Schlumberger]]
+- [[Halliburton]]
+- [[Baker Hughes]]
+- [[TechnipFMC]]
+- [[Weatherford]]
 
 ### 下游客户
-- [[Ford Motor Company]]
 - [[General Motors]]
-- [[American Airlines]]
-- [[Petrochemical plants]]
-- [[Industrial lubricant users]]
+- [[Ford Motor Company]]
+- [[Toyota Motor Corporation]]
+- [[United Airlines]]
+- [[Dow Chemical Company]]
 
 ### 竞争对手
 - [[Chevron]]
-- [[Royal Dutch Shell]]
+- [[Shell]]
 - [[BP]]
-- [[TotalEnergies]]
 - [[ConocoPhillips]]
+- [[Valero Energy]]
 
 ### 核心产品
 - [[Crude oil]]
@@ -43,8 +43,9 @@ last_updated: 2026-03-18
 - [[Gasoline]]
 - [[Diesel]]
 - [[Jet fuel]]
-- [[Lubricants]]
-- [[Petrochemicals]]
+- [[Mobil 1 lubricants]]
+- [[Ethylene]]
+- [[Propylene]]
 - [[Plastics]]
 - [[Synthetic rubber]]
 
@@ -52,10 +53,10 @@ last_updated: 2026-03-18
 
 - [ExxonMobil](https://en.wikipedia.org/wiki/Exxon_Mobil_Corporation)
 - [Exxon Mobil Corporation suppliers manufacturers](https://corporate.exxonmobil.com/procurement/exxonmobil-for-suppliers)
-- [Exxon Mobil Corporation suppliers manufacturers](https://www.mobil.com/en/lubricants/for-businesses/industrial/lubricants-distributors)
+- [Exxon Mobil Corporation suppliers manufacturers](https://www.volza.com/p/exxon-mobil/manufacturers/)
 - [Exxon Mobil Corporation major customers clients](https://en.wikipedia.org/wiki/ExxonMobil)
 - [Exxon Mobil Corporation major customers clients](https://corporate.exxonmobil.com/)
 
 ## 元数据
 
-- **更新日期**: 2026-03-18
+- **更新日期**: 2026-03-19

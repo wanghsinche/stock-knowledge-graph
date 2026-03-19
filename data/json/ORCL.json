@@ -8,14 +8,14 @@
     "AMD",
     "NVDA",
     "DELL",
-    "CSCO"
+    "HPQ"
   ],
   "downstream": [
+    "Bank of America",
     "Walmart",
-    "JPMorgan Chase",
+    "Coca‑Cola",
     "AT&T",
-    "eBay",
-    "Bank of America"
+    "Boeing"
   ],
   "competitors": [
     "MSFT",
@@ -28,10 +28,10 @@
     "Oracle Database",
     "Oracle Cloud Infrastructure",
     "Oracle Autonomous Database",
-    "Oracle ERP Cloud",
-    "Oracle Analytics Cloud"
+    "Oracle E‑Business Suite",
+    "Oracle Fusion Middleware"
   ],
-  "extracted_at": "2026-03-18 16:54:27",
+  "extracted_at": "2026-03-19 16:49:54",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Oracle_Corporation",
+      "url": "https://www.oracle.com/corporate/suppliers/",
       "query": "Oracle Corporation suppliers manufacturers",
+      "snippet": "Oracle is always looking for suppliers who can meet our high quality standards and satisfy our ever-evolving business needs. We believe in the importa"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.oracle.com/partner/find-partner/",
+      "query": "Oracle Corporation suppliers manufacturers",
+      "snippet": "Easily locate Oracle partners with expertise in building, selling, and providing value-added services for Oracle technology. Search by partner name, c"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/Oracle_Corporation",
+      "query": "Oracle Corporation major customers clients",
       "snippet": "Oracle Corporation is an American multinational technology company headquartered in Austin, Texas. Co-founded in Santa Clara, California by Bob Miner,"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.oracle.com/corporate/",
-      "query": "Oracle Corporation suppliers manufacturers",
-      "snippet": "Oracle is pleased to provide information about our company, customers, partners, events, communities, press, analysts, investors, and careers.The comp"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.thomsondata.com/customer-base/oracle.php",
       "query": "Oracle Corporation major customers clients",
-      "snippet": "Technographic Data of Companies That Use Oracle Oracle Customers List by Industry Different industries use Oracle technology for their business . Look"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.oracle.com/customers/",
-      "query": "Oracle Corporation major customers clients",
-      "snippet": "Hear from our customers to learn what makes Oracle the right choice for them, and why we're the right partner for your business ."
+      "snippet": "Oracle is pleased to provide information about our company, customers , partners, events, communities, press, analysts, investors, and careers.The com"
     }
   ]
 }

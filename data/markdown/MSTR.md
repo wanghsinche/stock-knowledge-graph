@@ -3,8 +3,8 @@ ticker: MSTR
 company: MicroStrategy Incorporated
 sector: Technology
 industry: Software - Application
-extracted_at: 2026-03-18 16:53:32
-last_updated: 2026-03-18
+extracted_at: 2026-03-19 16:50:47
+last_updated: 2026-03-19
 ---
 
 # MSTR - MicroStrategy Incorporated
@@ -12,23 +12,23 @@ last_updated: 2026-03-18
 ## 基本信息
 
 - **所属行业**: Technology / Software - Application
-- **提取时间**: 2026-03-18 16:53:32
+- **提取时间**: 2026-03-19 16:50:47
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Hardware vendors]]
-- [[Cloud service providers (AWS, Azure, GCP)]]
-- [[Data integration partners]]
-- [[Security solution providers]]
-- [[Consulting partners]]
+- [[MSFT]]
+- [[AMZN]]
+- [[GOOGL]]
+- [[ORCL]]
+- [[IBM]]
 
 ### 下游客户
-- [[Enterprise customers (banks, insurance, retail)]]
-- [[Government agencies]]
-- [[Healthcare organizations]]
-- [[Financial services firms]]
-- [[Manufacturing companies]]
+- [[Bank of America]]
+- [[JPMorgan Chase]]
+- [[Citigroup]]
+- [[Walmart]]
+- [[GOOGL]]
 
 ### 竞争对手
 - [[Tableau]]
@@ -38,20 +38,20 @@ last_updated: 2026-03-18
 - [[SAP BusinessObjects]]
 
 ### 核心产品
-- [[MicroStrategy Desktop]]
-- [[MicroStrategy Web]]
-- [[MicroStrategy Mobile]]
+- [[MicroStrategy Platform]]
 - [[MicroStrategy Analytics]]
+- [[MicroStrategy Mobile]]
 - [[MicroStrategy Cloud]]
+- [[MicroStrategy Data Warehouse]]
 
 ## 数据来源
 
 - 
-- [Strategy Inc suppliers manufacturers](https://www.strategyinc.net/)
-- [Strategy Inc suppliers manufacturers](https://www.strategyinc.net/services-overview/)
-- [Strategy Inc major customers clients](https://en.wikipedia.org/wiki/MicroStrategy)
-- [Strategy Inc major customers clients](https://www.tradingview.com/symbols/NASDAQ-MSTR/ideas/?sort=recent)
+- [Strategy Inc suppliers manufacturers](https://www.tradingview.com/symbols/NASDAQ-MSTR/ideas/?sort=recent)
+- [Strategy Inc suppliers manufacturers](https://finance.yahoo.com/quote/MSTR/)
+- [Strategy Inc major customers clients](https://csimarket.com/stocks/STRF-Customers)
+- [Strategy Inc major customers clients](https://www.strategy.com/software/customer-stories)
 
 ## 元数据
 
-- **更新日期**: 2026-03-18
+- **更新日期**: 2026-03-19

@@ -4,34 +4,34 @@
   "sector": "Technology",
   "industry": "Computer Hardware",
   "upstream": [
-    "005930.KS",
     "MU",
+    "005930.KS",
     "SK Hynix",
-    "WDC",
-    "Toshiba Memory"
+    "Toshiba Memory",
+    "INTC"
   ],
   "downstream": [
     "AAPL",
+    "005930.KS",
     "DELL",
-    "HPQ",
-    "Lenovo Group",
-    "SONY"
+    "MSFT",
+    "AMZN"
   ],
   "competitors": [
+    "WDC",
     "Kingston Technology",
-    "Lexar Technologies",
-    "Corsair",
-    "PNY Technologies",
-    "Crucial"
+    "005930.KS",
+    "MU",
+    "Toshiba Memory"
   ],
   "key_products": [
     "SD memory cards",
-    "microSD cards",
     "USB flash drives",
-    "Solid‑state drives (SSDs)",
-    "Enterprise flash storage solutions"
+    "Internal SSDs",
+    "External SSDs",
+    "NVMe SSDs"
   ],
-  "extracted_at": "2026-03-18 16:51:12",
+  "extracted_at": "2026-03-19 16:47:18",
   "sources": [
     {
       "source": "Wikipedia",
@@ -55,13 +55,13 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Sandisk",
       "query": "Sandisk Corporation major customers clients",
-      "snippet": "Sandisk Corporation is an American multinational computer technology company based in Milpitas, California, that designs and manufactures flash memory"
+      "snippet": "2 weeks ago - Sandisk Corporation (sometimes stylized as SanDisk, with the D capitalized in camelCase) is an American multinational computer technolog"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.sandisk.com/",
+      "url": "https://www.sandisk.com/company/about-us",
       "query": "Sandisk Corporation major customers clients",
-      "snippet": "Sandisk online store members receive free standard shipping on all eligible orders.New Sandisk Customers Sign Up and Save 10% Off. Explore the latest "
+      "snippet": "In this role, he oversees product development across market segments, including consumer, client, gaming, automotive, and the data center. Ismail lead"
     }
   ]
 }

@@ -3,8 +3,8 @@ ticker: NEM
 company: Newmont Corporation
 sector: Basic Materials
 industry: Gold
-extracted_at: 2026-02-20 16:36:45
-last_updated: 2026-02-20
+extracted_at: 2026-03-19 16:51:37
+last_updated: 2026-03-19
 ---
 
 # NEM - Newmont Corporation
@@ -12,30 +12,30 @@ last_updated: 2026-02-20
 ## 基本信息
 
 - **所属行业**: Basic Materials / Gold
-- **提取时间**: 2026-02-20 16:36:45
+- **提取时间**: 2026-03-19 16:51:37
 
 ## 产业链关系
 
 ### 上游供应商
-- [[CAT]]
-- [[Komatsu]]
-- [[Sandvik]]
-- [[Metso]]
-- [[HPQ]]
+- [[Mining equipment manufacturers]]
+- [[Drilling and rig suppliers]]
+- [[Mining chemicals and explosives]]
+- [[Transportation and logistics providers]]
+- [[Engineering and consulting firms]]
 
 ### 下游客户
-- [[Jewelers (e.g., Tiffany & Co., Cartier)]]
-- [[Investment funds (e.g., BlackRock, Vanguard)]]
+- [[Gold refiners]]
+- [[Jewelry manufacturers]]
+- [[META]]
 - [[Central banks and sovereign wealth funds]]
-- [[Industrial manufacturers (e.g., electronics, automotive)]]
-- [[Gold bullion traders (e.g., BullionVault, Kitco)]]
+- [[Electronics manufacturers]]
 
 ### 竞争对手
 - [[Barrick Gold]]
-- [[Newcrest Mining]]
+- [[AngloGold Ashanti]]
 - [[Kinross Gold]]
 - [[Gold Fields]]
-- [[Agnico Eagle Mines]]
+- [[Newcrest Mining]]
 
 ### 核心产品
 - [[Gold]]
@@ -47,11 +47,11 @@ last_updated: 2026-02-20
 ## 数据来源
 
 - [Newmont](https://en.wikipedia.org/wiki/Newmont_Corporation)
-- [Newmont Corporation suppliers manufacturers](https://investors.newmont.com/suppliers/)
-- [Newmont Corporation suppliers manufacturers](https://csimarket.com/stocks/NEM-Suppliers)
-- [Newmont Corporation major customers clients](https://csimarket.com/stocks/NEM-Customers)
+- [Newmont Corporation suppliers manufacturers](https://en.wikipedia.org/wiki/Newmont)
+- [Newmont Corporation suppliers manufacturers](https://www.newmont.com/)
 - [Newmont Corporation major customers clients](https://canvasbusinessmodel.com/blogs/target-market/newmont-target-market)
+- [Newmont Corporation major customers clients](https://csimarket.com/stocks/NEM-Customers)
 
 ## 元数据
 
-- **更新日期**: 2026-02-20
+- **更新日期**: 2026-03-19

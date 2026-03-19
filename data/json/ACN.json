@@ -1,37 +1,37 @@
 {
   "ticker": "ACN",
   "company_name": "Accenture plc",
-  "sector": "Technology / Information Technology Services",
+  "sector": "Technology",
   "industry": "Information Technology Services",
   "upstream": [
+    "DELL",
+    "CSCO",
     "MSFT",
     "IBM",
-    "ORCL",
-    "SAP",
-    "GOOGL"
+    "HPQ"
   ],
   "downstream": [
-    "Cardinal Health",
+    "MSFT",
+    "AMZN",
     "Walmart",
     "Coca‑Cola",
-    "AT&T",
-    "MSFT"
+    "Bank of America"
   ],
   "competitors": [
-    "Deloitte Consulting",
-    "PwC Consulting",
-    "EY Advisory",
-    "KPMG Advisory",
+    "Deloitte",
+    "PwC",
+    "EY",
+    "KPMG",
     "IBM"
   ],
   "key_products": [
     "Digital Transformation Consulting",
     "Cloud Services",
-    "Cybersecurity Services",
+    "Cybersecurity Solutions",
     "Analytics & AI Services",
-    "Managed Services"
+    "Enterprise Software Integration"
   ],
-  "extracted_at": "2026-03-16 17:01:58",
+  "extracted_at": "2026-03-19 16:51:49",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.accenture.com/us-en/services/ecosystem-partners",
+      "url": "https://csimarket.com/stocks/ACN-Suppliers",
       "query": "Accenture plc suppliers manufacturers",
-      "snippet": "Accenture’ s ecosystem partners and suppliers bring deep expertise and the right technology to our clients for lasting value and accelerate change. Le"
+      "snippet": "Accenture Plc supply chain, list and performance of Accenture Plcs ' suppliers - CSIMarket."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/ACN-Suppliers",
+      "url": "https://simplywall.st/stocks/us/software/nyse-acn/accenture",
       "query": "Accenture plc suppliers manufacturers",
-      "snippet": "Dec 21, 2025 · For your research, we’ve provided nine additional tables on Accenture Plc ’ s suppliers . You can find them in the navigation menu unde"
+      "snippet": "Research Accenture 's (NYSE:ACN) fundamentals, past performance, valuation, dividends and more."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/Accenture",
+      "query": "Accenture plc major customers clients",
+      "snippet": "Accenture plc is a multinational technology consulting company headquartered in Dublin, Ireland. Founded in 1989, Accenture provides information techn"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://newsroom.accenture.com/fact-sheet",
       "query": "Accenture plc major customers clients",
-      "snippet": "Aug 31, 2025 · Our strategists and deep industry, functional, customer and technology consultants work hand-in-hand with our clients and across our ca"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://thecambridgeconsultant.com/accentures-biggest-clients/",
-      "query": "Accenture plc major customers clients",
-      "snippet": "Cardinal Health, Inc is the biggest client of Accenture and offers customized solutions for health systems, pharmacies, and hospitals. See full list o"
+      "snippet": "We continue to be the reinvention partner of choice, serving approximately 9,000 clients including a significant portion of the Fortune Global 100 and"
     }
   ]
 }

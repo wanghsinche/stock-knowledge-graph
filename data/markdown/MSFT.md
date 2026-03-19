@@ -3,8 +3,8 @@ ticker: MSFT
 company: Microsoft Corporation
 sector: Technology
 industry: Software - Infrastructure
-extracted_at: 2026-03-18 16:51:27
-last_updated: 2026-03-18
+extracted_at: 2026-03-19 16:47:28
+last_updated: 2026-03-19
 ---
 
 # MSFT - Microsoft Corporation
@@ -12,23 +12,23 @@ last_updated: 2026-03-18
 ## 基本信息
 
 - **所属行业**: Technology / Software - Infrastructure
-- **提取时间**: 2026-03-18 16:51:27
+- **提取时间**: 2026-03-19 16:47:28
 
 ## 产业链关系
 
 ### 上游供应商
-- [[DELL]]
-- [[HPQ]]
-- [[Lenovo Group]]
 - [[INTC]]
 - [[NVDA]]
+- [[AMD]]
+- [[QCOM]]
+- [[005930.KS]]
 
 ### 下游客户
-- [[Enterprise customers (e.g., Fortune 500 companies)]]
-- [[Government agencies]]
-- [[Small and medium-sized businesses]]
+- [[Enterprise customers (e.g., banks, government agencies)]]
+- [[DELL]]
 - [[Individual consumers]]
 - [[CAT]]
+- [[Gaming studios]]
 
 ### 竞争对手
 - [[GOOGL]]
@@ -41,8 +41,7 @@ last_updated: 2026-03-18
 - [[Windows operating system]]
 - [[Microsoft Office suite]]
 - [[Azure cloud platform]]
-- [[Microsoft Teams]]
-- [[Surface hardware line]]
+- [[Surface hardware]]
 - [[Xbox gaming console]]
 
 ## 数据来源
@@ -55,4 +54,4 @@ last_updated: 2026-03-18
 
 ## 元数据
 
-- **更新日期**: 2026-03-18
+- **更新日期**: 2026-03-19

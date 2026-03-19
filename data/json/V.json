@@ -4,34 +4,34 @@
   "sector": "Financial Services",
   "industry": "Credit Services",
   "upstream": [
-    "005930.KS",
-    "Card manufacturing facilities",
-    "Payment network infrastructure providers (VisaNet)",
-    "Software vendors for transaction processing",
-    "Security technology suppliers"
+    "Chip manufacturers (e.g., NXP Semiconductors)",
+    "Card production companies (e.g., IDEMIA, Giesecke+Devrient)",
+    "MSFT",
+    "Payment network infrastructure providers",
+    "Security solution providers"
   ],
   "downstream": [
-    "Commercial banks and credit unions",
-    "Retail merchants and e‑commerce platforms",
-    "Consumer cardholders",
-    "Financial institutions issuing Visa cards",
-    "Online payment gateways"
+    "Commercial banks and financial institutions",
+    "Retail merchants worldwide",
+    "Card issuers (e.g., Chase, Citibank)",
+    "Consumers using Visa cards",
+    "E-commerce platforms"
   ],
   "competitors": [
     "Mastercard",
     "American Express",
-    "Discover",
-    "PayPal",
-    "Square"
+    "Discover Financial Services",
+    "JCB",
+    "UnionPay"
   ],
   "key_products": [
+    "VisaNet payment network",
     "Visa credit cards",
     "Visa debit cards",
     "Visa prepaid cards",
-    "VisaNet payment processing network",
     "Visa Direct real‑time payments"
   ],
-  "extracted_at": "2026-03-18 16:56:33",
+  "extracted_at": "2026-03-19 16:55:55",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,15 +41,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ru.wikipedia.org/wiki/Visa",
+      "url": "https://en.wikipedia.org/wiki/Visa_Inc.",
       "query": "Visa Inc. suppliers manufacturers",
-      "snippet": "Visa Inc . — американская транснациональная компания, предоставляющая услуги проведения платёжных операций. Является основой одноимённой ассоциации. С"
+      "snippet": "Prior to October 3, 2007, Visa comprised four non-stock, separately incorporated companies that employed 6,000 people worldwide: the worldwide parent "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.visa.com/en-us",
+      "url": "https://usa.visa.com/partner-with-us/info-for-partners/info-for-suppliers.html",
       "query": "Visa Inc. suppliers manufacturers",
-      "snippet": "Discover Visa personal payment solutions, secure transactions, travel support, cards and rewards designed to bring more value to your everyday experie"
+      "snippet": "Visa recognizes the value of engaging with a broad group of suppliers , including small and micro-sized businesses (SMBs), and provides opportunities "
     },
     {
       "source": "DuckDuckGo",

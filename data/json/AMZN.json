@@ -4,34 +4,34 @@
   "sector": "Consumer Cyclical",
   "industry": "Internet Retail",
   "upstream": [
-    "AAPL",
-    "005930.KS",
-    "SONY",
-    "LG Electronics",
-    "DELL"
+    "Electronics manufacturers",
+    "Apparel manufacturers",
+    "Consumer goods manufacturers",
+    "Book publishers",
+    "Third‑party sellers"
   ],
   "downstream": [
-    "Individual consumers",
-    "Small businesses",
-    "Enterprise customers",
+    "Retail consumers",
+    "Small and medium businesses",
+    "Enterprise customers (AWS)",
     "Government agencies",
     "AMZN"
   ],
   "competitors": [
-    "Walmart Inc.",
-    "Alibaba Group Holding Ltd.",
-    "eBay Inc.",
-    "Shopify Inc.",
-    "Target Corp."
+    "Walmart",
+    "eBay",
+    "Alibaba",
+    "Shopify",
+    "MSFT"
   ],
   "key_products": [
-    "Amazon.com e‑commerce platform",
-    "Amazon Prime subscription services",
+    "Amazon.com marketplace",
     "Amazon Web Services (AWS)",
-    "Amazon Advertising",
-    "Amazon Devices (Echo, Kindle, Fire)"
+    "Amazon Prime",
+    "Kindle",
+    "Alexa"
   ],
-  "extracted_at": "2026-03-18 16:51:44",
+  "extracted_at": "2026-03-19 16:47:50",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Apple_Inc.",
+      "url": "https://www.alibaba.com/",
       "query": "Amazon.com, Inc. suppliers manufacturers",
-      "snippet": "Apple Inc . is an American multinational technology company headquartered in Cupertino, California, in Silicon Valley, best known for its consumer ele"
+      "snippet": "Find quality Manufacturers , Suppliers , Exporters, Importers, Buyers, Wholesalers, Products and Trade Leads from our award-winning International Trad"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://us.amazon.com/",
+      "url": "https://ir.aboutamazon.com/",
       "query": "Amazon.com, Inc. suppliers manufacturers",
-      "snippet": "Enjoy low prices and great deals on the largest selection of everyday essentials and other products, including fashion, home, beauty, electronics, Ale"
+      "snippet": "The Spheres. Select awards and recognition. Amazon . com Conditions of Use © 1996- Amazon . com , Inc . - IR or its affiliates."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://capitaloneshopping.com/research/amazon-statistics/",
+      "url": "https://ir.aboutamazon.com/",
       "query": "Amazon.com, Inc. major customers clients",
-      "snippet": "Jan 28, 2026 · Statistics & analysis on Amazon including total sales (per year & minute), number of products (SKUs), customers , sellers & more."
+      "snippet": "The Spheres. Select awards and recognition. Amazon . com Conditions of Use © 1996- Amazon . com , Inc . - IR or its affiliates."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/AMZN-Customers",
+      "url": "https://www.amazon.com/cart/add-to-cart/ref=dp_start-bbf_1_glance",
       "query": "Amazon.com, Inc. major customers clients",
-      "snippet": "Mar 5, 2026 · Amazon Com Inc 's Comment on Sales, Marketing and Customers We serve consumers through our retail websites and focus on selection, price"
+      "snippet": "The price and availability of items at Amazon . com are subject to change. The Cart is a temporary place to store a list of your items and reflects ea"
     }
   ]
 }

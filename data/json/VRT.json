@@ -4,34 +4,34 @@
   "sector": "Industrials",
   "industry": "Electrical Equipment & Parts",
   "upstream": [
-    "Power distribution equipment manufacturers",
-    "Cooling system suppliers",
-    "Networking equipment suppliers",
-    "Data center infrastructure component vendors",
-    "Electrical component manufacturers"
+    "ABB",
+    "Siemens",
+    "Schneider Electric",
+    "Eaton",
+    "Mitsubishi Electric"
   ],
   "downstream": [
-    "Data center operators",
-    "CAT",
-    "Cloud service providers",
-    "Enterprise IT departments",
-    "Government and defense agencies"
+    "AMZN",
+    "MSFT",
+    "GOOGL",
+    "AT&T",
+    "Verizon"
   ],
   "competitors": [
     "Schneider Electric",
     "Eaton",
     "ABB",
-    "Siemens",
-    "CSCO"
+    "Rittal",
+    "Emerson"
   ],
   "key_products": [
-    "Power Distribution Units (PDUs)",
-    "Uninterruptible Power Supplies (UPS)",
-    "Data center cooling systems",
-    "Rack‑mount infrastructure",
-    "Data Center Infrastructure Management (DCIM) software"
+    "AC Power Distribution Units",
+    "DC Power Distribution Units",
+    "Switchgear",
+    "Busbars",
+    "Environmental Monitoring Systems"
   ],
-  "extracted_at": "2026-03-18 16:55:56",
+  "extracted_at": "2026-03-19 16:55:31",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,15 +41,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://stockanalysis.com/stocks/vrt/company/",
+      "url": "https://en.wikipedia.org/wiki/Vertiv",
       "query": "Vertiv Holdings Co suppliers manufacturers",
-      "snippet": "Company profile for Vertiv Holdings Co (VRT) stock, with a description, list of executives, contact details and other key facts."
+      "snippet": "Vertiv produces AC and DC power management products, switchgear and busbar products, thermal management products, integrated rack systems, and modular"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.gurufocus.com/news/2703225/decoding-vertiv-holdings-co-vrt-a-strategic-swot-insight",
+      "url": "https://partners.vertiv.com/English/directory",
       "query": "Vertiv Holdings Co suppliers manufacturers",
-      "snippet": "Vertiv Holdings Co (VRT) showcases a robust market value of approximately $30.84 billion as of mid-2024.With a comprehensive portfolio and global serv"
+      "snippet": "Information and Product Security. Report a Security Concern. Corporate. About Vertiv ."
     },
     {
       "source": "DuckDuckGo",
@@ -59,9 +59,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://247wallst.com/investing/2026/03/18/vertiv-ceo-liquid-cooling-capacity-growing-really-really-really-rapidly/",
+      "url": "https://simplywall.st/community/narratives/us/capital-goods/nyse-vrt/vertiv-holdings-co/x26r1isx-analysts-raise-vertiv-price-target-amid-executive-changes-and-upbeat-growth-outlook",
       "query": "Vertiv Holdings Co major customers clients",
-      "snippet": "Vertiv (NYSE:VRT) CEO Giordano Albertazzi has a message for anyone wondering whether his company can keep up with the AI infrastructure wave: the capa"
+      "snippet": "Analysts have raised their price target for Vertiv Holdings Co . from $173.11 to $192.66. They cite improved revenue growth expectations and slight ad"
     }
   ]
 }

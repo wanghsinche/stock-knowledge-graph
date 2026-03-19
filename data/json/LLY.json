@@ -4,34 +4,34 @@
   "sector": "Healthcare",
   "industry": "Drug Manufacturers - General",
   "upstream": [
-    "BASF",
-    "Dow Chemical",
-    "Lonza",
-    "CAT",
-    "Thermo Fisher Scientific"
+    "Contract pharmaceutical manufacturers",
+    "Chemical raw material suppliers",
+    "Active Pharmaceutical Ingredient (API) suppliers",
+    "Contract research organizations (CROs)",
+    "Packaging and labeling vendors"
   ],
   "downstream": [
-    "UnitedHealth Group",
-    "CVS Health",
-    "Walgreens",
-    "Kaiser Permanente",
-    "Health Care Service Corporation"
+    "Hospitals and health systems",
+    "Community and specialty pharmacies",
+    "Health insurance providers",
+    "Government health agencies (e.g., Medicare, Medicaid)",
+    "International health ministries and procurement agencies"
   ],
   "competitors": [
-    "AbbVie",
-    "Novo Nordisk",
-    "Sanofi",
     "Pfizer",
-    "Merck & Co."
+    "Johnson & Johnson",
+    "Novartis",
+    "Merck & Co.",
+    "AbbVie"
   ],
   "key_products": [
-    "Humira",
-    "Trulicity",
-    "Mounjaro",
-    "Lantus",
-    "Jardiance"
+    "Trulicity (dulaglutide)",
+    "Mounjaro (tirzepatide)",
+    "Empagliflozin (Jardiance)",
+    "Humira (adalimumab)",
+    "Lantus (insulin glargine) – former product line"
   ],
-  "extracted_at": "2026-03-18 16:53:17",
+  "extracted_at": "2026-03-19 16:53:56",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,15 +41,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Eli_Lilly_and_Company",
+      "url": "https://www.lilly.com/suppliers",
       "query": "Eli Lilly and Company suppliers manufacturers",
-      "snippet": "Eli Lilly and Company , doing business as Lilly , is an American multinational pharmaceutical company headquartered in Indianapolis, Indiana, with off"
+      "snippet": "View supplier resources including accounts payable, invoicing, payments, new and existing supplier guidance, and the Lilly Supplier portal."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ru.wikipedia.org/wiki/Eli_Lilly_and_Company",
+      "url": "https://www.lilly.com/suppliers/resources",
       "query": "Eli Lilly and Company suppliers manufacturers",
-      "snippet": "Eli Lilly and Company — американская фармацевтическая компания. Была основана в 1876 году в Индианаполисе, где по-прежнему располагается её штаб-кварт"
+      "snippet": "View Lilly ' s supplier resources to find information on standards and commitments, supplier procurement activities, contingent worker onboarding, and"
     },
     {
       "source": "DuckDuckGo",
@@ -59,9 +59,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.lilly.com/about/contact",
+      "url": "https://investor.lilly.com/",
       "query": "Eli Lilly and Company major customers clients",
-      "snippet": "Eli Lilly and Company Lilly Corporate Center Indianapolis, IN 46285. Customer Service and Online Resources."
+      "snippet": "Eli Lilly and Company Investor Relations."
     }
   ]
 }

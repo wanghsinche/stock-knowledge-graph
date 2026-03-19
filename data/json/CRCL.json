@@ -1,37 +1,37 @@
 {
   "ticker": "CRCL",
   "company_name": "Circle Internet Group, Inc.",
-  "sector": "Financial Services / Capital Markets",
-  "industry": "Payments Technology",
+  "sector": "Financial Services",
+  "industry": "Capital Markets / Payments Technology",
   "upstream": [
-    "Payment processors",
-    "Blockchain infrastructure providers",
-    "Cloud service providers",
-    "Regulatory compliance vendors",
-    "Financial data providers"
+    "MSFT",
+    "Blockchain infrastructure and node operators",
+    "Banking partners holding reserve assets",
+    "Regulatory compliance and legal service firms",
+    "Payment network providers (e.g., Visa, Mastercard)"
   ],
   "downstream": [
-    "Retail merchants",
-    "Financial institutions",
-    "Crypto exchanges",
-    "Payment processors",
-    "Enterprise clients"
+    "Cryptocurrency exchanges (e.g., Coinbase, Binance)",
+    "Fintech platforms and payment processors",
+    "Institutional investors and asset managers",
+    "Retail merchants accepting stablecoin payments",
+    "Digital wallet providers"
   ],
   "competitors": [
-    "PayPal",
-    "Square",
-    "Stripe",
-    "Revolut",
-    "Adyen"
+    "Paxos Trust Company (USDP)",
+    "Gemini Trust Company (USD)",
+    "Silvergate Bank (USD)",
+    "Stellar Development Foundation (XLM)",
+    "Binance (BUSD)"
   ],
   "key_products": [
-    "USDC stablecoin",
-    "EURC stablecoin",
+    "USD Coin (USDC)",
+    "Euro Coin (EURC)",
     "USYC tokenized money market fund",
-    "Payments API",
-    "Crypto custody solutions"
+    "Circle Pay API for merchant payments",
+    "Crypto custody and treasury solutions"
   ],
-  "extracted_at": "2026-03-18 16:54:36",
+  "extracted_at": "2026-03-19 16:50:22",
   "sources": [
     {
       "source": "Wikipedia",
@@ -53,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Circle_Internet_Group",
+      "url": "https://finance.yahoo.com/news/circle-internet-soars-110-month-131100545.html?pl2=qsp-recent-news_All",
       "query": "Circle Internet Group major customers clients",
-      "snippet": "Circle (legally Circle Internet Group , Inc.[2]) is a payments technology company. Founded by Jeremy Allaire and Sean Neville in 2013, [3][4] it is cu"
+      "snippet": "Circle Internet Group CRCL shares have surged 109.9% in the past month, comfortably outperforming the Zacks Finance sector and the Zacks Financial- Mi"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.appsruntheworld.com/customers-database/vendors/view/circle-internet-group",
+      "url": "https://www.circle.com/pressroom/ice-and-circle-sign-mou-to-explore-product-innovation-based-on-circles-usdc-and-usyc-digital-assets",
       "query": "Circle Internet Group major customers clients",
-      "snippet": "List of companies using or evaluating Circle Internet Group applications, with details on their revenues, employees, industries, and locations."
+      "snippet": "About Circle Internet Group , Inc. Circle is a global financial technology firm that enables businesses of all sizes to harness the power of digital c"
     }
   ]
 }
