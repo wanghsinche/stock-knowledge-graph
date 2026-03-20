@@ -4,18 +4,18 @@
   "sector": "Financial Services",
   "industry": "Banks - Diversified",
   "upstream": [
+    "ORCL",
     "MSFT",
-    "Payment processors (e.g., Visa, Mastercard)",
-    "MSFT",
-    "Data analytics vendors (e.g., SAS, Palantir)",
-    "Cybersecurity solutions providers (e.g., Palo Alto Networks, Symantec)"
+    "IBM",
+    "AMZN",
+    "Visa"
   ],
   "downstream": [
-    "Retail banking customers (individual depositors)",
-    "Small and medium‑enterprise customers",
-    "Corporate and institutional clients",
-    "Mortgage borrowers",
-    "Wealth management and private banking clients"
+    "Retail depositors",
+    "Small business owners",
+    "Corporate clients",
+    "High‑net‑worth individuals",
+    "Institutional investors"
   ],
   "competitors": [
     "JPMorgan Chase",
@@ -25,13 +25,13 @@
     "Morgan Stanley"
   ],
   "key_products": [
-    "Consumer banking (checking, savings, credit cards)",
-    "Corporate banking (loans, treasury services)",
-    "Investment banking (M&A advisory, underwriting)",
-    "Wealth management and private banking",
-    "Mortgage lending and home equity products"
+    "Checking accounts",
+    "Savings accounts",
+    "Credit cards",
+    "Mortgages",
+    "Investment banking services"
   ],
-  "extracted_at": "2026-03-19 16:55:06",
+  "extracted_at": "2026-03-20 16:41:06",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,25 +43,25 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Bank_of_America",
       "query": "Bank of America Corporation suppliers manufacturers",
-      "snippet": "American multinational banking and financial services corporation . Bank of America Corporation . Bank of America Tower, headquarters for Bank of Amer"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.bankofamerica.com/",
-      "query": "Bank of America Corporation suppliers manufacturers",
-      "snippet": "Banking , credit card, automobile loans, mortgage and home equity products are provided by Bank of America , N.A. and affiliated banks , Members FDIC "
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Bank_of_America",
-      "query": "Bank of America Corporation major customers clients",
       "snippet": "The Bank of America Corporation is an American multinational investment bank and financial services holding company headquartered at the Bank of Ameri"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.bankofamerica.com/",
+      "url": "https://www.bankofamerica.com/online-banking/sign-in/",
+      "query": "Bank of America Corporation suppliers manufacturers",
+      "snippet": "Log in to Mobile & Online Banking to access your personal and small business accounts, see balances, transfer funds, pay bills and more.Log in to Onli"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://newsroom.bankofamerica.com/content/newsroom/company-overview/bank-of-america-fast-facts.html",
       "query": "Bank of America Corporation major customers clients",
-      "snippet": "For customers with a Bank of America login with no credit score impact. Ready for an electric vehicle?Merrill Lynch Wealth Management Clients : 800-ME"
+      "snippet": "Feb 24, 2026 · Explore Bank of America Fast Facts for key insights on our global presence, financial services, client reach, and commitment to respons"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/BAC-Customers",
+      "query": "Bank of America Corporation major customers clients",
+      "snippet": "6 days ago · For your research, we’ve provided 9 tables on Bank Of America Corporation corporate clients . You can find them in the navigation menu un"
     }
   ]
 }

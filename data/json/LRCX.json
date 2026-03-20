@@ -4,16 +4,16 @@
   "sector": "Technology",
   "industry": "Semiconductor Equipment & Materials",
   "upstream": [
-    "Silicon wafer suppliers (e.g., Shin‑Etsu Chemical, Sumitomo Chemical)",
-    "Chemical and process gas suppliers (e.g., Air Liquide, Linde)",
-    "TXN",
-    "Precision machining and tooling suppliers",
-    "Cleanroom and environmental control equipment providers"
+    "Semiconductor equipment component suppliers",
+    "Plasma source manufacturers",
+    "Vacuum system suppliers",
+    "Metrology equipment suppliers",
+    "Materials and chemicals providers"
   ],
   "downstream": [
-    "INTC",
     "TSM",
     "005930.KS",
+    "INTC",
     "MU",
     "GlobalFoundries"
   ],
@@ -22,16 +22,16 @@
     "Tokyo Electron",
     "ASML",
     "KLA Corporation",
-    "Teradyne"
+    "ASM Pacific Technology"
   ],
   "key_products": [
-    "Plasma etch systems",
-    "Deposition systems (CVD, ALD)",
-    "Wafer cleaning equipment",
-    "Back‑end wafer‑level packaging (WLP) tools",
-    "Advanced process control solutions"
+    "Wafer etch systems",
+    "Plasma deposition equipment",
+    "Wafer cleaning systems",
+    "Back‑end wafer‑level packaging (WLP) equipment",
+    "MEMS packaging solutions"
   ],
-  "extracted_at": "2026-03-19 16:53:44",
+  "extracted_at": "2026-03-20 16:38:33",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,7 +43,7 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Lam_Research",
       "query": "Lam Research Corporation suppliers manufacturers",
-      "snippet": "Lam Research was founded in 1980 by David K. Lam and is headquartered in Fremont, California. [3] As of 2023, it was the third largest manufacturer in"
+      "snippet": "Lam Research designs and builds products for semiconductor manufacturing, including equipment for thin film deposition, plasma etch, photoresist strip"
     },
     {
       "source": "DuckDuckGo",
@@ -53,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/LRCX-Customers",
+      "url": "https://en.wikipedia.org/wiki/Lam_Research",
       "query": "Lam Research Corporation major customers clients",
-      "snippet": "Our customers include all of the world’s leading semiconductor manufacturers. Customers continue to establish joint ventures, alliances and licensing "
+      "snippet": "Lam Research designs and builds products for semiconductor manufacturing, including equipment for thin film deposition, plasma etch, photoresist strip"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://swottemplate.com/blogs/target-market/lamresearch-target-market",
+      "url": "https://csimarket.com/stocks/LRCX-Customers",
       "query": "Lam Research Corporation major customers clients",
-      "snippet": "Sep 21, 2025 · The primary customer segments for Lam Research are businesses within the semiconductor industry. They focus on leading semiconductor me"
+      "snippet": "3 days ago · Our customers include all of the world’s leading semiconductor manufacturers. Customers continue to establish joint ventures, alliances a"
     }
   ]
 }

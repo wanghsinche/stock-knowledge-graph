@@ -1,37 +1,37 @@
 {
   "ticker": "TSLA",
   "company_name": "Tesla, Inc.",
-  "sector": "Consumer Cyclical",
-  "industry": "Auto Manufacturers",
+  "sector": "Consumer Cyclical / Auto Manufacturers",
+  "industry": "Automotive",
   "upstream": [
     "Panasonic",
     "LG Chem",
     "CAT",
     "005930.KS",
-    "Bosch"
+    "BYD"
   ],
   "downstream": [
     "Individual consumers",
-    "Commercial fleet operators",
-    "Utilities",
+    "Corporate fleets",
     "Government agencies",
-    "Corporate customers"
+    "Utility companies",
+    "Commercial fleet operators"
   ],
   "competitors": [
-    "Ford",
     "General Motors",
+    "Ford",
     "Volkswagen",
-    "Toyota",
-    "Hyundai"
+    "NIO",
+    "Lucid"
   ],
   "key_products": [
     "Model S",
     "Model 3",
-    "Model X",
-    "Model Y",
-    "Powerwall"
+    "Powerwall",
+    "Powerpack",
+    "Solar Roof"
   ],
-  "extracted_at": "2026-03-19 16:47:08",
+  "extracted_at": "2026-03-20 16:32:43",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/Tesla,_Inc.",
+      "query": "Tesla, Inc. suppliers manufacturers",
+      "snippet": "1 day ago - The practice of vertical integration is rare in the automotive industry, where companies typically outsource 80% of components to supplier"
+    },
+    {
+      "source": "DuckDuckGo",
       "url": "https://www.investopedia.com/ask/answers/052815/who-are-teslas-tsla-main-suppliers.asp",
       "query": "Tesla, Inc. suppliers manufacturers",
-      "snippet": "Nov 4, 2025 · Discover Tesla's key and rumored parts suppliers . Learn which companies provide essential components for Tesla's electric vehicles and "
+      "snippet": "November 4, 2025 - Tesla manufactures key components like the electric motor, battery pack, and charger, but relies on suppliers for other parts. Key "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://investguiding.com/article/who-are-tesla-s-main-suppliers",
-      "query": "Tesla, Inc. suppliers manufacturers",
-      "snippet": "2 days ago · Tesla's products use thousands of purchased parts that are sourced from hundreds of suppliers across the world. Tesla has developed close"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Tesla,_Inc.",
+      "url": "https://businessmodelanalyst.com/tesla-target-market/",
       "query": "Tesla, Inc. major customers clients",
-      "snippet": "10 hours ago - Tesla Energy products include solar panels (built by other companies for Tesla), the Tesla Solar Roof (a solar shingle system), and the"
+      "snippet": "Nov 7, 2024 · This article explores the intricacies of Tesla target market, analyzing the demographic, geographic, psychographic, and behavioral facto"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.tesla.com/customer-stories",
+      "url": "https://portersfiveforce.com/blogs/target-market/tesla",
       "query": "Tesla, Inc. major customers clients",
-      "snippet": "Incentives · Support · Partner with Tesla · Commercial · Utilities · Learn · LearnShop · LearnFind · LearnOrder · LearnOrder · Help Me Charge · Chargi"
+      "snippet": "1 day ago · W ho Are Tesla’s Main Customers ? Primary Customer Segments for Tesla center on mainstream families, value-driven commuters, premium perfo"
     }
   ]
 }

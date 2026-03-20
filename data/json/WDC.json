@@ -4,34 +4,34 @@
   "sector": "Technology",
   "industry": "Computer Hardware",
   "upstream": [
-    "Component manufacturers (e.g., platters, magnetic heads)",
-    "Electronics suppliers (semiconductors, firmware chips)",
-    "Precision machining and assembly equipment vendors",
-    "Packaging and logistics providers",
-    "Software tool vendors (firmware development)"
+    "MU",
+    "Printed circuit board (PCB) suppliers",
+    "META",
+    "TXN",
+    "Packaging and logistics providers"
   ],
   "downstream": [
     "DELL",
     "DELL",
     "MSFT",
-    "CAT",
-    "AMZN"
+    "AAPL",
+    "Enterprise data center operators"
   ],
   "competitors": [
     "STX",
-    "Toshiba (HDD division)",
+    "Toshiba Corporation",
     "005930.KS",
     "MU",
     "IBM"
   ],
   "key_products": [
-    "Internal hard disk drives (HDDs)",
-    "Solid-state drives (SSDs)",
-    "External storage enclosures",
-    "Enterprise storage systems",
-    "Cloud storage solutions"
+    "Hard Disk Drives (HDDs)",
+    "Solid State Drives (SSDs)",
+    "External and portable storage devices",
+    "Enterprise storage solutions (e.g., Ultrastar, Green RAID)",
+    "Cloud storage infrastructure components"
   ],
-  "extracted_at": "2026-03-19 16:50:35",
+  "extracted_at": "2026-03-20 16:36:35",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.westerndigital.com/company/distributors",
-      "query": "Western Digital Corporation suppliers manufacturers",
-      "snippet": "Find Distributors & Resellers Purchase from your preferred Western Digital authorized partner Region Country/Area Brand"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/WDC-Suppliers",
-      "query": "Western Digital Corporation suppliers manufacturers",
-      "snippet": "Jan 30, 2026 · For your research, we’ve provided nine additional tables on Western Digital Corporation ’ s suppliers . You can find them in the naviga"
-    },
-    {
-      "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Western_Digital",
-      "query": "Western Digital Corporation major customers clients",
+      "query": "Western Digital Corporation suppliers manufacturers",
       "snippet": "Western Digital Corporation , doing business as WD , is an American data storage company headquartered in San Jose, California. Established in 1970, t"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://ru.wikipedia.org/wiki/Western_Digital",
-      "query": "Western Digital Corporation major customers clients",
+      "query": "Western Digital Corporation suppliers manufacturers",
       "snippet": "Western Digital Corporation (NASDAQ: WDC, по-русски «Вестерн Диджитал»[3]) — компания, производитель компьютерной электроники. Наиболее известна произ"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/WDC-Customers",
+      "query": "Western Digital Corporation major customers clients",
+      "snippet": "Western Digital customers and markets, results by customer and performance relative to WDC, by company and industry - CSIMarket"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://data.landbase.com/technology/western-digital/",
+      "query": "Western Digital Corporation major customers clients",
+      "snippet": "Aug 17, 2025 · Our Western Digital customers list is available for download and comes enriched with vital company specifics, including industry classi"
     }
   ]
 }

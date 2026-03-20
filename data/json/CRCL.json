@@ -1,37 +1,37 @@
 {
   "ticker": "CRCL",
-  "company_name": "Circle Internet Group, Inc.",
-  "sector": "Financial Services",
-  "industry": "Capital Markets / Payments Technology",
+  "company_name": "Circle Internet Group",
+  "sector": "Financial Services / Capital Markets",
+  "industry": "Payments Technology / Stablecoin",
   "upstream": [
-    "MSFT",
-    "Blockchain infrastructure and node operators",
-    "Banking partners holding reserve assets",
-    "Regulatory compliance and legal service firms",
-    "Payment network providers (e.g., Visa, Mastercard)"
+    "US Treasury",
+    "European Central Bank",
+    "JPMorgan Chase",
+    "Stripe",
+    "Ethereum"
   ],
   "downstream": [
-    "Cryptocurrency exchanges (e.g., Coinbase, Binance)",
-    "Fintech platforms and payment processors",
-    "Institutional investors and asset managers",
-    "Retail merchants accepting stablecoin payments",
-    "Digital wallet providers"
+    "PayPal",
+    "Stripe",
+    "Coinbase",
+    "Binance",
+    "Bank of America"
   ],
   "competitors": [
-    "Paxos Trust Company (USDP)",
-    "Gemini Trust Company (USD)",
-    "Silvergate Bank (USD)",
-    "Stellar Development Foundation (XLM)",
-    "Binance (BUSD)"
+    "Tether (USDT)",
+    "Binance USD (BUSD)",
+    "Gemini Dollar (GUSD)",
+    "Paxos Standard (PAX)",
+    "USD Coin (USDC) (other issuers)"
   ],
   "key_products": [
-    "USD Coin (USDC)",
-    "Euro Coin (EURC)",
+    "USDC stablecoin",
+    "EURC stablecoin",
     "USYC tokenized money market fund",
-    "Circle Pay API for merchant payments",
-    "Crypto custody and treasury solutions"
+    "Circle Pay",
+    "Circle Wallet"
   ],
-  "extracted_at": "2026-03-19 16:50:22",
+  "extracted_at": "2026-03-20 16:39:01",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,15 +41,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.benzinga.com/trading-ideas/movers/26/03/51272776/circle-internet-group-crcl-stock-climbs-as-bitcoin-strength-analyst-upgrade-boost-shares",
+      "url": "https://www.investing.com/news/insider-trading-news/date-rajeev-v-circle-internet-group-director-sells-431547-in-shares-93CH-4564479",
       "query": "Circle Internet Group suppliers manufacturers",
-      "snippet": "Circle Internet Group Stock Rebounds Above $120. Circle Internet Group shares have been highly volatile since their IPO in June 2025, surging to a pea"
+      "snippet": "Director Date Rajeev V of Circle Internet Group , Inc. (EXCHANGE:CRCL) sold 3,819 shares of Class A Common Stock at $113.0 per share, for a total of $"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.investing.com/news/insider-trading-news/tarbert-heath-sells-circle-internet-group-shares-for-174-million-93CH-4564066",
+      "url": "https://www.alibaba.com/",
       "query": "Circle Internet Group suppliers manufacturers",
-      "snippet": "President of Circle Internet Group , Inc. (EXCHANGE:CRCL), Tarbert Heath, sold 15,000 shares of Class A Common Stock on March 13, 2026, for a total va"
+      "snippet": "Find quality Manufacturers , Suppliers , Exporters, Importers, Buyers, Wholesalers, Products and Trade Leads from our award-winning International Trad"
     },
     {
       "source": "DuckDuckGo",
@@ -59,9 +59,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.circle.com/pressroom/ice-and-circle-sign-mou-to-explore-product-innovation-based-on-circles-usdc-and-usyc-digital-assets",
+      "url": "https://www.circle.com/blog/response-to-recent-market-turmoil",
       "query": "Circle Internet Group major customers clients",
-      "snippet": "About Circle Internet Group , Inc. Circle is a global financial technology firm that enables businesses of all sizes to harness the power of digital c"
+      "snippet": "Circle 's strong financial position, commitment to transparency, and minimal exposure to FTX and Genesis buoys its strength. Read to learn more."
     }
   ]
 }

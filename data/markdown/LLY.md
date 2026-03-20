@@ -3,8 +3,8 @@ ticker: LLY
 company: Eli Lilly and Company
 sector: Healthcare
 industry: Drug Manufacturers - General
-extracted_at: 2026-03-19 16:53:56
-last_updated: 2026-03-19
+extracted_at: 2026-03-20 16:37:32
+last_updated: 2026-03-20
 ---
 
 # LLY - Eli Lilly and Company
@@ -12,46 +12,46 @@ last_updated: 2026-03-19
 ## 基本信息
 
 - **所属行业**: Healthcare / Drug Manufacturers - General
-- **提取时间**: 2026-03-19 16:53:56
+- **提取时间**: 2026-03-20 16:37:32
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Contract pharmaceutical manufacturers]]
-- [[Chemical raw material suppliers]]
-- [[Active Pharmaceutical Ingredient (API) suppliers]]
-- [[Contract research organizations (CROs)]]
-- [[Packaging and labeling vendors]]
+- [[Lonza]]
+- [[CAT]]
+- [[Thermo Fisher Scientific]]
+- [[Boehringer Ingelheim]]
+- [[Merck KGaA]]
 
 ### 下游客户
-- [[Hospitals and health systems]]
-- [[Community and specialty pharmacies]]
-- [[Health insurance providers]]
-- [[Government health agencies (e.g., Medicare, Medicaid)]]
-- [[International health ministries and procurement agencies]]
+- [[UnitedHealth Group]]
+- [[Kaiser Permanente]]
+- [[CVS Health]]
+- [[Walgreens Boots Alliance]]
+- [[U.S. Department of Veterans Affairs]]
 
 ### 竞争对手
 - [[Pfizer]]
 - [[Johnson & Johnson]]
 - [[Novartis]]
 - [[Merck & Co.]]
-- [[AbbVie]]
+- [[Bristol-Myers Squibb]]
 
 ### 核心产品
-- [[Trulicity (dulaglutide)]]
-- [[Mounjaro (tirzepatide)]]
-- [[Empagliflozin (Jardiance)]]
-- [[Humira (adalimumab)]]
-- [[Lantus (insulin glargine) – former product line]]
+- [[Trulicity]]
+- [[Zyprexa]]
+- [[Cymbalta]]
+- [[Tyrvaya]]
+- [[Alimta]]
 
 ## 数据来源
 
 - [Eli Lilly and Company](https://en.wikipedia.org/wiki/Eli_Lilly_and_Company)
-- [Eli Lilly and Company suppliers manufacturers](https://www.lilly.com/suppliers)
-- [Eli Lilly and Company suppliers manufacturers](https://www.lilly.com/suppliers/resources)
-- [Eli Lilly and Company major customers clients](https://en.wikipedia.org/wiki/Eli_Lilly_and_Company)
-- [Eli Lilly and Company major customers clients](https://investor.lilly.com/)
+- [Eli Lilly and Company suppliers manufacturers](https://en.wikipedia.org/wiki/Eli_Lilly_and_Company)
+- [Eli Lilly and Company suppliers manufacturers](https://www.lilly.com/)
+- [Eli Lilly and Company major customers clients](https://csimarket.com/stocks/LLY-Customers)
+- [Eli Lilly and Company major customers clients](https://www.hivelr.com/2023/08/eli-lilly-porters-five-forces-industry-and-competition-analysis/)
 
 ## 元数据
 
-- **更新日期**: 2026-03-19
+- **更新日期**: 2026-03-20

@@ -4,34 +4,34 @@
   "sector": "Communication Services",
   "industry": "Internet Content & Information",
   "upstream": [
-    "INTC",
     "NVDA",
     "AMD",
-    "CSCO",
-    "DELL"
+    "INTC",
+    "QCOM",
+    "CSCO"
   ],
   "downstream": [
-    "AMZN",
-    "Coca‑Cola",
-    "Nike",
-    "005930.KS",
-    "GOOGL"
+    "Advertisers",
+    "App developers",
+    "Content creators",
+    "E-commerce merchants",
+    "Gaming developers"
   ],
   "competitors": [
     "GOOGL",
     "AMZN",
     "AAPL",
     "MSFT",
-    "TikTok"
+    "ByteDance (TikTok)"
   ],
   "key_products": [
     "Facebook",
     "Instagram",
     "WhatsApp",
     "Messenger",
-    "Meta Quest"
+    "Meta Ads"
   ],
-  "extracted_at": "2026-03-19 16:47:41",
+  "extracted_at": "2026-03-20 16:33:49",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,15 +41,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/List_of_computer_hardware_manufacturers",
+      "url": "https://en.wikipedia.org/wiki/Meta_Platforms",
       "query": "Meta Platforms, Inc. suppliers manufacturers",
-      "snippet": "Current notable computer hardware manufacturers : Cases. [edit]. List of computer case manufacturers : This list is incomplete; you can help by adding"
+      "snippet": "Meta owns and operates several prominent social media platforms and communication services, including Facebook, Instagram, WhatsApp, Messenger, Thread"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://it.wikipedia.org/wiki/Meta_Platforms",
+      "url": "https://forwork.meta.com/legal/mfw-subprocessor-list/",
       "query": "Meta Platforms, Inc. suppliers manufacturers",
-      "snippet": "Meta Platforms , Inc ., nota più semplicemente come Meta , è un'impresa statunitense attiva nel settore della tecnologia con sede a Menlo Park, in Cal"
+      "snippet": "Nov 13, 2023 · Starting February 20, 2026, Meta Horizon managed services will no longer be available for purchase. Visit the Help Center to learn more"
     },
     {
       "source": "DuckDuckGo",

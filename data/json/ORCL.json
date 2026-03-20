@@ -7,15 +7,15 @@
     "INTC",
     "AMD",
     "NVDA",
-    "DELL",
-    "HPQ"
+    "CSCO",
+    "DELL"
   ],
   "downstream": [
-    "Bank of America",
-    "Walmart",
-    "Coca‑Cola",
+    "JPMorgan Chase",
     "AT&T",
-    "Boeing"
+    "Walmart",
+    "Bank of America",
+    "Verizon"
   ],
   "competitors": [
     "MSFT",
@@ -27,11 +27,11 @@
   "key_products": [
     "Oracle Database",
     "Oracle Cloud Infrastructure",
+    "Oracle ERP Cloud",
     "Oracle Autonomous Database",
-    "Oracle E‑Business Suite",
-    "Oracle Fusion Middleware"
+    "Oracle Analytics Cloud"
   ],
-  "extracted_at": "2026-03-19 16:49:54",
+  "extracted_at": "2026-03-20 16:35:57",
   "sources": [
     {
       "source": "Wikipedia",
@@ -53,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Oracle_Corporation",
+      "url": "https://www.thomsondata.com/customer-base/oracle.php",
       "query": "Oracle Corporation major customers clients",
-      "snippet": "Oracle Corporation is an American multinational technology company headquartered in Austin, Texas. Co-founded in Santa Clara, California by Bob Miner,"
+      "snippet": "Thomson Data makes it easy by offering an accurate and up-to-date list of companies that use Oracle. This list allows you to identify Oracle customers"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.oracle.com/corporate/",
+      "url": "https://www.oracle.com/customers/",
       "query": "Oracle Corporation major customers clients",
-      "snippet": "Oracle is pleased to provide information about our company, customers , partners, events, communities, press, analysts, investors, and careers.The com"
+      "snippet": "Innovation, ease of use, better results—those are just some of the reasons organizations in all industries and of all sizes rely on Oracle to help the"
     }
   ]
 }

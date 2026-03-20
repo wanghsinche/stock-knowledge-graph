@@ -1,11 +1,11 @@
 {
   "ticker": "CSCO",
   "company_name": "Cisco Systems, Inc.",
-  "sector": "Technology / Communication Equipment",
-  "industry": "Networking & Communications",
+  "sector": "Technology",
+  "industry": "Communication Equipment",
   "upstream": [
-    "AVGO",
     "INTC",
+    "AVGO",
     "QCOM",
     "TXN",
     "NVDA"
@@ -13,25 +13,29 @@
   "downstream": [
     "AT&T",
     "Verizon",
-    "Comcast",
     "MSFT",
-    "AMZN"
+    "AMZN",
+    "Government agencies"
   ],
   "competitors": [
     "JNPR",
-    "ANET",
-    "HPQ",
     "Huawei",
-    "Nokia"
+    "ANET",
+    "Nokia",
+    "Ericsson"
   ],
   "key_products": [
     "Cisco routers",
     "Cisco switches",
-    "Cisco firewalls",
-    "Webex",
-    "OpenDNS"
+    "Cisco firewalls (ASA)",
+    "Cisco Meraki",
+    "Cisco Webex",
+    "Cisco OpenDNS",
+    "Cisco Jabber",
+    "Cisco Jasper",
+    "Cisco DNA Center"
   ],
-  "extracted_at": "2026-03-09 16:56:26",
+  "extracted_at": "2026-03-20 16:41:19",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +45,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.cisco.com/c/dam/en_us/about/supply-chain/cisco-supplier-list.pdf",
+      "url": "https://en.wikipedia.org/wiki/Cisco",
       "query": "Cisco Systems, Inc. suppliers manufacturers",
-      "snippet": "Below is an alphabetical list of Cisco Contract Manufacturers, strategic Original Design Manufacturers, Joint Development Manufacturers, and. Componen"
+      "snippet": "Cisco Systems , Inc . is an American multinational technology conglomerate corporation that develops, manufactures , and sells hardware, software, tel"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.cisco.com/c/en/us/about/suppliers.html",
+      "url": "https://ru.wikipedia.org/wiki/Cisco",
       "query": "Cisco Systems, Inc. suppliers manufacturers",
-      "snippet": "Cisco leverages a premier, strategic supplier network for our goods and services and hardware needs."
+      "snippet": "Cisco Systems , «Сиско Системз» — американская транснациональная компания, разрабатывающая и продающая сетевое оборудование, предназначенное в основно"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.cisco.com/site/us/en/about/case-studies-customer-stories/index.html",
+      "url": "https://en.wikipedia.org/wiki/Cisco",
       "query": "Cisco Systems, Inc. major customers clients",
-      "snippet": "Read Cisco case studies and customer success stories highlighting the ways organizations have realized their goals and helped drive outcomes."
+      "snippet": "Cisco Systems , Inc . is an American multinational technology conglomerate corporation that develops, manufactures, and sells hardware, software, tele"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.appsruntheworld.com/customers-database/vendors/view/cisco-systems",
+      "url": "https://ru.wikipedia.org/wiki/Cisco",
       "query": "Cisco Systems, Inc. major customers clients",
-      "snippet": "List of companies using or evaluating Cisco Systems applications, with details on their revenues, employees, industries, and locations."
+      "snippet": "Cisco Systems , «Сиско Системз» — американская транснациональная компания, разрабатывающая и продающая сетевое оборудование, предназначенное в основно"
     }
   ]
 }

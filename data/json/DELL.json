@@ -4,18 +4,18 @@
   "sector": "Technology",
   "industry": "Computer Hardware",
   "upstream": [
-    "Foxconn",
-    "Quanta Computer",
-    "Compal Electronics",
-    "Wistron",
-    "Pegatron"
+    "INTC",
+    "AMD",
+    "NVDA",
+    "005930.KS",
+    "TSM"
   ],
   "downstream": [
-    "Client Solutions Group",
-    "DELL",
-    "DELL",
-    "DELL",
-    "Enterprise IT customers (e.g., Walmart, AT&T, Verizon)"
+    "U.S. Department of Defense",
+    "NASA",
+    "Fortune 500 enterprises",
+    "Small and medium businesses",
+    "Individual consumers"
   ],
   "competitors": [
     "HPQ",
@@ -27,11 +27,11 @@
   "key_products": [
     "Personal computers",
     "Servers",
-    "Monitors",
     "Storage solutions",
-    "Cybersecurity services"
+    "Monitors",
+    "Networking equipment"
   ],
-  "extracted_at": "2026-03-03 16:43:40",
+  "extracted_at": "2026-03-20 16:35:32",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,25 +43,25 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Dell",
       "query": "Dell Technologies Inc. suppliers manufacturers",
-      "snippet": "Dell Inc., formerly Dell Computer Corporation, is an American technology company that develops, sells, repairs, and supports personal computers (PCs),"
+      "snippet": "Dell Inc ., formerly Dell Computer Corporation, is an American technology company that develops, sells, repairs, and supports personal computers (PCs)"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.delltechnologies.com/asset/pl-pl/solutions/business-solutions/briefs-summaries/dell-public-supplier-list.pdf",
+      "url": "https://ru.wikipedia.org/wiki/Dell",
       "query": "Dell Technologies Inc. suppliers manufacturers",
-      "snippet": "The list of supplier facilities includes original design manufacturers (ODMs), final assembly and material suppliers that Dell buys from directly and/"
+      "snippet": "Dell Inc . — американская компания, один из крупнейших в мире производителей вычислительной техники. Штаб-квартира находится в Раунд-Роке в штате Теха"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Dell_Technologies",
+      "url": "https://en.wikipedia.org/wiki/Dell",
       "query": "Dell Technologies Inc. major customers clients",
-      "snippet": "Client Solutions Group (55.3% of fiscal 2024 revenues) – produces desktop PCs, notebooks, tablets, and peripherals, such as monitors, printers, and pr"
+      "snippet": "Dell Inc ., formerly Dell Computer Corporation, is an American technology company that develops, sells, repairs, and supports personal computers (PCs)"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.dell.com/en-us/lp/dt/customer-stories",
+      "url": "https://www.dell.com/en-us",
       "query": "Dell Technologies Inc. major customers clients",
-      "snippet": "The Dell Technologies digital transformation library showcases how some of the largest brands bring their ideas to life, and their products to market."
+      "snippet": "Dell provides technology solutions, services & support. Buy Laptops, Touch Screen PCs, Desktops, Servers, Storage, Monitors, Gaming & Accessories.Univ"
     }
   ]
 }

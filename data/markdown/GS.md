@@ -2,47 +2,47 @@
 ticker: GS
 company: The Goldman Sachs Group, Inc.
 sector: Financial Services
-industry: Capital Markets / Investment Banking
-extracted_at: 2026-03-16 17:00:10
-last_updated: 2026-03-16
+industry: Capital Markets
+extracted_at: 2026-03-20 16:37:20
+last_updated: 2026-03-20
 ---
 
 # GS - The Goldman Sachs Group, Inc.
 
 ## 基本信息
 
-- **所属行业**: Financial Services / Capital Markets / Investment Banking
-- **提取时间**: 2026-03-16 17:00:10
+- **所属行业**: Financial Services / Capital Markets
+- **提取时间**: 2026-03-20 16:37:20
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Technology vendors (e.g., Bloomberg, Refinitiv)]]
-- [[Data providers (e.g., S&P Global, Moody’s)]]
-- [[Legal and compliance service firms]]
-- [[Risk management software providers]]
+- [[Bloomberg L.P.]]
+- [[Thomson Reuters]]
+- [[FactSet Research Systems]]
 - [[MSFT]]
+- [[AMZN]]
 
 ### 下游客户
-- [[Institutional investors (mutual funds, pension funds)]]
-- [[Corporations seeking M&A advisory]]
-- [[Governments and sovereign entities]]
-- [[High‑net‑worth individuals and family offices]]
-- [[Asset managers and hedge funds]]
+- [[Corporate clients (e.g., Fortune 500 companies)]]
+- [[Sovereign and municipal governments]]
+- [[Institutional investors (pension funds, endowments)]]
+- [[High‑net‑worth individuals]]
+- [[Asset‑management firms]]
 
 ### 竞争对手
 - [[JPMorgan Chase & Co.]]
 - [[Morgan Stanley]]
-- [[Bank of America Merrill Lynch]]
+- [[Bank of America Corp.]]
 - [[Citigroup Inc.]]
-- [[Wells Fargo & Co.]]
+- [[UBS Group AG]]
 
 ### 核心产品
-- [[Investment banking advisory and underwriting]]
+- [[Investment banking advisory]]
+- [[Securities underwriting and trading]]
 - [[Asset management and wealth management]]
-- [[Securities trading and market making]]
-- [[Capital markets financing (equity & debt)]]
-- [[Risk management and derivatives]]
+- [[Market‑making and liquidity provision]]
+- [[Research and analytics services]]
 
 ## 数据来源
 
@@ -54,4 +54,4 @@ last_updated: 2026-03-16
 
 ## 元数据
 
-- **更新日期**: 2026-03-16
+- **更新日期**: 2026-03-20

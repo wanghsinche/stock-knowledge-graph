@@ -3,8 +3,8 @@ ticker: LIN
 company: Linde plc
 sector: Basic Materials
 industry: Specialty Chemicals
-extracted_at: 2026-02-20 16:35:01
-last_updated: 2026-02-20
+extracted_at: 2026-03-20 16:41:30
+last_updated: 2026-03-20
 ---
 
 # LIN - Linde plc
@@ -12,46 +12,46 @@ last_updated: 2026-02-20
 ## 基本信息
 
 - **所属行业**: Basic Materials / Specialty Chemicals
-- **提取时间**: 2026-02-20 16:35:01
+- **提取时间**: 2026-03-20 16:41:30
 
 ## 产业链关系
 
 ### 上游供应商
 - [[Natural gas]]
-- [[Electricity]]
-- [[Water]]
-- [[Feedstock chemicals]]
-- [[Hydrogen]]
+- [[Air]]
+- [[Hydrogen feedstock]]
+- [[Industrial gas suppliers]]
+- [[Chemical raw materials]]
 
 ### 下游客户
-- [[Chemical manufacturers]]
-- [[Pharmaceutical companies]]
-- [[Food & beverage industry]]
-- [[Electronics manufacturers]]
-- [[Automotive industry]]
+- [[Aerospace and defense]]
+- [[Medical and healthcare]]
+- [[Food and beverage]]
+- [[Electronics manufacturing]]
+- [[Automotive and transportation]]
 
 ### 竞争对手
 - [[Air Liquide]]
 - [[Air Products & Chemicals]]
-- [[Messer]]
-- [[Huber]]
-- [[Praxair]]
+- [[Praxair (pre-merger)]]
+- [[Baker Hughes]]
+- [[Sinopec]]
 
 ### 核心产品
-- [[Industrial gases (oxygen, nitrogen, argon)]]
-- [[Specialty gases (hydrogen, helium)]]
-- [[Cryogenic equipment]]
-- [[Gas distribution services]]
-- [[Gas solutions for process industries]]
+- [[Oxygen]]
+- [[Nitrogen]]
+- [[Argon]]
+- [[Hydrogen]]
+- [[Specialty gases]]
 
 ## 数据来源
 
 - [Linde plc](https://en.wikipedia.org/wiki/Linde_plc)
-- [Linde plc suppliers manufacturers](https://csimarket.com/stocks/competition.php?supply&code=LIN)
-- [Linde plc suppliers manufacturers](https://au.finance.yahoo.com/news/linde-plcs-dividend-analysis-110150385.html?prefer_reader_view=1&prefer_safari=1)
-- [Linde plc major customers clients](https://en.wikipedia.org/wiki/Linde_plc)
-- [Linde plc major customers clients](https://www.linde.com/news-and-media/2026/linde-reports-full-year-and-fourth-quarter-2025-results)
+- [Linde plc suppliers manufacturers](https://en.wikipedia.org/wiki/Linde_plc)
+- [Linde plc suppliers manufacturers](https://stores.lindedirect.com/ca/)
+- [Linde plc major customers clients](https://finance.yahoo.com/news/top-analyst-reports-sap-linde-211900134.html?pl2=qsp-recent-news_All)
+- [Linde plc major customers clients](https://www.gurufocus.com/news/3028957/decoding-linde-plc-lin-a-strategic-swot-insight)
 
 ## 元数据
 
-- **更新日期**: 2026-02-20
+- **更新日期**: 2026-03-20

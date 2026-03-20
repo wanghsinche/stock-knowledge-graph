@@ -2,20 +2,20 @@
   "ticker": "CRWD",
   "company_name": "CrowdStrike Holdings, Inc.",
   "sector": "Technology",
-  "industry": "Cybersecurity Software",
+  "industry": "Cybersecurity",
   "upstream": [
-    "DELL",
-    "HPQ",
     "MSFT",
-    "CSCO",
-    "AMZN"
+    "AMZN",
+    "GOOGL",
+    "INTC",
+    "CSCO"
   ],
   "downstream": [
+    "MSFT",
+    "AMZN",
+    "GOOGL",
     "U.S. Department of Defense",
-    "Bank of America",
-    "Citigroup",
-    "Walmart",
-    "Healthcare providers"
+    "Bank of America"
   ],
   "competitors": [
     "Palo Alto Networks",
@@ -25,13 +25,13 @@
     "McAfee"
   ],
   "key_products": [
-    "CrowdStrike Falcon",
+    "Falcon Endpoint Protection",
     "Falcon Prevent",
     "Falcon Insight",
     "Falcon OverWatch",
-    "Falcon X1"
+    "Falcon Discover"
   ],
-  "extracted_at": "2026-03-17 17:06:29",
+  "extracted_at": "2026-03-20 16:39:32",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.crowdstrike.com/en-us/about-us/suppliers/",
+      "url": "https://en.wikipedia.org/wiki/CrowdStrike",
       "query": "CrowdStrike Holdings, Inc. suppliers manufacturers",
-      "snippet": "Our Supplier Portal will improve the way we do business with enhanced transparency and supplier experience. We recognize the important role our suppli"
+      "snippet": "CrowdStrike Holdings , Inc . CrowdStrike Holdings , Inc . is an American cybersecurity technology company based in Austin, Texas. It provides endpoint"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/CRWD-Suppliers",
+      "url": "https://finance.yahoo.com/quote/CRWD/",
       "query": "CrowdStrike Holdings, Inc. suppliers manufacturers",
-      "snippet": "Aug 31, 2025 · For your research, we’ve provided nine additional tables on Crowdstrike Holdings Inc ’ s suppliers . You can find them in the navigatio"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.investing.com/equities/crowdstrike-holdings-inc",
-      "query": "CrowdStrike Holdings, Inc. major customers clients",
-      "snippet": "What Is the CrowdStrike Holdings Inc Stock Price Today?Cybersecurity Pionee. CrowdStrike leads the EDR market with innovative solutions like Falcon Fl"
+      "snippet": "Find the latest CrowdStrike Holdings , Inc . (CRWD) stock quote, history, news and other vital information to help you with your stock trading and inv"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://finance.yahoo.com/quote/CRWD/",
       "query": "CrowdStrike Holdings, Inc. major customers clients",
       "snippet": "Find the latest CrowdStrike Holdings , Inc . (CRWD) stock quote, history, news and other vital information to help you with your stock trading and inv"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.zacks.com/stock/news/2886580/why-crowdstrike-holdings-crwd-is-a-top-growth-stock-for-the-long-term",
+      "query": "CrowdStrike Holdings, Inc. major customers clients",
+      "snippet": "Stock to Watch: CrowdStrike Holdings . (CRWD Quick Quote. CRWD - Free Report). Founded in 2011, Sunnyvale, CA-based CrowdStrike is a leader in next-ge"
     }
   ]
 }

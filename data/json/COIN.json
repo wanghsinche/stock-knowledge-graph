@@ -6,32 +6,32 @@
   "upstream": [
     "AMZN",
     "MSFT",
-    "Stripe (payment processing)",
-    "Plaid (financial data aggregation)",
-    "Palo Alto Networks (cybersecurity)"
+    "GOOGL",
+    "Stripe",
+    "PayPal"
   ],
   "downstream": [
     "Retail cryptocurrency traders",
     "Institutional investors",
-    "Crypto asset managers",
-    "Merchant payment processors",
-    "DeFi protocol developers"
+    "Crypto merchants",
+    "DeFi protocol users",
+    "Crypto asset managers"
   ],
   "competitors": [
     "Binance",
     "Kraken",
     "Gemini",
     "Bitstamp",
-    "FTX (post-bankruptcy assets)"
+    "FTX"
   ],
   "key_products": [
     "Cryptocurrency trading platform",
-    "Custody services for institutional clients",
-    "Staking and yield products",
-    "Crypto wallet and mobile app",
-    "API for algorithmic trading"
+    "Custody services",
+    "Staking services",
+    "Crypto wallet",
+    "API for developers"
   ],
-  "extracted_at": "2026-03-19 16:52:55",
+  "extracted_at": "2026-03-20 16:40:43",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.coinbase.com/vendors/vendors-at-coinbase-code-of-conduct",
+      "url": "https://en.wikipedia.org/wiki/Coinbase",
       "query": "Coinbase Global, Inc. suppliers manufacturers",
-      "snippet": "For purposes of this Code, vendors include any third party, firm, or individual that provides a product or service to Coinbase, including: vendors , s"
+      "snippet": "Coinbase Global , Inc . is an American cryptocurrency exchange. It was founded in 2012 by Brian Armstrong and Fred Ehrsam."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://fintel.io/doc/sec-coinbase-global-inc-1679788-ex211-2024-february-15-19768-5823",
+      "url": "https://ru.wikipedia.org/wiki/Coinbase",
       "query": "Coinbase Global, Inc. suppliers manufacturers",
-      "snippet": "Pursuant to Item 601 (b) (21) (ii) of Regulation S-K, the names of other subsidiaries of Coinbase Global , Inc . are omitted because, considered in th"
+      "snippet": "Coinbase Global , Inc . (бренд Coinbase ) — американская публичная компания, которая управляет онлайн-сервисом обмена цифровых валют (биржей криптовал"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.demandsage.com/coinbase-users-statistics/",
+      "url": "https://en.wikipedia.org/wiki/Coinbase",
       "query": "Coinbase Global, Inc. major customers clients",
-      "snippet": "Aug 13, 2025 · Coinbase ’s user base stands at around 120 million, meaning it serves about 19.45% of all global cryptocurrency users. This makes Coinb"
+      "snippet": "Coinbase Global , Inc . is an American cryptocurrency exchange. It was founded in 2012 by Brian Armstrong and Fred Ehrsam."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/COIN-Customers",
+      "url": "https://www.coinbase.com/",
       "query": "Coinbase Global, Inc. major customers clients",
-      "snippet": "Coinbase Global Inc customers and markets, results by customer and performance relative to COIN, by company and industry - CSIMarket"
+      "snippet": "Coinbase United States is a secure online platform for buying, selling, transferring, and storing cryptocurrency. Coinbase believes crypto will be par"
     }
   ]
 }

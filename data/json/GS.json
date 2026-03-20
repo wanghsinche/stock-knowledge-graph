@@ -2,36 +2,36 @@
   "ticker": "GS",
   "company_name": "The Goldman Sachs Group, Inc.",
   "sector": "Financial Services",
-  "industry": "Capital Markets / Investment Banking",
+  "industry": "Capital Markets",
   "upstream": [
-    "Technology vendors (e.g., Bloomberg, Refinitiv)",
-    "Data providers (e.g., S&P Global, Moody’s)",
-    "Legal and compliance service firms",
-    "Risk management software providers",
-    "MSFT"
+    "Bloomberg L.P.",
+    "Thomson Reuters",
+    "FactSet Research Systems",
+    "MSFT",
+    "AMZN"
   ],
   "downstream": [
-    "Institutional investors (mutual funds, pension funds)",
-    "Corporations seeking M&A advisory",
-    "Governments and sovereign entities",
-    "High‑net‑worth individuals and family offices",
-    "Asset managers and hedge funds"
+    "Corporate clients (e.g., Fortune 500 companies)",
+    "Sovereign and municipal governments",
+    "Institutional investors (pension funds, endowments)",
+    "High‑net‑worth individuals",
+    "Asset‑management firms"
   ],
   "competitors": [
     "JPMorgan Chase & Co.",
     "Morgan Stanley",
-    "Bank of America Merrill Lynch",
+    "Bank of America Corp.",
     "Citigroup Inc.",
-    "Wells Fargo & Co."
+    "UBS Group AG"
   ],
   "key_products": [
-    "Investment banking advisory and underwriting",
+    "Investment banking advisory",
+    "Securities underwriting and trading",
     "Asset management and wealth management",
-    "Securities trading and market making",
-    "Capital markets financing (equity & debt)",
-    "Risk management and derivatives"
+    "Market‑making and liquidity provision",
+    "Research and analytics services"
   ],
-  "extracted_at": "2026-03-16 17:00:10",
+  "extracted_at": "2026-03-20 16:37:20",
   "sources": [
     {
       "source": "Wikipedia",
@@ -55,7 +55,7 @@
       "source": "DuckDuckGo",
       "url": "https://www.goldmansachs.com/what-we-do/serving-clients",
       "query": "The Goldman Sachs Group, Inc. major customers clients",
-      "snippet": "Financing, advisory services, risk distribution, and hedging for our institutional and corporate clients . Advice, investing, and execution for instit"
+      "snippet": "We mobilize the firm’s expansive network to serve our clients with a range of financial solutions differentiated by their breadth, depth, and geograph"
     },
     {
       "source": "DuckDuckGo",

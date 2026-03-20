@@ -1,37 +1,37 @@
 {
   "ticker": "HOOD",
   "company_name": "Robinhood Markets, Inc.",
-  "sector": "Financial Services / Capital Markets",
-  "industry": "Online Brokerage",
+  "sector": "Financial Services",
+  "industry": "Capital Markets",
   "upstream": [
-    "AMZN",
-    "Bloomberg",
-    "IEX Cloud",
-    "Stripe",
-    "Plaid"
+    "Cloud service providers (AWS, Azure)",
+    "Market data vendors (Bloomberg, Refinitiv)",
+    "Payment processors (Stripe, PayPal)",
+    "Regulatory technology firms",
+    "Technology infrastructure providers"
   ],
   "downstream": [
     "Retail investors",
     "High‑frequency traders",
-    "Institutional investors",
-    "Crypto traders",
-    "Options traders"
+    "Institutional clients",
+    "Financial advisors",
+    "Corporate clients"
   ],
   "competitors": [
     "Charles Schwab",
-    "Fidelity",
     "E*TRADE",
-    "TD Ameritrade",
-    "Webull"
+    "Fidelity",
+    "Webull",
+    "SoFi Invest"
   ],
   "key_products": [
     "Commission‑free stock trading",
     "Options trading",
     "Cryptocurrency trading",
     "Margin trading",
-    "Robinhood Gold subscription"
+    "Cash management"
   ],
-  "extracted_at": "2026-03-19 16:54:44",
+  "extracted_at": "2026-03-20 16:40:21",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,15 +41,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/HOOD-Suppliers",
+      "url": "https://en.wikipedia.org/wiki/Robinhood_Markets",
       "query": "Robinhood Markets, Inc. suppliers manufacturers",
-      "snippet": "Feb 28, 2026 · For your research, we’ve provided nine additional tables on Robinhood Markets Inc ’s suppliers . You can find them in the navigation me"
+      "snippet": "Robinhood Markets , Inc . Robinhood Markets , Inc . is an American financial services company based in Menlo Park, California."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://robinhood.com/us/en/about-us/",
+      "url": "https://robinhood.com/",
       "query": "Robinhood Markets, Inc. suppliers manufacturers",
-      "snippet": "They wanted to change that, so they headed back to California to build a financial product that would give everyone—not just the wealthy—access to fin"
+      "snippet": "Trade stocks on Robinhood with commission-free investing & advanced trading tools. Access fractional shares, real-time market data, and more."
     },
     {
       "source": "DuckDuckGo",

@@ -4,34 +4,34 @@
   "sector": "Technology",
   "industry": "Software - Application",
   "upstream": [
-    "MSFT",
     "AMZN",
+    "MSFT",
     "GOOGL",
-    "ORCL",
-    "IBM"
+    "DELL",
+    "ORCL"
   ],
   "downstream": [
-    "Bank of America",
-    "JPMorgan Chase",
-    "Citigroup",
-    "Walmart",
-    "GOOGL"
+    "Bank of America (financial services)",
+    "Walmart (retail)",
+    "General Motors (automotive)",
+    "Johnson & Johnson (pharmaceuticals)",
+    "Coca‑Cola (consumer goods)"
   ],
   "competitors": [
-    "Tableau",
+    "Tableau Software",
+    "Qlik Technologies",
     "MSFT",
-    "Qlik",
-    "Looker",
-    "SAP BusinessObjects"
+    "GOOGL",
+    "SAP Analytics Cloud"
   ],
   "key_products": [
-    "MicroStrategy Platform",
-    "MicroStrategy Analytics",
+    "MicroStrategy Desktop",
+    "MicroStrategy Web",
     "MicroStrategy Mobile",
-    "MicroStrategy Cloud",
-    "MicroStrategy Data Warehouse"
+    "MicroStrategy Analytics",
+    "MicroStrategy Cloud"
   ],
-  "extracted_at": "2026-03-19 16:50:47",
+  "extracted_at": "2026-03-20 16:39:11",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,15 +41,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.tradingview.com/symbols/NASDAQ-MSTR/ideas/?sort=recent",
+      "url": "https://en.wikipedia.org/wiki/Supply_chain",
       "query": "Strategy Inc suppliers manufacturers",
-      "snippet": "Check out the latest trade and investment ideas for Strategy Inc Class A from our top authors. They share opinions on price directions and technical o"
+      "snippet": "A typical supply chain can be divided into two stages namely, production and distribution stages. In the production stage, components and semi-finishe"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/MSTR/",
+      "url": "https://www.alibaba.com/",
       "query": "Strategy Inc suppliers manufacturers",
-      "snippet": "Find the latest Strategy Inc (MSTR) stock quote, history, news and other vital information to help you with your stock trading and investing."
+      "snippet": "Find quality Manufacturers , Suppliers , Exporters, Importers, Buyers, Wholesalers, Products and Trade Leads from our award-winning International Trad"
     },
     {
       "source": "DuckDuckGo",

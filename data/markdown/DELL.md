@@ -3,8 +3,8 @@ ticker: DELL
 company: Dell Technologies Inc.
 sector: Technology
 industry: Computer Hardware
-extracted_at: 2026-03-03 16:43:40
-last_updated: 2026-03-03
+extracted_at: 2026-03-20 16:35:32
+last_updated: 2026-03-20
 ---
 
 # DELL - Dell Technologies Inc.
@@ -12,23 +12,23 @@ last_updated: 2026-03-03
 ## 基本信息
 
 - **所属行业**: Technology / Computer Hardware
-- **提取时间**: 2026-03-03 16:43:40
+- **提取时间**: 2026-03-20 16:35:32
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Foxconn]]
-- [[Quanta Computer]]
-- [[Compal Electronics]]
-- [[Wistron]]
-- [[Pegatron]]
+- [[INTC]]
+- [[AMD]]
+- [[NVDA]]
+- [[005930.KS]]
+- [[TSM]]
 
 ### 下游客户
-- [[Client Solutions Group]]
-- [[DELL]]
-- [[DELL]]
-- [[DELL]]
-- [[Enterprise IT customers (e.g., Walmart, AT&T, Verizon)]]
+- [[U.S. Department of Defense]]
+- [[NASA]]
+- [[Fortune 500 enterprises]]
+- [[Small and medium businesses]]
+- [[Individual consumers]]
 
 ### 竞争对手
 - [[HPQ]]
@@ -40,18 +40,18 @@ last_updated: 2026-03-03
 ### 核心产品
 - [[Personal computers]]
 - [[Servers]]
-- [[Monitors]]
 - [[Storage solutions]]
-- [[Cybersecurity services]]
+- [[Monitors]]
+- [[Networking equipment]]
 
 ## 数据来源
 
 - [Dell Technologies](https://en.wikipedia.org/wiki/Dell_Technologies_Inc.)
 - [Dell Technologies Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/Dell)
-- [Dell Technologies Inc. suppliers manufacturers](https://www.delltechnologies.com/asset/pl-pl/solutions/business-solutions/briefs-summaries/dell-public-supplier-list.pdf)
-- [Dell Technologies Inc. major customers clients](https://en.wikipedia.org/wiki/Dell_Technologies)
-- [Dell Technologies Inc. major customers clients](https://www.dell.com/en-us/lp/dt/customer-stories)
+- [Dell Technologies Inc. suppliers manufacturers](https://ru.wikipedia.org/wiki/Dell)
+- [Dell Technologies Inc. major customers clients](https://en.wikipedia.org/wiki/Dell)
+- [Dell Technologies Inc. major customers clients](https://www.dell.com/en-us)
 
 ## 元数据
 
-- **更新日期**: 2026-03-03
+- **更新日期**: 2026-03-20

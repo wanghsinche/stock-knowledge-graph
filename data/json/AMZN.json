@@ -1,37 +1,37 @@
 {
   "ticker": "AMZN",
   "company_name": "Amazon.com, Inc.",
-  "sector": "Consumer Cyclical",
+  "sector": "Consumer Cyclical / Internet Retail",
   "industry": "Internet Retail",
   "upstream": [
-    "Electronics manufacturers",
-    "Apparel manufacturers",
-    "Consumer goods manufacturers",
     "Book publishers",
-    "Third‑party sellers"
+    "Electronics manufacturers",
+    "Consumer goods manufacturers",
+    "Third‑party sellers",
+    "Hardware suppliers for AWS"
   ],
   "downstream": [
     "Retail consumers",
-    "Small and medium businesses",
     "Enterprise customers (AWS)",
-    "Government agencies",
-    "AMZN"
+    "Advertising clients",
+    "Prime members",
+    "Marketplace sellers"
   ],
   "competitors": [
     "Walmart",
     "eBay",
     "Alibaba",
-    "Shopify",
-    "MSFT"
+    "Target",
+    "Shopify"
   ],
   "key_products": [
-    "Amazon.com marketplace",
-    "Amazon Web Services (AWS)",
+    "Amazon.com e‑commerce platform",
     "Amazon Prime",
-    "Kindle",
-    "Alexa"
+    "Amazon Web Services (AWS)",
+    "Amazon Echo/Alexa",
+    "Amazon Kindle"
   ],
-  "extracted_at": "2026-03-19 16:47:50",
+  "extracted_at": "2026-03-20 16:33:39",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
+      "url": "https://us.amazon.com/",
+      "query": "Amazon.com, Inc. suppliers manufacturers",
+      "snippet": "Enjoy low prices and great deals on the largest selection of everyday essentials and other products, including fashion, home, beauty, electronics, Ale"
+    },
+    {
+      "source": "DuckDuckGo",
       "url": "https://www.alibaba.com/",
       "query": "Amazon.com, Inc. suppliers manufacturers",
       "snippet": "Find quality Manufacturers , Suppliers , Exporters, Importers, Buyers, Wholesalers, Products and Trade Leads from our award-winning International Trad"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ir.aboutamazon.com/",
-      "query": "Amazon.com, Inc. suppliers manufacturers",
-      "snippet": "The Spheres. Select awards and recognition. Amazon . com Conditions of Use © 1996- Amazon . com , Inc . - IR or its affiliates."
+      "url": "https://capitaloneshopping.com/research/amazon-statistics/",
+      "query": "Amazon.com, Inc. major customers clients",
+      "snippet": "Jan 28, 2026 · Over 310 million global consumers shop on Amazon at least once a year. 2 million active selling partners have shops on Amazon. Independ"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ir.aboutamazon.com/",
+      "url": "https://csimarket.com/stocks/AMZN-Customers",
       "query": "Amazon.com, Inc. major customers clients",
-      "snippet": "The Spheres. Select awards and recognition. Amazon . com Conditions of Use © 1996- Amazon . com , Inc . - IR or its affiliates."
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.amazon.com/cart/add-to-cart/ref=dp_start-bbf_1_glance",
-      "query": "Amazon.com, Inc. major customers clients",
-      "snippet": "The price and availability of items at Amazon . com are subject to change. The Cart is a temporary place to store a list of your items and reflects ea"
+      "snippet": "Mar 5, 2026 · Updated on: Thursday, March 5, 2026 10:31 PM Focus of this report: Amazon com Inc ’s corporate clients . For your research, we’ve provid"
     }
   ]
 }

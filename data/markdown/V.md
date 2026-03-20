@@ -3,8 +3,8 @@ ticker: V
 company: Visa Inc.
 sector: Financial Services
 industry: Credit Services
-extracted_at: 2026-03-19 16:55:55
-last_updated: 2026-03-19
+extracted_at: 2026-03-20 16:39:43
+last_updated: 2026-03-20
 ---
 
 # V - Visa Inc.
@@ -12,46 +12,46 @@ last_updated: 2026-03-19
 ## 基本信息
 
 - **所属行业**: Financial Services / Credit Services
-- **提取时间**: 2026-03-19 16:55:55
+- **提取时间**: 2026-03-20 16:39:43
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Chip manufacturers (e.g., NXP Semiconductors)]]
-- [[Card production companies (e.g., IDEMIA, Giesecke+Devrient)]]
-- [[MSFT]]
-- [[Payment network infrastructure providers]]
-- [[Security solution providers]]
+- [[Technology vendors]]
+- [[Payment processors]]
+- [[Card manufacturers]]
+- [[Network infrastructure providers]]
+- [[Software developers]]
 
 ### 下游客户
-- [[Commercial banks and financial institutions]]
-- [[Retail merchants worldwide]]
-- [[Card issuers (e.g., Chase, Citibank)]]
-- [[Consumers using Visa cards]]
-- [[E-commerce platforms]]
+- [[Consumers]]
+- [[Merchants]]
+- [[Banks]]
+- [[Financial institutions]]
+- [[Card issuers]]
 
 ### 竞争对手
 - [[Mastercard]]
 - [[American Express]]
-- [[Discover Financial Services]]
-- [[JCB]]
-- [[UnionPay]]
+- [[Discover]]
+- [[PayPal]]
+- [[Square]]
 
 ### 核心产品
-- [[VisaNet payment network]]
 - [[Visa credit cards]]
 - [[Visa debit cards]]
 - [[Visa prepaid cards]]
-- [[Visa Direct real‑time payments]]
+- [[Visa payment network services]]
+- [[Digital payment solutions]]
 
 ## 数据来源
 
 - [Visa Inc.](https://en.wikipedia.org/wiki/Visa_Inc.)
-- [Visa Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/Visa_Inc.)
 - [Visa Inc. suppliers manufacturers](https://usa.visa.com/partner-with-us/info-for-partners/info-for-suppliers.html)
+- [Visa Inc. suppliers manufacturers](https://csimarket.com/stocks/V-Suppliers)
 - [Visa Inc. major customers clients](https://en.wikipedia.org/wiki/Visa_Inc.)
 - [Visa Inc. major customers clients](https://www.visa.com/en-us)
 
 ## 元数据
 
-- **更新日期**: 2026-03-19
+- **更新日期**: 2026-03-20

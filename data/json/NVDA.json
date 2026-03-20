@@ -6,16 +6,16 @@
   "upstream": [
     "TSM",
     "005930.KS",
-    "GlobalFoundries",
-    "UMC",
-    "SMIC"
+    "Foxconn",
+    "MU",
+    "GlobalFoundries"
   ],
   "downstream": [
-    "MSFT",
-    "SONY",
     "AMZN",
+    "MSFT",
+    "GOOGL",
     "TSLA",
-    "AAPL"
+    "SONY"
   ],
   "competitors": [
     "AMD",
@@ -26,15 +26,12 @@
   ],
   "key_products": [
     "GeForce GPUs",
-    "Quadro GPUs",
     "Tesla GPUs",
-    "RTX GPUs",
-    "NVIDIA DRIVE SoC",
-    "Jetson SoC",
-    "CUDA API",
-    "PhysX API"
+    "Quadro GPUs",
+    "Jetson SoCs",
+    "CUDA API"
   ],
-  "extracted_at": "2026-03-19 16:47:00",
+  "extracted_at": "2026-03-20 16:32:32",
   "sources": [
     {
       "source": "Wikipedia",
@@ -44,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://stocksandfuturestrading.com/the-complete-list-of-nvidias-suppliers-and-consumers/",
-      "query": "NVIDIA Corporation suppliers manufacturers",
-      "snippet": "Nov 22, 2024 · NVIDIA has completed one of the most dramatic business transformations in market history — going from a gaming GPU company to the backb"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/NVDA-Suppliers",
-      "query": "NVIDIA Corporation suppliers manufacturers",
-      "snippet": "Feb 26, 2026 · We utilize a fabless and contracting manufacturing strategy, whereby we employ and partner with key suppliers for all phases of the man"
-    },
-    {
-      "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Nvidia",
-      "query": "NVIDIA Corporation major customers clients",
-      "snippet": "Nvidia thus avoids most of the investment and production costs and risks associated with chip manufacturing, although it does sometimes directly procu"
+      "query": "NVIDIA Corporation suppliers manufacturers",
+      "snippet": "1 day ago - In August 2025, Nvidia ordered ... due to security concerns. The company directed suppliers including Taiwan Semiconductor Manufacturing C"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.investing.com/equities/nvidia-corp",
+      "url": "https://medium.com/@farrago_course0f/exploring-the-key-companies-supplying-nvidia-a-comprehensive-overview-ebc639dd1d99",
+      "query": "NVIDIA Corporation suppliers manufacturers",
+      "snippet": "February 16, 2024 - Samsung Electronics plays a pivotal role in NVIDIA’s supply chain, contributing to the fabrication of GPU chips and memory compone"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.cnbc.com/2025/08/28/nvidias-top-two-mystery-customers-made-up-39percent-of-its-q2-revenue-.html",
       "query": "NVIDIA Corporation major customers clients",
-      "snippet": "View today's NVIDIA Corporation stock price and latest NVDA news and analysis. Create real-time notifications to follow any changes in the live stock "
+      "snippet": "Aug 28, 2025 · Nvidia's top two customers making up 39% of its total revenue is renewing concern about the risk of the chipmakers clientele concentrat"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.nvidia.com/en-us/case-studies/",
+      "query": "NVIDIA Corporation major customers clients",
+      "snippet": "See how industry leaders are driving innovations with AI, accelerated computing, and simulation to modernize business. Missing: major | Show results w"
     }
   ]
 }

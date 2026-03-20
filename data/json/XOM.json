@@ -4,39 +4,34 @@
   "sector": "Energy",
   "industry": "Oil & Gas Integrated",
   "upstream": [
-    "Schlumberger",
-    "Halliburton",
-    "Baker Hughes",
-    "TechnipFMC",
-    "Weatherford"
+    "Crude oil producers (e.g., Saudi Aramco)",
+    "Natural gas suppliers (e.g., Gazprom)",
+    "CAT",
+    "Service providers (e.g., Schlumberger)",
+    "IBM"
   ],
   "downstream": [
-    "General Motors",
-    "Ford Motor Company",
-    "Toyota Motor Corporation",
-    "United Airlines",
-    "Dow Chemical Company"
+    "Refineries (e.g., Phillips 66)",
+    "Petrochemical plants (e.g., Dow Chemical)",
+    "Automotive fuel distributors (e.g., Shell)",
+    "Aviation fuel customers (e.g., airlines)",
+    "Industrial end users (e.g., manufacturing plants)"
   ],
   "competitors": [
     "Chevron",
-    "Shell",
     "BP",
-    "ConocoPhillips",
-    "Valero Energy"
+    "Shell",
+    "TotalEnergies",
+    "ConocoPhillips"
   ],
   "key_products": [
     "Crude oil",
     "Natural gas",
     "Gasoline",
     "Diesel",
-    "Jet fuel",
-    "Mobil 1 lubricants",
-    "Ethylene",
-    "Propylene",
-    "Plastics",
-    "Synthetic rubber"
+    "Petrochemicals"
   ],
-  "extracted_at": "2026-03-19 16:49:08",
+  "extracted_at": "2026-03-20 16:35:21",
   "sources": [
     {
       "source": "Wikipedia",
@@ -46,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/ExxonMobil",
+      "query": "Exxon Mobil Corporation suppliers manufacturers",
+      "snippet": "Exxon Mobil Corporation [a] (/ ˌɛksɒn ˈmoʊbəl / EK-son MOH-bəl) [4][5][6] is an American multinational oil and gas corporation headquartered in Spring"
+    },
+    {
+      "source": "DuckDuckGo",
       "url": "https://corporate.exxonmobil.com/procurement/exxonmobil-for-suppliers",
       "query": "Exxon Mobil Corporation suppliers manufacturers",
       "snippet": "Learn about our supplier ’s collaboration portal, which provides suppliers with access to collaborate with us, view invoices, report issues, & submit "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.volza.com/p/exxon-mobil/manufacturers/",
-      "query": "Exxon Mobil Corporation suppliers manufacturers",
-      "snippet": "Access 166 verified Exxon Mobil Suppliers with shipment-level prices, volumes, routes, buyer networks, and verified decision-maker contacts — all back"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/ExxonMobil",
+      "url": "https://csimarket.com/stocks/XOM-Customers",
       "query": "Exxon Mobil Corporation major customers clients",
-      "snippet": "Mobil 1, a brand of synthetic motor oil, is a major sponsor of multiple racing teams and the official motor oil of NASCAR since 2003.[47] ExxonMobil i"
+      "snippet": "For your research, we’ve provided 9 tables on Exxon Mobil Corporation corporate clients . You can find them in the navigation menu under Customers & M"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://corporate.exxonmobil.com/",
       "query": "Exxon Mobil Corporation major customers clients",
-      "snippet": "ExxonMobil scientists are pioneering new research & technologies to reduce emissions. Learn how we are responsibly meeting the world's energy needs."
+      "snippet": "1 day ago · ExxonMobil 's three primary businesses provide products that enable modern life, including energy, chemicals, lubricants, and lower-emissi"
     }
   ]
 }

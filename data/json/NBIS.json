@@ -5,33 +5,33 @@
   "industry": "Internet Content & Information",
   "upstream": [
     "NVDA",
-    "INTC",
     "AMD",
-    "QCOM",
-    "MSFT"
+    "INTC",
+    "DELL",
+    "HPQ"
   ],
   "downstream": [
     "GOOGL",
-    "MSFT",
     "AMZN",
-    "IBM",
-    "Alibaba Cloud"
+    "MSFT",
+    "META",
+    "Alibaba"
   ],
   "competitors": [
-    "OpenAI",
-    "Anthropic",
-    "DeepMind",
-    "Cerebras Systems",
-    "Graphcore"
+    "NVDA",
+    "AMD",
+    "INTC",
+    "GOOGL",
+    "AMZN"
   ],
   "key_products": [
     "Nebius AI Platform",
-    "Nebius Cloud",
-    "Nebius Edge AI",
-    "Nebius Data Lake",
-    "Nebius Analytics"
+    "Nebius AI Infrastructure",
+    "Nebius AI Services",
+    "Nebius AI Solutions",
+    "Nebius AI Cloud"
   ],
-  "extracted_at": "2026-03-19 16:52:00",
+  "extracted_at": "2026-03-20 16:42:40",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/NBIS-Suppliers",
+      "query": "NBIS suppliers manufacturers",
+      "snippet": "May 3, 2025 · For your research, we’ve provided nine additional tables on Nebius Group n v ’s suppliers . You can find them in the navigation menu und"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://mvcinvesting.substack.com/p/why-nebius-group-nbis-is-my-largest",
+      "query": "NBIS suppliers manufacturers",
+      "snippet": "May 13, 2025 · Today, NBIS is a completely independent company — composed of Nebius (AI cloud), Avride (autonomous driving), Toloka (data labeling), T"
+    },
+    {
+      "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Nebius_Group",
-      "query": "NBIS suppliers manufacturers",
-      "snippet": "Nebius Group N.V., headquartered in Amsterdam, is a technology company that provides artificial intelligence infrastructure."
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/NBIS/",
-      "query": "NBIS suppliers manufacturers",
-      "snippet": "Find the latest Nebius Group N.V. ( NBIS ) stock quote, history, news and other vital information to help you with your stock trading and investing."
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/NBIS/",
       "query": "NBIS major customers clients",
-      "snippet": "Find the latest Nebius Group N.V. ( NBIS ) stock quote, history, news and other vital information to help you with your stock trading and investing."
+      "snippet": "In December 2024, Nebius raised $700 million through private investors, including Nvidia (which acquired 0.5% of Nebius ) and Accel Partners. [5]"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.nasdaq.com/market-activity/stocks/nbis",
+      "url": "https://csimarket.com/stocks/NBIS-Customers",
       "query": "NBIS major customers clients",
-      "snippet": "ETFs with NBIS as a Top 10 Holding*.Data Disclaimer: The Nasdaq Indices and the Major Indices are delayed at least 1 minute. Real-time Data is provide"
+      "snippet": "6 days ago · For your research, we’ve provided 9 tables on Nebius Group n v corporate clients . You can find them in the navigation menu under Custome"
     }
   ]
 }
