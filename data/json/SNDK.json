@@ -3,11 +3,35 @@
   "company_name": "Sandisk Corporation",
   "sector": "Technology",
   "industry": "Computer Hardware",
-  "upstream": [],
-  "downstream": [],
-  "competitors": [],
-  "key_products": [],
-  "extracted_at": "2026-03-20 16:33:06",
+  "upstream": [
+    "005930.KS",
+    "MU",
+    "SK Hynix",
+    "WDC",
+    "INTC"
+  ],
+  "downstream": [
+    "AAPL",
+    "MSFT",
+    "DELL",
+    "HPQ",
+    "SONY"
+  ],
+  "competitors": [
+    "005930.KS",
+    "MU",
+    "Kingston Technology",
+    "Corsair",
+    "MU"
+  ],
+  "key_products": [
+    "Memory cards (SD, microSD)",
+    "USB flash drives",
+    "Solid‑state drives (SSD)",
+    "Embedded flash memory",
+    "Enterprise storage solutions"
+  ],
+  "extracted_at": "2026-03-23 16:46:30",
   "sources": [
     {
       "source": "Wikipedia",
@@ -17,15 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/SanDisk",
+      "url": "https://www.sandisk.com/company/distributors",
       "query": "Sandisk Corporation suppliers manufacturers",
-      "snippet": "2 weeks ago - In October 2005, SanDisk acquired Matrix Semiconductor. In July 2006, SanDisk acquired M-Systems. In May 2011, SanDisk acquired Pliant T"
+      "snippet": "Purchase from your preferred Sandisk authorized partner."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.sandisk.com/company/distributors",
+      "url": "https://www.arrow.com/en/manufacturers/sandisk",
       "query": "Sandisk Corporation suppliers manufacturers",
-      "snippet": "Region · Loading Region · Country/Area · Loading Country/Area · Brand · Loading Brand · Distributors | Sandisk"
+      "snippet": "Arrow.com is an authorized distributor of SanDisk , stocking a wide selection of electronic components and supporting hundreds of reference designs. E"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://data.landbase.com/technology/sandisk/",
+      "query": "Sandisk Corporation major customers clients",
+      "snippet": "Aug 17, 2025 · We have data on 324 companies that use SanDisk. Our SanDisk customers list is available for download and comes enriched with vital comp"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/SNDK-Customers",
+      "query": "Sandisk Corporation major customers clients",
+      "snippet": "Sandisk customers and markets, results by customer and performance relative to SNDK, by company and industry - CSIMarket"
     }
   ]
 }

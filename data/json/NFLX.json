@@ -4,18 +4,18 @@
   "sector": "Communication Services",
   "industry": "Entertainment",
   "upstream": [
-    "Content production studios (e.g., Warner Bros, Disney, Universal)",
-    "MSFT",
-    "005930.KS",
-    "Digital distribution platforms",
-    "Marketing and advertising agencies"
+    "Content production studios (e.g., Warner Bros., Disney, Universal)",
+    "AAPL",
+    "AMZN",
+    "Advertising and marketing agencies",
+    "Film and TV distributors"
   ],
   "downstream": [
-    "Individual subscribers worldwide",
-    "Corporate customers (enterprise streaming services)",
+    "Individual streaming subscribers worldwide",
     "005930.KS",
-    "Smart TV platforms",
-    "Mobile app users"
+    "Set‑top box providers (e.g., Roku)",
+    "Mobile device users",
+    "Gaming console owners"
   ],
   "competitors": [
     "Disney+",
@@ -25,13 +25,13 @@
     "AAPL"
   ],
   "key_products": [
-    "Netflix streaming service",
-    "Netflix Originals (TV series, films)",
+    "Netflix streaming platform",
+    "Original series and films",
+    "Licensed movies and TV shows",
     "Mobile and web apps",
-    "Smart TV and console apps",
-    "Subscription plans (Basic, Standard, Premium)"
+    "User recommendation algorithms"
   ],
-  "extracted_at": "2026-03-20 16:36:10",
+  "extracted_at": "2026-03-23 16:49:55",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,15 +41,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/NFLX-Suppliers",
+      "url": "https://www.netflix.com/?locale=en-US",
       "query": "Netflix, Inc. suppliers manufacturers",
-      "snippet": "Netflix Inc supply chain, list and performance of Netflix Incs ' suppliers - CSIMarket."
+      "snippet": "Sign in with your Netflix account to watch instantly on the web at netflix .com from your personal computer or on any internet-connected device that o"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://porteranalysis.com/porters-five-forces-of-netflix/",
+      "url": "https://www.alibaba.com/",
       "query": "Netflix, Inc. suppliers manufacturers",
-      "snippet": "Likewise, the suppliers have a weaker bargaining power while dealing with the traditional broadcasting businesses, but online distributors like Netfli"
+      "snippet": "Find quality Manufacturers , Suppliers , Exporters, Importers, Buyers, Wholesalers, Products and Trade Leads from our award-winning International Trad"
     },
     {
       "source": "DuckDuckGo",
@@ -59,9 +59,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.inc.com/jason-aten/netflix-just-revealed-its-doing-the-1-thing-customers-were-most-afraid-of/91110628",
+      "url": "https://www.netflix.com/?locale=en-US",
       "query": "Netflix, Inc. major customers clients",
-      "snippet": "Look, that’s basically Netflix ’s most reliable strategy. It’s right up there with dumping an entire season of episodes at a time to encourage custome"
+      "snippet": "Watch Netflix movies & TV shows online or stream right to your smart TV, game console, PC, Mac, mobile, tablet and more."
     }
   ]
 }

@@ -3,8 +3,8 @@ ticker: SMCI
 company: Super Micro Computer, Inc.
 sector: Technology
 industry: Computer Hardware
-extracted_at: 2026-03-20 16:34:34
-last_updated: 2026-03-20
+extracted_at: 2026-03-23 16:49:22
+last_updated: 2026-03-23
 ---
 
 # SMCI - Super Micro Computer, Inc.
@@ -12,37 +12,37 @@ last_updated: 2026-03-20
 ## 基本信息
 
 - **所属行业**: Technology / Computer Hardware
-- **提取时间**: 2026-03-20 16:34:34
+- **提取时间**: 2026-03-23 16:49:22
 
 ## 产业链关系
 
 ### 上游供应商
 - [[INTC]]
 - [[AMD]]
-- [[NVDA]]
-- [[AVGO]]
-- [[QCOM]]
+- [[MU]]
+- [[STX]]
+- [[CSCO]]
 
 ### 下游客户
+- [[NVDA]]
 - [[AMZN]]
 - [[GOOGL]]
 - [[MSFT]]
-- [[NVDA]]
-- [[IBM]]
+- [[Huawei]]
 
 ### 竞争对手
 - [[DELL]]
 - [[HPQ]]
 - [[Lenovo]]
+- [[Inspur]]
 - [[CSCO]]
-- [[IBM]]
 
 ### 核心产品
 - [[High-performance servers]]
 - [[High-efficiency servers]]
 - [[Server management software]]
 - [[Storage systems]]
-- [[Edge computing solutions]]
+- [[AI servers]]
 
 ## 数据来源
 
@@ -54,4 +54,4 @@ last_updated: 2026-03-20
 
 ## 元数据
 
-- **更新日期**: 2026-03-20
+- **更新日期**: 2026-03-23

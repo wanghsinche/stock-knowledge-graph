@@ -1,37 +1,37 @@
 {
   "ticker": "CRWD",
   "company_name": "CrowdStrike Holdings, Inc.",
-  "sector": "Technology",
-  "industry": "Cybersecurity",
+  "sector": "Technology / Software - Infrastructure",
+  "industry": "Cybersecurity / Endpoint Protection",
   "upstream": [
-    "MSFT",
-    "AMZN",
-    "GOOGL",
-    "INTC",
-    "CSCO"
+    "DELL",
+    "HPQ",
+    "Lenovo Group",
+    "CSCO",
+    "MSFT"
   ],
   "downstream": [
-    "MSFT",
-    "AMZN",
-    "GOOGL",
-    "U.S. Department of Defense",
-    "Bank of America"
+    "US Department of Defense",
+    "NASA",
+    "Walmart",
+    "JPMorgan Chase",
+    "Verizon"
   ],
   "competitors": [
     "Palo Alto Networks",
-    "Fortinet",
-    "Check Point Software Technologies",
     "SentinelOne",
-    "McAfee"
+    "McAfee",
+    "AVGO",
+    "Sophos"
   ],
   "key_products": [
-    "Falcon Endpoint Protection",
     "Falcon Prevent",
     "Falcon Insight",
     "Falcon OverWatch",
-    "Falcon Discover"
+    "Falcon X",
+    "Falcon Complete"
   ],
-  "extracted_at": "2026-03-20 16:39:32",
+  "extracted_at": "2026-03-23 16:56:06",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,15 +41,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/CrowdStrike",
+      "url": "https://www.crowdstrike.com/en-us/about-us/suppliers/",
       "query": "CrowdStrike Holdings, Inc. suppliers manufacturers",
-      "snippet": "CrowdStrike Holdings , Inc . CrowdStrike Holdings , Inc . is an American cybersecurity technology company based in Austin, Texas. It provides endpoint"
+      "snippet": "CrowdStrike is committed to developing partnerships with a diverse range of suppliers who value quality and integrity in order to help us stop breache"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/CRWD/",
+      "url": "https://csimarket.com/stocks/CRWD-Suppliers",
       "query": "CrowdStrike Holdings, Inc. suppliers manufacturers",
-      "snippet": "Find the latest CrowdStrike Holdings , Inc . (CRWD) stock quote, history, news and other vital information to help you with your stock trading and inv"
+      "snippet": "Aug 31, 2025 · Crowdstrike Holdings Inc 's Comment on Supply Chain We work with a number of technology alliance partners to design go-to-market strate"
     },
     {
       "source": "DuckDuckGo",
@@ -59,9 +59,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.zacks.com/stock/news/2886580/why-crowdstrike-holdings-crwd-is-a-top-growth-stock-for-the-long-term",
+      "url": "https://www.marketwatch.com/investing/stock/crwd",
       "query": "CrowdStrike Holdings, Inc. major customers clients",
-      "snippet": "Stock to Watch: CrowdStrike Holdings . (CRWD Quick Quote. CRWD - Free Report). Founded in 2011, Sunnyvale, CA-based CrowdStrike is a leader in next-ge"
+      "snippet": "CRWD | Complete CrowdStrike Holdings Inc . Cl A stock news by MarketWatch. View real-time stock prices and stock quotes for a full financial overview."
     }
   ]
 }

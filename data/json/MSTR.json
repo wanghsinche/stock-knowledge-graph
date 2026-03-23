@@ -1,37 +1,37 @@
 {
   "ticker": "MSTR",
-  "company_name": "MicroStrategy Incorporated",
+  "company_name": "Strategy Inc",
   "sector": "Technology",
   "industry": "Software - Application",
   "upstream": [
-    "AMZN",
-    "MSFT",
-    "GOOGL",
-    "DELL",
-    "ORCL"
+    "Medical device manufacturers",
+    "Medical device component suppliers",
+    "Hardware vendors",
+    "Software platform providers",
+    "Data storage providers"
   ],
   "downstream": [
-    "Bank of America (financial services)",
-    "Walmart (retail)",
-    "General Motors (automotive)",
-    "Johnson & Johnson (pharmaceuticals)",
-    "Coca‑Cola (consumer goods)"
+    "Hospitals",
+    "Health systems",
+    "Medical device manufacturers",
+    "Healthcare IT vendors",
+    "Clinical research organizations"
   ],
   "competitors": [
-    "Tableau Software",
-    "Qlik Technologies",
-    "MSFT",
-    "GOOGL",
-    "SAP Analytics Cloud"
+    "McKinsey & Company",
+    "Boston Consulting Group",
+    "Deloitte",
+    "Accenture",
+    "PwC"
   ],
   "key_products": [
-    "MicroStrategy Desktop",
-    "MicroStrategy Web",
-    "MicroStrategy Mobile",
-    "MicroStrategy Analytics",
-    "MicroStrategy Cloud"
+    "Business intelligence software",
+    "Data analytics solutions",
+    "Healthcare analytics services",
+    "Enterprise reporting tools",
+    "Data visualization platforms"
   ],
-  "extracted_at": "2026-03-20 16:39:11",
+  "extracted_at": "2026-03-23 16:49:45",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Supply_chain",
+      "url": "https://www.strategyinc.net/",
       "query": "Strategy Inc suppliers manufacturers",
-      "snippet": "A typical supply chain can be divided into two stages namely, production and distribution stages. In the production stage, components and semi-finishe"
+      "snippet": "Strategy Inc . offers comprehensive medical device consulting services for essential financial and market due diligence, such as: market analysis, fin"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.alibaba.com/",
+      "url": "https://industryselect.com/blog/top-10-manufacturing-companies-in-arizona",
       "query": "Strategy Inc suppliers manufacturers",
-      "snippet": "Find quality Manufacturers , Suppliers , Exporters, Importers, Buyers, Wholesalers, Products and Trade Leads from our award-winning International Trad"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/STRF-Customers",
-      "query": "Strategy Inc major customers clients",
-      "snippet": "Jan 30, 2026 · For your research, we’ve provided 9 tables on Strategy Inc corporate clients . You can find them in the navigation menu under Customers"
+      "snippet": "According to MNI, compiler of the industrial information that powers IndustrySelect, Arizona is currently home to 4,246 manufacturers employing 219,20"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.strategy.com/software/customer-stories",
       "query": "Strategy Inc major customers clients",
       "snippet": "Dive into Strategy customer stories highlighting the impact of Analytics in Healthcare, Financial Services, Call Centers, Retail, Insurance, and Gover"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.featuredcustomers.com/vendor/strategy",
+      "query": "Strategy Inc major customers clients",
+      "snippet": "Learn more about Strategy - use cases, approaches, & end results from real customers ; read customer reviews including 338 testimonials, videos, and c"
     }
   ]
 }

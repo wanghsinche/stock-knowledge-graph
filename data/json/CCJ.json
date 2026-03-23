@@ -3,11 +3,35 @@
   "company_name": "Cameco Corporation",
   "sector": "Energy",
   "industry": "Uranium",
-  "upstream": [],
-  "downstream": [],
-  "competitors": [],
-  "key_products": [],
-  "extracted_at": "2026-03-20 16:42:55",
+  "upstream": [
+    "CAT",
+    "Komatsu",
+    "Sandvik",
+    "DE",
+    "Hitachi"
+  ],
+  "downstream": [
+    "EDF (France)",
+    "EDF Energy (UK)",
+    "China National Nuclear Corporation",
+    "Westinghouse",
+    "GE Hitachi Nuclear Energy"
+  ],
+  "competitors": [
+    "Kazatomprom",
+    "Energy Fuels",
+    "Uranium Energy Corp",
+    "Uranium One",
+    "NexGen Energy"
+  ],
+  "key_products": [
+    "Natural uranium",
+    "Enriched uranium",
+    "Uranium hexafluoride (UF6)",
+    "Uranium ore",
+    "Uranium concentrate"
+  ],
+  "extracted_at": "2026-03-23 16:56:32",
   "sources": [
     {
       "source": "Wikipedia",
@@ -17,14 +41,26 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.cameco.com/about",
+      "url": "https://www.cameco.com/",
       "query": "Cameco Corporation suppliers manufacturers",
-      "snippet": "Cameco is one of the largest global providers of the uranium fuel needed to power a safe, secure energy future.Our competitive position is based on ou"
+      "snippet": "© 2026 Cameco Corp . Cameco is one of the largest global providers of the uranium fuel...March 19, 2026 Cameco Reports Document FilingsMarch 2, 2026 C"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://finance.yahoo.com/markets/stocks/articles/cameco-reports-document-filings-224100768.html",
       "query": "Cameco Corporation suppliers manufacturers",
+      "snippet": "The document includes Cameco ’s audited annual financial statements for the year ended December 31, 2025, its management’s discussion and analysis (MD"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.cameco.com/",
+      "query": "Cameco Corporation major customers clients",
+      "snippet": "© 2026 Cameco Corp .We are proud to be one of Canada’s largest employers of Indigenous people, and our land holdings, including exploration, span abou"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/cameco-reports-document-filings-224100768.html",
+      "query": "Cameco Corporation major customers clients",
       "snippet": "The document includes Cameco ’s audited annual financial statements for the year ended December 31, 2025, its management’s discussion and analysis (MD"
     }
   ]

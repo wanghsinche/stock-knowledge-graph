@@ -3,8 +3,8 @@ ticker: GLW
 company: Corning Incorporated
 sector: Technology
 industry: Electronic Components
-extracted_at: 2026-03-17 17:05:34
-last_updated: 2026-03-17
+extracted_at: 2026-03-23 16:54:48
+last_updated: 2026-03-23
 ---
 
 # GLW - Corning Incorporated
@@ -12,46 +12,46 @@ last_updated: 2026-03-17
 ## 基本信息
 
 - **所属行业**: Technology / Electronic Components
-- **提取时间**: 2026-03-17 17:05:34
+- **提取时间**: 2026-03-23 16:54:48
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Silica sand]]
-- [[Alumina]]
-- [[Boron]]
-- [[META]]
-- [[Chemical feedstocks]]
+- [[Saint‑Gobain]]
+- [[BASF]]
+- [[Dow Chemical]]
+- [[Linde]]
+- [[Corning’s own raw‑material suppliers]]
 
 ### 下游客户
-- [[CAT]]
-- [[Aerospace (Boeing, Airbus)]]
-- [[TSLA]]
 - [[AAPL]]
-- [[Medical devices (Siemens Healthineers)]]
+- [[005930.KS]]
+- [[MSFT]]
+- [[GOOGL]]
+- [[INTC]]
 
 ### 竞争对手
-- [[Lumentum]]
-- [[II-VI Incorporated]]
-- [[Coherent]]
-- [[Newport Corporation]]
-- [[Trumpf]]
+- [[Nikon]]
+- [[Canon]]
+- [[Zeiss]]
+- [[Schott AG]]
+- [[Edmund Optics]]
 
 ### 核心产品
-- [[Optical fiber]]
-- [[Optical components]]
-- [[Glass for smartphones]]
-- [[Glass for automotive]]
-- [[Glass for medical devices]]
+- [[Optical fibers]]
+- [[Fiber‑optic cables]]
+- [[Glass substrates for photonics]]
+- [[Advanced imaging optics]]
+- [[Photonic integrated circuits]]
 
 ## 数据来源
 
 - [Corning Inc.](https://en.wikipedia.org/wiki/Corning_Incorporated)
-- [Corning Incorporated suppliers manufacturers](https://en.wikipedia.org/wiki/Corning_Inc.)
-- [Corning Incorporated suppliers manufacturers](https://www.corning.com/worldwide/en.html)
-- [Corning Incorporated major customers clients](https://en.wikipedia.org/wiki/Corning_Inc.)
-- [Corning Incorporated major customers clients](https://www.corning.com/worldwide/en/about-us/company-profile.html)
+- [Corning Incorporated suppliers manufacturers](https://www.corning.com/optical-communications/worldwide/en/home/support/authorized-distributors.html)
+- [Corning Incorporated suppliers manufacturers](https://pv-magazine-usa.com/2025/07/22/corning-acquires-ja-solar-facility-in-arizona/)
+- [Corning Incorporated major customers clients](https://www.corning.com/worldwide/en.html)
+- [Corning Incorporated major customers clients](https://finance.yahoo.com/quote/GLW/)
 
 ## 元数据
 
-- **更新日期**: 2026-03-17
+- **更新日期**: 2026-03-23

@@ -6,32 +6,32 @@
   "upstream": [
     "TSM",
     "005930.KS",
-    "Foxconn",
-    "MU",
-    "GlobalFoundries"
+    "GlobalFoundries",
+    "UMC",
+    "ASE Group"
   ],
   "downstream": [
-    "AMZN",
+    "SONY",
     "MSFT",
-    "GOOGL",
+    "DELL",
     "TSLA",
-    "SONY"
+    "AMZN"
   ],
   "competitors": [
     "AMD",
     "INTC",
     "QCOM",
     "AVGO",
-    "ARM Holdings"
+    "AAPL"
   ],
   "key_products": [
     "GeForce GPUs",
-    "Tesla GPUs",
     "Quadro GPUs",
+    "Tesla GPUs",
     "Jetson SoCs",
     "CUDA API"
   ],
-  "extracted_at": "2026-03-20 16:32:32",
+  "extracted_at": "2026-03-23 16:45:57",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,25 +43,25 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Nvidia",
       "query": "NVIDIA Corporation suppliers manufacturers",
-      "snippet": "1 day ago - In August 2025, Nvidia ordered ... due to security concerns. The company directed suppliers including Taiwan Semiconductor Manufacturing C"
+      "snippet": "17 hours ago - In August 2025, Nvidia ordered ... due to security concerns. The company directed suppliers including Taiwan Semiconductor Manufacturin"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://medium.com/@farrago_course0f/exploring-the-key-companies-supplying-nvidia-a-comprehensive-overview-ebc639dd1d99",
+      "url": "https://www.theaireport.ai/partner-columns/nvidias-supply-chain--part-1",
       "query": "NVIDIA Corporation suppliers manufacturers",
-      "snippet": "February 16, 2024 - Samsung Electronics plays a pivotal role in NVIDIA’s supply chain, contributing to the fabrication of GPU chips and memory compone"
+      "snippet": "September 9, 2025 - Answering this simple question could unearth some investment opportunities that average ETF investors will miss. Here’s what you n"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.cnbc.com/2025/08/28/nvidias-top-two-mystery-customers-made-up-39percent-of-its-q2-revenue-.html",
+      "url": "https://www.fool.com/investing/2025/06/26/who-are-nvidias-biggest-customers/",
       "query": "NVIDIA Corporation major customers clients",
-      "snippet": "Aug 28, 2025 · Nvidia's top two customers making up 39% of its total revenue is renewing concern about the risk of the chipmakers clientele concentrat"
+      "snippet": "June 26, 2025 - Nvidia has amassed an impressive list of customers, which includes top AI developers like Amazon, Microsoft, and Alphabet ."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.nvidia.com/en-us/case-studies/",
+      "url": "https://www.fool.com/investing/2024/05/02/who-are-nvidias-largest-customers/",
       "query": "NVIDIA Corporation major customers clients",
-      "snippet": "See how industry leaders are driving innovations with AI, accelerated computing, and simulation to modernize business. Missing: major | Show results w"
+      "snippet": "May 2, 2024 - However, in its recent 10-K filing, the company did say that one customer represented 13% of its revenue from its compute and networking"
     }
   ]
 }

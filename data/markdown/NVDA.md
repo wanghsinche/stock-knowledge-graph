@@ -3,8 +3,8 @@ ticker: NVDA
 company: NVIDIA Corporation
 sector: Technology
 industry: Semiconductors
-extracted_at: 2026-03-20 16:32:32
-last_updated: 2026-03-20
+extracted_at: 2026-03-23 16:45:57
+last_updated: 2026-03-23
 ---
 
 # NVDA - NVIDIA Corporation
@@ -12,35 +12,35 @@ last_updated: 2026-03-20
 ## 基本信息
 
 - **所属行业**: Technology / Semiconductors
-- **提取时间**: 2026-03-20 16:32:32
+- **提取时间**: 2026-03-23 16:45:57
 
 ## 产业链关系
 
 ### 上游供应商
 - [[TSM]]
 - [[005930.KS]]
-- [[Foxconn]]
-- [[MU]]
 - [[GlobalFoundries]]
+- [[UMC]]
+- [[ASE Group]]
 
 ### 下游客户
-- [[AMZN]]
-- [[MSFT]]
-- [[GOOGL]]
-- [[TSLA]]
 - [[SONY]]
+- [[MSFT]]
+- [[DELL]]
+- [[TSLA]]
+- [[AMZN]]
 
 ### 竞争对手
 - [[AMD]]
 - [[INTC]]
 - [[QCOM]]
 - [[AVGO]]
-- [[ARM Holdings]]
+- [[AAPL]]
 
 ### 核心产品
 - [[GeForce GPUs]]
-- [[Tesla GPUs]]
 - [[Quadro GPUs]]
+- [[Tesla GPUs]]
 - [[Jetson SoCs]]
 - [[CUDA API]]
 
@@ -48,10 +48,10 @@ last_updated: 2026-03-20
 
 - [Nvidia](https://en.wikipedia.org/wiki/NVIDIA_Corporation)
 - [NVIDIA Corporation suppliers manufacturers](https://en.wikipedia.org/wiki/Nvidia)
-- [NVIDIA Corporation suppliers manufacturers](https://medium.com/@farrago_course0f/exploring-the-key-companies-supplying-nvidia-a-comprehensive-overview-ebc639dd1d99)
-- [NVIDIA Corporation major customers clients](https://www.cnbc.com/2025/08/28/nvidias-top-two-mystery-customers-made-up-39percent-of-its-q2-revenue-.html)
-- [NVIDIA Corporation major customers clients](https://www.nvidia.com/en-us/case-studies/)
+- [NVIDIA Corporation suppliers manufacturers](https://www.theaireport.ai/partner-columns/nvidias-supply-chain--part-1)
+- [NVIDIA Corporation major customers clients](https://www.fool.com/investing/2025/06/26/who-are-nvidias-biggest-customers/)
+- [NVIDIA Corporation major customers clients](https://www.fool.com/investing/2024/05/02/who-are-nvidias-largest-customers/)
 
 ## 元数据
 
-- **更新日期**: 2026-03-20
+- **更新日期**: 2026-03-23

@@ -4,18 +4,18 @@
   "sector": "Technology",
   "industry": "Software - Infrastructure",
   "upstream": [
-    "INTC",
-    "AMD",
-    "NVDA",
+    "DELL",
+    "HPQ",
+    "IBM",
     "CSCO",
-    "DELL"
+    "INTC"
   ],
   "downstream": [
+    "Walmart",
     "JPMorgan Chase",
     "AT&T",
-    "Walmart",
     "Bank of America",
-    "Verizon"
+    "Coca-Cola"
   ],
   "competitors": [
     "MSFT",
@@ -27,11 +27,11 @@
   "key_products": [
     "Oracle Database",
     "Oracle Cloud Infrastructure",
-    "Oracle ERP Cloud",
     "Oracle Autonomous Database",
-    "Oracle Analytics Cloud"
+    "Oracle ERP Cloud",
+    "Oracle Fusion Middleware"
   ],
-  "extracted_at": "2026-03-20 16:35:57",
+  "extracted_at": "2026-03-23 16:49:10",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.oracle.com/corporate/suppliers/",
+      "url": "https://en.wikipedia.org/wiki/Oracle_Corporation",
       "query": "Oracle Corporation suppliers manufacturers",
-      "snippet": "Oracle is always looking for suppliers who can meet our high quality standards and satisfy our ever-evolving business needs. We believe in the importa"
+      "snippet": "Oracle Corporation is an American multinational technology company headquartered in Austin, Texas. Co-founded in Santa Clara, California by Bob Miner,"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.oracle.com/partner/find-partner/",
+      "url": "https://www.alibaba.com/companies-oracle-corporation-suppliers.html",
       "query": "Oracle Corporation suppliers manufacturers",
-      "snippet": "Easily locate Oracle partners with expertise in building, selling, and providing value-added services for Oracle technology. Search by partner name, c"
+      "snippet": "companies oracle corporation suppliers . 1 Supplier (s). Favorites Compare.Assessed Supplier . Video. Good Quality Paper Oracle Cards Professional Pri"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.thomsondata.com/customer-base/oracle.php",
+      "url": "https://en.wikipedia.org/wiki/Oracle_Corporation",
       "query": "Oracle Corporation major customers clients",
-      "snippet": "Thomson Data makes it easy by offering an accurate and up-to-date list of companies that use Oracle. This list allows you to identify Oracle customers"
+      "snippet": "Oracle Corporation is an American multinational technology company headquartered in Austin, Texas. Co-founded in Santa Clara, California by Bob Miner,"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.oracle.com/customers/",
+      "url": "https://ru.wikipedia.org/wiki/Oracle",
       "query": "Oracle Corporation major customers clients",
-      "snippet": "Innovation, ease of use, better results—those are just some of the reasons organizations in all industries and of all sizes rely on Oracle to help the"
+      "snippet": "Oracle ( Oracle Corporation ) — американская корпорация, второй по размеру выручки разработчик программного обеспечения (после Microsoft), четвёртая к"
     }
   ]
 }

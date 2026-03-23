@@ -8,7 +8,7 @@
     "AMAT",
     "LRCX",
     "Tokyo Electron",
-    "KLA"
+    "TSM"
   ],
   "downstream": [
     "DELL",
@@ -20,18 +20,18 @@
   "competitors": [
     "AMD",
     "NVDA",
-    "TSM",
-    "005930.KS",
-    "AVGO"
+    "QCOM",
+    "AVGO",
+    "TSM"
   ],
   "key_products": [
     "Intel Core CPUs",
     "Intel Xeon CPUs",
-    "Intel chipsets",
-    "Intel Optane memory",
-    "Intel AI accelerators"
+    "Intel Xe GPUs",
+    "Intel FPGAs",
+    "Intel chipsets"
   ],
-  "extracted_at": "2026-03-20 16:35:09",
+  "extracted_at": "2026-03-23 16:48:45",
   "sources": [
     {
       "source": "Wikipedia",
@@ -53,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.intel.com/content/www/us/en/customer-spotlight/overview.html",
+      "url": "https://en.wikipedia.org/wiki/Intel",
       "query": "Intel Corporation major customers clients",
-      "snippet": "Explore the Intel Customer Spotlight for the latest customer stories, case studies, and testimonials highlighting data-centric innovations."
+      "snippet": "Intel Corporation is an American multinational technology company headquartered in Santa Clara, California. It designs, manufactures, and sells comput"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/INTC-Customers",
+      "url": "https://finance.yahoo.com/quote/INTC/",
       "query": "Intel Corporation major customers clients",
-      "snippet": "3 days ago · Intel customers and markets, results by customer and performance relative to INTC, by company and industry - CSIMarket"
+      "snippet": "Find the latest Intel Corporation (INTC) stock quote, history, news and other vital information to help you with your stock trading and investing."
     }
   ]
 }

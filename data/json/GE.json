@@ -1,13 +1,37 @@
 {
   "ticker": "GE",
-  "company_name": "GE Aerospace",
+  "company_name": "General Electric Company",
   "sector": "Industrials",
   "industry": "Aerospace & Defense",
-  "upstream": [],
-  "downstream": [],
-  "competitors": [],
-  "key_products": [],
-  "extracted_at": "2026-03-19 16:53:22",
+  "upstream": [
+    "Suppliers of turbine blades and compressor components",
+    "Manufacturers of fuel control systems",
+    "Avionics component suppliers",
+    "Materials suppliers for high‑temperature alloys",
+    "Electrical power system suppliers"
+  ],
+  "downstream": [
+    "Major airlines (e.g., United, Delta, American)",
+    "Commercial aircraft manufacturers (Boeing, Airbus, Embraer)",
+    "Regional jet operators",
+    "Military aircraft operators",
+    "Private jet operators"
+  ],
+  "competitors": [
+    "Pratt & Whitney (Raytheon)",
+    "Rolls‑Royce",
+    "Honeywell Aerospace",
+    "MTU Aero Engines",
+    "Safran"
+  ],
+  "key_products": [
+    "GE90 jet engine",
+    "CF6 family of engines",
+    "CF34 turbofan",
+    "T700 turboprop",
+    "T800/ T100 high‑speed turbofan"
+  ],
+  "extracted_at": "2026-03-23 16:52:57",
   "sources": [
     {
       "source": "Wikipedia",
@@ -23,9 +47,21 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://supplier.geaerospace.com/",
+      "url": "https://www.geaerospace.com/",
       "query": "GE Aerospace suppliers manufacturers",
-      "snippet": "GE Aerospace supplier portal provides suppliers the ability to access information and enter business transactions in an online and secure environment."
+      "snippet": "GE Aerospace is a world-leading provider of jet and turboprop engines, as well as integrated systems for commercial, military, business and general av"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/GE_Aerospace",
+      "query": "GE Aerospace major customers clients",
+      "snippet": "GE Aerospace ... General Electric Company, doing business as GE Aerospace , [4] is an American aircraft engine supplier that is headquartered in Evend"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.geaerospace.com/news/articles/midyear-musings-insights-our-customers",
+      "query": "GE Aerospace major customers clients",
+      "snippet": "Sep 8, 2025 · GE Aerospace is a world-leading provider of jet and turboprop engines, as well as integrated systems for commercial, military, business "
     }
   ]
 }

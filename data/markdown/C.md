@@ -1,48 +1,48 @@
 ---
 ticker: C
 company: Citigroup Inc.
-sector: Financial Services / Banks - Diversified
-industry: Diversified Banks
-extracted_at: 2026-03-19 16:56:07
-last_updated: 2026-03-19
+sector: Financial Services
+industry: Banks - Diversified
+extracted_at: 2026-03-23 16:55:00
+last_updated: 2026-03-23
 ---
 
 # C - Citigroup Inc.
 
 ## 基本信息
 
-- **所属行业**: Financial Services / Banks - Diversified / Diversified Banks
-- **提取时间**: 2026-03-19 16:56:07
+- **所属行业**: Financial Services / Banks - Diversified
+- **提取时间**: 2026-03-23 16:55:00
 
 ## 产业链关系
 
 ### 上游供应商
+- [[IBM]]
 - [[MSFT]]
-- [[Data providers (e.g., Bloomberg, Refinitiv)]]
-- [[Payment processors (e.g., Visa, Mastercard)]]
-- [[Regulatory compliance firms]]
-- [[Cybersecurity providers]]
+- [[Accenture]]
+- [[Deloitte]]
+- [[Bloomberg]]
 
 ### 下游客户
-- [[Retail banking customers]]
-- [[Corporate clients]]
-- [[Institutional investors]]
-- [[Wealth management clients]]
-- [[Credit card holders]]
+- [[AAPL]]
+- [[MSFT]]
+- [[U.S. Treasury]]
+- [[BlackRock Inc.]]
+- [[High‑net‑worth individuals]]
 
 ### 竞争对手
-- [[JPMorgan Chase]]
-- [[Bank of America]]
-- [[Wells Fargo]]
-- [[Goldman Sachs]]
+- [[JPMorgan Chase & Co.]]
+- [[Bank of America Corp.]]
+- [[Goldman Sachs Group Inc.]]
 - [[Morgan Stanley]]
+- [[Wells Fargo & Co.]]
 
 ### 核心产品
-- [[Investment banking services]]
-- [[Retail banking services]]
-- [[Credit cards]]
-- [[Wealth management]]
-- [[Capital markets]]
+- [[Investment Banking]]
+- [[Consumer Banking]]
+- [[Wealth Management]]
+- [[Credit Cards]]
+- [[Treasury & Trade Solutions]]
 
 ## 数据来源
 
@@ -50,8 +50,8 @@ last_updated: 2026-03-19
 - [Citigroup Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/Citigroup)
 - [Citigroup Inc. suppliers manufacturers](https://csimarket.com/stocks/C-Suppliers)
 - [Citigroup Inc. major customers clients](https://en.wikipedia.org/wiki/Citigroup)
-- [Citigroup Inc. major customers clients](https://csimarket.com/stocks/C-Customers)
+- [Citigroup Inc. major customers clients](https://littlesis.org/org/8)
 
 ## 元数据
 
-- **更新日期**: 2026-03-19
+- **更新日期**: 2026-03-23

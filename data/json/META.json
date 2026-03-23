@@ -5,17 +5,17 @@
   "industry": "Internet Content & Information",
   "upstream": [
     "NVDA",
-    "AMD",
-    "INTC",
-    "QCOM",
-    "CSCO"
+    "Data center infrastructure providers (e.g., Equinix, Digital Realty)",
+    "MSFT",
+    "CSCO",
+    "QCOM"
   ],
   "downstream": [
-    "Advertisers",
-    "App developers",
-    "Content creators",
-    "E-commerce merchants",
-    "Gaming developers"
+    "Advertisers (global brands, agencies)",
+    "App developers and game studios",
+    "Content creators and influencers",
+    "META",
+    "META"
   ],
   "competitors": [
     "GOOGL",
@@ -29,9 +29,11 @@
     "Instagram",
     "WhatsApp",
     "Messenger",
-    "Meta Ads"
+    "Meta Quest (VR/AR)",
+    "Threads",
+    "Meta Ads Platform"
   ],
-  "extracted_at": "2026-03-20 16:33:49",
+  "extracted_at": "2026-03-23 16:47:28",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,25 +45,25 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Meta_Platforms",
       "query": "Meta Platforms, Inc. suppliers manufacturers",
-      "snippet": "Meta owns and operates several prominent social media platforms and communication services, including Facebook, Instagram, WhatsApp, Messenger, Thread"
+      "snippet": "Meta Platforms , Inc . is an American multinational technology company headquartered in Menlo Park, California. Meta owns and operates several promine"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://forwork.meta.com/legal/mfw-subprocessor-list/",
+      "url": "https://www.meta.com/about/",
       "query": "Meta Platforms, Inc. suppliers manufacturers",
-      "snippet": "Nov 13, 2023 · Starting February 20, 2026, Meta Horizon managed services will no longer be available for purchase. Visit the Help Center to learn more"
+      "snippet": "Meta - Social Media Advertising Platform (Facebook & Instagram)."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Meta_Platforms",
+      "url": "https://ru.wikipedia.org/wiki/Meta_Platforms",
       "query": "Meta Platforms, Inc. major customers clients",
-      "snippet": "Meta owns and operates several prominent social media platforms and communication services, including Facebook, Instagram, WhatsApp, Messenger, Thread"
+      "snippet": "Meta Platforms , Inc . — американская транснациональная холдинговая компания, владеющая технологическим конгломератом и расположенная в Менло-Парке, К"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/META-Customers",
+      "url": "https://www.meta.com/about/",
       "query": "Meta Platforms, Inc. major customers clients",
-      "snippet": "For your research, we’ve provided 9 tables on Meta Platforms Inc corporate clients . You can find them in the navigation menu under Customers & Market"
+      "snippet": "Meta - Social Media Advertising Platform (Facebook & Instagram)."
     }
   ]
 }

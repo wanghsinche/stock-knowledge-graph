@@ -1,13 +1,37 @@
 {
   "ticker": "VRT",
   "company_name": "Vertiv Holdings Co",
-  "sector": "Industrials",
+  "sector": "Industrials / Electrical Equipment & Parts",
   "industry": "Electrical Equipment & Parts",
-  "upstream": [],
-  "downstream": [],
-  "competitors": [],
-  "key_products": [],
-  "extracted_at": "2026-03-20 16:40:11",
+  "upstream": [
+    "TXN",
+    "ADI",
+    "AVGO",
+    "STMicroelectronics",
+    "NXP Semiconductors"
+  ],
+  "downstream": [
+    "AMZN",
+    "MSFT",
+    "GOOGL",
+    "Equinix",
+    "AT&T"
+  ],
+  "competitors": [
+    "Schneider Electric",
+    "ABB",
+    "Siemens",
+    "Eaton",
+    "CSCO"
+  ],
+  "key_products": [
+    "Power Distribution Units (PDUs)",
+    "Uninterruptible Power Supplies (UPS)",
+    "Data Center Cooling Systems",
+    "Data Center Infrastructure Management (DCIM) Software",
+    "Rack‑mount Power and Cooling Equipment"
+  ],
+  "extracted_at": "2026-03-23 16:51:40",
   "sources": [
     {
       "source": "Wikipedia",
@@ -17,15 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/VRT/",
+      "url": "https://investors.vertiv.com/",
       "query": "Vertiv Holdings Co suppliers manufacturers",
-      "snippet": "News headlines Vertiv Holdings Co . (VRT) is experiencing significant momentum driven by strong Q4 earnings and strategic partnerships targeting AI da"
+      "snippet": "Vertiv Guides. AI Hub Guide to Data Center Sustainability.About Vertiv Executives Board of Directors Committee Composition Governance Documents Ethics"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://simplywall.st/stocks/us/capital-goods/nyse-vrt/vertiv-holdings-co",
       "query": "Vertiv Holdings Co suppliers manufacturers",
       "snippet": "Research Vertiv Holdings Co 's (NYSE:VRT) fundamentals, past performance, valuation, dividends and more."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.appsruntheworld.com/customers-database/vendors/view/vertiv",
+      "query": "Vertiv Holdings Co major customers clients",
+      "snippet": "List of companies using or evaluating Vertiv applications, with details on their revenues, employees, industries, and locations."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.vertiv.com/en-us/solutions/success-stories/",
+      "query": "Vertiv Holdings Co major customers clients",
+      "snippet": "The company partnered with Vertiv on an intensive 11-month engineering initiative to develop an integrated cooling system that could support both curr"
     }
   ]
 }

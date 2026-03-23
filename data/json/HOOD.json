@@ -1,37 +1,37 @@
 {
   "ticker": "HOOD",
   "company_name": "Robinhood Markets, Inc.",
-  "sector": "Financial Services",
-  "industry": "Capital Markets",
+  "sector": "Financial Services / Capital Markets",
+  "industry": "Online Brokerage",
   "upstream": [
-    "Cloud service providers (AWS, Azure)",
-    "Market data vendors (Bloomberg, Refinitiv)",
-    "Payment processors (Stripe, PayPal)",
-    "Regulatory technology firms",
-    "Technology infrastructure providers"
+    "Payment processors (e.g., Stripe, PayPal)",
+    "Market data providers (e.g., Bloomberg, Refinitiv)",
+    "GOOGL",
+    "Regulatory compliance services",
+    "Cybersecurity vendors"
   ],
   "downstream": [
     "Retail investors",
-    "High‑frequency traders",
+    "High-net-worth individuals",
     "Institutional clients",
-    "Financial advisors",
-    "Corporate clients"
+    "Day traders",
+    "Crypto traders"
   ],
   "competitors": [
     "Charles Schwab",
-    "E*TRADE",
     "Fidelity",
-    "Webull",
-    "SoFi Invest"
+    "E*TRADE",
+    "TD Ameritrade",
+    "Webull"
   ],
   "key_products": [
-    "Commission‑free stock trading",
+    "Commission-free stock trading",
+    "Robinhood Gold subscription",
     "Options trading",
     "Cryptocurrency trading",
-    "Margin trading",
-    "Cash management"
+    "Cash management services"
   ],
-  "extracted_at": "2026-03-20 16:40:21",
+  "extracted_at": "2026-03-23 16:51:28",
   "sources": [
     {
       "source": "Wikipedia",
@@ -53,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Robinhood_Markets",
+      "url": "https://investingintheweb.com/brokers/robinhood-statistics/",
       "query": "Robinhood Markets, Inc. major customers clients",
-      "snippet": "Robinhood Markets , Inc . is an American financial services company based in Menlo Park, California. It provides an electronic trading platform that f"
+      "snippet": "Jan 2, 2026 · Robinhood revenues Robinhood generates revenues through transaction-based revenues, net interest revenues, and other revenues. Transacti"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.investing.com/equities/robinhood-markets",
+      "url": "https://investors.robinhood.com/news-releases/news-release-details/robinhood-markets-inc-reports-february-2026-operating-data",
       "query": "Robinhood Markets, Inc. major customers clients",
-      "snippet": "- Robinhood Markets Inc . (NASDAQ: HOOD ) reported 27.4 million funded customers at the end of February, an... Investing.com."
+      "snippet": "Mar 12, 2026 · MENLO PARK, Calif., March 12, 2026 (GLOBE NEWSWIRE) -- Robinhood Markets , Inc . (“ Robinhood ”) (NASDAQ: HOOD) today reported select m"
     }
   ]
 }

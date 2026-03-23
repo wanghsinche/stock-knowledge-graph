@@ -1,37 +1,37 @@
 {
   "ticker": "AVGO",
   "company_name": "Broadcom Inc.",
-  "sector": "Technology / Semiconductors",
-  "industry": "Semiconductor Design & Manufacturing",
+  "sector": "Technology",
+  "industry": "Semiconductors",
   "upstream": [
     "TSM",
     "005930.KS",
     "GlobalFoundries",
     "UMC",
-    "ASML"
+    "INTC"
   ],
   "downstream": [
-    "VMware",
     "CSCO",
     "DELL",
     "HPQ",
-    "AMZN"
+    "AMZN",
+    "MSFT"
   ],
   "competitors": [
-    "INTC",
     "QCOM",
+    "INTC",
     "NVDA",
     "TXN",
     "AMD"
   ],
   "key_products": [
-    "Ethernet controllers",
-    "Wi‑Fi chips",
-    "Broadband modems",
-    "Storage controllers",
-    "Networking ASICs"
+    "Broadcom BCM series (Wi‑Fi & Bluetooth)",
+    "Broadcom Ethernet ASICs",
+    "Broadcom storage controllers",
+    "Broadcom wireless modems",
+    "Broadcom networking ASICs"
   ],
-  "extracted_at": "2026-03-20 16:35:01",
+  "extracted_at": "2026-03-23 16:47:40",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,9 +47,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.broadcom.com/how-to-buy/partner-distributor-lookup",
+      "url": "https://csimarket.com/stocks/AVGO-Suppliers",
       "query": "Broadcom Inc. suppliers manufacturers",
-      "snippet": "The Partner Locator will help you find the local expertise you need to be successful with Broadcom solutions. Begin searching by typing what you're lo"
+      "snippet": "Broadcom Inc supply chain, list and performance of Broadcom Incs ' suppliers - CSIMarket."
     },
     {
       "source": "DuckDuckGo",
@@ -59,9 +59,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://investors.broadcom.com/",
+      "url": "https://www.appsruntheworld.com/customers-database/vendors/view/broadcom",
       "query": "Broadcom Inc. major customers clients",
-      "snippet": "VMware Tanzu® Supercharges Portfolio to Help Customers Build, Run, and..."
+      "snippet": "List of companies using or evaluating Broadcom applications, with details on their revenues, employees, industries, and locations."
     }
   ]
 }

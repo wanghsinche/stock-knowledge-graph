@@ -1,37 +1,37 @@
 {
   "ticker": "IREN",
   "company_name": "IREN Limited",
-  "sector": "Financial Services",
-  "industry": "Capital Markets",
+  "sector": "Financial Services / Capital Markets",
+  "industry": "Data Center & Cloud Services",
   "upstream": [
-    "Bloomberg",
-    "Refinitiv",
-    "MSFT",
-    "AMZN",
-    "ORCL"
+    "DELL",
+    "CSCO",
+    "Schneider Electric",
+    "Local renewable energy developers",
+    "Power grid operators"
   ],
   "downstream": [
-    "Retail investors",
-    "Institutional investors",
-    "High net worth individuals",
-    "Corporate clients",
-    "Fund managers"
+    "AMZN",
+    "MSFT",
+    "GOOGL",
+    "OpenAI",
+    "UK government agencies"
   ],
   "competitors": [
-    "HSBC Securities",
-    "Citic Securities",
-    "Standard Chartered Securities",
-    "Bank of China Securities",
-    "Guangzhou Securities"
+    "Equinix",
+    "Digital Realty",
+    "Interxion",
+    "CyrusOne",
+    "QTS Realty Trust"
   ],
   "key_products": [
-    "Brokerage services",
-    "Wealth management",
-    "Investment research",
-    "Trading platform",
-    "Asset management"
+    "Renewable‑powered data center colocation",
+    "AI Cloud services",
+    "GPU cluster hosting",
+    "Managed edge computing",
+    "Power and cooling solutions"
   ],
-  "extracted_at": "2026-03-17 17:05:48",
+  "extracted_at": "2026-03-23 16:52:08",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/IREN/",
+      "url": "https://www.iren.com/",
       "query": "IREN Limited suppliers manufacturers",
+      "snippet": "Explore IREN 's 100% renewable-powered data centers offering AI Cloud, GPU clusters, colocation, and build-to-suit infrastructure for scalable compute"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/suppliers_glance.php?code=IREN",
+      "query": "IREN Limited suppliers manufacturers",
+      "snippet": "Iren Limited supply chain, list and performance of Iren Limiteds' suppliers - CSIMarket"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://uk.finance.yahoo.com/quote/IREN/",
+      "query": "IREN Limited major customers clients",
       "snippet": "Find the latest IREN Limited ( IREN ) stock quote, history, news and other vital information to help you with your stock trading and investing."
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.investing.com/equities/iris-energy",
-      "query": "IREN Limited suppliers manufacturers",
-      "snippet": "IREN Ltd stock price live, this page displays NASDAQ IREN stock exchange data. View the IREN premarket stock price ahead of the market session or asse"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/IREN-Customers",
       "query": "IREN Limited major customers clients",
-      "snippet": "Mar 9, 2026 · For your research, we’ve provided 9 tables on Iren Limited corporate clients . You can find them in the navigation menu under Customers "
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.msn.com/en-us/money/topstocks/irens-ai-client-base-expands-is-growth-becoming-more-durable/ar-AA1T5bT4",
-      "query": "IREN Limited major customers clients",
-      "snippet": "Beyond the highly visible $9.7 billion Microsoft AI cloud agreement, the company has added several multi-year AI cloud customers , including Together "
+      "snippet": "View today's IREN Ltd stock price and latest IREN news and analysis. Create real-time notifications to follow any changes in the live stock price."
     }
   ]
 }

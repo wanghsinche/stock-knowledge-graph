@@ -4,16 +4,16 @@
   "sector": "Communication Services",
   "industry": "Internet Content & Information",
   "upstream": [
-    "QCOM",
     "INTC",
-    "005930.KS",
     "TSM",
-    "NVDA"
+    "005930.KS",
+    "Foxconn",
+    "CSCO"
   ],
   "downstream": [
     "GOOGL",
-    "Android app developers",
     "YouTube content creators",
+    "005930.KS",
     "GOOGL",
     "GOOGL"
   ],
@@ -26,15 +26,12 @@
   ],
   "key_products": [
     "Google Search",
-    "Android OS",
     "YouTube",
+    "Android OS",
     "Google Cloud Platform",
-    "Google Ads",
-    "Google Chrome",
-    "Google Maps",
-    "Google Play"
+    "Google Ads"
   ],
-  "extracted_at": "2026-03-20 16:34:24",
+  "extracted_at": "2026-03-23 16:48:22",
   "sources": [
     {
       "source": "Wikipedia",
@@ -44,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/List_of_mergers_and_acquisitions_by_Alphabet",
+      "url": "https://en.wikipedia.org/wiki/Alphabet_Inc.",
       "query": "Alphabet Inc. suppliers manufacturers",
-      "snippet": "To date, Alphabet has divested itself of four [4] business units: Frommers, which was sold back to Arthur Frommer in April 2012; [5] SketchUp, which w"
+      "snippet": "Alphabet Inc . is an American multinational technology conglomerate holding company headquartered in Mountain View, California. It was created through"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Alphabet_Inc.",
+      "url": "https://csimarket.com/stocks/GOOG-Suppliers",
       "query": "Alphabet Inc. suppliers manufacturers",
-      "snippet": "Alphabet Inc . has faced numerous legal and ethical controversies, including a 2017 lawsuit against Uber over stolen self-driving technology, a 2020 p"
+      "snippet": "Alphabet Inc supply chain, list and performance of Alphabet Incs ' suppliers - CSIMarket."
     },
     {
       "source": "DuckDuckGo",
       "url": "https://csimarket.com/stocks/GOOG-Customers",
       "query": "Alphabet Inc. major customers clients",
-      "snippet": "For your research, we’ve provided 9 tables on Alphabet Inc corporate clients . You can find them in the navigation menu under Customers & Markets. To "
+      "snippet": "Alphabet Inc customers and markets, results by customer and performance relative to GOOG, by company and industry - CSIMarket"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://pitchgrade.com/companies/alphabet-inc",
       "query": "Alphabet Inc. major customers clients",
-      "snippet": "Jan 16, 2026 · Customer Segments: Alphabet Inc . serves multiple distinct customer segments, which may include consumers, small and medium businesses,"
+      "snippet": "Jan 15, 2026 · Customer Segments: Alphabet Inc . serves multiple distinct customer segments, which may include consumers, small and medium businesses,"
     }
   ]
 }
