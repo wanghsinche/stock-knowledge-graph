@@ -7,15 +7,15 @@
     "INTC",
     "AMD",
     "NVDA",
-    "TSM",
-    "QCOM"
+    "QCOM",
+    "005930.KS"
   ],
   "downstream": [
+    "Enterprise customers",
+    "Government agencies",
     "DELL",
-    "HPQ",
-    "Lenovo",
-    "005930.KS",
-    "SONY"
+    "Retail consumers",
+    "Cloud service users"
   ],
   "competitors": [
     "GOOGL",
@@ -25,13 +25,13 @@
     "NVDA"
   ],
   "key_products": [
-    "Windows",
-    "Office",
-    "Azure",
-    "Xbox",
-    "Teams"
+    "Windows operating system",
+    "Microsoft 365 (Office suite)",
+    "Azure cloud platform",
+    "Xbox gaming console",
+    "Microsoft Teams"
   ],
-  "extracted_at": "2026-03-23 16:47:02",
+  "extracted_at": "2026-03-24 16:56:45",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Microsoft",
+      "url": "https://partner.microsoft.com/en-us/partnership/find-a-partner",
       "query": "Microsoft Corporation suppliers manufacturers",
+      "snippet": "Find the right partner for you Microsoft partners offer the technical expertise, services, and solutions you need to transform your business, be profi"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/MSFT-Suppliers",
+      "query": "Microsoft Corporation suppliers manufacturers",
+      "snippet": "Jan 29, 2026 · Microsoft supply chain, list and performance of Microsofts' suppliers - CSIMarket"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/Microsoft",
+      "query": "Microsoft Corporation major customers clients",
       "snippet": "Microsoft Corporation , or simply Microsoft , is an American multinational technology conglomerate headquartered in Redmond, Washington. Founded in 19"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.alibaba.com/",
-      "query": "Microsoft Corporation suppliers manufacturers",
-      "snippet": "Find quality Manufacturers , Suppliers , Exporters, Importers, Buyers, Wholesalers, Products and Trade Leads from our award-winning International Trad"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.microsoft.com/en-us/customers/",
+      "url": "https://247wallst.com/special-report/2012/04/30/american-companies-with-the-most-customers/",
       "query": "Microsoft Corporation major customers clients",
-      "snippet": "Explore customer success stories to learn how businesses are overcoming challenges, driving innovation, and achieving more with Microsoft solutions."
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/MSFT-Customers",
-      "query": "Microsoft Corporation major customers clients",
-      "snippet": "6 days ago · Microsoft customers and markets, results by customer and performance relative to MSFT, by company and industry - CSIMarket"
+      "snippet": "The figure is large, but not extraordinary. Some consumer products and consumer electronics companies sell their products to a considerably larger num"
     }
   ]
 }

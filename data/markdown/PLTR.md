@@ -3,8 +3,8 @@ ticker: PLTR
 company: Palantir Technologies Inc.
 sector: Technology
 industry: Software - Infrastructure
-extracted_at: 2026-03-23 16:46:41
-last_updated: 2026-03-23
+extracted_at: 2026-03-24 17:00:49
+last_updated: 2026-03-24
 ---
 
 # PLTR - Palantir Technologies Inc.
@@ -12,7 +12,7 @@ last_updated: 2026-03-23
 ## 基本信息
 
 - **所属行业**: Technology / Software - Infrastructure
-- **提取时间**: 2026-03-23 16:46:41
+- **提取时间**: 2026-03-24 17:00:49
 
 ## 产业链关系
 
@@ -20,38 +20,38 @@ last_updated: 2026-03-23
 - [[AMZN]]
 - [[MSFT]]
 - [[GOOGL]]
-- [[IBM]]
 - [[ORCL]]
+- [[IBM]]
 
 ### 下游客户
 - [[U.S. Department of Defense]]
 - [[INTC]]
 - [[Federal Bureau of Investigation]]
-- [[JPMorgan Chase]]
-- [[Goldman Sachs]]
+- [[Walmart Inc.]]
+- [[JPMorgan Chase & Co.]]
 
 ### 竞争对手
-- [[Snowflake]]
-- [[Databricks]]
-- [[Splunk]]
-- [[Tableau]]
-- [[MSFT]]
+- [[Snowflake Inc.]]
+- [[Databricks Inc.]]
+- [[Splunk Inc.]]
+- [[CRM]]
+- [[Qlik Technologies]]
 
 ### 核心产品
 - [[Gotham]]
 - [[Foundry]]
 - [[Palantir Apollo]]
+- [[Palantir Helix]]
 - [[Palantir Data Lake]]
-- [[Palantir Analytics Suite]]
 
 ## 数据来源
 
 - [Palantir](https://en.wikipedia.org/wiki/Palantir_Technologies_Inc.)
-- [Palantir Technologies Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/Palantir_Technologies)
-- [Palantir Technologies Inc. suppliers manufacturers](https://data.ark.ai/analysis/suppliers/palantir-usg-inc-supplier-profile-overview/)
-- [Palantir Technologies Inc. major customers clients](https://en.wikipedia.org/wiki/Palantir_Technologies)
-- [Palantir Technologies Inc. major customers clients](https://www.statista.com/statistics/1286996/palantir-technologies-number-of-customers/)
+- [Palantir Technologies Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/Palantir)
+- [Palantir Technologies Inc. suppliers manufacturers](https://finance.yahoo.com/quote/PLTR/)
+- [Palantir Technologies Inc. major customers clients](https://data.landbase.com/technology/palantir/)
+- [Palantir Technologies Inc. major customers clients](https://www.appsruntheworld.com/customers-database/products/view/palantir-foundry)
 
 ## 元数据
 
-- **更新日期**: 2026-03-23
+- **更新日期**: 2026-03-24

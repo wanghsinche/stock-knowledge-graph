@@ -4,34 +4,34 @@
   "sector": "Consumer Cyclical",
   "industry": "Internet Retail",
   "upstream": [
-    "Book publishers",
-    "Electronics manufacturers",
-    "Clothing brands",
-    "Home goods manufacturers",
-    "AMZN"
+    "AAPL",
+    "005930.KS",
+    "Nike",
+    "SONY",
+    "DELL"
   ],
   "downstream": [
+    "Retail consumers",
     "AMZN",
     "AMZN",
-    "AMZN",
-    "AMZN",
-    "General retail consumers"
+    "Government agencies",
+    "Enterprise customers"
   ],
   "competitors": [
     "Walmart",
-    "eBay",
     "Alibaba",
-    "Shopify",
-    "Target"
+    "eBay",
+    "Target",
+    "Shopify"
   ],
   "key_products": [
-    "Amazon.com e‑commerce platform",
-    "Amazon Prime subscription services",
-    "Amazon Web Services (cloud computing)",
-    "Amazon Devices (Echo, Kindle, Fire)",
-    "Amazon Advertising"
+    "Amazon.com e-commerce platform",
+    "Amazon Web Services",
+    "Amazon Prime Video",
+    "Amazon Echo (Alexa)",
+    "Amazon Kindle"
   ],
-  "extracted_at": "2026-03-23 16:46:53",
+  "extracted_at": "2026-03-24 17:09:05",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.ecomdepotwholesale.com/post/list-of-amazon-authorized-suppliers-for-2024-the-complete-guide-to-finding-verified-suppliers",
+      "url": "https://www.alibaba.com/",
       "query": "Amazon.com, Inc. suppliers manufacturers",
-      "snippet": "Oct 21, 2024 · Explore the complete list of Amazon authorized suppliers for 2024 and find verified partners for your FBA business. EcommDepot offers e"
+      "snippet": "Find quality Manufacturers , Suppliers , Exporters, Importers, Buyers, Wholesalers, Products and Trade Leads from our award-winning International Trad"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://bigframe.net/who-are-amazons-main-suppliers/",
+      "url": "https://us.amazon.com/",
       "query": "Amazon.com, Inc. suppliers manufacturers",
-      "snippet": "Oct 6, 2023 · Understanding Amazon’s Supply Chain Amazon’s supply chain is a complex network of manufacturers , distributors, and third-party sellers."
+      "snippet": "Enjoy low prices and great deals on the largest selection of everyday essentials and other products, including fashion, home, beauty, electronics, Ale"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://us.amazon.com/",
+      "query": "Amazon.com, Inc. major customers clients",
+      "snippet": "Reach customers wherever they spend their time."
     },
     {
       "source": "DuckDuckGo",
       "url": "https://ir.aboutamazon.com/",
       "query": "Amazon.com, Inc. major customers clients",
-      "snippet": "The Spheres. Select awards and recognition. Amazon . com Conditions of Use © 1996- Amazon . com , Inc . - IR or its affiliates."
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.amazon.com.tr/",
-      "query": "Amazon.com, Inc. major customers clients",
-      "snippet": "Amazon . com .tr araması yapın. Merhaba, Giriş yapın. Hesap ve Listeler. Amazon . com .tr uygulamasında yapacağın ilk 750 TL ve üzeri alışverişte geçe"
+      "snippet": "Amazon . com , Inc . (NASDAQ: AMZN) today announced financial results for its second quarter ended June 30, 2025. Net sales increased 13% to $167.7 bi"
     }
   ]
 }

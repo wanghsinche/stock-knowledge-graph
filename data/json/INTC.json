@@ -4,17 +4,17 @@
   "sector": "Technology",
   "industry": "Semiconductors",
   "upstream": [
-    "ASML",
-    "AMAT",
-    "LRCX",
-    "Tokyo Electron",
-    "TSM"
+    "TSM",
+    "005930.KS",
+    "GlobalFoundries",
+    "MU",
+    "SK Hynix"
   ],
   "downstream": [
     "DELL",
     "HPQ",
-    "Lenovo",
-    "AAPL",
+    "Lenovo Group",
+    "AMZN",
     "MSFT"
   ],
   "competitors": [
@@ -29,9 +29,9 @@
     "Intel Xeon CPUs",
     "Intel Xe GPUs",
     "Intel FPGAs",
-    "Intel chipsets"
+    "Intel Network Processors"
   ],
-  "extracted_at": "2026-03-23 16:48:45",
+  "extracted_at": "2026-03-24 17:32:55",
   "sources": [
     {
       "source": "Wikipedia",
@@ -53,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Intel",
+      "url": "https://www.intel.com/content/www/us/en/customer-spotlight/overview.html",
       "query": "Intel Corporation major customers clients",
-      "snippet": "Intel Corporation is an American multinational technology company headquartered in Santa Clara, California. It designs, manufactures, and sells comput"
+      "snippet": "Explore the Intel Customer Spotlight for the latest customer stories, case studies, and testimonials highlighting data-centric innovations."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/INTC/",
+      "url": "https://csimarket.com/stocks/INTC-Customers",
       "query": "Intel Corporation major customers clients",
-      "snippet": "Find the latest Intel Corporation (INTC) stock quote, history, news and other vital information to help you with your stock trading and investing."
+      "snippet": "1 day ago · Intel customers and markets, results by customer and performance relative to INTC, by company and industry - CSIMarket"
     }
   ]
 }

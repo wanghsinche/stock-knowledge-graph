@@ -4,18 +4,18 @@
   "sector": "Financial Services",
   "industry": "Banks - Diversified",
   "upstream": [
-    "ORCL",
     "MSFT",
+    "ORCL",
     "IBM",
-    "AMZN",
-    "Visa"
+    "SAP",
+    "CRM"
   ],
   "downstream": [
-    "Retail depositors",
-    "Small business owners",
+    "Retail banking customers",
+    "Small and Medium Enterprises (SMEs)",
     "Corporate clients",
-    "High‑net‑worth individuals",
-    "Institutional investors"
+    "Institutional investors",
+    "Mortgage borrowers"
   ],
   "competitors": [
     "JPMorgan Chase",
@@ -25,13 +25,13 @@
     "Morgan Stanley"
   ],
   "key_products": [
-    "Checking accounts",
-    "Savings accounts",
-    "Credit cards",
-    "Mortgages",
-    "Investment banking services"
+    "Retail banking",
+    "Commercial banking",
+    "Investment banking",
+    "Wealth management",
+    "Credit cards"
   ],
-  "extracted_at": "2026-03-20 16:41:06",
+  "extracted_at": "2026-03-24 18:14:06",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,9 +47,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.bankofamerica.com/online-banking/sign-in/",
+      "url": "https://ru.wikipedia.org/wiki/Bank_of_America",
       "query": "Bank of America Corporation suppliers manufacturers",
-      "snippet": "Log in to Mobile & Online Banking to access your personal and small business accounts, see balances, transfer funds, pay bills and more.Log in to Onli"
+      "snippet": "Bank of America , «Бэнк оф Америка», Банк Америки — американский финансовый конгломерат, оказывающий широкий спектр финансовых услуг частным и юридиче"
     },
     {
       "source": "DuckDuckGo",
@@ -61,7 +61,7 @@
       "source": "DuckDuckGo",
       "url": "https://csimarket.com/stocks/BAC-Customers",
       "query": "Bank of America Corporation major customers clients",
-      "snippet": "6 days ago · For your research, we’ve provided 9 tables on Bank Of America Corporation corporate clients . You can find them in the navigation menu un"
+      "snippet": "1 day ago · Bank Of America customers and markets, results by customer and performance relative to BAC, by company and industry - CSIMarket"
     }
   ]
 }

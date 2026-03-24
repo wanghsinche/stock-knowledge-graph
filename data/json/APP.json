@@ -4,34 +4,34 @@
   "sector": "Communication Services",
   "industry": "Advertising Agencies",
   "upstream": [
-    "AAPL",
-    "005930.KS",
     "GOOGL",
+    "AMZN",
     "MSFT",
-    "AMZN"
+    "AAPL",
+    "Data providers (e.g., Acxiom)"
   ],
   "downstream": [
-    "Game developers",
-    "App developers",
-    "Mobile advertisers",
-    "Digital marketing agencies",
-    "Brands"
+    "Mobile game developers",
+    "App publishers",
+    "Social media app developers",
+    "E‑commerce app developers",
+    "Media companies"
   ],
   "competitors": [
     "Unity Ads",
-    "AdMob",
+    "GOOGL",
     "Facebook Audience Network",
-    "Vungle",
-    "InMobi"
+    "IronSource",
+    "Vungle"
   ],
   "key_products": [
     "AppLovin MAX",
+    "AppLovin Studio",
     "AppLovin SDK",
-    "AppLovin Video Ads",
-    "AppLovin App Discovery",
+    "AppLovin Data",
     "AppLovin Analytics"
   ],
-  "extracted_at": "2026-03-23 16:51:53",
+  "extracted_at": "2026-03-24 18:04:17",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,13 +43,13 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/AppLovin",
       "query": "AppLovin Corporation suppliers manufacturers",
-      "snippet": "AppLovin Corporation is an American mobile technology company headquartered in Palo Alto, California. Founded in 2012, the company helps developers ma"
+      "snippet": "AppLovin Corporation is an American mobile technology company headquartered in Palo Alto, California. [3] Founded in 2012, the company helps developer"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.applovin.com/",
+      "url": "https://csimarket.com/stocks/APP-Suppliers",
       "query": "AppLovin Corporation suppliers manufacturers",
-      "snippet": "AppLovin enables businesses to advertise profitably with marketing technologies that attract customers, increase revenue, and track ad performance."
+      "snippet": "Sources: Applovin Corporation 's official press releases and regulatory filings; CSIMarket.com's supply -chain research; and the financial filings and"
     },
     {
       "source": "DuckDuckGo",

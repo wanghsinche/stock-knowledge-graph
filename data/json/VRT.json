@@ -4,11 +4,11 @@
   "sector": "Industrials / Electrical Equipment & Parts",
   "industry": "Electrical Equipment & Parts",
   "upstream": [
-    "TXN",
-    "ADI",
-    "AVGO",
-    "STMicroelectronics",
-    "NXP Semiconductors"
+    "Siemens",
+    "ABB",
+    "Schneider Electric",
+    "Honeywell",
+    "General Electric"
   ],
   "downstream": [
     "AMZN",
@@ -20,18 +20,18 @@
   "competitors": [
     "Schneider Electric",
     "ABB",
-    "Siemens",
     "Eaton",
-    "CSCO"
+    "CSCO",
+    "DELL"
   ],
   "key_products": [
     "Power Distribution Units (PDUs)",
     "Uninterruptible Power Supplies (UPS)",
-    "Data Center Cooling Systems",
-    "Data Center Infrastructure Management (DCIM) Software",
-    "Rack‑mount Power and Cooling Equipment"
+    "Cooling Systems",
+    "Environmental Monitoring",
+    "Infrastructure Management Software"
   ],
-  "extracted_at": "2026-03-23 16:51:40",
+  "extracted_at": "2026-03-24 18:09:48",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,9 +47,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://simplywall.st/stocks/us/capital-goods/nyse-vrt/vertiv-holdings-co",
+      "url": "https://finance.yahoo.com/quote/VRT/",
       "query": "Vertiv Holdings Co suppliers manufacturers",
-      "snippet": "Research Vertiv Holdings Co 's (NYSE:VRT) fundamentals, past performance, valuation, dividends and more."
+      "snippet": "Find the latest Vertiv Holdings Co (VRT) stock quote, history, news and other vital information to help you with your stock trading and investing."
     },
     {
       "source": "DuckDuckGo",

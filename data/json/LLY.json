@@ -3,11 +3,35 @@
   "company_name": "Eli Lilly and Company",
   "sector": "Healthcare",
   "industry": "Drug Manufacturers - General",
-  "upstream": [],
-  "downstream": [],
-  "competitors": [],
-  "key_products": [],
-  "extracted_at": "2026-03-23 16:52:36",
+  "upstream": [
+    "Lonza",
+    "CAT",
+    "Thermo Fisher Scientific",
+    "Merck KGaA",
+    "Boehringer Ingelheim"
+  ],
+  "downstream": [
+    "United States Department of Veterans Affairs",
+    "United Kingdom National Health Service",
+    "United States Department of Defense",
+    "Health insurance providers",
+    "Pharmacy benefit managers"
+  ],
+  "competitors": [
+    "Pfizer",
+    "Johnson & Johnson",
+    "Novartis",
+    "Merck & Co.",
+    "AbbVie"
+  ],
+  "key_products": [
+    "Humira",
+    "Trulicity",
+    "Cymbalta",
+    "Zyprexa",
+    "Cialis"
+  ],
+  "extracted_at": "2026-03-24 18:04:30",
   "sources": [
     {
       "source": "Wikipedia",
@@ -23,9 +47,21 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.lilly.com/suppliers",
+      "url": "https://ru.wikipedia.org/wiki/Eli_Lilly_and_Company",
       "query": "Eli Lilly and Company suppliers manufacturers",
-      "snippet": "Supplier relationships are an important piece of the company , and we’re proud to offer mentorship and advocacy to small and under-leveraged businesse"
+      "snippet": "Eli Lilly and Company — американская фармацевтическая компания. Была основана в 1876 году в Индианаполисе, где по-прежнему располагается её штаб-кварт"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/Eli_Lilly_and_Company",
+      "query": "Eli Lilly and Company major customers clients",
+      "snippet": "Eli Lilly and Company , doing business as Lilly , is an American multinational pharmaceutical company headquartered in Indianapolis, Indiana, with off"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.linkedin.com/company/eli-lilly-and-company",
+      "query": "Eli Lilly and Company major customers clients",
+      "snippet": "Eli Lilly and Company | 2,610,095 followers on LinkedIn. We're a medicine company turning science into healing to make life better for people around t"
     }
   ]
 }

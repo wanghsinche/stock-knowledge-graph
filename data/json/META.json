@@ -4,36 +4,34 @@
   "sector": "Communication Services",
   "industry": "Internet Content & Information",
   "upstream": [
+    "INTC",
+    "AMD",
     "NVDA",
-    "Data center infrastructure providers (e.g., Equinix, Digital Realty)",
-    "MSFT",
-    "CSCO",
-    "QCOM"
+    "QCOM",
+    "CSCO"
   ],
   "downstream": [
-    "Advertisers (global brands, agencies)",
-    "App developers and game studios",
-    "Content creators and influencers",
-    "META",
-    "META"
+    "Advertisers (global brands)",
+    "App developers",
+    "Media companies",
+    "Businesses",
+    "Content creators"
   ],
   "competitors": [
     "GOOGL",
     "AMZN",
     "AAPL",
     "MSFT",
-    "ByteDance (TikTok)"
+    "NVDA"
   ],
   "key_products": [
     "Facebook",
     "Instagram",
     "WhatsApp",
     "Messenger",
-    "Meta Quest (VR/AR)",
-    "Threads",
-    "Meta Ads Platform"
+    "Threads"
   ],
-  "extracted_at": "2026-03-23 16:47:28",
+  "extracted_at": "2026-03-24 17:12:51",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,15 +41,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Meta_Platforms",
-      "query": "Meta Platforms, Inc. suppliers manufacturers",
-      "snippet": "Meta Platforms , Inc . is an American multinational technology company headquartered in Menlo Park, California. Meta owns and operates several promine"
-    },
-    {
-      "source": "DuckDuckGo",
       "url": "https://www.meta.com/about/",
       "query": "Meta Platforms, Inc. suppliers manufacturers",
       "snippet": "Meta - Social Media Advertising Platform (Facebook & Instagram)."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.alibaba.com/",
+      "query": "Meta Platforms, Inc. suppliers manufacturers",
+      "snippet": "Find quality Manufacturers , Suppliers , Exporters, Importers, Buyers, Wholesalers, Products and Trade Leads from our award-winning International Trad"
     },
     {
       "source": "DuckDuckGo",

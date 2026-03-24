@@ -1,37 +1,37 @@
 {
   "ticker": "CRWV",
   "company_name": "CoreWeave, Inc.",
-  "sector": "Technology / Software - Infrastructure",
-  "industry": "Artificial Intelligence Cloud Computing",
+  "sector": "Technology",
+  "industry": "Software - Infrastructure",
   "upstream": [
     "NVDA",
     "AMD",
     "INTC",
-    "AMZN",
-    "MSFT"
+    "QCOM",
+    "005930.KS"
   ],
   "downstream": [
-    "AI research labs",
-    "Tech startups",
-    "Enterprise software firms",
-    "Financial services",
-    "Healthcare analytics companies"
+    "OpenAI",
+    "MSFT",
+    "GOOGL",
+    "AMZN",
+    "IBM"
   ],
   "competitors": [
     "NVDA",
     "GOOGL",
-    "AWS Inferentia",
     "MSFT",
+    "AMZN",
     "IBM"
   ],
   "key_products": [
-    "GPU‑based AI cloud infrastructure",
-    "GPU management software",
+    "GPU-based AI cloud infrastructure",
+    "Chip management software",
+    "GPU-as-a-Service platform",
     "AI training and inference services",
-    "Custom GPU cluster solutions",
-    "Scalable GPU resource orchestration"
+    "Custom AI compute solutions"
   ],
-  "extracted_at": "2026-03-23 16:55:23",
+  "extracted_at": "2026-03-24 17:55:08",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,25 +43,25 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/CoreWeave",
       "query": "CoreWeave, Inc. suppliers manufacturers",
-      "snippet": "CoreWeave , Inc . is an American artificial intelligence (AI) cloud-computing company based in Livingston, New Jersey."
+      "snippet": "CoreWeave, Inc. is an American artificial intelligence (AI) cloud-computing company based in Livingston, New Jersey. It specializes in providing cloud"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.coreweave.com/",
       "query": "CoreWeave, Inc. suppliers manufacturers",
-      "snippet": "CoreWeave screenshot - 20 Meilleurs Fournisseurs de Services Cloud Gérés..."
+      "snippet": "“CoreWeave's ability to deliver reliable, cutting-edge hardware has consistently met the demands of our critical workloads. We also value their flexib"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/CoreWeave",
       "query": "CoreWeave, Inc. major customers clients",
-      "snippet": "CoreWeave , Inc . is an American artificial intelligence cloud-computing company based in Livingston, New Jersey. It specializes in providing cloud-ba"
+      "snippet": "CoreWeave , Inc . is an American artificial intelligence (AI) cloud-computing company based in Livingston, New Jersey. It specializes in providing clo"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.barchart.com/story/news/852590/coreweave-stock-forecast-buy-sell-or-hold",
+      "url": "https://www.coreweave.com/case-studies",
       "query": "CoreWeave, Inc. major customers clients",
-      "snippet": "CoreWeave is experiencing strong demand across a diversified customer base, while its contracted revenue backlog rose to $66.8 billion."
+      "snippet": "Customer stories Where Customers Become Pioneers Discover how CoreWeave customers transform ambition into achievement. These pioneers are shaping the "
     }
   ]
 }

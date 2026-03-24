@@ -4,24 +4,24 @@
   "sector": "Consumer Cyclical",
   "industry": "Auto Manufacturers",
   "upstream": [
-    "LG Chem (battery cells)",
-    "Panasonic (battery cells)",
-    "Bosch (autonomous driving components)",
-    "NVDA",
-    "Denso (electrical components)"
+    "Panasonic",
+    "LG Chem",
+    "CAT",
+    "005930.KS",
+    "Bosch"
   ],
   "downstream": [
-    "Individual consumers (private vehicle buyers)",
-    "Commercial fleet operators (e.g., Uber, Lyft)",
-    "Utility companies (grid‑scale Powerpack customers)",
-    "Residential customers (Powerwall owners)",
-    "Solar installation companies (Solar Roof partners)"
+    "Individual consumers (private car buyers)",
+    "Commercial fleet operators",
+    "Utility companies (grid‑scale storage)",
+    "Government agencies",
+    "Retail energy customers (Powerwall users)"
   ],
   "competitors": [
-    "Ford Motor Company",
     "General Motors",
-    "Volkswagen Group",
-    "NIO Inc.",
+    "Ford",
+    "Volkswagen",
+    "Rivian",
     "Lucid Motors"
   ],
   "key_products": [
@@ -29,9 +29,9 @@
     "Model 3",
     "Model X",
     "Model Y",
-    "Cybertruck"
+    "Powerwall"
   ],
-  "extracted_at": "2026-03-23 16:46:07",
+  "extracted_at": "2026-03-24 16:52:10",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/List_of_Tesla_factories",
+      "url": "https://en.wikipedia.org/wiki/Tesla,_Inc.",
       "query": "Tesla, Inc. suppliers manufacturers",
-      "snippet": "List of Tesla factories Robotic manufacturing of the Model S at the Tesla Factory in Fremont, California Tesla, Inc . manufactures their products worl"
+      "snippet": "2 days ago - The practice of vertical integration is rare in the automotive industry, where companies typically outsource 80% of components to supplie"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.investopedia.com/ask/answers/052815/who-are-teslas-tsla-main-suppliers.asp",
       "query": "Tesla, Inc. suppliers manufacturers",
-      "snippet": "Nov 4, 2025 · Discover Tesla's key and rumored parts suppliers . Learn which companies provide essential components for Tesla's electric vehicles and "
+      "snippet": "November 4, 2025 - Tesla manufactures key components like the electric motor, battery pack, and charger, but relies on suppliers for other parts. Key "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Tesla,_Inc.",
+      "url": "https://businessmodelanalyst.com/tesla-target-market/",
       "query": "Tesla, Inc. major customers clients",
-      "snippet": "Tesla , Inc . is an American multinational automotive and clean energy company. Tesla was incorporated in July 2003 by Martin Eberhard and Marc Tarpen"
+      "snippet": "Nov 7, 2024 · This article explores the intricacies of Tesla target market, analyzing the demographic, geographic, psychographic, and behavioral facto"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.tesla.com/",
+      "url": "https://csimarket.com/stocks/TSLA-Customers",
       "query": "Tesla, Inc. major customers clients",
-      "snippet": "Video Guides. Customer Stories. Events. Safety.Explore limited-time offers on Tesla vehicles."
+      "snippet": "Tesla Inc customers and markets, results by customer and performance relative to TSLA, by company and industry - CSIMarket"
     }
   ]
 }

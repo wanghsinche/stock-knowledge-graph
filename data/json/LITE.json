@@ -1,37 +1,37 @@
 {
   "ticker": "LITE",
   "company_name": "Lumentum Holdings Inc.",
-  "sector": "Technology",
-  "industry": "Communication Equipment",
+  "sector": "Technology / Communication Equipment",
+  "industry": "Photonics / Optical Communications",
   "upstream": [
-    "INTC",
-    "Optical fiber suppliers (e.g., Corning)",
-    "Laser diode suppliers (e.g., II‑VI, Coherent)",
-    "Photonic component suppliers (e.g., Lattice Semiconductor)",
-    "AMAT"
+    "Laser diode manufacturers",
+    "Optical fiber manufacturers",
+    "Photonic component suppliers",
+    "Semiconductor suppliers",
+    "Optical lens manufacturers"
   ],
   "downstream": [
     "CAT",
-    "CSCO",
-    "Aerospace and defense contractors (e.g., Raytheon, Lockheed Martin)",
-    "Medical imaging device manufacturers (e.g., GE Healthcare)",
-    "Industrial automation companies (e.g., Siemens)"
+    "Data center operators",
+    "Aerospace and defense contractors",
+    "Medical device manufacturers",
+    "Industrial automation companies"
   ],
   "competitors": [
     "Coherent Inc.",
-    "II‑VI Incorporated",
-    "Trumpf GmbH",
-    "Lattice Semiconductor",
-    "Lumentum’s peer in photonics (e.g., Lumentum’s own competitors in the laser market)"
+    "II-VI Incorporated",
+    "Trumpf GmbH + Co. KG",
+    "Lumenis Ltd.",
+    "Thorlabs Inc."
   ],
   "key_products": [
     "Laser diodes",
     "Optical amplifiers",
     "Photonic integrated circuits",
-    "LiDAR components",
-    "Optical transceivers"
+    "Optical transceivers",
+    "Optical sensors"
   ],
-  "extracted_at": "2026-03-23 16:48:09",
+  "extracted_at": "2026-03-24 17:02:54",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/LITE/",
+      "url": "https://en.wikipedia.org/wiki/Lumentum_Holdings",
       "query": "Lumentum Holdings Inc. suppliers manufacturers",
-      "snippet": "Find the latest Lumentum Holdings Inc . (LITE) stock quote, history, news and other vital information to help you with your stock trading and investin"
+      "snippet": "Lumentum Holdings Inc. is an American manufacturer of optical and photonic products . It was created in 2015 as a spinoff from JDSU. Lumentum was one "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/suppliers_glance.php?code=LITE",
+      "url": "https://www.globaldata.com/company-profile/lumentum-holdings-inc/",
       "query": "Lumentum Holdings Inc. suppliers manufacturers",
-      "snippet": "Lumentum Holdings Inc supply chain, list and performance of Lumentum Holdings Incs ' suppliers - CSIMarket."
+      "snippet": "Lumentum Holdings Inc (Lumentum) carries out the manufacturing business of optical, photonic and commercial laser products."
     },
     {
       "source": "DuckDuckGo",
       "url": "https://csimarket.com/stocks/LITE-Customers",
       "query": "Lumentum Holdings Inc. major customers clients",
-      "snippet": "Lumentum Holdings Inc customers and markets, results by customer and performance relative to LITE, by company and industry - CSIMarket."
+      "snippet": "Lumentum Holdings Inc customers and markets, results by customer and performance relative to LITE, by company and industry - CSIMarket"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://pitchgrade.com/companies/lumentum",
+      "url": "https://markets.financialcontent.com/stocks/article/finterra-2026-3-2-lumentum-holdings-lite-the-optical-architecture-of-the-ai-supercycle",
       "query": "Lumentum Holdings Inc. major customers clients",
-      "snippet": "Customer Segments: Lumentum Holdings Inc . serves multiple distinct customer segments, which may include consumers, small and medium businesses, enter"
+      "snippet": "Mar 2, 2026 · Risks and Challenges Despite its current momentum, Lumentum faces several headwinds: Customer Concentration: Historically, a large porti"
     }
   ]
 }

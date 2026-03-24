@@ -5,33 +5,33 @@
   "industry": "Semiconductors",
   "upstream": [
     "TSM",
-    "GlobalFoundries",
     "005930.KS",
+    "GlobalFoundries",
     "UMC",
-    "INTC"
+    "MU"
   ],
   "downstream": [
-    "MSFT",
     "DELL",
     "HPQ",
     "Lenovo",
-    "NVDA"
+    "AAPL",
+    "MSFT"
   ],
   "competitors": [
-    "NVDA",
     "INTC",
+    "NVDA",
     "QCOM",
     "AVGO",
-    "ARM"
+    "005930.KS"
   ],
   "key_products": [
     "Ryzen CPUs",
     "EPYC CPUs",
     "Radeon GPUs",
     "Xilinx FPGAs",
-    "SoCs"
+    "Radeon Instinct GPUs"
   ],
-  "extracted_at": "2026-03-23 16:47:57",
+  "extracted_at": "2026-03-24 17:17:12",
   "sources": [
     {
       "source": "Wikipedia",
@@ -53,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/AMD-Customers",
+      "url": "https://en.wikipedia.org/wiki/AMD",
       "query": "Advanced Micro Devices, Inc. major customers clients",
-      "snippet": "3 days ago · Advanced Micro Devices Inc customers and markets, results by customer and performance relative to AMD, by company and industry - CSIMarke"
+      "snippet": "Advanced Micro Devices , Inc . Advanced Micro Devices , Inc . ( AMD ) is an American multinational semiconductor company headquartered in Santa Clara,"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.marketscreener.com/quote/stock/AMD-ADVANCED-MICRO-DEVICE-179387659/finances-segments/",
+      "url": "https://www.dcfmodeling.com/products/amd-marketing-mix",
       "query": "Advanced Micro Devices, Inc. major customers clients",
-      "snippet": "Mar 13, 2026 · Understand how activity and revenue gets distributed for AMD (Advanced Micro Devices ) (AMD). Ten-year segmentation history. The entire"
+      "snippet": "Advanced Micro Devices , Inc . ( AMD ) described this product as its fastest ramping product in company history. The MI350X variant specifically deliv"
     }
   ]
 }

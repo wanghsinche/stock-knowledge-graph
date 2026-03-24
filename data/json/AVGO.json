@@ -7,8 +7,8 @@
     "TSM",
     "005930.KS",
     "GlobalFoundries",
-    "UMC",
-    "INTC"
+    "INTC",
+    "MU"
   ],
   "downstream": [
     "CSCO",
@@ -21,17 +21,17 @@
     "QCOM",
     "INTC",
     "NVDA",
-    "TXN",
-    "AMD"
+    "AMD",
+    "MRVL"
   ],
   "key_products": [
-    "Broadcom BCM series (Wi‑Fi & Bluetooth)",
-    "Broadcom Ethernet ASICs",
-    "Broadcom storage controllers",
-    "Broadcom wireless modems",
-    "Broadcom networking ASICs"
+    "Ethernet controllers",
+    "Wi‑Fi and Bluetooth chips",
+    "Broadband modems",
+    "Storage controllers",
+    "Enterprise security software (Symantec)"
   ],
-  "extracted_at": "2026-03-23 16:47:40",
+  "extracted_at": "2026-03-24 17:18:29",
   "sources": [
     {
       "source": "Wikipedia",
@@ -55,13 +55,13 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Broadcom",
       "query": "Broadcom Inc. major customers clients",
-      "snippet": "Broadcom Inc . is an American multinational designer, developer, manufacturer, and global supplier of a wide range of semiconductor and infrastructure"
+      "snippet": "3 days ago - Broadcom also offers products for supporting BizOps, including: ... Broadcom uses the term XPU to refer to custom ASIC chips developed in"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.appsruntheworld.com/customers-database/vendors/view/broadcom",
       "query": "Broadcom Inc. major customers clients",
-      "snippet": "List of companies using or evaluating Broadcom applications, with details on their revenues, employees, industries, and locations."
+      "snippet": "3 weeks ago - The most widely adopted products are Broadcom Symantec Secure Web Gateway, AppWorx Workload Automation, Broadcom Symantec Endpoint Prote"
     }
   ]
 }

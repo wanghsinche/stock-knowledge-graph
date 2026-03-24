@@ -2,20 +2,20 @@
   "ticker": "C",
   "company_name": "Citigroup Inc.",
   "sector": "Financial Services",
-  "industry": "Banks - Diversified",
+  "industry": "Diversified Banks",
   "upstream": [
-    "IBM",
     "MSFT",
-    "Accenture",
-    "Deloitte",
-    "Bloomberg"
+    "Data providers (Bloomberg, Refinitiv)",
+    "Payment processors (Visa, Mastercard)",
+    "Cloud service providers (AWS, Azure)",
+    "Regulatory technology firms"
   ],
   "downstream": [
-    "AAPL",
-    "MSFT",
-    "U.S. Treasury",
-    "BlackRock Inc.",
-    "High‑net‑worth individuals"
+    "Corporate clients (e.g., Fortune 500 companies)",
+    "Institutional investors (mutual funds, pension funds)",
+    "Retail banking customers",
+    "Small and medium enterprises",
+    "Wealth management clients"
   ],
   "competitors": [
     "JPMorgan Chase & Co.",
@@ -25,13 +25,13 @@
     "Wells Fargo & Co."
   ],
   "key_products": [
-    "Investment Banking",
-    "Consumer Banking",
-    "Wealth Management",
-    "Credit Cards",
-    "Treasury & Trade Solutions"
+    "Investment banking services",
+    "Retail banking and credit cards",
+    "Wealth and asset management",
+    "Treasury and trade solutions",
+    "Capital markets services"
   ],
-  "extracted_at": "2026-03-23 16:55:00",
+  "extracted_at": "2026-03-24 18:45:33",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Citigroup",
-      "query": "Citigroup Inc. suppliers manufacturers",
-      "snippet": "Citigroup Inc . or Citi is an American multinational investment bank and financial services company based in New York City. The company was formed in "
-    },
-    {
-      "source": "DuckDuckGo",
       "url": "https://csimarket.com/stocks/C-Suppliers",
       "query": "Citigroup Inc. suppliers manufacturers",
-      "snippet": "Citigroup Inc supply chain, list and performance of Citigroup Incs ' suppliers - CSIMarket."
+      "snippet": "Feb 22, 2026 · Citigroup Inc supply chain, list and performance of Citigroup Incs' suppliers - CSIMarket"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://data.ark.ai/analysis/suppliers/citigroup-inc-supplier-profile-overview",
+      "query": "Citigroup Inc. suppliers manufacturers",
+      "snippet": "Supplier Summary Ark.ai conducted a vendor and supply chain analysis of Citigroup Inc ., examining their subcontractors, subsidiaries, list of supplie"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Citigroup",
       "query": "Citigroup Inc. major customers clients",
-      "snippet": "Citigroup Inc . or Citi is an American multinational investment bank and financial services company based in New York City. The company was formed in "
+      "snippet": "Citigroup operates with two major divisions: Institutional Clients Group (ICG), which offers investment banking and corporate banking services, as wel"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://littlesis.org/org/8",
+      "url": "https://csimarket.com/stocks/C-Customers",
       "query": "Citigroup Inc. major customers clients",
-      "snippet": "donate. Citigroup Inc . Major American bank. Relationships Interlocks Giving Data.• major shareholder ('91→?)* John P Havens Former President and COO,"
+      "snippet": "Feb 28, 2026 · Citigroup Inc customers and markets, results by customer and performance relative to C, by company and industry - CSIMarket"
     }
   ]
 }

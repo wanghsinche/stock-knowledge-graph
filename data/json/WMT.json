@@ -1,37 +1,37 @@
 {
   "ticker": "WMT",
   "company_name": "Walmart Inc.",
-  "sector": "Consumer Defensive",
-  "industry": "Discount Stores",
+  "sector": "Consumer Defensive / Discount Stores",
+  "industry": "Retail - Discount Stores",
   "upstream": [
     "Procter & Gamble",
     "Coca‑Cola",
-    "Nike",
-    "005930.KS",
-    "AAPL"
+    "PepsiCo",
+    "Kraft Heinz",
+    "Johnson & Johnson"
   ],
   "downstream": [
-    "U.S. consumers",
-    "International shoppers",
-    "Online shoppers",
-    "Corporate bulk buyers",
-    "Small businesses"
+    "Individual consumers",
+    "Small and medium enterprises",
+    "Online shoppers via Walmart.com",
+    "Corporate clients for bulk purchases",
+    "Government agencies"
   ],
   "competitors": [
     "Target",
     "Costco",
-    "AMZN",
-    "Kroger",
-    "Home Depot"
+    "Dollar General",
+    "Aldi",
+    "BJ's Wholesale Club"
   ],
   "key_products": [
     "Groceries",
+    "Household goods",
     "Apparel",
     "Electronics",
-    "Household goods",
     "Pharmacy products"
   ],
-  "extracted_at": "2026-03-23 16:53:59",
+  "extracted_at": "2026-03-24 17:54:57",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,15 +41,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Walmart",
+      "url": "https://corporate.walmart.com/suppliers",
       "query": "Walmart Inc. suppliers manufacturers",
-      "snippet": "Walmart Inc . is an American multinational retail corporation that operates a chain of hypermarkets, discount department stores, and grocery stores in"
+      "snippet": "The Walmart Sustainability Hub is a destination for Walmart suppliers to access resources and learn about opportunities to collaborate with Walmart , "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ru.wikipedia.org/wiki/Walmart",
+      "url": "https://www.investopedia.com/articles/insights/050116/walmart-stock-analyzing-5-key-suppliers-wmt.asp",
       "query": "Walmart Inc. suppliers manufacturers",
-      "snippet": "Walmart , Inc . ([ˈwɔːlmɑːrt], «Уолмарт») — американская компания, управляющая крупнейшей в мире сетью оптовой и розничной торговли, действующей под т"
+      "snippet": "Nov 3, 2025 · Walmart suppliers are depended on to provide the products Walmart sells. Being a supplier to Walmart can be a profitable business. Learn"
     },
     {
       "source": "DuckDuckGo",

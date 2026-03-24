@@ -1,37 +1,37 @@
 {
   "ticker": "HOOD",
   "company_name": "Robinhood Markets, Inc.",
-  "sector": "Financial Services / Capital Markets",
-  "industry": "Online Brokerage",
+  "sector": "Financial Services",
+  "industry": "Brokerage & Trading Services",
   "upstream": [
-    "Payment processors (e.g., Stripe, PayPal)",
-    "Market data providers (e.g., Bloomberg, Refinitiv)",
+    "AMZN",
     "GOOGL",
-    "Regulatory compliance services",
-    "Cybersecurity vendors"
+    "Bloomberg",
+    "Thomson Reuters",
+    "Stripe"
   ],
   "downstream": [
     "Retail investors",
-    "High-net-worth individuals",
-    "Institutional clients",
     "Day traders",
+    "High‑frequency traders",
+    "Institutional investors",
     "Crypto traders"
   ],
   "competitors": [
     "Charles Schwab",
-    "Fidelity",
-    "E*TRADE",
     "TD Ameritrade",
+    "E*TRADE",
+    "Fidelity",
     "Webull"
   ],
   "key_products": [
-    "Commission-free stock trading",
-    "Robinhood Gold subscription",
+    "Commission‑free stock trading",
     "Options trading",
     "Cryptocurrency trading",
-    "Cash management services"
+    "Margin trading",
+    "Robinhood Gold subscription"
   ],
-  "extracted_at": "2026-03-23 16:51:28",
+  "extracted_at": "2026-03-24 17:37:02",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Robinhood_Markets",
+      "url": "https://csimarket.com/stocks/HOOD-Suppliers",
       "query": "Robinhood Markets, Inc. suppliers manufacturers",
-      "snippet": "Robinhood Markets , Inc . Robinhood Markets , Inc . is an American financial services company based in Menlo Park, California."
+      "snippet": "Feb 28, 2026 · Sources: Robinhood Markets Inc 's official press releases and regulatory filings; CSIMarket.com's supply -chain research; and the finan"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.bizprofile.net/az/phoenix/robinhood-markets-inc",
+      "query": "Robinhood Markets, Inc. suppliers manufacturers",
+      "snippet": "Feb 16, 2023 · Robinhood Markets , Inc . is a Phoenix , AZ based company incorporated on February 16, 2023. Filing details extracted from the Arizona "
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/Robinhood_Markets",
+      "query": "Robinhood Markets, Inc. major customers clients",
+      "snippet": "Robinhood Markets , Inc . is an American financial services company based in Menlo Park, California. It provides an electronic trading platform that f"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://robinhood.com/",
-      "query": "Robinhood Markets, Inc. suppliers manufacturers",
+      "query": "Robinhood Markets, Inc. major customers clients",
       "snippet": "Trade stocks on Robinhood with commission-free investing & advanced trading tools. Access fractional shares, real-time market data, and more."
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://investingintheweb.com/brokers/robinhood-statistics/",
-      "query": "Robinhood Markets, Inc. major customers clients",
-      "snippet": "Jan 2, 2026 · Robinhood revenues Robinhood generates revenues through transaction-based revenues, net interest revenues, and other revenues. Transacti"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://investors.robinhood.com/news-releases/news-release-details/robinhood-markets-inc-reports-february-2026-operating-data",
-      "query": "Robinhood Markets, Inc. major customers clients",
-      "snippet": "Mar 12, 2026 · MENLO PARK, Calif., March 12, 2026 (GLOBE NEWSWIRE) -- Robinhood Markets , Inc . (“ Robinhood ”) (NASDAQ: HOOD) today reported select m"
     }
   ]
 }

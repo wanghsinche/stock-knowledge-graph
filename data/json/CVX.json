@@ -4,17 +4,17 @@
   "sector": "Energy",
   "industry": "Oil & Gas Integrated",
   "upstream": [
-    "Petrochemical equipment manufacturers",
-    "Drilling rig operators",
-    "Pipeline construction firms",
-    "Exploration technology suppliers",
-    "Chemical feedstock producers"
+    "Schlumberger",
+    "Halliburton",
+    "Baker Hughes",
+    "National Oilwell Varco",
+    "Weatherford International"
   ],
   "downstream": [
-    "Petrochemical companies (e.g., Dow, DuPont)",
-    "Automotive fuel distributors",
-    "Aviation fuel suppliers",
-    "Industrial lubricant manufacturers",
+    "Petrochemical plants",
+    "Airlines (fuel supply)",
+    "Power generation companies",
+    "Industrial refineries",
     "Retail gasoline stations"
   ],
   "competitors": [
@@ -27,11 +27,11 @@
   "key_products": [
     "Crude oil",
     "Natural gas",
-    "Gasoline",
-    "Diesel fuel",
-    "Jet fuel"
+    "Refined petroleum products (gasoline, diesel, jet fuel)",
+    "Petrochemicals",
+    "Liquefied natural gas (LNG)"
   ],
-  "extracted_at": "2026-03-23 16:49:32",
+  "extracted_at": "2026-03-24 17:32:42",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Chevron_Corporation",
-      "query": "Chevron Corporation suppliers manufacturers",
-      "snippet": "Chevron Corporation is an American multinational energy corporation predominantly specializing in oil and gas. The second-largest direct descendant of"
-    },
-    {
-      "source": "DuckDuckGo",
       "url": "https://ru.wikipedia.org/wiki/Chevron",
       "query": "Chevron Corporation suppliers manufacturers",
       "snippet": "Chevron Corporation , Шеврон Корпорэйшн — крупнейшая интегрированная энергетическая компания США, одна из крупнейших корпораций в мире. Основные место"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Chevron_Corporation",
-      "query": "Chevron Corporation major customers clients",
-      "snippet": "Chevron Corporation is an American multinational energy corporation predominantly specializing in oil and gas. The second-largest direct descendant of"
+      "url": "https://en.wikipedia.org/wiki/Standard_Oil",
+      "query": "Chevron Corporation suppliers manufacturers",
+      "snippet": "Standard Oil Company was a corporate trust in the petroleum industry that existed from 1882 to 1911. The origins of the trust lay in the operations of"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://csimarket.com/stocks/CVX-Customers",
       "query": "Chevron Corporation major customers clients",
       "snippet": "Chevron customers and markets, results by customer and performance relative to CVX, by company and industry - CSIMarket"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://pestel-analysis.com/blogs/target-market/chevron",
+      "query": "Chevron Corporation major customers clients",
+      "snippet": "Sep 27, 2025 · Chevron Corporation , a multinational energy company, was founded in 1879. While its origins were rooted in conventional oil and gas, t"
     }
   ]
 }

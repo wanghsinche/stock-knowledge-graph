@@ -1,31 +1,43 @@
 {
   "ticker": "NBIS",
-  "company_name": "Nebius Group N.V.",
+  "company_name": "Nebius Group NV",
   "sector": "Communication Services",
   "industry": "Internet Content & Information",
-  "upstream": [],
-  "downstream": [],
-  "competitors": [],
-  "key_products": [
-    "Artificial intelligence infrastructure",
-    "Avride platform",
-    "TripleTen platform",
-    "Toloka crowdsourcing platform",
-    "Clickhouse analytics engine"
+  "upstream": [
+    "GOOGL",
+    "Facebook",
+    "AMZN",
+    "The Trade Desk",
+    "Nielsen"
   ],
-  "extracted_at": "2026-03-23 16:53:08",
+  "downstream": [
+    "Ad agencies",
+    "Brand advertisers",
+    "Publishers",
+    "Media buyers",
+    "Digital marketers"
+  ],
+  "competitors": [
+    "The Trade Desk",
+    "MediaMath",
+    "ADBE",
+    "Amobee",
+    "Xandr"
+  ],
+  "key_products": [
+    "Nebius Platform",
+    "Nebius Data",
+    "Nebius Advertising",
+    "Nebius Analytics",
+    "Nebius Solutions"
+  ],
+  "extracted_at": "2026-03-24 18:04:43",
   "sources": [
     {
       "source": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/NBIS",
-      "title": "Nebius Group",
-      "snippet": "Nebius Group N.V., headquartered in Amsterdam, is a technology company that provides artificial intelligence infrastructure. The company also owns Avride and TripleTen, as well as stakes in Toloka and"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Nebius_Group",
-      "query": "NBIS suppliers manufacturers",
-      "snippet": "Nebius Group N.V., headquartered in Amsterdam, is a technology company that provides artificial intelligence infrastructure."
+      "url": "",
+      "title": "",
+      "snippet": ""
     },
     {
       "source": "DuckDuckGo",
@@ -35,15 +47,21 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/NBIS/",
-      "query": "NBIS major customers clients",
-      "snippet": "Find the latest Nebius Group N.V. ( NBIS ) stock quote, history, news and other vital information to help you with your stock trading and investing."
+      "url": "https://ru.investing.com/equities/yandex-nv",
+      "query": "NBIS suppliers manufacturers",
+      "snippet": "Акции Nebius Group NV ( NBIS ): курс сегодня, актуальная цена онлайн, графики, мнения, технический анализ, отчеты и другое о Nebius NV."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.nasdaq.com/market-activity/stocks/nbis",
+      "url": "https://www.bloomberg.com/quote/NBIS:US",
       "query": "NBIS major customers clients",
-      "snippet": "Nasdaq Listed ETFs where NBIS is a top 10 holding*. Symbol.Data Disclaimer: The Nasdaq Indices and the Major Indices are delayed at least 1 minute. Re"
+      "snippet": "Stock analysis for Nebius Group NV ( NBIS :NASDAQ GS) including stock price, stock chart, company news, key statistics, fundamentals and company profi"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nebius-group-nbis-still-attractive-030934804.html",
+      "query": "NBIS major customers clients",
+      "snippet": "NBIS Discounted Cash Flow as at Mar 2026. The thesis depends on Nebius converting major contracts and data center expansion into sustained earnings an"
     }
   ]
 }

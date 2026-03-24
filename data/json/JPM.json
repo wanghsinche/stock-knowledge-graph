@@ -5,17 +5,17 @@
   "industry": "Banks - Diversified",
   "upstream": [
     "MSFT",
-    "Financial data providers (e.g., Bloomberg, Refinitiv)",
-    "Office supply and equipment providers",
-    "Security and cybersecurity firms",
-    "Professional services (legal, consulting, audit)"
+    "ORCL",
+    "IBM",
+    "CRM",
+    "SAP"
   ],
   "downstream": [
-    "Retail banking customers (individuals)",
-    "Corporate banking clients (mid‑size to large enterprises)",
-    "Institutional investors (pension funds, mutual funds)",
-    "Government and public sector entities",
-    "High‑net‑worth individuals (wealth management)"
+    "Retail banking customers",
+    "Small business clients",
+    "Corporate banking clients",
+    "Institutional investors",
+    "Government entities"
   ],
   "competitors": [
     "Bank of America",
@@ -25,13 +25,13 @@
     "Morgan Stanley"
   ],
   "key_products": [
-    "Retail banking services (checking, savings, mortgages)",
-    "Commercial banking (loans, treasury services)",
-    "Investment banking (M&A, underwriting)",
-    "Asset and wealth management",
-    "Credit card and consumer lending"
+    "Retail banking services",
+    "Investment banking services",
+    "Wealth management",
+    "Asset management",
+    "Credit cards and loans"
   ],
-  "extracted_at": "2026-03-23 16:51:07",
+  "extracted_at": "2026-03-24 17:37:30",
   "sources": [
     {
       "source": "Wikipedia",
@@ -55,13 +55,13 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/JPMorgan_Chase",
       "query": "JPMorgan Chase & Co. major customers clients",
-      "snippet": "JPMorgan Chase & Co . (stylized as JPMorganChase ) is an American multinational banking institution headquartered in New York City and incorporated in"
+      "snippet": "JPMorgan Chase & Co. (stylized as JPMorganChase) is an American multinational banking institution headquartered in New York City and incorporated in ."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ru.wikipedia.org/wiki/JPMorgan_Chase",
+      "url": "https://www.jpmorganchase.com/",
       "query": "JPMorgan Chase & Co. major customers clients",
-      "snippet": "JPMorgan Chase & Co , «Дж. П. Морган Чейз и Ко.» — американский транснациональный финансовый конгломерат, один из крупнейших банков мира, с центром уп"
+      "snippet": "JPMorganChase serves millions of customers, clients and communities in over 100 global markets. For 225 years, our work has been guided by principles "
     }
   ]
 }

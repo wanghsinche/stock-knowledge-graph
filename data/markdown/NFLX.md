@@ -3,8 +3,8 @@ ticker: NFLX
 company: Netflix, Inc.
 sector: Communication Services
 industry: Entertainment
-extracted_at: 2026-03-23 16:49:55
-last_updated: 2026-03-23
+extracted_at: 2026-03-24 17:46:20
+last_updated: 2026-03-24
 ---
 
 # NFLX - Netflix, Inc.
@@ -12,23 +12,23 @@ last_updated: 2026-03-23
 ## 基本信息
 
 - **所属行业**: Communication Services / Entertainment
-- **提取时间**: 2026-03-23 16:49:55
+- **提取时间**: 2026-03-24 17:46:20
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Content production studios (e.g., Warner Bros., Disney, Universal)]]
-- [[AAPL]]
-- [[AMZN]]
-- [[Advertising and marketing agencies]]
-- [[Film and TV distributors]]
+- [[Hollywood studios]]
+- [[Production equipment suppliers]]
+- [[Content distributors]]
+- [[Cloud service providers (e.g., AWS)]]
+- [[Music licensing companies]]
 
 ### 下游客户
-- [[Individual streaming subscribers worldwide]]
-- [[005930.KS]]
-- [[Set‑top box providers (e.g., Roku)]]
-- [[Mobile device users]]
-- [[Gaming console owners]]
+- [[US subscribers]]
+- [[European subscribers]]
+- [[Asian subscribers]]
+- [[Corporate accounts]]
+- [[Family households]]
 
 ### 竞争对手
 - [[Disney+]]
@@ -38,20 +38,20 @@ last_updated: 2026-03-23
 - [[AAPL]]
 
 ### 核心产品
-- [[Netflix streaming platform]]
-- [[Original series and films]]
-- [[Licensed movies and TV shows]]
-- [[Mobile and web apps]]
-- [[User recommendation algorithms]]
+- [[Netflix streaming service]]
+- [[Original series]]
+- [[Original movies]]
+- [[Documentaries]]
+- [[Kids & family content]]
 
 ## 数据来源
 
 - [Netflix, Inc.](https://en.wikipedia.org/wiki/Netflix,_Inc.)
-- [Netflix, Inc. suppliers manufacturers](https://www.netflix.com/?locale=en-US)
+- [Netflix, Inc. suppliers manufacturers](https://porteranalysis.com/porters-five-forces-of-netflix/)
 - [Netflix, Inc. suppliers manufacturers](https://www.alibaba.com/)
 - [Netflix, Inc. major customers clients](https://en.wikipedia.org/wiki/Reed_Hastings)
-- [Netflix, Inc. major customers clients](https://www.netflix.com/?locale=en-US)
+- [Netflix, Inc. major customers clients](https://www.yahoo.com/news/netflix-subscriber-growth-beats-estimates-201525977.html)
 
 ## 元数据
 
-- **更新日期**: 2026-03-23
+- **更新日期**: 2026-03-24

@@ -3,8 +3,8 @@ ticker: SHOP
 company: Shopify Inc.
 sector: Technology
 industry: Software - Application
-extracted_at: 2026-03-06 16:38:27
-last_updated: 2026-03-06
+extracted_at: 2026-03-24 18:17:27
+last_updated: 2026-03-24
 ---
 
 # SHOP - Shopify Inc.
@@ -12,16 +12,16 @@ last_updated: 2026-03-06
 ## 基本信息
 
 - **所属行业**: Technology / Software - Application
-- **提取时间**: 2026-03-06 16:38:27
+- **提取时间**: 2026-03-24 18:17:27
 
 ## 产业链关系
 
 ### 上游供应商
-- [[AMZN]]
-- [[MSFT]]
-- [[GOOGL]]
-- [[Stripe]]
-- [[PayPal]]
+- [[Hardware component suppliers]]
+- [[Software platform providers]]
+- [[Payment processors]]
+- [[Logistics partners]]
+- [[Cloud service providers]]
 
 ### 下游客户
 - [[TSLA]]
@@ -34,11 +34,11 @@ last_updated: 2026-03-06
 - [[BigCommerce]]
 - [[WooCommerce]]
 - [[Magento]]
-- [[CRM]]
-- [[Wix eCommerce]]
+- [[Wix]]
+- [[Squarespace]]
 
 ### 核心产品
-- [[Shopify Platform]]
+- [[Shopify e-commerce platform]]
 - [[Shopify POS]]
 - [[Shopify Payments]]
 - [[Shopify Fulfillment Network]]
@@ -47,11 +47,11 @@ last_updated: 2026-03-06
 ## 数据来源
 
 - [Shopify](https://en.wikipedia.org/wiki/Shopify_Inc.)
-- [Shopify Inc. suppliers manufacturers](https://ru.wikipedia.org/wiki/Shopify)
-- [Shopify Inc. suppliers manufacturers](https://csimarket.com/stocks/suppliers_glance.php?code=SHOP)
-- [Shopify Inc. major customers clients](https://en.wikipedia.org/wiki/Shopify)
-- [Shopify Inc. major customers clients](https://www.shopify.com/)
+- [Shopify Inc. suppliers manufacturers](https://www.adsx.com/blog/shopify-supplier-sourcing-guide)
+- [Shopify Inc. suppliers manufacturers](https://eprolo.com/shopify-dropshipping-suppliers)
+- [Shopify Inc. major customers clients](https://www.sitebuilderreport.com/biggest-companies-using-shopify)
+- [Shopify Inc. major customers clients](https://www.thomsondata.com/customer-base/shopify-customers.php)
 
 ## 元数据
 
-- **更新日期**: 2026-03-06
+- **更新日期**: 2026-03-24

@@ -3,8 +3,8 @@ ticker: AMZN
 company: Amazon.com, Inc.
 sector: Consumer Cyclical
 industry: Internet Retail
-extracted_at: 2026-03-23 16:46:53
-last_updated: 2026-03-23
+extracted_at: 2026-03-24 17:09:05
+last_updated: 2026-03-24
 ---
 
 # AMZN - Amazon.com, Inc.
@@ -12,46 +12,46 @@ last_updated: 2026-03-23
 ## 基本信息
 
 - **所属行业**: Consumer Cyclical / Internet Retail
-- **提取时间**: 2026-03-23 16:46:53
+- **提取时间**: 2026-03-24 17:09:05
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Book publishers]]
-- [[Electronics manufacturers]]
-- [[Clothing brands]]
-- [[Home goods manufacturers]]
-- [[AMZN]]
+- [[AAPL]]
+- [[005930.KS]]
+- [[Nike]]
+- [[SONY]]
+- [[DELL]]
 
 ### 下游客户
+- [[Retail consumers]]
 - [[AMZN]]
 - [[AMZN]]
-- [[AMZN]]
-- [[AMZN]]
-- [[General retail consumers]]
+- [[Government agencies]]
+- [[Enterprise customers]]
 
 ### 竞争对手
 - [[Walmart]]
-- [[eBay]]
 - [[Alibaba]]
-- [[Shopify]]
+- [[eBay]]
 - [[Target]]
+- [[Shopify]]
 
 ### 核心产品
-- [[Amazon.com e‑commerce platform]]
-- [[Amazon Prime subscription services]]
-- [[Amazon Web Services (cloud computing)]]
-- [[Amazon Devices (Echo, Kindle, Fire)]]
-- [[Amazon Advertising]]
+- [[Amazon.com e-commerce platform]]
+- [[Amazon Web Services]]
+- [[Amazon Prime Video]]
+- [[Amazon Echo (Alexa)]]
+- [[Amazon Kindle]]
 
 ## 数据来源
 
 - [Amazon (company)](https://en.wikipedia.org/wiki/Amazon.com,_Inc.)
-- [Amazon.com, Inc. suppliers manufacturers](https://www.ecomdepotwholesale.com/post/list-of-amazon-authorized-suppliers-for-2024-the-complete-guide-to-finding-verified-suppliers)
-- [Amazon.com, Inc. suppliers manufacturers](https://bigframe.net/who-are-amazons-main-suppliers/)
+- [Amazon.com, Inc. suppliers manufacturers](https://www.alibaba.com/)
+- [Amazon.com, Inc. suppliers manufacturers](https://us.amazon.com/)
+- [Amazon.com, Inc. major customers clients](https://us.amazon.com/)
 - [Amazon.com, Inc. major customers clients](https://ir.aboutamazon.com/)
-- [Amazon.com, Inc. major customers clients](https://www.amazon.com.tr/)
 
 ## 元数据
 
-- **更新日期**: 2026-03-23
+- **更新日期**: 2026-03-24

@@ -4,34 +4,34 @@
   "sector": "Technology",
   "industry": "Software - Infrastructure",
   "upstream": [
-    "DELL",
-    "HPQ",
-    "IBM",
+    "INTC",
+    "NVDA",
     "CSCO",
-    "INTC"
+    "DELL",
+    "HPQ"
   ],
   "downstream": [
-    "Walmart",
-    "JPMorgan Chase",
-    "AT&T",
-    "Bank of America",
-    "Coca-Cola"
+    "Government agencies",
+    "Financial institutions",
+    "Healthcare providers",
+    "Retail companies",
+    "CAT"
   ],
   "competitors": [
     "MSFT",
     "AMZN",
+    "GOOGL",
     "IBM",
-    "SAP",
-    "GOOGL"
+    "CRM"
   ],
   "key_products": [
     "Oracle Database",
     "Oracle Cloud Infrastructure",
-    "Oracle Autonomous Database",
     "Oracle ERP Cloud",
-    "Oracle Fusion Middleware"
+    "Oracle Autonomous Database",
+    "Oracle Exadata"
   ],
-  "extracted_at": "2026-03-23 16:49:10",
+  "extracted_at": "2026-03-24 17:29:02",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,15 +41,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Oracle_Corporation",
+      "url": "https://www.oracle.com/corporate/suppliers/",
       "query": "Oracle Corporation suppliers manufacturers",
-      "snippet": "Oracle Corporation is an American multinational technology company headquartered in Austin, Texas. Co-founded in Santa Clara, California by Bob Miner,"
+      "snippet": "Doing Business with Oracle Oracle iSupplier Portal (iSP) is a secured self-service tool, which provides Oracle 's suppliers with the ability to use a "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.alibaba.com/companies-oracle-corporation-suppliers.html",
+      "url": "https://csimarket.com/stocks/ORCL-Suppliers",
       "query": "Oracle Corporation suppliers manufacturers",
-      "snippet": "companies oracle corporation suppliers . 1 Supplier (s). Favorites Compare.Assessed Supplier . Video. Good Quality Paper Oracle Cards Professional Pri"
+      "snippet": "Dec 12, 2025 · Oracle 's Comment on Supply Chain To produce our hardware products, we rely on both our internal manufacturing operations as well as th"
     },
     {
       "source": "DuckDuckGo",
@@ -59,9 +59,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ru.wikipedia.org/wiki/Oracle",
+      "url": "https://www.oracle.com/corporate/",
       "query": "Oracle Corporation major customers clients",
-      "snippet": "Oracle ( Oracle Corporation ) — американская корпорация, второй по размеру выручки разработчик программного обеспечения (после Microsoft), четвёртая к"
+      "snippet": "Oracle is pleased to provide information about our company, customers , partners, events, communities, press, analysts, investors, and careers.The com"
     }
   ]
 }

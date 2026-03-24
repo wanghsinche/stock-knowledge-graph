@@ -3,8 +3,8 @@ ticker: SMCI
 company: Super Micro Computer, Inc.
 sector: Technology
 industry: Computer Hardware
-extracted_at: 2026-03-23 16:49:22
-last_updated: 2026-03-23
+extracted_at: 2026-03-24 18:04:53
+last_updated: 2026-03-24
 ---
 
 # SMCI - Super Micro Computer, Inc.
@@ -12,7 +12,7 @@ last_updated: 2026-03-23
 ## 基本信息
 
 - **所属行业**: Technology / Computer Hardware
-- **提取时间**: 2026-03-23 16:49:22
+- **提取时间**: 2026-03-24 18:04:53
 
 ## 产业链关系
 
@@ -20,38 +20,38 @@ last_updated: 2026-03-23
 - [[INTC]]
 - [[AMD]]
 - [[MU]]
+- [[005930.KS]]
 - [[STX]]
-- [[CSCO]]
 
 ### 下游客户
-- [[NVDA]]
 - [[AMZN]]
-- [[GOOGL]]
 - [[MSFT]]
-- [[Huawei]]
+- [[GOOGL]]
+- [[AT&T]]
+- [[Verizon]]
 
 ### 竞争对手
 - [[DELL]]
 - [[HPQ]]
 - [[Lenovo]]
-- [[Inspur]]
 - [[CSCO]]
+- [[IBM]]
 
 ### 核心产品
-- [[High-performance servers]]
-- [[High-efficiency servers]]
+- [[High‑performance servers]]
+- [[High‑efficiency servers]]
 - [[Server management software]]
 - [[Storage systems]]
-- [[AI servers]]
+- [[Edge computing solutions]]
 
 ## 数据来源
 
 - [Supermicro](https://en.wikipedia.org/wiki/Super_Micro_Computer,_Inc.)
 - [Super Micro Computer, Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/Supermicro)
-- [Super Micro Computer, Inc. suppliers manufacturers](https://www.supermicro.com/)
-- [Super Micro Computer, Inc. major customers clients](https://en.wikipedia.org/wiki/Supermicro)
-- [Super Micro Computer, Inc. major customers clients](https://wccftech.com/nvidia-major-customer-super-micro-computer-smci-plunges-as-its-accounting-firm-resigns-after-citing-concerns-around-a-commitment-to-integrity-and-ethical-values/)
+- [Super Micro Computer, Inc. suppliers manufacturers](https://www.supermicro.com/en/solutions/made-in-usa)
+- [Super Micro Computer, Inc. major customers clients](https://data.landbase.com/technology/supermicro/)
+- [Super Micro Computer, Inc. major customers clients](https://csimarket.com/stocks/SMCI-Customers)
 
 ## 元数据
 
-- **更新日期**: 2026-03-23
+- **更新日期**: 2026-03-24

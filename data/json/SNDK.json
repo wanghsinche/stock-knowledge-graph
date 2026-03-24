@@ -4,34 +4,34 @@
   "sector": "Technology",
   "industry": "Computer Hardware",
   "upstream": [
-    "005930.KS",
+    "Mouser Electronics",
     "MU",
-    "SK Hynix",
-    "WDC",
+    "005930.KS",
+    "Toshiba",
     "INTC"
   ],
   "downstream": [
     "AAPL",
-    "MSFT",
     "DELL",
     "HPQ",
+    "Lenovo",
     "SONY"
   ],
   "competitors": [
-    "005930.KS",
-    "MU",
     "Kingston Technology",
+    "Lexar",
     "Corsair",
-    "MU"
+    "Crucial",
+    "005930.KS"
   ],
   "key_products": [
-    "Memory cards (SD, microSD)",
+    "Memory cards",
     "USB flash drives",
-    "Solid‑state drives (SSD)",
-    "Embedded flash memory",
-    "Enterprise storage solutions"
+    "Solid-state drives",
+    "Automotive‑grade flash memory",
+    "Embedded flash solutions"
   ],
-  "extracted_at": "2026-03-23 16:46:30",
+  "extracted_at": "2026-03-24 16:56:56",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,13 +43,13 @@
       "source": "DuckDuckGo",
       "url": "https://www.sandisk.com/company/distributors",
       "query": "Sandisk Corporation suppliers manufacturers",
-      "snippet": "Purchase from your preferred Sandisk authorized partner."
+      "snippet": "Sandisk ’s automotive-grade products are developed in alignment with key industry standards and quality frameworks. These standards guide our design, "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.arrow.com/en/manufacturers/sandisk",
+      "url": "https://www.mouser.com/manufacturer/sandisk/",
       "query": "Sandisk Corporation suppliers manufacturers",
-      "snippet": "Arrow.com is an authorized distributor of SanDisk , stocking a wide selection of electronic components and supporting hundreds of reference designs. E"
+      "snippet": "Sandisk supplier Mouser Electronics now stocks Sandisk . SanDisk SanDisk Corporation is a global leader in flash storage solutions, expanding the poss"
     },
     {
       "source": "DuckDuckGo",
@@ -59,9 +59,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/SNDK-Customers",
+      "url": "https://www.appsruntheworld.com/customers-database/vendors/view/sandisk",
       "query": "Sandisk Corporation major customers clients",
-      "snippet": "Sandisk customers and markets, results by customer and performance relative to SNDK, by company and industry - CSIMarket"
+      "snippet": "List of companies using or evaluating SanDisk applications, with details on their revenues, employees, industries, and locations."
     }
   ]
 }

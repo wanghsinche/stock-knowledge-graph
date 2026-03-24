@@ -1,37 +1,37 @@
 {
   "ticker": "MSTR",
-  "company_name": "Strategy Inc",
+  "company_name": "MicroStrategy Incorporated",
   "sector": "Technology",
-  "industry": "Software - Application",
+  "industry": "Software—Application",
   "upstream": [
-    "Medical device manufacturers",
-    "Medical device component suppliers",
-    "Hardware vendors",
-    "Software platform providers",
-    "Data storage providers"
+    "MSFT",
+    "AMZN",
+    "GOOGL",
+    "ORCL",
+    "SAP"
   ],
   "downstream": [
-    "Hospitals",
-    "Health systems",
-    "Medical device manufacturers",
-    "Healthcare IT vendors",
-    "Clinical research organizations"
+    "UnitedHealth Group",
+    "JPMorgan Chase",
+    "Walmart",
+    "General Motors",
+    "U.S. Department of Defense"
   ],
   "competitors": [
-    "McKinsey & Company",
-    "Boston Consulting Group",
-    "Deloitte",
-    "Accenture",
-    "PwC"
+    "Tableau",
+    "Qlik",
+    "MSFT",
+    "SAP BusinessObjects",
+    "ORCL"
   ],
   "key_products": [
-    "Business intelligence software",
-    "Data analytics solutions",
-    "Healthcare analytics services",
-    "Enterprise reporting tools",
-    "Data visualization platforms"
+    "MicroStrategy Analytics",
+    "MicroStrategy Enterprise Analytics",
+    "MicroStrategy Mobile",
+    "MicroStrategy Cloud",
+    "MicroStrategy Data Warehouse"
   ],
-  "extracted_at": "2026-03-23 16:49:45",
+  "extracted_at": "2026-03-24 17:41:38",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,9 +41,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.strategyinc.net/",
+      "url": "https://www.strategyinc.net/services-overview/",
       "query": "Strategy Inc suppliers manufacturers",
-      "snippet": "Strategy Inc . offers comprehensive medical device consulting services for essential financial and market due diligence, such as: market analysis, fin"
+      "snippet": "Our Consulting Services At Strategy Inc ., we offer a comprehensive range of consulting services required for life science and medical device due dili"
     },
     {
       "source": "DuckDuckGo",
