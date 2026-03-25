@@ -1,21 +1,21 @@
 {
   "ticker": "CSCO",
   "company_name": "Cisco Systems, Inc.",
-  "sector": "Technology",
-  "industry": "Communication Equipment",
+  "sector": "Technology / Communication Equipment",
+  "industry": "Networking Equipment",
   "upstream": [
     "INTC",
     "AVGO",
     "QCOM",
     "TXN",
-    "NVDA"
+    "MU"
   ],
   "downstream": [
-    "AT&T",
-    "Verizon",
-    "MSFT",
-    "AMZN",
-    "Government agencies"
+    "Government agencies",
+    "Enterprise IT departments",
+    "CAT",
+    "Internet Service Providers",
+    "CAT"
   ],
   "competitors": [
     "JNPR",
@@ -27,15 +27,11 @@
   "key_products": [
     "Cisco routers",
     "Cisco switches",
-    "Cisco firewalls (ASA)",
-    "Cisco Meraki",
-    "Cisco Webex",
-    "Cisco OpenDNS",
-    "Cisco Jabber",
-    "Cisco Jasper",
-    "Cisco DNA Center"
+    "Webex video conferencing",
+    "OpenDNS security services",
+    "Cisco Jabber communication platform"
   ],
-  "extracted_at": "2026-03-20 16:41:19",
+  "extracted_at": "2026-03-25 17:03:28",
   "sources": [
     {
       "source": "Wikipedia",

@@ -3,8 +3,8 @@ ticker: MU
 company: Micron Technology, Inc.
 sector: Technology
 industry: Semiconductors
-extracted_at: 2026-03-24 16:56:34
-last_updated: 2026-03-24
+extracted_at: 2026-03-25 16:54:23
+last_updated: 2026-03-25
 ---
 
 # MU - Micron Technology, Inc.
@@ -12,45 +12,46 @@ last_updated: 2026-03-24
 ## 基本信息
 
 - **所属行业**: Technology / Semiconductors
-- **提取时间**: 2026-03-24 16:56:34
+- **提取时间**: 2026-03-25 16:54:23
 
 ## 产业链关系
 
 ### 上游供应商
-- [[ASML]]
 - [[AMAT]]
+- [[ASML]]
 - [[LRCX]]
 - [[Tokyo Electron]]
 - [[KLA]]
 
 ### 下游客户
-- [[DELL]]
-- [[HPQ]]
-- [[Lenovo]]
 - [[AAPL]]
+- [[DELL]]
+- [[SONY]]
+- [[MSFT]]
 - [[AMZN]]
 
 ### 竞争对手
 - [[005930.KS]]
 - [[SK Hynix]]
-- [[INTC]]
 - [[WDC]]
+- [[Toshiba (Kioxia)]]
+- [[INTC]]
 
 ### 核心产品
 - [[DRAM]]
-- [[NAND flash memory]]
-- [[SSDs]]
-- [[3D NAND]]
-- [[GDDR6]]
+- [[NAND Flash Memory]]
+- [[Solid‑State Drives (SSDs)]]
+- [[Embedded DRAM (eDRAM)]]
+- [[3D XPoint (with Intel)]]
 
 ## 数据来源
 
 - [Micron Technology](https://en.wikipedia.org/wiki/Micron_Technology,_Inc.)
 - [Micron Technology, Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/Micron_Technology)
-- [Micron Technology, Inc. suppliers manufacturers](https://www.micron.com/about/company/suppliers)
+- [Micron Technology, Inc. suppliers manufacturers](https://ru.wikipedia.org/wiki/Micron_Technology)
 - [Micron Technology, Inc. major customers clients](https://en.wikipedia.org/wiki/Micron_Technology)
 - [Micron Technology, Inc. major customers clients](https://www.quora.com/Who-are-the-customers-of-Micron-Technology)
 
 ## 元数据
 
-- **更新日期**: 2026-03-24
+- **更新日期**: 2026-03-25

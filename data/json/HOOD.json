@@ -2,36 +2,36 @@
   "ticker": "HOOD",
   "company_name": "Robinhood Markets, Inc.",
   "sector": "Financial Services",
-  "industry": "Brokerage & Trading Services",
+  "industry": "Capital Markets",
   "upstream": [
     "AMZN",
     "GOOGL",
-    "Bloomberg",
-    "Thomson Reuters",
+    "Bloomberg L.P.",
+    "Refinitiv",
     "Stripe"
   ],
   "downstream": [
     "Retail investors",
     "Day traders",
-    "High‑frequency traders",
-    "Institutional investors",
-    "Crypto traders"
+    "Crypto traders",
+    "Institutional clients",
+    "High‑frequency traders"
   ],
   "competitors": [
+    "eToro",
+    "Webull",
     "Charles Schwab",
-    "TD Ameritrade",
-    "E*TRADE",
     "Fidelity",
-    "Webull"
+    "Interactive Brokers"
   ],
   "key_products": [
-    "Commission‑free stock trading",
+    "Robinhood app",
+    "Robinhood Gold",
+    "Robinhood Crypto",
     "Options trading",
-    "Cryptocurrency trading",
-    "Margin trading",
-    "Robinhood Gold subscription"
+    "Cash management"
   ],
-  "extracted_at": "2026-03-24 17:37:02",
+  "extracted_at": "2026-03-25 16:59:07",
   "sources": [
     {
       "source": "Wikipedia",

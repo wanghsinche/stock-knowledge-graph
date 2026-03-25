@@ -1,57 +1,39 @@
 ---
 ticker: LITE
 company: Lumentum Holdings Inc.
-sector: Technology / Communication Equipment
-industry: Photonics / Optical Communications
-extracted_at: 2026-03-24 17:02:54
-last_updated: 2026-03-24
+sector: Technology
+industry: Communication Equipment
+extracted_at: 2026-03-25 16:57:02
+last_updated: 2026-03-25
 ---
 
 # LITE - Lumentum Holdings Inc.
 
 ## 基本信息
 
-- **所属行业**: Technology / Communication Equipment / Photonics / Optical Communications
-- **提取时间**: 2026-03-24 17:02:54
+- **所属行业**: Technology / Communication Equipment
+- **提取时间**: 2026-03-25 16:57:02
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Laser diode manufacturers]]
-- [[Optical fiber manufacturers]]
-- [[Photonic component suppliers]]
-- [[Semiconductor suppliers]]
-- [[Optical lens manufacturers]]
+_暂无数据_
 
 ### 下游客户
-- [[CAT]]
-- [[Data center operators]]
-- [[Aerospace and defense contractors]]
-- [[Medical device manufacturers]]
-- [[Industrial automation companies]]
+_暂无数据_
 
 ### 竞争对手
-- [[Coherent Inc.]]
-- [[II-VI Incorporated]]
-- [[Trumpf GmbH + Co. KG]]
-- [[Lumenis Ltd.]]
-- [[Thorlabs Inc.]]
+_暂无数据_
 
 ### 核心产品
-- [[Laser diodes]]
-- [[Optical amplifiers]]
-- [[Photonic integrated circuits]]
-- [[Optical transceivers]]
-- [[Optical sensors]]
+_暂无数据_
 
 ## 数据来源
 
 - 
-- [Lumentum Holdings Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/Lumentum_Holdings)
-- [Lumentum Holdings Inc. suppliers manufacturers](https://www.globaldata.com/company-profile/lumentum-holdings-inc/)
-- [Lumentum Holdings Inc. major customers clients](https://csimarket.com/stocks/LITE-Customers)
-- [Lumentum Holdings Inc. major customers clients](https://markets.financialcontent.com/stocks/article/finterra-2026-3-2-lumentum-holdings-lite-the-optical-architecture-of-the-ai-supercycle)
+- [Lumentum Holdings Inc. suppliers manufacturers](https://csimarket.com/stocks/suppliers_glance.php?code=LITE)
+- [Lumentum Holdings Inc. suppliers manufacturers](https://www.lumentum.com/)
 
 ## 元数据
 
-- **更新日期**: 2026-03-24
+- **更新日期**: 2026-03-25

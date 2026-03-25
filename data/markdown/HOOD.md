@@ -2,47 +2,47 @@
 ticker: HOOD
 company: Robinhood Markets, Inc.
 sector: Financial Services
-industry: Brokerage & Trading Services
-extracted_at: 2026-03-24 17:37:02
-last_updated: 2026-03-24
+industry: Capital Markets
+extracted_at: 2026-03-25 16:59:07
+last_updated: 2026-03-25
 ---
 
 # HOOD - Robinhood Markets, Inc.
 
 ## 基本信息
 
-- **所属行业**: Financial Services / Brokerage & Trading Services
-- **提取时间**: 2026-03-24 17:37:02
+- **所属行业**: Financial Services / Capital Markets
+- **提取时间**: 2026-03-25 16:59:07
 
 ## 产业链关系
 
 ### 上游供应商
 - [[AMZN]]
 - [[GOOGL]]
-- [[Bloomberg]]
-- [[Thomson Reuters]]
+- [[Bloomberg L.P.]]
+- [[Refinitiv]]
 - [[Stripe]]
 
 ### 下游客户
 - [[Retail investors]]
 - [[Day traders]]
-- [[High‑frequency traders]]
-- [[Institutional investors]]
 - [[Crypto traders]]
+- [[Institutional clients]]
+- [[High‑frequency traders]]
 
 ### 竞争对手
-- [[Charles Schwab]]
-- [[TD Ameritrade]]
-- [[E*TRADE]]
-- [[Fidelity]]
+- [[eToro]]
 - [[Webull]]
+- [[Charles Schwab]]
+- [[Fidelity]]
+- [[Interactive Brokers]]
 
 ### 核心产品
-- [[Commission‑free stock trading]]
+- [[Robinhood app]]
+- [[Robinhood Gold]]
+- [[Robinhood Crypto]]
 - [[Options trading]]
-- [[Cryptocurrency trading]]
-- [[Margin trading]]
-- [[Robinhood Gold subscription]]
+- [[Cash management]]
 
 ## 数据来源
 
@@ -54,4 +54,4 @@ last_updated: 2026-03-24
 
 ## 元数据
 
-- **更新日期**: 2026-03-24
+- **更新日期**: 2026-03-25

@@ -1,37 +1,37 @@
 {
   "ticker": "IREN",
   "company_name": "IREN Limited",
-  "sector": "Financial Services",
-  "industry": "Capital Markets",
+  "sector": "Financial Services / Capital Markets",
+  "industry": "Data Center Services",
   "upstream": [
-    "Financial data providers (e.g., Bloomberg, Refinitiv)",
-    "Custodian banks (e.g., HSBC, Lloyds Banking Group)",
-    "Technology platforms (e.g., FinTech SaaS vendors)",
-    "Regulatory bodies (e.g., FCA, PRA)",
-    "Legal and compliance service firms"
+    "NVDA",
+    "DELL",
+    "CSCO",
+    "Solar panel manufacturers",
+    "Battery storage providers"
   ],
   "downstream": [
-    "High‑net‑worth individuals",
-    "Pension funds and institutional investors",
-    "Family offices",
-    "Corporate clients seeking investment advisory",
-    "Financial advisors and intermediaries"
+    "Financial services firms",
+    "Capital markets firms",
+    "AI startups",
+    "Fintech companies",
+    "Insurance companies"
   ],
   "competitors": [
-    "St. James's Place",
-    "Brewin Dolphin",
-    "Hargreaves Lansdown",
-    "Rothes & Co",
-    "Cazenove"
+    "Equinix",
+    "Digital Realty",
+    "Switch",
+    "AMZN",
+    "MSFT"
   ],
   "key_products": [
-    "Investment management services",
-    "Wealth management advisory",
-    "Financial planning solutions",
-    "Portfolio construction and rebalancing",
-    "Retirement and pension product offerings"
+    "AI Cloud services",
+    "GPU cluster solutions",
+    "Renewable-powered data centers",
+    "Edge computing services",
+    "Colocation services"
   ],
-  "extracted_at": "2026-03-24 18:14:20",
+  "extracted_at": "2026-03-25 17:03:55",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/IREN/",
+      "url": "https://www.iren.com/",
       "query": "IREN Limited suppliers manufacturers",
-      "snippet": "Find the latest IREN Limited ( IREN ) stock quote, history, news and other vital information to help you with your stock trading and investing."
+      "snippet": "Explore IREN 's 100% renewable-powered data centers offering AI Cloud, GPU clusters, colocation, and build-to-suit infrastructure for scalable compute"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ru.investing.com/equities/iris-energy",
+      "url": "https://csimarket.com/stocks/suppliers_glance.php?code=IREN",
       "query": "IREN Limited suppliers manufacturers",
-      "snippet": "Акции IREN Ltd ( IREN ): курс сегодня, актуальная цена онлайн, графики, мнения, технический анализ, отчеты и другое о IREN Ltd ."
+      "snippet": "Iren Limited supply chain, list and performance of Iren Limiteds' suppliers - CSIMarket"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.investing.com/equities/iris-energy",
+      "url": "https://csimarket.com/stocks/IREN-Customers",
       "query": "IREN Limited major customers clients",
-      "snippet": "View today's IREN Ltd stock price and latest IREN news and analysis. Create real-time notifications to follow any changes in the live stock price."
+      "snippet": "Mar 18, 2026 · Iren Limited customers and markets, results by customer and performance relative to IREN , by company and industry - CSIMarket"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.tradingview.com/symbols/NASDAQ-IREN/",
+      "url": "https://www.msn.com/en-us/money/topstocks/irens-ai-client-base-expands-is-growth-becoming-more-durable/ar-AA1T5bT4",
       "query": "IREN Limited major customers clients",
-      "snippet": "View live IREN Limited chart to track its stock's price action. Find market predictions, IREN financials and market news."
+      "snippet": "IREN Limited ’s IREN expanding AI client base is increasingly pointing to a more durable growth profile, reducing reliance on any single anchor client"
     }
   ]
 }

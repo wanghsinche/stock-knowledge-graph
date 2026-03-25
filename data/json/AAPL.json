@@ -4,24 +4,24 @@
   "sector": "Technology",
   "industry": "Consumer Electronics",
   "upstream": [
+    "Foxconn (Hon Hai Precision)",
     "TSM",
     "005930.KS",
-    "Foxconn",
-    "Pegatron",
-    "Wistron"
+    "ASE Group",
+    "Pegatron"
   ],
   "downstream": [
-    "iPhone",
-    "iPad",
-    "IBM",
     "AAPL",
-    "AAPL"
+    "Best Buy",
+    "AMZN",
+    "Walmart",
+    "Costco"
   ],
   "competitors": [
     "005930.KS",
     "GOOGL",
     "MSFT",
-    "AMZN",
+    "Huawei",
     "Xiaomi"
   ],
   "key_products": [
@@ -31,7 +31,7 @@
     "Apple Watch",
     "AirPods"
   ],
-  "extracted_at": "2026-03-24 17:12:39",
+  "extracted_at": "2026-03-25 16:56:31",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/Apple_supply_chain",
+      "query": "Apple Inc. suppliers manufacturers",
+      "snippet": "Apple policy on how it influences the corporate culture of its suppliers is presented in the \" Supplier Responsibility Progress Reports\" document. [28"
+    },
+    {
+      "source": "DuckDuckGo",
       "url": "https://www.investopedia.com/articles/investing/090315/10-major-companies-tied-apple-supply-chain.asp",
       "query": "Apple Inc. suppliers manufacturers",
       "snippet": "Nov 13, 2025 · Discover Apple's top suppliers and how they enhance product performance and innovation. Learn about Apple's efficient supply chain and "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.profolus.com/topics/major-suppliers-of-apple-inside-its-supply-chain/",
-      "query": "Apple Inc. suppliers manufacturers",
-      "snippet": "Jan 22, 2023 · A look into the major suppliers of Apple for its semiconductor demands, other component needs, and product assembly requirements."
+      "url": "https://en.wikipedia.org/wiki/Apple_Inc.",
+      "query": "Apple Inc. major customers clients",
+      "snippet": "Apple Inc . is an American multinational technology company headquartered in Cupertino, California, in Silicon Valley, best known for its consumer ele"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.businessofapps.com/data/apple-statistics/",
+      "url": "https://www.apple.com/",
       "query": "Apple Inc. major customers clients",
-      "snippet": "Feb 26, 2026 · Apple is one of the most influential and recognisable brands in the world, responsible for the rise of the smartphone with the iPhone. "
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/AAPL-Customers",
-      "query": "Apple Inc. major customers clients",
-      "snippet": "Apple Inc 's Comment on Sales, Marketing and Customers The Company’s customers are primarily in the consumer, SMB, education, enterprise and governmen"
+      "snippet": "Discover the innovative world of Apple and shop everything iPhone, iPad, Apple Watch, Mac, and Apple TV, plus explore accessories, entertainment, and "
     }
   ]
 }

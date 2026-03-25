@@ -7,13 +7,13 @@
     "TSM",
     "005930.KS",
     "GlobalFoundries",
-    "INTC",
-    "MU"
+    "UMC",
+    "INTC"
   ],
   "downstream": [
     "CSCO",
     "DELL",
-    "HPQ",
+    "IBM",
     "AMZN",
     "MSFT"
   ],
@@ -21,17 +21,17 @@
     "QCOM",
     "INTC",
     "NVDA",
-    "AMD",
+    "TXN",
     "MRVL"
   ],
   "key_products": [
     "Ethernet controllers",
-    "Wi‑Fi and Bluetooth chips",
+    "Wi‑Fi/Bluetooth chips",
     "Broadband modems",
-    "Storage controllers",
-    "Enterprise security software (Symantec)"
+    "Data center networking ASICs",
+    "Infrastructure software solutions"
   ],
-  "extracted_at": "2026-03-24 17:18:29",
+  "extracted_at": "2026-03-25 16:56:44",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,21 +47,21 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/AVGO-Suppliers",
+      "url": "https://www.broadcom.com/how-to-buy/partner-distributor-lookup",
       "query": "Broadcom Inc. suppliers manufacturers",
-      "snippet": "Broadcom Inc supply chain, list and performance of Broadcom Incs ' suppliers - CSIMarket."
+      "snippet": "Find a local reseller or global distributor of every Broadcom software solution for your business or enterprise, spanning the desktop to the Mainframe"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Broadcom",
       "query": "Broadcom Inc. major customers clients",
-      "snippet": "3 days ago - Broadcom also offers products for supporting BizOps, including: ... Broadcom uses the term XPU to refer to custom ASIC chips developed in"
+      "snippet": "Broadcom Inc . is an American multinational designer, developer, manufacturer, and global supplier of a wide range of semiconductor and infrastructure"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.appsruntheworld.com/customers-database/vendors/view/broadcom",
+      "url": "https://csimarket.com/stocks/AVGO-Customers",
       "query": "Broadcom Inc. major customers clients",
-      "snippet": "3 weeks ago - The most widely adopted products are Broadcom Symantec Secure Web Gateway, AppWorx Workload Automation, Broadcom Symantec Endpoint Prote"
+      "snippet": "2 days ago · Broadcom Inc customers and markets, results by customer and performance relative to AVGO, by company and industry - CSIMarket"
     }
   ]
 }

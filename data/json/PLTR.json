@@ -7,31 +7,31 @@
     "AMZN",
     "MSFT",
     "GOOGL",
-    "ORCL",
-    "IBM"
+    "DELL",
+    "CSCO"
   ],
   "downstream": [
     "U.S. Department of Defense",
-    "INTC",
-    "Federal Bureau of Investigation",
-    "Walmart Inc.",
-    "JPMorgan Chase & Co."
+    "U.S. Department of Homeland Security",
+    "Federal Bureau of Investigation (FBI)",
+    "General Electric",
+    "Airbus"
   ],
   "competitors": [
-    "Snowflake Inc.",
-    "Databricks Inc.",
-    "Splunk Inc.",
-    "CRM",
-    "Qlik Technologies"
+    "Snowflake",
+    "Databricks",
+    "Splunk",
+    "IBM",
+    "MSFT"
   ],
   "key_products": [
     "Gotham",
     "Foundry",
     "Palantir Apollo",
-    "Palantir Helix",
-    "Palantir Data Lake"
+    "Palantir Platform",
+    "Palantir Data Integration"
   ],
-  "extracted_at": "2026-03-24 17:00:49",
+  "extracted_at": "2026-03-25 16:55:43",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,25 +43,25 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Palantir",
       "query": "Palantir Technologies Inc. suppliers manufacturers",
-      "snippet": "Palantir Technologies Inc . Palantir Technologies Inc . is an American publicly traded company that develops data integration and analytics platforms "
+      "snippet": "Palantir Technologies Inc . is an American publicly traded company that develops data integration and analytics platforms enabling government agencies"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/PLTR/",
+      "url": "https://csimarket.com/stocks/PLTR-Suppliers",
       "query": "Palantir Technologies Inc. suppliers manufacturers",
-      "snippet": "Find the latest Palantir Technologies Inc . (PLTR) stock quote, history, news and other vital information to help you with your stock trading and inve"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://data.landbase.com/technology/palantir/",
-      "query": "Palantir Technologies Inc. major customers clients",
-      "snippet": "Aug 17, 2025 · Companies using Palantir by Palantir Technologies Inc in 2026 As of 2026, 1,479 verified companies use Palantir – across industries, co"
+      "snippet": "Feb 19, 2026 · Palantir Technologies Inc 's Suppliers recorded an increase in sales by 27.06 % year on year in Q4 2025, sequentially sales grew by 3.4"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.appsruntheworld.com/customers-database/products/view/palantir-foundry",
       "query": "Palantir Technologies Inc. major customers clients",
       "snippet": "Contact APPS RUN THE WORLD to access the full verified Palantir Foundry customer database with detailed Firmographics such as industry, geography, rev"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://data.landbase.com/technology/palantir/",
+      "query": "Palantir Technologies Inc. major customers clients",
+      "snippet": "Aug 17, 2025 · Companies using Palantir by Palantir Technologies Inc in 2026 As of 2026, 1,479 verified companies use Palantir – across industries, co"
     }
   ]
 }

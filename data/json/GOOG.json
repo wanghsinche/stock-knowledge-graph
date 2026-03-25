@@ -5,15 +5,15 @@
   "industry": "Internet Content & Information",
   "upstream": [
     "INTC",
-    "NVDA",
-    "AMD",
     "QCOM",
-    "005930.KS"
+    "005930.KS",
+    "NVDA",
+    "CSCO"
   ],
   "downstream": [
-    "Advertisers",
-    "Android app developers",
-    "YouTube creators",
+    "GOOGL",
+    "Android device manufacturers",
+    "YouTube advertisers",
     "GOOGL",
     "GOOGL"
   ],
@@ -22,7 +22,7 @@
     "AMZN",
     "META",
     "AAPL",
-    "Tencent"
+    "NFLX"
   ],
   "key_products": [
     "Google Search",
@@ -31,7 +31,7 @@
     "Google Cloud Platform",
     "Google Ads"
   ],
-  "extracted_at": "2026-03-24 17:08:41",
+  "extracted_at": "2026-03-25 16:56:07",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,21 +47,21 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ru.wikipedia.org/wiki/Alphabet",
+      "url": "https://csimarket.com/stocks/GOOG-Suppliers",
       "query": "Alphabet Inc. suppliers manufacturers",
-      "snippet": "Alphabet Inc . — холдинговая компания, управляющая компанией Google Inc и её дочерними структурами, а также рядом стартапов. Штаб-квартира расположена"
+      "snippet": "Feb 6, 2026 · Alphabet Inc 's Comment on Supply Chain We rely on third parties to manufacture many of our assemblies and finished products, and we hav"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Alphabet_Inc.",
       "query": "Alphabet Inc. major customers clients",
-      "snippet": "It was created through a restructuring of Google on October 2, 2015, and became the parent holding company of Google and several former Google subsidi"
+      "snippet": "Alphabet Inc . is an American multinational technology conglomerate holding company headquartered in Mountain View, California. It was created through"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.stockjabber.com/company/GOOGL/company-insights/Customers",
+      "url": "https://www.investing.com/equities/google-inc",
       "query": "Alphabet Inc. major customers clients",
-      "snippet": "Alphabet Inc. Class A: Sectors, Clients, and Customers ; 1. Digital Advertising ; 2. Cloud Computing ; 3. E-commerce and Retail ; 4. Entertainment and"
+      "snippet": "Get detailed information about the Alphabet Inc . stock (GOOGL) including Price, Charts, Technical Analysis, Historical data, Alphabet Reports and mor"
     }
   ]
 }

@@ -2,36 +2,36 @@
   "ticker": "MSTR",
   "company_name": "MicroStrategy Incorporated",
   "sector": "Technology",
-  "industry": "Software—Application",
+  "industry": "Software - Application",
   "upstream": [
     "MSFT",
     "AMZN",
     "GOOGL",
     "ORCL",
-    "SAP"
+    "IBM"
   ],
   "downstream": [
-    "UnitedHealth Group",
-    "JPMorgan Chase",
-    "Walmart",
-    "General Motors",
-    "U.S. Department of Defense"
+    "Bank of America",
+    "J.P. Morgan Chase",
+    "Citigroup",
+    "Goldman Sachs",
+    "Walmart"
   ],
   "competitors": [
-    "Tableau",
-    "Qlik",
+    "Tableau Software",
     "MSFT",
-    "SAP BusinessObjects",
-    "ORCL"
+    "Qlik",
+    "Looker",
+    "SAP Analytics Cloud"
   ],
   "key_products": [
     "MicroStrategy Analytics",
-    "MicroStrategy Enterprise Analytics",
+    "MicroStrategy Desktop",
     "MicroStrategy Mobile",
     "MicroStrategy Cloud",
     "MicroStrategy Data Warehouse"
   ],
-  "extracted_at": "2026-03-24 17:41:38",
+  "extracted_at": "2026-03-25 16:57:57",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.strategyinc.net/services-overview/",
+      "url": "https://en.wikipedia.org/wiki/Supply_chain",
       "query": "Strategy Inc suppliers manufacturers",
-      "snippet": "Our Consulting Services At Strategy Inc ., we offer a comprehensive range of consulting services required for life science and medical device due dili"
+      "snippet": "A typical supply chain can be divided into two stages namely, production and distribution stages. In the production stage, components and semi-finishe"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://industryselect.com/blog/top-10-manufacturing-companies-in-arizona",
+      "url": "https://www.globalsources.com/",
       "query": "Strategy Inc suppliers manufacturers",
-      "snippet": "According to MNI, compiler of the industrial information that powers IndustrySelect, Arizona is currently home to 4,246 manufacturers employing 219,20"
+      "snippet": "The leading international multichannel B2B online marketplace & sourcing platform connecting authentic buyers and verified wholesale suppliers & manuf"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.strategy.com/software/customer-stories",
+      "url": "https://en.wikipedia.org/wiki/MicroStrategy",
       "query": "Strategy Inc major customers clients",
-      "snippet": "Dive into Strategy customer stories highlighting the impact of Analytics in Healthcare, Financial Services, Call Centers, Retail, Insurance, and Gover"
+      "snippet": "Strategy Inc ., formerly known as MicroStrategy, is an American company that provides business intelligence and mobile software.In 1992, MicroStrategy"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.featuredcustomers.com/vendor/strategy",
+      "url": "https://www.tradingview.com/symbols/NASDAQ-MSTR/ideas/page-4/",
       "query": "Strategy Inc major customers clients",
-      "snippet": "Learn more about Strategy - use cases, approaches, & end results from real customers ; read customer reviews including 338 testimonials, videos, and c"
+      "snippet": "Check out the latest trade and investment ideas for Strategy Inc Class A from our top authors. They share opinions on price directions and technical o"
     }
   ]
 }

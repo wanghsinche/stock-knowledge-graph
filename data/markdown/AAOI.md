@@ -1,57 +1,57 @@
 ---
 ticker: AAOI
 company: Applied Optoelectronics, Inc.
-sector: Technology / Communication Equipment
-industry: Optical Communications Equipment
-extracted_at: 2026-03-24 17:37:17
-last_updated: 2026-03-24
+sector: Technology
+industry: Communication Equipment
+extracted_at: 2026-03-25 17:02:25
+last_updated: 2026-03-25
 ---
 
 # AAOI - Applied Optoelectronics, Inc.
 
 ## 基本信息
 
-- **所属行业**: Technology / Communication Equipment / Optical Communications Equipment
-- **提取时间**: 2026-03-24 17:37:17
+- **所属行业**: Technology / Communication Equipment
+- **提取时间**: 2026-03-25 17:02:25
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Semiconductor Material Suppliers]]
-- [[Laser Diode Manufacturers]]
-- [[Optical Fiber Producers]]
-- [[CAT]]
-- [[Optical Lens Suppliers]]
+- [[Gallium Arsenide (GaAs) suppliers]]
+- [[Indium Phosphide (InP) suppliers]]
+- [[Silicon wafer suppliers]]
+- [[META]]
+- [[Optical fiber component suppliers]]
 
 ### 下游客户
-- [[Telecom Equipment Manufacturers]]
-- [[Data Center Equipment Suppliers]]
-- [[Defense Contractors]]
-- [[Optical Test Equipment Companies]]
-- [[Industrial Automation Firms]]
+- [[CAT]]
+- [[Data center infrastructure providers]]
+- [[Optical networking equipment vendors]]
+- [[Fiber optic cable manufacturers]]
+- [[High‑speed data transmission system integrators]]
 
 ### 竞争对手
-- [[Finisar Corp.]]
+- [[Finisar Corporation]]
 - [[Lumentum Holdings]]
-- [[II-VI Incorporated]]
-- [[Coherent Inc.]]
+- [[II‑VI Incorporated]]
+- [[AVGO]]
 - [[AVGO]]
 
 ### 核心产品
-- [[Laser Diodes]]
-- [[Optical Amplifiers]]
+- [[Laser diodes]]
 - [[Photodetectors]]
-- [[Optical Transceivers]]
-- [[Optical Filters]]
+- [[Optical transceivers]]
+- [[Optoelectronic modules]]
+- [[Optical power meters]]
 
 ## 数据来源
 
 - 
-- [Applied Optoelectronics, Inc. suppliers manufacturers](https://csimarket.com/stocks/fundamentals_glance.php?code=AAOI)
-- [Applied Optoelectronics, Inc. suppliers manufacturers](https://finance.yahoo.com/markets/stocks/articles/applied-optoelectronics-inc-aaoi-good-200732353.html)
-- [Applied Optoelectronics, Inc. major customers clients](https://simplywall.st/stocks/us/tech/nasdaq-aaoi/applied-optoelectronics/news/applied-optoelectronics-53m-800g-win-tests-ai-data-center-st)
-- [Applied Optoelectronics, Inc. major customers clients](https://csimarket.com/stocks/AAOI-Customers)
+- [Applied Optoelectronics, Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/Applied_Optoelectronics)
+- [Applied Optoelectronics, Inc. suppliers manufacturers](https://csimarket.com/stocks/AAOI-Suppliers)
+- [Applied Optoelectronics, Inc. major customers clients](https://www.pitchgrade.com/companies/applied-optoelectronics-inc)
+- [Applied Optoelectronics, Inc. major customers clients](https://appliedoptoelectronics.gcs-web.com/ir-services/investor-faqs)
 
 ## 元数据
 
-- **更新日期**: 2026-03-24
+- **更新日期**: 2026-03-25

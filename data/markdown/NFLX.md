@@ -3,8 +3,8 @@ ticker: NFLX
 company: Netflix, Inc.
 sector: Communication Services
 industry: Entertainment
-extracted_at: 2026-03-24 17:46:20
-last_updated: 2026-03-24
+extracted_at: 2026-03-25 17:00:33
+last_updated: 2026-03-25
 ---
 
 # NFLX - Netflix, Inc.
@@ -12,23 +12,23 @@ last_updated: 2026-03-24
 ## 基本信息
 
 - **所属行业**: Communication Services / Entertainment
-- **提取时间**: 2026-03-24 17:46:20
+- **提取时间**: 2026-03-25 17:00:33
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Hollywood studios]]
-- [[Production equipment suppliers]]
-- [[Content distributors]]
-- [[Cloud service providers (e.g., AWS)]]
-- [[Music licensing companies]]
+- [[Warner Bros. Discovery]]
+- [[The Walt Disney Company]]
+- [[Paramount Global]]
+- [[SONY]]
+- [[Universal Studios]]
 
 ### 下游客户
-- [[US subscribers]]
-- [[European subscribers]]
-- [[Asian subscribers]]
+- [[US households]]
+- [[European households]]
+- [[Asian households]]
 - [[Corporate accounts]]
-- [[Family households]]
+- [[AAPL]]
 
 ### 竞争对手
 - [[Disney+]]
@@ -39,19 +39,19 @@ last_updated: 2026-03-24
 
 ### 核心产品
 - [[Netflix streaming service]]
-- [[Original series]]
-- [[Original movies]]
-- [[Documentaries]]
-- [[Kids & family content]]
+- [[Netflix Originals]]
+- [[Subscription plans (Basic, Standard, Premium)]]
+- [[Mobile and web apps]]
+- [[Smart TV and gaming console apps]]
 
 ## 数据来源
 
 - [Netflix, Inc.](https://en.wikipedia.org/wiki/Netflix,_Inc.)
-- [Netflix, Inc. suppliers manufacturers](https://porteranalysis.com/porters-five-forces-of-netflix/)
-- [Netflix, Inc. suppliers manufacturers](https://www.alibaba.com/)
-- [Netflix, Inc. major customers clients](https://en.wikipedia.org/wiki/Reed_Hastings)
-- [Netflix, Inc. major customers clients](https://www.yahoo.com/news/netflix-subscriber-growth-beats-estimates-201525977.html)
+- [Netflix, Inc. suppliers manufacturers](https://finance.mail.ru/article/netflix-hochet-zaregistrirovat-v-rf-odnoimennyj-tovarnyj-znak-69202810/)
+- [Netflix, Inc. suppliers manufacturers](https://www.globalsources.com/)
+- [Netflix, Inc. major customers clients](https://www.inc.com/jason-aten/netflix-just-revealed-its-doing-the-1-thing-customers-were-most-afraid-of/91110628)
+- [Netflix, Inc. major customers clients](https://www.thestreet.com/markets/watch-for-todays-momo-momentum-stock-netflix-nflx-13181843)
 
 ## 元数据
 
-- **更新日期**: 2026-03-24
+- **更新日期**: 2026-03-25

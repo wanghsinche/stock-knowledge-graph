@@ -1,37 +1,37 @@
 {
   "ticker": "SNDK",
-  "company_name": "Sandisk Corporation",
+  "company_name": "SanDisk Corporation",
   "sector": "Technology",
   "industry": "Computer Hardware",
   "upstream": [
-    "Mouser Electronics",
-    "MU",
     "005930.KS",
-    "Toshiba",
-    "INTC"
+    "MU",
+    "SK Hynix",
+    "Toshiba Memory",
+    "WDC"
   ],
   "downstream": [
     "AAPL",
     "DELL",
     "HPQ",
-    "Lenovo",
-    "SONY"
+    "SONY",
+    "MSFT"
   ],
   "competitors": [
+    "005930.KS",
+    "MU",
     "Kingston Technology",
-    "Lexar",
-    "Corsair",
-    "Crucial",
-    "005930.KS"
+    "WDC",
+    "Lexar Corporation"
   ],
   "key_products": [
-    "Memory cards",
+    "SD memory cards",
+    "microSD cards",
     "USB flash drives",
-    "Solid-state drives",
-    "Automotive‑grade flash memory",
-    "Embedded flash solutions"
+    "solid‑state drives (SSDs)",
+    "portable storage devices"
   ],
-  "extracted_at": "2026-03-24 16:56:56",
+  "extracted_at": "2026-03-25 16:54:48",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,15 +41,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.sandisk.com/company/distributors",
+      "url": "https://en.wikipedia.org/wiki/Sandisk",
       "query": "Sandisk Corporation suppliers manufacturers",
-      "snippet": "Sandisk ’s automotive-grade products are developed in alignment with key industry standards and quality frameworks. These standards guide our design, "
+      "snippet": "Sandisk Corporation is an American multinational computer technology company based in Milpitas, California, that designs and manufactures flash memory"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.mouser.com/manufacturer/sandisk/",
+      "url": "https://ru.wikipedia.org/wiki/SanDisk",
       "query": "Sandisk Corporation suppliers manufacturers",
-      "snippet": "Sandisk supplier Mouser Electronics now stocks Sandisk . SanDisk SanDisk Corporation is a global leader in flash storage solutions, expanding the poss"
+      "snippet": "SanDisk Corporation . Изображение логотипа. Тип. SanDisk — американская корпорация, занимавшаяся разработкой и производством носителей информации на б"
     },
     {
       "source": "DuckDuckGo",

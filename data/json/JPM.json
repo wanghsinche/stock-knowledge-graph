@@ -5,17 +5,17 @@
   "industry": "Banks - Diversified",
   "upstream": [
     "MSFT",
-    "ORCL",
-    "IBM",
-    "CRM",
-    "SAP"
+    "Payment processors (e.g., Visa, Mastercard)",
+    "Cloud services (e.g., AWS, Azure)",
+    "Consulting firms (e.g., Accenture, Deloitte)",
+    "DELL"
   ],
   "downstream": [
-    "Retail banking customers",
-    "Small business clients",
-    "Corporate banking clients",
-    "Institutional investors",
-    "Government entities"
+    "AAPL",
+    "Institutional investors (e.g., pension funds)",
+    "Retail customers (individual consumers)",
+    "Small and medium enterprises",
+    "Government agencies"
   ],
   "competitors": [
     "Bank of America",
@@ -25,13 +25,13 @@
     "Morgan Stanley"
   ],
   "key_products": [
-    "Retail banking services",
-    "Investment banking services",
-    "Wealth management",
+    "Retail banking",
+    "Corporate banking",
+    "Investment banking",
     "Asset management",
-    "Credit cards and loans"
+    "Wealth management"
   ],
-  "extracted_at": "2026-03-24 17:37:30",
+  "extracted_at": "2026-03-25 17:00:20",
   "sources": [
     {
       "source": "Wikipedia",
@@ -55,13 +55,13 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/JPMorgan_Chase",
       "query": "JPMorgan Chase & Co. major customers clients",
-      "snippet": "JPMorgan Chase & Co. (stylized as JPMorganChase) is an American multinational banking institution headquartered in New York City and incorporated in ."
+      "snippet": "The JPMorgan Chase logo prior to the 2008 rebranding As of June 2008, the JPMorgan logo used for the company's Investment Banking, Asset Management, a"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.jpmorganchase.com/",
       "query": "JPMorgan Chase & Co. major customers clients",
-      "snippet": "JPMorganChase serves millions of customers, clients and communities in over 100 global markets. For 225 years, our work has been guided by principles "
+      "snippet": "JPMorganChase opened its new global headquarters, marking a major milestone in its investment in New York City and workspaces globally. We are united "
     }
   ]
 }

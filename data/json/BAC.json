@@ -5,17 +5,17 @@
   "industry": "Banks - Diversified",
   "upstream": [
     "MSFT",
-    "ORCL",
-    "IBM",
-    "SAP",
-    "CRM"
+    "Data providers (e.g., Bloomberg, Thomson Reuters)",
+    "Payment processors (e.g., Visa, Mastercard)",
+    "Cybersecurity firms (e.g., Palo Alto Networks)",
+    "AMZN"
   ],
   "downstream": [
     "Retail banking customers",
-    "Small and Medium Enterprises (SMEs)",
-    "Corporate clients",
-    "Institutional investors",
-    "Mortgage borrowers"
+    "Corporate and small business clients",
+    "Mortgage borrowers",
+    "Investment banking clients",
+    "Wealth management clients"
   ],
   "competitors": [
     "JPMorgan Chase",
@@ -25,13 +25,13 @@
     "Morgan Stanley"
   ],
   "key_products": [
-    "Retail banking",
-    "Commercial banking",
-    "Investment banking",
-    "Wealth management",
-    "Credit cards"
+    "Checking and savings accounts",
+    "Credit cards",
+    "Mortgage loans",
+    "Investment banking services",
+    "Wealth management and advisory"
   ],
-  "extracted_at": "2026-03-24 18:14:06",
+  "extracted_at": "2026-03-25 17:04:24",
   "sources": [
     {
       "source": "Wikipedia",
@@ -53,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://newsroom.bankofamerica.com/content/newsroom/company-overview/bank-of-america-fast-facts.html",
+      "url": "https://en.wikipedia.org/wiki/Bank_of_America",
       "query": "Bank of America Corporation major customers clients",
-      "snippet": "Feb 24, 2026 · Explore Bank of America Fast Facts for key insights on our global presence, financial services, client reach, and commitment to respons"
+      "snippet": "The Bank of America Corporation is an American multinational investment bank and financial services holding company headquartered at the Bank of Ameri"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/BAC-Customers",
+      "url": "https://www.bankofamerica.com/",
       "query": "Bank of America Corporation major customers clients",
-      "snippet": "1 day ago · Bank Of America customers and markets, results by customer and performance relative to BAC, by company and industry - CSIMarket"
+      "snippet": "For customers with a Bank of America login with no credit score impact. Ready for an electric vehicle?Merrill Lynch Wealth Management Clients : 800-ME"
     }
   ]
 }
