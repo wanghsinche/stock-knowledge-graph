@@ -1,37 +1,37 @@
 {
   "ticker": "CIEN",
   "company_name": "Ciena Corporation",
-  "sector": "Technology",
-  "industry": "Communication Equipment",
+  "sector": "Technology / Communication Equipment",
+  "industry": "Optical Networking Systems",
   "upstream": [
-    "Optical fiber manufacturers (e.g., Corning, Lumentum)",
     "INTC",
-    "Software platform vendors (e.g., VMware, Red Hat)",
-    "AMAT",
-    "Research and development partners (e.g., MIT, Stanford)"
+    "AVGO",
+    "MRVL",
+    "TXN",
+    "QCOM"
   ],
   "downstream": [
-    "CAT",
-    "Global service providers (e.g., Vodafone, Deutsche Telekom, Telefonica)",
+    "AT&T",
+    "Verizon",
+    "Comcast",
     "GOOGL",
-    "Government and defense agencies (e.g., U.S. DoD, NATO)",
-    "Telecom infrastructure integrators (e.g., Ericsson, Nokia)"
+    "AMZN"
   ],
   "competitors": [
+    "CSCO",
+    "JNPR",
     "Nokia",
     "Ericsson",
-    "Huawei",
-    "JNPR",
-    "CSCO"
+    "Huawei"
   ],
   "key_products": [
-    "Optical transport platforms (e.g., 100G, 400G, 800G)",
-    "Optical switching and routing equipment",
-    "Optical networking software (e.g., Ciena OS)",
-    "Optical transceivers and amplifiers",
-    "Network management and analytics solutions"
+    "Optical transport systems",
+    "Optical networking equipment",
+    "Software‑defined networking solutions",
+    "Optical switches",
+    "Optical transceivers"
   ],
-  "extracted_at": "2026-03-18 16:58:21",
+  "extracted_at": "2026-03-26 17:02:31",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/news/ciena-corp-cien-q1-2026-210435020.html",
+      "url": "https://en.wikipedia.org/wiki/Ciena",
       "query": "Ciena Corporation suppliers manufacturers",
-      "snippet": "Ciena Corp (CIEN) reports its highest-ever quarterly revenue, driven by strong demand and strategic market expansion, despite ongoing supply chain con"
+      "snippet": "Ciena Corporation is an American optical networking systems and software company [4][5][6] based in Hanover, Maryland. [7][8] The company has been des"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://pitchgrade.com/companies/ciena-corp",
+      "url": "https://www.ciena.com/partners/locator",
       "query": "Ciena Corporation suppliers manufacturers",
-      "snippet": "Ciena Corp Business Model Canvas Explained. Ciena Corporation , a global supplier of telecommunications networking equipment, software, and services, "
+      "snippet": "Ciena is the global leader in high-speed connectivity. Our networking systems, components, automation software, and services revolutionize data transm"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/CIEN-Customers",
+      "url": "https://www.ciena.com/",
       "query": "Ciena Corporation major customers clients",
-      "snippet": "Ciena customers and markets, results by customer and performance relative to CIEN, by company and industry - CSIMarket.For your research, we’ve provid"
+      "snippet": "Ciena delivers the fastest network solutions to power cloud, AI, and digital transformation with high-speed, scalable, and secure connectivity."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.zacks.com/stock/news/2885010/ciena-surges-73-in-3-months-should-investors-still-buy-the-stock",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/ciena-corporation-cien-good-stock-205522681.html",
       "query": "Ciena Corporation major customers clients",
-      "snippet": "Ciena stock has surged 72.7% in three months, beating peers and broader sector declines. CIEN growth is fueled by AI-driven connectivity demand and st"
+      "snippet": "We came across a bullish thesis on Ciena Corporation on r/AIPortfolios by manojs. In this article, we will summarize the bulls’ thesis on CIEN. Ciena "
     }
   ]
 }

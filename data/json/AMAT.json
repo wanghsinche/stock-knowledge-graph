@@ -3,11 +3,35 @@
   "company_name": "Applied Materials, Inc.",
   "sector": "Technology",
   "industry": "Semiconductor Equipment & Materials",
-  "upstream": [],
-  "downstream": [],
-  "competitors": [],
-  "key_products": [],
-  "extracted_at": "2026-03-25 17:03:05",
+  "upstream": [
+    "BASF",
+    "Dow Chemical",
+    "DuPont",
+    "Mitsubishi Chemical",
+    "Air Liquide"
+  ],
+  "downstream": [
+    "INTC",
+    "005930.KS",
+    "TSM",
+    "MU",
+    "GlobalFoundries"
+  ],
+  "competitors": [
+    "ASML",
+    "LRCX",
+    "Tokyo Electron",
+    "KLA Corporation",
+    "AMAT"
+  ],
+  "key_products": [
+    "Deposition equipment",
+    "Etching equipment",
+    "Metrology tools",
+    "Semiconductor fabrication equipment",
+    "Coating equipment for displays"
+  ],
+  "extracted_at": "2026-03-26 16:58:02",
   "sources": [
     {
       "source": "Wikipedia",
@@ -19,13 +43,25 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Applied_Materials",
       "query": "Applied Materials, Inc. suppliers manufacturers",
-      "snippet": "Applied Materials , Inc . is an American corporation that supplies equipment, services and software for the manufacture of semiconductor (integrated c"
+      "snippet": "Applied Materials , Inc . is an American corporation that supplies equipment, services and software for the manufacture of semiconductor chips for ele"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.appliedmaterials.com/us/en.html",
+      "url": "https://www.appliedmaterials.com/",
       "query": "Applied Materials, Inc. suppliers manufacturers",
       "snippet": "Applied Materials , Inc . is the leader in materials engineering solutions that are at the foundation of virtually every new semiconductor and advance"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/Applied_Materials",
+      "query": "Applied Materials, Inc. major customers clients",
+      "snippet": "Applied Materials , Inc . is an American corporation that supplies equipment, services and software for the manufacture of semiconductor chips for ele"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.appliedmaterials.com/",
+      "query": "Applied Materials, Inc. major customers clients",
+      "snippet": "Applied Materials Accelerates Materials Simulation for the AI Era in Collaboration with NVIDIA. View Quick Take. Applied Materials Raises Quarterly Ca"
     }
   ]
 }

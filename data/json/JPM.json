@@ -5,17 +5,17 @@
   "industry": "Banks - Diversified",
   "upstream": [
     "MSFT",
-    "Payment processors (e.g., Visa, Mastercard)",
-    "Cloud services (e.g., AWS, Azure)",
-    "Consulting firms (e.g., Accenture, Deloitte)",
-    "DELL"
+    "IBM",
+    "ORCL",
+    "Accenture",
+    "Deloitte"
   ],
   "downstream": [
-    "AAPL",
-    "Institutional investors (e.g., pension funds)",
-    "Retail customers (individual consumers)",
+    "Large corporations",
     "Small and medium enterprises",
-    "Government agencies"
+    "High-net-worth individuals",
+    "Government entities",
+    "Retail customers"
   ],
   "competitors": [
     "Bank of America",
@@ -26,12 +26,12 @@
   ],
   "key_products": [
     "Retail banking",
-    "Corporate banking",
+    "Commercial banking",
     "Investment banking",
     "Asset management",
     "Wealth management"
   ],
-  "extracted_at": "2026-03-25 17:00:20",
+  "extracted_at": "2026-03-26 17:01:08",
   "sources": [
     {
       "source": "Wikipedia",
@@ -55,13 +55,13 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/JPMorgan_Chase",
       "query": "JPMorgan Chase & Co. major customers clients",
-      "snippet": "The JPMorgan Chase logo prior to the 2008 rebranding As of June 2008, the JPMorgan logo used for the company's Investment Banking, Asset Management, a"
+      "snippet": "JPMorgan Chase & Co . (stylized as JPMorganChase ) is an American multinational banking institution headquartered in New York City and incorporated in"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.jpmorganchase.com/",
       "query": "JPMorgan Chase & Co. major customers clients",
-      "snippet": "JPMorganChase opened its new global headquarters, marking a major milestone in its investment in New York City and workspaces globally. We are united "
+      "snippet": "JPMorganChase opened its new global headquarters at 270 Park Avenue, marking a major milestone in its commitment to New York City.Committed to service"
     }
   ]
 }

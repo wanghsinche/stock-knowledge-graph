@@ -4,34 +4,38 @@
   "sector": "Industrials",
   "industry": "Farm & Heavy Construction Machinery",
   "upstream": [
-    "Boeing",
-    "General Electric",
-    "CAT",
-    "CAT",
-    "CAT"
+    "Rockwell Automation",
+    "Eaton",
+    "Siemens",
+    "ABB",
+    "Honeywell"
   ],
   "downstream": [
-    "Construction companies (e.g., Bechtel, Fluor)",
     "HPQ",
-    "Agricultural equipment dealers",
-    "Government agencies (e.g., U.S. Army)",
-    "Infrastructure developers"
+    "Rio Tinto",
+    "US Army",
+    "Bechtel",
+    "Fluor"
   ],
   "competitors": [
+    "DE",
     "Komatsu",
     "Volvo Construction Equipment",
-    "DE",
     "CNH Industrial",
-    "Hitachi Construction Machinery"
+    "Doosan"
   ],
   "key_products": [
     "Excavators",
     "Bulldozers",
-    "Wheel Loaders",
+    "Wheel loaders",
+    "Backhoes",
     "Mining trucks",
-    "Engine and power systems"
+    "Drills",
+    "Generators",
+    "Engines",
+    "Hydraulic components"
   ],
-  "extracted_at": "2026-03-23 16:54:15",
+  "extracted_at": "2026-03-26 17:04:27",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +45,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.caterpillar.com/en/company/working-together/suppliers.html",
+      "url": "https://en.wikipedia.org/wiki/Caterpillar_Inc.",
       "query": "Caterpillar Inc. suppliers manufacturers",
-      "snippet": "Caterpillar suppliers set high standards for specifications, delivery and price, communication and conduct."
+      "snippet": "Caterpillar Inc . is an American construction, mining, and other engineering equipment manufacturer . The company is the world's largest manufacturer "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.goldsupplier.com/discover/top-10-caterpillar-suppliers-manufacturers-in-the-united-states/",
+      "url": "https://ru.wikipedia.org/wiki/Caterpillar",
       "query": "Caterpillar Inc. suppliers manufacturers",
-      "snippet": "Caterpillar Inc . is one of the world’s leaders in remarkable machines, construction equipment, and engines. For some of the trusted suppliers , maint"
+      "snippet": "Caterpillar Inc . ([ˈkætəpɪlə]), «Катерпиллар»[4] — американская компания, один из крупнейших мировых производителей строительной и горнодобывающей те"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.caterpillar.com/en/company/100/customers-success.html",
+      "url": "https://en.wikipedia.org/wiki/Caterpillar_Inc.",
       "query": "Caterpillar Inc. major customers clients",
-      "snippet": "\"Buy the iron, get the company.\" If you’ve been around Caterpillar long enough, you’re familiar with those words. And even if you haven’t, you get the"
+      "snippet": "Caterpillar Inc . is an American construction, mining, and other engineering equipment manufacturer. The company is the world's largest manufacturer o"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/CAT-Customers",
+      "url": "https://www.youtube.com/channel/UCetJvfhHNboF_Tl3auMOs5w",
       "query": "Caterpillar Inc. major customers clients",
-      "snippet": "3 days ago · Caterpillar Inc customers and markets, results by customer and performance relative to CAT , by company and industry - CSIMarket"
+      "snippet": "Over the last century, Caterpillar has grown with our customers to help build a better, more sustainable world. We’ve changed together as the world ha"
     }
   ]
 }

@@ -2,36 +2,36 @@
   "ticker": "HOOD",
   "company_name": "Robinhood Markets, Inc.",
   "sector": "Financial Services",
-  "industry": "Capital Markets",
+  "industry": "Brokerage & Trading",
   "upstream": [
     "AMZN",
     "GOOGL",
     "Bloomberg L.P.",
-    "Refinitiv",
-    "Stripe"
+    "NASDAQ",
+    "NYSE"
   ],
   "downstream": [
     "Retail investors",
-    "Day traders",
-    "Crypto traders",
-    "Institutional clients",
-    "High‑frequency traders"
+    "High-net-worth individuals",
+    "Institutional investors",
+    "Financial advisors",
+    "Day traders"
   ],
   "competitors": [
-    "eToro",
-    "Webull",
     "Charles Schwab",
-    "Fidelity",
-    "Interactive Brokers"
+    "E*TRADE",
+    "TD Ameritrade",
+    "Fidelity Investments",
+    "Webull"
   ],
   "key_products": [
-    "Robinhood app",
-    "Robinhood Gold",
-    "Robinhood Crypto",
+    "Commission-free stock trading",
     "Options trading",
+    "Crypto trading",
+    "Margin trading (Robinhood Gold)",
     "Cash management"
   ],
-  "extracted_at": "2026-03-25 16:59:07",
+  "extracted_at": "2026-03-26 16:59:42",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,15 +41,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/HOOD-Suppliers",
+      "url": "https://en.wikipedia.org/wiki/Robinhood_Markets",
       "query": "Robinhood Markets, Inc. suppliers manufacturers",
-      "snippet": "Feb 28, 2026 · Sources: Robinhood Markets Inc 's official press releases and regulatory filings; CSIMarket.com's supply -chain research; and the finan"
+      "snippet": "Robinhood Markets , Inc . is an American financial services company based in Menlo Park, California. It provides an electronic trading platform that f"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.bizprofile.net/az/phoenix/robinhood-markets-inc",
+      "url": "https://robinhood.com/",
       "query": "Robinhood Markets, Inc. suppliers manufacturers",
-      "snippet": "Feb 16, 2023 · Robinhood Markets , Inc . is a Phoenix , AZ based company incorporated on February 16, 2023. Filing details extracted from the Arizona "
+      "snippet": "Trade stocks on Robinhood with commission-free investing & advanced trading tools. Access fractional shares, real-time market data, and more."
     },
     {
       "source": "DuckDuckGo",
@@ -59,9 +59,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://robinhood.com/",
+      "url": "https://pitchgrade.com/companies/robinhood-markets",
       "query": "Robinhood Markets, Inc. major customers clients",
-      "snippet": "Trade stocks on Robinhood with commission-free investing & advanced trading tools. Access fractional shares, real-time market data, and more."
+      "snippet": "Customer Segments: Robinhood Markets , Inc . serves multiple distinct customer segments, which may include consumers, small and medium businesses, ent"
     }
   ]
 }

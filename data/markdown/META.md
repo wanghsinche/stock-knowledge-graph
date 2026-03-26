@@ -3,8 +3,8 @@ ticker: META
 company: Meta Platforms, Inc.
 sector: Communication Services
 industry: Internet Content & Information
-extracted_at: 2026-03-25 16:55:33
-last_updated: 2026-03-25
+extracted_at: 2026-03-26 16:53:35
+last_updated: 2026-03-26
 ---
 
 # META - Meta Platforms, Inc.
@@ -12,46 +12,46 @@ last_updated: 2026-03-25
 ## 基本信息
 
 - **所属行业**: Communication Services / Internet Content & Information
-- **提取时间**: 2026-03-25 16:55:33
+- **提取时间**: 2026-03-26 16:53:35
 
 ## 产业链关系
 
 ### 上游供应商
-- [[CSCO]]
-- [[DELL]]
-- [[HPQ]]
-- [[INTC]]
 - [[NVDA]]
+- [[AMD]]
+- [[INTC]]
+- [[TSM]]
+- [[QCOM]]
 
 ### 下游客户
-- [[Digital advertisers (brands, agencies)]]
-- [[META]]
-- [[META]]
-- [[Content creators on Facebook/Instagram]]
-- [[META]]
+- [[Advertisers]]
+- [[Small businesses]]
+- [[Large enterprises]]
+- [[App developers]]
+- [[Content creators]]
 
 ### 竞争对手
-- [[GOOGL]]
-- [[AMZN]]
-- [[AAPL]]
-- [[MSFT]]
-- [[TikTok (ByteDance)]]
+- [[Twitter]]
+- [[TikTok]]
+- [[Snapchat]]
+- [[LinkedIn]]
+- [[Pinterest]]
 
 ### 核心产品
 - [[Facebook]]
 - [[Instagram]]
 - [[WhatsApp]]
-- [[Meta Quest]]
+- [[Messenger]]
 - [[Meta Ads]]
 
 ## 数据来源
 
 - [Meta Platforms](https://en.wikipedia.org/wiki/Meta_Platforms,_Inc.)
 - [Meta Platforms, Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/Meta_Platforms)
-- [Meta Platforms, Inc. suppliers manufacturers](https://csimarket.com/stocks/META-Suppliers)
-- [Meta Platforms, Inc. major customers clients](https://en.wikipedia.org/wiki/Meta_Platforms)
-- [Meta Platforms, Inc. major customers clients](https://csimarket.com/stocks/META-Customers)
+- [Meta Platforms, Inc. suppliers manufacturers](https://data.ark.ai/analysis/suppliers/meta-platforms-inc-supplier-profile-overview)
+- [Meta Platforms, Inc. major customers clients](https://ru.wikipedia.org/wiki/Meta_Platforms)
+- [Meta Platforms, Inc. major customers clients](https://www.meta.com/about/)
 
 ## 元数据
 
-- **更新日期**: 2026-03-25
+- **更新日期**: 2026-03-26

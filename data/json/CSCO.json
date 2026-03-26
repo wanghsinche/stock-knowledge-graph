@@ -8,14 +8,14 @@
     "AVGO",
     "QCOM",
     "TXN",
-    "MU"
+    "NVDA"
   ],
   "downstream": [
+    "Enterprise IT",
+    "Telecom operators",
     "Government agencies",
-    "Enterprise IT departments",
-    "CAT",
-    "Internet Service Providers",
-    "CAT"
+    "Small and medium businesses",
+    "Cloud service providers"
   ],
   "competitors": [
     "JNPR",
@@ -25,13 +25,16 @@
     "Ericsson"
   ],
   "key_products": [
-    "Cisco routers",
-    "Cisco switches",
-    "Webex video conferencing",
-    "OpenDNS security services",
-    "Cisco Jabber communication platform"
+    "Routers",
+    "Switches",
+    "Wireless access points",
+    "Security appliances",
+    "Webex",
+    "OpenDNS",
+    "Jabber",
+    "Jasper"
   ],
-  "extracted_at": "2026-03-25 17:03:28",
+  "extracted_at": "2026-03-26 17:01:18",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,15 +44,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Cisco",
+      "url": "https://www.cisco.com/c/dam/en_us/about/supply-chain/cisco-supplier-list.pdf",
       "query": "Cisco Systems, Inc. suppliers manufacturers",
-      "snippet": "Cisco Systems , Inc . is an American multinational technology conglomerate corporation that develops, manufactures , and sells hardware, software, tel"
+      "snippet": "Below is an alphabetical list of Cisco Contract Manufacturers, strategic Original Design Manufacturers, Joint Development Manufacturers, and. Componen"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ru.wikipedia.org/wiki/Cisco",
+      "url": "https://www.cisco.com/c/en/us/about/suppliers.html",
       "query": "Cisco Systems, Inc. suppliers manufacturers",
-      "snippet": "Cisco Systems , «Сиско Системз» — американская транснациональная компания, разрабатывающая и продающая сетевое оборудование, предназначенное в основно"
+      "snippet": "Cisco leverages a premier, strategic supplier network for our goods and services and hardware needs."
     },
     {
       "source": "DuckDuckGo",

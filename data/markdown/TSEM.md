@@ -1,57 +1,57 @@
 ---
 ticker: TSEM
 company: Tower Semiconductor Ltd.
-sector: Technology / Semiconductors
-industry: Semiconductor Foundry
-extracted_at: 2026-03-25 17:04:10
-last_updated: 2026-03-25
+sector: Technology
+industry: Semiconductors
+extracted_at: 2026-03-26 17:04:16
+last_updated: 2026-03-26
 ---
 
 # TSEM - Tower Semiconductor Ltd.
 
 ## 基本信息
 
-- **所属行业**: Technology / Semiconductors / Semiconductor Foundry
-- **提取时间**: 2026-03-25 17:04:10
+- **所属行业**: Technology / Semiconductors
+- **提取时间**: 2026-03-26 17:04:16
 
 ## 产业链关系
 
 ### 上游供应商
-- [[AMAT]]
-- [[ASML]]
-- [[LRCX]]
 - [[Tokyo Electron]]
+- [[ASML]]
+- [[AMAT]]
+- [[LRCX]]
 - [[KLA]]
 
 ### 下游客户
-- [[AAPL]]
 - [[QCOM]]
-- [[NVDA]]
 - [[AVGO]]
-- [[INTC]]
+- [[NXP Semiconductors]]
+- [[TXN]]
+- [[ADI]]
 
 ### 竞争对手
-- [[TSM]]
 - [[GlobalFoundries]]
-- [[UMC]]
+- [[ON Semiconductor]]
+- [[TSM]]
 - [[005930.KS]]
-- [[SMIC]]
+- [[INTC]]
 
 ### 核心产品
-- [[Specialty wafer foundry services]]
-- [[Advanced CMOS process nodes (0.13µm – 0.35µm)]]
-- [[High‑performance analog and RF solutions]]
-- [[Power electronics manufacturing]]
-- [[MEMS and sensor fabrication]]
+- [[Analog ICs]]
+- [[RF modules]]
+- [[Power management ICs]]
+- [[MEMS devices]]
+- [[High-performance analog]]
 
 ## 数据来源
 
 - 
-- [Tower Semiconductor Ltd. suppliers manufacturers](https://finance.yahoo.com/sectors/technology/articles/tower-semiconductor-announces-plans-expand-130500417.html)
-- [Tower Semiconductor Ltd. suppliers manufacturers](https://jp.towersemi.com/2026/03/25/03252026/)
-- [Tower Semiconductor Ltd. major customers clients](https://finance.yahoo.com/sectors/technology/articles/tower-semiconductor-announces-plans-expand-130500417.html)
-- [Tower Semiconductor Ltd. major customers clients](https://www.design-reuse.com/news/202515580-tower-semiconductor-completes-merger-with-jazz-technologies/)
+- [Tower Semiconductor Ltd. suppliers manufacturers](https://en.wikipedia.org/wiki/Tower_Semiconductor)
+- [Tower Semiconductor Ltd. suppliers manufacturers](https://towersemi.com/)
+- [Tower Semiconductor Ltd. major customers clients](https://csimarket.com/stocks/TSEM-Customers)
+- [Tower Semiconductor Ltd. major customers clients](https://towersemi.com/)
 
 ## 元数据
 
-- **更新日期**: 2026-03-25
+- **更新日期**: 2026-03-26

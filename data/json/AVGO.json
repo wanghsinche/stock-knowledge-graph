@@ -8,14 +8,14 @@
     "005930.KS",
     "GlobalFoundries",
     "UMC",
-    "INTC"
+    "SMIC"
   ],
   "downstream": [
+    "VMware",
     "CSCO",
     "DELL",
-    "IBM",
-    "AMZN",
-    "MSFT"
+    "MSFT",
+    "AMZN"
   ],
   "competitors": [
     "QCOM",
@@ -25,13 +25,13 @@
     "MRVL"
   ],
   "key_products": [
+    "Wi‑Fi 6/7 chips",
     "Ethernet controllers",
-    "Wi‑Fi/Bluetooth chips",
     "Broadband modems",
-    "Data center networking ASICs",
-    "Infrastructure software solutions"
+    "Storage controllers",
+    "RF transceivers"
   ],
-  "extracted_at": "2026-03-25 16:56:44",
+  "extracted_at": "2026-03-26 16:55:20",
   "sources": [
     {
       "source": "Wikipedia",
@@ -59,9 +59,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/AVGO-Customers",
+      "url": "https://ru.wikipedia.org/wiki/VMware",
       "query": "Broadcom Inc. major customers clients",
-      "snippet": "2 days ago · Broadcom Inc customers and markets, results by customer and performance relative to AVGO, by company and industry - CSIMarket"
+      "snippet": "VMware — американская компания, крупнейший разработчик программного обеспечения для виртуализации. Штаб-квартира расположена в Пало-Альто, Калифорния."
     }
   ]
 }

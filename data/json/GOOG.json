@@ -4,16 +4,16 @@
   "sector": "Communication Services",
   "industry": "Internet Content & Information",
   "upstream": [
+    "TSM",
+    "005930.KS",
     "INTC",
     "QCOM",
-    "005930.KS",
-    "NVDA",
-    "CSCO"
+    "NVDA"
   ],
   "downstream": [
     "GOOGL",
-    "Android device manufacturers",
-    "YouTube advertisers",
+    "YouTube content creators",
+    "Android OEM partners",
     "GOOGL",
     "GOOGL"
   ],
@@ -27,11 +27,11 @@
   "key_products": [
     "Google Search",
     "YouTube",
-    "Android OS",
     "Google Cloud Platform",
+    "Android OS",
     "Google Ads"
   ],
-  "extracted_at": "2026-03-25 16:56:07",
+  "extracted_at": "2026-03-26 16:55:00",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Alphabet_Inc.",
-      "query": "Alphabet Inc. suppliers manufacturers",
-      "snippet": "Alphabet Inc . is an American multinational technology conglomerate holding company headquartered in Mountain View, California. It was created through"
-    },
-    {
-      "source": "DuckDuckGo",
       "url": "https://csimarket.com/stocks/GOOG-Suppliers",
       "query": "Alphabet Inc. suppliers manufacturers",
       "snippet": "Feb 6, 2026 · Alphabet Inc 's Comment on Supply Chain We rely on third parties to manufacture many of our assemblies and finished products, and we hav"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Alphabet_Inc.",
-      "query": "Alphabet Inc. major customers clients",
-      "snippet": "Alphabet Inc . is an American multinational technology conglomerate holding company headquartered in Mountain View, California. It was created through"
+      "url": "https://www.industryleadersmagazine.com/an-a-to-z-list-of-companies-owned-by-alphabet-inc/",
+      "query": "Alphabet Inc. suppliers manufacturers",
+      "snippet": "Alphabet, Inc. is a technology conglomerate that owns four significant subsidiaries: Google LLC, XXVI Holdings Inc., Google Ireland Holdings, and Alph"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.investing.com/equities/google-inc",
+      "url": "https://csimarket.com/stocks/GOOGL-Customers",
       "query": "Alphabet Inc. major customers clients",
-      "snippet": "Get detailed information about the Alphabet Inc . stock (GOOGL) including Price, Charts, Technical Analysis, Historical data, Alphabet Reports and mor"
+      "snippet": "Feb 9, 2026 · Alphabet Inc customers and markets, results by customer and performance relative to GOOGL, by company and industry - CSIMarket"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://pitchgrade.com/companies/alphabet-inc",
+      "query": "Alphabet Inc. major customers clients",
+      "snippet": "Jan 15, 2026 · Customer Segments: Alphabet Inc . serves multiple distinct customer segments, which may include consumers, small and medium businesses,"
     }
   ]
 }

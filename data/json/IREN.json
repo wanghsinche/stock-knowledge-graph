@@ -1,37 +1,37 @@
 {
   "ticker": "IREN",
   "company_name": "IREN Limited",
-  "sector": "Financial Services / Capital Markets",
-  "industry": "Data Center Services",
+  "sector": "Financial Services",
+  "industry": "Capital Markets",
   "upstream": [
-    "NVDA",
     "DELL",
+    "HPQ",
     "CSCO",
-    "Solar panel manufacturers",
-    "Battery storage providers"
+    "MSFT",
+    "AMZN"
   ],
   "downstream": [
-    "Financial services firms",
-    "Capital markets firms",
-    "AI startups",
-    "Fintech companies",
-    "Insurance companies"
+    "Bank of America",
+    "Citigroup",
+    "HSBC",
+    "JP Morgan",
+    "Goldman Sachs"
   ],
   "competitors": [
     "Equinix",
     "Digital Realty",
-    "Switch",
-    "AMZN",
-    "MSFT"
+    "CyrusOne",
+    "Iron Mountain",
+    "AMZN"
   ],
   "key_products": [
-    "AI Cloud services",
-    "GPU cluster solutions",
-    "Renewable-powered data centers",
-    "Edge computing services",
-    "Colocation services"
+    "Data center services",
+    "Cloud infrastructure",
+    "AI Cloud",
+    "GPU clusters",
+    "Edge computing"
   ],
-  "extracted_at": "2026-03-25 17:03:55",
+  "extracted_at": "2026-03-26 17:00:57",
   "sources": [
     {
       "source": "Wikipedia",

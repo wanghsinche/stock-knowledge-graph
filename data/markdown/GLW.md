@@ -3,8 +3,8 @@ ticker: GLW
 company: Corning Incorporated
 sector: Technology
 industry: Electronic Components
-extracted_at: 2026-03-25 16:58:52
-last_updated: 2026-03-25
+extracted_at: 2026-03-26 16:59:53
+last_updated: 2026-03-26
 ---
 
 # GLW - Corning Incorporated
@@ -12,46 +12,46 @@ last_updated: 2026-03-25
 ## 基本信息
 
 - **所属行业**: Technology / Electronic Components
-- **提取时间**: 2026-03-25 16:58:52
+- **提取时间**: 2026-03-26 16:59:53
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Silica sand suppliers]]
-- [[Chemical feedstock suppliers]]
-- [[Glass manufacturing equipment suppliers]]
-- [[Raw material suppliers for optical fibers]]
-- [[Specialty glass raw material suppliers]]
+- [[BASF]]
+- [[Dow Chemical]]
+- [[Wacker Chemie]]
+- [[Koch Industries]]
+- [[Linde]]
 
 ### 下游客户
+- [[Life science companies]]
+- [[Semiconductor manufacturers]]
+- [[Optical device manufacturers]]
 - [[CAT]]
-- [[AAPL]]
-- [[Aerospace and defense contractors (e.g., Lockheed Martin)]]
-- [[Medical device manufacturers (e.g., Medtronic)]]
-- [[005930.KS]]
+- [[Automotive OEMs]]
 
 ### 竞争对手
-- [[005930.KS]]
-- [[LG Display]]
-- [[Asahi Glass Co.]]
-- [[Nippon Sheet Glass]]
-- [[Optical Fiber Solutions (OFS)]]
+- [[Schott AG]]
+- [[Edmund Optics]]
+- [[Thorlabs]]
+- [[Lumentum]]
+- [[Nexteer]]
 
 ### 核心产品
-- [[Optical fiber cables]]
-- [[Fiber optic connectors]]
-- [[Display glass panels]]
-- [[Smartphone glass (e.g., Corning Gorilla Glass)]]
-- [[High‑performance ceramics]]
+- [[Optical fibers]]
+- [[Glass fiber optics]]
+- [[Optical lenses]]
+- [[Glass substrates]]
+- [[Ceramic components]]
 
 ## 数据来源
 
-- 
+- [Corning Inc.](https://en.wikipedia.org/wiki/Corning_Incorporated)
 - [Corning Incorporated suppliers manufacturers](https://en.wikipedia.org/wiki/Corning_Inc.)
 - [Corning Incorporated suppliers manufacturers](https://www.corning.com/worldwide/en.html)
 - [Corning Incorporated major customers clients](https://csimarket.com/stocks/GLW-Customers)
-- [Corning Incorporated major customers clients](https://canvasbusinessmodel.com/blogs/target-market/corning-target-market)
+- [Corning Incorporated major customers clients](https://www.corning.com/worldwide/en/about-us/corning-business-segments.html)
 
 ## 元数据
 
-- **更新日期**: 2026-03-25
+- **更新日期**: 2026-03-26

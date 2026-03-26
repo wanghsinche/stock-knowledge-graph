@@ -4,40 +4,40 @@
   "sector": "Industrials",
   "industry": "Electrical Equipment & Parts",
   "upstream": [
-    "Power distribution equipment manufacturers",
-    "Cooling system suppliers",
-    "Networking equipment manufacturers",
-    "Component suppliers (semiconductors, connectors)",
-    "Electrical component distributors"
-  ],
-  "downstream": [
-    "Data center operators",
-    "CAT",
-    "Cloud service providers",
-    "Enterprise IT departments",
-    "Government agencies"
-  ],
-  "competitors": [
+    "ABB",
     "Schneider Electric",
     "Eaton",
+    "Rittal",
+    "Belden"
+  ],
+  "downstream": [
+    "AMZN",
+    "GOOGL",
+    "MSFT",
+    "Equinix",
+    "Digital Realty"
+  ],
+  "competitors": [
+    "APC by Schneider Electric",
+    "Eaton",
+    "Rittal",
     "ABB",
-    "CSCO",
-    "JNPR"
+    "CSCO"
   ],
   "key_products": [
-    "Power distribution units (PDUs)",
-    "Uninterruptible power supplies (UPS)",
-    "Data center cooling systems",
-    "Data center infrastructure management (DCIM) software",
-    "Rack‑mount power distribution solutions"
+    "Power Distribution Units (PDUs)",
+    "Uninterruptible Power Supplies (UPS)",
+    "Data Center Cooling Solutions",
+    "Data Center Infrastructure Management (DCIM) Software",
+    "Rack-Mount Equipment"
   ],
-  "extracted_at": "2026-03-25 17:02:13",
+  "extracted_at": "2026-03-26 17:00:35",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Vertiv_Holdings_Co",
       "title": "Vertiv",
-      "snippet": "Vertiv is an American provider of infrastructure and services for data centers, communication networks, and commercial and industrial environments."
+      "snippet": "Vertiv Holdings Co. is an American provider of infrastructure and services for data centers, communication networks, and commercial and industrial environments."
     },
     {
       "source": "DuckDuckGo",

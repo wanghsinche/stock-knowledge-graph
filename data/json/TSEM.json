@@ -1,37 +1,37 @@
 {
   "ticker": "TSEM",
   "company_name": "Tower Semiconductor Ltd.",
-  "sector": "Technology / Semiconductors",
-  "industry": "Semiconductor Foundry",
+  "sector": "Technology",
+  "industry": "Semiconductors",
   "upstream": [
-    "AMAT",
-    "ASML",
-    "LRCX",
     "Tokyo Electron",
+    "ASML",
+    "AMAT",
+    "LRCX",
     "KLA"
   ],
   "downstream": [
-    "AAPL",
     "QCOM",
-    "NVDA",
     "AVGO",
-    "INTC"
+    "NXP Semiconductors",
+    "TXN",
+    "ADI"
   ],
   "competitors": [
-    "TSM",
     "GlobalFoundries",
-    "UMC",
+    "ON Semiconductor",
+    "TSM",
     "005930.KS",
-    "SMIC"
+    "INTC"
   ],
   "key_products": [
-    "Specialty wafer foundry services",
-    "Advanced CMOS process nodes (0.13µm – 0.35µm)",
-    "High‑performance analog and RF solutions",
-    "Power electronics manufacturing",
-    "MEMS and sensor fabrication"
+    "Analog ICs",
+    "RF modules",
+    "Power management ICs",
+    "MEMS devices",
+    "High-performance analog"
   ],
-  "extracted_at": "2026-03-25 17:04:10",
+  "extracted_at": "2026-03-26 17:04:16",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/sectors/technology/articles/tower-semiconductor-announces-plans-expand-130500417.html",
+      "url": "https://en.wikipedia.org/wiki/Tower_Semiconductor",
       "query": "Tower Semiconductor Ltd. suppliers manufacturers",
-      "snippet": "About Tower Semiconductor Tower Semiconductor Ltd . (NASDAQ/TASE: TSEM), the leading foundry of high-value analog semiconductor solutions, provides te"
+      "snippet": "Tower Semiconductor Ltd . is an Israeli company that manufactures integrated circuits using specialty process technologies, including SiGe, BiCMOS, Si"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://jp.towersemi.com/2026/03/25/03252026/",
+      "url": "https://towersemi.com/",
       "query": "Tower Semiconductor Ltd. suppliers manufacturers",
-      "snippet": "Tower Semiconductor Ltd . (NASDAQ/TASE: TSEM), the leading foundry of high-value analog semiconductor solutions, provides technology, development, and"
+      "snippet": "Tower Semiconductor , the leading foundry of high- value analog semiconductor solutions, specializes in manufacturing analog integrated circuits for m"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/sectors/technology/articles/tower-semiconductor-announces-plans-expand-130500417.html",
+      "url": "https://csimarket.com/stocks/TSEM-Customers",
       "query": "Tower Semiconductor Ltd. major customers clients",
-      "snippet": "About Tower Semiconductor Tower Semiconductor Ltd . (NASDAQ/TASE: TSEM), the leading foundry of high-value analog semiconductor solutions, provides te"
+      "snippet": "Feb 27, 2026 · Tower Semiconductor Ltd customers and markets, results by customer and performance relative to TSEM, by company and industry - CSIMarke"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.design-reuse.com/news/202515580-tower-semiconductor-completes-merger-with-jazz-technologies/",
+      "url": "https://towersemi.com/",
       "query": "Tower Semiconductor Ltd. major customers clients",
-      "snippet": "Tower Semiconductor Ltd . is a pure-play independent specialty wafer foundry established in 1993. The company manufactures integrated circuits with ge"
+      "snippet": "Tower Semiconductor , the leading foundry of high- value analog semiconductor solutions, specializes in manufacturing analog integrated circuits for m"
     }
   ]
 }

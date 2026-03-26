@@ -5,33 +5,33 @@
   "industry": "Semiconductors",
   "upstream": [
     "TSM",
-    "INTC",
     "005930.KS",
-    "MU",
-    "NXP Semiconductors"
+    "GlobalFoundries",
+    "UMC",
+    "ASML"
   ],
   "downstream": [
     "CSCO",
+    "Huawei",
     "DELL",
-    "HPQ",
-    "NetApp",
-    "Huawei"
+    "Lenovo",
+    "Nokia"
   ],
   "competitors": [
     "AVGO",
     "QCOM",
     "INTC",
-    "NVDA",
-    "MRVL"
+    "MediaTek",
+    "TXN"
   ],
   "key_products": [
     "Ethernet controllers",
     "Storage controllers",
-    "Wireless LAN chips",
-    "AI accelerator chips",
-    "Switch ASICs"
+    "Wi‑Fi chips",
+    "5G modems",
+    "Network processors"
   ],
-  "extracted_at": "2026-03-25 16:59:17",
+  "extracted_at": "2026-03-26 16:56:28",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/Marvell_Technology",
+      "query": "Marvell Technology, Inc. suppliers manufacturers",
+      "snippet": "Marvell Technology , Inc . is an American company, headquartered in Santa Clara, California, which develops and produces semiconductors and related te"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/MRVL-Suppliers",
+      "query": "Marvell Technology, Inc. suppliers manufacturers",
+      "snippet": "Aug 31, 2025 · Marvell Technology Inc 's Suppliers recorded an increase in sales by 6.67 % year on year in Q2 2025, sequentially sales grew by 2.81 %,"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/Marvell_Technology",
+      "query": "Marvell Technology, Inc. major customers clients",
+      "snippet": "Marvell Technology , Inc . is an American company, headquartered in Santa Clara, California, which develops and produces semiconductors and related te"
+    },
+    {
+      "source": "DuckDuckGo",
       "url": "https://www.marvell.com/",
-      "query": "Marvell Technology, Inc. suppliers manufacturers",
-      "snippet": "Watch the latest. Marvell Essential Technology Videos. Marvell designs custom silicon tailored for any application and offers the industry’s most comp"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/sectors/technology/articles/marvell-technology-inc-mrvl-unveils-165314179.html",
-      "query": "Marvell Technology, Inc. suppliers manufacturers",
-      "snippet": "Marvell Technology Inc . (MRVL) Unveils Advanced Switch for AI Data Center Scale-Up Infrastructure. Source: pixabay. Marvell Structera S PCIe 60260 ex"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/MRVL-Customers",
       "query": "Marvell Technology, Inc. major customers clients",
-      "snippet": "1 day ago · Marvell Technology Inc customers and markets, results by customer and performance relative to MRVL, by company and industry - CSIMarket"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://pestel-analysis.com/blogs/target-market/marvell",
-      "query": "Marvell Technology, Inc. major customers clients",
-      "snippet": "Nov 19, 2025 · Who are Marvell Technology 's customers ? The semiconductor industry is vital for our digital world, constantly changing with new tech "
+      "snippet": "Designed for your current needs and future ambitions, Marvell delivers the data infrastructure technology transforming tomorrow’s enterprise, cloud, a"
     }
   ]
 }

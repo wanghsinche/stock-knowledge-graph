@@ -1,37 +1,37 @@
 {
   "ticker": "CRCL",
   "company_name": "Circle Internet Group, Inc.",
-  "sector": "Financial Services",
-  "industry": "Capital Markets / Payments Technology",
+  "sector": "Financial Services / Capital Markets",
+  "industry": "Payments Technology",
   "upstream": [
+    "AMZN",
     "MSFT",
-    "Blockchain network operators (e.g., Ethereum, Solana)",
-    "Regulatory compliance and AML/KYC service providers",
-    "Payment network partners (e.g., Visa, Mastercard)",
-    "Financial data and market data vendors"
+    "GOOGL",
+    "Stripe",
+    "PayPal"
   ],
   "downstream": [
-    "Retail and institutional cryptocurrency exchanges",
-    "Banks and payment processors",
-    "Fintech platforms (e.g., Stripe, PayPal)",
-    "Digital wallet and payment app users",
-    "Corporate treasury and treasury management systems"
+    "Coinbase",
+    "Binance",
+    "PayPal",
+    "Visa",
+    "Mastercard"
   ],
   "competitors": [
-    "Coinbase Global, Inc.",
-    "PayPal Holdings, Inc.",
-    "Stripe, Inc.",
-    "Gemini Trust Company, LLC",
-    "Square, Inc."
+    "Coinbase",
+    "Gemini",
+    "Ripple",
+    "PayPal",
+    "Stripe"
   ],
   "key_products": [
     "USDC stablecoin",
     "EURC stablecoin",
     "USYC tokenized money market fund",
-    "Circle Payments API",
-    "Crypto custody and treasury solutions"
+    "Circle Pay",
+    "Circle API"
   ],
-  "extracted_at": "2026-03-25 16:57:46",
+  "extracted_at": "2026-03-26 16:57:51",
   "sources": [
     {
       "source": "Wikipedia",
@@ -53,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ru.investing.com/news/stock-market-news/article-93CH-3164898",
+      "url": "https://en.wikipedia.org/wiki/Circle_Internet_Group",
       "query": "Circle Internet Group major customers clients",
-      "snippet": "Investing.com — Акции Circle Internet Group (NYSE:CRCL) упали на 17% во вторник, в то время как Coinbase Global (NASDAQ:COIN) снизились на 8% после по"
+      "snippet": "Circle (legally Circle Internet Group , Inc.[2]) is a payments technology company. Founded by Jeremy Allaire and Sean Neville in 2013, [3][4] it is cu"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.fool.com/investing/2026/03/23/circle-soared-almost-70-this-year-1-reason-it-will/",
+      "url": "https://www.appsruntheworld.com/customers-database/vendors/view/circle-internet-group",
       "query": "Circle Internet Group major customers clients",
-      "snippet": "Key Points. Circle Internet Group is a compliance-friendly face for the stablecoin industry. Issuance of USDC soared by 72% last year to $75 billion. "
+      "snippet": "List of companies using or evaluating Circle Internet Group applications, with details on their revenues, employees, industries, and locations."
     }
   ]
 }

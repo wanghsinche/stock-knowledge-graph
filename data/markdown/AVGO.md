@@ -3,8 +3,8 @@ ticker: AVGO
 company: Broadcom Inc.
 sector: Technology
 industry: Semiconductors
-extracted_at: 2026-03-25 16:56:44
-last_updated: 2026-03-25
+extracted_at: 2026-03-26 16:55:20
+last_updated: 2026-03-26
 ---
 
 # AVGO - Broadcom Inc.
@@ -12,7 +12,7 @@ last_updated: 2026-03-25
 ## 基本信息
 
 - **所属行业**: Technology / Semiconductors
-- **提取时间**: 2026-03-25 16:56:44
+- **提取时间**: 2026-03-26 16:55:20
 
 ## 产业链关系
 
@@ -21,14 +21,14 @@ last_updated: 2026-03-25
 - [[005930.KS]]
 - [[GlobalFoundries]]
 - [[UMC]]
-- [[INTC]]
+- [[SMIC]]
 
 ### 下游客户
+- [[VMware]]
 - [[CSCO]]
 - [[DELL]]
-- [[IBM]]
-- [[AMZN]]
 - [[MSFT]]
+- [[AMZN]]
 
 ### 竞争对手
 - [[QCOM]]
@@ -38,11 +38,11 @@ last_updated: 2026-03-25
 - [[MRVL]]
 
 ### 核心产品
+- [[Wi‑Fi 6/7 chips]]
 - [[Ethernet controllers]]
-- [[Wi‑Fi/Bluetooth chips]]
 - [[Broadband modems]]
-- [[Data center networking ASICs]]
-- [[Infrastructure software solutions]]
+- [[Storage controllers]]
+- [[RF transceivers]]
 
 ## 数据来源
 
@@ -50,8 +50,8 @@ last_updated: 2026-03-25
 - [Broadcom Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/Broadcom)
 - [Broadcom Inc. suppliers manufacturers](https://www.broadcom.com/how-to-buy/partner-distributor-lookup)
 - [Broadcom Inc. major customers clients](https://en.wikipedia.org/wiki/Broadcom)
-- [Broadcom Inc. major customers clients](https://csimarket.com/stocks/AVGO-Customers)
+- [Broadcom Inc. major customers clients](https://ru.wikipedia.org/wiki/VMware)
 
 ## 元数据
 
-- **更新日期**: 2026-03-25
+- **更新日期**: 2026-03-26

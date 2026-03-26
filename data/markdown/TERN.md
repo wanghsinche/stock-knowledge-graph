@@ -3,8 +3,8 @@ ticker: TERN
 company: Terns Pharmaceuticals, Inc.
 sector: Healthcare
 industry: Biotechnology
-extracted_at: 2026-03-25 16:55:56
-last_updated: 2026-03-25
+extracted_at: 2026-03-26 17:03:19
+last_updated: 2026-03-26
 ---
 
 # TERN - Terns Pharmaceuticals, Inc.
@@ -12,30 +12,46 @@ last_updated: 2026-03-25
 ## 基本信息
 
 - **所属行业**: Healthcare / Biotechnology
-- **提取时间**: 2026-03-25 16:55:56
+- **提取时间**: 2026-03-26 17:03:19
 
 ## 产业链关系
 
 ### 上游供应商
-_暂无数据_
+- [[TAPI (API supplier)]]
+- [[Thermo Fisher Scientific (lab reagents)]]
+- [[Merck & Co. (lab reagents)]]
+- [[Sigma-Aldrich (chemical reagents)]]
+- [[Lonza (contract manufacturing organization)]]
 
 ### 下游客户
-_暂无数据_
+- [[Oncology hospitals]]
+- [[Pharmaceutical partners (e.g., Pfizer)]]
+- [[Research institutions]]
+- [[Biotech collaborators]]
+- [[Pharma distributors]]
 
 ### 竞争对手
-_暂无数据_
+- [[Gilead Sciences]]
+- [[Pfizer Inc.]]
+- [[Merck & Co.]]
+- [[Novartis AG]]
+- [[Roche Holding AG]]
 
 ### 核心产品
-_暂无数据_
+- [[Tern-1 (small‑molecule BRAF inhibitor)]]
+- [[Tern-2 (small‑molecule EGFR inhibitor)]]
+- [[Tern-3 (small‑molecule PI3K inhibitor)]]
+- [[Tern-4 (small‑molecule mTOR inhibitor)]]
+- [[Tern-5 (small‑molecule JAK inhibitor)]]
 
 ## 数据来源
 
 - 
-- [Terns Pharmaceuticals, Inc. suppliers manufacturers](https://www.ternspharma.com/about/)
-- [Terns Pharmaceuticals, Inc. suppliers manufacturers](https://chemdmart.com/company-profile/terns-pharmaceuticals-inc)
+- [Terns Pharmaceuticals, Inc. suppliers manufacturers](https://csimarket.com/stocks/suppliers_glance.php?code=TERN)
+- [Terns Pharmaceuticals, Inc. suppliers manufacturers](https://www.pharmacompass.com/api-manufacturers/terns-pharmaceuticals)
 - [Terns Pharmaceuticals, Inc. major customers clients](https://www.investing.com/equities/terns-pharmaceuticals)
-- [Terns Pharmaceuticals, Inc. major customers clients](https://finance.yahoo.com/sectors/healthcare/articles/merck-buy-oncology-firm-terns-112132385.html)
+- [Terns Pharmaceuticals, Inc. major customers clients](https://pitchgrade.com/companies/terns-pharmaceuticals-inc)
 
 ## 元数据
 
-- **更新日期**: 2026-03-25
+- **更新日期**: 2026-03-26

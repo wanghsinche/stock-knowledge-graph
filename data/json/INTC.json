@@ -7,31 +7,31 @@
     "TSM",
     "005930.KS",
     "GlobalFoundries",
-    "ASE Technology Holding",
-    "Amkor Technology"
+    "ASML",
+    "AMAT"
   ],
   "downstream": [
     "DELL",
     "HPQ",
     "Lenovo Group",
-    "MSFT",
-    "AMZN"
+    "AAPL",
+    "MSFT"
   ],
   "competitors": [
     "AMD",
     "NVDA",
     "QCOM",
     "AVGO",
-    "005930.KS"
+    "MU"
   ],
   "key_products": [
     "Intel Core CPUs",
     "Intel Xeon CPUs",
     "Intel Arc GPUs",
-    "Intel FPGAs",
-    "Intel AI chips"
+    "Intel Optane Memory",
+    "Intel Ethernet Controllers"
   ],
-  "extracted_at": "2026-03-25 16:56:19",
+  "extracted_at": "2026-03-26 16:55:37",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,15 +41,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/List_of_Intel_manufacturing_sites",
+      "url": "https://en.wikipedia.org/wiki/Intel",
       "query": "Intel Corporation suppliers manufacturers",
-      "snippet": "List of Intel manufacturing sites Intel is an American multinational corporation and technology company headquartered in Santa Clara, California. Proc"
+      "snippet": "Intel Corporation is an American multinational technology company headquartered in Santa Clara, California. It designs, manufactures , and sells compu"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.intel.com/content/www/us/en/supplier/potential-suppliers.html",
+      "url": "https://www.intel.com/",
       "query": "Intel Corporation suppliers manufacturers",
-      "snippet": "Intel depends on a multifaceted ecosystem of suppliers who support our business, and we are proud of the strong relationships built past, present and "
+      "snippet": "Ссылка на официальный сайт. Intel Core i7-9700KF OEM."
     },
     {
       "source": "DuckDuckGo",

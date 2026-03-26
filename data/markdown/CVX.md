@@ -3,8 +3,8 @@ ticker: CVX
 company: Chevron Corporation
 sector: Energy
 industry: Oil & Gas Integrated
-extracted_at: 2026-03-25 17:02:36
-last_updated: 2026-03-25
+extracted_at: 2026-03-26 17:00:45
+last_updated: 2026-03-26
 ---
 
 # CVX - Chevron Corporation
@@ -12,23 +12,23 @@ last_updated: 2026-03-25
 ## 基本信息
 
 - **所属行业**: Energy / Oil & Gas Integrated
-- **提取时间**: 2026-03-25 17:02:36
+- **提取时间**: 2026-03-26 17:00:45
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Petrochemical equipment manufacturers]]
-- [[Oilfield services companies (e.g., Schlumberger, Halliburton)]]
-- [[Crude oil producers (e.g., Saudi Aramco, BP)]]
-- [[Drilling rig operators]]
-- [[Pipeline infrastructure providers]]
+- [[Halliburton]]
+- [[Schlumberger]]
+- [[Baker Hughes]]
+- [[Weatherford]]
+- [[National Oilwell Varco]]
 
 ### 下游客户
-- [[Automotive fuel distributors]]
-- [[Airlines (e.g., Delta, United)]]
-- [[Industrial petrochemical plants]]
-- [[Retail gasoline stations]]
-- [[Power generation utilities]]
+- [[Chevron retail stations (consumer gasoline sales)]]
+- [[Major airlines (e.g., Delta, United)]]
+- [[Automotive fleet operators]]
+- [[Petrochemical plants (e.g., Dow Chemical)]]
+- [[Government agencies (e.g., U.S. Department of Defense)]]
 
 ### 竞争对手
 - [[ExxonMobil]]
@@ -40,18 +40,18 @@ last_updated: 2026-03-25
 ### 核心产品
 - [[Crude oil]]
 - [[Natural gas]]
-- [[Refined petroleum products (gasoline, diesel)]]
-- [[Petrochemicals]]
-- [[Liquefied natural gas (LNG)]]
+- [[Gasoline]]
+- [[Diesel]]
+- [[Jet fuel]]
 
 ## 数据来源
 
 - [Chevron Corporation](https://en.wikipedia.org/wiki/Chevron_Corporation)
+- [Chevron Corporation suppliers manufacturers](https://en.wikipedia.org/wiki/Chevron_Corporation)
 - [Chevron Corporation suppliers manufacturers](https://ru.wikipedia.org/wiki/Chevron)
-- [Chevron Corporation suppliers manufacturers](https://en.wikipedia.org/wiki/Standard_Oil)
-- [Chevron Corporation major customers clients](https://en.wikipedia.org/wiki/Standard_Oil)
-- [Chevron Corporation major customers clients](https://www.chevron.com/)
+- [Chevron Corporation major customers clients](https://matrixbcg.com/blogs/target-market/chevron)
+- [Chevron Corporation major customers clients](https://pestel-analysis.com/blogs/target-market/chevron)
 
 ## 元数据
 
-- **更新日期**: 2026-03-25
+- **更新日期**: 2026-03-26

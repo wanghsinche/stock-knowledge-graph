@@ -2,36 +2,36 @@
   "ticker": "MSTR",
   "company_name": "MicroStrategy Incorporated",
   "sector": "Technology",
-  "industry": "Software - Application",
+  "industry": "Software—Application",
   "upstream": [
+    "DELL",
     "MSFT",
-    "AMZN",
-    "GOOGL",
-    "ORCL",
-    "IBM"
+    "Data providers (e.g., Bloomberg, Thomson Reuters)",
+    "MSFT",
+    "ORCL"
   ],
   "downstream": [
-    "Bank of America",
-    "J.P. Morgan Chase",
-    "Citigroup",
-    "Goldman Sachs",
-    "Walmart"
+    "Financial services firms (e.g., JPMorgan Chase, Goldman Sachs)",
+    "Government agencies (e.g., U.S. Department of Defense)",
+    "Retail corporations (e.g., Walmart, Target)",
+    "Manufacturing firms (e.g., General Electric)",
+    "Healthcare organizations (e.g., Mayo Clinic)"
   ],
   "competitors": [
     "Tableau Software",
+    "Qlik Technologies",
     "MSFT",
-    "Qlik",
-    "Looker",
-    "SAP Analytics Cloud"
+    "SAP BusinessObjects",
+    "GOOGL"
   ],
   "key_products": [
     "MicroStrategy Analytics",
-    "MicroStrategy Desktop",
     "MicroStrategy Mobile",
     "MicroStrategy Cloud",
-    "MicroStrategy Data Warehouse"
+    "MicroStrategy Data Warehouse",
+    "MicroStrategy Dashboard"
   ],
-  "extracted_at": "2026-03-25 16:57:57",
+  "extracted_at": "2026-03-26 16:58:19",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,21 +47,21 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.globalsources.com/",
+      "url": "https://finance.yahoo.com/quote/MSTR/",
       "query": "Strategy Inc suppliers manufacturers",
-      "snippet": "The leading international multichannel B2B online marketplace & sourcing platform connecting authentic buyers and verified wholesale suppliers & manuf"
+      "snippet": "Find the latest Strategy Inc (MSTR) stock quote, history, news and other vital information to help you with your stock trading and investing."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/MicroStrategy",
+      "url": "https://www.strategy.com/software/customer-stories",
       "query": "Strategy Inc major customers clients",
-      "snippet": "Strategy Inc ., formerly known as MicroStrategy, is an American company that provides business intelligence and mobile software.In 1992, MicroStrategy"
+      "snippet": "Dive into Strategy customer stories highlighting the impact of Analytics in Healthcare, Financial Services, Call Centers, Retail, Insurance, and Gover"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.tradingview.com/symbols/NASDAQ-MSTR/ideas/page-4/",
+      "url": "https://csimarket.com/stocks/STRF-Customers",
       "query": "Strategy Inc major customers clients",
-      "snippet": "Check out the latest trade and investment ideas for Strategy Inc Class A from our top authors. They share opinions on price directions and technical o"
+      "snippet": "Jan 30, 2026 · Strategy Inc customers and markets, results by customer and performance relative to STRF, by company and industry - CSIMarket"
     }
   ]
 }

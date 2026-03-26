@@ -3,8 +3,8 @@ ticker: DELL
 company: Dell Technologies Inc.
 sector: Technology
 industry: Computer Hardware
-extracted_at: 2026-03-25 16:59:42
-last_updated: 2026-03-25
+extracted_at: 2026-03-26 16:57:30
+last_updated: 2026-03-26
 ---
 
 # DELL - Dell Technologies Inc.
@@ -12,7 +12,7 @@ last_updated: 2026-03-25
 ## 基本信息
 
 - **所属行业**: Technology / Computer Hardware
-- **提取时间**: 2026-03-25 16:59:42
+- **提取时间**: 2026-03-26 16:57:30
 
 ## 产业链关系
 
@@ -21,37 +21,39 @@ last_updated: 2026-03-25
 - [[AMD]]
 - [[NVDA]]
 - [[005930.KS]]
-- [[MU]]
+- [[TSM]]
 
 ### 下游客户
-- [[Large enterprises]]
+- [[Client Solutions Group]]
+- [[Enterprise customers]]
 - [[Government agencies]]
-- [[Small and medium businesses]]
-- [[Retail consumers]]
-- [[OEM partners]]
+- [[CAT]]
+- [[Healthcare providers]]
 
 ### 竞争对手
 - [[HPQ]]
 - [[Lenovo]]
 - [[AAPL]]
+- [[Asus]]
 - [[Acer]]
-- [[CSCO]]
 
 ### 核心产品
-- [[Personal computers & laptops]]
-- [[Servers & storage solutions]]
-- [[Monitors & displays]]
-- [[Networking & security equipment]]
-- [[Cloud & data‑center services]]
+- [[Personal computers]]
+- [[Servers]]
+- [[Monitors]]
+- [[Computer software]]
+- [[Computer security]]
+- [[Network security]]
+- [[Information security services]]
 
 ## 数据来源
 
 - [Dell Technologies](https://en.wikipedia.org/wiki/Dell_Technologies_Inc.)
-- [Dell Technologies Inc. suppliers manufacturers](https://www.delltechnologies.com/asset/pl-pl/solutions/business-solutions/briefs-summaries/dell-public-supplier-list.pdf)
-- [Dell Technologies Inc. suppliers manufacturers](https://csimarket.com/stocks/DELL-Suppliers)
-- [Dell Technologies Inc. major customers clients](https://csimarket.com/stocks/DELL-Customers)
+- [Dell Technologies Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/Dell)
+- [Dell Technologies Inc. suppliers manufacturers](https://ru.wikipedia.org/wiki/Dell)
+- [Dell Technologies Inc. major customers clients](https://en.wikipedia.org/wiki/Dell_Technologies)
 - [Dell Technologies Inc. major customers clients](https://www.dell.com/en-us/lp/dt/customer-stories)
 
 ## 元数据
 
-- **更新日期**: 2026-03-25
+- **更新日期**: 2026-03-26

@@ -4,34 +4,34 @@
   "sector": "Technology",
   "industry": "Computer Hardware",
   "upstream": [
-    "Component suppliers (e.g., magnetic platters, silicon wafers)",
-    "Electronic component manufacturers (e.g., capacitors, resistors)",
-    "Firmware and software development partners",
-    "Precision machining and assembly equipment suppliers",
-    "Logistics and shipping providers"
+    "MU",
+    "005930.KS",
+    "SK Hynix",
+    "Toshiba",
+    "INTC"
   ],
   "downstream": [
     "DELL",
-    "DELL",
-    "MSFT",
-    "Enterprise storage integrators",
-    "Consumer electronics manufacturers (e.g., smartphone and tablet OEMs)"
+    "HPQ",
+    "Lenovo Group",
+    "AAPL",
+    "AMZN"
   ],
   "competitors": [
     "STX",
-    "Toshiba Storage",
+    "Toshiba Corporation",
     "005930.KS",
-    "MU",
-    "IBM"
+    "IBM",
+    "Hitachi"
   ],
   "key_products": [
-    "Hard Disk Drives (HDDs)",
-    "Solid State Drives (SSDs)",
-    "External and portable storage devices",
-    "Enterprise storage solutions (e.g., NAS, SAN)",
-    "Data center storage arrays"
+    "Hard Disk Drives (HDD)",
+    "Solid State Drives (SSD)",
+    "External Storage Devices",
+    "Network Attached Storage (NAS)",
+    "Enterprise Storage Solutions"
   ],
-  "extracted_at": "2026-03-25 16:58:35",
+  "extracted_at": "2026-03-26 16:56:18",
   "sources": [
     {
       "source": "Wikipedia",
@@ -53,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Western_Digital",
+      "url": "https://csimarket.com/stocks/WDC-Customers",
       "query": "Western Digital Corporation major customers clients",
-      "snippet": "Western Digital Corporation , doing business as WD , is an American data storage company headquartered in San Jose, California. Established in 1970, t"
+      "snippet": "Western Digital customers and markets, results by customer and performance relative to WDC, by company and industry - CSIMarket"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ryxel.ai/symbols/WDC/overview",
+      "url": "https://data.landbase.com/technology/western-digital/",
       "query": "Western Digital Corporation major customers clients",
-      "snippet": "Business Model: Western Digital Corporation is a leading developer, manufacturer, and provider of data storage devices and solutions based on hard dis"
+      "snippet": "Aug 17, 2025 · Companies using Western Digital by Western Digital Corporation in 2026 As of 2026, 354 verified companies use Western Digital – across "
     }
   ]
 }

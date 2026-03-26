@@ -7,15 +7,15 @@
     "INTC",
     "AMD",
     "NVDA",
-    "Red Hat",
-    "MSFT"
+    "CSCO",
+    "DELL"
   ],
   "downstream": [
     "Bank of America",
-    "Walmart",
     "UnitedHealth Group",
-    "Coca‑Cola",
-    "Airbus"
+    "Walmart",
+    "Airbnb",
+    "General Electric"
   ],
   "competitors": [
     "MSFT",
@@ -28,10 +28,10 @@
     "Oracle Database",
     "Oracle Cloud Infrastructure",
     "Oracle Autonomous Database",
-    "Oracle ERP Cloud",
+    "Oracle E-Business Suite",
     "Oracle Analytics Cloud"
   ],
-  "extracted_at": "2026-03-25 16:58:09",
+  "extracted_at": "2026-03-26 16:57:20",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,21 +47,21 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ru.wikipedia.org/wiki/Oracle",
+      "url": "https://www.oracle.com/corporate/",
       "query": "Oracle Corporation suppliers manufacturers",
-      "snippet": "Oracle ( Oracle Corporation ) — американская корпорация, второй по размеру выручки разработчик программного обеспечения (после Microsoft), четвёртая к"
+      "snippet": "Oracle is pleased to provide information about our company, customers, partners, events, communities, press, analysts, investors, and careers.The comp"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.oracle.com/customers/",
+      "url": "https://en.wikipedia.org/wiki/Oracle_Corporation",
       "query": "Oracle Corporation major customers clients",
-      "snippet": "Oracle Customer Successes Innovation, ease of use, better results—those are just some of the reasons organizations in all industries and of all sizes "
+      "snippet": "Oracle Corporation is an American multinational technology company headquartered in Austin, Texas. Co-founded in Santa Clara, California by Bob Miner,"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.thomsondata.com/customer-base/oracle.php",
+      "url": "https://www.oracle.com/corporate/",
       "query": "Oracle Corporation major customers clients",
-      "snippet": "Technographic Data of Companies That Use Oracle Oracle Customers List by Industry Different industries use Oracle technology for their business . Look"
+      "snippet": "Oracle is pleased to provide information about our company, customers , partners, events, communities, press, analysts, investors, and careers.The com"
     }
   ]
 }

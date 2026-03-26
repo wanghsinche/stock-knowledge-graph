@@ -4,34 +4,34 @@
   "sector": "Technology",
   "industry": "Consumer Electronics",
   "upstream": [
-    "Foxconn (Hon Hai Precision)",
     "TSM",
+    "Foxconn",
     "005930.KS",
-    "ASE Group",
-    "Pegatron"
+    "LG Display",
+    "SONY"
   ],
   "downstream": [
+    "iPhone users",
+    "iPad users",
+    "Mac users",
     "AAPL",
-    "Best Buy",
-    "AMZN",
-    "Walmart",
-    "Costco"
+    "AAPL"
   ],
   "competitors": [
     "005930.KS",
     "GOOGL",
     "MSFT",
-    "Huawei",
-    "Xiaomi"
+    "DELL",
+    "SONY"
   ],
   "key_products": [
     "iPhone",
     "iPad",
     "Mac",
     "Apple Watch",
-    "AirPods"
+    "Apple TV"
   ],
-  "extracted_at": "2026-03-25 16:56:31",
+  "extracted_at": "2026-03-26 16:54:32",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Apple_supply_chain",
-      "query": "Apple Inc. suppliers manufacturers",
-      "snippet": "Apple policy on how it influences the corporate culture of its suppliers is presented in the \" Supplier Responsibility Progress Reports\" document. [28"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.investopedia.com/articles/investing/090315/10-major-companies-tied-apple-supply-chain.asp",
-      "query": "Apple Inc. suppliers manufacturers",
-      "snippet": "Nov 13, 2025 · Discover Apple's top suppliers and how they enhance product performance and innovation. Learn about Apple's efficient supply chain and "
-    },
-    {
-      "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Apple_Inc.",
-      "query": "Apple Inc. major customers clients",
+      "query": "Apple Inc. suppliers manufacturers",
       "snippet": "Apple Inc . is an American multinational technology company headquartered in Cupertino, California, in Silicon Valley, best known for its consumer ele"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.apple.com/",
+      "url": "https://ru.wikipedia.org/wiki/Apple",
+      "query": "Apple Inc. suppliers manufacturers",
+      "snippet": "Apple Inc — американская корпорация, разработчик персональных и планшетных компьютеров, аудиоплееров, смартфонов, программного обеспечения и цифрового"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/AAPL-Customers",
       "query": "Apple Inc. major customers clients",
-      "snippet": "Discover the innovative world of Apple and shop everything iPhone, iPad, Apple Watch, Mac, and Apple TV, plus explore accessories, entertainment, and "
+      "snippet": "Apple Inc 's Comment on Sales, Marketing and Customers The Company’s customers are primarily in the consumer, SMB, education, enterprise and governmen"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://businessmodelanalyst.com/apple-target-market/",
+      "query": "Apple Inc. major customers clients",
+      "snippet": "Nov 8, 2024 · Understanding a company’s target market is essential to its success. It helps shape product offerings, marketing strategies, and custome"
     }
   ]
 }
