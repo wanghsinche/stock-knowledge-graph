@@ -1,37 +1,37 @@
 {
   "ticker": "AVGO",
   "company_name": "Broadcom Inc.",
-  "sector": "Technology",
+  "sector": "Technology / Semiconductors",
   "industry": "Semiconductors",
   "upstream": [
     "TSM",
     "005930.KS",
     "GlobalFoundries",
     "UMC",
-    "SMIC"
+    "ASML"
   ],
   "downstream": [
     "VMware",
     "CSCO",
     "DELL",
-    "MSFT",
+    "HPQ",
     "AMZN"
   ],
   "competitors": [
     "QCOM",
     "INTC",
-    "NVDA",
-    "TXN",
-    "MRVL"
+    "MRVL",
+    "MediaTek",
+    "TXN"
   ],
   "key_products": [
-    "Wi‑Fi 6/7 chips",
-    "Ethernet controllers",
-    "Broadband modems",
-    "Storage controllers",
-    "RF transceivers"
+    "Broadcom BCM 5700 Ethernet controllers",
+    "Broadcom BCM 4700 Wi‑Fi/Bluetooth chips",
+    "Broadcom BCM 4702 broadband modems",
+    "Broadcom BCM 5700 storage controllers",
+    "Broadcom StrataXGS network processors"
   ],
-  "extracted_at": "2026-03-26 16:55:20",
+  "extracted_at": "2026-03-27 16:44:45",
   "sources": [
     {
       "source": "Wikipedia",
@@ -59,9 +59,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ru.wikipedia.org/wiki/VMware",
+      "url": "https://investors.broadcom.com/",
       "query": "Broadcom Inc. major customers clients",
-      "snippet": "VMware — американская компания, крупнейший разработчик программного обеспечения для виртуализации. Штаб-квартира расположена в Пало-Альто, Калифорния."
+      "snippet": "VMware Tanzu® Supercharges Portfolio to Help Customers Build, Run, and..."
     }
   ]
 }

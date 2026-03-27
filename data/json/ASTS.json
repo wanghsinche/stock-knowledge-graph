@@ -1,37 +1,37 @@
 {
   "ticker": "ASTS",
   "company_name": "AST SpaceMobile, Inc.",
-  "sector": "Technology / Communication Equipment",
-  "industry": "Satellite Communications",
+  "sector": "Technology",
+  "industry": "Communication Equipment",
   "upstream": [
-    "SpaceX (launch services)",
-    "Lockheed Martin (satellite bus)",
-    "Boeing (satellite components)",
-    "QCOM",
-    "Airbus (satellite components)"
+    "SpaceX",
+    "Arianespace",
+    "Lockheed Martin",
+    "Boeing",
+    "Northrop Grumman"
   ],
   "downstream": [
     "AT&T",
     "Verizon",
     "T-Mobile",
-    "US Department of Defense",
-    "Maritime and aviation operators"
+    "Vodafone",
+    "China Mobile"
   ],
   "competitors": [
-    "SpaceX Starlink",
+    "Starlink",
     "OneWeb",
-    "AMZN",
-    "Telesat LEO",
-    "Iridium"
+    "Project Kuiper",
+    "Telesat",
+    "Hughes Network Systems"
   ],
   "key_products": [
-    "LEO satellite constellation",
-    "Satellite broadband services",
-    "Satellite-based 5G connectivity",
-    "Satellite payloads",
-    "Satellite network infrastructure"
+    "AST-3000 satellite",
+    "AST-2000 satellite",
+    "AST-1000 satellite",
+    "AST-3000 4G/5G satellite",
+    "AST-2000 5G satellite"
   ],
-  "extracted_at": "2026-03-25 16:59:32",
+  "extracted_at": "2026-03-27 16:52:32",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,15 +41,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/AST_SpaceMobile",
+      "url": "https://ast-science.com/company/",
       "query": "AST SpaceMobile, Inc. suppliers manufacturers",
-      "snippet": "AST SpaceMobile , Inc . is a publicly traded satellite designer and manufacturer based in Midland, Texas, United States. [6][7] The company is buildin"
+      "snippet": "AST SpaceMobile mission is to enable 4G and 5G space -based cellular broadband to every device, everywhere, for today’s nearly 6 billion mobile subscr"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/ASTS-Suppliers",
+      "url": "https://finance.yahoo.com/quote/ASTS/",
       "query": "AST SpaceMobile, Inc. suppliers manufacturers",
-      "snippet": "Mar 3, 2026 · Ast Spacemobile Inc 's Comment on Supply Chain ASTS's Stock Perfrormance relative to it's Suppliers ASTS's vs. Suppliers , Data (Revenue"
+      "snippet": "Find the latest AST SpaceMobile , Inc . (ASTS) stock quote, history, news and other vital information to help you with your stock trading and investin"
     },
     {
       "source": "DuckDuckGo",

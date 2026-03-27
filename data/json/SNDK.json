@@ -4,34 +4,34 @@
   "sector": "Technology",
   "industry": "Computer Hardware",
   "upstream": [
-    "Matrix Semiconductor",
-    "NAND flash memory manufacturers",
-    "Semiconductor component suppliers",
-    "Electronic component suppliers",
-    "Raw material suppliers"
+    "005930.KS",
+    "MU",
+    "SK Hynix (NAND flash memory)",
+    "Toshiba Memory (NAND flash memory)",
+    "Silicon Motion (controller chips)"
   ],
   "downstream": [
     "AAPL",
+    "005930.KS",
     "DELL",
-    "HPQ",
-    "MSFT",
-    "005930.KS"
+    "SONY",
+    "Toyota Motor Corporation (automotive storage)"
   ],
   "competitors": [
-    "Kingston Technology",
-    "Lexar",
-    "Corsair",
     "005930.KS",
-    "MU"
+    "MU",
+    "SK Hynix",
+    "WDC",
+    "Kingston Technology"
   ],
   "key_products": [
-    "Memory cards",
+    "SD and microSD memory cards",
     "USB flash drives",
-    "Solid-state drives",
-    "SSD modules",
-    "Flash memory chips"
+    "Solid‑state drives (internal SSDs)",
+    "External SSDs",
+    "Flash memory modules for OEMs"
   ],
-  "extracted_at": "2026-03-26 16:53:45",
+  "extracted_at": "2026-03-27 16:43:21",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,25 +43,25 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/SanDisk",
       "query": "Sandisk Corporation suppliers manufacturers",
-      "snippet": "2 days ago - In October 2005, SanDisk acquired Matrix Semiconductor. In July 2006, SanDisk acquired M-Systems. In May 2011, SanDisk acquired Pliant Te"
+      "snippet": "Sandisk Corporation (formerly branded SanDisk ) is an American multinational computer technology company based in Milpitas, California , that designs "
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.sandisk.com/company/distributors",
       "query": "Sandisk Corporation suppliers manufacturers",
-      "snippet": "Region · Loading Region · Country/Area · Loading Country/Area · Brand · Loading Brand · Distributors | Sandisk"
+      "snippet": "Find Sandisk Distributors & Resellers Purchase from your preferred Sandisk authorized partner."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Sandisk",
+      "url": "https://data.landbase.com/technology/sandisk/",
       "query": "Sandisk Corporation major customers clients",
-      "snippet": "1 day ago - Sandisk Corporation (formerly branded SanDisk) is an American multinational computer technology company based in Milpitas, California, tha"
+      "snippet": "Aug 17, 2025 · We have data on 324 companies that use SanDisk. Our SanDisk customers list is available for download and comes enriched with vital comp"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://pitchbook.com/profiles/company/41299-57",
+      "url": "https://www.appsruntheworld.com/customers-database/vendors/view/sandisk",
       "query": "Sandisk Corporation major customers clients",
-      "snippet": "Sandisk is one of the five largest suppliers of NAND flash memory semiconductors globally. Sandisk is vertically integrated, producing substantially a"
+      "snippet": "List of companies using or evaluating SanDisk applications, with details on their revenues, employees, industries, and locations."
     }
   ]
 }

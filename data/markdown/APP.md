@@ -3,8 +3,8 @@ ticker: APP
 company: AppLovin Corporation
 sector: Communication Services
 industry: Advertising Agencies
-extracted_at: 2026-03-26 16:55:49
-last_updated: 2026-03-26
+extracted_at: 2026-03-27 16:50:54
+last_updated: 2026-03-27
 ---
 
 # APP - AppLovin Corporation
@@ -12,7 +12,7 @@ last_updated: 2026-03-26
 ## 基本信息
 
 - **所属行业**: Communication Services / Advertising Agencies
-- **提取时间**: 2026-03-26 16:55:49
+- **提取时间**: 2026-03-27 16:50:54
 
 ## 产业链关系
 
@@ -20,29 +20,29 @@ last_updated: 2026-03-26
 - [[AAPL]]
 - [[GOOGL]]
 - [[AMZN]]
-- [[AppNexus]]
-- [[Acxiom]]
+- [[GOOGL]]
+- [[Nielsen (data provider)]]
 
 ### 下游客户
-- [[Mobile game developers]]
-- [[App developers]]
-- [[Publishers]]
-- [[Advertisers]]
-- [[Marketing agencies]]
+- [[Supercell]]
+- [[Zynga]]
+- [[King]]
+- [[Electronic Arts]]
+- [[Snap Inc.]]
 
 ### 竞争对手
+- [[The Trade Desk]]
+- [[AdColony]]
 - [[Unity Ads]]
-- [[AdMob]]
-- [[Facebook Audience Network]]
 - [[Vungle]]
-- [[IronSource]]
+- [[Chartboost]]
 
 ### 核心产品
-- [[Mobile advertising platform]]
-- [[App monetization solutions]]
-- [[User acquisition services]]
-- [[Data analytics]]
-- [[Rewarded video ads]]
+- [[AppLovin SDK]]
+- [[MAX (ad mediation)]]
+- [[AppLovin Marketing Solutions]]
+- [[AppLovin Analytics]]
+- [[AppLovin Media Platform]]
 
 ## 数据来源
 
@@ -50,8 +50,8 @@ last_updated: 2026-03-26
 - [AppLovin Corporation suppliers manufacturers](https://en.wikipedia.org/wiki/AppLovin)
 - [AppLovin Corporation suppliers manufacturers](https://csimarket.com/stocks/APP-Suppliers)
 - [AppLovin Corporation major customers clients](https://en.wikipedia.org/wiki/AppLovin)
-- [AppLovin Corporation major customers clients](https://csimarket.com/stocks/APP-Customers)
+- [AppLovin Corporation major customers clients](https://theirstack.com/en/technology/applovin)
 
 ## 元数据
 
-- **更新日期**: 2026-03-26
+- **更新日期**: 2026-03-27

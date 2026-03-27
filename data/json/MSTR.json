@@ -1,37 +1,37 @@
 {
   "ticker": "MSTR",
-  "company_name": "MicroStrategy Incorporated",
+  "company_name": "Strategy Inc",
   "sector": "Technology",
-  "industry": "Software—Application",
+  "industry": "Software - Application",
   "upstream": [
-    "DELL",
     "MSFT",
-    "Data providers (e.g., Bloomberg, Thomson Reuters)",
-    "MSFT",
-    "ORCL"
+    "AMZN",
+    "GOOGL",
+    "ORCL",
+    "IBM"
   ],
   "downstream": [
-    "Financial services firms (e.g., JPMorgan Chase, Goldman Sachs)",
-    "Government agencies (e.g., U.S. Department of Defense)",
-    "Retail corporations (e.g., Walmart, Target)",
-    "Manufacturing firms (e.g., General Electric)",
-    "Healthcare organizations (e.g., Mayo Clinic)"
+    "Financial services firms",
+    "Government agencies",
+    "Retail companies",
+    "Manufacturing firms",
+    "Healthcare organizations"
   ],
   "competitors": [
     "Tableau Software",
-    "Qlik Technologies",
+    "Qlik",
     "MSFT",
-    "SAP BusinessObjects",
+    "SAS Institute",
     "GOOGL"
   ],
   "key_products": [
-    "MicroStrategy Analytics",
+    "MicroStrategy Analytics Platform",
+    "MicroStrategy Desktop",
     "MicroStrategy Mobile",
     "MicroStrategy Cloud",
-    "MicroStrategy Data Warehouse",
-    "MicroStrategy Dashboard"
+    "MicroStrategy Server"
   ],
-  "extracted_at": "2026-03-26 16:58:19",
+  "extracted_at": "2026-03-27 16:45:57",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Supply_chain",
+      "url": "https://www.inc.com/",
       "query": "Strategy Inc suppliers manufacturers",
-      "snippet": "A typical supply chain can be divided into two stages namely, production and distribution stages. In the production stage, components and semi-finishe"
+      "snippet": "Inc . media is the entrepreneurs source for ideas, resources and advice on how to successfully start, run and grow your business.Practical advice and "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/MSTR/",
+      "url": "https://www.globalsources.com/",
       "query": "Strategy Inc suppliers manufacturers",
-      "snippet": "Find the latest Strategy Inc (MSTR) stock quote, history, news and other vital information to help you with your stock trading and investing."
+      "snippet": "The leading international multichannel B2B online marketplace & sourcing platform connecting authentic buyers and verified wholesale suppliers & manuf"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.strategy.com/software/customer-stories",
+      "url": "https://en.wikipedia.org/wiki/MicroStrategy",
       "query": "Strategy Inc major customers clients",
-      "snippet": "Dive into Strategy customer stories highlighting the impact of Analytics in Healthcare, Financial Services, Call Centers, Retail, Insurance, and Gover"
+      "snippet": "Strategy Inc ., formerly known as MicroStrategy, is an American company that provides business intelligence and mobile software.In 1992, MicroStrategy"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/STRF-Customers",
+      "url": "https://www.inc.com/5-ways-small-businesses-can-attract-large-customers.html",
       "query": "Strategy Inc major customers clients",
-      "snippet": "Jan 30, 2026 · Strategy Inc customers and markets, results by customer and performance relative to STRF, by company and industry - CSIMarket"
+      "snippet": "We didn’t have a single customer , large or small. While we employed a host of different strategies to get Peppercomm where it is today, these are the"
     }
   ]
 }

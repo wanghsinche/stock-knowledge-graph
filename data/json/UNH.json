@@ -2,38 +2,36 @@
   "ticker": "UNH",
   "company_name": "UnitedHealth Group Incorporated",
   "sector": "Healthcare",
-  "industry": "Healthcare Plans",
+  "industry": "Health Insurance / Health Care Services",
   "upstream": [
-    "Medtronic",
-    "Pfizer",
-    "Johnson & Johnson",
-    "IBM",
-    "Cerner"
+    "Pharmaceutical manufacturers (e.g., Pfizer, Johnson & Johnson)",
+    "Medical device suppliers (e.g., Medtronic, Abbott)",
+    "Health IT vendors (e.g., Cerner, Epic Systems)",
+    "Pharmacy benefit management providers (e.g., Express Scripts)",
+    "IBM"
   ],
   "downstream": [
-    "Large corporate employers",
-    "Government agencies (Medicare, Medicaid)",
-    "Hospital systems",
-    "Individual members",
-    "Health plan partners"
+    "U.S. federal government (Medicare, Medicaid)",
+    "GOOGL",
+    "State health plans",
+    "Hospital networks and health systems",
+    "Individual consumers purchasing health plans"
   ],
   "competitors": [
-    "Anthem",
-    "Aetna",
-    "Cigna",
-    "Humana",
-    "CVS Health (Aetna)"
+    "Anthem, Inc.",
+    "Aetna (CVS Health)",
+    "Cigna Corporation",
+    "Humana Inc.",
+    "Kaiser Permanente"
   ],
   "key_products": [
-    "UnitedHealthcare health insurance plans",
-    "Medicare Advantage plans",
-    "Medicaid managed care",
-    "Commercial health plans",
-    "OptumRx pharmacy benefit management",
-    "OptumCare health services",
-    "OptumInsight analytics"
+    "Health insurance plans (individual, group, Medicare Advantage, Medicaid)",
+    "Optum health services (clinical, pharmacy benefit management, health IT)",
+    "Health savings accounts (HSAs) and flexible spending accounts (FSAs)",
+    "Data analytics and population health management solutions",
+    "Telehealth and virtual care platforms"
   ],
-  "extracted_at": "2026-03-25 16:59:55",
+  "extracted_at": "2026-03-27 16:48:18",
   "sources": [
     {
       "source": "Wikipedia",
@@ -55,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://parameter.io/unitedhealth-unh-stock-struggles-under-analyst-downgrades-and-regulatory-scrutiny/",
+      "url": "https://sg.finance.yahoo.com/news/unitedhealth-group-incorporated-unh-among-191245019.html",
       "query": "UnitedHealth Group Incorporated major customers clients",
-      "snippet": "UnitedHealth Group Incorporated (UNH). UnitedHealth Group Incorporated (UNH). This represents a substantial decline from the 52-week peak of $606.36. "
+      "snippet": "UnitedHealth Group Incorporated (NYSE:UNH) is one of the largest healthcare coverage providers in America. Morningstar's data shows that the firm serv"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.thecerbatgem.com/2026/03/24/unitedhealth-group-nyseunh-shares-up-1-still-a-buy.html",
+      "url": "https://www.tradingview.com/news/zacks:ddec218cf094b:0-here-s-why-you-should-hold-unitedhealth-group-unh-stock-now/",
       "query": "UnitedHealth Group Incorporated major customers clients",
-      "snippet": "UnitedHealth Group logo UnitedHealth Group Incorporated (NYSE:UNH – Get Free Report)’s stock price shot up 1% during trading on Tuesday . The company "
+      "snippet": "UnitedHealth Group Incorporated UNH is aided by a well-performing government business, owing to increasing premiums and numerous contract wins. The pu"
     }
   ]
 }

@@ -3,8 +3,8 @@ ticker: CVX
 company: Chevron Corporation
 sector: Energy
 industry: Oil & Gas Integrated
-extracted_at: 2026-03-26 17:00:45
-last_updated: 2026-03-26
+extracted_at: 2026-03-27 16:46:11
+last_updated: 2026-03-27
 ---
 
 # CVX - Chevron Corporation
@@ -12,23 +12,23 @@ last_updated: 2026-03-26
 ## 基本信息
 
 - **所属行业**: Energy / Oil & Gas Integrated
-- **提取时间**: 2026-03-26 17:00:45
+- **提取时间**: 2026-03-27 16:46:11
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Halliburton]]
-- [[Schlumberger]]
-- [[Baker Hughes]]
-- [[Weatherford]]
-- [[National Oilwell Varco]]
+- [[Saudi Aramco]]
+- [[BP]]
+- [[Shell]]
+- [[ExxonMobil]]
+- [[TotalEnergies]]
 
 ### 下游客户
-- [[Chevron retail stations (consumer gasoline sales)]]
-- [[Major airlines (e.g., Delta, United)]]
-- [[Automotive fleet operators]]
-- [[Petrochemical plants (e.g., Dow Chemical)]]
-- [[Government agencies (e.g., U.S. Department of Defense)]]
+- [[Phillips 66]]
+- [[Valero Energy]]
+- [[Marathon Petroleum]]
+- [[Shell]]
+- [[BP]]
 
 ### 竞争对手
 - [[ExxonMobil]]
@@ -40,18 +40,18 @@ last_updated: 2026-03-26
 ### 核心产品
 - [[Crude oil]]
 - [[Natural gas]]
-- [[Gasoline]]
-- [[Diesel]]
-- [[Jet fuel]]
+- [[Refined petroleum products (gasoline, diesel, jet fuel)]]
+- [[Petrochemicals]]
+- [[LNG]]
 
 ## 数据来源
 
 - [Chevron Corporation](https://en.wikipedia.org/wiki/Chevron_Corporation)
-- [Chevron Corporation suppliers manufacturers](https://en.wikipedia.org/wiki/Chevron_Corporation)
 - [Chevron Corporation suppliers manufacturers](https://ru.wikipedia.org/wiki/Chevron)
-- [Chevron Corporation major customers clients](https://matrixbcg.com/blogs/target-market/chevron)
+- [Chevron Corporation suppliers manufacturers](https://en.wikipedia.org/wiki/Standard_Oil)
+- [Chevron Corporation major customers clients](https://csimarket.com/stocks/CVX-Customers)
 - [Chevron Corporation major customers clients](https://pestel-analysis.com/blogs/target-market/chevron)
 
 ## 元数据
 
-- **更新日期**: 2026-03-26
+- **更新日期**: 2026-03-27

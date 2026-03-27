@@ -1,37 +1,33 @@
 {
   "ticker": "NBIS",
   "company_name": "Nebius Group N.V.",
-  "sector": "Communication Services",
-  "industry": "Internet Content & Information",
+  "sector": "Communication Services / Internet Content & Information",
+  "industry": "Artificial Intelligence Infrastructure",
   "upstream": [
-    "INTC",
     "NVDA",
+    "INTC",
     "AMD",
-    "QCOM",
-    "005930.KS"
+    "QCOM"
   ],
   "downstream": [
-    "META",
-    "GOOGL",
-    "MSFT",
     "AMZN",
+    "MSFT",
+    "GOOGL",
     "IBM"
   ],
   "competitors": [
     "OpenAI",
-    "Anthropic",
-    "DeepMind",
+    "GOOGL",
     "MSFT",
-    "AMZN"
+    "IBM"
   ],
   "key_products": [
-    "Nebius AI infrastructure platform",
-    "Avride AI services",
-    "TripleTen AI solutions",
-    "Toloka crowdsourcing platform",
-    "Clickhouse analytics"
+    "Nebius AI Platform",
+    "Nebius Cloud AI",
+    "Nebius Edge AI",
+    "Nebius Data Analytics"
   ],
-  "extracted_at": "2026-03-26 17:00:06",
+  "extracted_at": "2026-03-27 16:53:53",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,21 +37,21 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/suppliers_glance.php?code=NBIS",
+      "url": "https://en.wikipedia.org/wiki/Nebius_Group",
       "query": "NBIS suppliers manufacturers",
-      "snippet": "NBIS 's Suppliers Management Effectiveness. NBIS 's Competitors Results.Nebius Group N V's Comment on Supply Chain. NBIS 's Stock Perfrormance relativ"
+      "snippet": "Nebius Group N.V., headquartered in Amsterdam, is a technology company [3] that provides artificial intelligence infrastructure. [4] The company also "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/NBIS/",
+      "url": "https://csimarket.com/stocks/NBIS-Suppliers",
       "query": "NBIS suppliers manufacturers",
-      "snippet": "News headlines Nebius Group ( NBIS ) has secured a $27 billion deal with Meta Platforms, marking a significant expansion in its AI infrastructure capa"
+      "snippet": "May 3, 2025 · Nebius Group N V's Comment on Supply Chain NBIS 's Stock Perfrormance relative to it's Suppliers NBIS 's vs. Suppliers , Data (Revenue a"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://csimarket.com/stocks/NBIS-Customers",
       "query": "NBIS major customers clients",
-      "snippet": "4 days ago · Nebius Group N V customers and markets, results by customer and performance relative to NBIS , by company and industry - CSIMarket"
+      "snippet": "5 days ago · Nebius Group N V customers and markets, results by customer and performance relative to NBIS , by company and industry - CSIMarket"
     },
     {
       "source": "DuckDuckGo",

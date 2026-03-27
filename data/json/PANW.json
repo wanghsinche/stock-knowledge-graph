@@ -1,37 +1,36 @@
 {
   "ticker": "PANW",
   "company_name": "Palo Alto Networks, Inc.",
-  "sector": "Technology / Software - Infrastructure",
-  "industry": "Cybersecurity",
+  "sector": "Technology",
+  "industry": "Software - Infrastructure",
   "upstream": [
-    "ASIC chip manufacturers",
-    "Network interface card suppliers",
-    "Software component vendors",
-    "Hardware component suppliers",
-    "Cloud infrastructure providers"
+    "INTC",
+    "NVDA",
+    "QCOM",
+    "AVGO",
+    "MSFT"
   ],
   "downstream": [
-    "ADT",
-    "Westfield",
-    "AMZN",
-    "Fortune 100 companies",
-    "70,000+ organizations worldwide"
+    "Wipro",
+    "Tyson Foods",
+    "Bank of America",
+    "JPMorgan Chase",
+    "AT&T"
   ],
   "competitors": [
+    "CSCO",
     "Fortinet",
     "Check Point",
-    "CSCO",
-    "JNPR",
-    "Sophos"
+    "JNPR"
   ],
   "key_products": [
-    "Next‑Generation Firewall",
-    "Cloud Security Platform",
-    "Threat Intelligence (Unit 42)",
-    "Secure Access Service Edge (SASE)",
-    "Zero Trust Network Access (ZTNA)"
+    "Next-Generation Firewall",
+    "Prisma Cloud",
+    "Cortex XDR",
+    "Unit 42 Threat Intelligence",
+    "GlobalProtect VPN"
   ],
-  "extracted_at": "2026-02-24 17:05:43",
+  "extracted_at": "2026-03-27 16:49:18",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +40,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.paloaltonetworks.com/resources/by-industry-manufacturing",
+      "url": "https://ru.wikipedia.org/wiki/Palo_Alto_Networks",
       "query": "Palo Alto Networks, Inc. suppliers manufacturers",
-      "snippet": "Explore research reports, download data sheets and read solutions to secure manufacturing for industry Missing: Inc. suppliers"
+      "snippet": "Palo Alto Networks , Inc . — американская компания, оказывающая услуги в области информационной безопасности. Головной офис компании расположен в Сант"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.westconcomstor.com/ssa/en/vendors/palo-alto-networks.html",
+      "url": "https://www.paloaltonetworks.com/",
       "query": "Palo Alto Networks, Inc. suppliers manufacturers",
-      "snippet": "Westcon is Palo Alto Networks' consistent, multi-award-winning distributor. As the leading global distributor for Palo Alto Networks, we bring unmatch"
+      "snippet": "Palo Alto Networks : Cloud Security Leader in First-Ever CNAPP Report. The Forrester Wave™: Cloud Workload Security, Q1 2024.KuppingerCole Leadership "
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.paloaltonetworks.com/customers",
       "query": "Palo Alto Networks, Inc. major customers clients",
-      "snippet": "Discover how leading brands like ADT and Westfield secure their operations with Palo Alto Networks. Explore customer success stories in cybersecurity "
+      "snippet": "Discover how leading global brands like Wipro and Tyson Foods secure their operations with Palo Alto Networks . Explore customer success stories in cy"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.spanglobalservices.com/blog/top-companies-using-palo-alto-networks/",
+      "url": "https://www.appsruntheworld.com/customers-database/vendors/view/palo-alto-networks",
       "query": "Palo Alto Networks, Inc. major customers clients",
-      "snippet": "Dec 9, 2025 · Top 10 Companies Using Palo Alto Networks · 1. Amazon Web Services (AWS) · 2. JPMorgan Chase · 3. Coca-Cola · 4. Siemens · 5. University"
+      "snippet": "List of companies using or evaluating Palo Alto Networks applications, with details on their revenues, employees, industries, and locations."
     }
   ]
 }

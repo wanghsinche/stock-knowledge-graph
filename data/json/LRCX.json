@@ -3,11 +3,35 @@
   "company_name": "Lam Research Corporation",
   "sector": "Technology",
   "industry": "Semiconductor Equipment & Materials",
-  "upstream": [],
-  "downstream": [],
-  "competitors": [],
-  "key_products": [],
-  "extracted_at": "2026-03-26 16:57:09",
+  "upstream": [
+    "AMAT",
+    "Tokyo Electron",
+    "ASML",
+    "KLA-Tencor",
+    "Lam's component suppliers"
+  ],
+  "downstream": [
+    "TSM",
+    "005930.KS",
+    "INTC",
+    "MU",
+    "GlobalFoundries"
+  ],
+  "competitors": [
+    "AMAT",
+    "Tokyo Electron",
+    "ASML",
+    "KLA-Tencor",
+    "ASM Pacific Technology"
+  ],
+  "key_products": [
+    "Plasma etch systems",
+    "Deposition equipment",
+    "CMP systems",
+    "Back-end wafer-level packaging (WLP) equipment",
+    "MEMS packaging equipment"
+  ],
+  "extracted_at": "2026-03-27 16:53:24",
   "sources": [
     {
       "source": "Wikipedia",
@@ -26,6 +50,18 @@
       "url": "https://www.lamresearch.com/",
       "query": "Lam Research Corporation suppliers manufacturers",
       "snippet": "Everyone at Lam is a deep listener, in tune with what customers, suppliers , and key stakeholders in the entire ecosystem expect. And in turn, we’ve c"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/lam-research-corporation-lrcx-positioned-115400829.html",
+      "query": "Lam Research Corporation major customers clients",
+      "snippet": "Lam Research Corporation (NASDAQ:LRCX) is a semiconductor equipment manufacturer that provides wafer fabrication equipment and services used in chip p"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.zacks.com/stock/news/2886456/can-lam-researchs-systems-business-sustain-growth-amid-ai-capex-boom",
+      "query": "Lam Research Corporation major customers clients",
+      "snippet": "Today's Research Daily features new research reports on 16 major stocks, including Amazon.com, Inc. (AMZN), The TJX Companies, Inc. (TJX) and Eaton Co"
     }
   ]
 }

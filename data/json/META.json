@@ -5,33 +5,33 @@
   "industry": "Internet Content & Information",
   "upstream": [
     "NVDA",
-    "AMD",
-    "INTC",
-    "TSM",
-    "QCOM"
+    "CSCO",
+    "MSFT",
+    "MSFT",
+    "Content delivery network providers (Akamai, Cloudflare)"
   ],
   "downstream": [
-    "Advertisers",
-    "Small businesses",
-    "Large enterprises",
-    "App developers",
-    "Content creators"
+    "005930.KS",
+    "Small and medium businesses",
+    "Media companies",
+    "Gaming companies",
+    "Political campaigns"
   ],
   "competitors": [
-    "Twitter",
-    "TikTok",
-    "Snapchat",
-    "LinkedIn",
-    "Pinterest"
+    "GOOGL",
+    "AMZN",
+    "AAPL",
+    "MSFT",
+    "Snap Inc."
   ],
   "key_products": [
     "Facebook",
     "Instagram",
     "WhatsApp",
     "Messenger",
-    "Meta Ads"
+    "Threads"
   ],
-  "extracted_at": "2026-03-26 16:53:35",
+  "extracted_at": "2026-03-27 16:43:09",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Meta_Platforms",
-      "query": "Meta Platforms, Inc. suppliers manufacturers",
-      "snippet": "2 hours ago - Meta Platforms, Inc. (doing business as Meta) is an American multinational technology company headquartered in Menlo Park, California. M"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://data.ark.ai/analysis/suppliers/meta-platforms-inc-supplier-profile-overview",
-      "query": "Meta Platforms, Inc. suppliers manufacturers",
-      "snippet": "Ark.ai conducted a vendor and supply chain analysis of Meta Platforms, Inc., examining their subcontractors, subsidiaries, list of suppliers, manufact"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://ru.wikipedia.org/wiki/Meta_Platforms",
-      "query": "Meta Platforms, Inc. major customers clients",
-      "snippet": "Meta Platforms , Inc . — американская транснациональная холдинговая компания, владеющая технологическим конгломератом и расположенная в Менло-Парке, К"
-    },
-    {
-      "source": "DuckDuckGo",
       "url": "https://www.meta.com/about/",
-      "query": "Meta Platforms, Inc. major customers clients",
+      "query": "Meta Platforms, Inc. suppliers manufacturers",
       "snippet": "Meta - Social Media Advertising Platform (Facebook & Instagram)."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.computerhope.com/comp/meta.htm",
+      "query": "Meta Platforms, Inc. suppliers manufacturers",
+      "snippet": "Before it was rebranded as Meta in October 2021, Meta was known as Facebook Inc . According to Zuckerberg, the name Meta emphasizes their focus on VR "
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/Meta_Platforms",
+      "query": "Meta Platforms, Inc. major customers clients",
+      "snippet": "Meta owns and operates several prominent social media platforms and communication services, including Facebook, Instagram, WhatsApp, Messenger, Thread"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.appsruntheworld.com/customers-database/vendors/view/meta",
+      "query": "Meta Platforms, Inc. major customers clients",
+      "snippet": "List of companies using or evaluating Meta applications, with details on their revenues, employees, industries, and locations. Missing: major | Show r"
     }
   ]
 }

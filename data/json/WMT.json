@@ -1,37 +1,37 @@
 {
   "ticker": "WMT",
   "company_name": "Walmart Inc.",
-  "sector": "Consumer Defensive / Discount Stores",
-  "industry": "Retail - Discount Stores",
+  "sector": "Consumer Defensive",
+  "industry": "Discount Stores",
   "upstream": [
     "Procter & Gamble",
     "Coca‑Cola",
-    "PepsiCo",
-    "Kraft Heinz",
-    "Johnson & Johnson"
+    "Nestlé",
+    "Johnson & Johnson",
+    "Nike"
   ],
   "downstream": [
-    "Individual consumers",
-    "Small and medium enterprises",
-    "Online shoppers via Walmart.com",
-    "Corporate clients for bulk purchases",
-    "Government agencies"
+    "U.S. consumers",
+    "International consumers",
+    "Small businesses",
+    "Online shoppers",
+    "Local communities"
   ],
   "competitors": [
     "Target",
     "Costco",
-    "Dollar General",
-    "Aldi",
-    "BJ's Wholesale Club"
+    "AMZN",
+    "BJ's Wholesale",
+    "Kroger"
   ],
   "key_products": [
     "Groceries",
-    "Household goods",
     "Apparel",
     "Electronics",
-    "Pharmacy products"
+    "Home goods",
+    "Health & beauty products"
   ],
-  "extracted_at": "2026-03-24 17:54:57",
+  "extracted_at": "2026-03-27 16:50:07",
   "sources": [
     {
       "source": "Wikipedia",
@@ -53,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Walmart",
+      "url": "https://capitaloneshopping.com/research/walmart-statistics/",
       "query": "Walmart Inc. major customers clients",
-      "snippet": "Walmart Inc . is an American multinational retail corporation that operates a chain of hypermarkets, discount department stores, and grocery stores in"
+      "snippet": "Nov 6, 2025 · Latest available data on Walmart 's size and market share, both offline and online, with total sales and revenue breakdowns by year."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.walmart.com/",
+      "url": "https://businessmodelanalyst.com/walmart-target-market/",
       "query": "Walmart Inc. major customers clients",
-      "snippet": "Shop Walmart .com today for Every Day Low Prices. Join Walmart + for unlimited free delivery from your store & free shipping with no order minimum. St"
+      "snippet": "Dec 2, 2024 · This article will examine Walmart target market and approach to reaching a broad yet carefully segmented customer base. From demographic"
     }
   ]
 }

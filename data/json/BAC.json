@@ -4,18 +4,18 @@
   "sector": "Financial Services",
   "industry": "Banks - Diversified",
   "upstream": [
-    "MSFT",
-    "IBM",
-    "Security and cybersecurity firms (e.g., Symantec, Palo Alto Networks)",
-    "Consulting firms (e.g., Deloitte, PwC)",
-    "Office and facility suppliers (e.g., Staples, local real‑estate services)"
+    "Technology vendors",
+    "Office equipment suppliers",
+    "Security and surveillance providers",
+    "Legal and compliance service firms",
+    "Consulting and advisory firms"
   ],
   "downstream": [
-    "Retail banking customers (individuals and households)",
-    "Small and medium‑enterprise (SME) clients",
-    "Corporate and institutional clients",
-    "Wealth management and private banking clients",
-    "Mortgage borrowers and real‑estate investors"
+    "Retail banking customers",
+    "Corporate and commercial clients",
+    "Small and medium enterprises (SMEs)",
+    "High‑net‑worth individuals",
+    "Government and public sector entities"
   ],
   "competitors": [
     "JPMorgan Chase & Co.",
@@ -25,13 +25,13 @@
     "Morgan Stanley"
   ],
   "key_products": [
-    "Consumer banking (checking, savings, credit cards)",
-    "Corporate and investment banking services",
-    "Wealth management and private banking",
-    "Mortgage lending and real‑estate financing",
-    "Treasury and cash management solutions"
+    "Retail banking services (checking, savings, mortgages)",
+    "Commercial banking and lending",
+    "Investment banking and advisory",
+    "Wealth and asset management",
+    "Credit card and payment services"
   ],
-  "extracted_at": "2026-03-26 17:04:46",
+  "extracted_at": "2026-03-27 16:52:42",
   "sources": [
     {
       "source": "Wikipedia",
@@ -53,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Bank_of_America",
+      "url": "https://newsroom.bankofamerica.com/content/newsroom/company-overview/bank-of-america-fast-facts.html",
       "query": "Bank of America Corporation major customers clients",
-      "snippet": "The Bank of America Corporation is an American multinational investment bank and financial services holding company headquartered at the Bank of Ameri"
+      "snippet": "Feb 24, 2026 · Explore Bank of America Fast Facts for key insights on our global presence, financial services, client reach, and commitment to respons"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.bankofamerica.com/",
+      "url": "https://csimarket.com/stocks/BAC-Customers",
       "query": "Bank of America Corporation major customers clients",
-      "snippet": "At Bank of America , our purpose is to help make financial lives better through the power of every connection.Merrill Lynch Wealth Management Clients "
+      "snippet": "4 days ago · Bank Of America customers and markets, results by customer and performance relative to BAC, by company and industry - CSIMarket"
     }
   ]
 }

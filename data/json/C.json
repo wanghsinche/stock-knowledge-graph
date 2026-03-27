@@ -1,37 +1,37 @@
 {
   "ticker": "C",
   "company_name": "Citigroup Inc.",
-  "sector": "Financial Services",
-  "industry": "Diversified Banks",
+  "sector": "Financial Services / Banks - Diversified",
+  "industry": "Financial Services",
   "upstream": [
     "MSFT",
-    "Data providers (Bloomberg, Refinitiv)",
-    "Payment processors (Visa, Mastercard)",
-    "Cloud service providers (AWS, Azure)",
-    "Regulatory technology firms"
+    "Consulting firms (e.g., Accenture, Deloitte)",
+    "Security vendors (e.g., Symantec, Palo Alto Networks)",
+    "Data providers (e.g., Bloomberg, Thomson Reuters)",
+    "Legal and compliance service providers"
   ],
   "downstream": [
-    "Corporate clients (e.g., Fortune 500 companies)",
-    "Institutional investors (mutual funds, pension funds)",
-    "Retail banking customers",
-    "Small and medium enterprises",
-    "Wealth management clients"
+    "Institutional Clients Group (ICG) – corporate & institutional investors",
+    "Retail banking customers – individuals and small businesses",
+    "Corporate clients – multinational and mid‑size companies",
+    "Government and public sector entities",
+    "High‑net‑worth individuals and wealth‑management clients"
   ],
   "competitors": [
     "JPMorgan Chase & Co.",
     "Bank of America Corp.",
+    "Wells Fargo & Co.",
     "Goldman Sachs Group Inc.",
-    "Morgan Stanley",
-    "Wells Fargo & Co."
+    "Morgan Stanley"
   ],
   "key_products": [
     "Investment banking services",
+    "Commercial banking and lending",
     "Retail banking and credit cards",
     "Wealth and asset management",
-    "Treasury and trade solutions",
-    "Capital markets services"
+    "Treasury and securities services"
   ],
-  "extracted_at": "2026-03-24 18:45:33",
+  "extracted_at": "2026-03-27 16:46:36",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,15 +41,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/C-Suppliers",
+      "url": "https://en.wikipedia.org/wiki/Citigroup",
       "query": "Citigroup Inc. suppliers manufacturers",
-      "snippet": "Feb 22, 2026 · Citigroup Inc supply chain, list and performance of Citigroup Incs' suppliers - CSIMarket"
+      "snippet": "Citigroup Inc . or Citi is an American multinational investment bank and financial services company based in New York City. The company was formed in "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://data.ark.ai/analysis/suppliers/citigroup-inc-supplier-profile-overview",
+      "url": "https://csimarket.com/stocks/C-Suppliers",
       "query": "Citigroup Inc. suppliers manufacturers",
-      "snippet": "Supplier Summary Ark.ai conducted a vendor and supply chain analysis of Citigroup Inc ., examining their subcontractors, subsidiaries, list of supplie"
+      "snippet": "Citigroup Inc supply chain, list and performance of Citigroup Incs ' suppliers - CSIMarket."
     },
     {
       "source": "DuckDuckGo",

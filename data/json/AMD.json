@@ -8,7 +8,7 @@
     "005930.KS",
     "GlobalFoundries",
     "UMC",
-    "ASML"
+    "INTC"
   ],
   "downstream": [
     "DELL",
@@ -22,16 +22,16 @@
     "NVDA",
     "QCOM",
     "AVGO",
-    "ARM"
+    "005930.KS"
   ],
   "key_products": [
     "Ryzen CPUs",
     "EPYC CPUs",
     "Radeon GPUs",
     "Xilinx FPGAs",
-    "APU (Accelerated Processing Unit)"
+    "AMD GPUs"
   ],
-  "extracted_at": "2026-03-26 16:54:09",
+  "extracted_at": "2026-03-27 16:44:18",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,21 +47,21 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://au.finance.yahoo.com/news/advanced-micro-devices-inc-amd-190242254.html",
+      "url": "https://www.britannica.com/money/Advanced-Micro-Devices-Inc",
       "query": "Advanced Micro Devices, Inc. suppliers manufacturers",
-      "snippet": "Advanced Micro Devices , Inc . (NASDAQ: AMD ) is a semiconductor designer whose shares have been on quite a run in June. The stock has gained 29.50% i"
+      "snippet": "Advanced Micro Devices , Inc . ( AMD ) is an American semiconductor designer and global supplier of computing and graphics technologies used in data c"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/AMD-Customers",
+      "url": "https://en.wikipedia.org/wiki/AMD",
       "query": "Advanced Micro Devices, Inc. major customers clients",
-      "snippet": "6 days ago · Advanced Micro Devices Inc customers and markets, results by customer and performance relative to AMD, by company and industry - CSIMarke"
+      "snippet": "Advanced Micro Devices , Inc . Advanced Micro Devices , Inc . ( AMD ) is an American multinational semiconductor company headquartered in Santa Clara,"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.marketscreener.com/quote/stock/AMD-ADVANCED-MICRO-DEVICE-179387659/finances-segments/",
+      "url": "https://dcf-model.com/products/amd-marketing-mix",
       "query": "Advanced Micro Devices, Inc. major customers clients",
-      "snippet": "2 days ago · Understand how activity and revenue gets distributed for AMD (Advanced Micro Devices ) (AMD). Ten-year segmentation history. The entire s"
+      "snippet": "Advanced Micro Devices , Inc . ( AMD ) described this product as its fastest ramping product in company history. The MI350X variant specifically deliv"
     }
   ]
 }

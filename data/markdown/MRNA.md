@@ -3,8 +3,8 @@ ticker: MRNA
 company: Moderna, Inc.
 sector: Healthcare
 industry: Biotechnology
-extracted_at: 2026-03-26 17:04:57
-last_updated: 2026-03-26
+extracted_at: 2026-03-27 16:54:07
+last_updated: 2026-03-27
 ---
 
 # MRNA - Moderna, Inc.
@@ -12,46 +12,46 @@ last_updated: 2026-03-26
 ## 基本信息
 
 - **所属行业**: Healthcare / Biotechnology
-- **提取时间**: 2026-03-26 17:04:57
+- **提取时间**: 2026-03-27 16:54:07
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Lonza (cell culture media and bioprocessing services)]]
-- [[Acuitas Therapeutics (lipid nanoparticle formulation)]]
-- [[Thermo Fisher Scientific (lab equipment and reagents)]]
-- [[Gilead Sciences (raw material supply)]]
-- [[CureVac (mRNA platform technology)]]
+- [[Nucleic acid suppliers (e.g., Genscript, Thermo Fisher Scientific)]]
+- [[Lipid nanoparticle manufacturers (e.g., Acuitas Therapeutics)]]
+- [[Cell culture media producers (e.g., Lonza, Thermo Fisher)]]
+- [[Enzyme and reagent suppliers (e.g., New England Biolabs)]]
+- [[Packaging and vial manufacturers (e.g., Becton Dickinson)]]
 
 ### 下游客户
-- [[United States Department of Health and Human Services (COVID‑19 vaccine contracts)]]
-- [[European Medicines Agency (EMA) approval for Spikevax]]
-- [[National Health Service (UK) vaccine procurement]]
-- [[Pfizer (collaboration on mRNA therapeutics)]]
-- [[Johnson & Johnson (partner for mRNA vaccine trials)]]
+- [[Government health agencies (e.g., CDC, EMA, WHO)]]
+- [[Hospitals and health systems]]
+- [[Pharmaceutical distributors (e.g., McKesson, Cardinal Health)]]
+- [[International vaccine procurement organizations (e.g., COVAX)]]
+- [[Private healthcare providers and insurers]]
 
 ### 竞争对手
+- [[Pfizer]]
 - [[BioNTech]]
+- [[Johnson & Johnson]]
+- [[Novavax]]
 - [[CureVac]]
-- [[Translate Bio]]
-- [[Arcturus Therapeutics]]
-- [[Sana Biotechnology]]
 
 ### 核心产品
-- [[Spikevax (COVID‑19 vaccine)]]
-- [[mRNA‑4157 (cancer vaccine)]]
-- [[mRNA‑3704 (influenza vaccine)]]
-- [[mRNA‑1944 (COVID‑19 therapeutic)]]
-- [[mRNA‑1273.214 (bivalent COVID‑19 vaccine)]]
+- [[Spikevax (COVID‑19 mRNA vaccine)]]
+- [[mRNA‑1273.214 (bivalent COVID‑19 booster)]]
+- [[mRNA‑1273.351 (variant‑specific booster)]]
+- [[mRNA‑1273.222 (pan‑variant booster)]]
+- [[mRNA‑1273.529 (next‑generation COVID‑19 vaccine)]]
 
 ## 数据来源
 
 - 
-- [Moderna, Inc. suppliers manufacturers](https://csimarket.com/stocks/suppliers_glance.php?code=MRNA)
-- [Moderna, Inc. suppliers manufacturers](https://www.modernatx.com/about-us/our-story)
+- [Moderna, Inc. suppliers manufacturers](https://modernadirect.com/authorized-distributor)
+- [Moderna, Inc. suppliers manufacturers](https://www.modernatx.com/supplier/moderna-supplier-page)
 - [Moderna, Inc. major customers clients](https://portersfiveforce.com/blogs/target-market/moderna)
 - [Moderna, Inc. major customers clients](https://pitchgrade.com/companies/moderna)
 
 ## 元数据
 
-- **更新日期**: 2026-03-26
+- **更新日期**: 2026-03-27

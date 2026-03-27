@@ -3,8 +3,8 @@ ticker: JPM
 company: JPMorgan Chase & Co.
 sector: Financial Services
 industry: Banks - Diversified
-extracted_at: 2026-03-26 17:01:08
-last_updated: 2026-03-26
+extracted_at: 2026-03-27 16:49:05
+last_updated: 2026-03-27
 ---
 
 # JPM - JPMorgan Chase & Co.
@@ -12,23 +12,23 @@ last_updated: 2026-03-26
 ## 基本信息
 
 - **所属行业**: Financial Services / Banks - Diversified
-- **提取时间**: 2026-03-26 17:01:08
+- **提取时间**: 2026-03-27 16:49:05
 
 ## 产业链关系
 
 ### 上游供应商
 - [[MSFT]]
-- [[IBM]]
-- [[ORCL]]
-- [[Accenture]]
-- [[Deloitte]]
+- [[Consulting firms (e.g., Accenture, Deloitte)]]
+- [[Payment processors (e.g., Visa, Mastercard)]]
+- [[Cybersecurity providers (e.g., Palo Alto Networks)]]
+- [[AMZN]]
 
 ### 下游客户
-- [[Large corporations]]
-- [[Small and medium enterprises]]
-- [[High-net-worth individuals]]
+- [[Retail customers (individuals)]]
+- [[Corporate clients (mid-size to large firms)]]
 - [[Government entities]]
-- [[Retail customers]]
+- [[High-net-worth individuals]]
+- [[Institutional investors]]
 
 ### 竞争对手
 - [[Bank of America]]
@@ -38,11 +38,11 @@ last_updated: 2026-03-26
 - [[Morgan Stanley]]
 
 ### 核心产品
-- [[Retail banking]]
-- [[Commercial banking]]
+- [[Retail banking services]]
 - [[Investment banking]]
 - [[Asset management]]
 - [[Wealth management]]
+- [[Credit cards and loans]]
 
 ## 数据来源
 
@@ -54,4 +54,4 @@ last_updated: 2026-03-26
 
 ## 元数据
 
-- **更新日期**: 2026-03-26
+- **更新日期**: 2026-03-27

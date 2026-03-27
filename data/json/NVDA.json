@@ -11,11 +11,11 @@
     "ASE Group"
   ],
   "downstream": [
-    "SONY",
     "MSFT",
-    "Nintendo",
-    "TSLA",
-    "AMZN"
+    "GOOGL",
+    "AMZN",
+    "AAPL",
+    "SONY"
   ],
   "competitors": [
     "AMD",
@@ -26,12 +26,12 @@
   ],
   "key_products": [
     "GeForce RTX GPUs",
-    "Quadro RTX GPUs",
-    "Tesla GPUs (A100, H100)",
-    "NVIDIA DRIVE automotive platform",
+    "NVIDIA A100 Tensor Core GPU",
+    "NVIDIA Jetson AI platform",
+    "NVIDIA Tegra SoC",
     "CUDA software platform"
   ],
-  "extracted_at": "2026-03-26 16:53:01",
+  "extracted_at": "2026-03-27 16:42:36",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/NVDA-Suppliers",
-      "query": "NVIDIA Corporation suppliers manufacturers",
-      "snippet": "Feb 26, 2026 · Nvidia 's Comment on Supply Chain We utilize a fabless and contracting manufacturing strategy, whereby we employ and partner with key s"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://stocksandfuturestrading.com/the-complete-list-of-nvidias-suppliers-and-consumers/",
-      "query": "NVIDIA Corporation suppliers manufacturers",
-      "snippet": "Nov 22, 2024 · Trading Resources The Complete List Of Nvidia ’s Suppliers And Consumers By Stocks & Futures Trading This is the most recently updated "
-    },
-    {
-      "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Nvidia",
-      "query": "NVIDIA Corporation major customers clients",
-      "snippet": "Nvidia Corporation . Show dark mode logo.^ Officially written as NVIDIA Corporation and stylized in its logo as nVIDIA with the lowercase \"n\" the same"
+      "query": "NVIDIA Corporation suppliers manufacturers",
+      "snippet": "1 day ago - In August 2025, Nvidia ordered ... due to security concerns. The company directed suppliers including Taiwan Semiconductor Manufacturing C"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/news/nvidia-stock-warning-nvda-challenger-184049791.html",
+      "url": "https://www.theaireport.ai/partner-columns/nvidias-supply-chain--part-1",
+      "query": "NVIDIA Corporation suppliers manufacturers",
+      "snippet": "September 9, 2025 - Answering this simple question could unearth some investment opportunities that average ETF investors will miss. Here’s what you n"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.fool.com/investing/2025/06/26/who-are-nvidias-biggest-customers/",
       "query": "NVIDIA Corporation major customers clients",
-      "snippet": "Nvidia (NVDA) shares inched down today, July 22, after FuriosaAI said it has landed LG as its first major customer .For Nvidia , it raises competitive"
+      "snippet": "June 26, 2025 - Nvidia has amassed an impressive list of customers, which includes top AI developers like Amazon, Microsoft, and Alphabet ."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.fool.com/investing/2024/05/02/who-are-nvidias-largest-customers/",
+      "query": "NVIDIA Corporation major customers clients",
+      "snippet": "May 2, 2024 - However, in its recent 10-K filing, the company did say that one customer represented 13% of its revenue from its compute and networking"
     }
   ]
 }

@@ -4,34 +4,39 @@
   "sector": "Consumer Cyclical",
   "industry": "Auto Manufacturers",
   "upstream": [
-    "LG Chem",
-    "Panasonic",
     "CAT",
-    "Bosch",
-    "Denso"
+    "Electric motor suppliers",
+    "Autopilot software providers",
+    "Raw material suppliers (lithium, cobalt, nickel)",
+    "Component suppliers (sensors, cameras, infotainment)"
   ],
   "downstream": [
-    "Residential customers (Powerwall)",
-    "Commercial customers (Powerpack)",
-    "Utility companies (grid‑scale storage)",
-    "Automotive consumers (Model S, 3, X, Y)",
-    "Commercial fleet operators (Semi, Cybertruck)"
+    "Individual consumers (private vehicle owners)",
+    "Commercial fleet operators",
+    "Utilities and energy companies (solar & storage)",
+    "Automotive dealers and service centers",
+    "Government agencies and public transport"
   ],
   "competitors": [
     "Ford Motor Company",
     "General Motors",
-    "Volkswagen AG",
-    "Hyundai Motor Group",
-    "Rivian Automotive"
+    "Rivian Automotive",
+    "Lucid Motors",
+    "BYD Auto"
   ],
   "key_products": [
     "Model S",
     "Model 3",
     "Model X",
     "Model Y",
-    "Powerwall"
+    "Cybertruck",
+    "Tesla Semi",
+    "Powerwall",
+    "Powerpack",
+    "Solar Roof",
+    "Solar panels"
   ],
-  "extracted_at": "2026-03-26 16:53:11",
+  "extracted_at": "2026-03-27 16:42:46",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,21 +46,21 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/List_of_Tesla_factories",
-      "query": "Tesla, Inc. suppliers manufacturers",
-      "snippet": "List of Tesla factories Robotic manufacturing of the Model S at the Tesla Factory in Fremont, California Tesla, Inc . manufactures their products worl"
-    },
-    {
-      "source": "DuckDuckGo",
       "url": "https://www.investopedia.com/ask/answers/052815/who-are-teslas-tsla-main-suppliers.asp",
       "query": "Tesla, Inc. suppliers manufacturers",
       "snippet": "Nov 4, 2025 · Discover Tesla's key and rumored parts suppliers . Learn which companies provide essential components for Tesla's electric vehicles and "
     },
     {
       "source": "DuckDuckGo",
+      "url": "https://investguiding.com/article/who-are-tesla-s-main-suppliers",
+      "query": "Tesla, Inc. suppliers manufacturers",
+      "snippet": "16 hours ago · Who Are Tesla's Battery Suppliers ? Does Tesla Make Its Own Microchips? FAQs A relative newcomer to the automotive sector, Tesla, Inc ."
+    },
+    {
+      "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Tesla,_Inc.",
       "query": "Tesla, Inc. major customers clients",
-      "snippet": "1 day ago - Tesla Energy products include solar panels (built by other companies for Tesla), the Tesla Solar Roof (a solar shingle system), and the Te"
+      "snippet": "2 days ago - Tesla Energy products include solar panels (built by other companies for Tesla), the Tesla Solar Roof (a solar shingle system), and the T"
     },
     {
       "source": "DuckDuckGo",

@@ -4,34 +4,34 @@
   "sector": "Technology",
   "industry": "Software - Infrastructure",
   "upstream": [
-    "INTC",
-    "NVDA",
-    "AMD",
-    "QCOM",
-    "005930.KS"
+    "Monolithic Power Systems, Inc.",
+    "Murata Manufacturing Co., Ltd.",
+    "Newmax Technology",
+    "TXN",
+    "QCOM"
   ],
   "downstream": [
-    "Walmart",
-    "JPMorgan Chase",
-    "US Department of Defense",
-    "FedEx",
-    "NASA"
+    "Enterprise customers (e.g., banks, healthcare, manufacturing)",
+    "Government agencies (U.S. federal, state, local)",
+    "DELL",
+    "Gaming customers (Xbox console owners)",
+    "CAT"
   ],
   "competitors": [
     "AAPL",
     "GOOGL",
     "AMZN",
-    "ORCL",
-    "CRM"
+    "IBM",
+    "ORCL"
   ],
   "key_products": [
-    "Windows OS",
-    "Microsoft Office",
-    "Azure Cloud",
-    "Microsoft 365",
-    "Xbox"
+    "Windows operating system",
+    "Microsoft Office suite",
+    "Azure cloud platform",
+    "Xbox gaming console",
+    "Microsoft Teams collaboration platform"
   ],
-  "extracted_at": "2026-03-26 16:53:55",
+  "extracted_at": "2026-03-27 16:43:31",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,9 +47,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.microsoft.com/en-us/procurement",
+      "url": "https://download.microsoft.com/download/F/3/8/F38AF681-EB3A-4645-A9C4-D4F31B8BA8F2/Microsoft+Top+100+Production+Suppliers.pdf",
       "query": "Microsoft Corporation suppliers manufacturers",
-      "snippet": "Microsoft Procurement is committed to building a diverse global supplier base that reflects the global diversity of our customers and provides all typ"
+      "snippet": "MONOLITHIC POWER SYSTEMS, INC. MURATA MANUFACTURING CO., LTD. NEWMAX TECHNOLOGY CO., LTD. NICHICON CORPORATION NIDEC CORPORATION NUVOTON TECHNOLOGY CO"
     },
     {
       "source": "DuckDuckGo",
@@ -61,7 +61,7 @@
       "source": "DuckDuckGo",
       "url": "https://csimarket.com/stocks/MSFT-Customers",
       "query": "Microsoft Corporation major customers clients",
-      "snippet": "For your research, we’ve provided 9 tables on Microsoft Corporation corporate clients . You can find them in the navigation menu under Customers & Mar"
+      "snippet": "Microsoft customers and markets, results by customer and performance relative to MSFT, by company and industry - CSIMarket"
     }
   ]
 }

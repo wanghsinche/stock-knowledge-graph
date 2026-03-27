@@ -4,25 +4,25 @@
   "sector": "Communication Services",
   "industry": "Internet Content & Information",
   "upstream": [
-    "TSM",
-    "005930.KS",
-    "INTC",
     "QCOM",
-    "NVDA"
+    "INTC",
+    "005930.KS",
+    "NVDA",
+    "SONY"
   ],
   "downstream": [
     "GOOGL",
-    "YouTube content creators",
-    "Android OEM partners",
     "GOOGL",
-    "GOOGL"
+    "Content creators (YouTube)",
+    "GOOGL",
+    "Device manufacturers (Android OEMs)"
   ],
   "competitors": [
     "MSFT",
     "AMZN",
     "META",
     "AAPL",
-    "NFLX"
+    "Tencent"
   ],
   "key_products": [
     "Google Search",
@@ -31,7 +31,7 @@
     "Android OS",
     "Google Ads"
   ],
-  "extracted_at": "2026-03-26 16:55:00",
+  "extracted_at": "2026-03-27 16:44:06",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,15 +41,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/GOOG-Suppliers",
+      "url": "https://en.wikipedia.org/wiki/Alphabet_Inc.",
       "query": "Alphabet Inc. suppliers manufacturers",
-      "snippet": "Feb 6, 2026 · Alphabet Inc 's Comment on Supply Chain We rely on third parties to manufacture many of our assemblies and finished products, and we hav"
+      "snippet": "Alphabet Inc . is an American multinational technology conglomerate holding company headquartered in Mountain View, California . It was created throug"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.industryleadersmagazine.com/an-a-to-z-list-of-companies-owned-by-alphabet-inc/",
+      "url": "https://csimarket.com/stocks/GOOG-Suppliers",
       "query": "Alphabet Inc. suppliers manufacturers",
-      "snippet": "Alphabet, Inc. is a technology conglomerate that owns four significant subsidiaries: Google LLC, XXVI Holdings Inc., Google Ireland Holdings, and Alph"
+      "snippet": "Feb 6, 2026 · Alphabet Inc 's Comment on Supply Chain We rely on third parties to manufacture many of our assemblies and finished products, and we hav"
     },
     {
       "source": "DuckDuckGo",

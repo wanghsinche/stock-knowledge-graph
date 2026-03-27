@@ -3,8 +3,8 @@ ticker: MA
 company: Mastercard Incorporated
 sector: Financial Services
 industry: Credit Services
-extracted_at: 2026-02-26 16:53:25
-last_updated: 2026-02-26
+extracted_at: 2026-03-27 16:53:41
+last_updated: 2026-03-27
 ---
 
 # MA - Mastercard Incorporated
@@ -12,37 +12,37 @@ last_updated: 2026-02-26
 ## 基本信息
 
 - **所属行业**: Financial Services / Credit Services
-- **提取时间**: 2026-02-26 16:53:25
+- **提取时间**: 2026-03-27 16:53:41
 
 ## 产业链关系
 
 ### 上游供应商
-- [[NXP Semiconductors]]
-- [[005930.KS]]
-- [[Thales Group (Gemalto)]]
-- [[IBM]]
-- [[Visa (technology partner for interoperability)]]
+- [[Chip and card manufacturing suppliers (e.g., Gemalto, IDTech)]]
+- [[Payment network infrastructure providers]]
+- [[Software and cybersecurity vendors]]
+- [[Data center and cloud service providers]]
+- [[Electronic payment terminal manufacturers]]
 
 ### 下游客户
-- [[JPMorgan Chase]]
-- [[Bank of America]]
-- [[Citibank]]
-- [[Wells Fargo]]
-- [[Capital One]]
+- [[Retail merchants worldwide]]
+- [[Banks and credit unions issuing Mastercard cards]]
+- [[Financial institutions using Mastercard’s payment processing]]
+- [[E‑commerce platforms and online merchants]]
+- [[Mobile wallet and fintech partners]]
 
 ### 竞争对手
-- [[Visa]]
+- [[Visa Inc.]]
 - [[American Express]]
-- [[Discover]]
-- [[JCB]]
+- [[Discover Financial Services]]
+- [[JCB Co., Ltd.]]
 - [[UnionPay]]
 
 ### 核心产品
-- [[Payment processing network]]
-- [[Credit card processing services]]
-- [[Debit card processing services]]
-- [[Prepaid card processing services]]
-- [[Payment gateway and tokenization solutions]]
+- [[Payment transaction processing network]]
+- [[Credit, debit, and prepaid card issuance services]]
+- [[Digital payment solutions (e.g., Mastercard PayPass, Mastercard Digital Enablement)]]
+- [[Fraud detection and risk management services]]
+- [[Data analytics and insights for merchants]]
 
 ## 数据来源
 
@@ -50,8 +50,8 @@ last_updated: 2026-02-26
 - [Mastercard Incorporated suppliers manufacturers](https://en.wikipedia.org/wiki/Mastercard)
 - [Mastercard Incorporated suppliers manufacturers](https://ru.wikipedia.org/wiki/Mastercard)
 - [Mastercard Incorporated major customers clients](https://en.wikipedia.org/wiki/Mastercard)
-- [Mastercard Incorporated major customers clients](https://www.msn.com/en-us/money/economy/mastercard-incorporated-ma-revenue-beats-forecasts-as-customers-continue-to-spend/ar-AA1Wdp61)
+- [Mastercard Incorporated major customers clients](https://ru.wikipedia.org/wiki/Mastercard)
 
 ## 元数据
 
-- **更新日期**: 2026-02-26
+- **更新日期**: 2026-03-27

@@ -7,31 +7,31 @@
     "AMZN",
     "MSFT",
     "GOOGL",
-    "IBM",
-    "ORCL"
+    "DELL",
+    "CSCO"
   ],
   "downstream": [
     "U.S. Department of Defense",
     "Federal Bureau of Investigation",
-    "INTC",
-    "JPMorgan Chase",
-    "Walmart"
+    "European Union agencies",
+    "Walmart",
+    "JPMorgan Chase"
   ],
   "competitors": [
+    "Snowflake",
+    "Databricks",
+    "Splunk",
     "IBM",
-    "MSFT",
-    "GOOGL",
-    "SAS",
-    "Snowflake"
+    "SAS"
   ],
   "key_products": [
     "Gotham",
     "Foundry",
-    "Palantir Platform",
-    "Palantir Data Integration",
-    "Palantir Analytics"
+    "Palantir Apollo",
+    "Palantir Helix",
+    "Palantir Platform"
   ],
-  "extracted_at": "2026-03-26 16:54:48",
+  "extracted_at": "2026-03-27 16:44:30",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,9 +47,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/PLTR/",
+      "url": "https://tr.wikipedia.org/wiki/Palantir_Technologies",
       "query": "Palantir Technologies Inc. suppliers manufacturers",
-      "snippet": "Palantir Technologies Inc . builds and deploys software platforms for the intelligence community to assist in counterterrorism investigations and oper"
+      "snippet": "Palantir Technologies Inc ., büyük veri analitiği için yazılım platformlarında uzmanlaşmış bir Amerikan halka açık şirketidir. Merkezi Denver, Colorad"
     },
     {
       "source": "DuckDuckGo",

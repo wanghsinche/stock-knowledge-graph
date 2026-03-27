@@ -4,34 +4,34 @@
   "sector": "Healthcare",
   "industry": "Biotechnology",
   "upstream": [
-    "Lonza (cell culture media and bioprocessing services)",
-    "Acuitas Therapeutics (lipid nanoparticle formulation)",
-    "Thermo Fisher Scientific (lab equipment and reagents)",
-    "Gilead Sciences (raw material supply)",
-    "CureVac (mRNA platform technology)"
+    "Nucleic acid suppliers (e.g., Genscript, Thermo Fisher Scientific)",
+    "Lipid nanoparticle manufacturers (e.g., Acuitas Therapeutics)",
+    "Cell culture media producers (e.g., Lonza, Thermo Fisher)",
+    "Enzyme and reagent suppliers (e.g., New England Biolabs)",
+    "Packaging and vial manufacturers (e.g., Becton Dickinson)"
   ],
   "downstream": [
-    "United States Department of Health and Human Services (COVID‑19 vaccine contracts)",
-    "European Medicines Agency (EMA) approval for Spikevax",
-    "National Health Service (UK) vaccine procurement",
-    "Pfizer (collaboration on mRNA therapeutics)",
-    "Johnson & Johnson (partner for mRNA vaccine trials)"
+    "Government health agencies (e.g., CDC, EMA, WHO)",
+    "Hospitals and health systems",
+    "Pharmaceutical distributors (e.g., McKesson, Cardinal Health)",
+    "International vaccine procurement organizations (e.g., COVAX)",
+    "Private healthcare providers and insurers"
   ],
   "competitors": [
+    "Pfizer",
     "BioNTech",
-    "CureVac",
-    "Translate Bio",
-    "Arcturus Therapeutics",
-    "Sana Biotechnology"
+    "Johnson & Johnson",
+    "Novavax",
+    "CureVac"
   ],
   "key_products": [
-    "Spikevax (COVID‑19 vaccine)",
-    "mRNA‑4157 (cancer vaccine)",
-    "mRNA‑3704 (influenza vaccine)",
-    "mRNA‑1944 (COVID‑19 therapeutic)",
-    "mRNA‑1273.214 (bivalent COVID‑19 vaccine)"
+    "Spikevax (COVID‑19 mRNA vaccine)",
+    "mRNA‑1273.214 (bivalent COVID‑19 booster)",
+    "mRNA‑1273.351 (variant‑specific booster)",
+    "mRNA‑1273.222 (pan‑variant booster)",
+    "mRNA‑1273.529 (next‑generation COVID‑19 vaccine)"
   ],
-  "extracted_at": "2026-03-26 17:04:57",
+  "extracted_at": "2026-03-27 16:54:07",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,15 +41,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/suppliers_glance.php?code=MRNA",
+      "url": "https://modernadirect.com/authorized-distributor",
       "query": "Moderna, Inc. suppliers manufacturers",
-      "snippet": "Moderna Inc supply chain, list and performance of Moderna Incs ' suppliers - CSIMarket."
+      "snippet": "Moderna collaborates with a network of authorized distributors dedicated to ensuring the distribution of our products. These distributors are carefull"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.modernatx.com/about-us/our-story",
+      "url": "https://www.modernatx.com/supplier/moderna-supplier-page",
       "query": "Moderna, Inc. suppliers manufacturers",
-      "snippet": "Moderna building with large moderna logo. Scientist looking through microscope. We’re making biotech history.Lease signed to build 200,000-square-foot"
+      "snippet": "Welcome to the Moderna supplier page This page is dedicated to serving Moderna 's valued suppliers with essential information on Ariba, supplier onboa"
     },
     {
       "source": "DuckDuckGo",
@@ -61,7 +61,7 @@
       "source": "DuckDuckGo",
       "url": "https://pitchgrade.com/companies/moderna",
       "query": "Moderna, Inc. major customers clients",
-      "snippet": "Dec 12, 2025 · Customer Segments: Moderna, Inc . serves multiple distinct customer segments, which may include consumers, small and medium businesses,"
+      "snippet": "Dec 12, 2025 · Customer Segments: Moderna , Inc . serves multiple distinct customer segments, which may include consumers, small and medium businesses"
     }
   ]
 }

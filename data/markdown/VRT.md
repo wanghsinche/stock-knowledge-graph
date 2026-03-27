@@ -3,8 +3,8 @@ ticker: VRT
 company: Vertiv Holdings Co
 sector: Industrials
 industry: Electrical Equipment & Parts
-extracted_at: 2026-03-26 17:00:35
-last_updated: 2026-03-26
+extracted_at: 2026-03-27 16:51:57
+last_updated: 2026-03-27
 ---
 
 # VRT - Vertiv Holdings Co
@@ -12,46 +12,46 @@ last_updated: 2026-03-26
 ## 基本信息
 
 - **所属行业**: Industrials / Electrical Equipment & Parts
-- **提取时间**: 2026-03-26 17:00:35
+- **提取时间**: 2026-03-27 16:51:57
 
 ## 产业链关系
 
 ### 上游供应商
-- [[ABB]]
-- [[Schneider Electric]]
-- [[Eaton]]
-- [[Rittal]]
-- [[Belden]]
+- [[Semiconductor manufacturers]]
+- [[Electronic component suppliers]]
+- [[Power component suppliers]]
+- [[Cooling fan manufacturers]]
+- [[Cable and wiring suppliers]]
 
 ### 下游客户
-- [[AMZN]]
-- [[GOOGL]]
-- [[MSFT]]
-- [[Equinix]]
-- [[Digital Realty]]
+- [[Data center operators]]
+- [[CAT]]
+- [[Cloud service providers]]
+- [[Enterprise IT departments]]
+- [[Government agencies]]
 
 ### 竞争对手
-- [[APC by Schneider Electric]]
+- [[Schneider Electric]]
 - [[Eaton]]
-- [[Rittal]]
 - [[ABB]]
-- [[CSCO]]
+- [[Rittal]]
+- [[APC by Schneider]]
 
 ### 核心产品
-- [[Power Distribution Units (PDUs)]]
-- [[Uninterruptible Power Supplies (UPS)]]
-- [[Data Center Cooling Solutions]]
-- [[Data Center Infrastructure Management (DCIM) Software]]
-- [[Rack-Mount Equipment]]
+- [[Power distribution units (PDUs)]]
+- [[Uninterruptible power supplies (UPS)]]
+- [[Cooling systems and air handlers]]
+- [[Data center infrastructure management (DCIM) software]]
+- [[Networking equipment]]
 
 ## 数据来源
 
 - [Vertiv](https://en.wikipedia.org/wiki/Vertiv_Holdings_Co)
-- [Vertiv Holdings Co suppliers manufacturers](https://en.wikipedia.org/wiki/Vertiv)
-- [Vertiv Holdings Co suppliers manufacturers](https://partners.vertiv.com/English/directory)
-- [Vertiv Holdings Co major customers clients](https://en.wikipedia.org/wiki/Vertiv)
-- [Vertiv Holdings Co major customers clients](https://www.appsruntheworld.com/customers-database/vendors/view/vertiv)
+- [Vertiv Holdings Co suppliers manufacturers](https://finance.yahoo.com/quote/VRT/)
+- [Vertiv Holdings Co suppliers manufacturers](https://simplywall.st/stocks/us/capital-goods/nyse-vrt/vertiv-holdings-co)
+- [Vertiv Holdings Co major customers clients](https://www.aol.com/articles/heres-why-vertiv-holdings-still-165000229.html)
+- [Vertiv Holdings Co major customers clients](https://ca.finance.yahoo.com/quote/VRT/)
 
 ## 元数据
 
-- **更新日期**: 2026-03-26
+- **更新日期**: 2026-03-27

@@ -3,8 +3,8 @@ ticker: NOW
 company: ServiceNow, Inc.
 sector: Technology
 industry: Software - Application
-extracted_at: 2026-03-25 17:03:42
-last_updated: 2026-03-25
+extracted_at: 2026-03-27 16:48:40
+last_updated: 2026-03-27
 ---
 
 # NOW - ServiceNow, Inc.
@@ -12,7 +12,7 @@ last_updated: 2026-03-25
 ## 基本信息
 
 - **所属行业**: Technology / Software - Application
-- **提取时间**: 2026-03-25 17:03:42
+- **提取时间**: 2026-03-27 16:48:40
 
 ## 产业链关系
 
@@ -20,25 +20,25 @@ last_updated: 2026-03-25
 - [[AMZN]]
 - [[MSFT]]
 - [[GOOGL]]
-- [[DELL]]
-- [[IBM]]
+- [[VMware]]
+- [[ORCL]]
 
 ### 下游客户
 - [[Walmart]]
 - [[JPMorgan Chase]]
 - [[AT&T]]
-- [[Bank of America]]
-- [[CSCO]]
+- [[Coca‑Cola]]
+- [[Boeing]]
 
 ### 竞争对手
-- [[CRM]]
+- [[Atlassian]]
 - [[MSFT]]
-- [[SAP SuccessFactors]]
 - [[IBM]]
-- [[ORCL]]
+- [[CRM]]
+- [[SAP]]
 
 ### 核心产品
-- [[Now Platform]]
+- [[ServiceNow Platform]]
 - [[IT Service Management (ITSM)]]
 - [[IT Operations Management (ITOM)]]
 - [[Customer Service Management (CSM)]]
@@ -47,11 +47,11 @@ last_updated: 2026-03-25
 ## 数据来源
 
 - [ServiceNow](https://en.wikipedia.org/wiki/ServiceNow,_Inc.)
-- [ServiceNow, Inc. suppliers manufacturers](https://www.servicenow.com/company/supplier.html)
-- [ServiceNow, Inc. suppliers manufacturers](https://csimarket.com/stocks/NOW-Suppliers)
-- [ServiceNow, Inc. major customers clients](https://www.servicenow.com/customers.html)
-- [ServiceNow, Inc. major customers clients](https://www.aventionmedia.com/technology-installed-base/servicenow/)
+- [ServiceNow, Inc. suppliers manufacturers](https://www.servicenow.com/)
+- [ServiceNow, Inc. suppliers manufacturers](https://ca.finance.yahoo.com/news/servicenow-now-sold-off-ai-153340307.html)
+- [ServiceNow, Inc. major customers clients](https://www.servicenow.com/)
+- [ServiceNow, Inc. major customers clients](https://www.insidermonkey.com/blog/servicenow-now-sold-off-on-ai-fears-but-long-term-competitive-edge-remains-intact-1723674/)
 
 ## 元数据
 
-- **更新日期**: 2026-03-25
+- **更新日期**: 2026-03-27

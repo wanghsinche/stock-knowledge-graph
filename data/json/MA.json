@@ -4,34 +4,34 @@
   "sector": "Financial Services",
   "industry": "Credit Services",
   "upstream": [
-    "NXP Semiconductors",
-    "005930.KS",
-    "Thales Group (Gemalto)",
-    "IBM",
-    "Visa (technology partner for interoperability)"
+    "Chip and card manufacturing suppliers (e.g., Gemalto, IDTech)",
+    "Payment network infrastructure providers",
+    "Software and cybersecurity vendors",
+    "Data center and cloud service providers",
+    "Electronic payment terminal manufacturers"
   ],
   "downstream": [
-    "JPMorgan Chase",
-    "Bank of America",
-    "Citibank",
-    "Wells Fargo",
-    "Capital One"
+    "Retail merchants worldwide",
+    "Banks and credit unions issuing Mastercard cards",
+    "Financial institutions using Mastercard’s payment processing",
+    "E‑commerce platforms and online merchants",
+    "Mobile wallet and fintech partners"
   ],
   "competitors": [
-    "Visa",
+    "Visa Inc.",
     "American Express",
-    "Discover",
-    "JCB",
+    "Discover Financial Services",
+    "JCB Co., Ltd.",
     "UnionPay"
   ],
   "key_products": [
-    "Payment processing network",
-    "Credit card processing services",
-    "Debit card processing services",
-    "Prepaid card processing services",
-    "Payment gateway and tokenization solutions"
+    "Payment transaction processing network",
+    "Credit, debit, and prepaid card issuance services",
+    "Digital payment solutions (e.g., Mastercard PayPass, Mastercard Digital Enablement)",
+    "Fraud detection and risk management services",
+    "Data analytics and insights for merchants"
   ],
-  "extracted_at": "2026-02-26 16:53:25",
+  "extracted_at": "2026-03-27 16:53:41",
   "sources": [
     {
       "source": "Wikipedia",
@@ -55,13 +55,13 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Mastercard",
       "query": "Mastercard Incorporated major customers clients",
-      "snippet": "Throughout the world, its principal business is to process payments between the banks of merchants and the card-issuing banks or credit unions of the "
+      "snippet": "Mastercard Inc . is an American multinational payment card services corporation headquartered in Purchase, New York. It offers a range of payment tran"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.msn.com/en-us/money/economy/mastercard-incorporated-ma-revenue-beats-forecasts-as-customers-continue-to-spend/ar-AA1Wdp61",
+      "url": "https://ru.wikipedia.org/wiki/Mastercard",
       "query": "Mastercard Incorporated major customers clients",
-      "snippet": "4 days ago · Mastercard Incorporated (NYSE:MA) is a technology business that provides payment solutions for the development and operation of credit, d"
+      "snippet": "Mastercard Inc . (ранее MasterCard Worldwide или MasterCard Incorporated ) — международная платёжная система, транснациональная финансовая корпорация,"
     }
   ]
 }
