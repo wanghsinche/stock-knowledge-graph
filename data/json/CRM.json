@@ -4,23 +4,23 @@
   "sector": "Technology",
   "industry": "Software - Application",
   "upstream": [
-    "AMZN",
-    "MSFT",
-    "GOOGL",
+    "Demandware Inc.",
+    "ADBE",
     "ORCL",
-    "IBM"
+    "MSFT",
+    "AMZN"
   ],
   "downstream": [
-    "AMZN",
-    "GOOGL",
-    "MSFT",
-    "AAPL",
-    "IBM"
+    "Walmart",
+    "Coca‑Cola",
+    "Unilever",
+    "American Express",
+    "Nike"
   ],
   "competitors": [
     "MSFT",
+    "SAP Customer Experience",
     "ORCL",
-    "SAP SuccessFactors",
     "ADBE",
     "HubSpot"
   ],
@@ -29,9 +29,11 @@
     "Service Cloud",
     "Marketing Cloud",
     "Commerce Cloud",
-    "Einstein AI"
+    "Einstein AI",
+    "MuleSoft",
+    "Tableau"
   ],
-  "extracted_at": "2026-03-27 16:50:35",
+  "extracted_at": "2026-03-30 16:51:53",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +43,27 @@
     },
     {
       "source": "DuckDuckGo",
+      "url": "https://www.salesforce.com/",
+      "query": "Salesforce, Inc. suppliers manufacturers",
+      "snippet": "Demandware Inc ."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/CRM-Suppliers",
+      "query": "Salesforce, Inc. suppliers manufacturers",
+      "snippet": "Salesforce Inc supply chain, list and performance of Salesforce Incs ' suppliers - CSIMarket."
+    },
+    {
+      "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Salesforce",
-      "query": "Salesforce, Inc. suppliers manufacturers",
-      "snippet": "Salesforce , Inc ., is an American cloud -based software company headquartered in San Francisco, California . It provides applications focused on sale"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.salesforce.com/company/locations/",
-      "query": "Salesforce, Inc. suppliers manufacturers",
-      "snippet": "Salesforce has a worldwide presence. Browse our locations across the globe and see how we're changing AI and CRM in your country."
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.salesforce.com/customer-stories/",
       "query": "Salesforce, Inc. major customers clients",
-      "snippet": "Discover how Salesforce helps 150,000+ companies increase productivity, customer loyalty, and sales revenue — every day."
+      "snippet": "Salesforce , Inc ., is an American cloud-based software company headquartered in San Francisco, California. It provides applications focused on sales "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.ibirdsservices.com/how-many-companies-use-salesforce-stats-growth-report/",
+      "url": "https://login.salesforce.com/",
       "query": "Salesforce, Inc. major customers clients",
-      "snippet": "Dec 26, 2025 · As of 2025, Salesforce is used by over 150,000 companies worldwide. Its customers include startups, mid-sized businesses, and more than"
+      "snippet": "Salesforce Salesforce . 0 Saved Usernames Edit List.Not a customer ? Try for Free. Log In with a Different Username."
     }
   ]
 }

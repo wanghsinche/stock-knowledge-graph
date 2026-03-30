@@ -4,11 +4,11 @@
   "sector": "Technology",
   "industry": "Semiconductor Equipment & Materials",
   "upstream": [
+    "Silicon wafer suppliers (e.g., Shin-Etsu Chemical, Sumitomo Chemical)",
+    "Industrial gases (e.g., Air Liquide, Linde)",
+    "Chemical suppliers (e.g., BASF, Dow Chemical)",
     "AMAT",
-    "Tokyo Electron",
-    "ASML",
-    "KLA-Tencor",
-    "Lam's component suppliers"
+    "Cleanroom and facility equipment vendors (e.g., Camfil, 3M)"
   ],
   "downstream": [
     "TSM",
@@ -21,17 +21,17 @@
     "AMAT",
     "Tokyo Electron",
     "ASML",
-    "KLA-Tencor",
-    "ASM Pacific Technology"
+    "KLA Corporation",
+    "Veeco Instruments"
   ],
   "key_products": [
     "Plasma etch systems",
-    "Deposition equipment",
-    "CMP systems",
-    "Back-end wafer-level packaging (WLP) equipment",
-    "MEMS packaging equipment"
+    "Plasma deposition systems",
+    "Wafer cleaning equipment",
+    "Wafer-level packaging (WLP) tools",
+    "Back-end processing equipment"
   ],
-  "extracted_at": "2026-03-27 16:53:24",
+  "extracted_at": "2026-03-30 16:51:23",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,7 +43,7 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Lam_Research",
       "query": "Lam Research Corporation suppliers manufacturers",
-      "snippet": "Lam Research Corporation is an American supplier of wafer-fabrication equipment and related services to the semiconductor industry . [2] Its products "
+      "snippet": "Lam Research Corporation is an American supplier of wafer-fabrication equipment and related services to the semiconductor industry. [2] Its products a"
     },
     {
       "source": "DuckDuckGo",
@@ -53,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/lam-research-corporation-lrcx-positioned-115400829.html",
+      "url": "https://csimarket.com/stocks/LRCX-Customers",
       "query": "Lam Research Corporation major customers clients",
-      "snippet": "Lam Research Corporation (NASDAQ:LRCX) is a semiconductor equipment manufacturer that provides wafer fabrication equipment and services used in chip p"
+      "snippet": "2 days ago · Our customers include all of the world’s leading semiconductor manufacturers. Customers continue to establish joint ventures, alliances a"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.zacks.com/stock/news/2886456/can-lam-researchs-systems-business-sustain-growth-amid-ai-capex-boom",
+      "url": "https://pitchgrade.com/companies/lam-research",
       "query": "Lam Research Corporation major customers clients",
-      "snippet": "Today's Research Daily features new research reports on 16 major stocks, including Amazon.com, Inc. (AMZN), The TJX Companies, Inc. (TJX) and Eaton Co"
+      "snippet": "Oct 19, 2025 · Customer Segments: Lam Research Corporation serves multiple distinct customer segments, which may include consumers, small and medium b"
     }
   ]
 }

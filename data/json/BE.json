@@ -4,34 +4,34 @@
   "sector": "Industrials",
   "industry": "Electrical Equipment & Parts",
   "upstream": [
-    "Taiwanese component suppliers",
-    "Component manufacturers",
-    "Electrolyzer parts suppliers",
-    "Fuel cell stack suppliers",
-    "Materials suppliers"
+    "Natural gas suppliers (e.g., Exxon, Chevron)",
+    "Hydrogen suppliers (e.g., Air Liquide, Linde)",
+    "Electrolyzer component suppliers (e.g., Siemens, GE)",
+    "Fuel cell stack suppliers (e.g., Ballard Power Systems)",
+    "Materials suppliers (e.g., 3M, DuPont)"
   ],
   "downstream": [
-    "Data centers",
-    "Manufacturing facilities",
-    "Commercial buildings",
-    "Utilities",
-    "Enterprise customers"
+    "GOOGL",
+    "AMZN",
+    "MSFT",
+    "Facebook",
+    "NFLX"
   ],
   "competitors": [
-    "Plug Power",
+    "Ballard Power Systems",
     "FuelCell Energy",
-    "H2GO Power",
-    "Nexamp",
-    "PowerCell"
+    "Plug Power",
+    "PowerCell International",
+    "Bloom Energy Power Systems"
   ],
   "key_products": [
     "Solid Oxide Fuel Cells (SOFCs)",
     "Electrolyzers for hydrogen production",
-    "On-site power generation systems",
-    "Fuel cell stacks",
-    "Power modules"
+    "Bloom Energy Server",
+    "Bloom Energy Power Pack",
+    "Bloom Energy Fuel Cell Stack"
   ],
-  "extracted_at": "2026-03-26 17:02:14",
+  "extracted_at": "2026-03-30 16:51:34",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://english.cw.com.tw/article/article.action?id=3781",
-      "query": "Bloom Energy Corporation suppliers manufacturers",
-      "snippet": "\"Taiwanese suppliers account for 30 percent of the components,\" Chu Chiu-Lung detailed, listing Bloom ’s supply chain partners in Taiwan, which includ"
-    },
-    {
-      "source": "DuckDuckGo",
       "url": "https://www.linkedin.com/company/bloom-energy",
       "query": "Bloom Energy Corporation suppliers manufacturers",
       "snippet": "Bloom Energy empowers businesses and communities to responsibly take charge of their energy . The company’s leading solid-oxide platform for distribut"
     },
     {
       "source": "DuckDuckGo",
+      "url": "https://www.bloomenergy.com/blog/time-to-power-the-new-competitive-advantage-for-manufacturers/",
+      "query": "Bloom Energy Corporation suppliers manufacturers",
+      "snippet": "Bloom Energy ’s 2026 Data Center Power Report reveals that by 2030, one out of five data centers will exceed 1GW of power consumption, and by 2035, it"
+    },
+    {
+      "source": "DuckDuckGo",
       "url": "https://www.bloomenergy.com/customers/",
       "query": "Bloom Energy Corporation major customers clients",
-      "snippet": "Bloom Energy 's customers have important goals: clean energy , dependency, resiliency, reliability, and affordability. We're here to help reach those "
+      "snippet": "Bloom Energy ' s customers have important goals: clean energy, dependency, resiliency, reliability, and affordability. We're here to help reach those "
     },
     {
       "source": "DuckDuckGo",
       "url": "https://csimarket.com/stocks/BE-Customers",
       "query": "Bloom Energy Corporation major customers clients",
-      "snippet": "Mar 18, 2026 · Bloom Energy customers and markets, results by customer and performance relative to BE, by company and industry - CSIMarket"
+      "snippet": "3 days ago · For your research, we’ve provided 9 tables on Bloom Energy Corporation corporate clients . You can find them in the navigation menu under"
     }
   ]
 }

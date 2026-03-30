@@ -3,8 +3,8 @@ ticker: TSLA
 company: Tesla, Inc.
 sector: Consumer Cyclical
 industry: Auto Manufacturers
-extracted_at: 2026-03-27 16:42:46
-last_updated: 2026-03-27
+extracted_at: 2026-03-30 16:46:23
+last_updated: 2026-03-30
 ---
 
 # TSLA - Tesla, Inc.
@@ -12,30 +12,30 @@ last_updated: 2026-03-27
 ## 基本信息
 
 - **所属行业**: Consumer Cyclical / Auto Manufacturers
-- **提取时间**: 2026-03-27 16:42:46
+- **提取时间**: 2026-03-30 16:46:23
 
 ## 产业链关系
 
 ### 上游供应商
+- [[Panasonic]]
+- [[LG Chem]]
 - [[CAT]]
-- [[Electric motor suppliers]]
-- [[Autopilot software providers]]
-- [[Raw material suppliers (lithium, cobalt, nickel)]]
-- [[Component suppliers (sensors, cameras, infotainment)]]
+- [[Albemarle (lithium)]]
+- [[Glencore (cobalt)]]
 
 ### 下游客户
-- [[Individual consumers (private vehicle owners)]]
+- [[Individual consumers]]
 - [[Commercial fleet operators]]
-- [[Utilities and energy companies (solar & storage)]]
-- [[Automotive dealers and service centers]]
-- [[Government agencies and public transport]]
+- [[Utility companies (energy storage)]]
+- [[Government agencies]]
+- [[Corporate leasing customers]]
 
 ### 竞争对手
-- [[Ford Motor Company]]
 - [[General Motors]]
-- [[Rivian Automotive]]
-- [[Lucid Motors]]
-- [[BYD Auto]]
+- [[Ford]]
+- [[Volkswagen]]
+- [[Hyundai]]
+- [[Nissan]]
 
 ### 核心产品
 - [[Model S]]
@@ -43,20 +43,20 @@ last_updated: 2026-03-27
 - [[Model X]]
 - [[Model Y]]
 - [[Cybertruck]]
-- [[Tesla Semi]]
+- [[Semi]]
 - [[Powerwall]]
 - [[Powerpack]]
 - [[Solar Roof]]
-- [[Solar panels]]
+- [[Solar Panels]]
 
 ## 数据来源
 
 - [Tesla, Inc.](https://en.wikipedia.org/wiki/Tesla,_Inc.)
-- [Tesla, Inc. suppliers manufacturers](https://www.investopedia.com/ask/answers/052815/who-are-teslas-tsla-main-suppliers.asp)
-- [Tesla, Inc. suppliers manufacturers](https://investguiding.com/article/who-are-tesla-s-main-suppliers)
+- [Tesla, Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/Tesla,_Inc.)
+- [Tesla, Inc. suppliers manufacturers](https://www.tesla.com/)
 - [Tesla, Inc. major customers clients](https://en.wikipedia.org/wiki/Tesla,_Inc.)
-- [Tesla, Inc. major customers clients](https://www.tesla.com/customer-stories)
+- [Tesla, Inc. major customers clients](https://www.tesla.com/)
 
 ## 元数据
 
-- **更新日期**: 2026-03-27
+- **更新日期**: 2026-03-30

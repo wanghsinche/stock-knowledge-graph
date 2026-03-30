@@ -1,37 +1,37 @@
 {
   "ticker": "AVGO",
   "company_name": "Broadcom Inc.",
-  "sector": "Technology / Semiconductors",
+  "sector": "Technology",
   "industry": "Semiconductors",
   "upstream": [
     "TSM",
-    "005930.KS",
     "GlobalFoundries",
-    "UMC",
-    "ASML"
+    "INTC",
+    "005930.KS",
+    "MU"
   ],
   "downstream": [
-    "VMware",
+    "AMZN",
+    "MSFT",
+    "GOOGL",
     "CSCO",
-    "DELL",
-    "HPQ",
-    "AMZN"
+    "Huawei"
   ],
   "competitors": [
-    "QCOM",
     "INTC",
-    "MRVL",
-    "MediaTek",
-    "TXN"
+    "QCOM",
+    "NVDA",
+    "AMD",
+    "MRVL"
   ],
   "key_products": [
-    "Broadcom BCM 5700 Ethernet controllers",
-    "Broadcom BCM 4700 Wi‑Fi/Bluetooth chips",
-    "Broadcom BCM 4702 broadband modems",
-    "Broadcom BCM 5700 storage controllers",
-    "Broadcom StrataXGS network processors"
+    "Broadcom Wi‑Fi chips",
+    "Broadcom Ethernet controllers",
+    "Broadcom broadband modems",
+    "Broadcom storage controllers",
+    "Broadcom infrastructure software"
   ],
-  "extracted_at": "2026-03-27 16:44:45",
+  "extracted_at": "2026-03-30 16:47:41",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,9 +47,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.broadcom.com/how-to-buy/partner-distributor-lookup",
+      "url": "https://csimarket.com/stocks/AVGO-Suppliers",
       "query": "Broadcom Inc. suppliers manufacturers",
-      "snippet": "Find a local reseller or global distributor of every Broadcom software solution for your business or enterprise, spanning the desktop to the Mainframe"
+      "snippet": "Broadcom Inc supply chain, list and performance of Broadcom Incs ' suppliers - CSIMarket."
     },
     {
       "source": "DuckDuckGo",
@@ -59,9 +59,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://investors.broadcom.com/",
+      "url": "https://csimarket.com/stocks/AVGO-Customers",
       "query": "Broadcom Inc. major customers clients",
-      "snippet": "VMware Tanzu® Supercharges Portfolio to Help Customers Build, Run, and..."
+      "snippet": "2 days ago · Sales to our five largest customers represented 48.3%. Sales to Samsung represented 21.3%. Sales to Apple represented 13.3%."
     }
   ]
 }

@@ -7,22 +7,22 @@
     "AMZN",
     "MSFT",
     "GOOGL",
-    "VMware",
-    "ORCL"
+    "DELL",
+    "CSCO"
   ],
   "downstream": [
     "Walmart",
     "JPMorgan Chase",
     "AT&T",
-    "Coca‑Cola",
-    "Boeing"
+    "Coca-Cola",
+    "Bank of America"
   ],
   "competitors": [
-    "Atlassian",
-    "MSFT",
-    "IBM",
     "CRM",
-    "SAP"
+    "SAP",
+    "ORCL",
+    "MSFT",
+    "IBM"
   ],
   "key_products": [
     "ServiceNow Platform",
@@ -31,7 +31,7 @@
     "Customer Service Management (CSM)",
     "HR Service Delivery"
   ],
-  "extracted_at": "2026-03-27 16:48:40",
+  "extracted_at": "2026-03-30 16:54:34",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,9 +47,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ca.finance.yahoo.com/news/servicenow-now-sold-off-ai-153340307.html",
+      "url": "https://www.alibaba.com/",
       "query": "ServiceNow, Inc. suppliers manufacturers",
-      "snippet": "ServiceNow , Inc . (NYSE: NOW ) provides cloud-based software that helps enterprises automate IT services , workflows, and digital operations across o"
+      "snippet": "Find quality Manufacturers , Suppliers , Exporters, Importers, Buyers, Wholesalers, Products and Trade Leads from our award-winning International Trad"
     },
     {
       "source": "DuckDuckGo",
@@ -59,9 +59,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.insidermonkey.com/blog/servicenow-now-sold-off-on-ai-fears-but-long-term-competitive-edge-remains-intact-1723674/",
+      "url": "https://ca.finance.yahoo.com/news/servicenow-now-sold-off-ai-153340307.html",
       "query": "ServiceNow, Inc. major customers clients",
-      "snippet": "“Enterprise software leaders like ServiceNow , Inc . (NYSE: NOW ) has been sold off as part of a broad-brushed negative narrative on software disrupti"
+      "snippet": "ServiceNow , Inc . (NYSE: NOW ) provides cloud-based software that helps enterprises automate IT services , workflows, and digital operations across o"
     }
   ]
 }

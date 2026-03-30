@@ -2,36 +2,36 @@
   "ticker": "GLW",
   "company_name": "Corning Incorporated",
   "sector": "Technology",
-  "industry": "Electronic Components",
+  "industry": "Optical Communications",
   "upstream": [
-    "BASF",
-    "Dow Chemical",
-    "Wacker Chemie",
-    "Koch Industries",
-    "Linde"
+    "Silica sand suppliers",
+    "Chemical feedstock suppliers",
+    "Glass raw material suppliers",
+    "Ceramic raw material suppliers",
+    "Optical fiber component suppliers"
   ],
   "downstream": [
-    "Life science companies",
-    "Semiconductor manufacturers",
-    "Optical device manufacturers",
     "CAT",
-    "Automotive OEMs"
+    "Display manufacturers",
+    "Medical imaging equipment manufacturers",
+    "Aerospace and defense contractors",
+    "Automotive electronics manufacturers"
   ],
   "competitors": [
-    "Schott AG",
-    "Edmund Optics",
-    "Thorlabs",
     "Lumentum",
-    "Nexteer"
+    "II-VI Incorporated",
+    "Coherent",
+    "Infinera",
+    "Ciena"
   ],
   "key_products": [
-    "Optical fibers",
-    "Glass fiber optics",
-    "Optical lenses",
+    "Optical fiber",
+    "Optical connectors",
+    "Optical amplifiers",
     "Glass substrates",
     "Ceramic components"
   ],
-  "extracted_at": "2026-03-26 16:59:53",
+  "extracted_at": "2026-03-30 16:50:34",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Corning_Inc.",
+      "url": "https://www.corning.com/worldwide/en/products/life-sciences/config/Distributors.html",
       "query": "Corning Incorporated suppliers manufacturers",
-      "snippet": "Corning Incorporated is an American multinational technology company specializing in glass, ceramics, and related materials and technologies including"
+      "snippet": "Find an authorized Corning Life Sciences distributor with our worldwide list."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.corning.com/worldwide/en.html",
+      "url": "https://www.mouser.com/manufacturer/corning/",
       "query": "Corning Incorporated suppliers manufacturers",
-      "snippet": "Corning Incorporated is a global-leading innovator in materials science, with 170 years of life-changing inventions and category-defining products. Co"
+      "snippet": "Today, Corning ' s markets include optical communications, mobile consumer electronics, display technology, automotive, and life sciences vessels."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/Corning_Inc.",
+      "query": "Corning Incorporated major customers clients",
+      "snippet": "As of 2014, Corning had five major business sectors: display technologies, environmental technologies, life sciences, optical communications, and spec"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://csimarket.com/stocks/GLW-Customers",
       "query": "Corning Incorporated major customers clients",
-      "snippet": "3 days ago · For your research, we’ve provided 9 tables on Corning Inc corporate clients . You can find them in the navigation menu under Customers & "
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.corning.com/worldwide/en/about-us/corning-business-segments.html",
-      "query": "Corning Incorporated major customers clients",
-      "snippet": "Corning sells life sciences products under these primary brands: Corning® , Falcon®, PYREX®, Axygen®. The products are marketed globally, primarily th"
+      "snippet": "Mar 23, 2026 · For your research, we’ve provided 9 tables on Corning Inc corporate clients . You can find them in the navigation menu under Customers "
     }
   ]
 }

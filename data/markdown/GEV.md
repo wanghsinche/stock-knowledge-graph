@@ -1,57 +1,57 @@
 ---
 ticker: GEV
 company: GE Vernova Inc.
-sector: Industrials / Specialty Industrial Machinery
-industry: Energy Equipment Manufacturing & Services
-extracted_at: 2026-03-27 16:47:48
-last_updated: 2026-03-27
+sector: Industrials
+industry: Energy Equipment Manufacturing
+extracted_at: 2026-03-30 16:49:15
+last_updated: 2026-03-30
 ---
 
 # GEV - GE Vernova Inc.
 
 ## 基本信息
 
-- **所属行业**: Industrials / Specialty Industrial Machinery / Energy Equipment Manufacturing & Services
-- **提取时间**: 2026-03-27 16:47:48
+- **所属行业**: Industrials / Energy Equipment Manufacturing
+- **提取时间**: 2026-03-30 16:49:15
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Turbine blade manufacturers]]
-- [[Compressor component suppliers]]
-- [[CAT]]
-- [[Electrical component suppliers]]
-- [[Steel & composite material producers]]
+- [[GE Power]]
+- [[GE Energy]]
+- [[Siemens Energy]]
+- [[ABB]]
+- [[Schneider Electric]]
 
 ### 下游客户
-- [[Oil & gas operators]]
-- [[Power generation utilities]]
-- [[Petrochemical plants]]
-- [[LNG facility operators]]
-- [[Renewable energy developers]]
+- [[Utilities]]
+- [[Oil & Gas Companies]]
+- [[Power Plant Operators]]
+- [[Renewable Energy Projects]]
+- [[Industrial Facilities]]
 
 ### 竞争对手
 - [[Siemens Energy]]
-- [[Mitsubishi Hitachi Power Systems]]
 - [[ABB]]
 - [[Schneider Electric]]
-- [[GE Renewable Energy]]
+- [[Emerson Electric]]
+- [[General Electric (other divisions)]]
 
 ### 核心产品
 - [[Gas turbines]]
 - [[Steam turbines]]
-- [[Compressor systems]]
-- [[Heat exchangers]]
 - [[Power generation equipment]]
+- [[Renewable energy solutions]]
+- [[Industrial automation systems]]
 
 ## 数据来源
 
 - 
-- [GE Vernova Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/GE_Vernova)
-- [GE Vernova Inc. suppliers manufacturers](https://www.gevernova.com/)
+- [GE Vernova Inc. suppliers manufacturers](https://www.gevernova.com/grid-solutions/suppliers)
+- [GE Vernova Inc. suppliers manufacturers](https://www.volza.com/p/ge-vernova/manufacturers/)
 - [GE Vernova Inc. major customers clients](https://en.wikipedia.org/wiki/GE_Vernova)
 - [GE Vernova Inc. major customers clients](https://www.gevernova.com/)
 
 ## 元数据
 
-- **更新日期**: 2026-03-27
+- **更新日期**: 2026-03-30

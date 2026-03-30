@@ -3,8 +3,8 @@ ticker: OXY
 company: Occidental Petroleum Corporation
 sector: Energy
 industry: Oil & Gas E&P
-extracted_at: 2026-03-23 16:53:20
-last_updated: 2026-03-23
+extracted_at: 2026-03-30 16:54:54
+last_updated: 2026-03-30
 ---
 
 # OXY - Occidental Petroleum Corporation
@@ -12,29 +12,29 @@ last_updated: 2026-03-23
 ## 基本信息
 
 - **所属行业**: Energy / Oil & Gas E&P
-- **提取时间**: 2026-03-23 16:53:20
+- **提取时间**: 2026-03-30 16:54:54
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Crude oil producers]]
+- [[Crude oil suppliers]]
 - [[Natural gas producers]]
-- [[Drilling equipment manufacturers]]
-- [[Service companies (well drilling, completion)]]
-- [[Technology providers (exploration software, seismic imaging)]]
+- [[Petrochemical raw material suppliers]]
+- [[Exploration equipment manufacturers]]
+- [[Drilling rig operators]]
 
 ### 下游客户
-- [[Gasoline retailers and distributors]]
-- [[Airlines and aviation fuel suppliers]]
-- [[Petrochemical plants (ethylene, propylene)]]
-- [[Industrial fuel users (steel, chemical manufacturing)]]
-- [[Shipping and maritime fuel suppliers]]
+- [[Gasoline retailers]]
+- [[Diesel distributors]]
+- [[Kerosene suppliers to airlines]]
+- [[Petrochemical plants]]
+- [[Industrial fuel customers]]
 
 ### 竞争对手
-- [[Exxon Mobil]]
+- [[ExxonMobil]]
 - [[Chevron]]
 - [[ConocoPhillips]]
-- [[Royal Dutch Shell]]
+- [[Shell]]
 - [[BP]]
 
 ### 核心产品
@@ -42,7 +42,8 @@ last_updated: 2026-03-23
 - [[Natural gas]]
 - [[Gasoline]]
 - [[Diesel]]
-- [[Petrochemicals (ethylene, propylene, aromatics)]]
+- [[Kerosene]]
+- [[Petrochemical feedstocks (ethylene, propylene)]]
 
 ## 数据来源
 
@@ -50,8 +51,8 @@ last_updated: 2026-03-23
 - [Occidental Petroleum Corporation suppliers manufacturers](https://en.wikipedia.org/wiki/Petroleum)
 - [Occidental Petroleum Corporation suppliers manufacturers](https://finance.yahoo.com/quote/OXY/)
 - [Occidental Petroleum Corporation major customers clients](https://en.wikipedia.org/wiki/Occidental_Petroleum)
-- [Occidental Petroleum Corporation major customers clients](https://canvasbusinessmodel.com/blogs/target-market/occidental-petroleum-target-market)
+- [Occidental Petroleum Corporation major customers clients](https://csimarket.com/stocks/OXY-Customers)
 
 ## 元数据
 
-- **更新日期**: 2026-03-23
+- **更新日期**: 2026-03-30

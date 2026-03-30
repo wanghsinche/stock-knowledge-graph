@@ -3,8 +3,8 @@ ticker: NOW
 company: ServiceNow, Inc.
 sector: Technology
 industry: Software - Application
-extracted_at: 2026-03-27 16:48:40
-last_updated: 2026-03-27
+extracted_at: 2026-03-30 16:54:34
+last_updated: 2026-03-30
 ---
 
 # NOW - ServiceNow, Inc.
@@ -12,7 +12,7 @@ last_updated: 2026-03-27
 ## 基本信息
 
 - **所属行业**: Technology / Software - Application
-- **提取时间**: 2026-03-27 16:48:40
+- **提取时间**: 2026-03-30 16:54:34
 
 ## 产业链关系
 
@@ -20,22 +20,22 @@ last_updated: 2026-03-27
 - [[AMZN]]
 - [[MSFT]]
 - [[GOOGL]]
-- [[VMware]]
-- [[ORCL]]
+- [[DELL]]
+- [[CSCO]]
 
 ### 下游客户
 - [[Walmart]]
 - [[JPMorgan Chase]]
 - [[AT&T]]
-- [[Coca‑Cola]]
-- [[Boeing]]
+- [[Coca-Cola]]
+- [[Bank of America]]
 
 ### 竞争对手
-- [[Atlassian]]
-- [[MSFT]]
-- [[IBM]]
 - [[CRM]]
 - [[SAP]]
+- [[ORCL]]
+- [[MSFT]]
+- [[IBM]]
 
 ### 核心产品
 - [[ServiceNow Platform]]
@@ -48,10 +48,10 @@ last_updated: 2026-03-27
 
 - [ServiceNow](https://en.wikipedia.org/wiki/ServiceNow,_Inc.)
 - [ServiceNow, Inc. suppliers manufacturers](https://www.servicenow.com/)
-- [ServiceNow, Inc. suppliers manufacturers](https://ca.finance.yahoo.com/news/servicenow-now-sold-off-ai-153340307.html)
+- [ServiceNow, Inc. suppliers manufacturers](https://www.alibaba.com/)
 - [ServiceNow, Inc. major customers clients](https://www.servicenow.com/)
-- [ServiceNow, Inc. major customers clients](https://www.insidermonkey.com/blog/servicenow-now-sold-off-on-ai-fears-but-long-term-competitive-edge-remains-intact-1723674/)
+- [ServiceNow, Inc. major customers clients](https://ca.finance.yahoo.com/news/servicenow-now-sold-off-ai-153340307.html)
 
 ## 元数据
 
-- **更新日期**: 2026-03-27
+- **更新日期**: 2026-03-30

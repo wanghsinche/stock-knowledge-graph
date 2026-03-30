@@ -4,32 +4,34 @@
   "sector": "Consumer Defensive",
   "industry": "Discount Stores",
   "upstream": [
-    "Major food suppliers (beef, poultry, organic produce, wine)",
-    "005930.KS",
-    "Household goods manufacturers (e.g., IKEA, Whirlpool, Home Depot brands)"
+    "Tyson Foods",
+    "JBS",
+    "Cargill",
+    "Local organic farms",
+    "Major wine producers"
   ],
   "downstream": [
-    "Individual consumers (members)",
+    "U.S. consumers",
+    "Corporate members",
     "Small businesses",
-    "Restaurants & hotels",
-    "Healthcare facilities & schools",
-    "Government agencies"
+    "Food service industry",
+    "International members"
   ],
   "competitors": [
-    "Walmart Inc.",
-    "Sam's Club (Walmart)",
+    "Walmart",
+    "Target",
+    "Sam's Club",
     "BJ's Wholesale Club",
-    "Target Corporation",
-    "AMZN"
+    "Dollar General"
   ],
   "key_products": [
-    "Food & beverage (beef, poultry, organic produce, wine)",
-    "Electronics & appliances",
-    "Household goods & furniture",
-    "Apparel & footwear",
-    "Health & beauty products"
+    "Bulk groceries",
+    "Fresh produce",
+    "Meat & poultry",
+    "Household goods",
+    "Electronics"
   ],
-  "extracted_at": "2026-03-20 16:42:04",
+  "extracted_at": "2026-03-30 16:55:04",
   "sources": [
     {
       "source": "Wikipedia",
@@ -45,21 +47,21 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ru.wikipedia.org/wiki/Costco",
+      "url": "https://www.costcobusinessdelivery.com/",
       "query": "Costco Wholesale Corporation suppliers manufacturers",
+      "snippet": "Costco Print & Copy Center - Welcome To Costco Wholesale ."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/Costco",
+      "query": "Costco Wholesale Corporation major customers clients",
+      "snippet": "Costco Wholesale Corporation . Logo since 1997. Costco warehouse interior in Brampton, Ontario in Canada in 2021. Costco is a membership-only warehous"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://ru.wikipedia.org/wiki/Costco",
+      "query": "Costco Wholesale Corporation major customers clients",
       "snippet": "Costco Wholesale Corporation — крупнейшая в мире сеть складов самообслуживания клубного типа. Пятое по величине продаж розничное торговое предприятие "
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/COST-Customers",
-      "query": "Costco Wholesale Corporation major customers clients",
-      "snippet": "3 days ago · Costco Wholesale customers and markets, results by customer and performance relative to COST, by company and industry - CSIMarket"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.marketingscoop.com/consumer/costco-target-market-demographics/",
-      "query": "Costco Wholesale Corporation major customers clients",
-      "snippet": "Apr 19, 2024 · But who exactly are these customers , and what makes them keep coming back to Costco? In this comprehensive article, we‘ll take a deep "
     }
   ]
 }

@@ -2,36 +2,36 @@
   "ticker": "UNH",
   "company_name": "UnitedHealth Group Incorporated",
   "sector": "Healthcare",
-  "industry": "Health Insurance / Health Care Services",
+  "industry": "Healthcare Plans",
   "upstream": [
     "Pharmaceutical manufacturers (e.g., Pfizer, Johnson & Johnson)",
-    "Medical device suppliers (e.g., Medtronic, Abbott)",
+    "Medical device manufacturers (e.g., Medtronic, Abbott)",
     "Health IT vendors (e.g., Cerner, Epic Systems)",
-    "Pharmacy benefit management providers (e.g., Express Scripts)",
-    "IBM"
+    "IBM",
+    "Pharmacy benefit management vendors"
   ],
   "downstream": [
-    "U.S. federal government (Medicare, Medicaid)",
     "GOOGL",
-    "State health plans",
-    "Hospital networks and health systems",
-    "Individual consumers purchasing health plans"
+    "Government programs (Medicare, Medicaid)",
+    "Individual consumers via UnitedHealthcare plans",
+    "Health care providers (hospitals, clinics)",
+    "Health plans for small businesses"
   ],
   "competitors": [
-    "Anthem, Inc.",
+    "Anthem",
     "Aetna (CVS Health)",
-    "Cigna Corporation",
-    "Humana Inc.",
-    "Kaiser Permanente"
+    "Cigna",
+    "Humana",
+    "Blue Cross Blue Shield"
   ],
   "key_products": [
-    "Health insurance plans (individual, group, Medicare Advantage, Medicaid)",
-    "Optum health services (clinical, pharmacy benefit management, health IT)",
-    "Health savings accounts (HSAs) and flexible spending accounts (FSAs)",
-    "Data analytics and population health management solutions",
-    "Telehealth and virtual care platforms"
+    "UnitedHealthcare individual and group insurance plans",
+    "Medicare Advantage plans",
+    "Medicaid plans",
+    "OptumHealth services",
+    "OptumRx pharmacy benefit management"
   ],
-  "extracted_at": "2026-03-27 16:48:18",
+  "extracted_at": "2026-03-30 16:53:13",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.unitedhealthgroup.com/suppliers/information.html",
+      "url": "https://ca.finance.yahoo.com/news/jim-cramer-unitedhealthgroup-incorporation-unh-200611867.html",
       "query": "UnitedHealth Group Incorporated suppliers manufacturers",
-      "snippet": "Supplier Community Portal At UnitedHealth Group , we search for suppliers that help us deliver best-in-class services to our customers. These partners"
+      "snippet": "UnitedHealth Group Incorporated (NYSE:UNH). Number of Hedge Fund Holders: 114. Cramer talked about UnitedHealth Group Incorporated (NYSE:UNH) during M"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/UNH-Suppliers",
+      "url": "https://csimarket.com/stocks/UNH-technical-analysis",
       "query": "UnitedHealth Group Incorporated suppliers manufacturers",
-      "snippet": "Oct 29, 2025 · Unitedhealth Group Incorporated 's Suppliers recorded an increase in sales by 8.14 % year on year in Q3 2025, sequentially sales grew b"
+      "snippet": "Analyse Unitedhealth Group Incorporated 's stock charts with over 30 different indicators - CSIMarket."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://sg.finance.yahoo.com/news/unitedhealth-group-incorporated-unh-among-191245019.html",
+      "url": "https://www.alpha-sense.com/earnings/unh/",
       "query": "UnitedHealth Group Incorporated major customers clients",
-      "snippet": "UnitedHealth Group Incorporated (NYSE:UNH) is one of the largest healthcare coverage providers in America. Morningstar's data shows that the firm serv"
+      "snippet": "Unitedhealth Group Inc . unitedhealthgroup .com. UnitedHealth Group is one of the largest private health insurers and provides medical benefits to abo"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.tradingview.com/news/zacks:ddec218cf094b:0-here-s-why-you-should-hold-unitedhealth-group-unh-stock-now/",
+      "url": "https://finance.yahoo.com/news/jim-cramer-unitedhealthgroup-incorporation-unh-200611867.html",
       "query": "UnitedHealth Group Incorporated major customers clients",
-      "snippet": "UnitedHealth Group Incorporated UNH is aided by a well-performing government business, owing to increasing premiums and numerous contract wins. The pu"
+      "snippet": "UnitedHealth Group Incorporated (NYSE:UNH). Number of Hedge Fund Holders: 114.UNH is the only health insurer that regularly beats earnings. Nothing's "
     }
   ]
 }

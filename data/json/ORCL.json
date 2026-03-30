@@ -7,31 +7,31 @@
     "INTC",
     "AMD",
     "NVDA",
-    "CSCO",
-    "DELL"
+    "DELL",
+    "Hewlett‑Packard Enterprise"
   ],
   "downstream": [
     "JPMorgan Chase",
+    "Bank of America",
     "Walmart",
-    "Coca‑Cola",
     "AT&T",
-    "Bank of America"
+    "UnitedHealth Group"
   ],
   "competitors": [
     "MSFT",
-    "AMZN",
     "IBM",
     "SAP",
-    "GOOGL"
+    "CRM",
+    "AMZN"
   ],
   "key_products": [
     "Oracle Database",
     "Oracle Cloud Infrastructure",
     "Oracle ERP Cloud",
-    "Oracle E‑Business Suite",
-    "Oracle Fusion Applications"
+    "Oracle Autonomous Database",
+    "Oracle Analytics Cloud"
   ],
-  "extracted_at": "2026-03-27 16:46:23",
+  "extracted_at": "2026-03-30 16:49:43",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/List_of_acquisitions_by_Oracle",
+      "url": "https://www.oracle.com/corporate/suppliers/",
       "query": "Oracle Corporation suppliers manufacturers",
-      "snippet": "This is a listing of Oracle Corporation's corporate acquisitions, including acquisitions of both companies and individual products."
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.oracle.com/scm/manufacturing/",
-      "query": "Oracle Corporation suppliers manufacturers",
-      "snippet": "Oracle Fusion Cloud Manufacturing helps you streamline your global, mixed-mode manufacturing to maximize operational performance."
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.oracle.com/customers/",
-      "query": "Oracle Corporation major customers clients",
-      "snippet": "Oracle Customer Successes Innovation, ease of use, better results—those are just some of the reasons organizations in all industries and of all sizes "
+      "snippet": "Oracle is always looking for suppliers who can meet our high quality standards and satisfy our ever-evolving business needs. We believe in the importa"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.thomsondata.com/customer-base/oracle.php",
+      "query": "Oracle Corporation suppliers manufacturers",
+      "snippet": "Getting linked to Oracle customers is not simple in today’s large business landscape. Thomson Data makes it easy by offering an accurate and up-to-dat"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/Oracle_Corporation",
       "query": "Oracle Corporation major customers clients",
-      "snippet": "Companies That Use Oracle The Oracle Corporation is a US-based software company that offers various applications to improve organizational management."
+      "snippet": "Oracle Corporation is an American multinational technology company headquartered in Austin, Texas. Co-founded in Santa Clara, California by Bob Miner,"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://ru.wikipedia.org/wiki/Oracle",
+      "query": "Oracle Corporation major customers clients",
+      "snippet": "Oracle ( Oracle Corporation ) — американская корпорация, второй по размеру выручки разработчик программного обеспечения (после Microsoft), четвёртая к"
     }
   ]
 }

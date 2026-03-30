@@ -1,37 +1,37 @@
 {
   "ticker": "SNDK",
   "company_name": "Sandisk Corporation",
-  "sector": "Technology",
-  "industry": "Computer Hardware",
+  "sector": "Technology / Computer Hardware",
+  "industry": "Flash Memory / Storage Solutions",
   "upstream": [
-    "005930.KS",
-    "MU",
-    "SK Hynix (NAND flash memory)",
-    "Toshiba Memory (NAND flash memory)",
-    "Silicon Motion (controller chips)"
+    "NAND flash memory manufacturers",
+    "Controller IC suppliers",
+    "Packaging materials suppliers",
+    "Printed circuit board (PCB) manufacturers",
+    "Electronics component distributors"
   ],
   "downstream": [
-    "AAPL",
-    "005930.KS",
     "DELL",
-    "SONY",
-    "Toyota Motor Corporation (automotive storage)"
+    "AAPL",
+    "MSFT",
+    "MSFT",
+    "DELL"
   ],
   "competitors": [
     "005930.KS",
     "MU",
-    "SK Hynix",
+    "Kingston Technology",
     "WDC",
-    "Kingston Technology"
+    "Lexar"
   ],
   "key_products": [
-    "SD and microSD memory cards",
+    "SD memory cards",
+    "microSD cards",
     "USB flash drives",
-    "Solid‑state drives (internal SSDs)",
-    "External SSDs",
-    "Flash memory modules for OEMs"
+    "SATA SSDs",
+    "NVMe SSDs"
   ],
-  "extracted_at": "2026-03-27 16:43:21",
+  "extracted_at": "2026-03-30 16:46:34",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,21 +41,21 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/SanDisk",
-      "query": "Sandisk Corporation suppliers manufacturers",
-      "snippet": "Sandisk Corporation (formerly branded SanDisk ) is an American multinational computer technology company based in Milpitas, California , that designs "
-    },
-    {
-      "source": "DuckDuckGo",
       "url": "https://www.sandisk.com/company/distributors",
       "query": "Sandisk Corporation suppliers manufacturers",
       "snippet": "Find Sandisk Distributors & Resellers Purchase from your preferred Sandisk authorized partner."
     },
     {
       "source": "DuckDuckGo",
+      "url": "https://www.mouser.com/manufacturer/sandisk/",
+      "query": "Sandisk Corporation suppliers manufacturers",
+      "snippet": "SanDisk Corporation is a global leader in flash storage solutions, expanding the possibilities of storage and providing trusted and innovative product"
+    },
+    {
+      "source": "DuckDuckGo",
       "url": "https://data.landbase.com/technology/sandisk/",
       "query": "Sandisk Corporation major customers clients",
-      "snippet": "Aug 17, 2025 · We have data on 324 companies that use SanDisk. Our SanDisk customers list is available for download and comes enriched with vital comp"
+      "snippet": "Aug 17, 2025 · Our SanDisk customers list is available for download and comes enriched with vital company specifics, including industry classification"
     },
     {
       "source": "DuckDuckGo",

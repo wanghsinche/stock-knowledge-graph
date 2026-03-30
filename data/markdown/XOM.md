@@ -3,8 +3,8 @@ ticker: XOM
 company: Exxon Mobil Corporation
 sector: Energy
 industry: Oil & Gas Integrated
-extracted_at: 2026-03-27 16:44:56
-last_updated: 2026-03-27
+extracted_at: 2026-03-30 16:48:19
+last_updated: 2026-03-30
 ---
 
 # XOM - Exxon Mobil Corporation
@@ -12,23 +12,23 @@ last_updated: 2026-03-27
 ## 基本信息
 
 - **所属行业**: Energy / Oil & Gas Integrated
-- **提取时间**: 2026-03-27 16:44:56
+- **提取时间**: 2026-03-30 16:48:19
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Schlumberger]]
-- [[Halliburton]]
-- [[Baker Hughes]]
-- [[Weatherford]]
-- [[National Oilwell Varco]]
+- [[Crude oil suppliers]]
+- [[Natural gas suppliers]]
+- [[Drilling rig operators]]
+- [[Petrochemical feedstock providers]]
+- [[Equipment manufacturers (e.g., pumps, valves)]]
 
 ### 下游客户
-- [[Major gas stations and convenience stores]]
-- [[Automotive fuel stations]]
-- [[Airlines and aviation fuel suppliers]]
-- [[Petrochemical plants]]
-- [[Industrial refineries]]
+- [[Retail gasoline stations]]
+- [[Airlines (jet fuel)]]
+- [[Shipping and maritime fuel customers]]
+- [[Industrial petrochemical plants]]
+- [[Automotive and commercial vehicle fleets]]
 
 ### 竞争对手
 - [[Chevron]]
@@ -41,8 +41,11 @@ last_updated: 2026-03-27
 - [[Crude oil]]
 - [[Natural gas]]
 - [[Gasoline]]
-- [[Diesel fuel]]
-- [[Petrochemical feedstocks]]
+- [[Diesel]]
+- [[Jet fuel]]
+- [[Lubricants]]
+- [[Petrochemicals (ethylene, propylene)]]
+- [[Plastics]]
 
 ## 数据来源
 
@@ -54,4 +57,4 @@ last_updated: 2026-03-27
 
 ## 元数据
 
-- **更新日期**: 2026-03-27
+- **更新日期**: 2026-03-30

@@ -3,8 +3,8 @@ ticker: COST
 company: Costco Wholesale Corporation
 sector: Consumer Defensive
 industry: Discount Stores
-extracted_at: 2026-03-20 16:42:04
-last_updated: 2026-03-20
+extracted_at: 2026-03-30 16:55:04
+last_updated: 2026-03-30
 ---
 
 # COST - Costco Wholesale Corporation
@@ -12,44 +12,46 @@ last_updated: 2026-03-20
 ## 基本信息
 
 - **所属行业**: Consumer Defensive / Discount Stores
-- **提取时间**: 2026-03-20 16:42:04
+- **提取时间**: 2026-03-30 16:55:04
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Major food suppliers (beef, poultry, organic produce, wine)]]
-- [[005930.KS]]
-- [[Household goods manufacturers (e.g., IKEA, Whirlpool, Home Depot brands)]]
+- [[Tyson Foods]]
+- [[JBS]]
+- [[Cargill]]
+- [[Local organic farms]]
+- [[Major wine producers]]
 
 ### 下游客户
-- [[Individual consumers (members)]]
+- [[U.S. consumers]]
+- [[Corporate members]]
 - [[Small businesses]]
-- [[Restaurants & hotels]]
-- [[Healthcare facilities & schools]]
-- [[Government agencies]]
+- [[Food service industry]]
+- [[International members]]
 
 ### 竞争对手
-- [[Walmart Inc.]]
-- [[Sam's Club (Walmart)]]
+- [[Walmart]]
+- [[Target]]
+- [[Sam's Club]]
 - [[BJ's Wholesale Club]]
-- [[Target Corporation]]
-- [[AMZN]]
+- [[Dollar General]]
 
 ### 核心产品
-- [[Food & beverage (beef, poultry, organic produce, wine)]]
-- [[Electronics & appliances]]
-- [[Household goods & furniture]]
-- [[Apparel & footwear]]
-- [[Health & beauty products]]
+- [[Bulk groceries]]
+- [[Fresh produce]]
+- [[Meat & poultry]]
+- [[Household goods]]
+- [[Electronics]]
 
 ## 数据来源
 
 - [Costco](https://en.wikipedia.org/wiki/Costco_Wholesale_Corporation)
 - [Costco Wholesale Corporation suppliers manufacturers](https://en.wikipedia.org/wiki/Costco)
-- [Costco Wholesale Corporation suppliers manufacturers](https://ru.wikipedia.org/wiki/Costco)
-- [Costco Wholesale Corporation major customers clients](https://csimarket.com/stocks/COST-Customers)
-- [Costco Wholesale Corporation major customers clients](https://www.marketingscoop.com/consumer/costco-target-market-demographics/)
+- [Costco Wholesale Corporation suppliers manufacturers](https://www.costcobusinessdelivery.com/)
+- [Costco Wholesale Corporation major customers clients](https://en.wikipedia.org/wiki/Costco)
+- [Costco Wholesale Corporation major customers clients](https://ru.wikipedia.org/wiki/Costco)
 
 ## 元数据
 
-- **更新日期**: 2026-03-20
+- **更新日期**: 2026-03-30

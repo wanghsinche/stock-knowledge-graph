@@ -2,7 +2,7 @@
   "ticker": "COIN",
   "company_name": "Coinbase Global, Inc.",
   "sector": "Financial Services",
-  "industry": "Cryptocurrency Exchange",
+  "industry": "Financial Data & Stock Exchanges",
   "upstream": [
     "AMZN",
     "MSFT",
@@ -25,13 +25,13 @@
     "FTX"
   ],
   "key_products": [
-    "Coinbase Pro trading platform",
-    "Coinbase Custody",
-    "Coinbase Earn",
-    "Coinbase Card",
-    "Coinbase Wallet"
+    "Spot cryptocurrency trading",
+    "Margin trading",
+    "Staking services",
+    "Custody solutions",
+    "Coinbase Pro"
   ],
-  "extracted_at": "2026-03-27 16:47:33",
+  "extracted_at": "2026-03-30 16:54:23",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.coinbase.com/vendors/vendors-at-coinbase-code-of-conduct",
+      "url": "https://en.wikipedia.org/wiki/Coinbase",
       "query": "Coinbase Global, Inc. suppliers manufacturers",
-      "snippet": "This information is the property of Coinbase, or the property of Coinbase’s suppliers , customers, or business partners, and in many cases was develop"
+      "snippet": "Coinbase Global , Inc . is an American cryptocurrency exchange. It was founded in 2012 by Brian Armstrong and Fred Ehrsam."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://fintel.io/doc/sec-coinbase-global-inc-1679788-ex211-2024-february-15-19768-5823",
+      "url": "https://ru.wikipedia.org/wiki/Coinbase",
       "query": "Coinbase Global, Inc. suppliers manufacturers",
-      "snippet": "Coinbase Global , Inc . - List of Subsidiaries of the Registrant - EX-21.1 - February 15, 2024 COIN / Coinbase Global , Inc . Filings Coinbase Global "
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/COIN-Customers",
-      "query": "Coinbase Global, Inc. major customers clients",
-      "snippet": "Coinbase Global Inc customers and markets, results by customer and performance relative to COIN, by company and industry - CSIMarket"
+      "snippet": "Coinbase Global , Inc . (бренд Coinbase ) — американская публичная компания, которая управляет онлайн-сервисом обмена цифровых валют (биржей криптовал"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.demandsage.com/coinbase-users-statistics/",
       "query": "Coinbase Global, Inc. major customers clients",
-      "snippet": "Aug 13, 2025 · Get our latest Coinbase user statistics 2026, highlighting global adoption rates, market growth, and usage trends."
+      "snippet": "Aug 13, 2025 · Coinbase ’s user base stands at around 120 million, meaning it serves about 19.45% of all global cryptocurrency users. This makes Coinb"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://backlinko.com/coinbase-users",
+      "query": "Coinbase Global, Inc. major customers clients",
+      "snippet": "See full list on backlinko.com Coinbase defines monthly transacting users as all users with at least one transaction on the platform during the 28-day"
     }
   ]
 }

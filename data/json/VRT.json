@@ -4,34 +4,34 @@
   "sector": "Industrials",
   "industry": "Electrical Equipment & Parts",
   "upstream": [
-    "Semiconductor manufacturers",
-    "Electronic component suppliers",
-    "Power component suppliers",
-    "Cooling fan manufacturers",
-    "Cable and wiring suppliers"
+    "INTC",
+    "AMD",
+    "NVDA",
+    "AVGO",
+    "QCOM"
   ],
   "downstream": [
-    "Data center operators",
-    "CAT",
-    "Cloud service providers",
-    "Enterprise IT departments",
-    "Government agencies"
+    "AMZN",
+    "GOOGL",
+    "MSFT",
+    "Equinix",
+    "Digital Realty"
   ],
   "competitors": [
     "Schneider Electric",
     "Eaton",
     "ABB",
-    "Rittal",
-    "APC by Schneider"
+    "Siemens",
+    "CSCO"
   ],
   "key_products": [
-    "Power distribution units (PDUs)",
-    "Uninterruptible power supplies (UPS)",
-    "Cooling systems and air handlers",
-    "Data center infrastructure management (DCIM) software",
-    "Networking equipment"
+    "Power Distribution Units (PDUs)",
+    "Uninterruptible Power Supplies (UPS)",
+    "Cooling Systems",
+    "Data Center Infrastructure Management (DCIM) Software",
+    "Racks and Enclosures"
   ],
-  "extracted_at": "2026-03-27 16:51:57",
+  "extracted_at": "2026-03-30 16:52:52",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/VRT/",
+      "url": "https://en.wikipedia.org/wiki/Vertiv",
       "query": "Vertiv Holdings Co suppliers manufacturers",
-      "snippet": "Find the latest Vertiv Holdings Co (VRT) stock quote, history, news and other vital information to help you with your stock trading and investing."
+      "snippet": "Vertiv Holdings Co . is an American provider of infrastructure and services for data centers, communication networks, and commercial and industrial en"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://simplywall.st/stocks/us/capital-goods/nyse-vrt/vertiv-holdings-co",
+      "url": "https://partners.vertiv.com/English/directory",
       "query": "Vertiv Holdings Co suppliers manufacturers",
-      "snippet": "Research Vertiv Holdings Co 's (NYSE:VRT) fundamentals, past performance, valuation, dividends and more."
+      "snippet": "Information and Product Security. Report a Security Concern. Corporate. About Vertiv ."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.aol.com/articles/heres-why-vertiv-holdings-still-165000229.html",
+      "url": "https://www.appsruntheworld.com/customers-database/vendors/view/vertiv",
       "query": "Vertiv Holdings Co major customers clients",
-      "snippet": "Vertiv is seeing resilient demand. That's all impressive, to be sure. But why is Vertiv Holdings among the safest AI infrastructure stocks you can own"
+      "snippet": "List of companies using or evaluating Vertiv applications, with details on their revenues, employees, industries, and locations."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ca.finance.yahoo.com/quote/VRT/",
+      "url": "https://csimarket.com/stocks/VRT-Customers",
       "query": "Vertiv Holdings Co major customers clients",
-      "snippet": "Find the latest Vertiv Holdings Co (VRT) stock quote, history, news and other vital information to help you with your stock trading and investing."
+      "snippet": "1 day ago · For your research, we’ve provided 9 tables on Vertiv Holdings Co corporate clients . You can find them in the navigation menu under Custom"
     }
   ]
 }

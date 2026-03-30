@@ -3,11 +3,35 @@
   "company_name": "AXT, Inc.",
   "sector": "Technology",
   "industry": "Semiconductor Equipment & Materials",
-  "upstream": [],
-  "downstream": [],
-  "competitors": [],
-  "key_products": [],
-  "extracted_at": "2026-03-24 18:35:59",
+  "upstream": [
+    "AMAT",
+    "LRCX",
+    "Tokyo Electron",
+    "ASML",
+    "KLA"
+  ],
+  "downstream": [
+    "TSM",
+    "005930.KS",
+    "INTC",
+    "GlobalFoundries",
+    "SMIC"
+  ],
+  "competitors": [
+    "AMAT",
+    "LRCX",
+    "Tokyo Electron",
+    "ASML",
+    "KLA"
+  ],
+  "key_products": [
+    "AXT semiconductor processing equipment",
+    "AXT wafer fabrication tools",
+    "AXT lithography equipment",
+    "AXT etching systems",
+    "AXT deposition equipment"
+  ],
+  "extracted_at": "2026-03-30 16:52:40",
   "sources": [
     {
       "source": "Wikipedia",
@@ -17,15 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://investors.axt.com/Investors/Overview/default.aspx",
+      "url": "https://csimarket.com/stocks/competitionSEG2.php?code=AXTI",
       "query": "AXT, Inc. suppliers manufacturers",
-      "snippet": "3 weeks ago - AXT is a material science company that develops and manufactures high-performance compound and single element semiconductor wafer substr"
+      "snippet": "AXTI Suppliers Management Effectiveness. Axt Inc Competitors Results. AXTI vs Competitors Stock Performance."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.linkedin.com/company/axt-inc.",
+      "url": "https://finance.yahoo.com/news/avoid-axt-inc-axti-182125267.html",
       "query": "AXT, Inc. suppliers manufacturers",
-      "snippet": "AXT designs, develops, manufactures and distributes high performance compound and single element semiconductor substrates comprising gallium arsenide,"
+      "snippet": "Hedge fund activity in AXT Inc (NASDAQ: AXTI ). Heading into the second quarter of 2020, a total of 7 of the hedge funds tracked by Insider Monkey wer"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/AXTI-Customers",
+      "query": "AXT, Inc. major customers clients",
+      "snippet": "2 days ago · For your research, we’ve provided 9 tables on Axt Inc corporate clients . You can find them in the navigation menu under Customers & Mark"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://pitchgrade.com/companies/axt-inc",
+      "query": "AXT, Inc. major customers clients",
+      "snippet": "Oct 9, 2025 · Customer Segments: AXT, Inc . serves multiple distinct customer segments, which may include consumers, small and medium businesses, ente"
     }
   ]
 }

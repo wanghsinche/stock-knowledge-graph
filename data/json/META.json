@@ -5,17 +5,17 @@
   "industry": "Internet Content & Information",
   "upstream": [
     "NVDA",
+    "AMD",
+    "INTC",
     "CSCO",
-    "MSFT",
-    "MSFT",
-    "Content delivery network providers (Akamai, Cloudflare)"
+    "DELL"
   ],
   "downstream": [
-    "005930.KS",
-    "Small and medium businesses",
-    "Media companies",
-    "Gaming companies",
-    "Political campaigns"
+    "Advertisers",
+    "App developers",
+    "Content creators",
+    "Brands",
+    "Businesses"
   ],
   "competitors": [
     "GOOGL",
@@ -29,9 +29,9 @@
     "Instagram",
     "WhatsApp",
     "Messenger",
-    "Threads"
+    "Meta Ads"
   ],
-  "extracted_at": "2026-03-27 16:43:09",
+  "extracted_at": "2026-03-30 16:46:51",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.meta.com/about/",
+      "url": "https://en.wikipedia.org/wiki/Meta_Platforms",
       "query": "Meta Platforms, Inc. suppliers manufacturers",
-      "snippet": "Meta - Social Media Advertising Platform (Facebook & Instagram)."
+      "snippet": "3 days ago - Meta Platforms, Inc. (doing business as Meta) is an American multinational technology company headquartered in Menlo Park, California. Me"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.computerhope.com/comp/meta.htm",
+      "url": "https://data.ark.ai/analysis/suppliers/meta-platforms-inc-supplier-profile-overview",
       "query": "Meta Platforms, Inc. suppliers manufacturers",
-      "snippet": "Before it was rebranded as Meta in October 2021, Meta was known as Facebook Inc . According to Zuckerberg, the name Meta emphasizes their focus on VR "
+      "snippet": "Ark.ai conducted a vendor and supply chain analysis of Meta Platforms, Inc., examining their subcontractors, subsidiaries, list of suppliers, manufact"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Meta_Platforms",
       "query": "Meta Platforms, Inc. major customers clients",
-      "snippet": "Meta owns and operates several prominent social media platforms and communication services, including Facebook, Instagram, WhatsApp, Messenger, Thread"
+      "snippet": "Meta Platforms , Inc . (doing business as Meta) is an American multinational technology company headquartered in Menlo Park, California. Meta owns and"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.appsruntheworld.com/customers-database/vendors/view/meta",
+      "url": "https://csimarket.com/stocks/META-Customers",
       "query": "Meta Platforms, Inc. major customers clients",
-      "snippet": "List of companies using or evaluating Meta applications, with details on their revenues, employees, industries, and locations. Missing: major | Show r"
+      "snippet": "For your research, we’ve provided 9 tables on Meta Platforms Inc corporate clients . You can find them in the navigation menu under Customers & Market"
     }
   ]
 }

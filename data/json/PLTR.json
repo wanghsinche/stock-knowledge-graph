@@ -1,37 +1,37 @@
 {
   "ticker": "PLTR",
   "company_name": "Palantir Technologies Inc.",
-  "sector": "Technology",
-  "industry": "Software - Infrastructure",
+  "sector": "Technology / Software - Infrastructure",
+  "industry": "Data Analytics / Big Data",
   "upstream": [
     "AMZN",
     "MSFT",
     "GOOGL",
-    "DELL",
-    "CSCO"
+    "ORCL",
+    "IBM"
   ],
   "downstream": [
     "U.S. Department of Defense",
+    "INTC",
     "Federal Bureau of Investigation",
-    "European Union agencies",
-    "Walmart",
-    "JPMorgan Chase"
+    "National Health Service (UK)",
+    "Walmart"
   ],
   "competitors": [
     "Snowflake",
     "Databricks",
     "Splunk",
-    "IBM",
-    "SAS"
+    "Alteryx",
+    "Tableau"
   ],
   "key_products": [
     "Gotham",
     "Foundry",
-    "Palantir Apollo",
-    "Palantir Helix",
-    "Palantir Platform"
+    "Palantir Platform",
+    "Palantir Foundry",
+    "Palantir Gotham"
   ],
-  "extracted_at": "2026-03-27 16:44:30",
+  "extracted_at": "2026-03-30 16:48:31",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,21 +47,21 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://tr.wikipedia.org/wiki/Palantir_Technologies",
+      "url": "https://finance.yahoo.com/quote/PLTR/",
       "query": "Palantir Technologies Inc. suppliers manufacturers",
-      "snippet": "Palantir Technologies Inc ., büyük veri analitiği için yazılım platformlarında uzmanlaşmış bir Amerikan halka açık şirketidir. Merkezi Denver, Colorad"
+      "snippet": "Find the latest Palantir Technologies Inc . (PLTR) stock quote, history, news and other vital information to help you with your stock trading and inve"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Palantir",
+      "url": "https://www.appsruntheworld.com/customers-database/products/view/palantir-foundry",
       "query": "Palantir Technologies Inc. major customers clients",
-      "snippet": "Palantir Technologies Inc . is an American publicly traded company that develops data integration and analytics platforms enabling government agencies"
+      "snippet": "Since 2010, our global team of researchers has been studying Palantir Foundry customers around the world, aggregating massive amounts of data points t"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.tradingview.com/symbols/NASDAQ-PLTR/",
+      "url": "https://theirstack.com/en/technology/palantir",
       "query": "Palantir Technologies Inc. major customers clients",
-      "snippet": "View live Palantir Technologies Inc . chart to track its stock's price action. Find market predictions, PLTR financials and market news."
+      "snippet": "Download a list of 3,418 companies that use Palantir with enriched data including industry, company size, location, funding rounds, and revenue figure"
     }
   ]
 }

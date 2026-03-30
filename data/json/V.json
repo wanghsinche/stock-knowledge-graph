@@ -4,23 +4,23 @@
   "sector": "Financial Services",
   "industry": "Credit Services",
   "upstream": [
-    "Card manufacturing companies",
-    "Chip and semiconductor suppliers",
-    "Payment network infrastructure providers",
-    "Software and security vendors",
-    "Financial technology platform suppliers"
+    "NXP Semiconductors",
+    "STMicroelectronics",
+    "Plastic Card Manufacturing",
+    "AMZN",
+    "Equinix"
   ],
   "downstream": [
-    "Commercial banks and credit unions",
-    "Retail merchants and e‑commerce platforms",
-    "Financial institutions (e.g., credit card issuers)",
-    "Consumers using Visa‑branded cards",
-    "Payment processors and acquirers"
+    "Bank of America",
+    "JPMorgan Chase",
+    "Wells Fargo",
+    "AMZN",
+    "Walmart"
   ],
   "competitors": [
     "Mastercard",
     "American Express",
-    "Discover Financial Services",
+    "Discover",
     "PayPal",
     "Square"
   ],
@@ -28,10 +28,10 @@
     "Visa credit cards",
     "Visa debit cards",
     "Visa prepaid cards",
-    "Visa payment network services",
-    "Digital payment solutions (e.g., Visa Checkout, Visa Token Service)"
+    "VisaNet payment network",
+    "Visa Direct"
   ],
-  "extracted_at": "2026-03-27 16:47:16",
+  "extracted_at": "2026-03-30 16:51:02",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,13 +43,13 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Visa_Inc.",
       "query": "Visa Inc. suppliers manufacturers",
-      "snippet": "Visa Inc . is an American multinational payment card services corporation headquartered in San Francisco, California."
+      "snippet": "Visa Inc is an American multinational payment card services corporation headquartered in San Francisco, California. It facilitates electronic funds .."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ru.wikipedia.org/wiki/Visa",
+      "url": "https://www.visa.com/splisting/",
       "query": "Visa Inc. suppliers manufacturers",
-      "snippet": "Visa Inc . — американская транснациональная компания, предоставляющая услуги проведения платёжных операций. Является основой одноимённой ассоциации. С"
+      "snippet": "Sep 8, 2022 · The Registry contains service provider information such as company name, company website, corporate headquarter country, region(s) of op"
     },
     {
       "source": "DuckDuckGo",
@@ -59,9 +59,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.linkedin.com/company/visa",
+      "url": "https://www.visa.com/en-us",
       "query": "Visa Inc. major customers clients",
-      "snippet": "Visa | 2,526,282 followers on LinkedIn. Visa (NYSE: V) is a world leader in digital payments, facilitating transactions between consumers, merchants, "
+      "snippet": "Discover Visa personal payment solutions, secure transactions, travel support, cards and rewards designed to bring more value to your everyday experie"
     }
   ]
 }

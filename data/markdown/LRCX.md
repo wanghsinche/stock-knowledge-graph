@@ -3,8 +3,8 @@ ticker: LRCX
 company: Lam Research Corporation
 sector: Technology
 industry: Semiconductor Equipment & Materials
-extracted_at: 2026-03-27 16:53:24
-last_updated: 2026-03-27
+extracted_at: 2026-03-30 16:51:23
+last_updated: 2026-03-30
 ---
 
 # LRCX - Lam Research Corporation
@@ -12,16 +12,16 @@ last_updated: 2026-03-27
 ## 基本信息
 
 - **所属行业**: Technology / Semiconductor Equipment & Materials
-- **提取时间**: 2026-03-27 16:53:24
+- **提取时间**: 2026-03-30 16:51:23
 
 ## 产业链关系
 
 ### 上游供应商
+- [[Silicon wafer suppliers (e.g., Shin-Etsu Chemical, Sumitomo Chemical)]]
+- [[Industrial gases (e.g., Air Liquide, Linde)]]
+- [[Chemical suppliers (e.g., BASF, Dow Chemical)]]
 - [[AMAT]]
-- [[Tokyo Electron]]
-- [[ASML]]
-- [[KLA-Tencor]]
-- [[Lam's component suppliers]]
+- [[Cleanroom and facility equipment vendors (e.g., Camfil, 3M)]]
 
 ### 下游客户
 - [[TSM]]
@@ -34,24 +34,24 @@ last_updated: 2026-03-27
 - [[AMAT]]
 - [[Tokyo Electron]]
 - [[ASML]]
-- [[KLA-Tencor]]
-- [[ASM Pacific Technology]]
+- [[KLA Corporation]]
+- [[Veeco Instruments]]
 
 ### 核心产品
 - [[Plasma etch systems]]
-- [[Deposition equipment]]
-- [[CMP systems]]
-- [[Back-end wafer-level packaging (WLP) equipment]]
-- [[MEMS packaging equipment]]
+- [[Plasma deposition systems]]
+- [[Wafer cleaning equipment]]
+- [[Wafer-level packaging (WLP) tools]]
+- [[Back-end processing equipment]]
 
 ## 数据来源
 
 - [Lam Research](https://en.wikipedia.org/wiki/Lam_Research_Corporation)
 - [Lam Research Corporation suppliers manufacturers](https://en.wikipedia.org/wiki/Lam_Research)
 - [Lam Research Corporation suppliers manufacturers](https://www.lamresearch.com/)
-- [Lam Research Corporation major customers clients](https://finance.yahoo.com/markets/stocks/articles/lam-research-corporation-lrcx-positioned-115400829.html)
-- [Lam Research Corporation major customers clients](https://www.zacks.com/stock/news/2886456/can-lam-researchs-systems-business-sustain-growth-amid-ai-capex-boom)
+- [Lam Research Corporation major customers clients](https://csimarket.com/stocks/LRCX-Customers)
+- [Lam Research Corporation major customers clients](https://pitchgrade.com/companies/lam-research)
 
 ## 元数据
 
-- **更新日期**: 2026-03-27
+- **更新日期**: 2026-03-30

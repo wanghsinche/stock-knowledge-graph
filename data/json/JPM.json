@@ -4,34 +4,34 @@
   "sector": "Financial Services",
   "industry": "Banks - Diversified",
   "upstream": [
-    "MSFT",
-    "Consulting firms (e.g., Accenture, Deloitte)",
-    "Payment processors (e.g., Visa, Mastercard)",
-    "Cybersecurity providers (e.g., Palo Alto Networks)",
-    "AMZN"
+    "Technology vendors (e.g., software, cybersecurity)",
+    "Office equipment and furniture suppliers",
+    "Professional services (legal, consulting)",
+    "Data analytics providers",
+    "CAT"
   ],
   "downstream": [
-    "Retail customers (individuals)",
-    "Corporate clients (mid-size to large firms)",
-    "Government entities",
-    "High-net-worth individuals",
-    "Institutional investors"
+    "Retail banking customers (individuals)",
+    "Corporate banking clients (mid‑size to large firms)",
+    "Institutional investors (pension funds, mutual funds)",
+    "Wealth management clients (high net worth individuals)",
+    "Credit card holders"
   ],
   "competitors": [
-    "Bank of America",
-    "Citigroup",
-    "Wells Fargo",
-    "Goldman Sachs",
-    "Morgan Stanley"
+    "Bank of America (BAC)",
+    "Citigroup (C)",
+    "Wells Fargo (WFC)",
+    "Goldman Sachs (GS)",
+    "Morgan Stanley (MS)"
   ],
   "key_products": [
     "Retail banking services",
-    "Investment banking",
-    "Asset management",
-    "Wealth management",
-    "Credit cards and loans"
+    "Investment banking and advisory",
+    "Asset and wealth management",
+    "Credit cards and consumer loans",
+    "Treasury and cash management"
   ],
-  "extracted_at": "2026-03-27 16:49:05",
+  "extracted_at": "2026-03-30 16:54:13",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,13 +43,13 @@
       "source": "DuckDuckGo",
       "url": "https://www.jpmorganchase.com/about/suppliers",
       "query": "JPMorgan Chase & Co. suppliers manufacturers",
-      "snippet": "At JPMorganChase , we place particular value in our supplier partnerships. Thanks to the help of a diverse range of suppliers and advisors, we are abl"
+      "snippet": "Building strong partnerships is the cornerstone of our success. At JPMorganChase , we place particular value in our supplier partnerships. Thanks to t"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://suppliercentral.jpmchase.com/",
       "query": "JPMorgan Chase & Co. suppliers manufacturers",
-      "snippet": "Access JPMorgan Chase 's Preferred Supplier portal for streamlined payment solutions, reduced administrative costs, and efficient transactions."
+      "snippet": "At JPMorgan Chase , we place particular value in our supplier partnerships. Thanks to the help of a diverse range of suppliers and advisors, we are ab"
     },
     {
       "source": "DuckDuckGo",
@@ -59,9 +59,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.jpmorganchase.com/",
+      "url": "https://ru.wikipedia.org/wiki/JPMorgan_Chase",
       "query": "JPMorgan Chase & Co. major customers clients",
-      "snippet": "JPMorganChase opened its new global headquarters at 270 Park Avenue, marking a major milestone in its commitment to New York City.Committed to service"
+      "snippet": "JPMorgan Chase & Co , «Дж. П. Морган Чейз и Ко.» — американский транснациональный финансовый конгломерат, один из крупнейших банков мира, с центром уп"
     }
   ]
 }

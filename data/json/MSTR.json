@@ -1,37 +1,37 @@
 {
   "ticker": "MSTR",
   "company_name": "Strategy Inc",
-  "sector": "Technology",
-  "industry": "Software - Application",
+  "sector": "Technology / Software - Application",
+  "industry": "Business Intelligence & Analytics",
   "upstream": [
+    "Strategic Resources, Inc. (SRI)",
     "MSFT",
     "AMZN",
-    "GOOGL",
     "ORCL",
     "IBM"
   ],
   "downstream": [
-    "Financial services firms",
-    "Government agencies",
-    "Retail companies",
-    "Manufacturing firms",
-    "Healthcare organizations"
+    "Healthcare",
+    "Finance",
+    "Retail",
+    "Government",
+    "CAT"
   ],
   "competitors": [
-    "Tableau Software",
+    "Tableau",
     "Qlik",
     "MSFT",
-    "SAS Institute",
-    "GOOGL"
+    "SAP Analytics Cloud",
+    "IBM"
   ],
   "key_products": [
-    "MicroStrategy Analytics Platform",
+    "MicroStrategy Analytics",
     "MicroStrategy Desktop",
     "MicroStrategy Mobile",
     "MicroStrategy Cloud",
-    "MicroStrategy Server"
+    "MicroStrategy Data Visualization"
   ],
-  "extracted_at": "2026-03-27 16:45:57",
+  "extracted_at": "2026-03-30 16:53:24",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.inc.com/",
+      "url": "https://sri-hq.com/",
       "query": "Strategy Inc suppliers manufacturers",
-      "snippet": "Inc . media is the entrepreneurs source for ideas, resources and advice on how to successfully start, run and grow your business.Practical advice and "
+      "snippet": "Strategic Resources, Inc . (SRI) is an international, ISO 9001/20000/27001 Certified, CMMI Level 3 Rated full-service provider with more than 35 years"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.globalsources.com/",
+      "url": "https://www.strategyinc.net/services-overview/",
       "query": "Strategy Inc suppliers manufacturers",
-      "snippet": "The leading international multichannel B2B online marketplace & sourcing platform connecting authentic buyers and verified wholesale suppliers & manuf"
+      "snippet": "At Strategy Inc ., we offer a comprehensive range of consulting services required for life science and medical device due diligence, such as: market a"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/MicroStrategy",
       "query": "Strategy Inc major customers clients",
-      "snippet": "Strategy Inc ., formerly known as MicroStrategy, is an American company that provides business intelligence and mobile software.In 1992, MicroStrategy"
+      "snippet": "Strategy Inc., formerly known as MicroStrategy, is an American company that provides business intelligence (BI) and mobile software. Founded in 1989 b"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.inc.com/5-ways-small-businesses-can-attract-large-customers.html",
+      "url": "https://www.strategy.com/software/customer-stories",
       "query": "Strategy Inc major customers clients",
-      "snippet": "We didn’t have a single customer , large or small. While we employed a host of different strategies to get Peppercomm where it is today, these are the"
+      "snippet": "Dive into Strategy customer stories highlighting the impact of Analytics in Healthcare, Financial Services, Call Centers, Retail, Insurance, and Gover"
     }
   ]
 }

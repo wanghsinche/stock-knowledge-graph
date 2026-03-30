@@ -3,8 +3,8 @@ ticker: AMZN
 company: Amazon.com, Inc.
 sector: Consumer Cyclical
 industry: Internet Retail
-extracted_at: 2026-03-27 16:43:40
-last_updated: 2026-03-27
+extracted_at: 2026-03-30 16:47:14
+last_updated: 2026-03-30
 ---
 
 # AMZN - Amazon.com, Inc.
@@ -12,46 +12,46 @@ last_updated: 2026-03-27
 ## 基本信息
 
 - **所属行业**: Consumer Cyclical / Internet Retail
-- **提取时间**: 2026-03-27 16:43:40
+- **提取时间**: 2026-03-30 16:47:14
 
 ## 产业链关系
 
 ### 上游供应商
-- [[005930.KS]]
 - [[AAPL]]
+- [[005930.KS]]
+- [[Nike, Inc.]]
 - [[SONY]]
-- [[LG Electronics]]
 - [[MSFT]]
 
 ### 下游客户
+- [[Retail consumers]]
+- [[Enterprise customers (AWS)]]
 - [[Prime members]]
-- [[AWS enterprise customers]]
-- [[AMZN]]
-- [[AMZN]]
-- [[Marketplace sellers]]
+- [[Small and medium enterprises]]
+- [[Government agencies]]
 
 ### 竞争对手
 - [[Walmart Inc.]]
-- [[eBay Inc.]]
 - [[Alibaba Group Holding Ltd.]]
+- [[eBay Inc.]]
+- [[Shopify Inc.]]
 - [[Target Corp.]]
-- [[Best Buy Co. Inc.]]
 
 ### 核心产品
 - [[Amazon.com e-commerce platform]]
-- [[Amazon Web Services]]
+- [[Amazon Web Services (AWS)]]
 - [[Amazon Prime Video]]
-- [[Amazon Echo (Alexa)]]
 - [[Amazon Kindle]]
+- [[Amazon Echo (Alexa)]]
 
 ## 数据来源
 
 - [Amazon (company)](https://en.wikipedia.org/wiki/Amazon.com,_Inc.)
 - [Amazon.com, Inc. suppliers manufacturers](https://www.ecomdepotwholesale.com/post/list-of-amazon-authorized-suppliers-for-2024-the-complete-guide-to-finding-verified-suppliers)
-- [Amazon.com, Inc. suppliers manufacturers](https://www.accio.com/supplier/amazon-suppliers-list)
-- [Amazon.com, Inc. major customers clients](https://ir.aboutamazon.com/)
-- [Amazon.com, Inc. major customers clients](https://www.amazon.com/cart/add-to-cart/ref=dp_start-bbf_1_glance)
+- [Amazon.com, Inc. suppliers manufacturers](https://bigframe.net/who-are-amazons-main-suppliers/)
+- [Amazon.com, Inc. major customers clients](https://capitaloneshopping.com/research/amazon-statistics/)
+- [Amazon.com, Inc. major customers clients](https://csimarket.com/stocks/AMZN-Customers)
 
 ## 元数据
 
-- **更新日期**: 2026-03-27
+- **更新日期**: 2026-03-30

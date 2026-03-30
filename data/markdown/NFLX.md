@@ -3,8 +3,8 @@ ticker: NFLX
 company: Netflix, Inc.
 sector: Communication Services
 industry: Entertainment
-extracted_at: 2026-03-27 16:45:29
-last_updated: 2026-03-27
+extracted_at: 2026-03-30 16:49:03
+last_updated: 2026-03-30
 ---
 
 # NFLX - Netflix, Inc.
@@ -12,46 +12,46 @@ last_updated: 2026-03-27
 ## 基本信息
 
 - **所属行业**: Communication Services / Entertainment
-- **提取时间**: 2026-03-27 16:45:29
+- **提取时间**: 2026-03-30 16:49:03
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Hiventy Group]]
-- [[Warner Bros.]]
-- [[Disney]]
-- [[NBCUniversal]]
-- [[SONY]]
+- [[Content production studios]]
+- [[Film distributors]]
+- [[Equipment manufacturers]]
+- [[Streaming infrastructure providers]]
+- [[Cloud service providers]]
 
 ### 下游客户
-- [[Global subscribers]]
-- [[Corporate partners (airlines, telecoms)]]
-- [[AMZN]]
-- [[Smart TV manufacturers]]
-- [[Mobile app users]]
+- [[Individual subscribers]]
+- [[Corporate partners]]
+- [[Advertising partners]]
+- [[Device manufacturers]]
+- [[Content aggregators]]
 
 ### 竞争对手
 - [[Disney+]]
-- [[Hulu]]
 - [[AMZN]]
+- [[Hulu]]
 - [[HBO Max]]
 - [[AAPL]]
 
 ### 核心产品
 - [[Netflix streaming service]]
-- [[Netflix Originals]]
-- [[Licensed third‑party content]]
-- [[Mobile and web apps]]
-- [[Content recommendation engine]]
+- [[Original series and films]]
+- [[Licensed movies and TV shows]]
+- [[Mobile app]]
+- [[Offline download feature]]
 
 ## 数据来源
 
 - [Netflix, Inc.](https://en.wikipedia.org/wiki/Netflix,_Inc.)
-- [Netflix, Inc. suppliers manufacturers](https://npfp.netflixstudios.com/region/global/)
-- [Netflix, Inc. suppliers manufacturers](https://csimarket.com/stocks/NFLX-Suppliers)
-- [Netflix, Inc. major customers clients](https://csimarket.com/stocks/markets_glance.php?code=NFLX)
-- [Netflix, Inc. major customers clients](https://ir.netflix.net/ir-overview/profile/default.aspx)
+- [Netflix, Inc. suppliers manufacturers](https://www.eximpedia.app/companies/netflix-inc/43866177)
+- [Netflix, Inc. suppliers manufacturers](https://netflixtechblog.com/complexity-in-the-digital-supply-chain-958384cbd70b)
+- [Netflix, Inc. major customers clients](https://en.wikipedia.org/wiki/Reed_Hastings)
+- [Netflix, Inc. major customers clients](https://play.google.com/store/apps/details/Netflix?id=com.netflix.mediaclient&hl=en)
 
 ## 元数据
 
-- **更新日期**: 2026-03-27
+- **更新日期**: 2026-03-30

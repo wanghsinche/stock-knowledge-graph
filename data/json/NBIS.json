@@ -1,33 +1,19 @@
 {
   "ticker": "NBIS",
   "company_name": "Nebius Group N.V.",
-  "sector": "Communication Services / Internet Content & Information",
-  "industry": "Artificial Intelligence Infrastructure",
-  "upstream": [
-    "NVDA",
-    "INTC",
-    "AMD",
-    "QCOM"
-  ],
-  "downstream": [
-    "AMZN",
-    "MSFT",
-    "GOOGL",
-    "IBM"
-  ],
-  "competitors": [
-    "OpenAI",
-    "GOOGL",
-    "MSFT",
-    "IBM"
-  ],
+  "sector": "Communication Services",
+  "industry": "Internet Content & Information",
+  "upstream": [],
+  "downstream": [],
+  "competitors": [],
   "key_products": [
-    "Nebius AI Platform",
-    "Nebius Cloud AI",
-    "Nebius Edge AI",
-    "Nebius Data Analytics"
+    "AI infrastructure platform",
+    "Avride",
+    "TripleTen",
+    "Toloka",
+    "ClickHouse"
   ],
-  "extracted_at": "2026-03-27 16:53:53",
+  "extracted_at": "2026-03-30 16:52:18",
   "sources": [
     {
       "source": "Wikipedia",
@@ -37,27 +23,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Nebius_Group",
+      "url": "https://finance.yahoo.com/quote/NBIS/",
       "query": "NBIS suppliers manufacturers",
-      "snippet": "Nebius Group N.V., headquartered in Amsterdam, is a technology company [3] that provides artificial intelligence infrastructure. [4] The company also "
+      "snippet": "Find the latest Nebius Group N.V. ( NBIS ) stock quote, history, news and other vital information to help you with your stock trading and investing."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/NBIS-Suppliers",
+      "url": "https://ru.investing.com/equities/yandex-nv",
       "query": "NBIS suppliers manufacturers",
-      "snippet": "May 3, 2025 · Nebius Group N V's Comment on Supply Chain NBIS 's Stock Perfrormance relative to it's Suppliers NBIS 's vs. Suppliers , Data (Revenue a"
+      "snippet": "Акции Nebius Group NV ( NBIS ): курс сегодня, актуальная цена онлайн, графики, мнения, технический анализ, отчеты и другое о Nebius NV."
     },
     {
       "source": "DuckDuckGo",
       "url": "https://csimarket.com/stocks/NBIS-Customers",
       "query": "NBIS major customers clients",
-      "snippet": "5 days ago · Nebius Group N V customers and markets, results by customer and performance relative to NBIS , by company and industry - CSIMarket"
+      "snippet": "Mar 22, 2026 · For your research, we’ve provided 9 tables on Nebius Group n v corporate clients . You can find them in the navigation menu under Custo"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.dcsa.mil/Systems-Applications/National-Background-Investigation-Services-NBIS/",
+      "url": "https://247wallst.com/investing/2026/03/04/nebius-group-just-became-a-major-ai-infrastructure-player/",
       "query": "NBIS major customers clients",
-      "snippet": "The purpose of NBIS is to modernize, streamline and secure the entire process to enhance the user experience and provide a reliable and integrated set"
+      "snippet": "Mar 4, 2026 · With hundreds of megawatts (MW) of operational and contracted capacity already online or under contract — primarily serving hyperscalers"
     }
   ]
 }

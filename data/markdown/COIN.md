@@ -2,17 +2,17 @@
 ticker: COIN
 company: Coinbase Global, Inc.
 sector: Financial Services
-industry: Cryptocurrency Exchange
-extracted_at: 2026-03-27 16:47:33
-last_updated: 2026-03-27
+industry: Financial Data & Stock Exchanges
+extracted_at: 2026-03-30 16:54:23
+last_updated: 2026-03-30
 ---
 
 # COIN - Coinbase Global, Inc.
 
 ## 基本信息
 
-- **所属行业**: Financial Services / Cryptocurrency Exchange
-- **提取时间**: 2026-03-27 16:47:33
+- **所属行业**: Financial Services / Financial Data & Stock Exchanges
+- **提取时间**: 2026-03-30 16:54:23
 
 ## 产业链关系
 
@@ -38,20 +38,20 @@ last_updated: 2026-03-27
 - [[FTX]]
 
 ### 核心产品
-- [[Coinbase Pro trading platform]]
-- [[Coinbase Custody]]
-- [[Coinbase Earn]]
-- [[Coinbase Card]]
-- [[Coinbase Wallet]]
+- [[Spot cryptocurrency trading]]
+- [[Margin trading]]
+- [[Staking services]]
+- [[Custody solutions]]
+- [[Coinbase Pro]]
 
 ## 数据来源
 
 - [Coinbase](https://en.wikipedia.org/wiki/Coinbase_Global,_Inc.)
-- [Coinbase Global, Inc. suppliers manufacturers](https://www.coinbase.com/vendors/vendors-at-coinbase-code-of-conduct)
-- [Coinbase Global, Inc. suppliers manufacturers](https://fintel.io/doc/sec-coinbase-global-inc-1679788-ex211-2024-february-15-19768-5823)
-- [Coinbase Global, Inc. major customers clients](https://csimarket.com/stocks/COIN-Customers)
+- [Coinbase Global, Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/Coinbase)
+- [Coinbase Global, Inc. suppliers manufacturers](https://ru.wikipedia.org/wiki/Coinbase)
 - [Coinbase Global, Inc. major customers clients](https://www.demandsage.com/coinbase-users-statistics/)
+- [Coinbase Global, Inc. major customers clients](https://backlinko.com/coinbase-users)
 
 ## 元数据
 
-- **更新日期**: 2026-03-27
+- **更新日期**: 2026-03-30

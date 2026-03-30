@@ -3,8 +3,8 @@ ticker: MRNA
 company: Moderna, Inc.
 sector: Healthcare
 industry: Biotechnology
-extracted_at: 2026-03-27 16:54:07
-last_updated: 2026-03-27
+extracted_at: 2026-03-30 16:55:29
+last_updated: 2026-03-30
 ---
 
 # MRNA - Moderna, Inc.
@@ -12,46 +12,46 @@ last_updated: 2026-03-27
 ## 基本信息
 
 - **所属行业**: Healthcare / Biotechnology
-- **提取时间**: 2026-03-27 16:54:07
+- **提取时间**: 2026-03-30 16:55:29
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Nucleic acid suppliers (e.g., Genscript, Thermo Fisher Scientific)]]
-- [[Lipid nanoparticle manufacturers (e.g., Acuitas Therapeutics)]]
-- [[Cell culture media producers (e.g., Lonza, Thermo Fisher)]]
-- [[Enzyme and reagent suppliers (e.g., New England Biolabs)]]
-- [[Packaging and vial manufacturers (e.g., Becton Dickinson)]]
+- [[Sino Biological]]
+- [[Thermo Fisher Scientific]]
+- [[Merck KGaA]]
+- [[Bio-Techne]]
+- [[Lonza]]
 
 ### 下游客户
-- [[Government health agencies (e.g., CDC, EMA, WHO)]]
-- [[Hospitals and health systems]]
-- [[Pharmaceutical distributors (e.g., McKesson, Cardinal Health)]]
-- [[International vaccine procurement organizations (e.g., COVAX)]]
-- [[Private healthcare providers and insurers]]
+- [[United States Department of Defense]]
+- [[United States Department of Health and Human Services]]
+- [[United States Department of Veterans Affairs]]
+- [[United Kingdom Government]]
+- [[European Medicines Agency]]
 
 ### 竞争对手
 - [[Pfizer]]
-- [[BioNTech]]
 - [[Johnson & Johnson]]
 - [[Novavax]]
-- [[CureVac]]
+- [[AstraZeneca]]
+- [[BioNTech]]
 
 ### 核心产品
-- [[Spikevax (COVID‑19 mRNA vaccine)]]
-- [[mRNA‑1273.214 (bivalent COVID‑19 booster)]]
-- [[mRNA‑1273.351 (variant‑specific booster)]]
-- [[mRNA‑1273.222 (pan‑variant booster)]]
-- [[mRNA‑1273.529 (next‑generation COVID‑19 vaccine)]]
+- [[COVID-19 vaccine (mRNA‑1273)]]
+- [[Cancer vaccine (mRNA‑4157)]]
+- [[Influenza vaccine (mRNA‑1010)]]
+- [[Influenza vaccine (mRNA‑1245)]]
+- [[Influenza vaccine (mRNA‑3704)]]
 
 ## 数据来源
 
 - 
 - [Moderna, Inc. suppliers manufacturers](https://modernadirect.com/authorized-distributor)
-- [Moderna, Inc. suppliers manufacturers](https://www.modernatx.com/supplier/moderna-supplier-page)
-- [Moderna, Inc. major customers clients](https://portersfiveforce.com/blogs/target-market/moderna)
-- [Moderna, Inc. major customers clients](https://pitchgrade.com/companies/moderna)
+- [Moderna, Inc. suppliers manufacturers](https://www.modernatx.com/en-US)
+- [Moderna, Inc. major customers clients](https://www.tradingview.com/news/zacks:42325aee0094b:0-moderna-q4-loss-narrower-than-expected-sales-beat-estimates/)
+- [Moderna, Inc. major customers clients](https://www.yahoo.com/news/u-government-gives-moderna-inc-002408823.html)
 
 ## 元数据
 
-- **更新日期**: 2026-03-27
+- **更新日期**: 2026-03-30

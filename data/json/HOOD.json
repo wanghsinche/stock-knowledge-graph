@@ -1,37 +1,37 @@
 {
   "ticker": "HOOD",
   "company_name": "Robinhood Markets, Inc.",
-  "sector": "Financial Services / Capital Markets",
-  "industry": "Online Brokerage / Retail Trading Platform",
+  "sector": "Financial Services",
+  "industry": "Capital Markets",
   "upstream": [
+    "Bloomberg L.P.",
+    "Thomson Reuters",
     "AMZN",
-    "MSFT",
-    "Plaid",
     "Stripe",
-    "Bloomberg Data Services"
+    "Plaid"
   ],
   "downstream": [
     "Retail investors",
-    "High-frequency traders",
-    "Institutional clients",
-    "Crypto traders",
-    "Options traders"
+    "Institutional investors",
+    "High‑frequency traders",
+    "Day traders",
+    "Crypto traders"
   ],
   "competitors": [
     "Charles Schwab",
-    "Fidelity",
+    "TD Ameritrade",
     "E*TRADE",
-    "Webull",
+    "Fidelity Investments",
     "Interactive Brokers"
   ],
   "key_products": [
-    "Commission-free stock trading",
-    "Robinhood Gold",
-    "Cash Management",
+    "Commission‑free stock trading",
     "Options trading",
-    "Cryptocurrency trading"
+    "Cryptocurrency trading",
+    "Margin trading",
+    "Robinhood Gold subscription"
   ],
-  "extracted_at": "2026-03-27 16:47:05",
+  "extracted_at": "2026-03-30 16:52:05",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/HOOD-Suppliers",
+      "url": "https://en.wikipedia.org/wiki/Robinhood_Markets",
       "query": "Robinhood Markets, Inc. suppliers manufacturers",
-      "snippet": "Feb 28, 2026 · Sources: Robinhood Markets Inc 's official press releases and regulatory filings; CSIMarket.com's supply -chain research; and the finan"
+      "snippet": "Robinhood Markets , Inc . is an American financial services company based in Menlo Park, California. It provides an electronic trading platform that f"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/competition2.php?supply&code=HOOD",
+      "url": "https://csimarket.com/stocks/HOOD-Suppliers",
       "query": "Robinhood Markets, Inc. suppliers manufacturers",
-      "snippet": "List of Robinhood Markets Inc 's Suppliers comparisons of 12 Months Sales, Income, Profitability, Cash flow from MRQ"
+      "snippet": "Feb 28, 2026 · For your research, we’ve provided nine additional tables on Robinhood Markets Inc ’s suppliers . You can find them in the navigation me"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://investingintheweb.com/brokers/robinhood-statistics/",
       "query": "Robinhood Markets, Inc. major customers clients",
-      "snippet": "Jan 2, 2026 · Robinhood revenues Robinhood generates revenues through transaction-based revenues, net interest revenues, and other revenues. Transacti"
+      "snippet": "Jan 2, 2026 · The platform has gained a massive customer base in the US, making it a major disruptor in the finance industry. In this article, we’ll e"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://investors.robinhood.com/news-releases/news-release-details/robinhood-markets-inc-reports-october-2025-operating-data",
+      "url": "https://investors.robinhood.com/news-releases/news-release-details/robinhood-markets-inc-reports-january-2025-operating-data",
       "query": "Robinhood Markets, Inc. major customers clients",
-      "snippet": "Nov 13, 2025 · MENLO PARK, Calif. , Nov. 13, 2025 (GLOBE NEWSWIRE) -- Robinhood Markets , Inc . (“ Robinhood ”) (NASDAQ: HOOD) today reported select m"
+      "snippet": "Feb 14, 2025 · Today, Robinhood lets you trade stocks, options, futures (which includes options on futures, swaps, and event contracts), and crypto, i"
     }
   ]
 }

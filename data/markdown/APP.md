@@ -3,8 +3,8 @@ ticker: APP
 company: AppLovin Corporation
 sector: Communication Services
 industry: Advertising Agencies
-extracted_at: 2026-03-27 16:50:54
-last_updated: 2026-03-27
+extracted_at: 2026-03-30 16:53:02
+last_updated: 2026-03-30
 ---
 
 # APP - AppLovin Corporation
@@ -12,46 +12,46 @@ last_updated: 2026-03-27
 ## 基本信息
 
 - **所属行业**: Communication Services / Advertising Agencies
-- **提取时间**: 2026-03-27 16:50:54
+- **提取时间**: 2026-03-30 16:53:02
 
 ## 产业链关系
 
 ### 上游供应商
-- [[AAPL]]
-- [[GOOGL]]
-- [[AMZN]]
-- [[GOOGL]]
-- [[Nielsen (data provider)]]
+- [[Cloud infrastructure providers (AWS, Azure, GCP)]]
+- [[Mobile app development platforms]]
+- [[Data analytics and attribution vendors]]
+- [[Machine learning model providers]]
+- [[Ad network technology partners]]
 
 ### 下游客户
-- [[Supercell]]
-- [[Zynga]]
-- [[King]]
-- [[Electronic Arts]]
-- [[Snap Inc.]]
+- [[Mobile game developers]]
+- [[App publishers]]
+- [[Advertising agencies]]
+- [[Brands and advertisers]]
+- [[Media and content platforms]]
 
 ### 竞争对手
-- [[The Trade Desk]]
-- [[AdColony]]
 - [[Unity Ads]]
-- [[Vungle]]
-- [[Chartboost]]
+- [[GOOGL]]
+- [[Facebook Audience Network]]
+- [[TikTok Ads]]
+- [[IronSource]]
 
 ### 核心产品
+- [[Axon advertising platform]]
 - [[AppLovin SDK]]
-- [[MAX (ad mediation)]]
-- [[AppLovin Marketing Solutions]]
-- [[AppLovin Analytics]]
-- [[AppLovin Media Platform]]
+- [[AppLovin Marketing Platform]]
+- [[AppLovin Audience Network]]
+- [[AppLovin Mobile Advertising solutions]]
 
 ## 数据来源
 
 - 
-- [AppLovin Corporation suppliers manufacturers](https://en.wikipedia.org/wiki/AppLovin)
-- [AppLovin Corporation suppliers manufacturers](https://csimarket.com/stocks/APP-Suppliers)
-- [AppLovin Corporation major customers clients](https://en.wikipedia.org/wiki/AppLovin)
-- [AppLovin Corporation major customers clients](https://theirstack.com/en/technology/applovin)
+- [AppLovin Corporation suppliers manufacturers](https://www.greatfallstribune.com/press-release/story/84321/stagwell-stgw-announces-strategic-partnership-with-applovin-to-accelerate-client-advantage-in-performance-marketing/)
+- [AppLovin Corporation suppliers manufacturers](https://danelfin.com/stocks/ARBE-arbe-robotics-vs-APP-applovin-compare)
+- [AppLovin Corporation major customers clients](https://www.applovin.com/)
+- [AppLovin Corporation major customers clients](https://finance.yahoo.com/news/bull-day-applovin-corporation-app-090000239.html)
 
 ## 元数据
 
-- **更新日期**: 2026-03-27
+- **更新日期**: 2026-03-30

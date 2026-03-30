@@ -5,32 +5,33 @@
   "industry": "Software - Infrastructure",
   "upstream": [
     "INTC",
+    "TSM",
+    "005930.KS",
     "NVDA",
-    "QCOM",
-    "AVGO",
-    "MSFT"
+    "QCOM"
   ],
   "downstream": [
     "Wipro",
     "Tyson Foods",
     "Bank of America",
-    "JPMorgan Chase",
+    "Walmart",
     "AT&T"
   ],
   "competitors": [
     "CSCO",
     "Fortinet",
-    "Check Point",
-    "JNPR"
+    "Check Point Software Technologies",
+    "JNPR",
+    "Sophos"
   ],
   "key_products": [
     "Next-Generation Firewall",
     "Prisma Cloud",
     "Cortex XDR",
-    "Unit 42 Threat Intelligence",
-    "GlobalProtect VPN"
+    "WildFire",
+    "GlobalProtect"
   ],
-  "extracted_at": "2026-03-27 16:49:18",
+  "extracted_at": "2026-03-30 16:51:44",
   "sources": [
     {
       "source": "Wikipedia",
@@ -46,9 +47,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.paloaltonetworks.com/",
+      "url": "https://en.wikipedia.org/wiki/Silicon_Valley",
       "query": "Palo Alto Networks, Inc. suppliers manufacturers",
-      "snippet": "Palo Alto Networks : Cloud Security Leader in First-Ever CNAPP Report. The Forrester Wave™: Cloud Workload Security, Q1 2024.KuppingerCole Leadership "
+      "snippet": "\"Silicon\" refers to the chemical element used in silicon-based transistors and integrated circuit chips, which is the focus of a large number of compu"
     },
     {
       "source": "DuckDuckGo",
@@ -58,9 +59,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.appsruntheworld.com/customers-database/vendors/view/palo-alto-networks",
+      "url": "https://www.spanglobalservices.com/blog/top-companies-using-palo-alto-networks/",
       "query": "Palo Alto Networks, Inc. major customers clients",
-      "snippet": "List of companies using or evaluating Palo Alto Networks applications, with details on their revenues, employees, industries, and locations."
+      "snippet": "Dec 9, 2025 · In this comprehensive guide, we explore the top 10 companies using Palo Alto Networks , examining how these industry leaders leverage ad"
     }
   ]
 }
