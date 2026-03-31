@@ -4,34 +4,34 @@
   "sector": "Healthcare",
   "industry": "Healthcare Plans",
   "upstream": [
-    "Pharmaceutical manufacturers (e.g., Pfizer, Johnson & Johnson)",
-    "Medical device manufacturers (e.g., Medtronic, Abbott)",
-    "Health IT vendors (e.g., Cerner, Epic Systems)",
-    "IBM",
-    "Pharmacy benefit management vendors"
+    "Pharmaceutical manufacturers",
+    "Medical device manufacturers",
+    "Health IT vendors",
+    "Pharmacy benefit managers",
+    "Laboratory services providers"
   ],
   "downstream": [
-    "GOOGL",
-    "Government programs (Medicare, Medicaid)",
-    "Individual consumers via UnitedHealthcare plans",
+    "Employers (group insurance)",
+    "Government agencies (Medicare, Medicaid)",
+    "Individual consumers",
     "Health care providers (hospitals, clinics)",
-    "Health plans for small businesses"
+    "Health plan members"
   ],
   "competitors": [
-    "Anthem",
-    "Aetna (CVS Health)",
+    "Kaiser Permanente",
+    "Aetna",
     "Cigna",
-    "Humana",
-    "Blue Cross Blue Shield"
+    "Blue Cross Blue Shield",
+    "Humana"
   ],
   "key_products": [
-    "UnitedHealthcare individual and group insurance plans",
-    "Medicare Advantage plans",
-    "Medicaid plans",
-    "OptumHealth services",
-    "OptumRx pharmacy benefit management"
+    "Health insurance plans",
+    "Health care services (Optum)",
+    "Pharmacy benefit management",
+    "Health data analytics",
+    "Wellness and preventive programs"
   ],
-  "extracted_at": "2026-03-30 16:53:13",
+  "extracted_at": "2026-03-31 16:54:12",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ca.finance.yahoo.com/news/jim-cramer-unitedhealthgroup-incorporation-unh-200611867.html",
+      "url": "https://ca.finance.yahoo.com/news/unitedhealth-group-incorporated-unh-undervalued-023512662.html",
       "query": "UnitedHealth Group Incorporated suppliers manufacturers",
-      "snippet": "UnitedHealth Group Incorporated (NYSE:UNH). Number of Hedge Fund Holders: 114. Cramer talked about UnitedHealth Group Incorporated (NYSE:UNH) during M"
+      "snippet": "UnitedHealth Group Incorporated (NYSE:UNH) operates as a diversified health care company in the US. The company has a strong economic moat, which stem"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/UNH-technical-analysis",
+      "url": "https://csimarket.com/news/unitedhealth-under-pressure-class-action-lawsuit-and-worsening-financial-metrics-raise-concerns2025-08-03024127",
       "query": "UnitedHealth Group Incorporated suppliers manufacturers",
-      "snippet": "Analyse Unitedhealth Group Incorporated 's stock charts with over 30 different indicators - CSIMarket."
+      "snippet": "In a significant turn of events for UnitedHealth Group Incorporated , a class action lawsuit has been filed against the company in the United States D"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.alpha-sense.com/earnings/unh/",
+      "url": "https://finviz.com/news/324067/unitedhealth-vs-humana-which-healthcare-stock-has-more-upside-now",
       "query": "UnitedHealth Group Incorporated major customers clients",
-      "snippet": "Unitedhealth Group Inc . unitedhealthgroup .com. UnitedHealth Group is one of the largest private health insurers and provides medical benefits to abo"
+      "snippet": "UnitedHealth Group Incorporated Price, Consensus and EPS Surprise. UnitedHealth Group Incorporated price-consensus-eps-surprise-chart | UnitedHealth G"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/news/jim-cramer-unitedhealthgroup-incorporation-unh-200611867.html",
+      "url": "https://finance.yahoo.com/news/unitedhealth-group-incorporated-unh-bull-160702221.html?ref=biztoc.com",
       "query": "UnitedHealth Group Incorporated major customers clients",
-      "snippet": "UnitedHealth Group Incorporated (NYSE:UNH). Number of Hedge Fund Holders: 114.UNH is the only health insurer that regularly beats earnings. Nothing's "
+      "snippet": "UnitedHealth Group Incorporated operates as a health care company in the United States and internationally. Health insurers like UnitedHealth Group (U"
     }
   ]
 }

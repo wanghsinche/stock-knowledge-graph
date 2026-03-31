@@ -4,34 +4,37 @@
   "sector": "Communication Services",
   "industry": "Internet Content & Information",
   "upstream": [
-    "NVDA",
     "TSM",
-    "Hardware suppliers (e.g., Foxconn, Pegatron)",
-    "DELL",
+    "005930.KS",
+    "INTC",
+    "NVDA",
     "CSCO"
   ],
   "downstream": [
+    "AMZN",
+    "005930.KS",
     "GOOGL",
-    "Android mobile device users",
-    "GOOGL",
-    "GOOGL",
+    "YouTube content creators",
     "GOOGL"
   ],
   "competitors": [
-    "MSFT",
-    "AMZN",
     "META",
+    "AMZN",
+    "MSFT",
     "AAPL",
     "Tencent"
   ],
   "key_products": [
     "Google Search",
-    "Google Ads",
-    "Google Cloud Platform",
     "YouTube",
-    "Android OS"
+    "Google Cloud",
+    "Android OS",
+    "Google Ads",
+    "Google Maps",
+    "Google Chrome",
+    "Google Workspace"
   ],
-  "extracted_at": "2026-03-30 16:48:08",
+  "extracted_at": "2026-03-31 16:51:23",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,21 +50,21 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ru.wikipedia.org/wiki/Alphabet",
+      "url": "https://csimarket.com/stocks/GOOG-Suppliers",
       "query": "Alphabet Inc. suppliers manufacturers",
-      "snippet": "Alphabet Inc . — холдинговая компания, управляющая компанией Google Inc и её дочерними структурами, а также рядом стартапов. Штаб-квартира расположена"
+      "snippet": "Alphabet Inc supply chain, list and performance of Alphabet Incs ' suppliers - CSIMarket."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Alphabet_Inc.",
+      "url": "https://csimarket.com/stocks/GOOGL-Customers",
       "query": "Alphabet Inc. major customers clients",
-      "snippet": "Alphabet Inc . is an American multinational technology conglomerate holding company headquartered in Mountain View, California. It was created through"
+      "snippet": "Feb 9, 2026 · For your research, we’ve provided 9 tables on Alphabet Inc corporate clients . You can find them in the navigation menu under Customers "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ru.wikipedia.org/wiki/Alphabet",
+      "url": "https://pitchgrade.com/companies/alphabet-inc",
       "query": "Alphabet Inc. major customers clients",
-      "snippet": "Alphabet Inc . — холдинговая компания, управляющая компанией Google Inc и её дочерними структурами, а также рядом стартапов. Штаб-квартира расположена"
+      "snippet": "Jan 15, 2026 · Customer Segments: Alphabet Inc . serves multiple distinct customer segments, which may include consumers, small and medium businesses,"
     }
   ]
 }

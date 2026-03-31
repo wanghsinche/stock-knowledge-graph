@@ -1,13 +1,37 @@
 {
   "ticker": "LITE",
   "company_name": "Lumentum Holdings Inc.",
-  "sector": "Technology",
-  "industry": "Communication Equipment",
-  "upstream": [],
-  "downstream": [],
-  "competitors": [],
-  "key_products": [],
-  "extracted_at": "2026-03-30 16:47:57",
+  "sector": "Technology / Communication Equipment",
+  "industry": "Optical Communications",
+  "upstream": [
+    "Coherent Inc.",
+    "II-VI Incorporated",
+    "Lattice Photonics",
+    "Lumenis",
+    "Trumpf"
+  ],
+  "downstream": [
+    "CSCO",
+    "Huawei Technologies",
+    "Nokia",
+    "JNPR",
+    "ANET"
+  ],
+  "competitors": [
+    "Coherent Inc.",
+    "II-VI Incorporated",
+    "Lattice Photonics",
+    "Lumenis",
+    "Trumpf"
+  ],
+  "key_products": [
+    "Optical transceivers",
+    "Laser diodes",
+    "Photonic integrated circuits",
+    "Optical amplifiers",
+    "Optical switches"
+  ],
+  "extracted_at": "2026-03-31 16:51:58",
   "sources": [
     {
       "source": "Wikipedia",
@@ -17,15 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Lumentum",
+      "url": "https://csimarket.com/stocks/suppliers_glance.php?code=LITE",
       "query": "Lumentum Holdings Inc. suppliers manufacturers",
-      "snippet": "Lumentum Holdings Inc . is an American manufacturer of optical and photonic products. It was created in 2015 as a spinoff from JDSU."
+      "snippet": "Lumentum Holdings Inc supply chain, list and performance of Lumentum Holdings Incs ' suppliers - CSIMarket."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.lumentum.com/en/company/distributors",
+      "url": "https://stockanalysis.com/stocks/lite/company/",
       "query": "Lumentum Holdings Inc. suppliers manufacturers",
-      "snippet": "Please contact customer service and they will direct you to a distributor near you. Lumentum is a global leader in optical and photonic products, enab"
+      "snippet": "Company Description. Lumentum Holdings Inc . manufactures and sells optical and photonic products in the Americas, the Asia-Pacific, Europe, the Middl"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/LITE-Customers",
+      "query": "Lumentum Holdings Inc. major customers clients",
+      "snippet": "Lumentum Holdings Inc customers and markets, results by customer and performance relative to LITE, by company and industry - CSIMarket."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.investing.com/equities/lumentum-holdings-inc",
+      "query": "Lumentum Holdings Inc. major customers clients",
+      "snippet": "What Is the Lumentum Holdings Inc Stock Price Today?Execution Risks. Customer concentration among Big-5 hyperscalers and premium valuations create vul"
     }
   ]
 }

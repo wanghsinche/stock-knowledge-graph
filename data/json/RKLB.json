@@ -1,13 +1,37 @@
 {
   "ticker": "RKLB",
   "company_name": "Rocket Lab Corporation",
-  "sector": "Industrials",
-  "industry": "Aerospace & Defense",
-  "upstream": [],
-  "downstream": [],
-  "competitors": [],
-  "key_products": [],
-  "extracted_at": "2026-03-27 16:49:53",
+  "sector": "Industrials / Aerospace & Defense",
+  "industry": "Aerospace Manufacturing",
+  "upstream": [
+    "Thales",
+    "Honeywell",
+    "Lockheed Martin",
+    "Northrop Grumman",
+    "Raytheon Technologies"
+  ],
+  "downstream": [
+    "Planet Labs",
+    "Spire Global",
+    "NASA",
+    "U.S. Department of Defense",
+    "SpaceX"
+  ],
+  "competitors": [
+    "SpaceX",
+    "Blue Origin",
+    "Relativity Space",
+    "Virgin Orbit",
+    "Astra"
+  ],
+  "key_products": [
+    "Electron orbital rocket",
+    "HASTE suborbital testbed",
+    "Neutron medium‑lift launch vehicle",
+    "Satellite components (star trackers, reaction wheels, solar panels, SDRs, composite structures, separation systems, EO/IR)",
+    "Launch services"
+  ],
+  "extracted_at": "2026-03-31 16:57:54",
   "sources": [
     {
       "source": "Wikipedia",
@@ -17,15 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Planet_Labs",
+      "url": "https://rocketlabcorp.com/",
       "query": "Rocket Lab Corporation suppliers manufacturers",
-      "snippet": "Planet Labs PBC (formerly Planet Labs , Inc. and Cosmogia, Inc.), known as \"Planet.\", is a publicly traded American Earth imaging company based in San"
+      "snippet": "Cumulative Years In Space For Rocket Lab Satellite Technology. From Idea To Orbit. Rocket Lab is an end-to-end space company delivering reliable launc"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-corporation-rklb-secures-195916877.html",
+      "query": "Rocket Lab Corporation suppliers manufacturers",
+      "snippet": "Rocket Lab Corporation (NASDAQ:RKLB) provides defense services as a prime contractor for the U.S. Space Development Agency (SDA), designing and manufa"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://rocketlabcorp.com/",
-      "query": "Rocket Lab Corporation suppliers manufacturers",
+      "query": "Rocket Lab Corporation major customers clients",
       "snippet": "Cumulative Years In Space For Rocket Lab Satellite Technology. From Idea To Orbit. Rocket Lab is an end-to-end space company delivering reliable launc"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://finance.yahoo.com/sectors/technology/articles/rocket-lab-receives-regulatory-approval-201500208.html",
+      "query": "Rocket Lab Corporation major customers clients",
+      "snippet": "Rocket Lab Corporation .Through previous acquisitions Rocket Lab has a strong track record of taking satellite subsystems and components previously on"
     }
   ]
 }

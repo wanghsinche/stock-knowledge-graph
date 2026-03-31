@@ -5,33 +5,33 @@
   "industry": "Internet Content & Information",
   "upstream": [
     "NVDA",
-    "AMD",
-    "INTC",
+    "MSFT",
     "CSCO",
-    "DELL"
+    "QCOM",
+    "Content delivery network providers (Akamai)"
   ],
   "downstream": [
-    "Advertisers",
-    "App developers",
-    "Content creators",
-    "Brands",
-    "Businesses"
+    "Global advertisers (e.g., Coca‑Cola, Nike)",
+    "META",
+    "Content creators and influencers",
+    "META",
+    "META"
   ],
   "competitors": [
     "GOOGL",
-    "AMZN",
-    "AAPL",
-    "MSFT",
-    "Snap Inc."
+    "ByteDance (TikTok)",
+    "Snap Inc.",
+    "Twitter (X)",
+    "MSFT"
   ],
   "key_products": [
     "Facebook",
     "Instagram",
     "WhatsApp",
     "Messenger",
-    "Meta Ads"
+    "Meta Quest"
   ],
-  "extracted_at": "2026-03-30 16:46:51",
+  "extracted_at": "2026-03-31 16:49:53",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,7 +43,7 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Meta_Platforms",
       "query": "Meta Platforms, Inc. suppliers manufacturers",
-      "snippet": "3 days ago - Meta Platforms, Inc. (doing business as Meta) is an American multinational technology company headquartered in Menlo Park, California. Me"
+      "snippet": "39 minutes ago - Meta Platforms, Inc. (doing business as Meta) is an American multinational technology company headquartered in Menlo Park, California"
     },
     {
       "source": "DuckDuckGo",
@@ -53,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Meta_Platforms",
-      "query": "Meta Platforms, Inc. major customers clients",
-      "snippet": "Meta Platforms , Inc . (doing business as Meta) is an American multinational technology company headquartered in Menlo Park, California. Meta owns and"
-    },
-    {
-      "source": "DuckDuckGo",
       "url": "https://csimarket.com/stocks/META-Customers",
       "query": "Meta Platforms, Inc. major customers clients",
       "snippet": "For your research, we’ve provided 9 tables on Meta Platforms Inc corporate clients . You can find them in the navigation menu under Customers & Market"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.statista.com/topics/9038/meta-platforms/",
+      "query": "Meta Platforms, Inc. major customers clients",
+      "snippet": "Dec 17, 2025 · From humble beginnings to audiences of billions, Mark Zuckerberg’s Meta remains king of the social media jungle. Research expert coveri"
     }
   ]
 }

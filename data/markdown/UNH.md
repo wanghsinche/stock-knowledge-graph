@@ -3,8 +3,8 @@ ticker: UNH
 company: UnitedHealth Group Incorporated
 sector: Healthcare
 industry: Healthcare Plans
-extracted_at: 2026-03-30 16:53:13
-last_updated: 2026-03-30
+extracted_at: 2026-03-31 16:54:12
+last_updated: 2026-03-31
 ---
 
 # UNH - UnitedHealth Group Incorporated
@@ -12,46 +12,46 @@ last_updated: 2026-03-30
 ## 基本信息
 
 - **所属行业**: Healthcare / Healthcare Plans
-- **提取时间**: 2026-03-30 16:53:13
+- **提取时间**: 2026-03-31 16:54:12
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Pharmaceutical manufacturers (e.g., Pfizer, Johnson & Johnson)]]
-- [[Medical device manufacturers (e.g., Medtronic, Abbott)]]
-- [[Health IT vendors (e.g., Cerner, Epic Systems)]]
-- [[IBM]]
-- [[Pharmacy benefit management vendors]]
+- [[Pharmaceutical manufacturers]]
+- [[Medical device manufacturers]]
+- [[Health IT vendors]]
+- [[Pharmacy benefit managers]]
+- [[Laboratory services providers]]
 
 ### 下游客户
-- [[GOOGL]]
-- [[Government programs (Medicare, Medicaid)]]
-- [[Individual consumers via UnitedHealthcare plans]]
+- [[Employers (group insurance)]]
+- [[Government agencies (Medicare, Medicaid)]]
+- [[Individual consumers]]
 - [[Health care providers (hospitals, clinics)]]
-- [[Health plans for small businesses]]
+- [[Health plan members]]
 
 ### 竞争对手
-- [[Anthem]]
-- [[Aetna (CVS Health)]]
+- [[Kaiser Permanente]]
+- [[Aetna]]
 - [[Cigna]]
-- [[Humana]]
 - [[Blue Cross Blue Shield]]
+- [[Humana]]
 
 ### 核心产品
-- [[UnitedHealthcare individual and group insurance plans]]
-- [[Medicare Advantage plans]]
-- [[Medicaid plans]]
-- [[OptumHealth services]]
-- [[OptumRx pharmacy benefit management]]
+- [[Health insurance plans]]
+- [[Health care services (Optum)]]
+- [[Pharmacy benefit management]]
+- [[Health data analytics]]
+- [[Wellness and preventive programs]]
 
 ## 数据来源
 
 - [UnitedHealth Group](https://en.wikipedia.org/wiki/UnitedHealth_Group_Incorporated)
-- [UnitedHealth Group Incorporated suppliers manufacturers](https://ca.finance.yahoo.com/news/jim-cramer-unitedhealthgroup-incorporation-unh-200611867.html)
-- [UnitedHealth Group Incorporated suppliers manufacturers](https://csimarket.com/stocks/UNH-technical-analysis)
-- [UnitedHealth Group Incorporated major customers clients](https://www.alpha-sense.com/earnings/unh/)
-- [UnitedHealth Group Incorporated major customers clients](https://finance.yahoo.com/news/jim-cramer-unitedhealthgroup-incorporation-unh-200611867.html)
+- [UnitedHealth Group Incorporated suppliers manufacturers](https://ca.finance.yahoo.com/news/unitedhealth-group-incorporated-unh-undervalued-023512662.html)
+- [UnitedHealth Group Incorporated suppliers manufacturers](https://csimarket.com/news/unitedhealth-under-pressure-class-action-lawsuit-and-worsening-financial-metrics-raise-concerns2025-08-03024127)
+- [UnitedHealth Group Incorporated major customers clients](https://finviz.com/news/324067/unitedhealth-vs-humana-which-healthcare-stock-has-more-upside-now)
+- [UnitedHealth Group Incorporated major customers clients](https://finance.yahoo.com/news/unitedhealth-group-incorporated-unh-bull-160702221.html?ref=biztoc.com)
 
 ## 元数据
 
-- **更新日期**: 2026-03-30
+- **更新日期**: 2026-03-31

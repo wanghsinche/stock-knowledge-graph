@@ -3,8 +3,8 @@ ticker: GS
 company: The Goldman Sachs Group, Inc.
 sector: Financial Services
 industry: Capital Markets
-extracted_at: 2026-03-27 16:51:06
-last_updated: 2026-03-27
+extracted_at: 2026-03-31 16:58:33
+last_updated: 2026-03-31
 ---
 
 # GS - The Goldman Sachs Group, Inc.
@@ -12,37 +12,37 @@ last_updated: 2026-03-27
 ## 基本信息
 
 - **所属行业**: Financial Services / Capital Markets
-- **提取时间**: 2026-03-27 16:51:06
+- **提取时间**: 2026-03-31 16:58:33
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Technology vendors (e.g., Bloomberg, Refinitiv)]]
-- [[Data providers (e.g., FactSet)]]
-- [[Legal & compliance services]]
-- [[Risk management software providers]]
-- [[Cloud infrastructure providers (e.g., AWS)]]
+- [[Bloomberg L.P.]]
+- [[FactSet Research Systems]]
+- [[Thomson Reuters]]
+- [[S&P Global]]
+- [[McKinsey & Company]]
 
 ### 下游客户
-- [[Corporate clients (e.g., Fortune 500 companies)]]
-- [[Sovereign and municipal governments]]
-- [[Institutional investors (pension funds, mutual funds)]]
-- [[High-net-worth individuals]]
-- [[Retail brokerage clients]]
+- [[Corporate clients]]
+- [[Government entities]]
+- [[Institutional investors]]
+- [[Pension funds]]
+- [[High net worth individuals]]
 
 ### 竞争对手
 - [[JPMorgan Chase & Co.]]
 - [[Morgan Stanley]]
-- [[Bank of America Merrill Lynch]]
-- [[Citigroup]]
-- [[Credit Suisse]]
+- [[Bank of America Corporation]]
+- [[Citigroup Inc.]]
+- [[Wells Fargo & Company]]
 
 ### 核心产品
-- [[Investment banking advisory]]
+- [[Investment banking]]
+- [[Securities underwriting]]
 - [[Asset management]]
-- [[Securities brokerage]]
 - [[Wealth management]]
-- [[Capital markets trading]]
+- [[Research & analytics]]
 
 ## 数据来源
 
@@ -54,4 +54,4 @@ last_updated: 2026-03-27
 
 ## 元数据
 
-- **更新日期**: 2026-03-27
+- **更新日期**: 2026-03-31

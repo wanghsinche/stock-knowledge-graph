@@ -1,8 +1,8 @@
 {
   "ticker": "CRWV",
   "company_name": "CoreWeave, Inc.",
-  "sector": "Technology",
-  "industry": "Software - Infrastructure",
+  "sector": "Technology / Software - Infrastructure",
+  "industry": "Artificial Intelligence Cloud Computing",
   "upstream": [
     "NVDA",
     "AMD",
@@ -11,27 +11,27 @@
     "Xilinx"
   ],
   "downstream": [
-    "AI research labs",
-    "Enterprise AI teams",
-    "Game development studios",
-    "Deep learning startups",
-    "Academic research institutions"
+    "OpenAI",
+    "IBM",
+    "MSFT",
+    "AMZN",
+    "GOOGL"
   ],
   "competitors": [
+    "NVDA",
+    "GOOGL",
     "AMZN",
     "MSFT",
-    "GOOGL",
-    "Paperspace",
     "Lambda Labs"
   ],
   "key_products": [
-    "GPU‑based cloud computing platform",
-    "GPU infrastructure management software",
-    "AI workload orchestration",
-    "High‑performance compute clusters",
-    "Custom GPU node configurations"
+    "GPU‑based cloud infrastructure",
+    "GPU‑as‑a‑Service (GPUaaS)",
+    "AI compute clusters",
+    "GPU management and scheduling software",
+    "AI inference services"
   ],
-  "extracted_at": "2026-03-30 16:51:13",
+  "extracted_at": "2026-03-31 16:52:51",
   "sources": [
     {
       "source": "Wikipedia",
@@ -55,13 +55,13 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/CoreWeave",
       "query": "CoreWeave, Inc. major customers clients",
-      "snippet": "CoreWeave , Inc . is an American artificial intelligence cloud-computing company based in Livingston, New Jersey. It specializes in providing cloud-ba"
+      "snippet": "CoreWeave , Inc . is an American artificial intelligence (AI) cloud-computing company based in Livingston, New Jersey. It specializes in providing clo"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.coreweave.com/",
+      "url": "https://www.coreweave.com/case-studies",
       "query": "CoreWeave, Inc. major customers clients",
-      "snippet": "CoreWeave Inc .’s."
+      "snippet": "Learn how CoreWeave customers like OpenAI and IBM are provisioning the GPUs they need and building AI infrastructure on a massive scale with unprecede"
     }
   ]
 }

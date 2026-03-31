@@ -1,57 +1,57 @@
 ---
 ticker: WMT
 company: Walmart Inc.
-sector: Consumer Defensive
-industry: Discount Stores
-extracted_at: 2026-03-30 16:50:03
-last_updated: 2026-03-30
+sector: Consumer Defensive / Discount Stores
+industry: Retail - Discount Stores
+extracted_at: 2026-03-31 16:56:26
+last_updated: 2026-03-31
 ---
 
 # WMT - Walmart Inc.
 
 ## 基本信息
 
-- **所属行业**: Consumer Defensive / Discount Stores
-- **提取时间**: 2026-03-30 16:50:03
+- **所属行业**: Consumer Defensive / Discount Stores / Retail - Discount Stores
+- **提取时间**: 2026-03-31 16:56:26
 
 ## 产业链关系
 
 ### 上游供应商
 - [[Procter & Gamble]]
 - [[Coca‑Cola]]
+- [[PepsiCo]]
 - [[Nestlé]]
-- [[005930.KS]]
-- [[Johnson & Johnson]]
+- [[Unilever]]
 
 ### 下游客户
-- [[Individual consumers]]
+- [[Consumers]]
 - [[Online shoppers]]
 - [[Small businesses]]
-- [[Corporate buyers]]
-- [[Government agencies]]
+- [[Local communities]]
+- [[Employees]]
 
 ### 竞争对手
-- [[Target Corporation]]
-- [[Costco Wholesale]]
+- [[Target]]
+- [[Costco]]
 - [[AMZN]]
-- [[BJ’s Wholesale Club]]
-- [[Dollar General]]
+- [[Kroger]]
+- [[Home Depot]]
 
 ### 核心产品
 - [[Groceries]]
 - [[Apparel]]
 - [[Electronics]]
 - [[Household goods]]
-- [[Pharmacy products]]
+- [[Private‑label brands]]
 
 ## 数据来源
 
 - [Walmart](https://en.wikipedia.org/wiki/Walmart_Inc.)
-- [Walmart Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/Walmart)
-- [Walmart Inc. suppliers manufacturers](https://ru.wikipedia.org/wiki/Walmart)
-- [Walmart Inc. major customers clients](https://en.wikipedia.org/wiki/Walmart)
-- [Walmart Inc. major customers clients](https://www.wal-mart.com/)
+- [Walmart Inc. suppliers manufacturers](https://corporate.walmart.com/suppliers)
+- [Walmart Inc. suppliers manufacturers](https://www.investopedia.com/articles/insights/050116/walmart-stock-analyzing-5-key-suppliers-wmt.asp)
+- [Walmart Inc. major customers clients](https://capitaloneshopping.com/research/walmart-statistics/)
+- [Walmart Inc. major customers clients](https://csimarket.com/stocks/WMT-Customers)
 
 ## 元数据
 
-- **更新日期**: 2026-03-30
+- **更新日期**: 2026-03-31

@@ -3,8 +3,8 @@ ticker: OXY
 company: Occidental Petroleum Corporation
 sector: Energy
 industry: Oil & Gas E&P
-extracted_at: 2026-03-30 16:54:54
-last_updated: 2026-03-30
+extracted_at: 2026-03-31 16:57:34
+last_updated: 2026-03-31
 ---
 
 # OXY - Occidental Petroleum Corporation
@@ -12,38 +12,37 @@ last_updated: 2026-03-30
 ## 基本信息
 
 - **所属行业**: Energy / Oil & Gas E&P
-- **提取时间**: 2026-03-30 16:54:54
+- **提取时间**: 2026-03-31 16:57:34
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Crude oil suppliers]]
-- [[Natural gas producers]]
-- [[Petrochemical raw material suppliers]]
-- [[Exploration equipment manufacturers]]
-- [[Drilling rig operators]]
+- [[Halliburton]]
+- [[Schlumberger]]
+- [[Baker Hughes]]
+- [[Weatherford]]
+- [[National Oilwell Varco]]
 
 ### 下游客户
-- [[Gasoline retailers]]
-- [[Diesel distributors]]
-- [[Kerosene suppliers to airlines]]
+- [[Refineries]]
 - [[Petrochemical plants]]
-- [[Industrial fuel customers]]
+- [[Fuel distributors]]
+- [[Airlines]]
+- [[Automotive industry]]
 
 ### 竞争对手
 - [[ExxonMobil]]
 - [[Chevron]]
 - [[ConocoPhillips]]
-- [[Shell]]
-- [[BP]]
+- [[EOG Resources]]
+- [[Marathon Oil]]
 
 ### 核心产品
 - [[Crude oil]]
 - [[Natural gas]]
 - [[Gasoline]]
 - [[Diesel]]
-- [[Kerosene]]
-- [[Petrochemical feedstocks (ethylene, propylene)]]
+- [[Petrochemicals (ethylene, propylene, methanol)]]
 
 ## 数据来源
 
@@ -55,4 +54,4 @@ last_updated: 2026-03-30
 
 ## 元数据
 
-- **更新日期**: 2026-03-30
+- **更新日期**: 2026-03-31

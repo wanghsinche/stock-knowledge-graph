@@ -1,37 +1,37 @@
 {
   "ticker": "WDC",
   "company_name": "Western Digital Corporation",
-  "sector": "Technology",
-  "industry": "Computer Hardware",
+  "sector": "Technology / Computer Hardware",
+  "industry": "Hard Disk Drives / Data Storage",
   "upstream": [
     "005930.KS",
-    "SK Hynix",
     "MU",
-    "TDK Corporation",
-    "Toshiba Corporation"
+    "SK Hynix",
+    "GlobalFoundries",
+    "TSM"
   ],
   "downstream": [
     "DELL",
     "HPQ",
     "Lenovo Group",
-    "IBM",
-    "AAPL"
+    "AAPL",
+    "AMZN"
   ],
   "competitors": [
     "STX",
     "Toshiba Corporation",
     "005930.KS",
     "MU",
-    "Kingston Technology"
+    "IBM"
   ],
   "key_products": [
-    "Hard Disk Drives (HDDs)",
-    "Solid State Drives (SSDs)",
-    "External Storage Devices",
-    "Network Attached Storage (NAS) Solutions",
-    "Enterprise Storage Systems"
+    "WD Blue HDD",
+    "WD Red HDD",
+    "WD Black SSD",
+    "WD My Passport",
+    "WD My Cloud"
   ],
-  "extracted_at": "2026-03-30 16:49:26",
+  "extracted_at": "2026-03-31 16:54:44",
   "sources": [
     {
       "source": "Wikipedia",
@@ -53,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/WDC-Customers",
+      "url": "https://matrixbcg.com/blogs/target-market/westerndigital",
       "query": "Western Digital Corporation major customers clients",
-      "snippet": "Western Digital customers and markets, results by customer and performance relative to WDC, by company and industry - CSIMarket"
+      "snippet": "Dec 24, 2025 · Western Digital's customer base is incredibly diverse, ranging from individual consumers to large enterprises and cloud service provide"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://data.landbase.com/technology/western-digital/",
+      "url": "https://www.tikr.com/blog/western-digital-surged-550-last-year-and-analysts-see-more-upside-in-2026?",
       "query": "Western Digital Corporation major customers clients",
-      "snippet": "Aug 17, 2025 · Our Western Digital customers list is available for download and comes enriched with vital company specifics, including industry classi"
+      "snippet": "1 day ago · Firm purchase orders through all of calendar 2026 with WD's top seven hyperscaler customers, combined with the $4.0 billion buyback approv"
     }
   ]
 }

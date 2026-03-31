@@ -3,11 +3,35 @@
   "company_name": "Eli Lilly and Company",
   "sector": "Healthcare",
   "industry": "Drug Manufacturers - General",
-  "upstream": [],
-  "downstream": [],
-  "competitors": [],
-  "key_products": [],
-  "extracted_at": "2026-03-30 16:50:51",
+  "upstream": [
+    "Contract pharmaceutical manufacturers",
+    "Chemical suppliers (active pharmaceutical ingredients)",
+    "Biotech contract research organizations",
+    "Packaging and labeling suppliers",
+    "Logistics and cold‑chain providers"
+  ],
+  "downstream": [
+    "Hospitals and health systems",
+    "Pharmacies and retail chains",
+    "Government health agencies",
+    "Insurance providers",
+    "International health ministries"
+  ],
+  "competitors": [
+    "Pfizer",
+    "Johnson & Johnson",
+    "Merck & Co.",
+    "AbbVie",
+    "Bristol Myers Squibb"
+  ],
+  "key_products": [
+    "Humulin (insulin)",
+    "Lantus (insulin glargine)",
+    "Trulicity (dulaglutide)",
+    "Mounjaro (tirzepatide)",
+    "Cymbalta (duloxetine)"
+  ],
+  "extracted_at": "2026-03-31 16:53:40",
   "sources": [
     {
       "source": "Wikipedia",
@@ -23,9 +47,21 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ru.wikipedia.org/wiki/Eli_Lilly_and_Company",
+      "url": "https://www.lilly.com/",
       "query": "Eli Lilly and Company suppliers manufacturers",
-      "snippet": "Eli Lilly and Company — американская фармацевтическая компания. Была основана в 1876 году в Индианаполисе, где по-прежнему располагается её штаб-кварт"
+      "snippet": "Lilly is a medicine company that puts health above all. Learn about our medicines, view condition support, find care, and much more. Lilly employee wo"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/LLY-Customers",
+      "query": "Eli Lilly and Company major customers clients",
+      "snippet": "Mar 17, 2026 · Eli Lilly customers and markets, results by customer and performance relative to LLY, by company and industry - CSIMarket"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.hivelr.com/2023/08/eli-lilly-porters-five-forces-industry-and-competition-analysis/",
+      "query": "Eli Lilly and Company major customers clients",
+      "snippet": "Aug 30, 2023 · Overall, while buyers have some influence, Eli Lilly ’s strong portfolio of pharmaceuticals and brand reputation often allows the compa"
     }
   ]
 }

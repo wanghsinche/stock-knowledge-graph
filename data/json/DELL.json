@@ -8,30 +8,30 @@
     "AMD",
     "NVDA",
     "005930.KS",
-    "TSM"
+    "MU"
   ],
   "downstream": [
-    "U.S. Department of Defense",
-    "Large enterprises (e.g., Walmart, JPMorgan)",
+    "United States Department of Defense",
+    "Fortune 500 companies",
     "CAT",
-    "Government agencies worldwide",
-    "DELL"
+    "Healthcare providers",
+    "Government agencies"
   ],
   "competitors": [
     "HPQ",
     "Lenovo",
+    "AAPL",
     "Acer",
-    "Asus",
-    "AAPL"
+    "Asus"
   ],
   "key_products": [
-    "Personal computers (Inspiron, XPS)",
-    "Servers (PowerEdge)",
-    "Monitors (UltraSharp)",
-    "Computer security & network security solutions",
-    "Information security services"
+    "Personal computers",
+    "Servers",
+    "Monitors",
+    "Storage solutions",
+    "Networking equipment"
   ],
-  "extracted_at": "2026-03-27 16:52:11",
+  "extracted_at": "2026-03-31 16:54:33",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.delltechnologies.com/asset/pl-pl/solutions/business-solutions/briefs-summaries/dell-public-supplier-list.pdf",
+      "url": "https://en.wikipedia.org/wiki/Dell",
       "query": "Dell Technologies Inc. suppliers manufacturers",
-      "snippet": "Public Supplier List The list of supplier facilities includes original design manufacturers (ODMs), final assembly and material suppliers that Dell bu"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/DELL-Suppliers",
-      "query": "Dell Technologies Inc. suppliers manufacturers",
-      "snippet": "Dell Technologies Inc's Sup pliers recorded an increase in sales by 17.2 % year on year in Q3 2025, sequentially sales grew by 7.56 %, Dell Technologi"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Dell_Technologies",
-      "query": "Dell Technologies Inc. major customers clients",
-      "snippet": "Dell Technologies Inc . is an American multinational technology company that has been headquartered in Round Rock, Texas since 1994. It was formed as "
+      "snippet": "Dell Inc ., formerly Dell Computer Corporation, is an American technology company that develops, sells, repairs, and supports personal computers (PCs)"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://ru.wikipedia.org/wiki/Dell",
-      "query": "Dell Technologies Inc. major customers clients",
+      "query": "Dell Technologies Inc. suppliers manufacturers",
       "snippet": "Dell Inc . — американская компания, один из крупнейших в мире производителей вычислительной техники. Штаб-квартира находится в Раунд-Роке в штате Теха"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/DELL-Customers",
+      "query": "Dell Technologies Inc. major customers clients",
+      "snippet": "Mar 23, 2026 · For your research, we’ve provided 9 tables on Dell Technologies Inc corporate clients . You can find them in the navigation menu under "
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.dell.com/en-us/lp/dt/customer-stories",
+      "query": "Dell Technologies Inc. major customers clients",
+      "snippet": "The Dell Technologies digital transformation library showcases how some of the largest brands bring their ideas to life, and their products to market."
     }
   ]
 }

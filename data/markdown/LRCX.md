@@ -3,8 +3,8 @@ ticker: LRCX
 company: Lam Research Corporation
 sector: Technology
 industry: Semiconductor Equipment & Materials
-extracted_at: 2026-03-30 16:51:23
-last_updated: 2026-03-30
+extracted_at: 2026-03-31 16:56:05
+last_updated: 2026-03-31
 ---
 
 # LRCX - Lam Research Corporation
@@ -12,16 +12,16 @@ last_updated: 2026-03-30
 ## 基本信息
 
 - **所属行业**: Technology / Semiconductor Equipment & Materials
-- **提取时间**: 2026-03-30 16:51:23
+- **提取时间**: 2026-03-31 16:56:05
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Silicon wafer suppliers (e.g., Shin-Etsu Chemical, Sumitomo Chemical)]]
-- [[Industrial gases (e.g., Air Liquide, Linde)]]
-- [[Chemical suppliers (e.g., BASF, Dow Chemical)]]
-- [[AMAT]]
-- [[Cleanroom and facility equipment vendors (e.g., Camfil, 3M)]]
+- [[Air Liquide]]
+- [[Linde]]
+- [[Sumitomo Chemical]]
+- [[Shin‑Etsu Chemical]]
+- [[Bosch]]
 
 ### 下游客户
 - [[TSM]]
@@ -32,17 +32,16 @@ last_updated: 2026-03-30
 
 ### 竞争对手
 - [[AMAT]]
-- [[Tokyo Electron]]
 - [[ASML]]
-- [[KLA Corporation]]
-- [[Veeco Instruments]]
+- [[Tokyo Electron]]
+- [[KLA]]
 
 ### 核心产品
 - [[Plasma etch systems]]
-- [[Plasma deposition systems]]
-- [[Wafer cleaning equipment]]
-- [[Wafer-level packaging (WLP) tools]]
-- [[Back-end processing equipment]]
+- [[Deposition systems]]
+- [[Plasma cleaning systems]]
+- [[Wafer‑level packaging equipment]]
+- [[Front‑end wafer processing equipment]]
 
 ## 数据来源
 
@@ -54,4 +53,4 @@ last_updated: 2026-03-30
 
 ## 元数据
 
-- **更新日期**: 2026-03-30
+- **更新日期**: 2026-03-31

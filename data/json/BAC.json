@@ -4,34 +4,36 @@
   "sector": "Financial Services",
   "industry": "Banks - Diversified",
   "upstream": [
-    "Technology vendors",
-    "Office equipment suppliers",
-    "Security and surveillance providers",
-    "Legal and compliance service firms",
-    "Consulting and advisory firms"
+    "MSFT",
+    "ORCL",
+    "IBM",
+    "CRM",
+    "AMZN"
   ],
   "downstream": [
     "Retail banking customers",
-    "Corporate and commercial clients",
-    "Small and medium enterprises (SMEs)",
-    "High‑net‑worth individuals",
-    "Government and public sector entities"
+    "Small and medium enterprises",
+    "Large corporations",
+    "Institutional investors",
+    "Government entities"
   ],
   "competitors": [
-    "JPMorgan Chase & Co.",
-    "Citigroup Inc.",
-    "Wells Fargo & Co.",
-    "Goldman Sachs Group Inc.",
+    "JPMorgan Chase",
+    "Citigroup",
+    "Wells Fargo",
+    "Goldman Sachs",
     "Morgan Stanley"
   ],
   "key_products": [
-    "Retail banking services (checking, savings, mortgages)",
-    "Commercial banking and lending",
-    "Investment banking and advisory",
-    "Wealth and asset management",
-    "Credit card and payment services"
+    "Consumer banking",
+    "Commercial banking",
+    "Investment banking",
+    "Wealth management",
+    "Credit cards",
+    "Mortgage loans",
+    "Asset management"
   ],
-  "extracted_at": "2026-03-27 16:52:42",
+  "extracted_at": "2026-03-31 16:57:01",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,9 +43,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/BAC-Suppliers",
+      "url": "https://en.wikipedia.org/wiki/Bank_of_America",
       "query": "Bank of America Corporation suppliers manufacturers",
-      "snippet": "Feb 26, 2026 · Bank Of America supply chain, list and performance of Bank Of Americas' suppliers - CSIMarket"
+      "snippet": "The Bank of America Corporation (Bank of America ; often abbreviated BAC or BofA) is an American multinational investment bank and financial services "
     },
     {
       "source": "DuckDuckGo",
@@ -61,7 +63,7 @@
       "source": "DuckDuckGo",
       "url": "https://csimarket.com/stocks/BAC-Customers",
       "query": "Bank of America Corporation major customers clients",
-      "snippet": "4 days ago · Bank Of America customers and markets, results by customer and performance relative to BAC, by company and industry - CSIMarket"
+      "snippet": "For your research, we’ve provided 9 tables on Bank Of America Corporation corporate clients . You can find them in the navigation menu under Customers"
     }
   ]
 }

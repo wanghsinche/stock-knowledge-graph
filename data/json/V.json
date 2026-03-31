@@ -4,34 +4,34 @@
   "sector": "Financial Services",
   "industry": "Credit Services",
   "upstream": [
-    "NXP Semiconductors",
-    "STMicroelectronics",
-    "Plastic Card Manufacturing",
-    "AMZN",
-    "Equinix"
+    "Card manufacturing partners (e.g., Gemalto, IDEMIA)",
+    "Payment network infrastructure providers",
+    "MSFT",
+    "Security and fraud‑prevention solution providers",
+    "Data center and cloud service providers"
   ],
   "downstream": [
-    "Bank of America",
-    "JPMorgan Chase",
-    "Wells Fargo",
-    "AMZN",
-    "Walmart"
+    "Commercial banks and financial institutions",
+    "Retail merchants and e‑commerce platforms",
+    "Financial technology (fintech) companies",
+    "Consumer cardholders (credit, debit, prepaid users)",
+    "Government and public‑sector payment programs"
   ],
   "competitors": [
     "Mastercard",
     "American Express",
-    "Discover",
+    "Discover Financial Services",
     "PayPal",
-    "Square"
+    "Square (now Block, Inc.)"
   ],
   "key_products": [
-    "Visa credit cards",
-    "Visa debit cards",
-    "Visa prepaid cards",
-    "VisaNet payment network",
-    "Visa Direct"
+    "Visa payment network (VisaNet)",
+    "Credit card issuance services",
+    "Debit and prepaid card solutions",
+    "Digital wallet and mobile payment services",
+    "Transaction processing and settlement services"
   ],
-  "extracted_at": "2026-03-30 16:51:02",
+  "extracted_at": "2026-03-31 16:55:08",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,25 +43,25 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Visa_Inc.",
       "query": "Visa Inc. suppliers manufacturers",
-      "snippet": "Visa Inc is an American multinational payment card services corporation headquartered in San Francisco, California. It facilitates electronic funds .."
+      "snippet": "Visa Inc . is an American multinational payment card services corporation headquartered in San Francisco, California."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.visa.com/splisting/",
+      "url": "https://ru.wikipedia.org/wiki/Visa",
       "query": "Visa Inc. suppliers manufacturers",
-      "snippet": "Sep 8, 2022 · The Registry contains service provider information such as company name, company website, corporate headquarter country, region(s) of op"
+      "snippet": "Visa Inc . — американская транснациональная компания, предоставляющая услуги проведения платёжных операций. Является основой одноимённой ассоциации. С"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Visa_Inc.",
       "query": "Visa Inc. major customers clients",
-      "snippet": "Visa Inc . is an American multinational payment card services corporation headquartered in San Francisco, California."
+      "snippet": "Visa does not issue cards, extend credit, or set rates and fees for consumers ; rather, Visa provides financial institutions with Visa-branded payment"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.visa.com/en-us",
+      "url": "https://data.landbase.com/technology/visa/",
       "query": "Visa Inc. major customers clients",
-      "snippet": "Discover Visa personal payment solutions, secure transactions, travel support, cards and rewards designed to bring more value to your everyday experie"
+      "snippet": "Aug 17, 2025 · Our Visa customers list is available for download and comes enriched with vital company specifics, including industry classification, o"
     }
   ]
 }

@@ -1,37 +1,37 @@
 {
   "ticker": "BSX",
   "company_name": "Boston Scientific Corporation",
-  "sector": "Healthcare",
+  "sector": "Healthcare / Medical Devices",
   "industry": "Medical Devices",
   "upstream": [
-    "Thermo Fisher Scientific",
-    "Becton Dickinson",
     "Johnson & Johnson",
-    "Abbott Laboratories",
-    "Stryker Corporation"
+    "Medtronic",
+    "Abbott",
+    "Stryker",
+    "Becton Dickinson"
   ],
   "downstream": [
-    "Hospitals",
-    "Health systems",
-    "Interventional cardiology practices",
-    "Radiology departments",
-    "Physicians"
+    "UnitedHealth Group",
+    "Kaiser Permanente",
+    "Mayo Clinic",
+    "Cleveland Clinic",
+    "Johns Hopkins Medicine"
   ],
   "competitors": [
     "Medtronic",
-    "Abbott Laboratories",
+    "Abbott",
     "Johnson & Johnson",
     "Stryker",
-    "GE Healthcare"
+    "Becton Dickinson"
   ],
   "key_products": [
-    "Stents",
-    "Catheters",
-    "Pacemakers",
-    "Defibrillators",
-    "Endoscopy devices"
+    "Cardiac stents",
+    "Vascular closure devices",
+    "Neurovascular devices",
+    "Endovascular stents",
+    "Electrophysiology catheters"
   ],
-  "extracted_at": "2026-03-30 16:48:52",
+  "extracted_at": "2026-03-31 16:58:21",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ru.wikipedia.org/wiki/Boston_Scientific",
+      "url": "https://en.wikipedia.org/wiki/Boston_Scientific",
       "query": "Boston Scientific Corporation suppliers manufacturers",
+      "snippet": "In September, Boston Scientific announced it had acquired EndoChoice Holdings, Inc., becoming part of the Boston Scientific Endoscopy business for $21"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.bostonscientific.com/en-US/supplier-resource-center.html",
+      "query": "Boston Scientific Corporation suppliers manufacturers",
+      "snippet": "The purpose of the Supplier Resource Center is to provide you with an overview of what we expect in our suppliers . If, after reviewing this informati"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://ru.wikipedia.org/wiki/Boston_Scientific",
+      "query": "Boston Scientific Corporation major customers clients",
       "snippet": "Компания Boston Scientific Corporation — один из производителей медицинского оборудования и расходных материалов для хирургии, включая сердечно-сосуди"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Thermo_Fisher_Scientific",
-      "query": "Boston Scientific Corporation suppliers manufacturers",
-      "snippet": "Thermo Fisher Scientific Inc. is an American life science and clinical research company. It is a global supplier of analytical instruments, clinical d"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/BSX-Customers",
+      "url": "https://www.bostonscientific.com/",
       "query": "Boston Scientific Corporation major customers clients",
-      "snippet": "For your research, we’ve provided 9 tables on Boston Scientific Corporation corporate clients . You can find them in the navigation menu under Custome"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.bostonscientific.com/content/dam/bostonscientific/corporate/annual-report/2025-Boston-Scientific-Annual-Report.pdf.coredownload.pdf",
-      "query": "Boston Scientific Corporation major customers clients",
-      "snippet": "Boston Scientific devices and therapies help physicians diagnose and treat complex cardiovascular, respiratory, digestive, oncological, neurological a"
+      "snippet": "Boston Scientific employees signs a Boston Scientific quality wall. Corporate responsibility. How we ensure product and patient safety. At Boston Scie"
     }
   ]
 }

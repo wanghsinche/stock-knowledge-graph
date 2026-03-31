@@ -4,34 +4,34 @@
   "sector": "Financial Services",
   "industry": "Banks - Diversified",
   "upstream": [
-    "Technology vendors (e.g., software, cybersecurity)",
-    "Office equipment and furniture suppliers",
-    "Professional services (legal, consulting)",
-    "Data analytics providers",
-    "CAT"
+    "MSFT",
+    "IBM",
+    "ORCL",
+    "Accenture",
+    "DELL"
   ],
   "downstream": [
-    "Retail banking customers (individuals)",
-    "Corporate banking clients (mid‑size to large firms)",
-    "Institutional investors (pension funds, mutual funds)",
-    "Wealth management clients (high net worth individuals)",
+    "Retail banking customers",
+    "Corporate banking clients",
+    "Institutional investors",
+    "Wealth management clients",
     "Credit card holders"
   ],
   "competitors": [
-    "Bank of America (BAC)",
-    "Citigroup (C)",
-    "Wells Fargo (WFC)",
-    "Goldman Sachs (GS)",
-    "Morgan Stanley (MS)"
+    "Bank of America",
+    "Citigroup",
+    "Wells Fargo",
+    "Goldman Sachs",
+    "Morgan Stanley"
   ],
   "key_products": [
     "Retail banking services",
-    "Investment banking and advisory",
-    "Asset and wealth management",
-    "Credit cards and consumer loans",
-    "Treasury and cash management"
+    "Investment banking",
+    "Asset management",
+    "Wealth management",
+    "Credit cards and loans"
   ],
-  "extracted_at": "2026-03-30 16:54:13",
+  "extracted_at": "2026-03-31 16:54:03",
   "sources": [
     {
       "source": "Wikipedia",
@@ -59,9 +59,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ru.wikipedia.org/wiki/JPMorgan_Chase",
+      "url": "https://www.jpmorganchase.com/",
       "query": "JPMorgan Chase & Co. major customers clients",
-      "snippet": "JPMorgan Chase & Co , «Дж. П. Морган Чейз и Ко.» — американский транснациональный финансовый конгломерат, один из крупнейших банков мира, с центром уп"
+      "snippet": "JPMorganChase opened its new global headquarters at 270 Park Avenue, marking a major milestone in its commitment to New York City.Committed to service"
     }
   ]
 }

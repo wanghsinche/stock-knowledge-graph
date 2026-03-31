@@ -3,8 +3,8 @@ ticker: CCJ
 company: Cameco Corporation
 sector: Energy
 industry: Uranium
-extracted_at: 2026-03-30 16:55:40
-last_updated: 2026-03-30
+extracted_at: 2026-03-31 16:59:44
+last_updated: 2026-03-31
 ---
 
 # CCJ - Cameco Corporation
@@ -12,46 +12,46 @@ last_updated: 2026-03-30
 ## 基本信息
 
 - **所属行业**: Energy / Uranium
-- **提取时间**: 2026-03-30 16:55:40
+- **提取时间**: 2026-03-31 16:59:44
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Power Resources Inc.]]
-- [[Cameco Fuel Manufacturing]]
-- [[Uranium Energy Corp]]
-- [[Uranium Mining Inc.]]
-- [[Uranium Resources Ltd.]]
+- [[CAT]]
+- [[Komatsu Ltd.]]
+- [[Sandvik AB]]
+- [[CFM Fuel Manufacturing]]
+- [[Mining equipment suppliers]]
 
 ### 下游客户
-- [[EDF (France)]]
-- [[Westinghouse Electric Company]]
-- [[GE Hitachi Nuclear Energy]]
-- [[Canadian Nuclear Laboratories]]
-- [[U.S. Department of Energy]]
+- [[EDF]]
+- [[China National Nuclear Corporation]]
+- [[Rosatom]]
+- [[Nuclear Power Plants in Canada]]
+- [[Nuclear utilities]]
 
 ### 竞争对手
+- [[Kazatomprom]]
 - [[Uranium Energy Corp]]
-- [[Uranium One Ltd.]]
-- [[Uranium Resources Ltd.]]
-- [[Nuclear Fuel Services]]
-- [[Uranium Mining Inc.]]
+- [[Uranium One]]
+- [[Orano]]
+- [[Energy Fuels Inc.]]
 
 ### 核心产品
 - [[Uranium ore]]
 - [[Uranium concentrate (U3O8)]]
-- [[Uranium fuel assemblies]]
-- [[Enriched uranium]]
-- [[Depleted uranium]]
+- [[Fuel assemblies]]
+- [[Uranium hexafluoride (UF6)]]
+- [[Uranium enrichment services]]
 
 ## 数据来源
 
 - [Cameco](https://en.wikipedia.org/wiki/Cameco_Corporation)
 - [Cameco Corporation suppliers manufacturers](https://en.wikipedia.org/wiki/Cameco)
-- [Cameco Corporation suppliers manufacturers](https://www.camecofuel.com/business/cameco-fuel-manufacturing)
-- [Cameco Corporation major customers clients](https://www.cameco.com/invest/markets/cameco-customers)
-- [Cameco Corporation major customers clients](https://csimarket.com/stocks/CCJ-Customers)
+- [Cameco Corporation suppliers manufacturers](https://www.power-technology.com/contractors/energy-and-utilities/cameco/)
+- [Cameco Corporation major customers clients](https://www.cameco.com/)
+- [Cameco Corporation major customers clients](https://nai500.com/blog/2026/03/dont-let-volatility-fool-you-camecos-18-pullback-is-a-rare-opportunity/)
 
 ## 元数据
 
-- **更新日期**: 2026-03-30
+- **更新日期**: 2026-03-31

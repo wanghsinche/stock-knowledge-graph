@@ -3,8 +3,8 @@ ticker: TSLA
 company: Tesla, Inc.
 sector: Consumer Cyclical
 industry: Auto Manufacturers
-extracted_at: 2026-03-30 16:46:23
-last_updated: 2026-03-30
+extracted_at: 2026-03-31 16:49:35
+last_updated: 2026-03-31
 ---
 
 # TSLA - Tesla, Inc.
@@ -12,7 +12,7 @@ last_updated: 2026-03-30
 ## 基本信息
 
 - **所属行业**: Consumer Cyclical / Auto Manufacturers
-- **提取时间**: 2026-03-30 16:46:23
+- **提取时间**: 2026-03-31 16:49:35
 
 ## 产业链关系
 
@@ -20,22 +20,22 @@ last_updated: 2026-03-30
 - [[Panasonic]]
 - [[LG Chem]]
 - [[CAT]]
-- [[Albemarle (lithium)]]
-- [[Glencore (cobalt)]]
+- [[005930.KS]]
+- [[BOSCH]]
 
 ### 下游客户
 - [[Individual consumers]]
 - [[Commercial fleet operators]]
-- [[Utility companies (energy storage)]]
 - [[Government agencies]]
-- [[Corporate leasing customers]]
+- [[Ride‑hailing companies]]
+- [[Energy storage customers]]
 
 ### 竞争对手
+- [[Ford Motor Company]]
 - [[General Motors]]
-- [[Ford]]
-- [[Volkswagen]]
-- [[Hyundai]]
-- [[Nissan]]
+- [[Volkswagen AG]]
+- [[Hyundai Motor Group]]
+- [[Rivian Automotive]]
 
 ### 核心产品
 - [[Model S]]
@@ -43,7 +43,6 @@ last_updated: 2026-03-30
 - [[Model X]]
 - [[Model Y]]
 - [[Cybertruck]]
-- [[Semi]]
 - [[Powerwall]]
 - [[Powerpack]]
 - [[Solar Roof]]
@@ -52,11 +51,11 @@ last_updated: 2026-03-30
 ## 数据来源
 
 - [Tesla, Inc.](https://en.wikipedia.org/wiki/Tesla,_Inc.)
-- [Tesla, Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/Tesla,_Inc.)
-- [Tesla, Inc. suppliers manufacturers](https://www.tesla.com/)
+- [Tesla, Inc. suppliers manufacturers](https://www.investopedia.com/ask/answers/052815/who-are-teslas-tsla-main-suppliers.asp)
+- [Tesla, Inc. suppliers manufacturers](https://investguiding.com/article/who-are-tesla-s-main-suppliers)
 - [Tesla, Inc. major customers clients](https://en.wikipedia.org/wiki/Tesla,_Inc.)
 - [Tesla, Inc. major customers clients](https://www.tesla.com/)
 
 ## 元数据
 
-- **更新日期**: 2026-03-30
+- **更新日期**: 2026-03-31

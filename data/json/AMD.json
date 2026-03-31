@@ -8,30 +8,30 @@
     "005930.KS",
     "GlobalFoundries",
     "UMC",
-    "INTC"
+    "MU"
   ],
   "downstream": [
     "DELL",
     "HPQ",
     "Lenovo",
-    "SONY",
-    "MSFT"
+    "MSFT",
+    "AMZN"
   ],
   "competitors": [
     "INTC",
     "NVDA",
     "QCOM",
     "AVGO",
-    "ARM"
+    "005930.KS"
   ],
   "key_products": [
     "Ryzen CPUs",
     "EPYC CPUs",
     "Radeon GPUs",
-    "Xilinx FPGAs",
-    "APUs"
+    "Radeon Instinct",
+    "Xilinx FPGAs"
   ],
-  "extracted_at": "2026-03-30 16:47:04",
+  "extracted_at": "2026-03-31 16:50:38",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/List_of_semiconductor_fabrication_plants",
+      "url": "https://en.wikipedia.org/wiki/AMD",
       "query": "Advanced Micro Devices, Inc. suppliers manufacturers",
-      "snippet": "They are either operated by Integrated Device Manufacturers (IDMs) that design and manufacture ICs in-house and may also manufacture designs from desi"
+      "snippet": "Advanced Micro Devices , Inc . Advanced Micro Devices , Inc . ( AMD ) is an American multinational semiconductor company headquartered in Santa Clara,"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/AMD-Suppliers",
+      "url": "https://ir.amd.com/",
       "query": "Advanced Micro Devices, Inc. suppliers manufacturers",
-      "snippet": "Feb 9, 2026 · Advanced Micro Devices Inc supply chain, list and performance of Advanced Micro Devices Incs ' suppliers - CSIMarket"
+      "snippet": "Advanced Micro Devices , Inc . IR Overview. Investor Relations. AMD Completes Divestiture of ZT Systems Data Center Infrastructure Manufacturing Busin"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/AMD-Customers",
+      "url": "https://en.wikipedia.org/wiki/AMD",
       "query": "Advanced Micro Devices, Inc. major customers clients",
-      "snippet": "2 days ago · Advanced Micro Devices Inc customers and markets, results by customer and performance relative to AMD, by company and industry - CSIMarke"
+      "snippet": "Advanced Micro Devices , Inc . Advanced Micro Devices , Inc . ( AMD ) is an American multinational semiconductor company headquartered in Santa Clara,"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ir.amd.com/financial-information/sec-filings/content/0001193125-25-067185/0001193125-25-067185.pdf",
+      "url": "https://www.dcfmodeling.com/products/amd-marketing-mix",
       "query": "Advanced Micro Devices, Inc. major customers clients",
-      "snippet": "With our high-performance product portfolios, we deliver differentiated solutions, such as our semi-custom System-on-Chip (SoCs), Adaptive SoCs, and a"
+      "snippet": "Advanced Micro Devices , Inc . ( AMD ) described this product as its fastest ramping product in company history. The MI350X variant specifically deliv"
     }
   ]
 }

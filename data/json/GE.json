@@ -1,37 +1,37 @@
 {
   "ticker": "GE",
-  "company_name": "General Electric Company",
+  "company_name": "General Electric Company (GE Aerospace)",
   "sector": "Industrials",
   "industry": "Aerospace & Defense",
   "upstream": [
-    "Alcoa",
-    "Linde",
-    "Air Liquide",
-    "Honeywell Aerospace",
-    "Boeing"
+    "Alcoa (Aluminum & alloys)",
+    "Linde (Industrial gases)",
+    "Honeywell Aerospace (components & avionics)",
+    "Rockwell Collins (electronics & avionics)",
+    "3M (composite materials & coatings)"
   ],
   "downstream": [
-    "Boeing",
-    "Airbus",
-    "United Airlines",
-    "Delta Air Lines",
-    "U.S. Air Force"
+    "Boeing (commercial & military aircraft)",
+    "Airbus (commercial & military aircraft)",
+    "Lockheed Martin (military aircraft)",
+    "United Airlines (commercial airline)",
+    "Delta Air Lines (commercial airline)"
   ],
   "competitors": [
-    "Pratt & Whitney",
-    "Rolls-Royce",
-    "Safran",
-    "MTU Aero Engines",
-    "Honeywell Aerospace"
+    "Pratt & Whitney (Raytheon Technologies)",
+    "Rolls‑Royce (UK)",
+    "Safran (France)",
+    "Honeywell Aerospace",
+    "MTU Aero Engines (Germany)"
   ],
   "key_products": [
-    "Aero engines",
-    "Jet engines",
-    "Turbofan engines",
-    "Turboprop engines",
-    "Propulsion systems"
+    "GE90 jet engine",
+    "CF6 jet engine",
+    "CF34 jet engine",
+    "T700 turboprop engine",
+    "T800 turboprop engine"
   ],
-  "extracted_at": "2026-03-30 16:49:35",
+  "extracted_at": "2026-03-31 16:58:47",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/General_Electric",
-      "query": "GE Aerospace suppliers manufacturers",
-      "snippet": "GE Aerospace , the aerospace company, is GE 's legal successor. GE HealthCare, the health technology company, was spun off from GE in 2023. GE Aviatio"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.linkedin.com/posts/geaerospace_geaerospace-muskegon-usmanufacturing-activity-7442226355351629824-8FfL",
-      "query": "GE Aerospace suppliers manufacturers",
-      "snippet": "GE Aerospace is investing $100 million in 2026 to enhance its supplier base, focusing on tooling, dies, and fixtures. This funding is part of a broade"
-    },
-    {
-      "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/GE_Aerospace",
-      "query": "GE Aerospace major customers clients",
-      "snippet": "GE Aerospace ' s main competitors in the engine market are Pratt & Whitney and Rolls-Royce. The division operated under the name of General Electric A"
+      "query": "GE Aerospace suppliers manufacturers",
+      "snippet": "GE Aerospace both manufactures engines under its name and partners with other manufacturers to produce engines. CFM International, the world's leading"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.geaerospace.com/news/articles/midyear-musings-insights-our-customers",
+      "url": "https://supplier.geaerospace.com/",
+      "query": "GE Aerospace suppliers manufacturers",
+      "snippet": "GE Aerospace supplier portal provides suppliers the ability to access information and enter business transactions in an online and secure environment."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/General_Electric",
       "query": "GE Aerospace major customers clients",
-      "snippet": "Sep 8, 2025 · This year has sparked meaningful conversations about the future of aviation, while also prompting reflection on the progress we’ve made "
+      "snippet": "GE Aerospace , the aerospace company, is GE 's legal successor. GE HealthCare, the health technology company, was spun off from GE in 2023. GE is stil"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.ge.com/history-ge-aerospace",
+      "query": "GE Aerospace major customers clients",
+      "snippet": "GE Aerospace 100+ years of living our purpose: to invent the future of flight..."
     }
   ]
 }

@@ -4,34 +4,34 @@
   "sector": "Technology",
   "industry": "Semiconductor Equipment & Materials",
   "upstream": [
-    "ASML",
-    "Tokyo Electron",
-    "LRCX",
-    "KLA",
-    "AMAT"
+    "Semiconductor wafer suppliers",
+    "Chemical and materials suppliers",
+    "Precision component manufacturers",
+    "Electronic component suppliers",
+    "Tooling and equipment component suppliers"
   ],
   "downstream": [
-    "005930.KS",
     "TSM",
+    "005930.KS",
     "INTC",
     "MU",
-    "SK Hynix"
+    "GlobalFoundries"
   ],
   "competitors": [
     "ASML",
-    "Tokyo Electron",
     "LRCX",
-    "KLA",
+    "Tokyo Electron",
+    "KLA Corporation",
     "AMAT"
   ],
   "key_products": [
     "Deposition equipment",
-    "Etch equipment",
-    "Metrology and inspection tools",
-    "Chemical vapor deposition (CVD) systems",
-    "Software for process control"
+    "Etching equipment",
+    "Metrology and inspection systems",
+    "Semiconductor manufacturing tools",
+    "Software and services for chip fabrication"
   ],
-  "extracted_at": "2026-03-30 16:53:52",
+  "extracted_at": "2026-03-31 16:55:55",
   "sources": [
     {
       "source": "Wikipedia",
@@ -61,7 +61,7 @@
       "source": "DuckDuckGo",
       "url": "https://csimarket.com/stocks/AMAT-Customers",
       "query": "Applied Materials, Inc. major customers clients",
-      "snippet": "2 days ago · Applied ’s business is cyclical, based on capital equipment investment by major semiconductor, flat panel display, solar PV and other man"
+      "snippet": "3 days ago · Applied ’s business is cyclical, based on capital equipment investment by major semiconductor, flat panel display, solar PV and other man"
     }
   ]
 }
