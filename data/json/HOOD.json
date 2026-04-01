@@ -2,36 +2,36 @@
   "ticker": "HOOD",
   "company_name": "Robinhood Markets, Inc.",
   "sector": "Financial Services",
-  "industry": "Capital Markets / Brokerage",
+  "industry": "Online Brokerage",
   "upstream": [
+    "Bloomberg Market Data",
+    "Thomson Reuters",
     "AMZN",
     "GOOGL",
-    "Plaid",
-    "Stripe",
-    "Bloomberg"
+    "Stripe"
   ],
   "downstream": [
     "Retail investors",
-    "Institutional investors",
     "High‑frequency traders",
-    "Financial advisors",
-    "Retail traders"
+    "Institutional clients",
+    "Crypto traders",
+    "Financial advisors"
   ],
   "competitors": [
     "Charles Schwab",
-    "Fidelity",
-    "E*TRADE",
+    "Fidelity Investments",
     "TD Ameritrade",
+    "E*TRADE",
     "Webull"
   ],
   "key_products": [
     "Commission‑free stock trading",
-    "Cryptocurrency trading",
-    "Margin trading",
     "Robinhood Gold",
+    "Margin trading",
+    "Cryptocurrency trading",
     "Cash management"
   ],
-  "extracted_at": "2026-03-31 16:54:22",
+  "extracted_at": "2026-04-01 16:51:10",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,9 +47,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/HOOD-Suppliers",
+      "url": "https://pitchgrade.com/companies/robinhood-markets",
       "query": "Robinhood Markets, Inc. suppliers manufacturers",
-      "snippet": "Feb 28, 2026 · For your research, we’ve provided nine additional tables on Robinhood Markets Inc ’s suppliers . You can find them in the navigation me"
+      "snippet": "How Robinhood Markets , Inc . generates revenue across its key business segments and the unit economics behind each. A data-backed SWOT analysis cover"
     },
     {
       "source": "DuckDuckGo",
@@ -59,9 +59,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://pitchgrade.com/companies/robinhood-markets",
+      "url": "https://www.bbb.org/us/ca/palo-alto/profile/financial-services/robinhood-markets-inc-1216-417256/customer-reviews",
       "query": "Robinhood Markets, Inc. major customers clients",
-      "snippet": "Customer Segments: Robinhood Markets , Inc . serves multiple distinct customer segments, which may include consumers, small and medium businesses, ent"
+      "snippet": "Robinhood Markets , Inc . is NOT a BBB Accredited Business. To become accredited, a business must agree to BBB Standards for Trust and pass BBB's vett"
     }
   ]
 }

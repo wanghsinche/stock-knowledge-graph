@@ -3,8 +3,8 @@ ticker: MSFT
 company: Microsoft Corporation
 sector: Technology
 industry: Software - Infrastructure
-extracted_at: 2026-03-31 16:50:12
-last_updated: 2026-03-31
+extracted_at: 2026-04-01 16:44:44
+last_updated: 2026-04-01
 ---
 
 # MSFT - Microsoft Corporation
@@ -12,7 +12,7 @@ last_updated: 2026-03-31
 ## 基本信息
 
 - **所属行业**: Technology / Software - Infrastructure
-- **提取时间**: 2026-03-31 16:50:12
+- **提取时间**: 2026-04-01 16:44:44
 
 ## 产业链关系
 
@@ -20,15 +20,15 @@ last_updated: 2026-03-31
 - [[INTC]]
 - [[AMD]]
 - [[NVDA]]
-- [[005930.KS]]
-- [[MU]]
+- [[QCOM]]
+- [[AVGO]]
 
 ### 下游客户
-- [[Enterprise customers (e.g., banks, government agencies)]]
-- [[DELL]]
-- [[Gaming industry (Xbox users)]]
-- [[Cloud service users (Azure customers)]]
-- [[MSFT]]
+- [[Enterprise customers (e.g., Walmart, JPMorgan Chase)]]
+- [[Government agencies (U.S. Department of Defense, NASA)]]
+- [[CAT]]
+- [[Healthcare organizations]]
+- [[Retail and e‑commerce companies]]
 
 ### 竞争对手
 - [[AAPL]]
@@ -39,19 +39,19 @@ last_updated: 2026-03-31
 
 ### 核心产品
 - [[Windows operating system]]
-- [[Microsoft 365 suite]]
+- [[Microsoft Office suite]]
 - [[Azure cloud platform]]
-- [[Surface devices]]
-- [[Xbox gaming console]]
+- [[Microsoft Teams]]
+- [[Surface hardware lineup]]
 
 ## 数据来源
 
 - [Microsoft](https://en.wikipedia.org/wiki/Microsoft_Corporation)
-- [Microsoft Corporation suppliers manufacturers](https://www.microsoft.com/en-us/procurement)
-- [Microsoft Corporation suppliers manufacturers](https://csimarket.com/stocks/MSFT-Suppliers)
-- [Microsoft Corporation major customers clients](https://www.microsoft.com/en-us/customers/)
-- [Microsoft Corporation major customers clients](https://csimarket.com/stocks/MSFT-Customers)
+- [Microsoft Corporation suppliers manufacturers](https://en.wikipedia.org/wiki/Microsoft)
+- [Microsoft Corporation suppliers manufacturers](https://www.alibaba.com/)
+- [Microsoft Corporation major customers clients](https://www.microsoft.com/investor/reports/ar13/financial-review/business-description/customers/index.html)
+- [Microsoft Corporation major customers clients](https://www.appsruntheworld.com/customers-database/vendors/view/microsoft)
 
 ## 元数据
 
-- **更新日期**: 2026-03-31
+- **更新日期**: 2026-04-01

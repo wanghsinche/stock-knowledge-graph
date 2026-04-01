@@ -1,37 +1,37 @@
 {
   "ticker": "WMT",
   "company_name": "Walmart Inc.",
-  "sector": "Consumer Defensive / Discount Stores",
-  "industry": "Retail - Discount Stores",
+  "sector": "Consumer Defensive",
+  "industry": "Discount Stores",
   "upstream": [
     "Procter & Gamble",
     "Coca‑Cola",
     "PepsiCo",
-    "Nestlé",
+    "Johnson & Johnson",
     "Unilever"
   ],
   "downstream": [
-    "Consumers",
+    "US households",
+    "International consumers",
     "Online shoppers",
     "Small businesses",
-    "Local communities",
-    "Employees"
+    "Corporate clients"
   ],
   "competitors": [
     "Target",
     "Costco",
-    "AMZN",
-    "Kroger",
-    "Home Depot"
+    "Dollar General",
+    "Aldi",
+    "BJ's Wholesale Club"
   ],
   "key_products": [
     "Groceries",
-    "Apparel",
-    "Electronics",
     "Household goods",
-    "Private‑label brands"
+    "Clothing",
+    "Electronics",
+    "Pharmacy products"
   ],
-  "extracted_at": "2026-03-31 16:56:26",
+  "extracted_at": "2026-04-01 16:51:21",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://corporate.walmart.com/suppliers",
+      "url": "https://corporate.walmart.com/askwalmart/suppliers",
       "query": "Walmart Inc. suppliers manufacturers",
-      "snippet": "Supplier Requirements All Walmart and Sam's Club suppliers and their manufacturing facilities, including all subcontracting and packaging facilities, "
+      "snippet": "We know customers care about where and how the products they buy are made. To find out what it takes to become a Walmart supplier or learn more about "
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.investopedia.com/articles/insights/050116/walmart-stock-analyzing-5-key-suppliers-wmt.asp",
       "query": "Walmart Inc. suppliers manufacturers",
-      "snippet": "3 days ago · Explore major Walmart suppliers , the companies depended on to provide the products Walmart sells. Learn how being a supplier to Walmart "
+      "snippet": "4 days ago · Explore major Walmart suppliers , the companies depended on to provide the products Walmart sells. Learn how being a supplier to Walmart "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://capitaloneshopping.com/research/walmart-statistics/",
+      "url": "https://en.wikipedia.org/wiki/Walmart",
       "query": "Walmart Inc. major customers clients",
-      "snippet": "Nov 6, 2025 · Latest available data on Walmart ' s size and market share, both offline and online, with total sales and revenue breakdowns by year."
+      "snippet": "Walmart Inc . is an American multinational retail corporation that operates a chain of hypermarkets, discount department stores, and grocery stores in"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/WMT-Customers",
+      "url": "https://www.walmart.com/",
       "query": "Walmart Inc. major customers clients",
-      "snippet": "For your research, we’ve provided 9 tables on Walmart Inc corporate clients . You can find them in the navigation menu under Customers & Markets. To d"
+      "snippet": "Shop Walmart .com today for Every Day Low Prices. Join Walmart + for unlimited free delivery from your store & free shipping with no order minimum. St"
     }
   ]
 }

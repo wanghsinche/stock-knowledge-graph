@@ -1,14 +1,14 @@
 {
   "ticker": "RKLB",
   "company_name": "Rocket Lab Corporation",
-  "sector": "Industrials / Aerospace & Defense",
-  "industry": "Aerospace Manufacturing",
+  "sector": "Industrials",
+  "industry": "Aerospace & Defense",
   "upstream": [
-    "Thales",
-    "Honeywell",
+    "Honeywell Aerospace",
+    "Thales Alenia Space",
+    "SolarEdge Technologies",
     "Lockheed Martin",
-    "Northrop Grumman",
-    "Raytheon Technologies"
+    "Ball Aerospace & Technologies Corp."
   ],
   "downstream": [
     "Planet Labs",
@@ -19,19 +19,24 @@
   ],
   "competitors": [
     "SpaceX",
+    "Firefly Aerospace",
+    "Astra",
     "Blue Origin",
-    "Relativity Space",
-    "Virgin Orbit",
-    "Astra"
+    "Relativity Space"
   ],
   "key_products": [
-    "Electron orbital rocket",
+    "Electron orbital launch vehicle",
     "HASTE suborbital testbed",
     "Neutron medium‑lift launch vehicle",
-    "Satellite components (star trackers, reaction wheels, solar panels, SDRs, composite structures, separation systems, EO/IR)",
-    "Launch services"
+    "Star trackers",
+    "Reaction wheels",
+    "Solar panels",
+    "Software‑defined radios",
+    "Composite structures",
+    "Separation systems",
+    "Electro‑optical and infrared (EO/IR) sensors"
   ],
-  "extracted_at": "2026-03-31 16:57:54",
+  "extracted_at": "2026-04-01 16:49:12",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,15 +46,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://rocketlabcorp.com/",
+      "url": "https://en.wikipedia.org/wiki/Rocket_Lab",
       "query": "Rocket Lab Corporation suppliers manufacturers",
-      "snippet": "Cumulative Years In Space For Rocket Lab Satellite Technology. From Idea To Orbit. Rocket Lab is an end-to-end space company delivering reliable launc"
+      "snippet": "Rocket Lab Corporation is a publicly traded aerospace manufacturer and launch service provider. [10] Its Electron orbital rocket launches small satell"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-corporation-rklb-secures-195916877.html",
+      "url": "https://www.marketscreener.com/quote/stock/ROCKET-LAB-CORPORATION-126208072/company/",
       "query": "Rocket Lab Corporation suppliers manufacturers",
-      "snippet": "Rocket Lab Corporation (NASDAQ:RKLB) provides defense services as a prime contractor for the U.S. Space Development Agency (SDA), designing and manufa"
+      "snippet": "5 days ago · Rocket Lab USA, Inc. is an end-to-end space company. The Company designs and manufactures small and medium-class rockets, spacecraft and "
     },
     {
       "source": "DuckDuckGo",
@@ -59,9 +64,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/sectors/technology/articles/rocket-lab-receives-regulatory-approval-201500208.html",
+      "url": "https://www.zacks.com/stock/news/2891223/rocket-lab-corporation-rklb-registers-a-bigger-fall-than-the-market-important-facts-to-note",
       "query": "Rocket Lab Corporation major customers clients",
-      "snippet": "Rocket Lab Corporation .Through previous acquisitions Rocket Lab has a strong track record of taking satellite subsystems and components previously on"
+      "snippet": "Rocket Lab Corporation is currently sporting a Zacks Rank of #3 (Hold).Today's Research Daily features new research reports on 16 major stocks, includ"
     }
   ]
 }

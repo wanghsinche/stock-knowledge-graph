@@ -1,27 +1,27 @@
 ---
 ticker: RKLB
 company: Rocket Lab Corporation
-sector: Industrials / Aerospace & Defense
-industry: Aerospace Manufacturing
-extracted_at: 2026-03-31 16:57:54
-last_updated: 2026-03-31
+sector: Industrials
+industry: Aerospace & Defense
+extracted_at: 2026-04-01 16:49:12
+last_updated: 2026-04-01
 ---
 
 # RKLB - Rocket Lab Corporation
 
 ## 基本信息
 
-- **所属行业**: Industrials / Aerospace & Defense / Aerospace Manufacturing
-- **提取时间**: 2026-03-31 16:57:54
+- **所属行业**: Industrials / Aerospace & Defense
+- **提取时间**: 2026-04-01 16:49:12
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Thales]]
-- [[Honeywell]]
+- [[Honeywell Aerospace]]
+- [[Thales Alenia Space]]
+- [[SolarEdge Technologies]]
 - [[Lockheed Martin]]
-- [[Northrop Grumman]]
-- [[Raytheon Technologies]]
+- [[Ball Aerospace & Technologies Corp.]]
 
 ### 下游客户
 - [[Planet Labs]]
@@ -32,26 +32,31 @@ last_updated: 2026-03-31
 
 ### 竞争对手
 - [[SpaceX]]
+- [[Firefly Aerospace]]
+- [[Astra]]
 - [[Blue Origin]]
 - [[Relativity Space]]
-- [[Virgin Orbit]]
-- [[Astra]]
 
 ### 核心产品
-- [[Electron orbital rocket]]
+- [[Electron orbital launch vehicle]]
 - [[HASTE suborbital testbed]]
 - [[Neutron medium‑lift launch vehicle]]
-- [[Satellite components (star trackers, reaction wheels, solar panels, SDRs, composite structures, separation systems, EO/IR)]]
-- [[Launch services]]
+- [[Star trackers]]
+- [[Reaction wheels]]
+- [[Solar panels]]
+- [[Software‑defined radios]]
+- [[Composite structures]]
+- [[Separation systems]]
+- [[Electro‑optical and infrared (EO/IR) sensors]]
 
 ## 数据来源
 
 - [Rocket Lab](https://en.wikipedia.org/wiki/Rocket_Lab_Corporation)
-- [Rocket Lab Corporation suppliers manufacturers](https://rocketlabcorp.com/)
-- [Rocket Lab Corporation suppliers manufacturers](https://finance.yahoo.com/markets/stocks/articles/rocket-lab-corporation-rklb-secures-195916877.html)
+- [Rocket Lab Corporation suppliers manufacturers](https://en.wikipedia.org/wiki/Rocket_Lab)
+- [Rocket Lab Corporation suppliers manufacturers](https://www.marketscreener.com/quote/stock/ROCKET-LAB-CORPORATION-126208072/company/)
 - [Rocket Lab Corporation major customers clients](https://rocketlabcorp.com/)
-- [Rocket Lab Corporation major customers clients](https://finance.yahoo.com/sectors/technology/articles/rocket-lab-receives-regulatory-approval-201500208.html)
+- [Rocket Lab Corporation major customers clients](https://www.zacks.com/stock/news/2891223/rocket-lab-corporation-rklb-registers-a-bigger-fall-than-the-market-important-facts-to-note)
 
 ## 元数据
 
-- **更新日期**: 2026-03-31
+- **更新日期**: 2026-04-01

@@ -3,8 +3,8 @@ ticker: TSLA
 company: Tesla, Inc.
 sector: Consumer Cyclical
 industry: Auto Manufacturers
-extracted_at: 2026-03-31 16:49:35
-last_updated: 2026-03-31
+extracted_at: 2026-04-01 16:44:13
+last_updated: 2026-04-01
 ---
 
 # TSLA - Tesla, Inc.
@@ -12,7 +12,7 @@ last_updated: 2026-03-31
 ## 基本信息
 
 - **所属行业**: Consumer Cyclical / Auto Manufacturers
-- **提取时间**: 2026-03-31 16:49:35
+- **提取时间**: 2026-04-01 16:44:13
 
 ## 产业链关系
 
@@ -21,21 +21,21 @@ last_updated: 2026-03-31
 - [[LG Chem]]
 - [[CAT]]
 - [[005930.KS]]
-- [[BOSCH]]
+- [[SK Innovation]]
 
 ### 下游客户
 - [[Individual consumers]]
-- [[Commercial fleet operators]]
-- [[Government agencies]]
-- [[Ride‑hailing companies]]
-- [[Energy storage customers]]
+- [[AMZN]]
+- [[Government fleet programs]]
+- [[Commercial trucking operators]]
+- [[Energy storage customers (Powerwall, Powerpack users)]]
 
 ### 竞争对手
-- [[Ford Motor Company]]
 - [[General Motors]]
-- [[Volkswagen AG]]
-- [[Hyundai Motor Group]]
-- [[Rivian Automotive]]
+- [[Ford]]
+- [[Volkswagen]]
+- [[NIO]]
+- [[Lucid Motors]]
 
 ### 核心产品
 - [[Model S]]
@@ -43,6 +43,7 @@ last_updated: 2026-03-31
 - [[Model X]]
 - [[Model Y]]
 - [[Cybertruck]]
+- [[Semi]]
 - [[Powerwall]]
 - [[Powerpack]]
 - [[Solar Roof]]
@@ -51,11 +52,11 @@ last_updated: 2026-03-31
 ## 数据来源
 
 - [Tesla, Inc.](https://en.wikipedia.org/wiki/Tesla,_Inc.)
-- [Tesla, Inc. suppliers manufacturers](https://www.investopedia.com/ask/answers/052815/who-are-teslas-tsla-main-suppliers.asp)
-- [Tesla, Inc. suppliers manufacturers](https://investguiding.com/article/who-are-tesla-s-main-suppliers)
-- [Tesla, Inc. major customers clients](https://en.wikipedia.org/wiki/Tesla,_Inc.)
-- [Tesla, Inc. major customers clients](https://www.tesla.com/)
+- [Tesla, Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/Tesla,_Inc.)
+- [Tesla, Inc. suppliers manufacturers](https://www.tesla.com/)
+- [Tesla, Inc. major customers clients](https://csimarket.com/stocks/TSLA-Customers)
+- [Tesla, Inc. major customers clients](https://businessmodelanalyst.com/tesla-target-market/)
 
 ## 元数据
 
-- **更新日期**: 2026-03-31
+- **更新日期**: 2026-04-01

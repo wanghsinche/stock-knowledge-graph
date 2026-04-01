@@ -2,36 +2,36 @@
   "ticker": "COIN",
   "company_name": "Coinbase Global, Inc.",
   "sector": "Financial Services",
-  "industry": "Financial Data & Stock Exchanges",
+  "industry": "Cryptocurrency Exchange",
   "upstream": [
     "AMZN",
     "MSFT",
+    "GOOGL",
     "Stripe",
-    "PayPal",
-    "Thales Group"
+    "Okta"
   ],
   "downstream": [
-    "Retail cryptocurrency users",
+    "Retail cryptocurrency traders",
     "Institutional investors",
+    "Hedge funds",
     "Crypto funds",
-    "Merchant partners",
-    "Blockchain developers"
+    "Corporate clients"
   ],
   "competitors": [
     "Binance",
     "Kraken",
     "Gemini",
     "Bitstamp",
-    "Bittrex"
+    "Huobi"
   ],
   "key_products": [
-    "Cryptocurrency exchange platform",
+    "Cryptocurrency trading platform",
     "Custody services",
-    "Staking and yield products",
+    "Staking services",
     "Crypto wallet",
-    "Crypto debit card"
+    "Payment processing solutions"
   ],
-  "extracted_at": "2026-03-31 16:54:59",
+  "extracted_at": "2026-04-01 16:53:18",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.coinbase.com/vendors/vendors-at-coinbase",
+      "url": "https://www.coinbase.com/vendors/vendors-at-coinbase-code-of-conduct",
       "query": "Coinbase Global, Inc. suppliers manufacturers",
-      "snippet": "Getting started as a Coinbase Vendor. Procurement guidelines & policies to streamline the vendor experience. Missing: Global, Inc. manufacturers"
+      "snippet": "For purposes of this Code, vendors include any third party, firm, or individual that provides a product or service to Coinbase, including: vendors , s"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.coinbase.com/vendors/vendors-at-coinbase-vendor-onboarding",
+      "url": "https://fintel.io/doc/sec-coinbase-global-inc-1679788-ex211-2024-february-15-19768-5823",
       "query": "Coinbase Global, Inc. suppliers manufacturers",
-      "snippet": "All Coinbase vendors must go through a comprehensive risk assessment process. The Vendor Risk Management program is designed to ensure all applicable "
+      "snippet": "Pursuant to Item 601 (b) (21) (ii) of Regulation S-K, the names of other subsidiaries of Coinbase Global , Inc . are omitted because, considered in th"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.demandsage.com/coinbase-users-statistics/",
+      "url": "https://en.wikipedia.org/wiki/Coinbase",
       "query": "Coinbase Global, Inc. major customers clients",
-      "snippet": "Aug 13, 2025 · Coinbase ’s user base stands at around 120 million, meaning it serves about 19.45% of all global cryptocurrency users. This makes Coinb"
+      "snippet": "Coinbase Global , Inc . is an American cryptocurrency exchange. It was founded in 2012 by Brian Armstrong and Fred Ehrsam."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://backlinko.com/coinbase-users",
+      "url": "https://www.coinbase.com/",
       "query": "Coinbase Global, Inc. major customers clients",
-      "snippet": "See full list on backlinko.com Coinbase defines monthly transacting users as all users with at least one transaction on the platform during the 28-day"
+      "snippet": "Coinbase United States is a secure online platform for buying, selling, transferring, and storing cryptocurrency. Coinbase believes crypto will be par"
     }
   ]
 }

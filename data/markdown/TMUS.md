@@ -3,8 +3,8 @@ ticker: TMUS
 company: T-Mobile US, Inc.
 sector: Communication Services
 industry: Telecom Services
-extracted_at: 2026-03-19 16:54:30
-last_updated: 2026-03-19
+extracted_at: 2026-04-01 16:53:08
+last_updated: 2026-04-01
 ---
 
 # TMUS - T-Mobile US, Inc.
@@ -12,46 +12,46 @@ last_updated: 2026-03-19
 ## 基本信息
 
 - **所属行业**: Communication Services / Telecom Services
-- **提取时间**: 2026-03-19 16:54:30
+- **提取时间**: 2026-04-01 16:53:08
 
 ## 产业链关系
 
 ### 上游供应商
 - [[Ericsson]]
 - [[Nokia]]
-- [[Huawei]]
-- [[005930.KS]]
 - [[QCOM]]
+- [[005930.KS]]
+- [[Huawei]]
 
 ### 下游客户
-- [[Individual consumers]]
-- [[Small businesses]]
-- [[Large enterprises]]
+- [[Enterprise customers]]
 - [[Government agencies]]
-- [[OEMs]]
+- [[Large corporations]]
+- [[Small and medium businesses]]
+- [[Individual consumers]]
 
 ### 竞争对手
-- [[AT&T]]
 - [[Verizon]]
+- [[AT&T]]
 - [[US Cellular]]
-- [[Cricket Wireless]]
-- [[Boost Mobile]]
+- [[Dish Wireless]]
+- [[GOOGL]]
 
 ### 核心产品
-- [[Wireless voice and data services]]
-- [[4G LTE]]
-- [[5G NR]]
-- [[Mobile broadband]]
-- [[Enterprise solutions]]
+- [[5G mobile broadband]]
+- [[4G LTE services]]
+- [[Home Internet]]
+- [[T-Mobile Magenta plans]]
+- [[T-Mobile Tuesdays]]
 
 ## 数据来源
 
 - [T-Mobile US](https://en.wikipedia.org/wiki/T-Mobile_US,_Inc.)
-- [T-Mobile US, Inc. suppliers manufacturers](https://www.usacompany.info/t-mobile-usa-inc/)
 - [T-Mobile US, Inc. suppliers manufacturers](https://www.t-mobile.com/our-story/working-together/suppliers)
+- [T-Mobile US, Inc. suppliers manufacturers](https://www.usacompany.info/t-mobile-usa-inc/)
 - [T-Mobile US, Inc. major customers clients](https://en.wikipedia.org/wiki/T-Mobile_US)
-- [T-Mobile US, Inc. major customers clients](https://www.t-mobile.com/customers/customer-care)
+- [T-Mobile US, Inc. major customers clients](https://www.linkedin.com/company/t-mobile)
 
 ## 元数据
 
-- **更新日期**: 2026-03-19
+- **更新日期**: 2026-04-01

@@ -12,10 +12,10 @@
   ],
   "downstream": [
     "U.S. Department of Defense",
-    "U.S. Department of Justice",
     "U.S. Department of Homeland Security",
-    "U.S. Department of State",
-    "Boeing"
+    "U.S. Department of Justice",
+    "JPMorgan Chase",
+    "Airbus"
   ],
   "competitors": [
     "Snowflake",
@@ -27,11 +27,11 @@
   "key_products": [
     "Gotham",
     "Foundry",
-    "Palantir Platform",
-    "Palantir Foundry",
-    "Palantir Gotham"
+    "Apollo",
+    "Helix",
+    "Palantir Data Integration Platform"
   ],
-  "extracted_at": "2026-03-31 16:51:46",
+  "extracted_at": "2026-04-01 16:47:04",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Palantir",
-      "query": "Palantir Technologies Inc. suppliers manufacturers",
-      "snippet": "Palantir Technologies Inc . (/ ˈpælənˌtiːr /) [3] is an American publicly traded company that develops data integration and analytics platforms enabli"
-    },
-    {
-      "source": "DuckDuckGo",
       "url": "https://csimarket.com/stocks/PLTR-Suppliers",
       "query": "Palantir Technologies Inc. suppliers manufacturers",
       "snippet": "Feb 19, 2026 · For your research, we’ve provided nine additional tables on Palantir Technologies Inc ’ s suppliers . You can find them in the navigati"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Palantir",
-      "query": "Palantir Technologies Inc. major customers clients",
-      "snippet": "Palantir's customer base includes federal agencies, state and local governments, international organizations, and also private companies. The company "
+      "url": "https://www.palantir.com/offerings/procurement/",
+      "query": "Palantir Technologies Inc. suppliers manufacturers",
+      "snippet": "With billions of dollars worth of materials being procured by Trinity Industries each year, the legacy rail company leverages Palantir to revolutioniz"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://bloomberry.com/data/palantir-foundry/",
+      "url": "https://en.wikipedia.org/wiki/Palantir",
       "query": "Palantir Technologies Inc. major customers clients",
-      "snippet": "We detected 403 companies using Palantir Foundry, 128 companies that churned, and 35 customers with upcoming renewal in the next 3 months. Missing: ma"
+      "snippet": "Palantir Technologies Inc . is an American publicly traded company that develops data integration and analytics platforms enabling government agencies"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.marketwatch.com/investing/stock/pltr",
+      "query": "Palantir Technologies Inc. major customers clients",
+      "snippet": "PLTR | Complete Palantir Technologies Inc . stock news by MarketWatch. View real-time stock prices and stock quotes for a full financial overview."
     }
   ]
 }

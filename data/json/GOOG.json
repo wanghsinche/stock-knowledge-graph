@@ -4,37 +4,34 @@
   "sector": "Communication Services",
   "industry": "Internet Content & Information",
   "upstream": [
-    "TSM",
-    "005930.KS",
     "INTC",
     "NVDA",
-    "CSCO"
+    "005930.KS",
+    "TSM",
+    "QCOM"
   ],
   "downstream": [
-    "AMZN",
-    "005930.KS",
+    "Advertisers",
+    "App developers",
+    "Android OEMs",
     "GOOGL",
-    "YouTube content creators",
-    "GOOGL"
+    "YouTube viewers"
   ],
   "competitors": [
-    "META",
-    "AMZN",
     "MSFT",
+    "AMZN",
+    "META",
     "AAPL",
     "Tencent"
   ],
   "key_products": [
     "Google Search",
     "YouTube",
+    "Android",
     "Google Cloud",
-    "Android OS",
-    "Google Ads",
-    "Google Maps",
-    "Google Chrome",
-    "Google Workspace"
+    "Google Ads"
   ],
-  "extracted_at": "2026-03-31 16:51:23",
+  "extracted_at": "2026-04-01 16:45:44",
   "sources": [
     {
       "source": "Wikipedia",
@@ -44,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Alphabet_Inc.",
+      "url": "https://csimarket.com/stocks/GOOG-Suppliers",
       "query": "Alphabet Inc. suppliers manufacturers",
+      "snippet": "Feb 6, 2026 · Alphabet Inc supply chain, list and performance of Alphabet Incs ' suppliers - CSIMarket"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.marketscreener.com/quote/stock/ALPHABET-INC-24203385/company-group/",
+      "query": "Alphabet Inc. suppliers manufacturers",
+      "snippet": "5 days ago · Find the group structure chart of Alphabet Inc ., with the list of companies belonging to the same group as Alphabet Inc ., as well as th"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/Alphabet_Inc.",
+      "query": "Alphabet Inc. major customers clients",
       "snippet": "Alphabet Inc . is an American multinational technology conglomerate holding company headquartered in Mountain View, California. It was created through"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/GOOG-Suppliers",
-      "query": "Alphabet Inc. suppliers manufacturers",
-      "snippet": "Alphabet Inc supply chain, list and performance of Alphabet Incs ' suppliers - CSIMarket."
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/GOOGL-Customers",
+      "url": "https://finance.yahoo.com/quote/GOOG/",
       "query": "Alphabet Inc. major customers clients",
-      "snippet": "Feb 9, 2026 · For your research, we’ve provided 9 tables on Alphabet Inc corporate clients . You can find them in the navigation menu under Customers "
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://pitchgrade.com/companies/alphabet-inc",
-      "query": "Alphabet Inc. major customers clients",
-      "snippet": "Jan 15, 2026 · Customer Segments: Alphabet Inc . serves multiple distinct customer segments, which may include consumers, small and medium businesses,"
+      "snippet": "Find the latest Alphabet Inc . (GOOG) stock quote, history, news and other vital information to help you with your stock trading and investing."
     }
   ]
 }

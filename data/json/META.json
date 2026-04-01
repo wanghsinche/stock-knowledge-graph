@@ -4,34 +4,39 @@
   "sector": "Communication Services",
   "industry": "Internet Content & Information",
   "upstream": [
-    "NVDA",
-    "MSFT",
+    "DELL",
+    "HPQ",
     "CSCO",
-    "QCOM",
-    "Content delivery network providers (Akamai)"
+    "NVDA",
+    "AMZN"
   ],
   "downstream": [
-    "Global advertisers (e.g., Coca‑Cola, Nike)",
-    "META",
-    "Content creators and influencers",
-    "META",
-    "META"
+    "Advertisers",
+    "Businesses",
+    "App developers",
+    "Content creators",
+    "End users"
   ],
   "competitors": [
     "GOOGL",
-    "ByteDance (TikTok)",
-    "Snap Inc.",
-    "Twitter (X)",
-    "MSFT"
+    "AMZN",
+    "AAPL",
+    "MSFT",
+    "ByteDance Ltd."
   ],
   "key_products": [
     "Facebook",
     "Instagram",
     "WhatsApp",
     "Messenger",
-    "Meta Quest"
+    "Threads",
+    "Meta Quest",
+    "Meta Horizon",
+    "Meta Business Suite",
+    "Meta Ads Manager",
+    "Meta Pay"
   ],
-  "extracted_at": "2026-03-31 16:49:53",
+  "extracted_at": "2026-04-01 16:44:34",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,25 +48,25 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Meta_Platforms",
       "query": "Meta Platforms, Inc. suppliers manufacturers",
-      "snippet": "39 minutes ago - Meta Platforms, Inc. (doing business as Meta) is an American multinational technology company headquartered in Menlo Park, California"
+      "snippet": "Meta owns and operates several prominent social media platforms and communication services, including Facebook, Instagram, WhatsApp, Messenger, Thread"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://data.ark.ai/analysis/suppliers/meta-platforms-inc-supplier-profile-overview",
+      "url": "https://forwork.meta.com/legal/mfw-subprocessor-list/",
       "query": "Meta Platforms, Inc. suppliers manufacturers",
-      "snippet": "Ark.ai conducted a vendor and supply chain analysis of Meta Platforms, Inc., examining their subcontractors, subsidiaries, list of suppliers, manufact"
+      "snippet": "Nov 13, 2023 · Starting February 20, 2026, Meta Horizon managed services will no longer be available for purchase. Visit the Help Center to learn more"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/META-Customers",
+      "url": "https://ru.wikipedia.org/wiki/Meta_Platforms",
       "query": "Meta Platforms, Inc. major customers clients",
-      "snippet": "For your research, we’ve provided 9 tables on Meta Platforms Inc corporate clients . You can find them in the navigation menu under Customers & Market"
+      "snippet": "Meta Platforms , Inc . — американская транснациональная холдинговая компания, владеющая технологическим конгломератом и расположенная в Менло-Парке, К"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.statista.com/topics/9038/meta-platforms/",
+      "url": "https://www.insidermonkey.com/blog/nyus-aswath-damodaran-calls-meta-platforms-inc-nasdaqmeta-one-of-the-top-ai-value-stocks-1322639/",
       "query": "Meta Platforms, Inc. major customers clients",
-      "snippet": "Dec 17, 2025 · From humble beginnings to audiences of billions, Mark Zuckerberg’s Meta remains king of the social media jungle. Research expert coveri"
+      "snippet": "Since Meta Platforms Inc (NASDAQ: META ) ranks 3rd on the list, it deserves a deeper look. Aswath Damodaran is a Professor of Finance at the Stern Sch"
     }
   ]
 }

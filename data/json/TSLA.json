@@ -8,21 +8,21 @@
     "LG Chem",
     "CAT",
     "005930.KS",
-    "BOSCH"
+    "SK Innovation"
   ],
   "downstream": [
     "Individual consumers",
-    "Commercial fleet operators",
-    "Government agencies",
-    "Ride‑hailing companies",
-    "Energy storage customers"
+    "AMZN",
+    "Government fleet programs",
+    "Commercial trucking operators",
+    "Energy storage customers (Powerwall, Powerpack users)"
   ],
   "competitors": [
-    "Ford Motor Company",
     "General Motors",
-    "Volkswagen AG",
-    "Hyundai Motor Group",
-    "Rivian Automotive"
+    "Ford",
+    "Volkswagen",
+    "NIO",
+    "Lucid Motors"
   ],
   "key_products": [
     "Model S",
@@ -30,12 +30,13 @@
     "Model X",
     "Model Y",
     "Cybertruck",
+    "Semi",
     "Powerwall",
     "Powerpack",
     "Solar Roof",
     "Solar Panels"
   ],
-  "extracted_at": "2026-03-31 16:49:35",
+  "extracted_at": "2026-04-01 16:44:13",
   "sources": [
     {
       "source": "Wikipedia",
@@ -45,27 +46,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.investopedia.com/ask/answers/052815/who-are-teslas-tsla-main-suppliers.asp",
-      "query": "Tesla, Inc. suppliers manufacturers",
-      "snippet": "Nov 4, 2025 · Discover Tesla's key and rumored parts suppliers . Learn which companies provide essential components for Tesla's electric vehicles and "
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://investguiding.com/article/who-are-tesla-s-main-suppliers",
-      "query": "Tesla, Inc. suppliers manufacturers",
-      "snippet": "16 hours ago · Tesla has secured a stable supply system by signing long-term supply contracts with multiple companies for lithium, nickel, and cobalt "
-    },
-    {
-      "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Tesla,_Inc.",
-      "query": "Tesla, Inc. major customers clients",
+      "query": "Tesla, Inc. suppliers manufacturers",
       "snippet": "Tesla , Inc . is an American multinational automotive and clean energy company. Tesla was incorporated in July 2003 by Martin Eberhard and Marc Tarpen"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.tesla.com/",
+      "query": "Tesla, Inc. suppliers manufacturers",
+      "snippet": "Tesla is building a world of amazing abundance with AI, electric cars, solar, home batteries and integrated renewable energy solutions for homes and b"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/TSLA-Customers",
       "query": "Tesla, Inc. major customers clients",
-      "snippet": "Tesla Skip to main content. Vehicles. Energy.Learn. Video Guides. Customer Stories. Events."
+      "snippet": "We currently sell our cars primarily to individual customers . We have strategic or commercial relationships with Daimler, Toyota, and Panasonic. We c"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://businessmodelanalyst.com/tesla-target-market/",
+      "query": "Tesla, Inc. major customers clients",
+      "snippet": "Nov 7, 2024 · This article explores the intricacies of Tesla target market, analyzing the demographic, geographic, psychographic, and behavioral facto"
     }
   ]
 }

@@ -3,8 +3,8 @@ ticker: V
 company: Visa Inc.
 sector: Financial Services
 industry: Credit Services
-extracted_at: 2026-03-31 16:55:08
-last_updated: 2026-03-31
+extracted_at: 2026-04-01 16:49:34
+last_updated: 2026-04-01
 ---
 
 # V - Visa Inc.
@@ -12,37 +12,37 @@ last_updated: 2026-03-31
 ## 基本信息
 
 - **所属行业**: Financial Services / Credit Services
-- **提取时间**: 2026-03-31 16:55:08
+- **提取时间**: 2026-04-01 16:49:34
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Card manufacturing partners (e.g., Gemalto, IDEMIA)]]
+- [[Visa's card manufacturing partners (e.g., Gemalto, IDEMIA)]]
+- [[Chip and card technology suppliers]]
 - [[Payment network infrastructure providers]]
-- [[MSFT]]
-- [[Security and fraud‑prevention solution providers]]
-- [[Data center and cloud service providers]]
+- [[Security and fraud detection technology vendors]]
+- [[Data analytics platform providers]]
 
 ### 下游客户
-- [[Commercial banks and financial institutions]]
-- [[Retail merchants and e‑commerce platforms]]
-- [[Financial technology (fintech) companies]]
-- [[Consumer cardholders (credit, debit, prepaid users)]]
-- [[Government and public‑sector payment programs]]
+- [[Banks and financial institutions issuing Visa cards]]
+- [[Merchants and retailers accepting Visa payments]]
+- [[Consumers using Visa cards]]
+- [[Mobile wallet providers integrating Visa]]
+- [[Payment processors and acquirers]]
 
 ### 竞争对手
 - [[Mastercard]]
 - [[American Express]]
 - [[Discover Financial Services]]
-- [[PayPal]]
-- [[Square (now Block, Inc.)]]
+- [[JCB]]
+- [[UnionPay]]
 
 ### 核心产品
-- [[Visa payment network (VisaNet)]]
-- [[Credit card issuance services]]
-- [[Debit and prepaid card solutions]]
-- [[Digital wallet and mobile payment services]]
-- [[Transaction processing and settlement services]]
+- [[Visa payment network]]
+- [[Visa Credit Card services]]
+- [[Visa Debit Card services]]
+- [[Visa Prepaid Card services]]
+- [[Visa Mobile Payments (Visa Checkout, Visa Token Service)]]
 
 ## 数据来源
 
@@ -54,4 +54,4 @@ last_updated: 2026-03-31
 
 ## 元数据
 
-- **更新日期**: 2026-03-31
+- **更新日期**: 2026-04-01

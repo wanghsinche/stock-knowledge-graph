@@ -1,57 +1,57 @@
 ---
 ticker: CRCL
-company: Circle Internet Group, Inc.
-sector: Financial Services
-industry: Payments Technology / Stablecoin Issuance
-extracted_at: 2026-03-27 16:50:21
-last_updated: 2026-03-27
+company: Circle Internet Group
+sector: Financial Services / Capital Markets
+industry: Payments Technology
+extracted_at: 2026-04-01 16:53:45
+last_updated: 2026-04-01
 ---
 
-# CRCL - Circle Internet Group, Inc.
+# CRCL - Circle Internet Group
 
 ## 基本信息
 
-- **所属行业**: Financial Services / Payments Technology / Stablecoin Issuance
-- **提取时间**: 2026-03-27 16:50:21
+- **所属行业**: Financial Services / Capital Markets / Payments Technology
+- **提取时间**: 2026-04-01 16:53:45
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Blockchain infrastructure providers (e.g., Ethereum, Solana)]]
-- [[Cloud service providers (AWS, Azure, GCP)]]
-- [[Payment network partners (Visa, Mastercard)]]
-- [[Regulatory compliance service providers (Coinbase, BitGo)]]
-- [[Financial data providers (Bloomberg, Reuters)]]
+- [[AMZN]]
+- [[MSFT]]
+- [[GOOGL]]
+- [[Coinbase]]
+- [[Stripe]]
 
 ### 下游客户
-- [[Financial institutions (banks, credit unions)]]
-- [[Fintech companies (Stripe, Square)]]
-- [[Cryptocurrency exchanges (Binance, Coinbase)]]
-- [[Institutional investors (asset managers, pension funds)]]
-- [[Retail consumers via mobile wallets]]
+- [[PayPal]]
+- [[Square]]
+- [[AMZN]]
+- [[Facebook]]
+- [[GOOGL]]
 
 ### 竞争对手
 - [[Coinbase]]
+- [[Gemini]]
 - [[Binance]]
 - [[PayPal]]
-- [[Revolut]]
-- [[Stripe]]
+- [[Square]]
 
 ### 核心产品
 - [[USDC stablecoin]]
 - [[EURC stablecoin]]
 - [[USYC tokenized money market fund]]
 - [[Circle Pay]]
-- [[Circle API for stablecoin issuance]]
+- [[Circle Wallet]]
 
 ## 数据来源
 
 - [Circle Internet Group](https://en.wikipedia.org/wiki/Circle_Internet_Group)
-- [Circle Internet Group suppliers manufacturers](https://finance.yahoo.com/chart/CRCL)
-- [Circle Internet Group suppliers manufacturers](https://ru.investing.com/news/stock-market-news/article-93CH-3164898)
-- [Circle Internet Group major customers clients](https://www.fool.com/investing/2026/03/23/circle-soared-almost-70-this-year-1-reason-it-will/)
-- [Circle Internet Group major customers clients](https://finance.yahoo.com/chart/CRCL)
+- [Circle Internet Group suppliers manufacturers](https://www.circle.com/)
+- [Circle Internet Group suppliers manufacturers](https://www.alibaba.com/)
+- [Circle Internet Group major customers clients](https://www.circle.com/)
+- [Circle Internet Group major customers clients](https://www.youtube.com/watch?v=FTEL6100rps)
 
 ## 元数据
 
-- **更新日期**: 2026-03-27
+- **更新日期**: 2026-04-01

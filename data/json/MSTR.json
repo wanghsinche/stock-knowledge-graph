@@ -4,34 +4,34 @@
   "sector": "Technology",
   "industry": "Software - Application",
   "upstream": [
-    "AMZN",
     "MSFT",
+    "AMZN",
     "GOOGL",
-    "DELL",
-    "ORCL"
+    "ORCL",
+    "IBM"
   ],
   "downstream": [
+    "Bank of America",
     "Walmart",
-    "Coca-Cola",
-    "Procter & Gamble",
-    "Johnson & Johnson",
-    "General Electric"
+    "Coca‑Cola",
+    "General Electric",
+    "Procter & Gamble"
   ],
   "competitors": [
     "Tableau Software",
-    "Qlik Technologies",
     "MSFT",
+    "Qlik",
     "Looker",
-    "Sisense"
+    "SAP Analytics Cloud"
   ],
   "key_products": [
-    "MicroStrategy Analytics",
-    "MicroStrategy Mobile",
+    "MicroStrategy Desktop",
     "MicroStrategy Cloud",
-    "MicroStrategy Data Warehouse",
-    "MicroStrategy Dashboard"
+    "MicroStrategy Mobile",
+    "MicroStrategy Analytics",
+    "MicroStrategy AI"
   ],
-  "extracted_at": "2026-03-31 16:53:31",
+  "extracted_at": "2026-04-01 16:50:22",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://cryip.co/michael-saylor-strategy-bitcoin-pause-762099-btc/",
+      "url": "https://finance.yahoo.com/quote/MSTR/",
       "query": "Strategy Inc suppliers manufacturers",
-      "snippet": "Strategy pauses Bitcoin purchases, holds 762,099 BTC worth $57.69B, settles lawsuit, and signals no ATM stock activity in latest SEC filing."
+      "snippet": "Find the latest Strategy Inc (MSTR) stock quote, history, news and other vital information to help you with your stock trading and investing."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.alibaba.com/",
+      "url": "https://ru.tradingview.com/symbols/NASDAQ-MSTR/",
       "query": "Strategy Inc suppliers manufacturers",
-      "snippet": "Find quality Manufacturers , Suppliers , Exporters, Importers, Buyers, Wholesalers, Products and Trade Leads from our award-winning International Trad"
+      "snippet": "Следите за графиком Strategy Inc , чтобы быть в курсе цены акций. Вы также найдёте прогнозы, отчётность MSTR и новости рынка."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/MicroStrategy",
+      "url": "https://csimarket.com/stocks/STRF-Customers",
       "query": "Strategy Inc major customers clients",
-      "snippet": "Strategy Inc ., formerly known as MicroStrategy, is an American company that provides business intelligence and mobile software.In 1992, MicroStrategy"
+      "snippet": "Jan 30, 2026 · Strategy Inc customers and markets, results by customer and performance relative to STRF, by company and industry - CSIMarket"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.inc.com/",
+      "url": "https://www.strategy.com/software/customer-stories",
       "query": "Strategy Inc major customers clients",
-      "snippet": "Inc . media is the entrepreneurs source for ideas, resources and advice on how to successfully start, run and grow your business. Inc . Premium. How t"
+      "snippet": "Dive into Strategy customer stories highlighting the impact of Analytics in Healthcare, Financial Services, Call Centers, Retail, Insurance, and Gover"
     }
   ]
 }

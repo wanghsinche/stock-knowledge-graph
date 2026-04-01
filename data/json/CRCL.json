@@ -1,37 +1,37 @@
 {
   "ticker": "CRCL",
-  "company_name": "Circle Internet Group, Inc.",
-  "sector": "Financial Services",
-  "industry": "Payments Technology / Stablecoin Issuance",
+  "company_name": "Circle Internet Group",
+  "sector": "Financial Services / Capital Markets",
+  "industry": "Payments Technology",
   "upstream": [
-    "Blockchain infrastructure providers (e.g., Ethereum, Solana)",
-    "Cloud service providers (AWS, Azure, GCP)",
-    "Payment network partners (Visa, Mastercard)",
-    "Regulatory compliance service providers (Coinbase, BitGo)",
-    "Financial data providers (Bloomberg, Reuters)"
+    "AMZN",
+    "MSFT",
+    "GOOGL",
+    "Coinbase",
+    "Stripe"
   ],
   "downstream": [
-    "Financial institutions (banks, credit unions)",
-    "Fintech companies (Stripe, Square)",
-    "Cryptocurrency exchanges (Binance, Coinbase)",
-    "Institutional investors (asset managers, pension funds)",
-    "Retail consumers via mobile wallets"
+    "PayPal",
+    "Square",
+    "AMZN",
+    "Facebook",
+    "GOOGL"
   ],
   "competitors": [
     "Coinbase",
+    "Gemini",
     "Binance",
     "PayPal",
-    "Revolut",
-    "Stripe"
+    "Square"
   ],
   "key_products": [
     "USDC stablecoin",
     "EURC stablecoin",
     "USYC tokenized money market fund",
     "Circle Pay",
-    "Circle API for stablecoin issuance"
+    "Circle Wallet"
   ],
-  "extracted_at": "2026-03-27 16:50:21",
+  "extracted_at": "2026-04-01 16:53:45",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/chart/CRCL",
+      "url": "https://www.circle.com/",
       "query": "Circle Internet Group suppliers manufacturers",
-      "snippet": "Circle Internet Group (CRCL ). NYSE - Nasdaq Real Time Price•USD."
+      "snippet": "Circle International Bermuda Limited is licensed to conduct digital asset business by the Bermuda Monetary Authority. © 2026 Circle Internet Group , I"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ru.investing.com/news/stock-market-news/article-93CH-3164898",
+      "url": "https://www.alibaba.com/",
       "query": "Circle Internet Group suppliers manufacturers",
-      "snippet": "Investing.com — Акции Circle Internet Group (NYSE:CRCL) упали на 17% во вторник, в то время как Coinbase Global (NASDAQ:COIN) снизились на 8% после по"
+      "snippet": "Find quality Manufacturers , Suppliers , Exporters, Importers, Buyers, Wholesalers, Products and Trade Leads from our award-winning International Trad"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.fool.com/investing/2026/03/23/circle-soared-almost-70-this-year-1-reason-it-will/",
+      "url": "https://www.circle.com/",
       "query": "Circle Internet Group major customers clients",
-      "snippet": "Key Points. Circle Internet Group is a compliance-friendly face for the stablecoin industry. Issuance of USDC soared by 72% last year to $75 billion. "
+      "snippet": "Circle is building the foundation for an open, internet -native economy. Trusted by leading financial institutions since 2013, our full-stack platform"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/chart/CRCL",
+      "url": "https://www.youtube.com/watch?v=FTEL6100rps",
       "query": "Circle Internet Group major customers clients",
-      "snippet": "Circle Internet Group (CRCL ). NYSE - Nasdaq Real Time Price•USD."
+      "snippet": "In this video I'm going to show you how to get clients from Facebook groups that don't allow promotional posts or soliciting."
     }
   ]
 }

@@ -4,34 +4,34 @@
   "sector": "Technology",
   "industry": "Computer Hardware",
   "upstream": [
-    "INTC",
-    "AMD",
-    "NVDA",
-    "005930.KS",
-    "MU"
+    "Foxconn",
+    "Pegatron",
+    "Wistron",
+    "Flex",
+    "Jabil"
   ],
   "downstream": [
-    "United States Department of Defense",
-    "Fortune 500 companies",
-    "CAT",
-    "Healthcare providers",
-    "Government agencies"
+    "U.S. Department of Defense",
+    "AMZN",
+    "Walmart",
+    "MSFT",
+    "GOOGL"
   ],
   "competitors": [
     "HPQ",
     "Lenovo",
-    "AAPL",
     "Acer",
-    "Asus"
+    "Asus",
+    "AAPL"
   ],
   "key_products": [
-    "Personal computers",
+    "Personal Computers",
     "Servers",
-    "Monitors",
-    "Storage solutions",
-    "Networking equipment"
+    "Storage Solutions",
+    "Networking Equipment",
+    "Security Software"
   ],
-  "extracted_at": "2026-03-31 16:54:33",
+  "extracted_at": "2026-04-01 16:53:56",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Dell",
+      "url": "https://www.delltechnologies.com/asset/pl-pl/solutions/business-solutions/briefs-summaries/dell-public-supplier-list.pdf",
       "query": "Dell Technologies Inc. suppliers manufacturers",
-      "snippet": "Dell Inc ., formerly Dell Computer Corporation, is an American technology company that develops, sells, repairs, and supports personal computers (PCs)"
+      "snippet": "The list of supplier facilities includes original design manufacturers (ODMs), final assembly and material suppliers that Dell buys from directly and/"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ru.wikipedia.org/wiki/Dell",
+      "url": "https://csimarket.com/stocks/DELL-Suppliers",
       "query": "Dell Technologies Inc. suppliers manufacturers",
-      "snippet": "Dell Inc . — американская компания, один из крупнейших в мире производителей вычислительной техники. Штаб-квартира находится в Раунд-Роке в штате Теха"
+      "snippet": "Mar 20, 2026 · Dell Technologies Inc supply chain, list and performance of Dell Technologies Incs ' suppliers - CSIMarket"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/DELL-Customers",
+      "url": "https://en.wikipedia.org/wiki/Dell_Technologies",
       "query": "Dell Technologies Inc. major customers clients",
-      "snippet": "Mar 23, 2026 · For your research, we’ve provided 9 tables on Dell Technologies Inc corporate clients . You can find them in the navigation menu under "
+      "snippet": "Dell Technologies Inc . is an American multinational technology company that has been headquartered in Round Rock, Texas since 1994. It was formed as "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.dell.com/en-us/lp/dt/customer-stories",
+      "url": "https://www.dell.com/en-us",
       "query": "Dell Technologies Inc. major customers clients",
-      "snippet": "The Dell Technologies digital transformation library showcases how some of the largest brands bring their ideas to life, and their products to market."
+      "snippet": "Dell provides technology solutions, services & support. Buy Laptops, Touch Screen PCs, Desktops, Servers, Storage, Monitors, Gaming & Accessories.Univ"
     }
   ]
 }

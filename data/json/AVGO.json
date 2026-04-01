@@ -3,11 +3,35 @@
   "company_name": "Broadcom Inc.",
   "sector": "Technology",
   "industry": "Semiconductors",
-  "upstream": [],
-  "downstream": [],
-  "competitors": [],
-  "key_products": [],
-  "extracted_at": "2026-03-31 16:51:04",
+  "upstream": [
+    "TSM",
+    "005930.KS",
+    "INTC",
+    "QCOM",
+    "MU"
+  ],
+  "downstream": [
+    "CSCO",
+    "Huawei",
+    "DELL",
+    "HPQ",
+    "AMZN"
+  ],
+  "competitors": [
+    "INTC",
+    "QCOM",
+    "NVDA",
+    "AMD",
+    "MU"
+  ],
+  "key_products": [
+    "Wi‑Fi and Bluetooth chips",
+    "Ethernet controllers",
+    "Broadcom Switches",
+    "Broadcom Modems",
+    "Broadcom Storage Controllers"
+  ],
+  "extracted_at": "2026-04-01 16:47:16",
   "sources": [
     {
       "source": "Wikipedia",
@@ -23,9 +47,21 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/AVGO-Suppliers",
+      "url": "https://www.broadcom.com/how-to-buy/partner-distributor-lookup",
       "query": "Broadcom Inc. suppliers manufacturers",
-      "snippet": "Broadcom Inc supply chain, list and performance of Broadcom Incs ' suppliers - CSIMarket."
+      "snippet": "The Partner Locator will help you find the local expertise you need to be successful with Broadcom solutions. Begin searching by typing what you're lo"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/Broadcom",
+      "query": "Broadcom Inc. major customers clients",
+      "snippet": "Broadcom Inc . is an American multinational designer, developer, manufacturer, and global supplier of a wide range of semiconductor and infrastructure"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.linkedin.com/company/broadcom",
+      "query": "Broadcom Inc. major customers clients",
+      "snippet": "Broadcom ’s infrastructure software solutions serve markets including private cloud, mainframe software, cybersecurity, enterprise software, and Fibre"
     }
   ]
 }

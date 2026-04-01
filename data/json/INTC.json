@@ -4,11 +4,11 @@
   "sector": "Technology",
   "industry": "Semiconductors",
   "upstream": [
-    "TSM",
-    "GlobalFoundries",
-    "005930.KS",
-    "UMC",
-    "Tower Semiconductor"
+    "ASML",
+    "AMAT",
+    "LRCX",
+    "Siltronic (silicon wafer supplier)",
+    "BASF (chemical supplier)"
   ],
   "downstream": [
     "DELL",
@@ -22,16 +22,16 @@
     "NVDA",
     "QCOM",
     "AVGO",
-    "TXN"
+    "TSM"
   ],
   "key_products": [
-    "Intel Core processors",
-    "Intel Xeon processors",
-    "Intel Atom processors",
-    "Intel Optane SSDs",
-    "Intel Ethernet and network processors"
+    "Intel Core CPUs",
+    "Intel Xeon CPUs",
+    "Intel SSDs",
+    "Intel FPGAs",
+    "Intel AI accelerators"
   ],
-  "extracted_at": "2026-03-31 16:52:23",
+  "extracted_at": "2026-04-01 16:45:19",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/List_of_Intel_manufacturing_sites",
+      "query": "Intel Corporation suppliers manufacturers",
+      "snippet": "Intel is an American multinational corporation and technology company headquartered in Santa Clara, California. Processors are manufactured in semicon"
+    },
+    {
+      "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Intel",
       "query": "Intel Corporation suppliers manufacturers",
-      "snippet": "Intel Corporation is an American multinational technology company headquartered in Santa Clara, California. It designs, manufactures , and sells compu"
+      "snippet": "Intel Corporation is an American multinational technology company headquartered in Santa Clara, California. It designs, manufactures, and sells comput"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.linkedin.com/company/intel-corporation",
-      "query": "Intel Corporation suppliers manufacturers",
-      "snippet": "Intel | 4,172,943 followers on LinkedIn. Our mission is to shape the future of technology to help create a better future for the entire world, that’s "
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.intel.com/content/www/us/en/customer-spotlight/overview.html",
+      "url": "https://en.wikipedia.org/wiki/Intel",
       "query": "Intel Corporation major customers clients",
-      "snippet": "Explore the Intel Customer Spotlight for the latest customer stories, case studies, and testimonials highlighting data-centric innovations."
+      "snippet": "Intel Corporation is an American multinational technology company headquartered in Santa Clara, California. It designs, manufactures, and sells comput"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/INTC-Customers",
+      "url": "https://finance.yahoo.com/quote/INTC/",
       "query": "Intel Corporation major customers clients",
-      "snippet": "3 days ago · Intel customers and markets, results by customer and performance relative to INTC, by company and industry - CSIMarket"
+      "snippet": "Find the latest Intel Corporation (INTC) stock quote, history, news and other vital information to help you with your stock trading and investing."
     }
   ]
 }

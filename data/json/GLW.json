@@ -2,36 +2,36 @@
   "ticker": "GLW",
   "company_name": "Corning Incorporated",
   "sector": "Technology",
-  "industry": "Optical Communications",
+  "industry": "Electronic Components",
   "upstream": [
     "Silica sand suppliers",
-    "Chemical feedstock suppliers",
-    "Glass raw material suppliers",
-    "Ceramic raw material suppliers",
-    "Optical fiber component suppliers"
+    "Chemical feedstock suppliers (e.g., soda ash, alumina)",
+    "Glass manufacturing equipment manufacturers",
+    "META",
+    "Packaging material suppliers"
   ],
   "downstream": [
+    "005930.KS",
     "CAT",
-    "Display manufacturers",
-    "Medical imaging equipment manufacturers",
-    "Aerospace and defense contractors",
-    "Automotive electronics manufacturers"
+    "Scientific instrumentation companies (Thermo Fisher, Agilent)",
+    "Automotive OEMs (Toyota, Ford, BMW)",
+    "Aerospace and defense contractors (Boeing, Lockheed Martin)"
   ],
   "competitors": [
-    "Lumentum",
-    "II-VI Incorporated",
-    "Coherent",
-    "Infinera",
-    "Ciena"
+    "Schott AG",
+    "Saint‑Gobain",
+    "NKT Photonics",
+    "Lumentum Holdings",
+    "Coherent Inc."
   ],
   "key_products": [
-    "Optical fiber",
-    "Optical connectors",
-    "Optical amplifiers",
-    "Glass substrates",
-    "Ceramic components"
+    "Optical fiber and cable",
+    "Specialty glass for displays",
+    "Advanced optical components (lenses, prisms)",
+    "High‑performance ceramics",
+    "Glass for scientific instruments"
   ],
-  "extracted_at": "2026-03-30 16:50:34",
+  "extracted_at": "2026-04-01 16:50:10",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,15 +41,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.corning.com/worldwide/en/products/life-sciences/config/Distributors.html",
+      "url": "https://en.wikipedia.org/wiki/Corning_Inc.",
       "query": "Corning Incorporated suppliers manufacturers",
-      "snippet": "Find an authorized Corning Life Sciences distributor with our worldwide list."
+      "snippet": "Corning Incorporated is an American multinational technology company specializing in glass, ceramics, and related materials and technologies including"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.mouser.com/manufacturer/corning/",
+      "url": "https://www.corning.com/worldwide/en.html",
       "query": "Corning Incorporated suppliers manufacturers",
-      "snippet": "Today, Corning ' s markets include optical communications, mobile consumer electronics, display technology, automotive, and life sciences vessels."
+      "snippet": "Corning Incorporated is a global-leading innovator in materials science, with 170 years of life-changing inventions and category-defining products. Co"
     },
     {
       "source": "DuckDuckGo",

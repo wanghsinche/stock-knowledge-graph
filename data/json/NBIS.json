@@ -5,33 +5,33 @@
   "industry": "Internet Content & Information",
   "upstream": [
     "NVDA",
-    "Cloud infrastructure providers (AWS, Azure, GCP)",
+    "AMD",
     "INTC",
-    "Data center operators",
-    "Software vendors (TensorFlow, PyTorch)"
+    "GOOGL",
+    "AMZN"
   ],
   "downstream": [
-    "Paperspace",
-    "Enterprise AI developers",
-    "Cloud service customers",
-    "Research institutions",
-    "AI startup ecosystem"
+    "META",
+    "GOOGL",
+    "AMZN",
+    "MSFT",
+    "IBM"
   ],
   "competitors": [
+    "META",
     "OpenAI",
     "Anthropic",
-    "GOOGL",
-    "AWS AI",
-    "MSFT"
+    "Cohere",
+    "Hugging Face"
   ],
   "key_products": [
-    "Nebius AI Platform",
-    "Nebius Cloud",
-    "Nebius AI Infrastructure",
-    "Nebius AI Services",
-    "Nebius AI Solutions"
+    "AI infrastructure platform",
+    "Avride",
+    "TripleTen",
+    "Toloka",
+    "Clickhouse"
   ],
-  "extracted_at": "2026-03-31 16:53:12",
+  "extracted_at": "2026-04-01 16:48:50",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/suppliers_glance.php?code=NBIS",
+      "url": "https://en.wikipedia.org/wiki/Nebius_Group",
       "query": "NBIS suppliers manufacturers",
-      "snippet": "NBIS 's Suppliers Management Effectiveness. NBIS 's Competitors Results.Nebius Group N V's Comment on Supply Chain. NBIS 's Stock Perfrormance relativ"
+      "snippet": "Nebius Group N.V., headquartered in Amsterdam, is a technology company that provides artificial intelligence infrastructure. The company also owns Avr"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/NBIS/",
+      "url": "https://northwiseproject.com/nbis-bethune-france/",
       "query": "NBIS suppliers manufacturers",
-      "snippet": "Find the latest Nebius Group N.V. ( NBIS ) stock quote, history, news and other vital information to help you with your stock trading and investing."
+      "snippet": "Feb 14, 2026 · A site-specific deep dive into the NBIS Bethune France flagship 240MW campus and its role in European sovereign AI infrastructure."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/NBIS-Customers",
-      "query": "NBIS major customers clients",
-      "snippet": "1 day ago · For your research, we’ve provided 9 tables on Nebius Group n v corporate clients . You can find them in the navigation menu under Customer"
+      "url": "https://www.marketbeat.com/stocks/NASDAQ/NBIS/competitors-and-alternatives/",
+      "query": "NBIS competitors alternatives",
+      "snippet": "2 days ago · The main competitors of Nebius Group include Meta Platforms (META), Microsoft (MSFT), NVIDIA (NVDA), CrowdStrike (CRWD), and Cloudflare ("
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://techiq.substack.com/p/deep-dive-5-nebius-group-nbis-the",
-      "query": "NBIS major customers clients",
-      "snippet": "Feb 18, 2025 · Target Customers & Use Cases: Paperspace primarily targets developers, small teams, and educators in AI who want an easy-to-use, low-fr"
+      "url": "https://tradestie.com/stocks/NBIS/competitors/",
+      "query": "NBIS competitors alternatives",
+      "snippet": "Find the best alternatives to NBIS (Nebius Group N.V. Class A Ordinary Shares). Compare NBIS vs top competitors in Services-Computer Programming, Data"
     }
   ]
 }

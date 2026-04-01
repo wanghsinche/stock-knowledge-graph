@@ -1,37 +1,37 @@
 {
   "ticker": "SNDK",
-  "company_name": "SanDisk Corporation",
+  "company_name": "Sandisk Corporation",
   "sector": "Technology",
   "industry": "Computer Hardware",
   "upstream": [
+    "TSM",
     "005930.KS",
     "MU",
     "SK Hynix",
-    "Nanya Technology",
-    "Winbond Electronics"
+    "Toshiba"
   ],
   "downstream": [
+    "AAPL",
+    "005930.KS",
     "DELL",
     "HPQ",
-    "Lenovo Group",
-    "AAPL",
-    "SONY"
+    "AMZN"
   ],
   "competitors": [
-    "Kingston Technology",
-    "Lexar Corporation",
-    "Corsair",
     "005930.KS",
-    "WDC"
+    "MU",
+    "INTC",
+    "SK Hynix",
+    "Toshiba"
   ],
   "key_products": [
-    "Memory cards (SD, microSD)",
+    "SD cards",
+    "microSD cards",
     "USB flash drives",
-    "Solid‑state drives (SSD)",
-    "Embedded flash solutions",
-    "Enterprise storage solutions"
+    "Solid-state drives (SSDs)",
+    "Memory cards"
   ],
-  "extracted_at": "2026-03-31 16:50:04",
+  "extracted_at": "2026-04-01 16:44:24",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/SanDisk",
+      "query": "Sandisk Corporation suppliers manufacturers",
+      "snippet": "Sandisk Corporation (formerly branded SanDisk ) is an American multinational computer semiconductor company based in Milpitas, California, that design"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.sandisk.com/company/distributors",
+      "query": "Sandisk Corporation suppliers manufacturers",
+      "snippet": "Find Sandisk Distributors & Resellers Purchase from your preferred Sandisk authorized partner."
+    },
+    {
+      "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Sandisk",
-      "query": "Sandisk Corporation suppliers manufacturers",
-      "snippet": "Sandisk Corporation is an American multinational computer technology company based in Milpitas, California, that designs and manufactures flash memory"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://ru.wikipedia.org/wiki/SanDisk",
-      "query": "Sandisk Corporation suppliers manufacturers",
-      "snippet": "SanDisk Corporation . Изображение логотипа. SanDisk — американская корпорация, занимавшаяся разработкой и производством носителей информации на базе ф"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://ru.wikipedia.org/wiki/SanDisk",
       "query": "Sandisk Corporation major customers clients",
-      "snippet": "SanDisk Corporation . SanDisk — американская корпорация, занимавшаяся разработкой и производством носителей информации на базе флеш-памяти. Корпорация"
+      "snippet": "5 days ago - Sandisk Corporation (formerly branded SanDisk) is an American multinational computer semiconductor company based in Milpitas, California,"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.sandisk.com/",
+      "url": "https://finance.yahoo.com/news/why-sandisk-consumer-segments-drove-140727769.html",
       "query": "Sandisk Corporation major customers clients",
-      "snippet": "Sandisk online store members receive free standard shipping on all eligible orders.New Sandisk Customers Sign Up and Save 10% Off. Explore the latest "
+      "snippet": "May 6, 2016 - This shows the company’s dependence on a few large customers and its ability to grow even without a key customer. Analysts believe that "
     }
   ]
 }

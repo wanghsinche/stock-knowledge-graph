@@ -3,8 +3,8 @@ ticker: APLS
 company: Apellis Pharmaceuticals, Inc.
 sector: Healthcare
 industry: Biotechnology
-extracted_at: 2026-03-31 16:51:14
-last_updated: 2026-03-31
+extracted_at: 2026-04-01 16:52:55
+last_updated: 2026-04-01
 ---
 
 # APLS - Apellis Pharmaceuticals, Inc.
@@ -12,46 +12,28 @@ last_updated: 2026-03-31
 ## 基本信息
 
 - **所属行业**: Healthcare / Biotechnology
-- **提取时间**: 2026-03-31 16:51:14
+- **提取时间**: 2026-04-01 16:52:55
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Contract manufacturing organizations (CMOs)]]
-- [[Raw material suppliers (chemicals, reagents)]]
-- [[Biotech equipment suppliers]]
-- [[Clinical trial service providers]]
-- [[Regulatory consulting firms]]
+_暂无数据_
 
 ### 下游客户
-- [[Hematologists]]
-- [[Nephrologists]]
-- [[Hospitals]]
-- [[Pharmaceutical distributors]]
-- [[Health insurance providers]]
+_暂无数据_
 
 ### 竞争对手
-- [[Alexion Pharmaceuticals]]
-- [[Amgen]]
-- [[Novartis]]
-- [[Roche]]
-- [[Bristol Myers Squibb]]
+_暂无数据_
 
 ### 核心产品
-- [[APL-2 (APL-2) for atypical hemolytic uremic syndrome (aHUS)]]
-- [[APL-2 for paroxysmal nocturnal hemoglobinuria (PNH)]]
-- [[APL-2 for other complement-mediated diseases]]
-- [[Clinical trial candidates targeting complement pathways]]
-- [[Potential complement inhibitors]]
+_暂无数据_
 
 ## 数据来源
 
 - 
 - [Apellis Pharmaceuticals, Inc. suppliers manufacturers](https://apellis.com/)
-- [Apellis Pharmaceuticals, Inc. suppliers manufacturers](https://csimarket.com/stocks/suppliers_glance.php?code=APLS)
-- [Apellis Pharmaceuticals, Inc. major customers clients](https://portersfiveforce.com/blogs/target-market/apellis)
-- [Apellis Pharmaceuticals, Inc. major customers clients](https://investors.apellis.com/static-files/7b089908-1659-4803-8445-41868b9487a4)
+- [Apellis Pharmaceuticals, Inc. suppliers manufacturers](https://www.linkedin.com/company/apellis)
 
 ## 元数据
 
-- **更新日期**: 2026-03-31
+- **更新日期**: 2026-04-01
