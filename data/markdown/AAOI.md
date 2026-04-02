@@ -1,57 +1,57 @@
 ---
 ticker: AAOI
 company: Applied Optoelectronics, Inc.
-sector: Technology / Communication Equipment
-industry: Optical Communications / Semiconductor
-extracted_at: 2026-03-30 16:54:46
-last_updated: 2026-03-30
+sector: Technology
+industry: Communication Equipment
+extracted_at: 2026-04-02 16:48:48
+last_updated: 2026-04-02
 ---
 
 # AAOI - Applied Optoelectronics, Inc.
 
 ## 基本信息
 
-- **所属行业**: Technology / Communication Equipment / Optical Communications / Semiconductor
-- **提取时间**: 2026-03-30 16:54:46
+- **所属行业**: Technology / Communication Equipment
+- **提取时间**: 2026-04-02 16:48:48
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Lattice Semiconductor]]
-- [[TXN]]
-- [[ADI]]
-- [[AVGO]]
-- [[QRVO]]
+- [[Semiconductor wafer suppliers]]
+- [[Photonic material manufacturers]]
+- [[Optical fiber and cable suppliers]]
+- [[Packaging and assembly vendors]]
+- [[Electronic component distributors]]
 
 ### 下游客户
 - [[CSCO]]
-- [[JNPR]]
-- [[ANET]]
-- [[Huawei]]
-- [[DELL]]
+- [[Data center infrastructure providers]]
+- [[High‑speed networking equipment makers]]
+- [[CAT]]
+- [[Enterprise networking solution vendors]]
 
 ### 竞争对手
+- [[Finisar Corporation]]
+- [[Lumentum Holdings]]
+- [[II‑VI Incorporated]]
 - [[AVGO]]
-- [[Ciena]]
-- [[Lumentum]]
-- [[Infinera]]
-- [[Cree]]
+- [[Ciena Corporation]]
 
 ### 核心产品
-- [[400G optical transceivers]]
-- [[800G optical transceivers]]
-- [[SFP+ modules]]
-- [[QSFP28 modules]]
-- [[Photonic integrated circuits]]
+- [[Fiber optic transceivers (SFP, QSFP, CFP)]]
+- [[Optical modules and transponder assemblies]]
+- [[Photonic integrated circuits (PICs)]]
+- [[Laser diodes and VCSELs]]
+- [[Optical amplifiers and signal processors]]
 
 ## 数据来源
 
 - 
-- [Applied Optoelectronics, Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/Applied_Optoelectronics)
-- [Applied Optoelectronics, Inc. suppliers manufacturers](https://en.abrams.wiki/Applied-Optoelectronics-Inc/3-VOhNemYYMvNbtk9t32Xurg)
-- [Applied Optoelectronics, Inc. major customers clients](https://finance.yahoo.com/news/applied-optoelectronics-aaoi-soars-22-212702198.html)
-- [Applied Optoelectronics, Inc. major customers clients](https://investors.ao-inc.com/ir-services/investor-faqs)
+- [Applied Optoelectronics, Inc. suppliers manufacturers](https://csimarket.com/stocks/AAOI-Suppliers)
+- [Applied Optoelectronics, Inc. suppliers manufacturers](https://everyticker.com/quote/AAOI)
+- [Applied Optoelectronics, Inc. major customers clients](https://www.rttnews.com/3546312/applied-optoelectronics-stock-rises-4-on-major-customer-shipment-milestone.aspx)
+- [Applied Optoelectronics, Inc. major customers clients](https://everyticker.com/quote/AAOI)
 
 ## 元数据
 
-- **更新日期**: 2026-03-30
+- **更新日期**: 2026-04-02

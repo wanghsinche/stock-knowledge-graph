@@ -1,37 +1,37 @@
 {
   "ticker": "CRWV",
   "company_name": "CoreWeave, Inc.",
-  "sector": "Technology",
-  "industry": "Software - Infrastructure",
+  "sector": "Technology / Software - Infrastructure",
+  "industry": "AI Cloud Computing / GPU Cloud Services",
   "upstream": [
     "NVDA",
     "AMD",
     "INTC",
-    "GOOGL",
-    "AMZN"
+    "DELL",
+    "HPQ"
   ],
   "downstream": [
     "OpenAI",
-    "MSFT",
     "GOOGL",
-    "Enterprise AI developers",
-    "Startups in AI research"
+    "MSFT",
+    "AMZN",
+    "IBM"
   ],
   "competitors": [
-    "AWS",
+    "NVDA",
     "GOOGL",
     "MSFT",
-    "NVDA",
+    "AMZN",
     "Paperspace"
   ],
   "key_products": [
-    "GPU cloud infrastructure",
-    "AI compute instances",
-    "Chip management software",
-    "High-performance GPU rentals",
-    "AI training services"
+    "GPU Cloud Infrastructure",
+    "GPU-as-a-Service",
+    "AI Compute Services",
+    "GPU Management Software",
+    "High-Performance AI Workloads"
   ],
-  "extracted_at": "2026-04-01 16:49:02",
+  "extracted_at": "2026-04-02 16:50:13",
   "sources": [
     {
       "source": "Wikipedia",
@@ -59,7 +59,7 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.zacks.com/stock/news/2891665/coreweave-vs-cloudflare-which-ai-cloud-stock-offers-better-upside?art_rec=home-home-investment_ideas_stocks-ID10-txt-2891665",
+      "url": "https://www.zacks.com/stock/news/2891665/coreweave-vs-cloudflare-which-ai-cloud-stock-offers-better-upside",
       "query": "CoreWeave, Inc. major customers clients",
       "snippet": "CoreWeave is a specialized AI cloud provider focused on renting high-performance GPUs for training and running AI models. Cloudflare acts as a softwar"
     }

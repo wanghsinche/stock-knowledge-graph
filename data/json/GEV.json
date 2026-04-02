@@ -4,34 +4,34 @@
   "sector": "Industrials",
   "industry": "Specialty Industrial Machinery",
   "upstream": [
-    "Turbine blade manufacturers",
-    "High‑temperature alloy suppliers",
-    "Electronic component suppliers",
-    "Fuel system component suppliers",
-    "Materials and chemicals suppliers"
+    "GE Power",
+    "GE Renewable Energy",
+    "GE Digital",
+    "GE Aerospace",
+    "GE Transportation"
   ],
   "downstream": [
-    "Electric utilities",
-    "Independent power producers",
-    "Oil & gas operators",
-    "Industrial power plants",
-    "Renewable energy developers"
+    "Utilities",
+    "Grid operators",
+    "Renewable energy developers",
+    "Large industrial customers",
+    "Government agencies"
   ],
   "competitors": [
     "Siemens Energy",
     "ABB",
-    "Mitsubishi Power",
-    "Alstom Power",
-    "Doosan Power Systems"
+    "Schneider Electric",
+    "Mitsubishi Electric",
+    "General Electric (legacy)"
   ],
   "key_products": [
     "Gas turbines",
     "Steam turbines",
+    "Wind turbines",
     "Power generation equipment",
-    "Renewable energy solutions",
-    "Service & maintenance solutions"
+    "Grid services"
   ],
-  "extracted_at": "2026-04-01 16:49:23",
+  "extracted_at": "2026-04-02 16:50:50",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/GE_Vernova",
+      "query": "GE Vernova Inc. suppliers manufacturers",
+      "snippet": "GE Vernova, Inc. is an energy equipment manufacturing and services company headquartered in Cambridge, Massachusetts. The company operates through thr"
+    },
+    {
+      "source": "DuckDuckGo",
       "url": "https://www.gevernova.com/grid-solutions/suppliers",
       "query": "GE Vernova Inc. suppliers manufacturers",
-      "snippet": "Explore GE Vernova ’ s supplier portal for partnership opportunities and procurement information."
+      "snippet": "Suppliers can access all relevant areas of GE Vernova including sourcing, purchasing, finance, engineering, production control and logistics. Missing:"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.volza.com/p/ge-vernova/manufacturers/",
-      "query": "GE Vernova Inc. suppliers manufacturers",
-      "snippet": "Access 8 verified Ge Vernova Suppliers with shipment-level prices, volumes, routes, buyer networks, and verified decision-maker contacts — all backed "
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/GE_Vernova",
+      "url": "https://www.gevernova.com/sustainability/documents/Sustainability/2023-Sustainability-Report-Executive-Summary-Business-Segments.pdf",
       "query": "GE Vernova Inc. major customers clients",
-      "snippet": "GE Vernova , Inc . is an energy equipment manufacturing and services company headquartered in Cambridge, Massachusetts. The company operates through t"
+      "snippet": "Our strong supply chain governance programs help to advance positive change for people supporting our efforts, no matter their background or location."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.gevernova.com/",
+      "url": "https://matrixbcg.com/blogs/target-market/gevernova",
       "query": "GE Vernova Inc. major customers clients",
-      "snippet": "GE Vernova is accelerating the path to more reliable, affordable, and sustainable energy through our innovative portfolio of electrification and decar"
+      "snippet": "Mar 8, 2026 · Its customers are institutional purchasers shaping grid-scale decarbonization across regions. Understanding these segments clarifies rev"
     }
   ]
 }

@@ -8,18 +8,18 @@
     "MSFT",
     "GOOGL",
     "ORCL",
-    "IBM"
+    "DELL"
   ],
   "downstream": [
-    "Coca-Cola",
-    "Toyota",
+    "Coca‑Cola",
+    "Toyota Motor Corporation",
     "American Express",
     "AT&T",
-    "Verizon"
+    "Unilever"
   ],
   "competitors": [
     "MSFT",
-    "SAP SuccessFactors",
+    "SAP Customer Experience",
     "ORCL",
     "HubSpot",
     "Zoho CRM"
@@ -29,9 +29,12 @@
     "Service Cloud",
     "Marketing Cloud",
     "Commerce Cloud",
-    "Einstein AI"
+    "Einstein AI",
+    "MuleSoft",
+    "Tableau",
+    "Slack"
   ],
-  "extracted_at": "2026-04-01 16:48:40",
+  "extracted_at": "2026-04-02 16:49:53",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,15 +44,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Salesforce",
-      "query": "Salesforce, Inc. suppliers manufacturers",
-      "snippet": "Salesforce , Inc ., is an American cloud -based software company headquartered in San Francisco, California. It provides applications focused on sales"
-    },
-    {
-      "source": "DuckDuckGo",
       "url": "https://www.salesforce.com/company/our-brands/",
       "query": "Salesforce, Inc. suppliers manufacturers",
       "snippet": "See our full list of Salesforce brands and find out how these companies inspire innovation to provide customer solutions."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.salesforce.com/manufacturing/software/",
+      "query": "Salesforce, Inc. suppliers manufacturers",
+      "snippet": "Empower your teams with the #1 AI CRM for manufacturing. · Build a community of collaboration. · Provide forecast and incentive program visibility to "
     },
     {
       "source": "DuckDuckGo",

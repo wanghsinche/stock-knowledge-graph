@@ -1,37 +1,13 @@
 {
   "ticker": "NKE",
-  "company_name": "Nike, Inc.",
+  "company_name": "NIKE, Inc.",
   "sector": "Consumer Cyclical",
   "industry": "Footwear & Accessories",
-  "upstream": [
-    "Independent footwear manufacturers in Vietnam",
-    "Independent footwear manufacturers in China",
-    "Independent footwear manufacturers in Indonesia",
-    "Raw material suppliers for leather and synthetic fabrics",
-    "Rubber and sole component suppliers"
-  ],
-  "downstream": [
-    "Nike's own brands: Nike, Jordan, Converse",
-    "Retail partners: Foot Locker, JD Sports, Finish Line",
-    "AMZN",
-    "Sports retailers: Dick’s Sporting Goods",
-    "International distribution partners"
-  ],
-  "competitors": [
-    "Adidas",
-    "Under Armour",
-    "Puma",
-    "New Balance",
-    "ASICS"
-  ],
-  "key_products": [
-    "Nike Air Max series",
-    "Nike Air Jordan line",
-    "Nike React foam footwear",
-    "Nike Dri‑FIT apparel",
-    "Nike Sportswear collection"
-  ],
-  "extracted_at": "2026-04-01 16:46:15",
+  "upstream": [],
+  "downstream": [],
+  "competitors": [],
+  "key_products": [],
+  "extracted_at": "2026-04-02 16:48:10",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +17,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Nike,_Inc.",
-      "query": "NIKE, Inc. suppliers manufacturers",
-      "snippet": "Nike , Inc . is an American athletic footwear and apparel corporation headquartered near Beaverton, Oregon. It is the world's largest supplier of athl"
-    },
-    {
-      "source": "DuckDuckGo",
       "url": "https://manufacturingmap.nikeinc.com/",
       "query": "NIKE, Inc. suppliers manufacturers",
-      "snippet": "Nike Manufacturing Map: Transparency is fundamental to NIKE , Inc . business and our approach to sustainability. This site is a tool to learn about th"
+      "snippet": "This site is a tool to learn about the independent factories and material suppliers used to manufacture NIKE products - including the name and locatio"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Nike,_Inc.",
-      "query": "NIKE, Inc. major customers clients",
-      "snippet": "Nike , Inc . is an American athletic footwear and apparel corporation headquartered near Beaverton, Oregon. It is the world's largest supplier of athl"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://about.nike.com/en/company",
-      "query": "NIKE, Inc. major customers clients",
-      "snippet": "NIKE , Inc . is a team comprised of the Nike , Jordan and Converse brands driven by a shared purpose to leave an enduring impact. Who We Are. NIKE , I"
+      "url": "https://about.nike.com/en/mission/initiatives/broadening-our-suppliers-at-nike",
+      "query": "NIKE, Inc. suppliers manufacturers",
+      "snippet": "To date, NIKE, Inc . works with 120+ diverse suppliers throughout the U.S. and EMEA and has spent $1.4 billion with diverse suppliers ."
     }
   ]
 }

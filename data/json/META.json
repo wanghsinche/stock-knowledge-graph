@@ -4,39 +4,34 @@
   "sector": "Communication Services",
   "industry": "Internet Content & Information",
   "upstream": [
-    "DELL",
-    "HPQ",
-    "CSCO",
+    "AMZN",
+    "MSFT",
+    "GOOGL",
     "NVDA",
-    "AMZN"
+    "INTC"
   ],
   "downstream": [
-    "Advertisers",
-    "Businesses",
-    "App developers",
-    "Content creators",
-    "End users"
+    "Advertisers (global brands and agencies)",
+    "Small and medium‑size businesses",
+    "App developers and content creators",
+    "E‑commerce merchants",
+    "Media and entertainment companies"
   ],
   "competitors": [
     "GOOGL",
     "AMZN",
     "AAPL",
     "MSFT",
-    "ByteDance Ltd."
+    "ByteDance Ltd. (TikTok)"
   ],
   "key_products": [
     "Facebook",
     "Instagram",
     "WhatsApp",
     "Messenger",
-    "Threads",
-    "Meta Quest",
-    "Meta Horizon",
-    "Meta Business Suite",
-    "Meta Ads Manager",
-    "Meta Pay"
+    "Meta Quest (VR/AR platform)"
   ],
-  "extracted_at": "2026-04-01 16:44:34",
+  "extracted_at": "2026-04-02 16:46:24",
   "sources": [
     {
       "source": "Wikipedia",
@@ -46,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
+      "url": "https://www.meta.com/about/",
+      "query": "Meta Platforms, Inc. suppliers manufacturers",
+      "snippet": "Meta - Social Media Advertising Platform (Facebook & Instagram)."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.computerhope.com/comp/meta.htm",
+      "query": "Meta Platforms, Inc. suppliers manufacturers",
+      "snippet": "Before it was rebranded as Meta in October 2021, Meta was known as Facebook Inc . According to Zuckerberg, the name Meta emphasizes their focus on VR "
+    },
+    {
+      "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Meta_Platforms",
-      "query": "Meta Platforms, Inc. suppliers manufacturers",
-      "snippet": "Meta owns and operates several prominent social media platforms and communication services, including Facebook, Instagram, WhatsApp, Messenger, Thread"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://forwork.meta.com/legal/mfw-subprocessor-list/",
-      "query": "Meta Platforms, Inc. suppliers manufacturers",
-      "snippet": "Nov 13, 2023 · Starting February 20, 2026, Meta Horizon managed services will no longer be available for purchase. Visit the Help Center to learn more"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://ru.wikipedia.org/wiki/Meta_Platforms",
       "query": "Meta Platforms, Inc. major customers clients",
-      "snippet": "Meta Platforms , Inc . — американская транснациональная холдинговая компания, владеющая технологическим конгломератом и расположенная в Менло-Парке, К"
+      "snippet": "Meta Platforms , Inc . (doing business as Meta) is an American multinational technology company headquartered in Menlo Park, California. Meta owns and"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.insidermonkey.com/blog/nyus-aswath-damodaran-calls-meta-platforms-inc-nasdaqmeta-one-of-the-top-ai-value-stocks-1322639/",
+      "url": "https://csimarket.com/stocks/META-Customers",
       "query": "Meta Platforms, Inc. major customers clients",
-      "snippet": "Since Meta Platforms Inc (NASDAQ: META ) ranks 3rd on the list, it deserves a deeper look. Aswath Damodaran is a Professor of Finance at the Stern Sch"
+      "snippet": "For your research, we’ve provided 9 tables on Meta Platforms Inc corporate clients . You can find them in the navigation menu under Customers & Market"
     }
   ]
 }

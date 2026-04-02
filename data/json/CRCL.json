@@ -1,37 +1,37 @@
 {
   "ticker": "CRCL",
-  "company_name": "Circle Internet Group",
+  "company_name": "Circle Internet Group, Inc.",
   "sector": "Financial Services / Capital Markets",
-  "industry": "Payments Technology",
+  "industry": "Payments Technology / Stablecoin Issuance",
   "upstream": [
-    "AMZN",
-    "MSFT",
-    "GOOGL",
-    "Coinbase",
-    "Stripe"
+    "Blockchain infrastructure providers",
+    "Cloud service providers (e.g., AWS, Azure)",
+    "Payment processor partners",
+    "Stablecoin auditing firms",
+    "Regulatory compliance service providers"
   ],
   "downstream": [
-    "PayPal",
-    "Square",
-    "AMZN",
-    "Facebook",
-    "GOOGL"
+    "Retail consumers using USDC/EURC for payments",
+    "Cryptocurrency exchanges (e.g., Coinbase, Binance)",
+    "Institutional investors and asset managers",
+    "Fintech companies integrating stablecoins",
+    "Banks and payment networks utilizing Circle’s APIs"
   ],
   "competitors": [
     "Coinbase",
     "Gemini",
     "Binance",
     "PayPal",
-    "Square"
+    "Revolut"
   ],
   "key_products": [
     "USDC stablecoin",
     "EURC stablecoin",
     "USYC tokenized money market fund",
-    "Circle Pay",
-    "Circle Wallet"
+    "Circle Pay API",
+    "Crypto custody services"
   ],
-  "extracted_at": "2026-04-01 16:53:45",
+  "extracted_at": "2026-04-02 16:51:51",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.circle.com/",
+      "url": "https://en.wikipedia.org/wiki/Circle_Internet_Group",
       "query": "Circle Internet Group suppliers manufacturers",
-      "snippet": "Circle International Bermuda Limited is licensed to conduct digital asset business by the Bermuda Monetary Authority. © 2026 Circle Internet Group , I"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.alibaba.com/",
-      "query": "Circle Internet Group suppliers manufacturers",
-      "snippet": "Find quality Manufacturers , Suppliers , Exporters, Importers, Buyers, Wholesalers, Products and Trade Leads from our award-winning International Trad"
+      "snippet": "3 days ago · Circle (legally Circle Internet Group , Inc.[2]) is a payments technology company. Founded by Jeremy Allaire and Sean Neville in 2013, [3"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.circle.com/",
-      "query": "Circle Internet Group major customers clients",
-      "snippet": "Circle is building the foundation for an open, internet -native economy. Trusted by leading financial institutions since 2013, our full-stack platform"
+      "query": "Circle Internet Group suppliers manufacturers",
+      "snippet": "Oct 28, 2025 · Circle is building a new internet financial system, making money movement around the world as seamless as sending an email."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.youtube.com/watch?v=FTEL6100rps",
+      "url": "https://www.fool.com/investing/2025/06/27/why-circle-internet-stock-imploded-this-week/",
       "query": "Circle Internet Group major customers clients",
-      "snippet": "In this video I'm going to show you how to get clients from Facebook groups that don't allow promotional posts or soliciting."
+      "snippet": "Circle Internet Group Stock Quote. Market Cap.A major valuation is making many nervous. Even after this week's nearly 25% retreat, Circle 's market ca"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.insidermonkey.com/blog/circle-internet-group-crcl-billionaire-david-abrams-sells-position-1725538/",
+      "query": "Circle Internet Group major customers clients",
+      "snippet": "Circle Internet Group (NYSE:CRCL) does not feature in the 13F portfolio of Abrams Capital Management for the fourth quarter of 2025."
     }
   ]
 }

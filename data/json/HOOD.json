@@ -1,18 +1,18 @@
 {
   "ticker": "HOOD",
   "company_name": "Robinhood Markets, Inc.",
-  "sector": "Financial Services",
-  "industry": "Online Brokerage",
+  "sector": "Financial Services / Capital Markets",
+  "industry": "Online Brokerage / Retail Trading Platform",
   "upstream": [
-    "Bloomberg Market Data",
-    "Thomson Reuters",
+    "Market data providers (e.g., Bloomberg, Refinitiv)",
+    "Payment processors (e.g., Stripe, PayPal)",
     "AMZN",
-    "GOOGL",
-    "Stripe"
+    "Regulatory compliance services",
+    "MSFT"
   ],
   "downstream": [
     "Retail investors",
-    "High‑frequency traders",
+    "High-net-worth individuals",
     "Institutional clients",
     "Crypto traders",
     "Financial advisors"
@@ -25,13 +25,13 @@
     "Webull"
   ],
   "key_products": [
-    "Commission‑free stock trading",
-    "Robinhood Gold",
-    "Margin trading",
+    "Commission‑free stock and ETF trading",
+    "Robinhood Gold premium service",
+    "Cash management and interest",
     "Cryptocurrency trading",
-    "Cash management"
+    "Options trading"
   ],
-  "extracted_at": "2026-04-01 16:51:10",
+  "extracted_at": "2026-04-02 16:50:23",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,21 +47,21 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://pitchgrade.com/companies/robinhood-markets",
+      "url": "https://csimarket.com/stocks/HOOD-Suppliers",
       "query": "Robinhood Markets, Inc. suppliers manufacturers",
-      "snippet": "How Robinhood Markets , Inc . generates revenue across its key business segments and the unit economics behind each. A data-backed SWOT analysis cover"
+      "snippet": "Feb 28, 2026 · For your research, we’ve provided nine additional tables on Robinhood Markets Inc ’s suppliers . You can find them in the navigation me"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Robinhood_Markets",
+      "url": "https://investingintheweb.com/brokers/robinhood-statistics/",
       "query": "Robinhood Markets, Inc. major customers clients",
-      "snippet": "Robinhood Markets , Inc . is an American financial services company based in Menlo Park, California. It provides an electronic trading platform that f"
+      "snippet": "Jan 2, 2026 · The platform has gained a massive customer base in the US, making it a major disruptor in the finance industry. In this article, we’ll e"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.bbb.org/us/ca/palo-alto/profile/financial-services/robinhood-markets-inc-1216-417256/customer-reviews",
+      "url": "https://investors.robinhood.com/news-releases/news-release-details/robinhood-markets-inc-reports-november-2025-operating-data",
       "query": "Robinhood Markets, Inc. major customers clients",
-      "snippet": "Robinhood Markets , Inc . is NOT a BBB Accredited Business. To become accredited, a business must agree to BBB Standards for Trust and pass BBB's vett"
+      "snippet": "Dec 10, 2025 · Today, Robinhood , through its subsidiaries, lets you trade stocks, options, futures (which includes event contracts), and crypto, inve"
     }
   ]
 }

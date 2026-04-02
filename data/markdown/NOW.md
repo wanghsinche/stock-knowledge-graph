@@ -3,8 +3,8 @@ ticker: NOW
 company: ServiceNow, Inc.
 sector: Technology
 industry: Software - Application
-extracted_at: 2026-03-30 16:54:34
-last_updated: 2026-03-30
+extracted_at: 2026-04-02 16:51:20
+last_updated: 2026-04-02
 ---
 
 # NOW - ServiceNow, Inc.
@@ -12,7 +12,7 @@ last_updated: 2026-03-30
 ## 基本信息
 
 - **所属行业**: Technology / Software - Application
-- **提取时间**: 2026-03-30 16:54:34
+- **提取时间**: 2026-04-02 16:51:20
 
 ## 产业链关系
 
@@ -20,38 +20,38 @@ last_updated: 2026-03-30
 - [[AMZN]]
 - [[MSFT]]
 - [[GOOGL]]
-- [[DELL]]
-- [[CSCO]]
+- [[ORCL]]
+- [[VMware]]
 
 ### 下游客户
 - [[Walmart]]
 - [[JPMorgan Chase]]
-- [[AT&T]]
-- [[Coca-Cola]]
+- [[Coca‑Cola]]
 - [[Bank of America]]
+- [[General Electric]]
 
 ### 竞争对手
 - [[CRM]]
-- [[SAP]]
-- [[ORCL]]
 - [[MSFT]]
-- [[IBM]]
+- [[SAP SuccessFactors]]
+- [[Workday]]
+- [[Atlassian]]
 
 ### 核心产品
-- [[ServiceNow Platform]]
-- [[IT Service Management (ITSM)]]
-- [[IT Operations Management (ITOM)]]
-- [[Customer Service Management (CSM)]]
+- [[Now Platform]]
+- [[IT Service Management]]
+- [[IT Operations Management]]
+- [[Customer Service Management]]
 - [[HR Service Delivery]]
 
 ## 数据来源
 
 - [ServiceNow](https://en.wikipedia.org/wiki/ServiceNow,_Inc.)
 - [ServiceNow, Inc. suppliers manufacturers](https://www.servicenow.com/)
-- [ServiceNow, Inc. suppliers manufacturers](https://www.alibaba.com/)
+- [ServiceNow, Inc. suppliers manufacturers](https://finance.yahoo.com/markets/stocks/articles/servicenow-now-products-see-growth-145055758.html)
 - [ServiceNow, Inc. major customers clients](https://www.servicenow.com/)
-- [ServiceNow, Inc. major customers clients](https://ca.finance.yahoo.com/news/servicenow-now-sold-off-ai-153340307.html)
+- [ServiceNow, Inc. major customers clients](https://geeksforless.com/benefits-of-servicenow/)
 
 ## 元数据
 
-- **更新日期**: 2026-03-30
+- **更新日期**: 2026-04-02

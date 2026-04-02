@@ -4,18 +4,18 @@
   "sector": "Communication Services",
   "industry": "Entertainment",
   "upstream": [
-    "Visual Data (UK)",
-    "SONY",
+    "Warner Bros. Discovery",
+    "Disney",
     "AMZN",
-    "MSFT",
-    "GOOGL"
+    "HBO (Warner Bros. Discovery)",
+    "SONY"
   ],
   "downstream": [
-    "Global consumers",
-    "Households",
-    "Corporate accounts",
-    "CAT",
-    "Media partners"
+    "U.S. households",
+    "International households",
+    "Corporate and institutional accounts",
+    "Mobile device users",
+    "Smart TV users"
   ],
   "competitors": [
     "Disney+",
@@ -25,13 +25,13 @@
     "AAPL"
   ],
   "key_products": [
-    "Streaming video service",
-    "Original programming",
+    "Netflix streaming service (OTT)",
+    "Original programming (e.g., \"Stranger Things\", \"The Crown\")",
     "Licensed third‑party content",
-    "Mobile and web apps",
-    "Interactive content features"
+    "Mobile and web applications",
+    "Smart TV and console apps"
   ],
-  "extracted_at": "2026-04-01 16:47:59",
+  "extracted_at": "2026-04-02 16:48:19",
   "sources": [
     {
       "source": "Wikipedia",
@@ -53,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ir.netflix.net/ir-overview/profile/default.aspx",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-03-30/netflix-price-hike-tests-just-how-much-customers-will-pay",
       "query": "Netflix, Inc. major customers clients",
-      "snippet": "Mar 4, 2026 · Netflix is one of the world’s leading entertainment services offering TV series, films, games and live programming across a wide variety"
+      "snippet": "Netflix ’s pricing strategy. The cost of Netflix has increased by 150% over the last 13 years. The standard, advertising-free plan, Netflix ’s most po"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://businessmodelanalyst.com/netflix-target-market/",
+      "url": "https://www.inc.com/jason-aten/netflix-just-revealed-its-doing-the-1-thing-customers-were-most-afraid-of/91110628",
       "query": "Netflix, Inc. major customers clients",
-      "snippet": "Dec 11, 2024 · Netflix’ s target customers are not confined to a single country or region but encompass a broad and diverse international demographic."
+      "snippet": "Look, that’s basically Netflix ’s most reliable strategy. It’s right up there with dumping an entire season of episodes at a time to encourage custome"
     }
   ]
 }

@@ -1,47 +1,48 @@
 ---
 ticker: COHR
 company: Coherent Corp.
-sector: Technology
-industry: Scientific & Technical Instruments
-extracted_at: 2026-04-01 16:50:59
-last_updated: 2026-04-01
+sector: Technology / Scientific & Technical Instruments
+industry: Optical Materials & Semiconductor Manufacturing
+extracted_at: 2026-04-02 16:51:41
+last_updated: 2026-04-02
 ---
 
 # COHR - Coherent Corp.
 
 ## 基本信息
 
-- **所属行业**: Technology / Scientific & Technical Instruments
-- **提取时间**: 2026-04-01 16:50:59
+- **所属行业**: Technology / Scientific & Technical Instruments / Optical Materials & Semiconductor Manufacturing
+- **提取时间**: 2026-04-02 16:51:41
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Silicon Materials Inc.]]
-- [[Lattice Semiconductor]]
-- [[Lumentum Holdings]]
 - [[II-VI Incorporated]]
-- [[Coherent Materials Supply]]
+- [[Lumentum Holdings]]
+- [[Nikon Corporation]]
+- [[Canon Inc.]]
+- [[Lattice Semiconductor]]
 
 ### 下游客户
-- [[Lockheed Martin]]
-- [[Boeing]]
-- [[INTC]]
-- [[QCOM]]
-- [[GE Healthcare]]
+- [[CAT]]
+- [[CAT]]
+- [[Medical device manufacturers]]
+- [[Defense and aerospace contractors]]
+- [[Industrial laser systems integrators]]
 
 ### 竞争对手
 - [[Lumentum Holdings]]
 - [[II-VI Incorporated]]
-- [[Trumpf]]
-- [[Lattice Semiconductor]]
+- [[Lumenis]]
+- [[Coherent's competitor: Coherent's competitor: Lumenis]]
+- [[Coherent's competitor: Coherent's competitor: Lumenis]]
 
 ### 核心产品
-- [[Optical materials]]
-- [[Laser systems]]
-- [[Photonic components]]
-- [[Semiconductor devices]]
-- [[Optical coatings]]
+- [[Optical materials (laser crystals, optical coatings)]]
+- [[Semiconductor lasers and laser diodes]]
+- [[Laser modules and assemblies]]
+- [[Optical fibers and fiber optic components]]
+- [[Laser-based measurement and imaging systems]]
 
 ## 数据来源
 
@@ -49,8 +50,8 @@ last_updated: 2026-04-01
 - [Coherent Corp. suppliers manufacturers](https://www.coherent.com/)
 - [Coherent Corp. suppliers manufacturers](https://www.mouser.com/manufacturer/coherent/)
 - [Coherent Corp. major customers clients](https://en.wikipedia.org/wiki/Coherent_Corp.)
-- [Coherent Corp. major customers clients](https://globalmarketbulletin.com/coherent-corporation-cohr-understanding-the-company-behind-the-price-moves/)
+- [Coherent Corp. major customers clients](https://www.coherent.com/)
 
 ## 元数据
 
-- **更新日期**: 2026-04-01
+- **更新日期**: 2026-04-02

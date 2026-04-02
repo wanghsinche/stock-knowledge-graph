@@ -5,33 +5,33 @@
   "industry": "Credit Services",
   "upstream": [
     "NXP Semiconductors",
+    "Jabil Inc.",
+    "Cypress Semiconductor",
     "STMicroelectronics",
-    "Infineon Technologies",
-    "005930.KS",
-    "Plastic Card Manufacturing Co."
+    "005930.KS"
   ],
   "downstream": [
-    "JPMorgan Chase",
     "Bank of America",
-    "Citigroup",
     "Wells Fargo",
-    "HSBC"
+    "Citibank",
+    "HSBC",
+    "Shopify"
   ],
   "competitors": [
-    "Visa",
+    "Visa Inc.",
     "American Express",
-    "Discover",
-    "PayPal",
-    "Square"
+    "Discover Financial Services",
+    "JCB Co., Ltd.",
+    "UnionPay"
   ],
   "key_products": [
-    "Payment processing network",
-    "Credit card services",
-    "Debit card services",
-    "Prepaid card services",
-    "Tokenization and fraud detection services"
+    "Payment transaction processing",
+    "Debit, credit, and prepaid card issuance",
+    "Digital wallet services",
+    "Fraud detection and prevention solutions",
+    "Data analytics and insights for merchants"
   ],
-  "extracted_at": "2026-03-31 16:57:23",
+  "extracted_at": "2026-04-02 16:53:26",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,9 +47,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/MA-Suppliers",
+      "url": "https://ru.wikipedia.org/wiki/Mastercard",
       "query": "Mastercard Incorporated suppliers manufacturers",
-      "snippet": "Mastercard Incorporated supply chain, list and performance of Mastercard Incorporateds' suppliers - CSIMarket."
+      "snippet": "Mastercard Inc . (ранее MasterCard Worldwide или MasterCard Incorporated ) — международная платёжная система, транснациональная финансовая корпорация,"
     },
     {
       "source": "DuckDuckGo",
@@ -59,7 +59,7 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.mastercard.com/global/en.html",
+      "url": "https://www.mastercard.com/us/en.html",
       "query": "Mastercard Incorporated major customers clients",
       "snippet": "Mastercard brand symbol - a global technology company in the payments industry.Find a payment facilitator. Network Enablement Partners. Mastercard rul"
     }

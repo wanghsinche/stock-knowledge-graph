@@ -1,37 +1,37 @@
 {
   "ticker": "PL",
   "company_name": "Planet Labs PBC",
-  "sector": "Industrials",
-  "industry": "Aerospace & Defense",
+  "sector": "Industrials / Aerospace & Defense",
+  "industry": "Satellite Imaging / Earth Observation",
   "upstream": [
-    "Satellite component manufacturers",
-    "Launch service providers",
-    "Imaging sensor suppliers",
-    "Ground station equipment vendors",
-    "Software platform developers"
+    "SpaceX",
+    "Blue Origin",
+    "Airbus",
+    "Thales Alenia Space",
+    "Boeing"
   ],
   "downstream": [
-    "U.S. government agencies (NASA, NOAA, DoD)",
-    "Commercial mapping and GIS companies",
-    "Agriculture and agribusiness firms",
-    "Environmental monitoring organizations",
-    "Insurance and risk assessment firms"
+    "NASA",
+    "USGS",
+    "European Space Agency",
+    "INTC",
+    "Commercial mapping companies (e.g., Esri)"
   ],
   "competitors": [
     "Maxar Technologies",
-    "Airbus Defence & Space",
-    "Satellogic",
     "BlackSky",
-    "GeoEye (now part of Maxar)"
+    "Capella Space",
+    "Airbus Defence and Space",
+    "Planetary Resources"
   ],
   "key_products": [
     "PlanetScope satellite constellation",
-    "PlanetScope imagery services",
-    "PlanetScope API",
-    "Earth observation data analytics platform",
-    "RapidEye imagery"
+    "PlanetScope imagery",
+    "Planet Labs API",
+    "Earth observation data services",
+    "Planet Labs Cloud"
   ],
-  "extracted_at": "2026-03-20 16:37:43",
+  "extracted_at": "2026-04-02 16:53:51",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,25 +43,25 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Planet_Labs",
       "query": "Planet Labs PBC suppliers manufacturers",
-      "snippet": "Planet Labs has contracts to supply imagery to various agencies of the US government, including the FAS, NOAA, Oak Ridge, Sandia, the Bureau of Reclam"
+      "snippet": "Planet Labs PBC (formerly Planet Labs , Inc. and Cosmogia, Inc.), known as \" Planet .\", is a publicly traded American Earth imaging company based in S"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.planet.com/",
       "query": "Planet Labs PBC suppliers manufacturers",
-      "snippet": "Planet revolutionized the Earth observation industry with the highest frequency satellite imagery data commercially available, transforming the way go"
+      "snippet": "Discover how Planet 's daily satellite imagery and insights empower global decisions and actions with a multidimensional view of our changing planet ."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://stocklight.com/stocks/us/nyse-pl/planet-labs-pbc/annual-reports/nyse-pl-2025-10K-25774405.pdf",
+      "query": "Planet Labs PBC major customers clients",
+      "snippet": "Key responsibilities for our sales organization include acquiring new customers , maintaining relationships and expanding business with our existing c"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://pitchgrade.com/companies/planet-labs-pbc",
       "query": "Planet Labs PBC major customers clients",
-      "snippet": "Customer Segments: Planet Labs PBC serves multiple distinct customer segments, which may include consumers, small and medium businesses, enterprise cl"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.investing.com/equities/planet-labs-pbc",
-      "query": "Planet Labs PBC major customers clients",
-      "snippet": "Satellite Revolution. Planet Labs PBC leads Earth observation market with over 200 satellites, providing daily global imaging and valuable geospatial "
+      "snippet": "Feb 15, 2026 · Customer Segments: Planet Labs PBC serves multiple distinct customer segments, which may include consumers, small and medium businesses"
     }
   ]
 }

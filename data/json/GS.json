@@ -4,34 +4,34 @@
   "sector": "Financial Services",
   "industry": "Capital Markets",
   "upstream": [
-    "Technology vendors (e.g., Bloomberg, Refinitiv)",
-    "Data providers (e.g., FactSet)",
-    "Legal and compliance service firms",
-    "Infrastructure providers (cloud services)",
-    "Risk management software vendors"
+    "MSFT",
+    "ORCL",
+    "Bloomberg",
+    "Refinitiv",
+    "Accenture"
   ],
   "downstream": [
-    "Institutional investors (pension funds, mutual funds)",
-    "Corporations seeking M&A advisory",
-    "Governments and sovereign wealth funds",
-    "High-net-worth individuals (wealth management)",
-    "Hedge funds and private equity firms"
+    "AAPL",
+    "AMZN",
+    "U.S. Department of Treasury",
+    "BlackRock",
+    "High Net Worth Individuals"
   ],
   "competitors": [
     "JPMorgan Chase & Co.",
     "Morgan Stanley",
     "Bank of America Merrill Lynch",
     "Citigroup",
-    "Credit Suisse"
+    "UBS"
   ],
   "key_products": [
-    "Investment banking advisory",
-    "Securities trading and brokerage",
-    "Asset and wealth management",
-    "Capital markets financing",
-    "Risk management solutions"
+    "Investment Banking",
+    "Securities Underwriting",
+    "Asset Management",
+    "Wealth Management",
+    "Trading & Brokerage"
   ],
-  "extracted_at": "2026-04-01 16:52:02",
+  "extracted_at": "2026-04-02 16:52:33",
   "sources": [
     {
       "source": "Wikipedia",
@@ -55,13 +55,13 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Goldman_Sachs",
       "query": "The Goldman Sachs Group, Inc. major customers clients",
-      "snippet": "It operates private-equity funds and hedge funds. It structures complex and tailor-made financial products. It also owns Goldman Sachs Bank USA, a dir"
+      "snippet": "The Goldman Sachs Group , Inc . is an American multinational investment bank and financial services company. Founded in 1869, Goldman Sachs is headqua"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.goldmansachs.com/investor-relations/financials/current/annual-reports/2025-annual-report",
+      "url": "https://www.goldmansachs.com/what-we-do/our-businesses",
       "query": "The Goldman Sachs Group, Inc. major customers clients",
-      "snippet": "Mar 20, 2026 · Top 150 client list and rankings compiled by GS through Client Ranking/Scoreboard/Feedback and/or Coalition Greenwich 1H25 (latest avai"
+      "snippet": "1 Goldman Sachs Annual Report on Form 10-K for the fiscal year ended December 31, 2024 – see “Results of Operations – Asset & Wealth Management – Asse"
     }
   ]
 }

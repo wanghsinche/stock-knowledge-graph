@@ -6,32 +6,32 @@
   "upstream": [
     "TSM",
     "005930.KS",
-    "INTC",
-    "QCOM",
-    "MU"
+    "GlobalFoundries",
+    "ASE Technology Holding",
+    "United Microelectronics Corporation"
   ],
   "downstream": [
+    "005930.KS",
+    "AAPL",
     "CSCO",
-    "Huawei",
     "DELL",
-    "HPQ",
-    "AMZN"
+    "MSFT"
   ],
   "competitors": [
     "INTC",
     "QCOM",
     "NVDA",
-    "AMD",
-    "MU"
+    "TXN",
+    "MediaTek Inc."
   ],
   "key_products": [
     "Wi‑Fi and Bluetooth chips",
     "Ethernet controllers",
-    "Broadcom Switches",
-    "Broadcom Modems",
-    "Broadcom Storage Controllers"
+    "Broadband and cable modems",
+    "Storage controller ICs",
+    "Industrial and automotive semiconductor solutions"
   ],
-  "extracted_at": "2026-04-01 16:47:16",
+  "extracted_at": "2026-04-02 16:47:44",
   "sources": [
     {
       "source": "Wikipedia",
@@ -53,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Broadcom",
+      "url": "https://csimarket.com/stocks/AVGO-Customers",
       "query": "Broadcom Inc. major customers clients",
-      "snippet": "Broadcom Inc . is an American multinational designer, developer, manufacturer, and global supplier of a wide range of semiconductor and infrastructure"
+      "snippet": "Sales to our five largest customers represented 48.3%. Sales to Samsung represented 21.3%. Sales to Apple represented 13.3%."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.linkedin.com/company/broadcom",
+      "url": "https://www.appsruntheworld.com/customers-database/vendors/view/broadcom",
       "query": "Broadcom Inc. major customers clients",
-      "snippet": "Broadcom ’s infrastructure software solutions serve markets including private cloud, mainframe software, cybersecurity, enterprise software, and Fibre"
+      "snippet": "List of companies using or evaluating Broadcom applications, with details on their revenues, employees, industries, and locations."
     }
   ]
 }

@@ -3,8 +3,8 @@ ticker: RKLB
 company: Rocket Lab Corporation
 sector: Industrials
 industry: Aerospace & Defense
-extracted_at: 2026-04-01 16:49:12
-last_updated: 2026-04-01
+extracted_at: 2026-04-02 16:49:14
+last_updated: 2026-04-02
 ---
 
 # RKLB - Rocket Lab Corporation
@@ -12,51 +12,28 @@ last_updated: 2026-04-01
 ## 基本信息
 
 - **所属行业**: Industrials / Aerospace & Defense
-- **提取时间**: 2026-04-01 16:49:12
+- **提取时间**: 2026-04-02 16:49:14
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Honeywell Aerospace]]
-- [[Thales Alenia Space]]
-- [[SolarEdge Technologies]]
-- [[Lockheed Martin]]
-- [[Ball Aerospace & Technologies Corp.]]
+_暂无数据_
 
 ### 下游客户
-- [[Planet Labs]]
-- [[Spire Global]]
-- [[NASA]]
-- [[U.S. Department of Defense]]
-- [[SpaceX]]
+_暂无数据_
 
 ### 竞争对手
-- [[SpaceX]]
-- [[Firefly Aerospace]]
-- [[Astra]]
-- [[Blue Origin]]
-- [[Relativity Space]]
+_暂无数据_
 
 ### 核心产品
-- [[Electron orbital launch vehicle]]
-- [[HASTE suborbital testbed]]
-- [[Neutron medium‑lift launch vehicle]]
-- [[Star trackers]]
-- [[Reaction wheels]]
-- [[Solar panels]]
-- [[Software‑defined radios]]
-- [[Composite structures]]
-- [[Separation systems]]
-- [[Electro‑optical and infrared (EO/IR) sensors]]
+_暂无数据_
 
 ## 数据来源
 
 - [Rocket Lab](https://en.wikipedia.org/wiki/Rocket_Lab_Corporation)
 - [Rocket Lab Corporation suppliers manufacturers](https://en.wikipedia.org/wiki/Rocket_Lab)
-- [Rocket Lab Corporation suppliers manufacturers](https://www.marketscreener.com/quote/stock/ROCKET-LAB-CORPORATION-126208072/company/)
-- [Rocket Lab Corporation major customers clients](https://rocketlabcorp.com/)
-- [Rocket Lab Corporation major customers clients](https://www.zacks.com/stock/news/2891223/rocket-lab-corporation-rklb-registers-a-bigger-fall-than-the-market-important-facts-to-note)
+- [Rocket Lab Corporation suppliers manufacturers](https://rocketlabcorp.com/become-a-rocket-lab-supplier/)
 
 ## 元数据
 
-- **更新日期**: 2026-04-01
+- **更新日期**: 2026-04-02

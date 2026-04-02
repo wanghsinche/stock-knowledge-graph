@@ -7,31 +7,31 @@
     "INTC",
     "AMD",
     "NVDA",
-    "QCOM",
-    "AVGO"
+    "TSM",
+    "Foxconn"
   ],
   "downstream": [
-    "Enterprise customers (e.g., Walmart, JPMorgan Chase)",
-    "Government agencies (U.S. Department of Defense, NASA)",
-    "CAT",
-    "Healthcare organizations",
-    "Retail and e‑commerce companies"
+    "Walmart",
+    "Coca‑Cola",
+    "AT&T",
+    "Verizon",
+    "DELL"
   ],
   "competitors": [
-    "AAPL",
-    "GOOGL",
     "AMZN",
+    "GOOGL",
+    "IBM",
     "ORCL",
     "CRM"
   ],
   "key_products": [
-    "Windows operating system",
-    "Microsoft Office suite",
-    "Azure cloud platform",
+    "Windows Operating System",
+    "Microsoft Office Suite",
+    "Azure Cloud Platform",
     "Microsoft Teams",
-    "Surface hardware lineup"
+    "Xbox Gaming Console"
   ],
-  "extracted_at": "2026-04-01 16:44:44",
+  "extracted_at": "2026-04-02 16:47:00",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Microsoft",
+      "url": "https://download.microsoft.com/download/F/3/8/F38AF681-EB3A-4645-A9C4-D4F31B8BA8F2/Microsoft+Top+100+Production+Suppliers.pdf",
       "query": "Microsoft Corporation suppliers manufacturers",
+      "snippet": "Microsoft Top 100 Production Suppliers (Based on FY14 spend for commercially available hardware products) AAC ACOUSTIC TECHNOLOGIES ALLEGRO MICROSYSTE"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/MSFT-Suppliers",
+      "query": "Microsoft Corporation suppliers manufacturers",
+      "snippet": "Jan 29, 2026 · Microsoft supply chain, list and performance of Microsofts ' suppliers - CSIMarket"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/Microsoft",
+      "query": "Microsoft Corporation major customers clients",
       "snippet": "Microsoft Corporation , or simply Microsoft , is an American multinational technology conglomerate headquartered in Redmond, Washington. Founded in 19"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.alibaba.com/",
-      "query": "Microsoft Corporation suppliers manufacturers",
-      "snippet": "Find quality Manufacturers , Suppliers , Exporters, Importers, Buyers, Wholesalers, Products and Trade Leads from our award-winning International Trad"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.microsoft.com/investor/reports/ar13/financial-review/business-description/customers/index.html",
+      "url": "https://www.microsoft.com/en-us/microsoft-teams/download-app",
       "query": "Microsoft Corporation major customers clients",
-      "snippet": "Our customers include individual consumers, small- and medium-sized organizations, enterprises, governmental institutions, educational institutions, I"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.appsruntheworld.com/customers-database/vendors/view/microsoft",
-      "query": "Microsoft Corporation major customers clients",
-      "snippet": "3 weeks ago - Each quarter our research team identifies companies that are using Microsoft applications such as Microsoft 365 for Collaboration, Micro"
+      "snippet": "Download Microsoft Teams for desktop and mobile to stay connected on Windows, Mac, iOS, and Android. Enhance collaboration with the Microsoft Teams ap"
     }
   ]
 }

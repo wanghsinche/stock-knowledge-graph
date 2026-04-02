@@ -7,31 +7,31 @@
     "AMZN",
     "MSFT",
     "GOOGL",
-    "DELL",
-    "CSCO"
+    "ORCL",
+    "VMware"
   ],
   "downstream": [
     "Walmart",
     "JPMorgan Chase",
-    "AT&T",
-    "Coca-Cola",
-    "Bank of America"
+    "Coca‑Cola",
+    "Bank of America",
+    "General Electric"
   ],
   "competitors": [
     "CRM",
-    "SAP",
-    "ORCL",
     "MSFT",
-    "IBM"
+    "SAP SuccessFactors",
+    "Workday",
+    "Atlassian"
   ],
   "key_products": [
-    "ServiceNow Platform",
-    "IT Service Management (ITSM)",
-    "IT Operations Management (ITOM)",
-    "Customer Service Management (CSM)",
+    "Now Platform",
+    "IT Service Management",
+    "IT Operations Management",
+    "Customer Service Management",
     "HR Service Delivery"
   ],
-  "extracted_at": "2026-03-30 16:54:34",
+  "extracted_at": "2026-04-02 16:51:20",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,9 +47,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.alibaba.com/",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/servicenow-now-products-see-growth-145055758.html",
       "query": "ServiceNow, Inc. suppliers manufacturers",
-      "snippet": "Find quality Manufacturers , Suppliers , Exporters, Importers, Buyers, Wholesalers, Products and Trade Leads from our award-winning International Trad"
+      "snippet": "ServiceNow , Inc . (NYSE: NOW ) is a cloud-based software company that provides a platform for automating and managing digital workflows. On March 26,"
     },
     {
       "source": "DuckDuckGo",
@@ -59,9 +59,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ca.finance.yahoo.com/news/servicenow-now-sold-off-ai-153340307.html",
+      "url": "https://geeksforless.com/benefits-of-servicenow/",
       "query": "ServiceNow, Inc. major customers clients",
-      "snippet": "ServiceNow , Inc . (NYSE: NOW ) provides cloud-based software that helps enterprises automate IT services , workflows, and digital operations across o"
+      "snippet": "Major ServiceNow Benefits. There are Service Now tool benefits: Streamlined Workflow: ServiceNow allows businesses to streamline their operations, red"
     }
   ]
 }

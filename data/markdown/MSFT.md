@@ -3,8 +3,8 @@ ticker: MSFT
 company: Microsoft Corporation
 sector: Technology
 industry: Software - Infrastructure
-extracted_at: 2026-04-01 16:44:44
-last_updated: 2026-04-01
+extracted_at: 2026-04-02 16:47:00
+last_updated: 2026-04-02
 ---
 
 # MSFT - Microsoft Corporation
@@ -12,7 +12,7 @@ last_updated: 2026-04-01
 ## 基本信息
 
 - **所属行业**: Technology / Software - Infrastructure
-- **提取时间**: 2026-04-01 16:44:44
+- **提取时间**: 2026-04-02 16:47:00
 
 ## 产业链关系
 
@@ -20,38 +20,38 @@ last_updated: 2026-04-01
 - [[INTC]]
 - [[AMD]]
 - [[NVDA]]
-- [[QCOM]]
-- [[AVGO]]
+- [[TSM]]
+- [[Foxconn]]
 
 ### 下游客户
-- [[Enterprise customers (e.g., Walmart, JPMorgan Chase)]]
-- [[Government agencies (U.S. Department of Defense, NASA)]]
-- [[CAT]]
-- [[Healthcare organizations]]
-- [[Retail and e‑commerce companies]]
+- [[Walmart]]
+- [[Coca‑Cola]]
+- [[AT&T]]
+- [[Verizon]]
+- [[DELL]]
 
 ### 竞争对手
-- [[AAPL]]
-- [[GOOGL]]
 - [[AMZN]]
+- [[GOOGL]]
+- [[IBM]]
 - [[ORCL]]
 - [[CRM]]
 
 ### 核心产品
-- [[Windows operating system]]
-- [[Microsoft Office suite]]
-- [[Azure cloud platform]]
+- [[Windows Operating System]]
+- [[Microsoft Office Suite]]
+- [[Azure Cloud Platform]]
 - [[Microsoft Teams]]
-- [[Surface hardware lineup]]
+- [[Xbox Gaming Console]]
 
 ## 数据来源
 
 - [Microsoft](https://en.wikipedia.org/wiki/Microsoft_Corporation)
-- [Microsoft Corporation suppliers manufacturers](https://en.wikipedia.org/wiki/Microsoft)
-- [Microsoft Corporation suppliers manufacturers](https://www.alibaba.com/)
-- [Microsoft Corporation major customers clients](https://www.microsoft.com/investor/reports/ar13/financial-review/business-description/customers/index.html)
-- [Microsoft Corporation major customers clients](https://www.appsruntheworld.com/customers-database/vendors/view/microsoft)
+- [Microsoft Corporation suppliers manufacturers](https://download.microsoft.com/download/F/3/8/F38AF681-EB3A-4645-A9C4-D4F31B8BA8F2/Microsoft+Top+100+Production+Suppliers.pdf)
+- [Microsoft Corporation suppliers manufacturers](https://csimarket.com/stocks/MSFT-Suppliers)
+- [Microsoft Corporation major customers clients](https://en.wikipedia.org/wiki/Microsoft)
+- [Microsoft Corporation major customers clients](https://www.microsoft.com/en-us/microsoft-teams/download-app)
 
 ## 元数据
 
-- **更新日期**: 2026-04-01
+- **更新日期**: 2026-04-02

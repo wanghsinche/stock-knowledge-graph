@@ -1,37 +1,37 @@
 {
   "ticker": "ORCL",
   "company_name": "Oracle Corporation",
-  "sector": "Technology",
-  "industry": "Software - Infrastructure",
+  "sector": "Technology / Software - Infrastructure",
+  "industry": "Database & Cloud Infrastructure",
   "upstream": [
     "INTC",
     "AMD",
     "NVDA",
-    "CSCO",
-    "DELL"
+    "DELL",
+    "CSCO"
   ],
   "downstream": [
-    "Bank of America",
     "Walmart",
-    "UnitedHealth Group",
-    "AT&T",
-    "General Electric"
+    "JPMorgan Chase",
+    "Bank of America",
+    "eBay",
+    "UnitedHealth Group"
   ],
   "competitors": [
     "MSFT",
-    "SAP",
+    "AMZN",
     "IBM",
-    "CRM",
-    "AMZN"
+    "SAP",
+    "GOOGL"
   ],
   "key_products": [
     "Oracle Database",
     "Oracle Cloud Infrastructure",
     "Oracle Autonomous Database",
-    "Oracle ERP Cloud",
-    "Oracle Analytics Cloud"
+    "Oracle E-Business Suite",
+    "Oracle Fusion Middleware"
   ],
-  "extracted_at": "2026-04-01 16:48:12",
+  "extracted_at": "2026-04-02 16:49:43",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Oracle_Corporation",
+      "url": "https://www.oracle.com/corporate/suppliers/",
       "query": "Oracle Corporation suppliers manufacturers",
-      "snippet": "Oracle Corporation is an American multinational technology company headquartered in Austin, Texas. Co-founded in Santa Clara, California by Bob Miner,"
+      "snippet": "Oracle is always looking for suppliers who can meet our high quality standards and satisfy our ever-evolving business needs. We believe in the importa"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ru.wikipedia.org/wiki/Oracle",
+      "url": "https://www.thomsondata.com/customer-base/oracle.php",
       "query": "Oracle Corporation suppliers manufacturers",
-      "snippet": "Oracle ( Oracle Corporation ) — американская корпорация, второй по размеру выручки разработчик программного обеспечения (после Microsoft), четвёртая к"
+      "snippet": "Getting linked to Oracle customers is not simple in today’s large business landscape. Thomson Data makes it easy by offering an accurate and up-to-dat"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Oracle_Corporation",
       "query": "Oracle Corporation major customers clients",
-      "snippet": "Oracle Corporation is an American multinational technology company headquartered in Austin, Texas. Co-founded in Santa Clara, California by Bob Miner,"
+      "snippet": "Oracle Corporation's main competitors in the database arena ... According to Oracle Corporation, the majority of SAP's customers use Oracle databases."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.oracle.com/corporate/",
+      "url": "https://www.oracle.com/customers/",
       "query": "Oracle Corporation major customers clients",
-      "snippet": "Oracle is pleased to provide information about our company, customers , partners, events, communities, press, analysts, investors, and careers.The com"
+      "snippet": "Hear from our customers to learn what makes Oracle the right choice for them, and why we're the right partner for your business. Missing: major | Show"
     }
   ]
 }

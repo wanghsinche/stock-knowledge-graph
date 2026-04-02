@@ -1,18 +1,18 @@
 ---
 ticker: CRWV
 company: CoreWeave, Inc.
-sector: Technology
-industry: Software - Infrastructure
-extracted_at: 2026-04-01 16:49:02
-last_updated: 2026-04-01
+sector: Technology / Software - Infrastructure
+industry: AI Cloud Computing / GPU Cloud Services
+extracted_at: 2026-04-02 16:50:13
+last_updated: 2026-04-02
 ---
 
 # CRWV - CoreWeave, Inc.
 
 ## 基本信息
 
-- **所属行业**: Technology / Software - Infrastructure
-- **提取时间**: 2026-04-01 16:49:02
+- **所属行业**: Technology / Software - Infrastructure / AI Cloud Computing / GPU Cloud Services
+- **提取时间**: 2026-04-02 16:50:13
 
 ## 产业链关系
 
@@ -20,29 +20,29 @@ last_updated: 2026-04-01
 - [[NVDA]]
 - [[AMD]]
 - [[INTC]]
-- [[GOOGL]]
-- [[AMZN]]
+- [[DELL]]
+- [[HPQ]]
 
 ### 下游客户
 - [[OpenAI]]
-- [[MSFT]]
 - [[GOOGL]]
-- [[Enterprise AI developers]]
-- [[Startups in AI research]]
+- [[MSFT]]
+- [[AMZN]]
+- [[IBM]]
 
 ### 竞争对手
-- [[AWS]]
+- [[NVDA]]
 - [[GOOGL]]
 - [[MSFT]]
-- [[NVDA]]
+- [[AMZN]]
 - [[Paperspace]]
 
 ### 核心产品
-- [[GPU cloud infrastructure]]
-- [[AI compute instances]]
-- [[Chip management software]]
-- [[High-performance GPU rentals]]
-- [[AI training services]]
+- [[GPU Cloud Infrastructure]]
+- [[GPU-as-a-Service]]
+- [[AI Compute Services]]
+- [[GPU Management Software]]
+- [[High-Performance AI Workloads]]
 
 ## 数据来源
 
@@ -50,8 +50,8 @@ last_updated: 2026-04-01
 - [CoreWeave, Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/CoreWeave)
 - [CoreWeave, Inc. suppliers manufacturers](https://www.coreweave.com/about-us)
 - [CoreWeave, Inc. major customers clients](https://en.wikipedia.org/wiki/CoreWeave)
-- [CoreWeave, Inc. major customers clients](https://www.zacks.com/stock/news/2891665/coreweave-vs-cloudflare-which-ai-cloud-stock-offers-better-upside?art_rec=home-home-investment_ideas_stocks-ID10-txt-2891665)
+- [CoreWeave, Inc. major customers clients](https://www.zacks.com/stock/news/2891665/coreweave-vs-cloudflare-which-ai-cloud-stock-offers-better-upside)
 
 ## 元数据
 
-- **更新日期**: 2026-04-01
+- **更新日期**: 2026-04-02

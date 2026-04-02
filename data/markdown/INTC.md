@@ -3,8 +3,8 @@ ticker: INTC
 company: Intel Corporation
 sector: Technology
 industry: Semiconductors
-extracted_at: 2026-04-01 16:45:19
-last_updated: 2026-04-01
+extracted_at: 2026-04-02 16:46:51
+last_updated: 2026-04-02
 ---
 
 # INTC - Intel Corporation
@@ -12,16 +12,16 @@ last_updated: 2026-04-01
 ## 基本信息
 
 - **所属行业**: Technology / Semiconductors
-- **提取时间**: 2026-04-01 16:45:19
+- **提取时间**: 2026-04-02 16:46:51
 
 ## 产业链关系
 
 ### 上游供应商
 - [[ASML]]
+- [[NVDA]]
+- [[MU]]
+- [[TSM]]
 - [[AMAT]]
-- [[LRCX]]
-- [[Siltronic (silicon wafer supplier)]]
-- [[BASF (chemical supplier)]]
 
 ### 下游客户
 - [[DELL]]
@@ -35,23 +35,23 @@ last_updated: 2026-04-01
 - [[NVDA]]
 - [[QCOM]]
 - [[AVGO]]
-- [[TSM]]
+- [[005930.KS]]
 
 ### 核心产品
-- [[Intel Core CPUs]]
-- [[Intel Xeon CPUs]]
-- [[Intel SSDs]]
-- [[Intel FPGAs]]
-- [[Intel AI accelerators]]
+- [[Intel Core processors]]
+- [[Intel Xeon processors]]
+- [[Intel Arc GPUs]]
+- [[Intel FPGAs (Stratix)]]
+- [[Intel SoCs (Mobileye, Intel Atom)]]
 
 ## 数据来源
 
 - [Intel](https://en.wikipedia.org/wiki/Intel_Corporation)
 - [Intel Corporation suppliers manufacturers](https://en.wikipedia.org/wiki/List_of_Intel_manufacturing_sites)
-- [Intel Corporation suppliers manufacturers](https://en.wikipedia.org/wiki/Intel)
+- [Intel Corporation suppliers manufacturers](https://www.intel.com/content/www/us/en/partner/showcase/partner-directory/distributor.html)
 - [Intel Corporation major customers clients](https://en.wikipedia.org/wiki/Intel)
 - [Intel Corporation major customers clients](https://finance.yahoo.com/quote/INTC/)
 
 ## 元数据
 
-- **更新日期**: 2026-04-01
+- **更新日期**: 2026-04-02

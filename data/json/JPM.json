@@ -5,17 +5,17 @@
   "industry": "Banks - Diversified",
   "upstream": [
     "MSFT",
+    "DELL",
+    "Legal and compliance service providers",
     "Consulting firms (e.g., Accenture, Deloitte)",
-    "HPQ",
-    "Security and cybersecurity providers (e.g., Palo Alto Networks)",
-    "Legal and compliance service providers"
+    "Security and cybersecurity providers"
   ],
   "downstream": [
-    "Corporate and institutional clients (investment banking)",
-    "Retail banking customers (checking, savings, mortgages)",
-    "Small and medium‑enterprise clients",
-    "High‑net‑worth individuals (wealth management)",
-    "Government and public sector entities"
+    "Retail banking customers",
+    "Corporate and institutional clients",
+    "Investment banking clients",
+    "Wealth management clients",
+    "Mortgage borrowers"
   ],
   "competitors": [
     "Bank of America",
@@ -26,12 +26,12 @@
   ],
   "key_products": [
     "Retail banking services",
-    "Investment banking and capital markets",
-    "Asset and wealth management",
-    "Credit cards and consumer loans",
-    "Treasury and securities services"
+    "Corporate banking and lending",
+    "Investment banking and advisory",
+    "Asset management",
+    "Wealth management and private banking"
   ],
-  "extracted_at": "2026-04-01 16:49:57",
+  "extracted_at": "2026-04-02 16:52:11",
   "sources": [
     {
       "source": "Wikipedia",
@@ -55,13 +55,13 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/JPMorgan_Chase",
       "query": "JPMorgan Chase & Co. major customers clients",
-      "snippet": "Today, the firm is a major provider of investment banking services, through corporate advisory, mergers and acquisitions, sales and trading, and publi"
+      "snippet": "JPMorgan Chase & Co . (stylized as JPMorganChase ) is an American multinational banking institution headquartered in New York City and incorporated in"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.jpmorganchase.com/",
       "query": "JPMorgan Chase & Co. major customers clients",
-      "snippet": "JPMorganChase serves millions of customers , clients and communities in over 100 global markets. For 225 years, our work has been guided by principles"
+      "snippet": "JPMorganChase opened its new global headquarters at 270 Park Avenue, marking a major milestone in its commitment to New York City.Committed to service"
     }
   ]
 }

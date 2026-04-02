@@ -5,10 +5,10 @@
   "industry": "Semiconductors",
   "upstream": [
     "ASML",
-    "AMAT",
-    "LRCX",
-    "Siltronic (silicon wafer supplier)",
-    "BASF (chemical supplier)"
+    "NVDA",
+    "MU",
+    "TSM",
+    "AMAT"
   ],
   "downstream": [
     "DELL",
@@ -22,16 +22,16 @@
     "NVDA",
     "QCOM",
     "AVGO",
-    "TSM"
+    "005930.KS"
   ],
   "key_products": [
-    "Intel Core CPUs",
-    "Intel Xeon CPUs",
-    "Intel SSDs",
-    "Intel FPGAs",
-    "Intel AI accelerators"
+    "Intel Core processors",
+    "Intel Xeon processors",
+    "Intel Arc GPUs",
+    "Intel FPGAs (Stratix)",
+    "Intel SoCs (Mobileye, Intel Atom)"
   ],
-  "extracted_at": "2026-04-01 16:45:19",
+  "extracted_at": "2026-04-02 16:46:51",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,9 +47,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Intel",
+      "url": "https://www.intel.com/content/www/us/en/partner/showcase/partner-directory/distributor.html",
       "query": "Intel Corporation suppliers manufacturers",
-      "snippet": "Intel Corporation is an American multinational technology company headquartered in Santa Clara, California. It designs, manufactures, and sells comput"
+      "snippet": "Sell Intel® Products directly sourced from Intel as well as devices manufactured by OEMs"
     },
     {
       "source": "DuckDuckGo",

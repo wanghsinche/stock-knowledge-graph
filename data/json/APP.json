@@ -2,36 +2,36 @@
   "ticker": "APP",
   "company_name": "AppLovin Corporation",
   "sector": "Communication Services",
-  "industry": "Advertising",
+  "industry": "Advertising Agencies",
   "upstream": [
-    "Mobile app developers",
-    "Data providers",
-    "Ad exchanges",
-    "Mobile OS vendors",
-    "Cloud infrastructure providers"
+    "GOOGL",
+    "AAPL",
+    "META",
+    "AMZN",
+    "MSFT"
   ],
   "downstream": [
-    "Brands and advertisers",
-    "Digital marketing agencies",
-    "Media buyers",
-    "App publishers",
-    "Game developers"
+    "Supercell",
+    "Zynga",
+    "King",
+    "Epic Games",
+    "Glu Mobile"
   ],
   "competitors": [
-    "The Trade Desk",
-    "GOOGL",
-    "Facebook Ads",
     "Unity Ads",
-    "Vungle"
+    "AdColony",
+    "Chartboost",
+    "Vungle",
+    "IronSource"
   ],
   "key_products": [
     "AppLovin SDK",
-    "MAX mobile ad network",
-    "Lasso video ads",
     "AppLovin Marketing Platform",
-    "AppLovin Analytics"
+    "AppLovin Audience Network",
+    "AppLovin In-App Advertising",
+    "AppLovin Data Analytics Suite"
   ],
-  "extracted_at": "2026-03-31 16:56:14",
+  "extracted_at": "2026-04-02 16:53:38",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Nasdaq-100",
-      "query": "AppLovin Corporation suppliers manufacturers",
-      "snippet": "Nasdaq-100 is a stock market index made up of equity securities issued by 100 of the largest non-financial companies listed on the Nasdaq stock exchan"
-    },
-    {
-      "source": "DuckDuckGo",
       "url": "https://www.applovin.com/",
       "query": "AppLovin Corporation suppliers manufacturers",
       "snippet": "AppLovin enables businesses to advertise profitably with marketing technologies that attract customers, increase revenue, and track ad performance."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.applovin.com/",
-      "query": "AppLovin Corporation major customers clients",
-      "snippet": "AppLovin enables businesses to advertise profitably with marketing technologies that attract customers , increase revenue, and track ad performance."
+      "url": "https://craft.co/applovin/locations",
+      "query": "AppLovin Corporation suppliers manufacturers",
+      "snippet": "AppLovin is headquartered in Palo Alto, 1100 Page Mill Rd, United States, and has 1 office location. Locations. Country."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/news/bull-day-applovin-corporation-app-080000634.html",
+      "url": "https://en.wikipedia.org/wiki/AppLovin",
       "query": "AppLovin Corporation major customers clients",
-      "snippet": "AppLovin Corporation (APP) stock is an under-the-radar Wall Street star that’s skyrocketed 1,300% since the end of 2022, blowing away Nvidia and tons "
+      "snippet": "Before emerging from stealth mode, AppLovin acquired customers , including Opentable and Spotify. [9][10] The company was ranked #10 on the 2016 Deloi"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://theirstack.com/en/technology/applovin",
+      "query": "AppLovin Corporation major customers clients",
+      "snippet": "Download a list of 922 companies that use AppLovin with enriched data including industry, company size, location, funding rounds, and revenue figures."
     }
   ]
 }

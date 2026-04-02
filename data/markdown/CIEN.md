@@ -3,8 +3,8 @@ ticker: CIEN
 company: Ciena Corporation
 sector: Technology / Communication Equipment
 industry: Optical Networking Systems
-extracted_at: 2026-03-26 17:02:31
-last_updated: 2026-03-26
+extracted_at: 2026-04-02 16:51:10
+last_updated: 2026-04-02
 ---
 
 # CIEN - Ciena Corporation
@@ -12,46 +12,46 @@ last_updated: 2026-03-26
 ## 基本信息
 
 - **所属行业**: Technology / Communication Equipment / Optical Networking Systems
-- **提取时间**: 2026-03-26 17:02:31
+- **提取时间**: 2026-04-02 16:51:10
 
 ## 产业链关系
 
 ### 上游供应商
-- [[INTC]]
+- [[Lumentum]]
+- [[II-VI Incorporated]]
+- [[Finisar]]
+- [[Infinera]]
 - [[AVGO]]
-- [[MRVL]]
-- [[TXN]]
-- [[QCOM]]
 
 ### 下游客户
 - [[AT&T]]
 - [[Verizon]]
-- [[Comcast]]
-- [[GOOGL]]
+- [[Vodafone]]
+- [[China Mobile]]
 - [[AMZN]]
 
 ### 竞争对手
-- [[CSCO]]
-- [[JNPR]]
 - [[Nokia]]
 - [[Ericsson]]
 - [[Huawei]]
+- [[JNPR]]
+- [[CommScope]]
 
 ### 核心产品
-- [[Optical transport systems]]
-- [[Optical networking equipment]]
-- [[Software‑defined networking solutions]]
-- [[Optical switches]]
-- [[Optical transceivers]]
+- [[Optical Transport Network (OTN) equipment]]
+- [[Optical Switching Systems]]
+- [[Optical Transceivers]]
+- [[Optical Networking Software]]
+- [[Optical Network Management Solutions]]
 
 ## 数据来源
 
 - [Ciena](https://en.wikipedia.org/wiki/Ciena_Corporation)
-- [Ciena Corporation suppliers manufacturers](https://en.wikipedia.org/wiki/Ciena)
-- [Ciena Corporation suppliers manufacturers](https://www.ciena.com/partners/locator)
-- [Ciena Corporation major customers clients](https://www.ciena.com/)
-- [Ciena Corporation major customers clients](https://finance.yahoo.com/markets/stocks/articles/ciena-corporation-cien-good-stock-205522681.html)
+- [Ciena Corporation suppliers manufacturers](https://www.ciena.com/)
+- [Ciena Corporation suppliers manufacturers](https://www.zacks.com/stock/news/2891760/ciena-vs-arista-which-networking-stock-is-the-better-buy)
+- [Ciena Corporation major customers clients](https://en.wikipedia.org/wiki/Ciena)
+- [Ciena Corporation major customers clients](https://www.ciena.com/about/customer-stories)
 
 ## 元数据
 
-- **更新日期**: 2026-03-26
+- **更新日期**: 2026-04-02

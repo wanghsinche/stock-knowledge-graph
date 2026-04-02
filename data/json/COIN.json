@@ -2,20 +2,20 @@
   "ticker": "COIN",
   "company_name": "Coinbase Global, Inc.",
   "sector": "Financial Services",
-  "industry": "Cryptocurrency Exchange",
+  "industry": "Financial Data & Stock Exchanges",
   "upstream": [
     "AMZN",
+    "Stripe (payment processing)",
     "MSFT",
-    "GOOGL",
-    "Stripe",
-    "Okta"
+    "IBM",
+    "ORCL"
   ],
   "downstream": [
     "Retail cryptocurrency traders",
     "Institutional investors",
-    "Hedge funds",
-    "Crypto funds",
-    "Corporate clients"
+    "Crypto asset managers",
+    "DeFi protocol developers",
+    "Financial technology startups"
   ],
   "competitors": [
     "Binance",
@@ -26,12 +26,12 @@
   ],
   "key_products": [
     "Cryptocurrency trading platform",
-    "Custody services",
-    "Staking services",
-    "Crypto wallet",
-    "Payment processing solutions"
+    "Custody services for digital assets",
+    "Staking and yield products",
+    "Crypto wallet and mobile app",
+    "API for institutional trading"
   ],
-  "extracted_at": "2026-04-01 16:53:18",
+  "extracted_at": "2026-04-02 16:50:32",
   "sources": [
     {
       "source": "Wikipedia",
@@ -53,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Coinbase",
+      "url": "https://www.demandsage.com/coinbase-users-statistics/",
       "query": "Coinbase Global, Inc. major customers clients",
-      "snippet": "Coinbase Global , Inc . is an American cryptocurrency exchange. It was founded in 2012 by Brian Armstrong and Fred Ehrsam."
+      "snippet": "Aug 13, 2025 · Coinbase ’s user base stands at around 120 million, meaning it serves about 19.45% of all global cryptocurrency users. This makes Coinb"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.coinbase.com/",
+      "url": "https://expandedramblings.com/index.php/coinbase-statistics-facts-user-count/",
       "query": "Coinbase Global, Inc. major customers clients",
-      "snippet": "Coinbase United States is a secure online platform for buying, selling, transferring, and storing cryptocurrency. Coinbase believes crypto will be par"
+      "snippet": "Feb 21, 2026 · Verified Coinbase statistics and key facts: users, revenue, trading volume, assets, products, and major milestones—each backed by prima"
     }
   ]
 }
