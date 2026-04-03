@@ -7,31 +7,31 @@
     "AMZN",
     "MSFT",
     "GOOGL",
-    "ORCL",
-    "VMware"
+    "DELL",
+    "CSCO"
   ],
   "downstream": [
     "Walmart",
     "JPMorgan Chase",
     "Coca‑Cola",
     "Bank of America",
-    "General Electric"
+    "UnitedHealth Group"
   ],
   "competitors": [
     "CRM",
-    "MSFT",
     "SAP SuccessFactors",
-    "Workday",
-    "Atlassian"
+    "MSFT",
+    "IBM",
+    "ORCL"
   ],
   "key_products": [
-    "Now Platform",
-    "IT Service Management",
-    "IT Operations Management",
+    "ServiceNow Platform (IT Service Management)",
+    "IT Operations Management (ITOM)",
+    "IT Business Management (ITBM)",
     "Customer Service Management",
     "HR Service Delivery"
   ],
-  "extracted_at": "2026-04-02 16:51:20",
+  "extracted_at": "2026-04-03 16:35:13",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,15 +41,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.servicenow.com/",
+      "url": "https://www.servicenow.com/partners/partner-finder.html",
       "query": "ServiceNow, Inc. suppliers manufacturers",
-      "snippet": "Streamline your enterprise workflows with the ServiceNow AI Platform—empowering both customers and employees in every corner of your business."
+      "snippet": "For business transformation, GenAI, or optimizing your platform, find partners with tailored solutions and expertise to meet your business needs. Sell"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/servicenow-now-products-see-growth-145055758.html",
+      "url": "https://itcompanies.net/blog/top-servicenow-partners",
       "query": "ServiceNow, Inc. suppliers manufacturers",
-      "snippet": "ServiceNow , Inc . (NYSE: NOW ) is a cloud-based software company that provides a platform for automating and managing digital workflows. On March 26,"
+      "snippet": "ServiceNow has 5 different partner programs as at now, as follows: 1. Sales Partners: For those who want to resale ServiceNow products or offer outsou"
     },
     {
       "source": "DuckDuckGo",
@@ -59,9 +59,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://geeksforless.com/benefits-of-servicenow/",
+      "url": "https://blog.invgate.com/servicenow-vs-cherwell",
       "query": "ServiceNow, Inc. major customers clients",
-      "snippet": "Major ServiceNow Benefits. There are Service Now tool benefits: Streamlined Workflow: ServiceNow allows businesses to streamline their operations, red"
+      "snippet": "Example of ServiceNow 's interface. ServiceNow is a company that offers a cloud-based platform designed to streamline IT Service Management (ITSM) and"
     }
   ]
 }

@@ -4,34 +4,34 @@
   "sector": "Communication Services",
   "industry": "Internet Content & Information",
   "upstream": [
-    "AMZN",
-    "MSFT",
-    "GOOGL",
     "NVDA",
-    "INTC"
+    "AMD",
+    "INTC",
+    "DELL",
+    "CSCO"
   ],
   "downstream": [
-    "Advertisers (global brands and agencies)",
-    "Small and medium‑size businesses",
-    "App developers and content creators",
-    "E‑commerce merchants",
-    "Media and entertainment companies"
+    "Advertisers (global brands)",
+    "App developers",
+    "Content creators",
+    "Enterprise customers",
+    "Gaming partners"
   ],
   "competitors": [
     "GOOGL",
     "AMZN",
     "AAPL",
     "MSFT",
-    "ByteDance Ltd. (TikTok)"
+    "ByteDance Ltd."
   ],
   "key_products": [
     "Facebook",
     "Instagram",
     "WhatsApp",
     "Messenger",
-    "Meta Quest (VR/AR platform)"
+    "Meta Ads"
   ],
-  "extracted_at": "2026-04-02 16:46:24",
+  "extracted_at": "2026-04-03 16:30:29",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,15 +41,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.meta.com/about/",
+      "url": "https://en.wikipedia.org/wiki/Meta_Platforms",
       "query": "Meta Platforms, Inc. suppliers manufacturers",
-      "snippet": "Meta - Social Media Advertising Platform (Facebook & Instagram)."
+      "snippet": "Meta owns and operates several prominent social media platforms and communication services, including Facebook, Instagram, WhatsApp, Messenger, Thread"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.computerhope.com/comp/meta.htm",
+      "url": "https://forwork.meta.com/legal/mfw-subprocessor-list/",
       "query": "Meta Platforms, Inc. suppliers manufacturers",
-      "snippet": "Before it was rebranded as Meta in October 2021, Meta was known as Facebook Inc . According to Zuckerberg, the name Meta emphasizes their focus on VR "
+      "snippet": "Nov 13, 2023 · Starting February 20, 2026, Meta Horizon managed services will no longer be available for purchase. Visit the Help Center to learn more"
     },
     {
       "source": "DuckDuckGo",

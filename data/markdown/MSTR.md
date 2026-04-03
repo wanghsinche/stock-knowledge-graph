@@ -1,57 +1,57 @@
 ---
 ticker: MSTR
-company: MicroStrategy Incorporated
+company: Strategy Inc
 sector: Technology
 industry: Software - Application
-extracted_at: 2026-04-02 16:49:34
-last_updated: 2026-04-02
+extracted_at: 2026-04-03 16:33:27
+last_updated: 2026-04-03
 ---
 
-# MSTR - MicroStrategy Incorporated
+# MSTR - Strategy Inc
 
 ## 基本信息
 
 - **所属行业**: Technology / Software - Application
-- **提取时间**: 2026-04-02 16:49:34
+- **提取时间**: 2026-04-03 16:33:27
 
 ## 产业链关系
 
 ### 上游供应商
-- [[DELL]]
 - [[MSFT]]
+- [[AMZN]]
 - [[ORCL]]
-- [[Consulting partners (Accenture, Deloitte)]]
-- [[MSFT]]
+- [[IBM]]
+- [[DELL]]
 
 ### 下游客户
-- [[Large enterprises (Walmart, JPMorgan Chase, Bank of America)]]
+- [[Financial Services firms]]
+- [[Retail companies]]
+- [[Manufacturing firms]]
 - [[Government agencies]]
-- [[Financial services firms]]
-- [[Retail chains]]
 - [[Healthcare organizations]]
 
 ### 竞争对手
 - [[Tableau Software]]
 - [[MSFT]]
 - [[Qlik]]
-- [[SAP BusinessObjects]]
-- [[GOOGL]]
+- [[Looker]]
+- [[SAP Analytics Cloud]]
 
 ### 核心产品
-- [[MicroStrategy Analytics]]
-- [[MicroStrategy Cloud]]
-- [[MicroStrategy Mobile]]
-- [[MicroStrategy Desktop]]
-- [[MicroStrategy Server]]
+- [[Strategy Analytics Platform]]
+- [[Strategy Mobile App]]
+- [[Strategy Cloud Services]]
+- [[Strategy Data Integration]]
+- [[Strategy Reporting Tools]]
 
 ## 数据来源
 
 - 
-- [Strategy Inc suppliers manufacturers](https://www.linkedin.com/company/strategyinc)
-- [Strategy Inc suppliers manufacturers](https://www.strategyinc.net/services-overview/)
-- [Strategy Inc major customers clients](https://en.wikipedia.org/wiki/MicroStrategy)
-- [Strategy Inc major customers clients](https://finance.yahoo.com/quote/MSTR/)
+- [Strategy Inc suppliers manufacturers](https://finance.yahoo.com/quote/MSTR/)
+- [Strategy Inc suppliers manufacturers](https://www.marketwatch.com/investing/stock/mstr)
+- [Strategy Inc major customers clients](https://csimarket.com/stocks/STRF-Customers)
+- [Strategy Inc major customers clients](https://www.strategy.com/software/news/strategy-recognized-as-a-customers-choice-on-gartner-peer-insights-through-user-feedback-for-fourth-consecutive-year)
 
 ## 元数据
 
-- **更新日期**: 2026-04-02
+- **更新日期**: 2026-04-03

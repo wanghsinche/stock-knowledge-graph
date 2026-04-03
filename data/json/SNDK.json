@@ -1,43 +1,41 @@
 {
   "ticker": "SNDK",
   "company_name": "SanDisk Corporation",
-  "sector": "Technology",
-  "industry": "Computer Hardware",
+  "sector": "Technology / Computer Hardware",
+  "industry": "Flash Memory / Solid State Storage",
   "upstream": [
     "MU",
     "005930.KS",
     "SK Hynix",
-    "Kioxia (Toshiba)",
-    "WDC"
+    "Kioxia",
+    "INTC"
   ],
   "downstream": [
+    "DELL",
+    "HPQ",
+    "Lenovo",
     "AAPL",
-    "MSFT",
-    "GOOGL",
-    "AMZN",
-    "DELL"
+    "SONY"
   ],
   "competitors": [
     "MU",
     "005930.KS",
-    "WDC",
-    "Kingston Technology",
-    "Crucial"
+    "SK Hynix",
+    "Kioxia",
+    "WDC"
   ],
   "key_products": [
+    "Memory cards",
     "USB flash drives",
-    "SD cards",
-    "microSD cards",
-    "solid-state drives (SSD)",
-    "NVMe SSDs"
+    "Solid-state drives (SSDs)"
   ],
-  "extracted_at": "2026-04-02 16:46:05",
+  "extracted_at": "2026-04-03 16:29:49",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Sandisk_Corporation",
       "title": "Sandisk",
-      "snippet": "Sandisk Corporation is an American multinational computer technology company based in Milpitas, California, that designs and manufactures flash memory products, including memory cards, USB flash drive"
+      "snippet": "Sandisk Corporation is an American multinational computer semiconductor company based in Milpitas, California, that designs and manufactures flash memory products, including memory cards, USB flash dr"
     },
     {
       "source": "DuckDuckGo",
@@ -53,15 +51,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://enlyft.com/tech/products/sandisk",
+      "url": "https://en.wikipedia.org/wiki/SanDisk",
       "query": "Sandisk Corporation major customers clients",
-      "snippet": "Looking at SanDisk customers by industry, we find that Information Technology and Services (12%), Marketing and Advertising (8%), Computer Software (8"
+      "snippet": "1 hour ago - In October 2005, SanDisk acquired Matrix Semiconductor. In July 2006, SanDisk acquired M-Systems. In May 2011, SanDisk acquired Pliant Te"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://theirstack.com/en/technology/sandisk",
+      "url": "https://finance.yahoo.com/news/why-sandisk-consumer-segments-drove-140727769.html",
       "query": "Sandisk Corporation major customers clients",
-      "snippet": "Download a list of 62 companies that use SanDisk with enriched data including industry, company size, location, funding rounds, and revenue figures. M"
+      "snippet": "May 6, 2016 - This shows the company’s dependence on a few large customers and its ability to grow even without a key customer. Analysts believe that "
     }
   ]
 }

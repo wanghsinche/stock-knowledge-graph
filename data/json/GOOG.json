@@ -5,15 +5,15 @@
   "industry": "Internet Content & Information",
   "upstream": [
     "INTC",
-    "005930.KS",
-    "TSM",
+    "NVDA",
     "QCOM",
-    "NVDA"
+    "005930.KS",
+    "TSM"
   ],
   "downstream": [
     "GOOGL",
-    "Android device manufacturers",
-    "YouTube advertisers",
+    "YouTube subscribers",
+    "Android device users",
     "GOOGL",
     "GOOGL"
   ],
@@ -22,16 +22,18 @@
     "AMZN",
     "META",
     "AAPL",
-    "NFLX"
+    "Tencent"
   ],
   "key_products": [
     "Google Search",
-    "Android OS",
-    "Google Cloud Platform",
     "YouTube",
-    "Google Ads"
+    "Android",
+    "Google Cloud Platform",
+    "Google Ads",
+    "Google Workspace",
+    "Google Maps"
   ],
-  "extracted_at": "2026-04-02 16:47:54",
+  "extracted_at": "2026-04-03 16:31:50",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,13 +45,13 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Alphabet_Inc.",
       "query": "Alphabet Inc. suppliers manufacturers",
-      "snippet": "Alphabet Inc . is an American multinational technology conglomerate holding company headquartered in Mountain View, California. It was created through"
+      "snippet": "In addition to funding startups, Alphabet also invests in more mature companies , including publicly traded companies like Uber and privately held com"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://csimarket.com/stocks/GOOG-Suppliers",
       "query": "Alphabet Inc. suppliers manufacturers",
-      "snippet": "Alphabet Inc supply chain, list and performance of Alphabet Incs ' suppliers - CSIMarket."
+      "snippet": "Feb 6, 2026 · Alphabet Inc supply chain, list and performance of Alphabet Incs ' suppliers - CSIMarket"
     },
     {
       "source": "DuckDuckGo",
@@ -59,9 +61,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.sec.gov/Archives/edgar/data/1652044/000130817925000513/goog012714-ars.pdf",
+      "url": "https://strategy.transforml.co/google-strategy-cascade-analysis",
       "query": "Alphabet Inc. major customers clients",
-      "snippet": "Our business depends on strong brands, and failing to maintain and enhance our brands would hurt our ability to expand our base of users, advertisers,"
+      "snippet": "Jan 26, 2026 · Alphabet 's brands, including Google and YouTube, are among the most recognized and trusted in the world, driving user engagement and a"
     }
   ]
 }

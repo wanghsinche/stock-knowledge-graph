@@ -3,8 +3,8 @@ ticker: INTC
 company: Intel Corporation
 sector: Technology
 industry: Semiconductors
-extracted_at: 2026-04-02 16:46:51
-last_updated: 2026-04-02
+extracted_at: 2026-04-03 16:31:09
+last_updated: 2026-04-03
 ---
 
 # INTC - Intel Corporation
@@ -12,46 +12,46 @@ last_updated: 2026-04-02
 ## 基本信息
 
 - **所属行业**: Technology / Semiconductors
-- **提取时间**: 2026-04-02 16:46:51
+- **提取时间**: 2026-04-03 16:31:09
 
 ## 产业链关系
 
 ### 上游供应商
 - [[ASML]]
-- [[NVDA]]
-- [[MU]]
-- [[TSM]]
 - [[AMAT]]
+- [[LRCX]]
+- [[Tokyo Electron (semiconductor equipment)]]
+- [[Siltronic (silicon wafers)]]
 
 ### 下游客户
 - [[DELL]]
 - [[HPQ]]
 - [[Lenovo Group]]
-- [[AAPL]]
-- [[MSFT]]
+- [[IBM]]
+- [[AMZN]]
 
 ### 竞争对手
 - [[AMD]]
+- [[TSM]]
+- [[005930.KS]]
 - [[NVDA]]
 - [[QCOM]]
-- [[AVGO]]
-- [[005930.KS]]
 
 ### 核心产品
-- [[Intel Core processors]]
-- [[Intel Xeon processors]]
-- [[Intel Arc GPUs]]
-- [[Intel FPGAs (Stratix)]]
-- [[Intel SoCs (Mobileye, Intel Atom)]]
+- [[Intel Core CPUs]]
+- [[Intel Xeon CPUs]]
+- [[Intel Atom processors]]
+- [[Intel FPGAs (Altera)]]
+- [[Intel Optane memory]]
 
 ## 数据来源
 
 - [Intel](https://en.wikipedia.org/wiki/Intel_Corporation)
-- [Intel Corporation suppliers manufacturers](https://en.wikipedia.org/wiki/List_of_Intel_manufacturing_sites)
-- [Intel Corporation suppliers manufacturers](https://www.intel.com/content/www/us/en/partner/showcase/partner-directory/distributor.html)
-- [Intel Corporation major customers clients](https://en.wikipedia.org/wiki/Intel)
-- [Intel Corporation major customers clients](https://finance.yahoo.com/quote/INTC/)
+- [Intel Corporation suppliers manufacturers](https://en.wikipedia.org/wiki/Intel)
+- [Intel Corporation suppliers manufacturers](https://ru.wikipedia.org/wiki/Intel)
+- [Intel Corporation major customers clients](https://www.intel.com/content/www/us/en/customer-spotlight/overview.html)
+- [Intel Corporation major customers clients](https://www.investopedia.com/articles/markets/100214/inside-intel-look-mega-chipmaker.asp)
 
 ## 元数据
 
-- **更新日期**: 2026-04-02
+- **更新日期**: 2026-04-03

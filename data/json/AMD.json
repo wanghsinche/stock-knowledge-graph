@@ -5,15 +5,15 @@
   "industry": "Semiconductors",
   "upstream": [
     "TSM",
-    "GlobalFoundries",
     "005930.KS",
-    "MU",
-    "Amkor Technology"
+    "GlobalFoundries",
+    "INTC",
+    "MU"
   ],
   "downstream": [
     "DELL",
     "HPQ",
-    "Lenovo Group",
+    "Lenovo",
     "AAPL",
     "MSFT"
   ],
@@ -26,12 +26,12 @@
   ],
   "key_products": [
     "Ryzen CPUs",
-    "EPYC server CPUs",
+    "EPYC CPUs",
     "Radeon GPUs",
     "Xilinx FPGAs",
-    "APU (Accelerated Processing Units)"
+    "APU SoCs"
   ],
-  "extracted_at": "2026-04-02 16:46:16",
+  "extracted_at": "2026-04-03 16:30:10",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,25 +43,25 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/AMD",
       "query": "Advanced Micro Devices, Inc. suppliers manufacturers",
+      "snippet": "Advanced Micro Devices, Inc. (AMD) is an American multinational semiconductor company headquartered in Santa Clara, California, with significant opera"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://amdmanufacturing.com/",
+      "query": "Advanced Micro Devices, Inc. suppliers manufacturers",
+      "snippet": "AMD Manufacturing Inc. is a Canadian company providing exceptional quality filtration products at competitive prices with emphasis on maintaining a hi"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/AMD",
+      "query": "Advanced Micro Devices, Inc. major customers clients",
       "snippet": "Advanced Micro Devices , Inc . Advanced Micro Devices , Inc . ( AMD ) is an American multinational semiconductor company headquartered in Santa Clara,"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ir.amd.com/",
-      "query": "Advanced Micro Devices, Inc. suppliers manufacturers",
-      "snippet": "Advanced Micro Devices , Inc . IR Overview. Investor Relations. AMD Completes Divestiture of ZT Systems Data Center Infrastructure Manufacturing Busin"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/AMD-Customers",
+      "url": "https://www.nasdaq.com/market-activity/stocks/amd",
       "query": "Advanced Micro Devices, Inc. major customers clients",
-      "snippet": "5 days ago · Advanced Micro Devices Inc customers and markets, results by customer and performance relative to AMD, by company and industry - CSIMarke"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.marketscreener.com/quote/stock/AMD-ADVANCED-MICRO-DEVICE-179387659/finances-segments/",
-      "query": "Advanced Micro Devices, Inc. major customers clients",
-      "snippet": "3 days ago · Understand how activity and revenue gets distributed for AMD (Advanced Micro Devices ) (AMD). Ten-year segmentation history. The entire s"
+      "snippet": "Data Disclaimer: The Nasdaq Indices and the Major Indices are delayed at least 1 minute.Nasdaq Listed ETFs where AMD is a top 10 holding*."
     }
   ]
 }

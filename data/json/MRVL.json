@@ -4,34 +4,34 @@
   "sector": "Technology",
   "industry": "Semiconductors",
   "upstream": [
-    "TSM",
-    "005930.KS",
-    "GlobalFoundries",
-    "INTC",
-    "MU"
+    "AMAT",
+    "Raw material suppliers (e.g., silicon wafer producers)",
+    "Electronic design automation (EDA) tool vendors (e.g., Cadence, Synopsys)",
+    "IP licensing firms (e.g., ARM, Xilinx)",
+    "Packaging and testing service providers"
   ],
   "downstream": [
-    "CSCO",
-    "DELL",
-    "Huawei",
-    "NVDA",
-    "QCOM"
+    "AAPL",
+    "005930.KS",
+    "QCOM",
+    "Huawei Technologies Co., Ltd.",
+    "CSCO"
   ],
   "competitors": [
     "AVGO",
-    "INTC",
     "QCOM",
-    "NVDA",
-    "MediaTek"
+    "INTC",
+    "MediaTek Inc.",
+    "TXN"
   ],
   "key_products": [
-    "System-on-Chip (SoC) solutions",
-    "Networking and connectivity chips",
-    "Storage controllers",
-    "Wireless LAN chips",
-    "Embedded processors"
+    "Storage controller chips (e.g., NVMe, SATA)",
+    "Ethernet and networking ASICs",
+    "Wi‑Fi and Bluetooth modules",
+    "5G and LTE modem solutions",
+    "System‑on‑chip (SoC) platforms for data centers"
   ],
-  "extracted_at": "2026-04-02 16:48:38",
+  "extracted_at": "2026-04-03 16:32:36",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,25 +43,25 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Marvell_Technology",
       "query": "Marvell Technology, Inc. suppliers manufacturers",
-      "snippet": "It is a wholly owned subsidiary of Marvell Technology , and is headquartered in Tel Aviv. The company was founded by brothers Yehuda and Zohar Zisapel"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.marvell.com/company/sales.html",
-      "query": "Marvell Technology, Inc. suppliers manufacturers",
-      "snippet": "Search below for a list of the nearest Marvell representatives, distributors and direct sales offices in your vicinity or submit our Request for Infor"
+      "snippet": "Marvell Technology , Inc . is an American company, headquartered in Santa Clara, California, which develops and produces semiconductors and related te"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.marvell.com/",
-      "query": "Marvell Technology, Inc. major customers clients",
-      "snippet": "Designed for your current needs and future ambitions, Marvell delivers the data infrastructure technology transforming tomorrow’s enterprise, cloud, a"
+      "query": "Marvell Technology, Inc. suppliers manufacturers",
+      "snippet": "Watch the latest. Marvell Essential Technology Videos. Marvell designs custom silicon tailored for any application and offers the industry’s most comp"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.barrons.com/market-data/stocks/mrvl",
+      "url": "https://en.wikipedia.org/wiki/Marvell_Technology",
       "query": "Marvell Technology, Inc. major customers clients",
-      "snippet": "Complete Marvell Technology Inc . stock information by Barron's. View real-time MRVL stock price and news, along with industry-best analysis. Marvell "
+      "snippet": "Marvell Technology, Inc. is an American company, headquartered in Santa Clara, California, which develops and produces semiconductors and related tech"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://investor.marvell.com/news-events/press-releases/detail/1011/marvell-technology-inc-reports-fourth-quarter-and-fiscal-year-2026-financial-results",
+      "query": "Marvell Technology, Inc. major customers clients",
+      "snippet": "Mar 5, 2026 · ... customers for a significant portion of our revenue, particularly as our major customers comprise an increasing percentage of our rev"
     }
   ]
 }

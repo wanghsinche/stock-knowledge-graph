@@ -4,23 +4,23 @@
   "sector": "Communication Services",
   "industry": "Internet Content & Information",
   "upstream": [
+    "INTC",
     "NVDA",
     "AMD",
-    "INTC",
-    "GOOGL",
-    "AMZN"
+    "DELL",
+    "HPQ"
   ],
   "downstream": [
-    "GOOGL",
-    "AMZN",
-    "MSFT",
-    "Facebook",
-    "Alibaba"
+    "Federal Government IT systems",
+    "Large enterprises in finance",
+    "Healthcare organizations",
+    "CAT",
+    "Research institutions"
   ],
   "competitors": [
     "NVDA",
-    "AMD",
     "INTC",
+    "AMD",
     "GOOGL",
     "AMZN"
   ],
@@ -31,7 +31,7 @@
     "Toloka",
     "Clickhouse"
   ],
-  "extracted_at": "2026-04-02 16:50:02",
+  "extracted_at": "2026-04-03 16:36:54",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/suppliers_glance.php?code=NBIS",
+      "url": "https://en.wikipedia.org/wiki/List_of_companies_in_the_Chicago_metropolitan_area",
       "query": "NBIS suppliers manufacturers",
-      "snippet": "NBIS 's Suppliers Management Effectiveness. NBIS 's Competitors Results.Nebius Group N V's Comment on Supply Chain. NBIS 's Stock Perfrormance relativ"
+      "snippet": "This is a list of companies in the Chicago metropolitan area. The Chicago metropolitan area – also known as \"Chicagoland\" – is the metropolitan area a"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/NBIS/",
+      "url": "https://www.dcsa.mil/Systems-Applications/National-Background-Investigation-Services-NBIS/",
       "query": "NBIS suppliers manufacturers",
-      "snippet": "Find the latest Nebius Group N.V. ( NBIS ) stock quote, history, news and other vital information to help you with your stock trading and investing."
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/NBIS/",
-      "query": "NBIS major customers clients",
-      "snippet": "Find the latest Nebius Group N.V. ( NBIS ) stock quote, history, news and other vital information to help you with your stock trading and investing."
+      "snippet": "NBIS is the Federal government’s IT system for end-to-end process for personnel vetting. This starts with the initiation and application for a backgro"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://stockanalysis.com/stocks/nbis/",
       "query": "NBIS major customers clients",
       "snippet": "A detailed overview of Nebius Group N.V. ( NBIS ) stock, including real-time price, chart, key statistics, news, and more."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://seekingalpha.com/article/4886624-nebius-the-45-billion-backlog-nobody-is-pricing-in",
+      "query": "NBIS major customers clients",
+      "snippet": "NBIS targets adjusted EBITDA margins in the 40% range by FY2026, with management’s historically accurate projections underpinning confidence in the gr"
     }
   ]
 }

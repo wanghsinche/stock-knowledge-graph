@@ -1,14 +1,14 @@
 {
   "ticker": "CRWV",
   "company_name": "CoreWeave, Inc.",
-  "sector": "Technology / Software - Infrastructure",
-  "industry": "AI Cloud Computing / GPU Cloud Services",
+  "sector": "Technology",
+  "industry": "Software - Infrastructure",
   "upstream": [
     "NVDA",
     "AMD",
     "INTC",
-    "DELL",
-    "HPQ"
+    "QCOM",
+    "AVGO"
   ],
   "downstream": [
     "OpenAI",
@@ -20,18 +20,18 @@
   "competitors": [
     "NVDA",
     "GOOGL",
-    "MSFT",
     "AMZN",
-    "Paperspace"
+    "MSFT",
+    "IBM"
   ],
   "key_products": [
-    "GPU Cloud Infrastructure",
-    "GPU-as-a-Service",
-    "AI Compute Services",
-    "GPU Management Software",
-    "High-Performance AI Workloads"
+    "Cloud GPU infrastructure",
+    "GPU‑optimized AI compute clusters",
+    "Chip management software",
+    "AI workload orchestration platform",
+    "Data center infrastructure services"
   ],
-  "extracted_at": "2026-04-02 16:50:13",
+  "extracted_at": "2026-04-03 16:34:52",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,13 +43,13 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/CoreWeave",
       "query": "CoreWeave, Inc. suppliers manufacturers",
-      "snippet": "CoreWeave , Inc . is an American artificial intelligence (AI) cloud-computing company based in Livingston, New Jersey. It specializes in providing clo"
+      "snippet": "CoreWeave , Inc . is an American artificial intelligence cloud-computing company based in Livingston, New Jersey."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.coreweave.com/about-us",
+      "url": "https://www.coreweave.com/",
       "query": "CoreWeave, Inc. suppliers manufacturers",
-      "snippet": "CoreWeave is a cloud purpose-built for scaling, supporting, and accelerating GenAI. We’re a comprehensive platform and strategic partner designed to t"
+      "snippet": "CoreWeave screenshot - 20 Meilleurs Fournisseurs de Services Cloud Gérés..."
     },
     {
       "source": "DuckDuckGo",
@@ -59,9 +59,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.zacks.com/stock/news/2891665/coreweave-vs-cloudflare-which-ai-cloud-stock-offers-better-upside",
+      "url": "https://www.coreweave.com/",
       "query": "CoreWeave, Inc. major customers clients",
-      "snippet": "CoreWeave is a specialized AI cloud provider focused on renting high-performance GPUs for training and running AI models. Cloudflare acts as a softwar"
+      "snippet": "CoreWeave Inc .’s."
     }
   ]
 }

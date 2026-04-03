@@ -3,8 +3,8 @@ ticker: BA
 company: The Boeing Company
 sector: Industrials
 industry: Aerospace & Defense
-extracted_at: 2026-04-01 16:48:26
-last_updated: 2026-04-01
+extracted_at: 2026-04-03 16:38:19
+last_updated: 2026-04-03
 ---
 
 # BA - The Boeing Company
@@ -12,22 +12,22 @@ last_updated: 2026-04-01
 ## 基本信息
 
 - **所属行业**: Industrials / Aerospace & Defense
-- **提取时间**: 2026-04-01 16:48:26
+- **提取时间**: 2026-04-03 16:38:19
 
 ## 产业链关系
 
 ### 上游供应商
+- [[General Electric]]
 - [[Pratt & Whitney]]
-- [[GE Aviation]]
 - [[Honeywell]]
-- [[Hexcel]]
-- [[Alcoa]]
+- [[Rockwell Collins]]
+- [[Composite materials suppliers]]
 
 ### 下游客户
-- [[U.S. Department of Defense]]
-- [[United Airlines]]
+- [[United States Air Force]]
+- [[United States Navy]]
+- [[United States Army]]
 - [[Delta Air Lines]]
-- [[American Airlines]]
 - [[Emirates]]
 
 ### 竞争对手
@@ -35,23 +35,23 @@ last_updated: 2026-04-01
 - [[Lockheed Martin]]
 - [[Northrop Grumman]]
 - [[Raytheon Technologies]]
-- [[General Dynamics]]
+- [[BAE Systems]]
 
 ### 核心产品
-- [[737 Commercial Jet]]
+- [[737 Commercial Airplane]]
 - [[787 Dreamliner]]
-- [[KC‑46A Tanker]]
-- [[F‑15 Eagle]]
-- [[Delta Rocket]]
+- [[KC-46A Pegasus]]
+- [[C-17 Globemaster III]]
+- [[Delta IV Heavy Rocket]]
 
 ## 数据来源
 
 - [Boeing](https://en.wikipedia.org/wiki/The_Boeing_Company)
 - [The Boeing Company suppliers manufacturers](https://en.wikipedia.org/wiki/Boeing)
 - [The Boeing Company suppliers manufacturers](https://www.boeing.com/)
-- [The Boeing Company major customers clients](https://simpleflying.com/boeing-biggest-customers/)
-- [The Boeing Company major customers clients](https://csimarket.com/stocks/BA-Customers)
+- [The Boeing Company major customers clients](https://en.wikipedia.org/wiki/Boeing)
+- [The Boeing Company major customers clients](https://www.boeing.com/)
 
 ## 元数据
 
-- **更新日期**: 2026-04-01
+- **更新日期**: 2026-04-03

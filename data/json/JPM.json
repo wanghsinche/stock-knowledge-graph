@@ -4,18 +4,18 @@
   "sector": "Financial Services",
   "industry": "Banks - Diversified",
   "upstream": [
+    "ORCL",
     "MSFT",
-    "DELL",
-    "Legal and compliance service providers",
-    "Consulting firms (e.g., Accenture, Deloitte)",
-    "Security and cybersecurity providers"
+    "IBM",
+    "AMZN",
+    "Symantec"
   ],
   "downstream": [
     "Retail banking customers",
-    "Corporate and institutional clients",
-    "Investment banking clients",
+    "Corporate banking clients",
+    "Institutional investors",
     "Wealth management clients",
-    "Mortgage borrowers"
+    "Small and medium businesses"
   ],
   "competitors": [
     "Bank of America",
@@ -26,12 +26,12 @@
   ],
   "key_products": [
     "Retail banking services",
-    "Corporate banking and lending",
-    "Investment banking and advisory",
-    "Asset management",
-    "Wealth management and private banking"
+    "Investment banking",
+    "Asset and wealth management",
+    "Credit cards",
+    "Treasury and securities services"
   ],
-  "extracted_at": "2026-04-02 16:52:11",
+  "extracted_at": "2026-04-03 16:34:07",
   "sources": [
     {
       "source": "Wikipedia",

@@ -1,37 +1,37 @@
 {
   "ticker": "HOOD",
   "company_name": "Robinhood Markets, Inc.",
-  "sector": "Financial Services / Capital Markets",
-  "industry": "Online Brokerage / Retail Trading Platform",
+  "sector": "Financial Services",
+  "industry": "Brokerage and Trading Services",
   "upstream": [
-    "Market data providers (e.g., Bloomberg, Refinitiv)",
-    "Payment processors (e.g., Stripe, PayPal)",
-    "AMZN",
-    "Regulatory compliance services",
-    "MSFT"
+    "Cloud service providers (AWS, Azure)",
+    "Market data feed providers (Bloomberg, Refinitiv)",
+    "Payment processors (Stripe, PayPal)",
+    "Regulatory compliance vendors",
+    "Technology infrastructure vendors"
   ],
   "downstream": [
     "Retail investors",
-    "High-net-worth individuals",
+    "High‑net‑worth individuals",
     "Institutional clients",
-    "Crypto traders",
-    "Financial advisors"
+    "Day traders",
+    "Crypto traders"
   ],
   "competitors": [
     "Charles Schwab",
-    "Fidelity Investments",
-    "TD Ameritrade",
+    "Fidelity",
     "E*TRADE",
+    "Interactive Brokers",
     "Webull"
   ],
   "key_products": [
-    "Commission‑free stock and ETF trading",
-    "Robinhood Gold premium service",
-    "Cash management and interest",
+    "Commission‑free stock trading",
+    "Options trading",
     "Cryptocurrency trading",
-    "Options trading"
+    "Margin trading (Robinhood Gold)",
+    "Cash management and interest‑earning accounts"
   ],
-  "extracted_at": "2026-04-02 16:50:23",
+  "extracted_at": "2026-04-03 16:35:47",
   "sources": [
     {
       "source": "Wikipedia",
@@ -53,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://investingintheweb.com/brokers/robinhood-statistics/",
+      "url": "https://en.wikipedia.org/wiki/Robinhood_Markets",
       "query": "Robinhood Markets, Inc. major customers clients",
-      "snippet": "Jan 2, 2026 · The platform has gained a massive customer base in the US, making it a major disruptor in the finance industry. In this article, we’ll e"
+      "snippet": "Robinhood Markets , Inc . is an American financial services company based in Menlo Park, California. It provides an electronic trading platform that f"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://investors.robinhood.com/news-releases/news-release-details/robinhood-markets-inc-reports-november-2025-operating-data",
+      "url": "https://www.investing.com/equities/robinhood-markets",
       "query": "Robinhood Markets, Inc. major customers clients",
-      "snippet": "Dec 10, 2025 · Today, Robinhood , through its subsidiaries, lets you trade stocks, options, futures (which includes event contracts), and crypto, inve"
+      "snippet": "Robinhood Markets , Inc . (NASDAQ: HOOD ) Chief Technology Officer Jeffrey Tsvi Pinner, sold 5,835 shares of Class A Common Stock on... customers the "
     }
   ]
 }

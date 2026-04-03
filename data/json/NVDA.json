@@ -6,32 +6,32 @@
   "upstream": [
     "TSM",
     "005930.KS",
-    "MU",
-    "SK Hynix",
-    "ASE Group"
+    "GlobalFoundries",
+    "UMC",
+    "SMIC"
   ],
   "downstream": [
     "AMZN",
     "MSFT",
     "GOOGL",
-    "SONY",
-    "AAPL"
+    "TSLA",
+    "SONY"
   ],
   "competitors": [
     "AMD",
     "INTC",
     "QCOM",
-    "AAPL",
-    "005930.KS"
+    "AVGO",
+    "AAPL"
   ],
   "key_products": [
     "GeForce RTX GPUs",
-    "Quadro GPUs",
-    "Tesla GPUs",
-    "Jetson AI platform",
-    "DGX AI supercomputer"
+    "Tesla V100 & A100 GPUs",
+    "Jetson AGX Xavier SoC",
+    "CUDA API",
+    "RTX Ray Tracing technology"
   ],
-  "extracted_at": "2026-04-02 16:45:28",
+  "extracted_at": "2026-04-03 16:29:31",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,15 +41,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://stocksandfuturestrading.com/the-complete-list-of-nvidias-suppliers-and-consumers/",
-      "query": "NVIDIA Corporation suppliers manufacturers",
-      "snippet": "Nov 22, 2024 · Trading Resources The Complete List Of Nvidia ’s Suppliers And Consumers By Stocks & Futures Trading This is the most recently updated "
-    },
-    {
-      "source": "DuckDuckGo",
       "url": "https://marketplace.nvidia.com/en-us/enterprise/partners/",
       "query": "NVIDIA Corporation suppliers manufacturers",
       "snippet": "Know about NVIDIA partners – cloud, data center provider, distributor, global systems integrator, independent software vendor, OEM, and many more part"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://stocksandfuturestrading.com/the-complete-list-of-nvidias-suppliers-and-consumers/",
+      "query": "NVIDIA Corporation suppliers manufacturers",
+      "snippet": "Nov 22, 2024 · Trading Resources The Complete List Of Nvidia ’s Suppliers And Consumers By Stocks & Futures Trading This is the most recently updated "
     },
     {
       "source": "DuckDuckGo",

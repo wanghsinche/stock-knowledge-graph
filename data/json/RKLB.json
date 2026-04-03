@@ -3,11 +3,35 @@
   "company_name": "Rocket Lab Corporation",
   "sector": "Industrials",
   "industry": "Aerospace & Defense",
-  "upstream": [],
-  "downstream": [],
-  "competitors": [],
-  "key_products": [],
-  "extracted_at": "2026-04-02 16:49:14",
+  "upstream": [
+    "Rocket engine manufacturers (e.g., Aerojet Rocketdyne)",
+    "Composite material suppliers (e.g., Hexcel)",
+    "Avionics and guidance system suppliers (e.g., Honeywell Aerospace)",
+    "Propellant suppliers (e.g., Linde)",
+    "TXN"
+  ],
+  "downstream": [
+    "Commercial satellite operators (e.g., Planet Labs, SpaceX customers)",
+    "Government space agencies (e.g., NASA, ESA)",
+    "Small satellite constellations (e.g., Starlink, OneWeb)",
+    "Earth observation satellite customers",
+    "CAT"
+  ],
+  "competitors": [
+    "SpaceX",
+    "Blue Origin",
+    "Relativity Space",
+    "Firefly Aerospace",
+    "Astra"
+  ],
+  "key_products": [
+    "Electron launch vehicle",
+    "HASTE suborbital testbed",
+    "Neutron medium‑lift launch vehicle",
+    "Star trackers",
+    "Reaction wheels"
+  ],
+  "extracted_at": "2026-04-03 16:33:07",
   "sources": [
     {
       "source": "Wikipedia",
@@ -19,13 +43,25 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Rocket_Lab",
       "query": "Rocket Lab Corporation suppliers manufacturers",
-      "snippet": "The company is a supplier of satellite components such as star trackers, reaction wheels, solar panels, software-defined radios, composite structures,"
+      "snippet": "Rocket Lab Corporation is a publicly traded aerospace manufacturer and launch service provider. [10] Its Electron orbital rocket launches small satell"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://rocketlabcorp.com/become-a-rocket-lab-supplier/",
       "query": "Rocket Lab Corporation suppliers manufacturers",
       "snippet": "While Rocket Lab designs and manufactures many of its merchant components in-house, we also leverage specialized suppliers that can enable us to achie"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://rocketlabcorp.com/",
+      "query": "Rocket Lab Corporation major customers clients",
+      "snippet": "Cumulative Years In Space For Rocket Lab Satellite Technology. From Idea To Orbit. Rocket Lab is an end-to-end space company delivering reliable launc"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.zacks.com/stock/news/2891223/rocket-lab-corporation-rklb-registers-a-bigger-fall-than-the-market-important-facts-to-note",
+      "query": "Rocket Lab Corporation major customers clients",
+      "snippet": "Rocket Lab Corporation is currently sporting a Zacks Rank of #3 (Hold).Today's Research Daily features new research reports on 16 major stocks, includ"
     }
   ]
 }

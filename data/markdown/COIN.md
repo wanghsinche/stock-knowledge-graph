@@ -3,8 +3,8 @@ ticker: COIN
 company: Coinbase Global, Inc.
 sector: Financial Services
 industry: Financial Data & Stock Exchanges
-extracted_at: 2026-04-02 16:50:32
-last_updated: 2026-04-02
+extracted_at: 2026-04-03 16:36:11
+last_updated: 2026-04-03
 ---
 
 # COIN - Coinbase Global, Inc.
@@ -12,46 +12,46 @@ last_updated: 2026-04-02
 ## 基本信息
 
 - **所属行业**: Financial Services / Financial Data & Stock Exchanges
-- **提取时间**: 2026-04-02 16:50:32
+- **提取时间**: 2026-04-03 16:36:11
 
 ## 产业链关系
 
 ### 上游供应商
 - [[AMZN]]
-- [[Stripe (payment processing)]]
 - [[MSFT]]
-- [[IBM]]
-- [[ORCL]]
+- [[Stripe (payment processing)]]
+- [[Plaid (financial data aggregation)]]
+- [[Chainalysis (blockchain analytics)]]
 
 ### 下游客户
 - [[Retail cryptocurrency traders]]
-- [[Institutional investors]]
+- [[Institutional investors (hedge funds, family offices)]]
 - [[Crypto asset managers]]
 - [[DeFi protocol developers]]
-- [[Financial technology startups]]
+- [[Merchant payment processors]]
 
 ### 竞争对手
 - [[Binance]]
 - [[Kraken]]
 - [[Gemini]]
 - [[Bitstamp]]
-- [[Huobi]]
+- [[FTX (formerly)]]
 
 ### 核心产品
 - [[Cryptocurrency trading platform]]
-- [[Custody services for digital assets]]
+- [[Custody services for institutional clients]]
 - [[Staking and yield products]]
-- [[Crypto wallet and mobile app]]
-- [[API for institutional trading]]
+- [[Coinbase Wallet (non-custodial)]]
+- [[Coinbase Pro (advanced trading interface)]]
 
 ## 数据来源
 
 - [Coinbase](https://en.wikipedia.org/wiki/Coinbase_Global,_Inc.)
-- [Coinbase Global, Inc. suppliers manufacturers](https://www.coinbase.com/vendors/vendors-at-coinbase-code-of-conduct)
-- [Coinbase Global, Inc. suppliers manufacturers](https://fintel.io/doc/sec-coinbase-global-inc-1679788-ex211-2024-february-15-19768-5823)
-- [Coinbase Global, Inc. major customers clients](https://www.demandsage.com/coinbase-users-statistics/)
-- [Coinbase Global, Inc. major customers clients](https://expandedramblings.com/index.php/coinbase-statistics-facts-user-count/)
+- [Coinbase Global, Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/Coinbase)
+- [Coinbase Global, Inc. suppliers manufacturers](https://finance.yahoo.com/quote/COIN/)
+- [Coinbase Global, Inc. major customers clients](https://en.wikipedia.org/wiki/Coinbase)
+- [Coinbase Global, Inc. major customers clients](https://www.coinbase.com/)
 
 ## 元数据
 
-- **更新日期**: 2026-04-02
+- **更新日期**: 2026-04-03

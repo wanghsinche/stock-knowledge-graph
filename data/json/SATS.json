@@ -2,13 +2,13 @@
   "ticker": "SATS",
   "company_name": "EchoStar Corporation",
   "sector": "Communication Services",
-  "industry": "Telecom Services",
+  "industry": "Satellite Communications",
   "upstream": [
-    "Satellite component manufacturers",
-    "Antenna and dish manufacturers",
-    "Satellite launch service providers",
-    "Electronic subsystem suppliers",
-    "Ground station equipment vendors"
+    "Lockheed Martin",
+    "Boeing",
+    "Airbus",
+    "SpaceX",
+    "Thales Alenia Space"
   ],
   "downstream": [
     "Dish Network",
@@ -19,19 +19,19 @@
   ],
   "competitors": [
     "INTC",
-    "SES S.A.",
+    "SES",
     "Eutelsat",
-    "Telesat",
-    "ViaSat"
+    "ViaSat",
+    "Starlink"
   ],
   "key_products": [
-    "Satellite communication services",
-    "Wireless telecommunications",
     "Satellite broadband internet",
     "Multichannel video programming",
+    "Wireless telecommunications",
+    "Satellite TV services",
     "Mobile services"
   ],
-  "extracted_at": "2026-03-25 17:01:59",
+  "extracted_at": "2026-04-03 16:38:35",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,21 +47,21 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.echostar.com/supplier-resources",
+      "url": "https://www.linkedin.com/company/echostar-corporation",
       "query": "EchoStar Corporation suppliers manufacturers",
-      "snippet": "Supplier Resources Terms & Conditions Vendor and EchoStar Purchasing Corporation agree to be bound by all terms and conditions contained herein, all o"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/EchoStar",
-      "query": "EchoStar Corporation major customers clients",
-      "snippet": "EchoStar Corporation is an American telecommunications company, specializing in satellite communication, wireless telecommunications, and internet ser"
+      "snippet": "EchoStar Corporation | 33,513 followers on LinkedIn. EchoStar Corporation (Nasdaq: SATS) is a premier provider of technology, networking services, tel"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://portersfiveforce.com/blogs/target-market/echostar",
       "query": "EchoStar Corporation major customers clients",
-      "snippet": "6 days ago · What Do Echostar ’s Customers Want? Customer Needs and Preferences for Echostar emphasize always-on connectivity where terrestrial option"
+      "snippet": "Mar 19, 2026 · Who Are Echostar ’ s Main Customers ? Primary customer segments for Echostar span rural/suburban consumers, SMBs, enterprises/carriers,"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.echostar.com/",
+      "query": "EchoStar Corporation major customers clients",
+      "snippet": "Echostar Corporation (Nasdaq: SATS) is a global fully integrated communications and content delivery leader and provider of technology, spectrum, and "
     }
   ]
 }

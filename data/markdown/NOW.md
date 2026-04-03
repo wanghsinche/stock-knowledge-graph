@@ -3,8 +3,8 @@ ticker: NOW
 company: ServiceNow, Inc.
 sector: Technology
 industry: Software - Application
-extracted_at: 2026-04-02 16:51:20
-last_updated: 2026-04-02
+extracted_at: 2026-04-03 16:35:13
+last_updated: 2026-04-03
 ---
 
 # NOW - ServiceNow, Inc.
@@ -12,7 +12,7 @@ last_updated: 2026-04-02
 ## 基本信息
 
 - **所属行业**: Technology / Software - Application
-- **提取时间**: 2026-04-02 16:51:20
+- **提取时间**: 2026-04-03 16:35:13
 
 ## 产业链关系
 
@@ -20,38 +20,38 @@ last_updated: 2026-04-02
 - [[AMZN]]
 - [[MSFT]]
 - [[GOOGL]]
-- [[ORCL]]
-- [[VMware]]
+- [[DELL]]
+- [[CSCO]]
 
 ### 下游客户
 - [[Walmart]]
 - [[JPMorgan Chase]]
 - [[Coca‑Cola]]
 - [[Bank of America]]
-- [[General Electric]]
+- [[UnitedHealth Group]]
 
 ### 竞争对手
 - [[CRM]]
-- [[MSFT]]
 - [[SAP SuccessFactors]]
-- [[Workday]]
-- [[Atlassian]]
+- [[MSFT]]
+- [[IBM]]
+- [[ORCL]]
 
 ### 核心产品
-- [[Now Platform]]
-- [[IT Service Management]]
-- [[IT Operations Management]]
+- [[ServiceNow Platform (IT Service Management)]]
+- [[IT Operations Management (ITOM)]]
+- [[IT Business Management (ITBM)]]
 - [[Customer Service Management]]
 - [[HR Service Delivery]]
 
 ## 数据来源
 
 - [ServiceNow](https://en.wikipedia.org/wiki/ServiceNow,_Inc.)
-- [ServiceNow, Inc. suppliers manufacturers](https://www.servicenow.com/)
-- [ServiceNow, Inc. suppliers manufacturers](https://finance.yahoo.com/markets/stocks/articles/servicenow-now-products-see-growth-145055758.html)
+- [ServiceNow, Inc. suppliers manufacturers](https://www.servicenow.com/partners/partner-finder.html)
+- [ServiceNow, Inc. suppliers manufacturers](https://itcompanies.net/blog/top-servicenow-partners)
 - [ServiceNow, Inc. major customers clients](https://www.servicenow.com/)
-- [ServiceNow, Inc. major customers clients](https://geeksforless.com/benefits-of-servicenow/)
+- [ServiceNow, Inc. major customers clients](https://blog.invgate.com/servicenow-vs-cherwell)
 
 ## 元数据
 
-- **更新日期**: 2026-04-02
+- **更新日期**: 2026-04-03

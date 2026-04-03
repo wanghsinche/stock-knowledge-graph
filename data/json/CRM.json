@@ -11,16 +11,16 @@
     "DELL"
   ],
   "downstream": [
-    "Coca‑Cola",
-    "Toyota Motor Corporation",
-    "American Express",
-    "AT&T",
-    "Unilever"
+    "AMZN",
+    "Walmart",
+    "IBM",
+    "NASA",
+    "Coca‑Cola"
   ],
   "competitors": [
     "MSFT",
-    "SAP Customer Experience",
     "ORCL",
+    "SAP SuccessFactors",
     "HubSpot",
     "Zoho CRM"
   ],
@@ -29,12 +29,9 @@
     "Service Cloud",
     "Marketing Cloud",
     "Commerce Cloud",
-    "Einstein AI",
-    "MuleSoft",
-    "Tableau",
-    "Slack"
+    "Einstein AI"
   ],
-  "extracted_at": "2026-04-02 16:49:53",
+  "extracted_at": "2026-04-03 16:33:16",
   "sources": [
     {
       "source": "Wikipedia",
@@ -44,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.salesforce.com/company/our-brands/",
-      "query": "Salesforce, Inc. suppliers manufacturers",
-      "snippet": "See our full list of Salesforce brands and find out how these companies inspire innovation to provide customer solutions."
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.salesforce.com/manufacturing/software/",
-      "query": "Salesforce, Inc. suppliers manufacturers",
-      "snippet": "Empower your teams with the #1 AI CRM for manufacturing. · Build a community of collaboration. · Provide forecast and incentive program visibility to "
-    },
-    {
-      "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Salesforce",
-      "query": "Salesforce, Inc. major customers clients",
+      "query": "Salesforce, Inc. suppliers manufacturers",
       "snippet": "Salesforce , Inc ., is an American cloud-based software company headquartered in San Francisco, California. It provides applications focused on sales "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.salesforce.com/",
+      "url": "https://csimarket.com/stocks/CRM-Suppliers",
+      "query": "Salesforce, Inc. suppliers manufacturers",
+      "snippet": "Salesforce Inc supply chain, list and performance of Salesforce Incs ' suppliers - CSIMarket."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.salesforce.com/customer-stories/",
       "query": "Salesforce, Inc. major customers clients",
-      "snippet": "Salesforce Enterprise-grade CRM with deep reporting, sales operations, and..."
+      "snippet": "Discover how Salesforce helps 150,000+ companies increase productivity, customer loyalty, and sales revenue — every day."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://ascendix.com/blog/how-many-companies-use-salesforce/",
+      "query": "Salesforce, Inc. major customers clients",
+      "snippet": "Largest Salesforce customers include top companies like AWS, Walmart, IBM, NASA, Unilever, Mercedes Benz, and US Bank . They choose Salesforce CRM for"
     }
   ]
 }

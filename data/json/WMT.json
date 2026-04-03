@@ -1,8 +1,8 @@
 {
   "ticker": "WMT",
   "company_name": "Walmart Inc.",
-  "sector": "Consumer Defensive",
-  "industry": "Discount Stores",
+  "sector": "Consumer Defensive / Discount Stores",
+  "industry": "Retail - Discount Stores",
   "upstream": [
     "Procter & Gamble",
     "Coca‑Cola",
@@ -11,27 +11,27 @@
     "Unilever"
   ],
   "downstream": [
-    "Retail shoppers",
-    "Online consumers",
+    "U.S. consumers",
+    "International consumers",
+    "Online shoppers",
     "Small businesses",
-    "Local communities",
-    "Corporate buyers"
+    "Local communities"
   ],
   "competitors": [
+    "AMZN",
     "Target",
     "Costco",
-    "Dollar General",
-    "Aldi",
-    "BJ's Wholesale Club"
+    "Home Depot",
+    "Kroger"
   ],
   "key_products": [
     "Groceries",
+    "Household goods",
     "Apparel",
     "Electronics",
-    "Household goods",
-    "Pharmacy items"
+    "Pharmacy products"
   ],
-  "extracted_at": "2026-04-02 16:52:51",
+  "extracted_at": "2026-04-03 16:36:22",
   "sources": [
     {
       "source": "Wikipedia",
@@ -53,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Walmart",
+      "url": "https://capitaloneshopping.com/research/walmart-statistics/",
       "query": "Walmart Inc. major customers clients",
-      "snippet": "Walmart is the world's largest company by revenue and the largest private employer in the world, with 2.1 million employees. It is a publicly traded ."
+      "snippet": "Nov 6, 2025 · Latest available data on Walmart ' s size and market share, both offline and online, with total sales and revenue breakdowns by year."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://capitaloneshopping.com/research/walmart-statistics/",
+      "url": "https://businessmodelanalyst.com/walmart-target-market/",
       "query": "Walmart Inc. major customers clients",
-      "snippet": "Nov 6, 2025 · Walmart is the world's largest retailer; in an average week, 255 million shoppers visit Walmart stores worldwide."
+      "snippet": "Dec 2, 2024 · This article will examine Walmart target market and approach to reaching a broad yet carefully segmented customer base."
     }
   ]
 }

@@ -2,33 +2,33 @@
 ticker: OXY
 company: Occidental Petroleum Corporation
 sector: Energy
-industry: Oil & Gas Exploration & Production
-extracted_at: 2026-04-02 16:50:40
-last_updated: 2026-04-02
+industry: Oil & Gas E&P
+extracted_at: 2026-04-03 16:38:04
+last_updated: 2026-04-03
 ---
 
 # OXY - Occidental Petroleum Corporation
 
 ## 基本信息
 
-- **所属行业**: Energy / Oil & Gas Exploration & Production
-- **提取时间**: 2026-04-02 16:50:40
+- **所属行业**: Energy / Oil & Gas E&P
+- **提取时间**: 2026-04-03 16:38:04
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Drilling rig manufacturers (e.g., Weatherford, Halliburton)]]
-- [[Petrochemical equipment suppliers (e.g., EMCO Chemical Distributors)]]
-- [[Oilfield service providers (e.g., Schlumberger, Baker Hughes)]]
-- [[Chemical suppliers for refining processes]]
-- [[Equipment and tooling manufacturers]]
+- [[Baker Hughes]]
+- [[Halliburton]]
+- [[Schlumberger]]
+- [[Weatherford]]
+- [[National Oilwell Varco]]
 
 ### 下游客户
-- [[Major refineries and petrochemical plants in the U.S. and Canada]]
-- [[Oil and gas producers in the Middle East]]
-- [[Industrial customers using petrochemical products]]
-- [[Energy utilities and power generation companies]]
-- [[Large commercial and industrial end‑users of refined products]]
+- [[Chevron]]
+- [[ExxonMobil]]
+- [[Shell]]
+- [[BP]]
+- [[TotalEnergies]]
 
 ### 竞争对手
 - [[ExxonMobil]]
@@ -40,18 +40,18 @@ last_updated: 2026-04-02
 ### 核心产品
 - [[Crude oil]]
 - [[Natural gas]]
-- [[Petrochemical feedstocks]]
+- [[Petrochemicals]]
 - [[Refined petroleum products]]
-- [[Oilfield chemicals and services]]
+- [[Gasoline]]
 
 ## 数据来源
 
 - [Occidental Petroleum](https://en.wikipedia.org/wiki/Occidental_Petroleum_Corporation)
-- [Occidental Petroleum Corporation suppliers manufacturers](https://en.wikipedia.org/wiki/Occidental_Petroleum)
-- [Occidental Petroleum Corporation suppliers manufacturers](https://www.emcochem.com/occidental-chemical/)
-- [Occidental Petroleum Corporation major customers clients](https://finance.yahoo.com/quote/OXY/)
-- [Occidental Petroleum Corporation major customers clients](https://www.youtube.com/watch?v=Ym-SrK3vmH0)
+- [Occidental Petroleum Corporation suppliers manufacturers](https://finance.yahoo.com/quote/OXY/)
+- [Occidental Petroleum Corporation suppliers manufacturers](https://www.vstar.com/th/article/oxy-stock-occidental-petroleum-trading-overview)
+- [Occidental Petroleum Corporation major customers clients](https://csimarket.com/stocks/OXY-Customers)
+- [Occidental Petroleum Corporation major customers clients](https://www.swotanalysis.com/section/top-clients/occidental-petroleum)
 
 ## 元数据
 
-- **更新日期**: 2026-04-02
+- **更新日期**: 2026-04-03

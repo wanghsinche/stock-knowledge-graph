@@ -3,8 +3,8 @@ ticker: GLW
 company: Corning Incorporated
 sector: Technology
 industry: Electronic Components
-extracted_at: 2026-04-02 16:51:30
-last_updated: 2026-04-02
+extracted_at: 2026-04-03 16:35:03
+last_updated: 2026-04-03
 ---
 
 # GLW - Corning Incorporated
@@ -12,37 +12,37 @@ last_updated: 2026-04-02
 ## 基本信息
 
 - **所属行业**: Technology / Electronic Components
-- **提取时间**: 2026-04-02 16:51:30
+- **提取时间**: 2026-04-03 16:35:03
 
 ## 产业链关系
 
 ### 上游供应商
 - [[Silica sand suppliers]]
-- [[Chemical feedstock providers]]
-- [[Glass manufacturing equipment manufacturers]]
-- [[Optical fiber preform suppliers]]
-- [[Ceramic raw material suppliers]]
+- [[Alumina producers]]
+- [[Soda ash manufacturers]]
+- [[Chemical feedstock suppliers]]
+- [[Glass raw material distributors]]
 
 ### 下游客户
-- [[Display technology manufacturers]]
-- [[Environmental monitoring equipment makers]]
-- [[Life sciences research instrument companies]]
-- [[Mobile consumer electronics OEMs]]
+- [[CAT]]
+- [[AAPL]]
+- [[Aerospace and defense contractors (e.g., Boeing, Lockheed Martin)]]
+- [[Medical imaging and diagnostic equipment makers (e.g., Siemens Healthineers)]]
 - [[CAT]]
 
 ### 竞争对手
+- [[Schott AG]]
 - [[Lumentum Holdings]]
 - [[II-VI Incorporated]]
 - [[Coherent, Inc.]]
-- [[Corning's life‑sciences competitor Thermo Fisher Scientific]]
-- [[Nexteer Technologies]]
+- [[NKT Photonics]]
 
 ### 核心产品
-- [[Optical fiber]]
-- [[Glass for display technologies]]
-- [[Glass for life sciences applications]]
-- [[Industrial glass and ceramics]]
-- [[Advanced optical components]]
+- [[Optical fiber and glass fiber]]
+- [[Specialty glass for electronics and photonics]]
+- [[Optical components (lenses, prisms, waveguides)]]
+- [[Photonic integrated circuits]]
+- [[Glass for medical devices and solar cells]]
 
 ## 数据来源
 
@@ -50,8 +50,8 @@ last_updated: 2026-04-02
 - [Corning Incorporated suppliers manufacturers](https://www.corning.com/worldwide/en/products/life-sciences/config/Distributors.html)
 - [Corning Incorporated suppliers manufacturers](https://www.mouser.com/manufacturer/corning/)
 - [Corning Incorporated major customers clients](https://en.wikipedia.org/wiki/Corning_Inc.)
-- [Corning Incorporated major customers clients](https://www.corning.com/worldwide/en/about-us/corning-business-segments.html)
+- [Corning Incorporated major customers clients](https://www.linkedin.com/company/corning-incorporated)
 
 ## 元数据
 
-- **更新日期**: 2026-04-02
+- **更新日期**: 2026-04-03

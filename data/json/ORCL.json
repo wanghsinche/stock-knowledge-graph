@@ -1,37 +1,37 @@
 {
   "ticker": "ORCL",
   "company_name": "Oracle Corporation",
-  "sector": "Technology / Software - Infrastructure",
-  "industry": "Database & Cloud Infrastructure",
+  "sector": "Technology",
+  "industry": "Software - Infrastructure",
   "upstream": [
     "INTC",
     "AMD",
     "NVDA",
     "DELL",
-    "CSCO"
+    "HPQ"
   ],
   "downstream": [
-    "Walmart",
     "JPMorgan Chase",
     "Bank of America",
-    "eBay",
-    "UnitedHealth Group"
+    "Walmart",
+    "AT&T",
+    "Verizon"
   ],
   "competitors": [
     "MSFT",
     "AMZN",
+    "GOOGL",
     "IBM",
-    "SAP",
-    "GOOGL"
+    "SAP"
   ],
   "key_products": [
     "Oracle Database",
     "Oracle Cloud Infrastructure",
     "Oracle Autonomous Database",
-    "Oracle E-Business Suite",
-    "Oracle Fusion Middleware"
+    "Oracle Fusion Applications",
+    "Oracle E-Business Suite"
   ],
-  "extracted_at": "2026-04-02 16:49:43",
+  "extracted_at": "2026-04-03 16:33:38",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.oracle.com/corporate/suppliers/",
-      "query": "Oracle Corporation suppliers manufacturers",
-      "snippet": "Oracle is always looking for suppliers who can meet our high quality standards and satisfy our ever-evolving business needs. We believe in the importa"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.thomsondata.com/customer-base/oracle.php",
-      "query": "Oracle Corporation suppliers manufacturers",
-      "snippet": "Getting linked to Oracle customers is not simple in today’s large business landscape. Thomson Data makes it easy by offering an accurate and up-to-dat"
-    },
-    {
-      "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Oracle_Corporation",
-      "query": "Oracle Corporation major customers clients",
-      "snippet": "Oracle Corporation's main competitors in the database arena ... According to Oracle Corporation, the majority of SAP's customers use Oracle databases."
+      "query": "Oracle Corporation suppliers manufacturers",
+      "snippet": "Oracle Corporation is an American multinational technology company headquartered in Austin, Texas. Co-founded in Santa Clara, California by Bob Miner,"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://ru.wikipedia.org/wiki/Oracle",
+      "query": "Oracle Corporation suppliers manufacturers",
+      "snippet": "Oracle ( Oracle Corporation ) — американская корпорация, второй по размеру выручки разработчик программного обеспечения (после Microsoft), четвёртая к"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.oracle.com/customers/",
       "query": "Oracle Corporation major customers clients",
-      "snippet": "Hear from our customers to learn what makes Oracle the right choice for them, and why we're the right partner for your business. Missing: major | Show"
+      "snippet": "Innovation, ease of use, better results—those are just some of the reasons organizations in all industries and of all sizes rely on Oracle to help the"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.thomsondata.com/customer-base/oracle.php",
+      "query": "Oracle Corporation major customers clients",
+      "snippet": "Thomson Data makes it easy by offering an accurate and up-to-date list of companies that use Oracle. This list allows you to identify Oracle customers"
     }
   ]
 }

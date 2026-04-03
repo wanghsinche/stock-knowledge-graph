@@ -5,17 +5,17 @@
   "industry": "Banks - Diversified",
   "upstream": [
     "MSFT",
-    "ORCL",
-    "IBM",
-    "CRM",
-    "AMZN"
+    "Payment network providers (Visa, Mastercard)",
+    "Data analytics and credit scoring firms",
+    "Cybersecurity and risk management solutions",
+    "Cloud infrastructure providers (AWS, Azure)"
   ],
   "downstream": [
-    "Retail banking customers",
-    "Small and medium enterprises",
-    "Large corporations",
-    "Institutional investors",
-    "Government entities"
+    "Retail banking customers (individual consumers)",
+    "Small and medium‑enterprise (SME) clients",
+    "Large corporate and institutional clients",
+    "Government and public sector entities",
+    "High‑net‑worth individuals and wealth‑management clients"
   ],
   "competitors": [
     "JPMorgan Chase",
@@ -25,15 +25,13 @@
     "Morgan Stanley"
   ],
   "key_products": [
-    "Consumer banking",
-    "Commercial banking",
-    "Investment banking",
-    "Wealth management",
-    "Credit cards",
-    "Mortgage loans",
-    "Asset management"
+    "Retail banking services (checking, savings, mortgages)",
+    "Corporate banking and treasury services",
+    "Investment banking and capital markets",
+    "Credit card and payment solutions",
+    "Wealth management and advisory"
   ],
-  "extracted_at": "2026-03-31 16:57:01",
+  "extracted_at": "2026-04-03 16:38:48",
   "sources": [
     {
       "source": "Wikipedia",
@@ -45,25 +43,25 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Bank_of_America",
       "query": "Bank of America Corporation suppliers manufacturers",
-      "snippet": "The Bank of America Corporation (Bank of America ; often abbreviated BAC or BofA) is an American multinational investment bank and financial services "
+      "snippet": "The Bank of America Corporation is an American multinational investment bank and financial services holding company headquartered at the Bank of Ameri"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://about.bankofamerica.com/en/our-company/supplier-management",
+      "url": "https://www.bankofamerica.com/",
       "query": "Bank of America Corporation suppliers manufacturers",
-      "snippet": "Bank of America is dedicated to partnering with suppliers who value ethics, inclusion, human rights, and the environment. Learn more about our supplie"
+      "snippet": "Banking , credit card, automobile loans, mortgage and home equity products are provided by Bank of America , N.A. and affiliated banks , Members FDIC "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://newsroom.bankofamerica.com/content/newsroom/company-overview/bank-of-america-fast-facts.html",
+      "url": "https://en.wikipedia.org/wiki/Bank_of_America",
       "query": "Bank of America Corporation major customers clients",
-      "snippet": "Feb 24, 2026 · Explore Bank of America Fast Facts for key insights on our global presence, financial services, client reach, and commitment to respons"
+      "snippet": "The Bank of America Corporation is an American multinational investment bank and financial services holding company headquartered at the Bank of Ameri"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/BAC-Customers",
+      "url": "https://www.bankofamerica.com/",
       "query": "Bank of America Corporation major customers clients",
-      "snippet": "For your research, we’ve provided 9 tables on Bank Of America Corporation corporate clients . You can find them in the navigation menu under Customers"
+      "snippet": "For customers with a Bank of America login with no credit score impact. Ready for an electric vehicle?Merrill Lynch Wealth Management Clients : 800-ME"
     }
   ]
 }

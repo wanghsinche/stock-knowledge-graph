@@ -3,8 +3,8 @@ ticker: GEV
 company: GE Vernova Inc.
 sector: Industrials
 industry: Specialty Industrial Machinery
-extracted_at: 2026-04-02 16:50:50
-last_updated: 2026-04-02
+extracted_at: 2026-04-03 16:34:41
+last_updated: 2026-04-03
 ---
 
 # GEV - GE Vernova Inc.
@@ -12,46 +12,46 @@ last_updated: 2026-04-02
 ## 基本信息
 
 - **所属行业**: Industrials / Specialty Industrial Machinery
-- **提取时间**: 2026-04-02 16:50:50
+- **提取时间**: 2026-04-03 16:34:41
 
 ## 产业链关系
 
 ### 上游供应商
+- [[LM Wind Power]]
 - [[GE Power]]
 - [[GE Renewable Energy]]
-- [[GE Digital]]
-- [[GE Aerospace]]
-- [[GE Transportation]]
+- [[GE Industrial Solutions]]
+- [[GE Manufacturing Partners]]
 
 ### 下游客户
-- [[Utilities]]
-- [[Grid operators]]
+- [[Utilities (e.g., Duke Energy, Southern Company)]]
+- [[Industrial clients (e.g., Siemens, ABB)]]
 - [[Renewable energy developers]]
-- [[Large industrial customers]]
-- [[Government agencies]]
+- [[Power grid operators]]
+- [[Energy storage providers]]
 
 ### 竞争对手
-- [[Siemens Energy]]
-- [[ABB]]
-- [[Schneider Electric]]
-- [[Mitsubishi Electric]]
-- [[General Electric (legacy)]]
+- [[Siemens Gamesa]]
+- [[Vestas]]
+- [[Nordex]]
+- [[Goldwind]]
+- [[GE Renewable Energy]]
 
 ### 核心产品
-- [[Gas turbines]]
-- [[Steam turbines]]
 - [[Wind turbines]]
+- [[Renewable energy solutions]]
+- [[Industrial machinery]]
 - [[Power generation equipment]]
-- [[Grid services]]
+- [[Energy storage systems]]
 
 ## 数据来源
 
 - 
 - [GE Vernova Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/GE_Vernova)
 - [GE Vernova Inc. suppliers manufacturers](https://www.gevernova.com/grid-solutions/suppliers)
-- [GE Vernova Inc. major customers clients](https://www.gevernova.com/sustainability/documents/Sustainability/2023-Sustainability-Report-Executive-Summary-Business-Segments.pdf)
-- [GE Vernova Inc. major customers clients](https://matrixbcg.com/blogs/target-market/gevernova)
+- [GE Vernova Inc. major customers clients](https://www.gevernova.com/sites/default/files/gevernova_2024_annual_report.pdf)
+- [GE Vernova Inc. major customers clients](https://pestel-analysis.com/blogs/target-market/gevernova)
 
 ## 元数据
 
-- **更新日期**: 2026-04-02
+- **更新日期**: 2026-04-03

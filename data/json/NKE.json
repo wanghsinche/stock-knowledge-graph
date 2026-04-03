@@ -1,13 +1,37 @@
 {
   "ticker": "NKE",
-  "company_name": "NIKE, Inc.",
+  "company_name": "Nike, Inc.",
   "sector": "Consumer Cyclical",
   "industry": "Footwear & Accessories",
-  "upstream": [],
-  "downstream": [],
-  "competitors": [],
-  "key_products": [],
-  "extracted_at": "2026-04-02 16:48:10",
+  "upstream": [
+    "Raw material suppliers (leather, rubber, synthetic fibers)",
+    "Contract manufacturing partners",
+    "Component suppliers (zippers, laces, eyelets)",
+    "Packaging material suppliers",
+    "Logistics and freight forwarders"
+  ],
+  "downstream": [
+    "Retailers (Foot Locker, JD Sports, Nike.com)",
+    "Professional sports teams and leagues",
+    "Athletes and individual consumers",
+    "Corporate and institutional buyers",
+    "Sports apparel and equipment distributors"
+  ],
+  "competitors": [
+    "Adidas",
+    "Puma",
+    "Under Armour",
+    "New Balance",
+    "ASICS"
+  ],
+  "key_products": [
+    "Running shoes",
+    "Basketball shoes",
+    "Soccer cleats",
+    "Athletic apparel",
+    "Sports equipment and accessories"
+  ],
+  "extracted_at": "2026-04-03 16:32:11",
   "sources": [
     {
       "source": "Wikipedia",
@@ -17,15 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://manufacturingmap.nikeinc.com/",
+      "url": "https://en.wikipedia.org/wiki/Nike,_Inc.",
       "query": "NIKE, Inc. suppliers manufacturers",
-      "snippet": "This site is a tool to learn about the independent factories and material suppliers used to manufacture NIKE products - including the name and locatio"
+      "snippet": "Nike , Inc . is an American athletic footwear and apparel corporation headquartered near Beaverton, Oregon. It is the world's largest supplier of athl"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://about.nike.com/en/mission/initiatives/broadening-our-suppliers-at-nike",
+      "url": "https://manufacturingmap.nikeinc.com/",
       "query": "NIKE, Inc. suppliers manufacturers",
-      "snippet": "To date, NIKE, Inc . works with 120+ diverse suppliers throughout the U.S. and EMEA and has spent $1.4 billion with diverse suppliers ."
+      "snippet": "Nike Manufacturing Map: Transparency is fundamental to NIKE , Inc . business and our approach to sustainability. This site is a tool to learn about th"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://businessmodelanalyst.com/nike-target-market/",
+      "query": "NIKE, Inc. major customers clients",
+      "snippet": "Oct 4, 2024 · For such an influential brand, understanding the Nike target market drives sales and reinforces its position as a leader in the athletic"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://bstrategyhub.com/nike-target-market/",
+      "query": "NIKE, Inc. major customers clients",
+      "snippet": "Jul 3, 2025 · Who is Nike ’s target market? Learn about Nike ’s demographic, psychographic, geographic, behavioral, and technographic segmentation. Ho"
     }
   ]
 }
