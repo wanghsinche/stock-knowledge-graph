@@ -4,34 +4,34 @@
   "sector": "Technology",
   "industry": "Semiconductors",
   "upstream": [
-    "ASML",
-    "AMAT",
-    "LRCX",
-    "Tokyo Electron (semiconductor equipment)",
-    "Siltronic (silicon wafers)"
+    "TSM",
+    "005930.KS",
+    "MU",
+    "SK Hynix",
+    "GlobalFoundries"
   ],
   "downstream": [
     "DELL",
     "HPQ",
-    "Lenovo Group",
-    "IBM",
-    "AMZN"
+    "Lenovo",
+    "AAPL",
+    "MSFT"
   ],
   "competitors": [
     "AMD",
-    "TSM",
-    "005930.KS",
     "NVDA",
-    "QCOM"
+    "QCOM",
+    "AVGO",
+    "005930.KS"
   ],
   "key_products": [
     "Intel Core CPUs",
-    "Intel Xeon CPUs",
-    "Intel Atom processors",
-    "Intel FPGAs (Altera)",
-    "Intel Optane memory"
+    "Xeon Processors",
+    "FPGAs",
+    "AI Accelerators",
+    "Chipsets"
   ],
-  "extracted_at": "2026-04-03 16:31:09",
+  "extracted_at": "2026-04-06 16:38:06",
   "sources": [
     {
       "source": "Wikipedia",
@@ -61,7 +61,7 @@
       "source": "DuckDuckGo",
       "url": "https://www.investopedia.com/articles/markets/100214/inside-intel-look-mega-chipmaker.asp",
       "query": "Intel Corporation major customers clients",
-      "snippet": "Mar 3, 2026 · Intel has lost market share to TSMC, AMD, and Samsung. The completion of Intel's new Ohio plant has been delayed to 2030. Intel's main c"
+      "snippet": "Mar 3, 2026 · In 2023, Intel had three major customers that were responsible for 40% of the company’s net revenue: Dell, Lenovo Group Limited, and HP "
     }
   ]
 }

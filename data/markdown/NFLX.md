@@ -3,8 +3,8 @@ ticker: NFLX
 company: Netflix, Inc.
 sector: Communication Services
 industry: Entertainment
-extracted_at: 2026-04-03 16:32:01
-last_updated: 2026-04-03
+extracted_at: 2026-04-06 16:38:36
+last_updated: 2026-04-06
 ---
 
 # NFLX - Netflix, Inc.
@@ -12,23 +12,23 @@ last_updated: 2026-04-03
 ## 基本信息
 
 - **所属行业**: Communication Services / Entertainment
-- **提取时间**: 2026-04-03 16:32:01
+- **提取时间**: 2026-04-06 16:38:36
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Visual Data]]
-- [[SONY]]
-- [[Warner Bros.]]
-- [[Disney]]
-- [[Universal Studios]]
+- [[NFLX]]
+- [[Hiventy Group]]
+- [[Distribution Networks (e.g., cable and satellite providers)]]
+- [[Content Licensing Partners]]
+- [[Cloud Service Providers]]
 
 ### 下游客户
-- [[US subscribers]]
-- [[European subscribers]]
-- [[Asian subscribers]]
-- [[Latin American subscribers]]
-- [[Middle Eastern subscribers]]
+- [[Global individual subscribers]]
+- [[Corporate and institutional customers (e.g., airlines, hotels)]]
+- [[Advertising partners (for ad‑supported tiers)]]
+- [[Device manufacturers (e.g., smart TV OEMs)]]
+- [[Streaming platform integrators]]
 
 ### 竞争对手
 - [[Disney+]]
@@ -38,11 +38,11 @@ last_updated: 2026-04-03
 - [[AAPL]]
 
 ### 核心产品
-- [[Streaming video service]]
-- [[Original series]]
-- [[Original films]]
-- [[Licensed movies]]
-- [[Original documentaries]]
+- [[Original series and films]]
+- [[Licensed movies and TV shows]]
+- [[Documentaries and specials]]
+- [[Anime and international content]]
+- [[Interactive content (e.g., Black Mirror: Bandersnatch)]]
 
 ## 数据来源
 
@@ -50,8 +50,8 @@ last_updated: 2026-04-03
 - [Netflix, Inc. suppliers manufacturers](https://npfp.netflixstudios.com/region/global/)
 - [Netflix, Inc. suppliers manufacturers](https://seriosity.com/what-companies-does-netflix-work-with/)
 - [Netflix, Inc. major customers clients](https://ir.netflix.net/ir-overview/profile/default.aspx)
-- [Netflix, Inc. major customers clients](https://bstrategyhub.com/netflix-target-market/)
+- [Netflix, Inc. major customers clients](https://businessmodelanalyst.com/netflix-target-market/)
 
 ## 元数据
 
-- **更新日期**: 2026-04-03
+- **更新日期**: 2026-04-06

@@ -3,8 +3,8 @@ ticker: CVX
 company: Chevron Corporation
 sector: Energy
 industry: Oil & Gas Integrated
-extracted_at: 2026-04-03 16:32:57
-last_updated: 2026-04-03
+extracted_at: 2026-04-06 16:43:09
+last_updated: 2026-04-06
 ---
 
 # CVX - Chevron Corporation
@@ -12,37 +12,37 @@ last_updated: 2026-04-03
 ## 基本信息
 
 - **所属行业**: Energy / Oil & Gas Integrated
-- **提取时间**: 2026-04-03 16:32:57
+- **提取时间**: 2026-04-06 16:43:09
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Halliburton]]
 - [[Schlumberger]]
+- [[Halliburton]]
 - [[Baker Hughes]]
-- [[Weatherford]]
 - [[National Oilwell Varco]]
+- [[Weatherford]]
 
 ### 下游客户
-- [[Shell]]
-- [[BP]]
-- [[ExxonMobil]]
-- [[TotalEnergies]]
-- [[PetroChina]]
+- [[Retail gasoline stations]]
+- [[Automotive fleet operators]]
+- [[Industrial manufacturers]]
+- [[Airlines]]
+- [[Shipping companies]]
 
 ### 竞争对手
 - [[ExxonMobil]]
 - [[Royal Dutch Shell]]
 - [[BP]]
-- [[ConocoPhillips]]
 - [[TotalEnergies]]
+- [[ConocoPhillips]]
 
 ### 核心产品
 - [[Crude oil]]
 - [[Natural gas]]
-- [[Refined petroleum products]]
+- [[Refined petroleum products (gasoline, diesel, jet fuel)]]
 - [[Petrochemicals]]
-- [[Liquefied natural gas (LNG)]]
+- [[Lubricants]]
 
 ## 数据来源
 
@@ -54,4 +54,4 @@ last_updated: 2026-04-03
 
 ## 元数据
 
-- **更新日期**: 2026-04-03
+- **更新日期**: 2026-04-06

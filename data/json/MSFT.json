@@ -7,32 +7,31 @@
     "INTC",
     "AMD",
     "NVDA",
-    "DELL",
-    "HPQ"
+    "QCOM",
+    "005930.KS"
   ],
   "downstream": [
-    "Enterprise customers (e.g., banks, government agencies)",
+    "Enterprises (e.g., Walmart, AT&T)",
+    "Governments (e.g., U.S. Department of Defense)",
+    "Consumers (individual PC users)",
     "DELL",
-    "Retail consumers",
-    "Cloud service users",
-    "Gaming community"
+    "Gaming (Xbox, Game Pass)"
   ],
   "competitors": [
     "AAPL",
     "GOOGL",
     "AMZN",
-    "IBM",
-    "ORCL"
+    "ORCL",
+    "CRM"
   ],
   "key_products": [
-    "Windows operating system",
-    "Microsoft Office suite",
-    "Azure cloud platform",
-    "Microsoft Teams",
-    "Surface devices",
-    "Xbox gaming console"
+    "Windows OS",
+    "Microsoft Office",
+    "Azure Cloud",
+    "Xbox",
+    "Surface"
   ],
-  "extracted_at": "2026-04-03 16:30:00",
+  "extracted_at": "2026-04-06 16:37:28",
   "sources": [
     {
       "source": "Wikipedia",
@@ -44,13 +43,13 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Microsoft",
       "query": "Microsoft Corporation suppliers manufacturers",
-      "snippet": "Microsoft Corporation , or simply Microsoft , is an American multinational technology conglomerate headquartered in Redmond, Washington. Founded in 19"
+      "snippet": "Microsoft Corporation is an American multinational technology conglomerate headquartered in Redmond, Washington. Founded in 1975, the company became i"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.globalsources.com/",
+      "url": "https://www.alibaba.com/",
       "query": "Microsoft Corporation suppliers manufacturers",
-      "snippet": "The leading international multichannel B2B online marketplace & sourcing platform connecting authentic buyers and verified wholesale suppliers & manuf"
+      "snippet": "Find quality Manufacturers , Suppliers , Exporters, Importers, Buyers, Wholesalers, Products and Trade Leads from our award-winning International Trad"
     },
     {
       "source": "DuckDuckGo",

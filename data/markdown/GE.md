@@ -1,57 +1,57 @@
 ---
 ticker: GE
-company: General Electric Company (GE Aerospace)
+company: General Electric Company
 sector: Industrials
 industry: Aerospace & Defense
-extracted_at: 2026-04-03 16:36:42
-last_updated: 2026-04-03
+extracted_at: 2026-04-06 16:45:02
+last_updated: 2026-04-06
 ---
 
-# GE - General Electric Company (GE Aerospace)
+# GE - General Electric Company
 
 ## 基本信息
 
 - **所属行业**: Industrials / Aerospace & Defense
-- **提取时间**: 2026-04-03 16:36:42
+- **提取时间**: 2026-04-06 16:45:02
 
 ## 产业链关系
 
 ### 上游供应商
+- [[Alcoa]]
+- [[Linde]]
 - [[Honeywell Aerospace]]
-- [[Rockwell Collins]]
-- [[Boeing]]
-- [[Airbus]]
-- [[Lockheed Martin]]
+- [[BASF]]
+- [[SGL Carbon]]
 
 ### 下游客户
 - [[Boeing]]
 - [[Airbus]]
 - [[Lockheed Martin]]
-- [[Northrop Grumman]]
-- [[United Technologies (now Raytheon Technologies)]]
+- [[Embraer]]
+- [[Bombardier]]
 
 ### 竞争对手
 - [[Pratt & Whitney]]
-- [[Rolls‑Royce]]
+- [[Rolls-Royce]]
+- [[Honeywell Aerospace]]
 - [[MTU Aero Engines]]
 - [[Safran]]
-- [[Honeywell Aerospace]]
 
 ### 核心产品
-- [[GE90 jet engine]]
-- [[CFM56]]
-- [[CFM LEAP]]
-- [[Turbofan engines]]
-- [[Propulsion systems]]
+- [[GE90]]
+- [[CF6]]
+- [[GE T700]]
+- [[GE T800]]
+- [[GE T100]]
 
 ## 数据来源
 
 - [GE Aerospace](https://en.wikipedia.org/wiki/GE_Aerospace)
 - [GE Aerospace suppliers manufacturers](https://en.wikipedia.org/wiki/General_Electric)
-- [GE Aerospace suppliers manufacturers](https://raksha-anirveda.com/ge-aerospace-primes-a-supplier-ecosystem-in-india/)
+- [GE Aerospace suppliers manufacturers](https://www.linkedin.com/posts/geaerospace_geaerospace-usmanufacturing-greenville-activity-7444831415348641792-Ktam)
 - [GE Aerospace major customers clients](https://en.wikipedia.org/wiki/GE_Aerospace)
 - [GE Aerospace major customers clients](https://www.geaerospace.com/news/articles/midyear-musings-insights-our-customers)
 
 ## 元数据
 
-- **更新日期**: 2026-04-03
+- **更新日期**: 2026-04-06

@@ -1,37 +1,37 @@
 {
   "ticker": "HOOD",
   "company_name": "Robinhood Markets, Inc.",
-  "sector": "Financial Services",
-  "industry": "Brokerage and Trading Services",
+  "sector": "Financial Services / Capital Markets",
+  "industry": "Online Brokerage / Investment Platform",
   "upstream": [
-    "Cloud service providers (AWS, Azure)",
-    "Market data feed providers (Bloomberg, Refinitiv)",
-    "Payment processors (Stripe, PayPal)",
-    "Regulatory compliance vendors",
-    "Technology infrastructure vendors"
+    "AMZN",
+    "Plaid",
+    "Stripe",
+    "Bloomberg",
+    "Refinitiv"
   ],
   "downstream": [
     "Retail investors",
-    "High‑net‑worth individuals",
     "Institutional clients",
-    "Day traders",
-    "Crypto traders"
+    "High-frequency traders",
+    "Crypto traders",
+    "Financial advisors"
   ],
   "competitors": [
     "Charles Schwab",
     "Fidelity",
+    "TD Ameritrade",
     "E*TRADE",
-    "Interactive Brokers",
     "Webull"
   ],
   "key_products": [
-    "Commission‑free stock trading",
+    "Commission-free stock trading",
     "Options trading",
     "Cryptocurrency trading",
-    "Margin trading (Robinhood Gold)",
-    "Cash management and interest‑earning accounts"
+    "Robinhood Gold",
+    "Cash Management"
   ],
-  "extracted_at": "2026-04-03 16:35:47",
+  "extracted_at": "2026-04-06 16:40:41",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,21 +47,21 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/HOOD-Suppliers",
+      "url": "https://pitchgrade.com/companies/robinhood-markets",
       "query": "Robinhood Markets, Inc. suppliers manufacturers",
-      "snippet": "Feb 28, 2026 · For your research, we’ve provided nine additional tables on Robinhood Markets Inc ’s suppliers . You can find them in the navigation me"
+      "snippet": "How Robinhood Markets , Inc . generates revenue across its key business segments and the unit economics behind each. A data-backed SWOT analysis cover"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Robinhood_Markets",
+      "url": "https://investingintheweb.com/brokers/robinhood-statistics/",
       "query": "Robinhood Markets, Inc. major customers clients",
-      "snippet": "Robinhood Markets , Inc . is an American financial services company based in Menlo Park, California. It provides an electronic trading platform that f"
+      "snippet": "Jan 2, 2026 · Robinhood revenues Robinhood generates revenues through transaction-based revenues, net interest revenues, and other revenues. Transacti"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.investing.com/equities/robinhood-markets",
+      "url": "https://investors.robinhood.com/",
       "query": "Robinhood Markets, Inc. major customers clients",
-      "snippet": "Robinhood Markets , Inc . (NASDAQ: HOOD ) Chief Technology Officer Jeffrey Tsvi Pinner, sold 5,835 shares of Class A Common Stock on... customers the "
+      "snippet": "Jan 31, 2026 · Robinhood Markets , Inc . Investor relations (IR) website contains information about our business for stockholders, potential investors"
     }
   ]
 }

@@ -3,8 +3,8 @@ ticker: MA
 company: Mastercard Incorporated
 sector: Financial Services
 industry: Credit Services
-extracted_at: 2026-04-03 16:37:52
-last_updated: 2026-04-03
+extracted_at: 2026-04-06 16:45:40
+last_updated: 2026-04-06
 ---
 
 # MA - Mastercard Incorporated
@@ -12,46 +12,46 @@ last_updated: 2026-04-03
 ## 基本信息
 
 - **所属行业**: Financial Services / Credit Services
-- **提取时间**: 2026-04-03 16:37:52
+- **提取时间**: 2026-04-06 16:45:40
 
 ## 产业链关系
 
 ### 上游供应商
 - [[NXP Semiconductors]]
 - [[STMicroelectronics]]
-- [[Cypress Semiconductor]]
-- [[Jabil]]
-- [[Flextronics]]
+- [[Giesecke+Devrient]]
+- [[IDEMIA]]
+- [[005930.KS]]
 
 ### 下游客户
-- [[Banks and credit unions]]
-- [[Retail merchants]]
-- [[E-commerce platforms]]
-- [[Mobile wallet providers]]
-- [[Payment processors]]
+- [[Bank of America]]
+- [[Citibank]]
+- [[Wells Fargo]]
+- [[Chase]]
+- [[Consumers]]
 
 ### 竞争对手
-- [[Visa Inc.]]
+- [[Visa]]
 - [[American Express]]
-- [[Discover Financial]]
+- [[Discover]]
 - [[JCB]]
 - [[UnionPay]]
 
 ### 核心产品
 - [[Payment processing network]]
-- [[Transaction processing services]]
-- [[Fraud detection & prevention]]
-- [[Tokenization & encryption]]
-- [[Mobile & contactless payments]]
+- [[Card issuance services]]
+- [[Mobile payments]]
+- [[Contactless payments]]
+- [[Tokenization]]
 
 ## 数据来源
 
 - [Mastercard](https://en.wikipedia.org/wiki/Mastercard_Incorporated)
 - [Mastercard Incorporated suppliers manufacturers](https://en.wikipedia.org/wiki/Mastercard)
-- [Mastercard Incorporated suppliers manufacturers](https://www.mastercard.com/procurement/us/en/home.html)
+- [Mastercard Incorporated suppliers manufacturers](https://ru.wikipedia.org/wiki/Mastercard)
 - [Mastercard Incorporated major customers clients](https://en.wikipedia.org/wiki/Mastercard)
-- [Mastercard Incorporated major customers clients](https://csimarket.com/stocks/MA-Customers)
+- [Mastercard Incorporated major customers clients](https://investor.mastercard.com/investor-news/investor-news-details/2026/Mastercard-to-Acquire-BVNK-to-Connect-On-Chain-Payments-and-Fiat-Rails/default.aspx?ref=connectingthedotsinfin.tech&trk=article-ssr-frontend-pulse_little-text-block)
 
 ## 元数据
 
-- **更新日期**: 2026-04-03
+- **更新日期**: 2026-04-06

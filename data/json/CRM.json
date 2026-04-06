@@ -8,21 +8,21 @@
     "MSFT",
     "GOOGL",
     "ORCL",
-    "DELL"
+    "IBM"
   ],
   "downstream": [
     "AMZN",
+    "Coca-Cola",
+    "GE",
     "Walmart",
-    "IBM",
-    "NASA",
-    "Coca‑Cola"
+    "MSFT"
   ],
   "competitors": [
     "MSFT",
+    "SAP",
     "ORCL",
-    "SAP SuccessFactors",
     "HubSpot",
-    "Zoho CRM"
+    "Zoho"
   ],
   "key_products": [
     "Sales Cloud",
@@ -31,7 +31,7 @@
     "Commerce Cloud",
     "Einstein AI"
   ],
-  "extracted_at": "2026-04-03 16:33:16",
+  "extracted_at": "2026-04-06 16:42:28",
   "sources": [
     {
       "source": "Wikipedia",
@@ -53,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.salesforce.com/customer-stories/",
+      "url": "https://en.wikipedia.org/wiki/Salesforce",
       "query": "Salesforce, Inc. major customers clients",
-      "snippet": "Discover how Salesforce helps 150,000+ companies increase productivity, customer loyalty, and sales revenue — every day."
+      "snippet": "Salesforce , Inc ., is an American cloud-based software company headquartered in San Francisco, California. It provides applications focused on sales "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ascendix.com/blog/how-many-companies-use-salesforce/",
+      "url": "https://www.salesforce.com/",
       "query": "Salesforce, Inc. major customers clients",
-      "snippet": "Largest Salesforce customers include top companies like AWS, Walmart, IBM, NASA, Unilever, Mercedes Benz, and US Bank . They choose Salesforce CRM for"
+      "snippet": "Salesforce Enterprise-grade CRM with deep reporting, sales operations, and..."
     }
   ]
 }

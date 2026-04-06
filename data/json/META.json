@@ -5,33 +5,33 @@
   "industry": "Internet Content & Information",
   "upstream": [
     "NVDA",
-    "AMD",
     "INTC",
-    "DELL",
-    "CSCO"
+    "AMD",
+    "QCOM",
+    "AMZN"
   ],
   "downstream": [
-    "Advertisers (global brands)",
-    "App developers",
+    "Advertisers",
+    "Businesses",
+    "Developers",
     "Content creators",
-    "Enterprise customers",
-    "Gaming partners"
+    "Consumers"
   ],
   "competitors": [
     "GOOGL",
     "AMZN",
     "AAPL",
     "MSFT",
-    "ByteDance Ltd."
+    "TikTok"
   ],
   "key_products": [
     "Facebook",
     "Instagram",
     "WhatsApp",
     "Messenger",
-    "Meta Ads"
+    "Meta Ads Manager"
   ],
-  "extracted_at": "2026-04-03 16:30:29",
+  "extracted_at": "2026-04-06 16:38:25",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,15 +41,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Meta_Platforms",
+      "url": "https://www.meta.com/about/",
       "query": "Meta Platforms, Inc. suppliers manufacturers",
-      "snippet": "Meta owns and operates several prominent social media platforms and communication services, including Facebook, Instagram, WhatsApp, Messenger, Thread"
+      "snippet": "Meta - Social Media Advertising Platform (Facebook & Instagram)."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://forwork.meta.com/legal/mfw-subprocessor-list/",
+      "url": "https://www.computerhope.com/comp/meta.htm",
       "query": "Meta Platforms, Inc. suppliers manufacturers",
-      "snippet": "Nov 13, 2023 · Starting February 20, 2026, Meta Horizon managed services will no longer be available for purchase. Visit the Help Center to learn more"
+      "snippet": "Before it was rebranded as Meta in October 2021, Meta was known as Facebook Inc . According to Zuckerberg, the name Meta emphasizes their focus on VR "
     },
     {
       "source": "DuckDuckGo",
@@ -61,7 +61,7 @@
       "source": "DuckDuckGo",
       "url": "https://csimarket.com/stocks/META-Customers",
       "query": "Meta Platforms, Inc. major customers clients",
-      "snippet": "For your research, we’ve provided 9 tables on Meta Platforms Inc corporate clients . You can find them in the navigation menu under Customers & Market"
+      "snippet": "Meta Platforms Inc 's Comment on Sales, Marketing and Customers The majority of our marketers use our self-service ad platform to establish accounts a"
     }
   ]
 }

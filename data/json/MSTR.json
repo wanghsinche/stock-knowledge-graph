@@ -1,37 +1,37 @@
 {
   "ticker": "MSTR",
-  "company_name": "Strategy Inc",
+  "company_name": "MicroStrategy Incorporated",
   "sector": "Technology",
   "industry": "Software - Application",
   "upstream": [
-    "MSFT",
+    "Iowa-Des Moines Supply",
+    "Robust Solutions",
     "AMZN",
-    "ORCL",
-    "IBM",
-    "DELL"
+    "MSFT",
+    "GOOGL"
   ],
   "downstream": [
-    "Financial Services firms",
-    "Retail companies",
-    "Manufacturing firms",
-    "Government agencies",
-    "Healthcare organizations"
+    "Retail sector",
+    "Financial Services sector",
+    "Healthcare sector",
+    "CAT",
+    "Manufacturing sector"
   ],
   "competitors": [
-    "Tableau Software",
-    "MSFT",
+    "Tableau",
+    "Power BI",
     "Qlik",
     "Looker",
-    "SAP Analytics Cloud"
+    "SAP BusinessObjects"
   ],
   "key_products": [
-    "Strategy Analytics Platform",
-    "Strategy Mobile App",
-    "Strategy Cloud Services",
-    "Strategy Data Integration",
-    "Strategy Reporting Tools"
+    "MicroStrategy Analytics Platform",
+    "MicroStrategy Cloud",
+    "MicroStrategy Mobile",
+    "MicroStrategy Data Warehouse",
+    "MicroStrategy Data Science"
   ],
-  "extracted_at": "2026-04-03 16:33:27",
+  "extracted_at": "2026-04-06 16:40:28",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/MSTR/",
+      "url": "https://iowadesmoinessupply.com/",
       "query": "Strategy Inc suppliers manufacturers",
-      "snippet": "Find the latest Strategy Inc (MSTR) stock quote, history, news and other vital information to help you with your stock trading and investing."
+      "snippet": "Iowa's Leading Product Distributor For Over 85 Years Iowa- Des Moines Supply is ready to service your business every day, with over 5,000 products fro"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.marketwatch.com/investing/stock/mstr",
+      "url": "https://www.industryselect.com/blog/top-10-manufacturing-companies-in-iowa",
       "query": "Strategy Inc suppliers manufacturers",
-      "snippet": "Strategy , Inc . engages in the provision of enterprise analytics and mobility software. The firm designs, develops, markets, and sells software platf"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/STRF-Customers",
-      "query": "Strategy Inc major customers clients",
-      "snippet": "Jan 30, 2026 · Strategy Inc customers and markets, results by customer and performance relative to STRF, by company and industry - CSIMarket"
+      "snippet": "With its low cost of doing business (not to mention its low cost of living) robust economy and abundant agricultural resources, Iowa is home to a numb"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.strategy.com/software/news/strategy-recognized-as-a-customers-choice-on-gartner-peer-insights-through-user-feedback-for-fourth-consecutive-year",
       "query": "Strategy Inc major customers clients",
       "snippet": "Dec 11, 2025 · Discover why Strategy Inc . is the only Analytics & Business Intelligence Platforms vendor to be named a Customers ' Choice in the 2025"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/STRF-Customers",
+      "query": "Strategy Inc major customers clients",
+      "snippet": "Jan 30, 2026 · Strategy Inc customers and markets, results by customer and performance relative to STRF, by company and industry - CSIMarket"
     }
   ]
 }

@@ -3,8 +3,8 @@ ticker: BAC
 company: Bank of America Corporation
 sector: Financial Services
 industry: Banks - Diversified
-extracted_at: 2026-04-03 16:38:48
-last_updated: 2026-04-03
+extracted_at: 2026-04-06 16:45:14
+last_updated: 2026-04-06
 ---
 
 # BAC - Bank of America Corporation
@@ -12,23 +12,23 @@ last_updated: 2026-04-03
 ## 基本信息
 
 - **所属行业**: Financial Services / Banks - Diversified
-- **提取时间**: 2026-04-03 16:38:48
+- **提取时间**: 2026-04-06 16:45:14
 
 ## 产业链关系
 
 ### 上游供应商
+- [[ORCL]]
+- [[SAP]]
+- [[IBM]]
 - [[MSFT]]
-- [[Payment network providers (Visa, Mastercard)]]
-- [[Data analytics and credit scoring firms]]
-- [[Cybersecurity and risk management solutions]]
-- [[Cloud infrastructure providers (AWS, Azure)]]
+- [[CRM]]
 
 ### 下游客户
-- [[Retail banking customers (individual consumers)]]
-- [[Small and medium‑enterprise (SME) clients]]
-- [[Large corporate and institutional clients]]
-- [[Government and public sector entities]]
-- [[High‑net‑worth individuals and wealth‑management clients]]
+- [[Retail consumers]]
+- [[Small and medium enterprises]]
+- [[Large corporations]]
+- [[Government agencies]]
+- [[Institutional investors]]
 
 ### 竞争对手
 - [[JPMorgan Chase]]
@@ -38,11 +38,11 @@ last_updated: 2026-04-03
 - [[Morgan Stanley]]
 
 ### 核心产品
-- [[Retail banking services (checking, savings, mortgages)]]
-- [[Corporate banking and treasury services]]
-- [[Investment banking and capital markets]]
-- [[Credit card and payment solutions]]
-- [[Wealth management and advisory]]
+- [[Retail banking]]
+- [[Commercial banking]]
+- [[Investment banking]]
+- [[Wealth management]]
+- [[Credit cards]]
 
 ## 数据来源
 
@@ -54,4 +54,4 @@ last_updated: 2026-04-03
 
 ## 元数据
 
-- **更新日期**: 2026-04-03
+- **更新日期**: 2026-04-06

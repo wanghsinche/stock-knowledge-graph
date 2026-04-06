@@ -5,15 +5,15 @@
   "industry": "Internet Content & Information",
   "upstream": [
     "INTC",
-    "NVDA",
+    "AMD",
     "QCOM",
-    "005930.KS",
-    "TSM"
+    "NVDA",
+    "CSCO"
   ],
   "downstream": [
     "GOOGL",
-    "YouTube subscribers",
-    "Android device users",
+    "Android device manufacturers",
+    "YouTube content creators",
     "GOOGL",
     "GOOGL"
   ],
@@ -26,14 +26,12 @@
   ],
   "key_products": [
     "Google Search",
+    "Android OS",
     "YouTube",
-    "Android",
     "Google Cloud Platform",
-    "Google Ads",
-    "Google Workspace",
-    "Google Maps"
+    "Google Ads"
   ],
-  "extracted_at": "2026-04-03 16:31:50",
+  "extracted_at": "2026-04-06 16:39:29",
   "sources": [
     {
       "source": "Wikipedia",
@@ -45,25 +43,25 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Alphabet_Inc.",
       "query": "Alphabet Inc. suppliers manufacturers",
-      "snippet": "In addition to funding startups, Alphabet also invests in more mature companies , including publicly traded companies like Uber and privately held com"
+      "snippet": "Alphabet Inc . is an American multinational technology conglomerate holding company headquartered in Mountain View, California. It was created through"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://csimarket.com/stocks/GOOG-Suppliers",
       "query": "Alphabet Inc. suppliers manufacturers",
-      "snippet": "Feb 6, 2026 · Alphabet Inc supply chain, list and performance of Alphabet Incs ' suppliers - CSIMarket"
+      "snippet": "Alphabet Inc supply chain, list and performance of Alphabet Incs ' suppliers - CSIMarket."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/Alphabet_Inc.",
+      "query": "Alphabet Inc. major customers clients",
+      "snippet": "The establishment of Alphabet Inc . was prompted by a desire to make the core Google business \"cleaner and more accountable\" while allowing greater au"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://csimarket.com/stocks/GOOGL-Customers",
       "query": "Alphabet Inc. major customers clients",
-      "snippet": "Feb 9, 2026 · For your research, we’ve provided 9 tables on Alphabet Inc corporate clients . You can find them in the navigation menu under Customers "
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://strategy.transforml.co/google-strategy-cascade-analysis",
-      "query": "Alphabet Inc. major customers clients",
-      "snippet": "Jan 26, 2026 · Alphabet 's brands, including Google and YouTube, are among the most recognized and trusted in the world, driving user engagement and a"
+      "snippet": "Feb 9, 2026 · Alphabet Inc customers and markets, results by customer and performance relative to GOOGL, by company and industry - CSIMarket"
     }
   ]
 }

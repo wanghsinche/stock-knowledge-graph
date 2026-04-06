@@ -4,34 +4,20 @@
   "sector": "Communication Services",
   "industry": "Internet Content & Information",
   "upstream": [
-    "INTC",
-    "NVDA",
-    "AMD",
-    "DELL",
-    "HPQ"
+    "Nebius Group N.V."
   ],
   "downstream": [
-    "Federal Government IT systems",
-    "Large enterprises in finance",
-    "Healthcare organizations",
-    "CAT",
-    "Research institutions"
+    "Nebius Group N.V. customers"
   ],
-  "competitors": [
-    "NVDA",
-    "INTC",
-    "AMD",
-    "GOOGL",
-    "AMZN"
-  ],
+  "competitors": [],
   "key_products": [
-    "AI infrastructure platform",
+    "Artificial Intelligence infrastructure",
     "Avride",
     "TripleTen",
     "Toloka",
     "Clickhouse"
   ],
-  "extracted_at": "2026-04-03 16:36:54",
+  "extracted_at": "2026-04-06 16:41:36",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +27,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/List_of_companies_in_the_Chicago_metropolitan_area",
+      "url": "https://en.wikipedia.org/wiki/Nebius_Group",
       "query": "NBIS suppliers manufacturers",
-      "snippet": "This is a list of companies in the Chicago metropolitan area. The Chicago metropolitan area – also known as \"Chicagoland\" – is the metropolitan area a"
+      "snippet": "Nebius Group N.V., headquartered in Amsterdam, is a technology company that provides artificial intelligence infrastructure."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/suppliers_glance.php?code=NBIS",
+      "query": "NBIS suppliers manufacturers",
+      "snippet": "NBIS 's Suppliers Management Effectiveness. NBIS 's Competitors Results.Nebius Group N V's Comment on Supply Chain. NBIS 's Stock Perfrormance relativ"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.dcsa.mil/Systems-Applications/National-Background-Investigation-Services-NBIS/",
-      "query": "NBIS suppliers manufacturers",
-      "snippet": "NBIS is the Federal government’s IT system for end-to-end process for personnel vetting. This starts with the initiation and application for a backgro"
+      "query": "NBIS major customers clients",
+      "snippet": "The purpose of NBIS is to modernize, streamline and secure the entire process to enhance the user experience and provide a reliable and integrated set"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://stockanalysis.com/stocks/nbis/",
+      "url": "https://csimarket.com/stocks/NBIS-Customers",
       "query": "NBIS major customers clients",
-      "snippet": "A detailed overview of Nebius Group N.V. ( NBIS ) stock, including real-time price, chart, key statistics, news, and more."
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://seekingalpha.com/article/4886624-nebius-the-45-billion-backlog-nobody-is-pricing-in",
-      "query": "NBIS major customers clients",
-      "snippet": "NBIS targets adjusted EBITDA margins in the 40% range by FY2026, with management’s historically accurate projections underpinning confidence in the gr"
+      "snippet": "4 days ago · Nebius Group N V customers and markets, results by customer and performance relative to NBIS , by company and industry - CSIMarket"
     }
   ]
 }

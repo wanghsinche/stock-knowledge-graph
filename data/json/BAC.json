@@ -4,18 +4,18 @@
   "sector": "Financial Services",
   "industry": "Banks - Diversified",
   "upstream": [
+    "ORCL",
+    "SAP",
+    "IBM",
     "MSFT",
-    "Payment network providers (Visa, Mastercard)",
-    "Data analytics and credit scoring firms",
-    "Cybersecurity and risk management solutions",
-    "Cloud infrastructure providers (AWS, Azure)"
+    "CRM"
   ],
   "downstream": [
-    "Retail banking customers (individual consumers)",
-    "Small and medium‑enterprise (SME) clients",
-    "Large corporate and institutional clients",
-    "Government and public sector entities",
-    "High‑net‑worth individuals and wealth‑management clients"
+    "Retail consumers",
+    "Small and medium enterprises",
+    "Large corporations",
+    "Government agencies",
+    "Institutional investors"
   ],
   "competitors": [
     "JPMorgan Chase",
@@ -25,13 +25,13 @@
     "Morgan Stanley"
   ],
   "key_products": [
-    "Retail banking services (checking, savings, mortgages)",
-    "Corporate banking and treasury services",
-    "Investment banking and capital markets",
-    "Credit card and payment solutions",
-    "Wealth management and advisory"
+    "Retail banking",
+    "Commercial banking",
+    "Investment banking",
+    "Wealth management",
+    "Credit cards"
   ],
-  "extracted_at": "2026-04-03 16:38:48",
+  "extracted_at": "2026-04-06 16:45:14",
   "sources": [
     {
       "source": "Wikipedia",

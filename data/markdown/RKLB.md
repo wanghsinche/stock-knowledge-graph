@@ -3,8 +3,8 @@ ticker: RKLB
 company: Rocket Lab Corporation
 sector: Industrials
 industry: Aerospace & Defense
-extracted_at: 2026-04-03 16:33:07
-last_updated: 2026-04-03
+extracted_at: 2026-04-06 16:41:22
+last_updated: 2026-04-06
 ---
 
 # RKLB - Rocket Lab Corporation
@@ -12,46 +12,28 @@ last_updated: 2026-04-03
 ## 基本信息
 
 - **所属行业**: Industrials / Aerospace & Defense
-- **提取时间**: 2026-04-03 16:33:07
+- **提取时间**: 2026-04-06 16:41:22
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Rocket engine manufacturers (e.g., Aerojet Rocketdyne)]]
-- [[Composite material suppliers (e.g., Hexcel)]]
-- [[Avionics and guidance system suppliers (e.g., Honeywell Aerospace)]]
-- [[Propellant suppliers (e.g., Linde)]]
-- [[TXN]]
+_暂无数据_
 
 ### 下游客户
-- [[Commercial satellite operators (e.g., Planet Labs, SpaceX customers)]]
-- [[Government space agencies (e.g., NASA, ESA)]]
-- [[Small satellite constellations (e.g., Starlink, OneWeb)]]
-- [[Earth observation satellite customers]]
-- [[CAT]]
+_暂无数据_
 
 ### 竞争对手
-- [[SpaceX]]
-- [[Blue Origin]]
-- [[Relativity Space]]
-- [[Firefly Aerospace]]
-- [[Astra]]
+_暂无数据_
 
 ### 核心产品
-- [[Electron launch vehicle]]
-- [[HASTE suborbital testbed]]
-- [[Neutron medium‑lift launch vehicle]]
-- [[Star trackers]]
-- [[Reaction wheels]]
+_暂无数据_
 
 ## 数据来源
 
 - [Rocket Lab](https://en.wikipedia.org/wiki/Rocket_Lab_Corporation)
 - [Rocket Lab Corporation suppliers manufacturers](https://en.wikipedia.org/wiki/Rocket_Lab)
-- [Rocket Lab Corporation suppliers manufacturers](https://rocketlabcorp.com/become-a-rocket-lab-supplier/)
-- [Rocket Lab Corporation major customers clients](https://rocketlabcorp.com/)
-- [Rocket Lab Corporation major customers clients](https://www.zacks.com/stock/news/2891223/rocket-lab-corporation-rklb-registers-a-bigger-fall-than-the-market-important-facts-to-note)
+- [Rocket Lab Corporation suppliers manufacturers](https://finance.yahoo.com/quote/RKLB/profile/?fr=sycsrp_catchall)
 
 ## 元数据
 
-- **更新日期**: 2026-04-03
+- **更新日期**: 2026-04-06

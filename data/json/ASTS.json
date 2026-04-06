@@ -4,34 +4,34 @@
   "sector": "Technology",
   "industry": "Communication Equipment",
   "upstream": [
-    "SpaceX",
-    "Lockheed Martin",
-    "Boeing",
-    "Northrop Grumman",
-    "Raytheon"
+    "Satellite component manufacturers (e.g., antenna, RF, power systems)",
+    "Electronic subsystem suppliers (e.g., processors, memory, sensors)",
+    "Propulsion and propulsion system suppliers",
+    "Ground station equipment providers",
+    "Launch vehicle manufacturers (e.g., SpaceX, Arianespace, Rocket Lab)"
   ],
   "downstream": [
-    "Telecom operators",
-    "Mobile network operators",
-    "Government agencies",
-    "Space agencies",
-    "Enterprise customers"
+    "CAT",
+    "Mobile network operators seeking 4G/5G coverage in remote areas",
+    "Government agencies and defense contractors",
+    "Enterprise customers requiring global connectivity",
+    "Satellite service providers integrating SpaceMobile payloads"
   ],
   "competitors": [
     "SpaceX Starlink",
     "OneWeb",
     "AMZN",
     "Telesat",
-    "Hughes Network Systems"
+    "CAT"
   ],
   "key_products": [
-    "Satellite-based 4G/5G broadband",
     "SpaceMobile satellite constellation",
-    "SpaceMobile satellite terminals",
-    "SpaceMobile network infrastructure",
-    "SpaceMobile ground stations"
+    "SpaceMobile Service (4G/5G space‑based broadband)",
+    "Satellite payload modules",
+    "Ground segment equipment",
+    "Integrated satellite‑to‑mobile handoff solutions"
   ],
-  "extracted_at": "2026-04-03 16:36:00",
+  "extracted_at": "2026-04-06 16:42:05",
   "sources": [
     {
       "source": "Wikipedia",
@@ -53,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/AST_SpaceMobile",
+      "url": "https://csimarket.com/stocks/ASTS-Customers",
       "query": "AST SpaceMobile, Inc. major customers clients",
-      "snippet": "AST SpaceMobile , Inc . is a publicly traded satellite designer and manufacturer based in Midland, Texas, United States. The company is building the S"
+      "snippet": "Mar 6, 2026 · Ast Spacemobile Inc customers and markets, results by customer and performance relative to ASTS, by company and industry - CSIMarket"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finviz.com/news/35605/ast-spacemobile-5-reasons-to-buy-this-tiny-trailblazer-stock",
+      "url": "https://stocklight.com/stocks/us/nasdaq-asts/ast-spacemobile/annual-reports/nasdaq-asts-2025-10K-25698505.pdf",
       "query": "AST SpaceMobile, Inc. major customers clients",
-      "snippet": "1. AST SpaceMobile Has 3 Billion Potential Customers . AST SpaceMobile ’s broadband cellular network is supposed to fill in coverage gaps throughout t"
+      "snippet": "We intend to build a SpaceMobile Service which leverages our technology to provide Cellular Broadband services to MNO end-user customers around the wo"
     }
   ]
 }

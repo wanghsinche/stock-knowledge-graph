@@ -3,11 +3,35 @@
   "company_name": "Applied Optoelectronics, Inc.",
   "sector": "Technology",
   "industry": "Communication Equipment",
-  "upstream": [],
-  "downstream": [],
-  "competitors": [],
-  "key_products": [],
-  "extracted_at": "2026-04-03 16:33:57",
+  "upstream": [
+    "Semiconductor manufacturers",
+    "Laser diode suppliers",
+    "Optical fiber manufacturers",
+    "Photonic component suppliers",
+    "Electronic packaging suppliers"
+  ],
+  "downstream": [
+    "Hyperscale data center operators",
+    "CAT",
+    "Cloud service providers",
+    "Enterprise networking vendors",
+    "Telecom equipment manufacturers"
+  ],
+  "competitors": [
+    "Lumentum Holdings Inc.",
+    "II-VI Incorporated",
+    "Coherent, Inc.",
+    "NKT Photonics A/S",
+    "AVGO"
+  ],
+  "key_products": [
+    "Optical transceivers",
+    "Laser diodes",
+    "Optical modules",
+    "Photonic integrated circuits",
+    "Optical fiber components"
+  ],
+  "extracted_at": "2026-04-06 16:39:17",
   "sources": [
     {
       "source": "Wikipedia",
@@ -26,6 +50,18 @@
       "url": "https://everyticker.com/quote/AAOI",
       "query": "Applied Optoelectronics, Inc. suppliers manufacturers",
       "snippet": "Applied Optoelectronics , Inc . (AAOI) designs and manufactures vertically integrated fiber-optic components and transceivers, serving cable TV (CATV)"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/applied-optoelectronics-aaoi-5-8-110836138.html?fr=sycsrp_catchall",
+      "query": "Applied Optoelectronics, Inc. major customers clients",
+      "snippet": "2 days ago · In late March and early April 2026, Applied Optoelectronics announced it had secured a combined US$124 million in 800G single‑mode data c"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.alphapilot.tech/discover/applied-optoelectronics-secures-71-million-800g-transceiver-order-from-major-hyperscale-customer",
+      "query": "Applied Optoelectronics, Inc. major customers clients",
+      "snippet": "4 days ago · Summary This latest $71 million commitment from a major hyperscale client brings the total orders from this specific customer to $124 mil"
     }
   ]
 }

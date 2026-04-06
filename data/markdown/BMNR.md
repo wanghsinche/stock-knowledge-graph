@@ -3,8 +3,8 @@ ticker: BMNR
 company: Bitmine Immersion Technologies, Inc.
 sector: Financial Services
 industry: Capital Markets
-extracted_at: 2026-03-16 16:59:40
-last_updated: 2026-03-16
+extracted_at: 2026-04-06 16:46:39
+last_updated: 2026-04-06
 ---
 
 # BMNR - Bitmine Immersion Technologies, Inc.
@@ -12,46 +12,28 @@ last_updated: 2026-03-16
 ## 基本信息
 
 - **所属行业**: Financial Services / Capital Markets
-- **提取时间**: 2026-03-16 16:59:40
+- **提取时间**: 2026-04-06 16:46:39
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Ethereum Treasury Company]]
-- [[Blockchain hardware suppliers]]
-- [[Cryptocurrency mining equipment providers]]
-- [[Software development firms]]
-- [[Cloud infrastructure providers]]
+_暂无数据_
 
 ### 下游客户
-- [[Institutional investors]]
-- [[Crypto exchanges]]
-- [[DeFi platforms]]
-- [[Blockchain startups]]
-- [[Financial institutions]]
+_暂无数据_
 
 ### 竞争对手
-- [[Coinbase]]
-- [[Kraken]]
-- [[Gemini]]
-- [[BitGo]]
-- [[Chainalysis]]
+_暂无数据_
 
 ### 核心产品
-- [[Ethereum treasury services]]
-- [[Blockchain integration solutions]]
-- [[Smart contract development]]
-- [[Crypto asset custody]]
-- [[Decentralized finance (DeFi) infrastructure]]
+_暂无数据_
 
 ## 数据来源
 
 - 
-- [Bitmine Immersion Technologies, Inc. suppliers manufacturers](https://finance.yahoo.com/quote/BMNR/)
-- [Bitmine Immersion Technologies, Inc. suppliers manufacturers](https://www.bitminetech.io/)
-- [Bitmine Immersion Technologies, Inc. major customers clients](https://www.bitminetech.io/)
-- [Bitmine Immersion Technologies, Inc. major customers clients](https://finance.yahoo.com/quote/BMNR/)
+- [Bitmine Immersion Technologies, Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/Bitmain)
+- [Bitmine Immersion Technologies, Inc. suppliers manufacturers](https://www.bitminetech.io/investor-relations)
 
 ## 元数据
 
-- **更新日期**: 2026-03-16
+- **更新日期**: 2026-04-06

@@ -1,37 +1,37 @@
 {
   "ticker": "CIEN",
   "company_name": "Ciena Corporation",
-  "sector": "Technology / Communication Equipment",
-  "industry": "Optical Networking",
+  "sector": "Technology",
+  "industry": "Communication Equipment",
   "upstream": [
-    "Lumentum",
-    "II-VI Incorporated",
-    "Coherent",
-    "Infinera",
-    "Cree"
+    "Optical fiber manufacturers",
+    "Photonic component suppliers",
+    "Semiconductor chip makers",
+    "Laser diode producers",
+    "Precision optics vendors"
   ],
   "downstream": [
-    "AT&T",
     "CAT",
-    "BT Group",
-    "Deutsche Telekom",
-    "China Mobile"
+    "Cloud service providers",
+    "Data center operators",
+    "Enterprise network integrators",
+    "Government agencies"
   ],
   "competitors": [
-    "CSCO",
-    "JNPR",
-    "ANET",
+    "Nokia",
+    "Ericsson",
     "Huawei",
-    "Nokia"
+    "JNPR",
+    "CSCO"
   ],
   "key_products": [
     "Optical transport systems",
-    "Packet optical platforms",
-    "Optical switching solutions",
-    "Software‑defined networking (SDN) controllers",
-    "Optical transceivers and modules"
+    "Optical switches",
+    "Software-defined networking (SDN) solutions",
+    "Network management and analytics platforms",
+    "Quantum-safe communication solutions"
   ],
-  "extracted_at": "2026-04-03 16:35:35",
+  "extracted_at": "2026-04-06 16:45:50",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,21 +47,21 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.tipranks.com/stocks/cien/stock-analysis",
+      "url": "https://tower-pro.com/listings/ciena-corp/",
       "query": "Ciena Corporation suppliers manufacturers",
-      "snippet": "Ciena faced supply constraints, particularly in photonics and optical parts, despite working closely with suppliers and increasing CapEx to address de"
+      "snippet": "Tower Manufacturers . Ciena Corp . LISTED IN. Network Equipment & Services. CONTACT INFORMATION. 7035 Ridge Road Hanover MD 21076 United States."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/Ciena",
+      "query": "Ciena Corporation major customers clients",
+      "snippet": "Ciena Corporation is an American optical networking systems and software company [4][5][6] based in Hanover, Maryland. [7][8] The company has been des"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.ciena.com/about/customer-stories",
       "query": "Ciena Corporation major customers clients",
-      "snippet": "As the global leader in high-speed connectivity, we empower our customers , partners, and communities to thrive in the AI era. Our commitments to incl"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/CIEN-Customers",
-      "query": "Ciena Corporation major customers clients",
-      "snippet": "Ciena customers and markets, results by customer and performance relative to CIEN, by company and industry - CSIMarket"
+      "snippet": "Ciena's Customer Stories The shift toward quantum-safe communications is not optional—it is inevitable. Ciena’s WaveLogic 6 Extreme 1.6T quantum-safe "
     }
   ]
 }

@@ -4,34 +4,34 @@
   "sector": "Technology",
   "industry": "Software - Infrastructure",
   "upstream": [
-    "INTC",
-    "AMD",
-    "NVDA",
     "DELL",
-    "HPQ"
+    "NVDA",
+    "MSFT",
+    "Software component vendors (e.g., Java, Linux distributions)",
+    "Data center equipment suppliers"
   ],
   "downstream": [
-    "JPMorgan Chase",
-    "Bank of America",
-    "Walmart",
-    "AT&T",
-    "Verizon"
+    "Large enterprises (e.g., Walmart, JPMorgan Chase)",
+    "Government agencies (e.g., U.S. Department of Defense)",
+    "Financial institutions (e.g., Goldman Sachs, Bank of America)",
+    "Healthcare organizations (e.g., Mayo Clinic, UnitedHealth Group)",
+    "CAT"
   ],
   "competitors": [
     "MSFT",
-    "AMZN",
-    "GOOGL",
     "IBM",
-    "SAP"
+    "SAP",
+    "AMZN",
+    "GOOGL"
   ],
   "key_products": [
     "Oracle Database",
-    "Oracle Cloud Infrastructure",
+    "Oracle Cloud Infrastructure (OCI)",
     "Oracle Autonomous Database",
-    "Oracle Fusion Applications",
-    "Oracle E-Business Suite"
+    "Oracle Applications (e.g., E-Business Suite, Fusion Cloud)",
+    "Oracle Java Platform"
   ],
-  "extracted_at": "2026-04-03 16:33:38",
+  "extracted_at": "2026-04-06 16:42:16",
   "sources": [
     {
       "source": "Wikipedia",
@@ -53,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.oracle.com/customers/",
+      "url": "https://en.wikipedia.org/wiki/Oracle_Corporation",
       "query": "Oracle Corporation major customers clients",
-      "snippet": "Innovation, ease of use, better results—those are just some of the reasons organizations in all industries and of all sizes rely on Oracle to help the"
+      "snippet": "Oracle Corporation is an American multinational technology company headquartered in Austin, Texas. Co-founded in Santa Clara, California by Bob Miner,"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.thomsondata.com/customer-base/oracle.php",
+      "url": "https://www.oracle.com/corporate/",
       "query": "Oracle Corporation major customers clients",
-      "snippet": "Thomson Data makes it easy by offering an accurate and up-to-date list of companies that use Oracle. This list allows you to identify Oracle customers"
+      "snippet": "Oracle is pleased to provide information about our company, customers , partners, events, communities, press, analysts, investors, and careers.The com"
     }
   ]
 }

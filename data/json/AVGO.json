@@ -1,37 +1,37 @@
 {
   "ticker": "AVGO",
   "company_name": "Broadcom Inc.",
-  "sector": "Technology",
+  "sector": "Technology / Semiconductors",
   "industry": "Semiconductors",
   "upstream": [
     "TSM",
     "005930.KS",
     "GlobalFoundries",
-    "UMC",
-    "SMIC"
+    "INTC",
+    "QCOM"
   ],
   "downstream": [
-    "005930.KS",
     "CSCO",
     "DELL",
-    "HPQ",
-    "Lenovo"
+    "MSFT",
+    "AMZN",
+    "AAPL"
   ],
   "competitors": [
     "QCOM",
     "INTC",
     "NVDA",
-    "MRVL",
-    "TXN"
+    "TXN",
+    "MRVL"
   ],
   "key_products": [
-    "Ethernet controllers",
-    "Wi‑Fi chips",
-    "Bluetooth chips",
-    "Modems",
-    "Storage controllers"
+    "Broadcom Wi‑Fi chips",
+    "Broadcom Ethernet controllers",
+    "Broadcom broadband modems",
+    "Broadcom data center networking chips",
+    "Broadcom storage controllers"
   ],
-  "extracted_at": "2026-04-03 16:31:32",
+  "extracted_at": "2026-04-06 16:39:04",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,15 +47,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/AVGO-Suppliers",
+      "url": "https://www.broadcom.com/how-to-buy/partner-distributor-lookup",
       "query": "Broadcom Inc. suppliers manufacturers",
-      "snippet": "Broadcom Inc supply chain, list and performance of Broadcom Incs ' suppliers - CSIMarket."
+      "snippet": "Find a local reseller or global distributor of every Broadcom software solution for your business or enterprise, spanning the desktop to the Mainframe"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://csimarket.com/stocks/AVGO-Customers",
       "query": "Broadcom Inc. major customers clients",
-      "snippet": "Sales to our five largest customers represented 48.3%. Sales to Samsung represented 21.3%. Sales to Apple represented 13.3%."
+      "snippet": "Broadcom Inc customers and markets, results by customer and performance relative to AVGO, by company and industry - CSIMarket"
     },
     {
       "source": "DuckDuckGo",

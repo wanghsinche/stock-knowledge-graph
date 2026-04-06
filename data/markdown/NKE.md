@@ -3,8 +3,8 @@ ticker: NKE
 company: Nike, Inc.
 sector: Consumer Cyclical
 industry: Footwear & Accessories
-extracted_at: 2026-04-03 16:32:11
-last_updated: 2026-04-03
+extracted_at: 2026-04-06 16:44:05
+last_updated: 2026-04-06
 ---
 
 # NKE - Nike, Inc.
@@ -12,37 +12,37 @@ last_updated: 2026-04-03
 ## 基本信息
 
 - **所属行业**: Consumer Cyclical / Footwear & Accessories
-- **提取时间**: 2026-04-03 16:32:11
+- **提取时间**: 2026-04-06 16:44:05
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Raw material suppliers (leather, rubber, synthetic fibers)]]
-- [[Contract manufacturing partners]]
-- [[Component suppliers (zippers, laces, eyelets)]]
-- [[Packaging material suppliers]]
-- [[Logistics and freight forwarders]]
+- [[Rubber and synthetic rubber suppliers]]
+- [[Leather suppliers]]
+- [[Textile and fabric suppliers]]
+- [[Plastic and polymer suppliers]]
+- [[Logistics and packaging suppliers]]
 
 ### 下游客户
-- [[Retailers (Foot Locker, JD Sports, Nike.com)]]
-- [[Professional sports teams and leagues]]
-- [[Athletes and individual consumers]]
-- [[Corporate and institutional buyers]]
-- [[Sports apparel and equipment distributors]]
+- [[Foot Locker]]
+- [[AMZN]]
+- [[Walmart]]
+- [[JD Sports]]
+- [[Nike.com]]
 
 ### 竞争对手
 - [[Adidas]]
-- [[Puma]]
 - [[Under Armour]]
+- [[Puma]]
 - [[New Balance]]
 - [[ASICS]]
 
 ### 核心产品
 - [[Running shoes]]
 - [[Basketball shoes]]
-- [[Soccer cleats]]
-- [[Athletic apparel]]
-- [[Sports equipment and accessories]]
+- [[Apparel (t‑shirts, shorts)]]
+- [[Sportswear accessories (bags, socks)]]
+- [[Nike Air technology products]]
 
 ## 数据来源
 
@@ -54,4 +54,4 @@ last_updated: 2026-04-03
 
 ## 元数据
 
-- **更新日期**: 2026-04-03
+- **更新日期**: 2026-04-06

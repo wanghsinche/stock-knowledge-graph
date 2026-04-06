@@ -4,34 +4,34 @@
   "sector": "Healthcare",
   "industry": "Drug Manufacturers - General",
   "upstream": [
-    "Raw material suppliers (active pharmaceutical ingredients)",
+    "Active Pharmaceutical Ingredient (API) suppliers",
     "Contract manufacturing organizations (CMOs)",
-    "Chemical suppliers (API manufacturers)",
-    "Packaging suppliers (vials, syringes)",
-    "Quality control testing labs"
+    "Packaging and labeling suppliers",
+    "Chemical raw material suppliers",
+    "Quality control testing laboratories"
   ],
   "downstream": [
     "Hospitals and health systems",
-    "Pharmacies (retail and institutional)",
-    "Government health agencies (e.g., Medicare, Medicaid)",
-    "International health organizations",
-    "Private healthcare providers"
+    "Pharmacies and drugstores",
+    "Government health agencies",
+    "Insurance providers",
+    "International health organizations"
   ],
   "competitors": [
     "Pfizer",
     "Johnson & Johnson",
     "Merck & Co.",
-    "Novartis",
-    "Sanofi"
+    "AbbVie",
+    "Bristol Myers Squibb"
   ],
   "key_products": [
-    "Humalog (insulin lispro)",
-    "Lantus (insulin glargine)",
+    "Humalog (insulin glargine)",
+    "Humulin (human insulin)",
     "Trulicity (dulaglutide)",
-    "Cymbalta (duloxetine)",
-    "Zyprexa (olanzapine)"
+    "Mounjaro (tirzepatide)",
+    "Cymbalta (duloxetine)"
   ],
-  "extracted_at": "2026-04-03 16:32:22",
+  "extracted_at": "2026-04-06 16:42:49",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.lilly.com/suppliers",
-      "query": "Eli Lilly and Company suppliers manufacturers",
-      "snippet": "View supplier resources including accounts payable, invoicing, payments, new and existing supplier guidance, and the Lilly Supplier portal."
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.lilly.com/suppliers/resources",
-      "query": "Eli Lilly and Company suppliers manufacturers",
-      "snippet": "View Lilly ' s supplier resources to find information on standards and commitments, supplier procurement activities, contingent worker onboarding, and"
-    },
-    {
-      "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Eli_Lilly_and_Company",
-      "query": "Eli Lilly and Company major customers clients",
+      "query": "Eli Lilly and Company suppliers manufacturers",
       "snippet": "Eli Lilly and Company , doing business as Lilly , is an American multinational pharmaceutical company headquartered in Indianapolis, Indiana, with off"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.linkedin.com/company/eli-lilly-and-company",
+      "url": "https://www.lilly.com/suppliers",
+      "query": "Eli Lilly and Company suppliers manufacturers",
+      "snippet": "Supplier relationships are an important piece of the company , and we’re proud to offer mentorship and advocacy to small and under-leveraged businesse"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/LLY-Customers",
       "query": "Eli Lilly and Company major customers clients",
-      "snippet": "Eli Lilly and Company | 2,620,695 followers on LinkedIn. We're a medicine company turning science into healing to make life better for people around t"
+      "snippet": "Eli Lilly customers and markets, results by customer and performance relative to LLY, by company and industry - CSIMarket"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://investor.lilly.com/",
+      "query": "Eli Lilly and Company major customers clients",
+      "snippet": "Mar 16, 2026 · The Investor Relations website contains information about Eli Lilly and Company 's business for stockholders, potential investors, and "
     }
   ]
 }

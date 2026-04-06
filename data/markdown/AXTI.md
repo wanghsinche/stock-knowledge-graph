@@ -3,8 +3,8 @@ ticker: AXTI
 company: AXT, Inc.
 sector: Technology
 industry: Semiconductor Equipment & Materials
-extracted_at: 2026-04-01 16:53:32
-last_updated: 2026-04-01
+extracted_at: 2026-04-06 16:43:35
+last_updated: 2026-04-06
 ---
 
 # AXTI - AXT, Inc.
@@ -12,46 +12,46 @@ last_updated: 2026-04-01
 ## 基本信息
 
 - **所属行业**: Technology / Semiconductor Equipment & Materials
-- **提取时间**: 2026-04-01 16:53:32
+- **提取时间**: 2026-04-06 16:43:35
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Air Liquide (high‑purity gases)]]
-- [[Linde (high‑purity gases)]]
-- [[Merck (chemical precursors)]]
-- [[Siltronic (silicon wafers)]]
 - [[AMAT]]
+- [[LRCX]]
+- [[Tokyo Electron]]
+- [[KLA]]
+- [[ASML]]
 
 ### 下游客户
 - [[INTC]]
-- [[005930.KS]]
 - [[TSM]]
-- [[GlobalFoundries]]
+- [[005930.KS]]
 - [[MU]]
+- [[GlobalFoundries]]
 
 ### 竞争对手
 - [[AMAT]]
 - [[LRCX]]
 - [[Tokyo Electron]]
-- [[Cree (LED substrate segment)]]
-- [[Semiconductor Substrate Corp.]]
+- [[KLA]]
+- [[ASML]]
 
 ### 核心产品
-- [[GaAs compound semiconductor substrates]]
-- [[InP compound semiconductor substrates]]
-- [[GaN compound semiconductor substrates]]
-- [[Silicon single‑element substrates]]
-- [[Sapphire single‑element substrates]]
+- [[Semiconductor wafer processing equipment]]
+- [[Lithography tools]]
+- [[Etching systems]]
+- [[Deposition tools]]
+- [[Advanced semiconductor manufacturing equipment]]
 
 ## 数据来源
 
 - 
 - [AXT, Inc. suppliers manufacturers](https://csimarket.com/stocks/suppliers_glance.php?code=AXTI)
-- [AXT, Inc. suppliers manufacturers](https://investorshub.advfn.com/AXT-Inc-AXTI-9715)
-- [AXT, Inc. major customers clients](https://finance.yahoo.com/news/axt-inc-supplies-first-8-200600194.html)
-- [AXT, Inc. major customers clients](https://www.fool.com/coverage/filings/2026/03/27/axt-s-ceo-sold-shares-worth-usd1-4-million-is-now-the-time-to-sell-or-buy-the-stock/)
+- [AXT, Inc. suppliers manufacturers](https://www.investing.com/equities/axt-inc)
+- [AXT, Inc. major customers clients](https://csimarket.com/stocks/AXTI-Customers)
+- [AXT, Inc. major customers clients](https://investors.axt.com/Investors/Overview/default.aspx)
 
 ## 元数据
 
-- **更新日期**: 2026-04-01
+- **更新日期**: 2026-04-06

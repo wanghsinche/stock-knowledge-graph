@@ -6,16 +6,16 @@
   "upstream": [
     "AMZN",
     "MSFT",
-    "Stripe (payment processing)",
-    "Plaid (financial data aggregation)",
-    "Chainalysis (blockchain analytics)"
+    "GOOGL",
+    "Stripe",
+    "Plaid"
   ],
   "downstream": [
     "Retail cryptocurrency traders",
-    "Institutional investors (hedge funds, family offices)",
-    "Crypto asset managers",
-    "DeFi protocol developers",
-    "Merchant payment processors"
+    "Institutional investors",
+    "Crypto merchants",
+    "DeFi developers",
+    "Financial advisors"
   ],
   "competitors": [
     "Binance",
@@ -26,12 +26,12 @@
   ],
   "key_products": [
     "Cryptocurrency trading platform",
-    "Custody services for institutional clients",
-    "Staking and yield products",
-    "Coinbase Wallet (non-custodial)",
-    "Coinbase Pro (advanced trading interface)"
+    "Custody services",
+    "Staking services",
+    "Crypto wallet",
+    "API for institutional trading"
   ],
-  "extracted_at": "2026-04-03 16:36:11",
+  "extracted_at": "2026-04-06 16:43:20",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,21 +47,21 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/COIN/",
+      "url": "https://ru.wikipedia.org/wiki/Coinbase",
       "query": "Coinbase Global, Inc. suppliers manufacturers",
-      "snippet": "Coinbase Global , Inc . OverviewFinancial Data & Stock Exchanges / Financial Services. Coinbase Global , Inc . operates platform for crypto assets in "
+      "snippet": "Coinbase Global , Inc . (бренд Coinbase ) — американская публичная компания, которая управляет онлайн-сервисом обмена цифровых валют (биржей криптовал"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Coinbase",
       "query": "Coinbase Global, Inc. major customers clients",
-      "snippet": "Coinbase Global , Inc . is an American cryptocurrency exchange. It was founded in 2012 by Brian Armstrong and Fred Ehrsam."
+      "snippet": "Coinbase Global , Inc . is an American cryptocurrency exchange. [4][5][6] It was founded in 2012 by Brian Armstrong and Fred Ehrsam. [1] Coinbase has "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.coinbase.com/",
+      "url": "https://www.demandsage.com/coinbase-users-statistics/",
       "query": "Coinbase Global, Inc. major customers clients",
-      "snippet": "Coinbase United States is a secure online platform for buying, selling, transferring, and storing cryptocurrency. Coinbase believes crypto will be par"
+      "snippet": "Aug 13, 2025 · Get our latest Coinbase user statistics 2026, highlighting global adoption rates, market growth, and usage trends."
     }
   ]
 }

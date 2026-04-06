@@ -3,8 +3,8 @@ ticker: LLY
 company: Eli Lilly and Company
 sector: Healthcare
 industry: Drug Manufacturers - General
-extracted_at: 2026-04-03 16:32:22
-last_updated: 2026-04-03
+extracted_at: 2026-04-06 16:42:49
+last_updated: 2026-04-06
 ---
 
 # LLY - Eli Lilly and Company
@@ -12,46 +12,46 @@ last_updated: 2026-04-03
 ## 基本信息
 
 - **所属行业**: Healthcare / Drug Manufacturers - General
-- **提取时间**: 2026-04-03 16:32:22
+- **提取时间**: 2026-04-06 16:42:49
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Raw material suppliers (active pharmaceutical ingredients)]]
+- [[Active Pharmaceutical Ingredient (API) suppliers]]
 - [[Contract manufacturing organizations (CMOs)]]
-- [[Chemical suppliers (API manufacturers)]]
-- [[Packaging suppliers (vials, syringes)]]
-- [[Quality control testing labs]]
+- [[Packaging and labeling suppliers]]
+- [[Chemical raw material suppliers]]
+- [[Quality control testing laboratories]]
 
 ### 下游客户
 - [[Hospitals and health systems]]
-- [[Pharmacies (retail and institutional)]]
-- [[Government health agencies (e.g., Medicare, Medicaid)]]
+- [[Pharmacies and drugstores]]
+- [[Government health agencies]]
+- [[Insurance providers]]
 - [[International health organizations]]
-- [[Private healthcare providers]]
 
 ### 竞争对手
 - [[Pfizer]]
 - [[Johnson & Johnson]]
 - [[Merck & Co.]]
-- [[Novartis]]
-- [[Sanofi]]
+- [[AbbVie]]
+- [[Bristol Myers Squibb]]
 
 ### 核心产品
-- [[Humalog (insulin lispro)]]
-- [[Lantus (insulin glargine)]]
+- [[Humalog (insulin glargine)]]
+- [[Humulin (human insulin)]]
 - [[Trulicity (dulaglutide)]]
+- [[Mounjaro (tirzepatide)]]
 - [[Cymbalta (duloxetine)]]
-- [[Zyprexa (olanzapine)]]
 
 ## 数据来源
 
 - [Eli Lilly and Company](https://en.wikipedia.org/wiki/Eli_Lilly_and_Company)
+- [Eli Lilly and Company suppliers manufacturers](https://en.wikipedia.org/wiki/Eli_Lilly_and_Company)
 - [Eli Lilly and Company suppliers manufacturers](https://www.lilly.com/suppliers)
-- [Eli Lilly and Company suppliers manufacturers](https://www.lilly.com/suppliers/resources)
-- [Eli Lilly and Company major customers clients](https://en.wikipedia.org/wiki/Eli_Lilly_and_Company)
-- [Eli Lilly and Company major customers clients](https://www.linkedin.com/company/eli-lilly-and-company)
+- [Eli Lilly and Company major customers clients](https://csimarket.com/stocks/LLY-Customers)
+- [Eli Lilly and Company major customers clients](https://investor.lilly.com/)
 
 ## 元数据
 
-- **更新日期**: 2026-04-03
+- **更新日期**: 2026-04-06

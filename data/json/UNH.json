@@ -2,32 +2,36 @@
   "ticker": "UNH",
   "company_name": "UnitedHealth Group Incorporated",
   "sector": "Healthcare",
-  "industry": "Health Insurance / Health Plans",
+  "industry": "Healthcare Plans",
   "upstream": [
-    "Privia Health Group Inc."
+    "Pharmaceutical manufacturers",
+    "Medical device manufacturers",
+    "Health technology vendors",
+    "Pharmacy benefit management providers",
+    "Data analytics platform suppliers"
   ],
   "downstream": [
-    "Employers and corporate groups",
+    "Large corporate employers",
+    "Government health programs (Medicare, Medicaid)",
     "Individual consumers",
-    "Government agencies (e.g., Medicare, Medicaid)",
-    "Healthcare providers (hospitals, clinics)",
-    "Pharmaceutical companies"
+    "Health care providers (hospitals, clinics)",
+    "Health savings account (HSA) holders"
   ],
   "competitors": [
-    "Kaiser Permanente",
-    "Aetna (CVS Health)",
+    "Anthem",
+    "Aetna",
     "Cigna",
     "Humana",
-    "Blue Cross Blue Shield"
+    "CVS Health (Aetna)"
   ],
   "key_products": [
-    "Health insurance plans (individual, group, Medicare)",
-    "Optum health services (pharmacy, data analytics, care delivery)",
-    "UnitedHealthcare employer plans",
-    "Health savings accounts (HSAs)",
-    "Telehealth and virtual care platforms"
+    "Commercial health insurance plans",
+    "Medicare Advantage plans",
+    "Medicaid managed care",
+    "OptumRx pharmacy benefit management",
+    "OptumCare health services"
   ],
-  "extracted_at": "2026-04-03 16:34:31",
+  "extracted_at": "2026-04-06 16:44:31",
   "sources": [
     {
       "source": "Wikipedia",
@@ -37,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/competitionSEG2.php?code=UNH",
+      "url": "https://www.unitedhealthgroup.com/suppliers/information.html",
       "query": "UnitedHealth Group Incorporated suppliers manufacturers",
-      "snippet": "Privia Health Group Inc .To get a more accurate picture of Unitedhealth Group Incorporated 's market divisions, geographic dispersion, segments, produ"
+      "snippet": "Supplier Community Portal At UnitedHealth Group , we search for suppliers that help us deliver best-in-class services to our customers. These partners"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://medium.com/@archer_ventures/using-porters-five-forces-to-analyze-unitedhealth-group-incorporated-unh-b03f0d9b1c85",
+      "url": "https://csimarket.com/stocks/UNH-Suppliers",
       "query": "UnitedHealth Group Incorporated suppliers manufacturers",
-      "snippet": "UnitedHealth Group Inc . (UNH) is one of the intermediaries helping to streamline healthcare and reduce costs. It is the biggest healthcare company in"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://pitchgrade.com/companies/unitedhealth",
-      "query": "UnitedHealth Group Incorporated major customers clients",
-      "snippet": "Customer Segments: UnitedHealth Group Incorporated serves multiple distinct customer segments, which may include consumers, small and medium businesse"
+      "snippet": "Oct 29, 2025 · Unitedhealth Group Incorporated 's Suppliers recorded an increase in sales by 8.14 % year on year in Q3 2025, sequentially sales grew b"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://store.marketline.com/report/unitedhealth-group-incorporated-strategy-swot-and-corporate-finance-report-2/",
       "query": "UnitedHealth Group Incorporated major customers clients",
       "snippet": "- Assess UnitedHealth Group Incorporated as a prospective partner, vendor or supplier. - Support sales activities by understanding your customers ' bu"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://uk.finance.yahoo.com/news/unitedhealth-group-incorporated-unh-good-004257814.html",
+      "query": "UnitedHealth Group Incorporated major customers clients",
+      "snippet": "UnitedHealth Group Incorporated operates as a health care company in the United States and internationally. UNH experienced a turbulent 2025, with hea"
     }
   ]
 }

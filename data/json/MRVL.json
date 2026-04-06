@@ -4,34 +4,34 @@
   "sector": "Technology",
   "industry": "Semiconductors",
   "upstream": [
-    "AMAT",
-    "Raw material suppliers (e.g., silicon wafer producers)",
-    "Electronic design automation (EDA) tool vendors (e.g., Cadence, Synopsys)",
-    "IP licensing firms (e.g., ARM, Xilinx)",
-    "Packaging and testing service providers"
+    "TSM",
+    "005930.KS",
+    "GlobalFoundries",
+    "UMC",
+    "ASE"
   ],
   "downstream": [
     "AAPL",
-    "005930.KS",
-    "QCOM",
-    "Huawei Technologies Co., Ltd.",
-    "CSCO"
+    "CSCO",
+    "Huawei",
+    "DELL",
+    "005930.KS"
   ],
   "competitors": [
     "AVGO",
     "QCOM",
     "INTC",
-    "MediaTek Inc.",
-    "TXN"
+    "MediaTek",
+    "NVDA"
   ],
   "key_products": [
-    "Storage controller chips (e.g., NVMe, SATA)",
-    "Ethernet and networking ASICs",
-    "Wi‑Fi and Bluetooth modules",
-    "5G and LTE modem solutions",
-    "System‑on‑chip (SoC) platforms for data centers"
+    "ARM‑based processors",
+    "Ethernet controllers",
+    "Storage controllers",
+    "RF transceivers",
+    "Network processors"
   ],
-  "extracted_at": "2026-04-03 16:32:36",
+  "extracted_at": "2026-04-06 16:39:41",
   "sources": [
     {
       "source": "Wikipedia",
@@ -53,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Marvell_Technology",
+      "url": "https://www.marvell.com/",
       "query": "Marvell Technology, Inc. major customers clients",
-      "snippet": "Marvell Technology, Inc. is an American company, headquartered in Santa Clara, California, which develops and produces semiconductors and related tech"
+      "snippet": "Designed for your current needs and future ambitions, Marvell delivers the data infrastructure technology transforming tomorrow’s enterprise, cloud, a"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://investor.marvell.com/news-events/press-releases/detail/1011/marvell-technology-inc-reports-fourth-quarter-and-fiscal-year-2026-financial-results",
+      "url": "https://www.barrons.com/market-data/stocks/mrvl",
       "query": "Marvell Technology, Inc. major customers clients",
-      "snippet": "Mar 5, 2026 · ... customers for a significant portion of our revenue, particularly as our major customers comprise an increasing percentage of our rev"
+      "snippet": "Complete Marvell Technology Inc . stock information by Barron's. View real-time MRVL stock price and news, along with industry-best analysis. Marvell "
     }
   ]
 }
