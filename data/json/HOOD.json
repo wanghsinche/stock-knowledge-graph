@@ -1,37 +1,37 @@
 {
   "ticker": "HOOD",
   "company_name": "Robinhood Markets, Inc.",
-  "sector": "Financial Services / Capital Markets",
-  "industry": "Online Brokerage / Investment Platform",
+  "sector": "Financial Services",
+  "industry": "Capital Markets",
   "upstream": [
     "AMZN",
+    "GOOGL",
     "Plaid",
     "Stripe",
-    "Bloomberg",
-    "Refinitiv"
+    "Bloomberg"
   ],
   "downstream": [
     "Retail investors",
-    "Institutional clients",
+    "Institutional investors",
     "High-frequency traders",
-    "Crypto traders",
+    "Corporate clients",
     "Financial advisors"
   ],
   "competitors": [
     "Charles Schwab",
+    "E*TRADE",
     "Fidelity",
     "TD Ameritrade",
-    "E*TRADE",
     "Webull"
   ],
   "key_products": [
-    "Commission-free stock trading",
-    "Options trading",
-    "Cryptocurrency trading",
+    "Commission-free trading",
     "Robinhood Gold",
-    "Cash Management"
+    "Cash Management",
+    "Options trading",
+    "Cryptocurrency trading"
   ],
-  "extracted_at": "2026-04-06 16:40:41",
+  "extracted_at": "2026-04-07 16:50:40",
   "sources": [
     {
       "source": "Wikipedia",
@@ -53,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://investingintheweb.com/brokers/robinhood-statistics/",
+      "url": "https://en.wikipedia.org/wiki/Robinhood_Markets",
       "query": "Robinhood Markets, Inc. major customers clients",
-      "snippet": "Jan 2, 2026 · Robinhood revenues Robinhood generates revenues through transaction-based revenues, net interest revenues, and other revenues. Transacti"
+      "snippet": "Robinhood Markets , Inc . is an American financial services company based in Menlo Park, California. It provides an electronic trading platform that f"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://investors.robinhood.com/",
+      "url": "https://pitchgrade.com/companies/robinhood-markets",
       "query": "Robinhood Markets, Inc. major customers clients",
-      "snippet": "Jan 31, 2026 · Robinhood Markets , Inc . Investor relations (IR) website contains information about our business for stockholders, potential investors"
+      "snippet": "Customer Segments: Robinhood Markets , Inc . serves multiple distinct customer segments, which may include consumers, small and medium businesses, ent"
     }
   ]
 }

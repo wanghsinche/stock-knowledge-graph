@@ -3,8 +3,8 @@ ticker: XOM
 company: Exxon Mobil Corporation
 sector: Energy
 industry: Oil & Gas Integrated
-extracted_at: 2026-04-06 16:40:52
-last_updated: 2026-04-06
+extracted_at: 2026-04-07 16:48:47
+last_updated: 2026-04-07
 ---
 
 # XOM - Exxon Mobil Corporation
@@ -12,46 +12,46 @@ last_updated: 2026-04-06
 ## 基本信息
 
 - **所属行业**: Energy / Oil & Gas Integrated
-- **提取时间**: 2026-04-06 16:40:52
+- **提取时间**: 2026-04-07 16:48:47
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Halliburton]]
-- [[Schlumberger]]
-- [[Baker Hughes]]
+- [[Oilfield services companies (e.g., Schlumberger, Halliburton, Baker Hughes)]]
 - [[CAT]]
-- [[Siemens]]
+- [[Chemical suppliers (e.g., BASF, Dow)]]
+- [[Drilling contractors (e.g., Transocean)]]
+- [[Pipeline operators (e.g., Kinder Morgan)]]
 
 ### 下游客户
-- [[American Airlines]]
-- [[Delta Air Lines]]
-- [[Ford]]
-- [[7-Eleven]]
-- [[Dow Chemical]]
+- [[Consumers of gasoline and diesel fuel]]
+- [[Automotive fleet operators]]
+- [[Industrial fuel users]]
+- [[Petrochemical plants]]
+- [[Retail gas stations (Esso-branded)]]
 
 ### 竞争对手
 - [[Chevron]]
+- [[Royal Dutch Shell]]
 - [[BP]]
-- [[Shell]]
 - [[TotalEnergies]]
 - [[ConocoPhillips]]
 
 ### 核心产品
 - [[Crude oil]]
-- [[Natural gas]]
-- [[Gasoline]]
-- [[Jet fuel]]
-- [[Petrochemicals]]
+- [[Refined petroleum products (gasoline, diesel, jet fuel)]]
+- [[Petrochemicals (ethylene, propylene)]]
+- [[Lubricants]]
+- [[Synthetic rubber]]
 
 ## 数据来源
 
 - [ExxonMobil](https://en.wikipedia.org/wiki/Exxon_Mobil_Corporation)
 - [Exxon Mobil Corporation suppliers manufacturers](https://corporate.exxonmobil.com/procurement/exxonmobil-for-suppliers)
-- [Exxon Mobil Corporation suppliers manufacturers](https://www.mobil.com/en/lubricants/where-to-buy/automotive-lubricants-distributor-locator)
-- [Exxon Mobil Corporation major customers clients](https://en.wikipedia.org/wiki/ExxonMobil)
-- [Exxon Mobil Corporation major customers clients](https://csimarket.com/stocks/XOM-Customers)
+- [Exxon Mobil Corporation suppliers manufacturers](https://www.mobil.com/en/lubricants/for-businesses/industrial/lubricants-distributors/externallocator)
+- [Exxon Mobil Corporation major customers clients](https://corporate.exxonmobil.com/)
+- [Exxon Mobil Corporation major customers clients](https://corporate.exxonmobil.com/who-we-are/our-global-organization/brands)
 
 ## 元数据
 
-- **更新日期**: 2026-04-06
+- **更新日期**: 2026-04-07

@@ -3,8 +3,8 @@ ticker: APP
 company: AppLovin Corporation
 sector: Communication Services
 industry: Advertising Agencies
-extracted_at: 2026-04-06 16:41:51
-last_updated: 2026-04-06
+extracted_at: 2026-04-07 16:55:09
+last_updated: 2026-04-07
 ---
 
 # APP - AppLovin Corporation
@@ -12,46 +12,46 @@ last_updated: 2026-04-06
 ## 基本信息
 
 - **所属行业**: Communication Services / Advertising Agencies
-- **提取时间**: 2026-04-06 16:41:51
+- **提取时间**: 2026-04-07 16:55:09
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Mobile device manufacturers]]
-- [[App development platforms]]
-- [[Ad exchange providers]]
-- [[Data analytics vendors]]
-- [[Cloud infrastructure providers]]
+- [[QCOM]]
+- [[GOOGL]]
+- [[AAPL]]
+- [[005930.KS]]
+- [[INTC]]
 
 ### 下游客户
 - [[Mobile game developers]]
-- [[App publishers]]
+- [[Mobile app developers]]
 - [[Social media platforms]]
 - [[E-commerce app developers]]
-- [[Streaming app developers]]
+- [[Streaming service providers]]
 
 ### 竞争对手
-- [[GOOGL]]
-- [[Facebook Audience Network]]
 - [[Unity Ads]]
+- [[AdColony]]
+- [[IronSource]]
 - [[Vungle]]
-- [[Chartboost]]
+- [[GOOGL]]
 
 ### 核心产品
-- [[Mobile advertising platform]]
-- [[App monetization solutions]]
-- [[User acquisition services]]
-- [[Data analytics and targeting]]
-- [[Video and rewarded ad formats]]
+- [[Axon]]
+- [[AppLovin Mobile Marketing Platform]]
+- [[AppLovin SDK]]
+- [[AppLovin Analytics]]
+- [[AppLovin Audience Network]]
 
 ## 数据来源
 
 - 
-- [AppLovin Corporation suppliers manufacturers](https://www.applovin.com/)
-- [AppLovin Corporation suppliers manufacturers](https://finance.yahoo.com/news/makes-applovin-corporation-app-stock-125311873.html)
+- [AppLovin Corporation suppliers manufacturers](https://www.goerie.com/press-release/story/74155/stagwell-stgw-announces-strategic-partnership-with-applovin-to-accelerate-client-advantage-in-performance-marketing/)
+- [AppLovin Corporation suppliers manufacturers](https://stocktwits.com/news-articles/markets/equity/app-lovin-retail-traders-stay-cautious-after-s-and-p-500-inclusion/chwW176Rdqu)
 - [AppLovin Corporation major customers clients](https://en.wikipedia.org/wiki/AppLovin)
 - [AppLovin Corporation major customers clients](https://csimarket.com/stocks/APP-Customers)
 
 ## 元数据
 
-- **更新日期**: 2026-04-06
+- **更新日期**: 2026-04-07

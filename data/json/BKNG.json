@@ -1,37 +1,37 @@
 {
   "ticker": "BKNG",
   "company_name": "Booking Holdings Inc.",
-  "sector": "Consumer Cyclical",
-  "industry": "Travel Services",
+  "sector": "Consumer Cyclical / Travel Services",
+  "industry": "Travel Technology",
   "upstream": [
-    "Hotel property owners",
+    "Hotel chains",
     "Airlines",
     "Car rental agencies",
-    "Travel insurance providers",
-    "Airport service operators"
+    "CAT",
+    "Cruise lines"
   ],
   "downstream": [
-    "Individual leisure travelers",
-    "Corporate travel departments",
+    "Individual travelers",
+    "Corporate travel managers",
     "Travel agencies",
-    "Online travel aggregators",
-    "Event and conference organizers"
+    "Travel bloggers",
+    "Travel influencers"
   ],
   "competitors": [
-    "Expedia Group Inc.",
-    "TripAdvisor Inc.",
-    "Airbnb Inc.",
-    "Priceline Group Inc.",
-    "Kayak Inc."
+    "Expedia Group",
+    "Trip.com",
+    "Airbnb",
+    "TripAdvisor",
+    "Skyscanner"
   ],
   "key_products": [
-    "Online hotel booking platform",
-    "Flight reservation system",
-    "Car rental booking service",
-    "Vacation package bundles",
-    "Travel search engine"
+    "Booking.com",
+    "Priceline.com",
+    "Kayak.com",
+    "Agoda.com",
+    "OpenTable"
   ],
-  "extracted_at": "2026-03-27 16:53:10",
+  "extracted_at": "2026-04-07 16:54:03",
   "sources": [
     {
       "source": "Wikipedia",
@@ -59,9 +59,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/BKNG-Customers",
+      "url": "https://www.booking.com/index.en-gb.html",
       "query": "Booking Holdings Inc. major customers clients",
-      "snippet": "Booking Holdings Inc customers and markets, results by customer and performance relative to BKNG, by company and industry - CSIMarket"
+      "snippet": "Explore the world with Booking .com. Big savings on homes, hotels, flights, car rentals, taxis and attractions – build your perfect trip on any budget"
     }
   ]
 }

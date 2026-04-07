@@ -7,31 +7,31 @@
     "AMZN",
     "MSFT",
     "GOOGL",
-    "IBM",
-    "ORCL"
+    "ORCL",
+    "IBM"
   ],
   "downstream": [
     "U.S. Department of Defense",
+    "INTC",
     "U.S. Department of Justice",
-    "U.S. Department of Homeland Security",
-    "JPMorgan Chase",
-    "Walmart"
+    "Walmart",
+    "JPMorgan Chase"
   ],
   "competitors": [
     "Snowflake",
     "Databricks",
     "Splunk",
-    "Alteryx",
-    "IBM"
+    "MSFT",
+    "SAS"
   ],
   "key_products": [
     "Gotham",
     "Foundry",
-    "Apollo",
-    "Palantir Platform",
-    "Palantir Data Integration"
+    "Palantir Apollo",
+    "Palantir Helios",
+    "Palantir Foundry Analytics Suite"
   ],
-  "extracted_at": "2026-04-06 16:38:50",
+  "extracted_at": "2026-04-07 16:48:37",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,15 +41,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/PLTR-Suppliers",
+      "url": "https://en.wikipedia.org/wiki/Palantir",
       "query": "Palantir Technologies Inc. suppliers manufacturers",
-      "snippet": "Feb 19, 2026 · Palantir Technologies Inc 's Suppliers recorded an increase in sales by 25.84 % year on year in Q4 2025, sequentially sales grew by 0.0"
+      "snippet": "Palantir Technologies Inc . Palantir Technologies Inc . is an American publicly traded company that develops data integration and analytics platforms "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://theirstack.com/en/technology/palantir",
+      "url": "https://finance.yahoo.com/quote/PLTR/",
       "query": "Palantir Technologies Inc. suppliers manufacturers",
-      "snippet": "Download a list of 3,467 companies that use Palantir with enriched data including industry, company size, location, funding rounds, and revenue figure"
+      "snippet": "Find the latest Palantir Technologies Inc . (PLTR) stock quote, history, news and other vital information to help you with your stock trading and inve"
     },
     {
       "source": "DuckDuckGo",

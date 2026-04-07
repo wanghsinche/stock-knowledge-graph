@@ -1,57 +1,57 @@
 ---
 ticker: MSTR
-company: MicroStrategy Incorporated
+company: Strategy Inc
 sector: Technology
 industry: Software - Application
-extracted_at: 2026-04-06 16:40:28
-last_updated: 2026-04-06
+extracted_at: 2026-04-07 16:51:46
+last_updated: 2026-04-07
 ---
 
-# MSTR - MicroStrategy Incorporated
+# MSTR - Strategy Inc
 
 ## 基本信息
 
 - **所属行业**: Technology / Software - Application
-- **提取时间**: 2026-04-06 16:40:28
+- **提取时间**: 2026-04-07 16:51:46
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Iowa-Des Moines Supply]]
-- [[Robust Solutions]]
-- [[AMZN]]
 - [[MSFT]]
+- [[AMZN]]
 - [[GOOGL]]
+- [[ORCL]]
+- [[IBM]]
 
 ### 下游客户
-- [[Retail sector]]
-- [[Financial Services sector]]
-- [[Healthcare sector]]
-- [[CAT]]
-- [[Manufacturing sector]]
+- [[Bank of America]]
+- [[Walmart]]
+- [[Coca‑Cola]]
+- [[General Electric]]
+- [[UnitedHealth Group]]
 
 ### 竞争对手
 - [[Tableau]]
-- [[Power BI]]
 - [[Qlik]]
-- [[Looker]]
+- [[MSFT]]
 - [[SAP BusinessObjects]]
+- [[ORCL]]
 
 ### 核心产品
-- [[MicroStrategy Analytics Platform]]
+- [[MicroStrategy Desktop]]
+- [[MicroStrategy Server]]
 - [[MicroStrategy Cloud]]
 - [[MicroStrategy Mobile]]
-- [[MicroStrategy Data Warehouse]]
-- [[MicroStrategy Data Science]]
+- [[MicroStrategy Analytics]]
 
 ## 数据来源
 
 - 
-- [Strategy Inc suppliers manufacturers](https://iowadesmoinessupply.com/)
-- [Strategy Inc suppliers manufacturers](https://www.industryselect.com/blog/top-10-manufacturing-companies-in-iowa)
-- [Strategy Inc major customers clients](https://www.strategy.com/software/news/strategy-recognized-as-a-customers-choice-on-gartner-peer-insights-through-user-feedback-for-fourth-consecutive-year)
-- [Strategy Inc major customers clients](https://csimarket.com/stocks/STRF-Customers)
+- [Strategy Inc suppliers manufacturers](https://finance.yahoo.com/quote/MSTR/)
+- [Strategy Inc suppliers manufacturers](https://ru.tradingview.com/symbols/NASDAQ-MSTR/)
+- [Strategy Inc major customers clients](https://en.wikipedia.org/wiki/MicroStrategy)
+- [Strategy Inc major customers clients](https://www.strategy.com/software/customer-stories)
 
 ## 元数据
 
-- **更新日期**: 2026-04-06
+- **更新日期**: 2026-04-07

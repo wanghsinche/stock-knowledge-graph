@@ -12,26 +12,30 @@
   ],
   "downstream": [
     "Individual consumers",
+    "Commercial fleet operators",
     "Utility companies",
-    "Commercial businesses",
     "Government agencies",
-    "Fleet operators"
+    "Retail partners"
   ],
   "competitors": [
-    "Ford",
+    "Ford Motor Company",
     "General Motors",
-    "Volkswagen",
-    "Toyota",
-    "Hyundai"
+    "Volkswagen AG",
+    "Rivian Automotive",
+    "Lucid Motors"
   ],
   "key_products": [
+    "Model S",
     "Model 3",
+    "Model X",
     "Model Y",
     "Cybertruck",
     "Powerwall",
-    "Solar Roof"
+    "Powerpack",
+    "Solar Roof",
+    "Solar Panels"
   ],
-  "extracted_at": "2026-04-06 16:36:12",
+  "extracted_at": "2026-04-07 16:45:56",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +45,27 @@
     },
     {
       "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/List_of_Tesla_factories",
+      "query": "Tesla, Inc. suppliers manufacturers",
+      "snippet": "List of Tesla factories Robotic manufacturing of the Model S at the Tesla Factory in Fremont, California Tesla, Inc . manufactures their products worl"
+    },
+    {
+      "source": "DuckDuckGo",
       "url": "https://www.investopedia.com/ask/answers/052815/who-are-teslas-tsla-main-suppliers.asp",
       "query": "Tesla, Inc. suppliers manufacturers",
       "snippet": "Nov 4, 2025 · Discover Tesla's key and rumored parts suppliers . Learn which companies provide essential components for Tesla's electric vehicles and "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/TSLA-Suppliers",
-      "query": "Tesla, Inc. suppliers manufacturers",
-      "snippet": "Mar 3, 2026 · Tesla Inc supply chain, list and performance of Tesla Incs' suppliers - CSIMarket"
-    },
-    {
-      "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Tesla,_Inc.",
       "query": "Tesla, Inc. major customers clients",
-      "snippet": "Tesla , Inc . is an American multinational automotive and clean energy company. Tesla was incorporated in July 2003 by Martin Eberhard and Marc Tarpen"
+      "snippet": "17 hours ago - Tesla Energy products include solar panels (built by other companies for Tesla), the Tesla Solar Roof (a solar shingle system), and the"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.tesla.com/",
+      "url": "https://www.tesla.com/customer-stories",
       "query": "Tesla, Inc. major customers clients",
-      "snippet": "Video Guides. Customer Stories. Events. Safety.Explore limited-time offers on Tesla vehicles."
+      "snippet": "Incentives · Support · Partner with Tesla · Commercial · Utilities · Learn · LearnShop · LearnFind · LearnOrder · LearnOrder · Help Me Charge · Chargi"
     }
   ]
 }

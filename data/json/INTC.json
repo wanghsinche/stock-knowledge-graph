@@ -4,16 +4,16 @@
   "sector": "Technology",
   "industry": "Semiconductors",
   "upstream": [
-    "TSM",
-    "005930.KS",
-    "MU",
-    "SK Hynix",
-    "GlobalFoundries"
+    "ASML",
+    "AMAT",
+    "LRCX",
+    "CAT",
+    "Silicon wafer suppliers (e.g., Siltronic, Sumco)"
   ],
   "downstream": [
     "DELL",
     "HPQ",
-    "Lenovo",
+    "Lenovo Group",
     "AAPL",
     "MSFT"
   ],
@@ -25,13 +25,13 @@
     "005930.KS"
   ],
   "key_products": [
-    "Intel Core CPUs",
-    "Xeon Processors",
-    "FPGAs",
-    "AI Accelerators",
-    "Chipsets"
+    "Intel Core processors",
+    "Intel Xeon processors",
+    "Intel Arc GPUs",
+    "Intel FPGAs (Stratix, Arria)",
+    "Intel AI inference chips (Xeon Phi, Habana Labs)"
   ],
-  "extracted_at": "2026-04-06 16:38:06",
+  "extracted_at": "2026-04-07 16:47:12",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Intel",
+      "url": "https://en.wikipedia.org/wiki/List_of_Intel_manufacturing_sites",
       "query": "Intel Corporation suppliers manufacturers",
-      "snippet": "Intel Corporation is an American multinational technology company headquartered in Santa Clara, California. It designs, manufactures , and sells compu"
+      "snippet": "List of Intel manufacturing sites Intel is an American multinational corporation and technology company headquartered in Santa Clara, California . Pro"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ru.wikipedia.org/wiki/Intel",
+      "url": "https://www.intel.com/content/www/us/en/partner/showcase/partner-directory/distributor.html",
       "query": "Intel Corporation suppliers manufacturers",
-      "snippet": "Intel — американская компания, разработчик и производитель электронных устройств и компьютерных компонентов: микропроцессоров и наборов системной логи"
+      "snippet": "Distributor Partner Directory Sell Intel ® Products directly sourced from Intel as well as devices manufactured by OEMs Return to Intel ® Partner Show"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.intel.com/content/www/us/en/customer-spotlight/overview.html",
+      "url": "https://www.crn.com/news/components-peripherals/2025/intel-s-earnings-bombshell-layoffs-foundry-warnings-and-other-things-to-know",
       "query": "Intel Corporation major customers clients",
-      "snippet": "Explore the Intel Customer Spotlight for the latest customer stories, case studies, and testimonials highlighting data-centric innovations."
+      "snippet": "In Intel ’s quarterly filing with the U.S. Securities and Exchange Commission, the company said that it has been “unsuccessful to date in securing any"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.investopedia.com/articles/markets/100214/inside-intel-look-mega-chipmaker.asp",
+      "url": "https://newsroom.intel.com/corporate/intel-vision-2025-lip-bu-tan-keynote",
       "query": "Intel Corporation major customers clients",
-      "snippet": "Mar 3, 2026 · In 2023, Intel had three major customers that were responsible for 40% of the company’s net revenue: Dell, Lenovo Group Limited, and HP "
+      "snippet": "Intel Vision Keynote Highlights: Intel ’s New Era Emphasizes Engineering, Culture, Customers . Intel , the Intel logo and other Intel marks are tradem"
     }
   ]
 }

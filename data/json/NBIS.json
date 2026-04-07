@@ -4,20 +4,34 @@
   "sector": "Communication Services",
   "industry": "Internet Content & Information",
   "upstream": [
-    "Nebius Group N.V."
+    "NVDA",
+    "AMD",
+    "INTC",
+    "GOOGL",
+    "AMZN"
   ],
   "downstream": [
-    "Nebius Group N.V. customers"
+    "Financial institutions",
+    "CAT",
+    "E‑commerce platforms",
+    "Healthcare providers",
+    "Government agencies"
   ],
-  "competitors": [],
+  "competitors": [
+    "OpenAI",
+    "DeepMind",
+    "Anthropic",
+    "Cohere",
+    "AI21 Labs"
+  ],
   "key_products": [
-    "Artificial Intelligence infrastructure",
-    "Avride",
-    "TripleTen",
-    "Toloka",
-    "Clickhouse"
+    "AI infrastructure platform",
+    "AI training services",
+    "AI inference services",
+    "AI data labeling (Toloka)",
+    "AI analytics (Clickhouse)"
   ],
-  "extracted_at": "2026-04-06 16:41:36",
+  "extracted_at": "2026-04-07 16:51:21",
   "sources": [
     {
       "source": "Wikipedia",
@@ -33,21 +47,21 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/suppliers_glance.php?code=NBIS",
+      "url": "https://finance.yahoo.com/quote/NBIS/",
       "query": "NBIS suppliers manufacturers",
-      "snippet": "NBIS 's Suppliers Management Effectiveness. NBIS 's Competitors Results.Nebius Group N V's Comment on Supply Chain. NBIS 's Stock Perfrormance relativ"
+      "snippet": "Find the latest Nebius Group N.V. ( NBIS ) stock quote, history, news and other vital information to help you with your stock trading and investing."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/NBIS-Customers",
+      "query": "NBIS major customers clients",
+      "snippet": "5 days ago · Nebius Group N V customers and markets, results by customer and performance relative to NBIS , by company and industry - CSIMarket"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.dcsa.mil/Systems-Applications/National-Background-Investigation-Services-NBIS/",
       "query": "NBIS major customers clients",
       "snippet": "The purpose of NBIS is to modernize, streamline and secure the entire process to enhance the user experience and provide a reliable and integrated set"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/NBIS-Customers",
-      "query": "NBIS major customers clients",
-      "snippet": "4 days ago · Nebius Group N V customers and markets, results by customer and performance relative to NBIS , by company and industry - CSIMarket"
     }
   ]
 }

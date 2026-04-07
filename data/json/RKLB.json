@@ -3,11 +3,35 @@
   "company_name": "Rocket Lab Corporation",
   "sector": "Industrials",
   "industry": "Aerospace & Defense",
-  "upstream": [],
-  "downstream": [],
-  "competitors": [],
-  "key_products": [],
-  "extracted_at": "2026-04-06 16:41:22",
+  "upstream": [
+    "Star trackers",
+    "Reaction wheels",
+    "Solar panels",
+    "Software‑defined radios",
+    "Composite structures"
+  ],
+  "downstream": [
+    "Commercial small‑satellite operators",
+    "Research institutions",
+    "Government space agencies",
+    "Space‑based imaging companies",
+    "Satellite constellation developers"
+  ],
+  "competitors": [
+    "SpaceX",
+    "Blue Origin",
+    "Relativity Space",
+    "Virgin Orbit",
+    "Arianespace"
+  ],
+  "key_products": [
+    "Electron orbital rocket",
+    "HASTE suborbital testbed",
+    "Neutron medium‑lift launch vehicle",
+    "Satellite components (star trackers, reaction wheels, etc.)",
+    "Launch services for small satellites"
+  ],
+  "extracted_at": "2026-04-07 16:51:34",
   "sources": [
     {
       "source": "Wikipedia",
@@ -23,9 +47,21 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/RKLB/profile/?fr=sycsrp_catchall",
+      "url": "https://www.satnow.com/news/details/4964-rocket-lab-secures-regulatory-approval-to-acquire-mynaric",
       "query": "Rocket Lab Corporation suppliers manufacturers",
-      "snippet": "See the company profile for Rocket Lab Corporation (RKLB) including business summary, industry/sector information, number of employees, business summa"
+      "snippet": "4 days ago · Rocket Lab Corporation , a global leader in launch services and space systems, announced it has received regulatory approval to acquire M"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://rocketlabcorp.com/",
+      "query": "Rocket Lab Corporation major customers clients",
+      "snippet": "Cumulative Years In Space For Rocket Lab Satellite Technology. From Idea To Orbit. Rocket Lab is an end-to-end space company delivering reliable launc"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://ts2.tech/en/rocket-lab-stock-jumps-as-germany-clears-mynaric-buyout-putting-europe-push-in-reach/",
+      "query": "Rocket Lab Corporation major customers clients",
+      "snippet": "Rocket Lab Corporation . Rocket Lab , on its end, has argued the deal would tighten its grip on a crucial component and sharpen its pitch to European "
     }
   ]
 }

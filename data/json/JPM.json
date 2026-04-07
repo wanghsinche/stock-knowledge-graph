@@ -5,33 +5,33 @@
   "industry": "Banks - Diversified",
   "upstream": [
     "MSFT",
-    "IBM",
-    "ORCL",
-    "CRM",
-    "Accenture"
+    "Payment processors (Visa, Mastercard)",
+    "Data providers (Bloomberg, Thomson Reuters)",
+    "Legal services firms (DLA Piper, Skadden)",
+    "Management consulting firms (McKinsey, Accenture)"
   ],
   "downstream": [
-    "Fortune 500 corporations",
-    "U.S. federal government",
-    "Large multinational firms",
-    "Small and medium enterprises",
-    "Retail consumers"
+    "Retail banking customers",
+    "Corporate and institutional clients",
+    "Wealth management clients",
+    "Small and medium business customers",
+    "Investment banking and capital markets clients"
   ],
   "competitors": [
-    "Bank of America",
-    "Citigroup",
-    "Wells Fargo",
-    "Goldman Sachs",
-    "Morgan Stanley"
+    "Bank of America (BAC)",
+    "Citigroup (C)",
+    "Wells Fargo (WFC)",
+    "Goldman Sachs (GS)",
+    "Morgan Stanley (MS)"
   ],
   "key_products": [
     "Retail banking services",
     "Investment banking and advisory",
-    "Wealth and asset management",
-    "Commercial lending",
-    "Credit card and payment solutions"
+    "Asset and wealth management",
+    "Credit card and consumer lending",
+    "Treasury and securities services"
   ],
-  "extracted_at": "2026-04-06 16:42:59",
+  "extracted_at": "2026-04-07 16:53:33",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,15 +41,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.jpmorganchase.com/about/suppliers",
+      "url": "https://en.wikipedia.org/wiki/JPMorgan_Chase",
       "query": "JPMorgan Chase & Co. suppliers manufacturers",
-      "snippet": "At JPMorganChase , we place particular value in our supplier partnerships. Thanks to the help of a diverse range of suppliers and advisors, we are abl"
+      "snippet": "JPMorgan Chase & Co . (stylized as JPMorganChase ) is an American multinational banking institution headquartered in New York City and incorporated in"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/JPM-Suppliers",
+      "url": "https://ru.wikipedia.org/wiki/JPMorgan_Chase",
       "query": "JPMorgan Chase & Co. suppliers manufacturers",
-      "snippet": "Feb 14, 2026 · Jpmorgan Chase And Co supply chain, list and performance of Jpmorgan Chase And Cos ' suppliers - CSIMarket"
+      "snippet": "JPMorgan Chase & Co , «Дж. П. Морган Чейз и Ко.» — американский транснациональный финансовый конгломерат, один из крупнейших банков мира, с центром уп"
     },
     {
       "source": "DuckDuckGo",

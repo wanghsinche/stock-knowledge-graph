@@ -1,48 +1,48 @@
 ---
 ticker: BKNG
 company: Booking Holdings Inc.
-sector: Consumer Cyclical
-industry: Travel Services
-extracted_at: 2026-03-27 16:53:10
-last_updated: 2026-03-27
+sector: Consumer Cyclical / Travel Services
+industry: Travel Technology
+extracted_at: 2026-04-07 16:54:03
+last_updated: 2026-04-07
 ---
 
 # BKNG - Booking Holdings Inc.
 
 ## 基本信息
 
-- **所属行业**: Consumer Cyclical / Travel Services
-- **提取时间**: 2026-03-27 16:53:10
+- **所属行业**: Consumer Cyclical / Travel Services / Travel Technology
+- **提取时间**: 2026-04-07 16:54:03
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Hotel property owners]]
+- [[Hotel chains]]
 - [[Airlines]]
 - [[Car rental agencies]]
-- [[Travel insurance providers]]
-- [[Airport service operators]]
+- [[CAT]]
+- [[Cruise lines]]
 
 ### 下游客户
-- [[Individual leisure travelers]]
-- [[Corporate travel departments]]
+- [[Individual travelers]]
+- [[Corporate travel managers]]
 - [[Travel agencies]]
-- [[Online travel aggregators]]
-- [[Event and conference organizers]]
+- [[Travel bloggers]]
+- [[Travel influencers]]
 
 ### 竞争对手
-- [[Expedia Group Inc.]]
-- [[TripAdvisor Inc.]]
-- [[Airbnb Inc.]]
-- [[Priceline Group Inc.]]
-- [[Kayak Inc.]]
+- [[Expedia Group]]
+- [[Trip.com]]
+- [[Airbnb]]
+- [[TripAdvisor]]
+- [[Skyscanner]]
 
 ### 核心产品
-- [[Online hotel booking platform]]
-- [[Flight reservation system]]
-- [[Car rental booking service]]
-- [[Vacation package bundles]]
-- [[Travel search engine]]
+- [[Booking.com]]
+- [[Priceline.com]]
+- [[Kayak.com]]
+- [[Agoda.com]]
+- [[OpenTable]]
 
 ## 数据来源
 
@@ -50,8 +50,8 @@ last_updated: 2026-03-27
 - [Booking Holdings Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/Booking_Holdings)
 - [Booking Holdings Inc. suppliers manufacturers](https://csimarket.com/stocks/BKNG-Suppliers)
 - [Booking Holdings Inc. major customers clients](https://en.wikipedia.org/wiki/Booking_Holdings)
-- [Booking Holdings Inc. major customers clients](https://csimarket.com/stocks/BKNG-Customers)
+- [Booking Holdings Inc. major customers clients](https://www.booking.com/index.en-gb.html)
 
 ## 元数据
 
-- **更新日期**: 2026-03-27
+- **更新日期**: 2026-04-07

@@ -4,34 +4,34 @@
   "sector": "Technology",
   "industry": "Semiconductors",
   "upstream": [
+    "Silicon wafer suppliers (e.g., Shin‑Etsu Chemical, Sumitomo Chemical)",
     "AMAT",
-    "ASML",
-    "LRCX",
-    "Tokyo Electron",
-    "KLA"
+    "Chemical suppliers (e.g., Dow Chemical, DuPont)",
+    "Packaging and assembly suppliers (e.g., Amkor Technology)",
+    "Test and measurement equipment suppliers (e.g., Teradyne)"
   ],
   "downstream": [
     "AAPL",
-    "005930.KS",
     "DELL",
     "HPQ",
-    "MSFT"
+    "Lenovo Group",
+    "AMZN"
   ],
   "competitors": [
     "005930.KS",
     "SK Hynix",
-    "Nanya Technology",
-    "Kingston Technology",
-    "Crucial"
+    "Kioxia",
+    "WDC",
+    "INTC"
   ],
   "key_products": [
-    "DRAM",
-    "NAND flash memory",
-    "SSD",
-    "Memory modules",
-    "Embedded memory"
+    "Dynamic Random‑Access Memory (DRAM)",
+    "NAND Flash Memory",
+    "Solid‑State Drives (SSDs)",
+    "Mobile DRAM",
+    "Embedded DRAM (eDRAM)"
   ],
-  "extracted_at": "2026-04-06 16:36:33",
+  "extracted_at": "2026-04-07 16:46:18",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
+      "url": "https://www.micron.com/sales-support/sales-network/authorized-distributors",
+      "query": "Micron Technology, Inc. suppliers manufacturers",
+      "snippet": "Learn about Micron 's presence around the globe, including a list of our distributors, branches and contact details."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/MU-Suppliers",
+      "query": "Micron Technology, Inc. suppliers manufacturers",
+      "snippet": "Mar 20, 2026 · Micron Technology Inc 's Comment on Supply Chain Our operations require raw materials that meet exacting standards. We generally have m"
+    },
+    {
+      "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Micron_Technology",
-      "query": "Micron Technology, Inc. suppliers manufacturers",
-      "snippet": "Micron Technology , Inc . is an American multinational semiconductor company that manufactures computer memory and computer data storage products, inc"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.micron.com/",
-      "query": "Micron Technology, Inc. suppliers manufacturers",
-      "snippet": "Explore Micron Technology , leading in semiconductors with a broad range of performance-enhancing memory and storage solutions.Sales network. Supplier"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/MU-Customers",
       "query": "Micron Technology, Inc. major customers clients",
-      "snippet": "Micron Technology Inc customers and markets, results by customer and performance relative to MU, by company and industry - CSIMarket"
+      "snippet": "4 days ago - In the 2012 to 2014 period, Micron again went through an acquisition-layoff cycle, becoming the majority shareholder of Inotera Memories,"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.micron.com/markets-industries/customer-and-partner-storage-success",
+      "url": "https://www.quora.com/Who-are-the-customers-of-Micron-Technology",
       "query": "Micron Technology, Inc. major customers clients",
-      "snippet": "Explore how Micron Technology collaborates with customers and partners to create storage solutions that enable the world's most advanced workloads."
+      "snippet": "Answer (1 of 2): Micron Technology is a company that manufactures semiconductor products. I think their main customers are companies that produce elec"
     }
   ]
 }

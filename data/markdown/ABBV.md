@@ -3,8 +3,8 @@ ticker: ABBV
 company: AbbVie Inc.
 sector: Healthcare
 industry: Drug Manufacturers - General
-extracted_at: 2026-03-18 16:57:10
-last_updated: 2026-03-18
+extracted_at: 2026-04-07 16:54:37
+last_updated: 2026-04-07
 ---
 
 # ABBV - AbbVie Inc.
@@ -12,46 +12,46 @@ last_updated: 2026-03-18
 ## 基本信息
 
 - **所属行业**: Healthcare / Drug Manufacturers - General
-- **提取时间**: 2026-03-18 16:57:10
+- **提取时间**: 2026-04-07 16:54:37
 
 ## 产业链关系
 
 ### 上游供应商
 - [[Abbott Laboratories]]
 - [[Pfizer]]
-- [[Johnson & Johnson]]
 - [[Merck & Co.]]
-- [[Bristol-Myers Squibb]]
+- [[Bristol Myers Squibb]]
+- [[Johnson & Johnson]]
 
 ### 下游客户
-- [[United States Department of Veterans Affairs]]
-- [[Medicare]]
-- [[Private health insurers]]
-- [[Hospitals and health systems]]
-- [[Pharmacies and retail chains]]
+- [[Hospitals]]
+- [[Pharmacies]]
+- [[Health Systems]]
+- [[Insurance Companies]]
+- [[Government Health Agencies]]
 
 ### 竞争对手
 - [[Pfizer]]
 - [[Johnson & Johnson]]
 - [[Merck & Co.]]
-- [[Bristol-Myers Squibb]]
-- [[Amgen]]
+- [[Bristol Myers Squibb]]
+- [[Eli Lilly]]
 
 ### 核心产品
-- [[Humira (adalimumab)]]
-- [[Imbruvica (ibrutinib)]]
-- [[Venclexta (venetoclax)]]
-- [[Venclexta (venetoclax) for CLL]]
-- [[Venclexta (venetoclax) for AML]]
+- [[Humira]]
+- [[Imbruvica]]
+- [[Venclexta]]
+- [[Mavyret]]
+- [[Venclexta]]
 
 ## 数据来源
 
 - [AbbVie](https://en.wikipedia.org/wiki/AbbVie_Inc.)
 - [AbbVie Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/Abbott_Laboratories)
-- [AbbVie Inc. suppliers manufacturers](https://www.abbvie.com/)
+- [AbbVie Inc. suppliers manufacturers](https://csimarket.com/stocks/ABBV-Suppliers)
 - [AbbVie Inc. major customers clients](https://csimarket.com/stocks/ABBV-Customers)
-- [AbbVie Inc. major customers clients](https://canvasbusinessmodel.com/blogs/target-market/abbvie-target-market)
+- [AbbVie Inc. major customers clients](https://businessmodelcanvastemplate.com/blogs/target-market/abbvie-target-market)
 
 ## 元数据
 
-- **更新日期**: 2026-03-18
+- **更新日期**: 2026-04-07

@@ -1,37 +1,37 @@
 {
   "ticker": "AVGO",
   "company_name": "Broadcom Inc.",
-  "sector": "Technology / Semiconductors",
+  "sector": "Technology",
   "industry": "Semiconductors",
   "upstream": [
+    "AMAT",
     "TSM",
-    "005930.KS",
-    "GlobalFoundries",
-    "INTC",
-    "QCOM"
+    "IP licensors (ARM)",
+    "LRCX",
+    "Design tools (Cadence, Synopsys)"
   ],
   "downstream": [
     "CSCO",
+    "Huawei",
     "DELL",
-    "MSFT",
-    "AMZN",
-    "AAPL"
+    "IBM",
+    "MSFT"
   ],
   "competitors": [
     "QCOM",
     "INTC",
     "NVDA",
-    "TXN",
-    "MRVL"
+    "MRVL",
+    "TXN"
   ],
   "key_products": [
+    "Broadcom ASICs for networking",
     "Broadcom Wi‑Fi chips",
     "Broadcom Ethernet controllers",
-    "Broadcom broadband modems",
-    "Broadcom data center networking chips",
-    "Broadcom storage controllers"
+    "Broadcom storage controllers",
+    "Broadcom wireless modems"
   ],
-  "extracted_at": "2026-04-06 16:39:04",
+  "extracted_at": "2026-04-07 16:46:51",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,21 +47,21 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.broadcom.com/how-to-buy/partner-distributor-lookup",
+      "url": "https://ru.wikipedia.org/wiki/Broadcom_Inc.",
       "query": "Broadcom Inc. suppliers manufacturers",
-      "snippet": "Find a local reseller or global distributor of every Broadcom software solution for your business or enterprise, spanning the desktop to the Mainframe"
+      "snippet": "Broadcom Inc . — американская компания по разработке полупроводниковой продукции и программного обеспечения со штаб-квартирой в Пало-Алто (Калифорния,"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/AVGO-Customers",
+      "url": "https://en.wikipedia.org/wiki/Broadcom",
       "query": "Broadcom Inc. major customers clients",
-      "snippet": "Broadcom Inc customers and markets, results by customer and performance relative to AVGO, by company and industry - CSIMarket"
+      "snippet": "Broadcom Inc . is an American multinational designer, developer, manufacturer, and global supplier of a wide range of semiconductor and infrastructure"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.appsruntheworld.com/customers-database/vendors/view/broadcom",
+      "url": "https://ru.wikipedia.org/wiki/Broadcom_Inc.",
       "query": "Broadcom Inc. major customers clients",
-      "snippet": "List of companies using or evaluating Broadcom applications, with details on their revenues, employees, industries, and locations."
+      "snippet": "Broadcom Inc . — американская компания по разработке полупроводниковой продукции и программного обеспечения со штаб-квартирой в Пало-Алто. На счету ко"
     }
   ]
 }

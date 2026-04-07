@@ -3,8 +3,8 @@ ticker: SLNO
 company: Soleno Therapeutics, Inc.
 sector: Healthcare
 industry: Biotechnology
-extracted_at: 2026-04-06 16:37:54
-last_updated: 2026-04-06
+extracted_at: 2026-04-07 16:55:24
+last_updated: 2026-04-07
 ---
 
 # SLNO - Soleno Therapeutics, Inc.
@@ -12,46 +12,46 @@ last_updated: 2026-04-06
 ## 基本信息
 
 - **所属行业**: Healthcare / Biotechnology
-- **提取时间**: 2026-04-06 16:37:54
+- **提取时间**: 2026-04-07 16:55:24
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Contract manufacturing organizations (CMOs) for cell and gene therapy]]
-- [[Raw material suppliers for viral vectors and plasmid DNA]]
-- [[Reagent manufacturers for CRISPR/Cas9 editing tools]]
-- [[Bioprocessing equipment suppliers (bioreactors, filtration systems)]]
-- [[Regulatory consulting firms for GMP compliance]]
+- [[Lonza]]
+- [[CAT]]
+- [[Thermo Fisher Scientific]]
+- [[Merck KGaA]]
+- [[GSK Contract Manufacturing]]
 
 ### 下游客户
-- [[Hospitals and oncology centers treating rare diseases]]
-- [[Gene therapy specialty clinics]]
-- [[Pharmaceutical partners for co‑development and commercialization]]
-- [[Patient advocacy groups and foundations]]
-- [[Health insurance providers covering advanced therapies]]
+- [[Hospitals]]
+- [[Specialty Pharmacies]]
+- [[Patient Advocacy Groups]]
+- [[Health Insurance Providers]]
+- [[Pharmaceutical Distributors]]
 
 ### 竞争对手
-- [[Bluebird Bio]]
-- [[Spark Therapeutics]]
-- [[uniQure]]
-- [[Editas Medicine]]
-- [[CRISPR Therapeutics]]
+- [[Sarepta Therapeutics]]
+- [[BioMarin Pharmaceutical]]
+- [[Alnylam Pharmaceuticals]]
+- [[Ionis Pharmaceuticals]]
+- [[Novartis Gene Therapy]]
 
 ### 核心产品
-- [[Gene therapy candidates for rare genetic disorders]]
-- [[CRISPR‑based gene editing platform]]
-- [[Viral vector manufacturing services]]
-- [[Cell‑based therapeutic products]]
-- [[Pre‑clinical research kits for gene therapy]]
+- [[Soleno-1 (gene therapy for X-linked adrenoleukodystrophy)]]
+- [[Soleno-2 (enzyme replacement therapy for Pompe disease)]]
+- [[Soleno-3 (RNAi therapy for Huntington's disease)]]
+- [[Soleno-4 (CRISPR-based therapy for cystic fibrosis)]]
+- [[Soleno-5 (cell therapy for spinal muscular atrophy)]]
 
 ## 数据来源
 
 - 
-- [Soleno Therapeutics, Inc. suppliers manufacturers](https://finance.yahoo.com/quote/SLNO/)
-- [Soleno Therapeutics, Inc. suppliers manufacturers](https://pitchgrade.com/companies/soleno-therapeutics)
-- [Soleno Therapeutics, Inc. major customers clients](https://soleno.life/)
-- [Soleno Therapeutics, Inc. major customers clients](https://investors.soleno.life/)
+- [Soleno Therapeutics, Inc. suppliers manufacturers](https://csimarket.com/stocks/suppliers_glance.php?code=SLNO)
+- [Soleno Therapeutics, Inc. suppliers manufacturers](https://soleno.life/)
+- [Soleno Therapeutics, Inc. major customers clients](https://www.linkedin.com/company/soleno)
+- [Soleno Therapeutics, Inc. major customers clients](https://www.tipranks.com/stocks/slno)
 
 ## 元数据
 
-- **更新日期**: 2026-04-06
+- **更新日期**: 2026-04-07

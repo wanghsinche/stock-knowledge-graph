@@ -1,37 +1,37 @@
 {
   "ticker": "AAOI",
   "company_name": "Applied Optoelectronics, Inc.",
-  "sector": "Technology",
-  "industry": "Communication Equipment",
+  "sector": "Technology / Communication Equipment",
+  "industry": "Fiber Optic Communications Equipment",
   "upstream": [
-    "Semiconductor manufacturers",
-    "Laser diode suppliers",
     "Optical fiber manufacturers",
-    "Photonic component suppliers",
-    "Electronic packaging suppliers"
+    "Semiconductor suppliers",
+    "Optical connector manufacturers",
+    "Cable assembly suppliers",
+    "Precision machining suppliers"
   ],
   "downstream": [
-    "Hyperscale data center operators",
     "CAT",
-    "Cloud service providers",
-    "Enterprise networking vendors",
-    "Telecom equipment manufacturers"
+    "Data center operators",
+    "Network equipment vendors",
+    "Enterprise networking customers",
+    "Government agencies"
   ],
   "competitors": [
-    "Lumentum Holdings Inc.",
+    "Corning",
+    "Lumentum",
+    "Finisar",
     "II-VI Incorporated",
-    "Coherent, Inc.",
-    "NKT Photonics A/S",
-    "AVGO"
+    "Ciena"
   ],
   "key_products": [
-    "Optical transceivers",
-    "Laser diodes",
+    "Fiber optic transceivers",
     "Optical modules",
-    "Photonic integrated circuits",
-    "Optical fiber components"
+    "Fiber optic cables",
+    "Optical connectors",
+    "Optical switches"
   ],
-  "extracted_at": "2026-04-06 16:39:17",
+  "extracted_at": "2026-04-07 16:50:26",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
+      "url": "https://www.crunchbase.com/organization/applied-optoelectronics-inc",
+      "query": "Applied Optoelectronics, Inc. suppliers manufacturers",
+      "snippet": "Applied Optoelectronics designs and manufactures fiber optic networking products for cable television, fiber-to-the-home, and data centers."
+    },
+    {
+      "source": "DuckDuckGo",
       "url": "https://gritcap.io/p/breaking-down-applied-optoelectronics-inc-aaoi",
       "query": "Applied Optoelectronics, Inc. suppliers manufacturers",
       "snippet": "Stock Deep Dive: Applied Optoelectronics Inc . (AAOI-US, $6.5B). Applied Optoelectronics isn’t building the AI chips that grab the headlines. It’s bui"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://everyticker.com/quote/AAOI",
-      "query": "Applied Optoelectronics, Inc. suppliers manufacturers",
-      "snippet": "Applied Optoelectronics , Inc . (AAOI) designs and manufactures vertically integrated fiber-optic components and transceivers, serving cable TV (CATV)"
+      "url": "https://www.pitchgrade.com/companies/applied-optoelectronics-inc",
+      "query": "Applied Optoelectronics, Inc. major customers clients",
+      "snippet": "The major competitors of Applied Optoelectronics Inc in the industry and how the company positions itself amidst the competition. A comprehensive SWOT"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/applied-optoelectronics-aaoi-5-8-110836138.html?fr=sycsrp_catchall",
+      "url": "https://www.marketwatch.com/investing/stock/aaoi",
       "query": "Applied Optoelectronics, Inc. major customers clients",
-      "snippet": "2 days ago · In late March and early April 2026, Applied Optoelectronics announced it had secured a combined US$124 million in 800G single‑mode data c"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.alphapilot.tech/discover/applied-optoelectronics-secures-71-million-800g-transceiver-order-from-major-hyperscale-customer",
-      "query": "Applied Optoelectronics, Inc. major customers clients",
-      "snippet": "4 days ago · Summary This latest $71 million commitment from a major hyperscale client brings the total orders from this specific customer to $124 mil"
+      "snippet": "AAOI | Complete Applied Optoelectronics Inc . stock news by MarketWatch. View real-time stock prices and stock quotes for a full financial overview."
     }
   ]
 }

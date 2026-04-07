@@ -1,20 +1,20 @@
 {
   "ticker": "CRWV",
   "company_name": "CoreWeave, Inc.",
-  "sector": "Technology / Software - Infrastructure",
-  "industry": "AI Cloud Computing",
+  "sector": "Technology",
+  "industry": "Software - Infrastructure",
   "upstream": [
     "NVDA",
     "AMD",
     "INTC",
-    "QCOM",
-    "Xilinx"
+    "MU",
+    "005930.KS"
   ],
   "downstream": [
-    "OpenAI",
-    "GOOGL",
     "MSFT",
+    "DELL",
     "AMZN",
+    "GOOGL",
     "IBM"
   ],
   "competitors": [
@@ -22,16 +22,16 @@
     "MSFT",
     "GOOGL",
     "NVDA",
-    "Alibaba Cloud"
+    "Paperspace"
   ],
   "key_products": [
-    "GPU Cloud Infrastructure",
-    "AI-native GPU Platform",
-    "Chip Management Software",
-    "GPU-as-a-Service",
-    "AI Workload Optimization"
+    "GPU cloud computing services",
+    "AI cloud platform",
+    "GPU infrastructure",
+    "Chip management software",
+    "Custom AI workload solutions"
   ],
-  "extracted_at": "2026-04-06 16:42:38",
+  "extracted_at": "2026-04-07 16:52:26",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,25 +43,25 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/CoreWeave",
       "query": "CoreWeave, Inc. suppliers manufacturers",
-      "snippet": "CoreWeave , Inc . is an American artificial intelligence (AI) cloud-computing company based in Livingston, New Jersey. It specializes in providing clo"
+      "snippet": "CoreWeave , Inc . is an American artificial intelligence cloud-computing company based in Livingston, New Jersey."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.coreweave.com/",
+      "url": "https://www.roi-nj.com/2026/03/31/tech/coreweave-closes-8-5b-financing-facility-to-support-ai-cloud-platform-expansion/",
       "query": "CoreWeave, Inc. suppliers manufacturers",
-      "snippet": "CoreWeave Cloud is an AI-native platform purpose-built for AI. It combines next-generation infrastructure, intelligent tools, and expert support to po"
+      "snippet": "Livingston-based CoreWeave , Inc . announced that it has closed an $8.5 billion delayed draw term loan facility (DDTL 4.0 Facility), supporting the co"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.coreweave.com/",
+      "url": "https://en.wikipedia.org/wiki/CoreWeave",
       "query": "CoreWeave, Inc. major customers clients",
-      "snippet": "CoreWeave Inc .’s."
+      "snippet": "... top two clients, with Microsoft alone accounting for 62%. In Dec. 2024, Dell and CoreWeave began partnering on infrastructure. In 2025, CoreWeave "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.bloomberg.com/news/articles/2026-03-31/coreweave-crwv-raises-8-5-billion-gpu-loan-backed-by-meta-deal",
+      "url": "https://www.crn.com/news/ai/2025/7-things-to-know-about-coreweave-s-s-1-top-customers-revenue-and-more",
       "query": "CoreWeave, Inc. major customers clients",
-      "snippet": "CoreWeave Inc . has raised $8.5 billion from a group of banks and investors to help finance an expansion of its cloud computing capacity in what the c"
+      "snippet": "Mar 5, 2025 · CoreWeave, a rising AI cloud provider, has revealed fast-growing revenue from a “limited number of customers,” including Microsoft, and "
     }
   ]
 }

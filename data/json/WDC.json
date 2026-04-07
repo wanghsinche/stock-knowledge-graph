@@ -2,36 +2,36 @@
   "ticker": "WDC",
   "company_name": "Western Digital Corporation",
   "sector": "Technology / Computer Hardware",
-  "industry": "Data Storage",
+  "industry": "Hard Disk Drives / Data Storage",
   "upstream": [
     "MU",
-    "005930.KS",
-    "SK Hynix",
-    "TSM",
-    "Amphenol"
+    "TXN",
+    "AMAT",
+    "Firmware development partners",
+    "Supply chain logistics providers"
   ],
   "downstream": [
     "DELL",
     "HPQ",
-    "Lenovo Group",
-    "AMZN",
+    "Lenovo",
+    "AAPL",
     "MSFT"
   ],
   "competitors": [
     "STX",
-    "Kioxia (Toshiba)",
+    "Toshiba",
     "005930.KS",
     "MU",
-    "INTC"
+    "IBM"
   ],
   "key_products": [
-    "WD Blue HDD",
-    "WD Black HDD",
-    "WD Red HDD",
-    "WD Ultrastar DC HDD",
-    "WD My Passport external drive"
+    "Hard Disk Drives (HDD)",
+    "Solid State Drives (SSD)",
+    "External storage devices",
+    "Enterprise storage solutions",
+    "Cloud storage solutions"
   ],
-  "extracted_at": "2026-04-06 16:40:12",
+  "extracted_at": "2026-04-07 16:50:52",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,7 +43,7 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Western_Digital",
       "query": "Western Digital Corporation suppliers manufacturers",
-      "snippet": "Western Digital Corporation , doing business as WD, is an American data storage company headquartered in San Jose, California. Established in 1970, th"
+      "snippet": "Western Digital Corporation , doing business as WD, is an American data storage company headquartered in San Jose , California . Established in 1970, "
     },
     {
       "source": "DuckDuckGo",

@@ -4,34 +4,34 @@
   "sector": "Financial Services",
   "industry": "Credit Services",
   "upstream": [
-    "NXP Semiconductors",
-    "STMicroelectronics",
-    "Giesecke+Devrient",
-    "IDEMIA",
-    "005930.KS"
+    "005930.KS",
+    "MSFT",
+    "Payment network infrastructure providers",
+    "Security and fraud‑prevention solution providers",
+    "Data analytics and cloud service providers"
   ],
   "downstream": [
-    "Bank of America",
-    "Citibank",
-    "Wells Fargo",
-    "Chase",
-    "Consumers"
+    "Retail merchants and e‑commerce platforms",
+    "Banking institutions and credit unions",
+    "Card issuers (e.g., banks, fintechs)",
+    "Mobile wallet and fintech app developers",
+    "Government and public‑sector payment programs"
   ],
   "competitors": [
-    "Visa",
-    "American Express",
-    "Discover",
-    "JCB",
+    "Visa Inc.",
+    "American Express Co.",
+    "Discover Financial Services",
+    "JCB Co. Ltd.",
     "UnionPay"
   ],
   "key_products": [
-    "Payment processing network",
-    "Card issuance services",
-    "Mobile payments",
-    "Contactless payments",
-    "Tokenization"
+    "Payment processing network (Mastercard Network)",
+    "Card issuance and management services",
+    "Tokenization and contactless payment solutions",
+    "Fraud detection and risk management tools",
+    "Data analytics and business intelligence services"
   ],
-  "extracted_at": "2026-04-06 16:45:40",
+  "extracted_at": "2026-04-07 16:54:15",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Mastercard",
+      "url": "https://www.mastercard.com/procurement/us/en/home.html",
       "query": "Mastercard Incorporated suppliers manufacturers",
-      "snippet": "Mastercard Inc . (stylized as MasterCard from 1979 to 2016 and as mastercard from 2016 to 2019) is an American multinational payment card services cor"
+      "snippet": "Mastercard Sourcing & Supplier Management Mastercard Sourcing & Supplier Management provides a competitive advantage to Mastercard by creating and max"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ru.wikipedia.org/wiki/Mastercard",
+      "url": "https://csimarket.com/stocks/MA-Suppliers",
       "query": "Mastercard Incorporated suppliers manufacturers",
-      "snippet": "Mastercard Inc . (ранее MasterCard Worldwide или MasterCard Incorporated ) — международная платёжная система, транснациональная финансовая корпорация,"
+      "snippet": "Feb 12, 2026 · Mastercard Incorporated 's Suppliers recorded an increase in sales by 29.58 % year on year in Q4 2025, sequentially sales grew by 12.82"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Mastercard",
+      "url": "https://csimarket.com/stocks/MA-Customers",
       "query": "Mastercard Incorporated major customers clients",
-      "snippet": "Mastercard Inc . is an American multinational payment card services corporation headquartered in Purchase, New York. It offers a range of payment tran"
+      "snippet": "Mastercard Incorporated customers and markets, results by customer and performance relative to MA, by company and industry - CSIMarket"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://investor.mastercard.com/investor-news/investor-news-details/2026/Mastercard-to-Acquire-BVNK-to-Connect-On-Chain-Payments-and-Fiat-Rails/default.aspx?ref=connectingthedotsinfin.tech&trk=article-ssr-frontend-pulse_little-text-block",
+      "url": "https://www.mastercard.com/us/en/for-the-world/about-us.html",
       "query": "Mastercard Incorporated major customers clients",
-      "snippet": "The combined activities of Mastercard and BVNK would deliver a digital asset- and chain-agnostic approach, allowing customers to access the solutions "
+      "snippet": "Mastercard powers economies and empowers people worldwide. With our customers , we deliver a wide range of payment choices, making transactions secure"
     }
   ]
 }

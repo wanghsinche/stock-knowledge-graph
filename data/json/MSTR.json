@@ -1,37 +1,37 @@
 {
   "ticker": "MSTR",
-  "company_name": "MicroStrategy Incorporated",
+  "company_name": "Strategy Inc",
   "sector": "Technology",
   "industry": "Software - Application",
   "upstream": [
-    "Iowa-Des Moines Supply",
-    "Robust Solutions",
-    "AMZN",
     "MSFT",
-    "GOOGL"
+    "AMZN",
+    "GOOGL",
+    "ORCL",
+    "IBM"
   ],
   "downstream": [
-    "Retail sector",
-    "Financial Services sector",
-    "Healthcare sector",
-    "CAT",
-    "Manufacturing sector"
+    "Bank of America",
+    "Walmart",
+    "Coca‑Cola",
+    "General Electric",
+    "UnitedHealth Group"
   ],
   "competitors": [
     "Tableau",
-    "Power BI",
     "Qlik",
-    "Looker",
-    "SAP BusinessObjects"
+    "MSFT",
+    "SAP BusinessObjects",
+    "ORCL"
   ],
   "key_products": [
-    "MicroStrategy Analytics Platform",
+    "MicroStrategy Desktop",
+    "MicroStrategy Server",
     "MicroStrategy Cloud",
     "MicroStrategy Mobile",
-    "MicroStrategy Data Warehouse",
-    "MicroStrategy Data Science"
+    "MicroStrategy Analytics"
   ],
-  "extracted_at": "2026-04-06 16:40:28",
+  "extracted_at": "2026-04-07 16:51:46",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://iowadesmoinessupply.com/",
+      "url": "https://finance.yahoo.com/quote/MSTR/",
       "query": "Strategy Inc suppliers manufacturers",
-      "snippet": "Iowa's Leading Product Distributor For Over 85 Years Iowa- Des Moines Supply is ready to service your business every day, with over 5,000 products fro"
+      "snippet": "Find the latest Strategy Inc (MSTR) stock quote, history, news and other vital information to help you with your stock trading and investing."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.industryselect.com/blog/top-10-manufacturing-companies-in-iowa",
+      "url": "https://ru.tradingview.com/symbols/NASDAQ-MSTR/",
       "query": "Strategy Inc suppliers manufacturers",
-      "snippet": "With its low cost of doing business (not to mention its low cost of living) robust economy and abundant agricultural resources, Iowa is home to a numb"
+      "snippet": "Следите за графиком Strategy Inc , чтобы быть в курсе цены акций. Вы также найдёте прогнозы, отчётность MSTR и новости рынка."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.strategy.com/software/news/strategy-recognized-as-a-customers-choice-on-gartner-peer-insights-through-user-feedback-for-fourth-consecutive-year",
+      "url": "https://en.wikipedia.org/wiki/MicroStrategy",
       "query": "Strategy Inc major customers clients",
-      "snippet": "Dec 11, 2025 · Discover why Strategy Inc . is the only Analytics & Business Intelligence Platforms vendor to be named a Customers ' Choice in the 2025"
+      "snippet": "Strategy Inc., formerly known as MicroStrategy, is an American company that provides business intelligence (BI) and mobile software. Founded in 1989 b"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/STRF-Customers",
+      "url": "https://www.strategy.com/software/customer-stories",
       "query": "Strategy Inc major customers clients",
-      "snippet": "Jan 30, 2026 · Strategy Inc customers and markets, results by customer and performance relative to STRF, by company and industry - CSIMarket"
+      "snippet": "Dive into Strategy customer stories highlighting the impact of Analytics in Healthcare, Financial Services, Call Centers, Retail, Insurance, and Gover"
     }
   ]
 }

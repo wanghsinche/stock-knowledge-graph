@@ -1,21 +1,21 @@
 {
   "ticker": "NFLX",
   "company_name": "Netflix, Inc.",
-  "sector": "Communication Services",
-  "industry": "Entertainment",
+  "sector": "Communication Services / Entertainment",
+  "industry": "Streaming Media",
   "upstream": [
-    "NFLX",
-    "Hiventy Group",
-    "Distribution Networks (e.g., cable and satellite providers)",
-    "Content Licensing Partners",
-    "Cloud Service Providers"
+    "Disney",
+    "Warner Bros. Discovery",
+    "SONY",
+    "Paramount Global",
+    "Roku"
   ],
   "downstream": [
-    "Global individual subscribers",
-    "Corporate and institutional customers (e.g., airlines, hotels)",
-    "Advertising partners (for ad‑supported tiers)",
-    "Device manufacturers (e.g., smart TV OEMs)",
-    "Streaming platform integrators"
+    "US subscribers",
+    "UK subscribers",
+    "Canada subscribers",
+    "Germany subscribers",
+    "India subscribers"
   ],
   "competitors": [
     "Disney+",
@@ -25,13 +25,13 @@
     "AAPL"
   ],
   "key_products": [
-    "Original series and films",
-    "Licensed movies and TV shows",
-    "Documentaries and specials",
-    "Anime and international content",
-    "Interactive content (e.g., Black Mirror: Bandersnatch)"
+    "Streaming video service",
+    "Original series",
+    "Original movies",
+    "Documentaries",
+    "Kids & family content"
   ],
-  "extracted_at": "2026-04-06 16:38:36",
+  "extracted_at": "2026-04-07 16:49:35",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://npfp.netflixstudios.com/region/global/",
+      "url": "https://www.case48.com/porter-analysis/5226-Netflix-Inc",
       "query": "Netflix, Inc. suppliers manufacturers",
-      "snippet": "Netflix Preferred Fulfillment Partners Hiventy Group has been providing high-end technical solutions to the entertainment industry for more than 30 ye"
+      "snippet": "Netflix Inc is highly price sensitive and has adequate market knowledge. There is no threat of forward integration by suppliers . How Netflix Inc can "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://seriosity.com/what-companies-does-netflix-work-with/",
+      "url": "https://www.stock-analysis-on.net/NASDAQ/Company/Netflix-Inc",
       "query": "Netflix, Inc. suppliers manufacturers",
-      "snippet": "Aug 5, 2025 · Distribution Networks To ensure its service is widely accessible, Netflix has partnered with hardware manufacturers like Sony, LG, and S"
+      "snippet": "Netflix financial ratios grouped by activity, liquidity, solvency, and profitability.Examines Netflix Inc . capital structure in terms of the mix of i"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ir.netflix.net/ir-overview/profile/default.aspx",
+      "url": "https://www.bloomberg.com/news/articles/2015-04-15/netflix-tops-62-million-customers-with-gains-in-u-s-abroad",
       "query": "Netflix, Inc. major customers clients",
-      "snippet": "5 days ago · Netflix is one of the world’s leading entertainment services offering TV series, films, games and live programming across a wide variety "
+      "snippet": "Netflix Inc . soared to a record high after saying that its video-streaming service topped 62 million subscribers worldwide, as original shows such as"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://businessmodelanalyst.com/netflix-target-market/",
+      "url": "https://www.ii.co.uk/analysis-commentary/ii-view-netflix-upgrades-outlook-profits-boom-ii532321",
       "query": "Netflix, Inc. major customers clients",
-      "snippet": "Dec 11, 2024 · In this context, understanding Netflix target market becomes even more significant for other brands hoping to emulate its success."
+      "snippet": "Streaming giant Netflix Inc (NASDAQ:NFLX) added 8 million net new subscribers during the second quarter, including a one-third increase in lower cost "
     }
   ]
 }
