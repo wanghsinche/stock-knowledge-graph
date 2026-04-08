@@ -4,33 +4,36 @@
   "sector": "Energy",
   "industry": "Oil & Gas Integrated",
   "upstream": [
-    "ACM",
-    "Delo",
-    "Havoline",
-    "Techron"
+    "Schlumberger",
+    "Halliburton",
+    "Baker Hughes",
+    "Weatherford",
+    "National Oilwell Varco"
   ],
   "downstream": [
-    "Oil and gas companies",
-    "Utilities",
-    "Industrial customers",
-    "Retail fuel stations",
-    "Government agencies"
+    "Major refineries (e.g., Phillips 66, Valero)",
+    "Fuel distributors (e.g., 7-Eleven, Circle K)",
+    "Automotive industry (fuel sales to car manufacturers)",
+    "Airlines (jet fuel supply)",
+    "Petrochemical plants (feedstock for plastics)"
   ],
   "competitors": [
-    "Exxon Mobil",
+    "ExxonMobil",
+    "Royal Dutch Shell",
     "BP",
-    "Shell",
     "TotalEnergies",
     "ConocoPhillips"
   ],
   "key_products": [
     "Crude oil",
     "Natural gas",
-    "Petroleum products",
-    "Refined fuels",
-    "Lubricants"
+    "Gasoline",
+    "Diesel",
+    "Jet fuel",
+    "Lubricants",
+    "Petrochemicals"
   ],
-  "extracted_at": "2026-04-07 16:49:59",
+  "extracted_at": "2026-04-08 16:55:16",
   "sources": [
     {
       "source": "Wikipedia",
@@ -40,21 +43,21 @@
     },
     {
       "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/Chevron_Corporation",
+      "query": "Chevron Corporation suppliers manufacturers",
+      "snippet": "Chevron manufactures and sells fuels, lubricants, additives, and petrochemicals, primarily in Western North America, the US Gulf Coast, Southeast Asia"
+    },
+    {
+      "source": "DuckDuckGo",
       "url": "https://stationsupport.chevron.com/s/article/Chevron-Approved-Vendor-List",
       "query": "Chevron Corporation suppliers manufacturers",
-      "snippet": "Select a product to see the Chevron approved vendor (s): ACM products for canopy and building Back Office Systems Construction Issues and Canopy Rebui"
+      "snippet": "Approved Vendor List ; Chevron Merchandise. Chevron Merchant Center (877) 491-3619 www.chevronmerchcenter.com. Go to top of page ; Diesel Flash Test. "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.chevronlubricants.com/en_us/home/where-to-buy/find-a-distributor.html",
-      "query": "Chevron Corporation suppliers manufacturers",
-      "snippet": "Chevron Lubricants Delo Havoline Techron *required field *required field *required field 10 miles 20 miles 30 miles 40 miles 50 miles 60 miles 70 mile"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Chevron_Corporation",
+      "url": "https://en.wikipedia.org/wiki/Standard_Oil",
       "query": "Chevron Corporation major customers clients",
-      "snippet": "Chevron Corporation is an American multinational energy corporation predominantly specializing in oil and gas. The second-largest direct descendant of"
+      "snippet": "Standard Oil Company was a corporate trust in the petroleum industry that existed from 1882 to 1911. The origins of the trust lay in the operations of"
     },
     {
       "source": "DuckDuckGo",

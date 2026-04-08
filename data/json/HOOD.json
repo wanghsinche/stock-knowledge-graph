@@ -4,16 +4,16 @@
   "sector": "Financial Services",
   "industry": "Capital Markets",
   "upstream": [
+    "Bloomberg",
+    "Refinitiv",
     "AMZN",
-    "GOOGL",
-    "Plaid",
     "Stripe",
-    "Bloomberg"
+    "Plaid"
   ],
   "downstream": [
     "Retail investors",
     "Institutional investors",
-    "High-frequency traders",
+    "High‑frequency traders",
     "Corporate clients",
     "Financial advisors"
   ],
@@ -25,13 +25,13 @@
     "Webull"
   ],
   "key_products": [
-    "Commission-free trading",
-    "Robinhood Gold",
-    "Cash Management",
+    "Commission‑free stock trading",
     "Options trading",
-    "Cryptocurrency trading"
+    "Cryptocurrency trading",
+    "Margin trading (Robinhood Gold)",
+    "Cash management & interest‑earning accounts"
   ],
-  "extracted_at": "2026-04-07 16:50:40",
+  "extracted_at": "2026-04-08 16:56:42",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,9 +47,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://pitchgrade.com/companies/robinhood-markets",
+      "url": "https://robinhood.com/",
       "query": "Robinhood Markets, Inc. suppliers manufacturers",
-      "snippet": "How Robinhood Markets , Inc . generates revenue across its key business segments and the unit economics behind each. A data-backed SWOT analysis cover"
+      "snippet": "Trade stocks on Robinhood with commission-free investing & advanced trading tools. Access fractional shares, real-time market data, and more."
     },
     {
       "source": "DuckDuckGo",
@@ -59,9 +59,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://pitchgrade.com/companies/robinhood-markets",
+      "url": "https://investors.robinhood.com/news-releases/news-release-details/robinhood-markets-inc-reports-november-2025-operating-data",
       "query": "Robinhood Markets, Inc. major customers clients",
-      "snippet": "Customer Segments: Robinhood Markets , Inc . serves multiple distinct customer segments, which may include consumers, small and medium businesses, ent"
+      "snippet": "Dec 10, 2025 · MENLO PARK, Calif. , Dec. 10, 2025 (GLOBE NEWSWIRE) -- Robinhood Markets , Inc . (“Robinhood”) (NASDAQ: HOOD) today reported select mon"
     }
   ]
 }

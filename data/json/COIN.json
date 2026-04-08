@@ -4,34 +4,34 @@
   "sector": "Financial Services",
   "industry": "Financial Data & Stock Exchanges",
   "upstream": [
-    "AMZN",
-    "MSFT",
-    "GOOGL",
-    "Stripe",
-    "PayPal"
+    "Technology vendors",
+    "Cloud service providers",
+    "Payment processors",
+    "Security and compliance vendors",
+    "Legal and regulatory consulting firms"
   ],
   "downstream": [
     "Retail cryptocurrency traders",
     "Institutional investors",
-    "Hedge funds",
-    "Corporate treasury departments",
-    "Crypto investment funds"
+    "Crypto funds and hedge funds",
+    "DeFi platforms",
+    "Payment merchants"
   ],
   "competitors": [
     "Binance",
     "Kraken",
     "Gemini",
-    "Bitstamp",
-    "eToro"
+    "FTX",
+    "Bitstamp"
   ],
   "key_products": [
     "Coinbase Pro",
     "Coinbase Wallet",
-    "Coinbase Earn",
     "Coinbase Custody",
-    "Coinbase Prime"
+    "Coinbase Earn",
+    "Coinbase Card"
   ],
-  "extracted_at": "2026-04-07 16:52:07",
+  "extracted_at": "2026-04-08 17:00:58",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Coinbase",
+      "url": "https://www.coinbase.com/vendors/vendors-at-coinbase",
       "query": "Coinbase Global, Inc. suppliers manufacturers",
+      "snippet": "Getting started as a Coinbase Vendor. Procurement guidelines & policies to streamline the vendor experience. Missing: Global, Inc. manufacturers"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.coinbase.com/vendors/vendors-at-coinbase-vendor-onboarding",
+      "query": "Coinbase Global, Inc. suppliers manufacturers",
+      "snippet": "All Coinbase vendors must go through a comprehensive risk assessment process. The Vendor Risk Management program is designed to ensure all applicable "
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/Coinbase",
+      "query": "Coinbase Global, Inc. major customers clients",
       "snippet": "Coinbase Global , Inc . is an American cryptocurrency exchange. It was founded in 2012 by Brian Armstrong and Fred Ehrsam."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ru.wikipedia.org/wiki/Coinbase",
-      "query": "Coinbase Global, Inc. suppliers manufacturers",
-      "snippet": "Coinbase Global , Inc . (бренд Coinbase ) — американская публичная компания, которая управляет онлайн-сервисом обмена цифровых валют (биржей криптовал"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/COIN-Customers",
+      "url": "https://www.coinbase.com/",
       "query": "Coinbase Global, Inc. major customers clients",
-      "snippet": "Coinbase Global Inc customers and markets, results by customer and performance relative to COIN, by company and industry - CSIMarket"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.demandsage.com/coinbase-users-statistics/",
-      "query": "Coinbase Global, Inc. major customers clients",
-      "snippet": "Aug 13, 2025 · Get our latest Coinbase user statistics 2026, highlighting global adoption rates, market growth, and usage trends."
+      "snippet": "Coinbase United States is a secure online platform for buying, selling, transferring, and storing cryptocurrency. Coinbase believes crypto will be par"
     }
   ]
 }

@@ -1,37 +1,37 @@
 {
   "ticker": "CRWV",
   "company_name": "CoreWeave, Inc.",
-  "sector": "Technology",
-  "industry": "Software - Infrastructure",
+  "sector": "Technology / Software - Infrastructure",
+  "industry": "Artificial Intelligence Cloud Computing",
   "upstream": [
     "NVDA",
     "AMD",
     "INTC",
-    "MU",
-    "005930.KS"
+    "DELL",
+    "HPQ"
   ],
   "downstream": [
-    "MSFT",
-    "DELL",
-    "AMZN",
-    "GOOGL",
+    "OpenAI",
+    "DeepMind",
+    "TSLA",
+    "ADBE",
     "IBM"
   ],
   "competitors": [
-    "AMZN",
-    "MSFT",
-    "GOOGL",
     "NVDA",
-    "Paperspace"
+    "AMD",
+    "GOOGL",
+    "AMZN",
+    "MSFT"
   ],
   "key_products": [
-    "GPU cloud computing services",
-    "AI cloud platform",
-    "GPU infrastructure",
-    "Chip management software",
-    "Custom AI workload solutions"
+    "GPU Cloud Infrastructure",
+    "GPU-as-a-Service",
+    "AI Training Clusters",
+    "Chip Management Software",
+    "AI Compute Platform"
   ],
-  "extracted_at": "2026-04-07 16:52:26",
+  "extracted_at": "2026-04-08 17:00:45",
   "sources": [
     {
       "source": "Wikipedia",
@@ -55,13 +55,13 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/CoreWeave",
       "query": "CoreWeave, Inc. major customers clients",
-      "snippet": "... top two clients, with Microsoft alone accounting for 62%. In Dec. 2024, Dell and CoreWeave began partnering on infrastructure. In 2025, CoreWeave "
+      "snippet": "CoreWeave , Inc . is an American artificial intelligence cloud-computing company based in Livingston, New Jersey. It specializes in providing cloud-ba"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.crn.com/news/ai/2025/7-things-to-know-about-coreweave-s-s-1-top-customers-revenue-and-more",
+      "url": "https://dgtlinfra.com/coreweave-data-center-locations/",
       "query": "CoreWeave, Inc. major customers clients",
-      "snippet": "Mar 5, 2025 · CoreWeave, a rising AI cloud provider, has revealed fast-growing revenue from a “limited number of customers,” including Microsoft, and "
+      "snippet": "Customers – AI Leaders and Innovators. CoreWeave serves a diverse range of customers across various industries, with a particular focus on large langu"
     }
   ]
 }

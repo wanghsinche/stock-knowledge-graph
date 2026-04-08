@@ -3,8 +3,8 @@ ticker: JNJ
 company: Johnson & Johnson
 sector: Healthcare
 industry: Drug Manufacturers - General
-extracted_at: 2026-04-07 16:54:57
-last_updated: 2026-04-07
+extracted_at: 2026-04-08 17:02:56
+last_updated: 2026-04-08
 ---
 
 # JNJ - Johnson & Johnson
@@ -12,23 +12,23 @@ last_updated: 2026-04-07
 ## 基本信息
 
 - **所属行业**: Healthcare / Drug Manufacturers - General
-- **提取时间**: 2026-04-07 16:54:57
+- **提取时间**: 2026-04-08 17:02:56
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Contract pharmaceutical manufacturers]]
-- [[Biotechnology research partners]]
-- [[Raw material suppliers (chemicals, polymers)]]
-- [[Medical device component suppliers]]
-- [[Packaging and labeling vendors]]
+- [[Lonza Group]]
+- [[CAT]]
+- [[Thermo Fisher Scientific]]
+- [[Boehringer Ingelheim]]
+- [[Sandoz]]
 
 ### 下游客户
-- [[Hospitals and health systems]]
-- [[Retail pharmacies (e.g., CVS, Walgreens)]]
-- [[Health insurers and PBMs]]
-- [[Global pharmaceutical distributors]]
-- [[Consumer retail chains (e.g., Walmart, Target)]]
+- [[Hospitals]]
+- [[Pharmacies]]
+- [[Health insurance providers]]
+- [[Government health agencies]]
+- [[Retail drug stores]]
 
 ### 竞争对手
 - [[Pfizer]]
@@ -39,19 +39,19 @@ last_updated: 2026-04-07
 
 ### 核心产品
 - [[Tylenol (acetaminophen)]]
-- [[Band-Aid (adhesive bandages)]]
-- [[Neutrogena skincare]]
-- [[Listerine mouthwash]]
-- [[Remicade (infliximab) biologic therapy]]
+- [[Band-Aid]]
+- [[Neutrogena skin care]]
+- [[Remicade]]
+- [[Stelara]]
 
 ## 数据来源
 
 - [Johnson & Johnson](https://en.wikipedia.org/wiki/Johnson_&_Johnson)
-- [Johnson & Johnson suppliers manufacturers](https://en.wikipedia.org/wiki/Johnson_&_Johnson)
-- [Johnson & Johnson suppliers manufacturers](https://www.jnj.com/suppliers/supplier-quality)
-- [Johnson & Johnson major customers clients](https://pestel-analysis.com/blogs/target-market/jnj)
-- [Johnson & Johnson major customers clients](https://csimarket.com/stocks/JNJ-Customers)
+- [Johnson & Johnson suppliers manufacturers](https://www.jnj.com/suppliers)
+- [Johnson & Johnson suppliers manufacturers](https://www.thomasnet.com/insights/johnson-and-johnson-brands/)
+- [Johnson & Johnson major customers clients](https://www.jnj.com/)
+- [Johnson & Johnson major customers clients](https://www.reuters.com/investigates/special-report/johnsonandjohnson-cancer/)
 
 ## 元数据
 
-- **更新日期**: 2026-04-07
+- **更新日期**: 2026-04-08

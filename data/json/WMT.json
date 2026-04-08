@@ -6,32 +6,32 @@
   "upstream": [
     "Procter & Gamble",
     "Coca‑Cola",
+    "PepsiCo",
     "Nike",
-    "Johnson & Johnson",
-    "005930.KS"
+    "Johnson & Johnson"
   ],
   "downstream": [
-    "U.S. consumers",
-    "International consumers",
-    "Sam's Club members",
-    "Corporate bulk buyers",
-    "Online shoppers via Walmart.com"
+    "Individual consumers",
+    "Small businesses",
+    "Online shoppers",
+    "Corporate buyers",
+    "Local communities"
   ],
   "competitors": [
     "Target",
     "Costco",
     "AMZN",
     "BJ's Wholesale Club",
-    "Kroger"
+    "Dollar General"
   ],
   "key_products": [
     "Groceries",
-    "Apparel",
-    "Electronics",
     "Household goods",
+    "Electronics",
+    "Clothing",
     "Pharmacy products"
   ],
-  "extracted_at": "2026-04-07 16:51:57",
+  "extracted_at": "2026-04-08 16:58:30",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Walmart",
+      "url": "https://www.investopedia.com/articles/insights/050116/walmart-stock-analyzing-5-key-suppliers-wmt.asp",
       "query": "Walmart Inc. suppliers manufacturers",
+      "snippet": "Mar 28, 2026 · Explore major Walmart suppliers , the companies depended on to provide the products Walmart sells. Learn how being a supplier to Walmar"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://corporate.walmart.com/suppliers",
+      "query": "Walmart Inc. suppliers manufacturers",
+      "snippet": "By making production more affordable and feasible in the United States, we can bring our customers more U.S.-made, grown or assembled products and man"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/Walmart",
+      "query": "Walmart Inc. major customers clients",
       "snippet": "Walmart Inc . is an American multinational retail corporation that operates a chain of hypermarkets, discount department stores, and grocery stores in"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/WMT-Suppliers",
-      "query": "Walmart Inc. suppliers manufacturers",
-      "snippet": "Walmart Inc supply chain, list and performance of Walmart Incs ' suppliers - CSIMarket. Walmart Inc 's Suppliers Performance. WMT's Supply Chain. Down"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://capitaloneshopping.com/research/walmart-statistics/",
+      "url": "https://www.walmart.com/",
       "query": "Walmart Inc. major customers clients",
-      "snippet": "Nov 6, 2025 · Latest available data on Walmart 's size and market share, both offline and online, with total sales and revenue breakdowns by year."
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://businessmodelanalyst.com/walmart-target-market/",
-      "query": "Walmart Inc. major customers clients",
-      "snippet": "Dec 2, 2024 · This article will examine Walmart target market and approach to reaching a broad yet carefully segmented customer base. From demographic"
+      "snippet": "Shop Walmart .com today for Every Day Low Prices. Join Walmart + for unlimited free delivery from your store & free shipping with no order minimum. St"
     }
   ]
 }

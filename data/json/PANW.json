@@ -1,37 +1,37 @@
 {
   "ticker": "PANW",
   "company_name": "Palo Alto Networks, Inc.",
-  "sector": "Technology",
-  "industry": "Software - Infrastructure",
+  "sector": "Technology / Software - Infrastructure",
+  "industry": "Cybersecurity",
   "upstream": [
-    "INTC",
-    "TSM",
-    "005930.KS",
-    "NVDA",
-    "QCOM"
+    "Hardware manufacturers",
+    "Chip suppliers",
+    "Cloud infrastructure providers",
+    "Software vendors",
+    "Distributors"
   ],
   "downstream": [
     "Wipro",
     "Tyson Foods",
     "Bank of America",
-    "Walmart",
-    "AT&T"
+    "Citigroup",
+    "MSFT"
   ],
   "competitors": [
     "CSCO",
     "Fortinet",
     "Check Point Software Technologies",
-    "JNPR",
+    "CrowdStrike",
     "Sophos"
   ],
   "key_products": [
     "Next-Generation Firewall",
     "Prisma Cloud",
     "Cortex XDR",
-    "WildFire",
-    "GlobalProtect"
+    "Unit 42 threat research",
+    "Advanced firewalls"
   ],
-  "extracted_at": "2026-03-30 16:51:44",
+  "extracted_at": "2026-04-08 17:01:09",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,15 +41,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ru.wikipedia.org/wiki/Palo_Alto_Networks",
+      "url": "https://paloaltonetworks.my.site.com/NextWavePartnerProgram/s/partnerlocator",
       "query": "Palo Alto Networks, Inc. suppliers manufacturers",
-      "snippet": "Palo Alto Networks , Inc . — американская компания, оказывающая услуги в области информационной безопасности. Головной офис компании расположен в Сант"
+      "snippet": "Distributors Extend Palo Alto Networks partners reach to address customer demand for Palo Alto Networks security solutions, services and support on a "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Silicon_Valley",
+      "url": "https://technologypartners.paloaltonetworks.com/English/directory",
       "query": "Palo Alto Networks, Inc. suppliers manufacturers",
-      "snippet": "\"Silicon\" refers to the chemical element used in silicon-based transistors and integrated circuit chips, which is the focus of a large number of compu"
+      "snippet": "The Palo Alto Networks technology partner portal is powered by Impartner. Read the Impartner Privacy Policy. https://www.paloaltonetworks.com"
     },
     {
       "source": "DuckDuckGo",

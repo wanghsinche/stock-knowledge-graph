@@ -4,34 +4,34 @@
   "sector": "Communication Services",
   "industry": "Internet Content & Information",
   "upstream": [
-    "Corning Inc.",
-    "AAPL",
+    "INTC",
+    "NVDA",
     "QCOM",
     "005930.KS",
-    "GOOGL"
+    "TSM"
   ],
   "downstream": [
     "Coca‑Cola",
     "Nike",
-    "005930.KS",
-    "MSFT",
-    "AMZN"
+    "AMZN",
+    "GOOGL",
+    "MSFT"
   ],
   "competitors": [
-    "X Corp (Twitter)",
-    "Snap Inc.",
-    "ByteDance (TikTok)",
+    "GOOGL",
+    "AMZN",
+    "AAPL",
     "MSFT",
-    "Pinterest"
+    "Snap Inc."
   ],
   "key_products": [
     "Facebook",
     "Instagram",
     "WhatsApp",
     "Messenger",
-    "Threads"
+    "Meta Quest"
   ],
-  "extracted_at": "2026-04-07 16:48:26",
+  "extracted_at": "2026-04-08 16:52:13",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,15 +41,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.corning.com/worldwide/en/about-us/news-events/news-releases/2026/03/corning-and-meta-celebrate-start-of-construction-on-cable-manufacturing-expansion-in-north-carolina-to-support-ai-buildout.html",
+      "url": "https://en.wikipedia.org/wiki/Meta_Platforms",
       "query": "Meta Platforms, Inc. suppliers manufacturers",
-      "snippet": "7 days ago · Under the agreement, which was announced in January of this year, Corning will supply Meta with its newest innovations in optical fiber, "
+      "snippet": "Meta Platforms , Inc . (doing business as Meta) is an American multinational technology company headquartered in Menlo Park, California. Meta owns and"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://investor.corning.com/news-and-events/news/news-details/2026/Corning-and-Meta-Announce-Multiyear-up-to-6-Billion-Agreement-to-Accelerate-US-Data-Center-Buildout/default.aspx",
+      "url": "https://forwork.meta.com/legal/mfw-subprocessor-list/",
       "query": "Meta Platforms, Inc. suppliers manufacturers",
-      "snippet": "Jan 27, 2026 · Under the agreement, Corning will supply Meta with its newest innovations in optical fiber, cable, and connectivity solutions. To suppo"
+      "snippet": "Nov 13, 2023 · Poland Meta Singapore Pte. Ltd. Singapore Meta Spain SL Spain Meta UK Limited United Kingdom Meta Operations, LLC United States Meta Pl"
     },
     {
       "source": "DuckDuckGo",

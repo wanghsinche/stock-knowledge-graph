@@ -1,37 +1,37 @@
 {
   "ticker": "APP",
   "company_name": "AppLovin Corporation",
-  "sector": "Communication Services",
-  "industry": "Advertising Agencies",
+  "sector": "Communication Services / Advertising Agencies",
+  "industry": "Advertising Technology",
   "upstream": [
-    "QCOM",
-    "GOOGL",
     "AAPL",
-    "005930.KS",
-    "INTC"
+    "GOOGL",
+    "Data and analytics vendors (e.g., Nielsen, comScore)",
+    "MSFT",
+    "Mobile app development tool vendors (e.g., Unity, Unreal Engine)"
   ],
   "downstream": [
-    "Mobile game developers",
-    "Mobile app developers",
-    "Social media platforms",
-    "E-commerce app developers",
-    "Streaming service providers"
+    "Mobile app developers and publishers",
+    "Digital marketing agencies",
+    "Brand advertisers and agencies",
+    "E‑commerce platforms",
+    "Gaming studios"
   ],
   "competitors": [
+    "The Trade Desk",
+    "GOOGL",
+    "META",
     "Unity Ads",
-    "AdColony",
-    "IronSource",
-    "Vungle",
-    "GOOGL"
+    "Vungle"
   ],
   "key_products": [
-    "Axon",
-    "AppLovin Mobile Marketing Platform",
-    "AppLovin SDK",
-    "AppLovin Analytics",
-    "AppLovin Audience Network"
+    "AppLovin Mobile Ad Platform",
+    "In‑app advertising solutions",
+    "User acquisition and attribution tools",
+    "Data‑driven audience segmentation",
+    "Monetization and revenue‑optimization SDKs"
   ],
-  "extracted_at": "2026-04-07 16:55:09",
+  "extracted_at": "2026-04-08 17:02:21",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,15 +41,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.goerie.com/press-release/story/74155/stagwell-stgw-announces-strategic-partnership-with-applovin-to-accelerate-client-advantage-in-performance-marketing/",
+      "url": "https://en.wikipedia.org/wiki/AppLovin",
       "query": "AppLovin Corporation suppliers manufacturers",
-      "snippet": "Mar 10, 2026 · Axon by AppLovin is a leading mobile marketing platform, reaching over a billion users every day across mobile apps and connected TV. W"
+      "snippet": "AppLovin Corporation is an American mobile technology company headquartered in Palo Alto, California. Founded in 2012, the company helps developers ma"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://stocktwits.com/news-articles/markets/equity/app-lovin-retail-traders-stay-cautious-after-s-and-p-500-inclusion/chwW176Rdqu",
+      "url": "https://www.applovin.com/",
       "query": "AppLovin Corporation suppliers manufacturers",
-      "snippet": "Sep 7, 2025 · Amon added that Qualcomm will stick to its existing suppliers, Taiwan Semiconductor Manufacturing Co. (TSM) and Samsung Electronics Co."
+      "snippet": "AppLovin enables businesses to advertise profitably with marketing technologies that attract customers, increase revenue, and track ad performance."
     },
     {
       "source": "DuckDuckGo",

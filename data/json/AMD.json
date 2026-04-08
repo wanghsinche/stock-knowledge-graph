@@ -7,15 +7,15 @@
     "TSM",
     "005930.KS",
     "GlobalFoundries",
-    "UMC",
-    "SMIC"
+    "INTC",
+    "MU"
   ],
   "downstream": [
     "DELL",
     "HPQ",
-    "Lenovo Group",
-    "AAPL",
-    "MSFT"
+    "Lenovo",
+    "MSFT",
+    "AMZN"
   ],
   "competitors": [
     "INTC",
@@ -28,10 +28,10 @@
     "Ryzen CPUs",
     "EPYC CPUs",
     "Radeon GPUs",
-    "Radeon Instinct GPUs",
-    "Radeon Pro GPUs"
+    "Xilinx FPGAs",
+    "AMD SoCs"
   ],
-  "extracted_at": "2026-04-07 16:47:36",
+  "extracted_at": "2026-04-08 16:53:41",
   "sources": [
     {
       "source": "Wikipedia",
@@ -53,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/AMD",
-      "query": "Advanced Micro Devices, Inc. major customers clients",
-      "snippet": "Advanced Micro Devices , Inc . (AMD) is an American multinational semiconductor company headquartered in Santa Clara, California, with significant ope"
-    },
-    {
-      "source": "DuckDuckGo",
       "url": "https://csimarket.com/stocks/AMD-Customers",
       "query": "Advanced Micro Devices, Inc. major customers clients",
       "snippet": "Advanced Micro Devices Inc customers and markets, results by customer and performance relative to AMD, by company and industry - CSIMarket"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://ir.amd.com/financial-information/sec-filings/content/0001193125-25-067185/0001193125-25-067185.pdf",
+      "query": "Advanced Micro Devices, Inc. major customers clients",
+      "snippet": "With our high-performance product portfolios, we deliver differentiated solutions, such as our semi-custom System-on-Chip (SoCs), Adaptive SoCs, and a"
     }
   ]
 }

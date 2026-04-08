@@ -3,8 +3,8 @@ ticker: CIEN
 company: Ciena Corporation
 sector: Technology
 industry: Communication Equipment
-extracted_at: 2026-04-06 16:45:50
-last_updated: 2026-04-06
+extracted_at: 2026-04-08 17:02:09
+last_updated: 2026-04-08
 ---
 
 # CIEN - Ciena Corporation
@@ -12,23 +12,23 @@ last_updated: 2026-04-06
 ## 基本信息
 
 - **所属行业**: Technology / Communication Equipment
-- **提取时间**: 2026-04-06 16:45:50
+- **提取时间**: 2026-04-08 17:02:09
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Optical fiber manufacturers]]
-- [[Photonic component suppliers]]
-- [[Semiconductor chip makers]]
-- [[Laser diode producers]]
-- [[Precision optics vendors]]
+- [[Semiconductor manufacturers]]
+- [[Fiber optic component suppliers]]
+- [[Optical amplifier producers]]
+- [[Photonic integrated circuit vendors]]
+- [[Electronic design automation (EDA) tool providers]]
 
 ### 下游客户
 - [[CAT]]
 - [[Cloud service providers]]
 - [[Data center operators]]
-- [[Enterprise network integrators]]
-- [[Government agencies]]
+- [[Enterprise networking customers]]
+- [[Government and defense agencies]]
 
 ### 竞争对手
 - [[Nokia]]
@@ -38,20 +38,20 @@ last_updated: 2026-04-06
 - [[CSCO]]
 
 ### 核心产品
-- [[Optical transport systems]]
-- [[Optical switches]]
-- [[Software-defined networking (SDN) solutions]]
-- [[Network management and analytics platforms]]
-- [[Quantum-safe communication solutions]]
+- [[Optical transport equipment]]
+- [[Optical switching systems]]
+- [[Optical networking software]]
+- [[Optical transceivers]]
+- [[Optical amplifiers]]
 
 ## 数据来源
 
 - [Ciena](https://en.wikipedia.org/wiki/Ciena_Corporation)
 - [Ciena Corporation suppliers manufacturers](https://www.ciena.com/)
-- [Ciena Corporation suppliers manufacturers](https://tower-pro.com/listings/ciena-corp/)
-- [Ciena Corporation major customers clients](https://en.wikipedia.org/wiki/Ciena)
-- [Ciena Corporation major customers clients](https://www.ciena.com/about/customer-stories)
+- [Ciena Corporation suppliers manufacturers](https://finance.yahoo.com/news/ciena-corp-cien-q1-2026-210435020.html)
+- [Ciena Corporation major customers clients](https://www.ciena.com/)
+- [Ciena Corporation major customers clients](https://www.edgen.tech/stock/CIEN)
 
 ## 元数据
 
-- **更新日期**: 2026-04-06
+- **更新日期**: 2026-04-08

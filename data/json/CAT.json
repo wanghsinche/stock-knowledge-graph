@@ -3,11 +3,35 @@
   "company_name": "Caterpillar Inc.",
   "sector": "Industrials",
   "industry": "Farm & Heavy Construction Machinery",
-  "upstream": [],
-  "downstream": [],
-  "competitors": [],
-  "key_products": [],
-  "extracted_at": "2026-04-01 16:52:17",
+  "upstream": [
+    "Eaton",
+    "Cummins",
+    "Bosch",
+    "Parker Hannifin",
+    "ArcelorMittal"
+  ],
+  "downstream": [
+    "HPQ",
+    "Rio Tinto",
+    "Lendlease",
+    "Bechtel",
+    "U.S. Army"
+  ],
+  "competitors": [
+    "Komatsu",
+    "Volvo Construction Equipment",
+    "DE",
+    "CNH Industrial",
+    "Terex"
+  ],
+  "key_products": [
+    "Excavators",
+    "Bulldozers",
+    "Mining trucks",
+    "Diesel engines",
+    "Generators"
+  ],
+  "extracted_at": "2026-04-08 16:59:45",
   "sources": [
     {
       "source": "Wikipedia",
@@ -26,6 +50,18 @@
       "url": "https://csimarket.com/stocks/CAT-Suppliers",
       "query": "Caterpillar Inc. suppliers manufacturers",
       "snippet": "Caterpillar Inc supply chain, list and performance of Caterpillar Incs ' suppliers - CSIMarket. Caterpillar Inc 's Suppliers Performance. CAT's Supply"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/Caterpillar_Inc.",
+      "query": "Caterpillar Inc. major customers clients",
+      "snippet": "Caterpillar Inc . is an American construction, mining, and other engineering equipment manufacturer. The company is the world's largest manufacturer o"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://ru.wikipedia.org/wiki/Caterpillar",
+      "query": "Caterpillar Inc. major customers clients",
+      "snippet": "Caterpillar Inc . ([ˈkætəpɪlə]), «Катерпиллар»[4] — американская компания, один из крупнейших мировых производителей строительной и горнодобывающей те"
     }
   ]
 }

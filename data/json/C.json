@@ -1,37 +1,37 @@
 {
   "ticker": "C",
   "company_name": "Citigroup Inc.",
-  "sector": "Financial Services / Banks - Diversified",
-  "industry": "Diversified Banks",
+  "sector": "Financial Services",
+  "industry": "Banks - Diversified",
   "upstream": [
-    "ORCL",
-    "SAP",
+    "Accenture",
     "IBM",
     "MSFT",
-    "CRM"
+    "ORCL",
+    "SAP"
   ],
   "downstream": [
-    "Large Corporations",
-    "Governments",
-    "Institutional Investors",
-    "Retail Consumers",
-    "Small and Medium Enterprises"
+    "Retail banking customers",
+    "Corporate clients",
+    "Institutional investors",
+    "High‑net‑worth individuals",
+    "Small and medium enterprises"
   ],
   "competitors": [
-    "JPMorgan Chase",
-    "Bank of America",
-    "Wells Fargo",
-    "Goldman Sachs",
-    "Morgan Stanley"
+    "JPMorgan Chase & Co.",
+    "Bank of America Corp.",
+    "Goldman Sachs Group Inc.",
+    "Morgan Stanley",
+    "Wells Fargo & Co."
   ],
   "key_products": [
-    "Investment Banking",
-    "Wealth Management",
-    "Consumer Banking",
-    "Credit Cards",
-    "Treasury & Trade Solutions"
+    "Investment banking services",
+    "Wealth management & private banking",
+    "Consumer banking & credit cards",
+    "Treasury and trade solutions",
+    "Capital markets and securities"
   ],
-  "extracted_at": "2026-03-31 16:55:30",
+  "extracted_at": "2026-04-08 17:03:11",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,25 +43,25 @@
       "source": "DuckDuckGo",
       "url": "https://csimarket.com/stocks/C-Suppliers",
       "query": "Citigroup Inc. suppliers manufacturers",
-      "snippet": "Feb 22, 2026 · For your research, we’ve provided nine additional tables on Citigroup inc ’ s suppliers . You can find them in the navigation menu unde"
+      "snippet": "Feb 22, 2026 · Citigroup Inc supply chain, list and performance of Citigroup Incs' suppliers - CSIMarket"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://data.ark.ai/analysis/suppliers/citigroup-inc-supplier-profile-overview",
+      "url": "https://www.citigroup.com/global/suppliers/citi-isupplier-portal",
       "query": "Citigroup Inc. suppliers manufacturers",
-      "snippet": "Ark.ai conducted a vendor and supply chain analysis of Citigroup Inc ., examining their subcontractors, subsidiaries, list of suppliers , manufacturer"
+      "snippet": "The Citi iSupplier Portal is an enterprise application for existing approved Citi Suppliers . It enables secure supplier self-service capabilities and"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Citigroup",
       "query": "Citigroup Inc. major customers clients",
-      "snippet": "This list only contains chairmen since the formation of Citigroup in 1998; for a full list of chairmen including Citigroup 's predecessors, please see"
+      "snippet": "Citigroup Inc . or Citi is an American multinational investment bank and financial services company based in New York City. The company was formed in "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/C-Customers",
+      "url": "https://www.ft.com/content/d0937010-454c-11e7-8519-9f94ee97d996?syn-25a6b1a6=1",
       "query": "Citigroup Inc. major customers clients",
-      "snippet": "Feb 28, 2026 · For your research, we’ve provided 9 tables on Citigroup inc corporate clients . You can find them in the navigation menu under Customer"
+      "snippet": "Customers who feel Citi ’s wealth management service may “suit [their] financial aspirations” are directed to its website, where the minimum threshold"
     }
   ]
 }

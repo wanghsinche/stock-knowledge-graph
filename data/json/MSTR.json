@@ -1,37 +1,32 @@
 {
   "ticker": "MSTR",
-  "company_name": "Strategy Inc",
+  "company_name": "MicroStrategy Incorporated",
   "sector": "Technology",
   "industry": "Software - Application",
   "upstream": [
-    "MSFT",
-    "AMZN",
-    "GOOGL",
-    "ORCL",
-    "IBM"
+    "Iowa-Des Moines Supply",
+    "Medical Device Consulting Services"
   ],
   "downstream": [
-    "Bank of America",
-    "Walmart",
-    "Coca‑Cola",
-    "General Electric",
-    "UnitedHealth Group"
+    "MSFT",
+    "AMZN",
+    "GOOGL"
   ],
   "competitors": [
     "Tableau",
     "Qlik",
-    "MSFT",
-    "SAP BusinessObjects",
-    "ORCL"
+    "Looker",
+    "Power BI",
+    "Sisense"
   ],
   "key_products": [
-    "MicroStrategy Desktop",
-    "MicroStrategy Server",
-    "MicroStrategy Cloud",
+    "MicroStrategy Analytics",
     "MicroStrategy Mobile",
-    "MicroStrategy Analytics"
+    "MicroStrategy Cloud",
+    "MicroStrategy Data Warehouse",
+    "MicroStrategy BI Platform"
   ],
-  "extracted_at": "2026-04-07 16:51:46",
+  "extracted_at": "2026-04-08 16:59:34",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +36,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/MSTR/",
+      "url": "https://iowadesmoinessupply.com/",
       "query": "Strategy Inc suppliers manufacturers",
-      "snippet": "Find the latest Strategy Inc (MSTR) stock quote, history, news and other vital information to help you with your stock trading and investing."
+      "snippet": "Iowa's Leading Product Distributor For Over 85 Years Iowa- Des Moines Supply is ready to service your business every day, with over 5,000 products fro"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ru.tradingview.com/symbols/NASDAQ-MSTR/",
+      "url": "https://www.strategyinc.net/",
       "query": "Strategy Inc suppliers manufacturers",
-      "snippet": "Следите за графиком Strategy Inc , чтобы быть в курсе цены акций. Вы также найдёте прогнозы, отчётность MSTR и новости рынка."
+      "snippet": "Strategy Inc . offers comprehensive medical device consulting services for essential financial and market due diligence, such as: market analysis, fin"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/MicroStrategy",
       "query": "Strategy Inc major customers clients",
-      "snippet": "Strategy Inc., formerly known as MicroStrategy, is an American company that provides business intelligence (BI) and mobile software. Founded in 1989 b"
+      "snippet": "Strategy Inc ., formerly known as MicroStrategy, is an American company that provides business intelligence and mobile software.In 1992, MicroStrategy"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.strategy.com/software/customer-stories",
+      "url": "https://finance.yahoo.com/quote/MSTR/",
       "query": "Strategy Inc major customers clients",
-      "snippet": "Dive into Strategy customer stories highlighting the impact of Analytics in Healthcare, Financial Services, Call Centers, Retail, Insurance, and Gover"
+      "snippet": "Find the latest Strategy Inc (MSTR) stock quote, history, news and other vital information to help you with your stock trading and investing."
     }
   ]
 }

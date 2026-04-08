@@ -3,8 +3,8 @@ ticker: MU
 company: Micron Technology, Inc.
 sector: Technology
 industry: Semiconductors
-extracted_at: 2026-04-07 16:46:18
-last_updated: 2026-04-07
+extracted_at: 2026-04-08 16:51:47
+last_updated: 2026-04-08
 ---
 
 # MU - Micron Technology, Inc.
@@ -12,46 +12,46 @@ last_updated: 2026-04-07
 ## 基本信息
 
 - **所属行业**: Technology / Semiconductors
-- **提取时间**: 2026-04-07 16:46:18
+- **提取时间**: 2026-04-08 16:51:47
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Silicon wafer suppliers (e.g., Shin‑Etsu Chemical, Sumitomo Chemical)]]
 - [[AMAT]]
-- [[Chemical suppliers (e.g., Dow Chemical, DuPont)]]
-- [[Packaging and assembly suppliers (e.g., Amkor Technology)]]
-- [[Test and measurement equipment suppliers (e.g., Teradyne)]]
+- [[ASML]]
+- [[LRCX]]
+- [[Tokyo Electron]]
+- [[KLA]]
 
 ### 下游客户
-- [[AAPL]]
 - [[DELL]]
 - [[HPQ]]
-- [[Lenovo Group]]
+- [[Lenovo]]
+- [[AAPL]]
 - [[AMZN]]
 
 ### 竞争对手
 - [[005930.KS]]
 - [[SK Hynix]]
-- [[Kioxia]]
-- [[WDC]]
 - [[INTC]]
+- [[Netlist]]
+- [[WDC]]
 
 ### 核心产品
-- [[Dynamic Random‑Access Memory (DRAM)]]
-- [[NAND Flash Memory]]
-- [[Solid‑State Drives (SSDs)]]
-- [[Mobile DRAM]]
-- [[Embedded DRAM (eDRAM)]]
+- [[DRAM]]
+- [[NAND flash memory]]
+- [[Solid‑state drives (SSDs)]]
+- [[3D NAND]]
+- [[Mobile memory modules]]
 
 ## 数据来源
 
 - [Micron Technology](https://en.wikipedia.org/wiki/Micron_Technology,_Inc.)
-- [Micron Technology, Inc. suppliers manufacturers](https://www.micron.com/sales-support/sales-network/authorized-distributors)
-- [Micron Technology, Inc. suppliers manufacturers](https://csimarket.com/stocks/MU-Suppliers)
-- [Micron Technology, Inc. major customers clients](https://en.wikipedia.org/wiki/Micron_Technology)
-- [Micron Technology, Inc. major customers clients](https://www.quora.com/Who-are-the-customers-of-Micron-Technology)
+- [Micron Technology, Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/Micron_Technology)
+- [Micron Technology, Inc. suppliers manufacturers](https://www.micron.com/about/company/suppliers)
+- [Micron Technology, Inc. major customers clients](https://csimarket.com/stocks/MU-Customers)
+- [Micron Technology, Inc. major customers clients](https://www.micron.com/markets-industries/customer-and-partner-storage-success)
 
 ## 元数据
 
-- **更新日期**: 2026-04-07
+- **更新日期**: 2026-04-08

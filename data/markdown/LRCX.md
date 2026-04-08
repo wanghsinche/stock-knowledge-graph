@@ -3,8 +3,8 @@ ticker: LRCX
 company: Lam Research Corporation
 sector: Technology
 industry: Semiconductor Equipment & Materials
-extracted_at: 2026-04-07 16:53:51
-last_updated: 2026-04-07
+extracted_at: 2026-04-08 16:57:59
+last_updated: 2026-04-08
 ---
 
 # LRCX - Lam Research Corporation
@@ -12,28 +12,46 @@ last_updated: 2026-04-07
 ## 基本信息
 
 - **所属行业**: Technology / Semiconductor Equipment & Materials
-- **提取时间**: 2026-04-07 16:53:51
+- **提取时间**: 2026-04-08 16:57:59
 
 ## 产业链关系
 
 ### 上游供应商
-_暂无数据_
+- [[Air Liquide]]
+- [[Linde]]
+- [[Air Products]]
+- [[Dow Chemical]]
+- [[DuPont]]
 
 ### 下游客户
-_暂无数据_
+- [[TSM]]
+- [[005930.KS]]
+- [[INTC]]
+- [[MU]]
+- [[GlobalFoundries]]
 
 ### 竞争对手
-_暂无数据_
+- [[AMAT]]
+- [[Tokyo Electron]]
+- [[KLA]]
+- [[ASML]]
+- [[ASM Pacific Technology]]
 
 ### 核心产品
-_暂无数据_
+- [[Plasma etch systems]]
+- [[Deposition systems]]
+- [[Wafer cleaning systems]]
+- [[Back‑end wafer‑level packaging (WLP) equipment]]
+- [[MEMS fabrication equipment]]
 
 ## 数据来源
 
 - [Lam Research](https://en.wikipedia.org/wiki/Lam_Research_Corporation)
-- [Lam Research Corporation suppliers manufacturers](https://www.pubrio.com/companies/bf5f8714-710d-4d95-b5e6-9eafc9987e78?data=3bce2c9d0f5cff1710c36483fde70681:8BZCcm1E+IMGMPMM6Kak4kxOqhXBwzNB5BadDyIrQve1VdrR)
-- [Lam Research Corporation suppliers manufacturers](https://newsroom.lamresearch.com/2025-02-19-Lam-Research-Ushers-in-New-Era-of-Semiconductor-Metallization-with-ALTUS-R-Halo-for-Molybdenum-Atomic-Layer-Deposition)
+- [Lam Research Corporation suppliers manufacturers](https://en.wikipedia.org/wiki/Lam_Research)
+- [Lam Research Corporation suppliers manufacturers](https://www.lamresearch.com/)
+- [Lam Research Corporation major customers clients](https://www.pubrio.com/companies/bf5f8714-710d-4d95-b5e6-9eafc9987e78?data=3bce2c9d0f5cff1710c36483fde70681:8BZCcm1E+IMGMPMM6Kak4kxOqhXBwzNB5BadDyIrQve1VdrR)
+- [Lam Research Corporation major customers clients](https://investor.lamresearch.com/2026-04-01-Lam-Research-Corporation-Announces-March-Quarter-Financial-Conference-Call)
 
 ## 元数据
 
-- **更新日期**: 2026-04-07
+- **更新日期**: 2026-04-08

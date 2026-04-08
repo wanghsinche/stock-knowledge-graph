@@ -6,32 +6,32 @@
   "upstream": [
     "TSM",
     "005930.KS",
-    "GlobalFoundries",
     "MU",
-    "SK Hynix"
+    "SK Hynix",
+    "ASE Technology Holding"
   ],
   "downstream": [
     "SONY",
     "MSFT",
     "DELL",
-    "TSLA",
-    "AMZN"
+    "AMZN",
+    "TSLA"
   ],
   "competitors": [
     "AMD",
     "INTC",
     "QCOM",
     "AAPL",
-    "AVGO"
+    "005930.KS"
   ],
   "key_products": [
-    "GeForce RTX",
-    "Tesla V100",
-    "Jetson Nano",
-    "DGX A100",
-    "CUDA"
+    "GeForce GPUs",
+    "Tesla GPUs",
+    "Tegra SoCs",
+    "CUDA API",
+    "NVIDIA Drive"
   ],
-  "extracted_at": "2026-04-07 16:46:06",
+  "extracted_at": "2026-04-08 16:51:34",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,15 +41,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Nvidia",
+      "url": "https://www.moomoo.com/community/feed/nvidia-supply-chain-in-one-chart-who-are-the-suppliers-111805778165765",
       "query": "NVIDIA Corporation suppliers manufacturers",
-      "snippet": "Nvidia Corporation . Show dark mode logo. Nvidia uses external suppliers for all phases of manufacturing , including wafer fabrication, assembly, test"
+      "snippet": "Jan 23, 2024 · Nvidia Supply Chain in One Chart: Who Are the Suppliers of the AI Giant? Taiwan Semiconductor Manufacturing Company (TSMC), the world's"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.investing.com/equities/nvidia-corp",
+      "url": "https://www.linkedin.com/posts/josephjacks_heres-the-comprehensive-top-40-nvidia-core-activity-7416315564840726528-mLQF",
       "query": "NVIDIA Corporation suppliers manufacturers",
-      "snippet": "View today's NVIDIA Corporation stock price and latest NVDA news and analysis. Create real-time notifications to follow any changes in the live stock "
+      "snippet": "Jan 11, 2026 · The total value of these 40 companies is roughly $6.5 Trillion. NVIDIA alone is worth ~70% of its supply chain combined!! USA (18): Dom"
     },
     {
       "source": "DuckDuckGo",

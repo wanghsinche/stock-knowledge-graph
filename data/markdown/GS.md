@@ -3,8 +3,8 @@ ticker: GS
 company: The Goldman Sachs Group, Inc.
 sector: Financial Services
 industry: Capital Markets
-extracted_at: 2026-04-03 16:37:33
-last_updated: 2026-04-03
+extracted_at: 2026-04-08 16:59:57
+last_updated: 2026-04-08
 ---
 
 # GS - The Goldman Sachs Group, Inc.
@@ -12,46 +12,46 @@ last_updated: 2026-04-03
 ## 基本信息
 
 - **所属行业**: Financial Services / Capital Markets
-- **提取时间**: 2026-04-03 16:37:33
+- **提取时间**: 2026-04-08 16:59:57
 
 ## 产业链关系
 
 ### 上游供应商
-- [[MSFT]]
-- [[ORCL]]
-- [[IBM]]
-- [[Accenture]]
-- [[Deloitte]]
+- [[Bloomberg]]
+- [[Thomson Reuters]]
+- [[FactSet]]
+- [[S&P Global]]
+- [[MSCI]]
 
 ### 下游客户
-- [[Corporate clients (e.g., Fortune 500 companies)]]
-- [[Sovereign and municipal governments]]
-- [[Institutional investors (pension funds, endowments)]]
-- [[Hedge funds and private equity firms]]
-- [[High‑net‑worth individuals]]
+- [[JPMorgan Chase]]
+- [[Morgan Stanley]]
+- [[BlackRock]]
+- [[State Street]]
+- [[Fidelity]]
 
 ### 竞争对手
-- [[JPMorgan Chase & Co.]]
+- [[JPMorgan Chase]]
 - [[Morgan Stanley]]
 - [[Bank of America Merrill Lynch]]
 - [[Citigroup]]
 - [[UBS]]
 
 ### 核心产品
-- [[Investment banking advisory]]
+- [[Investment banking services]]
 - [[Securities underwriting]]
 - [[Asset management]]
 - [[Wealth management]]
-- [[Equity and fixed‑income trading]]
+- [[Trading and brokerage services]]
 
 ## 数据来源
 
 - [Goldman Sachs](https://en.wikipedia.org/wiki/The_Goldman_Sachs_Group,_Inc.)
-- [The Goldman Sachs Group, Inc. suppliers manufacturers](https://www.goldmansachs.com/our-firm/our-vendor-program)
-- [The Goldman Sachs Group, Inc. suppliers manufacturers](https://www.goldmansachs.com/our-firm/sustainable-finance/our-operational-impact/responsible-sourcing-and-supply-change-management)
-- [The Goldman Sachs Group, Inc. major customers clients](https://en.wikipedia.org/wiki/Goldman_Sachs)
-- [The Goldman Sachs Group, Inc. major customers clients](https://www.goldmansachs.com/)
+- [The Goldman Sachs Group, Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/Goldman_Sachs)
+- [The Goldman Sachs Group, Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/Koch,_Inc.)
+- [The Goldman Sachs Group, Inc. major customers clients](https://investguiding.com/articles/who-are-goldman-sachs-clients)
+- [The Goldman Sachs Group, Inc. major customers clients](https://csimarket.com/stocks/GS-Customers)
 
 ## 元数据
 
-- **更新日期**: 2026-04-03
+- **更新日期**: 2026-04-08

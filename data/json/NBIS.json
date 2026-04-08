@@ -4,34 +4,34 @@
   "sector": "Communication Services",
   "industry": "Internet Content & Information",
   "upstream": [
-    "NVDA",
-    "AMD",
-    "INTC",
-    "GOOGL",
-    "AMZN"
+    "DELL",
+    "MSFT",
+    "Cloud service providers (e.g., AWS, Azure)",
+    "Data center operators",
+    "Security solution providers"
   ],
   "downstream": [
-    "Financial institutions",
-    "CAT",
-    "E‑commerce platforms",
-    "Healthcare providers",
-    "Government agencies"
+    "Federal government agencies",
+    "Defense departments",
+    "INTC",
+    "Public sector ministries",
+    "Law enforcement agencies"
   ],
   "competitors": [
-    "OpenAI",
-    "DeepMind",
-    "Anthropic",
-    "Cohere",
-    "AI21 Labs"
+    "Palantir",
+    "C3.ai",
+    "IBM",
+    "ORCL",
+    "MSFT"
   ],
   "key_products": [
-    "AI infrastructure platform",
-    "AI training services",
-    "AI inference services",
-    "AI data labeling (Toloka)",
-    "AI analytics (Clickhouse)"
+    "Artificial intelligence infrastructure",
+    "Avride",
+    "TripleTen",
+    "Toloka",
+    "Clickhouse"
   ],
-  "extracted_at": "2026-04-07 16:51:21",
+  "extracted_at": "2026-04-08 16:56:30",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Nebius_Group",
+      "url": "https://www.dcsa.mil/Systems-Applications/National-Background-Investigation-Services-NBIS/",
       "query": "NBIS suppliers manufacturers",
-      "snippet": "Nebius Group N.V., headquartered in Amsterdam, is a technology company that provides artificial intelligence infrastructure."
+      "snippet": "NBIS is the Federal government’s IT system for end-to-end process for personnel vetting. This starts with the initiation and application for a backgro"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/NBIS/",
+      "url": "https://www.dcsa.mil/About-Us/News/Article/Article/3960852/nbis-modernization-reaches-acquisition-milestone/",
       "query": "NBIS suppliers manufacturers",
-      "snippet": "Find the latest Nebius Group N.V. ( NBIS ) stock quote, history, news and other vital information to help you with your stock trading and investing."
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/NBIS-Customers",
-      "query": "NBIS major customers clients",
-      "snippet": "5 days ago · Nebius Group N V customers and markets, results by customer and performance relative to NBIS , by company and industry - CSIMarket"
+      "snippet": "Nov 8, 2024 · NBIS is the IT system enabling the end-to-end personnel vetting process and is critical to Trusted Workforce (TW) 2.0, the whole of gove"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.dcsa.mil/Systems-Applications/National-Background-Investigation-Services-NBIS/",
       "query": "NBIS major customers clients",
       "snippet": "The purpose of NBIS is to modernize, streamline and secure the entire process to enhance the user experience and provide a reliable and integrated set"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/NBIS-Customers",
+      "query": "NBIS major customers clients",
+      "snippet": "6 days ago · Nebius Group N V customers and markets, results by customer and performance relative to NBIS , by company and industry - CSIMarket"
     }
   ]
 }

@@ -4,18 +4,18 @@
   "sector": "Communication Services",
   "industry": "Internet Content & Information",
   "upstream": [
-    "TSM",
-    "005930.KS",
     "INTC",
     "QCOM",
-    "NVDA"
+    "005930.KS",
+    "NVDA",
+    "AVGO"
   ],
   "downstream": [
+    "005930.KS",
     "GOOGL",
-    "Android app developers",
-    "YouTube content creators",
     "GOOGL",
-    "GOOGL"
+    "GOOGL",
+    "Content creators on YouTube"
   ],
   "competitors": [
     "MSFT",
@@ -26,12 +26,12 @@
   ],
   "key_products": [
     "Google Search",
-    "Android OS",
+    "Android operating system",
     "Google Cloud Platform",
     "YouTube",
     "Google Ads"
   ],
-  "extracted_at": "2026-04-07 16:48:16",
+  "extracted_at": "2026-04-08 16:54:24",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/Alphabet_Inc.",
+      "query": "Alphabet Inc. suppliers manufacturers",
+      "snippet": "Alphabet Inc . is an American multinational technology conglomerate holding company headquartered in Mountain View, California. It was created through"
+    },
+    {
+      "source": "DuckDuckGo",
       "url": "https://csimarket.com/stocks/GOOG-Suppliers",
       "query": "Alphabet Inc. suppliers manufacturers",
-      "snippet": "Feb 6, 2026 · Alphabet Inc 's Comment on Supply Chain We rely on third parties to manufacture many of our assemblies and finished products, and we hav"
+      "snippet": "Alphabet Inc supply chain, list and performance of Alphabet Incs ' suppliers - CSIMarket."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/GOOGL-Suppliers",
-      "query": "Alphabet Inc. suppliers manufacturers",
-      "snippet": "Jul 20, 2022 · Alphabet Inc 's Comment on Supply Chain GOOGL's Stock Perfrormance relative to it's Suppliers GOOGL's vs. Suppliers , Data (Revenue and"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/GOOGL-Customers",
+      "url": "https://en.wikipedia.org/wiki/Alphabet_Inc.",
       "query": "Alphabet Inc. major customers clients",
-      "snippet": "Feb 9, 2026 · Alphabet Inc customers and markets, results by customer and performance relative to GOOGL, by company and industry - CSIMarket"
+      "snippet": "Alphabet Inc . is an American multinational technology conglomerate holding company headquartered in Mountain View, California. It was created through"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.sec.gov/Archives/edgar/data/1652044/000130817925000513/goog012714-ars.pdf",
+      "url": "https://finance.yahoo.com/quote/GOOG/",
       "query": "Alphabet Inc. major customers clients",
-      "snippet": "Our business depends on strong brands, and failing to maintain and enhance our brands would hurt our ability to expand our base of users, advertisers,"
+      "snippet": "Find the latest Alphabet Inc . (GOOG) stock quote, history, news and other vital information to help you with your stock trading and investing."
     }
   ]
 }

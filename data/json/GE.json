@@ -1,37 +1,37 @@
 {
   "ticker": "GE",
-  "company_name": "General Electric Company (doing business as GE Aerospace)",
+  "company_name": "General Electric Company",
   "sector": "Industrials",
   "industry": "Aerospace & Defense",
   "upstream": [
-    "Alcoa (aluminum)",
-    "Linde (industrial gases)",
-    "3M (composite materials)",
-    "Honeywell (electronic components)",
-    "Pratt & Whitney (component supplier)"
+    "Pratt & Whitney",
+    "Honeywell Aerospace",
+    "Rockwell Collins",
+    "Alcoa",
+    "Boeing Materials"
   ],
   "downstream": [
     "Boeing",
     "Airbus",
-    "Lockheed Martin",
     "United Airlines",
-    "Delta Air Lines"
+    "Delta Air Lines",
+    "Air France-KLM"
   ],
   "competitors": [
     "Pratt & Whitney",
-    "Rolls‑Royce",
-    "Honeywell Aerospace",
+    "Rolls-Royce",
+    "Safran",
     "MTU Aero Engines",
-    "Safran"
+    "Honeywell Aerospace"
   ],
   "key_products": [
-    "GE90 jet engine",
-    "GEnx engine",
-    "CF34 turbofan",
-    "CFMI (Co‑engine)",
-    "GE9X engine"
+    "GE90",
+    "CF6",
+    "CF34",
+    "T700",
+    "T800"
   ],
-  "extracted_at": "2026-04-07 16:52:38",
+  "extracted_at": "2026-04-08 17:00:10",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,15 +41,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/General_Electric",
+      "url": "https://en.wikipedia.org/wiki/GE_Aerospace",
       "query": "GE Aerospace suppliers manufacturers",
-      "snippet": "GE Aerospace , the aerospace company, is GE 's legal successor. GE HealthCare, the health technology company, was spun off from GE in 2023. GE Aviatio"
+      "snippet": "GE Aerospace both manufactures engines under its name and partners with other manufacturers to produce engines. CFM International, the world's leading"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.ge.com/history-ge-aerospace",
+      "url": "https://www.geaerospace.com/company/doing-business",
       "query": "GE Aerospace suppliers manufacturers",
-      "snippet": "GE Aerospace 100+ years of living our purpose: to invent the future of flight..."
+      "snippet": "As a world-leading manufacturer and service provider for jet engines, GE Aerospace works closely with suppliers around the globe."
     },
     {
       "source": "DuckDuckGo",
