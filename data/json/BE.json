@@ -5,33 +5,33 @@
   "industry": "Electrical Equipment & Parts",
   "upstream": [
     "Natural gas suppliers",
-    "Biogas providers",
+    "Biogas producers",
     "Hydrogen producers",
-    "Electrolyzer component manufacturers",
-    "Ceramic and platinum material suppliers"
+    "Fuel cell component manufacturers (ceramic, platinum, nickel)",
+    "Electrolyzer material suppliers"
   ],
   "downstream": [
-    "Data center operators",
+    "MSFT",
     "Manufacturing plants",
-    "Hospitals and healthcare facilities",
-    "CAT",
-    "University campuses"
+    "Commercial building owners",
+    "Municipal utilities",
+    "Industrial process power users"
   ],
   "competitors": [
     "FuelCell Energy",
     "Plug Power",
     "Ballard Power Systems",
-    "Hydrogenics",
-    "NRG Energy"
+    "NRG Energy",
+    "Bloom Energy’s own internal R&D competitors (e.g., solid oxide fuel cell startups)"
   ],
   "key_products": [
-    "Solid Oxide Fuel Cells (SOFC)",
+    "Solid Oxide Fuel Cell (SOFC) systems (Bloom Energy Server)",
     "Electrolyzers for hydrogen production",
-    "Hybrid power systems",
-    "Backup power solutions",
-    "Fuel cell stacks"
+    "Integrated power generation solutions",
+    "Fuel cell stack components",
+    "Energy management software"
   ],
-  "extracted_at": "2026-04-08 17:01:20",
+  "extracted_at": "2026-04-09 17:02:28",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,21 +47,21 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://capital.com/en-int/markets/shares/bloom-energy-corporation-share-price-1",
+      "url": "https://finance.yahoo.com/news/bloom-energy-good-investment-143933772.html",
       "query": "Bloom Energy Corporation suppliers manufacturers",
-      "snippet": "Bloom Energy Corporation designs, manufactures , and sells solid-oxide fuel cell systems for on-site power generation. It offers Bloom Energy Server, "
+      "snippet": "Bloom Energy Corporation (NYSE:BE) engages in the design, manufacture and installation of solid-oxide fuel cell systems for on-site power generation."
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.bloomenergy.com/customers/",
       "query": "Bloom Energy Corporation major customers clients",
-      "snippet": "Bloom Energy 's customers have important goals: clean energy , dependency, resiliency, reliability, and affordability. We're here to help reach those "
+      "snippet": "Bloom Energy ' s customers have important goals: clean energy, dependency, resiliency, reliability, and affordability. We're here to help reach those "
     },
     {
       "source": "DuckDuckGo",
       "url": "https://csimarket.com/stocks/BE-Customers",
       "query": "Bloom Energy Corporation major customers clients",
-      "snippet": "4 days ago · Bloom Energy customers and markets, results by customer and performance relative to BE, by company and industry - CSIMarket"
+      "snippet": "5 days ago · For your research, we’ve provided 9 tables on Bloom Energy Corporation corporate clients . You can find them in the navigation menu under"
     }
   ]
 }

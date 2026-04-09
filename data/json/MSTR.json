@@ -1,32 +1,37 @@
 {
   "ticker": "MSTR",
-  "company_name": "MicroStrategy Incorporated",
+  "company_name": "Strategy Inc",
   "sector": "Technology",
   "industry": "Software - Application",
   "upstream": [
-    "Iowa-Des Moines Supply",
-    "Medical Device Consulting Services"
-  ],
-  "downstream": [
     "MSFT",
     "AMZN",
-    "GOOGL"
+    "GOOGL",
+    "ORCL",
+    "IBM"
+  ],
+  "downstream": [
+    "Walmart",
+    "Coca‑Cola",
+    "American Express",
+    "Bank of America",
+    "General Motors"
   ],
   "competitors": [
     "Tableau",
     "Qlik",
+    "MSFT",
     "Looker",
-    "Power BI",
-    "Sisense"
+    "SAP BusinessObjects"
   ],
   "key_products": [
-    "MicroStrategy Analytics",
+    "MicroStrategy Analytics Platform",
     "MicroStrategy Mobile",
     "MicroStrategy Cloud",
     "MicroStrategy Data Warehouse",
-    "MicroStrategy BI Platform"
+    "MicroStrategy Platform"
   ],
-  "extracted_at": "2026-04-08 16:59:34",
+  "extracted_at": "2026-04-09 17:04:26",
   "sources": [
     {
       "source": "Wikipedia",
@@ -36,21 +41,21 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://iowadesmoinessupply.com/",
+      "url": "https://finance.yahoo.com/quote/MSTR/",
       "query": "Strategy Inc suppliers manufacturers",
-      "snippet": "Iowa's Leading Product Distributor For Over 85 Years Iowa- Des Moines Supply is ready to service your business every day, with over 5,000 products fro"
+      "snippet": "Find the latest Strategy Inc (MSTR) stock quote, history, news and other vital information to help you with your stock trading and investing."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.strategyinc.net/",
+      "url": "https://www.finam.ru/publications/item/strategy-nachala-pokupat-bitkoin-rovno-pyat-let-nazad-istoriya-uspekha-kompanii-20250811-1125/",
       "query": "Strategy Inc suppliers manufacturers",
-      "snippet": "Strategy Inc . offers comprehensive medical device consulting services for essential financial and market due diligence, such as: market analysis, fin"
+      "snippet": "Майкл Сэйлор основал Strategy в 1989 году. Компания по сей день занимается разработкой программного обеспечения для бизнес-аналитики. Strategy пользов"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/MicroStrategy",
       "query": "Strategy Inc major customers clients",
-      "snippet": "Strategy Inc ., formerly known as MicroStrategy, is an American company that provides business intelligence and mobile software.In 1992, MicroStrategy"
+      "snippet": "Strategy Inc ., formerly known as MicroStrategy, is an American company that provides business intelligence and mobile software. Founded in 1989 by Mi"
     },
     {
       "source": "DuckDuckGo",

@@ -4,34 +4,34 @@
   "sector": "Technology",
   "industry": "Semiconductors",
   "upstream": [
-    "TSM",
-    "005930.KS",
-    "GlobalFoundries",
-    "UMC",
-    "ASML"
+    "ASML",
+    "AMAT",
+    "LRCX",
+    "Tokyo Electron",
+    "KLA Corporation"
   ],
   "downstream": [
+    "AAPL",
     "CSCO",
+    "Huawei Technologies",
     "DELL",
-    "HPQ",
-    "Huawei",
-    "AMZN"
+    "005930.KS"
   ],
   "competitors": [
     "AVGO",
     "QCOM",
     "INTC",
     "NVDA",
-    "MediaTek"
+    "TXN"
   ],
   "key_products": [
-    "Ethernet controllers",
-    "Network processors",
-    "Storage controllers",
-    "Wi‑Fi chips",
-    "5G modems"
+    "Marvell 88E8000 Ethernet controller",
+    "Marvell 88E9000 Wi‑Fi 6E chip",
+    "Marvell 88A4000 5G modem",
+    "Marvell 88A5000 NVMe SSD controller",
+    "Marvell 88A6000 automotive SoC"
   ],
-  "extracted_at": "2026-04-08 16:55:31",
+  "extracted_at": "2026-04-09 17:00:09",
   "sources": [
     {
       "source": "Wikipedia",
@@ -53,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Marvell_Technology",
-      "query": "Marvell Technology, Inc. major customers clients",
-      "snippet": "Marvell Technology , Inc . is an American company, headquartered in Santa Clara, California, which develops and produces semiconductors and related te"
-    },
-    {
-      "source": "DuckDuckGo",
       "url": "https://www.marvell.com/",
       "query": "Marvell Technology, Inc. major customers clients",
       "snippet": "Designed for your current needs and future ambitions, Marvell delivers the data infrastructure technology transforming tomorrow’s enterprise, cloud, a"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://parameter.io/marvell-mrvl-stock-rockets-21-in-march-on-nvidia-partnership-and-strong-earnings/",
+      "query": "Marvell Technology, Inc. major customers clients",
+      "snippet": "MRVL Stock Card Marvell Technology , Inc ., MRVL. Marvell has simultaneously diversified its client portfolio. Microsoft introduced its enhanced Maia2"
     }
   ]
 }

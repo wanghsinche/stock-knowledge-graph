@@ -3,8 +3,8 @@ ticker: MA
 company: Mastercard Incorporated
 sector: Financial Services
 industry: Credit Services
-extracted_at: 2026-04-07 16:54:15
-last_updated: 2026-04-07
+extracted_at: 2026-04-09 17:06:02
+last_updated: 2026-04-09
 ---
 
 # MA - Mastercard Incorporated
@@ -12,46 +12,46 @@ last_updated: 2026-04-07
 ## 基本信息
 
 - **所属行业**: Financial Services / Credit Services
-- **提取时间**: 2026-04-07 16:54:15
+- **提取时间**: 2026-04-09 17:06:02
 
 ## 产业链关系
 
 ### 上游供应商
+- [[Chip manufacturers (e.g., NXP Semiconductors)]]
 - [[005930.KS]]
 - [[MSFT]]
 - [[Payment network infrastructure providers]]
-- [[Security and fraud‑prevention solution providers]]
-- [[Data analytics and cloud service providers]]
+- [[Security and encryption technology firms]]
 
 ### 下游客户
-- [[Retail merchants and e‑commerce platforms]]
-- [[Banking institutions and credit unions]]
-- [[Card issuers (e.g., banks, fintechs)]]
-- [[Mobile wallet and fintech app developers]]
-- [[Government and public‑sector payment programs]]
+- [[Commercial banks and credit unions]]
+- [[Retail merchants worldwide]]
+- [[Card issuing banks]]
+- [[Financial technology companies]]
+- [[Large multinational corporations]]
 
 ### 竞争对手
 - [[Visa Inc.]]
-- [[American Express Co.]]
+- [[American Express]]
 - [[Discover Financial Services]]
-- [[JCB Co. Ltd.]]
-- [[UnionPay]]
+- [[JCB Co., Ltd.]]
+- [[PayPal Holdings]]
 
 ### 核心产品
-- [[Payment processing network (Mastercard Network)]]
-- [[Card issuance and management services]]
-- [[Tokenization and contactless payment solutions]]
-- [[Fraud detection and risk management tools]]
-- [[Data analytics and business intelligence services]]
+- [[Payment transaction processing]]
+- [[Card issuing and management services]]
+- [[Payment gateway solutions]]
+- [[Fraud detection and prevention tools]]
+- [[Data analytics and reporting services]]
 
 ## 数据来源
 
 - [Mastercard](https://en.wikipedia.org/wiki/Mastercard_Incorporated)
-- [Mastercard Incorporated suppliers manufacturers](https://www.mastercard.com/procurement/us/en/home.html)
-- [Mastercard Incorporated suppliers manufacturers](https://csimarket.com/stocks/MA-Suppliers)
-- [Mastercard Incorporated major customers clients](https://csimarket.com/stocks/MA-Customers)
-- [Mastercard Incorporated major customers clients](https://www.mastercard.com/us/en/for-the-world/about-us.html)
+- [Mastercard Incorporated suppliers manufacturers](https://en.wikipedia.org/wiki/Mastercard)
+- [Mastercard Incorporated suppliers manufacturers](https://ru.wikipedia.org/wiki/Mastercard)
+- [Mastercard Incorporated major customers clients](https://en.wikipedia.org/wiki/Mastercard)
+- [Mastercard Incorporated major customers clients](https://www.mastercard.com/global/en.html)
 
 ## 元数据
 
-- **更新日期**: 2026-04-07
+- **更新日期**: 2026-04-09

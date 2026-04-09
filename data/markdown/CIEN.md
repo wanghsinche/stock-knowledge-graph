@@ -3,8 +3,8 @@ ticker: CIEN
 company: Ciena Corporation
 sector: Technology
 industry: Communication Equipment
-extracted_at: 2026-04-08 17:02:09
-last_updated: 2026-04-08
+extracted_at: 2026-04-09 17:05:30
+last_updated: 2026-04-09
 ---
 
 # CIEN - Ciena Corporation
@@ -12,46 +12,46 @@ last_updated: 2026-04-08
 ## 基本信息
 
 - **所属行业**: Technology / Communication Equipment
-- **提取时间**: 2026-04-08 17:02:09
+- **提取时间**: 2026-04-09 17:05:30
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Semiconductor manufacturers]]
-- [[Fiber optic component suppliers]]
-- [[Optical amplifier producers]]
-- [[Photonic integrated circuit vendors]]
-- [[Electronic design automation (EDA) tool providers]]
+- [[Jabil]]
+- [[Flex]]
+- [[Wistron]]
+- [[Foxconn]]
+- [[Celestica]]
 
 ### 下游客户
-- [[CAT]]
-- [[Cloud service providers]]
-- [[Data center operators]]
-- [[Enterprise networking customers]]
-- [[Government and defense agencies]]
+- [[AMZN]]
+- [[MSFT]]
+- [[GOOGL]]
+- [[AT&T]]
+- [[Verizon]]
 
 ### 竞争对手
 - [[Nokia]]
 - [[Ericsson]]
-- [[Huawei]]
 - [[JNPR]]
-- [[CSCO]]
+- [[Huawei]]
+- [[CommScope]]
 
 ### 核心产品
-- [[Optical transport equipment]]
-- [[Optical switching systems]]
-- [[Optical networking software]]
+- [[Optical transport systems]]
+- [[Optical switching platforms]]
 - [[Optical transceivers]]
-- [[Optical amplifiers]]
+- [[Software‑defined networking solutions]]
+- [[Optical network management software]]
 
 ## 数据来源
 
 - [Ciena](https://en.wikipedia.org/wiki/Ciena_Corporation)
 - [Ciena Corporation suppliers manufacturers](https://www.ciena.com/)
-- [Ciena Corporation suppliers manufacturers](https://finance.yahoo.com/news/ciena-corp-cien-q1-2026-210435020.html)
+- [Ciena Corporation suppliers manufacturers](https://www.morningstar.com/company-reports/1288622-ciena-is-a-beneficiary-of-robust-data-center-and-ai-spending)
 - [Ciena Corporation major customers clients](https://www.ciena.com/)
-- [Ciena Corporation major customers clients](https://www.edgen.tech/stock/CIEN)
+- [Ciena Corporation major customers clients](https://www.baltimoresun.com/1998/08/16/ciena-corp-built-on-dreams-risks-decision-shareholders-will-vote-friday-on-the-sale-of-the-linthicum-telecommunications-company-one-of-the-most-successful-us-start-ups/)
 
 ## 元数据
 
-- **更新日期**: 2026-04-08
+- **更新日期**: 2026-04-09

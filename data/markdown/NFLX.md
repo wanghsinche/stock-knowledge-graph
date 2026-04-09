@@ -3,8 +3,8 @@ ticker: NFLX
 company: Netflix, Inc.
 sector: Communication Services
 industry: Entertainment
-extracted_at: 2026-04-08 16:56:15
-last_updated: 2026-04-08
+extracted_at: 2026-04-09 17:01:28
+last_updated: 2026-04-09
 ---
 
 # NFLX - Netflix, Inc.
@@ -12,23 +12,23 @@ last_updated: 2026-04-08
 ## 基本信息
 
 - **所属行业**: Communication Services / Entertainment
-- **提取时间**: 2026-04-08 16:56:15
+- **提取时间**: 2026-04-09 17:01:28
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Content production studios (e.g., Warner Bros., Disney, Universal)]]
-- [[MSFT]]
-- [[AAPL]]
-- [[Marketing and advertising agencies]]
-- [[Technology infrastructure providers (CDN, encoding services)]]
+- [[Visual Data (UK)]]
+- [[AMZN]]
+- [[Disney]]
+- [[Warner Bros]]
+- [[SONY]]
 
 ### 下游客户
-- [[Individual consumers worldwide]]
-- [[Corporate and institutional subscriptions]]
-- [[Smart TV and streaming device users]]
-- [[Mobile app users]]
-- [[Gaming console users]]
+- [[US households]]
+- [[Canadian households]]
+- [[UK households]]
+- [[German households]]
+- [[Indian households]]
 
 ### 竞争对手
 - [[Disney+]]
@@ -38,20 +38,20 @@ last_updated: 2026-04-08
 - [[AAPL]]
 
 ### 核心产品
-- [[Over-the-top streaming service]]
-- [[Original series and films]]
-- [[Licensed movies and TV shows]]
-- [[Mobile and web applications]]
-- [[Smart TV and gaming console apps]]
+- [[Streaming service]]
+- [[Original programming]]
+- [[Licensed content]]
+- [[Mobile app]]
+- [[Smart TV app]]
 
 ## 数据来源
 
 - [Netflix, Inc.](https://en.wikipedia.org/wiki/Netflix,_Inc.)
+- [Netflix, Inc. suppliers manufacturers](https://npfp.netflixstudios.com/region/global/)
 - [Netflix, Inc. suppliers manufacturers](https://csimarket.com/stocks/NFLX-Suppliers)
-- [Netflix, Inc. suppliers manufacturers](https://porteranalysis.com/porters-five-forces-of-netflix/)
-- [Netflix, Inc. major customers clients](https://www.netflix.com/?locale=en-US)
-- [Netflix, Inc. major customers clients](https://www.bloomberg.com/news/articles/2015-04-15/netflix-tops-62-million-customers-with-gains-in-u-s-abroad)
+- [Netflix, Inc. major customers clients](https://ir.netflix.net/ir-overview/profile/default.aspx)
+- [Netflix, Inc. major customers clients](https://bstrategyhub.com/netflix-target-market/)
 
 ## 元数据
 
-- **更新日期**: 2026-04-08
+- **更新日期**: 2026-04-09

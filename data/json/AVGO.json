@@ -4,34 +4,34 @@
   "sector": "Technology",
   "industry": "Semiconductors",
   "upstream": [
-    "AMAT",
     "ASML",
+    "AMAT",
     "LRCX",
     "Tokyo Electron",
     "KLA Corporation"
   ],
   "downstream": [
+    "AAPL",
+    "005930.KS",
     "CSCO",
     "DELL",
-    "IBM",
-    "MSFT",
-    "AMZN"
+    "MSFT"
   ],
   "competitors": [
     "QCOM",
     "INTC",
     "NVDA",
     "TXN",
-    "MRVL"
+    "CSCO"
   ],
   "key_products": [
+    "Broadcom BCM series Ethernet controllers",
     "Broadcom Wi‑Fi chips",
-    "Broadcom Ethernet controllers",
     "Broadcom broadband modems",
-    "Broadcom storage controllers",
-    "Broadcom RF transceivers"
+    "Broadcom storage controller chips",
+    "Broadcom infrastructure software"
   ],
-  "extracted_at": "2026-04-08 16:52:28",
+  "extracted_at": "2026-04-09 16:59:45",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,15 +41,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Broadcom",
+      "url": "https://www.broadcom.com/how-to-buy/partner-distributor-lookup",
       "query": "Broadcom Inc. suppliers manufacturers",
-      "snippet": "Broadcom Inc . is an American multinational designer, developer, manufacturer , and global supplier of a wide range of semiconductor and infrastructur"
+      "snippet": "The Partner Locator will help you find the local expertise you need to be successful with Broadcom solutions. Begin searching by typing what you're lo"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.broadcom.com/how-to-buy/partner-distributor-lookup",
+      "url": "https://csimarket.com/stocks/AVGO-Suppliers",
       "query": "Broadcom Inc. suppliers manufacturers",
-      "snippet": "Find a local reseller or global distributor of every Broadcom software solution for your business or enterprise, spanning the desktop to the Mainframe"
+      "snippet": "Mar 12, 2026 · Broadcom Inc supply chain, list and performance of Broadcom Incs ' suppliers - CSIMarket"
     },
     {
       "source": "DuckDuckGo",
@@ -61,7 +61,7 @@
       "source": "DuckDuckGo",
       "url": "https://csimarket.com/stocks/AVGO-Customers",
       "query": "Broadcom Inc. major customers clients",
-      "snippet": "Broadcom Inc customers and markets, results by customer and performance relative to AVGO, by company and industry - CSIMarket"
+      "snippet": "Sales to our five largest customers represented 48.3%. Sales to Samsung represented 21.3%. Sales to Apple represented 13.3%."
     }
   ]
 }

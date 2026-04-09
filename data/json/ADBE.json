@@ -1,37 +1,37 @@
 {
   "ticker": "ADBE",
   "company_name": "Adobe Inc.",
-  "sector": "Technology",
-  "industry": "Software - Application",
+  "sector": "Technology / Software - Application",
+  "industry": "Creative & Design Software",
   "upstream": [
-    "INTC",
-    "AMD",
-    "NVDA",
     "AMZN",
-    "MSFT"
+    "MSFT",
+    "GOOGL",
+    "INTC",
+    "NVDA"
   ],
   "downstream": [
-    "Coca‑Cola",
-    "Nike",
-    "Disney",
-    "GOOGL",
-    "MSFT"
+    "ADBE",
+    "ADBE",
+    "ADBE",
+    "ADBE",
+    "ADBE"
   ],
   "competitors": [
-    "MSFT",
-    "AAPL",
     "Autodesk",
-    "Canva",
-    "Figma"
+    "Corel",
+    "Serif",
+    "MSFT",
+    "AAPL"
   ],
   "key_products": [
     "Adobe Photoshop",
     "Adobe Illustrator",
+    "Adobe InDesign",
     "Adobe Premiere Pro",
-    "Adobe After Effects",
     "Adobe Acrobat"
   ],
-  "extracted_at": "2026-03-17 17:03:24",
+  "extracted_at": "2026-04-09 17:06:34",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,25 +43,25 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Adobe_Inc.",
       "query": "Adobe Inc. suppliers manufacturers",
-      "snippet": "Adobe Systems Incorporated (1982–2018). Company type. Adobe added kanji printer products in 1988.[16] Warnock and Geschke were also able to bolster th"
+      "snippet": "Adobe Systems Incorporated (1982–2018). Company type. Public. Adobe added kanji printer products in 1988.[16] Warnock and Geschke were also able to bo"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.adobe.com/",
+      "url": "https://ru.wikipedia.org/wiki/Adobe",
       "query": "Adobe Inc. suppliers manufacturers",
-      "snippet": "Adobe is changing the world through digital experiences. Adobe Firefly. Generate without limits. Unlimited generations."
+      "snippet": "Adobe — американская компания, разработчик программного обеспечения. Штаб-квартира расположена в Сан-Хосе.Доля в акционерном капитале, % Стоимость акц"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://business.adobe.com/customer-success-stories.html",
+      "url": "https://en.wikipedia.org/wiki/Adobe_Inc.",
       "query": "Adobe Inc. major customers clients",
-      "snippet": "Learn how the world’s leading brands use Adobe for Business to build stronger customer experience, increase productivity and transform the way they do"
+      "snippet": "Adobe Systems Incorporated (1982–2018). Company type.As of 2022,[update] Adobe had more than 26,000 employees worldwide.[4] Adobe also has major devel"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.appsruntheworld.com/customers-database/products/view/adobe-creative-cloud",
+      "url": "https://ru.wikipedia.org/wiki/Adobe",
       "query": "Adobe Inc. major customers clients",
-      "snippet": "Since 2010, our global team of researchers has been studying Adobe Creative Cloud customers around the world, aggregating massive amounts of data poin"
+      "snippet": "Adobe — американская компания, разработчик программного обеспечения. Штаб-квартира расположена в Сан-Хосе."
     }
   ]
 }

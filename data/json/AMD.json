@@ -7,31 +7,31 @@
     "TSM",
     "005930.KS",
     "GlobalFoundries",
-    "INTC",
-    "MU"
+    "UMC",
+    "INTC"
   ],
   "downstream": [
+    "MSFT",
     "DELL",
     "HPQ",
-    "Lenovo",
-    "MSFT",
-    "AMZN"
+    "Lenovo Group",
+    "SONY"
   ],
   "competitors": [
     "INTC",
     "NVDA",
     "QCOM",
     "AVGO",
-    "005930.KS"
+    "ARM Holdings"
   ],
   "key_products": [
     "Ryzen CPUs",
     "EPYC CPUs",
     "Radeon GPUs",
     "Xilinx FPGAs",
-    "AMD SoCs"
+    "Radeon Pro GPUs"
   ],
-  "extracted_at": "2026-04-08 16:53:41",
+  "extracted_at": "2026-04-09 16:59:23",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,25 +43,25 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/AMD",
       "query": "Advanced Micro Devices, Inc. suppliers manufacturers",
+      "snippet": "Advanced Micro Devices , Inc . (AMD) is an American multinational semiconductor company headquartered in Santa Clara, California, with significant ope"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/AMD-Suppliers",
+      "query": "Advanced Micro Devices, Inc. suppliers manufacturers",
+      "snippet": "Feb 9, 2026 · Advanced Micro Devices Inc supply chain, list and performance of Advanced Micro Devices Incs ' suppliers - CSIMarket"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/AMD",
+      "query": "Advanced Micro Devices, Inc. major customers clients",
       "snippet": "Advanced Micro Devices , Inc . Advanced Micro Devices , Inc . ( AMD ) is an American multinational semiconductor company headquartered in Santa Clara,"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://ir.amd.com/",
-      "query": "Advanced Micro Devices, Inc. suppliers manufacturers",
-      "snippet": "Advanced Micro Devices , Inc . IR Overview. Investor Relations. AMD Completes Divestiture of ZT Systems Data Center Infrastructure Manufacturing Busin"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/AMD-Customers",
       "query": "Advanced Micro Devices, Inc. major customers clients",
-      "snippet": "Advanced Micro Devices Inc customers and markets, results by customer and performance relative to AMD, by company and industry - CSIMarket"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://ir.amd.com/financial-information/sec-filings/content/0001193125-25-067185/0001193125-25-067185.pdf",
-      "query": "Advanced Micro Devices, Inc. major customers clients",
-      "snippet": "With our high-performance product portfolios, we deliver differentiated solutions, such as our semi-custom System-on-Chip (SoCs), Adaptive SoCs, and a"
+      "snippet": "Advanced Micro Devices , Inc . IR Overview. Investor Relations. AMD Expands AI Leadership Across Client , Graphics, and Software with New Ryzen, Ryzen"
     }
   ]
 }

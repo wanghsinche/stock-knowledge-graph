@@ -3,8 +3,8 @@ ticker: CCJ
 company: Cameco Corporation
 sector: Energy
 industry: Uranium
-extracted_at: 2026-04-08 17:04:01
-last_updated: 2026-04-08
+extracted_at: 2026-04-09 17:07:22
+last_updated: 2026-04-09
 ---
 
 # CCJ - Cameco Corporation
@@ -12,46 +12,46 @@ last_updated: 2026-04-08
 ## 基本信息
 
 - **所属行业**: Energy / Uranium
-- **提取时间**: 2026-04-08 17:04:01
+- **提取时间**: 2026-04-09 17:07:22
 
 ## 产业链关系
 
 ### 上游供应商
 - [[Uranium ore suppliers]]
 - [[Mining equipment manufacturers]]
-- [[Drilling contractors]]
-- [[Mining service providers]]
-- [[Fuel processing suppliers]]
+- [[Fuel processing service providers]]
+- [[Exploration technology firms]]
+- [[Geological survey companies]]
 
 ### 下游客户
-- [[EDF (France)]]
-- [[Westinghouse]]
-- [[US Department of Energy]]
-- [[Rosatom (Russia)]]
-- [[China National Nuclear Corporation]]
+- [[Nuclear power plant operators]]
+- [[Government nuclear agencies]]
+- [[Electricity utilities]]
+- [[Research laboratories]]
+- [[International nuclear fuel suppliers]]
 
 ### 竞争对手
 - [[Kazatomprom]]
-- [[Energy Fuels]]
+- [[Orano]]
 - [[Uranium Energy Corp]]
-- [[Uranium One]]
-- [[NexGen Energy]]
+- [[Energy Fuels Inc.]]
+- [[NexGen Energy Ltd.]]
 
 ### 核心产品
-- [[Uranium ore]]
+- [[Uranium hexafluoride (UF6)]]
+- [[Uranium dioxide (UO2)]]
+- [[Enriched uranium fuel assemblies]]
 - [[Uranium concentrate]]
-- [[Uranium hexafluoride]]
-- [[Enriched uranium]]
-- [[Uranium fuel]]
+- [[Uranium ore concentrates]]
 
 ## 数据来源
 
 - [Cameco](https://en.wikipedia.org/wiki/Cameco_Corporation)
-- [Cameco Corporation suppliers manufacturers](https://www.cameco.com/businesses)
-- [Cameco Corporation suppliers manufacturers](https://www.camecofuel.com/about/cameco-corporation)
+- [Cameco Corporation suppliers manufacturers](https://www.cameco.com/)
+- [Cameco Corporation suppliers manufacturers](https://www.banktrack.org/download/cameco_corporate_factsheet/cameco_corporate_fact_sheet.pdf)
 - [Cameco Corporation major customers clients](https://www.cameco.com/)
-- [Cameco Corporation major customers clients](https://www.forbes.com/companies/cameco/)
+- [Cameco Corporation major customers clients](https://www.researchandmarkets.com/reports/5309676/cameco-corp-company-profile-and-swot-analysis)
 
 ## 元数据
 
-- **更新日期**: 2026-04-08
+- **更新日期**: 2026-04-09

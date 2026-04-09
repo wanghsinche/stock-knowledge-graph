@@ -4,34 +4,34 @@
   "sector": "Technology",
   "industry": "Software - Infrastructure",
   "upstream": [
-    "INTC",
-    "AMD",
     "DELL",
     "HPQ",
-    "CSCO"
+    "CSCO",
+    "INTC",
+    "IBM"
   ],
   "downstream": [
-    "Walmart",
     "JPMorgan Chase",
-    "AT&T",
     "Bank of America",
+    "Walmart",
+    "AT&T",
     "Verizon"
   ],
   "competitors": [
     "MSFT",
-    "SAP",
+    "AMZN",
     "IBM",
-    "CRM",
-    "AMZN"
+    "SAP",
+    "CRM"
   ],
   "key_products": [
     "Oracle Database",
     "Oracle Cloud Infrastructure",
-    "Oracle ERP Cloud",
-    "Oracle Autonomous Database",
-    "Oracle Analytics Cloud"
+    "Oracle E-Business Suite",
+    "Oracle Fusion Applications",
+    "Oracle Autonomous Database"
   ],
-  "extracted_at": "2026-04-08 16:54:49",
+  "extracted_at": "2026-04-09 17:00:33",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/List_of_acquisitions_by_Oracle",
+      "url": "https://www.oracle.com/corporate/suppliers/",
       "query": "Oracle Corporation suppliers manufacturers",
-      "snippet": "This is a listing of Oracle Corporation's corporate acquisitions, including acquisitions of both companies and individual products."
+      "snippet": "Oracle is always looking for suppliers who can meet our high quality standards and satisfy our ever-evolving business needs. We believe in the importa"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.oracle.com/scm/manufacturing/",
+      "url": "https://www.accio.com/supplier/oracle-approved-supplier-list",
       "query": "Oracle Corporation suppliers manufacturers",
-      "snippet": "Oracle Fusion Cloud Manufacturing helps you streamline your global, mixed-mode manufacturing to maximize operational performance."
+      "snippet": "2 days ago · Need Oracle-approved suppliers ? Discover verified vendors offering Oracle software licenses, hardware, and solutions. Click to access th"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.oracle.com/customers/",
+      "url": "https://en.wikipedia.org/wiki/Oracle_Corporation",
       "query": "Oracle Corporation major customers clients",
-      "snippet": "Oracle Customer Successes Innovation, ease of use, better results—those are just some of the reasons organizations in all industries and of all sizes "
+      "snippet": "Oracle Corporation is an American multinational technology company headquartered in Austin, Texas. Co-founded in Santa Clara, California by Bob Miner,"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.thomsondata.com/customer-base/oracle.php",
+      "url": "https://www.oracle.com/corporate/",
       "query": "Oracle Corporation major customers clients",
-      "snippet": "Technographic Data of Companies That Use Oracle Oracle Customers List by Industry Different industries use Oracle technology for their business . Look"
+      "snippet": "Oracle is pleased to provide information about our company, customers , partners, events, communities, press, analysts, investors, and careers.The com"
     }
   ]
 }

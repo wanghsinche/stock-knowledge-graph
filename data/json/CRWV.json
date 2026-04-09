@@ -2,36 +2,36 @@
   "ticker": "CRWV",
   "company_name": "CoreWeave, Inc.",
   "sector": "Technology / Software - Infrastructure",
-  "industry": "Artificial Intelligence Cloud Computing",
+  "industry": "Artificial Intelligence Cloud Services",
   "upstream": [
     "NVDA",
     "AMD",
     "INTC",
-    "DELL",
-    "HPQ"
+    "QCOM",
+    "005930.KS"
   ],
   "downstream": [
-    "OpenAI",
-    "DeepMind",
-    "TSLA",
-    "ADBE",
-    "IBM"
+    "META",
+    "MSFT",
+    "AMZN",
+    "GOOGL",
+    "Alibaba Cloud"
   ],
   "competitors": [
     "NVDA",
-    "AMD",
+    "AWS Inferentia",
     "GOOGL",
-    "AMZN",
-    "MSFT"
+    "MSFT",
+    "IBM"
   ],
   "key_products": [
-    "GPU Cloud Infrastructure",
-    "GPU-as-a-Service",
-    "AI Training Clusters",
-    "Chip Management Software",
-    "AI Compute Platform"
+    "GPU‑based AI cloud infrastructure",
+    "GPU‑as‑a‑Service (GPUaaS)",
+    "Chip management software",
+    "AI compute workloads",
+    "Data center services"
   ],
-  "extracted_at": "2026-04-08 17:00:45",
+  "extracted_at": "2026-04-09 16:59:34",
   "sources": [
     {
       "source": "Wikipedia",
@@ -59,9 +59,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://dgtlinfra.com/coreweave-data-center-locations/",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-09/coreweave-expands-meta-deal-for-ai-computing-to-21-billion",
       "query": "CoreWeave, Inc. major customers clients",
-      "snippet": "Customers – AI Leaders and Innovators. CoreWeave serves a diverse range of customers across various industries, with a particular focus on large langu"
+      "snippet": "CoreWeave will provide AI cloud capacity to Meta from multiple data centers powered in part by the Rubin systems of chips company Nvidia Corp., throug"
     }
   ]
 }

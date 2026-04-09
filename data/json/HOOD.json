@@ -2,36 +2,36 @@
   "ticker": "HOOD",
   "company_name": "Robinhood Markets, Inc.",
   "sector": "Financial Services",
-  "industry": "Capital Markets",
+  "industry": "Capital Markets / Brokerage",
   "upstream": [
-    "Bloomberg",
-    "Refinitiv",
     "AMZN",
-    "Stripe",
-    "Plaid"
+    "Plaid (account aggregation)",
+    "Stripe (payment processing)",
+    "Bloomberg (market data feeds)",
+    "Refinitiv (market data feeds)"
   ],
   "downstream": [
-    "Retail investors",
-    "Institutional investors",
-    "High‑frequency traders",
-    "Corporate clients",
-    "Financial advisors"
+    "Retail investors using the Robinhood app",
+    "Institutional investors using Robinhood's API",
+    "Corporate clients for employee stock purchase plans",
+    "High‑frequency traders using Robinhood Gold",
+    "Crypto traders on the Robinhood crypto platform"
   ],
   "competitors": [
     "Charles Schwab",
     "E*TRADE",
-    "Fidelity",
+    "Fidelity Investments",
     "TD Ameritrade",
     "Webull"
   ],
   "key_products": [
-    "Commission‑free stock trading",
+    "Commission‑free stock and ETF trading",
     "Options trading",
-    "Cryptocurrency trading",
     "Margin trading (Robinhood Gold)",
-    "Cash management & interest‑earning accounts"
+    "Cash management and interest‑earning accounts",
+    "Cryptocurrency trading"
   ],
-  "extracted_at": "2026-04-08 16:56:42",
+  "extracted_at": "2026-04-09 17:03:22",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,9 +47,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://robinhood.com/",
+      "url": "https://csimarket.com/stocks/HOOD-Suppliers",
       "query": "Robinhood Markets, Inc. suppliers manufacturers",
-      "snippet": "Trade stocks on Robinhood with commission-free investing & advanced trading tools. Access fractional shares, real-time market data, and more."
+      "snippet": "Feb 28, 2026 · For your research, we’ve provided nine additional tables on Robinhood Markets Inc ’s suppliers . You can find them in the navigation me"
     },
     {
       "source": "DuckDuckGo",
@@ -59,9 +59,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://investors.robinhood.com/news-releases/news-release-details/robinhood-markets-inc-reports-november-2025-operating-data",
+      "url": "https://www.investing.com/equities/robinhood-markets",
       "query": "Robinhood Markets, Inc. major customers clients",
-      "snippet": "Dec 10, 2025 · MENLO PARK, Calif. , Dec. 10, 2025 (GLOBE NEWSWIRE) -- Robinhood Markets , Inc . (“Robinhood”) (NASDAQ: HOOD) today reported select mon"
+      "snippet": "Robinhood Markets , Inc . was incorporated in 2013 and is headquartered in Menlo Park, California.For 2026, Robinhood targets over 1 million Gold Card"
     }
   ]
 }

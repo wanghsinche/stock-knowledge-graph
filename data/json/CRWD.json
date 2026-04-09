@@ -1,37 +1,17 @@
 {
   "ticker": "CRWD",
   "company_name": "CrowdStrike Holdings, Inc.",
-  "sector": "Technology",
-  "industry": "Software - Infrastructure",
-  "upstream": [
-    "MSFT",
-    "AMZN",
-    "GOOGL",
-    "CSCO",
-    "IBM"
-  ],
-  "downstream": [
-    "U.S. federal government agencies",
-    "Financial services firms",
-    "Healthcare providers",
-    "Retail companies",
-    "Manufacturing enterprises"
-  ],
-  "competitors": [
-    "Palo Alto Networks",
-    "SentinelOne",
-    "McAfee",
-    "AVGO",
-    "Fortinet"
-  ],
+  "sector": "Technology / Software - Infrastructure",
+  "industry": "Cybersecurity",
+  "upstream": [],
+  "downstream": [],
+  "competitors": [],
   "key_products": [
-    "CrowdStrike Falcon platform",
-    "Falcon Prevent",
-    "Falcon Insight",
-    "Falcon Discover",
-    "Falcon OverWatch"
+    "Endpoint security",
+    "Threat intelligence",
+    "Cyberattack response services"
   ],
-  "extracted_at": "2026-04-08 16:58:55",
+  "extracted_at": "2026-04-09 17:04:03",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,21 +27,21 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.tradingview.com/symbols/NASDAQ-CRWD/",
+      "url": "https://csimarket.com/stocks/CRWD-Growth-vs-Suppliers",
       "query": "CrowdStrike Holdings, Inc. suppliers manufacturers",
-      "snippet": "View live CrowdStrike Holdings , Inc . chart to track its stock's price action. Find market predictions, CRWD financials and market news."
+      "snippet": "Crowdstrike Holdings Inc Competitors Results. CRWD vs Competitors Stock Performance. Crowdstrike Holdings Inc (CRWD) — Comparison of Quarterly Growth "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/CrowdStrike",
+      "url": "https://theirstack.com/en/technology/crowdstrike",
       "query": "CrowdStrike Holdings, Inc. major customers clients",
-      "snippet": "CrowdStrike Holdings , Inc . CrowdStrike Holdings , Inc . is an American cybersecurity technology company based in Austin, Texas. It provides endpoint"
+      "snippet": "Download a list of 12,330 companies that use CrowdStrike with enriched data including industry, company size, location, funding rounds, and revenue fi"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.investing.com/equities/crowdstrike-holdings-inc",
+      "url": "https://www.appsruntheworld.com/customers-database/vendors/view/crowdstrike",
       "query": "CrowdStrike Holdings, Inc. major customers clients",
-      "snippet": "CrowdStrike Holdings Inc is listed and trades on the NASDAQ stock exchange. CrowdStrike leads the EDR market with innovative solutions like Falcon Fle"
+      "snippet": "List of companies using or evaluating CrowdStrike applications, with details on their revenues, employees, industries, and locations."
     }
   ]
 }

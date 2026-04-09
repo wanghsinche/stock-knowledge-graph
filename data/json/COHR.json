@@ -3,11 +3,35 @@
   "company_name": "Coherent Corp.",
   "sector": "Technology",
   "industry": "Scientific & Technical Instruments",
-  "upstream": [],
-  "downstream": [],
-  "competitors": [],
-  "key_products": [],
-  "extracted_at": "2026-04-08 17:01:41",
+  "upstream": [
+    "Optical glass manufacturers",
+    "Semiconductor wafer suppliers",
+    "Laser diode suppliers",
+    "Photonic component suppliers",
+    "Rare earth element suppliers"
+  ],
+  "downstream": [
+    "AAPL",
+    "Vimeo",
+    "Priority Technology",
+    "MSFT",
+    "GOOGL"
+  ],
+  "competitors": [
+    "II-VI Incorporated",
+    "Thorlabs, Inc.",
+    "Edmund Optics, Inc.",
+    "Newport Corporation",
+    "Lumentum Holdings"
+  ],
+  "key_products": [
+    "Laser systems",
+    "Optical materials",
+    "Laser diodes",
+    "Photonic components",
+    "Optical fibers"
+  ],
+  "extracted_at": "2026-04-09 17:02:41",
   "sources": [
     {
       "source": "Wikipedia",
@@ -17,15 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.coherent.com/company/locations",
+      "url": "https://en.wikipedia.org/wiki/Coherent_Corp.",
       "query": "Coherent Corp. suppliers manufacturers",
-      "snippet": "Locate Coherent locations across the globe or discover our list of partners who can help you transform and innovate your laser application or solution"
+      "snippet": "Coherent Corp . is an American manufacturer of optical materials and semiconductors. As of 2023, the company had 26,622 employees. Their stock is list"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.mouser.com/manufacturer/coherent/",
+      "url": "https://www.coherent.com/",
       "query": "Coherent Corp. suppliers manufacturers",
-      "snippet": "Coherent Corp . is a global leader in materials, networking, and lasers for the industrial, communications, electronics, and instrumentation markets. "
+      "snippet": "Learn how Coherent empowers innovations and breakthrough technologies for the industrial, communications, electronics, and instrumentation markets."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://finviz.com/news/147509/can-coherent-corps-ai-driven-growth-keep-up-its-momentum",
+      "query": "Coherent Corp. major customers clients",
+      "snippet": "Coherent Corp , Priority Technology and Vimeo carry a Value Score of C, A and B, respectively. The Zacks Consensus Estimate for COHR’s earnings for 20"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.linkedin.com/posts/jim-anderson-a7215b12_it-was-terrific-to-join-coherent-corps-activity-7343101308377157633-sRxT",
+      "query": "Coherent Corp. major customers clients",
+      "snippet": "Coherent Corp . is proud to be among the first partners in Apple’s new American Manufacturing Program, focused on expanding advanced manufacturing in "
     }
   ]
 }

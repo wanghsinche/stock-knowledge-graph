@@ -6,32 +6,32 @@
   "upstream": [
     "TSM",
     "005930.KS",
-    "MU",
-    "SK Hynix",
-    "ASE Technology Holding"
+    "GlobalFoundries",
+    "ASE Technology Holding",
+    "Amkor Technology"
   ],
   "downstream": [
     "SONY",
     "MSFT",
     "DELL",
-    "AMZN",
-    "TSLA"
+    "TSLA",
+    "BMW"
   ],
   "competitors": [
     "AMD",
     "INTC",
     "QCOM",
-    "AAPL",
+    "ARM Holdings",
     "005930.KS"
   ],
   "key_products": [
-    "GeForce GPUs",
+    "GeForce RTX GPUs",
+    "Quadro RTX GPUs",
     "Tesla GPUs",
-    "Tegra SoCs",
-    "CUDA API",
-    "NVIDIA Drive"
+    "Jetson SoCs",
+    "CUDA API"
   ],
-  "extracted_at": "2026-04-08 16:51:34",
+  "extracted_at": "2026-04-09 16:57:19",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,15 +41,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.moomoo.com/community/feed/nvidia-supply-chain-in-one-chart-who-are-the-suppliers-111805778165765",
+      "url": "https://en.wikipedia.org/wiki/Nvidia",
       "query": "NVIDIA Corporation suppliers manufacturers",
-      "snippet": "Jan 23, 2024 · Nvidia Supply Chain in One Chart: Who Are the Suppliers of the AI Giant? Taiwan Semiconductor Manufacturing Company (TSMC), the world's"
+      "snippet": "2 days ago - In August 2025, Nvidia ordered ... due to security concerns. The company directed suppliers including Taiwan Semiconductor Manufacturing "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.linkedin.com/posts/josephjacks_heres-the-comprehensive-top-40-nvidia-core-activity-7416315564840726528-mLQF",
+      "url": "https://www.theaireport.ai/partner-columns/nvidias-supply-chain--part-1",
       "query": "NVIDIA Corporation suppliers manufacturers",
-      "snippet": "Jan 11, 2026 · The total value of these 40 companies is roughly $6.5 Trillion. NVIDIA alone is worth ~70% of its supply chain combined!! USA (18): Dom"
+      "snippet": "September 9, 2025 - Answering this simple question could unearth some investment opportunities that average ETF investors will miss. Here’s what you n"
     },
     {
       "source": "DuckDuckGo",
@@ -59,9 +59,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.nvidia.com/en-us/",
+      "url": "https://fortune.com/2024/08/29/nvidia-jensen-huang-ai-customers/",
       "query": "NVIDIA Corporation major customers clients",
-      "snippet": "NVIDIA invents the GPU and drives advances in AI, HPC, gaming, creative design, autonomous vehicles, and robotics."
+      "snippet": "Take “ Customer B” cited in the filing, for example: Its direct purchases represented 11% of Nvidia ’s $30 billion in revenue. That means a single com"
     }
   ]
 }

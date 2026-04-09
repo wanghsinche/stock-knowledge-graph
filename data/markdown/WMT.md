@@ -1,18 +1,18 @@
 ---
 ticker: WMT
 company: Walmart Inc.
-sector: Consumer Defensive
-industry: Discount Stores
-extracted_at: 2026-04-08 16:58:30
-last_updated: 2026-04-08
+sector: Consumer Defensive / Discount Stores
+industry: Retail - Discount Stores
+extracted_at: 2026-04-09 17:06:14
+last_updated: 2026-04-09
 ---
 
 # WMT - Walmart Inc.
 
 ## 基本信息
 
-- **所属行业**: Consumer Defensive / Discount Stores
-- **提取时间**: 2026-04-08 16:58:30
+- **所属行业**: Consumer Defensive / Discount Stores / Retail - Discount Stores
+- **提取时间**: 2026-04-09 17:06:14
 
 ## 产业链关系
 
@@ -20,28 +20,28 @@ last_updated: 2026-04-08
 - [[Procter & Gamble]]
 - [[Coca‑Cola]]
 - [[PepsiCo]]
-- [[Nike]]
+- [[Nestlé]]
 - [[Johnson & Johnson]]
 
 ### 下游客户
 - [[Individual consumers]]
-- [[Small businesses]]
 - [[Online shoppers]]
-- [[Corporate buyers]]
-- [[Local communities]]
+- [[Small businesses]]
+- [[Corporate clients]]
+- [[Government agencies]]
 
 ### 竞争对手
 - [[Target]]
 - [[Costco]]
 - [[AMZN]]
-- [[BJ's Wholesale Club]]
+- [[BJ’s Wholesale Club]]
 - [[Dollar General]]
 
 ### 核心产品
 - [[Groceries]]
 - [[Household goods]]
+- [[Apparel]]
 - [[Electronics]]
-- [[Clothing]]
 - [[Pharmacy products]]
 
 ## 数据来源
@@ -54,4 +54,4 @@ last_updated: 2026-04-08
 
 ## 元数据
 
-- **更新日期**: 2026-04-08
+- **更新日期**: 2026-04-09

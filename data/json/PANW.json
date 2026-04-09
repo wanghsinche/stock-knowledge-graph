@@ -4,17 +4,17 @@
   "sector": "Technology / Software - Infrastructure",
   "industry": "Cybersecurity",
   "upstream": [
-    "Hardware manufacturers",
-    "Chip suppliers",
-    "Cloud infrastructure providers",
-    "Software vendors",
-    "Distributors"
+    "INTC",
+    "QCOM",
+    "AVGO",
+    "NVDA",
+    "MSFT"
   ],
   "downstream": [
-    "Wipro",
-    "Tyson Foods",
+    "Walmart",
+    "JPMorgan Chase",
     "Bank of America",
-    "Citigroup",
+    "Coca‑Cola",
     "MSFT"
   ],
   "competitors": [
@@ -22,16 +22,16 @@
     "Fortinet",
     "Check Point Software Technologies",
     "CrowdStrike",
-    "Sophos"
+    "McAfee"
   ],
   "key_products": [
-    "Next-Generation Firewall",
-    "Prisma Cloud",
+    "Next‑Generation Firewall",
+    "Panorama Management",
+    "WildFire Threat Intelligence",
     "Cortex XDR",
-    "Unit 42 threat research",
-    "Advanced firewalls"
+    "Prisma Cloud"
   ],
-  "extracted_at": "2026-04-08 17:01:09",
+  "extracted_at": "2026-04-09 17:06:56",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://paloaltonetworks.my.site.com/NextWavePartnerProgram/s/partnerlocator",
+      "url": "https://en.wikipedia.org/wiki/Palo_Alto_Networks",
       "query": "Palo Alto Networks, Inc. suppliers manufacturers",
-      "snippet": "Distributors Extend Palo Alto Networks partners reach to address customer demand for Palo Alto Networks security solutions, services and support on a "
+      "snippet": "Palo Alto Networks , Inc . is an American multinational cybersecurity company with headquarters in Santa Clara, California. The core product is a plat"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://technologypartners.paloaltonetworks.com/English/directory",
+      "url": "https://ru.wikipedia.org/wiki/Palo_Alto_Networks",
       "query": "Palo Alto Networks, Inc. suppliers manufacturers",
-      "snippet": "The Palo Alto Networks technology partner portal is powered by Impartner. Read the Impartner Privacy Policy. https://www.paloaltonetworks.com"
+      "snippet": "Palo Alto Networks , Inc . — американская компания, оказывающая услуги в области информационной безопасности. Головной офис компании расположен в Сант"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.paloaltonetworks.com/customers",
+      "url": "https://en.wikipedia.org/wiki/Palo_Alto_Networks",
       "query": "Palo Alto Networks, Inc. major customers clients",
-      "snippet": "Discover how leading global brands like Wipro and Tyson Foods secure their operations with Palo Alto Networks . Explore customer success stories in cy"
+      "snippet": "Palo Alto Networks , Inc . is an American multinational cybersecurity company with headquarters in Santa Clara, California. The core product is a plat"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.spanglobalservices.com/blog/top-companies-using-palo-alto-networks/",
+      "url": "https://www.paloaltonetworks.com/",
       "query": "Palo Alto Networks, Inc. major customers clients",
-      "snippet": "Dec 9, 2025 · In this comprehensive guide, we explore the top 10 companies using Palo Alto Networks , examining how these industry leaders leverage ad"
+      "snippet": "Customers . Explore Network Security. 13x. Palo Alto Networks : Cloud Security Leader in First-Ever CNAPP Report. The Forrester Wave™: Cloud Workload "
     }
   ]
 }

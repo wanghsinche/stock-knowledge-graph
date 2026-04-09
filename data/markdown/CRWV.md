@@ -2,17 +2,17 @@
 ticker: CRWV
 company: CoreWeave, Inc.
 sector: Technology / Software - Infrastructure
-industry: Artificial Intelligence Cloud Computing
-extracted_at: 2026-04-08 17:00:45
-last_updated: 2026-04-08
+industry: Artificial Intelligence Cloud Services
+extracted_at: 2026-04-09 16:59:34
+last_updated: 2026-04-09
 ---
 
 # CRWV - CoreWeave, Inc.
 
 ## 基本信息
 
-- **所属行业**: Technology / Software - Infrastructure / Artificial Intelligence Cloud Computing
-- **提取时间**: 2026-04-08 17:00:45
+- **所属行业**: Technology / Software - Infrastructure / Artificial Intelligence Cloud Services
+- **提取时间**: 2026-04-09 16:59:34
 
 ## 产业链关系
 
@@ -20,29 +20,29 @@ last_updated: 2026-04-08
 - [[NVDA]]
 - [[AMD]]
 - [[INTC]]
-- [[DELL]]
-- [[HPQ]]
+- [[QCOM]]
+- [[005930.KS]]
 
 ### 下游客户
-- [[OpenAI]]
-- [[DeepMind]]
-- [[TSLA]]
-- [[ADBE]]
-- [[IBM]]
+- [[META]]
+- [[MSFT]]
+- [[AMZN]]
+- [[GOOGL]]
+- [[Alibaba Cloud]]
 
 ### 竞争对手
 - [[NVDA]]
-- [[AMD]]
+- [[AWS Inferentia]]
 - [[GOOGL]]
-- [[AMZN]]
 - [[MSFT]]
+- [[IBM]]
 
 ### 核心产品
-- [[GPU Cloud Infrastructure]]
-- [[GPU-as-a-Service]]
-- [[AI Training Clusters]]
-- [[Chip Management Software]]
-- [[AI Compute Platform]]
+- [[GPU‑based AI cloud infrastructure]]
+- [[GPU‑as‑a‑Service (GPUaaS)]]
+- [[Chip management software]]
+- [[AI compute workloads]]
+- [[Data center services]]
 
 ## 数据来源
 
@@ -50,8 +50,8 @@ last_updated: 2026-04-08
 - [CoreWeave, Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/CoreWeave)
 - [CoreWeave, Inc. suppliers manufacturers](https://www.roi-nj.com/2026/03/31/tech/coreweave-closes-8-5b-financing-facility-to-support-ai-cloud-platform-expansion/)
 - [CoreWeave, Inc. major customers clients](https://en.wikipedia.org/wiki/CoreWeave)
-- [CoreWeave, Inc. major customers clients](https://dgtlinfra.com/coreweave-data-center-locations/)
+- [CoreWeave, Inc. major customers clients](https://www.bloomberg.com/news/articles/2026-04-09/coreweave-expands-meta-deal-for-ai-computing-to-21-billion)
 
 ## 元数据
 
-- **更新日期**: 2026-04-08
+- **更新日期**: 2026-04-09
