@@ -3,8 +3,8 @@ ticker: RKLB
 company: Rocket Lab Corporation
 sector: Industrials
 industry: Aerospace & Defense
-extracted_at: 2026-04-08 16:58:15
-last_updated: 2026-04-08
+extracted_at: 2026-04-10 16:50:59
+last_updated: 2026-04-10
 ---
 
 # RKLB - Rocket Lab Corporation
@@ -12,46 +12,45 @@ last_updated: 2026-04-08
 ## 基本信息
 
 - **所属行业**: Industrials / Aerospace & Defense
-- **提取时间**: 2026-04-08 16:58:15
+- **提取时间**: 2026-04-10 16:50:59
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Star trackers]]
-- [[Reaction wheels]]
-- [[Solar panels]]
-- [[Composite structures]]
-- [[EO/IR sensors]]
+- [[Aerojet Rocketdyne]]
+- [[Honeywell]]
+- [[Boeing]]
+- [[Northrop Grumman]]
+- [[Lockheed Martin]]
 
 ### 下游客户
-- [[Small satellite operators]]
-- [[Constellation operators]]
-- [[Space agencies]]
-- [[Commercial satellite operators]]
-- [[Research institutions]]
+- [[NASA]]
+- [[U.S. Air Force]]
+- [[European Space Agency]]
+- [[Planet Labs]]
+- [[Planet]]
 
 ### 竞争对手
 - [[SpaceX]]
-- [[Firefly Aerospace]]
-- [[Virgin Orbit]]
-- [[Astra]]
-- [[Blue Origin (New Shepard)]]
+- [[Blue Origin]]
+- [[United Launch Alliance]]
+- [[Arianespace]]
+- [[Relativity Space]]
 
 ### 核心产品
-- [[Electron launch vehicle]]
+- [[Electron orbital rocket]]
+- [[Neutron medium‑lift rocket]]
 - [[HASTE suborbital vehicle]]
-- [[Neutron medium‑lift vehicle]]
-- [[Satellite components (star trackers, reaction wheels, solar panels)]]
-- [[Software‑defined radios]]
+- [[Satellite components (star trackers, reaction wheels, solar panels, software‑defined radios, composite structures, separation systems, EO/IR sensors)]]
 
 ## 数据来源
 
 - [Rocket Lab](https://en.wikipedia.org/wiki/Rocket_Lab_Corporation)
 - [Rocket Lab Corporation suppliers manufacturers](https://en.wikipedia.org/wiki/Rocket_Lab)
-- [Rocket Lab Corporation suppliers manufacturers](https://finance.yahoo.com/quote/RKLB/profile/?fr=sycsrp_catchall)
-- [Rocket Lab Corporation major customers clients](https://rocketlabcorp.com/)
-- [Rocket Lab Corporation major customers clients](https://qz.com/rocket-lab-stock-neutral-view-amid-strong-demand-and-execution-risks)
+- [Rocket Lab Corporation suppliers manufacturers](https://rocketlabcorp.com/)
+- [Rocket Lab Corporation major customers clients](https://csimarket.com/stocks/RKLB-Customers)
+- [Rocket Lab Corporation major customers clients](https://businessmodelcanvastemplate.com/blogs/target-market/rocket-lab-target-market)
 
 ## 元数据
 
-- **更新日期**: 2026-04-08
+- **更新日期**: 2026-04-10

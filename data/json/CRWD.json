@@ -1,17 +1,37 @@
 {
   "ticker": "CRWD",
   "company_name": "CrowdStrike Holdings, Inc.",
-  "sector": "Technology / Software - Infrastructure",
-  "industry": "Cybersecurity",
-  "upstream": [],
-  "downstream": [],
-  "competitors": [],
-  "key_products": [
-    "Endpoint security",
-    "Threat intelligence",
-    "Cyberattack response services"
+  "sector": "Technology",
+  "industry": "Software - Infrastructure",
+  "upstream": [
+    "MSFT",
+    "AMZN",
+    "GOOGL",
+    "DELL",
+    "CSCO"
   ],
-  "extracted_at": "2026-04-09 17:04:03",
+  "downstream": [
+    "Bank of America",
+    "MSFT",
+    "GOOGL",
+    "AMZN",
+    "Facebook"
+  ],
+  "competitors": [
+    "Palo Alto Networks",
+    "McAfee",
+    "Symantec",
+    "SentinelOne",
+    "Fortinet"
+  ],
+  "key_products": [
+    "CrowdStrike Falcon",
+    "Falcon Prevent",
+    "Falcon Insight",
+    "Falcon Discover",
+    "Falcon Response"
+  ],
+  "extracted_at": "2026-04-10 16:44:59",
   "sources": [
     {
       "source": "Wikipedia",

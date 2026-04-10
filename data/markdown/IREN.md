@@ -1,57 +1,57 @@
 ---
 ticker: IREN
 company: IREN Limited
-sector: Financial Services / Capital Markets
-industry: Cryptocurrency Mining
-extracted_at: 2026-04-02 16:53:02
-last_updated: 2026-04-02
+sector: Basic Materials
+industry: Mining
+extracted_at: 2026-04-10 16:49:57
+last_updated: 2026-04-10
 ---
 
 # IREN - IREN Limited
 
 ## 基本信息
 
-- **所属行业**: Financial Services / Capital Markets / Cryptocurrency Mining
-- **提取时间**: 2026-04-02 16:53:02
+- **所属行业**: Basic Materials / Mining
+- **提取时间**: 2026-04-10 16:49:57
 
 ## 产业链关系
 
 ### 上游供应商
-- [[NVDA]]
-- [[ASIC manufacturers (Bitmain, Canaan)]]
-- [[Data center equipment suppliers]]
-- [[Cloud infrastructure providers (AWS, Azure)]]
-- [[Power supply manufacturers]]
+- [[CAT]]
+- [[Komatsu Ltd.]]
+- [[Sandvik AB]]
+- [[ABB Ltd.]]
+- [[Siemens AG]]
 
 ### 下游客户
-- [[Bitcoin mining services]]
-- [[Cryptocurrency exchanges]]
-- [[Institutional investors]]
-- [[Cloud mining customers]]
-- [[Retail mining enthusiasts]]
+- [[Glencore plc]]
+- [[Rio Tinto]]
+- [[Vale S.A.]]
+- [[Alcoa Corporation]]
+- [[Freeport-McMoRan]]
 
 ### 竞争对手
-- [[Bitmain]]
-- [[Canaan]]
-- [[Ebang]]
-- [[Hive Blockchain]]
-- [[Marathon Digital]]
+- [[Newcrest Mining]]
+- [[HPQ]]
+- [[META]]
+- [[AngloGold Ashanti]]
+- [[Gold Fields]]
 
 ### 核心产品
-- [[GPU-based mining rigs]]
-- [[ASIC mining rigs]]
-- [[Data center solutions]]
-- [[Cloud mining services]]
-- [[Mining software]]
+- [[Copper]]
+- [[Gold]]
+- [[Silver]]
+- [[Zinc]]
+- [[Lead]]
 
 ## 数据来源
 
 - 
-- [IREN Limited suppliers manufacturers](https://www.iren.com/)
-- [IREN Limited suppliers manufacturers](https://csimarket.com/stocks/suppliers_glance.php?code=IREN)
-- [IREN Limited major customers clients](https://www.fool.com/investing/2026/01/12/why-iren-limited-skyrocketed-285-in-2025/)
+- [IREN Limited suppliers manufacturers](https://stockanalysis.com/stocks/iren/)
+- [IREN Limited suppliers manufacturers](https://www.investing.com/equities/iris-energy)
 - [IREN Limited major customers clients](https://www.investing.com/equities/iris-energy)
+- [IREN Limited major customers clients](https://www.zacks.com/stock/news/2895636/iren-limited-plunges-23-in-3-months-time-to-hold-or-fold-the-stock)
 
 ## 元数据
 
-- **更新日期**: 2026-04-02
+- **更新日期**: 2026-04-10

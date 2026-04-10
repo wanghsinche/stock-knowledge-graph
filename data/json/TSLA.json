@@ -1,37 +1,37 @@
 {
   "ticker": "TSLA",
   "company_name": "Tesla, Inc.",
-  "sector": "Consumer Cyclical",
+  "sector": "Consumer Cyclical / Auto Manufacturers",
   "industry": "Auto Manufacturers",
   "upstream": [
-    "Panasonic (battery cells)",
-    "LG Chem (battery cells)",
+    "Panasonic",
+    "LG Chem",
     "CAT",
-    "Alcoa (aluminum)",
-    "ArcelorMittal (steel)"
+    "005930.KS",
+    "TSLA"
   ],
   "downstream": [
-    "Individual consumers (private car buyers)",
-    "AMZN",
-    "Utility companies (energy storage)",
-    "Government agencies (EV infrastructure)",
-    "Corporate fleet operators (e.g., Walmart)"
+    "Individual consumers",
+    "Commercial fleet operators",
+    "Utility companies",
+    "Corporate fleets",
+    "Government agencies"
   ],
   "competitors": [
     "General Motors",
     "Ford",
     "Volkswagen",
-    "Hyundai",
-    "Nissan"
+    "Lucid Motors",
+    "BYD"
   ],
   "key_products": [
-    "Model S",
-    "Model 3",
-    "Model X",
-    "Model Y",
-    "Powerwall"
+    "Battery electric vehicles (Model S, 3, X, Y)",
+    "Stationary battery energy storage (Powerwall, Powerpack, Megapack)",
+    "Solar panels",
+    "Solar shingles",
+    "Related services (Supercharger network, Autopilot, Full Self‑Driving)"
   ],
-  "extracted_at": "2026-04-09 16:57:07",
+  "extracted_at": "2026-04-10 16:40:53",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,7 +43,7 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Tesla,_Inc.",
       "query": "Tesla, Inc. suppliers manufacturers",
-      "snippet": "2 days ago - The practice of vertical integration is rare in the automotive industry, where companies typically outsource 80% of components to supplie"
+      "snippet": "3 days ago - The practice of vertical integration is rare in the automotive industry, where companies typically outsource 80% of components to supplie"
     },
     {
       "source": "DuckDuckGo",
@@ -53,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://businessmodelanalyst.com/tesla-target-market/",
+      "url": "https://en.wikipedia.org/wiki/Tesla,_Inc.",
       "query": "Tesla, Inc. major customers clients",
-      "snippet": "Nov 7, 2024 · This article explores the intricacies of Tesla target market, analyzing the demographic, geographic, psychographic, and behavioral facto"
+      "snippet": "3 days ago - Tesla Energy products include solar panels (built by other companies for Tesla), the Tesla Solar Roof (a solar shingle system), and the T"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://bstrategyhub.com/tesla-target-market/",
+      "url": "https://www.tesla.com/customer-stories",
       "query": "Tesla, Inc. major customers clients",
-      "snippet": "Sep 26, 2025 · Who is Tesla’s target market? Learn about Tesla’s demographic, psychographic, geographic, behavioral, and technographic segmentation. H"
+      "snippet": "Incentives · Support · Partner with Tesla · Commercial · Utilities · Learn · LearnShop · LearnFind · LearnOrder · LearnOrder · Help Me Charge · Chargi"
     }
   ]
 }

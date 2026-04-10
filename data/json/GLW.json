@@ -3,11 +3,35 @@
   "company_name": "Corning Incorporated",
   "sector": "Technology",
   "industry": "Electronic Components",
-  "upstream": [],
-  "downstream": [],
-  "competitors": [],
-  "key_products": [],
-  "extracted_at": "2026-04-09 17:03:11",
+  "upstream": [
+    "Silica sand suppliers",
+    "Chemical suppliers (e.g., BASF, Dow Chemical)",
+    "META",
+    "Gas suppliers (e.g., Linde, Air Liquide)",
+    "Raw material distributors"
+  ],
+  "downstream": [
+    "AAPL",
+    "005930.KS",
+    "GOOGL",
+    "MSFT",
+    "SONY"
+  ],
+  "competitors": [
+    "Schott AG",
+    "Saint-Gobain",
+    "005930.KS",
+    "LG Display",
+    "Panasonic"
+  ],
+  "key_products": [
+    "Optical fiber",
+    "Display glass",
+    "Optical lenses",
+    "Advanced ceramics",
+    "Glass substrates for displays"
+  ],
+  "extracted_at": "2026-04-10 16:48:44",
   "sources": [
     {
       "source": "Wikipedia",
@@ -26,6 +50,18 @@
       "url": "https://www.corning.com/worldwide/en.html",
       "query": "Corning Incorporated suppliers manufacturers",
       "snippet": "Corning Incorporated (NYSE: GLW) and Meta Platforms, Inc . (Nasdaq: META) today marked the start of construction on a significant expansion of Corning"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/Corning_Inc.",
+      "query": "Corning Incorporated major customers clients",
+      "snippet": "Corning Incorporated is an American multinational technology company specializing in glass, ceramics, and related materials and technologies including"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.linkedin.com/company/corning-incorporated",
+      "query": "Corning Incorporated major customers clients",
+      "snippet": "Corning Incorporated | 234,948 followers on LinkedIn. Corning succeeds through sustained investment in RD&E, a unique combination of material and proc"
     }
   ]
 }

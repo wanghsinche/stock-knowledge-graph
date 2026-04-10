@@ -4,17 +4,17 @@
   "sector": "Communication Services",
   "industry": "Internet Content & Information",
   "upstream": [
-    "QCOM",
+    "INTC",
     "005930.KS",
     "TSM",
-    "INTC",
-    "NVDA"
+    "CSCO",
+    "DELL"
   ],
   "downstream": [
     "GOOGL",
-    "Android app developers",
-    "YouTube content creators",
     "GOOGL",
+    "Android device manufacturers",
+    "YouTube content creators",
     "GOOGL"
   ],
   "competitors": [
@@ -27,11 +27,11 @@
   "key_products": [
     "Google Search",
     "YouTube",
-    "Google Cloud",
+    "Google Cloud Platform",
     "Android OS",
     "Google Ads"
   ],
-  "extracted_at": "2026-04-09 17:00:20",
+  "extracted_at": "2026-04-10 16:45:15",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,25 +43,25 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Alphabet_Inc.",
       "query": "Alphabet Inc. suppliers manufacturers",
+      "snippet": "Alphabet Inc . has faced numerous legal and ethical controversies, including a 2017 lawsuit against Uber over stolen self-driving technology, a 2020 p"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/GOOG-Suppliers",
+      "query": "Alphabet Inc. suppliers manufacturers",
+      "snippet": "Feb 6, 2026 · Alphabet Inc supply chain, list and performance of Alphabet Incs ' suppliers - CSIMarket"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/Alphabet_Inc.",
+      "query": "Alphabet Inc. major customers clients",
       "snippet": "Alphabet Inc . is an American multinational technology conglomerate holding company headquartered in Mountain View, California. It was created through"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://porteranalysis.com/porter-five-force-analysis-porter-model-of-alphabet-inc/",
-      "query": "Alphabet Inc. suppliers manufacturers",
-      "snippet": "Alphabet Inc . is the American based multinational conglomerate, whose headquarter is in California. Alphabet Inc was established through the corporat"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://strategy.transforml.co/google-strategy-cascade-analysis",
+      "url": "https://finance.yahoo.com/quote/GOOG/",
       "query": "Alphabet Inc. major customers clients",
-      "snippet": "Apr 2, 2026 · Alphabet 's brands, including Google and YouTube, are among the most recognized and trusted in the world, driving user engagement and ad"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.sec.gov/Archives/edgar/data/1652044/000130817925000513/goog012714-ars.pdf",
-      "query": "Alphabet Inc. major customers clients",
-      "snippet": "Our business depends on strong brands, and failing to maintain and enhance our brands would hurt our ability to expand our base of users, advertisers,"
+      "snippet": "Find the latest Alphabet Inc . (GOOG) stock quote, history, news and other vital information to help you with your stock trading and investing. Alphab"
     }
   ]
 }

@@ -1,37 +1,37 @@
 {
   "ticker": "STX",
   "company_name": "Seagate Technology Holdings plc",
-  "sector": "Technology / Computer Hardware",
-  "industry": "Hard Disk Drives / Storage",
+  "sector": "Technology",
+  "industry": "Computer Hardware",
   "upstream": [
+    "TDK Corporation",
     "005930.KS",
+    "Kioxia Corporation",
     "MU",
-    "Nanya Technology",
-    "Toshiba Corporation",
-    "SK Hynix"
+    "Hitachi Ltd."
   ],
   "downstream": [
-    "MSFT",
-    "AMZN",
-    "GOOGL",
+    "DELL",
+    "HPQ",
+    "Lenovo Group",
     "AAPL",
-    "DELL"
+    "AMZN"
   ],
   "competitors": [
     "WDC",
-    "Toshiba (Kioxia)",
     "005930.KS",
+    "IBM",
     "MU",
-    "IBM"
+    "Kioxia Corporation"
   ],
   "key_products": [
-    "Hard Disk Drives (HDD)",
-    "Solid State Drives (SSD)",
-    "Enterprise Storage Solutions",
-    "Data Center Storage",
-    "Hybrid Drives"
+    "Enterprise HDDs",
+    "Desktop HDDs",
+    "SSD drives",
+    "Tape storage solutions",
+    "Data center storage systems"
   ],
-  "extracted_at": "2026-04-09 17:04:52",
+  "extracted_at": "2026-04-10 16:49:13",
   "sources": [
     {
       "source": "Wikipedia",
@@ -53,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://stocklight.com/stocks/us/nasdaq-stx/seagate-technology/annual-reports/nasdaq-stx-2024-10K-241171298.pdf",
+      "url": "https://www.marketresearch.com/GlobalData-v3648/Seagate-Technology-Holdings-PLC-STX-42358792/",
       "query": "Seagate Technology Holdings plc major customers clients",
-      "snippet": "We strive to deliver the best customer experience by leveraging our core technologies, offering services such as Seagate Recovery Services (data recov"
+      "snippet": "Seagate Technology Holdings PLC ( Seagate ) is a manufacturer of electronic storage devices. The company designs and markets solid state drives (SSD),"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.appsruntheworld.com/customers-database/vendors/view/seagate-technology",
+      "url": "https://www.insidermonkey.com/blog/tcw-exited-seagate-technology-holdings-pl-stx-in-q4-1733310/",
       "query": "Seagate Technology Holdings plc major customers clients",
-      "snippet": "List of companies using or evaluating Seagate Technology applications, with details on their revenues, employees, industries, and locations."
+      "snippet": "Seagate Technology Holdings plc (NASDAQ:STX) is a data storage company that provides data storage technology and infrastructure solutions, including h"
     }
   ]
 }

@@ -1,37 +1,37 @@
 {
   "ticker": "AAOI",
   "company_name": "Applied Optoelectronics, Inc.",
-  "sector": "Technology",
-  "industry": "Communication Equipment",
+  "sector": "Technology / Communication Equipment",
+  "industry": "Optical Communications Equipment",
   "upstream": [
-    "Optical fiber manufacturers",
-    "Semiconductor manufacturers",
-    "Laser diode manufacturers",
-    "Optical amplifier manufacturers",
-    "Optical component suppliers"
+    "Ciena",
+    "CSCO",
+    "JNPR",
+    "ANET",
+    "Huawei"
   ],
   "downstream": [
     "Internet data center operators",
-    "CAT",
-    "CAT",
-    "Broadband service providers",
-    "Enterprise network operators"
+    "Cable operators",
+    "Telecom carriers",
+    "Cloud service providers",
+    "Enterprise networks"
   ],
   "competitors": [
-    "Lumentum",
-    "Coherent",
-    "IPG Photonics",
-    "Thorlabs",
-    "Hamamatsu Photonics"
+    "Ciena",
+    "CSCO",
+    "JNPR",
+    "ANET",
+    "Huawei"
   ],
   "key_products": [
     "Optical transceivers",
-    "Optical modules",
-    "Laser diodes",
     "Optical amplifiers",
-    "Optical sensors"
+    "Optical switches",
+    "Optical fiber components",
+    "Optical modules"
   ],
-  "extracted_at": "2026-04-09 17:01:40",
+  "extracted_at": "2026-04-10 16:44:33",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,15 +41,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://simplywall.st/stocks/us/tech/nasdaq-aaoi/applied-optoelectronics",
+      "url": "https://finance.yahoo.com/quote/AAOI/profile/?fr=sycsrp_catchall",
       "query": "Applied Optoelectronics, Inc. suppliers manufacturers",
-      "snippet": "Applied Optoelectronics , Inc . NasdaqGM:AAOI Stock Report. Market Cap: US$7.6b.It sells its products to internet data center operators, cable televis"
+      "snippet": "Description Applied Optoelectronics, Inc . engages in the design, manufacture, and sale of fiber-optic networking products in the United States, Taiwa"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/fundamentals_glance.php?code=AAOI",
+      "url": "https://stockanalysis.com/stocks/aaoi/company/",
       "query": "Applied Optoelectronics, Inc. suppliers manufacturers",
-      "snippet": "Fundamental Analysis on Applied Optoelectronics Inc Key ratios, Comparisons to Semiconductors Industry, Technology Sector, S&P 500 - CSIMarket."
+      "snippet": "20 hours ago · It sells its products to internet data center operators, cable television, telecom equipment manufacturers , fiber-to-the-home, and int"
     },
     {
       "source": "DuckDuckGo",
@@ -59,9 +59,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/AAOI-Customers",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/applied-optoelectronics-aaoi-5-8-110836138.html?fr=sycsrp_catchall",
       "query": "Applied Optoelectronics, Inc. major customers clients",
-      "snippet": "Apr 1, 2026 · Our customers are primarily internet data center operators, CATV and telecommunications equipment manufacturers, and internet service pr"
+      "snippet": "6 days ago · In late March and early April 2026, Applied Optoelectronics announced it had secured a combined US$124 million in 800G single‑mode data c"
     }
   ]
 }

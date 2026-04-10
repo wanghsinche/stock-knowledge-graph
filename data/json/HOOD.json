@@ -2,36 +2,36 @@
   "ticker": "HOOD",
   "company_name": "Robinhood Markets, Inc.",
   "sector": "Financial Services",
-  "industry": "Capital Markets / Brokerage",
+  "industry": "Capital Markets",
   "upstream": [
-    "AMZN",
-    "Plaid (account aggregation)",
-    "Stripe (payment processing)",
-    "Bloomberg (market data feeds)",
-    "Refinitiv (market data feeds)"
+    "GOOGL",
+    "Market data vendors (e.g., Bloomberg, Refinitiv)",
+    "Payment processors (e.g., Stripe, PayPal)",
+    "Regulatory compliance services",
+    "Cybersecurity firms"
   ],
   "downstream": [
-    "Retail investors using the Robinhood app",
-    "Institutional investors using Robinhood's API",
-    "Corporate clients for employee stock purchase plans",
-    "High‑frequency traders using Robinhood Gold",
-    "Crypto traders on the Robinhood crypto platform"
+    "Retail investors",
+    "High‑frequency traders",
+    "Institutional clients (e.g., hedge funds)",
+    "Crypto traders",
+    "Financial advisors"
   ],
   "competitors": [
     "Charles Schwab",
-    "E*TRADE",
     "Fidelity Investments",
     "TD Ameritrade",
+    "E*TRADE",
     "Webull"
   ],
   "key_products": [
     "Commission‑free stock and ETF trading",
-    "Options trading",
     "Margin trading (Robinhood Gold)",
-    "Cash management and interest‑earning accounts",
-    "Cryptocurrency trading"
+    "Cryptocurrency trading",
+    "Options trading",
+    "Cash management and interest‑earning accounts"
   ],
-  "extracted_at": "2026-04-09 17:03:22",
+  "extracted_at": "2026-04-10 16:49:28",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,9 +47,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/HOOD-Suppliers",
+      "url": "https://pitchgrade.com/companies/robinhood-markets",
       "query": "Robinhood Markets, Inc. suppliers manufacturers",
-      "snippet": "Feb 28, 2026 · For your research, we’ve provided nine additional tables on Robinhood Markets Inc ’s suppliers . You can find them in the navigation me"
+      "snippet": "How Robinhood Markets , Inc . generates revenue across its key business segments and the unit economics behind each. A data-backed SWOT analysis cover"
     },
     {
       "source": "DuckDuckGo",
@@ -59,9 +59,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.investing.com/equities/robinhood-markets",
+      "url": "https://pitchgrade.com/companies/robinhood-markets",
       "query": "Robinhood Markets, Inc. major customers clients",
-      "snippet": "Robinhood Markets , Inc . was incorporated in 2013 and is headquartered in Menlo Park, California.For 2026, Robinhood targets over 1 million Gold Card"
+      "snippet": "Customer Segments: Robinhood Markets , Inc . serves multiple distinct customer segments, which may include consumers, small and medium businesses, ent"
     }
   ]
 }

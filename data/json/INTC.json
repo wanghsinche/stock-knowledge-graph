@@ -4,34 +4,34 @@
   "sector": "Technology",
   "industry": "Semiconductors",
   "upstream": [
-    "TSM",
-    "005930.KS",
-    "MU",
-    "SK Hynix",
-    "GlobalFoundries"
+    "AMAT",
+    "ASML",
+    "LRCX",
+    "Tokyo Electron",
+    "KLA"
   ],
   "downstream": [
     "DELL",
     "Lenovo",
     "HPQ",
-    "MSFT",
-    "AMZN"
+    "AAPL",
+    "MSFT"
   ],
   "competitors": [
     "AMD",
     "NVDA",
     "QCOM",
     "AVGO",
-    "MU"
+    "005930.KS"
   ],
   "key_products": [
     "Intel Core CPUs",
     "Intel Xeon CPUs",
-    "Intel chipsets",
-    "Intel SSDs",
-    "Intel AI accelerators"
+    "Intel Optane memory",
+    "Intel Xe GPU",
+    "Intel FPGAs"
   ],
-  "extracted_at": "2026-04-09 16:58:45",
+  "extracted_at": "2026-04-10 16:43:17",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,15 +41,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Intel",
-      "query": "Intel Corporation suppliers manufacturers",
-      "snippet": "Intel Corporation is an American multinational technology company headquartered in Santa Clara, California. It designs, manufactures, and sells comput"
-    },
-    {
-      "source": "DuckDuckGo",
       "url": "https://www.intel.com/content/www/us/en/partner/showcase/partner-directory/distributor.html",
       "query": "Intel Corporation suppliers manufacturers",
       "snippet": "Sell Intel® Products directly sourced from Intel as well as devices manufactured by OEMs"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.trustedparts.com/en/manufacturers/intel",
+      "query": "Intel Corporation suppliers manufacturers",
+      "snippet": "Intel distributor stock, prices & datasheets from authorized distributors. Search authorized Intel inventory."
     },
     {
       "source": "DuckDuckGo",

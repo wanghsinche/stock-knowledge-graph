@@ -7,30 +7,31 @@
     "AMZN",
     "MSFT",
     "GOOGL",
-    "IBM",
-    "ORCL"
+    "DELL",
+    "IBM"
   ],
   "downstream": [
     "U.S. Department of Defense",
     "U.S. Department of Homeland Security",
-    "Federal Bureau of Investigation (FBI)",
-    "INTC",
-    "United Nations"
+    "FBI",
+    "CIA",
+    "UK Ministry of Defence"
   ],
   "competitors": [
-    "IBM",
-    "MSFT",
-    "SAS",
-    "ORCL",
-    "Snowflake"
+    "Snowflake",
+    "Databricks",
+    "Splunk",
+    "Qlik",
+    "Tableau"
   ],
   "key_products": [
-    "Gotham",
-    "Foundry",
-    "Apollo",
-    "Palantir Platform"
+    "Palantir Gotham",
+    "Palantir Foundry",
+    "Palantir Platform",
+    "Palantir Apollo",
+    "Palantir Data Integration"
   ],
-  "extracted_at": "2026-04-09 16:58:34",
+  "extracted_at": "2026-04-10 16:40:40",
   "sources": [
     {
       "source": "Wikipedia",
@@ -40,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Palantir",
+      "url": "https://csimarket.com/stocks/PLTR-Suppliers",
       "query": "Palantir Technologies Inc. suppliers manufacturers",
-      "snippet": "Palantir Technologies Inc . is an American publicly traded company that develops data integration and analytics platforms enabling government agencies"
+      "snippet": "Feb 19, 2026 · For your research, we’ve provided nine additional tables on Palantir Technologies Inc ’ s suppliers . You can find them in the navigati"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/PLTR/",
+      "url": "https://www.palantir.com/partnership-vanguard/",
       "query": "Palantir Technologies Inc. suppliers manufacturers",
-      "snippet": "Find the latest Palantir Technologies Inc . (PLTR) stock quote, history, news and other vital information to help you with your stock trading and inve"
+      "snippet": "Palantir partners closely with a global network of highly skilled experts, working across a range of geographies and industries. Go beyond your averag"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Palantir",
+      "url": "https://en.wikipedia.org/wiki/Palantir_Technologies",
       "query": "Palantir Technologies Inc. major customers clients",
-      "snippet": "Palantir Technologies Inc . Palantir 's customer base includes federal agencies, state and local governments, international organizations, and also pr"
+      "snippet": "February 12, 2026 - Palantir had 55% year-over-year ... was used by hedge funds, banks, and financial services firms. Palantir Foundry clients include"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.tradingview.com/news/stockstory:05c3c7ab6094b:0-palantir-technologies-s-q4-earnings-call-our-top-5-analyst-questions/",
+      "url": "https://enlyft.com/tech/products/palantir",
       "query": "Palantir Technologies Inc. major customers clients",
-      "snippet": "CEO Alexander Karp emphasized that customers are moving beyond experimentation, stating, “Our customers aren’t tentatively trying AI; they’re committi"
+      "snippet": "2,302 companies use Palantir. Palantir is most often used by companies with 50-200 employees & $1M-10M in revenue. Our usage data goes back 10 years a"
     }
   ]
 }

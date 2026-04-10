@@ -4,34 +4,34 @@
   "sector": "Communication Services",
   "industry": "Advertising Agencies",
   "upstream": [
-    "GOOGL",
-    "Data analytics vendors",
-    "Mobile OS platforms (iOS, Android)",
-    "Ad exchange platforms",
-    "Hardware manufacturers (smartphones)"
+    "Mobile device manufacturers",
+    "AAPL",
+    "Cloud service providers (AWS, Azure)",
+    "Ad network partners",
+    "Data and analytics vendors"
   ],
   "downstream": [
     "Mobile app developers",
     "Game developers",
-    "Digital advertisers",
-    "Marketing agencies",
-    "Brands"
+    "Social media platforms",
+    "E‑commerce app operators",
+    "Media and entertainment companies"
   ],
   "competitors": [
     "Unity Ads",
+    "AdColony",
     "Vungle",
     "IronSource",
-    "AdColony",
     "GOOGL"
   ],
   "key_products": [
-    "MAX mobile advertising SDK",
-    "AppLovin Marketing Platform",
-    "AppLovin Analytics",
-    "AppLovin LTV",
-    "AppLovin Audience Network"
+    "AppLovin Mobile Marketing Platform",
+    "AppLovin SDK",
+    "AppLovin Ads",
+    "AppLovin Audience Network",
+    "AppLovin Analytics"
   ],
-  "extracted_at": "2026-04-09 17:02:03",
+  "extracted_at": "2026-04-10 16:47:20",
   "sources": [
     {
       "source": "Wikipedia",
@@ -53,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.applovin.com/",
+      "url": "https://en.wikipedia.org/wiki/AppLovin",
       "query": "AppLovin Corporation major customers clients",
-      "snippet": "AppLovin enables businesses to advertise profitably with marketing technologies that attract customers , increase revenue, and track ad performance."
+      "snippet": "Before emerging from stealth mode, AppLovin acquired customers , including Opentable and Spotify. [9][10] The company was ranked #10 on the 2016 Deloi"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.insidermonkey.com/blog/jim-cramer-on-applovin-it-is-a-very-fine-business-by-the-way-with-fantastic-growth-impressive-profitability-1731922/",
+      "url": "https://theirstack.com/en/technology/applovin",
       "query": "AppLovin Corporation major customers clients",
-      "snippet": "AppLovin Corporation (NASDAQ:APP) is among the stocks in focus as Jim Cramer reviewed the S&P 500’s top performers and the Nasdaq 100’s biggest laggar"
+      "snippet": "Download a list of 942 companies that use AppLovin with enriched data including industry, company size, location, funding rounds, and revenue figures."
     }
   ]
 }

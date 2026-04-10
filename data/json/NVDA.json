@@ -6,32 +6,32 @@
   "upstream": [
     "TSM",
     "005930.KS",
-    "GlobalFoundries",
-    "ASE Technology Holding",
-    "Amkor Technology"
+    "INTC",
+    "MU",
+    "SK Hynix"
   ],
   "downstream": [
-    "SONY",
     "MSFT",
-    "DELL",
-    "TSLA",
-    "BMW"
+    "GOOGL",
+    "AMZN",
+    "AAPL",
+    "SONY"
   ],
   "competitors": [
     "AMD",
     "INTC",
     "QCOM",
-    "ARM Holdings",
-    "005930.KS"
+    "AAPL",
+    "ARM"
   ],
   "key_products": [
     "GeForce RTX GPUs",
-    "Quadro RTX GPUs",
+    "Quadro GPUs",
     "Tesla GPUs",
     "Jetson SoCs",
-    "CUDA API"
+    "DGX AI systems"
   ],
-  "extracted_at": "2026-04-09 16:57:19",
+  "extracted_at": "2026-04-10 16:40:26",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,7 +43,7 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Nvidia",
       "query": "NVIDIA Corporation suppliers manufacturers",
-      "snippet": "2 days ago - In August 2025, Nvidia ordered ... due to security concerns. The company directed suppliers including Taiwan Semiconductor Manufacturing "
+      "snippet": "15 hours ago - In August 2025, Nvidia ordered ... due to security concerns. The company directed suppliers including Taiwan Semiconductor Manufacturin"
     },
     {
       "source": "DuckDuckGo",
@@ -55,13 +55,13 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Nvidia",
       "query": "NVIDIA Corporation major customers clients",
-      "snippet": "Nvidia Corporation . Show dark mode logo.^ Officially written as NVIDIA Corporation and stylized in its logo as nVIDIA with the lowercase \"n\" the same"
+      "snippet": "15 hours ago - Several major technology companies were purchasing tens or hundreds of thousands of GPUs for their data centers to run generative artif"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://fortune.com/2024/08/29/nvidia-jensen-huang-ai-customers/",
+      "url": "https://www.fool.com/investing/2025/06/26/who-are-nvidias-biggest-customers/",
       "query": "NVIDIA Corporation major customers clients",
-      "snippet": "Take “ Customer B” cited in the filing, for example: Its direct purchases represented 11% of Nvidia ’s $30 billion in revenue. That means a single com"
+      "snippet": "June 26, 2025 - Nvidia has amassed an impressive list of customers, which includes top AI developers like Amazon, Microsoft, and Alphabet ."
     }
   ]
 }

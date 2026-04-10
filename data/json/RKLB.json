@@ -4,34 +4,33 @@
   "sector": "Industrials",
   "industry": "Aerospace & Defense",
   "upstream": [
-    "Star trackers",
-    "Reaction wheels",
-    "Solar panels",
-    "Composite structures",
-    "EO/IR sensors"
+    "Aerojet Rocketdyne",
+    "Honeywell",
+    "Boeing",
+    "Northrop Grumman",
+    "Lockheed Martin"
   ],
   "downstream": [
-    "Small satellite operators",
-    "Constellation operators",
-    "Space agencies",
-    "Commercial satellite operators",
-    "Research institutions"
+    "NASA",
+    "U.S. Air Force",
+    "European Space Agency",
+    "Planet Labs",
+    "Planet"
   ],
   "competitors": [
     "SpaceX",
-    "Firefly Aerospace",
-    "Virgin Orbit",
-    "Astra",
-    "Blue Origin (New Shepard)"
+    "Blue Origin",
+    "United Launch Alliance",
+    "Arianespace",
+    "Relativity Space"
   ],
   "key_products": [
-    "Electron launch vehicle",
+    "Electron orbital rocket",
+    "Neutron medium‑lift rocket",
     "HASTE suborbital vehicle",
-    "Neutron medium‑lift vehicle",
-    "Satellite components (star trackers, reaction wheels, solar panels)",
-    "Software‑defined radios"
+    "Satellite components (star trackers, reaction wheels, solar panels, software‑defined radios, composite structures, separation systems, EO/IR sensors)"
   ],
-  "extracted_at": "2026-04-08 16:58:15",
+  "extracted_at": "2026-04-10 16:50:59",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,25 +42,25 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Rocket_Lab",
       "query": "Rocket Lab Corporation suppliers manufacturers",
-      "snippet": "Rocket Lab Corporation is a publicly traded aerospace manufacturer and launch service provider. [10] Its Electron orbital rocket launches small satell"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/RKLB/profile/?fr=sycsrp_catchall",
-      "query": "Rocket Lab Corporation suppliers manufacturers",
-      "snippet": "See the company profile for Rocket Lab Corporation (RKLB) including business summary, industry/sector information, number of employees, business summa"
+      "snippet": "Rocket Lab Corporation is a publicly traded aerospace manufacturer and launch service provider. Its Electron orbital rocket launches small satellites "
     },
     {
       "source": "DuckDuckGo",
       "url": "https://rocketlabcorp.com/",
-      "query": "Rocket Lab Corporation major customers clients",
+      "query": "Rocket Lab Corporation suppliers manufacturers",
       "snippet": "Cumulative Years In Space For Rocket Lab Satellite Technology. From Idea To Orbit. Rocket Lab is an end-to-end space company delivering reliable launc"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://qz.com/rocket-lab-stock-neutral-view-amid-strong-demand-and-execution-risks",
+      "url": "https://csimarket.com/stocks/RKLB-Customers",
       "query": "Rocket Lab Corporation major customers clients",
-      "snippet": "Rocket Lab Corporation RKLB is building a credible multi-year growth setup, helped by durable government demand and a staged backlog that supports nea"
+      "snippet": "3 days ago · Rocket Lab customers and markets, results by customer and performance relative to RKLB, by company and industry - CSIMarket"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://businessmodelcanvastemplate.com/blogs/target-market/rocket-lab-target-market",
+      "query": "Rocket Lab Corporation major customers clients",
+      "snippet": "Mar 18, 2026 · Rocket Lab ' s primary customer segments split across Government & Defense, Commercial Satellite Operators, and Academic/Research Insti"
     }
   ]
 }

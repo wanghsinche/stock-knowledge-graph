@@ -3,8 +3,8 @@ ticker: LRCX
 company: Lam Research Corporation
 sector: Technology
 industry: Semiconductor Equipment & Materials
-extracted_at: 2026-04-09 17:03:43
-last_updated: 2026-04-09
+extracted_at: 2026-04-10 16:47:49
+last_updated: 2026-04-10
 ---
 
 # LRCX - Lam Research Corporation
@@ -12,46 +12,46 @@ last_updated: 2026-04-09
 ## 基本信息
 
 - **所属行业**: Technology / Semiconductor Equipment & Materials
-- **提取时间**: 2026-04-09 17:03:43
+- **提取时间**: 2026-04-10 16:47:49
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Silicon wafer manufacturers (e.g., Shin‑Etsu Chemical, SUMCO)]]
-- [[Chemical suppliers (e.g., Air Liquide, Linde)]]
-- [[Gaseous process suppliers (e.g., Air Liquide, Linde)]]
-- [[Precision component suppliers (e.g., Kongsberg, Nidec)]]
-- [[Electronic component suppliers (e.g., Murata, TDK)]]
+- [[Kokusai Electric]]
+- [[Tokyo Electron]]
+- [[Mitsubishi Electric]]
+- [[Tokyo Ohka Kogyo]]
+- [[KEMET]]
 
 ### 下游客户
 - [[TSM]]
 - [[005930.KS]]
 - [[INTC]]
-- [[GlobalFoundries]]
 - [[MU]]
+- [[GlobalFoundries]]
 
 ### 竞争对手
 - [[AMAT]]
 - [[Tokyo Electron]]
-- [[ASML]]
 - [[KLA Corporation]]
+- [[ASML]]
 - [[LRCX]]
 
 ### 核心产品
 - [[Plasma etch systems]]
-- [[Deposition systems]]
-- [[Wafer cleaning equipment]]
-- [[Back‑end wafer‑level packaging (WLP) tools]]
-- [[Ion implantation systems]]
+- [[Chemical vapor deposition systems]]
+- [[Wafer cleaning systems]]
+- [[Back‑end wafer‑level packaging equipment]]
+- [[Plasma source technology]]
 
 ## 数据来源
 
 - [Lam Research](https://en.wikipedia.org/wiki/Lam_Research_Corporation)
-- [Lam Research Corporation suppliers manufacturers](https://en.wikipedia.org/wiki/Lam_Research)
-- [Lam Research Corporation suppliers manufacturers](https://www.lamresearch.com/)
-- [Lam Research Corporation major customers clients](https://www.researchandmarkets.com/reports/4029340/lam-research-corporation-company-profile-and)
-- [Lam Research Corporation major customers clients](https://investor.lamresearch.com/2026-04-01-Lam-Research-Corporation-Announces-March-Quarter-Financial-Conference-Call)
+- [Lam Research Corporation suppliers manufacturers](https://theorg.com/org/lam-research)
+- [Lam Research Corporation suppliers manufacturers](https://newsroom.lamresearch.com/2025-02-19-Lam-Research-Ushers-in-New-Era-of-Semiconductor-Metallization-with-ALTUS-R-Halo-for-Molybdenum-Atomic-Layer-Deposition)
+- [Lam Research Corporation major customers clients](https://csimarket.com/stocks/LRCX-Customers)
+- [Lam Research Corporation major customers clients](https://portersfiveforce.com/blogs/target-market/lamresearch)
 
 ## 元数据
 
-- **更新日期**: 2026-04-09
+- **更新日期**: 2026-04-10

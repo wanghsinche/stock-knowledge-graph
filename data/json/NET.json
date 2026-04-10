@@ -1,21 +1,21 @@
 {
   "ticker": "NET",
   "company_name": "Cloudflare, Inc.",
-  "sector": "Technology / Software - Infrastructure",
-  "industry": "Internet Infrastructure",
+  "sector": "Technology",
+  "industry": "Software - Infrastructure",
   "upstream": [
     "CSCO",
-    "JNPR",
-    "ANET",
-    "DELL",
-    "HPQ"
+    "Data center equipment suppliers",
+    "Cloud infrastructure providers (e.g., AWS, Azure, GCP)",
+    "Network equipment vendors",
+    "Software component suppliers"
   ],
   "downstream": [
+    "E‑commerce platforms (e.g., Shopify, Magento)",
     "NFLX",
-    "Shopify",
-    "GitHub",
-    "ADBE",
-    "Twitter"
+    "CRM",
+    "Financial services firms",
+    "Government and public sector websites"
   ],
   "competitors": [
     "Akamai Technologies",
@@ -26,12 +26,12 @@
   ],
   "key_products": [
     "Content Delivery Network (CDN)",
-    "DDoS Protection",
-    "Web Application Firewall (WAF)",
-    "Domain Name System (DNS) services",
-    "Cloudflare Workers"
+    "DDoS Mitigation & Web Application Firewall",
+    "Cloudflare Workers (serverless compute)",
+    "Cloudflare Access (Zero‑Trust access)",
+    "Cloudflare DNS & Argo Smart Routing"
   ],
-  "extracted_at": "2026-04-09 17:05:02",
+  "extracted_at": "2026-04-10 16:45:29",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.cloudflare.com/partners/",
+      "url": "https://www.linkedin.com/company/cloudflare",
       "query": "Cloudflare, Inc. suppliers manufacturers",
-      "snippet": "The Cloudflare PowerUP Partner Program helps you grow your business while keeping customers connected and protected. With a single program offering fo"
+      "snippet": "Cloudflare , Inc . (NYSE: NET) is the leading connectivity cloud company. It empowers organizations to make their employees, applications and networks"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://elioplus.com/profile/channel-partners/cloudflare",
+      "url": "https://www.cloudflare.com/trademark/",
       "query": "Cloudflare, Inc. suppliers manufacturers",
-      "snippet": "Find in the list below a Cloudflare reseller or a channel partner that are currently on our platform. You can locate the Cloudflare partners based on "
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.cloudflare.com/",
-      "query": "Cloudflare, Inc. major customers clients",
-      "snippet": "Explore projects Customer stories. AI Demo in 30 seconds Quick guide to get started. Explore Workers Playground Build, test, and deploy.It is just one"
+      "snippet": "Use of Cloudflare trademarks by Cloudflare suppliers and vendors. Suppliers and vendors to Cloudflare are not allowed to use Cloudflare trademarks in "
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.linkedin.com/company/cloudflare",
       "query": "Cloudflare, Inc. major customers clients",
       "snippet": "Cloudflare , Inc . (NYSE: NET) is the leading connectivity cloud company. It empowers organizations to make their employees, applications and networks"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://radar.cloudflare.com/",
+      "query": "Cloudflare, Inc. major customers clients",
+      "snippet": "Cloudflare Radar has added new tools for monitoring PQ adoption, KT logs for messaging, and ASPA routing records to track the Internet's migration tow"
     }
   ]
 }

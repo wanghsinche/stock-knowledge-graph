@@ -5,33 +5,33 @@
   "industry": "Internet Content & Information",
   "upstream": [
     "NVDA",
-    "Cloud infrastructure providers (e.g., AWS, Azure, GCP)",
-    "Data center operators (e.g., Equinix, Digital Realty)",
-    "Software vendors (e.g., TensorFlow, PyTorch)",
-    "INTC"
+    "Cloud infrastructure providers (AWS, Azure, GCP)",
+    "Data center hardware suppliers",
+    "Software component vendors",
+    "AI algorithm developers"
   ],
   "downstream": [
-    "Enterprise AI customers (e.g., banks, insurance firms)",
-    "E‑commerce platforms (e.g., Shopify, Alibaba)",
-    "NFLX",
-    "CAT",
-    "Government agencies (e.g., EU, US DoD)"
+    "Enterprise AI solution integrators",
+    "MSFT",
+    "AI research institutions",
+    "Data analytics companies",
+    "CAT"
   ],
   "competitors": [
     "OpenAI",
     "Anthropic",
     "Cohere",
-    "DeepMind",
-    "Hugging Face"
+    "Hugging Face",
+    "GOOGL"
   ],
   "key_products": [
-    "Nebius AI Platform",
-    "Nebius AI Infrastructure Services",
-    "Nebius AI Consulting",
-    "Nebius AI Data Solutions",
-    "Nebius AI Security Suite"
+    "Nebius AI infrastructure platform",
+    "Avride (AI data labeling)",
+    "TripleTen (AI model training)",
+    "Toloka (crowdsourcing platform)",
+    "ClickHouse (column‑store database)"
   ],
-  "extracted_at": "2026-04-09 17:01:04",
+  "extracted_at": "2026-04-10 16:44:18",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,21 +41,21 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Nebius_Group",
-      "query": "NBIS suppliers manufacturers",
-      "snippet": "Nebius Group N.V., headquartered in Amsterdam, is a technology company that provides artificial intelligence infrastructure."
-    },
-    {
-      "source": "DuckDuckGo",
       "url": "https://csimarket.com/stocks/suppliers_glance.php?code=NBIS",
       "query": "NBIS suppliers manufacturers",
       "snippet": "NBIS 's Suppliers Management Effectiveness. NBIS 's Competitors Results.Nebius Group N V's Comment on Supply Chain. NBIS 's Stock Perfrormance relativ"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.nasdaq.com/market-activity/stocks/nbis",
+      "url": "https://ru.tradingview.com/symbols/NASDAQ-NBIS/",
+      "query": "NBIS suppliers manufacturers",
+      "snippet": "Следите за графиком Nebius Group N.V., чтобы быть в курсе цены акций. Вы также найдёте прогнозы, отчётность NBIS и новости рынка."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nebius-nbis-company-future-says-065504973.html",
       "query": "NBIS major customers clients",
-      "snippet": "Show more results ->. NBIS . Summary. Quotes.Data Disclaimer: The Nasdaq Indices and the Major Indices are delayed at least 1 minute."
+      "snippet": "Nebius Group N.V. (NASDAQ: NBIS ) is one of the 9 Stocks Jim Cramer Talked About & Commented On SpaceX’s IPO. Nebius Group N.V. (NASDAQ: NBIS ) is a d"
     },
     {
       "source": "DuckDuckGo",

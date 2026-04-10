@@ -1,37 +1,37 @@
 {
   "ticker": "VRT",
-  "company_name": "Vertiv Holdings Co.",
+  "company_name": "Vertiv Holdings Co",
   "sector": "Industrials",
   "industry": "Electrical Equipment & Parts",
   "upstream": [
-    "Power distribution equipment manufacturers",
+    "AC/DC power management component suppliers",
+    "Switchgear manufacturers",
+    "Busbar producers",
     "Cooling system suppliers",
-    "Networking equipment vendors",
-    "Hardware component suppliers",
-    "Software platform providers"
+    "Data center infrastructure equipment suppliers"
   ],
   "downstream": [
-    "Data center operators",
-    "CAT",
-    "Cloud service providers",
-    "Enterprise IT departments",
-    "Industrial automation firms"
+    "AMZN",
+    "GOOGL",
+    "AT&T",
+    "Verizon",
+    "MSFT"
   ],
   "competitors": [
     "Schneider Electric",
-    "Eaton",
     "ABB",
-    "Siemens",
-    "Rittal"
+    "Eaton",
+    "CSCO",
+    "HPQ"
   ],
   "key_products": [
     "Power distribution units",
-    "Cooling systems",
-    "Data center infrastructure management software",
     "Uninterruptible power supplies",
-    "Environmental monitoring solutions"
+    "Cooling systems",
+    "Rack-mount equipment",
+    "Data center infrastructure management software"
   ],
-  "extracted_at": "2026-03-31 16:56:50",
+  "extracted_at": "2026-04-10 16:52:00",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,7 +43,7 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Vertiv",
       "query": "Vertiv Holdings Co suppliers manufacturers",
-      "snippet": "Vertiv Holdings Co . is an American provider of infrastructure and services for data centers, communication networks, and commercial and industrial en"
+      "snippet": "Vertiv produces AC and DC power management products, switchgear and busbar products, thermal management products, integrated rack systems, and modular"
     },
     {
       "source": "DuckDuckGo",
@@ -53,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://sg.finance.yahoo.com/news/bull-day-vertiv-holdings-co-080000286.html?prefer_reader_view=1&prefer_safari=1",
+      "url": "https://www.appsruntheworld.com/customers-database/vendors/view/vertiv",
       "query": "Vertiv Holdings Co major customers clients",
-      "snippet": "Vertiv Holdings Co (VRT) stock has doubled Nvidia over the last 12 months, driven by Wall Street’s insatiable appetite for AI-boosted growth. Vertiv ’"
+      "snippet": "List of companies using or evaluating Vertiv applications, with details on their revenues, employees, industries, and locations."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://simplywall.st/community/narratives/us/capital-goods/nyse-vrt/vertiv-holdings-co/x26r1isx-analysts-raise-vertiv-price-target-amid-executive-changes-and-upbeat-growth-outlook",
+      "url": "https://csimarket.com/stocks/VRT-Customers",
       "query": "Vertiv Holdings Co major customers clients",
-      "snippet": "Analysts have raised their price target for Vertiv Holdings Co . from $173.11 to $192.66. They cite improved revenue growth expectations and slight ad"
+      "snippet": "4 days ago · For your research, we’ve provided 9 tables on Vertiv Holdings Co corporate clients . You can find them in the navigation menu under Custo"
     }
   ]
 }

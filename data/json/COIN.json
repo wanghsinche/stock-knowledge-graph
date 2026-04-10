@@ -6,16 +6,16 @@
   "upstream": [
     "AMZN",
     "MSFT",
-    "GOOGL",
-    "Stripe",
-    "Ledger (cold‑storage hardware)"
+    "Stripe (payment processing)",
+    "PayPal (payment processing)",
+    "Hardware vendors (e.g., Bitmain, Ledger)"
   ],
   "downstream": [
     "Retail cryptocurrency traders",
-    "Institutional investors",
-    "Hedge funds",
-    "Fintech companies",
-    "Payment service providers"
+    "Institutional investors and asset managers",
+    "DeFi protocol developers",
+    "Crypto funds and hedge funds",
+    "Corporate treasury departments"
   ],
   "competitors": [
     "Binance",
@@ -26,12 +26,12 @@
   ],
   "key_products": [
     "Cryptocurrency exchange platform",
-    "Custody services",
+    "Custody services for institutional clients",
     "Staking and yield products",
-    "Crypto wallet",
-    "API and institutional trading tools"
+    "Crypto wallet and mobile app",
+    "API services for developers"
   ],
-  "extracted_at": "2026-04-09 17:04:14",
+  "extracted_at": "2026-04-10 16:49:41",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,7 +43,7 @@
       "source": "DuckDuckGo",
       "url": "https://www.coinbase.com/vendors/vendors-at-coinbase-code-of-conduct",
       "query": "Coinbase Global, Inc. suppliers manufacturers",
-      "snippet": "For purposes of this Code, vendors include any third party, firm, or individual that provides a product or service to Coinbase , including: vendors , "
+      "snippet": "For purposes of this Code, vendors include any third party, firm, or individual that provides a product or service to Coinbase, including: vendors , s"
     },
     {
       "source": "DuckDuckGo",
@@ -55,13 +55,13 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Coinbase",
       "query": "Coinbase Global, Inc. major customers clients",
-      "snippet": "Coinbase Global , Inc . is an American cryptocurrency exchange. It was founded in 2012 by Brian Armstrong and Fred Ehrsam."
+      "snippet": "Coinbase Global , Inc . is an American cryptocurrency exchange. [4][5][6] It was founded in 2012 by Brian Armstrong and Fred Ehrsam. [1] Coinbase has "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.coinbase.com/",
+      "url": "https://csimarket.com/stocks/COIN-Customers",
       "query": "Coinbase Global, Inc. major customers clients",
-      "snippet": "Coinbase United States is a secure online platform for buying, selling, transferring, and storing cryptocurrency. Coinbase believes crypto will be par"
+      "snippet": "Coinbase Global Inc customers and markets, results by customer and performance relative to COIN, by company and industry - CSIMarket"
     }
   ]
 }

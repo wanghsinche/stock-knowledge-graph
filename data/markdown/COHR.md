@@ -1,57 +1,57 @@
 ---
 ticker: COHR
 company: Coherent Corp.
-sector: Technology
-industry: Scientific & Technical Instruments
-extracted_at: 2026-04-09 17:02:41
-last_updated: 2026-04-09
+sector: Technology / Scientific & Technical Instruments
+industry: Optical Instruments
+extracted_at: 2026-04-10 16:45:55
+last_updated: 2026-04-10
 ---
 
 # COHR - Coherent Corp.
 
 ## 基本信息
 
-- **所属行业**: Technology / Scientific & Technical Instruments
-- **提取时间**: 2026-04-09 17:02:41
+- **所属行业**: Technology / Scientific & Technical Instruments / Optical Instruments
+- **提取时间**: 2026-04-10 16:45:55
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Optical glass manufacturers]]
-- [[Semiconductor wafer suppliers]]
-- [[Laser diode suppliers]]
-- [[Photonic component suppliers]]
-- [[Rare earth element suppliers]]
+- [[Coherent Materials Inc.]]
+- [[Coherent Semiconductor Solutions]]
+- [[Coherent Optics Ltd.]]
+- [[Coherent Laser Systems]]
+- [[Coherent Photonics Co.]]
 
 ### 下游客户
-- [[AAPL]]
-- [[Vimeo]]
-- [[Priority Technology]]
-- [[MSFT]]
-- [[GOOGL]]
+- [[Aerospace manufacturers]]
+- [[Life sciences research labs]]
+- [[Semiconductor fabs]]
+- [[Industrial manufacturing firms]]
+- [[Defense contractors]]
 
 ### 竞争对手
-- [[II-VI Incorporated]]
-- [[Thorlabs, Inc.]]
-- [[Edmund Optics, Inc.]]
+- [[Thorlabs]]
+- [[Edmund Optics]]
 - [[Newport Corporation]]
-- [[Lumentum Holdings]]
+- [[IPG Photonics]]
+- [[Coherent Inc.]]
 
 ### 核心产品
-- [[Laser systems]]
-- [[Optical materials]]
 - [[Laser diodes]]
-- [[Photonic components]]
 - [[Optical fibers]]
+- [[Semiconductor lasers]]
+- [[Optical components]]
+- [[Photonic devices]]
 
 ## 数据来源
 
 - [Coherent Corp.](https://en.wikipedia.org/wiki/Coherent_Corp.)
 - [Coherent Corp. suppliers manufacturers](https://en.wikipedia.org/wiki/Coherent_Corp.)
 - [Coherent Corp. suppliers manufacturers](https://www.coherent.com/)
-- [Coherent Corp. major customers clients](https://finviz.com/news/147509/can-coherent-corps-ai-driven-growth-keep-up-its-momentum)
-- [Coherent Corp. major customers clients](https://www.linkedin.com/posts/jim-anderson-a7215b12_it-was-terrific-to-join-coherent-corps-activity-7343101308377157633-sRxT)
+- [Coherent Corp. major customers clients](https://www.coherent.com/news/success-stories)
+- [Coherent Corp. major customers clients](https://csimarket.com/stocks/COHR-Customers)
 
 ## 元数据
 
-- **更新日期**: 2026-04-09
+- **更新日期**: 2026-04-10

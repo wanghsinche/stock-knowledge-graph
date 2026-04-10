@@ -3,11 +3,35 @@
   "company_name": "Eli Lilly and Company",
   "sector": "Healthcare",
   "industry": "Drug Manufacturers - General",
-  "upstream": [],
-  "downstream": [],
-  "competitors": [],
-  "key_products": [],
-  "extracted_at": "2026-04-08 17:00:33",
+  "upstream": [
+    "Contract pharmaceutical manufacturers",
+    "Chemical raw material suppliers",
+    "Biotechnology research partners",
+    "Active pharmaceutical ingredient (API) suppliers",
+    "Packaging and labeling service providers"
+  ],
+  "downstream": [
+    "Hospitals and health systems",
+    "Pharmacies and drugstores",
+    "Government health agencies",
+    "International health organizations",
+    "Private insurance providers"
+  ],
+  "competitors": [
+    "Pfizer Inc.",
+    "Johnson & Johnson",
+    "Merck & Co., Inc.",
+    "AbbVie Inc.",
+    "Bristol‑Myers Squibb"
+  ],
+  "key_products": [
+    "Humalog (insulin lispro)",
+    "Lantus (insulin glargine)",
+    "Cymbalta (duloxetine)",
+    "Trulicity (dulaglutide)",
+    "Zyprexa (olanzapine)"
+  ],
+  "extracted_at": "2026-04-10 16:50:23",
   "sources": [
     {
       "source": "Wikipedia",
@@ -26,6 +50,18 @@
       "url": "https://www.lilly.com/",
       "query": "Eli Lilly and Company suppliers manufacturers",
       "snippet": "Lilly is a medicine company that puts health above all. Learn about our medicines, view condition support, find care, and much more. Lilly employee wo"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/Eli_Lilly_and_Company",
+      "query": "Eli Lilly and Company major customers clients",
+      "snippet": "Eli Lilly and Company , doing business as Lilly , is an American multinational pharmaceutical company headquartered in Indianapolis, Indiana, with off"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.linkedin.com/company/eli-lilly-and-company",
+      "query": "Eli Lilly and Company major customers clients",
+      "snippet": "Eli Lilly and Company | 2,627,808 followers on LinkedIn. We're a medicine company turning science into healing to make life better for people around t"
     }
   ]
 }

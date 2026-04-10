@@ -3,8 +3,8 @@ ticker: AMAT
 company: Applied Materials, Inc.
 sector: Technology
 industry: Semiconductor Equipment & Materials
-extracted_at: 2026-04-09 17:05:18
-last_updated: 2026-04-09
+extracted_at: 2026-04-10 16:46:51
+last_updated: 2026-04-10
 ---
 
 # AMAT - Applied Materials, Inc.
@@ -12,37 +12,37 @@ last_updated: 2026-04-09
 ## 基本信息
 
 - **所属行业**: Technology / Semiconductor Equipment & Materials
-- **提取时间**: 2026-04-09 17:05:18
+- **提取时间**: 2026-04-10 16:46:51
 
 ## 产业链关系
 
 ### 上游供应商
 - [[Silicon wafer suppliers]]
 - [[Chemical suppliers]]
-- [[Gas suppliers]]
-- [[Electronic component suppliers]]
-- [[Precision engineering suppliers]]
+- [[META]]
+- [[Photolithography materials suppliers]]
+- [[Equipment component suppliers]]
 
 ### 下游客户
 - [[TSM]]
 - [[005930.KS]]
 - [[INTC]]
 - [[MU]]
-- [[GlobalFoundries]]
+- [[LG Display]]
 
 ### 竞争对手
 - [[ASML]]
-- [[LRCX]]
 - [[Tokyo Electron]]
+- [[LRCX]]
 - [[KLA Corporation]]
 - [[AMAT]]
 
 ### 核心产品
-- [[Photolithography equipment]]
-- [[Etching equipment]]
 - [[Deposition equipment]]
-- [[Metrology tools]]
-- [[Software solutions]]
+- [[Etching equipment]]
+- [[Metrology equipment]]
+- [[Inspection equipment]]
+- [[Semiconductor process equipment]]
 
 ## 数据来源
 
@@ -50,8 +50,8 @@ last_updated: 2026-04-09
 - [Applied Materials, Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/Applied_Materials)
 - [Applied Materials, Inc. suppliers manufacturers](https://www.appliedmaterials.com/)
 - [Applied Materials, Inc. major customers clients](https://en.wikipedia.org/wiki/Applied_Materials)
-- [Applied Materials, Inc. major customers clients](https://www.appliedmaterials.com/us/en.html)
+- [Applied Materials, Inc. major customers clients](https://pitchgrade.com/companies/applied-materials)
 
 ## 元数据
 
-- **更新日期**: 2026-04-09
+- **更新日期**: 2026-04-10

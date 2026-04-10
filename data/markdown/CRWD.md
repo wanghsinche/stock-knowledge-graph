@@ -1,34 +1,48 @@
 ---
 ticker: CRWD
 company: CrowdStrike Holdings, Inc.
-sector: Technology / Software - Infrastructure
-industry: Cybersecurity
-extracted_at: 2026-04-09 17:04:03
-last_updated: 2026-04-09
+sector: Technology
+industry: Software - Infrastructure
+extracted_at: 2026-04-10 16:44:59
+last_updated: 2026-04-10
 ---
 
 # CRWD - CrowdStrike Holdings, Inc.
 
 ## 基本信息
 
-- **所属行业**: Technology / Software - Infrastructure / Cybersecurity
-- **提取时间**: 2026-04-09 17:04:03
+- **所属行业**: Technology / Software - Infrastructure
+- **提取时间**: 2026-04-10 16:44:59
 
 ## 产业链关系
 
 ### 上游供应商
-_暂无数据_
+- [[MSFT]]
+- [[AMZN]]
+- [[GOOGL]]
+- [[DELL]]
+- [[CSCO]]
 
 ### 下游客户
-_暂无数据_
+- [[Bank of America]]
+- [[MSFT]]
+- [[GOOGL]]
+- [[AMZN]]
+- [[Facebook]]
 
 ### 竞争对手
-_暂无数据_
+- [[Palo Alto Networks]]
+- [[McAfee]]
+- [[Symantec]]
+- [[SentinelOne]]
+- [[Fortinet]]
 
 ### 核心产品
-- [[Endpoint security]]
-- [[Threat intelligence]]
-- [[Cyberattack response services]]
+- [[CrowdStrike Falcon]]
+- [[Falcon Prevent]]
+- [[Falcon Insight]]
+- [[Falcon Discover]]
+- [[Falcon Response]]
 
 ## 数据来源
 
@@ -40,4 +54,4 @@ _暂无数据_
 
 ## 元数据
 
-- **更新日期**: 2026-04-09
+- **更新日期**: 2026-04-10

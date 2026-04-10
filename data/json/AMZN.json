@@ -4,34 +4,34 @@
   "sector": "Consumer Cyclical",
   "industry": "Internet Retail",
   "upstream": [
-    "005930.KS",
-    "AAPL",
-    "SONY",
-    "Nike",
-    "Adidas"
+    "Book publishers",
+    "Electronics manufacturers",
+    "Third‑party sellers",
+    "Cloud hardware suppliers",
+    "Logistics partners"
   ],
   "downstream": [
-    "Global consumers",
-    "Enterprise customers using AWS",
-    "NFLX",
-    "Spotify",
-    "Airbnb"
+    "Individual consumers",
+    "Small businesses",
+    "Enterprise AWS customers",
+    "Advertisers",
+    "Content creators"
   ],
   "competitors": [
-    "eBay",
     "Walmart",
+    "eBay",
     "Alibaba",
     "Shopify",
-    "Target"
+    "MSFT"
   ],
   "key_products": [
-    "Amazon.com marketplace",
-    "Amazon Prime",
-    "Amazon Web Services",
+    "Amazon.com e‑commerce platform",
+    "Amazon Prime subscription",
+    "Amazon Web Services (AWS)",
     "Amazon Echo (Alexa)",
     "Amazon Kindle"
   ],
-  "extracted_at": "2026-04-09 16:57:54",
+  "extracted_at": "2026-04-10 16:41:19",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ir.aboutamazon.com/overview/default.aspx",
-      "query": "Amazon.com, Inc. suppliers manufacturers",
-      "snippet": "The Spheres. Select awards and recognition. Amazon . com Conditions of Use © 1996- Amazon . com , Inc . - IR or its affiliates."
-    },
-    {
-      "source": "DuckDuckGo",
       "url": "https://www.alibaba.com/",
       "query": "Amazon.com, Inc. suppliers manufacturers",
       "snippet": "Find quality Manufacturers , Suppliers , Exporters, Importers, Buyers, Wholesalers, Products and Trade Leads from our award-winning International Trad"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://capitaloneshopping.com/research/amazon-statistics/",
-      "query": "Amazon.com, Inc. major customers clients",
-      "snippet": "Mar 29, 2026 · Over 310 million global consumers shop on Amazon at least once a year. 2 million active selling partners have shops on Amazon. Independ"
+      "url": "https://www.amazon.com/home-garden-kitchen-furniture-bedding/b?ie=UTF8&node=1055398",
+      "query": "Amazon.com, Inc. suppliers manufacturers",
+      "snippet": "Shop a wide selection of products for your home at Amazon . com . Free shipping and free returns on eligible items."
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.historytools.org/consumer/amazon-target-market",
       "query": "Amazon.com, Inc. major customers clients",
       "snippet": "Aug 24, 2024 · Even though Amazon is a huge company, you may be curious about the specific market the leading retailer targets. Here's Amazon target m"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://capitaloneshopping.com/research/amazon-statistics/",
+      "query": "Amazon.com, Inc. major customers clients",
+      "snippet": "Amazon net sales include product sales as well as sales dollars from other consumer and business services. 1. Amazon . com , Inc . netted $574.785 bil"
     }
   ]
 }

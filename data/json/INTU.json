@@ -4,34 +4,34 @@
   "sector": "Technology",
   "industry": "Software - Application",
   "upstream": [
-    "MSFT",
     "AMZN",
+    "MSFT",
     "GOOGL",
-    "ORCL",
-    "IBM"
+    "ADBE",
+    "ORCL"
   ],
   "downstream": [
-    "Small businesses",
-    "Individual taxpayers",
-    "Freelancers",
-    "Accounting firms",
-    "Financial advisors"
+    "Small and medium‑size businesses using QuickBooks",
+    "Individual taxpayers using TurboTax",
+    "Consumers using Credit Karma",
+    "Marketing agencies using Mailchimp",
+    "Financial institutions using Intuit Payments"
   ],
   "competitors": [
-    "H&R Block",
-    "TaxAct",
-    "Xero",
     "Sage",
-    "Wave"
+    "Xero",
+    "SAP Concur",
+    "H&R Block",
+    "HubSpot"
   ],
   "key_products": [
     "TurboTax",
     "QuickBooks",
     "Credit Karma",
     "Mailchimp",
-    "Intuit Financial Software Suite"
+    "Intuit Payments"
   ],
-  "extracted_at": "2026-04-09 17:01:53",
+  "extracted_at": "2026-04-10 16:46:35",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,15 +41,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Intuit",
-      "query": "Intuit Inc. suppliers manufacturers",
-      "snippet": "Intuit Inc . is an American multinational business software company that specializes in financial software. Headquartered in Mountain View, California"
-    },
-    {
-      "source": "DuckDuckGo",
       "url": "https://www.intuit.com/legal/intuit-group-companies/",
       "query": "Intuit Inc. suppliers manufacturers",
       "snippet": "Dec 1, 2022 · A comprehensive list of all Intuit 's companies in the US and around the world."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.intuit.com/company/supplier-programs/",
+      "query": "Intuit Inc. suppliers manufacturers",
+      "snippet": "We’re always looking for opportunities to work with new suppliers who share our passion for innovation, customer obsession, and above-and-beyond corpo"
     },
     {
       "source": "DuckDuckGo",
@@ -59,9 +59,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.zacks.com/stock/news/2892228/intuits-strategic-partnerships-will-they-drive-future-growth",
+      "url": "https://www.insidermonkey.com/blog/jim-cramer-on-intuit-im-hoping-thats-the-start-of-a-larger-comeback-and-i-think-it-deserves-to-1731914/",
       "query": "Intuit Inc. major customers clients",
-      "snippet": "Key Takeaways Intuit partners with Anthropic to bring Claude AI agents tailored for mid-market businesses.INTU teams with Affirm to add pay-over-time "
+      "snippet": "Intuit Inc . (NASDAQ:INTU) is among the stocks in focus as Jim Cramer reviewed the S&P 500’s top performers and the Nasdaq 100’s biggest laggards for "
     }
   ]
 }

@@ -4,34 +4,34 @@
   "sector": "Technology",
   "industry": "Software - Application",
   "upstream": [
-    "AMZN",
     "MSFT",
+    "AMZN",
     "GOOGL",
-    "DELL",
-    "CSCO"
+    "ORCL",
+    "IBM"
   ],
   "downstream": [
-    "General Electric",
+    "GOOGL",
+    "MSFT",
+    "AMZN",
     "Bank of America",
-    "UnitedHealth Group",
-    "U.S. Department of Defense",
-    "Walmart"
+    "Coca‑Cola"
   ],
   "competitors": [
-    "Atlassian",
-    "MSFT",
-    "IBM",
-    "SAP SuccessFactors",
-    "ORCL"
+    "CRM",
+    "SAP",
+    "ORCL",
+    "Workday",
+    "MSFT"
   ],
   "key_products": [
     "Now Platform",
     "IT Service Management (ITSM)",
     "IT Operations Management (ITOM)",
-    "Security Operations (SecOps)",
-    "HR Service Delivery"
+    "IT Business Management (ITBM)",
+    "Customer Service Management (CSM)"
   ],
-  "extracted_at": "2026-04-09 17:00:44",
+  "extracted_at": "2026-04-10 16:43:48",
   "sources": [
     {
       "source": "Wikipedia",
@@ -59,9 +59,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.zacks.com/stock/news/2893580/servicenow-inc-now-is-attracting-investor-attention-here-is-what-you-should-know",
+      "url": "https://www.aol.com/articles/saaspocalypse-made-servicenow-stock-bargain-185000639.html",
       "query": "ServiceNow, Inc. major customers clients",
-      "snippet": "Zacks.com users have recently been watching ServiceNow ( NOW ) quite a bit. Thus, it is worth knowing the facts that could determine the stock's prosp"
+      "snippet": "Customers don't need to bother with setting up AI agents when ServiceNow seamlessly delivers the technology. More importantly, the company possesses d"
     }
   ]
 }

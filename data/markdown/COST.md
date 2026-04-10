@@ -3,8 +3,8 @@ ticker: COST
 company: Costco Wholesale Corporation
 sector: Consumer Defensive
 industry: Discount Stores
-extracted_at: 2026-04-06 16:45:25
-last_updated: 2026-04-06
+extracted_at: 2026-04-10 16:51:11
+last_updated: 2026-04-10
 ---
 
 # COST - Costco Wholesale Corporation
@@ -12,7 +12,7 @@ last_updated: 2026-04-06
 ## 基本信息
 
 - **所属行业**: Consumer Defensive / Discount Stores
-- **提取时间**: 2026-04-06 16:45:25
+- **提取时间**: 2026-04-10 16:51:11
 
 ## 产业链关系
 
@@ -20,38 +20,38 @@ last_updated: 2026-04-06
 - [[Tyson Foods]]
 - [[Cargill]]
 - [[Hormel Foods]]
-- [[Dole Food Company]]
-- [[PepsiCo]]
+- [[Kraft Heinz]]
+- [[General Mills]]
 
 ### 下游客户
-- [[American consumers]]
-- [[membership holders]]
-- [[retail shoppers]]
-- [[food service businesses]]
-- [[small businesses]]
+- [[U.S. household consumers]]
+- [[Small business owners]]
+- [[CAT]]
+- [[Health‑and‑wellness retailers]]
+- [[Online shoppers via Costco.com]]
 
 ### 竞争对手
 - [[Walmart]]
-- [[Target]]
-- [[BJ's Wholesale Club]]
 - [[Sam's Club]]
-- [[Dollar General]]
+- [[BJ's Wholesale Club]]
+- [[Target]]
+- [[AMZN]]
 
 ### 核心产品
-- [[Beef]]
-- [[Poultry]]
-- [[Organic produce]]
-- [[Wine]]
-- [[Household goods]]
+- [[Bulk groceries (beef, poultry, organic produce)]]
+- [[Household goods and appliances]]
+- [[Clothing and footwear]]
+- [[Electronics and appliances]]
+- [[Wine and spirits]]
 
 ## 数据来源
 
 - [Costco](https://en.wikipedia.org/wiki/Costco_Wholesale_Corporation)
 - [Costco Wholesale Corporation suppliers manufacturers](https://en.wikipedia.org/wiki/Costco)
 - [Costco Wholesale Corporation suppliers manufacturers](https://www.costco.com/)
-- [Costco Wholesale Corporation major customers clients](https://en.wikipedia.org/wiki/Costco)
-- [Costco Wholesale Corporation major customers clients](https://www.costco.com/)
+- [Costco Wholesale Corporation major customers clients](https://s201.q4cdn.com/287523651/files/doc_financials/2025/ar/COST-Annual-Report-2025.pdf)
+- [Costco Wholesale Corporation major customers clients](https://www.marketingscoop.com/consumer/costco-target-market-demographics/)
 
 ## 元数据
 
-- **更新日期**: 2026-04-06
+- **更新日期**: 2026-04-10

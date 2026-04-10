@@ -2,36 +2,36 @@
   "ticker": "CRWV",
   "company_name": "CoreWeave, Inc.",
   "sector": "Technology / Software - Infrastructure",
-  "industry": "Artificial Intelligence Cloud Services",
+  "industry": "Cloud Computing / AI Infrastructure",
   "upstream": [
     "NVDA",
     "AMD",
     "INTC",
-    "QCOM",
+    "TSM",
     "005930.KS"
   ],
   "downstream": [
     "META",
-    "MSFT",
     "AMZN",
+    "MSFT",
     "GOOGL",
-    "Alibaba Cloud"
+    "IBM"
   ],
   "competitors": [
     "NVDA",
-    "AWS Inferentia",
     "GOOGL",
+    "AMZN",
     "MSFT",
     "IBM"
   ],
   "key_products": [
-    "GPU‑based AI cloud infrastructure",
-    "GPU‑as‑a‑Service (GPUaaS)",
-    "Chip management software",
-    "AI compute workloads",
-    "Data center services"
+    "GPU Cloud Infrastructure",
+    "AI Cloud Services",
+    "Chip Management Software",
+    "GPU-accelerated Workloads",
+    "AI Development Platform"
   ],
-  "extracted_at": "2026-04-09 16:59:34",
+  "extracted_at": "2026-04-10 16:41:54",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,13 +43,13 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/CoreWeave",
       "query": "CoreWeave, Inc. suppliers manufacturers",
-      "snippet": "CoreWeave , Inc . is an American artificial intelligence cloud-computing company based in Livingston, New Jersey."
+      "snippet": "CoreWeave , Inc . is an American artificial intelligence (AI) cloud-computing company based in Livingston, New Jersey. It specializes in providing clo"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.roi-nj.com/2026/03/31/tech/coreweave-closes-8-5b-financing-facility-to-support-ai-cloud-platform-expansion/",
+      "url": "https://www.coreweave.com/about-us",
       "query": "CoreWeave, Inc. suppliers manufacturers",
-      "snippet": "Livingston-based CoreWeave , Inc . announced that it has closed an $8.5 billion delayed draw term loan facility (DDTL 4.0 Facility), supporting the co"
+      "snippet": "CoreWeave is a cloud purpose-built for scaling, supporting, and accelerating GenAI. We’re a comprehensive platform and strategic partner designed to t"
     },
     {
       "source": "DuckDuckGo",
@@ -59,9 +59,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-09/coreweave-expands-meta-deal-for-ai-computing-to-21-billion",
+      "url": "https://247wallst.com/investing/2026/04/09/why-coreweaves-new-21-billion-meta-deal-matters-more-than-the-3-billion-in-new-debt/",
       "query": "CoreWeave, Inc. major customers clients",
-      "snippet": "CoreWeave will provide AI cloud capacity to Meta from multiple data centers powered in part by the Rubin systems of chips company Nvidia Corp., throug"
+      "snippet": "Key Takeaway. In any case, CoreWeave just turned Meta into its largest customer by a mile and secured a runway to scale through 2032. The $21 billion "
     }
   ]
 }

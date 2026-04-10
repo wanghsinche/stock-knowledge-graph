@@ -1,8 +1,8 @@
 {
   "ticker": "MSTR",
-  "company_name": "Strategy Inc",
-  "sector": "Technology",
-  "industry": "Software - Application",
+  "company_name": "MicroStrategy Incorporated",
+  "sector": "Technology / Software - Application",
+  "industry": "Business Intelligence & Analytics",
   "upstream": [
     "MSFT",
     "AMZN",
@@ -11,27 +11,27 @@
     "IBM"
   ],
   "downstream": [
-    "Walmart",
-    "Coca‑Cola",
-    "American Express",
-    "Bank of America",
-    "General Motors"
+    "Financial institutions",
+    "Government agencies",
+    "Retail companies",
+    "Healthcare organizations",
+    "Manufacturing firms"
   ],
   "competitors": [
     "Tableau",
     "Qlik",
     "MSFT",
     "Looker",
-    "SAP BusinessObjects"
+    "Sisense"
   ],
   "key_products": [
-    "MicroStrategy Analytics Platform",
+    "MicroStrategy Analytics",
     "MicroStrategy Mobile",
     "MicroStrategy Cloud",
     "MicroStrategy Data Warehouse",
-    "MicroStrategy Platform"
+    "MicroStrategy Enterprise Analytics"
   ],
-  "extracted_at": "2026-04-09 17:04:26",
+  "extracted_at": "2026-04-10 16:48:57",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,15 +41,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/MSTR/",
+      "url": "https://www.linkedin.com/company/strategyinc",
       "query": "Strategy Inc suppliers manufacturers",
-      "snippet": "Find the latest Strategy Inc (MSTR) stock quote, history, news and other vital information to help you with your stock trading and investing."
+      "snippet": "Founded in 2000, Strategy Inc . is located in Austin, Texas, Research Triangle, North Carolina and Los Angeles, California. Approximately 88% of the l"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.finam.ru/publications/item/strategy-nachala-pokupat-bitkoin-rovno-pyat-let-nazad-istoriya-uspekha-kompanii-20250811-1125/",
+      "url": "https://www.strategyinc.net/services-overview/",
       "query": "Strategy Inc suppliers manufacturers",
-      "snippet": "Майкл Сэйлор основал Strategy в 1989 году. Компания по сей день занимается разработкой программного обеспечения для бизнес-аналитики. Strategy пользов"
+      "snippet": "At Strategy Inc ., we offer a comprehensive range of consulting services required for life science and medical device due diligence, such as: market a"
     },
     {
       "source": "DuckDuckGo",

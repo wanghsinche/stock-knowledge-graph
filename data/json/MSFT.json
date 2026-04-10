@@ -7,31 +7,31 @@
     "INTC",
     "AMD",
     "NVDA",
-    "TSM",
-    "005930.KS"
+    "QCOM",
+    "TSM"
   ],
   "downstream": [
-    "Enterprise customers (e.g., banks, governments)",
+    "Enterprise customers",
+    "Government agencies",
     "DELL",
-    "Cloud service users (Azure)",
-    "Office 365 subscribers",
-    "Xbox console owners"
+    "Consumers",
+    "Cloud service users"
   ],
   "competitors": [
     "AAPL",
     "GOOGL",
     "AMZN",
-    "ORCL",
-    "IBM"
+    "IBM",
+    "ORCL"
   ],
   "key_products": [
-    "Windows operating system",
-    "Microsoft Office Suite",
-    "Azure cloud platform",
-    "Surface hardware",
-    "Xbox gaming console"
+    "Windows OS",
+    "Microsoft Office",
+    "Azure Cloud",
+    "Surface devices",
+    "Xbox"
   ],
-  "extracted_at": "2026-04-09 16:58:55",
+  "extracted_at": "2026-04-10 16:42:30",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,15 +41,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.microsoft.com/en-us/procurement",
+      "url": "https://en.wikipedia.org/wiki/Microsoft",
       "query": "Microsoft Corporation suppliers manufacturers",
-      "snippet": "Microsoft Procurement is committed to building a diverse global supplier base that reflects the global diversity of our customers and provides all typ"
+      "snippet": "Microsoft Corporation is an American multinational technology conglomerate headquartered in Redmond, Washington. Founded in 1975, the company became i"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/MSFT-Suppliers",
+      "url": "https://www.alibaba.com/",
       "query": "Microsoft Corporation suppliers manufacturers",
-      "snippet": "Jan 29, 2026 · Microsoft supply chain, list and performance of Microsofts ' suppliers - CSIMarket"
+      "snippet": "Find quality Manufacturers , Suppliers , Exporters, Importers, Buyers, Wholesalers, Products and Trade Leads from our award-winning International Trad"
     },
     {
       "source": "DuckDuckGo",
@@ -59,9 +59,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.linkedin.com/company/microsoft",
+      "url": "https://support.microsoft.com/en-us",
       "query": "Microsoft Corporation major customers clients",
-      "snippet": "Microsoft | 27,976,421 followers on LinkedIn. Every company has a mission. What's ours? To empower every person and every organization to achieve more"
+      "snippet": "Microsoft Support is here to help you with Microsoft products. Find how-to articles, videos, and training for Microsoft Copilot, Microsoft 365, Window"
     }
   ]
 }
