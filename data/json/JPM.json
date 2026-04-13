@@ -2,20 +2,20 @@
   "ticker": "JPM",
   "company_name": "JPMorgan Chase & Co.",
   "sector": "Financial Services",
-  "industry": "Diversified Banks",
+  "industry": "Banks - Diversified",
   "upstream": [
-    "MSFT",
-    "IBM",
-    "ORCL",
-    "Bloomberg",
-    "Visa"
+    "Technology vendors",
+    "Office equipment suppliers",
+    "Security services providers",
+    "Legal service firms",
+    "Consulting firms"
   ],
   "downstream": [
-    "Large corporations",
-    "Government entities",
+    "Corporate clients",
     "Institutional investors",
-    "High‑net‑worth individuals",
-    "Retail banking customers"
+    "Retail banking customers",
+    "Small business owners",
+    "Affordable housing developers"
   ],
   "competitors": [
     "Bank of America",
@@ -25,13 +25,13 @@
     "Morgan Stanley"
   ],
   "key_products": [
+    "Retail banking services",
+    "Commercial banking services",
     "Investment banking services",
     "Asset management",
-    "Wealth management",
-    "Commercial banking",
-    "Treasury and cash management"
+    "Wealth management"
   ],
-  "extracted_at": "2026-04-09 17:06:23",
+  "extracted_at": "2026-04-13 17:02:45",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,15 +41,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/JPMorgan_Chase",
+      "url": "https://www.jpmorganchase.com/about/suppliers",
       "query": "JPMorgan Chase & Co. suppliers manufacturers",
-      "snippet": "JPMorgan Chase & Co . (stylized as JPMorganChase ) is an American multinational banking institution headquartered in New York City and incorporated in"
+      "snippet": "Building strong partnerships is the cornerstone of our success. At JPMorganChase , we place particular value in our supplier partnerships. Thanks to t"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.jpmorganchase.com/",
+      "url": "https://suppliercentral.jpmchase.com/",
       "query": "JPMorgan Chase & Co. suppliers manufacturers",
-      "snippet": "Latest news. An Ohio-based company is protecting first responders around the world. With support from JPMorganChase , Fire-Dex is providing protective"
+      "snippet": "At JPMorgan Chase , we place particular value in our supplier partnerships. Thanks to the help of a diverse range of suppliers and advisors, we are ab"
     },
     {
       "source": "DuckDuckGo",
@@ -61,7 +61,7 @@
       "source": "DuckDuckGo",
       "url": "https://www.jpmorganchase.com/",
       "query": "JPMorgan Chase & Co. major customers clients",
-      "snippet": "For the 15th consecutive year, our senior leaders hit the road for the firm’s annual bus tour, visiting communities where we are growing our business "
+      "snippet": "See how our clients —from small business owners to affordable housing developers—help uplift communities. JPMorganChase opened its new global headquar"
     }
   ]
 }

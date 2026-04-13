@@ -7,31 +7,31 @@
     "MSFT",
     "AMZN",
     "GOOGL",
-    "DELL",
+    "VMware",
     "CSCO"
   ],
   "downstream": [
-    "Bank of America",
-    "MSFT",
-    "GOOGL",
-    "AMZN",
-    "Facebook"
+    "Fortune 500 enterprises",
+    "U.S. federal agencies",
+    "Financial services firms",
+    "Healthcare providers",
+    "Retail corporations"
   ],
   "competitors": [
     "Palo Alto Networks",
-    "McAfee",
-    "Symantec",
     "SentinelOne",
+    "McAfee",
+    "AVGO",
     "Fortinet"
   ],
   "key_products": [
-    "CrowdStrike Falcon",
+    "CrowdStrike Falcon Platform",
     "Falcon Prevent",
     "Falcon Insight",
     "Falcon Discover",
-    "Falcon Response"
+    "Falcon OverWatch"
   ],
-  "extracted_at": "2026-04-10 16:44:59",
+  "extracted_at": "2026-04-13 17:01:57",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,21 +47,21 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/CRWD-Growth-vs-Suppliers",
+      "url": "https://csimarket.com/stocks/competition2.php?supply&code=CRWD",
       "query": "CrowdStrike Holdings, Inc. suppliers manufacturers",
-      "snippet": "Crowdstrike Holdings Inc Competitors Results. CRWD vs Competitors Stock Performance. Crowdstrike Holdings Inc (CRWD) — Comparison of Quarterly Growth "
+      "snippet": "Crowdstrike Holdings Inc 's Suppliers . Crowdstrike Holdings Inc 's vs. its Suppliers Results. (List of Suppliers , Financial Results 12 Months from t"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://theirstack.com/en/technology/crowdstrike",
+      "url": "https://en.wikipedia.org/wiki/CrowdStrike",
       "query": "CrowdStrike Holdings, Inc. major customers clients",
-      "snippet": "Download a list of 12,330 companies that use CrowdStrike with enriched data including industry, company size, location, funding rounds, and revenue fi"
+      "snippet": "CrowdStrike Holdings , Inc . CrowdStrike Holdings , Inc . is an American cybersecurity technology company based in Austin, Texas. It provides endpoint"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.appsruntheworld.com/customers-database/vendors/view/crowdstrike",
+      "url": "https://finance.yahoo.com/quote/CRWD/",
       "query": "CrowdStrike Holdings, Inc. major customers clients",
-      "snippet": "List of companies using or evaluating CrowdStrike applications, with details on their revenues, employees, industries, and locations."
+      "snippet": "Find the latest CrowdStrike Holdings , Inc . (CRWD) stock quote, history, news and other vital information to help you with your stock trading and inv"
     }
   ]
 }

@@ -4,34 +4,34 @@
   "sector": "Technology",
   "industry": "Software - Infrastructure",
   "upstream": [
-    "INTC",
     "AMD",
-    "NVDA",
-    "QCOM",
-    "TSM"
+    "GOOGL",
+    "Software tool vendors (e.g., GitHub, Visual Studio)",
+    "Device manufacturers (e.g., Surface, Xbox)",
+    "CAT"
   ],
   "downstream": [
-    "Enterprise customers",
-    "Government agencies",
-    "DELL",
-    "Consumers",
-    "Cloud service users"
+    "Enterprise customers (e.g., banks, government agencies)",
+    "Small and medium businesses",
+    "CAT",
+    "Consumer users of Windows and Office",
+    "Game developers using Xbox Live"
   ],
   "competitors": [
     "AAPL",
     "GOOGL",
     "AMZN",
-    "IBM",
-    "ORCL"
+    "ORCL",
+    "CRM"
   ],
   "key_products": [
-    "Windows OS",
-    "Microsoft Office",
-    "Azure Cloud",
-    "Surface devices",
-    "Xbox"
+    "Windows operating system",
+    "Microsoft Office suite",
+    "Azure cloud platform",
+    "Microsoft Teams",
+    "Xbox gaming console"
   ],
-  "extracted_at": "2026-04-10 16:42:30",
+  "extracted_at": "2026-04-13 16:54:47",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Microsoft",
+      "url": "https://csimarket.com/stocks/MSFT-Suppliers",
       "query": "Microsoft Corporation suppliers manufacturers",
-      "snippet": "Microsoft Corporation is an American multinational technology conglomerate headquartered in Redmond, Washington. Founded in 1975, the company became i"
+      "snippet": "Jan 29, 2026 · Microsoft supply chain, list and performance of Microsofts ' suppliers - CSIMarket"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.alibaba.com/",
+      "url": "https://www.microsoft.com/en-us/procurement",
       "query": "Microsoft Corporation suppliers manufacturers",
-      "snippet": "Find quality Manufacturers , Suppliers , Exporters, Importers, Buyers, Wholesalers, Products and Trade Leads from our award-winning International Trad"
+      "snippet": "Microsoft Procurement is committed to building a diverse global supplier base that reflects the global diversity of our customers and provides all typ"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Microsoft",
+      "url": "https://www.microsoft.com/en-us/customers/",
       "query": "Microsoft Corporation major customers clients",
-      "snippet": "Microsoft Corporation is an American multinational technology conglomerate headquartered in Redmond, Washington. Founded in 1975, the company became i"
+      "snippet": "Explore customer success stories to learn how businesses are overcoming challenges, driving innovation, and achieving more with Microsoft solutions."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://support.microsoft.com/en-us",
+      "url": "https://csimarket.com/stocks/MSFT-Customers",
       "query": "Microsoft Corporation major customers clients",
-      "snippet": "Microsoft Support is here to help you with Microsoft products. Find how-to articles, videos, and training for Microsoft Copilot, Microsoft 365, Window"
+      "snippet": "4 days ago · For your research, we’ve provided 9 tables on Microsoft Corporation corporate clients . You can find them in the navigation menu under Cu"
     }
   ]
 }

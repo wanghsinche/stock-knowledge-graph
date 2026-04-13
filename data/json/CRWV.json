@@ -2,36 +2,36 @@
   "ticker": "CRWV",
   "company_name": "CoreWeave, Inc.",
   "sector": "Technology / Software - Infrastructure",
-  "industry": "Cloud Computing / AI Infrastructure",
+  "industry": "AI Cloud Computing / GPU Infrastructure",
   "upstream": [
     "NVDA",
     "AMD",
     "INTC",
-    "TSM",
-    "005930.KS"
+    "Xilinx",
+    "AVGO"
   ],
   "downstream": [
-    "META",
-    "AMZN",
-    "MSFT",
+    "OpenAI",
     "GOOGL",
+    "MSFT",
+    "AMZN",
     "IBM"
   ],
   "competitors": [
-    "NVDA",
-    "GOOGL",
     "AMZN",
+    "GOOGL",
     "MSFT",
-    "IBM"
+    "IBM",
+    "NVDA"
   ],
   "key_products": [
-    "GPU Cloud Infrastructure",
-    "AI Cloud Services",
-    "Chip Management Software",
-    "GPU-accelerated Workloads",
-    "AI Development Platform"
+    "GPU Cloud Instances",
+    "GPU Clusters",
+    "GPU Management Software",
+    "AI Compute Services",
+    "Custom GPU Workloads"
   ],
-  "extracted_at": "2026-04-10 16:41:54",
+  "extracted_at": "2026-04-13 16:55:48",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,13 +43,13 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/CoreWeave",
       "query": "CoreWeave, Inc. suppliers manufacturers",
-      "snippet": "CoreWeave , Inc . is an American artificial intelligence (AI) cloud-computing company based in Livingston, New Jersey. It specializes in providing clo"
+      "snippet": "CoreWeave , Inc . is an American artificial intelligence cloud-computing company based in Livingston, New Jersey."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.coreweave.com/about-us",
+      "url": "https://ca.finance.yahoo.com/quote/CRWV/",
       "query": "CoreWeave, Inc. suppliers manufacturers",
-      "snippet": "CoreWeave is a cloud purpose-built for scaling, supporting, and accelerating GenAI. We’re a comprehensive platform and strategic partner designed to t"
+      "snippet": "Find the latest CoreWeave , Inc . (CRWV) stock quote, history, news and other vital information to help you with your stock trading and investing. Cor"
     },
     {
       "source": "DuckDuckGo",
@@ -59,9 +59,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://247wallst.com/investing/2026/04/09/why-coreweaves-new-21-billion-meta-deal-matters-more-than-the-3-billion-in-new-debt/",
+      "url": "https://www.tipranks.com/news/company-announcements/coreweave-inc-q3-earnings-call-highlights-growth",
       "query": "CoreWeave, Inc. major customers clients",
-      "snippet": "Key Takeaway. In any case, CoreWeave just turned Meta into its largest customer by a mile and secured a runway to scale through 2032. The $21 billion "
+      "snippet": "CoreWeave , Inc . Class A (($CRWV)) has held its Q3 earnings call. Read on for the main highlights of the call.This growth was fueled by large-scale c"
     }
   ]
 }

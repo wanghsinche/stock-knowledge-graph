@@ -3,8 +3,8 @@ ticker: SNOW
 company: Snowflake Inc.
 sector: Technology
 industry: Software - Application
-extracted_at: 2026-04-10 16:46:22
-last_updated: 2026-04-10
+extracted_at: 2026-04-13 17:00:36
+last_updated: 2026-04-13
 ---
 
 # SNOW - Snowflake Inc.
@@ -12,7 +12,7 @@ last_updated: 2026-04-10
 ## 基本信息
 
 - **所属行业**: Technology / Software - Application
-- **提取时间**: 2026-04-10 16:46:22
+- **提取时间**: 2026-04-13 17:00:36
 
 ## 产业链关系
 
@@ -20,15 +20,15 @@ last_updated: 2026-04-10
 - [[AMZN]]
 - [[MSFT]]
 - [[GOOGL]]
-- [[DELL]]
-- [[HPQ]]
+- [[Hardware suppliers (servers, storage)]]
+- [[Networking equipment vendors]]
 
 ### 下游客户
+- [[eBay]]
 - [[Capital One]]
 - [[ADBE]]
-- [[SONY]]
-- [[eBay]]
 - [[NFLX]]
+- [[Target]]
 
 ### 竞争对手
 - [[AMZN]]
@@ -48,10 +48,10 @@ last_updated: 2026-04-10
 
 - [Snowflake Inc.](https://en.wikipedia.org/wiki/Snowflake_Inc.)
 - [Snowflake Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/Snowflake_Inc.)
-- [Snowflake Inc. suppliers manufacturers](https://www.snowflake.com/en/why-snowflake/partners/)
-- [Snowflake Inc. major customers clients](https://en.wikipedia.org/wiki/Snowflake_Inc.)
-- [Snowflake Inc. major customers clients](https://www.youtube.com/channel/UCs10x-muRrTQMJ4Ya-fmIlw)
+- [Snowflake Inc. suppliers manufacturers](https://www.snowflake.com/)
+- [Snowflake Inc. major customers clients](https://www.snowflake.com/en/customers/all-customers/)
+- [Snowflake Inc. major customers clients](https://www.statista.com/statistics/1413139/snowflake-quarterly-number-of-large-customers/)
 
 ## 元数据
 
-- **更新日期**: 2026-04-10
+- **更新日期**: 2026-04-13

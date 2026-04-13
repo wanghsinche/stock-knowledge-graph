@@ -4,18 +4,17 @@
   "sector": "Technology",
   "industry": "Consumer Electronics",
   "upstream": [
-    "Foxconn",
-    "TSM",
-    "005930.KS",
-    "AVGO",
-    "QCOM"
+    "Molex",
+    "Murata Manufacturing",
+    "Nichia",
+    "Nidec"
   ],
   "downstream": [
-    "iPhone",
-    "iPad",
-    "MacBook",
+    "iPhone users",
+    "iPad users",
+    "Mac users",
     "AAPL",
-    "AirPods"
+    "AAPL"
   ],
   "competitors": [
     "005930.KS",
@@ -27,11 +26,11 @@
   "key_products": [
     "iPhone",
     "iPad",
-    "MacBook",
+    "Mac",
     "Apple Watch",
-    "AirPods"
+    "Apple TV"
   ],
-  "extracted_at": "2026-04-10 16:44:03",
+  "extracted_at": "2026-04-13 16:56:36",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +40,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Apple_supply_chain",
+      "url": "https://en.wikipedia.org/wiki/Template:Apple_Inc._suppliers",
       "query": "Apple Inc. suppliers manufacturers",
-      "snippet": "Apple supply chain As of 2021, Apple uses components from 43 countries. [1] The majority of assembling is done by Taiwanese original design manufactur"
+      "snippet": "Molex. Murata Manufacturing . Nichia. Nidec. Supplier lists. Supply Chain Innovation Reports."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.investopedia.com/articles/investing/090315/10-major-companies-tied-apple-supply-chain.asp",
+      "url": "https://studydriver.com/apple-inc-managing-a-global-supply-chain/",
       "query": "Apple Inc. suppliers manufacturers",
-      "snippet": "Nov 13, 2025 · Discover Apple ' s top suppliers and how they enhance product performance and innovation. Learn about Apple 's efficient supply chain a"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://businessmodelanalyst.com/apple-target-market/",
-      "query": "Apple Inc. major customers clients",
-      "snippet": "Nov 8, 2024 · For Apple , this analysis reveals a distinct and loyal customer base characterized by specific core values and lifestyle choices. Apple "
+      "snippet": "The close relationship with suppliers Apple Inc . closely works and builds a close relationship with the contract manufacturers . Its designers closel"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://csimarket.com/stocks/AAPL-Customers",
       "query": "Apple Inc. major customers clients",
       "snippet": "For your research, we’ve provided 9 tables on Apple Inc corporate clients . You can find them in the navigation menu under Customers & Markets. To dow"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://backlinko.com/apple-statistics",
+      "query": "Apple Inc. major customers clients",
+      "snippet": "Oct 7, 2025 · Apple dominates various categories worldwide and in the US, from smartphones to tablets, and has a massive services business. Apple ’s A"
     }
   ]
 }

@@ -3,8 +3,8 @@ ticker: XOM
 company: Exxon Mobil Corporation
 sector: Energy
 industry: Oil & Gas Integrated
-extracted_at: 2026-04-10 16:47:34
-last_updated: 2026-04-10
+extracted_at: 2026-04-13 16:59:56
+last_updated: 2026-04-13
 ---
 
 # XOM - Exxon Mobil Corporation
@@ -12,37 +12,37 @@ last_updated: 2026-04-10
 ## 基本信息
 
 - **所属行业**: Energy / Oil & Gas Integrated
-- **提取时间**: 2026-04-10 16:47:34
+- **提取时间**: 2026-04-13 16:59:56
 
 ## 产业链关系
 
 ### 上游供应商
 - [[Crude oil producers]]
 - [[Natural gas producers]]
-- [[Petrochemical feedstock suppliers]]
-- [[Equipment manufacturers (e.g., Schlumberger, Halliburton)]]
-- [[Drilling contractors]]
+- [[Petroleum refining equipment manufacturers]]
+- [[Chemical feedstock suppliers]]
+- [[Exploration and drilling service providers]]
 
 ### 下游客户
-- [[Automotive industry (fuel consumers)]]
-- [[Industrial sector (diesel engines)]]
-- [[Aviation fuel customers]]
-- [[Marine shipping]]
-- [[Retail gasoline stations]]
+- [[Fuel retailers (gas stations)]]
+- [[Industrial customers (steel, chemicals, manufacturing)]]
+- [[Aviation fuel suppliers]]
+- [[Automotive fuel stations]]
+- [[Chemical manufacturers]]
 
 ### 竞争对手
 - [[Chevron]]
 - [[BP]]
-- [[Royal Dutch Shell]]
-- [[TotalEnergies]]
+- [[Shell]]
 - [[ConocoPhillips]]
+- [[TotalEnergies]]
 
 ### 核心产品
 - [[Crude oil]]
-- [[Natural gas]]
-- [[Refined petroleum products (gasoline, diesel)]]
-- [[Lubricants (Mobil 1)]]
-- [[Petrochemicals (ethylene, propylene, synthetic rubber, plastic)]]
+- [[Refined petroleum products (gasoline, diesel, jet fuel)]]
+- [[Petrochemicals (ethylene, propylene)]]
+- [[Plastic products]]
+- [[Synthetic rubber]]
 
 ## 数据来源
 
@@ -50,8 +50,8 @@ last_updated: 2026-04-10
 - [Exxon Mobil Corporation suppliers manufacturers](https://en.wikipedia.org/wiki/ExxonMobil)
 - [Exxon Mobil Corporation suppliers manufacturers](https://corporate.exxonmobil.com/procurement/exxonmobil-for-suppliers)
 - [Exxon Mobil Corporation major customers clients](https://en.wikipedia.org/wiki/ExxonMobil)
-- [Exxon Mobil Corporation major customers clients](https://corporate.exxonmobil.com/)
+- [Exxon Mobil Corporation major customers clients](https://csimarket.com/stocks/XOM-Customers)
 
 ## 元数据
 
-- **更新日期**: 2026-04-10
+- **更新日期**: 2026-04-13

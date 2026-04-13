@@ -3,8 +3,8 @@ ticker: NFLX
 company: Netflix, Inc.
 sector: Communication Services
 industry: Entertainment
-extracted_at: 2026-04-10 16:47:07
-last_updated: 2026-04-10
+extracted_at: 2026-04-13 16:59:44
+last_updated: 2026-04-13
 ---
 
 # NFLX - Netflix, Inc.
@@ -12,23 +12,23 @@ last_updated: 2026-04-10
 ## 基本信息
 
 - **所属行业**: Communication Services / Entertainment
-- **提取时间**: 2026-04-10 16:47:07
+- **提取时间**: 2026-04-13 16:59:44
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Content production studios]]
-- [[Film distributors]]
-- [[Music licensing companies]]
-- [[Cloud service providers (AWS)]]
-- [[CDN providers (Akamai)]]
+- [[Hollywood Studios]]
+- [[Albuquerque Studios]]
+- [[Production Companies]]
+- [[Film Studios]]
+- [[Content Producers]]
 
 ### 下游客户
-- [[Individual subscribers worldwide]]
-- [[Corporate subscription accounts]]
-- [[Family households]]
-- [[International streaming customers]]
-- [[Device manufacturers (smart TVs)]]
+- [[Individual Subscribers]]
+- [[Corporate Accounts]]
+- [[International Streaming Platforms]]
+- [[Mobile Users]]
+- [[Smart TV Users]]
 
 ### 竞争对手
 - [[Disney+]]
@@ -38,20 +38,20 @@ last_updated: 2026-04-10
 - [[AAPL]]
 
 ### 核心产品
-- [[OTT streaming service]]
-- [[Original series and films]]
-- [[Documentaries]]
-- [[Kids and family content]]
-- [[Interactive content]]
+- [[Streaming Video Service]]
+- [[Original Series]]
+- [[Original Movies]]
+- [[Licensed Content]]
+- [[Mobile App]]
 
 ## 数据来源
 
 - [Netflix, Inc.](https://en.wikipedia.org/wiki/Netflix,_Inc.)
-- [Netflix, Inc. suppliers manufacturers](https://csimarket.com/stocks/NFLX-Suppliers)
-- [Netflix, Inc. suppliers manufacturers](https://porteranalysis.com/porters-five-forces-of-netflix/)
-- [Netflix, Inc. major customers clients](https://ir.netflix.net/ir-overview/profile/default.aspx)
-- [Netflix, Inc. major customers clients](https://businessmodelanalyst.com/netflix-target-market/)
+- [Netflix, Inc. suppliers manufacturers](https://www.stock-analysis-on.net/NASDAQ/Company/Netflix-Inc)
+- [Netflix, Inc. suppliers manufacturers](https://www.case48.com/porter-analysis/5226-Netflix-Inc)
+- [Netflix, Inc. major customers clients](https://www.inc.com/jason-aten/netflix-just-revealed-its-doing-the-1-thing-customers-were-most-afraid-of/91110628)
+- [Netflix, Inc. major customers clients](https://www.bloomberg.com/news/articles/2019-07-17/netflix-plunges-as-price-increase-leads-to-u-s-customer-losses)
 
 ## 元数据
 
-- **更新日期**: 2026-04-10
+- **更新日期**: 2026-04-13

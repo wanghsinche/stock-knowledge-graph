@@ -7,31 +7,31 @@
     "TSM",
     "005930.KS",
     "GlobalFoundries",
-    "UMC",
-    "SK Hynix"
+    "ASE Group",
+    "Amkor Technology"
   ],
   "downstream": [
     "DELL",
     "HPQ",
-    "Lenovo Group",
     "MSFT",
-    "SONY"
+    "AMZN",
+    "GOOGL"
   ],
   "competitors": [
     "INTC",
     "NVDA",
     "QCOM",
     "AVGO",
-    "ARM Holdings"
+    "005930.KS"
   ],
   "key_products": [
-    "Ryzen CPUs",
-    "EPYC CPUs",
-    "Radeon GPUs",
-    "Radeon Instinct GPUs",
-    "Radeon Pro GPUs"
+    "Ryzen desktop CPUs",
+    "EPYC server CPUs",
+    "Radeon RX GPUs",
+    "Instinct GPUs",
+    "Xilinx FPGAs"
   ],
-  "extracted_at": "2026-04-10 16:42:14",
+  "extracted_at": "2026-04-13 16:57:28",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,21 +47,21 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ir.amd.com/",
+      "url": "https://www.britannica.com/money/Advanced-Micro-Devices-Inc",
       "query": "Advanced Micro Devices, Inc. suppliers manufacturers",
-      "snippet": "Advanced Micro Devices , Inc . IR Overview. Investor Relations. AMD Completes Divestiture of ZT Systems Data Center Infrastructure Manufacturing Busin"
+      "snippet": "Advanced Micro Devices , Inc . ( AMD ) is an American semiconductor designer and global supplier of computing and graphics technologies used in data c"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/AMD-Customers",
+      "url": "https://en.wikipedia.org/wiki/AMD",
       "query": "Advanced Micro Devices, Inc. major customers clients",
-      "snippet": "Advanced Micro Devices Inc customers and markets, results by customer and performance relative to AMD, by company and industry - CSIMarket"
+      "snippet": "Advanced Micro Devices , Inc . Advanced Micro Devices , Inc . ( AMD ) is an American multinational semiconductor company headquartered in Santa Clara,"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ir.amd.com/financial-information/sec-filings/content/0001193125-25-067185/0001193125-25-067185.pdf",
+      "url": "https://finance.yahoo.com/quote/AMD/",
       "query": "Advanced Micro Devices, Inc. major customers clients",
-      "snippet": "With our high-performance product portfolios, we deliver differentiated solutions, such as our semi-custom System-on-Chip (SoCs), Adaptive SoCs, and a"
+      "snippet": "Find the latest Advanced Micro Devices , Inc . ( AMD ) stock quote, history, news and other vital information to help you with your stock trading and "
     }
   ]
 }

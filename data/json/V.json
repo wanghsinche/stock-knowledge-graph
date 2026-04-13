@@ -4,34 +4,34 @@
   "sector": "Financial Services",
   "industry": "Credit Services",
   "upstream": [
-    "Visa's card manufacturing partners (e.g., Gemalto, IDEMIA)",
-    "Chip and card technology suppliers",
-    "Payment network infrastructure providers",
-    "Security and fraud detection technology vendors",
-    "Data analytics platform providers"
+    "Visa International Singapore Holdings Pte. Ltd.",
+    "Visa Processing Service Pte. Ltd.",
+    "Visa International (UK) Ltd.",
+    "Visa International (Australia) Pty Ltd.",
+    "Visa International (Canada) Inc."
   ],
   "downstream": [
-    "Banks and financial institutions issuing Visa cards",
-    "Merchants and retailers accepting Visa payments",
-    "Consumers using Visa cards",
-    "Mobile wallet providers integrating Visa",
-    "Payment processors and acquirers"
+    "Bank of America",
+    "JPMorgan Chase",
+    "Citigroup",
+    "Wells Fargo",
+    "HSBC"
   ],
   "competitors": [
     "Mastercard",
     "American Express",
-    "Discover Financial Services",
-    "JCB",
-    "UnionPay"
+    "Discover",
+    "UnionPay",
+    "PayPal"
   ],
   "key_products": [
-    "Visa payment network",
-    "Visa Credit Card services",
-    "Visa Debit Card services",
-    "Visa Prepaid Card services",
-    "Visa Mobile Payments (Visa Checkout, Visa Token Service)"
+    "Visa credit cards",
+    "Visa debit cards",
+    "Visa prepaid cards",
+    "Visa payment processing services",
+    "Visa digital payment solutions"
   ],
-  "extracted_at": "2026-04-01 16:49:34",
+  "extracted_at": "2026-04-13 17:03:39",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Visa_Inc.",
+      "url": "https://www.sec.gov/Archives/edgar/data/1403161/000119312509239249/dex211.htm",
       "query": "Visa Inc. suppliers manufacturers",
-      "snippet": "Visa Inc . is an American multinational payment card services corporation headquartered in San Francisco, California."
+      "snippet": "Visa International Singapore Holdings Pte. Limited. Visa Processing Service Pte. Limited. Visa Worldwide Pte. Limited."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ru.wikipedia.org/wiki/Visa",
+      "url": "https://csimarket.com/stocks/V-Suppliers",
       "query": "Visa Inc. suppliers manufacturers",
-      "snippet": "Visa Inc . — американская транснациональная компания, предоставляющая услуги проведения платёжных операций. Является основой одноимённой ассоциации. С"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Visa_Inc.",
-      "query": "Visa Inc. major customers clients",
-      "snippet": "Visa does not issue cards, extend credit, or set rates and fees for consumers ; rather, Visa provides financial institutions with Visa-branded payment"
+      "snippet": "Jan 30, 2026 · For your research, we’ve provided nine additional tables on Visa Inc ’ s suppliers . You can find them in the navigation menu under Sup"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://data.landbase.com/technology/visa/",
       "query": "Visa Inc. major customers clients",
       "snippet": "Aug 17, 2025 · Our Visa customers list is available for download and comes enriched with vital company specifics, including industry classification, o"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://corporate.visa.com/content/dam/VCOM/corporate/documents/about-visa-factsheet.pdf",
+      "query": "Visa Inc. major customers clients",
+      "snippet": "Visa is a world leader in digital payments, facilitating transactions between consumers , sellers, financial institutions and government entities acro"
     }
   ]
 }

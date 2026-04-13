@@ -2,20 +2,20 @@
   "ticker": "ALAB",
   "company_name": "Astera Labs, Inc.",
   "sector": "Technology",
-  "industry": "Semiconductors – Connectivity & Interconnect",
+  "industry": "Semiconductors",
   "upstream": [
     "TSM",
-    "005930.KS",
     "GlobalFoundries",
-    "UMC",
-    "Tower Semiconductor"
+    "005930.KS",
+    "ASE Technology Holding",
+    "Amkor Technology"
   ],
   "downstream": [
-    "NVDA",
-    "AMD",
-    "INTC",
-    "AMD",
-    "AVGO"
+    "AMZN",
+    "GOOGL",
+    "MSFT",
+    "DELL",
+    "HPQ"
   ],
   "competitors": [
     "AVGO",
@@ -25,13 +25,13 @@
     "AMD"
   ],
   "key_products": [
-    "PCIe interface chips (PCIe 5.0/6.0)",
-    "CXL interface chips",
-    "NVLink interface chips",
-    "Ethernet interface chips",
-    "Custom connectivity solutions for data‑center interconnect"
+    "CXL (Compute Express Link) adapters",
+    "PCIe 5.0/6.0 switches",
+    "High‑speed interconnect IP blocks",
+    "Data‑center interconnect solutions",
+    "AI accelerator interconnects"
   ],
-  "extracted_at": "2026-04-10 16:48:17",
+  "extracted_at": "2026-04-13 17:01:13",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.asteralabs.com/faqs/who-are-astera-labs-primary-design-manufacturing-partners/",
-      "query": "Astera Labs, Inc. suppliers manufacturers",
-      "snippet": "Who are Astera Labs’ primary design & manufacturing partners? We leverage industry leading partners in both our design and manufacturing process such "
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.mouser.com/manufacturer/astera-labs/",
-      "query": "Astera Labs, Inc. suppliers manufacturers",
-      "snippet": "Astera Labs is a fabless semiconductor company that develops purpose-built connectivity solutions for data-centric systems to remove performance bottl"
-    },
-    {
-      "source": "DuckDuckGo",
       "url": "https://www.asteralabs.com/",
-      "query": "Astera Labs, Inc. major customers clients",
-      "snippet": "Astera Labs Expands Connectivity Portfolio with Custom Solutions. NVLink Fusion-based custom solutions will be offered to support next-generation hete"
+      "query": "Astera Labs, Inc. suppliers manufacturers",
+      "snippet": "Go to the homepage of ASTERA LABS , INC . Products. Astera Labs Expands Connectivity Portfolio with Custom Solutions. NVLink Fusion-based custom solut"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.spacstar.com/market-sentiment/astera-labs-the-next-big-semiconductor-star/",
+      "url": "https://csimarket.com/stocks/suppliers_glance.php?code=ALAB",
+      "query": "Astera Labs, Inc. suppliers manufacturers",
+      "snippet": "Astera Labs Inc supply chain, list and performance of Astera Labs Incs ' suppliers - CSIMarket."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/ALAB-Customers",
       "query": "Astera Labs, Inc. major customers clients",
-      "snippet": "About Astera Labs , Inc .: Our PCIe, CXL and Ethernet semiconductor-based connectivity solutions are purpose-built to unleash the full potential of ac"
+      "snippet": "2 days ago · For your research, we’ve provided 9 tables on Astera Labs Inc corporate clients . You can find them in the navigation menu under Customer"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://businessmodelcanvastemplate.com/blogs/target-market/astera-labs-target-market",
+      "query": "Astera Labs, Inc. major customers clients",
+      "snippet": "Mar 18, 2026 · The target audience spans cloud hyperscalers, AI system integrators, and data center architects who prioritize throughput, latency, and"
     }
   ]
 }

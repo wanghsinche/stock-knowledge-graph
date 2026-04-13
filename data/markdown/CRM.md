@@ -3,8 +3,8 @@ ticker: CRM
 company: Salesforce, Inc.
 sector: Technology
 industry: Software - Application
-extracted_at: 2026-04-10 16:45:40
-last_updated: 2026-04-10
+extracted_at: 2026-04-13 16:59:32
+last_updated: 2026-04-13
 ---
 
 # CRM - Salesforce, Inc.
@@ -12,7 +12,7 @@ last_updated: 2026-04-10
 ## 基本信息
 
 - **所属行业**: Technology / Software - Application
-- **提取时间**: 2026-04-10 16:45:40
+- **提取时间**: 2026-04-13 16:59:32
 
 ## 产业链关系
 
@@ -24,18 +24,18 @@ last_updated: 2026-04-10
 - [[IBM]]
 
 ### 下游客户
-- [[Large enterprises]]
-- [[Financial services]]
-- [[Retail]]
-- [[Healthcare]]
-- [[Manufacturing]]
+- [[Coca-Cola]]
+- [[American Express]]
+- [[Toyota]]
+- [[ADBE]]
+- [[Spotify]]
 
 ### 竞争对手
 - [[MSFT]]
+- [[SAP SuccessFactors]]
 - [[ORCL]]
-- [[SAP Sales Cloud]]
 - [[HubSpot]]
-- [[Zoho CRM]]
+- [[ADBE]]
 
 ### 核心产品
 - [[Sales Cloud]]
@@ -54,4 +54,4 @@ last_updated: 2026-04-10
 
 ## 元数据
 
-- **更新日期**: 2026-04-10
+- **更新日期**: 2026-04-13

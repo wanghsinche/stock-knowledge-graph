@@ -2,36 +2,36 @@
   "ticker": "WDC",
   "company_name": "Western Digital Corporation",
   "sector": "Technology / Computer Hardware",
-  "industry": "Hard Disk Drives",
+  "industry": "Data Storage",
   "upstream": [
-    "005930.KS",
     "MU",
-    "SK Hynix",
-    "Toshiba",
-    "STX"
+    "Printed circuit board (PCB) suppliers (e.g., TTM Technologies, Jabil)",
+    "META",
+    "Electronic component distributors (e.g., Arrow Electronics, Avnet)",
+    "Precision machining and assembly suppliers"
   ],
   "downstream": [
-    "AAPL",
+    "DELL",
+    "DELL",
     "MSFT",
-    "AMZN",
-    "GOOGL",
-    "DELL"
+    "005930.KS",
+    "Enterprise data center operators"
   ],
   "competitors": [
     "STX",
-    "Toshiba",
+    "Toshiba Storage",
     "005930.KS",
-    "MU",
-    "HGST"
+    "INTC",
+    "MU"
   ],
   "key_products": [
     "Hard Disk Drives (HDDs)",
     "Solid State Drives (SSDs)",
-    "Enterprise storage solutions",
-    "External Hard Drives",
-    "NAS drives"
+    "External storage solutions",
+    "Network Attached Storage (NAS) devices",
+    "Enterprise storage systems"
   ],
-  "extracted_at": "2026-04-10 16:48:05",
+  "extracted_at": "2026-04-13 17:02:12",
   "sources": [
     {
       "source": "Wikipedia",
@@ -53,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Western_Digital",
+      "url": "https://csimarket.com/stocks/WDC-Customers",
       "query": "Western Digital Corporation major customers clients",
-      "snippet": "Western Digital Corporation , doing business as WD , is an American data storage company headquartered in San Jose, California. Established in 1970, t"
+      "snippet": "For your research, we’ve provided 9 tables on Western Digital Corporation corporate clients . You can find them in the navigation menu under Customers"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ru.wikipedia.org/wiki/Western_Digital",
+      "url": "https://data.landbase.com/technology/western-digital/",
       "query": "Western Digital Corporation major customers clients",
-      "snippet": "Western Digital Corporation (NASDAQ: WDC, по-русски «Вестерн Диджитал»[3]) — компания, производитель компьютерной электроники. Наиболее известна произ"
+      "snippet": "Aug 17, 2025 · Our Western Digital customers list is available for download and comes enriched with vital company specifics, including industry classi"
     }
   ]
 }

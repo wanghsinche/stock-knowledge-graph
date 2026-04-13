@@ -4,21 +4,21 @@
   "sector": "Technology",
   "industry": "Software - Infrastructure",
   "upstream": [
-    "CSCO",
-    "Data center equipment suppliers",
-    "Cloud infrastructure providers (e.g., AWS, Azure, GCP)",
-    "Network equipment vendors",
-    "Software component suppliers"
+    "AMZN",
+    "MSFT",
+    "GOOGL",
+    "Equinix data centers",
+    "CSCO"
   ],
   "downstream": [
-    "E‑commerce platforms (e.g., Shopify, Magento)",
-    "NFLX",
+    "Shopify",
     "CRM",
-    "Financial services firms",
-    "Government and public sector websites"
+    "GitHub",
+    "NFLX",
+    "ADBE"
   ],
   "competitors": [
-    "Akamai Technologies",
+    "Akamai",
     "Fastly",
     "AMZN",
     "MSFT",
@@ -26,12 +26,17 @@
   ],
   "key_products": [
     "Content Delivery Network (CDN)",
-    "DDoS Mitigation & Web Application Firewall",
-    "Cloudflare Workers (serverless compute)",
-    "Cloudflare Access (Zero‑Trust access)",
-    "Cloudflare DNS & Argo Smart Routing"
+    "DDoS mitigation",
+    "Web Application Firewall (WAF)",
+    "DNS & domain registration",
+    "SSL/TLS encryption",
+    "Cloudflare Workers",
+    "Cloudflare Access",
+    "Cloudflare Stream",
+    "Cloudflare Spectrum",
+    "Cloudflare Magic Transit"
   ],
-  "extracted_at": "2026-04-10 16:45:29",
+  "extracted_at": "2026-04-13 17:06:47",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +46,27 @@
     },
     {
       "source": "DuckDuckGo",
+      "url": "https://www.cloudflare.com/",
+      "query": "Cloudflare, Inc. suppliers manufacturers",
+      "snippet": "Self-serve agency program Manage Self-Serve Accounts for your clients. Peer-to-peer portal Traffic insights for your network. Find a partner PowerUP y"
+    },
+    {
+      "source": "DuckDuckGo",
       "url": "https://www.linkedin.com/company/cloudflare",
       "query": "Cloudflare, Inc. suppliers manufacturers",
       "snippet": "Cloudflare , Inc . (NYSE: NET) is the leading connectivity cloud company. It empowers organizations to make their employees, applications and networks"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.cloudflare.com/trademark/",
-      "query": "Cloudflare, Inc. suppliers manufacturers",
-      "snippet": "Use of Cloudflare trademarks by Cloudflare suppliers and vendors. Suppliers and vendors to Cloudflare are not allowed to use Cloudflare trademarks in "
+      "url": "https://backlinko.com/cloudflare-users",
+      "query": "Cloudflare, Inc. major customers clients",
+      "snippet": "Jan 22, 2026 · Cloudflare had a total of 3,046 large customers in Q2 2024, contributing more than $100,000 in annualized revenue. The internet securit"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.linkedin.com/company/cloudflare",
+      "url": "https://www.demandsage.com/cloudflare-statistics/",
       "query": "Cloudflare, Inc. major customers clients",
-      "snippet": "Cloudflare , Inc . (NYSE: NET) is the leading connectivity cloud company. It empowers organizations to make their employees, applications and networks"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://radar.cloudflare.com/",
-      "query": "Cloudflare, Inc. major customers clients",
-      "snippet": "Cloudflare Radar has added new tools for monitoring PQ adoption, KT logs for messaging, and ASPA routing records to track the Internet's migration tow"
+      "snippet": "Jan 1, 2026 · This article presents the latest Cloudflare statistics, including traffic share, website usage, outage history, paying customers , reven"
     }
   ]
 }

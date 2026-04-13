@@ -3,8 +3,8 @@ ticker: APP
 company: AppLovin Corporation
 sector: Communication Services
 industry: Advertising Agencies
-extracted_at: 2026-04-10 16:47:20
-last_updated: 2026-04-10
+extracted_at: 2026-04-13 17:00:08
+last_updated: 2026-04-13
 ---
 
 # APP - AppLovin Corporation
@@ -12,46 +12,46 @@ last_updated: 2026-04-10
 ## 基本信息
 
 - **所属行业**: Communication Services / Advertising Agencies
-- **提取时间**: 2026-04-10 16:47:20
+- **提取时间**: 2026-04-13 17:00:08
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Mobile device manufacturers]]
 - [[AAPL]]
-- [[Cloud service providers (AWS, Azure)]]
-- [[Ad network partners]]
-- [[Data and analytics vendors]]
+- [[App development platforms (e.g., Unity, Unreal Engine)]]
+- [[GOOGL]]
+- [[Data and analytics vendors (e.g., Adjust, Appsflyer)]]
+- [[MSFT]]
 
 ### 下游客户
-- [[Mobile app developers]]
+- [[Mobile app developers and publishers]]
 - [[Game developers]]
-- [[Social media platforms]]
-- [[E‑commerce app operators]]
-- [[Media and entertainment companies]]
+- [[Digital marketers and advertisers]]
+- [[Brand agencies]]
+- [[E‑commerce app owners]]
 
 ### 竞争对手
 - [[Unity Ads]]
-- [[AdColony]]
 - [[Vungle]]
 - [[IronSource]]
-- [[GOOGL]]
+- [[AdColony]]
+- [[Chartboost]]
 
 ### 核心产品
-- [[AppLovin Mobile Marketing Platform]]
-- [[AppLovin SDK]]
-- [[AppLovin Ads]]
-- [[AppLovin Audience Network]]
-- [[AppLovin Analytics]]
+- [[AppLovin Mobile Advertising Platform]]
+- [[MAX (Mobile Ad Mediation) SDK]]
+- [[AppDiscovery (app discovery & acquisition)]]
+- [[LTV (Lifetime Value) Analytics]]
+- [[AppLovin Marketing Cloud]]
 
 ## 数据来源
 
 - 
 - [AppLovin Corporation suppliers manufacturers](https://en.wikipedia.org/wiki/AppLovin)
 - [AppLovin Corporation suppliers manufacturers](https://csimarket.com/stocks/APP-Suppliers)
-- [AppLovin Corporation major customers clients](https://en.wikipedia.org/wiki/AppLovin)
-- [AppLovin Corporation major customers clients](https://theirstack.com/en/technology/applovin)
+- [AppLovin Corporation major customers clients](https://www.applovin.com/)
+- [AppLovin Corporation major customers clients](https://www.insidermonkey.com/blog/what-makes-applovin-corporation-app-a-long-term-beneficiary-of-ai-1735713/)
 
 ## 元数据
 
-- **更新日期**: 2026-04-10
+- **更新日期**: 2026-04-13

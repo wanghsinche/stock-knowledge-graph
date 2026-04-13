@@ -1,8 +1,8 @@
 {
   "ticker": "MSTR",
   "company_name": "MicroStrategy Incorporated",
-  "sector": "Technology / Software - Application",
-  "industry": "Business Intelligence & Analytics",
+  "sector": "Technology",
+  "industry": "Software - Application",
   "upstream": [
     "MSFT",
     "AMZN",
@@ -11,27 +11,27 @@
     "IBM"
   ],
   "downstream": [
-    "Financial institutions",
-    "Government agencies",
-    "Retail companies",
-    "Healthcare organizations",
-    "Manufacturing firms"
+    "Bank of America",
+    "Walmart",
+    "Coca‑Cola",
+    "General Electric",
+    "Procter & Gamble"
   ],
   "competitors": [
-    "Tableau",
-    "Qlik",
+    "Tableau Software",
     "MSFT",
+    "Qlik",
     "Looker",
-    "Sisense"
+    "SAP BusinessObjects"
   ],
   "key_products": [
+    "MicroStrategy Desktop",
+    "MicroStrategy Cloud",
     "MicroStrategy Analytics",
     "MicroStrategy Mobile",
-    "MicroStrategy Cloud",
-    "MicroStrategy Data Warehouse",
-    "MicroStrategy Enterprise Analytics"
+    "MicroStrategy Data Warehouse"
   ],
-  "extracted_at": "2026-04-10 16:48:57",
+  "extracted_at": "2026-04-13 17:01:28",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,15 +41,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.linkedin.com/company/strategyinc",
+      "url": "https://finance.yahoo.com/quote/MSTR/",
       "query": "Strategy Inc suppliers manufacturers",
-      "snippet": "Founded in 2000, Strategy Inc . is located in Austin, Texas, Research Triangle, North Carolina and Los Angeles, California. Approximately 88% of the l"
+      "snippet": "Find the latest Strategy Inc (MSTR) stock quote, history, news and other vital information to help you with your stock trading and investing."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.strategyinc.net/services-overview/",
+      "url": "https://www.nasdaq.com/market-activity/stocks/mstr",
       "query": "Strategy Inc suppliers manufacturers",
-      "snippet": "At Strategy Inc ., we offer a comprehensive range of consulting services required for life science and medical device due diligence, such as: market a"
+      "snippet": "Discover real-time Strategy Inc Common Stock Class A (MSTR) stock prices, quotes, historical data, news, and Insights for informed trading and investm"
     },
     {
       "source": "DuckDuckGo",

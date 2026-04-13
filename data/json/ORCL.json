@@ -7,31 +7,31 @@
     "INTC",
     "AMD",
     "NVDA",
-    "CSCO",
-    "DELL"
+    "DELL",
+    "CSCO"
   ],
   "downstream": [
     "JPMorgan Chase",
-    "AT&T",
     "Walmart",
-    "UnitedHealth Group",
-    "General Electric"
+    "Bank of America",
+    "AT&T",
+    "Verizon"
   ],
   "competitors": [
     "MSFT",
-    "AMZN",
     "IBM",
-    "SAP",
-    "GOOGL"
+    "AMZN",
+    "PostgreSQL",
+    "MySQL"
   ],
   "key_products": [
     "Oracle Database",
     "Oracle Cloud Infrastructure",
-    "Oracle ERP Cloud",
     "Oracle Autonomous Database",
-    "Oracle Fusion Middleware"
+    "Oracle E-Business Suite",
+    "Oracle Fusion Cloud"
   ],
-  "extracted_at": "2026-04-10 16:44:48",
+  "extracted_at": "2026-04-13 16:56:04",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,15 +41,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Oracle_Corporation",
-      "query": "Oracle Corporation suppliers manufacturers",
-      "snippet": "Oracle Corporation is an American multinational technology company headquartered in Austin, Texas. [5] Co-founded in Santa Clara, California by Bob Mi"
-    },
-    {
-      "source": "DuckDuckGo",
       "url": "https://www.oracle.com/corporate/suppliers/",
       "query": "Oracle Corporation suppliers manufacturers",
       "snippet": "Oracle is always looking for suppliers who can meet our high quality standards and satisfy our ever-evolving business needs. We believe in the importa"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.oracle.com/partner/find-partner/",
+      "query": "Oracle Corporation suppliers manufacturers",
+      "snippet": "Easily locate Oracle partners with expertise in building, selling, and providing value-added services for Oracle technology. Search by partner name, c"
     },
     {
       "source": "DuckDuckGo",

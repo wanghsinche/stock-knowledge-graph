@@ -1,57 +1,57 @@
 ---
 ticker: IREN
 company: IREN Limited
-sector: Basic Materials
-industry: Mining
-extracted_at: 2026-04-10 16:49:57
-last_updated: 2026-04-10
+sector: Financial Services / Capital Markets
+industry: Data Center Services
+extracted_at: 2026-04-13 17:03:02
+last_updated: 2026-04-13
 ---
 
 # IREN - IREN Limited
 
 ## 基本信息
 
-- **所属行业**: Basic Materials / Mining
-- **提取时间**: 2026-04-10 16:49:57
+- **所属行业**: Financial Services / Capital Markets / Data Center Services
+- **提取时间**: 2026-04-13 17:03:02
 
 ## 产业链关系
 
 ### 上游供应商
-- [[CAT]]
-- [[Komatsu Ltd.]]
-- [[Sandvik AB]]
-- [[ABB Ltd.]]
-- [[Siemens AG]]
+- [[NVDA]]
+- [[AMD]]
+- [[DELL]]
+- [[HPQ]]
+- [[CSCO]]
 
 ### 下游客户
-- [[Glencore plc]]
-- [[Rio Tinto]]
-- [[Vale S.A.]]
-- [[Alcoa Corporation]]
-- [[Freeport-McMoRan]]
+- [[AMZN]]
+- [[MSFT]]
+- [[GOOGL]]
+- [[Enterprise AI customers]]
+- [[Cryptocurrency mining firms]]
 
 ### 竞争对手
-- [[Newcrest Mining]]
-- [[HPQ]]
-- [[META]]
-- [[AngloGold Ashanti]]
-- [[Gold Fields]]
+- [[Equinix]]
+- [[Digital Realty]]
+- [[AMZN]]
+- [[MSFT]]
+- [[GOOGL]]
 
 ### 核心产品
-- [[Copper]]
-- [[Gold]]
-- [[Silver]]
-- [[Zinc]]
-- [[Lead]]
+- [[GPU-accelerated compute services]]
+- [[High-performance computing clusters]]
+- [[Data center infrastructure]]
+- [[Cloud-based AI training platforms]]
+- [[Edge computing solutions]]
 
 ## 数据来源
 
 - 
-- [IREN Limited suppliers manufacturers](https://stockanalysis.com/stocks/iren/)
-- [IREN Limited suppliers manufacturers](https://www.investing.com/equities/iris-energy)
-- [IREN Limited major customers clients](https://www.investing.com/equities/iris-energy)
-- [IREN Limited major customers clients](https://www.zacks.com/stock/news/2895636/iren-limited-plunges-23-in-3-months-time-to-hold-or-fold-the-stock)
+- [IREN Limited suppliers manufacturers](https://www.iren.com/)
+- [IREN Limited suppliers manufacturers](https://csimarket.com/stocks/suppliers_glance.php?code=IREN)
+- [IREN Limited major customers clients](https://stockanalysis.com/stocks/iren/)
+- [IREN Limited major customers clients](https://ca.finance.yahoo.com/quote/IREN/)
 
 ## 元数据
 
-- **更新日期**: 2026-04-10
+- **更新日期**: 2026-04-13

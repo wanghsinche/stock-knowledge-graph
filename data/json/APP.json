@@ -4,34 +4,34 @@
   "sector": "Communication Services",
   "industry": "Advertising Agencies",
   "upstream": [
-    "Mobile device manufacturers",
     "AAPL",
-    "Cloud service providers (AWS, Azure)",
-    "Ad network partners",
-    "Data and analytics vendors"
+    "App development platforms (e.g., Unity, Unreal Engine)",
+    "GOOGL",
+    "Data and analytics vendors (e.g., Adjust, Appsflyer)",
+    "MSFT"
   ],
   "downstream": [
-    "Mobile app developers",
+    "Mobile app developers and publishers",
     "Game developers",
-    "Social media platforms",
-    "E‑commerce app operators",
-    "Media and entertainment companies"
+    "Digital marketers and advertisers",
+    "Brand agencies",
+    "E‑commerce app owners"
   ],
   "competitors": [
     "Unity Ads",
-    "AdColony",
     "Vungle",
     "IronSource",
-    "GOOGL"
+    "AdColony",
+    "Chartboost"
   ],
   "key_products": [
-    "AppLovin Mobile Marketing Platform",
-    "AppLovin SDK",
-    "AppLovin Ads",
-    "AppLovin Audience Network",
-    "AppLovin Analytics"
+    "AppLovin Mobile Advertising Platform",
+    "MAX (Mobile Ad Mediation) SDK",
+    "AppDiscovery (app discovery & acquisition)",
+    "LTV (Lifetime Value) Analytics",
+    "AppLovin Marketing Cloud"
   ],
-  "extracted_at": "2026-04-10 16:47:20",
+  "extracted_at": "2026-04-13 17:00:08",
   "sources": [
     {
       "source": "Wikipedia",
@@ -53,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/AppLovin",
+      "url": "https://www.applovin.com/",
       "query": "AppLovin Corporation major customers clients",
-      "snippet": "Before emerging from stealth mode, AppLovin acquired customers , including Opentable and Spotify. [9][10] The company was ranked #10 on the 2016 Deloi"
+      "snippet": "AppLovin enables businesses to advertise profitably with marketing technologies that attract customers , increase revenue, and track ad performance."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://theirstack.com/en/technology/applovin",
+      "url": "https://www.insidermonkey.com/blog/what-makes-applovin-corporation-app-a-long-term-beneficiary-of-ai-1735713/",
       "query": "AppLovin Corporation major customers clients",
-      "snippet": "Download a list of 942 companies that use AppLovin with enriched data including industry, company size, location, funding rounds, and revenue figures."
+      "snippet": "AppLovin Corporation (NASDAQ:APP) is a mobile technology company specializing in developing software-based platforms for advertisers to enhance the ma"
     }
   ]
 }

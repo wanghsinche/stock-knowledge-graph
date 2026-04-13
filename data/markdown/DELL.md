@@ -3,8 +3,8 @@ ticker: DELL
 company: Dell Technologies Inc.
 sector: Technology
 industry: Computer Hardware
-extracted_at: 2026-04-01 16:53:56
-last_updated: 2026-04-01
+extracted_at: 2026-04-13 17:01:00
+last_updated: 2026-04-13
 ---
 
 # DELL - Dell Technologies Inc.
@@ -12,46 +12,46 @@ last_updated: 2026-04-01
 ## 基本信息
 
 - **所属行业**: Technology / Computer Hardware
-- **提取时间**: 2026-04-01 16:53:56
+- **提取时间**: 2026-04-13 17:01:00
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Foxconn]]
-- [[Pegatron]]
-- [[Wistron]]
-- [[Flex]]
-- [[Jabil]]
+- [[INTC]]
+- [[AMD]]
+- [[NVDA]]
+- [[005930.KS]]
+- [[TSM]]
 
 ### 下游客户
 - [[U.S. Department of Defense]]
-- [[AMZN]]
-- [[Walmart]]
-- [[MSFT]]
-- [[GOOGL]]
+- [[Fortune 500 enterprises]]
+- [[Universities]]
+- [[Healthcare providers]]
+- [[Financial institutions]]
 
 ### 竞争对手
 - [[HPQ]]
 - [[Lenovo]]
+- [[AAPL]]
 - [[Acer]]
 - [[Asus]]
-- [[AAPL]]
 
 ### 核心产品
-- [[Personal Computers]]
+- [[Personal computers]]
 - [[Servers]]
-- [[Storage Solutions]]
-- [[Networking Equipment]]
-- [[Security Software]]
+- [[Monitors]]
+- [[Storage solutions]]
+- [[Cybersecurity services]]
 
 ## 数据来源
 
 - [Dell Technologies](https://en.wikipedia.org/wiki/Dell_Technologies_Inc.)
-- [Dell Technologies Inc. suppliers manufacturers](https://www.delltechnologies.com/asset/pl-pl/solutions/business-solutions/briefs-summaries/dell-public-supplier-list.pdf)
-- [Dell Technologies Inc. suppliers manufacturers](https://csimarket.com/stocks/DELL-Suppliers)
-- [Dell Technologies Inc. major customers clients](https://en.wikipedia.org/wiki/Dell_Technologies)
-- [Dell Technologies Inc. major customers clients](https://www.dell.com/en-us)
+- [Dell Technologies Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/Dell)
+- [Dell Technologies Inc. suppliers manufacturers](https://www.dell.com/en-us)
+- [Dell Technologies Inc. major customers clients](https://csimarket.com/stocks/DELL-Customers)
+- [Dell Technologies Inc. major customers clients](https://www.dell.com/en-us/lp/dt/customer-stories)
 
 ## 元数据
 
-- **更新日期**: 2026-04-01
+- **更新日期**: 2026-04-13

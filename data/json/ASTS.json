@@ -1,21 +1,21 @@
 {
   "ticker": "ASTS",
   "company_name": "AST SpaceMobile, Inc.",
-  "sector": "Technology",
-  "industry": "Communication Equipment",
+  "sector": "Technology / Communication Equipment",
+  "industry": "Satellite Communications",
   "upstream": [
-    "Boeing",
+    "SpaceX",
     "Lockheed Martin",
+    "Boeing",
     "Airbus",
-    "Raytheon Technologies",
-    "SpaceX"
+    "Honeywell"
   ],
   "downstream": [
     "AT&T",
     "Verizon",
     "T-Mobile",
-    "China Mobile",
-    "Vodafone"
+    "Vodafone",
+    "Telefonica"
   ],
   "competitors": [
     "SpaceX Starlink",
@@ -25,13 +25,13 @@
     "Hughes Network Systems"
   ],
   "key_products": [
-    "4G/5G space‑based cellular broadband satellites",
-    "Satellite modem and terminal equipment",
-    "Ground station infrastructure",
-    "Satellite network management software",
-    "High‑throughput satellite payloads"
+    "4G/5G space-based cellular broadband",
+    "Satellite constellation",
+    "Satellite terminals",
+    "Ground stations",
+    "Network infrastructure"
   ],
-  "extracted_at": "2026-04-10 16:51:43",
+  "extracted_at": "2026-04-13 17:06:19",
   "sources": [
     {
       "source": "Wikipedia",
@@ -53,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/AST_SpaceMobile",
+      "url": "https://csimarket.com/stocks/ASTS-Customers",
       "query": "AST SpaceMobile, Inc. major customers clients",
-      "snippet": "AST SpaceMobile , Inc . is a publicly traded satellite designer and manufacturer based in Midland, Texas, United States. The company is building the S"
+      "snippet": "Mar 6, 2026 · For your research, we’ve provided 9 tables on Ast Spacemobile Inc corporate clients . You can find them in the navigation menu under Cus"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finviz.com/news/28249/ast-spacemobile-5-reasons-to-buy-this-tiny-trailblazer-stock",
+      "url": "https://ast-science.com/",
       "query": "AST SpaceMobile, Inc. major customers clients",
-      "snippet": "AST SpaceMobile ’s broadband cellular network is supposed to fill in coverage gaps throughout the globe in order to ensure continuous coverage for mob"
+      "snippet": "We have partnered with over 50 mobile network operators to seamlessly integrate with ground infrastructure and offer a turnkey service to their nearly"
     }
   ]
 }

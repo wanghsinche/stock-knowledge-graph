@@ -3,11 +3,35 @@
   "company_name": "Moderna, Inc.",
   "sector": "Healthcare",
   "industry": "Biotechnology",
-  "upstream": [],
-  "downstream": [],
-  "competitors": [],
-  "key_products": [],
-  "extracted_at": "2026-04-10 16:52:51",
+  "upstream": [
+    "Thermo Fisher Scientific",
+    "Merck & Co.",
+    "Lonza Group",
+    "GSK",
+    "Boehringer Ingelheim"
+  ],
+  "downstream": [
+    "National procurement agencies (e.g., U.S. CDC, EU Commission)",
+    "Hospitals and health systems",
+    "Pharmaceutical distributors (e.g., McKesson, Cardinal Health)",
+    "Global vaccine manufacturers (e.g., Pfizer, BioNTech)",
+    "Public health organizations (e.g., WHO, UNICEF)"
+  ],
+  "competitors": [
+    "Pfizer",
+    "BioNTech",
+    "Novavax",
+    "CureVac",
+    "GSK"
+  ],
+  "key_products": [
+    "Spikevax (COVID‑19 mRNA vaccine)",
+    "mRNA‑1273 (COVID‑19 vaccine)",
+    "mRNA‑1245 (influenza vaccine)",
+    "mRNA‑4157 (cancer vaccine)",
+    "mRNA‑1273.211 (bivalent COVID‑19 vaccine)"
+  ],
+  "extracted_at": "2026-04-13 17:07:17",
   "sources": [
     {
       "source": "Wikipedia",
@@ -26,6 +50,18 @@
       "url": "https://www.modernatx.com/supplier/moderna-supplier-page",
       "query": "Moderna, Inc. suppliers manufacturers",
       "snippet": "This page is dedicated to serving Moderna ' s valued suppliers with essential information on Ariba, supplier onboarding, invoicing, and key contacts f"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/MRNA-Customers",
+      "query": "Moderna, Inc. major customers clients",
+      "snippet": "Mar 31, 2026 · For your research, we’ve provided 9 tables on Moderna Inc corporate clients . You can find them in the navigation menu under Customers "
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://portersfiveforce.com/blogs/target-market/moderna",
+      "query": "Moderna, Inc. major customers clients",
+      "snippet": "Mar 19, 2026 · Customers now include national procurement agencies, multilateral buyers, health systems, and individual adults for seasonal vaccines; "
     }
   ]
 }

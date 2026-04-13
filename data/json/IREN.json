@@ -1,37 +1,37 @@
 {
   "ticker": "IREN",
   "company_name": "IREN Limited",
-  "sector": "Basic Materials",
-  "industry": "Mining",
+  "sector": "Financial Services / Capital Markets",
+  "industry": "Data Center Services",
   "upstream": [
-    "CAT",
-    "Komatsu Ltd.",
-    "Sandvik AB",
-    "ABB Ltd.",
-    "Siemens AG"
+    "NVDA",
+    "AMD",
+    "DELL",
+    "HPQ",
+    "CSCO"
   ],
   "downstream": [
-    "Glencore plc",
-    "Rio Tinto",
-    "Vale S.A.",
-    "Alcoa Corporation",
-    "Freeport-McMoRan"
+    "AMZN",
+    "MSFT",
+    "GOOGL",
+    "Enterprise AI customers",
+    "Cryptocurrency mining firms"
   ],
   "competitors": [
-    "Newcrest Mining",
-    "HPQ",
-    "META",
-    "AngloGold Ashanti",
-    "Gold Fields"
+    "Equinix",
+    "Digital Realty",
+    "AMZN",
+    "MSFT",
+    "GOOGL"
   ],
   "key_products": [
-    "Copper",
-    "Gold",
-    "Silver",
-    "Zinc",
-    "Lead"
+    "GPU-accelerated compute services",
+    "High-performance computing clusters",
+    "Data center infrastructure",
+    "Cloud-based AI training platforms",
+    "Edge computing solutions"
   ],
-  "extracted_at": "2026-04-10 16:49:57",
+  "extracted_at": "2026-04-13 17:03:02",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
+      "url": "https://www.iren.com/",
+      "query": "IREN Limited suppliers manufacturers",
+      "snippet": "Whether you need immediate access to GPUs, world-class turnkey data centers for your own hardware, or a partner to design and build your AI-ready faci"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/suppliers_glance.php?code=IREN",
+      "query": "IREN Limited suppliers manufacturers",
+      "snippet": "Iren Limited supply chain, list and performance of Iren Limiteds ' suppliers - CSIMarket"
+    },
+    {
+      "source": "DuckDuckGo",
       "url": "https://stockanalysis.com/stocks/iren/",
-      "query": "IREN Limited suppliers manufacturers",
-      "snippet": "A detailed overview of IREN Limited ( IREN ) stock, including real-time price, chart, key statistics, news, and more."
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.investing.com/equities/iris-energy",
-      "query": "IREN Limited suppliers manufacturers",
-      "snippet": "IREN Ltd stock price live, this page displays NASDAQ IREN stock exchange data. View the IREN premarket stock price ahead of the market session or asse"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.investing.com/equities/iris-energy",
       "query": "IREN Limited major customers clients",
-      "snippet": "View today's IREN Ltd stock price and latest IREN news and analysis. Create real-time notifications to follow any changes in the live stock price."
+      "snippet": "IREN Limited ( IREN ) is rapidly transforming from Bitcoin mining to a vertically integrated AI compute powerhouse, securing major partnerships with M"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.zacks.com/stock/news/2895636/iren-limited-plunges-23-in-3-months-time-to-hold-or-fold-the-stock",
+      "url": "https://ca.finance.yahoo.com/quote/IREN/",
       "query": "IREN Limited major customers clients",
-      "snippet": "IREN 's 23% slide in the past three months reflects near-term mining weakness, but its AI cloud pivot and GPU expansion support a hold stance for now."
+      "snippet": "Find the latest IREN Limited ( IREN ) stock quote, history, news and other vital information to help you with your stock trading and investing."
     }
   ]
 }

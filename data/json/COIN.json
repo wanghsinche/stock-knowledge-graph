@@ -6,15 +6,15 @@
   "upstream": [
     "AMZN",
     "MSFT",
-    "Stripe (payment processing)",
-    "PayPal (payment processing)",
-    "Hardware vendors (e.g., Bitmain, Ledger)"
+    "GOOGL",
+    "Stripe",
+    "Chainlink"
   ],
   "downstream": [
-    "Retail cryptocurrency traders",
-    "Institutional investors and asset managers",
-    "DeFi protocol developers",
-    "Crypto funds and hedge funds",
+    "Retail cryptocurrency users",
+    "Institutional investors",
+    "Asset managers",
+    "Hedge funds",
     "Corporate treasury departments"
   ],
   "competitors": [
@@ -22,16 +22,16 @@
     "Kraken",
     "Gemini",
     "Bitstamp",
-    "Huobi"
+    "Bitfinex"
   ],
   "key_products": [
-    "Cryptocurrency exchange platform",
-    "Custody services for institutional clients",
-    "Staking and yield products",
-    "Crypto wallet and mobile app",
-    "API services for developers"
+    "Coinbase Pro",
+    "Coinbase Wallet",
+    "Coinbase Custody",
+    "Coinbase Prime",
+    "Coinbase Earn"
   ],
-  "extracted_at": "2026-04-10 16:49:41",
+  "extracted_at": "2026-04-13 17:05:48",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.coinbase.com/vendors/vendors-at-coinbase-code-of-conduct",
+      "url": "https://en.wikipedia.org/wiki/Coinbase",
       "query": "Coinbase Global, Inc. suppliers manufacturers",
-      "snippet": "For purposes of this Code, vendors include any third party, firm, or individual that provides a product or service to Coinbase, including: vendors , s"
+      "snippet": "Coinbase Global , Inc . is an American cryptocurrency exchange. It was founded in 2012 by Brian Armstrong and Fred Ehrsam."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://fintel.io/doc/sec-coinbase-global-inc-1679788-ex211-2024-february-15-19768-5823",
+      "url": "https://finance.yahoo.com/quote/COIN/",
       "query": "Coinbase Global, Inc. suppliers manufacturers",
-      "snippet": "Pursuant to Item 601 (b) (21) (ii) of Regulation S-K, the names of other subsidiaries of Coinbase Global , Inc . are omitted because, considered in th"
+      "snippet": "Coinbase Global , Inc . Overview Financial Data & Stock Exchanges / Financial Services. Coinbase Global , Inc . operates platform for crypto assets in"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Coinbase",
       "query": "Coinbase Global, Inc. major customers clients",
-      "snippet": "Coinbase Global , Inc . is an American cryptocurrency exchange. [4][5][6] It was founded in 2012 by Brian Armstrong and Fred Ehrsam. [1] Coinbase has "
+      "snippet": "Coinbase has over 100 million users, [7] and is the largest US based cryptocurrency exchange as well as the world's biggest bitcoin custodian. Missing"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/COIN-Customers",
+      "url": "https://www.coinbase.com/institutional/clients",
       "query": "Coinbase Global, Inc. major customers clients",
-      "snippet": "Coinbase Global Inc customers and markets, results by customer and performance relative to COIN, by company and industry - CSIMarket"
+      "snippet": "Coinbase was selected by BlackRock to provide Aladdin clients access to crypto trading and custody via Coinbase Prime. Crypto solutions for institutio"
     }
   ]
 }

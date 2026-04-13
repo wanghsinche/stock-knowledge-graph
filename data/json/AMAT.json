@@ -4,34 +4,33 @@
   "sector": "Technology",
   "industry": "Semiconductor Equipment & Materials",
   "upstream": [
-    "Silicon wafer suppliers",
-    "Chemical suppliers",
-    "META",
-    "Photolithography materials suppliers",
-    "Equipment component suppliers"
+    "Linde",
+    "Air Liquide",
+    "3M",
+    "BASF",
+    "DuPont"
   ],
   "downstream": [
     "TSM",
     "005930.KS",
     "INTC",
     "MU",
-    "LG Display"
+    "GlobalFoundries"
   ],
   "competitors": [
     "ASML",
-    "Tokyo Electron",
     "LRCX",
-    "KLA Corporation",
-    "AMAT"
+    "Tokyo Electron",
+    "KLA"
   ],
   "key_products": [
-    "Deposition equipment",
+    "Chemical Vapor Deposition (CVD) equipment",
+    "Physical Vapor Deposition (PVD) equipment",
     "Etching equipment",
-    "Metrology equipment",
-    "Inspection equipment",
-    "Semiconductor process equipment"
+    "Chemical Mechanical Planarization (CMP) equipment",
+    "Ion Implantation equipment"
   ],
-  "extracted_at": "2026-04-10 16:46:51",
+  "extracted_at": "2026-04-13 17:05:06",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,7 +46,7 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.appliedmaterials.com/",
+      "url": "https://www.appliedmaterials.com/us/en.html",
       "query": "Applied Materials, Inc. suppliers manufacturers",
       "snippet": "Applied Materials , Inc . is the leader in materials engineering solutions that are at the foundation of virtually every new semiconductor and advance"
     },
@@ -59,9 +58,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://pitchgrade.com/companies/applied-materials",
+      "url": "https://www.appliedmaterials.com/us/en.html",
       "query": "Applied Materials, Inc. major customers clients",
-      "snippet": "Customer Segments: Applied Materials , Inc . serves multiple distinct customer segments, which may include consumers, small and medium businesses, ent"
+      "snippet": "Applied Materials , Inc . is the leader in materials engineering solutions that are at the foundation of virtually every new semiconductor and advance"
     }
   ]
 }

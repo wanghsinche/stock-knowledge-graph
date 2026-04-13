@@ -3,8 +3,8 @@ ticker: PLTR
 company: Palantir Technologies Inc.
 sector: Technology
 industry: Software - Infrastructure
-extracted_at: 2026-04-10 16:40:40
-last_updated: 2026-04-10
+extracted_at: 2026-04-13 16:55:00
+last_updated: 2026-04-13
 ---
 
 # PLTR - Palantir Technologies Inc.
@@ -12,7 +12,7 @@ last_updated: 2026-04-10
 ## 基本信息
 
 - **所属行业**: Technology / Software - Infrastructure
-- **提取时间**: 2026-04-10 16:40:40
+- **提取时间**: 2026-04-13 16:55:00
 
 ## 产业链关系
 
@@ -20,38 +20,38 @@ last_updated: 2026-04-10
 - [[AMZN]]
 - [[MSFT]]
 - [[GOOGL]]
-- [[DELL]]
-- [[IBM]]
+- [[NVDA]]
+- [[INTC]]
 
 ### 下游客户
 - [[U.S. Department of Defense]]
-- [[U.S. Department of Homeland Security]]
-- [[FBI]]
-- [[CIA]]
-- [[UK Ministry of Defence]]
+- [[INTC]]
+- [[U.S. Federal Bureau of Investigation (FBI)]]
+- [[U.K. Government (MI5, MI6)]]
+- [[JPMorgan Chase (corporate analytics client)]]
 
 ### 竞争对手
 - [[Snowflake]]
 - [[Databricks]]
 - [[Splunk]]
-- [[Qlik]]
 - [[Tableau]]
+- [[MSFT]]
 
 ### 核心产品
-- [[Palantir Gotham]]
-- [[Palantir Foundry]]
-- [[Palantir Platform]]
+- [[Gotham]]
+- [[Foundry]]
 - [[Palantir Apollo]]
-- [[Palantir Data Integration]]
+- [[Palantir Data Integration Platform]]
+- [[Palantir Analytics Suite]]
 
 ## 数据来源
 
 - [Palantir](https://en.wikipedia.org/wiki/Palantir_Technologies_Inc.)
-- [Palantir Technologies Inc. suppliers manufacturers](https://csimarket.com/stocks/PLTR-Suppliers)
-- [Palantir Technologies Inc. suppliers manufacturers](https://www.palantir.com/partnership-vanguard/)
-- [Palantir Technologies Inc. major customers clients](https://en.wikipedia.org/wiki/Palantir_Technologies)
-- [Palantir Technologies Inc. major customers clients](https://enlyft.com/tech/products/palantir)
+- [Palantir Technologies Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/Palantir)
+- [Palantir Technologies Inc. suppliers manufacturers](https://finance.yahoo.com/quote/PLTR/)
+- [Palantir Technologies Inc. major customers clients](https://en.wikipedia.org/wiki/Palantir)
+- [Palantir Technologies Inc. major customers clients](https://www.marketwatch.com/investing/stock/pltr)
 
 ## 元数据
 
-- **更新日期**: 2026-04-10
+- **更新日期**: 2026-04-13

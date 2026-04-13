@@ -2,36 +2,36 @@
   "ticker": "UNH",
   "company_name": "UnitedHealth Group Incorporated",
   "sector": "Healthcare",
-  "industry": "Health Insurance",
+  "industry": "Healthcare Plans",
   "upstream": [
-    "Pharmaceutical manufacturers",
-    "Medical device manufacturers",
-    "Health IT software vendors",
-    "Pharmacy benefit managers",
-    "Healthcare data analytics firms"
+    "Pfizer",
+    "Johnson & Johnson",
+    "Medtronic",
+    "Abbott Laboratories",
+    "Cerner"
   ],
   "downstream": [
+    "U.S. federal government (Medicare)",
+    "U.S. state governments (Medicaid)",
     "Large corporate employers",
-    "Government agencies (Medicare, Medicaid)",
-    "Small and medium businesses",
-    "Individual policyholders",
-    "Health care providers (hospitals, clinics)"
+    "Small and medium enterprises",
+    "Individual consumers"
   ],
   "competitors": [
     "Kaiser Permanente",
-    "Aetna",
+    "Aetna (CVS Health)",
     "Cigna",
     "Humana",
-    "Blue Cross Blue Shield"
+    "Blue Cross Blue Shield Association"
   ],
   "key_products": [
-    "UnitedHealthcare insurance plans",
-    "Optum health services",
-    "OptumCare",
-    "OptumInsight",
-    "OptumRx pharmacy benefit management"
+    "Health insurance plans",
+    "Medicare Advantage plans",
+    "Medicaid plans",
+    "Optum health services (pharmacy benefit management, health IT, consulting)",
+    "OptumCare services (hospital and outpatient services)"
   ],
-  "extracted_at": "2026-04-09 17:05:41",
+  "extracted_at": "2026-04-13 17:00:48",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.unitedhealthgroup.com/suppliers/information.html",
+      "url": "https://en.wikipedia.org/wiki/UnitedHealth_Group",
       "query": "UnitedHealth Group Incorporated suppliers manufacturers",
-      "snippet": "Information for UnitedHealth Group suppliers , including access to our vendor portal"
+      "snippet": "UnitedHealth Group Incorporated is an American multinational for-profit company based in Eden Prairie, Minnesota specializing in health insurance and "
     },
     {
       "source": "DuckDuckGo",
       "url": "https://csimarket.com/stocks/UNH-Suppliers",
       "query": "UnitedHealth Group Incorporated suppliers manufacturers",
-      "snippet": "Oct 29, 2025 · For your research, we’ve provided nine additional tables on Unitedhealth Group Incorporated ’s suppliers . You can find them in the nav"
+      "snippet": "Unitedhealth Group Incorporated supply chain, list and performance of Unitedhealth Group Incorporateds' suppliers - CSIMarket."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.unitedhealthgroup.com/",
+      "url": "https://en.wikipedia.org/wiki/UnitedHealth_Group",
       "query": "UnitedHealth Group Incorporated major customers clients",
-      "snippet": "We are dedicated to continuously improving the quality of our performance for consumers, customers , care providers and our shareholders."
+      "snippet": "UnitedHealth Group Incorporated is an American multinational for-profit company based in Eden Prairie, Minnesota specializing in health insurance and "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.statista.com/topics/9484/unitedhealth-group/",
+      "url": "https://www.unitedhealthgroup.com/content/dam/UHG/PDF/investors/2023/ic23/UHG_IC23_UNH_Overview_GrowthPriorities.pdf",
       "query": "UnitedHealth Group Incorporated major customers clients",
-      "snippet": "Dec 17, 2025 · UnitedHealth Group can be divided into two major segments: UnitedHealthcare which is providing mostly health insurance coverage and hea"
+      "snippet": "UnitedHealthcare currently serves over 9.3 million consumers in Medicare Advantage and Dual Special Needs Plans, with more people in 4 Star and higher"
     }
   ]
 }

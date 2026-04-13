@@ -1,37 +1,37 @@
 {
   "ticker": "CRCL",
   "company_name": "Circle Internet Group, Inc.",
-  "sector": "Financial Services",
-  "industry": "Capital Markets / Payments Technology",
+  "sector": "Financial Services / Capital Markets",
+  "industry": "Payments Technology",
   "upstream": [
-    "Blockchain infrastructure providers (e.g., Ethereum, Solana)",
-    "Cloud computing services (AWS, Azure, GCP)",
-    "Payment processing networks (Visa, Mastercard, ACH)",
-    "Regulatory compliance and audit firms",
-    "CAT"
+    "US Treasury (reserve backing for USDC)",
+    "European Central Bank (reserve backing for EURC)",
+    "Bank of America (custodial services)",
+    "AMZN",
+    "MSFT"
   ],
   "downstream": [
-    "Cryptocurrency exchanges (Binance, Coinbase, Kraken)",
-    "Fintech platforms (Stripe, Square, Revolut)",
-    "Merchant payment processors",
-    "Institutional investors and asset managers",
-    "Retail consumers using Circle’s wallet app"
+    "PayPal",
+    "Stripe",
+    "Square",
+    "Coinbase",
+    "Binance"
   ],
   "competitors": [
     "Coinbase",
     "Stripe",
-    "PayPal",
     "Square",
+    "PayPal",
     "Revolut"
   ],
   "key_products": [
     "USDC stablecoin",
-    "EURC euro‑denominated stablecoin",
-    "USYC tokenized money‑market fund",
-    "Circle Pay API for merchant payments",
-    "Circle Wallet for consumer transactions"
+    "EURC stablecoin",
+    "USYC tokenized money market fund",
+    "Circle Pay",
+    "Circle API for payments"
   ],
-  "extracted_at": "2026-04-06 16:46:15",
+  "extracted_at": "2026-04-13 17:04:29",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,15 +41,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://blog.mexc.com/crcl-stock-analysis-circle-internet-group-crypto-adoption-regulation/",
+      "url": "https://investor.circle.com/news/",
       "query": "Circle Internet Group suppliers manufacturers",
-      "snippet": "Circle Internet Group (NYSE: CRCL) is the issuer of USDC, the second-largest USD-pegged stablecoin by market cap and the gold standard for institution"
+      "snippet": "Feb 25, 2026 · Circle and Polymarket Partner to Strengthen Onchain Financial Markets Circle to Announce Q4 and Full Fiscal Year 2025 Financial Results"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://bitcointreasuries.net/public-companies/circle-internet-group-inc",
+      "url": "https://www.circle.com/about-circle",
       "query": "Circle Internet Group suppliers manufacturers",
-      "snippet": "Circle Internet Group , Inc., commonly known as Circle , is a private financial technology company based in the United States. Founded in 2013 by Jere"
+      "snippet": "Circle is creating a new internet financial system — one that’s reliable and accessible around the world. A full-stack platform including Arc, USDC, a"
     },
     {
       "source": "DuckDuckGo",
