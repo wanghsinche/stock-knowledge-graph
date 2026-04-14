@@ -3,8 +3,8 @@ ticker: NVDA
 company: NVIDIA Corporation
 sector: Technology
 industry: Semiconductors
-extracted_at: 2026-04-13 16:53:54
-last_updated: 2026-04-13
+extracted_at: 2026-04-14 16:55:23
+last_updated: 2026-04-14
 ---
 
 # NVDA - NVIDIA Corporation
@@ -12,46 +12,46 @@ last_updated: 2026-04-13
 ## 基本信息
 
 - **所属行业**: Technology / Semiconductors
-- **提取时间**: 2026-04-13 16:53:54
+- **提取时间**: 2026-04-14 16:55:23
 
 ## 产业链关系
 
 ### 上游供应商
 - [[TSM]]
 - [[005930.KS]]
+- [[GlobalFoundries]]
 - [[MU]]
-- [[SK Hynix]]
-- [[ASE]]
+- [[INTC]]
 
 ### 下游客户
-- [[AMZN]]
-- [[GOOGL]]
-- [[META]]
-- [[MSFT]]
 - [[SONY]]
+- [[MSFT]]
+- [[DELL]]
+- [[Lenovo]]
+- [[TSLA]]
 
 ### 竞争对手
 - [[AMD]]
 - [[INTC]]
 - [[QCOM]]
-- [[AVGO]]
 - [[AAPL]]
+- [[ARM Holdings]]
 
 ### 核心产品
 - [[GeForce GPUs]]
 - [[Quadro GPUs]]
 - [[Tesla GPUs]]
 - [[Jetson SoCs]]
-- [[CUDA APIs]]
+- [[CUDA API]]
 
 ## 数据来源
 
 - [Nvidia](https://en.wikipedia.org/wiki/NVIDIA_Corporation)
 - [NVIDIA Corporation suppliers manufacturers](https://en.wikipedia.org/wiki/Nvidia)
-- [NVIDIA Corporation suppliers manufacturers](https://finance.yahoo.com/quote/NVDA/)
+- [NVIDIA Corporation suppliers manufacturers](https://www.theaireport.ai/partner-columns/nvidias-supply-chain--part-1)
 - [NVIDIA Corporation major customers clients](https://en.wikipedia.org/wiki/Nvidia)
-- [NVIDIA Corporation major customers clients](https://www.fool.com/investing/2024/10/30/46-nvidia-revenue-came-from-4-mystery-customers/)
+- [NVIDIA Corporation major customers clients](https://finance.yahoo.com/news/nvidias-big-tech-clientele-looks-like-a-vulnerability-but-acts-like-a-chokehold-100011734.html)
 
 ## 元数据
 
-- **更新日期**: 2026-04-13
+- **更新日期**: 2026-04-14

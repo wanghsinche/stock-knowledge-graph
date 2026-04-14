@@ -3,8 +3,8 @@ ticker: GLW
 company: Corning Incorporated
 sector: Technology
 industry: Electronic Components
-extracted_at: 2026-04-10 16:48:44
-last_updated: 2026-04-10
+extracted_at: 2026-04-14 17:05:56
+last_updated: 2026-04-14
 ---
 
 # GLW - Corning Incorporated
@@ -12,46 +12,28 @@ last_updated: 2026-04-10
 ## 基本信息
 
 - **所属行业**: Technology / Electronic Components
-- **提取时间**: 2026-04-10 16:48:44
+- **提取时间**: 2026-04-14 17:05:56
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Silica sand suppliers]]
-- [[Chemical suppliers (e.g., BASF, Dow Chemical)]]
-- [[META]]
-- [[Gas suppliers (e.g., Linde, Air Liquide)]]
-- [[Raw material distributors]]
+_暂无数据_
 
 ### 下游客户
-- [[AAPL]]
-- [[005930.KS]]
-- [[GOOGL]]
-- [[MSFT]]
-- [[SONY]]
+_暂无数据_
 
 ### 竞争对手
-- [[Schott AG]]
-- [[Saint-Gobain]]
-- [[005930.KS]]
-- [[LG Display]]
-- [[Panasonic]]
+_暂无数据_
 
 ### 核心产品
-- [[Optical fiber]]
-- [[Display glass]]
-- [[Optical lenses]]
-- [[Advanced ceramics]]
-- [[Glass substrates for displays]]
+_暂无数据_
 
 ## 数据来源
 
 - [Corning Inc.](https://en.wikipedia.org/wiki/Corning_Incorporated)
-- [Corning Incorporated suppliers manufacturers](https://en.wikipedia.org/wiki/Corning_Inc.)
-- [Corning Incorporated suppliers manufacturers](https://www.corning.com/worldwide/en.html)
-- [Corning Incorporated major customers clients](https://en.wikipedia.org/wiki/Corning_Inc.)
-- [Corning Incorporated major customers clients](https://www.linkedin.com/company/corning-incorporated)
+- [Corning Incorporated suppliers manufacturers](https://www.corning.com/optical-communications/worldwide/en/home/support/authorized-distributors.html)
+- [Corning Incorporated suppliers manufacturers](https://www.mouser.com/manufacturer/corning/)
 
 ## 元数据
 
-- **更新日期**: 2026-04-10
+- **更新日期**: 2026-04-14

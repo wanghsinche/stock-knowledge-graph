@@ -2,17 +2,17 @@
 ticker: CRWV
 company: CoreWeave, Inc.
 sector: Technology / Software - Infrastructure
-industry: AI Cloud Computing / GPU Infrastructure
-extracted_at: 2026-04-13 16:55:48
-last_updated: 2026-04-13
+industry: AI Cloud Computing
+extracted_at: 2026-04-14 16:57:42
+last_updated: 2026-04-14
 ---
 
 # CRWV - CoreWeave, Inc.
 
 ## 基本信息
 
-- **所属行业**: Technology / Software - Infrastructure / AI Cloud Computing / GPU Infrastructure
-- **提取时间**: 2026-04-13 16:55:48
+- **所属行业**: Technology / Software - Infrastructure / AI Cloud Computing
+- **提取时间**: 2026-04-14 16:57:42
 
 ## 产业链关系
 
@@ -20,38 +20,38 @@ last_updated: 2026-04-13
 - [[NVDA]]
 - [[AMD]]
 - [[INTC]]
+- [[QCOM]]
 - [[Xilinx]]
-- [[AVGO]]
 
 ### 下游客户
 - [[OpenAI]]
-- [[GOOGL]]
-- [[MSFT]]
-- [[AMZN]]
 - [[IBM]]
+- [[Mistral AI]]
+- [[MSFT]]
+- [[GOOGL]]
 
 ### 竞争对手
 - [[AMZN]]
-- [[GOOGL]]
 - [[MSFT]]
-- [[IBM]]
+- [[GOOGL]]
 - [[NVDA]]
+- [[Alibaba Cloud]]
 
 ### 核心产品
-- [[GPU Cloud Instances]]
-- [[GPU Clusters]]
-- [[GPU Management Software]]
-- [[AI Compute Services]]
-- [[Custom GPU Workloads]]
+- [[GPU‑based AI cloud infrastructure]]
+- [[GPU compute instances]]
+- [[GPU‑optimized networking]]
+- [[Chip management software]]
+- [[AI workload orchestration]]
 
 ## 数据来源
 
 - [CoreWeave](https://en.wikipedia.org/wiki/CoreWeave,_Inc.)
 - [CoreWeave, Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/CoreWeave)
-- [CoreWeave, Inc. suppliers manufacturers](https://ca.finance.yahoo.com/quote/CRWV/)
-- [CoreWeave, Inc. major customers clients](https://en.wikipedia.org/wiki/CoreWeave)
-- [CoreWeave, Inc. major customers clients](https://www.tipranks.com/news/company-announcements/coreweave-inc-q3-earnings-call-highlights-growth)
+- [CoreWeave, Inc. suppliers manufacturers](https://www.coreweave.com/)
+- [CoreWeave, Inc. major customers clients](https://www.coreweave.com/case-studies)
+- [CoreWeave, Inc. major customers clients](https://www.appsruntheworld.com/customers-database/products/view/coreweave-compute-services)
 
 ## 元数据
 
-- **更新日期**: 2026-04-13
+- **更新日期**: 2026-04-14

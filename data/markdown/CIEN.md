@@ -3,8 +3,8 @@ ticker: CIEN
 company: Ciena Corporation
 sector: Technology
 industry: Communication Equipment
-extracted_at: 2026-04-13 17:04:46
-last_updated: 2026-04-13
+extracted_at: 2026-04-14 17:06:10
+last_updated: 2026-04-14
 ---
 
 # CIEN - Ciena Corporation
@@ -12,46 +12,46 @@ last_updated: 2026-04-13
 ## 基本信息
 
 - **所属行业**: Technology / Communication Equipment
-- **提取时间**: 2026-04-13 17:04:46
+- **提取时间**: 2026-04-14 17:06:10
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Semiconductor manufacturers]]
-- [[Optical fiber suppliers]]
-- [[Component suppliers]]
-- [[Software vendors]]
-- [[Manufacturing equipment suppliers]]
+- [[Corvis Corporation]]
+- [[Corvis fiber optic components]]
+- [[Corvis fiber optic cable]]
+- [[Corvis fiber optic connectors]]
+- [[Corvis fiber optic solutions]]
 
 ### 下游客户
 - [[CAT]]
 - [[Cloud service providers]]
-- [[AI infrastructure companies]]
-- [[Government agencies]]
+- [[AI companies]]
+- [[Digital transformation companies]]
 - [[Enterprise network customers]]
 
 ### 竞争对手
 - [[CSCO]]
 - [[JNPR]]
 - [[ANET]]
-- [[Huawei Technologies]]
-- [[ZTE Corporation]]
+- [[Huawei]]
+- [[Nokia]]
 
 ### 核心产品
-- [[Optical transport systems]]
-- [[Optical networking equipment]]
-- [[Software‑defined networking solutions]]
-- [[Cloud networking solutions]]
-- [[AI acceleration platforms]]
+- [[Optical networking systems]]
+- [[Software-defined networking (SDN) solutions]]
+- [[High-speed connectivity equipment]]
+- [[Optical transport network equipment]]
+- [[Optical switching equipment]]
 
 ## 数据来源
 
 - [Ciena](https://en.wikipedia.org/wiki/Ciena_Corporation)
-- [Ciena Corporation suppliers manufacturers](https://www.ciena.com/)
-- [Ciena Corporation suppliers manufacturers](https://finance.yahoo.com/news/ciena-corp-cien-q1-2026-210435020.html)
-- [Ciena Corporation major customers clients](https://csimarket.com/stocks/CIEN-Customers)
+- [Ciena Corporation suppliers manufacturers](https://en.wikipedia.org/wiki/Ciena)
+- [Ciena Corporation suppliers manufacturers](https://www.ciena.com/partners/locator)
 - [Ciena Corporation major customers clients](https://www.ciena.com/)
+- [Ciena Corporation major customers clients](https://www.insidermonkey.com/blog/heres-why-ciena-corporation-cien-is-an-unstoppable-technology-stock-1733354/)
 
 ## 元数据
 
-- **更新日期**: 2026-04-13
+- **更新日期**: 2026-04-14

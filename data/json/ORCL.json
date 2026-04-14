@@ -8,30 +8,30 @@
     "AMD",
     "NVDA",
     "DELL",
-    "CSCO"
+    "HPQ"
   ],
   "downstream": [
-    "JPMorgan Chase",
-    "Walmart",
-    "Bank of America",
-    "AT&T",
-    "Verizon"
+    "AMZN",
+    "GOOGL",
+    "MSFT",
+    "IBM",
+    "HPQ"
   ],
   "competitors": [
     "MSFT",
-    "IBM",
     "AMZN",
-    "PostgreSQL",
-    "MySQL"
+    "IBM",
+    "SAP",
+    "CRM"
   ],
   "key_products": [
     "Oracle Database",
     "Oracle Cloud Infrastructure",
     "Oracle Autonomous Database",
-    "Oracle E-Business Suite",
-    "Oracle Fusion Cloud"
+    "Oracle ERP Cloud",
+    "Oracle Analytics Cloud"
   ],
-  "extracted_at": "2026-04-13 16:56:04",
+  "extracted_at": "2026-04-14 16:56:29",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,15 +41,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.oracle.com/corporate/suppliers/",
+      "url": "https://en.wikipedia.org/wiki/List_of_acquisitions_by_Oracle",
       "query": "Oracle Corporation suppliers manufacturers",
-      "snippet": "Oracle is always looking for suppliers who can meet our high quality standards and satisfy our ever-evolving business needs. We believe in the importa"
+      "snippet": "This is a listing of Oracle Corporation's corporate acquisitions, including acquisitions of both companies and individual products."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.oracle.com/partner/find-partner/",
+      "url": "https://en.wikipedia.org/wiki/Oracle_Corporation",
       "query": "Oracle Corporation suppliers manufacturers",
-      "snippet": "Easily locate Oracle partners with expertise in building, selling, and providing value-added services for Oracle technology. Search by partner name, c"
+      "snippet": "Oracle Corporation is an American multinational technology company headquartered in Austin, Texas. Co-founded in Santa Clara, California by Bob Miner,"
     },
     {
       "source": "DuckDuckGo",

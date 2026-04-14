@@ -1,8 +1,8 @@
 {
   "ticker": "CRM",
   "company_name": "Salesforce, Inc.",
-  "sector": "Technology",
-  "industry": "Software - Application",
+  "sector": "Technology / Software - Application",
+  "industry": "Customer Relationship Management (CRM)",
   "upstream": [
     "AMZN",
     "MSFT",
@@ -11,27 +11,30 @@
     "IBM"
   ],
   "downstream": [
-    "Coca-Cola",
-    "American Express",
+    "Coca‑Cola",
     "Toyota",
-    "ADBE",
-    "Spotify"
+    "American Express",
+    "AT&T",
+    "Walmart"
   ],
   "competitors": [
     "MSFT",
-    "SAP SuccessFactors",
+    "SAP Sales Cloud",
     "ORCL",
     "HubSpot",
-    "ADBE"
+    "Zoho CRM"
   ],
   "key_products": [
     "Sales Cloud",
     "Service Cloud",
     "Marketing Cloud",
     "Commerce Cloud",
-    "Einstein AI"
+    "Einstein AI",
+    "MuleSoft",
+    "Tableau",
+    "Slack"
   ],
-  "extracted_at": "2026-04-13 16:59:32",
+  "extracted_at": "2026-04-14 17:05:20",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,13 +46,13 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Salesforce",
       "query": "Salesforce, Inc. suppliers manufacturers",
-      "snippet": "Salesforce , Inc ., is an American cloud-based software company headquartered in San Francisco, California. It provides applications focused on sales "
+      "snippet": "Salesforce , Inc ., is an American cloud -based software company headquartered in San Francisco, California. It provides applications focused on sales"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/CRM-Suppliers",
+      "url": "https://www.salesforce.com/company/our-brands/",
       "query": "Salesforce, Inc. suppliers manufacturers",
-      "snippet": "Salesforce Inc supply chain, list and performance of Salesforce Incs ' suppliers - CSIMarket."
+      "snippet": "See our full list of Salesforce brands and find out how these companies inspire innovation to provide customer solutions."
     },
     {
       "source": "DuckDuckGo",

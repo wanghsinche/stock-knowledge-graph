@@ -6,32 +6,32 @@
   "upstream": [
     "TSM",
     "005930.KS",
+    "GlobalFoundries",
     "MU",
-    "SK Hynix",
-    "ASE"
+    "INTC"
   ],
   "downstream": [
-    "AMZN",
-    "GOOGL",
-    "META",
+    "SONY",
     "MSFT",
-    "SONY"
+    "DELL",
+    "Lenovo",
+    "TSLA"
   ],
   "competitors": [
     "AMD",
     "INTC",
     "QCOM",
-    "AVGO",
-    "AAPL"
+    "AAPL",
+    "ARM Holdings"
   ],
   "key_products": [
     "GeForce GPUs",
     "Quadro GPUs",
     "Tesla GPUs",
     "Jetson SoCs",
-    "CUDA APIs"
+    "CUDA API"
   ],
-  "extracted_at": "2026-04-13 16:53:54",
+  "extracted_at": "2026-04-14 16:55:23",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,13 +43,13 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Nvidia",
       "query": "NVIDIA Corporation suppliers manufacturers",
-      "snippet": "Nvidia Corporation . Show dark mode logo. Nvidia uses external suppliers for all phases of manufacturing , including wafer fabrication, assembly, test"
+      "snippet": "16 hours ago - In August 2025, Nvidia ordered ... due to security concerns. The company directed suppliers including Taiwan Semiconductor Manufacturin"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/NVDA/",
+      "url": "https://www.theaireport.ai/partner-columns/nvidias-supply-chain--part-1",
       "query": "NVIDIA Corporation suppliers manufacturers",
-      "snippet": "Find the latest NVIDIA Corporation (NVDA) stock quote, history, news and other vital information to help you with your stock trading and investing."
+      "snippet": "September 9, 2025 - Answering this simple question could unearth some investment opportunities that average ETF investors will miss. Here’s what you n"
     },
     {
       "source": "DuckDuckGo",
@@ -59,9 +59,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.fool.com/investing/2024/10/30/46-nvidia-revenue-came-from-4-mystery-customers/",
+      "url": "https://finance.yahoo.com/news/nvidias-big-tech-clientele-looks-like-a-vulnerability-but-acts-like-a-chokehold-100011734.html",
       "query": "NVIDIA Corporation major customers clients",
-      "snippet": "Nvidia 's other top customers could be some combination of Amazon, Alphabet, Meta Platforms, Oracle, Tesla, and OpenAI. According to public filings, h"
+      "snippet": "The next four biggest customers accounted for 46% of the unit's revenue, highlighting the symbiotic relationship between Nvidia and the major tech pla"
     }
   ]
 }

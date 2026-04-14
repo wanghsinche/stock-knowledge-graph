@@ -1,43 +1,43 @@
 {
   "ticker": "COST",
   "company_name": "Costco Wholesale Corporation",
-  "sector": "Consumer Defensive",
-  "industry": "Discount Stores",
+  "sector": "Consumer Defensive / Discount Stores",
+  "industry": "Warehouse Club Retail",
   "upstream": [
     "Tyson Foods",
     "Cargill",
-    "Hormel Foods",
-    "Kraft Heinz",
-    "General Mills"
+    "Smithfield Foods",
+    "Dole Food Company",
+    "E. & J. Gallo Winery"
   ],
   "downstream": [
-    "U.S. household consumers",
-    "Small business owners",
-    "CAT",
-    "Health‑and‑wellness retailers",
-    "Online shoppers via Costco.com"
+    "U.S. consumers",
+    "small businesses",
+    "corporate clients",
+    "institutional buyers",
+    "membership holders"
   ],
   "competitors": [
     "Walmart",
+    "Target",
     "Sam's Club",
     "BJ's Wholesale Club",
-    "Target",
     "AMZN"
   ],
   "key_products": [
-    "Bulk groceries (beef, poultry, organic produce)",
-    "Household goods and appliances",
-    "Clothing and footwear",
-    "Electronics and appliances",
-    "Wine and spirits"
+    "Beef",
+    "Poultry",
+    "Organic produce",
+    "Wine",
+    "General merchandise"
   ],
-  "extracted_at": "2026-04-10 16:51:11",
+  "extracted_at": "2026-04-14 17:05:35",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Costco_Wholesale_Corporation",
       "title": "Costco",
-      "snippet": "Costco Wholesale Corporation is an American multinational corporation that operates a chain of membership-only big-box warehouse club retail stores. As of 2021, Costco is the third-largest retailer in"
+      "snippet": "Costco Wholesale Corporation, trading as Costco, is an American multinational corporation that operates a chain of membership-only big-box warehouse club retail stores. As of 2021, Costco is the third"
     },
     {
       "source": "DuckDuckGo",
@@ -53,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://s201.q4cdn.com/287523651/files/doc_financials/2025/ar/COST-Annual-Report-2025.pdf",
+      "url": "https://en.wikipedia.org/wiki/Costco",
       "query": "Costco Wholesale Corporation major customers clients",
-      "snippet": "We have invested significantly in the development and protection of our well-recognized brands, including the Costco Wholesale trademarks and our priv"
+      "snippet": "Costco Wholesale Corporation . Logo since 1997. Costco warehouse interior in Brampton, Ontario in Canada in 2021. Costco is a membership-only warehous"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.marketingscoop.com/consumer/costco-target-market-demographics/",
+      "url": "https://www.costco.com/",
       "query": "Costco Wholesale Corporation major customers clients",
-      "snippet": "Apr 19, 2024 · But who exactly are these customers , and what makes them keep coming back to Costco? In this comprehensive article, we‘ll take a deep "
+      "snippet": "official website of Costco Wholesale Corporation ."
     }
   ]
 }

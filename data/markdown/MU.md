@@ -3,8 +3,8 @@ ticker: MU
 company: Micron Technology, Inc.
 sector: Technology
 industry: Semiconductors
-extracted_at: 2026-04-13 16:54:34
-last_updated: 2026-04-13
+extracted_at: 2026-04-14 16:55:58
+last_updated: 2026-04-14
 ---
 
 # MU - Micron Technology, Inc.
@@ -12,46 +12,46 @@ last_updated: 2026-04-13
 ## 基本信息
 
 - **所属行业**: Technology / Semiconductors
-- **提取时间**: 2026-04-13 16:54:34
+- **提取时间**: 2026-04-14 16:55:58
 
 ## 产业链关系
 
 ### 上游供应商
-- [[TSM]]
-- [[Shin‑Etsu Chemical]]
-- [[Sumitomo Chemical]]
-- [[ASE Technology]]
+- [[Silicon wafer suppliers]]
+- [[Chemical and process material providers]]
 - [[AMAT]]
+- [[Packaging and assembly suppliers]]
+- [[Metrology and inspection equipment vendors]]
 
 ### 下游客户
 - [[AAPL]]
-- [[005930.KS]]
+- [[MSFT]]
 - [[DELL]]
-- [[HPQ]]
-- [[Lenovo]]
+- [[005930.KS]]
+- [[Automotive electronics suppliers]]
 
 ### 竞争对手
 - [[005930.KS]]
 - [[SK Hynix]]
-- [[INTC]]
+- [[Kingston Technology]]
+- [[MU]]
 - [[WDC]]
-- [[Nanya Technology]]
 
 ### 核心产品
-- [[DRAM]]
-- [[NAND flash memory]]
-- [[SSDs]]
-- [[memory modules]]
-- [[mobile memory]]
+- [[Dynamic Random-Access Memory (DRAM)]]
+- [[NAND Flash memory]]
+- [[Solid-State Drives (SSDs)]]
+- [[Memory modules for PCs and servers]]
+- [[Embedded memory solutions]]
 
 ## 数据来源
 
 - [Micron Technology](https://en.wikipedia.org/wiki/Micron_Technology,_Inc.)
-- [Micron Technology, Inc. suppliers manufacturers](https://www.micron.com/sales-support/sales-network/find-a-manufacturer)
-- [Micron Technology, Inc. suppliers manufacturers](https://csimarket.com/stocks/MU-Suppliers)
+- [Micron Technology, Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/Micron_Technology)
+- [Micron Technology, Inc. suppliers manufacturers](https://www.micron.com/about/company/suppliers)
 - [Micron Technology, Inc. major customers clients](https://en.wikipedia.org/wiki/Micron_Technology)
-- [Micron Technology, Inc. major customers clients](https://finance.yahoo.com/quote/MU/)
+- [Micron Technology, Inc. major customers clients](https://www.quora.com/Who-are-the-customers-of-Micron-Technology)
 
 ## 元数据
 
-- **更新日期**: 2026-04-13
+- **更新日期**: 2026-04-14

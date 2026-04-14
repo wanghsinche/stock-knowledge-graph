@@ -6,32 +6,32 @@
   "upstream": [
     "TSM",
     "005930.KS",
-    "ASML",
-    "AMAT",
-    "LRCX"
+    "GlobalFoundries",
+    "UMC",
+    "ASML"
   ],
   "downstream": [
-    "AAPL",
-    "DELL",
     "CSCO",
+    "DELL",
     "Huawei",
-    "005930.KS"
+    "005930.KS",
+    "AAPL"
   ],
   "competitors": [
     "AVGO",
     "QCOM",
     "INTC",
-    "NVDA",
-    "MediaTek"
+    "MediaTek",
+    "TXN"
   ],
   "key_products": [
-    "Storage controllers",
     "Network processors",
-    "Wi‑Fi and Bluetooth chips",
-    "Ethernet and 10GbE switches",
-    "5G modem solutions"
+    "Storage controllers",
+    "Wi‑Fi chips",
+    "Ethernet controllers",
+    "5G modems"
   ],
-  "extracted_at": "2026-04-13 16:58:11",
+  "extracted_at": "2026-04-14 16:58:57",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,25 +43,25 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Marvell_Technology",
       "query": "Marvell Technology, Inc. suppliers manufacturers",
-      "snippet": "It is a wholly owned subsidiary of Marvell Technology , and is headquartered in Tel Aviv. The company was founded by brothers Yehuda and Zohar Zisapel"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.marvell.com/company/sales.html",
-      "query": "Marvell Technology, Inc. suppliers manufacturers",
-      "snippet": "Search below for a list of the nearest Marvell representatives, distributors and direct sales offices in your vicinity or submit our Request for Infor"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Marvell_Technology",
-      "query": "Marvell Technology, Inc. major customers clients",
       "snippet": "Marvell Technology , Inc . is an American company, headquartered in Santa Clara, California, which develops and produces semiconductors and related te"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.marvell.com/",
+      "query": "Marvell Technology, Inc. suppliers manufacturers",
+      "snippet": "Watch the latest. Marvell Essential Technology Videos. Marvell designs custom silicon tailored for any application and offers the industry’s most comp"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.marvell.com/",
       "query": "Marvell Technology, Inc. major customers clients",
       "snippet": "Designed for your current needs and future ambitions, Marvell delivers the data infrastructure technology transforming tomorrow’s enterprise, cloud, a"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.barrons.com/market-data/stocks/mrvl",
+      "query": "Marvell Technology, Inc. major customers clients",
+      "snippet": "Complete Marvell Technology Inc . stock information by Barron's. View real-time MRVL stock price and news, along with industry-best analysis. Marvell "
     }
   ]
 }

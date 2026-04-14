@@ -1,37 +1,37 @@
 {
   "ticker": "IREN",
   "company_name": "IREN Limited",
-  "sector": "Financial Services / Capital Markets",
-  "industry": "Data Center Services",
+  "sector": "Financial Services",
+  "industry": "Capital Markets",
   "upstream": [
-    "NVDA",
-    "AMD",
-    "DELL",
-    "HPQ",
-    "CSCO"
+    "Bloomberg",
+    "Refinitiv",
+    "MSFT",
+    "AMZN",
+    "Regulatory bodies"
   ],
   "downstream": [
-    "AMZN",
-    "MSFT",
-    "GOOGL",
-    "Enterprise AI customers",
-    "Cryptocurrency mining firms"
+    "Corporate clients",
+    "Institutional investors",
+    "Private equity firms",
+    "Hedge funds",
+    "Sovereign wealth funds"
   ],
   "competitors": [
-    "Equinix",
-    "Digital Realty",
-    "AMZN",
-    "MSFT",
-    "GOOGL"
+    "Goldman Sachs",
+    "JPMorgan Chase",
+    "Morgan Stanley",
+    "Barclays",
+    "Citigroup"
   ],
   "key_products": [
-    "GPU-accelerated compute services",
-    "High-performance computing clusters",
-    "Data center infrastructure",
-    "Cloud-based AI training platforms",
-    "Edge computing solutions"
+    "Investment banking advisory",
+    "Capital markets underwriting",
+    "M&A advisory",
+    "Equity research",
+    "Asset management services"
   ],
-  "extracted_at": "2026-04-13 17:03:02",
+  "extracted_at": "2026-04-14 17:01:19",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.iren.com/",
+      "url": "https://www.investing.com/equities/iris-energy",
       "query": "IREN Limited suppliers manufacturers",
-      "snippet": "Whether you need immediate access to GPUs, world-class turnkey data centers for your own hardware, or a partner to design and build your AI-ready faci"
+      "snippet": "IREN Ltd stock price live, this page displays NASDAQ IREN stock exchange data. View the IREN premarket stock price ahead of the market session or asse"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/suppliers_glance.php?code=IREN",
+      "url": "https://www.nasdaq.com/market-activity/stocks/iren",
       "query": "IREN Limited suppliers manufacturers",
-      "snippet": "Iren Limited supply chain, list and performance of Iren Limiteds ' suppliers - CSIMarket"
+      "snippet": "You can use the bid-ask spread to determine whether to place a market order or limit order when trading, helping you to optimize your price and have a"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://stockanalysis.com/stocks/iren/",
+      "url": "https://csimarket.com/stocks/IREN-Customers",
       "query": "IREN Limited major customers clients",
-      "snippet": "IREN Limited ( IREN ) is rapidly transforming from Bitcoin mining to a vertically integrated AI compute powerhouse, securing major partnerships with M"
+      "snippet": "Mar 18, 2026 · For your research, we’ve provided 9 tables on Iren Limited corporate clients . You can find them in the navigation menu under Customers"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ca.finance.yahoo.com/quote/IREN/",
+      "url": "https://finviz.com/news/262618/irens-ai-client-base-expands-is-growth-becoming-more-durable",
       "query": "IREN Limited major customers clients",
-      "snippet": "Find the latest IREN Limited ( IREN ) stock quote, history, news and other vital information to help you with your stock trading and investing."
+      "snippet": "Dec 26, 2025 · Importantly, CoreWeave noted that nine of its ten largest customers now have multiple contracts, indicating the growing expansion and d"
     }
   ]
 }

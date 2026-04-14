@@ -4,18 +4,18 @@
   "sector": "Communication Services",
   "industry": "Internet Content & Information",
   "upstream": [
-    "INTC",
-    "QCOM",
+    "TSM",
     "005930.KS",
+    "INTC",
     "NVDA",
-    "TSM"
+    "QCOM"
   ],
   "downstream": [
-    "GOOGL",
-    "Android device manufacturers",
-    "YouTube viewers",
-    "GOOGL",
-    "GOOGL"
+    "Advertisers",
+    "App developers",
+    "YouTube content creators",
+    "Enterprise cloud customers",
+    "Mobile device manufacturers"
   ],
   "competitors": [
     "MSFT",
@@ -28,10 +28,10 @@
     "Google Search",
     "YouTube",
     "Google Cloud",
-    "Android OS",
+    "Android",
     "Google Ads"
   ],
-  "extracted_at": "2026-04-13 16:58:44",
+  "extracted_at": "2026-04-14 16:58:22",
   "sources": [
     {
       "source": "Wikipedia",
@@ -53,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Alphabet_Inc.",
+      "url": "https://www.sec.gov/Archives/edgar/data/1652044/000130817925000513/goog012714-ars.pdf",
       "query": "Alphabet Inc. major customers clients",
-      "snippet": "Alphabet Inc . is an American multinational technology conglomerate holding company headquartered in Mountain View, California. It was created through"
+      "snippet": "We continue this work under the leadership of Alphabet and Google CEO, Sundar Pichai. Alphabet is a collection of businesses — the largest of which is"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/GOOG/",
+      "url": "https://csimarket.com/stocks/GOOGL-Customers",
       "query": "Alphabet Inc. major customers clients",
-      "snippet": "Find the latest Alphabet Inc . (GOOG) stock quote, history, news and other vital information to help you with your stock trading and investing."
+      "snippet": "Feb 9, 2026 · For your research, we’ve provided 9 tables on Alphabet Inc corporate clients . You can find them in the navigation menu under Customers "
     }
   ]
 }

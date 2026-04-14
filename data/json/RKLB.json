@@ -1,13 +1,37 @@
 {
   "ticker": "RKLB",
   "company_name": "Rocket Lab Corporation",
-  "sector": "Industrials",
+  "sector": "Industrials / Aerospace & Defense",
   "industry": "Aerospace & Defense",
-  "upstream": [],
-  "downstream": [],
-  "competitors": [],
-  "key_products": [],
-  "extracted_at": "2026-04-13 17:05:30",
+  "upstream": [
+    "Ball Aerospace",
+    "Thales Alenia Space",
+    "Honeywell Aerospace",
+    "SolarEdge Technologies",
+    "Raytheon Technologies"
+  ],
+  "downstream": [
+    "NASA",
+    "U.S. Department of Defense",
+    "European Space Agency",
+    "Planet Labs",
+    "Spaceflight Inc."
+  ],
+  "competitors": [
+    "SpaceX",
+    "Blue Origin",
+    "Virgin Orbit",
+    "Astra",
+    "Firefly Aerospace"
+  ],
+  "key_products": [
+    "Electron orbital rocket",
+    "HASTE suborbital testbed",
+    "Neutron medium‑lift launch vehicle",
+    "Satellite components (star trackers, reaction wheels, solar panels)",
+    "Electro‑optical and infrared (EO/IR) systems"
+  ],
+  "extracted_at": "2026-04-14 17:03:29",
   "sources": [
     {
       "source": "Wikipedia",
@@ -17,15 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://rocketlabcorp.com/",
+      "url": "https://en.wikipedia.org/wiki/Rocket_Lab",
       "query": "Rocket Lab Corporation suppliers manufacturers",
-      "snippet": "Cumulative Years In Space For Rocket Lab Satellite Technology. From Idea To Orbit. Rocket Lab is an end-to-end space company delivering reliable launc"
+      "snippet": "Rocket Lab Corporation is a publicly traded aerospace manufacturer and launch service provider. [10] Its Electron orbital rocket launches small satell"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.exporthub.com/guangzhou-rocket-laboratory-equipment/",
+      "url": "https://www.marketscreener.com/quote/stock/ROCKET-LAB-CORPORATION-126208072/company/",
       "query": "Rocket Lab Corporation suppliers manufacturers",
-      "snippet": "Supplier of Laboratory Equipment, Laboratory Instruments & Laboratory Glassware offered by Guangzhou Rocket Laboratory Equipment from Guangzhou, Guang"
+      "snippet": "Apr 6, 2026 · Rocket Lab USA, Inc. is an end-to-end space company. The Company designs and manufactures small and medium-class rockets, spacecraft and"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/RKLB-Customers",
+      "query": "Rocket Lab Corporation major customers clients",
+      "snippet": "Apr 7, 2026 · Rocket Lab customers and markets, results by customer and performance relative to RKLB, by company and industry - CSIMarket"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://businessmodelcanvastemplate.com/blogs/target-market/rocket-lab-target-market",
+      "query": "Rocket Lab Corporation major customers clients",
+      "snippet": "Mar 18, 2026 · Rocket Lab ' s primary customer segments split across Government & Defense, Commercial Satellite Operators, and Academic/Research Insti"
     }
   ]
 }

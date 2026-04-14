@@ -1,37 +1,37 @@
 {
   "ticker": "ASTS",
   "company_name": "AST SpaceMobile, Inc.",
-  "sector": "Technology / Communication Equipment",
-  "industry": "Satellite Communications",
+  "sector": "Technology",
+  "industry": "Communication Equipment",
   "upstream": [
-    "SpaceX",
+    "Thales Alenia Space",
     "Lockheed Martin",
     "Boeing",
-    "Airbus",
-    "Honeywell"
+    "SpaceX",
+    "INTC"
   ],
   "downstream": [
     "AT&T",
     "Verizon",
     "T-Mobile",
-    "Vodafone",
-    "Telefonica"
+    "GOOGL",
+    "AMZN"
   ],
   "competitors": [
     "SpaceX Starlink",
     "OneWeb",
-    "Telesat",
     "AMZN",
-    "Hughes Network Systems"
+    "Telesat LEO",
+    "Viasat"
   ],
   "key_products": [
-    "4G/5G space-based cellular broadband",
-    "Satellite constellation",
-    "Satellite terminals",
-    "Ground stations",
-    "Network infrastructure"
+    "SpaceMobile Satellite Constellation",
+    "Satellite Broadband Service",
+    "Satellite Terminal Devices",
+    "Ground Station Network",
+    "Network Management Software"
   ],
-  "extracted_at": "2026-04-13 17:06:19",
+  "extracted_at": "2026-04-14 16:59:45",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,15 +41,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/AST_SpaceMobile",
+      "url": "https://finance.yahoo.com/quote/ASTS/",
       "query": "AST SpaceMobile, Inc. suppliers manufacturers",
-      "snippet": "AST SpaceMobile , Inc . is a publicly traded satellite designer and manufacturer based in Midland, Texas, United States. The company is building the S"
+      "snippet": "Find the latest AST SpaceMobile , Inc . (ASTS) stock quote, history, news and other vital information to help you with your stock trading and investin"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ast-science.com/company/",
+      "url": "https://ast-science.com/",
       "query": "AST SpaceMobile, Inc. suppliers manufacturers",
-      "snippet": "AST SpaceMobile mission is to enable 4G and 5G space -based cellular broadband to every device, everywhere, for today’s nearly 6 billion mobile subscr"
+      "snippet": "AST SpaceMobile is working to close that gap. Our space -based technology is designed to connect the unconnected, bringing broadband access directly t"
     },
     {
       "source": "DuckDuckGo",
@@ -59,9 +59,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ast-science.com/",
+      "url": "https://markets.financialcontent.com/stocks/article/finterra-2026-4-3-the-orbital-cellular-revolution-a-deep-dive-into-ast-spacemobile-nasdaq-asts",
       "query": "AST SpaceMobile, Inc. major customers clients",
-      "snippet": "We have partnered with over 50 mobile network operators to seamlessly integrate with ground infrastructure and offer a turnkey service to their nearly"
+      "snippet": "Apr 3, 2026 · Business Model AST SpaceMobile ’s business model is a masterclass in capital-efficient scaling through a B2B2C wholesale strategy. Unlik"
     }
   ]
 }

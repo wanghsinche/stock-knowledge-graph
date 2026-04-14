@@ -2,36 +2,36 @@
   "ticker": "UNH",
   "company_name": "UnitedHealth Group Incorporated",
   "sector": "Healthcare",
-  "industry": "Healthcare Plans",
+  "industry": "Health Insurance / Healthcare Plans",
   "upstream": [
-    "Pfizer",
-    "Johnson & Johnson",
-    "Medtronic",
-    "Abbott Laboratories",
-    "Cerner"
+    "Pharmaceutical manufacturers",
+    "Medical device manufacturers",
+    "Health technology vendors",
+    "Data analytics providers",
+    "Pharmacy benefit managers"
   ],
   "downstream": [
-    "U.S. federal government (Medicare)",
-    "U.S. state governments (Medicaid)",
-    "Large corporate employers",
-    "Small and medium enterprises",
-    "Individual consumers"
+    "Employers and corporate clients",
+    "Government agencies (Medicare, Medicaid)",
+    "Individual consumers",
+    "Health plans and insurers",
+    "Healthcare providers (hospitals, clinics)"
   ],
   "competitors": [
-    "Kaiser Permanente",
-    "Aetna (CVS Health)",
+    "Anthem",
+    "Aetna",
     "Cigna",
     "Humana",
-    "Blue Cross Blue Shield Association"
+    "CVS Health"
   ],
   "key_products": [
-    "Health insurance plans",
-    "Medicare Advantage plans",
-    "Medicaid plans",
-    "Optum health services (pharmacy benefit management, health IT, consulting)",
-    "OptumCare services (hospital and outpatient services)"
+    "UnitedHealthcare insurance plans",
+    "Optum health services",
+    "OptumRx pharmacy benefit management",
+    "OptumLabs data analytics",
+    "OptumCare services"
   ],
-  "extracted_at": "2026-04-13 17:00:48",
+  "extracted_at": "2026-04-14 17:04:51",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,21 +47,21 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/UNH-Suppliers",
+      "url": "https://pitchgrade.com/companies/unitedhealth",
       "query": "UnitedHealth Group Incorporated suppliers manufacturers",
-      "snippet": "Unitedhealth Group Incorporated supply chain, list and performance of Unitedhealth Group Incorporateds' suppliers - CSIMarket."
+      "snippet": "UnitedHealth Group Incorporated is publicly traded on the NYQ under the ticker symbol UNH. As a public company, it is owned by millions of shareholder"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/UnitedHealth_Group",
+      "url": "https://www.unitedhealthgroup.com/",
       "query": "UnitedHealth Group Incorporated major customers clients",
-      "snippet": "UnitedHealth Group Incorporated is an American multinational for-profit company based in Eden Prairie, Minnesota specializing in health insurance and "
+      "snippet": "We are dedicated to continuously improving the quality of our performance for consumers, customers , care providers and our shareholders."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.unitedhealthgroup.com/content/dam/UHG/PDF/investors/2023/ic23/UHG_IC23_UNH_Overview_GrowthPriorities.pdf",
+      "url": "https://www.statista.com/topics/9484/unitedhealth-group/",
       "query": "UnitedHealth Group Incorporated major customers clients",
-      "snippet": "UnitedHealthcare currently serves over 9.3 million consumers in Medicare Advantage and Dual Special Needs Plans, with more people in 4 Star and higher"
+      "snippet": "Dec 17, 2025 · UnitedHealth Group can be divided into two major segments: UnitedHealthcare which is providing mostly health insurance coverage and hea"
     }
   ]
 }

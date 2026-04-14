@@ -4,18 +4,18 @@
   "sector": "Financial Services",
   "industry": "Banks - Diversified",
   "upstream": [
-    "Technology vendors",
+    "IT services providers",
+    "Software vendors",
     "Office equipment suppliers",
-    "Security services providers",
-    "Legal service firms",
-    "Consulting firms"
+    "Security and cybersecurity firms",
+    "Legal and compliance service providers"
   ],
   "downstream": [
-    "Corporate clients",
-    "Institutional investors",
+    "Chase Manhattan Bank",
+    "Chemical Banking Corporation",
+    "J.P. Morgan",
     "Retail banking customers",
-    "Small business owners",
-    "Affordable housing developers"
+    "Corporate and institutional clients"
   ],
   "competitors": [
     "Bank of America",
@@ -27,11 +27,11 @@
   "key_products": [
     "Retail banking services",
     "Commercial banking services",
-    "Investment banking services",
+    "Investment banking and advisory",
     "Asset management",
     "Wealth management"
   ],
-  "extracted_at": "2026-04-13 17:02:45",
+  "extracted_at": "2026-04-14 17:00:26",
   "sources": [
     {
       "source": "Wikipedia",
@@ -55,13 +55,13 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/JPMorgan_Chase",
       "query": "JPMorgan Chase & Co. major customers clients",
-      "snippet": "Today, the firm is a major provider of investment banking services, through corporate advisory, mergers and acquisitions, sales and trading, and publi"
+      "snippet": "1.1 Chase Manhattan Bank ; 1.2 Chemical Banking Corporation ; 1.3 J.P. Morgan and Company ; 1.4 Bank One Corporation ; 1.5 Bear Stearns ..."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.jpmorganchase.com/",
+      "url": "https://www.jpmorganchase.com/about",
       "query": "JPMorgan Chase & Co. major customers clients",
-      "snippet": "See how our clients —from small business owners to affordable housing developers—help uplift communities. JPMorganChase opened its new global headquar"
+      "snippet": "Our J.P. Morgan and Chase brands work to provide the highest quality service to millions of consumers, small businesses and corporate, institutional a"
     }
   ]
 }

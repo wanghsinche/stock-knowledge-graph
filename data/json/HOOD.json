@@ -4,18 +4,18 @@
   "sector": "Financial Services",
   "industry": "Capital Markets",
   "upstream": [
-    "AMZN",
-    "MSFT",
-    "Bloomberg",
-    "IEX Cloud",
-    "Plaid"
+    "Cloud service providers (AWS, Azure)",
+    "Market data vendors (Bloomberg, Refinitiv)",
+    "Payment processors (Stripe, Plaid)",
+    "Regulatory technology firms",
+    "Cybersecurity vendors"
   ],
   "downstream": [
     "Retail investors",
+    "High‑frequency traders",
     "Institutional clients",
-    "High-frequency traders",
     "Crypto traders",
-    "Financial advisors"
+    "Options traders"
   ],
   "competitors": [
     "Charles Schwab",
@@ -26,12 +26,12 @@
   ],
   "key_products": [
     "Commission‑free stock trading",
-    "Margin trading (Robinhood Gold)",
-    "Crypto trading",
-    "Cash management accounts",
-    "Options trading"
+    "Robinhood Gold subscription",
+    "Options trading",
+    "Cryptocurrency trading",
+    "Margin trading"
   ],
-  "extracted_at": "2026-04-13 17:04:08",
+  "extracted_at": "2026-04-14 16:59:34",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,15 +41,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/HOOD-Suppliers",
+      "url": "https://en.wikipedia.org/wiki/Robinhood_Markets",
       "query": "Robinhood Markets, Inc. suppliers manufacturers",
-      "snippet": "Feb 28, 2026 · For your research, we’ve provided nine additional tables on Robinhood Markets Inc ’s suppliers . You can find them in the navigation me"
+      "snippet": "Robinhood Markets , Inc . is an American financial services company based in Menlo Park, California. It provides an electronic trading platform that f"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.marketscreener.com/quote/stock/ROBINHOOD-MARKETS-INC-125228571/company-group/",
+      "url": "https://csimarket.com/stocks/HOOD-Suppliers",
       "query": "Robinhood Markets, Inc. suppliers manufacturers",
-      "snippet": "Find the group structure chart of Robinhood Markets , Inc ., with the list of companies belonging to the same group as Robinhood Markets , Inc ., as w"
+      "snippet": "Feb 28, 2026 · For your research, we’ve provided nine additional tables on Robinhood Markets Inc ’s suppliers . You can find them in the navigation me"
     },
     {
       "source": "DuckDuckGo",
@@ -59,9 +59,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.investing.com/equities/robinhood-markets",
+      "url": "https://robinhood.com/us/en/",
       "query": "Robinhood Markets, Inc. major customers clients",
-      "snippet": "Robinhood Markets , Inc . was incorporated in 2013 and is headquartered in Menlo Park, California.For 2026, Robinhood targets over 1 million Gold Card"
+      "snippet": "Trade stocks on Robinhood with commission-free investing & advanced trading tools. Access fractional shares, real-time market data, and more."
     }
   ]
 }

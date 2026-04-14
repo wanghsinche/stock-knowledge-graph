@@ -4,34 +4,34 @@
   "sector": "Technology",
   "industry": "Software - Application",
   "upstream": [
-    "AMZN",
-    "MSFT",
+    "DELL",
     "GOOGL",
     "ORCL",
-    "IBM"
+    "Consulting partners (e.g., Accenture, Deloitte)",
+    "MSFT"
   ],
   "downstream": [
-    "Walmart",
+    "Bank of America",
     "JPMorgan Chase",
+    "Walmart",
     "AT&T",
-    "Verizon",
-    "CSCO"
+    "Verizon"
   ],
   "competitors": [
-    "CRM",
-    "SAP",
     "MSFT",
     "IBM",
-    "ORCL"
+    "SAP SuccessFactors",
+    "ORCL",
+    "CRM"
   ],
   "key_products": [
-    "IT Service Management (ITSM)",
+    "Now Platform",
+    "ServiceNow IT Service Management (ITSM)",
     "IT Operations Management (ITOM)",
-    "Customer Service Management (CSM)",
-    "HR Service Delivery",
-    "Security Operations"
+    "IT Business Management (ITBM)",
+    "Customer Service Management (CSM)"
   ],
-  "extracted_at": "2026-04-13 16:59:01",
+  "extracted_at": "2026-04-14 17:03:40",
   "sources": [
     {
       "source": "Wikipedia",
@@ -53,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.servicenow.com/",
+      "url": "https://www.aventionmedia.com/technology-installed-base/servicenow/",
       "query": "ServiceNow, Inc. major customers clients",
-      "snippet": "Put AI to workfor people customers employees developers people ServiceNow unites data, AI, workflows, and security on a single platform so AI doesn't "
+      "snippet": "Businesses whose solutions and services can help Cloud- Service Customers achieve any of their business requirements can make use of our List of Compa"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.aol.com/articles/saaspocalypse-made-servicenow-stock-bargain-185000639.html",
+      "url": "https://data.landbase.com/technology/servicenow/",
       "query": "ServiceNow, Inc. major customers clients",
-      "snippet": "Customers don't need to bother with setting up AI agents when ServiceNow seamlessly delivers the technology. More importantly, the company possesses d"
+      "snippet": "Aug 17, 2025 · Our ServiceNow customers list is available for download and comes enriched with vital company specifics, including industry classificat"
     }
   ]
 }

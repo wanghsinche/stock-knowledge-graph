@@ -4,34 +4,34 @@
   "sector": "Healthcare",
   "industry": "Drug Manufacturers - General",
   "upstream": [
-    "Lonza Group",
-    "CAT",
     "Thermo Fisher Scientific",
-    "Boehringer Ingelheim",
-    "Sandoz"
+    "Merck & Co.",
+    "Becton Dickinson",
+    "Sartorius",
+    "Lonza"
   ],
   "downstream": [
     "Hospitals",
     "Pharmacies",
-    "Health insurance providers",
+    "Retail chains (CVS, Walgreens)",
     "Government health agencies",
-    "Retail drug stores"
+    "Consumers"
   ],
   "competitors": [
     "Pfizer",
     "Merck & Co.",
     "AbbVie",
-    "Bristol Myers Squibb",
-    "Amgen"
+    "Amgen",
+    "Bristol-Myers Squibb"
   ],
   "key_products": [
-    "Tylenol (acetaminophen)",
-    "Band-Aid",
-    "Neutrogena skin care",
     "Remicade",
-    "Stelara"
+    "Stelara",
+    "Band-Aid",
+    "Tylenol",
+    "Janssen COVID-19 vaccine"
   ],
-  "extracted_at": "2026-04-08 17:02:56",
+  "extracted_at": "2026-04-14 17:03:13",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.jnj.com/suppliers",
+      "url": "https://en.wikipedia.org/wiki/Johnson_&_Johnson",
       "query": "Johnson & Johnson suppliers manufacturers",
-      "snippet": "Nov 13, 2023 · Suppliers Just as we believe that good health is the foundation of vibrant lives, thriving communities and forward progress, at Johnson"
+      "snippet": "Johnson & Johnson expanded globally through acquisitions of major pharmaceutical and medical device companies such as Janssen, Ethicon, McNeil, and Ac"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.thomasnet.com/insights/johnson-and-johnson-brands/",
+      "url": "https://www.jnj.com/suppliers/supplier-quality",
       "query": "Johnson & Johnson suppliers manufacturers",
-      "snippet": "Mar 8, 2024 · Johnson & Johnson (J&J) was founded in New Brunswick, N.J. in 1886 by James Wood Johnson and his brothers, Edward and Robert. The compan"
+      "snippet": "Oct 24, 2023 · Through our Supplier Quality Academy, we provide training to suppliers and supplier-facing Johnson & Johnson employees to build and str"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.youtube.com/watch?v=jTMwnwtt0xo",
+      "query": "Johnson & Johnson major customers clients",
+      "snippet": "Johnson & Johnson is a brand we all know but I don't think many of us realize the extent of it. They've made a significant impact on the medical indus"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.jnj.com/",
       "query": "Johnson & Johnson major customers clients",
-      "snippet": "Johnson & Johnson MedTech innovates at the intersection of biology and technology.Learn more about how the company is working to create new therapies "
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.reuters.com/investigates/special-report/johnsonandjohnson-cancer/",
-      "query": "Johnson & Johnson major customers clients",
-      "snippet": "Johnson & Johnson that added carcinogenic asbestos."
+      "snippet": "Johnson & Johnson MedTech innovates at the intersection of biology and technology. Johnson & Johnson is focused on developing novel therapies for chro"
     }
   ]
 }

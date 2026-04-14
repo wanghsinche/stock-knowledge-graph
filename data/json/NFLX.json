@@ -4,18 +4,18 @@
   "sector": "Communication Services",
   "industry": "Entertainment",
   "upstream": [
-    "Hollywood Studios",
-    "Albuquerque Studios",
-    "Production Companies",
-    "Film Studios",
-    "Content Producers"
+    "AMZN",
+    "Visual Data (UK)",
+    "20th Century Fox",
+    "SONY",
+    "MGM"
   ],
   "downstream": [
-    "Individual Subscribers",
-    "Corporate Accounts",
-    "International Streaming Platforms",
-    "Mobile Users",
-    "Smart TV Users"
+    "US households",
+    "International subscribers",
+    "Mobile users",
+    "Smart TV users",
+    "Streaming device users"
   ],
   "competitors": [
     "Disney+",
@@ -25,13 +25,13 @@
     "AAPL"
   ],
   "key_products": [
-    "Streaming Video Service",
-    "Original Series",
-    "Original Movies",
-    "Licensed Content",
-    "Mobile App"
+    "Netflix streaming service",
+    "Netflix Originals",
+    "Subscription plans",
+    "Mobile app",
+    "Smart TV app"
   ],
-  "extracted_at": "2026-04-13 16:59:44",
+  "extracted_at": "2026-04-14 17:00:12",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.stock-analysis-on.net/NASDAQ/Company/Netflix-Inc",
+      "url": "https://npfp.netflixstudios.com/region/global/",
       "query": "Netflix, Inc. suppliers manufacturers",
-      "snippet": "Netflix Inc . (NASDAQ:NFLX). The Company Profile. Financial Statements.Examines Netflix Inc . capital structure in terms of the mix of its financing s"
+      "snippet": "Visual Data (UK) became a Netflix Preferred Vendor in 2013 and its technical, professional and service standards are among the highest in the industry"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.case48.com/porter-analysis/5226-Netflix-Inc",
+      "url": "https://csimarket.com/stocks/NFLX-Suppliers",
       "query": "Netflix, Inc. suppliers manufacturers",
-      "snippet": "Netflix Inc is highly price sensitive and has adequate market knowledge. There is no threat of forward integration by suppliers . How Netflix Inc can "
+      "snippet": "Jan 25, 2026 · Netflix Inc supply chain, list and performance of Netflix Incs ' suppliers - CSIMarket"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.inc.com/jason-aten/netflix-just-revealed-its-doing-the-1-thing-customers-were-most-afraid-of/91110628",
+      "url": "https://en.wikipedia.org/wiki/Netflix",
       "query": "Netflix, Inc. major customers clients",
-      "snippet": "Look, that’s basically Netflix ’s most reliable strategy. It’s right up there with dumping an entire season of episodes at a time to encourage custome"
+      "snippet": "2 days ago - Hollywood studios (including 20th Century Fox, Sony Pictures, MGM, Paramount Pictures, Universal Pictures, Warner Bros., New Line Cinema,"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.bloomberg.com/news/articles/2019-07-17/netflix-plunges-as-price-increase-leads-to-u-s-customer-losses",
+      "url": "https://en.wikipedia.org/wiki/Netflix,_Inc.",
       "query": "Netflix, Inc. major customers clients",
-      "snippet": "Netflix Inc . shocked investors by reporting a drop in U.S. customers and much slower growth overseas, raising fears that the streaming giant is losin"
+      "snippet": "2 days ago - In January 2016, at the Consumer ... a major international expansion of its service into 130 additional countries. It then had become ava"
     }
   ]
 }

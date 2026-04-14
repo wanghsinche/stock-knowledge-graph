@@ -4,34 +4,34 @@
   "sector": "Technology",
   "industry": "Software - Application",
   "upstream": [
+    "DELL",
     "MSFT",
-    "AMZN",
-    "GOOGL",
+    "Data storage vendors (e.g., NetApp, EMC)",
     "ORCL",
-    "IBM"
+    "CSCO"
   ],
   "downstream": [
-    "Bank of America",
-    "Walmart",
-    "Coca‑Cola",
-    "General Electric",
-    "Procter & Gamble"
+    "Financial services firms (e.g., JPMorgan Chase, Goldman Sachs)",
+    "Government agencies (e.g., U.S. Department of Defense, NASA)",
+    "Retail corporations (e.g., Walmart, Target)",
+    "Healthcare organizations (e.g., Mayo Clinic, Kaiser Permanente)",
+    "Manufacturing enterprises (e.g., General Electric, Siemens)"
   ],
   "competitors": [
     "Tableau Software",
     "MSFT",
-    "Qlik",
-    "Looker",
+    "Qlik Technologies",
+    "GOOGL",
     "SAP BusinessObjects"
   ],
   "key_products": [
-    "MicroStrategy Desktop",
-    "MicroStrategy Cloud",
-    "MicroStrategy Analytics",
+    "MicroStrategy Analytics Platform",
     "MicroStrategy Mobile",
-    "MicroStrategy Data Warehouse"
+    "MicroStrategy Cloud",
+    "MicroStrategy Data Warehouse",
+    "MicroStrategy Analytics for SAP"
   ],
-  "extracted_at": "2026-04-13 17:01:28",
+  "extracted_at": "2026-04-14 17:00:39",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,21 +47,21 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.nasdaq.com/market-activity/stocks/mstr",
+      "url": "https://ru.tradingview.com/symbols/NASDAQ-MSTR/",
       "query": "Strategy Inc suppliers manufacturers",
-      "snippet": "Discover real-time Strategy Inc Common Stock Class A (MSTR) stock prices, quotes, historical data, news, and Insights for informed trading and investm"
+      "snippet": "Следите за графиком Strategy Inc , чтобы быть в курсе цены акций. Вы также найдёте прогнозы, отчётность MSTR и новости рынка."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/MicroStrategy",
+      "url": "https://www.strategy.com/software/news/strategy-recognized-as-a-customers-choice-on-gartner-peer-insights-through-user-feedback-for-fourth-consecutive-year",
       "query": "Strategy Inc major customers clients",
-      "snippet": "Strategy Inc ., formerly known as MicroStrategy, is an American company that provides business intelligence and mobile software. Founded in 1989 by Mi"
+      "snippet": "Dec 11, 2025 · Discover why Strategy Inc . is the only Analytics & Business Intelligence Platforms vendor to be named a Customers ' Choice in the 2025"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/MSTR/",
+      "url": "https://csimarket.com/stocks/STRF-Customers",
       "query": "Strategy Inc major customers clients",
-      "snippet": "Find the latest Strategy Inc (MSTR) stock quote, history, news and other vital information to help you with your stock trading and investing."
+      "snippet": "Jan 30, 2026 · Strategy Inc customers and markets, results by customer and performance relative to STRF, by company and industry - CSIMarket"
     }
   ]
 }

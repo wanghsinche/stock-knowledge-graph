@@ -1,37 +1,37 @@
 {
   "ticker": "CRCL",
-  "company_name": "Circle Internet Group, Inc.",
+  "company_name": "Circle Internet Group",
   "sector": "Financial Services / Capital Markets",
   "industry": "Payments Technology",
   "upstream": [
-    "US Treasury (reserve backing for USDC)",
-    "European Central Bank (reserve backing for EURC)",
-    "Bank of America (custodial services)",
     "AMZN",
-    "MSFT"
+    "MSFT",
+    "GOOGL",
+    "Ethereum",
+    "Solana"
   ],
   "downstream": [
-    "PayPal",
-    "Stripe",
-    "Square",
     "Coinbase",
-    "Binance"
+    "Binance",
+    "Kraken",
+    "Gemini",
+    "PayPal"
   ],
   "competitors": [
     "Coinbase",
+    "PayPal",
     "Stripe",
     "Square",
-    "PayPal",
     "Revolut"
   ],
   "key_products": [
     "USDC stablecoin",
     "EURC stablecoin",
     "USYC tokenized money market fund",
-    "Circle Pay",
-    "Circle API for payments"
+    "Crypto custody services",
+    "Payment processing solutions"
   ],
-  "extracted_at": "2026-04-13 17:04:29",
+  "extracted_at": "2026-04-14 17:01:31",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://investor.circle.com/news/",
+      "url": "https://investor.circle.com/overview/default.aspx",
       "query": "Circle Internet Group suppliers manufacturers",
-      "snippet": "Feb 25, 2026 · Circle and Polymarket Partner to Strengthen Onchain Financial Markets Circle to Announce Q4 and Full Fiscal Year 2025 Financial Results"
+      "snippet": "Mar 6, 2026 · Circle is building the world’s largest, most-widely used, stablecoin network, and issues, through its regulated affiliates, USDC and EUR"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.circle.com/about-circle",
+      "url": "https://finance.yahoo.com/quote/CRCL/profile/?fr=sycsrp_catchall",
       "query": "Circle Internet Group suppliers manufacturers",
-      "snippet": "Circle is creating a new internet financial system — one that’s reliable and accessible around the world. A full-stack platform including Arc, USDC, a"
+      "snippet": "See the company profile for Circle Internet Group (CRCL) including business summary, industry/sector information, number of employees, business summar"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Circle_Internet_Group",
+      "url": "https://www.circle.com/",
       "query": "Circle Internet Group major customers clients",
-      "snippet": "Circle (legally Circle Internet Group , Inc.[2]) is a payments technology company. Founded by Jeremy Allaire and Sean Neville in 2013, [3][4] it is cu"
+      "snippet": "Circle is building the foundation for an open, internet -native economy. Trusted by leading financial institutions since 2013, our full-stack platform"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.appsruntheworld.com/customers-database/vendors/view/circle-internet-group",
+      "url": "https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pYNGN6c0VCRWFzaGxrQk5PVG1DZ0FQAQ?hl=en-KE&gl=KE&ceid=KE:en",
       "query": "Circle Internet Group major customers clients",
-      "snippet": "List of companies using or evaluating Circle Internet Group applications, with details on their revenues, employees, industries, and locations."
+      "snippet": "Circle Internet Group (CRCL) director exercises options and sells 3,819 shares."
     }
   ]
 }

@@ -3,8 +3,8 @@ ticker: CRDO
 company: Credo Technology Group Holding Ltd
 sector: Technology
 industry: Semiconductors
-extracted_at: 2026-04-13 17:03:54
-last_updated: 2026-04-13
+extracted_at: 2026-04-14 16:59:58
+last_updated: 2026-04-14
 ---
 
 # CRDO - Credo Technology Group Holding Ltd
@@ -12,46 +12,46 @@ last_updated: 2026-04-13
 ## 基本信息
 
 - **所属行业**: Technology / Semiconductors
-- **提取时间**: 2026-04-13 17:03:54
+- **提取时间**: 2026-04-14 16:59:58
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Silicon wafer suppliers]]
-- [[Lithography equipment manufacturers]]
-- [[Semiconductor packaging material suppliers]]
-- [[CAT]]
-- [[Equipment manufacturers for semiconductor manufacturing]]
+- [[ASML]]
+- [[AMAT]]
+- [[LRCX]]
+- [[Tokyo Electron]]
+- [[KLA]]
 
 ### 下游客户
-- [[LED lighting manufacturers]]
-- [[Automotive electronics manufacturers]]
-- [[Consumer electronics manufacturers]]
-- [[Industrial equipment manufacturers]]
-- [[Power management solution integrators]]
+- [[AMZN]]
+- [[GOOGL]]
+- [[MSFT]]
+- [[Alibaba Cloud]]
+- [[Tencent Cloud]]
 
 ### 竞争对手
-- [[TXN]]
-- [[ADI]]
-- [[Infineon Technologies]]
-- [[ON Semiconductor]]
-- [[STMicroelectronics]]
+- [[TSM]]
+- [[005930.KS]]
+- [[MU]]
+- [[SK Hynix]]
+- [[INTC]]
 
 ### 核心产品
-- [[Power management ICs]]
-- [[LED drivers]]
-- [[DC‑DC converters]]
-- [[Analog ICs]]
-- [[Power management solutions]]
+- [[AI inference ASICs]]
+- [[Memory chips]]
+- [[Logic chips]]
+- [[Custom ASICs]]
+- [[Embedded processors]]
 
 ## 数据来源
 
 - 
-- [Credo Technology Group Holding Ltd suppliers manufacturers](https://csimarket.com/stocks/suppliers_glance.php?code=CRDO)
-- [Credo Technology Group Holding Ltd suppliers manufacturers](https://seekingalpha.com/symbol/CRDO)
+- [Credo Technology Group Holding Ltd suppliers manufacturers](https://csimarket.com/stocks/fundamentals_glance.php?code=CRDO)
+- [Credo Technology Group Holding Ltd suppliers manufacturers](https://finance.yahoo.com/quote/CRDO/)
+- [Credo Technology Group Holding Ltd major customers clients](https://xueqiu.com/7367587733/350203491)
 - [Credo Technology Group Holding Ltd major customers clients](https://csimarket.com/stocks/CRDO-Customers)
-- [Credo Technology Group Holding Ltd major customers clients](https://pitchgrade.com/companies/credo-technology-group-holding-ltd)
 
 ## 元数据
 
-- **更新日期**: 2026-04-13
+- **更新日期**: 2026-04-14

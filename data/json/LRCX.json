@@ -3,11 +3,35 @@
   "company_name": "Lam Research Corporation",
   "sector": "Technology",
   "industry": "Semiconductor Equipment & Materials",
-  "upstream": [],
-  "downstream": [],
-  "competitors": [],
-  "key_products": [],
-  "extracted_at": "2026-04-13 17:02:35",
+  "upstream": [
+    "AMAT",
+    "Tokyo Electron",
+    "ASML",
+    "KLA Corporation",
+    "Advantest"
+  ],
+  "downstream": [
+    "INTC",
+    "005930.KS",
+    "TSM",
+    "MU",
+    "QCOM"
+  ],
+  "competitors": [
+    "AMAT",
+    "Tokyo Electron",
+    "ASML",
+    "KLA Corporation",
+    "Advantest"
+  ],
+  "key_products": [
+    "Etch equipment",
+    "Deposition equipment",
+    "Ion implantation equipment",
+    "Wafer‑level packaging equipment",
+    "MEMS fabrication equipment"
+  ],
+  "extracted_at": "2026-04-14 17:03:52",
   "sources": [
     {
       "source": "Wikipedia",
@@ -17,15 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://investor.lamresearch.com/2025-01-29-Breakthrough-EUV-Dry-Photoresist-Technology-from-Lam-Research-Adopted-by-Leading-Memory-Manufacturer",
+      "url": "https://en.wikipedia.org/wiki/Lam_Research",
       "query": "Lam Research Corporation suppliers manufacturers",
-      "snippet": "About Lam Research Lam Research Corporation is a global supplier of innovative wafer fabrication equipment and services to the semiconductor industry."
+      "snippet": "Lam Research was founded in 1980 by David K. Lam and is headquartered in Fremont, California. [3] As of 2023, it was the third largest manufacturer in"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://theorg.com/org/lam-research",
+      "url": "https://www.lamresearch.com/",
       "query": "Lam Research Corporation suppliers manufacturers",
-      "snippet": "Lam Research Corporation ( Lam Research ) is a supplier of wafer fabrication equipment and services to the worldwide semiconductor industry."
+      "snippet": "Everyone at Lam is a deep listener, in tune with what customers, suppliers , and key stakeholders in the entire ecosystem expect. And in turn, we’ve c"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/lam-research-reshapes-leadership-q2-211155891.html",
+      "query": "Lam Research Corporation major customers clients",
+      "snippet": "Lam Research reported fiscal Q2 2026 results that exceeded prior expectations, alongside continued demand for its AI related chip equipment. The compa"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.investing.com/news/company-news/lam-research-stock-reaches-alltime-high-at-25678-93CH-4606324",
+      "query": "Lam Research Corporation major customers clients",
+      "snippet": "Lam Research Corp (LRCX) stock has reached an all-time high, hitting $256.78, trading within 1% of its 52-week high. This milestone underscores a rema"
     }
   ]
 }

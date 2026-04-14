@@ -4,34 +4,34 @@
   "sector": "Consumer Cyclical",
   "industry": "Internet Retail",
   "upstream": [
-    "Triplenet Pricing INC",
-    "SpaceBound",
-    "Manufacturing Practices",
-    "Organic Content",
-    "Other third‑party manufacturers"
+    "005930.KS",
+    "AAPL",
+    "SONY",
+    "Nike",
+    "Adidas"
   ],
   "downstream": [
-    "AMZN",
-    "AMZN",
-    "Small and medium‑size business customers",
-    "AMZN",
-    "Retail partners and resellers"
+    "Consumers (individual shoppers)",
+    "Small and medium businesses",
+    "Enterprise customers (AWS)",
+    "Prime members",
+    "AMZN"
   ],
   "competitors": [
     "Walmart",
     "eBay",
-    "Alibaba Group",
-    "Shopify",
-    "Target"
+    "Alibaba",
+    "Target",
+    "Shopify"
   ],
   "key_products": [
     "Amazon.com e‑commerce platform",
-    "Amazon Prime subscription service",
     "Amazon Web Services (cloud computing)",
-    "Amazon Kindle e‑readers",
-    "Amazon Echo (Alexa) smart devices"
+    "Amazon Prime Video (digital streaming)",
+    "Amazon Kindle (e‑books)",
+    "Amazon Echo (Alexa smart speaker)"
   ],
-  "extracted_at": "2026-04-13 16:55:15",
+  "extracted_at": "2026-04-14 16:56:08",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.amazon.com/electronics-store/b?ie=UTF8&node=172282",
+      "url": "https://suppliercentral.amazon.com/",
       "query": "Amazon.com, Inc. suppliers manufacturers",
-      "snippet": "Triplenet Pricing INC . SpaceBound. Manufacturing Practices. Organic Content. Packaging Efficiency."
+      "snippet": "Amazon is committed to helping our suppliers be more effective in making amazing products. Please contact your Amazon partner for an invitation. Impro"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.alibaba.com/",
+      "url": "https://csimarket.com/stocks/suppliers_glance.php?code=AMZN",
       "query": "Amazon.com, Inc. suppliers manufacturers",
-      "snippet": "Find quality Manufacturers , Suppliers , Exporters, Importers, Buyers, Wholesalers, Products and Trade Leads from our award-winning International Trad"
+      "snippet": "Amazon Com Inc supply chain, list and performance of Amazon Com Incs' suppliers - CSIMarket"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://capitaloneshopping.com/research/amazon-statistics/",
+      "query": "Amazon.com, Inc. major customers clients",
+      "snippet": "Mar 29, 2026 · Over 310 million global consumers shop on Amazon at least once a year. 2 million active selling partners have shops on Amazon. Independ"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.historytools.org/consumer/amazon-target-market",
       "query": "Amazon.com, Inc. major customers clients",
       "snippet": "Aug 24, 2024 · Even though Amazon is a huge company, you may be curious about the specific market the leading retailer targets. Here's Amazon target m"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://capitaloneshopping.com/research/amazon-statistics/",
-      "query": "Amazon.com, Inc. major customers clients",
-      "snippet": "Amazon net sales include product sales as well as sales dollars from other consumer and business services. 1. Amazon . com , Inc . netted $574.785 bil"
     }
   ]
 }
