@@ -1,37 +1,36 @@
 {
   "ticker": "WFC",
   "company_name": "Wells Fargo & Company",
-  "sector": "Financial Services",
-  "industry": "Banks - Diversified",
+  "sector": "Financial Services / Banks - Diversified",
+  "industry": "Banking",
   "upstream": [
     "MSFT",
-    "Data analytics providers (e.g., Bloomberg, FactSet)",
-    "Payment network operators (e.g., Visa, Mastercard)",
-    "Cybersecurity firms (e.g., Palo Alto Networks, Symantec)",
-    "Regulatory compliance consultants"
+    "GOOGL",
+    "Payment processors (e.g., Visa, Mastercard)",
+    "Data analytics providers (e.g., Palantir)",
+    "Cybersecurity firms (e.g., Palo Alto Networks)"
   ],
   "downstream": [
-    "Retail banking customers (individuals)",
-    "Small and medium‑size business clients",
-    "Corporate and institutional clients",
-    "Mortgage borrowers",
-    "Investment and wealth‑management clients"
+    "Retail banking customers",
+    "Small and Medium Enterprises",
+    "Large corporations",
+    "High net worth individuals",
+    "Government agencies"
   ],
   "competitors": [
-    "JPMorgan Chase & Co.",
-    "Bank of America Corp.",
-    "Citigroup Inc.",
-    "Goldman Sachs Group Inc.",
-    "Morgan Stanley"
+    "JPMorgan Chase",
+    "Bank of America",
+    "Citigroup",
+    "Goldman Sachs"
   ],
   "key_products": [
-    "Retail checking and savings accounts",
-    "Mortgage and home equity loans",
+    "Checking accounts",
+    "Savings accounts",
+    "Mortgages",
     "Credit cards",
-    "Personal and business loans",
-    "Wealth management and investment services"
+    "Investment services"
   ],
-  "extracted_at": "2026-04-14 17:00:51",
+  "extracted_at": "2026-04-15 17:02:39",
   "sources": [
     {
       "source": "Wikipedia",
@@ -53,15 +52,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.youtube.com/channel/UCGcBOP3IhbgHOPBcUFUZRdQ",
+      "url": "https://en.wikipedia.org/wiki/Wells_Fargo",
       "query": "Wells Fargo & Company major customers clients",
-      "snippet": "Wells Fargo . @ wellsfargo .Marcello and the Wells Fargo Party Patrol are celebrating your every financial win! These Wells Fargo commercials with Mar"
+      "snippet": "Wells Fargo & Company is an American multinational financial services company . [5][8] The company operates in 35 countries and serves more than 70 mi"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.boardinfinity.com/blog/company-wellsfargo/",
+      "url": "https://portersfiveforce.com/blogs/target-market/wellsfargo",
       "query": "Wells Fargo & Company major customers clients",
-      "snippet": "Wells Fargo & Company is a leading American multinational financial services corporation, offering a comprehensive range of products and services to m"
+      "snippet": "Jan 22, 2026 · Understand the target market for Wells Fargo 's banking services. Explore how the company serves individuals, small businesses, and lar"
     }
   ]
 }

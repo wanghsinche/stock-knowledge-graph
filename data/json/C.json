@@ -5,17 +5,17 @@
   "industry": "Banks - Diversified",
   "upstream": [
     "MSFT",
+    "Data providers (e.g., Bloomberg, Refinitiv)",
     "Payment processors (e.g., Visa, Mastercard)",
-    "Data analytics providers",
-    "Cybersecurity firms",
-    "Cloud infrastructure providers"
+    "MSFT",
+    "Cybersecurity firms (e.g., Palo Alto Networks, Symantec)"
   ],
   "downstream": [
-    "Retail banking customers",
-    "Corporate banking clients",
-    "Institutional investors",
-    "Private wealth management clients",
-    "Credit card holders"
+    "Institutional clients (corporate, government, pension funds)",
+    "Retail banking customers (individuals and households)",
+    "Wealth management clients (high‑net‑worth individuals)",
+    "Small and medium‑enterprise (SME) borrowers",
+    "Corporate treasury and cash‑management clients"
   ],
   "competitors": [
     "JPMorgan Chase & Co.",
@@ -25,13 +25,13 @@
     "Morgan Stanley"
   ],
   "key_products": [
-    "Retail banking services",
-    "Commercial banking",
-    "Investment banking",
-    "Credit card products",
-    "Treasury and cash management"
+    "Investment banking and advisory services",
+    "Retail banking (checking, savings, mortgages)",
+    "Credit card issuance and payment processing",
+    "Wealth management and private banking",
+    "Securities brokerage and asset management"
   ],
-  "extracted_at": "2026-04-14 17:02:11",
+  "extracted_at": "2026-04-15 17:02:27",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/C-Suppliers",
+      "url": "https://en.wikipedia.org/wiki/Citigroup",
       "query": "Citigroup Inc. suppliers manufacturers",
-      "snippet": "Feb 22, 2026 · For your research, we’ve provided nine additional tables on Citigroup inc ’ s suppliers . You can find them in the navigation menu unde"
+      "snippet": "Citigroup Inc . or Citi is an American multinational investment bank and financial services company based in New York City. The company was formed in "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.citigroup.com/global/suppliers/supplier-engagement-program",
+      "url": "https://csimarket.com/stocks/C-Business-Description.html",
       "query": "Citigroup Inc. suppliers manufacturers",
-      "snippet": "We raise awareness of our Procurement and Third-Party Management initiatives by identifying suppliers that bring innovative solutions that support our"
+      "snippet": "Citigroup Inc ' explanation of operations and nature of the Business - CSIMarket."
     },
     {
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Citigroup",
       "query": "Citigroup Inc. major customers clients",
-      "snippet": "Citigroup Inc . or Citi is an American multinational investment bank and financial services company based in New York City. The company was formed in "
+      "snippet": "Citigroup operates with two major divisions: Institutional Clients Group (ICG), which offers investment banking and corporate banking services, as wel"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.ft.com/content/c3bab916-c0f1-4786-9f3c-2335641fcb61",
+      "url": "https://www.citigroup.com/rcs/citigpa/storage/public/citi-2024-annual-report.pdf",
       "query": "Citigroup Inc. major customers clients",
-      "snippet": "Citi generated just over $3bn in revenue from commercial banking clients last year — a small portion of its total revenue of nearly $80bn — but said i"
+      "snippet": "The natural linkages between our businesses have always been a strength, and today we are maximizing those connections. All parts of the firm are work"
     }
   ]
 }

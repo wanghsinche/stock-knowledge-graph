@@ -11,27 +11,27 @@
     "ASML"
   ],
   "downstream": [
+    "AAPL",
     "CSCO",
-    "DELL",
     "Huawei",
-    "005930.KS",
-    "AAPL"
+    "DELL",
+    "Lenovo"
   ],
   "competitors": [
     "AVGO",
     "QCOM",
     "INTC",
     "MediaTek",
-    "TXN"
+    "NVDA"
   ],
   "key_products": [
-    "Network processors",
-    "Storage controllers",
-    "Wi‑Fi chips",
-    "Ethernet controllers",
-    "5G modems"
+    "5G modems and SoCs",
+    "Wi‑Fi 6/7 and Bluetooth combo chips",
+    "Ethernet PHYs and controllers (10G/25G/40G)",
+    "NVMe and SATA storage controllers",
+    "Data‑center networking ASICs"
   ],
-  "extracted_at": "2026-04-14 16:58:57",
+  "extracted_at": "2026-04-15 16:58:29",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,21 +47,21 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.marvell.com/",
+      "url": "https://csimarket.com/stocks/MRVL-Suppliers",
       "query": "Marvell Technology, Inc. suppliers manufacturers",
-      "snippet": "Watch the latest. Marvell Essential Technology Videos. Marvell designs custom silicon tailored for any application and offers the industry’s most comp"
+      "snippet": "Mar 12, 2026 · Marvell Technology Inc 's Suppliers recorded an increase in sales by 23.23 % year on year in Q4 2025, sequentially sales grew by 72.25 "
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/Marvell_Technology",
+      "query": "Marvell Technology, Inc. major customers clients",
+      "snippet": "Marvell Technology , Inc . is an American company, headquartered in Santa Clara, California, which develops and produces semiconductors and related te"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.marvell.com/",
       "query": "Marvell Technology, Inc. major customers clients",
       "snippet": "Designed for your current needs and future ambitions, Marvell delivers the data infrastructure technology transforming tomorrow’s enterprise, cloud, a"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.barrons.com/market-data/stocks/mrvl",
-      "query": "Marvell Technology, Inc. major customers clients",
-      "snippet": "Complete Marvell Technology Inc . stock information by Barron's. View real-time MRVL stock price and news, along with industry-best analysis. Marvell "
     }
   ]
 }

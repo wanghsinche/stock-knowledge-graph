@@ -1,37 +1,37 @@
 {
   "ticker": "SNDK",
-  "company_name": "Sandisk Corporation",
-  "sector": "Technology / Computer Hardware",
-  "industry": "Semiconductors",
+  "company_name": "SanDisk Corporation",
+  "sector": "Technology",
+  "industry": "Computer Hardware",
   "upstream": [
-    "MU",
-    "Nanya Technology",
     "005930.KS",
+    "MU",
     "SK Hynix",
+    "Toshiba Memory",
     "WDC"
   ],
   "downstream": [
     "AAPL",
-    "MSFT",
+    "005930.KS",
     "DELL",
-    "HPQ",
-    "AMZN"
+    "SONY",
+    "MSFT"
   ],
   "competitors": [
     "005930.KS",
     "MU",
-    "WDC",
     "Kingston Technology",
-    "Crucial"
+    "WDC",
+    "Toshiba Memory"
   ],
   "key_products": [
-    "Memory cards",
+    "SD memory cards",
+    "microSD cards",
     "USB flash drives",
-    "Solid-state drives (SSDs)",
-    "Embedded flash memory",
-    "Enterprise SSDs"
+    "solid-state drives (SSDs)",
+    "external SSDs"
   ],
-  "extracted_at": "2026-04-14 16:55:35",
+  "extracted_at": "2026-04-15 16:53:43",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/SanDisk",
+      "url": "https://en.wikipedia.org/wiki/Sandisk",
       "query": "Sandisk Corporation suppliers manufacturers",
       "snippet": "Sandisk Corporation (formerly branded SanDisk ) is an American multinational computer semiconductor company based in Milpitas, California, that design"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.sandisk.com/company/distributors",
+      "url": "https://ru.wikipedia.org/wiki/SanDisk",
       "query": "Sandisk Corporation suppliers manufacturers",
-      "snippet": "Find Sandisk Distributors & Resellers Purchase from your preferred Sandisk authorized partner."
+      "snippet": "SanDisk — американская корпорация, занимавшаяся разработкой и производством носителей информации на базе флеш-памяти. Корпорация была основана в 1988 "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://theirstack.com/en/technology/sandisk",
+      "url": "https://ru.wikipedia.org/wiki/SanDisk",
       "query": "Sandisk Corporation major customers clients",
-      "snippet": "Download a list of 62 companies that use SanDisk with enriched data including industry, company size, location, funding rounds, and revenue figures. M"
+      "snippet": "SanDisk — американская корпорация, занимавшаяся разработкой и производством носителей информации на базе флеш-памяти. Корпорация была основана в 1988 "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://enlyft.com/tech/products/sandisk",
+      "url": "https://www.sandisk.com/",
       "query": "Sandisk Corporation major customers clients",
-      "snippet": "Looking at SanDisk customers by industry, we find that Information Technology and Services (12%), Marketing and Advertising (8%), Computer Software (8"
+      "snippet": "Sandisk online store members receive free standard shipping on all eligible orders.New Sandisk Customers Sign Up and Save 10% Off. Explore the latest "
     }
   ]
 }

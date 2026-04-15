@@ -2,17 +2,17 @@
 ticker: CRWV
 company: CoreWeave, Inc.
 sector: Technology / Software - Infrastructure
-industry: AI Cloud Computing
-extracted_at: 2026-04-14 16:57:42
-last_updated: 2026-04-14
+industry: Artificial Intelligence Cloud Computing
+extracted_at: 2026-04-15 16:56:05
+last_updated: 2026-04-15
 ---
 
 # CRWV - CoreWeave, Inc.
 
 ## 基本信息
 
-- **所属行业**: Technology / Software - Infrastructure / AI Cloud Computing
-- **提取时间**: 2026-04-14 16:57:42
+- **所属行业**: Technology / Software - Infrastructure / Artificial Intelligence Cloud Computing
+- **提取时间**: 2026-04-15 16:56:05
 
 ## 产业链关系
 
@@ -21,13 +21,13 @@ last_updated: 2026-04-14
 - [[AMD]]
 - [[INTC]]
 - [[QCOM]]
-- [[Xilinx]]
+- [[Chirisa Technology Parks]]
 
 ### 下游客户
 - [[OpenAI]]
-- [[IBM]]
-- [[Mistral AI]]
+- [[DeepMind]]
 - [[MSFT]]
+- [[AMZN]]
 - [[GOOGL]]
 
 ### 竞争对手
@@ -35,23 +35,23 @@ last_updated: 2026-04-14
 - [[MSFT]]
 - [[GOOGL]]
 - [[NVDA]]
-- [[Alibaba Cloud]]
+- [[IBM]]
 
 ### 核心产品
-- [[GPU‑based AI cloud infrastructure]]
+- [[GPU-based AI cloud infrastructure]]
 - [[GPU compute instances]]
-- [[GPU‑optimized networking]]
-- [[Chip management software]]
-- [[AI workload orchestration]]
+- [[AI cloud platform]]
+- [[chip management software]]
+- [[data center services]]
 
 ## 数据来源
 
 - [CoreWeave](https://en.wikipedia.org/wiki/CoreWeave,_Inc.)
 - [CoreWeave, Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/CoreWeave)
-- [CoreWeave, Inc. suppliers manufacturers](https://www.coreweave.com/)
+- [CoreWeave, Inc. suppliers manufacturers](https://www.datacenterfrontier.com/energy/article/55127752/coreweave-chirisa-illinois-data-center-project-taps-bloom-energy-for-fuel-cell-power-leans-into-microgrids)
+- [CoreWeave, Inc. major customers clients](https://en.wikipedia.org/wiki/CoreWeave)
 - [CoreWeave, Inc. major customers clients](https://www.coreweave.com/case-studies)
-- [CoreWeave, Inc. major customers clients](https://www.appsruntheworld.com/customers-database/products/view/coreweave-compute-services)
 
 ## 元数据
 
-- **更新日期**: 2026-04-14
+- **更新日期**: 2026-04-15

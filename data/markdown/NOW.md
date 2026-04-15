@@ -3,8 +3,8 @@ ticker: NOW
 company: ServiceNow, Inc.
 sector: Technology
 industry: Software - Application
-extracted_at: 2026-04-14 17:03:40
-last_updated: 2026-04-14
+extracted_at: 2026-04-15 16:59:50
+last_updated: 2026-04-15
 ---
 
 # NOW - ServiceNow, Inc.
@@ -12,46 +12,46 @@ last_updated: 2026-04-14
 ## 基本信息
 
 - **所属行业**: Technology / Software - Application
-- **提取时间**: 2026-04-14 17:03:40
+- **提取时间**: 2026-04-15 16:59:50
 
 ## 产业链关系
 
 ### 上游供应商
-- [[DELL]]
+- [[AMZN]]
+- [[MSFT]]
 - [[GOOGL]]
 - [[ORCL]]
-- [[Consulting partners (e.g., Accenture, Deloitte)]]
-- [[MSFT]]
+- [[IBM]]
 
 ### 下游客户
-- [[Bank of America]]
-- [[JPMorgan Chase]]
 - [[Walmart]]
 - [[AT&T]]
-- [[Verizon]]
+- [[Bank of America]]
+- [[JPMorgan Chase]]
+- [[UnitedHealth Group]]
 
 ### 竞争对手
+- [[CRM]]
 - [[MSFT]]
 - [[IBM]]
-- [[SAP SuccessFactors]]
 - [[ORCL]]
-- [[CRM]]
+- [[SAP]]
 
 ### 核心产品
-- [[Now Platform]]
-- [[ServiceNow IT Service Management (ITSM)]]
-- [[IT Operations Management (ITOM)]]
-- [[IT Business Management (ITBM)]]
-- [[Customer Service Management (CSM)]]
+- [[ServiceNow IT Service Management]]
+- [[ServiceNow IT Operations Management]]
+- [[ServiceNow Customer Service Management]]
+- [[ServiceNow HR Service Delivery]]
+- [[ServiceNow Security Operations]]
 
 ## 数据来源
 
 - [ServiceNow](https://en.wikipedia.org/wiki/ServiceNow,_Inc.)
-- [ServiceNow, Inc. suppliers manufacturers](https://www.servicenow.com/company/supplier.html)
-- [ServiceNow, Inc. suppliers manufacturers](https://csimarket.com/stocks/NOW-Suppliers)
+- [ServiceNow, Inc. suppliers manufacturers](https://www.servicenow.com/partners/partner-finder.html)
+- [ServiceNow, Inc. suppliers manufacturers](https://itcompanies.net/blog/top-servicenow-partners)
 - [ServiceNow, Inc. major customers clients](https://www.aventionmedia.com/technology-installed-base/servicenow/)
-- [ServiceNow, Inc. major customers clients](https://data.landbase.com/technology/servicenow/)
+- [ServiceNow, Inc. major customers clients](https://www.servicenow.com/customers.html)
 
 ## 元数据
 
-- **更新日期**: 2026-04-14
+- **更新日期**: 2026-04-15

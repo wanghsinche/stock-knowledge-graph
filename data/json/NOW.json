@@ -4,34 +4,34 @@
   "sector": "Technology",
   "industry": "Software - Application",
   "upstream": [
-    "DELL",
+    "AMZN",
+    "MSFT",
     "GOOGL",
     "ORCL",
-    "Consulting partners (e.g., Accenture, Deloitte)",
-    "MSFT"
+    "IBM"
   ],
   "downstream": [
-    "Bank of America",
-    "JPMorgan Chase",
     "Walmart",
     "AT&T",
-    "Verizon"
+    "Bank of America",
+    "JPMorgan Chase",
+    "UnitedHealth Group"
   ],
   "competitors": [
+    "CRM",
     "MSFT",
     "IBM",
-    "SAP SuccessFactors",
     "ORCL",
-    "CRM"
+    "SAP"
   ],
   "key_products": [
-    "Now Platform",
-    "ServiceNow IT Service Management (ITSM)",
-    "IT Operations Management (ITOM)",
-    "IT Business Management (ITBM)",
-    "Customer Service Management (CSM)"
+    "ServiceNow IT Service Management",
+    "ServiceNow IT Operations Management",
+    "ServiceNow Customer Service Management",
+    "ServiceNow HR Service Delivery",
+    "ServiceNow Security Operations"
   ],
-  "extracted_at": "2026-04-14 17:03:40",
+  "extracted_at": "2026-04-15 16:59:50",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.servicenow.com/company/supplier.html",
+      "url": "https://www.servicenow.com/partners/partner-finder.html",
       "query": "ServiceNow, Inc. suppliers manufacturers",
-      "snippet": "ServiceNow partners with capable and competitive suppliers who commit to diversity, sustainability, and best-in-class goods and services. Learn more h"
+      "snippet": "For business transformation, GenAI, or optimizing your platform, find partners with tailored solutions and expertise to meet your business needs. Sell"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/NOW-Suppliers",
+      "url": "https://itcompanies.net/blog/top-servicenow-partners",
       "query": "ServiceNow, Inc. suppliers manufacturers",
-      "snippet": "Jan 29, 2026 · Servicenow Inc supply chain, list and performance of Servicenow Incs ' suppliers - CSIMarket"
+      "snippet": "ServiceNow has 5 different partner programs as at now, as follows: 1. Sales Partners: For those who want to resale ServiceNow products or offer outsou"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.aventionmedia.com/technology-installed-base/servicenow/",
       "query": "ServiceNow, Inc. major customers clients",
-      "snippet": "Businesses whose solutions and services can help Cloud- Service Customers achieve any of their business requirements can make use of our List of Compa"
+      "snippet": "Discover Avention Media’s accurate and customizable ServiceNow customers list. Our verified ServiceNow data helps you target key decision-makers and c"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://data.landbase.com/technology/servicenow/",
+      "url": "https://www.servicenow.com/customers.html",
       "query": "ServiceNow, Inc. major customers clients",
-      "snippet": "Aug 17, 2025 · Our ServiceNow customers list is available for download and comes enriched with vital company specifics, including industry classificat"
+      "snippet": "Discover the measurable improvements ServiceNow delivers to enhance efficiency, productivity, and customer satisfaction"
     }
   ]
 }

@@ -3,11 +3,35 @@
   "company_name": "Seagate Technology Holdings plc",
   "sector": "Technology",
   "industry": "Computer Hardware",
-  "upstream": [],
-  "downstream": [],
-  "competitors": [],
-  "key_products": [],
-  "extracted_at": "2026-04-14 17:04:21",
+  "upstream": [
+    "005930.KS",
+    "SK Hynix",
+    "MU",
+    "Toshiba",
+    "INTC"
+  ],
+  "downstream": [
+    "DELL",
+    "HPQ",
+    "Lenovo",
+    "AAPL",
+    "MSFT"
+  ],
+  "competitors": [
+    "WDC",
+    "Toshiba",
+    "005930.KS",
+    "IBM",
+    "MU"
+  ],
+  "key_products": [
+    "3.5\" HDDs",
+    "2.5\" HDDs",
+    "SSDs",
+    "Enterprise storage arrays",
+    "External portable drives"
+  ],
+  "extracted_at": "2026-04-15 17:02:52",
   "sources": [
     {
       "source": "Wikipedia",
@@ -25,7 +49,19 @@
       "source": "DuckDuckGo",
       "url": "https://csimarket.com/stocks/STX-Suppliers",
       "query": "Seagate Technology Holdings plc suppliers manufacturers",
-      "snippet": "Feb 4, 2026 · Seagate Technology Holdings Plc supply chain, list and performance of Seagate Technology Holdings Plcs ' suppliers - CSIMarket"
+      "snippet": "Feb 4, 2026 · Revenues of Seagate Technology Holdings Plc 's Suppliers , deteriorated by -11.07 % compared to the same quarter a year ago, Seagate Tec"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/STX-Customers",
+      "query": "Seagate Technology Holdings plc major customers clients",
+      "snippet": "Seagate Technology Holdings Plc customers and markets, results by customer and performance relative to STX, by company and industry - CSIMarket"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://stocklight.com/stocks/us/nasdaq-stx/seagate-technology/annual-reports/nasdaq-stx-2024-10K-241171298.pdf",
+      "query": "Seagate Technology Holdings plc major customers clients",
+      "snippet": "In this Annual Report on Form 10-K (the “Form 10-K”), unless the context indicates otherwise, as used herein, the terms “we,” “us,” “ Seagate ,” the “"
     }
   ]
 }

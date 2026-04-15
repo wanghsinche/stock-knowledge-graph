@@ -8,30 +8,34 @@
     "LG Chem",
     "CAT",
     "005930.KS",
-    "BYD"
+    "Bosch"
   ],
   "downstream": [
     "Individual consumers",
     "Commercial fleet operators",
-    "Utility companies",
     "Government agencies",
-    "Corporate fleet customers"
+    "Retail customers",
+    "Corporate leasing programs"
   ],
   "competitors": [
-    "Ford",
     "General Motors",
+    "Ford",
     "Volkswagen",
-    "Nissan",
-    "Hyundai"
+    "Hyundai",
+    "Nissan"
   ],
   "key_products": [
-    "Model 3",
     "Model S",
+    "Model 3",
     "Model X",
     "Model Y",
-    "Powerwall"
+    "Cybertruck",
+    "Semi",
+    "Powerwall",
+    "Solar Roof",
+    "Solar Panels"
   ],
-  "extracted_at": "2026-04-14 16:55:45",
+  "extracted_at": "2026-04-15 16:53:08",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +45,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Tesla,_Inc.",
+      "url": "https://en.wikipedia.org/wiki/List_of_Tesla_factories",
       "query": "Tesla, Inc. suppliers manufacturers",
+      "snippet": "List of Tesla factories Robotic manufacturing of the Model S at the Tesla Factory in Fremont, California Tesla, Inc . manufactures their products worl"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.investopedia.com/ask/answers/052815/who-are-teslas-tsla-main-suppliers.asp",
+      "query": "Tesla, Inc. suppliers manufacturers",
+      "snippet": "Nov 4, 2025 · Discover Tesla's key and rumored parts suppliers . Learn which companies provide essential components for Tesla's electric vehicles and "
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/Tesla,_Inc.",
+      "query": "Tesla, Inc. major customers clients",
       "snippet": "Tesla , Inc . is an American multinational automotive and clean energy company.The company was incorporated in July 2003 by Martin Eberhard and Marc T"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/TSLA/",
-      "query": "Tesla, Inc. suppliers manufacturers",
-      "snippet": "Find the latest Tesla , Inc . (TSLA) stock quote, history, news and other vital information to help you with your stock trading and investing."
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Tesla,_Inc.",
+      "url": "https://www.tesla.com/",
       "query": "Tesla, Inc. major customers clients",
-      "snippet": "1 day ago - Tesla Energy products include solar panels (built by other companies for Tesla), the Tesla Solar Roof (a solar shingle system), and the Te"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.tesla.com/customer-stories",
-      "query": "Tesla, Inc. major customers clients",
-      "snippet": "Incentives · Support · Partner with Tesla · Commercial · Utilities · Learn · LearnShop · LearnFind · LearnOrder · LearnOrder · Help Me Charge · Chargi"
+      "snippet": "Video Guides. Customer Stories. Events. Safety.Find Your Charge. View the network of Tesla Superchargers and Destination Chargers available near you."
     }
   ]
 }

@@ -4,26 +4,34 @@
   "sector": "Communication Services",
   "industry": "Internet Content & Information",
   "upstream": [
-    "Nebius Group N.V."
+    "NVDA",
+    "AMD",
+    "INTC",
+    "QCOM",
+    "GOOGL"
   ],
   "downstream": [
-    "Nasdaq-listed ETFs"
+    "INTC",
+    "US Department of Defense",
+    "NASA",
+    "MSFT",
+    "AMZN"
   ],
   "competitors": [
-    "OpenAI",
+    "NVDA",
+    "AMD",
+    "INTC",
     "GOOGL",
-    "AMZN",
-    "MSFT",
-    "IBM"
+    "AMZN"
   ],
   "key_products": [
-    "Nebius AI infrastructure platform",
+    "AI infrastructure platform",
     "Avride",
     "TripleTen",
     "Toloka",
     "Clickhouse"
   ],
-  "extracted_at": "2026-04-14 16:59:13",
+  "extracted_at": "2026-04-15 16:59:17",
   "sources": [
     {
       "source": "Wikipedia",
@@ -35,25 +43,25 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Nebius_Group",
       "query": "NBIS suppliers manufacturers",
-      "snippet": "Nebius Group N.V., headquartered in Amsterdam, is a technology company that provides artificial intelligence infrastructure."
+      "snippet": "Nebius Group N.V., headquartered in Amsterdam, is a technology company that provides artificial intelligence infrastructure. The company also owns Avr"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/suppliers_glance.php?code=NBIS",
+      "url": "https://northwiseproject.com/nbis-alabama-data-center/",
       "query": "NBIS suppliers manufacturers",
-      "snippet": "NBIS 's Suppliers Management Effectiveness. NBIS 's Competitors Results.Nebius Group N V's Comment on Supply Chain. NBIS 's Stock Perfrormance relativ"
+      "snippet": "A technical and strategic deep dive into NBIS Alabama Data Center: 300MW Birmingham AI factory and its role in the Southeastern AI infrastructure buil"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.nasdaq.com/market-activity/stocks/nbis",
+      "url": "https://www.dcsa.mil/Systems-Applications/National-Background-Investigation-Services-NBIS/",
       "query": "NBIS major customers clients",
-      "snippet": "Nasdaq Listed ETFs where NBIS is a top 10 holding*. Symbol.Data Disclaimer: The Nasdaq Indices and the Major Indices are delayed at least 1 minute. Re"
+      "snippet": "The purpose of NBIS is to modernize, streamline and secure the entire process to enhance the user experience and provide a reliable and integrated set"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.bloomberg.com/quote/NBIS:US",
+      "url": "https://www.dote.osd.mil/Portals/97/pub/reports/FY2024/dod/2024nbis.pdf?ver=XRh6KdVyObJICiJU3oaHRA==",
       "query": "NBIS major customers clients",
-      "snippet": "Stock analysis for Nebius Group NV ( NBIS :NASDAQ GS) including stock price, stock chart, company news, key statistics, fundamentals and company profi"
+      "snippet": "Jan 31, 2025 · MISSION The Defense Counterintelligence and Security Agency (DCSA), other Federal agencies, and industry partners will use NBIS to auth"
     }
   ]
 }

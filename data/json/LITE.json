@@ -1,13 +1,37 @@
 {
   "ticker": "LITE",
   "company_name": "Lumentum Holdings Inc.",
-  "sector": "Technology",
-  "industry": "Communication Equipment",
-  "upstream": [],
-  "downstream": [],
-  "competitors": [],
-  "key_products": [],
-  "extracted_at": "2026-04-14 16:58:43",
+  "sector": "Technology / Communication Equipment",
+  "industry": "Optical and Photonic Equipment",
+  "upstream": [
+    "Laser diode manufacturers",
+    "Optical fiber suppliers",
+    "Photonic integrated circuit suppliers",
+    "Semiconductor material providers",
+    "Optical component suppliers"
+  ],
+  "downstream": [
+    "CAT",
+    "Data center operators",
+    "Aerospace and defense contractors",
+    "Medical device manufacturers",
+    "Industrial automation companies"
+  ],
+  "competitors": [
+    "Coherent Inc.",
+    "Newport Corporation",
+    "Thorlabs, Inc.",
+    "II-VI Incorporated (Finisar)",
+    "Lattice Semiconductor"
+  ],
+  "key_products": [
+    "Laser diodes",
+    "Optical amplifiers",
+    "Photonic integrated circuits",
+    "Optical transceivers",
+    "Fiber optic components"
+  ],
+  "extracted_at": "2026-04-15 16:56:37",
   "sources": [
     {
       "source": "Wikipedia",
@@ -17,15 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.lumentum.com/",
+      "url": "https://en.wikipedia.org/wiki/Lumentum",
       "query": "Lumentum Holdings Inc. suppliers manufacturers",
-      "snippet": "Discover how Lumentum enables innovation through optical and photonic technologies for cloud networking, 3D sensing, lasers, and advanced manufacturin"
+      "snippet": "Lumentum Holdings Inc . is an American manufacturer of optical and photonic products. It was created in 2015 as a spinoff from JDSU."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/LITE/",
+      "url": "https://www.lumentum.com/en/company/distributors",
       "query": "Lumentum Holdings Inc. suppliers manufacturers",
-      "snippet": "Lumentum Holdings Inc . Overview Communication Equipment / Technology. Lumentum Holdings Inc . manufactures and sells optical and photonic products in"
+      "snippet": "Lumentum is a global leader in optical and photonic products, enabling high-bandwidth connectivity, precision sensing, and advanced manufacturing."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/Lumentum",
+      "query": "Lumentum Holdings Inc. major customers clients",
+      "snippet": "Lumentum Holdings Inc . is an American manufacturer of optical and photonic products. It was created in 2015 as a spinoff from JDSU."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/LITE-Customers",
+      "query": "Lumentum Holdings Inc. major customers clients",
+      "snippet": "Apr 1, 2026 · Lumentum Holdings Inc customers and markets, results by customer and performance relative to LITE, by company and industry - CSIMarket"
     }
   ]
 }

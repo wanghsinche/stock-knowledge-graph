@@ -1,21 +1,21 @@
 {
   "ticker": "INTC",
   "company_name": "Intel Corporation",
-  "sector": "Technology / Semiconductors",
-  "industry": "Semiconductor manufacturing",
+  "sector": "Technology",
+  "industry": "Semiconductors",
   "upstream": [
     "TSM",
-    "Silicon wafer suppliers",
-    "ASML",
-    "Packaging and assembly suppliers",
-    "Chemical and material suppliers"
+    "005930.KS",
+    "GlobalFoundries",
+    "MU",
+    "SK Hynix"
   ],
   "downstream": [
     "DELL",
-    "MSFT",
-    "TSLA",
+    "HPQ",
+    "Lenovo Group",
     "AAPL",
-    "AVGO"
+    "MSFT"
   ],
   "competitors": [
     "AMD",
@@ -25,13 +25,13 @@
     "TSM"
   ],
   "key_products": [
-    "Intel Core processors",
-    "Intel Xeon processors",
-    "Intel FPGAs",
-    "Intel SSD controllers",
-    "Intel AI accelerators"
+    "Intel Core CPUs",
+    "Intel Xeon CPUs",
+    "Intel Arc GPUs",
+    "Intel chipsets",
+    "Intel SSD controllers"
   ],
-  "extracted_at": "2026-04-14 16:57:21",
+  "extracted_at": "2026-04-15 16:55:49",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Intel",
+      "url": "https://en.wikipedia.org/wiki/List_of_Intel_manufacturing_sites",
       "query": "Intel Corporation suppliers manufacturers",
-      "snippet": "Intel Corporation is an American multinational technology company headquartered in Santa Clara, California. It designs, manufactures, and sells comput"
+      "snippet": "List of Intel manufacturing sites Intel is an American multinational corporation and technology company headquartered in Santa Clara, California. Proc"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.intel.com/content/www/us/en/partner/showcase/partner-directory/distributor.html",
       "query": "Intel Corporation suppliers manufacturers",
-      "snippet": "Sell Intel® Products directly sourced from Intel as well as devices manufactured by OEMs"
+      "snippet": "Distributor Partner Directory Sell Intel ® Products directly sourced from Intel as well as devices manufactured by OEMs Return to Intel ® Partner Show"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Intel",
+      "url": "https://www.investopedia.com/articles/markets/100214/inside-intel-look-mega-chipmaker.asp",
       "query": "Intel Corporation major customers clients",
-      "snippet": "Intel Corporation is an American multinational technology company headquartered in Santa Clara, California. It designs, manufactures, and sells comput"
+      "snippet": "6 days ago · In 2023, Intel had three major customers that were responsible for 40% of the company’s net revenue: Dell, Lenovo Group Limited, and HP I"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.linkedin.com/company/intel-corporation",
+      "url": "https://www.intel.com/content/www/us/en/customer-spotlight/overview.html",
       "query": "Intel Corporation major customers clients",
-      "snippet": "Intel | 4,181,768 followers on LinkedIn. Our mission is to shape the future of technology to help create a better future for the entire world, that’s "
+      "snippet": "Explore the Intel Customer Spotlight for the latest customer stories, case studies, and testimonials highlighting data-centric innovations."
     }
   ]
 }

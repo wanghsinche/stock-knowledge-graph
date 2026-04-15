@@ -4,34 +4,33 @@
   "sector": "Financial Services",
   "industry": "Banks - Diversified",
   "upstream": [
-    "MSFT",
-    "Payment processors (e.g., Visa, Mastercard)",
-    "MSFT",
-    "Data analytics providers (e.g., Bloomberg, Thomson Reuters)",
-    "Cybersecurity firms (e.g., Palo Alto Networks, Symantec)"
+    "Technology vendors",
+    "Software providers",
+    "Office equipment suppliers",
+    "Security services",
+    "Data center providers"
   ],
   "downstream": [
-    "Retail banking customers (individuals)",
-    "Corporate clients (medium to large enterprises)",
-    "Institutional investors (mutual funds, pension funds)",
-    "SME borrowers (small and medium enterprises)",
-    "Mortgage borrowers (homeowners)"
+    "Retail banking customers",
+    "Small and medium enterprises",
+    "Large corporations",
+    "Institutional investors",
+    "Government entities"
   ],
   "competitors": [
     "JPMorgan Chase",
     "Citigroup",
     "Wells Fargo",
-    "Goldman Sachs",
-    "Morgan Stanley"
+    "Goldman Sachs"
   ],
   "key_products": [
-    "Retail banking services (checking & savings accounts)",
-    "Mortgage and home equity products",
-    "Credit card offerings",
-    "Investment banking and advisory",
-    "Wealth management and private banking"
+    "Investment banking services",
+    "Consumer banking services",
+    "Wealth management",
+    "Credit cards",
+    "Mortgage lending"
   ],
-  "extracted_at": "2026-04-08 17:03:24",
+  "extracted_at": "2026-04-15 16:57:21",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,13 +42,13 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Bank_of_America",
       "query": "Bank of America Corporation suppliers manufacturers",
-      "snippet": "The Bank of America Corporation is an American multinational investment bank and financial services holding company headquartered at the Bank of Ameri"
+      "snippet": "The Bank of America Corporation (Bank of America ; often abbreviated BAC or BofA) is an American multinational investment bank and financial services "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.bankofamerica.com/",
+      "url": "https://about.bankofamerica.com/en/our-company/supplier-management",
       "query": "Bank of America Corporation suppliers manufacturers",
-      "snippet": "Banking , credit card, automobile loans, mortgage and home equity products are provided by Bank of America , N.A. and affiliated banks , Members FDIC "
+      "snippet": "Bank of America is dedicated to partnering with suppliers who value ethics, inclusion, human rights, and the environment. Learn more about our supplie"
     },
     {
       "source": "DuckDuckGo",

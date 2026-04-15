@@ -3,8 +3,8 @@ ticker: CAR
 company: Avis Budget Group, Inc.
 sector: Industrials
 industry: Rental & Leasing Services
-extracted_at: 2026-04-14 17:02:35
-last_updated: 2026-04-14
+extracted_at: 2026-04-15 16:58:12
+last_updated: 2026-04-15
 ---
 
 # CAR - Avis Budget Group, Inc.
@@ -12,46 +12,46 @@ last_updated: 2026-04-14
 ## 基本信息
 
 - **所属行业**: Industrials / Rental & Leasing Services
-- **提取时间**: 2026-04-14 17:02:35
+- **提取时间**: 2026-04-15 16:58:12
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Toyota Motor Corporation]]
-- [[Ford Motor Company]]
-- [[General Motors]]
-- [[Hyundai Motor Company]]
-- [[Nissan Motor Co.]]
+- [[Automotive OEMs (e.g., Toyota, Ford, General Motors, Hyundai, Nissan)]]
+- [[Automotive parts suppliers (e.g., Bosch, Denso, Magna)]]
+- [[Fleet management software providers]]
+- [[Vehicle financing partners]]
+- [[Logistics and transportation service providers]]
 
 ### 下游客户
-- [[Travel agencies]]
-- [[Airlines]]
-- [[Corporate travel departments]]
-- [[Hotels]]
-- [[Airports]]
+- [[Corporate travel agencies]]
+- [[Airlines and airport partners]]
+- [[Hotel chains and hospitality groups]]
+- [[Government and municipal agencies]]
+- [[Event and convention organizers]]
 
 ### 竞争对手
-- [[Enterprise Holdings]]
+- [[Enterprise Holdings (Enterprise Rent-A-Car)]]
 - [[Hertz Global Holdings]]
+- [[Dollar Thrifty Automotive Group]]
+- [[Alamo Rent a Car]]
 - [[National Car Rental]]
-- [[Alamo Rent A Car]]
-- [[Budget Rent a Car]]
 
 ### 核心产品
-- [[Avis Car Rental]]
-- [[Budget Rent a Car]]
-- [[Budget Truck Rental]]
-- [[Zipcar membership]]
-- [[Payless Car Rental]]
+- [[Car rental services]]
+- [[Truck rental services]]
+- [[Car sharing (Zipcar)]]
+- [[Fleet management solutions]]
+- [[Corporate travel management]]
 
 ## 数据来源
 
 - [Avis Budget Group](https://en.wikipedia.org/wiki/Avis_Budget_Group,_Inc.)
 - [Avis Budget Group, Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/Avis_Budget_Group)
-- [Avis Budget Group, Inc. suppliers manufacturers](https://www.avisbudgetgroup.com/)
+- [Avis Budget Group, Inc. suppliers manufacturers](https://wordpress.uat.avisbudget.com/about-us/partner-with-us/suppliers/)
 - [Avis Budget Group, Inc. major customers clients](https://en.wikipedia.org/wiki/Avis_Budget_Group)
-- [Avis Budget Group, Inc. major customers clients](https://csimarket.com/stocks/CAR-Customers)
+- [Avis Budget Group, Inc. major customers clients](https://pitchgrade.com/companies/avis-budget-group-inc)
 
 ## 元数据
 
-- **更新日期**: 2026-04-14
+- **更新日期**: 2026-04-15

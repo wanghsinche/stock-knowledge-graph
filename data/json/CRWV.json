@@ -2,19 +2,19 @@
   "ticker": "CRWV",
   "company_name": "CoreWeave, Inc.",
   "sector": "Technology / Software - Infrastructure",
-  "industry": "AI Cloud Computing",
+  "industry": "Artificial Intelligence Cloud Computing",
   "upstream": [
     "NVDA",
     "AMD",
     "INTC",
     "QCOM",
-    "Xilinx"
+    "Chirisa Technology Parks"
   ],
   "downstream": [
     "OpenAI",
-    "IBM",
-    "Mistral AI",
+    "DeepMind",
     "MSFT",
+    "AMZN",
     "GOOGL"
   ],
   "competitors": [
@@ -22,16 +22,16 @@
     "MSFT",
     "GOOGL",
     "NVDA",
-    "Alibaba Cloud"
+    "IBM"
   ],
   "key_products": [
-    "GPU‑based AI cloud infrastructure",
+    "GPU-based AI cloud infrastructure",
     "GPU compute instances",
-    "GPU‑optimized networking",
-    "Chip management software",
-    "AI workload orchestration"
+    "AI cloud platform",
+    "chip management software",
+    "data center services"
   ],
-  "extracted_at": "2026-04-14 16:57:42",
+  "extracted_at": "2026-04-15 16:56:05",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,21 +47,21 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.coreweave.com/",
+      "url": "https://www.datacenterfrontier.com/energy/article/55127752/coreweave-chirisa-illinois-data-center-project-taps-bloom-energy-for-fuel-cell-power-leans-into-microgrids",
       "query": "CoreWeave, Inc. suppliers manufacturers",
-      "snippet": "From leading AI labs like OpenAI and Mistral AI to global giants like IBM, the world’s most ambitious AI innovators build on CoreWeave . Explore how t"
+      "snippet": "Jul 22, 2024 · Chirisa Technology Parks CTP-01 data center in Chesterfield, Virginia. Bloom Energy will now supply solid oxide fuel cell energy techno"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/CoreWeave",
+      "query": "CoreWeave, Inc. major customers clients",
+      "snippet": "CoreWeave , Inc . is an American artificial intelligence (AI) cloud-computing company based in Livingston, New Jersey. It specializes in providing clo"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.coreweave.com/case-studies",
       "query": "CoreWeave, Inc. major customers clients",
-      "snippet": "Learn how CoreWeave customers like OpenAI and IBM are provisioning the GPUs they need and building AI infrastructure on a massive scale with unprecede"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.appsruntheworld.com/customers-database/products/view/coreweave-compute-services",
-      "query": "CoreWeave, Inc. major customers clients",
-      "snippet": "Who uses CoreWeave Compute Services for AI infrastructure? Companies worldwide use CoreWeave Compute Services, from small firms to large enterprises a"
+      "snippet": "Customer stories Where Customers Become Pioneers Discover how CoreWeave customers transform ambition into achievement. These pioneers are shaping the "
     }
   ]
 }

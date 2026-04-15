@@ -3,8 +3,8 @@ ticker: COIN
 company: Coinbase Global, Inc.
 sector: Financial Services
 industry: Financial Data & Stock Exchanges
-extracted_at: 2026-04-14 17:03:01
-last_updated: 2026-04-14
+extracted_at: 2026-04-15 17:00:43
+last_updated: 2026-04-15
 ---
 
 # COIN - Coinbase Global, Inc.
@@ -12,23 +12,23 @@ last_updated: 2026-04-14
 ## 基本信息
 
 - **所属行业**: Financial Services / Financial Data & Stock Exchanges
-- **提取时间**: 2026-04-14 17:03:01
+- **提取时间**: 2026-04-15 17:00:43
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Blockchain infrastructure providers]]
-- [[Mining hardware manufacturers]]
-- [[Cloud service providers (AWS, GCP, Azure)]]
-- [[Regulatory compliance vendors]]
-- [[Security and audit firms]]
+- [[AMZN]]
+- [[MSFT]]
+- [[GOOGL]]
+- [[Stripe]]
+- [[PayPal]]
 
 ### 下游客户
 - [[Retail cryptocurrency traders]]
 - [[Institutional investors]]
-- [[Crypto funds and hedge funds]]
+- [[Crypto merchants]]
 - [[DeFi platforms]]
-- [[Payment processors]]
+- [[Blockchain developers]]
 
 ### 竞争对手
 - [[Binance]]
@@ -38,20 +38,20 @@ last_updated: 2026-04-14
 - [[FTX]]
 
 ### 核心产品
-- [[Spot trading platform]]
-- [[Crypto custody services]]
+- [[Cryptocurrency trading platform]]
+- [[Custody services]]
 - [[Staking services]]
-- [[Crypto lending]]
-- [[Crypto derivatives (futures, options)]]
+- [[Coinbase Wallet]]
+- [[Coinbase Pro API]]
 
 ## 数据来源
 
 - [Coinbase](https://en.wikipedia.org/wiki/Coinbase_Global,_Inc.)
 - [Coinbase Global, Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/Coinbase)
 - [Coinbase Global, Inc. suppliers manufacturers](https://finance.yahoo.com/quote/COIN/)
-- [Coinbase Global, Inc. major customers clients](https://www.demandsage.com/coinbase-users-statistics/)
-- [Coinbase Global, Inc. major customers clients](https://electroiq.com/stats/coinbase-statistics/)
+- [Coinbase Global, Inc. major customers clients](https://en.wikipedia.org/wiki/Coinbase)
+- [Coinbase Global, Inc. major customers clients](https://finance.yahoo.com/quote/COIN/)
 
 ## 元数据
 
-- **更新日期**: 2026-04-14
+- **更新日期**: 2026-04-15

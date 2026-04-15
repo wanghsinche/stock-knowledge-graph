@@ -5,33 +5,33 @@
   "industry": "Semiconductors",
   "upstream": [
     "TSM",
-    "MU",
-    "AMAT",
-    "Chip design tools (Cadence, Synopsys)",
-    "Raw material suppliers (silicon wafer providers)"
+    "005930.KS",
+    "GlobalFoundries",
+    "UMC",
+    "SMIC"
   ],
   "downstream": [
+    "AMZN",
     "MSFT",
+    "GOOGL",
     "CSCO",
-    "Enterprise software vendors (VMware, Red Hat)",
-    "AAPL",
-    "TSLA"
+    "JNPR"
   ],
   "competitors": [
     "INTC",
     "QCOM",
     "NVDA",
-    "MRVL",
-    "VMware Inc."
+    "TXN",
+    "MediaTek"
   ],
   "key_products": [
-    "Broadcom 7000 Series Ethernet Controllers",
-    "Broadcom 4000 Series Wi‑Fi Chips",
-    "Broadcom 5000 Series Storage Controllers",
-    "Broadcom 8000 Series AI Accelerators",
-    "Broadcom Network Switching Software"
+    "Wi‑Fi and Bluetooth chips",
+    "Ethernet controllers",
+    "Broadband modems",
+    "5G modems",
+    "Storage controllers"
   ],
-  "extracted_at": "2026-04-14 16:57:32",
+  "extracted_at": "2026-04-15 16:54:04",
   "sources": [
     {
       "source": "Wikipedia",
@@ -49,19 +49,19 @@
       "source": "DuckDuckGo",
       "url": "https://www.broadcom.com/how-to-buy/partner-distributor-lookup",
       "query": "Broadcom Inc. suppliers manufacturers",
-      "snippet": "The Partner Locator will help you find the local expertise you need to be successful with Broadcom solutions. Begin searching by typing what you're lo"
+      "snippet": "Find a local reseller or global distributor of every Broadcom software solution for your business or enterprise, spanning the desktop to the Mainframe"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Broadcom",
       "query": "Broadcom Inc. major customers clients",
-      "snippet": "Broadcom Inc . is an American multinational designer, developer, manufacturer, and global supplier of a wide range of semiconductor and infrastructure"
+      "snippet": "2 days ago - Broadcom also offers products for supporting BizOps, including: ... Broadcom uses the term XPU to refer to custom ASIC chips developed in"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.broadcom.com/",
+      "url": "https://news.broadcom.com/category/customers",
       "query": "Broadcom Inc. major customers clients",
-      "snippet": "Broadcom delivers semiconductors and infrastructure software for global enterprises’ most complex, mission-critical needs."
+      "snippet": "When Kalmar Energi faced a major overhaul of its IT infrastructure, the company chose VMware Cloud Foundation. The result was higher availability, imp"
     }
   ]
 }

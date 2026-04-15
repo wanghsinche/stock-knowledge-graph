@@ -4,18 +4,18 @@
   "sector": "Financial Services",
   "industry": "Financial Data & Stock Exchanges",
   "upstream": [
-    "Blockchain infrastructure providers",
-    "Mining hardware manufacturers",
-    "Cloud service providers (AWS, GCP, Azure)",
-    "Regulatory compliance vendors",
-    "Security and audit firms"
+    "AMZN",
+    "MSFT",
+    "GOOGL",
+    "Stripe",
+    "PayPal"
   ],
   "downstream": [
     "Retail cryptocurrency traders",
     "Institutional investors",
-    "Crypto funds and hedge funds",
+    "Crypto merchants",
     "DeFi platforms",
-    "Payment processors"
+    "Blockchain developers"
   ],
   "competitors": [
     "Binance",
@@ -25,13 +25,13 @@
     "FTX"
   ],
   "key_products": [
-    "Spot trading platform",
-    "Crypto custody services",
+    "Cryptocurrency trading platform",
+    "Custody services",
     "Staking services",
-    "Crypto lending",
-    "Crypto derivatives (futures, options)"
+    "Coinbase Wallet",
+    "Coinbase Pro API"
   ],
-  "extracted_at": "2026-04-14 17:03:01",
+  "extracted_at": "2026-04-15 17:00:43",
   "sources": [
     {
       "source": "Wikipedia",
@@ -53,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.demandsage.com/coinbase-users-statistics/",
+      "url": "https://en.wikipedia.org/wiki/Coinbase",
       "query": "Coinbase Global, Inc. major customers clients",
-      "snippet": "Aug 13, 2025 · Coinbase ’s user base stands at around 120 million, meaning it serves about 19.45% of all global cryptocurrency users. This makes Coinb"
+      "snippet": "Coinbase Global , Inc . is an American cryptocurrency exchange. It was founded in 2012 by Brian Armstrong and Fred Ehrsam."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://electroiq.com/stats/coinbase-statistics/",
+      "url": "https://finance.yahoo.com/quote/COIN/",
       "query": "Coinbase Global, Inc. major customers clients",
-      "snippet": "Jul 2, 2025 · Coinbase statistics show that Coinbase had 23 million verified users in Q1 of 2018, which history shows grew steadily each quarter. By t"
+      "snippet": "Find the latest Coinbase Global , Inc . (COIN) stock quote, history, news and other vital information to help you with your stock trading and investin"
     }
   ]
 }

@@ -4,34 +4,34 @@
   "sector": "Consumer Cyclical",
   "industry": "Internet Retail",
   "upstream": [
-    "005930.KS",
-    "AAPL",
-    "SONY",
     "Nike",
-    "Adidas"
+    "AAPL",
+    "005930.KS",
+    "SONY",
+    "MSFT"
   ],
   "downstream": [
-    "Consumers (individual shoppers)",
-    "Small and medium businesses",
-    "Enterprise customers (AWS)",
-    "Prime members",
-    "AMZN"
+    "AMZN",
+    "US consumers",
+    "UK consumers",
+    "India consumers",
+    "Global consumers"
   ],
   "competitors": [
     "Walmart",
     "eBay",
     "Alibaba",
     "Target",
-    "Shopify"
+    "Best Buy"
   ],
   "key_products": [
-    "Amazon.com e‑commerce platform",
-    "Amazon Web Services (cloud computing)",
-    "Amazon Prime Video (digital streaming)",
-    "Amazon Kindle (e‑books)",
-    "Amazon Echo (Alexa smart speaker)"
+    "Amazon.com marketplace",
+    "Amazon Prime",
+    "Amazon Web Services",
+    "Amazon Echo/Alexa",
+    "Amazon Kindle"
   ],
-  "extracted_at": "2026-04-14 16:56:08",
+  "extracted_at": "2026-04-15 16:54:40",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,21 +41,21 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://suppliercentral.amazon.com/",
+      "url": "https://awesomers.com/amazon-supply-chain",
       "query": "Amazon.com, Inc. suppliers manufacturers",
-      "snippet": "Amazon is committed to helping our suppliers be more effective in making amazing products. Please contact your Amazon partner for an invitation. Impro"
+      "snippet": "Amazon has released a list of its top 1000 suppliers and factories from around the world. This information became public as a part of an SEC disclosur"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/suppliers_glance.php?code=AMZN",
+      "url": "https://d39w7f4ix9f5s9.cloudfront.net/cb/19/77dfc5b441c892cd6e2be166ba70/final-amazon-supplier-list-2019-11-14-updated-1005am.pdf",
       "query": "Amazon.com, Inc. suppliers manufacturers",
-      "snippet": "Amazon Com Inc supply chain, list and performance of Amazon Com Incs' suppliers - CSIMarket"
+      "snippet": "The facilities listed produce Amazon-branded apparel, consumer electronics, and home goods products. This list was last updated November 2019 and is s"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://capitaloneshopping.com/research/amazon-statistics/",
       "query": "Amazon.com, Inc. major customers clients",
-      "snippet": "Mar 29, 2026 · Over 310 million global consumers shop on Amazon at least once a year. 2 million active selling partners have shops on Amazon. Independ"
+      "snippet": "Mar 29, 2026 · Statistics & analysis on Amazon including total sales (per year & minute), number of products (SKUs), customers , sellers & more."
     },
     {
       "source": "DuckDuckGo",

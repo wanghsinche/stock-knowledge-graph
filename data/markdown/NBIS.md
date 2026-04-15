@@ -3,8 +3,8 @@ ticker: NBIS
 company: Nebius Group N.V.
 sector: Communication Services
 industry: Internet Content & Information
-extracted_at: 2026-04-14 16:59:13
-last_updated: 2026-04-14
+extracted_at: 2026-04-15 16:59:17
+last_updated: 2026-04-15
 ---
 
 # NBIS - Nebius Group N.V.
@@ -12,25 +12,33 @@ last_updated: 2026-04-14
 ## 基本信息
 
 - **所属行业**: Communication Services / Internet Content & Information
-- **提取时间**: 2026-04-14 16:59:13
+- **提取时间**: 2026-04-15 16:59:17
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Nebius Group N.V.]]
+- [[NVDA]]
+- [[AMD]]
+- [[INTC]]
+- [[QCOM]]
+- [[GOOGL]]
 
 ### 下游客户
-- [[Nasdaq-listed ETFs]]
+- [[INTC]]
+- [[US Department of Defense]]
+- [[NASA]]
+- [[MSFT]]
+- [[AMZN]]
 
 ### 竞争对手
-- [[OpenAI]]
+- [[NVDA]]
+- [[AMD]]
+- [[INTC]]
 - [[GOOGL]]
 - [[AMZN]]
-- [[MSFT]]
-- [[IBM]]
 
 ### 核心产品
-- [[Nebius AI infrastructure platform]]
+- [[AI infrastructure platform]]
 - [[Avride]]
 - [[TripleTen]]
 - [[Toloka]]
@@ -40,10 +48,10 @@ last_updated: 2026-04-14
 
 - [Nebius Group](https://en.wikipedia.org/wiki/NBIS)
 - [NBIS suppliers manufacturers](https://en.wikipedia.org/wiki/Nebius_Group)
-- [NBIS suppliers manufacturers](https://csimarket.com/stocks/suppliers_glance.php?code=NBIS)
-- [NBIS major customers clients](https://www.nasdaq.com/market-activity/stocks/nbis)
-- [NBIS major customers clients](https://www.bloomberg.com/quote/NBIS:US)
+- [NBIS suppliers manufacturers](https://northwiseproject.com/nbis-alabama-data-center/)
+- [NBIS major customers clients](https://www.dcsa.mil/Systems-Applications/National-Background-Investigation-Services-NBIS/)
+- [NBIS major customers clients](https://www.dote.osd.mil/Portals/97/pub/reports/FY2024/dod/2024nbis.pdf?ver=XRh6KdVyObJICiJU3oaHRA==)
 
 ## 元数据
 
-- **更新日期**: 2026-04-14
+- **更新日期**: 2026-04-15
