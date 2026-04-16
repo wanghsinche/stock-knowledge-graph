@@ -3,8 +3,8 @@ ticker: HIMS
 company: Hims & Hers Health, Inc.
 sector: Healthcare
 industry: Drug Manufacturers - Specialty & Generic
-extracted_at: 2026-03-12 16:54:50
-last_updated: 2026-03-12
+extracted_at: 2026-04-16 17:09:02
+last_updated: 2026-04-16
 ---
 
 # HIMS - Hims & Hers Health, Inc.
@@ -12,46 +12,46 @@ last_updated: 2026-03-12
 ## 基本信息
 
 - **所属行业**: Healthcare / Drug Manufacturers - Specialty & Generic
-- **提取时间**: 2026-03-12 16:54:50
+- **提取时间**: 2026-04-16 17:09:02
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Teva Pharmaceutical Industries]]
-- [[Mylan]]
-- [[Sandoz]]
-- [[Bayer]]
-- [[Pfizer]]
+- [[Generic drug manufacturers]]
+- [[Pharmaceutical ingredient suppliers]]
+- [[Contract drug manufacturers]]
+- [[Medical device suppliers]]
+- [[Packaging suppliers]]
 
 ### 下游客户
-- [[Consumers (direct-to-consumer)]]
-- [[Health insurers]]
+- [[Individual consumers]]
+- [[Health insurance providers]]
 - [[Retail pharmacies]]
-- [[Online retailers]]
-- [[Health plans]]
+- [[Telehealth platforms]]
+- [[Healthcare providers]]
 
 ### 竞争对手
-- [[Roman]]
 - [[Nurx]]
+- [[Roman]]
 - [[PlushCare]]
-- [[CVS Health Telehealth]]
-- [[Cigna Telehealth]]
+- [[CVS Health]]
+- [[Walgreens]]
 
 ### 核心产品
-- [[Prescription erectile dysfunction medication]]
-- [[Prescription hair loss medication]]
-- [[Over‑the‑counter acne treatment]]
-- [[Over‑the‑counter pain relief]]
-- [[Personal care products (shampoos, skincare)]]
+- [[Prescription erectile dysfunction medication (Viagra, Cialis)]]
+- [[Hair loss treatments (minoxidil)]]
+- [[OTC pain relievers]]
+- [[Personal care products (toothpaste, deodorant)]]
+- [[Mental health counseling services]]
 
 ## 数据来源
 
 - [Hims & Hers Health](https://en.wikipedia.org/wiki/Hims_&_Hers_Health,_Inc.)
 - [Hims & Hers Health, Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/Hims_&_Hers_Health)
-- [Hims & Hers Health, Inc. suppliers manufacturers](https://www.hims.com/american-made)
-- [Hims & Hers Health, Inc. major customers clients](https://news.hims.com/newsroom/how-more-customers-across-the-world-depend-on-hims-hers)
-- [Hims & Hers Health, Inc. major customers clients](https://news.hims.com/newsroom/how-were-reaching-more-customers-with-a-new-standard-of-care)
+- [Hims & Hers Health, Inc. suppliers manufacturers](https://finance.yahoo.com/quote/HIMS/)
+- [Hims & Hers Health, Inc. major customers clients](https://en.wikipedia.org/wiki/Hims_&_Hers_Health)
+- [Hims & Hers Health, Inc. major customers clients](https://finance.yahoo.com/quote/HIMS/)
 
 ## 元数据
 
-- **更新日期**: 2026-03-12
+- **更新日期**: 2026-04-16

@@ -1,8 +1,8 @@
 {
   "ticker": "NOW",
   "company_name": "ServiceNow, Inc.",
-  "sector": "Technology",
-  "industry": "Software - Application",
+  "sector": "Technology / Software - Application",
+  "industry": "Enterprise Software",
   "upstream": [
     "AMZN",
     "MSFT",
@@ -12,26 +12,26 @@
   ],
   "downstream": [
     "Walmart",
-    "AT&T",
-    "Bank of America",
     "JPMorgan Chase",
-    "UnitedHealth Group"
+    "AT&T",
+    "Verizon",
+    "Bank of America"
   ],
   "competitors": [
     "CRM",
     "MSFT",
-    "IBM",
+    "SAP",
     "ORCL",
-    "SAP"
+    "IBM"
   ],
   "key_products": [
-    "ServiceNow IT Service Management",
-    "ServiceNow IT Operations Management",
-    "ServiceNow Customer Service Management",
-    "ServiceNow HR Service Delivery",
-    "ServiceNow Security Operations"
+    "IT Service Management (ITSM)",
+    "IT Operations Management (ITOM)",
+    "IT Business Management (ITBM)",
+    "Customer Service Management (CSM)",
+    "Now Platform"
   ],
-  "extracted_at": "2026-04-15 16:59:50",
+  "extracted_at": "2026-04-16 17:07:58",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.servicenow.com/partners/partner-finder.html",
+      "url": "https://en.wikipedia.org/wiki/ServiceNow",
       "query": "ServiceNow, Inc. suppliers manufacturers",
-      "snippet": "For business transformation, GenAI, or optimizing your platform, find partners with tailored solutions and expertise to meet your business needs. Sell"
+      "snippet": "ServiceNow , Inc . is an American software company that supplies a cloud computing platform for the creation and management of automated business work"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://itcompanies.net/blog/top-servicenow-partners",
+      "url": "https://www.servicenow.com/company/supplier.html",
       "query": "ServiceNow, Inc. suppliers manufacturers",
-      "snippet": "ServiceNow has 5 different partner programs as at now, as follows: 1. Sales Partners: For those who want to resale ServiceNow products or offer outsou"
+      "snippet": "ServiceNow partners with capable and competitive suppliers who commit to diversity, sustainability, and best-in-class goods and services. Learn more h"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.aventionmedia.com/technology-installed-base/servicenow/",
+      "url": "https://www.servicenow.com/",
       "query": "ServiceNow, Inc. major customers clients",
-      "snippet": "Discover Avention Media’s accurate and customizable ServiceNow customers list. Our verified ServiceNow data helps you target key decision-makers and c"
+      "snippet": "Put AI to workfor people customers employees developers people ServiceNow unites data, AI, workflows, and security on a single platform so AI doesn't "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.servicenow.com/customers.html",
+      "url": "https://www.g2.com/sellers/servicenow",
       "query": "ServiceNow, Inc. major customers clients",
-      "snippet": "Discover the measurable improvements ServiceNow delivers to enhance efficiency, productivity, and customer satisfaction"
+      "snippet": "ServiceNow Customer Service Management. 255 reviews.I like how ServiceNow Customer Service Management helps us handle customer issues all in one place"
     }
   ]
 }

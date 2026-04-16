@@ -1,37 +1,37 @@
 {
   "ticker": "MSTR",
-  "company_name": "MicroStrategy Incorporated",
+  "company_name": "Strategy Analytics Inc.",
   "sector": "Technology",
   "industry": "Software - Application",
   "upstream": [
-    "DELL",
     "MSFT",
-    "Data storage vendors (e.g., NetApp, EMC)",
+    "AMZN",
+    "GOOGL",
     "ORCL",
-    "CSCO"
+    "IBM"
   ],
   "downstream": [
-    "Financial services firms (e.g., JPMorgan Chase, Goldman Sachs)",
-    "Government agencies (e.g., U.S. Department of Defense, NASA)",
-    "Retail corporations (e.g., Walmart, Target)",
-    "Healthcare organizations (e.g., Mayo Clinic, Kaiser Permanente)",
-    "Manufacturing enterprises (e.g., General Electric, Siemens)"
+    "Walmart",
+    "Coca‑Cola",
+    "Bank of America",
+    "General Motors",
+    "Procter & Gamble"
   ],
   "competitors": [
     "Tableau Software",
     "MSFT",
-    "Qlik Technologies",
-    "GOOGL",
-    "SAP BusinessObjects"
+    "Qlik",
+    "Looker",
+    "Sisense"
   ],
   "key_products": [
-    "MicroStrategy Analytics Platform",
-    "MicroStrategy Mobile",
-    "MicroStrategy Cloud",
-    "MicroStrategy Data Warehouse",
-    "MicroStrategy Analytics for SAP"
+    "Strategy Analytics Platform",
+    "Data Warehouse",
+    "Data Visualization",
+    "Business Intelligence",
+    "Predictive Analytics"
   ],
-  "extracted_at": "2026-04-14 17:00:39",
+  "extracted_at": "2026-04-16 17:09:47",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,9 +47,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ru.tradingview.com/symbols/NASDAQ-MSTR/",
+      "url": "https://markets.ft.com/data/equities/tearsheet/summary?s=MIG0:MUN",
       "query": "Strategy Inc suppliers manufacturers",
-      "snippet": "Следите за графиком Strategy Inc , чтобы быть в курсе цены акций. Вы также найдёте прогнозы, отчётность MSTR и новости рынка."
+      "snippet": "Latest Strategy Inc (MIG0:MUN) share price with interactive charts, historical prices, comparative analysis, forecasts, business profile and more."
     },
     {
       "source": "DuckDuckGo",

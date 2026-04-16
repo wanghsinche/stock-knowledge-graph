@@ -4,34 +4,32 @@
   "sector": "Technology",
   "industry": "Software - Infrastructure",
   "upstream": [
+    "AMZN",
     "MSFT",
+    "GOOGL",
     "DELL",
-    "Data storage vendors (e.g., NetApp, EMC)",
-    "CSCO",
-    "Security software providers (e.g., Palo Alto Networks, Fortinet)"
+    "IBM"
   ],
   "downstream": [
-    "U.S. federal agencies (e.g., Department of Defense, FBI, CIA)",
-    "International government agencies",
-    "Large multinational corporations (e.g., Walmart, ExxonMobil)",
-    "Financial institutions (e.g., JPMorgan Chase, Goldman Sachs)",
-    "Healthcare organizations (e.g., Mayo Clinic, UnitedHealth Group)"
+    "U.S. Department of Defense",
+    "Federal Bureau of Investigation",
+    "INTC",
+    "JPMorgan Chase",
+    "Walmart"
   ],
   "competitors": [
-    "Splunk",
     "Snowflake",
     "Databricks",
-    "Tableau",
+    "Splunk",
+    "CRM",
     "MSFT"
   ],
   "key_products": [
     "Gotham",
     "Foundry",
-    "Palantir Apollo",
-    "Palantir Helix",
-    "Palantir Data Lake"
+    "Palantir Apollo"
   ],
-  "extracted_at": "2026-04-15 16:55:37",
+  "extracted_at": "2026-04-16 17:05:23",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,13 +41,13 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Palantir",
       "query": "Palantir Technologies Inc. suppliers manufacturers",
-      "snippet": "Palantir Technologies Inc . is an American publicly traded company that develops data integration and analytics platforms enabling government agencies"
+      "snippet": "Palantir Technologies Inc . (/ ˈpælənˌtiːr /) [3] is an American publicly traded company that develops data integration and analytics platforms enabli"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/PLTR/",
+      "url": "https://csimarket.com/stocks/PLTR-Suppliers",
       "query": "Palantir Technologies Inc. suppliers manufacturers",
-      "snippet": "Find the latest Palantir Technologies Inc . (PLTR) stock quote, history, news and other vital information to help you with your stock trading and inve"
+      "snippet": "Feb 19, 2026 · For your research, we’ve provided nine additional tables on Palantir Technologies Inc ’ s suppliers . You can find them in the navigati"
     },
     {
       "source": "DuckDuckGo",

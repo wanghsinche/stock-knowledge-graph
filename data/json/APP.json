@@ -4,34 +4,34 @@
   "sector": "Communication Services",
   "industry": "Advertising Agencies",
   "upstream": [
-    "GOOGL",
-    "AMZN",
-    "MSFT",
-    "Mobile ad data providers",
-    "Ad exchange partners"
+    "Mobile device manufacturers",
+    "Operating system providers",
+    "Cloud service providers",
+    "Data analytics vendors",
+    "Ad tech infrastructure providers"
   ],
   "downstream": [
-    "Mobile game developers",
-    "App publishers",
-    "Brands and advertisers",
-    "Marketing agencies",
-    "Digital media companies"
+    "Mobile app developers",
+    "Gaming companies",
+    "E‑commerce brands",
+    "Media companies",
+    "Advertising agencies"
   ],
   "competitors": [
     "The Trade Desk",
+    "GOOGL",
+    "Facebook Ads",
     "Unity Ads",
-    "Vungle",
-    "AdColony",
-    "Chartboost"
+    "Vungle"
   ],
   "key_products": [
-    "AppLovin Mobile Advertising Platform",
-    "SDK for in‑app advertising",
-    "User acquisition solutions",
-    "In‑app video and rewarded video ads",
-    "Analytics and attribution tools"
+    "Mobile advertising platform",
+    "App monetization solutions",
+    "User acquisition tools",
+    "Data analytics dashboard",
+    "Video ad serving"
   ],
-  "extracted_at": "2026-04-15 17:01:40",
+  "extracted_at": "2026-04-16 17:08:49",
   "sources": [
     {
       "source": "Wikipedia",
@@ -53,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/AppLovin",
+      "url": "https://www.applovin.com/",
       "query": "AppLovin Corporation major customers clients",
-      "snippet": "AppLovin Corporation is an American mobile technology company headquartered in Palo Alto, California. [3] Founded in 2012, the company helps developer"
+      "snippet": "AppLovin enables businesses to advertise profitably with marketing technologies that attract customers , increase revenue, and track ad performance."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/APP-Customers",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/makes-applovin-corporation-app-long-143945561.html",
       "query": "AppLovin Corporation major customers clients",
-      "snippet": "Applovin 's Comment on Sales, Marketing and Customers News about Applovin Corporation Contracts Navigating the Storm AppLovin Faces Legal Challenges a"
+      "snippet": "AppLovin Corporation (NASDAQ:APP) is a mobile technology company specializing in developing software-based platforms for advertisers to enhance the ma"
     }
   ]
 }

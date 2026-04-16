@@ -6,32 +6,32 @@
   "upstream": [
     "TSM",
     "005930.KS",
-    "GlobalFoundries",
-    "ASE Technology Holding",
-    "Amkor Technology"
+    "MU",
+    "SK Hynix",
+    "AVGO"
   ],
   "downstream": [
     "SONY",
     "MSFT",
+    "DELL",
     "AMZN",
-    "TSLA",
-    "GOOGL"
+    "TSLA"
   ],
   "competitors": [
     "AMD",
     "INTC",
     "QCOM",
-    "AVGO",
-    "AAPL"
+    "AAPL",
+    "ARM Holdings"
   ],
   "key_products": [
     "GeForce RTX GPUs",
     "Quadro RTX GPUs",
-    "Tesla AI accelerators",
-    "NVIDIA DGX systems",
-    "CUDA software platform"
+    "Tesla AI GPUs",
+    "Jetson SoCs",
+    "CUDA API"
   ],
-  "extracted_at": "2026-04-15 16:53:19",
+  "extracted_at": "2026-04-16 17:03:29",
   "sources": [
     {
       "source": "Wikipedia",
@@ -55,13 +55,13 @@
       "source": "DuckDuckGo",
       "url": "https://www.fool.com/investing/2025/06/26/who-are-nvidias-biggest-customers/",
       "query": "NVIDIA Corporation major customers clients",
-      "snippet": "Jun 26, 2025 · Nvidia 's GPUs and networking equipment account for a large chunk of AI data center spending, but other major costs include land acquis"
+      "snippet": "June 26, 2025 - Nvidia has amassed an impressive list of customers, which includes top AI developers like Amazon, Microsoft, and Alphabet ."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://stocksandfuturestrading.com/the-complete-list-of-nvidias-suppliers-and-consumers/",
+      "url": "https://www.fool.com/investing/2024/05/02/who-are-nvidias-largest-customers/",
       "query": "NVIDIA Corporation major customers clients",
-      "snippet": "Nov 22, 2024 · NVIDIA has completed one of the most dramatic business transformations in market history — going from a gaming GPU company to the backb"
+      "snippet": "May 2, 2024 - However, in its recent 10-K filing, the company did say that one customer represented 13% of its revenue from its compute and networking"
     }
   ]
 }

@@ -3,8 +3,8 @@ ticker: NFLX
 company: Netflix, Inc.
 sector: Communication Services
 industry: Entertainment
-extracted_at: 2026-04-15 16:58:43
-last_updated: 2026-04-15
+extracted_at: 2026-04-16 17:06:22
+last_updated: 2026-04-16
 ---
 
 # NFLX - Netflix, Inc.
@@ -12,46 +12,46 @@ last_updated: 2026-04-15
 ## 基本信息
 
 - **所属行业**: Communication Services / Entertainment
-- **提取时间**: 2026-04-15 16:58:43
+- **提取时间**: 2026-04-16 17:06:22
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Hiventy Group (fulfillment partner)]]
-- [[AAPL]]
-- [[Content production studios (e.g., Warner Bros., Universal)]]
-- [[Technology infrastructure providers (e.g., AWS, Azure)]]
-- [[Licensing partners (e.g., Disney, HBO, Paramount)]]
+- [[AMZN]]
+- [[Cloudflare]]
+- [[GOOGL]]
+- [[MSFT]]
+- [[Disney (content provider)]]
 
 ### 下游客户
-- [[Global individual subscribers]]
-- [[Corporate and enterprise accounts]]
-- [[CAT]]
-- [[Smart TV and streaming device users]]
-- [[Mobile app users]]
+- [[US households]]
+- [[European households]]
+- [[Asian households]]
+- [[Mobile device users]]
+- [[Smart TV users]]
 
 ### 竞争对手
-- [[Disney+]]
-- [[AMZN]]
 - [[Hulu]]
+- [[AMZN]]
+- [[Disney+]]
 - [[HBO Max]]
-- [[Peacock]]
+- [[AAPL]]
 
 ### 核心产品
-- [[Over-the-top streaming service]]
-- [[Original series and films]]
-- [[Licensed third‑party content]]
-- [[Mobile and web applications]]
-- [[Smart TV and device apps]]
+- [[Netflix streaming service]]
+- [[Netflix Originals]]
+- [[Subscription video on demand]]
+- [[Mobile app]]
+- [[Smart TV app]]
 
 ## 数据来源
 
 - [Netflix, Inc.](https://en.wikipedia.org/wiki/Netflix,_Inc.)
-- [Netflix, Inc. suppliers manufacturers](https://npfp.netflixstudios.com/region/global/)
-- [Netflix, Inc. suppliers manufacturers](https://seriosity.com/what-companies-does-netflix-work-with/)
-- [Netflix, Inc. major customers clients](https://ir.netflix.net/ir-overview/profile/default.aspx)
-- [Netflix, Inc. major customers clients](https://bstrategyhub.com/netflix-target-market/)
+- [Netflix, Inc. suppliers manufacturers](https://porteranalysis.com/porters-five-forces-of-netflix/)
+- [Netflix, Inc. suppliers manufacturers](https://www.case48.com/porter-analysis/5226-Netflix-Inc)
+- [Netflix, Inc. major customers clients](https://www.netflix.com/gb/login)
+- [Netflix, Inc. major customers clients](https://ir.netflix.net/)
 
 ## 元数据
 
-- **更新日期**: 2026-04-15
+- **更新日期**: 2026-04-16

@@ -2,17 +2,17 @@
 ticker: CRWV
 company: CoreWeave, Inc.
 sector: Technology / Software - Infrastructure
-industry: Artificial Intelligence Cloud Computing
-extracted_at: 2026-04-15 16:56:05
-last_updated: 2026-04-15
+industry: AI Cloud Computing / GPU Infrastructure
+extracted_at: 2026-04-16 17:06:58
+last_updated: 2026-04-16
 ---
 
 # CRWV - CoreWeave, Inc.
 
 ## 基本信息
 
-- **所属行业**: Technology / Software - Infrastructure / Artificial Intelligence Cloud Computing
-- **提取时间**: 2026-04-15 16:56:05
+- **所属行业**: Technology / Software - Infrastructure / AI Cloud Computing / GPU Infrastructure
+- **提取时间**: 2026-04-16 17:06:58
 
 ## 产业链关系
 
@@ -20,38 +20,38 @@ last_updated: 2026-04-15
 - [[NVDA]]
 - [[AMD]]
 - [[INTC]]
-- [[QCOM]]
-- [[Chirisa Technology Parks]]
+- [[TSM]]
+- [[005930.KS]]
 
 ### 下游客户
 - [[OpenAI]]
-- [[DeepMind]]
-- [[MSFT]]
+- [[Mistral AI]]
+- [[IBM]]
+- [[META]]
 - [[AMZN]]
-- [[GOOGL]]
 
 ### 竞争对手
+- [[GOOGL]]
 - [[AMZN]]
 - [[MSFT]]
-- [[GOOGL]]
-- [[NVDA]]
-- [[IBM]]
+- [[Lambda Labs]]
+- [[Paperspace]]
 
 ### 核心产品
-- [[GPU-based AI cloud infrastructure]]
-- [[GPU compute instances]]
-- [[AI cloud platform]]
-- [[chip management software]]
-- [[data center services]]
+- [[GPU Cloud Infrastructure]]
+- [[GPU-as-a-Service]]
+- [[AI Compute Clusters]]
+- [[GPU Management Software]]
+- [[Custom AI Workload Solutions]]
 
 ## 数据来源
 
 - [CoreWeave](https://en.wikipedia.org/wiki/CoreWeave,_Inc.)
 - [CoreWeave, Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/CoreWeave)
-- [CoreWeave, Inc. suppliers manufacturers](https://www.datacenterfrontier.com/energy/article/55127752/coreweave-chirisa-illinois-data-center-project-taps-bloom-energy-for-fuel-cell-power-leans-into-microgrids)
+- [CoreWeave, Inc. suppliers manufacturers](https://www.coreweave.com/)
 - [CoreWeave, Inc. major customers clients](https://en.wikipedia.org/wiki/CoreWeave)
-- [CoreWeave, Inc. major customers clients](https://www.coreweave.com/case-studies)
+- [CoreWeave, Inc. major customers clients](https://www.fool.com/investing/2026/03/31/coreweave-stock-beware-of-the-threat-lurking/)
 
 ## 元数据
 
-- **更新日期**: 2026-04-15
+- **更新日期**: 2026-04-16

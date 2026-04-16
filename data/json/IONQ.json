@@ -4,34 +4,34 @@
   "sector": "Technology",
   "industry": "Computer Hardware",
   "upstream": [
-    "Laser system manufacturers",
-    "Vacuum chamber suppliers",
-    "Cryogenic equipment providers",
-    "Ion optics manufacturers",
-    "Electronics component suppliers"
+    "AMZN",
+    "NVDA",
+    "INTC",
+    "IonOptics",
+    "Quantum Machines"
   ],
   "downstream": [
-    "Research universities",
-    "Government laboratories",
-    "Cloud service providers",
-    "Quantum software developers",
-    "Enterprise clients"
+    "AMZN",
+    "MSFT",
+    "GOOGL",
+    "IBM",
+    "NASA"
   ],
   "competitors": [
     "Rigetti Computing",
-    "Honeywell Quantum Solutions",
     "D-Wave Systems",
-    "IBM",
-    "GOOGL"
+    "Honeywell Quantum Solutions",
+    "Xanadu",
+    "Quantum Circuits"
   ],
   "key_products": [
     "Trapped ion quantum computer",
-    "Quantum cloud platform",
-    "Quantum software development kit",
-    "Quantum circuit optimization software",
-    "Quantum hardware integration services"
+    "Quantum Processing Unit (QPU)",
+    "Quantum software stack",
+    "Qiskit integration",
+    "Quantum cloud services"
   ],
-  "extracted_at": "2026-04-15 16:56:50",
+  "extracted_at": "2026-04-16 17:06:11",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,25 +43,25 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/IonQ",
       "query": "IonQ, Inc. suppliers manufacturers",
-      "snippet": "IonQ, Inc. is an American quantum computing hardware and software company headquartered in College Park, Maryland. The company develops general-purpos"
+      "snippet": "IonQ , Inc . is an American quantum computing hardware and software company headquartered in College Park, Maryland. The company develops general-purp"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.ionq.com/",
       "query": "IonQ, Inc. suppliers manufacturers",
-      "snippet": "IonQ delivers trapped ion quantum computing systems, cloud access, and enterprise solutions for real-world quantum applications."
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.ionq.com/customers-and-partners",
-      "query": "IonQ, Inc. major customers clients",
-      "snippet": "Customers and partners Building the future alongside the world's most innovative organizations."
+      "snippet": "In collaboration with AstraZeneca, AWS, and NVIDIA, IonQ executed the largest quantum-accelerated electronic structure simulation performed to date. T"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://businessmodelcanvastemplate.com/blogs/target-market/ionq-target-market",
       "query": "IonQ, Inc. major customers clients",
-      "snippet": "Mar 18, 2026 · Who are IonQ 's core customers and target markets? IonQ has shifted from academic demonstrators to serving enterprises that need high-f"
+      "snippet": "Mar 18, 2026 · Who are IonQ ' s core customers and target markets? IonQ has shifted from academic demonstrators to serving enterprises that need high-"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://qz.com/what-s-driving-ionq-s-strong-and-robust-2026-outlook",
+      "query": "IonQ, Inc. major customers clients",
+      "snippet": "For 2026, IonQ IONQ expects revenues of $225-$245 million, supported by a growing customer base, a larger product portfolio and improving revenue visi"
     }
   ]
 }

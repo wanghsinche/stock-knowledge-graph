@@ -4,34 +4,33 @@
   "sector": "Technology",
   "industry": "Semiconductors",
   "upstream": [
-    "AMAT",
-    "ASML",
-    "LRCX",
-    "Tokyo Electron",
-    "KLA"
+    "TSM",
+    "005930.KS",
+    "SK Hynix",
+    "INTC",
+    "ASML"
   ],
   "downstream": [
+    "AAPL",
     "DELL",
     "HPQ",
-    "Lenovo Group",
-    "AAPL",
+    "Lenovo",
     "005930.KS"
   ],
   "competitors": [
     "005930.KS",
     "SK Hynix",
-    "Nanya Technology",
-    "WDC",
-    "SanDisk"
+    "INTC",
+    "Nanya Technology"
   ],
   "key_products": [
-    "Dynamic Random-Access Memory (DRAM)",
-    "NAND Flash Memory",
-    "Solid-State Drives (SSDs)",
-    "Memory Modules",
-    "Embedded Memory Solutions"
+    "DRAM",
+    "NAND flash memory",
+    "SSDs",
+    "memory modules",
+    "memory chips"
   ],
-  "extracted_at": "2026-04-15 16:53:30",
+  "extracted_at": "2026-04-16 17:03:56",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,25 +42,25 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Micron_Technology",
       "query": "Micron Technology, Inc. suppliers manufacturers",
-      "snippet": "3 days ago - In the 2012 to 2014 period, Micron again went through an acquisition-layoff cycle, becoming the majority shareholder of Inotera Memories,"
+      "snippet": "Micron Technology , Inc . is an American multinational semiconductor company that manufactures computer memory and computer data storage products, inc"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.micron.com/about/company/suppliers",
+      "url": "https://www.micron.com/",
       "query": "Micron Technology, Inc. suppliers manufacturers",
-      "snippet": "Micron is about people working together to build the next world-changing idea. Learn about supplier expectations, responsibility, supplier awards and "
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/MU-Customers",
-      "query": "Micron Technology, Inc. major customers clients",
-      "snippet": "Micron Technology Inc customers and markets, results by customer and performance relative to MU, by company and industry - CSIMarket"
+      "snippet": "Micron engineers advanced memory and storage solutions designed to meet the dynamic demands of industrial IoT and aerospace systems. Our technologies "
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.micron.com/markets-industries/customer-and-partner-storage-success",
       "query": "Micron Technology, Inc. major customers clients",
       "snippet": "Explore how Micron Technology collaborates with customers and partners to create storage solutions that enable the world's most advanced workloads."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://matrixbcg.com/blogs/target-market/micron",
+      "query": "Micron Technology, Inc. major customers clients",
+      "snippet": "Nov 12, 2025 · Discover who Micron' s target customers are. Learn how the company focuses on cloud providers, data centers, and enterprise clients to "
     }
   ]
 }

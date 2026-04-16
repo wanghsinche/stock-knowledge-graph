@@ -1,18 +1,18 @@
 ---
 ticker: NOW
 company: ServiceNow, Inc.
-sector: Technology
-industry: Software - Application
-extracted_at: 2026-04-15 16:59:50
-last_updated: 2026-04-15
+sector: Technology / Software - Application
+industry: Enterprise Software
+extracted_at: 2026-04-16 17:07:58
+last_updated: 2026-04-16
 ---
 
 # NOW - ServiceNow, Inc.
 
 ## 基本信息
 
-- **所属行业**: Technology / Software - Application
-- **提取时间**: 2026-04-15 16:59:50
+- **所属行业**: Technology / Software - Application / Enterprise Software
+- **提取时间**: 2026-04-16 17:07:58
 
 ## 产业链关系
 
@@ -25,33 +25,33 @@ last_updated: 2026-04-15
 
 ### 下游客户
 - [[Walmart]]
-- [[AT&T]]
-- [[Bank of America]]
 - [[JPMorgan Chase]]
-- [[UnitedHealth Group]]
+- [[AT&T]]
+- [[Verizon]]
+- [[Bank of America]]
 
 ### 竞争对手
 - [[CRM]]
 - [[MSFT]]
-- [[IBM]]
-- [[ORCL]]
 - [[SAP]]
+- [[ORCL]]
+- [[IBM]]
 
 ### 核心产品
-- [[ServiceNow IT Service Management]]
-- [[ServiceNow IT Operations Management]]
-- [[ServiceNow Customer Service Management]]
-- [[ServiceNow HR Service Delivery]]
-- [[ServiceNow Security Operations]]
+- [[IT Service Management (ITSM)]]
+- [[IT Operations Management (ITOM)]]
+- [[IT Business Management (ITBM)]]
+- [[Customer Service Management (CSM)]]
+- [[Now Platform]]
 
 ## 数据来源
 
 - [ServiceNow](https://en.wikipedia.org/wiki/ServiceNow,_Inc.)
-- [ServiceNow, Inc. suppliers manufacturers](https://www.servicenow.com/partners/partner-finder.html)
-- [ServiceNow, Inc. suppliers manufacturers](https://itcompanies.net/blog/top-servicenow-partners)
-- [ServiceNow, Inc. major customers clients](https://www.aventionmedia.com/technology-installed-base/servicenow/)
-- [ServiceNow, Inc. major customers clients](https://www.servicenow.com/customers.html)
+- [ServiceNow, Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/ServiceNow)
+- [ServiceNow, Inc. suppliers manufacturers](https://www.servicenow.com/company/supplier.html)
+- [ServiceNow, Inc. major customers clients](https://www.servicenow.com/)
+- [ServiceNow, Inc. major customers clients](https://www.g2.com/sellers/servicenow)
 
 ## 元数据
 
-- **更新日期**: 2026-04-15
+- **更新日期**: 2026-04-16

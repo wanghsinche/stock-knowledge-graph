@@ -4,33 +4,34 @@
   "sector": "Financial Services",
   "industry": "Banks - Diversified",
   "upstream": [
-    "Technology vendors",
-    "Software providers",
-    "Office equipment suppliers",
-    "Security services",
-    "Data center providers"
+    "MSFT",
+    "Cloud service providers (e.g., AWS, Azure)",
+    "Payment processors (e.g., Visa, Mastercard)",
+    "Cybersecurity firms (e.g., Palo Alto Networks)",
+    "DELL"
   ],
   "downstream": [
     "Retail banking customers",
-    "Small and medium enterprises",
-    "Large corporations",
+    "Small and medium-sized businesses",
+    "Large corporate clients",
     "Institutional investors",
-    "Government entities"
+    "Mortgage borrowers"
   ],
   "competitors": [
     "JPMorgan Chase",
     "Citigroup",
     "Wells Fargo",
-    "Goldman Sachs"
+    "Goldman Sachs",
+    "Morgan Stanley"
   ],
   "key_products": [
-    "Investment banking services",
     "Consumer banking services",
     "Wealth management",
-    "Credit cards",
+    "Investment banking",
+    "Credit card products",
     "Mortgage lending"
   ],
-  "extracted_at": "2026-04-15 16:57:21",
+  "extracted_at": "2026-04-16 17:11:56",
   "sources": [
     {
       "source": "Wikipedia",
@@ -40,9 +41,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Bank_of_America",
+      "url": "https://csimarket.com/stocks/BAC-Suppliers",
       "query": "Bank of America Corporation suppliers manufacturers",
-      "snippet": "The Bank of America Corporation (Bank of America ; often abbreviated BAC or BofA) is an American multinational investment bank and financial services "
+      "snippet": "Feb 26, 2026 · For your research, we’ve provided nine additional tables on Bank Of America Corporation ’ s suppliers . You can find them in the naviga"
     },
     {
       "source": "DuckDuckGo",
@@ -52,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Bank_of_America",
+      "url": "https://newsroom.bankofamerica.com/content/newsroom/company-overview/bank-of-america-fast-facts.html",
       "query": "Bank of America Corporation major customers clients",
-      "snippet": "It serves about 10 percent of all American bank deposits, in direct competition with JPMorgan Chase, Citigroup, and Wells Fargo. Its primary financial"
+      "snippet": "Feb 24, 2026 · Explore Bank of America Fast Facts for key insights on our global presence, financial services, client reach, and commitment to respons"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://newsroom.bankofamerica.com/content/newsroom/company-overview/bank-of-america-fast-facts.html",
+      "url": "https://csimarket.com/stocks/BAC-Customers",
       "query": "Bank of America Corporation major customers clients",
-      "snippet": "70 million clients, institutional investor, medium and large corporate clients globally. 3,600 financial centers and approximately 15,000 ATMs in more"
+      "snippet": "Apr 9, 2026 · For your research, we’ve provided 9 tables on Bank Of America Corporation corporate clients . You can find them in the navigation menu u"
     }
   ]
 }

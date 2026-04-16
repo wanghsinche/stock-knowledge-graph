@@ -3,11 +3,35 @@
   "company_name": "Corning Incorporated",
   "sector": "Technology",
   "industry": "Electronic Components",
-  "upstream": [],
-  "downstream": [],
-  "competitors": [],
-  "key_products": [],
-  "extracted_at": "2026-04-14 17:05:56",
+  "upstream": [
+    "Silica sand",
+    "Alumina",
+    "Boron oxide",
+    "Rare earth oxides",
+    "Chemical precursors for glass manufacturing"
+  ],
+  "downstream": [
+    "CAT",
+    "Mobile consumer electronics companies",
+    "Display technology producers",
+    "Life sciences and medical device manufacturers",
+    "Aerospace and defense contractors"
+  ],
+  "competitors": [
+    "Schott AG",
+    "Saint-Gobain",
+    "Lumentum Holdings",
+    "II-VI Incorporated",
+    "Corning’s own internal divisions (e.g., Corning Life Sciences)"
+  ],
+  "key_products": [
+    "Optical fiber and fiber optic components",
+    "High‑performance glass fibers for telecommunications",
+    "Display glass for smartphones and tablets",
+    "Advanced ceramics for industrial applications",
+    "Scientific and medical glassware"
+  ],
+  "extracted_at": "2026-04-16 17:08:24",
   "sources": [
     {
       "source": "Wikipedia",
@@ -17,15 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.corning.com/optical-communications/worldwide/en/home/support/authorized-distributors.html",
+      "url": "https://www.corning.com/worldwide/en/products/life-sciences/config/Distributors.html",
       "query": "Corning Incorporated suppliers manufacturers",
-      "snippet": "Find Corning authorized distributors and installers. Find information on our carrier or enterprise network distributors here."
+      "snippet": "Find an authorized Corning Life Sciences distributor with our worldwide list."
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.mouser.com/manufacturer/corning/",
       "query": "Corning Incorporated suppliers manufacturers",
-      "snippet": "Today, Corning ' s markets include optical communications, mobile consumer electronics, display technology, automotive, and life sciences vessels."
+      "snippet": "Today, Corning' s markets include optical communications, mobile consumer electronics, display technology, automotive, and life sciences vessels."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/Corning_Inc.",
+      "query": "Corning Incorporated major customers clients",
+      "snippet": "As of 2014, Corning had five major business sectors: display technologies, environmental technologies, life sciences, optical communications, and spec"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.corning.com/worldwide/en/about-us/corning-business-segments.html",
+      "query": "Corning Incorporated major customers clients",
+      "snippet": "Corning sells life sciences products under these primary brands: Corning® , Falcon®, PYREX®, Axygen®. The products are marketed globally, primarily th"
     }
   ]
 }

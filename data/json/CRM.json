@@ -4,25 +4,25 @@
   "sector": "Technology",
   "industry": "Software - Application",
   "upstream": [
-    "ExactTarget Inc.",
-    "ADBE",
-    "MSFT",
     "AMZN",
-    "GOOGL"
+    "MSFT",
+    "GOOGL",
+    "ORCL",
+    "IBM"
   ],
   "downstream": [
     "ADBE",
-    "AMZN",
     "Coca‑Cola",
-    "Delta Air Lines",
-    "Walmart"
+    "American Express",
+    "Toyota",
+    "Unilever"
   ],
   "competitors": [
     "MSFT",
-    "ORCL",
     "SAP SuccessFactors",
+    "ORCL",
     "HubSpot",
-    "Zoho CRM"
+    "Zendesk"
   ],
   "key_products": [
     "Sales Cloud",
@@ -31,7 +31,7 @@
     "Commerce Cloud",
     "Einstein AI"
   ],
-  "extracted_at": "2026-04-15 17:03:37",
+  "extracted_at": "2026-04-16 17:09:35",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,21 +47,21 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.salesforce.com/",
+      "url": "https://csimarket.com/stocks/CRM-Suppliers",
       "query": "Salesforce, Inc. suppliers manufacturers",
-      "snippet": "ExactTarget Inc ."
+      "snippet": "Salesforce Inc supply chain, list and performance of Salesforce Incs ' suppliers - CSIMarket."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Salesforce",
+      "url": "https://www.salesforce.com/customer-stories/",
       "query": "Salesforce, Inc. major customers clients",
-      "snippet": "Salesforce , Inc ., is an American cloud-based software company headquartered in San Francisco, California. It provides applications focused on sales "
+      "snippet": "Discover how Salesforce helps 150,000+ companies increase productivity, customer loyalty, and sales revenue — every day."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.salesforce.com/",
+      "url": "https://www.ibirdsservices.com/how-many-companies-use-salesforce-stats-growth-report/",
       "query": "Salesforce, Inc. major customers clients",
-      "snippet": "Salesforce Enterprise-grade CRM with deep reporting, sales operations, and..."
+      "snippet": "Dec 26, 2025 · As of 2025, Salesforce is used by over 150,000 companies worldwide. Its customers include startups, mid-sized businesses, and more than"
     }
   ]
 }

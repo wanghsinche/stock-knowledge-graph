@@ -3,8 +3,8 @@ ticker: MRVL
 company: Marvell Technology, Inc.
 sector: Technology
 industry: Semiconductors
-extracted_at: 2026-04-15 16:58:29
-last_updated: 2026-04-15
+extracted_at: 2026-04-16 17:07:09
+last_updated: 2026-04-16
 ---
 
 # MRVL - Marvell Technology, Inc.
@@ -12,46 +12,46 @@ last_updated: 2026-04-15
 ## 基本信息
 
 - **所属行业**: Technology / Semiconductors
-- **提取时间**: 2026-04-15 16:58:29
+- **提取时间**: 2026-04-16 17:07:09
 
 ## 产业链关系
 
 ### 上游供应商
-- [[TSM]]
-- [[005930.KS]]
-- [[GlobalFoundries]]
-- [[UMC]]
-- [[ASML]]
+- [[AMAT]]
+- [[Raw material suppliers (e.g., silicon wafer producers)]]
+- [[Electronic design automation (EDA) tool vendors (e.g., Cadence, Synopsys)]]
+- [[IP licensing firms (e.g., ARM, Xilinx)]]
+- [[Packaging and testing service providers]]
 
 ### 下游客户
-- [[AAPL]]
 - [[CSCO]]
-- [[Huawei]]
-- [[DELL]]
-- [[Lenovo]]
+- [[AAPL]]
+- [[MSFT]]
+- [[TSLA]]
+- [[JNPR]]
 
 ### 竞争对手
 - [[AVGO]]
 - [[QCOM]]
 - [[INTC]]
-- [[MediaTek]]
-- [[NVDA]]
+- [[TXN]]
+- [[MediaTek Inc.]]
 
 ### 核心产品
-- [[5G modems and SoCs]]
-- [[Wi‑Fi 6/7 and Bluetooth combo chips]]
-- [[Ethernet PHYs and controllers (10G/25G/40G)]]
-- [[NVMe and SATA storage controllers]]
-- [[Data‑center networking ASICs]]
+- [[Storage controller chips]]
+- [[Network processors and Ethernet controllers]]
+- [[Wireless LAN and 5G modem solutions]]
+- [[System‑on‑chip (SoC) solutions for automotive and industrial use]]
+- [[Data‑center interconnect and optical networking components]]
 
 ## 数据来源
 
 - [Marvell Technology](https://en.wikipedia.org/wiki/Marvell_Technology,_Inc.)
 - [Marvell Technology, Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/Marvell_Technology)
-- [Marvell Technology, Inc. suppliers manufacturers](https://csimarket.com/stocks/MRVL-Suppliers)
+- [Marvell Technology, Inc. suppliers manufacturers](https://www.marvell.com/company/sales.html)
 - [Marvell Technology, Inc. major customers clients](https://en.wikipedia.org/wiki/Marvell_Technology)
 - [Marvell Technology, Inc. major customers clients](https://www.marvell.com/)
 
 ## 元数据
 
-- **更新日期**: 2026-04-15
+- **更新日期**: 2026-04-16

@@ -3,8 +3,8 @@ ticker: ORCL
 company: Oracle Corporation
 sector: Technology
 industry: Software - Infrastructure
-extracted_at: 2026-04-15 16:54:53
-last_updated: 2026-04-15
+extracted_at: 2026-04-16 17:04:35
+last_updated: 2026-04-16
 ---
 
 # ORCL - Oracle Corporation
@@ -12,7 +12,7 @@ last_updated: 2026-04-15
 ## 基本信息
 
 - **所属行业**: Technology / Software - Infrastructure
-- **提取时间**: 2026-04-15 16:54:53
+- **提取时间**: 2026-04-16 17:04:35
 
 ## 产业链关系
 
@@ -20,38 +20,38 @@ last_updated: 2026-04-15
 - [[INTC]]
 - [[AMD]]
 - [[NVDA]]
+- [[IBM]]
 - [[DELL]]
-- [[HPQ]]
 
 ### 下游客户
 - [[JPMorgan Chase]]
+- [[Bank of America]]
+- [[Walmart]]
 - [[AT&T]]
 - [[Verizon]]
-- [[Walmart]]
-- [[Bank of America]]
 
 ### 竞争对手
 - [[MSFT]]
 - [[AMZN]]
 - [[IBM]]
 - [[SAP]]
-- [[CRM]]
+- [[GOOGL]]
 
 ### 核心产品
 - [[Oracle Database]]
 - [[Oracle Cloud Infrastructure]]
+- [[Oracle E-Business Suite]]
+- [[Oracle Fusion Applications]]
 - [[Oracle Autonomous Database]]
-- [[Oracle ERP Cloud]]
-- [[Oracle Analytics Cloud]]
 
 ## 数据来源
 
 - [Oracle Corporation](https://en.wikipedia.org/wiki/Oracle_Corporation)
-- [Oracle Corporation suppliers manufacturers](https://en.wikipedia.org/wiki/List_of_acquisitions_by_Oracle)
-- [Oracle Corporation suppliers manufacturers](https://www.oracle.com/corporate/suppliers/)
+- [Oracle Corporation suppliers manufacturers](https://en.wikipedia.org/wiki/Oracle_Corporation)
+- [Oracle Corporation suppliers manufacturers](https://ru.wikipedia.org/wiki/Oracle)
 - [Oracle Corporation major customers clients](https://en.wikipedia.org/wiki/Oracle_Corporation)
 - [Oracle Corporation major customers clients](https://www.oracle.com/corporate/)
 
 ## 元数据
 
-- **更新日期**: 2026-04-15
+- **更新日期**: 2026-04-16

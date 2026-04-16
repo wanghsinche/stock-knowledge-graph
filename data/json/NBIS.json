@@ -5,33 +5,33 @@
   "industry": "Internet Content & Information",
   "upstream": [
     "NVDA",
-    "AMD",
     "INTC",
-    "QCOM",
-    "GOOGL"
+    "AMD",
+    "Xilinx",
+    "QCOM"
   ],
   "downstream": [
-    "INTC",
-    "US Department of Defense",
-    "NASA",
-    "MSFT",
-    "AMZN"
+    "U.S. Department of Defense",
+    "European Union security agencies",
+    "Private security firms",
+    "Corporate security departments",
+    "Law enforcement agencies"
   ],
   "competitors": [
     "NVDA",
-    "AMD",
     "INTC",
+    "AMD",
     "GOOGL",
     "AMZN"
   ],
   "key_products": [
-    "AI infrastructure platform",
+    "Artificial intelligence infrastructure",
     "Avride",
     "TripleTen",
     "Toloka",
     "Clickhouse"
   ],
-  "extracted_at": "2026-04-15 16:59:17",
+  "extracted_at": "2026-04-16 17:07:18",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Nebius_Group",
+      "url": "https://csimarket.com/stocks/NBIS-Suppliers",
       "query": "NBIS suppliers manufacturers",
-      "snippet": "Nebius Group N.V., headquartered in Amsterdam, is a technology company that provides artificial intelligence infrastructure. The company also owns Avr"
+      "snippet": "May 3, 2025 · For your research, we’ve provided nine additional tables on Nebius Group n v ’s suppliers . You can find them in the navigation menu und"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://northwiseproject.com/nbis-alabama-data-center/",
+      "url": "https://stockrow.com/NBIS/business-profile",
       "query": "NBIS suppliers manufacturers",
-      "snippet": "A technical and strategic deep dive into NBIS Alabama Data Center: 300MW Birmingham AI factory and its role in the Southeastern AI infrastructure buil"
+      "snippet": "Discover the comprehensive business profile of Nebius Group N.V. ( NBIS ), a global leader in cloud computing and digital transformation services. Lea"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.dcsa.mil/Systems-Applications/National-Background-Investigation-Services-NBIS/",
       "query": "NBIS major customers clients",
-      "snippet": "The purpose of NBIS is to modernize, streamline and secure the entire process to enhance the user experience and provide a reliable and integrated set"
+      "snippet": "NBIS Agency is the application allowing Security Managers, Special Security Officers, and Facility Security Officers (FSO) to process background appli"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.dote.osd.mil/Portals/97/pub/reports/FY2024/dod/2024nbis.pdf?ver=XRh6KdVyObJICiJU3oaHRA==",
       "query": "NBIS major customers clients",
-      "snippet": "Jan 31, 2025 · MISSION The Defense Counterintelligence and Security Agency (DCSA), other Federal agencies, and industry partners will use NBIS to auth"
+      "snippet": "Jan 31, 2025 · NBIS applications are integrated in a common architecture to support data gathering, storage, and management of data associated with pe"
     }
   ]
 }

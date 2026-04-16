@@ -4,34 +4,34 @@
   "sector": "Consumer Cyclical",
   "industry": "Internet Retail",
   "upstream": [
-    "Nike",
     "AAPL",
+    "Nike Inc.",
     "005930.KS",
     "SONY",
     "MSFT"
   ],
   "downstream": [
     "AMZN",
-    "US consumers",
-    "UK consumers",
-    "India consumers",
-    "Global consumers"
+    "AWS enterprise customers",
+    "Marketplace sellers",
+    "Retail consumers",
+    "Corporate clients"
   ],
   "competitors": [
     "Walmart",
     "eBay",
     "Alibaba",
     "Target",
-    "Best Buy"
+    "Shopify"
   ],
   "key_products": [
-    "Amazon.com marketplace",
-    "Amazon Prime",
-    "Amazon Web Services",
-    "Amazon Echo/Alexa",
+    "Amazon.com e‑commerce platform",
+    "Amazon Web Services (AWS)",
+    "Amazon Prime Video",
+    "Amazon Echo (Alexa)",
     "Amazon Kindle"
   ],
-  "extracted_at": "2026-04-15 16:54:40",
+  "extracted_at": "2026-04-16 17:04:47",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://awesomers.com/amazon-supply-chain",
+      "url": "https://www.alibaba.com/",
       "query": "Amazon.com, Inc. suppliers manufacturers",
-      "snippet": "Amazon has released a list of its top 1000 suppliers and factories from around the world. This information became public as a part of an SEC disclosur"
+      "snippet": "Find quality Manufacturers , Suppliers , Exporters, Importers, Buyers, Wholesalers, Products and Trade Leads from our award-winning International Trad"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://d39w7f4ix9f5s9.cloudfront.net/cb/19/77dfc5b441c892cd6e2be166ba70/final-amazon-supplier-list-2019-11-14-updated-1005am.pdf",
+      "url": "https://www.amazon.com/home-garden-kitchen-furniture-bedding/b?ie=UTF8&node=1055398",
       "query": "Amazon.com, Inc. suppliers manufacturers",
-      "snippet": "The facilities listed produce Amazon-branded apparel, consumer electronics, and home goods products. This list was last updated November 2019 and is s"
+      "snippet": "Shop a wide selection of products for your home at Amazon . com . Free shipping and free returns on eligible items."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://capitaloneshopping.com/research/amazon-statistics/",
+      "url": "https://en.wikipedia.org/wiki/Amazon_(company)",
       "query": "Amazon.com, Inc. major customers clients",
-      "snippet": "Mar 29, 2026 · Statistics & analysis on Amazon including total sales (per year & minute), number of products (SKUs), customers , sellers & more."
+      "snippet": "It is mostly known as the world's biggest online shopping retailer and marketplace, best known for a wide range of products and supplying multiple ser"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.historytools.org/consumer/amazon-target-market",
+      "url": "https://www.aboutamazon.com/news/workplace/fortune-magazine-admired-companies-list-amazon",
       "query": "Amazon.com, Inc. major customers clients",
-      "snippet": "Aug 24, 2024 · Even though Amazon is a huge company, you may be curious about the specific market the leading retailer targets. Here's Amazon target m"
+      "snippet": "Jan 21, 2026 · Amazon ranked third on Fortune magazine's 2026 list of the World's Most Admired Companies, which marked the company's 10th consecutive "
     }
   ]
 }

@@ -4,37 +4,34 @@
   "sector": "Technology",
   "industry": "Consumer Electronics",
   "upstream": [
-    "Molex",
-    "Murata Manufacturing",
-    "Nichia",
-    "Nidec",
-    "TDK"
+    "Foxconn",
+    "TSM",
+    "005930.KS",
+    "QRVO",
+    "SWKS"
   ],
   "downstream": [
-    "iPhone users",
-    "iPad users",
-    "Mac users",
+    "iPhone",
+    "iPad",
+    "IBM",
     "AAPL",
-    "AAPL"
+    "AirPods"
   ],
   "competitors": [
     "005930.KS",
     "GOOGL",
     "MSFT",
-    "SONY",
-    "Xiaomi"
+    "AMZN",
+    "Huawei"
   ],
   "key_products": [
     "iPhone",
     "iPad",
-    "Mac",
+    "MacBook",
     "Apple Watch",
-    "Apple TV",
-    "AirPods",
-    "Apple Music",
-    "iCloud"
+    "AirPods"
   ],
-  "extracted_at": "2026-04-15 16:54:16",
+  "extracted_at": "2026-04-16 17:04:23",
   "sources": [
     {
       "source": "Wikipedia",
@@ -44,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Template:Apple_Inc._suppliers",
+      "url": "https://en.wikipedia.org/wiki/Apple_supply_chain",
       "query": "Apple Inc. suppliers manufacturers",
-      "snippet": "Molex. Murata Manufacturing . Nichia. Nidec. Supplier lists. Supply Chain Innovation Reports."
+      "snippet": "5 days ago - It has also attempted to introduce ... countries. The majority of assembling is done by Taiwanese original design manufacturer firms Foxc"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.alibaba.com/",
+      "url": "https://www.investopedia.com/articles/investing/090315/10-major-companies-tied-apple-supply-chain.asp",
       "query": "Apple Inc. suppliers manufacturers",
-      "snippet": "Find quality Manufacturers , Suppliers , Exporters, Importers, Buyers, Wholesalers, Products and Trade Leads from our award-winning International Trad"
+      "snippet": "November 13, 2025 - Other U.S. companies also include Qorvo (QRVO), Skyworks (SWKS), and Corning (GLW). Broadcom helps Apple produce chips and compone"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Apple_Inc.",
       "query": "Apple Inc. major customers clients",
-      "snippet": "Apple Inc . is an American multinational technology company headquartered in Cupertino, California, in Silicon Valley, best known for its consumer ele"
+      "snippet": "Apple's product lineup includes portable and home hardware like the iPhone, iPad, Mac, Apple Watch, and AirPods; several in-house operating systems su"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.nbcnews.com/business/business-news/american-companies-most-customers-flna752756",
+      "url": "https://www.apple.com/business/small-business/success-stories/",
       "query": "Apple Inc. major customers clients",
-      "snippet": "Customers : 225 million. Industry: e-commerce. Parent company: Apple Inc . Major competitors: Amazon.com, eBay, PayPal. There are at least 225 million"
+      "snippet": "Read the success stories of how small businesses use Apple technology to optimize and scale seamlessly and securely. Missing: major | Show results wit"
     }
   ]
 }

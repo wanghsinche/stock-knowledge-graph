@@ -2,47 +2,47 @@
 ticker: HOOD
 company: Robinhood Markets, Inc.
 sector: Financial Services
-industry: Online Brokerage / Capital Markets
-extracted_at: 2026-04-15 16:55:23
-last_updated: 2026-04-15
+industry: Capital Markets
+extracted_at: 2026-04-16 17:05:49
+last_updated: 2026-04-16
 ---
 
 # HOOD - Robinhood Markets, Inc.
 
 ## 基本信息
 
-- **所属行业**: Financial Services / Online Brokerage / Capital Markets
-- **提取时间**: 2026-04-15 16:55:23
+- **所属行业**: Financial Services / Capital Markets
+- **提取时间**: 2026-04-16 17:05:49
 
 ## 产业链关系
 
 ### 上游供应商
-- [[MSFT]]
-- [[Market data providers (e.g., Bloomberg, Refinitiv)]]
-- [[Technology vendors (software development firms)]]
-- [[Payment processors (e.g., Stripe, PayPal)]]
-- [[Regulatory compliance service providers]]
+- [[Bloomberg]]
+- [[Refinitiv]]
+- [[AMZN]]
+- [[Stripe]]
+- [[Plaid]]
 
 ### 下游客户
 - [[Retail investors]]
-- [[High-net-worth individuals]]
-- [[Institutional clients (e.g., hedge funds)]]
-- [[Financial advisors]]
-- [[Retail traders using the Robinhood app]]
+- [[High‑frequency traders]]
+- [[Institutional clients]]
+- [[Crypto traders]]
+- [[Margin borrowers]]
 
 ### 竞争对手
-- [[Charles Schwab]]
-- [[TD Ameritrade]]
-- [[Fidelity]]
-- [[E*TRADE]]
 - [[Webull]]
+- [[eToro]]
+- [[Fidelity]]
+- [[Charles Schwab]]
+- [[Interactive Brokers]]
 
 ### 核心产品
-- [[Commission‑free stock trading platform]]
+- [[Commission‑free stock trading]]
+- [[Robinhood Gold (margin & options)]]
+- [[Crypto trading]]
+- [[Cash Management]]
 - [[Options trading]]
-- [[Cryptocurrency trading]]
-- [[Margin trading]]
-- [[Cash management and interest‑earning accounts]]
 
 ## 数据来源
 
@@ -54,4 +54,4 @@ last_updated: 2026-04-15
 
 ## 元数据
 
-- **更新日期**: 2026-04-15
+- **更新日期**: 2026-04-16

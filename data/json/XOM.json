@@ -4,23 +4,23 @@
   "sector": "Energy",
   "industry": "Oil & Gas Integrated",
   "upstream": [
-    "Saudi Aramco",
-    "Rosneft",
-    "Gazprom",
-    "PetroChina",
-    "Sinopec"
+    "Crude oil suppliers",
+    "Natural gas producers",
+    "Petrochemical feedstock providers",
+    "Equipment manufacturers (drilling rigs, pipelines)",
+    "Technology & services firms (exploration & production software)"
   ],
   "downstream": [
-    "General Motors",
-    "Ford",
-    "Toyota",
-    "Volkswagen",
-    "Daimler"
+    "Retail gasoline stations",
+    "Airlines (jet fuel)",
+    "Automotive manufacturers (lubricants)",
+    "Industrial petrochemical plants",
+    "Consumer goods companies (plastic products)"
   ],
   "competitors": [
     "Chevron",
-    "Shell",
     "BP",
+    "Shell",
     "TotalEnergies",
     "ConocoPhillips"
   ],
@@ -29,9 +29,12 @@
     "Natural gas",
     "Gasoline",
     "Diesel",
-    "Petrochemicals"
+    "Jet fuel",
+    "Lubricants (Mobil 1)",
+    "Petrochemicals (plastic, synthetic rubber)",
+    "Synthetic motor oils"
   ],
-  "extracted_at": "2026-04-15 17:03:49",
+  "extracted_at": "2026-04-16 17:11:30",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,15 +44,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://corporate.exxonmobil.com/procurement/exxonmobil-for-suppliers",
+      "url": "https://en.wikipedia.org/wiki/ExxonMobil",
       "query": "Exxon Mobil Corporation suppliers manufacturers",
-      "snippet": "Learn about our supplier ’s collaboration portal, which provides suppliers with access to collaborate with us, view invoices, report issues, & submit "
+      "snippet": "Exxon Mobil Corporation . Floating cube at ExxonMobil headquarters in Spring, Texas."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.volza.com/p/exxon-mobil/manufacturers/",
+      "url": "https://corporate.exxonmobil.com/procurement/exxonmobil-for-suppliers",
       "query": "Exxon Mobil Corporation suppliers manufacturers",
-      "snippet": "Find Economical Suppliers of Exxon Mobil : 166 Manufacturers based on Export data till Feb-26: Pricing, Qty, Buyers & Contacts. Find an authorized Exx"
+      "snippet": "Learn about our supplier ’s collaboration portal, which provides suppliers with access to collaborate with us, view invoices, report issues, & submit "
     },
     {
       "source": "DuckDuckGo",

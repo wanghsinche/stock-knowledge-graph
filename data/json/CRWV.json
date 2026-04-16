@@ -2,36 +2,36 @@
   "ticker": "CRWV",
   "company_name": "CoreWeave, Inc.",
   "sector": "Technology / Software - Infrastructure",
-  "industry": "Artificial Intelligence Cloud Computing",
+  "industry": "AI Cloud Computing / GPU Infrastructure",
   "upstream": [
     "NVDA",
     "AMD",
     "INTC",
-    "QCOM",
-    "Chirisa Technology Parks"
+    "TSM",
+    "005930.KS"
   ],
   "downstream": [
     "OpenAI",
-    "DeepMind",
-    "MSFT",
-    "AMZN",
-    "GOOGL"
+    "Mistral AI",
+    "IBM",
+    "META",
+    "AMZN"
   ],
   "competitors": [
+    "GOOGL",
     "AMZN",
     "MSFT",
-    "GOOGL",
-    "NVDA",
-    "IBM"
+    "Lambda Labs",
+    "Paperspace"
   ],
   "key_products": [
-    "GPU-based AI cloud infrastructure",
-    "GPU compute instances",
-    "AI cloud platform",
-    "chip management software",
-    "data center services"
+    "GPU Cloud Infrastructure",
+    "GPU-as-a-Service",
+    "AI Compute Clusters",
+    "GPU Management Software",
+    "Custom AI Workload Solutions"
   ],
-  "extracted_at": "2026-04-15 16:56:05",
+  "extracted_at": "2026-04-16 17:06:58",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,21 +47,21 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.datacenterfrontier.com/energy/article/55127752/coreweave-chirisa-illinois-data-center-project-taps-bloom-energy-for-fuel-cell-power-leans-into-microgrids",
+      "url": "https://www.coreweave.com/",
       "query": "CoreWeave, Inc. suppliers manufacturers",
-      "snippet": "Jul 22, 2024 · Chirisa Technology Parks CTP-01 data center in Chesterfield, Virginia. Bloom Energy will now supply solid oxide fuel cell energy techno"
+      "snippet": "From leading AI labs like OpenAI and Mistral AI to global giants like IBM, the world’s most ambitious AI innovators build on CoreWeave . Explore how t"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/CoreWeave",
       "query": "CoreWeave, Inc. major customers clients",
-      "snippet": "CoreWeave , Inc . is an American artificial intelligence (AI) cloud-computing company based in Livingston, New Jersey. It specializes in providing clo"
+      "snippet": "CoreWeave , Inc . is an American artificial intelligence cloud-computing company based in Livingston, New Jersey. It specializes in providing cloud-ba"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.coreweave.com/case-studies",
+      "url": "https://www.fool.com/investing/2026/03/31/coreweave-stock-beware-of-the-threat-lurking/",
       "query": "CoreWeave, Inc. major customers clients",
-      "snippet": "Customer stories Where Customers Become Pioneers Discover how CoreWeave customers transform ambition into achievement. These pioneers are shaping the "
+      "snippet": "These companies are building their own data centers while incorporating CoreWeave compute to scale their capabilities faster amid rampant AI-driven de"
     }
   ]
 }
