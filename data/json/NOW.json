@@ -1,8 +1,8 @@
 {
   "ticker": "NOW",
   "company_name": "ServiceNow, Inc.",
-  "sector": "Technology / Software - Application",
-  "industry": "Enterprise Software",
+  "sector": "Technology",
+  "industry": "Software - Application",
   "upstream": [
     "AMZN",
     "MSFT",
@@ -13,25 +13,25 @@
   "downstream": [
     "Walmart",
     "JPMorgan Chase",
-    "AT&T",
-    "Verizon",
-    "Bank of America"
+    "Coca‑Cola",
+    "Bank of America",
+    "UnitedHealth Group"
   ],
   "competitors": [
     "CRM",
     "MSFT",
-    "SAP",
-    "ORCL",
-    "IBM"
+    "SAP SuccessFactors",
+    "IBM",
+    "ORCL"
   ],
   "key_products": [
-    "IT Service Management (ITSM)",
+    "Now Platform (IT Service Management)",
     "IT Operations Management (ITOM)",
     "IT Business Management (ITBM)",
     "Customer Service Management (CSM)",
-    "Now Platform"
+    "HR Service Delivery"
   ],
-  "extracted_at": "2026-04-16 17:07:58",
+  "extracted_at": "2026-04-17 16:53:37",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/ServiceNow",
-      "query": "ServiceNow, Inc. suppliers manufacturers",
-      "snippet": "ServiceNow , Inc . is an American software company that supplies a cloud computing platform for the creation and management of automated business work"
-    },
-    {
-      "source": "DuckDuckGo",
       "url": "https://www.servicenow.com/company/supplier.html",
       "query": "ServiceNow, Inc. suppliers manufacturers",
       "snippet": "ServiceNow partners with capable and competitive suppliers who commit to diversity, sustainability, and best-in-class goods and services. Learn more h"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.servicenow.com/",
-      "query": "ServiceNow, Inc. major customers clients",
-      "snippet": "Put AI to workfor people customers employees developers people ServiceNow unites data, AI, workflows, and security on a single platform so AI doesn't "
+      "url": "https://csimarket.com/stocks/NOW-Suppliers",
+      "query": "ServiceNow, Inc. suppliers manufacturers",
+      "snippet": "Jan 29, 2026 · Servicenow Inc supply chain, list and performance of Servicenow Incs ' suppliers - CSIMarket"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.g2.com/sellers/servicenow",
+      "url": "https://www.servicenow.com/",
       "query": "ServiceNow, Inc. major customers clients",
-      "snippet": "ServiceNow Customer Service Management. 255 reviews.I like how ServiceNow Customer Service Management helps us handle customer issues all in one place"
+      "snippet": "Customer Service Management. Empower self- service , boost agent productivity, and speed up resolution.AI Agent Stories. Learn how ServiceNow customer"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.fool.com/investing/2026/04/09/the-saaspocalypse-made-servicenow-stock-a-bargain/",
+      "query": "ServiceNow, Inc. major customers clients",
+      "snippet": "Customers don't need to bother with setting up AI agents when ServiceNow seamlessly delivers the technology. More importantly, the company possesses d"
     }
   ]
 }

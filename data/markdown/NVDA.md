@@ -3,8 +3,8 @@ ticker: NVDA
 company: NVIDIA Corporation
 sector: Technology
 industry: Semiconductors
-extracted_at: 2026-04-16 17:03:29
-last_updated: 2026-04-16
+extracted_at: 2026-04-17 16:43:21
+last_updated: 2026-04-17
 ---
 
 # NVDA - NVIDIA Corporation
@@ -12,46 +12,46 @@ last_updated: 2026-04-16
 ## 基本信息
 
 - **所属行业**: Technology / Semiconductors
-- **提取时间**: 2026-04-16 17:03:29
+- **提取时间**: 2026-04-17 16:43:21
 
 ## 产业链关系
 
 ### 上游供应商
 - [[TSM]]
 - [[005930.KS]]
-- [[MU]]
-- [[SK Hynix]]
-- [[AVGO]]
+- [[GlobalFoundries]]
+- [[UMC]]
+- [[SMIC]]
 
 ### 下游客户
 - [[SONY]]
 - [[MSFT]]
-- [[DELL]]
 - [[AMZN]]
+- [[GOOGL]]
 - [[TSLA]]
 
 ### 竞争对手
 - [[AMD]]
 - [[INTC]]
 - [[QCOM]]
-- [[AAPL]]
-- [[ARM Holdings]]
+- [[AVGO]]
+- [[ARM]]
 
 ### 核心产品
 - [[GeForce RTX GPUs]]
-- [[Quadro RTX GPUs]]
-- [[Tesla AI GPUs]]
-- [[Jetson SoCs]]
-- [[CUDA API]]
+- [[NVIDIA A100 Tensor Core GPU]]
+- [[NVIDIA H100 Tensor Core GPU]]
+- [[NVIDIA Drive PX automotive platform]]
+- [[NVIDIA Jetson AI platform]]
 
 ## 数据来源
 
 - [Nvidia](https://en.wikipedia.org/wiki/NVIDIA_Corporation)
 - [NVIDIA Corporation suppliers manufacturers](https://en.wikipedia.org/wiki/Nvidia)
-- [NVIDIA Corporation suppliers manufacturers](https://www.investing.com/equities/nvidia-corp)
-- [NVIDIA Corporation major customers clients](https://www.fool.com/investing/2025/06/26/who-are-nvidias-biggest-customers/)
-- [NVIDIA Corporation major customers clients](https://www.fool.com/investing/2024/05/02/who-are-nvidias-largest-customers/)
+- [NVIDIA Corporation suppliers manufacturers](https://finance.yahoo.com/quote/NVDA/)
+- [NVIDIA Corporation major customers clients](https://en.wikipedia.org/wiki/Nvidia)
+- [NVIDIA Corporation major customers clients](https://qz.com/nvidia-ai-chips-customers-google-microsoft-meta-amazon-1851653971)
 
 ## 元数据
 
-- **更新日期**: 2026-04-16
+- **更新日期**: 2026-04-17

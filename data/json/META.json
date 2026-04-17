@@ -4,34 +4,30 @@
   "sector": "Communication Services",
   "industry": "Internet Content & Information",
   "upstream": [
-    "INTC",
-    "AMD",
-    "NVDA",
-    "AMZN",
-    "GOOGL"
+    "Goertek"
   ],
   "downstream": [
-    "Global advertisers (brands, agencies)",
-    "META",
-    "Content creators (influencers, media partners)",
-    "META",
-    "META"
+    "Advertisers on Facebook",
+    "Advertisers on Instagram",
+    "Advertisers on WhatsApp",
+    "Advertisers on Messenger",
+    "Advertisers on Threads"
   ],
   "competitors": [
     "GOOGL",
     "AMZN",
     "AAPL",
     "MSFT",
-    "ByteDance Ltd. (TikTok)"
+    "Twitter (X)"
   ],
   "key_products": [
     "Facebook",
     "Instagram",
     "WhatsApp",
     "Messenger",
-    "Meta Ads Platform"
+    "Meta Quest VR"
   ],
-  "extracted_at": "2026-04-16 17:06:00",
+  "extracted_at": "2026-04-17 16:45:13",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,25 +39,25 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Meta_Platforms",
       "query": "Meta Platforms, Inc. suppliers manufacturers",
-      "snippet": "Meta owns and operates several prominent social media platforms and communication services, including Facebook, Instagram, WhatsApp, Messenger, Thread"
+      "snippet": "Meta Platforms , Inc . is an American multinational technology company headquartered in Menlo Park, California. Meta owns and operates several promine"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/META-Suppliers",
+      "url": "https://www.ft.com/content/b397f80d-5772-483b-9e48-b9fa83279c75?syn-25a6b1a6=1",
       "query": "Meta Platforms, Inc. suppliers manufacturers",
-      "snippet": "Mar 3, 2026 · For your research, we’ve provided nine additional tables on Meta Platforms Inc ’ s suppliers . You can find them in the navigation menu "
+      "snippet": "Goertek manufactures Meta ’s virtual reality Quest headsets and its popular Ray-Ban smart glasses, while providing some components to the company. Met"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Meta_Platforms",
+      "url": "https://ru.wikipedia.org/wiki/Meta_Platforms",
       "query": "Meta Platforms, Inc. major customers clients",
-      "snippet": "Meta owns and operates several prominent social media platforms and communication services, including Facebook, Instagram, WhatsApp, Messenger, Thread"
+      "snippet": "Meta Platforms , Inc . — американская транснациональная холдинговая компания, владеющая технологическим конгломератом и расположенная в Менло-Парке, К"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/META-Customers",
+      "url": "https://www.computerhope.com/comp/meta.htm",
       "query": "Meta Platforms, Inc. major customers clients",
-      "snippet": "For your research, we’ve provided 9 tables on Meta Platforms Inc corporate clients . You can find them in the navigation menu under Customers & Market"
+      "snippet": "Meta Platforms Inc 1 Hacker Way Menlo Park, California 94025. Stock: MVRS (formerly FB)."
     }
   ]
 }

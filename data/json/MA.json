@@ -2,36 +2,36 @@
   "ticker": "MA",
   "company_name": "Mastercard Incorporated",
   "sector": "Financial Services",
-  "industry": "Credit Services",
+  "industry": "Payment Services",
   "upstream": [
-    "Chip and card manufacturing suppliers (e.g., Gemalto, IDTech)",
-    "Payment network infrastructure providers",
-    "Software vendors for transaction processing",
-    "Security and fraud‑prevention technology firms",
-    "Data center and cloud service providers"
+    "NXP Semiconductors",
+    "STMicroelectronics",
+    "005930.KS",
+    "IDEMIA",
+    "Gemalto (Thales)"
   ],
   "downstream": [
-    "Commercial banks and credit unions",
-    "Retail merchants and e‑commerce platforms",
-    "Financial institutions issuing Mastercard‑branded cards",
-    "Payment processors and acquirers",
-    "Mobile wallet and fintech partners"
+    "Major banks (e.g., JPMorgan Chase, Bank of America, Citibank)",
+    "AMZN",
+    "E‑commerce platforms (e.g., Shopify, eBay)",
+    "Payment service providers (e.g., PayPal, Stripe)",
+    "Financial institutions (e.g., HSBC, Barclays)"
   ],
   "competitors": [
     "Visa Inc.",
-    "American Express Co.",
-    "Discover Financial Services",
-    "UnionPay",
-    "PayPal"
+    "American Express",
+    "Discover Financial",
+    "JCB Co.",
+    "UnionPay"
   ],
   "key_products": [
-    "Payment transaction processing network",
-    "Credit, debit, and prepaid card issuance",
-    "Fraud detection and risk management solutions",
-    "Data analytics and reporting services",
-    "Mobile wallet and contactless payment technology"
+    "Payment processing network",
+    "Credit card services",
+    "Debit card services",
+    "Prepaid card services",
+    "Digital payment solutions (e.g., PayPass, Digital Enablement Service)"
   ],
-  "extracted_at": "2026-04-13 17:06:04",
+  "extracted_at": "2026-04-17 16:53:00",
   "sources": [
     {
       "source": "Wikipedia",
@@ -55,13 +55,13 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Mastercard",
       "query": "Mastercard Incorporated major customers clients",
-      "snippet": "Mastercard Inc . is an American multinational payment card services corporation headquartered in Purchase, New York. It offers a range of payment tran"
+      "snippet": "Throughout the world, its principal business is to process payments between the banks of merchants and the card-issuing banks or credit unions of the "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.foxbusiness.com/markets/5-things-you-didnt-know-about-mastercard-inc",
+      "url": "https://www.mastercard.com/us/en/business/consumer-acquisition-and-engagement.html",
       "query": "Mastercard Incorporated major customers clients",
-      "snippet": "Mastercard 's history and business model is more interesting and nuanced than you might think. And, for long term investors, the ride has been thrilli"
+      "snippet": "Mastercard Customer Acquisition & Engagement delivers moments that matter to better acquire, engage and retain customers. Missing: Incorporated | Show"
     }
   ]
 }

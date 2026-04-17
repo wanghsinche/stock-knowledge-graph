@@ -1,37 +1,37 @@
 {
   "ticker": "AMZN",
   "company_name": "Amazon.com, Inc.",
-  "sector": "Consumer Cyclical",
-  "industry": "Internet Retail",
+  "sector": "Consumer Cyclical / Internet Retail",
+  "industry": "Consumer Cyclical / Internet Retail",
   "upstream": [
     "AAPL",
-    "Nike Inc.",
     "005930.KS",
+    "Nike",
     "SONY",
-    "MSFT"
+    "DELL"
   ],
   "downstream": [
     "AMZN",
-    "AWS enterprise customers",
-    "Marketplace sellers",
     "Retail consumers",
-    "Corporate clients"
+    "Business customers",
+    "Enterprise clients via AWS",
+    "Content consumers via Prime Video"
   ],
   "competitors": [
     "Walmart",
     "eBay",
     "Alibaba",
-    "Target",
-    "Shopify"
+    "Shopify",
+    "Target"
   ],
   "key_products": [
-    "Amazon.com e‑commerce platform",
+    "Amazon Marketplace",
     "Amazon Web Services (AWS)",
-    "Amazon Prime Video",
+    "Amazon Prime",
     "Amazon Echo (Alexa)",
     "Amazon Kindle"
   ],
-  "extracted_at": "2026-04-16 17:04:47",
+  "extracted_at": "2026-04-17 16:44:36",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.alibaba.com/",
+      "url": "https://www.thesellingguys.com/online-sourcing-buying-wholesalers-distributors/",
       "query": "Amazon.com, Inc. suppliers manufacturers",
-      "snippet": "Find quality Manufacturers , Suppliers , Exporters, Importers, Buyers, Wholesalers, Products and Trade Leads from our award-winning International Trad"
+      "snippet": "Mar 12, 2026 · Verified list of 200+ Amazon wholesalers , distributors, and trade shows, plus expert tips to set up accounts and master wholesale sour"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.amazon.com/home-garden-kitchen-furniture-bedding/b?ie=UTF8&node=1055398",
+      "url": "https://www.accio.com/supplier/amazon-suppliers-list",
       "query": "Amazon.com, Inc. suppliers manufacturers",
-      "snippet": "Shop a wide selection of products for your home at Amazon . com . Free shipping and free returns on eligible items."
+      "snippet": "Apr 10, 2026 · Looking for reliable Amazon suppliers ? Explore our curated list of verified manufacturers across electronics, apparel, and supplements"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Amazon_(company)",
+      "url": "https://capitaloneshopping.com/research/amazon-statistics/",
       "query": "Amazon.com, Inc. major customers clients",
-      "snippet": "It is mostly known as the world's biggest online shopping retailer and marketplace, best known for a wide range of products and supplying multiple ser"
+      "snippet": "Mar 29, 2026 · Over 310 million global consumers shop on Amazon at least once a year. 2 million active selling partners have shops on Amazon. Independ"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.aboutamazon.com/news/workplace/fortune-magazine-admired-companies-list-amazon",
+      "url": "https://www.historytools.org/consumer/amazon-target-market",
       "query": "Amazon.com, Inc. major customers clients",
-      "snippet": "Jan 21, 2026 · Amazon ranked third on Fortune magazine's 2026 list of the World's Most Admired Companies, which marked the company's 10th consecutive "
+      "snippet": "Aug 24, 2024 · Even though Amazon is a huge company, you may be curious about the specific market the leading retailer targets. Here's Amazon target m"
     }
   ]
 }

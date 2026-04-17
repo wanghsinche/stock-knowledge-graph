@@ -3,8 +3,8 @@ ticker: PLTR
 company: Palantir Technologies Inc.
 sector: Technology
 industry: Software - Infrastructure
-extracted_at: 2026-04-16 17:05:23
-last_updated: 2026-04-16
+extracted_at: 2026-04-17 16:46:02
+last_updated: 2026-04-17
 ---
 
 # PLTR - Palantir Technologies Inc.
@@ -12,7 +12,7 @@ last_updated: 2026-04-16
 ## 基本信息
 
 - **所属行业**: Technology / Software - Infrastructure
-- **提取时间**: 2026-04-16 17:05:23
+- **提取时间**: 2026-04-17 16:46:02
 
 ## 产业链关系
 
@@ -20,13 +20,13 @@ last_updated: 2026-04-16
 - [[AMZN]]
 - [[MSFT]]
 - [[GOOGL]]
-- [[DELL]]
+- [[ORCL]]
 - [[IBM]]
 
 ### 下游客户
 - [[U.S. Department of Defense]]
-- [[Federal Bureau of Investigation]]
 - [[INTC]]
+- [[U.S. Federal Bureau of Investigation]]
 - [[JPMorgan Chase]]
 - [[Walmart]]
 
@@ -34,22 +34,24 @@ last_updated: 2026-04-16
 - [[Snowflake]]
 - [[Databricks]]
 - [[Splunk]]
-- [[CRM]]
 - [[MSFT]]
+- [[Tableau]]
 
 ### 核心产品
 - [[Gotham]]
 - [[Foundry]]
-- [[Palantir Apollo]]
+- [[Apollo]]
+- [[Palantir Platform]]
+- [[Data Integration Suite]]
 
 ## 数据来源
 
 - [Palantir](https://en.wikipedia.org/wiki/Palantir_Technologies_Inc.)
 - [Palantir Technologies Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/Palantir)
-- [Palantir Technologies Inc. suppliers manufacturers](https://csimarket.com/stocks/PLTR-Suppliers)
-- [Palantir Technologies Inc. major customers clients](https://en.wikipedia.org/wiki/Palantir)
-- [Palantir Technologies Inc. major customers clients](https://www.marketwatch.com/investing/stock/pltr)
+- [Palantir Technologies Inc. suppliers manufacturers](https://finance.yahoo.com/quote/PLTR/)
+- [Palantir Technologies Inc. major customers clients](https://www.appsruntheworld.com/customers-database/products/view/palantir-foundry)
+- [Palantir Technologies Inc. major customers clients](https://data.landbase.com/technology/palantir/)
 
 ## 元数据
 
-- **更新日期**: 2026-04-16
+- **更新日期**: 2026-04-17

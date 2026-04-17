@@ -4,34 +4,34 @@
   "sector": "Financial Services",
   "industry": "Capital Markets",
   "upstream": [
-    "Bloomberg",
-    "Refinitiv",
+    "Bloomberg L.P.",
+    "FactSet",
     "AMZN",
     "Stripe",
     "Plaid"
   ],
   "downstream": [
-    "Retail investors",
-    "High‑frequency traders",
-    "Institutional clients",
+    "Retail investors in the United States",
+    "High‑net‑worth individuals",
+    "Institutional clients via Robinhood Institutional",
     "Crypto traders",
-    "Margin borrowers"
+    "Options traders"
   ],
   "competitors": [
-    "Webull",
-    "eToro",
-    "Fidelity",
     "Charles Schwab",
-    "Interactive Brokers"
+    "TD Ameritrade",
+    "E*TRADE",
+    "Fidelity Investments",
+    "Webull"
   ],
   "key_products": [
-    "Commission‑free stock trading",
-    "Robinhood Gold (margin & options)",
-    "Crypto trading",
+    "Commission‑free stock and ETF trading",
+    "Robinhood Gold premium services",
     "Cash Management",
-    "Options trading"
+    "Margin trading",
+    "Cryptocurrency trading"
   ],
-  "extracted_at": "2026-04-16 17:05:49",
+  "extracted_at": "2026-04-17 16:46:14",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,9 +47,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/HOOD-Suppliers",
+      "url": "https://robinhood.com/",
       "query": "Robinhood Markets, Inc. suppliers manufacturers",
-      "snippet": "Feb 28, 2026 · For your research, we’ve provided nine additional tables on Robinhood Markets Inc ’s suppliers . You can find them in the navigation me"
+      "snippet": "Trade stocks on Robinhood with commission-free investing & advanced trading tools. Access fractional shares, real-time market data, and more."
     },
     {
       "source": "DuckDuckGo",

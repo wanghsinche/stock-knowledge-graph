@@ -1,18 +1,18 @@
 ---
 ticker: CRWV
 company: CoreWeave, Inc.
-sector: Technology / Software - Infrastructure
-industry: AI Cloud Computing / GPU Infrastructure
-extracted_at: 2026-04-16 17:06:58
-last_updated: 2026-04-16
+sector: Technology
+industry: Software - Infrastructure
+extracted_at: 2026-04-17 16:47:24
+last_updated: 2026-04-17
 ---
 
 # CRWV - CoreWeave, Inc.
 
 ## 基本信息
 
-- **所属行业**: Technology / Software - Infrastructure / AI Cloud Computing / GPU Infrastructure
-- **提取时间**: 2026-04-16 17:06:58
+- **所属行业**: Technology / Software - Infrastructure
+- **提取时间**: 2026-04-17 16:47:24
 
 ## 产业链关系
 
@@ -20,38 +20,38 @@ last_updated: 2026-04-16
 - [[NVDA]]
 - [[AMD]]
 - [[INTC]]
-- [[TSM]]
-- [[005930.KS]]
+- [[QCOM]]
+- [[Xilinx]]
 
 ### 下游客户
 - [[OpenAI]]
-- [[Mistral AI]]
-- [[IBM]]
-- [[META]]
-- [[AMZN]]
-
-### 竞争对手
+- [[MSFT]]
 - [[GOOGL]]
 - [[AMZN]]
+- [[IBM]]
+
+### 竞争对手
+- [[NVDA]]
+- [[GOOGL]]
 - [[MSFT]]
-- [[Lambda Labs]]
-- [[Paperspace]]
+- [[AMZN]]
+- [[IBM]]
 
 ### 核心产品
-- [[GPU Cloud Infrastructure]]
-- [[GPU-as-a-Service]]
-- [[AI Compute Clusters]]
-- [[GPU Management Software]]
-- [[Custom AI Workload Solutions]]
+- [[GPU‑based AI cloud infrastructure]]
+- [[Chip management software]]
+- [[AI workload orchestration]]
+- [[High‑performance computing services]]
+- [[Custom GPU configurations]]
 
 ## 数据来源
 
 - [CoreWeave](https://en.wikipedia.org/wiki/CoreWeave,_Inc.)
 - [CoreWeave, Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/CoreWeave)
-- [CoreWeave, Inc. suppliers manufacturers](https://www.coreweave.com/)
+- [CoreWeave, Inc. suppliers manufacturers](https://www.fitchratings.com/entity/coreweave-inc-97744349)
 - [CoreWeave, Inc. major customers clients](https://en.wikipedia.org/wiki/CoreWeave)
-- [CoreWeave, Inc. major customers clients](https://www.fool.com/investing/2026/03/31/coreweave-stock-beware-of-the-threat-lurking/)
+- [CoreWeave, Inc. major customers clients](https://www.ibtimes.com.au/coreweave-stock-jumps-9-massive-meta-anthropic-ai-deals-fuel-gpu-cloud-boom-1866395)
 
 ## 元数据
 
-- **更新日期**: 2026-04-16
+- **更新日期**: 2026-04-17

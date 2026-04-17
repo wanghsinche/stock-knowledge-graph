@@ -1,37 +1,37 @@
 {
   "ticker": "AVGO",
   "company_name": "Broadcom Inc.",
-  "sector": "Technology / Semiconductors",
+  "sector": "Technology",
   "industry": "Semiconductors",
   "upstream": [
     "TSM",
     "005930.KS",
     "GlobalFoundries",
     "UMC",
-    "INTC"
+    "SMIC"
   ],
   "downstream": [
+    "005930.KS",
     "CSCO",
     "DELL",
-    "IBM",
-    "AMZN",
-    "MSFT"
+    "HPQ",
+    "Lenovo"
   ],
   "competitors": [
     "QCOM",
     "INTC",
     "NVDA",
-    "MRVL",
-    "TXN"
+    "TXN",
+    "MRVL"
   ],
   "key_products": [
-    "Broadcom 802.11 Wi-Fi chips",
-    "Broadcom Ethernet controllers",
-    "Broadcom storage controllers",
-    "Broadcom broadband modems",
-    "Broadcom 5G LTE modems"
+    "Wi‑Fi chips",
+    "Ethernet controllers",
+    "Broadband modems",
+    "Storage controllers",
+    "RF transceivers"
   ],
-  "extracted_at": "2026-04-16 17:05:35",
+  "extracted_at": "2026-04-17 16:45:51",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,21 +47,21 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/AVGO-Suppliers",
+      "url": "https://www.broadcom.com/how-to-buy/partner-distributor-lookup",
       "query": "Broadcom Inc. suppliers manufacturers",
-      "snippet": "Broadcom Inc supply chain, list and performance of Broadcom Incs ' suppliers - CSIMarket."
+      "snippet": "The Partner Locator will help you find the local expertise you need to be successful with Broadcom solutions. Begin searching by typing what you're lo"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Broadcom",
+      "url": "https://csimarket.com/stocks/AVGO-Customers",
       "query": "Broadcom Inc. major customers clients",
-      "snippet": "Broadcom Inc . is an American multinational designer, developer, manufacturer, and global supplier of a wide range of semiconductor and infrastructure"
+      "snippet": "Sales to our five largest customers represented 48.3%. Sales to Samsung represented 21.3%. Sales to Apple represented 13.3%."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.broadcom.com/",
+      "url": "https://www.appsruntheworld.com/customers-database/vendors/view/broadcom",
       "query": "Broadcom Inc. major customers clients",
-      "snippet": "Broadcom delivers semiconductors and infrastructure software for global enterprises’ most complex, mission-critical needs."
+      "snippet": "List of companies using or evaluating Broadcom applications, with details on their revenues, employees, industries, and locations."
     }
   ]
 }

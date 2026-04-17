@@ -5,33 +5,33 @@
   "industry": "Internet Content & Information",
   "upstream": [
     "NVDA",
-    "INTC",
     "AMD",
-    "Xilinx",
-    "QCOM"
+    "INTC",
+    "AMZN",
+    "MSFT"
   ],
   "downstream": [
-    "U.S. Department of Defense",
-    "European Union security agencies",
-    "Private security firms",
-    "Corporate security departments",
-    "Law enforcement agencies"
+    "Cantor Fitzgerald (financial services client)",
+    "Large enterprise data analytics firms",
+    "Financial technology companies",
+    "Government agencies",
+    "Academic research institutions"
   ],
   "competitors": [
-    "NVDA",
-    "INTC",
-    "AMD",
-    "GOOGL",
-    "AMZN"
+    "OpenAI",
+    "Anthropic",
+    "Cohere",
+    "Stability AI",
+    "MSFT"
   ],
   "key_products": [
-    "Artificial intelligence infrastructure",
-    "Avride",
-    "TripleTen",
-    "Toloka",
-    "Clickhouse"
+    "Nebius AI Infrastructure Platform",
+    "Nebius AI Services Suite",
+    "Nebius AI Solutions for Enterprises",
+    "Avride (AI-driven analytics)",
+    "TripleTen (AI model training platform)"
   ],
-  "extracted_at": "2026-04-16 17:07:18",
+  "extracted_at": "2026-04-17 16:47:35",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,21 +47,21 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://stockrow.com/NBIS/business-profile",
+      "url": "https://www.industryselect.com/blog/top-10-manufacturing-companies-in-iowa",
       "query": "NBIS suppliers manufacturers",
-      "snippet": "Discover the comprehensive business profile of Nebius Group N.V. ( NBIS ), a global leader in cloud computing and digital transformation services. Lea"
+      "snippet": "Mar 16, 2026 · This article explores the latest facts on Iowa manufacturing and examines the top 10 manufacturing companies in Iowa based on original "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.dcsa.mil/Systems-Applications/National-Background-Investigation-Services-NBIS/",
+      "url": "https://www.nasdaq.com/market-activity/stocks/nbis",
       "query": "NBIS major customers clients",
-      "snippet": "NBIS Agency is the application allowing Security Managers, Special Security Officers, and Facility Security Officers (FSO) to process background appli"
+      "snippet": "Cantor Fitzgerald Initiates Coverage of Nebius Group N.V. ( NBIS ) with Overweight Recommendation.Data Disclaimer: The Nasdaq Indices and the Major In"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.dote.osd.mil/Portals/97/pub/reports/FY2024/dod/2024nbis.pdf?ver=XRh6KdVyObJICiJU3oaHRA==",
+      "url": "https://www.bloomberg.com/quote/NBIS:US",
       "query": "NBIS major customers clients",
-      "snippet": "Jan 31, 2025 · NBIS applications are integrated in a common architecture to support data gathering, storage, and management of data associated with pe"
+      "snippet": "Stock analysis for Nebius Group NV ( NBIS :NASDAQ GS) including stock price, stock chart, company news, key statistics, fundamentals and company profi"
     }
   ]
 }

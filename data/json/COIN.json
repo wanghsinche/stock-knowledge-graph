@@ -2,36 +2,36 @@
   "ticker": "COIN",
   "company_name": "Coinbase Global, Inc.",
   "sector": "Financial Services",
-  "industry": "Cryptocurrency Exchange",
+  "industry": "Financial Data & Stock Exchanges",
   "upstream": [
     "AMZN",
     "MSFT",
-    "Stripe",
-    "PayPal",
-    "Blockchain infrastructure providers"
+    "GOOGL",
+    "Palo Alto Networks",
+    "Symantec"
   ],
   "downstream": [
     "Retail cryptocurrency traders",
     "Institutional investors",
     "Crypto funds",
-    "Merchants accepting crypto",
-    "DeFi projects"
+    "Hedge funds",
+    "Family offices"
   ],
   "competitors": [
     "Binance",
     "Kraken",
     "Gemini",
-    "Bitstamp",
-    "FTX (now defunct)"
+    "FTX",
+    "Bitstamp"
   ],
   "key_products": [
-    "Coinbase Pro trading platform",
-    "Coinbase Custody",
+    "Cryptocurrency exchange platform",
     "Coinbase Wallet",
-    "Staking services",
-    "API for developers"
+    "Coinbase Pro",
+    "Coinbase Custody",
+    "Coinbase Earn"
   ],
-  "extracted_at": "2026-04-16 17:07:34",
+  "extracted_at": "2026-04-17 16:46:58",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Coinbase",
-      "query": "Coinbase Global, Inc. suppliers manufacturers",
-      "snippet": "Coinbase has over 100 million users, [7] and is the largest U.S. based cryptocurrency exchange as well as the world's biggest bitcoin custodian, as of"
-    },
-    {
-      "source": "DuckDuckGo",
       "url": "https://www.coinbase.com/vendors/vendors-at-coinbase-code-of-conduct",
       "query": "Coinbase Global, Inc. suppliers manufacturers",
-      "snippet": "For purposes of this Code, vendors include any third party, firm, or individual that provides a product or service to Coinbase , including: vendors , "
+      "snippet": "For purposes of this Code, vendors include any third party, firm, or individual that provides a product or service to Coinbase, including: vendors , s"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Coinbase",
-      "query": "Coinbase Global, Inc. major customers clients",
-      "snippet": "Coinbase Global , Inc . is an American cryptocurrency exchange. It was founded in 2012 by Brian Armstrong and Fred Ehrsam."
+      "url": "https://fintel.io/doc/sec-coinbase-global-inc-1679788-ex211-2024-february-15-19768-5823",
+      "query": "Coinbase Global, Inc. suppliers manufacturers",
+      "snippet": "Pursuant to Item 601 (b) (21) (ii) of Regulation S-K, the names of other subsidiaries of Coinbase Global , Inc . are omitted because, considered in th"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.coinbase.com/",
+      "url": "https://electroiq.com/stats/coinbase-statistics/",
       "query": "Coinbase Global, Inc. major customers clients",
-      "snippet": "Coinbase United States is a secure online platform for buying, selling, transferring, and storing cryptocurrency. Coinbase believes crypto will be par"
+      "snippet": "Jul 2, 2025 · Coinbase statistics show that Coinbase had 23 million verified users in Q1 of 2018, which history shows grew steadily each quarter. By t"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/COIN-Customers",
+      "query": "Coinbase Global, Inc. major customers clients",
+      "snippet": "Coinbase Global Inc customers and markets, results by customer and performance relative to COIN, by company and industry - CSIMarket"
     }
   ]
 }

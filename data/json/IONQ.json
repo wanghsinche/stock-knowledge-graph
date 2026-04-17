@@ -2,36 +2,36 @@
   "ticker": "IONQ",
   "company_name": "IonQ, Inc.",
   "sector": "Technology",
-  "industry": "Computer Hardware",
+  "industry": "Quantum Computing",
   "upstream": [
-    "AMZN",
-    "NVDA",
-    "INTC",
-    "IonOptics",
-    "Quantum Machines"
+    "CAT",
+    "Global semiconductor suppliers",
+    "High‑precision ion trap component manufacturers",
+    "Cryogenic system providers",
+    "Optical component suppliers"
   ],
   "downstream": [
-    "AMZN",
-    "MSFT",
-    "GOOGL",
-    "IBM",
-    "NASA"
+    "Enterprise cloud customers",
+    "Academic research institutions",
+    "Government research labs",
+    "Quantum software developers",
+    "Industrial R&D firms"
   ],
   "competitors": [
     "Rigetti Computing",
     "D-Wave Systems",
-    "Honeywell Quantum Solutions",
-    "Xanadu",
-    "Quantum Circuits"
+    "IBM",
+    "GOOGL",
+    "Honeywell Quantum Solutions"
   ],
   "key_products": [
-    "Trapped ion quantum computer",
-    "Quantum Processing Unit (QPU)",
+    "Trapped‑ion quantum computers",
     "Quantum software stack",
-    "Qiskit integration",
-    "Quantum cloud services"
+    "Quantum circuit optimization tools",
+    "Cloud‑based quantum access platform",
+    "Quantum hardware‑software integration services"
   ],
-  "extracted_at": "2026-04-16 17:06:11",
+  "extracted_at": "2026-04-17 16:49:41",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/IonQ",
+      "url": "https://www.ionq.com/",
       "query": "IonQ, Inc. suppliers manufacturers",
-      "snippet": "IonQ , Inc . is an American quantum computing hardware and software company headquartered in College Park, Maryland. The company develops general-purp"
+      "snippet": "IonQ partnered with a leading global automotive manufacturer , applying quantum-classical AI to solve critical materials science challenges. Our model"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://finance.yahoo.com/sectors/technology/articles/ionq-achieves-key-photonic-interconnect-132500985.html",
+      "query": "IonQ, Inc. suppliers manufacturers",
+      "snippet": "IonQ , Inc . [NYSE: IONQ ] is the world’s leading quantum platform and merchant supplier - delivering integrated quantum solutions across computing, n"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.ionq.com/",
-      "query": "IonQ, Inc. suppliers manufacturers",
-      "snippet": "In collaboration with AstraZeneca, AWS, and NVIDIA, IonQ executed the largest quantum-accelerated electronic structure simulation performed to date. T"
+      "query": "IonQ, Inc. major customers clients",
+      "snippet": "IonQ delivers trapped ion quantum computing systems, cloud access, and enterprise solutions for real-world quantum applications.System applications. Q"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://businessmodelcanvastemplate.com/blogs/target-market/ionq-target-market",
+      "url": "https://www.marketwatch.com/investing/stock/ionq",
       "query": "IonQ, Inc. major customers clients",
-      "snippet": "Mar 18, 2026 · Who are IonQ ' s core customers and target markets? IonQ has shifted from academic demonstrators to serving enterprises that need high-"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://qz.com/what-s-driving-ionq-s-strong-and-robust-2026-outlook",
-      "query": "IonQ, Inc. major customers clients",
-      "snippet": "For 2026, IonQ IONQ expects revenues of $225-$245 million, supported by a growing customer base, a larger product portfolio and improving revenue visi"
+      "snippet": "IONQ | Complete IonQ Inc . stock news by MarketWatch. View real-time stock prices and stock quotes for a full financial overview.dMY Technology Group,"
     }
   ]
 }

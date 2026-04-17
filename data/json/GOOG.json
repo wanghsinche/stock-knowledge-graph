@@ -4,17 +4,17 @@
   "sector": "Communication Services",
   "industry": "Internet Content & Information",
   "upstream": [
-    "INTC",
     "QCOM",
+    "NVDA",
+    "INTC",
     "005930.KS",
-    "TSM",
-    "NVDA"
+    "TSM"
   ],
   "downstream": [
     "GOOGL",
-    "Android app developers",
-    "YouTube content creators",
+    "Android device manufacturers",
     "GOOGL",
+    "YouTube content creators",
     "GOOGL"
   ],
   "competitors": [
@@ -30,10 +30,13 @@
     "Google Cloud Platform",
     "YouTube",
     "Google Ads",
+    "Google Workspace",
     "Google Chrome",
-    "Google Workspace"
+    "Google Maps",
+    "Google Play",
+    "Google Pixel"
   ],
-  "extracted_at": "2026-04-16 17:06:46",
+  "extracted_at": "2026-04-17 16:46:27",
   "sources": [
     {
       "source": "Wikipedia",
@@ -45,13 +48,13 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Alphabet_Inc.",
       "query": "Alphabet Inc. suppliers manufacturers",
-      "snippet": "Alphabet Inc . has faced numerous legal and ethical controversies, including a 2017 lawsuit against Uber over stolen self-driving technology, a 2020 p"
+      "snippet": "Alphabet Inc . is an American multinational technology conglomerate holding company headquartered in Mountain View, California. It was created through"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://csimarket.com/stocks/GOOG-Suppliers",
       "query": "Alphabet Inc. suppliers manufacturers",
-      "snippet": "Feb 6, 2026 · Alphabet Inc supply chain, list and performance of Alphabet Incs ' suppliers - CSIMarket"
+      "snippet": "Alphabet Inc supply chain, list and performance of Alphabet Incs ' suppliers - CSIMarket."
     },
     {
       "source": "DuckDuckGo",
@@ -61,9 +64,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.investing.com/equities/google-inc",
+      "url": "https://finance.yahoo.com/quote/GOOG/",
       "query": "Alphabet Inc. major customers clients",
-      "snippet": "Get detailed information about the Alphabet Inc . stock (GOOGL) including Price, Charts, Technical Analysis, Historical data, Alphabet Reports and mor"
+      "snippet": "Find the latest Alphabet Inc . (GOOG) stock quote, history, news and other vital information to help you with your stock trading and investing."
     }
   ]
 }

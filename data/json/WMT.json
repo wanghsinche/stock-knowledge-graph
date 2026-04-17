@@ -1,37 +1,37 @@
 {
   "ticker": "WMT",
   "company_name": "Walmart Inc.",
-  "sector": "Consumer Defensive / Discount Stores",
-  "industry": "Retail - Discount Stores",
+  "sector": "Consumer Defensive",
+  "industry": "Discount Stores",
   "upstream": [
     "Procter & Gamble",
     "Coca‑Cola",
     "PepsiCo",
-    "Nestlé",
-    "Kraft Heinz"
+    "Johnson & Johnson",
+    "Unilever"
   ],
   "downstream": [
     "Consumers",
     "Online shoppers",
-    "Small and medium businesses",
-    "Local communities",
-    "Corporate clients"
+    "Small businesses",
+    "Corporate buyers",
+    "Government agencies"
   ],
   "competitors": [
     "Target",
     "Costco",
     "AMZN",
-    "BJ's Wholesale Club",
-    "Dollar General"
+    "BJ's Wholesale",
+    "Aldi"
   ],
   "key_products": [
-    "Groceries",
+    "Grocery",
     "Household goods",
-    "Apparel",
     "Electronics",
-    "Private‑label products"
+    "Clothing",
+    "Private label brands (Great Value, Equate, Walmart Essentials)"
   ],
-  "extracted_at": "2026-04-10 16:52:19",
+  "extracted_at": "2026-04-17 16:48:54",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,21 +47,21 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/WMT-Suppliers",
+      "url": "https://ru.wikipedia.org/wiki/Walmart",
       "query": "Walmart Inc. suppliers manufacturers",
-      "snippet": "Walmart Inc supply chain, list and performance of Walmart Incs ' suppliers - CSIMarket. Walmart Inc 's Suppliers Performance. WMT's Supply Chain. Down"
+      "snippet": "Walmart , Inc . ([ˈwɔːlmɑːrt], «Уолмарт») — американская компания, управляющая крупнейшей в мире сетью оптовой и розничной торговли, действующей под т"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://businessmodelanalyst.com/walmart-target-market/",
+      "url": "https://en.wikipedia.org/wiki/Walmart",
       "query": "Walmart Inc. major customers clients",
-      "snippet": "Dec 2, 2024 · This article will examine Walmart target market and approach to reaching a broad yet carefully segmented customer base."
+      "snippet": "Walmart Inc . is an American multinational retail corporation that operates a chain of hypermarkets, discount department stores, and grocery stores in"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://capitaloneshopping.com/research/walmart-statistics/",
+      "url": "https://www.walmart.com/",
       "query": "Walmart Inc. major customers clients",
-      "snippet": "Nov 6, 2025 · Latest available data on Walmart ' s size and market share, both offline and online, with total sales and revenue breakdowns by year."
+      "snippet": "Shop Walmart .com today for Every Day Low Prices. Join Walmart + for unlimited free delivery from your store & free shipping with no order minimum. St"
     }
   ]
 }

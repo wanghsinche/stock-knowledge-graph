@@ -1,8 +1,8 @@
 {
   "ticker": "MSTR",
-  "company_name": "Strategy Analytics Inc.",
+  "company_name": "MicroStrategy Incorporated",
   "sector": "Technology",
-  "industry": "Software - Application",
+  "industry": "Software—Application",
   "upstream": [
     "MSFT",
     "AMZN",
@@ -11,27 +11,27 @@
     "IBM"
   ],
   "downstream": [
-    "Walmart",
-    "Coca‑Cola",
     "Bank of America",
-    "General Motors",
-    "Procter & Gamble"
+    "JPMorgan Chase",
+    "Walmart",
+    "Coca-Cola",
+    "General Electric"
   ],
   "competitors": [
     "Tableau Software",
-    "MSFT",
     "Qlik",
-    "Looker",
-    "Sisense"
+    "MSFT",
+    "SAP BusinessObjects",
+    "IBM"
   ],
   "key_products": [
-    "Strategy Analytics Platform",
-    "Data Warehouse",
-    "Data Visualization",
-    "Business Intelligence",
-    "Predictive Analytics"
+    "MicroStrategy Desktop",
+    "MicroStrategy Server",
+    "MicroStrategy Cloud",
+    "MicroStrategy Mobile",
+    "MicroStrategy Analytics"
   ],
-  "extracted_at": "2026-04-16 17:09:47",
+  "extracted_at": "2026-04-17 16:44:48",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,21 +47,21 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://markets.ft.com/data/equities/tearsheet/summary?s=MIG0:MUN",
+      "url": "https://investfunds.ru/stocks/MicroStrategy/",
       "query": "Strategy Inc suppliers manufacturers",
-      "snippet": "Latest Strategy Inc (MIG0:MUN) share price with interactive charts, historical prices, comparative analysis, forecasts, business profile and more."
+      "snippet": "Strategy , Inc . предоставляет корпоративные программные платформы по всему миру.Общий долг / Капитал. Новости компании Strategy Inc . 19.09.2022 | Ак"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.strategy.com/software/news/strategy-recognized-as-a-customers-choice-on-gartner-peer-insights-through-user-feedback-for-fourth-consecutive-year",
+      "url": "https://en.wikipedia.org/wiki/MicroStrategy",
       "query": "Strategy Inc major customers clients",
-      "snippet": "Dec 11, 2025 · Discover why Strategy Inc . is the only Analytics & Business Intelligence Platforms vendor to be named a Customers ' Choice in the 2025"
+      "snippet": "Strategy Inc ., formerly known as MicroStrategy, is an American company that provides business intelligence and mobile software. Founded in 1989 by Mi"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/STRF-Customers",
+      "url": "https://finance.yahoo.com/quote/MSTR/",
       "query": "Strategy Inc major customers clients",
-      "snippet": "Jan 30, 2026 · Strategy Inc customers and markets, results by customer and performance relative to STRF, by company and industry - CSIMarket"
+      "snippet": "Find the latest Strategy Inc (MSTR) stock quote, history, news and other vital information to help you with your stock trading and investing."
     }
   ]
 }

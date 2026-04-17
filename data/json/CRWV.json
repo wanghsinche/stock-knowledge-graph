@@ -1,37 +1,37 @@
 {
   "ticker": "CRWV",
   "company_name": "CoreWeave, Inc.",
-  "sector": "Technology / Software - Infrastructure",
-  "industry": "AI Cloud Computing / GPU Infrastructure",
+  "sector": "Technology",
+  "industry": "Software - Infrastructure",
   "upstream": [
     "NVDA",
     "AMD",
     "INTC",
-    "TSM",
-    "005930.KS"
+    "QCOM",
+    "Xilinx"
   ],
   "downstream": [
     "OpenAI",
-    "Mistral AI",
-    "IBM",
-    "META",
-    "AMZN"
-  ],
-  "competitors": [
+    "MSFT",
     "GOOGL",
     "AMZN",
+    "IBM"
+  ],
+  "competitors": [
+    "NVDA",
+    "GOOGL",
     "MSFT",
-    "Lambda Labs",
-    "Paperspace"
+    "AMZN",
+    "IBM"
   ],
   "key_products": [
-    "GPU Cloud Infrastructure",
-    "GPU-as-a-Service",
-    "AI Compute Clusters",
-    "GPU Management Software",
-    "Custom AI Workload Solutions"
+    "GPU‑based AI cloud infrastructure",
+    "Chip management software",
+    "AI workload orchestration",
+    "High‑performance computing services",
+    "Custom GPU configurations"
   ],
-  "extracted_at": "2026-04-16 17:06:58",
+  "extracted_at": "2026-04-17 16:47:24",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,13 +43,13 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/CoreWeave",
       "query": "CoreWeave, Inc. suppliers manufacturers",
-      "snippet": "CoreWeave , Inc . is an American artificial intelligence (AI) cloud-computing company based in Livingston, New Jersey. It specializes in providing clo"
+      "snippet": "CoreWeave , Inc . is an American artificial intelligence cloud-computing company based in Livingston, New Jersey."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.coreweave.com/",
+      "url": "https://www.fitchratings.com/entity/coreweave-inc-97744349",
       "query": "CoreWeave, Inc. suppliers manufacturers",
-      "snippet": "From leading AI labs like OpenAI and Mistral AI to global giants like IBM, the world’s most ambitious AI innovators build on CoreWeave . Explore how t"
+      "snippet": "CoreWeave , Inc . Entity with Fitch Analyst Adjusted Financials as featured on Fitch Ratings. Credit Ratings, Research and Analysis for the global cap"
     },
     {
       "source": "DuckDuckGo",
@@ -59,9 +59,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.fool.com/investing/2026/03/31/coreweave-stock-beware-of-the-threat-lurking/",
+      "url": "https://www.ibtimes.com.au/coreweave-stock-jumps-9-massive-meta-anthropic-ai-deals-fuel-gpu-cloud-boom-1866395",
       "query": "CoreWeave, Inc. major customers clients",
-      "snippet": "These companies are building their own data centers while incorporating CoreWeave compute to scale their capabilities faster amid rampant AI-driven de"
+      "snippet": "CoreWeave has secured tens of billions in committed revenue from major AI players, including previous deals with NVIDIA itself (valued at more than $6"
     }
   ]
 }

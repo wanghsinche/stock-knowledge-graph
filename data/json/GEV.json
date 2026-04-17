@@ -4,34 +4,34 @@
   "sector": "Industrials",
   "industry": "Specialty Industrial Machinery",
   "upstream": [
-    "Turbine blade manufacturers",
-    "Generator stator suppliers",
-    "Hydraulic component suppliers",
-    "Electrical component suppliers",
-    "Materials suppliers (steel, alloys)"
+    "Alcoa (steel supplier)",
+    "Dow Chemical (composite materials)",
+    "Honeywell (electronics & control systems)",
+    "Emerson Electric (control systems)",
+    "Siemens Energy (component supplier)"
   ],
   "downstream": [
-    "Electric utility companies",
-    "Independent power producers",
-    "Oil & gas operators",
-    "Renewable energy developers",
-    "Industrial power plant operators"
+    "Duke Energy",
+    "NextEra Energy",
+    "Iberdrola",
+    "Shell",
+    "BP"
   ],
   "competitors": [
     "Siemens Energy",
-    "ABB",
     "Mitsubishi Power",
-    "General Electric Power (former)",
-    "CAT"
+    "ABB",
+    "Schneider Electric",
+    "Alstom"
   ],
   "key_products": [
     "Gas turbines",
     "Steam turbines",
-    "Generators",
-    "Power plant equipment and services",
-    "Digital power solutions"
+    "Wind turbines",
+    "Power plant equipment",
+    "Renewable energy solutions"
   ],
-  "extracted_at": "2026-04-14 17:04:35",
+  "extracted_at": "2026-04-17 16:51:05",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/GE_Vernova",
+      "url": "https://www.gevernova.com/grid-solutions/suppliers",
       "query": "GE Vernova Inc. suppliers manufacturers",
+      "snippet": "Explore GE Vernova ’ s supplier portal for partnership opportunities and procurement information."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.volza.com/p/ge-vernova/manufacturers/",
+      "query": "GE Vernova Inc. suppliers manufacturers",
+      "snippet": "Access 8 verified Ge Vernova Suppliers with shipment-level prices, volumes, routes, buyer networks, and verified decision-maker contacts — all backed "
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/GE_Vernova",
+      "query": "GE Vernova Inc. major customers clients",
       "snippet": "GE Vernova , Inc . is an energy equipment manufacturing and services company headquartered in Cambridge, Massachusetts. The company operates through t"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.gevernova.com/",
-      "query": "GE Vernova Inc. suppliers manufacturers",
+      "query": "GE Vernova Inc. major customers clients",
       "snippet": "GE Vernova is accelerating the path to more reliable, affordable, and sustainable energy through our innovative portfolio of electrification and decar"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.gevernova.com/sites/default/files/gevernova_2024_annual_report.pdf",
-      "query": "GE Vernova Inc. major customers clients",
-      "snippet": "Services, both a major business and source of cash flow for GE Vernova , also delivered a strong year with orders up ten percent organically as our cu"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/GEV-Customers",
-      "query": "GE Vernova Inc. major customers clients",
-      "snippet": "Mar 26, 2026 · For your research, we’ve provided 9 tables on Ge Vernova Inc corporate clients . You can find them in the navigation menu under Custome"
     }
   ]
 }

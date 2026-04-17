@@ -6,62 +6,62 @@
   "upstream": [
     "TSM",
     "005930.KS",
-    "MU",
-    "SK Hynix",
-    "AVGO"
+    "GlobalFoundries",
+    "UMC",
+    "SMIC"
   ],
   "downstream": [
     "SONY",
     "MSFT",
-    "DELL",
     "AMZN",
+    "GOOGL",
     "TSLA"
   ],
   "competitors": [
     "AMD",
     "INTC",
     "QCOM",
-    "AAPL",
-    "ARM Holdings"
+    "AVGO",
+    "ARM"
   ],
   "key_products": [
     "GeForce RTX GPUs",
-    "Quadro RTX GPUs",
-    "Tesla AI GPUs",
-    "Jetson SoCs",
-    "CUDA API"
+    "NVIDIA A100 Tensor Core GPU",
+    "NVIDIA H100 Tensor Core GPU",
+    "NVIDIA Drive PX automotive platform",
+    "NVIDIA Jetson AI platform"
   ],
-  "extracted_at": "2026-04-16 17:03:29",
+  "extracted_at": "2026-04-17 16:43:21",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/NVIDIA_Corporation",
       "title": "Nvidia",
-      "snippet": "Nvidia Corporation is an American technology company headquartered in Santa Clara, California. Founded in 1993 by Jensen Huang, Chris Malachowsky, and Curtis Priem, it develops graphics processing uni"
+      "snippet": "Nvidia Corporation is an American technology company headquartered in Santa Clara, California. The company develops graphics processing units (GPUs), systems on chips (SoCs), and application programmi"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Nvidia",
       "query": "NVIDIA Corporation suppliers manufacturers",
-      "snippet": "Nvidia Corporation . Show dark mode logo. Nvidia uses external suppliers for all phases of manufacturing , including wafer fabrication, assembly, test"
+      "snippet": "Nvidia Corporation . Show white logotype. Nvidia uses external suppliers for all phases of manufacturing , including wafer fabrication, assembly, test"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.investing.com/equities/nvidia-corp",
+      "url": "https://finance.yahoo.com/quote/NVDA/",
       "query": "NVIDIA Corporation suppliers manufacturers",
-      "snippet": "View today's NVIDIA Corporation stock price and latest NVDA news and analysis. Create real-time notifications to follow any changes in the live stock "
+      "snippet": "Find the latest NVIDIA Corporation (NVDA) stock quote, history, news and other vital information to help you with your stock trading and investing."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.fool.com/investing/2025/06/26/who-are-nvidias-biggest-customers/",
+      "url": "https://en.wikipedia.org/wiki/Nvidia",
       "query": "NVIDIA Corporation major customers clients",
-      "snippet": "June 26, 2025 - Nvidia has amassed an impressive list of customers, which includes top AI developers like Amazon, Microsoft, and Alphabet ."
+      "snippet": "Nvidia Corporation . Show white logotype.On December 18, 2025, Nvidia announced plans to build a major new research and development campus in Kiryat T"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.fool.com/investing/2024/05/02/who-are-nvidias-largest-customers/",
+      "url": "https://qz.com/nvidia-ai-chips-customers-google-microsoft-meta-amazon-1851653971",
       "query": "NVIDIA Corporation major customers clients",
-      "snippet": "May 2, 2024 - However, in its recent 10-K filing, the company did say that one customer represented 13% of its revenue from its compute and networking"
+      "snippet": "While the customers are anonymous in Nvidia ’s 10-Q regulatory filing, “ Customer A” made up 14% of Nvidia ’s revenue, while two customers made up 11%"
     }
   ]
 }

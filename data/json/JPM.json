@@ -5,33 +5,33 @@
   "industry": "Banks - Diversified",
   "upstream": [
     "MSFT",
-    "Data center providers",
-    "Security and compliance service providers",
-    "Office equipment suppliers",
-    "Legal and consulting firms"
+    "IBM",
+    "ORCL",
+    "AMZN",
+    "Bloomberg"
   ],
   "downstream": [
     "Retail banking customers",
-    "Corporate and institutional clients",
-    "Investment banking clients",
-    "Wealth management clients",
-    "Credit card holders"
+    "Small and medium enterprises",
+    "Corporate clients",
+    "Institutional investors",
+    "Wealth management clients"
   ],
   "competitors": [
-    "Bank of America (BAC)",
-    "Citigroup (C)",
-    "Wells Fargo (WFC)",
-    "Goldman Sachs (GS)",
-    "Morgan Stanley (MS)"
+    "Bank of America",
+    "Citigroup",
+    "Wells Fargo",
+    "Goldman Sachs",
+    "Morgan Stanley"
   ],
   "key_products": [
     "Retail banking services",
-    "Investment banking services",
+    "Commercial banking",
+    "Investment banking",
     "Asset and wealth management",
-    "Credit card products",
-    "Treasury and cash management"
+    "Credit card and consumer lending"
   ],
-  "extracted_at": "2026-04-16 17:10:49",
+  "extracted_at": "2026-04-17 16:49:16",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.jpmorganchase.com/about/suppliers",
+      "url": "https://en.wikipedia.org/wiki/JPMorgan_Chase",
       "query": "JPMorgan Chase & Co. suppliers manufacturers",
-      "snippet": "Building strong partnerships is the cornerstone of our success. At JPMorganChase , we place particular value in our supplier partnerships. Thanks to t"
+      "snippet": "JPMorgan Chase & Co. (stylized as JPMorganChase) is an American multinational banking institution headquartered in New York City and incorporated in ."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/JPM-Suppliers",
+      "url": "https://www.jpmorganchase.com/about/suppliers",
       "query": "JPMorgan Chase & Co. suppliers manufacturers",
-      "snippet": "Feb 14, 2026 · For your research, we’ve provided nine additional tables on Jpmorgan Chase and Co ’s suppliers . You can find them in the navigation me"
+      "snippet": "An inclusive supply chain where every business, including but not limited to small and diverse businesses, has the opportunity to be considered for ou"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/JPMorgan_Chase",
       "query": "JPMorgan Chase & Co. major customers clients",
-      "snippet": "Today, the firm is a major provider of investment banking services, through corporate advisory, mergers and acquisitions, sales and trading, and publi"
+      "snippet": "JPMorgan Chase & Co . (stylized as JPMorganChase ) is an American multinational banking institution headquartered in New York City and incorporated in"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.jpmorganchase.com/",
       "query": "JPMorgan Chase & Co. major customers clients",
-      "snippet": "JPMorganChase serves millions of customers , clients and communities in over 100 global markets. For 225 years, our work has been guided by principles"
+      "snippet": "JPMorganChase serves millions of customers , clients and communities in over 100 global markets. JPMorganChase opened its new global headquarters, mar"
     }
   ]
 }

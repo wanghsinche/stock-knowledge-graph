@@ -1,37 +1,37 @@
 {
   "ticker": "IREN",
   "company_name": "IREN Limited",
-  "sector": "Financial Services",
-  "industry": "Capital Markets",
+  "sector": "Financial Services / Capital Markets",
+  "industry": "Data Center Services",
   "upstream": [
-    "Bloomberg L.P.",
-    "Thomson Reuters",
-    "Nasdaq",
-    "S&P Global",
-    "MSFT"
+    "NVDA",
+    "AMD",
+    "DELL",
+    "HPQ",
+    "CSCO"
   ],
   "downstream": [
-    "Retail investors",
-    "Institutional investors",
-    "High‑net‑worth individuals",
-    "Financial advisors",
-    "Family offices"
+    "CoreWeave",
+    "GOOGL",
+    "MSFT",
+    "AMZN",
+    "Alibaba Cloud"
   ],
   "competitors": [
-    "Interactive Brokers",
-    "Charles Schwab",
-    "Fidelity Investments",
-    "E*TRADE",
-    "TD Ameritrade"
+    "Equinix",
+    "Digital Realty",
+    "Cloudflare",
+    "AMZN",
+    "MSFT"
   ],
   "key_products": [
-    "Brokerage services",
-    "Trading platform",
-    "Investment research",
-    "Wealth management",
-    "Financial advisory"
+    "GPU‑accelerated compute services",
+    "Data center hosting",
+    "Managed IT services",
+    "Cloud infrastructure",
+    "Edge computing solutions"
   ],
-  "extracted_at": "2026-04-16 17:10:00",
+  "extracted_at": "2026-04-17 16:53:13",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,15 +41,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ca.finance.yahoo.com/quote/IREN/",
+      "url": "https://www.iren.com/",
       "query": "IREN Limited suppliers manufacturers",
-      "snippet": "Find the latest IREN Limited ( IREN ) stock quote, history, news and other vital information to help you with your stock trading and investing."
+      "snippet": "Whether you need immediate access to GPUs, world-class turnkey data centers for your own hardware, or a partner to design and build your AI-ready faci"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.investing.com/equities/iris-energy",
+      "url": "https://csimarket.com/stocks/suppliers_glance.php?code=IREN",
       "query": "IREN Limited suppliers manufacturers",
-      "snippet": "IREN Ltd stock price live, this page displays NASDAQ IREN stock exchange data. View the IREN premarket stock price ahead of the market session or asse"
+      "snippet": "Iren Limited supply chain, list and performance of Iren Limiteds ' suppliers - CSIMarket"
     },
     {
       "source": "DuckDuckGo",
