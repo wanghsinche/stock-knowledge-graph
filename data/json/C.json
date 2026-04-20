@@ -2,20 +2,20 @@
   "ticker": "C",
   "company_name": "Citigroup Inc.",
   "sector": "Financial Services",
-  "industry": "Banks - Diversified",
+  "industry": "Diversified Banks",
   "upstream": [
     "MSFT",
-    "Data providers (e.g., Bloomberg, Refinitiv)",
     "Payment processors (e.g., Visa, Mastercard)",
-    "MSFT",
-    "Cybersecurity firms (e.g., Palo Alto Networks, Symantec)"
+    "Data analytics providers (e.g., Bloomberg)",
+    "Cybersecurity firms (e.g., Palo Alto Networks)",
+    "AMZN"
   ],
   "downstream": [
-    "Institutional clients (corporate, government, pension funds)",
-    "Retail banking customers (individuals and households)",
-    "Wealth management clients (high‑net‑worth individuals)",
-    "Small and medium‑enterprise (SME) borrowers",
-    "Corporate treasury and cash‑management clients"
+    "Corporate clients (e.g., Fortune 500 companies)",
+    "Retail banking customers",
+    "Government entities",
+    "High-net-worth individuals",
+    "Small and medium enterprises"
   ],
   "competitors": [
     "JPMorgan Chase & Co.",
@@ -25,13 +25,13 @@
     "Morgan Stanley"
   ],
   "key_products": [
-    "Investment banking and advisory services",
-    "Retail banking (checking, savings, mortgages)",
-    "Credit card issuance and payment processing",
-    "Wealth management and private banking",
-    "Securities brokerage and asset management"
+    "Investment banking services",
+    "Retail banking and credit cards",
+    "Wealth management",
+    "Treasury and trade solutions",
+    "Global payments and cash management"
   ],
-  "extracted_at": "2026-04-15 17:02:27",
+  "extracted_at": "2026-04-20 17:04:45",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Citigroup",
+      "url": "https://csimarket.com/stocks/C-Suppliers",
       "query": "Citigroup Inc. suppliers manufacturers",
+      "snippet": "Feb 22, 2026 · For your research, we’ve provided nine additional tables on Citigroup inc ’ s suppliers . You can find them in the navigation menu unde"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.statista.com/statistics/1323628/supplier-diversity-citigroup/",
+      "query": "Citigroup Inc. suppliers manufacturers",
+      "snippet": "Mar 3, 2026 · From 2020 to 2022, the annual Tier 1 spending of Citigroup with diverse suppliers increased significantly. In 2022, Citigroup spent 1.3 "
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/Citigroup",
+      "query": "Citigroup Inc. major customers clients",
       "snippet": "Citigroup Inc . or Citi is an American multinational investment bank and financial services company based in New York City. The company was formed in "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/C-Business-Description.html",
-      "query": "Citigroup Inc. suppliers manufacturers",
-      "snippet": "Citigroup Inc ' explanation of operations and nature of the Business - CSIMarket."
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Citigroup",
+      "url": "https://uk.investing.com/news/transcripts/earnings-call-transcript-citigroup-q1-2026-sees-strong-earnings-beat-93CH-4607629",
       "query": "Citigroup Inc. major customers clients",
-      "snippet": "Citigroup operates with two major divisions: Institutional Clients Group (ICG), which offers investment banking and corporate banking services, as wel"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.citigroup.com/rcs/citigpa/storage/public/citi-2024-annual-report.pdf",
-      "query": "Citigroup Inc. major customers clients",
-      "snippet": "The natural linkages between our businesses have always been a strength, and today we are maximizing those connections. All parts of the firm are work"
+      "snippet": "Citigroup Inc . reported strong earnings for the first quarter of 2026, with earnings per share (EPS) of $3.06, surpassing the forecast of $2.63 by 16"
     }
   ]
 }

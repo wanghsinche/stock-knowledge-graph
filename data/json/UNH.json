@@ -2,20 +2,20 @@
   "ticker": "UNH",
   "company_name": "UnitedHealth Group Incorporated",
   "sector": "Healthcare",
-  "industry": "Health Insurance / Healthcare Plans",
+  "industry": "Healthcare Plans",
   "upstream": [
     "Pharmaceutical manufacturers",
     "Medical device manufacturers",
-    "Health technology vendors",
-    "Data analytics service providers",
-    "Pharmacy benefit managers"
+    "IT service providers",
+    "Pharmacy benefit managers",
+    "Health technology vendors"
   ],
   "downstream": [
-    "Large employers (corporate health plans)",
-    "Government agencies (Medicare, Medicaid)",
-    "Individual consumers",
-    "Health care providers (hospitals, clinics)",
-    "Health savings account (HSA) holders"
+    "Large employers (e.g., Walmart, AT&T)",
+    "Government programs (Medicare, Medicaid)",
+    "Individual policyholders",
+    "Health care providers",
+    "Health insurers"
   ],
   "competitors": [
     "Anthem",
@@ -25,13 +25,13 @@
     "CVS Health (Aetna)"
   ],
   "key_products": [
-    "UnitedHealthcare health insurance plans",
-    "OptumHealth services",
-    "OptumRx pharmacy benefit management",
-    "OptumInsight data analytics",
-    "OptumCare clinical services"
+    "Health insurance plans",
+    "Health care services (Optum)",
+    "Pharmacy benefit management",
+    "Health data analytics",
+    "Telehealth and wellness programs"
   ],
-  "extracted_at": "2026-04-17 16:49:04",
+  "extracted_at": "2026-04-20 17:00:10",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://pitchgrade.com/companies/unitedhealth",
+      "url": "https://www.unitedhealthgroup.com/suppliers/information.html",
       "query": "UnitedHealth Group Incorporated suppliers manufacturers",
-      "snippet": "UnitedHealth Group Incorporated is publicly traded on the NYQ under the ticker symbol UNH. As a public company, it is owned by millions of shareholder"
+      "snippet": "Information for UnitedHealth Group suppliers , including access to our vendor portal"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/UNH/profile/",
+      "url": "https://csimarket.com/stocks/UNH-Suppliers",
       "query": "UnitedHealth Group Incorporated suppliers manufacturers",
-      "snippet": "UnitedHealth Group Incorporated operates as a health care company in the United States and internationally. It operates through four segments: Optum H"
+      "snippet": "Oct 29, 2025 · For your research, we’ve provided nine additional tables on Unitedhealth Group Incorporated ’s suppliers . You can find them in the nav"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.unitedhealthgroup.com/content/dam/UHG/PDF/investors/2024/UNH-Q4-2024-Form-10-K.pdf",
+      "url": "https://en.wikipedia.org/wiki/UnitedHealth_Group",
       "query": "UnitedHealth Group Incorporated major customers clients",
-      "snippet": "Our business depends on the integrity and timeliness of the data we use to serve our members, customers and health care professionals and to operate o"
+      "snippet": "1 week ago - In February 2012, the company acquired XLHealth, a sponsor of Medicare Advantage health plans with a primary focus on medicare recipients"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://app.stocklight.com/stocks/us/nyse-unh/unitedhealth-group-incorporated/annual-reports/nyse-unh-2025-10K-25680695.pdf",
+      "url": "https://www.uhc.com/about-us",
       "query": "UnitedHealth Group Incorporated major customers clients",
-      "snippet": "UnitedHealth Group Incorporated is a health care and well-being company with a mission to help people live healthier lives and help make the health sy"
+      "snippet": "UnitedHealth Group also includes Optum , a business that delivers care aided by technology and data, empowering people, partners and providers with th"
     }
   ]
 }

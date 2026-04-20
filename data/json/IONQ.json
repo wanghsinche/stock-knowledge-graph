@@ -2,36 +2,36 @@
   "ticker": "IONQ",
   "company_name": "IonQ, Inc.",
   "sector": "Technology",
-  "industry": "Quantum Computing",
+  "industry": "Computer Hardware",
   "upstream": [
-    "CAT",
-    "Global semiconductor suppliers",
-    "High‑precision ion trap component manufacturers",
-    "Cryogenic system providers",
-    "Optical component suppliers"
+    "Oxford Instruments",
+    "Thorlabs",
+    "Pfeiffer Vacuum",
+    "Coherent",
+    "National Instruments"
   ],
   "downstream": [
-    "Enterprise cloud customers",
-    "Academic research institutions",
-    "Government research labs",
-    "Quantum software developers",
-    "Industrial R&D firms"
+    "AMZN",
+    "MSFT",
+    "GOOGL",
+    "MIT",
+    "Harvard University"
   ],
   "competitors": [
     "Rigetti Computing",
+    "Quantinuum",
     "D-Wave Systems",
-    "IBM",
-    "GOOGL",
-    "Honeywell Quantum Solutions"
+    "Xanadu",
+    "PsiQuantum"
   ],
   "key_products": [
-    "Trapped‑ion quantum computers",
+    "Trapped ion quantum processors",
+    "Quantum computing cloud services",
     "Quantum software stack",
-    "Quantum circuit optimization tools",
-    "Cloud‑based quantum access platform",
-    "Quantum hardware‑software integration services"
+    "Quantum optimization algorithms",
+    "Quantum simulation platform"
   ],
-  "extracted_at": "2026-04-17 16:49:41",
+  "extracted_at": "2026-04-20 16:59:34",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,21 +47,21 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/sectors/technology/articles/ionq-achieves-key-photonic-interconnect-132500985.html",
+      "url": "https://seekingalpha.com/symbol/IONQ",
       "query": "IonQ, Inc. suppliers manufacturers",
-      "snippet": "IonQ , Inc . [NYSE: IONQ ] is the world’s leading quantum platform and merchant supplier - delivering integrated quantum solutions across computing, n"
+      "snippet": "A high-level overview of IonQ , Inc . ( IONQ ) stock. View ( IONQ ) real-time stock price, chart, news, analysis, analyst reviews and more."
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.ionq.com/",
       "query": "IonQ, Inc. major customers clients",
-      "snippet": "IonQ delivers trapped ion quantum computing systems, cloud access, and enterprise solutions for real-world quantum applications.System applications. Q"
+      "snippet": "IonQ delivers trapped ion quantum computing systems, cloud access, and enterprise solutions for real-world quantum applications.Quantum solutions to y"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.marketwatch.com/investing/stock/ionq",
+      "url": "https://blog.mexc.com/finance/why-ionq-stock-dropping-5-key-reasons-49-percent-decline/",
       "query": "IonQ, Inc. major customers clients",
-      "snippet": "IONQ | Complete IonQ Inc . stock news by MarketWatch. View real-time stock prices and stock quotes for a full financial overview.dMY Technology Group,"
+      "snippet": "IonQ is a quantum computing company specializing in trapped-ion technology, which uses individual ions as quantum bits (qubits). Founded in 2015 by ac"
     }
   ]
 }

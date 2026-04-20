@@ -1,18 +1,18 @@
 ---
 ticker: TSLA
 company: Tesla, Inc.
-sector: Consumer Cyclical / Auto Manufacturers
-industry: Automotive
-extracted_at: 2026-04-17 16:43:07
-last_updated: 2026-04-17
+sector: Consumer Cyclical
+industry: Auto Manufacturers
+extracted_at: 2026-04-20 16:54:57
+last_updated: 2026-04-20
 ---
 
 # TSLA - Tesla, Inc.
 
 ## 基本信息
 
-- **所属行业**: Consumer Cyclical / Auto Manufacturers / Automotive
-- **提取时间**: 2026-04-17 16:43:07
+- **所属行业**: Consumer Cyclical / Auto Manufacturers
+- **提取时间**: 2026-04-20 16:54:57
 
 ## 产业链关系
 
@@ -21,20 +21,20 @@ last_updated: 2026-04-17
 - [[LG Chem]]
 - [[CAT]]
 - [[005930.KS]]
-- [[SK Innovation]]
+- [[TSLA]]
 
 ### 下游客户
-- [[Individual consumers]]
-- [[Corporate fleet operators]]
+- [[Individual retail customers]]
+- [[Commercial fleet operators]]
+- [[Utility companies (grid‑scale storage)]]
 - [[Government agencies]]
-- [[Commercial delivery services]]
-- [[Electric vehicle charging network operators]]
+- [[Corporate leasing programs]]
 
 ### 竞争对手
+- [[Ford Motor Company]]
 - [[General Motors]]
-- [[Ford]]
-- [[Volkswagen]]
-- [[Rivian]]
+- [[Volkswagen Group]]
+- [[Rivian Automotive]]
 - [[Lucid Motors]]
 
 ### 核心产品
@@ -45,17 +45,18 @@ last_updated: 2026-04-17
 - [[Cybertruck]]
 - [[Semi]]
 - [[Powerwall]]
+- [[Powerpack]]
+- [[Megapack]]
 - [[Solar Roof]]
-- [[Solar Panels]]
 
 ## 数据来源
 
 - [Tesla, Inc.](https://en.wikipedia.org/wiki/Tesla,_Inc.)
 - [Tesla, Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/Tesla,_Inc.)
-- [Tesla, Inc. suppliers manufacturers](https://csimarket.com/stocks/TSLA-Suppliers)
-- [Tesla, Inc. major customers clients](https://businessmodelanalyst.com/tesla-target-market/)
-- [Tesla, Inc. major customers clients](https://businessmodelcanvastemplate.com/blogs/target-market/tesla-target-market)
+- [Tesla, Inc. suppliers manufacturers](https://www.tesla.com/)
+- [Tesla, Inc. major customers clients](https://en.wikipedia.org/wiki/Tesla,_Inc.)
+- [Tesla, Inc. major customers clients](https://www.tesla.com/)
 
 ## 元数据
 
-- **更新日期**: 2026-04-17
+- **更新日期**: 2026-04-20

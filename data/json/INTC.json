@@ -4,18 +4,18 @@
   "sector": "Technology",
   "industry": "Semiconductors",
   "upstream": [
-    "TSM",
-    "005930.KS",
-    "GlobalFoundries",
-    "MU",
-    "TXN"
+    "ASML",
+    "AMAT",
+    "LRCX",
+    "Tokyo Electron",
+    "KLA Corporation"
   ],
   "downstream": [
     "DELL",
+    "Lenovo",
     "HPQ",
-    "Lenovo Group",
     "AAPL",
-    "MSFT"
+    "005930.KS"
   ],
   "competitors": [
     "AMD",
@@ -27,11 +27,11 @@
   "key_products": [
     "Intel Core CPUs",
     "Intel Xeon CPUs",
-    "Intel Arc GPUs",
     "Intel chipsets",
-    "Intel AI accelerators"
+    "Intel integrated graphics",
+    "Intel memory controllers"
   ],
-  "extracted_at": "2026-04-17 16:45:40",
+  "extracted_at": "2026-04-20 16:56:37",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Intel",
-      "query": "Intel Corporation suppliers manufacturers",
-      "snippet": "Intel Corporation is an American multinational technology company headquartered in Santa Clara, California. It designs, manufactures, and sells comput"
-    },
-    {
-      "source": "DuckDuckGo",
       "url": "https://www.intel.com/content/www/us/en/partner/showcase/partner-directory/distributor.html",
       "query": "Intel Corporation suppliers manufacturers",
       "snippet": "Sell Intel® Products directly sourced from Intel as well as devices manufactured by OEMs"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Intel",
-      "query": "Intel Corporation major customers clients",
-      "snippet": "Intel Corporation is an American multinational technology company headquartered in Santa Clara, California. It designs, manufactures, and sells comput"
+      "url": "https://industryselect.com/blog/top-10-manufacturing-companies-in-arizona",
+      "query": "Intel Corporation suppliers manufacturers",
+      "snippet": "According to MNI, compiler of the industrial information that powers IndustrySelect, Arizona is currently home to 4,246 manufacturers employing 219,20"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/news/intel-just-18-months-land-155521377.html",
+      "url": "https://www.intel.com/content/www/us/en/customer-spotlight/overview.html",
       "query": "Intel Corporation major customers clients",
-      "snippet": "The issue here is that Intel recently made very clear that if it cannot land a major external customer , it will all be over for its cutting-edge manu"
+      "snippet": "Explore the Intel Customer Spotlight for the latest customer stories, case studies, and testimonials highlighting data-centric innovations."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.investopedia.com/articles/markets/100214/inside-intel-look-mega-chipmaker.asp",
+      "query": "Intel Corporation major customers clients",
+      "snippet": "Apr 9, 2026 · Intel's main customers include Dell, Lenovo, and HP. Get personalized, AI-powered answers built on 27+ years of trusted expertise. Never"
     }
   ]
 }

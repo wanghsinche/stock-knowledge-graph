@@ -4,34 +4,34 @@
   "sector": "Healthcare",
   "industry": "Drug Manufacturers - Specialty & Generic",
   "upstream": [
-    "Generic drug manufacturers",
-    "Specialty pharmaceutical suppliers",
-    "CAT",
-    "Personal care product manufacturers",
-    "Medical device component suppliers"
+    "Contract pharmaceutical manufacturers",
+    "Active pharmaceutical ingredient (API) suppliers",
+    "Packaging and labeling vendors",
+    "Logistics and distribution partners",
+    "Digital platform technology providers"
   ],
   "downstream": [
-    "Individual consumers",
-    "Health insurance providers",
-    "Corporate wellness programs",
-    "Pharmacy benefit managers",
-    "Retail pharmacy chains"
+    "Individual consumers via direct-to-consumer telehealth platform",
+    "Weight‑loss program participants",
+    "Men’s health product customers",
+    "Women’s health product customers",
+    "Retail pharmacy partners (e.g., CVS, Walgreens)"
   ],
   "competitors": [
     "Roman",
+    "Ro (formerly Roman)",
     "Nurx",
-    "MSFT",
-    "CVS Health",
-    "Walgreens"
+    "PlushCare",
+    "CVS Health (direct-to-consumer pharmacy services)"
   ],
   "key_products": [
-    "Prescription erectile dysfunction medication",
-    "Prescription hair loss treatment",
-    "OTC acne medication",
-    "Personal care skincare line",
-    "Men’s and women’s wellness supplements"
+    "Prescription erectile dysfunction medication (e.g., sildenafil)",
+    "Prescription hair‑loss treatments (e.g., finasteride)",
+    "Prescription acne medication (e.g., doxycycline)",
+    "Over‑the‑counter OTC pain relievers",
+    "Personal care products (e.g., deodorants, skincare)"
   ],
-  "extracted_at": "2026-04-17 16:50:50",
+  "extracted_at": "2026-04-20 16:59:20",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,25 +43,25 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Hims_&_Hers_Health",
       "query": "Hims & Hers Health, Inc. suppliers manufacturers",
-      "snippet": "Hims & Hers Health , Inc . is an American telehealth company established in 2017. The company provides prescription medications, over-the-counter medi"
+      "snippet": "Hims & Hers Health , Inc . is an American telehealth company established in 2017. Hims & Hers operates with a direct-to-consumer model. Consumers cons"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.hims.com/american-made",
+      "url": "https://finance.yahoo.com/quote/HIMS/",
       "query": "Hims & Hers Health, Inc. suppliers manufacturers",
-      "snippet": "At Hims , we’re committed to investing in a future that ensures access to safe—and in many cases life-changing—medicines for Americans nationwide. To "
+      "snippet": "Hims & Hers Health , Inc . operates as a consumer-first health and wellness platform that connects consumers to licensed healthcare professionals in t"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://investors.hims.com/news/news-details/2025/Customers-Say-Care-Through-Hims--Hers-Matches-or-Beats-the-Doctors-Office/default.aspx",
       "query": "Hims & Hers Health, Inc. major customers clients",
-      "snippet": "Oct 9, 2025 · 94% of customers said the overall quality of care accessed via Hims & Hers was as good as or better than their prior in-person healthcar"
+      "snippet": "Oct 9, 2025 · New white paper shows 94% of Hims & Hers customers surveyed rate their care experience as equal to or better than in-person care, ... Mi"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/HIMS-Customers",
+      "url": "https://news.hims.com/newsroom/how-more-customers-across-the-world-depend-on-hims-hers",
       "query": "Hims & Hers Health, Inc. major customers clients",
-      "snippet": "Jan 24, 2026 · In a bold move that redefines the landscape of health and wellness, Hims and Hers Health , Inc . has unveiled a trio of initiatives aim"
+      "snippet": "Feb 23, 2026 · Before ever scaling our Weight Loss specialty, we built a beloved consumer platform that had surpassed $1B in revenue and achieved prof"
     }
   ]
 }

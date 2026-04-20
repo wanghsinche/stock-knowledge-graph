@@ -6,32 +6,32 @@
   "upstream": [
     "AMZN",
     "MSFT",
-    "GOOGL",
-    "Palo Alto Networks",
-    "Symantec"
+    "Stripe",
+    "PayPal",
+    "NVDA"
   ],
   "downstream": [
-    "Retail cryptocurrency traders",
-    "Institutional investors",
-    "Crypto funds",
+    "Retail cryptocurrency investors",
+    "Institutional traders",
     "Hedge funds",
-    "Family offices"
+    "DeFi protocols",
+    "Corporate treasury departments"
   ],
   "competitors": [
     "Binance",
     "Kraken",
     "Gemini",
-    "FTX",
-    "Bitstamp"
+    "Bitstamp",
+    "FTX"
   ],
   "key_products": [
-    "Cryptocurrency exchange platform",
-    "Coinbase Wallet",
-    "Coinbase Pro",
-    "Coinbase Custody",
-    "Coinbase Earn"
+    "Cryptocurrency trading platform",
+    "Custody services",
+    "Staking services",
+    "Wallet solutions",
+    "API for developers"
   ],
-  "extracted_at": "2026-04-17 16:46:58",
+  "extracted_at": "2026-04-20 17:01:05",
   "sources": [
     {
       "source": "Wikipedia",
@@ -53,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://electroiq.com/stats/coinbase-statistics/",
+      "url": "https://en.wikipedia.org/wiki/Coinbase",
       "query": "Coinbase Global, Inc. major customers clients",
-      "snippet": "Jul 2, 2025 · Coinbase statistics show that Coinbase had 23 million verified users in Q1 of 2018, which history shows grew steadily each quarter. By t"
+      "snippet": "Coinbase Global , Inc . is an American cryptocurrency exchange. It was founded in 2012 by Brian Armstrong and Fred Ehrsam."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/COIN-Customers",
+      "url": "https://www.coinbase.com/",
       "query": "Coinbase Global, Inc. major customers clients",
-      "snippet": "Coinbase Global Inc customers and markets, results by customer and performance relative to COIN, by company and industry - CSIMarket"
+      "snippet": "Coinbase United States is a secure online platform for buying, selling, transferring, and storing cryptocurrency. Coinbase believes crypto will be par"
     }
   ]
 }

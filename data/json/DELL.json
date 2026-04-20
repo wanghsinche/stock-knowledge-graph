@@ -4,34 +4,34 @@
   "sector": "Technology",
   "industry": "Computer Hardware",
   "upstream": [
-    "INTC",
-    "AMD",
-    "NVDA",
-    "005930.KS",
-    "TSM"
+    "Foxconn",
+    "Pegatron",
+    "Quanta Computer",
+    "Compal Electronics",
+    "Wistron"
   ],
   "downstream": [
-    "Enterprise IT customers",
-    "Government agencies",
-    "CAT",
-    "Healthcare providers",
-    "Retail and e‑commerce businesses"
+    "U.S. Department of Defense",
+    "NASA",
+    "MSFT",
+    "AMZN",
+    "GOOGL"
   ],
   "competitors": [
     "HPQ",
-    "Lenovo",
+    "Lenovo Group",
     "AAPL",
-    "Asus",
-    "Acer"
+    "IBM",
+    "CSCO"
   ],
   "key_products": [
     "Personal computers",
     "Servers",
-    "Storage solutions",
     "Monitors",
-    "Networking & security equipment"
+    "Computer software",
+    "Computer security and network security"
   ],
-  "extracted_at": "2026-04-16 17:10:11",
+  "extracted_at": "2026-04-20 17:03:49",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Dell",
+      "url": "https://www.delltechnologies.com/asset/pl-pl/solutions/business-solutions/briefs-summaries/dell-public-supplier-list.pdf",
       "query": "Dell Technologies Inc. suppliers manufacturers",
+      "snippet": "The list of supplier facilities includes original design manufacturers (ODMs), final assembly and material suppliers that Dell buys from directly and/"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/DELL-Suppliers",
+      "query": "Dell Technologies Inc. suppliers manufacturers",
+      "snippet": "Mar 20, 2026 · Dell Technologies Inc supply chain, list and performance of Dell Technologies Incs ' suppliers - CSIMarket"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/Dell",
+      "query": "Dell Technologies Inc. major customers clients",
       "snippet": "Dell Inc ., formerly Dell Computer Corporation, is an American technology company that develops, sells, repairs, and supports personal computers (PCs)"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.dell.com/en-us",
-      "query": "Dell Technologies Inc. suppliers manufacturers",
-      "snippet": "Dell provides technology solutions, services & support. Buy Laptops, Touch Screen PCs, Desktops, Servers, Storage, Monitors, Gaming & Accessories."
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/DELL-Customers",
       "query": "Dell Technologies Inc. major customers clients",
-      "snippet": "1 day ago · For your research, we’ve provided 9 tables on Dell Technologies Inc corporate clients . You can find them in the navigation menu under Cus"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.marketscreener.com/quote/stock/DELL-TECHNOLOGIES-INC-118964889/finances-segments/",
-      "query": "Dell Technologies Inc. major customers clients",
-      "snippet": "1 day ago · Understand how activity and revenue gets distributed for Dell Technologies Inc . (0A7D). Ten-year segmentation history. The entire stock m"
+      "snippet": "Dell provides technology solutions, services & support. Buy Laptops, Touch Screen PCs, Desktops, Servers, Storage, Monitors, Gaming & Accessories.Univ"
     }
   ]
 }

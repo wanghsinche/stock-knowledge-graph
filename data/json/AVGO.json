@@ -1,37 +1,37 @@
 {
   "ticker": "AVGO",
   "company_name": "Broadcom Inc.",
-  "sector": "Technology",
+  "sector": "Technology / Semiconductors",
   "industry": "Semiconductors",
   "upstream": [
     "TSM",
     "005930.KS",
     "GlobalFoundries",
-    "UMC",
-    "SMIC"
+    "ASE Technology Holding",
+    "United Microelectronics Corporation"
   ],
   "downstream": [
-    "005930.KS",
     "CSCO",
     "DELL",
-    "HPQ",
-    "Lenovo"
+    "AMZN",
+    "MSFT",
+    "Huawei Technologies"
   ],
   "competitors": [
     "QCOM",
     "INTC",
     "NVDA",
-    "TXN",
-    "MRVL"
+    "MRVL",
+    "TXN"
   ],
   "key_products": [
-    "Wi‑Fi chips",
-    "Ethernet controllers",
-    "Broadband modems",
-    "Storage controllers",
-    "RF transceivers"
+    "Broadcom BCM series networking ASICs",
+    "Broadcom Wi‑Fi and 802.11 wireless chips",
+    "Broadcom Ethernet controllers",
+    "Broadcom storage controller chips",
+    "Broadcom infrastructure software solutions"
   ],
-  "extracted_at": "2026-04-17 16:45:51",
+  "extracted_at": "2026-04-20 16:57:10",
   "sources": [
     {
       "source": "Wikipedia",
@@ -53,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/AVGO-Customers",
+      "url": "https://en.wikipedia.org/wiki/Broadcom",
       "query": "Broadcom Inc. major customers clients",
-      "snippet": "Sales to our five largest customers represented 48.3%. Sales to Samsung represented 21.3%. Sales to Apple represented 13.3%."
+      "snippet": "Broadcom Inc . is an American multinational designer, developer, manufacturer, and global supplier of a wide range of semiconductor and infrastructure"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.appsruntheworld.com/customers-database/vendors/view/broadcom",
+      "url": "https://www.broadcom.com/",
       "query": "Broadcom Inc. major customers clients",
-      "snippet": "List of companies using or evaluating Broadcom applications, with details on their revenues, employees, industries, and locations."
+      "snippet": "Broadcom delivers semiconductors and infrastructure software for global enterprises’ most complex, mission-critical needs."
     }
   ]
 }

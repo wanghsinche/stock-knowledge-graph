@@ -1,15 +1,30 @@
 {
-  "last_updated": "2026-04-17 16:54:03",
+  "last_updated": "2026-04-20 17:05:31",
   "mode": "BOTH",
   "total_stocks": 52,
   "stocks": {
     "TSLA": {
       "company_name": "Tesla, Inc.",
-      "sector": "Consumer Cyclical / Auto Manufacturers",
-      "industry": "Automotive"
+      "sector": "Consumer Cyclical",
+      "industry": "Auto Manufacturers"
     },
     "NVDA": {
       "company_name": "NVIDIA Corporation",
+      "sector": "Technology",
+      "industry": "Semiconductors"
+    },
+    "MU": {
+      "company_name": "Micron Technology, Inc.",
+      "sector": "Technology",
+      "industry": "Semiconductors"
+    },
+    "SNDK": {
+      "company_name": "Sandisk Corporation",
+      "sector": "Technology / Computer Hardware",
+      "industry": "Semiconductor / Flash Memory"
+    },
+    "AMD": {
+      "company_name": "Advanced Micro Devices, Inc.",
       "sector": "Technology",
       "industry": "Semiconductors"
     },
@@ -18,8 +33,28 @@
       "sector": "Technology",
       "industry": "Software - Infrastructure"
     },
-    "MU": {
-      "company_name": "Micron Technology, Inc.",
+    "META": {
+      "company_name": "Meta Platforms, Inc.",
+      "sector": "Communication Services",
+      "industry": "Internet Content & Information"
+    },
+    "AAPL": {
+      "company_name": "Apple Inc.",
+      "sector": "Technology",
+      "industry": "Consumer Electronics"
+    },
+    "AMZN": {
+      "company_name": "Amazon.com, Inc.",
+      "sector": "Consumer Cyclical",
+      "industry": "Internet Retail"
+    },
+    "INTC": {
+      "company_name": "Intel Corporation",
+      "sector": "Technology",
+      "industry": "Semiconductors"
+    },
+    "MRVL": {
+      "company_name": "Marvell Technology, Inc.",
       "sector": "Technology",
       "industry": "Semiconductors"
     },
@@ -28,49 +63,9 @@
       "sector": "Communication Services",
       "industry": "Entertainment"
     },
-    "AAPL": {
-      "company_name": "Apple Inc.",
-      "sector": "Technology",
-      "industry": "Consumer Electronics"
-    },
-    "SNDK": {
-      "company_name": "Sandisk Corporation",
-      "sector": "Technology",
-      "industry": "Computer Hardware"
-    },
-    "AMZN": {
-      "company_name": "Amazon.com, Inc.",
-      "sector": "Consumer Cyclical / Internet Retail",
-      "industry": "Consumer Cyclical / Internet Retail"
-    },
-    "MSTR": {
-      "company_name": "MicroStrategy Incorporated",
-      "sector": "Technology",
-      "industry": "Software—Application"
-    },
-    "AMD": {
-      "company_name": "Advanced Micro Devices, Inc.",
-      "sector": "Technology",
-      "industry": "Semiconductors"
-    },
-    "META": {
-      "company_name": "Meta Platforms, Inc.",
-      "sector": "Communication Services",
-      "industry": "Internet Content & Information"
-    },
-    "ORCL": {
-      "company_name": "Oracle Corporation",
-      "sector": "Technology",
-      "industry": "Software - Infrastructure"
-    },
-    "INTC": {
-      "company_name": "Intel Corporation",
-      "sector": "Technology",
-      "industry": "Semiconductors"
-    },
     "AVGO": {
       "company_name": "Broadcom Inc.",
-      "sector": "Technology",
+      "sector": "Technology / Semiconductors",
       "industry": "Semiconductors"
     },
     "PLTR": {
@@ -78,10 +73,25 @@
       "sector": "Technology",
       "industry": "Software - Infrastructure"
     },
+    "ASTS": {
+      "company_name": "AST SpaceMobile, Inc.",
+      "sector": "Technology",
+      "industry": "Communication Equipment"
+    },
+    "CRWV": {
+      "company_name": "CoreWeave, Inc.",
+      "sector": "Technology",
+      "industry": "Software - Infrastructure"
+    },
+    "ORCL": {
+      "company_name": "Oracle Corporation",
+      "sector": "Technology",
+      "industry": "Software - Infrastructure"
+    },
     "HOOD": {
       "company_name": "Robinhood Markets, Inc.",
       "sector": "Financial Services",
-      "industry": "Capital Markets"
+      "industry": "Brokerage & Trading"
     },
     "GOOG": {
       "company_name": "Alphabet Inc.",
@@ -93,165 +103,155 @@
       "sector": "Technology",
       "industry": "Communication Equipment"
     },
-    "COIN": {
-      "company_name": "Coinbase Global, Inc.",
-      "sector": "Financial Services",
-      "industry": "Financial Data & Stock Exchanges"
-    },
-    "XOM": {
-      "company_name": "Exxon Mobil Corporation",
-      "sector": "Energy",
-      "industry": "Oil & Gas Integrated"
-    },
-    "CRWV": {
-      "company_name": "CoreWeave, Inc.",
-      "sector": "Technology",
-      "industry": "Software - Infrastructure"
-    },
-    "NBIS": {
-      "company_name": "Nebius Group N.V.",
-      "sector": "Communication Services",
-      "industry": "Internet Content & Information"
-    },
-    "MRVL": {
-      "company_name": "Marvell Technology, Inc.",
-      "sector": "Technology",
-      "industry": "Semiconductors"
-    },
-    "CVX": {
-      "company_name": "Chevron Corporation",
-      "sector": "Energy",
-      "industry": "Oil & Gas Integrated"
-    },
-    "CRM": {
-      "company_name": "Salesforce, Inc.",
+    "MSTR": {
+      "company_name": "Strategy Inc",
       "sector": "Technology",
       "industry": "Software - Application"
-    },
-    "LLY": {
-      "company_name": "Eli Lilly and Company",
-      "sector": "Healthcare",
-      "industry": "Drug Manufacturers - General"
     },
     "RKLB": {
       "company_name": "Rocket Lab Corporation",
       "sector": "Industrials",
       "industry": "Aerospace & Defense"
     },
-    "WMT": {
-      "company_name": "Walmart Inc.",
-      "sector": "Consumer Defensive",
-      "industry": "Discount Stores"
-    },
-    "UNH": {
-      "company_name": "UnitedHealth Group Incorporated",
-      "sector": "Healthcare",
-      "industry": "Health Insurance / Healthcare Plans"
-    },
-    "JPM": {
-      "company_name": "JPMorgan Chase & Co.",
-      "sector": "Financial Services",
-      "industry": "Banks - Diversified"
-    },
-    "V": {
-      "company_name": "Visa Inc.",
-      "sector": "Financial Services / Credit Services",
-      "industry": "Payment Processing"
-    },
-    "IONQ": {
-      "company_name": "IonQ, Inc.",
-      "sector": "Technology",
-      "industry": "Quantum Computing"
-    },
-    "BA": {
-      "company_name": "The Boeing Company",
-      "sector": "Industrials",
-      "industry": "Aerospace & Defense"
-    },
-    "OKLO": {
-      "company_name": "Oklo Inc.",
-      "sector": "Utilities",
-      "industry": "Utilities - Independent Power Producers"
-    },
-    "GS": {
-      "company_name": "The Goldman Sachs Group, Inc.",
-      "sector": "Financial Services",
-      "industry": "Capital Markets"
-    },
-    "CAT": {
-      "company_name": "Caterpillar Inc.",
-      "sector": "Industrials",
-      "industry": "Farm & Heavy Construction Machinery"
-    },
     "HIMS": {
       "company_name": "Hims & Hers Health, Inc.",
       "sector": "Healthcare",
       "industry": "Drug Manufacturers - Specialty & Generic"
     },
-    "GEV": {
-      "company_name": "GE Vernova Inc.",
-      "sector": "Industrials",
-      "industry": "Specialty Industrial Machinery"
-    },
-    "WDC": {
-      "company_name": "Western Digital Corporation",
+    "IONQ": {
+      "company_name": "IonQ, Inc.",
       "sector": "Technology",
       "industry": "Computer Hardware"
-    },
-    "BE": {
-      "company_name": "Bloom Energy Corporation",
-      "sector": "Industrials",
-      "industry": "Electrical Equipment & Parts"
-    },
-    "EFOI": {
-      "company_name": "Energy Focus, Inc.",
-      "sector": "Consumer Cyclical",
-      "industry": "Furnishings, Fixtures & Appliances"
-    },
-    "CRCL": {
-      "company_name": "Circle Internet Group",
-      "sector": "Financial Services / Capital Markets",
-      "industry": "Payments Technology / Stablecoin Issuer"
-    },
-    "GE": {
-      "company_name": "General Electric Company",
-      "sector": "Industrials",
-      "industry": "Aerospace & Defense"
     },
     "CAR": {
       "company_name": "Avis Budget Group, Inc.",
       "sector": "Industrials",
       "industry": "Rental & Leasing Services"
     },
-    "SCHW": {
-      "company_name": "The Charles Schwab Corporation",
+    "NBIS": {
+      "company_name": "Nebius Group N.V.",
+      "sector": "Communication Services",
+      "industry": "Internet Content & Information"
+    },
+    "UNH": {
+      "company_name": "UnitedHealth Group Incorporated",
+      "sector": "Healthcare",
+      "industry": "Healthcare Plans"
+    },
+    "BE": {
+      "company_name": "Bloom Energy Corporation",
+      "sector": "Industrials",
+      "industry": "Electrical Equipment & Parts"
+    },
+    "CRM": {
+      "company_name": "Salesforce, Inc.",
+      "sector": "Technology",
+      "industry": "Software - Application"
+    },
+    "XOM": {
+      "company_name": "Exxon Mobil Corporation",
+      "sector": "Energy",
+      "industry": "Oil & Gas Integrated"
+    },
+    "COIN": {
+      "company_name": "Coinbase Global, Inc.",
       "sector": "Financial Services",
+      "industry": "Financial Data & Stock Exchanges"
+    },
+    "IREN": {
+      "company_name": "IREN Limited",
+      "sector": "Financial Services / Capital Markets",
       "industry": "Capital Markets"
+    },
+    "NOW": {
+      "company_name": "ServiceNow, Inc.",
+      "sector": "Technology",
+      "industry": "Software - Application"
+    },
+    "BLD": {
+      "company_name": "TopBuild Corp.",
+      "sector": "Industrials",
+      "industry": "Engineering & Construction"
+    },
+    "WDC": {
+      "company_name": "Western Digital Corporation",
+      "sector": "Technology",
+      "industry": "Computer Hardware"
+    },
+    "JPM": {
+      "company_name": "JPMorgan Chase & Co.",
+      "sector": "Financial Services",
+      "industry": "Banks - Diversified"
+    },
+    "WMT": {
+      "company_name": "Walmart Inc.",
+      "sector": "Consumer Defensive",
+      "industry": "Discount Stores"
+    },
+    "BAC": {
+      "company_name": "Bank of America Corporation",
+      "sector": "Financial Services",
+      "industry": "Banks - Diversified"
+    },
+    "ADI": {
+      "company_name": "Analog Devices, Inc.",
+      "sector": "Technology",
+      "industry": "Semiconductors"
     },
     "COHR": {
       "company_name": "Coherent Corp.",
       "sector": "Technology",
       "industry": "Scientific & Technical Instruments"
     },
-    "MA": {
-      "company_name": "Mastercard Incorporated",
-      "sector": "Financial Services",
-      "industry": "Payment Services"
+    "APP": {
+      "company_name": "AppLovin Corporation",
+      "sector": "Communication Services",
+      "industry": "Advertising Agencies"
     },
-    "IREN": {
-      "company_name": "IREN Limited",
-      "sector": "Financial Services / Capital Markets",
-      "industry": "Data Center Services"
+    "QXO": {
+      "company_name": "QXO, Inc.",
+      "sector": "Industrials / Industrial Distribution",
+      "industry": "Industrial Distribution Technology"
     },
-    "BMNR": {
-      "company_name": "Bitmine Immersion Technologies, Inc.",
-      "sector": "Financial Services / Capital Markets",
-      "industry": "Digital Asset Platform / Cryptocurrency Staking"
+    "CVX": {
+      "company_name": "Chevron Corporation",
+      "sector": "Energy",
+      "industry": "Oil & Gas Integrated"
     },
-    "NOW": {
-      "company_name": "ServiceNow, Inc.",
+    "STX": {
+      "company_name": "Seagate Technology Holdings plc",
+      "sector": "Technology / Computer Hardware",
+      "industry": "Data Storage"
+    },
+    "DELL": {
+      "company_name": "Dell Technologies Inc.",
       "sector": "Technology",
-      "industry": "Software - Application"
+      "industry": "Computer Hardware"
+    },
+    "ADBE": {
+      "company_name": "Adobe Inc.",
+      "sector": "Technology / Software - Application",
+      "industry": "Computer Software"
+    },
+    "GEV": {
+      "company_name": "GE Vernova Inc.",
+      "sector": "Industrials",
+      "industry": "Specialty Industrial Machinery"
+    },
+    "LLY": {
+      "company_name": "Eli Lilly and Company",
+      "sector": "Healthcare",
+      "industry": "Drug Manufacturers - General"
+    },
+    "C": {
+      "company_name": "Citigroup Inc.",
+      "sector": "Financial Services",
+      "industry": "Diversified Banks"
+    },
+    "GS": {
+      "company_name": "The Goldman Sachs Group, Inc.",
+      "sector": "Financial Services",
+      "industry": "Capital Markets"
     },
     "MRNA": {
       "company_name": "Moderna, Inc.",

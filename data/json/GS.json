@@ -4,34 +4,34 @@
   "sector": "Financial Services",
   "industry": "Capital Markets",
   "upstream": [
-    "MSFT",
-    "AMZN",
     "Bloomberg",
     "Refinitiv",
-    "Accenture"
+    "MSFT",
+    "ORCL",
+    "FactSet"
   ],
   "downstream": [
-    "Corporations",
+    "Large corporations",
     "Governments",
     "Institutional investors",
-    "High‑net‑worth individuals",
+    "Hedge funds",
     "Pension funds"
   ],
   "competitors": [
-    "JPMorgan Chase",
+    "JPMorgan Chase & Co.",
     "Morgan Stanley",
     "Bank of America",
     "Citigroup",
     "Wells Fargo"
   ],
   "key_products": [
-    "Investment banking services",
-    "Securities underwriting",
+    "Investment banking",
+    "Securities trading",
     "Asset management",
     "Wealth management",
-    "Trading & execution"
+    "Research & advisory"
   ],
-  "extracted_at": "2026-04-17 16:50:19",
+  "extracted_at": "2026-04-20 17:05:00",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,25 +43,25 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Goldman_Sachs",
       "query": "The Goldman Sachs Group, Inc. suppliers manufacturers",
-      "snippet": "In August 2021, Goldman Sachs announced that it had agreed to acquire NN Investment Partners, which had $335 billion in assets under management, for €"
+      "snippet": "The Goldman Sachs Group , Inc . is an American multinational investment bank and financial services company. Founded in 1869, Goldman Sachs is headqua"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/GS-Suppliers",
+      "url": "https://www.goldmansachs.com/",
       "query": "The Goldman Sachs Group, Inc. suppliers manufacturers",
-      "snippet": "Feb 26, 2026 · For your research, we’ve provided nine additional tables on The Goldman Sachs Group Inc ’s suppliers . You can find them in the navigat"
+      "snippet": "The Goldman Sachs Group , Inc . is a leading global investment banking, securities, and asset and wealth management firm that provides a wide range of"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.goldmansachs.com/what-we-do/serving-clients",
+      "url": "https://en.wikipedia.org/wiki/Goldman_Sachs",
       "query": "The Goldman Sachs Group, Inc. major customers clients",
-      "snippet": "Innovative and customer -centered financial products that power our clients ’ businesses. Original, fundamental insights and analysis of economic, mar"
+      "snippet": "The Goldman Sachs Group , Inc . is an American multinational investment bank and financial services company. Founded in 1869, Goldman Sachs is headqua"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://investguiding.com/articles/who-are-goldman-sachs-clients",
+      "url": "https://www.goldmansachs.com/",
       "query": "The Goldman Sachs Group, Inc. major customers clients",
-      "snippet": "Mar 22, 2026 · How many clients does Goldman Sachs have? We are pleased with our early progress: we have more than 3 million total customers , $36 bil"
+      "snippet": "The Goldman Sachs Group , Inc . is a leading global investment banking, securities, and asset and wealth management firm that provides a wide range of"
     }
   ]
 }

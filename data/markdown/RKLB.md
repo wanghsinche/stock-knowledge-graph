@@ -3,8 +3,8 @@ ticker: RKLB
 company: Rocket Lab Corporation
 sector: Industrials
 industry: Aerospace & Defense
-extracted_at: 2026-04-17 16:48:40
-last_updated: 2026-04-17
+extracted_at: 2026-04-20 16:59:08
+last_updated: 2026-04-20
 ---
 
 # RKLB - Rocket Lab Corporation
@@ -12,23 +12,23 @@ last_updated: 2026-04-17
 ## 基本信息
 
 - **所属行业**: Industrials / Aerospace & Defense
-- **提取时间**: 2026-04-17 16:48:40
+- **提取时间**: 2026-04-20 16:59:08
 
 ## 产业链关系
 
 ### 上游供应商
-- [[star trackers]]
-- [[reaction wheels]]
-- [[solar panels]]
-- [[software-defined radios]]
-- [[electric propulsion system]]
+- [[Star trackers]]
+- [[Reaction wheels]]
+- [[Solar panels]]
+- [[Software‑defined radios]]
+- [[Composite structures]]
 
 ### 下游客户
-- [[small satellite operators]]
-- [[satellite constellations]]
-- [[space agencies]]
-- [[commercial satellite customers]]
-- [[research institutions]]
+- [[Commercial satellite operators]]
+- [[Government space agencies]]
+- [[Defense contractors]]
+- [[Space research institutions]]
+- [[Commercial launch customers]]
 
 ### 竞争对手
 - [[SpaceX]]
@@ -39,19 +39,19 @@ last_updated: 2026-04-17
 
 ### 核心产品
 - [[Electron orbital rocket]]
-- [[HASTE suborbital vehicle]]
-- [[Neutron medium‑lift rocket]]
-- [[satellite components]]
-- [[electric propulsion system]]
+- [[HASTE suborbital variant]]
+- [[Neutron medium‑lift launch vehicle]]
+- [[Star trackers]]
+- [[Reaction wheels]]
 
 ## 数据来源
 
 - [Rocket Lab](https://en.wikipedia.org/wiki/Rocket_Lab_Corporation)
+- [Rocket Lab Corporation suppliers manufacturers](https://en.wikipedia.org/wiki/Rocket_Lab)
 - [Rocket Lab Corporation suppliers manufacturers](https://rocketlabcorp.com/)
-- [Rocket Lab Corporation suppliers manufacturers](https://dailyguardian.ca/rocket-lab-unveils-new-electric-propulsion-satellite-thruster-to-meet-constellation-demand/)
-- [Rocket Lab Corporation major customers clients](https://en.wikipedia.org/wiki/Rocket_Lab)
 - [Rocket Lab Corporation major customers clients](https://csimarket.com/stocks/RKLB-Customers)
+- [Rocket Lab Corporation major customers clients](https://portersfiveforce.com/blogs/target-market/rocketlabusa)
 
 ## 元数据
 
-- **更新日期**: 2026-04-17
+- **更新日期**: 2026-04-20

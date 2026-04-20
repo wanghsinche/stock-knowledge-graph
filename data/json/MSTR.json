@@ -1,8 +1,8 @@
 {
   "ticker": "MSTR",
-  "company_name": "MicroStrategy Incorporated",
+  "company_name": "Strategy Inc",
   "sector": "Technology",
-  "industry": "Software—Application",
+  "industry": "Software - Application",
   "upstream": [
     "MSFT",
     "AMZN",
@@ -11,27 +11,27 @@
     "IBM"
   ],
   "downstream": [
-    "Bank of America",
-    "JPMorgan Chase",
-    "Walmart",
-    "Coca-Cola",
-    "General Electric"
+    "Financial institutions",
+    "Enterprise corporations",
+    "Government agencies",
+    "Retail companies",
+    "Healthcare organizations"
   ],
   "competitors": [
-    "Tableau Software",
-    "Qlik",
+    "Tableau",
     "MSFT",
-    "SAP BusinessObjects",
-    "IBM"
+    "Qlik",
+    "SAP Analytics Cloud",
+    "ORCL"
   ],
   "key_products": [
-    "MicroStrategy Desktop",
-    "MicroStrategy Server",
-    "MicroStrategy Cloud",
-    "MicroStrategy Mobile",
-    "MicroStrategy Analytics"
+    "Corporate software platform",
+    "Analytics & Business Intelligence suite",
+    "Credit instrument management",
+    "Data integration services",
+    "Cloud analytics services"
   ],
-  "extracted_at": "2026-04-17 16:44:48",
+  "extracted_at": "2026-04-20 16:58:57",
   "sources": [
     {
       "source": "Wikipedia",
@@ -55,13 +55,13 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/MicroStrategy",
       "query": "Strategy Inc major customers clients",
-      "snippet": "Strategy Inc ., formerly known as MicroStrategy, is an American company that provides business intelligence and mobile software. Founded in 1989 by Mi"
+      "snippet": "Strategy has launched four credit instruments in the second and third quarter of 2025 worth $4 billion, with more to come. Michael Saylor told Bloombe"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/MSTR/",
+      "url": "https://www.strategy.com/software/news/strategy-recognized-as-a-customers-choice-on-gartner-peer-insights-through-user-feedback-for-fourth-consecutive-year",
       "query": "Strategy Inc major customers clients",
-      "snippet": "Find the latest Strategy Inc (MSTR) stock quote, history, news and other vital information to help you with your stock trading and investing."
+      "snippet": "Dec 11, 2025 · Discover why Strategy Inc . is the only Analytics & Business Intelligence Platforms vendor to be named a Customers ' Choice in the 2025"
     }
   ]
 }

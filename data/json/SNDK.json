@@ -1,37 +1,37 @@
 {
   "ticker": "SNDK",
   "company_name": "Sandisk Corporation",
-  "sector": "Technology",
-  "industry": "Computer Hardware",
+  "sector": "Technology / Computer Hardware",
+  "industry": "Semiconductor / Flash Memory",
   "upstream": [
     "MU",
     "005930.KS",
     "SK Hynix",
-    "WDC",
-    "Nanya Technology"
+    "Kioxia (formerly Toshiba Memory)",
+    "WDC"
   ],
   "downstream": [
     "AAPL",
-    "MSFT",
-    "AMZN",
-    "GOOGL",
-    "DELL"
+    "005930.KS",
+    "DELL",
+    "HPQ",
+    "SONY"
   ],
   "competitors": [
-    "MU",
-    "005930.KS",
     "Kingston Technology",
+    "MU",
+    "Lexar",
     "Corsair",
-    "MU"
+    "PNY Technologies"
   ],
   "key_products": [
-    "Memory cards (SD, microSD)",
+    "SD cards",
+    "microSD cards",
     "USB flash drives",
-    "Solid-state drives (SSDs)",
-    "Enterprise SSDs",
-    "Embedded flash memory"
+    "SSD (internal)",
+    "SSD (external)"
   ],
-  "extracted_at": "2026-04-17 16:44:22",
+  "extracted_at": "2026-04-20 16:55:30",
   "sources": [
     {
       "source": "Wikipedia",
@@ -59,9 +59,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.appsruntheworld.com/customers-database/vendors/view/sandisk",
+      "url": "https://enlyft.com/tech/products/sandisk",
       "query": "Sandisk Corporation major customers clients",
-      "snippet": "List of companies using or evaluating SanDisk applications, with details on their revenues, employees, industries, and locations."
+      "snippet": "Looking at SanDisk customers by industry, we find that Information Technology and Services (12%), Marketing and Advertising (8%), Computer Software (8"
     }
   ]
 }

@@ -5,33 +5,33 @@
   "industry": "Banks - Diversified",
   "upstream": [
     "MSFT",
-    "Cloud service providers (e.g., AWS, Azure)",
     "Payment processors (e.g., Visa, Mastercard)",
+    "Data analytics providers (e.g., Bloomberg, S&P Global)",
     "Cybersecurity firms (e.g., Palo Alto Networks)",
-    "DELL"
+    "AMZN"
   ],
   "downstream": [
-    "Retail banking customers",
-    "Small and medium-sized businesses",
-    "Large corporate clients",
-    "Institutional investors",
-    "Mortgage borrowers"
+    "Retail banking customers (individuals)",
+    "Small and medium-sized enterprises (SMEs)",
+    "Large corporations and institutional clients",
+    "Mortgage borrowers",
+    "Credit card holders"
   ],
   "competitors": [
-    "JPMorgan Chase",
-    "Citigroup",
-    "Wells Fargo",
-    "Goldman Sachs",
+    "JPMorgan Chase & Co.",
+    "Citigroup Inc.",
+    "Wells Fargo & Co.",
+    "Goldman Sachs Group Inc.",
     "Morgan Stanley"
   ],
   "key_products": [
     "Consumer banking services",
-    "Wealth management",
-    "Investment banking",
+    "Corporate and investment banking",
+    "Wealth management and private banking",
     "Credit card products",
-    "Mortgage lending"
+    "Mortgage and home equity lending"
   ],
-  "extracted_at": "2026-04-16 17:11:56",
+  "extracted_at": "2026-04-20 17:02:26",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/Bank_of_America",
+      "query": "Bank of America Corporation suppliers manufacturers",
+      "snippet": "Bank of America 's major competitors are Wells Fargo, Santander, PNC Financial Services, Ally Financial, Capital One, JPMorgan Chase Bank, US Bank, Ci"
+    },
+    {
+      "source": "DuckDuckGo",
       "url": "https://csimarket.com/stocks/BAC-Suppliers",
       "query": "Bank of America Corporation suppliers manufacturers",
       "snippet": "Feb 26, 2026 · For your research, we’ve provided nine additional tables on Bank Of America Corporation ’ s suppliers . You can find them in the naviga"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://about.bankofamerica.com/en/our-company/supplier-management",
-      "query": "Bank of America Corporation suppliers manufacturers",
-      "snippet": "Bank of America is dedicated to partnering with suppliers who value ethics, inclusion, human rights, and the environment. Learn more about our supplie"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://newsroom.bankofamerica.com/content/newsroom/company-overview/bank-of-america-fast-facts.html",
-      "query": "Bank of America Corporation major customers clients",
-      "snippet": "Feb 24, 2026 · Explore Bank of America Fast Facts for key insights on our global presence, financial services, client reach, and commitment to respons"
-    },
-    {
-      "source": "DuckDuckGo",
       "url": "https://csimarket.com/stocks/BAC-Customers",
       "query": "Bank of America Corporation major customers clients",
-      "snippet": "Apr 9, 2026 · For your research, we’ve provided 9 tables on Bank Of America Corporation corporate clients . You can find them in the navigation menu u"
+      "snippet": "For your research, we’ve provided 9 tables on Bank Of America Corporation corporate clients . You can find them in the navigation menu under Customers"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://thestrategystory.com/blog/bank-of-america-boa-swot-analysis/",
+      "query": "Bank of America Corporation major customers clients",
+      "snippet": "See full list on thestrategystory.com See full list on thestrategystory.com See full list on thestrategystory.com See full list on thestrategystory.co"
     }
   ]
 }

@@ -2,56 +2,56 @@
 ticker: IONQ
 company: IonQ, Inc.
 sector: Technology
-industry: Quantum Computing
-extracted_at: 2026-04-17 16:49:41
-last_updated: 2026-04-17
+industry: Computer Hardware
+extracted_at: 2026-04-20 16:59:34
+last_updated: 2026-04-20
 ---
 
 # IONQ - IonQ, Inc.
 
 ## 基本信息
 
-- **所属行业**: Technology / Quantum Computing
-- **提取时间**: 2026-04-17 16:49:41
+- **所属行业**: Technology / Computer Hardware
+- **提取时间**: 2026-04-20 16:59:34
 
 ## 产业链关系
 
 ### 上游供应商
-- [[CAT]]
-- [[Global semiconductor suppliers]]
-- [[High‑precision ion trap component manufacturers]]
-- [[Cryogenic system providers]]
-- [[Optical component suppliers]]
+- [[Oxford Instruments]]
+- [[Thorlabs]]
+- [[Pfeiffer Vacuum]]
+- [[Coherent]]
+- [[National Instruments]]
 
 ### 下游客户
-- [[Enterprise cloud customers]]
-- [[Academic research institutions]]
-- [[Government research labs]]
-- [[Quantum software developers]]
-- [[Industrial R&D firms]]
+- [[AMZN]]
+- [[MSFT]]
+- [[GOOGL]]
+- [[MIT]]
+- [[Harvard University]]
 
 ### 竞争对手
 - [[Rigetti Computing]]
+- [[Quantinuum]]
 - [[D-Wave Systems]]
-- [[IBM]]
-- [[GOOGL]]
-- [[Honeywell Quantum Solutions]]
+- [[Xanadu]]
+- [[PsiQuantum]]
 
 ### 核心产品
-- [[Trapped‑ion quantum computers]]
+- [[Trapped ion quantum processors]]
+- [[Quantum computing cloud services]]
 - [[Quantum software stack]]
-- [[Quantum circuit optimization tools]]
-- [[Cloud‑based quantum access platform]]
-- [[Quantum hardware‑software integration services]]
+- [[Quantum optimization algorithms]]
+- [[Quantum simulation platform]]
 
 ## 数据来源
 
 - [IonQ](https://en.wikipedia.org/wiki/IonQ,_Inc.)
 - [IonQ, Inc. suppliers manufacturers](https://www.ionq.com/)
-- [IonQ, Inc. suppliers manufacturers](https://finance.yahoo.com/sectors/technology/articles/ionq-achieves-key-photonic-interconnect-132500985.html)
+- [IonQ, Inc. suppliers manufacturers](https://seekingalpha.com/symbol/IONQ)
 - [IonQ, Inc. major customers clients](https://www.ionq.com/)
-- [IonQ, Inc. major customers clients](https://www.marketwatch.com/investing/stock/ionq)
+- [IonQ, Inc. major customers clients](https://blog.mexc.com/finance/why-ionq-stock-dropping-5-key-reasons-49-percent-decline/)
 
 ## 元数据
 
-- **更新日期**: 2026-04-17
+- **更新日期**: 2026-04-20

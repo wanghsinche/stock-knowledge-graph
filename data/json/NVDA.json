@@ -7,8 +7,8 @@
     "TSM",
     "005930.KS",
     "GlobalFoundries",
-    "UMC",
-    "SMIC"
+    "NVDA",
+    "MU"
   ],
   "downstream": [
     "SONY",
@@ -22,16 +22,16 @@
     "INTC",
     "QCOM",
     "AVGO",
-    "ARM"
+    "AAPL"
   ],
   "key_products": [
     "GeForce RTX GPUs",
     "NVIDIA A100 Tensor Core GPU",
-    "NVIDIA H100 Tensor Core GPU",
-    "NVIDIA Drive PX automotive platform",
-    "NVIDIA Jetson AI platform"
+    "NVIDIA DGX AI Systems",
+    "Jetson SoC",
+    "CUDA API"
   ],
-  "extracted_at": "2026-04-17 16:43:21",
+  "extracted_at": "2026-04-20 16:55:05",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,25 +43,25 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Nvidia",
       "query": "NVIDIA Corporation suppliers manufacturers",
-      "snippet": "Nvidia Corporation . Show white logotype. Nvidia uses external suppliers for all phases of manufacturing , including wafer fabrication, assembly, test"
+      "snippet": "1 day ago - In August 2025, Nvidia ordered ... due to security concerns. The company directed suppliers including Taiwan Semiconductor Manufacturing C"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/NVDA/",
+      "url": "https://www.theaireport.ai/partner-columns/nvidias-supply-chain--part-1",
       "query": "NVIDIA Corporation suppliers manufacturers",
-      "snippet": "Find the latest NVIDIA Corporation (NVDA) stock quote, history, news and other vital information to help you with your stock trading and investing."
+      "snippet": "September 9, 2025 - Answering this simple question could unearth some investment opportunities that average ETF investors will miss. Here’s what you n"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Nvidia",
+      "url": "https://stocksandfuturestrading.com/the-complete-list-of-nvidias-suppliers-and-consumers/",
       "query": "NVIDIA Corporation major customers clients",
-      "snippet": "Nvidia Corporation . Show white logotype.On December 18, 2025, Nvidia announced plans to build a major new research and development campus in Kiryat T"
+      "snippet": "Nov 22, 2024 · NVIDIA has completed one of the most dramatic business transformations in market history — going from a gaming GPU company to the backb"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://qz.com/nvidia-ai-chips-customers-google-microsoft-meta-amazon-1851653971",
+      "url": "https://www.fool.com/investing/2025/06/26/who-are-nvidias-biggest-customers/",
       "query": "NVIDIA Corporation major customers clients",
-      "snippet": "While the customers are anonymous in Nvidia ’s 10-Q regulatory filing, “ Customer A” made up 14% of Nvidia ’s revenue, while two customers made up 11%"
+      "snippet": "Jun 26, 2025 · Who Are Nvidia 's Biggest Customers ? Nvidia supplies the most powerful data center chips in the world for artificial intelligence (AI)"
     }
   ]
 }

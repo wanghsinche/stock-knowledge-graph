@@ -2,26 +2,26 @@
   "ticker": "ADBE",
   "company_name": "Adobe Inc.",
   "sector": "Technology / Software - Application",
-  "industry": "Creative & Design Software",
+  "industry": "Computer Software",
   "upstream": [
-    "AMZN",
-    "MSFT",
-    "GOOGL",
-    "INTC",
-    "NVDA"
+    "AMD",
+    "Cloud infrastructure providers (e.g., AWS, Azure)",
+    "NVDA",
+    "Software library vendors (open‑source libraries)",
+    "Printing equipment manufacturers"
   ],
   "downstream": [
-    "ADBE",
-    "ADBE",
-    "ADBE",
-    "ADBE",
-    "ADBE"
+    "Graphic design professionals",
+    "Photographers",
+    "Video production companies",
+    "Marketing agencies",
+    "Publishing houses"
   ],
   "competitors": [
-    "Autodesk",
-    "Corel",
-    "Serif",
     "MSFT",
+    "Corel",
+    "Affinity",
+    "Autodesk",
     "AAPL"
   ],
   "key_products": [
@@ -29,9 +29,9 @@
     "Adobe Illustrator",
     "Adobe InDesign",
     "Adobe Premiere Pro",
-    "Adobe Acrobat"
+    "Adobe After Effects"
   ],
-  "extracted_at": "2026-04-09 17:06:34",
+  "extracted_at": "2026-04-20 17:04:03",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Adobe_Inc.",
+      "url": "https://www.adobe.com/procurement.html",
       "query": "Adobe Inc. suppliers manufacturers",
-      "snippet": "Adobe Systems Incorporated (1982–2018). Company type. Public. Adobe added kanji printer products in 1988.[16] Warnock and Geschke were also able to bo"
+      "snippet": "Adobe aims at building long-term business partnerships with a select group of suppliers that share our commitment to delivering the highest quality pr"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ru.wikipedia.org/wiki/Adobe",
+      "url": "https://arizonaadobe.com/",
       "query": "Adobe Inc. suppliers manufacturers",
-      "snippet": "Adobe — американская компания, разработчик программного обеспечения. Штаб-квартира расположена в Сан-Хосе.Доля в акционерном капитале, % Стоимость акц"
+      "snippet": "ARIZONA ADOBE COMPANY is an adobe brick producer, specializing in earthen-based methods and materials. We supply the best adobe bricks and provide the"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Adobe_Inc.",
       "query": "Adobe Inc. major customers clients",
-      "snippet": "Adobe Systems Incorporated (1982–2018). Company type.As of 2022,[update] Adobe had more than 26,000 employees worldwide.[4] Adobe also has major devel"
+      "snippet": "Adobe Systems Incorporated (1982–2018). Company type.In June 2024, after facing backlash for its changes to the terms of service, Adobe updated them t"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://ru.wikipedia.org/wiki/Adobe",
       "query": "Adobe Inc. major customers clients",
-      "snippet": "Adobe — американская компания, разработчик программного обеспечения. Штаб-квартира расположена в Сан-Хосе."
+      "snippet": "Adobe — американская компания, разработчик программного обеспечения. Штаб-квартира расположена в Сан-Хосе.Стоимость акций, $ Vanguard Group, Inc ."
     }
   ]
 }

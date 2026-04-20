@@ -1,27 +1,27 @@
 {
   "ticker": "TSLA",
   "company_name": "Tesla, Inc.",
-  "sector": "Consumer Cyclical / Auto Manufacturers",
-  "industry": "Automotive",
+  "sector": "Consumer Cyclical",
+  "industry": "Auto Manufacturers",
   "upstream": [
     "Panasonic",
     "LG Chem",
     "CAT",
     "005930.KS",
-    "SK Innovation"
+    "TSLA"
   ],
   "downstream": [
-    "Individual consumers",
-    "Corporate fleet operators",
+    "Individual retail customers",
+    "Commercial fleet operators",
+    "Utility companies (grid‑scale storage)",
     "Government agencies",
-    "Commercial delivery services",
-    "Electric vehicle charging network operators"
+    "Corporate leasing programs"
   ],
   "competitors": [
+    "Ford Motor Company",
     "General Motors",
-    "Ford",
-    "Volkswagen",
-    "Rivian",
+    "Volkswagen Group",
+    "Rivian Automotive",
     "Lucid Motors"
   ],
   "key_products": [
@@ -32,10 +32,11 @@
     "Cybertruck",
     "Semi",
     "Powerwall",
-    "Solar Roof",
-    "Solar Panels"
+    "Powerpack",
+    "Megapack",
+    "Solar Roof"
   ],
-  "extracted_at": "2026-04-17 16:43:07",
+  "extracted_at": "2026-04-20 16:54:57",
   "sources": [
     {
       "source": "Wikipedia",
@@ -51,21 +52,21 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/TSLA-Suppliers",
+      "url": "https://www.tesla.com/",
       "query": "Tesla, Inc. suppliers manufacturers",
-      "snippet": "Tesla Inc 's Suppliers Performance. TSLA's Supply Chain. Tesla relies on a wide range of suppliers beyond just battery manufacturers to build our elec"
+      "snippet": "Explore limited-time offers on Tesla vehicles. Learn More. Robovan."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://businessmodelanalyst.com/tesla-target-market/",
+      "url": "https://en.wikipedia.org/wiki/Tesla,_Inc.",
       "query": "Tesla, Inc. major customers clients",
-      "snippet": "Nov 7, 2024 · This article explores the intricacies of Tesla target market, analyzing the demographic, geographic, psychographic, and behavioral facto"
+      "snippet": "Tesla , Inc . is an American multinational automotive and clean energy company.The company was incorporated in July 2003 by Martin Eberhard and Marc T"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://businessmodelcanvastemplate.com/blogs/target-market/tesla-target-market",
+      "url": "https://www.tesla.com/",
       "query": "Tesla, Inc. major customers clients",
-      "snippet": "Mar 18, 2026 · Understand the target market for Tesla 's electric vehicles. Discover how Tesla focuses on specific consumer segments to drive sales an"
+      "snippet": "Video Guides. Customer Stories. Events. Safety.Explore limited-time offers on Tesla vehicles."
     }
   ]
 }

@@ -7,31 +7,31 @@
     "Procter & Gamble",
     "Coca‑Cola",
     "PepsiCo",
-    "Johnson & Johnson",
+    "Nestlé",
     "Unilever"
   ],
   "downstream": [
-    "Consumers",
+    "US consumers",
+    "International consumers",
+    "Sam’s Club members",
     "Online shoppers",
-    "Small businesses",
-    "Corporate buyers",
-    "Government agencies"
+    "Corporate clients"
   ],
   "competitors": [
     "Target",
     "Costco",
     "AMZN",
-    "BJ's Wholesale",
+    "BJ’s Wholesale Club",
     "Aldi"
   ],
   "key_products": [
-    "Grocery",
+    "Groceries",
     "Household goods",
+    "Apparel",
     "Electronics",
-    "Clothing",
-    "Private label brands (Great Value, Equate, Walmart Essentials)"
+    "Private‑label brands"
   ],
-  "extracted_at": "2026-04-17 16:48:54",
+  "extracted_at": "2026-04-20 17:02:15",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,21 +47,21 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ru.wikipedia.org/wiki/Walmart",
+      "url": "https://www.walmart.com/",
       "query": "Walmart Inc. suppliers manufacturers",
-      "snippet": "Walmart , Inc . ([ˈwɔːlmɑːrt], «Уолмарт») — американская компания, управляющая крупнейшей в мире сетью оптовой и розничной торговли, действующей под т"
+      "snippet": "Shop Walmart .com today for Every Day Low Prices. Join Walmart + for unlimited free delivery from your store & free shipping with no order minimum. St"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Walmart",
       "query": "Walmart Inc. major customers clients",
-      "snippet": "Walmart Inc . is an American multinational retail corporation that operates a chain of hypermarkets, discount department stores, and grocery stores in"
+      "snippet": "Walmart is the world's largest company by revenue and the largest private employer in the world, with 2.1 million employees. The company is ranked one"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.walmart.com/",
+      "url": "https://corporate.walmart.com/about",
       "query": "Walmart Inc. major customers clients",
-      "snippet": "Shop Walmart .com today for Every Day Low Prices. Join Walmart + for unlimited free delivery from your store & free shipping with no order minimum. St"
+      "snippet": "Each week, approximately 280 million customers and members visit our more than 10,900 stores and numerous eCommerce websites in 19 countries. Our unri"
     }
   ]
 }

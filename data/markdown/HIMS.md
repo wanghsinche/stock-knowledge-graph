@@ -3,8 +3,8 @@ ticker: HIMS
 company: Hims & Hers Health, Inc.
 sector: Healthcare
 industry: Drug Manufacturers - Specialty & Generic
-extracted_at: 2026-04-17 16:50:50
-last_updated: 2026-04-17
+extracted_at: 2026-04-20 16:59:20
+last_updated: 2026-04-20
 ---
 
 # HIMS - Hims & Hers Health, Inc.
@@ -12,46 +12,46 @@ last_updated: 2026-04-17
 ## 基本信息
 
 - **所属行业**: Healthcare / Drug Manufacturers - Specialty & Generic
-- **提取时间**: 2026-04-17 16:50:50
+- **提取时间**: 2026-04-20 16:59:20
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Generic drug manufacturers]]
-- [[Specialty pharmaceutical suppliers]]
-- [[CAT]]
-- [[Personal care product manufacturers]]
-- [[Medical device component suppliers]]
+- [[Contract pharmaceutical manufacturers]]
+- [[Active pharmaceutical ingredient (API) suppliers]]
+- [[Packaging and labeling vendors]]
+- [[Logistics and distribution partners]]
+- [[Digital platform technology providers]]
 
 ### 下游客户
-- [[Individual consumers]]
-- [[Health insurance providers]]
-- [[Corporate wellness programs]]
-- [[Pharmacy benefit managers]]
-- [[Retail pharmacy chains]]
+- [[Individual consumers via direct-to-consumer telehealth platform]]
+- [[Weight‑loss program participants]]
+- [[Men’s health product customers]]
+- [[Women’s health product customers]]
+- [[Retail pharmacy partners (e.g., CVS, Walgreens)]]
 
 ### 竞争对手
 - [[Roman]]
+- [[Ro (formerly Roman)]]
 - [[Nurx]]
-- [[MSFT]]
-- [[CVS Health]]
-- [[Walgreens]]
+- [[PlushCare]]
+- [[CVS Health (direct-to-consumer pharmacy services)]]
 
 ### 核心产品
-- [[Prescription erectile dysfunction medication]]
-- [[Prescription hair loss treatment]]
-- [[OTC acne medication]]
-- [[Personal care skincare line]]
-- [[Men’s and women’s wellness supplements]]
+- [[Prescription erectile dysfunction medication (e.g., sildenafil)]]
+- [[Prescription hair‑loss treatments (e.g., finasteride)]]
+- [[Prescription acne medication (e.g., doxycycline)]]
+- [[Over‑the‑counter OTC pain relievers]]
+- [[Personal care products (e.g., deodorants, skincare)]]
 
 ## 数据来源
 
 - [Hims & Hers Health](https://en.wikipedia.org/wiki/Hims_&_Hers_Health,_Inc.)
 - [Hims & Hers Health, Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/Hims_&_Hers_Health)
-- [Hims & Hers Health, Inc. suppliers manufacturers](https://www.hims.com/american-made)
+- [Hims & Hers Health, Inc. suppliers manufacturers](https://finance.yahoo.com/quote/HIMS/)
 - [Hims & Hers Health, Inc. major customers clients](https://investors.hims.com/news/news-details/2025/Customers-Say-Care-Through-Hims--Hers-Matches-or-Beats-the-Doctors-Office/default.aspx)
-- [Hims & Hers Health, Inc. major customers clients](https://csimarket.com/stocks/HIMS-Customers)
+- [Hims & Hers Health, Inc. major customers clients](https://news.hims.com/newsroom/how-more-customers-across-the-world-depend-on-hims-hers)
 
 ## 元数据
 
-- **更新日期**: 2026-04-17
+- **更新日期**: 2026-04-20

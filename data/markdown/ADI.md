@@ -3,8 +3,8 @@ ticker: ADI
 company: Analog Devices, Inc.
 sector: Technology
 industry: Semiconductors
-extracted_at: 2026-02-19 16:50:26
-last_updated: 2026-02-19
+extracted_at: 2026-04-20 17:02:39
+last_updated: 2026-04-20
 ---
 
 # ADI - Analog Devices, Inc.
@@ -12,46 +12,46 @@ last_updated: 2026-02-19
 ## 基本信息
 
 - **所属行业**: Technology / Semiconductors
-- **提取时间**: 2026-02-19 16:50:26
+- **提取时间**: 2026-04-20 17:02:39
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Maxim Integrated]]
+- [[TSM]]
+- [[GlobalFoundries]]
+- [[005930.KS]]
+- [[INTC]]
 - [[TXN]]
-- [[ON Semiconductor]]
-- [[NXP Semiconductors]]
-- [[Infineon Technologies]]
 
 ### 下游客户
-- [[QCOM]]
-- [[INTC]]
+- [[AAPL]]
+- [[MSFT]]
+- [[GOOGL]]
+- [[AMZN]]
 - [[005930.KS]]
-- [[AVGO]]
-- [[TXN]]
 
 ### 竞争对手
 - [[TXN]]
-- [[Maxim Integrated]]
-- [[ON Semiconductor]]
+- [[STMicroelectronics]]
 - [[NXP Semiconductors]]
 - [[Infineon Technologies]]
+- [[Maxim Integrated (now part of ADI)]]
 
 ### 核心产品
 - [[Analog-to-Digital Converters (ADCs)]]
 - [[Digital-to-Analog Converters (DACs)]]
-- [[Signal Processing ICs]]
-- [[Power Management ICs]]
-- [[RF and Analog Front‑End Components]]
+- [[Signal Processing Integrated Circuits]]
+- [[Power Management Integrated Circuits]]
+- [[Wireless RF Integrated Circuits]]
 
 ## 数据来源
 
 - [Analog Devices](https://en.wikipedia.org/wiki/Analog_Devices,_Inc.)
-- [Analog Devices, Inc. suppliers manufacturers](https://www.analog.com/en/support/find-sale-office-distributor.html)
-- [Analog Devices, Inc. suppliers manufacturers](https://www.inven.ai/company-lists/top-27-analog-device-manufacturing-companies)
-- [Analog Devices, Inc. major customers clients](https://csimarket.com/stocks/ADI-Customers)
-- [Analog Devices, Inc. major customers clients](https://portersfiveforce.com/blogs/target-market/analog)
+- [Analog Devices, Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/Analog_Devices)
+- [Analog Devices, Inc. suppliers manufacturers](https://www.analog.com/)
+- [Analog Devices, Inc. major customers clients](https://en.wikipedia.org/wiki/Analog_Devices)
+- [Analog Devices, Inc. major customers clients](https://www.analog.com/)
 
 ## 元数据
 
-- **更新日期**: 2026-02-19
+- **更新日期**: 2026-04-20

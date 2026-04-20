@@ -1,57 +1,57 @@
 ---
 ticker: AMZN
 company: Amazon.com, Inc.
-sector: Consumer Cyclical / Internet Retail
-industry: Consumer Cyclical / Internet Retail
-extracted_at: 2026-04-17 16:44:36
-last_updated: 2026-04-17
+sector: Consumer Cyclical
+industry: Internet Retail
+extracted_at: 2026-04-20 16:56:25
+last_updated: 2026-04-20
 ---
 
 # AMZN - Amazon.com, Inc.
 
 ## 基本信息
 
-- **所属行业**: Consumer Cyclical / Internet Retail / Consumer Cyclical / Internet Retail
-- **提取时间**: 2026-04-17 16:44:36
+- **所属行业**: Consumer Cyclical / Internet Retail
+- **提取时间**: 2026-04-20 16:56:25
 
 ## 产业链关系
 
 ### 上游供应商
-- [[AAPL]]
-- [[005930.KS]]
-- [[Nike]]
-- [[SONY]]
-- [[DELL]]
+- [[Consumer electronics manufacturers]]
+- [[Apparel manufacturers]]
+- [[Home goods manufacturers]]
+- [[Book publishers]]
+- [[Third‑party sellers]]
 
 ### 下游客户
-- [[AMZN]]
 - [[Retail consumers]]
+- [[Prime members]]
 - [[Business customers]]
-- [[Enterprise clients via AWS]]
-- [[Content consumers via Prime Video]]
+- [[Third‑party sellers]]
+- [[AMZN]]
 
 ### 竞争对手
 - [[Walmart]]
-- [[eBay]]
 - [[Alibaba]]
+- [[eBay]]
 - [[Shopify]]
-- [[Target]]
+- [[MSFT]]
 
 ### 核心产品
-- [[Amazon Marketplace]]
-- [[Amazon Web Services (AWS)]]
-- [[Amazon Prime]]
+- [[Amazon.com e‑commerce platform]]
+- [[Amazon Web Services]]
+- [[Amazon Prime Video]]
 - [[Amazon Echo (Alexa)]]
 - [[Amazon Kindle]]
 
 ## 数据来源
 
 - [Amazon (company)](https://en.wikipedia.org/wiki/Amazon.com,_Inc.)
-- [Amazon.com, Inc. suppliers manufacturers](https://www.thesellingguys.com/online-sourcing-buying-wholesalers-distributors/)
-- [Amazon.com, Inc. suppliers manufacturers](https://www.accio.com/supplier/amazon-suppliers-list)
+- [Amazon.com, Inc. suppliers manufacturers](https://www.ecomdepotwholesale.com/post/list-of-amazon-authorized-suppliers-for-2024-the-complete-guide-to-finding-verified-suppliers)
+- [Amazon.com, Inc. suppliers manufacturers](https://d39w7f4ix9f5s9.cloudfront.net/cb/19/77dfc5b441c892cd6e2be166ba70/final-amazon-supplier-list-2019-11-14-updated-1005am.pdf)
 - [Amazon.com, Inc. major customers clients](https://capitaloneshopping.com/research/amazon-statistics/)
 - [Amazon.com, Inc. major customers clients](https://www.historytools.org/consumer/amazon-target-market)
 
 ## 元数据
 
-- **更新日期**: 2026-04-17
+- **更新日期**: 2026-04-20

@@ -3,8 +3,8 @@ ticker: JPM
 company: JPMorgan Chase & Co.
 sector: Financial Services
 industry: Banks - Diversified
-extracted_at: 2026-04-17 16:49:16
-last_updated: 2026-04-17
+extracted_at: 2026-04-20 17:02:03
+last_updated: 2026-04-20
 ---
 
 # JPM - JPMorgan Chase & Co.
@@ -12,23 +12,23 @@ last_updated: 2026-04-17
 ## 基本信息
 
 - **所属行业**: Financial Services / Banks - Diversified
-- **提取时间**: 2026-04-17 16:49:16
+- **提取时间**: 2026-04-20 17:02:03
 
 ## 产业链关系
 
 ### 上游供应商
 - [[MSFT]]
-- [[IBM]]
 - [[ORCL]]
-- [[AMZN]]
+- [[Visa]]
+- [[Mastercard]]
 - [[Bloomberg]]
 
 ### 下游客户
-- [[Retail banking customers]]
-- [[Small and medium enterprises]]
-- [[Corporate clients]]
+- [[Large corporations]]
 - [[Institutional investors]]
-- [[Wealth management clients]]
+- [[Retail customers]]
+- [[Small and medium enterprises]]
+- [[High net worth individuals]]
 
 ### 竞争对手
 - [[Bank of America]]
@@ -38,20 +38,20 @@ last_updated: 2026-04-17
 - [[Morgan Stanley]]
 
 ### 核心产品
-- [[Retail banking services]]
-- [[Commercial banking]]
+- [[Retail banking]]
 - [[Investment banking]]
-- [[Asset and wealth management]]
-- [[Credit card and consumer lending]]
+- [[Asset management]]
+- [[Wealth management]]
+- [[Credit cards]]
 
 ## 数据来源
 
 - [JPMorgan Chase](https://en.wikipedia.org/wiki/JPMorgan_Chase_&_Co.)
-- [JPMorgan Chase & Co. suppliers manufacturers](https://en.wikipedia.org/wiki/JPMorgan_Chase)
 - [JPMorgan Chase & Co. suppliers manufacturers](https://www.jpmorganchase.com/about/suppliers)
+- [JPMorgan Chase & Co. suppliers manufacturers](https://csimarket.com/stocks/JPM-Suppliers)
 - [JPMorgan Chase & Co. major customers clients](https://en.wikipedia.org/wiki/JPMorgan_Chase)
-- [JPMorgan Chase & Co. major customers clients](https://www.jpmorganchase.com/)
+- [JPMorgan Chase & Co. major customers clients](https://jpmorganchaseco.gcs-web.com/news-releases/news-release-details/jpmorganchase-publishes-2024-annual-report-including-chairman)
 
 ## 元数据
 
-- **更新日期**: 2026-04-17
+- **更新日期**: 2026-04-20

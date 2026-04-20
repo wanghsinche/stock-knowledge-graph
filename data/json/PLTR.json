@@ -7,31 +7,30 @@
     "AMZN",
     "MSFT",
     "GOOGL",
-    "ORCL",
-    "IBM"
+    "DELL",
+    "CSCO"
   ],
   "downstream": [
     "U.S. Department of Defense",
+    "Federal Bureau of Investigation",
     "INTC",
-    "U.S. Federal Bureau of Investigation",
-    "JPMorgan Chase",
-    "Walmart"
+    "UK Ministry of Defence",
+    "National Health Service (UK)"
   ],
   "competitors": [
     "Snowflake",
     "Databricks",
     "Splunk",
-    "MSFT",
-    "Tableau"
+    "IBM",
+    "MSFT"
   ],
   "key_products": [
     "Gotham",
     "Foundry",
-    "Apollo",
-    "Palantir Platform",
-    "Data Integration Suite"
+    "Palantir Apollo",
+    "Palantir Helix"
   ],
-  "extracted_at": "2026-04-17 16:46:02",
+  "extracted_at": "2026-04-20 16:57:25",
   "sources": [
     {
       "source": "Wikipedia",
@@ -53,15 +52,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.appsruntheworld.com/customers-database/products/view/palantir-foundry",
-      "query": "Palantir Technologies Inc. major customers clients",
-      "snippet": "Since 2010, our global team of researchers has been studying Palantir Foundry customers around the world, aggregating massive amounts of data points t"
-    },
-    {
-      "source": "DuckDuckGo",
       "url": "https://data.landbase.com/technology/palantir/",
       "query": "Palantir Technologies Inc. major customers clients",
       "snippet": "Aug 17, 2025 · Our Palantir customers list is available for download and comes enriched with vital company specifics, including industry classificatio"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://theirstack.com/en/technology/palantir",
+      "query": "Palantir Technologies Inc. major customers clients",
+      "snippet": "Download a list of 3,579 companies that use Palantir with enriched data including industry, company size, location, funding rounds, and revenue figure"
     }
   ]
 }

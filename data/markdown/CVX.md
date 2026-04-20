@@ -3,8 +3,8 @@ ticker: CVX
 company: Chevron Corporation
 sector: Energy
 industry: Oil & Gas Integrated
-extracted_at: 2026-04-17 16:48:01
-last_updated: 2026-04-17
+extracted_at: 2026-04-20 17:03:29
+last_updated: 2026-04-20
 ---
 
 # CVX - Chevron Corporation
@@ -12,46 +12,46 @@ last_updated: 2026-04-17
 ## 基本信息
 
 - **所属行业**: Energy / Oil & Gas Integrated
-- **提取时间**: 2026-04-17 16:48:01
+- **提取时间**: 2026-04-20 17:03:29
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Oilfield services companies]]
-- [[Drilling contractors]]
-- [[Exploration partners]]
-- [[Equipment manufacturers]]
-- [[Geoscience and seismic providers]]
+- [[Schlumberger]]
+- [[Halliburton]]
+- [[Baker Hughes]]
+- [[CAT]]
+- [[Emerson]]
 
 ### 下游客户
-- [[Fuel retailers and service stations]]
-- [[Airlines and aviation fuel suppliers]]
-- [[Industrial and petrochemical customers]]
-- [[Transportation and logistics firms]]
-- [[Retail gasoline consumers]]
+- [[United Airlines]]
+- [[Toyota]]
+- [[General Motors]]
+- [[Airbus]]
+- [[Siemens]]
 
 ### 竞争对手
 - [[ExxonMobil]]
-- [[Royal Dutch Shell]]
 - [[BP]]
+- [[Shell]]
 - [[TotalEnergies]]
 - [[ConocoPhillips]]
 
 ### 核心产品
 - [[Crude oil]]
 - [[Natural gas]]
-- [[Refined petroleum products (gasoline, diesel, jet fuel)]]
+- [[Refined petroleum products]]
+- [[Petrochemicals]]
 - [[Lubricants]]
-- [[Petrochemical feedstocks]]
 
 ## 数据来源
 
 - [Chevron Corporation](https://en.wikipedia.org/wiki/Chevron_Corporation)
-- [Chevron Corporation suppliers manufacturers](https://stationsupport.chevron.com/s/article/Chevron-Approved-Vendor-List)
-- [Chevron Corporation suppliers manufacturers](https://www.regi.com/)
-- [Chevron Corporation major customers clients](https://csimarket.com/stocks/CVX-Customers)
-- [Chevron Corporation major customers clients](https://www.chevron.com/annual-report)
+- [Chevron Corporation suppliers manufacturers](https://www.chevron.com/)
+- [Chevron Corporation suppliers manufacturers](https://www.linkedin.com/company/chevron)
+- [Chevron Corporation major customers clients](https://www.chevron.com/)
+- [Chevron Corporation major customers clients](https://www.linkedin.com/company/chevron)
 
 ## 元数据
 
-- **更新日期**: 2026-04-17
+- **更新日期**: 2026-04-20

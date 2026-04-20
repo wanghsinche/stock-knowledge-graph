@@ -4,34 +4,36 @@
   "sector": "Technology",
   "industry": "Consumer Electronics",
   "upstream": [
-    "Molex",
-    "Murata Manufacturing",
-    "Nichia",
-    "Nidec",
-    "Toshiba"
+    "Foxconn (Hon Hai Precision)",
+    "005930.KS",
+    "TSM",
+    "LG Display",
+    "SONY"
   ],
   "downstream": [
-    "iPhone users",
-    "MacBook users",
-    "iPad users",
-    "AAPL",
-    "Enterprise customers"
+    "Consumers",
+    "Enterprise customers",
+    "CAT",
+    "Government agencies",
+    "Retail partners"
   ],
   "competitors": [
     "005930.KS",
-    "GOOGL",
     "MSFT",
-    "SONY",
-    "Xiaomi"
+    "GOOGL",
+    "AMZN",
+    "Huawei"
   ],
   "key_products": [
     "iPhone",
-    "MacBook",
     "iPad",
+    "Mac",
     "Apple Watch",
-    "Apple TV"
+    "AirPods",
+    "Apple TV",
+    "Apple Silicon chips"
   ],
-  "extracted_at": "2026-04-17 16:44:13",
+  "extracted_at": "2026-04-20 16:56:12",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +43,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Template:Apple_Inc._suppliers",
+      "url": "https://en.wikipedia.org/wiki/Apple_supply_chain",
       "query": "Apple Inc. suppliers manufacturers",
-      "snippet": "Molex. Murata Manufacturing . Nichia. Nidec. Supplier lists. Supply Chain Innovation Reports."
+      "snippet": "In response, Apple launched its Supplier Responsibility program, which aimed to improve Apple 's oversight of supplier partners and enforce its ethics"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.alibaba.com/",
+      "url": "https://www.investopedia.com/articles/investing/090315/10-major-companies-tied-apple-supply-chain.asp",
       "query": "Apple Inc. suppliers manufacturers",
-      "snippet": "Find quality Manufacturers , Suppliers , Exporters, Importers, Buyers, Wholesalers, Products and Trade Leads from our award-winning International Trad"
+      "snippet": "3 days ago · Discover Apple 's top suppliers and how they enhance product performance and innovation. Learn about Apple 's efficient supply chain and "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://businessmodelanalyst.com/apple-target-market/",
+      "url": "https://en.wikipedia.org/wiki/Apple_Inc.",
       "query": "Apple Inc. major customers clients",
-      "snippet": "Nov 8, 2024 · For Apple , this analysis reveals a distinct and loyal customer base characterized by specific core values and lifestyle choices. Apple "
+      "snippet": "2 days ago - Gassée left the company later that year to set up a rival, Be Inc. The company pivoted its strategy and, in October 1990, introduced thre"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://bstrategyhub.com/apple-target-market/",
+      "url": "https://www.quora.com/Who-are-Apples-biggest-business-customers",
       "query": "Apple Inc. major customers clients",
-      "snippet": "Feb 22, 2020 · Who is Apple ’s target market? Learn how Apple’s demographic, psychographic, geographic, behavioral, and technographic segmentation def"
+      "snippet": "Answer: By market cap on the NYSE and Nasdaq stock exchanges the biggest customers are the cell phone carriers such as AT&T and Verizon . The iPhone i"
     }
   ]
 }

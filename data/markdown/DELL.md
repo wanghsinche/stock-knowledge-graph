@@ -3,8 +3,8 @@ ticker: DELL
 company: Dell Technologies Inc.
 sector: Technology
 industry: Computer Hardware
-extracted_at: 2026-04-16 17:10:11
-last_updated: 2026-04-16
+extracted_at: 2026-04-20 17:03:49
+last_updated: 2026-04-20
 ---
 
 # DELL - Dell Technologies Inc.
@@ -12,46 +12,46 @@ last_updated: 2026-04-16
 ## 基本信息
 
 - **所属行业**: Technology / Computer Hardware
-- **提取时间**: 2026-04-16 17:10:11
+- **提取时间**: 2026-04-20 17:03:49
 
 ## 产业链关系
 
 ### 上游供应商
-- [[INTC]]
-- [[AMD]]
-- [[NVDA]]
-- [[005930.KS]]
-- [[TSM]]
+- [[Foxconn]]
+- [[Pegatron]]
+- [[Quanta Computer]]
+- [[Compal Electronics]]
+- [[Wistron]]
 
 ### 下游客户
-- [[Enterprise IT customers]]
-- [[Government agencies]]
-- [[CAT]]
-- [[Healthcare providers]]
-- [[Retail and e‑commerce businesses]]
+- [[U.S. Department of Defense]]
+- [[NASA]]
+- [[MSFT]]
+- [[AMZN]]
+- [[GOOGL]]
 
 ### 竞争对手
 - [[HPQ]]
-- [[Lenovo]]
+- [[Lenovo Group]]
 - [[AAPL]]
-- [[Asus]]
-- [[Acer]]
+- [[IBM]]
+- [[CSCO]]
 
 ### 核心产品
 - [[Personal computers]]
 - [[Servers]]
-- [[Storage solutions]]
 - [[Monitors]]
-- [[Networking & security equipment]]
+- [[Computer software]]
+- [[Computer security and network security]]
 
 ## 数据来源
 
 - [Dell Technologies](https://en.wikipedia.org/wiki/Dell_Technologies_Inc.)
-- [Dell Technologies Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/Dell)
-- [Dell Technologies Inc. suppliers manufacturers](https://www.dell.com/en-us)
-- [Dell Technologies Inc. major customers clients](https://csimarket.com/stocks/DELL-Customers)
-- [Dell Technologies Inc. major customers clients](https://www.marketscreener.com/quote/stock/DELL-TECHNOLOGIES-INC-118964889/finances-segments/)
+- [Dell Technologies Inc. suppliers manufacturers](https://www.delltechnologies.com/asset/pl-pl/solutions/business-solutions/briefs-summaries/dell-public-supplier-list.pdf)
+- [Dell Technologies Inc. suppliers manufacturers](https://csimarket.com/stocks/DELL-Suppliers)
+- [Dell Technologies Inc. major customers clients](https://en.wikipedia.org/wiki/Dell)
+- [Dell Technologies Inc. major customers clients](https://www.dell.com/en-us)
 
 ## 元数据
 
-- **更新日期**: 2026-04-16
+- **更新日期**: 2026-04-20

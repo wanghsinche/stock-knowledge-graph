@@ -4,39 +4,34 @@
   "sector": "Communication Services",
   "industry": "Internet Content & Information",
   "upstream": [
+    "INTC",
     "QCOM",
     "NVDA",
-    "INTC",
     "005930.KS",
     "TSM"
   ],
   "downstream": [
     "GOOGL",
+    "Advertisers",
     "Android device manufacturers",
-    "GOOGL",
     "YouTube content creators",
     "GOOGL"
   ],
   "competitors": [
-    "MSFT",
-    "AMZN",
     "META",
+    "AMZN",
+    "MSFT",
     "AAPL",
     "Tencent"
   ],
   "key_products": [
     "Google Search",
     "Android OS",
-    "Google Cloud Platform",
+    "Google Cloud",
     "YouTube",
-    "Google Ads",
-    "Google Workspace",
-    "Google Chrome",
-    "Google Maps",
-    "Google Play",
-    "Google Pixel"
+    "Google Ads"
   ],
-  "extracted_at": "2026-04-17 16:46:27",
+  "extracted_at": "2026-04-20 16:58:26",
   "sources": [
     {
       "source": "Wikipedia",
@@ -60,13 +55,13 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Alphabet_Inc.",
       "query": "Alphabet Inc. major customers clients",
-      "snippet": "Alphabet Inc . is an American multinational technology conglomerate holding company headquartered in Mountain View, California. It was created through"
+      "snippet": "Alphabet Inc . has faced numerous legal and ethical controversies, including a 2017 lawsuit against Uber over stolen self-driving technology, a 2020 p"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/GOOG/",
+      "url": "https://www.sec.gov/Archives/edgar/data/1652044/000130817925000513/goog012714-ars.pdf",
       "query": "Alphabet Inc. major customers clients",
-      "snippet": "Find the latest Alphabet Inc . (GOOG) stock quote, history, news and other vital information to help you with your stock trading and investing."
+      "snippet": "We continue this work under the leadership of Alphabet and Google CEO, Sundar Pichai. Alphabet is a collection of businesses — the largest of which is"
     }
   ]
 }

@@ -3,8 +3,8 @@ ticker: CRWV
 company: CoreWeave, Inc.
 sector: Technology
 industry: Software - Infrastructure
-extracted_at: 2026-04-17 16:47:24
-last_updated: 2026-04-17
+extracted_at: 2026-04-20 16:57:50
+last_updated: 2026-04-20
 ---
 
 # CRWV - CoreWeave, Inc.
@@ -12,7 +12,7 @@ last_updated: 2026-04-17
 ## 基本信息
 
 - **所属行业**: Technology / Software - Infrastructure
-- **提取时间**: 2026-04-17 16:47:24
+- **提取时间**: 2026-04-20 16:57:50
 
 ## 产业链关系
 
@@ -25,33 +25,33 @@ last_updated: 2026-04-17
 
 ### 下游客户
 - [[OpenAI]]
-- [[MSFT]]
-- [[GOOGL]]
-- [[AMZN]]
+- [[Mistral AI]]
 - [[IBM]]
+- [[Anthropic]]
+- [[META]]
 
 ### 竞争对手
 - [[NVDA]]
+- [[AMD]]
 - [[GOOGL]]
-- [[MSFT]]
 - [[AMZN]]
-- [[IBM]]
+- [[MSFT]]
 
 ### 核心产品
-- [[GPU‑based AI cloud infrastructure]]
-- [[Chip management software]]
-- [[AI workload orchestration]]
-- [[High‑performance computing services]]
-- [[Custom GPU configurations]]
+- [[GPU Cloud Infrastructure]]
+- [[GPU-as-a-Service]]
+- [[AI Training Services]]
+- [[Inference Services]]
+- [[Chip Management Software]]
 
 ## 数据来源
 
 - [CoreWeave](https://en.wikipedia.org/wiki/CoreWeave,_Inc.)
 - [CoreWeave, Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/CoreWeave)
-- [CoreWeave, Inc. suppliers manufacturers](https://www.fitchratings.com/entity/coreweave-inc-97744349)
-- [CoreWeave, Inc. major customers clients](https://en.wikipedia.org/wiki/CoreWeave)
-- [CoreWeave, Inc. major customers clients](https://www.ibtimes.com.au/coreweave-stock-jumps-9-massive-meta-anthropic-ai-deals-fuel-gpu-cloud-boom-1866395)
+- [CoreWeave, Inc. suppliers manufacturers](https://www.coreweave.com/)
+- [CoreWeave, Inc. major customers clients](https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lyX3RmMUVCRXUzY2pjN1A3Umx5Z0FQAQ?hl=en-US&gl=US&ceid=US:en)
+- [CoreWeave, Inc. major customers clients](https://brokstock.co.za/markets/us-shares/crwv/)
 
 ## 元数据
 
-- **更新日期**: 2026-04-17
+- **更新日期**: 2026-04-20

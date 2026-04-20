@@ -4,34 +4,30 @@
   "sector": "Communication Services",
   "industry": "Internet Content & Information",
   "upstream": [
-    "NVDA",
-    "AMD",
-    "INTC",
+    "Avride",
+    "TripleTen",
+    "Toloka",
+    "Clickhouse"
+  ],
+  "downstream": [
+    "Security Managers",
+    "Special Security Officers",
+    "Government agencies",
+    "Enterprise security teams"
+  ],
+  "competitors": [
+    "GOOGL",
     "AMZN",
     "MSFT"
   ],
-  "downstream": [
-    "Cantor Fitzgerald (financial services client)",
-    "Large enterprise data analytics firms",
-    "Financial technology companies",
-    "Government agencies",
-    "Academic research institutions"
-  ],
-  "competitors": [
-    "OpenAI",
-    "Anthropic",
-    "Cohere",
-    "Stability AI",
-    "MSFT"
-  ],
   "key_products": [
-    "Nebius AI Infrastructure Platform",
-    "Nebius AI Services Suite",
-    "Nebius AI Solutions for Enterprises",
-    "Avride (AI-driven analytics)",
-    "TripleTen (AI model training platform)"
+    "Nebius AI infrastructure platform",
+    "Avride",
+    "TripleTen",
+    "Toloka",
+    "Clickhouse"
   ],
-  "extracted_at": "2026-04-17 16:47:35",
+  "extracted_at": "2026-04-20 16:59:59",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +37,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/NBIS-Suppliers",
+      "url": "https://en.wikipedia.org/wiki/Nebius_Group",
       "query": "NBIS suppliers manufacturers",
-      "snippet": "May 3, 2025 · For your research, we’ve provided nine additional tables on Nebius Group n v ’s suppliers . You can find them in the navigation menu und"
+      "snippet": "Nebius Group N.V., headquartered in Amsterdam, is a technology company that provides artificial intelligence infrastructure."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.industryselect.com/blog/top-10-manufacturing-companies-in-iowa",
+      "url": "https://csimarket.com/stocks/suppliers_glance.php?code=NBIS",
       "query": "NBIS suppliers manufacturers",
-      "snippet": "Mar 16, 2026 · This article explores the latest facts on Iowa manufacturing and examines the top 10 manufacturing companies in Iowa based on original "
+      "snippet": "NBIS 's Suppliers Management Effectiveness. NBIS 's Competitors Results.Nebius Group N V's Comment on Supply Chain. NBIS 's Stock Perfrormance relativ"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.nasdaq.com/market-activity/stocks/nbis",
+      "url": "https://www.dcsa.mil/Systems-Applications/National-Background-Investigation-Services-NBIS/",
       "query": "NBIS major customers clients",
-      "snippet": "Cantor Fitzgerald Initiates Coverage of Nebius Group N.V. ( NBIS ) with Overweight Recommendation.Data Disclaimer: The Nasdaq Indices and the Major In"
+      "snippet": "NBIS Agency is the application allowing Security Managers, Special Security Officers, and Facility Security Officers (FSO) to process background appli"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.bloomberg.com/quote/NBIS:US",
+      "url": "https://csimarket.com/stocks/NBIS-Customers",
       "query": "NBIS major customers clients",
-      "snippet": "Stock analysis for Nebius Group NV ( NBIS :NASDAQ GS) including stock price, stock chart, company news, key statistics, fundamentals and company profi"
+      "snippet": "2 days ago · For your research, we’ve provided 9 tables on Nebius Group n v corporate clients . You can find them in the navigation menu under Custome"
     }
   ]
 }
