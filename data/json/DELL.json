@@ -4,34 +4,34 @@
   "sector": "Technology",
   "industry": "Computer Hardware",
   "upstream": [
-    "Foxconn",
-    "Pegatron",
-    "Quanta Computer",
-    "Compal Electronics",
-    "Wistron"
+    "INTC",
+    "AMD",
+    "NVDA",
+    "005930.KS",
+    "TSM"
   ],
   "downstream": [
-    "U.S. Department of Defense",
-    "NASA",
-    "MSFT",
-    "AMZN",
-    "GOOGL"
+    "Large enterprises",
+    "Government agencies",
+    "CAT",
+    "Healthcare providers",
+    "Retail customers"
   ],
   "competitors": [
     "HPQ",
     "Lenovo Group",
     "AAPL",
-    "IBM",
-    "CSCO"
+    "Acer Inc.",
+    "AsusTek Computer Inc."
   ],
   "key_products": [
     "Personal computers",
     "Servers",
     "Monitors",
     "Computer software",
-    "Computer security and network security"
+    "Computer security and network security services"
   ],
-  "extracted_at": "2026-04-20 17:03:49",
+  "extracted_at": "2026-04-21 16:56:44",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.delltechnologies.com/asset/pl-pl/solutions/business-solutions/briefs-summaries/dell-public-supplier-list.pdf",
-      "query": "Dell Technologies Inc. suppliers manufacturers",
-      "snippet": "The list of supplier facilities includes original design manufacturers (ODMs), final assembly and material suppliers that Dell buys from directly and/"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/DELL-Suppliers",
-      "query": "Dell Technologies Inc. suppliers manufacturers",
-      "snippet": "Mar 20, 2026 · Dell Technologies Inc supply chain, list and performance of Dell Technologies Incs ' suppliers - CSIMarket"
-    },
-    {
-      "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Dell",
-      "query": "Dell Technologies Inc. major customers clients",
+      "query": "Dell Technologies Inc. suppliers manufacturers",
       "snippet": "Dell Inc ., formerly Dell Computer Corporation, is an American technology company that develops, sells, repairs, and supports personal computers (PCs)"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.dell.com/en-us",
+      "query": "Dell Technologies Inc. suppliers manufacturers",
+      "snippet": "Dell provides technology solutions, services & support. Buy Laptops, Touch Screen PCs, Desktops, Servers, Storage, Monitors, Gaming & Accessories."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.reddit.com/r/Dell/comments/j4uy7s/using_an_allinone_as_an_external_display/",
       "query": "Dell Technologies Inc. major customers clients",
-      "snippet": "Dell provides technology solutions, services & support. Buy Laptops, Touch Screen PCs, Desktops, Servers, Storage, Monitors, Gaming & Accessories.Univ"
+      "snippet": "This is an Optiplex 7460 All-in-one computer with two HDMI (one has a little symbol by it) and a DisplayPort. Trying to use this as an external monito"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.reddit.com/r/Dell/comments/18ml9yb/when_did_dell_turn_so_crappy/",
+      "query": "Dell Technologies Inc. major customers clients",
+      "snippet": "The 5000 seems a little better, but the truth is, Dell hasn't made a truly good laptop since the 6430U, circa 2013. They switched to cheap-feeling pla"
     }
   ]
 }

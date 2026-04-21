@@ -3,8 +3,8 @@ ticker: CAR
 company: Avis Budget Group, Inc.
 sector: Industrials
 industry: Rental & Leasing Services
-extracted_at: 2026-04-20 16:59:47
-last_updated: 2026-04-20
+extracted_at: 2026-04-21 16:49:53
+last_updated: 2026-04-21
 ---
 
 # CAR - Avis Budget Group, Inc.
@@ -12,37 +12,37 @@ last_updated: 2026-04-20
 ## 基本信息
 
 - **所属行业**: Industrials / Rental & Leasing Services
-- **提取时间**: 2026-04-20 16:59:47
+- **提取时间**: 2026-04-21 16:49:53
 
 ## 产业链关系
 
 ### 上游供应商
+- [[Toyota Motor Corporation]]
+- [[Ford Motor Company]]
 - [[General Motors]]
-- [[Ford]]
-- [[Toyota]]
-- [[Honda]]
-- [[Nissan]]
+- [[Nissan Motor Co.]]
+- [[Hyundai Motor Company]]
 
 ### 下游客户
-- [[Corporate fleet customers]]
-- [[Travel agencies]]
+- [[Corporate travel agencies]]
 - [[Airlines]]
-- [[Hotels]]
+- [[Hotel chains]]
 - [[Government agencies]]
+- [[Corporate fleet customers]]
 
 ### 竞争对手
 - [[Enterprise Holdings]]
 - [[Hertz Global Holdings]]
-- [[Dollar Rent A Car]]
+- [[Dollar Thrifty Automotive Group]]
 - [[National Car Rental]]
-- [[Turo]]
+- [[Zipcar]]
 
 ### 核心产品
 - [[Car rental services]]
 - [[Truck rental services]]
 - [[Car sharing (Zipcar)]]
 - [[Fleet management solutions]]
-- [[Corporate rental programs]]
+- [[Vehicle leasing]]
 
 ## 数据来源
 
@@ -54,4 +54,4 @@ last_updated: 2026-04-20
 
 ## 元数据
 
-- **更新日期**: 2026-04-20
+- **更新日期**: 2026-04-21

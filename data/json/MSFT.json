@@ -7,15 +7,15 @@
     "INTC",
     "AMD",
     "NVDA",
-    "TSM",
-    "005930.KS"
+    "DELL",
+    "CSCO"
   ],
   "downstream": [
-    "AMZN",
-    "GOOGL",
-    "Walmart",
+    "Enterprise customers",
+    "Government agencies",
     "DELL",
-    "HPQ"
+    "CAT",
+    "Consumers"
   ],
   "competitors": [
     "AAPL",
@@ -25,13 +25,13 @@
     "IBM"
   ],
   "key_products": [
-    "Windows",
-    "Office",
-    "Azure",
-    "Surface",
+    "Windows OS",
+    "Microsoft Office",
+    "Azure Cloud",
+    "Microsoft 365",
     "Xbox"
   ],
-  "extracted_at": "2026-04-20 16:55:53",
+  "extracted_at": "2026-04-21 16:48:36",
   "sources": [
     {
       "source": "Wikipedia",
@@ -53,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.appsruntheworld.com/customers-database/vendors/view/microsoft",
+      "url": "https://en.wikipedia.org/wiki/Microsoft",
       "query": "Microsoft Corporation major customers clients",
-      "snippet": "March 9, 2026 - Each quarter our research team identifies companies that are using Microsoft applications such as Microsoft 365 for Collaboration, Mic"
+      "snippet": "Microsoft Corporation is an American multinational technology conglomerate founded in 1975 and headquartered in Redmond, Washington."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.microsoft.com/investor/reports/ar13/financial-review/business-description/customers/index.html",
+      "url": "https://www.linkedin.com/company/microsoft",
       "query": "Microsoft Corporation major customers clients",
-      "snippet": "Our customers include individual consumers, small- and medium-sized organizations, enterprises, governmental institutions, educational institutions, I"
+      "snippet": "Microsoft | 28,040,416 followers on LinkedIn. Every company has a mission. What's ours? To empower every person and every organization to achieve more"
     }
   ]
 }

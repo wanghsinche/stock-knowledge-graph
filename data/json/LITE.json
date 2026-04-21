@@ -1,13 +1,37 @@
 {
   "ticker": "LITE",
   "company_name": "Lumentum Holdings Inc.",
-  "sector": "Technology",
-  "industry": "Communication Equipment",
-  "upstream": [],
-  "downstream": [],
-  "competitors": [],
-  "key_products": [],
-  "extracted_at": "2026-04-20 16:58:44",
+  "sector": "Technology / Communication Equipment",
+  "industry": "Photonics",
+  "upstream": [
+    "Coherent",
+    "II-VI Incorporated",
+    "Lattice Semiconductor",
+    "Indium Corporation",
+    "AMAT"
+  ],
+  "downstream": [
+    "CSCO",
+    "Huawei",
+    "Nokia",
+    "Ericsson",
+    "JNPR"
+  ],
+  "competitors": [
+    "II-VI Incorporated",
+    "Coherent",
+    "Newport Corporation",
+    "Lattice Semiconductor",
+    "Thorlabs"
+  ],
+  "key_products": [
+    "Laser diodes",
+    "Optical amplifiers",
+    "Photonic integrated circuits",
+    "Optical transceivers",
+    "Fiber optic components"
+  ],
+  "extracted_at": "2026-04-21 16:51:25",
   "sources": [
     {
       "source": "Wikipedia",
@@ -26,6 +50,18 @@
       "url": "https://www.lumentum.com/en/company/distributors",
       "query": "Lumentum Holdings Inc. suppliers manufacturers",
       "snippet": "Please contact customer service and they will direct you to a distributor near you. Lumentum is a global leader in optical and photonic products, enab"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/Lumentum",
+      "query": "Lumentum Holdings Inc. major customers clients",
+      "snippet": "Lumentum ... Lumentum Holdings Inc . is an American manufacturer of optical and photonic products. It was created in 2015 as a spinoff from JDSU."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/LITE-Customers",
+      "query": "Lumentum Holdings Inc. major customers clients",
+      "snippet": "Apr 1, 2026 · Lumentum Holdings Inc customers and markets, results by customer and performance relative to LITE, by company and industry - CSIMarket"
     }
   ]
 }

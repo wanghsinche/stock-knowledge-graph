@@ -1,37 +1,37 @@
 {
   "ticker": "AVGO",
   "company_name": "Broadcom Inc.",
-  "sector": "Technology / Semiconductors",
+  "sector": "Technology",
   "industry": "Semiconductors",
   "upstream": [
     "TSM",
     "005930.KS",
-    "GlobalFoundries",
-    "ASE Technology Holding",
-    "United Microelectronics Corporation"
+    "MU",
+    "SK Hynix",
+    "GlobalFoundries"
   ],
   "downstream": [
-    "CSCO",
-    "DELL",
     "AMZN",
     "MSFT",
-    "Huawei Technologies"
+    "GOOGL",
+    "CSCO",
+    "Huawei"
   ],
   "competitors": [
+    "NVDA",
     "QCOM",
     "INTC",
-    "NVDA",
-    "MRVL",
-    "TXN"
+    "TXN",
+    "MRVL"
   ],
   "key_products": [
-    "Broadcom BCM series networking ASICs",
-    "Broadcom Wi‑Fi and 802.11 wireless chips",
-    "Broadcom Ethernet controllers",
-    "Broadcom storage controller chips",
-    "Broadcom infrastructure software solutions"
+    "Wi‑Fi chips",
+    "Ethernet controllers",
+    "Broadcom 802.11 wireless chips",
+    "Broadcom 802.3 Ethernet controllers",
+    "Broadcom infrastructure software"
   ],
-  "extracted_at": "2026-04-20 16:57:10",
+  "extracted_at": "2026-04-21 16:51:07",
   "sources": [
     {
       "source": "Wikipedia",
@@ -53,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Broadcom",
-      "query": "Broadcom Inc. major customers clients",
-      "snippet": "Broadcom Inc . is an American multinational designer, developer, manufacturer, and global supplier of a wide range of semiconductor and infrastructure"
-    },
-    {
-      "source": "DuckDuckGo",
       "url": "https://www.broadcom.com/",
       "query": "Broadcom Inc. major customers clients",
       "snippet": "Broadcom delivers semiconductors and infrastructure software for global enterprises’ most complex, mission-critical needs."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.proactiveinvestors.com/companies/news/1077910/broadcom-stock-surges-on-q3-earnings-beat-big-new-ai-customer-1077910.html",
+      "query": "Broadcom Inc. major customers clients",
+      "snippet": "Broadcom Inc (NASDAQ:AVGO, ETR:1YD) shares shot up as much as 15% in early trading on Friday after the semiconductor and infrastructure software solut"
     }
   ]
 }

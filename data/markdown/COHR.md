@@ -3,8 +3,8 @@ ticker: COHR
 company: Coherent Corp.
 sector: Technology
 industry: Scientific & Technical Instruments
-extracted_at: 2026-04-20 17:02:51
-last_updated: 2026-04-20
+extracted_at: 2026-04-21 16:55:10
+last_updated: 2026-04-21
 ---
 
 # COHR - Coherent Corp.
@@ -12,36 +12,36 @@ last_updated: 2026-04-20
 ## 基本信息
 
 - **所属行业**: Technology / Scientific & Technical Instruments
-- **提取时间**: 2026-04-20 17:02:51
+- **提取时间**: 2026-04-21 16:55:10
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Silica suppliers]]
-- [[Rare earth element suppliers]]
-- [[Laser diode manufacturers]]
-- [[Optical component suppliers]]
-- [[Semiconductor wafer suppliers]]
+- [[Optical material manufacturers]]
+- [[CAT]]
+- [[Laser component suppliers]]
+- [[Photonic component suppliers]]
+- [[Materials science research institutions]]
 
 ### 下游客户
 - [[Aerospace industry]]
 - [[Life sciences sector]]
-- [[Semiconductor manufacturing]]
+- [[Manufacturing industry]]
 - [[Defense contractors]]
-- [[Industrial manufacturing]]
+- [[Medical device manufacturers]]
 
 ### 竞争对手
-- [[Thorlabs]]
-- [[MKS Instruments]]
+- [[II-VI Incorporated]]
 - [[Lumentum Holdings]]
-- [[IPG Photonics]]
-- [[Coherent]]
+- [[Trumpf]]
+- [[Coherent (formerly Coherent Inc.)]]
+- [[Coherent Laser Systems]]
 
 ### 核心产品
-- [[Laser diodes]]
-- [[Optical fibers]]
-- [[Semiconductor lasers]]
+- [[Optical materials]]
 - [[Laser systems]]
+- [[Semiconductor devices]]
+- [[Photonic components]]
 - [[Optical components]]
 
 ## 数据来源
@@ -54,4 +54,4 @@ last_updated: 2026-04-20
 
 ## 元数据
 
-- **更新日期**: 2026-04-20
+- **更新日期**: 2026-04-21

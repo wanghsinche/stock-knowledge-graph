@@ -4,32 +4,34 @@
   "sector": "Healthcare",
   "industry": "Biotechnology",
   "upstream": [
-    "Nucleotide suppliers",
-    "Enzyme manufacturers",
-    "Lipid nanoparticle suppliers",
-    "Cell culture media suppliers",
-    "Contract manufacturing organizations"
+    "Thermo Fisher Scientific",
+    "GE Healthcare",
+    "Merck KGaA",
+    "Cytiva",
+    "Invitrogen (Thermo Fisher)"
   ],
   "downstream": [
-    "US Department of Health and Human Services",
+    "U.S. Department of Health and Human Services",
     "European Medicines Agency",
-    "National governments",
-    "Hospitals",
-    "Pharmacies"
+    "National Health Service (UK)",
+    "World Health Organization",
+    "Major hospital networks"
   ],
   "competitors": [
-    "Pfizer",
-    "BioNTech",
+    "Pfizer Inc.",
+    "BioNTech SE",
     "Johnson & Johnson",
-    "Novavax",
-    "CureVac"
+    "Novavax Inc.",
+    "CureVac AG"
   ],
   "key_products": [
-    "Spikevax (COVID-19 vaccine)",
-    "mRNA-4157 (cancer vaccine)",
-    "mRNA-3704 (cancer immunotherapy)"
+    "mRNA‑1273 (COVID‑19 vaccine)",
+    "mRNA‑1273.351 (variant booster)",
+    "mRNA‑1273.214 (bivalent booster)",
+    "mRNA‑4157 (cancer vaccine)",
+    "mRNA‑1273.222 (next‑generation COVID‑19 vaccine)"
   ],
-  "extracted_at": "2026-04-20 17:05:16",
+  "extracted_at": "2026-04-21 16:59:20",
   "sources": [
     {
       "source": "Wikipedia",
@@ -45,21 +47,21 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/income.php?code=MRNA&hist=10",
+      "url": "https://csimarket.com/stocks/MRNA-Business-Description.html",
       "query": "Moderna, Inc. suppliers manufacturers",
-      "snippet": "Moderna Inc Geographic Information. Suppliers . Moderna Inc Customers Demand. MRNA Customers Expenditure Growth Rates."
+      "snippet": "Moderna Inc 's Suppliers . Moderna Inc . is a biotechnology company that focuses on researching, developing, and commercializing innovative mRNA-based"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://investors.modernatx.com/",
+      "url": "https://www.modernatx.com/en-US",
       "query": "Moderna, Inc. major customers clients",
-      "snippet": "- Moderna ’s Pipeline: Development Programs. Click here to learn more."
+      "snippet": "Jun 16, 2025 · Learn how we’re changing the world of medicine. Discover career opportunities, our product pipeline, and browse media resources. Meet M"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.marketresearch.com/GlobalData-v3648/Moderna-MRNA-Financial-Strategic-SWOT-37607329/",
+      "url": "https://www.modernatx.com/about-us/our-story",
       "query": "Moderna, Inc. major customers clients",
-      "snippet": "Moderna Inc ( Moderna ) is a biotechnology company that focuses on the development of messenger RNA (mRNA) therapeutics and vaccines. The company deve"
+      "snippet": "Moderna initiates first-in-human dosing for mRNA-1653, a combination vaccine with the potential to protect against more than one disease–human metapne"
     }
   ]
 }

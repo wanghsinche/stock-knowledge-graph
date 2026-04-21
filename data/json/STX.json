@@ -1,37 +1,37 @@
 {
   "ticker": "STX",
   "company_name": "Seagate Technology Holdings plc",
-  "sector": "Technology / Computer Hardware",
-  "industry": "Data Storage",
+  "sector": "Technology",
+  "industry": "Computer Hardware",
   "upstream": [
-    "Semiconductor manufacturers",
-    "Printed circuit board suppliers",
-    "Magnetic media suppliers",
-    "Precision machining suppliers",
-    "Electronic component suppliers"
+    "MU",
+    "005930.KS",
+    "SK Hynix",
+    "META",
+    "Amphenol"
   ],
   "downstream": [
     "DELL",
     "HPQ",
     "Lenovo Group",
     "AAPL",
-    "AMZN"
+    "005930.KS"
   ],
   "competitors": [
     "WDC",
-    "Toshiba",
-    "005930.KS",
-    "MU",
-    "INTC"
+    "Kioxia (formerly Toshiba Memory)",
+    "IBM",
+    "INTC",
+    "MU"
   ],
   "key_products": [
-    "3.5\" HDD",
-    "2.5\" HDD",
-    "SSD",
-    "Enterprise storage solutions",
-    "Seagate IronWolf"
+    "Enterprise Hard Disk Drives (HDDs)",
+    "Consumer Hard Disk Drives (HDDs)",
+    "Solid State Drives (SSDs)",
+    "Data Center Storage Solutions",
+    "Cloud Storage Infrastructure"
   ],
-  "extracted_at": "2026-04-20 17:03:39",
+  "extracted_at": "2026-04-21 16:58:11",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Seagate_Technology",
+      "url": "https://www.seagate.com/",
       "query": "Seagate Technology Holdings plc suppliers manufacturers",
-      "snippet": "Seagate Technology ... Seagate Technology Holdings plc is an American data storage company. It was incorporated in 1978 as Shugart Technology and comm"
+      "snippet": "Seagate Technology Holdings Plc ."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/STX-Suppliers",
+      "url": "https://csimarket.com/stocks/growthrates.php?code=STX",
       "query": "Seagate Technology Holdings plc suppliers manufacturers",
-      "snippet": "Feb 4, 2026 · Seagate Technology Holdings Plc supply chain, list and performance of Seagate Technology Holdings Plcs ' suppliers - CSIMarket"
+      "snippet": "Seagate Technology Holdings Plc Executive Officers. Economic Indicators. Seagate Technology Holdings Plc Cash Flow Statement. Suppliers ."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/STX-Customers",
+      "url": "https://csimarket.com/stocks/STX-Return-on-Assets-ROA.html",
       "query": "Seagate Technology Holdings plc major customers clients",
-      "snippet": "Seagate Technology Holdings Plc customers and markets, results by customer and performance relative to STX, by company and industry - CSIMarket"
+      "snippet": "Seagate Technology Holdings Plc Customers Demand. STX Customers Expenditure Growth Rates. STX Customers Performance."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://stocklight.com/stocks/us/nasdaq-stx/seagate-technology/annual-reports/nasdaq-stx-2025-10K-251176356.pdf",
+      "url": "https://ca.finance.yahoo.com/quote/STXH.VI/analysis/",
       "query": "Seagate Technology Holdings plc major customers clients",
-      "snippet": "In this Annual Report on Form 10-K (the “Form 10-K”), unless the context indicates otherwise, as used herein, the terms “we,” “us,” “ Seagate ,” the “"
+      "snippet": "TNJ.CN Boba Mint Holdings Ltd. 0.0750 +0.0250 (+50.00%)."
     }
   ]
 }

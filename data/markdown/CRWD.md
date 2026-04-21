@@ -3,8 +3,8 @@ ticker: CRWD
 company: CrowdStrike Holdings, Inc.
 sector: Technology
 industry: Software - Infrastructure
-extracted_at: 2026-04-13 17:01:57
-last_updated: 2026-04-13
+extracted_at: 2026-04-21 16:57:17
+last_updated: 2026-04-21
 ---
 
 # CRWD - CrowdStrike Holdings, Inc.
@@ -12,7 +12,7 @@ last_updated: 2026-04-13
 ## 基本信息
 
 - **所属行业**: Technology / Software - Infrastructure
-- **提取时间**: 2026-04-13 17:01:57
+- **提取时间**: 2026-04-21 16:57:17
 
 ## 产业链关系
 
@@ -20,15 +20,15 @@ last_updated: 2026-04-13
 - [[MSFT]]
 - [[AMZN]]
 - [[GOOGL]]
-- [[VMware]]
 - [[CSCO]]
+- [[Red Hat]]
 
 ### 下游客户
-- [[Fortune 500 enterprises]]
-- [[U.S. federal agencies]]
-- [[Financial services firms]]
-- [[Healthcare providers]]
-- [[Retail corporations]]
+- [[U.S. Department of Defense]]
+- [[Bank of America]]
+- [[Walmart]]
+- [[Citigroup]]
+- [[UnitedHealth Group]]
 
 ### 竞争对手
 - [[Palo Alto Networks]]
@@ -41,17 +41,17 @@ last_updated: 2026-04-13
 - [[CrowdStrike Falcon Platform]]
 - [[Falcon Prevent]]
 - [[Falcon Insight]]
-- [[Falcon Discover]]
 - [[Falcon OverWatch]]
+- [[Falcon X]]
 
 ## 数据来源
 
 - [CrowdStrike](https://en.wikipedia.org/wiki/CrowdStrike_Holdings,_Inc.)
 - [CrowdStrike Holdings, Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/CrowdStrike)
 - [CrowdStrike Holdings, Inc. suppliers manufacturers](https://csimarket.com/stocks/competition2.php?supply&code=CRWD)
-- [CrowdStrike Holdings, Inc. major customers clients](https://en.wikipedia.org/wiki/CrowdStrike)
-- [CrowdStrike Holdings, Inc. major customers clients](https://finance.yahoo.com/quote/CRWD/)
+- [CrowdStrike Holdings, Inc. major customers clients](https://www.tradingview.com/symbols/NASDAQ-CRWD/)
+- [CrowdStrike Holdings, Inc. major customers clients](https://www.investing.com/equities/crowdstrike-holdings-inc)
 
 ## 元数据
 
-- **更新日期**: 2026-04-13
+- **更新日期**: 2026-04-21

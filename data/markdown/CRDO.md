@@ -3,8 +3,8 @@ ticker: CRDO
 company: Credo Technology Group Holding Ltd
 sector: Technology
 industry: Semiconductors
-extracted_at: 2026-04-16 17:11:04
-last_updated: 2026-04-16
+extracted_at: 2026-04-21 16:57:57
+last_updated: 2026-04-21
 ---
 
 # CRDO - Credo Technology Group Holding Ltd
@@ -12,46 +12,46 @@ last_updated: 2026-04-16
 ## 基本信息
 
 - **所属行业**: Technology / Semiconductors
-- **提取时间**: 2026-04-16 17:11:04
+- **提取时间**: 2026-04-21 16:57:57
 
 ## 产业链关系
 
 ### 上游供应商
-- [[DustPhotonics]]
-- [[Xilinx]]
-- [[AVGO]]
-- [[MRVL]]
-- [[INTC]]
+- [[Silicon wafer suppliers]]
+- [[Photolithography equipment manufacturers]]
+- [[CAT]]
+- [[META]]
+- [[Cleanroom facility equipment suppliers]]
 
 ### 下游客户
-- [[NVDA]]
-- [[INTC]]
-- [[AMD]]
-- [[GOOGL]]
-- [[MSFT]]
+- [[Smartphone OEMs]]
+- [[Tablet manufacturers]]
+- [[IoT device manufacturers]]
+- [[Wearable device producers]]
+- [[Automotive electronics suppliers]]
 
 ### 竞争对手
-- [[Cypress Semiconductor]]
-- [[AVGO]]
-- [[MRVL]]
+- [[MediaTek]]
 - [[QCOM]]
-- [[INTC]]
+- [[AVGO]]
+- [[NXP Semiconductors]]
+- [[STMicroelectronics]]
 
 ### 核心产品
-- [[High‑speed optical interconnects]]
-- [[Energy‑efficient optical transceivers]]
-- [[High‑speed serial link modules]]
-- [[Optical fiber connectivity solutions]]
-- [[AI‑accelerated connectivity platforms]]
+- [[Power management ICs]]
+- [[Audio ICs]]
+- [[RF front-end modules]]
+- [[Smart chips for IoT]]
+- [[Mobile application processors]]
 
 ## 数据来源
 
 - 
-- [Credo Technology Group Holding Ltd suppliers manufacturers](https://credosemi.com/)
-- [Credo Technology Group Holding Ltd suppliers manufacturers](https://investors.credosemi.com/news-events/news/news-details/2026/Credo-Agrees-to-Acquire-DustPhotonics-Accelerating-Expansion-into-Silicon-Photonics-and-Next-Generation-Optical-Connectivity/default.aspx)
-- [Credo Technology Group Holding Ltd major customers clients](https://seekingalpha.com/symbol/CRDO)
-- [Credo Technology Group Holding Ltd major customers clients](https://stockanalysis.com/stocks/crdo/)
+- [Credo Technology Group Holding Ltd suppliers manufacturers](https://en.wikipedia.org/wiki/Credo)
+- [Credo Technology Group Holding Ltd suppliers manufacturers](https://credobeauty.com/)
+- [Credo Technology Group Holding Ltd major customers clients](https://en.wikipedia.org/wiki/Credo)
+- [Credo Technology Group Holding Ltd major customers clients](https://credobeauty.com/)
 
 ## 元数据
 
-- **更新日期**: 2026-04-16
+- **更新日期**: 2026-04-21

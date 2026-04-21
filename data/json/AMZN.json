@@ -4,34 +4,34 @@
   "sector": "Consumer Cyclical",
   "industry": "Internet Retail",
   "upstream": [
-    "Consumer electronics manufacturers",
-    "Apparel manufacturers",
-    "Home goods manufacturers",
+    "Third‑party sellers",
+    "Manufacturers of consumer goods",
     "Book publishers",
-    "Third‑party sellers"
+    "Digital content creators",
+    "Hardware suppliers (e.g., Echo, Kindle)"
   ],
   "downstream": [
-    "Retail consumers",
-    "Prime members",
+    "Individual consumers",
     "Business customers",
-    "Third‑party sellers",
-    "AMZN"
+    "AMZN",
+    "Prime members",
+    "Enterprise logistics partners"
   ],
   "competitors": [
     "Walmart",
     "Alibaba",
     "eBay",
-    "Shopify",
-    "MSFT"
+    "Target",
+    "Shopify"
   ],
   "key_products": [
-    "Amazon.com e‑commerce platform",
+    "Amazon.com marketplace",
+    "Amazon Prime subscription",
     "Amazon Web Services",
-    "Amazon Prime Video",
-    "Amazon Echo (Alexa)",
-    "Amazon Kindle"
+    "Kindle e‑readers",
+    "Echo/Alexa smart speakers"
   ],
-  "extracted_at": "2026-04-20 16:56:25",
+  "extracted_at": "2026-04-21 16:49:13",
   "sources": [
     {
       "source": "Wikipedia",
@@ -53,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://capitaloneshopping.com/research/amazon-statistics/",
+      "url": "https://ir.aboutamazon.com/",
       "query": "Amazon.com, Inc. major customers clients",
-      "snippet": "Mar 29, 2026 · Over 310 million global consumers shop on Amazon at least once a year. 2 million active selling partners have shops on Amazon. Independ"
+      "snippet": "The Spheres. Select awards and recognition. Amazon . com Conditions of Use © 1996- Amazon . com , Inc . - IR or its affiliates."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.historytools.org/consumer/amazon-target-market",
+      "url": "https://www.amazon.com.tr/",
       "query": "Amazon.com, Inc. major customers clients",
-      "snippet": "Aug 24, 2024 · Even though Amazon is a huge company, you may be curious about the specific market the leading retailer targets. Here's Amazon target m"
+      "snippet": "Tüm Kategoriler Amazon Depo Bahçe Bebek Bilgisayarlar Elektronik Ev Ev ve Mutfak Evcil Hayvan Malzemeleri Gıda ve İçecek Hediye Kartları Kitaplar Kişi"
     }
   ]
 }

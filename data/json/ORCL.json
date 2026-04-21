@@ -7,31 +7,31 @@
     "INTC",
     "AMD",
     "NVDA",
-    "DELL",
-    "HPQ"
+    "CSCO",
+    "DELL"
   ],
   "downstream": [
-    "JPMorgan Chase",
+    "U.S. Department of Defense",
     "Bank of America",
+    "UnitedHealth Group",
     "Walmart",
-    "AT&T",
-    "UnitedHealth Group"
+    "AT&T"
   ],
   "competitors": [
     "MSFT",
     "AMZN",
-    "SAP",
     "IBM",
-    "CRM"
+    "SAP",
+    "GOOGL"
   ],
   "key_products": [
     "Oracle Database",
     "Oracle Cloud Infrastructure",
-    "Oracle ERP Cloud",
-    "Oracle Fusion Middleware",
-    "Oracle Autonomous Database"
+    "Oracle Autonomous Database",
+    "Oracle Fusion Applications",
+    "Oracle E-Business Suite"
   ],
-  "extracted_at": "2026-04-20 16:58:01",
+  "extracted_at": "2026-04-21 16:50:05",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.oracle.com/corporate/suppliers/",
-      "query": "Oracle Corporation suppliers manufacturers",
-      "snippet": "Oracle is always looking for suppliers who can meet our high quality standards and satisfy our ever-evolving business needs. We believe in the importa"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.datacenters.com/providers/oracle/data-center-locations",
-      "query": "Oracle Corporation suppliers manufacturers",
-      "snippet": "Click here for a list of Oracle data center locations. Find the right facility for colocation, bare metal and more or call us at +1 833-471-7100."
-    },
-    {
-      "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Oracle_Corporation",
-      "query": "Oracle Corporation major customers clients",
+      "query": "Oracle Corporation suppliers manufacturers",
       "snippet": "Oracle Corporation is an American multinational technology company headquartered in Austin, Texas. Co-founded in Santa Clara, California by Bob Miner,"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://ru.wikipedia.org/wiki/Oracle",
-      "query": "Oracle Corporation major customers clients",
+      "query": "Oracle Corporation suppliers manufacturers",
       "snippet": "Oracle ( Oracle Corporation ) — американская корпорация, второй по размеру выручки разработчик программного обеспечения (после Microsoft), четвёртая к"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.ibm.com/mx-es/think/topics/oracle",
+      "query": "Oracle Corporation major customers clients",
+      "snippet": "Oracle es una compañía de TI que ofrece una amplia gama de productos y servicios orientados a los negocios que incluyen Oracle Database."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.ibm.com/cn-zh/think/topics/oracle",
+      "query": "Oracle Corporation major customers clients",
+      "snippet": "什么是 Oracle？ Oracle 是一家总部位于美国的信息技术公司，提供各种面向业务的产品和服务，包括 关系数据库 管理系统 (RDBMS) Oracle Database。 该公司于 1977 年在美国加利福尼亚州成立，是全球最大的软件和硬件公司之一 1。"
     }
   ]
 }

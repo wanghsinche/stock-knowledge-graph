@@ -3,8 +3,8 @@ ticker: CRWV
 company: CoreWeave, Inc.
 sector: Technology
 industry: Software - Infrastructure
-extracted_at: 2026-04-20 16:57:50
-last_updated: 2026-04-20
+extracted_at: 2026-04-21 16:54:08
+last_updated: 2026-04-21
 ---
 
 # CRWV - CoreWeave, Inc.
@@ -12,7 +12,7 @@ last_updated: 2026-04-20
 ## 基本信息
 
 - **所属行业**: Technology / Software - Infrastructure
-- **提取时间**: 2026-04-20 16:57:50
+- **提取时间**: 2026-04-21 16:54:08
 
 ## 产业链关系
 
@@ -20,38 +20,38 @@ last_updated: 2026-04-20
 - [[NVDA]]
 - [[AMD]]
 - [[INTC]]
-- [[QCOM]]
-- [[Xilinx]]
+- [[AMZN]]
+- [[MSFT]]
 
 ### 下游客户
 - [[OpenAI]]
 - [[Mistral AI]]
 - [[IBM]]
-- [[Anthropic]]
-- [[META]]
+- [[GOOGL]]
+- [[MSFT]]
 
 ### 竞争对手
 - [[NVDA]]
-- [[AMD]]
 - [[GOOGL]]
 - [[AMZN]]
 - [[MSFT]]
+- [[IBM]]
 
 ### 核心产品
-- [[GPU Cloud Infrastructure]]
-- [[GPU-as-a-Service]]
-- [[AI Training Services]]
-- [[Inference Services]]
-- [[Chip Management Software]]
+- [[GPU cloud infrastructure]]
+- [[Chip management software]]
+- [[AI training clusters]]
+- [[GPU compute services]]
+- [[AI inference platforms]]
 
 ## 数据来源
 
 - [CoreWeave](https://en.wikipedia.org/wiki/CoreWeave,_Inc.)
 - [CoreWeave, Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/CoreWeave)
 - [CoreWeave, Inc. suppliers manufacturers](https://www.coreweave.com/)
+- [CoreWeave, Inc. major customers clients](https://en.wikipedia.org/wiki/CoreWeave)
 - [CoreWeave, Inc. major customers clients](https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lyX3RmMUVCRXUzY2pjN1A3Umx5Z0FQAQ?hl=en-US&gl=US&ceid=US:en)
-- [CoreWeave, Inc. major customers clients](https://brokstock.co.za/markets/us-shares/crwv/)
 
 ## 元数据
 
-- **更新日期**: 2026-04-20
+- **更新日期**: 2026-04-21

@@ -2,36 +2,39 @@
   "ticker": "COIN",
   "company_name": "Coinbase Global, Inc.",
   "sector": "Financial Services",
-  "industry": "Financial Data & Stock Exchanges",
+  "industry": "Cryptocurrency Exchange",
   "upstream": [
     "AMZN",
     "MSFT",
-    "Stripe",
-    "PayPal",
-    "NVDA"
+    "GOOGL",
+    "Security & Compliance Vendors (e.g., Palo Alto, Okta)",
+    "Payment Processor Providers (e.g., Stripe, PayPal)"
   ],
   "downstream": [
-    "Retail cryptocurrency investors",
-    "Institutional traders",
-    "Hedge funds",
-    "DeFi protocols",
-    "Corporate treasury departments"
+    "Retail cryptocurrency traders",
+    "Institutional investors and asset managers",
+    "Crypto funds and hedge funds",
+    "Merchants accepting crypto payments",
+    "Crypto wallet users"
   ],
   "competitors": [
     "Binance",
     "Kraken",
     "Gemini",
     "Bitstamp",
-    "FTX"
+    "Huobi"
   ],
   "key_products": [
-    "Cryptocurrency trading platform",
-    "Custody services",
-    "Staking services",
-    "Wallet solutions",
-    "API for developers"
+    "Coinbase Pro (advanced trading platform)",
+    "Coinbase Wallet (non‑custodial wallet)",
+    "Coinbase Earn (crypto education & rewards)",
+    "Coinbase Prime (institutional trading & custody)",
+    "Coinbase One (subscription service)",
+    "Coinbase Custody (secure asset storage)",
+    "Coinbase Commerce (merchant payments)",
+    "Coinbase Card (crypto debit card)"
   ],
-  "extracted_at": "2026-04-20 17:01:05",
+  "extracted_at": "2026-04-21 16:53:00",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,7 +46,7 @@
       "source": "DuckDuckGo",
       "url": "https://www.coinbase.com/vendors/vendors-at-coinbase-code-of-conduct",
       "query": "Coinbase Global, Inc. suppliers manufacturers",
-      "snippet": "For purposes of this Code, vendors include any third party, firm, or individual that provides a product or service to Coinbase, including: vendors , s"
+      "snippet": "For purposes of this Code, vendors include any third party, firm, or individual that provides a product or service to Coinbase , including: vendors , "
     },
     {
       "source": "DuckDuckGo",
@@ -53,15 +56,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Coinbase",
+      "url": "https://www.reddit.com/r/CoinBase/comments/17nmv3u/beware_coinbases_outrageous_hidden_fees/",
       "query": "Coinbase Global, Inc. major customers clients",
-      "snippet": "Coinbase Global , Inc . is an American cryptocurrency exchange. It was founded in 2012 by Brian Armstrong and Fred Ehrsam."
+      "snippet": "Nov 4, 2023 · Coinbase One is a subscription product that offers fee-free buying and selling of cryptocurrencies, with certain limitations. Members ma"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.coinbase.com/",
+      "url": "https://www.reddit.com/r/CoinBase/comments/1b3ixu2/coinbase_one_worth_it/",
       "query": "Coinbase Global, Inc. major customers clients",
-      "snippet": "Coinbase United States is a secure online platform for buying, selling, transferring, and storing cryptocurrency. Coinbase believes crypto will be par"
+      "snippet": "Coinbase one worth it Does anyone have Coinbase one. If so what do you think Add a Comment Sort by: Search Comments"
     }
   ]
 }

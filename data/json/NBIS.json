@@ -4,30 +4,34 @@
   "sector": "Communication Services",
   "industry": "Internet Content & Information",
   "upstream": [
-    "Avride",
-    "TripleTen",
-    "Toloka",
-    "Clickhouse"
+    "NVDA",
+    "AMD",
+    "INTC",
+    "GOOGL",
+    "MSFT"
   ],
   "downstream": [
-    "Security Managers",
-    "Special Security Officers",
-    "Government agencies",
-    "Enterprise security teams"
+    "Federal government agencies",
+    "Security agencies",
+    "Defense departments",
+    "INTC",
+    "Public sector organizations"
   ],
   "competitors": [
+    "OpenAI",
     "GOOGL",
+    "MSFT",
     "AMZN",
-    "MSFT"
+    "IBM"
   ],
   "key_products": [
     "Nebius AI infrastructure platform",
+    "Nebius AI Cloud services",
+    "Nebius AI solutions",
     "Avride",
-    "TripleTen",
-    "Toloka",
-    "Clickhouse"
+    "TripleTen"
   ],
-  "extracted_at": "2026-04-20 16:59:59",
+  "extracted_at": "2026-04-21 16:56:30",
   "sources": [
     {
       "source": "Wikipedia",
@@ -37,15 +41,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Nebius_Group",
+      "url": "https://www.dcsa.mil/Systems-Applications/National-Background-Investigation-Services-NBIS/",
       "query": "NBIS suppliers manufacturers",
-      "snippet": "Nebius Group N.V., headquartered in Amsterdam, is a technology company that provides artificial intelligence infrastructure."
+      "snippet": "NBIS is the Federal government’s IT system for end-to-end process for personnel vetting. This starts with the initiation and application for a backgro"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/suppliers_glance.php?code=NBIS",
+      "url": "https://finance.yahoo.com/quote/NBIS/?fr=sycsrp_catchall",
       "query": "NBIS suppliers manufacturers",
-      "snippet": "NBIS 's Suppliers Management Effectiveness. NBIS 's Competitors Results.Nebius Group N V's Comment on Supply Chain. NBIS 's Stock Perfrormance relativ"
+      "snippet": "Find the latest Nebius Group N.V. ( NBIS ) stock quote, history, news and other vital information to help you with your stock trading and investing."
     },
     {
       "source": "DuckDuckGo",
@@ -57,7 +61,7 @@
       "source": "DuckDuckGo",
       "url": "https://csimarket.com/stocks/NBIS-Customers",
       "query": "NBIS major customers clients",
-      "snippet": "2 days ago · For your research, we’ve provided 9 tables on Nebius Group n v corporate clients . You can find them in the navigation menu under Custome"
+      "snippet": "3 days ago · For your research, we’ve provided 9 tables on Nebius Group n v corporate clients . You can find them in the navigation menu under Custome"
     }
   ]
 }

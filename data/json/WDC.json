@@ -1,37 +1,37 @@
 {
   "ticker": "WDC",
   "company_name": "Western Digital Corporation",
-  "sector": "Technology",
-  "industry": "Computer Hardware",
+  "sector": "Technology / Computer Hardware",
+  "industry": "Data Storage",
   "upstream": [
+    "005930.KS",
     "MU",
-    "Electronics component suppliers",
-    "Firmware and software providers",
-    "Precision manufacturing equipment suppliers",
-    "Raw material suppliers (silicon wafers)"
+    "SK Hynix",
+    "Panasonic",
+    "TDK"
   ],
   "downstream": [
     "DELL",
-    "MSFT",
-    "Consumer electronics manufacturers",
-    "Data center operators",
-    "Retail storage device customers"
+    "HPQ",
+    "Lenovo Group",
+    "AMZN",
+    "MSFT"
   ],
   "competitors": [
     "STX",
     "Toshiba Corporation",
     "005930.KS",
-    "MU",
-    "IBM"
+    "INTC",
+    "MU"
   ],
   "key_products": [
-    "Hard Disk Drives (HDDs)",
-    "Solid State Drives (SSDs)",
-    "External storage devices",
-    "Network Attached Storage (NAS)",
-    "Enterprise storage solutions"
+    "Enterprise HDDs",
+    "Consumer HDDs",
+    "Enterprise SSDs",
+    "Consumer SSDs",
+    "External Storage Drives"
   ],
-  "extracted_at": "2026-04-20 17:01:52",
+  "extracted_at": "2026-04-21 16:55:23",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Western_Digital",
+      "url": "https://www.reddit.com/r/OntarioUniversities/comments/jew9uv/western_health_science/",
       "query": "Western Digital Corporation suppliers manufacturers",
+      "snippet": "Oct 20, 2020 · Western Health Science? I'm currently in grade 12 and am interested in health sci, and was wondering how \"early admissions\" are conside"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.reddit.com/r/premedcanada/comments/1adyego/western_interview_invitesregrets_2024/",
+      "query": "Western Digital Corporation suppliers manufacturers",
+      "snippet": "Jan 29, 2024 · It took me 3 cycles to get into med and western was my only invite! Hopefully UofT comes through for you this year but if not I’m happy"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/Western_Digital",
+      "query": "Western Digital Corporation major customers clients",
       "snippet": "Western Digital Corporation , doing business as WD , is an American data storage company headquartered in San Jose, California. Established in 1970, t"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ru.wikipedia.org/wiki/Western_Digital",
-      "query": "Western Digital Corporation suppliers manufacturers",
-      "snippet": "Western Digital Corporation (NASDAQ: WDC, по-русски «Вестерн Диджитал»[3]) — компания, производитель компьютерной электроники. Наиболее известна произ"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/WDC-Customers",
+      "url": "https://en.vidabytes.com/Western-Digital-will-run-out-of-hard-drives-by-2026-due-to-AI-pressure/",
       "query": "Western Digital Corporation major customers clients",
-      "snippet": "For your research, we’ve provided 9 tables on Western Digital Corporation corporate clients . You can find them in the navigation menu under Customers"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://data.landbase.com/technology/western-digital/",
-      "query": "Western Digital Corporation major customers clients",
-      "snippet": "Aug 17, 2025 · Our Western Digital customers list is available for download and comes enriched with vital company specifics, including industry classi"
+      "snippet": "Western Digital has committed its entire hard drive production for 2026 to seven major enterprise customers .Distributors must compete with each other"
     }
   ]
 }

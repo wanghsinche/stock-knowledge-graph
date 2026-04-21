@@ -3,8 +3,8 @@ ticker: MSFT
 company: Microsoft Corporation
 sector: Technology
 industry: Software - Infrastructure
-extracted_at: 2026-04-20 16:55:53
-last_updated: 2026-04-20
+extracted_at: 2026-04-21 16:48:36
+last_updated: 2026-04-21
 ---
 
 # MSFT - Microsoft Corporation
@@ -12,7 +12,7 @@ last_updated: 2026-04-20
 ## 基本信息
 
 - **所属行业**: Technology / Software - Infrastructure
-- **提取时间**: 2026-04-20 16:55:53
+- **提取时间**: 2026-04-21 16:48:36
 
 ## 产业链关系
 
@@ -20,15 +20,15 @@ last_updated: 2026-04-20
 - [[INTC]]
 - [[AMD]]
 - [[NVDA]]
-- [[TSM]]
-- [[005930.KS]]
+- [[DELL]]
+- [[CSCO]]
 
 ### 下游客户
-- [[AMZN]]
-- [[GOOGL]]
-- [[Walmart]]
+- [[Enterprise customers]]
+- [[Government agencies]]
 - [[DELL]]
-- [[HPQ]]
+- [[CAT]]
+- [[Consumers]]
 
 ### 竞争对手
 - [[AAPL]]
@@ -38,10 +38,10 @@ last_updated: 2026-04-20
 - [[IBM]]
 
 ### 核心产品
-- [[Windows]]
-- [[Office]]
-- [[Azure]]
-- [[Surface]]
+- [[Windows OS]]
+- [[Microsoft Office]]
+- [[Azure Cloud]]
+- [[Microsoft 365]]
 - [[Xbox]]
 
 ## 数据来源
@@ -49,9 +49,9 @@ last_updated: 2026-04-20
 - [Microsoft](https://en.wikipedia.org/wiki/Microsoft_Corporation)
 - [Microsoft Corporation suppliers manufacturers](https://partner.microsoft.com/en-us/partnership/find-a-partner)
 - [Microsoft Corporation suppliers manufacturers](https://csimarket.com/stocks/MSFT-Suppliers)
-- [Microsoft Corporation major customers clients](https://www.appsruntheworld.com/customers-database/vendors/view/microsoft)
-- [Microsoft Corporation major customers clients](https://www.microsoft.com/investor/reports/ar13/financial-review/business-description/customers/index.html)
+- [Microsoft Corporation major customers clients](https://en.wikipedia.org/wiki/Microsoft)
+- [Microsoft Corporation major customers clients](https://www.linkedin.com/company/microsoft)
 
 ## 元数据
 
-- **更新日期**: 2026-04-20
+- **更新日期**: 2026-04-21

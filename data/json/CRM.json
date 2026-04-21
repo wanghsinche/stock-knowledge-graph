@@ -7,22 +7,22 @@
     "AMZN",
     "MSFT",
     "GOOGL",
-    "ORCL",
-    "IBM"
+    "DELL",
+    "CSCO"
   ],
   "downstream": [
-    "AMZN",
-    "AAPL",
+    "eBay",
+    "Toyota",
     "Coca‑Cola",
-    "Ford",
-    "General Electric"
+    "American Express",
+    "HPQ"
   ],
   "competitors": [
     "MSFT",
+    "SAP SuccessFactors",
     "ORCL",
-    "SAP Customer Experience",
-    "HubSpot",
-    "Zoho CRM"
+    "ADBE",
+    "HubSpot"
   ],
   "key_products": [
     "Sales Cloud",
@@ -31,7 +31,7 @@
     "Commerce Cloud",
     "Einstein AI"
   ],
-  "extracted_at": "2026-04-20 17:00:40",
+  "extracted_at": "2026-04-21 16:54:19",
   "sources": [
     {
       "source": "Wikipedia",
@@ -53,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.salesforce.com/",
+      "url": "https://en.wikipedia.org/wiki/Salesforce",
       "query": "Salesforce, Inc. major customers clients",
-      "snippet": "Salesforce Enterprise-grade CRM with deep reporting, sales operations, and..."
+      "snippet": "Salesforce was founded on March 8, 1999, by former Oracle executive Marc Benioff, together with Parker Harris, Dave Moellenhoff, and Frank Dominguez a"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.linkedin.com/news/story/cautious-clients-stymie-salesforce-5421172/",
+      "url": "https://login.salesforce.com/",
       "query": "Salesforce, Inc. major customers clients",
-      "snippet": "Salesforce is the latest victim of corporate uncertainty about the economy, and it's not alone, Bloomberg reports. Other tech companies including Zoom"
+      "snippet": "Salesforce Customer Secure Login Page. Login to your Salesforce Customer Account."
     }
   ]
 }

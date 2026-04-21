@@ -3,8 +3,8 @@ ticker: ALAB
 company: Astera Labs, Inc.
 sector: Technology
 industry: Semiconductors
-extracted_at: 2026-04-13 17:01:13
-last_updated: 2026-04-13
+extracted_at: 2026-04-21 16:54:51
+last_updated: 2026-04-21
 ---
 
 # ALAB - Astera Labs, Inc.
@@ -12,21 +12,21 @@ last_updated: 2026-04-13
 ## 基本信息
 
 - **所属行业**: Technology / Semiconductors
-- **提取时间**: 2026-04-13 17:01:13
+- **提取时间**: 2026-04-21 16:54:51
 
 ## 产业链关系
 
 ### 上游供应商
 - [[TSM]]
-- [[GlobalFoundries]]
 - [[005930.KS]]
-- [[ASE Technology Holding]]
-- [[Amkor Technology]]
+- [[GlobalFoundries]]
+- [[INTC]]
+- [[ASE Group]]
 
 ### 下游客户
-- [[AMZN]]
-- [[GOOGL]]
-- [[MSFT]]
+- [[CSCO]]
+- [[JNPR]]
+- [[Huawei Technologies]]
 - [[DELL]]
 - [[HPQ]]
 
@@ -34,24 +34,24 @@ last_updated: 2026-04-13
 - [[AVGO]]
 - [[MRVL]]
 - [[QRVO]]
-- [[INTC]]
-- [[AMD]]
+- [[Lattice Semiconductor]]
+- [[Silicon Labs]]
 
 ### 核心产品
-- [[CXL (Compute Express Link) adapters]]
-- [[PCIe 5.0/6.0 switches]]
-- [[High‑speed interconnect IP blocks]]
-- [[Data‑center interconnect solutions]]
-- [[AI accelerator interconnects]]
+- [[Silicon photonics transceivers (10G/25G/40G/100G)]]
+- [[High‑speed serial transceiver IP]]
+- [[Silicon photonics transceiver IP]]
+- [[Optical interconnect solutions]]
+- [[Data center interconnect solutions]]
 
 ## 数据来源
 
 - 
-- [Astera Labs, Inc. suppliers manufacturers](https://www.asteralabs.com/)
-- [Astera Labs, Inc. suppliers manufacturers](https://csimarket.com/stocks/suppliers_glance.php?code=ALAB)
-- [Astera Labs, Inc. major customers clients](https://csimarket.com/stocks/ALAB-Customers)
-- [Astera Labs, Inc. major customers clients](https://businessmodelcanvastemplate.com/blogs/target-market/astera-labs-target-market)
+- [Astera Labs, Inc. suppliers manufacturers](https://marketing.asteracu.com/acton/fs/blocks/showLandingPage/a/2638/p/p-0030/t/page/fm/0)
+- [Astera Labs, Inc. suppliers manufacturers](https://www.asteracu.com/wp-content/uploads/2019/04/ASTq_Jul18.pdf)
+- [Astera Labs, Inc. major customers clients](https://marketing.asteracu.com/acton/fs/blocks/showLandingPage/a/2638/p/p-0030/t/page/fm/0)
+- [Astera Labs, Inc. major customers clients](https://www.asteracu.com/wp-content/uploads/2019/04/ASTq_Jul18.pdf)
 
 ## 元数据
 
-- **更新日期**: 2026-04-13
+- **更新日期**: 2026-04-21

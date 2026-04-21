@@ -1,37 +1,37 @@
 {
   "ticker": "SNDK",
-  "company_name": "Sandisk Corporation",
+  "company_name": "SanDisk Corporation",
   "sector": "Technology / Computer Hardware",
-  "industry": "Semiconductor / Flash Memory",
+  "industry": "Computer Semiconductor",
   "upstream": [
     "MU",
     "005930.KS",
     "SK Hynix",
-    "Kioxia (formerly Toshiba Memory)",
-    "WDC"
+    "Amkor Technology",
+    "ASE Technology Holding"
   ],
   "downstream": [
     "AAPL",
-    "005930.KS",
+    "MSFT",
     "DELL",
     "HPQ",
-    "SONY"
+    "AMZN"
   ],
   "competitors": [
     "Kingston Technology",
-    "MU",
-    "Lexar",
     "Corsair",
-    "PNY Technologies"
+    "MU",
+    "005930.KS",
+    "WDC"
   ],
   "key_products": [
-    "SD cards",
-    "microSD cards",
+    "Memory cards",
     "USB flash drives",
-    "SSD (internal)",
-    "SSD (external)"
+    "Solid-state drives (SSDs)",
+    "Embedded flash memory",
+    "Enterprise SSDs"
   ],
-  "extracted_at": "2026-04-20 16:55:30",
+  "extracted_at": "2026-04-21 16:49:28",
   "sources": [
     {
       "source": "Wikipedia",

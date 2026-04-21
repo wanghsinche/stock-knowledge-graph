@@ -7,30 +7,31 @@
     "AMZN",
     "MSFT",
     "GOOGL",
-    "DELL",
-    "CSCO"
+    "IBM",
+    "ORCL"
   ],
   "downstream": [
     "U.S. Department of Defense",
     "Federal Bureau of Investigation",
     "INTC",
-    "UK Ministry of Defence",
-    "National Health Service (UK)"
+    "Walmart",
+    "JPMorgan Chase"
   ],
   "competitors": [
     "Snowflake",
     "Databricks",
-    "Splunk",
     "IBM",
-    "MSFT"
+    "MSFT",
+    "GOOGL"
   ],
   "key_products": [
     "Gotham",
     "Foundry",
     "Palantir Apollo",
-    "Palantir Helix"
+    "Palantir Data Lake",
+    "Palantir Platform"
   ],
-  "extracted_at": "2026-04-20 16:57:25",
+  "extracted_at": "2026-04-21 16:50:20",
   "sources": [
     {
       "source": "Wikipedia",
@@ -46,21 +47,21 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/PLTR/",
+      "url": "https://tr.wikipedia.org/wiki/Palantir_Technologies",
       "query": "Palantir Technologies Inc. suppliers manufacturers",
-      "snippet": "Find the latest Palantir Technologies Inc . (PLTR) stock quote, history, news and other vital information to help you with your stock trading and inve"
+      "snippet": "Palantir Technologies Inc ., büyük veri analitiği için yazılım platformlarında uzmanlaşmış bir Amerikan halka açık şirketidir. Merkezi Denver, Colorad"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://data.landbase.com/technology/palantir/",
+      "url": "https://en.wikipedia.org/wiki/Palantir",
       "query": "Palantir Technologies Inc. major customers clients",
-      "snippet": "Aug 17, 2025 · Our Palantir customers list is available for download and comes enriched with vital company specifics, including industry classificatio"
+      "snippet": "Palantir Technologies Inc . Palantir 's customer base includes federal agencies, state and local governments, international organizations, and also pr"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://theirstack.com/en/technology/palantir",
+      "url": "https://www.marketwatch.com/investing/stock/pltr",
       "query": "Palantir Technologies Inc. major customers clients",
-      "snippet": "Download a list of 3,579 companies that use Palantir with enriched data including industry, company size, location, funding rounds, and revenue figure"
+      "snippet": "PLTR | Complete Palantir Technologies Inc . stock news by MarketWatch. View real-time stock prices and stock quotes for a full financial overview."
     }
   ]
 }

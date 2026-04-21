@@ -7,15 +7,15 @@
     "MSFT",
     "AMZN",
     "GOOGL",
-    "VMware",
-    "CSCO"
+    "CSCO",
+    "Red Hat"
   ],
   "downstream": [
-    "Fortune 500 enterprises",
-    "U.S. federal agencies",
-    "Financial services firms",
-    "Healthcare providers",
-    "Retail corporations"
+    "U.S. Department of Defense",
+    "Bank of America",
+    "Walmart",
+    "Citigroup",
+    "UnitedHealth Group"
   ],
   "competitors": [
     "Palo Alto Networks",
@@ -28,10 +28,10 @@
     "CrowdStrike Falcon Platform",
     "Falcon Prevent",
     "Falcon Insight",
-    "Falcon Discover",
-    "Falcon OverWatch"
+    "Falcon OverWatch",
+    "Falcon X"
   ],
-  "extracted_at": "2026-04-13 17:01:57",
+  "extracted_at": "2026-04-21 16:57:17",
   "sources": [
     {
       "source": "Wikipedia",
@@ -53,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/CrowdStrike",
+      "url": "https://www.tradingview.com/symbols/NASDAQ-CRWD/",
       "query": "CrowdStrike Holdings, Inc. major customers clients",
-      "snippet": "CrowdStrike Holdings , Inc . CrowdStrike Holdings , Inc . is an American cybersecurity technology company based in Austin, Texas. It provides endpoint"
+      "snippet": "View live CrowdStrike Holdings , Inc . chart to track its stock's price action. Find market predictions, CRWD financials and market news."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/CRWD/",
+      "url": "https://www.investing.com/equities/crowdstrike-holdings-inc",
       "query": "CrowdStrike Holdings, Inc. major customers clients",
-      "snippet": "Find the latest CrowdStrike Holdings , Inc . (CRWD) stock quote, history, news and other vital information to help you with your stock trading and inv"
+      "snippet": "CrowdStrike Holdings Inc is listed and trades on the NASDAQ stock exchange. CrowdStrike leads the EDR market with innovative solutions like Falcon Fle"
     }
   ]
 }

@@ -1,37 +1,37 @@
 {
   "ticker": "HOOD",
   "company_name": "Robinhood Markets, Inc.",
-  "sector": "Financial Services",
-  "industry": "Brokerage & Trading",
+  "sector": "Financial Services / Capital Markets",
+  "industry": "Online Brokerage / Retail Trading Platform",
   "upstream": [
+    "NASDAQ Market Data",
+    "Bloomberg Data Services",
     "AMZN",
     "MSFT",
-    "GOOGL",
-    "Plaid",
-    "Bloomberg"
+    "GOOGL"
   ],
   "downstream": [
     "Retail investors",
-    "High‑net‑worth individuals",
-    "Institutional investors",
-    "Day traders",
-    "Crypto traders"
+    "High-frequency traders",
+    "Institutional clients",
+    "Crypto traders",
+    "Options traders"
   ],
   "competitors": [
     "Charles Schwab",
     "E*TRADE",
     "Fidelity",
     "TD Ameritrade",
-    "Webull"
+    "Interactive Brokers"
   ],
   "key_products": [
-    "Commission‑free stock trading",
-    "Cryptocurrency trading",
-    "Margin trading",
+    "Commission-free stock trading",
     "Robinhood Gold",
-    "Cash management"
+    "Options trading",
+    "Crypto trading",
+    "Cash Management"
   ],
-  "extracted_at": "2026-04-20 16:58:14",
+  "extracted_at": "2026-04-21 16:52:36",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,15 +41,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Robinhood_Markets",
+      "url": "https://robinhood.com/",
       "query": "Robinhood Markets, Inc. suppliers manufacturers",
-      "snippet": "Robinhood Markets , Inc . is an American financial services company based in Menlo Park, California. It provides an electronic trading platform that f"
+      "snippet": "Trade stocks on Robinhood with commission-free investing & advanced trading tools. Access fractional shares, real-time market data, and more. Terms an"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ru.wikipedia.org/wiki/Robinhood_(компания)",
+      "url": "https://robinhood.com/us/en/download/",
       "query": "Robinhood Markets, Inc. suppliers manufacturers",
-      "snippet": "Robinhood Markets , Inc . — американская компания со штаб-квартирой в Менло-Парке, штат Калифорния. Занимается оказанием финансовых услуг и известна т"
+      "snippet": "Robinhood has commission-free investing for stocks, ETFs, and their options, and tools to help shape your financial future. Sign up and get your first"
     },
     {
       "source": "DuckDuckGo",
@@ -59,9 +59,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://investors.robinhood.com/",
+      "url": "https://expandedramblings.com/index.php/robinhood-statistics-and-facts/",
       "query": "Robinhood Markets, Inc. major customers clients",
-      "snippet": "Feb 28, 2026 · Robinhood Markets , Inc . Investor relations (IR) website contains information about our business for stockholders, potential investors"
+      "snippet": "Feb 21, 2026 · Verified Robinhood statistics: funded customers , monthly active users, platform assets, revenue and net income by year—each backed by "
     }
   ]
 }

@@ -4,34 +4,34 @@
   "sector": "Technology",
   "industry": "Semiconductors",
   "upstream": [
-    "ASML",
-    "AMAT",
-    "LRCX",
-    "Tokyo Electron",
-    "KLA Corporation"
+    "TSM",
+    "005930.KS",
+    "GlobalFoundries",
+    "MU",
+    "SK Hynix"
   ],
   "downstream": [
     "DELL",
     "Lenovo",
     "HPQ",
-    "AAPL",
-    "005930.KS"
+    "MSFT",
+    "AAPL"
   ],
   "competitors": [
     "AMD",
     "NVDA",
     "QCOM",
     "AVGO",
-    "TSM"
+    "MU"
   ],
   "key_products": [
-    "Intel Core CPUs",
-    "Intel Xeon CPUs",
-    "Intel chipsets",
-    "Intel integrated graphics",
-    "Intel memory controllers"
+    "Intel Core processors",
+    "Intel Xeon processors",
+    "Intel Atom processors",
+    "Intel Optane memory",
+    "Intel Ethernet Network Interface Controllers"
   ],
-  "extracted_at": "2026-04-20 16:56:37",
+  "extracted_at": "2026-04-21 16:50:33",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,15 +41,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.intel.com/content/www/us/en/partner/showcase/partner-directory/distributor.html",
+      "url": "https://en.wikipedia.org/wiki/Intel",
       "query": "Intel Corporation suppliers manufacturers",
-      "snippet": "Sell Intel® Products directly sourced from Intel as well as devices manufactured by OEMs"
+      "snippet": "Intel Corporation is an American multinational technology company headquartered in Santa Clara, California. It designs, manufactures , and sells compu"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://industryselect.com/blog/top-10-manufacturing-companies-in-arizona",
+      "url": "https://finance.yahoo.com/quote/INTC/",
       "query": "Intel Corporation suppliers manufacturers",
-      "snippet": "According to MNI, compiler of the industrial information that powers IndustrySelect, Arizona is currently home to 4,246 manufacturers employing 219,20"
+      "snippet": "Find the latest Intel Corporation (INTC) stock quote, history, news and other vital information to help you with your stock trading and investing."
     },
     {
       "source": "DuckDuckGo",
@@ -61,7 +61,7 @@
       "source": "DuckDuckGo",
       "url": "https://www.investopedia.com/articles/markets/100214/inside-intel-look-mega-chipmaker.asp",
       "query": "Intel Corporation major customers clients",
-      "snippet": "Apr 9, 2026 · Intel's main customers include Dell, Lenovo, and HP. Get personalized, AI-powered answers built on 27+ years of trusted expertise. Never"
+      "snippet": "Apr 9, 2026 · Intel ' s main customers include Dell, Lenovo, and HP. Get personalized, AI-powered answers built on 27+ years of trusted expertise. Nev"
     }
   ]
 }

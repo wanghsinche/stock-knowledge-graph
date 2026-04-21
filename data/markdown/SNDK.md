@@ -1,18 +1,18 @@
 ---
 ticker: SNDK
-company: Sandisk Corporation
+company: SanDisk Corporation
 sector: Technology / Computer Hardware
-industry: Semiconductor / Flash Memory
-extracted_at: 2026-04-20 16:55:30
-last_updated: 2026-04-20
+industry: Computer Semiconductor
+extracted_at: 2026-04-21 16:49:28
+last_updated: 2026-04-21
 ---
 
-# SNDK - Sandisk Corporation
+# SNDK - SanDisk Corporation
 
 ## 基本信息
 
-- **所属行业**: Technology / Computer Hardware / Semiconductor / Flash Memory
-- **提取时间**: 2026-04-20 16:55:30
+- **所属行业**: Technology / Computer Hardware / Computer Semiconductor
+- **提取时间**: 2026-04-21 16:49:28
 
 ## 产业链关系
 
@@ -20,29 +20,29 @@ last_updated: 2026-04-20
 - [[MU]]
 - [[005930.KS]]
 - [[SK Hynix]]
-- [[Kioxia (formerly Toshiba Memory)]]
-- [[WDC]]
+- [[Amkor Technology]]
+- [[ASE Technology Holding]]
 
 ### 下游客户
 - [[AAPL]]
-- [[005930.KS]]
+- [[MSFT]]
 - [[DELL]]
 - [[HPQ]]
-- [[SONY]]
+- [[AMZN]]
 
 ### 竞争对手
 - [[Kingston Technology]]
-- [[MU]]
-- [[Lexar]]
 - [[Corsair]]
-- [[PNY Technologies]]
+- [[MU]]
+- [[005930.KS]]
+- [[WDC]]
 
 ### 核心产品
-- [[SD cards]]
-- [[microSD cards]]
+- [[Memory cards]]
 - [[USB flash drives]]
-- [[SSD (internal)]]
-- [[SSD (external)]]
+- [[Solid-state drives (SSDs)]]
+- [[Embedded flash memory]]
+- [[Enterprise SSDs]]
 
 ## 数据来源
 
@@ -54,4 +54,4 @@ last_updated: 2026-04-20
 
 ## 元数据
 
-- **更新日期**: 2026-04-20
+- **更新日期**: 2026-04-21
