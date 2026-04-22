@@ -4,34 +4,34 @@
   "sector": "Consumer Cyclical",
   "industry": "Internet Retail",
   "upstream": [
-    "Third‑party sellers",
-    "Manufacturers of consumer goods",
     "Book publishers",
-    "Digital content creators",
-    "Hardware suppliers (e.g., Echo, Kindle)"
+    "Electronics manufacturers",
+    "Fashion suppliers",
+    "Home goods suppliers",
+    "Third‑party sellers"
   ],
   "downstream": [
-    "Individual consumers",
-    "Business customers",
+    "Retail consumers",
     "AMZN",
+    "Advertising clients",
     "Prime members",
-    "Enterprise logistics partners"
+    "Marketplace sellers"
   ],
   "competitors": [
     "Walmart",
-    "Alibaba",
     "eBay",
-    "Target",
-    "Shopify"
+    "Alibaba",
+    "Shopify",
+    "Target"
   ],
   "key_products": [
     "Amazon.com marketplace",
     "Amazon Prime subscription",
-    "Amazon Web Services",
-    "Kindle e‑readers",
-    "Echo/Alexa smart speakers"
+    "Amazon Web Services (AWS)",
+    "Amazon Echo (Alexa)",
+    "Amazon Kindle"
   ],
-  "extracted_at": "2026-04-21 16:49:13",
+  "extracted_at": "2026-04-22 16:51:13",
   "sources": [
     {
       "source": "Wikipedia",
@@ -53,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ir.aboutamazon.com/",
+      "url": "https://en.wikipedia.org/wiki/Amazon_(company)",
       "query": "Amazon.com, Inc. major customers clients",
-      "snippet": "The Spheres. Select awards and recognition. Amazon . com Conditions of Use © 1996- Amazon . com , Inc . - IR or its affiliates."
+      "snippet": "It is mostly known as the world's biggest online shopping retailer and marketplace, best known for a wide range of products and supplying multiple ser"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.amazon.com.tr/",
+      "url": "https://www.statista.com/topics/846/amazon/?srsltid=AfmBOoqG0GpZFrlTbtSbgbKA4XIExkc5qDophYKbSzUh2DVF5mXeE1Xb",
       "query": "Amazon.com, Inc. major customers clients",
-      "snippet": "Tüm Kategoriler Amazon Depo Bahçe Bebek Bilgisayarlar Elektronik Ev Ev ve Mutfak Evcil Hayvan Malzemeleri Gıda ve İçecek Hediye Kartları Kitaplar Kişi"
+      "snippet": "Feb 25, 2026 · Find the most up-to-date statistics and facts on Amazon, the biggest online retailer in the world."
     }
   ]
 }

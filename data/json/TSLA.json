@@ -1,37 +1,37 @@
 {
   "ticker": "TSLA",
   "company_name": "Tesla, Inc.",
-  "sector": "Consumer Cyclical / Auto Manufacturers",
-  "industry": "Automotive Manufacturers",
+  "sector": "Consumer Cyclical",
+  "industry": "Auto Manufacturers",
   "upstream": [
+    "Panasonic",
+    "LG Chem",
     "CAT",
-    "Lithium, cobalt, nickel raw material producers",
-    "Electric motor component manufacturers",
-    "Autopilot and Full Self‑Driving chip suppliers",
-    "Vehicle chassis and body suppliers"
+    "005930.KS",
+    "Bosch"
   ],
   "downstream": [
-    "Individual consumers of Model S, 3, X, Y, Cybertruck, Semi",
-    "Residential solar customers (Powerwall, Solar Roof)",
-    "TSLA",
-    "Utility companies purchasing Megapack energy storage",
-    "Retail and wholesale automotive distributors"
+    "Individual vehicle buyers",
+    "AMZN",
+    "Utility companies (Powerwall, Powerpack)",
+    "Residential solar customers",
+    "Commercial solar customers"
   ],
   "competitors": [
-    "General Motors (EV division)",
-    "Ford (EV division)",
-    "Volkswagen Group (ID series)",
-    "Hyundai-Kia (EV models)",
-    "Rivian Automotive"
+    "Ford",
+    "General Motors",
+    "Volkswagen",
+    "Rivian",
+    "Lucid Motors"
   ],
   "key_products": [
-    "Model S, Model 3, Model X, Model Y",
-    "Cybertruck, Roadster, Semi",
-    "Powerwall, Powerpack, Megapack",
-    "Solar panels and Solar Roof",
-    "Autopilot and Full Self‑Driving software"
+    "Model S",
+    "Model 3",
+    "Model X",
+    "Model Y",
+    "Powerwall"
   ],
-  "extracted_at": "2026-04-21 16:48:03",
+  "extracted_at": "2026-04-22 16:49:46",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,21 +41,21 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Tesla,_Inc.",
+      "url": "https://www.investopedia.com/ask/answers/052815/who-are-teslas-tsla-main-suppliers.asp",
       "query": "Tesla, Inc. suppliers manufacturers",
-      "snippet": "11 hours ago - The practice of vertical integration is rare in the automotive industry, where companies typically outsource 80% of components to suppl"
+      "snippet": "Nov 4, 2025 · Discover Tesla's key and rumored parts suppliers . Learn which companies provide essential components for Tesla's electric vehicles and "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.investopedia.com/ask/answers/052815/who-are-teslas-tsla-main-suppliers.asp",
+      "url": "https://investguiding.com/article/who-are-tesla-s-main-suppliers",
       "query": "Tesla, Inc. suppliers manufacturers",
-      "snippet": "November 4, 2025 - Tesla manufactures key components like the electric motor, battery pack, and charger, but relies on suppliers for other parts. Key "
+      "snippet": "16 hours ago · Tesla has secured a stable supply system by signing long-term supply contracts with multiple companies for lithium, nickel, and cobalt "
     },
     {
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Tesla,_Inc.",
       "query": "Tesla, Inc. major customers clients",
-      "snippet": "11 hours ago - Tesla Energy products include solar panels (built by other companies for Tesla), the Tesla Solar Roof (a solar shingle system), and the"
+      "snippet": "1 hour ago - Tesla Energy products include solar panels (built by other companies for Tesla), the Tesla Solar Roof (a solar shingle system), and the T"
     },
     {
       "source": "DuckDuckGo",

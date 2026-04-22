@@ -7,31 +7,31 @@
     "NVDA",
     "AMD",
     "INTC",
-    "AMZN",
-    "MSFT"
+    "QCOM",
+    "005930.KS"
   ],
   "downstream": [
     "OpenAI",
-    "Mistral AI",
     "IBM",
-    "GOOGL",
-    "MSFT"
+    "Mistral AI",
+    "MSFT",
+    "GOOGL"
   ],
   "competitors": [
-    "NVDA",
-    "GOOGL",
     "AMZN",
     "MSFT",
-    "IBM"
+    "GOOGL",
+    "NVDA",
+    "Alibaba Cloud"
   ],
   "key_products": [
-    "GPU cloud infrastructure",
+    "GPU‑based cloud computing services",
+    "AI infrastructure solutions",
     "Chip management software",
-    "AI training clusters",
-    "GPU compute services",
-    "AI inference platforms"
+    "GPU instance offerings",
+    "Scalable AI training platforms"
   ],
-  "extracted_at": "2026-04-21 16:54:08",
+  "extracted_at": "2026-04-22 16:53:57",
   "sources": [
     {
       "source": "Wikipedia",
@@ -53,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/CoreWeave",
+      "url": "https://www.coreweave.com/case-studies",
       "query": "CoreWeave, Inc. major customers clients",
-      "snippet": "CoreWeave , Inc . is an American artificial intelligence cloud-computing company based in Livingston, New Jersey. It specializes in providing cloud-ba"
+      "snippet": "Learn how CoreWeave customers like OpenAI and IBM are provisioning the GPUs they need and building AI infrastructure on a massive scale with unprecede"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lyX3RmMUVCRXUzY2pjN1A3Umx5Z0FQAQ?hl=en-US&gl=US&ceid=US:en",
+      "url": "https://www.appsruntheworld.com/customers-database/products/view/coreweave-compute-services",
       "query": "CoreWeave, Inc. major customers clients",
-      "snippet": "CoreWeave , Inc . announced that it has received $999.999899 million in funding from Jane Street Global Trading, LLC. CoreWeave , Inc . Announces That"
+      "snippet": "Who uses CoreWeave Compute Services for AI infrastructure? Companies worldwide use CoreWeave Compute Services, from small firms to large enterprises a"
     }
   ]
 }

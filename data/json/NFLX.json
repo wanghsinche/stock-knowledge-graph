@@ -4,18 +4,18 @@
   "sector": "Communication Services",
   "industry": "Entertainment",
   "upstream": [
-    "Content production studios (e.g., Warner Bros., Universal)",
     "SONY",
-    "AMZN",
     "MSFT",
-    "Marketing and advertising agencies"
+    "Content delivery network providers (Akamai, Cloudflare)",
+    "AAPL",
+    "MSFT"
   ],
   "downstream": [
-    "Individual subscribers worldwide",
-    "Corporate and institutional accounts (e.g., airlines, hotels)",
-    "Device manufacturers (smart TVs, set‑top boxes)",
-    "Mobile network operators (bundled data plans)",
-    "Content licensing partners (e.g., cable providers)"
+    "End‑user subscribers worldwide",
+    "005930.KS",
+    "AAPL",
+    "Mobile app users (iOS, Android)",
+    "Set‑top box users (Xfinity, Comcast)"
   ],
   "competitors": [
     "Disney+",
@@ -25,13 +25,13 @@
     "AAPL"
   ],
   "key_products": [
-    "Netflix streaming service (web, mobile, TV apps)",
-    "Original programming (Netflix Originals)",
-    "Licensed third‑party content",
-    "Offline download feature",
-    "User‑generated profiles and recommendation engine"
+    "Netflix streaming service",
+    "Netflix Originals (e.g., Stranger Things, The Crown)",
+    "Mobile and web apps",
+    "Subscription plans (Basic, Standard, Premium)",
+    "Content recommendation engine"
   ],
-  "extracted_at": "2026-04-21 16:51:35",
+  "extracted_at": "2026-04-22 16:56:22",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.netflix.com/?locale=en-US",
+      "url": "https://npfp.netflixstudios.com/region/global/",
       "query": "Netflix, Inc. suppliers manufacturers",
-      "snippet": "Sign in with your Netflix account to watch instantly on the web at netflix .com from your personal computer or on any internet-connected device that o"
+      "snippet": "Visual Data (UK) became a Netflix Preferred Vendor in 2013 and its technical, professional and service standards are among the highest in the industry"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.alibaba.com/",
+      "url": "https://seriosity.com/what-companies-does-netflix-work-with/",
       "query": "Netflix, Inc. suppliers manufacturers",
-      "snippet": "Find quality Manufacturers , Suppliers , Exporters, Importers, Buyers, Wholesalers, Products and Trade Leads from our award-winning International Trad"
+      "snippet": "Aug 5, 2025 · In terms of production, Sony Pictures has penned a deal to offer Netflix a first look at films it intends to sell directly to streaming "
     },
     {
       "source": "DuckDuckGo",
       "url": "https://businessmodelanalyst.com/netflix-target-market/",
       "query": "Netflix, Inc. major customers clients",
-      "snippet": "Dec 11, 2024 · Netflix ’ s target customers are not confined to a single country or region but encompass a broad and diverse international demographic"
+      "snippet": "Dec 11, 2024 · Netflix’ s target customers are not confined to a single country or region but encompass a broad and diverse international demographic."
     },
     {
       "source": "DuckDuckGo",
       "url": "https://bstrategyhub.com/netflix-target-market/",
       "query": "Netflix, Inc. major customers clients",
-      "snippet": "Jun 26, 2025 · Who is Netflix ’ s target market? Learn about Netflix ’ s demographic, psychographic, geographic, behavioral, and technographic segment"
+      "snippet": "Jun 26, 2025 · Who is Netflix’ s target market? Learn about Netflix’ s demographic, psychographic, geographic, behavioral, and technographic segmentat"
     }
   ]
 }

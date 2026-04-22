@@ -7,31 +7,31 @@
     "INTC",
     "AMD",
     "NVDA",
-    "CSCO",
-    "DELL"
+    "DELL",
+    "IBM"
   ],
   "downstream": [
-    "U.S. Department of Defense",
-    "Bank of America",
-    "UnitedHealth Group",
-    "Walmart",
-    "AT&T"
+    "U.S. Federal Government",
+    "Financial Services Companies",
+    "Retail Chains",
+    "Healthcare Providers",
+    "Manufacturing Enterprises"
   ],
   "competitors": [
     "MSFT",
     "AMZN",
+    "GOOGL",
     "IBM",
-    "SAP",
-    "GOOGL"
+    "SAP"
   ],
   "key_products": [
     "Oracle Database",
     "Oracle Cloud Infrastructure",
     "Oracle Autonomous Database",
-    "Oracle Fusion Applications",
-    "Oracle E-Business Suite"
+    "Oracle E-Business Suite",
+    "Oracle Fusion Cloud"
   ],
-  "extracted_at": "2026-04-21 16:50:05",
+  "extracted_at": "2026-04-22 16:51:45",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/List_of_acquisitions_by_Oracle",
+      "query": "Oracle Corporation suppliers manufacturers",
+      "snippet": "This is a listing of Oracle Corporation's corporate acquisitions, including acquisitions of both companies and individual products."
+    },
+    {
+      "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Oracle_Corporation",
       "query": "Oracle Corporation suppliers manufacturers",
-      "snippet": "Oracle Corporation is an American multinational technology company headquartered in Austin, Texas. Co-founded in Santa Clara, California by Bob Miner,"
+      "snippet": "Oracle Corporation is an American multinational technology company headquartered in Austin, Texas. Co-founded in Santa Clara, California in 1977 by Bo"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ru.wikipedia.org/wiki/Oracle",
-      "query": "Oracle Corporation suppliers manufacturers",
-      "snippet": "Oracle ( Oracle Corporation ) — американская корпорация, второй по размеру выручки разработчик программного обеспечения (после Microsoft), четвёртая к"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.ibm.com/mx-es/think/topics/oracle",
+      "url": "https://www.oracle.com/customers/",
       "query": "Oracle Corporation major customers clients",
-      "snippet": "Oracle es una compañía de TI que ofrece una amplia gama de productos y servicios orientados a los negocios que incluyen Oracle Database."
+      "snippet": "Innovation, ease of use, better results—those are just some of the reasons organizations in all industries and of all sizes rely on Oracle to help the"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.ibm.com/cn-zh/think/topics/oracle",
+      "url": "https://www.thomsondata.com/customer-base/oracle.php",
       "query": "Oracle Corporation major customers clients",
-      "snippet": "什么是 Oracle？ Oracle 是一家总部位于美国的信息技术公司，提供各种面向业务的产品和服务，包括 关系数据库 管理系统 (RDBMS) Oracle Database。 该公司于 1977 年在美国加利福尼亚州成立，是全球最大的软件和硬件公司之一 1。"
+      "snippet": "Thomson Data makes it easy by offering an accurate and up-to-date list of companies that use Oracle. This list allows you to identify Oracle customers"
     }
   ]
 }

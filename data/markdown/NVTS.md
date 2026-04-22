@@ -3,8 +3,8 @@ ticker: NVTS
 company: Navitas Semiconductor Corporation
 sector: Technology
 industry: Semiconductors
-extracted_at: 2026-04-21 16:57:04
-last_updated: 2026-04-21
+extracted_at: 2026-04-22 17:01:45
+last_updated: 2026-04-22
 ---
 
 # NVTS - Navitas Semiconductor Corporation
@@ -12,46 +12,46 @@ last_updated: 2026-04-21
 ## 基本信息
 
 - **所属行业**: Technology / Semiconductors
-- **提取时间**: 2026-04-21 16:57:04
+- **提取时间**: 2026-04-22 17:01:45
 
 ## 产业链关系
 
 ### 上游供应商
-- [[TSM]]
-- [[005930.KS]]
-- [[GlobalFoundries]]
-- [[INTC]]
-- [[MU]]
+- [[Silicon carbide wafer suppliers]]
+- [[Epitaxial growth equipment manufacturers]]
+- [[Chemical vapor deposition (CVD) equipment suppliers]]
+- [[META]]
+- [[Packaging equipment manufacturers]]
 
 ### 下游客户
-- [[DELL]]
-- [[HPQ]]
-- [[Lenovo]]
-- [[CSCO]]
-- [[MSFT]]
+- [[Automotive OEMs]]
+- [[Electric vehicle manufacturers]]
+- [[Industrial power systems]]
+- [[Renewable energy equipment]]
+- [[Grid infrastructure providers]]
 
 ### 竞争对手
-- [[QRVO]]
+- [[Cree (Wolfspeed)]]
+- [[ON Semiconductor]]
 - [[Infineon Technologies]]
-- [[TXN]]
-- [[ADI]]
-- [[Power Integrations]]
+- [[STMicroelectronics]]
+- [[ROHM Semiconductor]]
 
 ### 核心产品
-- [[GaN Power ICs]]
-- [[GaN Power Modules]]
-- [[GaN Power Transistors]]
-- [[GaN Power Integrated Circuits]]
-- [[GaN Power Converters]]
+- [[Silicon carbide MOSFETs]]
+- [[Silicon carbide IGBTs]]
+- [[Silicon carbide diodes]]
+- [[Integrated SiC power modules]]
+- [[SiC power ICs]]
 
 ## 数据来源
 
 - 
 - [Navitas Semiconductor Corporation suppliers manufacturers](https://navitassemi.com/)
-- [Navitas Semiconductor Corporation suppliers manufacturers](https://csimarket.com/stocks/competitionSEG2.php?code=NVTS)
-- [Navitas Semiconductor Corporation major customers clients](https://navitassemi.com/)
-- [Navitas Semiconductor Corporation major customers clients](https://www.fool.com/investing/2025/07/04/navitas-semiconductor-stock-help-retire-million/)
+- [Navitas Semiconductor Corporation suppliers manufacturers](https://sherwood.news/markets/a-tiny-semiconductor-company-is-more-than-doubling-after-becoming-an-nvidia/)
+- [Navitas Semiconductor Corporation major customers clients](https://csimarket.com/stocks/NVTS-Customers)
+- [Navitas Semiconductor Corporation major customers clients](https://businessmodelcanvastemplate.com/blogs/target-market/navitas-semiconductor-target-market)
 
 ## 元数据
 
-- **更新日期**: 2026-04-21
+- **更新日期**: 2026-04-22

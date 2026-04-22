@@ -2,39 +2,36 @@
   "ticker": "COIN",
   "company_name": "Coinbase Global, Inc.",
   "sector": "Financial Services",
-  "industry": "Cryptocurrency Exchange",
+  "industry": "Financial Data & Stock Exchanges",
   "upstream": [
     "AMZN",
     "MSFT",
     "GOOGL",
-    "Security & Compliance Vendors (e.g., Palo Alto, Okta)",
-    "Payment Processor Providers (e.g., Stripe, PayPal)"
+    "Stripe",
+    "PayPal"
   ],
   "downstream": [
-    "Retail cryptocurrency traders",
-    "Institutional investors and asset managers",
-    "Crypto funds and hedge funds",
-    "Merchants accepting crypto payments",
-    "Crypto wallet users"
+    "Retail cryptocurrency users",
+    "Institutional investors",
+    "Crypto traders",
+    "Merchant payment processors",
+    "DeFi platforms"
   ],
   "competitors": [
     "Binance",
     "Kraken",
     "Gemini",
     "Bitstamp",
-    "Huobi"
+    "eToro"
   ],
   "key_products": [
-    "Coinbase Pro (advanced trading platform)",
-    "Coinbase Wallet (non‑custodial wallet)",
-    "Coinbase Earn (crypto education & rewards)",
-    "Coinbase Prime (institutional trading & custody)",
-    "Coinbase One (subscription service)",
-    "Coinbase Custody (secure asset storage)",
-    "Coinbase Commerce (merchant payments)",
-    "Coinbase Card (crypto debit card)"
+    "Coinbase Pro trading platform",
+    "Coinbase Wallet",
+    "Coinbase Custody",
+    "Coinbase Earn",
+    "Coinbase Card"
   ],
-  "extracted_at": "2026-04-21 16:53:00",
+  "extracted_at": "2026-04-22 16:55:51",
   "sources": [
     {
       "source": "Wikipedia",
@@ -44,9 +41,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.coinbase.com/vendors/vendors-at-coinbase-code-of-conduct",
+      "url": "https://en.wikipedia.org/wiki/Coinbase",
       "query": "Coinbase Global, Inc. suppliers manufacturers",
-      "snippet": "For purposes of this Code, vendors include any third party, firm, or individual that provides a product or service to Coinbase , including: vendors , "
+      "snippet": "Coinbase has over 100 million users, [7] and is the largest U.S. based cryptocurrency exchange as well as the world's biggest bitcoin custodian, as of"
     },
     {
       "source": "DuckDuckGo",
@@ -56,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.reddit.com/r/CoinBase/comments/17nmv3u/beware_coinbases_outrageous_hidden_fees/",
-      "query": "Coinbase Global, Inc. major customers clients",
-      "snippet": "Nov 4, 2023 · Coinbase One is a subscription product that offers fee-free buying and selling of cryptocurrencies, with certain limitations. Members ma"
+      "url": "https://www.marketbeat.com/stocks/NASDAQ/COIN/competitors-and-alternatives/",
+      "query": "Coinbase Global, Inc. competitors alternatives",
+      "snippet": "5 days ago · Should you be buying Coinbase Global stock or one of its competitors ? The main competitors of Coinbase Global include Robinhood Markets "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.reddit.com/r/CoinBase/comments/1b3ixu2/coinbase_one_worth_it/",
-      "query": "Coinbase Global, Inc. major customers clients",
-      "snippet": "Coinbase one worth it Does anyone have Coinbase one. If so what do you think Add a Comment Sort by: Search Comments"
+      "url": "https://walletreviewer.com/best-coinbase-alternatives/",
+      "query": "Coinbase Global, Inc. competitors alternatives",
+      "snippet": "Mar 27, 2026 · This guide is going to break down the 6 best alternatives to Coinbase crypto exchange available right now. We’ve looked past the hype t"
     }
   ]
 }

@@ -3,8 +3,8 @@ ticker: AMZN
 company: Amazon.com, Inc.
 sector: Consumer Cyclical
 industry: Internet Retail
-extracted_at: 2026-04-21 16:49:13
-last_updated: 2026-04-21
+extracted_at: 2026-04-22 16:51:13
+last_updated: 2026-04-22
 ---
 
 # AMZN - Amazon.com, Inc.
@@ -12,46 +12,46 @@ last_updated: 2026-04-21
 ## 基本信息
 
 - **所属行业**: Consumer Cyclical / Internet Retail
-- **提取时间**: 2026-04-21 16:49:13
+- **提取时间**: 2026-04-22 16:51:13
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Third‑party sellers]]
-- [[Manufacturers of consumer goods]]
 - [[Book publishers]]
-- [[Digital content creators]]
-- [[Hardware suppliers (e.g., Echo, Kindle)]]
+- [[Electronics manufacturers]]
+- [[Fashion suppliers]]
+- [[Home goods suppliers]]
+- [[Third‑party sellers]]
 
 ### 下游客户
-- [[Individual consumers]]
-- [[Business customers]]
+- [[Retail consumers]]
 - [[AMZN]]
+- [[Advertising clients]]
 - [[Prime members]]
-- [[Enterprise logistics partners]]
+- [[Marketplace sellers]]
 
 ### 竞争对手
 - [[Walmart]]
-- [[Alibaba]]
 - [[eBay]]
-- [[Target]]
+- [[Alibaba]]
 - [[Shopify]]
+- [[Target]]
 
 ### 核心产品
 - [[Amazon.com marketplace]]
 - [[Amazon Prime subscription]]
-- [[Amazon Web Services]]
-- [[Kindle e‑readers]]
-- [[Echo/Alexa smart speakers]]
+- [[Amazon Web Services (AWS)]]
+- [[Amazon Echo (Alexa)]]
+- [[Amazon Kindle]]
 
 ## 数据来源
 
 - [Amazon (company)](https://en.wikipedia.org/wiki/Amazon.com,_Inc.)
 - [Amazon.com, Inc. suppliers manufacturers](https://www.ecomdepotwholesale.com/post/list-of-amazon-authorized-suppliers-for-2024-the-complete-guide-to-finding-verified-suppliers)
 - [Amazon.com, Inc. suppliers manufacturers](https://d39w7f4ix9f5s9.cloudfront.net/cb/19/77dfc5b441c892cd6e2be166ba70/final-amazon-supplier-list-2019-11-14-updated-1005am.pdf)
-- [Amazon.com, Inc. major customers clients](https://ir.aboutamazon.com/)
-- [Amazon.com, Inc. major customers clients](https://www.amazon.com.tr/)
+- [Amazon.com, Inc. major customers clients](https://en.wikipedia.org/wiki/Amazon_(company))
+- [Amazon.com, Inc. major customers clients](https://www.statista.com/topics/846/amazon/?srsltid=AfmBOoqG0GpZFrlTbtSbgbKA4XIExkc5qDophYKbSzUh2DVF5mXeE1Xb)
 
 ## 元数据
 
-- **更新日期**: 2026-04-21
+- **更新日期**: 2026-04-22

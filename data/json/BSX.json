@@ -2,36 +2,36 @@
   "ticker": "BSX",
   "company_name": "Boston Scientific Corporation",
   "sector": "Healthcare / Medical Devices",
-  "industry": "Medical Devices",
+  "industry": "Medical Device Manufacturing",
   "upstream": [
     "Johnson & Johnson",
     "Medtronic",
-    "Abbott",
+    "Abbott Laboratories",
     "Stryker",
-    "Becton Dickinson"
+    "GE Healthcare"
   ],
   "downstream": [
-    "UnitedHealth Group",
-    "Kaiser Permanente",
     "Mayo Clinic",
     "Cleveland Clinic",
-    "Johns Hopkins Medicine"
+    "Johns Hopkins Hospital",
+    "UnitedHealth Group",
+    "Kaiser Permanente"
   ],
   "competitors": [
     "Medtronic",
-    "Abbott",
-    "Johnson & Johnson",
+    "Abbott Laboratories",
     "Stryker",
-    "Becton Dickinson"
+    "Johnson & Johnson (Ethicon)",
+    "GE Healthcare"
   ],
   "key_products": [
-    "Cardiac stents",
-    "Vascular closure devices",
-    "Neurovascular devices",
-    "Endovascular stents",
-    "Electrophysiology catheters"
+    "Pacemakers",
+    "Stents",
+    "Catheters",
+    "Electrophysiology mapping systems",
+    "Neurostimulators"
   ],
-  "extracted_at": "2026-03-31 16:58:21",
+  "extracted_at": "2026-04-22 16:57:10",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,7 +43,7 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Boston_Scientific",
       "query": "Boston Scientific Corporation suppliers manufacturers",
-      "snippet": "In September, Boston Scientific announced it had acquired EndoChoice Holdings, Inc., becoming part of the Boston Scientific Endoscopy business for $21"
+      "snippet": "Boston Scientific Corporation (BSC) is an American biotechnology and biomedical engineering firm and multinational manufacturer of medical devices use"
     },
     {
       "source": "DuckDuckGo",
@@ -53,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ru.wikipedia.org/wiki/Boston_Scientific",
+      "url": "https://csimarket.com/stocks/BSX-Customers",
       "query": "Boston Scientific Corporation major customers clients",
-      "snippet": "Компания Boston Scientific Corporation — один из производителей медицинского оборудования и расходных материалов для хирургии, включая сердечно-сосуди"
+      "snippet": "For your research, we’ve provided 9 tables on Boston Scientific Corporation corporate clients . You can find them in the navigation menu under Custome"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.bostonscientific.com/",
+      "url": "https://www.bostonscientific.com/content/dam/bostonscientific/corporate/annual-report/2024-annual-report-and-10-K.pdf.coredownload.pdf",
       "query": "Boston Scientific Corporation major customers clients",
-      "snippet": "Boston Scientific employees signs a Boston Scientific quality wall. Corporate responsibility. How we ensure product and patient safety. At Boston Scie"
+      "snippet": "Boston Scientific devices and therapies help physicians diagnose and treat complex cardiovascular, respiratory, digestive, oncological, neurological a"
     }
   ]
 }

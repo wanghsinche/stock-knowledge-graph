@@ -4,34 +4,34 @@
   "sector": "Technology",
   "industry": "Software - Application",
   "upstream": [
-    "MSFT",
-    "AMZN",
-    "GOOGL",
-    "ORCL",
-    "IBM"
+    "Contract Manufacturing Companies",
+    "Consulting Service Providers",
+    "Software Development Firms",
+    "Cloud Infrastructure Providers",
+    "Data Integration Vendors"
   ],
   "downstream": [
-    "Financial institutions",
-    "Retail banks",
-    "Insurance companies",
-    "Government agencies",
-    "Enterprise corporations"
+    "INTC",
+    "Enterprise Software Users",
+    "Financial Services Firms",
+    "Government Agencies",
+    "Retail and E‑commerce Platforms"
   ],
   "competitors": [
-    "Tableau",
-    "Qlik",
+    "Palantir Technologies",
+    "Tableau Software",
     "MSFT",
-    "Looker",
-    "Sisense"
+    "Qlik",
+    "GOOGL"
   ],
   "key_products": [
-    "Data Analytics Platform",
+    "Analytics Platform",
     "Business Intelligence Suite",
     "Data Visualization Tools",
-    "Data Integration Services",
+    "Data Governance Module",
     "Predictive Analytics Engine"
   ],
-  "extracted_at": "2026-04-21 16:52:12",
+  "extracted_at": "2026-04-22 16:52:25",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/MSTR/",
+      "url": "https://clutch.co/logistics/manufacturing-companies/san-jose",
       "query": "Strategy Inc suppliers manufacturers",
-      "snippet": "Find the latest Strategy Inc (MSTR) stock quote, history, news and other vital information to help you with your stock trading and investing."
+      "snippet": "2 days ago · Connect with the best Contract Manufacturing companies . Compare expert profiles, client success stories & proven results to choose a ver"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://investfunds.ru/stocks/MicroStrategy/",
+      "url": "https://www.strategyinc.net/services-overview/",
       "query": "Strategy Inc suppliers manufacturers",
-      "snippet": "Strategy , Inc . предоставляет корпоративные программные платформы по всему миру.Общий долг / Капитал. Новости компании Strategy Inc . 19.09.2022 | Ак"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/MicroStrategy",
-      "query": "Strategy Inc major customers clients",
-      "snippet": "Strategy has launched four credit instruments in the second and third quarter of 2025 worth $4 billion, with more to come. Michael Saylor told Bloombe"
+      "snippet": "At Strategy Inc ., we offer a comprehensive range of consulting services required for life science and medical device due diligence, such as: market a"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.strategy.com/software/news/strategy-recognized-as-a-customers-choice-on-gartner-peer-insights-through-user-feedback-for-fourth-consecutive-year",
       "query": "Strategy Inc major customers clients",
       "snippet": "Dec 11, 2025 · Discover why Strategy Inc . is the only Analytics & Business Intelligence Platforms vendor to be named a Customers ' Choice in the 2025"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/STRF-Customers",
+      "query": "Strategy Inc major customers clients",
+      "snippet": "Jan 30, 2026 · Strategy Inc customers and markets, results by customer and performance relative to STRF, by company and industry - CSIMarket"
     }
   ]
 }

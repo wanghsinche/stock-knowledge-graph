@@ -7,31 +7,31 @@
     "AMZN",
     "MSFT",
     "GOOGL",
-    "IBM",
-    "ORCL"
+    "ORCL",
+    "IBM"
   ],
   "downstream": [
     "U.S. Department of Defense",
-    "Federal Bureau of Investigation",
-    "INTC",
+    "U.S. Department of Justice",
+    "JPMorgan Chase",
     "Walmart",
-    "JPMorgan Chase"
+    "Goldman Sachs"
   ],
   "competitors": [
     "Snowflake",
     "Databricks",
-    "IBM",
-    "MSFT",
-    "GOOGL"
+    "Alteryx",
+    "Splunk",
+    "Tableau"
   ],
   "key_products": [
     "Gotham",
     "Foundry",
-    "Palantir Apollo",
-    "Palantir Data Lake",
-    "Palantir Platform"
+    "Palantir Platform",
+    "Palantir Data Integration",
+    "Palantir Analytics"
   ],
-  "extracted_at": "2026-04-21 16:50:20",
+  "extracted_at": "2026-04-22 16:51:28",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Palantir",
-      "query": "Palantir Technologies Inc. suppliers manufacturers",
-      "snippet": "Palantir Technologies Inc . is an American publicly traded company that develops data integration and analytics platforms enabling government agencies"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://tr.wikipedia.org/wiki/Palantir_Technologies",
-      "query": "Palantir Technologies Inc. suppliers manufacturers",
-      "snippet": "Palantir Technologies Inc ., büyük veri analitiği için yazılım platformlarında uzmanlaşmış bir Amerikan halka açık şirketidir. Merkezi Denver, Colorad"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Palantir",
+      "url": "https://www.appsruntheworld.com/customers-database/products/view/palantir-foundry",
       "query": "Palantir Technologies Inc. major customers clients",
-      "snippet": "Palantir Technologies Inc . Palantir 's customer base includes federal agencies, state and local governments, international organizations, and also pr"
+      "snippet": "Since 2010, our global team of researchers has been studying Palantir Foundry customers around the world, aggregating massive amounts of data points t"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.marketwatch.com/investing/stock/pltr",
+      "url": "https://www.readycontacts.com/target-account-profiling/palantir/",
       "query": "Palantir Technologies Inc. major customers clients",
-      "snippet": "PLTR | Complete Palantir Technologies Inc . stock news by MarketWatch. View real-time stock prices and stock quotes for a full financial overview."
+      "snippet": "Palantir is a software company that specializes in data analytics, with a focus on helping businesses and organizations make sense of complex data set"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.rankred.com/palantir-competitors-alternatives/",
+      "query": "Palantir Technologies Inc. competitors alternatives",
+      "snippet": "Feb 27, 2026 · Below, I’ll explore Palantir’ s top competitors across core verticals (including commercial analytics, AI/ML platforms, government tech"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://bstrategyhub.com/palantir-competitors-alternatives/",
+      "query": "Palantir Technologies Inc. competitors alternatives",
+      "snippet": "Year founded: 1997 Headquarter: Irvine, California Alteryx is a software company that provides data analytics, location intelligence, data preparation"
     }
   ]
 }

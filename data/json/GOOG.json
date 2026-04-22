@@ -5,17 +5,17 @@
   "industry": "Internet Content & Information",
   "upstream": [
     "INTC",
-    "NVDA",
     "QCOM",
     "005930.KS",
-    "TSM"
+    "NVDA",
+    "AMD"
   ],
   "downstream": [
-    "Consumers worldwide",
-    "Advertisers",
-    "App developers",
-    "OEMs using Android",
-    "Enterprise customers"
+    "GOOGL",
+    "Android device manufacturers",
+    "YouTube creators",
+    "GOOGL",
+    "GOOGL"
   ],
   "competitors": [
     "MSFT",
@@ -27,11 +27,11 @@
   "key_products": [
     "Google Search",
     "YouTube",
-    "Android OS",
     "Google Cloud",
+    "Android",
     "Google Ads"
   ],
-  "extracted_at": "2026-04-21 16:53:12",
+  "extracted_at": "2026-04-22 16:55:34",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://abc.xyz/",
-      "query": "Alphabet Inc. suppliers manufacturers",
-      "snippet": "Alphabet is about businesses prospering through strong leaders and independence. In general, our model is to have a strong CEO who runs each business,"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://abc.xyz/investor/",
-      "query": "Alphabet Inc. suppliers manufacturers",
-      "snippet": "January 8, 2026 Alphabet Announces Date of Fourth Quarter and Fiscal Year 2025 Financial Results Conference Call December 22, 2025 Alphabet Announces "
-    },
-    {
-      "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Alphabet_Inc.",
-      "query": "Alphabet Inc. major customers clients",
-      "snippet": "Alphabet Inc . is an American multinational technology conglomerate holding company headquartered in Mountain View, California. It was created through"
+      "query": "Alphabet Inc. suppliers manufacturers",
+      "snippet": "Alphabet Inc . has faced numerous legal and ethical controversies, including a 2017 lawsuit against Uber over stolen self-driving technology, a 2020 p"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/GOOG/",
+      "url": "https://csimarket.com/stocks/GOOG-Suppliers",
+      "query": "Alphabet Inc. suppliers manufacturers",
+      "snippet": "Feb 6, 2026 · Alphabet Inc supply chain, list and performance of Alphabet Incs ' suppliers - CSIMarket"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.sec.gov/Archives/edgar/data/1652044/000130817925000513/goog012714-ars.pdf",
       "query": "Alphabet Inc. major customers clients",
-      "snippet": "Find the latest Alphabet Inc . (GOOG) stock quote, history, news and other vital information to help you with your stock trading and investing. Alphab"
+      "snippet": "We continue this work under the leadership of Alphabet and Google CEO, Sundar Pichai. Alphabet is a collection of businesses — the largest of which is"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/GOOGL-Customers",
+      "query": "Alphabet Inc. major customers clients",
+      "snippet": "Feb 9, 2026 · Updated on: Focus of this report: Alphabet Inc ’s corporate clients . For your research, we’ve provided 9 tables on Alphabet Inc corpora"
     }
   ]
 }

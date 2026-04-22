@@ -1,57 +1,57 @@
 ---
 ticker: CRCL
-company: Circle Internet Group
-sector: Financial Services / Capital Markets
-industry: Payments Technology / Stablecoin Issuer
-extracted_at: 2026-04-17 16:52:00
-last_updated: 2026-04-17
+company: Circle Internet Group, Inc.
+sector: Financial Services
+industry: Payments Technology / Stablecoin
+extracted_at: 2026-04-22 17:01:31
+last_updated: 2026-04-22
 ---
 
-# CRCL - Circle Internet Group
+# CRCL - Circle Internet Group, Inc.
 
 ## 基本信息
 
-- **所属行业**: Financial Services / Capital Markets / Payments Technology / Stablecoin Issuer
-- **提取时间**: 2026-04-17 16:52:00
+- **所属行业**: Financial Services / Payments Technology / Stablecoin
+- **提取时间**: 2026-04-22 17:01:31
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Blockchain infrastructure providers]]
-- [[Fiat currency partners]]
-- [[Regulatory compliance services]]
-- [[Payment processors]]
-- [[Financial technology vendors]]
+- [[AMZN]]
+- [[Stripe (payment processing integration)]]
+- [[Coinbase (blockchain infrastructure partner)]]
+- [[MSFT]]
+- [[GOOGL]]
 
 ### 下游客户
-- [[Banks and financial institutions]]
-- [[Cryptocurrency exchanges]]
-- [[Institutional investors]]
-- [[Retail merchants]]
-- [[Fintech companies]]
+- [[Coinbase (exchange platform)]]
+- [[Binance (exchange platform)]]
+- [[PayPal (payment processing)]]
+- [[Stripe (payment gateway)]]
+- [[Square (financial services)]]
 
 ### 竞争对手
-- [[Coinbase]]
-- [[PayPal]]
-- [[Square]]
-- [[Stripe]]
-- [[Revolut]]
+- [[Coinbase (stablecoin issuer)]]
+- [[Gemini (stablecoin issuer)]]
+- [[Binance (stablecoin issuer)]]
+- [[PayPal (stablecoin and payments)]]
+- [[Stripe (payments and stablecoin integration)]]
 
 ### 核心产品
-- [[USDC stablecoin]]
-- [[EURC stablecoin]]
-- [[USYC tokenized money market fund]]
-- [[Fiat-first stablecoin platform]]
-- [[Payment solutions for institutions]]
+- [[USDC (USD‑pegged stablecoin)]]
+- [[EURC (euro‑denominated stablecoin)]]
+- [[USYC (tokenized money‑market fund)]]
+- [[Circle Pay (payments app)]]
+- [[Circle Invest (investment platform)]]
 
 ## 数据来源
 
 - [Circle Internet Group](https://en.wikipedia.org/wiki/Circle_Internet_Group)
-- [Circle Internet Group suppliers manufacturers](https://www.fool.com/investing/2025/06/27/why-circle-internet-stock-imploded-this-week/)
-- [Circle Internet Group suppliers manufacturers](https://moneycheck.com/circle-internet-group-crcl-stock-unveils-fiat-enabled-stablecoin-payment-solution/)
-- [Circle Internet Group major customers clients](https://www.fool.com/investing/2025/06/27/why-circle-internet-stock-imploded-this-week/)
-- [Circle Internet Group major customers clients](https://www.aol.com/articles/why-circle-internet-stock-crashed-202701392.html)
+- [Circle Internet Group suppliers manufacturers](https://investor.circle.com/overview/default.aspx)
+- [Circle Internet Group suppliers manufacturers](https://www.financecharts.com/stocks/CRCL/profile)
+- [Circle Internet Group major customers clients](https://en.wikipedia.org/wiki/Circle_Internet_Group)
+- [Circle Internet Group major customers clients](https://www.appsruntheworld.com/customers-database/vendors/view/circle-internet-group)
 
 ## 元数据
 
-- **更新日期**: 2026-04-17
+- **更新日期**: 2026-04-22

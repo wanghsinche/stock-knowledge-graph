@@ -4,34 +4,37 @@
   "sector": "Communication Services",
   "industry": "Internet Content & Information",
   "upstream": [
-    "QCOM",
-    "INTC",
+    "TSM",
+    "NVDA",
+    "AMD",
     "CSCO",
-    "DELL",
     "AMZN"
   ],
   "downstream": [
     "Coca‑Cola",
     "Nike",
     "005930.KS",
-    "Game developers using Facebook SDK",
-    "META"
+    "GOOGL",
+    "AMZN"
   ],
   "competitors": [
     "GOOGL",
     "AMZN",
     "AAPL",
     "MSFT",
-    "Snap Inc."
+    "ByteDance (TikTok)"
   ],
   "key_products": [
     "Facebook",
     "Instagram",
     "WhatsApp",
     "Messenger",
-    "Meta Ads"
+    "Threads",
+    "Meta Quest",
+    "Meta Ads",
+    "Meta Business Suite"
   ],
-  "extracted_at": "2026-04-21 16:51:48",
+  "extracted_at": "2026-04-22 16:53:40",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +44,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.g2.com/sellers/meta-platforms-inc",
+      "url": "https://en.wikipedia.org/wiki/Meta_Platforms",
       "query": "Meta Platforms, Inc. suppliers manufacturers",
-      "snippet": "Meta Platforms , Inc has been rated 4.3 stars by 5599 verified reviews on G2."
+      "snippet": "Meta owns and operates several prominent social media platforms and communication services, including Facebook, Instagram, WhatsApp, Messenger, Thread"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://trendspider.com/learning-center/meta-platforms-inc-meta/",
+      "url": "https://csimarket.com/stocks/META-Suppliers",
       "query": "Meta Platforms, Inc. suppliers manufacturers",
-      "snippet": "Meta Platforms , Inc . $ META , formerly known as Facebook, Inc ., stands at the forefront of the social media revolution."
+      "snippet": "Mar 3, 2026 · Meta Platforms Inc supply chain, list and performance of Meta Platforms Incs ' suppliers - CSIMarket"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ru.wikipedia.org/wiki/Meta_Platforms",
+      "url": "https://en.wikipedia.org/wiki/Meta_Platforms",
       "query": "Meta Platforms, Inc. major customers clients",
-      "snippet": "Meta Platforms , Inc . — американская транснациональная холдинговая компания, владеющая технологическим конгломератом и расположенная в Менло-Парке, К"
+      "snippet": "Meta owns and operates several prominent social media platforms and communication services, including Facebook, Instagram, WhatsApp, Messenger, Thread"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.g2.com/sellers/meta-platforms-inc",
+      "url": "https://csimarket.com/stocks/META-Customers",
       "query": "Meta Platforms, Inc. major customers clients",
-      "snippet": "Meta Platforms , Inc . is a global leader in social technology, connecting people and businesses through its family of apps like Facebook, Instagram, "
+      "snippet": "For your research, we’ve provided 9 tables on Meta Platforms Inc corporate clients . You can find them in the navigation menu under Customers & Market"
     }
   ]
 }

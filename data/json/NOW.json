@@ -4,34 +4,34 @@
   "sector": "Technology",
   "industry": "Software - Application",
   "upstream": [
-    "AMZN",
     "MSFT",
+    "AMZN",
     "GOOGL",
-    "ORCL",
-    "CRM"
+    "DELL",
+    "CSCO"
   ],
   "downstream": [
     "Walmart",
     "JPMorgan Chase",
-    "AT&T",
-    "Verizon",
-    "U.S. Department of Defense"
+    "Bank of America",
+    "Coca‑Cola",
+    "General Electric"
   ],
   "competitors": [
     "CRM",
     "SAP",
     "MSFT",
-    "ORCL",
-    "IBM"
+    "IBM",
+    "ORCL"
   ],
   "key_products": [
-    "Now Platform",
+    "ServiceNow Platform",
     "IT Service Management (ITSM)",
     "IT Operations Management (ITOM)",
-    "Customer Service Management (CSM)",
-    "Security Operations"
+    "IT Business Management (ITBM)",
+    "Customer Service Management (CSM)"
   ],
-  "extracted_at": "2026-04-21 16:53:46",
+  "extracted_at": "2026-04-22 16:58:15",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/sectors/technology/articles/servicenow-puts-ai-across-manufacturing-154000431.html",
+      "url": "https://en.wikipedia.org/wiki/ServiceNow",
       "query": "ServiceNow, Inc. suppliers manufacturers",
-      "snippet": "ServiceNow 's manufacturing capabilities unify data, workflows, and governance across the value chain on a single platform, enabling AI to operate end"
+      "snippet": "ServiceNow , Inc . is an American software company that supplies a cloud computing platform for the creation and management of automated business work"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.servicenow.com/",
+      "url": "https://www.servicenow.com/company/supplier.html",
       "query": "ServiceNow, Inc. suppliers manufacturers",
-      "snippet": "ServiceNow AI Control Tower. Connect strategy, governance, management, and performance for all your AI across the enterprise. Supplier Lifecycle Opera"
+      "snippet": "ServiceNow partners with capable and competitive suppliers who commit to diversity, sustainability, and best-in-class goods and services. Learn more h"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.servicenow.com/",
+      "url": "https://www.aventionmedia.com/technology-installed-base/servicenow/",
       "query": "ServiceNow, Inc. major customers clients",
-      "snippet": "Put AI to workfor people customers employees developers people ServiceNow unites data, AI, workflows, and security on a single platform so AI doesn't "
+      "snippet": "Businesses whose solutions and services can help Cloud- Service Customers achieve any of their business requirements can make use of our List of Compa"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.fool.com/investing/2026/04/09/the-saaspocalypse-made-servicenow-stock-a-bargain/",
+      "url": "https://data.landbase.com/technology/servicenow/",
       "query": "ServiceNow, Inc. major customers clients",
-      "snippet": "Customers don't need to bother with setting up AI agents when ServiceNow seamlessly delivers the technology. More importantly, the company possesses d"
+      "snippet": "Aug 17, 2025 · Our ServiceNow customers list is available for download and comes enriched with vital company specifics, including industry classificat"
     }
   ]
 }

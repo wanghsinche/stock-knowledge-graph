@@ -6,32 +6,32 @@
   "upstream": [
     "TSM",
     "005930.KS",
-    "MU",
-    "SK Hynix",
-    "GlobalFoundries"
+    "ASE Technology Holding",
+    "LRCX",
+    "AMAT"
   ],
   "downstream": [
-    "AMZN",
-    "MSFT",
-    "GOOGL",
+    "005930.KS",
+    "AAPL",
     "CSCO",
-    "Huawei"
+    "DELL",
+    "HPQ"
   ],
   "competitors": [
-    "NVDA",
     "QCOM",
     "INTC",
+    "NVDA",
     "TXN",
-    "MRVL"
+    "MU"
   ],
   "key_products": [
-    "Wi‑Fi chips",
-    "Ethernet controllers",
-    "Broadcom 802.11 wireless chips",
-    "Broadcom 802.3 Ethernet controllers",
-    "Broadcom infrastructure software"
+    "Wireless communication chips",
+    "Broadband and networking chips",
+    "Storage controller chips",
+    "Data center processors",
+    "Industrial semiconductor solutions"
   ],
-  "extracted_at": "2026-04-21 16:51:07",
+  "extracted_at": "2026-04-22 16:51:02",
   "sources": [
     {
       "source": "Wikipedia",
@@ -53,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.broadcom.com/",
+      "url": "https://csimarket.com/stocks/AVGO-Customers",
       "query": "Broadcom Inc. major customers clients",
-      "snippet": "Broadcom delivers semiconductors and infrastructure software for global enterprises’ most complex, mission-critical needs."
+      "snippet": "Sales to our five largest customers represented 48.3%. Sales to Samsung represented 21.3%. Sales to Apple represented 13.3%."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.proactiveinvestors.com/companies/news/1077910/broadcom-stock-surges-on-q3-earnings-beat-big-new-ai-customer-1077910.html",
+      "url": "https://www.broadcom.com/case-studies",
       "query": "Broadcom Inc. major customers clients",
-      "snippet": "Broadcom Inc (NASDAQ:AVGO, ETR:1YD) shares shot up as much as 15% in early trading on Friday after the semiconductor and infrastructure software solut"
+      "snippet": "A large national bank modernized its enterprise reporting environment through Broadcom ’s no-cost Win-No-Fee Program. Broadcom solutions empower our c"
     }
   ]
 }

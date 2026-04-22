@@ -2,36 +2,36 @@
   "ticker": "UNH",
   "company_name": "UnitedHealth Group Incorporated",
   "sector": "Healthcare",
-  "industry": "Healthcare Plans",
+  "industry": "Health Insurance / Health Care Services",
   "upstream": [
     "Pharmaceutical manufacturers",
     "Medical device manufacturers",
-    "Health information technology vendors",
+    "Health technology vendors",
     "Pharmacy benefit management providers",
-    "Clinical data analytics firms"
+    "Health data analytics firms"
   ],
   "downstream": [
-    "Large employer groups",
-    "Government health programs (Medicare, Medicaid)",
+    "Large corporate employers",
+    "Government agencies (Medicare, Medicaid)",
     "Individual consumers",
-    "Health care providers (hospitals, clinics)",
-    "Health plan partners (e.g., OptumCare networks)"
+    "Health plan members",
+    "Healthcare providers (hospitals, clinics)"
   ],
   "competitors": [
-    "Anthem, Inc.",
+    "Anthem",
+    "Cigna",
+    "Humana",
     "Aetna (CVS Health)",
-    "Cigna Corporation",
-    "Humana Inc.",
-    "Blue Cross Blue Shield Association"
+    "Kaiser Permanente"
   ],
   "key_products": [
-    "Commercial health insurance plans",
-    "Medicare Advantage plans",
-    "Medicaid managed care plans",
+    "UnitedHealthcare insurance plans",
+    "Optum health services",
     "OptumRx pharmacy benefit management",
-    "OptumCare health services network"
+    "OptumLabs data analytics",
+    "OptumCare health services"
   ],
-  "extracted_at": "2026-04-21 16:49:01",
+  "extracted_at": "2026-04-22 16:54:15",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
+      "url": "https://www.unitedhealthgroup.com/suppliers/information.html",
+      "query": "UnitedHealth Group Incorporated suppliers manufacturers",
+      "snippet": "Information for UnitedHealth Group suppliers , including access to our vendor portal"
+    },
+    {
+      "source": "DuckDuckGo",
       "url": "https://csimarket.com/stocks/UNH-Suppliers",
       "query": "UnitedHealth Group Incorporated suppliers manufacturers",
-      "snippet": "Unitedhealth Group Incorporated supply chain, list and performance of Unitedhealth Group Incorporateds' suppliers - CSIMarket."
+      "snippet": "Oct 29, 2025 · For your research, we’ve provided nine additional tables on Unitedhealth Group Incorporated ’s suppliers . You can find them in the nav"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://pitchgrade.com/companies/unitedhealth",
-      "query": "UnitedHealth Group Incorporated suppliers manufacturers",
-      "snippet": "UnitedHealth Group Incorporated is publicly traded on the NYQ under the ticker symbol UNH. As a public company, it is owned by millions of shareholder"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/UnitedHealth_Group",
+      "url": "https://finance.yahoo.com/sectors/healthcare/articles/unitedhealth-group-inc-unh-q1-070136214.html?fr=sycsrp_catchall",
       "query": "UnitedHealth Group Incorporated major customers clients",
-      "snippet": "UnitedHealth Group Incorporated is an American multinational for-profit company based in Eden Prairie, Minnesota specializing in health insurance and "
+      "snippet": "5 hours ago · UnitedHealth Group Inc (UNH) surpasses earnings expectations with strategic AI investments and robust performance across business segmen"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://pitchgrade.com/companies/unitedhealth",
+      "url": "https://www.unitedhealthgroup.com/content/dam/UHG/PDF/investors/2025/unh-reports-2025-results-and-issues-2026-outlook.pdf",
       "query": "UnitedHealth Group Incorporated major customers clients",
-      "snippet": "Customer Segments: UnitedHealth Group Incorporated serves multiple distinct customer segments, which may include consumers, small and medium businesse"
+      "snippet": "January 27, 2026 UnitedHealth Group (NYSE: UNH) today reported full year and fourth quarter 2025 results and issued its 2026 outlook."
     }
   ]
 }

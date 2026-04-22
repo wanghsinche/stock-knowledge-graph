@@ -1,37 +1,37 @@
 {
   "ticker": "ADBE",
   "company_name": "Adobe Inc.",
-  "sector": "Technology / Software - Application",
-  "industry": "Computer Software",
+  "sector": "Technology",
+  "industry": "Software - Application",
   "upstream": [
-    "AMD",
-    "Cloud infrastructure providers (e.g., AWS, Azure)",
+    "INTC",
     "NVDA",
-    "Software library vendors (open‑source libraries)",
-    "Printing equipment manufacturers"
+    "AMD",
+    "MSFT",
+    "AMZN"
   ],
   "downstream": [
-    "Graphic design professionals",
-    "Photographers",
-    "Video production companies",
-    "Marketing agencies",
-    "Publishing houses"
+    "NFLX",
+    "Disney",
+    "Coca‑Cola",
+    "Nike",
+    "GOOGL"
   ],
   "competitors": [
     "MSFT",
-    "Corel",
-    "Affinity",
     "Autodesk",
-    "AAPL"
+    "Corel",
+    "AAPL",
+    "Avid Technology"
   ],
   "key_products": [
-    "Adobe Photoshop",
-    "Adobe Illustrator",
-    "Adobe InDesign",
-    "Adobe Premiere Pro",
-    "Adobe After Effects"
+    "Photoshop",
+    "Illustrator",
+    "Premiere Pro",
+    "After Effects",
+    "Acrobat Pro"
   ],
-  "extracted_at": "2026-04-20 17:04:03",
+  "extracted_at": "2026-04-22 16:59:22",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,21 +47,21 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://arizonaadobe.com/",
+      "url": "https://csimarket.com/stocks/ADBE-Suppliers",
       "query": "Adobe Inc. suppliers manufacturers",
-      "snippet": "ARIZONA ADOBE COMPANY is an adobe brick producer, specializing in earthen-based methods and materials. We supply the best adobe bricks and provide the"
+      "snippet": "Mar 28, 2026 · For your research, we’ve provided nine additional tables on Adobe Inc ’ s suppliers . You can find them in the navigation menu under Su"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Adobe_Inc.",
+      "url": "https://business.adobe.com/customer-success-stories.html",
       "query": "Adobe Inc. major customers clients",
-      "snippet": "Adobe Systems Incorporated (1982–2018). Company type.In June 2024, after facing backlash for its changes to the terms of service, Adobe updated them t"
+      "snippet": "Learn how the world’s leading brands use Adobe for Business to build stronger customer experience, increase productivity and transform the way they do"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ru.wikipedia.org/wiki/Adobe",
+      "url": "https://www.appsruntheworld.com/customers-database/products/view/adobe-creative-cloud",
       "query": "Adobe Inc. major customers clients",
-      "snippet": "Adobe — американская компания, разработчик программного обеспечения. Штаб-квартира расположена в Сан-Хосе.Стоимость акций, $ Vanguard Group, Inc ."
+      "snippet": "Since 2010, our global team of researchers has been studying Adobe Creative Cloud customers around the world, aggregating massive amounts of data poin"
     }
   ]
 }

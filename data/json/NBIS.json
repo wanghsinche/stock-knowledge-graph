@@ -4,34 +4,34 @@
   "sector": "Communication Services",
   "industry": "Internet Content & Information",
   "upstream": [
-    "NVDA",
-    "AMD",
-    "INTC",
-    "GOOGL",
-    "MSFT"
+    "Hardware manufacturers for AI infrastructure",
+    "Cloud service providers",
+    "Data center operators",
+    "CAT",
+    "Software vendors for AI frameworks"
   ],
   "downstream": [
     "Federal government agencies",
-    "Security agencies",
-    "Defense departments",
-    "INTC",
-    "Public sector organizations"
+    "Security management departments",
+    "Special security officers",
+    "Enterprise IT departments",
+    "Research institutions"
   ],
   "competitors": [
     "OpenAI",
     "GOOGL",
     "MSFT",
-    "AMZN",
-    "IBM"
+    "IBM",
+    "AMZN"
   ],
   "key_products": [
     "Nebius AI infrastructure platform",
-    "Nebius AI Cloud services",
-    "Nebius AI solutions",
     "Avride",
-    "TripleTen"
+    "TripleTen",
+    "Toloka",
+    "Clickhouse"
   ],
-  "extracted_at": "2026-04-21 16:56:30",
+  "extracted_at": "2026-04-22 16:56:39",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,9 +47,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/NBIS/?fr=sycsrp_catchall",
+      "url": "https://www.dote.osd.mil/Portals/97/pub/reports/FY2023/dod/2023nbis.pdf?ver=s7vro7RpFwQ56sS4K5MP6g==",
       "query": "NBIS suppliers manufacturers",
-      "snippet": "Find the latest Nebius Group N.V. ( NBIS ) stock quote, history, news and other vital information to help you with your stock trading and investing."
+      "snippet": "DOT&E approved an NBIS Evaluation Strategy in December 2022, and approved an online test management process that makes extensive use of online plannin"
     },
     {
       "source": "DuckDuckGo",
@@ -61,7 +61,7 @@
       "source": "DuckDuckGo",
       "url": "https://csimarket.com/stocks/NBIS-Customers",
       "query": "NBIS major customers clients",
-      "snippet": "3 days ago · For your research, we’ve provided 9 tables on Nebius Group n v corporate clients . You can find them in the navigation menu under Custome"
+      "snippet": "4 days ago · For your research, we’ve provided 9 tables on Nebius Group n v corporate clients . You can find them in the navigation menu under Custome"
     }
   ]
 }

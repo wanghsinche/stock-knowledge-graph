@@ -1,37 +1,37 @@
 {
   "ticker": "CRCL",
-  "company_name": "Circle Internet Group",
-  "sector": "Financial Services / Capital Markets",
-  "industry": "Payments Technology / Stablecoin Issuer",
+  "company_name": "Circle Internet Group, Inc.",
+  "sector": "Financial Services",
+  "industry": "Payments Technology / Stablecoin",
   "upstream": [
-    "Blockchain infrastructure providers",
-    "Fiat currency partners",
-    "Regulatory compliance services",
-    "Payment processors",
-    "Financial technology vendors"
+    "AMZN",
+    "Stripe (payment processing integration)",
+    "Coinbase (blockchain infrastructure partner)",
+    "MSFT",
+    "GOOGL"
   ],
   "downstream": [
-    "Banks and financial institutions",
-    "Cryptocurrency exchanges",
-    "Institutional investors",
-    "Retail merchants",
-    "Fintech companies"
+    "Coinbase (exchange platform)",
+    "Binance (exchange platform)",
+    "PayPal (payment processing)",
+    "Stripe (payment gateway)",
+    "Square (financial services)"
   ],
   "competitors": [
-    "Coinbase",
-    "PayPal",
-    "Square",
-    "Stripe",
-    "Revolut"
+    "Coinbase (stablecoin issuer)",
+    "Gemini (stablecoin issuer)",
+    "Binance (stablecoin issuer)",
+    "PayPal (stablecoin and payments)",
+    "Stripe (payments and stablecoin integration)"
   ],
   "key_products": [
-    "USDC stablecoin",
-    "EURC stablecoin",
-    "USYC tokenized money market fund",
-    "Fiat-first stablecoin platform",
-    "Payment solutions for institutions"
+    "USDC (USD‑pegged stablecoin)",
+    "EURC (euro‑denominated stablecoin)",
+    "USYC (tokenized money‑market fund)",
+    "Circle Pay (payments app)",
+    "Circle Invest (investment platform)"
   ],
-  "extracted_at": "2026-04-17 16:52:00",
+  "extracted_at": "2026-04-22 17:01:31",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.fool.com/investing/2025/06/27/why-circle-internet-stock-imploded-this-week/",
+      "url": "https://investor.circle.com/overview/default.aspx",
       "query": "Circle Internet Group suppliers manufacturers",
-      "snippet": "Circle Internet Group Stock Quote. Market Cap.Shares of Circle Internet Group (CRCL +4.62%) fell this week, down 24.9% as of market close on Friday."
+      "snippet": "Mar 17, 2026 · Circle Investor Relations Circle is a global financial technology firm that enables businesses of all sizes to harness the power of dig"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://moneycheck.com/circle-internet-group-crcl-stock-unveils-fiat-enabled-stablecoin-payment-solution/",
+      "url": "https://www.financecharts.com/stocks/CRCL/profile",
       "query": "Circle Internet Group suppliers manufacturers",
-      "snippet": "Circle (CRCL) debuts fiat-first stablecoin platform for institutions, streamlining blockchain payments and expanding USDC adoption globally."
+      "snippet": "Circle Internet Group , Inc. is a financial technology company that enables businesses of all sizes to harness the power of digital currencies and pub"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.fool.com/investing/2025/06/27/why-circle-internet-stock-imploded-this-week/",
+      "url": "https://en.wikipedia.org/wiki/Circle_Internet_Group",
       "query": "Circle Internet Group major customers clients",
-      "snippet": "Circle Internet Group Stock Quote. Market Cap.A major valuation is making many nervous. Even after this week's nearly 25% retreat, Circle 's market ca"
+      "snippet": "Circle (legally Circle Internet Group , Inc.[2]) is a payments technology company. Founded by Jeremy Allaire and Sean Neville in 2013, [3][4] it is cu"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.aol.com/articles/why-circle-internet-stock-crashed-202701392.html",
+      "url": "https://www.appsruntheworld.com/customers-database/vendors/view/circle-internet-group",
       "query": "Circle Internet Group major customers clients",
-      "snippet": "Shares of Circle Internet Group (NYSE: CRCL) closed 10.2% lower on Thursday. The issuer of the popular USD Coin (CRYPTO: USDC) stablecoin received a s"
+      "snippet": "List of companies using or evaluating Circle Internet Group applications, with details on their revenues, employees, industries, and locations."
     }
   ]
 }

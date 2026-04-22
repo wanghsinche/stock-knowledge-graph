@@ -1,57 +1,57 @@
 ---
 ticker: IREN
 company: IREN Limited
-sector: Financial Services / Capital Markets
-industry: Real Estate Services
-extracted_at: 2026-04-21 16:58:40
-last_updated: 2026-04-21
+sector: Financial Services
+industry: Capital Markets
+extracted_at: 2026-04-22 17:00:40
+last_updated: 2026-04-22
 ---
 
 # IREN - IREN Limited
 
 ## 基本信息
 
-- **所属行业**: Financial Services / Capital Markets / Real Estate Services
-- **提取时间**: 2026-04-21 16:58:40
+- **所属行业**: Financial Services / Capital Markets
+- **提取时间**: 2026-04-22 17:00:40
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Construction firms]]
-- [[Architectural firms]]
-- [[Engineering consultants]]
-- [[Building material suppliers]]
-- [[Equipment rental companies]]
+- [[NVDA]]
+- [[AMD]]
+- [[DELL]]
+- [[HPQ]]
+- [[NetApp]]
 
 ### 下游客户
-- [[Property investors]]
-- [[Tenants]]
-- [[Real estate agencies]]
-- [[Property management clients]]
-- [[Commercial tenants]]
+- [[MSFT]]
+- [[AMZN]]
+- [[GOOGL]]
+- [[ORCL]]
+- [[IBM]]
 
 ### 竞争对手
-- [[ABC Real Estate]]
-- [[XYZ Property Management]]
-- [[Global Realty]]
-- [[Capital Property Group]]
-- [[Prime Estates]]
+- [[Equinix]]
+- [[Digital Realty]]
+- [[CyrusOne]]
+- [[QTS]]
+- [[Rackspace]]
 
 ### 核心产品
-- [[Property listings]]
-- [[Property management services]]
-- [[Real estate investment products]]
-- [[Property development services]]
-- [[Real estate consulting]]
+- [[Data center colocation]]
+- [[GPU‑accelerated computing]]
+- [[Edge computing services]]
+- [[Cloud connectivity]]
+- [[Managed services]]
 
 ## 数据来源
 
 - 
-- [IREN Limited suppliers manufacturers](https://www.buildium.com/features/rental-listing-syndication/)
-- [IREN Limited suppliers manufacturers](https://freshysites.com/resources/wordpress-flexmls-integration-guide/)
-- [IREN Limited major customers clients](https://www.tradingview.com/symbols/NASDAQ-IREN/forecast/)
-- [IREN Limited major customers clients](https://www.nasdaq.com/market-activity/stocks/iren)
+- [IREN Limited suppliers manufacturers](https://www.iren.com/)
+- [IREN Limited suppliers manufacturers](https://csimarket.com/stocks/suppliers_glance.php?code=IREN)
+- [IREN Limited major customers clients](https://csimarket.com/stocks/IREN-Customers)
+- [IREN Limited major customers clients](https://www.msn.com/en-us/money/topstocks/irens-ai-client-base-expands-is-growth-becoming-more-durable/ar-AA1T5bT4)
 
 ## 元数据
 
-- **更新日期**: 2026-04-21
+- **更新日期**: 2026-04-22

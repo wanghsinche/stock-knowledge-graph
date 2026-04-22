@@ -1,37 +1,37 @@
 {
   "ticker": "IREN",
   "company_name": "IREN Limited",
-  "sector": "Financial Services / Capital Markets",
-  "industry": "Real Estate Services",
+  "sector": "Financial Services",
+  "industry": "Capital Markets",
   "upstream": [
-    "Construction firms",
-    "Architectural firms",
-    "Engineering consultants",
-    "Building material suppliers",
-    "Equipment rental companies"
+    "NVDA",
+    "AMD",
+    "DELL",
+    "HPQ",
+    "NetApp"
   ],
   "downstream": [
-    "Property investors",
-    "Tenants",
-    "Real estate agencies",
-    "Property management clients",
-    "Commercial tenants"
+    "MSFT",
+    "AMZN",
+    "GOOGL",
+    "ORCL",
+    "IBM"
   ],
   "competitors": [
-    "ABC Real Estate",
-    "XYZ Property Management",
-    "Global Realty",
-    "Capital Property Group",
-    "Prime Estates"
+    "Equinix",
+    "Digital Realty",
+    "CyrusOne",
+    "QTS",
+    "Rackspace"
   ],
   "key_products": [
-    "Property listings",
-    "Property management services",
-    "Real estate investment products",
-    "Property development services",
-    "Real estate consulting"
+    "Data center colocation",
+    "GPU‑accelerated computing",
+    "Edge computing services",
+    "Cloud connectivity",
+    "Managed services"
   ],
-  "extracted_at": "2026-04-21 16:58:40",
+  "extracted_at": "2026-04-22 17:00:40",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.buildium.com/features/rental-listing-syndication/",
+      "url": "https://www.iren.com/",
       "query": "IREN Limited suppliers manufacturers",
-      "snippet": "Add unit details, property-specific information, and available amenities for each of your listings . And have your unit ready for syndication by inclu"
+      "snippet": "Whether you need immediate access to GPUs, world-class turnkey data centers for your own hardware, or a partner to design and build your AI-ready faci"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://freshysites.com/resources/wordpress-flexmls-integration-guide/",
+      "url": "https://csimarket.com/stocks/suppliers_glance.php?code=IREN",
       "query": "IREN Limited suppliers manufacturers",
-      "snippet": "Nov 14, 2025 · Issue background A WordPress site for a real estate agency needed to replicate the dynamic listing functionality of its legacy platform"
+      "snippet": "Iren Limited supply chain, list and performance of Iren Limiteds ' suppliers - CSIMarket"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.tradingview.com/symbols/NASDAQ-IREN/forecast/",
+      "url": "https://csimarket.com/stocks/IREN-Customers",
       "query": "IREN Limited major customers clients",
-      "snippet": "IREN EPS for the last quarter is −0.52 USD despite the estimation of −0.11 USD. In the next quarter EPS is expected to reach −0.22 USD. Track more of "
+      "snippet": "Apr 15, 2026 · For your research, we’ve provided 9 tables on Iren Limited corporate clients . You can find them in the navigation menu under Customers"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.nasdaq.com/market-activity/stocks/iren",
+      "url": "https://www.msn.com/en-us/money/topstocks/irens-ai-client-base-expands-is-growth-becoming-more-durable/ar-AA1T5bT4",
       "query": "IREN Limited major customers clients",
-      "snippet": "IREN Limited Plunges 23% in 3 Months: Time to Hold or Fold the Stock?Data Disclaimer: The Nasdaq Indices and the Major Indices are delayed at least 1 "
+      "snippet": "Beyond the highly visible $9.7 billion Microsoft AI cloud agreement, the company has added several multi-year AI cloud customers , including Together "
     }
   ]
 }
