@@ -3,8 +3,8 @@ ticker: FCX
 company: Freeport-McMoRan Inc.
 sector: Basic Materials
 industry: Copper
-extracted_at: 2026-03-19 16:54:07
-last_updated: 2026-03-19
+extracted_at: 2026-04-23 17:16:25
+last_updated: 2026-04-23
 ---
 
 # FCX - Freeport-McMoRan Inc.
@@ -12,30 +12,30 @@ last_updated: 2026-03-19
 ## 基本信息
 
 - **所属行业**: Basic Materials / Copper
-- **提取时间**: 2026-03-19 16:54:07
+- **提取时间**: 2026-04-23 17:16:25
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Mining equipment manufacturers]]
-- [[Drilling rig suppliers]]
+- [[Mining equipment suppliers]]
 - [[Exploration technology providers]]
-- [[Logistics and transportation firms]]
-- [[Environmental and safety equipment suppliers]]
+- [[Chemicals and reagents manufacturers]]
+- [[Drilling rig contractors]]
+- [[Logistics and transportation services]]
 
 ### 下游客户
 - [[Copper smelters and refineries]]
 - [[Electronics manufacturers]]
-- [[Construction and infrastructure companies]]
-- [[Automotive and electric vehicle producers]]
-- [[Industrial machinery and equipment makers]]
+- [[Construction and infrastructure firms]]
+- [[Automotive and EV component suppliers]]
+- [[Industrial equipment producers]]
 
 ### 竞争对手
 - [[Southern Copper Corp.]]
 - [[HPQ]]
-- [[Rio Tinto Group]]
-- [[Glencore plc]]
-- [[Vale S.A.]]
+- [[Rio Tinto]]
+- [[Glencore]]
+- [[Freeport-McMoRan's own subsidiary, Freeport-McMoRan Mining]]
 
 ### 核心产品
 - [[Copper concentrate]]
@@ -47,11 +47,11 @@ last_updated: 2026-03-19
 ## 数据来源
 
 - [Freeport-McMoRan](https://en.wikipedia.org/wiki/Freeport-McMoRan_Inc.)
-- [Freeport-McMoRan Inc. suppliers manufacturers](https://artificall.com/analysis/companies/freeport-mcmoran-inc/)
-- [Freeport-McMoRan Inc. suppliers manufacturers](https://finance.yahoo.com/quote/FCX/)
-- [Freeport-McMoRan Inc. major customers clients](https://csimarket.com/stocks/FCX-Customers)
-- [Freeport-McMoRan Inc. major customers clients](https://portersfiveforce.com/blogs/target-market/fcx)
+- [Freeport-McMoRan Inc. suppliers manufacturers](https://www.fcx.com/suppliers/overview)
+- [Freeport-McMoRan Inc. suppliers manufacturers](https://csimarket.com/stocks/FCX-Suppliers)
+- [Freeport-McMoRan Inc. major customers clients](https://pitchgrade.com/companies/freeport-mcmoran)
+- [Freeport-McMoRan Inc. major customers clients](https://finance.yahoo.com/quote/FCX/)
 
 ## 元数据
 
-- **更新日期**: 2026-03-19
+- **更新日期**: 2026-04-23

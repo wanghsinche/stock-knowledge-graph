@@ -1,37 +1,37 @@
 {
   "ticker": "LULU",
   "company_name": "Lululemon Athletica Inc.",
-  "sector": "Consumer Cyclical",
-  "industry": "Athletic Apparel",
+  "sector": "Consumer Cyclical / Apparel Retail",
+  "industry": "Apparel Retail",
   "upstream": [
-    "Fabric suppliers (polyester, nylon, spandex)",
-    "Manufacturing partners in China, Vietnam, Bangladesh",
-    "Logistics and shipping providers",
-    "Technology partners for e‑commerce platform",
-    "Design and pattern suppliers"
+    "Gildan",
+    "Hanes",
+    "Joma",
+    "TSC Apparel",
+    "Other textile manufacturers"
   ],
   "downstream": [
-    "Individual consumers (athletes, yoga practitioners, fitness enthusiasts)",
+    "Individual consumers",
     "Corporate wellness programs",
-    "Boutique fitness studios",
-    "Online shoppers via Lululemon.com",
-    "Retail partners for pop‑up and seasonal stores"
+    "Fitness studios",
+    "Online shoppers",
+    "Wholesale partners"
   ],
   "competitors": [
     "Nike",
     "Adidas",
     "Under Armour",
-    "Athleta (Gap)",
+    "Athleta",
     "Puma"
   ],
   "key_products": [
     "Yoga pants",
+    "Leggings",
     "Sports bras",
-    "Athletic tops",
-    "Outerwear",
-    "Footwear"
+    "Tops",
+    "Outerwear"
   ],
-  "extracted_at": "2026-03-18 16:56:42",
+  "extracted_at": "2026-04-23 17:18:37",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
+      "url": "https://corporate.lululemon.com/~/media/Files/L/Lululemon/lululemon-supplier-list-april-2024.pdf",
+      "query": "lululemon athletica inc. suppliers manufacturers",
+      "snippet": "All facilities supporting in the manufacturing of collegiate products have been disclosed. Updated biannually, the list fluctuates over time to reflec"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.sourcifychina.com/top-lululemon-supplier-compare/",
+      "query": "lululemon athletica inc. suppliers manufacturers",
+      "snippet": "Ready to explore the hidden gems behind your favorite brands?” Product Details: This is lululemon’s supplier list for April 2024, detailing manufactur"
+    },
+    {
+      "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Lululemon",
-      "query": "lululemon athletica inc. suppliers manufacturers",
-      "snippet": "Lululemon , commonly styled as lululemon , is an American-Canadian multinational athletic apparel retailer headquartered in Vancouver, British Columbi"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://shop.lululemon.com/",
-      "query": "lululemon athletica inc. suppliers manufacturers",
-      "snippet": "lululemon activewear, loungewear and footwear for all the ways you love to move. Sweat, grow & connect in performance apparel."
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.statista.com/topics/2975/lululemon-athletica/",
       "query": "lululemon athletica inc. major customers clients",
-      "snippet": "Dec 17, 2025 · lululemon athletica - statistics & facts For a long time, the global sportswear market has been primarily dominated by brands from the "
+      "snippet": "Lululemon , commonly styled as lululemon , is a Canadian-American multinational athletic apparel retailer headquartered in Vancouver, British Columbia"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://corporate.lululemon.com/~/media/Files/L/Lululemon/investors/annual-reports/lululemon-2024-annual-report.pdf",
+      "url": "https://csimarket.com/stocks/LULU-Customers",
       "query": "lululemon athletica inc. major customers clients",
-      "snippet": "And our senior leaders have shown their ability to steer through adversity, while continuing to build our brand, and identify and pursue opportunities"
+      "snippet": "Lululemon Athletica Inc 's Comment on Sales, Marketing and Customers . Our primary target customer is a sophisticated and educated woman who understan"
     }
   ]
 }

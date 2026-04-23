@@ -2,36 +2,36 @@
   "ticker": "UNH",
   "company_name": "UnitedHealth Group Incorporated",
   "sector": "Healthcare",
-  "industry": "Health Insurance / Health Care Services",
+  "industry": "Health Insurance / Health Plans",
   "upstream": [
     "Pharmaceutical manufacturers",
     "Medical device manufacturers",
     "Health technology vendors",
-    "Pharmacy benefit management providers",
-    "Health data analytics firms"
+    "Pharmacy benefit managers",
+    "Healthcare data analytics providers"
   ],
   "downstream": [
-    "Large corporate employers",
-    "Government agencies (Medicare, Medicaid)",
-    "Individual consumers",
-    "Health plan members",
-    "Healthcare providers (hospitals, clinics)"
+    "Large employers",
+    "Government health programs (Medicare, Medicaid)",
+    "Individual health plan subscribers",
+    "Health maintenance organizations (HMOs)",
+    "Health savings account holders"
   ],
   "competitors": [
     "Anthem",
+    "Aetna",
     "Cigna",
     "Humana",
-    "Aetna (CVS Health)",
     "Kaiser Permanente"
   ],
   "key_products": [
     "UnitedHealthcare insurance plans",
     "Optum health services",
     "OptumRx pharmacy benefit management",
-    "OptumLabs data analytics",
-    "OptumCare health services"
+    "OptumCare clinical services",
+    "OptumInsight data analytics"
   ],
-  "extracted_at": "2026-04-22 16:54:15",
+  "extracted_at": "2026-04-23 17:17:14",
   "sources": [
     {
       "source": "Wikipedia",
@@ -53,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/sectors/healthcare/articles/unitedhealth-group-inc-unh-q1-070136214.html?fr=sycsrp_catchall",
+      "url": "https://pitchgrade.com/companies/unitedhealth",
       "query": "UnitedHealth Group Incorporated major customers clients",
-      "snippet": "5 hours ago · UnitedHealth Group Inc (UNH) surpasses earnings expectations with strategic AI investments and robust performance across business segmen"
+      "snippet": "Customer Segments: UnitedHealth Group Incorporated serves multiple distinct customer segments, which may include consumers, small and medium businesse"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.unitedhealthgroup.com/content/dam/UHG/PDF/investors/2025/unh-reports-2025-results-and-issues-2026-outlook.pdf",
+      "url": "https://news.alphastreet.com/unitedhealth-group-incorporated-unh-q1-2026-earnings-call-transcript/",
       "query": "UnitedHealth Group Incorporated major customers clients",
-      "snippet": "January 27, 2026 UnitedHealth Group (NYSE: UNH) today reported full year and fourth quarter 2025 results and issued its 2026 outlook."
+      "snippet": "UnitedHealth Group Incorporated Q1 2026 Earnings Call Transcript.All of our major business segments exceeded plan for the quarter. At UnitedHealthcare"
     }
   ]
 }

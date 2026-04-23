@@ -3,8 +3,8 @@ ticker: AAPL
 company: Apple Inc.
 sector: Technology
 industry: Consumer Electronics
-extracted_at: 2026-04-22 16:50:53
-last_updated: 2026-04-22
+extracted_at: 2026-04-23 17:12:55
+last_updated: 2026-04-23
 ---
 
 # AAPL - Apple Inc.
@@ -12,16 +12,15 @@ last_updated: 2026-04-22
 ## 基本信息
 
 - **所属行业**: Technology / Consumer Electronics
-- **提取时间**: 2026-04-22 16:50:53
+- **提取时间**: 2026-04-23 17:12:55
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Foxconn]]
-- [[TSM]]
-- [[005930.KS]]
-- [[LG Display]]
-- [[ASE Group]]
+- [[Molex]]
+- [[Murata Manufacturing]]
+- [[Nichia]]
+- [[Nidec]]
 
 ### 下游客户
 - [[iPhone users]]
@@ -32,8 +31,8 @@ last_updated: 2026-04-22
 
 ### 竞争对手
 - [[005930.KS]]
-- [[GOOGL]]
 - [[MSFT]]
+- [[GOOGL]]
 - [[AMZN]]
 - [[SONY]]
 
@@ -47,11 +46,11 @@ last_updated: 2026-04-22
 ## 数据来源
 
 - [Apple Inc.](https://en.wikipedia.org/wiki/Apple_Inc.)
-- [Apple Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/Apple_supply_chain)
-- [Apple Inc. suppliers manufacturers](https://www.investopedia.com/articles/investing/090315/10-major-companies-tied-apple-supply-chain.asp)
-- [Apple Inc. major customers clients](https://businessmodelanalyst.com/apple-target-market/)
-- [Apple Inc. major customers clients](https://csimarket.com/stocks/AAPL-Customers)
+- [Apple Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/Template:Apple_Inc._suppliers)
+- [Apple Inc. suppliers manufacturers](https://www.apple.com/)
+- [Apple Inc. major customers clients](https://www.businessofapps.com/data/apple-statistics/)
+- [Apple Inc. major customers clients](https://bstrategyhub.com/apple-target-market/)
 
 ## 元数据
 
-- **更新日期**: 2026-04-22
+- **更新日期**: 2026-04-23

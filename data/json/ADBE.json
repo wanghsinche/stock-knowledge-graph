@@ -1,37 +1,37 @@
 {
   "ticker": "ADBE",
   "company_name": "Adobe Inc.",
-  "sector": "Technology",
-  "industry": "Software - Application",
+  "sector": "Technology / Software - Application",
+  "industry": "Computer Software",
   "upstream": [
-    "INTC",
-    "NVDA",
-    "AMD",
+    "AMZN",
     "MSFT",
-    "AMZN"
+    "GOOGL",
+    "INTC",
+    "NVDA"
   ],
   "downstream": [
-    "NFLX",
-    "Disney",
-    "Coca‑Cola",
-    "Nike",
-    "GOOGL"
+    "GOOGL",
+    "MSFT",
+    "AMZN",
+    "IBM",
+    "Disney"
   ],
   "competitors": [
     "MSFT",
-    "Autodesk",
-    "Corel",
     "AAPL",
-    "Avid Technology"
+    "Corel",
+    "Autodesk",
+    "Avid"
   ],
   "key_products": [
-    "Photoshop",
-    "Illustrator",
-    "Premiere Pro",
-    "After Effects",
-    "Acrobat Pro"
+    "Adobe Photoshop",
+    "Adobe Illustrator",
+    "Adobe Premiere Pro",
+    "Adobe After Effects",
+    "Adobe InDesign"
   ],
-  "extracted_at": "2026-04-22 16:59:22",
+  "extracted_at": "2026-04-23 17:16:12",
   "sources": [
     {
       "source": "Wikipedia",

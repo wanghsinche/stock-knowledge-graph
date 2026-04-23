@@ -1,8 +1,8 @@
 {
   "ticker": "CRWV",
   "company_name": "CoreWeave, Inc.",
-  "sector": "Technology",
-  "industry": "Software - Infrastructure",
+  "sector": "Technology / Software - Infrastructure",
+  "industry": "Artificial Intelligence Cloud Computing",
   "upstream": [
     "NVDA",
     "AMD",
@@ -12,26 +12,26 @@
   ],
   "downstream": [
     "OpenAI",
-    "IBM",
     "Mistral AI",
+    "IBM",
     "MSFT",
     "GOOGL"
   ],
   "competitors": [
-    "AMZN",
-    "MSFT",
-    "GOOGL",
     "NVDA",
-    "Alibaba Cloud"
+    "AMZN",
+    "GOOGL",
+    "MSFT",
+    "AMD"
   ],
   "key_products": [
-    "GPU‑based cloud computing services",
-    "AI infrastructure solutions",
+    "GPU‑based cloud infrastructure",
+    "AI training and inference services",
+    "GPU virtualization platform",
     "Chip management software",
-    "GPU instance offerings",
-    "Scalable AI training platforms"
+    "High‑performance computing (HPC) solutions"
   ],
-  "extracted_at": "2026-04-22 16:53:57",
+  "extracted_at": "2026-04-23 17:15:58",
   "sources": [
     {
       "source": "Wikipedia",
@@ -53,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.coreweave.com/case-studies",
+      "url": "https://en.wikipedia.org/wiki/CoreWeave",
       "query": "CoreWeave, Inc. major customers clients",
-      "snippet": "Learn how CoreWeave customers like OpenAI and IBM are provisioning the GPUs they need and building AI infrastructure on a massive scale with unprecede"
+      "snippet": "CoreWeave , Inc . is an American artificial intelligence cloud-computing company based in Livingston, New Jersey. It specializes in providing cloud-ba"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.appsruntheworld.com/customers-database/products/view/coreweave-compute-services",
+      "url": "https://www.businesswire.com/news/home/20260417402128/en/CoreWeave-Announces-Date-of-First-Quarter-2026-Financial-Results-and-Conference-Call",
       "query": "CoreWeave, Inc. major customers clients",
-      "snippet": "Who uses CoreWeave Compute Services for AI infrastructure? Companies worldwide use CoreWeave Compute Services, from small firms to large enterprises a"
+      "snippet": "About CoreWeave , Inc . CoreWeave is The Essential Cloud for AI™. Built for pioneers by pioneers, CoreWeave delivers a platform of technology, tools, "
     }
   ]
 }

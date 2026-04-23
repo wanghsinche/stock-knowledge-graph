@@ -4,34 +4,34 @@
   "sector": "Technology",
   "industry": "Semiconductors",
   "upstream": [
-    "TSM",
-    "005930.KS",
-    "GlobalFoundries",
+    "AMAT",
     "ASML",
-    "AMAT"
+    "LRCX",
+    "Tokyo Electron",
+    "KLA Corporation"
   ],
   "downstream": [
     "AAPL",
-    "CSCO",
+    "QCOM",
     "Huawei",
-    "DELL",
-    "005930.KS"
+    "005930.KS",
+    "CSCO"
   ],
   "competitors": [
     "AVGO",
-    "QCOM",
     "INTC",
-    "MediaTek",
-    "TXN"
+    "QCOM",
+    "NVDA",
+    "AMD"
   ],
   "key_products": [
+    "Storage controllers",
     "Ethernet controllers",
-    "NVMe SSD controllers",
-    "5G modems",
-    "Wi‑Fi chips",
-    "Network processors"
+    "Wireless LAN chips",
+    "PCIe controllers",
+    "NVMe SSD controllers"
   ],
-  "extracted_at": "2026-04-22 16:53:28",
+  "extracted_at": "2026-04-23 17:12:32",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,25 +43,25 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Marvell_Technology",
       "query": "Marvell Technology, Inc. suppliers manufacturers",
-      "snippet": "It is a wholly owned subsidiary of Marvell Technology , and is headquartered in Tel Aviv. The company was founded by brothers Yehuda and Zohar Zisapel"
+      "snippet": "Marvell Technology , Inc . is an American company, headquartered in Santa Clara, California, which develops and produces semiconductors and related te"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.marvell.com/company/sales.html",
+      "url": "https://www.marvell.com/",
       "query": "Marvell Technology, Inc. suppliers manufacturers",
-      "snippet": "Search below for a list of the nearest Marvell representatives, distributors and direct sales offices in your vicinity or submit our Request for Infor"
+      "snippet": "Watch the latest. Marvell Essential Technology Videos. Marvell designs custom silicon tailored for any application and offers the industry’s most comp"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/MRVL-Customers",
+      "url": "https://en.wikipedia.org/wiki/Marvell_Technology",
       "query": "Marvell Technology, Inc. major customers clients",
-      "snippet": "1 day ago · Our target customers are original equipment manufacturers and original design manufacturers, both of which design and manufacture end mark"
+      "snippet": "Marvell Technology , Inc . is an American company, headquartered in Santa Clara, California, which develops and produces semiconductors and related te"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://pestel-analysis.com/blogs/target-market/marvell",
+      "url": "https://www.marvell.com/",
       "query": "Marvell Technology, Inc. major customers clients",
-      "snippet": "Nov 19, 2025 · Marvell Technology ' s core customers , including major enterprises, cloud providers, and automotive firms, prioritize high performance"
+      "snippet": "Designed for your current needs and future ambitions, Marvell delivers the data infrastructure technology transforming tomorrow’s enterprise, cloud, a"
     }
   ]
 }

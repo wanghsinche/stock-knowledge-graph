@@ -4,16 +4,16 @@
   "sector": "Communication Services",
   "industry": "Internet Content & Information",
   "upstream": [
+    "TSM",
     "INTC",
-    "QCOM",
-    "005930.KS",
     "NVDA",
-    "AMD"
+    "QCOM",
+    "005930.KS"
   ],
   "downstream": [
     "GOOGL",
     "Android device manufacturers",
-    "YouTube creators",
+    "YouTube content creators",
     "GOOGL",
     "GOOGL"
   ],
@@ -27,11 +27,11 @@
   "key_products": [
     "Google Search",
     "YouTube",
-    "Google Cloud",
-    "Android",
+    "Google Cloud Platform",
+    "Android OS",
     "Google Ads"
   ],
-  "extracted_at": "2026-04-22 16:55:34",
+  "extracted_at": "2026-04-23 17:13:57",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,13 +43,13 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Alphabet_Inc.",
       "query": "Alphabet Inc. suppliers manufacturers",
-      "snippet": "Alphabet Inc . has faced numerous legal and ethical controversies, including a 2017 lawsuit against Uber over stolen self-driving technology, a 2020 p"
+      "snippet": "Alphabet Inc . is an American multinational technology conglomerate holding company headquartered in Mountain View, California. It was created through"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://csimarket.com/stocks/GOOG-Suppliers",
       "query": "Alphabet Inc. suppliers manufacturers",
-      "snippet": "Feb 6, 2026 · Alphabet Inc supply chain, list and performance of Alphabet Incs ' suppliers - CSIMarket"
+      "snippet": "Alphabet Inc supply chain, list and performance of Alphabet Incs ' suppliers - CSIMarket."
     },
     {
       "source": "DuckDuckGo",

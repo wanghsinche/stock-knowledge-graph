@@ -3,8 +3,8 @@ ticker: COHR
 company: Coherent Corp.
 sector: Technology
 industry: Scientific & Technical Instruments
-extracted_at: 2026-04-22 16:58:55
-last_updated: 2026-04-22
+extracted_at: 2026-04-23 17:18:10
+last_updated: 2026-04-23
 ---
 
 # COHR - Coherent Corp.
@@ -12,46 +12,28 @@ last_updated: 2026-04-22
 ## 基本信息
 
 - **所属行业**: Technology / Scientific & Technical Instruments
-- **提取时间**: 2026-04-22 16:58:55
+- **提取时间**: 2026-04-23 17:18:10
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Silica and glass manufacturers]]
-- [[Semiconductor wafer suppliers]]
-- [[Laser diode manufacturers]]
-- [[Optical fiber producers]]
-- [[Chemical suppliers for optical coatings]]
+_暂无数据_
 
 ### 下游客户
-- [[Aerospace and defense contractors]]
-- [[Life sciences research institutions]]
-- [[CAT]]
-- [[Industrial manufacturing firms]]
-- [[Medical device manufacturers]]
+_暂无数据_
 
 ### 竞争对手
-- [[Thorlabs]]
-- [[Newport Corporation]]
-- [[Edmund Optics]]
-- [[Lumentum Holdings]]
-- [[II-VI Incorporated]]
+_暂无数据_
 
 ### 核心产品
-- [[Laser systems and modules]]
-- [[Laser diodes]]
-- [[Optical components (lenses, mirrors, gratings)]]
-- [[Photonic integrated circuits]]
-- [[Laser-based industrial equipment]]
+_暂无数据_
 
 ## 数据来源
 
 - [Coherent Corp.](https://en.wikipedia.org/wiki/Coherent_Corp.)
-- [Coherent Corp. suppliers manufacturers](https://www.coherent.com/company/locations)
-- [Coherent Corp. suppliers manufacturers](https://www.mouser.com/manufacturer/coherent/)
-- [Coherent Corp. major customers clients](https://www.coherent.com/news/success-stories)
-- [Coherent Corp. major customers clients](https://csimarket.com/stocks/COHR-Customers)
+- [Coherent Corp. suppliers manufacturers](https://globalmarketbulletin.com/coherent-corporation-cohr-understanding-the-company-behind-the-price-moves/)
+- [Coherent Corp. suppliers manufacturers](https://www.orionglobaltalent.com/coherent-corporation)
 
 ## 元数据
 
-- **更新日期**: 2026-04-22
+- **更新日期**: 2026-04-23

@@ -4,34 +4,34 @@
   "sector": "Technology",
   "industry": "Software - Application",
   "upstream": [
-    "Contract Manufacturing Companies",
-    "Consulting Service Providers",
-    "Software Development Firms",
-    "Cloud Infrastructure Providers",
-    "Data Integration Vendors"
+    "MSFT",
+    "AMZN",
+    "GOOGL",
+    "DELL",
+    "IBM"
   ],
   "downstream": [
-    "INTC",
-    "Enterprise Software Users",
-    "Financial Services Firms",
-    "Government Agencies",
-    "Retail and E‑commerce Platforms"
+    "Fortune 500 enterprises",
+    "Financial services firms",
+    "Retail chains",
+    "Manufacturing companies",
+    "Healthcare providers"
   ],
   "competitors": [
-    "Palantir Technologies",
     "Tableau Software",
     "MSFT",
     "Qlik",
-    "GOOGL"
+    "GOOGL",
+    "SAP BusinessObjects"
   ],
   "key_products": [
-    "Analytics Platform",
-    "Business Intelligence Suite",
-    "Data Visualization Tools",
-    "Data Governance Module",
-    "Predictive Analytics Engine"
+    "MicroStrategy Analytics Platform",
+    "MicroStrategy Mobile",
+    "MicroStrategy Cloud",
+    "MicroStrategy Data Visualization",
+    "MicroStrategy Data Warehouse"
   ],
-  "extracted_at": "2026-04-22 16:52:25",
+  "extracted_at": "2026-04-23 17:14:40",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://clutch.co/logistics/manufacturing-companies/san-jose",
+      "url": "https://finance.yahoo.com/quote/MSTR/",
       "query": "Strategy Inc suppliers manufacturers",
-      "snippet": "2 days ago · Connect with the best Contract Manufacturing companies . Compare expert profiles, client success stories & proven results to choose a ver"
+      "snippet": "Find the latest Strategy Inc (MSTR) stock quote, history, news and other vital information to help you with your stock trading and investing."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.strategyinc.net/services-overview/",
+      "url": "https://ru.tradingview.com/symbols/NASDAQ-MSTR/",
       "query": "Strategy Inc suppliers manufacturers",
-      "snippet": "At Strategy Inc ., we offer a comprehensive range of consulting services required for life science and medical device due diligence, such as: market a"
+      "snippet": "Следите за графиком Strategy Inc , чтобы быть в курсе цены акций. Вы также найдёте прогнозы, отчётность MSTR и новости рынка."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.strategy.com/software/news/strategy-recognized-as-a-customers-choice-on-gartner-peer-insights-through-user-feedback-for-fourth-consecutive-year",
+      "url": "https://en.wikipedia.org/wiki/MicroStrategy",
       "query": "Strategy Inc major customers clients",
-      "snippet": "Dec 11, 2025 · Discover why Strategy Inc . is the only Analytics & Business Intelligence Platforms vendor to be named a Customers ' Choice in the 2025"
+      "snippet": "Strategy Inc ., formerly known as MicroStrategy, is an American company that provides business intelligence and mobile software. Founded in 1989 by Mi"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/STRF-Customers",
+      "url": "https://finance.yahoo.com/quote/MSTR/",
       "query": "Strategy Inc major customers clients",
-      "snippet": "Jan 30, 2026 · Strategy Inc customers and markets, results by customer and performance relative to STRF, by company and industry - CSIMarket"
+      "snippet": "Find the latest Strategy Inc (MSTR) stock quote, history, news and other vital information to help you with your stock trading and investing."
     }
   ]
 }

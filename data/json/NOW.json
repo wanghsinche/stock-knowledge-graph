@@ -4,34 +4,34 @@
   "sector": "Technology",
   "industry": "Software - Application",
   "upstream": [
+    "AMZN",
+    "MSFT",
+    "GOOGL",
+    "ORCL",
+    "IBM"
+  ],
+  "downstream": [
+    "NVDA",
     "MSFT",
     "AMZN",
     "GOOGL",
-    "DELL",
-    "CSCO"
-  ],
-  "downstream": [
-    "Walmart",
-    "JPMorgan Chase",
-    "Bank of America",
-    "Coca‑Cola",
-    "General Electric"
+    "CRM"
   ],
   "competitors": [
     "CRM",
     "SAP",
     "MSFT",
-    "IBM",
-    "ORCL"
+    "ORCL",
+    "IBM"
   ],
   "key_products": [
     "ServiceNow Platform",
     "IT Service Management (ITSM)",
     "IT Operations Management (ITOM)",
-    "IT Business Management (ITBM)",
-    "Customer Service Management (CSM)"
+    "Security Operations (SecOps)",
+    "HR Service Delivery"
   ],
-  "extracted_at": "2026-04-22 16:58:15",
+  "extracted_at": "2026-04-23 17:11:10",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/ServiceNow",
-      "query": "ServiceNow, Inc. suppliers manufacturers",
-      "snippet": "ServiceNow , Inc . is an American software company that supplies a cloud computing platform for the creation and management of automated business work"
-    },
-    {
-      "source": "DuckDuckGo",
       "url": "https://www.servicenow.com/company/supplier.html",
       "query": "ServiceNow, Inc. suppliers manufacturers",
       "snippet": "ServiceNow partners with capable and competitive suppliers who commit to diversity, sustainability, and best-in-class goods and services. Learn more h"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.aventionmedia.com/technology-installed-base/servicenow/",
-      "query": "ServiceNow, Inc. major customers clients",
-      "snippet": "Businesses whose solutions and services can help Cloud- Service Customers achieve any of their business requirements can make use of our List of Compa"
+      "url": "https://csimarket.com/stocks/NOW-Suppliers",
+      "query": "ServiceNow, Inc. suppliers manufacturers",
+      "snippet": "Jan 29, 2026 · Servicenow Inc supply chain, list and performance of Servicenow Incs ' suppliers - CSIMarket"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://data.landbase.com/technology/servicenow/",
+      "url": "https://en.wikipedia.org/wiki/ServiceNow",
       "query": "ServiceNow, Inc. major customers clients",
-      "snippet": "Aug 17, 2025 · Our ServiceNow customers list is available for download and comes enriched with vital company specifics, including industry classificat"
+      "snippet": "11 hours ago - In May 2023, Nvidia announced a partnership with ServiceNow to include AI services in help desk software for corporations."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.aventionmedia.com/technology-installed-base/servicenow/",
+      "query": "ServiceNow, Inc. major customers clients",
+      "snippet": "June 14, 2024 - ServiceNow caters to businesses of all sizes, including mid-sized, small and large organizations. It serves three popularly different "
     }
   ]
 }

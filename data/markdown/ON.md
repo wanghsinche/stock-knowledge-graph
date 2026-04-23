@@ -3,8 +3,8 @@ ticker: ON
 company: ON Semiconductor Corporation
 sector: Technology
 industry: Semiconductors
-extracted_at: 2026-04-16 17:12:27
-last_updated: 2026-04-16
+extracted_at: 2026-04-23 17:17:52
+last_updated: 2026-04-23
 ---
 
 # ON - ON Semiconductor Corporation
@@ -12,23 +12,23 @@ last_updated: 2026-04-16
 ## 基本信息
 
 - **所属行业**: Technology / Semiconductors
-- **提取时间**: 2026-04-16 17:12:27
+- **提取时间**: 2026-04-23 17:17:52
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Shin‑Etsu Chemical]]
-- [[SUMCO]]
-- [[GlobalWafers]]
-- [[AMAT]]
-- [[ASML]]
+- [[Silicon wafer suppliers]]
+- [[Germanium and other semiconductor material suppliers]]
+- [[Electronic component distributors]]
+- [[CAT]]
+- [[Chemical suppliers for lithography]]
 
 ### 下游客户
-- [[General Motors]]
-- [[Ford]]
-- [[TSLA]]
-- [[005930.KS]]
-- [[Nokia]]
+- [[Automotive OEMs (e.g., Ford, General Motors)]]
+- [[CSCO]]
+- [[DELL]]
+- [[AAPL]]
+- [[Industrial automation firms (e.g., Siemens, ABB)]]
 
 ### 竞争对手
 - [[TXN]]
@@ -40,18 +40,18 @@ last_updated: 2026-04-16
 ### 核心产品
 - [[Power management ICs]]
 - [[Signal management ICs]]
-- [[Logic ICs]]
-- [[Discrete devices]]
-- [[Custom devices]]
+- [[Discrete logic devices]]
+- [[Custom ASIC solutions]]
+- [[LED driver ICs]]
 
 ## 数据来源
 
 - [Onsemi](https://en.wikipedia.org/wiki/ON_Semiconductor_Corporation)
 - [ON Semiconductor Corporation suppliers manufacturers](https://en.wikipedia.org/wiki/Onsemi)
-- [ON Semiconductor Corporation suppliers manufacturers](https://www.semiconductors.org/ecosystem/)
-- [ON Semiconductor Corporation major customers clients](https://www.gurufocus.com/news/8600011/decoding-on-semiconductor-corp-on-a-strategic-swot-insight)
-- [ON Semiconductor Corporation major customers clients](https://www.insidermonkey.com/blog/what-makes-on-semiconductor-on-a-resilient-company-1733282/)
+- [ON Semiconductor Corporation suppliers manufacturers](https://csimarket.com/stocks/ON-Suppliers)
+- [ON Semiconductor Corporation major customers clients](https://en.wikipedia.org/wiki/Samsung)
+- [ON Semiconductor Corporation major customers clients](https://www.case48.com/porter-analysis/6014-ON-Semiconductor-Corporation)
 
 ## 元数据
 
-- **更新日期**: 2026-04-16
+- **更新日期**: 2026-04-23

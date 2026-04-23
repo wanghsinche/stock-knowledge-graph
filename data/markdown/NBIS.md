@@ -3,8 +3,8 @@ ticker: NBIS
 company: Nebius Group N.V.
 sector: Communication Services
 industry: Internet Content & Information
-extracted_at: 2026-04-22 16:56:39
-last_updated: 2026-04-22
+extracted_at: 2026-04-23 17:16:35
+last_updated: 2026-04-23
 ---
 
 # NBIS - Nebius Group N.V.
@@ -12,33 +12,33 @@ last_updated: 2026-04-22
 ## 基本信息
 
 - **所属行业**: Communication Services / Internet Content & Information
-- **提取时间**: 2026-04-22 16:56:39
+- **提取时间**: 2026-04-23 17:16:35
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Hardware manufacturers for AI infrastructure]]
-- [[Cloud service providers]]
-- [[Data center operators]]
-- [[CAT]]
-- [[Software vendors for AI frameworks]]
+- [[NVDA]]
+- [[AMD]]
+- [[INTC]]
+- [[GOOGL]]
+- [[AMZN]]
 
 ### 下游客户
-- [[Federal government agencies]]
-- [[Security management departments]]
-- [[Special security officers]]
-- [[Enterprise IT departments]]
-- [[Research institutions]]
+- [[Fortune 500 enterprises]]
+- [[E‑commerce platforms]]
+- [[Financial institutions]]
+- [[Healthcare providers]]
+- [[Automotive companies]]
 
 ### 竞争对手
-- [[OpenAI]]
+- [[NVDA]]
+- [[AMD]]
+- [[INTC]]
 - [[GOOGL]]
-- [[MSFT]]
-- [[IBM]]
 - [[AMZN]]
 
 ### 核心产品
-- [[Nebius AI infrastructure platform]]
+- [[Nebius AI Platform]]
 - [[Avride]]
 - [[TripleTen]]
 - [[Toloka]]
@@ -47,11 +47,11 @@ last_updated: 2026-04-22
 ## 数据来源
 
 - [Nebius Group](https://en.wikipedia.org/wiki/NBIS)
-- [NBIS suppliers manufacturers](https://www.dcsa.mil/Systems-Applications/National-Background-Investigation-Services-NBIS/)
-- [NBIS suppliers manufacturers](https://www.dote.osd.mil/Portals/97/pub/reports/FY2023/dod/2023nbis.pdf?ver=s7vro7RpFwQ56sS4K5MP6g==)
-- [NBIS major customers clients](https://www.dcsa.mil/Systems-Applications/National-Background-Investigation-Services-NBIS/)
-- [NBIS major customers clients](https://csimarket.com/stocks/NBIS-Customers)
+- [NBIS suppliers manufacturers](https://en.wikipedia.org/wiki/Nebius_Group)
+- [NBIS suppliers manufacturers](https://csimarket.com/stocks/suppliers_glance.php?code=NBIS)
+- [NBIS major customers clients](https://finance.yahoo.com/markets/stocks/articles/several-reinforcing-catalysts-boosted-nebius-133729203.html)
+- [NBIS major customers clients](https://www.nasdaq.com/market-activity/stocks/nbis)
 
 ## 元数据
 
-- **更新日期**: 2026-04-22
+- **更新日期**: 2026-04-23

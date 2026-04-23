@@ -3,8 +3,8 @@ ticker: META
 company: Meta Platforms, Inc.
 sector: Communication Services
 industry: Internet Content & Information
-extracted_at: 2026-04-22 16:53:40
-last_updated: 2026-04-22
+extracted_at: 2026-04-23 17:13:05
+last_updated: 2026-04-23
 ---
 
 # META - Meta Platforms, Inc.
@@ -12,23 +12,23 @@ last_updated: 2026-04-22
 ## 基本信息
 
 - **所属行业**: Communication Services / Internet Content & Information
-- **提取时间**: 2026-04-22 16:53:40
+- **提取时间**: 2026-04-23 17:13:05
 
 ## 产业链关系
 
 ### 上游供应商
-- [[TSM]]
-- [[NVDA]]
-- [[AMD]]
-- [[CSCO]]
 - [[AMZN]]
+- [[MSFT]]
+- [[GOOGL]]
+- [[AAPL]]
+- [[AT&T (network infrastructure)]]
 
 ### 下游客户
-- [[Coca‑Cola]]
-- [[Nike]]
-- [[005930.KS]]
-- [[GOOGL]]
-- [[AMZN]]
+- [[Advertisers (large brands and agencies)]]
+- [[META]]
+- [[META]]
+- [[Content creators on Facebook, Instagram, and WhatsApp]]
+- [[Media partners for live streaming]]
 
 ### 竞争对手
 - [[GOOGL]]
@@ -42,10 +42,7 @@ last_updated: 2026-04-22
 - [[Instagram]]
 - [[WhatsApp]]
 - [[Messenger]]
-- [[Threads]]
-- [[Meta Quest]]
-- [[Meta Ads]]
-- [[Meta Business Suite]]
+- [[Meta Ads Platform]]
 
 ## 数据来源
 
@@ -57,4 +54,4 @@ last_updated: 2026-04-22
 
 ## 元数据
 
-- **更新日期**: 2026-04-22
+- **更新日期**: 2026-04-23

@@ -3,8 +3,8 @@ ticker: RKLB
 company: Rocket Lab Corporation
 sector: Industrials
 industry: Aerospace & Defense
-extracted_at: 2026-04-22 16:57:41
-last_updated: 2026-04-22
+extracted_at: 2026-04-23 17:18:50
+last_updated: 2026-04-23
 ---
 
 # RKLB - Rocket Lab Corporation
@@ -12,46 +12,46 @@ last_updated: 2026-04-22
 ## 基本信息
 
 - **所属行业**: Industrials / Aerospace & Defense
-- **提取时间**: 2026-04-22 16:57:41
+- **提取时间**: 2026-04-23 17:18:50
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Honeywell Aerospace]]
-- [[Thales Alenia Space]]
-- [[Lockheed Martin]]
-- [[Raytheon Technologies]]
-- [[Boeing]]
+- [[Star trackers]]
+- [[Reaction wheels]]
+- [[Solar panels]]
+- [[Software‑defined radios]]
+- [[Composite structures]]
 
 ### 下游客户
-- [[NASA]]
-- [[European Space Agency]]
 - [[Planet Labs]]
+- [[Spire Global]]
 - [[Planet]]
-- [[Spaceflight Inc.]]
+- [[SpaceX]]
+- [[OneWeb]]
 
 ### 竞争对手
 - [[SpaceX]]
-- [[Blue Origin]]
 - [[Firefly Aerospace]]
-- [[Relativity Space]]
+- [[Astra]]
 - [[Virgin Orbit]]
+- [[Relativity Space]]
 
 ### 核心产品
-- [[Electron launch vehicle]]
-- [[HASTE suborbital vehicle]]
-- [[Neutron launch vehicle]]
-- [[Satellite components (star trackers, reaction wheels)]]
-- [[Software‑defined radios]]
+- [[Electron orbital rocket]]
+- [[HASTE suborbital testbed]]
+- [[Neutron medium‑lift rocket]]
+- [[Satellite components (star trackers, reaction wheels, solar panels)]]
+- [[Composite structures and separation systems]]
 
 ## 数据来源
 
 - [Rocket Lab](https://en.wikipedia.org/wiki/Rocket_Lab_Corporation)
-- [Rocket Lab Corporation suppliers manufacturers](https://en.wikipedia.org/wiki/Rocket_Lab)
-- [Rocket Lab Corporation suppliers manufacturers](https://rocketlabcorp.com/become-a-rocket-lab-supplier/)
-- [Rocket Lab Corporation major customers clients](https://csimarket.com/stocks/RKLB-Customers)
-- [Rocket Lab Corporation major customers clients](https://portersfiveforce.com/blogs/target-market/rocketlabusa)
+- [Rocket Lab Corporation suppliers manufacturers](https://rocketlabcorp.com/)
+- [Rocket Lab Corporation suppliers manufacturers](https://www.exterrajsc.com/p/rocket-lab-completes-mynaric-acquisition)
+- [Rocket Lab Corporation major customers clients](https://rocketlabcorp.com/)
+- [Rocket Lab Corporation major customers clients](https://www.nasdaq.com/market-activity/stocks/rklb)
 
 ## 元数据
 
-- **更新日期**: 2026-04-22
+- **更新日期**: 2026-04-23

@@ -3,8 +3,8 @@ ticker: MSTR
 company: Strategy Inc
 sector: Technology
 industry: Software - Application
-extracted_at: 2026-04-22 16:52:25
-last_updated: 2026-04-22
+extracted_at: 2026-04-23 17:14:40
+last_updated: 2026-04-23
 ---
 
 # MSTR - Strategy Inc
@@ -12,46 +12,46 @@ last_updated: 2026-04-22
 ## 基本信息
 
 - **所属行业**: Technology / Software - Application
-- **提取时间**: 2026-04-22 16:52:25
+- **提取时间**: 2026-04-23 17:14:40
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Contract Manufacturing Companies]]
-- [[Consulting Service Providers]]
-- [[Software Development Firms]]
-- [[Cloud Infrastructure Providers]]
-- [[Data Integration Vendors]]
+- [[MSFT]]
+- [[AMZN]]
+- [[GOOGL]]
+- [[DELL]]
+- [[IBM]]
 
 ### 下游客户
-- [[INTC]]
-- [[Enterprise Software Users]]
-- [[Financial Services Firms]]
-- [[Government Agencies]]
-- [[Retail and E‑commerce Platforms]]
+- [[Fortune 500 enterprises]]
+- [[Financial services firms]]
+- [[Retail chains]]
+- [[Manufacturing companies]]
+- [[Healthcare providers]]
 
 ### 竞争对手
-- [[Palantir Technologies]]
 - [[Tableau Software]]
 - [[MSFT]]
 - [[Qlik]]
 - [[GOOGL]]
+- [[SAP BusinessObjects]]
 
 ### 核心产品
-- [[Analytics Platform]]
-- [[Business Intelligence Suite]]
-- [[Data Visualization Tools]]
-- [[Data Governance Module]]
-- [[Predictive Analytics Engine]]
+- [[MicroStrategy Analytics Platform]]
+- [[MicroStrategy Mobile]]
+- [[MicroStrategy Cloud]]
+- [[MicroStrategy Data Visualization]]
+- [[MicroStrategy Data Warehouse]]
 
 ## 数据来源
 
 - 
-- [Strategy Inc suppliers manufacturers](https://clutch.co/logistics/manufacturing-companies/san-jose)
-- [Strategy Inc suppliers manufacturers](https://www.strategyinc.net/services-overview/)
-- [Strategy Inc major customers clients](https://www.strategy.com/software/news/strategy-recognized-as-a-customers-choice-on-gartner-peer-insights-through-user-feedback-for-fourth-consecutive-year)
-- [Strategy Inc major customers clients](https://csimarket.com/stocks/STRF-Customers)
+- [Strategy Inc suppliers manufacturers](https://finance.yahoo.com/quote/MSTR/)
+- [Strategy Inc suppliers manufacturers](https://ru.tradingview.com/symbols/NASDAQ-MSTR/)
+- [Strategy Inc major customers clients](https://en.wikipedia.org/wiki/MicroStrategy)
+- [Strategy Inc major customers clients](https://finance.yahoo.com/quote/MSTR/)
 
 ## 元数据
 
-- **更新日期**: 2026-04-22
+- **更新日期**: 2026-04-23

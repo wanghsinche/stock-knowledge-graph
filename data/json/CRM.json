@@ -4,35 +4,18 @@
   "sector": "Technology",
   "industry": "Software - Application",
   "upstream": [
-    "AMZN",
-    "MSFT",
-    "GOOGL",
-    "ORCL",
-    "IBM"
+    "ExactTarget Inc"
   ],
-  "downstream": [
-    "AMZN",
-    "Coca‑Cola",
-    "Adidas",
-    "005930.KS",
-    "Toyota"
-  ],
-  "competitors": [
-    "MSFT",
-    "ORCL",
-    "SAP Sales Cloud",
-    "HubSpot",
-    "Zoho CRM"
-  ],
+  "downstream": [],
+  "competitors": [],
   "key_products": [
     "Sales Cloud",
     "Service Cloud",
-    "Marketing Cloud",
-    "Commerce Cloud",
-    "Einstein AI",
-    "Tableau"
+    "Marketing Automation",
+    "E-commerce",
+    "Analytics"
   ],
-  "extracted_at": "2026-04-22 16:59:08",
+  "extracted_at": "2026-04-23 17:13:33",
   "sources": [
     {
       "source": "Wikipedia",
@@ -42,27 +25,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Salesforce",
+      "url": "https://tr.wikipedia.org/wiki/Salesforce",
       "query": "Salesforce, Inc. suppliers manufacturers",
-      "snippet": "Salesforce , Inc ., is an American cloud -based software company headquartered in San Francisco, California. It provides applications focused on sales"
+      "snippet": "Salesforce merkezi San Francisco, Kaliforniya'da bulunan bir Amerikan bulut tabanlı yazılım şirketidir. Şirket müşteri ilişkileri yönetimi (CRM) hizme"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.salesforce.com/company/locations/",
+      "url": "https://www.salesforce.com/",
       "query": "Salesforce, Inc. suppliers manufacturers",
-      "snippet": "Salesforce has a worldwide presence. Browse our locations across the globe and see how we're changing AI and CRM in your country."
+      "snippet": "ExactTarget Inc ."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.salesforce.com/customer-stories/",
+      "url": "https://login.salesforce.com/sfc/",
       "query": "Salesforce, Inc. major customers clients",
-      "snippet": "Discover how Salesforce helps 150,000+ companies increase productivity, customer loyalty, and sales revenue — every day."
+      "snippet": "Go to Salesforce Trial Account Login page."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.thomsondata.com/customer-base/salesforce-crm.php",
+      "url": "https://www.technetexperts.com/salesforce-customer-success-stories/",
       "query": "Salesforce, Inc. major customers clients",
-      "snippet": "The Salesforce customers list is a complied contact database of companies using Salesforce CRM. The list includes email addresses, phone numbers, loca"
+      "snippet": "Top 10 Salesforce Customer Success Stories of Popular Organizations. Salesforce has numerous success stories from customers who have transformed their"
     }
   ]
 }

@@ -1,34 +1,34 @@
 ---
 ticker: NFLX
 company: Netflix, Inc.
-sector: Communication Services
-industry: Entertainment
-extracted_at: 2026-04-22 16:56:22
-last_updated: 2026-04-22
+sector: Communication Services / Entertainment
+industry: Streaming Media
+extracted_at: 2026-04-23 17:15:17
+last_updated: 2026-04-23
 ---
 
 # NFLX - Netflix, Inc.
 
 ## 基本信息
 
-- **所属行业**: Communication Services / Entertainment
-- **提取时间**: 2026-04-22 16:56:22
+- **所属行业**: Communication Services / Entertainment / Streaming Media
+- **提取时间**: 2026-04-23 17:15:17
 
 ## 产业链关系
 
 ### 上游供应商
-- [[SONY]]
+- [[Content production studios (e.g., Warner Bros., Disney, Universal)]]
+- [[Independent film and TV production companies]]
 - [[MSFT]]
-- [[Content delivery network providers (Akamai, Cloudflare)]]
-- [[AAPL]]
-- [[MSFT]]
+- [[Content licensing and distribution partners]]
+- [[Hardware manufacturers (e.g., smart TV, set‑top box makers)]]
 
 ### 下游客户
-- [[End‑user subscribers worldwide]]
-- [[005930.KS]]
-- [[AAPL]]
-- [[Mobile app users (iOS, Android)]]
-- [[Set‑top box users (Xfinity, Comcast)]]
+- [[Individual subscribers worldwide]]
+- [[Corporate and institutional accounts]]
+- [[Smart TV and streaming device users]]
+- [[Mobile app users]]
+- [[In‑home streaming services (e.g., cable, satellite providers)]]
 
 ### 竞争对手
 - [[Disney+]]
@@ -38,20 +38,20 @@ last_updated: 2026-04-22
 - [[AAPL]]
 
 ### 核心产品
-- [[Netflix streaming service]]
-- [[Netflix Originals (e.g., Stranger Things, The Crown)]]
-- [[Mobile and web apps]]
-- [[Subscription plans (Basic, Standard, Premium)]]
-- [[Content recommendation engine]]
+- [[Over‑the‑top (OTT) streaming service]]
+- [[Original series and films (Netflix Originals)]]
+- [[Licensed movies and TV shows]]
+- [[Mobile and web applications]]
+- [[Interactive content and gaming (in development)]]
 
 ## 数据来源
 
 - [Netflix, Inc.](https://en.wikipedia.org/wiki/Netflix,_Inc.)
-- [Netflix, Inc. suppliers manufacturers](https://npfp.netflixstudios.com/region/global/)
-- [Netflix, Inc. suppliers manufacturers](https://seriosity.com/what-companies-does-netflix-work-with/)
-- [Netflix, Inc. major customers clients](https://businessmodelanalyst.com/netflix-target-market/)
-- [Netflix, Inc. major customers clients](https://bstrategyhub.com/netflix-target-market/)
+- [Netflix, Inc. suppliers manufacturers](https://csimarket.com/stocks/NFLX-Suppliers)
+- [Netflix, Inc. suppliers manufacturers](https://www.netflix.com/?locale=en-US)
+- [Netflix, Inc. major customers clients](https://en.wikipedia.org/wiki/Reed_Hastings)
+- [Netflix, Inc. major customers clients](https://www.netflix.com/?locale=en-US)
 
 ## 元数据
 
-- **更新日期**: 2026-04-22
+- **更新日期**: 2026-04-23

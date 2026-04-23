@@ -1,13 +1,37 @@
 {
   "ticker": "VRT",
-  "company_name": "Vertiv Holdings Co",
+  "company_name": "Vertiv Holdings Co.",
   "sector": "Industrials",
   "industry": "Electrical Equipment & Parts",
-  "upstream": [],
-  "downstream": [],
-  "competitors": [],
-  "key_products": [],
-  "extracted_at": "2026-04-22 16:55:16",
+  "upstream": [
+    "Power distribution manufacturers",
+    "Cooling system suppliers",
+    "Data center infrastructure component makers",
+    "Electrical component suppliers",
+    "Networking equipment manufacturers"
+  ],
+  "downstream": [
+    "AMZN",
+    "GOOGL",
+    "MSFT",
+    "Telecom operators",
+    "Large enterprise data centers"
+  ],
+  "competitors": [
+    "Schneider Electric",
+    "Eaton",
+    "ABB",
+    "APC by Schneider",
+    "Rittal"
+  ],
+  "key_products": [
+    "Power distribution units",
+    "Cooling systems",
+    "Rack‑mount power supplies",
+    "Environmental monitoring",
+    "Data center infrastructure management software"
+  ],
+  "extracted_at": "2026-04-23 17:17:02",
   "sources": [
     {
       "source": "Wikipedia",
@@ -26,6 +50,18 @@
       "url": "https://partners.vertiv.com/English/directory",
       "query": "Vertiv Holdings Co suppliers manufacturers",
       "snippet": "Information and Product Security. Report a Security Concern. Corporate. About Vertiv ."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.appsruntheworld.com/customers-database/vendors/view/vertiv",
+      "query": "Vertiv Holdings Co major customers clients",
+      "snippet": "List of companies using or evaluating Vertiv applications, with details on their revenues, employees, industries, and locations."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/VRT-Customers",
+      "query": "Vertiv Holdings Co major customers clients",
+      "snippet": "1 day ago · For your research, we’ve provided 9 tables on Vertiv Holdings Co corporate clients . You can find them in the navigation menu under Custom"
     }
   ]
 }

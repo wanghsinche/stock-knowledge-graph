@@ -3,8 +3,8 @@ ticker: IBM
 company: International Business Machines Corporation
 sector: Technology
 industry: Information Technology Services
-extracted_at: 2026-03-16 17:01:47
-last_updated: 2026-03-16
+extracted_at: 2026-04-23 17:12:44
+last_updated: 2026-04-23
 ---
 
 # IBM - International Business Machines Corporation
@@ -12,7 +12,7 @@ last_updated: 2026-03-16
 ## 基本信息
 
 - **所属行业**: Technology / Information Technology Services
-- **提取时间**: 2026-03-16 17:01:47
+- **提取时间**: 2026-04-23 17:12:44
 
 ## 产业链关系
 
@@ -20,22 +20,22 @@ last_updated: 2026-03-16
 - [[INTC]]
 - [[AMD]]
 - [[NVDA]]
-- [[CSCO]]
-- [[MSFT]]
+- [[005930.KS]]
+- [[MU]]
 
 ### 下游客户
-- [[U.S. Federal Government]]
+- [[U.S. Department of Defense]]
+- [[NASA]]
+- [[United Nations]]
 - [[Bank of America]]
-- [[Walmart]]
-- [[General Electric]]
-- [[Coca‑Cola]]
+- [[JPMorgan Chase]]
 
 ### 竞争对手
-- [[Accenture]]
-- [[Deloitte]]
-- [[Capgemini]]
-- [[Tata Consultancy Services]]
-- [[Infosys]]
+- [[MSFT]]
+- [[AMZN]]
+- [[GOOGL]]
+- [[ORCL]]
+- [[SAP]]
 
 ### 核心产品
 - [[IBM Cloud]]
@@ -50,8 +50,8 @@ last_updated: 2026-03-16
 - [International Business Machines Corporation suppliers manufacturers](https://en.wikipedia.org/wiki/IBM)
 - [International Business Machines Corporation suppliers manufacturers](https://ru.wikipedia.org/wiki/IBM)
 - [International Business Machines Corporation major customers clients](https://en.wikipedia.org/wiki/IBM)
-- [International Business Machines Corporation major customers clients](https://csimarket.com/stocks/IBM-Customers)
+- [International Business Machines Corporation major customers clients](https://stocklight.com/stocks/us/nyse-ibm/international-business-machines/annual-reports/nyse-ibm-2025-10K-25663330.pdf)
 
 ## 元数据
 
-- **更新日期**: 2026-03-16
+- **更新日期**: 2026-04-23

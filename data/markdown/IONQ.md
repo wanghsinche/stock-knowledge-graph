@@ -2,56 +2,49 @@
 ticker: IONQ
 company: IonQ, Inc.
 sector: Technology
-industry: Computer Hardware
-extracted_at: 2026-04-22 17:00:20
-last_updated: 2026-04-22
+industry: Quantum Computing
+extracted_at: 2026-04-23 17:19:44
+last_updated: 2026-04-23
 ---
 
 # IONQ - IonQ, Inc.
 
 ## 基本信息
 
-- **所属行业**: Technology / Computer Hardware
-- **提取时间**: 2026-04-22 17:00:20
+- **所属行业**: Technology / Quantum Computing
+- **提取时间**: 2026-04-23 17:19:44
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Laser system suppliers]]
-- [[Vacuum system suppliers]]
-- [[Cryogenic equipment suppliers]]
-- [[Ion trap manufacturers]]
-- [[Quantum software vendors]]
+- [[Leading global automotive manufacturer]]
 
 ### 下游客户
-- [[Research institutions]]
-- [[Government agencies]]
-- [[Tech companies]]
-- [[Academic labs]]
-- [[Defense contractors]]
+- [[Enterprise customers]]
+- [[Cloud service providers]]
 
 ### 竞争对手
 - [[Rigetti Computing]]
 - [[D-Wave Systems]]
+- [[IBM]]
+- [[GOOGL]]
 - [[Honeywell Quantum Solutions]]
-- [[QuantumX]]
-- [[IonQ's competitor in quantum computing]]
 
 ### 核心产品
-- [[Trapped ion quantum processors]]
-- [[Quantum cloud platform]]
-- [[Quantum software stack]]
-- [[Quantum optimization software]]
-- [[Quantum simulation tools]]
+- [[Trapped ion quantum computers]]
+- [[Quantum software]]
+- [[Quantum cloud access]]
+- [[Quantum circuit optimization software]]
+- [[Quantum hardware]]
 
 ## 数据来源
 
 - [IonQ](https://en.wikipedia.org/wiki/IonQ,_Inc.)
-- [IonQ, Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/IonQ)
-- [IonQ, Inc. suppliers manufacturers](https://csimarket.com/stocks/IONQWS-Suppliers)
-- [IonQ, Inc. major customers clients](https://businessmodelcanvastemplate.com/blogs/target-market/ionq-target-market)
-- [IonQ, Inc. major customers clients](https://www.businesswire.com/news/home/20251119962639/en/IonQ-Only-Quantum-Company-in-2025-Deloitte-Technology-Fast-500-Grows-Revenue-Nearly-2000-in-3-years)
+- [IonQ, Inc. suppliers manufacturers](https://www.ionq.com/)
+- [IonQ, Inc. suppliers manufacturers](https://www.gurufocus.com/news/1457319/ionqs-leading-trappedion-quantum-hardware-now-available-on-google-cloud-marketplace)
+- [IonQ, Inc. major customers clients](https://www.ionq.com/)
+- [IonQ, Inc. major customers clients](https://www.cnbc.com/quotes/IONQ)
 
 ## 元数据
 
-- **更新日期**: 2026-04-22
+- **更新日期**: 2026-04-23

@@ -4,34 +4,34 @@
   "sector": "Financial Services",
   "industry": "Capital Markets",
   "upstream": [
-    "NVDA",
-    "AMD",
-    "DELL",
-    "HPQ",
-    "NetApp"
+    "Bloomberg",
+    "Thomson Reuters",
+    "AWS",
+    "MSFT",
+    "GOOGL"
   ],
   "downstream": [
-    "MSFT",
-    "AMZN",
-    "GOOGL",
-    "ORCL",
-    "IBM"
+    "Retail investors",
+    "Institutional investors",
+    "Corporate clients",
+    "Asset managers",
+    "Pension funds"
   ],
   "competitors": [
-    "Equinix",
-    "Digital Realty",
-    "CyrusOne",
-    "QTS",
-    "Rackspace"
+    "Interactive Brokers",
+    "Charles Schwab",
+    "Fidelity",
+    "TD Ameritrade",
+    "E*TRADE"
   ],
   "key_products": [
-    "Data center colocation",
-    "GPU‑accelerated computing",
-    "Edge computing services",
-    "Cloud connectivity",
-    "Managed services"
+    "Online brokerage platform",
+    "Investment advisory services",
+    "Wealth management",
+    "Capital markets services",
+    "Research & analytics"
   ],
-  "extracted_at": "2026-04-22 17:00:40",
+  "extracted_at": "2026-04-23 17:14:26",
   "sources": [
     {
       "source": "Wikipedia",
@@ -53,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/IREN-Customers",
+      "url": "https://www.nasdaq.com/market-activity/stocks/iren",
       "query": "IREN Limited major customers clients",
-      "snippet": "Apr 15, 2026 · For your research, we’ve provided 9 tables on Iren Limited corporate clients . You can find them in the navigation menu under Customers"
+      "snippet": "IREN Limited Plunges 23% in 3 Months: Time to Hold or Fold the Stock?Data Disclaimer: The Nasdaq Indices and the Major Indices are delayed at least 1 "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.msn.com/en-us/money/topstocks/irens-ai-client-base-expands-is-growth-becoming-more-durable/ar-AA1T5bT4",
+      "url": "https://www.tradingview.com/symbols/NASDAQ-IREN/forecast/",
       "query": "IREN Limited major customers clients",
-      "snippet": "Beyond the highly visible $9.7 billion Microsoft AI cloud agreement, the company has added several multi-year AI cloud customers , including Together "
+      "snippet": "IREN EPS for the last quarter is −0.52 USD despite the estimation of −0.11 USD. In the next quarter EPS is expected to reach −0.22 USD. Track more of "
     }
   ]
 }

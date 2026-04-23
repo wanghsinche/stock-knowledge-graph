@@ -1,37 +1,37 @@
 {
   "ticker": "GE",
-  "company_name": "General Electric Company",
+  "company_name": "General Electric Company (doing business as GE Aerospace)",
   "sector": "Industrials",
   "industry": "Aerospace & Defense",
   "upstream": [
-    "Aluminum and titanium alloy suppliers",
-    "Composite material manufacturers",
-    "High‑temperature ceramic producers",
-    "Electronic component suppliers (e.g., sensors, avionics)",
-    "Fuel and lubricants providers"
+    "Turbine blade manufacturers",
+    "Composite material suppliers",
+    "Electronic component suppliers",
+    "Fuel system suppliers",
+    "Control system suppliers"
   ],
   "downstream": [
-    "Commercial airlines (e.g., United, Delta, Lufthansa)",
-    "Major aircraft manufacturers (Boeing, Airbus)",
-    "Military operators (U.S. Air Force, Royal Air Force)",
-    "Regional airlines and charter operators",
-    "Maintenance, repair, and overhaul (MRO) providers"
+    "Boeing",
+    "Airbus",
+    "United Airlines",
+    "Delta Air Lines",
+    "U.S. Air Force"
   ],
   "competitors": [
     "Pratt & Whitney",
     "Rolls‑Royce",
     "Safran",
-    "Mitsubishi Heavy Industries",
-    "Honeywell Aerospace"
+    "MTU Aero Engines",
+    "Honeywell"
   ],
   "key_products": [
     "GE90 jet engine",
-    "GEnx family (including GEnx‑1B, GEnx‑2B)",
     "CF34 turbofan",
-    "CF6 turbofan",
-    "GE90‑115B high‑bypass engine"
+    "CF6 jet engine",
+    "T700 turboprop",
+    "F110 fighter jet engine"
   ],
-  "extracted_at": "2026-04-22 16:54:54",
+  "extracted_at": "2026-04-23 17:19:00",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,9 +47,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://supplier.geaerospace.com/",
+      "url": "https://www.geaerospace.com/",
       "query": "GE Aerospace suppliers manufacturers",
-      "snippet": "GE Aerospace supplier portal provides suppliers the ability to access information and enter business transactions in an online and secure environment."
+      "snippet": "2 days ago · GE Aerospace is a world-leading provider of jet and turboprop engines, as well as integrated systems for commercial, military, business a"
     },
     {
       "source": "DuckDuckGo",

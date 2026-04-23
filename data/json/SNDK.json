@@ -1,37 +1,37 @@
 {
   "ticker": "SNDK",
-  "company_name": "SanDisk Corporation",
+  "company_name": "Sandisk Corporation",
   "sector": "Technology / Computer Hardware",
-  "industry": "Computer Storage",
+  "industry": "Semiconductor / Flash Memory",
   "upstream": [
-    "005930.KS",
     "MU",
+    "005930.KS",
     "SK Hynix",
-    "Toshiba",
+    "Toshiba Memory",
     "WDC"
   ],
   "downstream": [
     "AAPL",
-    "MSFT",
     "DELL",
     "HPQ",
-    "AMZN"
+    "Lenovo Group",
+    "SONY"
   ],
   "competitors": [
-    "005930.KS",
+    "Kingston Technology",
     "MU",
-    "SK Hynix",
+    "005930.KS",
     "WDC",
-    "Kingston Technology"
+    "Lexar"
   ],
   "key_products": [
-    "Memory cards (SD, microSD)",
+    "SD memory cards",
+    "microSD cards",
     "USB flash drives",
-    "Solid-state drives (SSDs)",
-    "Enterprise SSDs",
-    "USB-C flash drives"
+    "solid-state drives (SSDs)",
+    "internal SSDs"
   ],
-  "extracted_at": "2026-04-22 16:50:02",
+  "extracted_at": "2026-04-23 17:11:00",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,15 +41,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/SanDisk",
+      "url": "https://en.wikipedia.org/wiki/Sandisk",
       "query": "Sandisk Corporation suppliers manufacturers",
       "snippet": "Sandisk Corporation (formerly branded SanDisk ) is an American multinational computer semiconductor company based in Milpitas, California, that design"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.sandisk.com/company/distributors",
+      "url": "https://ru.wikipedia.org/wiki/SanDisk",
       "query": "Sandisk Corporation suppliers manufacturers",
-      "snippet": "Find Sandisk Distributors & Resellers Purchase from your preferred Sandisk authorized partner."
+      "snippet": "SanDisk — американская корпорация, занимавшаяся разработкой и производством носителей информации на базе флеш-памяти. Корпорация была основана в 1988 "
     },
     {
       "source": "DuckDuckGo",

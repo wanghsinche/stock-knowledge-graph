@@ -1,12 +1,12 @@
 {
   "ticker": "BSX",
   "company_name": "Boston Scientific Corporation",
-  "sector": "Healthcare / Medical Devices",
-  "industry": "Medical Device Manufacturing",
+  "sector": "Healthcare",
+  "industry": "Medical Devices",
   "upstream": [
-    "Johnson & Johnson",
     "Medtronic",
     "Abbott Laboratories",
+    "Johnson & Johnson",
     "Stryker",
     "GE Healthcare"
   ],
@@ -14,24 +14,24 @@
     "Mayo Clinic",
     "Cleveland Clinic",
     "Johns Hopkins Hospital",
-    "UnitedHealth Group",
-    "Kaiser Permanente"
+    "Interventional Cardiology Departments",
+    "Major U.S. Hospital Systems"
   ],
   "competitors": [
     "Medtronic",
     "Abbott Laboratories",
+    "Johnson & Johnson (St. Jude Medical)",
     "Stryker",
-    "Johnson & Johnson (Ethicon)",
     "GE Healthcare"
   ],
   "key_products": [
-    "Pacemakers",
-    "Stents",
-    "Catheters",
-    "Electrophysiology mapping systems",
-    "Neurostimulators"
+    "Stents and Vascular Devices",
+    "Pacemakers and Cardiac Rhythm Management",
+    "Electrophysiology Catheters",
+    "Neurovascular Intervention Devices",
+    "Endoscopy Equipment"
   ],
-  "extracted_at": "2026-04-22 16:57:10",
+  "extracted_at": "2026-04-23 17:20:11",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,15 +41,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Boston_Scientific",
+      "url": "https://ru.wikipedia.org/wiki/Boston_Scientific",
       "query": "Boston Scientific Corporation suppliers manufacturers",
-      "snippet": "Boston Scientific Corporation (BSC) is an American biotechnology and biomedical engineering firm and multinational manufacturer of medical devices use"
+      "snippet": "Компания Boston Scientific Corporation — один из производителей медицинского оборудования и расходных материалов для хирургии, включая сердечно-сосуди"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.bostonscientific.com/en-US/supplier-resource-center.html",
+      "url": "https://www.drugwatch.com/manufacturers/boston-scientific/",
       "query": "Boston Scientific Corporation suppliers manufacturers",
-      "snippet": "The purpose of the Supplier Resource Center is to provide you with an overview of what we expect in our suppliers . If, after reviewing this informati"
+      "snippet": "Boston Scientific is a leading device maker that has endured financial and legal troubles, including lawsuits over transvaginal mesh. Boston Scientifi"
     },
     {
       "source": "DuckDuckGo",
@@ -59,7 +59,7 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.bostonscientific.com/content/dam/bostonscientific/corporate/annual-report/2024-annual-report-and-10-K.pdf.coredownload.pdf",
+      "url": "https://www.bostonscientific.com/content/dam/bostonscientific/corporate/annual-report/2025-Boston-Scientific-Annual-Report.pdf.coredownload.pdf",
       "query": "Boston Scientific Corporation major customers clients",
       "snippet": "Boston Scientific devices and therapies help physicians diagnose and treat complex cardiovascular, respiratory, digestive, oncological, neurological a"
     }

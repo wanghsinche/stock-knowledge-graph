@@ -3,8 +3,8 @@ ticker: OKLO
 company: Oklo Inc.
 sector: Utilities
 industry: Utilities - Independent Power Producers
-extracted_at: 2026-04-17 16:50:09
-last_updated: 2026-04-17
+extracted_at: 2026-04-23 17:14:49
+last_updated: 2026-04-23
 ---
 
 # OKLO - Oklo Inc.
@@ -12,46 +12,46 @@ last_updated: 2026-04-17
 ## 基本信息
 
 - **所属行业**: Utilities / Utilities - Independent Power Producers
-- **提取时间**: 2026-04-17 16:50:09
+- **提取时间**: 2026-04-23 17:14:49
 
 ## 产业链关系
 
 ### 上游供应商
 - [[Nuclear fuel suppliers]]
+- [[Reactor component manufacturers]]
+- [[Materials suppliers (steel, alloys, ceramics)]]
+- [[Engineering and construction firms]]
 - [[CAT]]
-- [[Materials suppliers (uranium, zirconium)]]
-- [[Component manufacturers (reactor parts)]]
-- [[Engineering and design contractors]]
 
 ### 下游客户
-- [[Electric utilities]]
-- [[Energy companies]]
-- [[Government agencies (DOE)]]
+- [[Utility companies]]
+- [[Government agencies and national grids]]
 - [[Industrial power users]]
-- [[Power purchasers]]
+- [[Energy producers and developers]]
+- [[Research and academic institutions]]
 
 ### 竞争对手
-- [[NuScale Power]]
 - [[TerraPower]]
-- [[Westinghouse]]
-- [[GE Hitachi Nuclear Energy]]
-- [[Mosaic Power]]
+- [[NuScale Power]]
+- [[Helion Energy]]
+- [[Commonwealth Fusion Systems]]
+- [[FirstEnergy]]
 
 ### 核心产品
-- [[Advanced nuclear reactors]]
-- [[Fast‑fission power plants]]
-- [[Small modular reactors (SMRs)]]
-- [[Nuclear microreactors]]
-- [[Nuclear fuel recycling facility]]
+- [[Advanced fast-fission nuclear reactors]]
+- [[Nuclear fuel assemblies]]
+- [[Reactor design and engineering services]]
+- [[Nuclear power plant solutions]]
+- [[Nuclear technology consulting]]
 
 ## 数据来源
 
 - [Oklo Inc.](https://en.wikipedia.org/wiki/Oklo_Inc.)
-- [Oklo Inc. suppliers manufacturers](https://oklo.com/fuel-recycling/default.aspx)
-- [Oklo Inc. suppliers manufacturers](https://www.linkedin.com/company/oklo)
-- [Oklo Inc. major customers clients](https://www.fool.com/investing/2026/04/12/millionaire-maker-or-market-hype-truth-oklo/)
-- [Oklo Inc. major customers clients](https://startupsunion.com/oklo-titlehow-oklo-makes-money-advanced-nuclear-energy-business-model-growth-strategy/)
+- [Oklo Inc. suppliers manufacturers](https://oklo.com/overview/default.aspx)
+- [Oklo Inc. suppliers manufacturers](https://csimarket.com/stocks/OKLO-Suppliers)
+- [Oklo Inc. major customers clients](https://csimarket.com/stocks/OKLO-Customers)
+- [Oklo Inc. major customers clients](https://oklo.com/investors/overview/default.aspx)
 
 ## 元数据
 
-- **更新日期**: 2026-04-17
+- **更新日期**: 2026-04-23

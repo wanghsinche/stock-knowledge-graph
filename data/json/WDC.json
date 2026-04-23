@@ -1,37 +1,37 @@
 {
   "ticker": "WDC",
   "company_name": "Western Digital Corporation",
-  "sector": "Technology",
-  "industry": "Computer Hardware",
+  "sector": "Technology / Computer Hardware",
+  "industry": "Data Storage",
   "upstream": [
     "005930.KS",
     "MU",
     "SK Hynix",
-    "TDK Corporation",
-    "Toshiba Corporation"
+    "Toshiba",
+    "WDC"
   ],
   "downstream": [
-    "DELL",
-    "HPQ",
-    "Lenovo Group",
+    "AAPL",
+    "MSFT",
     "AMZN",
-    "MSFT"
+    "GOOGL",
+    "DELL"
   ],
   "competitors": [
     "STX",
-    "Toshiba Corporation",
+    "Toshiba",
     "005930.KS",
     "MU",
-    "SK Hynix"
+    "HGST"
   ],
   "key_products": [
-    "3.5\" HDD",
-    "2.5\" HDD",
-    "External HDD",
-    "SSD",
-    "Enterprise storage solutions"
+    "Hard Disk Drives (HDDs)",
+    "Solid State Drives (SSDs)",
+    "Enterprise Storage Solutions",
+    "Data Center Storage",
+    "External Hard Drives"
   ],
-  "extracted_at": "2026-04-22 16:56:55",
+  "extracted_at": "2026-04-23 17:15:05",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,25 +43,25 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Western_Digital",
       "query": "Western Digital Corporation suppliers manufacturers",
-      "snippet": "Western Digital Corporation , doing business as WD, is an American data storage company headquartered in San Jose, California. Established in 1970, th"
+      "snippet": "Western Digital Corporation , doing business as WD , is an American data storage company headquartered in San Jose, California. Established in 1970, t"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.westerndigital.com/company/office-locations",
+      "url": "https://www.tipranks.com/news/article/western-digital-is-an-attractive-company",
       "query": "Western Digital Corporation suppliers manufacturers",
-      "snippet": "Western Digital delivers innovative storage solutions—HDDs, systems & personal data storage—powering innovation, reliability & future-ready performanc"
+      "snippet": "Western Digital Corporation (WDC) is a leading American company focusing on Data Infrastructure, Computer Disk Drive Manufacturing , and Data Storage."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/WDC-Customers",
+      "url": "https://en.wikipedia.org/wiki/Western_Digital",
       "query": "Western Digital Corporation major customers clients",
-      "snippet": "For your research, we’ve provided 9 tables on Western Digital Corporation corporate clients . You can find them in the navigation menu under Customers"
+      "snippet": "Western Digital Corporation , doing business as WD , is an American data storage company headquartered in San Jose, California. Established in 1970, t"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.readycontacts.com/target-account-profiling/western-digital/",
+      "url": "https://en.vidabytes.com/Western-Digital-will-run-out-of-hard-drives-by-2026-due-to-AI-pressure/",
       "query": "Western Digital Corporation major customers clients",
-      "snippet": "Western Digital is a leading data storage company that develops, manufactures, and provides data technology products, including hard disk drives and s"
+      "snippet": "Western Digital has committed its entire hard drive production for 2026 to seven major enterprise customers .Distributors must compete with each other"
     }
   ]
 }

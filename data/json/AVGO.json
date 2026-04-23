@@ -4,34 +4,34 @@
   "sector": "Technology",
   "industry": "Semiconductors",
   "upstream": [
-    "TSM",
-    "005930.KS",
-    "ASE Technology Holding",
+    "AMAT",
+    "ASML",
     "LRCX",
-    "AMAT"
+    "Tokyo Electron",
+    "KLA"
   ],
   "downstream": [
-    "005930.KS",
-    "AAPL",
     "CSCO",
     "DELL",
-    "HPQ"
+    "AMZN",
+    "MSFT",
+    "AAPL"
   ],
   "competitors": [
-    "QCOM",
     "INTC",
+    "QCOM",
     "NVDA",
     "TXN",
-    "MU"
+    "AMD"
   ],
   "key_products": [
-    "Wireless communication chips",
-    "Broadband and networking chips",
-    "Storage controller chips",
-    "Data center processors",
-    "Industrial semiconductor solutions"
+    "Broadcom BCM series Ethernet controllers",
+    "Broadcom Wi‑Fi chips",
+    "Broadcom storage controllers",
+    "Broadcom broadband modems",
+    "Broadcom RF transceivers"
   ],
-  "extracted_at": "2026-04-22 16:51:02",
+  "extracted_at": "2026-04-23 17:12:09",
   "sources": [
     {
       "source": "Wikipedia",
@@ -53,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/AVGO-Customers",
+      "url": "https://www.broadcom.com/",
       "query": "Broadcom Inc. major customers clients",
-      "snippet": "Sales to our five largest customers represented 48.3%. Sales to Samsung represented 21.3%. Sales to Apple represented 13.3%."
+      "snippet": "Broadcom delivers semiconductors and infrastructure software for global enterprises’ most complex, mission-critical needs."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.broadcom.com/case-studies",
+      "url": "https://www.ainvest.com/news/broadcom-valuation-overvalued-ai-partnership-record-growth-2509/",
       "query": "Broadcom Inc. major customers clients",
-      "snippet": "A large national bank modernized its enterprise reporting environment through Broadcom ’s no-cost Win-No-Fee Program. Broadcom solutions empower our c"
+      "snippet": "Broadcom Inc . (AVGO) has announced a strategic partnership with OpenAI to develop advanced AI chips, marking a significant milestone in its AI semico"
     }
   ]
 }
