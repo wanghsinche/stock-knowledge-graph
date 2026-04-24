@@ -6,16 +6,16 @@
   "upstream": [
     "TSM",
     "005930.KS",
-    "GlobalFoundries",
-    "ASE Technology Holding",
-    "Amkor Technology"
+    "MU",
+    "SK Hynix",
+    "ASE Technology Holding"
   ],
   "downstream": [
-    "SONY",
     "MSFT",
+    "SONY",
+    "DELL",
     "AMZN",
-    "TSLA",
-    "GOOGL"
+    "TSLA"
   ],
   "competitors": [
     "AMD",
@@ -26,12 +26,12 @@
   ],
   "key_products": [
     "GeForce RTX GPUs",
-    "Tesla V100 GPUs",
-    "DGX A100 systems",
-    "NVIDIA DRIVE automotive platform",
-    "CUDA software platform"
+    "Quadro/RTX GPUs for workstations",
+    "NVIDIA Tesla GPUs for AI/HPC",
+    "Tegra SoCs for mobile/automotive",
+    "NVIDIA Drive platform for autonomous vehicles"
   ],
-  "extracted_at": "2026-04-23 17:10:14",
+  "extracted_at": "2026-04-24 16:44:20",
   "sources": [
     {
       "source": "Wikipedia",
@@ -53,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://stocksandfuturestrading.com/the-complete-list-of-nvidias-suppliers-and-consumers/",
+      "url": "https://en.wikipedia.org/wiki/Nvidia",
       "query": "NVIDIA Corporation major customers clients",
-      "snippet": "Nov 22, 2024 · NVIDIA has completed one of the most dramatic business transformations in market history — going from a gaming GPU company to the backb"
+      "snippet": "Nvidia Corporation . Show white logotype.On December 18, 2025, Nvidia announced plans to build a major new research and development campus in Kiryat T"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.fool.com/investing/2025/06/26/who-are-nvidias-biggest-customers/",
+      "url": "https://www.nvidia.com/en-us/",
       "query": "NVIDIA Corporation major customers clients",
-      "snippet": "Jun 26, 2025 · Who Are Nvidia 's Biggest Customers ? Nvidia supplies the most powerful data center chips in the world for artificial intelligence (AI)"
+      "snippet": "NVIDIA invents the GPU and drives advances in AI, HPC, gaming, creative design, autonomous vehicles, and robotics."
     }
   ]
 }

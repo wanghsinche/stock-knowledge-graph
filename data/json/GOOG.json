@@ -4,18 +4,18 @@
   "sector": "Communication Services",
   "industry": "Internet Content & Information",
   "upstream": [
-    "TSM",
     "INTC",
     "NVDA",
     "QCOM",
-    "005930.KS"
+    "005930.KS",
+    "TSM"
   ],
   "downstream": [
     "GOOGL",
     "Android device manufacturers",
-    "YouTube content creators",
     "GOOGL",
-    "GOOGL"
+    "YouTube creators",
+    "App developers"
   ],
   "competitors": [
     "MSFT",
@@ -26,12 +26,12 @@
   ],
   "key_products": [
     "Google Search",
-    "YouTube",
-    "Google Cloud Platform",
     "Android OS",
+    "Google Cloud Platform",
+    "YouTube",
     "Google Ads"
   ],
-  "extracted_at": "2026-04-23 17:13:57",
+  "extracted_at": "2026-04-24 16:46:23",
   "sources": [
     {
       "source": "Wikipedia",
@@ -49,19 +49,19 @@
       "source": "DuckDuckGo",
       "url": "https://csimarket.com/stocks/GOOG-Suppliers",
       "query": "Alphabet Inc. suppliers manufacturers",
-      "snippet": "Alphabet Inc supply chain, list and performance of Alphabet Incs ' suppliers - CSIMarket."
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.sec.gov/Archives/edgar/data/1652044/000130817925000513/goog012714-ars.pdf",
-      "query": "Alphabet Inc. major customers clients",
-      "snippet": "We continue this work under the leadership of Alphabet and Google CEO, Sundar Pichai. Alphabet is a collection of businesses — the largest of which is"
+      "snippet": "Feb 6, 2026 · Alphabet Inc 's Comment on Supply Chain We rely on third parties to manufacture many of our assemblies and finished products, and we hav"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://csimarket.com/stocks/GOOGL-Customers",
       "query": "Alphabet Inc. major customers clients",
-      "snippet": "Feb 9, 2026 · Updated on: Focus of this report: Alphabet Inc ’s corporate clients . For your research, we’ve provided 9 tables on Alphabet Inc corpora"
+      "snippet": "Feb 9, 2026 · Alphabet Inc customers and markets, results by customer and performance relative to GOOGL, by company and industry - CSIMarket"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://portersfiveforce.com/blogs/target-market/abc",
+      "query": "Alphabet Inc. major customers clients",
+      "snippet": "Nov 10, 2025 · Understand the target market for Alphabet 's cloud computing services. Discover how it serves businesses of all sizes with scalable sol"
     }
   ]
 }

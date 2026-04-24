@@ -1,37 +1,37 @@
 {
   "ticker": "APP",
   "company_name": "AppLovin Corporation",
-  "sector": "Communication Services",
-  "industry": "Advertising Agencies",
+  "sector": "Communication Services / Advertising Agencies",
+  "industry": "Mobile Advertising",
   "upstream": [
-    "Mobile app developers",
-    "Data analytics providers",
-    "Digital media vendors",
-    "Technology hardware suppliers",
-    "Cloud infrastructure providers"
+    "Hardware manufacturers (smartphone OEMs)",
+    "Software platform providers (Android, iOS)",
+    "Data analytics vendors",
+    "Cloud infrastructure providers",
+    "Marketing technology partners"
   ],
   "downstream": [
-    "Mobile app publishers",
-    "Gaming companies",
-    "E‑commerce brands",
-    "Social media platforms",
-    "Video streaming services"
+    "Mobile app developers",
+    "Game publishers",
+    "Content creators",
+    "E‑commerce app operators",
+    "Social media platforms"
   ],
   "competitors": [
     "Unity Ads",
-    "GOOGL",
-    "Facebook Audience Network",
-    "TikTok Ads",
-    "Snapchat Ads"
+    "AdColony",
+    "Vungle",
+    "IronSource",
+    "Chartboost"
   ],
   "key_products": [
-    "AppLovin SDK",
-    "AppLovin Marketing Platform",
-    "Max (ad mediation)",
-    "AppLovin Mobile Advertising Solutions",
-    "AppLovin Data Analytics"
+    "In‑app advertising platform",
+    "Rewarded video ads",
+    "Video ad solutions",
+    "App monetization tools",
+    "Marketing analytics dashboard"
   ],
-  "extracted_at": "2026-04-20 17:03:02",
+  "extracted_at": "2026-04-24 16:51:24",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/AppLovin",
-      "query": "AppLovin Corporation suppliers manufacturers",
-      "snippet": "On April 15, 2021, AppLovin became a public company, trading on the Nasdaq under the ticker APP; it began trading at US$70 per share, with a total val"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/APP-Suppliers",
-      "query": "AppLovin Corporation suppliers manufacturers",
-      "snippet": "For your research, we’ve provided nine additional tables on Applovin Corporation ’ s suppliers . You can find them in the navigation menu under Suppli"
-    },
-    {
-      "source": "DuckDuckGo",
       "url": "https://www.applovin.com/",
-      "query": "AppLovin Corporation major customers clients",
-      "snippet": "AppLovin enables businesses to advertise profitably with marketing technologies that attract customers , increase revenue, and track ad performance."
+      "query": "AppLovin Corporation suppliers manufacturers",
+      "snippet": "AppLovin enables businesses to advertise profitably with marketing technologies that attract customers, increase revenue, and track ad performance."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-discusses-applovin-light-133947813.html",
+      "url": "https://www.insidermonkey.com/blog/should-you-be-constructive-on-applovin-corps-app-long-term-trajectory-1741818/",
+      "query": "AppLovin Corporation suppliers manufacturers",
+      "snippet": "AppLovin Corporation (NASDAQ:APP) is a mobile technology company specializing in developing software-based platforms for advertisers to enhance the ma"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/AppLovin",
       "query": "AppLovin Corporation major customers clients",
-      "snippet": "AppLovin Corporation (NASDAQ:APP) provides a software platform that helps advertisers and app developers market and monetize their content. The compan"
+      "snippet": "AppLovin Corporation is an American mobile technology company headquartered in Palo Alto, California. [3] Founded in 2012, the company helps developer"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/APP-Customers",
+      "query": "AppLovin Corporation major customers clients",
+      "snippet": "The fiscal landscape for AppLovin Corporation has shown some contrasting trends. In the fourth quarter of 2024, AppLovin s corporate customers experie"
     }
   ]
 }

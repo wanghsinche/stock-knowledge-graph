@@ -4,18 +4,18 @@
   "sector": "Communication Services",
   "industry": "Internet Content & Information",
   "upstream": [
-    "AMZN",
-    "MSFT",
-    "GOOGL",
-    "AAPL",
-    "AT&T (network infrastructure)"
+    "DELL",
+    "HPQ",
+    "CSCO",
+    "NVDA",
+    "AMD"
   ],
   "downstream": [
-    "Advertisers (large brands and agencies)",
-    "META",
-    "META",
-    "Content creators on Facebook, Instagram, and WhatsApp",
-    "Media partners for live streaming"
+    "Advertisers (B2B)",
+    "App developers",
+    "Content creators",
+    "E‑commerce merchants",
+    "Media partners"
   ],
   "competitors": [
     "GOOGL",
@@ -29,9 +29,9 @@
     "Instagram",
     "WhatsApp",
     "Messenger",
-    "Meta Ads Platform"
+    "Threads"
   ],
-  "extracted_at": "2026-04-23 17:13:05",
+  "extracted_at": "2026-04-24 16:45:44",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,15 +41,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Meta_Platforms",
+      "url": "https://csimarket.com/stocks/META-Suppliers",
       "query": "Meta Platforms, Inc. suppliers manufacturers",
-      "snippet": "Meta owns and operates several prominent social media platforms and communication services, including Facebook, Instagram, WhatsApp, Messenger, Thread"
+      "snippet": "Mar 3, 2026 · Meta Platforms Inc 's Suppliers recorded an increase in sales by 4.8 % year on year in Q4 2025, sequentially sales grew by 531.1 %, Meta"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/META-Suppliers",
+      "url": "https://www.meta.com/about/",
       "query": "Meta Platforms, Inc. suppliers manufacturers",
-      "snippet": "Mar 3, 2026 · Meta Platforms Inc supply chain, list and performance of Meta Platforms Incs ' suppliers - CSIMarket"
+      "snippet": "Learn more about Meta and stay updated on our role in social technology, virtual reality, augmented reality, and the future of human connection."
     },
     {
       "source": "DuckDuckGo",
@@ -61,7 +61,7 @@
       "source": "DuckDuckGo",
       "url": "https://csimarket.com/stocks/META-Customers",
       "query": "Meta Platforms, Inc. major customers clients",
-      "snippet": "For your research, we’ve provided 9 tables on Meta Platforms Inc corporate clients . You can find them in the navigation menu under Customers & Market"
+      "snippet": "Meta Platforms Inc 's Comment on Sales, Marketing and Customers The majority of our marketers use our self-service ad platform to establish accounts a"
     }
   ]
 }

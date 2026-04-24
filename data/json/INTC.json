@@ -4,16 +4,16 @@
   "sector": "Technology",
   "industry": "Semiconductors",
   "upstream": [
-    "TSM",
-    "005930.KS",
-    "GlobalFoundries",
-    "UMC",
-    "Shin-Etsu Chemical"
+    "AMAT",
+    "LRCX",
+    "ASML",
+    "Tokyo Electron",
+    "KLA"
   ],
   "downstream": [
     "DELL",
+    "Lenovo",
     "HPQ",
-    "Lenovo Group",
     "AAPL",
     "MSFT"
   ],
@@ -22,7 +22,7 @@
     "NVDA",
     "QCOM",
     "AVGO",
-    "MU"
+    "005930.KS"
   ],
   "key_products": [
     "Intel Core CPUs",
@@ -31,7 +31,7 @@
     "Intel FPGAs",
     "Intel AI accelerators"
   ],
-  "extracted_at": "2026-04-23 17:11:46",
+  "extracted_at": "2026-04-24 16:44:38",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/List_of_Intel_manufacturing_sites",
+      "url": "https://en.wikipedia.org/wiki/Intel",
       "query": "Intel Corporation suppliers manufacturers",
-      "snippet": "Intel is an American multinational corporation and technology company headquartered in Santa Clara, California. Processors are manufactured in semicon"
+      "snippet": "11 hours ago - Until then, the manufacture of complex integrated circuits was not reliable enough for customers to depend on a single supplier, but Gr"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.intel.com/content/www/us/en/supplier/overview.html",
       "query": "Intel Corporation suppliers manufacturers",
-      "snippet": "Enter here for the most current announcements, guides, forms, information on technology, accounts payable, and training to effectively work as an Inte"
+      "snippet": "Intel is working to continuously improve transparency and promote corporate responsibility throughout the global electronics supply chain. ... Click h"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Intel",
       "query": "Intel Corporation major customers clients",
-      "snippet": "Intel Corporation is an American multinational technology company headquartered in Santa Clara, California. It designs, manufactures, and sells comput"
+      "snippet": "11 hours ago - General Manager of Intel's custom foundry division Sunit Rikhi indicated that Intel would pursue further such deals in the future. This"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/sectors/technology/articles/intel-lands-key-first-customer-for-14a-chip-tech-with-teslas-terafab-project-musk-says-222942947.html",
+      "url": "https://www.investopedia.com/articles/markets/100214/inside-intel-look-mega-chipmaker.asp",
       "query": "Intel Corporation major customers clients",
-      "snippet": "The contract would mark Intel 's first major customer for the technology, a breakthrough for the chipmaker which has struggled to stand up its contrac"
+      "snippet": "October 2, 2014 - Intel's main customers include Dell, Lenovo, and HP . Never has a corporation done so much with so little. Founded in Mountain View,"
     }
   ]
 }

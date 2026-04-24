@@ -4,34 +4,34 @@
   "sector": "Technology",
   "industry": "Semiconductors",
   "upstream": [
-    "AMAT",
-    "ASML",
-    "LRCX",
-    "Tokyo Electron",
-    "KLA"
+    "TSM",
+    "005930.KS",
+    "GlobalFoundries",
+    "UMC",
+    "SMIC"
   ],
   "downstream": [
     "CSCO",
     "DELL",
-    "AMZN",
-    "MSFT",
-    "AAPL"
+    "HPQ",
+    "IBM",
+    "AMZN"
   ],
   "competitors": [
-    "INTC",
     "QCOM",
+    "INTC",
     "NVDA",
     "TXN",
-    "AMD"
+    "MRVL"
   ],
   "key_products": [
-    "Broadcom BCM series Ethernet controllers",
-    "Broadcom Wi‑Fi chips",
+    "Wi‑Fi and Bluetooth chips",
+    "Ethernet controllers",
+    "Broadcom 802.11 wireless modules",
     "Broadcom storage controllers",
-    "Broadcom broadband modems",
-    "Broadcom RF transceivers"
+    "Broadcom networking switches"
   ],
-  "extracted_at": "2026-04-23 17:12:09",
+  "extracted_at": "2026-04-24 16:45:34",
   "sources": [
     {
       "source": "Wikipedia",
@@ -49,19 +49,19 @@
       "source": "DuckDuckGo",
       "url": "https://www.broadcom.com/how-to-buy/partner-distributor-lookup",
       "query": "Broadcom Inc. suppliers manufacturers",
-      "snippet": "The Partner Locator will help you find the local expertise you need to be successful with Broadcom solutions. Begin searching by typing what you're lo"
+      "snippet": "Find a local reseller or global distributor of every Broadcom software solution for your business or enterprise, spanning the desktop to the Mainframe"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.broadcom.com/",
+      "url": "https://en.wikipedia.org/wiki/Broadcom",
       "query": "Broadcom Inc. major customers clients",
-      "snippet": "Broadcom delivers semiconductors and infrastructure software for global enterprises’ most complex, mission-critical needs."
+      "snippet": "The Vanguard Group (10.03%) · BlackRock (7.63%) · Capital World Investors (4.53%) · Capital International Investors (4.04%) · State Street Corporation"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.ainvest.com/news/broadcom-valuation-overvalued-ai-partnership-record-growth-2509/",
+      "url": "https://www.broadcom.com/case-studies",
       "query": "Broadcom Inc. major customers clients",
-      "snippet": "Broadcom Inc . (AVGO) has announced a strategic partnership with OpenAI to develop advanced AI chips, marking a significant milestone in its AI semico"
+      "snippet": "Broadcom solutions empower our customers success. Power your future with Broadcom."
     }
   ]
 }

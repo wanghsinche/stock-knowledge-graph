@@ -1,57 +1,57 @@
 ---
 ticker: GE
-company: General Electric Company (doing business as GE Aerospace)
+company: General Electric Company
 sector: Industrials
 industry: Aerospace & Defense
-extracted_at: 2026-04-23 17:19:00
-last_updated: 2026-04-23
+extracted_at: 2026-04-24 16:49:29
+last_updated: 2026-04-24
 ---
 
-# GE - General Electric Company (doing business as GE Aerospace)
+# GE - General Electric Company
 
 ## 基本信息
 
 - **所属行业**: Industrials / Aerospace & Defense
-- **提取时间**: 2026-04-23 17:19:00
+- **提取时间**: 2026-04-24 16:49:29
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Turbine blade manufacturers]]
-- [[Composite material suppliers]]
-- [[Electronic component suppliers]]
-- [[Fuel system suppliers]]
-- [[Control system suppliers]]
+- [[Alcoa]]
+- [[TiCo]]
+- [[Honeywell]]
+- [[Pratt & Whitney]]
+- [[Composite Materials Inc.]]
 
 ### 下游客户
-- [[Boeing]]
-- [[Airbus]]
 - [[United Airlines]]
 - [[Delta Air Lines]]
-- [[U.S. Air Force]]
+- [[American Airlines]]
+- [[Lufthansa]]
+- [[Emirates]]
 
 ### 竞争对手
-- [[Pratt & Whitney]]
+- [[Boeing]]
 - [[Rolls‑Royce]]
 - [[Safran]]
+- [[Pratt & Whitney]]
 - [[MTU Aero Engines]]
-- [[Honeywell]]
 
 ### 核心产品
-- [[GE90 jet engine]]
-- [[CF34 turbofan]]
-- [[CF6 jet engine]]
-- [[T700 turboprop]]
-- [[F110 fighter jet engine]]
+- [[GE90]]
+- [[GE CF6]]
+- [[GE CF34]]
+- [[GE T700]]
+- [[GE T800]]
 
 ## 数据来源
 
 - [GE Aerospace](https://en.wikipedia.org/wiki/GE_Aerospace)
 - [GE Aerospace suppliers manufacturers](https://en.wikipedia.org/wiki/GE_Aerospace)
-- [GE Aerospace suppliers manufacturers](https://www.geaerospace.com/)
+- [GE Aerospace suppliers manufacturers](https://supplier.geaerospace.com/)
 - [GE Aerospace major customers clients](https://en.wikipedia.org/wiki/GE_Aerospace)
-- [GE Aerospace major customers clients](https://www.geaerospace.com/news/articles/midyear-musings-insights-our-customers)
+- [GE Aerospace major customers clients](https://matrixbcg.com/blogs/target-market/geaerospace)
 
 ## 元数据
 
-- **更新日期**: 2026-04-23
+- **更新日期**: 2026-04-24

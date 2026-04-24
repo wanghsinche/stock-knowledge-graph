@@ -4,34 +4,35 @@
   "sector": "Consumer Cyclical",
   "industry": "Internet Retail",
   "upstream": [
-    "Consumer goods manufacturers",
-    "Electronics and appliance suppliers",
-    "Apparel and fashion producers",
-    "Home goods and furniture makers",
-    "Packaging and logistics equipment suppliers"
+    "AAPL",
+    "Third‑party sellers",
+    "OEMs and contract manufacturers",
+    "Supplier logistics partners",
+    "Digital content creators"
   ],
   "downstream": [
-    "Retail consumers worldwide",
     "AMZN",
+    "AWS enterprise clients",
     "AMZN",
-    "AMZN",
+    "Prime members",
     "AMZN"
   ],
   "competitors": [
     "Walmart",
+    "Alibaba",
     "eBay",
-    "Alibaba Group",
     "Shopify",
     "Target"
   ],
   "key_products": [
-    "Amazon.com e‑commerce marketplace",
-    "Amazon Prime subscription services",
+    "Amazon e‑commerce marketplace",
     "Amazon Web Services (cloud computing)",
-    "Amazon Echo/Alexa smart‑home devices",
-    "Amazon Kindle e‑readers and Fire tablets"
+    "Amazon Prime subscription services",
+    "Amazon Advertising platform",
+    "Amazon Devices (Echo, Kindle, Fire)",
+    "Digital streaming services (Amazon Music, Prime Video)"
   ],
-  "extracted_at": "2026-04-23 17:11:21",
+  "extracted_at": "2026-04-24 16:45:15",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +42,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.ecomdepotwholesale.com/post/list-of-amazon-authorized-suppliers-for-2024-the-complete-guide-to-finding-verified-suppliers",
+      "url": "https://www.alibaba.com/",
       "query": "Amazon.com, Inc. suppliers manufacturers",
-      "snippet": "Oct 21, 2024 · To ensure your success, we've put together a list of Amazon authorized suppliers for 2024. These verified suppliers understand Amazon's"
+      "snippet": "Find quality Manufacturers , Suppliers , Exporters, Importers, Buyers, Wholesalers, Products and Trade Leads from our award-winning International Trad"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://d39w7f4ix9f5s9.cloudfront.net/cb/19/77dfc5b441c892cd6e2be166ba70/final-amazon-supplier-list-2019-11-14-updated-1005am.pdf",
+      "url": "https://www.amazon.com/home-garden-kitchen-furniture-bedding/b?ie=UTF8&node=1055398",
       "query": "Amazon.com, Inc. suppliers manufacturers",
-      "snippet": "Nov 14, 2019 · Our global teams work closely with suppliers to communicate our standards, and help suppliers build their capacity to provide safe and "
+      "snippet": "Shop a wide selection of products for your home at Amazon . com . Free shipping and free returns on eligible items."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://us.amazon.com/",
+      "url": "https://en.wikipedia.org/wiki/Amazon_Web_Services",
       "query": "Amazon.com, Inc. major customers clients",
-      "snippet": "Peet's Coffee, Dark Roast Keurig K-Cup Pods, 100% Arabica Coffee - Major Dickason's Blend 75 Count (1 Box of 75 Pods). Viva Signature Cloth Paper Towe"
+      "snippet": "1 week ago - Multiple financial services firms have shifted to AWS in some form. Notable customers include NASA and the Obama presidential campaign of"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ir.aboutamazon.com/",
+      "url": "https://en.wikipedia.org/wiki/Amazon_(company)",
       "query": "Amazon.com, Inc. major customers clients",
-      "snippet": "The Spheres. Select awards and recognition. Amazon . com Conditions of Use © 1996- Amazon . com , Inc . - IR or its affiliates."
+      "snippet": "3 days ago - Amazon Flex, a smartphone app that enables individuals to act as independent contractors, delivering packages to customers from personal "
     }
   ]
 }

@@ -3,11 +3,35 @@
   "company_name": "Lumentum Holdings Inc.",
   "sector": "Technology",
   "industry": "Communication Equipment",
-  "upstream": [],
-  "downstream": [],
-  "competitors": [],
-  "key_products": [],
-  "extracted_at": "2026-04-23 17:14:13",
+  "upstream": [
+    "Semiconductor materials suppliers",
+    "Optical fiber manufacturers",
+    "Laser diode manufacturers",
+    "Photonic integrated circuit foundries",
+    "Precision optics suppliers"
+  ],
+  "downstream": [
+    "CSCO",
+    "DELL",
+    "TSLA",
+    "Medical device manufacturers (e.g., Medtronic)",
+    "Defense contractors (e.g., Raytheon)"
+  ],
+  "competitors": [
+    "Coherent Inc.",
+    "II-VI Incorporated",
+    "Trumpf GmbH + Co. KG",
+    "Lumen Technologies",
+    "Molex (Optical)"
+  ],
+  "key_products": [
+    "Laser diodes",
+    "Optical amplifiers",
+    "Photonic integrated circuits",
+    "Optical transceivers",
+    "Optical sensors"
+  ],
+  "extracted_at": "2026-04-24 16:46:56",
   "sources": [
     {
       "source": "Wikipedia",
@@ -17,15 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Lumentum",
+      "url": "https://finance.yahoo.com/quote/LITE/",
       "query": "Lumentum Holdings Inc. suppliers manufacturers",
-      "snippet": "They primarily produce optical and photonic products in two sectors of the economy: Cloud & Networking and Industrial Tech. In the former sector, they"
+      "snippet": "Lumentum Holdings Inc . Overview Communication Equipment / Technology. Lumentum Holdings Inc . manufactures and sells optical and photonic products in"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.lumentum.com/en/company/distributors",
+      "url": "https://capital.com/en-int/markets/shares/lumentum-holdings-inc-share-price",
       "query": "Lumentum Holdings Inc. suppliers manufacturers",
-      "snippet": "Please contact customer service and they will direct you to a distributor near you. Lumentum is a global leader in optical and photonic products, enab"
+      "snippet": "Lumentum Holdings Inc . manufactures and sells optical and photonic products in the Americas, the Asia-Pacific, Europe, the Middle East, and Africa. I"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://markets.financialcontent.com/stocks/article/finterra-2026-3-19-lumentum-holdings-inc-lite-illuminating-the-ai-backbone",
+      "query": "Lumentum Holdings Inc. major customers clients",
+      "snippet": "Conclusion. Lumentum Holdings Inc . has successfully navigated one of the most difficult periods in its history to emerge as a vital link in the AI va"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.investing.com/equities/lumentum-holdings-inc",
+      "query": "Lumentum Holdings Inc. major customers clients",
+      "snippet": "What Is the Lumentum Holdings Inc Stock Price Today?Execution Risks. Customer concentration among Big-5 hyperscalers and premium valuations create vul"
     }
   ]
 }

@@ -3,8 +3,8 @@ ticker: MRNA
 company: Moderna, Inc.
 sector: Healthcare
 industry: Biotechnology
-extracted_at: 2026-04-23 17:20:34
-last_updated: 2026-04-23
+extracted_at: 2026-04-24 16:53:23
+last_updated: 2026-04-24
 ---
 
 # MRNA - Moderna, Inc.
@@ -12,46 +12,46 @@ last_updated: 2026-04-23
 ## 基本信息
 
 - **所属行业**: Healthcare / Biotechnology
-- **提取时间**: 2026-04-23 17:20:34
+- **提取时间**: 2026-04-24 16:53:23
 
 ## 产业链关系
 
 ### 上游供应商
-- [[CureVac]]
-- [[GSK]]
+- [[Lonza]]
+- [[Thermo Fisher Scientific]]
 - [[Pfizer]]
-- [[Johnson & Johnson]]
 - [[BioNTech]]
+- [[Sangamo Therapeutics]]
 
 ### 下游客户
 - [[U.S. Department of Health and Human Services]]
 - [[European Medicines Agency]]
-- [[World Health Organization]]
-- [[National Health Service (UK)]]
-- [[National Institute of Health (NIH)]]
+- [[COVAX]]
+- [[Canadian Health Authority]]
+- [[United Kingdom National Health Service]]
 
 ### 竞争对手
-- [[BioNTech]]
 - [[Pfizer]]
+- [[BioNTech]]
 - [[Johnson & Johnson]]
-- [[GSK]]
-- [[CureVac]]
+- [[Novavax]]
+- [[AstraZeneca]]
 
 ### 核心产品
-- [[Spikevax (mRNA COVID-19 vaccine)]]
-- [[mRNA influenza vaccine]]
-- [[mRNA-based cancer vaccine]]
-- [[mRNA-based RSV vaccine]]
-- [[mRNA therapeutics (e.g., mRNA-ALN-PEG)]]
+- [[mRNA-1273 (COVID‑19 vaccine)]]
+- [[mRNA-1273.1 (updated COVID‑19 vaccine)]]
+- [[mRNA-4157 (cancer vaccine)]]
+- [[mRNA-1245 (influenza vaccine)]]
+- [[mRNA-1273 (original COVID‑19 vaccine)]]
 
 ## 数据来源
 
 - 
 - [Moderna, Inc. suppliers manufacturers](https://modernadirect.com/authorized-distributor)
-- [Moderna, Inc. suppliers manufacturers](https://www.modernatx.com/supplier/moderna-supplier-page)
-- [Moderna, Inc. major customers clients](https://portersfiveforce.com/blogs/target-market/moderna)
-- [Moderna, Inc. major customers clients](https://csimarket.com/stocks/MRNA-Customers)
+- [Moderna, Inc. suppliers manufacturers](https://www.modernatx.com/en-US)
+- [Moderna, Inc. major customers clients](https://www.wallstreetzen.com/stocks/us/nasdaq/mrna/stock-forecast)
+- [Moderna, Inc. major customers clients](https://www.marketresearch.com/GlobalData-v3648/Moderna-MRNA-Financial-Strategic-SWOT-34907300/)
 
 ## 元数据
 
-- **更新日期**: 2026-04-23
+- **更新日期**: 2026-04-24

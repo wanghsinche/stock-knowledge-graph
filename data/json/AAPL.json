@@ -4,33 +4,35 @@
   "sector": "Technology",
   "industry": "Consumer Electronics",
   "upstream": [
-    "Molex",
-    "Murata Manufacturing",
-    "Nichia",
-    "Nidec"
+    "Foxconn (Hon Hai Precision Industry Co., Ltd.)",
+    "TSM",
+    "005930.KS",
+    "LG Display",
+    "NVDA"
   ],
   "downstream": [
-    "iPhone users",
-    "iPad users",
-    "Mac users",
     "AAPL",
-    "AAPL"
+    "AAPL",
+    "Major telecom carriers (AT&T, Verizon, T-Mobile, China Mobile)",
+    "CAT",
+    "Global consumer market"
   ],
   "competitors": [
     "005930.KS",
-    "MSFT",
     "GOOGL",
-    "AMZN",
-    "SONY"
+    "MSFT",
+    "Huawei",
+    "Xiaomi"
   ],
   "key_products": [
     "iPhone",
     "iPad",
     "Mac",
     "Apple Watch",
-    "AirPods"
+    "Apple TV",
+    "Services (App Store, iCloud, Apple Music, Apple Pay)"
   ],
-  "extracted_at": "2026-04-23 17:12:55",
+  "extracted_at": "2026-04-24 16:46:04",
   "sources": [
     {
       "source": "Wikipedia",
@@ -40,27 +42,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Template:Apple_Inc._suppliers",
+      "url": "https://en.wikipedia.org/wiki/Apple_supply_chain",
       "query": "Apple Inc. suppliers manufacturers",
-      "snippet": "Molex. Murata Manufacturing . Nichia. Nidec. Supplier lists. Supply Chain Innovation Reports."
+      "snippet": "In response, Apple launched its Supplier Responsibility program, which aimed to improve Apple 's oversight of supplier partners and enforce its ethics"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.apple.com/",
+      "url": "https://www.investopedia.com/articles/investing/090315/10-major-companies-tied-apple-supply-chain.asp",
       "query": "Apple Inc. suppliers manufacturers",
-      "snippet": "Discover the innovative world of Apple and shop everything iPhone, iPad, Apple Watch, Mac, and Apple TV, plus explore accessories, entertainment, and "
+      "snippet": "Apr 17, 2026 · Discover Apple 's top suppliers and how they enhance product performance and innovation. Learn about Apple 's efficient supply chain an"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.businessofapps.com/data/apple-statistics/",
+      "url": "https://businessmodelanalyst.com/apple-target-market/",
       "query": "Apple Inc. major customers clients",
-      "snippet": "Feb 26, 2026 · All eyes are on Apple ’s next products, which may include a virtual reality headset and self-driving car. The past few product launches"
+      "snippet": "Nov 8, 2024 · Understanding a company’s target market is essential to its success. It helps shape product offerings, marketing strategies, and custome"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://bstrategyhub.com/apple-target-market/",
+      "url": "https://csimarket.com/stocks/AAPL-Customers",
       "query": "Apple Inc. major customers clients",
-      "snippet": "Feb 22, 2020 · Who is Apple ’s target market? Learn how Apple’s demographic, psychographic, geographic, behavioral, and technographic segmentation def"
+      "snippet": "Apple Inc 's Comment on Sales, Marketing and Customers The Company’s customers are primarily in the consumer, SMB, education, enterprise and governmen"
     }
   ]
 }

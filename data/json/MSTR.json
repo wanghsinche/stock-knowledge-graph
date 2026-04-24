@@ -4,34 +4,34 @@
   "sector": "Technology",
   "industry": "Software - Application",
   "upstream": [
-    "MSFT",
-    "AMZN",
-    "GOOGL",
     "DELL",
-    "IBM"
+    "HPQ",
+    "IBM",
+    "MSFT",
+    "ORCL"
   ],
   "downstream": [
-    "Fortune 500 enterprises",
     "Financial services firms",
-    "Retail chains",
-    "Manufacturing companies",
+    "Retail banks",
+    "Government agencies",
+    "Insurance companies",
     "Healthcare providers"
   ],
   "competitors": [
-    "Tableau Software",
-    "MSFT",
+    "Tableau",
     "Qlik",
-    "GOOGL",
-    "SAP BusinessObjects"
+    "MSFT",
+    "SAP BusinessObjects",
+    "IBM"
   ],
   "key_products": [
     "MicroStrategy Analytics Platform",
     "MicroStrategy Mobile",
     "MicroStrategy Cloud",
-    "MicroStrategy Data Visualization",
-    "MicroStrategy Data Warehouse"
+    "MicroStrategy Data Warehouse",
+    "MicroStrategy AI"
   ],
-  "extracted_at": "2026-04-23 17:14:40",
+  "extracted_at": "2026-04-24 16:48:33",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,15 +41,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/MSTR/",
+      "url": "https://www.strategyinc.net/services-overview/",
       "query": "Strategy Inc suppliers manufacturers",
-      "snippet": "Find the latest Strategy Inc (MSTR) stock quote, history, news and other vital information to help you with your stock trading and investing."
+      "snippet": "Our Consulting Services At Strategy Inc ., we offer a comprehensive range of consulting services required for life science and medical device due dili"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ru.tradingview.com/symbols/NASDAQ-MSTR/",
+      "url": "https://www.strategy.com/company",
       "query": "Strategy Inc suppliers manufacturers",
-      "snippet": "Следите за графиком Strategy Inc , чтобы быть в курсе цены акций. Вы также найдёте прогнозы, отчётность MSTR и новости рынка."
+      "snippet": "Uncover the narrative of Strategy , a world-renowned leader in analytics and business intelligence. Delve into our mission, values, and dedication to "
     },
     {
       "source": "DuckDuckGo",

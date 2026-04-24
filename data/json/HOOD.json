@@ -2,36 +2,36 @@
   "ticker": "HOOD",
   "company_name": "Robinhood Markets, Inc.",
   "sector": "Financial Services / Capital Markets",
-  "industry": "Brokerage Services",
+  "industry": "Online Brokerage / Retail Trading",
   "upstream": [
-    "AMZN",
-    "GOOGL",
-    "Plaid",
+    "NASDAQ Market Data",
+    "Bloomberg",
+    "Thomson Reuters",
     "Stripe",
-    "Bloomberg"
+    "Plaid"
   ],
   "downstream": [
     "Retail investors",
-    "High‑frequency traders",
-    "Institutional investors",
-    "Financial advisors",
-    "Wealth management firms"
+    "High-net-worth individuals",
+    "Institutional clients",
+    "Crypto traders",
+    "Margin traders"
   ],
   "competitors": [
     "Charles Schwab",
-    "TD Ameritrade",
     "E*TRADE",
     "Fidelity",
-    "Interactive Brokers"
+    "TD Ameritrade",
+    "Webull"
   ],
   "key_products": [
-    "Commission‑free stock trading",
-    "Options trading",
-    "Cryptocurrency trading",
-    "Robinhood Gold subscription",
-    "Cash management"
+    "Commission-free stock trading",
+    "Robinhood Gold",
+    "Cash Management",
+    "Crypto trading",
+    "Margin trading"
   ],
-  "extracted_at": "2026-04-23 17:17:26",
+  "extracted_at": "2026-04-24 16:50:33",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,9 +47,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/suppliers_glance.php?code=HOOD",
+      "url": "https://csimarket.com/stocks/HOOD-Suppliers",
       "query": "Robinhood Markets, Inc. suppliers manufacturers",
-      "snippet": "Robinhood Markets Inc supply chain, list and performance of Robinhood Markets Incs ' suppliers - CSIMarket."
+      "snippet": "Feb 28, 2026 · For your research, we’ve provided nine additional tables on Robinhood Markets Inc ’s suppliers . You can find them in the navigation me"
     },
     {
       "source": "DuckDuckGo",
@@ -59,9 +59,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.bbb.org/us/ca/palo-alto/profile/financial-services/robinhood-markets-inc-1216-417256/customer-reviews",
+      "url": "https://pitchgrade.com/companies/robinhood-markets",
       "query": "Robinhood Markets, Inc. major customers clients",
-      "snippet": "Robinhood Markets , Inc . is NOT a BBB Accredited Business. To become accredited, a business must agree to BBB Standards for Trust and pass BBB's vett"
+      "snippet": "Customer Segments: Robinhood Markets , Inc . serves multiple distinct customer segments, which may include consumers, small and medium businesses, ent"
     }
   ]
 }

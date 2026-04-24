@@ -1,57 +1,57 @@
 ---
 ticker: WDC
 company: Western Digital Corporation
-sector: Technology / Computer Hardware
-industry: Data Storage
-extracted_at: 2026-04-23 17:15:05
-last_updated: 2026-04-23
+sector: Technology
+industry: Computer Hardware
+extracted_at: 2026-04-24 16:49:52
+last_updated: 2026-04-24
 ---
 
 # WDC - Western Digital Corporation
 
 ## 基本信息
 
-- **所属行业**: Technology / Computer Hardware / Data Storage
-- **提取时间**: 2026-04-23 17:15:05
+- **所属行业**: Technology / Computer Hardware
+- **提取时间**: 2026-04-24 16:49:52
 
 ## 产业链关系
 
 ### 上游供应商
-- [[005930.KS]]
 - [[MU]]
+- [[005930.KS]]
 - [[SK Hynix]]
 - [[Toshiba]]
-- [[WDC]]
+- [[Kioxia]]
 
 ### 下游客户
-- [[AAPL]]
-- [[MSFT]]
-- [[AMZN]]
-- [[GOOGL]]
 - [[DELL]]
+- [[HPQ]]
+- [[Lenovo Group]]
+- [[AAPL]]
+- [[AMZN]]
 
 ### 竞争对手
 - [[STX]]
-- [[Toshiba]]
+- [[Toshiba Corporation]]
 - [[005930.KS]]
+- [[INTC]]
 - [[MU]]
-- [[HGST]]
 
 ### 核心产品
-- [[Hard Disk Drives (HDDs)]]
-- [[Solid State Drives (SSDs)]]
-- [[Enterprise Storage Solutions]]
-- [[Data Center Storage]]
-- [[External Hard Drives]]
+- [[Enterprise Hard Disk Drives]]
+- [[Desktop Hard Disk Drives]]
+- [[Solid State Drives]]
+- [[External Storage Devices]]
+- [[Data Center Storage Solutions]]
 
 ## 数据来源
 
 - [Western Digital](https://en.wikipedia.org/wiki/Western_Digital_Corporation)
 - [Western Digital Corporation suppliers manufacturers](https://en.wikipedia.org/wiki/Western_Digital)
-- [Western Digital Corporation suppliers manufacturers](https://www.tipranks.com/news/article/western-digital-is-an-attractive-company)
-- [Western Digital Corporation major customers clients](https://en.wikipedia.org/wiki/Western_Digital)
-- [Western Digital Corporation major customers clients](https://en.vidabytes.com/Western-Digital-will-run-out-of-hard-drives-by-2026-due-to-AI-pressure/)
+- [Western Digital Corporation suppliers manufacturers](https://ru.wikipedia.org/wiki/Western_Digital)
+- [Western Digital Corporation major customers clients](https://csimarket.com/stocks/WDC-Customers)
+- [Western Digital Corporation major customers clients](https://www.readycontacts.com/target-account-profiling/western-digital/)
 
 ## 元数据
 
-- **更新日期**: 2026-04-23
+- **更新日期**: 2026-04-24

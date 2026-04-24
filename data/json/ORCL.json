@@ -7,31 +7,31 @@
     "INTC",
     "AMD",
     "NVDA",
-    "DELL",
-    "CSCO"
+    "CSCO",
+    "DELL"
   ],
   "downstream": [
+    "JPMorgan Chase",
     "Bank of America",
-    "United States Department of Defense",
-    "General Electric",
     "Walmart",
-    "Airbnb"
+    "AT&T",
+    "Verizon"
   ],
   "competitors": [
     "MSFT",
-    "AMZN",
     "IBM",
     "SAP",
+    "AMZN",
     "GOOGL"
   ],
   "key_products": [
     "Oracle Database",
     "Oracle Cloud Infrastructure",
-    "Oracle Applications (E-Business Suite, Fusion)",
     "Oracle Autonomous Database",
-    "Oracle Java"
+    "Oracle E-Business Suite",
+    "Oracle Fusion Applications"
   ],
-  "extracted_at": "2026-04-23 17:12:21",
+  "extracted_at": "2026-04-24 16:46:13",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,25 +43,25 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Oracle_Corporation",
       "query": "Oracle Corporation suppliers manufacturers",
-      "snippet": "Oracle Corporation . Company logo. Formerly. Software Development Laboratories (1977–1979). Relational Software, Inc. (1979–1983). Oracle Systems Corp"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://ru.wikipedia.org/wiki/Oracle",
-      "query": "Oracle Corporation suppliers manufacturers",
-      "snippet": "Oracle ( Oracle Corporation ) — американская корпорация, второй по размеру выручки разработчик программного обеспечения (после Microsoft)[4], четвёрта"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Oracle_Corporation",
-      "query": "Oracle Corporation major customers clients",
       "snippet": "Oracle Corporation is an American multinational technology company headquartered in Austin, Texas. Co-founded in Santa Clara, California by Bob Miner,"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://ru.wikipedia.org/wiki/Oracle",
-      "query": "Oracle Corporation major customers clients",
+      "query": "Oracle Corporation suppliers manufacturers",
       "snippet": "Oracle ( Oracle Corporation ) — американская корпорация, второй по размеру выручки разработчик программного обеспечения (после Microsoft), четвёртая к"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.thomsondata.com/customer-base/oracle.php",
+      "query": "Oracle Corporation major customers clients",
+      "snippet": "Technographic Data of Companies That Use Oracle Oracle Customers List by Industry Different industries use Oracle technology for their business . Look"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.oracle.com/customers/",
+      "query": "Oracle Corporation major customers clients",
+      "snippet": "Oracle Customer Successes Innovation, ease of use, better results—those are just some of the reasons organizations in all industries and of all sizes "
     }
   ]
 }

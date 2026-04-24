@@ -2,25 +2,25 @@
   "ticker": "NOW",
   "company_name": "ServiceNow, Inc.",
   "sector": "Technology",
-  "industry": "Software - Application",
+  "industry": "Application Software",
   "upstream": [
     "AMZN",
     "MSFT",
     "GOOGL",
-    "ORCL",
-    "IBM"
+    "DELL",
+    "CSCO"
   ],
   "downstream": [
-    "NVDA",
-    "MSFT",
-    "AMZN",
-    "GOOGL",
-    "CRM"
+    "Walmart",
+    "JPMorgan Chase",
+    "AT&T",
+    "Bank of America",
+    "CAT"
   ],
   "competitors": [
     "CRM",
-    "SAP",
     "MSFT",
+    "SAP",
     "ORCL",
     "IBM"
   ],
@@ -28,10 +28,10 @@
     "ServiceNow Platform",
     "IT Service Management (ITSM)",
     "IT Operations Management (ITOM)",
-    "Security Operations (SecOps)",
+    "Customer Service Management (CSM)",
     "HR Service Delivery"
   ],
-  "extracted_at": "2026-04-23 17:11:10",
+  "extracted_at": "2026-04-24 16:47:47",
   "sources": [
     {
       "source": "Wikipedia",
@@ -53,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/ServiceNow",
+      "url": "https://www.aventionmedia.com/technology-installed-base/servicenow/",
       "query": "ServiceNow, Inc. major customers clients",
-      "snippet": "11 hours ago - In May 2023, Nvidia announced a partnership with ServiceNow to include AI services in help desk software for corporations."
+      "snippet": "Discover Avention Media’s accurate and customizable ServiceNow customers list. Our verified ServiceNow data helps you target key decision-makers and c"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.aventionmedia.com/technology-installed-base/servicenow/",
+      "url": "https://data.landbase.com/technology/servicenow/",
       "query": "ServiceNow, Inc. major customers clients",
-      "snippet": "June 14, 2024 - ServiceNow caters to businesses of all sizes, including mid-sized, small and large organizations. It serves three popularly different "
+      "snippet": "Aug 17, 2025 · ServiceNow by ServiceNow, is a cloud-based platform designed for digital workflows. It’s commonly employed to automate and enhance vari"
     }
   ]
 }

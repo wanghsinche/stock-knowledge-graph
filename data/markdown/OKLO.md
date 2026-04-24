@@ -3,8 +3,8 @@ ticker: OKLO
 company: Oklo Inc.
 sector: Utilities
 industry: Utilities - Independent Power Producers
-extracted_at: 2026-04-23 17:14:49
-last_updated: 2026-04-23
+extracted_at: 2026-04-24 16:50:19
+last_updated: 2026-04-24
 ---
 
 # OKLO - Oklo Inc.
@@ -12,46 +12,31 @@ last_updated: 2026-04-23
 ## 基本信息
 
 - **所属行业**: Utilities / Utilities - Independent Power Producers
-- **提取时间**: 2026-04-23 17:14:49
+- **提取时间**: 2026-04-24 16:50:19
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Nuclear fuel suppliers]]
-- [[Reactor component manufacturers]]
-- [[Materials suppliers (steel, alloys, ceramics)]]
-- [[Engineering and construction firms]]
-- [[CAT]]
+_暂无数据_
 
 ### 下游客户
-- [[Utility companies]]
-- [[Government agencies and national grids]]
-- [[Industrial power users]]
-- [[Energy producers and developers]]
-- [[Research and academic institutions]]
+_暂无数据_
 
 ### 竞争对手
-- [[TerraPower]]
-- [[NuScale Power]]
-- [[Helion Energy]]
-- [[Commonwealth Fusion Systems]]
-- [[FirstEnergy]]
+_暂无数据_
 
 ### 核心产品
-- [[Advanced fast-fission nuclear reactors]]
-- [[Nuclear fuel assemblies]]
-- [[Reactor design and engineering services]]
-- [[Nuclear power plant solutions]]
-- [[Nuclear technology consulting]]
+- [[Advanced nuclear reactors]]
+- [[Fast-fission power plants]]
 
 ## 数据来源
 
 - [Oklo Inc.](https://en.wikipedia.org/wiki/Oklo_Inc.)
-- [Oklo Inc. suppliers manufacturers](https://oklo.com/overview/default.aspx)
-- [Oklo Inc. suppliers manufacturers](https://csimarket.com/stocks/OKLO-Suppliers)
+- [Oklo Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/Oklo_Inc.)
+- [Oklo Inc. suppliers manufacturers](https://oklo.com/newsroom/news-details/2024/Oklo-Establishes-Preferred-Supplier-Agreement-for-Steam-Turbine-Generator-Products-and-Services/default.aspx)
 - [Oklo Inc. major customers clients](https://csimarket.com/stocks/OKLO-Customers)
-- [Oklo Inc. major customers clients](https://oklo.com/investors/overview/default.aspx)
+- [Oklo Inc. major customers clients](https://seekingalpha.com/article/4893789-oklo-positioned-to-power-the-ai-infrastructure-boom)
 
 ## 元数据
 
-- **更新日期**: 2026-04-23
+- **更新日期**: 2026-04-24

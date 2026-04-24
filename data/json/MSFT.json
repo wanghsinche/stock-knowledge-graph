@@ -7,31 +7,32 @@
     "INTC",
     "AMD",
     "NVDA",
-    "CSCO",
-    "DELL"
+    "QCOM",
+    "005930.KS"
   ],
   "downstream": [
-    "MSFT",
-    "Azure cloud customers",
-    "DELL",
-    "Gaming community (Xbox)",
-    "Consumer users (Surface devices)"
+    "AMZN",
+    "Walmart",
+    "AT&T",
+    "Verizon",
+    "U.S. Department of Defense"
   ],
   "competitors": [
     "AAPL",
     "GOOGL",
     "AMZN",
     "ORCL",
-    "IBM"
+    "CRM"
   ],
   "key_products": [
     "Windows operating system",
-    "Microsoft 365 suite",
+    "Microsoft Office suite",
     "Azure cloud platform",
-    "Xbox gaming console",
-    "Surface devices"
+    "Microsoft Teams",
+    "Surface devices",
+    "Xbox gaming console"
   ],
-  "extracted_at": "2026-04-23 17:10:36",
+  "extracted_at": "2026-04-24 16:45:24",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +42,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Microsoft",
+      "url": "https://csimarket.com/stocks/MSFT-Suppliers",
       "query": "Microsoft Corporation suppliers manufacturers",
-      "snippet": "Microsoft Corporation is an American multinational technology conglomerate founded in 1975 and headquartered in Redmond, Washington."
+      "snippet": "Jan 29, 2026 · Microsoft supply chain, list and performance of Microsofts' suppliers - CSIMarket"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.alibaba.com/",
+      "url": "https://www.microsoft.com/en-us/procurement",
       "query": "Microsoft Corporation suppliers manufacturers",
-      "snippet": "Find quality Manufacturers , Suppliers , Exporters, Importers, Buyers, Wholesalers, Products and Trade Leads from our award-winning International Trad"
+      "snippet": "Microsoft Procurement is committed to building a diverse global supplier base that reflects the global diversity of our customers and provides all typ"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Microsoft",
+      "url": "https://www.appsruntheworld.com/customers-database/vendors/view/microsoft",
       "query": "Microsoft Corporation major customers clients",
-      "snippet": "Microsoft Corporation is an American multinational technology conglomerate founded in 1975 and headquartered in Redmond, Washington."
+      "snippet": "March 9, 2026 - Each quarter our research team identifies companies that are using Microsoft applications such as Microsoft 365 for Collaboration, Mic"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.nytimes.com/2025/01/29/technology/microsoft-earnings-stock.html",
+      "url": "https://www.microsoft.com/investor/reports/ar13/financial-review/business-description/customers/index.html",
       "query": "Microsoft Corporation major customers clients",
-      "snippet": "About 5 percent of eligible Microsoft 365 Commercial customers have upgraded to include Copilot, Microsoft ’s A.I. companion, according to analysts at"
+      "snippet": "Our customers include individual consumers, small- and medium-sized organizations, enterprises, governmental institutions, educational institutions, I"
     }
   ]
 }

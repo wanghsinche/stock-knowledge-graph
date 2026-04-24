@@ -4,34 +4,34 @@
   "sector": "Technology",
   "industry": "Semiconductors",
   "upstream": [
+    "TSM",
+    "Raw material suppliers (e.g., silicon wafer manufacturers)",
     "AMAT",
-    "LRCX",
-    "ASML",
-    "Tokyo Electron",
-    "KLA"
+    "Packaging and testing service providers",
+    "Electronic component distributors"
   ],
   "downstream": [
     "DELL",
-    "HPQ",
-    "Lenovo",
-    "005930.KS",
-    "AAPL"
+    "CSCO",
+    "Automotive electronics suppliers (e.g., Bosch, Continental)",
+    "AAPL",
+    "Industrial automation companies"
   ],
   "competitors": [
     "ADI",
+    "ADI",
     "NXP Semiconductors",
     "Infineon Technologies",
-    "STMicroelectronics",
-    "Maxim Integrated"
+    "STMicroelectronics"
   ],
   "key_products": [
-    "Analog integrated circuits",
-    "Embedded processors",
+    "Analog integrated circuits (e.g., op-amps, ADCs, DACs)",
+    "Embedded processors (e.g., Sitara, C2000)",
     "Digital Light Processing (DLP) technology",
-    "Educational calculators",
-    "Microcontrollers"
+    "Educational calculators and microcontrollers",
+    "Multi-core processors for automotive and industrial use"
   ],
-  "extracted_at": "2026-04-23 17:11:57",
+  "extracted_at": "2026-04-24 16:47:32",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,21 +47,21 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/TXN/",
+      "url": "https://www.volza.com/company-profile/texas-instruments-incorporated-125223153/",
       "query": "Texas Instruments Incorporated suppliers manufacturers",
-      "snippet": "Find the latest Texas Instruments Incorporated (TXN) stock quote, history, news and other vital information to help you with your stock trading and in"
+      "snippet": "Is Texas Instruments Incorporated a good trading partner for you? Access Texas Instruments Incorporateds import and export shipments, products, suppli"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://csimarket.com/stocks/TXN-Customers",
       "query": "Texas Instruments Incorporated major customers clients",
-      "snippet": "For your research, we’ve provided 9 tables on Texas Instruments Incorporated corporate clients . You can find them in the navigation menu under Custom"
+      "snippet": "Texas Instruments Incorporated 's Comment on Sales, Marketing and Customers Our products are sold to original equipment manufacturers (OEMs), original"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.ti.com/sc/docs/general/dsp/momentum/customermomentum.htm",
       "query": "Texas Instruments Incorporated major customers clients",
-      "snippet": "By year-end, SBC plans to make DSL service available to more than 18 million homes and businesses, about 50 percent of its customers . By the end of 2"
+      "snippet": "These new TI ADSL-enabled PCs will allow Compaq's customers to access the latest broadband services such as e-commerce, telecommuting, interactive gam"
     }
   ]
 }

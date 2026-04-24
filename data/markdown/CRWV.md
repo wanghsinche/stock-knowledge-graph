@@ -1,18 +1,18 @@
 ---
 ticker: CRWV
 company: CoreWeave, Inc.
-sector: Technology / Software - Infrastructure
-industry: Artificial Intelligence Cloud Computing
-extracted_at: 2026-04-23 17:15:58
-last_updated: 2026-04-23
+sector: Technology
+industry: Software - Infrastructure
+extracted_at: 2026-04-24 16:47:24
+last_updated: 2026-04-24
 ---
 
 # CRWV - CoreWeave, Inc.
 
 ## 基本信息
 
-- **所属行业**: Technology / Software - Infrastructure / Artificial Intelligence Cloud Computing
-- **提取时间**: 2026-04-23 17:15:58
+- **所属行业**: Technology / Software - Infrastructure
+- **提取时间**: 2026-04-24 16:47:24
 
 ## 产业链关系
 
@@ -20,38 +20,38 @@ last_updated: 2026-04-23
 - [[NVDA]]
 - [[AMD]]
 - [[INTC]]
-- [[QCOM]]
-- [[005930.KS]]
+- [[Supermicro]]
+- [[DELL]]
 
 ### 下游客户
-- [[OpenAI]]
-- [[Mistral AI]]
-- [[IBM]]
-- [[MSFT]]
-- [[GOOGL]]
+- [[AI developers]]
+- [[Enterprise technology firms]]
+- [[Startups in machine learning]]
+- [[Research institutions]]
+- [[Gaming companies]]
 
 ### 竞争对手
-- [[NVDA]]
 - [[AMZN]]
 - [[GOOGL]]
 - [[MSFT]]
-- [[AMD]]
+- [[IBM]]
+- [[ORCL]]
 
 ### 核心产品
-- [[GPU‑based cloud infrastructure]]
-- [[AI training and inference services]]
-- [[GPU virtualization platform]]
+- [[GPU‑based cloud computing services]]
+- [[High‑performance GPU clusters]]
 - [[Chip management software]]
-- [[High‑performance computing (HPC) solutions]]
+- [[AI infrastructure solutions]]
+- [[Custom GPU deployment tools]]
 
 ## 数据来源
 
 - [CoreWeave](https://en.wikipedia.org/wiki/CoreWeave,_Inc.)
 - [CoreWeave, Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/CoreWeave)
-- [CoreWeave, Inc. suppliers manufacturers](https://www.coreweave.com/)
+- [CoreWeave, Inc. suppliers manufacturers](https://www.businesswire.com/news/home/20260417402128/en/CoreWeave-Announces-Date-of-First-Quarter-2026-Financial-Results-and-Conference-Call)
 - [CoreWeave, Inc. major customers clients](https://en.wikipedia.org/wiki/CoreWeave)
 - [CoreWeave, Inc. major customers clients](https://www.businesswire.com/news/home/20260417402128/en/CoreWeave-Announces-Date-of-First-Quarter-2026-Financial-Results-and-Conference-Call)
 
 ## 元数据
 
-- **更新日期**: 2026-04-23
+- **更新日期**: 2026-04-24

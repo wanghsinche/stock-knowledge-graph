@@ -1,35 +1,38 @@
 {
   "ticker": "LLY",
   "company_name": "Eli Lilly and Company",
-  "sector": "Healthcare / Drug Manufacturers - General",
-  "industry": "Pharmaceutical Manufacturers - General",
+  "sector": "Healthcare",
+  "industry": "Drug Manufacturers - General",
   "upstream": [
     "Active Pharmaceutical Ingredient (API) suppliers",
-    "Contract Manufacturing Organizations (CMOs)",
-    "Specialty chemical suppliers",
-    "Packaging material suppliers",
-    "Laboratory equipment suppliers"
+    "Contract manufacturing organizations (CMOs)",
+    "Chemical raw material suppliers",
+    "Biotechnology contract research organizations (CROs)",
+    "Packaging material providers"
   ],
   "downstream": [
     "Hospitals and health systems",
     "Pharmacies and retail chains",
     "Government health agencies (e.g., Medicare, Medicaid)",
-    "Medical distributors (McKesson, Cardinal Health, AmerisourceBergen)",
-    "International health organizations"
+    "International health organizations (e.g., WHO, UNICEF)",
+    "Private health insurers"
   ],
   "competitors": [
     "Pfizer",
     "Johnson & Johnson",
-    "Novartis",
     "Merck & Co.",
-    "AbbVie"
+    "AbbVie",
+    "Bristol Myers Squibb"
   ],
   "key_products": [
-    "Humira (adalimumab)",
+    "Humulin (insulin)",
+    "Lantus (insulin glargine)",
+    "Humalog (insulin lispro)",
+    "Cialis (tadalafil)",
     "Trulicity (dulaglutide)",
     "Mounjaro (tirzepatide)"
   ],
-  "extracted_at": "2026-04-22 17:01:12",
+  "extracted_at": "2026-04-24 16:47:05",
   "sources": [
     {
       "source": "Wikipedia",
@@ -45,21 +48,21 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.lilly.com/suppliers",
+      "url": "https://www.lilly.com/",
       "query": "Eli Lilly and Company suppliers manufacturers",
-      "snippet": "View supplier resources including accounts payable, invoicing, payments, new and existing supplier guidance, and the Lilly Supplier portal."
+      "snippet": "Lilly is a medicine company that puts health above all. Learn about our medicines, view condition support, find care, and much more. Lilly employee wo"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://csimarket.com/stocks/LLY-Customers",
       "query": "Eli Lilly and Company major customers clients",
-      "snippet": "Apr 16, 2017 · For your research, we’ve provided 9 tables on Eli Lilly And Company corporate clients . You can find them in the navigation menu under "
+      "snippet": "Apr 16, 2017 · Eli Lilly customers and markets, results by customer and performance relative to LLY, by company and industry - CSIMarket"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.marketscreener.com/quote/stock/ELI-LILLY-AND-COMPANY-13401/finances-segments/",
+      "url": "https://stocklight.com/stocks/us/nyse-lly/eli-lilly-and/annual-reports/nyse-lly-2025-10K-25637747.pdf",
       "query": "Eli Lilly and Company major customers clients",
-      "snippet": "1 day ago · Understand how activity and revenue gets distributed for Eli Lilly and Company (LLY). Ten-year segmentation history. The entire stock mark"
+      "snippet": "Item 1. Business Eli Lilly and Company (referred to as the company , Lilly , we, or us) was incorporated in 1901 in Indiana to succeed to the drug man"
     }
   ]
 }

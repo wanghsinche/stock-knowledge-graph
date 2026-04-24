@@ -7,15 +7,15 @@
     "AMZN",
     "MSFT",
     "GOOGL",
-    "Hardware suppliers (servers, storage)",
-    "Networking equipment vendors"
+    "Snowflake Services Partners",
+    "Cloud Infrastructure Providers"
   ],
   "downstream": [
-    "eBay",
     "Capital One",
     "ADBE",
-    "NFLX",
-    "Target"
+    "eBay",
+    "SONY",
+    "NFLX"
   ],
   "competitors": [
     "AMZN",
@@ -28,10 +28,10 @@
     "Snowflake Data Cloud",
     "Snowflake Data Marketplace",
     "Snowflake Data Sharing",
-    "Snowflake Data Engineering",
-    "Snowflake Data Lake"
+    "Snowflake Snowpark",
+    "Snowflake Data Warehouse"
   ],
-  "extracted_at": "2026-04-13 17:00:36",
+  "extracted_at": "2026-04-24 16:51:56",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,15 +41,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Snowflake_Inc.",
+      "url": "https://csimarket.com/stocks/SNOW-Suppliers",
       "query": "Snowflake Inc. suppliers manufacturers",
-      "snippet": "Snowflake Inc . is an American cloud-based data platform company founded in San Mateo, California, and headquartered in Menlo Park."
+      "snippet": "Dec 9, 2025 · Snowflake Inc 's Suppliers recorded an increase in sales by 3.77 % year on year in Q3 2025, sequentially sales grew by 3.42 %, Snowflake"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.snowflake.com/",
+      "url": "https://www.snowflake.com/en/why-snowflake/partners/",
       "query": "Snowflake Inc. suppliers manufacturers",
-      "snippet": "Snowflake powers AI, data engineering, applications, and analytics on a trusted, scalable AI Data Cloud—eliminating silos and accelerating innovation."
+      "snippet": "Snowflake services partners provide industry experience, technical expertise and strategic best practices that help joint customers mitigate risks and"
     },
     {
       "source": "DuckDuckGo",
@@ -59,9 +59,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.statista.com/statistics/1413139/snowflake-quarterly-number-of-large-customers/",
+      "url": "https://www.appsruntheworld.com/customers-database/vendors/view/snowflake-inc",
       "query": "Snowflake Inc. major customers clients",
-      "snippet": "Number of Snowflake Inc . customers contributing over one million U.S. dollars in product revenue from FY 2021 to FY 2025, by quarter [Graph], Snowfla"
+      "snippet": "List of companies using or evaluating Snowflake applications, with details on their revenues, employees, industries, and locations."
     }
   ]
 }
