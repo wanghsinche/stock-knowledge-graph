@@ -1,37 +1,37 @@
 {
   "ticker": "SNDK",
-  "company_name": "SanDisk Corporation",
+  "company_name": "Sandisk Corporation",
   "sector": "Technology",
   "industry": "Computer Hardware",
   "upstream": [
-    "TSM",
     "005930.KS",
     "MU",
+    "Toshiba",
     "SK Hynix",
-    "GlobalFoundries"
+    "Macronix"
   ],
   "downstream": [
+    "AAPL",
+    "MSFT",
     "DELL",
     "HPQ",
-    "Lenovo",
-    "AAPL",
-    "MSFT"
+    "SONY"
   ],
   "competitors": [
-    "005930.KS",
-    "MU",
-    "Kingston Technology",
-    "WDC",
-    "Crucial"
+    "Kingston",
+    "Lexar",
+    "Crucial",
+    "Corsair",
+    "PNY"
   ],
   "key_products": [
     "SD cards",
     "microSD cards",
     "USB flash drives",
-    "Solid‑State Drives (SSDs)",
-    "External SSDs"
+    "SSDs",
+    "external SSDs"
   ],
-  "extracted_at": "2026-04-24 16:45:05",
+  "extracted_at": "2026-04-27 17:15:42",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,7 +43,7 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/SanDisk",
       "query": "Sandisk Corporation suppliers manufacturers",
-      "snippet": "3 days ago - In October 2005, SanDisk acquired Matrix Semiconductor. In July 2006, SanDisk acquired M-Systems. In May 2011, SanDisk acquired Pliant Te"
+      "snippet": "1 week ago - In October 2005, SanDisk acquired Matrix Semiconductor. In July 2006, SanDisk acquired M-Systems. In May 2011, SanDisk acquired Pliant Te"
     },
     {
       "source": "DuckDuckGo",
@@ -55,13 +55,13 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Sandisk",
       "query": "Sandisk Corporation major customers clients",
-      "snippet": "Sandisk Corporation is an American multinational computer semiconductor company based in Milpitas, California, that designs and manufactures flash mem"
+      "snippet": "1 week ago - Sandisk Corporation (formerly branded SanDisk) is an American multinational computer semiconductor company based in Milpitas, California,"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.sandisk.com/",
+      "url": "https://www.sandisk.com/company/about-us",
       "query": "Sandisk Corporation major customers clients",
-      "snippet": "Sandisk online store members receive free standard shipping on all eligible orders.New Sandisk Customers Sign Up and Save 10% Off. Explore the latest "
+      "snippet": "In this role, he oversees product development across market segments, including consumer, client, gaming, automotive, and the data center. Ismail lead"
     }
   ]
 }

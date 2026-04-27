@@ -4,34 +4,34 @@
   "sector": "Technology",
   "industry": "Semiconductors",
   "upstream": [
-    "TSM",
-    "Raw material suppliers (e.g., silicon wafer manufacturers)",
+    "Silicon wafer suppliers",
+    "Packaging materials suppliers",
     "AMAT",
-    "Packaging and testing service providers",
-    "Electronic component distributors"
+    "Electronic component suppliers",
+    "Test and measurement equipment suppliers"
   ],
   "downstream": [
-    "DELL",
-    "CSCO",
-    "Automotive electronics suppliers (e.g., Bosch, Continental)",
-    "AAPL",
-    "Industrial automation companies"
+    "Automotive OEMs",
+    "Consumer electronics companies",
+    "Industrial equipment manufacturers",
+    "CAT",
+    "Embedded system integrators"
   ],
   "competitors": [
     "ADI",
-    "ADI",
     "NXP Semiconductors",
     "Infineon Technologies",
-    "STMicroelectronics"
+    "STMicroelectronics",
+    "ON Semiconductor"
   ],
   "key_products": [
-    "Analog integrated circuits (e.g., op-amps, ADCs, DACs)",
-    "Embedded processors (e.g., Sitara, C2000)",
-    "Digital Light Processing (DLP) technology",
-    "Educational calculators and microcontrollers",
-    "Multi-core processors for automotive and industrial use"
+    "Analog ICs",
+    "Embedded processors (C2000, OMAP)",
+    "Digital Light Processing (DLP) chips",
+    "Calculators (TI-83, TI-84)",
+    "Microcontrollers (MSP430)"
   ],
-  "extracted_at": "2026-04-24 16:47:32",
+  "extracted_at": "2026-04-27 17:19:43",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Texas_Instruments",
+      "url": "https://www.ti.com/ordering-resources/faqs/purchasing-online/authorized-distributors.html",
       "query": "Texas Instruments Incorporated suppliers manufacturers",
+      "snippet": "Texas Instruments Authorized Distributors Texas Instruments is committed to delivering high quality and reliable semiconductor solutions. We select ou"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://thepartsdirect.com/texasinstrumentsti/linecard",
+      "query": "Texas Instruments Incorporated suppliers manufacturers",
+      "snippet": "Texas Instruments (TI) Manufacturer & Distributor Also known as: Burr-Brown, Chipcon, Comlinear, Luminary Micro, Power Trends, Unitrode Products inclu"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/Texas_Instruments",
+      "query": "Texas Instruments Incorporated major customers clients",
       "snippet": "Texas Instruments Incorporated ( TI ) is an American multinational semiconductor company headquartered in Dallas, Texas . It is one of the top 10 semi"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.volza.com/company-profile/texas-instruments-incorporated-125223153/",
-      "query": "Texas Instruments Incorporated suppliers manufacturers",
-      "snippet": "Is Texas Instruments Incorporated a good trading partner for you? Access Texas Instruments Incorporateds import and export shipments, products, suppli"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/TXN-Customers",
+      "url": "https://finance.yahoo.com/quote/TXN/",
       "query": "Texas Instruments Incorporated major customers clients",
-      "snippet": "Texas Instruments Incorporated 's Comment on Sales, Marketing and Customers Our products are sold to original equipment manufacturers (OEMs), original"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.ti.com/sc/docs/general/dsp/momentum/customermomentum.htm",
-      "query": "Texas Instruments Incorporated major customers clients",
-      "snippet": "These new TI ADSL-enabled PCs will allow Compaq's customers to access the latest broadband services such as e-commerce, telecommuting, interactive gam"
+      "snippet": "Find the latest Texas Instruments Incorporated (TXN) stock quote, history, news and other vital information to help you with your stock trading and in"
     }
   ]
 }

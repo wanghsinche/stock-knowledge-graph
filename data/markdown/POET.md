@@ -1,57 +1,46 @@
 ---
 ticker: POET
 company: POET Technologies Inc.
-sector: Technology
-industry: Semiconductors
-extracted_at: 2026-04-24 16:51:46
-last_updated: 2026-04-24
+sector: Technology / Semiconductors
+industry: Optoelectronics
+extracted_at: 2026-04-27 17:20:40
+last_updated: 2026-04-27
 ---
 
 # POET - POET Technologies Inc.
 
 ## 基本信息
 
-- **所属行业**: Technology / Semiconductors
-- **提取时间**: 2026-04-24 16:51:46
+- **所属行业**: Technology / Semiconductors / Optoelectronics
+- **提取时间**: 2026-04-27 17:20:40
 
 ## 产业链关系
 
 ### 上游供应商
-- [[INTC]]
-- [[Optical fiber manufacturers]]
-- [[AMAT]]
-- [[Photonic component suppliers (e.g., Lumerical)]]
-- [[CAT]]
+_暂无数据_
 
 ### 下游客户
-- [[Telecom equipment manufacturers (e.g., Nokia, Ericsson)]]
-- [[GOOGL]]
-- [[Cloud service providers]]
-- [[Optical networking companies (e.g., Ciena)]]
-- [[Semiconductor OEMs]]
+- [[Foxconn Interconnect]]
+- [[Foxconn]]
 
 ### 竞争对手
-- [[Finisar Corp.]]
-- [[Lumentum Holdings]]
-- [[II-VI Incorporated]]
-- [[Infinera Corp.]]
-- [[Ciena Corp.]]
+_暂无数据_
 
 ### 核心产品
-- [[Photonic integrated circuits (PICs)]]
-- [[Silicon photonics transceivers]]
-- [[Optical modulators]]
-- [[Photonic chips for data centers]]
-- [[Optical interconnect solutions]]
+- [[Opto-electronic solutions]]
+- [[Optical components]]
+- [[Laser diodes]]
+- [[Optical sensors]]
+- [[Optical interconnects]]
 
 ## 数据来源
 
 - 
-- [POET Technologies Inc. suppliers manufacturers](https://www.poet-technologies.com/about-us)
-- [POET Technologies Inc. suppliers manufacturers](https://simplywall.st/stocks/us/semiconductors/nasdaq-poet/poet-technologies)
-- [POET Technologies Inc. major customers clients](https://www.poet-technologies.com/about-us)
-- [POET Technologies Inc. major customers clients](https://parameter.io/poet-technologies-inc-poet-stock-powering-the-ai-interconnect-revolution-with-250m-boost-and-major-customer-wins/)
+- [POET Technologies Inc. suppliers manufacturers](https://csimarket.com/stocks/POET-Suppliers)
+- [POET Technologies Inc. suppliers manufacturers](https://www.poet-technologies.com/)
+- [POET Technologies Inc. major customers clients](https://www.reddit.com/r/POETTechnologiesInc/comments/1ll2ver/poet_client_base_as_of_june_2025/)
+- [POET Technologies Inc. major customers clients](https://www.poet-technologies.com/blog/letter-to-shareholders-from-dr-suresh-venkatesan)
 
 ## 元数据
 
-- **更新日期**: 2026-04-24
+- **更新日期**: 2026-04-27

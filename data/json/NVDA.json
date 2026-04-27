@@ -6,32 +6,32 @@
   "upstream": [
     "TSM",
     "005930.KS",
+    "GlobalFoundries",
     "MU",
-    "SK Hynix",
     "ASE Technology Holding"
   ],
   "downstream": [
-    "MSFT",
     "SONY",
-    "DELL",
+    "MSFT",
     "AMZN",
-    "TSLA"
+    "TSLA",
+    "DELL"
   ],
   "competitors": [
     "AMD",
     "INTC",
     "QCOM",
-    "AVGO",
-    "AAPL"
+    "AAPL",
+    "005930.KS"
   ],
   "key_products": [
     "GeForce RTX GPUs",
-    "Quadro/RTX GPUs for workstations",
-    "NVIDIA Tesla GPUs for AI/HPC",
-    "Tegra SoCs for mobile/automotive",
-    "NVIDIA Drive platform for autonomous vehicles"
+    "Tesla V100 / A100 GPUs",
+    "DGX AI supercomputers",
+    "NVIDIA Drive automotive platform",
+    "CUDA programming platform"
   ],
-  "extracted_at": "2026-04-24 16:44:20",
+  "extracted_at": "2026-04-27 17:14:51",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,15 +41,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Nvidia",
+      "url": "https://stocksandfuturestrading.com/the-complete-list-of-nvidias-suppliers-and-consumers/",
       "query": "NVIDIA Corporation suppliers manufacturers",
-      "snippet": "Nvidia Corporation . Show white logotype. Nvidia uses external suppliers for all phases of manufacturing , including wafer fabrication, assembly, test"
+      "snippet": "Nov 22, 2024 · Trading Resources The Complete List Of Nvidia ’s Suppliers And Consumers By Stocks & Futures Trading This is the most recently updated "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.britannica.com/money/NVIDIA-Corporation",
+      "url": "https://www.suppliersmap.com/nvidia",
       "query": "NVIDIA Corporation suppliers manufacturers",
-      "snippet": "NVIDIA Corporation (NVDA) is an American semiconductor company and a leading global manufacturer of high-end graphics processing units (GPUs). Based i"
+      "snippet": "Nvidia Nvidia works with leading semiconductor manufacturers for its GPU products, including TSMC for advanced chip fabrication, Samsung and Micron fo"
     },
     {
       "source": "DuckDuckGo",
@@ -59,9 +59,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.nvidia.com/en-us/",
+      "url": "https://www.investing.com/equities/nvidia-corp",
       "query": "NVIDIA Corporation major customers clients",
-      "snippet": "NVIDIA invents the GPU and drives advances in AI, HPC, gaming, creative design, autonomous vehicles, and robotics."
+      "snippet": "View today's NVIDIA Corporation stock price and latest NVDA news and analysis. Create real-time notifications to follow any changes in the live stock "
     }
   ]
 }

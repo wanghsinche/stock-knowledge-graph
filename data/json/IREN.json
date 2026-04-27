@@ -4,34 +4,34 @@
   "sector": "Financial Services",
   "industry": "Capital Markets",
   "upstream": [
-    "NASDAQ",
     "Bloomberg",
-    "Thomson Reuters",
-    "MSFT",
-    "AMZN"
+    "Refinitiv",
+    "S&P Global",
+    "FactSet",
+    "MSFT"
   ],
   "downstream": [
-    "Retail investors",
     "Institutional investors",
-    "High‑net‑worth individuals",
+    "Retail investors",
     "Corporate clients",
-    "Financial advisors"
+    "Asset managers",
+    "Pension funds"
   ],
   "competitors": [
-    "Charles Schwab",
-    "E*TRADE",
-    "TD Ameritrade",
-    "Robinhood",
-    "Interactive Brokers"
+    "Goldman Sachs",
+    "Morgan Stanley",
+    "J.P. Morgan",
+    "Citigroup",
+    "Bank of America Merrill Lynch"
   ],
   "key_products": [
-    "Online brokerage platform",
-    "Wealth management services",
-    "Investment research",
-    "Retirement planning",
-    "Margin trading"
+    "Investment banking services",
+    "Equity research",
+    "Securities trading platform",
+    "Asset management solutions",
+    "Capital raising services"
   ],
-  "extracted_at": "2026-04-24 16:49:18",
+  "extracted_at": "2026-04-27 17:23:55",
   "sources": [
     {
       "source": "Wikipedia",
@@ -53,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.tradingview.com/symbols/NASDAQ-IREN/forecast/",
+      "url": "https://csimarket.com/stocks/IREN-Customers",
       "query": "IREN Limited major customers clients",
-      "snippet": "IREN EPS for the last quarter is −0.52 USD despite the estimation of −0.11 USD. In the next quarter EPS is expected to reach −0.22 USD. Track more of "
+      "snippet": "Apr 15, 2026 · Iren Limited customers and markets, results by customer and performance relative to IREN , by company and industry - CSIMarket"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ca.finance.yahoo.com/quote/IREN/",
+      "url": "https://www.msn.com/en-us/money/topstocks/irens-ai-client-base-expands-is-growth-becoming-more-durable/ar-AA1T5bT4",
       "query": "IREN Limited major customers clients",
-      "snippet": "Find the latest IREN Limited ( IREN ) stock quote, history, news and other vital information to help you with your stock trading and investing."
+      "snippet": "IREN Limited ’s IREN expanding AI client base is increasingly pointing to a more durable growth profile, reducing reliance on any single anchor client"
     }
   ]
 }

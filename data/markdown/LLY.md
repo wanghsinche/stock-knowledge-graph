@@ -3,8 +3,8 @@ ticker: LLY
 company: Eli Lilly and Company
 sector: Healthcare
 industry: Drug Manufacturers - General
-extracted_at: 2026-04-24 16:47:05
-last_updated: 2026-04-24
+extracted_at: 2026-04-27 17:23:11
+last_updated: 2026-04-27
 ---
 
 # LLY - Eli Lilly and Company
@@ -12,38 +12,37 @@ last_updated: 2026-04-24
 ## 基本信息
 
 - **所属行业**: Healthcare / Drug Manufacturers - General
-- **提取时间**: 2026-04-24 16:47:05
+- **提取时间**: 2026-04-27 17:23:11
 
 ## 产业链关系
 
 ### 上游供应商
 - [[Active Pharmaceutical Ingredient (API) suppliers]]
-- [[Contract manufacturing organizations (CMOs)]]
 - [[Chemical raw material suppliers]]
-- [[Biotechnology contract research organizations (CROs)]]
-- [[Packaging material providers]]
+- [[Contract drug manufacturing partners]]
+- [[Packaging and labeling suppliers]]
+- [[Logistics and transportation providers]]
 
 ### 下游客户
 - [[Hospitals and health systems]]
-- [[Pharmacies and retail chains]]
+- [[Community and retail pharmacies]]
 - [[Government health agencies (e.g., Medicare, Medicaid)]]
-- [[International health organizations (e.g., WHO, UNICEF)]]
-- [[Private health insurers]]
+- [[Insurance companies and payers]]
+- [[International health ministries and NGOs]]
 
 ### 竞争对手
 - [[Pfizer]]
 - [[Johnson & Johnson]]
+- [[Novartis]]
 - [[Merck & Co.]]
-- [[AbbVie]]
-- [[Bristol Myers Squibb]]
+- [[Bristol-Myers Squibb]]
 
 ### 核心产品
 - [[Humulin (insulin)]]
-- [[Lantus (insulin glargine)]]
 - [[Humalog (insulin lispro)]]
-- [[Cialis (tadalafil)]]
 - [[Trulicity (dulaglutide)]]
-- [[Mounjaro (tirzepatide)]]
+- [[Zyprexa (olanzapine)]]
+- [[Cymbalta (duloxetine)]]
 
 ## 数据来源
 
@@ -55,4 +54,4 @@ last_updated: 2026-04-24
 
 ## 元数据
 
-- **更新日期**: 2026-04-24
+- **更新日期**: 2026-04-27

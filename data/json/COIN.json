@@ -6,32 +6,32 @@
   "upstream": [
     "AMZN",
     "MSFT",
-    "GOOGL",
-    "Stripe",
-    "PayPal"
+    "Stripe (payment processing)",
+    "CoinMarketCap (market data provider)",
+    "Okta (identity & access management)"
   ],
   "downstream": [
-    "Retail cryptocurrency users",
+    "Retail cryptocurrency traders",
     "Institutional investors",
-    "Crypto traders",
-    "Merchant payment processors",
-    "DeFi platforms"
+    "Merchants accepting crypto payments",
+    "Developers using Coinbase API",
+    "Financial institutions using institutional services"
   ],
   "competitors": [
     "Binance",
     "Kraken",
     "Gemini",
     "Bitstamp",
-    "eToro"
+    "FTX"
   ],
   "key_products": [
-    "Coinbase Pro trading platform",
-    "Coinbase Wallet",
-    "Coinbase Custody",
-    "Coinbase Earn",
-    "Coinbase Card"
+    "Cryptocurrency trading platform",
+    "Custody services",
+    "Staking services",
+    "Developer API",
+    "Institutional trading platform (Coinbase Prime)"
   ],
-  "extracted_at": "2026-04-22 16:55:51",
+  "extracted_at": "2026-04-27 17:22:34",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,25 +43,25 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Coinbase",
       "query": "Coinbase Global, Inc. suppliers manufacturers",
-      "snippet": "Coinbase has over 100 million users, [7] and is the largest U.S. based cryptocurrency exchange as well as the world's biggest bitcoin custodian, as of"
+      "snippet": "Coinbase Global , Inc . is an American cryptocurrency exchange. It was founded in 2012 by Brian Armstrong and Fred Ehrsam."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://fintel.io/doc/sec-coinbase-global-inc-1679788-ex211-2024-february-15-19768-5823",
+      "url": "https://ru.wikipedia.org/wiki/Coinbase",
       "query": "Coinbase Global, Inc. suppliers manufacturers",
-      "snippet": "Pursuant to Item 601 (b) (21) (ii) of Regulation S-K, the names of other subsidiaries of Coinbase Global , Inc . are omitted because, considered in th"
+      "snippet": "Coinbase Global , Inc . (бренд Coinbase ) — американская публичная компания, которая управляет онлайн-сервисом обмена цифровых валют (биржей криптовал"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.marketbeat.com/stocks/NASDAQ/COIN/competitors-and-alternatives/",
-      "query": "Coinbase Global, Inc. competitors alternatives",
-      "snippet": "5 days ago · Should you be buying Coinbase Global stock or one of its competitors ? The main competitors of Coinbase Global include Robinhood Markets "
+      "url": "https://en.wikipedia.org/wiki/Coinbase",
+      "query": "Coinbase Global, Inc. major customers clients",
+      "snippet": "Coinbase Global , Inc . is an American cryptocurrency exchange. It was founded in 2012 by Brian Armstrong and Fred Ehrsam."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://walletreviewer.com/best-coinbase-alternatives/",
-      "query": "Coinbase Global, Inc. competitors alternatives",
-      "snippet": "Mar 27, 2026 · This guide is going to break down the 6 best alternatives to Coinbase crypto exchange available right now. We’ve looked past the hype t"
+      "url": "https://finance.yahoo.com/quote/COIN/",
+      "query": "Coinbase Global, Inc. major customers clients",
+      "snippet": "Find the latest Coinbase Global , Inc . (COIN) stock quote, history, news and other vital information to help you with your stock trading and investin"
     }
   ]
 }

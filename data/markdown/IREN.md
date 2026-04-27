@@ -3,8 +3,8 @@ ticker: IREN
 company: IREN Limited
 sector: Financial Services
 industry: Capital Markets
-extracted_at: 2026-04-24 16:49:18
-last_updated: 2026-04-24
+extracted_at: 2026-04-27 17:23:55
+last_updated: 2026-04-27
 ---
 
 # IREN - IREN Limited
@@ -12,46 +12,46 @@ last_updated: 2026-04-24
 ## 基本信息
 
 - **所属行业**: Financial Services / Capital Markets
-- **提取时间**: 2026-04-24 16:49:18
+- **提取时间**: 2026-04-27 17:23:55
 
 ## 产业链关系
 
 ### 上游供应商
-- [[NASDAQ]]
 - [[Bloomberg]]
-- [[Thomson Reuters]]
+- [[Refinitiv]]
+- [[S&P Global]]
+- [[FactSet]]
 - [[MSFT]]
-- [[AMZN]]
 
 ### 下游客户
-- [[Retail investors]]
 - [[Institutional investors]]
-- [[High‑net‑worth individuals]]
+- [[Retail investors]]
 - [[Corporate clients]]
-- [[Financial advisors]]
+- [[Asset managers]]
+- [[Pension funds]]
 
 ### 竞争对手
-- [[Charles Schwab]]
-- [[E*TRADE]]
-- [[TD Ameritrade]]
-- [[Robinhood]]
-- [[Interactive Brokers]]
+- [[Goldman Sachs]]
+- [[Morgan Stanley]]
+- [[J.P. Morgan]]
+- [[Citigroup]]
+- [[Bank of America Merrill Lynch]]
 
 ### 核心产品
-- [[Online brokerage platform]]
-- [[Wealth management services]]
-- [[Investment research]]
-- [[Retirement planning]]
-- [[Margin trading]]
+- [[Investment banking services]]
+- [[Equity research]]
+- [[Securities trading platform]]
+- [[Asset management solutions]]
+- [[Capital raising services]]
 
 ## 数据来源
 
 - 
 - [IREN Limited suppliers manufacturers](https://www.investing.com/equities/iris-energy)
 - [IREN Limited suppliers manufacturers](https://ca.finance.yahoo.com/quote/IREN/)
-- [IREN Limited major customers clients](https://www.tradingview.com/symbols/NASDAQ-IREN/forecast/)
-- [IREN Limited major customers clients](https://ca.finance.yahoo.com/quote/IREN/)
+- [IREN Limited major customers clients](https://csimarket.com/stocks/IREN-Customers)
+- [IREN Limited major customers clients](https://www.msn.com/en-us/money/topstocks/irens-ai-client-base-expands-is-growth-becoming-more-durable/ar-AA1T5bT4)
 
 ## 元数据
 
-- **更新日期**: 2026-04-24
+- **更新日期**: 2026-04-27

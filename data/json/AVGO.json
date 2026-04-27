@@ -1,37 +1,37 @@
 {
   "ticker": "AVGO",
   "company_name": "Broadcom Inc.",
-  "sector": "Technology",
+  "sector": "Technology / Semiconductors",
   "industry": "Semiconductors",
   "upstream": [
     "TSM",
     "005930.KS",
     "GlobalFoundries",
     "UMC",
-    "SMIC"
+    "INTC"
   ],
   "downstream": [
     "CSCO",
     "DELL",
-    "HPQ",
     "IBM",
-    "AMZN"
+    "AMZN",
+    "MSFT"
   ],
   "competitors": [
     "QCOM",
     "INTC",
-    "NVDA",
-    "TXN",
-    "MRVL"
+    "MRVL",
+    "MediaTek",
+    "NVDA"
   ],
   "key_products": [
-    "Wi‑Fi and Bluetooth chips",
-    "Ethernet controllers",
-    "Broadcom 802.11 wireless modules",
+    "Broadcom BCM network chips",
+    "Broadcom Wi‑Fi/Bluetooth chips",
+    "Broadcom broadband chips",
     "Broadcom storage controllers",
-    "Broadcom networking switches"
+    "Broadcom data center ASICs"
   ],
-  "extracted_at": "2026-04-24 16:45:34",
+  "extracted_at": "2026-04-27 17:16:51",
   "sources": [
     {
       "source": "Wikipedia",
@@ -55,13 +55,13 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Broadcom",
       "query": "Broadcom Inc. major customers clients",
-      "snippet": "The Vanguard Group (10.03%) · BlackRock (7.63%) · Capital World Investors (4.53%) · Capital International Investors (4.04%) · State Street Corporation"
+      "snippet": "Broadcom Inc . is an American multinational designer, developer, manufacturer, and global supplier of a wide range of semiconductor and infrastructure"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.broadcom.com/case-studies",
+      "url": "https://csimarket.com/stocks/AVGO-Customers",
       "query": "Broadcom Inc. major customers clients",
-      "snippet": "Broadcom solutions empower our customers success. Power your future with Broadcom."
+      "snippet": "Broadcom Inc 's Comment on Sales, Marketing and Customers We sell our products to leading wired and wireless communications manufacturers. We have als"
     }
   ]
 }

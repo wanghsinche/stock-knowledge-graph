@@ -3,8 +3,8 @@ ticker: IBM
 company: International Business Machines Corporation
 sector: Technology
 industry: Information Technology Services
-extracted_at: 2026-04-24 16:50:03
-last_updated: 2026-04-24
+extracted_at: 2026-04-27 17:25:02
+last_updated: 2026-04-27
 ---
 
 # IBM - International Business Machines Corporation
@@ -12,30 +12,30 @@ last_updated: 2026-04-24
 ## 基本信息
 
 - **所属行业**: Technology / Information Technology Services
-- **提取时间**: 2026-04-24 16:50:03
+- **提取时间**: 2026-04-27 17:25:02
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Bundy Manufacturing Company]]
 - [[INTC]]
+- [[NVDA]]
 - [[AMD]]
-- [[DELL]]
-- [[HPQ]]
+- [[QCOM]]
+- [[005930.KS]]
 
 ### 下游客户
-- [[AMZN]]
-- [[GOOGL]]
-- [[MSFT]]
-- [[Walmart]]
+- [[U.S. Federal Government]]
 - [[JPMorgan Chase]]
+- [[Bank of America]]
+- [[UnitedHealth Group]]
+- [[AT&T]]
 
 ### 竞争对手
+- [[MSFT]]
 - [[Accenture]]
-- [[Deloitte]]
-- [[Capgemini]]
-- [[TCS]]
-- [[Infosys]]
+- [[ORCL]]
+- [[SAP]]
+- [[CSCO]]
 
 ### 核心产品
 - [[IBM Cloud]]
@@ -47,11 +47,11 @@ last_updated: 2026-04-24
 ## 数据来源
 
 - [IBM](https://en.wikipedia.org/wiki/International_Business_Machines_Corporation)
-- [International Business Machines Corporation suppliers manufacturers](https://en.wikipedia.org/wiki/List_of_mergers_and_acquisitions_by_IBM)
+- [International Business Machines Corporation suppliers manufacturers](https://en.wikipedia.org/wiki/List_of_IBM_products)
 - [International Business Machines Corporation suppliers manufacturers](https://csimarket.com/stocks/IBM-Suppliers)
 - [International Business Machines Corporation major customers clients](https://en.wikipedia.org/wiki/IBM)
-- [International Business Machines Corporation major customers clients](https://stocklight.com/stocks/us/nyse-ibm/international-business-machines/annual-reports/nyse-ibm-2025-10K-25663330.pdf)
+- [International Business Machines Corporation major customers clients](https://www.insidermonkey.com/blog/international-business-machines-corporation-nyseibm-q1-2026-earnings-call-transcript-1744782/)
 
 ## 元数据
 
-- **更新日期**: 2026-04-24
+- **更新日期**: 2026-04-27

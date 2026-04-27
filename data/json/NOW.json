@@ -2,36 +2,36 @@
   "ticker": "NOW",
   "company_name": "ServiceNow, Inc.",
   "sector": "Technology",
-  "industry": "Application Software",
+  "industry": "Software - Application",
   "upstream": [
     "AMZN",
     "MSFT",
     "GOOGL",
-    "DELL",
-    "CSCO"
+    "IBM",
+    "ORCL"
   ],
   "downstream": [
-    "Walmart",
-    "JPMorgan Chase",
     "AT&T",
+    "Coca-Cola",
     "Bank of America",
-    "CAT"
+    "Walmart",
+    "American Express"
   ],
   "competitors": [
     "CRM",
     "MSFT",
-    "SAP",
+    "SAP SuccessFactors",
     "ORCL",
-    "IBM"
+    "Workday"
   ],
   "key_products": [
-    "ServiceNow Platform",
+    "Now Platform",
     "IT Service Management (ITSM)",
     "IT Operations Management (ITOM)",
-    "Customer Service Management (CSM)",
-    "HR Service Delivery"
+    "IT Business Management (ITBM)",
+    "Customer Service Management (CSM)"
   ],
-  "extracted_at": "2026-04-24 16:47:47",
+  "extracted_at": "2026-04-27 17:18:18",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,21 +47,21 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/NOW-Suppliers",
+      "url": "https://itcompanies.net/blog/top-servicenow-partners",
       "query": "ServiceNow, Inc. suppliers manufacturers",
-      "snippet": "Jan 29, 2026 · Servicenow Inc supply chain, list and performance of Servicenow Incs ' suppliers - CSIMarket"
+      "snippet": "ServiceNow has 5 different partner programs as at now, as follows: 1. Sales Partners: For those who want to resale ServiceNow products or offer outsou"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.aventionmedia.com/technology-installed-base/servicenow/",
       "query": "ServiceNow, Inc. major customers clients",
-      "snippet": "Discover Avention Media’s accurate and customizable ServiceNow customers list. Our verified ServiceNow data helps you target key decision-makers and c"
+      "snippet": "Businesses whose solutions and services can help Cloud- Service Customers achieve any of their business requirements can make use of our List of Compa"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://data.landbase.com/technology/servicenow/",
       "query": "ServiceNow, Inc. major customers clients",
-      "snippet": "Aug 17, 2025 · ServiceNow by ServiceNow, is a cloud-based platform designed for digital workflows. It’s commonly employed to automate and enhance vari"
+      "snippet": "Aug 17, 2025 · Our ServiceNow customers list is available for download and comes enriched with vital company specifics, including industry classificat"
     }
   ]
 }

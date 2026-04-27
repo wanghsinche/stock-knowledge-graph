@@ -1,57 +1,57 @@
 ---
 ticker: STX
 company: Seagate Technology Holdings plc
-sector: Technology
-industry: Computer Hardware
-extracted_at: 2026-04-23 17:17:38
-last_updated: 2026-04-23
+sector: Technology / Computer Hardware
+industry: Storage Solutions
+extracted_at: 2026-04-27 17:21:03
+last_updated: 2026-04-27
 ---
 
 # STX - Seagate Technology Holdings plc
 
 ## 基本信息
 
-- **所属行业**: Technology / Computer Hardware
-- **提取时间**: 2026-04-23 17:17:38
+- **所属行业**: Technology / Computer Hardware / Storage Solutions
+- **提取时间**: 2026-04-27 17:21:03
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Silicon wafer suppliers]]
-- [[Magnetic head manufacturers]]
-- [[Platter material suppliers]]
+- [[Silicon wafer manufacturers]]
+- [[MU]]
 - [[Electronics component suppliers]]
-- [[Firmware development partners]]
+- [[Firmware and software vendors]]
+- [[Power supply and cooling system providers]]
 
 ### 下游客户
 - [[DELL]]
 - [[HPQ]]
 - [[Lenovo Group]]
 - [[AAPL]]
-- [[AMZN]]
+- [[MSFT]]
 
 ### 竞争对手
 - [[WDC]]
-- [[Toshiba (Kioxia)]]
+- [[Toshiba Corporation]]
 - [[005930.KS]]
-- [[MU]]
-- [[IBM]]
+- [[INTC]]
+- [[SK Hynix Inc.]]
 
 ### 核心产品
-- [[Enterprise HDDs]]
-- [[Desktop HDDs]]
-- [[Portable HDDs]]
-- [[SSD solutions]]
-- [[Data center storage solutions]]
+- [[Seagate Barracuda HDDs]]
+- [[Seagate IronWolf NAS drives]]
+- [[Seagate Exos Enterprise drives]]
+- [[Seagate Skyhawk SSDs]]
+- [[Seagate Cloud Storage solutions]]
 
 ## 数据来源
 
 - 
-- [Seagate Technology Holdings plc suppliers manufacturers](https://en.wikipedia.org/wiki/Seagate_Technology)
-- [Seagate Technology Holdings plc suppliers manufacturers](https://csimarket.com/stocks/STX-Suppliers)
-- [Seagate Technology Holdings plc major customers clients](https://finviz.com/news/255379/seagate-outpaces-industry-in-6-months-how-to-play-the-stock)
-- [Seagate Technology Holdings plc major customers clients](https://csimarket.com/stocks/STX-Return-on-Assets-ROA.html)
+- [Seagate Technology Holdings plc suppliers manufacturers](https://www.seagate.com/)
+- [Seagate Technology Holdings plc suppliers manufacturers](https://csimarket.com/news/seagate-technology-holdings-plc-faces-stock-underperformance-amidst-losses-but-future-outlook-looks-promising2024-08-07181730)
+- [Seagate Technology Holdings plc major customers clients](https://finviz.com/news/172461/seagate-stock-surges-1534-in-6-months-will-the-uptrend-continue)
+- [Seagate Technology Holdings plc major customers clients](https://www.youtube.com/channel/UC6nPUTO22UXVxD8uOei8BjA)
 
 ## 元数据
 
-- **更新日期**: 2026-04-23
+- **更新日期**: 2026-04-27

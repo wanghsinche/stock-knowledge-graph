@@ -1,57 +1,57 @@
 ---
 ticker: MSTR
-company: Strategy Inc
+company: MicroStrategy Incorporated
 sector: Technology
 industry: Software - Application
-extracted_at: 2026-04-24 16:48:33
-last_updated: 2026-04-24
+extracted_at: 2026-04-27 17:18:33
+last_updated: 2026-04-27
 ---
 
-# MSTR - Strategy Inc
+# MSTR - MicroStrategy Incorporated
 
 ## 基本信息
 
 - **所属行业**: Technology / Software - Application
-- **提取时间**: 2026-04-24 16:48:33
+- **提取时间**: 2026-04-27 17:18:33
 
 ## 产业链关系
 
 ### 上游供应商
-- [[DELL]]
-- [[HPQ]]
-- [[IBM]]
 - [[MSFT]]
+- [[AMZN]]
+- [[GOOGL]]
 - [[ORCL]]
+- [[IBM]]
 
 ### 下游客户
-- [[Financial services firms]]
-- [[Retail banks]]
-- [[Government agencies]]
-- [[Insurance companies]]
-- [[Healthcare providers]]
+- [[Banking and Financial Services]]
+- [[Healthcare]]
+- [[Retail]]
+- [[Manufacturing]]
+- [[Government Agencies]]
 
 ### 竞争对手
-- [[Tableau]]
+- [[Tableau Software]]
 - [[Qlik]]
 - [[MSFT]]
 - [[SAP BusinessObjects]]
 - [[IBM]]
 
 ### 核心产品
-- [[MicroStrategy Analytics Platform]]
-- [[MicroStrategy Mobile]]
+- [[MicroStrategy Analytics]]
 - [[MicroStrategy Cloud]]
+- [[MicroStrategy Mobile]]
 - [[MicroStrategy Data Warehouse]]
 - [[MicroStrategy AI]]
 
 ## 数据来源
 
 - 
+- [Strategy Inc suppliers manufacturers](https://www.strategyinc.net/)
 - [Strategy Inc suppliers manufacturers](https://www.strategyinc.net/services-overview/)
-- [Strategy Inc suppliers manufacturers](https://www.strategy.com/company)
-- [Strategy Inc major customers clients](https://en.wikipedia.org/wiki/MicroStrategy)
-- [Strategy Inc major customers clients](https://finance.yahoo.com/quote/MSTR/)
+- [Strategy Inc major customers clients](https://www.strategy.com/software/news/strategy-recognized-as-a-customers-choice-on-gartner-peer-insights-through-user-feedback-for-fourth-consecutive-year)
+- [Strategy Inc major customers clients](https://finance.yahoo.com/quote/STRK/profile/?fr=sycsrp_catchall)
 
 ## 元数据
 
-- **更新日期**: 2026-04-24
+- **更新日期**: 2026-04-27

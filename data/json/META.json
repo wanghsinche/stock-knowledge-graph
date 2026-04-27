@@ -4,17 +4,17 @@
   "sector": "Communication Services",
   "industry": "Internet Content & Information",
   "upstream": [
-    "DELL",
-    "HPQ",
-    "CSCO",
     "NVDA",
-    "AMD"
+    "INTC",
+    "QCOM",
+    "DELL",
+    "CSCO"
   ],
   "downstream": [
-    "Advertisers (B2B)",
+    "Advertisers (e.g., Coca‑Cola, Nike)",
     "App developers",
-    "Content creators",
-    "E‑commerce merchants",
+    "Small businesses",
+    "Large enterprises",
     "Media partners"
   ],
   "competitors": [
@@ -31,7 +31,7 @@
     "Messenger",
     "Threads"
   ],
-  "extracted_at": "2026-04-24 16:45:44",
+  "extracted_at": "2026-04-27 17:16:17",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,15 +41,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/META-Suppliers",
+      "url": "https://en.wikipedia.org/wiki/Meta_Platforms",
       "query": "Meta Platforms, Inc. suppliers manufacturers",
-      "snippet": "Mar 3, 2026 · Meta Platforms Inc 's Suppliers recorded an increase in sales by 4.8 % year on year in Q4 2025, sequentially sales grew by 531.1 %, Meta"
+      "snippet": "Meta Platforms , Inc . (doing business as Meta) is an American multinational technology company headquartered in Menlo Park, California. Meta owns and"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.meta.com/about/",
+      "url": "https://csimarket.com/stocks/META-Suppliers",
       "query": "Meta Platforms, Inc. suppliers manufacturers",
-      "snippet": "Learn more about Meta and stay updated on our role in social technology, virtual reality, augmented reality, and the future of human connection."
+      "snippet": "Mar 3, 2026 · Meta Platforms Inc 's Suppliers recorded an increase in sales by 4.8 % year on year in Q4 2025, sequentially sales grew by 531.1 %, Meta"
     },
     {
       "source": "DuckDuckGo",

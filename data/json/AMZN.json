@@ -4,35 +4,34 @@
   "sector": "Consumer Cyclical",
   "industry": "Internet Retail",
   "upstream": [
-    "AAPL",
-    "Third‑party sellers",
-    "OEMs and contract manufacturers",
-    "Supplier logistics partners",
-    "Digital content creators"
+    "Electronics manufacturers",
+    "Apparel manufacturers",
+    "Home goods manufacturers",
+    "Book publishers",
+    "Toy manufacturers"
   ],
   "downstream": [
-    "AMZN",
-    "AWS enterprise clients",
-    "AMZN",
-    "Prime members",
-    "AMZN"
+    "Retail consumers worldwide",
+    "Small and medium‑size businesses",
+    "Enterprise IT customers (AWS)",
+    "Government agencies",
+    "Media streaming services"
   ],
   "competitors": [
+    "eBay",
     "Walmart",
     "Alibaba",
-    "eBay",
     "Shopify",
     "Target"
   ],
   "key_products": [
-    "Amazon e‑commerce marketplace",
-    "Amazon Web Services (cloud computing)",
-    "Amazon Prime subscription services",
-    "Amazon Advertising platform",
-    "Amazon Devices (Echo, Kindle, Fire)",
-    "Digital streaming services (Amazon Music, Prime Video)"
+    "Amazon.com marketplace",
+    "Amazon Prime subscription",
+    "Amazon Web Services (AWS)",
+    "Amazon Kindle e‑readers",
+    "Amazon Echo (Alexa)"
   ],
-  "extracted_at": "2026-04-24 16:45:15",
+  "extracted_at": "2026-04-27 17:15:55",
   "sources": [
     {
       "source": "Wikipedia",
@@ -48,21 +47,21 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.amazon.com/home-garden-kitchen-furniture-bedding/b?ie=UTF8&node=1055398",
+      "url": "https://www.amazon.com/power-tools-hand-tools/b?ie=UTF8&node=328182011",
       "query": "Amazon.com, Inc. suppliers manufacturers",
-      "snippet": "Shop a wide selection of products for your home at Amazon . com . Free shipping and free returns on eligible items."
+      "snippet": "Shop through a wide selection of Power & Hand Tools at Amazon . com . Free shipping and free returns on Prime eligible items."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Amazon_Web_Services",
+      "url": "https://capitaloneshopping.com/research/amazon-statistics/",
       "query": "Amazon.com, Inc. major customers clients",
-      "snippet": "1 week ago - Multiple financial services firms have shifted to AWS in some form. Notable customers include NASA and the Obama presidential campaign of"
+      "snippet": "Mar 29, 2026 · Statistics & analysis on Amazon including total sales (per year & minute), number of products (SKUs), customers , sellers & more."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Amazon_(company)",
+      "url": "https://serpwatch.io/blog/amazon-customer-demographics/",
       "query": "Amazon.com, Inc. major customers clients",
-      "snippet": "3 days ago - Amazon Flex, a smartphone app that enables individuals to act as independent contractors, delivering packages to customers from personal "
+      "snippet": "Jan 3, 2022 · Amazon is the leading ecommerce platform with a global customer base. Learn more about Amazon customer demographics."
     }
   ]
 }

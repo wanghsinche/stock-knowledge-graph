@@ -1,21 +1,21 @@
 {
   "ticker": "NFLX",
   "company_name": "Netflix, Inc.",
-  "sector": "Communication Services / Entertainment",
-  "industry": "Streaming Media",
+  "sector": "Communication Services",
+  "industry": "Entertainment",
   "upstream": [
-    "Warner Bros. Discovery",
-    "Disney",
-    "SONY",
-    "Paramount Global",
-    "Universal Studios"
+    "Content production studios (e.g., Warner Bros., Disney)",
+    "Film and TV distributors",
+    "AAPL",
+    "AMZN",
+    "Marketing and advertising agencies"
   ],
   "downstream": [
-    "Global household subscribers",
-    "Individual consumers",
-    "Corporate streaming accounts",
-    "CAT",
-    "Media partners"
+    "Individual subscribers worldwide",
+    "005930.KS",
+    "AMZN",
+    "Cable and satellite providers (e.g., Comcast, AT&T)",
+    "Mobile network operators"
   ],
   "competitors": [
     "Disney+",
@@ -27,11 +27,11 @@
   "key_products": [
     "Over-the-top streaming service",
     "Original series and films",
-    "Licensed movies and TV shows",
+    "Licensed TV shows and movies",
     "Mobile and web applications",
-    "Interactive content"
+    "User recommendation algorithms"
   ],
-  "extracted_at": "2026-04-24 16:48:13",
+  "extracted_at": "2026-04-27 17:19:54",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.case48.com/porter-analysis/5226-Netflix-Inc",
-      "query": "Netflix, Inc. suppliers manufacturers",
-      "snippet": "Netflix Inc is highly price sensitive and has adequate market knowledge. There is no threat of forward integration by suppliers . How Netflix Inc can "
-    },
-    {
-      "source": "DuckDuckGo",
       "url": "https://www.alibaba.com/",
       "query": "Netflix, Inc. suppliers manufacturers",
       "snippet": "Find quality Manufacturers , Suppliers , Exporters, Importers, Buyers, Wholesalers, Products and Trade Leads from our award-winning International Trad"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://businessmodelanalyst.com/netflix-target-market/",
-      "query": "Netflix, Inc. major customers clients",
-      "snippet": "Dec 11, 2024 · In this context, understanding Netflix target market becomes even more significant for other brands hoping to emulate its success."
+      "url": "https://www.netflix.com/?locale=en-US",
+      "query": "Netflix, Inc. suppliers manufacturers",
+      "snippet": "Sign in with your Netflix account to watch instantly on the web at netflix .com from your personal computer or on any internet-connected device that o"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/NFLX-Customers",
+      "url": "https://www.netflix.com/?locale=en-US",
       "query": "Netflix, Inc. major customers clients",
-      "snippet": "Apr 11, 2026 · During the corresponding time, Netflix Inc recorded a revenue increase by 8.81 % year on year, sequentially revenue grew by 4.7 %. Whil"
+      "snippet": "Watch Netflix movies & TV shows online or stream right to your smart TV, game console, PC, Mac, mobile, tablet and more."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.inc.com/jason-aten/netflix-just-revealed-its-doing-the-1-thing-customers-were-most-afraid-of/91110628",
+      "query": "Netflix, Inc. major customers clients",
+      "snippet": "Look, that’s basically Netflix ’s most reliable strategy. It’s right up there with dumping an entire season of episodes at a time to encourage custome"
     }
   ]
 }

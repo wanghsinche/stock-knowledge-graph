@@ -4,25 +4,25 @@
   "sector": "Technology",
   "industry": "Information Technology Services",
   "upstream": [
-    "Bundy Manufacturing Company",
     "INTC",
+    "NVDA",
     "AMD",
-    "DELL",
-    "HPQ"
+    "QCOM",
+    "005930.KS"
   ],
   "downstream": [
-    "AMZN",
-    "GOOGL",
-    "MSFT",
-    "Walmart",
-    "JPMorgan Chase"
+    "U.S. Federal Government",
+    "JPMorgan Chase",
+    "Bank of America",
+    "UnitedHealth Group",
+    "AT&T"
   ],
   "competitors": [
+    "MSFT",
     "Accenture",
-    "Deloitte",
-    "Capgemini",
-    "TCS",
-    "Infosys"
+    "ORCL",
+    "SAP",
+    "CSCO"
   ],
   "key_products": [
     "IBM Cloud",
@@ -31,7 +31,7 @@
     "IBM Security",
     "IBM Analytics"
   ],
-  "extracted_at": "2026-04-24 16:50:03",
+  "extracted_at": "2026-04-27 17:25:02",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,9 +41,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/List_of_mergers_and_acquisitions_by_IBM",
+      "url": "https://en.wikipedia.org/wiki/List_of_IBM_products",
       "query": "International Business Machines Corporation suppliers manufacturers",
-      "snippet": "The 1911 CTR stock prospectus states that the Bundy Manufacturing Company was also included. [7] While ITR had acquired its time recording business in"
+      "snippet": "The list of IBM products is a partial list of products, services, and subsidiaries of International Business Machines (IBM) Corporation and its predec"
     },
     {
       "source": "DuckDuckGo",
@@ -55,13 +55,13 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/IBM",
       "query": "International Business Machines Corporation major customers clients",
-      "snippet": "IBM was founded in 1911 as the Computing-Tabulating-Recording Company (CTR), a holding company of manufacturers of record-keeping and measuring system"
+      "snippet": "International Business Machines Corporation . International Business Machines Corporation , doing business as IBM (nicknamed Big Blue),[6] is an Ameri"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://stocklight.com/stocks/us/nyse-ibm/international-business-machines/annual-reports/nyse-ibm-2025-10K-25663330.pdf",
+      "url": "https://www.insidermonkey.com/blog/international-business-machines-corporation-nyseibm-q1-2026-earnings-call-transcript-1744782/",
       "query": "International Business Machines Corporation major customers clients",
-      "snippet": "This was signaled over 100 years ago, in 1924, when C-T-R changed its name to International Business Machines Corporation . And it continues today—we "
+      "snippet": "International Business Machines Corporation beats earnings expectations.Every major technology wave has followed a pattern. Value begins with infrastr"
     }
   ]
 }

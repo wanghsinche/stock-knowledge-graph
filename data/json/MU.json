@@ -4,34 +4,32 @@
   "sector": "Technology",
   "industry": "Semiconductors",
   "upstream": [
-    "AMAT",
     "ASML",
+    "AMAT",
     "LRCX",
     "Tokyo Electron",
-    "KLA"
+    "Nikon"
   ],
   "downstream": [
     "AAPL",
+    "005930.KS",
     "DELL",
     "HPQ",
-    "Lenovo",
-    "MSFT"
+    "NVDA"
   ],
   "competitors": [
     "005930.KS",
     "SK Hynix",
-    "INTC",
-    "WDC",
-    "Toshiba"
+    "WDC"
   ],
   "key_products": [
-    "DRAM",
+    "Dynamic Random-Access Memory (DRAM)",
     "NAND Flash Memory",
     "Solid-State Drives (SSDs)",
     "Memory Modules",
-    "Memory Solutions"
+    "Embedded DRAM (eDRAM)"
   ],
-  "extracted_at": "2026-04-24 16:44:56",
+  "extracted_at": "2026-04-27 17:15:02",
   "sources": [
     {
       "source": "Wikipedia",
@@ -49,7 +47,7 @@
       "source": "DuckDuckGo",
       "url": "https://www.micron.com/",
       "query": "Micron Technology, Inc. suppliers manufacturers",
-      "snippet": "Explore Micron Technology , leading in semiconductors with a broad range of performance-enhancing memory and storage solutions.Sales network. Supplier"
+      "snippet": "Micron engineers advanced memory and storage solutions designed to meet the dynamic demands of industrial IoT and aerospace systems. Our technologies "
     },
     {
       "source": "DuckDuckGo",
@@ -59,9 +57,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.micron.com/",
+      "url": "https://finance.yahoo.com/quote/MU/",
       "query": "Micron Technology, Inc. major customers clients",
-      "snippet": "Explore Micron Technology , leading in semiconductors with a broad range of performance-enhancing memory and storage solutions."
+      "snippet": "Find the latest Micron Technology , Inc . (MU) stock quote, history, news and other vital information to help you with your stock trading and investin"
     }
   ]
 }

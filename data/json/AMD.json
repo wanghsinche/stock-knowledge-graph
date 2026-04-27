@@ -7,15 +7,15 @@
     "TSM",
     "005930.KS",
     "GlobalFoundries",
-    "MU",
-    "SK Hynix"
+    "UMC",
+    "ASML"
   ],
   "downstream": [
+    "MSFT",
     "DELL",
     "HPQ",
-    "Lenovo Group",
-    "MSFT",
-    "AMZN"
+    "Lenovo",
+    "SONY"
   ],
   "competitors": [
     "INTC",
@@ -26,12 +26,12 @@
   ],
   "key_products": [
     "Ryzen CPUs",
-    "EPYC CPUs",
+    "EPYC servers",
     "Radeon GPUs",
-    "Radeon Instinct GPUs",
-    "Xilinx FPGAs"
+    "Radeon Instinct accelerators",
+    "AMD GPUs for gaming"
   ],
-  "extracted_at": "2026-04-24 16:44:29",
+  "extracted_at": "2026-04-27 17:15:21",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/AMD",
+      "url": "https://en.wikipedia.org/wiki/List_of_system_on_a_chip_suppliers",
       "query": "Advanced Micro Devices, Inc. suppliers manufacturers",
-      "snippet": "Advanced Micro Devices , Inc . Advanced Micro Devices , Inc . ( AMD ) is an American multinational semiconductor company headquartered in Santa Clara,"
+      "snippet": "The following is a list of system-on-a-chip suppliers . Actions Semiconductor Advanced Micro Devices (AMD) Advanced Semiconductor Engineering (ASE) Al"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.britannica.com/money/Advanced-Micro-Devices-Inc",
+      "url": "https://csimarket.com/stocks/AMD-Suppliers",
       "query": "Advanced Micro Devices, Inc. suppliers manufacturers",
-      "snippet": "Advanced Micro Devices , Inc . ( AMD ) is an American semiconductor designer and global supplier of computing and graphics technologies used in data c"
+      "snippet": "Feb 9, 2026 · Advanced Micro Devices Inc's Sup pliers recorded an increase in sales by 31.98 % year on year in Q4 2025, sequentially sales grew by 485"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://csimarket.com/stocks/AMD-Customers",
       "query": "Advanced Micro Devices, Inc. major customers clients",
-      "snippet": "Advanced Micro Devices Inc customers and markets, results by customer and performance relative to AMD, by company and industry - CSIMarket"
+      "snippet": "2 days ago · Advanced Micro Devices Inc customers and markets, results by customer and performance relative to AMD, by company and industry - CSIMarke"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.marketscreener.com/quote/stock/AMD-ADVANCED-MICRO-DEVICE-179387659/finances-segments/",
       "query": "Advanced Micro Devices, Inc. major customers clients",
-      "snippet": "Apr 17, 2026 · Understand how activity and revenue gets distributed for AMD (Advanced Micro Devices ) (AMD). Ten-year segmentation history. The entire"
+      "snippet": "3 days ago · Understand how activity and revenue gets distributed for AMD (Advanced Micro Devices ) (AMD). Ten-year segmentation history. The entire s"
     }
   ]
 }

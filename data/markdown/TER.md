@@ -3,8 +3,8 @@ ticker: TER
 company: Teradyne, Inc.
 sector: Technology
 industry: Semiconductor Equipment & Materials
-extracted_at: 2026-02-26 16:52:38
-last_updated: 2026-02-26
+extracted_at: 2026-04-27 17:25:15
+last_updated: 2026-04-27
 ---
 
 # TER - Teradyne, Inc.
@@ -12,16 +12,16 @@ last_updated: 2026-02-26
 ## 基本信息
 
 - **所属行业**: Technology / Semiconductor Equipment & Materials
-- **提取时间**: 2026-02-26 16:52:38
+- **提取时间**: 2026-04-27 17:25:15
 
 ## 产业链关系
 
 ### 上游供应商
 - [[Semiconductor manufacturers]]
 - [[Electronic component suppliers]]
-- [[Precision engineering suppliers]]
-- [[Test equipment component vendors]]
-- [[Software vendors]]
+- [[Electronic test equipment suppliers]]
+- [[Raw material suppliers]]
+- [[Component manufacturers]]
 
 ### 下游客户
 - [[005930.KS]]
@@ -31,27 +31,27 @@ last_updated: 2026-02-26
 - [[TXN]]
 
 ### 竞争对手
-- [[Advantest]]
+- [[Advantest Corp]]
 - [[Keysight Technologies]]
 - [[National Instruments]]
+- [[LTX-Credence]]
 - [[Tektronix]]
-- [[Rohde & Schwarz]]
 
 ### 核心产品
-- [[Automatic Test Equipment (ATE)]]
-- [[Wireless Testers]]
-- [[Robotics]]
-- [[Test Automation Software]]
-- [[Test Fixtures]]
+- [[Automatic test equipment (ATE)]]
+- [[Semiconductor test systems]]
+- [[Test software]]
+- [[Test solutions]]
+- [[Photon 100 test system]]
 
 ## 数据来源
 
 - [Teradyne](https://en.wikipedia.org/wiki/Teradyne,_Inc.)
+- [Teradyne, Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/Teradyne)
 - [Teradyne, Inc. suppliers manufacturers](https://www.teradyne.com/)
-- [Teradyne, Inc. suppliers manufacturers](https://www.teradyne.com/semiconductor-testing/)
-- [Teradyne, Inc. major customers clients](https://finance.yahoo.com/quote/TER/earnings/TER-Q1-2025-earnings_call-310913.html)
-- [Teradyne, Inc. major customers clients](https://www.insidermonkey.com/blog/why-teradyne-inc-ter-went-down-on-tuesday-1479721/)
+- [Teradyne, Inc. major customers clients](https://en.wikipedia.org/wiki/Teradyne)
+- [Teradyne, Inc. major customers clients](https://csimarket.com/stocks/TER-Customers)
 
 ## 元数据
 
-- **更新日期**: 2026-02-26
+- **更新日期**: 2026-04-27

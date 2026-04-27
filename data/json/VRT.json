@@ -1,37 +1,37 @@
 {
   "ticker": "VRT",
   "company_name": "Vertiv Holdings Co",
-  "sector": "Industrials",
-  "industry": "Electrical Equipment & Parts",
+  "sector": "Industrials / Electrical Equipment & Parts",
+  "industry": "Data Center Infrastructure & Power Solutions",
   "upstream": [
-    "TXN",
-    "ADI",
-    "INTC",
-    "005930.KS",
-    "NVDA"
+    "ABB",
+    "Schneider Electric",
+    "Eaton",
+    "Siemens",
+    "Honeywell"
   ],
   "downstream": [
     "AMZN",
     "GOOGL",
     "MSFT",
-    "AT&T",
-    "Equinix"
+    "Equinix",
+    "Digital Realty"
   ],
   "competitors": [
     "Schneider Electric",
-    "ABB",
     "Eaton",
-    "Delta Electronics",
-    "Rittal"
+    "ABB",
+    "CSCO",
+    "HPQ"
   ],
   "key_products": [
-    "UPS systems",
-    "Power distribution units (PDUs)",
-    "Cooling solutions",
-    "Data center infrastructure management (DCIM) software",
-    "Rack‑mount power and cooling equipment"
+    "Uninterruptible Power Supply (UPS)",
+    "Power Distribution Unit (PDU)",
+    "Cooling Systems (CRAC/CRAH)",
+    "Data Center Infrastructure Management (DCIM) Software",
+    "Power Distribution Solutions"
   ],
-  "extracted_at": "2026-04-24 16:52:16",
+  "extracted_at": "2026-04-27 17:21:15",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,21 +47,21 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://stockanalysis.com/stocks/vrt/",
+      "url": "https://stockanalysis.com/stocks/vrt/company/",
       "query": "Vertiv Holdings Co suppliers manufacturers",
-      "snippet": "A detailed overview of Vertiv Holdings Co (VRT) stock, including real-time price, chart, key statistics, news, and more."
+      "snippet": "Company profile for Vertiv Holdings Co (VRT) stock, with a description, list of executives, contact details and other key facts."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.insidermonkey.com/blog/vertiv-holdings-co-vrt-surged-on-strong-results-and-better-than-expected-guidance-1741815/",
+      "url": "https://www.appsruntheworld.com/customers-database/vendors/view/vertiv",
       "query": "Vertiv Holdings Co major customers clients",
-      "snippet": "Vertiv Holdings Co (NYSE:VRT) ranks 38 on our list of 40 Most Popular Stocks Among Hedge Funds Heading Into 2026. According to our database, 112 hedge"
+      "snippet": "List of companies using or evaluating Vertiv applications, with details on their revenues, employees, industries, and locations."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.gurufocus.com/news/2799640/decoding-vertiv-holdings-co-vrt-a-strategic-swot-insight",
+      "url": "https://www.vertiv.com/en-us/solutions/success-stories/",
       "query": "Vertiv Holdings Co major customers clients",
-      "snippet": "Vertiv Holdings Co showcases a robust turnaround with a net income of $164.5 million, a significant improvement from the previous year's loss.Comprehe"
+      "snippet": "The company partnered with Vertiv on an intensive 11-month engineering initiative to develop an integrated cooling system that could support both curr"
     }
   ]
 }

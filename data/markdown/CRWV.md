@@ -3,8 +3,8 @@ ticker: CRWV
 company: CoreWeave, Inc.
 sector: Technology
 industry: Software - Infrastructure
-extracted_at: 2026-04-24 16:47:24
-last_updated: 2026-04-24
+extracted_at: 2026-04-27 17:18:44
+last_updated: 2026-04-27
 ---
 
 # CRWV - CoreWeave, Inc.
@@ -12,7 +12,7 @@ last_updated: 2026-04-24
 ## 基本信息
 
 - **所属行业**: Technology / Software - Infrastructure
-- **提取时间**: 2026-04-24 16:47:24
+- **提取时间**: 2026-04-27 17:18:44
 
 ## 产业链关系
 
@@ -24,34 +24,34 @@ last_updated: 2026-04-24
 - [[DELL]]
 
 ### 下游客户
-- [[AI developers]]
-- [[Enterprise technology firms]]
-- [[Startups in machine learning]]
-- [[Research institutions]]
-- [[Gaming companies]]
+- [[OpenAI]]
+- [[Mistral AI]]
+- [[IBM]]
+- [[MSFT]]
+- [[GOOGL]]
 
 ### 竞争对手
-- [[AMZN]]
+- [[AWS Inferentia]]
 - [[GOOGL]]
 - [[MSFT]]
-- [[IBM]]
-- [[ORCL]]
+- [[Paperspace]]
+- [[Lambda Labs]]
 
 ### 核心产品
-- [[GPU‑based cloud computing services]]
-- [[High‑performance GPU clusters]]
-- [[Chip management software]]
-- [[AI infrastructure solutions]]
-- [[Custom GPU deployment tools]]
+- [[GPU Cloud Infrastructure]]
+- [[GPU-as-a-Service]]
+- [[Chip Management Software]]
+- [[AI Compute Clusters]]
+- [[GPU Virtualization Platform]]
 
 ## 数据来源
 
 - [CoreWeave](https://en.wikipedia.org/wiki/CoreWeave,_Inc.)
 - [CoreWeave, Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/CoreWeave)
-- [CoreWeave, Inc. suppliers manufacturers](https://www.businesswire.com/news/home/20260417402128/en/CoreWeave-Announces-Date-of-First-Quarter-2026-Financial-Results-and-Conference-Call)
+- [CoreWeave, Inc. suppliers manufacturers](https://www.coreweave.com/)
 - [CoreWeave, Inc. major customers clients](https://en.wikipedia.org/wiki/CoreWeave)
-- [CoreWeave, Inc. major customers clients](https://www.businesswire.com/news/home/20260417402128/en/CoreWeave-Announces-Date-of-First-Quarter-2026-Financial-Results-and-Conference-Call)
+- [CoreWeave, Inc. major customers clients](https://www.insidermonkey.com/blog/is-coreweave-inc-crwv-a-good-stock-to-buy-now-1734036/)
 
 ## 元数据
 
-- **更新日期**: 2026-04-24
+- **更新日期**: 2026-04-27

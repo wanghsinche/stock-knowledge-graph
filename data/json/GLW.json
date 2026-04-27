@@ -1,37 +1,36 @@
 {
   "ticker": "GLW",
   "company_name": "Corning Incorporated",
-  "sector": "Technology",
-  "industry": "Electronic Components",
+  "sector": "Technology / Electronic Components",
+  "industry": "Optical and Photonics",
   "upstream": [
-    "Silica sand suppliers",
-    "Chemical feedstock providers (e.g., soda ash, boric acid)",
-    "Glass manufacturing equipment suppliers",
-    "META",
-    "Precision machining equipment vendors"
+    "Advanced Optics",
+    "Gorilla Glass",
+    "Display Technologies",
+    "Environmental Tech"
   ],
   "downstream": [
     "AAPL",
     "005930.KS",
-    "GOOGL",
-    "MSFT",
-    "General Motors (automotive glass and optics)"
+    "INTC",
+    "TSM",
+    "NASA"
   ],
   "competitors": [
     "Schott AG",
-    "Saint‑Gobain",
-    "AGC Inc.",
-    "Asahi Glass Co., Ltd.",
-    "Nippon Sheet Glass Co., Ltd."
+    "Saint-Gobain",
+    "Asahi Glass Co.",
+    "Nikon",
+    "Canon"
   ],
   "key_products": [
-    "Optical fiber and fiber‑optic cables",
-    "Specialty glass substrates for flat‑panel displays",
-    "High‑performance optical components (lenses, prisms)",
-    "Glass solutions for automotive and aerospace",
-    "Advanced ceramics for industrial applications"
+    "Gorilla Glass",
+    "Optical fibers",
+    "Advanced optics",
+    "Glass substrates",
+    "Ceramic materials"
   ],
-  "extracted_at": "2026-04-24 16:51:34",
+  "extracted_at": "2026-04-27 17:20:28",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +40,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Corning_Inc.",
+      "url": "https://www.corning.com/worldwide/en/products/life-sciences/config/Distributors.html",
       "query": "Corning Incorporated suppliers manufacturers",
+      "snippet": "Advanced Optics Corning ® Gorilla® Glass Display Technologies Environmental Technologies Life Sciences Optical Communications Pharmaceutical Technolog"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.mouser.com/manufacturer/corning/",
+      "query": "Corning Incorporated suppliers manufacturers",
+      "snippet": "Corning 's industry-leading products include damage-resistant cover glass for mobile devices, precision glass for advanced displays, optical fiber, wi"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/Corning_Inc.",
+      "query": "Corning Incorporated major customers clients",
       "snippet": "Corning Incorporated is an American multinational technology company specializing in glass, ceramics, and related materials and technologies including"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.corning.com/worldwide/en.html",
-      "query": "Corning Incorporated suppliers manufacturers",
-      "snippet": "Corning Incorporated (NYSE: GLW) and Meta Platforms, Inc . (Nasdaq: META) today marked the start of construction on a significant expansion of Corning"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Corning_Inc.",
       "query": "Corning Incorporated major customers clients",
-      "snippet": "Corning Incorporated is an American multinational technology company specializing in glass, ceramics, and related materials and technologies including"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.linkedin.com/company/corning-incorporated",
-      "query": "Corning Incorporated major customers clients",
-      "snippet": "Corning Incorporated | 236,240 followers on LinkedIn. Corning succeeds through sustained investment in RD&E, a unique combination of material and proc"
+      "snippet": "Corning Incorporated is a global-leading innovator in materials science, with 170 years of life-changing inventions and category-defining products."
     }
   ]
 }

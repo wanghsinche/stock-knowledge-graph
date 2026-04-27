@@ -4,34 +4,34 @@
   "sector": "Technology",
   "industry": "Semiconductor Equipment & Materials",
   "upstream": [
-    "AMAT",
-    "ASML",
-    "LRCX",
-    "Tokyo Electron",
-    "Lumentum"
+    "Semiconductor wafer suppliers",
+    "Optical component manufacturers",
+    "Precision mechanical parts suppliers",
+    "Chemical suppliers for semiconductor processes",
+    "Sensor and detector manufacturers"
   ],
   "downstream": [
     "INTC",
-    "005930.KS",
     "TSM",
+    "005930.KS",
     "GlobalFoundries",
     "MU"
   ],
   "competitors": [
     "AMAT",
-    "ASML",
     "LRCX",
     "Tokyo Electron",
+    "ASML",
     "Teradyne"
   ],
   "key_products": [
-    "Process Control Systems",
-    "Yield Management Systems",
-    "Metrology Systems",
-    "Wafer Inspection Systems",
-    "Reticle Inspection Systems"
+    "Defect inspection systems",
+    "Metrology systems",
+    "Yield management software",
+    "Scatterometry tools",
+    "Reflectometry instruments"
   ],
-  "extracted_at": "2026-04-15 17:04:23",
+  "extracted_at": "2026-04-27 17:23:00",
   "sources": [
     {
       "source": "Wikipedia",
@@ -53,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/KLAC-Customers",
+      "url": "https://en.wikipedia.org/wiki/KLA_Corporation",
       "query": "KLA Corporation major customers clients",
-      "snippet": "5 days ago · Kla customers and markets, results by customer and performance relative to KLAC, by company and industry - CSIMarket"
+      "snippet": "KLA Corporation is an American company based in Milpitas, California that makes wafer fab equipment. It supplies process control and yield management "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.kla.com/media-room/videos/who-are-our-customers",
+      "url": "https://ir.kla.com/",
       "query": "KLA Corporation major customers clients",
-      "snippet": "May 14, 2021 · KLA Instruments serves customers in academia, research labs and industrial manufacturers in semi, compound-semi and surface metrology i"
+      "snippet": "KLA develops industry-leading equipment and services that enable innovation throughout the electronics industry. We provide advanced process control a"
     }
   ]
 }

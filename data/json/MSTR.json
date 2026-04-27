@@ -1,37 +1,37 @@
 {
   "ticker": "MSTR",
-  "company_name": "Strategy Inc",
+  "company_name": "MicroStrategy Incorporated",
   "sector": "Technology",
   "industry": "Software - Application",
   "upstream": [
-    "DELL",
-    "HPQ",
-    "IBM",
     "MSFT",
-    "ORCL"
+    "AMZN",
+    "GOOGL",
+    "ORCL",
+    "IBM"
   ],
   "downstream": [
-    "Financial services firms",
-    "Retail banks",
-    "Government agencies",
-    "Insurance companies",
-    "Healthcare providers"
+    "Banking and Financial Services",
+    "Healthcare",
+    "Retail",
+    "Manufacturing",
+    "Government Agencies"
   ],
   "competitors": [
-    "Tableau",
+    "Tableau Software",
     "Qlik",
     "MSFT",
     "SAP BusinessObjects",
     "IBM"
   ],
   "key_products": [
-    "MicroStrategy Analytics Platform",
-    "MicroStrategy Mobile",
+    "MicroStrategy Analytics",
     "MicroStrategy Cloud",
+    "MicroStrategy Mobile",
     "MicroStrategy Data Warehouse",
     "MicroStrategy AI"
   ],
-  "extracted_at": "2026-04-24 16:48:33",
+  "extracted_at": "2026-04-27 17:18:33",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
+      "url": "https://www.strategyinc.net/",
+      "query": "Strategy Inc suppliers manufacturers",
+      "snippet": "Strategy Inc . offers comprehensive medical device consulting services for essential financial and market due diligence, such as: market analysis, fin"
+    },
+    {
+      "source": "DuckDuckGo",
       "url": "https://www.strategyinc.net/services-overview/",
       "query": "Strategy Inc suppliers manufacturers",
       "snippet": "Our Consulting Services At Strategy Inc ., we offer a comprehensive range of consulting services required for life science and medical device due dili"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.strategy.com/company",
-      "query": "Strategy Inc suppliers manufacturers",
-      "snippet": "Uncover the narrative of Strategy , a world-renowned leader in analytics and business intelligence. Delve into our mission, values, and dedication to "
+      "url": "https://www.strategy.com/software/news/strategy-recognized-as-a-customers-choice-on-gartner-peer-insights-through-user-feedback-for-fourth-consecutive-year",
+      "query": "Strategy Inc major customers clients",
+      "snippet": "Dec 11, 2025 · Discover why Strategy Inc . is the only Analytics & Business Intelligence Platforms vendor to be named a Customers ' Choice in the 2025"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/MicroStrategy",
+      "url": "https://finance.yahoo.com/quote/STRK/profile/?fr=sycsrp_catchall",
       "query": "Strategy Inc major customers clients",
-      "snippet": "Strategy Inc ., formerly known as MicroStrategy, is an American company that provides business intelligence and mobile software. Founded in 1989 by Mi"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/MSTR/",
-      "query": "Strategy Inc major customers clients",
-      "snippet": "Find the latest Strategy Inc (MSTR) stock quote, history, news and other vital information to help you with your stock trading and investing."
+      "snippet": "See the company profile for Strategy Inc (STRK) including business summary, industry/sector information, number of employees, business summary, corpor"
     }
   ]
 }
