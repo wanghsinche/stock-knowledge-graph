@@ -3,8 +3,8 @@ ticker: PFE
 company: Pfizer Inc.
 sector: Healthcare
 industry: Drug Manufacturers - General
-extracted_at: 2026-04-07 16:52:59
-last_updated: 2026-04-07
+extracted_at: 2026-04-28 17:38:29
+last_updated: 2026-04-28
 ---
 
 # PFE - Pfizer Inc.
@@ -12,46 +12,46 @@ last_updated: 2026-04-07
 ## 基本信息
 
 - **所属行业**: Healthcare / Drug Manufacturers - General
-- **提取时间**: 2026-04-07 16:52:59
+- **提取时间**: 2026-04-28 17:38:29
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Active Pharmaceutical Ingredient (API) suppliers]]
-- [[Contract manufacturing organizations (CMOs)]]
-- [[Chemical raw material suppliers (e.g., BASF, Dow Chemical)]]
-- [[Packaging material providers]]
-- [[Logistics and distribution partners]]
+- [[Chemical suppliers]]
+- [[Contract research organizations]]
+- [[Contract manufacturing organizations]]
+- [[Biotech suppliers]]
+- [[Raw material manufacturers]]
 
 ### 下游客户
-- [[Hospitals and health systems]]
-- [[Pharmacies and drugstores]]
-- [[Government health agencies (e.g., CDC, WHO)]]
-- [[Insurance providers and pharmacy benefit managers]]
-- [[International health organizations and NGOs]]
+- [[Hospitals]]
+- [[Pharmacies]]
+- [[Health insurance companies]]
+- [[Government health agencies]]
+- [[Retail pharmacy chains]]
 
 ### 竞争对手
 - [[Johnson & Johnson]]
 - [[Merck & Co.]]
-- [[Roche]]
 - [[Novartis]]
-- [[AbbVie]]
+- [[Roche]]
+- [[GlaxoSmithKline]]
 
 ### 核心产品
-- [[Comirnaty (COVID‑19 vaccine)]]
 - [[Lipitor (atorvastatin)]]
 - [[Viagra (sildenafil)]]
-- [[Zoloft (sertraline)]]
 - [[Lyrica (pregabalin)]]
+- [[Zoloft (sertraline)]]
+- [[Comirnaty (COVID‑19 vaccine)]]
 
 ## 数据来源
 
 - [Pfizer](https://en.wikipedia.org/wiki/Pfizer_Inc.)
-- [Pfizer Inc. suppliers manufacturers](https://www.pfizer.com/about/partners/B2B-and-suppliers/what-and-where-we-buy)
-- [Pfizer Inc. suppliers manufacturers](https://www.pfizercentreone.com/manufacturing-network)
+- [Pfizer Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/Pfizer)
+- [Pfizer Inc. suppliers manufacturers](https://www.pfizer.com/)
 - [Pfizer Inc. major customers clients](https://en.wikipedia.org/wiki/Pfizer)
 - [Pfizer Inc. major customers clients](https://www.pfizer.com/)
 
 ## 元数据
 
-- **更新日期**: 2026-04-07
+- **更新日期**: 2026-04-28

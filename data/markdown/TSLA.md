@@ -3,8 +3,8 @@ ticker: TSLA
 company: Tesla, Inc.
 sector: Consumer Cyclical
 industry: Auto Manufacturers
-extracted_at: 2026-04-27 17:15:11
-last_updated: 2026-04-27
+extracted_at: 2026-04-28 17:30:12
+last_updated: 2026-04-28
 ---
 
 # TSLA - Tesla, Inc.
@@ -12,7 +12,7 @@ last_updated: 2026-04-27
 ## 基本信息
 
 - **所属行业**: Consumer Cyclical / Auto Manufacturers
-- **提取时间**: 2026-04-27 17:15:11
+- **提取时间**: 2026-04-28 17:30:12
 
 ## 产业链关系
 
@@ -25,28 +25,24 @@ last_updated: 2026-04-27
 
 ### 下游客户
 - [[Individual consumers]]
-- [[Commercial fleet operators]]
-- [[Utility companies]]
+- [[Fleet operators]]
+- [[Commercial customers]]
+- [[Utilities]]
 - [[Government agencies]]
-- [[Corporate buyers]]
 
 ### 竞争对手
 - [[General Motors]]
 - [[Ford]]
 - [[Volkswagen]]
 - [[Hyundai]]
-- [[Nissan]]
+- [[Rivian]]
 
 ### 核心产品
 - [[Model S]]
 - [[Model 3]]
 - [[Model X]]
 - [[Model Y]]
-- [[Cybertruck]]
 - [[Powerwall]]
-- [[Powerpack]]
-- [[Solar Roof]]
-- [[Solar Panels]]
 
 ## 数据来源
 
@@ -54,8 +50,8 @@ last_updated: 2026-04-27
 - [Tesla, Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/Tesla,_Inc.)
 - [Tesla, Inc. suppliers manufacturers](https://www.linkedin.com/company/tesla-motors)
 - [Tesla, Inc. major customers clients](https://en.wikipedia.org/wiki/Tesla,_Inc.)
-- [Tesla, Inc. major customers clients](https://www.statista.com/topics/2086/tesla/)
+- [Tesla, Inc. major customers clients](https://www.tesla.com/)
 
 ## 元数据
 
-- **更新日期**: 2026-04-27
+- **更新日期**: 2026-04-28

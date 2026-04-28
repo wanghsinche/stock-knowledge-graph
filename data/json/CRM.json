@@ -8,21 +8,21 @@
     "MSFT",
     "GOOGL",
     "DELL",
-    "CSCO"
+    "HPQ"
   ],
   "downstream": [
+    "AMZN",
+    "AAPL",
     "Coca‑Cola",
-    "Toyota",
-    "American Express",
     "005930.KS",
-    "HSBC"
+    "Walmart"
   ],
   "competitors": [
     "MSFT",
+    "SAP",
     "ORCL",
-    "SAP SuccessFactors",
-    "ADBE",
-    "HubSpot"
+    "HubSpot",
+    "Zoho"
   ],
   "key_products": [
     "Sales Cloud",
@@ -31,7 +31,7 @@
     "Commerce Cloud",
     "Einstein AI"
   ],
-  "extracted_at": "2026-04-27 17:20:52",
+  "extracted_at": "2026-04-28 17:39:13",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.salesforce.com/company/our-brands/",
+      "url": "https://tr.wikipedia.org/wiki/Salesforce",
       "query": "Salesforce, Inc. suppliers manufacturers",
-      "snippet": "See our full list of Salesforce brands and find out how these companies inspire innovation to provide customer solutions."
+      "snippet": "Salesforce merkezi San Francisco, Kaliforniya'da bulunan bir Amerikan bulut tabanlı yazılım şirketidir. Şirket müşteri ilişkileri yönetimi (CRM) hizme"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://csimarket.com/stocks/CRM-Suppliers",
       "query": "Salesforce, Inc. suppliers manufacturers",
-      "snippet": "Mar 3, 2026 · Salesforce Inc 's Comment on Supply Chain ... CRM's Stock Perfrormance relative to it's Suppliers CRM's vs. Suppliers , Data (Revenue an"
+      "snippet": "Salesforce Inc supply chain, list and performance of Salesforce Incs ' suppliers - CSIMarket."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.thomsondata.com/customer-base/salesforce-crm.php",
+      "url": "https://www.salesforce.com/",
       "query": "Salesforce, Inc. major customers clients",
-      "snippet": "Discover verified companies using Salesforce CRM. Use Thomson Data's Salesforce customer list to connect with potential clients for integration, consu"
+      "snippet": "Salesforce Enterprise-grade CRM with deep reporting, sales operations, and..."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.salesforce.com/customer-stories/",
+      "url": "https://www.heise.de/en/news/Salesforce-200-major-customers-join-Agentforce-10189412.html",
       "query": "Salesforce, Inc. major customers clients",
-      "snippet": "Discover how Salesforce helps 150,000+ companies increase productivity, customer loyalty, and sales revenue — every day."
+      "snippet": "More than 200 major customers have already signed contracts with Salesforce to gain access to the new AI platform Agentforce. This was reported by Sal"
     }
   ]
 }

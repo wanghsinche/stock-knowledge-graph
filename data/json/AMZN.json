@@ -4,34 +4,34 @@
   "sector": "Consumer Cyclical",
   "industry": "Internet Retail",
   "upstream": [
-    "Electronics manufacturers",
+    "AAPL",
     "Apparel manufacturers",
-    "Home goods manufacturers",
     "Book publishers",
-    "Toy manufacturers"
+    "Home goods manufacturers",
+    "Third‑party sellers"
   ],
   "downstream": [
-    "Retail consumers worldwide",
-    "Small and medium‑size businesses",
-    "Enterprise IT customers (AWS)",
-    "Government agencies",
-    "Media streaming services"
+    "Individual consumers",
+    "Enterprise customers (AWS)",
+    "Government agencies (AWS)",
+    "Advertisers",
+    "Third‑party sellers"
   ],
   "competitors": [
-    "eBay",
     "Walmart",
     "Alibaba",
+    "eBay",
     "Shopify",
     "Target"
   ],
   "key_products": [
-    "Amazon.com marketplace",
-    "Amazon Prime subscription",
-    "Amazon Web Services (AWS)",
-    "Amazon Kindle e‑readers",
-    "Amazon Echo (Alexa)"
+    "Amazon Marketplace",
+    "Amazon Prime",
+    "Amazon Web Services",
+    "Amazon Advertising",
+    "Amazon Echo/Alexa"
   ],
-  "extracted_at": "2026-04-27 17:15:55",
+  "extracted_at": "2026-04-28 17:31:10",
   "sources": [
     {
       "source": "Wikipedia",
@@ -53,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://capitaloneshopping.com/research/amazon-statistics/",
+      "url": "https://us.amazon.com/",
       "query": "Amazon.com, Inc. major customers clients",
-      "snippet": "Mar 29, 2026 · Statistics & analysis on Amazon including total sales (per year & minute), number of products (SKUs), customers , sellers & more."
+      "snippet": "Reach customers wherever they spend their time."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://serpwatch.io/blog/amazon-customer-demographics/",
+      "url": "https://ir.aboutamazon.com/",
       "query": "Amazon.com, Inc. major customers clients",
-      "snippet": "Jan 3, 2022 · Amazon is the leading ecommerce platform with a global customer base. Learn more about Amazon customer demographics."
+      "snippet": "Amazon . com to Webcast First Quarter 2026 Financial Results Conference Call. Amazon . com , Inc . (NASDAQ: AMZN) today announced financial results fo"
     }
   ]
 }

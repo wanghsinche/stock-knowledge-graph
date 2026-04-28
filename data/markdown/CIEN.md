@@ -1,57 +1,57 @@
 ---
 ticker: CIEN
 company: Ciena Corporation
-sector: Technology
-industry: Communication Equipment
-extracted_at: 2026-04-22 17:02:44
-last_updated: 2026-04-22
+sector: Technology / Communication Equipment
+industry: Optical Networking Systems
+extracted_at: 2026-04-28 17:38:39
+last_updated: 2026-04-28
 ---
 
 # CIEN - Ciena Corporation
 
 ## 基本信息
 
-- **所属行业**: Technology / Communication Equipment
-- **提取时间**: 2026-04-22 17:02:44
+- **所属行业**: Technology / Communication Equipment / Optical Networking Systems
+- **提取时间**: 2026-04-28 17:38:39
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Lumentum]]
-- [[Coherent]]
-- [[II-VI Incorporated]]
-- [[Infinera]]
+- [[INTC]]
+- [[AVGO]]
 - [[CSCO]]
+- [[JNPR]]
+- [[Huawei]]
 
 ### 下游客户
 - [[AT&T]]
 - [[Verizon]]
+- [[Comcast]]
 - [[T-Mobile]]
-- [[Deutsche Telekom]]
 - [[Vodafone]]
 
 ### 竞争对手
-- [[CSCO]]
-- [[JNPR]]
-- [[ANET]]
-- [[Huawei]]
 - [[Nokia]]
+- [[Ericsson]]
+- [[JNPR]]
+- [[Huawei]]
+- [[CSCO]]
 
 ### 核心产品
 - [[Optical transport equipment]]
-- [[Wavelength Division Multiplexing (WDM) systems]]
-- [[Optical cross-connects]]
-- [[Optical line cards]]
-- [[Optical networking software]]
+- [[Optical switching systems]]
+- [[Optical transceivers]]
+- [[Software-defined networking solutions]]
+- [[Optical amplifiers]]
 
 ## 数据来源
 
 - [Ciena](https://en.wikipedia.org/wiki/Ciena_Corporation)
+- [Ciena Corporation suppliers manufacturers](https://www.ciena.com/)
+- [Ciena Corporation suppliers manufacturers](https://s25.q4cdn.com/550667411/files/doc_financials/2025/ar/Ciena-2025-Annual-Report1.pdf)
+- [Ciena Corporation major customers clients](https://en.wikipedia.org/wiki/Ciena)
 - [Ciena Corporation major customers clients](https://www.ciena.com/about/customer-stories)
-- [Ciena Corporation major customers clients](https://csimarket.com/stocks/CIEN-Customers)
-- [Ciena Corporation products services offerings](https://en.wikipedia.org/wiki/Ciena)
-- [Ciena Corporation products services offerings](https://www.ciena.com/products)
 
 ## 元数据
 
-- **更新日期**: 2026-04-22
+- **更新日期**: 2026-04-28

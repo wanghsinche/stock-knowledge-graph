@@ -1,37 +1,37 @@
 {
   "ticker": "AVGO",
   "company_name": "Broadcom Inc.",
-  "sector": "Technology / Semiconductors",
+  "sector": "Technology",
   "industry": "Semiconductors",
   "upstream": [
     "TSM",
     "005930.KS",
     "GlobalFoundries",
-    "UMC",
-    "INTC"
+    "INTC",
+    "MU"
   ],
   "downstream": [
     "CSCO",
-    "DELL",
-    "IBM",
     "AMZN",
-    "MSFT"
+    "MSFT",
+    "GOOGL",
+    "DELL"
   ],
   "competitors": [
     "QCOM",
     "INTC",
-    "MRVL",
-    "MediaTek",
-    "NVDA"
+    "NVDA",
+    "TXN",
+    "MRVL"
   ],
   "key_products": [
-    "Broadcom BCM network chips",
-    "Broadcom Wi‑Fi/Bluetooth chips",
-    "Broadcom broadband chips",
-    "Broadcom storage controllers",
-    "Broadcom data center ASICs"
+    "Broadcom Networking Chips",
+    "Broadcom Broadband Chips",
+    "Broadcom Wireless Chips",
+    "Broadcom Storage Controllers",
+    "Broadcom Enterprise Software"
   ],
-  "extracted_at": "2026-04-27 17:16:51",
+  "extracted_at": "2026-04-28 17:31:20",
   "sources": [
     {
       "source": "Wikipedia",
@@ -49,19 +49,19 @@
       "source": "DuckDuckGo",
       "url": "https://www.broadcom.com/how-to-buy/partner-distributor-lookup",
       "query": "Broadcom Inc. suppliers manufacturers",
-      "snippet": "Find a local reseller or global distributor of every Broadcom software solution for your business or enterprise, spanning the desktop to the Mainframe"
+      "snippet": "The Partner Locator will help you find the local expertise you need to be successful with Broadcom solutions. Begin searching by typing what you're lo"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Broadcom",
+      "url": "https://www.broadcom.com/",
       "query": "Broadcom Inc. major customers clients",
-      "snippet": "Broadcom Inc . is an American multinational designer, developer, manufacturer, and global supplier of a wide range of semiconductor and infrastructure"
+      "snippet": "Broadcom delivers semiconductors and infrastructure software for global enterprises’ most complex, mission-critical needs."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/AVGO-Customers",
+      "url": "https://www.youtube.com/channel/UCTr3zah69bISSVdBcHiKhpA",
       "query": "Broadcom Inc. major customers clients",
-      "snippet": "Broadcom Inc 's Comment on Sales, Marketing and Customers We sell our products to leading wired and wireless communications manufacturers. We have als"
+      "snippet": "Broadcom ’s infrastructure software solutions serve markets including private cloud, mainframe software, cybersecurity, enterprise software, and Fibre"
     }
   ]
 }

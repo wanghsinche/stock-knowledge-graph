@@ -4,34 +4,34 @@
   "sector": "Technology",
   "industry": "Semiconductor Equipment & Materials",
   "upstream": [
-    "Semiconductor wafer suppliers",
-    "Optical component manufacturers",
-    "Precision mechanical parts suppliers",
-    "Chemical suppliers for semiconductor processes",
-    "Sensor and detector manufacturers"
+    "AMAT",
+    "LRCX",
+    "Tokyo Electron",
+    "ASML",
+    "Nikon"
   ],
   "downstream": [
-    "INTC",
     "TSM",
     "005930.KS",
-    "GlobalFoundries",
-    "MU"
+    "INTC",
+    "MU",
+    "GlobalFoundries"
   ],
   "competitors": [
     "AMAT",
     "LRCX",
     "Tokyo Electron",
     "ASML",
-    "Teradyne"
+    "Nikon"
   ],
   "key_products": [
-    "Defect inspection systems",
-    "Metrology systems",
-    "Yield management software",
-    "Scatterometry tools",
-    "Reflectometry instruments"
+    "Process control and yield management systems",
+    "Wafer inspection systems",
+    "Reticle inspection systems",
+    "Metrology tools",
+    "Defect inspection tools"
   ],
-  "extracted_at": "2026-04-27 17:23:00",
+  "extracted_at": "2026-04-28 17:36:20",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,21 +47,21 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.kla.com/company/supplier",
-      "query": "KLA Corporation suppliers manufacturers",
-      "snippet": "KLA Corporation requires that service providers, contractors, suppliers , distributors and other business partners and their employees comply with the"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/KLA_Corporation",
-      "query": "KLA Corporation major customers clients",
-      "snippet": "KLA Corporation is an American company based in Milpitas, California that makes wafer fab equipment. It supplies process control and yield management "
-    },
-    {
-      "source": "DuckDuckGo",
       "url": "https://ir.kla.com/",
-      "query": "KLA Corporation major customers clients",
+      "query": "KLA Corporation suppliers manufacturers",
       "snippet": "KLA develops industry-leading equipment and services that enable innovation throughout the electronics industry. We provide advanced process control a"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/KLAC-Customers",
+      "query": "KLA Corporation major customers clients",
+      "snippet": "5 days ago · For your research, we’ve provided 9 tables on Kla Corporation corporate clients . You can find them in the navigation menu under Customer"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.kla.com/media-room/videos/who-are-our-customers",
+      "query": "KLA Corporation major customers clients",
+      "snippet": "May 14, 2021 · KLA Instruments tools cater to both fabs and labs. We serve a wide range of customers including academia, research labs and industrial "
     }
   ]
 }

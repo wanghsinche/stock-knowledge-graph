@@ -2,36 +2,36 @@
   "ticker": "VRT",
   "company_name": "Vertiv Holdings Co",
   "sector": "Industrials / Electrical Equipment & Parts",
-  "industry": "Data Center Infrastructure & Power Solutions",
+  "industry": "Electrical Equipment & Parts",
   "upstream": [
-    "ABB",
+    "Emerson",
+    "Honeywell",
     "Schneider Electric",
-    "Eaton",
-    "Siemens",
-    "Honeywell"
+    "ABB",
+    "Siemens"
   ],
   "downstream": [
     "AMZN",
     "GOOGL",
     "MSFT",
-    "Equinix",
-    "Digital Realty"
+    "AT&T",
+    "Verizon"
   ],
   "competitors": [
     "Schneider Electric",
-    "Eaton",
     "ABB",
+    "Eaton",
     "CSCO",
     "HPQ"
   ],
   "key_products": [
-    "Uninterruptible Power Supply (UPS)",
-    "Power Distribution Unit (PDU)",
+    "Power Distribution Units (PDUs)",
     "Cooling Systems (CRAC/CRAH)",
-    "Data Center Infrastructure Management (DCIM) Software",
-    "Power Distribution Solutions"
+    "Uninterruptible Power Supplies (UPS)",
+    "Rack Enclosures",
+    "Data Center Infrastructure Management (DCIM) Software"
   ],
-  "extracted_at": "2026-04-27 17:21:15",
+  "extracted_at": "2026-04-28 17:34:26",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,9 +47,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://stockanalysis.com/stocks/vrt/company/",
+      "url": "https://markets.financialcontent.com/stocks/article/finterra-2026-4-7-vertiv-holdings-co-vrt-the-critical-infrastructure-behind-the-ai-boom",
       "query": "Vertiv Holdings Co suppliers manufacturers",
-      "snippet": "Company profile for Vertiv Holdings Co (VRT) stock, with a description, list of executives, contact details and other key facts."
+      "snippet": "Vertiv ’s history is a multi-decade evolution from a niche cooling manufacturer to a global leader. Its origins trace back to 1946 with the founding o"
     },
     {
       "source": "DuckDuckGo",
@@ -59,9 +59,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.vertiv.com/en-us/solutions/success-stories/",
+      "url": "https://portersfiveforce.com/blogs/target-market/vertiv",
       "query": "Vertiv Holdings Co major customers clients",
-      "snippet": "The company partnered with Vertiv on an intensive 11-month engineering initiative to develop an integrated cooling system that could support both curr"
+      "snippet": "Jan 2, 2026 · Explore the target market for Vertiv ' s critical infrastructure solutions. Learn how Vertiv serves data centers, telecom, government, a"
     }
   ]
 }

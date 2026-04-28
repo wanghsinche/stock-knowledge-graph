@@ -1,37 +1,37 @@
 {
   "ticker": "V",
   "company_name": "Visa Inc.",
-  "sector": "Financial Services / Credit Services",
-  "industry": "Payment Services",
+  "sector": "Financial Services",
+  "industry": "Credit Services",
   "upstream": [
-    "Card manufacturing suppliers",
-    "Chip and PIN technology providers",
-    "Payment network infrastructure vendors",
-    "Software platform providers",
-    "Security and fraud detection vendors"
+    "Card issuers (banks)",
+    "Payment processors",
+    "Chip manufacturers",
+    "Network infrastructure providers",
+    "Software vendors"
   ],
   "downstream": [
-    "Banks and financial institutions",
-    "Merchants and retailers",
-    "Consumers and cardholders",
-    "Payment processors",
-    "E-commerce platforms"
+    "Retail merchants",
+    "E‑commerce platforms",
+    "Financial institutions",
+    "Consumers",
+    "Mobile payment apps"
   ],
   "competitors": [
     "Mastercard",
     "American Express",
     "Discover",
-    "PayPal",
-    "Square"
+    "JCB",
+    "UnionPay"
   ],
   "key_products": [
     "Visa credit cards",
     "Visa debit cards",
     "Visa prepaid cards",
-    "VisaNet payment network",
-    "Visa Direct real-time payments"
+    "Visa payment network services",
+    "Mobile payment solutions"
   ],
-  "extracted_at": "2026-04-27 17:24:06",
+  "extracted_at": "2026-04-28 17:37:40",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,25 +43,25 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Visa_Inc.",
       "query": "Visa Inc. suppliers manufacturers",
-      "snippet": "Visa Inc . is an American multinational payment card services corporation headquartered in San Francisco, California."
+      "snippet": "Prior to October 3, 2007, Visa comprised four non-stock, separately incorporated companies that employed 6,000 people worldwide: the worldwide parent "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ru.wikipedia.org/wiki/Visa",
+      "url": "https://csimarket.com/stocks/V-Suppliers",
       "query": "Visa Inc. suppliers manufacturers",
-      "snippet": "Visa Inc . — американская транснациональная компания, предоставляющая услуги проведения платёжных операций. Является основой одноимённой ассоциации. С"
+      "snippet": "Jan 30, 2026 · For your research, we’ve provided nine additional tables on Visa Inc ’ s suppliers . You can find them in the navigation menu under Sup"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Visa_Inc.",
       "query": "Visa Inc. major customers clients",
-      "snippet": "Visa Inc . is an American multinational payment card services corporation headquartered in San Francisco, California."
+      "snippet": "Visa does not issue cards, extend credit, or set rates and fees for consumers ; rather, Visa provides financial institutions with Visa-branded payment"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.britannica.com/money/Visa-Inc",
+      "url": "https://capitaloneshopping.com/research/credit-card-market-share-statistics/",
       "query": "Visa Inc. major customers clients",
-      "snippet": "Visa Inc . is an international payment card services corporation established in 1958. It provides a variety of financial services in more than 200 cou"
+      "snippet": "Nov 25, 2025 · Analysis of the latest available data on credit card industry market share to compare Visa , Mastercard, American Express and others."
     }
   ]
 }

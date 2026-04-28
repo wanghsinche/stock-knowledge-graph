@@ -7,31 +7,31 @@
     "TSM",
     "005930.KS",
     "GlobalFoundries",
-    "MU",
+    "UMC",
     "ASE Technology Holding"
   ],
   "downstream": [
-    "SONY",
+    "DELL",
     "MSFT",
     "AMZN",
-    "TSLA",
-    "DELL"
+    "AAPL",
+    "TSLA"
   ],
   "competitors": [
     "AMD",
     "INTC",
     "QCOM",
     "AAPL",
-    "005930.KS"
+    "AVGO"
   ],
   "key_products": [
-    "GeForce RTX GPUs",
-    "Tesla V100 / A100 GPUs",
-    "DGX AI supercomputers",
-    "NVIDIA Drive automotive platform",
-    "CUDA programming platform"
+    "GeForce RTX 40 Series GPUs",
+    "NVIDIA Tesla H100 GPU",
+    "NVIDIA DGX A100",
+    "NVIDIA DRIVE PX",
+    "CUDA Software Platform"
   ],
-  "extracted_at": "2026-04-27 17:14:51",
+  "extracted_at": "2026-04-28 17:29:53",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://stocksandfuturestrading.com/the-complete-list-of-nvidias-suppliers-and-consumers/",
-      "query": "NVIDIA Corporation suppliers manufacturers",
-      "snippet": "Nov 22, 2024 · Trading Resources The Complete List Of Nvidia ’s Suppliers And Consumers By Stocks & Futures Trading This is the most recently updated "
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.suppliersmap.com/nvidia",
-      "query": "NVIDIA Corporation suppliers manufacturers",
-      "snippet": "Nvidia Nvidia works with leading semiconductor manufacturers for its GPU products, including TSMC for advanced chip fabrication, Samsung and Micron fo"
-    },
-    {
-      "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Nvidia",
-      "query": "NVIDIA Corporation major customers clients",
-      "snippet": "Nvidia Corporation . Show white logotype.On December 18, 2025, Nvidia announced plans to build a major new research and development campus in Kiryat T"
+      "query": "NVIDIA Corporation suppliers manufacturers",
+      "snippet": "2 days ago - In August 2025, Nvidia ordered ... due to security concerns. The company directed suppliers including Taiwan Semiconductor Manufacturing "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.investing.com/equities/nvidia-corp",
+      "url": "https://www.accio.com/supplier/nvidia-supplier-list",
+      "query": "NVIDIA Corporation suppliers manufacturers",
+      "snippet": "5 days ago - NVIDIA's key suppliers span various critical areas of semiconductor manufacturing and assembly. These include TSMC (Taiwan Semiconductor "
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://stocksandfuturestrading.com/the-complete-list-of-nvidias-suppliers-and-consumers/",
       "query": "NVIDIA Corporation major customers clients",
-      "snippet": "View today's NVIDIA Corporation stock price and latest NVDA news and analysis. Create real-time notifications to follow any changes in the live stock "
+      "snippet": "Nov 22, 2024 · NVIDIA has completed one of the most dramatic business transformations in market history — going from a gaming GPU company to the backb"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.fool.com/investing/2025/06/26/who-are-nvidias-biggest-customers/",
+      "query": "NVIDIA Corporation major customers clients",
+      "snippet": "Jun 26, 2025 · Who Are Nvidia 's Biggest Customers ? Nvidia supplies the most powerful data center chips in the world for artificial intelligence (AI)"
     }
   ]
 }

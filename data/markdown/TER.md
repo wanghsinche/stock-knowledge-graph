@@ -3,8 +3,8 @@ ticker: TER
 company: Teradyne, Inc.
 sector: Technology
 industry: Semiconductor Equipment & Materials
-extracted_at: 2026-04-27 17:25:15
-last_updated: 2026-04-27
+extracted_at: 2026-04-28 17:39:36
+last_updated: 2026-04-28
 ---
 
 # TER - Teradyne, Inc.
@@ -12,16 +12,16 @@ last_updated: 2026-04-27
 ## 基本信息
 
 - **所属行业**: Technology / Semiconductor Equipment & Materials
-- **提取时间**: 2026-04-27 17:25:15
+- **提取时间**: 2026-04-28 17:39:36
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Semiconductor manufacturers]]
-- [[Electronic component suppliers]]
-- [[Electronic test equipment suppliers]]
-- [[Raw material suppliers]]
-- [[Component manufacturers]]
+- [[AMAT]]
+- [[KLA Corporation]]
+- [[LRCX]]
+- [[ASML]]
+- [[Tokyo Electron]]
 
 ### 下游客户
 - [[005930.KS]]
@@ -31,18 +31,18 @@ last_updated: 2026-04-27
 - [[TXN]]
 
 ### 竞争对手
-- [[Advantest Corp]]
-- [[Keysight Technologies]]
+- [[Advantest]]
 - [[National Instruments]]
-- [[LTX-Credence]]
+- [[Keysight Technologies]]
 - [[Tektronix]]
+- [[Rohde & Schwarz]]
 
 ### 核心产品
-- [[Automatic test equipment (ATE)]]
-- [[Semiconductor test systems]]
-- [[Test software]]
-- [[Test solutions]]
-- [[Photon 100 test system]]
+- [[Universal Test Systems]]
+- [[Test and Measurement Systems]]
+- [[Test and Measurement Solutions]]
+- [[Test and Measurement Equipment]]
+- [[Semiconductor Test Systems]]
 
 ## 数据来源
 
@@ -54,4 +54,4 @@ last_updated: 2026-04-27
 
 ## 元数据
 
-- **更新日期**: 2026-04-27
+- **更新日期**: 2026-04-28

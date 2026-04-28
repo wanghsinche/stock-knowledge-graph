@@ -8,30 +8,30 @@
     "005930.KS",
     "GlobalFoundries",
     "UMC",
-    "ASML"
+    "INTC"
   ],
   "downstream": [
+    "SONY",
     "MSFT",
-    "DELL",
     "HPQ",
-    "Lenovo",
-    "SONY"
+    "DELL",
+    "Lenovo Group"
   ],
   "competitors": [
     "INTC",
     "NVDA",
     "QCOM",
     "AVGO",
-    "005930.KS"
+    "AMD"
   ],
   "key_products": [
     "Ryzen CPUs",
-    "EPYC servers",
+    "EPYC server CPUs",
     "Radeon GPUs",
-    "Radeon Instinct accelerators",
-    "AMD GPUs for gaming"
+    "Radeon Pro GPUs",
+    "Radeon Instinct accelerators"
   ],
-  "extracted_at": "2026-04-27 17:15:21",
+  "extracted_at": "2026-04-28 17:30:25",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/List_of_system_on_a_chip_suppliers",
+      "url": "https://en.wikipedia.org/wiki/AMD",
       "query": "Advanced Micro Devices, Inc. suppliers manufacturers",
-      "snippet": "The following is a list of system-on-a-chip suppliers . Actions Semiconductor Advanced Micro Devices (AMD) Advanced Semiconductor Engineering (ASE) Al"
+      "snippet": "Advanced Micro Devices , Inc . Advanced Micro Devices , Inc . ( AMD ) is an American multinational semiconductor company headquartered in Santa Clara,"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/AMD-Suppliers",
+      "url": "https://www.britannica.com/money/Advanced-Micro-Devices-Inc",
       "query": "Advanced Micro Devices, Inc. suppliers manufacturers",
-      "snippet": "Feb 9, 2026 · Advanced Micro Devices Inc's Sup pliers recorded an increase in sales by 31.98 % year on year in Q4 2025, sequentially sales grew by 485"
+      "snippet": "Advanced Micro Devices , Inc . ( AMD ) is an American semiconductor designer and global supplier of computing and graphics technologies used in data c"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/AMD-Customers",
+      "url": "https://en.wikipedia.org/wiki/AMD",
       "query": "Advanced Micro Devices, Inc. major customers clients",
-      "snippet": "2 days ago · Advanced Micro Devices Inc customers and markets, results by customer and performance relative to AMD, by company and industry - CSIMarke"
+      "snippet": "1 week ago - In September 1969, AMD moved from its temporary location in Santa Clara to its new $500,000 15,000sqft headquarters at 901 Thompson Place"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.marketscreener.com/quote/stock/AMD-ADVANCED-MICRO-DEVICE-179387659/finances-segments/",
+      "url": "https://www.sec.gov/Archives/edgar/data/2488/000000248817000043/amd-12312016x10k.htm",
       "query": "Advanced Micro Devices, Inc. major customers clients",
-      "snippet": "3 days ago · Understand how activity and revenue gets distributed for AMD (Advanced Micro Devices ) (AMD). Ten-year segmentation history. The entire s"
+      "snippet": "Our major customers, Sony Corporation, Microsoft Corporation and HP Inc. , each accounted for more than 10% of our consolidated net revenue for the ye"
     }
   ]
 }

@@ -4,34 +4,38 @@
   "sector": "Energy",
   "industry": "Oil & Gas Integrated",
   "upstream": [
-    "Crude oil producers (e.g., Saudi Aramco, Rosneft)",
-    "Oilfield services (Schlumberger, Halliburton)",
-    "CAT",
-    "Pipeline operators (Kinder Morgan)",
-    "Drilling rig operators (Baker Hughes)"
+    "Schlumberger",
+    "Halliburton",
+    "Baker Hughes",
+    "Weatherford",
+    "National Oilwell Varco"
   ],
   "downstream": [
-    "Petrochemical plants (Dow Chemical, DuPont)",
-    "Automotive fuel stations (Shell, BP)",
-    "Airlines (Delta, United)",
-    "Industrial customers (steel mills, chemical plants)",
-    "Consumer gasoline retail (7‑Eleven, Circle K)"
+    "Major U.S. gasoline stations",
+    "Airlines (fuel supply)",
+    "Petrochemical plants",
+    "Industrial refineries",
+    "Global energy distributors"
   ],
   "competitors": [
     "Chevron",
-    "ConocoPhillips",
     "Royal Dutch Shell",
     "BP",
-    "TotalEnergies"
+    "TotalEnergies",
+    "ConocoPhillips"
   ],
   "key_products": [
     "Crude oil",
     "Natural gas",
     "Gasoline",
     "Diesel",
-    "Petrochemicals"
+    "Jet fuel",
+    "Ethylene",
+    "Propylene",
+    "Plastic resins",
+    "Synthetic rubber"
   ],
-  "extracted_at": "2026-04-22 17:02:11",
+  "extracted_at": "2026-04-28 17:36:44",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,21 +51,21 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.mobil.com/en/lubricants/for-businesses/industrial/lubricants-distributors/externallocator",
+      "url": "https://www.trademo.com/manufacturers/exxonmobil",
       "query": "Exxon Mobil Corporation suppliers manufacturers",
-      "snippet": "Find an authorized ExxonMobil distributor in USA."
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/XOM-Customers",
-      "query": "Exxon Mobil Corporation major customers clients",
-      "snippet": "4 days ago · For your research, we’ve provided 9 tables on Exxon Mobil Corporation corporate clients . You can find them in the navigation menu under "
+      "snippet": "Find and discover international exxonmobil manufacturers & suppliers , featuring details on their shipment activities, trade volumes, trading partners"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://corporate.exxonmobil.com/",
       "query": "Exxon Mobil Corporation major customers clients",
-      "snippet": "1 day ago · ExxonMobil 's three primary businesses provide products that enable modern life, including energy, chemicals, lubricants, and lower-emissi"
+      "snippet": "ExxonMobil scientists are pioneering new research & technologies to reduce emissions. Learn how we are responsibly meeting the world's energy needs."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://seekingalpha.com/symbol/XOM",
+      "query": "Exxon Mobil Corporation major customers clients",
+      "snippet": "XOM Exxon Mobil Corporation . Stock Price & Overview. Exxon Mobil Corporation engages in the exploration and production of crude oil and natural gas i"
     }
   ]
 }

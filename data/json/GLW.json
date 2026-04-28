@@ -1,36 +1,37 @@
 {
   "ticker": "GLW",
   "company_name": "Corning Incorporated",
-  "sector": "Technology / Electronic Components",
-  "industry": "Optical and Photonics",
+  "sector": "Technology",
+  "industry": "Electronic Components",
   "upstream": [
-    "Advanced Optics",
-    "Gorilla Glass",
-    "Display Technologies",
-    "Environmental Tech"
+    "Silica sand suppliers",
+    "Chemical feedstock manufacturers",
+    "META",
+    "Glass furnace equipment suppliers",
+    "Precision machining equipment vendors"
   ],
   "downstream": [
     "AAPL",
     "005930.KS",
-    "INTC",
-    "TSM",
-    "NASA"
+    "META",
+    "GOOGL",
+    "MSFT"
   ],
   "competitors": [
     "Schott AG",
-    "Saint-Gobain",
-    "Asahi Glass Co.",
-    "Nikon",
-    "Canon"
+    "Saint‑Gobain",
+    "Nikon Corporation",
+    "II‑VI Incorporated",
+    "Lumentum Holdings"
   ],
   "key_products": [
-    "Gorilla Glass",
-    "Optical fibers",
-    "Advanced optics",
-    "Glass substrates",
-    "Ceramic materials"
+    "Optical fiber cables",
+    "Specialty glass for smartphones",
+    "Advanced optics for scientific instruments",
+    "Fiber‑optic sensors",
+    "Glass substrates for displays"
   ],
-  "extracted_at": "2026-04-27 17:20:28",
+  "extracted_at": "2026-04-28 17:33:12",
   "sources": [
     {
       "source": "Wikipedia",
@@ -40,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.corning.com/worldwide/en/products/life-sciences/config/Distributors.html",
-      "query": "Corning Incorporated suppliers manufacturers",
-      "snippet": "Advanced Optics Corning ® Gorilla® Glass Display Technologies Environmental Technologies Life Sciences Optical Communications Pharmaceutical Technolog"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.mouser.com/manufacturer/corning/",
-      "query": "Corning Incorporated suppliers manufacturers",
-      "snippet": "Corning 's industry-leading products include damage-resistant cover glass for mobile devices, precision glass for advanced displays, optical fiber, wi"
-    },
-    {
-      "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Corning_Inc.",
-      "query": "Corning Incorporated major customers clients",
+      "query": "Corning Incorporated suppliers manufacturers",
       "snippet": "Corning Incorporated is an American multinational technology company specializing in glass, ceramics, and related materials and technologies including"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.corning.com/worldwide/en.html",
+      "query": "Corning Incorporated suppliers manufacturers",
+      "snippet": "Corning Incorporated (NYSE: GLW) and Meta Platforms, Inc . (Nasdaq: META) today marked the start of construction on a significant expansion of Corning"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/GLW-Customers",
       "query": "Corning Incorporated major customers clients",
-      "snippet": "Corning Incorporated is a global-leading innovator in materials science, with 170 years of life-changing inventions and category-defining products."
+      "snippet": "For your research, we’ve provided 9 tables on Corning Inc corporate clients . You can find them in the navigation menu under Customers & Markets. To d"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://businessmodelcanvastemplate.com/blogs/target-market/corning-target-market",
+      "query": "Corning Incorporated major customers clients",
+      "snippet": "Mar 18, 2026 · From its 1851 roots in Pyrex and industrial glass to today's focus on fiber optics, display substrates, and precision glass for foldabl"
     }
   ]
 }

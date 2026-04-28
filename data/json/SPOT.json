@@ -4,18 +4,18 @@
   "sector": "Communication Services",
   "industry": "Internet Content & Information",
   "upstream": [
+    "Universal Music Group",
     "SONY",
-    "Independent artists and music publishers",
-    "GOOGL",
-    "Payment processors (Stripe, PayPal)",
-    "Data analytics and AI service vendors"
+    "Warner Music Group",
+    "MSFT",
+    "Music publishers (e.g., Universal Music Publishing Group)"
   ],
   "downstream": [
-    "Individual music listeners (free & premium users)",
-    "Advertisers and marketing agencies",
-    "Podcast creators and distribution partners",
-    "Device manufacturers (smart speakers, car infotainment)",
-    "Enterprise customers (Spotify for Business)"
+    "Individual music listeners (over 750 million MAUs)",
+    "Advertisers on the free tier",
+    "Podcast creators and distributors",
+    "Artists and record labels using Spotify for Artists",
+    "Enterprise customers using Spotify Ad Platform"
   ],
   "competitors": [
     "AAPL",
@@ -25,13 +25,13 @@
     "Deezer"
   ],
   "key_products": [
-    "Spotify Premium (ad‑free streaming)",
-    "Spotify Free (ad‑supported tier)",
-    "Spotify for Artists (artist analytics & promotion)",
-    "Spotify Podcasts (podcast hosting & discovery)",
-    "Spotify Ad Studio (audio ad creation platform)"
+    "Spotify Music Streaming",
+    "Spotify Podcasts",
+    "Spotify Ad Platform",
+    "Spotify for Artists",
+    "Spotify Premium subscription"
   ],
-  "extracted_at": "2026-03-04 16:38:18",
+  "extracted_at": "2026-04-28 17:32:37",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/SPOT-Suppliers",
-      "query": "Spotify Technology S.A. suppliers manufacturers",
-      "snippet": "Feb 9, 2024 · For your research, we’ve provided nine additional tables on Spotify Technology S a ’s suppliers . You can find them in the navigation me"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://markets.ft.com/data/equities/tearsheet/profile?s=SPOT:NYQ",
-      "query": "Spotify Technology S.A. suppliers manufacturers",
-      "snippet": "5 days ago · Spotify Technology SA (SPOT:NYQ) company profile with history, revenue, mergers & acquisitions, peer analysis, institutional shareholders"
-    },
-    {
-      "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Spotify",
-      "query": "Spotify Technology S.A. major customers clients",
-      "snippet": "Spotify Technology S . A . Spotify has client software currently available for Windows, macOS, Wear OS, Android, iOS, watchOS, iPadOS, PlayStation 3, "
+      "query": "Spotify Technology S.A. suppliers manufacturers",
+      "snippet": "Spotify is a Swedish audio streaming and media service provider founded in April 2006 by Daniel Ek and Martin Lorentzon."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://open.spotify.com/",
+      "url": "https://ru.wikipedia.org/wiki/Spotify",
+      "query": "Spotify Technology S.A. suppliers manufacturers",
+      "snippet": "Spotify — шведский стриминговый сервис, предоставляющий доступ к аудио- и медиаконтенту. Основан в 2006 году Даниэлем Эком и Мартином Лорентсоном."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/SPOT-Customers",
       "query": "Spotify Technology S.A. major customers clients",
-      "snippet": "Spotify is a digital music service that gives you access to millions of songs."
+      "snippet": "Jan 29, 2026 · For your research, we’ve provided 9 tables on Spotify Technology S a corporate clients . You can find them in the navigation menu under"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://portersfiveforce.com/blogs/target-market/spotify",
+      "query": "Spotify Technology S.A. major customers clients",
+      "snippet": "Jan 21, 2026 · Spotify Technology ' s primary customer segments are predominantly B2C, driven by Millennials and Gen Z who represent over 70% of its g"
     }
   ]
 }

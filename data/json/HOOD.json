@@ -1,37 +1,37 @@
 {
   "ticker": "HOOD",
   "company_name": "Robinhood Markets, Inc.",
-  "sector": "Financial Services / Capital Markets",
-  "industry": "Online Brokerage",
+  "sector": "Financial Services",
+  "industry": "Capital Markets",
   "upstream": [
-    "AMZN",
-    "GOOGL",
-    "MSFT",
-    "Bloomberg L.P.",
-    "Refinitiv"
+    "NASDAQ data feeds",
+    "Bloomberg",
+    "Refinitiv",
+    "Stripe",
+    "PayPal"
   ],
   "downstream": [
     "Retail investors",
-    "Institutional investors",
-    "Corporate clients",
-    "High‑frequency traders",
-    "Financial advisors"
+    "High net worth individuals",
+    "Institutional clients",
+    "Financial advisors",
+    "Wealth management firms"
   ],
   "competitors": [
     "Charles Schwab",
-    "Fidelity Investments",
-    "TD Ameritrade",
     "E*TRADE",
+    "Fidelity",
+    "TD Ameritrade",
     "Webull"
   ],
   "key_products": [
     "Commission‑free stock trading",
-    "Robinhood Gold",
+    "Robinhood Gold (margin)",
+    "Crypto trading",
     "Options trading",
-    "Cryptocurrency trading",
     "Cash management"
   ],
-  "extracted_at": "2026-04-27 17:22:21",
+  "extracted_at": "2026-04-28 17:38:02",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,21 +47,21 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/HOOD-Suppliers",
+      "url": "https://robinhood.com/",
       "query": "Robinhood Markets, Inc. suppliers manufacturers",
-      "snippet": "Feb 28, 2026 · Robinhood Markets Inc 's Suppliers recorded an increase in sales by 8.73 % year on year in Q4 2025, sequentially sales grew by 3.95 %, "
+      "snippet": "Trade stocks on Robinhood with commission-free investing & advanced trading tools. Access fractional shares, real-time market data, and more."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://investingintheweb.com/brokers/robinhood-statistics/",
+      "url": "https://en.wikipedia.org/wiki/Robinhood_Markets",
       "query": "Robinhood Markets, Inc. major customers clients",
-      "snippet": "Apr 7, 2026 · Robinhood revenues Robinhood generates revenues through transaction-based revenues, net interest revenues, and other revenues. Transacti"
+      "snippet": "Robinhood Markets , Inc . is an American financial services company based in Menlo Park, California. It provides an electronic trading platform that f"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://investors.robinhood.com/",
+      "url": "https://robinhood.com/",
       "query": "Robinhood Markets, Inc. major customers clients",
-      "snippet": "Feb 28, 2026 · Robinhood Markets , Inc . Investor relations (IR) website contains information about our business for stockholders, potential investors"
+      "snippet": "Trade stocks on Robinhood with commission-free investing & advanced trading tools. Access fractional shares, real-time market data, and more."
     }
   ]
 }

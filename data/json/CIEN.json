@@ -1,37 +1,37 @@
 {
   "ticker": "CIEN",
   "company_name": "Ciena Corporation",
-  "sector": "Technology",
-  "industry": "Communication Equipment",
+  "sector": "Technology / Communication Equipment",
+  "industry": "Optical Networking Systems",
   "upstream": [
-    "Lumentum",
-    "Coherent",
-    "II-VI Incorporated",
-    "Infinera",
-    "CSCO"
+    "INTC",
+    "AVGO",
+    "CSCO",
+    "JNPR",
+    "Huawei"
   ],
   "downstream": [
     "AT&T",
     "Verizon",
+    "Comcast",
     "T-Mobile",
-    "Deutsche Telekom",
     "Vodafone"
   ],
   "competitors": [
-    "CSCO",
+    "Nokia",
+    "Ericsson",
     "JNPR",
-    "ANET",
     "Huawei",
-    "Nokia"
+    "CSCO"
   ],
   "key_products": [
     "Optical transport equipment",
-    "Wavelength Division Multiplexing (WDM) systems",
-    "Optical cross-connects",
-    "Optical line cards",
-    "Optical networking software"
+    "Optical switching systems",
+    "Optical transceivers",
+    "Software-defined networking solutions",
+    "Optical amplifiers"
   ],
-  "extracted_at": "2026-04-22 17:02:44",
+  "extracted_at": "2026-04-28 17:38:39",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.ciena.com/about/customer-stories",
-      "query": "Ciena Corporation major customers clients",
-      "snippet": "As the global leader in high-speed connectivity, we empower our customers , partners, and communities to thrive in the AI era. Our commitments to incl"
+      "url": "https://www.ciena.com/",
+      "query": "Ciena Corporation suppliers manufacturers",
+      "snippet": "Ciena delivers the fastest network solutions to power cloud, AI, and digital transformation with high-speed, scalable, and secure connectivity."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/CIEN-Customers",
-      "query": "Ciena Corporation major customers clients",
-      "snippet": "Ciena customers and markets, results by customer and performance relative to CIEN, by company and industry - CSIMarket"
+      "url": "https://s25.q4cdn.com/550667411/files/doc_financials/2025/ar/Ciena-2025-Annual-Report1.pdf",
+      "query": "Ciena Corporation suppliers manufacturers",
+      "snippet": "Ciena Corporation . (Exact name of registrant as specified in its charter).2025, Ciena had $2.1 billion in outstanding purchase order commitments to c"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Ciena",
-      "query": "Ciena Corporation products services offerings",
-      "snippet": "Ciena develops and markets equipment, software and services, primarily for the telecommunications industry and large cloud service firms. Their produc"
+      "query": "Ciena Corporation major customers clients",
+      "snippet": "The company reported revenues of $4.8 billion [1] and more than 9,000 employees, as of November 2025. [1] Gary Smith serves as president and chief exe"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.ciena.com/products",
-      "query": "Ciena Corporation products services offerings",
-      "snippet": "Our products and solutions optimize data transmission and network management. Explore how our hardware, software, and services can help you."
+      "url": "https://www.ciena.com/about/customer-stories",
+      "query": "Ciena Corporation major customers clients",
+      "snippet": "As the global leader in high-speed connectivity, we empower our customers , partners, and communities to thrive in the AI era. Our commitments to incl"
     }
   ]
 }

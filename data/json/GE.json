@@ -1,43 +1,45 @@
 {
   "ticker": "GE",
-  "company_name": "General Electric Company",
+  "company_name": "GE Aerospace",
   "sector": "Industrials",
   "industry": "Aerospace & Defense",
   "upstream": [
-    "Alcoa",
-    "TiCo",
-    "Honeywell",
-    "Pratt & Whitney",
-    "Composite Materials Inc."
+    "Alcoa (aluminum alloys)",
+    "Timken (gears & bearings)",
+    "Honeywell Aerospace (electronics & avionics)",
+    "Boeing (component suppliers)",
+    "United Technologies (materials & systems)"
   ],
   "downstream": [
-    "United Airlines",
-    "Delta Air Lines",
-    "American Airlines",
-    "Lufthansa",
-    "Emirates"
+    "Boeing (commercial & military aircraft)",
+    "Airbus (commercial aircraft)",
+    "United Airlines (fleet of GE engines)",
+    "Delta Air Lines (GE turbofan engines)",
+    "U.S. Air Force (military jet engines)"
   ],
   "competitors": [
-    "Boeing",
+    "Pratt & Whitney (Raytheon Technologies)",
     "Rolls‑Royce",
-    "Safran",
-    "Pratt & Whitney",
-    "MTU Aero Engines"
+    "MTU Aero Engines",
+    "Honeywell Aerospace",
+    "United Technologies (now Raytheon Technologies)"
   ],
   "key_products": [
     "GE90",
     "GE CF6",
-    "GE CF34",
+    "GE90‑115B",
+    "GE9X",
     "GE T700",
-    "GE T800"
+    "GE75",
+    "GE12"
   ],
-  "extracted_at": "2026-04-24 16:49:29",
+  "extracted_at": "2026-04-28 17:37:10",
   "sources": [
     {
       "source": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/GE_Aerospace",
-      "title": "GE Aerospace",
-      "snippet": "General Electric Company, doing business as GE Aerospace, is an American aircraft engine supplier that is headquartered in Evendale, Ohio, outside Cincinnati. It is the legal successor to the original"
+      "url": "",
+      "title": "",
+      "snippet": ""
     },
     {
       "source": "DuckDuckGo",
@@ -47,21 +49,21 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://supplier.geaerospace.com/",
+      "url": "https://www.geaerospace.com/",
       "query": "GE Aerospace suppliers manufacturers",
-      "snippet": "GE Aerospace supplier portal provides suppliers the ability to access information and enter business transactions in an online and secure environment."
+      "snippet": "4 days ago · GE Aerospace is a world-leading provider of jet and turboprop engines, as well as integrated systems for commercial, military, business a"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/GE_Aerospace",
+      "url": "https://en.wikipedia.org/wiki/General_Electric",
       "query": "GE Aerospace major customers clients",
-      "snippet": "This acquisition will reportedly give the combined unit the clout to resist pricing pressures from its two largest customers, Boeing and Airbus. Histo"
+      "snippet": "GE Aerospace , the aerospace company, is GE 's legal successor. GE HealthCare, the health technology company, was spun off from GE in 2023. GE is stil"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://matrixbcg.com/blogs/target-market/geaerospace",
+      "url": "https://www.ge.com/history-ge-aerospace",
       "query": "GE Aerospace major customers clients",
-      "snippet": "6 days ago · Primary client list includes major airlines and cargo carriers, OEMs, national defense agencies, and global MRO networks; see detailed .."
+      "snippet": "The GE supercharger makes its maiden flight over McCook Field in Dayton, Ohio. Army Major Rudolph “Shorty” Schroeder demonstrates GE ’s new high-altit"
     }
   ]
 }

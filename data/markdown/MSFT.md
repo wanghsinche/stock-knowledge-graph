@@ -3,8 +3,8 @@ ticker: MSFT
 company: Microsoft Corporation
 sector: Technology
 industry: Software - Infrastructure
-extracted_at: 2026-04-27 17:16:05
-last_updated: 2026-04-27
+extracted_at: 2026-04-28 17:31:00
+last_updated: 2026-04-28
 ---
 
 # MSFT - Microsoft Corporation
@@ -12,7 +12,7 @@ last_updated: 2026-04-27
 ## 基本信息
 
 - **所属行业**: Technology / Software - Infrastructure
-- **提取时间**: 2026-04-27 17:16:05
+- **提取时间**: 2026-04-28 17:31:00
 
 ## 产业链关系
 
@@ -20,15 +20,15 @@ last_updated: 2026-04-27
 - [[INTC]]
 - [[AMD]]
 - [[NVDA]]
-- [[QCOM]]
-- [[005930.KS]]
-
-### 下游客户
 - [[DELL]]
 - [[HPQ]]
-- [[Lenovo]]
+
+### 下游客户
+- [[Enterprise customers (e.g., Fortune 500 companies)]]
 - [[Government agencies]]
-- [[Enterprise customers]]
+- [[Small and medium businesses]]
+- [[Individual consumers]]
+- [[Gaming community (Xbox users)]]
 
 ### 竞争对手
 - [[AAPL]]
@@ -38,20 +38,20 @@ last_updated: 2026-04-27
 - [[IBM]]
 
 ### 核心产品
-- [[Windows]]
-- [[Microsoft Office]]
-- [[Azure]]
-- [[Xbox]]
-- [[Surface]]
+- [[Windows operating system]]
+- [[Microsoft Office suite]]
+- [[Azure cloud platform]]
+- [[Xbox gaming console]]
+- [[Surface hardware devices]]
 
 ## 数据来源
 
 - [Microsoft](https://en.wikipedia.org/wiki/Microsoft_Corporation)
-- [Microsoft Corporation suppliers manufacturers](https://download.microsoft.com/download/F/3/8/F38AF681-EB3A-4645-A9C4-D4F31B8BA8F2/Microsoft+Top+100+Production+Suppliers.pdf)
 - [Microsoft Corporation suppliers manufacturers](https://www.microsoft.com/en-us/procurement)
-- [Microsoft Corporation major customers clients](https://www.appsruntheworld.com/customers-database/vendors/view/microsoft)
-- [Microsoft Corporation major customers clients](https://www.microsoft.com/investor/reports/ar13/financial-review/business-description/customers/index.html)
+- [Microsoft Corporation suppliers manufacturers](https://csimarket.com/stocks/MSFT-Suppliers)
+- [Microsoft Corporation major customers clients](https://www.microsoft.com/en-us/customers/)
+- [Microsoft Corporation major customers clients](https://csimarket.com/stocks/MSFT-Customers)
 
 ## 元数据
 
-- **更新日期**: 2026-04-27
+- **更新日期**: 2026-04-28
