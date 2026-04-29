@@ -2,36 +2,36 @@
   "ticker": "BKNG",
   "company_name": "Booking Holdings Inc.",
   "sector": "Consumer Cyclical / Travel Services",
-  "industry": "Travel Technology",
+  "industry": "Travel Services",
   "upstream": [
-    "Hotel chains",
+    "Hotels",
     "Airlines",
-    "Car rental agencies",
-    "CAT",
-    "Cruise lines"
+    "Car Rental Companies",
+    "Cruise Lines",
+    "Travel Agencies"
   ],
   "downstream": [
-    "Individual travelers",
-    "Corporate travel managers",
-    "Travel agencies",
-    "Travel bloggers",
-    "Travel influencers"
+    "Individual Travelers",
+    "Corporate Travel Managers",
+    "Travel Agencies",
+    "Travel Management Companies",
+    "Corporate Clients"
   ],
   "competitors": [
     "Expedia Group",
-    "Trip.com",
-    "Airbnb",
     "TripAdvisor",
-    "Skyscanner"
+    "Airbnb",
+    "Priceline",
+    "Trip.com"
   ],
   "key_products": [
     "Booking.com",
     "Priceline.com",
     "Kayak.com",
     "Agoda.com",
-    "OpenTable"
+    "Rentalcars.com"
   ],
-  "extracted_at": "2026-04-07 16:54:03",
+  "extracted_at": "2026-04-29 17:23:45",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,9 +47,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/BKNG-Suppliers",
+      "url": "https://pitchgrade.com/companies/booking-holdings",
       "query": "Booking Holdings Inc. suppliers manufacturers",
-      "snippet": "Feb 19, 2026 · Sources: Booking Holdings Inc 's official press releases and regulatory filings; CSIMarket.com's supply-chain research; and the financi"
+      "snippet": "How Booking Holdings Inc . generates revenue across its key business segments and the unit economics behind each. A data-backed SWOT analysis covering"
     },
     {
       "source": "DuckDuckGo",
@@ -59,9 +59,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.booking.com/index.en-gb.html",
+      "url": "https://pitchgrade.com/companies/booking-holdings",
       "query": "Booking Holdings Inc. major customers clients",
-      "snippet": "Explore the world with Booking .com. Big savings on homes, hotels, flights, car rentals, taxis and attractions – build your perfect trip on any budget"
+      "snippet": "Customer Segments: Booking Holdings Inc . serves multiple distinct customer segments, which may include consumers, small and medium businesses, enterp"
     }
   ]
 }

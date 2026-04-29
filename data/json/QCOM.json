@@ -4,34 +4,34 @@
   "sector": "Technology",
   "industry": "Semiconductors",
   "upstream": [
-    "TSM",
-    "005930.KS",
-    "GlobalFoundries",
-    "MU",
-    "SK Hynix"
+    "Chipset manufacturers",
+    "Power supply unit (PSU) suppliers",
+    "Memory chip suppliers",
+    "Component packaging suppliers",
+    "Electronic design automation (EDA) tool vendors"
   ],
   "downstream": [
     "AAPL",
-    "005930.KS",
-    "Huawei Technologies",
-    "Xiaomi Corp.",
-    "Ericsson AB"
+    "Telecom equipment vendors (Huawei, Ericsson, Nokia)",
+    "Automotive electronics suppliers",
+    "Internet of Things (IoT) device manufacturers",
+    "Consumer electronics companies"
   ],
   "competitors": [
-    "MediaTek Inc.",
+    "MediaTek",
     "AVGO",
     "INTC",
-    "NVDA",
-    "Huawei HiSilicon"
+    "005930.KS",
+    "NVDA"
   ],
   "key_products": [
     "Snapdragon mobile processors",
-    "5G modem chips",
-    "LTE/4G modems",
-    "Wi‑Fi and Bluetooth SoCs",
-    "AI inference chips"
+    "5G modems and baseband chips",
+    "AI inference chips",
+    "Wireless connectivity solutions",
+    "Embedded system-on-chip (SoC) platforms"
   ],
-  "extracted_at": "2026-04-28 17:34:49",
+  "extracted_at": "2026-04-29 17:21:33",
   "sources": [
     {
       "source": "Wikipedia",
@@ -49,19 +49,19 @@
       "source": "DuckDuckGo",
       "url": "https://ru.wikipedia.org/wiki/Qualcomm",
       "query": "QUALCOMM Incorporated suppliers manufacturers",
-      "snippet": "Qualcomm Inc . Изображение логотипа. Тип.↑ 1 2 QUALCOMM Incorporated -- Company History (англ.). International Directory of Company Histories, Vol. 47"
+      "snippet": "Qualcomm , «Куалкомм» — компания по разработке и производству микросхем для мобильных телефонов и другой электроники, включая семейство систем на крис"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.qualcomm.com/company",
+      "url": "https://en.wikipedia.org/wiki/Qualcomm",
       "query": "QUALCOMM Incorporated major customers clients",
-      "snippet": "Review Qualcomm 's corporate history, values, and history of innovation. Qualcomm helps transform industries, create new experiences, and support the "
+      "snippet": "Qualcomm Incorporated is an American multinational technology corporation headquartered in San Diego, California.The company develops and designs ..."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.linkedin.com/company/qualcomm",
+      "url": "https://www.qualcomm.com/internet-of-things/industries/logistics/partners",
       "query": "QUALCOMM Incorporated major customers clients",
-      "snippet": "Qualcomm . Semiconductor Manufacturing. San Diego, CA 2,154,071 followers.With tech shapers Arduino, Augentix Inc ., Edge Impulse, Foundries.io, and F"
+      "snippet": "Our leading-edge AI, high performance, low-power computing, and unrivaled connectivity deliver proven solutions that transform major industries. At .."
     }
   ]
 }

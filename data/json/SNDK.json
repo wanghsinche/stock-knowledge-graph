@@ -1,37 +1,37 @@
 {
   "ticker": "SNDK",
-  "company_name": "Sandisk Corporation",
-  "sector": "Technology",
-  "industry": "Computer Hardware",
+  "company_name": "SanDisk Corporation",
+  "sector": "Technology / Computer Hardware",
+  "industry": "Semiconductors / Flash Memory",
   "upstream": [
+    "TSM",
     "005930.KS",
     "MU",
     "SK Hynix",
-    "Toshiba Memory",
-    "WDC"
+    "INTC"
   ],
   "downstream": [
-    "Enterprise and Data Center customers",
-    "Consumer electronics manufacturers",
-    "Mobile device OEMs",
-    "Gaming console manufacturers",
-    "Automotive electronics suppliers"
+    "AAPL",
+    "MSFT",
+    "DELL",
+    "HPQ",
+    "AMZN"
   ],
   "competitors": [
-    "Kingston Technology",
+    "005930.KS",
     "MU",
-    "Lexar",
-    "Corsair",
-    "PNY Technologies"
+    "WDC",
+    "Kingston",
+    "Crucial"
   ],
   "key_products": [
-    "Memory cards (SD, microSD)",
+    "Memory cards",
     "USB flash drives",
-    "Solid‑state drives (SSDs)",
-    "USB‑C flash drives",
-    "Embedded flash memory solutions"
+    "Solid-state drives (SSDs)",
+    "Embedded flash memory",
+    "Enterprise flash storage"
   ],
-  "extracted_at": "2026-04-28 17:30:35",
+  "extracted_at": "2026-04-29 17:18:29",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Sandisk",
+      "url": "https://en.wikipedia.org/wiki/List_of_computer_hardware_manufacturers",
       "query": "Sandisk Corporation suppliers manufacturers",
-      "snippet": "Sandisk Corporation (formerly branded SanDisk ) is an American multinational computer semiconductor company based in Milpitas, California, that design"
+      "snippet": "Current notable computer hardware manufacturers : Cases. [edit]. List of computer case manufacturers : This list is incomplete; you can help by adding"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://ru.wikipedia.org/wiki/SanDisk",
       "query": "Sandisk Corporation suppliers manufacturers",
-      "snippet": "SanDisk Corporation . Изображение логотипа. Тип. SanDisk — американская корпорация, занимавшаяся разработкой и производством носителей информации на б"
+      "snippet": "SanDisk — американская корпорация, занимавшаяся разработкой и производством носителей информации на базе флеш-памяти. Корпорация была основана в 1988 "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Sandisk",
+      "url": "https://www.sandisk.com/",
       "query": "Sandisk Corporation major customers clients",
-      "snippet": "1 week ago - Sandisk Corporation (formerly branded SanDisk) is an American multinational computer semiconductor company based in Milpitas, California,"
+      "snippet": "Sandisk online store members receive free standard shipping on all eligible orders.New Sandisk Customers Sign Up and Save 10% Off. Explore the latest "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://leadiq.com/c/sandisk/5a1d82ba24000024005d6784",
+      "url": "https://www.linkedin.com/company/sandisk",
       "query": "Sandisk Corporation major customers clients",
-      "snippet": "Enterprise and Data Center Focus SanDisk’s products are extensively used in leading-edge data centers and embedded in enterprise hardware, which opens"
+      "snippet": "Sandisk | 377,941 followers on LinkedIn. Sandisk is a leading developer, manufacturer and provider of data storage devices and solutions based on NAND"
     }
   ]
 }

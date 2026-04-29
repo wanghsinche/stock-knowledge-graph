@@ -3,8 +3,8 @@ ticker: NOW
 company: ServiceNow, Inc.
 sector: Technology
 industry: Software - Application
-extracted_at: 2026-04-28 17:37:20
-last_updated: 2026-04-28
+extracted_at: 2026-04-29 17:26:44
+last_updated: 2026-04-29
 ---
 
 # NOW - ServiceNow, Inc.
@@ -12,7 +12,7 @@ last_updated: 2026-04-28
 ## 基本信息
 
 - **所属行业**: Technology / Software - Application
-- **提取时间**: 2026-04-28 17:37:20
+- **提取时间**: 2026-04-29 17:26:44
 
 ## 产业链关系
 
@@ -20,38 +20,38 @@ last_updated: 2026-04-28
 - [[AMZN]]
 - [[MSFT]]
 - [[GOOGL]]
-- [[ORCL]]
 - [[IBM]]
+- [[ORCL]]
 
 ### 下游客户
-- [[Walmart]]
-- [[JPMorgan Chase]]
-- [[AT&T]]
 - [[Bank of America]]
-- [[General Motors]]
+- [[Coca‑Cola]]
+- [[Walmart]]
+- [[AT&T]]
+- [[UnitedHealth Group]]
 
 ### 竞争对手
 - [[CRM]]
 - [[MSFT]]
-- [[SAP SuccessFactors]]
+- [[SAP]]
 - [[ORCL]]
 - [[IBM]]
 
 ### 核心产品
-- [[ServiceNow Platform]]
-- [[IT Service Management (ITSM)]]
-- [[IT Operations Management (ITOM)]]
-- [[Customer Service Management (CSM)]]
-- [[HR Service Delivery]]
+- [[Now Platform]]
+- [[IT Service Management]]
+- [[IT Operations Management]]
+- [[IT Business Management]]
+- [[Customer Service Management]]
 
 ## 数据来源
 
 - [ServiceNow](https://en.wikipedia.org/wiki/ServiceNow,_Inc.)
-- [ServiceNow, Inc. suppliers manufacturers](https://www.servicenow.com/company/supplier.html)
-- [ServiceNow, Inc. suppliers manufacturers](https://itcompanies.net/blog/top-servicenow-partners)
+- [ServiceNow, Inc. suppliers manufacturers](https://www.fool.com/investing/2026/04/09/the-saaspocalypse-made-servicenow-stock-a-bargain/)
+- [ServiceNow, Inc. suppliers manufacturers](https://www.alibaba.com/)
 - [ServiceNow, Inc. major customers clients](https://www.fool.com/investing/2026/04/09/the-saaspocalypse-made-servicenow-stock-a-bargain/)
-- [ServiceNow, Inc. major customers clients](https://www.linkedin.com/pulse/major-incident-management-interview-questions-2026-omender-singh-jlxbc)
+- [ServiceNow, Inc. major customers clients](https://www.youtube.com/watch?v=D5pevc02Pq0)
 
 ## 元数据
 
-- **更新日期**: 2026-04-28
+- **更新日期**: 2026-04-29

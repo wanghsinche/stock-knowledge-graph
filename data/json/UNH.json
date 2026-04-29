@@ -2,66 +2,66 @@
   "ticker": "UNH",
   "company_name": "UnitedHealth Group Incorporated",
   "sector": "Healthcare",
-  "industry": "Healthcare Plans",
+  "industry": "Health Insurance",
   "upstream": [
     "Pharmaceutical manufacturers",
     "Medical device manufacturers",
     "Health IT vendors",
     "Pharmacy benefit managers",
-    "Healthcare technology providers"
+    "Healthcare service providers"
   ],
   "downstream": [
+    "Individual consumers",
     "Employers",
-    "Government health programs (Medicare, Medicaid)",
-    "Individuals",
-    "Health care providers",
-    "Health plans"
+    "Government programs (Medicare, Medicaid)",
+    "Health plans",
+    "Health care providers"
   ],
   "competitors": [
-    "Kaiser Permanente",
-    "Aetna",
+    "Anthem",
+    "Aetna (CVS Health)",
     "Cigna",
     "Humana",
     "Blue Cross Blue Shield"
   ],
   "key_products": [
     "Health insurance plans",
-    "Health care services (Optum)",
-    "Pharmacy benefit management",
-    "Health IT solutions",
-    "Data analytics services"
+    "Medicare Advantage plans",
+    "OptumRx pharmacy benefit management",
+    "Optum health services",
+    "Health data analytics"
   ],
-  "extracted_at": "2026-04-28 17:33:45",
+  "extracted_at": "2026-04-29 17:22:55",
   "sources": [
     {
       "source": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/UnitedHealth_Group_Incorporated",
-      "title": "UnitedHealth Group",
-      "snippet": "UnitedHealth Group Incorporated is an American multinational for-profit company based in Eden Prairie, Minnesota, specializing in health insurance and health care services. Selling insurance products "
+      "url": "",
+      "title": "",
+      "snippet": ""
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.unitedhealthgroup.com/suppliers/information.html",
+      "url": "https://en.wikipedia.org/wiki/UnitedHealth_Group",
       "query": "UnitedHealth Group Incorporated suppliers manufacturers",
-      "snippet": "Information for UnitedHealth Group suppliers , including access to our vendor portal"
+      "snippet": "UnitedHealth Group Incorporated is an American multinational for-profit company based in Eden Prairie, Minnesota specializing in health insurance and "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/UNH-Suppliers",
+      "url": "https://finance.yahoo.com/quote/UNH/",
       "query": "UnitedHealth Group Incorporated suppliers manufacturers",
-      "snippet": "Oct 29, 2025 · For your research, we’ve provided nine additional tables on Unitedhealth Group Incorporated ’s suppliers . You can find them in the nav"
+      "snippet": "UnitedHealth Group Incorporated Overview Healthcare Plans / Healthcare. UnitedHealth Group Incorporated operates as a health care company in the Unite"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/UNH-Customers",
+      "url": "https://finance.yahoo.com/quote/UNH/",
       "query": "UnitedHealth Group Incorporated major customers clients",
-      "snippet": "Unitedhealth Group Incorporated customers and markets, results by customer and performance relative to UNH, by company and industry - CSIMarket"
+      "snippet": "UnitedHealth Group Incorporated Overview Healthcare Plans / Healthcare. UnitedHealth Group Incorporated operates as a health care company in the Unite"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.unitedhealthgroup.com/uhg/businesses.html",
+      "url": "https://www.insidermonkey.com/blog/is-unitedhealth-group-incorporated-unh-a-good-stock-to-buy-now-2-1740168/",
       "query": "UnitedHealth Group Incorporated major customers clients",
-      "snippet": "UnitedHealth Group is a health care and well-being company with team members in two distinct and complementary businesses — Optum and UnitedHealthcare"
+      "snippet": "We came across a bullish thesis on UnitedHealth Group Incorporated on MaxDividends’s Substack by Serhio MaxDividends. In this article, we will summari"
     }
   ]
 }

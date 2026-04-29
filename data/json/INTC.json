@@ -4,34 +4,34 @@
   "sector": "Technology",
   "industry": "Semiconductors",
   "upstream": [
-    "AMAT",
     "ASML",
+    "AMAT",
     "LRCX",
     "Tokyo Electron",
-    "KLA Corporation"
+    "KLA"
   ],
   "downstream": [
     "DELL",
     "HPQ",
-    "Lenovo Group",
+    "Lenovo",
     "AAPL",
-    "MSFT"
+    "AMZN"
   ],
   "competitors": [
     "AMD",
     "NVDA",
-    "QCOM",
-    "AVGO",
-    "005930.KS"
+    "TSM",
+    "005930.KS",
+    "AVGO"
   ],
   "key_products": [
-    "Intel Core CPUs",
-    "Intel Xeon CPUs",
+    "Intel Core processors",
+    "Intel Xeon processors",
     "Intel Optane memory",
-    "Intel Ethernet controllers",
-    "Intel AI accelerators"
+    "Intel Atom processors",
+    "Intel Stratix FPGA"
   ],
-  "extracted_at": "2026-04-28 17:30:47",
+  "extracted_at": "2026-04-29 17:17:26",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,13 +43,13 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Intel",
       "query": "Intel Corporation suppliers manufacturers",
-      "snippet": "Intel Corporation is an American multinational technology company headquartered in Santa Clara, California. It designs, manufactures , and sells compu"
+      "snippet": "4 hours ago - Until then, the manufacture of complex integrated circuits was not reliable enough for customers to depend on a single supplier, but Gro"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ru.wikipedia.org/wiki/Intel",
+      "url": "https://www.intel.com/content/www/us/en/supplier/overview.html",
       "query": "Intel Corporation suppliers manufacturers",
-      "snippet": "Делавэр: Intel Capital Corporation ; Intel Overseas Funding Corporation ; Intel Americas, Inc.; Intel Ireland Holdings (U.S.) LLC; Altera Corporation "
+      "snippet": "Intel is working to continuously improve transparency and promote corporate responsibility throughout the global electronics supply chain. ... Click h"
     },
     {
       "source": "DuckDuckGo",

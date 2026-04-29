@@ -3,8 +3,8 @@ ticker: NFLX
 company: Netflix, Inc.
 sector: Communication Services
 industry: Entertainment
-extracted_at: 2026-04-28 17:35:32
-last_updated: 2026-04-28
+extracted_at: 2026-04-29 17:24:54
+last_updated: 2026-04-29
 ---
 
 # NFLX - Netflix, Inc.
@@ -12,23 +12,23 @@ last_updated: 2026-04-28
 ## 基本信息
 
 - **所属行业**: Communication Services / Entertainment
-- **提取时间**: 2026-04-28 17:35:32
+- **提取时间**: 2026-04-29 17:24:54
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Visual Data (UK)]]
-- [[SONY]]
-- [[Disney]]
-- [[Warner Bros. Discovery]]
-- [[Universal Studios]]
+- [[Content production studios (e.g., Warner Bros., Disney)]]
+- [[AMZN]]
+- [[Video encoding equipment manufacturers]]
+- [[Marketing and advertising agencies]]
+- [[NVDA]]
 
 ### 下游客户
-- [[005930.KS]]
-- [[MSFT]]
+- [[Individual streaming subscribers worldwide]]
+- [[Corporate enterprise customers (e.g., airlines, hotels)]]
 - [[AAPL]]
-- [[AAPL]]
-- [[Internet service providers (Comcast, AT&T, Verizon)]]
+- [[Smart TV OEMs]]
+- [[NFLX]]
 
 ### 竞争对手
 - [[Disney+]]
@@ -38,20 +38,20 @@ last_updated: 2026-04-28
 - [[AAPL]]
 
 ### 核心产品
-- [[Subscription video on-demand service]]
-- [[Original programming (Netflix Originals)]]
+- [[Netflix streaming service]]
+- [[Original series and films]]
 - [[Licensed third‑party content]]
-- [[Mobile and web streaming apps]]
-- [[Smart TV and gaming console apps]]
+- [[Mobile and web apps]]
+- [[Smart TV and console apps]]
 
 ## 数据来源
 
 - [Netflix, Inc.](https://en.wikipedia.org/wiki/Netflix,_Inc.)
-- [Netflix, Inc. suppliers manufacturers](https://npfp.netflixstudios.com/region/global/)
-- [Netflix, Inc. suppliers manufacturers](https://seriosity.com/what-companies-does-netflix-work-with/)
-- [Netflix, Inc. major customers clients](https://www.netflix.com/de-en/)
-- [Netflix, Inc. major customers clients](https://www.thestreet.com/markets/netflix-nflx-stock-tumbles-on-baird-downgrade-13410691)
+- [Netflix, Inc. suppliers manufacturers](https://www.alibaba.com/)
+- [Netflix, Inc. suppliers manufacturers](https://www.stock-analysis-on.net/NASDAQ/Company/Netflix-Inc)
+- [Netflix, Inc. major customers clients](https://www.inc.com/jason-aten/netflix-just-revealed-its-doing-the-1-thing-customers-were-most-afraid-of/91110628)
+- [Netflix, Inc. major customers clients](https://www.theglobeandmail.com/business/international-business/article-netflix-hits-40-million-users-for-ad-supported-plan/)
 
 ## 元数据
 
-- **更新日期**: 2026-04-28
+- **更新日期**: 2026-04-29

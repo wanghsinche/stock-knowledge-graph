@@ -4,36 +4,34 @@
   "sector": "Industrials",
   "industry": "Aerospace & Defense",
   "upstream": [
-    "Alcoa (aluminum alloys)",
-    "Timken (gears & bearings)",
-    "Honeywell Aerospace (electronics & avionics)",
-    "Boeing (component suppliers)",
-    "United Technologies (materials & systems)"
+    "Titanium alloy suppliers",
+    "Composite material suppliers",
+    "Electronic component suppliers",
+    "Hydraulic system suppliers",
+    "Fuel system suppliers"
   ],
   "downstream": [
-    "Boeing (commercial & military aircraft)",
-    "Airbus (commercial aircraft)",
-    "United Airlines (fleet of GE engines)",
-    "Delta Air Lines (GE turbofan engines)",
-    "U.S. Air Force (military jet engines)"
+    "United States Air Force",
+    "Boeing",
+    "Lockheed Martin",
+    "Airbus",
+    "Embraer"
   ],
   "competitors": [
-    "Pratt & Whitney (Raytheon Technologies)",
+    "Pratt & Whitney (Raytheon)",
     "Rolls‑Royce",
-    "MTU Aero Engines",
-    "Honeywell Aerospace",
-    "United Technologies (now Raytheon Technologies)"
+    "Safran",
+    "Mitsubishi Heavy Industries",
+    "AVIC Shenyang Aircraft"
   ],
   "key_products": [
-    "GE90",
-    "GE CF6",
-    "GE90‑115B",
-    "GE9X",
-    "GE T700",
-    "GE75",
-    "GE12"
+    "F110 turbofan engine",
+    "F414 turbofan engine",
+    "GE90 turbofan engine",
+    "GE2 turbofan engine",
+    "GE9X turbofan engine"
   ],
-  "extracted_at": "2026-04-28 17:37:10",
+  "extracted_at": "2026-04-29 17:27:19",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/GE_Aerospace",
-      "query": "GE Aerospace suppliers manufacturers",
-      "snippet": "GE Aerospace both manufactures engines under its name and partners with other manufacturers to produce engines. CFM International, the world's leading"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.geaerospace.com/",
-      "query": "GE Aerospace suppliers manufacturers",
-      "snippet": "4 days ago · GE Aerospace is a world-leading provider of jet and turboprop engines, as well as integrated systems for commercial, military, business a"
-    },
-    {
-      "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/General_Electric",
       "query": "GE Aerospace major customers clients",
       "snippet": "GE Aerospace , the aerospace company, is GE 's legal successor. GE HealthCare, the health technology company, was spun off from GE in 2023. GE is stil"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.ge.com/history-ge-aerospace",
+      "url": "https://muncly.com/how-ge-aerospace-monetized-flight-hours/",
       "query": "GE Aerospace major customers clients",
-      "snippet": "The GE supercharger makes its maiden flight over McCook Field in Dayton, Ohio. Army Major Rudolph “Shorty” Schroeder demonstrates GE ’s new high-altit"
+      "snippet": "GE Aerospace is also a major supplier of engines for military aircraft. The F110 engine is installed on F-15 and F-16 fighters. The F414 engine – on t"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/General_Electric",
+      "query": "GE Aerospace competitors alternatives",
+      "snippet": "GE Aerospace , the aerospace company, is GE 's legal successor. GE HealthCare, the health technology company, was spun off from GE in 2023. GE Vernova"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://craft.co/ge-aerospace/competitors",
+      "query": "GE Aerospace competitors alternatives",
+      "snippet": "GE Aviation Systems's main competitors include AVIC Shenyang Aircraft, Safran Aircraft Engines, Hindustan Aeronautics, United Engine Corporation, MTU "
     }
   ]
 }

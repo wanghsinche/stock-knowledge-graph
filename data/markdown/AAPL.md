@@ -3,8 +3,8 @@ ticker: AAPL
 company: Apple Inc.
 sector: Technology
 industry: Consumer Electronics
-extracted_at: 2026-04-28 17:31:30
-last_updated: 2026-04-28
+extracted_at: 2026-04-29 17:20:13
+last_updated: 2026-04-29
 ---
 
 # AAPL - Apple Inc.
@@ -12,7 +12,7 @@ last_updated: 2026-04-28
 ## 基本信息
 
 - **所属行业**: Technology / Consumer Electronics
-- **提取时间**: 2026-04-28 17:31:30
+- **提取时间**: 2026-04-29 17:20:13
 
 ## 产业链关系
 
@@ -21,6 +21,7 @@ last_updated: 2026-04-28
 - [[Murata Manufacturing]]
 - [[Nichia]]
 - [[Nidec]]
+- [[Toshiba]]
 
 ### 下游客户
 - [[iPhone users]]
@@ -34,7 +35,7 @@ last_updated: 2026-04-28
 - [[GOOGL]]
 - [[MSFT]]
 - [[AMZN]]
-- [[Huawei]]
+- [[SONY]]
 
 ### 核心产品
 - [[iPhone]]
@@ -48,9 +49,9 @@ last_updated: 2026-04-28
 - [Apple Inc.](https://en.wikipedia.org/wiki/Apple_Inc.)
 - [Apple Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/Template:Apple_Inc._suppliers)
 - [Apple Inc. suppliers manufacturers](https://www.apple.com/)
-- [Apple Inc. major customers clients](https://businessmodelanalyst.com/apple-target-market/)
-- [Apple Inc. major customers clients](https://csimarket.com/stocks/AAPL-Customers)
+- [Apple Inc. major customers clients](https://en.wikipedia.org/wiki/Apple_Inc.)
+- [Apple Inc. major customers clients](https://www.apple.com/)
 
 ## 元数据
 
-- **更新日期**: 2026-04-28
+- **更新日期**: 2026-04-29

@@ -4,18 +4,18 @@
   "sector": "Communication Services",
   "industry": "Internet Content & Information",
   "upstream": [
-    "INTC",
-    "005930.KS",
-    "QCOM",
+    "Foxconn",
     "NVDA",
-    "CSCO"
+    "005930.KS",
+    "TSM",
+    "INTC"
   ],
   "downstream": [
     "GOOGL",
-    "005930.KS",
-    "YouTube content creators",
-    "GOOGL",
-    "GOOGL"
+    "Advertisers",
+    "App developers",
+    "YouTube users",
+    "Android device manufacturers"
   ],
   "competitors": [
     "MSFT",
@@ -27,11 +27,13 @@
   "key_products": [
     "Google Search",
     "YouTube",
-    "Google Cloud Platform",
-    "Android OS",
+    "Google Cloud",
+    "Android",
+    "Google Ads",
+    "Google Maps",
     "Google Workspace"
   ],
-  "extracted_at": "2026-04-28 17:32:05",
+  "extracted_at": "2026-04-29 17:20:24",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,25 +45,25 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Alphabet_Inc.",
       "query": "Alphabet Inc. suppliers manufacturers",
-      "snippet": "Alphabet Inc . is an American multinational technology conglomerate holding company headquartered in Mountain View, California. It was created through"
+      "snippet": "Alphabet Inc. is an American multinational technology conglomerate holding company headquartered in Mountain View, California."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/GOOG-Suppliers",
+      "url": "https://finance.yahoo.com/news/intrinsic-alphabet-company-nvidia-supplier-230000944.html",
       "query": "Alphabet Inc. suppliers manufacturers",
-      "snippet": "Alphabet Inc supply chain, list and performance of Alphabet Incs ' suppliers - CSIMarket."
+      "snippet": "Nov 20, 2025 · Intrinsic, an Alphabet company, and Nvidia supplier Foxconn will join forces to deploy AI robots in the latter's U.S. factories · GOOGL"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://strategy.transforml.co/google-strategy-cascade-analysis",
+      "url": "https://en.wikipedia.org/wiki/Alphabet_Inc.",
       "query": "Alphabet Inc. major customers clients",
-      "snippet": "Apr 2, 2026 · Alphabet 's brands, including Google and YouTube, are among the most recognized and trusted in the world, driving user engagement and ad"
+      "snippet": "Google, Internet services, largest subsidiary and prior corporate entity name, Sundar Pichai ; Google Fiber, Internet access: via fiber, Dinesh Jain ;"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/GOOGL-Customers",
+      "url": "https://www.linkedin.com/posts/kavrak_this-is-mind-blowing-alphabet-inc-has-9-activity-7309623067591303169-gY8t",
       "query": "Alphabet Inc. major customers clients",
-      "snippet": "Feb 9, 2026 · Updated on: Focus of this report: Alphabet Inc ’s corporate clients . For your research, we’ve provided 9 tables on Alphabet Inc corpora"
+      "snippet": "Mar 23, 2025 · Alphabet Inc. has 9 different businesses with more than 1 billion users. Google Play Store: 2.5B+ MAUs, Google Workspace: 3B+ users, Go"
     }
   ]
 }

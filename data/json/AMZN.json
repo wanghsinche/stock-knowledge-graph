@@ -4,40 +4,40 @@
   "sector": "Consumer Cyclical",
   "industry": "Internet Retail",
   "upstream": [
-    "AAPL",
-    "Apparel manufacturers",
-    "Book publishers",
-    "Home goods manufacturers",
-    "Third‑party sellers"
+    "Manufacturers of consumer goods",
+    "Logistics partners (UPS, FedEx)",
+    "Technology hardware vendors",
+    "Warehouse equipment suppliers",
+    "Packaging material suppliers"
   ],
   "downstream": [
     "Individual consumers",
-    "Enterprise customers (AWS)",
-    "Government agencies (AWS)",
-    "Advertisers",
-    "Third‑party sellers"
+    "AMZN",
+    "AWS enterprise clients",
+    "AMZN",
+    "AMZN"
   ],
   "competitors": [
     "Walmart",
-    "Alibaba",
+    "Alibaba Group",
     "eBay",
     "Shopify",
-    "Target"
+    "MSFT"
   ],
   "key_products": [
-    "Amazon Marketplace",
-    "Amazon Prime",
-    "Amazon Web Services",
-    "Amazon Advertising",
-    "Amazon Echo/Alexa"
+    "Amazon.com e‑commerce platform",
+    "Amazon Web Services (cloud computing)",
+    "Amazon Prime subscription",
+    "Amazon Kindle e‑readers",
+    "Amazon Echo smart speakers"
   ],
-  "extracted_at": "2026-04-28 17:31:10",
+  "extracted_at": "2026-04-29 17:18:08",
   "sources": [
     {
       "source": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Amazon.com,_Inc.",
-      "title": "Amazon (company)",
-      "snippet": "Amazon.com, Inc. is an American multinational technology company engaged in e-commerce, cloud computing, online advertising, digital streaming, and artificial intelligence. Founded in 1994 by Jeff Bez"
+      "url": "",
+      "title": "",
+      "snippet": ""
     },
     {
       "source": "DuckDuckGo",
@@ -47,21 +47,21 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.amazon.com/power-tools-hand-tools/b?ie=UTF8&node=328182011",
-      "query": "Amazon.com, Inc. suppliers manufacturers",
-      "snippet": "Shop through a wide selection of Power & Hand Tools at Amazon . com . Free shipping and free returns on Prime eligible items."
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://us.amazon.com/",
-      "query": "Amazon.com, Inc. major customers clients",
-      "snippet": "Reach customers wherever they spend their time."
-    },
-    {
-      "source": "DuckDuckGo",
       "url": "https://ir.aboutamazon.com/",
-      "query": "Amazon.com, Inc. major customers clients",
+      "query": "Amazon.com, Inc. suppliers manufacturers",
       "snippet": "Amazon . com to Webcast First Quarter 2026 Financial Results Conference Call. Amazon . com , Inc . (NASDAQ: AMZN) today announced financial results fo"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/Amazon_Web_Services",
+      "query": "Amazon.com, Inc. major customers clients",
+      "snippet": "2 weeks ago - Multiple financial services firms have shifted to AWS in some form. Notable customers include NASA and the Obama presidential campaign o"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/Amazon_(company)",
+      "query": "Amazon.com, Inc. major customers clients",
+      "snippet": "2 days ago - Amazon Flex, a smartphone app that enables individuals to act as independent contractors, delivering packages to customers from personal "
     }
   ]
 }

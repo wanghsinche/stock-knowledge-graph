@@ -1,37 +1,37 @@
 {
   "ticker": "HOOD",
   "company_name": "Robinhood Markets, Inc.",
-  "sector": "Financial Services",
-  "industry": "Capital Markets",
+  "sector": "Financial Services / Capital Markets",
+  "industry": "Online Brokerage / Retail Trading",
   "upstream": [
-    "NASDAQ data feeds",
-    "Bloomberg",
-    "Refinitiv",
-    "Stripe",
-    "PayPal"
+    "AMZN",
+    "Market data vendors (e.g., Bloomberg, Refinitiv)",
+    "Payment processors (e.g., Stripe, Plaid)",
+    "Regulatory compliance services",
+    "Cybersecurity vendors"
   ],
   "downstream": [
     "Retail investors",
-    "High net worth individuals",
+    "Day traders",
     "Institutional clients",
-    "Financial advisors",
-    "Wealth management firms"
+    "High-frequency traders",
+    "Crypto traders"
   ],
   "competitors": [
     "Charles Schwab",
-    "E*TRADE",
-    "Fidelity",
+    "Fidelity Investments",
     "TD Ameritrade",
+    "E*TRADE",
     "Webull"
   ],
   "key_products": [
-    "Commission‑free stock trading",
-    "Robinhood Gold (margin)",
-    "Crypto trading",
-    "Options trading",
-    "Cash management"
+    "Commission-free stock trading app",
+    "Robinhood Gold premium service",
+    "Cash management and interest",
+    "Options trading platform",
+    "Cryptocurrency trading"
   ],
-  "extracted_at": "2026-04-28 17:38:02",
+  "extracted_at": "2026-04-29 17:19:32",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,9 +47,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://robinhood.com/",
+      "url": "https://ru.wikipedia.org/wiki/Robinhood_(компания)",
       "query": "Robinhood Markets, Inc. suppliers manufacturers",
-      "snippet": "Trade stocks on Robinhood with commission-free investing & advanced trading tools. Access fractional shares, real-time market data, and more."
+      "snippet": "Robinhood Markets , Inc . — американская компания со штаб-квартирой в Менло-Парке, штат Калифорния. Занимается оказанием финансовых услуг и известна т"
     },
     {
       "source": "DuckDuckGo",

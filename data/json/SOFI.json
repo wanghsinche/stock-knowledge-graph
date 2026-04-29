@@ -4,35 +4,34 @@
   "sector": "Financial Services",
   "industry": "Credit Services",
   "upstream": [
-    "AMZN",
-    "MSFT",
-    "GOOGL",
-    "Stripe",
-    "Experian"
+    "Cloud service providers (AWS, Azure)",
+    "Payment processors (Stripe, PayPal)",
+    "Data analytics vendors (Snowflake)",
+    "Cybersecurity firms (CrowdStrike)",
+    "Regulatory technology providers (ComplyAdvantage)"
   ],
   "downstream": [
     "Individual consumers seeking personal loans",
-    "Students refinancing student loans",
+    "Students refinancing loans",
     "Homebuyers seeking mortgages",
     "Investors using SoFi Invest",
-    "Other financial institutions using SoFi’s technology platform"
+    "Small business borrowers"
   ],
   "competitors": [
     "LendingClub",
     "Upstart",
     "Marcus by Goldman Sachs",
-    "SoFi’s own competitor, Upgrade",
-    "Kabbage"
+    "Upgrade",
+    "Prosper"
   ],
   "key_products": [
-    "Online personal loans",
+    "Personal loans",
     "Student loan refinancing",
-    "Mortgage origination",
-    "Investment brokerage (SoFi Invest)",
-    "Banking services (SoFi Bank)",
-    "Insurance products"
+    "Mortgage loans",
+    "Investment platform",
+    "Banking services (checking, savings)"
   ],
-  "extracted_at": "2026-04-16 17:12:08",
+  "extracted_at": "2026-04-29 17:21:23",
   "sources": [
     {
       "source": "Wikipedia",
@@ -44,25 +43,25 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/SoFi",
       "query": "SoFi Technologies, Inc. suppliers manufacturers",
-      "snippet": "SoFi , short for Social Finance, was founded by Stanford University graduate students in the Fall of 2011. [17][18][19][5] The founders were Mike Cagn"
+      "snippet": "SoFi Technologies , Inc . is an American financial technology company. Founded in 2011 by Stanford University students, it operates as a nationally ch"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/SOFI-Suppliers",
+      "url": "https://simplywall.st/stocks/us/diversified-financials/nasdaq-sofi/sofi-technologies",
       "query": "SoFi Technologies, Inc. suppliers manufacturers",
-      "snippet": "Feb 19, 2026 · For your research, we’ve provided nine additional tables on Sofi Technologies Inc ’ s suppliers . You can find them in the navigation m"
+      "snippet": "SoFi Technologies , Inc .NasdaqGS: SOFI Stock Report. SoFi Technologies , Inc . Launches Fully Reserved Stablecoin to Power Financial Infrastructure f"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/SoFi",
       "query": "SoFi Technologies, Inc. major customers clients",
-      "snippet": "In April 2025, SoFi stated that 41% of its annualized revenues were fee-based, including the fees from the company’s loan platform business, interchan"
+      "snippet": "SoFi Technologies , Inc . is an American financial technology company. Founded in 2011 by Stanford University students, it operates as a nationally ch"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://investors.sofi.com/financials/quarterly-results/default.aspx",
+      "url": "https://finance.yahoo.com/quote/SOFI/",
       "query": "SoFi Technologies, Inc. major customers clients",
-      "snippet": "SoFi’ s one-stop shop drove exceptional cross-buy, with 40% of new products opened by existing members - a nearly 7-percentage point increase year-ove"
+      "snippet": "SoFi Technologies , Inc . ( SOFI ). Is SOFI a buy now? SoFi Technologies , Inc . provides various financial services in the United States, Latin Ameri"
     }
   ]
 }

@@ -4,34 +4,34 @@
   "sector": "Technology",
   "industry": "Software - Application",
   "upstream": [
-    "DELL",
-    "Cloud service providers (AWS, Azure, GCP)",
-    "ORCL",
+    "AMZN",
     "MSFT",
-    "CSCO"
+    "GOOGL",
+    "DELL",
+    "IBM"
   ],
   "downstream": [
-    "Large enterprises (e.g., Walmart, JPMorgan Chase)",
-    "Government agencies (e.g., U.S. Department of Defense)",
-    "Financial services firms (e.g., Goldman Sachs)",
-    "Retail chains (e.g., Target)",
-    "Healthcare organizations (e.g., Mayo Clinic)"
+    "Walmart",
+    "JPMorgan Chase",
+    "Citigroup",
+    "Bank of America",
+    "General Electric"
   ],
   "competitors": [
     "Tableau Software",
-    "MSFT",
     "Qlik",
-    "Looker",
-    "Sisense"
+    "SAS Institute",
+    "MSFT",
+    "IBM"
   ],
   "key_products": [
-    "MicroStrategy Analytics",
-    "MicroStrategy Desktop",
+    "MicroStrategy Analytics Platform",
     "MicroStrategy Mobile",
     "MicroStrategy Cloud",
-    "MicroStrategy Data Warehouse"
+    "MicroStrategy Data Warehouse",
+    "MicroStrategy Analytics Engine"
   ],
-  "extracted_at": "2026-04-28 17:36:32",
+  "extracted_at": "2026-04-29 17:25:22",
   "sources": [
     {
       "source": "Wikipedia",
@@ -55,13 +55,13 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/MicroStrategy",
       "query": "Strategy Inc major customers clients",
-      "snippet": "Strategy Inc ., formerly known as MicroStrategy, is an American company that provides business intelligence and mobile software. Founded in 1989 by Mi"
+      "snippet": "Strategy Inc., formerly known as MicroStrategy, is an American company that provides business intelligence (BI) and mobile software."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/MSTR/",
+      "url": "https://www.strategy.com/software/customer-stories",
       "query": "Strategy Inc major customers clients",
-      "snippet": "Find the latest Strategy Inc (MSTR) stock quote, history, news and other vital information to help you with your stock trading and investing."
+      "snippet": "Dive into Strategy customer stories highlighting the impact of Analytics in Healthcare, Financial Services, Call Centers, Retail, Insurance, and Gover"
     }
   ]
 }

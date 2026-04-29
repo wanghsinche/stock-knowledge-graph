@@ -1,31 +1,37 @@
 {
   "ticker": "STX",
   "company_name": "Seagate Technology Holdings plc",
-  "sector": "Technology",
-  "industry": "Computer Hardware / Storage",
-  "upstream": [],
+  "sector": "Technology / Computer Hardware",
+  "industry": "Data Storage",
+  "upstream": [
+    "Magnetic media suppliers",
+    "Electronic component suppliers",
+    "Firmware development partners",
+    "Packaging and logistics providers",
+    "Raw material suppliers"
+  ],
   "downstream": [
-    "MSFT",
     "AMZN",
+    "MSFT",
     "GOOGL",
-    "IBM",
-    "DELL"
+    "DELL",
+    "HPQ"
   ],
   "competitors": [
     "WDC",
     "Toshiba",
     "005930.KS",
-    "STX",
-    "STX"
+    "IBM",
+    "MU"
   ],
   "key_products": [
-    "Seagate Exos",
-    "Seagate Barracuda",
-    "Seagate IronWolf",
-    "Seagate SkyHawk",
-    "Seagate Enterprise HDD"
+    "Hard Disk Drives (HDDs)",
+    "Solid State Drives (SSDs)",
+    "Enterprise storage solutions",
+    "Cloud storage solutions",
+    "Data center storage systems"
   ],
-  "extracted_at": "2026-04-28 17:35:06",
+  "extracted_at": "2026-04-29 17:18:58",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,9 +47,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://simplywall.st/stocks/at/tech/vie-stxh/seagate-technology-holdings-shares",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/seagate-technology-holdings-plc-stx-071101288.html",
       "query": "Seagate Technology Holdings plc suppliers manufacturers",
-      "snippet": "Seagate Technology Holdings plc Announces the Latest Seagate Exos®? CORVAULT™? 4U106 Mass Data Storage System. Nov 15. Seagate Technology Holdings plc"
+      "snippet": "Positive Points. Seagate Technology Holdings PLC (NASDAQ:STX) reported a 44% year-over-year revenue growth for the March quarter, highlighting strong "
     },
     {
       "source": "DuckDuckGo",
@@ -53,9 +59,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://simplywall.st/stocks/at/tech/vie-stxh/seagate-technology-holdings-shares",
+      "url": "https://www.stockjabber.com/company/STX/company-insights/Customers",
       "query": "Seagate Technology Holdings plc major customers clients",
-      "snippet": "Seagate Technology Holdings plc Announces the Latest Seagate Exos®? CORVAULT™? 4U106 Mass Data Storage System. Nov 15. Seagate Technology Holdings plc"
+      "snippet": "... large volumes of data. Real Clients/Customers: Amazon Web Services (AWS); Microsoft Azure; Google Cloud. 2. Consumer Electronics. Main Usage: Seag"
     }
   ]
 }

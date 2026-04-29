@@ -3,8 +3,8 @@ ticker: GE
 company: GE Aerospace
 sector: Industrials
 industry: Aerospace & Defense
-extracted_at: 2026-04-28 17:37:10
-last_updated: 2026-04-28
+extracted_at: 2026-04-29 17:27:19
+last_updated: 2026-04-29
 ---
 
 # GE - GE Aerospace
@@ -12,48 +12,46 @@ last_updated: 2026-04-28
 ## 基本信息
 
 - **所属行业**: Industrials / Aerospace & Defense
-- **提取时间**: 2026-04-28 17:37:10
+- **提取时间**: 2026-04-29 17:27:19
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Alcoa (aluminum alloys)]]
-- [[Timken (gears & bearings)]]
-- [[Honeywell Aerospace (electronics & avionics)]]
-- [[Boeing (component suppliers)]]
-- [[United Technologies (materials & systems)]]
+- [[Titanium alloy suppliers]]
+- [[Composite material suppliers]]
+- [[Electronic component suppliers]]
+- [[Hydraulic system suppliers]]
+- [[Fuel system suppliers]]
 
 ### 下游客户
-- [[Boeing (commercial & military aircraft)]]
-- [[Airbus (commercial aircraft)]]
-- [[United Airlines (fleet of GE engines)]]
-- [[Delta Air Lines (GE turbofan engines)]]
-- [[U.S. Air Force (military jet engines)]]
+- [[United States Air Force]]
+- [[Boeing]]
+- [[Lockheed Martin]]
+- [[Airbus]]
+- [[Embraer]]
 
 ### 竞争对手
-- [[Pratt & Whitney (Raytheon Technologies)]]
+- [[Pratt & Whitney (Raytheon)]]
 - [[Rolls‑Royce]]
-- [[MTU Aero Engines]]
-- [[Honeywell Aerospace]]
-- [[United Technologies (now Raytheon Technologies)]]
+- [[Safran]]
+- [[Mitsubishi Heavy Industries]]
+- [[AVIC Shenyang Aircraft]]
 
 ### 核心产品
-- [[GE90]]
-- [[GE CF6]]
-- [[GE90‑115B]]
-- [[GE9X]]
-- [[GE T700]]
-- [[GE75]]
-- [[GE12]]
+- [[F110 turbofan engine]]
+- [[F414 turbofan engine]]
+- [[GE90 turbofan engine]]
+- [[GE2 turbofan engine]]
+- [[GE9X turbofan engine]]
 
 ## 数据来源
 
 - 
-- [GE Aerospace suppliers manufacturers](https://en.wikipedia.org/wiki/GE_Aerospace)
-- [GE Aerospace suppliers manufacturers](https://www.geaerospace.com/)
 - [GE Aerospace major customers clients](https://en.wikipedia.org/wiki/General_Electric)
-- [GE Aerospace major customers clients](https://www.ge.com/history-ge-aerospace)
+- [GE Aerospace major customers clients](https://muncly.com/how-ge-aerospace-monetized-flight-hours/)
+- [GE Aerospace competitors alternatives](https://en.wikipedia.org/wiki/General_Electric)
+- [GE Aerospace competitors alternatives](https://craft.co/ge-aerospace/competitors)
 
 ## 元数据
 
-- **更新日期**: 2026-04-28
+- **更新日期**: 2026-04-29

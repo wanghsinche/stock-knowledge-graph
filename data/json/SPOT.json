@@ -1,21 +1,21 @@
 {
   "ticker": "SPOT",
   "company_name": "Spotify Technology S.A.",
-  "sector": "Communication Services",
-  "industry": "Internet Content & Information",
+  "sector": "Communication Services / Internet Content & Information",
+  "industry": "Audio Streaming & Media Services",
   "upstream": [
-    "Universal Music Group",
     "SONY",
-    "Warner Music Group",
+    "Music publishers and rights holders",
     "MSFT",
-    "Music publishers (e.g., Universal Music Publishing Group)"
+    "Content delivery network (CDN) providers",
+    "AAPL"
   ],
   "downstream": [
-    "Individual music listeners (over 750 million MAUs)",
-    "Advertisers on the free tier",
-    "Podcast creators and distributors",
-    "Artists and record labels using Spotify for Artists",
-    "Enterprise customers using Spotify Ad Platform"
+    "Individual music listeners (over 750 million monthly active users)",
+    "Advertisers and brands using Spotify Ad Studio",
+    "Podcasters and content creators on the Spotify platform",
+    "Music industry partners (artists, labels, distributors)",
+    "Enterprise customers using Spotify for Business solutions"
   ],
   "competitors": [
     "AAPL",
@@ -25,13 +25,13 @@
     "Deezer"
   ],
   "key_products": [
-    "Spotify Music Streaming",
-    "Spotify Podcasts",
-    "Spotify Ad Platform",
-    "Spotify for Artists",
-    "Spotify Premium subscription"
+    "Spotify Music streaming service (free and Premium tiers)",
+    "Spotify Podcasts and exclusive podcast content",
+    "Spotify Ad Studio (advertising platform)",
+    "Spotify for Artists (artist analytics and promotion tools)",
+    "Spotify Wrapped (annual personalized listening summary)"
   ],
-  "extracted_at": "2026-04-28 17:32:37",
+  "extracted_at": "2026-04-29 17:27:42",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,21 +47,21 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ru.wikipedia.org/wiki/Spotify",
+      "url": "https://www.case48.com/porter-analysis/15464-Spotify-Technology-S-A",
       "query": "Spotify Technology S.A. suppliers manufacturers",
-      "snippet": "Spotify — шведский стриминговый сервис, предоставляющий доступ к аудио- и медиаконтенту. Основан в 2006 году Даниэлем Эком и Мартином Лорентсоном."
+      "snippet": "Spotify Technology S A is highly price sensitive and has adequate market knowledge. There is no threat of forward integration by suppliers . How Spoti"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/SPOT-Customers",
+      "url": "https://en.wikipedia.org/wiki/Spotify",
       "query": "Spotify Technology S.A. major customers clients",
-      "snippet": "Jan 29, 2026 · For your research, we’ve provided 9 tables on Spotify Technology S a corporate clients . You can find them in the navigation menu under"
+      "snippet": "Spotify Technology S . A . Spotify has client software currently available for Windows, macOS, Wear OS, Android, iOS, watchOS, iPadOS, PlayStation 3, "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://portersfiveforce.com/blogs/target-market/spotify",
+      "url": "https://support.spotify.com/us/article/contact-us/",
       "query": "Spotify Technology S.A. major customers clients",
-      "snippet": "Jan 21, 2026 · Spotify Technology ' s primary customer segments are predominantly B2C, driven by Millennials and Gen Z who represent over 70% of its g"
+      "snippet": "Post or search on our Spotify Community, where listeners help out and share ideas and solutions. Spotify for Artists. Check out the Spotify for Artist"
     }
   ]
 }

@@ -1,53 +1,57 @@
 ---
 ticker: STX
 company: Seagate Technology Holdings plc
-sector: Technology
-industry: Computer Hardware / Storage
-extracted_at: 2026-04-28 17:35:06
-last_updated: 2026-04-28
+sector: Technology / Computer Hardware
+industry: Data Storage
+extracted_at: 2026-04-29 17:18:58
+last_updated: 2026-04-29
 ---
 
 # STX - Seagate Technology Holdings plc
 
 ## 基本信息
 
-- **所属行业**: Technology / Computer Hardware / Storage
-- **提取时间**: 2026-04-28 17:35:06
+- **所属行业**: Technology / Computer Hardware / Data Storage
+- **提取时间**: 2026-04-29 17:18:58
 
 ## 产业链关系
 
 ### 上游供应商
-_暂无数据_
+- [[Magnetic media suppliers]]
+- [[Electronic component suppliers]]
+- [[Firmware development partners]]
+- [[Packaging and logistics providers]]
+- [[Raw material suppliers]]
 
 ### 下游客户
-- [[MSFT]]
 - [[AMZN]]
+- [[MSFT]]
 - [[GOOGL]]
-- [[IBM]]
 - [[DELL]]
+- [[HPQ]]
 
 ### 竞争对手
 - [[WDC]]
 - [[Toshiba]]
 - [[005930.KS]]
-- [[STX]]
-- [[STX]]
+- [[IBM]]
+- [[MU]]
 
 ### 核心产品
-- [[Seagate Exos]]
-- [[Seagate Barracuda]]
-- [[Seagate IronWolf]]
-- [[Seagate SkyHawk]]
-- [[Seagate Enterprise HDD]]
+- [[Hard Disk Drives (HDDs)]]
+- [[Solid State Drives (SSDs)]]
+- [[Enterprise storage solutions]]
+- [[Cloud storage solutions]]
+- [[Data center storage systems]]
 
 ## 数据来源
 
 - 
 - [Seagate Technology Holdings plc suppliers manufacturers](https://www.seagate.com/)
-- [Seagate Technology Holdings plc suppliers manufacturers](https://simplywall.st/stocks/at/tech/vie-stxh/seagate-technology-holdings-shares)
+- [Seagate Technology Holdings plc suppliers manufacturers](https://finance.yahoo.com/markets/stocks/articles/seagate-technology-holdings-plc-stx-071101288.html)
 - [Seagate Technology Holdings plc major customers clients](https://en.wikipedia.org/wiki/Seagate_Technology)
-- [Seagate Technology Holdings plc major customers clients](https://simplywall.st/stocks/at/tech/vie-stxh/seagate-technology-holdings-shares)
+- [Seagate Technology Holdings plc major customers clients](https://www.stockjabber.com/company/STX/company-insights/Customers)
 
 ## 元数据
 
-- **更新日期**: 2026-04-28
+- **更新日期**: 2026-04-29

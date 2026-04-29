@@ -4,52 +4,40 @@
   "sector": "Healthcare",
   "industry": "Drug Manufacturers - General",
   "upstream": [
-    "Active Pharmaceutical Ingredient (API) suppliers",
-    "Contract manufacturing organizations (CMOs)",
-    "Packaging and labeling suppliers",
-    "Research and development partners",
-    "Logistics and distribution providers"
+    "Active pharmaceutical ingredient (API) suppliers",
+    "Contract research organizations (CROs)",
+    "Chemical raw material manufacturers",
+    "Pharmaceutical packaging suppliers",
+    "Quality control testing labs"
   ],
   "downstream": [
     "Hospitals and health systems",
-    "Community and chain pharmacies",
-    "Government health agencies (e.g., Medicare, Medicaid)",
-    "Insurance companies and pharmacy benefit managers",
-    "International healthcare distributors"
+    "Community pharmacies",
+    "Specialty drug distributors",
+    "Government health agencies",
+    "International health organizations"
   ],
   "competitors": [
-    "Pfizer Inc.",
     "Johnson & Johnson",
-    "Merck & Co., Inc.",
-    "Novartis AG",
-    "AbbVie Inc."
+    "AbbVie",
+    "Merck & Co.",
+    "Pfizer",
+    "Bristol-Myers Squibb"
   ],
   "key_products": [
+    "Humulin (insulin)",
+    "Humalog (insulin lispro)",
     "Trulicity (dulaglutide)",
     "Mounjaro (tirzepatide)",
-    "Lantus (insulin glargine)",
-    "Zyprexa (olanzapine)",
-    "Humira (adalimumab) – formerly a Lilly product, now AbbVie"
+    "Cyramza (ramucirumab)"
   ],
-  "extracted_at": "2026-04-28 17:37:51",
+  "extracted_at": "2026-04-29 17:23:20",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Eli_Lilly_and_Company",
       "title": "Eli Lilly and Company",
       "snippet": "Eli Lilly and Company, doing business as Lilly, is an American multinational pharmaceutical company headquartered in Indianapolis, Indiana, with offices in 18 countries. Its products are sold in appro"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Eli_Lilly_and_Company",
-      "query": "Eli Lilly and Company suppliers manufacturers",
-      "snippet": "Eli Lilly and Company , doing business as Lilly , is an American multinational pharmaceutical company headquartered in Indianapolis, Indiana, with off"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.lilly.com/",
-      "query": "Eli Lilly and Company suppliers manufacturers",
-      "snippet": "Lilly is a medicine company that puts health above all. Learn about our medicines, view condition support, find care, and much more. Lilly employee wo"
     },
     {
       "source": "DuckDuckGo",
@@ -61,7 +49,19 @@
       "source": "DuckDuckGo",
       "url": "https://www.linkedin.com/company/eli-lilly-and-company",
       "query": "Eli Lilly and Company major customers clients",
-      "snippet": "Eli Lilly and Company | 2,658,231 followers on LinkedIn. We're a medicine company turning science into healing to make life better for people around t"
+      "snippet": "Eli Lilly and Company | 2,659,745 followers on LinkedIn. We're a medicine company turning science into healing to make life better for people around t"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/Eli_Lilly_and_Company",
+      "query": "Eli Lilly and Company competitors alternatives",
+      "snippet": "Eli Lilly and Company , doing business as Lilly , is an American multinational pharmaceutical company headquartered in Indianapolis, Indiana, with off"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://bullfincher.io/companies/eli-lilly-and-company/competitors",
+      "query": "Eli Lilly and Company competitors alternatives",
+      "snippet": "Eli Lilly and Company 's competitors include Johnson & Johnson, AbbVie, Merck & Co. and more. Discover more competitors and create your own custom sid"
     }
   ]
 }

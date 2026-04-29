@@ -7,49 +7,48 @@
     "AMZN",
     "MSFT",
     "GOOGL",
-    "ORCL",
-    "IBM"
+    "DELL",
+    "HPQ"
   ],
   "downstream": [
     "U.S. Department of Defense",
     "U.S. Department of Justice",
-    "U.S. Department of Homeland Security",
-    "UK Ministry of Defence",
-    "European Union agencies"
+    "Airbus",
+    "Boeing",
+    "Coca-Cola"
   ],
   "competitors": [
-    "Splunk",
-    "Databricks",
-    "Snowflake",
+    "IBM",
+    "SAS",
+    "ORCL",
     "MSFT",
-    "Tableau"
+    "Snowflake"
   ],
   "key_products": [
-    "Gotham",
-    "Foundry",
+    "Palantir Foundry",
+    "Palantir Gotham",
     "Palantir Apollo",
-    "Palantir Helix",
-    "Palantir Data Lake"
+    "Palantir Helix"
   ],
-  "extracted_at": "2026-04-28 17:33:24",
+  "extracted_at": "2026-04-29 17:20:35",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Palantir_Technologies_Inc.",
       "title": "Palantir",
-      "snippet": "Palantir Technologies Inc. is an American publicly traded company that develops data integration and analytics platforms enabling government agencies, militaries, and corporations to combine and analy"
+      "snippet": "Palantir Technologies Inc. is an American publicly traded company that develops data integration and analytics platforms. Headquartered in Miami, Florida, it was founded in 2003 by Peter Thiel, Stephe"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Palantir",
       "query": "Palantir Technologies Inc. suppliers manufacturers",
-      "snippet": "Palantir 's customer base includes federal agencies, state and local governments, international organizations, and also private companies. [11] The co"
+      "snippet": "Palantir Technologies Inc is an American publicly traded company that develops data integration and analytics platforms. Headquartered in Miami, Flori"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/PLTR-Suppliers",
+      "url": "https://www.palantir.com/explore/biomanufacturing/",
       "query": "Palantir Technologies Inc. suppliers manufacturers",
-      "snippet": "Feb 19, 2026 · For your research, we’ve provided nine additional tables on Palantir Technologies Inc ’ s suppliers . You can find them in the navigati"
+      "snippet": "Global pharmaceutical manufacturers rely on Palantir Foundry to cultivate data connectivity, overcoming the challenges arising from operational and da"
     },
     {
       "source": "DuckDuckGo",
@@ -59,9 +58,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.palantir.com/",
+      "url": "https://www.marketwatch.com/investing/stock/pltr",
       "query": "Palantir Technologies Inc. major customers clients",
-      "snippet": "Palantir Learning. Customer Success Services.\" Palantir 's frontline mixed reality capabilities...will complement our technology goals of worker enabl"
+      "snippet": "PLTR | Complete Palantir Technologies Inc . stock news by MarketWatch. View real-time stock prices and stock quotes for a full financial overview."
     }
   ]
 }

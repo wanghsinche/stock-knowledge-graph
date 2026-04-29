@@ -3,8 +3,8 @@ ticker: LLY
 company: Eli Lilly and Company
 sector: Healthcare
 industry: Drug Manufacturers - General
-extracted_at: 2026-04-28 17:37:51
-last_updated: 2026-04-28
+extracted_at: 2026-04-29 17:23:20
+last_updated: 2026-04-29
 ---
 
 # LLY - Eli Lilly and Company
@@ -12,46 +12,46 @@ last_updated: 2026-04-28
 ## 基本信息
 
 - **所属行业**: Healthcare / Drug Manufacturers - General
-- **提取时间**: 2026-04-28 17:37:51
+- **提取时间**: 2026-04-29 17:23:20
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Active Pharmaceutical Ingredient (API) suppliers]]
-- [[Contract manufacturing organizations (CMOs)]]
-- [[Packaging and labeling suppliers]]
-- [[Research and development partners]]
-- [[Logistics and distribution providers]]
+- [[Active pharmaceutical ingredient (API) suppliers]]
+- [[Contract research organizations (CROs)]]
+- [[Chemical raw material manufacturers]]
+- [[Pharmaceutical packaging suppliers]]
+- [[Quality control testing labs]]
 
 ### 下游客户
 - [[Hospitals and health systems]]
-- [[Community and chain pharmacies]]
-- [[Government health agencies (e.g., Medicare, Medicaid)]]
-- [[Insurance companies and pharmacy benefit managers]]
-- [[International healthcare distributors]]
+- [[Community pharmacies]]
+- [[Specialty drug distributors]]
+- [[Government health agencies]]
+- [[International health organizations]]
 
 ### 竞争对手
-- [[Pfizer Inc.]]
 - [[Johnson & Johnson]]
-- [[Merck & Co., Inc.]]
-- [[Novartis AG]]
-- [[AbbVie Inc.]]
+- [[AbbVie]]
+- [[Merck & Co.]]
+- [[Pfizer]]
+- [[Bristol-Myers Squibb]]
 
 ### 核心产品
+- [[Humulin (insulin)]]
+- [[Humalog (insulin lispro)]]
 - [[Trulicity (dulaglutide)]]
 - [[Mounjaro (tirzepatide)]]
-- [[Lantus (insulin glargine)]]
-- [[Zyprexa (olanzapine)]]
-- [[Humira (adalimumab) – formerly a Lilly product, now AbbVie]]
+- [[Cyramza (ramucirumab)]]
 
 ## 数据来源
 
 - [Eli Lilly and Company](https://en.wikipedia.org/wiki/Eli_Lilly_and_Company)
-- [Eli Lilly and Company suppliers manufacturers](https://en.wikipedia.org/wiki/Eli_Lilly_and_Company)
-- [Eli Lilly and Company suppliers manufacturers](https://www.lilly.com/)
 - [Eli Lilly and Company major customers clients](https://en.wikipedia.org/wiki/Eli_Lilly_and_Company)
 - [Eli Lilly and Company major customers clients](https://www.linkedin.com/company/eli-lilly-and-company)
+- [Eli Lilly and Company competitors alternatives](https://en.wikipedia.org/wiki/Eli_Lilly_and_Company)
+- [Eli Lilly and Company competitors alternatives](https://bullfincher.io/companies/eli-lilly-and-company/competitors)
 
 ## 元数据
 
-- **更新日期**: 2026-04-28
+- **更新日期**: 2026-04-29
