@@ -3,8 +3,8 @@ ticker: NOW
 company: ServiceNow, Inc.
 sector: Technology
 industry: Software - Application
-extracted_at: 2026-04-29 17:26:44
-last_updated: 2026-04-29
+extracted_at: 2026-04-30 17:16:04
+last_updated: 2026-04-30
 ---
 
 # NOW - ServiceNow, Inc.
@@ -12,7 +12,7 @@ last_updated: 2026-04-29
 ## 基本信息
 
 - **所属行业**: Technology / Software - Application
-- **提取时间**: 2026-04-29 17:26:44
+- **提取时间**: 2026-04-30 17:16:04
 
 ## 产业链关系
 
@@ -20,33 +20,33 @@ last_updated: 2026-04-29
 - [[AMZN]]
 - [[MSFT]]
 - [[GOOGL]]
-- [[IBM]]
 - [[ORCL]]
+- [[IBM]]
 
 ### 下游客户
-- [[Bank of America]]
-- [[Coca‑Cola]]
 - [[Walmart]]
+- [[JPMorgan Chase]]
 - [[AT&T]]
-- [[UnitedHealth Group]]
+- [[Verizon]]
+- [[Bank of America]]
 
 ### 竞争对手
 - [[CRM]]
-- [[MSFT]]
 - [[SAP]]
-- [[ORCL]]
 - [[IBM]]
+- [[ORCL]]
+- [[MSFT]]
 
 ### 核心产品
-- [[Now Platform]]
-- [[IT Service Management]]
-- [[IT Operations Management]]
-- [[IT Business Management]]
-- [[Customer Service Management]]
+- [[ServiceNow IT Service Management]]
+- [[ServiceNow IT Operations Management]]
+- [[ServiceNow IT Business Management]]
+- [[ServiceNow HR Service Delivery]]
+- [[ServiceNow Security Operations]]
 
 ## 数据来源
 
-- [ServiceNow](https://en.wikipedia.org/wiki/ServiceNow,_Inc.)
+- 
 - [ServiceNow, Inc. suppliers manufacturers](https://www.fool.com/investing/2026/04/09/the-saaspocalypse-made-servicenow-stock-a-bargain/)
 - [ServiceNow, Inc. suppliers manufacturers](https://www.alibaba.com/)
 - [ServiceNow, Inc. major customers clients](https://www.fool.com/investing/2026/04/09/the-saaspocalypse-made-servicenow-stock-a-bargain/)
@@ -54,4 +54,4 @@ last_updated: 2026-04-29
 
 ## 元数据
 
-- **更新日期**: 2026-04-29
+- **更新日期**: 2026-04-30

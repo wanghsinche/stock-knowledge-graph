@@ -2,66 +2,66 @@
   "ticker": "UNH",
   "company_name": "UnitedHealth Group Incorporated",
   "sector": "Healthcare",
-  "industry": "Health Insurance",
+  "industry": "Health Insurance / Healthcare Plans",
   "upstream": [
     "Pharmaceutical manufacturers",
     "Medical device manufacturers",
-    "Health IT vendors",
-    "Pharmacy benefit managers",
-    "Healthcare service providers"
+    "IT services providers",
+    "Consulting firms",
+    "Data analytics vendors"
   ],
   "downstream": [
-    "Individual consumers",
-    "Employers",
-    "Government programs (Medicare, Medicaid)",
-    "Health plans",
-    "Health care providers"
+    "Individuals (private consumers)",
+    "Employers (corporate plans)",
+    "Medicare beneficiaries",
+    "Medicaid beneficiaries",
+    "Government agencies"
   ],
   "competitors": [
-    "Anthem",
+    "Anthem, Inc.",
     "Aetna (CVS Health)",
-    "Cigna",
-    "Humana",
-    "Blue Cross Blue Shield"
+    "Cigna Corporation",
+    "Humana Inc.",
+    "Kaiser Permanente"
   ],
   "key_products": [
-    "Health insurance plans",
-    "Medicare Advantage plans",
+    "UnitedHealthcare health insurance plans",
+    "Optum health services (OptumHealth)",
     "OptumRx pharmacy benefit management",
-    "Optum health services",
-    "Health data analytics"
+    "OptumInsight data analytics",
+    "Wellness and disease management programs"
   ],
-  "extracted_at": "2026-04-29 17:22:55",
+  "extracted_at": "2026-04-30 17:14:32",
   "sources": [
     {
       "source": "Wikipedia",
-      "url": "",
-      "title": "",
-      "snippet": ""
+      "url": "https://en.wikipedia.org/wiki/UnitedHealth_Group_Incorporated",
+      "title": "UnitedHealth Group",
+      "snippet": "UnitedHealth Group Incorporated is an American multinational for-profit company based in Eden Prairie, Minnesota, specializing in health insurance and health care services. Selling insurance products "
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.unitedhealthgroup.com/suppliers/information.html",
+      "query": "UnitedHealth Group Incorporated suppliers manufacturers",
+      "snippet": "Information for UnitedHealth Group suppliers , including access to our vendor portal"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.uhone.com/ContentManagementWS/FileAttachment.ashx?FilePath=/UHCNationalFacilitiesAndVendorsEnglish.pdf",
+      "query": "UnitedHealth Group Incorporated suppliers manufacturers",
+      "snippet": "The following national vendors are available to provide services to UnitedHealthcare members throughout the United States."
     },
     {
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/UnitedHealth_Group",
-      "query": "UnitedHealth Group Incorporated suppliers manufacturers",
-      "snippet": "UnitedHealth Group Incorporated is an American multinational for-profit company based in Eden Prairie, Minnesota specializing in health insurance and "
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/UNH/",
-      "query": "UnitedHealth Group Incorporated suppliers manufacturers",
-      "snippet": "UnitedHealth Group Incorporated Overview Healthcare Plans / Healthcare. UnitedHealth Group Incorporated operates as a health care company in the Unite"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/UNH/",
       "query": "UnitedHealth Group Incorporated major customers clients",
-      "snippet": "UnitedHealth Group Incorporated Overview Healthcare Plans / Healthcare. UnitedHealth Group Incorporated operates as a health care company in the Unite"
+      "snippet": "UnitedHealth Group Incorporated is an American multinational for-profit company based in Eden Prairie, Minnesota, specializing in health insurance and"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.insidermonkey.com/blog/is-unitedhealth-group-incorporated-unh-a-good-stock-to-buy-now-2-1740168/",
+      "url": "https://www.unitedhealthgroup.com/uhg/businesses.html",
       "query": "UnitedHealth Group Incorporated major customers clients",
-      "snippet": "We came across a bullish thesis on UnitedHealth Group Incorporated on MaxDividends’s Substack by Serhio MaxDividends. In this article, we will summari"
+      "snippet": "Our businesses: Innovating, collaborating, discovering UnitedHealth Group is a health care and well-being company with team members in two distinct an"
     }
   ]
 }

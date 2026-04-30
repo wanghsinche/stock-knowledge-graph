@@ -3,8 +3,8 @@ ticker: GLW
 company: Corning Incorporated
 sector: Technology
 industry: Electronic Components
-extracted_at: 2026-04-29 17:24:25
-last_updated: 2026-04-29
+extracted_at: 2026-04-30 17:14:55
+last_updated: 2026-04-30
 ---
 
 # GLW - Corning Incorporated
@@ -12,46 +12,46 @@ last_updated: 2026-04-29
 ## 基本信息
 
 - **所属行业**: Technology / Electronic Components
-- **提取时间**: 2026-04-29 17:24:25
+- **提取时间**: 2026-04-30 17:14:55
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Silica sand suppliers]]
-- [[Chemical feedstock suppliers]]
-- [[Glass manufacturing equipment suppliers]]
-- [[Ceramic raw material suppliers]]
-- [[META]]
+- [[Silica sand]]
+- [[Soda ash]]
+- [[Limestone]]
+- [[Alumina]]
+- [[Chemical additives]]
 
 ### 下游客户
+- [[AT&T]]
+- [[Verizon]]
 - [[AAPL]]
 - [[005930.KS]]
-- [[GOOGL]]
-- [[META]]
-- [[MSFT]]
+- [[Boeing]]
 
 ### 竞争对手
-- [[Coherent Inc.]]
-- [[Thorlabs]]
-- [[Edmund Optics]]
-- [[Melles Griot]]
-- [[Nikon Corporation]]
+- [[Lumentum Holdings]]
+- [[II-VI Incorporated]]
+- [[Coherent, Inc.]]
+- [[Newport Corporation]]
+- [[Schott AG]]
 
 ### 核心产品
-- [[Optical glass]]
+- [[Optical fiber]]
+- [[Glass fiber]]
+- [[Specialty glass]]
 - [[Fiber optic cables]]
-- [[Photonic crystals]]
-- [[Glass substrates for displays]]
-- [[Advanced ceramics]]
+- [[Fiber optic connectors]]
 
 ## 数据来源
 
-- [Corning Inc.](https://en.wikipedia.org/wiki/Corning_Incorporated)
+- 
 - [Corning Incorporated suppliers manufacturers](https://en.wikipedia.org/wiki/Corning_Inc.)
 - [Corning Incorporated suppliers manufacturers](https://www.corning.com/worldwide/en.html)
-- [Corning Incorporated major customers clients](https://www.linkedin.com/company/corning-incorporated)
-- [Corning Incorporated major customers clients](https://www.corning.com/worldwide/en.html)
+- [Corning Incorporated major customers clients](https://www.corning.com/worldwide/en/about-us/corning-business-segments.html)
+- [Corning Incorporated major customers clients](https://csimarket.com/stocks/GLW-Customers)
 
 ## 元数据
 
-- **更新日期**: 2026-04-29
+- **更新日期**: 2026-04-30

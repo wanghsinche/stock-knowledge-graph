@@ -1,67 +1,67 @@
 {
   "ticker": "AMZN",
   "company_name": "Amazon.com, Inc.",
-  "sector": "Consumer Cyclical",
-  "industry": "Internet Retail",
+  "sector": "Consumer Cyclical / Internet Retail",
+  "industry": "E-commerce / Cloud Computing",
   "upstream": [
-    "Manufacturers of consumer goods",
-    "Logistics partners (UPS, FedEx)",
-    "Technology hardware vendors",
-    "Warehouse equipment suppliers",
-    "Packaging material suppliers"
+    "Book publishers",
+    "Electronics manufacturers",
+    "Clothing brands",
+    "Home goods suppliers",
+    "Third‑party sellers"
   ],
   "downstream": [
     "Individual consumers",
-    "AMZN",
-    "AWS enterprise clients",
-    "AMZN",
-    "AMZN"
+    "Enterprise customers (AWS)",
+    "Government agencies",
+    "Small businesses",
+    "Media streaming clients"
   ],
   "competitors": [
     "Walmart",
-    "Alibaba Group",
     "eBay",
+    "Alibaba",
     "Shopify",
-    "MSFT"
+    "Target"
   ],
   "key_products": [
-    "Amazon.com e‑commerce platform",
-    "Amazon Web Services (cloud computing)",
-    "Amazon Prime subscription",
-    "Amazon Kindle e‑readers",
-    "Amazon Echo smart speakers"
+    "Amazon.com marketplace",
+    "Amazon Web Services",
+    "Amazon Prime Video",
+    "Amazon Echo (Alexa)",
+    "Amazon Kindle"
   ],
-  "extracted_at": "2026-04-29 17:18:08",
+  "extracted_at": "2026-04-30 17:08:44",
   "sources": [
     {
       "source": "Wikipedia",
-      "url": "",
-      "title": "",
-      "snippet": ""
+      "url": "https://en.wikipedia.org/wiki/Amazon.com,_Inc.",
+      "title": "Amazon (company)",
+      "snippet": "Amazon.com, Inc. is an American multinational technology company engaged in e-commerce, cloud computing, online advertising, digital streaming, and artificial intelligence. Founded in 1994 by Jeff Bez"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.alibaba.com/",
+      "url": "https://www.thesellingguys.com/online-sourcing-buying-wholesalers-distributors/",
       "query": "Amazon.com, Inc. suppliers manufacturers",
-      "snippet": "Find quality Manufacturers , Suppliers , Exporters, Importers, Buyers, Wholesalers, Products and Trade Leads from our award-winning International Trad"
+      "snippet": "Mar 12, 2026 · Verified list of 200+ Amazon wholesalers , distributors, and trade shows, plus expert tips to set up accounts and master wholesale sour"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://d39w7f4ix9f5s9.cloudfront.net/cb/19/77dfc5b441c892cd6e2be166ba70/final-amazon-supplier-list-2019-11-14-updated-1005am.pdf",
+      "query": "Amazon.com, Inc. suppliers manufacturers",
+      "snippet": "Nov 14, 2019 · Our global teams work closely with suppliers to communicate our standards, and help suppliers build their capacity to provide safe and "
     },
     {
       "source": "DuckDuckGo",
       "url": "https://ir.aboutamazon.com/",
-      "query": "Amazon.com, Inc. suppliers manufacturers",
+      "query": "Amazon.com, Inc. major customers clients",
       "snippet": "Amazon . com to Webcast First Quarter 2026 Financial Results Conference Call. Amazon . com , Inc . (NASDAQ: AMZN) today announced financial results fo"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Amazon_Web_Services",
+      "url": "https://www.amazon.com/cart/add-to-cart/ref=dp_start-bbf_1_glance",
       "query": "Amazon.com, Inc. major customers clients",
-      "snippet": "2 weeks ago - Multiple financial services firms have shifted to AWS in some form. Notable customers include NASA and the Obama presidential campaign o"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Amazon_(company)",
-      "query": "Amazon.com, Inc. major customers clients",
-      "snippet": "2 days ago - Amazon Flex, a smartphone app that enables individuals to act as independent contractors, delivering packages to customers from personal "
+      "snippet": "The price and availability of items at Amazon . com are subject to change. The Cart is a temporary place to store a list of your items and reflects ea"
     }
   ]
 }

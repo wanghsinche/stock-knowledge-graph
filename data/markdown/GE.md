@@ -1,57 +1,57 @@
 ---
 ticker: GE
-company: GE Aerospace
+company: General Electric Company (GE Aerospace)
 sector: Industrials
 industry: Aerospace & Defense
-extracted_at: 2026-04-29 17:27:19
-last_updated: 2026-04-29
+extracted_at: 2026-04-30 17:17:22
+last_updated: 2026-04-30
 ---
 
-# GE - GE Aerospace
+# GE - General Electric Company (GE Aerospace)
 
 ## 基本信息
 
 - **所属行业**: Industrials / Aerospace & Defense
-- **提取时间**: 2026-04-29 17:27:19
+- **提取时间**: 2026-04-30 17:17:22
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Titanium alloy suppliers]]
-- [[Composite material suppliers]]
-- [[Electronic component suppliers]]
-- [[Hydraulic system suppliers]]
-- [[Fuel system suppliers]]
+- [[Honeywell]]
+- [[Alcoa]]
+- [[Carpenter Technology]]
+- [[3M]]
+- [[Rockwell Collins]]
 
 ### 下游客户
-- [[United States Air Force]]
+- [[United Airlines]]
+- [[Delta Air Lines]]
+- [[American Airlines]]
 - [[Boeing]]
-- [[Lockheed Martin]]
 - [[Airbus]]
-- [[Embraer]]
 
 ### 竞争对手
-- [[Pratt & Whitney (Raytheon)]]
+- [[Pratt & Whitney]]
 - [[Rolls‑Royce]]
 - [[Safran]]
-- [[Mitsubishi Heavy Industries]]
-- [[AVIC Shenyang Aircraft]]
+- [[Honeywell Aerospace]]
+- [[MTU Aero Engines]]
 
 ### 核心产品
-- [[F110 turbofan engine]]
-- [[F414 turbofan engine]]
-- [[GE90 turbofan engine]]
-- [[GE2 turbofan engine]]
-- [[GE9X turbofan engine]]
+- [[GE90]]
+- [[CF6]]
+- [[CF34]]
+- [[T700]]
+- [[T800]]
 
 ## 数据来源
 
-- 
-- [GE Aerospace major customers clients](https://en.wikipedia.org/wiki/General_Electric)
-- [GE Aerospace major customers clients](https://muncly.com/how-ge-aerospace-monetized-flight-hours/)
-- [GE Aerospace competitors alternatives](https://en.wikipedia.org/wiki/General_Electric)
-- [GE Aerospace competitors alternatives](https://craft.co/ge-aerospace/competitors)
+- [GE Aerospace](https://en.wikipedia.org/wiki/GE_Aerospace)
+- [GE Aerospace suppliers manufacturers](https://en.wikipedia.org/wiki/GE_Aerospace)
+- [GE Aerospace suppliers manufacturers](https://www.geaerospace.com/)
+- [GE Aerospace major customers clients](https://www.geaerospace.com/news/articles/midyear-musings-insights-our-customers)
+- [GE Aerospace major customers clients](https://www.aviationoutlook.com/p/ge-aerospace-company-analysis-outlook-report)
 
 ## 元数据
 
-- **更新日期**: 2026-04-29
+- **更新日期**: 2026-04-30

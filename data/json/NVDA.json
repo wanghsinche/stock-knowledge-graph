@@ -6,16 +6,16 @@
   "upstream": [
     "TSM",
     "005930.KS",
-    "MU",
-    "SK Hynix",
+    "GlobalFoundries",
+    "UMC",
     "ASE Group"
   ],
   "downstream": [
+    "SONY",
     "MSFT",
-    "GOOGL",
-    "AMZN",
-    "AAPL",
-    "TSLA"
+    "DELL",
+    "TSLA",
+    "AMZN"
   ],
   "competitors": [
     "AMD",
@@ -25,13 +25,13 @@
     "AAPL"
   ],
   "key_products": [
-    "GeForce RTX series",
-    "Quadro RTX series",
-    "Tesla V100",
-    "Jetson Nano",
-    "NVIDIA Drive PX"
+    "GeForce RTX GPUs",
+    "Tesla GPUs",
+    "Jetson SoCs",
+    "DGX systems",
+    "CUDA platform"
   ],
-  "extracted_at": "2026-04-29 17:17:34",
+  "extracted_at": "2026-04-30 17:08:22",
   "sources": [
     {
       "source": "Wikipedia",
@@ -55,13 +55,13 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Nvidia",
       "query": "NVIDIA Corporation major customers clients",
-      "snippet": "1 day ago - Several major technology companies were purchasing tens or hundreds of thousands of GPUs for their data centers to run generative artifici"
+      "snippet": "Nvidia Corporation . Show white logotype.On December 18, 2025, Nvidia announced plans to build a major new research and development campus in Kiryat T"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.fool.com/investing/2025/06/26/who-are-nvidias-biggest-customers/",
+      "url": "https://www.investing.com/equities/nvidia-corp",
       "query": "NVIDIA Corporation major customers clients",
-      "snippet": "June 26, 2025 - Nvidia has amassed an impressive list of customers, which includes top AI developers like Amazon, Microsoft, and Alphabet ."
+      "snippet": "View today's NVIDIA Corporation stock price and latest NVDA news and analysis. Create real-time notifications to follow any changes in the live stock "
     }
   ]
 }

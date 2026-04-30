@@ -7,22 +7,22 @@
     "AMZN",
     "MSFT",
     "GOOGL",
-    "DELL",
-    "HPQ"
+    "ORCL",
+    "IBM"
   ],
   "downstream": [
-    "AMZN",
-    "AAPL",
-    "Coca‑Cola",
+    "Coca-Cola",
+    "Toyota",
     "005930.KS",
-    "Walmart"
+    "American Express",
+    "Nike"
   ],
   "competitors": [
     "MSFT",
-    "SAP",
     "ORCL",
+    "SAP Customer Experience",
     "HubSpot",
-    "Zoho"
+    "ADBE"
   ],
   "key_products": [
     "Sales Cloud",
@@ -31,19 +31,19 @@
     "Commerce Cloud",
     "Einstein AI"
   ],
-  "extracted_at": "2026-04-28 17:39:13",
+  "extracted_at": "2026-04-30 17:14:02",
   "sources": [
     {
       "source": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Salesforce,_Inc.",
-      "title": "Salesforce",
-      "snippet": "Salesforce, Inc., is an American cloud-based software company headquartered in San Francisco, California. It provides software for sales, customer service, marketing automation, e-commerce, analytics,"
+      "url": "",
+      "title": "",
+      "snippet": ""
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://tr.wikipedia.org/wiki/Salesforce",
+      "url": "https://en.wikipedia.org/wiki/Salesforce",
       "query": "Salesforce, Inc. suppliers manufacturers",
-      "snippet": "Salesforce merkezi San Francisco, Kaliforniya'da bulunan bir Amerikan bulut tabanlı yazılım şirketidir. Şirket müşteri ilişkileri yönetimi (CRM) hizme"
+      "snippet": "Salesforce , Inc ., is an American cloud-based software company headquartered in San Francisco, California. It provides applications focused on sales "
     },
     {
       "source": "DuckDuckGo",
@@ -53,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.salesforce.com/",
+      "url": "https://www.ibirdsservices.com/how-many-companies-use-salesforce-stats-growth-report/",
       "query": "Salesforce, Inc. major customers clients",
-      "snippet": "Salesforce Enterprise-grade CRM with deep reporting, sales operations, and..."
+      "snippet": "Dec 26, 2025 · As of 2025, Salesforce is used by over 150,000 companies worldwide. Its customers include startups, mid-sized businesses, and more than"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.heise.de/en/news/Salesforce-200-major-customers-join-Agentforce-10189412.html",
+      "url": "https://www.thomsondata.com/customer-base/salesforce-crm.php",
       "query": "Salesforce, Inc. major customers clients",
-      "snippet": "More than 200 major customers have already signed contracts with Salesforce to gain access to the new AI platform Agentforce. This was reported by Sal"
+      "snippet": "The Salesforce customers list is a complied contact database of companies using Salesforce CRM. The list includes email addresses, phone numbers, loca"
     }
   ]
 }

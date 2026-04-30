@@ -2,7 +2,7 @@
   "ticker": "WDC",
   "company_name": "Western Digital Corporation",
   "sector": "Technology",
-  "industry": "Computer Hardware / Storage Devices",
+  "industry": "Computer Hardware",
   "upstream": [
     "005930.KS",
     "MU",
@@ -13,25 +13,25 @@
   "downstream": [
     "DELL",
     "HPQ",
-    "Lenovo Group",
-    "AAPL",
-    "AMZN"
+    "AMZN",
+    "MSFT",
+    "GOOGL"
   ],
   "competitors": [
     "STX",
+    "Toshiba",
     "005930.KS",
-    "INTC",
     "MU",
-    "Toshiba Corporation"
+    "INTC"
   ],
   "key_products": [
-    "Desktop Hard Disk Drives",
-    "Enterprise Hard Disk Drives",
-    "NVMe SSDs",
-    "SATA SSDs",
-    "External Storage Solutions"
+    "Hard Disk Drives (HDDs)",
+    "Solid State Drives (SSDs)",
+    "External Storage Devices",
+    "Network Attached Storage (NAS) Devices",
+    "Enterprise Storage Solutions"
   ],
-  "extracted_at": "2026-04-29 17:21:00",
+  "extracted_at": "2026-04-30 17:11:48",
   "sources": [
     {
       "source": "Wikipedia",
@@ -53,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Western_Digital",
+      "url": "https://csimarket.com/stocks/WDC-Customers",
       "query": "Western Digital Corporation major customers clients",
-      "snippet": "Western Digital Corporation , doing business as WD , is an American data storage company headquartered in San Jose, California. Established in 1970, t"
+      "snippet": "For your research, we’ve provided 9 tables on Western Digital Corporation corporate clients . You can find them in the navigation menu under Customers"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://pepelac.news/en/posts/id27725-western-digital-hard-drive-shortage-driven-by-ai-data-center-demand",
+      "url": "https://data.landbase.com/technology/western-digital/",
       "query": "Western Digital Corporation major customers clients",
-      "snippet": "Western Digital has announced that its hard drive manufacturing capacity is almost completely exhausted. This shortage is driven by a sharp increase i"
+      "snippet": "Aug 17, 2025 · Our Western Digital customers list is available for download and comes enriched with vital company specifics, including industry classi"
     }
   ]
 }

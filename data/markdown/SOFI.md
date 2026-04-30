@@ -3,8 +3,8 @@ ticker: SOFI
 company: SoFi Technologies, Inc.
 sector: Financial Services
 industry: Credit Services
-extracted_at: 2026-04-29 17:21:23
-last_updated: 2026-04-29
+extracted_at: 2026-04-30 17:17:03
+last_updated: 2026-04-30
 ---
 
 # SOFI - SoFi Technologies, Inc.
@@ -12,46 +12,28 @@ last_updated: 2026-04-29
 ## 基本信息
 
 - **所属行业**: Financial Services / Credit Services
-- **提取时间**: 2026-04-29 17:21:23
+- **提取时间**: 2026-04-30 17:17:03
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Cloud service providers (AWS, Azure)]]
-- [[Payment processors (Stripe, PayPal)]]
-- [[Data analytics vendors (Snowflake)]]
-- [[Cybersecurity firms (CrowdStrike)]]
-- [[Regulatory technology providers (ComplyAdvantage)]]
+_暂无数据_
 
 ### 下游客户
-- [[Individual consumers seeking personal loans]]
-- [[Students refinancing loans]]
-- [[Homebuyers seeking mortgages]]
-- [[Investors using SoFi Invest]]
-- [[Small business borrowers]]
+_暂无数据_
 
 ### 竞争对手
-- [[LendingClub]]
-- [[Upstart]]
-- [[Marcus by Goldman Sachs]]
-- [[Upgrade]]
-- [[Prosper]]
+_暂无数据_
 
 ### 核心产品
-- [[Personal loans]]
-- [[Student loan refinancing]]
-- [[Mortgage loans]]
-- [[Investment platform]]
-- [[Banking services (checking, savings)]]
+_暂无数据_
 
 ## 数据来源
 
 - [SoFi](https://en.wikipedia.org/wiki/SoFi_Technologies,_Inc.)
-- [SoFi Technologies, Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/SoFi)
-- [SoFi Technologies, Inc. suppliers manufacturers](https://simplywall.st/stocks/us/diversified-financials/nasdaq-sofi/sofi-technologies)
-- [SoFi Technologies, Inc. major customers clients](https://en.wikipedia.org/wiki/SoFi)
-- [SoFi Technologies, Inc. major customers clients](https://finance.yahoo.com/quote/SOFI/)
+- [SoFi Technologies, Inc. suppliers manufacturers](https://csimarket.com/stocks/SOFI-Suppliers)
+- [SoFi Technologies, Inc. suppliers manufacturers](https://www.accio.com/business/sofi)
 
 ## 元数据
 
-- **更新日期**: 2026-04-29
+- **更新日期**: 2026-04-30

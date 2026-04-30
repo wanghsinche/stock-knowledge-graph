@@ -2,20 +2,20 @@
   "ticker": "VRT",
   "company_name": "Vertiv Holdings Co",
   "sector": "Industrials / Electrical Equipment & Parts",
-  "industry": "Electrical Equipment & Parts",
+  "industry": "Data Center Infrastructure & Power & Cooling",
   "upstream": [
-    "Emerson",
-    "Honeywell",
-    "Schneider Electric",
-    "ABB",
-    "Siemens"
+    "Cooling system components",
+    "Power distribution units",
+    "Server hardware",
+    "Networking equipment",
+    "Industrial control systems"
   ],
   "downstream": [
-    "AMZN",
-    "GOOGL",
-    "MSFT",
-    "AT&T",
-    "Verizon"
+    "Data center operators",
+    "CAT",
+    "Cloud service providers",
+    "Large enterprises",
+    "Government agencies"
   ],
   "competitors": [
     "Schneider Electric",
@@ -25,13 +25,13 @@
     "HPQ"
   ],
   "key_products": [
-    "Power Distribution Units (PDUs)",
-    "Cooling Systems (CRAC/CRAH)",
-    "Uninterruptible Power Supplies (UPS)",
-    "Rack Enclosures",
-    "Data Center Infrastructure Management (DCIM) Software"
+    "Power distribution units (PDUs)",
+    "Cooling systems (CRAC/CRAH)",
+    "Uninterruptible power supplies (UPS)",
+    "Data center infrastructure management (DCIM) software",
+    "Network infrastructure solutions"
   ],
-  "extracted_at": "2026-04-28 17:34:26",
+  "extracted_at": "2026-04-30 17:16:43",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,15 +41,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/VRT/",
-      "query": "Vertiv Holdings Co suppliers manufacturers",
-      "snippet": "Find the latest Vertiv Holdings Co (VRT) stock quote, history, news and other vital information to help you with your stock trading and investing."
-    },
-    {
-      "source": "DuckDuckGo",
       "url": "https://markets.financialcontent.com/stocks/article/finterra-2026-4-7-vertiv-holdings-co-vrt-the-critical-infrastructure-behind-the-ai-boom",
       "query": "Vertiv Holdings Co suppliers manufacturers",
       "snippet": "Vertiv ’s history is a multi-decade evolution from a niche cooling manufacturer to a global leader. Its origins trace back to 1946 with the founding o"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://finance.yahoo.com/quote/VRT/",
+      "query": "Vertiv Holdings Co suppliers manufacturers",
+      "snippet": "Find the latest Vertiv Holdings Co (VRT) stock quote, history, news and other vital information to help you with your stock trading and investing."
     },
     {
       "source": "DuckDuckGo",
@@ -59,9 +59,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://portersfiveforce.com/blogs/target-market/vertiv",
+      "url": "https://www.vertiv.com/en-us/solutions/success-stories/",
       "query": "Vertiv Holdings Co major customers clients",
-      "snippet": "Jan 2, 2026 · Explore the target market for Vertiv ' s critical infrastructure solutions. Learn how Vertiv serves data centers, telecom, government, a"
+      "snippet": "This partnership highlights how Vertiv ’ s innovative power technologies enable EdgeConneX to transform its vision of AI-powered data centers into rea"
     }
   ]
 }

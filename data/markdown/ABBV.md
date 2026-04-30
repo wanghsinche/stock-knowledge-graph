@@ -3,8 +3,8 @@ ticker: ABBV
 company: AbbVie Inc.
 sector: Healthcare
 industry: Drug Manufacturers - General
-extracted_at: 2026-04-29 17:24:38
-last_updated: 2026-04-29
+extracted_at: 2026-04-30 17:15:13
+last_updated: 2026-04-30
 ---
 
 # ABBV - AbbVie Inc.
@@ -12,44 +12,28 @@ last_updated: 2026-04-29
 ## 基本信息
 
 - **所属行业**: Healthcare / Drug Manufacturers - General
-- **提取时间**: 2026-04-29 17:24:38
+- **提取时间**: 2026-04-30 17:15:13
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Abbott Laboratories]]
-- [[Pfizer]]
-- [[Johnson & Johnson]]
-- [[Merck & Co.]]
-- [[Eli Lilly]]
+_暂无数据_
 
 ### 下游客户
-- [[McKesson Corporation]]
-- [[Cardinal Health]]
-- [[AmerisourceBergen]]
-- [[Walgreens Boots Alliance]]
-- [[CVS Health]]
+_暂无数据_
 
 ### 竞争对手
-- [[Pfizer]]
-- [[Johnson & Johnson]]
-- [[Merck & Co.]]
-- [[Eli Lilly]]
-- [[Bristol Myers Squibb]]
+_暂无数据_
 
 ### 核心产品
-- [[Humira (adalimumab)]]
-- [[Imbruvica (ibrutinib)]]
-- [[Venclexta (venetoclax)]]
+_暂无数据_
 
 ## 数据来源
 
-- [AbbVie](https://en.wikipedia.org/wiki/AbbVie_Inc.)
-- [AbbVie Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/Abbott_Laboratories)
-- [AbbVie Inc. suppliers manufacturers](https://www.abbvie.com/)
-- [AbbVie Inc. major customers clients](https://www.abbvie.com/)
-- [AbbVie Inc. major customers clients](https://www.linkedin.com/company/abbvie)
+- 
+- [AbbVie Inc. suppliers manufacturers](https://www.abbvie.com/who-we-are/operating-with-integrity/responsible-supply-chain/supplier-resources.html)
+- [AbbVie Inc. suppliers manufacturers](https://csimarket.com/stocks/ABBV-Suppliers)
 
 ## 元数据
 
-- **更新日期**: 2026-04-29
+- **更新日期**: 2026-04-30

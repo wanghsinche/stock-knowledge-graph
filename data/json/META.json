@@ -4,64 +4,64 @@
   "sector": "Communication Services",
   "industry": "Internet Content & Information",
   "upstream": [
-    "AMZN",
-    "MSFT",
-    "GOOGL",
-    "CSCO",
-    "DELL"
+    "INTC",
+    "NVDA",
+    "AMD",
+    "QCOM",
+    "005930.KS"
   ],
   "downstream": [
-    "Advertisers",
+    "Advertisers (e.g., Coca‑Cola, Nike)",
     "App developers",
     "Content creators",
-    "Users",
-    "Third‑party developers"
+    "Media companies",
+    "Businesses using Facebook Business Suite"
   ],
   "competitors": [
     "GOOGL",
     "AMZN",
-    "Twitter Inc.",
-    "Snap Inc.",
-    "ByteDance"
+    "AAPL",
+    "MSFT",
+    "TikTok (ByteDance)"
   ],
   "key_products": [
     "Facebook",
     "Instagram",
     "WhatsApp",
     "Messenger",
-    "Meta Quest"
+    "Meta Ads"
   ],
-  "extracted_at": "2026-04-29 17:19:08",
+  "extracted_at": "2026-04-30 17:08:35",
   "sources": [
     {
       "source": "Wikipedia",
-      "url": "",
-      "title": "",
-      "snippet": ""
+      "url": "https://en.wikipedia.org/wiki/Meta_Platforms,_Inc.",
+      "title": "Meta Platforms",
+      "snippet": "Meta Platforms, Inc. is an American multinational technology company headquartered in Menlo Park, California. Meta owns and operates several prominent social media platforms and communication services"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.meta.com/about/",
+      "url": "https://en.wikipedia.org/wiki/Meta_Platforms",
       "query": "Meta Platforms, Inc. suppliers manufacturers",
-      "snippet": "Learn more about Meta and stay updated on our role in social technology, virtual reality, augmented reality, and the future of human connection. Meta "
+      "snippet": "Meta Platforms , Inc . (doing business as Meta) is an American multinational technology company headquartered in Menlo Park, California. Meta owns and"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.computerhope.com/comp/meta.htm",
+      "url": "https://csimarket.com/stocks/META-Suppliers",
       "query": "Meta Platforms, Inc. suppliers manufacturers",
-      "snippet": "Before it was rebranded as Meta in October 2021, Meta was known as Facebook Inc . According to Zuckerberg, the name Meta emphasizes their focus on VR "
+      "snippet": "Mar 3, 2026 · Meta Platforms Inc supply chain, list and performance of Meta Platforms Incs ' suppliers - CSIMarket"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ru.wikipedia.org/wiki/Meta_Platforms",
+      "url": "https://en.wikipedia.org/wiki/Meta_Platforms",
       "query": "Meta Platforms, Inc. major customers clients",
-      "snippet": "Meta Platforms , Inc . — американская транснациональная холдинговая компания, владеющая технологическим конгломератом и расположенная в Менло-Парке, К"
+      "snippet": "2 hours ago - Meta revenue surpassed analyst expectations for the first quarter of 2023 after announcing that it was increasing its focus on AI. On Ju"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.insidermonkey.com/blog/is-meta-platforms-meta-trading-at-an-attractive-price-1744614/",
+      "url": "https://finance.yahoo.com/quote/META/profile/",
       "query": "Meta Platforms, Inc. major customers clients",
-      "snippet": "Meta Platforms , Inc . (NASDAQ: META ) — Towards the end of March, Meta ’s stock price hit US$526 per share, a level that implies an enterprise value "
+      "snippet": "The FoA segment offers Facebook, which enables people to build community through feed, reels, stories, groups, marketplace, and other; Instagram that "
     }
   ]
 }

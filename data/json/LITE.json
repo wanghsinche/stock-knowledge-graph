@@ -1,13 +1,37 @@
 {
   "ticker": "LITE",
   "company_name": "Lumentum Holdings Inc.",
-  "sector": "Technology",
-  "industry": "Communication Equipment",
-  "upstream": [],
-  "downstream": [],
-  "competitors": [],
-  "key_products": [],
-  "extracted_at": "2026-04-29 17:19:52",
+  "sector": "Technology / Communication Equipment",
+  "industry": "Photonics",
+  "upstream": [
+    "Gallium arsenide suppliers",
+    "Indium phosphide suppliers",
+    "Silicon photonics wafer manufacturers",
+    "Optical fiber suppliers",
+    "Semiconductor packaging material suppliers"
+  ],
+  "downstream": [
+    "Telecom operators (e.g., AT&T, Verizon)",
+    "CSCO",
+    "AMD",
+    "Defense and aerospace companies",
+    "Medical imaging equipment manufacturers"
+  ],
+  "competitors": [
+    "Coherent",
+    "II-VI Incorporated",
+    "Trumpf",
+    "Lumenis",
+    "NKT Photonics"
+  ],
+  "key_products": [
+    "Laser diodes",
+    "Optical amplifiers",
+    "Photonic integrated circuits",
+    "Optical transceivers",
+    "Fiber optic components"
+  ],
+  "extracted_at": "2026-04-30 17:11:03",
   "sources": [
     {
       "source": "Wikipedia",
@@ -17,15 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/LITE/",
+      "url": "https://en.wikipedia.org/wiki/Lumentum",
       "query": "Lumentum Holdings Inc. suppliers manufacturers",
-      "snippet": "Lumentum Holdings Inc . Overview Communication Equipment / Technology. Lumentum Holdings Inc . manufactures and sells optical and photonic products in"
+      "snippet": "They primarily produce optical and photonic products in two sectors of the economy: Cloud & Networking and Industrial Tech. In the former sector, they"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://capital.com/en-int/markets/shares/lumentum-holdings-inc-share-price",
+      "url": "https://www.lumentum.com/en/company/distributors",
       "query": "Lumentum Holdings Inc. suppliers manufacturers",
-      "snippet": "Lumentum Holdings Inc . manufactures and sells optical and photonic products in the Americas, the Asia-Pacific, Europe, the Middle East, and Africa. I"
+      "snippet": "Please contact customer service and they will direct you to a distributor near you. Lumentum is a global leader in optical and photonic products, enab"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://finance.yahoo.com/quote/LITE/",
+      "query": "Lumentum Holdings Inc. major customers clients",
+      "snippet": "Find the latest Lumentum Holdings Inc . (LITE) stock quote, history, news and other vital information to help you with your stock trading and investin"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.lumentum.com/",
+      "query": "Lumentum Holdings Inc. major customers clients",
+      "snippet": "Discover how Lumentum enables innovation through optical and photonic technologies for cloud networking, 3D sensing, lasers, and advanced manufacturin"
     }
   ]
 }

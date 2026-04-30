@@ -3,8 +3,8 @@ ticker: AVGO
 company: Broadcom Inc.
 sector: Technology
 industry: Semiconductors
-extracted_at: 2026-04-29 17:21:12
-last_updated: 2026-04-29
+extracted_at: 2026-04-30 17:10:44
+last_updated: 2026-04-30
 ---
 
 # AVGO - Broadcom Inc.
@@ -12,7 +12,7 @@ last_updated: 2026-04-29
 ## 基本信息
 
 - **所属行业**: Technology / Semiconductors
-- **提取时间**: 2026-04-29 17:21:12
+- **提取时间**: 2026-04-30 17:10:44
 
 ## 产业链关系
 
@@ -21,37 +21,37 @@ last_updated: 2026-04-29
 - [[005930.KS]]
 - [[GlobalFoundries]]
 - [[UMC]]
-- [[INTC]]
+- [[Tower Semiconductor]]
 
 ### 下游客户
+- [[005930.KS]]
+- [[AAPL]]
 - [[CSCO]]
 - [[DELL]]
 - [[HPQ]]
-- [[AMZN]]
-- [[MSFT]]
 
 ### 竞争对手
 - [[QCOM]]
 - [[INTC]]
 - [[NVDA]]
-- [[MediaTek]]
 - [[TXN]]
+- [[MediaTek]]
 
 ### 核心产品
-- [[5G/4G LTE modems]]
+- [[Wi‑Fi and Bluetooth chips]]
 - [[Ethernet controllers]]
-- [[Wi‑Fi chips]]
-- [[Broadband and storage controllers]]
-- [[Infrastructure software solutions]]
+- [[5G modem solutions]]
+- [[Broadband and cable modem chips]]
+- [[Storage controller ASICs]]
 
 ## 数据来源
 
 - [Broadcom](https://en.wikipedia.org/wiki/Broadcom_Inc.)
-- [Broadcom Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/List_of_computer_hardware_manufacturers)
-- [Broadcom Inc. suppliers manufacturers](https://csimarket.com/stocks/AVGO-Suppliers)
-- [Broadcom Inc. major customers clients](https://www.broadcom.com/)
-- [Broadcom Inc. major customers clients](https://www.youtube.com/channel/UCTr3zah69bISSVdBcHiKhpA)
+- [Broadcom Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/Broadcom)
+- [Broadcom Inc. suppliers manufacturers](https://www.broadcom.com/how-to-buy/partner-distributor-lookup)
+- [Broadcom Inc. major customers clients](https://en.wikipedia.org/wiki/Broadcom)
+- [Broadcom Inc. major customers clients](https://csimarket.com/stocks/AVGO-Customers)
 
 ## 元数据
 
-- **更新日期**: 2026-04-29
+- **更新日期**: 2026-04-30

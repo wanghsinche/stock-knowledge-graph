@@ -1,49 +1,49 @@
 {
   "ticker": "SNDK",
-  "company_name": "SanDisk Corporation",
-  "sector": "Technology / Computer Hardware",
-  "industry": "Semiconductors / Flash Memory",
+  "company_name": "Sandisk Corporation",
+  "sector": "Technology",
+  "industry": "Computer Hardware",
   "upstream": [
-    "TSM",
     "005930.KS",
     "MU",
     "SK Hynix",
-    "INTC"
+    "Toshiba Memory",
+    "WDC"
   ],
   "downstream": [
     "AAPL",
-    "MSFT",
+    "005930.KS",
     "DELL",
     "HPQ",
-    "AMZN"
+    "MSFT"
   ],
   "competitors": [
     "005930.KS",
     "MU",
-    "WDC",
-    "Kingston",
-    "Crucial"
+    "SK Hynix",
+    "Toshiba Memory",
+    "WDC"
   ],
   "key_products": [
-    "Memory cards",
+    "NAND flash memory chips",
+    "Solid State Drives (SSDs)",
     "USB flash drives",
-    "Solid-state drives (SSDs)",
-    "Embedded flash memory",
-    "Enterprise flash storage"
+    "SD and microSD cards",
+    "External portable SSDs"
   ],
-  "extracted_at": "2026-04-29 17:18:29",
+  "extracted_at": "2026-04-30 17:10:10",
   "sources": [
     {
       "source": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Sandisk_Corporation",
-      "title": "Sandisk",
-      "snippet": "Sandisk Corporation is an American multinational computer semiconductor company based in Milpitas, California, that designs and manufactures flash memory products, including memory cards, USB flash dr"
+      "url": "",
+      "title": "",
+      "snippet": ""
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/List_of_computer_hardware_manufacturers",
+      "url": "https://en.wikipedia.org/wiki/Sandisk",
       "query": "Sandisk Corporation suppliers manufacturers",
-      "snippet": "Current notable computer hardware manufacturers : Cases. [edit]. List of computer case manufacturers : This list is incomplete; you can help by adding"
+      "snippet": "Sandisk Corporation (formerly branded SanDisk ) is an American multinational computer semiconductor company based in Milpitas, California, that design"
     },
     {
       "source": "DuckDuckGo",
@@ -53,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.sandisk.com/",
+      "url": "https://data.landbase.com/technology/sandisk/",
       "query": "Sandisk Corporation major customers clients",
-      "snippet": "Sandisk online store members receive free standard shipping on all eligible orders.New Sandisk Customers Sign Up and Save 10% Off. Explore the latest "
+      "snippet": "Aug 17, 2025 · Our SanDisk customers list is available for download and comes enriched with vital company specifics, including industry classification"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.linkedin.com/company/sandisk",
+      "url": "https://enlyft.com/tech/products/sandisk",
       "query": "Sandisk Corporation major customers clients",
-      "snippet": "Sandisk | 377,941 followers on LinkedIn. Sandisk is a leading developer, manufacturer and provider of data storage devices and solutions based on NAND"
+      "snippet": "Looking at SanDisk customers by industry, we find that Information Technology and Services (12%), Marketing and Advertising (8%), Computer Software (8"
     }
   ]
 }

@@ -3,8 +3,8 @@ ticker: CVNA
 company: Carvana Co.
 sector: Consumer Cyclical
 industry: Auto & Truck Dealerships
-extracted_at: 2026-02-20 16:33:12
-last_updated: 2026-02-20
+extracted_at: 2026-04-30 17:13:41
+last_updated: 2026-04-30
 ---
 
 # CVNA - Carvana Co.
@@ -12,23 +12,23 @@ last_updated: 2026-02-20
 ## 基本信息
 
 - **所属行业**: Consumer Cyclical / Auto & Truck Dealerships
-- **提取时间**: 2026-02-20 16:33:12
+- **提取时间**: 2026-04-30 17:13:41
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Private individual sellers]]
-- [[Auto auctions (e.g., ADESA)]]
-- [[Trade‑in programs]]
-- [[Leasing companies]]
-- [[Vehicle salvage yards]]
+- [[Used car dealers]]
+- [[Automobile auction houses (e.g., Manheim, ADESA)]]
+- [[Private vehicle sellers]]
+- [[Carvana's own vehicle acquisition team]]
+- [[Vehicle inspection partners]]
 
 ### 下游客户
 - [[Individual consumers]]
-- [[Corporate fleet buyers]]
-- [[Carvana delivery service]]
+- [[Fleet customers (corporate fleets)]]
+- [[Carvana's delivery service]]
+- [[Online marketplace users]]
 - [[Financing customers]]
-- [[Subscription service users]]
 
 ### 竞争对手
 - [[CarMax]]
@@ -38,11 +38,11 @@ last_updated: 2026-02-20
 - [[CarGurus]]
 
 ### 核心产品
-- [[Used cars]]
-- [[Online marketplace]]
+- [[Online used car marketplace]]
 - [[Car Vending Machines]]
-- [[Financing services]]
-- [[Vehicle delivery]]
+- [[Vehicle financing and leasing]]
+- [[Carvana's delivery service]]
+- [[Vehicle inspection and reconditioning]]
 
 ## 数据来源
 
@@ -50,8 +50,8 @@ last_updated: 2026-02-20
 - [Carvana Co. suppliers manufacturers](https://en.wikipedia.org/wiki/Carvana)
 - [Carvana Co. suppliers manufacturers](https://csimarket.com/stocks/CVNA-Suppliers)
 - [Carvana Co. major customers clients](https://csimarket.com/stocks/CVNA-Customers)
-- [Carvana Co. major customers clients](https://finance.yahoo.com/news/carvana-q4-earnings-call-highlights-040643025.html)
+- [Carvana Co. major customers clients](https://www.forbes.com/sites/jefffromm/2025/03/19/carvana-disrupts-around-convenience-in-effort-to-build-brand-trust/)
 
 ## 元数据
 
-- **更新日期**: 2026-02-20
+- **更新日期**: 2026-04-30

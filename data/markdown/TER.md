@@ -3,8 +3,8 @@ ticker: TER
 company: Teradyne, Inc.
 sector: Technology
 industry: Semiconductor Equipment & Materials
-extracted_at: 2026-04-29 17:20:48
-last_updated: 2026-04-29
+extracted_at: 2026-04-30 17:12:28
+last_updated: 2026-04-30
 ---
 
 # TER - Teradyne, Inc.
@@ -12,16 +12,16 @@ last_updated: 2026-04-29
 ## 基本信息
 
 - **所属行业**: Technology / Semiconductor Equipment & Materials
-- **提取时间**: 2026-04-29 17:20:48
+- **提取时间**: 2026-04-30 17:12:28
 
 ## 产业链关系
 
 ### 上游供应商
 - [[AMAT]]
 - [[LRCX]]
-- [[Tokyo Electron]]
-- [[KLA]]
-- [[ASML]]
+- [[KLA Corporation]]
+- [[LTX-Credence]]
+- [[Rohde & Schwarz]]
 
 ### 下游客户
 - [[005930.KS]]
@@ -33,25 +33,25 @@ last_updated: 2026-04-29
 ### 竞争对手
 - [[Advantest]]
 - [[LTX-Credence]]
-- [[Cohu]]
-- [[Teradyne]]
-- [[Advantest Corp]]
+- [[KLA Corporation]]
+- [[Rohde & Schwarz]]
+- [[Teradyne (self‑referenced for context)]]
 
 ### 核心产品
-- [[Automatic test equipment (ATE)]]
-- [[Semiconductor test systems]]
-- [[Integrated circuit test equipment]]
-- [[AI compute test solutions]]
-- [[Test equipment for advanced packaging]]
+- [[Automated Test Equipment (ATE) for semiconductors]]
+- [[Test systems for integrated circuits]]
+- [[Test solutions for memory devices]]
+- [[Test equipment for analog and mixed‑signal ICs]]
+- [[Test solutions for system‑on‑chip (SoC) devices]]
 
 ## 数据来源
 
 - [Teradyne](https://en.wikipedia.org/wiki/Teradyne,_Inc.)
-- [Teradyne, Inc. suppliers manufacturers](https://investorshub.advfn.com/Teradyne-Inc-TER-29753)
-- [Teradyne, Inc. suppliers manufacturers](https://finance.yahoo.com/markets/stocks/articles/teradyne-nasdaq-ter-delivers-strong-204554707.html)
-- [Teradyne, Inc. major customers clients](https://www.fool.com/earnings/call-transcripts/2026/04/28/teradyne-ter-q2-2025-earnings-call-transcript/)
-- [Teradyne, Inc. major customers clients](https://www.businesswire.com/news/home/20250310095859/en/Teradyne-To-Acquire-Quantifi-Photonics)
+- [Teradyne, Inc. suppliers manufacturers](https://www.gurufocus.com/news/2676254/teradyne-inc-ter-and-infineon-technologies-forge-strategic-partnership-to-enhance-power-semiconductor-testing)
+- [Teradyne, Inc. suppliers manufacturers](https://www.youtube.com/watch?v=ot5twEceuNk)
+- [Teradyne, Inc. major customers clients](https://manufacturing-today.com/news/teradyne-inc/)
+- [Teradyne, Inc. major customers clients](https://gethuman.com/phone-number/Teradyne-Inc)
 
 ## 元数据
 
-- **更新日期**: 2026-04-29
+- **更新日期**: 2026-04-30

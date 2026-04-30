@@ -4,33 +4,32 @@
   "sector": "Technology",
   "industry": "Software - Infrastructure",
   "upstream": [
-    "AMZN",
-    "MSFT",
-    "GOOGL",
-    "DELL",
-    "HPQ"
+    "Cloud infrastructure providers (AWS, Azure, GCP)",
+    "Data providers (government data, commercial data vendors)",
+    "Hardware suppliers (server manufacturers)",
+    "Software libraries and open‑source components",
+    "Consulting and system integration partners"
   ],
   "downstream": [
     "U.S. Department of Defense",
+    "U.S. Department of Homeland Security",
     "U.S. Department of Justice",
-    "Airbus",
-    "Boeing",
-    "Coca-Cola"
+    "JPMorgan Chase",
+    "Walmart"
   ],
   "competitors": [
-    "IBM",
-    "SAS",
-    "ORCL",
+    "Snowflake",
+    "Databricks",
+    "Splunk",
     "MSFT",
-    "Snowflake"
+    "Tableau"
   ],
   "key_products": [
-    "Palantir Foundry",
     "Palantir Gotham",
-    "Palantir Apollo",
-    "Palantir Helix"
+    "Palantir Foundry",
+    "Palantir Apollo"
   ],
-  "extracted_at": "2026-04-29 17:20:35",
+  "extracted_at": "2026-04-30 17:11:37",
   "sources": [
     {
       "source": "Wikipedia",
@@ -42,13 +41,13 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Palantir",
       "query": "Palantir Technologies Inc. suppliers manufacturers",
-      "snippet": "Palantir Technologies Inc is an American publicly traded company that develops data integration and analytics platforms. Headquartered in Miami, Flori"
+      "snippet": "The company has four main operating systems: Palantir Gotham, Palantir Foundry, Palantir Apollo, and Palantir AIP. Palantir Gotham is an intelligence "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.palantir.com/explore/biomanufacturing/",
+      "url": "https://csimarket.com/stocks/PLTR-Suppliers",
       "query": "Palantir Technologies Inc. suppliers manufacturers",
-      "snippet": "Global pharmaceutical manufacturers rely on Palantir Foundry to cultivate data connectivity, overcoming the challenges arising from operational and da"
+      "snippet": "Feb 19, 2026 · For your research, we’ve provided nine additional tables on Palantir Technologies Inc ’ s suppliers . You can find them in the navigati"
     },
     {
       "source": "DuckDuckGo",

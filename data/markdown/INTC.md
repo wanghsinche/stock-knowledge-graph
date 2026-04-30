@@ -3,8 +3,8 @@ ticker: INTC
 company: Intel Corporation
 sector: Technology
 industry: Semiconductors
-extracted_at: 2026-04-29 17:17:26
-last_updated: 2026-04-29
+extracted_at: 2026-04-30 17:09:49
+last_updated: 2026-04-30
 ---
 
 # INTC - Intel Corporation
@@ -12,46 +12,46 @@ last_updated: 2026-04-29
 ## 基本信息
 
 - **所属行业**: Technology / Semiconductors
-- **提取时间**: 2026-04-29 17:17:26
+- **提取时间**: 2026-04-30 17:09:49
 
 ## 产业链关系
 
 ### 上游供应商
-- [[ASML]]
-- [[AMAT]]
-- [[LRCX]]
-- [[Tokyo Electron]]
-- [[KLA]]
+- [[TSM]]
+- [[005930.KS]]
+- [[GlobalFoundries]]
+- [[UMC]]
+- [[ASE Technology Holding]]
 
 ### 下游客户
 - [[DELL]]
 - [[HPQ]]
-- [[Lenovo]]
-- [[AAPL]]
-- [[AMZN]]
+- [[Lenovo Group]]
+- [[Acer Inc.]]
+- [[MSFT]]
 
 ### 竞争对手
 - [[AMD]]
 - [[NVDA]]
-- [[TSM]]
-- [[005930.KS]]
+- [[QCOM]]
 - [[AVGO]]
+- [[005930.KS]]
 
 ### 核心产品
 - [[Intel Core processors]]
 - [[Intel Xeon processors]]
 - [[Intel Optane memory]]
-- [[Intel Atom processors]]
-- [[Intel Stratix FPGA]]
+- [[Intel Xe GPU]]
+- [[Intel FPGA (Stratix, Arria)]]
 
 ## 数据来源
 
 - [Intel](https://en.wikipedia.org/wiki/Intel_Corporation)
-- [Intel Corporation suppliers manufacturers](https://en.wikipedia.org/wiki/Intel)
+- [Intel Corporation suppliers manufacturers](https://en.wikipedia.org/wiki/List_of_Intel_manufacturing_sites)
 - [Intel Corporation suppliers manufacturers](https://www.intel.com/content/www/us/en/supplier/overview.html)
-- [Intel Corporation major customers clients](https://en.wikipedia.org/wiki/Intel)
-- [Intel Corporation major customers clients](https://wccftech.com/intel-14a-wins-tesla-major-customers-foundry-business-gamble-pays-off/)
+- [Intel Corporation major customers clients](https://csimarket.com/stocks/INTC-Customers)
+- [Intel Corporation major customers clients](https://www.intel.com/content/www/us/en/customer-spotlight/overview.html)
 
 ## 元数据
 
-- **更新日期**: 2026-04-29
+- **更新日期**: 2026-04-30
