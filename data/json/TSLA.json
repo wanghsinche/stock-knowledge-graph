@@ -1,8 +1,8 @@
 {
   "ticker": "TSLA",
   "company_name": "Tesla, Inc.",
-  "sector": "Consumer Cyclical",
-  "industry": "Auto Manufacturers",
+  "sector": "Consumer Cyclical / Auto Manufacturers",
+  "industry": "Electric Vehicles",
   "upstream": [
     "Panasonic",
     "LG Chem",
@@ -12,28 +12,26 @@
   ],
   "downstream": [
     "Individual consumers",
-    "Fleet operators (Uber, Lyft)",
-    "Commercial businesses",
+    "Commercial fleet operators",
     "Utility companies",
-    "Government agencies"
+    "Government agencies",
+    "Corporate buyers"
   ],
   "competitors": [
-    "Ford",
     "General Motors",
+    "Ford",
     "Volkswagen",
-    "Rivian",
-    "Lucid Motors"
+    "Hyundai",
+    "Rivian"
   ],
   "key_products": [
-    "Model S",
     "Model 3",
+    "Model S",
     "Model X",
     "Model Y",
-    "Cybertruck",
-    "Powerwall",
-    "Solar Roof"
+    "Powerwall"
   ],
-  "extracted_at": "2026-04-30 17:09:13",
+  "extracted_at": "2026-05-01 16:44:24",
   "sources": [
     {
       "source": "Wikipedia",
@@ -45,25 +43,25 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Tesla,_Inc.",
       "query": "Tesla, Inc. suppliers manufacturers",
-      "snippet": "Tesla , Inc . is an American multinational automotive and clean energy company.The company was incorporated in July 2003 by Martin Eberhard and Marc T"
+      "snippet": "1 day ago - The practice of vertical integration is rare in the automotive industry, where companies typically outsource 80% of components to supplier"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/TSLA-Suppliers",
+      "url": "https://www.investopedia.com/ask/answers/052815/who-are-teslas-tsla-main-suppliers.asp",
       "query": "Tesla, Inc. suppliers manufacturers",
-      "snippet": "Tesla Inc 's Suppliers Performance. TSLA's Supply Chain. Tesla relies on a wide range of suppliers beyond just battery manufacturers to build our elec"
+      "snippet": "November 4, 2025 - Tesla manufactures key components like the electric motor, battery pack, and charger, but relies on suppliers for other parts. Key "
     },
     {
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Tesla,_Inc.",
       "query": "Tesla, Inc. major customers clients",
-      "snippet": "2 days ago - Tesla Energy products include solar panels (built by other companies for Tesla), the Tesla Solar Roof (a solar shingle system), and the T"
+      "snippet": "Tesla , Inc . is an American multinational automotive and clean energy company.The company was incorporated in July 2003 by Martin Eberhard and Marc T"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.statista.com/topics/2086/tesla/",
+      "url": "https://www.tesla.com/",
       "query": "Tesla, Inc. major customers clients",
-      "snippet": "March 30, 2026 - Tesla's success is also helping boost EV popularity in the U.S., increasing competition in its domestic market. Encouraged by Tesla's"
+      "snippet": "Video Guides. Customer Stories. Events. Safety.Explore limited-time offers on Tesla vehicles."
     }
   ]
 }

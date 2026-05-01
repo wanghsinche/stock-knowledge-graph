@@ -4,18 +4,18 @@
   "sector": "Communication Services",
   "industry": "Internet Content & Information",
   "upstream": [
-    "Hardware component suppliers (e.g., GPU manufacturers)",
-    "Cloud infrastructure providers (e.g., AWS, Azure, GCP)",
-    "Software platform vendors (e.g., Kubernetes, Docker)",
-    "Data center operators",
-    "AI algorithm developers"
+    "NVDA",
+    "INTC",
+    "AMD",
+    "MSFT",
+    "AMZN"
   ],
   "downstream": [
-    "Federal government agencies (e.g., U.S. Department of Defense, DCSA)",
-    "Large enterprise clients using AI infrastructure",
-    "Nasdaq‑listed ETFs that hold NBIS shares",
-    "Financial institutions leveraging AI analytics",
-    "Public sector IT procurement programs"
+    "Nasdaq‑listed ETFs",
+    "Institutional investors",
+    "Mutual funds",
+    "Hedge funds",
+    "Private equity firms"
   ],
   "competitors": [
     "OpenAI",
@@ -25,13 +25,13 @@
     "IBM"
   ],
   "key_products": [
-    "Nebius AI Infrastructure Platform",
-    "Avride (AI data labeling service)",
-    "TripleTen (AI model training service)",
-    "Toloka (crowdsourcing platform)",
-    "Clickhouse (column‑store database for AI workloads)"
+    "Nebius AI infrastructure platform",
+    "Avride",
+    "TripleTen",
+    "Toloka",
+    "Clickhouse"
   ],
-  "extracted_at": "2026-04-30 17:14:12",
+  "extracted_at": "2026-05-01 16:49:40",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,15 +41,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.dcsa.mil/Systems-Applications/National-Background-Investigation-Services-NBIS/",
+      "url": "https://en.wikipedia.org/wiki/Nebius_Group",
       "query": "NBIS suppliers manufacturers",
-      "snippet": "NBIS is the Federal government’s IT system for end-to-end process for personnel vetting. This starts with the initiation and application for a backgro"
+      "snippet": "Nebius Group N.V., headquartered in Amsterdam, is a technology company that provides artificial intelligence infrastructure."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.dcsa.mil/About-Us/News/Article/Article/4024469/dcsa-announces-release-of-nbis-product-roadmap/",
+      "url": "https://csimarket.com/stocks/suppliers_glance.php?code=NBIS",
       "query": "NBIS suppliers manufacturers",
-      "snippet": "Jan 8, 2025 · DCSA announced today that the Agency’s National Background Investigation Services ( NBIS ) Program Management Office is releasing its pr"
+      "snippet": "NBIS 's Suppliers Management Effectiveness. NBIS 's Competitors Results.Nebius Group N V's Comment on Supply Chain. NBIS 's Stock Perfrormance relativ"
     },
     {
       "source": "DuckDuckGo",
@@ -59,9 +59,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.insidermonkey.com/blog/here-is-why-nebius-nbis-is-one-of-the-best-technology-stocks-to-buy-for-the-next-decade-1747636/",
+      "url": "https://www.tradingview.com/symbols/NASDAQ-NBIS/ideas/page-2/",
       "query": "NBIS major customers clients",
-      "snippet": "Nebius Group (NASDAQ: NBIS ) is a technology company that provides infrastructure and services to AI builders worldwide. It offers Nebius AI, an AI-ce"
+      "snippet": "NBIS trade ideas. Videos onlyVideos only. NBIS setup bullish I have added another 100 shares in the last few days we we dipped back into the demand zo"
     }
   ]
 }

@@ -1,37 +1,37 @@
 {
   "ticker": "HOOD",
   "company_name": "Robinhood Markets, Inc.",
-  "sector": "Financial Services / Capital Markets",
-  "industry": "Online Brokerage / Retail Trading Platform",
+  "sector": "Financial Services",
+  "industry": "Capital Markets",
   "upstream": [
+    "NASDAQ and NYSE for market data feeds",
     "AMZN",
-    "Bloomberg (market data feeds)",
-    "Stripe (payment processing)",
-    "Plaid (account aggregation)",
-    "MSFT"
+    "Stripe for payment processing",
+    "Visa and Mastercard for transaction processing",
+    "Bloomberg and Refinitiv for financial data"
   ],
   "downstream": [
-    "Retail investors in the United States",
-    "High‑frequency traders using the platform",
-    "Institutional clients via Robinhood Institutional",
-    "Crypto traders using Robinhood Crypto",
-    "Options traders using Robinhood Options"
+    "Retail investors using the Robinhood app",
+    "Institutional clients accessing advanced trading tools",
+    "Crypto traders using the Robinhood crypto platform",
+    "High‑frequency traders using Robinhood Gold",
+    "Cash management customers using Robinhood Cash"
   ],
   "competitors": [
+    "eToro",
+    "Webull",
+    "Fidelity",
     "Charles Schwab",
-    "TD Ameritrade",
-    "E*TRADE",
-    "Fidelity Investments",
-    "Webull"
+    "E*TRADE"
   ],
   "key_products": [
     "Commission‑free stock and ETF trading",
-    "Options trading platform",
+    "Margin trading via Robinhood Gold",
     "Cryptocurrency trading",
     "Cash management and interest‑earning accounts",
-    "Premium subscription (Robinhood Gold)"
+    "Advanced trading tools and market data"
   ],
-  "extracted_at": "2026-04-30 17:13:31",
+  "extracted_at": "2026-05-01 16:52:05",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/HOOD-Suppliers",
+      "url": "https://en.wikipedia.org/wiki/Robinhood_Markets",
       "query": "Robinhood Markets, Inc. suppliers manufacturers",
-      "snippet": "Feb 28, 2026 · For your research, we’ve provided nine additional tables on Robinhood Markets Inc ’s suppliers . You can find them in the navigation me"
+      "snippet": "Robinhood Markets , Inc . is an American financial services company based in Menlo Park, California. It provides an electronic trading platform that f"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://investors.robinhood.com/",
+      "url": "https://robinhood.com/us/en/about/",
       "query": "Robinhood Markets, Inc. suppliers manufacturers",
-      "snippet": "Mar 31, 2026 · Robinhood Markets , Inc . Investor relations (IR) website contains information about our business for stockholders, potential investors"
+      "snippet": "Trade stocks on Robinhood with commission-free investing & advanced trading tools. Access fractional shares, real-time market data, and more."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://investingintheweb.com/brokers/robinhood-statistics/",
+      "url": "https://en.wikipedia.org/wiki/Robinhood_Markets",
       "query": "Robinhood Markets, Inc. major customers clients",
-      "snippet": "Apr 7, 2026 · The platform has gained a massive customer base in the US, making it a major disruptor in the finance industry. In this article, we’ll e"
+      "snippet": "Robinhood Markets , Inc . is an American financial services company based in Menlo Park, California. It provides an electronic trading platform that f"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://investors.robinhood.com/",
+      "url": "https://www.consumersadvocate.org/online-stock-brokers/c/robinhood-markets-online-stock-brokerage",
       "query": "Robinhood Markets, Inc. major customers clients",
-      "snippet": "Mar 31, 2026 · Robinhood Markets , Inc . Investor relations (IR) website contains information about our business for stockholders, potential investors"
+      "snippet": "Robinhood Market , Inc , simply known as Robinhood , is a financial services company, headquartered in Menlo Park, California. The company’s platform "
     }
   ]
 }

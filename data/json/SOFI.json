@@ -3,11 +3,35 @@
   "company_name": "SoFi Technologies, Inc.",
   "sector": "Financial Services",
   "industry": "Credit Services",
-  "upstream": [],
-  "downstream": [],
-  "competitors": [],
-  "key_products": [],
-  "extracted_at": "2026-04-30 17:17:03",
+  "upstream": [
+    "AMZN",
+    "Data analytics vendors",
+    "Payment processors (e.g., Stripe)",
+    "Regulatory compliance vendors",
+    "Cybersecurity firms"
+  ],
+  "downstream": [
+    "Individual consumers seeking loans",
+    "Students refinancing loans",
+    "Homebuyers seeking mortgages",
+    "Small business borrowers",
+    "Investors using SoFi Invest"
+  ],
+  "competitors": [
+    "LendingClub",
+    "Upstart",
+    "Marcus by Goldman Sachs",
+    "Credit Karma",
+    "Chime"
+  ],
+  "key_products": [
+    "Student loan refinancing",
+    "Personal loans",
+    "Mortgage loans",
+    "Credit cards",
+    "Investment platform (SoFi Invest)"
+  ],
+  "extracted_at": "2026-05-01 16:56:26",
   "sources": [
     {
       "source": "Wikipedia",
@@ -17,15 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/SOFI-Suppliers",
+      "url": "https://en.wikipedia.org/wiki/SoFi",
       "query": "SoFi Technologies, Inc. suppliers manufacturers",
-      "snippet": "Feb 19, 2026 · For your research, we’ve provided nine additional tables on Sofi Technologies Inc ’ s suppliers . You can find them in the navigation m"
+      "snippet": "SoFi Technologies , Inc . is an American financial technology company. Founded in 2011 by Stanford University students, it operates as a nationally ch"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.accio.com/business/sofi",
+      "url": "https://finance.yahoo.com/quote/SOFI/",
       "query": "SoFi Technologies, Inc. suppliers manufacturers",
-      "snippet": "Mar 4, 2026 · Discover top SOFI suppliers in sanitary napkins, fiber optics, and sofas . Get a detailed company analysis report with verified recommen"
+      "snippet": "SoFi Technologies , Inc . ( SOFI ). Time to buy SOFI ? SoFi Technologies , Inc . provides various financial services in the United States, Latin Ameri"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/SoFi",
+      "query": "SoFi Technologies, Inc. major customers clients",
+      "snippet": "SoFi Technologies , Inc . is an American financial technology company. Founded in 2011 by Stanford University students, it operates as a nationally ch"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://finance.yahoo.com/quote/SOFI/",
+      "query": "SoFi Technologies, Inc. major customers clients",
+      "snippet": "SoFi Technologies , Inc . ( SOFI ). Time to buy SOFI ? SoFi Technologies , Inc . provides various financial services in the United States, Latin Ameri"
     }
   ]
 }

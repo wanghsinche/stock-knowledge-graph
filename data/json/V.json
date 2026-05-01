@@ -4,34 +4,34 @@
   "sector": "Financial Services",
   "industry": "Credit Services",
   "upstream": [
-    "Chip manufacturers (e.g., NXP, STMicroelectronics)",
-    "Card production facilities (e.g., Gemalto, IDEMIA)",
-    "CSCO",
-    "MSFT",
-    "Security and compliance service providers (e.g., Symantec)"
+    "Card chip manufacturers (e.g., NXP Semiconductors)",
+    "Payment network infrastructure providers (e.g., Equinix)",
+    "ORCL",
+    "Security solutions providers (e.g., Symantec)",
+    "AMZN"
   ],
   "downstream": [
-    "Banking institutions (e.g., JPMorgan Chase, Bank of America)",
-    "Merchant acquirers (e.g., First Data, TSYS)",
-    "Card issuers (e.g., American Express, Capital One)",
-    "AMZN",
-    "Consumers (individual cardholders)"
+    "Banks and financial institutions issuing Visa cards",
+    "Merchants and retailers accepting Visa payments",
+    "Consumers using Visa cards",
+    "Payment processors (e.g., First Data)",
+    "AAPL"
   ],
   "competitors": [
     "Mastercard",
     "American Express",
-    "Discover Financial Services",
-    "JCB",
-    "UnionPay"
+    "Discover Financial",
+    "PayPal",
+    "Square"
   ],
   "key_products": [
     "VisaNet payment network",
-    "Visa credit cards",
-    "Visa debit cards",
-    "Visa prepaid cards",
-    "Visa Direct real-time payments"
+    "Visa Credit cards",
+    "Visa Debit cards",
+    "Visa Prepaid cards",
+    "Visa Mobile Wallet services"
   ],
-  "extracted_at": "2026-04-30 17:13:09",
+  "extracted_at": "2026-05-01 16:53:09",
   "sources": [
     {
       "source": "Wikipedia",
@@ -55,13 +55,13 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Visa_Inc.",
       "query": "Visa Inc. major customers clients",
-      "snippet": "Visa does not issue cards, extend credit, or set rates and fees for consumers ; rather, Visa provides financial institutions with Visa-branded payment"
+      "snippet": "Visa Inc . is an American multinational payment card services corporation headquartered in San Francisco, California."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://data.landbase.com/technology/visa/",
+      "url": "https://www.britannica.com/money/Visa-Inc",
       "query": "Visa Inc. major customers clients",
-      "snippet": "Aug 17, 2025 · Our Visa customers list is available for download and comes enriched with vital company specifics, including industry classification, o"
+      "snippet": "Visa Inc . is an international payment card services corporation established in 1958. It provides a variety of financial services in more than 200 cou"
     }
   ]
 }

@@ -7,19 +7,19 @@
     "TSM",
     "005930.KS",
     "GlobalFoundries",
-    "UMC",
-    "TSM"
+    "MU",
+    "SK Hynix"
   ],
   "downstream": [
     "DELL",
     "HPQ",
-    "Lenovo",
-    "AAPL",
+    "Lenovo Group",
+    "SONY",
     "MSFT"
   ],
   "competitors": [
-    "INTC",
     "NVDA",
+    "INTC",
     "QCOM",
     "AVGO",
     "005930.KS"
@@ -28,10 +28,10 @@
     "Ryzen CPUs",
     "EPYC CPUs",
     "Radeon GPUs",
-    "Xilinx FPGAs",
-    "SoCs"
+    "Radeon Instinct GPUs",
+    "Radeon Pro GPUs"
   ],
-  "extracted_at": "2026-04-30 17:09:38",
+  "extracted_at": "2026-05-01 16:46:35",
   "sources": [
     {
       "source": "Wikipedia",
@@ -53,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/AMD-Customers",
+      "url": "https://en.wikipedia.org/wiki/AMD",
       "query": "Advanced Micro Devices, Inc. major customers clients",
-      "snippet": "5 days ago · Focus of this report: Advanced Micro Devices Inc ’ s corporate clients . For your research, we’ve provided 9 tables on Advanced Micro Dev"
+      "snippet": "Advanced Micro Devices , Inc . Advanced Micro Devices , Inc . ( AMD ) is an American multinational semiconductor company headquartered in Santa Clara,"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.marketscreener.com/quote/stock/AMD-ADVANCED-MICRO-DEVICE-179387659/finances-segments/",
+      "url": "https://www.britannica.com/money/Advanced-Micro-Devices-Inc",
       "query": "Advanced Micro Devices, Inc. major customers clients",
-      "snippet": "6 days ago · Understand how activity and revenue gets distributed for AMD (Advanced Micro Devices ) (AMD). Ten-year segmentation history. The entire s"
+      "snippet": "Advanced Micro Devices , Inc . ( AMD ) is an American semiconductor designer and global supplier of computing and graphics technologies used in data c"
     }
   ]
 }

@@ -1,48 +1,48 @@
 ---
 ticker: COHR
 company: Coherent Corp.
-sector: Technology / Scientific & Technical Instruments
-industry: Optical Materials & Semiconductors
-extracted_at: 2026-04-30 17:16:16
-last_updated: 2026-04-30
+sector: Technology
+industry: Scientific & Technical Instruments
+extracted_at: 2026-05-01 16:54:11
+last_updated: 2026-05-01
 ---
 
 # COHR - Coherent Corp.
 
 ## 基本信息
 
-- **所属行业**: Technology / Scientific & Technical Instruments / Optical Materials & Semiconductors
-- **提取时间**: 2026-04-30 17:16:16
+- **所属行业**: Technology / Scientific & Technical Instruments
+- **提取时间**: 2026-05-01 16:54:11
 
 ## 产业链关系
 
 ### 上游供应商
-- [[II-VI Incorporated]]
-- [[Coherent Inc.]]
-- [[Lumentum Holdings]]
-- [[Coherent Materials]]
-- [[Optical Components Suppliers]]
+- [[Silica and optical glass suppliers]]
+- [[Chemical feedstock providers]]
+- [[AMAT]]
+- [[Photonic component suppliers]]
+- [[Metrology and testing equipment vendors]]
 
 ### 下游客户
-- [[Laser manufacturers]]
-- [[Semiconductor fabs]]
-- [[Pharmaceutical companies]]
-- [[Scientific instrument makers]]
-- [[Defense contractors]]
+- [[Laser manufacturers (e.g., Lumentum, Trumpf)]]
+- [[Scientific instrument companies (e.g., Thermo Fisher Scientific)]]
+- [[Defense and aerospace contractors (e.g., Lockheed Martin, Boeing)]]
+- [[INTC]]
+- [[Medical device manufacturers]]
 
 ### 竞争对手
-- [[Thorlabs]]
-- [[Edmund Optics]]
-- [[Spectra-Physics]]
+- [[II-VI Incorporated]]
 - [[Lumentum Holdings]]
-- [[Coherent Inc.]]
+- [[Trumpf GmbH + Co. KG]]
+- [[Coherent Inc. (pre‑acquisition entity)]]
+- [[Thorlabs, Inc.]]
 
 ### 核心产品
-- [[Laser diodes]]
-- [[Optical waveguides]]
+- [[Optical materials (fibers, waveguides, photonic crystals)]]
+- [[Semiconductor lasers and laser diodes]]
+- [[Optical components (lenses, mirrors, gratings)]]
 - [[Photonic integrated circuits]]
-- [[Optical fibers]]
-- [[Optical coatings]]
+- [[Laser systems for industrial and scientific use]]
 
 ## 数据来源
 
@@ -54,4 +54,4 @@ last_updated: 2026-04-30
 
 ## 元数据
 
-- **更新日期**: 2026-04-30
+- **更新日期**: 2026-05-01

@@ -3,8 +3,8 @@ ticker: CVNA
 company: Carvana Co.
 sector: Consumer Cyclical
 industry: Auto & Truck Dealerships
-extracted_at: 2026-04-30 17:13:41
-last_updated: 2026-04-30
+extracted_at: 2026-05-01 16:53:23
+last_updated: 2026-05-01
 ---
 
 # CVNA - Carvana Co.
@@ -12,46 +12,46 @@ last_updated: 2026-04-30
 ## 基本信息
 
 - **所属行业**: Consumer Cyclical / Auto & Truck Dealerships
-- **提取时间**: 2026-04-30 17:13:41
+- **提取时间**: 2026-05-01 16:53:23
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Used car dealers]]
-- [[Automobile auction houses (e.g., Manheim, ADESA)]]
-- [[Private vehicle sellers]]
-- [[Carvana's own vehicle acquisition team]]
-- [[Vehicle inspection partners]]
+- [[Ford Motor Company]]
+- [[General Motors]]
+- [[Toyota Motor Corporation]]
+- [[Honda Motor Co.]]
+- [[Nissan Motor Co.]]
 
 ### 下游客户
 - [[Individual consumers]]
-- [[Fleet customers (corporate fleets)]]
-- [[Carvana's delivery service]]
-- [[Online marketplace users]]
-- [[Financing customers]]
+- [[Fleet buyers (corporate fleets)]]
+- [[Rental companies]]
+- [[Car leasing firms]]
+- [[Private car sellers]]
 
 ### 竞争对手
 - [[CarMax]]
 - [[Vroom]]
 - [[Shift]]
 - [[AutoTrader]]
-- [[CarGurus]]
+- [[Cox Automotive]]
 
 ### 核心产品
 - [[Online used car marketplace]]
-- [[Car Vending Machines]]
-- [[Vehicle financing and leasing]]
-- [[Carvana's delivery service]]
+- [[Vehicle delivery and pickup services]]
+- [[Financing and leasing options]]
+- [[Carvana Vending Machines]]
 - [[Vehicle inspection and reconditioning]]
 
 ## 数据来源
 
 - [Carvana](https://en.wikipedia.org/wiki/Carvana_Co.)
-- [Carvana Co. suppliers manufacturers](https://en.wikipedia.org/wiki/Carvana)
-- [Carvana Co. suppliers manufacturers](https://csimarket.com/stocks/CVNA-Suppliers)
-- [Carvana Co. major customers clients](https://csimarket.com/stocks/CVNA-Customers)
-- [Carvana Co. major customers clients](https://www.forbes.com/sites/jefffromm/2025/03/19/carvana-disrupts-around-convenience-in-effort-to-build-brand-trust/)
+- [Carvana Co. suppliers manufacturers](https://www.carvana.com/)
+- [Carvana Co. suppliers manufacturers](https://finance.yahoo.com/quote/CVNA/)
+- [Carvana Co. major customers clients](https://en.wikipedia.org/wiki/Carvana)
+- [Carvana Co. major customers clients](https://www.carvana.com/)
 
 ## 元数据
 
-- **更新日期**: 2026-04-30
+- **更新日期**: 2026-05-01

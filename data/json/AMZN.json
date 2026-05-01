@@ -1,37 +1,37 @@
 {
   "ticker": "AMZN",
   "company_name": "Amazon.com, Inc.",
-  "sector": "Consumer Cyclical / Internet Retail",
-  "industry": "E-commerce / Cloud Computing",
+  "sector": "Consumer Cyclical",
+  "industry": "Internet Retail",
   "upstream": [
     "Book publishers",
-    "Electronics manufacturers",
-    "Clothing brands",
-    "Home goods suppliers",
-    "Third‑party sellers"
+    "AAPL",
+    "Apparel and footwear manufacturers",
+    "Consumer goods suppliers (e.g., Procter & Gamble)",
+    "Warehouse and logistics equipment suppliers"
   ],
   "downstream": [
-    "Individual consumers",
-    "Enterprise customers (AWS)",
-    "Government agencies",
-    "Small businesses",
-    "Media streaming clients"
+    "Individual consumers worldwide",
+    "AMZN",
+    "AMZN",
+    "AMZN",
+    "AMZN"
   ],
   "competitors": [
-    "Walmart",
-    "eBay",
-    "Alibaba",
-    "Shopify",
-    "Target"
+    "Walmart Inc.",
+    "Alibaba Group",
+    "eBay Inc.",
+    "Shopify Inc.",
+    "MSFT"
   ],
   "key_products": [
-    "Amazon.com marketplace",
-    "Amazon Web Services",
-    "Amazon Prime Video",
-    "Amazon Echo (Alexa)",
-    "Amazon Kindle"
+    "Amazon.com e‑commerce marketplace",
+    "Amazon Prime subscription services",
+    "Amazon Web Services (cloud computing)",
+    "Amazon Alexa and Echo devices",
+    "Amazon Kindle e‑readers"
   ],
-  "extracted_at": "2026-04-30 17:08:44",
+  "extracted_at": "2026-05-01 16:45:37",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,15 +41,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.thesellingguys.com/online-sourcing-buying-wholesalers-distributors/",
+      "url": "https://www.alibaba.com/",
       "query": "Amazon.com, Inc. suppliers manufacturers",
-      "snippet": "Mar 12, 2026 · Verified list of 200+ Amazon wholesalers , distributors, and trade shows, plus expert tips to set up accounts and master wholesale sour"
+      "snippet": "Find quality Manufacturers , Suppliers , Exporters, Importers, Buyers, Wholesalers, Products and Trade Leads from our award-winning International Trad"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://d39w7f4ix9f5s9.cloudfront.net/cb/19/77dfc5b441c892cd6e2be166ba70/final-amazon-supplier-list-2019-11-14-updated-1005am.pdf",
+      "url": "https://ir.aboutamazon.com/",
       "query": "Amazon.com, Inc. suppliers manufacturers",
-      "snippet": "Nov 14, 2019 · Our global teams work closely with suppliers to communicate our standards, and help suppliers build their capacity to provide safe and "
+      "snippet": "Amazon . com to Webcast First Quarter 2026 Financial Results Conference Call. Amazon . com , Inc . (NASDAQ: AMZN) today announced financial results fo"
     },
     {
       "source": "DuckDuckGo",

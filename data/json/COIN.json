@@ -4,34 +4,34 @@
   "sector": "Financial Services",
   "industry": "Financial Data & Stock Exchanges",
   "upstream": [
-    "Blockchain network nodes",
-    "Mining hardware providers",
-    "Cloud service providers (AWS, Azure)",
-    "Payment processors (Visa, Mastercard)",
-    "Data analytics vendors"
+    "AMZN",
+    "MSFT",
+    "GOOGL",
+    "Stripe",
+    "PayPal"
   ],
   "downstream": [
     "Retail cryptocurrency traders",
     "Institutional investors",
-    "Crypto merchants",
-    "DeFi platforms",
-    "Financial institutions"
+    "Crypto funds",
+    "Merchants accepting crypto payments",
+    "DeFi protocols"
   ],
   "competitors": [
     "Binance",
     "Kraken",
     "Gemini",
     "Bitstamp",
-    "eToro"
+    "FTX (formerly)"
   ],
   "key_products": [
-    "Coinbase Pro",
-    "Coinbase Wallet",
-    "Coinbase Custody",
-    "Coinbase Earn",
-    "Coinbase Prime"
+    "Cryptocurrency trading platform",
+    "Custody services",
+    "Staking and yield products",
+    "Crypto wallet",
+    "API and developer tools"
   ],
-  "extracted_at": "2026-04-29 17:23:33",
+  "extracted_at": "2026-05-01 16:55:33",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,13 +43,13 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Coinbase",
       "query": "Coinbase Global, Inc. suppliers manufacturers",
-      "snippet": "Coinbase Global , Inc . is an American cryptocurrency exchange. It was founded in 2012 by Brian Armstrong and Fred Ehrsam."
+      "snippet": "Coinbase Global , Inc . is an American cryptocurrency exchange.[4][5][6] It was founded in 2012 by Brian Armstrong and Fred Ehrsam.[1] Coinbase has ov"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://ru.wikipedia.org/wiki/Coinbase",
       "query": "Coinbase Global, Inc. suppliers manufacturers",
-      "snippet": "Coinbase Global , Inc . (бренд Coinbase ) — американская публичная компания, которая управляет онлайн-сервисом обмена цифровых валют (биржей криптовал"
+      "snippet": "Coinbase Global , Inc . Coinbase Global , Inc . (бренд Coinbase ) — американская публичная компания, которая управляет онлайн-сервисом обмена цифровых"
     },
     {
       "source": "DuckDuckGo",

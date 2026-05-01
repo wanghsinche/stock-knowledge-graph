@@ -7,14 +7,14 @@
     "TSM",
     "005930.KS",
     "GlobalFoundries",
-    "UMC",
-    "ASE Technology Holding"
+    "ASE Technology Holding",
+    "Amkor Technology"
   ],
   "downstream": [
     "DELL",
     "HPQ",
     "Lenovo Group",
-    "Acer Inc.",
+    "AAPL",
     "MSFT"
   ],
   "competitors": [
@@ -22,16 +22,16 @@
     "NVDA",
     "QCOM",
     "AVGO",
-    "005930.KS"
+    "TSM"
   ],
   "key_products": [
     "Intel Core processors",
     "Intel Xeon processors",
-    "Intel Optane memory",
-    "Intel Xe GPU",
-    "Intel FPGA (Stratix, Arria)"
+    "Intel Arc GPUs",
+    "Intel Ethernet controllers",
+    "Intel Optane memory"
   ],
-  "extracted_at": "2026-04-30 17:09:49",
+  "extracted_at": "2026-05-01 16:45:21",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/List_of_Intel_manufacturing_sites",
+      "url": "https://en.wikipedia.org/wiki/Intel",
       "query": "Intel Corporation suppliers manufacturers",
-      "snippet": "Intel is an American multinational corporation and technology company headquartered in Santa Clara, California. Processors are manufactured in semicon"
+      "snippet": "Intel Corporation is an American multinational technology company headquartered in Santa Clara, California. It designs, manufactures , and sells compu"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.intel.com/content/www/us/en/supplier/overview.html",
+      "url": "https://ru.wikipedia.org/wiki/Intel",
       "query": "Intel Corporation suppliers manufacturers",
-      "snippet": "Enter here for the most current announcements, guides, forms, information on technology, accounts payable, and training to effectively work as an Inte"
+      "snippet": "Делавэр: Intel Capital Corporation ; Intel Overseas Funding Corporation ; Intel Americas, Inc.; Intel Ireland Holdings (U.S.) LLC; Altera Corporation "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/INTC-Customers",
+      "url": "https://en.wikipedia.org/wiki/Intel",
       "query": "Intel Corporation major customers clients",
-      "snippet": "5 days ago · For your research, we’ve provided 9 tables on Intel Corporation corporate clients . You can find them in the navigation menu under Custom"
+      "snippet": "Intel Corporation is an American multinational technology company headquartered in Santa Clara, California. It designs, manufactures, and sells comput"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.intel.com/content/www/us/en/customer-spotlight/overview.html",
+      "url": "https://finance.yahoo.com/sectors/technology/articles/intel-lands-key-first-customer-for-14a-chip-tech-with-teslas-terafab-project-musk-says-222942947.html",
       "query": "Intel Corporation major customers clients",
-      "snippet": "Explore the Intel Customer Spotlight for the latest customer stories, case studies, and testimonials highlighting data-centric innovations."
+      "snippet": "The contract would mark Intel 's first major customer for the technology, a breakthrough for the chipmaker which has struggled to stand up its contrac"
     }
   ]
 }

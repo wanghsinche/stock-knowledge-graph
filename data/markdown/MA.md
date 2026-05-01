@@ -3,8 +3,8 @@ ticker: MA
 company: Mastercard Incorporated
 sector: Financial Services
 industry: Credit Services
-extracted_at: 2026-04-30 17:13:50
-last_updated: 2026-04-30
+extracted_at: 2026-05-01 16:54:29
+last_updated: 2026-05-01
 ---
 
 # MA - Mastercard Incorporated
@@ -12,46 +12,46 @@ last_updated: 2026-04-30
 ## 基本信息
 
 - **所属行业**: Financial Services / Credit Services
-- **提取时间**: 2026-04-30 17:13:50
+- **提取时间**: 2026-05-01 16:54:29
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Chip manufacturers (e.g., NXP, STMicroelectronics)]]
-- [[Payment network infrastructure providers]]
-- [[Software vendors for transaction processing]]
-- [[Security and fraud‑detection technology suppliers]]
-- [[Data center and cloud service providers]]
+- [[NXP Semiconductors]]
+- [[STMicroelectronics]]
+- [[Giesecke & Devrient]]
+- [[Crown]]
+- [[IBM]]
 
 ### 下游客户
-- [[Commercial banks and credit unions]]
-- [[Retail merchants and e‑commerce platforms]]
-- [[Card issuers (e.g., Visa, American Express)]]
-- [[Financial technology companies]]
-- [[End‑user consumers]]
+- [[JPMorgan Chase]]
+- [[Bank of America]]
+- [[Citigroup]]
+- [[Wells Fargo]]
+- [[HSBC]]
 
 ### 竞争对手
-- [[Visa Inc.]]
+- [[Visa]]
 - [[American Express]]
-- [[Discover Financial Services]]
-- [[JCB Co., Ltd.]]
+- [[Discover]]
+- [[JCB]]
 - [[UnionPay]]
 
 ### 核心产品
-- [[Global payment network (Mastercard Network)]]
-- [[Card issuance and management services]]
-- [[Transaction processing and settlement]]
-- [[Fraud detection and risk management solutions]]
-- [[Tokenization and contactless payment technologies]]
+- [[Payment network and transaction processing]]
+- [[EMV chip and contactless card technology]]
+- [[Fraud detection and risk management services]]
+- [[Tokenization and data security solutions]]
+- [[Mobile and digital payment platforms]]
 
 ## 数据来源
 
-- 
+- [Mastercard](https://en.wikipedia.org/wiki/Mastercard_Incorporated)
 - [Mastercard Incorporated suppliers manufacturers](https://en.wikipedia.org/wiki/Mastercard)
 - [Mastercard Incorporated suppliers manufacturers](https://ru.wikipedia.org/wiki/Mastercard)
 - [Mastercard Incorporated major customers clients](https://en.wikipedia.org/wiki/Mastercard)
-- [Mastercard Incorporated major customers clients](https://www.mastercard.com/global/en.html)
+- [Mastercard Incorporated major customers clients](https://umbrex.com/resources/company-profiles/mastercard/)
 
 ## 元数据
 
-- **更新日期**: 2026-04-30
+- **更新日期**: 2026-05-01

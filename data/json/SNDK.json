@@ -4,64 +4,64 @@
   "sector": "Technology",
   "industry": "Computer Hardware",
   "upstream": [
+    "TSM",
     "005930.KS",
-    "MU",
     "SK Hynix",
-    "Toshiba Memory",
-    "WDC"
+    "MU",
+    "INTC"
   ],
   "downstream": [
     "AAPL",
-    "005930.KS",
-    "DELL",
-    "HPQ",
-    "MSFT"
+    "MSFT",
+    "AMZN",
+    "GOOGL",
+    "DELL"
   ],
   "competitors": [
-    "005930.KS",
+    "Kingston Technology",
     "MU",
-    "SK Hynix",
-    "Toshiba Memory",
+    "Corsair",
+    "005930.KS",
     "WDC"
   ],
   "key_products": [
-    "NAND flash memory chips",
-    "Solid State Drives (SSDs)",
     "USB flash drives",
-    "SD and microSD cards",
-    "External portable SSDs"
+    "Memory cards",
+    "Solid-state drives (SSDs)",
+    "SD cards",
+    "MicroSD cards"
   ],
-  "extracted_at": "2026-04-30 17:10:10",
+  "extracted_at": "2026-05-01 16:44:15",
   "sources": [
     {
       "source": "Wikipedia",
-      "url": "",
-      "title": "",
-      "snippet": ""
+      "url": "https://en.wikipedia.org/wiki/Sandisk_Corporation",
+      "title": "Sandisk",
+      "snippet": "Sandisk Corporation is an American multinational computer semiconductor company based in Milpitas, California, that designs and manufactures flash memory products, including memory cards, USB flash dr"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/SanDisk",
+      "query": "Sandisk Corporation suppliers manufacturers",
+      "snippet": "1 week ago - In October 2005, SanDisk acquired Matrix Semiconductor. In July 2006, SanDisk acquired M-Systems. In May 2011, SanDisk acquired Pliant Te"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.sandisk.com/company/distributors",
+      "query": "Sandisk Corporation suppliers manufacturers",
+      "snippet": "Region · Loading Region · Country/Area · Loading Country/Area · Brand · Loading Brand · Distributors | Sandisk"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Sandisk",
-      "query": "Sandisk Corporation suppliers manufacturers",
-      "snippet": "Sandisk Corporation (formerly branded SanDisk ) is an American multinational computer semiconductor company based in Milpitas, California, that design"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://ru.wikipedia.org/wiki/SanDisk",
-      "query": "Sandisk Corporation suppliers manufacturers",
-      "snippet": "SanDisk — американская корпорация, занимавшаяся разработкой и производством носителей информации на базе флеш-памяти. Корпорация была основана в 1988 "
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://data.landbase.com/technology/sandisk/",
       "query": "Sandisk Corporation major customers clients",
-      "snippet": "Aug 17, 2025 · Our SanDisk customers list is available for download and comes enriched with vital company specifics, including industry classification"
+      "snippet": "Sandisk Corporation is an American multinational computer semiconductor company based in Milpitas, California, that designs and manufactures flash mem"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://enlyft.com/tech/products/sandisk",
+      "url": "https://www.sandisk.com/",
       "query": "Sandisk Corporation major customers clients",
-      "snippet": "Looking at SanDisk customers by industry, we find that Information Technology and Services (12%), Marketing and Advertising (8%), Computer Software (8"
+      "snippet": "Sandisk online store members receive free standard shipping on all eligible orders.New Sandisk Customers Sign Up and Save 10% Off. Explore the latest "
     }
   ]
 }

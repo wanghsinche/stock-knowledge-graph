@@ -4,64 +4,64 @@
   "sector": "Technology",
   "industry": "Semiconductors",
   "upstream": [
-    "TSM",
-    "005930.KS",
-    "SK Hynix",
-    "INTC",
-    "GlobalFoundries"
+    "ASML",
+    "AMAT",
+    "LRCX",
+    "Tokyo Electron",
+    "KLA"
   ],
   "downstream": [
-    "AAPL",
     "DELL",
     "HPQ",
     "Lenovo",
-    "AMZN"
+    "AAPL",
+    "005930.KS"
   ],
   "competitors": [
     "005930.KS",
     "SK Hynix",
-    "INTC",
     "WDC",
-    "Kioxia (formerly Toshiba Memory)"
+    "Netlist",
+    "GigaDevice"
   ],
   "key_products": [
     "DRAM",
-    "NAND Flash",
-    "3D NAND",
-    "Solid State Drives (SSDs)",
-    "Embedded Memory Solutions"
+    "NAND flash memory",
+    "SSDs",
+    "3D XPoint (Optane)",
+    "memory modules"
   ],
-  "extracted_at": "2026-04-30 17:09:03",
+  "extracted_at": "2026-05-01 16:45:07",
   "sources": [
     {
       "source": "Wikipedia",
-      "url": "",
-      "title": "",
-      "snippet": ""
+      "url": "https://en.wikipedia.org/wiki/Micron_Technology,_Inc.",
+      "title": "Micron Technology",
+      "snippet": "Micron Technology, Inc. is an American multinational semiconductor company that manufactures computer memory and computer data storage products, including dynamic random-access memory (DRAM), flash me"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/MU-Suppliers",
+      "url": "https://en.wikipedia.org/wiki/List_of_computer_hardware_manufacturers",
       "query": "Micron Technology, Inc. suppliers manufacturers",
-      "snippet": "Mar 20, 2026 · For your research, we’ve provided nine additional tables on Micron Technology Inc ’s suppliers . You can find them in the navigation me"
+      "snippet": "See also: Fabless manufacturing . Top x86 CPU manufacturers Inotera, bought by Micron . Intel (Intel 1103). Mostek. Mosel Vitelic Inc (ProMOS Technolo"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://thepartsdirect.com/microntechnology/distributors-and-vendors",
+      "url": "https://www.micron.com/",
       "query": "Micron Technology, Inc. suppliers manufacturers",
-      "snippet": "Micron provides a broad portfolio of memory and semiconductor solutions, including DRAM, NAND, NOR Flash, SSDs, and modules. Our advanced technology p"
+      "snippet": "Micron engineers advanced memory and storage solutions designed to meet the dynamic demands of industrial IoT and aerospace systems. Our technologies "
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://finance.yahoo.com/quote/MU/",
+      "query": "Micron Technology, Inc. major customers clients",
+      "snippet": "Find the latest Micron Technology , Inc . (MU) stock quote, history, news and other vital information to help you with your stock trading and investin"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.micron.com/",
       "query": "Micron Technology, Inc. major customers clients",
       "snippet": "Explore Micron Technology , leading in semiconductors with a broad range of performance-enhancing memory and storage solutions.Our technologies provid"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.youtube.com/channel/UCBqcI352Dc2ExKq1uSdwZvg",
-      "query": "Micron Technology, Inc. major customers clients",
-      "snippet": "With a relentless focus on our customers , technology leadership and manufacturing and operational excellence, Micron delivers a rich portfolio of hig"
     }
   ]
 }

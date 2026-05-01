@@ -3,8 +3,8 @@ ticker: V
 company: Visa Inc.
 sector: Financial Services
 industry: Credit Services
-extracted_at: 2026-04-30 17:13:09
-last_updated: 2026-04-30
+extracted_at: 2026-05-01 16:53:09
+last_updated: 2026-05-01
 ---
 
 # V - Visa Inc.
@@ -12,37 +12,37 @@ last_updated: 2026-04-30
 ## 基本信息
 
 - **所属行业**: Financial Services / Credit Services
-- **提取时间**: 2026-04-30 17:13:09
+- **提取时间**: 2026-05-01 16:53:09
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Chip manufacturers (e.g., NXP, STMicroelectronics)]]
-- [[Card production facilities (e.g., Gemalto, IDEMIA)]]
-- [[CSCO]]
-- [[MSFT]]
-- [[Security and compliance service providers (e.g., Symantec)]]
+- [[Card chip manufacturers (e.g., NXP Semiconductors)]]
+- [[Payment network infrastructure providers (e.g., Equinix)]]
+- [[ORCL]]
+- [[Security solutions providers (e.g., Symantec)]]
+- [[AMZN]]
 
 ### 下游客户
-- [[Banking institutions (e.g., JPMorgan Chase, Bank of America)]]
-- [[Merchant acquirers (e.g., First Data, TSYS)]]
-- [[Card issuers (e.g., American Express, Capital One)]]
-- [[AMZN]]
-- [[Consumers (individual cardholders)]]
+- [[Banks and financial institutions issuing Visa cards]]
+- [[Merchants and retailers accepting Visa payments]]
+- [[Consumers using Visa cards]]
+- [[Payment processors (e.g., First Data)]]
+- [[AAPL]]
 
 ### 竞争对手
 - [[Mastercard]]
 - [[American Express]]
-- [[Discover Financial Services]]
-- [[JCB]]
-- [[UnionPay]]
+- [[Discover Financial]]
+- [[PayPal]]
+- [[Square]]
 
 ### 核心产品
 - [[VisaNet payment network]]
-- [[Visa credit cards]]
-- [[Visa debit cards]]
-- [[Visa prepaid cards]]
-- [[Visa Direct real-time payments]]
+- [[Visa Credit cards]]
+- [[Visa Debit cards]]
+- [[Visa Prepaid cards]]
+- [[Visa Mobile Wallet services]]
 
 ## 数据来源
 
@@ -50,8 +50,8 @@ last_updated: 2026-04-30
 - [Visa Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/Visa_Inc.)
 - [Visa Inc. suppliers manufacturers](https://ru.wikipedia.org/wiki/Visa)
 - [Visa Inc. major customers clients](https://en.wikipedia.org/wiki/Visa_Inc.)
-- [Visa Inc. major customers clients](https://data.landbase.com/technology/visa/)
+- [Visa Inc. major customers clients](https://www.britannica.com/money/Visa-Inc)
 
 ## 元数据
 
-- **更新日期**: 2026-04-30
+- **更新日期**: 2026-05-01

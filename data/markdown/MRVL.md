@@ -3,8 +3,8 @@ ticker: MRVL
 company: Marvell Technology, Inc.
 sector: Technology
 industry: Semiconductors
-extracted_at: 2026-04-30 17:12:07
-last_updated: 2026-04-30
+extracted_at: 2026-05-01 16:51:49
+last_updated: 2026-05-01
 ---
 
 # MRVL - Marvell Technology, Inc.
@@ -12,46 +12,46 @@ last_updated: 2026-04-30
 ## 基本信息
 
 - **所属行业**: Technology / Semiconductors
-- **提取时间**: 2026-04-30 17:12:07
+- **提取时间**: 2026-05-01 16:51:49
 
 ## 产业链关系
 
 ### 上游供应商
-- [[TSM]]
-- [[005930.KS]]
-- [[GlobalFoundries]]
-- [[UMC]]
-- [[SMIC]]
+- [[AMAT]]
+- [[ASML]]
+- [[LRCX]]
+- [[Tokyo Electron]]
+- [[KLA Corporation]]
 
 ### 下游客户
+- [[AMZN]]
+- [[GOOGL]]
+- [[MSFT]]
+- [[AAPL]]
 - [[CSCO]]
-- [[DELL]]
-- [[Huawei]]
-- [[Nokia]]
-- [[005930.KS]]
 
 ### 竞争对手
 - [[AVGO]]
 - [[QCOM]]
 - [[INTC]]
-- [[MediaTek]]
-- [[NXP Semiconductors]]
+- [[NVDA]]
+- [[TXN]]
 
 ### 核心产品
-- [[Storage controllers]]
-- [[Ethernet controllers]]
-- [[Wi‑Fi modules]]
-- [[5G modems]]
-- [[Network processors]]
+- [[Storage controller chips]]
+- [[Ethernet and networking ASICs]]
+- [[Wi‑Fi and Bluetooth SoCs]]
+- [[5G modem solutions]]
+- [[Data center interconnect chips]]
 
 ## 数据来源
 
-- 
-- [Marvell Technology, Inc. suppliers manufacturers](https://www.marvell.com/company/sales.html)
-- [Marvell Technology, Inc. suppliers manufacturers](https://www.accio.com/business/marvell)
-- [Marvell Technology, Inc. major customers clients](https://csimarket.com/stocks/MRVL-Customers)
-- [Marvell Technology, Inc. major customers clients](https://pestel-analysis.com/blogs/target-market/marvell)
+- [Marvell Technology](https://en.wikipedia.org/wiki/Marvell_Technology,_Inc.)
+- [Marvell Technology, Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/Marvell_Technology)
+- [Marvell Technology, Inc. suppliers manufacturers](https://www.marvell.com/)
+- [Marvell Technology, Inc. major customers clients](https://www.marvell.com/)
+- [Marvell Technology, Inc. major customers clients](https://www.benzinga.com/news/24/04/38224114/marvell-tech-set-for-major-growth-with-ai-accelerators-for-amazon-google-and-potential-microsoft-dea)
 
 ## 元数据
 
-- **更新日期**: 2026-04-30
+- **更新日期**: 2026-05-01

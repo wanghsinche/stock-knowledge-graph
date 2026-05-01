@@ -3,8 +3,8 @@ ticker: BE
 company: Bloom Energy Corporation
 sector: Industrials
 industry: Electrical Equipment & Parts
-extracted_at: 2026-04-30 17:11:23
-last_updated: 2026-04-30
+extracted_at: 2026-05-01 16:50:11
+last_updated: 2026-05-01
 ---
 
 # BE - Bloom Energy Corporation
@@ -12,46 +12,46 @@ last_updated: 2026-04-30
 ## 基本信息
 
 - **所属行业**: Industrials / Electrical Equipment & Parts
-- **提取时间**: 2026-04-30 17:11:23
+- **提取时间**: 2026-05-01 16:50:11
 
 ## 产业链关系
 
 ### 上游供应商
-- [[CAT]]
-- [[Ceramic material manufacturers]]
-- [[Fuel cell stack component suppliers]]
-- [[Natural gas suppliers]]
+- [[Platinum and iridium suppliers]]
+- [[Nickel and ceramic component manufacturers]]
+- [[Natural gas and biogas suppliers]]
 - [[Hydrogen production equipment suppliers]]
+- [[Power electronics and control system vendors]]
 
 ### 下游客户
 - [[AMZN]]
 - [[MSFT]]
 - [[GOOGL]]
-- [[Telecom infrastructure providers]]
-- [[Hospital networks]]
+- [[Hospitals and healthcare facilities]]
+- [[Manufacturing plants (e.g., automotive, semiconductor)]]
 
 ### 竞争对手
 - [[FuelCell Energy]]
-- [[NRG Energy]]
 - [[PowerCell]]
-- [[Enel Green Power]]
-- [[Siemens Energy]]
+- [[Plug Power]]
+- [[Bloom Energy's own internal R&D teams]]
+- [[Other distributed generation providers (e.g., Enphase, SunPower)]]
 
 ### 核心产品
-- [[Solid Oxide Fuel Cells]]
-- [[Electrolyzers]]
-- [[Onsite Power Generation Systems]]
-- [[Fuel Cell Stacks]]
-- [[Hydrogen Production Equipment]]
+- [[Solid Oxide Fuel Cells (SOFC) for on‑site power generation]]
+- [[Electrolyzers for hydrogen production]]
+- [[Integrated on‑site power systems for data centers]]
+- [[Hybrid fuel cell and battery solutions]]
+- [[Power management and control software]]
 
 ## 数据来源
 
 - [Bloom Energy](https://en.wikipedia.org/wiki/Bloom_Energy_Corporation)
-- [Bloom Energy Corporation suppliers manufacturers](https://www.bloomenergy.com/supplychain/)
-- [Bloom Energy Corporation suppliers manufacturers](https://www.trademo.com/companies/bloom-energy-corporation/3748935)
+- [Bloom Energy Corporation suppliers manufacturers](https://umbrex.com/resources/company-profiles/bloom-energy/)
+- [Bloom Energy Corporation suppliers manufacturers](https://www.bloomenergy.com/)
 - [Bloom Energy Corporation major customers clients](https://www.bloomenergy.com/)
-- [Bloom Energy Corporation major customers clients](https://www.fool.com/investing/2025/01/24/should-you-buy-bloom-energy-stock-while-its-around/)
+- [Bloom Energy Corporation major customers clients](https://umbrex.com/resources/company-profiles/bloom-energy/)
 
 ## 元数据
 
-- **更新日期**: 2026-04-30
+- **更新日期**: 2026-05-01

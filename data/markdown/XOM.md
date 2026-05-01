@@ -3,8 +3,8 @@ ticker: XOM
 company: Exxon Mobil Corporation
 sector: Energy
 industry: Oil & Gas Integrated
-extracted_at: 2026-04-30 17:15:41
-last_updated: 2026-04-30
+extracted_at: 2026-05-01 16:51:21
+last_updated: 2026-05-01
 ---
 
 # XOM - Exxon Mobil Corporation
@@ -12,41 +12,37 @@ last_updated: 2026-04-30
 ## 基本信息
 
 - **所属行业**: Energy / Oil & Gas Integrated
-- **提取时间**: 2026-04-30 17:15:41
+- **提取时间**: 2026-05-01 16:51:21
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Halliburton]]
-- [[Schlumberger]]
-- [[Baker Hughes]]
-- [[Weatherford]]
-- [[National Oilwell Varco]]
+- [[Crude oil producers]]
+- [[Natural gas producers]]
+- [[Petrochemical feedstock suppliers]]
+- [[Equipment manufacturers (drilling rigs, pipelines)]]
+- [[Service providers (maintenance, logistics)]]
 
 ### 下游客户
-- [[Automotive manufacturers]]
-- [[Airlines and aviation fuel suppliers]]
-- [[Petrochemical plants]]
+- [[Automotive sector (fuel consumers)]]
+- [[Industrial manufacturing (petrochemical users)]]
+- [[Transportation sector (aviation, shipping)]]
 - [[Retail fuel stations]]
-- [[Industrial refineries]]
+- [[Chemical manufacturers]]
 
 ### 竞争对手
-- [[Chevron]]
+- [[Chevron Corporation]]
 - [[Royal Dutch Shell]]
-- [[BP]]
+- [[BP plc]]
 - [[TotalEnergies]]
 - [[ConocoPhillips]]
 
 ### 核心产品
 - [[Crude oil]]
 - [[Natural gas]]
-- [[Gasoline]]
-- [[Diesel]]
-- [[Jet fuel]]
-- [[Lubricants]]
-- [[Petrochemicals]]
-- [[Plastics]]
-- [[Synthetic rubber]]
+- [[Petroleum products (gasoline, diesel, jet fuel)]]
+- [[Petrochemicals (ethylene, propylene)]]
+- [[Synthetic motor oils (Mobil 1)]]
 
 ## 数据来源
 
@@ -58,4 +54,4 @@ last_updated: 2026-04-30
 
 ## 元数据
 
-- **更新日期**: 2026-04-30
+- **更新日期**: 2026-05-01

@@ -3,8 +3,8 @@ ticker: MRNA
 company: Moderna, Inc.
 sector: Healthcare
 industry: Biotechnology
-extracted_at: 2026-04-30 17:17:59
-last_updated: 2026-04-30
+extracted_at: 2026-05-01 16:57:24
+last_updated: 2026-05-01
 ---
 
 # MRNA - Moderna, Inc.
@@ -12,46 +12,46 @@ last_updated: 2026-04-30
 ## 基本信息
 
 - **所属行业**: Healthcare / Biotechnology
-- **提取时间**: 2026-04-30 17:17:59
+- **提取时间**: 2026-05-01 16:57:24
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Nucleoside triphosphate suppliers]]
-- [[Lipid nanoparticle component manufacturers]]
-- [[Cell culture media producers]]
-- [[Enzyme and bioprocessing enzyme suppliers]]
-- [[Bioreactor and GMP equipment vendors]]
+- [[Nucleotides suppliers]]
+- [[Lipid nanoparticle manufacturers]]
+- [[Cell culture media suppliers]]
+- [[Enzyme suppliers]]
+- [[Plasmid and vector suppliers]]
 
 ### 下游客户
-- [[U.S. Department of Health and Human Services]]
-- [[Centers for Disease Control and Prevention (CDC)]]
-- [[World Health Organization (WHO)]]
-- [[National procurement agencies (e.g., UK NHS, German BfArM)]]
-- [[Major hospital and health system networks]]
+- [[Pharmaceutical companies]]
+- [[Government health agencies]]
+- [[Hospitals and clinics]]
+- [[Vaccine distributors]]
+- [[Retail pharmacies]]
 
 ### 竞争对手
-- [[Pfizer Inc.]]
-- [[BioNTech SE]]
+- [[BioNTech]]
+- [[CureVac]]
+- [[Translate Bio]]
+- [[Pfizer (mRNA division)]]
 - [[Johnson & Johnson]]
-- [[Novavax, Inc.]]
-- [[CureVac AG]]
 
 ### 核心产品
-- [[mRNA‑1273 (COVID‑19 vaccine)]]
-- [[mRNA‑1273.351 (variant booster)]]
-- [[mRNA‑1273.211 (variant booster)]]
-- [[mRNA‑4157 (cancer vaccine)]]
-- [[mRNA‑3704 (influenza vaccine)]]
+- [[Spikevax (COVID-19 vaccine)]]
+- [[mRNA-1273 (COVID-19 vaccine)]]
+- [[mRNA therapeutics platform]]
+- [[mRNA-based cancer vaccines]]
+- [[mRNA-based rare disease treatments]]
 
 ## 数据来源
 
 - 
-- [Moderna, Inc. suppliers manufacturers](https://modernadirect.com/authorized-distributor)
-- [Moderna, Inc. suppliers manufacturers](https://www.modernatx.com/en-US)
-- [Moderna, Inc. major customers clients](https://csimarket.com/stocks/MRNA-Customers)
-- [Moderna, Inc. major customers clients](https://portersfiveforce.com/blogs/target-market/moderna)
+- [Moderna, Inc. suppliers manufacturers](https://www.modernatx.com/about-us/our-story)
+- [Moderna, Inc. suppliers manufacturers](https://csimarket.com/stocks/segments_geo.php?code=MRNA)
+- [Moderna, Inc. major customers clients](https://www.marketresearch.com/GlobalData-v3648/Moderna-MRNA-Financial-Strategic-SWOT-37607329/)
+- [Moderna, Inc. major customers clients](https://www.finanznachrichten.de/nachrichten-2026-04/68256810-moderna-inc-moderna-announces-data-to-be-presented-at-2026-asco-annual-meeting-200.htm)
 
 ## 元数据
 
-- **更新日期**: 2026-04-30
+- **更新日期**: 2026-05-01

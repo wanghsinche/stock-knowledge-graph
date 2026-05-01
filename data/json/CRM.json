@@ -1,8 +1,8 @@
 {
   "ticker": "CRM",
   "company_name": "Salesforce, Inc.",
-  "sector": "Technology",
-  "industry": "Software - Application",
+  "sector": "Technology / Software - Application",
+  "industry": "Customer Relationship Management (CRM)",
   "upstream": [
     "AMZN",
     "MSFT",
@@ -11,33 +11,36 @@
     "IBM"
   ],
   "downstream": [
-    "Coca-Cola",
-    "Toyota",
-    "005930.KS",
+    "Coca‑Cola",
     "American Express",
-    "Nike"
+    "AT&T",
+    "Toyota",
+    "Walmart"
   ],
   "competitors": [
     "MSFT",
-    "ORCL",
     "SAP Customer Experience",
+    "ORCL",
     "HubSpot",
-    "ADBE"
+    "Zoho CRM"
   ],
   "key_products": [
     "Sales Cloud",
     "Service Cloud",
     "Marketing Cloud",
     "Commerce Cloud",
-    "Einstein AI"
+    "Einstein AI",
+    "Tableau",
+    "MuleSoft",
+    "Slack"
   ],
-  "extracted_at": "2026-04-30 17:14:02",
+  "extracted_at": "2026-05-01 16:52:35",
   "sources": [
     {
       "source": "Wikipedia",
-      "url": "",
-      "title": "",
-      "snippet": ""
+      "url": "https://en.wikipedia.org/wiki/Salesforce,_Inc.",
+      "title": "Salesforce",
+      "snippet": "Salesforce, Inc., is an American cloud-based software company headquartered in San Francisco, California. It provides software for sales, customer service, marketing automation, e-commerce, analytics,"
     },
     {
       "source": "DuckDuckGo",
@@ -53,15 +56,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.ibirdsservices.com/how-many-companies-use-salesforce-stats-growth-report/",
+      "url": "https://en.wikipedia.org/wiki/Salesforce",
       "query": "Salesforce, Inc. major customers clients",
-      "snippet": "Dec 26, 2025 · As of 2025, Salesforce is used by over 150,000 companies worldwide. Its customers include startups, mid-sized businesses, and more than"
+      "snippet": "Salesforce , Inc ., is an American cloud-based software company headquartered in San Francisco, California. It provides applications focused on sales "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.thomsondata.com/customer-base/salesforce-crm.php",
+      "url": "https://www.salesforce.com/",
       "query": "Salesforce, Inc. major customers clients",
-      "snippet": "The Salesforce customers list is a complied contact database of companies using Salesforce CRM. The list includes email addresses, phone numbers, loca"
+      "snippet": "Salesforce Enterprise-grade CRM with deep reporting, sales operations, and..."
     }
   ]
 }

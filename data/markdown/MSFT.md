@@ -3,8 +3,8 @@ ticker: MSFT
 company: Microsoft Corporation
 sector: Technology
 industry: Software - Infrastructure
-extracted_at: 2026-04-30 17:08:54
-last_updated: 2026-04-30
+extracted_at: 2026-05-01 16:45:50
+last_updated: 2026-05-01
 ---
 
 # MSFT - Microsoft Corporation
@@ -12,7 +12,7 @@ last_updated: 2026-04-30
 ## 基本信息
 
 - **所属行业**: Technology / Software - Infrastructure
-- **提取时间**: 2026-04-30 17:08:54
+- **提取时间**: 2026-05-01 16:45:50
 
 ## 产业链关系
 
@@ -24,34 +24,34 @@ last_updated: 2026-04-30
 - [[005930.KS]]
 
 ### 下游客户
-- [[United States Department of Defense]]
-- [[Fortune 500 enterprises]]
-- [[Government agencies worldwide]]
-- [[CAT]]
-- [[Individual consumers]]
+- [[Enterprise customers]]
+- [[Government agencies]]
+- [[DELL]]
+- [[Consumer users]]
+- [[Cloud customers]]
 
 ### 竞争对手
-- [[AAPL]]
 - [[GOOGL]]
 - [[AMZN]]
+- [[AAPL]]
 - [[ORCL]]
-- [[CRM]]
+- [[IBM]]
 
 ### 核心产品
-- [[Windows operating system]]
-- [[Microsoft Office suite]]
-- [[Azure cloud platform]]
-- [[Microsoft Teams]]
-- [[Surface hardware devices]]
+- [[Windows OS]]
+- [[Microsoft Office]]
+- [[Azure Cloud]]
+- [[Microsoft 365]]
+- [[Xbox]]
 
 ## 数据来源
 
 - [Microsoft](https://en.wikipedia.org/wiki/Microsoft_Corporation)
-- [Microsoft Corporation suppliers manufacturers](https://download.microsoft.com/download/F/3/8/F38AF681-EB3A-4645-A9C4-D4F31B8BA8F2/Microsoft+Top+100+Production+Suppliers.pdf)
-- [Microsoft Corporation suppliers manufacturers](https://www.microsoft.com/en-us/download/details.aspx?id=50426)
+- [Microsoft Corporation suppliers manufacturers](https://en.wikipedia.org/wiki/Microsoft)
+- [Microsoft Corporation suppliers manufacturers](https://www.alibaba.com/)
 - [Microsoft Corporation major customers clients](https://en.wikipedia.org/wiki/Microsoft)
 - [Microsoft Corporation major customers clients](https://businessaccount.microsoft.com/)
 
 ## 元数据
 
-- **更新日期**: 2026-04-30
+- **更新日期**: 2026-05-01

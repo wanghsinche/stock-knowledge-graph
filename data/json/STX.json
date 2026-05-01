@@ -1,37 +1,31 @@
 {
   "ticker": "STX",
   "company_name": "Seagate Technology Holdings plc",
-  "sector": "Technology / Computer Hardware",
-  "industry": "Computer Storage",
-  "upstream": [
-    "Toshiba",
-    "005930.KS",
-    "MU",
-    "SK Hynix",
-    "INTC"
-  ],
+  "sector": "Technology",
+  "industry": "Computer Hardware",
+  "upstream": [],
   "downstream": [
-    "AAPL",
     "MSFT",
     "AMZN",
     "GOOGL",
+    "AAPL",
     "DELL"
   ],
   "competitors": [
     "WDC",
     "Toshiba",
     "005930.KS",
-    "IBM",
-    "MU"
+    "MU",
+    "SK Hynix"
   ],
   "key_products": [
-    "Seagate HDDs",
-    "Seagate SSDs",
-    "Enterprise storage solutions",
-    "Data center drives",
-    "Portable external drives"
+    "Hard Disk Drives",
+    "Solid State Drives",
+    "Enterprise Storage Solutions",
+    "NAS Drives",
+    "Hybrid Drives"
   ],
-  "extracted_at": "2026-04-30 17:11:58",
+  "extracted_at": "2026-05-01 16:47:43",
   "sources": [
     {
       "source": "Wikipedia",
@@ -53,15 +47,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/STX-Customers",
+      "url": "https://en.wikipedia.org/wiki/Seagate_Technology",
       "query": "Seagate Technology Holdings plc major customers clients",
-      "snippet": "Seagate Technology Holdings Plc customers and markets, results by customer and performance relative to STX, by company and industry - CSIMarket"
+      "snippet": "Seagate Technology Holdings plc is an American data storage company. It was incorporated in 1978 as Shugart Technology and commenced business in 1979."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.appsruntheworld.com/customers-database/vendors/view/seagate-technology",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/seagate-technology-holdings-plc-stx-071101288.html",
       "query": "Seagate Technology Holdings plc major customers clients",
-      "snippet": "List of companies using or evaluating Seagate Technology applications, with details on their revenues, employees, industries, and locations."
+      "snippet": "Positive Points. Seagate Technology Holdings PLC (NASDAQ:STX) reported a 44% year-over-year revenue growth for the March quarter, highlighting strong "
     }
   ]
 }

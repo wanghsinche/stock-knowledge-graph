@@ -4,34 +4,36 @@
   "sector": "Communication Services",
   "industry": "Internet Content & Information",
   "upstream": [
+    "CSCO",
+    "DELL",
     "INTC",
-    "NVDA",
-    "AMD",
-    "QCOM",
-    "005930.KS"
+    "AMZN",
+    "MSFT"
   ],
   "downstream": [
-    "Advertisers (e.g., Coca‑Cola, Nike)",
-    "App developers",
-    "Content creators",
-    "Media companies",
-    "Businesses using Facebook Business Suite"
+    "Global advertisers (brands, agencies)",
+    "META",
+    "Content creators (video, photo, live streamers)",
+    "META",
+    "Media companies distributing content"
   ],
   "competitors": [
     "GOOGL",
     "AMZN",
     "AAPL",
     "MSFT",
-    "TikTok (ByteDance)"
+    "ByteDance Ltd. (TikTok)"
   ],
   "key_products": [
     "Facebook",
     "Instagram",
     "WhatsApp",
     "Messenger",
-    "Meta Ads"
+    "Threads",
+    "Manus",
+    "Meta Ads Platform"
   ],
-  "extracted_at": "2026-04-30 17:08:35",
+  "extracted_at": "2026-05-01 16:46:05",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +43,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Meta_Platforms",
+      "url": "https://www.meta.com/about/",
       "query": "Meta Platforms, Inc. suppliers manufacturers",
-      "snippet": "Meta Platforms , Inc . (doing business as Meta) is an American multinational technology company headquartered in Menlo Park, California. Meta owns and"
+      "snippet": "Learn more about Meta and stay updated on our role in social technology, virtual reality, augmented reality, and the future of human connection. Meta "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/META-Suppliers",
+      "url": "https://www.benzinga.com/general/entertainment/22/05/27485415/4-largest-acquisitions-by-facebook-oculus-instagram-and-more",
       "query": "Meta Platforms, Inc. suppliers manufacturers",
-      "snippet": "Mar 3, 2026 · Meta Platforms Inc supply chain, list and performance of Meta Platforms Incs ' suppliers - CSIMarket"
+      "snippet": "Since its founding in 2004, Meta Platforms Inc (NASDAQ: FB), formerly known as Facebook, has acquired roughly 94 companies. The corporation employs a "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Meta_Platforms",
+      "url": "https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lSbXBTQ0VSRnZHRmtUMjJQM3FTZ0FQAQ?hl=en-US&gl=US&ceid=US:en",
       "query": "Meta Platforms, Inc. major customers clients",
-      "snippet": "2 hours ago - Meta revenue surpassed analyst expectations for the first quarter of 2023 after announcing that it was increasing its focus on AI. On Ju"
+      "snippet": "Meta Platforms (NASDAQ: META ) Price Target Raised to $770.00 at Wells Fargo & Company. 1 hour ago.UBS Highlights Generative AI as Key Revenue Driver "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/META/profile/",
+      "url": "https://www.benzinga.com/general/entertainment/22/05/27485415/4-largest-acquisitions-by-facebook-oculus-instagram-and-more",
       "query": "Meta Platforms, Inc. major customers clients",
-      "snippet": "The FoA segment offers Facebook, which enables people to build community through feed, reels, stories, groups, marketplace, and other; Instagram that "
+      "snippet": "Since its founding in 2004, Meta Platforms Inc (NASDAQ: FB), formerly known as Facebook, has acquired roughly 94 companies. The corporation employs a "
     }
   ]
 }

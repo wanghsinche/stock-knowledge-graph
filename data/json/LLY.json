@@ -3,11 +3,35 @@
   "company_name": "Eli Lilly and Company",
   "sector": "Healthcare",
   "industry": "Drug Manufacturers - General",
-  "upstream": [],
-  "downstream": [],
-  "competitors": [],
-  "key_products": [],
-  "extracted_at": "2026-04-30 17:10:35",
+  "upstream": [
+    "Active pharmaceutical ingredient (API) suppliers",
+    "Contract manufacturing organizations (CMOs)",
+    "Biotech contract research organizations (CROs)",
+    "Chemical raw material suppliers",
+    "Packaging and labeling suppliers"
+  ],
+  "downstream": [
+    "Hospitals and health systems",
+    "Community and retail pharmacies",
+    "Health insurance providers",
+    "Government health agencies (e.g., Medicare, Medicaid)",
+    "International health ministries and NGOs"
+  ],
+  "competitors": [
+    "Pfizer Inc.",
+    "Johnson & Johnson",
+    "Merck & Co., Inc.",
+    "AbbVie Inc.",
+    "Amgen Inc."
+  ],
+  "key_products": [
+    "Humalog (insulin lispro)",
+    "Trulicity (dulaglutide)",
+    "Mounjaro (tirzepatide)",
+    "Basaglar (insulin glargine)",
+    "Zynlonta (belantamab mafodotin)"
+  ],
+  "extracted_at": "2026-05-01 16:48:11",
   "sources": [
     {
       "source": "Wikipedia",
@@ -26,6 +50,18 @@
       "url": "https://www.lilly.com/",
       "query": "Eli Lilly and Company suppliers manufacturers",
       "snippet": "Lilly is a medicine company that puts health above all. Learn about our medicines, view condition support, find care, and much more. Lilly employee wo"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/Eli_Lilly_and_Company",
+      "query": "Eli Lilly and Company major customers clients",
+      "snippet": "Eli Lilly and Company , doing business as Lilly , is an American multinational pharmaceutical company headquartered in Indianapolis, Indiana, with off"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.lilly.com/",
+      "query": "Eli Lilly and Company major customers clients",
+      "snippet": "Lilly is a medicine company that puts health above all. Learn about our medicines, view condition support, find care, and much more."
     }
   ]
 }
