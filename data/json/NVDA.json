@@ -7,15 +7,15 @@
     "TSM",
     "005930.KS",
     "GlobalFoundries",
-    "UMC",
-    "SMIC"
+    "MU",
+    "NVDA"
   ],
   "downstream": [
-    "SONY",
     "MSFT",
-    "DELL",
-    "TSLA",
-    "Mercedes-Benz"
+    "AMZN",
+    "GOOGL",
+    "AAPL",
+    "SONY"
   ],
   "competitors": [
     "AMD",
@@ -25,13 +25,13 @@
     "005930.KS"
   ],
   "key_products": [
-    "GeForce RTX GPUs",
+    "GeForce GPUs",
     "Quadro GPUs",
     "Tesla GPUs",
-    "DGX AI systems",
-    "Jetson AI platform"
+    "Jetson SoCs",
+    "CUDA API"
   ],
-  "extracted_at": "2026-05-01 16:44:38",
+  "extracted_at": "2026-05-04 17:21:55",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,15 +41,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Nvidia",
+      "url": "https://stocksandfuturestrading.com/the-complete-list-of-nvidias-suppliers-and-consumers/",
       "query": "NVIDIA Corporation suppliers manufacturers",
-      "snippet": "3 days ago - In August 2025, Nvidia ordered ... due to security concerns. The company directed suppliers including Taiwan Semiconductor Manufacturing "
+      "snippet": "Nov 22, 2024 · Trading Resources The Complete List Of Nvidia’s Suppliers And Consumers By Stocks & Futures Trading This is the most recently updated l"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.accio.com/supplier/nvidia-supplier-list",
+      "url": "https://csimarket.com/stocks/NVDA-Suppliers",
       "query": "NVIDIA Corporation suppliers manufacturers",
-      "snippet": "1 week ago - NVIDIA's key suppliers span various critical areas of semiconductor manufacturing and assembly. These include TSMC (Taiwan Semiconductor "
+      "snippet": "Feb 26, 2026 · We engage with independent subcontractors and contract manufacturers such as Hon Hai Precision Industry Co., Ltd., Wistron Corporation,"
     },
     {
       "source": "DuckDuckGo",
@@ -59,9 +59,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/news/nvidias-biggest-customers-095700428.html",
+      "url": "https://www.fool.com/investing/2024/05/02/who-are-nvidias-largest-customers/",
       "query": "NVIDIA Corporation major customers clients",
-      "snippet": "June 26, 2025 - Nvidia has amassed an impressive list of customers, which includes top AI developers like Amazon, Microsoft, and Alphabet . Nvidia's c"
+      "snippet": "May 2, 2024 - However, in its recent 10-K filing, the company did say that one customer represented 13% of its revenue from its compute and networking"
     }
   ]
 }

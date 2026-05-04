@@ -2,29 +2,36 @@
   "ticker": "IONQ",
   "company_name": "IonQ, Inc.",
   "sector": "Technology",
-  "industry": "Quantum Computing",
+  "industry": "Quantum Computing / Computer Hardware",
   "upstream": [
-    "Leading global automotive manufacturer"
+    "Leading global automotive manufacturer",
+    "Quantum component suppliers",
+    "Hardware component manufacturers",
+    "Software development partners",
+    "Research collaborators"
   ],
   "downstream": [
-    "Enterprise customers",
-    "Cloud service providers"
+    "Enterprise clients",
+    "Research institutions",
+    "Cloud service providers",
+    "Government agencies",
+    "Academic partners"
   ],
   "competitors": [
     "Rigetti Computing",
     "D-Wave Systems",
-    "IBM",
-    "GOOGL",
-    "Honeywell Quantum Solutions"
+    "Honeywell Quantum Solutions",
+    "Xanadu",
+    "Quantum Motion"
   ],
   "key_products": [
     "Trapped ion quantum computers",
-    "Quantum software",
-    "Quantum cloud access",
-    "Quantum circuit optimization software",
-    "Quantum hardware"
+    "Quantum software stack",
+    "Quantum circuit optimization tools",
+    "Cloud quantum computing services",
+    "Quantum hardware components"
   ],
-  "extracted_at": "2026-04-23 17:19:44",
+  "extracted_at": "2026-05-04 17:29:18",
   "sources": [
     {
       "source": "Wikipedia",
@@ -40,21 +47,21 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.gurufocus.com/news/1457319/ionqs-leading-trappedion-quantum-hardware-now-available-on-google-cloud-marketplace",
+      "url": "https://www.fool.com/earnings/call-transcripts/2026/02/25/ionq-ionq-q4-2025-earnings-call-transcript/",
       "query": "IonQ, Inc. suppliers manufacturers",
-      "snippet": "IonQ , Inc . (“ IonQ ”), the leader in trapped-ion quantum computing, today announced that Google Cloud customers can purchase access to its quantum c"
+      "snippet": "IonQ , Inc . benefits from approximately 300 PhDs and 800 talented colleagues with advanced degrees, many of whom are household names in their fields."
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.ionq.com/",
       "query": "IonQ, Inc. major customers clients",
-      "snippet": "IonQ delivers trapped ion quantum computing systems, cloud access, and enterprise solutions for real-world quantum applications.Quantum solutions to y"
+      "snippet": "IonQ delivers trapped ion quantum computing systems, cloud access, and enterprise solutions for real-world quantum applications.System applications. Q"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.cnbc.com/quotes/IONQ",
+      "url": "https://www.fool.com/investing/2026/04/28/can-ionq-stock-turn-10000-into-100000-this-decade/",
       "query": "IonQ, Inc. major customers clients",
-      "snippet": "IONQ : IONQ Inc - Stock Price, Quote and News - CNBC."
+      "snippet": "IonQ ( IONQ 5.11%) hit a major milestone in 2025, when it became the first pure-play quantum computing company to surpass $100 million in annual GAAP "
     }
   ]
 }

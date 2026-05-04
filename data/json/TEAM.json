@@ -3,29 +3,65 @@
   "company_name": "Atlassian Corporation",
   "sector": "Technology",
   "industry": "Software - Application",
-  "upstream": [],
-  "downstream": [],
-  "competitors": [],
-  "key_products": [],
-  "extracted_at": "2026-05-01 16:50:43",
+  "upstream": [
+    "AMZN",
+    "MSFT",
+    "GOOGL",
+    "DELL",
+    "HPQ"
+  ],
+  "downstream": [
+    "Enterprise IT departments",
+    "Software development teams",
+    "Project management teams",
+    "Product teams",
+    "Customer support teams"
+  ],
+  "competitors": [
+    "MSFT",
+    "Slack",
+    "Asana",
+    "Monday.com",
+    "Notion"
+  ],
+  "key_products": [
+    "Jira",
+    "Confluence",
+    "Trello",
+    "Bitbucket",
+    "Opsgenie"
+  ],
+  "extracted_at": "2026-05-04 17:29:38",
   "sources": [
     {
       "source": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Atlassian_Corporation",
-      "title": "Atlassian",
-      "snippet": "Atlassian Corporation is an international proprietary software company that specialises in collaboration tools designed primarily for software development and project management. Founded in Sydney in "
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Atlassian",
-      "query": "Atlassian Corporation suppliers manufacturers",
-      "snippet": "Founded in Sydney in 2002 and domiciled in the United States since 2022 as Atlassian Corporation Plc., the company is globally headquartered in Sydney"
+      "url": "",
+      "title": "",
+      "snippet": ""
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.atlassian.com/",
       "query": "Atlassian Corporation suppliers manufacturers",
       "snippet": "Atlassian 's team collaboration software like Jira, Confluence and Trello help teams organize, discuss, and complete shared work."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/TEAM-Efficiency-Comparisons.html",
+      "query": "Atlassian Corporation suppliers manufacturers",
+      "snippet": "Atlassian 's Sales and Income per Employee, Receivables, Inventory and Asset Turnover Ratio compare toSoftware & Programming Industry, Technology Sect"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.atlassian.com/company/contact",
+      "query": "Atlassian Corporation major customers clients",
+      "snippet": "Customer Service Management. Customer experiences reimagined. Supercharge teamwork seamlessly. Jira • Confluence • Loom • Rovo.Connect thousands of ap"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://parameter.io/atlassian-corporation-team-stock-jumps-to-80-after-robust-revenue-growth-and-ai-momentum/",
+      "query": "Atlassian Corporation major customers clients",
+      "snippet": "Atlassian Corporation (TEAM) shares surged after hours to $80.44, gaining 17.28% following strong third-quarter results. Atlassian increased its custo"
     }
   ]
 }

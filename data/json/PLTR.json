@@ -4,34 +4,34 @@
   "sector": "Technology",
   "industry": "Software - Infrastructure",
   "upstream": [
-    "DELL",
-    "HPQ",
+    "AMZN",
+    "MSFT",
+    "ORCL",
     "IBM",
-    "INTC",
-    "NVDA"
+    "CSCO"
   ],
   "downstream": [
     "U.S. Department of Defense",
-    "INTC",
     "U.S. Department of Homeland Security",
-    "U.S. Department of Justice",
-    "U.S. Department of State"
+    "INTC",
+    "General Electric",
+    "Boeing"
   ],
   "competitors": [
     "Snowflake",
     "Databricks",
-    "MSFT",
-    "GOOGL",
-    "AWS Glue"
+    "Splunk",
+    "IBM",
+    "MSFT"
   ],
   "key_products": [
     "Palantir Foundry",
     "Palantir Gotham",
     "Palantir Apollo",
-    "Palantir Platform",
-    "Palantir Data Integration Suite"
+    "Palantir Helix",
+    "Palantir Platform APIs"
   ],
-  "extracted_at": "2026-05-01 16:47:28",
+  "extracted_at": "2026-05-04 17:23:12",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,15 +41,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Palantir",
+      "url": "https://csimarket.com/stocks/PLTR-Suppliers",
       "query": "Palantir Technologies Inc. suppliers manufacturers",
-      "snippet": "Palantir Technologies Inc . is an American publicly traded company that develops data integration and analytics platforms enabling government agencies"
+      "snippet": "Feb 19, 2026 · For your research, we’ve provided nine additional tables on Palantir Technologies Inc ’ s suppliers . You can find them in the navigati"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/PLTR/",
+      "url": "https://data.landbase.com/technology/palantir/",
       "query": "Palantir Technologies Inc. suppliers manufacturers",
-      "snippet": "Find the latest Palantir Technologies Inc . (PLTR) stock quote, history, news and other vital information to help you with your stock trading and inve"
+      "snippet": "Aug 17, 2025 · We have data on 1,479 companies that use Palantir . Our Palantir customers list is available for download and comes enriched with vital"
     },
     {
       "source": "DuckDuckGo",

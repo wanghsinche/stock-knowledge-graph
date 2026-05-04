@@ -1,37 +1,37 @@
 {
   "ticker": "AMZN",
   "company_name": "Amazon.com, Inc.",
-  "sector": "Consumer Cyclical",
-  "industry": "Internet Retail",
+  "sector": "Consumer Cyclical / Internet Retail",
+  "industry": "E-commerce, Cloud Computing, Digital Advertising, Streaming",
   "upstream": [
+    "Electronics manufacturers",
+    "Apparel and fashion suppliers",
     "Book publishers",
-    "AAPL",
-    "Apparel and footwear manufacturers",
-    "Consumer goods suppliers (e.g., Procter & Gamble)",
-    "Warehouse and logistics equipment suppliers"
+    "Third‑party sellers",
+    "Logistics and fulfillment partners"
   ],
   "downstream": [
-    "Individual consumers worldwide",
+    "Individual consumers",
+    "Small and medium businesses",
+    "Large enterprises using AWS",
     "AMZN",
-    "AMZN",
-    "AMZN",
-    "AMZN"
+    "Streaming subscribers (Prime Video, Music)"
   ],
   "competitors": [
-    "Walmart Inc.",
-    "Alibaba Group",
-    "eBay Inc.",
-    "Shopify Inc.",
+    "eBay",
+    "Walmart",
+    "Alibaba",
+    "Shopify",
     "MSFT"
   ],
   "key_products": [
-    "Amazon.com e‑commerce marketplace",
-    "Amazon Prime subscription services",
-    "Amazon Web Services (cloud computing)",
-    "Amazon Alexa and Echo devices",
-    "Amazon Kindle e‑readers"
+    "Amazon Marketplace",
+    "Amazon Prime",
+    "Amazon Web Services (AWS)",
+    "Amazon Advertising",
+    "Amazon Music & Prime Video"
   ],
-  "extracted_at": "2026-05-01 16:45:37",
+  "extracted_at": "2026-05-04 17:22:28",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.alibaba.com/",
+      "url": "https://d39w7f4ix9f5s9.cloudfront.net/cb/19/77dfc5b441c892cd6e2be166ba70/final-amazon-supplier-list-2019-11-14-updated-1005am.pdf",
       "query": "Amazon.com, Inc. suppliers manufacturers",
-      "snippet": "Find quality Manufacturers , Suppliers , Exporters, Importers, Buyers, Wholesalers, Products and Trade Leads from our award-winning International Trad"
+      "snippet": "Nov 14, 2019 · Our global teams work closely with suppliers to communicate our standards, and help suppliers build their capacity to provide safe and "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ir.aboutamazon.com/",
+      "url": "https://www.aboutamazon.com/news/retail/amazon-supply-chain-services-for-business",
       "query": "Amazon.com, Inc. suppliers manufacturers",
-      "snippet": "Amazon . com to Webcast First Quarter 2026 Financial Results Conference Call. Amazon . com , Inc . (NASDAQ: AMZN) today announced financial results fo"
+      "snippet": "17 hours ago · Any business can now move, store, and deliver everything from raw materials to finished products using the same supply chain that suppo"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ir.aboutamazon.com/",
+      "url": "https://capitaloneshopping.com/research/amazon-statistics/",
       "query": "Amazon.com, Inc. major customers clients",
-      "snippet": "Amazon . com to Webcast First Quarter 2026 Financial Results Conference Call. Amazon . com , Inc . (NASDAQ: AMZN) today announced financial results fo"
+      "snippet": "Mar 29, 2026 · Over 310 million global consumers shop on Amazon at least once a year. 2 million active selling partners have shops on Amazon. Independ"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.amazon.com/cart/add-to-cart/ref=dp_start-bbf_1_glance",
+      "url": "https://www.businessofapps.com/data/amazon-statistics/",
       "query": "Amazon.com, Inc. major customers clients",
-      "snippet": "The price and availability of items at Amazon . com are subject to change. The Cart is a temporary place to store a list of your items and reflects ea"
+      "snippet": "Mar 12, 2026 · Amazon is one of the most recognisable brands in the world, and the third largest by revenue. It was the fourth tech company to reach a"
     }
   ]
 }

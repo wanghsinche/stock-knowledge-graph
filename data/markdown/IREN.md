@@ -3,8 +3,8 @@ ticker: IREN
 company: IREN Limited
 sector: Financial Services
 industry: Capital Markets
-extracted_at: 2026-05-01 16:56:06
-last_updated: 2026-05-01
+extracted_at: 2026-05-04 17:26:10
+last_updated: 2026-05-04
 ---
 
 # IREN - IREN Limited
@@ -12,46 +12,46 @@ last_updated: 2026-05-01
 ## 基本信息
 
 - **所属行业**: Financial Services / Capital Markets
-- **提取时间**: 2026-05-01 16:56:06
+- **提取时间**: 2026-05-04 17:26:10
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Bloomberg L.P.]]
-- [[Refinitiv (Thomson Reuters)]]
-- [[AMZN]]
+- [[Cloud service providers (AWS, Azure)]]
+- [[Data vendors (Bloomberg, Refinitiv)]]
+- [[DELL]]
 - [[MSFT]]
-- [[GOOGL]]
+- [[Regulatory bodies (SEC, FCA)]]
 
 ### 下游客户
-- [[Retail investors]]
-- [[Institutional investors]]
-- [[Financial advisors]]
-- [[Wealth managers]]
-- [[Asset managers]]
+- [[Investment banks (JP Morgan, Goldman Sachs)]]
+- [[Asset managers (BlackRock, Vanguard)]]
+- [[Hedge funds (Bridgewater, Citadel)]]
+- [[AAPL]]
+- [[Retail investors via brokerage platforms]]
 
 ### 竞争对手
-- [[Interactive Brokers]]
-- [[Charles Schwab]]
-- [[TD Ameritrade]]
-- [[E*TRADE]]
-- [[Robinhood]]
+- [[Bloomberg L.P.]]
+- [[Refinitiv (Thomson Reuters)]]
+- [[FactSet]]
+- [[INTC]]
+- [[Moody's Analytics]]
 
 ### 核心产品
-- [[Online brokerage platform]]
-- [[Investment research & analytics]]
-- [[Portfolio management tools]]
-- [[Robo‑advisory services]]
-- [[Financial data feeds]]
+- [[Trading platform]]
+- [[Market data feeds]]
+- [[Risk analytics]]
+- [[Capital market solutions]]
+- [[Financial analytics]]
 
 ## 数据来源
 
 - 
 - [IREN Limited suppliers manufacturers](https://www.investing.com/equities/iris-energy)
-- [IREN Limited suppliers manufacturers](https://stockanalysis.com/stocks/iren/)
-- [IREN Limited major customers clients](https://www.tradingview.com/symbols/NASDAQ-IREN/forecast/)
-- [IREN Limited major customers clients](https://www.fool.com/investing/2025/09/01/is-iren-limited-stock-still-a-buy/)
+- [IREN Limited suppliers manufacturers](https://finviz.com/quote.ashx?t=IREN)
+- [IREN Limited major customers clients](https://csimarket.com/stocks/IREN-Customers)
+- [IREN Limited major customers clients](https://www.msn.com/en-us/money/topstocks/irens-ai-client-base-expands-is-growth-becoming-more-durable/ar-AA1T5bT4)
 
 ## 元数据
 
-- **更新日期**: 2026-05-01
+- **更新日期**: 2026-05-04

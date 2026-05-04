@@ -3,8 +3,8 @@ ticker: GE
 company: General Electric Company (GE Aerospace)
 sector: Industrials
 industry: Aerospace & Defense
-extracted_at: 2026-04-30 17:17:22
-last_updated: 2026-04-30
+extracted_at: 2026-05-04 17:28:55
+last_updated: 2026-05-04
 ---
 
 # GE - General Electric Company (GE Aerospace)
@@ -12,46 +12,46 @@ last_updated: 2026-04-30
 ## 基本信息
 
 - **所属行业**: Industrials / Aerospace & Defense
-- **提取时间**: 2026-04-30 17:17:22
+- **提取时间**: 2026-05-04 17:28:55
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Honeywell]]
-- [[Alcoa]]
-- [[Carpenter Technology]]
-- [[3M]]
-- [[Rockwell Collins]]
+- [[Alcoa (Aluminum)]]
+- [[Linde (Industrial gases)]]
+- [[Boeing (aircraft components)]]
+- [[Honeywell (Avionics)]]
+- [[United Technologies (components)]]
 
 ### 下游客户
-- [[United Airlines]]
-- [[Delta Air Lines]]
-- [[American Airlines]]
 - [[Boeing]]
 - [[Airbus]]
+- [[United Airlines]]
+- [[Delta Air Lines]]
+- [[U.S. Air Force]]
 
 ### 竞争对手
-- [[Pratt & Whitney]]
+- [[Pratt & Whitney (Raytheon)]]
 - [[Rolls‑Royce]]
 - [[Safran]]
-- [[Honeywell Aerospace]]
 - [[MTU Aero Engines]]
+- [[Honeywell Aerospace]]
 
 ### 核心产品
-- [[GE90]]
-- [[CF6]]
+- [[GE90 jet engine]]
+- [[CFM56]]
 - [[CF34]]
-- [[T700]]
-- [[T800]]
+- [[GE9X]]
+- [[GE F110]]
 
 ## 数据来源
 
 - [GE Aerospace](https://en.wikipedia.org/wiki/GE_Aerospace)
 - [GE Aerospace suppliers manufacturers](https://en.wikipedia.org/wiki/GE_Aerospace)
-- [GE Aerospace suppliers manufacturers](https://www.geaerospace.com/)
-- [GE Aerospace major customers clients](https://www.geaerospace.com/news/articles/midyear-musings-insights-our-customers)
-- [GE Aerospace major customers clients](https://www.aviationoutlook.com/p/ge-aerospace-company-analysis-outlook-report)
+- [GE Aerospace suppliers manufacturers](https://supplier.geaerospace.com/)
+- [GE Aerospace major customers clients](https://en.wikipedia.org/wiki/General_Electric)
+- [GE Aerospace major customers clients](https://www.morningstar.com/stocks/after-earnings-is-ge-aerospace-stock-buy-sell-or-fairly-valued-9)
 
 ## 元数据
 
-- **更新日期**: 2026-04-30
+- **更新日期**: 2026-05-04

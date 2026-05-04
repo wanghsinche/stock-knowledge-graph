@@ -5,39 +5,39 @@
   "industry": "Computer Hardware",
   "upstream": [
     "MU",
-    "Printed circuit board suppliers",
-    "Electronics component suppliers",
-    "Packaging and assembly providers",
-    "Supply chain logistics partners"
+    "SSD controller manufacturers (e.g., Silicon Motion, Phison)",
+    "Printed circuit board (PCB) suppliers",
+    "Packaging and assembly vendors",
+    "Component suppliers for HDD platters and motors"
   ],
   "downstream": [
-    "DELL",
+    "AAPL",
     "MSFT",
     "MSFT",
-    "Enterprise data center operators",
-    "AAPL"
+    "Data center operators and telecom providers",
+    "AMZN"
   ],
   "competitors": [
     "STX",
-    "Kioxia (formerly Toshiba Memory)",
+    "Toshiba (Kioxia)",
     "005930.KS",
-    "MU",
-    "IBM"
+    "INTC",
+    "SK Hynix (memory and storage)"
   ],
   "key_products": [
-    "Hard Disk Drives (HDDs)",
-    "Solid State Drives (SSDs)",
-    "External storage devices",
-    "Network Attached Storage (NAS) solutions",
-    "Enterprise storage controllers"
+    "Hard Disk Drives (HDDs) – 3.5\" and 2.5\"",
+    "Solid State Drives (SSDs) – SATA, NVMe, PCIe",
+    "External storage devices (portable drives, docking stations)",
+    "Network Attached Storage (NAS) systems",
+    "Enterprise storage solutions (RAID, cloud‑connected storage)"
   ],
-  "extracted_at": "2026-05-01 16:46:51",
+  "extracted_at": "2026-05-04 17:24:03",
   "sources": [
     {
       "source": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Western_Digital_Corporation",
-      "title": "Western Digital",
-      "snippet": "Western Digital Corporation, doing business as WD, is an American data storage company headquartered in San Jose, California. Established in 1970, the company is one of the world's largest manufacture"
+      "url": "",
+      "title": "",
+      "snippet": ""
     },
     {
       "source": "DuckDuckGo",
@@ -53,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Western_Digital",
+      "url": "https://www.marketscreener.com/quote/stock/WESTERN-DIGITAL-CORPORATI-10721582/finances-segments/",
       "query": "Western Digital Corporation major customers clients",
-      "snippet": "Western Digital Corporation , doing business as WD , is an American data storage company headquartered in San Jose, California. Established in 1970, t"
+      "snippet": "4 days ago · Understand how activity and revenue gets distributed for Western Digital Corporation (WDC). Ten-year segmentation history. The entire sto"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ru.wikipedia.org/wiki/Western_Digital",
+      "url": "https://csimarket.com/stocks/WDC-Customers",
       "query": "Western Digital Corporation major customers clients",
-      "snippet": "Western Digital Corporation (NASDAQ: WDC, по-русски «Вестерн Диджитал»[3]) — компания, производитель компьютерной электроники. Наиболее известна произ"
+      "snippet": "For your research, we’ve provided 9 tables on Western Digital Corporation corporate clients . You can find them in the navigation menu under Customers"
     }
   ]
 }

@@ -3,8 +3,8 @@ ticker: RKLB
 company: Rocket Lab Corporation
 sector: Industrials
 industry: Aerospace & Defense
-extracted_at: 2026-05-01 16:55:03
-last_updated: 2026-05-01
+extracted_at: 2026-05-04 17:29:06
+last_updated: 2026-05-04
 ---
 
 # RKLB - Rocket Lab Corporation
@@ -12,45 +12,45 @@ last_updated: 2026-05-01
 ## 基本信息
 
 - **所属行业**: Industrials / Aerospace & Defense
-- **提取时间**: 2026-05-01 16:55:03
+- **提取时间**: 2026-05-04 17:29:06
 
 ## 产业链关系
 
 ### 上游供应商
+- [[Aerojet Rocketdyne]]
 - [[Honeywell Aerospace]]
-- [[Thales Alenia Space]]
-- [[SolarEdge Technologies]]
-- [[Hexcel Corporation]]
-- [[SGL Group]]
+- [[Boeing]]
+- [[Lockheed Martin]]
+- [[SpaceX]]
 
 ### 下游客户
-- [[Planet Labs]]
+- [[NASA]]
+- [[U.S. Department of Defense]]
 - [[Planet]]
-- [[Research institutions]]
-- [[Government space agencies]]
-- [[Commercial satellite operators]]
+- [[Planet Labs]]
 
 ### 竞争对手
 - [[SpaceX]]
 - [[Blue Origin]]
-- [[Virgin Orbit]]
-- [[Astra]]
+- [[United Launch Alliance]]
+- [[Arianespace]]
 - [[Relativity Space]]
 
 ### 核心产品
-- [[Electron orbital launch vehicle]]
-- [[HASTE suborbital testbed]]
-- [[Neutron medium‑lift launch vehicle (in development)]]
-- [[Satellite components: star trackers, reaction wheels, solar panels, electric propulsion systems, software‑defined radios, composite structures, separation systems]]
+- [[Electron rocket]]
+- [[Electron launch vehicle]]
+- [[Electron launch services]]
+- [[Electron rocket engine]]
+- [[Electron payload integration]]
 
 ## 数据来源
 
-- [Rocket Lab](https://en.wikipedia.org/wiki/Rocket_Lab_Corporation)
+- 
 - [Rocket Lab Corporation suppliers manufacturers](https://rocketlabcorp.com/)
-- [Rocket Lab Corporation suppliers manufacturers](https://finviz.com/quote.ashx?t=RKLB)
+- [Rocket Lab Corporation suppliers manufacturers](https://finance.yahoo.com/markets/stocks/articles/rocket-lab-corporation-rklb-good-163456206.html)
 - [Rocket Lab Corporation major customers clients](https://rocketlabcorp.com/)
-- [Rocket Lab Corporation major customers clients](https://finviz.com/quote.ashx?t=RKLB)
+- [Rocket Lab Corporation major customers clients](https://www.fool.com/investing/2026/02/07/3-reasons-why-rocket-lab-stock-is-a-millionaire-ma/)
 
 ## 元数据
 
-- **更新日期**: 2026-05-01
+- **更新日期**: 2026-05-04

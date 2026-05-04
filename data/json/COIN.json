@@ -6,32 +6,32 @@
   "upstream": [
     "AMZN",
     "MSFT",
-    "GOOGL",
     "Stripe",
-    "PayPal"
+    "Plaid",
+    "Coinbase's own blockchain infrastructure"
   ],
   "downstream": [
     "Retail cryptocurrency traders",
     "Institutional investors",
-    "Crypto funds",
-    "Merchants accepting crypto payments",
-    "DeFi protocols"
+    "Crypto merchants",
+    "DeFi platforms",
+    "Payment processors"
   ],
   "competitors": [
     "Binance",
     "Kraken",
     "Gemini",
     "Bitstamp",
-    "FTX (formerly)"
+    "FTX (now defunct)"
   ],
   "key_products": [
     "Cryptocurrency trading platform",
     "Custody services",
-    "Staking and yield products",
-    "Crypto wallet",
-    "API and developer tools"
+    "Staking services",
+    "Wallet app",
+    "Coinbase Pro"
   ],
-  "extracted_at": "2026-05-01 16:55:33",
+  "extracted_at": "2026-05-04 17:26:20",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,15 +41,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Coinbase",
+      "url": "https://csimarket.com/stocks/COIN-Suppliers",
       "query": "Coinbase Global, Inc. suppliers manufacturers",
-      "snippet": "Coinbase Global , Inc . is an American cryptocurrency exchange.[4][5][6] It was founded in 2012 by Brian Armstrong and Fred Ehrsam.[1] Coinbase has ov"
+      "snippet": "Coinbase Global Inc supply chain, list and performance of Coinbase Global Incs ' suppliers - CSIMarket"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ru.wikipedia.org/wiki/Coinbase",
+      "url": "https://fintel.io/doc/sec-coinbase-global-inc-1679788-ex211-2023-february-21-19410-7597",
       "query": "Coinbase Global, Inc. suppliers manufacturers",
-      "snippet": "Coinbase Global , Inc . Coinbase Global , Inc . (бренд Coinbase ) — американская публичная компания, которая управляет онлайн-сервисом обмена цифровых"
+      "snippet": "Pursuant to Item 601 (b) (21) (ii) of Regulation S-K, the names of other subsidiaries of Coinbase Global , Inc . are omitted because, considered in th"
     },
     {
       "source": "DuckDuckGo",
@@ -59,9 +59,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/COIN/",
+      "url": "https://ru.wikipedia.org/wiki/Coinbase",
       "query": "Coinbase Global, Inc. major customers clients",
-      "snippet": "Find the latest Coinbase Global , Inc . (COIN) stock quote, history, news and other vital information to help you with your stock trading and investin"
+      "snippet": "Coinbase Global , Inc . (бренд Coinbase ) — американская публичная компания, которая управляет онлайн-сервисом обмена цифровых валют (биржей криптовал"
     }
   ]
 }

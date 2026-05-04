@@ -4,25 +4,25 @@
   "sector": "Communication Services",
   "industry": "Internet Content & Information",
   "upstream": [
-    "CSCO",
-    "DELL",
     "INTC",
-    "AMZN",
-    "MSFT"
+    "QCOM",
+    "NVDA",
+    "AMD",
+    "005930.KS"
   ],
   "downstream": [
-    "Global advertisers (brands, agencies)",
-    "META",
-    "Content creators (video, photo, live streamers)",
-    "META",
-    "Media companies distributing content"
+    "Advertisers (brands and agencies)",
+    "Media companies",
+    "Content creators",
+    "App developers",
+    "Enterprise customers"
   ],
   "competitors": [
     "GOOGL",
     "AMZN",
     "AAPL",
     "MSFT",
-    "ByteDance Ltd. (TikTok)"
+    "NVDA"
   ],
   "key_products": [
     "Facebook",
@@ -30,10 +30,9 @@
     "WhatsApp",
     "Messenger",
     "Threads",
-    "Manus",
-    "Meta Ads Platform"
+    "Meta Advertising Platform"
   ],
-  "extracted_at": "2026-05-01 16:46:05",
+  "extracted_at": "2026-05-04 17:23:04",
   "sources": [
     {
       "source": "Wikipedia",
@@ -49,21 +48,21 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.benzinga.com/general/entertainment/22/05/27485415/4-largest-acquisitions-by-facebook-oculus-instagram-and-more",
+      "url": "https://www.computerhope.com/comp/meta.htm",
       "query": "Meta Platforms, Inc. suppliers manufacturers",
-      "snippet": "Since its founding in 2004, Meta Platforms Inc (NASDAQ: FB), formerly known as Facebook, has acquired roughly 94 companies. The corporation employs a "
+      "snippet": "Before it was rebranded as Meta in October 2021, Meta was known as Facebook Inc . According to Zuckerberg, the name Meta emphasizes their focus on VR "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lSbXBTQ0VSRnZHRmtUMjJQM3FTZ0FQAQ?hl=en-US&gl=US&ceid=US:en",
+      "url": "https://www.insidermonkey.com/blog/is-meta-platforms-meta-trading-at-an-attractive-price-1744614/",
       "query": "Meta Platforms, Inc. major customers clients",
-      "snippet": "Meta Platforms (NASDAQ: META ) Price Target Raised to $770.00 at Wells Fargo & Company. 1 hour ago.UBS Highlights Generative AI as Key Revenue Driver "
+      "snippet": "Meta Platforms , Inc . (NASDAQ: META ) — Towards the end of March, Meta ’s stock price hit US$526 per share, a level that implies an enterprise value "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.benzinga.com/general/entertainment/22/05/27485415/4-largest-acquisitions-by-facebook-oculus-instagram-and-more",
+      "url": "https://www.meta.com/about/",
       "query": "Meta Platforms, Inc. major customers clients",
-      "snippet": "Since its founding in 2004, Meta Platforms Inc (NASDAQ: FB), formerly known as Facebook, has acquired roughly 94 companies. The corporation employs a "
+      "snippet": "Learn more about Meta and stay updated on our role in social technology, virtual reality, augmented reality, and the future of human connection. Meta "
     }
   ]
 }

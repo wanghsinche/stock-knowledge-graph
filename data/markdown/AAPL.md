@@ -3,8 +3,8 @@ ticker: AAPL
 company: Apple Inc.
 sector: Technology
 industry: Consumer Electronics
-extracted_at: 2026-05-01 16:44:51
-last_updated: 2026-05-01
+extracted_at: 2026-05-04 17:22:55
+last_updated: 2026-05-04
 ---
 
 # AAPL - Apple Inc.
@@ -12,7 +12,7 @@ last_updated: 2026-05-01
 ## 基本信息
 
 - **所属行业**: Technology / Consumer Electronics
-- **提取时间**: 2026-05-01 16:44:51
+- **提取时间**: 2026-05-04 17:22:55
 
 ## 产业链关系
 
@@ -21,40 +21,36 @@ last_updated: 2026-05-01
 - [[Murata Manufacturing]]
 - [[Nichia]]
 - [[Nidec]]
-- [[TDK]]
 
 ### 下游客户
 - [[iPhone users]]
 - [[MacBook users]]
-- [[iPad users]]
 - [[AAPL]]
+- [[iPad users]]
 - [[AAPL]]
 
 ### 竞争对手
 - [[005930.KS]]
-- [[GOOGL]]
 - [[MSFT]]
-- [[AMZN]]
-- [[Huawei]]
+- [[GOOGL]]
+- [[SONY]]
+- [[DELL]]
 
 ### 核心产品
 - [[iPhone]]
-- [[MacBook]]
 - [[iPad]]
+- [[MacBook]]
 - [[Apple Watch]]
-- [[Apple TV]]
-- [[iOS]]
-- [[macOS]]
-- [[iCloud]]
+- [[AirPods]]
 
 ## 数据来源
 
-- [Apple Inc.](https://en.wikipedia.org/wiki/Apple_Inc.)
+- 
 - [Apple Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/Template:Apple_Inc._suppliers)
 - [Apple Inc. suppliers manufacturers](https://www.alibaba.com/)
 - [Apple Inc. major customers clients](https://en.wikipedia.org/wiki/Apple_Inc.)
-- [Apple Inc. major customers clients](https://247wallst.com/special-report/2012/04/30/american-companies-with-the-most-customers/)
+- [Apple Inc. major customers clients](https://www.nbcnews.com/business/business-news/american-companies-most-customers-flna752756)
 
 ## 元数据
 
-- **更新日期**: 2026-05-01
+- **更新日期**: 2026-05-04

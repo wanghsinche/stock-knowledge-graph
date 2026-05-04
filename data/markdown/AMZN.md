@@ -1,57 +1,57 @@
 ---
 ticker: AMZN
 company: Amazon.com, Inc.
-sector: Consumer Cyclical
-industry: Internet Retail
-extracted_at: 2026-05-01 16:45:37
-last_updated: 2026-05-01
+sector: Consumer Cyclical / Internet Retail
+industry: E-commerce, Cloud Computing, Digital Advertising, Streaming
+extracted_at: 2026-05-04 17:22:28
+last_updated: 2026-05-04
 ---
 
 # AMZN - Amazon.com, Inc.
 
 ## 基本信息
 
-- **所属行业**: Consumer Cyclical / Internet Retail
-- **提取时间**: 2026-05-01 16:45:37
+- **所属行业**: Consumer Cyclical / Internet Retail / E-commerce, Cloud Computing, Digital Advertising, Streaming
+- **提取时间**: 2026-05-04 17:22:28
 
 ## 产业链关系
 
 ### 上游供应商
+- [[Electronics manufacturers]]
+- [[Apparel and fashion suppliers]]
 - [[Book publishers]]
-- [[AAPL]]
-- [[Apparel and footwear manufacturers]]
-- [[Consumer goods suppliers (e.g., Procter & Gamble)]]
-- [[Warehouse and logistics equipment suppliers]]
+- [[Third‑party sellers]]
+- [[Logistics and fulfillment partners]]
 
 ### 下游客户
-- [[Individual consumers worldwide]]
+- [[Individual consumers]]
+- [[Small and medium businesses]]
+- [[Large enterprises using AWS]]
 - [[AMZN]]
-- [[AMZN]]
-- [[AMZN]]
-- [[AMZN]]
+- [[Streaming subscribers (Prime Video, Music)]]
 
 ### 竞争对手
-- [[Walmart Inc.]]
-- [[Alibaba Group]]
-- [[eBay Inc.]]
-- [[Shopify Inc.]]
+- [[eBay]]
+- [[Walmart]]
+- [[Alibaba]]
+- [[Shopify]]
 - [[MSFT]]
 
 ### 核心产品
-- [[Amazon.com e‑commerce marketplace]]
-- [[Amazon Prime subscription services]]
-- [[Amazon Web Services (cloud computing)]]
-- [[Amazon Alexa and Echo devices]]
-- [[Amazon Kindle e‑readers]]
+- [[Amazon Marketplace]]
+- [[Amazon Prime]]
+- [[Amazon Web Services (AWS)]]
+- [[Amazon Advertising]]
+- [[Amazon Music & Prime Video]]
 
 ## 数据来源
 
 - [Amazon (company)](https://en.wikipedia.org/wiki/Amazon.com,_Inc.)
-- [Amazon.com, Inc. suppliers manufacturers](https://www.alibaba.com/)
-- [Amazon.com, Inc. suppliers manufacturers](https://ir.aboutamazon.com/)
-- [Amazon.com, Inc. major customers clients](https://ir.aboutamazon.com/)
-- [Amazon.com, Inc. major customers clients](https://www.amazon.com/cart/add-to-cart/ref=dp_start-bbf_1_glance)
+- [Amazon.com, Inc. suppliers manufacturers](https://d39w7f4ix9f5s9.cloudfront.net/cb/19/77dfc5b441c892cd6e2be166ba70/final-amazon-supplier-list-2019-11-14-updated-1005am.pdf)
+- [Amazon.com, Inc. suppliers manufacturers](https://www.aboutamazon.com/news/retail/amazon-supply-chain-services-for-business)
+- [Amazon.com, Inc. major customers clients](https://capitaloneshopping.com/research/amazon-statistics/)
+- [Amazon.com, Inc. major customers clients](https://www.businessofapps.com/data/amazon-statistics/)
 
 ## 元数据
 
-- **更新日期**: 2026-05-01
+- **更新日期**: 2026-05-04

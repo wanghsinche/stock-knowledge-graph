@@ -5,33 +5,33 @@
   "industry": "Internet Content & Information",
   "upstream": [
     "INTC",
-    "NVDA",
     "QCOM",
     "005930.KS",
-    "TSM"
+    "TSM",
+    "NVDA"
   ],
   "downstream": [
     "GOOGL",
-    "Android device manufacturers",
+    "005930.KS",
     "GOOGL",
     "GOOGL",
     "YouTube content creators"
   ],
   "competitors": [
-    "MSFT",
-    "AMZN",
     "META",
+    "AMZN",
+    "MSFT",
     "AAPL",
     "Tencent"
   ],
   "key_products": [
     "Google Search",
     "YouTube",
-    "Android",
+    "Android OS",
     "Google Cloud Platform",
-    "Google Workspace"
+    "Google Ads"
   ],
-  "extracted_at": "2026-05-01 16:46:21",
+  "extracted_at": "2026-05-04 17:23:31",
   "sources": [
     {
       "source": "Wikipedia",
@@ -55,7 +55,7 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Alphabet_Inc.",
       "query": "Alphabet Inc. major customers clients",
-      "snippet": "Alphabet Inc . is an American multinational technology conglomerate holding company headquartered in Mountain View, California."
+      "snippet": "Alphabet Inc . is an American multinational technology conglomerate holding company headquartered in Mountain View, California. It was created through"
     },
     {
       "source": "DuckDuckGo",

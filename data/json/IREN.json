@@ -4,34 +4,34 @@
   "sector": "Financial Services",
   "industry": "Capital Markets",
   "upstream": [
-    "Bloomberg L.P.",
-    "Refinitiv (Thomson Reuters)",
-    "AMZN",
+    "Cloud service providers (AWS, Azure)",
+    "Data vendors (Bloomberg, Refinitiv)",
+    "DELL",
     "MSFT",
-    "GOOGL"
+    "Regulatory bodies (SEC, FCA)"
   ],
   "downstream": [
-    "Retail investors",
-    "Institutional investors",
-    "Financial advisors",
-    "Wealth managers",
-    "Asset managers"
+    "Investment banks (JP Morgan, Goldman Sachs)",
+    "Asset managers (BlackRock, Vanguard)",
+    "Hedge funds (Bridgewater, Citadel)",
+    "AAPL",
+    "Retail investors via brokerage platforms"
   ],
   "competitors": [
-    "Interactive Brokers",
-    "Charles Schwab",
-    "TD Ameritrade",
-    "E*TRADE",
-    "Robinhood"
+    "Bloomberg L.P.",
+    "Refinitiv (Thomson Reuters)",
+    "FactSet",
+    "INTC",
+    "Moody's Analytics"
   ],
   "key_products": [
-    "Online brokerage platform",
-    "Investment research & analytics",
-    "Portfolio management tools",
-    "Robo‑advisory services",
-    "Financial data feeds"
+    "Trading platform",
+    "Market data feeds",
+    "Risk analytics",
+    "Capital market solutions",
+    "Financial analytics"
   ],
-  "extracted_at": "2026-05-01 16:56:06",
+  "extracted_at": "2026-05-04 17:26:10",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,21 +47,21 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://stockanalysis.com/stocks/iren/",
+      "url": "https://finviz.com/quote.ashx?t=IREN",
       "query": "IREN Limited suppliers manufacturers",
-      "snippet": "A detailed overview of IREN Limited ( IREN ) stock, including real-time price, chart, key statistics, news, and more."
+      "snippet": "IREN Limited ( IREN ) Appoints John Gross as Chief Innovation Officer. IREN Ltd . is a vertically integrated data center business powering the future "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.tradingview.com/symbols/NASDAQ-IREN/forecast/",
+      "url": "https://csimarket.com/stocks/IREN-Customers",
       "query": "IREN Limited major customers clients",
-      "snippet": "IREN EPS for the last quarter is −0.52 USD despite the estimation of −0.11 USD. In the next quarter EPS is expected to reach −0.22 USD. Track more of "
+      "snippet": "Apr 15, 2026 · For your research, we’ve provided 9 tables on Iren Limited corporate clients . You can find them in the navigation menu under Customers"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.fool.com/investing/2025/09/01/is-iren-limited-stock-still-a-buy/",
+      "url": "https://www.msn.com/en-us/money/topstocks/irens-ai-client-base-expands-is-growth-becoming-more-durable/ar-AA1T5bT4",
       "query": "IREN Limited major customers clients",
-      "snippet": "Iren Limited ( IREN 1.03%) has emerged as one of the most explosive growth stories of 2025, with shares surging 221% over the past six months and 68% "
+      "snippet": "Beyond the highly visible $9.7 billion Microsoft AI cloud agreement, the company has added several multi-year AI cloud customers , including Together "
     }
   ]
 }

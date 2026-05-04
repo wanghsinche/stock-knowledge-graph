@@ -4,34 +4,34 @@
   "sector": "Industrials",
   "industry": "Aerospace & Defense",
   "upstream": [
-    "Honeywell",
-    "Alcoa",
-    "Carpenter Technology",
-    "3M",
-    "Rockwell Collins"
+    "Alcoa (Aluminum)",
+    "Linde (Industrial gases)",
+    "Boeing (aircraft components)",
+    "Honeywell (Avionics)",
+    "United Technologies (components)"
   ],
   "downstream": [
+    "Boeing",
+    "Airbus",
     "United Airlines",
     "Delta Air Lines",
-    "American Airlines",
-    "Boeing",
-    "Airbus"
+    "U.S. Air Force"
   ],
   "competitors": [
-    "Pratt & Whitney",
+    "Pratt & Whitney (Raytheon)",
     "Rolls‑Royce",
     "Safran",
-    "Honeywell Aerospace",
-    "MTU Aero Engines"
+    "MTU Aero Engines",
+    "Honeywell Aerospace"
   ],
   "key_products": [
-    "GE90",
-    "CF6",
+    "GE90 jet engine",
+    "CFM56",
     "CF34",
-    "T700",
-    "T800"
+    "GE9X",
+    "GE F110"
   ],
-  "extracted_at": "2026-04-30 17:17:22",
+  "extracted_at": "2026-05-04 17:28:55",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,21 +47,21 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.geaerospace.com/",
+      "url": "https://supplier.geaerospace.com/",
       "query": "GE Aerospace suppliers manufacturers",
-      "snippet": "2 days ago · GE Aerospace is a world-leading provider of jet and turboprop engines, as well as integrated systems for commercial, military, business a"
+      "snippet": "GE Aerospace supplier portal provides suppliers the ability to access information and enter business transactions in an online and secure environment."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.geaerospace.com/news/articles/midyear-musings-insights-our-customers",
+      "url": "https://en.wikipedia.org/wiki/General_Electric",
       "query": "GE Aerospace major customers clients",
-      "snippet": "Sep 8, 2025 · This year has sparked meaningful conversations about the future of aviation, while also prompting reflection on the progress we’ve made "
+      "snippet": "GE Aerospace , the aerospace company, is GE 's legal successor. GE HealthCare, the health technology company, was spun off from GE in 2023. GE is stil"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.aviationoutlook.com/p/ge-aerospace-company-analysis-outlook-report",
+      "url": "https://www.morningstar.com/stocks/after-earnings-is-ge-aerospace-stock-buy-sell-or-fairly-valued-9",
       "query": "GE Aerospace major customers clients",
-      "snippet": "Jan 7, 2026 · As the dominant player with substantial pricing power, GE Aerospace must balance short-term margin optimization against long-term custom"
+      "snippet": "GE Aerospace GE released its first-quarter earnings report on April 21. Here’s Morningstar’s take on GE Aerospace ’s earnings and stock. GE Aerospace "
     }
   ]
 }

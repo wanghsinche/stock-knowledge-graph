@@ -1,67 +1,67 @@
 {
   "ticker": "CRCL",
   "company_name": "Circle Internet Group, Inc.",
-  "sector": "Financial Services",
-  "industry": "Payments Technology / Stablecoin",
+  "sector": "Financial Services / Capital Markets",
+  "industry": "FinTech / Digital Payments",
   "upstream": [
+    "Payment processors (e.g., Visa, Mastercard)",
+    "Blockchain infrastructure providers (e.g., Ethereum, Solana)",
     "AMZN",
-    "Stripe (payment processing integration)",
-    "Coinbase (blockchain infrastructure partner)",
-    "MSFT",
-    "GOOGL"
+    "Regulatory compliance vendors (e.g., LexisNexis)",
+    "Security and fraud detection solutions (e.g., Kaspersky)"
   ],
   "downstream": [
-    "Coinbase (exchange platform)",
-    "Binance (exchange platform)",
-    "PayPal (payment processing)",
-    "Stripe (payment gateway)",
-    "Square (financial services)"
+    "Retail merchants",
+    "Cryptocurrency exchanges (e.g., Coinbase, Binance)",
+    "Institutional investors",
+    "Digital wallet users",
+    "Remittance service providers"
   ],
   "competitors": [
-    "Coinbase (stablecoin issuer)",
-    "Gemini (stablecoin issuer)",
-    "Binance (stablecoin issuer)",
-    "PayPal (stablecoin and payments)",
-    "Stripe (payments and stablecoin integration)"
+    "PayPal",
+    "Stripe",
+    "Square",
+    "Revolut",
+    "Coinbase"
   ],
   "key_products": [
-    "USDC (USD‑pegged stablecoin)",
-    "EURC (euro‑denominated stablecoin)",
-    "USYC (tokenized money‑market fund)",
-    "Circle Pay (payments app)",
-    "Circle Invest (investment platform)"
+    "Circle Pay",
+    "USDC stablecoin",
+    "Circle Invest",
+    "Crypto trading platform",
+    "Digital wallet"
   ],
-  "extracted_at": "2026-04-22 17:01:31",
+  "extracted_at": "2026-05-04 17:24:56",
   "sources": [
     {
       "source": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Circle_Internet_Group",
-      "title": "Circle Internet Group",
-      "snippet": "Circle is a payments technology company. Founded by Jeremy Allaire and Sean Neville in 2013, it is currently headquartered in New York City and issues two types of stablecoin: USDC, which has a conver"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://investor.circle.com/overview/default.aspx",
-      "query": "Circle Internet Group suppliers manufacturers",
-      "snippet": "Mar 17, 2026 · Circle Investor Relations Circle is a global financial technology firm that enables businesses of all sizes to harness the power of dig"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.financecharts.com/stocks/CRCL/profile",
-      "query": "Circle Internet Group suppliers manufacturers",
-      "snippet": "Circle Internet Group , Inc. is a financial technology company that enables businesses of all sizes to harness the power of digital currencies and pub"
+      "url": "",
+      "title": "",
+      "snippet": ""
     },
     {
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Circle_Internet_Group",
-      "query": "Circle Internet Group major customers clients",
+      "query": "Circle Internet Group suppliers manufacturers",
       "snippet": "Circle (legally Circle Internet Group , Inc.[2]) is a payments technology company. Founded by Jeremy Allaire and Sean Neville in 2013, [3][4] it is cu"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.appsruntheworld.com/customers-database/vendors/view/circle-internet-group",
+      "url": "https://www.circle.com/about-circle",
+      "query": "Circle Internet Group suppliers manufacturers",
+      "snippet": "Circle is creating a new internet financial system — one that’s reliable and accessible around the world. A full-stack platform including Arc, USDC, a"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.youtube.com/watch?v=tojlvtz0_mI",
       "query": "Circle Internet Group major customers clients",
-      "snippet": "List of companies using or evaluating Circle Internet Group applications, with details on their revenues, employees, industries, and locations."
+      "snippet": "Jeremy Allaire, Circle co-founder, chairman and CEO, joins 'Squawk Box' to discuss the company's quarterly earnings results, state of crypto, future o"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.fool.com/investing/2025/07/10/has-circle-internet-groups-stock-already-peaked/",
+      "query": "Circle Internet Group major customers clients",
+      "snippet": "Circle Internet Group went public in June and it has been one of the hottest stocks on the market. Investors are paying a steep premium for the stock,"
     }
   ]
 }

@@ -3,8 +3,8 @@ ticker: NBIS
 company: Nebius Group N.V.
 sector: Communication Services
 industry: Internet Content & Information
-extracted_at: 2026-05-01 16:49:40
-last_updated: 2026-05-01
+extracted_at: 2026-05-04 17:24:29
+last_updated: 2026-05-04
 ---
 
 # NBIS - Nebius Group N.V.
@@ -12,46 +12,46 @@ last_updated: 2026-05-01
 ## 基本信息
 
 - **所属行业**: Communication Services / Internet Content & Information
-- **提取时间**: 2026-05-01 16:49:40
+- **提取时间**: 2026-05-04 17:24:29
 
 ## 产业链关系
 
 ### 上游供应商
 - [[NVDA]]
-- [[INTC]]
-- [[AMD]]
-- [[MSFT]]
-- [[AMZN]]
+- [[Cloud infrastructure providers (e.g., AWS, Azure, GCP)]]
+- [[AI software vendors (e.g., OpenAI, Hugging Face)]]
+- [[Data center operators]]
+- [[Semiconductor suppliers]]
 
 ### 下游客户
-- [[Nasdaq‑listed ETFs]]
-- [[Institutional investors]]
-- [[Mutual funds]]
-- [[Hedge funds]]
-- [[Private equity firms]]
+- [[Federal government agencies]]
+- [[Enterprise customers in finance, healthcare, and retail]]
+- [[Research institutions and universities]]
+- [[Large technology firms requiring AI infrastructure]]
+- [[Public sector organizations in Europe and the US]]
 
 ### 竞争对手
-- [[OpenAI]]
+- [[NVDA]]
 - [[GOOGL]]
 - [[AMZN]]
 - [[MSFT]]
-- [[IBM]]
+- [[OpenAI]]
 
 ### 核心产品
-- [[Nebius AI infrastructure platform]]
-- [[Avride]]
-- [[TripleTen]]
-- [[Toloka]]
-- [[Clickhouse]]
+- [[Nebius AI Platform]]
+- [[Avride (AI training platform)]]
+- [[TripleTen (AI inference platform)]]
+- [[Toloka (crowdsourcing platform)]]
+- [[Clickhouse (columnar database)]]
 
 ## 数据来源
 
 - [Nebius Group](https://en.wikipedia.org/wiki/NBIS)
-- [NBIS suppliers manufacturers](https://en.wikipedia.org/wiki/Nebius_Group)
-- [NBIS suppliers manufacturers](https://csimarket.com/stocks/suppliers_glance.php?code=NBIS)
-- [NBIS major customers clients](https://www.nasdaq.com/market-activity/stocks/nbis)
-- [NBIS major customers clients](https://www.tradingview.com/symbols/NASDAQ-NBIS/ideas/page-2/)
+- [NBIS suppliers manufacturers](https://www.dcsa.mil/Systems-Applications/National-Background-Investigation-Services-NBIS/)
+- [NBIS suppliers manufacturers](https://csimarket.com/stocks/NBIS-Suppliers)
+- [NBIS major customers clients](https://historicaloptiondata.com/nbis-trading-analysis-04-27-2026-1041-am/)
+- [NBIS major customers clients](https://www.bloomberg.com/quote/NBIS:US)
 
 ## 元数据
 
-- **更新日期**: 2026-05-01
+- **更新日期**: 2026-05-04

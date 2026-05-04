@@ -3,29 +3,35 @@
   "company_name": "Seagate Technology Holdings plc",
   "sector": "Technology",
   "industry": "Computer Hardware",
-  "upstream": [],
+  "upstream": [
+    "TSM",
+    "Printed circuit board (PCB) suppliers",
+    "META",
+    "Electronics component suppliers (e.g., Vishay, Murata)",
+    "Precision machining and assembly suppliers"
+  ],
   "downstream": [
+    "DELL",
+    "DELL",
     "MSFT",
-    "AMZN",
-    "GOOGL",
     "AAPL",
-    "DELL"
+    "Data center operators and telecom companies"
   ],
   "competitors": [
     "WDC",
     "Toshiba",
     "005930.KS",
-    "MU",
-    "SK Hynix"
+    "IBM",
+    "MU"
   ],
   "key_products": [
-    "Hard Disk Drives",
-    "Solid State Drives",
-    "Enterprise Storage Solutions",
-    "NAS Drives",
-    "Hybrid Drives"
+    "Enterprise HDDs (e.g., 12.5\" and 7.2\" drives)",
+    "Consumer HDDs (e.g., 3.5\" and 2.5\" drives)",
+    "Solid State Drives (SSDs)",
+    "External storage solutions (e.g., portable drives, NAS devices)",
+    "Cloud storage infrastructure solutions"
   ],
-  "extracted_at": "2026-05-01 16:47:43",
+  "extracted_at": "2026-05-04 17:24:19",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,21 +47,21 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/news/seagate-technology-holdings-plc-faces-stock-underperformance-amidst-losses-but-future-outlook-looks-promising2024-08-07181730",
-      "query": "Seagate Technology Holdings plc suppliers manufacturers",
-      "snippet": "Seagate Technology Holdings Plc , a prominent technology company listed on the NASDAQ exchange under ticker code STX, experienced underperformance in "
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Seagate_Technology",
-      "query": "Seagate Technology Holdings plc major customers clients",
-      "snippet": "Seagate Technology Holdings plc is an American data storage company. It was incorporated in 1978 as Shugart Technology and commenced business in 1979."
-    },
-    {
-      "source": "DuckDuckGo",
       "url": "https://finance.yahoo.com/markets/stocks/articles/seagate-technology-holdings-plc-stx-071101288.html",
-      "query": "Seagate Technology Holdings plc major customers clients",
+      "query": "Seagate Technology Holdings plc suppliers manufacturers",
       "snippet": "Positive Points. Seagate Technology Holdings PLC (NASDAQ:STX) reported a 44% year-over-year revenue growth for the March quarter, highlighting strong "
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/STX-Customers",
+      "query": "Seagate Technology Holdings plc major customers clients",
+      "snippet": "For your research, we’ve provided 9 tables on Seagate Technology Holdings Plc corporate clients . You can find them in the navigation menu under Custo"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.appsruntheworld.com/customers-database/vendors/view/seagate-technology",
+      "query": "Seagate Technology Holdings plc major customers clients",
+      "snippet": "List of companies using or evaluating Seagate Technology applications, with details on their revenues, employees, industries, and locations."
     }
   ]
 }
