@@ -4,35 +4,36 @@
   "sector": "Communication Services",
   "industry": "Internet Content & Information",
   "upstream": [
-    "INTC",
-    "QCOM",
-    "NVDA",
-    "AMD",
-    "005930.KS"
+    "AR/VR hardware suppliers",
+    "Chip manufacturers",
+    "Cloud service providers",
+    "Content delivery network providers",
+    "Advertising technology vendors"
   ],
   "downstream": [
-    "Advertisers (brands and agencies)",
-    "Media companies",
-    "Content creators",
-    "App developers",
-    "Enterprise customers"
+    "Advertisers (brands & agencies)",
+    "Third‑party advertisers",
+    "Content creators & influencers",
+    "META",
+    "META"
   ],
   "competitors": [
-    "GOOGL",
-    "AMZN",
-    "AAPL",
+    "Twitter (X)",
+    "Snap Inc.",
+    "ByteDance (TikTok)",
     "MSFT",
-    "NVDA"
+    "Pinterest"
   ],
   "key_products": [
     "Facebook",
     "Instagram",
     "WhatsApp",
     "Messenger",
-    "Threads",
-    "Meta Advertising Platform"
+    "Meta Quest (VR/AR)",
+    "Meta Ads",
+    "Meta Business Suite"
   ],
-  "extracted_at": "2026-05-04 17:23:04",
+  "extracted_at": "2026-05-05 17:15:37",
   "sources": [
     {
       "source": "Wikipedia",
@@ -42,27 +43,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.meta.com/about/",
+      "url": "https://csimarket.com/stocks/META-Suppliers",
       "query": "Meta Platforms, Inc. suppliers manufacturers",
-      "snippet": "Learn more about Meta and stay updated on our role in social technology, virtual reality, augmented reality, and the future of human connection. Meta "
+      "snippet": "3 days ago · Meta Platforms Inc 's Suppliers recorded an increase in sales by 6.44 % year on year in Q1 2026, from the previous quarter, sales fell by"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.computerhope.com/comp/meta.htm",
+      "url": "https://www.suppliersmap.com/meta",
       "query": "Meta Platforms, Inc. suppliers manufacturers",
-      "snippet": "Before it was rebranded as Meta in October 2021, Meta was known as Facebook Inc . According to Zuckerberg, the name Meta emphasizes their focus on VR "
+      "snippet": "Meta Meta works with leading technology suppliers for its AR/VR products, including Qualcomm for advanced processors, Sony and other display manufactu"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.insidermonkey.com/blog/is-meta-platforms-meta-trading-at-an-attractive-price-1744614/",
+      "url": "https://en.wikipedia.org/wiki/Meta_Platforms",
       "query": "Meta Platforms, Inc. major customers clients",
-      "snippet": "Meta Platforms , Inc . (NASDAQ: META ) — Towards the end of March, Meta ’s stock price hit US$526 per share, a level that implies an enterprise value "
+      "snippet": "Meta owns and operates several prominent social media platforms and communication services, including Facebook, Instagram, WhatsApp, Messenger, Thread"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.meta.com/about/",
+      "url": "https://www.statista.com/topics/9038/meta-platforms/?srsltid=AfmBOoownzFZlZ-dGmmlok1K0Bm1Vr7wYhQU7kNRI100viCEe1Eb3ndT",
       "query": "Meta Platforms, Inc. major customers clients",
-      "snippet": "Learn more about Meta and stay updated on our role in social technology, virtual reality, augmented reality, and the future of human connection. Meta "
+      "snippet": "Meta Platforms owns social media giants Facebook, Instagram, WhatsApp, and Messenger, among others, all of which are household names that continue to "
     }
   ]
 }

@@ -3,8 +3,8 @@ ticker: WDC
 company: Western Digital Corporation
 sector: Technology
 industry: Computer Hardware
-extracted_at: 2026-05-04 17:24:03
-last_updated: 2026-05-04
+extracted_at: 2026-05-05 17:17:02
+last_updated: 2026-05-05
 ---
 
 # WDC - Western Digital Corporation
@@ -12,46 +12,46 @@ last_updated: 2026-05-04
 ## 基本信息
 
 - **所属行业**: Technology / Computer Hardware
-- **提取时间**: 2026-05-04 17:24:03
+- **提取时间**: 2026-05-05 17:17:02
 
 ## 产业链关系
 
 ### 上游供应商
+- [[005930.KS]]
+- [[SK Hynix]]
 - [[MU]]
-- [[SSD controller manufacturers (e.g., Silicon Motion, Phison)]]
-- [[Printed circuit board (PCB) suppliers]]
-- [[Packaging and assembly vendors]]
-- [[Component suppliers for HDD platters and motors]]
+- [[Silicon Motion]]
+- [[MRVL]]
 
 ### 下游客户
+- [[DELL]]
+- [[HPQ]]
+- [[Lenovo Group]]
 - [[AAPL]]
-- [[MSFT]]
-- [[MSFT]]
-- [[Data center operators and telecom providers]]
 - [[AMZN]]
 
 ### 竞争对手
 - [[STX]]
-- [[Toshiba (Kioxia)]]
+- [[Toshiba Corporation]]
 - [[005930.KS]]
+- [[MU]]
 - [[INTC]]
-- [[SK Hynix (memory and storage)]]
 
 ### 核心产品
-- [[Hard Disk Drives (HDDs) – 3.5" and 2.5"]]
-- [[Solid State Drives (SSDs) – SATA, NVMe, PCIe]]
-- [[External storage devices (portable drives, docking stations)]]
-- [[Network Attached Storage (NAS) systems]]
-- [[Enterprise storage solutions (RAID, cloud‑connected storage)]]
+- [[Hard Disk Drives]]
+- [[Solid State Drives]]
+- [[Enterprise Storage Solutions]]
+- [[External Storage Devices]]
+- [[NAS Drives]]
 
 ## 数据来源
 
 - 
 - [Western Digital Corporation suppliers manufacturers](https://en.wikipedia.org/wiki/Western_Digital)
-- [Western Digital Corporation suppliers manufacturers](https://ru.wikipedia.org/wiki/Western_Digital)
-- [Western Digital Corporation major customers clients](https://www.marketscreener.com/quote/stock/WESTERN-DIGITAL-CORPORATI-10721582/finances-segments/)
+- [Western Digital Corporation suppliers manufacturers](https://csimarket.com/stocks/WDC-Suppliers)
 - [Western Digital Corporation major customers clients](https://csimarket.com/stocks/WDC-Customers)
+- [Western Digital Corporation major customers clients](https://www.readycontacts.com/target-account-profiling/western-digital/)
 
 ## 元数据
 
-- **更新日期**: 2026-05-04
+- **更新日期**: 2026-05-05

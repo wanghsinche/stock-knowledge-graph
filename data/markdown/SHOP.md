@@ -3,8 +3,8 @@ ticker: SHOP
 company: Shopify Inc.
 sector: Technology
 industry: Software - Application
-extracted_at: 2026-03-24 18:17:27
-last_updated: 2026-03-24
+extracted_at: 2026-05-05 17:17:55
+last_updated: 2026-05-05
 ---
 
 # SHOP - Shopify Inc.
@@ -12,41 +12,41 @@ last_updated: 2026-03-24
 ## 基本信息
 
 - **所属行业**: Technology / Software - Application
-- **提取时间**: 2026-03-24 18:17:27
+- **提取时间**: 2026-05-05 17:17:55
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Hardware component suppliers]]
-- [[Software platform providers]]
-- [[Payment processors]]
-- [[Logistics partners]]
-- [[Cloud service providers]]
+- [[AMZN]]
+- [[MSFT]]
+- [[GOOGL]]
+- [[Stripe]]
+- [[PayPal]]
 
 ### 下游客户
-- [[TSLA]]
-- [[LVMH]]
-- [[Nestlé]]
-- [[PepsiCo]]
-- [[AB InBev]]
+- [[Gymshark]]
+- [[Allbirds]]
+- [[Heinz]]
+- [[Kylie Cosmetics]]
+- [[Kylie Jenner's brand]]
 
 ### 竞争对手
 - [[BigCommerce]]
 - [[WooCommerce]]
-- [[Magento]]
+- [[ADBE]]
 - [[Wix]]
 - [[Squarespace]]
 
 ### 核心产品
 - [[Shopify e-commerce platform]]
-- [[Shopify POS]]
 - [[Shopify Payments]]
-- [[Shopify Fulfillment Network]]
 - [[Shopify Plus]]
+- [[Shopify POS]]
+- [[Shopify App Store]]
 
 ## 数据来源
 
-- [Shopify](https://en.wikipedia.org/wiki/Shopify_Inc.)
+- 
 - [Shopify Inc. suppliers manufacturers](https://www.adsx.com/blog/shopify-supplier-sourcing-guide)
 - [Shopify Inc. suppliers manufacturers](https://eprolo.com/shopify-dropshipping-suppliers)
 - [Shopify Inc. major customers clients](https://www.sitebuilderreport.com/biggest-companies-using-shopify)
@@ -54,4 +54,4 @@ last_updated: 2026-03-24
 
 ## 元数据
 
-- **更新日期**: 2026-03-24
+- **更新日期**: 2026-05-05

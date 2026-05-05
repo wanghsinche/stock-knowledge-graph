@@ -1,37 +1,37 @@
 {
   "ticker": "NBIS",
   "company_name": "Nebius Group N.V.",
-  "sector": "Communication Services",
-  "industry": "Internet Content & Information",
+  "sector": "Communication Services / Internet Content & Information",
+  "industry": "Artificial Intelligence Infrastructure Services",
   "upstream": [
     "NVDA",
-    "Cloud infrastructure providers (e.g., AWS, Azure, GCP)",
-    "AI software vendors (e.g., OpenAI, Hugging Face)",
-    "Data center operators",
-    "Semiconductor suppliers"
+    "AMD",
+    "INTC",
+    "CSCO",
+    "DELL"
   ],
   "downstream": [
-    "Federal government agencies",
-    "Enterprise customers in finance, healthcare, and retail",
-    "Research institutions and universities",
-    "Large technology firms requiring AI infrastructure",
-    "Public sector organizations in Europe and the US"
+    "Yandex N.V.",
+    "GOOGL",
+    "MSFT",
+    "AMZN",
+    "Facebook Inc."
   ],
   "competitors": [
-    "NVDA",
+    "OpenAI",
+    "Anthropic",
     "GOOGL",
-    "AMZN",
-    "MSFT",
-    "OpenAI"
+    "AWS Bedrock",
+    "IBM"
   ],
   "key_products": [
     "Nebius AI Platform",
-    "Avride (AI training platform)",
-    "TripleTen (AI inference platform)",
-    "Toloka (crowdsourcing platform)",
-    "Clickhouse (columnar database)"
+    "Avride AI Services",
+    "TripleTen AI Solutions",
+    "Toloka Crowdsourcing Platform",
+    "Clickhouse Analytics Engine"
   ],
-  "extracted_at": "2026-05-04 17:24:29",
+  "extracted_at": "2026-05-05 17:19:15",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.dcsa.mil/Systems-Applications/National-Background-Investigation-Services-NBIS/",
-      "query": "NBIS suppliers manufacturers",
-      "snippet": "NBIS is the Federal government’s IT system for end-to-end process for personnel vetting. This starts with the initiation and application for a backgro"
-    },
-    {
-      "source": "DuckDuckGo",
       "url": "https://csimarket.com/stocks/NBIS-Suppliers",
       "query": "NBIS suppliers manufacturers",
-      "snippet": "May 3, 2025 · For your research, we’ve provided nine additional tables on Nebius Group n v ’s suppliers . You can find them in the navigation menu und"
+      "snippet": "May 3, 2025 · Sources: Nebius Group n v 's official press releases and regulatory filings; CSIMarket.com's supply -chain research; and the financial f"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://historicaloptiondata.com/nbis-trading-analysis-04-27-2026-1041-am/",
-      "query": "NBIS major customers clients",
-      "snippet": "NBIS ( NBIS ) trading at $8.31 with RSI at 67.3. Balanced options sentiment analysis with real-time market data, technical indicators, and comprehensi"
+      "url": "https://finance.yahoo.com/quote/NBIS/?fr=sycsrp_catchall",
+      "query": "NBIS suppliers manufacturers",
+      "snippet": "Find the latest Nebius Group N.V. ( NBIS ) stock quote, history, news and other vital information to help you with your stock trading and investing."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.bloomberg.com/quote/NBIS:US",
+      "url": "https://en.wikipedia.org/wiki/Nebius_Group",
       "query": "NBIS major customers clients",
-      "snippet": "Stock analysis for Nebius Group NV ( NBIS :NASDAQ GS) including stock price, stock chart, company news, key statistics, fundamentals and company profi"
+      "snippet": "The predecessor to Nebius Group was Yandex N.V., the Dutch parent company of a Russian technology company Yandex, which began as a search engine in 19"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/NBIS-Customers",
+      "query": "NBIS major customers clients",
+      "snippet": "Apr 26, 2026 · Nebius Group N V customers and markets, results by customer and performance relative to NBIS , by company and industry - CSIMarket"
     }
   ]
 }

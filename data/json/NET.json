@@ -1,42 +1,40 @@
 {
   "ticker": "NET",
   "company_name": "Cloudflare, Inc.",
-  "sector": "Technology",
-  "industry": "Software - Infrastructure",
+  "sector": "Technology / Software - Infrastructure",
+  "industry": "Internet & Web Services",
   "upstream": [
-    "AMZN",
+    "Internet Service Providers (e.g., AT&T, Verizon)",
     "MSFT",
-    "GOOGL",
-    "Equinix data centers",
-    "CSCO"
+    "CSCO",
+    "Data Center Operators (e.g., Equinix, Digital Realty)",
+    "AMD"
   ],
   "downstream": [
-    "Shopify",
+    "E-commerce Platforms (e.g., Shopify, Magento)",
     "CRM",
-    "GitHub",
-    "NFLX",
-    "ADBE"
+    "Social Media & Content Sites (e.g., Reddit, Medium)",
+    "Financial Services (e.g., Stripe, Square)",
+    "NFLX"
   ],
   "competitors": [
-    "Akamai",
-    "Fastly",
+    "Akamai Technologies",
+    "Fastly, Inc.",
     "AMZN",
     "MSFT",
     "GOOGL"
   ],
   "key_products": [
     "Content Delivery Network (CDN)",
-    "DDoS mitigation",
+    "DDoS Mitigation & Cloud Security",
     "Web Application Firewall (WAF)",
-    "DNS & domain registration",
-    "SSL/TLS encryption",
-    "Cloudflare Workers",
-    "Cloudflare Access",
-    "Cloudflare Stream",
-    "Cloudflare Spectrum",
-    "Cloudflare Magic Transit"
+    "DNS & Domain Registration Services",
+    "Cloudflare Workers (serverless compute)",
+    "Cloudflare Access (Zero Trust)",
+    "Cloudflare Stream (video streaming)",
+    "Cloudflare Magic Transit (network protection)"
   ],
-  "extracted_at": "2026-04-13 17:06:47",
+  "extracted_at": "2026-05-05 17:23:22",
   "sources": [
     {
       "source": "Wikipedia",
@@ -46,27 +44,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.cloudflare.com/",
+      "url": "https://www.cloudflare.com/partners/service-providers/",
       "query": "Cloudflare, Inc. suppliers manufacturers",
-      "snippet": "Self-serve agency program Manage Self-Serve Accounts for your clients. Peer-to-peer portal Traffic insights for your network. Find a partner PowerUP y"
+      "snippet": "Service Providers Protect users, secure infrastructure, and enhance service offerings worldwide by integrating with Cloudflare ’s solutions. Deliver s"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.linkedin.com/company/cloudflare",
+      "url": "https://csimarket.com/stocks/NET-Suppliers",
       "query": "Cloudflare, Inc. suppliers manufacturers",
-      "snippet": "Cloudflare , Inc . (NYSE: NET) is the leading connectivity cloud company. It empowers organizations to make their employees, applications and networks"
+      "snippet": "Sources: Cloudflare Inc 's official press releases and regulatory filings; CSIMarket.com's supply-chain research; and the financial filings and press "
     },
     {
       "source": "DuckDuckGo",
       "url": "https://backlinko.com/cloudflare-users",
       "query": "Cloudflare, Inc. major customers clients",
-      "snippet": "Jan 22, 2026 · Cloudflare had a total of 3,046 large customers in Q2 2024, contributing more than $100,000 in annualized revenue. The internet securit"
+      "snippet": "Jan 22, 2026 · Cloudflare Large Customers The minimum threshold for being considered a “large customer ” by Cloudflare is an annualized revenue of $10"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.demandsage.com/cloudflare-statistics/",
+      "url": "https://www.cloudflare.com/case-studies/",
       "query": "Cloudflare, Inc. major customers clients",
-      "snippet": "Jan 1, 2026 · This article presents the latest Cloudflare statistics, including traffic share, website usage, outage history, paying customers , reven"
+      "snippet": "Cloudflare customer case studies provide cyber security testimonials and customer use cases for a suite of website security and performance products."
     }
   ]
 }

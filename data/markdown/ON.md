@@ -3,8 +3,8 @@ ticker: ON
 company: ON Semiconductor Corporation
 sector: Technology
 industry: Semiconductors
-extracted_at: 2026-04-23 17:17:52
-last_updated: 2026-04-23
+extracted_at: 2026-05-05 17:22:47
+last_updated: 2026-05-05
 ---
 
 # ON - ON Semiconductor Corporation
@@ -12,23 +12,23 @@ last_updated: 2026-04-23
 ## 基本信息
 
 - **所属行业**: Technology / Semiconductors
-- **提取时间**: 2026-04-23 17:17:52
+- **提取时间**: 2026-05-05 17:22:47
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Silicon wafer suppliers]]
-- [[Germanium and other semiconductor material suppliers]]
-- [[Electronic component distributors]]
-- [[CAT]]
-- [[Chemical suppliers for lithography]]
+- [[AMAT]]
+- [[ASML]]
+- [[LRCX]]
+- [[Tokyo Electron]]
+- [[KLA Corporation]]
 
 ### 下游客户
-- [[Automotive OEMs (e.g., Ford, General Motors)]]
-- [[CSCO]]
-- [[DELL]]
+- [[TSLA]]
+- [[Ford]]
+- [[005930.KS]]
 - [[AAPL]]
-- [[Industrial automation firms (e.g., Siemens, ABB)]]
+- [[QCOM]]
 
 ### 竞争对手
 - [[TXN]]
@@ -38,20 +38,20 @@ last_updated: 2026-04-23
 - [[NXP Semiconductors]]
 
 ### 核心产品
-- [[Power management ICs]]
-- [[Signal management ICs]]
-- [[Discrete logic devices]]
-- [[Custom ASIC solutions]]
-- [[LED driver ICs]]
+- [[Power Management ICs]]
+- [[Analog ICs]]
+- [[RFICs]]
+- [[Image Sensors]]
+- [[LED Drivers]]
 
 ## 数据来源
 
-- [Onsemi](https://en.wikipedia.org/wiki/ON_Semiconductor_Corporation)
+- 
 - [ON Semiconductor Corporation suppliers manufacturers](https://en.wikipedia.org/wiki/Onsemi)
 - [ON Semiconductor Corporation suppliers manufacturers](https://csimarket.com/stocks/ON-Suppliers)
-- [ON Semiconductor Corporation major customers clients](https://en.wikipedia.org/wiki/Samsung)
-- [ON Semiconductor Corporation major customers clients](https://www.case48.com/porter-analysis/6014-ON-Semiconductor-Corporation)
+- [ON Semiconductor Corporation major customers clients](https://en.wikipedia.org/wiki/Onsemi)
+- [ON Semiconductor Corporation major customers clients](https://csimarket.com/stocks/ON-Customers)
 
 ## 元数据
 
-- **更新日期**: 2026-04-23
+- **更新日期**: 2026-05-05

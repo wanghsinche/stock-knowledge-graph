@@ -4,18 +4,18 @@
   "sector": "Technology",
   "industry": "Software - Infrastructure",
   "upstream": [
-    "INTC",
-    "AMD",
-    "NVDA",
     "DELL",
-    "HPQ"
+    "HPQ",
+    "Lenovo",
+    "CSCO",
+    "IBM"
   ],
   "downstream": [
-    "Developers",
-    "Startups",
-    "SMBs",
-    "E-commerce platforms",
-    "Enterprise IT teams"
+    "Shopify",
+    "Atlassian",
+    "GitHub",
+    "Reddit",
+    "Airbnb"
   ],
   "competitors": [
     "AMZN",
@@ -25,13 +25,13 @@
     "Vultr"
   ],
   "key_products": [
-    "Droplets (VMs)",
-    "Kubernetes",
-    "Spaces (Object Storage)",
+    "Droplets (VM instances)",
+    "Kubernetes Engine",
     "Managed Databases",
+    "Spaces (object storage)",
     "App Platform"
   ],
-  "extracted_at": "2026-03-25 17:03:17",
+  "extracted_at": "2026-05-05 17:19:28",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://investors.digitalocean.com/overview/default.aspx",
-      "query": "DigitalOcean Holdings, Inc. suppliers manufacturers",
-      "snippet": "Mar 18, 2026 · DigitalOcean simplifies cloud computing so businesses can spend more time creating software that changes the world. With its mission-cr"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://fintel.io/doc/sec-digitalocean-holdings-inc-1582961-ex211-2024-february-21-19774-6756",
-      "query": "DigitalOcean Holdings, Inc. suppliers manufacturers",
-      "snippet": "DigitalOcean Holdings , Inc . - List of Subsidiaries of DigitalOcean Holdings , Inc . - EX-21.1 - February 21, 2024 DigitalOcean Holdings , Inc . US ˙"
-    },
-    {
-      "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/DigitalOcean",
-      "query": "DigitalOcean Holdings, Inc. major customers clients",
+      "query": "DigitalOcean Holdings, Inc. suppliers manufacturers",
       "snippet": "DigitalOcean Holdings , Inc . is an American multinational technology company and cloud service provider. The company is headquartered in Broomfield, "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.investing.com/equities/digitalocean-holdings",
+      "url": "https://investors.digitalocean.com/overview/default.aspx",
+      "query": "DigitalOcean Holdings, Inc. suppliers manufacturers",
+      "snippet": "4 days ago · DigitalOcean is the Agentic Inference Cloud built for AI-native and Digital-native enterprises scaling production workloads. The platform"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.digitalocean.com/customers",
       "query": "DigitalOcean Holdings, Inc. major customers clients",
-      "snippet": "DigitalOcean Holdings , Inc . was incorporated in 2012 and is headquartered in Broomfield, Colorado.Learn how DigitalOcean 's Scalers+ initiative and "
+      "snippet": "See how DigitalOcean customers are transforming their businesses (and sometimes the world)."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.appsruntheworld.com/customers-database/vendors/view/digitalocean",
+      "query": "DigitalOcean Holdings, Inc. major customers clients",
+      "snippet": "List of companies using or evaluating DigitalOcean applications, with details on their revenues, employees, industries, and locations."
     }
   ]
 }

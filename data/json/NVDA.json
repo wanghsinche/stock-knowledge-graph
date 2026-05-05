@@ -8,30 +8,30 @@
     "005930.KS",
     "GlobalFoundries",
     "MU",
-    "NVDA"
+    "ASE"
   ],
   "downstream": [
+    "SONY",
     "MSFT",
     "AMZN",
     "GOOGL",
-    "AAPL",
-    "SONY"
+    "TSLA"
   ],
   "competitors": [
     "AMD",
     "INTC",
     "QCOM",
-    "AVGO",
+    "AAPL",
     "005930.KS"
   ],
   "key_products": [
-    "GeForce GPUs",
-    "Quadro GPUs",
+    "GeForce RTX GPUs",
+    "Quadro/RTX A GPUs",
     "Tesla GPUs",
     "Jetson SoCs",
-    "CUDA API"
+    "NVIDIA AI Platform (CUDA, TensorRT)"
   ],
-  "extracted_at": "2026-05-04 17:21:55",
+  "extracted_at": "2026-05-05 17:14:15",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,25 +43,25 @@
       "source": "DuckDuckGo",
       "url": "https://stocksandfuturestrading.com/the-complete-list-of-nvidias-suppliers-and-consumers/",
       "query": "NVIDIA Corporation suppliers manufacturers",
-      "snippet": "Nov 22, 2024 · Trading Resources The Complete List Of Nvidia’s Suppliers And Consumers By Stocks & Futures Trading This is the most recently updated l"
+      "snippet": "Nov 22, 2024 · Trading Resources The Complete List Of Nvidia ’s Suppliers And Consumers By Stocks & Futures Trading This is the most recently updated "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/NVDA-Suppliers",
+      "url": "https://www.suppliersmap.com/nvidia",
       "query": "NVIDIA Corporation suppliers manufacturers",
-      "snippet": "Feb 26, 2026 · We engage with independent subcontractors and contract manufacturers such as Hon Hai Precision Industry Co., Ltd., Wistron Corporation,"
+      "snippet": "Nvidia Nvidia works with leading semiconductor manufacturers for its GPU products, including TSMC for advanced chip fabrication, Samsung and Micron fo"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://stocksandfuturestrading.com/the-complete-list-of-nvidias-suppliers-and-consumers/",
+      "query": "NVIDIA Corporation major customers clients",
+      "snippet": "Nov 22, 2024 · NVIDIA has completed one of the most dramatic business transformations in market history — going from a gaming GPU company to the backb"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.fool.com/investing/2025/06/26/who-are-nvidias-biggest-customers/",
       "query": "NVIDIA Corporation major customers clients",
-      "snippet": "June 26, 2025 - Nvidia has amassed an impressive list of customers, which includes top AI developers like Amazon, Microsoft, and Alphabet ."
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.fool.com/investing/2024/05/02/who-are-nvidias-largest-customers/",
-      "query": "NVIDIA Corporation major customers clients",
-      "snippet": "May 2, 2024 - However, in its recent 10-K filing, the company did say that one customer represented 13% of its revenue from its compute and networking"
+      "snippet": "Jun 26, 2025 · Nvidia 's GPUs and networking equipment account for a large chunk of AI data center spending, but other major costs include land acquis"
     }
   ]
 }

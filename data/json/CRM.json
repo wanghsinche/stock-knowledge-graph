@@ -1,28 +1,28 @@
 {
   "ticker": "CRM",
   "company_name": "Salesforce, Inc.",
-  "sector": "Technology / Software - Application",
-  "industry": "Customer Relationship Management (CRM) Software",
+  "sector": "Technology",
+  "industry": "Software - Application",
   "upstream": [
-    "MSFT",
     "AMZN",
+    "MSFT",
     "GOOGL",
     "ORCL",
     "IBM"
   ],
   "downstream": [
-    "ADBE",
-    "American Express",
+    "AAPL",
+    "AMZN",
     "Coca‑Cola",
-    "HSBC",
-    "Toyota"
+    "Ford",
+    "Walmart"
   ],
   "competitors": [
     "MSFT",
-    "SAP SuccessFactors",
     "ORCL",
+    "SAP Customer Experience",
     "HubSpot",
-    "Zendesk"
+    "Zoho CRM"
   ],
   "key_products": [
     "Sales Cloud",
@@ -31,13 +31,13 @@
     "Commerce Cloud",
     "Einstein AI"
   ],
-  "extracted_at": "2026-05-04 17:29:48",
+  "extracted_at": "2026-05-05 17:21:43",
   "sources": [
     {
       "source": "Wikipedia",
-      "url": "",
-      "title": "",
-      "snippet": ""
+      "url": "https://en.wikipedia.org/wiki/Salesforce,_Inc.",
+      "title": "Salesforce",
+      "snippet": "Salesforce, Inc., is an American cloud-based software company headquartered in San Francisco, California. It provides software for sales, customer service, marketing automation, e-commerce, analytics,"
     },
     {
       "source": "DuckDuckGo",
@@ -47,9 +47,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/CRM-Suppliers",
+      "url": "https://www.fortenext.com/insights/top-17-salesforce-implementation-partners-in-the-usa",
       "query": "Salesforce, Inc. suppliers manufacturers",
-      "snippet": "Mar 3, 2026 · For your research, we’ve provided nine additional tables on Salesforce Inc ’s suppliers . You can find them in the navigation menu under"
+      "snippet": "Jan 5, 2026 · Together, these companies reflect where Salesforce transformation is heading: intelligent, integrated, and outcome-driven. For organizat"
     },
     {
       "source": "DuckDuckGo",

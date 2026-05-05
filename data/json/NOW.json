@@ -2,36 +2,36 @@
   "ticker": "NOW",
   "company_name": "ServiceNow, Inc.",
   "sector": "Technology",
-  "industry": "Application Software",
+  "industry": "Software - Application",
   "upstream": [
-    "MSFT",
     "AMZN",
+    "MSFT",
     "GOOGL",
     "ORCL",
     "IBM"
   ],
   "downstream": [
-    "Walmart",
     "JPMorgan Chase",
-    "AT&T",
-    "CSCO",
-    "Verizon"
+    "Walmart",
+    "Coca‑Cola",
+    "Bank of America",
+    "AT&T"
   ],
   "competitors": [
     "BMC Software",
     "IBM",
     "Atlassian",
-    "CRM",
-    "SAP"
+    "MSFT",
+    "CA Technologies"
   ],
   "key_products": [
+    "ServiceNow Platform",
     "IT Service Management (ITSM)",
     "IT Operations Management (ITOM)",
-    "IT Business Management (ITBM)",
-    "Customer Service Management (CSM)",
+    "Security Operations (SecOps)",
     "HR Service Delivery"
   ],
-  "extracted_at": "2026-05-04 17:27:05",
+  "extracted_at": "2026-05-05 17:23:00",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.alibaba.com/",
+      "url": "https://www.servicenow.com/company/supplier.html",
       "query": "ServiceNow, Inc. suppliers manufacturers",
-      "snippet": "Find quality Manufacturers , Suppliers , Exporters, Importers, Buyers, Wholesalers, Products and Trade Leads from our award-winning International Trad"
+      "snippet": "ServiceNow partners with capable and competitive suppliers who commit to diversity, sustainability, and best-in-class goods and services. Learn more h"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.fool.com/investing/2026/04/09/the-saaspocalypse-made-servicenow-stock-a-bargain/",
+      "url": "https://data.landbase.com/technology/servicenow/",
       "query": "ServiceNow, Inc. suppliers manufacturers",
-      "snippet": "Image source: The Motley Fool. ServiceNow 's answer to the AI threat. ServiceNow provides a SaaS platform enabling businesses to streamline workflows."
+      "snippet": "Aug 17, 2025 · Companies using ServiceNow by ServiceNow, Inc . in 2026 As of 2026, 25,274 verified companies use ServiceNow – across industries, compa"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.aventionmedia.com/technology-installed-base/servicenow/",
       "query": "ServiceNow, Inc. major customers clients",
-      "snippet": "Businesses whose solutions and services can help Cloud- Service Customers achieve any of their business requirements can make use of our List of Compa"
+      "snippet": "Discover Avention Media’s accurate and customizable ServiceNow customers list. Our verified ServiceNow data helps you target key decision-makers and c"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://data.landbase.com/technology/servicenow/",
+      "url": "https://www.servicenow.com/customers.html",
       "query": "ServiceNow, Inc. major customers clients",
-      "snippet": "Aug 17, 2025 · Our ServiceNow customers list is available for download and comes enriched with vital company specifics, including industry classificat"
+      "snippet": "Discover the measurable improvements ServiceNow delivers to enhance efficiency, productivity, and customer satisfaction"
     }
   ]
 }

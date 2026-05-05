@@ -3,8 +3,8 @@ ticker: STX
 company: Seagate Technology Holdings plc
 sector: Technology
 industry: Computer Hardware
-extracted_at: 2026-05-04 17:24:19
-last_updated: 2026-05-04
+extracted_at: 2026-05-05 17:16:39
+last_updated: 2026-05-05
 ---
 
 # STX - Seagate Technology Holdings plc
@@ -12,46 +12,46 @@ last_updated: 2026-05-04
 ## 基本信息
 
 - **所属行业**: Technology / Computer Hardware
-- **提取时间**: 2026-05-04 17:24:19
+- **提取时间**: 2026-05-05 17:16:39
 
 ## 产业链关系
 
 ### 上游供应商
-- [[TSM]]
-- [[Printed circuit board (PCB) suppliers]]
-- [[META]]
-- [[Electronics component suppliers (e.g., Vishay, Murata)]]
-- [[Precision machining and assembly suppliers]]
+- [[MU]]
+- [[005930.KS]]
+- [[SK Hynix]]
+- [[TDK Corporation]]
+- [[Kioxia (formerly Toshiba Memory)]]
 
 ### 下游客户
 - [[DELL]]
-- [[DELL]]
-- [[MSFT]]
-- [[AAPL]]
-- [[Data center operators and telecom companies]]
+- [[HPQ]]
+- [[Lenovo Group]]
+- [[IBM]]
+- [[AMZN]]
 
 ### 竞争对手
 - [[WDC]]
-- [[Toshiba]]
+- [[Kioxia (formerly Toshiba Memory)]]
 - [[005930.KS]]
-- [[IBM]]
+- [[INTC]]
 - [[MU]]
 
 ### 核心产品
-- [[Enterprise HDDs (e.g., 12.5" and 7.2" drives)]]
-- [[Consumer HDDs (e.g., 3.5" and 2.5" drives)]]
-- [[Solid State Drives (SSDs)]]
-- [[External storage solutions (e.g., portable drives, NAS devices)]]
-- [[Cloud storage infrastructure solutions]]
+- [[Seagate HDDs]]
+- [[Seagate SSDs]]
+- [[Enterprise Storage Solutions]]
+- [[Portable External Drives]]
+- [[Data Center Drives]]
 
 ## 数据来源
 
 - 
-- [Seagate Technology Holdings plc suppliers manufacturers](https://www.seagate.com/)
-- [Seagate Technology Holdings plc suppliers manufacturers](https://finance.yahoo.com/markets/stocks/articles/seagate-technology-holdings-plc-stx-071101288.html)
+- [Seagate Technology Holdings plc suppliers manufacturers](https://investors.seagate.com/overview/default.aspx)
+- [Seagate Technology Holdings plc suppliers manufacturers](https://csimarket.com/stocks/STX-Suppliers)
 - [Seagate Technology Holdings plc major customers clients](https://csimarket.com/stocks/STX-Customers)
-- [Seagate Technology Holdings plc major customers clients](https://www.appsruntheworld.com/customers-database/vendors/view/seagate-technology)
+- [Seagate Technology Holdings plc major customers clients](https://www.kerrisdalecap.com/wp-content/uploads/2025/05/STX–Kerrisdale.pdf)
 
 ## 元数据
 
-- **更新日期**: 2026-05-04
+- **更新日期**: 2026-05-05

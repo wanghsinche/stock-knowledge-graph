@@ -3,8 +3,8 @@ ticker: GLW
 company: Corning Incorporated
 sector: Technology
 industry: Electronic Components
-extracted_at: 2026-04-30 17:14:55
-last_updated: 2026-04-30
+extracted_at: 2026-05-05 17:21:29
+last_updated: 2026-05-05
 ---
 
 # GLW - Corning Incorporated
@@ -12,46 +12,44 @@ last_updated: 2026-04-30
 ## 基本信息
 
 - **所属行业**: Technology / Electronic Components
-- **提取时间**: 2026-04-30 17:14:55
+- **提取时间**: 2026-05-05 17:21:29
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Silica sand]]
-- [[Soda ash]]
-- [[Limestone]]
-- [[Alumina]]
-- [[Chemical additives]]
+- [[Advanced Optics]]
+- [[Gorilla Glass Display Technologies]]
+- [[Environmental Tech]]
 
 ### 下游客户
-- [[AT&T]]
-- [[Verizon]]
-- [[AAPL]]
 - [[005930.KS]]
-- [[Boeing]]
+- [[AAPL]]
+- [[Automotive OEMs (e.g., BMW, Toyota)]]
+- [[Medical imaging equipment manufacturers]]
+- [[Industrial equipment manufacturers]]
 
 ### 竞争对手
-- [[Lumentum Holdings]]
-- [[II-VI Incorporated]]
-- [[Coherent, Inc.]]
-- [[Newport Corporation]]
+- [[Nikon]]
+- [[Canon]]
+- [[Zeiss]]
 - [[Schott AG]]
+- [[Saint-Gobain]]
 
 ### 核心产品
-- [[Optical fiber]]
+- [[Gorilla® Glass]]
+- [[Advanced optics lenses]]
 - [[Glass fiber]]
-- [[Specialty glass]]
-- [[Fiber optic cables]]
-- [[Fiber optic connectors]]
+- [[Ceramic components]]
+- [[Optical fibers]]
 
 ## 数据来源
 
-- 
-- [Corning Incorporated suppliers manufacturers](https://en.wikipedia.org/wiki/Corning_Inc.)
-- [Corning Incorporated suppliers manufacturers](https://www.corning.com/worldwide/en.html)
+- [Corning Inc.](https://en.wikipedia.org/wiki/Corning_Incorporated)
+- [Corning Incorporated suppliers manufacturers](https://www.corning.com/worldwide/en/products/life-sciences/config/Distributors.html)
+- [Corning Incorporated suppliers manufacturers](https://www.mouser.com/manufacturer/corning/)
+- [Corning Incorporated major customers clients](https://en.wikipedia.org/wiki/Corning_Inc.)
 - [Corning Incorporated major customers clients](https://www.corning.com/worldwide/en/about-us/corning-business-segments.html)
-- [Corning Incorporated major customers clients](https://csimarket.com/stocks/GLW-Customers)
 
 ## 元数据
 
-- **更新日期**: 2026-04-30
+- **更新日期**: 2026-05-05

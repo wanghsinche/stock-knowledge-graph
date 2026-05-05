@@ -4,18 +4,18 @@
   "sector": "Technology",
   "industry": "Semiconductors",
   "upstream": [
-    "ASML",
-    "AMAT",
-    "LRCX",
-    "Tokyo Electron",
-    "KLA"
+    "TSM",
+    "005930.KS",
+    "GlobalFoundries",
+    "MU",
+    "ASML"
   ],
   "downstream": [
     "DELL",
     "HPQ",
-    "Lenovo Group",
+    "Lenovo",
     "AAPL",
-    "AMZN"
+    "MSFT"
   ],
   "competitors": [
     "AMD",
@@ -25,13 +25,13 @@
     "TSM"
   ],
   "key_products": [
-    "Intel Core processors",
-    "Intel Xeon processors",
-    "Intel Atom processors",
+    "Intel Core CPUs",
+    "Xeon CPUs",
+    "Intel Arc GPUs",
     "Intel Optane memory",
-    "Intel Ethernet controllers"
+    "Intel FPGAs"
   ],
-  "extracted_at": "2026-05-04 17:22:38",
+  "extracted_at": "2026-05-05 17:13:49",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/List_of_Intel_manufacturing_sites",
-      "query": "Intel Corporation suppliers manufacturers",
-      "snippet": "Intel is an American multinational corporation and technology company headquartered in Santa Clara, California. Processors are manufactured in semicon"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.intel.com/content/www/us/en/partner/showcase/partner-directory/distributor.html",
-      "query": "Intel Corporation suppliers manufacturers",
-      "snippet": "Sell Intel® Products directly sourced from Intel as well as devices manufactured by OEMs"
-    },
-    {
-      "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Intel",
-      "query": "Intel Corporation major customers clients",
-      "snippet": "Intel Corporation is an American multinational technology company headquartered in Santa Clara, California. It designs, manufactures, and sells comput"
+      "query": "Intel Corporation suppliers manufacturers",
+      "snippet": "5 hours ago - Until then, the manufacture of complex integrated circuits was not reliable enough for customers to depend on a single supplier, but Gro"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/INTC/",
+      "url": "https://www.intel.com/content/www/us/en/supplier/overview.html",
+      "query": "Intel Corporation suppliers manufacturers",
+      "snippet": "Intel is working to continuously improve transparency and promote corporate responsibility throughout the global electronics supply chain. ... Click h"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/INTC-Customers",
       "query": "Intel Corporation major customers clients",
-      "snippet": "Find the latest Intel Corporation (INTC) stock quote, history, news and other vital information to help you with your stock trading and investing."
+      "snippet": "6 days ago · Our customers also include those who buy PC components and our other products through distributor, reseller, retail, and OEM channels thr"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.intel.com/content/www/us/en/customer-spotlight/overview.html",
+      "query": "Intel Corporation major customers clients",
+      "snippet": "Explore the Intel Customer Spotlight for the latest customer stories, case studies, and testimonials highlighting data-centric innovations."
     }
   ]
 }

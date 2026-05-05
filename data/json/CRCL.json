@@ -1,37 +1,37 @@
 {
   "ticker": "CRCL",
   "company_name": "Circle Internet Group, Inc.",
-  "sector": "Financial Services / Capital Markets",
-  "industry": "FinTech / Digital Payments",
+  "sector": "Financial Services",
+  "industry": "Capital Markets",
   "upstream": [
-    "Payment processors (e.g., Visa, Mastercard)",
-    "Blockchain infrastructure providers (e.g., Ethereum, Solana)",
-    "AMZN",
-    "Regulatory compliance vendors (e.g., LexisNexis)",
-    "Security and fraud detection solutions (e.g., Kaspersky)"
+    "Blockchain infrastructure providers",
+    "Payment processors (e.g., Stripe, PayPal)",
+    "Banking partners (e.g., JPMorgan, Wells Fargo)",
+    "Crypto exchange platforms (e.g., Coinbase, Binance)",
+    "Regulatory compliance vendors"
   ],
   "downstream": [
-    "Retail merchants",
-    "Cryptocurrency exchanges (e.g., Coinbase, Binance)",
-    "Institutional investors",
-    "Digital wallet users",
-    "Remittance service providers"
+    "Merchants and e‑commerce platforms",
+    "Fintech startups using Circle APIs",
+    "Institutional investors and asset managers",
+    "Retail cryptocurrency users",
+    "Payment service providers"
   ],
   "competitors": [
     "PayPal",
+    "Square (Block)",
     "Stripe",
-    "Square",
-    "Revolut",
-    "Coinbase"
+    "Coinbase",
+    "Revolut"
   ],
   "key_products": [
-    "Circle Pay",
+    "Circle Pay (payments)",
     "USDC stablecoin",
-    "Circle Invest",
-    "Crypto trading platform",
-    "Digital wallet"
+    "Circle Invest (investment platform)",
+    "Circle Wallet (crypto wallet)",
+    "Crypto trading and custody services"
   ],
-  "extracted_at": "2026-05-04 17:24:56",
+  "extracted_at": "2026-05-05 17:18:07",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,21 +47,21 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.circle.com/about-circle",
+      "url": "https://investor.circle.com/overview/default.aspx",
       "query": "Circle Internet Group suppliers manufacturers",
-      "snippet": "Circle is creating a new internet financial system — one that’s reliable and accessible around the world. A full-stack platform including Arc, USDC, a"
+      "snippet": "Mar 17, 2026 · Circle Investor Relations Circle is a global financial technology firm that enables businesses of all sizes to harness the power of dig"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.youtube.com/watch?v=tojlvtz0_mI",
+      "url": "https://en.wikipedia.org/wiki/Circle_Internet_Group",
       "query": "Circle Internet Group major customers clients",
-      "snippet": "Jeremy Allaire, Circle co-founder, chairman and CEO, joins 'Squawk Box' to discuss the company's quarterly earnings results, state of crypto, future o"
+      "snippet": "Circle (legally Circle Internet Group , Inc.[2]) is a payments technology company. Founded by Jeremy Allaire and Sean Neville in 2013, [3][4] it is cu"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.fool.com/investing/2025/07/10/has-circle-internet-groups-stock-already-peaked/",
+      "url": "https://www.appsruntheworld.com/customers-database/vendors/view/circle-internet-group",
       "query": "Circle Internet Group major customers clients",
-      "snippet": "Circle Internet Group went public in June and it has been one of the hottest stocks on the market. Investors are paying a steep premium for the stock,"
+      "snippet": "List of companies using or evaluating Circle Internet Group applications, with details on their revenues, employees, industries, and locations."
     }
   ]
 }

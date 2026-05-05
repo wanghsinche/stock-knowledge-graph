@@ -7,32 +7,34 @@
     "INTC",
     "AMD",
     "NVDA",
-    "CSCO",
-    "DELL"
+    "QCOM",
+    "005930.KS"
   ],
   "downstream": [
-    "Enterprise customers (e.g., banks, insurance, manufacturing)",
-    "Government agencies (U.S. federal, state, local)",
-    "AAPL",
-    "Retail consumers (Windows PCs, Surface, Xbox)",
-    "CAT"
+    "Enterprise customers",
+    "Government agencies",
+    "Small and Medium Businesses (SMBs)",
+    "Consumers",
+    "OEM partners"
   ],
   "competitors": [
     "AAPL",
     "GOOGL",
     "AMZN",
     "ORCL",
-    "IBM"
+    "CRM"
   ],
   "key_products": [
     "Windows operating system",
     "Microsoft Office suite",
     "Azure cloud platform",
-    "Microsoft Teams",
-    "Surface hardware line",
-    "Xbox gaming console"
+    "Microsoft 365",
+    "Xbox gaming console",
+    "Surface devices",
+    "LinkedIn",
+    "GitHub"
   ],
-  "extracted_at": "2026-05-04 17:22:46",
+  "extracted_at": "2026-05-05 17:15:24",
   "sources": [
     {
       "source": "Wikipedia",
@@ -42,27 +44,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Microsoft",
+      "url": "https://www.microsoft.com/en-us/procurement",
       "query": "Microsoft Corporation suppliers manufacturers",
-      "snippet": "Its best-known software products are the Windows line of operating systems and the Microsoft Office and Microsoft 365 suite of productivity applicatio"
+      "snippet": "Microsoft Procurement is committed to building a diverse global supplier base that reflects the global diversity of our customers and provides all typ"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.datacentermap.com/c/microsoft/",
+      "url": "https://csimarket.com/stocks/MSFT-Suppliers",
       "query": "Microsoft Corporation suppliers manufacturers",
-      "snippet": "In total we have 298 data centers listed for Microsoft . According to our data, 143 are operational and 154 are either planned or under construction. "
+      "snippet": "Jan 29, 2026 · Sources: Microsoft Corporation 's official press releases and regulatory filings; CSIMarket.com's supply-chain research; and the financ"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Microsoft",
+      "url": "https://www.microsoft.com/en-us/customers/",
       "query": "Microsoft Corporation major customers clients",
-      "snippet": "Microsoft Corporation is an American multinational technology company headquartered in Redmond, Washington. The company became influential in the rise"
+      "snippet": "Explore customer success stories to learn how businesses are overcoming challenges, driving innovation, and achieving more with Microsoft solutions."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://businessaccount.microsoft.com/",
+      "url": "https://csimarket.com/stocks/MSFT-Customers",
       "query": "Microsoft Corporation major customers clients",
-      "snippet": "Business Center. Sign In. For customers ."
+      "snippet": "Microsoft's Comment on Sales, Marketing and Customers We distribute software through OEMs that pre-install our software on new PCs, tablets, servers, "
     }
   ]
 }

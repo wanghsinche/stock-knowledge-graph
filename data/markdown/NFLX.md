@@ -3,8 +3,8 @@ ticker: NFLX
 company: Netflix, Inc.
 sector: Communication Services
 industry: Entertainment
-extracted_at: 2026-05-04 17:26:56
-last_updated: 2026-05-04
+extracted_at: 2026-05-05 17:17:27
+last_updated: 2026-05-05
 ---
 
 # NFLX - Netflix, Inc.
@@ -12,46 +12,46 @@ last_updated: 2026-05-04
 ## 基本信息
 
 - **所属行业**: Communication Services / Entertainment
-- **提取时间**: 2026-05-04 17:26:56
+- **提取时间**: 2026-05-05 17:17:27
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Content production studios]]
-- [[Technology vendors (e.g., Visual Data)]]
-- [[Cloud service providers (e.g., AWS)]]
-- [[Licensing agencies]]
-- [[Hardware manufacturers (e.g., Roku)]]
+- [[NFLX]]
+- [[Hiventy Group]]
+- [[AMZN]]
+- [[GOOGL]]
+- [[MSFT]]
 
 ### 下游客户
 - [[Individual subscribers worldwide]]
-- [[Corporate partners (e.g., airlines, telecoms)]]
-- [[Device manufacturers (e.g., smart TVs)]]
-- [[AMZN]]
-- [[Media distributors]]
+- [[Corporate accounts (e.g., airlines, hotels)]]
+- [[CAT]]
+- [[Telecom partners (e.g., Verizon, AT&T)]]
+- [[International streaming platforms]]
 
 ### 竞争对手
 - [[Disney+]]
-- [[Hulu]]
 - [[AMZN]]
+- [[Hulu]]
 - [[HBO Max]]
-- [[AAPL]]
+- [[Peacock]]
 
 ### 核心产品
-- [[Netflix streaming service]]
-- [[Netflix Originals]]
-- [[Licensed TV shows and movies]]
-- [[Mobile and web apps]]
-- [[User recommendation engine]]
+- [[Original series]]
+- [[Movies]]
+- [[Documentaries]]
+- [[Kids & family content]]
+- [[Sports streaming (e.g., NFL, UFC)]]
 
 ## 数据来源
 
 - [Netflix, Inc.](https://en.wikipedia.org/wiki/Netflix,_Inc.)
 - [Netflix, Inc. suppliers manufacturers](https://npfp.netflixstudios.com/region/global/)
 - [Netflix, Inc. suppliers manufacturers](https://csimarket.com/stocks/NFLX-Suppliers)
-- [Netflix, Inc. major customers clients](https://businessmodelanalyst.com/netflix-target-market/)
 - [Netflix, Inc. major customers clients](https://csimarket.com/stocks/NFLX-Customers)
+- [Netflix, Inc. major customers clients](https://businessmodelanalyst.com/netflix-target-market/)
 
 ## 元数据
 
-- **更新日期**: 2026-05-04
+- **更新日期**: 2026-05-05

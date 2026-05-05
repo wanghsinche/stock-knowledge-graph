@@ -4,34 +4,34 @@
   "sector": "Communication Services",
   "industry": "Entertainment",
   "upstream": [
-    "Content production studios",
-    "Technology vendors (e.g., Visual Data)",
-    "Cloud service providers (e.g., AWS)",
-    "Licensing agencies",
-    "Hardware manufacturers (e.g., Roku)"
+    "NFLX",
+    "Hiventy Group",
+    "AMZN",
+    "GOOGL",
+    "MSFT"
   ],
   "downstream": [
     "Individual subscribers worldwide",
-    "Corporate partners (e.g., airlines, telecoms)",
-    "Device manufacturers (e.g., smart TVs)",
-    "AMZN",
-    "Media distributors"
+    "Corporate accounts (e.g., airlines, hotels)",
+    "CAT",
+    "Telecom partners (e.g., Verizon, AT&T)",
+    "International streaming platforms"
   ],
   "competitors": [
     "Disney+",
-    "Hulu",
     "AMZN",
+    "Hulu",
     "HBO Max",
-    "AAPL"
+    "Peacock"
   ],
   "key_products": [
-    "Netflix streaming service",
-    "Netflix Originals",
-    "Licensed TV shows and movies",
-    "Mobile and web apps",
-    "User recommendation engine"
+    "Original series",
+    "Movies",
+    "Documentaries",
+    "Kids & family content",
+    "Sports streaming (e.g., NFL, UFC)"
   ],
-  "extracted_at": "2026-05-04 17:26:56",
+  "extracted_at": "2026-05-05 17:17:27",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,25 +43,25 @@
       "source": "DuckDuckGo",
       "url": "https://npfp.netflixstudios.com/region/global/",
       "query": "Netflix, Inc. suppliers manufacturers",
-      "snippet": "Visual Data (UK) became a Netflix Preferred Vendor in 2013 and its technical, professional and service standards are among the highest in the industry"
+      "snippet": "Netflix Preferred Fulfillment Partners Hiventy Group has been providing high-end technical solutions to the entertainment industry for more than 30 ye"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://csimarket.com/stocks/NFLX-Suppliers",
       "query": "Netflix, Inc. suppliers manufacturers",
-      "snippet": "Apr 24, 2026 · Netflix Inc supply chain, list and performance of Netflix Incs ' suppliers - CSIMarket"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://businessmodelanalyst.com/netflix-target-market/",
-      "query": "Netflix, Inc. major customers clients",
-      "snippet": "Dec 11, 2024 · Netflix’ s target customers are not confined to a single country or region but encompass a broad and diverse international demographic."
+      "snippet": "Apr 24, 2026 · Netflix Inc 's Suppliers recorded an increase in sales by 11.24 % year on year in Q1 2026, from the previous quarter, sales fell by -8."
     },
     {
       "source": "DuckDuckGo",
       "url": "https://csimarket.com/stocks/NFLX-Customers",
       "query": "Netflix, Inc. major customers clients",
-      "snippet": "Apr 11, 2026 · For your research, we’ve provided 9 tables on Netflix Inc corporate clients . You can find them in the navigation menu under Customers "
+      "snippet": "Apr 11, 2026 · During the corresponding time, Netflix Inc recorded a revenue increase by 8.81 % year on year, sequentially revenue grew by 4.7 %. Whil"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://businessmodelanalyst.com/netflix-target-market/",
+      "query": "Netflix, Inc. major customers clients",
+      "snippet": "Dec 11, 2024 · In this context, understanding Netflix target market becomes even more significant for other brands hoping to emulate its success."
     }
   ]
 }

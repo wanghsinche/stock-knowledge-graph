@@ -2,24 +2,24 @@
 ticker: PYPL
 company: PayPal Holdings, Inc.
 sector: Financial Services
-industry: Credit Services
-extracted_at: 2026-02-26 16:50:59
-last_updated: 2026-02-26
+industry: Digital Payments
+extracted_at: 2026-05-05 17:20:31
+last_updated: 2026-05-05
 ---
 
 # PYPL - PayPal Holdings, Inc.
 
 ## 基本信息
 
-- **所属行业**: Financial Services / Credit Services
-- **提取时间**: 2026-02-26 16:50:59
+- **所属行业**: Financial Services / Digital Payments
+- **提取时间**: 2026-05-05 17:20:31
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Visa Inc.]]
-- [[Mastercard Inc.]]
-- [[Bank of America]]
+- [[Visa]]
+- [[Mastercard]]
+- [[American Express]]
 - [[AMZN]]
 - [[MSFT]]
 
@@ -28,30 +28,30 @@ last_updated: 2026-02-26
 - [[eBay]]
 - [[Etsy]]
 - [[Shopify]]
-- [[Uber]]
+- [[Airbnb]]
 
 ### 竞争对手
-- [[Stripe Inc.]]
-- [[Square Inc.]]
-- [[Adyen NV]]
+- [[Stripe]]
+- [[Square]]
+- [[Adyen]]
+- [[Payoneer]]
 - [[AMZN]]
-- [[AAPL]]
 
 ### 核心产品
 - [[PayPal Payments]]
 - [[PayPal Credit]]
 - [[Venmo]]
-- [[Braintree]]
-- [[PayPal Checkout]]
+- [[PayPal Here]]
+- [[PayPal Business]]
 
 ## 数据来源
 
 - [PayPal](https://en.wikipedia.org/wiki/PayPal_Holdings,_Inc.)
 - [PayPal Holdings, Inc. suppliers manufacturers](https://csimarket.com/stocks/PYPL-Suppliers)
-- [PayPal Holdings, Inc. suppliers manufacturers](https://inspirationfeed.com/paypal-subsidiaries/)
+- [PayPal Holdings, Inc. suppliers manufacturers](https://www.marketscreener.com/quote/stock/PAYPAL-HOLDINGS-INC-23377703/company-group/)
 - [PayPal Holdings, Inc. major customers clients](https://capitaloneshopping.com/research/paypal-statistics/)
-- [PayPal Holdings, Inc. major customers clients](https://csimarket.com/stocks/PYPL-Customers)
+- [PayPal Holdings, Inc. major customers clients](https://www.demandsage.com/paypal-statistics/)
 
 ## 元数据
 
-- **更新日期**: 2026-02-26
+- **更新日期**: 2026-05-05

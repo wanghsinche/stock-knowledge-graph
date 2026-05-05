@@ -6,32 +6,32 @@
   "upstream": [
     "DELL",
     "MSFT",
-    "Data storage solutions (e.g., NetApp, EMC)",
-    "CSCO",
-    "Security software providers (e.g., Symantec, McAfee)"
+    "Data providers (e.g., Bloomberg, FactSet)",
+    "MSFT",
+    "Software component suppliers (e.g., Java, .NET libraries)"
   ],
   "downstream": [
-    "Enterprise IT departments",
-    "Financial services firms",
-    "Government agencies",
-    "Retail and e‑commerce companies",
-    "Healthcare organizations"
+    "Financial services firms (e.g., JPMorgan Chase, Goldman Sachs)",
+    "Retail and e‑commerce companies (e.g., Walmart, Target)",
+    "Healthcare organizations (e.g., UnitedHealth Group)",
+    "Manufacturing enterprises (e.g., General Electric)",
+    "Government agencies (e.g., U.S. Department of Defense)"
   ],
   "competitors": [
     "Tableau Software",
-    "Qlik",
     "MSFT",
-    "SAP BusinessObjects",
-    "ORCL"
+    "Qlik",
+    "GOOGL",
+    "Sisense"
   ],
   "key_products": [
-    "MicroStrategy Desktop",
-    "MicroStrategy Web",
+    "MicroStrategy Analytics Platform",
+    "MicroStrategy Cloud",
     "MicroStrategy Mobile",
-    "MicroStrategy Analytics",
-    "MicroStrategy Cloud"
+    "MicroStrategy Data Warehouse",
+    "MicroStrategy SDK"
   ],
-  "extracted_at": "2026-05-04 17:25:14",
+  "extracted_at": "2026-05-05 17:19:00",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/MSTR/",
+      "url": "https://www.industryselect.com/blog/top-10-manufacturing-companies-in-illinois",
       "query": "Strategy Inc suppliers manufacturers",
-      "snippet": "Find the latest Strategy Inc (MSTR) stock quote, history, news and other vital information to help you with your stock trading and investing."
+      "snippet": "Illinois is currently home to 13,975 manufacturers employing 722,894 workers, making it among the largest industrial states in the U.S. According to I"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.scmdojo.com/4-reasons-why-single-sourcing-is-still-good-strategy/",
+      "url": "https://www.strategyinc.net/services-overview/",
       "query": "Strategy Inc suppliers manufacturers",
-      "snippet": "Manufacturers Benefits of Single Sourcing. Administrative efficiency. – There is no need to solicit and review bids from a variety of suppliers ."
+      "snippet": "Our Consulting Services At Strategy Inc ., we offer a comprehensive range of consulting services required for life science and medical device due dili"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/STRF-Customers",
+      "url": "https://www.strategy.com/press/strategy-recognized-customers-choice-gartner-peer-insights-through-user-feedback-for-fourth-consecutive-year_12-11-2025",
       "query": "Strategy Inc major customers clients",
-      "snippet": "Jan 30, 2026 · Strategy Inc customers and markets, results by customer and performance relative to STRF, by company and industry - CSIMarket"
+      "snippet": "Dec 11, 2025 · Strategy is the only Analytics & Business Intelligence Platforms vendor to receive this distinction for four years in a row based on ra"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://umbrex.com/resources/company-profiles/strategy-inc/",
       "query": "Strategy Inc major customers clients",
-      "snippet": "Strategy ’ s customer base is primarily enterprise and institutional rather than consumer. Public disclosures do not suggest dependence on one single "
+      "snippet": "Operationally, customers still buy enterprise software and related support; strategically, management has also used the company’s balance sheet and ca"
     }
   ]
 }

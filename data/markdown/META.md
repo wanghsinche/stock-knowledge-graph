@@ -3,8 +3,8 @@ ticker: META
 company: Meta Platforms, Inc.
 sector: Communication Services
 industry: Internet Content & Information
-extracted_at: 2026-05-04 17:23:04
-last_updated: 2026-05-04
+extracted_at: 2026-05-05 17:15:37
+last_updated: 2026-05-05
 ---
 
 # META - Meta Platforms, Inc.
@@ -12,47 +12,48 @@ last_updated: 2026-05-04
 ## 基本信息
 
 - **所属行业**: Communication Services / Internet Content & Information
-- **提取时间**: 2026-05-04 17:23:04
+- **提取时间**: 2026-05-05 17:15:37
 
 ## 产业链关系
 
 ### 上游供应商
-- [[INTC]]
-- [[QCOM]]
-- [[NVDA]]
-- [[AMD]]
-- [[005930.KS]]
+- [[AR/VR hardware suppliers]]
+- [[Chip manufacturers]]
+- [[Cloud service providers]]
+- [[Content delivery network providers]]
+- [[Advertising technology vendors]]
 
 ### 下游客户
-- [[Advertisers (brands and agencies)]]
-- [[Media companies]]
-- [[Content creators]]
-- [[App developers]]
-- [[Enterprise customers]]
+- [[Advertisers (brands & agencies)]]
+- [[Third‑party advertisers]]
+- [[Content creators & influencers]]
+- [[META]]
+- [[META]]
 
 ### 竞争对手
-- [[GOOGL]]
-- [[AMZN]]
-- [[AAPL]]
+- [[Twitter (X)]]
+- [[Snap Inc.]]
+- [[ByteDance (TikTok)]]
 - [[MSFT]]
-- [[NVDA]]
+- [[Pinterest]]
 
 ### 核心产品
 - [[Facebook]]
 - [[Instagram]]
 - [[WhatsApp]]
 - [[Messenger]]
-- [[Threads]]
-- [[Meta Advertising Platform]]
+- [[Meta Quest (VR/AR)]]
+- [[Meta Ads]]
+- [[Meta Business Suite]]
 
 ## 数据来源
 
 - [Meta Platforms](https://en.wikipedia.org/wiki/Meta_Platforms,_Inc.)
-- [Meta Platforms, Inc. suppliers manufacturers](https://www.meta.com/about/)
-- [Meta Platforms, Inc. suppliers manufacturers](https://www.computerhope.com/comp/meta.htm)
-- [Meta Platforms, Inc. major customers clients](https://www.insidermonkey.com/blog/is-meta-platforms-meta-trading-at-an-attractive-price-1744614/)
-- [Meta Platforms, Inc. major customers clients](https://www.meta.com/about/)
+- [Meta Platforms, Inc. suppliers manufacturers](https://csimarket.com/stocks/META-Suppliers)
+- [Meta Platforms, Inc. suppliers manufacturers](https://www.suppliersmap.com/meta)
+- [Meta Platforms, Inc. major customers clients](https://en.wikipedia.org/wiki/Meta_Platforms)
+- [Meta Platforms, Inc. major customers clients](https://www.statista.com/topics/9038/meta-platforms/?srsltid=AfmBOoownzFZlZ-dGmmlok1K0Bm1Vr7wYhQU7kNRI100viCEe1Eb3ndT)
 
 ## 元数据
 
-- **更新日期**: 2026-05-04
+- **更新日期**: 2026-05-05
