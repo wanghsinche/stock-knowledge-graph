@@ -1,21 +1,21 @@
 {
   "ticker": "VRT",
   "company_name": "Vertiv Holdings Co",
-  "sector": "Industrials / Electrical Equipment & Parts",
-  "industry": "Critical Digital Infrastructure",
+  "sector": "Industrials",
+  "industry": "Electrical Equipment & Parts",
   "upstream": [
-    "TXN",
-    "ADI",
-    "Maxim Integrated",
-    "Infineon Technologies",
-    "STMicroelectronics"
+    "Power supply manufacturers",
+    "Cooling system suppliers",
+    "Networking equipment vendors",
+    "Component suppliers (semiconductors, capacitors)",
+    "Software platform providers"
   ],
   "downstream": [
-    "AMZN",
-    "GOOGL",
-    "MSFT",
-    "Facebook",
-    "AT&T"
+    "Data center operators",
+    "CAT",
+    "Cloud service providers",
+    "Enterprise IT departments",
+    "Industrial automation firms"
   ],
   "competitors": [
     "Schneider Electric",
@@ -25,43 +25,19 @@
     "Honeywell"
   ],
   "key_products": [
-    "Power Distribution Units (PDUs)",
     "Uninterruptible Power Supplies (UPS)",
-    "Cooling Systems",
-    "Data Center Infrastructure Management (DCIM) Software",
-    "Power Monitoring & Management"
+    "Power Distribution Units (PDU)",
+    "Cooling and HVAC solutions",
+    "Rack enclosures and infrastructure",
+    "Data Center Infrastructure Management (DCIM) software"
   ],
-  "extracted_at": "2026-05-05 17:24:18",
+  "extracted_at": "2026-05-06 17:44:25",
   "sources": [
     {
       "source": "Wikipedia",
-      "url": "",
-      "title": "",
-      "snippet": ""
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Vertiv",
-      "query": "Vertiv Holdings Co suppliers manufacturers",
-      "snippet": "Vertiv Holdings Co . is an American provider of infrastructure and services for data centers, communication networks, and commercial and industrial en"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://partners.vertiv.com/English/directory",
-      "query": "Vertiv Holdings Co suppliers manufacturers",
-      "snippet": "Easily find Vertiv partners and distributors worldwide using the comprehensive Partner Locator tool."
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Vertiv",
-      "query": "Vertiv Holdings Co major customers clients",
-      "snippet": "Vertiv Holdings Co . is an American provider of infrastructure and services for data centers, communication networks, and commercial and industrial en"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.appsruntheworld.com/customers-database/vendors/view/vertiv",
-      "query": "Vertiv Holdings Co major customers clients",
-      "snippet": "List of companies using or evaluating Vertiv applications, with details on their revenues, employees, industries, and locations."
+      "url": "https://en.wikipedia.org/wiki/Vertiv_Holdings_Co",
+      "title": "Vertiv",
+      "snippet": "Vertiv Holdings Co. is an American provider of infrastructure and services for data centers, communication networks, and commercial and industrial environments."
     }
   ]
 }

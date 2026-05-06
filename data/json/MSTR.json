@@ -4,64 +4,40 @@
   "sector": "Technology",
   "industry": "Software - Application",
   "upstream": [
-    "DELL",
-    "MSFT",
-    "Data providers (e.g., Bloomberg, FactSet)",
-    "MSFT",
-    "Software component suppliers (e.g., Java, .NET libraries)"
+    "Hardware component suppliers",
+    "Cloud infrastructure providers",
+    "Data storage and management vendors",
+    "Software development tool providers",
+    "Network equipment manufacturers"
   ],
   "downstream": [
-    "Financial services firms (e.g., JPMorgan Chase, Goldman Sachs)",
-    "Retail and e‑commerce companies (e.g., Walmart, Target)",
-    "Healthcare organizations (e.g., UnitedHealth Group)",
-    "Manufacturing enterprises (e.g., General Electric)",
-    "Government agencies (e.g., U.S. Department of Defense)"
+    "Enterprise IT departments",
+    "Financial services firms",
+    "Government agencies",
+    "Retail and e‑commerce companies",
+    "Healthcare organizations"
   ],
   "competitors": [
     "Tableau Software",
+    "Qlik Technologies",
     "MSFT",
-    "Qlik",
-    "GOOGL",
-    "Sisense"
+    "SAP BusinessObjects",
+    "ORCL"
   ],
   "key_products": [
-    "MicroStrategy Analytics Platform",
-    "MicroStrategy Cloud",
+    "MicroStrategy Desktop",
+    "MicroStrategy Web",
     "MicroStrategy Mobile",
-    "MicroStrategy Data Warehouse",
-    "MicroStrategy SDK"
+    "MicroStrategy Cloud",
+    "MicroStrategy Analytics"
   ],
-  "extracted_at": "2026-05-05 17:19:00",
+  "extracted_at": "2026-05-06 17:31:36",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "",
       "title": "",
       "snippet": ""
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.industryselect.com/blog/top-10-manufacturing-companies-in-illinois",
-      "query": "Strategy Inc suppliers manufacturers",
-      "snippet": "Illinois is currently home to 13,975 manufacturers employing 722,894 workers, making it among the largest industrial states in the U.S. According to I"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.strategyinc.net/services-overview/",
-      "query": "Strategy Inc suppliers manufacturers",
-      "snippet": "Our Consulting Services At Strategy Inc ., we offer a comprehensive range of consulting services required for life science and medical device due dili"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.strategy.com/press/strategy-recognized-customers-choice-gartner-peer-insights-through-user-feedback-for-fourth-consecutive-year_12-11-2025",
-      "query": "Strategy Inc major customers clients",
-      "snippet": "Dec 11, 2025 · Strategy is the only Analytics & Business Intelligence Platforms vendor to receive this distinction for four years in a row based on ra"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://umbrex.com/resources/company-profiles/strategy-inc/",
-      "query": "Strategy Inc major customers clients",
-      "snippet": "Operationally, customers still buy enterprise software and related support; strategically, management has also used the company’s balance sheet and ca"
     }
   ]
 }

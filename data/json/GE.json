@@ -1,67 +1,43 @@
 {
   "ticker": "GE",
-  "company_name": "General Electric Company (GE Aerospace)",
+  "company_name": "General Electric Company",
   "sector": "Industrials",
   "industry": "Aerospace & Defense",
   "upstream": [
-    "Alcoa (Aluminum)",
-    "Linde (Industrial gases)",
-    "Boeing (aircraft components)",
-    "Honeywell (Avionics)",
-    "United Technologies (components)"
+    "3M",
+    "Honeywell",
+    "United Technologies (Raytheon Technologies)",
+    "Pratt & Whitney",
+    "Safran"
   ],
   "downstream": [
-    "Boeing",
-    "Airbus",
-    "United Airlines",
+    "American Airlines",
     "Delta Air Lines",
+    "United Airlines",
+    "Lufthansa",
     "U.S. Air Force"
   ],
   "competitors": [
-    "Pratt & Whitney (Raytheon)",
+    "Pratt & Whitney",
     "Rolls‑Royce",
-    "Safran",
     "MTU Aero Engines",
+    "Safran",
     "Honeywell Aerospace"
   ],
   "key_products": [
     "GE90 jet engine",
-    "CFM56",
-    "CF34",
-    "GE9X",
-    "GE F110"
+    "GE9X jet engine",
+    "GE75 jet engine",
+    "GE2X turbofan",
+    "GE turboprop engines"
   ],
-  "extracted_at": "2026-05-04 17:28:55",
+  "extracted_at": "2026-05-06 17:31:02",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/GE_Aerospace",
       "title": "GE Aerospace",
       "snippet": "General Electric Company, doing business as GE Aerospace, is an American aircraft engine supplier that is headquartered in Evendale, Ohio, outside Cincinnati. It is the legal successor to the original"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/GE_Aerospace",
-      "query": "GE Aerospace suppliers manufacturers",
-      "snippet": "GE Aerospace both manufactures engines under its name and partners with other manufacturers to produce engines. CFM International, the world's leading"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://supplier.geaerospace.com/",
-      "query": "GE Aerospace suppliers manufacturers",
-      "snippet": "GE Aerospace supplier portal provides suppliers the ability to access information and enter business transactions in an online and secure environment."
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/General_Electric",
-      "query": "GE Aerospace major customers clients",
-      "snippet": "GE Aerospace , the aerospace company, is GE 's legal successor. GE HealthCare, the health technology company, was spun off from GE in 2023. GE is stil"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.morningstar.com/stocks/after-earnings-is-ge-aerospace-stock-buy-sell-or-fairly-valued-9",
-      "query": "GE Aerospace major customers clients",
-      "snippet": "GE Aerospace GE released its first-quarter earnings report on April 21. Here’s Morningstar’s take on GE Aerospace ’s earnings and stock. GE Aerospace "
     }
   ]
 }

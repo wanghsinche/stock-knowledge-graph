@@ -1,55 +1,57 @@
 ---
 ticker: LITE
 company: Lumentum Holdings Inc.
-sector: Technology / Communication Equipment
-industry: Optical and Photonic Components
-extracted_at: 2026-05-05 17:16:15
-last_updated: 2026-05-05
+sector: Technology
+industry: Communication Equipment
+extracted_at: 2026-05-06 17:24:27
+last_updated: 2026-05-06
 ---
 
 # LITE - Lumentum Holdings Inc.
 
 ## 基本信息
 
-- **所属行业**: Technology / Communication Equipment / Optical and Photonic Components
-- **提取时间**: 2026-05-05 17:16:15
+- **所属行业**: Technology / Communication Equipment
+- **提取时间**: 2026-05-06 17:24:27
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Semiconductor material suppliers]]
-- [[Laser diode manufacturers]]
-- [[Optical fiber manufacturers]]
-- [[Packaging suppliers]]
-- [[Photonic integrated circuit suppliers]]
+- [[INTC]]
+- [[Optical fiber suppliers (e.g., Corning)]]
+- [[Laser component suppliers (e.g., Coherent)]]
+- [[Photonic integrated circuit suppliers (e.g., Infinera)]]
+- [[Optical component suppliers (e.g., Newport Corporation)]]
 
 ### 下游客户
+- [[MSFT]]
+- [[CAT]]
+- [[Data center operators (e.g., Equinix)]]
 - [[CSCO]]
-- [[Huawei]]
-- [[Nokia]]
-- [[Ericsson]]
 - [[DELL]]
 
 ### 竞争对手
-- [[II-VI Incorporated]]
-- [[Coherent]]
-- [[Newport Corporation]]
+- [[Coherent Inc.]]
+- [[Infinera Corp.]]
+- [[Ciena Corp.]]
+- [[Thorlabs Inc.]]
+- [[II‑VI Incorporated]]
 
 ### 核心产品
 - [[Optical transceivers]]
-- [[Laser diodes]]
+- [[Laser modules]]
 - [[Photonic integrated circuits]]
-- [[Fiber optic components]]
 - [[Optical amplifiers]]
+- [[Optical sensors]]
 
 ## 数据来源
 
 - 
 - [Lumentum Holdings Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/Lumentum)
-- [Lumentum Holdings Inc. suppliers manufacturers](https://www.lumentum.com/en/company/distributors)
-- [Lumentum Holdings Inc. major customers clients](https://csimarket.com/stocks/LITE-Customers)
-- [Lumentum Holdings Inc. major customers clients](https://www.bizjournals.com/triad/news/2026/04/29/lumentum-opens-greensboro-fab-nvidia-qorvo.html)
+- [Lumentum Holdings Inc. suppliers manufacturers](https://www.lumentum.com/en)
+- [Lumentum Holdings Inc. major customers clients](https://matrixbcg.com/blogs/target-market/lumentum)
+- [Lumentum Holdings Inc. major customers clients](https://www.unifygtm.com/insights-headcount/lumentum)
 
 ## 元数据
 
-- **更新日期**: 2026-05-05
+- **更新日期**: 2026-05-06

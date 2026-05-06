@@ -1,57 +1,53 @@
 ---
 ticker: GE
-company: General Electric Company (GE Aerospace)
+company: General Electric Company
 sector: Industrials
 industry: Aerospace & Defense
-extracted_at: 2026-05-04 17:28:55
-last_updated: 2026-05-04
+extracted_at: 2026-05-06 17:31:02
+last_updated: 2026-05-06
 ---
 
-# GE - General Electric Company (GE Aerospace)
+# GE - General Electric Company
 
 ## 基本信息
 
 - **所属行业**: Industrials / Aerospace & Defense
-- **提取时间**: 2026-05-04 17:28:55
+- **提取时间**: 2026-05-06 17:31:02
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Alcoa (Aluminum)]]
-- [[Linde (Industrial gases)]]
-- [[Boeing (aircraft components)]]
-- [[Honeywell (Avionics)]]
-- [[United Technologies (components)]]
+- [[3M]]
+- [[Honeywell]]
+- [[United Technologies (Raytheon Technologies)]]
+- [[Pratt & Whitney]]
+- [[Safran]]
 
 ### 下游客户
-- [[Boeing]]
-- [[Airbus]]
-- [[United Airlines]]
+- [[American Airlines]]
 - [[Delta Air Lines]]
+- [[United Airlines]]
+- [[Lufthansa]]
 - [[U.S. Air Force]]
 
 ### 竞争对手
-- [[Pratt & Whitney (Raytheon)]]
+- [[Pratt & Whitney]]
 - [[Rolls‑Royce]]
-- [[Safran]]
 - [[MTU Aero Engines]]
+- [[Safran]]
 - [[Honeywell Aerospace]]
 
 ### 核心产品
 - [[GE90 jet engine]]
-- [[CFM56]]
-- [[CF34]]
-- [[GE9X]]
-- [[GE F110]]
+- [[GE9X jet engine]]
+- [[GE75 jet engine]]
+- [[GE2X turbofan]]
+- [[GE turboprop engines]]
 
 ## 数据来源
 
 - [GE Aerospace](https://en.wikipedia.org/wiki/GE_Aerospace)
-- [GE Aerospace suppliers manufacturers](https://en.wikipedia.org/wiki/GE_Aerospace)
-- [GE Aerospace suppliers manufacturers](https://supplier.geaerospace.com/)
-- [GE Aerospace major customers clients](https://en.wikipedia.org/wiki/General_Electric)
-- [GE Aerospace major customers clients](https://www.morningstar.com/stocks/after-earnings-is-ge-aerospace-stock-buy-sell-or-fairly-valued-9)
 
 ## 元数据
 
-- **更新日期**: 2026-05-04
+- **更新日期**: 2026-05-06

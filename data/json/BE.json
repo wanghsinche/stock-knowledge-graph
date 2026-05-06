@@ -1,31 +1,43 @@
 {
   "ticker": "BE",
   "company_name": "Bloom Energy Corporation",
-  "sector": "Industrials",
-  "industry": "Electrical Equipment & Parts",
-  "upstream": [],
-  "downstream": [],
-  "competitors": [],
-  "key_products": [],
-  "extracted_at": "2026-05-05 17:21:17",
+  "sector": "Industrials / Electrical Equipment & Parts",
+  "industry": "Solid Oxide Fuel Cell Technology",
+  "upstream": [
+    "Zirconium-based electrolyte materials suppliers",
+    "CAT",
+    "Natural gas pipeline providers",
+    "Biogas processing equipment manufacturers",
+    "Electrolyzer component suppliers"
+  ],
+  "downstream": [
+    "AMZN",
+    "GOOGL",
+    "MSFT",
+    "Data center operators",
+    "Manufacturing plants"
+  ],
+  "competitors": [
+    "FuelCell Energy",
+    "Plug Power",
+    "Ballard Power Systems",
+    "Hydrogenics",
+    "PowerCell"
+  ],
+  "key_products": [
+    "Solid Oxide Fuel Cell (SOFC) systems",
+    "Electrolyzers for hydrogen production",
+    "On-site power generation units",
+    "Hybrid fuel cell systems",
+    "Fuel cell stack components"
+  ],
+  "extracted_at": "2026-05-06 17:35:04",
   "sources": [
     {
       "source": "Wikipedia",
-      "url": "",
-      "title": "",
-      "snippet": ""
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://matchory.com/company/bloom-energy-corporation",
-      "query": "Bloom Energy Corporation suppliers manufacturers",
-      "snippet": "Other clients of the suppliers of BLOOM ENERGY CORPORATION KAORI HEAT TREATMENT BLOOM ENERGY CORPORATION THERMO KING CORPORATION upgrade BLOOM ENERGY "
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.trademo.com/companies/bloom-energy-corporation/3748935",
-      "query": "Bloom Energy Corporation suppliers manufacturers",
-      "snippet": "Find shipment details and trends, top products imported and exported, buyers, suppliers , contact details of Bloom Energy Corporation , and much more "
+      "url": "https://en.wikipedia.org/wiki/Bloom_Energy_Corporation",
+      "title": "Bloom Energy",
+      "snippet": "Bloom Energy is an American public company that designs and manufactures solid oxide fuel cells (SOFCs) which independently produce electricity onsite for power generation in data centers, manufacturi"
     }
   ]
 }

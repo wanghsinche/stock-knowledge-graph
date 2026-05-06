@@ -6,62 +6,38 @@
   "upstream": [
     "TSLA",
     "AAPL",
-    "Payment processors (e.g., Visa, Mastercard)",
+    "Payment processors (Visa, Mastercard, Stripe)",
     "GOOGL",
-    "MSFT"
+    "CSCO"
   ],
   "downstream": [
-    "Individual riders (consumer passengers)",
-    "Couriers and delivery drivers (Uber Eats)",
-    "Freight shippers (Uber Freight)",
-    "Corporate clients (Uber for Business)",
-    "Healthcare providers (Uber Health)"
+    "Individual riders",
+    "Independent drivers and couriers",
+    "Restaurant partners for Uber Eats",
+    "Freight shippers and logistics companies",
+    "Enterprise clients using Uber for Business"
   ],
   "competitors": [
     "Lyft",
     "Didi Chuxing",
     "Grab",
     "Ola",
-    "Via"
+    "Bolt"
   ],
   "key_products": [
-    "Uber Ride‑hailing",
-    "Uber Eats food delivery",
-    "Uber Freight logistics",
-    "Uber for Business corporate mobility",
-    "Uber Health medical transportation"
+    "Uber Ride (on-demand rides)",
+    "Uber Eats (food delivery)",
+    "Uber Freight (logistics and freight)",
+    "Uber for Business (enterprise mobility solutions)",
+    "Uber Driver (driver management platform)"
   ],
-  "extracted_at": "2026-03-17 17:00:46",
+  "extracted_at": "2026-05-06 17:32:09",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Uber_Technologies,_Inc.",
       "title": "Uber",
       "snippet": "Uber Technologies, Inc. is an American multinational transportation company that provides ride-hailing services, courier services, food delivery, and freight transport. It is headquartered in San Fran"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/UBER-Suppliers",
-      "query": "Uber Technologies, Inc. suppliers manufacturers",
-      "snippet": "Feb 14, 2026 · For your research, we’ve provided nine additional tables on Uber Technologies Inc ’s suppliers . You can find them in the navigation me"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.uber.com/us/en/suppliers/",
-      "query": "Uber Technologies, Inc. suppliers manufacturers",
-      "snippet": "Uber Global Supplier Portal with information on how to become a supplier for Uber."
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Uber",
-      "query": "Uber Technologies, Inc. major customers clients",
-      "snippet": "Uber Technologies , Inc . is an American multinational transportation company that provides ride-hailing services, courier services, food delivery, an"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://support-uber.com/",
-      "query": "Uber Technologies, Inc. major customers clients",
-      "snippet": "Выгодные поездки. Uber покажет, куда лучше вызвать машину, чтобы поездка была быстрее и выгоднее. Маршруты с остановками. Укажите несколько адресов в "
     }
   ]
 }

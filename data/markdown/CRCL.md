@@ -1,57 +1,53 @@
 ---
 ticker: CRCL
-company: Circle Internet Group, Inc.
-sector: Financial Services
-industry: Capital Markets
-extracted_at: 2026-05-05 17:18:07
-last_updated: 2026-05-05
+company: Circle Internet Group
+sector: Financial Services / Capital Markets
+industry: Payments Technology
+extracted_at: 2026-05-06 17:38:03
+last_updated: 2026-05-06
 ---
 
-# CRCL - Circle Internet Group, Inc.
+# CRCL - Circle Internet Group
 
 ## 基本信息
 
-- **所属行业**: Financial Services / Capital Markets
-- **提取时间**: 2026-05-05 17:18:07
+- **所属行业**: Financial Services / Capital Markets / Payments Technology
+- **提取时间**: 2026-05-06 17:38:03
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Blockchain infrastructure providers]]
-- [[Payment processors (e.g., Stripe, PayPal)]]
-- [[Banking partners (e.g., JPMorgan, Wells Fargo)]]
-- [[Crypto exchange platforms (e.g., Coinbase, Binance)]]
-- [[Regulatory compliance vendors]]
+- [[Blockchain platforms (Ethereum, Algorand, Solana)]]
+- [[Liquidity providers (Uniswap, Coinbase, Kraken)]]
+- [[KYC/AML compliance services]]
+- [[Regulatory technology firms]]
+- [[Cryptocurrency exchanges]]
 
 ### 下游客户
+- [[Banks and financial institutions]]
+- [[Fintech companies]]
 - [[Merchants and e‑commerce platforms]]
-- [[Fintech startups using Circle APIs]]
-- [[Institutional investors and asset managers]]
-- [[Retail cryptocurrency users]]
-- [[Payment service providers]]
+- [[Institutional investors]]
+- [[Retail consumers]]
 
 ### 竞争对手
-- [[PayPal]]
-- [[Square (Block)]]
-- [[Stripe]]
 - [[Coinbase]]
+- [[PayPal]]
+- [[Stripe]]
+- [[Square]]
 - [[Revolut]]
 
 ### 核心产品
-- [[Circle Pay (payments)]]
 - [[USDC stablecoin]]
-- [[Circle Invest (investment platform)]]
-- [[Circle Wallet (crypto wallet)]]
-- [[Crypto trading and custody services]]
+- [[EURC stablecoin]]
+- [[USYC tokenized money‑market fund]]
+- [[Circle Pay]]
+- [[Circle Invest]]
 
 ## 数据来源
 
-- 
-- [Circle Internet Group suppliers manufacturers](https://en.wikipedia.org/wiki/Circle_Internet_Group)
-- [Circle Internet Group suppliers manufacturers](https://investor.circle.com/overview/default.aspx)
-- [Circle Internet Group major customers clients](https://en.wikipedia.org/wiki/Circle_Internet_Group)
-- [Circle Internet Group major customers clients](https://www.appsruntheworld.com/customers-database/vendors/view/circle-internet-group)
+- [Circle Internet Group](https://en.wikipedia.org/wiki/Circle_Internet_Group)
 
 ## 元数据
 
-- **更新日期**: 2026-05-05
+- **更新日期**: 2026-05-06

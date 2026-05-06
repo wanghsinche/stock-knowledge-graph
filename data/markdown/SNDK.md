@@ -2,56 +2,54 @@
 ticker: SNDK
 company: SanDisk Corporation
 sector: Technology
-industry: Semiconductors
-extracted_at: 2026-05-05 17:13:39
-last_updated: 2026-05-05
+industry: Computer Hardware
+extracted_at: 2026-05-06 17:22:39
+last_updated: 2026-05-06
 ---
 
 # SNDK - SanDisk Corporation
 
 ## 基本信息
 
-- **所属行业**: Technology / Semiconductors
-- **提取时间**: 2026-05-05 17:13:39
+- **所属行业**: Technology / Computer Hardware
+- **提取时间**: 2026-05-06 17:22:39
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Pliant Technology]]
-- [[MU]]
-- [[005930.KS]]
-- [[WDC]]
-- [[Toshiba Memory]]
+- [[NAND flash memory manufacturers]]
+- [[Silicon foundries]]
+- [[Packaging and assembly suppliers]]
+- [[Electronic component distributors]]
+- [[PCB and substrate suppliers]]
 
 ### 下游客户
-- [[AAPL]]
 - [[DELL]]
-- [[HPQ]]
-- [[Lenovo]]
-- [[005930.KS]]
+- [[AAPL]]
+- [[MSFT]]
+- [[Mobile device OEMs (Huawei, Xiaomi)]]
+- [[Enterprise storage vendors]]
 
 ### 竞争对手
+- [[005930.KS]]
+- [[MU]]
 - [[WDC]]
 - [[Kingston Technology]]
-- [[MU]]
-- [[STX]]
-- [[Toshiba]]
+- [[SK Hynix]]
 
 ### 核心产品
-- [[Flash memory chips]]
-- [[Solid State Drives (SSDs)]]
-- [[SD and microSD cards]]
+- [[NVMe SSDs]]
+- [[SATA SSDs]]
 - [[USB flash drives]]
-- [[Enterprise storage solutions]]
+- [[SD and microSD cards]]
+- [[Enterprise SSD solutions]]
 
 ## 数据来源
 
 - [Sandisk](https://en.wikipedia.org/wiki/Sandisk_Corporation)
-- [Sandisk Corporation suppliers manufacturers](https://en.wikipedia.org/wiki/SanDisk)
-- [Sandisk Corporation suppliers manufacturers](https://www.sandisk.com/company/distributors)
-- [Sandisk Corporation major customers clients](https://data.landbase.com/technology/sandisk/)
-- [Sandisk Corporation major customers clients](https://enlyft.com/tech/products/sandisk)
+- [Sandisk Corporation products services offerings](https://en.wikipedia.org/wiki/Sandisk)
+- [Sandisk Corporation products services offerings](https://www.sandisk.com/en-ie)
 
 ## 元数据
 
-- **更新日期**: 2026-05-05
+- **更新日期**: 2026-05-06

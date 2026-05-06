@@ -3,8 +3,8 @@ ticker: NOW
 company: ServiceNow, Inc.
 sector: Technology
 industry: Software - Application
-extracted_at: 2026-05-05 17:23:00
-last_updated: 2026-05-05
+extracted_at: 2026-05-06 17:41:00
+last_updated: 2026-05-06
 ---
 
 # NOW - ServiceNow, Inc.
@@ -12,7 +12,7 @@ last_updated: 2026-05-05
 ## 基本信息
 
 - **所属行业**: Technology / Software - Application
-- **提取时间**: 2026-05-05 17:23:00
+- **提取时间**: 2026-05-06 17:41:00
 
 ## 产业链关系
 
@@ -20,38 +20,34 @@ last_updated: 2026-05-05
 - [[AMZN]]
 - [[MSFT]]
 - [[GOOGL]]
-- [[ORCL]]
-- [[IBM]]
+- [[CSCO]]
+- [[DELL]]
 
 ### 下游客户
-- [[JPMorgan Chase]]
 - [[Walmart]]
-- [[Coca‑Cola]]
-- [[Bank of America]]
+- [[JPMorgan Chase]]
 - [[AT&T]]
+- [[Bank of America]]
+- [[Coca‑Cola]]
 
 ### 竞争对手
-- [[BMC Software]]
-- [[IBM]]
 - [[Atlassian]]
+- [[CRM]]
 - [[MSFT]]
-- [[CA Technologies]]
+- [[IBM]]
+- [[SAP]]
 
 ### 核心产品
-- [[ServiceNow Platform]]
+- [[Now Platform]]
 - [[IT Service Management (ITSM)]]
 - [[IT Operations Management (ITOM)]]
-- [[Security Operations (SecOps)]]
+- [[Security Operations]]
 - [[HR Service Delivery]]
 
 ## 数据来源
 
-- 
-- [ServiceNow, Inc. suppliers manufacturers](https://www.servicenow.com/company/supplier.html)
-- [ServiceNow, Inc. suppliers manufacturers](https://data.landbase.com/technology/servicenow/)
-- [ServiceNow, Inc. major customers clients](https://www.aventionmedia.com/technology-installed-base/servicenow/)
-- [ServiceNow, Inc. major customers clients](https://www.servicenow.com/customers.html)
+- [ServiceNow](https://en.wikipedia.org/wiki/ServiceNow,_Inc.)
 
 ## 元数据
 
-- **更新日期**: 2026-05-05
+- **更新日期**: 2026-05-06

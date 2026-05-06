@@ -2,17 +2,17 @@
 ticker: NBIS
 company: Nebius Group N.V.
 sector: Communication Services / Internet Content & Information
-industry: Artificial Intelligence Infrastructure Services
-extracted_at: 2026-05-05 17:19:15
-last_updated: 2026-05-05
+industry: Artificial Intelligence Infrastructure
+extracted_at: 2026-05-06 17:27:43
+last_updated: 2026-05-06
 ---
 
 # NBIS - Nebius Group N.V.
 
 ## 基本信息
 
-- **所属行业**: Communication Services / Internet Content & Information / Artificial Intelligence Infrastructure Services
-- **提取时间**: 2026-05-05 17:19:15
+- **所属行业**: Communication Services / Internet Content & Information / Artificial Intelligence Infrastructure
+- **提取时间**: 2026-05-06 17:27:43
 
 ## 产业链关系
 
@@ -20,38 +20,38 @@ last_updated: 2026-05-05
 - [[NVDA]]
 - [[AMD]]
 - [[INTC]]
-- [[CSCO]]
-- [[DELL]]
+- [[TSM]]
+- [[ASML]]
 
 ### 下游客户
-- [[Yandex N.V.]]
 - [[GOOGL]]
-- [[MSFT]]
 - [[AMZN]]
-- [[Facebook Inc.]]
+- [[MSFT]]
+- [[IBM]]
+- [[Alibaba Cloud]]
 
 ### 竞争对手
-- [[OpenAI]]
-- [[Anthropic]]
+- [[NVDA]]
+- [[AMD]]
 - [[GOOGL]]
-- [[AWS Bedrock]]
-- [[IBM]]
+- [[AMZN]]
+- [[MSFT]]
 
 ### 核心产品
 - [[Nebius AI Platform]]
-- [[Avride AI Services]]
-- [[TripleTen AI Solutions]]
-- [[Toloka Crowdsourcing Platform]]
-- [[Clickhouse Analytics Engine]]
+- [[GPU Cloud Computing]]
+- [[Avride]]
+- [[TripleTen]]
+- [[Clickhouse]]
 
 ## 数据来源
 
 - [Nebius Group](https://en.wikipedia.org/wiki/NBIS)
-- [NBIS suppliers manufacturers](https://csimarket.com/stocks/NBIS-Suppliers)
-- [NBIS suppliers manufacturers](https://finance.yahoo.com/quote/NBIS/?fr=sycsrp_catchall)
-- [NBIS major customers clients](https://en.wikipedia.org/wiki/Nebius_Group)
-- [NBIS major customers clients](https://csimarket.com/stocks/NBIS-Customers)
+- [NBIS suppliers manufacturers](https://en.wikipedia.org/wiki/Nebius_Group)
+- [NBIS suppliers manufacturers](https://northwiseproject.com/nbis-alabama-data-center/)
+- [NBIS competitors alternatives](https://www.runpod.io/articles/alternatives/nebius)
+- [NBIS competitors alternatives](https://www.reddit.com/r/ValueInvesting/comments/1nyroku/missed_the_boat_for_nbis_what_other_potential/)
 
 ## 元数据
 
-- **更新日期**: 2026-05-05
+- **更新日期**: 2026-05-06

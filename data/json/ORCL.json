@@ -4,34 +4,34 @@
   "sector": "Technology",
   "industry": "Software - Infrastructure",
   "upstream": [
-    "INTC",
     "AMD",
-    "NVDA",
+    "MSFT",
+    "Software component vendors (e.g., Red Hat, VMware)",
     "CSCO",
-    "DELL"
+    "Data center service providers"
   ],
   "downstream": [
-    "Walmart",
-    "JPMorgan Chase",
-    "AT&T",
-    "Bank of America",
-    "Verizon"
+    "Large enterprises (e.g., Walmart, JPMorgan Chase)",
+    "Government agencies (e.g., U.S. Department of Defense)",
+    "Financial institutions (e.g., Bank of America, Citigroup)",
+    "Healthcare organizations (e.g., Mayo Clinic)",
+    "Retail and e‑commerce companies (e.g., eBay, Alibaba)"
   ],
   "competitors": [
     "MSFT",
-    "AMZN",
-    "GOOGL",
+    "SAP",
     "IBM",
-    "SAP"
+    "AMZN",
+    "GOOGL"
   ],
   "key_products": [
     "Oracle Database",
-    "Oracle Cloud Infrastructure",
-    "Oracle ERP Cloud",
+    "Oracle Cloud Infrastructure (OCI)",
     "Oracle Autonomous Database",
-    "Oracle Analytics Cloud"
+    "Oracle Fusion Applications",
+    "Oracle ERP Cloud"
   ],
-  "extracted_at": "2026-05-05 17:17:16",
+  "extracted_at": "2026-05-06 17:26:23",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,25 +43,13 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/List_of_acquisitions_by_Oracle",
       "query": "Oracle Corporation suppliers manufacturers",
-      "snippet": "List of acquisitions by Oracle This is a listing of Oracle Corporation 's corporate acquisitions, including acquisitions of both companies and individ"
+      "snippet": "This is a listing of Oracle Corporation's corporate acquisitions, including acquisitions of both companies and individual products."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.oracle.com/corporate/suppliers/",
+      "url": "https://www.oracle.com/scm/manufacturing/",
       "query": "Oracle Corporation suppliers manufacturers",
-      "snippet": "Doing Business with Oracle Oracle iSupplier Portal (iSP) is a secured self-service tool, which provides Oracle's suppliers with the ability to use a s"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.thomsondata.com/customer-base/oracle.php",
-      "query": "Oracle Corporation major customers clients",
-      "snippet": "Technographic Data of Companies That Use Oracle Oracle Customers List by Industry Different industries use Oracle technology for their business . Look"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.oracle.com/customers/earnings/",
-      "query": "Oracle Corporation major customers clients",
-      "snippet": "Customer highlights from Q3 FY26 earnings Thank you, Air France-KLM, Argonne National Laboratory, Lockheed Martin, Louis Vuitton, Paramount, SoftBank,"
+      "snippet": "Oracle Fusion Cloud Manufacturing helps you streamline your global, mixed-mode manufacturing to maximize operational performance."
     }
   ]
 }

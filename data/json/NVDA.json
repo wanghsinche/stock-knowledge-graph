@@ -8,30 +8,30 @@
     "005930.KS",
     "GlobalFoundries",
     "MU",
-    "ASE"
+    "NVDA"
   ],
   "downstream": [
     "SONY",
     "MSFT",
+    "DELL",
     "AMZN",
-    "GOOGL",
     "TSLA"
   ],
   "competitors": [
     "AMD",
     "INTC",
     "QCOM",
-    "AAPL",
-    "005930.KS"
+    "AVGO",
+    "AAPL"
   ],
   "key_products": [
-    "GeForce RTX GPUs",
-    "Quadro/RTX A GPUs",
+    "GeForce GPUs",
+    "Quadro GPUs",
     "Tesla GPUs",
-    "Jetson SoCs",
-    "NVIDIA AI Platform (CUDA, TensorRT)"
+    "RTX GPUs",
+    "CUDA API"
   ],
-  "extracted_at": "2026-05-05 17:14:15",
+  "extracted_at": "2026-05-06 17:22:56",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://stocksandfuturestrading.com/the-complete-list-of-nvidias-suppliers-and-consumers/",
-      "query": "NVIDIA Corporation suppliers manufacturers",
-      "snippet": "Nov 22, 2024 · Trading Resources The Complete List Of Nvidia ’s Suppliers And Consumers By Stocks & Futures Trading This is the most recently updated "
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.suppliersmap.com/nvidia",
-      "query": "NVIDIA Corporation suppliers manufacturers",
-      "snippet": "Nvidia Nvidia works with leading semiconductor manufacturers for its GPU products, including TSMC for advanced chip fabrication, Samsung and Micron fo"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://stocksandfuturestrading.com/the-complete-list-of-nvidias-suppliers-and-consumers/",
+      "url": "https://www.linkedin.com/posts/jasoncalacanis_nvidia-is-the-worlds-most-valuable-company-activity-7367360878221877249-Jwbn",
       "query": "NVIDIA Corporation major customers clients",
-      "snippet": "Nov 22, 2024 · NVIDIA has completed one of the most dramatic business transformations in market history — going from a gaming GPU company to the backb"
+      "snippet": "Aug 29, 2025 · NVIDIA is the world's most valuable company, but it's powered by JUST A FEW actual customers. Just ONE MYSTERY CUSTOMER (come on, it's "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.fool.com/investing/2025/06/26/who-are-nvidias-biggest-customers/",
+      "url": "https://www.cnbc.com/2025/08/28/nvidias-top-two-mystery-customers-made-up-39percent-of-its-q2-revenue-.html",
       "query": "NVIDIA Corporation major customers clients",
-      "snippet": "Jun 26, 2025 · Nvidia 's GPUs and networking equipment account for a large chunk of AI data center spending, but other major costs include land acquis"
+      "snippet": "Aug 28, 2025 · Nvidia's top two customers making up 39% of its total revenue is renewing concern about the risk of the chipmakers clientele concentrat"
     }
   ]
 }

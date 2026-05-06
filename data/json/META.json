@@ -4,36 +4,34 @@
   "sector": "Communication Services",
   "industry": "Internet Content & Information",
   "upstream": [
-    "AR/VR hardware suppliers",
-    "Chip manufacturers",
-    "Cloud service providers",
-    "Content delivery network providers",
-    "Advertising technology vendors"
+    "NVDA",
+    "AMD",
+    "INTC",
+    "CSCO",
+    "DELL"
   ],
   "downstream": [
-    "Advertisers (brands & agencies)",
-    "Third‑party advertisers",
-    "Content creators & influencers",
-    "META",
-    "META"
+    "Advertisers",
+    "App developers",
+    "Content creators",
+    "Users",
+    "Enterprise customers"
   ],
   "competitors": [
-    "Twitter (X)",
-    "Snap Inc.",
-    "ByteDance (TikTok)",
+    "GOOGL",
+    "AMZN",
+    "AAPL",
     "MSFT",
-    "Pinterest"
+    "ByteDance"
   ],
   "key_products": [
     "Facebook",
     "Instagram",
     "WhatsApp",
     "Messenger",
-    "Meta Quest (VR/AR)",
-    "Meta Ads",
-    "Meta Business Suite"
+    "Threads"
   ],
-  "extracted_at": "2026-05-05 17:15:37",
+  "extracted_at": "2026-05-06 17:23:41",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,27 +41,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/META-Suppliers",
-      "query": "Meta Platforms, Inc. suppliers manufacturers",
-      "snippet": "3 days ago · Meta Platforms Inc 's Suppliers recorded an increase in sales by 6.44 % year on year in Q1 2026, from the previous quarter, sales fell by"
+      "url": "https://hudson-labs.com/research/meta-competitors-meta-top-rivals-in-2026",
+      "query": "Meta Platforms, Inc. competitors alternatives",
+      "snippet": "Compare Meta Platforms (META) to top competitors like Alphabet, Amazon, and Apple. META market cap: $1.63T. See key differences for 2026."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.suppliersmap.com/meta",
-      "query": "Meta Platforms, Inc. suppliers manufacturers",
-      "snippet": "Meta Meta works with leading technology suppliers for its AR/VR products, including Qualcomm for advanced processors, Sony and other display manufactu"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Meta_Platforms",
-      "query": "Meta Platforms, Inc. major customers clients",
-      "snippet": "Meta owns and operates several prominent social media platforms and communication services, including Facebook, Instagram, WhatsApp, Messenger, Thread"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.statista.com/topics/9038/meta-platforms/?srsltid=AfmBOoownzFZlZ-dGmmlok1K0Bm1Vr7wYhQU7kNRI100viCEe1Eb3ndT",
-      "query": "Meta Platforms, Inc. major customers clients",
-      "snippet": "Meta Platforms owns social media giants Facebook, Instagram, WhatsApp, and Messenger, among others, all of which are household names that continue to "
+      "url": "https://www.cbinsights.com/company/facebook/alternatives-competitors",
+      "query": "Meta Platforms, Inc. competitors alternatives",
+      "snippet": "Meta's alternatives and competitors. See how Meta compares to similar products. Meta's top competitors include X, Triller, and Even Realities."
     }
   ]
 }

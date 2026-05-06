@@ -1,67 +1,43 @@
 {
   "ticker": "STX",
   "company_name": "Seagate Technology Holdings plc",
-  "sector": "Technology",
-  "industry": "Computer Hardware",
+  "sector": "Technology / Computer Hardware",
+  "industry": "Hard Disk Drive Manufacturing",
   "upstream": [
-    "MU",
-    "005930.KS",
-    "SK Hynix",
-    "TDK Corporation",
-    "Kioxia (formerly Toshiba Memory)"
+    "Platter manufacturers",
+    "Electronics component suppliers",
+    "Firmware providers",
+    "Manufacturing equipment suppliers",
+    "Packaging suppliers"
   ],
   "downstream": [
     "DELL",
     "HPQ",
-    "Lenovo Group",
-    "IBM",
+    "Lenovo",
+    "AAPL",
     "AMZN"
   ],
   "competitors": [
     "WDC",
-    "Kioxia (formerly Toshiba Memory)",
+    "Toshiba",
     "005930.KS",
-    "INTC",
-    "MU"
+    "MU",
+    "INTC"
   ],
   "key_products": [
-    "Seagate HDDs",
-    "Seagate SSDs",
-    "Enterprise Storage Solutions",
-    "Portable External Drives",
-    "Data Center Drives"
+    "Hard Disk Drives",
+    "Solid State Drives",
+    "Enterprise Storage Systems",
+    "Data Center Storage Solutions",
+    "Hybrid Drives"
   ],
-  "extracted_at": "2026-05-05 17:16:39",
+  "extracted_at": "2026-05-06 17:28:45",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "",
       "title": "",
       "snippet": ""
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://investors.seagate.com/overview/default.aspx",
-      "query": "Seagate Technology Holdings plc suppliers manufacturers",
-      "snippet": "1 day ago · Register, access, and manage Lyve Mobile services, subscriptions and projects. Provides Suppliers with self-service tools targeted to the "
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/STX-Suppliers",
-      "query": "Seagate Technology Holdings plc suppliers manufacturers",
-      "snippet": "Feb 4, 2026 · Revenues of Seagate Technology Holdings Plc 's Suppliers , deteriorated by -11.07 % compared to the same quarter a year ago, Seagate Tec"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/STX-Customers",
-      "query": "Seagate Technology Holdings plc major customers clients",
-      "snippet": "Seagate Technology Holdings Plc 's Customers have recorded an advance in their cost of revenue by 6.09 % in the 1 quarter 2026 year on year, sequentia"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.kerrisdalecap.com/wp-content/uploads/2025/05/STX–Kerrisdale.pdf",
-      "query": "Seagate Technology Holdings plc major customers clients",
-      "snippet": "Seagate shares are ripe for a major re-rating and are a double or triple from current levels. Disclaimer: As of the publication date of this report, K"
     }
   ]
 }

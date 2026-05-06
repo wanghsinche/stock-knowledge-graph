@@ -2,36 +2,36 @@
   "ticker": "SNDK",
   "company_name": "SanDisk Corporation",
   "sector": "Technology",
-  "industry": "Semiconductors",
+  "industry": "Computer Hardware",
   "upstream": [
-    "Pliant Technology",
-    "MU",
-    "005930.KS",
-    "WDC",
-    "Toshiba Memory"
+    "NAND flash memory manufacturers",
+    "Silicon foundries",
+    "Packaging and assembly suppliers",
+    "Electronic component distributors",
+    "PCB and substrate suppliers"
   ],
   "downstream": [
-    "AAPL",
     "DELL",
-    "HPQ",
-    "Lenovo",
-    "005930.KS"
+    "AAPL",
+    "MSFT",
+    "Mobile device OEMs (Huawei, Xiaomi)",
+    "Enterprise storage vendors"
   ],
   "competitors": [
+    "005930.KS",
+    "MU",
     "WDC",
     "Kingston Technology",
-    "MU",
-    "STX",
-    "Toshiba"
+    "SK Hynix"
   ],
   "key_products": [
-    "Flash memory chips",
-    "Solid State Drives (SSDs)",
-    "SD and microSD cards",
+    "NVMe SSDs",
+    "SATA SSDs",
     "USB flash drives",
-    "Enterprise storage solutions"
+    "SD and microSD cards",
+    "Enterprise SSD solutions"
   ],
-  "extracted_at": "2026-05-05 17:13:39",
+  "extracted_at": "2026-05-06 17:22:39",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/SanDisk",
-      "query": "Sandisk Corporation suppliers manufacturers",
-      "snippet": "5 days ago - In May 2011, SanDisk acquired Pliant Technology, a manufacturer of solid state drives, for $327 million."
+      "url": "https://en.wikipedia.org/wiki/Sandisk",
+      "query": "Sandisk Corporation products services offerings",
+      "snippet": "Founded in 1988, it designs and manufactures flash memory products, including memory cards, USB flash drives, and solid-state drives (SSDs)."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.sandisk.com/company/distributors",
-      "query": "Sandisk Corporation suppliers manufacturers",
-      "snippet": "Region · Loading Region · Country/Area · Loading Country/Area · Brand · Loading Brand · Distributors | Sandisk"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://data.landbase.com/technology/sandisk/",
-      "query": "Sandisk Corporation major customers clients",
-      "snippet": "Aug 17, 2025 · We have data on 324 companies that use SanDisk. Our SanDisk customers list is available for download and comes enriched with vital comp"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://enlyft.com/tech/products/sandisk",
-      "query": "Sandisk Corporation major customers clients",
-      "snippet": "Target SanDisk customers to accomplish your sales and marketing goals. Customize SanDisk users by location, employees, revenue, industry, and more."
+      "url": "https://www.sandisk.com/en-ie",
+      "query": "Sandisk Corporation products services offerings",
+      "snippet": "High-performance SSDs, memory cards, and USB Flash Drives designed to prioritize speed, reliability, and energy efficiency for gamers, digital photogr"
     }
   ]
 }

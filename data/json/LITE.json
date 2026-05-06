@@ -1,35 +1,37 @@
 {
   "ticker": "LITE",
   "company_name": "Lumentum Holdings Inc.",
-  "sector": "Technology / Communication Equipment",
-  "industry": "Optical and Photonic Components",
+  "sector": "Technology",
+  "industry": "Communication Equipment",
   "upstream": [
-    "Semiconductor material suppliers",
-    "Laser diode manufacturers",
-    "Optical fiber manufacturers",
-    "Packaging suppliers",
-    "Photonic integrated circuit suppliers"
+    "INTC",
+    "Optical fiber suppliers (e.g., Corning)",
+    "Laser component suppliers (e.g., Coherent)",
+    "Photonic integrated circuit suppliers (e.g., Infinera)",
+    "Optical component suppliers (e.g., Newport Corporation)"
   ],
   "downstream": [
+    "MSFT",
+    "CAT",
+    "Data center operators (e.g., Equinix)",
     "CSCO",
-    "Huawei",
-    "Nokia",
-    "Ericsson",
     "DELL"
   ],
   "competitors": [
-    "II-VI Incorporated",
-    "Coherent",
-    "Newport Corporation"
+    "Coherent Inc.",
+    "Infinera Corp.",
+    "Ciena Corp.",
+    "Thorlabs Inc.",
+    "II‑VI Incorporated"
   ],
   "key_products": [
     "Optical transceivers",
-    "Laser diodes",
+    "Laser modules",
     "Photonic integrated circuits",
-    "Fiber optic components",
-    "Optical amplifiers"
+    "Optical amplifiers",
+    "Optical sensors"
   ],
-  "extracted_at": "2026-05-05 17:16:15",
+  "extracted_at": "2026-05-06 17:24:27",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,25 +43,25 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Lumentum",
       "query": "Lumentum Holdings Inc. suppliers manufacturers",
-      "snippet": "Lumentum Holdings Inc . is an American manufacturer of optical and photonic products. It was created in 2015 as a spinoff from JDSU."
+      "snippet": "Lumentum Holdings Inc. is an American manufacturer of optical and photonic products. It was created in 2015 as a spinoff from JDSU."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.lumentum.com/en/company/distributors",
+      "url": "https://www.lumentum.com/en",
       "query": "Lumentum Holdings Inc. suppliers manufacturers",
-      "snippet": "Lumentum is a global leader in optical and photonic products, enabling high-bandwidth connectivity, precision sensing, and advanced manufacturing."
+      "snippet": "Discover how Lumentum enables innovation through optical and photonic technologies for cloud networking, 3D sensing, lasers, and advanced manufacturin"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/LITE-Customers",
+      "url": "https://matrixbcg.com/blogs/target-market/lumentum",
       "query": "Lumentum Holdings Inc. major customers clients",
-      "snippet": "Apr 28, 2026 · Lumentum Holdings Inc customers and markets, results by customer and performance relative to LITE, by company and industry - CSIMarket"
+      "snippet": "Nov 26, 2025 · Lumentum primarily serves business-to-business clients, focusing on two main customer segments: Cloud & Networking and Industrial Tech."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.bizjournals.com/triad/news/2026/04/29/lumentum-opens-greensboro-fab-nvidia-qorvo.html",
+      "url": "https://www.unifygtm.com/insights-headcount/lumentum",
       "query": "Lumentum Holdings Inc. major customers clients",
-      "snippet": "6 days ago · Lumentum plans to invest $610 million and hire 400-500 workers at the Greensboro, N.C., fab it acquired from Qorvo, with Nvidia as its pr"
+      "snippet": "Apr 22, 2026 · Lumentum's customer base includes major players in the cloud and AI sectors, with significant demand for its optical circuit switches a"
     }
   ]
 }

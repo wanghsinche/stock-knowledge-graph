@@ -4,64 +4,40 @@
   "sector": "Communication Services",
   "industry": "Advertising Agencies",
   "upstream": [
-    "AAPL",
+    "AMZN",
     "GOOGL",
     "MSFT",
-    "Data analytics vendors (Mixpanel, Amplitude)",
-    "005930.KS"
+    "Nielsen",
+    "ORCL"
   ],
   "downstream": [
     "Mobile app developers",
-    "Digital marketing agencies",
-    "Brand advertisers",
-    "Gaming companies",
-    "E-commerce app operators"
+    "Game developers",
+    "Digital advertisers",
+    "Marketing agencies",
+    "E-commerce platforms"
   ],
   "competitors": [
-    "AdColony",
-    "IronSource",
+    "GOOGL",
     "Unity Ads",
-    "Vungle",
-    "GOOGL"
+    "Facebook Audience Network",
+    "Chartboost",
+    "Vungle"
   ],
   "key_products": [
-    "AppLovin SDK",
-    "MAX ad mediation platform",
-    "Lytics data analytics",
-    "Mobile app marketing solutions",
-    "In-app purchase optimization tools"
+    "Mobile advertising platform",
+    "App monetization solutions",
+    "User acquisition services",
+    "Data analytics & attribution",
+    "Video & rewarded ads"
   ],
-  "extracted_at": "2026-05-04 17:28:04",
+  "extracted_at": "2026-05-06 17:38:53",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "",
       "title": "",
       "snippet": ""
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/AppLovin",
-      "query": "AppLovin Corporation suppliers manufacturers",
-      "snippet": "On April 15, 2021, AppLovin became a public company, trading on the Nasdaq under the ticker APP; it began trading at US$70 per share, with a total val"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/APP-Suppliers",
-      "query": "AppLovin Corporation suppliers manufacturers",
-      "snippet": "For your research, we’ve provided nine additional tables on Applovin Corporation ’ s suppliers . You can find them in the navigation menu under Suppli"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.applovin.com/",
-      "query": "AppLovin Corporation major customers clients",
-      "snippet": "AppLovin enables businesses to advertise profitably with marketing technologies that attract customers , increase revenue, and track ad performance."
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/APP/",
-      "query": "AppLovin Corporation major customers clients",
-      "snippet": "Find the latest AppLovin Corporation (APP) stock quote, history, news and other vital information to help you with your stock trading and investing."
     }
   ]
 }

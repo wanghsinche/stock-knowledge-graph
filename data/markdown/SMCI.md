@@ -3,8 +3,8 @@ ticker: SMCI
 company: Super Micro Computer, Inc.
 sector: Technology
 industry: Computer Hardware
-extracted_at: 2026-03-25 17:00:56
-last_updated: 2026-03-25
+extracted_at: 2026-05-06 17:27:12
+last_updated: 2026-05-06
 ---
 
 # SMCI - Super Micro Computer, Inc.
@@ -12,34 +12,34 @@ last_updated: 2026-03-25
 ## 基本信息
 
 - **所属行业**: Technology / Computer Hardware
-- **提取时间**: 2026-03-25 17:00:56
+- **提取时间**: 2026-05-06 17:27:12
 
 ## 产业链关系
 
 ### 上游供应商
 - [[INTC]]
 - [[AMD]]
-- [[MU]]
-- [[005930.KS]]
+- [[NVDA]]
 - [[AVGO]]
+- [[005930.KS]]
 
 ### 下游客户
 - [[AMZN]]
 - [[MSFT]]
 - [[GOOGL]]
-- [[Alibaba Cloud]]
-- [[Huawei]]
+- [[Telecom operators (e.g., AT&T, Verizon)]]
+- [[NVDA]]
 
 ### 竞争对手
-- [[DELL]]
+- [[AMD]]
 - [[HPQ]]
-- [[Lenovo]]
 - [[CSCO]]
-- [[Inspur]]
+- [[IBM]]
+- [[DELL]]
 
 ### 核心产品
-- [[High-performance servers]]
-- [[High-efficiency servers]]
+- [[High‑performance servers]]
+- [[High‑efficiency servers]]
 - [[Server management software]]
 - [[Storage systems]]
 - [[Edge computing solutions]]
@@ -48,10 +48,10 @@ last_updated: 2026-03-25
 
 - [Supermicro](https://en.wikipedia.org/wiki/Super_Micro_Computer,_Inc.)
 - [Super Micro Computer, Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/Supermicro)
-- [Super Micro Computer, Inc. suppliers manufacturers](https://www.arrow.com/en/manufacturers/super-micro-computer-inc)
-- [Super Micro Computer, Inc. major customers clients](https://en.wikipedia.org/wiki/Supermicro)
-- [Super Micro Computer, Inc. major customers clients](https://ir.supermicro.com/)
+- [Super Micro Computer, Inc. suppliers manufacturers](https://www.supermicro.com/en/wheretobuy)
+- [Super Micro Computer, Inc. competitors alternatives](https://www.marketbeat.com/stocks/NASDAQ/SMCI/competitors-and-alternatives/)
+- [Super Micro Computer, Inc. competitors alternatives](https://www.reddit.com/r/msp/comments/1gafc4u/supermicro_replacement/)
 
 ## 元数据
 
-- **更新日期**: 2026-03-25
+- **更新日期**: 2026-05-06

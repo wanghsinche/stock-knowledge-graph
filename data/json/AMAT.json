@@ -3,11 +3,17 @@
   "company_name": "Applied Materials, Inc.",
   "sector": "Technology",
   "industry": "Semiconductor Equipment & Materials",
-  "upstream": [],
+  "upstream": [
+    "Silicon wafer suppliers",
+    "Chemical and process material vendors",
+    "Precision machining and tooling manufacturers",
+    "Electronic component suppliers",
+    "Cleanroom equipment providers"
+  ],
   "downstream": [
-    "INTC",
-    "005930.KS",
     "TSM",
+    "005930.KS",
+    "INTC",
     "MU",
     "SK Hynix"
   ],
@@ -19,43 +25,19 @@
     "AMAT"
   ],
   "key_products": [
-    "Semiconductor fabrication equipment",
-    "Deposition systems",
-    "Etching equipment",
-    "Metrology tools",
-    "Packaging equipment"
+    "Epitaxy systems",
+    "Photolithography equipment",
+    "Etch and deposition tools",
+    "Metrology and inspection systems",
+    "Software and services for semiconductor manufacturing"
   ],
-  "extracted_at": "2026-05-05 17:19:48",
+  "extracted_at": "2026-05-06 17:40:26",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Applied_Materials,_Inc.",
       "title": "Applied Materials",
       "snippet": "Applied Materials, Inc. is an American corporation that supplies equipment, services and software for the manufacture of semiconductor chips for electronics, flat panel displays for computers, smartph"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Applied_Materials",
-      "query": "Applied Materials, Inc. suppliers manufacturers",
-      "snippet": "Applied Materials , Inc . is an American corporation that supplies equipment, services and software for the manufacture of semiconductor (integrated c"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.appliedmaterials.com/",
-      "query": "Applied Materials, Inc. suppliers manufacturers",
-      "snippet": "Applied Materials , Inc . is the leader in materials engineering solutions that are at the foundation of virtually every new semiconductor and advance"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://portersfiveforce.com/blogs/target-market/appliedmaterials",
-      "query": "Applied Materials, Inc. major customers clients",
-      "snippet": "Nov 9, 2025 · The customer demographics for Applied Materials are defined by immense scale and technological ambition. This focus on a concentrated Gr"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.appliedmaterials.com/",
-      "query": "Applied Materials, Inc. major customers clients",
-      "snippet": "Applied Materials , Inc . is the leader in materials engineering solutions that are at the foundation of virtually every new semiconductor and advance"
     }
   ]
 }

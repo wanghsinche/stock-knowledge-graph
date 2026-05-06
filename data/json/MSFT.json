@@ -8,14 +8,14 @@
     "AMD",
     "NVDA",
     "QCOM",
-    "005930.KS"
+    "AVGO"
   ],
   "downstream": [
-    "Enterprise customers",
-    "Government agencies",
-    "Small and Medium Businesses (SMBs)",
-    "Consumers",
-    "OEM partners"
+    "Enterprise customers (e.g., Walmart, JPMorgan Chase)",
+    "Government agencies (e.g., U.S. Department of Defense)",
+    "DELL",
+    "CAT",
+    "Gaming studios (e.g., Electronic Arts, Ubisoft)"
   ],
   "competitors": [
     "AAPL",
@@ -25,16 +25,13 @@
     "CRM"
   ],
   "key_products": [
-    "Windows operating system",
-    "Microsoft Office suite",
-    "Azure cloud platform",
-    "Microsoft 365",
-    "Xbox gaming console",
-    "Surface devices",
-    "LinkedIn",
-    "GitHub"
+    "Windows 10/11",
+    "Microsoft Office",
+    "Azure Cloud Services",
+    "Microsoft Teams",
+    "Xbox Series X/S"
   ],
-  "extracted_at": "2026-05-05 17:15:24",
+  "extracted_at": "2026-05-06 17:24:10",
   "sources": [
     {
       "source": "Wikipedia",
@@ -44,27 +41,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.microsoft.com/en-us/procurement",
-      "query": "Microsoft Corporation suppliers manufacturers",
-      "snippet": "Microsoft Procurement is committed to building a diverse global supplier base that reflects the global diversity of our customers and provides all typ"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/MSFT-Suppliers",
-      "query": "Microsoft Corporation suppliers manufacturers",
-      "snippet": "Jan 29, 2026 · Sources: Microsoft Corporation 's official press releases and regulatory filings; CSIMarket.com's supply-chain research; and the financ"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.microsoft.com/en-us/customers/",
+      "url": "https://en.wikipedia.org/wiki/Microsoft",
       "query": "Microsoft Corporation major customers clients",
-      "snippet": "Explore customer success stories to learn how businesses are overcoming challenges, driving innovation, and achieving more with Microsoft solutions."
+      "snippet": "A Big Tech company, Microsoft is the largest software company by revenue, one of the most valuable public companies, and one of the most valuable bran"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/MSFT-Customers",
+      "url": "https://www.microsoft.com/en-us/customers",
       "query": "Microsoft Corporation major customers clients",
-      "snippet": "Microsoft's Comment on Sales, Marketing and Customers We distribute software through OEMs that pre-install our software on new PCs, tablets, servers, "
+      "snippet": "Discover ways customers are evolving ; Carlsberg Group. KPMG. City of Montreal ; Nationwide. Levi Strauss and Company. Fujitsu ; Alaska Airlines. NIQ."
     }
   ]
 }

@@ -2,66 +2,42 @@
   "ticker": "IONQ",
   "company_name": "IonQ, Inc.",
   "sector": "Technology",
-  "industry": "Quantum Computing / Computer Hardware",
+  "industry": "Quantum Computing",
   "upstream": [
-    "Leading global automotive manufacturer",
-    "Quantum component suppliers",
-    "Hardware component manufacturers",
-    "Software development partners",
-    "Research collaborators"
+    "Laser system manufacturers",
+    "Vacuum pump suppliers",
+    "Cryogenic equipment vendors",
+    "Electronic component suppliers",
+    "Ion trap hardware manufacturers"
   ],
   "downstream": [
-    "Enterprise clients",
-    "Research institutions",
-    "Cloud service providers",
-    "Government agencies",
-    "Academic partners"
+    "Universities and research institutions",
+    "Government agencies (e.g., DARPA)",
+    "GOOGL",
+    "Quantum software developers",
+    "Cloud service providers"
   ],
   "competitors": [
     "Rigetti Computing",
-    "D-Wave Systems",
     "Honeywell Quantum Solutions",
+    "D-Wave Systems",
     "Xanadu",
-    "Quantum Motion"
+    "Quantum Machines"
   ],
   "key_products": [
-    "Trapped ion quantum computers",
+    "Trapped ion quantum processors",
+    "IonQ Quantum SDK",
+    "Quantum cloud platform",
     "Quantum software stack",
-    "Quantum circuit optimization tools",
-    "Cloud quantum computing services",
-    "Quantum hardware components"
+    "Quantum hardware integration services"
   ],
-  "extracted_at": "2026-05-04 17:29:18",
+  "extracted_at": "2026-05-06 17:42:10",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/IonQ,_Inc.",
       "title": "IonQ",
       "snippet": "IonQ, Inc. is an American quantum computing hardware and software company headquartered in College Park, Maryland. The company develops general-purpose trapped ion quantum computers and accompanying s"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.ionq.com/",
-      "query": "IonQ, Inc. suppliers manufacturers",
-      "snippet": "IonQ partnered with a leading global automotive manufacturer , applying quantum-classical AI to solve critical materials science challenges. Our model"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.fool.com/earnings/call-transcripts/2026/02/25/ionq-ionq-q4-2025-earnings-call-transcript/",
-      "query": "IonQ, Inc. suppliers manufacturers",
-      "snippet": "IonQ , Inc . benefits from approximately 300 PhDs and 800 talented colleagues with advanced degrees, many of whom are household names in their fields."
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.ionq.com/",
-      "query": "IonQ, Inc. major customers clients",
-      "snippet": "IonQ delivers trapped ion quantum computing systems, cloud access, and enterprise solutions for real-world quantum applications.System applications. Q"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.fool.com/investing/2026/04/28/can-ionq-stock-turn-10000-into-100000-this-decade/",
-      "query": "IonQ, Inc. major customers clients",
-      "snippet": "IonQ ( IONQ 5.11%) hit a major milestone in 2025, when it became the first pure-play quantum computing company to surpass $100 million in annual GAAP "
     }
   ]
 }

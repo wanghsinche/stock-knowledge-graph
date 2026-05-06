@@ -1,67 +1,43 @@
 {
   "ticker": "HOOD",
   "company_name": "Robinhood Markets, Inc.",
-  "sector": "Financial Services / Capital Markets",
-  "industry": "Online Brokerage / FinTech",
+  "sector": "Financial Services",
+  "industry": "Capital Markets",
   "upstream": [
-    "Payment processors (e.g., Stripe, PayPal)",
-    "Market data providers (e.g., Bloomberg, Refinitiv)",
     "AMZN",
-    "Regulatory compliance vendors",
-    "Technology partners (e.g., Plaid)"
+    "Bloomberg",
+    "Nasdaq",
+    "Refinitiv",
+    "Stripe"
   ],
   "downstream": [
     "Retail investors",
-    "High‑frequency traders",
-    "Institutional clients",
-    "Crypto traders",
+    "Institutional investors",
+    "Small businesses",
+    "High-net-worth individuals",
     "Financial advisors"
   ],
   "competitors": [
+    "eToro",
     "Charles Schwab",
-    "E*TRADE",
     "Fidelity",
     "TD Ameritrade",
-    "Webull"
+    "Interactive Brokers"
   ],
   "key_products": [
-    "Robinhood Trading App",
-    "Robinhood Cash Management",
+    "Robinhood app",
     "Robinhood Gold",
-    "Crypto Trading",
-    "Stock and ETF trading"
+    "Cash Management",
+    "Crypto trading",
+    "Options trading"
   ],
-  "extracted_at": "2026-05-05 17:20:45",
+  "extracted_at": "2026-05-06 17:42:44",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "",
       "title": "",
       "snippet": ""
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Robinhood_Markets",
-      "query": "Robinhood Markets, Inc. suppliers manufacturers",
-      "snippet": "Robinhood Markets , Inc . is an American financial services company based in Menlo Park, California. It provides an electronic trading platform that f"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/HOOD-Suppliers",
-      "query": "Robinhood Markets, Inc. suppliers manufacturers",
-      "snippet": "Feb 28, 2026 · Robinhood Markets Inc 's Suppliers recorded an increase in sales by 8.72 % year on year in Q4 2025, sequentially sales grew by 4.1 %, w"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://investingintheweb.com/brokers/robinhood-statistics/",
-      "query": "Robinhood Markets, Inc. major customers clients",
-      "snippet": "Apr 7, 2026 · Robinhood revenues Robinhood generates revenues through transaction-based revenues, net interest revenues, and other revenues. Transacti"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://investors.robinhood.com/",
-      "query": "Robinhood Markets, Inc. major customers clients",
-      "snippet": "Mar 31, 2026 · Robinhood Markets , Inc . Investor relations (IR) website contains information about our business for stockholders, potential investors"
     }
   ]
 }

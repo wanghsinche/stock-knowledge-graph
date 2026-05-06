@@ -3,8 +3,8 @@ ticker: LRCX
 company: Lam Research Corporation
 sector: Technology
 industry: Semiconductor Equipment & Materials
-extracted_at: 2026-05-05 17:18:34
-last_updated: 2026-05-05
+extracted_at: 2026-05-06 17:29:19
+last_updated: 2026-05-06
 ---
 
 # LRCX - Lam Research Corporation
@@ -12,46 +12,42 @@ last_updated: 2026-05-05
 ## 基本信息
 
 - **所属行业**: Technology / Semiconductor Equipment & Materials
-- **提取时间**: 2026-05-05 17:18:34
+- **提取时间**: 2026-05-06 17:29:19
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Air Liquide]]
-- [[BASF]]
-- [[DuPont]]
-- [[Korea Semiconductor Materials]]
-- [[Mitsubishi Chemical]]
+- [[Silicon wafer suppliers]]
+- [[Chemical and gas suppliers]]
+- [[META]]
+- [[Precision tool manufacturers]]
+- [[Cleanroom equipment suppliers]]
 
 ### 下游客户
 - [[INTC]]
 - [[TSM]]
 - [[005930.KS]]
-- [[MU]]
-- [[SK Hynix]]
+- [[AMD]]
+- [[NVDA]]
 
 ### 竞争对手
 - [[AMAT]]
 - [[Tokyo Electron]]
-- [[KLA Corporation]]
 - [[ASML]]
-- [[LRCX]]
+- [[KLA Corporation]]
+- [[Teradyne]]
 
 ### 核心产品
-- [[Plasma etching systems]]
-- [[Plasma deposition equipment]]
-- [[Plasma cleaning equipment]]
-- [[Back‑end wafer‑level packaging equipment]]
-- [[Front‑end wafer processing equipment]]
+- [[Etch systems]]
+- [[Deposition equipment]]
+- [[Wafer cleaning systems]]
+- [[Back‑end wafer‑level packaging (WLP) tools]]
+- [[Metallization and interconnect equipment]]
 
 ## 数据来源
 
 - [Lam Research](https://en.wikipedia.org/wiki/Lam_Research_Corporation)
-- [Lam Research Corporation suppliers manufacturers](https://www.lamresearch.com/)
-- [Lam Research Corporation suppliers manufacturers](https://csimarket.com/stocks/LRCX-Suppliers)
-- [Lam Research Corporation major customers clients](https://csimarket.com/stocks/LRCX-Customers)
-- [Lam Research Corporation major customers clients](https://portersfiveforce.com/blogs/target-market/lamresearch)
 
 ## 元数据
 
-- **更新日期**: 2026-05-05
+- **更新日期**: 2026-05-06

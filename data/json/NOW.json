@@ -7,61 +7,37 @@
     "AMZN",
     "MSFT",
     "GOOGL",
-    "ORCL",
-    "IBM"
+    "CSCO",
+    "DELL"
   ],
   "downstream": [
-    "JPMorgan Chase",
     "Walmart",
-    "Coca‑Cola",
+    "JPMorgan Chase",
+    "AT&T",
     "Bank of America",
-    "AT&T"
+    "Coca‑Cola"
   ],
   "competitors": [
-    "BMC Software",
-    "IBM",
     "Atlassian",
+    "CRM",
     "MSFT",
-    "CA Technologies"
+    "IBM",
+    "SAP"
   ],
   "key_products": [
-    "ServiceNow Platform",
+    "Now Platform",
     "IT Service Management (ITSM)",
     "IT Operations Management (ITOM)",
-    "Security Operations (SecOps)",
+    "Security Operations",
     "HR Service Delivery"
   ],
-  "extracted_at": "2026-05-05 17:23:00",
+  "extracted_at": "2026-05-06 17:41:00",
   "sources": [
     {
       "source": "Wikipedia",
-      "url": "",
-      "title": "",
-      "snippet": ""
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.servicenow.com/company/supplier.html",
-      "query": "ServiceNow, Inc. suppliers manufacturers",
-      "snippet": "ServiceNow partners with capable and competitive suppliers who commit to diversity, sustainability, and best-in-class goods and services. Learn more h"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://data.landbase.com/technology/servicenow/",
-      "query": "ServiceNow, Inc. suppliers manufacturers",
-      "snippet": "Aug 17, 2025 · Companies using ServiceNow by ServiceNow, Inc . in 2026 As of 2026, 25,274 verified companies use ServiceNow – across industries, compa"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.aventionmedia.com/technology-installed-base/servicenow/",
-      "query": "ServiceNow, Inc. major customers clients",
-      "snippet": "Discover Avention Media’s accurate and customizable ServiceNow customers list. Our verified ServiceNow data helps you target key decision-makers and c"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.servicenow.com/customers.html",
-      "query": "ServiceNow, Inc. major customers clients",
-      "snippet": "Discover the measurable improvements ServiceNow delivers to enhance efficiency, productivity, and customer satisfaction"
+      "url": "https://en.wikipedia.org/wiki/ServiceNow,_Inc.",
+      "title": "ServiceNow",
+      "snippet": "ServiceNow, Inc. is an American software company that supplies a cloud computing platform for the creation and management of automated business workflows. The company was founded in Santa Clara, Calif"
     }
   ]
 }

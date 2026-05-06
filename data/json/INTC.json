@@ -6,9 +6,9 @@
   "upstream": [
     "TSM",
     "005930.KS",
-    "GlobalFoundries",
     "MU",
-    "ASML"
+    "SK Hynix",
+    "GlobalFoundries"
   ],
   "downstream": [
     "DELL",
@@ -20,18 +20,18 @@
   "competitors": [
     "AMD",
     "NVDA",
-    "QCOM",
-    "AVGO",
-    "TSM"
+    "005930.KS",
+    "TSM",
+    "QCOM"
   ],
   "key_products": [
     "Intel Core CPUs",
-    "Xeon CPUs",
+    "Intel Xeon CPUs",
     "Intel Arc GPUs",
-    "Intel Optane memory",
-    "Intel FPGAs"
+    "Intel chipsets",
+    "Intel AI accelerators"
   ],
-  "extracted_at": "2026-05-05 17:13:49",
+  "extracted_at": "2026-05-06 17:23:10",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Intel",
+      "url": "https://en.wikipedia.org/wiki/List_of_mergers_and_acquisitions_by_Intel",
       "query": "Intel Corporation suppliers manufacturers",
-      "snippet": "5 hours ago - Until then, the manufacture of complex integrated circuits was not reliable enough for customers to depend on a single supplier, but Gro"
+      "snippet": "The company has acquired dozens of companies across the global technology industry, with seven multi-billion-dollar acquisitions as of January 2023."
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.intel.com/content/www/us/en/supplier/overview.html",
       "query": "Intel Corporation suppliers manufacturers",
-      "snippet": "Intel is working to continuously improve transparency and promote corporate responsibility throughout the global electronics supply chain. ... Click h"
+      "snippet": "Intel is working to continuously improve transparency and promote corporate responsibility throughout the global electronics supply chain."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/INTC-Customers",
-      "query": "Intel Corporation major customers clients",
-      "snippet": "6 days ago · Our customers also include those who buy PC components and our other products through distributor, reseller, retail, and OEM channels thr"
+      "url": "https://www.investopedia.com/ask/answers/120114/who-are-intels-intc-main-competitors.asp",
+      "query": "Intel Corporation competitors alternatives",
+      "snippet": "Other Intel competitors include AMD, IBM, and Samsung. Get personalized, AI-powered answers built ..."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.intel.com/content/www/us/en/customer-spotlight/overview.html",
-      "query": "Intel Corporation major customers clients",
-      "snippet": "Explore the Intel Customer Spotlight for the latest customer stories, case studies, and testimonials highlighting data-centric innovations."
+      "url": "https://www.linkedin.com/posts/the-business-model-analyst_top-15-intel-competitors-alternatives-activity-7261744508348841984-6xo2",
+      "query": "Intel Corporation competitors alternatives",
+      "snippet": "Nov 11, 2024 · Top 15 Intel Competitors & Alternatives Intel (INTC) is a globally recognized technology company that specializes in the design and ..."
     }
   ]
 }

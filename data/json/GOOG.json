@@ -5,17 +5,17 @@
   "industry": "Internet Content & Information",
   "upstream": [
     "INTC",
+    "NVDA",
     "QCOM",
-    "005930.KS",
     "TSM",
-    "NVDA"
+    "005930.KS"
   ],
   "downstream": [
     "Advertisers",
     "Android device manufacturers",
-    "YouTube content creators",
-    "GOOGL",
-    "App developers"
+    "Enterprise customers",
+    "App developers",
+    "Consumers"
   ],
   "competitors": [
     "MSFT",
@@ -27,41 +27,17 @@
   "key_products": [
     "Google Search",
     "YouTube",
-    "Android",
     "Google Cloud",
+    "Android",
     "Google Ads"
   ],
-  "extracted_at": "2026-05-05 17:16:51",
+  "extracted_at": "2026-05-06 17:25:18",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Alphabet_Inc.",
       "title": "Alphabet Inc.",
       "snippet": "Alphabet Inc. is an American multinational technology conglomerate holding company headquartered in Mountain View, California. It was created through a restructuring of Google on October 2, 2015, and "
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Alphabet_Inc.",
-      "query": "Alphabet Inc. suppliers manufacturers",
-      "snippet": "Alphabet Inc . is an American multinational technology conglomerate holding company headquartered in Mountain View, California. It was created through"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.thomasnet.com/insights/a-complete-list-of-alphabet-owned-companies/",
-      "query": "Alphabet Inc. suppliers manufacturers",
-      "snippet": "Mar 5, 2026 · Alphabet is a global conglomerate structured into Google Services, Google Cloud, and various “Other Bets” that encompass a diverse portf"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/GOOGL-Customers",
-      "query": "Alphabet Inc. major customers clients",
-      "snippet": "Feb 9, 2026 · Updated on: Focus of this report: Alphabet Inc ’s corporate clients . For your research, we’ve provided 9 tables on Alphabet Inc corpora"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://pitchgrade.com/companies/alphabet-inc",
-      "query": "Alphabet Inc. major customers clients",
-      "snippet": "Jan 15, 2026 · Customer Segments: Alphabet Inc . serves multiple distinct customer segments, which may include consumers, small and medium businesses,"
     }
   ]
 }

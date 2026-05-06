@@ -5,10 +5,10 @@
   "industry": "Semiconductors",
   "upstream": [
     "TSM",
-    "005930.KS",
     "GlobalFoundries",
-    "INTC",
-    "MU"
+    "005930.KS",
+    "ASML",
+    "AMAT"
   ],
   "downstream": [
     "DELL",
@@ -27,11 +27,11 @@
   "key_products": [
     "Ryzen CPUs",
     "EPYC CPUs",
-    "Radeon RX GPUs",
-    "Radeon Instinct GPUs",
-    "AMD GPUs for consoles"
+    "Radeon GPUs",
+    "Instinct GPUs",
+    "Xilinx FPGAs"
   ],
-  "extracted_at": "2026-05-05 17:14:30",
+  "extracted_at": "2026-05-06 17:22:24",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/AMD-Suppliers",
+      "url": "https://en.wikipedia.org/wiki/AMD",
       "query": "Advanced Micro Devices, Inc. suppliers manufacturers",
-      "snippet": "Feb 9, 2026 · Sources: Advanced Micro Devices Inc 's official press releases and regulatory filings; CSIMarket.com's supply -chain research; and the f"
+      "snippet": "3 hours ago - To immediately secure a customer base, AMD initially became a second source supplier of microchips designed by Fairchild (the 5 V TTL \"9"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.globalspec.com/Supplier/profile/AdvancedMicroDevices",
+      "url": "https://www.britannica.com/money/Advanced-Micro-Devices-Inc",
       "query": "Advanced Micro Devices, Inc. suppliers manufacturers",
-      "snippet": "Advanced Micro Devices , Inc . business profile on GlobalSpec. Read about Advanced Micro Devices , Inc ., browse product catalogs and product areas."
+      "snippet": "1 week ago - Headquartered in Santa Clara, California, AMD is a fabless chipmaker, outsourcing production of its chips to manufacturers such as Taiwan"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/AMD-Customers",
+      "url": "https://en.wikipedia.org/wiki/AMD",
       "query": "Advanced Micro Devices, Inc. major customers clients",
-      "snippet": "5 days ago · Advanced Micro Devices Inc customers and markets, results by customer and performance relative to AMD, by company and industry - CSIMarke"
+      "snippet": "3 hours ago - In September 1969, AMD moved from its temporary location in Santa Clara to its new $500,000 15,000sqft headquarters at 901 Thompson Plac"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ir.amd.com/financial-information/sec-filings/content/0001193125-25-067185/0001193125-25-067185.pdf",
+      "url": "https://www.britannica.com/money/Advanced-Micro-Devices-Inc",
       "query": "Advanced Micro Devices, Inc. major customers clients",
-      "snippet": "With our high-performance product portfolios, we deliver differentiated solutions, such as our semi-custom System-on-Chip (SoCs), Adaptive SoCs, and a"
+      "snippet": "1 week ago - Meyer was ousted in 2011 and succeeded by Rory Read, a former Lenovo executive, who stabilized the company and expanded its semi-custom c"
     }
   ]
 }

@@ -3,11 +3,35 @@
   "company_name": "Broadcom Inc.",
   "sector": "Technology",
   "industry": "Semiconductors",
-  "upstream": [],
-  "downstream": [],
-  "competitors": [],
-  "key_products": [],
-  "extracted_at": "2026-05-05 17:15:56",
+  "upstream": [
+    "TSM",
+    "005930.KS",
+    "GlobalFoundries",
+    "UMC",
+    "Tower Semiconductor"
+  ],
+  "downstream": [
+    "AAPL",
+    "CSCO",
+    "DELL",
+    "MSFT",
+    "AMZN"
+  ],
+  "competitors": [
+    "QCOM",
+    "INTC",
+    "NVDA",
+    "TXN",
+    "MRVL"
+  ],
+  "key_products": [
+    "Ethernet controllers",
+    "Wi‑Fi and Bluetooth chips",
+    "Broadband modems",
+    "Storage controllers",
+    "Networking ASICs"
+  ],
+  "extracted_at": "2026-05-06 17:26:04",
   "sources": [
     {
       "source": "Wikipedia",
@@ -19,13 +43,25 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Broadcom",
       "query": "Broadcom Inc. suppliers manufacturers",
-      "snippet": "Broadcom Inc . is an American multinational designer, developer, manufacturer , and global supplier of a wide range of semiconductor and infrastructur"
+      "snippet": "Broadcom Inc. is an American multinational designer, developer, manufacturer, and global supplier of a wide range of semiconductor and infrastructure "
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.broadcom.com/how-to-buy/partner-distributor-lookup",
       "query": "Broadcom Inc. suppliers manufacturers",
-      "snippet": "Find a local reseller or global distributor of every Broadcom software solution for your business or enterprise, spanning the desktop to the Mainframe"
+      "snippet": "Our network of hardware and Technology Alliance partners help you procure Broadcom embedded hardware components and unique offerings paired with their"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/Broadcom",
+      "query": "Broadcom Inc. major customers clients",
+      "snippet": "Broadcom Inc. is an American multinational designer, developer, manufacturer, and global supplier of a wide range of semiconductor and infrastructure "
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.broadcom.com/case-studies",
+      "query": "Broadcom Inc. major customers clients",
+      "snippet": "Broadcom solutions empower our customers success. Power your future with Broadcom."
     }
   ]
 }

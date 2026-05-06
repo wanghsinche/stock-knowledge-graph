@@ -3,8 +3,8 @@ ticker: PLTR
 company: Palantir Technologies Inc.
 sector: Technology
 industry: Software - Infrastructure
-extracted_at: 2026-05-05 17:14:46
-last_updated: 2026-05-05
+extracted_at: 2026-05-06 17:24:59
+last_updated: 2026-05-06
 ---
 
 # PLTR - Palantir Technologies Inc.
@@ -12,7 +12,7 @@ last_updated: 2026-05-05
 ## 基本信息
 
 - **所属行业**: Technology / Software - Infrastructure
-- **提取时间**: 2026-05-05 17:14:46
+- **提取时间**: 2026-05-06 17:24:59
 
 ## 产业链关系
 
@@ -21,37 +21,33 @@ last_updated: 2026-05-05
 - [[MSFT]]
 - [[GOOGL]]
 - [[DELL]]
-- [[IBM]]
+- [[ORCL]]
 
 ### 下游客户
 - [[U.S. Department of Defense]]
-- [[U.S. Department of Homeland Security]]
-- [[Bank of America]]
-- [[JP Morgan Chase]]
-- [[Pfizer]]
+- [[Federal Bureau of Investigation (FBI)]]
+- [[JPMorgan Chase & Co. (financial services)]]
+- [[Airbus (aerospace)]]
+- [[General Electric (industrial)]]
 
 ### 竞争对手
-- [[Snowflake]]
-- [[Databricks]]
-- [[Splunk]]
+- [[Splunk Inc.]]
+- [[Snowflake Inc.]]
+- [[Databricks Inc.]]
+- [[IBM]]
 - [[MSFT]]
-- [[Tableau]]
 
 ### 核心产品
-- [[Palantir Foundry]]
-- [[Palantir Gotham]]
-- [[Palantir Apollo]]
-- [[Palantir Helix]]
-- [[Palantir Metropolis]]
+- [[Palantir Gotham (government analytics platform)]]
+- [[Palantir Foundry (enterprise data integration platform)]]
+- [[Palantir Apollo (continuous delivery & operations)]]
+- [[Palantir Helix (AI & machine‑learning services)]]
+- [[Palantir Data Lake (data storage & governance)]]
 
 ## 数据来源
 
 - [Palantir](https://en.wikipedia.org/wiki/Palantir_Technologies_Inc.)
-- [Palantir Technologies Inc. suppliers manufacturers](https://csimarket.com/stocks/PLTR-Suppliers)
-- [Palantir Technologies Inc. suppliers manufacturers](https://insights.greyb.com/palantir-subsidiaries-and-acquisitions/)
-- [Palantir Technologies Inc. major customers clients](https://www.appsruntheworld.com/customers-database/products/view/palantir-foundry)
-- [Palantir Technologies Inc. major customers clients](https://theirstack.com/en/technology/palantir)
 
 ## 元数据
 
-- **更新日期**: 2026-05-05
+- **更新日期**: 2026-05-06

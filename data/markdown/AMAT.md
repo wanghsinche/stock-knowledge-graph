@@ -3,8 +3,8 @@ ticker: AMAT
 company: Applied Materials, Inc.
 sector: Technology
 industry: Semiconductor Equipment & Materials
-extracted_at: 2026-05-05 17:19:48
-last_updated: 2026-05-05
+extracted_at: 2026-05-06 17:40:26
+last_updated: 2026-05-06
 ---
 
 # AMAT - Applied Materials, Inc.
@@ -12,17 +12,21 @@ last_updated: 2026-05-05
 ## 基本信息
 
 - **所属行业**: Technology / Semiconductor Equipment & Materials
-- **提取时间**: 2026-05-05 17:19:48
+- **提取时间**: 2026-05-06 17:40:26
 
 ## 产业链关系
 
 ### 上游供应商
-_暂无数据_
+- [[Silicon wafer suppliers]]
+- [[Chemical and process material vendors]]
+- [[Precision machining and tooling manufacturers]]
+- [[Electronic component suppliers]]
+- [[Cleanroom equipment providers]]
 
 ### 下游客户
-- [[INTC]]
-- [[005930.KS]]
 - [[TSM]]
+- [[005930.KS]]
+- [[INTC]]
 - [[MU]]
 - [[SK Hynix]]
 
@@ -34,20 +38,16 @@ _暂无数据_
 - [[AMAT]]
 
 ### 核心产品
-- [[Semiconductor fabrication equipment]]
-- [[Deposition systems]]
-- [[Etching equipment]]
-- [[Metrology tools]]
-- [[Packaging equipment]]
+- [[Epitaxy systems]]
+- [[Photolithography equipment]]
+- [[Etch and deposition tools]]
+- [[Metrology and inspection systems]]
+- [[Software and services for semiconductor manufacturing]]
 
 ## 数据来源
 
 - [Applied Materials](https://en.wikipedia.org/wiki/Applied_Materials,_Inc.)
-- [Applied Materials, Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/Applied_Materials)
-- [Applied Materials, Inc. suppliers manufacturers](https://www.appliedmaterials.com/)
-- [Applied Materials, Inc. major customers clients](https://portersfiveforce.com/blogs/target-market/appliedmaterials)
-- [Applied Materials, Inc. major customers clients](https://www.appliedmaterials.com/)
 
 ## 元数据
 
-- **更新日期**: 2026-05-05
+- **更新日期**: 2026-05-06

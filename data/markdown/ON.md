@@ -3,8 +3,8 @@ ticker: ON
 company: ON Semiconductor Corporation
 sector: Technology
 industry: Semiconductors
-extracted_at: 2026-05-05 17:22:47
-last_updated: 2026-05-05
+extracted_at: 2026-05-06 17:36:24
+last_updated: 2026-05-06
 ---
 
 # ON - ON Semiconductor Corporation
@@ -12,46 +12,42 @@ last_updated: 2026-05-05
 ## 基本信息
 
 - **所属行业**: Technology / Semiconductors
-- **提取时间**: 2026-05-05 17:22:47
+- **提取时间**: 2026-05-06 17:36:24
 
 ## 产业链关系
 
 ### 上游供应商
+- [[Silicon wafer suppliers]]
 - [[AMAT]]
-- [[ASML]]
-- [[LRCX]]
-- [[Tokyo Electron]]
-- [[KLA Corporation]]
+- [[Packaging and testing service providers]]
+- [[CAT]]
+- [[Metrology equipment vendors]]
 
 ### 下游客户
-- [[TSLA]]
-- [[Ford]]
-- [[005930.KS]]
+- [[Automotive OEMs (e.g., Ford, General Motors)]]
+- [[CAT]]
 - [[AAPL]]
-- [[QCOM]]
+- [[LED lighting manufacturers]]
+- [[Medical device producers]]
 
 ### 竞争对手
 - [[TXN]]
 - [[ADI]]
+- [[NXP Semiconductors]]
 - [[Infineon Technologies]]
 - [[STMicroelectronics]]
-- [[NXP Semiconductors]]
 
 ### 核心产品
-- [[Power Management ICs]]
-- [[Analog ICs]]
-- [[RFICs]]
-- [[Image Sensors]]
-- [[LED Drivers]]
+- [[Power management ICs]]
+- [[Signal management ICs]]
+- [[Logic devices]]
+- [[Discrete devices]]
+- [[Custom semiconductor solutions]]
 
 ## 数据来源
 
-- 
-- [ON Semiconductor Corporation suppliers manufacturers](https://en.wikipedia.org/wiki/Onsemi)
-- [ON Semiconductor Corporation suppliers manufacturers](https://csimarket.com/stocks/ON-Suppliers)
-- [ON Semiconductor Corporation major customers clients](https://en.wikipedia.org/wiki/Onsemi)
-- [ON Semiconductor Corporation major customers clients](https://csimarket.com/stocks/ON-Customers)
+- [Onsemi](https://en.wikipedia.org/wiki/ON_Semiconductor_Corporation)
 
 ## 元数据
 
-- **更新日期**: 2026-05-05
+- **更新日期**: 2026-05-06
