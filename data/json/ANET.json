@@ -6,32 +6,32 @@
   "upstream": [
     "AVGO",
     "INTC",
+    "MRVL",
     "QCOM",
-    "NVDA",
-    "MRVL"
+    "NVDA"
   ],
   "downstream": [
     "AMZN",
     "GOOGL",
     "MSFT",
     "Facebook",
-    "Alibaba Cloud"
+    "NFLX"
   ],
   "competitors": [
     "CSCO",
     "JNPR",
     "HPQ",
-    "Extreme Networks",
-    "Huawei Technologies"
+    "DELL",
+    "Huawei"
   ],
   "key_products": [
-    "10/25/40/50/100/200/400/800 Gbps Ethernet switches",
+    "10G/25G/40G/50G/100G/200G/400G/800G Ethernet switches",
     "Extensible Operating System (EOS)",
     "CloudVision",
-    "Arista 7280 series",
-    "Arista 7500 series"
+    "Arista 7050X Series",
+    "Arista 7280R Series"
   ],
-  "extracted_at": "2026-05-06 17:26:40",
+  "extracted_at": "2026-05-07 17:47:30",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,15 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Arista_Networks",
+      "url": "https://www.arista.com/en/partner/technology-partners",
       "query": "Arista Networks, Inc. suppliers manufacturers",
-      "snippet": "Arista Networks, Inc. is an industry leader in data-driven, client to cloud networking for large data center/AI, campus and routing environments. Miss"
+      "snippet": "Arista Networks will partner with application vendors in various verticals that take advantage of Arista's Cloud Networking Platform. Here is a list o"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://edge.arista.com/partners__trashed/find-a-distributor/",
+      "url": "https://csimarket.com/stocks/ANET-Suppliers",
       "query": "Arista Networks, Inc. suppliers manufacturers",
-      "snippet": "SINT is a trusted distributor of software and hardware solutions in Australia, working closely with development engineers and manufacturers to provide"
+      "snippet": "Feb 19, 2026 · Sources: Arista Networks inc 's official press releases and regulatory filings; CSIMarket.com's supply-chain research; and the financia"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/Arista_Networks",
+      "query": "Arista Networks, Inc. major customers clients",
+      "snippet": "Arista Networks , Inc . is an American computer networking company headquartered in Santa Clara, California. The company designs and sells multilayer "
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://enlyft.com/tech/products/arista-networks",
+      "query": "Arista Networks, Inc. major customers clients",
+      "snippet": "The companies using Arista Networks are most often found in United States and in the Information Technology and Services industry. Arista Networks is "
     }
   ]
 }

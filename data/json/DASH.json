@@ -4,34 +4,34 @@
   "sector": "Consumer Cyclical",
   "industry": "Internet Retail",
   "upstream": [
-    "Restaurants and food suppliers",
-    "Food manufacturers and distributors",
-    "Packaging and disposable goods suppliers",
-    "GOOGL",
-    "Payment processors (e.g., Stripe, PayPal)"
+    "Restaurant partners",
+    "Food suppliers",
+    "Kitchen equipment manufacturers",
+    "Payment processors",
+    "Logistics software providers"
   ],
   "downstream": [
-    "Restaurant merchants",
-    "End‑user consumers",
+    "Consumer app users",
+    "Merchant restaurants",
     "Delivery couriers",
-    "Convenience stores and grocery partners",
-    "Corporate and institutional clients"
+    "Grocery retailers",
+    "Convenience store partners"
   ],
   "competitors": [
     "Uber Eats",
     "Grubhub",
-    "Postmates (now part of Uber)",
+    "Postmates (Uber Eats)",
     "Seamless",
-    "Deliveroo"
+    "Caviar"
   ],
   "key_products": [
-    "DoorDash mobile and web app",
-    "DoorDash Drive (delivery fleet)",
-    "DoorDash for Restaurants (merchant platform)",
-    "DoorDash Pay (payment solution)",
-    "DoorDash Marketplace (B2B ordering)"
+    "DoorDash consumer app",
+    "DoorDash for Restaurants",
+    "DoorDash Drive",
+    "DoorDash for Grocery",
+    "DoorDash for Convenience"
   ],
-  "extracted_at": "2026-02-23 18:07:37",
+  "extracted_at": "2026-05-07 17:48:44",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,21 +47,21 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/suppliers_glance.php?code=DASH",
+      "url": "https://labs.doordash.com/",
       "query": "DoorDash, Inc. suppliers manufacturers",
-      "snippet": "Dec 9, 2025 · Doordash Inc supply chain, list and performance of Doordash Incs' suppliers - CSIMarket"
+      "snippet": "DoorDash Labs was founded with the goal of making systems and processes more efficient and effective for Dashers, merchants, and consumers. To accompl"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://backlinko.com/doordash-users",
+      "url": "https://businessmodelanalyst.com/doordash-target-market-analysis/",
       "query": "DoorDash, Inc. major customers clients",
-      "snippet": "Jan 20, 2026 · Interesting DoorDash user stats. Includes data on orders, customers , couriers, market share and more."
+      "snippet": "Jul 26, 2025 · This article provides a deep dive into the DoorDash target market, exploring who uses the service, why they use it, and how DoorDash se"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://csimarket.com/stocks/DASH-Customers",
       "query": "DoorDash, Inc. major customers clients",
-      "snippet": "4 days ago · Doordash Inc customers and markets, results by customer and performance relative to DASH, by company and industry - CSIMarket"
+      "snippet": "Apr 27, 2026 · During the corresponding time, Doordash Inc recorded a revenue increase by 57.78 % year on year, sequentially revenue grew by 31.54 %. "
     }
   ]
 }

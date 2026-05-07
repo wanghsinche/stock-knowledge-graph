@@ -2,42 +2,58 @@
   "ticker": "IONQ",
   "company_name": "IonQ, Inc.",
   "sector": "Technology",
-  "industry": "Quantum Computing",
-  "upstream": [
-    "Laser system manufacturers",
-    "Vacuum pump suppliers",
-    "Cryogenic equipment vendors",
-    "Electronic component suppliers",
-    "Ion trap hardware manufacturers"
-  ],
+  "industry": "Computer Hardware",
+  "upstream": [],
   "downstream": [
-    "Universities and research institutions",
-    "Government agencies (e.g., DARPA)",
-    "GOOGL",
-    "Quantum software developers",
-    "Cloud service providers"
+    "Leading global automotive manufacturer",
+    "Enterprise customers",
+    "Cloud access customers"
   ],
   "competitors": [
     "Rigetti Computing",
-    "Honeywell Quantum Solutions",
     "D-Wave Systems",
-    "Xanadu",
-    "Quantum Machines"
+    "IBM",
+    "GOOGL",
+    "MSFT"
   ],
   "key_products": [
-    "Trapped ion quantum processors",
-    "IonQ Quantum SDK",
-    "Quantum cloud platform",
-    "Quantum software stack",
-    "Quantum hardware integration services"
+    "Trapped ion quantum computers",
+    "Quantum software for circuit optimization",
+    "Cloud quantum computing services",
+    "Quantum optimization software",
+    "Quantum circuit execution platform"
   ],
-  "extracted_at": "2026-05-06 17:42:10",
+  "extracted_at": "2026-05-07 17:48:09",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/IonQ,_Inc.",
       "title": "IonQ",
       "snippet": "IonQ, Inc. is an American quantum computing hardware and software company headquartered in College Park, Maryland. The company develops general-purpose trapped ion quantum computers and accompanying s"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.ionq.com/",
+      "query": "IonQ, Inc. suppliers manufacturers",
+      "snippet": "IonQ partnered with a leading global automotive manufacturer , applying quantum-classical AI to solve critical materials science challenges. Our model"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.fool.com/earnings/call-transcripts/2026/05/06/ionq-ionq-q1-2026-earnings-call-transcript/",
+      "query": "IonQ, Inc. suppliers manufacturers",
+      "snippet": "IonQ , Inc . is defining the quantum technology market and establishing the leading hardware and software quantum industrial ecosystem. Our organic pe"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.ionq.com/",
+      "query": "IonQ, Inc. major customers clients",
+      "snippet": "IonQ delivers trapped ion quantum computing systems, cloud access, and enterprise solutions for real-world quantum applications.Quantum computing is c"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.fool.com/earnings/call-transcripts/2026/05/06/ionq-ionq-q1-2026-earnings-call-transcript/",
+      "query": "IonQ, Inc. major customers clients",
+      "snippet": "IonQ , Inc . is defining the quantum technology market and establishing the leading hardware and software quantum industrial ecosystem. Our organic pe"
     }
   ]
 }

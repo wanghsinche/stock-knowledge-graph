@@ -1,43 +1,67 @@
 {
   "ticker": "IREN",
   "company_name": "IREN Limited",
-  "sector": "Financial Services",
-  "industry": "Capital Markets",
+  "sector": "Financial Services / Capital Markets",
+  "industry": "Financial Services / Capital Markets",
   "upstream": [
-    "Bloomberg",
-    "Refinitiv",
-    "Hong Kong Exchanges and Clearing",
-    "CLS",
-    "HSBC Custody"
+    "Renewable energy providers",
+    "Data center equipment manufacturers",
+    "NVDA",
+    "Cloud infrastructure vendors",
+    "Power grid operators"
   ],
   "downstream": [
-    "Retail investors",
-    "Institutional investors",
-    "Corporate clients",
-    "Pension funds",
-    "Mutual funds"
+    "Enterprise IT clients",
+    "Government agencies",
+    "Financial institutions",
+    "AI research labs",
+    "Cloud service users"
   ],
   "competitors": [
-    "HSBC Securities",
-    "Citic Securities",
-    "China Merchants Securities",
-    "Guotai Junan Securities",
-    "China International Capital Corp"
+    "AMZN",
+    "MSFT",
+    "GOOGL",
+    "Alibaba Cloud",
+    "DigitalOcean"
   ],
   "key_products": [
-    "Brokerage services",
-    "Investment banking",
-    "Asset management",
-    "Wealth management",
-    "Financial advisory"
+    "Renewable-powered data centers",
+    "AI Cloud services",
+    "GPU cluster solutions",
+    "Cloud infrastructure",
+    "Edge computing services"
   ],
-  "extracted_at": "2026-05-06 17:28:03",
+  "extracted_at": "2026-05-07 17:46:02",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "",
       "title": "",
       "snippet": ""
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.iren.com/",
+      "query": "IREN Limited suppliers manufacturers",
+      "snippet": "Explore IREN 's 100% renewable-powered data centers offering AI Cloud, GPU clusters, colocation, and build-to-suit infrastructure for scalable compute"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/suppliers_glance.php?code=IREN",
+      "query": "IREN Limited suppliers manufacturers",
+      "snippet": "Iren Limited supply chain, list and performance of Iren Limiteds' suppliers - CSIMarket"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://finance.yahoo.com/quote/IREN/",
+      "query": "IREN Limited major customers clients",
+      "snippet": "Find the latest IREN Limited ( IREN ) stock quote, history, news and other vital information to help you with your stock trading and investing."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.roic.ai/quote/IREN:SE/classic",
+      "query": "IREN Limited major customers clients",
+      "snippet": "IREN Limited was incorporated in 2018 and is headquartered in Sydney, Australia. The company targets clients requiring sustainable, high-capacity comp"
     }
   ]
 }

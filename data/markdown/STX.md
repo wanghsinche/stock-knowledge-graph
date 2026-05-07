@@ -1,53 +1,57 @@
 ---
 ticker: STX
 company: Seagate Technology Holdings plc
-sector: Technology / Computer Hardware
-industry: Hard Disk Drive Manufacturing
-extracted_at: 2026-05-06 17:28:45
-last_updated: 2026-05-06
+sector: Technology
+industry: Computer Hardware
+extracted_at: 2026-05-07 17:45:48
+last_updated: 2026-05-07
 ---
 
 # STX - Seagate Technology Holdings plc
 
 ## 基本信息
 
-- **所属行业**: Technology / Computer Hardware / Hard Disk Drive Manufacturing
-- **提取时间**: 2026-05-06 17:28:45
+- **所属行业**: Technology / Computer Hardware
+- **提取时间**: 2026-05-07 17:45:48
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Platter manufacturers]]
-- [[Electronics component suppliers]]
-- [[Firmware providers]]
-- [[Manufacturing equipment suppliers]]
-- [[Packaging suppliers]]
+- [[005930.KS]]
+- [[SK Hynix]]
+- [[MU]]
+- [[Toshiba]]
+- [[WDC]]
 
 ### 下游客户
 - [[DELL]]
 - [[HPQ]]
-- [[Lenovo]]
+- [[Lenovo Group]]
 - [[AAPL]]
-- [[AMZN]]
+- [[MSFT]]
 
 ### 竞争对手
 - [[WDC]]
 - [[Toshiba]]
 - [[005930.KS]]
 - [[MU]]
-- [[INTC]]
+- [[SK Hynix]]
 
 ### 核心产品
-- [[Hard Disk Drives]]
-- [[Solid State Drives]]
-- [[Enterprise Storage Systems]]
-- [[Data Center Storage Solutions]]
-- [[Hybrid Drives]]
+- [[Hard Disk Drives (HDDs)]]
+- [[Solid State Drives (SSDs)]]
+- [[Enterprise storage solutions]]
+- [[Data storage systems]]
+- [[Cloud storage solutions]]
 
 ## 数据来源
 
 - 
+- [Seagate Technology Holdings plc suppliers manufacturers](https://csimarket.com/stocks/STX-Business-Description.html)
+- [Seagate Technology Holdings plc suppliers manufacturers](https://www.seagate.com/)
+- [Seagate Technology Holdings plc major customers clients](https://csimarket.com/stocks/STX-Customers)
+- [Seagate Technology Holdings plc major customers clients](https://www.kerrisdalecap.com/wp-content/uploads/2025/05/STX–Kerrisdale.pdf)
 
 ## 元数据
 
-- **更新日期**: 2026-05-06
+- **更新日期**: 2026-05-07

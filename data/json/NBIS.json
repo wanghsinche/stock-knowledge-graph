@@ -1,37 +1,37 @@
 {
   "ticker": "NBIS",
   "company_name": "Nebius Group N.V.",
-  "sector": "Communication Services / Internet Content & Information",
-  "industry": "Artificial Intelligence Infrastructure",
+  "sector": "Communication Services",
+  "industry": "Internet Content & Information",
   "upstream": [
-    "NVDA",
-    "AMD",
-    "INTC",
-    "TSM",
-    "ASML"
+    "Hardware manufacturers",
+    "Cloud service providers",
+    "AI chip suppliers",
+    "Data center operators",
+    "Software vendors"
   ],
   "downstream": [
-    "GOOGL",
-    "AMZN",
-    "MSFT",
-    "IBM",
-    "Alibaba Cloud"
+    "Tech companies",
+    "Financial institutions",
+    "Government agencies",
+    "Retailers",
+    "Telecom operators"
   ],
   "competitors": [
-    "NVDA",
-    "AMD",
+    "OpenAI",
     "GOOGL",
+    "MSFT",
     "AMZN",
-    "MSFT"
+    "IBM"
   ],
   "key_products": [
-    "Nebius AI Platform",
-    "GPU Cloud Computing",
-    "Avride",
-    "TripleTen",
-    "Clickhouse"
+    "Nebius AI Infrastructure Platform",
+    "Nebius AI Engine",
+    "Nebius Cloud Services",
+    "Nebius Analytics Suite",
+    "Nebius Data Services"
   ],
-  "extracted_at": "2026-05-06 17:27:43",
+  "extracted_at": "2026-05-07 17:45:21",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Nebius_Group",
+      "url": "https://csimarket.com/stocks/NBIS-Suppliers",
       "query": "NBIS suppliers manufacturers",
-      "snippet": "Nebius Group N.V., headquartered in Amsterdam, is a technology company that provides artificial intelligence infrastructure. The company also owns Avr"
+      "snippet": "May 3, 2025 · Sources: Nebius Group n v 's official press releases and regulatory filings; CSIMarket.com's supply -chain research; and the financial f"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://northwiseproject.com/nbis-alabama-data-center/",
+      "url": "https://finance.yahoo.com/quote/NBIS/?fr=sycsrp_catchall",
       "query": "NBIS suppliers manufacturers",
-      "snippet": "A technical and strategic deep dive into NBIS Alabama Data Center: 300MW Birmingham AI factory and its role in the Southeastern AI infrastructure buil"
+      "snippet": "Find the latest Nebius Group N.V. ( NBIS ) stock quote, history, news and other vital information to help you with your stock trading and investing."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.runpod.io/articles/alternatives/nebius",
-      "query": "NBIS competitors alternatives",
-      "snippet": "Jul 31, 2025 · Explore the top 10 Nebius alternatives for GPU cloud computing in 2025—compare providers like Runpod, Lambda Labs, CoreWeave, and Vast."
+      "url": "https://csimarket.com/stocks/NBIS-Customers",
+      "query": "NBIS major customers clients",
+      "snippet": "Apr 26, 2026 · Nebius Group N V customers and markets, results by customer and performance relative to NBIS , by company and industry - CSIMarket"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.reddit.com/r/ValueInvesting/comments/1nyroku/missed_the_boat_for_nbis_what_other_potential/",
-      "query": "NBIS competitors alternatives",
-      "snippet": "Oct 5, 2025 · I check my Fidelity portfolio maybe 10x more often than Vanguard because of how sleek the site is with all the easy-to-access data and ."
+      "url": "https://www.dcsa.mil/Systems-Applications/National-Background-Investigation-Services-NBIS/",
+      "query": "NBIS major customers clients",
+      "snippet": "The purpose of NBIS is to modernize, streamline and secure the entire process to enhance the user experience and provide a reliable and integrated set"
     }
   ]
 }

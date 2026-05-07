@@ -4,34 +4,34 @@
   "sector": "Technology",
   "industry": "Semiconductors",
   "upstream": [
-    "TSM",
-    "005930.KS",
-    "MU",
-    "SK Hynix",
-    "GlobalFoundries"
+    "ASML",
+    "AMAT",
+    "LRCX",
+    "Tokyo Electron",
+    "KLA-Tencor"
   ],
   "downstream": [
     "DELL",
     "HPQ",
-    "Lenovo",
+    "Lenovo Group",
     "AAPL",
-    "MSFT"
+    "005930.KS"
   ],
   "competitors": [
     "AMD",
     "NVDA",
-    "005930.KS",
     "TSM",
-    "QCOM"
+    "005930.KS",
+    "AVGO"
   ],
   "key_products": [
-    "Intel Core CPUs",
-    "Intel Xeon CPUs",
-    "Intel Arc GPUs",
+    "Intel Core processors",
+    "Intel Xeon processors",
     "Intel chipsets",
+    "Intel Optane memory",
     "Intel AI accelerators"
   ],
-  "extracted_at": "2026-05-06 17:23:10",
+  "extracted_at": "2026-05-07 17:42:13",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/List_of_mergers_and_acquisitions_by_Intel",
+      "url": "https://en.wikipedia.org/wiki/Intel",
       "query": "Intel Corporation suppliers manufacturers",
-      "snippet": "The company has acquired dozens of companies across the global technology industry, with seven multi-billion-dollar acquisitions as of January 2023."
+      "snippet": "Intel Corporation is an American multinational technology company headquartered in Santa Clara, California. It designs, manufactures , and sells compu"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.intel.com/content/www/us/en/supplier/overview.html",
+      "url": "https://finance.yahoo.com/quote/INTC/",
       "query": "Intel Corporation suppliers manufacturers",
-      "snippet": "Intel is working to continuously improve transparency and promote corporate responsibility throughout the global electronics supply chain."
+      "snippet": "Find the latest Intel Corporation (INTC) stock quote, history, news and other vital information to help you with your stock trading and investing."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.investopedia.com/ask/answers/120114/who-are-intels-intc-main-competitors.asp",
-      "query": "Intel Corporation competitors alternatives",
-      "snippet": "Other Intel competitors include AMD, IBM, and Samsung. Get personalized, AI-powered answers built ..."
+      "url": "https://en.wikipedia.org/wiki/Intel",
+      "query": "Intel Corporation major customers clients",
+      "snippet": "Intel Corporation is an American multinational technology company headquartered in Santa Clara, California. It designs, manufactures, and sells comput"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.linkedin.com/posts/the-business-model-analyst_top-15-intel-competitors-alternatives-activity-7261744508348841984-6xo2",
-      "query": "Intel Corporation competitors alternatives",
-      "snippet": "Nov 11, 2024 · Top 15 Intel Competitors & Alternatives Intel (INTC) is a globally recognized technology company that specializes in the design and ..."
+      "url": "https://www.tradingview.com/symbols/NASDAQ-INTC/",
+      "query": "Intel Corporation major customers clients",
+      "snippet": "View live Intel Corporation chart to track its stock's price action. Find market predictions, INTC financials and market news."
     }
   ]
 }

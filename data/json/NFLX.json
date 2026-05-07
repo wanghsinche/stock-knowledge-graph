@@ -2,42 +2,66 @@
   "ticker": "NFLX",
   "company_name": "Netflix, Inc.",
   "sector": "Communication Services",
-  "industry": "Streaming Media",
+  "industry": "Entertainment",
   "upstream": [
     "AMZN",
     "GOOGL",
     "MSFT",
-    "Warner Bros. Discovery",
-    "Disney Studios"
+    "Akamai Technologies",
+    "DELL"
   ],
   "downstream": [
-    "Individual subscribers worldwide",
-    "Corporate customers",
-    "Smart TV manufacturers",
-    "Cable providers",
-    "Mobile carriers"
+    "US households",
+    "International households",
+    "Corporate subscription accounts",
+    "Mobile users",
+    "Smart TV users"
   ],
   "competitors": [
     "Disney+",
-    "AMZN",
     "Hulu",
+    "AMZN",
     "HBO Max",
     "AAPL"
   ],
   "key_products": [
-    "Netflix streaming service",
-    "Netflix Originals",
-    "Netflix mobile app",
-    "Netflix Smart TV app",
-    "Netflix web player"
+    "Streaming service",
+    "Original programming",
+    "Licensed content",
+    "Mobile app",
+    "Smart TV app"
   ],
-  "extracted_at": "2026-05-06 17:30:27",
+  "extracted_at": "2026-05-07 17:49:07",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Netflix,_Inc.",
       "title": "Netflix, Inc.",
       "snippet": "Netflix, Inc. is an American media company founded on August 29, 1997, by Reed Hastings and Marc Randolph in Scotts Valley, California, and currently based in Los Gatos, California, with production of"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/NFLX-Suppliers",
+      "query": "Netflix, Inc. suppliers manufacturers",
+      "snippet": "Netflix Inc supply chain, list and performance of Netflix Incs ' suppliers - CSIMarket."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.globaldata.com/company-profile/netflix-inc/",
+      "query": "Netflix, Inc. suppliers manufacturers",
+      "snippet": "Netflix Inc Company Profile - Netflix Inc Overview - GlobalData."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.globaldata.com/company-profile/netflix-inc/",
+      "query": "Netflix, Inc. major customers clients",
+      "snippet": "Netflix Inc Company Profile - Netflix Inc Overview - GlobalData."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.inc.com/jason-aten/theres-no-one-left-to-sign-up-for-netflix-so-its-raising-prices-again-instead.html",
+      "query": "Netflix, Inc. major customers clients",
+      "snippet": "An Inc .com Featured Presentation. That’s just the law of large numbers. If you already have 214 million subscribers, which Netflix said it had in Oct"
     }
   ]
 }

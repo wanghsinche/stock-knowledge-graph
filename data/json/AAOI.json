@@ -2,42 +2,66 @@
   "ticker": "AAOI",
   "company_name": "Applied Optoelectronics, Inc.",
   "sector": "Technology / Communication Equipment",
-  "industry": "Optical Components & Systems",
+  "industry": "Optical Communications Equipment",
   "upstream": [
-    "Glass & silica suppliers",
-    "META",
-    "Adhesive & epoxy suppliers",
-    "Electronic component suppliers",
-    "Precision machining & polishing services"
+    "Semiconductor component suppliers",
+    "Optical fiber manufacturers",
+    "Photonic packaging suppliers",
+    "Electronic component distributors",
+    "Precision machining suppliers"
   ],
   "downstream": [
-    "CSCO",
-    "Data center infrastructure vendors",
-    "Cable operators (e.g., AT&T, Verizon, Comcast)",
-    "Network equipment integrators",
-    "Industrial automation firms"
+    "Telecom equipment vendors",
+    "Data center infrastructure providers",
+    "Network equipment manufacturers",
+    "Carrier network operators",
+    "Enterprise networking solutions"
   ],
   "competitors": [
-    "Corning Inc.",
-    "Lumentum Holdings",
-    "II-VI Incorporated",
-    "Opto-Logical",
-    "Coherent, Inc."
+    "Finisar",
+    "Lumentum",
+    "CAT",
+    "Ciena",
+    "AVGO"
   ],
   "key_products": [
-    "Fiber optic connectors",
-    "Optical couplers",
-    "Optical splitters",
-    "Optical switches",
-    "Fiber optic cables & transceivers"
+    "400G optical transceivers",
+    "800G optical transceivers",
+    "400G QSFP28 modules",
+    "800G QSFP-DD modules",
+    "PAM4 optical transceivers"
   ],
-  "extracted_at": "2026-05-06 17:43:51",
+  "extracted_at": "2026-05-07 17:49:59",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "",
       "title": "",
       "snippet": ""
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/AAOI-Suppliers",
+      "query": "Applied Optoelectronics, Inc. suppliers manufacturers",
+      "snippet": "Feb 27, 2026 · Applied Optoelectronics Inc's Sup pliers recorded an increase in sales by 1.23 % year on year in Q4 2025, sequentially sales grew by 24"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://stockanalysis.com/stocks/aaoi/company/",
+      "query": "Applied Optoelectronics, Inc. suppliers manufacturers",
+      "snippet": "1 day ago · Applied Optoelectronics, Inc . engages in the design, manufacture, and sale of fiber-optic networking products in the United States, Taiwa"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.alphapilot.tech/discover/applied-optoelectronics-secures-71-million-800g-transceiver-order-from-major-hyperscale-customer",
+      "query": "Applied Optoelectronics, Inc. major customers clients",
+      "snippet": "Apr 2, 2026 · Applied Optoelectronics Secures $71 Million 800G Transceiver Order from Major Hyperscale Customer Applied Optoelectronics Inc . (NASDAQ:"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/AAOI-Customers",
+      "query": "Applied Optoelectronics, Inc. major customers clients",
+      "snippet": "In a noteworthy development for the tech industry, Applied Optoelectronics, Inc . (AOI), a distinguished provider of fiber-optic access network produc"
     }
   ]
 }

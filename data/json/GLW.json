@@ -3,24 +3,35 @@
   "company_name": "Corning Incorporated",
   "sector": "Technology",
   "industry": "Electronic Components",
-  "upstream": [],
+  "upstream": [
+    "Silica sand suppliers",
+    "Chemical feedstock providers",
+    "Glass manufacturing equipment manufacturers",
+    "Recycling facilities for glass",
+    "Energy providers for high-temperature furnaces"
+  ],
   "downstream": [
-    "AAPL"
+    "CAT",
+    "AAPL",
+    "Automotive camera system suppliers (Bosch, Continental)",
+    "Aerospace and defense contractors (Boeing, Lockheed Martin)",
+    "Medical imaging device manufacturers (Siemens Healthineers, GE Healthcare)"
   ],
   "competitors": [
-    "Advanced Energy Industries",
-    "Lumen Technologies",
-    "Amphenol Corporation",
-    "Teledyne Technologies"
+    "Schott AG",
+    "Saint-Gobain",
+    "AGC Inc.",
+    "Nippon Sheet Glass Co.",
+    "Nikon Corporation"
   ],
   "key_products": [
-    "Optical fibers",
-    "Glass substrates",
-    "Specialty glass for electronics",
-    "Advanced optics",
-    "Glass for solar cells"
+    "Optical fiber cables",
+    "Display glass for LCD/OLED panels",
+    "Camera lens glass",
+    "High-performance specialty glass for scientific instruments",
+    "Fiber optic connectors and splicing equipment"
   ],
-  "extracted_at": "2026-05-06 17:25:36",
+  "extracted_at": "2026-05-07 17:45:34",
   "sources": [
     {
       "source": "Wikipedia",
@@ -30,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Corning_Inc.",
+      "url": "https://www.corning.com/optical-communications/worldwide/en/home/support/authorized-distributors.html",
       "query": "Corning Incorporated suppliers manufacturers",
-      "snippet": "Corning is one of the main suppliers to Apple Inc. since working with Steve Jobs in 2007 to develop the iPhone. Corning won the National Medal of ..."
+      "snippet": "Find Corning authorized distributors and installers. Find information on our carrier or enterprise network distributors here."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.corning.com/worldwide/en.html",
+      "url": "https://www.mouser.com/manufacturer/corning/",
       "query": "Corning Incorporated suppliers manufacturers",
-      "snippet": "Corning Incorporated is a global-leading innovator in materials science, with 170 years of life-changing inventions and category-defining products."
+      "snippet": "Corning 's industry-leading products include damage-resistant cover glass for mobile devices, precision glass for advanced displays, optical fiber, wi"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.marketbeat.com/stocks/NYSE/GLW/competitors-and-alternatives/",
-      "query": "Corning Incorporated competitors alternatives",
-      "snippet": "The main competitors of Corning include Advanced Energy Industries (AEIS), Lumentum (LITE), Meta Platforms (META), Teradyne (TER), and Amphenol (APH)."
+      "url": "https://www.corning.com/worldwide/en/about-us/corning-business-segments.html",
+      "query": "Corning Incorporated major customers clients",
+      "snippet": "Our business segments have deep histories in remarkable markets – and we’re helping our customers shape the future. Corning Incorporated is a leading "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://bullfincher.io/companies/corning-incorporated/competitors",
-      "query": "Corning Incorporated competitors alternatives",
-      "snippet": "Corning Incorporated's competitors include Amphenol Corporation, Teledyne Technologies Incorporated and more. Discover more competitors and create you"
+      "url": "https://csimarket.com/stocks/GLW-Customers",
+      "query": "Corning Incorporated major customers clients",
+      "snippet": "Apr 29, 2026 · Corning Inc customers and markets, results by customer and performance relative to GLW, by company and industry - CSIMarket"
     }
   ]
 }

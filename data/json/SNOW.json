@@ -7,31 +7,31 @@
     "AMZN",
     "MSFT",
     "GOOGL",
-    "Snowflake Services Partners",
-    "Cloud Infrastructure Providers"
+    "Snowflake Data Cloud Infrastructure",
+    "Cloud Storage Providers"
   ],
   "downstream": [
     "Capital One",
     "ADBE",
     "eBay",
-    "SONY",
-    "NFLX"
+    "NFLX",
+    "CRM"
   ],
   "competitors": [
+    "Databricks",
     "AMZN",
     "GOOGL",
     "MSFT",
-    "Databricks",
     "Teradata"
   ],
   "key_products": [
     "Snowflake Data Cloud",
     "Snowflake Data Marketplace",
     "Snowflake Data Sharing",
-    "Snowflake Snowpark",
-    "Snowflake Data Warehouse"
+    "Snowflake Data Warehouse",
+    "Snowflake Data Lake"
   ],
-  "extracted_at": "2026-04-24 16:51:56",
+  "extracted_at": "2026-05-07 17:47:42",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,15 +41,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/SNOW-Suppliers",
+      "url": "https://en.wikipedia.org/wiki/Snowflake_Inc.",
       "query": "Snowflake Inc. suppliers manufacturers",
-      "snippet": "Dec 9, 2025 · Snowflake Inc 's Suppliers recorded an increase in sales by 3.77 % year on year in Q3 2025, sequentially sales grew by 3.42 %, Snowflake"
+      "snippet": "Snowflake Inc . is an American cloud-based data platform company founded in San Mateo, California, and headquartered in Menlo Park."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.snowflake.com/en/why-snowflake/partners/",
+      "url": "https://www.snowflake.com/",
       "query": "Snowflake Inc. suppliers manufacturers",
-      "snippet": "Snowflake services partners provide industry experience, technical expertise and strategic best practices that help joint customers mitigate risks and"
+      "snippet": "Snowflake powers AI, data engineering, applications, and analytics on a trusted, scalable AI Data Cloud—eliminating silos and accelerating innovation."
     },
     {
       "source": "DuckDuckGo",
@@ -59,9 +59,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.appsruntheworld.com/customers-database/vendors/view/snowflake-inc",
+      "url": "https://data.landbase.com/technology/snowflake/",
       "query": "Snowflake Inc. major customers clients",
-      "snippet": "List of companies using or evaluating Snowflake applications, with details on their revenues, employees, industries, and locations."
+      "snippet": "Aug 17, 2025 · We have data on 14,547 companies that use Snowflake . Our Snowflake customers list is available for download and comes enriched with vi"
     }
   ]
 }

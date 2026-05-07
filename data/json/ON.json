@@ -4,18 +4,18 @@
   "sector": "Technology",
   "industry": "Semiconductors",
   "upstream": [
-    "Silicon wafer suppliers",
+    "TSM",
+    "005930.KS",
+    "GlobalFoundries",
     "AMAT",
-    "Packaging and testing service providers",
-    "CAT",
-    "Metrology equipment vendors"
+    "ASML"
   ],
   "downstream": [
-    "Automotive OEMs (e.g., Ford, General Motors)",
-    "CAT",
-    "AAPL",
-    "LED lighting manufacturers",
-    "Medical device producers"
+    "Ford Motor Company",
+    "QCOM",
+    "DELL",
+    "Philips Lighting",
+    "GE Healthcare"
   ],
   "competitors": [
     "TXN",
@@ -25,19 +25,43 @@
     "STMicroelectronics"
   ],
   "key_products": [
-    "Power management ICs",
-    "Signal management ICs",
-    "Logic devices",
-    "Discrete devices",
-    "Custom semiconductor solutions"
+    "Power Management ICs",
+    "Signal Management ICs",
+    "Logic ICs",
+    "Discrete Devices",
+    "Custom Semiconductor Solutions"
   ],
-  "extracted_at": "2026-05-06 17:36:24",
+  "extracted_at": "2026-05-07 17:50:36",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/ON_Semiconductor_Corporation",
       "title": "Onsemi",
       "snippet": "ON Semiconductor Corporation is an American semiconductor supplier company, based in Scottsdale, Arizona. Products include power and signal management, logic, discrete, and custom devices for automoti"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/Onsemi",
+      "query": "ON Semiconductor Corporation suppliers manufacturers",
+      "snippet": "ON Semiconductor Corporation (stylized and doing business as onsemi) is an American semiconductor supplier company, based in Scottsdale, Arizona . Pro"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/ON-Suppliers",
+      "query": "ON Semiconductor Corporation suppliers manufacturers",
+      "snippet": "Feb 9, 2026 · On Semiconductor 's Suppliers recorded an increase in sales by 20.95 % year on year in Q4 2025, sequentially sales grew by 190.33 %, On "
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/Onsemi",
+      "query": "ON Semiconductor Corporation major customers clients",
+      "snippet": "ON Semiconductor Corporation (stylized and doing business as onsemi) is an American semiconductor supplier company, based in Scottsdale, Arizona. Prod"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/competition2.php?markets&code=ON",
+      "query": "ON Semiconductor Corporation major customers clients",
+      "snippet": "Explore On Semiconductor Corporation 's customer comparisons, including sales, income, profitability, and cash flow metrics."
     }
   ]
 }

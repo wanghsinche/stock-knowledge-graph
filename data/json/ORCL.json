@@ -4,34 +4,34 @@
   "sector": "Technology",
   "industry": "Software - Infrastructure",
   "upstream": [
+    "INTC",
     "AMD",
-    "MSFT",
-    "Software component vendors (e.g., Red Hat, VMware)",
-    "CSCO",
-    "Data center service providers"
+    "NVDA",
+    "DELL",
+    "CSCO"
   ],
   "downstream": [
-    "Large enterprises (e.g., Walmart, JPMorgan Chase)",
-    "Government agencies (e.g., U.S. Department of Defense)",
-    "Financial institutions (e.g., Bank of America, Citigroup)",
-    "Healthcare organizations (e.g., Mayo Clinic)",
-    "Retail and e‑commerce companies (e.g., eBay, Alibaba)"
+    "JPMorgan Chase",
+    "Walmart",
+    "Coca‑Cola",
+    "005930.KS",
+    "UnitedHealth Group"
   ],
   "competitors": [
     "MSFT",
+    "AMZN",
     "SAP",
     "IBM",
-    "AMZN",
-    "GOOGL"
+    "CRM"
   ],
   "key_products": [
     "Oracle Database",
-    "Oracle Cloud Infrastructure (OCI)",
+    "Oracle Cloud Infrastructure",
+    "Oracle ERP Cloud",
     "Oracle Autonomous Database",
-    "Oracle Fusion Applications",
-    "Oracle ERP Cloud"
+    "Oracle Analytics Cloud"
   ],
-  "extracted_at": "2026-05-06 17:26:23",
+  "extracted_at": "2026-05-07 17:44:14",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,15 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/List_of_acquisitions_by_Oracle",
+      "url": "https://en.wikipedia.org/wiki/Oracle_Corporation",
       "query": "Oracle Corporation suppliers manufacturers",
-      "snippet": "This is a listing of Oracle Corporation's corporate acquisitions, including acquisitions of both companies and individual products."
+      "snippet": "Oracle Corporation is an American multinational technology company headquartered in Austin, Texas. Co-founded in Santa Clara, California in 1977 by Bo"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.oracle.com/scm/manufacturing/",
+      "url": "https://ru.wikipedia.org/wiki/Oracle",
       "query": "Oracle Corporation suppliers manufacturers",
-      "snippet": "Oracle Fusion Cloud Manufacturing helps you streamline your global, mixed-mode manufacturing to maximize operational performance."
+      "snippet": "Oracle ( Oracle Corporation ) — американская корпорация, второй по размеру выручки разработчик программного обеспечения (после Microsoft), четвёртая к"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.oracle.com/customers/",
+      "query": "Oracle Corporation major customers clients",
+      "snippet": "Oracle Customer Successes Innovation, ease of use, better results—those are just some of the reasons organizations in all industries and of all sizes "
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.thomsondata.com/customer-base/oracle.php",
+      "query": "Oracle Corporation major customers clients",
+      "snippet": "Technographic Data of Companies That Use Oracle Oracle Customers List by Industry Different industries use Oracle technology for their business . Look"
     }
   ]
 }

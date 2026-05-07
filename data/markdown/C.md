@@ -2,33 +2,33 @@
 ticker: C
 company: Citigroup Inc.
 sector: Financial Services
-industry: Diversified Banks
-extracted_at: 2026-04-20 17:04:45
-last_updated: 2026-04-20
+industry: Banks - Diversified
+extracted_at: 2026-05-07 17:49:45
+last_updated: 2026-05-07
 ---
 
 # C - Citigroup Inc.
 
 ## 基本信息
 
-- **所属行业**: Financial Services / Diversified Banks
-- **提取时间**: 2026-04-20 17:04:45
+- **所属行业**: Financial Services / Banks - Diversified
+- **提取时间**: 2026-05-07 17:49:45
 
 ## 产业链关系
 
 ### 上游供应商
+- [[ORCL]]
 - [[MSFT]]
-- [[Payment processors (e.g., Visa, Mastercard)]]
-- [[Data analytics providers (e.g., Bloomberg)]]
-- [[Cybersecurity firms (e.g., Palo Alto Networks)]]
+- [[IBM]]
 - [[AMZN]]
+- [[SAP]]
 
 ### 下游客户
-- [[Corporate clients (e.g., Fortune 500 companies)]]
 - [[Retail banking customers]]
-- [[Government entities]]
-- [[High-net-worth individuals]]
-- [[Small and medium enterprises]]
+- [[Corporate banking clients]]
+- [[Institutional Clients Group]]
+- [[Wealth management clients]]
+- [[Credit card holders]]
 
 ### 竞争对手
 - [[JPMorgan Chase & Co.]]
@@ -38,20 +38,20 @@ last_updated: 2026-04-20
 - [[Morgan Stanley]]
 
 ### 核心产品
-- [[Investment banking services]]
-- [[Retail banking and credit cards]]
+- [[Retail banking services]]
+- [[Corporate and investment banking]]
+- [[Credit card products]]
 - [[Wealth management]]
-- [[Treasury and trade solutions]]
-- [[Global payments and cash management]]
+- [[Treasury and securities services]]
 
 ## 数据来源
 
 - [Citigroup](https://en.wikipedia.org/wiki/Citigroup_Inc.)
 - [Citigroup Inc. suppliers manufacturers](https://csimarket.com/stocks/C-Suppliers)
-- [Citigroup Inc. suppliers manufacturers](https://www.statista.com/statistics/1323628/supplier-diversity-citigroup/)
+- [Citigroup Inc. suppliers manufacturers](https://www.dnb.com/business-directory/company-profiles.citigroup_global_markets_inc.16567631cbd52cdeee58ca930946f301.html)
 - [Citigroup Inc. major customers clients](https://en.wikipedia.org/wiki/Citigroup)
-- [Citigroup Inc. major customers clients](https://uk.investing.com/news/transcripts/earnings-call-transcript-citigroup-q1-2026-sees-strong-earnings-beat-93CH-4607629)
+- [Citigroup Inc. major customers clients](https://www.citigroup.com/rcs/citigpa/storage/public/citi-2024-annual-report.pdf)
 
 ## 元数据
 
-- **更新日期**: 2026-04-20
+- **更新日期**: 2026-05-07

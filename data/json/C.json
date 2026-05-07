@@ -2,20 +2,20 @@
   "ticker": "C",
   "company_name": "Citigroup Inc.",
   "sector": "Financial Services",
-  "industry": "Diversified Banks",
+  "industry": "Banks - Diversified",
   "upstream": [
+    "ORCL",
     "MSFT",
-    "Payment processors (e.g., Visa, Mastercard)",
-    "Data analytics providers (e.g., Bloomberg)",
-    "Cybersecurity firms (e.g., Palo Alto Networks)",
-    "AMZN"
+    "IBM",
+    "AMZN",
+    "SAP"
   ],
   "downstream": [
-    "Corporate clients (e.g., Fortune 500 companies)",
     "Retail banking customers",
-    "Government entities",
-    "High-net-worth individuals",
-    "Small and medium enterprises"
+    "Corporate banking clients",
+    "Institutional Clients Group",
+    "Wealth management clients",
+    "Credit card holders"
   ],
   "competitors": [
     "JPMorgan Chase & Co.",
@@ -25,13 +25,13 @@
     "Morgan Stanley"
   ],
   "key_products": [
-    "Investment banking services",
-    "Retail banking and credit cards",
+    "Retail banking services",
+    "Corporate and investment banking",
+    "Credit card products",
     "Wealth management",
-    "Treasury and trade solutions",
-    "Global payments and cash management"
+    "Treasury and securities services"
   ],
-  "extracted_at": "2026-04-20 17:04:45",
+  "extracted_at": "2026-05-07 17:49:45",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,25 +43,25 @@
       "source": "DuckDuckGo",
       "url": "https://csimarket.com/stocks/C-Suppliers",
       "query": "Citigroup Inc. suppliers manufacturers",
-      "snippet": "Feb 22, 2026 · For your research, we’ve provided nine additional tables on Citigroup inc ’ s suppliers . You can find them in the navigation menu unde"
+      "snippet": "Feb 22, 2026 · Citigroup Inc supply chain, list and performance of Citigroup Incs' suppliers - CSIMarket"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.statista.com/statistics/1323628/supplier-diversity-citigroup/",
+      "url": "https://www.dnb.com/business-directory/company-profiles.citigroup_global_markets_inc.16567631cbd52cdeee58ca930946f301.html",
       "query": "Citigroup Inc. suppliers manufacturers",
-      "snippet": "Mar 3, 2026 · From 2020 to 2022, the annual Tier 1 spending of Citigroup with diverse suppliers increased significantly. In 2022, Citigroup spent 1.3 "
+      "snippet": "Find company research, competitor information, contact details & financial data for CITIGROUP GLOBAL MARKETS INC . of Phoenix , AZ . Get the latest bu"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Citigroup",
       "query": "Citigroup Inc. major customers clients",
-      "snippet": "Citigroup Inc . or Citi is an American multinational investment bank and financial services company based in New York City. The company was formed in "
+      "snippet": "Citigroup operates with two major divisions: Institutional Clients Group (ICG), which offers investment banking and corporate banking services, as wel"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://uk.investing.com/news/transcripts/earnings-call-transcript-citigroup-q1-2026-sees-strong-earnings-beat-93CH-4607629",
+      "url": "https://www.citigroup.com/rcs/citigpa/storage/public/citi-2024-annual-report.pdf",
       "query": "Citigroup Inc. major customers clients",
-      "snippet": "Citigroup Inc . reported strong earnings for the first quarter of 2026, with earnings per share (EPS) of $3.06, surpassing the forecast of $2.63 by 16"
+      "snippet": "The natural linkages between our businesses have always been a strength, and today we are maximizing those connections. All parts of the firm are work"
     }
   ]
 }

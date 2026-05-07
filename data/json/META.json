@@ -8,30 +8,30 @@
     "AMD",
     "INTC",
     "CSCO",
-    "DELL"
+    "JNPR"
   ],
   "downstream": [
-    "Advertisers",
-    "App developers",
-    "Content creators",
-    "Users",
-    "Enterprise customers"
+    "Coca-Cola",
+    "Nike",
+    "005930.KS",
+    "MSFT",
+    "GOOGL"
   ],
   "competitors": [
     "GOOGL",
     "AMZN",
     "AAPL",
     "MSFT",
-    "ByteDance"
+    "TikTok (ByteDance)"
   ],
   "key_products": [
     "Facebook",
     "Instagram",
     "WhatsApp",
     "Messenger",
-    "Threads"
+    "Meta Ads"
   ],
-  "extracted_at": "2026-05-06 17:23:41",
+  "extracted_at": "2026-05-07 17:43:26",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,15 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://hudson-labs.com/research/meta-competitors-meta-top-rivals-in-2026",
-      "query": "Meta Platforms, Inc. competitors alternatives",
-      "snippet": "Compare Meta Platforms (META) to top competitors like Alphabet, Amazon, and Apple. META market cap: $1.63T. See key differences for 2026."
+      "url": "https://ru.wikipedia.org/wiki/Meta_Platforms",
+      "query": "Meta Platforms, Inc. suppliers manufacturers",
+      "snippet": "Meta Platforms , Inc . — американская транснациональная холдинговая компания, владеющая технологическим конгломератом и расположенная в Менло-Парке, К"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.cbinsights.com/company/facebook/alternatives-competitors",
-      "query": "Meta Platforms, Inc. competitors alternatives",
-      "snippet": "Meta's alternatives and competitors. See how Meta compares to similar products. Meta's top competitors include X, Triller, and Even Realities."
+      "url": "https://hyperdash.com/asset/meta-price",
+      "query": "Meta Platforms, Inc. suppliers manufacturers",
+      "snippet": "Track Meta Platforms , Inc . ( META ) live price, 24h change, volume, and open interest. Real-time chart, funding rates, and market data for Meta Plat"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/Meta_Platforms",
+      "query": "Meta Platforms, Inc. major customers clients",
+      "snippet": "Meta Platforms , Inc . (doing business as Meta) is an American multinational technology company headquartered in Menlo Park, California. Meta owns and"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/META-Customers",
+      "query": "Meta Platforms, Inc. major customers clients",
+      "snippet": "4 days ago · Meta Platforms Inc 's Comment on Sales, Marketing and Customers The majority of our marketers use our self-service ad platform to establi"
     }
   ]
 }

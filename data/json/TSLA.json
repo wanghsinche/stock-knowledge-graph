@@ -7,36 +7,31 @@
     "Panasonic",
     "LG Chem",
     "CAT",
-    "Baidu",
-    "Albemarle"
+    "005930.KS",
+    "BYD"
   ],
   "downstream": [
-    "Individual consumers",
-    "Commercial fleet operators",
-    "Government agencies",
-    "Energy storage customers",
-    "Solar installation companies"
+    "U.S. individual consumers",
+    "Chinese individual consumers",
+    "European individual consumers",
+    "Fleet operators (Uber, Lyft)",
+    "AMZN"
   ],
   "competitors": [
-    "Ford Motor Company",
     "General Motors",
-    "Volkswagen AG",
-    "Hyundai Motor Group",
-    "Rivian Automotive"
+    "Ford",
+    "Volkswagen",
+    "Rivian",
+    "Lucid Motors"
   ],
   "key_products": [
-    "Model S",
-    "Model 3",
-    "Model X",
-    "Model Y",
-    "Cybertruck",
-    "Semi",
-    "Powerwall",
-    "Powerpack",
-    "Solar Roof",
-    "Solar Panels"
+    "Battery electric vehicles (Model S, 3, X, Y, Cybertruck, Roadster)",
+    "Stationary battery energy storage (Powerwall, Powerpack, Megapack)",
+    "Solar panels",
+    "Solar shingles",
+    "Autonomous driving software and related services"
   ],
-  "extracted_at": "2026-05-06 17:23:24",
+  "extracted_at": "2026-05-07 17:41:42",
   "sources": [
     {
       "source": "Wikipedia",
@@ -46,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Tesla,_Inc.",
-      "query": "Tesla, Inc. suppliers manufacturers",
-      "snippet": "an American multinational automotive and clean energy company. Headquartered in Austin, Texas, it designs, manufactures and sells battery electric veh"
-    },
-    {
-      "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/List_of_Tesla_factories",
       "query": "Tesla, Inc. suppliers manufacturers",
-      "snippet": "Tesla, Inc. manufactures their products worldwide as well as a lithium ore refinery. The following is a list of current, future, and former facilities"
+      "snippet": "List of Tesla factories Robotic manufacturing of the Model S at the Tesla Factory in Fremont, California Tesla, Inc . manufactures their products worl"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Tesla,_Inc.",
-      "query": "Tesla, Inc. major customers clients",
-      "snippet": "an American multinational automotive and clean energy company. Headquartered in Austin, Texas, it designs, manufactures and sells battery electric veh"
+      "url": "https://www.investopedia.com/ask/answers/052815/who-are-teslas-tsla-main-suppliers.asp",
+      "query": "Tesla, Inc. suppliers manufacturers",
+      "snippet": "Nov 4, 2025 · Discover Tesla's key and rumored parts suppliers . Learn which companies provide essential components for Tesla's electric vehicles and "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.tesla.com/customer-stories",
+      "url": "https://businessmodelanalyst.com/tesla-target-market/",
       "query": "Tesla, Inc. major customers clients",
-      "snippet": "Discover how electric vehicles, solar, home batteries and renewable energy are reducing emissions and lowering energy costs for Tesla owners. Missing:"
+      "snippet": "Nov 7, 2024 · This article explores the intricacies of Tesla target market, analyzing the demographic, geographic, psychographic, and behavioral facto"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/TSLA-Customers",
+      "query": "Tesla, Inc. major customers clients",
+      "snippet": "5 days ago · Tesla Inc customers and markets, results by customer and performance relative to TSLA, by company and industry - CSIMarket"
     }
   ]
 }

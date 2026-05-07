@@ -1,43 +1,67 @@
 {
   "ticker": "CRCL",
   "company_name": "Circle Internet Group",
-  "sector": "Financial Services / Capital Markets",
-  "industry": "Payments Technology",
+  "sector": "Financial Services",
+  "industry": "Capital Markets",
   "upstream": [
-    "Blockchain platforms (Ethereum, Algorand, Solana)",
-    "Liquidity providers (Uniswap, Coinbase, Kraken)",
-    "KYC/AML compliance services",
-    "Regulatory technology firms",
-    "Cryptocurrency exchanges"
+    "Payment processors",
+    "Blockchain infrastructure providers",
+    "Stablecoin liquidity providers",
+    "Financial data vendors",
+    "Regulatory compliance services"
   ],
   "downstream": [
-    "Banks and financial institutions",
-    "Fintech companies",
-    "Merchants and e‑commerce platforms",
+    "Retail investors",
     "Institutional investors",
-    "Retail consumers"
+    "Crypto exchanges",
+    "Payment merchants",
+    "Banks"
   ],
   "competitors": [
     "Coinbase",
     "PayPal",
+    "Square (Block)",
     "Stripe",
-    "Square",
     "Revolut"
   ],
   "key_products": [
     "USDC stablecoin",
     "EURC stablecoin",
-    "USYC tokenized money‑market fund",
+    "USYC tokenized money market fund",
     "Circle Pay",
     "Circle Invest"
   ],
-  "extracted_at": "2026-05-06 17:38:03",
+  "extracted_at": "2026-05-07 17:50:49",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Circle_Internet_Group",
       "title": "Circle Internet Group",
       "snippet": "Circle is a payments technology company. Founded by Jeremy Allaire and Sean Neville in 2013, it is currently headquartered in New York City and issues two types of stablecoin: USDC, which has a conver"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://investor.circle.com/overview/default.aspx",
+      "query": "Circle Internet Group suppliers manufacturers",
+      "snippet": "Mar 17, 2026 · Circle Investor Relations Circle is a global financial technology firm that enables businesses of all sizes to harness the power of dig"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.appsruntheworld.com/customers-database/vendors/view/circle-internet-group",
+      "query": "Circle Internet Group suppliers manufacturers",
+      "snippet": "List of companies using or evaluating Circle Internet Group applications, with details on their revenues, employees, industries, and locations."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.fool.com/investing/2025/07/10/has-circle-internet-groups-stock-already-peaked/",
+      "query": "Circle Internet Group major customers clients",
+      "snippet": "Circle Internet Group went public in June and it has been one of the hottest stocks on the market. Investors are paying a steep premium for the stock,"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-circle-internet-stock-surging-today-93CH-4656898",
+      "query": "Circle Internet Group major customers clients",
+      "snippet": "Investing.com -- Circle Internet Group stock surged +16.07% in market hours today after a bipartisan compromise text for the Digital Asset Market CLAR"
     }
   ]
 }

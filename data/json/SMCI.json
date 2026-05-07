@@ -1,37 +1,37 @@
 {
   "ticker": "SMCI",
   "company_name": "Super Micro Computer, Inc.",
-  "sector": "Technology",
-  "industry": "Computer Hardware",
+  "sector": "Technology / Computer Hardware",
+  "industry": "Server and Storage Solutions",
   "upstream": [
     "INTC",
     "AMD",
     "NVDA",
     "AVGO",
-    "005930.KS"
+    "MU"
   ],
   "downstream": [
     "AMZN",
     "MSFT",
     "GOOGL",
-    "Telecom operators (e.g., AT&T, Verizon)",
-    "NVDA"
+    "IBM",
+    "ORCL"
   ],
   "competitors": [
-    "AMD",
+    "DELL",
     "HPQ",
+    "Lenovo",
     "CSCO",
-    "IBM",
-    "DELL"
+    "Huawei"
   ],
   "key_products": [
     "High‑performance servers",
     "High‑efficiency servers",
     "Server management software",
-    "Storage systems",
-    "Edge computing solutions"
+    "Enterprise storage systems",
+    "Edge computing platforms"
   ],
-  "extracted_at": "2026-05-06 17:27:12",
+  "extracted_at": "2026-05-07 17:48:32",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,25 +43,25 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Supermicro",
       "query": "Super Micro Computer, Inc. suppliers manufacturers",
-      "snippet": "Supermicro was founded in 1993, and has manufacturing operations in Silicon Valley, the Netherlands, and in Taiwan at its Science and Technology Park."
+      "snippet": "Super Micro Computer , Inc ., doing business as Supermicro, is an American information technology company based in San Jose, California. The company i"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.supermicro.com/en/wheretobuy",
+      "url": "https://csimarket.com/stocks/SMCI-Suppliers",
       "query": "Super Micro Computer, Inc. suppliers manufacturers",
-      "snippet": "Find a Supermicro Authorized Partner. To search, enter information in all three fields below. Beware of fraudulent websites."
+      "snippet": "Feb 7, 2026 · Super Micro Computer Inc 's Suppliers recorded an increase in sales by 19.46 % year on year in Q4 2025, sequentially sales grew by 6.07 "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.marketbeat.com/stocks/NASDAQ/SMCI/competitors-and-alternatives/",
-      "query": "Super Micro Computer, Inc. competitors alternatives",
-      "snippet": "The main competitors of Super Micro Computer include Advanced Micro Devices (AMD), Alphabet (GOOGL), Intel (INTC), Meta Platforms (META), and Microsof"
+      "url": "https://data.landbase.com/technology/supermicro/",
+      "query": "Super Micro Computer, Inc. major customers clients",
+      "snippet": "Aug 17, 2025 · Companies using Supermicro by Super Micro Computer , Inc . in 2026 As of 2026, 450 verified companies use Supermicro – across industrie"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.reddit.com/r/msp/comments/1gafc4u/supermicro_replacement/",
-      "query": "Super Micro Computer, Inc. competitors alternatives",
-      "snippet": "Oct 23, 2024 · HPE, Cisco, and IBM are the other main players before you jump into niche manufacturers IMO. Dell has always been my goto but fully und"
+      "url": "https://csimarket.com/stocks/SMCI-Customers",
+      "query": "Super Micro Computer, Inc. major customers clients",
+      "snippet": "4 days ago · Super Micro Computer Inc customers and markets, results by customer and performance relative to SMCI, by company and industry - CSIMarket"
     }
   ]
 }

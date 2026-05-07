@@ -1,43 +1,67 @@
 {
   "ticker": "MSTR",
-  "company_name": "MicroStrategy Incorporated",
+  "company_name": "Strategy Inc",
   "sector": "Technology",
   "industry": "Software - Application",
   "upstream": [
-    "Hardware component suppliers",
-    "Cloud infrastructure providers",
-    "Data storage and management vendors",
-    "Software development tool providers",
-    "Network equipment manufacturers"
+    "Bitcoin mining hardware manufacturers (e.g., Bitmain, MicroBT)",
+    "MSFT",
+    "Data center infrastructure providers (Equinix)",
+    "Hardware wallet manufacturers (Ledger, Trezor)",
+    "Security software vendors (Symantec, Palo Alto Networks)"
   ],
   "downstream": [
-    "Enterprise IT departments",
-    "Financial services firms",
-    "Government agencies",
-    "Retail and e‑commerce companies",
-    "Healthcare organizations"
+    "Institutional investors (BlackRock, Fidelity)",
+    "Hedge funds (Bridgewater, Citadel)",
+    "Corporations (e.g., Walmart, JPMorgan)",
+    "Family offices and private equity firms",
+    "Retail investors via Strategy’s platform"
   ],
   "competitors": [
-    "Tableau Software",
-    "Qlik Technologies",
-    "MSFT",
-    "SAP BusinessObjects",
-    "ORCL"
+    "BitGo",
+    "Coinbase Custody",
+    "Fidelity Digital Assets",
+    "Bakkt",
+    "Gemini Custody"
   ],
   "key_products": [
-    "MicroStrategy Desktop",
-    "MicroStrategy Web",
-    "MicroStrategy Mobile",
-    "MicroStrategy Cloud",
-    "MicroStrategy Analytics"
+    "Bitcoin treasury services",
+    "Bitcoin custody solutions",
+    "Bitcoin treasury management platform",
+    "Bitcoin analytics and reporting",
+    "Bitcoin investment platform"
   ],
-  "extracted_at": "2026-05-06 17:31:36",
+  "extracted_at": "2026-05-07 17:47:55",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "",
       "title": "",
       "snippet": ""
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://finance.yahoo.com/quote/MSTR/",
+      "query": "Strategy Inc suppliers manufacturers",
+      "snippet": "Find the latest Strategy Inc (MSTR) stock quote, history, news and other vital information to help you with your stock trading and investing."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.insidermonkey.com/blog/is-strategy-inc-mstr-a-good-stock-to-buy-now-1734768/",
+      "query": "Strategy Inc suppliers manufacturers",
+      "snippet": "Strategy Inc is not on our list of the 40 Most Popular Stocks Among Hedge Funds. As per our database, 41 hedge fund portfolios held MSTR at the end of"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/STRF-Customers",
+      "query": "Strategy Inc major customers clients",
+      "snippet": "Jan 30, 2026 · Strategy Inc customers and markets, results by customer and performance relative to STRF, by company and industry - CSIMarket"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://markets.ft.com/data/equities/tearsheet/profile?s=MSTR",
+      "query": "Strategy Inc major customers clients",
+      "snippet": "1 day ago · Strategy Inc . is a bitcoin treasury and business intelligence company. The Company provides cloud-native, artificial intelligence (AI)-po"
     }
   ]
 }

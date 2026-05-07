@@ -2,36 +2,36 @@
   "ticker": "SNDK",
   "company_name": "SanDisk Corporation",
   "sector": "Technology",
-  "industry": "Computer Hardware",
+  "industry": "Semiconductors",
   "upstream": [
-    "NAND flash memory manufacturers",
-    "Silicon foundries",
-    "Packaging and assembly suppliers",
-    "Electronic component distributors",
-    "PCB and substrate suppliers"
+    "MU",
+    "005930.KS",
+    "SK Hynix",
+    "Nanya Technology",
+    "Toshiba"
   ],
   "downstream": [
-    "DELL",
     "AAPL",
     "MSFT",
-    "Mobile device OEMs (Huawei, Xiaomi)",
-    "Enterprise storage vendors"
+    "DELL",
+    "HPQ",
+    "AMZN"
   ],
   "competitors": [
-    "005930.KS",
     "MU",
+    "005930.KS",
+    "SK Hynix",
     "WDC",
-    "Kingston Technology",
-    "SK Hynix"
+    "Crucial"
   ],
   "key_products": [
-    "NVMe SSDs",
-    "SATA SSDs",
+    "SD cards",
     "USB flash drives",
-    "SD and microSD cards",
-    "Enterprise SSD solutions"
+    "SSD drives",
+    "eMMC modules",
+    "NVMe SSDs"
   ],
-  "extracted_at": "2026-05-06 17:22:39",
+  "extracted_at": "2026-05-07 17:41:52",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,15 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Sandisk",
-      "query": "Sandisk Corporation products services offerings",
-      "snippet": "Founded in 1988, it designs and manufactures flash memory products, including memory cards, USB flash drives, and solid-state drives (SSDs)."
+      "url": "https://www.sandisk.com/company/distributors",
+      "query": "Sandisk Corporation suppliers manufacturers",
+      "snippet": "Find Sandisk Distributors & Resellers Purchase from your preferred Sandisk authorized partner."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.sandisk.com/en-ie",
-      "query": "Sandisk Corporation products services offerings",
-      "snippet": "High-performance SSDs, memory cards, and USB Flash Drives designed to prioritize speed, reliability, and energy efficiency for gamers, digital photogr"
+      "url": "https://www.mouser.com/manufacturer/sandisk/",
+      "query": "Sandisk Corporation suppliers manufacturers",
+      "snippet": "Sandisk supplier Mouser Electronics now stocks Sandisk . SanDisk SanDisk Corporation is a global leader in flash storage solutions, expanding the poss"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/Sandisk",
+      "query": "Sandisk Corporation major customers clients",
+      "snippet": "Sandisk Corporation is an American multinational computer semiconductor company based in Milpitas, California, that designs and manufactures flash mem"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.sandisk.com/",
+      "query": "Sandisk Corporation major customers clients",
+      "snippet": "Sandisk online store members receive free standard shipping on all eligible orders.New Sandisk Customers Sign Up and Save 10% Off. Explore the latest "
     }
   ]
 }

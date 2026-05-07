@@ -1,8 +1,8 @@
 {
   "ticker": "CRWV",
   "company_name": "CoreWeave, Inc.",
-  "sector": "Technology / Software - Infrastructure",
-  "industry": "GPU Cloud Computing",
+  "sector": "Technology",
+  "industry": "Software - Infrastructure",
   "upstream": [
     "NVDA",
     "AMD",
@@ -11,27 +11,27 @@
     "005930.KS"
   ],
   "downstream": [
-    "AI developers",
-    "Enterprise AI teams",
-    "Machine learning researchers",
-    "Data science teams",
-    "Research labs"
+    "OpenAI",
+    "MSFT",
+    "GOOGL",
+    "IBM",
+    "AMZN"
   ],
   "competitors": [
-    "AMZN",
+    "AWS",
     "GOOGL",
     "MSFT",
     "Paperspace",
     "Lambda Labs"
   ],
   "key_products": [
-    "GPU Cloud Infrastructure",
-    "GPU Compute Instances",
-    "GPU Storage",
-    "GPU Networking",
-    "Chip Management Software"
+    "GPU cloud computing services",
+    "AI infrastructure",
+    "chip management software",
+    "GPU instances",
+    "AI compute platform"
   ],
-  "extracted_at": "2026-05-06 17:26:58",
+  "extracted_at": "2026-05-07 17:44:51",
   "sources": [
     {
       "source": "Wikipedia",
@@ -42,14 +42,26 @@
     {
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/CoreWeave",
-      "query": "CoreWeave, Inc. products services offerings",
-      "snippet": "It specializes in providing cloud-based graphics processing unit (GPU) infrastructure to AI developers and enterprises, and also develops its own chip"
+      "query": "CoreWeave, Inc. suppliers manufacturers",
+      "snippet": "CoreWeave , Inc . is an American artificial intelligence cloud-computing company based in Livingston, New Jersey."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.coreweave.com/",
-      "query": "CoreWeave, Inc. products services offerings",
-      "snippet": "Explore our GPU cloud services · Compute · Storage · Networking · Managed Software Services · Cluster Health Management · Platform."
+      "url": "https://ca.finance.yahoo.com/quote/CRWV/",
+      "query": "CoreWeave, Inc. suppliers manufacturers",
+      "snippet": "Find the latest CoreWeave , Inc . (CRWV) stock quote, history, news and other vital information to help you with your stock trading and investing. Cor"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/CoreWeave",
+      "query": "CoreWeave, Inc. major customers clients",
+      "snippet": "CoreWeave , Inc . is an American artificial intelligence cloud-computing company based in Livingston, New Jersey. It specializes in providing cloud-ba"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://brokstock.co.za/markets/us-shares/crwv/",
+      "query": "CoreWeave, Inc. major customers clients",
+      "snippet": "Financial overview of CoreWeave Inc , Share CFDs including CRWV Stock Price, charts, analysis, share historical data and more."
     }
   ]
 }

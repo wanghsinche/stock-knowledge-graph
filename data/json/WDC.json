@@ -1,37 +1,37 @@
 {
   "ticker": "WDC",
   "company_name": "Western Digital Corporation",
-  "sector": "Technology",
-  "industry": "Computer Hardware",
+  "sector": "Technology / Computer Hardware",
+  "industry": "Data Storage",
   "upstream": [
     "MU",
-    "Printed circuit board (PCB) suppliers",
+    "PCB manufacturers",
     "Magnetic media suppliers",
-    "Electronics component distributors",
-    "Precision machining and assembly suppliers"
+    "Electronics component suppliers",
+    "Firmware and software providers"
   ],
   "downstream": [
-    "AAPL",
     "DELL",
-    "HPQ",
+    "DELL",
+    "GOOGL",
     "AMZN",
-    "MSFT"
+    "Enterprise storage customers"
   ],
   "competitors": [
     "STX",
-    "Toshiba Corporation",
+    "Toshiba",
     "005930.KS",
-    "INTC",
-    "SK Hynix"
+    "STX",
+    "MU"
   ],
   "key_products": [
-    "Hard Disk Drives (HDDs)",
-    "Solid State Drives (SSDs)",
-    "External storage devices",
-    "Enterprise storage solutions",
-    "Network Attached Storage (NAS) devices"
+    "3.5\" HDDs",
+    "2.5\" HDDs",
+    "SATA SSDs",
+    "NVMe SSDs",
+    "External storage drives"
   ],
-  "extracted_at": "2026-05-06 17:27:29",
+  "extracted_at": "2026-05-07 17:46:25",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,15 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.wdpartners.com/clients/",
-      "query": "Western Digital Corporation major customers clients",
-      "snippet": "Our Clients ; #. 7-Eleven ; A. Abercrombie & Fitch; AHF Products; Albertsons; America's Best; Anchor Hocking; Anheuser-Busch; Aramark; Arby's; Audi / "
+      "url": "https://www.westerndigital.com/company/distributors",
+      "query": "Western Digital Corporation suppliers manufacturers",
+      "snippet": "Find Western Digital authorized Distributors & Resellers Tiered Pricing for Business Members Get special rates on select products. New products added "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://data.landbase.com/technology/western-digital/",
+      "url": "https://csimarket.com/stocks/WDC-Suppliers",
+      "query": "Western Digital Corporation suppliers manufacturers",
+      "snippet": "4 days ago · Western Digital supply chain, list and performance of Western Digitals' suppliers - CSIMarket"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/WDC-Customers",
       "query": "Western Digital Corporation major customers clients",
-      "snippet": "Aug 17, 2025 · As of 2026, 354 verified companies use Western Digital – across industries, company sizes, and geographies. This is real, verified data"
+      "snippet": "Western Digital 's Comment on Sales, Marketing and Customers We maintain sales offices in selected parts of the world including the major geographies "
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.readycontacts.com/target-account-profiling/western-digital/",
+      "query": "Western Digital Corporation major customers clients",
+      "snippet": "Western Digital is a leading data storage company that develops, manufactures, and provides data technology products, including hard disk drives and s"
     }
   ]
 }

@@ -1,43 +1,67 @@
 {
   "ticker": "STX",
   "company_name": "Seagate Technology Holdings plc",
-  "sector": "Technology / Computer Hardware",
-  "industry": "Hard Disk Drive Manufacturing",
+  "sector": "Technology",
+  "industry": "Computer Hardware",
   "upstream": [
-    "Platter manufacturers",
-    "Electronics component suppliers",
-    "Firmware providers",
-    "Manufacturing equipment suppliers",
-    "Packaging suppliers"
+    "005930.KS",
+    "SK Hynix",
+    "MU",
+    "Toshiba",
+    "WDC"
   ],
   "downstream": [
     "DELL",
     "HPQ",
-    "Lenovo",
+    "Lenovo Group",
     "AAPL",
-    "AMZN"
+    "MSFT"
   ],
   "competitors": [
     "WDC",
     "Toshiba",
     "005930.KS",
     "MU",
-    "INTC"
+    "SK Hynix"
   ],
   "key_products": [
-    "Hard Disk Drives",
-    "Solid State Drives",
-    "Enterprise Storage Systems",
-    "Data Center Storage Solutions",
-    "Hybrid Drives"
+    "Hard Disk Drives (HDDs)",
+    "Solid State Drives (SSDs)",
+    "Enterprise storage solutions",
+    "Data storage systems",
+    "Cloud storage solutions"
   ],
-  "extracted_at": "2026-05-06 17:28:45",
+  "extracted_at": "2026-05-07 17:45:48",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "",
       "title": "",
       "snippet": ""
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/STX-Business-Description.html",
+      "query": "Seagate Technology Holdings plc suppliers manufacturers",
+      "snippet": "Seagate Technology Holdings Plc Cash Flow Statement. Suppliers . Seagate Technology Holdings Plc is a globally recognized leader in the field of elect"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.seagate.com/",
+      "query": "Seagate Technology Holdings plc suppliers manufacturers",
+      "snippet": "Seagate Technology Holdings PLC ."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/STX-Customers",
+      "query": "Seagate Technology Holdings plc major customers clients",
+      "snippet": "Seagate Technology Holdings Plc 's Customers have recorded an increase in their cost of revenue by 12.77 % in the 1 quarter 2026 year on year, sequent"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.kerrisdalecap.com/wp-content/uploads/2025/05/STX–Kerrisdale.pdf",
+      "query": "Seagate Technology Holdings plc major customers clients",
+      "snippet": "Seagate shares are ripe for a major re-rating and are a double or triple from current levels. Disclaimer: As of the publication date of this report, K"
     }
   ]
 }

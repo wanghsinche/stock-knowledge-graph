@@ -7,37 +7,61 @@
     "AMZN",
     "MSFT",
     "GOOGL",
-    "CSCO",
-    "DELL"
+    "ORCL",
+    "IBM"
   ],
   "downstream": [
     "Walmart",
     "JPMorgan Chase",
     "AT&T",
-    "Bank of America",
-    "Coca‑Cola"
+    "Verizon",
+    "General Electric"
   ],
   "competitors": [
-    "Atlassian",
     "CRM",
+    "SAP",
     "MSFT",
-    "IBM",
-    "SAP"
+    "ORCL",
+    "IBM"
   ],
   "key_products": [
-    "Now Platform",
+    "ServiceNow Platform",
     "IT Service Management (ITSM)",
     "IT Operations Management (ITOM)",
-    "Security Operations",
-    "HR Service Delivery"
+    "IT Business Management (ITBM)",
+    "Customer Service Management (CSM)"
   ],
-  "extracted_at": "2026-05-06 17:41:00",
+  "extracted_at": "2026-05-07 17:46:48",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/ServiceNow,_Inc.",
       "title": "ServiceNow",
       "snippet": "ServiceNow, Inc. is an American software company that supplies a cloud computing platform for the creation and management of automated business workflows. The company was founded in Santa Clara, Calif"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.servicenow.com/company/supplier.html",
+      "query": "ServiceNow, Inc. suppliers manufacturers",
+      "snippet": "ServiceNow partners with capable and competitive suppliers who commit to diversity, sustainability, and best-in-class goods and services. Learn more h"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/NOW-Suppliers",
+      "query": "ServiceNow, Inc. suppliers manufacturers",
+      "snippet": "Jan 29, 2026 · Servicenow Inc 's Suppliers recorded an increase in sales by 4.22 % year on year in Q4 2025, sequentially sales grew by 27.21 %, Servic"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.g2.com/sellers/servicenow",
+      "query": "ServiceNow, Inc. major customers clients",
+      "snippet": "ServiceNow Customer Service Management. 257 reviews. ServiceNow CSM enhances every aspect of the customer lifecycle by utilizing AI-driven capabilitie"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://finance.yahoo.com/quote/NOW/",
+      "query": "ServiceNow, Inc. major customers clients",
+      "snippet": "Find the latest ServiceNow , Inc . ( NOW ) stock quote, history, news and other vital information to help you with your stock trading and investing. S"
     }
   ]
 }

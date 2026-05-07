@@ -5,17 +5,17 @@
   "industry": "Internet Content & Information",
   "upstream": [
     "INTC",
+    "AMD",
     "NVDA",
-    "QCOM",
-    "TSM",
-    "005930.KS"
+    "DELL",
+    "CSCO"
   ],
   "downstream": [
-    "Advertisers",
-    "Android device manufacturers",
-    "Enterprise customers",
-    "App developers",
-    "Consumers"
+    "GOOGL",
+    "GOOGL",
+    "YouTube content creators",
+    "Android OEMs",
+    "GOOGL"
   ],
   "competitors": [
     "MSFT",
@@ -26,18 +26,42 @@
   ],
   "key_products": [
     "Google Search",
+    "Google Ads",
     "YouTube",
-    "Google Cloud",
-    "Android",
-    "Google Ads"
+    "Google Cloud Platform",
+    "Android OS"
   ],
-  "extracted_at": "2026-05-06 17:25:18",
+  "extracted_at": "2026-05-07 17:44:39",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Alphabet_Inc.",
       "title": "Alphabet Inc.",
       "snippet": "Alphabet Inc. is an American multinational technology conglomerate holding company headquartered in Mountain View, California. It was created through a restructuring of Google on October 2, 2015, and "
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/Alphabet_Inc.",
+      "query": "Alphabet Inc. suppliers manufacturers",
+      "snippet": "Alphabet Inc . is an American multinational technology conglomerate holding company headquartered in Mountain View, California. It was created through"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/GOOG-Suppliers",
+      "query": "Alphabet Inc. suppliers manufacturers",
+      "snippet": "Feb 6, 2026 · Alphabet Inc 's Comment on Supply Chain We rely on third parties to manufacture many of our assemblies and finished products, and we hav"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/GOOGL-Customers",
+      "query": "Alphabet Inc. major customers clients",
+      "snippet": "Feb 9, 2026 · Alphabet Inc customers and markets, results by customer and performance relative to GOOGL, by company and industry - CSIMarket"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://pitchgrade.com/companies/alphabet-inc",
+      "query": "Alphabet Inc. major customers clients",
+      "snippet": "Jan 15, 2026 · Customer Segments: Alphabet Inc . serves multiple distinct customer segments, which may include consumers, small and medium businesses,"
     }
   ]
 }

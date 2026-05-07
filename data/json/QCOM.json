@@ -4,34 +4,34 @@
   "sector": "Technology",
   "industry": "Semiconductors",
   "upstream": [
-    "TSM",
-    "005930.KS",
-    "GlobalFoundries",
-    "INTC",
-    "NXP Semiconductors"
+    "Memory chip manufacturers",
+    "Power supply unit suppliers",
+    "Semiconductor packaging and test equipment providers",
+    "Electronic component suppliers",
+    "TSM"
   ],
   "downstream": [
-    "China Mobile (CMCC)",
-    "Deutsche Telekom",
-    "KDDI Corporation",
-    "NTT",
-    "AAPL"
+    "AAPL",
+    "Telecom equipment vendors (Ericsson, Nokia, Huawei, ZTE)",
+    "TSLA",
+    "MSFT",
+    "SONY"
   ],
   "competitors": [
     "MediaTek",
+    "AVGO",
+    "INTC",
     "005930.KS",
-    "Huawei (HiSilicon)",
-    "AAPL",
-    "INTC"
+    "NVDA"
   ],
   "key_products": [
     "Snapdragon mobile processors",
-    "5G modems and baseband chips",
+    "5G and 4G modems",
     "AI inference chips",
-    "RF front‑end modules",
-    "Wireless connectivity solutions"
+    "RF front‑end components",
+    "Baseband processors"
   ],
-  "extracted_at": "2026-05-06 17:25:52",
+  "extracted_at": "2026-05-07 17:42:36",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,15 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Qualcomm",
-      "query": "QUALCOMM Incorporated major customers clients",
-      "snippet": "Qualcomm Incorporated is an American multinational technology corporation headquartered in San Diego, California.The company develops and designs ..."
+      "url": "https://en.wikipedia.org/wiki/List_of_computer_hardware_manufacturers",
+      "query": "QUALCOMM Incorporated suppliers manufacturers",
+      "snippet": "24 Chipsets for network cards. 25 Power supply units (PSUs). 26 Random-access memory (RAM) modules.Current notable computer hardware manufacturers : C"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.qualcomm.com/news/releases/2023/02/qualcomm-and-7-leading-global-operators-announce-plans-to-levera",
+      "url": "https://www.qualcomm.com/",
+      "query": "QUALCOMM Incorporated suppliers manufacturers",
+      "snippet": "Stay connected. Get the latest Qualcomm and industry information delivered to your inbox."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/QCOM-Customers",
       "query": "QUALCOMM Incorporated major customers clients",
-      "snippet": "Feb 26, 2023 · Operators including CMCC, Deutsche Telekom, KDDI Corporation, NTT QONOQ, T-Mobile, Telefonica, and Vodafone are working with Qualcomm o"
+      "snippet": "Qualcomm Inc customers and markets, results by customer and performance relative to QCOM, by company and industry - CSIMarket"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://pitchgrade.com/companies/qualcomm",
+      "query": "QUALCOMM Incorporated major customers clients",
+      "snippet": "Nov 6, 2025 · Customer Segments: QUALCOMM Incorporated serves multiple distinct customer segments, which may include consumers, small and medium busin"
     }
   ]
 }

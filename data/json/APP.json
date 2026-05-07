@@ -1,43 +1,67 @@
 {
   "ticker": "APP",
   "company_name": "AppLovin Corporation",
-  "sector": "Communication Services",
-  "industry": "Advertising Agencies",
+  "sector": "Communication Services / Advertising Agencies",
+  "industry": "Advertising Technology",
   "upstream": [
-    "AMZN",
     "GOOGL",
-    "MSFT",
-    "Nielsen",
-    "ORCL"
+    "AAPL",
+    "Data and analytics platform providers",
+    "Ad exchange and demand-side platform partners",
+    "Technology component suppliers (SDK libraries, ad mediation tools)"
   ],
   "downstream": [
     "Mobile app developers",
-    "Game developers",
-    "Digital advertisers",
-    "Marketing agencies",
-    "E-commerce platforms"
+    "Gaming studios",
+    "Digital marketing agencies",
+    "E‑commerce brands",
+    "Media and entertainment companies"
   ],
   "competitors": [
-    "GOOGL",
+    "The Trade Desk",
     "Unity Ads",
-    "Facebook Audience Network",
-    "Chartboost",
-    "Vungle"
+    "IronSource",
+    "AdColony",
+    "AppNexus (Xandr)"
   ],
   "key_products": [
-    "Mobile advertising platform",
-    "App monetization solutions",
-    "User acquisition services",
-    "Data analytics & attribution",
-    "Video & rewarded ads"
+    "Mobile advertising SDK",
+    "App monetization platform",
+    "User acquisition and attribution tools",
+    "Data analytics and audience segmentation",
+    "Ad serving and mediation solutions"
   ],
-  "extracted_at": "2026-05-06 17:38:53",
+  "extracted_at": "2026-05-07 17:43:39",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "",
       "title": "",
       "snippet": ""
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.applovin.com/",
+      "query": "AppLovin Corporation suppliers manufacturers",
+      "snippet": "AppLovin enables businesses to advertise profitably with marketing technologies that attract customers, increase revenue, and track ad performance."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://fasterthannormal.co/businesses/applovin",
+      "query": "AppLovin Corporation suppliers manufacturers",
+      "snippet": "AppLovin . Mobile app and gaming technology company. 49 min read. Save. Ask the AI about AppLovin →. Subscribe to listen to the AppLovin audio playboo"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.applovin.com/",
+      "query": "AppLovin Corporation major customers clients",
+      "snippet": "AppLovin enables businesses to advertise profitably with marketing technologies that attract customers , increase revenue, and track ad performance."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://fasterthannormal.co/businesses/applovin",
+      "query": "AppLovin Corporation major customers clients",
+      "snippet": "Our founding principles center on product excellence, speed, and challenging the status quo to deliver measurable incremental earnings that enable cus"
     }
   ]
 }

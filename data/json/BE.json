@@ -1,43 +1,67 @@
 {
   "ticker": "BE",
   "company_name": "Bloom Energy Corporation",
-  "sector": "Industrials / Electrical Equipment & Parts",
-  "industry": "Solid Oxide Fuel Cell Technology",
+  "sector": "Industrials",
+  "industry": "Electrical Equipment & Parts",
   "upstream": [
-    "Zirconium-based electrolyte materials suppliers",
-    "CAT",
-    "Natural gas pipeline providers",
-    "Biogas processing equipment manufacturers",
-    "Electrolyzer component suppliers"
+    "Natural gas suppliers",
+    "Biogas providers",
+    "Hydrogen producers",
+    "Ceramic material manufacturers",
+    "Electrolyte component suppliers"
   ],
   "downstream": [
-    "AMZN",
-    "GOOGL",
-    "MSFT",
     "Data center operators",
-    "Manufacturing plants"
+    "Manufacturing facilities",
+    "Commercial building owners",
+    "Hospitals",
+    "Universities"
   ],
   "competitors": [
     "FuelCell Energy",
     "Plug Power",
-    "Ballard Power Systems",
-    "Hydrogenics",
-    "PowerCell"
+    "H2GO Power",
+    "Sodium Energy",
+    "PowerCell Sweden"
   ],
   "key_products": [
-    "Solid Oxide Fuel Cell (SOFC) systems",
+    "Solid oxide fuel cells (SOFCs)",
+    "Bloom Energy Server",
+    "Bloom Energy Power Pack",
     "Electrolyzers for hydrogen production",
-    "On-site power generation units",
-    "Hybrid fuel cell systems",
-    "Fuel cell stack components"
+    "Bloom Energy Power Plant"
   ],
-  "extracted_at": "2026-05-06 17:35:04",
+  "extracted_at": "2026-05-07 17:47:01",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Bloom_Energy_Corporation",
       "title": "Bloom Energy",
       "snippet": "Bloom Energy is an American public company that designs and manufactures solid oxide fuel cells (SOFCs) which independently produce electricity onsite for power generation in data centers, manufacturi"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.linkedin.com/company/bloom-energy",
+      "query": "Bloom Energy Corporation suppliers manufacturers",
+      "snippet": "Bloom Energy empowers businesses and communities to responsibly take charge of their energy . The company’s leading solid-oxide platform for distribut"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://finance.yahoo.com/news/bloom-energy-corporation-best-hydrogen-144600863.html",
+      "query": "Bloom Energy Corporation suppliers manufacturers",
+      "snippet": "Bloom Energy Corporation (NYSE:BE) is a clean energy company that manufactures and installs solid oxide fuel cell systems under its flagship product, "
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/Bloom_Energy",
+      "query": "Bloom Energy Corporation major customers clients",
+      "snippet": "Bloom Energy (formerly, Ion America) is an American public company that designs and manufactures solid oxide fuel cells (SOFCs) which independently pr"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.bloomenergy.com/customers/",
+      "query": "Bloom Energy Corporation major customers clients",
+      "snippet": "Bloom Energy 's customers have important goals: clean energy , dependency, resiliency, reliability, and affordability. We're here to help reach those "
     }
   ]
 }

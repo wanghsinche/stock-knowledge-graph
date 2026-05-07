@@ -4,40 +4,64 @@
   "sector": "Consumer Cyclical",
   "industry": "Internet Retail",
   "upstream": [
-    "Book publishers",
-    "Consumer electronics manufacturers",
-    "Clothing and apparel suppliers",
-    "Third‑party logistics providers",
-    "Digital content creators"
+    "AAPL",
+    "005930.KS",
+    "Nike, Inc.",
+    "SONY",
+    "MSFT"
   ],
   "downstream": [
     "Individual consumers",
     "Small and medium businesses",
-    "Enterprise customers via AWS",
-    "Media subscribers (Prime Video, Music)",
-    "Advertising clients"
+    "Enterprise customers using AWS",
+    "AMZN",
+    "Prime members"
   ],
   "competitors": [
-    "Walmart Inc.",
-    "Alibaba Group",
     "eBay Inc.",
+    "Walmart Inc.",
+    "Alibaba Group Holding Ltd.",
     "Shopify Inc.",
-    "Target Corp."
+    "MSFT"
   ],
   "key_products": [
-    "Amazon.com e‑commerce platform",
-    "Amazon Prime subscription",
+    "Amazon.com marketplace",
     "Amazon Web Services (AWS)",
-    "Kindle e‑readers",
-    "Alexa voice‑assistant devices"
+    "Amazon Prime subscription",
+    "Amazon Echo/Alexa devices",
+    "Amazon Kindle e‑readers"
   ],
-  "extracted_at": "2026-05-06 17:24:43",
+  "extracted_at": "2026-05-07 17:43:00",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Amazon.com,_Inc.",
       "title": "Amazon (company)",
       "snippet": "Amazon.com, Inc. is an American multinational technology company engaged in e-commerce, cloud computing, online advertising, digital streaming, and artificial intelligence. Founded in 1994 by Jeff Bez"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://d39w7f4ix9f5s9.cloudfront.net/cb/19/77dfc5b441c892cd6e2be166ba70/final-amazon-supplier-list-2019-11-14-updated-1005am.pdf",
+      "query": "Amazon.com, Inc. suppliers manufacturers",
+      "snippet": "Nov 14, 2019 · Amazon Supplier List Amazon is strongly committed to conducting its business in a lawful and ethical manner, including engaging with su"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.accio.com/supplier/amazon-suppliers-list",
+      "query": "Amazon.com, Inc. suppliers manufacturers",
+      "snippet": "Apr 26, 2026 · Looking for reliable Amazon suppliers ? Explore our curated list of verified manufacturers across electronics, apparel, and supplements"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://capitaloneshopping.com/research/amazon-statistics/",
+      "query": "Amazon.com, Inc. major customers clients",
+      "snippet": "Mar 29, 2026 · Statistics & analysis on Amazon including total sales (per year & minute), number of products (SKUs), customers , sellers & more."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/AMZN-Customers",
+      "query": "Amazon.com, Inc. major customers clients",
+      "snippet": "Amazon Com Inc 's Comment on Sales, Marketing and Customers We serve consumers through our retail websites and focus on selection, price, and convenie"
     }
   ]
 }

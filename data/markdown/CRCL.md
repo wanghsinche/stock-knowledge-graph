@@ -1,53 +1,57 @@
 ---
 ticker: CRCL
 company: Circle Internet Group
-sector: Financial Services / Capital Markets
-industry: Payments Technology
-extracted_at: 2026-05-06 17:38:03
-last_updated: 2026-05-06
+sector: Financial Services
+industry: Capital Markets
+extracted_at: 2026-05-07 17:50:49
+last_updated: 2026-05-07
 ---
 
 # CRCL - Circle Internet Group
 
 ## 基本信息
 
-- **所属行业**: Financial Services / Capital Markets / Payments Technology
-- **提取时间**: 2026-05-06 17:38:03
+- **所属行业**: Financial Services / Capital Markets
+- **提取时间**: 2026-05-07 17:50:49
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Blockchain platforms (Ethereum, Algorand, Solana)]]
-- [[Liquidity providers (Uniswap, Coinbase, Kraken)]]
-- [[KYC/AML compliance services]]
-- [[Regulatory technology firms]]
-- [[Cryptocurrency exchanges]]
+- [[Payment processors]]
+- [[Blockchain infrastructure providers]]
+- [[Stablecoin liquidity providers]]
+- [[Financial data vendors]]
+- [[Regulatory compliance services]]
 
 ### 下游客户
-- [[Banks and financial institutions]]
-- [[Fintech companies]]
-- [[Merchants and e‑commerce platforms]]
+- [[Retail investors]]
 - [[Institutional investors]]
-- [[Retail consumers]]
+- [[Crypto exchanges]]
+- [[Payment merchants]]
+- [[Banks]]
 
 ### 竞争对手
 - [[Coinbase]]
 - [[PayPal]]
+- [[Square (Block)]]
 - [[Stripe]]
-- [[Square]]
 - [[Revolut]]
 
 ### 核心产品
 - [[USDC stablecoin]]
 - [[EURC stablecoin]]
-- [[USYC tokenized money‑market fund]]
+- [[USYC tokenized money market fund]]
 - [[Circle Pay]]
 - [[Circle Invest]]
 
 ## 数据来源
 
 - [Circle Internet Group](https://en.wikipedia.org/wiki/Circle_Internet_Group)
+- [Circle Internet Group suppliers manufacturers](https://investor.circle.com/overview/default.aspx)
+- [Circle Internet Group suppliers manufacturers](https://www.appsruntheworld.com/customers-database/vendors/view/circle-internet-group)
+- [Circle Internet Group major customers clients](https://www.fool.com/investing/2025/07/10/has-circle-internet-groups-stock-already-peaked/)
+- [Circle Internet Group major customers clients](https://www.investing.com/news/stock-market-news/why-is-circle-internet-stock-surging-today-93CH-4656898)
 
 ## 元数据
 
-- **更新日期**: 2026-05-06
+- **更新日期**: 2026-05-07

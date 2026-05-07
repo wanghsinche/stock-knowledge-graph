@@ -4,40 +4,64 @@
   "sector": "Technology",
   "industry": "Software - Infrastructure",
   "upstream": [
-    "AMZN",
-    "MSFT",
-    "GOOGL",
-    "DELL",
-    "ORCL"
+    "Hardware manufacturers",
+    "Cloud service providers",
+    "Data providers",
+    "Software component vendors",
+    "Consulting services"
   ],
   "downstream": [
-    "U.S. Department of Defense",
-    "Federal Bureau of Investigation (FBI)",
-    "JPMorgan Chase & Co. (financial services)",
-    "Airbus (aerospace)",
-    "General Electric (industrial)"
+    "U.S. federal agencies",
+    "Defense contractors",
+    "Financial services firms",
+    "Healthcare organizations",
+    "Retail enterprises"
   ],
   "competitors": [
-    "Splunk Inc.",
-    "Snowflake Inc.",
-    "Databricks Inc.",
+    "Snowflake",
+    "Databricks",
+    "Splunk",
     "IBM",
     "MSFT"
   ],
   "key_products": [
-    "Palantir Gotham (government analytics platform)",
-    "Palantir Foundry (enterprise data integration platform)",
-    "Palantir Apollo (continuous delivery & operations)",
-    "Palantir Helix (AI & machine‑learning services)",
-    "Palantir Data Lake (data storage & governance)"
+    "Palantir Foundry",
+    "Palantir Gotham",
+    "Palantir Apollo",
+    "Palantir Lake",
+    "Palantir Platform"
   ],
-  "extracted_at": "2026-05-06 17:24:59",
+  "extracted_at": "2026-05-07 17:43:14",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Palantir_Technologies_Inc.",
       "title": "Palantir",
       "snippet": "Palantir Technologies Inc. is an American publicly traded company that develops data integration and analytics platforms. Headquartered in Miami, Florida, it was founded in 2003 by Peter Thiel, Stephe"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/Palantir",
+      "query": "Palantir Technologies Inc. suppliers manufacturers",
+      "snippet": "Palantir Technologies Inc . (/ ˈpælənˌtɪər /) [3] is an American publicly traded company that develops data integration and analytics platforms. [4] H"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/PLTR-Suppliers",
+      "query": "Palantir Technologies Inc. suppliers manufacturers",
+      "snippet": "Feb 19, 2026 · Palantir Technologies Inc 's Suppliers recorded an increase in sales by 25.84 % year on year in Q4 2025, sequentially sales grew by 0.0"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/Palantir",
+      "query": "Palantir Technologies Inc. major customers clients",
+      "snippet": "Palantir Technologies Inc . Palantir 's customer base includes federal agencies, state and local governments, international organizations, and also pr"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.tradingview.com/symbols/NASDAQ-PLTR/",
+      "query": "Palantir Technologies Inc. major customers clients",
+      "snippet": "View live Palantir Technologies Inc . chart to track its stock's price action. Find market predictions, PLTR financials and market news."
     }
   ]
 }

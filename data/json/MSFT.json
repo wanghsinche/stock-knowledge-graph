@@ -7,31 +7,31 @@
     "INTC",
     "AMD",
     "NVDA",
-    "QCOM",
-    "AVGO"
+    "DELL",
+    "HPQ"
   ],
   "downstream": [
-    "Enterprise customers (e.g., Walmart, JPMorgan Chase)",
-    "Government agencies (e.g., U.S. Department of Defense)",
-    "DELL",
-    "CAT",
-    "Gaming studios (e.g., Electronic Arts, Ubisoft)"
+    "Fortune 500 enterprises",
+    "U.S. federal government agencies",
+    "Global SMBs",
+    "Consumers via Windows and Office",
+    "Gaming industry via Xbox"
   ],
   "competitors": [
     "AAPL",
     "GOOGL",
     "AMZN",
     "ORCL",
-    "CRM"
+    "IBM"
   ],
   "key_products": [
-    "Windows 10/11",
-    "Microsoft Office",
-    "Azure Cloud Services",
+    "Windows operating system",
+    "Microsoft Office suite",
+    "Azure cloud platform",
     "Microsoft Teams",
-    "Xbox Series X/S"
+    "Xbox gaming console"
   ],
-  "extracted_at": "2026-05-06 17:24:10",
+  "extracted_at": "2026-05-07 17:42:26",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,15 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Microsoft",
-      "query": "Microsoft Corporation major customers clients",
-      "snippet": "A Big Tech company, Microsoft is the largest software company by revenue, one of the most valuable public companies, and one of the most valuable bran"
+      "url": "https://www.microsoft.com/en-us/procurement",
+      "query": "Microsoft Corporation suppliers manufacturers",
+      "snippet": "Microsoft Procurement is committed to building a diverse global supplier base that reflects the global diversity of our customers and provides all typ"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.microsoft.com/en-us/customers",
+      "url": "https://csimarket.com/stocks/MSFT-Suppliers",
+      "query": "Microsoft Corporation suppliers manufacturers",
+      "snippet": "Microsoft's Comment on Supply Chain We develop most of our products and services internally through four primary engineering groups. Applications and "
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.microsoft.com/en-us/customers/",
       "query": "Microsoft Corporation major customers clients",
-      "snippet": "Discover ways customers are evolving ; Carlsberg Group. KPMG. City of Montreal ; Nationwide. Levi Strauss and Company. Fujitsu ; Alaska Airlines. NIQ."
+      "snippet": "Explore customer success stories to learn how businesses are overcoming challenges, driving innovation, and achieving more with Microsoft solutions."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/MSFT-Customers",
+      "query": "Microsoft Corporation major customers clients",
+      "snippet": "Microsoft's Comment on Sales, Marketing and Customers We distribute software through OEMs that pre-install our software on new PCs, tablets, servers, "
     }
   ]
 }

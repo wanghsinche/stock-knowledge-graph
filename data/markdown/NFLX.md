@@ -2,17 +2,17 @@
 ticker: NFLX
 company: Netflix, Inc.
 sector: Communication Services
-industry: Streaming Media
-extracted_at: 2026-05-06 17:30:27
-last_updated: 2026-05-06
+industry: Entertainment
+extracted_at: 2026-05-07 17:49:07
+last_updated: 2026-05-07
 ---
 
 # NFLX - Netflix, Inc.
 
 ## 基本信息
 
-- **所属行业**: Communication Services / Streaming Media
-- **提取时间**: 2026-05-06 17:30:27
+- **所属行业**: Communication Services / Entertainment
+- **提取时间**: 2026-05-07 17:49:07
 
 ## 产业链关系
 
@@ -20,34 +20,38 @@ last_updated: 2026-05-06
 - [[AMZN]]
 - [[GOOGL]]
 - [[MSFT]]
-- [[Warner Bros. Discovery]]
-- [[Disney Studios]]
+- [[Akamai Technologies]]
+- [[DELL]]
 
 ### 下游客户
-- [[Individual subscribers worldwide]]
-- [[Corporate customers]]
-- [[Smart TV manufacturers]]
-- [[Cable providers]]
-- [[Mobile carriers]]
+- [[US households]]
+- [[International households]]
+- [[Corporate subscription accounts]]
+- [[Mobile users]]
+- [[Smart TV users]]
 
 ### 竞争对手
 - [[Disney+]]
-- [[AMZN]]
 - [[Hulu]]
+- [[AMZN]]
 - [[HBO Max]]
 - [[AAPL]]
 
 ### 核心产品
-- [[Netflix streaming service]]
-- [[Netflix Originals]]
-- [[Netflix mobile app]]
-- [[Netflix Smart TV app]]
-- [[Netflix web player]]
+- [[Streaming service]]
+- [[Original programming]]
+- [[Licensed content]]
+- [[Mobile app]]
+- [[Smart TV app]]
 
 ## 数据来源
 
 - [Netflix, Inc.](https://en.wikipedia.org/wiki/Netflix,_Inc.)
+- [Netflix, Inc. suppliers manufacturers](https://csimarket.com/stocks/NFLX-Suppliers)
+- [Netflix, Inc. suppliers manufacturers](https://www.globaldata.com/company-profile/netflix-inc/)
+- [Netflix, Inc. major customers clients](https://www.globaldata.com/company-profile/netflix-inc/)
+- [Netflix, Inc. major customers clients](https://www.inc.com/jason-aten/theres-no-one-left-to-sign-up-for-netflix-so-its-raising-prices-again-instead.html)
 
 ## 元数据
 
-- **更新日期**: 2026-05-06
+- **更新日期**: 2026-05-07

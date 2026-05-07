@@ -1,43 +1,66 @@
 {
   "ticker": "COHR",
   "company_name": "Coherent Corp.",
-  "sector": "Technology / Scientific & Technical Instruments",
-  "industry": "Optical Instruments",
+  "sector": "Technology",
+  "industry": "Scientific & Technical Instruments",
   "upstream": [
     "Silicon wafer suppliers",
-    "Rare earth element suppliers",
-    "Optical glass manufacturers",
-    "Laser diode component suppliers",
-    "Photonic material suppliers"
+    "Gallium and indium suppliers",
+    "Laser diode manufacturers",
+    "Optical fiber producers",
+    "Photonic crystal material suppliers"
   ],
   "downstream": [
-    "Defense contractors",
-    "Space agencies",
+    "Defense and aerospace contractors",
     "Medical device manufacturers",
     "CAT",
-    "Research institutions"
+    "CAT",
+    "Industrial laser system integrators"
   ],
   "competitors": [
-    "Thorlabs",
-    "MKS Instruments",
-    "Edmund Optics",
-    "Laser Components",
-    "IPG Photonics"
+    "II-VI Incorporated",
+    "Lumentum Holdings",
+    "Trumpf GmbH + Co. KG",
+    "Coherent (original brand, now part of II‑VI)"
   ],
   "key_products": [
+    "Semiconductor lasers",
     "Laser diodes",
     "Optical fibers",
-    "Laser systems",
-    "Photonic integrated circuits",
-    "Optical components"
+    "Photonic crystal materials",
+    "Laser systems for industrial and medical use"
   ],
-  "extracted_at": "2026-05-06 17:29:53",
+  "extracted_at": "2026-05-07 17:45:10",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Coherent_Corp.",
       "title": "Coherent Corp.",
       "snippet": "Coherent Corp. is an American manufacturer of optical materials and semiconductors. As of 2023, the company had 26,622 employees. Its stock is listed on the New York Stock Exchange under the ticker sy"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/Coherent_Corp.",
+      "query": "Coherent Corp. suppliers manufacturers",
+      "snippet": "Coherent Corp . is an American manufacturer of optical materials and semiconductors. As of 2023, the company had 26,622 employees. Its stock is listed"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.coherent.com/",
+      "query": "Coherent Corp. suppliers manufacturers",
+      "snippet": "Learn how Coherent empowers innovations and breakthrough technologies for the industrial, communications, electronics, and instrumentation markets."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/Coherent_Corp.",
+      "query": "Coherent Corp. major customers clients",
+      "snippet": "Coherent Corp . is an American manufacturer of optical materials and semiconductors. As of 2023, the company had 26,622 employees. Its stock is listed"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.coherent.com/",
+      "query": "Coherent Corp. major customers clients",
+      "snippet": "Learn how Coherent empowers innovations and breakthrough technologies for the industrial, communications, electronics, and instrumentation markets."
     }
   ]
 }

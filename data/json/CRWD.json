@@ -4,64 +4,64 @@
   "sector": "Technology",
   "industry": "Software - Infrastructure",
   "upstream": [
-    "MSFT",
     "AMZN",
+    "MSFT",
     "GOOGL",
-    "CSCO",
-    "Red Hat"
+    "MSFT",
+    "Open-source security libraries"
   ],
   "downstream": [
-    "U.S. Department of Defense",
-    "Bank of America",
-    "Walmart",
-    "Citigroup",
-    "UnitedHealth Group"
+    "Large enterprises (finance, healthcare, manufacturing)",
+    "U.S. federal and state government agencies",
+    "Global technology firms",
+    "Financial services institutions",
+    "Healthcare providers"
   ],
   "competitors": [
     "Palo Alto Networks",
     "SentinelOne",
+    "Fortinet",
     "McAfee",
-    "AVGO",
-    "Fortinet"
+    "CSCO"
   ],
   "key_products": [
     "CrowdStrike Falcon Platform",
-    "Falcon Prevent",
-    "Falcon Insight",
-    "Falcon OverWatch",
-    "Falcon X"
+    "Falcon Prevent (endpoint protection)",
+    "Falcon Insight (behavioral analytics)",
+    "Falcon OverWatch (managed threat hunting)",
+    "Falcon X (threat intelligence)"
   ],
-  "extracted_at": "2026-04-21 16:57:17",
+  "extracted_at": "2026-05-07 17:47:13",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/CrowdStrike_Holdings,_Inc.",
       "title": "CrowdStrike",
-      "snippet": "CrowdStrike Holdings, Inc. is an American cybersecurity technology company based in Austin, Texas. It provides endpoint security, threat intelligence, and cyberattack response services."
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/CrowdStrike",
-      "query": "CrowdStrike Holdings, Inc. suppliers manufacturers",
-      "snippet": "CrowdStrike Holdings , Inc . CrowdStrike Holdings , Inc . is an American cybersecurity technology company based in Austin, Texas. It provides endpoint"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/competition2.php?supply&code=CRWD",
-      "query": "CrowdStrike Holdings, Inc. suppliers manufacturers",
-      "snippet": "Crowdstrike Holdings Inc 's Suppliers . Crowdstrike Holdings Inc 's vs. its Suppliers Results. (List of Suppliers , Financial Results 12 Months from t"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.tradingview.com/symbols/NASDAQ-CRWD/",
-      "query": "CrowdStrike Holdings, Inc. major customers clients",
-      "snippet": "View live CrowdStrike Holdings , Inc . chart to track its stock's price action. Find market predictions, CRWD financials and market news."
+      "snippet": "CrowdStrike Holdings, Inc. is an American cybersecurity technology company based in Austin, Texas. It provides endpoint security, threat intelligence, and cyberattack response services. The company wa"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.investing.com/equities/crowdstrike-holdings-inc",
+      "query": "CrowdStrike Holdings, Inc. suppliers manufacturers",
+      "snippet": "CrowdStrike Holdings Inc is listed and trades on the NASDAQ stock exchange. CrowdStrike Holdings , Inc . (NASDAQ:CRWD) President and CEO George Kurtz "
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://finance.yahoo.com/quote/CRWD/",
+      "query": "CrowdStrike Holdings, Inc. suppliers manufacturers",
+      "snippet": "Find the latest CrowdStrike Holdings , Inc . (CRWD) stock quote, history, news and other vital information to help you with your stock trading and inv"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://finance.yahoo.com/quote/CRWD/",
       "query": "CrowdStrike Holdings, Inc. major customers clients",
-      "snippet": "CrowdStrike Holdings Inc is listed and trades on the NASDAQ stock exchange. CrowdStrike leads the EDR market with innovative solutions like Falcon Fle"
+      "snippet": "Find the latest CrowdStrike Holdings , Inc . (CRWD) stock quote, history, news and other vital information to help you with your stock trading and inv"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.fool.com/earnings/call-transcripts/2025/06/03/crowdstrike-crwd-q1-2026-earnings-transcript/",
+      "query": "CrowdStrike Holdings, Inc. major customers clients",
+      "snippet": "Before CrowdStrike Holdings , Inc .'s identity customers relied on third-party integrations for enforcement. Today, CrowdStrike Holdings , Inc . custo"
     }
   ]
 }
