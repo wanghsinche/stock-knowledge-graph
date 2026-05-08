@@ -2,66 +2,66 @@
   "ticker": "ANET",
   "company_name": "Arista Networks, Inc.",
   "sector": "Technology / Computer Hardware",
-  "industry": "Computer Networking Equipment",
+  "industry": "Data Center Networking",
   "upstream": [
     "AVGO",
     "INTC",
-    "MRVL",
     "QCOM",
-    "NVDA"
+    "NVDA",
+    "MRVL"
   ],
   "downstream": [
     "AMZN",
     "GOOGL",
     "MSFT",
-    "Facebook",
+    "META",
     "NFLX"
   ],
   "competitors": [
     "CSCO",
-    "JNPR",
+    "Extreme Networks",
+    "Fortinet",
     "HPQ",
-    "DELL",
-    "Huawei"
+    "JNPR"
   ],
   "key_products": [
-    "10G/25G/40G/50G/100G/200G/400G/800G Ethernet switches",
-    "Extensible Operating System (EOS)",
-    "CloudVision",
-    "Arista 7050X Series",
-    "Arista 7280R Series"
+    "Arista 7280 Series Switches",
+    "Arista 7500R Series",
+    "CloudVision SDN Platform",
+    "EOS (Extensible Operating System)",
+    "Arista 7000 Series"
   ],
-  "extracted_at": "2026-05-07 17:47:30",
+  "extracted_at": "2026-05-08 17:10:05",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Arista_Networks,_Inc.",
       "title": "Arista Networks",
-      "snippet": "Arista Networks, Inc. is an American computer networking company headquartered in Santa Clara, California. The company designs and sells multilayer network switches to deliver software-defined network"
+      "snippet": "Arista Networks, Inc. is an American provider of client to cloud networking services for large data center/AI, campus and routing environments."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.arista.com/en/partner/technology-partners",
+      "url": "https://en.wikipedia.org/wiki/Arista_Networks",
       "query": "Arista Networks, Inc. suppliers manufacturers",
-      "snippet": "Arista Networks will partner with application vendors in various verticals that take advantage of Arista's Cloud Networking Platform. Here is a list o"
+      "snippet": "Arista Networks , Inc . is an American computer networking company headquartered in Santa Clara, California. The company designs and sells multilayer "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/ANET-Suppliers",
+      "url": "https://www.linkedin.com/company/arista-networks-inc",
       "query": "Arista Networks, Inc. suppliers manufacturers",
-      "snippet": "Feb 19, 2026 · Sources: Arista Networks inc 's official press releases and regulatory filings; CSIMarket.com's supply-chain research; and the financia"
+      "snippet": "Arista Networks is an industry leader in data-driven, client to cloud networking for large data center/AI, campus and routing environments."
     },
     {
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Arista_Networks",
       "query": "Arista Networks, Inc. major customers clients",
-      "snippet": "Arista Networks , Inc . is an American computer networking company headquartered in Santa Clara, California. The company designs and sells multilayer "
+      "snippet": "Major competitors · Cisco Systems · Extreme Networks · Fortinet · Hewlett Packard Enterprise (Aruba Networks division). Juniper Networks - acquired by"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://enlyft.com/tech/products/arista-networks",
+      "url": "https://www.arista.com/en/company/customer-testimonials",
       "query": "Arista Networks, Inc. major customers clients",
-      "snippet": "The companies using Arista Networks are most often found in United States and in the Information Technology and Services industry. Arista Networks is "
+      "snippet": "Customer Success Stories ; Kāhala Nui. Kāhala Nui. Campus & Wi-Fi, CloudVision, Security. Hospitality ; enabl. enabl. Automation, Campus & Wi-Fi, Rout"
     }
   ]
 }

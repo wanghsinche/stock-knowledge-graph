@@ -3,8 +3,8 @@ ticker: DDOG
 company: Datadog, Inc.
 sector: Technology
 industry: Software - Application
-extracted_at: 2026-05-07 17:44:28
-last_updated: 2026-05-07
+extracted_at: 2026-05-08 17:10:30
+last_updated: 2026-05-08
 ---
 
 # DDOG - Datadog, Inc.
@@ -12,7 +12,7 @@ last_updated: 2026-05-07
 ## 基本信息
 
 - **所属行业**: Technology / Software - Application
-- **提取时间**: 2026-05-07 17:44:28
+- **提取时间**: 2026-05-08 17:10:30
 
 ## 产业链关系
 
@@ -20,38 +20,38 @@ last_updated: 2026-05-07
 - [[AMZN]]
 - [[MSFT]]
 - [[GOOGL]]
-- [[Cloudflare]]
-- [[Akamai]]
+- [[CSCO]]
+- [[DELL]]
 
 ### 下游客户
+- [[CRM]]
+- [[ADBE]]
+- [[Shopify]]
 - [[NFLX]]
 - [[Airbnb]]
-- [[Shopify]]
-- [[CRM]]
-- [[Uber]]
 
 ### 竞争对手
 - [[New Relic]]
 - [[Splunk]]
 - [[Dynatrace]]
-- [[Grafana Labs]]
 - [[Elastic]]
+- [[AppDynamics]]
 
 ### 核心产品
 - [[Datadog APM]]
 - [[Datadog Infrastructure Monitoring]]
 - [[Datadog Log Management]]
-- [[Datadog Security Monitoring]]
-- [[Datadog Cloud Cost Management]]
+- [[Datadog Cloud Security]]
+- [[Datadog Synthetic Monitoring]]
 
 ## 数据来源
 
 - 
 - [Datadog, Inc. suppliers manufacturers](https://www.datadoghq.com/solutions/security-analytics/)
-- [Datadog, Inc. suppliers manufacturers](https://www.barrons.com/articles/datadog-stock-builds-strong-base-technical-setup-favors-breakout-1ba40dbb)
+- [Datadog, Inc. suppliers manufacturers](https://sg.finance.yahoo.com/news/datadog-two-other-stocks-could-113809023.html)
+- [Datadog, Inc. major customers clients](https://www.fool.com/investing/2020/06/11/better-buy-alphabet-vs-datadog.aspx)
 - [Datadog, Inc. major customers clients](https://www.morningstar.com/company-reports/1138248-narrow-moat-datadog-is-poised-for-success-in-the-observability-market)
-- [Datadog, Inc. major customers clients](https://www.barrons.com/articles/datadog-stock-builds-strong-base-technical-setup-favors-breakout-1ba40dbb)
 
 ## 元数据
 
-- **更新日期**: 2026-05-07
+- **更新日期**: 2026-05-08

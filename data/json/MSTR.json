@@ -4,34 +4,34 @@
   "sector": "Technology",
   "industry": "Software - Application",
   "upstream": [
-    "Bitcoin mining hardware manufacturers (e.g., Bitmain, MicroBT)",
     "MSFT",
-    "Data center infrastructure providers (Equinix)",
-    "Hardware wallet manufacturers (Ledger, Trezor)",
-    "Security software vendors (Symantec, Palo Alto Networks)"
+    "AMZN",
+    "GOOGL",
+    "ORCL",
+    "Snowflake"
   ],
   "downstream": [
-    "Institutional investors (BlackRock, Fidelity)",
-    "Hedge funds (Bridgewater, Citadel)",
-    "Corporations (e.g., Walmart, JPMorgan)",
-    "Family offices and private equity firms",
-    "Retail investors via Strategy’s platform"
+    "Bank of America",
+    "JPMorgan Chase",
+    "Goldman Sachs",
+    "Walmart",
+    "AMZN"
   ],
   "competitors": [
-    "BitGo",
-    "Coinbase Custody",
-    "Fidelity Digital Assets",
-    "Bakkt",
-    "Gemini Custody"
+    "Tableau",
+    "MSFT",
+    "Qlik",
+    "Looker",
+    "Sisense"
   ],
   "key_products": [
-    "Bitcoin treasury services",
-    "Bitcoin custody solutions",
-    "Bitcoin treasury management platform",
-    "Bitcoin analytics and reporting",
-    "Bitcoin investment platform"
+    "MicroStrategy Desktop",
+    "MicroStrategy Cloud",
+    "MicroStrategy Analytics",
+    "MicroStrategy Mobile",
+    "MicroStrategy Data Warehouse"
   ],
-  "extracted_at": "2026-05-07 17:47:55",
+  "extracted_at": "2026-05-08 17:10:45",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/MSTR/",
+      "url": "https://www.strategy.com/pt/software/blog/how-manufacturers-are-solving-supply-chain-chaos-with-smart-bi",
       "query": "Strategy Inc suppliers manufacturers",
-      "snippet": "Find the latest Strategy Inc (MSTR) stock quote, history, news and other vital information to help you with your stock trading and investing."
+      "snippet": "Discover how manufacturers are tackling supply chain chaos with Strategy One. Learn how AI-driven insights and real-time data can transform operations"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.insidermonkey.com/blog/is-strategy-inc-mstr-a-good-stock-to-buy-now-1734768/",
+      "url": "https://www.developmentaid.org/organizations/view/129475/strategy-inc-ltd",
       "query": "Strategy Inc suppliers manufacturers",
-      "snippet": "Strategy Inc is not on our list of the 40 Most Popular Stocks Among Hedge Funds. As per our database, 41 hedge fund portfolios held MSTR at the end of"
+      "snippet": "Strategy Inc Ltd. — Supplier / manufacturer from India, has experience with World Bank HQ, it`s involved in Furniture & Office Supplies sector."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/STRF-Customers",
+      "url": "https://en.wikipedia.org/wiki/MicroStrategy",
       "query": "Strategy Inc major customers clients",
-      "snippet": "Jan 30, 2026 · Strategy Inc customers and markets, results by customer and performance relative to STRF, by company and industry - CSIMarket"
+      "snippet": "Strategy Inc ., formerly known as MicroStrategy, is an American company that provides business intelligence and mobile software. Founded in 1989 by Mi"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://markets.ft.com/data/equities/tearsheet/profile?s=MSTR",
+      "url": "https://www.linkedin.com/pulse/how-major-customers-influence-companys-financial-strategy-ajaskw-gegbe",
       "query": "Strategy Inc major customers clients",
-      "snippet": "1 day ago · Strategy Inc . is a bitcoin treasury and business intelligence company. The Company provides cloud-native, artificial intelligence (AI)-po"
+      "snippet": "Companies with major customers —accounting for at least 10% of a firm's total sales—tend to adapt their financial strategies more quickly than those w"
     }
   ]
 }

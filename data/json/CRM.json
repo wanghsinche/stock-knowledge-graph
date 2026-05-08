@@ -7,20 +7,20 @@
     "AMZN",
     "MSFT",
     "GOOGL",
-    "ORCL",
+    "DELL",
     "IBM"
   ],
   "downstream": [
-    "AAPL",
     "AMZN",
     "Coca‑Cola",
-    "Ford",
-    "Walmart"
+    "Toyota",
+    "Walmart",
+    "Bank of America"
   ],
   "competitors": [
     "MSFT",
     "ORCL",
-    "SAP Customer Experience",
+    "SAP Sales Cloud",
     "HubSpot",
     "Zoho CRM"
   ],
@@ -31,7 +31,7 @@
     "Commerce Cloud",
     "Einstein AI"
   ],
-  "extracted_at": "2026-05-05 17:21:43",
+  "extracted_at": "2026-05-08 17:10:16",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.salesforce.com/company/our-brands/",
+      "url": "https://csimarket.com/stocks/CRM-Suppliers",
       "query": "Salesforce, Inc. suppliers manufacturers",
-      "snippet": "See our full list of Salesforce brands and find out how these companies inspire innovation to provide customer solutions."
+      "snippet": "Salesforce Inc supply chain, list and performance of Salesforce Incs ' suppliers - CSIMarket."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.fortenext.com/insights/top-17-salesforce-implementation-partners-in-the-usa",
+      "url": "https://www.salesforce.com/",
       "query": "Salesforce, Inc. suppliers manufacturers",
-      "snippet": "Jan 5, 2026 · Together, these companies reflect where Salesforce transformation is heading: intelligent, integrated, and outcome-driven. For organizat"
+      "snippet": "ExactTarget Inc ."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/Salesforce",
+      "query": "Salesforce, Inc. major customers clients",
+      "snippet": "It provides software for sales, customer service, marketing automation, e-commerce, analytics, artificial intelligence, agentic AI, and application de"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.salesforce.com/customer-stories/",
       "query": "Salesforce, Inc. major customers clients",
-      "snippet": "Discover how Salesforce helps 150,000+ companies increase productivity, customer loyalty, and sales revenue — every day."
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.ibirdsservices.com/how-many-companies-use-salesforce-stats-growth-report/",
-      "query": "Salesforce, Inc. major customers clients",
-      "snippet": "Dec 26, 2025 · As of 2025, Salesforce is used by over 150,000 companies worldwide. Its customers include startups, mid-sized businesses, and more than"
+      "snippet": "Discover how Salesforce helps 150000+ companies increase productivity, customer loyalty, and sales revenue — every day."
     }
   ]
 }

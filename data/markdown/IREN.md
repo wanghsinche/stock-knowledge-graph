@@ -1,57 +1,57 @@
 ---
 ticker: IREN
 company: IREN Limited
-sector: Financial Services / Capital Markets
-industry: Financial Services / Capital Markets
-extracted_at: 2026-05-07 17:46:02
-last_updated: 2026-05-07
+sector: Financial Services
+industry: Capital Markets
+extracted_at: 2026-05-08 17:04:10
+last_updated: 2026-05-08
 ---
 
 # IREN - IREN Limited
 
 ## 基本信息
 
-- **所属行业**: Financial Services / Capital Markets / Financial Services / Capital Markets
-- **提取时间**: 2026-05-07 17:46:02
+- **所属行业**: Financial Services / Capital Markets
+- **提取时间**: 2026-05-08 17:04:10
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Renewable energy providers]]
-- [[Data center equipment manufacturers]]
-- [[NVDA]]
-- [[Cloud infrastructure vendors]]
-- [[Power grid operators]]
+- [[NASDAQ]]
+- [[Bloomberg]]
+- [[Refinitiv]]
+- [[CME Group]]
+- [[Clearstream]]
 
 ### 下游客户
-- [[Enterprise IT clients]]
-- [[Government agencies]]
-- [[Financial institutions]]
-- [[AI research labs]]
-- [[Cloud service users]]
+- [[Retail investors]]
+- [[Institutional investors]]
+- [[High net worth individuals]]
+- [[Corporate clients]]
+- [[Financial advisors]]
 
 ### 竞争对手
-- [[AMZN]]
-- [[MSFT]]
-- [[GOOGL]]
-- [[Alibaba Cloud]]
-- [[DigitalOcean]]
+- [[Interactive Brokers]]
+- [[Saxo Bank]]
+- [[Charles Schwab]]
+- [[Fidelity]]
+- [[TD Ameritrade]]
 
 ### 核心产品
-- [[Renewable-powered data centers]]
-- [[AI Cloud services]]
-- [[GPU cluster solutions]]
-- [[Cloud infrastructure]]
-- [[Edge computing services]]
+- [[Online brokerage platform]]
+- [[Investment advisory services]]
+- [[Wealth management]]
+- [[Research reports]]
+- [[Trading technology]]
 
 ## 数据来源
 
 - 
-- [IREN Limited suppliers manufacturers](https://www.iren.com/)
-- [IREN Limited suppliers manufacturers](https://csimarket.com/stocks/suppliers_glance.php?code=IREN)
-- [IREN Limited major customers clients](https://finance.yahoo.com/quote/IREN/)
-- [IREN Limited major customers clients](https://www.roic.ai/quote/IREN:SE/classic)
+- [IREN Limited suppliers manufacturers](https://www.investing.com/equities/iris-energy)
+- [IREN Limited suppliers manufacturers](https://ca.finance.yahoo.com/quote/IREN/)
+- [IREN Limited major customers clients](https://www.investing.com/equities/iris-energy)
+- [IREN Limited major customers clients](https://www.nasdaq.com/market-activity/stocks/iren)
 
 ## 元数据
 
-- **更新日期**: 2026-05-07
+- **更新日期**: 2026-05-08

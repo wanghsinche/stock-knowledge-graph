@@ -4,64 +4,64 @@
   "sector": "Financial Services",
   "industry": "Financial Data & Stock Exchanges",
   "upstream": [
-    "AMZN",
-    "Hardware manufacturers (e.g., server hardware)",
-    "Software vendors (e.g., security software)",
-    "Payment processors (e.g., Stripe)",
-    "Regulatory compliance vendors"
+    "Technology vendors",
+    "Cloud service providers",
+    "Payment processors",
+    "Security & compliance service providers",
+    "Regulatory data providers"
   ],
   "downstream": [
-    "Retail cryptocurrency traders",
-    "Institutional investors",
-    "Merchant partners",
-    "Crypto wallet users",
-    "DeFi developers"
+    "Retail cryptocurrency investors",
+    "Institutional crypto traders",
+    "DeFi users",
+    "Enterprise clients",
+    "Financial institutions"
   ],
   "competitors": [
     "Binance",
     "Kraken",
     "Gemini",
     "Bitstamp",
-    "eToro"
+    "FTX (defunct)"
   ],
   "key_products": [
-    "Cryptocurrency exchange platform",
-    "Crypto wallet",
+    "Cryptocurrency trading platform",
+    "Custody services",
+    "Earn interest on crypto",
     "Staking services",
-    "Custody solutions",
-    "Crypto payment gateway"
+    "Coinbase Pro"
   ],
-  "extracted_at": "2026-05-05 17:19:58",
+  "extracted_at": "2026-05-08 17:08:38",
   "sources": [
     {
       "source": "Wikipedia",
-      "url": "",
-      "title": "",
-      "snippet": ""
+      "url": "https://en.wikipedia.org/wiki/Coinbase_Global,_Inc.",
+      "title": "Coinbase",
+      "snippet": "Coinbase Global, Inc. is an American cryptocurrency exchange. It was founded in 2012 by Brian Armstrong and Fred Ehrsam. Coinbase has over 100 million users, and is the largest U.S. based cryptocurren"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/COIN-Suppliers",
+      "url": "https://www.coinbase.com/vendors/vendors-at-coinbase-vendor-onboarding",
       "query": "Coinbase Global, Inc. suppliers manufacturers",
-      "snippet": "Coinbase Global Inc 's Suppliers recorded an increase in sales by 27.03 % year on year in Q4 2025, sequentially sales grew by 21.52 %, while their net"
+      "snippet": "All Coinbase vendors must go through a comprehensive risk assessment process. The Vendor Risk Management program is designed to ensure all applicable "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.coinbase.com/vendors/vendors-at-coinbase-code-of-conduct",
+      "url": "https://www.coinbase.com/",
       "query": "Coinbase Global, Inc. suppliers manufacturers",
-      "snippet": "This information is the property of Coinbase , or the property of Coinbase ’s suppliers , customers, or business partners, and in many cases was devel"
+      "snippet": "Cryptocurrency services offered by Coinbase Inc. (NMLS# 1163082). Coinbase Inc. is licensed to engage in virtual currency business activity by the New"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.demandsage.com/coinbase-users-statistics/",
+      "url": "https://en.wikipedia.org/wiki/Coinbase",
       "query": "Coinbase Global, Inc. major customers clients",
-      "snippet": "Aug 13, 2025 · Get our latest Coinbase user statistics 2026, highlighting global adoption rates, market growth, and usage trends."
+      "snippet": "Coinbase Global , Inc . is an American cryptocurrency exchange. It was founded in 2012 by Brian Armstrong and Fred Ehrsam."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/COIN-Customers",
+      "url": "https://www.coinbase.com/",
       "query": "Coinbase Global, Inc. major customers clients",
-      "snippet": "Coinbase Global Inc customers and markets, results by customer and performance relative to COIN, by company and industry - CSIMarket"
+      "snippet": "Coinbase United States is a secure online platform for buying, selling, transferring, and storing cryptocurrency. Coinbase believes crypto will be par"
     }
   ]
 }

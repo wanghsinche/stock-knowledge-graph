@@ -3,8 +3,8 @@ ticker: CRWD
 company: CrowdStrike Holdings, Inc.
 sector: Technology
 industry: Software - Infrastructure
-extracted_at: 2026-05-07 17:47:13
-last_updated: 2026-05-07
+extracted_at: 2026-05-08 17:11:08
+last_updated: 2026-05-08
 ---
 
 # CRWD - CrowdStrike Holdings, Inc.
@@ -12,46 +12,46 @@ last_updated: 2026-05-07
 ## 基本信息
 
 - **所属行业**: Technology / Software - Infrastructure
-- **提取时间**: 2026-05-07 17:47:13
+- **提取时间**: 2026-05-08 17:11:08
 
 ## 产业链关系
 
 ### 上游供应商
+- [[MSFT]]
 - [[AMZN]]
-- [[MSFT]]
 - [[GOOGL]]
-- [[MSFT]]
-- [[Open-source security libraries]]
+- [[INTC]]
+- [[AMD]]
 
 ### 下游客户
-- [[Large enterprises (finance, healthcare, manufacturing)]]
-- [[U.S. federal and state government agencies]]
-- [[Global technology firms]]
-- [[Financial services institutions]]
-- [[Healthcare providers]]
+- [[U.S. Department of Defense]]
+- [[Bank of America]]
+- [[MSFT]]
+- [[GOOGL]]
+- [[AMZN]]
 
 ### 竞争对手
 - [[Palo Alto Networks]]
 - [[SentinelOne]]
-- [[Fortinet]]
 - [[McAfee]]
-- [[CSCO]]
+- [[Symantec]]
+- [[Sophos]]
 
 ### 核心产品
-- [[CrowdStrike Falcon Platform]]
-- [[Falcon Prevent (endpoint protection)]]
-- [[Falcon Insight (behavioral analytics)]]
-- [[Falcon OverWatch (managed threat hunting)]]
-- [[Falcon X (threat intelligence)]]
+- [[Falcon Platform]]
+- [[Endpoint Detection and Response (EDR)]]
+- [[Threat Intelligence]]
+- [[Cyberattack Response]]
+- [[Cloud Security]]
 
 ## 数据来源
 
 - [CrowdStrike](https://en.wikipedia.org/wiki/CrowdStrike_Holdings,_Inc.)
-- [CrowdStrike Holdings, Inc. suppliers manufacturers](https://www.investing.com/equities/crowdstrike-holdings-inc)
-- [CrowdStrike Holdings, Inc. suppliers manufacturers](https://finance.yahoo.com/quote/CRWD/)
-- [CrowdStrike Holdings, Inc. major customers clients](https://finance.yahoo.com/quote/CRWD/)
-- [CrowdStrike Holdings, Inc. major customers clients](https://www.fool.com/earnings/call-transcripts/2025/06/03/crowdstrike-crwd-q1-2026-earnings-transcript/)
+- [CrowdStrike Holdings, Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/CrowdStrike)
+- [CrowdStrike Holdings, Inc. suppliers manufacturers](https://csimarket.com/stocks/CRWD-Growth-vs-Suppliers)
+- [CrowdStrike Holdings, Inc. major customers clients](https://en.wikipedia.org/wiki/CrowdStrike)
+- [CrowdStrike Holdings, Inc. major customers clients](https://www.crowdstrike.com/en-us/resources/customer-stories/)
 
 ## 元数据
 
-- **更新日期**: 2026-05-07
+- **更新日期**: 2026-05-08

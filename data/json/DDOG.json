@@ -7,31 +7,31 @@
     "AMZN",
     "MSFT",
     "GOOGL",
-    "Cloudflare",
-    "Akamai"
+    "CSCO",
+    "DELL"
   ],
   "downstream": [
-    "NFLX",
-    "Airbnb",
-    "Shopify",
     "CRM",
-    "Uber"
+    "ADBE",
+    "Shopify",
+    "NFLX",
+    "Airbnb"
   ],
   "competitors": [
     "New Relic",
     "Splunk",
     "Dynatrace",
-    "Grafana Labs",
-    "Elastic"
+    "Elastic",
+    "AppDynamics"
   ],
   "key_products": [
     "Datadog APM",
     "Datadog Infrastructure Monitoring",
     "Datadog Log Management",
-    "Datadog Security Monitoring",
-    "Datadog Cloud Cost Management"
+    "Datadog Cloud Security",
+    "Datadog Synthetic Monitoring"
   ],
-  "extracted_at": "2026-05-07 17:44:28",
+  "extracted_at": "2026-05-08 17:10:30",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,21 +47,21 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.barrons.com/articles/datadog-stock-builds-strong-base-technical-setup-favors-breakout-1ba40dbb",
+      "url": "https://sg.finance.yahoo.com/news/datadog-two-other-stocks-could-113809023.html",
       "query": "Datadog, Inc. suppliers manufacturers",
-      "snippet": "Datadog stock (Dreamstime). Shares of Datadog Inc . are beginning to stand out in a rebounding software group."
+      "snippet": "Overview: Datadog , Inc . operates an observability and security platform for cloud applications globally, with a market cap of approximately $50.02 b"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.fool.com/investing/2020/06/11/better-buy-alphabet-vs-datadog.aspx",
+      "query": "Datadog, Inc. major customers clients",
+      "snippet": "Datadog keeps tabs on all your tech. Unlike Alphabet, which has been a public company since 2004, Datadog has only been a public company for less than"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.morningstar.com/company-reports/1138248-narrow-moat-datadog-is-poised-for-success-in-the-observability-market",
       "query": "Datadog, Inc. major customers clients",
       "snippet": "Datadog Inc Class A. DDOG: XNAS (USA). View Stock Summary. Datadog 's additional products, including its more recent security offerings, can offer dif"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.barrons.com/articles/datadog-stock-builds-strong-base-technical-setup-favors-breakout-1ba40dbb",
-      "query": "Datadog, Inc. major customers clients",
-      "snippet": "Datadog stock (Dreamstime). Shares of Datadog Inc . are beginning to stand out in a rebounding software group."
     }
   ]
 }

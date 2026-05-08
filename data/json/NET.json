@@ -1,40 +1,37 @@
 {
   "ticker": "NET",
   "company_name": "Cloudflare, Inc.",
-  "sector": "Technology / Software - Infrastructure",
-  "industry": "Internet & Web Services",
+  "sector": "Technology",
+  "industry": "Software - Infrastructure",
   "upstream": [
-    "Internet Service Providers (e.g., AT&T, Verizon)",
-    "MSFT",
+    "INTC",
+    "AMD",
+    "NVDA",
     "CSCO",
-    "Data Center Operators (e.g., Equinix, Digital Realty)",
-    "AMD"
+    "DELL"
   ],
   "downstream": [
-    "E-commerce Platforms (e.g., Shopify, Magento)",
-    "CRM",
-    "Social Media & Content Sites (e.g., Reddit, Medium)",
-    "Financial Services (e.g., Stripe, Square)",
-    "NFLX"
+    "Shopify",
+    "WordPress.com",
+    "GitHub",
+    "NFLX",
+    "eBay"
   ],
   "competitors": [
-    "Akamai Technologies",
-    "Fastly, Inc.",
+    "Akamai",
+    "Fastly",
     "AMZN",
     "MSFT",
     "GOOGL"
   ],
   "key_products": [
     "Content Delivery Network (CDN)",
-    "DDoS Mitigation & Cloud Security",
+    "DDoS Mitigation",
+    "Domain Name System (DNS)",
     "Web Application Firewall (WAF)",
-    "DNS & Domain Registration Services",
-    "Cloudflare Workers (serverless compute)",
-    "Cloudflare Access (Zero Trust)",
-    "Cloudflare Stream (video streaming)",
-    "Cloudflare Magic Transit (network protection)"
+    "Cloudflare Workers"
   ],
-  "extracted_at": "2026-05-05 17:23:22",
+  "extracted_at": "2026-05-08 17:05:50",
   "sources": [
     {
       "source": "Wikipedia",
@@ -44,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.cloudflare.com/partners/service-providers/",
+      "url": "https://csimarket.com/news/revolutionizing-ai-and-cybersecurity-cloudflare-s-strategic-leap-forward2024-09-27084792",
       "query": "Cloudflare, Inc. suppliers manufacturers",
-      "snippet": "Service Providers Protect users, secure infrastructure, and enhance service offerings worldwide by integrating with Cloudflare ’s solutions. Deliver s"
+      "snippet": "Cloudflare Inc Suppliers Performance.SAN FRANCISCO A Technological Power-Up’. Cloudflare Inc . (NYSE: NET), a leading cloud-based connectivity company"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/NET-Suppliers",
+      "url": "https://www.cloudflare.com/trademark/",
       "query": "Cloudflare, Inc. suppliers manufacturers",
-      "snippet": "Sources: Cloudflare Inc 's official press releases and regulatory filings; CSIMarket.com's supply-chain research; and the financial filings and press "
+      "snippet": "Use of Cloudflare trademarks by Cloudflare suppliers and vendors. Suppliers and vendors to Cloudflare are not allowed to use Cloudflare trademarks in "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://backlinko.com/cloudflare-users",
+      "url": "https://en.wikipedia.org/wiki/Cloudflare",
       "query": "Cloudflare, Inc. major customers clients",
-      "snippet": "Jan 22, 2026 · Cloudflare Large Customers The minimum threshold for being considered a “large customer ” by Cloudflare is an annualized revenue of $10"
+      "snippet": "According to W3Techs, Cloudflare is used by approximately 21.3% of all websites on the Internet as of January 2026. The company has been the subject o"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.cloudflare.com/case-studies/",
+      "url": "https://bloomberry.com/data/cloudflare/",
       "query": "Cloudflare, Inc. major customers clients",
-      "snippet": "Cloudflare customer case studies provide cyber security testimonials and customer use cases for a suite of website security and performance products."
+      "snippet": "We detected 703466 companies using Cloudflare and 19107 customers with upcoming renewal in the next 3 months. We find new customers by monitoring new "
     }
   ]
 }

@@ -1,60 +1,57 @@
 ---
 ticker: NET
 company: Cloudflare, Inc.
-sector: Technology / Software - Infrastructure
-industry: Internet & Web Services
-extracted_at: 2026-05-05 17:23:22
-last_updated: 2026-05-05
+sector: Technology
+industry: Software - Infrastructure
+extracted_at: 2026-05-08 17:05:50
+last_updated: 2026-05-08
 ---
 
 # NET - Cloudflare, Inc.
 
 ## 基本信息
 
-- **所属行业**: Technology / Software - Infrastructure / Internet & Web Services
-- **提取时间**: 2026-05-05 17:23:22
+- **所属行业**: Technology / Software - Infrastructure
+- **提取时间**: 2026-05-08 17:05:50
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Internet Service Providers (e.g., AT&T, Verizon)]]
-- [[MSFT]]
-- [[CSCO]]
-- [[Data Center Operators (e.g., Equinix, Digital Realty)]]
+- [[INTC]]
 - [[AMD]]
+- [[NVDA]]
+- [[CSCO]]
+- [[DELL]]
 
 ### 下游客户
-- [[E-commerce Platforms (e.g., Shopify, Magento)]]
-- [[CRM]]
-- [[Social Media & Content Sites (e.g., Reddit, Medium)]]
-- [[Financial Services (e.g., Stripe, Square)]]
+- [[Shopify]]
+- [[WordPress.com]]
+- [[GitHub]]
 - [[NFLX]]
+- [[eBay]]
 
 ### 竞争对手
-- [[Akamai Technologies]]
-- [[Fastly, Inc.]]
+- [[Akamai]]
+- [[Fastly]]
 - [[AMZN]]
 - [[MSFT]]
 - [[GOOGL]]
 
 ### 核心产品
 - [[Content Delivery Network (CDN)]]
-- [[DDoS Mitigation & Cloud Security]]
+- [[DDoS Mitigation]]
+- [[Domain Name System (DNS)]]
 - [[Web Application Firewall (WAF)]]
-- [[DNS & Domain Registration Services]]
-- [[Cloudflare Workers (serverless compute)]]
-- [[Cloudflare Access (Zero Trust)]]
-- [[Cloudflare Stream (video streaming)]]
-- [[Cloudflare Magic Transit (network protection)]]
+- [[Cloudflare Workers]]
 
 ## 数据来源
 
 - [Cloudflare](https://en.wikipedia.org/wiki/Cloudflare,_Inc.)
-- [Cloudflare, Inc. suppliers manufacturers](https://www.cloudflare.com/partners/service-providers/)
-- [Cloudflare, Inc. suppliers manufacturers](https://csimarket.com/stocks/NET-Suppliers)
-- [Cloudflare, Inc. major customers clients](https://backlinko.com/cloudflare-users)
-- [Cloudflare, Inc. major customers clients](https://www.cloudflare.com/case-studies/)
+- [Cloudflare, Inc. suppliers manufacturers](https://csimarket.com/news/revolutionizing-ai-and-cybersecurity-cloudflare-s-strategic-leap-forward2024-09-27084792)
+- [Cloudflare, Inc. suppliers manufacturers](https://www.cloudflare.com/trademark/)
+- [Cloudflare, Inc. major customers clients](https://en.wikipedia.org/wiki/Cloudflare)
+- [Cloudflare, Inc. major customers clients](https://bloomberry.com/data/cloudflare/)
 
 ## 元数据
 
-- **更新日期**: 2026-05-05
+- **更新日期**: 2026-05-08

@@ -1,37 +1,37 @@
 {
   "ticker": "AAOI",
   "company_name": "Applied Optoelectronics, Inc.",
-  "sector": "Technology / Communication Equipment",
-  "industry": "Optical Communications Equipment",
+  "sector": "Technology",
+  "industry": "Communication Equipment",
   "upstream": [
-    "Semiconductor component suppliers",
-    "Optical fiber manufacturers",
-    "Photonic packaging suppliers",
-    "Electronic component distributors",
-    "Precision machining suppliers"
+    "INTC",
+    "Optical component suppliers (e.g., Lumentum, II‑VI)",
+    "Electronic packaging suppliers",
+    "Precision optics manufacturers",
+    "Electronic design automation (EDA) tool vendors"
   ],
   "downstream": [
-    "Telecom equipment vendors",
-    "Data center infrastructure providers",
-    "Network equipment manufacturers",
-    "Carrier network operators",
-    "Enterprise networking solutions"
+    "CAT",
+    "GOOGL",
+    "Enterprise networking vendors",
+    "High‑performance computing facilities",
+    "Research and development institutions"
   ],
   "competitors": [
-    "Finisar",
+    "Finisar (now part of II‑VI)",
     "Lumentum",
-    "CAT",
     "Ciena",
-    "AVGO"
+    "CAT",
+    "InnoOptics"
   ],
   "key_products": [
-    "400G optical transceivers",
     "800G optical transceivers",
     "400G QSFP28 modules",
-    "800G QSFP-DD modules",
-    "PAM4 optical transceivers"
+    "400G CFP4 modules",
+    "400G CFP8 modules",
+    "800G CFP8 modules"
   ],
-  "extracted_at": "2026-05-07 17:49:59",
+  "extracted_at": "2026-05-08 17:06:54",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/AAOI-Suppliers",
+      "url": "https://stockanalysis.com/stocks/aaoi/",
       "query": "Applied Optoelectronics, Inc. suppliers manufacturers",
-      "snippet": "Feb 27, 2026 · Applied Optoelectronics Inc's Sup pliers recorded an increase in sales by 1.23 % year on year in Q4 2025, sequentially sales grew by 24"
+      "snippet": "Applied Optoelectronics , Inc . engages in the design, manufacture , and sale of fiber-optic networking products in the United States, Taiwan, and Chi"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://stockanalysis.com/stocks/aaoi/company/",
+      "url": "https://csimarket.com/stocks/fundamentals_glance.php?code=AAOI",
       "query": "Applied Optoelectronics, Inc. suppliers manufacturers",
-      "snippet": "1 day ago · Applied Optoelectronics, Inc . engages in the design, manufacture, and sale of fiber-optic networking products in the United States, Taiwa"
+      "snippet": "Fundamental Analysis on Applied Optoelectronics Inc Key ratios, Comparisons to Semiconductors Industry, Technology Sector, S&P 500 - CSIMarket."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.alphapilot.tech/discover/applied-optoelectronics-secures-71-million-800g-transceiver-order-from-major-hyperscale-customer",
+      "url": "https://gritcap.io/p/breaking-down-applied-optoelectronics-inc-aaoi",
       "query": "Applied Optoelectronics, Inc. major customers clients",
-      "snippet": "Apr 2, 2026 · Applied Optoelectronics Secures $71 Million 800G Transceiver Order from Major Hyperscale Customer Applied Optoelectronics Inc . (NASDAQ:"
+      "snippet": "Mar 31, 2026 · The company received its first 800G volume order from a major hyperscale customer in Q4 2025, then followed that up in March 2026 with "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/AAOI-Customers",
+      "url": "https://unemployedvaluedegen.substack.com/p/status-update-applied-optoelectronics",
       "query": "Applied Optoelectronics, Inc. major customers clients",
-      "snippet": "In a noteworthy development for the tech industry, Applied Optoelectronics, Inc . (AOI), a distinguished provider of fiber-optic access network produc"
+      "snippet": "Sep 25, 2025 · In 2018, they suddenly had some quality problems with their transceivers, and a major client, again unnamed but probably Amazon, sudden"
     }
   ]
 }

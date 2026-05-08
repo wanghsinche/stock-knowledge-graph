@@ -5,33 +5,33 @@
   "industry": "Entertainment",
   "upstream": [
     "AMZN",
-    "GOOGL",
-    "MSFT",
-    "Akamai Technologies",
-    "DELL"
+    "Disney Studios",
+    "Warner Bros. Studios",
+    "Universal Pictures",
+    "SONY"
   ],
   "downstream": [
-    "US households",
-    "International households",
-    "Corporate subscription accounts",
-    "Mobile users",
-    "Smart TV users"
+    "U.S. subscribers",
+    "International subscribers",
+    "Corporate clients",
+    "CAT",
+    "Government agencies"
   ],
   "competitors": [
+    "AMZN",
     "Disney+",
     "Hulu",
-    "AMZN",
     "HBO Max",
     "AAPL"
   ],
   "key_products": [
-    "Streaming service",
-    "Original programming",
-    "Licensed content",
-    "Mobile app",
-    "Smart TV app"
+    "Netflix streaming service",
+    "Original series",
+    "Original movies",
+    "Documentaries",
+    "Kids content"
   ],
-  "extracted_at": "2026-05-07 17:49:07",
+  "extracted_at": "2026-05-08 17:09:06",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,21 +47,21 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.globaldata.com/company-profile/netflix-inc/",
+      "url": "https://porteranalysis.com/porters-five-forces-of-netflix/",
       "query": "Netflix, Inc. suppliers manufacturers",
-      "snippet": "Netflix Inc Company Profile - Netflix Inc Overview - GlobalData."
+      "snippet": "Likewise, the suppliers have a weaker bargaining power while dealing with the traditional broadcasting businesses, but online distributors like Netfli"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.globaldata.com/company-profile/netflix-inc/",
+      "url": "https://en.wikipedia.org/wiki/Reed_Hastings",
       "query": "Netflix, Inc. major customers clients",
-      "snippet": "Netflix Inc Company Profile - Netflix Inc Overview - GlobalData."
+      "snippet": "Main articles: Netflix and Netflix , Inc . In 1997, Reed Hastings co-founded Netflix , offering flat rate movie rental-by-mail to customers in the US."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.inc.com/jason-aten/theres-no-one-left-to-sign-up-for-netflix-so-its-raising-prices-again-instead.html",
+      "url": "https://www.inc.com/jason-aten/netflix-just-revealed-its-doing-the-1-thing-customers-were-most-afraid-of/91110628",
       "query": "Netflix, Inc. major customers clients",
-      "snippet": "An Inc .com Featured Presentation. That’s just the law of large numbers. If you already have 214 million subscribers, which Netflix said it had in Oct"
+      "snippet": "Look, that’s basically Netflix ’s most reliable strategy. It’s right up there with dumping an entire season of episodes at a time to encourage custome"
     }
   ]
 }

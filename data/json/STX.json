@@ -2,13 +2,13 @@
   "ticker": "STX",
   "company_name": "Seagate Technology Holdings plc",
   "sector": "Technology",
-  "industry": "Computer Hardware",
+  "industry": "Storage Solutions / Hard Disk Drive Manufacturing",
   "upstream": [
-    "005930.KS",
-    "SK Hynix",
-    "MU",
-    "Toshiba",
-    "WDC"
+    "TSM",
+    "TXN",
+    "PCB manufacturers",
+    "Magnetic material suppliers",
+    "Precision machinery suppliers"
   ],
   "downstream": [
     "DELL",
@@ -22,16 +22,16 @@
     "Toshiba",
     "005930.KS",
     "MU",
-    "SK Hynix"
+    "IBM"
   ],
   "key_products": [
     "Hard Disk Drives (HDDs)",
     "Solid State Drives (SSDs)",
-    "Enterprise storage solutions",
-    "Data storage systems",
-    "Cloud storage solutions"
+    "Enterprise Storage Systems",
+    "Cloud Storage Solutions",
+    "Data Center Storage"
   ],
-  "extracted_at": "2026-05-07 17:45:48",
+  "extracted_at": "2026-05-08 17:07:08",
   "sources": [
     {
       "source": "Wikipedia",
@@ -53,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/STX-Customers",
+      "url": "https://www.allvest.co/us-stocks/seagate-technology-holdings-plc",
       "query": "Seagate Technology Holdings plc major customers clients",
-      "snippet": "Seagate Technology Holdings Plc 's Customers have recorded an increase in their cost of revenue by 12.77 % in the 1 quarter 2026 year on year, sequent"
+      "snippet": "Seagate Technology Holdings plc . Company Overview. Seagate Technology Holdings plc is well-positioned for robust growth, driven by the surging demand"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.kerrisdalecap.com/wp-content/uploads/2025/05/STX–Kerrisdale.pdf",
+      "url": "https://simplywall.st/stocks/us/tech/nasdaq-stx/seagate-technology-holdings",
       "query": "Seagate Technology Holdings plc major customers clients",
-      "snippet": "Seagate shares are ripe for a major re-rating and are a double or triple from current levels. Disclaimer: As of the publication date of this report, K"
+      "snippet": "Seagate Technology Holdings plc Competitors. Dell Technologies . Seagate Technology Holdings plc Just Recorded A 16% EPS Beat: Here's What Analysts Ar"
     }
   ]
 }

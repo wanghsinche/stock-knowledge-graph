@@ -4,25 +4,25 @@
   "sector": "Communication Services",
   "industry": "Internet Content & Information",
   "upstream": [
+    "QCOM",
     "NVDA",
-    "AMD",
     "INTC",
-    "CSCO",
-    "JNPR"
+    "005930.KS",
+    "TSM"
   ],
   "downstream": [
-    "Coca-Cola",
-    "Nike",
-    "005930.KS",
-    "MSFT",
-    "GOOGL"
+    "Advertisers",
+    "Businesses",
+    "Brands",
+    "Marketing agencies",
+    "Content creators"
   ],
   "competitors": [
     "GOOGL",
     "AMZN",
-    "AAPL",
-    "MSFT",
-    "TikTok (ByteDance)"
+    "Snap Inc.",
+    "ByteDance (TikTok)",
+    "MSFT"
   ],
   "key_products": [
     "Facebook",
@@ -31,7 +31,7 @@
     "Messenger",
     "Meta Ads"
   ],
-  "extracted_at": "2026-05-07 17:43:26",
+  "extracted_at": "2026-05-08 17:04:34",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,21 +47,21 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://hyperdash.com/asset/meta-price",
+      "url": "https://www.computerhope.com/comp/meta.htm",
       "query": "Meta Platforms, Inc. suppliers manufacturers",
-      "snippet": "Track Meta Platforms , Inc . ( META ) live price, 24h change, volume, and open interest. Real-time chart, funding rates, and market data for Meta Plat"
+      "snippet": "Before it was rebranded as Meta in October 2021, Meta was known as Facebook Inc . According to Zuckerberg, the name Meta emphasizes their focus on VR "
     },
     {
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Meta_Platforms",
       "query": "Meta Platforms, Inc. major customers clients",
-      "snippet": "Meta Platforms , Inc . (doing business as Meta) is an American multinational technology company headquartered in Menlo Park, California. Meta owns and"
+      "snippet": "Meta owns and operates several prominent social media platforms and communication services, including Facebook, Instagram, WhatsApp, Messenger, Thread"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/META-Customers",
+      "url": "https://www.statista.com/topics/9038/meta-platforms/?srsltid=AfmBOorf7pUqFjvxX98WrRDQh-a6ycrlKMIWvQaVMaOTIi1Ic_sNOKUf",
       "query": "Meta Platforms, Inc. major customers clients",
-      "snippet": "4 days ago · Meta Platforms Inc 's Comment on Sales, Marketing and Customers The majority of our marketers use our self-service ad platform to establi"
+      "snippet": "Meta Platforms owns social media giants Facebook, Instagram, WhatsApp, and Messenger, among others, all of which are household names that continue to "
     }
   ]
 }

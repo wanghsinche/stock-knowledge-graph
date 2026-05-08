@@ -3,8 +3,8 @@ ticker: MRVL
 company: Marvell Technology, Inc.
 sector: Technology
 industry: Semiconductors
-extracted_at: 2026-05-07 17:46:13
-last_updated: 2026-05-07
+extracted_at: 2026-05-08 17:08:26
+last_updated: 2026-05-08
 ---
 
 # MRVL - Marvell Technology, Inc.
@@ -12,37 +12,37 @@ last_updated: 2026-05-07
 ## 基本信息
 
 - **所属行业**: Technology / Semiconductors
-- **提取时间**: 2026-05-07 17:46:13
+- **提取时间**: 2026-05-08 17:08:26
 
 ## 产业链关系
 
 ### 上游供应商
-- [[ASML]]
-- [[AMAT]]
-- [[LRCX]]
-- [[Tokyo Electron]]
-- [[KLA]]
+- [[TSM]]
+- [[005930.KS]]
+- [[GlobalFoundries]]
+- [[UMC]]
+- [[INTC]]
 
 ### 下游客户
-- [[AAPL]]
-- [[005930.KS]]
-- [[Huawei]]
 - [[CSCO]]
-- [[DELL]]
+- [[Huawei Technologies]]
+- [[Nokia]]
+- [[Ericsson]]
+- [[AMZN]]
 
 ### 竞争对手
 - [[AVGO]]
 - [[QCOM]]
 - [[INTC]]
+- [[MediaTek]]
 - [[NVDA]]
-- [[TXN]]
 
 ### 核心产品
-- [[SoC for networking]]
-- [[Wi‑Fi chips]]
-- [[Bluetooth chips]]
-- [[Ethernet controllers]]
-- [[Storage controllers]]
+- [[Ethernet controller chips]]
+- [[Wi‑Fi and Bluetooth modules]]
+- [[5G modem and RF front‑end solutions]]
+- [[Storage controller ASICs]]
+- [[Network processor and SoC platforms]]
 
 ## 数据来源
 
@@ -54,4 +54,4 @@ last_updated: 2026-05-07
 
 ## 元数据
 
-- **更新日期**: 2026-05-07
+- **更新日期**: 2026-05-08

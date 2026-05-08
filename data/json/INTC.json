@@ -4,34 +4,34 @@
   "sector": "Technology",
   "industry": "Semiconductors",
   "upstream": [
-    "ASML",
-    "AMAT",
-    "LRCX",
-    "Tokyo Electron",
-    "KLA-Tencor"
+    "TSM",
+    "005930.KS",
+    "GlobalFoundries",
+    "UMC",
+    "MU"
   ],
   "downstream": [
     "DELL",
     "HPQ",
     "Lenovo Group",
-    "AAPL",
-    "005930.KS"
+    "MSFT",
+    "AMZN"
   ],
   "competitors": [
     "AMD",
     "NVDA",
-    "TSM",
-    "005930.KS",
-    "AVGO"
+    "QCOM",
+    "AVGO",
+    "005930.KS"
   ],
   "key_products": [
     "Intel Core processors",
     "Intel Xeon processors",
+    "Intel Atom processors",
     "Intel chipsets",
-    "Intel Optane memory",
-    "Intel AI accelerators"
+    "Intel AI inference chips"
   ],
-  "extracted_at": "2026-05-07 17:42:13",
+  "extracted_at": "2026-05-08 17:02:57",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,21 +47,21 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/INTC/",
+      "url": "https://www.alibaba.com/",
       "query": "Intel Corporation suppliers manufacturers",
-      "snippet": "Find the latest Intel Corporation (INTC) stock quote, history, news and other vital information to help you with your stock trading and investing."
+      "snippet": "Find quality Manufacturers , Suppliers , Exporters, Importers, Buyers, Wholesalers, Products and Trade Leads from our award-winning International Trad"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Intel",
       "query": "Intel Corporation major customers clients",
-      "snippet": "Intel Corporation is an American multinational technology company headquartered in Santa Clara, California. It designs, manufactures, and sells comput"
+      "snippet": "Intel Corporation is an American multinational technology company headquartered in Santa Clara, California. ... largest customer, Apple. As of July 20"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.tradingview.com/symbols/NASDAQ-INTC/",
+      "url": "https://www.intel.com/content/www/us/en/customer-spotlight/overview.html",
       "query": "Intel Corporation major customers clients",
-      "snippet": "View live Intel Corporation chart to track its stock's price action. Find market predictions, INTC financials and market news."
+      "snippet": "Explore the latest stories, case studies and testimonials from our customers to learn how together we're creating technology that moves the world forw"
     }
   ]
 }

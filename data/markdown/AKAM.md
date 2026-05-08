@@ -3,8 +3,8 @@ ticker: AKAM
 company: Akamai Technologies, Inc.
 sector: Technology
 industry: Software - Infrastructure
-extracted_at: 2026-02-20 16:33:29
-last_updated: 2026-02-20
+extracted_at: 2026-05-08 17:07:43
+last_updated: 2026-05-08
 ---
 
 # AKAM - Akamai Technologies, Inc.
@@ -12,23 +12,23 @@ last_updated: 2026-02-20
 ## 基本信息
 
 - **所属行业**: Technology / Software - Infrastructure
-- **提取时间**: 2026-02-20 16:33:29
+- **提取时间**: 2026-05-08 17:07:43
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Hardware manufacturers]]
-- [[Network equipment vendors]]
-- [[Cloud infrastructure providers]]
-- [[Software vendors]]
-- [[CAT]]
+- [[CSCO]]
+- [[JNPR]]
+- [[ANET]]
+- [[DELL]]
+- [[IBM]]
 
 ### 下游客户
+- [[NFLX]]
+- [[MSFT]]
+- [[AMZN]]
 - [[GOOGL]]
 - [[Facebook]]
-- [[NFLX]]
-- [[AMZN]]
-- [[MSFT]]
 
 ### 竞争对手
 - [[Cloudflare]]
@@ -38,20 +38,20 @@ last_updated: 2026-02-20
 - [[GOOGL]]
 
 ### 核心产品
-- [[Content Delivery Network (CDN)]]
-- [[DDoS protection]]
-- [[Web Application Firewall (WAF)]]
-- [[Edge security solutions]]
-- [[Cloud services]]
+- [[Akamai CDN]]
+- [[Akamai Kona Site Defender]]
+- [[Akamai Bot Manager]]
+- [[Akamai Enterprise Threat Protector]]
+- [[Akamai Media Delivery]]
 
 ## 数据来源
 
 - [Akamai Technologies](https://en.wikipedia.org/wiki/Akamai_Technologies,_Inc.)
 - [Akamai Technologies, Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/Akamai_Technologies)
-- [Akamai Technologies, Inc. suppliers manufacturers](https://www.akamai.com/company/corporate-responsibility/supply-chain)
+- [Akamai Technologies, Inc. suppliers manufacturers](https://www.akamai.com/channel-partners/directory)
 - [Akamai Technologies, Inc. major customers clients](https://en.wikipedia.org/wiki/Akamai_Technologies)
-- [Akamai Technologies, Inc. major customers clients](https://www.appsruntheworld.com/customers-database/vendors/view/akamai)
+- [Akamai Technologies, Inc. major customers clients](https://www.akamai.com/resources/customer-story)
 
 ## 元数据
 
-- **更新日期**: 2026-02-20
+- **更新日期**: 2026-05-08

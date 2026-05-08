@@ -4,34 +4,34 @@
   "sector": "Technology",
   "industry": "Software - Infrastructure",
   "upstream": [
+    "MSFT",
     "AMZN",
-    "MSFT",
     "GOOGL",
-    "MSFT",
-    "Open-source security libraries"
+    "INTC",
+    "AMD"
   ],
   "downstream": [
-    "Large enterprises (finance, healthcare, manufacturing)",
-    "U.S. federal and state government agencies",
-    "Global technology firms",
-    "Financial services institutions",
-    "Healthcare providers"
+    "U.S. Department of Defense",
+    "Bank of America",
+    "MSFT",
+    "GOOGL",
+    "AMZN"
   ],
   "competitors": [
     "Palo Alto Networks",
     "SentinelOne",
-    "Fortinet",
     "McAfee",
-    "CSCO"
+    "Symantec",
+    "Sophos"
   ],
   "key_products": [
-    "CrowdStrike Falcon Platform",
-    "Falcon Prevent (endpoint protection)",
-    "Falcon Insight (behavioral analytics)",
-    "Falcon OverWatch (managed threat hunting)",
-    "Falcon X (threat intelligence)"
+    "Falcon Platform",
+    "Endpoint Detection and Response (EDR)",
+    "Threat Intelligence",
+    "Cyberattack Response",
+    "Cloud Security"
   ],
-  "extracted_at": "2026-05-07 17:47:13",
+  "extracted_at": "2026-05-08 17:11:08",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.investing.com/equities/crowdstrike-holdings-inc",
+      "url": "https://en.wikipedia.org/wiki/CrowdStrike",
       "query": "CrowdStrike Holdings, Inc. suppliers manufacturers",
-      "snippet": "CrowdStrike Holdings Inc is listed and trades on the NASDAQ stock exchange. CrowdStrike Holdings , Inc . (NASDAQ:CRWD) President and CEO George Kurtz "
+      "snippet": "CrowdStrike Holdings , Inc . is an American cybersecurity technology company based in Austin, Texas. It provides endpoint security, threat intelligenc"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/CRWD/",
+      "url": "https://csimarket.com/stocks/CRWD-Growth-vs-Suppliers",
       "query": "CrowdStrike Holdings, Inc. suppliers manufacturers",
-      "snippet": "Find the latest CrowdStrike Holdings , Inc . (CRWD) stock quote, history, news and other vital information to help you with your stock trading and inv"
+      "snippet": "Crowdstrike Holdings Inc Competitors Results. CRWD vs Competitors Stock Performance. Crowdstrike Holdings Inc (CRWD) — Comparison of Quarterly Growth "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/CRWD/",
+      "url": "https://en.wikipedia.org/wiki/CrowdStrike",
       "query": "CrowdStrike Holdings, Inc. major customers clients",
-      "snippet": "Find the latest CrowdStrike Holdings , Inc . (CRWD) stock quote, history, news and other vital information to help you with your stock trading and inv"
+      "snippet": "CrowdStrike Holdings, Inc. is an American cybersecurity technology company based in Austin, Texas. It provides endpoint security, threat intelligence,"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.fool.com/earnings/call-transcripts/2025/06/03/crowdstrike-crwd-q1-2026-earnings-transcript/",
+      "url": "https://www.crowdstrike.com/en-us/resources/customer-stories/",
       "query": "CrowdStrike Holdings, Inc. major customers clients",
-      "snippet": "Before CrowdStrike Holdings , Inc .'s identity customers relied on third-party integrations for enforcement. Today, CrowdStrike Holdings , Inc . custo"
+      "snippet": "People all over the world count on our customers to keep their businesses running, their communities safe, and their lives moving forward. Missing: Ho"
     }
   ]
 }

@@ -3,8 +3,8 @@ ticker: JPM
 company: JPMorgan Chase & Co.
 sector: Financial Services
 industry: Banks - Diversified
-extracted_at: 2026-05-05 17:25:15
-last_updated: 2026-05-05
+extracted_at: 2026-05-08 17:11:22
+last_updated: 2026-05-08
 ---
 
 # JPM - JPMorgan Chase & Co.
@@ -12,46 +12,48 @@ last_updated: 2026-05-05
 ## 基本信息
 
 - **所属行业**: Financial Services / Banks - Diversified
-- **提取时间**: 2026-05-05 17:25:15
+- **提取时间**: 2026-05-08 17:11:22
 
 ## 产业链关系
 
 ### 上游供应商
+- [[IBM]]
+- [[ORCL]]
 - [[MSFT]]
-- [[Security and cybersecurity firms]]
-- [[Legal and compliance service providers]]
-- [[Consulting firms (e.g., Accenture, Deloitte)]]
-- [[Office and infrastructure suppliers]]
+- [[CRM]]
+- [[Accenture]]
 
 ### 下游客户
-- [[Retail banking customers (individuals)]]
-- [[Corporate and institutional clients]]
-- [[Wealth management clients]]
-- [[Small and medium‑enterprise businesses]]
-- [[Investment banking and capital markets clients]]
+- [[Retail customers]]
+- [[Corporate clients]]
+- [[Institutional investors]]
+- [[Small businesses]]
+- [[Government agencies]]
 
 ### 竞争对手
-- [[Bank of America]]
-- [[Citigroup]]
-- [[Wells Fargo]]
-- [[Goldman Sachs]]
-- [[Morgan Stanley]]
+- [[Goldman Sachs (GS)]]
+- [[Bank of America (BAC)]]
+- [[Citigroup (C)]]
+- [[Wells Fargo (WFC)]]
+- [[Morgan Stanley (MS)]]
 
 ### 核心产品
-- [[Retail banking services]]
-- [[Commercial banking and lending]]
-- [[Investment banking and advisory]]
-- [[Asset and wealth management]]
-- [[Credit card and payment solutions]]
+- [[Retail banking]]
+- [[Investment banking]]
+- [[Asset management]]
+- [[Wealth management]]
+- [[Credit cards]]
+- [[Loans]]
+- [[Treasury services]]
 
 ## 数据来源
 
 - [JPMorgan Chase](https://en.wikipedia.org/wiki/JPMorgan_Chase_&_Co.)
-- [JPMorgan Chase & Co. suppliers manufacturers](https://www.jpmorganchase.com/about/suppliers)
-- [JPMorgan Chase & Co. suppliers manufacturers](https://suppliercentral.jpmchase.com/)
+- [JPMorgan Chase & Co. suppliers manufacturers](https://en.wikipedia.org/wiki/JPMorgan_Chase)
+- [JPMorgan Chase & Co. suppliers manufacturers](https://ru.wikipedia.org/wiki/JPMorgan_Chase)
 - [JPMorgan Chase & Co. major customers clients](https://en.wikipedia.org/wiki/JPMorgan_Chase)
 - [JPMorgan Chase & Co. major customers clients](https://www.jpmorganchase.com/)
 
 ## 元数据
 
-- **更新日期**: 2026-05-05
+- **更新日期**: 2026-05-08

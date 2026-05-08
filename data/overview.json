@@ -1,16 +1,16 @@
 {
-  "last_updated": "2026-05-07 17:52:04",
+  "last_updated": "2026-05-08 17:14:35",
   "mode": "BOTH",
   "total_stocks": 52,
   "stocks": {
-    "NVDA": {
-      "company_name": "NVIDIA Corporation",
-      "sector": "Technology",
-      "industry": "Semiconductors"
-    },
     "MU": {
       "company_name": "Micron Technology, Inc.",
       "sector": "Technology",
+      "industry": "Semiconductors"
+    },
+    "SNDK": {
+      "company_name": "SanDisk Corporation",
+      "sector": "Technology / Computer Hardware",
       "industry": "Semiconductors"
     },
     "TSLA": {
@@ -18,8 +18,8 @@
       "sector": "Consumer Cyclical",
       "industry": "Auto Manufacturers"
     },
-    "SNDK": {
-      "company_name": "SanDisk Corporation",
+    "NVDA": {
+      "company_name": "NVIDIA Corporation",
       "sector": "Technology",
       "industry": "Semiconductors"
     },
@@ -33,6 +33,11 @@
       "sector": "Technology",
       "industry": "Semiconductors"
     },
+    "AAPL": {
+      "company_name": "Apple Inc.",
+      "sector": "Technology",
+      "industry": "Consumer Electronics"
+    },
     "MSFT": {
       "company_name": "Microsoft Corporation",
       "sector": "Technology",
@@ -43,123 +48,158 @@
       "sector": "Technology",
       "industry": "Semiconductors"
     },
-    "AAPL": {
-      "company_name": "Apple Inc.",
-      "sector": "Technology",
-      "industry": "Consumer Electronics"
+    "RKLB": {
+      "company_name": "Rocket Lab Corporation",
+      "sector": "Industrials",
+      "industry": "Aerospace & Defense"
+    },
+    "IREN": {
+      "company_name": "IREN Limited",
+      "sector": "Financial Services",
+      "industry": "Capital Markets"
     },
     "AMZN": {
       "company_name": "Amazon.com, Inc.",
       "sector": "Consumer Cyclical",
       "industry": "Internet Retail"
     },
-    "PLTR": {
-      "company_name": "Palantir Technologies Inc.",
-      "sector": "Technology",
-      "industry": "Software - Infrastructure"
-    },
     "META": {
       "company_name": "Meta Platforms, Inc.",
       "sector": "Communication Services",
       "industry": "Internet Content & Information"
     },
-    "APP": {
-      "company_name": "AppLovin Corporation",
-      "sector": "Communication Services / Advertising Agencies",
-      "industry": "Advertising Technology"
+    "AVGO": {
+      "company_name": "Broadcom Inc.",
+      "sector": "Technology / Semiconductors",
+      "industry": "Semiconductor and Infrastructure Software"
     },
     "LITE": {
       "company_name": "Lumentum Holdings Inc.",
       "sector": "Technology",
       "industry": "Communication Equipment"
     },
-    "AVGO": {
-      "company_name": "Broadcom Inc.",
+    "CRWV": {
+      "company_name": "CoreWeave, Inc.",
+      "sector": "Technology / Software - Infrastructure",
+      "industry": "AI Cloud Computing / GPU Infrastructure"
+    },
+    "PLTR": {
+      "company_name": "Palantir Technologies Inc.",
       "sector": "Technology",
-      "industry": "Semiconductors"
+      "industry": "Software - Infrastructure"
     },
     "ORCL": {
       "company_name": "Oracle Corporation",
       "sector": "Technology",
       "industry": "Software - Infrastructure"
     },
-    "DDOG": {
-      "company_name": "Datadog, Inc.",
-      "sector": "Technology",
-      "industry": "Software - Application"
-    },
-    "GOOG": {
-      "company_name": "Alphabet Inc.",
-      "sector": "Communication Services",
-      "industry": "Internet Content & Information"
-    },
-    "CRWV": {
-      "company_name": "CoreWeave, Inc.",
+    "NET": {
+      "company_name": "Cloudflare, Inc.",
       "sector": "Technology",
       "industry": "Software - Infrastructure"
     },
-    "COHR": {
-      "company_name": "Coherent Corp.",
-      "sector": "Technology",
-      "industry": "Scientific & Technical Instruments"
-    },
-    "NBIS": {
-      "company_name": "Nebius Group N.V.",
-      "sector": "Communication Services",
-      "industry": "Internet Content & Information"
+    "MELI": {
+      "company_name": "MercadoLibre, Inc.",
+      "sector": "Consumer Cyclical",
+      "industry": "Internet Retail"
     },
     "GLW": {
       "company_name": "Corning Incorporated",
       "sector": "Technology",
       "industry": "Electronic Components"
     },
+    "APP": {
+      "company_name": "AppLovin Corporation",
+      "sector": "Communication Services",
+      "industry": "Advertising Agencies"
+    },
+    "GOOG": {
+      "company_name": "Alphabet Inc.",
+      "sector": "Communication Services",
+      "industry": "Internet Content & Information"
+    },
+    "AAOI": {
+      "company_name": "Applied Optoelectronics, Inc.",
+      "sector": "Technology",
+      "industry": "Communication Equipment"
+    },
     "STX": {
       "company_name": "Seagate Technology Holdings plc",
       "sector": "Technology",
-      "industry": "Computer Hardware"
-    },
-    "IREN": {
-      "company_name": "IREN Limited",
-      "sector": "Financial Services / Capital Markets",
-      "industry": "Financial Services / Capital Markets"
-    },
-    "MRVL": {
-      "company_name": "Marvell Technology, Inc.",
-      "sector": "Technology",
-      "industry": "Semiconductors"
-    },
-    "WDC": {
-      "company_name": "Western Digital Corporation",
-      "sector": "Technology / Computer Hardware",
-      "industry": "Data Storage"
-    },
-    "ZTS": {
-      "company_name": "Zoetis Inc.",
-      "sector": "Healthcare",
-      "industry": "Drug Manufacturers - Specialty & Generic"
-    },
-    "NOW": {
-      "company_name": "ServiceNow, Inc.",
-      "sector": "Technology",
-      "industry": "Software - Application"
+      "industry": "Storage Solutions / Hard Disk Drive Manufacturing"
     },
     "BE": {
       "company_name": "Bloom Energy Corporation",
       "sector": "Industrials",
       "industry": "Electrical Equipment & Parts"
     },
-    "CRWD": {
-      "company_name": "CrowdStrike Holdings, Inc.",
+    "WDC": {
+      "company_name": "Western Digital Corporation",
+      "sector": "Technology",
+      "industry": "Computer Hardware"
+    },
+    "AKAM": {
+      "company_name": "Akamai Technologies, Inc.",
       "sector": "Technology",
       "industry": "Software - Infrastructure"
+    },
+    "COHR": {
+      "company_name": "Coherent Corp.",
+      "sector": "Technology / Scientific & Technical Instruments",
+      "industry": "Photonics"
+    },
+    "NBIS": {
+      "company_name": "Nebius Group N.V.",
+      "sector": "Communication Services",
+      "industry": "Internet Content & Information"
+    },
+    "MRVL": {
+      "company_name": "Marvell Technology, Inc.",
+      "sector": "Technology",
+      "industry": "Semiconductors"
+    },
+    "COIN": {
+      "company_name": "Coinbase Global, Inc.",
+      "sector": "Financial Services",
+      "industry": "Financial Data & Stock Exchanges"
+    },
+    "NOW": {
+      "company_name": "ServiceNow, Inc.",
+      "sector": "Technology",
+      "industry": "Software - Application"
+    },
+    "NFLX": {
+      "company_name": "Netflix, Inc.",
+      "sector": "Communication Services",
+      "industry": "Entertainment"
+    },
+    "INOD": {
+      "company_name": "Innodata Inc.",
+      "sector": "Technology",
+      "industry": "Information Technology Services"
+    },
+    "AMAT": {
+      "company_name": "Applied Materials, Inc.",
+      "sector": "Technology",
+      "industry": "Semiconductor Equipment & Materials"
+    },
+    "LLY": {
+      "company_name": "Eli Lilly and Company",
+      "sector": "Healthcare",
+      "industry": "Drug Manufacturers - General"
     },
     "ANET": {
       "company_name": "Arista Networks, Inc.",
       "sector": "Technology / Computer Hardware",
-      "industry": "Computer Networking Equipment"
+      "industry": "Data Center Networking"
     },
-    "SNOW": {
-      "company_name": "Snowflake Inc.",
+    "CRM": {
+      "company_name": "Salesforce, Inc.",
+      "sector": "Technology",
+      "industry": "Software - Application"
+    },
+    "DDOG": {
+      "company_name": "Datadog, Inc.",
       "sector": "Technology",
       "industry": "Software - Application"
     },
@@ -168,90 +208,50 @@
       "sector": "Technology",
       "industry": "Software - Application"
     },
-    "IONQ": {
-      "company_name": "IonQ, Inc.",
+    "SMCI": {
+      "company_name": "Super Micro Computer, Inc.",
       "sector": "Technology",
       "industry": "Computer Hardware"
     },
-    "SHOP": {
-      "company_name": "Shopify Inc.",
+    "CRWD": {
+      "company_name": "CrowdStrike Holdings, Inc.",
       "sector": "Technology",
-      "industry": "Software - Application"
+      "industry": "Software - Infrastructure"
     },
-    "SMCI": {
-      "company_name": "Super Micro Computer, Inc.",
-      "sector": "Technology / Computer Hardware",
-      "industry": "Server and Storage Solutions"
-    },
-    "DASH": {
-      "company_name": "DoorDash, Inc.",
-      "sector": "Consumer Cyclical",
-      "industry": "Internet Retail"
+    "JPM": {
+      "company_name": "JPMorgan Chase & Co.",
+      "sector": "Financial Services",
+      "industry": "Banks - Diversified"
     },
     "GEV": {
       "company_name": "GE Vernova Inc.",
       "sector": "Industrials",
       "industry": "Specialty Industrial Machinery"
     },
-    "NFLX": {
-      "company_name": "Netflix, Inc.",
-      "sector": "Communication Services",
-      "industry": "Entertainment"
-    },
-    "FTNT": {
-      "company_name": "Fortinet, Inc.",
-      "sector": "Technology / Software - Infrastructure",
-      "industry": "Cybersecurity"
-    },
-    "BA": {
-      "company_name": "The Boeing Company",
-      "sector": "Industrials",
-      "industry": "Aerospace & Defense"
-    },
-    "C": {
-      "company_name": "Citigroup Inc.",
-      "sector": "Financial Services",
-      "industry": "Banks - Diversified"
-    },
-    "AAOI": {
-      "company_name": "Applied Optoelectronics, Inc.",
+    "CSCO": {
+      "company_name": "Cisco Systems, Inc.",
       "sector": "Technology / Communication Equipment",
-      "industry": "Optical Communications Equipment"
+      "industry": "Networking Equipment"
     },
-    "CAT": {
-      "company_name": "Caterpillar Inc.",
-      "sector": "Industrials",
-      "industry": "Farm & Heavy Construction Machinery"
+    "UNH": {
+      "company_name": "UnitedHealth Group Incorporated",
+      "sector": "Healthcare",
+      "industry": "Healthcare Plans"
     },
-    "MCD": {
-      "company_name": "McDonald's Corporation",
-      "sector": "Consumer Cyclical / Restaurants",
-      "industry": "Fast Food Restaurants"
+    "TMO": {
+      "company_name": "Thermo Fisher Scientific Inc.",
+      "sector": "Healthcare",
+      "industry": "Diagnostics & Research"
     },
-    "ON": {
-      "company_name": "ON Semiconductor Corporation",
-      "sector": "Technology",
-      "industry": "Semiconductors"
-    },
-    "CRCL": {
-      "company_name": "Circle Internet Group",
-      "sector": "Financial Services",
-      "industry": "Capital Markets"
-    },
-    "LRCX": {
-      "company_name": "Lam Research Corporation",
+    "KLAC": {
+      "company_name": "KLA Corporation",
       "sector": "Technology",
       "industry": "Semiconductor Equipment & Materials"
     },
-    "UBER": {
-      "company_name": "Uber Technologies, Inc.",
+    "PANW": {
+      "company_name": "Palo Alto Networks, Inc.",
       "sector": "Technology",
-      "industry": "Software - Application"
-    },
-    "CVX": {
-      "company_name": "Chevron Corporation",
-      "sector": "Energy",
-      "industry": "Oil & Gas Integrated"
+      "industry": "Software - Infrastructure"
     },
     "MRNA": {
       "company_name": "Moderna, Inc.",
@@ -261,7 +261,7 @@
     "CCJ": {
       "company_name": "Cameco Corporation",
       "sector": "Energy",
-      "industry": "Uranium"
+      "industry": "Uranium Mining & Production"
     }
   }
 }

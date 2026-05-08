@@ -4,34 +4,34 @@
   "sector": "Healthcare",
   "industry": "Biotechnology",
   "upstream": [
-    "GMP manufacturing service providers",
-    "Raw material suppliers for nucleotides and lipids",
-    "Cell culture media manufacturers",
-    "Bioprocess equipment suppliers",
-    "Analytical testing laboratories"
+    "Cell culture media suppliers",
+    "Enzyme and reagent manufacturers",
+    "Lipid nanoparticle formulation vendors",
+    "Plasmid DNA and vector providers",
+    "RNA synthesis equipment suppliers"
   ],
   "downstream": [
+    "Pharmaceutical and biotech partners (e.g., Pfizer, Johnson & Johnson)",
     "Government health agencies (e.g., CDC, WHO)",
-    "Pharmaceutical distributors",
-    "Hospitals and clinics",
-    "Retail pharmacies",
-    "International vaccine procurement organizations"
+    "Hospitals and clinical trial sites",
+    "Global vaccine distributors",
+    "End‑user patients receiving mRNA therapeutics"
   ],
   "competitors": [
-    "Pfizer",
-    "BioNTech",
+    "Pfizer Inc.",
+    "BioNTech SE",
     "Johnson & Johnson",
-    "Novavax",
-    "GSK"
+    "Novavax, Inc.",
+    "CureVac AG"
   ],
   "key_products": [
-    "mRNA-1273 (COVID‑19 vaccine)",
-    "mRNA-1273.351 (variant‑specific booster)",
-    "mRNA-1273.214 (bivalent booster)",
-    "mRNA-3704 (cancer immunotherapy)",
-    "mRNA-4157 (personalized cancer vaccine)"
+    "Spikevax (COVID‑19 mRNA vaccine)",
+    "mRNA‑4157 (cancer vaccine candidate)",
+    "mRNA‑1246 (influenza vaccine candidate)",
+    "mRNA‑1345 (multiple myeloma therapy)",
+    "Moderna’s mRNA platform technology"
   ],
-  "extracted_at": "2026-05-07 17:51:47",
+  "extracted_at": "2026-05-08 17:14:12",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/MRNA-Suppliers",
+      "query": "Moderna, Inc. suppliers manufacturers",
+      "snippet": "Moderna Inc supply chain, list and performance of Moderna Incs ' suppliers - CSIMarket."
+    },
+    {
+      "source": "DuckDuckGo",
       "url": "https://www.modernatx.com/about-us/our-story",
       "query": "Moderna, Inc. suppliers manufacturers",
       "snippet": "Moderna building with large moderna logo. Scientist looking through microscope. We’re making biotech history.Our big moments. Moderna incorporates ."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/MRNA-Management-Effectiveness-Comparisons.html",
-      "query": "Moderna, Inc. suppliers manufacturers",
-      "snippet": "Moderna Inc 's current Return on Assets, Investment, Equity ROE, ROI and ROA comparisons to Biotechnology & Pharmaceuticals Industry and Healthcare Se"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/sectors/healthcare/articles/moderna-inc-mrna-q1-2026-070050483.html",
-      "query": "Moderna, Inc. major customers clients",
-      "snippet": "Moderna Inc (NASDAQ:MRNA) reported a net loss of $1.3 billion on a GAAP basis, primarily due to a litigation settlement with Arbutus and Genevant. The"
-    },
-    {
-      "source": "DuckDuckGo",
       "url": "https://www.modernatx.com/about-us/our-story",
       "query": "Moderna, Inc. major customers clients",
       "snippet": "We’re making biotech history. Since 2010, we have worked to build the industry's leading mRNA technology platform. Learn more about Moderna ’s history"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.fool.com/earnings/call-transcripts/2021/05/07/moderna-inc-mrna-q1-2021-earnings-call-transcript/",
+      "query": "Moderna, Inc. major customers clients",
+      "snippet": "We now have 1,500 employees. We have recently incorporated Moderna Japan K.K. And we'll continue to build our commercial network. We will push to Asia"
     }
   ]
 }

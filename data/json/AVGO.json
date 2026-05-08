@@ -1,21 +1,21 @@
 {
   "ticker": "AVGO",
   "company_name": "Broadcom Inc.",
-  "sector": "Technology",
-  "industry": "Semiconductors",
+  "sector": "Technology / Semiconductors",
+  "industry": "Semiconductor and Infrastructure Software",
   "upstream": [
     "TSM",
     "005930.KS",
-    "GlobalFoundries",
-    "UMC",
-    "INTC"
+    "INTC",
+    "MU",
+    "QCOM"
   ],
   "downstream": [
+    "VMware",
     "CSCO",
     "DELL",
-    "AMZN",
     "MSFT",
-    "AAPL"
+    "AMZN"
   ],
   "competitors": [
     "QCOM",
@@ -25,13 +25,13 @@
     "MRVL"
   ],
   "key_products": [
-    "Wi‑Fi 6/7 chips",
-    "Ethernet controllers",
-    "Broadband modem chips",
-    "Storage controller chips",
-    "Network processors"
+    "Broadcom Wi‑Fi chips (BCM4360, BCM4364, BCM4365)",
+    "Broadcom Ethernet controllers",
+    "Broadcom broadband modems",
+    "Broadcom storage controllers",
+    "Broadcom infrastructure software (NetXtreme, Cloud)"
   ],
-  "extracted_at": "2026-05-07 17:44:03",
+  "extracted_at": "2026-05-08 17:04:47",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Broadcom",
+      "url": "https://en.wikipedia.org/wiki/List_of_computer_hardware_manufacturers",
       "query": "Broadcom Inc. suppliers manufacturers",
-      "snippet": "Broadcom Inc . is an American multinational designer, developer, manufacturer , and global supplier of a wide range of semiconductor and infrastructur"
+      "snippet": "Broadcom Inc . (ARM-based, e.g. for Raspberry Pi). Google (ARM-based Axion and Tensor). Fujitsu (its ARM-based CPU used in top supercomputer, still al"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.broadcom.com/how-to-buy/partner-distributor-lookup",
+      "url": "https://csimarket.com/stocks/AVGO-Suppliers",
       "query": "Broadcom Inc. suppliers manufacturers",
-      "snippet": "Find a local reseller or global distributor of every Broadcom software solution for your business or enterprise, spanning the desktop to the Mainframe"
+      "snippet": "Broadcom Inc supply chain, list and performance of Broadcom Incs ' suppliers - CSIMarket."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/AVGO-Customers",
+      "url": "https://investors.broadcom.com/",
       "query": "Broadcom Inc. major customers clients",
-      "snippet": "Broadcom Inc 's Comment on Sales, Marketing and Customers We sell our products to leading wired and wireless communications manufacturers. We have als"
+      "snippet": "VMware Tanzu® Supercharges Portfolio to Help Customers Build, Run, and..."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.appsruntheworld.com/customers-database/vendors/view/broadcom",
+      "url": "https://www.youtube.com/channel/UCTr3zah69bISSVdBcHiKhpA",
       "query": "Broadcom Inc. major customers clients",
-      "snippet": "List of companies using or evaluating Broadcom applications, with details on their revenues, employees, industries, and locations."
+      "snippet": "Broadcom ’s infrastructure software solutions serve markets including private cloud, mainframe software, cybersecurity, enterprise software, and Fibre"
     }
   ]
 }

@@ -1,57 +1,57 @@
 ---
 ticker: AAOI
 company: Applied Optoelectronics, Inc.
-sector: Technology / Communication Equipment
-industry: Optical Communications Equipment
-extracted_at: 2026-05-07 17:49:59
-last_updated: 2026-05-07
+sector: Technology
+industry: Communication Equipment
+extracted_at: 2026-05-08 17:06:54
+last_updated: 2026-05-08
 ---
 
 # AAOI - Applied Optoelectronics, Inc.
 
 ## 基本信息
 
-- **所属行业**: Technology / Communication Equipment / Optical Communications Equipment
-- **提取时间**: 2026-05-07 17:49:59
+- **所属行业**: Technology / Communication Equipment
+- **提取时间**: 2026-05-08 17:06:54
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Semiconductor component suppliers]]
-- [[Optical fiber manufacturers]]
-- [[Photonic packaging suppliers]]
-- [[Electronic component distributors]]
-- [[Precision machining suppliers]]
+- [[INTC]]
+- [[Optical component suppliers (e.g., Lumentum, II‑VI)]]
+- [[Electronic packaging suppliers]]
+- [[Precision optics manufacturers]]
+- [[Electronic design automation (EDA) tool vendors]]
 
 ### 下游客户
-- [[Telecom equipment vendors]]
-- [[Data center infrastructure providers]]
-- [[Network equipment manufacturers]]
-- [[Carrier network operators]]
-- [[Enterprise networking solutions]]
+- [[CAT]]
+- [[GOOGL]]
+- [[Enterprise networking vendors]]
+- [[High‑performance computing facilities]]
+- [[Research and development institutions]]
 
 ### 竞争对手
-- [[Finisar]]
+- [[Finisar (now part of II‑VI)]]
 - [[Lumentum]]
-- [[CAT]]
 - [[Ciena]]
-- [[AVGO]]
+- [[CAT]]
+- [[InnoOptics]]
 
 ### 核心产品
-- [[400G optical transceivers]]
 - [[800G optical transceivers]]
 - [[400G QSFP28 modules]]
-- [[800G QSFP-DD modules]]
-- [[PAM4 optical transceivers]]
+- [[400G CFP4 modules]]
+- [[400G CFP8 modules]]
+- [[800G CFP8 modules]]
 
 ## 数据来源
 
 - 
-- [Applied Optoelectronics, Inc. suppliers manufacturers](https://csimarket.com/stocks/AAOI-Suppliers)
-- [Applied Optoelectronics, Inc. suppliers manufacturers](https://stockanalysis.com/stocks/aaoi/company/)
-- [Applied Optoelectronics, Inc. major customers clients](https://www.alphapilot.tech/discover/applied-optoelectronics-secures-71-million-800g-transceiver-order-from-major-hyperscale-customer)
-- [Applied Optoelectronics, Inc. major customers clients](https://csimarket.com/stocks/AAOI-Customers)
+- [Applied Optoelectronics, Inc. suppliers manufacturers](https://stockanalysis.com/stocks/aaoi/)
+- [Applied Optoelectronics, Inc. suppliers manufacturers](https://csimarket.com/stocks/fundamentals_glance.php?code=AAOI)
+- [Applied Optoelectronics, Inc. major customers clients](https://gritcap.io/p/breaking-down-applied-optoelectronics-inc-aaoi)
+- [Applied Optoelectronics, Inc. major customers clients](https://unemployedvaluedegen.substack.com/p/status-update-applied-optoelectronics)
 
 ## 元数据
 
-- **更新日期**: 2026-05-07
+- **更新日期**: 2026-05-08

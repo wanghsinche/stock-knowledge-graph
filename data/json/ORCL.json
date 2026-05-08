@@ -8,30 +8,30 @@
     "AMD",
     "NVDA",
     "DELL",
-    "CSCO"
+    "HPQ"
   ],
   "downstream": [
-    "JPMorgan Chase",
     "Walmart",
-    "Coca‑Cola",
-    "005930.KS",
-    "UnitedHealth Group"
+    "JPMorgan Chase",
+    "AT&T",
+    "Bank of America",
+    "Verizon"
   ],
   "competitors": [
     "MSFT",
-    "AMZN",
     "SAP",
     "IBM",
-    "CRM"
+    "AMZN",
+    "GOOGL"
   ],
   "key_products": [
     "Oracle Database",
     "Oracle Cloud Infrastructure",
-    "Oracle ERP Cloud",
+    "Oracle Fusion Applications",
     "Oracle Autonomous Database",
-    "Oracle Analytics Cloud"
+    "Oracle ERP Cloud"
   ],
-  "extracted_at": "2026-05-07 17:44:14",
+  "extracted_at": "2026-05-08 17:05:34",
   "sources": [
     {
       "source": "Wikipedia",
@@ -53,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.oracle.com/customers/",
+      "url": "https://en.wikipedia.org/wiki/Oracle_Corporation",
       "query": "Oracle Corporation major customers clients",
-      "snippet": "Oracle Customer Successes Innovation, ease of use, better results—those are just some of the reasons organizations in all industries and of all sizes "
+      "snippet": "The company sells database software (particularly the Oracle Database), enterprise applications, and cloud infrastructure and hardware. Oracle's core "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.thomsondata.com/customer-base/oracle.php",
+      "url": "https://www.oracle.com/customers/",
       "query": "Oracle Corporation major customers clients",
-      "snippet": "Technographic Data of Companies That Use Oracle Oracle Customers List by Industry Different industries use Oracle technology for their business . Look"
+      "snippet": "Hear from our customers to learn what makes Oracle the right choice for them, and why we're the right partner for your business."
     }
   ]
 }

@@ -1,37 +1,37 @@
 {
   "ticker": "APP",
   "company_name": "AppLovin Corporation",
-  "sector": "Communication Services / Advertising Agencies",
-  "industry": "Advertising Technology",
+  "sector": "Communication Services",
+  "industry": "Advertising Agencies",
   "upstream": [
     "GOOGL",
-    "AAPL",
-    "Data and analytics platform providers",
-    "Ad exchange and demand-side platform partners",
-    "Technology component suppliers (SDK libraries, ad mediation tools)"
+    "AMZN",
+    "MSFT",
+    "META",
+    "X (Twitter) Ad Platforms"
   ],
   "downstream": [
-    "Mobile app developers",
-    "Gaming studios",
-    "Digital marketing agencies",
-    "E‑commerce brands",
-    "Media and entertainment companies"
+    "Mobile game developers",
+    "App developers",
+    "Brands such as Kalshi",
+    "Brands such as Etsy",
+    "E‑commerce app developers"
   ],
   "competitors": [
-    "The Trade Desk",
     "Unity Ads",
+    "Vungle",
     "IronSource",
     "AdColony",
-    "AppNexus (Xandr)"
+    "Chartboost"
   ],
   "key_products": [
-    "Mobile advertising SDK",
-    "App monetization platform",
-    "User acquisition and attribution tools",
-    "Data analytics and audience segmentation",
-    "Ad serving and mediation solutions"
+    "Mobile advertising platform",
+    "App monetization solutions",
+    "Marketing analytics",
+    "Audience targeting",
+    "Rewarded video ads"
   ],
-  "extracted_at": "2026-05-07 17:43:39",
+  "extracted_at": "2026-05-08 17:06:27",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,21 +47,21 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://fasterthannormal.co/businesses/applovin",
+      "url": "https://csimarket.com/stocks/APP-Business-Description.html",
       "query": "AppLovin Corporation suppliers manufacturers",
-      "snippet": "AppLovin . Mobile app and gaming technology company. 49 min read. Save. Ask the AI about AppLovin →. Subscribe to listen to the AppLovin audio playboo"
+      "snippet": "Applovin Corporation Cash Flow Statement. Suppliers . Applovin Corporation . Business Description. Our software solutions provide mobile app developer"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.applovin.com/",
+      "url": "https://en.wikipedia.org/wiki/AppLovin",
       "query": "AppLovin Corporation major customers clients",
-      "snippet": "AppLovin enables businesses to advertise profitably with marketing technologies that attract customers , increase revenue, and track ad performance."
+      "snippet": "Founded in 2012, the company helps developers market, monetize, analyze and publish their apps through its mobile advertising, marketing, and analytic"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://fasterthannormal.co/businesses/applovin",
+      "url": "https://www.barrons.com/articles/applovin-stock-price-5471de64",
       "query": "AppLovin Corporation major customers clients",
-      "snippet": "Our founding principles center on product excellence, speed, and challenging the status quo to deliver measurable incremental earnings that enable cus"
+      "snippet": "Jan 26, 2026 · Needham has spotted two major brands—Kalshi and Etsy —using AppLovin's Axon ad-targeting technology in recent months, alongside thousan"
     }
   ]
 }
