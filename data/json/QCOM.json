@@ -1,21 +1,19 @@
 {
   "ticker": "QCOM",
   "company_name": "Qualcomm Incorporated",
-  "sector": "Technology",
-  "industry": "Semiconductors",
+  "sector": "Technology / Semiconductors",
+  "industry": "Semiconductors / Mobile Communications",
   "upstream": [
     "Chipsets for network cards",
     "Power supply units (PSUs)",
-    "Random-access memory (RAM)",
-    "Lithography equipment",
-    "Silicon wafers"
+    "Random‑access memory components"
   ],
   "downstream": [
     "AAPL",
     "005930.KS",
-    "GOOGL",
     "Huawei",
-    "Xiaomi"
+    "Ericsson",
+    "Nokia"
   ],
   "competitors": [
     "MediaTek",
@@ -27,11 +25,11 @@
   "key_products": [
     "Snapdragon mobile processors",
     "5G modems",
-    "AI chips",
-    "RF front-end modules",
-    "Wi‑Fi/Bluetooth chips"
+    "AI inference chips",
+    "RF front‑end modules",
+    "Baseband processors"
   ],
-  "extracted_at": "2026-05-08 17:03:38",
+  "extracted_at": "2026-05-11 17:50:54",
   "sources": [
     {
       "source": "Wikipedia",
@@ -59,9 +57,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/QCOM/",
+      "url": "https://www.allvest.co/us-stocks/qualcomm-incorporated",
       "query": "QUALCOMM Incorporated major customers clients",
-      "snippet": "Find the latest QUALCOMM Incorporated (QCOM) stock quote, history, news and other vital information to help you with your stock trading and investing."
+      "snippet": "Comprehensive analysis of QUALCOMM Incorporated (QCOM) stock, including market cap, business segments, financials, and future growth prospects in wire"
     }
   ]
 }

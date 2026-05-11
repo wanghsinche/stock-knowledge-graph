@@ -1,48 +1,48 @@
 ---
 ticker: MELI
 company: MercadoLibre, Inc.
-sector: Consumer Cyclical
-industry: Internet Retail
-extracted_at: 2026-05-08 17:06:02
-last_updated: 2026-05-08
+sector: Consumer Cyclical / Internet Retail
+industry: E‑commerce Marketplace
+extracted_at: 2026-05-11 17:57:00
+last_updated: 2026-05-11
 ---
 
 # MELI - MercadoLibre, Inc.
 
 ## 基本信息
 
-- **所属行业**: Consumer Cyclical / Internet Retail
-- **提取时间**: 2026-05-08 17:06:02
+- **所属行业**: Consumer Cyclical / Internet Retail / E‑commerce Marketplace
+- **提取时间**: 2026-05-11 17:57:00
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Merchants and sellers on the MercadoLibre marketplace]]
-- [[AMZN]]
 - [[MercadoPago (payment processing)]]
-- [[Logistics partners (e.g., local courier services)]]
-- [[Technology vendors (e.g., AI and data analytics providers)]]
+- [[MercadoEnvíos (logistics & fulfillment)]]
+- [[AMZN]]
+- [[GOOGL]]
+- [[Local merchants & third‑party sellers]]
 
 ### 下游客户
 - [[Individual consumers across Latin America]]
-- [[Small and medium‑sized enterprises (SMEs) using the platform]]
-- [[Large retailers and brands selling through MercadoLibre]]
-- [[Mobile app users in key markets]]
-- [[Business customers purchasing wholesale via MercadoShops]]
+- [[Small and medium‑sized businesses using the platform]]
+- [[Large retailers such as Walmart Latin America]]
+- [[Online sellers from local marketplaces]]
+- [[Digital advertisers on MercadoLibre Advertising]]
 
 ### 竞争对手
 - [[AMZN]]
-- [[Walmart.com]]
 - [[Linio]]
-- [[B2W (Americanas.com)]]
-- [[Falabella.com]]
+- [[Falabella]]
+- [[Walmart]]
+- [[eBay]]
 
 ### 核心产品
-- [[Marketplace platform]]
-- [[MercadoPago payment gateway]]
+- [[MercadoLibre Marketplace]]
+- [[MercadoPago payment platform]]
 - [[MercadoEnvíos logistics service]]
-- [[Mercado Crédito lending]]
-- [[MercadoShops e‑commerce storefronts]]
+- [[MercadoShops (storefronts)]]
+- [[Mercado Crédito (financing solutions)]]
 
 ## 数据来源
 
@@ -50,8 +50,8 @@ last_updated: 2026-05-08
 - [MercadoLibre, Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/Mercado_Libre)
 - [MercadoLibre, Inc. suppliers manufacturers](https://investor.mercadolibre.com/)
 - [MercadoLibre, Inc. major customers clients](https://en.wikipedia.org/wiki/Mercado_Libre)
-- [MercadoLibre, Inc. major customers clients](https://www.barrons.com/market-data/stocks/meli?mod=hp_STOCKPICKS_1_symbol)
+- [MercadoLibre, Inc. major customers clients](https://investor.mercadolibre.com/)
 
 ## 元数据
 
-- **更新日期**: 2026-05-08
+- **更新日期**: 2026-05-11

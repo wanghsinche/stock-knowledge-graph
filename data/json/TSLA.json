@@ -1,44 +1,37 @@
 {
   "ticker": "TSLA",
   "company_name": "Tesla, Inc.",
-  "sector": "Consumer Cyclical",
-  "industry": "Auto Manufacturers",
+  "sector": "Consumer Cyclical / Auto Manufacturers",
+  "industry": "Automotive",
   "upstream": [
+    "Panasonic",
+    "LG Chem",
     "CAT",
-    "Lithium and cobalt miners",
-    "Nickel and aluminum suppliers",
-    "Steel and aluminum alloy manufacturers",
-    "Electronic component suppliers"
+    "Bosch",
+    "NVDA"
   ],
   "downstream": [
-    "Individual consumers (private car buyers)",
-    "Commercial fleet operators",
-    "Government and municipal fleets",
-    "Energy storage customers (residential and commercial)",
-    "Solar panel and roof customers"
+    "U.S. consumers",
+    "Chinese consumers",
+    "fleet operators (e.g., Uber, Lyft)",
+    "government agencies (e.g., U.S. Department of Energy)",
+    "AMZN"
   ],
   "competitors": [
-    "NIO Inc.",
-    "BYD Company Ltd.",
-    "Lucid Motors",
-    "Rivian Automotive",
-    "General Motors (EV segment)"
+    "Ford",
+    "General Motors",
+    "Volkswagen",
+    "Toyota",
+    "Hyundai"
   ],
   "key_products": [
-    "Model S",
     "Model 3",
-    "Model X",
     "Model Y",
     "Cybertruck",
-    "Semi",
-    "Roadster",
     "Powerwall",
-    "Powerpack",
-    "Megapack",
-    "Solar Roof",
-    "Solar panels"
+    "Solar Roof"
   ],
-  "extracted_at": "2026-05-08 17:02:15",
+  "extracted_at": "2026-05-11 17:49:33",
   "sources": [
     {
       "source": "Wikipedia",
@@ -50,13 +43,13 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Tesla,_Inc.",
       "query": "Tesla, Inc. suppliers manufacturers",
-      "snippet": "Tesla , Inc . is an American multinational automotive and clean energy company.The company was incorporated in July 2003 by Martin Eberhard and Marc T"
+      "snippet": "4 days ago - The practice of vertical integration is rare in the automotive industry, where companies typically outsource 80% of components to supplie"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/TSLA-Suppliers",
+      "url": "https://www.investopedia.com/ask/answers/052815/who-are-teslas-tsla-main-suppliers.asp",
       "query": "Tesla, Inc. suppliers manufacturers",
-      "snippet": "Tesla Inc 's Suppliers Performance. TSLA's Supply Chain. Tesla relies on a wide range of suppliers beyond just battery manufacturers to build our elec"
+      "snippet": "November 4, 2025 - Tesla manufactures key components like the electric motor, battery pack, and charger, but relies on suppliers for other parts. Key "
     },
     {
       "source": "DuckDuckGo",
@@ -68,7 +61,7 @@
       "source": "DuckDuckGo",
       "url": "https://www.tesla.com/",
       "query": "Tesla, Inc. major customers clients",
-      "snippet": "Video Guides. Customer Stories. Events. Safety.Explore limited-time offers on Tesla vehicles."
+      "snippet": "Explore limited-time offers on Tesla vehicles. Learn More. Tesla vehicle. Inventory. Find nearby vehicles available for immediate delivery."
     }
   ]
 }

@@ -1,48 +1,48 @@
 ---
 ticker: CSCO
 company: Cisco Systems, Inc.
-sector: Technology / Communication Equipment
-industry: Networking Equipment
-extracted_at: 2026-05-08 17:12:00
-last_updated: 2026-05-08
+sector: Technology
+industry: Communication Equipment
+extracted_at: 2026-05-11 17:59:20
+last_updated: 2026-05-11
 ---
 
 # CSCO - Cisco Systems, Inc.
 
 ## 基本信息
 
-- **所属行业**: Technology / Communication Equipment / Networking Equipment
-- **提取时间**: 2026-05-08 17:12:00
+- **所属行业**: Technology / Communication Equipment
+- **提取时间**: 2026-05-11 17:59:20
 
 ## 产业链关系
 
 ### 上游供应商
-- [[INTC]]
-- [[AVGO]]
 - [[QCOM]]
+- [[AVGO]]
+- [[INTC]]
 - [[TXN]]
 - [[NVDA]]
 
 ### 下游客户
 - [[AT&T]]
 - [[Verizon]]
-- [[Comcast]]
 - [[GOOGL]]
-- [[AMZN]]
+- [[MSFT]]
+- [[U.S. Department of Defense]]
 
 ### 竞争对手
 - [[JNPR]]
-- [[ANET]]
 - [[Huawei]]
+- [[ANET]]
 - [[Nokia]]
 - [[Ericsson]]
 
 ### 核心产品
-- [[Webex]]
-- [[OpenDNS]]
-- [[Jabber]]
-- [[Jasper]]
-- [[Cisco routers and switches]]
+- [[Cisco routers]]
+- [[Cisco switches]]
+- [[Cisco wireless access points]]
+- [[Cisco security appliances (e.g., ASA, Firepower)]]
+- [[Webex collaboration platform]]
 
 ## 数据来源
 
@@ -54,4 +54,4 @@ last_updated: 2026-05-08
 
 ## 元数据
 
-- **更新日期**: 2026-05-08
+- **更新日期**: 2026-05-11

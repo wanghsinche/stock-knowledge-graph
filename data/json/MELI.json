@@ -1,37 +1,37 @@
 {
   "ticker": "MELI",
   "company_name": "MercadoLibre, Inc.",
-  "sector": "Consumer Cyclical",
-  "industry": "Internet Retail",
+  "sector": "Consumer Cyclical / Internet Retail",
+  "industry": "E‑commerce Marketplace",
   "upstream": [
-    "Merchants and sellers on the MercadoLibre marketplace",
-    "AMZN",
     "MercadoPago (payment processing)",
-    "Logistics partners (e.g., local courier services)",
-    "Technology vendors (e.g., AI and data analytics providers)"
+    "MercadoEnvíos (logistics & fulfillment)",
+    "AMZN",
+    "GOOGL",
+    "Local merchants & third‑party sellers"
   ],
   "downstream": [
     "Individual consumers across Latin America",
-    "Small and medium‑sized enterprises (SMEs) using the platform",
-    "Large retailers and brands selling through MercadoLibre",
-    "Mobile app users in key markets",
-    "Business customers purchasing wholesale via MercadoShops"
+    "Small and medium‑sized businesses using the platform",
+    "Large retailers such as Walmart Latin America",
+    "Online sellers from local marketplaces",
+    "Digital advertisers on MercadoLibre Advertising"
   ],
   "competitors": [
     "AMZN",
-    "Walmart.com",
     "Linio",
-    "B2W (Americanas.com)",
-    "Falabella.com"
+    "Falabella",
+    "Walmart",
+    "eBay"
   ],
   "key_products": [
-    "Marketplace platform",
-    "MercadoPago payment gateway",
+    "MercadoLibre Marketplace",
+    "MercadoPago payment platform",
     "MercadoEnvíos logistics service",
-    "Mercado Crédito lending",
-    "MercadoShops e‑commerce storefronts"
+    "MercadoShops (storefronts)",
+    "Mercado Crédito (financing solutions)"
   ],
-  "extracted_at": "2026-05-08 17:06:02",
+  "extracted_at": "2026-05-11 17:57:00",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,7 +43,7 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Mercado_Libre",
       "query": "MercadoLibre, Inc. suppliers manufacturers",
-      "snippet": "MercadoLibre , Inc . Former headquarters in Saavedra, Buenos Aires, July 2021. MercadoLibre , Inc . (Spanish pronunciation: [meɾˈkaðo ˈliβɾe]), known "
+      "snippet": "MercadoLibre , Inc . (Spanish pronunciation: [meɾˈkaðo ˈliβɾe]), known as Mercado Livre in Brazil. (Brazilian Portuguese pronunciation: [meʁˈkadu ˈliv"
     },
     {
       "source": "DuckDuckGo",
@@ -59,9 +59,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.barrons.com/market-data/stocks/meli?mod=hp_STOCKPICKS_1_symbol",
+      "url": "https://investor.mercadolibre.com/",
       "query": "MercadoLibre, Inc. major customers clients",
-      "snippet": "Complete MercadoLibre Inc . stock information by Barron's. View real-time MELI stock price and news, along with industry-best analysis. MercadoLibre ,"
+      "snippet": "MercadoLibre is the market leader in each of the major countries where it is..."
     }
   ]
 }

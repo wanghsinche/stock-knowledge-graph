@@ -2,33 +2,33 @@
 ticker: STX
 company: Seagate Technology Holdings plc
 sector: Technology
-industry: Storage Solutions / Hard Disk Drive Manufacturing
-extracted_at: 2026-05-08 17:07:08
-last_updated: 2026-05-08
+industry: Computer Hardware
+extracted_at: 2026-05-11 17:53:33
+last_updated: 2026-05-11
 ---
 
 # STX - Seagate Technology Holdings plc
 
 ## 基本信息
 
-- **所属行业**: Technology / Storage Solutions / Hard Disk Drive Manufacturing
-- **提取时间**: 2026-05-08 17:07:08
+- **所属行业**: Technology / Computer Hardware
+- **提取时间**: 2026-05-11 17:53:33
 
 ## 产业链关系
 
 ### 上游供应商
-- [[TSM]]
-- [[TXN]]
-- [[PCB manufacturers]]
-- [[Magnetic material suppliers]]
-- [[Precision machinery suppliers]]
+- [[STX]]
+- [[STX]]
+- [[STX]]
+- [[STX]]
+- [[STX]]
 
 ### 下游客户
 - [[DELL]]
 - [[HPQ]]
 - [[Lenovo Group]]
 - [[AAPL]]
-- [[MSFT]]
+- [[AMZN]]
 
 ### 竞争对手
 - [[WDC]]
@@ -38,20 +38,20 @@ last_updated: 2026-05-08
 - [[IBM]]
 
 ### 核心产品
-- [[Hard Disk Drives (HDDs)]]
-- [[Solid State Drives (SSDs)]]
+- [[Hard Disk Drives (HDD)]]
+- [[Solid State Drives (SSD)]]
 - [[Enterprise Storage Systems]]
-- [[Cloud Storage Solutions]]
-- [[Data Center Storage]]
+- [[Network Attached Storage (NAS)]]
+- [[Data Center Solutions]]
 
 ## 数据来源
 
 - 
-- [Seagate Technology Holdings plc suppliers manufacturers](https://csimarket.com/stocks/STX-Business-Description.html)
+- [Seagate Technology Holdings plc suppliers manufacturers](https://en.wikipedia.org/wiki/Seagate_Technology)
 - [Seagate Technology Holdings plc suppliers manufacturers](https://www.seagate.com/)
-- [Seagate Technology Holdings plc major customers clients](https://www.allvest.co/us-stocks/seagate-technology-holdings-plc)
-- [Seagate Technology Holdings plc major customers clients](https://simplywall.st/stocks/us/tech/nasdaq-stx/seagate-technology-holdings)
+- [Seagate Technology Holdings plc major customers clients](https://en.wikipedia.org/wiki/Seagate_Technology)
+- [Seagate Technology Holdings plc major customers clients](https://investors.seagate.com/)
 
 ## 元数据
 
-- **更新日期**: 2026-05-08
+- **更新日期**: 2026-05-11

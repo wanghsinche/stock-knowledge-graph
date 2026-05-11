@@ -4,34 +4,34 @@
   "sector": "Technology",
   "industry": "Semiconductors",
   "upstream": [
-    "Silicon wafer suppliers",
-    "Packaging materials suppliers",
+    "ASML",
     "AMAT",
-    "Electronic component suppliers",
-    "Test and measurement equipment suppliers"
+    "LRCX",
+    "TSM",
+    "005930.KS"
   ],
   "downstream": [
-    "Automotive OEMs",
-    "Consumer electronics companies",
-    "Industrial equipment manufacturers",
-    "CAT",
-    "Embedded system integrators"
+    "General Motors",
+    "Ford",
+    "Bosch",
+    "005930.KS",
+    "AAPL"
   ],
   "competitors": [
     "ADI",
+    "Maxim Integrated",
     "NXP Semiconductors",
-    "Infineon Technologies",
     "STMicroelectronics",
-    "ON Semiconductor"
+    "Infineon Technologies"
   ],
   "key_products": [
-    "Analog ICs",
-    "Embedded processors (C2000, OMAP)",
-    "Digital Light Processing (DLP) chips",
-    "Calculators (TI-83, TI-84)",
-    "Microcontrollers (MSP430)"
+    "Analog chips",
+    "Embedded processors",
+    "Digital Light Processing (DLP) technology",
+    "Calculators",
+    "Microcontrollers"
   ],
-  "extracted_at": "2026-04-27 17:19:43",
+  "extracted_at": "2026-05-11 18:00:22",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,15 +41,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.ti.com/ordering-resources/faqs/purchasing-online/authorized-distributors.html",
+      "url": "https://en.wikipedia.org/wiki/Texas_Instruments",
       "query": "Texas Instruments Incorporated suppliers manufacturers",
-      "snippet": "Texas Instruments Authorized Distributors Texas Instruments is committed to delivering high quality and reliable semiconductor solutions. We select ou"
+      "snippet": "Texas Instruments Incorporated ( TI ) is an American multinational semiconductor company headquartered in Dallas, Texas . It is one of the top 10 semi"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://thepartsdirect.com/texasinstrumentsti/linecard",
+      "url": "https://finance.yahoo.com/quote/TXN/",
       "query": "Texas Instruments Incorporated suppliers manufacturers",
-      "snippet": "Texas Instruments (TI) Manufacturer & Distributor Also known as: Burr-Brown, Chipcon, Comlinear, Luminary Micro, Power Trends, Unitrode Products inclu"
+      "snippet": "Find the latest Texas Instruments Incorporated (TXN) stock quote, history, news and other vital information to help you with your stock trading and in"
     },
     {
       "source": "DuckDuckGo",
@@ -59,9 +59,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/TXN/",
+      "url": "https://www.ti.com/about-ti/company/overview.html",
       "query": "Texas Instruments Incorporated major customers clients",
-      "snippet": "Find the latest Texas Instruments Incorporated (TXN) stock quote, history, news and other vital information to help you with your stock trading and in"
+      "snippet": "Our 15 manufacturing sites worldwide reliably deliver the high-quality products our customers need, when they need them. Learn about our investment in"
     }
   ]
 }

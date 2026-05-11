@@ -1,37 +1,37 @@
 {
   "ticker": "AAOI",
   "company_name": "Applied Optoelectronics, Inc.",
-  "sector": "Technology",
-  "industry": "Communication Equipment",
+  "sector": "Technology / Communication Equipment",
+  "industry": "Optoelectronics / Optical Communications",
   "upstream": [
-    "INTC",
-    "Optical component suppliers (e.g., Lumentum, II‑VI)",
-    "Electronic packaging suppliers",
-    "Precision optics manufacturers",
-    "Electronic design automation (EDA) tool vendors"
+    "TXN",
+    "ADI",
+    "AVGO",
+    "Lattice Semiconductor",
+    "NXP Semiconductors"
   ],
   "downstream": [
-    "CAT",
-    "GOOGL",
-    "Enterprise networking vendors",
-    "High‑performance computing facilities",
-    "Research and development institutions"
+    "AT&T",
+    "Verizon",
+    "CSCO",
+    "Huawei",
+    "Nokia"
   ],
   "competitors": [
-    "Finisar (now part of II‑VI)",
     "Lumentum",
-    "Ciena",
-    "CAT",
-    "InnoOptics"
+    "Coherent",
+    "II-VI Incorporated",
+    "Thorlabs",
+    "Infinera"
   ],
   "key_products": [
-    "800G optical transceivers",
-    "400G QSFP28 modules",
-    "400G CFP4 modules",
-    "400G CFP8 modules",
-    "800G CFP8 modules"
+    "Optical transceivers",
+    "RF modules",
+    "Optical amplifiers",
+    "Optical switches",
+    "Optical fiber components"
   ],
-  "extracted_at": "2026-05-08 17:06:54",
+  "extracted_at": "2026-05-11 17:55:47",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,21 +47,21 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/fundamentals_glance.php?code=AAOI",
+      "url": "https://www.thenew.money/company/applied-optoelectronics",
       "query": "Applied Optoelectronics, Inc. suppliers manufacturers",
-      "snippet": "Fundamental Analysis on Applied Optoelectronics Inc Key ratios, Comparisons to Semiconductors Industry, Technology Sector, S&P 500 - CSIMarket."
+      "snippet": "Applied Optoelectronics , Inc . (AOI) delivers advanced optical and RF solutions for telecom, FTTH, datacenters, and broadband industries worldwide.Lu"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://gritcap.io/p/breaking-down-applied-optoelectronics-inc-aaoi",
+      "url": "https://www.pitchgrade.com/companies/applied-optoelectronics-inc",
       "query": "Applied Optoelectronics, Inc. major customers clients",
-      "snippet": "Mar 31, 2026 · The company received its first 800G volume order from a major hyperscale customer in Q4 2025, then followed that up in March 2026 with "
+      "snippet": "The major competitors of Applied Optoelectronics Inc in the industry and how the company positions itself amidst the competition. A comprehensive SWOT"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://unemployedvaluedegen.substack.com/p/status-update-applied-optoelectronics",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/applied-optoelectronics-inc-aaoi-among-132437416.html",
       "query": "Applied Optoelectronics, Inc. major customers clients",
-      "snippet": "Sep 25, 2025 · In 2018, they suddenly had some quality problems with their transceivers, and a major client, again unnamed but probably Amazon, sudden"
+      "snippet": "Applied Optoelectronics , Inc . (NASDAQ:AAOI) develops and produces optical communication products. Its products include optical devices as well as mo"
     }
   ]
 }

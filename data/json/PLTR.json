@@ -5,33 +5,32 @@
   "industry": "Software - Infrastructure",
   "upstream": [
     "DELL",
-    "IBM",
-    "MSFT",
-    "AMZN",
-    "GOOGL"
+    "Cloud service providers (e.g., AWS, Azure, GCP)",
+    "Data storage providers",
+    "Software component vendors",
+    "IT infrastructure suppliers"
   ],
   "downstream": [
     "U.S. Department of Defense",
-    "U.S. Department of Homeland Security",
-    "INTC",
-    "Federal Bureau of Investigation (FBI)",
-    "U.S. Department of Justice"
+    "Federal Bureau of Investigation",
+    "JPMorgan Chase",
+    "Airbus",
+    "Walmart"
   ],
   "competitors": [
     "Snowflake",
     "Databricks",
     "Splunk",
-    "Tableau",
+    "IBM",
     "MSFT"
   ],
   "key_products": [
     "Palantir Foundry",
     "Palantir Gotham",
     "Palantir Apollo",
-    "Palantir Helix",
-    "Palantir Platform"
+    "Palantir Helix"
   ],
-  "extracted_at": "2026-05-08 17:05:24",
+  "extracted_at": "2026-05-11 17:53:19",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,9 +46,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.tradingview.com/symbols/NASDAQ-PLTR/",
+      "url": "https://www.palantir.com/about/",
       "query": "Palantir Technologies Inc. suppliers manufacturers",
-      "snippet": "View live Palantir Technologies Inc . chart to track its stock's price action. Find market predictions, PLTR financials and market news."
+      "snippet": "At Palantir , we believe that with good data and the right software, institutions can solve hard problems and change the world for the better."
     },
     {
       "source": "DuckDuckGo",
@@ -59,9 +58,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.tradingview.com/symbols/NASDAQ-PLTR/",
+      "url": "https://finance.yahoo.com/quote/PLTR/",
       "query": "Palantir Technologies Inc. major customers clients",
-      "snippet": "View live Palantir Technologies Inc . chart to track its stock's price action. Find market predictions, PLTR financials and market news."
+      "snippet": "Find the latest Palantir Technologies Inc . (PLTR) stock quote, history, news and other vital information to help you with your stock trading and inve"
     }
   ]
 }

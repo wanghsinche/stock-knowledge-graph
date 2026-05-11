@@ -4,17 +4,17 @@
   "sector": "Financial Services",
   "industry": "Financial Data & Stock Exchanges",
   "upstream": [
-    "Technology vendors",
-    "Cloud service providers",
-    "Payment processors",
-    "Security & compliance service providers",
-    "Regulatory data providers"
+    "AMZN",
+    "MSFT",
+    "GOOGL",
+    "Stripe",
+    "PayPal"
   ],
   "downstream": [
-    "Retail cryptocurrency investors",
-    "Institutional crypto traders",
-    "DeFi users",
-    "Enterprise clients",
+    "Retail cryptocurrency users",
+    "Institutional investors",
+    "Merchant partners",
+    "DeFi protocols",
     "Financial institutions"
   ],
   "competitors": [
@@ -22,16 +22,16 @@
     "Kraken",
     "Gemini",
     "Bitstamp",
-    "FTX (defunct)"
+    "FTX (formerly)"
   ],
   "key_products": [
-    "Cryptocurrency trading platform",
-    "Custody services",
-    "Earn interest on crypto",
-    "Staking services",
-    "Coinbase Pro"
+    "Coinbase Exchange",
+    "Coinbase Custody",
+    "Coinbase Wallet",
+    "Coinbase Earn",
+    "Coinbase Card"
   ],
-  "extracted_at": "2026-05-08 17:08:38",
+  "extracted_at": "2026-05-11 17:59:05",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.coinbase.com/vendors/vendors-at-coinbase-vendor-onboarding",
+      "url": "https://en.wikipedia.org/wiki/Coinbase",
       "query": "Coinbase Global, Inc. suppliers manufacturers",
-      "snippet": "All Coinbase vendors must go through a comprehensive risk assessment process. The Vendor Risk Management program is designed to ensure all applicable "
+      "snippet": "Coinbase Global , Inc . is an American cryptocurrency exchange. It was founded in 2012 by Brian Armstrong and Fred Ehrsam."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.coinbase.com/",
+      "url": "https://ru.wikipedia.org/wiki/Coinbase",
       "query": "Coinbase Global, Inc. suppliers manufacturers",
-      "snippet": "Cryptocurrency services offered by Coinbase Inc. (NMLS# 1163082). Coinbase Inc. is licensed to engage in virtual currency business activity by the New"
+      "snippet": "Coinbase Global , Inc . (бренд Coinbase ) — американская публичная компания, которая управляет онлайн-сервисом обмена цифровых валют (биржей криптовал"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Coinbase",
       "query": "Coinbase Global, Inc. major customers clients",
-      "snippet": "Coinbase Global , Inc . is an American cryptocurrency exchange. It was founded in 2012 by Brian Armstrong and Fred Ehrsam."
+      "snippet": "Coinbase has over 100 million users, and is the largest U.S. based cryptocurrency exchange as well as the world's biggest bitcoin custodian, as of 202"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.coinbase.com/",
+      "url": "https://www.coinbase.com/institutional/clients",
       "query": "Coinbase Global, Inc. major customers clients",
-      "snippet": "Coinbase United States is a secure online platform for buying, selling, transferring, and storing cryptocurrency. Coinbase believes crypto will be par"
+      "snippet": "Trusted by the world's leading institutions ... Coinbase Institutional is the market leader in delivering crypto solutions to global financial service"
     }
   ]
 }

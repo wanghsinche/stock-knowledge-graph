@@ -4,34 +4,34 @@
   "sector": "Financial Services",
   "industry": "Capital Markets",
   "upstream": [
-    "NASDAQ",
-    "Bloomberg",
-    "Refinitiv",
-    "CME Group",
-    "Clearstream"
+    "Financial technology vendors",
+    "Data analytics providers",
+    "Regulatory bodies",
+    "Payment processors",
+    "Cloud infrastructure providers"
   ],
   "downstream": [
-    "Retail investors",
     "Institutional investors",
-    "High net worth individuals",
     "Corporate clients",
-    "Financial advisors"
+    "Private equity firms",
+    "Asset managers",
+    "High-net-worth individuals"
   ],
   "competitors": [
-    "Interactive Brokers",
-    "Saxo Bank",
-    "Charles Schwab",
-    "Fidelity",
-    "TD Ameritrade"
+    "JPMorgan Chase",
+    "Goldman Sachs",
+    "Morgan Stanley",
+    "Citigroup",
+    "Bank of America"
   ],
   "key_products": [
-    "Online brokerage platform",
-    "Investment advisory services",
-    "Wealth management",
-    "Research reports",
-    "Trading technology"
+    "Investment banking services",
+    "Capital raising",
+    "Mergers & Acquisitions advisory",
+    "Equity and debt underwriting",
+    "Market research"
   ],
-  "extracted_at": "2026-05-08 17:04:10",
+  "extracted_at": "2026-05-11 17:52:47",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,21 +47,21 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ca.finance.yahoo.com/quote/IREN/",
+      "url": "https://www.tradingview.com/symbols/NASDAQ-IREN/",
       "query": "IREN Limited suppliers manufacturers",
-      "snippet": "Find the latest IREN Limited ( IREN ) stock quote, history, news and other vital information to help you with your stock trading and investing."
+      "snippet": "View live IREN Limited chart to track its stock's price action. Find market predictions, IREN financials and market news."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.fool.com/earnings/call-transcripts/2026/05/08/iren-iren-q3-2026-earnings-call-transcript/",
+      "query": "IREN Limited major customers clients",
+      "snippet": "IREN Limited ( IREN +8.65%) reported aggressive global AI cloud expansion, underpinned by $3.1 billion of contracted ARR and a $3.54 billion strategic"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.investing.com/equities/iris-energy",
       "query": "IREN Limited major customers clients",
       "snippet": "View today's IREN Ltd stock price and latest IREN news and analysis. Create real-time notifications to follow any changes in the live stock price."
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.nasdaq.com/market-activity/stocks/iren",
-      "query": "IREN Limited major customers clients",
-      "snippet": "IREN Limited Plunges 23% in 3 Months: Time to Hold or Fold the Stock?Data Disclaimer: The Nasdaq Indices and the Major Indices are delayed at least 1 "
     }
   ]
 }

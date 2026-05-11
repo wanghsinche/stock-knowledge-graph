@@ -4,40 +4,64 @@
   "sector": "Financial Services",
   "industry": "Capital Markets",
   "upstream": [
-    "AMZN",
     "Bloomberg",
-    "Nasdaq",
     "Refinitiv",
-    "Stripe"
+    "AMZN",
+    "MSFT",
+    "GOOGL"
   ],
   "downstream": [
     "Retail investors",
-    "Institutional investors",
-    "Small businesses",
-    "High-net-worth individuals",
-    "Financial advisors"
+    "High‑frequency traders",
+    "Institutional clients",
+    "Crypto traders",
+    "Options traders"
   ],
   "competitors": [
-    "eToro",
     "Charles Schwab",
-    "Fidelity",
     "TD Ameritrade",
-    "Interactive Brokers"
+    "E*TRADE",
+    "Fidelity",
+    "Webull"
   ],
   "key_products": [
-    "Robinhood app",
-    "Robinhood Gold",
-    "Cash Management",
-    "Crypto trading",
-    "Options trading"
+    "Commission‑free stock trading",
+    "Options trading",
+    "Margin trading",
+    "Cryptocurrency trading",
+    "Cash management and interest accounts"
   ],
-  "extracted_at": "2026-05-06 17:42:44",
+  "extracted_at": "2026-05-11 18:01:23",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "",
       "title": "",
       "snippet": ""
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/Robinhood_Markets",
+      "query": "Robinhood Markets, Inc. suppliers manufacturers",
+      "snippet": "Robinhood Markets , Inc . Robinhood Markets , Inc . is an American financial services company based in Menlo Park, California."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://ru.wikipedia.org/wiki/Robinhood_(компания)",
+      "query": "Robinhood Markets, Inc. suppliers manufacturers",
+      "snippet": "Robinhood Markets , Inc . — американская компания со штаб-квартирой в Менло-Парке, штат Калифорния. Занимается оказанием финансовых услуг и известна т"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/Robinhood_Markets",
+      "query": "Robinhood Markets, Inc. major customers clients",
+      "snippet": "Robinhood Markets , Inc . is an American financial services company based in Menlo Park, California. It provides an electronic trading platform that f"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://robinhood.com/",
+      "query": "Robinhood Markets, Inc. major customers clients",
+      "snippet": "Trade stocks on Robinhood with commission-free investing & advanced trading tools. Access fractional shares, real-time market data, and more."
     }
   ]
 }

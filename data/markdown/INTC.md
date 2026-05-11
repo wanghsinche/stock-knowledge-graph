@@ -3,8 +3,8 @@ ticker: INTC
 company: Intel Corporation
 sector: Technology
 industry: Semiconductors
-extracted_at: 2026-05-08 17:02:57
-last_updated: 2026-05-08
+extracted_at: 2026-05-11 17:50:00
+last_updated: 2026-05-11
 ---
 
 # INTC - Intel Corporation
@@ -12,7 +12,7 @@ last_updated: 2026-05-08
 ## 基本信息
 
 - **所属行业**: Technology / Semiconductors
-- **提取时间**: 2026-05-08 17:02:57
+- **提取时间**: 2026-05-11 17:50:00
 
 ## 产业链关系
 
@@ -25,10 +25,10 @@ last_updated: 2026-05-08
 
 ### 下游客户
 - [[DELL]]
+- [[Lenovo]]
 - [[HPQ]]
-- [[Lenovo Group]]
+- [[AAPL]]
 - [[MSFT]]
-- [[AMZN]]
 
 ### 竞争对手
 - [[AMD]]
@@ -38,20 +38,20 @@ last_updated: 2026-05-08
 - [[005930.KS]]
 
 ### 核心产品
-- [[Intel Core processors]]
-- [[Intel Xeon processors]]
-- [[Intel Atom processors]]
-- [[Intel chipsets]]
-- [[Intel AI inference chips]]
+- [[Intel Core CPUs]]
+- [[Intel Xeon CPUs]]
+- [[Intel Optane memory]]
+- [[Intel Ethernet controllers]]
+- [[Intel AI accelerators]]
 
 ## 数据来源
 
 - [Intel](https://en.wikipedia.org/wiki/Intel_Corporation)
 - [Intel Corporation suppliers manufacturers](https://en.wikipedia.org/wiki/Intel)
-- [Intel Corporation suppliers manufacturers](https://www.alibaba.com/)
+- [Intel Corporation suppliers manufacturers](https://finance.yahoo.com/quote/INTC/)
 - [Intel Corporation major customers clients](https://en.wikipedia.org/wiki/Intel)
-- [Intel Corporation major customers clients](https://www.intel.com/content/www/us/en/customer-spotlight/overview.html)
+- [Intel Corporation major customers clients](https://www.investopedia.com/articles/markets/100214/inside-intel-look-mega-chipmaker.asp)
 
 ## 元数据
 
-- **更新日期**: 2026-05-08
+- **更新日期**: 2026-05-11

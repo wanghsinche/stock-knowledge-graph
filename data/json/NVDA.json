@@ -6,62 +6,62 @@
   "upstream": [
     "TSM",
     "005930.KS",
+    "GlobalFoundries",
     "MU",
-    "SK Hynix",
-    "ASE Technology Holding"
+    "NVDA"
   ],
   "downstream": [
-    "AAPL",
     "MSFT",
-    "AMZN",
-    "GOOGL",
-    "SONY"
+    "DELL",
+    "MSFT",
+    "TSLA",
+    "High-performance computing customers (research institutions, universities)"
   ],
   "competitors": [
     "AMD",
     "INTC",
     "QCOM",
-    "AVGO",
-    "AAPL"
+    "AAPL",
+    "AVGO"
   ],
   "key_products": [
     "GeForce GPUs",
-    "Quadro GPUs",
-    "Tesla GPUs",
-    "Jetson SoCs",
-    "CUDA API"
+    "Quadro/RTX GPUs",
+    "Tesla GPUs for data centers",
+    "NVIDIA DRIVE SoC for automotive",
+    "CUDA API and related software"
   ],
-  "extracted_at": "2026-05-08 17:02:25",
+  "extracted_at": "2026-05-11 17:49:20",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/NVIDIA_Corporation",
       "title": "Nvidia",
-      "snippet": "Nvidia Corporation is an American technology company headquartered in Santa Clara, California. The company develops graphics processing units (GPUs), systems on chips (SoCs), and application programmi"
+      "snippet": "Nvidia Corporation is an American multinational technology company headquartered in Santa Clara, California. The company develops graphics processing units (GPUs), systems on chips (SoCs), and applica"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Nvidia",
       "query": "NVIDIA Corporation suppliers manufacturers",
-      "snippet": "1 day ago - In August 2025, Nvidia ordered ... due to security concerns. The company directed suppliers including Taiwan Semiconductor Manufacturing C"
+      "snippet": "20 hours ago - In August 2025, Nvidia ordered ... due to security concerns. The company directed suppliers including Taiwan Semiconductor Manufacturin"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.accio.com/supplier/nvidia-supplier-list",
+      "url": "https://medium.com/@farrago_course0f/exploring-the-key-companies-supplying-nvidia-a-comprehensive-overview-ebc639dd1d99",
       "query": "NVIDIA Corporation suppliers manufacturers",
-      "snippet": "2 weeks ago - NVIDIA's key suppliers span various critical areas of semiconductor manufacturing and assembly. These include TSMC (Taiwan Semiconductor"
+      "snippet": "February 16, 2024 - Samsung Electronics plays a pivotal role in NVIDIA’s supply chain, contributing to the fabrication of GPU chips and memory compone"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Nvidia",
       "query": "NVIDIA Corporation major customers clients",
-      "snippet": "1 day ago - Several major technology companies were purchasing tens or hundreds of thousands of GPUs for their data centers to run generative artifici"
+      "snippet": "Nvidia thus avoids most of the investment and production costs and risks associated with chip manufacturing, although it does sometimes directly procu"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.fool.com/investing/2025/06/26/who-are-nvidias-biggest-customers/",
+      "url": "https://www.investing.com/equities/nvidia-corp",
       "query": "NVIDIA Corporation major customers clients",
-      "snippet": "June 26, 2025 - Nvidia has amassed an impressive list of customers, which includes top AI developers like Amazon, Microsoft, and Alphabet ."
+      "snippet": "View today's NVIDIA Corporation stock price and latest NVDA news and analysis. Create real-time notifications to follow any changes in the live stock "
     }
   ]
 }

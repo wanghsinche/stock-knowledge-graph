@@ -2,36 +2,36 @@
   "ticker": "SNDK",
   "company_name": "SanDisk Corporation",
   "sector": "Technology / Computer Hardware",
-  "industry": "Semiconductors",
+  "industry": "Semiconductor / Storage Solutions",
   "upstream": [
     "Pliant Technology",
     "MU",
     "005930.KS",
-    "SK Hynix",
-    "INTC"
+    "Toshiba Memory",
+    "SK Hynix"
   ],
   "downstream": [
     "DELL",
     "HPQ",
-    "Lenovo",
-    "AMZN",
-    "GOOGL"
+    "Lenovo Group",
+    "AAPL",
+    "MSFT"
   ],
   "competitors": [
-    "MU",
-    "005930.KS",
     "WDC",
     "STX",
-    "INTC"
+    "Kingston Technology",
+    "005930.KS",
+    "MU"
   ],
   "key_products": [
     "Solid State Drives (SSDs)",
-    "Memory Cards",
     "USB Flash Drives",
-    "SD Cards",
-    "Enterprise SSDs"
+    "SD Memory Cards",
+    "MicroSD Cards",
+    "Enterprise Flash Storage"
   ],
-  "extracted_at": "2026-05-08 17:02:05",
+  "extracted_at": "2026-05-11 17:49:45",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,7 +43,7 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/SanDisk",
       "query": "Sandisk Corporation suppliers manufacturers",
-      "snippet": "2 days ago - In May 2011, SanDisk acquired Pliant Technology, a manufacturer of solid state drives, for $327 million."
+      "snippet": "5 days ago - In May 2011, SanDisk acquired Pliant Technology, a manufacturer of solid state drives, for $327 million."
     },
     {
       "source": "DuckDuckGo",
@@ -53,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://investor.sandisk.com/news-releases/news-release-details/sandisk-reports-fiscal-first-quarter-2026-financial-results",
+      "url": "https://en.wikipedia.org/wiki/Sandisk",
       "query": "Sandisk Corporation major customers clients",
-      "snippet": "... top storage OEM planned for CY26, and engagement with five major hyperscale customers. BiCS8 technology accounted for 15% of total bits shipped; e"
+      "snippet": "Sandisk Corporation is an American multinational computer semiconductor company based in Milpitas, California, that designs and manufactures flash mem"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.dell.com/en-us/lp/dt/customer-stories-sandisk-corporation",
+      "url": "https://www.sandisk.com/",
       "query": "Sandisk Corporation major customers clients",
-      "snippet": "Sep 29, 2025 · Sandisk's smart manufacturing is powered by the Dell AI Factory with NVIDIA, enabling AI and agentic AI solutions like PrimeGPT and Vis"
+      "snippet": "Sandisk online store members receive free standard shipping on all eligible orders.New Sandisk Customers Sign Up and Save 10% Off. Explore the latest "
     }
   ]
 }

@@ -4,34 +4,34 @@
   "sector": "Technology",
   "industry": "Software - Application",
   "upstream": [
-    "MSFT",
     "AMZN",
+    "MSFT",
     "GOOGL",
     "ORCL",
     "IBM"
   ],
   "downstream": [
-    "AT&T",
-    "CAT",
-    "CSCO",
-    "Accenture",
-    "IBM"
+    "GOOGL",
+    "AMZN",
+    "MSFT",
+    "Walmart",
+    "JPMorgan Chase"
   ],
   "competitors": [
     "CRM",
     "Workday",
     "SAP",
     "ORCL",
-    "MSFT"
+    "Atlassian"
   ],
   "key_products": [
     "ServiceNow Platform",
     "IT Service Management (ITSM)",
     "IT Operations Management (ITOM)",
-    "Customer Service Management (CSM)",
-    "HR Service Delivery"
+    "IT Business Management (ITBM)",
+    "Customer Service Management (CSM)"
   ],
-  "extracted_at": "2026-05-08 17:08:50",
+  "extracted_at": "2026-05-11 18:00:47",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,15 +41,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.servicenow.com/company/supplier.html",
+      "url": "https://www.servicenow.com/",
       "query": "ServiceNow, Inc. suppliers manufacturers",
-      "snippet": "ServiceNow partners with capable and competitive suppliers who commit to diversity, sustainability, and best-in-class goods and services. Learn more h"
+      "snippet": "Streamline your enterprise workflows with the ServiceNow AI Platform—empowering both customers and employees in every corner of your business."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.servicenow.com/industries/technology-providers.html",
+      "url": "https://theenterpriseworld.com/10-servicenow-partners-in-2024/",
       "query": "ServiceNow, Inc. suppliers manufacturers",
-      "snippet": "Discover how ServiceNow helps telecom, media, and tech leaders deliver seamless experiences, boost loyalty, and turn disruption into an advantage."
+      "snippet": "Advanced partnership with ServiceNow , incorporating AI to automate complex workflows.Key Takeaways for CDW Logistics, Inc . 1. Responsive ServiceNow "
     },
     {
       "source": "DuckDuckGo",
@@ -59,9 +59,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.g2.com/sellers/servicenow",
+      "url": "https://www.theregister.com/off-prem/2026/04/13/how-servicenow-gets-customers-to-gorge-at-the-ai-trough/5226329",
       "query": "ServiceNow, Inc. major customers clients",
-      "snippet": "ServiceNow Customer Service Management. 257 reviews. ServiceNow CSM enhances every aspect of the customer lifecycle by utilizing AI-driven capabilitie"
+      "snippet": "ServiceNow senior vice president John Aisien, who oversees forward-deployed engineering and strategic partnerships with companies like Anthropic and M"
     }
   ]
 }

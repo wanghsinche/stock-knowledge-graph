@@ -3,8 +3,8 @@ ticker: CAT
 company: Caterpillar Inc.
 sector: Industrials
 industry: Farm & Heavy Construction Machinery
-extracted_at: 2026-05-07 17:50:13
-last_updated: 2026-05-07
+extracted_at: 2026-05-11 18:00:09
+last_updated: 2026-05-11
 ---
 
 # CAT - Caterpillar Inc.
@@ -12,46 +12,46 @@ last_updated: 2026-05-07
 ## 基本信息
 
 - **所属行业**: Industrials / Farm & Heavy Construction Machinery
-- **提取时间**: 2026-05-07 17:50:13
+- **提取时间**: 2026-05-11 18:00:09
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Rockwell Automation]]
-- [[Eaton]]
-- [[Emerson]]
-- [[Siemens]]
-- [[Honeywell]]
+- [[Cummins Inc. (diesel engines)]]
+- [[Eaton Corporation (hydraulic systems)]]
+- [[Bosch Rexroth (hydraulic components)]]
+- [[Denso Corporation (fuel injection systems)]]
+- [[Schaeffler Group (bearings & seals)]]
 
 ### 下游客户
+- [[CAT]]
 - [[HPQ]]
-- [[Rio Tinto]]
-- [[Vale]]
-- [[Bechtel]]
-- [[U.S. Army]]
+- [[Rio Tinto (mining operations)]]
+- [[United States Army (military equipment)]]
+- [[China Railway Construction Corporation (infrastructure projects)]]
 
 ### 竞争对手
 - [[DE]]
 - [[Komatsu Ltd.]]
 - [[Volvo Construction Equipment]]
 - [[CNH Industrial]]
-- [[Hitachi Construction Machinery]]
+- [[Doosan Infracore]]
 
 ### 核心产品
-- [[Excavators]]
 - [[Bulldozers]]
-- [[Backhoes]]
+- [[Excavators]]
 - [[Wheel Loaders]]
 - [[Mining Trucks]]
+- [[Diesel Engines]]
 
 ## 数据来源
 
 - [Caterpillar Inc.](https://en.wikipedia.org/wiki/Caterpillar_Inc.)
-- [Caterpillar Inc. suppliers manufacturers](https://www.caterpillar.com/en/company/working-together/suppliers.html)
-- [Caterpillar Inc. suppliers manufacturers](https://www.goldsupplier.com/discover/top-10-caterpillar-suppliers-manufacturers-in-the-united-states/)
+- [Caterpillar Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/Caterpillar_Inc.)
+- [Caterpillar Inc. suppliers manufacturers](https://csimarket.com/stocks/CAT-Suppliers)
 - [Caterpillar Inc. major customers clients](https://en.wikipedia.org/wiki/Caterpillar_Inc.)
 - [Caterpillar Inc. major customers clients](https://ru.wikipedia.org/wiki/Caterpillar)
 
 ## 元数据
 
-- **更新日期**: 2026-05-07
+- **更新日期**: 2026-05-11

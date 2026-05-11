@@ -1,14 +1,14 @@
 {
   "ticker": "ANET",
   "company_name": "Arista Networks, Inc.",
-  "sector": "Technology / Computer Hardware",
-  "industry": "Data Center Networking",
+  "sector": "Technology",
+  "industry": "Computer Hardware",
   "upstream": [
     "AVGO",
     "INTC",
     "QCOM",
-    "NVDA",
-    "MRVL"
+    "TXN",
+    "MU"
   ],
   "downstream": [
     "AMZN",
@@ -19,19 +19,19 @@
   ],
   "competitors": [
     "CSCO",
-    "Extreme Networks",
-    "Fortinet",
-    "HPQ",
-    "JNPR"
+    "JNPR",
+    "Arista's own older models (e.g., 7000 series)",
+    "Huawei Technologies",
+    "DELL"
   ],
   "key_products": [
-    "Arista 7280 Series Switches",
-    "Arista 7500R Series",
+    "Arista 7000 Series Ethernet Switches",
+    "Arista 7500 Series Cloud‑Edge Switches",
+    "Arista EOS (Extensible Operating System)",
     "CloudVision SDN Platform",
-    "EOS (Extensible Operating System)",
-    "Arista 7000 Series"
+    "Arista 7800 Series Data‑Center Switches"
   ],
-  "extracted_at": "2026-05-08 17:10:05",
+  "extracted_at": "2026-05-11 17:59:55",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,21 +47,21 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.linkedin.com/company/arista-networks-inc",
+      "url": "https://csimarket.com/stocks/ANET-Suppliers",
       "query": "Arista Networks, Inc. suppliers manufacturers",
-      "snippet": "Arista Networks is an industry leader in data-driven, client to cloud networking for large data center/AI, campus and routing environments."
+      "snippet": "Arista Networks Inc supply chain, list and performance of Arista Networks Incs ' suppliers - CSIMarket."
     },
     {
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Arista_Networks",
       "query": "Arista Networks, Inc. major customers clients",
-      "snippet": "Major competitors · Cisco Systems · Extreme Networks · Fortinet · Hewlett Packard Enterprise (Aruba Networks division). Juniper Networks - acquired by"
+      "snippet": "Arista Networks , Inc . is an American computer networking company headquartered in Santa Clara, California. The company designs and sells multilayer "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.arista.com/en/company/customer-testimonials",
+      "url": "https://finance.yahoo.com/quote/ANET/",
       "query": "Arista Networks, Inc. major customers clients",
-      "snippet": "Customer Success Stories ; Kāhala Nui. Kāhala Nui. Campus & Wi-Fi, CloudVision, Security. Hospitality ; enabl. enabl. Automation, Campus & Wi-Fi, Rout"
+      "snippet": "Find the latest Arista Networks , Inc . (ANET) stock quote, history, news and other vital information to help you with your stock trading and investin"
     }
   ]
 }

@@ -2,56 +2,56 @@
 ticker: CRCL
 company: Circle Internet Group
 sector: Financial Services
-industry: Capital Markets
-extracted_at: 2026-05-07 17:50:49
-last_updated: 2026-05-07
+industry: Capital Markets / Payments Technology
+extracted_at: 2026-05-11 17:52:28
+last_updated: 2026-05-11
 ---
 
 # CRCL - Circle Internet Group
 
 ## 基本信息
 
-- **所属行业**: Financial Services / Capital Markets
-- **提取时间**: 2026-05-07 17:50:49
+- **所属行业**: Financial Services / Capital Markets / Payments Technology
+- **提取时间**: 2026-05-11 17:52:28
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Payment processors]]
-- [[Blockchain infrastructure providers]]
-- [[Stablecoin liquidity providers]]
-- [[Financial data vendors]]
-- [[Regulatory compliance services]]
+- [[Blockchain infrastructure providers (e.g., Ethereum, Algorand)]]
+- [[Fiat currency custodians and banks]]
+- [[Regulatory compliance and audit firms]]
+- [[Cloud service providers (AWS, Azure)]]
+- [[Payment processing platforms]]
 
 ### 下游客户
-- [[Retail investors]]
-- [[Institutional investors]]
-- [[Crypto exchanges]]
-- [[Payment merchants]]
-- [[Banks]]
+- [[Cryptocurrency exchanges (Binance, Coinbase)]]
+- [[Institutional investors and treasury teams]]
+- [[Retail merchants accepting stablecoins]]
+- [[Financial institutions (banks, payment processors)]]
+- [[Fintech partners using Circle’s APIs]]
 
 ### 竞争对手
 - [[Coinbase]]
-- [[PayPal]]
-- [[Square (Block)]]
-- [[Stripe]]
-- [[Revolut]]
+- [[Gemini]]
+- [[Paxos]]
+- [[Tether]]
+- [[Binance]]
 
 ### 核心产品
-- [[USDC stablecoin]]
-- [[EURC stablecoin]]
-- [[USYC tokenized money market fund]]
+- [[USDC (USD Coin)]]
+- [[EURC (Euro Coin)]]
+- [[USYC (USD Yield Coin)]]
 - [[Circle Pay]]
-- [[Circle Invest]]
+- [[Circle Wallet]]
 
 ## 数据来源
 
 - [Circle Internet Group](https://en.wikipedia.org/wiki/Circle_Internet_Group)
-- [Circle Internet Group suppliers manufacturers](https://investor.circle.com/overview/default.aspx)
-- [Circle Internet Group suppliers manufacturers](https://www.appsruntheworld.com/customers-database/vendors/view/circle-internet-group)
-- [Circle Internet Group major customers clients](https://www.fool.com/investing/2025/07/10/has-circle-internet-groups-stock-already-peaked/)
-- [Circle Internet Group major customers clients](https://www.investing.com/news/stock-market-news/why-is-circle-internet-stock-surging-today-93CH-4656898)
+- [Circle Internet Group suppliers manufacturers](https://en.wikipedia.org/wiki/USDC_(cryptocurrency))
+- [Circle Internet Group suppliers manufacturers](https://www.alibaba.com/)
+- [Circle Internet Group major customers clients](https://en.wikipedia.org/wiki/USDC_(cryptocurrency))
+- [Circle Internet Group major customers clients](https://www.fool.com/investing/2025/06/27/carnivals-success-circle-internet-groups-rise-and/)
 
 ## 元数据
 
-- **更新日期**: 2026-05-07
+- **更新日期**: 2026-05-11

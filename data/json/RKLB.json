@@ -3,11 +3,35 @@
   "company_name": "Rocket Lab Corporation",
   "sector": "Industrials",
   "industry": "Aerospace & Defense",
-  "upstream": [],
-  "downstream": [],
-  "competitors": [],
-  "key_products": [],
-  "extracted_at": "2026-05-08 17:03:56",
+  "upstream": [
+    "Star trackers",
+    "Reaction wheels",
+    "Solar panels",
+    "Electric propulsion systems",
+    "Composite structures"
+  ],
+  "downstream": [
+    "Planet Labs",
+    "Spire",
+    "Small satellite operators",
+    "Government agencies",
+    "Commercial satellite operators"
+  ],
+  "competitors": [
+    "SpaceX",
+    "Blue Origin",
+    "Relativity Space",
+    "Arianespace",
+    "United Launch Alliance"
+  ],
+  "key_products": [
+    "Electron orbital rocket",
+    "HASTE suborbital rocket",
+    "Neutron medium‑lift launch vehicle",
+    "Satellite components (star trackers, reaction wheels, solar panels, etc.)",
+    "Launch services"
+  ],
+  "extracted_at": "2026-05-11 17:52:12",
   "sources": [
     {
       "source": "Wikipedia",
@@ -23,9 +47,21 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/RKLB/",
+      "url": "https://finviz.com/quote?t=RKLB",
       "query": "Rocket Lab Corporation suppliers manufacturers",
-      "snippet": "Rocket Lab Corporation Overview Aerospace & Defense / Industrials. Rocket Lab Corporation , a space company, provides launch services and space system"
+      "snippet": "Rocket Lab Corporation (RKLB) Reports Q4 Loss, Tops Revenue Estimates. Rocket Lab Corp . engages in the development of rocket launch and control syste"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://rocketlabcorp.com/",
+      "query": "Rocket Lab Corporation major customers clients",
+      "snippet": "Cumulative Years In Space For Rocket Lab Satellite Technology. From Idea To Orbit. Rocket Lab is an end-to-end space company delivering reliable launc"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://finviz.com/quote?t=RKLB",
+      "query": "Rocket Lab Corporation major customers clients",
+      "snippet": "Rocket Lab Stock Pops After Major Breakthrough News. Rocket Lab Corp . engages in the development of rocket launch and control systems for the space a"
     }
   ]
 }

@@ -3,27 +3,35 @@
   "company_name": "IonQ, Inc.",
   "sector": "Technology",
   "industry": "Computer Hardware",
-  "upstream": [],
+  "upstream": [
+    "Ion trap component manufacturers",
+    "Laser system suppliers",
+    "Vacuum chamber suppliers",
+    "Cryogenic equipment providers",
+    "Quantum software integration partners"
+  ],
   "downstream": [
-    "Leading global automotive manufacturer",
-    "Enterprise customers",
-    "Cloud access customers"
+    "Enterprise customers seeking quantum computing",
+    "Academic research institutions",
+    "Government research labs",
+    "Cloud service providers",
+    "Financial services firms"
   ],
   "competitors": [
     "Rigetti Computing",
     "D-Wave Systems",
-    "IBM",
-    "GOOGL",
-    "MSFT"
+    "Honeywell Quantum Solutions",
+    "Quantum Circuits, Inc.",
+    "Q-CTRL"
   ],
   "key_products": [
-    "Trapped ion quantum computers",
-    "Quantum software for circuit optimization",
-    "Cloud quantum computing services",
-    "Quantum optimization software",
-    "Quantum circuit execution platform"
+    "Trapped ion quantum computer",
+    "Quantum computing cloud platform",
+    "Quantum circuit optimization software",
+    "Quantum hardware SDK",
+    "Quantum error correction tools"
   ],
-  "extracted_at": "2026-05-07 17:48:09",
+  "extracted_at": "2026-05-11 17:55:15",
   "sources": [
     {
       "source": "Wikipedia",
@@ -33,15 +41,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.ionq.com/",
+      "url": "https://en.wikipedia.org/wiki/IonQ",
       "query": "IonQ, Inc. suppliers manufacturers",
-      "snippet": "IonQ partnered with a leading global automotive manufacturer , applying quantum-classical AI to solve critical materials science challenges. Our model"
+      "snippet": "IonQ , Inc . is an American quantum computing hardware and software company headquartered in College Park, Maryland. The company develops general-purp"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.fool.com/earnings/call-transcripts/2026/05/06/ionq-ionq-q1-2026-earnings-call-transcript/",
+      "url": "https://www.ionq.com/",
       "query": "IonQ, Inc. suppliers manufacturers",
-      "snippet": "IonQ , Inc . is defining the quantum technology market and establishing the leading hardware and software quantum industrial ecosystem. Our organic pe"
+      "snippet": "IonQ partnered with a leading global automotive manufacturer , applying quantum-classical AI to solve critical materials science challenges. Our model"
     },
     {
       "source": "DuckDuckGo",

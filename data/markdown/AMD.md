@@ -3,8 +3,8 @@ ticker: AMD
 company: Advanced Micro Devices, Inc.
 sector: Technology
 industry: Semiconductors
-extracted_at: 2026-05-08 17:02:40
-last_updated: 2026-05-08
+extracted_at: 2026-05-11 17:50:15
+last_updated: 2026-05-11
 ---
 
 # AMD - Advanced Micro Devices, Inc.
@@ -12,7 +12,7 @@ last_updated: 2026-05-08
 ## 基本信息
 
 - **所属行业**: Technology / Semiconductors
-- **提取时间**: 2026-05-08 17:02:40
+- **提取时间**: 2026-05-11 17:50:15
 
 ## 产业链关系
 
@@ -20,8 +20,8 @@ last_updated: 2026-05-08
 - [[TSM]]
 - [[005930.KS]]
 - [[GlobalFoundries]]
-- [[MU]]
-- [[INTC]]
+- [[UMC]]
+- [[Tower Semiconductor]]
 
 ### 下游客户
 - [[DELL]]
@@ -39,10 +39,10 @@ last_updated: 2026-05-08
 
 ### 核心产品
 - [[Ryzen CPUs]]
-- [[EPYC CPUs]]
+- [[EPYC server CPUs]]
 - [[Radeon GPUs]]
 - [[Xilinx FPGAs]]
-- [[APU (Accelerated Processing Unit)]]
+- [[APU (Accelerated Processing Units)]]
 
 ## 数据来源
 
@@ -50,8 +50,8 @@ last_updated: 2026-05-08
 - [Advanced Micro Devices, Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/AMD)
 - [Advanced Micro Devices, Inc. suppliers manufacturers](https://www.britannica.com/money/Advanced-Micro-Devices-Inc)
 - [Advanced Micro Devices, Inc. major customers clients](https://en.wikipedia.org/wiki/AMD)
-- [Advanced Micro Devices, Inc. major customers clients](https://matrixbcg.com/blogs/target-market/amd)
+- [Advanced Micro Devices, Inc. major customers clients](https://ir.amd.com/)
 
 ## 元数据
 
-- **更新日期**: 2026-05-08
+- **更新日期**: 2026-05-11

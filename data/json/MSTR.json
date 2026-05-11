@@ -1,55 +1,55 @@
 {
   "ticker": "MSTR",
-  "company_name": "Strategy Inc",
+  "company_name": "Strategy Inc.",
   "sector": "Technology",
   "industry": "Software - Application",
   "upstream": [
-    "MSFT",
     "AMZN",
+    "MSFT",
     "GOOGL",
-    "ORCL",
-    "Snowflake"
+    "INTC",
+    "AMD"
   ],
   "downstream": [
-    "Bank of America",
-    "JPMorgan Chase",
-    "Goldman Sachs",
     "Walmart",
-    "AMZN"
+    "JPMorgan Chase",
+    "Bank of America",
+    "Coca-Cola",
+    "AT&T"
   ],
   "competitors": [
-    "Tableau",
+    "SAP SE Business Objects",
+    "IBM",
+    "ORCL",
     "MSFT",
-    "Qlik",
-    "Looker",
-    "Sisense"
+    "CRM"
   ],
   "key_products": [
     "MicroStrategy Desktop",
-    "MicroStrategy Cloud",
-    "MicroStrategy Analytics",
+    "MicroStrategy Web",
     "MicroStrategy Mobile",
-    "MicroStrategy Data Warehouse"
+    "MicroStrategy Analytics",
+    "MicroStrategy Cloud"
   ],
-  "extracted_at": "2026-05-08 17:10:45",
+  "extracted_at": "2026-05-11 17:57:40",
   "sources": [
     {
       "source": "Wikipedia",
-      "url": "",
-      "title": "",
-      "snippet": ""
+      "url": "https://en.wikipedia.org/wiki/Strategy_Inc",
+      "title": "MicroStrategy",
+      "snippet": "Strategy Inc., formerly known as MicroStrategy, is an American company that provides business intelligence (BI) and mobile software. Founded in 1989 by Michael J. Saylor, Sanju Bansal, and Thomas Spah"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.strategy.com/pt/software/blog/how-manufacturers-are-solving-supply-chain-chaos-with-smart-bi",
+      "url": "https://finance.yahoo.com/quote/MSTR/",
       "query": "Strategy Inc suppliers manufacturers",
-      "snippet": "Discover how manufacturers are tackling supply chain chaos with Strategy One. Learn how AI-driven insights and real-time data can transform operations"
+      "snippet": "Find the latest Strategy Inc (MSTR) stock quote, history, news and other vital information to help you with your stock trading and investing."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.developmentaid.org/organizations/view/129475/strategy-inc-ltd",
+      "url": "https://www.alibaba.com/",
       "query": "Strategy Inc suppliers manufacturers",
-      "snippet": "Strategy Inc Ltd. — Supplier / manufacturer from India, has experience with World Bank HQ, it`s involved in Furniture & Office Supplies sector."
+      "snippet": "Find quality Manufacturers , Suppliers , Exporters, Importers, Buyers, Wholesalers, Products and Trade Leads from our award-winning International Trad"
     },
     {
       "source": "DuckDuckGo",
@@ -59,9 +59,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.linkedin.com/pulse/how-major-customers-influence-companys-financial-strategy-ajaskw-gegbe",
+      "url": "https://finance.yahoo.com/quote/MSTR/",
       "query": "Strategy Inc major customers clients",
-      "snippet": "Companies with major customers —accounting for at least 10% of a firm's total sales—tend to adapt their financial strategies more quickly than those w"
+      "snippet": "Find the latest Strategy Inc (MSTR) stock quote, history, news and other vital information to help you with your stock trading and investing."
     }
   ]
 }

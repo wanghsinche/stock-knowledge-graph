@@ -4,34 +4,34 @@
   "sector": "Communication Services",
   "industry": "Internet Content & Information",
   "upstream": [
+    "Goertek (VR Quest headset manufacturing)",
     "QCOM",
-    "NVDA",
-    "INTC",
     "005930.KS",
-    "TSM"
+    "LG Display (OLED panels)",
+    "SONY"
   ],
   "downstream": [
-    "Advertisers",
-    "Businesses",
-    "Brands",
-    "Marketing agencies",
-    "Content creators"
+    "Advertisers (global brands)",
+    "App developers (Facebook, Instagram, WhatsApp)",
+    "Content creators (video, photo, live streams)",
+    "META",
+    "Media companies (news publishers)"
   ],
   "competitors": [
     "GOOGL",
     "AMZN",
-    "Snap Inc.",
-    "ByteDance (TikTok)",
-    "MSFT"
+    "AAPL",
+    "MSFT",
+    "NVDA"
   ],
   "key_products": [
     "Facebook",
     "Instagram",
     "WhatsApp",
     "Messenger",
-    "Meta Ads"
+    "Meta Quest VR"
   ],
-  "extracted_at": "2026-05-08 17:04:34",
+  "extracted_at": "2026-05-11 17:51:40",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ru.wikipedia.org/wiki/Meta_Platforms",
+      "url": "https://www.cnn.com/markets/stocks/META",
       "query": "Meta Platforms, Inc. suppliers manufacturers",
-      "snippet": "Meta Platforms , Inc . — американская транснациональная холдинговая компания, владеющая технологическим конгломератом и расположенная в Менло-Парке, К"
+      "snippet": "View Meta Platforms Inc Class A META stock quote prices, financial information, real-time forecasts, and company news from CNN."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.computerhope.com/comp/meta.htm",
+      "url": "https://www.ft.com/content/b397f80d-5772-483b-9e48-b9fa83279c75?syn-25a6b1a6=1",
       "query": "Meta Platforms, Inc. suppliers manufacturers",
-      "snippet": "Before it was rebranded as Meta in October 2021, Meta was known as Facebook Inc . According to Zuckerberg, the name Meta emphasizes their focus on VR "
+      "snippet": "Goertek manufactures Meta ’s virtual reality Quest headsets and its popular Ray-Ban smart glasses, while providing some components to the company. Met"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Meta_Platforms",
+      "url": "https://www.meta.com/about/",
       "query": "Meta Platforms, Inc. major customers clients",
-      "snippet": "Meta owns and operates several prominent social media platforms and communication services, including Facebook, Instagram, WhatsApp, Messenger, Thread"
+      "snippet": "Learn more about Meta and stay updated on our role in social technology, virtual reality, augmented reality, and the future of human connection. Meta "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.statista.com/topics/9038/meta-platforms/?srsltid=AfmBOorf7pUqFjvxX98WrRDQh-a6ycrlKMIWvQaVMaOTIi1Ic_sNOKUf",
+      "url": "https://www.cnn.com/markets/stocks/META",
       "query": "Meta Platforms, Inc. major customers clients",
-      "snippet": "Meta Platforms owns social media giants Facebook, Instagram, WhatsApp, and Messenger, among others, all of which are household names that continue to "
+      "snippet": "View Meta Platforms Inc Class A META stock quote prices, financial information, real-time forecasts, and company news from CNN."
     }
   ]
 }

@@ -4,34 +4,34 @@
   "sector": "Technology",
   "industry": "Software - Infrastructure",
   "upstream": [
-    "INTC",
-    "AMD",
-    "NVDA",
     "DELL",
-    "HPQ"
+    "MSFT",
+    "AMD",
+    "Software component vendors (e.g., Java, Linux)",
+    "Data center service providers"
   ],
   "downstream": [
-    "Walmart",
-    "JPMorgan Chase",
-    "AT&T",
-    "Bank of America",
-    "Verizon"
+    "Large enterprises (e.g., Walmart, JPMorgan Chase)",
+    "Government agencies (e.g., U.S. Department of Defense)",
+    "Financial institutions (e.g., Bank of America)",
+    "Healthcare organizations (e.g., Mayo Clinic)",
+    "Retail chains (e.g., Target)"
   ],
   "competitors": [
     "MSFT",
-    "SAP",
-    "IBM",
     "AMZN",
+    "IBM",
+    "SAP SE",
     "GOOGL"
   ],
   "key_products": [
     "Oracle Database",
     "Oracle Cloud Infrastructure",
-    "Oracle Fusion Applications",
     "Oracle Autonomous Database",
-    "Oracle ERP Cloud"
+    "Oracle Fusion Applications",
+    "Oracle E-Business Suite"
   ],
-  "extracted_at": "2026-05-08 17:05:34",
+  "extracted_at": "2026-05-11 17:56:02",
   "sources": [
     {
       "source": "Wikipedia",
@@ -55,13 +55,13 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Oracle_Corporation",
       "query": "Oracle Corporation major customers clients",
-      "snippet": "The company sells database software (particularly the Oracle Database), enterprise applications, and cloud infrastructure and hardware. Oracle's core "
+      "snippet": "Oracle Corporation is an American multinational technology company headquartered in Austin, Texas. Co-founded in Santa Clara, California in 1977 by Bo"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.oracle.com/customers/",
+      "url": "https://www.oracle.com/corporate/",
       "query": "Oracle Corporation major customers clients",
-      "snippet": "Hear from our customers to learn what makes Oracle the right choice for them, and why we're the right partner for your business."
+      "snippet": "Oracle is pleased to provide information about our company, customers , partners, events, communities, press, analysts, investors, and careers.The com"
     }
   ]
 }

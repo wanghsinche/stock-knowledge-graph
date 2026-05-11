@@ -1,37 +1,37 @@
 {
   "ticker": "COHR",
   "company_name": "Coherent Corp.",
-  "sector": "Technology / Scientific & Technical Instruments",
-  "industry": "Photonics",
+  "sector": "Technology",
+  "industry": "Scientific & Technical Instruments",
   "upstream": [
-    "Optical glass manufacturers (e.g., Corning)",
-    "TSM",
-    "Laser diode suppliers (e.g., Lumentum)",
-    "Fiber optic component suppliers (e.g., Corning)",
-    "TXN"
+    "II-VI Incorporated",
+    "AMAT",
+    "ASML",
+    "Lattice Semiconductor",
+    "Nikon"
   ],
   "downstream": [
-    "INTC",
-    "Aerospace & defense contractors (e.g., Lockheed Martin)",
-    "Scientific instrument makers (e.g., Nikon, Zeiss)",
-    "Medical device manufacturers (e.g., Medtronic)",
-    "CAT"
+    "Boeing",
+    "Lockheed Martin",
+    "QCOM",
+    "005930.KS",
+    "INTC"
   ],
   "competitors": [
-    "Lumentum",
-    "Newport Corporation",
-    "Edmund Optics",
-    "Thorlabs",
-    "Coherent Inc. (pre‑acquisition competitor)"
+    "II-VI Incorporated",
+    "Lattice Semiconductor",
+    "AMAT",
+    "Lumentum Holdings",
+    "Trumpf"
   ],
   "key_products": [
     "Laser diodes",
-    "Fiber lasers",
-    "Solid‑state lasers",
-    "Optical components (lenses, mirrors, gratings)",
-    "Photonic integrated circuits"
+    "Optical fibers",
+    "Photonic integrated circuits",
+    "Semiconductor lasers",
+    "Optical amplifiers"
   ],
-  "extracted_at": "2026-05-08 17:07:59",
+  "extracted_at": "2026-05-11 17:54:32",
   "sources": [
     {
       "source": "Wikipedia",
@@ -53,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Coherent_Corp.",
-      "query": "Coherent Corp. major customers clients",
-      "snippet": "Coherent Corp . is an American manufacturer of optical materials and semiconductors. As of 2023, the company had 26,622 employees. Its stock is listed"
-    },
-    {
-      "source": "DuckDuckGo",
       "url": "https://www.coherent.com/",
       "query": "Coherent Corp. major customers clients",
       "snippet": "Learn how Coherent empowers innovations and breakthrough technologies for the industrial, communications, electronics, and instrumentation markets."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pZbmNPSkVSRzdXOUhMWEJTZzFDZ0FQAQ?hl=en-UG&gl=UG&ceid=UG:en",
+      "query": "Coherent Corp. major customers clients",
+      "snippet": "Coherent Corp . earnings. Top news. Yahoo Finance. Coherent (COHR) Year in Review | Coherent Corp delivers 4.7% EPS beat on solid AI demand - Social B"
     }
   ]
 }

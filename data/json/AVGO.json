@@ -1,21 +1,21 @@
 {
   "ticker": "AVGO",
   "company_name": "Broadcom Inc.",
-  "sector": "Technology / Semiconductors",
-  "industry": "Semiconductor and Infrastructure Software",
+  "sector": "Technology",
+  "industry": "Semiconductors",
   "upstream": [
-    "TSM",
-    "005930.KS",
-    "INTC",
-    "MU",
-    "QCOM"
+    "AMAT",
+    "ASML",
+    "LRCX",
+    "Tokyo Electron",
+    "KLA"
   ],
   "downstream": [
-    "VMware",
     "CSCO",
     "DELL",
-    "MSFT",
-    "AMZN"
+    "HPQ",
+    "AMZN",
+    "MSFT"
   ],
   "competitors": [
     "QCOM",
@@ -25,13 +25,13 @@
     "MRVL"
   ],
   "key_products": [
-    "Broadcom Wi‑Fi chips (BCM4360, BCM4364, BCM4365)",
-    "Broadcom Ethernet controllers",
-    "Broadcom broadband modems",
-    "Broadcom storage controllers",
-    "Broadcom infrastructure software (NetXtreme, Cloud)"
+    "Wi‑Fi and 802.11 wireless chips",
+    "Ethernet controllers",
+    "Broadband modems",
+    "Storage controller ASICs",
+    "5G mobile modem chips"
   ],
-  "extracted_at": "2026-05-08 17:04:47",
+  "extracted_at": "2026-05-11 17:53:02",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,9 +41,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/List_of_computer_hardware_manufacturers",
+      "url": "https://en.wikipedia.org/wiki/Broadcom",
       "query": "Broadcom Inc. suppliers manufacturers",
-      "snippet": "Broadcom Inc . (ARM-based, e.g. for Raspberry Pi). Google (ARM-based Axion and Tensor). Fujitsu (its ARM-based CPU used in top supercomputer, still al"
+      "snippet": "Broadcom Inc . is an American multinational designer, developer, manufacturer , and global supplier of a wide range of semiconductor and infrastructur"
     },
     {
       "source": "DuckDuckGo",
@@ -53,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://investors.broadcom.com/",
+      "url": "https://en.wikipedia.org/wiki/Broadcom",
       "query": "Broadcom Inc. major customers clients",
-      "snippet": "VMware Tanzu® Supercharges Portfolio to Help Customers Build, Run, and..."
+      "snippet": "Broadcom Inc . is an American multinational designer, developer, manufacturer, and global supplier of a wide range of semiconductor and infrastructure"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.youtube.com/channel/UCTr3zah69bISSVdBcHiKhpA",
+      "url": "https://www.broadcom.com/support",
       "query": "Broadcom Inc. major customers clients",
-      "snippet": "Broadcom ’s infrastructure software solutions serve markets including private cloud, mainframe software, cybersecurity, enterprise software, and Fibre"
+      "snippet": "Access Broadcom 's Customer Support Portal to obtain warranty information, find documentation and downloads, and answer other questions you might have"
     }
   ]
 }
