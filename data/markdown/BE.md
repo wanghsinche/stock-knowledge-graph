@@ -3,8 +3,8 @@ ticker: BE
 company: Bloom Energy Corporation
 sector: Industrials
 industry: Electrical Equipment & Parts
-extracted_at: 2026-05-11 17:54:47
-last_updated: 2026-05-11
+extracted_at: 2026-05-12 18:00:36
+last_updated: 2026-05-12
 ---
 
 # BE - Bloom Energy Corporation
@@ -12,37 +12,37 @@ last_updated: 2026-05-11
 ## 基本信息
 
 - **所属行业**: Industrials / Electrical Equipment & Parts
-- **提取时间**: 2026-05-11 17:54:47
+- **提取时间**: 2026-05-12 18:00:36
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Natural gas suppliers]]
-- [[Biogas providers]]
-- [[Hydrogen producers]]
-- [[Electrolyzer component manufacturers]]
-- [[Fuel cell stack suppliers]]
+- [[General Electric]]
+- [[Siemens]]
+- [[Baker Hughes]]
+- [[Cummins]]
+- [[BASF]]
 
 ### 下游客户
+- [[AMZN]]
 - [[GOOGL]]
-- [[Manufacturing facilities]]
-- [[Commercial building owners]]
-- [[Utility companies]]
-- [[Industrial power users]]
+- [[MSFT]]
+- [[Facebook]]
+- [[AAPL]]
 
 ### 竞争对手
-- [[FuelCell Energy]]
-- [[Plug Power]]
-- [[Ballard Power Systems]]
-- [[Bloom Energy's own subsidiary (Bloom Energy Solutions)]]
-- [[Engie (fuel cell division)]]
+- [[Engie]]
+- [[Siemens Energy]]
+- [[General Electric]]
+- [[Cummins]]
+- [[Nexamp]]
 
 ### 核心产品
 - [[Solid Oxide Fuel Cells (SOFCs)]]
 - [[Electrolyzers for hydrogen production]]
-- [[Power modules and stacks]]
-- [[On‑site power systems]]
-- [[Energy management software]]
+- [[Power electronics]]
+- [[Fuel cell stacks]]
+- [[Onsite power generation systems]]
 
 ## 数据来源
 
@@ -54,4 +54,4 @@ last_updated: 2026-05-11
 
 ## 元数据
 
-- **更新日期**: 2026-05-11
+- **更新日期**: 2026-05-12

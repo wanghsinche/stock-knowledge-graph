@@ -4,34 +4,34 @@
   "sector": "Technology",
   "industry": "Computer Hardware",
   "upstream": [
-    "Ion trap component manufacturers",
-    "Laser system suppliers",
-    "Vacuum chamber suppliers",
-    "Cryogenic equipment providers",
-    "Quantum software integration partners"
+    "Laser system manufacturers (e.g., Coherent, Thorlabs)",
+    "Vacuum system suppliers (e.g., Edwards, Leybold)",
+    "Cryogenic equipment providers (e.g., Cryomech)",
+    "Electronic component suppliers (e.g., National Instruments)",
+    "Ion trap component manufacturers (custom in‑house or specialized vendors)"
   ],
   "downstream": [
-    "Enterprise customers seeking quantum computing",
-    "Academic research institutions",
-    "Government research labs",
-    "Cloud service providers",
-    "Financial services firms"
+    "MSFT",
+    "Enterprise research institutions (MIT, Harvard, Stanford)",
+    "Pharmaceutical companies (e.g., Pfizer, Merck)",
+    "Financial services firms (e.g., JPMorgan, Goldman Sachs)",
+    "Automotive manufacturers (e.g., Toyota)"
   ],
   "competitors": [
     "Rigetti Computing",
     "D-Wave Systems",
-    "Honeywell Quantum Solutions",
-    "Quantum Circuits, Inc.",
-    "Q-CTRL"
+    "Quantinuum (Honeywell)",
+    "Xanadu",
+    "PsiQuantum"
   ],
   "key_products": [
-    "Trapped ion quantum computer",
+    "Trapped‑ion quantum processors",
     "Quantum computing cloud platform",
-    "Quantum circuit optimization software",
-    "Quantum hardware SDK",
-    "Quantum error correction tools"
+    "Quantum software stack (Qiskit, Cirq integration)",
+    "Quantum optimization services",
+    "Quantum algorithm development tools"
   ],
-  "extracted_at": "2026-05-11 17:55:15",
+  "extracted_at": "2026-05-12 17:58:42",
   "sources": [
     {
       "source": "Wikipedia",
@@ -59,9 +59,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.fool.com/earnings/call-transcripts/2026/05/06/ionq-ionq-q1-2026-earnings-call-transcript/",
+      "url": "https://www.youtube.com/watch?v=ZDn2HA62z-8",
       "query": "IonQ, Inc. major customers clients",
-      "snippet": "IonQ , Inc . is defining the quantum technology market and establishing the leading hardware and software quantum industrial ecosystem. Our organic pe"
+      "snippet": "In this video, we take a deep dive into IonQ Inc . (NYSE: IONQ ), a leading company in trapped-ion quantum computing, working to reshape industries wi"
     }
   ]
 }

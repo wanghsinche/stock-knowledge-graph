@@ -3,8 +3,8 @@ ticker: ASTS
 company: AST SpaceMobile, Inc.
 sector: Technology
 industry: Communication Equipment
-extracted_at: 2026-05-11 17:56:34
-last_updated: 2026-05-11
+extracted_at: 2026-05-12 17:58:01
+last_updated: 2026-05-12
 ---
 
 # ASTS - AST SpaceMobile, Inc.
@@ -12,46 +12,46 @@ last_updated: 2026-05-11
 ## 基本信息
 
 - **所属行业**: Technology / Communication Equipment
-- **提取时间**: 2026-05-11 17:56:34
+- **提取时间**: 2026-05-12 17:58:01
 
 ## 产业链关系
 
 ### 上游供应商
 - [[Lockheed Martin]]
 - [[Boeing]]
-- [[SpaceX]]
-- [[Airbus]]
-- [[Thales Alenia Space]]
+- [[Northrop Grumman]]
+- [[Raytheon Technologies]]
+- [[Honeywell Aerospace]]
 
 ### 下游客户
 - [[AT&T]]
 - [[Verizon]]
 - [[T-Mobile]]
-- [[GOOGL]]
-- [[AMZN]]
+- [[CAT]]
+- [[NASA]]
 
 ### 竞争对手
 - [[SpaceX Starlink]]
 - [[OneWeb]]
 - [[AMZN]]
 - [[Telesat]]
-- [[Iridium]]
+- [[Hughes Network Systems]]
 
 ### 核心产品
-- [[Satellite broadband service]]
-- [[Low Earth Orbit satellite network]]
-- [[Ground terminal equipment]]
-- [[Satellite payloads]]
-- [[Space-based internet platform]]
+- [[Space-based broadband satellite constellation]]
+- [[Satellite broadband services]]
+- [[Satellite terminals]]
+- [[Ground station infrastructure]]
+- [[RF communication equipment]]
 
 ## 数据来源
 
 - 
 - [AST SpaceMobile, Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/AST_SpaceMobile)
-- [AST SpaceMobile, Inc. suppliers manufacturers](https://umbrex.com/resources/ast-spacemobile-strategy-and-business-model/)
-- [AST SpaceMobile, Inc. major customers clients](https://en.wikipedia.org/wiki/AST_SpaceMobile)
-- [AST SpaceMobile, Inc. major customers clients](https://www.tradingview.com/news/marketbeat:c5a25be25094b:0-ast-spacemobile-5-reasons-to-buy-this-tiny-trailblazer-stock/)
+- [AST SpaceMobile, Inc. suppliers manufacturers](https://ast-science.com/)
+- [AST SpaceMobile, Inc. competitors alternatives](https://en.wikipedia.org/wiki/AST_SpaceMobile)
+- [AST SpaceMobile, Inc. competitors alternatives](https://simplywall.st/stocks/us/telecom/nasdaq-asts/ast-spacemobile)
 
 ## 元数据
 
-- **更新日期**: 2026-05-11
+- **更新日期**: 2026-05-12

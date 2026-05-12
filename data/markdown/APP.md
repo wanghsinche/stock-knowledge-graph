@@ -3,8 +3,8 @@ ticker: APP
 company: AppLovin Corporation
 sector: Communication Services
 industry: Advertising Agencies
-extracted_at: 2026-05-11 17:59:39
-last_updated: 2026-05-11
+extracted_at: 2026-05-12 18:03:05
+last_updated: 2026-05-12
 ---
 
 # APP - AppLovin Corporation
@@ -12,7 +12,7 @@ last_updated: 2026-05-11
 ## 基本信息
 
 - **所属行业**: Communication Services / Advertising Agencies
-- **提取时间**: 2026-05-11 17:59:39
+- **提取时间**: 2026-05-12 18:03:05
 
 ## 产业链关系
 
@@ -20,38 +20,38 @@ last_updated: 2026-05-11
 - [[GOOGL]]
 - [[AMZN]]
 - [[MSFT]]
-- [[Facebook Audience Network]]
-- [[Ad exchange partners]]
+- [[Facebook]]
+- [[Twitter]]
 
 ### 下游客户
 - [[Mobile app developers]]
-- [[Game studios]]
 - [[Advertisers]]
-- [[Brands]]
-- [[Marketing agencies]]
+- [[Gaming companies]]
+- [[Media companies]]
+- [[E-commerce platforms]]
 
 ### 竞争对手
-- [[The Trade Desk]]
-- [[GOOGL]]
-- [[Facebook Ads]]
-- [[Unity Ads]]
+- [[Unity Technologies]]
+- [[IronSource]]
+- [[AdColony]]
 - [[Vungle]]
+- [[GOOGL]]
 
 ### 核心产品
-- [[Mobile advertising platform]]
-- [[App monetization solutions]]
-- [[User acquisition services]]
-- [[Data analytics and insights]]
-- [[Video advertising (rewarded & interstitial)]]
+- [[AppLovin Marketing Platform]]
+- [[AppLovin SDK]]
+- [[AppLovin Audience Network]]
+- [[AppLovin Data Platform]]
+- [[AppLovin Mobile Advertising Solutions]]
 
 ## 数据来源
 
 - 
-- [AppLovin Corporation suppliers manufacturers](https://en.wikipedia.org/wiki/AppLovin)
-- [AppLovin Corporation suppliers manufacturers](https://csimarket.com/stocks/APP-Suppliers)
 - [AppLovin Corporation major customers clients](https://www.applovin.com/)
-- [AppLovin Corporation major customers clients](https://tradesoftheday.com/2026/05/08/applovin-nasdaq-app-breaks-out-of-triangle-analysts-see-33-upside/)
+- [AppLovin Corporation major customers clients](https://www.insidermonkey.com/blog/applovin-corporation-nasdaqapp-q1-2026-earnings-call-transcript-1756993/)
+- [AppLovin Corporation competitors alternatives](https://pitchgrade.com/companies/applovin)
+- [AppLovin Corporation competitors alternatives](https://www.globaldata.com/company-profile/applovin-corporation/competitors/)
 
 ## 元数据
 
-- **更新日期**: 2026-05-11
+- **更新日期**: 2026-05-12

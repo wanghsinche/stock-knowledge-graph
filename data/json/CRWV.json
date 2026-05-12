@@ -7,31 +7,31 @@
     "NVDA",
     "AMD",
     "INTC",
-    "DELL",
-    "HPQ"
+    "GOOGL",
+    "AMZN"
   ],
   "downstream": [
-    "AI research labs",
-    "Enterprise AI developers",
-    "Startups in machine learning",
-    "Gaming and eSports companies",
-    "Academic institutions"
-  ],
-  "competitors": [
-    "AMZN",
+    "OpenAI",
     "GOOGL",
     "MSFT",
+    "AMZN",
+    "DeepMind"
+  ],
+  "competitors": [
     "NVDA",
+    "AWS Inferentia",
+    "GOOGL",
+    "MSFT",
     "IBM"
   ],
   "key_products": [
-    "GPU‑based cloud compute instances",
-    "GPU cluster orchestration software",
-    "AI workload management platform",
-    "High‑performance GPU networking",
-    "Custom GPU hardware configurations"
+    "GPU‑based cloud infrastructure",
+    "GPU management software",
+    "AI training and inference services",
+    "GPU virtualization platform",
+    "AI compute orchestration tools"
   ],
-  "extracted_at": "2026-05-11 17:55:30",
+  "extracted_at": "2026-05-12 17:57:00",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,9 +47,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.allvest.co/us-stocks/coreweave-inc",
+      "url": "https://investors.coreweave.com/",
       "query": "CoreWeave, Inc. suppliers manufacturers",
-      "snippet": "CoreWeave , Inc ., formerly known as Atlantic Crypto Corporation, is a leading provider of AI cloud infrastructure. Incorporated in 2017 and based in "
+      "snippet": "Trusted by leading AI labs, startups, and global enterprises, CoreWeave serves as a force multiplier by combining superior infrastructure performance "
     },
     {
       "source": "DuckDuckGo",

@@ -2,36 +2,36 @@
   "ticker": "COIN",
   "company_name": "Coinbase Global, Inc.",
   "sector": "Financial Services",
-  "industry": "Financial Data & Stock Exchanges",
+  "industry": "Cryptocurrency Exchange & Financial Data",
   "upstream": [
     "AMZN",
     "MSFT",
     "GOOGL",
     "Stripe",
-    "PayPal"
+    "Coinbase's own blockchain infrastructure"
   ],
   "downstream": [
-    "Retail cryptocurrency users",
+    "Retail cryptocurrency traders",
     "Institutional investors",
-    "Merchant partners",
-    "DeFi protocols",
-    "Financial institutions"
+    "Merchant payment processors",
+    "DeFi protocol developers",
+    "Crypto asset custodians"
   ],
   "competitors": [
     "Binance",
     "Kraken",
     "Gemini",
     "Bitstamp",
-    "FTX (formerly)"
+    "Huobi"
   ],
   "key_products": [
-    "Coinbase Exchange",
-    "Coinbase Custody",
+    "Coinbase Pro",
     "Coinbase Wallet",
+    "Coinbase Custody",
     "Coinbase Earn",
-    "Coinbase Card"
+    "Coinbase Prime"
   ],
-  "extracted_at": "2026-05-11 17:59:05",
+  "extracted_at": "2026-05-12 18:02:39",
   "sources": [
     {
       "source": "Wikipedia",
@@ -55,13 +55,13 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Coinbase",
       "query": "Coinbase Global, Inc. major customers clients",
-      "snippet": "Coinbase has over 100 million users, and is the largest U.S. based cryptocurrency exchange as well as the world's biggest bitcoin custodian, as of 202"
+      "snippet": "Coinbase Global , Inc . is an American cryptocurrency exchange. It was founded in 2012 by Brian Armstrong and Fred Ehrsam."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.coinbase.com/institutional/clients",
+      "url": "https://finance.yahoo.com/quote/COIN/",
       "query": "Coinbase Global, Inc. major customers clients",
-      "snippet": "Trusted by the world's leading institutions ... Coinbase Institutional is the market leader in delivering crypto solutions to global financial service"
+      "snippet": "Find the latest Coinbase Global , Inc . (COIN) stock quote, history, news and other vital information to help you with your stock trading and investin"
     }
   ]
 }

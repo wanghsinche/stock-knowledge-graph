@@ -3,8 +3,8 @@ ticker: COHR
 company: Coherent Corp.
 sector: Technology
 industry: Scientific & Technical Instruments
-extracted_at: 2026-05-11 17:54:32
-last_updated: 2026-05-11
+extracted_at: 2026-05-12 18:00:21
+last_updated: 2026-05-12
 ---
 
 # COHR - Coherent Corp.
@@ -12,37 +12,37 @@ last_updated: 2026-05-11
 ## 基本信息
 
 - **所属行业**: Technology / Scientific & Technical Instruments
-- **提取时间**: 2026-05-11 17:54:32
+- **提取时间**: 2026-05-12 18:00:21
 
 ## 产业链关系
 
 ### 上游供应商
-- [[II-VI Incorporated]]
-- [[AMAT]]
-- [[ASML]]
-- [[Lattice Semiconductor]]
-- [[Nikon]]
+- [[Optical material suppliers]]
+- [[Semiconductor component manufacturers]]
+- [[Laser diode producers]]
+- [[Photonic device suppliers]]
+- [[Precision optics manufacturers]]
 
 ### 下游客户
-- [[Boeing]]
-- [[Lockheed Martin]]
-- [[QCOM]]
-- [[005930.KS]]
-- [[INTC]]
+- [[Scientific research institutions]]
+- [[Defense and aerospace contractors]]
+- [[CAT]]
+- [[Medical imaging and laser therapy companies]]
+- [[Industrial manufacturing and automation firms]]
 
 ### 竞争对手
-- [[II-VI Incorporated]]
-- [[Lattice Semiconductor]]
-- [[AMAT]]
-- [[Lumentum Holdings]]
-- [[Trumpf]]
+- [[Thorlabs]]
+- [[Newport Corporation]]
+- [[Edmund Optics]]
+- [[Laser Components]]
+- [[Coherent (formerly Coherent Inc.)]]
 
 ### 核心产品
+- [[Solid-state laser systems]]
 - [[Laser diodes]]
-- [[Optical fibers]]
+- [[Optical components (mirrors, lenses, gratings)]]
 - [[Photonic integrated circuits]]
-- [[Semiconductor lasers]]
-- [[Optical amplifiers]]
+- [[Laser-based measurement and sensing devices]]
 
 ## 数据来源
 
@@ -50,8 +50,8 @@ last_updated: 2026-05-11
 - [Coherent Corp. suppliers manufacturers](https://en.wikipedia.org/wiki/Coherent_Corp.)
 - [Coherent Corp. suppliers manufacturers](https://www.coherent.com/)
 - [Coherent Corp. major customers clients](https://www.coherent.com/)
-- [Coherent Corp. major customers clients](https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pZbmNPSkVSRzdXOUhMWEJTZzFDZ0FQAQ?hl=en-UG&gl=UG&ceid=UG:en)
+- [Coherent Corp. major customers clients](https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pZbmNPSkVSSEZpczlmTDJ0R3VpZ0FQAQ?hl=en-NA&gl=NA&ceid=NA:en)
 
 ## 元数据
 
-- **更新日期**: 2026-05-11
+- **更新日期**: 2026-05-12

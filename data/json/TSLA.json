@@ -1,37 +1,37 @@
 {
   "ticker": "TSLA",
   "company_name": "Tesla, Inc.",
-  "sector": "Consumer Cyclical / Auto Manufacturers",
-  "industry": "Automotive",
+  "sector": "Consumer Cyclical",
+  "industry": "Auto Manufacturers",
   "upstream": [
     "Panasonic",
     "LG Chem",
     "CAT",
-    "Bosch",
-    "NVDA"
+    "005930.KS",
+    "TSLA"
   ],
   "downstream": [
-    "U.S. consumers",
-    "Chinese consumers",
-    "fleet operators (e.g., Uber, Lyft)",
-    "government agencies (e.g., U.S. Department of Energy)",
-    "AMZN"
+    "Individual consumers",
+    "Ride‑hailing fleets (Uber, Lyft)",
+    "Commercial fleet operators",
+    "Government agencies",
+    "Electric utility companies"
   ],
   "competitors": [
-    "Ford",
     "General Motors",
+    "Ford",
     "Volkswagen",
-    "Toyota",
-    "Hyundai"
+    "Hyundai",
+    "Rivian"
   ],
   "key_products": [
+    "Model S",
     "Model 3",
+    "Model X",
     "Model Y",
-    "Cybertruck",
-    "Powerwall",
-    "Solar Roof"
+    "Powerwall"
   ],
-  "extracted_at": "2026-05-11 17:49:33",
+  "extracted_at": "2026-05-12 17:53:11",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,7 +43,7 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Tesla,_Inc.",
       "query": "Tesla, Inc. suppliers manufacturers",
-      "snippet": "4 days ago - The practice of vertical integration is rare in the automotive industry, where companies typically outsource 80% of components to supplie"
+      "snippet": "5 days ago - The practice of vertical integration is rare in the automotive industry, where companies typically outsource 80% of components to supplie"
     },
     {
       "source": "DuckDuckGo",
@@ -61,7 +61,7 @@
       "source": "DuckDuckGo",
       "url": "https://www.tesla.com/",
       "query": "Tesla, Inc. major customers clients",
-      "snippet": "Explore limited-time offers on Tesla vehicles. Learn More. Tesla vehicle. Inventory. Find nearby vehicles available for immediate delivery."
+      "snippet": "Tesla is building a world of amazing abundance with AI, electric cars, solar, home batteries and integrated renewable energy solutions for homes and b"
     }
   ]
 }

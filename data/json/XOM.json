@@ -4,18 +4,18 @@
   "sector": "Energy",
   "industry": "Oil & Gas Integrated",
   "upstream": [
-    "Oil and gas exploration equipment suppliers",
-    "Drilling rig manufacturers",
-    "Petrochemical feedstock suppliers",
-    "Geological survey companies",
-    "Seismic data providers"
+    "Halliburton",
+    "Schlumberger",
+    "Baker Hughes",
+    "Weatherford",
+    "National Oilwell Varco"
   ],
   "downstream": [
-    "Automotive fuel distributors",
-    "Airline fuel suppliers",
-    "Industrial petrochemical plants",
-    "Retail gasoline stations",
-    "Chemical manufacturing companies"
+    "American Airlines",
+    "Delta Air Lines",
+    "Chevron Phillips Chemical",
+    "PetroChina",
+    "Shell Oil & Gas"
   ],
   "competitors": [
     "Chevron",
@@ -27,17 +27,44 @@
   "key_products": [
     "Crude oil",
     "Natural gas",
-    "Refined petroleum products (gasoline, diesel, jet fuel)",
-    "Petrochemicals (plastics, synthetic rubber)",
-    "Lubricants"
+    "Gasoline",
+    "Diesel fuel",
+    "Jet fuel",
+    "Petrochemicals",
+    "Plastics",
+    "Synthetic rubber"
   ],
-  "extracted_at": "2026-05-06 17:37:12",
+  "extracted_at": "2026-05-12 18:04:17",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Exxon_Mobil_Corporation",
       "title": "ExxonMobil",
       "snippet": "Exxon Mobil Corporation is an American multinational oil and gas corporation headquartered in Spring, Texas, a suburb of Houston. Founded as the largest direct successor of John D. Rockefeller's Stand"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/ExxonMobil",
+      "query": "Exxon Mobil Corporation suppliers manufacturers",
+      "snippet": "Exxon Mobil Corporation . Floating cube at ExxonMobil headquarters in Spring, Texas."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://corporate.exxonmobil.com/procurement/exxonmobil-for-suppliers",
+      "query": "Exxon Mobil Corporation suppliers manufacturers",
+      "snippet": "Learn about our supplier ’s collaboration portal, which provides suppliers with access to collaborate with us, view invoices, report issues, & submit "
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/History_of_ExxonMobil",
+      "query": "Exxon Mobil Corporation major customers clients",
+      "snippet": "ExxonMobil , an American multinational oil and gas corporation presently based out of Texas, has had one of the longest histories of any company in it"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://corporate.exxonmobil.com/",
+      "query": "Exxon Mobil Corporation major customers clients",
+      "snippet": "ExxonMobil scientists are pioneering new research & technologies to reduce emissions. Learn how we are responsibly meeting the world's energy needs."
     }
   ]
 }

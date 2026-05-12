@@ -4,36 +4,34 @@
   "sector": "Financial Services",
   "industry": "Banks - Diversified",
   "upstream": [
-    "IBM",
     "ORCL",
     "MSFT",
-    "CRM",
-    "Accenture"
+    "IBM",
+    "SAP",
+    "AMZN"
   ],
   "downstream": [
-    "Retail customers",
-    "Corporate clients",
+    "Retail banking customers",
+    "Corporate banking clients",
     "Institutional investors",
-    "Small businesses",
-    "Government agencies"
+    "Wealth management clients",
+    "Credit card holders"
   ],
   "competitors": [
-    "Goldman Sachs (GS)",
-    "Bank of America (BAC)",
-    "Citigroup (C)",
-    "Wells Fargo (WFC)",
-    "Morgan Stanley (MS)"
+    "Bank of America",
+    "Citigroup",
+    "Wells Fargo",
+    "Goldman Sachs",
+    "Morgan Stanley"
   ],
   "key_products": [
-    "Retail banking",
+    "Consumer banking services",
+    "Corporate banking and lending",
     "Investment banking",
-    "Asset management",
-    "Wealth management",
-    "Credit cards",
-    "Loans",
-    "Treasury services"
+    "Asset and wealth management",
+    "Credit card and payment services"
   ],
-  "extracted_at": "2026-05-08 17:11:22",
+  "extracted_at": "2026-05-12 18:00:57",
   "sources": [
     {
       "source": "Wikipedia",

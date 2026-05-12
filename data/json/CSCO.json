@@ -1,43 +1,43 @@
 {
   "ticker": "CSCO",
   "company_name": "Cisco Systems, Inc.",
-  "sector": "Technology",
-  "industry": "Communication Equipment",
+  "sector": "Technology / Communication Equipment",
+  "industry": "Networking Equipment",
   "upstream": [
+    "INTC",
     "QCOM",
     "AVGO",
-    "INTC",
     "TXN",
     "NVDA"
   ],
   "downstream": [
     "AT&T",
     "Verizon",
+    "T-Mobile",
     "GOOGL",
-    "MSFT",
-    "U.S. Department of Defense"
+    "MSFT"
   ],
   "competitors": [
     "JNPR",
-    "Huawei",
     "ANET",
-    "Nokia",
-    "Ericsson"
+    "Huawei",
+    "HPQ",
+    "DELL"
   ],
   "key_products": [
     "Cisco routers",
     "Cisco switches",
+    "Cisco firewalls",
     "Cisco wireless access points",
-    "Cisco security appliances (e.g., ASA, Firepower)",
-    "Webex collaboration platform"
+    "Cisco collaboration solutions"
   ],
-  "extracted_at": "2026-05-11 17:59:20",
+  "extracted_at": "2026-05-12 17:59:11",
   "sources": [
     {
       "source": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Cisco_Systems,_Inc.",
-      "title": "Cisco",
-      "snippet": "Cisco Systems, Inc., doing business as Cisco, is an American multinational technology conglomerate corporation that develops, manufactures, and sells hardware, software, telecommunications equipment a"
+      "url": "",
+      "title": "",
+      "snippet": ""
     },
     {
       "source": "DuckDuckGo",

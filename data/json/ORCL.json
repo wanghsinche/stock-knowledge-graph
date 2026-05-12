@@ -4,34 +4,34 @@
   "sector": "Technology",
   "industry": "Software - Infrastructure",
   "upstream": [
-    "DELL",
-    "MSFT",
     "AMD",
-    "Software component vendors (e.g., Java, Linux)",
-    "Data center service providers"
+    "DELL",
+    "CSCO",
+    "Software component vendors (e.g., Java, Linux distributions)",
+    "GOOGL"
   ],
   "downstream": [
-    "Large enterprises (e.g., Walmart, JPMorgan Chase)",
-    "Government agencies (e.g., U.S. Department of Defense)",
-    "Financial institutions (e.g., Bank of America)",
-    "Healthcare organizations (e.g., Mayo Clinic)",
-    "Retail chains (e.g., Target)"
+    "Large enterprises (e.g., banks, insurance firms)",
+    "Government agencies",
+    "Healthcare organizations",
+    "Retail and e‑commerce companies",
+    "CAT"
   ],
   "competitors": [
     "MSFT",
     "AMZN",
     "IBM",
-    "SAP SE",
+    "SAP (SAP HANA, SAP Cloud)",
     "GOOGL"
   ],
   "key_products": [
-    "Oracle Database",
-    "Oracle Cloud Infrastructure",
-    "Oracle Autonomous Database",
-    "Oracle Fusion Applications",
-    "Oracle E-Business Suite"
+    "Oracle Database (including Autonomous Database)",
+    "Oracle Cloud Infrastructure (OCI)",
+    "Oracle ERP Cloud",
+    "Oracle Fusion Cloud Applications",
+    "Oracle Analytics Cloud"
   ],
-  "extracted_at": "2026-05-11 17:56:02",
+  "extracted_at": "2026-05-12 17:56:36",
   "sources": [
     {
       "source": "Wikipedia",

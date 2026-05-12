@@ -2,17 +2,17 @@
 ticker: COIN
 company: Coinbase Global, Inc.
 sector: Financial Services
-industry: Financial Data & Stock Exchanges
-extracted_at: 2026-05-11 17:59:05
-last_updated: 2026-05-11
+industry: Cryptocurrency Exchange & Financial Data
+extracted_at: 2026-05-12 18:02:39
+last_updated: 2026-05-12
 ---
 
 # COIN - Coinbase Global, Inc.
 
 ## 基本信息
 
-- **所属行业**: Financial Services / Financial Data & Stock Exchanges
-- **提取时间**: 2026-05-11 17:59:05
+- **所属行业**: Financial Services / Cryptocurrency Exchange & Financial Data
+- **提取时间**: 2026-05-12 18:02:39
 
 ## 产业链关系
 
@@ -21,28 +21,28 @@ last_updated: 2026-05-11
 - [[MSFT]]
 - [[GOOGL]]
 - [[Stripe]]
-- [[PayPal]]
+- [[Coinbase's own blockchain infrastructure]]
 
 ### 下游客户
-- [[Retail cryptocurrency users]]
+- [[Retail cryptocurrency traders]]
 - [[Institutional investors]]
-- [[Merchant partners]]
-- [[DeFi protocols]]
-- [[Financial institutions]]
+- [[Merchant payment processors]]
+- [[DeFi protocol developers]]
+- [[Crypto asset custodians]]
 
 ### 竞争对手
 - [[Binance]]
 - [[Kraken]]
 - [[Gemini]]
 - [[Bitstamp]]
-- [[FTX (formerly)]]
+- [[Huobi]]
 
 ### 核心产品
-- [[Coinbase Exchange]]
-- [[Coinbase Custody]]
+- [[Coinbase Pro]]
 - [[Coinbase Wallet]]
+- [[Coinbase Custody]]
 - [[Coinbase Earn]]
-- [[Coinbase Card]]
+- [[Coinbase Prime]]
 
 ## 数据来源
 
@@ -50,8 +50,8 @@ last_updated: 2026-05-11
 - [Coinbase Global, Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/Coinbase)
 - [Coinbase Global, Inc. suppliers manufacturers](https://ru.wikipedia.org/wiki/Coinbase)
 - [Coinbase Global, Inc. major customers clients](https://en.wikipedia.org/wiki/Coinbase)
-- [Coinbase Global, Inc. major customers clients](https://www.coinbase.com/institutional/clients)
+- [Coinbase Global, Inc. major customers clients](https://finance.yahoo.com/quote/COIN/)
 
 ## 元数据
 
-- **更新日期**: 2026-05-11
+- **更新日期**: 2026-05-12

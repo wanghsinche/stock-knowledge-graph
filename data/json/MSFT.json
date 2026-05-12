@@ -7,15 +7,15 @@
     "INTC",
     "AMD",
     "NVDA",
-    "005930.KS",
+    "QCOM",
     "TSM"
   ],
   "downstream": [
-    "Enterprise customers",
+    "Enterprise customers (Fortune 500)",
     "Government agencies",
-    "OEM partners",
-    "Consumers",
-    "Cloud service users"
+    "Small and medium businesses",
+    "Consumers (personal devices)",
+    "CAT"
   ],
   "competitors": [
     "AAPL",
@@ -25,13 +25,13 @@
     "IBM"
   ],
   "key_products": [
-    "Windows OS",
-    "Microsoft Office",
-    "Azure Cloud",
-    "Surface devices",
-    "Xbox"
+    "Windows operating system",
+    "Microsoft Office suite",
+    "Azure cloud platform",
+    "Surface hardware line",
+    "Xbox gaming console"
   ],
-  "extracted_at": "2026-05-11 17:51:09",
+  "extracted_at": "2026-05-12 17:54:10",
   "sources": [
     {
       "source": "Wikipedia",
@@ -59,9 +59,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.zdnet.com/article/microsoft-corporate-friends-push-new-office/",
+      "url": "https://account.microsoft.com/account/Account/",
       "query": "Microsoft Corporation major customers clients",
-      "snippet": "Home Business Companies Microsoft . Microsoft , corporate friends push new Office. The software giant is bringing out some big corporate names to help"
+      "snippet": "Skip to main content. Microsoft . Account.Search Search Microsoft .com. No results. Cancel."
     }
   ]
 }

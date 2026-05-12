@@ -3,11 +3,35 @@
   "company_name": "Eli Lilly and Company",
   "sector": "Healthcare",
   "industry": "Drug Manufacturers - General",
-  "upstream": [],
-  "downstream": [],
-  "competitors": [],
-  "key_products": [],
-  "extracted_at": "2026-05-11 17:57:24",
+  "upstream": [
+    "BASF",
+    "Dow Chemical",
+    "Ciba Specialty Chemicals",
+    "SABIC",
+    "DuPont"
+  ],
+  "downstream": [
+    "UnitedHealth Group",
+    "Kaiser Permanente",
+    "US Department of Veterans Affairs",
+    "CVS Health",
+    "Walgreens Boots Alliance"
+  ],
+  "competitors": [
+    "Pfizer",
+    "Johnson & Johnson",
+    "Novartis",
+    "Merck",
+    "AbbVie"
+  ],
+  "key_products": [
+    "Humira (adalimumab)",
+    "Trulicity (dulaglutide)",
+    "Mounjaro (tirzepatide)",
+    "Jardiance (empagliflozin)",
+    "Zyprexa (olanzapine)"
+  ],
+  "extracted_at": "2026-05-12 18:00:09",
   "sources": [
     {
       "source": "Wikipedia",
@@ -26,6 +50,18 @@
       "url": "https://www.lilly.com/",
       "query": "Eli Lilly and Company suppliers manufacturers",
       "snippet": "Lilly is a medicine company that puts health above all. Learn about our medicines, view condition support, find care, and much more. Lilly employee wo"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/Eli_Lilly_and_Company",
+      "query": "Eli Lilly and Company major customers clients",
+      "snippet": "Eli Lilly and Company , doing business as Lilly , is an American multinational pharmaceutical company headquartered in Indianapolis, Indiana, with off"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.linkedin.com/company/eli-lilly-and-company",
+      "query": "Eli Lilly and Company major customers clients",
+      "snippet": "Eli Lilly and Company | 2,678,308 followers on LinkedIn. We're a medicine company turning science into healing to make life better for people around t"
     }
   ]
 }

@@ -1,10 +1,10 @@
 ---
 ticker: CRCL
 company: Circle Internet Group
-sector: Financial Services
-industry: Capital Markets / Payments Technology
-extracted_at: 2026-05-11 17:52:28
-last_updated: 2026-05-11
+sector: Financial Services / Capital Markets
+industry: Payments Technology
+extracted_at: 2026-05-12 17:56:48
+last_updated: 2026-05-12
 ---
 
 # CRCL - Circle Internet Group
@@ -12,37 +12,35 @@ last_updated: 2026-05-11
 ## 基本信息
 
 - **所属行业**: Financial Services / Capital Markets / Payments Technology
-- **提取时间**: 2026-05-11 17:52:28
+- **提取时间**: 2026-05-12 17:56:48
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Blockchain infrastructure providers (e.g., Ethereum, Algorand)]]
-- [[Fiat currency custodians and banks]]
-- [[Regulatory compliance and audit firms]]
-- [[Cloud service providers (AWS, Azure)]]
-- [[Payment processing platforms]]
+- [[USD reserves]]
+- [[US Treasury bonds]]
+- [[Bank deposits]]
 
 ### 下游客户
-- [[Cryptocurrency exchanges (Binance, Coinbase)]]
-- [[Institutional investors and treasury teams]]
-- [[Retail merchants accepting stablecoins]]
-- [[Financial institutions (banks, payment processors)]]
-- [[Fintech partners using Circle’s APIs]]
+- [[Cryptocurrency exchanges]]
+- [[DeFi protocols]]
+- [[Payment processors]]
+- [[Retail investors]]
+- [[Institutional investors]]
 
 ### 竞争对手
 - [[Coinbase]]
+- [[PayPal]]
+- [[Square]]
+- [[Stripe]]
 - [[Gemini]]
-- [[Paxos]]
-- [[Tether]]
-- [[Binance]]
 
 ### 核心产品
-- [[USDC (USD Coin)]]
-- [[EURC (Euro Coin)]]
-- [[USYC (USD Yield Coin)]]
+- [[USDC]]
+- [[EURC]]
+- [[USYC]]
 - [[Circle Pay]]
-- [[Circle Wallet]]
+- [[Circle Invest]]
 
 ## 数据来源
 
@@ -50,8 +48,8 @@ last_updated: 2026-05-11
 - [Circle Internet Group suppliers manufacturers](https://en.wikipedia.org/wiki/USDC_(cryptocurrency))
 - [Circle Internet Group suppliers manufacturers](https://www.alibaba.com/)
 - [Circle Internet Group major customers clients](https://en.wikipedia.org/wiki/USDC_(cryptocurrency))
-- [Circle Internet Group major customers clients](https://www.fool.com/investing/2025/06/27/carnivals-success-circle-internet-groups-rise-and/)
+- [Circle Internet Group major customers clients](https://www.fool.com/investing/2025/07/10/has-circle-internet-groups-stock-already-peaked/)
 
 ## 元数据
 
-- **更新日期**: 2026-05-11
+- **更新日期**: 2026-05-12

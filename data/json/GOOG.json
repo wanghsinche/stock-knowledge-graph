@@ -5,33 +5,35 @@
   "industry": "Internet Content & Information",
   "upstream": [
     "INTC",
-    "005930.KS",
-    "TSM",
+    "NVDA",
     "QCOM",
-    "NVDA"
+    "005930.KS",
+    "TSM"
   ],
   "downstream": [
-    "GOOGL",
     "005930.KS",
     "GOOGL",
-    "YouTube content creators",
+    "YouTube advertisers",
+    "GOOGL",
     "GOOGL"
   ],
   "competitors": [
-    "MSFT",
-    "AMZN",
     "META",
+    "AMZN",
+    "MSFT",
     "AAPL",
     "Tencent"
   ],
   "key_products": [
     "Google Search",
-    "YouTube",
-    "Google Cloud Platform",
     "Android OS",
+    "Google Cloud Platform",
+    "YouTube",
+    "Google Ads",
+    "Google Chrome",
     "Google Workspace"
   ],
-  "extracted_at": "2026-05-11 17:53:47",
+  "extracted_at": "2026-05-12 17:55:29",
   "sources": [
     {
       "source": "Wikipedia",

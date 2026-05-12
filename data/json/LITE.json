@@ -1,13 +1,37 @@
 {
   "ticker": "LITE",
   "company_name": "Lumentum Holdings Inc.",
-  "sector": "Technology",
-  "industry": "Communication Equipment",
-  "upstream": [],
-  "downstream": [],
-  "competitors": [],
-  "key_products": [],
-  "extracted_at": "2026-05-11 17:50:39",
+  "sector": "Technology / Communication Equipment",
+  "industry": "Optical Communications",
+  "upstream": [
+    "TSM",
+    "Optical component manufacturers (e.g., II-VI Incorporated, Coherent)",
+    "Laser diode suppliers",
+    "Fiber optic cable manufacturers",
+    "Photonic integrated circuit suppliers"
+  ],
+  "downstream": [
+    "CSCO",
+    "DELL",
+    "Industrial automation companies",
+    "Defense contractors (e.g., Raytheon, Lockheed Martin)",
+    "Medical imaging equipment manufacturers"
+  ],
+  "competitors": [
+    "II-VI Incorporated",
+    "Coherent",
+    "Newport Corporation",
+    "Finisar (now part of II-VI)",
+    "Lumenis"
+  ],
+  "key_products": [
+    "Laser diodes",
+    "Optical modulators",
+    "Photodetectors",
+    "Optical amplifiers",
+    "Optical transceivers"
+  ],
+  "extracted_at": "2026-05-12 17:54:26",
   "sources": [
     {
       "source": "Wikipedia",
@@ -17,15 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Lumentum",
+      "url": "https://csimarket.com/stocks/LITE-Suppliers",
       "query": "Lumentum Holdings Inc. suppliers manufacturers",
-      "snippet": "Lumentum Holdings Inc. is an American manufacturer of optical and photonic products. It was created in 2015 as a spinoff from JDSU. Missing: suppliers"
+      "snippet": "Lumentum Holdings Inc supply chain, list and performance of Lumentum Holdings Incs ' suppliers - CSIMarket."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://investor.lumentum.com/financial-news-releases/news-details/2026/Lumentum-Announces-New-U-S--Manufacturing-Facility-to-Produce-Advanced-Lasers-for-the-Worlds-Largest-AI-Data-Centers/default.aspx",
+      "url": "https://pitchgrade.com/companies/lumentum",
       "query": "Lumentum Holdings Inc. suppliers manufacturers",
-      "snippet": "Mar 26, 2026 · Built on decades of photonics innovation, Lumentum delivers high-performance lasers, modules, and optical subsystems that enable scalab"
+      "snippet": "How Does Lumentum Holdings Inc . Make Money? Lumentum Holdings Inc . manufactures and sells optical and photonic products in the Americas, the Asia-Pa"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/LITE-Customers",
+      "query": "Lumentum Holdings Inc. major customers clients",
+      "snippet": "Lumentum Holdings Inc customers and markets, results by customer and performance relative to LITE, by company and industry - CSIMarket."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://pitchgrade.com/companies/lumentum",
+      "query": "Lumentum Holdings Inc. major customers clients",
+      "snippet": "Customer Segments: Lumentum Holdings Inc . serves multiple distinct customer segments, which may include consumers, small and medium businesses, enter"
     }
   ]
 }

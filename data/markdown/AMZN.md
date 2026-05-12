@@ -3,8 +3,8 @@ ticker: AMZN
 company: Amazon.com, Inc.
 sector: Consumer Cyclical
 industry: Internet Retail
-extracted_at: 2026-05-11 17:51:54
-last_updated: 2026-05-11
+extracted_at: 2026-05-12 17:54:50
+last_updated: 2026-05-12
 ---
 
 # AMZN - Amazon.com, Inc.
@@ -12,37 +12,37 @@ last_updated: 2026-05-11
 ## 基本信息
 
 - **所属行业**: Consumer Cyclical / Internet Retail
-- **提取时间**: 2026-05-11 17:51:54
+- **提取时间**: 2026-05-12 17:54:50
 
 ## 产业链关系
 
 ### 上游供应商
-- [[005930.KS]]
-- [[AAPL]]
-- [[SONY]]
-- [[DELL]]
-- [[Nike, Inc.]]
+- [[Book publishers]]
+- [[Consumer electronics manufacturers]]
+- [[Fashion brands]]
+- [[Home goods manufacturers]]
+- [[AMZN]]
 
 ### 下游客户
-- [[NFLX]]
-- [[Airbnb, Inc.]]
-- [[MSFT]]
-- [[ADBE]]
-- [[Spotify Technology S.A.]]
+- [[Retail consumers]]
+- [[Enterprise IT customers (AWS)]]
+- [[Government agencies]]
+- [[Content creators]]
+- [[Advertisers]]
 
 ### 竞争对手
-- [[eBay Inc.]]
-- [[Walmart Inc.]]
-- [[Alibaba Group Holding Ltd.]]
-- [[Shopify Inc.]]
-- [[MSFT]]
+- [[Walmart]]
+- [[Alibaba]]
+- [[eBay]]
+- [[Shopify]]
+- [[Target]]
 
 ### 核心产品
 - [[Amazon.com marketplace]]
-- [[Amazon Prime]]
+- [[Amazon Prime subscription]]
 - [[Amazon Web Services (AWS)]]
-- [[Amazon Echo (Alexa)]]
-- [[Amazon Kindle]]
+- [[Amazon Echo/Alexa devices]]
+- [[Amazon Kindle e‑reader]]
 
 ## 数据来源
 
@@ -54,4 +54,4 @@ last_updated: 2026-05-11
 
 ## 元数据
 
-- **更新日期**: 2026-05-11
+- **更新日期**: 2026-05-12

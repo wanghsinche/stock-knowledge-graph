@@ -1,37 +1,37 @@
 {
   "ticker": "MELI",
   "company_name": "MercadoLibre, Inc.",
-  "sector": "Consumer Cyclical / Internet Retail",
-  "industry": "E‑commerce Marketplace",
+  "sector": "Consumer Cyclical",
+  "industry": "Internet Retail",
   "upstream": [
-    "MercadoPago (payment processing)",
-    "MercadoEnvíos (logistics & fulfillment)",
     "AMZN",
     "GOOGL",
-    "Local merchants & third‑party sellers"
+    "MSFT",
+    "Stripe",
+    "PayPal"
   ],
   "downstream": [
-    "Individual consumers across Latin America",
-    "Small and medium‑sized businesses using the platform",
-    "Large retailers such as Walmart Latin America",
-    "Online sellers from local marketplaces",
-    "Digital advertisers on MercadoLibre Advertising"
+    "Falabella",
+    "Walmart LATAM",
+    "Bodega Aurrerá",
+    "Local SMEs in Latin America",
+    "Large retail chains in Brazil"
   ],
   "competitors": [
     "AMZN",
     "Linio",
-    "Falabella",
-    "Walmart",
+    "Walmart e-commerce",
+    "Falabella e-commerce",
     "eBay"
   ],
   "key_products": [
-    "MercadoLibre Marketplace",
-    "MercadoPago payment platform",
-    "MercadoEnvíos logistics service",
-    "MercadoShops (storefronts)",
-    "Mercado Crédito (financing solutions)"
+    "Marketplace platform",
+    "MercadoPago payment services",
+    "Mercado Envíos logistics",
+    "Mercado Publicidad advertising",
+    "Mercado Crédito credit services"
   ],
-  "extracted_at": "2026-05-11 17:57:00",
+  "extracted_at": "2026-05-12 18:06:07",
   "sources": [
     {
       "source": "Wikipedia",
@@ -42,26 +42,26 @@
     {
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Mercado_Libre",
-      "query": "MercadoLibre, Inc. suppliers manufacturers",
-      "snippet": "MercadoLibre , Inc . (Spanish pronunciation: [meɾˈkaðo ˈliβɾe]), known as Mercado Livre in Brazil. (Brazilian Portuguese pronunciation: [meʁˈkadu ˈliv"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://investor.mercadolibre.com/",
-      "query": "MercadoLibre, Inc. suppliers manufacturers",
-      "snippet": "MercadoLibre , Inc . SEC Filings."
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Mercado_Libre",
       "query": "MercadoLibre, Inc. major customers clients",
       "snippet": "MercadoLibre , Inc . (Spanish pronunciation: [meɾˈkaðo ˈliβɾe]), known as Mercado Livre in Brazil. Mercado Libre 's MarketPlace is a platform designed"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://investor.mercadolibre.com/",
+      "url": "https://money.usnews.com/investing/stocks/meli-mercadolibre-inc",
       "query": "MercadoLibre, Inc. major customers clients",
-      "snippet": "MercadoLibre is the market leader in each of the major countries where it is..."
+      "snippet": "MercadoLibre , Inc . engages in the development of an online commerce platform with a focus on e-commerce and related services. It operates through th"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/Mercado_Libre",
+      "query": "MercadoLibre, Inc. competitors alternatives",
+      "snippet": "Mercado Libre is the title sponsor of the Liga Profesional de Fútbol, having signed a deal for the 2026-2027 season,[48] and sponsors all CONMEBOL clu"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://ahrefs.com/websites/mercadolibre.com.do/competitors",
+      "query": "MercadoLibre, Inc. competitors alternatives",
+      "snippet": "Top mercadolibre .com.do competitors & alternatives . Discover top competing websites that rank in the top 10 organic search results for the same keyw"
     }
   ]
 }

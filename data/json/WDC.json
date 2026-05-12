@@ -4,34 +4,34 @@
   "sector": "Technology",
   "industry": "Computer Hardware",
   "upstream": [
+    "STX",
+    "MU",
     "005930.KS",
-    "Printed circuit board (PCB) suppliers",
-    "Electronics component suppliers (capacitors, resistors)",
-    "Magnetic media suppliers",
-    "Precision machining and assembly contractors"
+    "SK Hynix",
+    "TSM"
   ],
   "downstream": [
     "DELL",
-    "DELL",
-    "Data center and cloud service providers",
-    "AAPL",
-    "Enterprise storage solution integrators"
+    "HPQ",
+    "Lenovo Group",
+    "AMZN",
+    "MSFT"
   ],
   "competitors": [
     "STX",
-    "Toshiba Storage",
     "005930.KS",
-    "SK Hynix (SSD segment)",
-    "MU"
+    "MU",
+    "IBM",
+    "DELL"
   ],
   "key_products": [
-    "Internal hard disk drives (HDDs)",
-    "Solid-state drives (SSDs)",
-    "External storage solutions",
-    "Enterprise storage arrays",
-    "Data center storage platforms"
+    "Hard Disk Drives (HDD)",
+    "Solid State Drives (SSD)",
+    "Enterprise Storage Solutions",
+    "Data Center Storage Systems",
+    "External Portable Drives"
   ],
-  "extracted_at": "2026-05-11 17:54:16",
+  "extracted_at": "2026-05-12 17:57:11",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,9 +47,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.granitefirm.com/blog/us/2026/01/31/western-digital-thaks-ai/",
+      "url": "https://finance.yahoo.com/quote/WDC/",
       "query": "Western Digital Corporation suppliers manufacturers",
-      "snippet": "Company Profile. Founding. Western Digital (ticker: WDC) was Founded in 1970 by a Motorola employee, Wittek is a leading global manufacturer of hard d"
+      "snippet": "Western Digital Corporation develops, manufactures , and sells data storage devices and solutions based on hard disk drive (HDD) technology in the Uni"
     },
     {
       "source": "DuckDuckGo",
@@ -59,9 +59,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/news/western-digital-s-shifting-landscape-innovation-amidst-revenue-contraction2025-11-14101227",
+      "url": "https://www.granitefirm.com/blog/us/2026/01/31/western-digital-thaks-ai/",
       "query": "Western Digital Corporation major customers clients",
-      "snippet": "Western Digital Corporation Customers Demand. WDC Customers Expenditure Growth Rates. Corporate customers of Western Digital are also experiencing tur"
+      "snippet": "Western Digital secured significant Remaining Performance Obligations (RPO) orders from hyperscale customers . CEO Irving Tan revealed at the Q3 2025 "
     }
   ]
 }

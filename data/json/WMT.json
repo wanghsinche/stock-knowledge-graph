@@ -1,17 +1,17 @@
 {
   "ticker": "WMT",
   "company_name": "Walmart Inc.",
-  "sector": "Consumer Defensive / Discount Stores",
-  "industry": "Retail - Discount Stores",
+  "sector": "Consumer Defensive",
+  "industry": "Discount Stores",
   "upstream": [
     "Procter & Gamble",
     "Coca‑Cola",
     "PepsiCo",
-    "Walmart Brands (private label suppliers)",
-    "Kraft Heinz"
+    "Nestlé",
+    "Walmart’s own suppliers"
   ],
   "downstream": [
-    "U.S. households",
+    "U.S. consumers",
     "International consumers",
     "Online shoppers",
     "Small businesses",
@@ -20,18 +20,18 @@
   "competitors": [
     "Target",
     "Costco",
-    "AMZN",
-    "BJ's Wholesale",
-    "Dollar General"
+    "Dollar General",
+    "Aldi",
+    "BJ’s Wholesale Club"
   ],
   "key_products": [
     "Groceries",
-    "Apparel",
-    "Electronics",
     "Household goods",
-    "Private‑label brands"
+    "Electronics",
+    "Clothing",
+    "Pharmacy"
   ],
-  "extracted_at": "2026-05-11 18:02:36",
+  "extracted_at": "2026-05-12 18:05:09",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,9 +47,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.walmart.com/",
+      "url": "https://ru.wikipedia.org/wiki/Walmart",
       "query": "Walmart Inc. suppliers manufacturers",
-      "snippet": "Shop Walmart .com today for Every Day Low Prices. Join Walmart + for unlimited free delivery from your store & free shipping with no order minimum. St"
+      "snippet": "Walmart , Inc . ([ˈwɔːlmɑːrt], «Уолмарт») — американская компания, управляющая крупнейшей в мире сетью оптовой и розничной торговли, действующей под т"
     },
     {
       "source": "DuckDuckGo",

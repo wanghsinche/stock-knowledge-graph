@@ -6,16 +6,16 @@
   "upstream": [
     "TSM",
     "005930.KS",
-    "GlobalFoundries",
     "MU",
-    "NVDA"
+    "SK Hynix",
+    "ASE"
   ],
   "downstream": [
-    "MSFT",
-    "DELL",
+    "AMZN",
+    "GOOGL",
     "MSFT",
     "TSLA",
-    "High-performance computing customers (research institutions, universities)"
+    "SONY"
   ],
   "competitors": [
     "AMD",
@@ -25,13 +25,13 @@
     "AVGO"
   ],
   "key_products": [
-    "GeForce GPUs",
-    "Quadro/RTX GPUs",
-    "Tesla GPUs for data centers",
-    "NVIDIA DRIVE SoC for automotive",
-    "CUDA API and related software"
+    "GeForce RTX GPUs",
+    "Tesla A100 GPU",
+    "Jetson AGX Xavier",
+    "DGX A100",
+    "CUDA platform"
   ],
-  "extracted_at": "2026-05-11 17:49:20",
+  "extracted_at": "2026-05-12 17:52:57",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,13 +43,13 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Nvidia",
       "query": "NVIDIA Corporation suppliers manufacturers",
-      "snippet": "20 hours ago - In August 2025, Nvidia ordered ... due to security concerns. The company directed suppliers including Taiwan Semiconductor Manufacturin"
+      "snippet": "19 hours ago - In August 2025, Nvidia ordered ... due to security concerns. The company directed suppliers including Taiwan Semiconductor Manufacturin"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://medium.com/@farrago_course0f/exploring-the-key-companies-supplying-nvidia-a-comprehensive-overview-ebc639dd1d99",
+      "url": "https://www.accio.com/supplier/nvidia-supplier-list",
       "query": "NVIDIA Corporation suppliers manufacturers",
-      "snippet": "February 16, 2024 - Samsung Electronics plays a pivotal role in NVIDIA’s supply chain, contributing to the fabrication of GPU chips and memory compone"
+      "snippet": "3 weeks ago - NVIDIA's key suppliers span various critical areas of semiconductor manufacturing and assembly. These include TSMC (Taiwan Semiconductor"
     },
     {
       "source": "DuckDuckGo",
@@ -59,9 +59,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.investing.com/equities/nvidia-corp",
+      "url": "https://www.fool.com/investing/2024/10/30/46-nvidia-revenue-came-from-4-mystery-customers/",
       "query": "NVIDIA Corporation major customers clients",
-      "snippet": "View today's NVIDIA Corporation stock price and latest NVDA news and analysis. Create real-time notifications to follow any changes in the live stock "
+      "snippet": "Nvidia 's other top customers could be some combination of Amazon, Alphabet, Meta Platforms, Oracle, Tesla, and OpenAI. According to public filings, h"
     }
   ]
 }

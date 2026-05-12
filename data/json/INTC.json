@@ -4,16 +4,16 @@
   "sector": "Technology",
   "industry": "Semiconductors",
   "upstream": [
-    "TSM",
-    "005930.KS",
-    "GlobalFoundries",
-    "UMC",
-    "MU"
+    "ASML",
+    "AMAT",
+    "LRCX",
+    "Tokyo Electron",
+    "KLA"
   ],
   "downstream": [
     "DELL",
-    "Lenovo",
     "HPQ",
+    "Lenovo",
     "AAPL",
     "MSFT"
   ],
@@ -22,16 +22,16 @@
     "NVDA",
     "QCOM",
     "AVGO",
-    "005930.KS"
+    "TSM"
   ],
   "key_products": [
     "Intel Core CPUs",
     "Intel Xeon CPUs",
-    "Intel Optane memory",
-    "Intel Ethernet controllers",
-    "Intel AI accelerators"
+    "Intel chipsets",
+    "Intel integrated graphics",
+    "Intel Optane memory"
   ],
-  "extracted_at": "2026-05-11 17:50:00",
+  "extracted_at": "2026-05-12 17:53:35",
   "sources": [
     {
       "source": "Wikipedia",
@@ -55,13 +55,13 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Intel",
       "query": "Intel Corporation major customers clients",
-      "snippet": "4 hours ago - General Manager of Intel's custom foundry division Sunit Rikhi indicated that Intel would pursue further such deals in the future. This "
+      "snippet": "Intel Corporation is an American multinational technology company headquartered in Santa Clara, California. It designs, manufactures, and sells comput"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.investopedia.com/articles/markets/100214/inside-intel-look-mega-chipmaker.asp",
+      "url": "https://www.pcgamer.com/hardware/processors/intel-has-just-18-months-to-land-a-hero-customer-on-14a-or-its-cutting-edge-fabs-are-toast-says-chip-industry-analyst/",
       "query": "Intel Corporation major customers clients",
-      "snippet": "March 3, 2026 - Intel's main customers include Dell, Lenovo, and HP . Never has a corporation done so much with so little. Founded in Mountain View, C"
+      "snippet": "Subscribe to our newsletter. Intel has just 18 months to land a big customer or its cutting-edge fabs are history.The issue here is that Intel recentl"
     }
   ]
 }

@@ -3,8 +3,8 @@ ticker: ORCL
 company: Oracle Corporation
 sector: Technology
 industry: Software - Infrastructure
-extracted_at: 2026-05-11 17:56:02
-last_updated: 2026-05-11
+extracted_at: 2026-05-12 17:56:36
+last_updated: 2026-05-12
 ---
 
 # ORCL - Oracle Corporation
@@ -12,37 +12,37 @@ last_updated: 2026-05-11
 ## 基本信息
 
 - **所属行业**: Technology / Software - Infrastructure
-- **提取时间**: 2026-05-11 17:56:02
+- **提取时间**: 2026-05-12 17:56:36
 
 ## 产业链关系
 
 ### 上游供应商
-- [[DELL]]
-- [[MSFT]]
 - [[AMD]]
-- [[Software component vendors (e.g., Java, Linux)]]
-- [[Data center service providers]]
+- [[DELL]]
+- [[CSCO]]
+- [[Software component vendors (e.g., Java, Linux distributions)]]
+- [[GOOGL]]
 
 ### 下游客户
-- [[Large enterprises (e.g., Walmart, JPMorgan Chase)]]
-- [[Government agencies (e.g., U.S. Department of Defense)]]
-- [[Financial institutions (e.g., Bank of America)]]
-- [[Healthcare organizations (e.g., Mayo Clinic)]]
-- [[Retail chains (e.g., Target)]]
+- [[Large enterprises (e.g., banks, insurance firms)]]
+- [[Government agencies]]
+- [[Healthcare organizations]]
+- [[Retail and e‑commerce companies]]
+- [[CAT]]
 
 ### 竞争对手
 - [[MSFT]]
 - [[AMZN]]
 - [[IBM]]
-- [[SAP SE]]
+- [[SAP (SAP HANA, SAP Cloud)]]
 - [[GOOGL]]
 
 ### 核心产品
-- [[Oracle Database]]
-- [[Oracle Cloud Infrastructure]]
-- [[Oracle Autonomous Database]]
-- [[Oracle Fusion Applications]]
-- [[Oracle E-Business Suite]]
+- [[Oracle Database (including Autonomous Database)]]
+- [[Oracle Cloud Infrastructure (OCI)]]
+- [[Oracle ERP Cloud]]
+- [[Oracle Fusion Cloud Applications]]
+- [[Oracle Analytics Cloud]]
 
 ## 数据来源
 
@@ -54,4 +54,4 @@ last_updated: 2026-05-11
 
 ## 元数据
 
-- **更新日期**: 2026-05-11
+- **更新日期**: 2026-05-12

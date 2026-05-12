@@ -4,34 +4,34 @@
   "sector": "Financial Services",
   "industry": "Capital Markets",
   "upstream": [
-    "Financial technology vendors",
-    "Data analytics providers",
-    "Regulatory bodies",
-    "Payment processors",
-    "Cloud infrastructure providers"
+    "MSFT",
+    "AMZN",
+    "GOOGL",
+    "IBM",
+    "ORCL"
   ],
   "downstream": [
     "Institutional investors",
-    "Corporate clients",
-    "Private equity firms",
-    "Asset managers",
-    "High-net-worth individuals"
+    "Retail investors",
+    "Wealth managers",
+    "Financial advisors",
+    "Asset managers"
   ],
   "competitors": [
-    "JPMorgan Chase",
-    "Goldman Sachs",
-    "Morgan Stanley",
-    "Citigroup",
-    "Bank of America"
+    "BlackRock",
+    "Vanguard",
+    "Fidelity",
+    "Charles Schwab",
+    "E*TRADE"
   ],
   "key_products": [
-    "Investment banking services",
-    "Capital raising",
-    "Mergers & Acquisitions advisory",
-    "Equity and debt underwriting",
-    "Market research"
+    "Investment platform",
+    "Wealth management services",
+    "Portfolio management",
+    "Financial advisory",
+    "Investment research"
   ],
-  "extracted_at": "2026-05-11 17:52:47",
+  "extracted_at": "2026-05-12 17:55:56",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,15 +41,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.investing.com/equities/iris-energy",
+      "url": "https://finance.yahoo.com/quote/IREN/",
       "query": "IREN Limited suppliers manufacturers",
-      "snippet": "IREN Ltd stock price live, this page displays NASDAQ IREN stock exchange data. View the IREN premarket stock price ahead of the market session or asse"
+      "snippet": "Find the latest IREN Limited ( IREN ) stock quote, history, news and other vital information to help you with your stock trading and investing."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.tradingview.com/symbols/NASDAQ-IREN/",
+      "url": "https://www.investing.com/equities/iris-energy",
       "query": "IREN Limited suppliers manufacturers",
-      "snippet": "View live IREN Limited chart to track its stock's price action. Find market predictions, IREN financials and market news."
+      "snippet": "IREN Ltd stock price live, this page displays NASDAQ IREN stock exchange data. View the IREN premarket stock price ahead of the market session or asse"
     },
     {
       "source": "DuckDuckGo",

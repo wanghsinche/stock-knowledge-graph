@@ -4,33 +4,34 @@
   "sector": "Technology",
   "industry": "Software - Infrastructure",
   "upstream": [
-    "DELL",
-    "Cloud service providers (e.g., AWS, Azure, GCP)",
-    "Data storage providers",
-    "Software component vendors",
-    "IT infrastructure suppliers"
+    "AMZN",
+    "MSFT",
+    "GOOGL",
+    "IBM",
+    "ORCL"
   ],
   "downstream": [
     "U.S. Department of Defense",
+    "INTC",
     "Federal Bureau of Investigation",
-    "JPMorgan Chase",
-    "Airbus",
-    "Walmart"
+    "European Union agencies",
+    "Airbus"
   ],
   "competitors": [
     "Snowflake",
     "Databricks",
     "Splunk",
-    "IBM",
-    "MSFT"
+    "Tableau",
+    "Qlik"
   ],
   "key_products": [
     "Palantir Foundry",
     "Palantir Gotham",
     "Palantir Apollo",
-    "Palantir Helix"
+    "Palantir Data Lake",
+    "Palantir AI"
   ],
-  "extracted_at": "2026-05-11 17:53:19",
+  "extracted_at": "2026-05-12 17:56:07",
   "sources": [
     {
       "source": "Wikipedia",
@@ -46,9 +47,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.palantir.com/about/",
+      "url": "https://finance.yahoo.com/quote/PLTR/",
       "query": "Palantir Technologies Inc. suppliers manufacturers",
-      "snippet": "At Palantir , we believe that with good data and the right software, institutions can solve hard problems and change the world for the better."
+      "snippet": "Find the latest Palantir Technologies Inc . (PLTR) stock quote, history, news and other vital information to help you with your stock trading and inve"
     },
     {
       "source": "DuckDuckGo",
@@ -58,9 +59,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/PLTR/",
+      "url": "https://polymarket.com/event/palantir-of-customers-above-in-q1/palantir-total-customers-above-1060-in-q1",
       "query": "Palantir Technologies Inc. major customers clients",
-      "snippet": "Find the latest Palantir Technologies Inc . (PLTR) stock quote, history, news and other vital information to help you with your stock trading and inve"
+      "snippet": "Palantir Technologies (PLTR) approaches its Q1 2026 earnings release on May 4, with total customer count serving as a pivotal metric tracking Artifici"
     }
   ]
 }

@@ -1,37 +1,37 @@
 {
   "ticker": "MSTR",
-  "company_name": "Strategy Inc.",
-  "sector": "Technology",
-  "industry": "Software - Application",
+  "company_name": "Strategy Inc",
+  "sector": "Technology / Software - Application",
+  "industry": "Business Intelligence & Analytics",
   "upstream": [
-    "AMZN",
     "MSFT",
+    "AMZN",
     "GOOGL",
-    "INTC",
-    "AMD"
+    "ORCL",
+    "IBM"
   ],
   "downstream": [
-    "Walmart",
-    "JPMorgan Chase",
-    "Bank of America",
-    "Coca-Cola",
-    "AT&T"
+    "Financial services firms",
+    "Retail companies",
+    "Healthcare organizations",
+    "Manufacturing firms",
+    "Government agencies"
   ],
   "competitors": [
     "SAP SE Business Objects",
     "IBM",
     "ORCL",
     "MSFT",
-    "CRM"
+    "Tableau Software"
   ],
   "key_products": [
-    "MicroStrategy Desktop",
-    "MicroStrategy Web",
-    "MicroStrategy Mobile",
-    "MicroStrategy Analytics",
-    "MicroStrategy Cloud"
+    "MicroStrategy Analytics Platform",
+    "Mobile BI Applications",
+    "Data Visualization Tools",
+    "Enterprise Data Management",
+    "Embedded Analytics Solutions"
   ],
-  "extracted_at": "2026-05-11 17:57:40",
+  "extracted_at": "2026-05-12 17:58:57",
   "sources": [
     {
       "source": "Wikipedia",

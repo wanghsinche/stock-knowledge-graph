@@ -1,18 +1,18 @@
 ---
 ticker: NOW
 company: ServiceNow, Inc.
-sector: Technology
-industry: Software - Application
-extracted_at: 2026-05-11 18:00:47
-last_updated: 2026-05-11
+sector: Technology / Software - Application
+industry: Enterprise Software
+extracted_at: 2026-05-12 18:02:08
+last_updated: 2026-05-12
 ---
 
 # NOW - ServiceNow, Inc.
 
 ## 基本信息
 
-- **所属行业**: Technology / Software - Application
-- **提取时间**: 2026-05-11 18:00:47
+- **所属行业**: Technology / Software - Application / Enterprise Software
+- **提取时间**: 2026-05-12 18:02:08
 
 ## 产业链关系
 
@@ -20,25 +20,25 @@ last_updated: 2026-05-11
 - [[AMZN]]
 - [[MSFT]]
 - [[GOOGL]]
-- [[ORCL]]
 - [[IBM]]
+- [[ORCL]]
 
 ### 下游客户
-- [[GOOGL]]
-- [[AMZN]]
-- [[MSFT]]
+- [[U.S. Department of Defense]]
+- [[Bank of America]]
+- [[Coca‑Cola]]
 - [[Walmart]]
-- [[JPMorgan Chase]]
+- [[Airbnb]]
 
 ### 竞争对手
+- [[MSFT]]
 - [[CRM]]
+- [[SAP SuccessFactors]]
 - [[Workday]]
-- [[SAP]]
 - [[ORCL]]
-- [[Atlassian]]
 
 ### 核心产品
-- [[ServiceNow Platform]]
+- [[Now Platform]]
 - [[IT Service Management (ITSM)]]
 - [[IT Operations Management (ITOM)]]
 - [[IT Business Management (ITBM)]]
@@ -48,10 +48,10 @@ last_updated: 2026-05-11
 
 - [ServiceNow](https://en.wikipedia.org/wiki/ServiceNow,_Inc.)
 - [ServiceNow, Inc. suppliers manufacturers](https://www.servicenow.com/)
-- [ServiceNow, Inc. suppliers manufacturers](https://theenterpriseworld.com/10-servicenow-partners-in-2024/)
+- [ServiceNow, Inc. suppliers manufacturers](https://uk.finance.yahoo.com/news/frank-sands-significantly-reduces-stake-210114270.html)
 - [ServiceNow, Inc. major customers clients](https://www.servicenow.com/)
 - [ServiceNow, Inc. major customers clients](https://www.theregister.com/off-prem/2026/04/13/how-servicenow-gets-customers-to-gorge-at-the-ai-trough/5226329)
 
 ## 元数据
 
-- **更新日期**: 2026-05-11
+- **更新日期**: 2026-05-12

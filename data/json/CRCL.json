@@ -1,37 +1,35 @@
 {
   "ticker": "CRCL",
   "company_name": "Circle Internet Group",
-  "sector": "Financial Services",
-  "industry": "Capital Markets / Payments Technology",
+  "sector": "Financial Services / Capital Markets",
+  "industry": "Payments Technology",
   "upstream": [
-    "Blockchain infrastructure providers (e.g., Ethereum, Algorand)",
-    "Fiat currency custodians and banks",
-    "Regulatory compliance and audit firms",
-    "Cloud service providers (AWS, Azure)",
-    "Payment processing platforms"
+    "USD reserves",
+    "US Treasury bonds",
+    "Bank deposits"
   ],
   "downstream": [
-    "Cryptocurrency exchanges (Binance, Coinbase)",
-    "Institutional investors and treasury teams",
-    "Retail merchants accepting stablecoins",
-    "Financial institutions (banks, payment processors)",
-    "Fintech partners using Circle’s APIs"
+    "Cryptocurrency exchanges",
+    "DeFi protocols",
+    "Payment processors",
+    "Retail investors",
+    "Institutional investors"
   ],
   "competitors": [
     "Coinbase",
-    "Gemini",
-    "Paxos",
-    "Tether",
-    "Binance"
+    "PayPal",
+    "Square",
+    "Stripe",
+    "Gemini"
   ],
   "key_products": [
-    "USDC (USD Coin)",
-    "EURC (Euro Coin)",
-    "USYC (USD Yield Coin)",
+    "USDC",
+    "EURC",
+    "USYC",
     "Circle Pay",
-    "Circle Wallet"
+    "Circle Invest"
   ],
-  "extracted_at": "2026-05-11 17:52:28",
+  "extracted_at": "2026-05-12 17:56:48",
   "sources": [
     {
       "source": "Wikipedia",
@@ -59,9 +57,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.fool.com/investing/2025/06/27/carnivals-success-circle-internet-groups-rise-and/",
+      "url": "https://www.fool.com/investing/2025/07/10/has-circle-internet-groups-stock-already-peaked/",
       "query": "Circle Internet Group major customers clients",
-      "snippet": "Circle Internet Group 's meteoric rise. Diworsification at a watch company. To catch full episodes of all The Motley Fool's free podcasts, check out o"
+      "snippet": "Circle Internet Group went public in June and it has been one of the hottest stocks on the market. Investors are paying a steep premium for the stock,"
     }
   ]
 }

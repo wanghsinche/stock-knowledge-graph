@@ -2,36 +2,36 @@
   "ticker": "AAOI",
   "company_name": "Applied Optoelectronics, Inc.",
   "sector": "Technology / Communication Equipment",
-  "industry": "Optoelectronics / Optical Communications",
+  "industry": "Optoelectronics",
   "upstream": [
-    "TXN",
-    "ADI",
-    "AVGO",
     "Lattice Semiconductor",
-    "NXP Semiconductors"
+    "TXN",
+    "NXP Semiconductors",
+    "AVGO",
+    "ADI"
   ],
   "downstream": [
-    "AT&T",
-    "Verizon",
     "CSCO",
-    "Huawei",
-    "Nokia"
+    "JNPR",
+    "Huawei Technologies",
+    "ANET",
+    "Ciena Corporation"
   ],
   "competitors": [
-    "Lumentum",
-    "Coherent",
+    "Lumentum Holdings",
     "II-VI Incorporated",
-    "Thorlabs",
-    "Infinera"
+    "Coherent, Inc.",
+    "Infinera Corporation",
+    "Ciena Corporation"
   ],
   "key_products": [
     "Optical transceivers",
-    "RF modules",
+    "Optical modules",
     "Optical amplifiers",
-    "Optical switches",
-    "Optical fiber components"
+    "Optical fiber components",
+    "Optical connectors"
   ],
-  "extracted_at": "2026-05-11 17:55:47",
+  "extracted_at": "2026-05-12 17:57:25",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,21 +47,21 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.thenew.money/company/applied-optoelectronics",
+      "url": "https://csimarket.com/stocks/AAOI-Business-Description.html",
       "query": "Applied Optoelectronics, Inc. suppliers manufacturers",
-      "snippet": "Applied Optoelectronics , Inc . (AOI) delivers advanced optical and RF solutions for telecom, FTTH, datacenters, and broadband industries worldwide.Lu"
+      "snippet": "Applied Optoelectronics Inc ' explanation of operations and nature of the Business - CSIMarket."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/AAOI-Customers",
+      "query": "Applied Optoelectronics, Inc. major customers clients",
+      "snippet": "Applied Optoelectronics Inc customers and markets, results by customer and performance relative to AAOI, by company and industry - CSIMarket."
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.pitchgrade.com/companies/applied-optoelectronics-inc",
       "query": "Applied Optoelectronics, Inc. major customers clients",
       "snippet": "The major competitors of Applied Optoelectronics Inc in the industry and how the company positions itself amidst the competition. A comprehensive SWOT"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/applied-optoelectronics-inc-aaoi-among-132437416.html",
-      "query": "Applied Optoelectronics, Inc. major customers clients",
-      "snippet": "Applied Optoelectronics , Inc . (NASDAQ:AAOI) develops and produces optical communication products. Its products include optical devices as well as mo"
     }
   ]
 }
