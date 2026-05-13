@@ -1,34 +1,34 @@
 ---
 ticker: GLW
 company: Corning Incorporated
-sector: Technology / Electronic Components
-industry: Optical & Photonics
-extracted_at: 2026-05-12 17:55:42
-last_updated: 2026-05-12
+sector: Technology
+industry: Electronic Components
+extracted_at: 2026-05-13 17:58:37
+last_updated: 2026-05-13
 ---
 
 # GLW - Corning Incorporated
 
 ## 基本信息
 
-- **所属行业**: Technology / Electronic Components / Optical & Photonics
-- **提取时间**: 2026-05-12 17:55:42
+- **所属行业**: Technology / Electronic Components
+- **提取时间**: 2026-05-13 17:58:37
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Silica sand suppliers]]
-- [[Chemical reagents manufacturers]]
-- [[META]]
-- [[High‑purity gases producers]]
-- [[Specialty glass raw material suppliers]]
+- [[HPQ]]
+- [[Rio Tinto]]
+- [[Glencore]]
+- [[Dow Chemical]]
+- [[DuPont]]
 
 ### 下游客户
-- [[CAT]]
-- [[AAPL]]
 - [[005930.KS]]
-- [[Aerospace & defense contractors (e.g., Boeing, Airbus)]]
-- [[Medical device manufacturers]]
+- [[LG Display]]
+- [[AAPL]]
+- [[AT&T]]
+- [[Boeing]]
 
 ### 竞争对手
 - [[Schott AG]]
@@ -38,11 +38,11 @@ last_updated: 2026-05-12
 - [[Coherent, Inc.]]
 
 ### 核心产品
-- [[Optical fiber and fiber‑optic cables]]
-- [[Display glass for LCD and OLED panels]]
-- [[Advanced optics (lenses, prisms, filters)]]
-- [[Specialty glass for scientific instruments]]
-- [[Glass substrates for smartphones and tablets]]
+- [[Optical fiber]]
+- [[Display glass (LCD & OLED)]]
+- [[High‑performance specialty glass]]
+- [[Advanced optics for cameras]]
+- [[Glass for industrial & aerospace applications]]
 
 ## 数据来源
 
@@ -50,8 +50,8 @@ last_updated: 2026-05-12
 - [Corning Incorporated suppliers manufacturers](https://en.wikipedia.org/wiki/Corning_Inc.)
 - [Corning Incorporated suppliers manufacturers](https://www.corning.com/worldwide/en.html)
 - [Corning Incorporated major customers clients](https://en.wikipedia.org/wiki/Corning_Inc.)
-- [Corning Incorporated major customers clients](https://www.linkedin.com/company/corning-incorporated)
+- [Corning Incorporated major customers clients](https://www.corning.com/worldwide/en/about-us/corning-business-segments.html)
 
 ## 元数据
 
-- **更新日期**: 2026-05-12
+- **更新日期**: 2026-05-13

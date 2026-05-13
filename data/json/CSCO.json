@@ -1,67 +1,67 @@
 {
   "ticker": "CSCO",
   "company_name": "Cisco Systems, Inc.",
-  "sector": "Technology / Communication Equipment",
-  "industry": "Networking Equipment",
+  "sector": "Technology",
+  "industry": "Communication Equipment",
   "upstream": [
     "INTC",
     "QCOM",
     "AVGO",
-    "TXN",
-    "NVDA"
+    "MRVL",
+    "TXN"
   ],
   "downstream": [
     "AT&T",
     "Verizon",
-    "T-Mobile",
+    "Comcast",
     "GOOGL",
-    "MSFT"
+    "AMZN"
   ],
   "competitors": [
     "JNPR",
     "ANET",
     "Huawei",
-    "HPQ",
-    "DELL"
+    "Nokia",
+    "Ericsson"
   ],
   "key_products": [
-    "Cisco routers",
-    "Cisco switches",
-    "Cisco firewalls",
-    "Cisco wireless access points",
-    "Cisco collaboration solutions"
+    "Cisco Webex",
+    "Cisco OpenDNS",
+    "Cisco Jabber",
+    "Cisco Jasper",
+    "Cisco Catalyst"
   ],
-  "extracted_at": "2026-05-12 17:59:11",
+  "extracted_at": "2026-05-13 18:01:17",
   "sources": [
     {
       "source": "Wikipedia",
-      "url": "",
-      "title": "",
-      "snippet": ""
+      "url": "https://en.wikipedia.org/wiki/Cisco_Systems,_Inc.",
+      "title": "Cisco",
+      "snippet": "Cisco Systems, Inc., doing business as Cisco, is an American multinational technology conglomerate corporation that develops, manufactures, and sells hardware, software, telecommunications equipment a"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Cisco",
+      "url": "https://www.cisco.com/c/dam/en_us/about/supply-chain/cisco-supplier-list.pdf",
       "query": "Cisco Systems, Inc. suppliers manufacturers",
-      "snippet": "Cisco Systems , Inc ., doing business as Cisco , is an American multinational technology conglomerate corporation that develops, manufactures , and se"
+      "snippet": "Cisco Supplier List Cisco products are made by a complex global network of manufacturing partners and component suppliers . To learn more about how we"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ru.wikipedia.org/wiki/Cisco",
+      "url": "https://csimarket.com/stocks/CSCO-Suppliers",
       "query": "Cisco Systems, Inc. suppliers manufacturers",
-      "snippet": "Cisco Systems , «Сиско Системз» — американская транснациональная компания, разрабатывающая и продающая сетевое оборудование, предназначенное в основно"
+      "snippet": "Feb 19, 2026 · Cisco Systems Inc 's Comment on Supply Chain We rely on contract manufacturers for all of our manufacturing needs. We presently use a v"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Cisco",
+      "url": "https://www.cisco.com/site/us/en/about/case-studies-customer-stories/index.html",
       "query": "Cisco Systems, Inc. major customers clients",
-      "snippet": "Cisco Systems , Inc ., doing business as Cisco , is an American multinational technology conglomerate corporation that develops, manufactures, and sel"
+      "snippet": "Read Cisco case studies and customer success stories highlighting the ways organizations have realized their goals and helped drive outcomes."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ru.wikipedia.org/wiki/Cisco",
+      "url": "https://www.appsruntheworld.com/customers-database/vendors/view/cisco-systems",
       "query": "Cisco Systems, Inc. major customers clients",
-      "snippet": "Cisco Systems , «Сиско Системз» — американская транснациональная компания, разрабатывающая и продающая сетевое оборудование, предназначенное в основно"
+      "snippet": "List of companies using or evaluating Cisco Systems applications, with details on their revenues, employees, industries, and locations."
     }
   ]
 }

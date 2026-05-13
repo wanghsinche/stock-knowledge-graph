@@ -2,36 +2,36 @@
   "ticker": "UNH",
   "company_name": "UnitedHealth Group Incorporated",
   "sector": "Healthcare",
-  "industry": "Healthcare Plans",
+  "industry": "Health Insurance / Healthcare Plans",
   "upstream": [
-    "Pharmaceutical manufacturers",
-    "Medical device manufacturers",
-    "Health technology vendors",
-    "Pharmacy benefit management providers",
-    "Data analytics and AI service firms"
+    "McKesson Corporation",
+    "AmerisourceBergen",
+    "Cerner Corporation",
+    "Epic Systems Corporation",
+    "Medtronic"
   ],
   "downstream": [
-    "Large corporate employers",
-    "Government agencies (Medicare, Medicaid)",
-    "Individual policyholders",
-    "Health plans and insurers",
-    "Healthcare providers (hospitals, clinics)"
+    "U.S. federal government (Medicare & Medicaid)",
+    "Large corporate employers (e.g., Walmart, AT&T)",
+    "State and local governments",
+    "Hospital and health care provider networks",
+    "Individual policyholders"
   ],
   "competitors": [
-    "Anthem",
-    "Aetna",
+    "Aetna (CVS Health)",
     "Cigna",
     "Humana",
-    "CVS Health (Aetna)"
+    "Blue Cross Blue Shield",
+    "Kaiser Permanente"
   ],
   "key_products": [
     "Health insurance plans (individual & group)",
-    "Medicare Advantage & Prescription plans",
-    "Medicaid managed care",
-    "Optum health services (OptumCare, OptumInsight, OptumRx)",
-    "Pharmacy benefit management solutions"
+    "Optum health care services (clinical, pharmacy, data analytics)",
+    "Pharmacy Benefit Management (PBM)",
+    "Telehealth & virtual care platforms",
+    "Health data analytics & population health solutions"
   ],
-  "extracted_at": "2026-05-12 17:58:12",
+  "extracted_at": "2026-05-13 17:59:32",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,15 +41,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/UnitedHealth_Group",
+      "url": "https://www.unitedhealthgroup.com/suppliers/information.html",
       "query": "UnitedHealth Group Incorporated suppliers manufacturers",
-      "snippet": "UnitedHealth Group Incorporated is an American multinational for-profit company based in Eden Prairie, Minnesota, specializing in health insurance and"
+      "snippet": "Supplier Community Portal At UnitedHealth Group , we search for suppliers that help us deliver best-in-class services to our customers. These partners"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://csimarket.com/stocks/UNH-Suppliers",
       "query": "UnitedHealth Group Incorporated suppliers manufacturers",
-      "snippet": "Unitedhealth Group Incorporated supply chain, list and performance of Unitedhealth Group Incorporateds' suppliers - CSIMarket."
+      "snippet": "Unitedhealth Group Incorporated 's Suppliers recorded an increase in sales by 13.42 % year on year in Q1 2026, from the previous quarter, sales fell b"
     },
     {
       "source": "DuckDuckGo",

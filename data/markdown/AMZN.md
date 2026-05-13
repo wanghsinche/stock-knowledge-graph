@@ -1,57 +1,57 @@
 ---
 ticker: AMZN
 company: Amazon.com, Inc.
-sector: Consumer Cyclical
-industry: Internet Retail
-extracted_at: 2026-05-12 17:54:50
-last_updated: 2026-05-12
+sector: Consumer Cyclical / Internet Retail
+industry: Consumer Cyclical / Internet Retail
+extracted_at: 2026-05-13 17:56:18
+last_updated: 2026-05-13
 ---
 
 # AMZN - Amazon.com, Inc.
 
 ## 基本信息
 
-- **所属行业**: Consumer Cyclical / Internet Retail
-- **提取时间**: 2026-05-12 17:54:50
+- **所属行业**: Consumer Cyclical / Internet Retail / Consumer Cyclical / Internet Retail
+- **提取时间**: 2026-05-13 17:56:18
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Book publishers]]
-- [[Consumer electronics manufacturers]]
-- [[Fashion brands]]
-- [[Home goods manufacturers]]
-- [[AMZN]]
+- [[AAPL]]
+- [[005930.KS]]
+- [[SONY]]
+- [[Nike, Inc.]]
+- [[IKEA]]
 
 ### 下游客户
-- [[Retail consumers]]
-- [[Enterprise IT customers (AWS)]]
-- [[Government agencies]]
-- [[Content creators]]
-- [[Advertisers]]
+- [[NFLX]]
+- [[Airbnb, Inc.]]
+- [[Spotify Technology S.A.]]
+- [[005930.KS]]
+- [[GOOGL]]
 
 ### 竞争对手
-- [[Walmart]]
-- [[Alibaba]]
-- [[eBay]]
-- [[Shopify]]
-- [[Target]]
+- [[Walmart Inc.]]
+- [[Alibaba Group Holding Ltd.]]
+- [[eBay Inc.]]
+- [[Shopify Inc.]]
+- [[Target Corporation]]
 
 ### 核心产品
-- [[Amazon.com marketplace]]
-- [[Amazon Prime subscription]]
-- [[Amazon Web Services (AWS)]]
-- [[Amazon Echo/Alexa devices]]
-- [[Amazon Kindle e‑reader]]
+- [[Amazon Web Services]]
+- [[Amazon Prime]]
+- [[Amazon Echo]]
+- [[Kindle e-Reader]]
+- [[Amazon Advertising]]
 
 ## 数据来源
 
 - [Amazon (company)](https://en.wikipedia.org/wiki/Amazon.com,_Inc.)
-- [Amazon.com, Inc. suppliers manufacturers](https://www.alibaba.com/)
-- [Amazon.com, Inc. suppliers manufacturers](https://www.amazon.com/home-garden-kitchen-furniture-bedding/b?ie=UTF8&node=1055398)
+- [Amazon.com, Inc. suppliers manufacturers](https://d39w7f4ix9f5s9.cloudfront.net/cb/19/77dfc5b441c892cd6e2be166ba70/final-amazon-supplier-list-2019-11-14-updated-1005am.pdf)
+- [Amazon.com, Inc. suppliers manufacturers](https://bigframe.net/who-are-amazons-main-suppliers/)
+- [Amazon.com, Inc. major customers clients](https://us.amazon.com/)
 - [Amazon.com, Inc. major customers clients](https://ir.aboutamazon.com/)
-- [Amazon.com, Inc. major customers clients](https://www.amazon.com.tr/)
 
 ## 元数据
 
-- **更新日期**: 2026-05-12
+- **更新日期**: 2026-05-13

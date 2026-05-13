@@ -3,8 +3,8 @@ ticker: LLY
 company: Eli Lilly and Company
 sector: Healthcare
 industry: Drug Manufacturers - General
-extracted_at: 2026-05-12 18:00:09
-last_updated: 2026-05-12
+extracted_at: 2026-05-13 17:59:18
+last_updated: 2026-05-13
 ---
 
 # LLY - Eli Lilly and Company
@@ -12,36 +12,36 @@ last_updated: 2026-05-12
 ## 基本信息
 
 - **所属行业**: Healthcare / Drug Manufacturers - General
-- **提取时间**: 2026-05-12 18:00:09
+- **提取时间**: 2026-05-13 17:59:18
 
 ## 产业链关系
 
 ### 上游供应商
-- [[BASF]]
-- [[Dow Chemical]]
-- [[Ciba Specialty Chemicals]]
-- [[SABIC]]
-- [[DuPont]]
+- [[Raw material suppliers]]
+- [[Contract manufacturers]]
+- [[Biotech partners]]
+- [[Ingredient suppliers]]
+- [[Pharmaceutical ingredient suppliers]]
 
 ### 下游客户
-- [[UnitedHealth Group]]
-- [[Kaiser Permanente]]
-- [[US Department of Veterans Affairs]]
-- [[CVS Health]]
-- [[Walgreens Boots Alliance]]
+- [[Hospitals]]
+- [[Pharmacies]]
+- [[Health systems]]
+- [[Insurance companies]]
+- [[Government agencies]]
 
 ### 竞争对手
 - [[Pfizer]]
 - [[Johnson & Johnson]]
-- [[Novartis]]
 - [[Merck]]
+- [[Novartis]]
 - [[AbbVie]]
 
 ### 核心产品
-- [[Humira (adalimumab)]]
 - [[Trulicity (dulaglutide)]]
 - [[Mounjaro (tirzepatide)]]
-- [[Jardiance (empagliflozin)]]
+- [[Empagliflozin (Jardiance)]]
+- [[Humira (adalimumab)]]
 - [[Zyprexa (olanzapine)]]
 
 ## 数据来源
@@ -54,4 +54,4 @@ last_updated: 2026-05-12
 
 ## 元数据
 
-- **更新日期**: 2026-05-12
+- **更新日期**: 2026-05-13

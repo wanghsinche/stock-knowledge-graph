@@ -1,35 +1,37 @@
 {
   "ticker": "CRCL",
-  "company_name": "Circle Internet Group",
-  "sector": "Financial Services / Capital Markets",
-  "industry": "Payments Technology",
+  "company_name": "Circle Internet Group, Inc.",
+  "sector": "Financial Services",
+  "industry": "Capital Markets / Payments Technology",
   "upstream": [
-    "USD reserves",
-    "US Treasury bonds",
-    "Bank deposits"
+    "AMZN",
+    "MSFT",
+    "GOOGL",
+    "Stripe",
+    "PayPal"
   ],
   "downstream": [
-    "Cryptocurrency exchanges",
-    "DeFi protocols",
-    "Payment processors",
-    "Retail investors",
-    "Institutional investors"
+    "Coinbase",
+    "Binance",
+    "Kraken",
+    "PayPal",
+    "Square"
   ],
   "competitors": [
     "Coinbase",
+    "Stripe",
     "PayPal",
     "Square",
-    "Stripe",
-    "Gemini"
+    "Revolut"
   ],
   "key_products": [
-    "USDC",
-    "EURC",
-    "USYC",
-    "Circle Pay",
-    "Circle Invest"
+    "USDC stablecoin",
+    "EURC stablecoin",
+    "USYC tokenized money market fund",
+    "Payments API",
+    "Crypto custody services"
   ],
-  "extracted_at": "2026-05-12 17:56:48",
+  "extracted_at": "2026-05-13 18:00:53",
   "sources": [
     {
       "source": "Wikipedia",
@@ -39,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/USDC_(cryptocurrency)",
+      "url": "https://investor.circle.com/overview/default.aspx",
       "query": "Circle Internet Group suppliers manufacturers",
-      "snippet": "USDC (USD Coin) is a cryptocurrency stablecoin issued by Circle Internet Group . It is pegged to the United States dollar, and is distinct from a cent"
+      "snippet": "2 days ago · Circle Investor Relations Circle is a global financial technology firm that enables businesses of all sizes to harness the power of digit"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.alibaba.com/",
+      "url": "https://www.appsruntheworld.com/customers-database/vendors/view/circle-internet-group",
       "query": "Circle Internet Group suppliers manufacturers",
-      "snippet": "Find quality Manufacturers , Suppliers , Exporters, Importers, Buyers, Wholesalers, Products and Trade Leads from our award-winning International Trad"
+      "snippet": "List of companies using or evaluating Circle Internet Group applications, with details on their revenues, employees, industries, and locations."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/USDC_(cryptocurrency)",
+      "url": "https://en.wikipedia.org/wiki/Circle_Internet_Group",
       "query": "Circle Internet Group major customers clients",
-      "snippet": "USDC (USD Coin) is a cryptocurrency stablecoin issued by Circle Internet Group . It is pegged to the United States dollar, and is distinct from a cent"
+      "snippet": "Circle (legally Circle Internet Group , Inc.[2]) is a payments technology company. Founded by Jeremy Allaire and Sean Neville in 2013, [3][4] it is cu"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.fool.com/investing/2025/07/10/has-circle-internet-groups-stock-already-peaked/",
+      "url": "https://www.appsruntheworld.com/customers-database/vendors/view/circle-internet-group",
       "query": "Circle Internet Group major customers clients",
-      "snippet": "Circle Internet Group went public in June and it has been one of the hottest stocks on the market. Investors are paying a steep premium for the stock,"
+      "snippet": "List of companies using or evaluating Circle Internet Group applications, with details on their revenues, employees, industries, and locations."
     }
   ]
 }

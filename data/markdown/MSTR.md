@@ -1,57 +1,57 @@
 ---
 ticker: MSTR
 company: Strategy Inc
-sector: Technology / Software - Application
-industry: Business Intelligence & Analytics
-extracted_at: 2026-05-12 17:58:57
-last_updated: 2026-05-12
+sector: Technology
+industry: Software - Application
+extracted_at: 2026-05-13 18:01:28
+last_updated: 2026-05-13
 ---
 
 # MSTR - Strategy Inc
 
 ## 基本信息
 
-- **所属行业**: Technology / Software - Application / Business Intelligence & Analytics
-- **提取时间**: 2026-05-12 17:58:57
+- **所属行业**: Technology / Software - Application
+- **提取时间**: 2026-05-13 18:01:28
 
 ## 产业链关系
 
 ### 上游供应商
+- [[INTC]]
+- [[AMD]]
+- [[NVDA]]
+- [[QCOM]]
 - [[MSFT]]
-- [[AMZN]]
-- [[GOOGL]]
-- [[ORCL]]
-- [[IBM]]
 
 ### 下游客户
-- [[Financial services firms]]
-- [[Retail companies]]
-- [[Healthcare organizations]]
-- [[Manufacturing firms]]
-- [[Government agencies]]
+- [[NCR Corporation]]
+- [[Walmart]]
+- [[JPMorgan Chase]]
+- [[AT&T]]
+- [[Verizon]]
 
 ### 竞争对手
-- [[SAP SE Business Objects]]
+- [[SAP SE]]
 - [[IBM]]
 - [[ORCL]]
 - [[MSFT]]
-- [[Tableau Software]]
+- [[Tableau]]
 
 ### 核心产品
-- [[MicroStrategy Analytics Platform]]
-- [[Mobile BI Applications]]
-- [[Data Visualization Tools]]
-- [[Enterprise Data Management]]
-- [[Embedded Analytics Solutions]]
+- [[MicroStrategy Desktop]]
+- [[MicroStrategy Cloud]]
+- [[MicroStrategy Mobile]]
+- [[Business Intelligence Platform]]
+- [[Analytics Software]]
 
 ## 数据来源
 
 - [MicroStrategy](https://en.wikipedia.org/wiki/Strategy_Inc)
-- [Strategy Inc suppliers manufacturers](https://finance.yahoo.com/quote/MSTR/)
-- [Strategy Inc suppliers manufacturers](https://www.alibaba.com/)
-- [Strategy Inc major customers clients](https://en.wikipedia.org/wiki/MicroStrategy)
+- [Strategy Inc suppliers manufacturers](https://www.strategyinc.net/services-overview/)
+- [Strategy Inc suppliers manufacturers](https://www.semiconductors.org/ecosystem/)
 - [Strategy Inc major customers clients](https://finance.yahoo.com/quote/MSTR/)
+- [Strategy Inc major customers clients](https://au.linkedin.com/in/athy-delinikolis-gaicd-mba-00555b22)
 
 ## 元数据
 
-- **更新日期**: 2026-05-12
+- **更新日期**: 2026-05-13

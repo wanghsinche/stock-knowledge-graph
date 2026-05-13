@@ -1,37 +1,37 @@
 {
   "ticker": "HD",
   "company_name": "The Home Depot, Inc.",
-  "sector": "Consumer Cyclical",
+  "sector": "Consumer Discretionary",
   "industry": "Home Improvement Retail",
   "upstream": [
-    "Building materials manufacturers",
-    "Appliance manufacturers",
-    "Tool manufacturers",
-    "Hardware suppliers",
-    "Paint and coatings suppliers"
+    "Whirlpool",
+    "GE Appliances",
+    "Bosch",
+    "DeWalt",
+    "Milwaukee"
   ],
   "downstream": [
-    "Homeowners",
+    "DIY homeowners",
     "Professional contractors",
-    "DIY enthusiasts",
+    "Construction companies",
     "Real estate developers",
-    "Construction firms"
+    "Small businesses"
   ],
   "competitors": [
-    "Lowe's Companies, Inc.",
-    "Menards Inc.",
+    "Lowe's",
+    "Menards",
     "Ace Hardware",
-    "HomeGoods",
-    "Walmart (home improvement section)"
+    "AMZN",
+    "Walmart Home Improvement"
   ],
   "key_products": [
     "Power tools",
-    "Hand tools",
     "Appliances",
-    "Building materials",
-    "Paint and coatings"
+    "Lumber",
+    "Paint",
+    "Lawn & garden equipment"
   ],
-  "extracted_at": "2026-02-24 17:03:12",
+  "extracted_at": "2026-05-13 18:04:04",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,21 +47,21 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ru.wikipedia.org/wiki/The_Home_Depot",
+      "url": "https://www.homedepot.com/",
       "query": "The Home Depot, Inc. suppliers manufacturers",
-      "snippet": "The Home Depot — американская торговая сеть, являющаяся крупнейшей в мире по продаже стройматериалов и инструментов для ремонта. Штаб-квартира компани"
+      "snippet": "Shop online for all your home improvement needs: appliances, bathroom decorating ideas, kitchen remodeling, patio furniture, power tools, bbq grills, "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Home_Depot",
+      "url": "https://ir.homedepot.com/~/media/Files/H/HomeDepot-IR/2025/HD_2024_AR_IRsite_v2.pdf",
       "query": "The Home Depot, Inc. major customers clients",
-      "snippet": "The Home Depot , Inc ., often referred to as Home Depot , is an American multinational home improvement retail corporation which sells tools, construc"
+      "snippet": "The Home Depot , Inc . is the world’s largest home improvement retailer based on net sales for fiscal 2024. We offer our customers a wide assortment o"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ru.wikipedia.org/wiki/The_Home_Depot",
+      "url": "https://businessmodelanalyst.com/home-depot-target-market-analysis/",
       "query": "The Home Depot, Inc. major customers clients",
-      "snippet": "The Home Depot — американская торговая сеть, являющаяся крупнейшей в мире по продаже стройматериалов и инструментов для ремонта. Штаб-квартира компани"
+      "snippet": "Jul 31, 2025 · This article provides a deep dive into the Home Depot target market, examining who its core customers are and how the company segments "
     }
   ]
 }

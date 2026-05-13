@@ -8,30 +8,30 @@
     "005930.KS",
     "GlobalFoundries",
     "UMC",
-    "ASE"
+    "INTC"
   ],
   "downstream": [
     "DELL",
     "HPQ",
-    "Lenovo",
-    "AAPL",
-    "MSFT"
+    "Lenovo Group",
+    "MSFT",
+    "AMZN"
   ],
   "competitors": [
-    "NVDA",
     "INTC",
+    "NVDA",
     "QCOM",
     "AVGO",
     "005930.KS"
   ],
   "key_products": [
     "Ryzen CPUs",
-    "EPYC CPUs",
+    "EPYC server processors",
     "Radeon GPUs",
-    "Radeon Instinct",
-    "Xilinx FPGAs"
+    "Radeon Instinct accelerators",
+    "Xilinx FPGAs (acquired)"
   ],
-  "extracted_at": "2026-05-12 17:53:47",
+  "extracted_at": "2026-05-13 17:55:27",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,25 +43,25 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/AMD",
       "query": "Advanced Micro Devices, Inc. suppliers manufacturers",
-      "snippet": "Advanced Micro Devices , Inc . Advanced Micro Devices , Inc . ( AMD ) is an American multinational semiconductor company headquartered in Santa Clara,"
+      "snippet": "1 week ago - To immediately secure a customer base, AMD initially became a second source supplier of microchips designed by Fairchild (the 5 V TTL \"93"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.britannica.com/money/Advanced-Micro-Devices-Inc",
       "query": "Advanced Micro Devices, Inc. suppliers manufacturers",
-      "snippet": "Advanced Micro Devices , Inc . ( AMD ) is an American semiconductor designer and global supplier of computing and graphics technologies used in data c"
+      "snippet": "1 week ago - Headquartered in Santa Clara, California, AMD is a fabless chipmaker, outsourcing production of its chips to manufacturers such as Taiwan"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/AMD",
       "query": "Advanced Micro Devices, Inc. major customers clients",
-      "snippet": "Advanced Micro Devices , Inc . Advanced Micro Devices , Inc . ( AMD ) is an American multinational semiconductor company headquartered in Santa Clara,"
+      "snippet": "AMD serves a wide range of business and consumer markets, including personal computers (PCs), gaming, data centers, and embedded systems. Advanced Mic"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ir.amd.com/",
+      "url": "https://matrixbcg.com/blogs/target-market/amd",
       "query": "Advanced Micro Devices, Inc. major customers clients",
-      "snippet": "Advanced Micro Devices , Inc . IR Overview. Investor Relations. AMD Expands AI Leadership Across Client , Graphics, and Software with New Ryzen, Ryzen"
+      "snippet": "Sep 8, 2025 · AMD's customer base is diverse, spanning individual consumers, businesses, and data centers. Key segments include PC gamers and creators"
     }
   ]
 }

@@ -3,8 +3,8 @@ ticker: TXN
 company: Texas Instruments Incorporated
 sector: Technology
 industry: Semiconductors
-extracted_at: 2026-05-11 18:00:22
-last_updated: 2026-05-11
+extracted_at: 2026-05-13 18:02:48
+last_updated: 2026-05-13
 ---
 
 # TXN - Texas Instruments Incorporated
@@ -12,37 +12,37 @@ last_updated: 2026-05-11
 ## 基本信息
 
 - **所属行业**: Technology / Semiconductors
-- **提取时间**: 2026-05-11 18:00:22
+- **提取时间**: 2026-05-13 18:02:48
 
 ## 产业链关系
 
 ### 上游供应商
-- [[ASML]]
-- [[AMAT]]
-- [[LRCX]]
-- [[TSM]]
-- [[005930.KS]]
+- [[Silicon wafer suppliers]]
+- [[Photolithography equipment manufacturers]]
+- [[Chemical and process material suppliers]]
+- [[Packaging and assembly providers]]
+- [[Test and measurement equipment vendors]]
 
 ### 下游客户
-- [[General Motors]]
-- [[Ford]]
-- [[Bosch]]
-- [[005930.KS]]
-- [[AAPL]]
+- [[Automotive electronics OEMs]]
+- [[Industrial automation and control systems]]
+- [[Consumer electronics manufacturers]]
+- [[CAT]]
+- [[Internet of Things (IoT) device makers]]
 
 ### 竞争对手
 - [[ADI]]
-- [[Maxim Integrated]]
+- [[ADI]]
 - [[NXP Semiconductors]]
-- [[STMicroelectronics]]
 - [[Infineon Technologies]]
+- [[STMicroelectronics]]
 
 ### 核心产品
-- [[Analog chips]]
-- [[Embedded processors]]
+- [[Analog integrated circuits (ICs)]]
+- [[Embedded processors (e.g., Sitara, C2000)]]
 - [[Digital Light Processing (DLP) technology]]
-- [[Calculators]]
-- [[Microcontrollers]]
+- [[Educational calculators]]
+- [[Microcontrollers and multi-core processors]]
 
 ## 数据来源
 
@@ -50,8 +50,8 @@ last_updated: 2026-05-11
 - [Texas Instruments Incorporated suppliers manufacturers](https://en.wikipedia.org/wiki/Texas_Instruments)
 - [Texas Instruments Incorporated suppliers manufacturers](https://finance.yahoo.com/quote/TXN/)
 - [Texas Instruments Incorporated major customers clients](https://en.wikipedia.org/wiki/Texas_Instruments)
-- [Texas Instruments Incorporated major customers clients](https://www.ti.com/about-ti/company/overview.html)
+- [Texas Instruments Incorporated major customers clients](https://finance.yahoo.com/quote/TXN/)
 
 ## 元数据
 
-- **更新日期**: 2026-05-11
+- **更新日期**: 2026-05-13

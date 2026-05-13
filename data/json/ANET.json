@@ -4,34 +4,34 @@
   "sector": "Technology",
   "industry": "Computer Hardware",
   "upstream": [
-    "AVGO",
     "INTC",
+    "AVGO",
     "QCOM",
     "TXN",
-    "MU"
+    "MRVL"
   ],
   "downstream": [
     "AMZN",
     "GOOGL",
     "MSFT",
-    "META",
-    "NFLX"
+    "Facebook",
+    "Alibaba Cloud"
   ],
   "competitors": [
     "CSCO",
     "JNPR",
-    "Arista's own older models (e.g., 7000 series)",
-    "Huawei Technologies",
-    "DELL"
+    "Extreme Networks",
+    "Cumulus Networks",
+    "Huawei"
   ],
   "key_products": [
-    "Arista 7000 Series Ethernet Switches",
-    "Arista 7500 Series Cloud‑Edge Switches",
+    "Arista 7500E Series Switches",
+    "Arista 7280 Series Switches",
+    "Arista 7500 Series Switches",
     "Arista EOS (Extensible Operating System)",
-    "CloudVision SDN Platform",
-    "Arista 7800 Series Data‑Center Switches"
+    "Cloud networking solutions for data centers and AI workloads"
   ],
-  "extracted_at": "2026-05-11 17:59:55",
+  "extracted_at": "2026-05-13 18:02:59",
   "sources": [
     {
       "source": "Wikipedia",

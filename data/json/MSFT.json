@@ -7,15 +7,15 @@
     "INTC",
     "AMD",
     "NVDA",
-    "QCOM",
-    "TSM"
+    "TSM",
+    "005930.KS"
   ],
   "downstream": [
-    "Enterprise customers (Fortune 500)",
+    "Enterprise customers",
     "Government agencies",
-    "Small and medium businesses",
-    "Consumers (personal devices)",
-    "CAT"
+    "CAT",
+    "Small businesses",
+    "Consumers"
   ],
   "competitors": [
     "AAPL",
@@ -25,13 +25,13 @@
     "IBM"
   ],
   "key_products": [
-    "Windows operating system",
-    "Microsoft Office suite",
-    "Azure cloud platform",
-    "Surface hardware line",
-    "Xbox gaming console"
+    "Windows OS",
+    "Microsoft Office",
+    "Azure Cloud",
+    "Surface devices",
+    "Xbox"
   ],
-  "extracted_at": "2026-05-12 17:54:10",
+  "extracted_at": "2026-05-13 17:56:04",
   "sources": [
     {
       "source": "Wikipedia",
@@ -53,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Microsoft",
+      "url": "https://www.microsoft.com/en-us/customers/",
       "query": "Microsoft Corporation major customers clients",
-      "snippet": "Microsoft Corporation is an American multinational technology company headquartered in Redmond, Washington. The company became influential in the rise"
+      "snippet": "Explore customer success stories to learn how businesses are overcoming challenges, driving innovation, and achieving more with Microsoft solutions."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://account.microsoft.com/account/Account/",
+      "url": "https://csimarket.com/stocks/MSFT-Customers",
       "query": "Microsoft Corporation major customers clients",
-      "snippet": "Skip to main content. Microsoft . Account.Search Search Microsoft .com. No results. Cancel."
+      "snippet": "Microsoft's Comment on Sales, Marketing and Customers We distribute software through OEMs that pre-install our software on new PCs, tablets, servers, "
     }
   ]
 }

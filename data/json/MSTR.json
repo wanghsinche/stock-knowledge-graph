@@ -1,37 +1,37 @@
 {
   "ticker": "MSTR",
   "company_name": "Strategy Inc",
-  "sector": "Technology / Software - Application",
-  "industry": "Business Intelligence & Analytics",
+  "sector": "Technology",
+  "industry": "Software - Application",
   "upstream": [
-    "MSFT",
-    "AMZN",
-    "GOOGL",
-    "ORCL",
-    "IBM"
+    "INTC",
+    "AMD",
+    "NVDA",
+    "QCOM",
+    "MSFT"
   ],
   "downstream": [
-    "Financial services firms",
-    "Retail companies",
-    "Healthcare organizations",
-    "Manufacturing firms",
-    "Government agencies"
+    "NCR Corporation",
+    "Walmart",
+    "JPMorgan Chase",
+    "AT&T",
+    "Verizon"
   ],
   "competitors": [
-    "SAP SE Business Objects",
+    "SAP SE",
     "IBM",
     "ORCL",
     "MSFT",
-    "Tableau Software"
+    "Tableau"
   ],
   "key_products": [
-    "MicroStrategy Analytics Platform",
-    "Mobile BI Applications",
-    "Data Visualization Tools",
-    "Enterprise Data Management",
-    "Embedded Analytics Solutions"
+    "MicroStrategy Desktop",
+    "MicroStrategy Cloud",
+    "MicroStrategy Mobile",
+    "Business Intelligence Platform",
+    "Analytics Software"
   ],
-  "extracted_at": "2026-05-12 17:58:57",
+  "extracted_at": "2026-05-13 18:01:28",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/MSTR/",
+      "url": "https://www.strategyinc.net/services-overview/",
       "query": "Strategy Inc suppliers manufacturers",
-      "snippet": "Find the latest Strategy Inc (MSTR) stock quote, history, news and other vital information to help you with your stock trading and investing."
+      "snippet": "Our Consulting Services At Strategy Inc ., we offer a comprehensive range of consulting services required for life science and medical device due dili"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.alibaba.com/",
+      "url": "https://www.semiconductors.org/ecosystem/",
       "query": "Strategy Inc suppliers manufacturers",
-      "snippet": "Find quality Manufacturers , Suppliers , Exporters, Importers, Buyers, Wholesalers, Products and Trade Leads from our award-winning International Trad"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/MicroStrategy",
-      "query": "Strategy Inc major customers clients",
-      "snippet": "Strategy Inc ., formerly known as MicroStrategy, is an American company that provides business intelligence and mobile software. Founded in 1989 by Mi"
+      "snippet": "Dec 1, 2025 · The U.S. Semiconductor Ecosystem Map demonstrates the breadth of the industry, including locations conducting research and development ("
     },
     {
       "source": "DuckDuckGo",
       "url": "https://finance.yahoo.com/quote/MSTR/",
       "query": "Strategy Inc major customers clients",
       "snippet": "Find the latest Strategy Inc (MSTR) stock quote, history, news and other vital information to help you with your stock trading and investing."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://au.linkedin.com/in/athy-delinikolis-gaicd-mba-00555b22",
+      "query": "Strategy Inc major customers clients",
+      "snippet": "Retail Major Customers Client Operations Executive Director, Global at NCR Corporation. Melbourne, Victoria, Australia. 770 followers 500+ connections"
     }
   ]
 }

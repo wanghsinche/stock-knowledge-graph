@@ -1,57 +1,39 @@
 ---
 ticker: LITE
 company: Lumentum Holdings Inc.
-sector: Technology / Communication Equipment
-industry: Optical Communications
-extracted_at: 2026-05-12 17:54:26
-last_updated: 2026-05-12
+sector: Technology
+industry: Communication Equipment
+extracted_at: 2026-05-13 17:57:51
+last_updated: 2026-05-13
 ---
 
 # LITE - Lumentum Holdings Inc.
 
 ## 基本信息
 
-- **所属行业**: Technology / Communication Equipment / Optical Communications
-- **提取时间**: 2026-05-12 17:54:26
+- **所属行业**: Technology / Communication Equipment
+- **提取时间**: 2026-05-13 17:57:51
 
 ## 产业链关系
 
 ### 上游供应商
-- [[TSM]]
-- [[Optical component manufacturers (e.g., II-VI Incorporated, Coherent)]]
-- [[Laser diode suppliers]]
-- [[Fiber optic cable manufacturers]]
-- [[Photonic integrated circuit suppliers]]
+_暂无数据_
 
 ### 下游客户
-- [[CSCO]]
-- [[DELL]]
-- [[Industrial automation companies]]
-- [[Defense contractors (e.g., Raytheon, Lockheed Martin)]]
-- [[Medical imaging equipment manufacturers]]
+_暂无数据_
 
 ### 竞争对手
-- [[II-VI Incorporated]]
-- [[Coherent]]
-- [[Newport Corporation]]
-- [[Finisar (now part of II-VI)]]
-- [[Lumenis]]
+_暂无数据_
 
 ### 核心产品
-- [[Laser diodes]]
-- [[Optical modulators]]
-- [[Photodetectors]]
-- [[Optical amplifiers]]
-- [[Optical transceivers]]
+_暂无数据_
 
 ## 数据来源
 
 - 
-- [Lumentum Holdings Inc. suppliers manufacturers](https://csimarket.com/stocks/LITE-Suppliers)
-- [Lumentum Holdings Inc. suppliers manufacturers](https://pitchgrade.com/companies/lumentum)
-- [Lumentum Holdings Inc. major customers clients](https://csimarket.com/stocks/LITE-Customers)
-- [Lumentum Holdings Inc. major customers clients](https://pitchgrade.com/companies/lumentum)
+- [Lumentum Holdings Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/Lumentum)
+- [Lumentum Holdings Inc. suppliers manufacturers](https://www.lumentum.com/en/company/supply-chain)
 
 ## 元数据
 
-- **更新日期**: 2026-05-12
+- **更新日期**: 2026-05-13

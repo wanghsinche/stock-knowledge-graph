@@ -1,14 +1,14 @@
 {
   "ticker": "SHOP",
   "company_name": "Shopify Inc.",
-  "sector": "Technology",
-  "industry": "Software - Application",
+  "sector": "Technology / Software - Application",
+  "industry": "E-commerce Platform",
   "upstream": [
-    "Payment processors (e.g., Stripe, PayPal)",
-    "Cloud service providers (AWS, Azure)",
-    "Logistics partners (UPS, FedEx)",
-    "Hardware manufacturers (Shopify POS hardware)",
-    "Software vendors (Shopify themes & apps)"
+    "AMZN",
+    "MSFT",
+    "GOOGL",
+    "Stripe",
+    "PayPal"
   ],
   "downstream": [
     "TSLA",
@@ -18,11 +18,11 @@
     "AB InBev"
   ],
   "competitors": [
-    "ADBE",
-    "WooCommerce (Automattic)",
     "BigCommerce",
-    "CRM",
-    "SAP Commerce Cloud"
+    "ADBE",
+    "WooCommerce",
+    "Wix",
+    "Squarespace"
   ],
   "key_products": [
     "Shopify e-commerce platform",
@@ -31,7 +31,7 @@
     "Shopify Fulfillment Network",
     "Shopify App Store"
   ],
-  "extracted_at": "2026-05-07 17:48:20",
+  "extracted_at": "2026-05-13 18:04:44",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.adsx.com/blog/shopify-supplier-sourcing-guide",
+      "url": "https://en.wikipedia.org/wiki/Shopify",
       "query": "Shopify Inc. suppliers manufacturers",
-      "snippet": "Feb 20, 2026 · A complete guide to finding, vetting, and managing suppliers for your Shopify store—from domestic manufacturers to international suppli"
+      "snippet": "Shopify Inc ., stylized as shopify , is a Canadian multinational e-commerce company headquartered in Ottawa, Ontario that operates a platform for reta"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/SHOP-Suppliers",
+      "url": "https://www.shopify.com/",
       "query": "Shopify Inc. suppliers manufacturers",
-      "snippet": "Feb 12, 2026 · Shopify Inc 's Suppliers recorded an increase in sales by 16.28 % year on year in Q4 2025, from the previous quarter, sales fell by -4."
+      "snippet": "Try Shopify free. Build or grow your business fast with AI.Customize & extend Shopify . Commerce for Agents. Build with our agent tools. Shopify App S"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.thomsondata.com/customer-base/shopify-customers.php",
+      "url": "https://en.wikipedia.org/wiki/Shopify",
       "query": "Shopify Inc. major customers clients",
-      "snippet": "Our Shopify Customers List helps you to target the Shopify Customers by industry type, job, location, and more. Get customized list of Companies Using"
+      "snippet": "Shopify Inc ., stylized as shopify , is a Canadian multinational e-commerce company headquartered in Ottawa, Ontario that operates a platform for reta"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.sitebuilderreport.com/biggest-companies-using-shopify",
+      "url": "https://www.shopify.com/",
       "query": "Shopify Inc. major customers clients",
-      "snippet": "Dec 31, 2025 · We highlight some big stores that represent Shopify ’s mission of making commerce better for everyone. But there are many more—and even"
+      "snippet": "Switch to Shopify . Get more customers .Customize & extend Shopify . Commerce for Agents. Build with our agent tools. Shopify App Store. Largest comme"
     }
   ]
 }

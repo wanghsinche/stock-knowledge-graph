@@ -5,35 +5,33 @@
   "industry": "Internet Content & Information",
   "upstream": [
     "INTC",
-    "NVDA",
-    "QCOM",
     "005930.KS",
-    "TSM"
+    "TSM",
+    "QCOM",
+    "Foxconn"
   ],
   "downstream": [
+    "Advertisers (e.g., Coca-Cola, Nike)",
     "005930.KS",
     "GOOGL",
-    "YouTube advertisers",
-    "GOOGL",
-    "GOOGL"
+    "App developers (e.g., Uber, Spotify)",
+    "Content creators on YouTube"
   ],
   "competitors": [
-    "META",
-    "AMZN",
     "MSFT",
+    "AMZN",
+    "META",
     "AAPL",
-    "Tencent"
+    "NFLX"
   ],
   "key_products": [
     "Google Search",
-    "Android OS",
-    "Google Cloud Platform",
     "YouTube",
-    "Google Ads",
-    "Google Chrome",
-    "Google Workspace"
+    "Google Cloud",
+    "Android",
+    "Google Ads"
   ],
-  "extracted_at": "2026-05-12 17:55:29",
+  "extracted_at": "2026-05-13 17:57:05",
   "sources": [
     {
       "source": "Wikipedia",

@@ -1,19 +1,19 @@
 {
   "ticker": "AVGO",
   "company_name": "Broadcom Inc.",
-  "sector": "Technology",
+  "sector": "Technology / Semiconductors",
   "industry": "Semiconductors",
   "upstream": [
     "TSM",
     "005930.KS",
     "GlobalFoundries",
-    "INTC",
-    "NXP Semiconductors"
+    "ASE Technology Holding",
+    "Amkor Technology"
   ],
   "downstream": [
     "CSCO",
     "DELL",
-    "HPQ",
+    "IBM",
     "AMZN",
     "MSFT"
   ],
@@ -21,17 +21,17 @@
     "QCOM",
     "INTC",
     "NVDA",
-    "TXN",
-    "MediaTek"
+    "MRVL",
+    "TXN"
   ],
   "key_products": [
-    "Wi‑Fi and Bluetooth chips",
-    "Ethernet and network processors",
-    "Broadband modem and router solutions",
-    "Storage controller ICs",
-    "Data‑center networking ASICs"
+    "Broadcom Wi‑Fi chips (BCM4360, BCM4364)",
+    "Broadcom Ethernet controllers (BCM5709)",
+    "Broadcom storage controllers (BCM5719)",
+    "Broadcom infrastructure software (Broadcom NetXtreme)",
+    "Broadcom AI accelerators"
   ],
-  "extracted_at": "2026-05-12 17:55:01",
+  "extracted_at": "2026-05-13 17:57:21",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,9 +47,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.youtube.com/channel/UCTr3zah69bISSVdBcHiKhpA",
+      "url": "https://csimarket.com/stocks/AVGO-Suppliers",
       "query": "Broadcom Inc. suppliers manufacturers",
-      "snippet": "Broadcom ’s infrastructure software solutions serve markets including private cloud, mainframe software, cybersecurity, enterprise software, and Fibre"
+      "snippet": "Broadcom Inc supply chain, list and performance of Broadcom Incs ' suppliers - CSIMarket."
     },
     {
       "source": "DuckDuckGo",
@@ -59,9 +59,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.broadcom.com/support",
+      "url": "https://csimarket.com/stocks/AVGO-Customers",
       "query": "Broadcom Inc. major customers clients",
-      "snippet": "Access Broadcom 's Customer Support Portal to obtain warranty information, find documentation and downloads, and answer other questions you might have"
+      "snippet": "Broadcom Inc 's Comment on Sales, Marketing and Customers We sell our products to leading wired and wireless communications manufacturers. We have als"
     }
   ]
 }

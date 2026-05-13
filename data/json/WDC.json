@@ -1,37 +1,37 @@
 {
   "ticker": "WDC",
   "company_name": "Western Digital Corporation",
-  "sector": "Technology",
-  "industry": "Computer Hardware",
+  "sector": "Technology / Computer Hardware",
+  "industry": "Data Storage",
   "upstream": [
-    "STX",
-    "MU",
     "005930.KS",
     "SK Hynix",
-    "TSM"
+    "MU",
+    "Toshiba",
+    "GlobalFoundries"
   ],
   "downstream": [
     "DELL",
     "HPQ",
-    "Lenovo Group",
-    "AMZN",
-    "MSFT"
+    "Lenovo",
+    "AAPL",
+    "AMZN"
   ],
   "competitors": [
     "STX",
+    "Toshiba",
     "005930.KS",
     "MU",
-    "IBM",
-    "DELL"
+    "INTC"
   ],
   "key_products": [
-    "Hard Disk Drives (HDD)",
-    "Solid State Drives (SSD)",
-    "Enterprise Storage Solutions",
-    "Data Center Storage Systems",
-    "External Portable Drives"
+    "Hard Disk Drives (HDDs)",
+    "Solid State Drives (SSDs)",
+    "External Storage Devices",
+    "Network Attached Storage (NAS) Solutions",
+    "Enterprise Storage Systems"
   ],
-  "extracted_at": "2026-05-12 17:57:11",
+  "extracted_at": "2026-05-13 18:00:03",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Western_Digital",
+      "url": "https://www.westerndigital.com/company/distributors",
       "query": "Western Digital Corporation suppliers manufacturers",
-      "snippet": "Western Digital Corporation , doing business as WD , is an American data storage company headquartered in San Jose, California. Established in 1970, t"
+      "snippet": "Find Western Digital authorized Distributors & Resellers Tiered Pricing for Business Members Get special rates on select products. New products added "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/WDC/",
+      "url": "https://csimarket.com/stocks/WDC-Suppliers",
       "query": "Western Digital Corporation suppliers manufacturers",
-      "snippet": "Western Digital Corporation develops, manufactures , and sells data storage devices and solutions based on hard disk drive (HDD) technology in the Uni"
+      "snippet": "May 3, 2026 · Western Digital supply chain, list and performance of Western Digitals' suppliers - CSIMarket"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Western_Digital",
+      "url": "https://csimarket.com/stocks/WDC-Customers",
       "query": "Western Digital Corporation major customers clients",
-      "snippet": "Western Digital Corporation , doing business as WD , is an American data storage company headquartered in San Jose, California. Established in 1970, t"
+      "snippet": "Western Digital 's Comment on Sales, Marketing and Customers We maintain sales offices in selected parts of the world including the major geographies "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.granitefirm.com/blog/us/2026/01/31/western-digital-thaks-ai/",
+      "url": "https://data.landbase.com/technology/western-digital/",
       "query": "Western Digital Corporation major customers clients",
-      "snippet": "Western Digital secured significant Remaining Performance Obligations (RPO) orders from hyperscale customers . CEO Irving Tan revealed at the Q3 2025 "
+      "snippet": "Aug 17, 2025 · Companies using Western Digital by Western Digital Corporation in 2026 As of 2026, 354 verified companies use Western Digital – across "
     }
   ]
 }

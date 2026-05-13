@@ -1,57 +1,57 @@
 ---
 ticker: HD
 company: The Home Depot, Inc.
-sector: Consumer Cyclical
+sector: Consumer Discretionary
 industry: Home Improvement Retail
-extracted_at: 2026-02-24 17:03:12
-last_updated: 2026-02-24
+extracted_at: 2026-05-13 18:04:04
+last_updated: 2026-05-13
 ---
 
 # HD - The Home Depot, Inc.
 
 ## 基本信息
 
-- **所属行业**: Consumer Cyclical / Home Improvement Retail
-- **提取时间**: 2026-02-24 17:03:12
+- **所属行业**: Consumer Discretionary / Home Improvement Retail
+- **提取时间**: 2026-05-13 18:04:04
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Building materials manufacturers]]
-- [[Appliance manufacturers]]
-- [[Tool manufacturers]]
-- [[Hardware suppliers]]
-- [[Paint and coatings suppliers]]
+- [[Whirlpool]]
+- [[GE Appliances]]
+- [[Bosch]]
+- [[DeWalt]]
+- [[Milwaukee]]
 
 ### 下游客户
-- [[Homeowners]]
+- [[DIY homeowners]]
 - [[Professional contractors]]
-- [[DIY enthusiasts]]
+- [[Construction companies]]
 - [[Real estate developers]]
-- [[Construction firms]]
+- [[Small businesses]]
 
 ### 竞争对手
-- [[Lowe's Companies, Inc.]]
-- [[Menards Inc.]]
+- [[Lowe's]]
+- [[Menards]]
 - [[Ace Hardware]]
-- [[HomeGoods]]
-- [[Walmart (home improvement section)]]
+- [[AMZN]]
+- [[Walmart Home Improvement]]
 
 ### 核心产品
 - [[Power tools]]
-- [[Hand tools]]
 - [[Appliances]]
-- [[Building materials]]
-- [[Paint and coatings]]
+- [[Lumber]]
+- [[Paint]]
+- [[Lawn & garden equipment]]
 
 ## 数据来源
 
 - [Home Depot](https://en.wikipedia.org/wiki/The_Home_Depot,_Inc.)
 - [The Home Depot, Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/Home_Depot)
-- [The Home Depot, Inc. suppliers manufacturers](https://ru.wikipedia.org/wiki/The_Home_Depot)
-- [The Home Depot, Inc. major customers clients](https://en.wikipedia.org/wiki/Home_Depot)
-- [The Home Depot, Inc. major customers clients](https://ru.wikipedia.org/wiki/The_Home_Depot)
+- [The Home Depot, Inc. suppliers manufacturers](https://www.homedepot.com/)
+- [The Home Depot, Inc. major customers clients](https://ir.homedepot.com/~/media/Files/H/HomeDepot-IR/2025/HD_2024_AR_IRsite_v2.pdf)
+- [The Home Depot, Inc. major customers clients](https://businessmodelanalyst.com/home-depot-target-market-analysis/)
 
 ## 元数据
 
-- **更新日期**: 2026-02-24
+- **更新日期**: 2026-05-13

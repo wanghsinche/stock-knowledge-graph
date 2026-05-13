@@ -3,8 +3,8 @@ ticker: NFLX
 company: Netflix, Inc.
 sector: Communication Services
 industry: Entertainment
-extracted_at: 2026-05-12 17:57:35
-last_updated: 2026-05-12
+extracted_at: 2026-05-13 18:01:41
+last_updated: 2026-05-13
 ---
 
 # NFLX - Netflix, Inc.
@@ -12,23 +12,23 @@ last_updated: 2026-05-12
 ## 基本信息
 
 - **所属行业**: Communication Services / Entertainment
-- **提取时间**: 2026-05-12 17:57:35
+- **提取时间**: 2026-05-13 18:01:41
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Warner Bros. Discovery]]
-- [[Disney]]
-- [[SONY]]
-- [[Universal Studios]]
-- [[Paramount Global]]
+- [[Content production studios (e.g., Warner Bros., Disney)]]
+- [[Independent film and TV production companies]]
+- [[AMZN]]
+- [[Technology suppliers (e.g., cloud infrastructure providers)]]
+- [[Marketing and advertising agencies]]
 
 ### 下游客户
-- [[Individual subscribers worldwide]]
-- [[Smartphone users]]
-- [[Smart TV users]]
-- [[Streaming device users]]
-- [[Household consumers]]
+- [[Individual consumers (home viewers)]]
+- [[005930.KS]]
+- [[AMZN]]
+- [[NFLX]]
+- [[NFLX]]
 
 ### 竞争对手
 - [[Disney+]]
@@ -38,20 +38,20 @@ last_updated: 2026-05-12
 - [[AAPL]]
 
 ### 核心产品
-- [[Netflix streaming service]]
-- [[Original programming (Netflix Originals)]]
-- [[Licensed TV and film content]]
+- [[Over-the-top streaming service]]
+- [[Original series and films]]
+- [[Licensed movies and TV shows]]
 - [[Mobile and web applications]]
-- [[Smart TV and streaming device apps]]
+- [[Interactive content (e.g., Netflix Games)]]
 
 ## 数据来源
 
 - [Netflix, Inc.](https://en.wikipedia.org/wiki/Netflix,_Inc.)
-- [Netflix, Inc. suppliers manufacturers](https://www.alibaba.com/)
-- [Netflix, Inc. suppliers manufacturers](https://www.case48.com/porter-analysis/5226-Netflix-Inc)
-- [Netflix, Inc. major customers clients](https://www.bloomberg.com/news/newsletters/2024-06-23/netflix-s-advertising-challenge-it-isn-t-big-enough)
-- [Netflix, Inc. major customers clients](https://www.inc.com/jason-aten/theres-no-one-left-to-sign-up-for-netflix-so-its-raising-prices-again-instead.html)
+- [Netflix, Inc. suppliers manufacturers](https://npfp.netflixstudios.com/region/global/)
+- [Netflix, Inc. suppliers manufacturers](https://csimarket.com/stocks/NFLX-Suppliers)
+- [Netflix, Inc. major customers clients](https://www.inc.com/jason-aten/netflix-just-revealed-its-doing-the-1-thing-customers-were-most-afraid-of/91110628)
+- [Netflix, Inc. major customers clients](https://www.netflix.com/fi-en/)
 
 ## 元数据
 
-- **更新日期**: 2026-05-12
+- **更新日期**: 2026-05-13

@@ -3,8 +3,8 @@ ticker: INTC
 company: Intel Corporation
 sector: Technology
 industry: Semiconductors
-extracted_at: 2026-05-12 17:53:35
-last_updated: 2026-05-12
+extracted_at: 2026-05-13 17:55:16
+last_updated: 2026-05-13
 ---
 
 # INTC - Intel Corporation
@@ -12,21 +12,21 @@ last_updated: 2026-05-12
 ## 基本信息
 
 - **所属行业**: Technology / Semiconductors
-- **提取时间**: 2026-05-12 17:53:35
+- **提取时间**: 2026-05-13 17:55:16
 
 ## 产业链关系
 
 ### 上游供应商
+- [[TSM]]
+- [[005930.KS]]
+- [[GlobalFoundries]]
 - [[ASML]]
 - [[AMAT]]
-- [[LRCX]]
-- [[Tokyo Electron]]
-- [[KLA]]
 
 ### 下游客户
 - [[DELL]]
-- [[HPQ]]
 - [[Lenovo]]
+- [[HPQ]]
 - [[AAPL]]
 - [[MSFT]]
 
@@ -35,23 +35,23 @@ last_updated: 2026-05-12
 - [[NVDA]]
 - [[QCOM]]
 - [[AVGO]]
-- [[TSM]]
+- [[005930.KS]]
 
 ### 核心产品
 - [[Intel Core CPUs]]
 - [[Intel Xeon CPUs]]
-- [[Intel chipsets]]
-- [[Intel integrated graphics]]
 - [[Intel Optane memory]]
+- [[Intel Ethernet controllers]]
+- [[Intel Xe GPUs]]
 
 ## 数据来源
 
 - [Intel](https://en.wikipedia.org/wiki/Intel_Corporation)
 - [Intel Corporation suppliers manufacturers](https://en.wikipedia.org/wiki/Intel)
-- [Intel Corporation suppliers manufacturers](https://finance.yahoo.com/quote/INTC/)
+- [Intel Corporation suppliers manufacturers](https://www.intel.com/content/www/us/en/supplier/overview.html)
 - [Intel Corporation major customers clients](https://en.wikipedia.org/wiki/Intel)
-- [Intel Corporation major customers clients](https://www.pcgamer.com/hardware/processors/intel-has-just-18-months-to-land-a-hero-customer-on-14a-or-its-cutting-edge-fabs-are-toast-says-chip-industry-analyst/)
+- [Intel Corporation major customers clients](https://www.investopedia.com/articles/markets/100214/inside-intel-look-mega-chipmaker.asp)
 
 ## 元数据
 
-- **更新日期**: 2026-05-12
+- **更新日期**: 2026-05-13

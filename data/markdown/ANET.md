@@ -3,8 +3,8 @@ ticker: ANET
 company: Arista Networks, Inc.
 sector: Technology
 industry: Computer Hardware
-extracted_at: 2026-05-11 17:59:55
-last_updated: 2026-05-11
+extracted_at: 2026-05-13 18:02:59
+last_updated: 2026-05-13
 ---
 
 # ANET - Arista Networks, Inc.
@@ -12,37 +12,37 @@ last_updated: 2026-05-11
 ## 基本信息
 
 - **所属行业**: Technology / Computer Hardware
-- **提取时间**: 2026-05-11 17:59:55
+- **提取时间**: 2026-05-13 18:02:59
 
 ## 产业链关系
 
 ### 上游供应商
-- [[AVGO]]
 - [[INTC]]
+- [[AVGO]]
 - [[QCOM]]
 - [[TXN]]
-- [[MU]]
+- [[MRVL]]
 
 ### 下游客户
 - [[AMZN]]
 - [[GOOGL]]
 - [[MSFT]]
-- [[META]]
-- [[NFLX]]
+- [[Facebook]]
+- [[Alibaba Cloud]]
 
 ### 竞争对手
 - [[CSCO]]
 - [[JNPR]]
-- [[Arista's own older models (e.g., 7000 series)]]
-- [[Huawei Technologies]]
-- [[DELL]]
+- [[Extreme Networks]]
+- [[Cumulus Networks]]
+- [[Huawei]]
 
 ### 核心产品
-- [[Arista 7000 Series Ethernet Switches]]
-- [[Arista 7500 Series Cloud‑Edge Switches]]
+- [[Arista 7500E Series Switches]]
+- [[Arista 7280 Series Switches]]
+- [[Arista 7500 Series Switches]]
 - [[Arista EOS (Extensible Operating System)]]
-- [[CloudVision SDN Platform]]
-- [[Arista 7800 Series Data‑Center Switches]]
+- [[Cloud networking solutions for data centers and AI workloads]]
 
 ## 数据来源
 
@@ -54,4 +54,4 @@ last_updated: 2026-05-11
 
 ## 元数据
 
-- **更新日期**: 2026-05-11
+- **更新日期**: 2026-05-13

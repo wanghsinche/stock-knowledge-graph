@@ -6,32 +6,32 @@
   "upstream": [
     "TSM",
     "005930.KS",
+    "CAT",
     "MU",
-    "SK Hynix",
-    "ASE"
+    "NVDA"
   ],
   "downstream": [
-    "AMZN",
-    "GOOGL",
+    "DELL",
     "MSFT",
     "TSLA",
-    "SONY"
+    "ADBE",
+    "NVDA"
   ],
   "competitors": [
     "AMD",
     "INTC",
     "QCOM",
     "AAPL",
-    "AVGO"
+    "ARM Holdings (GPU IP licensing)"
   ],
   "key_products": [
-    "GeForce RTX GPUs",
-    "Tesla A100 GPU",
-    "Jetson AGX Xavier",
-    "DGX A100",
-    "CUDA platform"
+    "GeForce GPUs (consumer gaming)",
+    "Quadro/RTX GPUs (professional visualization)",
+    "Tesla GPUs (data center & AI)",
+    "NVIDIA RTX SoCs (mobile & automotive)",
+    "CUDA API & software ecosystem"
   ],
-  "extracted_at": "2026-05-12 17:52:57",
+  "extracted_at": "2026-05-13 17:54:42",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,13 +43,13 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Nvidia",
       "query": "NVIDIA Corporation suppliers manufacturers",
-      "snippet": "19 hours ago - In August 2025, Nvidia ordered ... due to security concerns. The company directed suppliers including Taiwan Semiconductor Manufacturin"
+      "snippet": "Nvidia uses external suppliers for all phases of manufacturing , including wafer fabrication, assembly, testing, and packaging. Nvidia thus avoids mos"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.accio.com/supplier/nvidia-supplier-list",
+      "url": "https://www.investing.com/equities/nvidia-corp",
       "query": "NVIDIA Corporation suppliers manufacturers",
-      "snippet": "3 weeks ago - NVIDIA's key suppliers span various critical areas of semiconductor manufacturing and assembly. These include TSMC (Taiwan Semiconductor"
+      "snippet": "View today's NVIDIA Corporation stock price and latest NVDA news and analysis. Create real-time notifications to follow any changes in the live stock "
     },
     {
       "source": "DuckDuckGo",
@@ -59,9 +59,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.fool.com/investing/2024/10/30/46-nvidia-revenue-came-from-4-mystery-customers/",
+      "url": "https://qz.com/nvidia-ai-chips-customers-google-microsoft-meta-amazon-1851653971",
       "query": "NVIDIA Corporation major customers clients",
-      "snippet": "Nvidia 's other top customers could be some combination of Amazon, Alphabet, Meta Platforms, Oracle, Tesla, and OpenAI. According to public filings, h"
+      "snippet": "While the customers are anonymous in Nvidia ’s 10-Q regulatory filing, “ Customer A” made up 14% of Nvidia ’s revenue, while two customers made up 11%"
     }
   ]
 }

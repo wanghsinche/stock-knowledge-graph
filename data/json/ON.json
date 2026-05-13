@@ -4,18 +4,14 @@
   "sector": "Technology",
   "industry": "Semiconductors",
   "upstream": [
-    "TSM",
-    "005930.KS",
-    "GlobalFoundries",
-    "AMAT",
-    "ASML"
+    "Diodes Incorporated"
   ],
   "downstream": [
-    "Ford Motor Company",
-    "QCOM",
-    "DELL",
-    "Philips Lighting",
-    "GE Healthcare"
+    "General Motors",
+    "Ford",
+    "005930.KS",
+    "AAPL",
+    "MSFT"
   ],
   "competitors": [
     "TXN",
@@ -25,13 +21,13 @@
     "STMicroelectronics"
   ],
   "key_products": [
-    "Power Management ICs",
-    "Signal Management ICs",
+    "Power management ICs",
+    "Signal processing ICs",
     "Logic ICs",
-    "Discrete Devices",
-    "Custom Semiconductor Solutions"
+    "Discrete semiconductors",
+    "Custom devices"
   ],
-  "extracted_at": "2026-05-07 17:50:36",
+  "extracted_at": "2026-05-13 18:01:58",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,15 +37,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Onsemi",
+      "url": "https://en.wikipedia.org/wiki/Diodes_Incorporated",
       "query": "ON Semiconductor Corporation suppliers manufacturers",
-      "snippet": "ON Semiconductor Corporation (stylized and doing business as onsemi) is an American semiconductor supplier company, based in Scottsdale, Arizona . Pro"
+      "snippet": "Diodes Incorporated is a global manufacturer and supplier of application specific standard products within the discrete, logic, analog, and mixed-sign"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/ON-Suppliers",
+      "url": "https://www.case48.com/porter-analysis/6014-ON-Semiconductor-Corporation",
       "query": "ON Semiconductor Corporation suppliers manufacturers",
-      "snippet": "Feb 9, 2026 · On Semiconductor 's Suppliers recorded an increase in sales by 20.95 % year on year in Q4 2025, sequentially sales grew by 190.33 %, On "
+      "snippet": "ON Semiconductor Corporation is highly price sensitive and has adequate market knowledge. There is no threat of forward integration by suppliers . How"
     },
     {
       "source": "DuckDuckGo",
@@ -59,9 +55,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/competition2.php?markets&code=ON",
+      "url": "https://csimarket.com/stocks/ON-Customers",
       "query": "ON Semiconductor Corporation major customers clients",
-      "snippet": "Explore On Semiconductor Corporation 's customer comparisons, including sales, income, profitability, and cash flow metrics."
+      "snippet": "On Semiconductor 's Customers have recorded an increase in their cost of revenue by 12.57 % in the 1 quarter 2026 year on year, sequentially costs of "
     }
   ]
 }

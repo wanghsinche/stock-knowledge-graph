@@ -4,34 +4,34 @@
   "sector": "Consumer Cyclical",
   "industry": "Auto Manufacturers",
   "upstream": [
-    "Flex",
-    "Bosch",
-    "Denso",
-    "Magna International",
-    "Continental AG"
+    "Boeing (aerospace components)",
+    "Denso (automotive electronics)",
+    "Continental (tires and brake systems)",
+    "ArcelorMittal (steel)",
+    "BASF (chemical compounds)"
   ],
   "downstream": [
-    "Individual consumers",
-    "Commercial fleet operators",
-    "Government agencies",
-    "Rental car companies",
-    "Corporate leasing customers"
+    "Ford dealerships (retail customers)",
+    "Commercial fleet operators (e.g., UPS, FedEx)",
+    "Government agencies (military and municipal vehicles)",
+    "Ride‑hailing services (Uber, Lyft)",
+    "International export markets (Europe, Asia, Latin America)"
   ],
   "competitors": [
     "General Motors",
-    "Toyota",
-    "Honda",
+    "Toyota Motor Corporation",
+    "Honda Motor Co.",
     "TSLA",
-    "Nissan"
+    "Hyundai Motor Group"
   ],
   "key_products": [
-    "Ford F-Series trucks",
+    "Ford F‑150",
     "Ford Mustang",
     "Ford Explorer",
-    "Ford Transit",
-    "Lincoln Continental"
+    "Lincoln Continental",
+    "Ford Transit (commercial van)"
   ],
-  "extracted_at": "2026-03-02 16:47:39",
+  "extracted_at": "2026-05-13 17:59:42",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/List_of_Ford_factories",
-      "query": "Ford Motor Company suppliers manufacturers",
-      "snippet": "The following is a list of current, former, and confirmed future facilities of Ford Motor Company for manufacturing automobiles and other components. "
-    },
-    {
-      "source": "DuckDuckGo",
       "url": "https://www.investopedia.com/ask/answers/052715/who-are-fords-f-main-suppliers.asp",
       "query": "Ford Motor Company suppliers manufacturers",
-      "snippet": "Dec 16, 2025 · Some of the key suppliers for Ford Motor Company (F) include Flex-N-Gate Seeburn, NHK Spring, and Valeo Electric and Electronic Systems"
+      "snippet": "Dec 16, 2025 · Explore the history and current operations of Ford Motor Co. and discover some of its primary global parts suppliers . Discover Ford 's"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://canvasbusinessmodel.com/blogs/target-market/ford-motor-target-market",
-      "query": "Ford Motor Company major customers clients",
-      "snippet": "Jul 11, 2025 · Understanding the primary customer segments is crucial for the success of any major automotive company, and the same is true for Ford M"
+      "url": "https://corporate.ford.com/operations/locations/global-plants/",
+      "query": "Ford Motor Company suppliers manufacturers",
+      "snippet": "Discover Ford 's extensive network of global manufacturing plants, producing vehicles and components worldwide."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://pestel-analysis.com/blogs/target-market/ford",
+      "url": "https://en.wikipedia.org/wiki/Henry_Ford",
       "query": "Ford Motor Company major customers clients",
-      "snippet": "Oct 9, 2025 · Ford's customer base spans various age groups and income levels, reflecting its broad product portfolio. The company targets families se"
+      "snippet": "He founded the Ford Motor Company in 1903 after prior failures in business, but was successful in constructing automobiles. The introduction of the Fo"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.linkedin.com/company/ford-motor-company",
+      "query": "Ford Motor Company major customers clients",
+      "snippet": "Ford Motor Company | 4,414,768 followers on LinkedIn.We believe in serving our customers , our communities, and the world. If you do, too, come move t"
     }
   ]
 }

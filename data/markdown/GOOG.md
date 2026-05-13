@@ -3,8 +3,8 @@ ticker: GOOG
 company: Alphabet Inc.
 sector: Communication Services
 industry: Internet Content & Information
-extracted_at: 2026-05-12 17:55:29
-last_updated: 2026-05-12
+extracted_at: 2026-05-13 17:57:05
+last_updated: 2026-05-13
 ---
 
 # GOOG - Alphabet Inc.
@@ -12,39 +12,37 @@ last_updated: 2026-05-12
 ## 基本信息
 
 - **所属行业**: Communication Services / Internet Content & Information
-- **提取时间**: 2026-05-12 17:55:29
+- **提取时间**: 2026-05-13 17:57:05
 
 ## 产业链关系
 
 ### 上游供应商
 - [[INTC]]
-- [[NVDA]]
-- [[QCOM]]
 - [[005930.KS]]
 - [[TSM]]
+- [[QCOM]]
+- [[Foxconn]]
 
 ### 下游客户
+- [[Advertisers (e.g., Coca-Cola, Nike)]]
 - [[005930.KS]]
 - [[GOOGL]]
-- [[YouTube advertisers]]
-- [[GOOGL]]
-- [[GOOGL]]
+- [[App developers (e.g., Uber, Spotify)]]
+- [[Content creators on YouTube]]
 
 ### 竞争对手
-- [[META]]
-- [[AMZN]]
 - [[MSFT]]
+- [[AMZN]]
+- [[META]]
 - [[AAPL]]
-- [[Tencent]]
+- [[NFLX]]
 
 ### 核心产品
 - [[Google Search]]
-- [[Android OS]]
-- [[Google Cloud Platform]]
 - [[YouTube]]
+- [[Google Cloud]]
+- [[Android]]
 - [[Google Ads]]
-- [[Google Chrome]]
-- [[Google Workspace]]
 
 ## 数据来源
 
@@ -56,4 +54,4 @@ last_updated: 2026-05-12
 
 ## 元数据
 
-- **更新日期**: 2026-05-12
+- **更新日期**: 2026-05-13

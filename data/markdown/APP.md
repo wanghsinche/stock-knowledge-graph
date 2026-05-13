@@ -2,17 +2,17 @@
 ticker: APP
 company: AppLovin Corporation
 sector: Communication Services
-industry: Advertising Agencies
-extracted_at: 2026-05-12 18:03:05
-last_updated: 2026-05-12
+industry: Advertising Technology
+extracted_at: 2026-05-13 18:01:03
+last_updated: 2026-05-13
 ---
 
 # APP - AppLovin Corporation
 
 ## 基本信息
 
-- **所属行业**: Communication Services / Advertising Agencies
-- **提取时间**: 2026-05-12 18:03:05
+- **所属行业**: Communication Services / Advertising Technology
+- **提取时间**: 2026-05-13 18:01:03
 
 ## 产业链关系
 
@@ -20,38 +20,38 @@ last_updated: 2026-05-12
 - [[GOOGL]]
 - [[AMZN]]
 - [[MSFT]]
-- [[Facebook]]
-- [[Twitter]]
+- [[ORCL]]
+- [[IBM]]
 
 ### 下游客户
-- [[Mobile app developers]]
-- [[Advertisers]]
-- [[Gaming companies]]
-- [[Media companies]]
-- [[E-commerce platforms]]
+- [[Mobile game developers]]
+- [[App publishers]]
+- [[Social media platforms]]
+- [[E‑commerce app developers]]
+- [[Streaming app developers]]
 
 ### 竞争对手
-- [[Unity Technologies]]
-- [[IronSource]]
+- [[Unity Ads]]
 - [[AdColony]]
 - [[Vungle]]
-- [[GOOGL]]
+- [[IronSource]]
+- [[Tapjoy]]
 
 ### 核心产品
 - [[AppLovin Marketing Platform]]
-- [[AppLovin SDK]]
-- [[AppLovin Audience Network]]
-- [[AppLovin Data Platform]]
-- [[AppLovin Mobile Advertising Solutions]]
+- [[Mobile advertising solutions]]
+- [[In‑app advertising]]
+- [[User acquisition services]]
+- [[Analytics & attribution]]
 
 ## 数据来源
 
 - 
-- [AppLovin Corporation major customers clients](https://www.applovin.com/)
-- [AppLovin Corporation major customers clients](https://www.insidermonkey.com/blog/applovin-corporation-nasdaqapp-q1-2026-earnings-call-transcript-1756993/)
-- [AppLovin Corporation competitors alternatives](https://pitchgrade.com/companies/applovin)
-- [AppLovin Corporation competitors alternatives](https://www.globaldata.com/company-profile/applovin-corporation/competitors/)
+- [AppLovin Corporation suppliers manufacturers](https://www.applovin.com/)
+- [AppLovin Corporation suppliers manufacturers](https://craft.co/applovin/locations)
+- [AppLovin Corporation major customers clients](https://en.wikipedia.org/wiki/AppLovin)
+- [AppLovin Corporation major customers clients](https://csimarket.com/stocks/APP-Customers)
 
 ## 元数据
 
-- **更新日期**: 2026-05-12
+- **更新日期**: 2026-05-13

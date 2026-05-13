@@ -2,36 +2,36 @@
   "ticker": "COIN",
   "company_name": "Coinbase Global, Inc.",
   "sector": "Financial Services",
-  "industry": "Cryptocurrency Exchange & Financial Data",
+  "industry": "Financial Data & Stock Exchanges",
   "upstream": [
     "AMZN",
     "MSFT",
-    "GOOGL",
-    "Stripe",
-    "Coinbase's own blockchain infrastructure"
+    "Stripe (payment processing)",
+    "Plaid (financial data aggregation)",
+    "CAT"
   ],
   "downstream": [
     "Retail cryptocurrency traders",
-    "Institutional investors",
-    "Merchant payment processors",
-    "DeFi protocol developers",
-    "Crypto asset custodians"
+    "Institutional investors (hedge funds, family offices)",
+    "Crypto‑asset custodians",
+    "Merchants accepting crypto payments",
+    "Developers using Coinbase APIs"
   ],
   "competitors": [
     "Binance",
     "Kraken",
     "Gemini",
     "Bitstamp",
-    "Huobi"
+    "FTX (formerly)"
   ],
   "key_products": [
-    "Coinbase Pro",
-    "Coinbase Wallet",
-    "Coinbase Custody",
-    "Coinbase Earn",
-    "Coinbase Prime"
+    "Cryptocurrency trading platform",
+    "Custody services for institutional clients",
+    "Staking and yield products",
+    "Crypto wallet (Coinbase Wallet)",
+    "API and developer tools"
   ],
-  "extracted_at": "2026-05-12 18:02:39",
+  "extracted_at": "2026-05-13 18:04:16",
   "sources": [
     {
       "source": "Wikipedia",

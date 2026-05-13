@@ -7,31 +7,31 @@
     "NVDA",
     "AMD",
     "INTC",
-    "GOOGL",
-    "AMZN"
+    "Supermicro",
+    "DELL"
   ],
   "downstream": [
     "OpenAI",
     "GOOGL",
     "MSFT",
-    "AMZN",
-    "DeepMind"
+    "IBM",
+    "AMZN"
   ],
   "competitors": [
-    "NVDA",
-    "AWS Inferentia",
+    "AMZN",
     "GOOGL",
     "MSFT",
-    "IBM"
+    "NVDA",
+    "Cerebras Systems"
   ],
   "key_products": [
-    "GPU‑based cloud infrastructure",
-    "GPU management software",
-    "AI training and inference services",
-    "GPU virtualization platform",
-    "AI compute orchestration tools"
+    "GPU‑based AI compute instances",
+    "CoreWeave Compute Service",
+    "Chip management software",
+    "AI workload orchestration platform",
+    "High‑performance networking"
   ],
-  "extracted_at": "2026-05-12 17:57:00",
+  "extracted_at": "2026-05-13 17:59:52",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,25 +43,25 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/CoreWeave",
       "query": "CoreWeave, Inc. suppliers manufacturers",
-      "snippet": "CoreWeave , Inc . is an American artificial intelligence cloud-computing company based in Livingston, New Jersey."
+      "snippet": "CoreWeave , Inc . is an American artificial intelligence (AI) cloud-computing company based in Livingston, New Jersey. It specializes in providing clo"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://investors.coreweave.com/",
+      "url": "https://investors.coreweave.com/overview/default.aspx",
       "query": "CoreWeave, Inc. suppliers manufacturers",
-      "snippet": "Trusted by leading AI labs, startups, and global enterprises, CoreWeave serves as a force multiplier by combining superior infrastructure performance "
+      "snippet": "6 days ago · CoreWeave Investor Relations Corporate Overview CoreWeave is The Essential Cloud for AI™. Built for pioneers by pioneers, CoreWeave deliv"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/CoreWeave",
+      "url": "https://www.coreweave.com/case-studies",
       "query": "CoreWeave, Inc. major customers clients",
-      "snippet": "CoreWeave , Inc . is an American artificial intelligence cloud-computing company based in Livingston, New Jersey. It specializes in providing cloud-ba"
+      "snippet": "Customer stories Where Customers Become Pioneers Discover how CoreWeave customers transform ambition into achievement. These pioneers are shaping the "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.allvest.co/us-stocks/coreweave-inc",
+      "url": "https://www.appsruntheworld.com/customers-database/products/view/coreweave-compute-services",
       "query": "CoreWeave, Inc. major customers clients",
-      "snippet": "CoreWeave , Inc ., formerly known as Atlantic Crypto Corporation, is a leading provider of AI cloud infrastructure. CoreWeave has solidified its marke"
+      "snippet": "Contact APPS RUN THE WORLD to access the full verified CoreWeave Compute Services customer database with detailed Firmographics such as industry, geog"
     }
   ]
 }

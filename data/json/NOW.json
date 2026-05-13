@@ -1,28 +1,28 @@
 {
   "ticker": "NOW",
   "company_name": "ServiceNow, Inc.",
-  "sector": "Technology / Software - Application",
-  "industry": "Enterprise Software",
+  "sector": "Technology",
+  "industry": "Software - Application",
   "upstream": [
-    "AMZN",
     "MSFT",
+    "AMZN",
     "GOOGL",
-    "IBM",
-    "ORCL"
+    "ORCL",
+    "IBM"
   ],
   "downstream": [
-    "U.S. Department of Defense",
     "Bank of America",
     "Coca‑Cola",
     "Walmart",
-    "Airbnb"
+    "AT&T",
+    "Citigroup"
   ],
   "competitors": [
-    "MSFT",
     "CRM",
-    "SAP SuccessFactors",
-    "Workday",
-    "ORCL"
+    "MSFT",
+    "SAP",
+    "ORCL",
+    "IBM"
   ],
   "key_products": [
     "Now Platform",
@@ -31,7 +31,7 @@
     "IT Business Management (ITBM)",
     "Customer Service Management (CSM)"
   ],
-  "extracted_at": "2026-05-12 18:02:08",
+  "extracted_at": "2026-05-13 18:03:37",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,9 +41,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.servicenow.com/",
+      "url": "https://theenterpriseworld.com/10-servicenow-partners-in-2024/",
       "query": "ServiceNow, Inc. suppliers manufacturers",
-      "snippet": "Streamline your enterprise workflows with the ServiceNow AI Platform—empowering both customers and employees in every corner of your business."
+      "snippet": "Advanced partnership with ServiceNow , incorporating AI to automate complex workflows.Key Takeaways for CDW Logistics, Inc . 1. Responsive ServiceNow "
     },
     {
       "source": "DuckDuckGo",
@@ -53,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.servicenow.com/",
+      "url": "https://www.aventionmedia.com/technology-installed-base/servicenow/",
       "query": "ServiceNow, Inc. major customers clients",
-      "snippet": "Streamline your enterprise workflows with the ServiceNow AI Platform—empowering both customers and employees in every corner of your business."
+      "snippet": "Discover Avention Media’s accurate and customizable ServiceNow customers list. Our verified ServiceNow data helps you target key decision-makers and c"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.theregister.com/off-prem/2026/04/13/how-servicenow-gets-customers-to-gorge-at-the-ai-trough/5226329",
+      "url": "https://www.servicenow.com/customers.html",
       "query": "ServiceNow, Inc. major customers clients",
-      "snippet": "ServiceNow senior vice president John Aisien, who oversees forward-deployed engineering and strategic partnerships with companies like Anthropic and M"
+      "snippet": "Discover the measurable improvements ServiceNow delivers to enhance efficiency, productivity, and customer satisfaction"
     }
   ]
 }

@@ -3,8 +3,8 @@ ticker: PLTR
 company: Palantir Technologies Inc.
 sector: Technology
 industry: Software - Infrastructure
-extracted_at: 2026-05-12 17:56:07
-last_updated: 2026-05-12
+extracted_at: 2026-05-13 17:56:40
+last_updated: 2026-05-13
 ---
 
 # PLTR - Palantir Technologies Inc.
@@ -12,7 +12,7 @@ last_updated: 2026-05-12
 ## 基本信息
 
 - **所属行业**: Technology / Software - Infrastructure
-- **提取时间**: 2026-05-12 17:56:07
+- **提取时间**: 2026-05-13 17:56:40
 
 ## 产业链关系
 
@@ -20,15 +20,15 @@ last_updated: 2026-05-12
 - [[AMZN]]
 - [[MSFT]]
 - [[GOOGL]]
-- [[IBM]]
 - [[ORCL]]
+- [[IBM]]
 
 ### 下游客户
 - [[U.S. Department of Defense]]
 - [[INTC]]
-- [[Federal Bureau of Investigation]]
-- [[European Union agencies]]
-- [[Airbus]]
+- [[U.S. Department of Justice]]
+- [[UK Ministry of Defence]]
+- [[Walmart]]
 
 ### 竞争对手
 - [[Snowflake]]
@@ -38,20 +38,20 @@ last_updated: 2026-05-12
 - [[Qlik]]
 
 ### 核心产品
-- [[Palantir Foundry]]
-- [[Palantir Gotham]]
-- [[Palantir Apollo]]
-- [[Palantir Data Lake]]
-- [[Palantir AI]]
+- [[Foundry]]
+- [[Gotham]]
+- [[Apollo]]
+- [[Helix]]
+- [[Metropolis]]
 
 ## 数据来源
 
 - [Palantir](https://en.wikipedia.org/wiki/Palantir_Technologies_Inc.)
 - [Palantir Technologies Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/Palantir)
-- [Palantir Technologies Inc. suppliers manufacturers](https://finance.yahoo.com/quote/PLTR/)
-- [Palantir Technologies Inc. major customers clients](https://en.wikipedia.org/wiki/Palantir)
-- [Palantir Technologies Inc. major customers clients](https://polymarket.com/event/palantir-of-customers-above-in-q1/palantir-total-customers-above-1060-in-q1)
+- [Palantir Technologies Inc. suppliers manufacturers](https://csimarket.com/stocks/PLTR-Suppliers)
+- [Palantir Technologies Inc. major customers clients](https://www.appsruntheworld.com/customers-database/products/view/palantir-foundry)
+- [Palantir Technologies Inc. major customers clients](https://financhill.com/blog/investing/who-are-palantir-biggest-customers)
 
 ## 元数据
 
-- **更新日期**: 2026-05-12
+- **更新日期**: 2026-05-13

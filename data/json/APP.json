@@ -2,36 +2,36 @@
   "ticker": "APP",
   "company_name": "AppLovin Corporation",
   "sector": "Communication Services",
-  "industry": "Advertising Agencies",
+  "industry": "Advertising Technology",
   "upstream": [
     "GOOGL",
     "AMZN",
     "MSFT",
-    "Facebook",
-    "Twitter"
+    "ORCL",
+    "IBM"
   ],
   "downstream": [
-    "Mobile app developers",
-    "Advertisers",
-    "Gaming companies",
-    "Media companies",
-    "E-commerce platforms"
+    "Mobile game developers",
+    "App publishers",
+    "Social media platforms",
+    "E‑commerce app developers",
+    "Streaming app developers"
   ],
   "competitors": [
-    "Unity Technologies",
-    "IronSource",
+    "Unity Ads",
     "AdColony",
     "Vungle",
-    "GOOGL"
+    "IronSource",
+    "Tapjoy"
   ],
   "key_products": [
     "AppLovin Marketing Platform",
-    "AppLovin SDK",
-    "AppLovin Audience Network",
-    "AppLovin Data Platform",
-    "AppLovin Mobile Advertising Solutions"
+    "Mobile advertising solutions",
+    "In‑app advertising",
+    "User acquisition services",
+    "Analytics & attribution"
   ],
-  "extracted_at": "2026-05-12 18:03:05",
+  "extracted_at": "2026-05-13 18:01:03",
   "sources": [
     {
       "source": "Wikipedia",
@@ -42,26 +42,26 @@
     {
       "source": "DuckDuckGo",
       "url": "https://www.applovin.com/",
+      "query": "AppLovin Corporation suppliers manufacturers",
+      "snippet": "AppLovin enables businesses to advertise profitably with marketing technologies that attract customers, increase revenue, and track ad performance."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://craft.co/applovin/locations",
+      "query": "AppLovin Corporation suppliers manufacturers",
+      "snippet": "AppLovin is headquartered in Palo Alto, 1100 Page Mill Rd, United States, and has 1 office location. Locations. Country."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/AppLovin",
       "query": "AppLovin Corporation major customers clients",
-      "snippet": "AppLovin enables businesses to advertise profitably with marketing technologies that attract customers , increase revenue, and track ad performance."
+      "snippet": "AppLovin Corporation is an American mobile technology company headquartered in Palo Alto, California. [3] Founded in 2012, the company helps developer"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.insidermonkey.com/blog/applovin-corporation-nasdaqapp-q1-2026-earnings-call-transcript-1756993/",
+      "url": "https://csimarket.com/stocks/APP-Customers",
       "query": "AppLovin Corporation major customers clients",
-      "snippet": "AppLovin Corporation beats earnings expectations. Reported EPS is $3.56, expectations were $3.44.That is a major milestone. For 14 years, we have been"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://pitchgrade.com/companies/applovin",
-      "query": "AppLovin Corporation competitors alternatives",
-      "snippet": "5. Who are AppLovin Corporation 's competitors ? AppLovin Corporation competes in the Advertising Agencies sector against companies including Alphabet"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.globaldata.com/company-profile/applovin-corporation/competitors/",
-      "query": "AppLovin Corporation competitors alternatives",
-      "snippet": "AppLovin Corporation peers and key competitor information including headquarters, annual revenue and number of employees.Discover information and data"
+      "snippet": "The fiscal landscape for AppLovin Corporation has shown some contrasting trends. In the fourth quarter of 2024, AppLovin s corporate customers experie"
     }
   ]
 }
