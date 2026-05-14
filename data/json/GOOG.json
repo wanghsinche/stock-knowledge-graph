@@ -4,34 +4,34 @@
   "sector": "Communication Services",
   "industry": "Internet Content & Information",
   "upstream": [
-    "INTC",
-    "005930.KS",
     "TSM",
     "QCOM",
-    "Foxconn"
+    "INTC",
+    "005930.KS",
+    "NVDA"
   ],
   "downstream": [
-    "Advertisers (e.g., Coca-Cola, Nike)",
-    "005930.KS",
+    "Advertisers",
+    "Android device manufacturers",
     "GOOGL",
-    "App developers (e.g., Uber, Spotify)",
-    "Content creators on YouTube"
+    "YouTube content creators",
+    "App developers"
   ],
   "competitors": [
     "MSFT",
     "AMZN",
     "META",
     "AAPL",
-    "NFLX"
+    "Facebook"
   ],
   "key_products": [
     "Google Search",
-    "YouTube",
+    "Android OS",
     "Google Cloud",
-    "Android",
+    "YouTube",
     "Google Ads"
   ],
-  "extracted_at": "2026-05-13 17:57:05",
+  "extracted_at": "2026-05-14 17:44:09",
   "sources": [
     {
       "source": "Wikipedia",
@@ -53,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Alphabet_Inc.",
+      "url": "https://csimarket.com/stocks/GOOGL-Customers",
       "query": "Alphabet Inc. major customers clients",
-      "snippet": "Alphabet Inc . is an American multinational technology conglomerate holding company headquartered in Mountain View, California. It was created through"
+      "snippet": "Feb 9, 2026 · Updated on: Focus of this report: Alphabet Inc ’s corporate clients . For your research, we’ve provided 9 tables on Alphabet Inc corpora"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/GOOG/",
+      "url": "https://pitchgrade.com/companies/alphabet-inc",
       "query": "Alphabet Inc. major customers clients",
-      "snippet": "Find the latest Alphabet Inc . (GOOG) stock quote, history, news and other vital information to help you with your stock trading and investing. Alphab"
+      "snippet": "Jan 15, 2026 · Customer Segments: Alphabet Inc . serves multiple distinct customer segments, which may include consumers, small and medium businesses,"
     }
   ]
 }

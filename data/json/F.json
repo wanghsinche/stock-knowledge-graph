@@ -1,37 +1,37 @@
 {
   "ticker": "F",
   "company_name": "Ford Motor Company",
-  "sector": "Consumer Cyclical",
+  "sector": "Consumer Cyclical / Auto Manufacturers",
   "industry": "Auto Manufacturers",
   "upstream": [
-    "Boeing (aerospace components)",
-    "Denso (automotive electronics)",
-    "Continental (tires and brake systems)",
-    "ArcelorMittal (steel)",
-    "BASF (chemical compounds)"
+    "Bosch",
+    "Magna International",
+    "Denso",
+    "ZF Friedrichshafen",
+    "Continental AG"
   ],
   "downstream": [
-    "Ford dealerships (retail customers)",
-    "Commercial fleet operators (e.g., UPS, FedEx)",
-    "Government agencies (military and municipal vehicles)",
-    "Ride‑hailing services (Uber, Lyft)",
-    "International export markets (Europe, Asia, Latin America)"
+    "U.S. Department of Defense",
+    "AMZN",
+    "Walmart (fleet vehicles)",
+    "General Motors (fleet leasing)",
+    "Commercial fleet operators"
   ],
   "competitors": [
     "General Motors",
     "Toyota Motor Corporation",
     "Honda Motor Co.",
-    "TSLA",
-    "Hyundai Motor Group"
+    "Nissan Motor Co.",
+    "TSLA"
   ],
   "key_products": [
-    "Ford F‑150",
+    "Ford F-Series trucks",
     "Ford Mustang",
     "Ford Explorer",
-    "Lincoln Continental",
-    "Ford Transit (commercial van)"
+    "Ford Transit",
+    "Lincoln Continental"
   ],
-  "extracted_at": "2026-05-13 17:59:42",
+  "extracted_at": "2026-05-14 17:46:22",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,15 +41,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.investopedia.com/ask/answers/052715/who-are-fords-f-main-suppliers.asp",
+      "url": "https://en.wikipedia.org/wiki/Ford_Motor_Company",
       "query": "Ford Motor Company suppliers manufacturers",
-      "snippet": "Dec 16, 2025 · Explore the history and current operations of Ford Motor Co. and discover some of its primary global parts suppliers . Discover Ford 's"
+      "snippet": "The Ford Motor Company (commonly known as Ford , sometimes abbreviated as FoMoCo) is an American multinational automobile manufacturer headquartered i"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://corporate.ford.com/operations/locations/global-plants/",
+      "url": "https://www.linkedin.com/company/ford-motor-company",
       "query": "Ford Motor Company suppliers manufacturers",
-      "snippet": "Discover Ford 's extensive network of global manufacturing plants, producing vehicles and components worldwide."
+      "snippet": "Ford Motor Company | 4,414,768 followers on LinkedIn.We’ve broken down traditional silos: we have designers, engineers, supply chain experts, and manu"
     },
     {
       "source": "DuckDuckGo",

@@ -2,56 +2,56 @@
 ticker: AMZN
 company: Amazon.com, Inc.
 sector: Consumer Cyclical / Internet Retail
-industry: Consumer Cyclical / Internet Retail
-extracted_at: 2026-05-13 17:56:18
-last_updated: 2026-05-13
+industry: E-commerce / Cloud Computing
+extracted_at: 2026-05-14 17:43:39
+last_updated: 2026-05-14
 ---
 
 # AMZN - Amazon.com, Inc.
 
 ## 基本信息
 
-- **所属行业**: Consumer Cyclical / Internet Retail / Consumer Cyclical / Internet Retail
-- **提取时间**: 2026-05-13 17:56:18
+- **所属行业**: Consumer Cyclical / Internet Retail / E-commerce / Cloud Computing
+- **提取时间**: 2026-05-14 17:43:39
 
 ## 产业链关系
 
 ### 上游供应商
-- [[AAPL]]
 - [[005930.KS]]
+- [[AAPL]]
 - [[SONY]]
-- [[Nike, Inc.]]
-- [[IKEA]]
+- [[Nike]]
+- [[Penguin Random House]]
 
 ### 下游客户
+- [[Consumers worldwide]]
 - [[NFLX]]
-- [[Airbnb, Inc.]]
-- [[Spotify Technology S.A.]]
-- [[005930.KS]]
-- [[GOOGL]]
+- [[Airbnb]]
+- [[Government agencies]]
+- [[Enterprise customers]]
 
 ### 竞争对手
-- [[Walmart Inc.]]
-- [[Alibaba Group Holding Ltd.]]
-- [[eBay Inc.]]
-- [[Shopify Inc.]]
-- [[Target Corporation]]
+- [[Walmart]]
+- [[Alibaba]]
+- [[eBay]]
+- [[Target]]
+- [[Shopify]]
 
 ### 核心产品
+- [[Amazon.com marketplace]]
 - [[Amazon Web Services]]
-- [[Amazon Prime]]
+- [[Amazon Prime Video]]
 - [[Amazon Echo]]
-- [[Kindle e-Reader]]
-- [[Amazon Advertising]]
+- [[Kindle]]
 
 ## 数据来源
 
 - [Amazon (company)](https://en.wikipedia.org/wiki/Amazon.com,_Inc.)
-- [Amazon.com, Inc. suppliers manufacturers](https://d39w7f4ix9f5s9.cloudfront.net/cb/19/77dfc5b441c892cd6e2be166ba70/final-amazon-supplier-list-2019-11-14-updated-1005am.pdf)
-- [Amazon.com, Inc. suppliers manufacturers](https://bigframe.net/who-are-amazons-main-suppliers/)
-- [Amazon.com, Inc. major customers clients](https://us.amazon.com/)
+- [Amazon.com, Inc. suppliers manufacturers](https://www.alibaba.com/)
+- [Amazon.com, Inc. suppliers manufacturers](https://ir.aboutamazon.com/)
 - [Amazon.com, Inc. major customers clients](https://ir.aboutamazon.com/)
+- [Amazon.com, Inc. major customers clients](https://www.amazon.com.tr/)
 
 ## 元数据
 
-- **更新日期**: 2026-05-13
+- **更新日期**: 2026-05-14

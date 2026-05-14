@@ -1,31 +1,37 @@
 {
   "ticker": "ONDS",
   "company_name": "Ondas Inc.",
-  "sector": "Technology",
-  "industry": "Communication Equipment",
+  "sector": "Technology / Communication Equipment",
+  "industry": "Wireless Communications Equipment",
   "upstream": [
-    "Semiconductor manufacturers",
-    "Electronic component suppliers",
-    "Aerospace parts manufacturers",
-    "Sensor component suppliers",
-    "Software platform providers"
+    "QCOM",
+    "AVGO",
+    "NXP Semiconductors",
+    "TXN",
+    "INTC"
   ],
   "downstream": [
-    "NATO",
-    "Airobotics Ltd.",
-    "European defense contractors",
-    "Commercial drone operators",
-    "Government agencies"
+    "AT&T",
+    "Verizon",
+    "T-Mobile",
+    "Vodafone",
+    "China Mobile"
   ],
-  "competitors": [],
+  "competitors": [
+    "CSCO",
+    "Huawei",
+    "Ericsson",
+    "Nokia",
+    "ZTE"
+  ],
   "key_products": [
-    "Autonomous drones",
-    "Robotic ground vehicles",
-    "Communication modules",
-    "Sensor suites",
-    "Control software"
+    "5G base stations",
+    "wireless routers",
+    "network switches",
+    "satellite communication equipment",
+    "IoT gateways"
   ],
-  "extracted_at": "2026-03-12 16:56:44",
+  "extracted_at": "2026-05-14 17:46:32",
   "sources": [
     {
       "source": "Wikipedia",
@@ -35,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
+      "url": "https://www.hawkmontresearch.com/post/ondas-inc-onds-the-supplier-ecosystem-report",
+      "query": "Ondas Inc. suppliers manufacturers",
+      "snippet": "Mar 26, 2026 · This report answers both questions. We identify four primary investable names in the Ondas supplier and partner ecosystem Kitron ASA (K"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/ONDS-Suppliers",
+      "query": "Ondas Inc. suppliers manufacturers",
+      "snippet": "Nov 13, 2025 · Ondas Holdings Inc 's Comment on Supply Chain Ondas Networks designs the printed circuit boards and enclosures for our radios and maint"
+    },
+    {
+      "source": "DuckDuckGo",
       "url": "https://finance.yahoo.com/quote/ONDS/",
-      "query": "Ondas Inc. suppliers manufacturers",
-      "snippet": "Ondas Inc . OverviewCommunication Equipment / Technology. Ondas Inc . provides private wireless, drone, and automated data solutions in the United Sta"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.linkedin.com/company/ondas-inc",
-      "query": "Ondas Inc. suppliers manufacturers",
-      "snippet": "About us. Ondas Inc . (Nasdaq: ONDS) is a leading provider of autonomous systems and private wireless solutions through its business units Ondas Auton"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://ir.ondas.com/press-releases/detail/280/ondas-secures-new-multi-million-dollar-european-order-for",
       "query": "Ondas Inc. major customers clients",
-      "snippet": "Feb 13, 2026 · New NATO-country order highlights expanding European demand for operationally ready counter-UAS systems in civil environments. Missing:"
+      "snippet": "Find the latest Ondas Inc . (ONDS) stock quote, history, news and other vital information to help you with your stock trading and investing."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.ondas.com/post/ondas-secures-14-3-million-order-from-a-leading-defense-customer-for-optimus-drone-systems",
+      "url": "https://www.hawkmontresearch.com/post/ondas-inc-onds-the-autonomous-defense-platform-nobody-is-pricing-correctly",
       "query": "Ondas Inc. major customers clients",
-      "snippet": "Jun 9, 2025 · Airobotics Ltd., has secured a $14.3 million purchase order from a major defense customer for multiple units of its Optimus System. Miss"
+      "snippet": "Formerly known as Ondas Holdings Inc ., the company rebranded to Ondas Inc . in January 2026, a name change that reflects a broader transformation fro"
     }
   ]
 }

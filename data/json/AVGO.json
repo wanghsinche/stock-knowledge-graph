@@ -1,43 +1,43 @@
 {
   "ticker": "AVGO",
   "company_name": "Broadcom Inc.",
-  "sector": "Technology / Semiconductors",
+  "sector": "Technology",
   "industry": "Semiconductors",
   "upstream": [
-    "TSM",
-    "005930.KS",
-    "GlobalFoundries",
-    "ASE Technology Holding",
-    "Amkor Technology"
+    "AMAT",
+    "ASML",
+    "LRCX",
+    "Tokyo Electron",
+    "KLA"
   ],
   "downstream": [
     "CSCO",
-    "DELL",
-    "IBM",
-    "AMZN",
-    "MSFT"
+    "Huawei",
+    "Nokia",
+    "JNPR",
+    "AAPL"
   ],
   "competitors": [
     "QCOM",
     "INTC",
+    "TXN",
     "NVDA",
-    "MRVL",
-    "TXN"
+    "AMD"
   ],
   "key_products": [
-    "Broadcom Wi‑Fi chips (BCM4360, BCM4364)",
-    "Broadcom Ethernet controllers (BCM5709)",
-    "Broadcom storage controllers (BCM5719)",
-    "Broadcom infrastructure software (Broadcom NetXtreme)",
-    "Broadcom AI accelerators"
+    "Wi‑Fi and Bluetooth chips",
+    "Ethernet controllers",
+    "Broadband modems",
+    "RF components",
+    "Storage controllers"
   ],
-  "extracted_at": "2026-05-13 17:57:21",
+  "extracted_at": "2026-05-14 17:43:06",
   "sources": [
     {
       "source": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Broadcom_Inc.",
-      "title": "Broadcom",
-      "snippet": "Broadcom Inc. is an American multinational designer, developer, manufacturer, and global supplier of a wide range of semiconductor and infrastructure software products. Broadcom's product offerings se"
+      "url": "",
+      "title": "",
+      "snippet": ""
     },
     {
       "source": "DuckDuckGo",
@@ -55,13 +55,13 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Broadcom",
       "query": "Broadcom Inc. major customers clients",
-      "snippet": "Broadcom Inc . is an American multinational designer, developer, manufacturer, and global supplier of a wide range of semiconductor and infrastructure"
+      "snippet": "Broadcom Inc. is an American multinational designer, developer, manufacturer, and global supplier of a wide range of semiconductor and infrastructure "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/AVGO-Customers",
+      "url": "https://www.broadcom.com/case-studies",
       "query": "Broadcom Inc. major customers clients",
-      "snippet": "Broadcom Inc 's Comment on Sales, Marketing and Customers We sell our products to leading wired and wireless communications manufacturers. We have als"
+      "snippet": "Broadcom solutions empower our customers success. Power your future with Broadcom."
     }
   ]
 }

@@ -4,64 +4,67 @@
   "sector": "Communication Services",
   "industry": "Internet Content & Information",
   "upstream": [
-    "QCOM",
+    "CSCO",
+    "DELL",
+    "HPQ",
     "INTC",
-    "NVDA",
-    "005930.KS",
-    "CSCO"
+    "NVDA"
   ],
   "downstream": [
-    "GOOGL",
-    "META",
+    "Advertisers",
+    "Game developers",
     "App developers",
     "Content creators",
-    "Media companies"
+    "Business advertisers"
   ],
   "competitors": [
     "GOOGL",
-    "AMZN",
-    "AAPL",
-    "MSFT",
-    "NVDA"
+    "X Corp (Twitter)",
+    "Snap Inc.",
+    "ByteDance (TikTok)",
+    "MSFT"
   ],
   "key_products": [
     "Facebook",
     "Instagram",
     "WhatsApp",
     "Messenger",
+    "Meta Quest",
+    "Meta Portal",
+    "Meta Business Suite",
     "Meta Ads"
   ],
-  "extracted_at": "2026-05-13 17:56:27",
+  "extracted_at": "2026-05-14 17:43:50",
   "sources": [
     {
       "source": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Meta_Platforms,_Inc.",
-      "title": "Meta Platforms",
-      "snippet": "Meta Platforms, Inc. is an American multinational technology company headquartered in Menlo Park, California. Meta owns and operates several prominent social media platforms and communication services"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Meta_Platforms",
-      "query": "Meta Platforms, Inc. suppliers manufacturers",
-      "snippet": "Meta Platforms , Inc . (doing business as Meta) is an American multinational technology company headquartered in Menlo Park, California. Meta owns and"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/META-Suppliers",
-      "query": "Meta Platforms, Inc. suppliers manufacturers",
-      "snippet": "May 2, 2026 · Meta Platforms Inc 's Suppliers recorded an increase in sales by 6.44 % year on year in Q1 2026, from the previous quarter, sales fell b"
+      "url": "",
+      "title": "",
+      "snippet": ""
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.cnn.com/markets/stocks/META",
-      "query": "Meta Platforms, Inc. major customers clients",
+      "query": "Meta Platforms, Inc. suppliers manufacturers",
       "snippet": "View Meta Platforms Inc Class A META stock quote prices, financial information, real-time forecasts, and company news from CNN."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.meta.com/about/",
+      "url": "https://www.computerhope.com/comp/meta.htm",
+      "query": "Meta Platforms, Inc. suppliers manufacturers",
+      "snippet": "Before it was rebranded as Meta in October 2021, Meta was known as Facebook Inc . According to Zuckerberg, the name Meta emphasizes their focus on VR "
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/Meta_Platforms",
       "query": "Meta Platforms, Inc. major customers clients",
-      "snippet": "Learn more about Meta and stay updated on our role in social technology, virtual reality, augmented reality, and the future of human connection. Meta "
+      "snippet": "Meta Platforms , Inc . (doing business as Meta) is an American multinational technology company headquartered in Menlo Park, California. Meta owns and"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/META-Customers",
+      "query": "Meta Platforms, Inc. major customers clients",
+      "snippet": "Meta Platforms Inc 's Comment on Sales, Marketing and Customers The majority of our marketers use our self-service ad platform to establish accounts a"
     }
   ]
 }

@@ -1,37 +1,37 @@
 {
   "ticker": "CRWD",
   "company_name": "CrowdStrike Holdings, Inc.",
-  "sector": "Technology",
-  "industry": "Software - Infrastructure",
+  "sector": "Technology / Software - Infrastructure",
+  "industry": "Cybersecurity",
   "upstream": [
     "MSFT",
     "AMZN",
     "GOOGL",
     "INTC",
-    "AMD"
+    "IBM"
   ],
   "downstream": [
-    "U.S. Department of Defense",
-    "Bank of America",
     "MSFT",
     "GOOGL",
-    "AMZN"
+    "AMZN",
+    "Bank of America",
+    "JP Morgan"
   ],
   "competitors": [
     "Palo Alto Networks",
     "SentinelOne",
     "McAfee",
-    "Symantec",
-    "Sophos"
+    "Sophos",
+    "Check Point"
   ],
   "key_products": [
-    "Falcon Platform",
-    "Endpoint Detection and Response (EDR)",
-    "Threat Intelligence",
-    "Cyberattack Response",
-    "Cloud Security"
+    "CrowdStrike Falcon Platform",
+    "Falcon Prevent",
+    "Falcon Insight",
+    "Falcon Discover",
+    "Falcon OverWatch"
   ],
-  "extracted_at": "2026-05-08 17:11:08",
+  "extracted_at": "2026-05-14 17:50:11",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/CrowdStrike",
+      "url": "https://csimarket.com/stocks/competition2.php?supply&code=CRWD",
       "query": "CrowdStrike Holdings, Inc. suppliers manufacturers",
-      "snippet": "CrowdStrike Holdings , Inc . is an American cybersecurity technology company based in Austin, Texas. It provides endpoint security, threat intelligenc"
+      "snippet": "Crowdstrike Holdings Inc 's Suppliers . Crowdstrike Holdings Inc 's vs. its Suppliers Results. (List of Suppliers , Financial Results 12 Months from t"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/CRWD-Growth-vs-Suppliers",
+      "url": "https://www.tradingview.com/symbols/NASDAQ-CRWD/",
       "query": "CrowdStrike Holdings, Inc. suppliers manufacturers",
-      "snippet": "Crowdstrike Holdings Inc Competitors Results. CRWD vs Competitors Stock Performance. Crowdstrike Holdings Inc (CRWD) — Comparison of Quarterly Growth "
+      "snippet": "View live CrowdStrike Holdings , Inc . chart to track its stock's price action. Find market predictions, CRWD financials and market news."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/CrowdStrike",
+      "url": "https://www.crowdstrike.com/en-us/press-releases/crowdstrike-honors-top-customers-partners-driving-innovations/",
       "query": "CrowdStrike Holdings, Inc. major customers clients",
-      "snippet": "CrowdStrike Holdings, Inc. is an American cybersecurity technology company based in Austin, Texas. It provides endpoint security, threat intelligence,"
+      "snippet": "Sep 19, 2025 · “Our customers and partners are the heartbeat of CrowdStrike ,” said Daniel Bernard, chief business officer at CrowdStrike . “The Crowd"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.crowdstrike.com/en-us/resources/customer-stories/",
+      "url": "https://theirstack.com/en/technology/crowdstrike",
       "query": "CrowdStrike Holdings, Inc. major customers clients",
-      "snippet": "People all over the world count on our customers to keep their businesses running, their communities safe, and their lives moving forward. Missing: Ho"
+      "snippet": "Download a list of 13,046 companies that use CrowdStrike with enriched data including industry, company size, location, funding rounds, and revenue fi"
     }
   ]
 }

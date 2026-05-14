@@ -3,11 +3,35 @@
   "company_name": "Lumentum Holdings Inc.",
   "sector": "Technology",
   "industry": "Communication Equipment",
-  "upstream": [],
-  "downstream": [],
-  "competitors": [],
-  "key_products": [],
-  "extracted_at": "2026-05-13 17:57:51",
+  "upstream": [
+    "Rare earth element suppliers",
+    "Optical fiber manufacturers",
+    "Laser diode suppliers",
+    "Photonic component suppliers",
+    "CAT"
+  ],
+  "downstream": [
+    "CAT",
+    "Data center infrastructure providers",
+    "Aerospace and defense contractors",
+    "Medical imaging device manufacturers",
+    "Automotive electronics suppliers"
+  ],
+  "competitors": [
+    "Coherent Inc.",
+    "II-VI Incorporated",
+    "Trumpf GmbH + Co. KG",
+    "Lumen Technologies",
+    "Oclaro Inc."
+  ],
+  "key_products": [
+    "Laser diodes",
+    "Optical amplifiers",
+    "Photonic integrated circuits",
+    "Optical transceivers",
+    "Fiber optic connectors"
+  ],
+  "extracted_at": "2026-05-14 17:44:55",
   "sources": [
     {
       "source": "Wikipedia",
@@ -23,9 +47,21 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.lumentum.com/en/company/supply-chain",
+      "url": "https://www.lumentum.com/en/company/distributors",
       "query": "Lumentum Holdings Inc. suppliers manufacturers",
-      "snippet": "At Lumentum, our global supply chain is the backbone of our ability to deliver advanced photonics technologies that power today’s most connected and d"
+      "snippet": "Lumentum is a global leader in optical and photonic products, enabling high-bandwidth connectivity, precision sensing, and advanced manufacturing."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://pitchgrade.com/companies/lumentum",
+      "query": "Lumentum Holdings Inc. major customers clients",
+      "snippet": "Customer Segments: Lumentum Holdings Inc . serves multiple distinct customer segments, which may include consumers, small and medium businesses, enter"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.lumentum.com/",
+      "query": "Lumentum Holdings Inc. major customers clients",
+      "snippet": "Discover how Lumentum enables innovation through optical and photonic technologies for cloud networking, 3D sensing, lasers, and advanced manufacturin"
     }
   ]
 }

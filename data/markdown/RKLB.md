@@ -3,8 +3,8 @@ ticker: RKLB
 company: Rocket Lab Corporation
 sector: Industrials
 industry: Aerospace & Defense
-extracted_at: 2026-05-13 17:58:10
-last_updated: 2026-05-13
+extracted_at: 2026-05-14 17:45:46
+last_updated: 2026-05-14
 ---
 
 # RKLB - Rocket Lab Corporation
@@ -12,7 +12,7 @@ last_updated: 2026-05-13
 ## 基本信息
 
 - **所属行业**: Industrials / Aerospace & Defense
-- **提取时间**: 2026-05-13 17:58:10
+- **提取时间**: 2026-05-14 17:45:46
 
 ## 产业链关系
 
@@ -36,4 +36,4 @@ _暂无数据_
 
 ## 元数据
 
-- **更新日期**: 2026-05-13
+- **更新日期**: 2026-05-14

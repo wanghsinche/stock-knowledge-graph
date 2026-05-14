@@ -6,32 +6,32 @@
   "upstream": [
     "TSM",
     "005930.KS",
-    "CAT",
     "MU",
-    "NVDA"
+    "SK Hynix",
+    "GlobalFoundries"
   ],
   "downstream": [
-    "DELL",
+    "Activision Blizzard",
+    "Electronic Arts",
+    "SONY",
     "MSFT",
-    "TSLA",
-    "ADBE",
-    "NVDA"
+    "TSLA"
   ],
   "competitors": [
     "AMD",
     "INTC",
     "QCOM",
-    "AAPL",
-    "ARM Holdings (GPU IP licensing)"
+    "AVGO",
+    "GOOGL"
   ],
   "key_products": [
-    "GeForce GPUs (consumer gaming)",
-    "Quadro/RTX GPUs (professional visualization)",
-    "Tesla GPUs (data center & AI)",
-    "NVIDIA RTX SoCs (mobile & automotive)",
-    "CUDA API & software ecosystem"
+    "GeForce RTX",
+    "Quadro RTX",
+    "Tesla V100",
+    "Jetson Nano",
+    "CUDA"
   ],
-  "extracted_at": "2026-05-13 17:54:42",
+  "extracted_at": "2026-05-14 17:41:30",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,13 +43,13 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Nvidia",
       "query": "NVIDIA Corporation suppliers manufacturers",
-      "snippet": "Nvidia uses external suppliers for all phases of manufacturing , including wafer fabrication, assembly, testing, and packaging. Nvidia thus avoids mos"
+      "snippet": "3 days ago - In August 2025, Nvidia ordered ... due to security concerns. The company directed suppliers including Taiwan Semiconductor Manufacturing "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.investing.com/equities/nvidia-corp",
+      "url": "https://www.accio.com/supplier/nvidia-supplier-list",
       "query": "NVIDIA Corporation suppliers manufacturers",
-      "snippet": "View today's NVIDIA Corporation stock price and latest NVDA news and analysis. Create real-time notifications to follow any changes in the live stock "
+      "snippet": "3 weeks ago - NVIDIA's key suppliers span various critical areas of semiconductor manufacturing and assembly. These include TSMC (Taiwan Semiconductor"
     },
     {
       "source": "DuckDuckGo",

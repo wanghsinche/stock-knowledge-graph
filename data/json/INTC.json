@@ -4,16 +4,16 @@
   "sector": "Technology",
   "industry": "Semiconductors",
   "upstream": [
-    "TSM",
-    "005930.KS",
-    "GlobalFoundries",
     "ASML",
-    "AMAT"
+    "AMAT",
+    "LRCX",
+    "Tokyo Electron",
+    "KLA"
   ],
   "downstream": [
     "DELL",
-    "Lenovo",
     "HPQ",
+    "Lenovo",
     "AAPL",
     "MSFT"
   ],
@@ -22,16 +22,16 @@
     "NVDA",
     "QCOM",
     "AVGO",
-    "005930.KS"
+    "TSM"
   ],
   "key_products": [
     "Intel Core CPUs",
     "Intel Xeon CPUs",
-    "Intel Optane memory",
-    "Intel Ethernet controllers",
-    "Intel Xe GPUs"
+    "Intel Arc GPUs",
+    "Intel chipsets",
+    "Intel AI accelerators"
   ],
-  "extracted_at": "2026-05-13 17:55:16",
+  "extracted_at": "2026-05-14 17:42:05",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,25 +43,25 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Intel",
       "query": "Intel Corporation suppliers manufacturers",
-      "snippet": "3 hours ago - Until then, the manufacture of complex integrated circuits was not reliable enough for customers to depend on a single supplier, but Gro"
+      "snippet": "Intel Corporation is an American multinational technology company headquartered in Santa Clara, California. It designs, manufactures , and sells compu"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.intel.com/content/www/us/en/supplier/overview.html",
+      "url": "https://www.youtube.com/watch?v=ONkv4dM6SVM",
       "query": "Intel Corporation suppliers manufacturers",
-      "snippet": "Intel is working to continuously improve transparency and promote corporate responsibility throughout the global electronics supply chain. ... Click h"
+      "snippet": "A “Behind this Door” video offers an inside look into a small — but critical — piece of Intel ’s # manufacturing process: Assembly Test Technology Dev"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Intel",
       "query": "Intel Corporation major customers clients",
-      "snippet": "3 hours ago - General Manager of Intel's custom foundry division Sunit Rikhi indicated that Intel would pursue further such deals in the future. This "
+      "snippet": "Intel Corporation is an American multinational technology company headquartered in Santa Clara, California. It designs, manufactures, and sells comput"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.investopedia.com/articles/markets/100214/inside-intel-look-mega-chipmaker.asp",
+      "url": "https://www.tradingview.com/symbols/NASDAQ-INTC/",
       "query": "Intel Corporation major customers clients",
-      "snippet": "March 3, 2026 - Intel's main customers include Dell, Lenovo, and HP . Never has a corporation done so much with so little. Founded in Mountain View, C"
+      "snippet": "View live Intel Corporation chart to track its stock's price action. Find market predictions, INTC financials and market news."
     }
   ]
 }

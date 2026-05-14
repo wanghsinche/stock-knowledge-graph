@@ -2,36 +2,36 @@
   "ticker": "AMZN",
   "company_name": "Amazon.com, Inc.",
   "sector": "Consumer Cyclical / Internet Retail",
-  "industry": "Consumer Cyclical / Internet Retail",
+  "industry": "E-commerce / Cloud Computing",
   "upstream": [
-    "AAPL",
     "005930.KS",
+    "AAPL",
     "SONY",
-    "Nike, Inc.",
-    "IKEA"
+    "Nike",
+    "Penguin Random House"
   ],
   "downstream": [
+    "Consumers worldwide",
     "NFLX",
-    "Airbnb, Inc.",
-    "Spotify Technology S.A.",
-    "005930.KS",
-    "GOOGL"
+    "Airbnb",
+    "Government agencies",
+    "Enterprise customers"
   ],
   "competitors": [
-    "Walmart Inc.",
-    "Alibaba Group Holding Ltd.",
-    "eBay Inc.",
-    "Shopify Inc.",
-    "Target Corporation"
+    "Walmart",
+    "Alibaba",
+    "eBay",
+    "Target",
+    "Shopify"
   ],
   "key_products": [
+    "Amazon.com marketplace",
     "Amazon Web Services",
-    "Amazon Prime",
+    "Amazon Prime Video",
     "Amazon Echo",
-    "Kindle e-Reader",
-    "Amazon Advertising"
+    "Kindle"
   ],
-  "extracted_at": "2026-05-13 17:56:18",
+  "extracted_at": "2026-05-14 17:43:39",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://d39w7f4ix9f5s9.cloudfront.net/cb/19/77dfc5b441c892cd6e2be166ba70/final-amazon-supplier-list-2019-11-14-updated-1005am.pdf",
+      "url": "https://www.alibaba.com/",
       "query": "Amazon.com, Inc. suppliers manufacturers",
-      "snippet": "Nov 14, 2019 · Amazon Supplier List Amazon is strongly committed to conducting its business in a lawful and ethical manner, including engaging with su"
+      "snippet": "Find quality Manufacturers , Suppliers , Exporters, Importers, Buyers, Wholesalers, Products and Trade Leads from our award-winning International Trad"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://bigframe.net/who-are-amazons-main-suppliers/",
+      "url": "https://ir.aboutamazon.com/",
       "query": "Amazon.com, Inc. suppliers manufacturers",
-      "snippet": "Understanding Amazon ’s Supply Chain Amazon ’s supply chain is a complex network of manufacturers , distributors, and third-party sellers. This intric"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://us.amazon.com/",
-      "query": "Amazon.com, Inc. major customers clients",
-      "snippet": "Reach customers wherever they spend their time."
+      "snippet": "The Spheres. Select awards and recognition. Amazon . com Conditions of Use © 1996- Amazon . com , Inc . - IR or its affiliates."
     },
     {
       "source": "DuckDuckGo",
       "url": "https://ir.aboutamazon.com/",
       "query": "Amazon.com, Inc. major customers clients",
       "snippet": "The Spheres. Select awards and recognition. Amazon . com Conditions of Use © 1996- Amazon . com , Inc . - IR or its affiliates."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.amazon.com.tr/",
+      "query": "Amazon.com, Inc. major customers clients",
+      "snippet": "Tüm Kategoriler Amazon Depo Bahçe Bebek Bilgisayarlar Elektronik Ev Ev ve Mutfak Evcil Hayvan Malzemeleri Gıda ve İçecek Hediye Kartları Kitaplar Kişi"
     }
   ]
 }

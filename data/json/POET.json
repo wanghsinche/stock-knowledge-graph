@@ -1,22 +1,37 @@
 {
   "ticker": "POET",
   "company_name": "POET Technologies Inc.",
-  "sector": "Technology / Semiconductors",
-  "industry": "Optoelectronics",
-  "upstream": [],
+  "sector": "Technology",
+  "industry": "Semiconductors",
+  "upstream": [
+    "POET Powers AI",
+    "Component suppliers (generic)",
+    "CAT",
+    "Electronic design automation vendors",
+    "Materials suppliers"
+  ],
   "downstream": [
-    "Foxconn Interconnect",
-    "Foxconn"
+    "INTC",
+    "Enterprise software vendors",
+    "Cloud service providers",
+    "Automotive OEMs",
+    "Consumer electronics manufacturers"
   ],
-  "competitors": [],
+  "competitors": [
+    "INTC",
+    "AMD",
+    "NVDA",
+    "TSM",
+    "AVGO"
+  ],
   "key_products": [
-    "Opto-electronic solutions",
-    "Optical components",
-    "Laser diodes",
-    "Optical sensors",
-    "Optical interconnects"
+    "AI-powered processors",
+    "Custom silicon solutions",
+    "Semiconductor accelerators",
+    "High‑performance computing chips",
+    "Embedded AI modules"
   ],
-  "extracted_at": "2026-04-27 17:20:40",
+  "extracted_at": "2026-05-14 17:47:06",
   "sources": [
     {
       "source": "Wikipedia",
@@ -26,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/POET-Suppliers",
+      "url": "https://www.poet-technologies.com/",
       "query": "POET Technologies Inc. suppliers manufacturers",
-      "snippet": "Apr 1, 2026 · Sources: Poet Technologies Inc 's official press releases and regulatory filings; CSIMarket.com's supply -chain research; and the financ"
+      "snippet": "POET Powers AI. Unlock the full potential of artificial intelligence with POET Technologies ' revolutionary Optical Interposer hardware products. Our "
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/fundamentals_glance.php?code=PTK",
+      "query": "POET Technologies Inc. suppliers manufacturers",
+      "snippet": "Fundamental Analysis on Poet Technologies Inc Key ratios, Comparisons to Semiconductors Industry, Technology Sector, S&P 500 - CSIMarket.PTK Suppliers"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://finance.yahoo.com/quote/POET/",
+      "query": "POET Technologies Inc. major customers clients",
+      "snippet": "POET Technologies Inc ., together with its subsidiaries, designs, develops, manufactures, and sells semiconductor products and services for commercial"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.poet-technologies.com/",
-      "query": "POET Technologies Inc. suppliers manufacturers",
-      "snippet": "At POET Technologies , we develop advanced opto-electronic solutions that enable efficient data communication and integration for AI and other cutting"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.reddit.com/r/POETTechnologiesInc/comments/1ll2ver/poet_client_base_as_of_june_2025/",
       "query": "POET Technologies Inc. major customers clients",
-      "snippet": "Jun 26, 2025 · POET Technologies primarily serves customers in the artificial intelligence (AI) hardware and high-speed optical networking markets. Ar"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.poet-technologies.com/blog/letter-to-shareholders-from-dr-suresh-venkatesan",
-      "query": "POET Technologies Inc. major customers clients",
-      "snippet": "Feb 11, 2025 · POET's Customer Base. POET's largest customers, Foxconn Interconnect Technologies (FOIT) and Luxshare Tech, are large suppliers of netw"
+      "snippet": "POET Powers AI. Unlock the full potential of artificial intelligence with POET Technologies ' revolutionary Optical Interposer hardware products. Our "
     }
   ]
 }

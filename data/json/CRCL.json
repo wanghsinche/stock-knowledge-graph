@@ -4,58 +4,58 @@
   "sector": "Financial Services",
   "industry": "Capital Markets / Payments Technology",
   "upstream": [
-    "AMZN",
-    "MSFT",
-    "GOOGL",
-    "Stripe",
-    "PayPal"
+    "Blockchain network operators (e.g., Ethereum)",
+    "Cryptocurrency liquidity providers (e.g., Coinbase, Binance)",
+    "Payment processors (e.g., Stripe, PayPal)",
+    "Regulatory compliance firms (e.g., KYC/AML providers)",
+    "Technology vendors (e.g., AWS, Azure)"
   ],
   "downstream": [
-    "Coinbase",
-    "Binance",
-    "Kraken",
-    "PayPal",
-    "Square"
+    "Retail merchants",
+    "Financial institutions",
+    "Crypto exchanges",
+    "Payment app users",
+    "Enterprise clients"
   ],
   "competitors": [
-    "Coinbase",
     "Stripe",
     "PayPal",
     "Square",
-    "Revolut"
+    "Revolut",
+    "Payoneer"
   ],
   "key_products": [
     "USDC stablecoin",
-    "EURC stablecoin",
-    "USYC tokenized money market fund",
-    "Payments API",
-    "Crypto custody services"
+    "Circle Pay",
+    "Circle Invest",
+    "Circle payment APIs",
+    "Circle cryptocurrency wallet"
   ],
-  "extracted_at": "2026-05-13 18:00:53",
+  "extracted_at": "2026-05-14 17:46:09",
   "sources": [
     {
       "source": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Circle_Internet_Group",
-      "title": "Circle Internet Group",
-      "snippet": "Circle is a payments technology company. Founded by Jeremy Allaire and Sean Neville in 2013, it is currently headquartered in New York City and issues two types of stablecoin: USDC, which has a conver"
+      "url": "",
+      "title": "",
+      "snippet": ""
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://investor.circle.com/overview/default.aspx",
+      "url": "https://en.wikipedia.org/wiki/USDC_(cryptocurrency)",
       "query": "Circle Internet Group suppliers manufacturers",
-      "snippet": "2 days ago · Circle Investor Relations Circle is a global financial technology firm that enables businesses of all sizes to harness the power of digit"
+      "snippet": "USDC (USD Coin) is a cryptocurrency stablecoin issued by Circle Internet Group . It is pegged to the United States dollar, and is distinct from a cent"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.appsruntheworld.com/customers-database/vendors/view/circle-internet-group",
+      "url": "https://hk.finance.yahoo.com/quote/CRCL/",
       "query": "Circle Internet Group suppliers manufacturers",
-      "snippet": "List of companies using or evaluating Circle Internet Group applications, with details on their revenues, employees, industries, and locations."
+      "snippet": "Circle Internet Group 總覽 Capital Markets / Financial Services. Circle Internet Group , Inc. operates as a platform, network, and market infrastructure"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Circle_Internet_Group",
       "query": "Circle Internet Group major customers clients",
-      "snippet": "Circle (legally Circle Internet Group , Inc.[2]) is a payments technology company. Founded by Jeremy Allaire and Sean Neville in 2013, [3][4] it is cu"
+      "snippet": "Circle Internet Group , Inc.[2] is a payments technology company. Founded by Jeremy Allaire and Sean Neville in 2013, [3][4] it is currently headquart"
     },
     {
       "source": "DuckDuckGo",

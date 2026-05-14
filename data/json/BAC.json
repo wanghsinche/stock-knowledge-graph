@@ -5,17 +5,17 @@
   "industry": "Banks - Diversified",
   "upstream": [
     "MSFT",
+    "AMZN",
     "Payment processors (e.g., Visa, Mastercard)",
-    "Data analytics providers (e.g., Bloomberg, S&P Global)",
-    "Cybersecurity firms (e.g., Palo Alto Networks)",
-    "AMZN"
+    "Security services (e.g., Symantec)",
+    "Consulting firms (e.g., Accenture)"
   ],
   "downstream": [
-    "Retail banking customers (individuals)",
-    "Small and medium-sized enterprises (SMEs)",
-    "Large corporations and institutional clients",
-    "Mortgage borrowers",
-    "Credit card holders"
+    "Retail customers (individuals)",
+    "Small and medium businesses",
+    "Large corporations",
+    "Government agencies",
+    "High-net-worth individuals"
   ],
   "competitors": [
     "JPMorgan Chase & Co.",
@@ -25,43 +25,43 @@
     "Morgan Stanley"
   ],
   "key_products": [
-    "Consumer banking services",
-    "Corporate and investment banking",
-    "Wealth management and private banking",
-    "Credit card products",
-    "Mortgage and home equity lending"
+    "Retail banking services",
+    "Wealth management",
+    "Investment banking",
+    "Credit cards",
+    "Mortgage lending"
   ],
-  "extracted_at": "2026-04-20 17:02:26",
+  "extracted_at": "2026-05-14 17:50:01",
   "sources": [
     {
       "source": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Bank_of_America_Corporation",
-      "title": "Bank of America",
-      "snippet": "The Bank of America Corporation is an American multinational investment bank and financial services holding company headquartered at the Bank of America Corporate Center in Charlotte, North Carolina, "
+      "url": "",
+      "title": "",
+      "snippet": ""
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Bank_of_America",
+      "url": "https://en.wikipedia.org/wiki/List_of_largest_banks_in_the_United_States",
       "query": "Bank of America Corporation suppliers manufacturers",
-      "snippet": "Bank of America 's major competitors are Wells Fargo, Santander, PNC Financial Services, Ally Financial, Capital One, JPMorgan Chase Bank, US Bank, Ci"
+      "snippet": "The following table lists the 100 largest bank holding companies in the United States ranked by total assets as of December 31, 2025 per the Federal F"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/BAC-Suppliers",
+      "url": "https://www.bankofamerica.com/online-banking/sign-in/",
       "query": "Bank of America Corporation suppliers manufacturers",
-      "snippet": "Feb 26, 2026 · For your research, we’ve provided nine additional tables on Bank Of America Corporation ’ s suppliers . You can find them in the naviga"
+      "snippet": "Log in to Mobile & Online Banking to access your personal and small business accounts, see balances, transfer funds, pay bills and more.Log in to Onli"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/BAC-Customers",
+      "url": "https://www.bankofamerica.com/",
       "query": "Bank of America Corporation major customers clients",
-      "snippet": "For your research, we’ve provided 9 tables on Bank Of America Corporation corporate clients . You can find them in the navigation menu under Customers"
+      "snippet": "At Bank of America , our purpose is to help make financial lives better through the power of every connection.Get it on the App Store. Download the Ba"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://thestrategystory.com/blog/bank-of-america-boa-swot-analysis/",
+      "url": "https://www.thestreet.com/opinion/bank-of-america-clients-are-worried-and-so-should-you-be-11283827",
       "query": "Bank of America Corporation major customers clients",
-      "snippet": "See full list on thestrategystory.com See full list on thestrategystory.com See full list on thestrategystory.com See full list on thestrategystory.co"
+      "snippet": "Kohl’s CEO tells customers major revamp is on the way. Bank of America isn’t the only institution whose clients are getting anxious. An e-mail message"
     }
   ]
 }

@@ -4,34 +4,34 @@
   "sector": "Technology",
   "industry": "Software - Application",
   "upstream": [
-    "INTC",
-    "AMD",
-    "NVDA",
-    "QCOM",
-    "MSFT"
+    "MSFT",
+    "AMZN",
+    "GOOGL",
+    "ORCL",
+    "CRM"
   ],
   "downstream": [
-    "NCR Corporation",
-    "Walmart",
-    "JPMorgan Chase",
-    "AT&T",
-    "Verizon"
+    "Financial services firms",
+    "Insurance companies",
+    "Healthcare providers",
+    "Government agencies",
+    "Retail companies"
   ],
   "competitors": [
-    "SAP SE",
+    "SAP SE Business Objects",
     "IBM",
     "ORCL",
     "MSFT",
-    "Tableau"
+    "Tableau Software"
   ],
   "key_products": [
-    "MicroStrategy Desktop",
-    "MicroStrategy Cloud",
-    "MicroStrategy Mobile",
-    "Business Intelligence Platform",
-    "Analytics Software"
+    "Business Intelligence (BI) software",
+    "Mobile analytics applications",
+    "Data visualization tools",
+    "Cloud analytics services",
+    "Enterprise reporting solutions"
   ],
-  "extracted_at": "2026-05-13 18:01:28",
+  "extracted_at": "2026-05-14 17:46:41",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,15 +41,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.strategyinc.net/services-overview/",
+      "url": "https://en.wikipedia.org/wiki/MicroStrategy",
       "query": "Strategy Inc suppliers manufacturers",
-      "snippet": "Our Consulting Services At Strategy Inc ., we offer a comprehensive range of consulting services required for life science and medical device due dili"
+      "snippet": "Strategy Inc ., formerly known as MicroStrategy,[1] is an American company that provides business intelligence (BI) and mobile software. Founded in 19"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.semiconductors.org/ecosystem/",
+      "url": "https://www.strategy.com/press/strategy-announces-legal-name-change-from-microstrategy-incorporated-to-strategy-inc_08-14-2025",
       "query": "Strategy Inc suppliers manufacturers",
-      "snippet": "Dec 1, 2025 · The U.S. Semiconductor Ecosystem Map demonstrates the breadth of the industry, including locations conducting research and development ("
+      "snippet": "Aug 14, 2025 · August 14, 2025 Strategy Announces Legal Name Change from MicroStrategy Incorporated to Strategy Inc Press Release • August 14, 2025"
     },
     {
       "source": "DuckDuckGo",
@@ -59,9 +59,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://au.linkedin.com/in/athy-delinikolis-gaicd-mba-00555b22",
+      "url": "https://beyondthearc.com/blog/2020/communications/strategies-for-attracting-affluent-customers",
       "query": "Strategy Inc major customers clients",
-      "snippet": "Retail Major Customers Client Operations Executive Director, Global at NCR Corporation. Melbourne, Victoria, Australia. 770 followers 500+ connections"
+      "snippet": "Attracting affluent customers in financial services, particularly Millennials, requires new approaches to marketing and client experience."
     }
   ]
 }

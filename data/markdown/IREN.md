@@ -3,8 +3,8 @@ ticker: IREN
 company: IREN Limited
 sector: Financial Services
 industry: Capital Markets
-extracted_at: 2026-05-13 17:59:05
-last_updated: 2026-05-13
+extracted_at: 2026-05-14 17:45:04
+last_updated: 2026-05-14
 ---
 
 # IREN - IREN Limited
@@ -12,46 +12,46 @@ last_updated: 2026-05-13
 ## 基本信息
 
 - **所属行业**: Financial Services / Capital Markets
-- **提取时间**: 2026-05-13 17:59:05
+- **提取时间**: 2026-05-14 17:45:04
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Data center equipment manufacturers]]
-- [[Renewable energy providers]]
-- [[GPU hardware suppliers]]
-- [[Cooling system vendors]]
-- [[Network infrastructure providers]]
+- [[Bloomberg L.P.]]
+- [[Refinitiv]]
+- [[MSFT]]
+- [[AMZN]]
+- [[ORCL]]
 
 ### 下游客户
-- [[Enterprise IT departments]]
-- [[Cloud service providers]]
-- [[AI research organizations]]
-- [[Financial institutions]]
-- [[CAT]]
+- [[Institutional Investors]]
+- [[Corporations]]
+- [[Governments]]
+- [[Private Equity Firms]]
+- [[Hedge Funds]]
 
 ### 竞争对手
-- [[Equinix]]
-- [[Digital Realty]]
-- [[Interxion]]
-- [[CyrusOne]]
-- [[Iron Mountain]]
+- [[Goldman Sachs Group Inc.]]
+- [[JPMorgan Chase & Co.]]
+- [[Morgan Stanley]]
+- [[Citigroup Inc.]]
+- [[Bank of America Corporation]]
 
 ### 核心产品
-- [[Renewable-powered data centers]]
-- [[AI cloud services]]
-- [[GPU cluster solutions]]
-- [[Colocation services]]
-- [[Managed IT infrastructure]]
+- [[Investment Banking Advisory]]
+- [[Capital Markets Underwriting]]
+- [[Equity Research]]
+- [[Asset Management]]
+- [[Securities Trading]]
 
 ## 数据来源
 
 - 
 - [IREN Limited suppliers manufacturers](https://www.iren.com/)
 - [IREN Limited suppliers manufacturers](https://csimarket.com/stocks/suppliers_glance.php?code=IREN)
-- [IREN Limited major customers clients](https://www.fool.com/earnings/call-transcripts/2026/05/08/iren-iren-q3-2026-earnings-call-transcript/)
-- [IREN Limited major customers clients](https://www.tradingview.com/symbols/NASDAQ-IREN/forecast/)
+- [IREN Limited major customers clients](https://www.investing.com/equities/iris-energy)
+- [IREN Limited major customers clients](https://www.insidermonkey.com/blog/heres-what-iren-ltd-s-iren-mirantis-acquisition-means-for-investors-1761601/)
 
 ## 元数据
 
-- **更新日期**: 2026-05-13
+- **更新日期**: 2026-05-14

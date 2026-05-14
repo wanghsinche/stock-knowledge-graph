@@ -4,34 +4,34 @@
   "sector": "Technology",
   "industry": "Semiconductors",
   "upstream": [
-    "AMAT",
-    "ASML",
-    "LRCX",
-    "Tokyo Electron",
-    "KLA"
+    "TSM",
+    "005930.KS",
+    "GlobalFoundries",
+    "UMC",
+    "SMIC"
   ],
   "downstream": [
-    "AAPL",
-    "005930.KS",
-    "Huawei",
-    "CSCO",
-    "DELL"
+    "AMZN",
+    "GOOGL",
+    "MSFT",
+    "AT&T",
+    "CAT"
   ],
   "competitors": [
     "AVGO",
     "QCOM",
-    "MediaTek",
     "INTC",
-    "NVDA"
+    "NVDA",
+    "MediaTek"
   ],
   "key_products": [
-    "ARM-based processors (ThunderX, Octeon)",
-    "Networking chips (Ethernet, 5G)",
-    "Storage controllers",
-    "Wi-Fi/Bluetooth chips",
-    "5G modems"
+    "Storage controller chips",
+    "Ethernet and networking ASICs",
+    "Wireless LAN and 5G modem solutions",
+    "Data center interconnect chips",
+    "Embedded system-on-chip (SoC) solutions"
   ],
-  "extracted_at": "2026-05-13 17:56:51",
+  "extracted_at": "2026-05-14 17:43:24",
   "sources": [
     {
       "source": "Wikipedia",
@@ -53,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Marvell_Technology",
+      "url": "https://www.marvell.com/blogs/marvell-named-to-worlds-most-trustworthy-companies-list-2025.html",
       "query": "Marvell Technology, Inc. major customers clients",
-      "snippet": "Marvell Technology , Inc . is an American company, headquartered in Santa Clara, California, which develops and produces semiconductors and related te"
+      "snippet": "Sep 9, 2025 · Marvell has earned a coveted spot in Newsweek and Statista's global list of the Most Trustworthy Companies for 2025. Missing: Inc. major"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.marvell.com/",
+      "url": "https://matrixbcg.com/blogs/target-market/marvell",
       "query": "Marvell Technology, Inc. major customers clients",
-      "snippet": "Designed for your current needs and future ambitions, Marvell delivers the data infrastructure technology transforming tomorrow’s enterprise, cloud, a"
+      "snippet": "May 5, 2026 · Primary market segments include hyperscale cloud providers, telecom operators, enterprise storage customers, and automotive OEMs—alignin"
     }
   ]
 }

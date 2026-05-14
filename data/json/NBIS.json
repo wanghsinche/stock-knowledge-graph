@@ -4,31 +4,34 @@
   "sector": "Communication Services",
   "industry": "Internet Content & Information",
   "upstream": [
-    "Avride",
-    "TripleTen",
-    "Toloka",
-    "Clickhouse"
+    "Hardware manufacturers",
+    "Cloud service providers",
+    "AI model providers",
+    "Data center operators",
+    "Software vendors"
   ],
   "downstream": [
-    "Nasdaq‑listed ETFs",
-    "Music streaming platforms",
-    "Financial data clients",
-    "Enterprise AI customers"
+    "Tech enterprises",
+    "Financial institutions",
+    "E-commerce platforms",
+    "Government agencies",
+    "Research institutions"
   ],
   "competitors": [
     "OpenAI",
     "GOOGL",
+    "MSFT",
     "AMZN",
-    "MSFT"
+    "IBM"
   ],
   "key_products": [
-    "Nebius AI Platform",
-    "Avride",
-    "TripleTen",
-    "Toloka",
-    "Clickhouse"
+    "AI infrastructure platform",
+    "AI model training services",
+    "AI inference services",
+    "Data labeling platform (Toloka)",
+    "Analytics engine (Clickhouse)"
   ],
-  "extracted_at": "2026-05-13 17:55:52",
+  "extracted_at": "2026-05-14 17:43:15",
   "sources": [
     {
       "source": "Wikipedia",
@@ -40,25 +43,25 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Nebius_Group",
       "query": "NBIS suppliers manufacturers",
-      "snippet": "Nebius Group N.V., headquartered in Amsterdam, is a technology company [3] that provides artificial intelligence infrastructure. [4] The company also "
+      "snippet": "Nebius Group N.V., headquartered in Amsterdam, is a technology company that provides artificial intelligence infrastructure."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/NBIS-Suppliers",
+      "url": "https://csimarket.com/stocks/suppliers_glance.php?code=NBIS",
       "query": "NBIS suppliers manufacturers",
-      "snippet": "May 3, 2025 · Sources: Nebius Group n v 's official press releases and regulatory filings; CSIMarket.com's supply -chain research; and the financial f"
+      "snippet": "NBIS 's Suppliers Management Effectiveness. NBIS 's Competitors Results.Nebius Group N V's Comment on Supply Chain. NBIS 's Stock Perfrormance relativ"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.nasdaq.com/market-activity/stocks/nbis",
+      "url": "https://csimarket.com/stocks/NBIS-Customers",
       "query": "NBIS major customers clients",
-      "snippet": "Nasdaq Listed ETFs where NBIS is a top 10 holding*. Symbol.Data Disclaimer: The Nasdaq Indices and the Major Indices are delayed at least 1 minute. Re"
+      "snippet": "4 days ago · Nebius Group N V customers and markets, results by customer and performance relative to NBIS , by company and industry - CSIMarket"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.youtube.com/watch?v=bp1PJJR-xC0",
+      "url": "https://www.dcsa.mil/Systems-Applications/National-Background-Investigation-Services-NBIS/",
       "query": "NBIS major customers clients",
-      "snippet": "CLIENTS music to attract customers and money in 1 day - with sounds to Visualize 2026 Vol 2 https://youtu.be/C1iqbL6LSNI #WealthMusic #attracWealth #."
+      "snippet": "The purpose of NBIS is to modernize, streamline and secure the entire process to enhance the user experience and provide a reliable and integrated set"
     }
   ]
 }

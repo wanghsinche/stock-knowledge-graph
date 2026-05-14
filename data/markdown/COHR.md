@@ -3,8 +3,8 @@ ticker: COHR
 company: Coherent Corp.
 sector: Technology
 industry: Scientific & Technical Instruments
-extracted_at: 2026-05-13 17:58:53
-last_updated: 2026-05-13
+extracted_at: 2026-05-14 17:48:35
+last_updated: 2026-05-14
 ---
 
 # COHR - Coherent Corp.
@@ -12,46 +12,46 @@ last_updated: 2026-05-13
 ## 基本信息
 
 - **所属行业**: Technology / Scientific & Technical Instruments
-- **提取时间**: 2026-05-13 17:58:53
+- **提取时间**: 2026-05-14 17:48:35
 
 ## 产业链关系
 
 ### 上游供应商
-- [[II-VI Incorporated]]
-- [[Lumentum Holdings]]
-- [[Coherent Inc.]]
-- [[Coherent Corp.]]
-- [[Coherent Technologies]]
+- [[Optical glass and crystal manufacturers]]
+- [[AMAT]]
+- [[Laser diode producers]]
+- [[Fiber optic component suppliers]]
+- [[Precision machining and polishing equipment vendors]]
 
 ### 下游客户
-- [[Aerospace & Defense]]
-- [[Medical Devices]]
-- [[Semiconductor Manufacturing]]
-- [[Industrial Automation]]
-- [[Research & Development Institutions]]
+- [[Scientific research institutions (e.g., universities, national labs)]]
+- [[Semiconductor lithography fabs]]
+- [[Medical device manufacturers (laser surgery, imaging)]]
+- [[Industrial manufacturing (laser cutting, welding)]]
+- [[Defense and aerospace contractors]]
 
 ### 竞争对手
 - [[Lumentum Holdings]]
-- [[II-VI Incorporated]]
-- [[Coherent Inc.]]
-- [[Coherent Technologies]]
-- [[Coherent Corp.]]
+- [[Thorlabs]]
+- [[Newport Corporation]]
+- [[Coherent's former parent II‑VI (for overlapping product lines)]]
+- [[Trumpf Laser Systems]]
 
 ### 核心产品
-- [[Optical Materials]]
-- [[Semiconductor Lasers]]
-- [[Laser Systems]]
-- [[Optical Components]]
-- [[Laser Diodes]]
+- [[High‑power solid‑state lasers]]
+- [[Fiber lasers]]
+- [[Laser diodes]]
+- [[Optical materials (crystals, glasses)]]
+- [[Laser‑based measurement and metrology systems]]
 
 ## 数据来源
 
 - [Coherent Corp.](https://en.wikipedia.org/wiki/Coherent_Corp.)
-- [Coherent Corp. suppliers manufacturers](https://en.wikipedia.org/wiki/Coherent_Corp.)
-- [Coherent Corp. suppliers manufacturers](https://www.coherent.com/)
-- [Coherent Corp. major customers clients](https://www.coherent.com/news/success-stories)
-- [Coherent Corp. major customers clients](https://csimarket.com/stocks/COHR-Customers)
+- [Coherent Corp. suppliers manufacturers](https://www.coherent.com/company/locations)
+- [Coherent Corp. suppliers manufacturers](https://coherentdistribution.com/find-your-regional-coherent-representative/)
+- [Coherent Corp. major customers clients](https://en.wikipedia.org/wiki/Coherent_Corp.)
+- [Coherent Corp. major customers clients](https://www.coherent.com/)
 
 ## 元数据
 
-- **更新日期**: 2026-05-13
+- **更新日期**: 2026-05-14

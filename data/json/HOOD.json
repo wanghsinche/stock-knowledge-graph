@@ -4,34 +4,34 @@
   "sector": "Financial Services",
   "industry": "Capital Markets",
   "upstream": [
+    "NASDAQ",
+    "NYSE",
     "Bloomberg",
     "Refinitiv",
-    "AMZN",
-    "MSFT",
-    "GOOGL"
+    "AWS"
   ],
   "downstream": [
     "Retail investors",
-    "High‑frequency traders",
+    "Day traders",
+    "High-frequency traders",
     "Institutional clients",
-    "Crypto traders",
-    "Options traders"
+    "Crypto traders"
   ],
   "competitors": [
-    "Charles Schwab",
-    "TD Ameritrade",
     "E*TRADE",
+    "TD Ameritrade",
+    "Charles Schwab",
     "Fidelity",
     "Webull"
   ],
   "key_products": [
-    "Commission‑free stock trading",
-    "Options trading",
+    "Commission-free stock trading app",
+    "Robinhood Gold",
     "Margin trading",
     "Cryptocurrency trading",
-    "Cash management and interest accounts"
+    "Cash management"
   ],
-  "extracted_at": "2026-05-11 18:01:23",
+  "extracted_at": "2026-05-14 17:47:34",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,21 +47,21 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ru.wikipedia.org/wiki/Robinhood_(компания)",
-      "query": "Robinhood Markets, Inc. suppliers manufacturers",
-      "snippet": "Robinhood Markets , Inc . — американская компания со штаб-квартирой в Менло-Парке, штат Калифорния. Занимается оказанием финансовых услуг и известна т"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Robinhood_Markets",
-      "query": "Robinhood Markets, Inc. major customers clients",
-      "snippet": "Robinhood Markets , Inc . is an American financial services company based in Menlo Park, California. It provides an electronic trading platform that f"
-    },
-    {
-      "source": "DuckDuckGo",
       "url": "https://robinhood.com/",
-      "query": "Robinhood Markets, Inc. major customers clients",
+      "query": "Robinhood Markets, Inc. suppliers manufacturers",
       "snippet": "Trade stocks on Robinhood with commission-free investing & advanced trading tools. Access fractional shares, real-time market data, and more."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://investingintheweb.com/brokers/robinhood-statistics/",
+      "query": "Robinhood Markets, Inc. major customers clients",
+      "snippet": "Apr 7, 2026 · Robinhood revenues Robinhood generates revenues through transaction-based revenues, net interest revenues, and other revenues. Transacti"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://investors.robinhood.com/",
+      "query": "Robinhood Markets, Inc. major customers clients",
+      "snippet": "Apr 30, 2026 · Robinhood Markets , Inc . Investor relations (IR) website contains information about our business for stockholders, potential investors"
     }
   ]
 }

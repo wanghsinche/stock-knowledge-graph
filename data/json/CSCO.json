@@ -1,13 +1,13 @@
 {
   "ticker": "CSCO",
   "company_name": "Cisco Systems, Inc.",
-  "sector": "Technology",
-  "industry": "Communication Equipment",
+  "sector": "Technology / Communication Equipment",
+  "industry": "Networking Equipment",
   "upstream": [
     "INTC",
     "QCOM",
     "AVGO",
-    "MRVL",
+    "NVDA",
     "TXN"
   ],
   "downstream": [
@@ -15,23 +15,23 @@
     "Verizon",
     "Comcast",
     "GOOGL",
-    "AMZN"
+    "MSFT"
   ],
   "competitors": [
     "JNPR",
     "ANET",
     "Huawei",
-    "Nokia",
-    "Ericsson"
+    "HPQ",
+    "DELL"
   ],
   "key_products": [
+    "Cisco routers",
+    "Cisco switches",
     "Cisco Webex",
-    "Cisco OpenDNS",
-    "Cisco Jabber",
-    "Cisco Jasper",
-    "Cisco Catalyst"
+    "Cisco Secure (OpenDNS)",
+    "Cisco Meraki"
   ],
-  "extracted_at": "2026-05-13 18:01:17",
+  "extracted_at": "2026-05-14 17:42:27",
   "sources": [
     {
       "source": "Wikipedia",
@@ -53,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.cisco.com/site/us/en/about/case-studies-customer-stories/index.html",
+      "url": "https://en.wikipedia.org/wiki/Cisco",
       "query": "Cisco Systems, Inc. major customers clients",
-      "snippet": "Read Cisco case studies and customer success stories highlighting the ways organizations have realized their goals and helped drive outcomes."
+      "snippet": "Cisco Systems , Inc ., doing business as Cisco , is an American multinational technology conglomerate corporation that develops, manufactures, and sel"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.appsruntheworld.com/customers-database/vendors/view/cisco-systems",
+      "url": "https://www.cisco.com/",
       "query": "Cisco Systems, Inc. major customers clients",
-      "snippet": "List of companies using or evaluating Cisco Systems applications, with details on their revenues, employees, industries, and locations."
+      "snippet": "Cisco is a worldwide technology leader powering an inclusive future for all. Learn more about our products, services, solutions, and innovations. Cisc"
     }
   ]
 }

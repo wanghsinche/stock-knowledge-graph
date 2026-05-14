@@ -4,18 +4,18 @@
   "sector": "Financial Services",
   "industry": "Banks - Diversified",
   "upstream": [
+    "IBM",
     "ORCL",
     "MSFT",
-    "IBM",
-    "SAP",
-    "AMZN"
+    "CRM",
+    "Visa"
   ],
   "downstream": [
-    "Retail banking customers",
-    "Corporate banking clients",
+    "Retail customers",
+    "Corporate clients",
+    "Government agencies",
     "Institutional investors",
-    "Wealth management clients",
-    "Credit card holders"
+    "High‑net‑worth individuals"
   ],
   "competitors": [
     "Bank of America",
@@ -25,13 +25,13 @@
     "Morgan Stanley"
   ],
   "key_products": [
-    "Consumer banking services",
-    "Corporate banking and lending",
+    "Retail banking",
+    "Commercial banking",
     "Investment banking",
-    "Asset and wealth management",
-    "Credit card and payment services"
+    "Asset management",
+    "Wealth management"
   ],
-  "extracted_at": "2026-05-12 18:00:57",
+  "extracted_at": "2026-05-14 17:49:20",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,9 +47,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ru.wikipedia.org/wiki/JPMorgan_Chase",
+      "url": "https://www.jpmorganchase.com/",
       "query": "JPMorgan Chase & Co. suppliers manufacturers",
-      "snippet": "JPMorgan Chase & Co , «Дж. П. Морган Чейз и Ко.» — американский транснациональный финансовый конгломерат, один из крупнейших банков мира. Штаб-квартир"
+      "snippet": "Latest news. An Ohio-based company is protecting first responders around the world. With support from JPMorganChase , Fire-Dex is providing protective"
     },
     {
       "source": "DuckDuckGo",

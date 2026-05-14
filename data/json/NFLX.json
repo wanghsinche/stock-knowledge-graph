@@ -4,18 +4,18 @@
   "sector": "Communication Services",
   "industry": "Entertainment",
   "upstream": [
-    "Content production studios (e.g., Warner Bros., Disney)",
-    "Independent film and TV production companies",
     "AMZN",
-    "Technology suppliers (e.g., cloud infrastructure providers)",
-    "Marketing and advertising agencies"
+    "GOOGL",
+    "MSFT",
+    "Warner Bros. Discovery",
+    "Disney Studios"
   ],
   "downstream": [
-    "Individual consumers (home viewers)",
-    "005930.KS",
-    "AMZN",
-    "NFLX",
-    "NFLX"
+    "Individual subscribers worldwide",
+    "Corporate accounts",
+    "Cable and satellite providers",
+    "Streaming device manufacturers",
+    "Smart TV manufacturers"
   ],
   "competitors": [
     "Disney+",
@@ -25,13 +25,13 @@
     "AAPL"
   ],
   "key_products": [
-    "Over-the-top streaming service",
-    "Original series and films",
-    "Licensed movies and TV shows",
-    "Mobile and web applications",
-    "Interactive content (e.g., Netflix Games)"
+    "Netflix streaming service",
+    "Netflix Originals",
+    "Netflix Studios",
+    "Netflix TV",
+    "Netflix mobile app"
   ],
-  "extracted_at": "2026-05-13 18:01:41",
+  "extracted_at": "2026-05-14 17:48:44",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,9 +41,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://npfp.netflixstudios.com/region/global/",
+      "url": "https://seriosity.com/what-companies-does-netflix-work-with/",
       "query": "Netflix, Inc. suppliers manufacturers",
-      "snippet": "Netflix Preferred Fulfillment Partners Hiventy Group has been providing high-end technical solutions to the entertainment industry for more than 30 ye"
+      "snippet": "Aug 5, 2025 · Distribution Networks To ensure its service is widely accessible, Netflix has partnered with hardware manufacturers like Sony, LG, and S"
     },
     {
       "source": "DuckDuckGo",
@@ -53,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.inc.com/jason-aten/netflix-just-revealed-its-doing-the-1-thing-customers-were-most-afraid-of/91110628",
+      "url": "https://csimarket.com/stocks/NFLX-Customers",
       "query": "Netflix, Inc. major customers clients",
-      "snippet": "Look, that’s basically Netflix ’s most reliable strategy. It’s right up there with dumping an entire season of episodes at a time to encourage custome"
+      "snippet": "Apr 11, 2026 · During the corresponding time, Netflix Inc recorded a revenue increase by 8.81 % year on year, sequentially revenue grew by 4.7 %. Whil"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.netflix.com/fi-en/",
+      "url": "https://ir.netflix.net/ir-overview/profile/default.aspx",
       "query": "Netflix, Inc. major customers clients",
-      "snippet": "Watch Netflix films & series online or stream straight to your smart TV, game console, PC, Mac, mobile, tablet and more."
+      "snippet": "Apr 16, 2026 · Netflix is one of the world’s leading entertainment services offering TV series, films, games and live programming across a wide variet"
     }
   ]
 }

@@ -4,34 +4,34 @@
   "sector": "Financial Services",
   "industry": "Capital Markets",
   "upstream": [
-    "Technology vendors (e.g., Bloomberg, Refinitiv)",
-    "Data providers (e.g., FactSet)",
-    "Legal & compliance firms",
-    "Cloud service providers (AWS, Azure)",
-    "Consulting firms (McKinsey, BCG)"
+    "MSFT",
+    "IBM",
+    "ORCL",
+    "Bloomberg",
+    "Thomson Reuters"
   ],
   "downstream": [
-    "Corporate clients",
-    "Sovereign governments",
-    "Institutional investors (pension funds, mutual funds)",
-    "Retail investors",
-    "Hedge funds"
+    "Institutional investors",
+    "Corporations",
+    "Governments",
+    "Pension funds",
+    "High net worth individuals"
   ],
   "competitors": [
-    "JPMorgan Chase & Co.",
+    "J.P. Morgan Chase",
     "Morgan Stanley",
-    "Bank of America",
+    "Bank of America Merrill Lynch",
     "Citigroup",
-    "UBS"
+    "Credit Suisse"
   ],
   "key_products": [
     "Investment banking services",
-    "Securities trading",
     "Asset management",
     "Wealth management",
-    "Research & advisory"
+    "Securities trading",
+    "Capital markets advisory"
   ],
-  "extracted_at": "2026-05-13 18:03:51",
+  "extracted_at": "2026-05-14 17:49:40",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Goldman_Sachs",
+      "url": "https://csimarket.com/stocks/GS-Suppliers",
       "query": "The Goldman Sachs Group, Inc. suppliers manufacturers",
-      "snippet": "The Goldman Sachs Group , Inc . is an American multinational investment bank and financial services company. The Goldman Sachs Group , Inc . Headquart"
+      "snippet": "Feb 26, 2026 · The Goldman Sachs Group Inc 's Suppliers recorded an increase in sales by 11.02 % year on year in Q4 2025, sequentially sales grew by 9"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.goldmansachs.com/",
+      "url": "https://fintel.io/doc/sec-goldman-sachs-group-inc-886982-ex211-2024-february-23-19777-6581",
       "query": "The Goldman Sachs Group, Inc. suppliers manufacturers",
-      "snippet": "The Goldman Sachs Group , Inc . is a leading global investment banking, securities, and asset and wealth management firm that provides a wide range of"
+      "snippet": "The Goldman Sachs Group , Inc . - List of significant subsidiaries of The Goldman Sachs G - EX-21.1 - February 23, 2024"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Goldman_Sachs",
+      "url": "https://www.goldmansachs.com/what-we-do/serving-clients",
       "query": "The Goldman Sachs Group, Inc. major customers clients",
-      "snippet": "The Goldman Sachs Group , Inc . is an American multinational investment bank and financial services company. The Goldman Sachs Group , Inc . Headquart"
+      "snippet": "Innovative and customer -centered financial products that power our clients ’ businesses. Original, fundamental insights and analysis of economic, mar"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.goldmansachs.com/what-we-do/serving-clients/delivering-for-our-clients",
+      "url": "https://csimarket.com/stocks/GS-Customers",
       "query": "The Goldman Sachs Group, Inc. major customers clients",
-      "snippet": "Featured client partnership and impact stories from across Goldman Sachs .Tampa Bay Rays. Serving as financial advisor to the Major League Baseball fr"
+      "snippet": "For your research, we’ve provided 9 tables on The Goldman Sachs Group Inc corporate clients . You can find them in the navigation menu under Customers"
     }
   ]
 }

@@ -3,8 +3,8 @@ ticker: NOW
 company: ServiceNow, Inc.
 sector: Technology
 industry: Software - Application
-extracted_at: 2026-05-13 18:03:37
-last_updated: 2026-05-13
+extracted_at: 2026-05-14 17:47:15
+last_updated: 2026-05-14
 ---
 
 # NOW - ServiceNow, Inc.
@@ -12,46 +12,46 @@ last_updated: 2026-05-13
 ## 基本信息
 
 - **所属行业**: Technology / Software - Application
-- **提取时间**: 2026-05-13 18:03:37
+- **提取时间**: 2026-05-14 17:47:15
 
 ## 产业链关系
 
 ### 上游供应商
-- [[MSFT]]
 - [[AMZN]]
+- [[MSFT]]
 - [[GOOGL]]
-- [[ORCL]]
+- [[CSCO]]
 - [[IBM]]
 
 ### 下游客户
-- [[Bank of America]]
-- [[Coca‑Cola]]
 - [[Walmart]]
-- [[AT&T]]
-- [[Citigroup]]
+- [[JPMorgan Chase]]
+- [[Coca‑Cola]]
+- [[Bank of America]]
+- [[General Motors]]
 
 ### 竞争对手
 - [[CRM]]
-- [[MSFT]]
 - [[SAP]]
 - [[ORCL]]
-- [[IBM]]
+- [[MSFT]]
+- [[Workday]]
 
 ### 核心产品
-- [[Now Platform]]
+- [[ServiceNow Platform]]
 - [[IT Service Management (ITSM)]]
 - [[IT Operations Management (ITOM)]]
-- [[IT Business Management (ITBM)]]
 - [[Customer Service Management (CSM)]]
+- [[HR Service Delivery]]
 
 ## 数据来源
 
 - [ServiceNow](https://en.wikipedia.org/wiki/ServiceNow,_Inc.)
-- [ServiceNow, Inc. suppliers manufacturers](https://theenterpriseworld.com/10-servicenow-partners-in-2024/)
-- [ServiceNow, Inc. suppliers manufacturers](https://uk.finance.yahoo.com/news/frank-sands-significantly-reduces-stake-210114270.html)
+- [ServiceNow, Inc. suppliers manufacturers](https://www.servicenow.com/partners/partner-finder.html)
+- [ServiceNow, Inc. suppliers manufacturers](https://itcompanies.net/blog/top-servicenow-partners)
 - [ServiceNow, Inc. major customers clients](https://www.aventionmedia.com/technology-installed-base/servicenow/)
-- [ServiceNow, Inc. major customers clients](https://www.servicenow.com/customers.html)
+- [ServiceNow, Inc. major customers clients](https://data.landbase.com/technology/servicenow/)
 
 ## 元数据
 
-- **更新日期**: 2026-05-13
+- **更新日期**: 2026-05-14

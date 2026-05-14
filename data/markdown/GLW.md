@@ -3,8 +3,8 @@ ticker: GLW
 company: Corning Incorporated
 sector: Technology
 industry: Electronic Components
-extracted_at: 2026-05-13 17:58:37
-last_updated: 2026-05-13
+extracted_at: 2026-05-14 17:47:45
+last_updated: 2026-05-14
 ---
 
 # GLW - Corning Incorporated
@@ -12,37 +12,37 @@ last_updated: 2026-05-13
 ## 基本信息
 
 - **所属行业**: Technology / Electronic Components
-- **提取时间**: 2026-05-13 17:58:37
+- **提取时间**: 2026-05-14 17:47:45
 
 ## 产业链关系
 
 ### 上游供应商
-- [[HPQ]]
-- [[Rio Tinto]]
-- [[Glencore]]
-- [[Dow Chemical]]
-- [[DuPont]]
+- [[Silica sand suppliers]]
+- [[Chemical suppliers (e.g., BASF)]]
+- [[Glass furnace manufacturers (e.g., KHS, Linde)]]
+- [[Raw material suppliers (e.g., Rio Tinto)]]
+- [[Glass additive suppliers (e.g., Evonik)]]
 
 ### 下游客户
 - [[005930.KS]]
-- [[LG Display]]
 - [[AAPL]]
-- [[AT&T]]
-- [[Boeing]]
+- [[LG Display]]
+- [[SONY]]
+- [[Toyota Motor Corporation]]
 
 ### 竞争对手
 - [[Schott AG]]
-- [[Saint‑Gobain]]
-- [[Lumentum Holdings]]
-- [[II‑VI Incorporated]]
-- [[Coherent, Inc.]]
+- [[Saint-Gobain]]
+- [[AGC Inc.]]
+- [[005930.KS]]
+- [[LG Display]]
 
 ### 核心产品
 - [[Optical fiber]]
-- [[Display glass (LCD & OLED)]]
-- [[High‑performance specialty glass]]
-- [[Advanced optics for cameras]]
-- [[Glass for industrial & aerospace applications]]
+- [[Display glass (LCD, OLED)]]
+- [[Specialty glass for smartphones]]
+- [[High‑performance glass for aerospace]]
+- [[Scientific glassware]]
 
 ## 数据来源
 
@@ -54,4 +54,4 @@ last_updated: 2026-05-13
 
 ## 元数据
 
-- **更新日期**: 2026-05-13
+- **更新日期**: 2026-05-14
