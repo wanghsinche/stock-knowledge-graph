@@ -1,37 +1,37 @@
 {
   "ticker": "CSCO",
   "company_name": "Cisco Systems, Inc.",
-  "sector": "Technology / Communication Equipment",
+  "sector": "Technology",
   "industry": "Networking Equipment",
   "upstream": [
     "INTC",
-    "QCOM",
     "AVGO",
-    "NVDA",
-    "TXN"
+    "QCOM",
+    "TXN",
+    "MU"
   ],
   "downstream": [
     "AT&T",
-    "Verizon",
-    "Comcast",
+    "CAT",
     "GOOGL",
-    "MSFT"
+    "MSFT",
+    "AMZN"
   ],
   "competitors": [
     "JNPR",
     "ANET",
-    "Huawei",
-    "HPQ",
-    "DELL"
+    "Huawei Technologies",
+    "Nokia",
+    "Ericsson"
   ],
   "key_products": [
     "Cisco routers",
     "Cisco switches",
-    "Cisco Webex",
-    "Cisco Secure (OpenDNS)",
+    "Webex",
+    "OpenDNS",
     "Cisco Meraki"
   ],
-  "extracted_at": "2026-05-14 17:42:27",
+  "extracted_at": "2026-05-15 17:29:14",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,15 +41,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.cisco.com/c/dam/en_us/about/supply-chain/cisco-supplier-list.pdf",
+      "url": "https://en.wikipedia.org/wiki/Cisco",
       "query": "Cisco Systems, Inc. suppliers manufacturers",
-      "snippet": "Cisco Supplier List Cisco products are made by a complex global network of manufacturing partners and component suppliers . To learn more about how we"
+      "snippet": "Cisco Systems , Inc ., doing business as Cisco , is an American multinational technology conglomerate corporation that develops, manufactures , and se"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/CSCO-Suppliers",
+      "url": "https://ru.wikipedia.org/wiki/Cisco",
       "query": "Cisco Systems, Inc. suppliers manufacturers",
-      "snippet": "Feb 19, 2026 · Cisco Systems Inc 's Comment on Supply Chain We rely on contract manufacturers for all of our manufacturing needs. We presently use a v"
+      "snippet": "Cisco Systems , «Сиско Системз» — американская транснациональная компания, разрабатывающая и продающая сетевое оборудование, предназначенное в основно"
     },
     {
       "source": "DuckDuckGo",
@@ -59,9 +59,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.cisco.com/",
+      "url": "https://ru.wikipedia.org/wiki/Cisco",
       "query": "Cisco Systems, Inc. major customers clients",
-      "snippet": "Cisco is a worldwide technology leader powering an inclusive future for all. Learn more about our products, services, solutions, and innovations. Cisc"
+      "snippet": "Cisco Systems , «Сиско Системз» — американская транснациональная компания, разрабатывающая и продающая сетевое оборудование, предназначенное в основно"
     }
   ]
 }

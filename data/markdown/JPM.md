@@ -3,8 +3,8 @@ ticker: JPM
 company: JPMorgan Chase & Co.
 sector: Financial Services
 industry: Banks - Diversified
-extracted_at: 2026-05-14 17:49:20
-last_updated: 2026-05-14
+extracted_at: 2026-05-15 17:37:27
+last_updated: 2026-05-15
 ---
 
 # JPM - JPMorgan Chase & Co.
@@ -12,46 +12,46 @@ last_updated: 2026-05-14
 ## 基本信息
 
 - **所属行业**: Financial Services / Banks - Diversified
-- **提取时间**: 2026-05-14 17:49:20
+- **提取时间**: 2026-05-15 17:37:27
 
 ## 产业链关系
 
 ### 上游供应商
-- [[IBM]]
-- [[ORCL]]
 - [[MSFT]]
-- [[CRM]]
-- [[Visa]]
+- [[GOOGL]]
+- [[Payment processors (e.g., Visa, Mastercard)]]
+- [[Data analytics firms (e.g., Bloomberg, Refinitiv)]]
+- [[Cybersecurity providers (e.g., Palo Alto Networks, Symantec)]]
 
 ### 下游客户
-- [[Retail customers]]
-- [[Corporate clients]]
-- [[Government agencies]]
+- [[Retail banking customers]]
+- [[Corporate banking clients]]
 - [[Institutional investors]]
-- [[High‑net‑worth individuals]]
+- [[Wealth management clients]]
+- [[Credit card holders]]
 
 ### 竞争对手
-- [[Bank of America]]
-- [[Citigroup]]
-- [[Wells Fargo]]
-- [[Goldman Sachs]]
-- [[Morgan Stanley]]
+- [[Bank of America (BAC)]]
+- [[Citigroup (C)]]
+- [[Wells Fargo (WFC)]]
+- [[Goldman Sachs (GS)]]
+- [[Morgan Stanley (MS)]]
 
 ### 核心产品
-- [[Retail banking]]
-- [[Commercial banking]]
-- [[Investment banking]]
-- [[Asset management]]
-- [[Wealth management]]
+- [[Retail banking services]]
+- [[Investment banking and advisory]]
+- [[Asset and wealth management]]
+- [[Credit card and consumer lending]]
+- [[Treasury and securities services]]
 
 ## 数据来源
 
 - [JPMorgan Chase](https://en.wikipedia.org/wiki/JPMorgan_Chase_&_Co.)
 - [JPMorgan Chase & Co. suppliers manufacturers](https://en.wikipedia.org/wiki/JPMorgan_Chase)
-- [JPMorgan Chase & Co. suppliers manufacturers](https://www.jpmorganchase.com/)
+- [JPMorgan Chase & Co. suppliers manufacturers](https://ru.wikipedia.org/wiki/JPMorgan_Chase)
 - [JPMorgan Chase & Co. major customers clients](https://en.wikipedia.org/wiki/JPMorgan_Chase)
 - [JPMorgan Chase & Co. major customers clients](https://www.jpmorganchase.com/)
 
 ## 元数据
 
-- **更新日期**: 2026-05-14
+- **更新日期**: 2026-05-15

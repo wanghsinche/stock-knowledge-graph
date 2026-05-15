@@ -3,8 +3,8 @@ ticker: CAT
 company: Caterpillar Inc.
 sector: Industrials
 industry: Farm & Heavy Construction Machinery
-extracted_at: 2026-05-12 18:05:41
-last_updated: 2026-05-12
+extracted_at: 2026-05-15 17:33:57
+last_updated: 2026-05-15
 ---
 
 # CAT - Caterpillar Inc.
@@ -12,30 +12,30 @@ last_updated: 2026-05-12
 ## 基本信息
 
 - **所属行业**: Industrials / Farm & Heavy Construction Machinery
-- **提取时间**: 2026-05-12 18:05:41
+- **提取时间**: 2026-05-15 17:33:57
 
 ## 产业链关系
 
 ### 上游供应商
+- [[Nucor Corp.]]
+- [[ArcelorMittal]]
+- [[Cummins Inc.]]
+- [[Parker Hannifin Corp.]]
 - [[Rockwell Automation]]
-- [[Eaton]]
-- [[Cummins]]
-- [[AGCO]]
-- [[Baldor Electric]]
 
 ### 下游客户
 - [[HPQ]]
 - [[Rio Tinto]]
-- [[Bechtel]]
-- [[U.S. Army]]
-- [[CAT]]
+- [[Bechtel Corp.]]
+- [[Fluor Corp.]]
+- [[United States Army]]
 
 ### 竞争对手
-- [[Komatsu]]
+- [[Komatsu Ltd.]]
 - [[Volvo Construction Equipment]]
 - [[DE]]
 - [[CNH Industrial]]
-- [[Hitachi Construction Machinery]]
+- [[Doosan Infracore]]
 
 ### 核心产品
 - [[Excavators]]
@@ -54,4 +54,4 @@ last_updated: 2026-05-12
 
 ## 元数据
 
-- **更新日期**: 2026-05-12
+- **更新日期**: 2026-05-15

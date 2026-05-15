@@ -3,8 +3,8 @@ ticker: MRVL
 company: Marvell Technology, Inc.
 sector: Technology
 industry: Semiconductors
-extracted_at: 2026-05-14 17:43:24
-last_updated: 2026-05-14
+extracted_at: 2026-05-15 17:28:58
+last_updated: 2026-05-15
 ---
 
 # MRVL - Marvell Technology, Inc.
@@ -12,7 +12,7 @@ last_updated: 2026-05-14
 ## 基本信息
 
 - **所属行业**: Technology / Semiconductors
-- **提取时间**: 2026-05-14 17:43:24
+- **提取时间**: 2026-05-15 17:28:58
 
 ## 产业链关系
 
@@ -20,38 +20,38 @@ last_updated: 2026-05-14
 - [[TSM]]
 - [[005930.KS]]
 - [[GlobalFoundries]]
-- [[UMC]]
-- [[SMIC]]
+- [[INTC]]
+- [[MU]]
 
 ### 下游客户
 - [[AMZN]]
 - [[GOOGL]]
 - [[MSFT]]
-- [[AT&T]]
-- [[CAT]]
+- [[Alibaba Cloud]]
+- [[Huawei Technologies]]
 
 ### 竞争对手
 - [[AVGO]]
 - [[QCOM]]
 - [[INTC]]
-- [[NVDA]]
 - [[MediaTek]]
+- [[NVDA]]
 
 ### 核心产品
-- [[Storage controller chips]]
-- [[Ethernet and networking ASICs]]
-- [[Wireless LAN and 5G modem solutions]]
-- [[Data center interconnect chips]]
-- [[Embedded system-on-chip (SoC) solutions]]
+- [[Network processors]]
+- [[SoCs for networking]]
+- [[Storage controllers]]
+- [[Wireless LAN chips]]
+- [[Ethernet controllers]]
 
 ## 数据来源
 
 - [Marvell Technology](https://en.wikipedia.org/wiki/Marvell_Technology,_Inc.)
 - [Marvell Technology, Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/Marvell_Technology)
-- [Marvell Technology, Inc. suppliers manufacturers](https://csimarket.com/stocks/MRVL-Suppliers)
-- [Marvell Technology, Inc. major customers clients](https://www.marvell.com/blogs/marvell-named-to-worlds-most-trustworthy-companies-list-2025.html)
-- [Marvell Technology, Inc. major customers clients](https://matrixbcg.com/blogs/target-market/marvell)
+- [Marvell Technology, Inc. suppliers manufacturers](https://www.marvell.com/)
+- [Marvell Technology, Inc. major customers clients](https://www.marvell.com/)
+- [Marvell Technology, Inc. major customers clients](https://www.benzinga.com/news/24/04/38224114/marvell-tech-set-for-major-growth-with-ai-accelerators-for-amazon-google-and-potential-microsoft-dea)
 
 ## 元数据
 
-- **更新日期**: 2026-05-14
+- **更新日期**: 2026-05-15

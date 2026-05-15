@@ -5,33 +5,33 @@
   "industry": "Software - Application",
   "upstream": [
     "AMZN",
-    "MSFT",
     "GOOGL",
-    "AAPL",
-    "MSFT"
+    "MSFT",
+    "GitHub",
+    "Slack"
   ],
   "downstream": [
     "GOOGL",
-    "Uber",
-    "Airbnb",
     "MSFT",
-    "Slack"
+    "Airbnb",
+    "Uber",
+    "Dropbox"
   ],
   "competitors": [
     "ADBE",
     "Sketch",
-    "InVision Studio",
+    "InVision",
     "Framer",
-    "ADBE"
+    "Axure RP"
   ],
   "key_products": [
     "Figma Design",
     "Figma Mirror",
-    "Figma Desktop App",
     "Figma Plugins",
-    "Figma Community"
+    "Figma Community",
+    "Figma Prototyping"
   ],
-  "extracted_at": "2026-02-19 16:44:57",
+  "extracted_at": "2026-05-15 17:34:20",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.figma.com/partners/",
+      "url": "https://www.linkedin.com/posts/themichaelho_figma-raised-a-38m-seed-a-14m-series-activity-7140722955352702976-mk3E",
       "query": "Figma, Inc. suppliers manufacturers",
-      "snippet": "Figma partners with innovative companies and agencies to make the product development process more collaborative and efficient."
+      "snippet": "Figma raised in the biggest VC fundraise party decade where conditions have been loose. Big raises are rather exceptions, and reasons for success are "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/suppliers_glance.php?code=FIG",
+      "url": "https://www.insidermonkey.com/blog/figma-fig-targets-38-revenue-jump-in-q1-up-6-5-1753673/",
       "query": "Figma, Inc. suppliers manufacturers",
-      "snippet": "Sources: Figma Inc 's official press releases and regulatory filings; CSIMarket.com's supply-chain research; and the financial filings and press relea"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/FIG/",
-      "query": "Figma, Inc. major customers clients",
-      "snippet": "Find the latest Figma , Inc . (FIG) stock quote, history, news and other vital information to help you with your stock trading and investing."
+      "snippet": "Figma Inc . (NYSE:FIG) is one of the 10 Stocks Exploding in a Bleeding Market. Figma climbed by 6.51 percent on Monday to end at $19.96 apiece, as inv"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://siliconangle.com/2026/02/18/figma-stock-climbs-40-revenue-growth-surging-figma-make-adoption/",
       "query": "Figma, Inc. major customers clients",
-      "snippet": "Shares in Figma Inc . shot up more than 14% in after-hours trading today after the graphic design software provider impressed investors with earnings "
+      "snippet": "Customer growth was key, as weekly active users of Figma Make, the company’s artificial intelligence-powered feature that lets users generate editable"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.linkedin.com/posts/cnbc_figma-stock-jumps-15-as-company-sees-ai-activity-7429998192630530048-Jx0y",
+      "query": "Figma, Inc. major customers clients",
+      "snippet": "Figma shares jumped 15% in extended trading on Wednesday after the design software maker reported robust results and quarterly guidance than Wall Stre"
     }
   ]
 }

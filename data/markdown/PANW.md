@@ -1,34 +1,34 @@
 ---
 ticker: PANW
 company: Palo Alto Networks, Inc.
-sector: Technology
-industry: Software - Infrastructure
-extracted_at: 2026-05-14 17:48:12
-last_updated: 2026-05-14
+sector: Technology / Software - Infrastructure
+industry: Cybersecurity
+extracted_at: 2026-05-15 17:33:11
+last_updated: 2026-05-15
 ---
 
 # PANW - Palo Alto Networks, Inc.
 
 ## 基本信息
 
-- **所属行业**: Technology / Software - Infrastructure
-- **提取时间**: 2026-05-14 17:48:12
+- **所属行业**: Technology / Software - Infrastructure / Cybersecurity
+- **提取时间**: 2026-05-15 17:33:11
 
 ## 产业链关系
 
 ### 上游供应商
-- [[INTC]]
-- [[AMD]]
+- [[CSCO]]
+- [[JNPR]]
+- [[VMware]]
 - [[MSFT]]
 - [[AMZN]]
-- [[GOOGL]]
 
 ### 下游客户
-- [[Wipro (global IT services)]]
-- [[Tyson Foods (food processing)]]
-- [[Coca‑Cola (consumer goods)]]
-- [[Bank of America (financial services)]]
-- [[UnitedHealth Group (healthcare)]]
+- [[JPMorgan Chase]]
+- [[AT&T]]
+- [[Bank of America]]
+- [[Verizon]]
+- [[Walmart]]
 
 ### 竞争对手
 - [[CSCO]]
@@ -38,20 +38,20 @@ last_updated: 2026-05-14
 - [[CrowdStrike]]
 
 ### 核心产品
-- [[Next‑Gen Firewall]]
-- [[Prisma Cloud]]
+- [[Next‑Generation Firewall]]
+- [[Panorama]]
 - [[Cortex XDR]]
+- [[Prisma Cloud]]
 - [[WildFire]]
-- [[Unit 42 threat intelligence]]
 
 ## 数据来源
 
 - [Palo Alto Networks](https://en.wikipedia.org/wiki/Palo_Alto_Networks,_Inc.)
-- [Palo Alto Networks, Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/Palo_Alto_Networks)
-- [Palo Alto Networks, Inc. suppliers manufacturers](https://paloaltonetworks.my.site.com/NextWavePartnerProgram/s/partnerlocator)
-- [Palo Alto Networks, Inc. major customers clients](https://www.paloaltonetworks.com/customers)
-- [Palo Alto Networks, Inc. major customers clients](https://csimarket.com/stocks/PANW-Customers)
+- [Palo Alto Networks, Inc. suppliers manufacturers](https://www.paloaltonetworks.com/)
+- [Palo Alto Networks, Inc. suppliers manufacturers](https://addo.supply/brands/paloalto-networks.html)
+- [Palo Alto Networks, Inc. major customers clients](https://en.wikipedia.org/wiki/Palo_Alto_Networks)
+- [Palo Alto Networks, Inc. major customers clients](https://www.paloaltonetworks.com/)
 
 ## 元数据
 
-- **更新日期**: 2026-05-14
+- **更新日期**: 2026-05-15

@@ -3,11 +3,34 @@
   "company_name": "Applied Materials, Inc.",
   "sector": "Technology",
   "industry": "Semiconductor Equipment & Materials",
-  "upstream": [],
-  "downstream": [],
-  "competitors": [],
-  "key_products": [],
-  "extracted_at": "2026-05-14 17:45:30",
+  "upstream": [
+    "Silicon wafer suppliers",
+    "Chemical and gas suppliers",
+    "Precision optics and photolithography component suppliers",
+    "Electronic component and sensor suppliers",
+    "CAT"
+  ],
+  "downstream": [
+    "TSM",
+    "005930.KS",
+    "INTC",
+    "GlobalFoundries",
+    "UMC"
+  ],
+  "competitors": [
+    "ASML",
+    "LRCX",
+    "Tokyo Electron",
+    "KLA"
+  ],
+  "key_products": [
+    "Semiconductor lithography equipment",
+    "Etching and deposition tools",
+    "Metrology and inspection systems",
+    "Coating equipment for flexible electronics",
+    "Solar cell manufacturing equipment"
+  ],
+  "extracted_at": "2026-05-15 17:27:28",
   "sources": [
     {
       "source": "Wikipedia",
@@ -25,6 +48,18 @@
       "source": "DuckDuckGo",
       "url": "https://www.appliedmaterials.com/",
       "query": "Applied Materials, Inc. suppliers manufacturers",
+      "snippet": "Applied Materials , Inc . is the leader in materials engineering solutions that are at the foundation of virtually every new semiconductor and advance"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/Applied_Materials",
+      "query": "Applied Materials, Inc. major customers clients",
+      "snippet": "Applied Materials , Inc . is an American corporation that supplies equipment, services and software for the manufacture of semiconductor chips for ele"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.appliedmaterials.com/us/en.html",
+      "query": "Applied Materials, Inc. major customers clients",
       "snippet": "Applied Materials , Inc . is the leader in materials engineering solutions that are at the foundation of virtually every new semiconductor and advance"
     }
   ]

@@ -1,57 +1,57 @@
 ---
 ticker: ONDS
 company: Ondas Inc.
-sector: Technology / Communication Equipment
-industry: Wireless Communications Equipment
-extracted_at: 2026-05-14 17:46:32
-last_updated: 2026-05-14
+sector: Technology
+industry: Communication Equipment
+extracted_at: 2026-05-15 17:37:47
+last_updated: 2026-05-15
 ---
 
 # ONDS - Ondas Inc.
 
 ## 基本信息
 
-- **所属行业**: Technology / Communication Equipment / Wireless Communications Equipment
-- **提取时间**: 2026-05-14 17:46:32
+- **所属行业**: Technology / Communication Equipment
+- **提取时间**: 2026-05-15 17:37:47
 
 ## 产业链关系
 
 ### 上游供应商
-- [[QCOM]]
-- [[AVGO]]
-- [[NXP Semiconductors]]
-- [[TXN]]
-- [[INTC]]
+- [[Honeywell Aerospace]]
+- [[Boeing]]
+- [[Northrop Grumman]]
+- [[Raytheon Technologies]]
+- [[General Electric]]
 
 ### 下游客户
-- [[AT&T]]
-- [[Verizon]]
-- [[T-Mobile]]
-- [[Vodafone]]
-- [[China Mobile]]
+- [[U.S. Department of Defense]]
+- [[U.S. Army]]
+- [[U.S. Navy]]
+- [[U.S. Air Force]]
+- [[Law Enforcement Agencies]]
 
 ### 竞争对手
-- [[CSCO]]
-- [[Huawei]]
-- [[Ericsson]]
-- [[Nokia]]
-- [[ZTE]]
+- [[DJI]]
+- [[AeroVironment]]
+- [[Northrop Grumman]]
+- [[Boeing]]
+- [[Raytheon Technologies]]
 
 ### 核心产品
-- [[5G base stations]]
-- [[wireless routers]]
-- [[network switches]]
-- [[satellite communication equipment]]
-- [[IoT gateways]]
+- [[Autonomous UAVs]]
+- [[Defense drones]]
+- [[Sensor suites]]
+- [[Flight control systems]]
+- [[Mission planning software]]
 
 ## 数据来源
 
 - 
 - [Ondas Inc. suppliers manufacturers](https://www.hawkmontresearch.com/post/ondas-inc-onds-the-supplier-ecosystem-report)
-- [Ondas Inc. suppliers manufacturers](https://csimarket.com/stocks/ONDS-Suppliers)
+- [Ondas Inc. suppliers manufacturers](https://finance.yahoo.com/quote/ONDS/)
 - [Ondas Inc. major customers clients](https://finance.yahoo.com/quote/ONDS/)
-- [Ondas Inc. major customers clients](https://www.hawkmontresearch.com/post/ondas-inc-onds-the-autonomous-defense-platform-nobody-is-pricing-correctly)
+- [Ondas Inc. major customers clients](https://www.linkedin.com/company/ondas-inc)
 
 ## 元数据
 
-- **更新日期**: 2026-05-14
+- **更新日期**: 2026-05-15

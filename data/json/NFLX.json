@@ -7,15 +7,15 @@
     "AMZN",
     "GOOGL",
     "MSFT",
-    "Warner Bros. Discovery",
-    "Disney Studios"
+    "Disney (content licensing)",
+    "Warner Bros. (content licensing)"
   ],
   "downstream": [
-    "Individual subscribers worldwide",
-    "Corporate accounts",
-    "Cable and satellite providers",
-    "Streaming device manufacturers",
-    "Smart TV manufacturers"
+    "US households",
+    "European households",
+    "Asian households",
+    "Smart TV manufacturers",
+    "Mobile device users"
   ],
   "competitors": [
     "Disney+",
@@ -27,11 +27,11 @@
   "key_products": [
     "Netflix streaming service",
     "Netflix Originals",
-    "Netflix Studios",
-    "Netflix TV",
-    "Netflix mobile app"
+    "Licensed TV shows and movies",
+    "Mobile app",
+    "Smart TV app"
   ],
-  "extracted_at": "2026-05-14 17:48:44",
+  "extracted_at": "2026-05-15 17:31:56",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://seriosity.com/what-companies-does-netflix-work-with/",
-      "query": "Netflix, Inc. suppliers manufacturers",
-      "snippet": "Aug 5, 2025 · Distribution Networks To ensure its service is widely accessible, Netflix has partnered with hardware manufacturers like Sony, LG, and S"
-    },
-    {
-      "source": "DuckDuckGo",
       "url": "https://csimarket.com/stocks/NFLX-Suppliers",
       "query": "Netflix, Inc. suppliers manufacturers",
-      "snippet": "Netflix Inc 's Suppliers recorded an increase in sales by 10.85 % year on year in Q1 2026, from the previous quarter, sales fell by -8.11 %, Netflix I"
+      "snippet": "Netflix Inc supply chain, list and performance of Netflix Incs ' suppliers - CSIMarket."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/NFLX-Customers",
-      "query": "Netflix, Inc. major customers clients",
-      "snippet": "Apr 11, 2026 · During the corresponding time, Netflix Inc recorded a revenue increase by 8.81 % year on year, sequentially revenue grew by 4.7 %. Whil"
+      "url": "https://porteranalysis.com/porters-five-forces-of-netflix/",
+      "query": "Netflix, Inc. suppliers manufacturers",
+      "snippet": "Likewise, the suppliers have a weaker bargaining power while dealing with the traditional broadcasting businesses, but online distributors like Netfli"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ir.netflix.net/ir-overview/profile/default.aspx",
+      "url": "https://www.techradar.com/streaming/netflix/netflix-customers-in-italy-are-getting-refunds-of-up-to-usd585-after-unlawful-price-hikes-though-the-rest-of-us-shouldnt-start-celebrating-yet",
       "query": "Netflix, Inc. major customers clients",
-      "snippet": "Apr 16, 2026 · Netflix is one of the world’s leading entertainment services offering TV series, films, games and live programming across a wide variet"
+      "snippet": "Netflix is told to refund price hikes to customers in Italy. A court ruled the price contravened the country's Consumer Code. Similar cases happening "
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.netflix.com/de-en/",
+      "query": "Netflix, Inc. major customers clients",
+      "snippet": "Watch Netflix movies & TV shows online or stream right to your smart TV, game console, PC, Mac, mobile, tablet and more."
     }
   ]
 }

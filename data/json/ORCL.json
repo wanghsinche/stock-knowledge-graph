@@ -8,30 +8,30 @@
     "AMD",
     "NVDA",
     "CSCO",
-    "VMware"
+    "DELL"
   ],
   "downstream": [
-    "Government agencies",
-    "Financial institutions",
-    "Healthcare organizations",
-    "Retail companies",
-    "CAT"
+    "JPMorgan Chase",
+    "Bank of America",
+    "Walmart",
+    "AT&T",
+    "Verizon"
   ],
   "competitors": [
     "MSFT",
-    "AMZN",
-    "IBM",
     "SAP",
-    "GOOGL"
+    "IBM",
+    "CRM",
+    "AMZN"
   ],
   "key_products": [
     "Oracle Database",
     "Oracle Cloud Infrastructure",
-    "Oracle E-Business Suite",
-    "Oracle Fusion Applications",
-    "Oracle Autonomous Database"
+    "Oracle Autonomous Database",
+    "Oracle ERP Cloud",
+    "Oracle Fusion Middleware"
   ],
-  "extracted_at": "2026-05-14 17:44:44",
+  "extracted_at": "2026-05-15 17:30:57",
   "sources": [
     {
       "source": "Wikipedia",
@@ -53,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.oracle.com/customers/",
+      "url": "https://en.wikipedia.org/wiki/Oracle_Corporation",
       "query": "Oracle Corporation major customers clients",
-      "snippet": "Oracle Customer Successes Innovation, ease of use, better results—those are just some of the reasons organizations in all industries and of all sizes "
+      "snippet": "Oracle Corporation is an American multinational technology company headquartered in Austin, Texas. Co-founded in Santa Clara, California in 1977 by Bo"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.thomsondata.com/customer-base/oracle.php",
+      "url": "https://ru.wikipedia.org/wiki/Oracle",
       "query": "Oracle Corporation major customers clients",
-      "snippet": "Technographic Data of Companies That Use Oracle Oracle Customers List by Industry Different industries use Oracle technology for their business . Look"
+      "snippet": "Oracle ( Oracle Corporation ) — американская корпорация, второй по размеру выручки разработчик программного обеспечения (после Microsoft), четвёртая к"
     }
   ]
 }

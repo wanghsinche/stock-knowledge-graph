@@ -3,8 +3,8 @@ ticker: GEV
 company: GE Vernova Inc.
 sector: Industrials
 industry: Specialty Industrial Machinery
-extracted_at: 2026-05-13 18:04:32
-last_updated: 2026-05-13
+extracted_at: 2026-05-15 17:32:42
+last_updated: 2026-05-15
 ---
 
 # GEV - GE Vernova Inc.
@@ -12,46 +12,46 @@ last_updated: 2026-05-13
 ## 基本信息
 
 - **所属行业**: Industrials / Specialty Industrial Machinery
-- **提取时间**: 2026-05-13 18:04:32
+- **提取时间**: 2026-05-15 17:32:42
 
 ## 产业链关系
 
 ### 上游供应商
-- [[GE Aerospace]]
-- [[GE Digital]]
-- [[GE Power Components]]
-- [[Siemens Energy]]
-- [[ABB]]
+- [[Turbine blade manufacturers]]
+- [[Generator component suppliers]]
+- [[Fuel system suppliers]]
+- [[Control system vendors]]
+- [[Materials suppliers (steel, composites)]]
 
 ### 下游客户
-- [[Utilities]]
-- [[Oil & Gas companies]]
-- [[Renewable Energy developers]]
-- [[Industrial power plants]]
-- [[Electric utilities]]
+- [[Electric utility companies]]
+- [[Independent power producers]]
+- [[Industrial power users]]
+- [[Renewable energy developers]]
+- [[Government power agencies]]
 
 ### 竞争对手
 - [[Siemens Energy]]
-- [[ABB]]
-- [[Schneider Electric]]
 - [[Mitsubishi Hitachi Power Systems]]
 - [[Alstom Power]]
+- [[General Electric Energy]]
+- [[Doosan Power Systems]]
 
 ### 核心产品
 - [[Gas turbines]]
 - [[Steam turbines]]
-- [[Wind turbines]]
+- [[Combined cycle power plants]]
 - [[Renewable energy solutions]]
-- [[Digital power solutions]]
+- [[Power plant services]]
 
 ## 数据来源
 
 - 
-- [GE Vernova Inc. suppliers manufacturers](https://www.gevernova.com/grid-solutions/suppliers)
-- [GE Vernova Inc. suppliers manufacturers](https://supplierportal.ren.apps.ge.com/)
+- [GE Vernova Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/GE_Vernova)
+- [GE Vernova Inc. suppliers manufacturers](https://www.gevernova.com/)
 - [GE Vernova Inc. major customers clients](https://en.wikipedia.org/wiki/GE_Vernova)
 - [GE Vernova Inc. major customers clients](https://www.gevernova.com/)
 
 ## 元数据
 
-- **更新日期**: 2026-05-13
+- **更新日期**: 2026-05-15

@@ -4,40 +4,40 @@
   "sector": "Technology",
   "industry": "Semiconductors",
   "upstream": [
-    "AMAT",
-    "ASML",
-    "LRCX",
-    "Tokyo Electron",
-    "KLA"
+    "TSM",
+    "005930.KS",
+    "GlobalFoundries",
+    "MU",
+    "SK Hynix"
   ],
   "downstream": [
-    "CSCO",
-    "Huawei",
-    "Nokia",
-    "JNPR",
-    "AAPL"
+    "AAPL",
+    "MSFT",
+    "AMZN",
+    "GOOGL",
+    "CSCO"
   ],
   "competitors": [
-    "QCOM",
     "INTC",
-    "TXN",
+    "QCOM",
     "NVDA",
-    "AMD"
+    "MRVL",
+    "TXN"
   ],
   "key_products": [
     "Wi‑Fi and Bluetooth chips",
     "Ethernet controllers",
-    "Broadband modems",
-    "RF components",
-    "Storage controllers"
+    "Broadcom 802.11 wireless LAN chips",
+    "Broadcom 802.3 Ethernet chips",
+    "Broadcom 802.15.4 Zigbee chips"
   ],
-  "extracted_at": "2026-05-14 17:43:06",
+  "extracted_at": "2026-05-15 17:27:13",
   "sources": [
     {
       "source": "Wikipedia",
-      "url": "",
-      "title": "",
-      "snippet": ""
+      "url": "https://en.wikipedia.org/wiki/Broadcom_Inc.",
+      "title": "Broadcom",
+      "snippet": "Broadcom Inc. is an American multinational designer, developer, manufacturer, and global supplier of a wide range of semiconductor and infrastructure software products. Broadcom's product offerings se"
     },
     {
       "source": "DuckDuckGo",
@@ -55,13 +55,13 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Broadcom",
       "query": "Broadcom Inc. major customers clients",
-      "snippet": "Broadcom Inc. is an American multinational designer, developer, manufacturer, and global supplier of a wide range of semiconductor and infrastructure "
+      "snippet": "Broadcom Inc . is an American multinational designer, developer, manufacturer, and global supplier of a wide range of semiconductor and infrastructure"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.broadcom.com/case-studies",
+      "url": "https://www.broadcom.com/support",
       "query": "Broadcom Inc. major customers clients",
-      "snippet": "Broadcom solutions empower our customers success. Power your future with Broadcom."
+      "snippet": "Access Broadcom 's Customer Support Portal to obtain warranty information, find documentation and downloads, and answer other questions you might have"
     }
   ]
 }

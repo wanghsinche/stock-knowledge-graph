@@ -1,37 +1,37 @@
 {
   "ticker": "AMZN",
   "company_name": "Amazon.com, Inc.",
-  "sector": "Consumer Cyclical / Internet Retail",
-  "industry": "E-commerce / Cloud Computing",
+  "sector": "Consumer Cyclical",
+  "industry": "Internet Retail",
   "upstream": [
-    "005930.KS",
-    "AAPL",
-    "SONY",
-    "Nike",
-    "Penguin Random House"
+    "Book publishers",
+    "Electronics manufacturers",
+    "Apparel manufacturers",
+    "Consumer electronics producers",
+    "Third‑party sellers"
   ],
   "downstream": [
-    "Consumers worldwide",
-    "NFLX",
-    "Airbnb",
-    "Government agencies",
-    "Enterprise customers"
+    "Retail consumers",
+    "Business customers",
+    "Advertisers",
+    "Prime members",
+    "AWS enterprise clients"
   ],
   "competitors": [
     "Walmart",
-    "Alibaba",
     "eBay",
-    "Target",
-    "Shopify"
+    "Alibaba",
+    "Shopify",
+    "MSFT"
   ],
   "key_products": [
     "Amazon.com marketplace",
-    "Amazon Web Services",
-    "Amazon Prime Video",
-    "Amazon Echo",
-    "Kindle"
+    "Amazon Prime",
+    "Amazon Web Services (AWS)",
+    "Amazon Echo/Alexa",
+    "Amazon Kindle"
   ],
-  "extracted_at": "2026-05-14 17:43:39",
+  "extracted_at": "2026-05-15 17:26:26",
   "sources": [
     {
       "source": "Wikipedia",
@@ -49,19 +49,19 @@
       "source": "DuckDuckGo",
       "url": "https://ir.aboutamazon.com/",
       "query": "Amazon.com, Inc. suppliers manufacturers",
-      "snippet": "The Spheres. Select awards and recognition. Amazon . com Conditions of Use © 1996- Amazon . com , Inc . - IR or its affiliates."
+      "snippet": "Amazon . com Announces Fourth Quarter Results. Amazon . com , Inc . (NASDAQ: AMZN) today announced financial results for its fourth quarter ended Dece"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://ir.aboutamazon.com/",
       "query": "Amazon.com, Inc. major customers clients",
-      "snippet": "The Spheres. Select awards and recognition. Amazon . com Conditions of Use © 1996- Amazon . com , Inc . - IR or its affiliates."
+      "snippet": "Amazon . com Announces Fourth Quarter Results. Amazon . com , Inc . (NASDAQ: AMZN) today announced financial results for its fourth quarter ended Dece"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.amazon.com.tr/",
+      "url": "https://www.amazon.com/s?k=...",
       "query": "Amazon.com, Inc. major customers clients",
-      "snippet": "Tüm Kategoriler Amazon Depo Bahçe Bebek Bilgisayarlar Elektronik Ev Ev ve Mutfak Evcil Hayvan Malzemeleri Gıda ve İçecek Hediye Kartları Kitaplar Kişi"
+      "snippet": "Reach customers wherever they spend their time. 6pm. Score deals on fashion brands."
     }
   ]
 }

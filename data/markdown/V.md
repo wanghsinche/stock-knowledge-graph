@@ -3,8 +3,8 @@ ticker: V
 company: Visa Inc.
 sector: Financial Services
 industry: Credit Services
-extracted_at: 2026-05-04 17:28:26
-last_updated: 2026-05-04
+extracted_at: 2026-05-15 17:38:09
+last_updated: 2026-05-15
 ---
 
 # V - Visa Inc.
@@ -12,28 +12,28 @@ last_updated: 2026-05-04
 ## 基本信息
 
 - **所属行业**: Financial Services / Credit Services
-- **提取时间**: 2026-05-04 17:28:26
+- **提取时间**: 2026-05-15 17:38:09
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Chip and card manufacturers (e.g., Gemalto, IDEMIA)]]
-- [[Payment processing infrastructure providers (e.g., VisaNet, Mastercard's network)]]
-- [[Technology hardware suppliers (e.g., EMV chip suppliers)]]
-- [[Security and fraud detection vendors]]
-- [[CAT]]
+- [[Chip and card manufacturing vendors]]
+- [[Payment network infrastructure providers]]
+- [[Software platform suppliers]]
+- [[Card printing and embossing manufacturers]]
+- [[Security and fraud‑prevention technology vendors]]
 
 ### 下游客户
 - [[Commercial banks and credit unions]]
 - [[Retail merchants and e‑commerce platforms]]
-- [[Consumers and cardholders]]
 - [[Financial institutions issuing Visa‑branded cards]]
-- [[Payment service providers (e.g., PayPal, Square)]]
+- [[Consumers using Visa cards for purchases]]
+- [[Payment processors and acquirers]]
 
 ### 竞争对手
 - [[Mastercard]]
 - [[American Express]]
-- [[Discover Financial Services]]
+- [[Discover]]
 - [[PayPal]]
 - [[Square]]
 
@@ -50,8 +50,8 @@ last_updated: 2026-05-04
 - [Visa Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/Visa_Inc.)
 - [Visa Inc. suppliers manufacturers](https://ru.wikipedia.org/wiki/Visa)
 - [Visa Inc. major customers clients](https://en.wikipedia.org/wiki/Visa_Inc.)
-- [Visa Inc. major customers clients](https://capitaloneshopping.com/research/credit-card-market-share-statistics/)
+- [Visa Inc. major customers clients](https://www.britannica.com/money/Visa-Inc)
 
 ## 元数据
 
-- **更新日期**: 2026-05-04
+- **更新日期**: 2026-05-15

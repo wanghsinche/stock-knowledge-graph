@@ -3,8 +3,8 @@ ticker: CRM
 company: Salesforce, Inc.
 sector: Technology
 industry: Software - Application
-extracted_at: 2026-05-08 17:10:16
-last_updated: 2026-05-08
+extracted_at: 2026-05-15 17:35:22
+last_updated: 2026-05-15
 ---
 
 # CRM - Salesforce, Inc.
@@ -12,7 +12,7 @@ last_updated: 2026-05-08
 ## 基本信息
 
 - **所属行业**: Technology / Software - Application
-- **提取时间**: 2026-05-08 17:10:16
+- **提取时间**: 2026-05-15 17:35:22
 
 ## 产业链关系
 
@@ -20,22 +20,22 @@ last_updated: 2026-05-08
 - [[AMZN]]
 - [[MSFT]]
 - [[GOOGL]]
-- [[DELL]]
+- [[ORCL]]
 - [[IBM]]
 
 ### 下游客户
 - [[AMZN]]
-- [[Coca‑Cola]]
-- [[Toyota]]
+- [[GOOGL]]
+- [[MSFT]]
+- [[AAPL]]
 - [[Walmart]]
-- [[Bank of America]]
 
 ### 竞争对手
 - [[MSFT]]
+- [[SAP Customer Experience]]
 - [[ORCL]]
-- [[SAP Sales Cloud]]
+- [[ADBE]]
 - [[HubSpot]]
-- [[Zoho CRM]]
 
 ### 核心产品
 - [[Sales Cloud]]
@@ -47,11 +47,11 @@ last_updated: 2026-05-08
 ## 数据来源
 
 - [Salesforce](https://en.wikipedia.org/wiki/Salesforce,_Inc.)
+- [Salesforce, Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/Salesforce)
 - [Salesforce, Inc. suppliers manufacturers](https://csimarket.com/stocks/CRM-Suppliers)
-- [Salesforce, Inc. suppliers manufacturers](https://www.salesforce.com/)
 - [Salesforce, Inc. major customers clients](https://en.wikipedia.org/wiki/Salesforce)
-- [Salesforce, Inc. major customers clients](https://www.salesforce.com/customer-stories/)
+- [Salesforce, Inc. major customers clients](https://www.salesforce.com/)
 
 ## 元数据
 
-- **更新日期**: 2026-05-08
+- **更新日期**: 2026-05-15

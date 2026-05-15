@@ -3,8 +3,8 @@ ticker: MU
 company: Micron Technology, Inc.
 sector: Technology
 industry: Semiconductors
-extracted_at: 2026-05-14 17:41:39
-last_updated: 2026-05-14
+extracted_at: 2026-05-15 17:24:40
+last_updated: 2026-05-15
 ---
 
 # MU - Micron Technology, Inc.
@@ -12,7 +12,7 @@ last_updated: 2026-05-14
 ## 基本信息
 
 - **所属行业**: Technology / Semiconductors
-- **提取时间**: 2026-05-14 17:41:39
+- **提取时间**: 2026-05-15 17:24:40
 
 ## 产业链关系
 
@@ -21,37 +21,37 @@ last_updated: 2026-05-14
 - [[ASML]]
 - [[LRCX]]
 - [[Tokyo Electron]]
-- [[KLA]]
+- [[KLA Corporation]]
 
 ### 下游客户
 - [[AAPL]]
-- [[005930.KS]]
 - [[DELL]]
 - [[HPQ]]
+- [[Lenovo Group]]
 - [[MSFT]]
 
 ### 竞争对手
 - [[005930.KS]]
 - [[SK Hynix]]
-- [[INTC]]
 - [[WDC]]
-- [[NVDA]]
+- [[Kingston Technology]]
+- [[Crucial]]
 
 ### 核心产品
-- [[DRAM]]
+- [[Dynamic Random-Access Memory (DRAM)]]
 - [[NAND Flash Memory]]
-- [[Solid‑State Drives (SSDs)]]
+- [[Solid-State Drives (SSDs)]]
 - [[Memory Modules]]
-- [[Embedded Memory Solutions]]
+- [[Embedded DRAM (eDRAM)]]
 
 ## 数据来源
 
 - [Micron Technology](https://en.wikipedia.org/wiki/Micron_Technology,_Inc.)
 - [Micron Technology, Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/Micron_Technology)
 - [Micron Technology, Inc. suppliers manufacturers](https://www.micron.com/)
-- [Micron Technology, Inc. major customers clients](https://csimarket.com/stocks/MU-Customers)
-- [Micron Technology, Inc. major customers clients](https://www.trendforce.com/news/2025/06/26/news-micron-scales-up-hbm-to-four-major-gpuasic-clients-targets-24-market-share-by-year-end/)
+- [Micron Technology, Inc. major customers clients](https://en.wikipedia.org/wiki/Micron_Technology)
+- [Micron Technology, Inc. major customers clients](https://www.quora.com/Who-are-the-customers-of-Micron-Technology)
 
 ## 元数据
 
-- **更新日期**: 2026-05-14
+- **更新日期**: 2026-05-15

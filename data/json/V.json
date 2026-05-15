@@ -4,23 +4,23 @@
   "sector": "Financial Services",
   "industry": "Credit Services",
   "upstream": [
-    "Chip and card manufacturers (e.g., Gemalto, IDEMIA)",
-    "Payment processing infrastructure providers (e.g., VisaNet, Mastercard's network)",
-    "Technology hardware suppliers (e.g., EMV chip suppliers)",
-    "Security and fraud detection vendors",
-    "CAT"
+    "Chip and card manufacturing vendors",
+    "Payment network infrastructure providers",
+    "Software platform suppliers",
+    "Card printing and embossing manufacturers",
+    "Security and fraud‑prevention technology vendors"
   ],
   "downstream": [
     "Commercial banks and credit unions",
     "Retail merchants and e‑commerce platforms",
-    "Consumers and cardholders",
     "Financial institutions issuing Visa‑branded cards",
-    "Payment service providers (e.g., PayPal, Square)"
+    "Consumers using Visa cards for purchases",
+    "Payment processors and acquirers"
   ],
   "competitors": [
     "Mastercard",
     "American Express",
-    "Discover Financial Services",
+    "Discover",
     "PayPal",
     "Square"
   ],
@@ -31,7 +31,7 @@
     "VisaNet payment network",
     "Visa Direct real‑time payments"
   ],
-  "extracted_at": "2026-05-04 17:28:26",
+  "extracted_at": "2026-05-15 17:38:09",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,7 +43,7 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Visa_Inc.",
       "query": "Visa Inc. suppliers manufacturers",
-      "snippet": "Visa Inc . is an American multinational payment card services corporation headquartered in San Francisco, California."
+      "snippet": "Visa Inc . is an American multinational payment card services corporation headquartered in San Francisco, California. Visa Inc . Logo used since 2014 "
     },
     {
       "source": "DuckDuckGo",
@@ -55,13 +55,13 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Visa_Inc.",
       "query": "Visa Inc. major customers clients",
-      "snippet": "Visa does not issue cards, extend credit, or set rates and fees for consumers ; rather, Visa provides financial institutions with Visa-branded payment"
+      "snippet": "Visa Inc . is an American multinational payment card services corporation headquartered in San Francisco, California. It facilitates electronic funds "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://capitaloneshopping.com/research/credit-card-market-share-statistics/",
+      "url": "https://www.britannica.com/money/Visa-Inc",
       "query": "Visa Inc. major customers clients",
-      "snippet": "Nov 25, 2025 · Analysis of the latest available data on credit card industry market share to compare Visa , Mastercard, American Express and others."
+      "snippet": "Visa Inc . is an international payment card services corporation established in 1958.A major player in bolstering BankAmericard’s early success was De"
     }
   ]
 }

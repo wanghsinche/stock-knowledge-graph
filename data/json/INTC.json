@@ -4,34 +4,34 @@
   "sector": "Technology",
   "industry": "Semiconductors",
   "upstream": [
-    "ASML",
-    "AMAT",
-    "LRCX",
-    "Tokyo Electron",
-    "KLA"
+    "TSM",
+    "005930.KS",
+    "GlobalFoundries",
+    "ASE Group",
+    "MU"
   ],
   "downstream": [
     "DELL",
     "HPQ",
-    "Lenovo",
+    "Lenovo Group",
     "AAPL",
-    "MSFT"
+    "AMZN"
   ],
   "competitors": [
     "AMD",
     "NVDA",
     "QCOM",
     "AVGO",
-    "TSM"
+    "005930.KS"
   ],
   "key_products": [
-    "Intel Core CPUs",
-    "Intel Xeon CPUs",
-    "Intel Arc GPUs",
-    "Intel chipsets",
-    "Intel AI accelerators"
+    "Intel Core i7/i9 processors",
+    "Intel Xeon processors",
+    "Intel Atom processors",
+    "Intel Optane memory",
+    "Intel 10G Ethernet controllers"
   ],
-  "extracted_at": "2026-05-14 17:42:05",
+  "extracted_at": "2026-05-15 17:25:48",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,9 +47,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.youtube.com/watch?v=ONkv4dM6SVM",
+      "url": "https://finance.yahoo.com/quote/INTC/",
       "query": "Intel Corporation suppliers manufacturers",
-      "snippet": "A “Behind this Door” video offers an inside look into a small — but critical — piece of Intel ’s # manufacturing process: Assembly Test Technology Dev"
+      "snippet": "Find the latest Intel Corporation (INTC) stock quote, history, news and other vital information to help you with your stock trading and investing."
     },
     {
       "source": "DuckDuckGo",

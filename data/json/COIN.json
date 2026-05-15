@@ -4,34 +4,34 @@
   "sector": "Financial Services",
   "industry": "Financial Data & Stock Exchanges",
   "upstream": [
-    "AMZN",
-    "MSFT",
-    "Stripe (payment processing)",
-    "Palo Alto Networks (cybersecurity)",
-    "Coinbase's own technology stack (blockchain infrastructure)"
+    "Cloud service providers (AWS, Azure)",
+    "Blockchain network operators (Bitcoin, Ethereum)",
+    "Payment processors (Visa, Mastercard)",
+    "Regulatory bodies",
+    "Data providers (Bloomberg, Reuters)"
   ],
   "downstream": [
     "Retail cryptocurrency traders",
-    "Institutional investors (e.g., hedge funds, family offices)",
-    "Crypto asset custodians",
-    "DeFi protocol developers",
-    "Merchant partners accepting crypto payments"
+    "Institutional investors",
+    "Merchants accepting crypto payments",
+    "Crypto funds",
+    "DeFi platforms"
   ],
   "competitors": [
     "Binance",
     "Kraken",
     "Gemini",
     "Bitstamp",
-    "Huobi"
+    "FTX"
   ],
   "key_products": [
-    "Cryptocurrency trading platform",
-    "Custody services for institutional clients",
-    "Staking and yield products",
-    "Crypto wallet (Coinbase Wallet)",
-    "API for algorithmic trading"
+    "Crypto trading platform",
+    "Custody services",
+    "Staking services",
+    "Crypto wallet",
+    "API for developers"
   ],
-  "extracted_at": "2026-05-14 17:45:14",
+  "extracted_at": "2026-05-15 17:30:24",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.coinbase.com/vendors/vendors-at-coinbase-code-of-conduct",
+      "url": "https://en.wikipedia.org/wiki/Coinbase",
       "query": "Coinbase Global, Inc. suppliers manufacturers",
-      "snippet": "This information is the property of Coinbase , or the property of Coinbase ’s suppliers , customers, or business partners, and in many cases was devel"
+      "snippet": "Coinbase Global , Inc . is an American cryptocurrency exchange. It was founded in 2012 by Brian Armstrong and Fred Ehrsam."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/COIN-Suppliers",
+      "url": "https://finance.yahoo.com/quote/COIN/",
       "query": "Coinbase Global, Inc. suppliers manufacturers",
-      "snippet": "Coinbase Global Inc 's Suppliers recorded an increase in sales by 27.03 % year on year in Q4 2025, sequentially sales grew by 21.52 %, while their net"
+      "snippet": "Coinbase Global , Inc . OverviewFinancial Data & Stock Exchanges / Financial Services. Coinbase Global , Inc . operates platform for crypto assets in "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.demandsage.com/coinbase-users-statistics/",
+      "url": "https://en.wikipedia.org/wiki/Coinbase",
       "query": "Coinbase Global, Inc. major customers clients",
-      "snippet": "Aug 13, 2025 · Coinbase ’s user base stands at around 120 million, meaning it serves about 19.45% of all global cryptocurrency users. This makes Coinb"
+      "snippet": "Coinbase Global , Inc . is an American cryptocurrency exchange. It was founded in 2012 by Brian Armstrong and Fred Ehrsam."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://electroiq.com/stats/coinbase-statistics/",
+      "url": "https://www.coinbase.com/",
       "query": "Coinbase Global, Inc. major customers clients",
-      "snippet": "17 hours ago · Coinbase statistics show that Coinbase had 23 million verified users in Q1 of 2018, which history shows grew steadily each quarter. By "
+      "snippet": "Coinbase United States is a secure online platform for buying, selling, transferring, and storing cryptocurrency. Coinbase believes crypto will be par"
     }
   ]
 }

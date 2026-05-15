@@ -3,11 +3,35 @@
   "company_name": "Advanced Micro Devices, Inc.",
   "sector": "Technology",
   "industry": "Semiconductors",
-  "upstream": [],
-  "downstream": [],
-  "competitors": [],
-  "key_products": [],
-  "extracted_at": "2026-05-14 17:42:18",
+  "upstream": [
+    "TSM",
+    "005930.KS",
+    "GlobalFoundries",
+    "UMC",
+    "INTC"
+  ],
+  "downstream": [
+    "DELL",
+    "HPQ",
+    "Lenovo Group",
+    "MSFT",
+    "SONY"
+  ],
+  "competitors": [
+    "INTC",
+    "NVDA",
+    "QCOM",
+    "AVGO",
+    "ARM Holdings"
+  ],
+  "key_products": [
+    "Ryzen CPUs",
+    "EPYC CPUs",
+    "Radeon GPUs",
+    "Radeon Instinct GPUs",
+    "Xilinx FPGAs"
+  ],
+  "extracted_at": "2026-05-15 17:26:13",
   "sources": [
     {
       "source": "Wikipedia",
@@ -17,15 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/List_of_semiconductor_fabrication_plants",
+      "url": "https://en.wikipedia.org/wiki/AMD",
       "query": "Advanced Micro Devices, Inc. suppliers manufacturers",
-      "snippet": "Semiconductor fabrication plants are factories where integrated circuits (ICs), also known as microchips, are manufactured. They are either operated b"
+      "snippet": "Advanced Micro Devices , Inc . Advanced Micro Devices , Inc . ( AMD ) is an American multinational semiconductor company headquartered in Santa Clara,"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/AMD-Suppliers",
+      "url": "https://www.britannica.com/money/Advanced-Micro-Devices-Inc",
       "query": "Advanced Micro Devices, Inc. suppliers manufacturers",
-      "snippet": "Advanced Micro Devices Inc's Sup pliers recorded an increase in sales by 8.89 % year on year in Q1 2026, sequentially sales grew by 3.46 %, Advanced M"
+      "snippet": "Advanced Micro Devices , Inc . ( AMD ) is an American semiconductor designer and global supplier of computing and graphics technologies used in data c"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/AMD",
+      "query": "Advanced Micro Devices, Inc. major customers clients",
+      "snippet": "Advanced Micro Devices , Inc . Advanced Micro Devices , Inc . ( AMD ) is an American multinational semiconductor company headquartered in Santa Clara,"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://dcfmodeling.com/products/amd-marketing-mix",
+      "query": "Advanced Micro Devices, Inc. major customers clients",
+      "snippet": "To support this, Advanced Micro Devices , Inc . ( AMD ) expects to nearly double the total number of channel sales, channel marketing and channel enab"
     }
   ]
 }

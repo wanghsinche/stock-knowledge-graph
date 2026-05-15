@@ -4,34 +4,34 @@
   "sector": "Technology",
   "industry": "Semiconductors",
   "upstream": [
-    "TSM",
-    "MU",
-    "AMD",
-    "Packaging and testing services",
-    "Electronic component distributors"
+    "ASML",
+    "AMAT",
+    "LRCX",
+    "Tokyo Electron",
+    "KLA Corporation"
   ],
   "downstream": [
-    "AI research institutions (e.g., MIT, Stanford)",
     "GOOGL",
-    "Enterprise AI solution providers",
-    "High-performance computing centers",
-    "Academic and government research labs"
+    "AMZN",
+    "MSFT",
+    "OpenAI",
+    "University research labs"
   ],
   "competitors": [
     "NVDA",
-    "GOOGL",
+    "AMD",
     "INTC",
     "Graphcore",
-    "SambaNova Systems"
+    "Habana Labs"
   ],
   "key_products": [
-    "Wafer-Scale Engine (WSE) 2.0",
-    "Cerebras CS-1",
-    "Cerebras CS-2",
-    "Cerebras CS-3 (planned)",
-    "Cerebras AI accelerator platform"
+    "Cerebras Wafer-Scale Engine 1 (WSE-1)",
+    "Cerebras Wafer-Scale Engine 2 (WSE-2)",
+    "Cerebras CS-1 AI accelerator",
+    "Cerebras CS-2 AI accelerator",
+    "Cerebras CS-3 (future)"
   ],
-  "extracted_at": "2026-05-14 17:42:55",
+  "extracted_at": "2026-05-15 17:26:43",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,15 +47,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.sec.gov/Archives/edgar/data/2021728/000162828026029503/cerebras-sx1amay2026.htm",
+      "url": "https://finance.yahoo.com/quote/CBRS/",
       "query": "Cerebras Systems Inc. Class A Common Stock suppliers manufacturers",
-      "snippet": "Cerebras Systems Inc . Class A Common Stock . Cerebras Systems Inc . is offering 28,000,000 shares of its Class A common stock . This is our initial p"
+      "snippet": "Find the latest Cerebras Systems Inc . Class A Common Stock (CBRS) stock quote, history, news and other vital information to help you with your stock "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Cerebras",
+      "url": "https://finance.yahoo.com/quote/CBRS/",
       "query": "Cerebras Systems Inc. Class A Common Stock major customers clients",
-      "snippet": "Cerebras Systems Inc . is an American artificial intelligence company with offices in Sunnyvale, San Diego, Toronto, and Bangalore, India. Cerebras bu"
+      "snippet": "Find the latest Cerebras Systems Inc . Class A Common Stock (CBRS) stock quote, history, news and other vital information to help you with your stock "
     },
     {
       "source": "DuckDuckGo",

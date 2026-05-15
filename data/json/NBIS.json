@@ -4,34 +4,34 @@
   "sector": "Communication Services",
   "industry": "Internet Content & Information",
   "upstream": [
-    "Hardware manufacturers",
-    "Cloud service providers",
-    "AI model providers",
-    "Data center operators",
-    "Software vendors"
+    "NVDA",
+    "AMD",
+    "INTC",
+    "MSFT",
+    "AMZN"
   ],
   "downstream": [
-    "Tech enterprises",
-    "Financial institutions",
-    "E-commerce platforms",
-    "Government agencies",
-    "Research institutions"
-  ],
-  "competitors": [
-    "OpenAI",
     "GOOGL",
     "MSFT",
     "AMZN",
-    "IBM"
+    "IBM",
+    "ORCL"
+  ],
+  "competitors": [
+    "NVDA",
+    "AMD",
+    "INTC",
+    "GOOGL",
+    "MSFT"
   ],
   "key_products": [
-    "AI infrastructure platform",
-    "AI model training services",
-    "AI inference services",
-    "Data labeling platform (Toloka)",
-    "Analytics engine (Clickhouse)"
+    "Nebius AI Platform",
+    "Avride",
+    "TripleTen",
+    "Toloka",
+    "Clickhouse"
   ],
-  "extracted_at": "2026-05-14 17:43:15",
+  "extracted_at": "2026-05-15 17:28:15",
   "sources": [
     {
       "source": "Wikipedia",
@@ -53,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/NBIS-Customers",
+      "url": "https://finance.yahoo.com/quote/NBIS/",
       "query": "NBIS major customers clients",
-      "snippet": "4 days ago · Nebius Group N V customers and markets, results by customer and performance relative to NBIS , by company and industry - CSIMarket"
+      "snippet": "Find the latest Nebius Group N.V. ( NBIS ) stock quote, history, news and other vital information to help you with your stock trading and investing."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.dcsa.mil/Systems-Applications/National-Background-Investigation-Services-NBIS/",
+      "url": "https://www.nasdaq.com/market-activity/stocks/nbis",
       "query": "NBIS major customers clients",
-      "snippet": "The purpose of NBIS is to modernize, streamline and secure the entire process to enhance the user experience and provide a reliable and integrated set"
+      "snippet": "Nasdaq Listed ETFs where NBIS is a top 10 holding*. Symbol.Data Disclaimer: The Nasdaq Indices and the Major Indices are delayed at least 1 minute. Re"
     }
   ]
 }

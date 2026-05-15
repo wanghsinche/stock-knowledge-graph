@@ -8,30 +8,30 @@
     "005930.KS",
     "MU",
     "SK Hynix",
-    "GlobalFoundries"
+    "ASML"
   ],
   "downstream": [
-    "Activision Blizzard",
-    "Electronic Arts",
     "SONY",
     "MSFT",
+    "DELL",
+    "AMZN",
     "TSLA"
   ],
   "competitors": [
     "AMD",
     "INTC",
     "QCOM",
-    "AVGO",
-    "GOOGL"
+    "AAPL",
+    "ARM"
   ],
   "key_products": [
-    "GeForce RTX",
-    "Quadro RTX",
-    "Tesla V100",
-    "Jetson Nano",
-    "CUDA"
+    "GeForce RTX GPUs",
+    "Quadro RTX GPUs",
+    "Tesla DGX systems",
+    "NVIDIA DRIVE automotive platform",
+    "Jetson AI edge platform"
   ],
-  "extracted_at": "2026-05-14 17:41:30",
+  "extracted_at": "2026-05-15 17:24:53",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,7 +43,7 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Nvidia",
       "query": "NVIDIA Corporation suppliers manufacturers",
-      "snippet": "3 days ago - In August 2025, Nvidia ordered ... due to security concerns. The company directed suppliers including Taiwan Semiconductor Manufacturing "
+      "snippet": "4 days ago - In August 2025, Nvidia ordered ... due to security concerns. The company directed suppliers including Taiwan Semiconductor Manufacturing "
     },
     {
       "source": "DuckDuckGo",
@@ -59,9 +59,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://qz.com/nvidia-ai-chips-customers-google-microsoft-meta-amazon-1851653971",
+      "url": "https://finance.yahoo.com/news/nearly-half-nvidia-revenue-comes-123944199.html",
       "query": "NVIDIA Corporation major customers clients",
-      "snippet": "While the customers are anonymous in Nvidia ’s 10-Q regulatory filing, “ Customer A” made up 14% of Nvidia ’s revenue, while two customers made up 11%"
+      "snippet": "Nvidia pocketed $5.60 out of every $10 of revenue it made over the entire first half as net income—margins most companies can only dream of. That expl"
     }
   ]
 }

@@ -8,30 +8,30 @@
     "AMD",
     "NVDA",
     "QCOM",
-    "005930.KS"
+    "TSM"
   ],
   "downstream": [
-    "Enterprise customers (e.g., Walmart, JPMorgan)",
-    "U.S. Government agencies",
+    "Enterprise customers",
+    "Government agencies",
     "DELL",
-    "NFLX",
-    "Gaming community (Xbox users)"
+    "Gaming customers (Xbox)",
+    "Cloud customers (Azure)"
   ],
   "competitors": [
     "AAPL",
     "GOOGL",
     "AMZN",
-    "IBM",
-    "ORCL"
+    "ORCL",
+    "IBM"
   ],
   "key_products": [
-    "Windows operating system",
-    "Microsoft Office suite",
-    "Azure cloud platform",
-    "Xbox gaming console",
+    "Windows OS",
+    "Microsoft Office",
+    "Azure cloud",
+    "Xbox",
     "Microsoft Teams"
   ],
-  "extracted_at": "2026-05-14 17:42:36",
+  "extracted_at": "2026-05-15 17:25:31",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.microsoft.com/en-us/procurement",
+      "url": "https://en.wikipedia.org/wiki/Microsoft",
       "query": "Microsoft Corporation suppliers manufacturers",
-      "snippet": "Microsoft Procurement is committed to building a diverse global supplier base that reflects the global diversity of our customers and provides all typ"
+      "snippet": "Microsoft Corporation is an American multinational technology company headquartered in Redmond, Washington."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/MSFT-Suppliers",
+      "url": "https://www.globalsources.com/",
       "query": "Microsoft Corporation suppliers manufacturers",
-      "snippet": "Microsoft 's Comment on Supply Chain We develop most of our products and services internally through four primary engineering groups. Applications and"
+      "snippet": "The leading international multichannel B2B online marketplace & sourcing platform connecting authentic buyers and verified wholesale suppliers & manuf"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.microsoft.com/en-us/customers/",
+      "url": "https://en.wikipedia.org/wiki/Microsoft",
       "query": "Microsoft Corporation major customers clients",
-      "snippet": "Explore customer success stories to learn how businesses are overcoming challenges, driving innovation, and achieving more with Microsoft solutions."
+      "snippet": "Microsoft Corporation is an American multinational technology company headquartered in Redmond, Washington."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/MSFT-Customers",
+      "url": "https://www.comparably.com/companies/microsoft/mission",
       "query": "Microsoft Corporation major customers clients",
-      "snippet": "Microsoft's Comment on Sales, Marketing and Customers We distribute software through OEMs that pre-install our software on new PCs, tablets, servers, "
+      "snippet": "Microsoft Corporation Mission Statement."
     }
   ]
 }

@@ -3,8 +3,8 @@ ticker: NFLX
 company: Netflix, Inc.
 sector: Communication Services
 industry: Entertainment
-extracted_at: 2026-05-14 17:48:44
-last_updated: 2026-05-14
+extracted_at: 2026-05-15 17:31:56
+last_updated: 2026-05-15
 ---
 
 # NFLX - Netflix, Inc.
@@ -12,7 +12,7 @@ last_updated: 2026-05-14
 ## 基本信息
 
 - **所属行业**: Communication Services / Entertainment
-- **提取时间**: 2026-05-14 17:48:44
+- **提取时间**: 2026-05-15 17:31:56
 
 ## 产业链关系
 
@@ -20,15 +20,15 @@ last_updated: 2026-05-14
 - [[AMZN]]
 - [[GOOGL]]
 - [[MSFT]]
-- [[Warner Bros. Discovery]]
-- [[Disney Studios]]
+- [[Disney (content licensing)]]
+- [[Warner Bros. (content licensing)]]
 
 ### 下游客户
-- [[Individual subscribers worldwide]]
-- [[Corporate accounts]]
-- [[Cable and satellite providers]]
-- [[Streaming device manufacturers]]
+- [[US households]]
+- [[European households]]
+- [[Asian households]]
 - [[Smart TV manufacturers]]
+- [[Mobile device users]]
 
 ### 竞争对手
 - [[Disney+]]
@@ -40,18 +40,18 @@ last_updated: 2026-05-14
 ### 核心产品
 - [[Netflix streaming service]]
 - [[Netflix Originals]]
-- [[Netflix Studios]]
-- [[Netflix TV]]
-- [[Netflix mobile app]]
+- [[Licensed TV shows and movies]]
+- [[Mobile app]]
+- [[Smart TV app]]
 
 ## 数据来源
 
 - [Netflix, Inc.](https://en.wikipedia.org/wiki/Netflix,_Inc.)
-- [Netflix, Inc. suppliers manufacturers](https://seriosity.com/what-companies-does-netflix-work-with/)
 - [Netflix, Inc. suppliers manufacturers](https://csimarket.com/stocks/NFLX-Suppliers)
-- [Netflix, Inc. major customers clients](https://csimarket.com/stocks/NFLX-Customers)
-- [Netflix, Inc. major customers clients](https://ir.netflix.net/ir-overview/profile/default.aspx)
+- [Netflix, Inc. suppliers manufacturers](https://porteranalysis.com/porters-five-forces-of-netflix/)
+- [Netflix, Inc. major customers clients](https://www.techradar.com/streaming/netflix/netflix-customers-in-italy-are-getting-refunds-of-up-to-usd585-after-unlawful-price-hikes-though-the-rest-of-us-shouldnt-start-celebrating-yet)
+- [Netflix, Inc. major customers clients](https://www.netflix.com/de-en/)
 
 ## 元数据
 
-- **更新日期**: 2026-05-14
+- **更新日期**: 2026-05-15

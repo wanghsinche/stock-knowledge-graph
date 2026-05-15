@@ -4,34 +4,34 @@
   "sector": "Financial Services",
   "industry": "Banks - Diversified",
   "upstream": [
-    "IBM",
-    "ORCL",
     "MSFT",
-    "CRM",
-    "Visa"
+    "GOOGL",
+    "Payment processors (e.g., Visa, Mastercard)",
+    "Data analytics firms (e.g., Bloomberg, Refinitiv)",
+    "Cybersecurity providers (e.g., Palo Alto Networks, Symantec)"
   ],
   "downstream": [
-    "Retail customers",
-    "Corporate clients",
-    "Government agencies",
+    "Retail banking customers",
+    "Corporate banking clients",
     "Institutional investors",
-    "High‑net‑worth individuals"
+    "Wealth management clients",
+    "Credit card holders"
   ],
   "competitors": [
-    "Bank of America",
-    "Citigroup",
-    "Wells Fargo",
-    "Goldman Sachs",
-    "Morgan Stanley"
+    "Bank of America (BAC)",
+    "Citigroup (C)",
+    "Wells Fargo (WFC)",
+    "Goldman Sachs (GS)",
+    "Morgan Stanley (MS)"
   ],
   "key_products": [
-    "Retail banking",
-    "Commercial banking",
-    "Investment banking",
-    "Asset management",
-    "Wealth management"
+    "Retail banking services",
+    "Investment banking and advisory",
+    "Asset and wealth management",
+    "Credit card and consumer lending",
+    "Treasury and securities services"
   ],
-  "extracted_at": "2026-05-14 17:49:20",
+  "extracted_at": "2026-05-15 17:37:27",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,9 +47,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.jpmorganchase.com/",
+      "url": "https://ru.wikipedia.org/wiki/JPMorgan_Chase",
       "query": "JPMorgan Chase & Co. suppliers manufacturers",
-      "snippet": "Latest news. An Ohio-based company is protecting first responders around the world. With support from JPMorganChase , Fire-Dex is providing protective"
+      "snippet": "JPMorgan Chase & Co , «Дж. П. Морган Чейз и Ко.» — американский транснациональный финансовый конгломерат, один из крупнейших банков мира. Штаб-квартир"
     },
     {
       "source": "DuckDuckGo",

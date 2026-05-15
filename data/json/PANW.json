@@ -1,21 +1,21 @@
 {
   "ticker": "PANW",
   "company_name": "Palo Alto Networks, Inc.",
-  "sector": "Technology",
-  "industry": "Software - Infrastructure",
+  "sector": "Technology / Software - Infrastructure",
+  "industry": "Cybersecurity",
   "upstream": [
-    "INTC",
-    "AMD",
+    "CSCO",
+    "JNPR",
+    "VMware",
     "MSFT",
-    "AMZN",
-    "GOOGL"
+    "AMZN"
   ],
   "downstream": [
-    "Wipro (global IT services)",
-    "Tyson Foods (food processing)",
-    "Coca‑Cola (consumer goods)",
-    "Bank of America (financial services)",
-    "UnitedHealth Group (healthcare)"
+    "JPMorgan Chase",
+    "AT&T",
+    "Bank of America",
+    "Verizon",
+    "Walmart"
   ],
   "competitors": [
     "CSCO",
@@ -25,13 +25,13 @@
     "CrowdStrike"
   ],
   "key_products": [
-    "Next‑Gen Firewall",
-    "Prisma Cloud",
+    "Next‑Generation Firewall",
+    "Panorama",
     "Cortex XDR",
-    "WildFire",
-    "Unit 42 threat intelligence"
+    "Prisma Cloud",
+    "WildFire"
   ],
-  "extracted_at": "2026-05-14 17:48:12",
+  "extracted_at": "2026-05-15 17:33:11",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Palo_Alto_Networks",
+      "url": "https://www.paloaltonetworks.com/",
       "query": "Palo Alto Networks, Inc. suppliers manufacturers",
+      "snippet": "Palo Alto Networks : Cloud Security Leader in First-Ever CNAPP Report. The Forrester Wave™: Cloud Workload Security, Q1 2024.KuppingerCole Leadership "
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://addo.supply/brands/paloalto-networks.html",
+      "query": "Palo Alto Networks, Inc. suppliers manufacturers",
+      "snippet": "PaloAlto Networks . View as Grid List. Items 1-12 of 24. Palo Alto Networks Enterprise Firewall PA-410. $825.00."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/Palo_Alto_Networks",
+      "query": "Palo Alto Networks, Inc. major customers clients",
       "snippet": "Palo Alto Networks , Inc . is an American multinational cybersecurity company with headquarters in Santa Clara, California. The core product is a plat"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://paloaltonetworks.my.site.com/NextWavePartnerProgram/s/partnerlocator",
-      "query": "Palo Alto Networks, Inc. suppliers manufacturers",
-      "snippet": "Distributors Extend Palo Alto Networks partners reach to address customer demand for Palo Alto Networks security solutions, services and support on a "
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.paloaltonetworks.com/customers",
+      "url": "https://www.paloaltonetworks.com/",
       "query": "Palo Alto Networks, Inc. major customers clients",
-      "snippet": "Discover how leading global brands like Wipro and Tyson Foods secure their operations with Palo Alto Networks . Explore customer success stories in cy"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/PANW-Customers",
-      "query": "Palo Alto Networks, Inc. major customers clients",
-      "snippet": "17 hours ago · Palo Alto Networks Inc customers and markets, results by customer and performance relative to PANW, by company and industry - CSIMarket"
+      "snippet": "Customers . Explore Network Security. 13x. Palo Alto Networks : Cloud Security Leader in First-Ever CNAPP Report. The Forrester Wave™: Cloud Workload "
     }
   ]
 }
