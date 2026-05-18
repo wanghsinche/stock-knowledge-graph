@@ -3,11 +3,35 @@
   "company_name": "Vertiv Holdings Co",
   "sector": "Industrials",
   "industry": "Electrical Equipment & Parts",
-  "upstream": [],
-  "downstream": [],
-  "competitors": [],
-  "key_products": [],
-  "extracted_at": "2026-05-12 17:59:30",
+  "upstream": [
+    "American Industrial Company",
+    "Capitol Refrigeration",
+    "Crown Equipment",
+    "Rittal",
+    "Schneider Electric"
+  ],
+  "downstream": [
+    "AMZN",
+    "GOOGL",
+    "MSFT",
+    "AT&T",
+    "Verizon"
+  ],
+  "competitors": [
+    "Schneider Electric",
+    "ABB",
+    "Eaton",
+    "CSCO",
+    "HPQ"
+  ],
+  "key_products": [
+    "Power Distribution Units (PDUs)",
+    "Uninterruptible Power Supplies (UPS)",
+    "Cooling Systems",
+    "Rack-Mount Equipment",
+    "Data Center Infrastructure Management (DCIM) Software"
+  ],
+  "extracted_at": "2026-05-18 17:59:00",
   "sources": [
     {
       "source": "Wikipedia",
@@ -17,15 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/Vertiv",
+      "query": "Vertiv Holdings Co suppliers manufacturers",
+      "snippet": "American industrial company . Vertiv Holdings Co . Formerly. Capitol Refrigeration Industries (1946–1965).Headquartered in Westerville, Ohio, Vertiv h"
+    },
+    {
+      "source": "DuckDuckGo",
       "url": "https://finance.yahoo.com/quote/VRT/",
       "query": "Vertiv Holdings Co suppliers manufacturers",
+      "snippet": "News headlines Vertiv Holdings Co (VRT) has seen a remarkable 115% year-to-date increase driven by strong AI demand and robust financial performance, "
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://finance.yahoo.com/quote/VRT/",
+      "query": "Vertiv Holdings Co major customers clients",
       "snippet": "Find the latest Vertiv Holdings Co (VRT) stock quote, history, news and other vital information to help you with your stock trading and investing."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.vertiv.com/en-emea/",
-      "query": "Vertiv Holdings Co suppliers manufacturers",
-      "snippet": "Vertiv Holdings Co (NYSE: VRT), today reported financial results for its first quarter ended March 31, 2026. Vertiv reported first quarter net sales o"
+      "url": "https://simplywall.st/stocks/us/capital-goods/nyse-vrt/vertiv-holdings-co",
+      "query": "Vertiv Holdings Co major customers clients",
+      "snippet": "Research Vertiv Holdings Co 's (NYSE:VRT) fundamentals, past performance, valuation, dividends and more."
     }
   ]
 }

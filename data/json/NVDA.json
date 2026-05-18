@@ -6,32 +6,32 @@
   "upstream": [
     "TSM",
     "005930.KS",
-    "MU",
-    "SK Hynix",
-    "ASML"
+    "GlobalFoundries",
+    "INTC",
+    "MU"
   ],
   "downstream": [
     "SONY",
     "MSFT",
-    "DELL",
     "AMZN",
+    "GOOGL",
     "TSLA"
   ],
   "competitors": [
     "AMD",
     "INTC",
     "QCOM",
-    "AAPL",
-    "ARM"
+    "AVGO",
+    "AAPL"
   ],
   "key_products": [
-    "GeForce RTX GPUs",
-    "Quadro RTX GPUs",
-    "Tesla DGX systems",
-    "NVIDIA DRIVE automotive platform",
-    "Jetson AI edge platform"
+    "GeForce GPUs",
+    "Quadro GPUs",
+    "Tesla GPUs",
+    "Jetson SoCs",
+    "CUDA API"
   ],
-  "extracted_at": "2026-05-15 17:24:53",
+  "extracted_at": "2026-05-18 17:52:07",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,25 +43,25 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Nvidia",
       "query": "NVIDIA Corporation suppliers manufacturers",
-      "snippet": "4 days ago - In August 2025, Nvidia ordered ... due to security concerns. The company directed suppliers including Taiwan Semiconductor Manufacturing "
+      "snippet": "4 hours ago - In August 2025, Nvidia ordered ... due to security concerns. The company directed suppliers including Taiwan Semiconductor Manufacturing"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.accio.com/supplier/nvidia-supplier-list",
+      "url": "https://csimarket.com/stocks/suppliers_glance.php?code=NVDA",
       "query": "NVIDIA Corporation suppliers manufacturers",
-      "snippet": "3 weeks ago - NVIDIA's key suppliers span various critical areas of semiconductor manufacturing and assembly. These include TSMC (Taiwan Semiconductor"
+      "snippet": "February 26, 2026 - Nvidia supply chain, list and performance of Nvidias' suppliers - CSIMarket"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Nvidia",
+      "url": "https://www.fool.com/investing/2025/06/26/who-are-nvidias-biggest-customers/",
       "query": "NVIDIA Corporation major customers clients",
-      "snippet": "Nvidia thus avoids most of the investment and production costs and risks associated with chip manufacturing, although it does sometimes directly procu"
+      "snippet": "June 26, 2025 - Nvidia has amassed an impressive list of customers, which includes top AI developers like Amazon, Microsoft, and Alphabet ."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/news/nearly-half-nvidia-revenue-comes-123944199.html",
+      "url": "https://finance.yahoo.com/news/nvidias-biggest-customers-095700428.html",
       "query": "NVIDIA Corporation major customers clients",
-      "snippet": "Nvidia pocketed $5.60 out of every $10 of revenue it made over the entire first half as net income—margins most companies can only dream of. That expl"
+      "snippet": "June 26, 2025 - Nvidia has amassed an impressive list of customers, which includes top AI developers like Amazon, Microsoft, and Alphabet . Nvidia's c"
     }
   ]
 }

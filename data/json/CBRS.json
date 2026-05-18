@@ -4,64 +4,63 @@
   "sector": "Technology",
   "industry": "Semiconductors",
   "upstream": [
-    "ASML",
-    "AMAT",
-    "LRCX",
-    "Tokyo Electron",
-    "KLA Corporation"
+    "TSM",
+    "005930.KS",
+    "GlobalFoundries",
+    "INTC",
+    "MU"
   ],
   "downstream": [
+    "Mayo Clinic",
+    "Stanford University",
+    "University of California, Berkeley",
     "GOOGL",
-    "AMZN",
-    "MSFT",
-    "OpenAI",
-    "University research labs"
+    "AMZN"
   ],
   "competitors": [
     "NVDA",
     "AMD",
     "INTC",
-    "Graphcore",
-    "Habana Labs"
+    "Graphcore"
   ],
   "key_products": [
     "Cerebras Wafer-Scale Engine 1 (WSE-1)",
     "Cerebras Wafer-Scale Engine 2 (WSE-2)",
-    "Cerebras CS-1 AI accelerator",
-    "Cerebras CS-2 AI accelerator",
-    "Cerebras CS-3 (future)"
+    "Cerebras CS-1",
+    "Cerebras CS-2",
+    "Cerebras AI Accelerator"
   ],
-  "extracted_at": "2026-05-15 17:26:43",
+  "extracted_at": "2026-05-18 17:56:37",
   "sources": [
     {
       "source": "Wikipedia",
-      "url": "",
-      "title": "",
-      "snippet": ""
+      "url": "https://en.wikipedia.org/wiki/Cerebras_Systems_Inc.",
+      "title": "Cerebras Systems",
+      "snippet": "Cerebras Systems Inc. is an American artificial intelligence (AI) company with offices in Sunnyvale, San Diego, Toronto, and Bangalore, India. Cerebras builds computer systems for complex AI deep lear"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Cerebras",
-      "query": "Cerebras Systems Inc. Class A Common Stock suppliers manufacturers",
+      "query": "Cerebras Systems Inc. suppliers manufacturers",
       "snippet": "Cerebras Systems Inc . is an American artificial intelligence company with offices in Sunnyvale, San Diego, Toronto, and Bangalore, India. Cerebras bu"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/CBRS/",
-      "query": "Cerebras Systems Inc. Class A Common Stock suppliers manufacturers",
-      "snippet": "Find the latest Cerebras Systems Inc . Class A Common Stock (CBRS) stock quote, history, news and other vital information to help you with your stock "
+      "url": "https://www.cerebras.ai/",
+      "query": "Cerebras Systems Inc. suppliers manufacturers",
+      "snippet": "Co-founder & CEO Cerebras Systems . Sam Altman.What we've built with Cerebras solves that: by splitting the inference workload across Trainium and the"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/CBRS/",
-      "query": "Cerebras Systems Inc. Class A Common Stock major customers clients",
-      "snippet": "Find the latest Cerebras Systems Inc . Class A Common Stock (CBRS) stock quote, history, news and other vital information to help you with your stock "
+      "url": "https://en.wikipedia.org/wiki/Cerebras",
+      "query": "Cerebras Systems Inc. major customers clients",
+      "snippet": "Cerebras Systems Inc . is an American artificial intelligence company with offices in Sunnyvale, San Diego, Toronto, and Bangalore, India. Cerebras bu"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://stockanalysis.com/stocks/cbrs/",
-      "query": "Cerebras Systems Inc. Class A Common Stock major customers clients",
-      "snippet": "Get the latest Cerebras Systems Inc . (CBRS) stock price with news, financials, IPO details and other important investing information."
+      "url": "https://www.forbes.com/sites/karlfreund/2024/01/08/cerebras-systems-wins-a-major-new-client-the-mayo-clinic/",
+      "query": "Cerebras Systems Inc. major customers clients",
+      "snippet": "Cerebras brings AI and Hardware to the table, and Mayo Clinic brings data and domain expertise. Combined, they will build state of the art medical AI "
     }
   ]
 }

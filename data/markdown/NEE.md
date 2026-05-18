@@ -3,8 +3,8 @@ ticker: NEE
 company: NextEra Energy, Inc.
 sector: Utilities
 industry: Utilities - Regulated Electric
-extracted_at: 2026-02-27 16:50:59
-last_updated: 2026-02-27
+extracted_at: 2026-05-18 17:57:18
+last_updated: 2026-05-18
 ---
 
 # NEE - NextEra Energy, Inc.
@@ -12,46 +12,46 @@ last_updated: 2026-02-27
 ## 基本信息
 
 - **所属行业**: Utilities / Utilities - Regulated Electric
-- **提取时间**: 2026-02-27 16:50:59
+- **提取时间**: 2026-05-18 17:57:18
 
 ## 产业链关系
 
 ### 上游供应商
-- [[GE Power]]
+- [[General Electric (GE)]]
 - [[Siemens Energy]]
 - [[ABB]]
-- [[Mitsubishi Power]]
-- [[General Electric Energy]]
+- [[Mitsubishi Electric]]
+- [[Schneider Electric]]
 
 ### 下游客户
-- [[Residential customers in Florida and the U.S.]]
-- [[Commercial and industrial customers in the U.S. and Canada]]
+- [[Residential customers in Florida and Canada]]
+- [[Commercial and industrial customers in the U.S.]]
 - [[Municipal utilities]]
-- [[State and federal government agencies]]
-- [[Large corporate power purchasers]]
+- [[Other regulated electric utilities]]
+- [[Energy service companies]]
 
 ### 竞争对手
 - [[Duke Energy]]
 - [[Southern Company]]
 - [[Dominion Energy]]
+- [[Pacific Gas & Electric]]
 - [[Exelon]]
-- [[American Electric Power]]
 
 ### 核心产品
 - [[Electricity generation (thermal, nuclear, wind, solar)]]
 - [[Grid transmission and distribution services]]
 - [[Energy storage solutions]]
-- [[Renewable energy development]]
+- [[Renewable energy projects]]
 - [[Electric vehicle charging infrastructure]]
 
 ## 数据来源
 
 - [NextEra Energy](https://en.wikipedia.org/wiki/NextEra_Energy,_Inc.)
-- [NextEra Energy, Inc. suppliers manufacturers](https://www.nexteraenergyresources.com/suppliers.html)
-- [NextEra Energy, Inc. suppliers manufacturers](https://csimarket.com/stocks/NEE-Suppliers)
+- [NextEra Energy, Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/NextEra_Energy)
+- [NextEra Energy, Inc. suppliers manufacturers](https://ru.wikipedia.org/wiki/NextEra_Energy)
 - [NextEra Energy, Inc. major customers clients](https://en.wikipedia.org/wiki/NextEra_Energy)
-- [NextEra Energy, Inc. major customers clients](https://csimarket.com/stocks/NEE-Customers)
+- [NextEra Energy, Inc. major customers clients](https://www.investor.nexteraenergy.com/)
 
 ## 元数据
 
-- **更新日期**: 2026-02-27
+- **更新日期**: 2026-05-18

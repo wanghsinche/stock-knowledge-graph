@@ -3,8 +3,8 @@ ticker: AMAT
 company: Applied Materials, Inc.
 sector: Technology
 industry: Semiconductor Equipment & Materials
-extracted_at: 2026-05-15 17:27:28
-last_updated: 2026-05-15
+extracted_at: 2026-05-18 17:57:48
+last_updated: 2026-05-18
 ---
 
 # AMAT - Applied Materials, Inc.
@@ -12,36 +12,37 @@ last_updated: 2026-05-15
 ## 基本信息
 
 - **所属行业**: Technology / Semiconductor Equipment & Materials
-- **提取时间**: 2026-05-15 17:27:28
+- **提取时间**: 2026-05-18 17:57:48
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Silicon wafer suppliers]]
-- [[Chemical and gas suppliers]]
-- [[Precision optics and photolithography component suppliers]]
-- [[Electronic component and sensor suppliers]]
-- [[CAT]]
+- [[ASML]]
+- [[LRCX]]
+- [[Tokyo Electron]]
+- [[KLA Corporation]]
+- [[AMAT]]
 
 ### 下游客户
-- [[TSM]]
-- [[005930.KS]]
 - [[INTC]]
-- [[GlobalFoundries]]
-- [[UMC]]
+- [[005930.KS]]
+- [[TSM]]
+- [[MU]]
+- [[SK Hynix]]
 
 ### 竞争对手
 - [[ASML]]
 - [[LRCX]]
 - [[Tokyo Electron]]
-- [[KLA]]
+- [[KLA Corporation]]
+- [[AMAT]]
 
 ### 核心产品
-- [[Semiconductor lithography equipment]]
-- [[Etching and deposition tools]]
-- [[Metrology and inspection systems]]
-- [[Coating equipment for flexible electronics]]
-- [[Solar cell manufacturing equipment]]
+- [[Deposition equipment]]
+- [[Etching equipment]]
+- [[Metrology and inspection equipment]]
+- [[Semiconductor manufacturing systems]]
+- [[Materials engineering solutions]]
 
 ## 数据来源
 
@@ -53,4 +54,4 @@ last_updated: 2026-05-15
 
 ## 元数据
 
-- **更新日期**: 2026-05-15
+- **更新日期**: 2026-05-18

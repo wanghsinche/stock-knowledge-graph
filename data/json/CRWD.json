@@ -1,37 +1,37 @@
 {
   "ticker": "CRWD",
   "company_name": "CrowdStrike Holdings, Inc.",
-  "sector": "Technology / Software - Infrastructure",
+  "sector": "Technology",
   "industry": "Cybersecurity",
   "upstream": [
-    "MSFT",
     "AMZN",
+    "MSFT",
     "GOOGL",
-    "INTC",
-    "IBM"
+    "DELL",
+    "HPQ"
   ],
   "downstream": [
-    "MSFT",
-    "GOOGL",
-    "AMZN",
-    "Bank of America",
-    "JP Morgan"
+    "U.S. Department of Defense",
+    "JPMorgan Chase",
+    "Mayo Clinic",
+    "Walmart",
+    "General Motors"
   ],
   "competitors": [
     "Palo Alto Networks",
+    "Fortinet",
     "SentinelOne",
     "McAfee",
-    "Sophos",
-    "Check Point"
+    "CSCO"
   ],
   "key_products": [
     "CrowdStrike Falcon Platform",
-    "Falcon Prevent",
+    "Falcon Endpoint Protection",
     "Falcon Insight",
     "Falcon Discover",
     "Falcon OverWatch"
   ],
-  "extracted_at": "2026-05-14 17:50:11",
+  "extracted_at": "2026-05-18 17:59:29",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/CrowdStrike",
+      "query": "CrowdStrike Holdings, Inc. suppliers manufacturers",
+      "snippet": "CrowdStrike Holdings , Inc . is an American cybersecurity technology company based in Austin, Texas. It provides endpoint security, threat intelligenc"
+    },
+    {
+      "source": "DuckDuckGo",
       "url": "https://csimarket.com/stocks/competition2.php?supply&code=CRWD",
       "query": "CrowdStrike Holdings, Inc. suppliers manufacturers",
       "snippet": "Crowdstrike Holdings Inc 's Suppliers . Crowdstrike Holdings Inc 's vs. its Suppliers Results. (List of Suppliers , Financial Results 12 Months from t"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.tradingview.com/symbols/NASDAQ-CRWD/",
-      "query": "CrowdStrike Holdings, Inc. suppliers manufacturers",
-      "snippet": "View live CrowdStrike Holdings , Inc . chart to track its stock's price action. Find market predictions, CRWD financials and market news."
+      "url": "https://au.finance.yahoo.com/news/analyst-crowdstrike-holdings-crwd-customers-172748552.html",
+      "query": "CrowdStrike Holdings, Inc. major customers clients",
+      "snippet": "In this article, we are going to take a look at where Crowdstrike Holdings Inc (NASDAQ:CRWD) stands against other top AI stocks that should be On your"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.crowdstrike.com/en-us/press-releases/crowdstrike-honors-top-customers-partners-driving-innovations/",
+      "url": "https://simplywall.st/stocks/us/software/nasdaq-crwd/crowdstrike-holdings",
       "query": "CrowdStrike Holdings, Inc. major customers clients",
-      "snippet": "Sep 19, 2025 · “Our customers and partners are the heartbeat of CrowdStrike ,” said Daniel Bernard, chief business officer at CrowdStrike . “The Crowd"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://theirstack.com/en/technology/crowdstrike",
-      "query": "CrowdStrike Holdings, Inc. major customers clients",
-      "snippet": "Download a list of 13,046 companies that use CrowdStrike with enriched data including industry, company size, location, funding rounds, and revenue fi"
+      "snippet": "CrowdStrike Holdings , Inc .NasdaqGS:CRWD Stock Report. Market Cap US$114.1b. CrowdStrike Holdings , Inc ., Annual General Meeting, Jun 17, 2026. Apr "
     }
   ]
 }

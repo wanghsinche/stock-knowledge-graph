@@ -4,34 +4,34 @@
   "sector": "Technology",
   "industry": "Software - Infrastructure",
   "upstream": [
-    "AMZN",
-    "MSFT",
     "GOOGL",
     "DELL",
-    "IBM"
+    "Data source providers (government data feeds, commercial data aggregators)",
+    "Software library suppliers (Apache, Hadoop, Spark)",
+    "Consulting and integration partners"
   ],
   "downstream": [
     "U.S. Department of Defense",
-    "U.S. Department of Homeland Security",
+    "Federal Bureau of Investigation (FBI)",
     "INTC",
-    "General Electric",
-    "Boeing"
+    "Commercial banking sector (JP Morgan, Goldman Sachs)",
+    "Insurance and healthcare providers"
   ],
   "competitors": [
     "Snowflake",
     "Databricks",
     "Splunk",
-    "Tableau Software",
-    "MSFT"
+    "MSFT",
+    "Tableau"
   ],
   "key_products": [
     "Palantir Foundry",
     "Palantir Gotham",
     "Palantir Apollo",
     "Palantir Helix",
-    "Palantir Platform"
+    "Palantir Data Integration Platform"
   ],
-  "extracted_at": "2026-05-15 17:28:44",
+  "extracted_at": "2026-05-18 17:55:13",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,9 +47,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://tr.wikipedia.org/wiki/Palantir_Technologies",
+      "url": "https://finance.yahoo.com/quote/PLTR/",
       "query": "Palantir Technologies Inc. suppliers manufacturers",
-      "snippet": "Palantir Technologies Inc ., büyük veri analitiği için yazılım platformlarında uzmanlaşmış bir Amerikan halka açık şirketidir. Merkezi Denver, Colorad"
+      "snippet": "Find the latest Palantir Technologies Inc . (PLTR) stock quote, history, news and other vital information to help you with your stock trading and inve"
     },
     {
       "source": "DuckDuckGo",
@@ -59,9 +59,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://polymarket.com/event/palantir-of-customers-above-in-q1/palantir-total-customers-above-960-in-q1",
+      "url": "https://www.tradingview.com/symbols/NASDAQ-PLTR/",
       "query": "Palantir Technologies Inc. major customers clients",
-      "snippet": "View real-time odds for \" Palantir # of customers above __ in Q1?\" as of April 14, 2026 and trade on The World's Largest Prediction Market™."
+      "snippet": "View live Palantir Technologies Inc . chart to track its stock's price action. Find market predictions, PLTR financials and market news."
     }
   ]
 }

@@ -3,8 +3,8 @@ ticker: COIN
 company: Coinbase Global, Inc.
 sector: Financial Services
 industry: Financial Data & Stock Exchanges
-extracted_at: 2026-05-15 17:30:24
-last_updated: 2026-05-15
+extracted_at: 2026-05-18 18:02:24
+last_updated: 2026-05-18
 ---
 
 # COIN - Coinbase Global, Inc.
@@ -12,46 +12,46 @@ last_updated: 2026-05-15
 ## 基本信息
 
 - **所属行业**: Financial Services / Financial Data & Stock Exchanges
-- **提取时间**: 2026-05-15 17:30:24
+- **提取时间**: 2026-05-18 18:02:24
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Cloud service providers (AWS, Azure)]]
-- [[Blockchain network operators (Bitcoin, Ethereum)]]
-- [[Payment processors (Visa, Mastercard)]]
-- [[Regulatory bodies]]
-- [[Data providers (Bloomberg, Reuters)]]
+- [[MSFT]]
+- [[Blockchain network operators (Bitcoin, Ethereum, other public chains)]]
+- [[Payment processors (e.g., Stripe, PayPal, traditional banking APIs)]]
+- [[Regulatory compliance vendors (AML/KYC solutions)]]
+- [[ORCL]]
 
 ### 下游客户
 - [[Retail cryptocurrency traders]]
-- [[Institutional investors]]
-- [[Merchants accepting crypto payments]]
-- [[Crypto funds]]
-- [[DeFi platforms]]
+- [[Institutional investors and asset managers]]
+- [[Merchant partners accepting crypto payments]]
+- [[DeFi protocol developers using Coinbase APIs]]
+- [[Crypto wallet users]]
 
 ### 竞争对手
 - [[Binance]]
 - [[Kraken]]
 - [[Gemini]]
 - [[Bitstamp]]
-- [[FTX]]
+- [[FTX (post-bankruptcy assets and brand)]]
 
 ### 核心产品
-- [[Crypto trading platform]]
-- [[Custody services]]
-- [[Staking services]]
-- [[Crypto wallet]]
-- [[API for developers]]
+- [[Cryptocurrency trading platform]]
+- [[Custody services for institutional clients]]
+- [[Staking and earning products]]
+- [[Wallet and mobile app]]
+- [[API services for developers]]
 
 ## 数据来源
 
 - [Coinbase](https://en.wikipedia.org/wiki/Coinbase_Global,_Inc.)
 - [Coinbase Global, Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/Coinbase)
-- [Coinbase Global, Inc. suppliers manufacturers](https://finance.yahoo.com/quote/COIN/)
+- [Coinbase Global, Inc. suppliers manufacturers](https://ru.wikipedia.org/wiki/Coinbase)
 - [Coinbase Global, Inc. major customers clients](https://en.wikipedia.org/wiki/Coinbase)
-- [Coinbase Global, Inc. major customers clients](https://www.coinbase.com/)
+- [Coinbase Global, Inc. major customers clients](https://finance.yahoo.com/quote/COIN/)
 
 ## 元数据
 
-- **更新日期**: 2026-05-15
+- **更新日期**: 2026-05-18

@@ -3,8 +3,8 @@ ticker: PLTR
 company: Palantir Technologies Inc.
 sector: Technology
 industry: Software - Infrastructure
-extracted_at: 2026-05-15 17:28:44
-last_updated: 2026-05-15
+extracted_at: 2026-05-18 17:55:13
+last_updated: 2026-05-18
 ---
 
 # PLTR - Palantir Technologies Inc.
@@ -12,46 +12,46 @@ last_updated: 2026-05-15
 ## 基本信息
 
 - **所属行业**: Technology / Software - Infrastructure
-- **提取时间**: 2026-05-15 17:28:44
+- **提取时间**: 2026-05-18 17:55:13
 
 ## 产业链关系
 
 ### 上游供应商
-- [[AMZN]]
-- [[MSFT]]
 - [[GOOGL]]
 - [[DELL]]
-- [[IBM]]
+- [[Data source providers (government data feeds, commercial data aggregators)]]
+- [[Software library suppliers (Apache, Hadoop, Spark)]]
+- [[Consulting and integration partners]]
 
 ### 下游客户
 - [[U.S. Department of Defense]]
-- [[U.S. Department of Homeland Security]]
+- [[Federal Bureau of Investigation (FBI)]]
 - [[INTC]]
-- [[General Electric]]
-- [[Boeing]]
+- [[Commercial banking sector (JP Morgan, Goldman Sachs)]]
+- [[Insurance and healthcare providers]]
 
 ### 竞争对手
 - [[Snowflake]]
 - [[Databricks]]
 - [[Splunk]]
-- [[Tableau Software]]
 - [[MSFT]]
+- [[Tableau]]
 
 ### 核心产品
 - [[Palantir Foundry]]
 - [[Palantir Gotham]]
 - [[Palantir Apollo]]
 - [[Palantir Helix]]
-- [[Palantir Platform]]
+- [[Palantir Data Integration Platform]]
 
 ## 数据来源
 
 - [Palantir](https://en.wikipedia.org/wiki/Palantir_Technologies_Inc.)
 - [Palantir Technologies Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/Palantir)
-- [Palantir Technologies Inc. suppliers manufacturers](https://tr.wikipedia.org/wiki/Palantir_Technologies)
+- [Palantir Technologies Inc. suppliers manufacturers](https://finance.yahoo.com/quote/PLTR/)
 - [Palantir Technologies Inc. major customers clients](https://en.wikipedia.org/wiki/Palantir)
-- [Palantir Technologies Inc. major customers clients](https://polymarket.com/event/palantir-of-customers-above-in-q1/palantir-total-customers-above-960-in-q1)
+- [Palantir Technologies Inc. major customers clients](https://www.tradingview.com/symbols/NASDAQ-PLTR/)
 
 ## 元数据
 
-- **更新日期**: 2026-05-15
+- **更新日期**: 2026-05-18

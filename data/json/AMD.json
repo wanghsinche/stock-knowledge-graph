@@ -8,14 +8,14 @@
     "005930.KS",
     "GlobalFoundries",
     "UMC",
-    "INTC"
+    "ASML"
   ],
   "downstream": [
     "DELL",
     "HPQ",
     "Lenovo Group",
-    "MSFT",
-    "SONY"
+    "SONY",
+    "MSFT"
   ],
   "competitors": [
     "INTC",
@@ -26,12 +26,12 @@
   ],
   "key_products": [
     "Ryzen CPUs",
-    "EPYC CPUs",
+    "EPYC Servers",
     "Radeon GPUs",
-    "Radeon Instinct GPUs",
-    "Xilinx FPGAs"
+    "Radeon Instinct Accelerators",
+    "Threadripper CPUs"
   ],
-  "extracted_at": "2026-05-15 17:26:13",
+  "extracted_at": "2026-05-18 17:53:01",
   "sources": [
     {
       "source": "Wikipedia",
@@ -59,9 +59,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://dcfmodeling.com/products/amd-marketing-mix",
+      "url": "https://www.britannica.com/money/Advanced-Micro-Devices-Inc",
       "query": "Advanced Micro Devices, Inc. major customers clients",
-      "snippet": "To support this, Advanced Micro Devices , Inc . ( AMD ) expects to nearly double the total number of channel sales, channel marketing and channel enab"
+      "snippet": "Advanced Micro Devices , Inc . ( AMD ) is an American semiconductor designer and global supplier of computing and graphics technologies used in data c"
     }
   ]
 }

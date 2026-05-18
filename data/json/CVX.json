@@ -4,22 +4,22 @@
   "sector": "Energy",
   "industry": "Oil & Gas Integrated",
   "upstream": [
-    "Schlumberger",
     "Halliburton",
+    "Schlumberger",
     "Baker Hughes",
     "Weatherford",
     "National Oilwell Varco"
   ],
   "downstream": [
-    "Retail fuel stations",
-    "Industrial customers",
-    "Airlines",
-    "Utilities",
-    "Automotive fleet operators"
+    "Shell",
+    "ExxonMobil",
+    "BP",
+    "TotalEnergies",
+    "Sinopec"
   ],
   "competitors": [
     "ExxonMobil",
-    "Shell",
+    "Royal Dutch Shell",
     "BP",
     "TotalEnergies",
     "ConocoPhillips"
@@ -27,11 +27,11 @@
   "key_products": [
     "Crude oil",
     "Natural gas",
-    "Refined petroleum products",
-    "Petrochemicals",
-    "Lubricants"
+    "Gasoline",
+    "Diesel",
+    "Jet fuel"
   ],
-  "extracted_at": "2026-05-07 17:51:30",
+  "extracted_at": "2026-05-18 18:04:54",
   "sources": [
     {
       "source": "Wikipedia",
@@ -53,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/CVX-Customers",
+      "url": "https://en.wikipedia.org/wiki/Standard_Oil",
       "query": "Chevron Corporation major customers clients",
-      "snippet": "Apr 30, 2026 · Chevron's Comment on Sales, Marketing and Customers The company sells crude oil and natural gas from its producing operations under a v"
+      "snippet": "Standard Oil Company was a corporate trust in the petroleum industry that existed from 1882 to 1911. The origins of the trust lay in the operations of"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://deloitte.wsj.com/cio/chevron-drills-into-data-to-refine-customer-experience-01656617997",
+      "url": "https://www.chevron.com/",
       "query": "Chevron Corporation major customers clients",
-      "snippet": "Jul 1, 2022 · Chevron’s customers span the globe and range from individuals picking up snacks at a convenience store to power stations using natural g"
+      "snippet": "Chevron works to meet the world's growing demand for energy by exploring for oil and natural gas; refining and marketing gasoline; producing chemicals"
     }
   ]
 }

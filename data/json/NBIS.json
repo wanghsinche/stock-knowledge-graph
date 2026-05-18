@@ -4,34 +4,34 @@
   "sector": "Communication Services",
   "industry": "Internet Content & Information",
   "upstream": [
-    "NVDA",
-    "AMD",
-    "INTC",
-    "MSFT",
-    "AMZN"
-  ],
-  "downstream": [
-    "GOOGL",
-    "MSFT",
     "AMZN",
+    "MSFT",
+    "GOOGL",
     "IBM",
     "ORCL"
   ],
+  "downstream": [
+    "Enterprise AI users",
+    "Tech companies",
+    "Financial institutions",
+    "Healthcare providers",
+    "Retailers"
+  ],
   "competitors": [
-    "NVDA",
-    "AMD",
-    "INTC",
-    "GOOGL",
-    "MSFT"
+    "OpenAI",
+    "Anthropic",
+    "DeepMind",
+    "MSFT",
+    "GOOGL"
   ],
   "key_products": [
     "Nebius AI Platform",
-    "Avride",
-    "TripleTen",
-    "Toloka",
-    "Clickhouse"
+    "Nebius AI Infrastructure",
+    "Nebius AI Services",
+    "Nebius AI Cloud",
+    "Nebius AI Solutions"
   ],
-  "extracted_at": "2026-05-15 17:28:15",
+  "extracted_at": "2026-05-18 17:55:27",
   "sources": [
     {
       "source": "Wikipedia",

@@ -1,37 +1,37 @@
 {
   "ticker": "IREN",
   "company_name": "IREN Limited",
-  "sector": "Financial Services",
-  "industry": "Capital Markets",
+  "sector": "Financial Services / Capital Markets",
+  "industry": "Financial Services / Capital Markets",
   "upstream": [
     "NVDA",
     "AMD",
-    "INTC",
-    "QCOM",
-    "AVGO"
+    "DELL",
+    "HPQ",
+    "CSCO"
   ],
   "downstream": [
-    "Banking institutions",
-    "Fintech companies",
-    "Insurance firms",
-    "Investment banks",
-    "Regulatory bodies"
-  ],
-  "competitors": [
-    "AWS",
+    "AMZN",
     "MSFT",
     "GOOGL",
     "IBM",
     "ORCL"
   ],
-  "key_products": [
-    "GPU cloud infrastructure",
-    "AI platform",
-    "Data analytics services",
-    "Machine learning pipelines",
-    "Enterprise AI solutions"
+  "competitors": [
+    "NVDA",
+    "AMD",
+    "GOOGL",
+    "AMZN",
+    "MSFT"
   ],
-  "extracted_at": "2026-05-15 17:32:12",
+  "key_products": [
+    "GPU cloud services",
+    "AI infrastructure",
+    "GPU servers",
+    "AI training platform",
+    "AI inference services"
+  ],
+  "extracted_at": "2026-05-18 18:01:09",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,15 +41,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.investing.com/equities/iris-energy",
+      "url": "https://www.tradingview.com/symbols/NASDAQ-IREN/",
       "query": "IREN Limited suppliers manufacturers",
-      "snippet": "IREN Ltd stock price live, this page displays NASDAQ IREN stock exchange data. View the IREN premarket stock price ahead of the market session or asse"
+      "snippet": "View live IREN Limited chart to track its stock's price action. Find market predictions, IREN financials and market news."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://stockanalysis.com/stocks/iren/",
+      "url": "https://www.investing.com/equities/iris-energy",
       "query": "IREN Limited suppliers manufacturers",
-      "snippet": "A detailed overview of IREN Limited ( IREN ) stock, including real-time price, chart, key statistics, news, and more.Why Is IREN Stock Jumping Wednesd"
+      "snippet": "IREN Ltd stock price live, this page displays NASDAQ IREN stock exchange data. View the IREN premarket stock price ahead of the market session or asse"
     },
     {
       "source": "DuckDuckGo",
@@ -59,9 +59,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.insidermonkey.com/blog/heres-what-iren-ltd-s-iren-mirantis-acquisition-means-for-investors-1761601/",
+      "url": "https://www.tradingview.com/symbols/NASDAQ-IREN/",
       "query": "IREN Limited major customers clients",
-      "snippet": "Photo from IREN website. As AI competition intensifies, IREN Ltd (NASDAQ: IREN ) is shifting its focus to become a major AI cloud provider, delivering"
+      "snippet": "View live IREN Limited chart to track its stock's price action. Find market predictions, IREN financials and market news."
     }
   ]
 }

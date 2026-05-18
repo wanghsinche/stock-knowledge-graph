@@ -1,37 +1,37 @@
 {
   "ticker": "BE",
   "company_name": "Bloom Energy Corporation",
-  "sector": "Industrials",
-  "industry": "Electrical Equipment & Parts",
+  "sector": "Industrials / Electrical Equipment & Parts",
+  "industry": "Fuel Cell Technology",
   "upstream": [
-    "Natural gas suppliers",
-    "Biogas producers",
-    "Hydrogen producers",
-    "Electrolyzer component manufacturers",
-    "Fuel cell stack material suppliers (e.g., zirconia, nickel)"
+    "Fuel cell stack component manufacturers",
+    "Electrolyte material suppliers",
+    "CAT",
+    "Power electronics suppliers",
+    "Natural gas suppliers"
   ],
   "downstream": [
     "Data center operators",
     "Manufacturing facilities",
-    "Hospitals and healthcare centers",
+    "Commercial building operators",
     "CAT",
-    "CAT"
+    "Government and municipal facilities"
   ],
   "competitors": [
     "FuelCell Energy",
     "Plug Power",
-    "PowerCell",
-    "Bloom Energy (internal competitor: other fuel cell tech)",
-    "Sierra Energy"
+    "Nexamp",
+    "H2 Energy",
+    "PowerCell Sweden"
   ],
   "key_products": [
     "Solid Oxide Fuel Cells (SOFCs)",
     "Electrolyzers for hydrogen production",
-    "Power modules and stacks",
-    "On‑site power generation systems",
-    "Fuel cell control and monitoring software"
+    "On-site power generation systems",
+    "Fuel cell stacks",
+    "Integrated power solutions"
   ],
-  "extracted_at": "2026-05-15 17:31:43",
+  "extracted_at": "2026-05-18 17:59:14",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,9 +47,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.insidermonkey.com/blog/ai-power-demand-is-lifting-bloom-energy-be-1761806/",
+      "url": "https://www.linkedin.com/company/bloom-energy",
       "query": "Bloom Energy Corporation suppliers manufacturers",
-      "snippet": "Bloom Energy Corporation (NYSE:BE) is an energy company that focuses on designing and manufacturing solid-oxide fuel cell systems for clean, reliable,"
+      "snippet": "Bloom Energy empowers businesses and communities to responsibly take charge of their energy . The company’s leading solid-oxide platform for distribut"
     },
     {
       "source": "DuckDuckGo",

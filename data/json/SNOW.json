@@ -7,31 +7,31 @@
     "AMZN",
     "MSFT",
     "GOOGL",
-    "Snowflake Data Cloud Infrastructure",
-    "Cloud Storage Providers"
+    "INTC",
+    "NVDA"
   ],
   "downstream": [
     "Capital One",
     "ADBE",
-    "eBay",
-    "NFLX",
-    "CRM"
+    "SONY",
+    "Verizon",
+    "eBay"
   ],
   "competitors": [
-    "Databricks",
     "AMZN",
     "GOOGL",
     "MSFT",
+    "Databricks",
     "Teradata"
   ],
   "key_products": [
     "Snowflake Data Cloud",
     "Snowflake Data Marketplace",
     "Snowflake Data Sharing",
-    "Snowflake Data Warehouse",
-    "Snowflake Data Lake"
+    "Snowflake Snowpark",
+    "Snowflake Data Warehouse"
   ],
-  "extracted_at": "2026-05-07 17:47:42",
+  "extracted_at": "2026-05-18 18:05:11",
   "sources": [
     {
       "source": "Wikipedia",
@@ -53,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.snowflake.com/en/customers/all-customers/",
+      "url": "https://en.wikipedia.org/wiki/Snowflake_Inc.",
       "query": "Snowflake Inc. major customers clients",
-      "snippet": "Leading Organizations Choose Snowflake . Discover how organizations are using the Snowflake AI Data Cloud, to easily transform, integrate, and analyze"
+      "snippet": "Snowflake Inc . is an American cloud-based data platform company founded in San Mateo, California, and headquartered in Menlo Park. It operates a plat"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://data.landbase.com/technology/snowflake/",
+      "url": "https://www.statista.com/statistics/1325458/snowflake-quarterly-number-of-customers/",
       "query": "Snowflake Inc. major customers clients",
-      "snippet": "Aug 17, 2025 · We have data on 14,547 companies that use Snowflake . Our Snowflake customers list is available for download and comes enriched with vi"
+      "snippet": "Quarterly customer count of Snowflake Inc . from FY 2021 to FY 2025. Characteristic. Number of customers ."
     }
   ]
 }

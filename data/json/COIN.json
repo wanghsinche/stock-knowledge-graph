@@ -4,34 +4,34 @@
   "sector": "Financial Services",
   "industry": "Financial Data & Stock Exchanges",
   "upstream": [
-    "Cloud service providers (AWS, Azure)",
-    "Blockchain network operators (Bitcoin, Ethereum)",
-    "Payment processors (Visa, Mastercard)",
-    "Regulatory bodies",
-    "Data providers (Bloomberg, Reuters)"
+    "MSFT",
+    "Blockchain network operators (Bitcoin, Ethereum, other public chains)",
+    "Payment processors (e.g., Stripe, PayPal, traditional banking APIs)",
+    "Regulatory compliance vendors (AML/KYC solutions)",
+    "ORCL"
   ],
   "downstream": [
     "Retail cryptocurrency traders",
-    "Institutional investors",
-    "Merchants accepting crypto payments",
-    "Crypto funds",
-    "DeFi platforms"
+    "Institutional investors and asset managers",
+    "Merchant partners accepting crypto payments",
+    "DeFi protocol developers using Coinbase APIs",
+    "Crypto wallet users"
   ],
   "competitors": [
     "Binance",
     "Kraken",
     "Gemini",
     "Bitstamp",
-    "FTX"
+    "FTX (post-bankruptcy assets and brand)"
   ],
   "key_products": [
-    "Crypto trading platform",
-    "Custody services",
-    "Staking services",
-    "Crypto wallet",
-    "API for developers"
+    "Cryptocurrency trading platform",
+    "Custody services for institutional clients",
+    "Staking and earning products",
+    "Wallet and mobile app",
+    "API services for developers"
   ],
-  "extracted_at": "2026-05-15 17:30:24",
+  "extracted_at": "2026-05-18 18:02:24",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,9 +47,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/COIN/",
+      "url": "https://ru.wikipedia.org/wiki/Coinbase",
       "query": "Coinbase Global, Inc. suppliers manufacturers",
-      "snippet": "Coinbase Global , Inc . OverviewFinancial Data & Stock Exchanges / Financial Services. Coinbase Global , Inc . operates platform for crypto assets in "
+      "snippet": "Coinbase Global , Inc . (бренд Coinbase ) — американская публичная компания, которая управляет онлайн-сервисом обмена цифровых валют (биржей криптовал"
     },
     {
       "source": "DuckDuckGo",
@@ -59,9 +59,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.coinbase.com/",
+      "url": "https://finance.yahoo.com/quote/COIN/",
       "query": "Coinbase Global, Inc. major customers clients",
-      "snippet": "Coinbase United States is a secure online platform for buying, selling, transferring, and storing cryptocurrency. Coinbase believes crypto will be par"
+      "snippet": "Find the latest Coinbase Global , Inc . (COIN) stock quote, history, news and other vital information to help you with your stock trading and investin"
     }
   ]
 }

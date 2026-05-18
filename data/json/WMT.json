@@ -1,37 +1,37 @@
 {
   "ticker": "WMT",
   "company_name": "Walmart Inc.",
-  "sector": "Consumer Defensive / Discount Stores",
-  "industry": "Retail - Discount Stores",
+  "sector": "Consumer Defensive",
+  "industry": "Discount Stores",
   "upstream": [
     "Procter & Gamble",
     "Coca‑Cola",
     "PepsiCo",
-    "Johnson & Johnson",
+    "Nike",
     "Unilever"
   ],
   "downstream": [
-    "Individual consumers",
+    "U.S. households",
+    "International consumers",
     "Online shoppers",
-    "Small businesses",
-    "Local communities",
+    "Small business resellers",
     "Private label customers"
   ],
   "competitors": [
     "Target",
     "Costco",
     "AMZN",
-    "BJ's Wholesale Club",
+    "BJ’s Wholesale Club",
     "Dollar General"
   ],
   "key_products": [
-    "Grocery items",
+    "Groceries",
     "Household goods",
+    "Clothing & apparel",
     "Electronics",
-    "Apparel",
-    "Private label brands"
+    "Private‑label brands"
   ],
-  "extracted_at": "2026-05-15 17:35:03",
+  "extracted_at": "2026-05-18 18:04:16",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,9 +47,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ru.wikipedia.org/wiki/Walmart",
+      "url": "https://csimarket.com/stocks/WMT-Suppliers",
       "query": "Walmart Inc. suppliers manufacturers",
-      "snippet": "Walmart , Inc . ([ˈwɔːlmɑːrt], «Уолмарт») — американская компания, управляющая крупнейшей в мире сетью оптовой и розничной торговли, действующей под т"
+      "snippet": "Walmart Inc supply chain, list and performance of Walmart Incs ' suppliers - CSIMarket. Walmart Inc 's Suppliers Performance. WMT's Supply Chain. Down"
     },
     {
       "source": "DuckDuckGo",

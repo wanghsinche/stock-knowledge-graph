@@ -2,36 +2,35 @@
   "ticker": "PANW",
   "company_name": "Palo Alto Networks, Inc.",
   "sector": "Technology / Software - Infrastructure",
-  "industry": "Cybersecurity",
+  "industry": "Cybersecurity / Network Security",
   "upstream": [
-    "CSCO",
-    "JNPR",
-    "VMware",
-    "MSFT",
-    "AMZN"
+    "INTC",
+    "AMD",
+    "NVDA",
+    "AMZN",
+    "MSFT"
   ],
   "downstream": [
     "JPMorgan Chase",
-    "AT&T",
     "Bank of America",
-    "Verizon",
+    "U.S. Department of Defense",
+    "NASA",
     "Walmart"
   ],
   "competitors": [
     "CSCO",
     "Fortinet",
-    "Check Point Software Technologies",
-    "JNPR",
-    "CrowdStrike"
+    "Check Point",
+    "JNPR"
   ],
   "key_products": [
-    "Next‑Generation Firewall",
-    "Panorama",
-    "Cortex XDR",
+    "Next-Generation Firewall",
     "Prisma Cloud",
-    "WildFire"
+    "Cortex XDR",
+    "Unit 42",
+    "GlobalProtect"
   ],
-  "extracted_at": "2026-05-15 17:33:11",
+  "extracted_at": "2026-05-18 18:02:54",
   "sources": [
     {
       "source": "Wikipedia",
@@ -61,7 +60,7 @@
       "source": "DuckDuckGo",
       "url": "https://www.paloaltonetworks.com/",
       "query": "Palo Alto Networks, Inc. major customers clients",
-      "snippet": "Customers . Explore Network Security. 13x. Palo Alto Networks : Cloud Security Leader in First-Ever CNAPP Report. The Forrester Wave™: Cloud Workload "
+      "snippet": "Palo Alto Networks : Cloud Security Leader in First-Ever CNAPP ReportFrostRadar™ names Palo Alto Networks a CNAPP LeaderOverall leader : 2024 Leadersh"
     }
   ]
 }

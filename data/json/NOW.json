@@ -4,25 +4,25 @@
   "sector": "Technology",
   "industry": "Software - Application",
   "upstream": [
-    "AMZN",
     "MSFT",
+    "AMZN",
     "GOOGL",
     "IBM",
     "ORCL"
   ],
   "downstream": [
-    "Bank of America",
     "Coca‑Cola",
-    "General Electric",
-    "Citigroup",
-    "Walmart"
+    "Bank of America",
+    "Walmart",
+    "MSFT",
+    "AMZN"
   ],
   "competitors": [
     "CRM",
-    "MSFT",
+    "Workday",
     "SAP",
     "ORCL",
-    "Workday"
+    "MSFT"
   ],
   "key_products": [
     "Now Platform",
@@ -31,7 +31,7 @@
     "IT Business Management (ITBM)",
     "Customer Service Management (CSM)"
   ],
-  "extracted_at": "2026-05-15 17:29:27",
+  "extracted_at": "2026-05-18 17:55:00",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,21 +47,21 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.insidermonkey.com/blog/why-analysts-still-favor-servicenow-inc-now-1759067/",
+      "url": "https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lEdHZDRUVSR1AyUUFVREJGbEZpZ0FQAQ?hl=en-US&gl=US&ceid=US:en",
       "query": "ServiceNow, Inc. suppliers manufacturers",
-      "snippet": "ServiceNow , Inc . (NYSE: NOW ) is among the best high-return technology stocks to buy now . On May 6, BMO Capital reaffirmed an Outperform rating and"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.insidermonkey.com/blog/why-analysts-still-favor-servicenow-inc-now-1759067/",
-      "query": "ServiceNow, Inc. major customers clients",
-      "snippet": "ServiceNow , Inc . (NYSE: NOW ) is a California-based provider of cloud-based solutions for digital workflows. Incorporated in 2004, the company deliv"
+      "snippet": "ServiceNow Inc . ( NOW ) - Barclays Reinstates Overweight Rating, Cites Leading AI Workflow Positioning and 70% Upside Potential - Analyst Ratings. Ap"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.youtube.com/watch?v=D5pevc02Pq0",
       "query": "ServiceNow, Inc. major customers clients",
       "snippet": "This video is part 7 of ServiceNow Developer Training. In this video you will learn about Debugging Client Scripts in ServiceNow ."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.insidermonkey.com/blog/why-analysts-still-favor-servicenow-inc-now-1759067/",
+      "query": "ServiceNow, Inc. major customers clients",
+      "snippet": "ServiceNow , Inc . (NYSE: NOW ) is a California-based provider of cloud-based solutions for digital workflows. Incorporated in 2004, the company deliv"
     }
   ]
 }

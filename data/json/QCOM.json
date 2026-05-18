@@ -5,33 +5,33 @@
   "industry": "Semiconductors",
   "upstream": [
     "TSM",
-    "MU",
-    "Packaging and assembly suppliers",
-    "AMAT",
-    "Raw material suppliers (silicon, rare earths)"
+    "005930.KS",
+    "GlobalFoundries",
+    "NXP Semiconductors",
+    "MU"
   ],
   "downstream": [
     "AAPL",
-    "Telecom equipment vendors (Ericsson, Nokia, Huawei)",
-    "DELL",
-    "TSLA",
-    "IoT device manufacturers"
+    "005930.KS",
+    "Huawei Technologies",
+    "Xiaomi Corp.",
+    "AT&T Inc."
   ],
   "competitors": [
-    "MediaTek",
+    "MediaTek Inc.",
     "AVGO",
     "INTC",
-    "005930.KS",
-    "NVDA"
+    "AAPL",
+    "005930.KS"
   ],
   "key_products": [
     "Snapdragon mobile processors",
-    "5G and 4G modems",
+    "Snapdragon X 5G modems",
     "AI inference chips",
-    "RF front‑end and baseband processors",
-    "Embedded system-on-chip (SoC) solutions"
+    "RF front‑end modules",
+    "Automotive SoCs"
   ],
-  "extracted_at": "2026-05-15 17:28:28",
+  "extracted_at": "2026-05-18 17:56:23",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,8 +47,14 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/QCOM/",
+      "url": "https://qualcomm.com/",
       "query": "QUALCOMM Incorporated suppliers manufacturers",
+      "snippet": "Director of product management, Qualcomm Technologies, Inc ."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://finance.yahoo.com/quote/QCOM/",
+      "query": "QUALCOMM Incorporated major customers clients",
       "snippet": "Find the latest QUALCOMM Incorporated (QCOM) stock quote, history, news and other vital information to help you with your stock trading and investing."
     },
     {
@@ -56,12 +62,6 @@
       "url": "https://dcfmodeling.com/products/qcom-business-model-canvas",
       "query": "QUALCOMM Incorporated major customers clients",
       "snippet": "QUALCOMM Incorporated (QCOM) - Canvas Business Model: Cost Structure. You're looking at the major outflows that keep QUALCOMM Incorporated running, th"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/QCOM/",
-      "query": "QUALCOMM Incorporated major customers clients",
-      "snippet": "Find the latest QUALCOMM Incorporated (QCOM) stock quote, history, news and other vital information to help you with your stock trading and investing."
     }
   ]
 }

@@ -5,33 +5,35 @@
   "industry": "Internet Content & Information",
   "upstream": [
     "INTC",
-    "005930.KS",
-    "TSM",
     "QCOM",
-    "NVDA"
+    "NVDA",
+    "005930.KS",
+    "SONY"
   ],
   "downstream": [
     "Advertisers",
     "Android device manufacturers",
-    "GOOGL",
+    "App developers",
     "YouTube content creators",
-    "App developers"
+    "Enterprise customers"
   ],
   "competitors": [
-    "MSFT",
-    "AMZN",
     "META",
+    "AMZN",
     "AAPL",
-    "NFLX"
+    "MSFT",
+    "Facebook"
   ],
   "key_products": [
     "Google Search",
+    "Android OS",
     "YouTube",
-    "Google Cloud",
-    "Android",
-    "Google Ads"
+    "Google Cloud Platform",
+    "Google Ads",
+    "Google Maps",
+    "Google Chrome"
   ],
-  "extracted_at": "2026-05-15 17:27:41",
+  "extracted_at": "2026-05-18 17:54:33",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,9 +49,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/GOOG-Suppliers",
+      "url": "https://www.britannica.com/money/Alphabet-Inc",
       "query": "Alphabet Inc. suppliers manufacturers",
-      "snippet": "Alphabet Inc supply chain, list and performance of Alphabet Incs ' suppliers - CSIMarket."
+      "snippet": "Alphabet Inc . is an American technology conglomerate and holding company formed in 2015 as a strategic..."
     },
     {
       "source": "DuckDuckGo",
@@ -59,9 +61,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/GOOG/",
+      "url": "https://www.investing.com/equities/google-inc",
       "query": "Alphabet Inc. major customers clients",
-      "snippet": "Find the latest Alphabet Inc . (GOOG) stock quote, history, news and other vital information to help you with your stock trading and investing. Alphab"
+      "snippet": "Get detailed information about the Alphabet Inc . stock (GOOGL) including Price, Charts, Technical Analysis, Historical data, Alphabet Reports and mor"
     }
   ]
 }

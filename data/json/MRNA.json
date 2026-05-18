@@ -1,13 +1,37 @@
 {
   "ticker": "MRNA",
   "company_name": "Moderna, Inc.",
-  "sector": "Healthcare / Biotechnology",
+  "sector": "Healthcare",
   "industry": "Biotechnology",
-  "upstream": [],
-  "downstream": [],
-  "competitors": [],
-  "key_products": [],
-  "extracted_at": "2026-05-15 17:38:28",
+  "upstream": [
+    "Contract manufacturing organizations (CMOs)",
+    "Raw material suppliers (RNA, lipids, excipients)",
+    "Biotech equipment manufacturers",
+    "Cell culture media suppliers",
+    "Genomic sequencing service providers"
+  ],
+  "downstream": [
+    "Government health agencies (e.g., CDC, WHO)",
+    "Hospitals and health systems",
+    "Pharmaceutical distributors",
+    "International vaccine procurement agencies",
+    "Private healthcare providers"
+  ],
+  "competitors": [
+    "Pfizer Inc.",
+    "BioNTech SE",
+    "Johnson & Johnson",
+    "AstraZeneca",
+    "Novavax"
+  ],
+  "key_products": [
+    "mRNA‑1273 (COVID‑19 vaccine)",
+    "mRNA‑4157 (cancer vaccine)",
+    "mRNA‑3704 (influenza vaccine)",
+    "mRNA‑1345 (influenza vaccine)",
+    "mRNA‑1273.214 (bivalent COVID‑19 vaccine)"
+  ],
+  "extracted_at": "2026-05-18 18:05:37",
   "sources": [
     {
       "source": "Wikipedia",
@@ -17,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/MRNA-Suppliers",
-      "query": "Moderna, Inc. suppliers manufacturers",
-      "snippet": "Moderna Inc supply chain, list and performance of Moderna Incs ' suppliers - CSIMarket."
-    },
-    {
-      "source": "DuckDuckGo",
       "url": "https://www.modernatx.com/about-us/our-story",
       "query": "Moderna, Inc. suppliers manufacturers",
       "snippet": "Moderna building with large moderna logo. Scientist looking through microscope. We’re making biotech history.Lease signed to build 200,000-square-foot"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://investors.modernatx.com/",
-      "query": "Moderna, Inc. major customers clients",
-      "snippet": "- Moderna ’s Pipeline: Development Programs. Click here to learn more."
+      "url": "https://csimarket.com/stocks/income.php?code=MRNA&hist=379",
+      "query": "Moderna, Inc. suppliers manufacturers",
+      "snippet": "Moderna Inc Geographic Information. Suppliers . Moderna Inc Competitors Results. MRNA Competitors Stock Performance."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.fool.com/earnings/call-transcripts/2021/05/07/moderna-inc-mrna-q1-2021-earnings-call-transcript/",
+      "url": "https://www.marketresearch.com/GlobalData-v3648/Moderna-MRNA-Financial-Strategic-SWOT-37607329/",
       "query": "Moderna, Inc. major customers clients",
-      "snippet": "We now have 1,500 employees. We have recently incorporated Moderna Japan K.K. And we'll continue to build our commercial network. We will push to Asia"
+      "snippet": "Moderna Inc ( Moderna ) is a biotechnology company that focuses on the development of messenger RNA (mRNA) therapeutics and vaccines. The company deve"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://247wallst.com/special-report/2012/04/30/american-companies-with-the-most-customers/",
+      "query": "Moderna, Inc. major customers clients",
+      "snippet": "The figure is large, but not extraordinary. Some consumer products and consumer electronics companies sell their products to a considerably larger num"
     }
   ]
 }

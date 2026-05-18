@@ -1,28 +1,28 @@
 {
   "ticker": "MSTR",
-  "company_name": "Strategy Inc.",
+  "company_name": "Strategy Inc",
   "sector": "Technology",
   "industry": "Software - Application",
   "upstream": [
-    "MSFT",
-    "AMZN",
-    "GOOGL",
-    "IBM",
-    "ORCL"
+    "DELL",
+    "HPQ",
+    "INTC",
+    "NVDA",
+    "AMZN"
   ],
   "downstream": [
-    "Bank of America",
     "Walmart",
     "Coca‑Cola",
-    "General Motors",
-    "MSFT"
+    "JPMorgan Chase",
+    "AT&T",
+    "Verizon"
   ],
   "competitors": [
     "SAP SE Business Objects",
     "IBM",
     "ORCL",
-    "CRM",
-    "Qlik"
+    "MSFT",
+    "Tableau"
   ],
   "key_products": [
     "MicroStrategy Desktop",
@@ -31,7 +31,7 @@
     "MicroStrategy Analytics",
     "MicroStrategy Cloud"
   ],
-  "extracted_at": "2026-05-15 17:29:42",
+  "extracted_at": "2026-05-18 17:58:00",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,9 +47,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.globalsources.com/",
+      "url": "https://ru.investing.com/equities/microstrategy-inc",
       "query": "Strategy Inc suppliers manufacturers",
-      "snippet": "The leading international multichannel B2B online marketplace & sourcing platform connecting authentic buyers and verified wholesale suppliers & manuf"
+      "snippet": "Акции Strategy Inc (MSTR): курс сегодня, актуальная цена онлайн, графики, мнения, технический анализ, отчеты и другое о Strategy ."
     },
     {
       "source": "DuckDuckGo",

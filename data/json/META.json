@@ -4,18 +4,18 @@
   "sector": "Communication Services",
   "industry": "Internet Content & Information",
   "upstream": [
-    "CSCO",
-    "DELL",
-    "HPQ",
+    "QCOM",
     "INTC",
-    "NVDA"
+    "NVDA",
+    "AMD",
+    "005930.KS"
   ],
   "downstream": [
-    "Advertisers and Brands",
-    "Small and Medium Businesses",
-    "Developers and API Users",
-    "Content Creators",
-    "End Users"
+    "Coca‑Cola",
+    "Nike",
+    "005930.KS",
+    "Disney",
+    "MSFT"
   ],
   "competitors": [
     "GOOGL",
@@ -29,9 +29,9 @@
     "Instagram",
     "WhatsApp",
     "Messenger",
-    "Meta Advertising Network"
+    "Meta Quest"
   ],
-  "extracted_at": "2026-05-15 17:26:57",
+  "extracted_at": "2026-05-18 17:53:57",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,21 +47,21 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/List_of_computer_hardware_manufacturers",
+      "url": "https://www.cnn.com/markets/stocks/META",
       "query": "Meta Platforms, Inc. suppliers manufacturers",
-      "snippet": "Current notable computer hardware manufacturers : Cases. [edit]. List of computer case manufacturers : This list is incomplete; you can help by adding"
+      "snippet": "View Meta Platforms Inc Class A META stock quote prices, financial information, real-time forecasts, and company news from CNN."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.kazuha.ai/assets/meta-meta-platforms-inc",
+      "url": "https://www.thestreet.com/employment/metas-recent-layoffs-take-an-unexpected-turn",
       "query": "Meta Platforms, Inc. major customers clients",
-      "snippet": "The most active sources covering Meta Platforms Inc . ( META ) on Kazuha are @amitinvesting, John Coogan & Jordi Hays, @theprofgpod, Nathaniel Whittem"
+      "snippet": "25, 2024. Meta Platforms Inc . debuted its first pair of augmented reality glasses, devices that show a combined view of the digital and physical worl"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://praa.ms/en/blog/META-23-05-2024",
+      "url": "https://www.cnn.com/markets/stocks/META",
       "query": "Meta Platforms, Inc. major customers clients",
-      "snippet": "Meta Platforms , Inc . reported a return on equity (RoE) of 30.2% in the last 12 months, up from 18.5% in FY22. The market consensus projects an RoE o"
+      "snippet": "View Meta Platforms Inc Class A META stock quote prices, financial information, real-time forecasts, and company news from CNN."
     }
   ]
 }

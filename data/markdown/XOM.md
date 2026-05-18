@@ -3,8 +3,8 @@ ticker: XOM
 company: Exxon Mobil Corporation
 sector: Energy
 industry: Oil & Gas Integrated
-extracted_at: 2026-05-15 17:30:40
-last_updated: 2026-05-15
+extracted_at: 2026-05-18 17:58:12
+last_updated: 2026-05-18
 ---
 
 # XOM - Exxon Mobil Corporation
@@ -12,7 +12,7 @@ last_updated: 2026-05-15
 ## 基本信息
 
 - **所属行业**: Energy / Oil & Gas Integrated
-- **提取时间**: 2026-05-15 17:30:40
+- **提取时间**: 2026-05-18 17:58:12
 
 ## 产业链关系
 
@@ -24,18 +24,18 @@ last_updated: 2026-05-15
 - [[National Oilwell Varco]]
 
 ### 下游客户
-- [[General Motors]]
-- [[Ford Motor Company]]
-- [[Boeing]]
-- [[Delta Air Lines]]
-- [[United Airlines]]
+- [[Automotive manufacturers]]
+- [[Airlines]]
+- [[Petrochemical plants]]
+- [[Industrial refineries]]
+- [[Retail fuel stations]]
 
 ### 竞争对手
 - [[Chevron]]
+- [[ConocoPhillips]]
 - [[Royal Dutch Shell]]
 - [[BP]]
 - [[TotalEnergies]]
-- [[ConocoPhillips]]
 
 ### 核心产品
 - [[Crude oil]]
@@ -43,11 +43,10 @@ last_updated: 2026-05-15
 - [[Gasoline]]
 - [[Diesel]]
 - [[Jet fuel]]
-- [[Mobil 1 lubricants]]
-- [[Petrochemicals (ethylene, propylene)]]
+- [[Lubricants (Mobil 1)]]
+- [[Petrochemicals]]
 - [[Plastics]]
 - [[Synthetic rubber]]
-- [[Industrial chemicals]]
 
 ## 数据来源
 
@@ -59,4 +58,4 @@ last_updated: 2026-05-15
 
 ## 元数据
 
-- **更新日期**: 2026-05-15
+- **更新日期**: 2026-05-18

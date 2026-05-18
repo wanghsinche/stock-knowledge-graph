@@ -4,34 +4,34 @@
   "sector": "Technology",
   "industry": "Semiconductors",
   "upstream": [
-    "TSM",
-    "005930.KS",
-    "GlobalFoundries",
-    "ASE Group",
-    "MU"
+    "ASML",
+    "AMAT",
+    "LRCX",
+    "Tokyo Electron",
+    "KLA"
   ],
   "downstream": [
     "DELL",
     "HPQ",
     "Lenovo Group",
     "AAPL",
-    "AMZN"
+    "MSFT"
   ],
   "competitors": [
     "AMD",
     "NVDA",
     "QCOM",
     "AVGO",
-    "005930.KS"
+    "TSM"
   ],
   "key_products": [
-    "Intel Core i7/i9 processors",
+    "Intel Core processors",
     "Intel Xeon processors",
-    "Intel Atom processors",
-    "Intel Optane memory",
-    "Intel 10G Ethernet controllers"
+    "Intel Arc GPUs",
+    "Intel FPGAs (Stratix)",
+    "Intel AI chips (Xeon Phi)"
   ],
-  "extracted_at": "2026-05-15 17:25:48",
+  "extracted_at": "2026-05-18 17:52:49",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,9 +47,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/INTC/",
+      "url": "https://www.intel.com/",
       "query": "Intel Corporation suppliers manufacturers",
-      "snippet": "Find the latest Intel Corporation (INTC) stock quote, history, news and other vital information to help you with your stock trading and investing."
+      "snippet": "See how suppliers are developing solutions based on Intel ® Xeon® for..."
     },
     {
       "source": "DuckDuckGo",

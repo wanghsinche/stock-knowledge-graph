@@ -1,37 +1,37 @@
 {
   "ticker": "ASTS",
   "company_name": "AST SpaceMobile, Inc.",
-  "sector": "Technology / Communication Equipment",
-  "industry": "Satellite Communications",
+  "sector": "Technology",
+  "industry": "Communication Equipment",
   "upstream": [
-    "Lockheed Martin",
-    "Boeing",
-    "Northrop Grumman",
-    "SpaceX",
-    "Thales Alenia Space"
+    "Satellite component manufacturers",
+    "Electronics suppliers",
+    "Launch service providers",
+    "Antenna and RF equipment suppliers",
+    "Ground station equipment vendors"
   ],
   "downstream": [
-    "AT&T",
-    "Verizon",
-    "T-Mobile",
-    "Vodafone",
-    "China Mobile"
+    "CAT",
+    "Mobile network operators",
+    "Government agencies",
+    "Enterprise broadband customers",
+    "IoT service providers"
   ],
   "competitors": [
     "SpaceX Starlink",
     "OneWeb",
+    "Telesat",
     "AMZN",
-    "Telesat LEO",
-    "Iridium"
+    "Blue Origin Blue Origin"
   ],
   "key_products": [
-    "BlueBird satellites",
-    "SpaceMobile Network",
-    "Satellite broadband services",
-    "Space-based mobile broadband",
-    "LEO satellite constellation"
+    "4G/5G space‑based broadband satellites",
+    "Satellite‑to‑ground terminal equipment",
+    "Integrated network infrastructure",
+    "Satellite communication payloads",
+    "Ground‑station software"
   ],
-  "extracted_at": "2026-05-14 17:47:54",
+  "extracted_at": "2026-05-18 18:01:36",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,21 +47,21 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ast-science.com/",
+      "url": "https://ast-science.com/company/",
       "query": "AST SpaceMobile, Inc. suppliers manufacturers",
-      "snippet": "AST SpaceMobile is working to close that gap. Our space -based technology is designed to connect the unconnected, bringing broadband access directly t"
+      "snippet": "AST SpaceMobile mission is to enable 4G and 5G space -based cellular broadband to every device, everywhere, for today’s nearly 6 billion mobile subscr"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/ASTS-Customers",
+      "url": "https://en.wikipedia.org/wiki/AST_SpaceMobile",
       "query": "AST SpaceMobile, Inc. major customers clients",
-      "snippet": "Apr 20, 2026 · Ast Spacemobile Inc customers and markets, results by customer and performance relative to ASTS, by company and industry - CSIMarket"
+      "snippet": "AST SpaceMobile , Inc . is a publicly traded satellite designer and manufacturer based in Midland, Texas, United States. The company is building the S"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ast-science.com/",
+      "url": "https://www.tradingview.com/news/marketbeat:c5a25be25094b:0-ast-spacemobile-5-reasons-to-buy-this-tiny-trailblazer-stock/",
       "query": "AST SpaceMobile, Inc. major customers clients",
-      "snippet": "The SpaceMobile Network Our BlueBird satellites provide full broadband directly to standard smartphones without specialized hardware or phone modifica"
+      "snippet": "[content-module:CompanyOverview|NASDAQ:ASTS] AST SpaceMobile Inc . NASDAQ:ASTS is developing the world’s first space -based cellular broadband network"
     }
   ]
 }
