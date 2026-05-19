@@ -4,34 +4,34 @@
   "sector": "Technology",
   "industry": "Semiconductors",
   "upstream": [
-    "TSM",
-    "005930.KS",
-    "GlobalFoundries",
-    "INTC",
-    "ASE Group"
+    "AMAT",
+    "Silicon wafer suppliers (e.g., Shin-Etsu Chemical, SUMCO)",
+    "Design IP providers (e.g., Cadence, Synopsys)",
+    "Electronic design automation (EDA) tool vendors",
+    "CAT"
   ],
   "downstream": [
-    "CSCO",
-    "JNPR",
-    "Huawei Technologies",
-    "DELL",
-    "HPQ"
+    "NVDA",
+    "AMD",
+    "INTC",
+    "QCOM",
+    "AVGO"
   ],
   "competitors": [
     "AVGO",
     "MRVL",
     "QRVO",
-    "Lattice Semiconductor",
-    "Silicon Labs"
+    "AMD",
+    "Cypress Semiconductor (now part of Infineon)"
   ],
   "key_products": [
-    "Silicon photonics transceivers (10G/25G/40G/100G)",
-    "High‑speed serial transceiver IP",
-    "Silicon photonics transceiver IP",
-    "Optical interconnect solutions",
-    "Data center interconnect solutions"
+    "NVLink interconnect solutions",
+    "PCIe 5.0/6.0 interface chips",
+    "CXL (Compute Express Link) adapters",
+    "High‑speed Ethernet (2.5G/5G) controllers",
+    "Custom ASICs for data‑center interconnect"
   ],
-  "extracted_at": "2026-04-21 16:54:51",
+  "extracted_at": "2026-05-19 18:12:50",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://marketing.asteracu.com/acton/fs/blocks/showLandingPage/a/2638/p/p-0030/t/page/fm/0",
+      "url": "https://en.wikipedia.org/wiki/Astera_Labs",
       "query": "Astera Labs, Inc. suppliers manufacturers",
-      "snippet": "Astera Eservices are a safe and convenient tool for everyone's financial life. Access your accounts 24/7 without stepping foot outside your home. Some"
+      "snippet": "Astera Labs , Inc . is an American fabless semiconductor manufacturer and artificial intelligence company. The company specializes in designing high-s"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.asteracu.com/wp-content/uploads/2019/04/ASTq_Jul18.pdf",
+      "url": "https://www.asteralabs.com/",
       "query": "Astera Labs, Inc. suppliers manufacturers",
-      "snippet": "Your Astera Credit Union membership can help you save money today with exclusive discounts and benefits from trusted partners. Members have saved near"
+      "snippet": "Go to the homepage of ASTERA LABS , INC . Products. Astera Labs Expands Connectivity Portfolio with Custom Solutions. NVLink Fusion-based custom solut"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://marketing.asteracu.com/acton/fs/blocks/showLandingPage/a/2638/p/p-0030/t/page/fm/0",
+      "url": "https://en.wikipedia.org/wiki/Astera_Labs",
       "query": "Astera Labs, Inc. major customers clients",
-      "snippet": "Astera Eservices are a safe and convenient tool for everyone's financial life. Access your accounts 24/7 without stepping foot outside your home. Some"
+      "snippet": "Astera Labs , Inc . is an American fabless semiconductor manufacturer and artificial intelligence company. The company specializes in designing high-s"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.asteracu.com/wp-content/uploads/2019/04/ASTq_Jul18.pdf",
+      "url": "https://www.asteralabs.com/",
       "query": "Astera Labs, Inc. major customers clients",
-      "snippet": "Your Astera Credit Union membership can help you save money today with exclusive discounts and benefits from trusted partners. Members have saved near"
+      "snippet": "Astera Labs Expands Connectivity Portfolio with Custom Solutions. NVLink Fusion-based custom solutions will be offered to support next-generation hete"
     }
   ]
 }

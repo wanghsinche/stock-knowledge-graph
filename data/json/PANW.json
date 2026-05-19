@@ -2,35 +2,36 @@
   "ticker": "PANW",
   "company_name": "Palo Alto Networks, Inc.",
   "sector": "Technology / Software - Infrastructure",
-  "industry": "Cybersecurity / Network Security",
+  "industry": "Cybersecurity",
   "upstream": [
     "INTC",
-    "AMD",
-    "NVDA",
-    "AMZN",
-    "MSFT"
+    "AVGO",
+    "MU",
+    "005930.KS",
+    "NVDA"
   ],
   "downstream": [
-    "JPMorgan Chase",
-    "Bank of America",
-    "U.S. Department of Defense",
-    "NASA",
-    "Walmart"
+    "Wipro",
+    "Tyson Foods",
+    "MSFT",
+    "AMZN",
+    "GOOGL"
   ],
   "competitors": [
     "CSCO",
     "Fortinet",
     "Check Point",
-    "JNPR"
+    "CrowdStrike",
+    "Sophos"
   ],
   "key_products": [
     "Next-Generation Firewall",
     "Prisma Cloud",
     "Cortex XDR",
-    "Unit 42",
-    "GlobalProtect"
+    "Unit 42 Threat Intelligence",
+    "Firewalls"
   ],
-  "extracted_at": "2026-05-18 18:02:54",
+  "extracted_at": "2026-05-19 18:06:10",
   "sources": [
     {
       "source": "Wikipedia",
@@ -52,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Palo_Alto_Networks",
+      "url": "https://www.paloaltonetworks.com/customers",
       "query": "Palo Alto Networks, Inc. major customers clients",
-      "snippet": "Palo Alto Networks , Inc . is an American multinational cybersecurity company with headquarters in Santa Clara, California. The core product is a plat"
+      "snippet": "Discover how leading global brands like Wipro and Tyson Foods secure their operations with Palo Alto Networks . Explore customer success stories in cy"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.paloaltonetworks.com/",
+      "url": "https://www.spanglobalservices.com/blog/top-companies-using-palo-alto-networks/",
       "query": "Palo Alto Networks, Inc. major customers clients",
-      "snippet": "Palo Alto Networks : Cloud Security Leader in First-Ever CNAPP ReportFrostRadar™ names Palo Alto Networks a CNAPP LeaderOverall leader : 2024 Leadersh"
+      "snippet": "Dec 9, 2025 · In this comprehensive guide, we explore the top 10 companies using Palo Alto Networks , examining how these industry leaders leverage ad"
     }
   ]
 }

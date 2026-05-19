@@ -1,37 +1,37 @@
 {
   "ticker": "CSCO",
   "company_name": "Cisco Systems, Inc.",
-  "sector": "Technology / Communication Equipment",
-  "industry": "Networking Equipment",
+  "sector": "Technology",
+  "industry": "Communication Equipment",
   "upstream": [
     "INTC",
     "AVGO",
     "QCOM",
     "TXN",
-    "MRVL"
+    "MU"
   ],
   "downstream": [
     "AT&T",
     "Verizon",
     "Comcast",
-    "GOOGL",
-    "AMZN"
+    "T‑Mobile",
+    "Vodafone"
   ],
   "competitors": [
     "JNPR",
-    "ANET",
     "Huawei",
+    "ANET",
     "Nokia",
     "Ericsson"
   ],
   "key_products": [
+    "Cisco routers",
+    "Cisco switches",
+    "Cisco firewalls",
     "Webex",
-    "OpenDNS",
-    "Cisco IOS",
-    "Cisco Meraki",
-    "Cisco Catalyst"
+    "OpenDNS"
   ],
-  "extracted_at": "2026-05-18 18:02:06",
+  "extracted_at": "2026-05-19 18:02:36",
   "sources": [
     {
       "source": "Wikipedia",

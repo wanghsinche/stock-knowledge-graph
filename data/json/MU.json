@@ -4,34 +4,34 @@
   "sector": "Technology",
   "industry": "Semiconductors",
   "upstream": [
-    "TSM",
-    "GlobalFoundries",
-    "005930.KS",
-    "SK Hynix",
-    "TSM"
+    "Shin-Etsu Chemical",
+    "Sumitomo Chemical",
+    "Tokyo Electron",
+    "AMAT",
+    "ASML"
   ],
   "downstream": [
     "AAPL",
-    "DELL",
-    "HPQ",
-    "Lenovo",
-    "MSFT"
+    "MSFT",
+    "AMZN",
+    "GOOGL",
+    "Huawei"
   ],
   "competitors": [
     "005930.KS",
     "SK Hynix",
-    "Kioxia",
     "Nanya Technology",
-    "MU"
+    "Kingston Technology",
+    "Crucial"
   ],
   "key_products": [
     "DRAM",
     "NAND flash memory",
-    "SSDs",
-    "Memory modules",
-    "Memory chips"
+    "SSD",
+    "3D NAND",
+    "High‑bandwidth memory (HBM)"
   ],
-  "extracted_at": "2026-05-18 17:51:56",
+  "extracted_at": "2026-05-19 17:56:51",
   "sources": [
     {
       "source": "Wikipedia",
@@ -53,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Micron_Technology",
+      "url": "https://csimarket.com/stocks/MU-Customers",
       "query": "Micron Technology, Inc. major customers clients",
-      "snippet": "Micron Technology , Inc . is an American multinational semiconductor company that manufactures computer memory and computer data storage products, inc"
+      "snippet": "Micron Technology Inc's Comment on Sales, Marketing and Customers Our products are sold into compute and graphics, mobile, SSD and other storage, auto"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.micron.com/",
+      "url": "https://www.trendforce.com/news/2025/06/26/news-micron-scales-up-hbm-to-four-major-gpuasic-clients-targets-24-market-share-by-year-end/",
       "query": "Micron Technology, Inc. major customers clients",
-      "snippet": "Explore Micron Technology , leading in semiconductors with a broad range of performance-enhancing memory and storage solutions.Our technologies provid"
+      "snippet": "Notably, Micron said in its press release that it is now shipping high-volume HBM to four customers across both GPU and ASIC platforms. The company, t"
     }
   ]
 }

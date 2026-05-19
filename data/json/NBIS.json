@@ -4,34 +4,34 @@
   "sector": "Communication Services",
   "industry": "Internet Content & Information",
   "upstream": [
+    "NVDA",
+    "AMD",
+    "INTC",
     "AMZN",
-    "MSFT",
-    "GOOGL",
-    "IBM",
-    "ORCL"
+    "MSFT"
   ],
   "downstream": [
-    "Enterprise AI users",
-    "Tech companies",
-    "Financial institutions",
-    "Healthcare providers",
-    "Retailers"
+    "GOOGL",
+    "MSFT",
+    "AMZN",
+    "Alibaba Cloud",
+    "Tencent"
   ],
   "competitors": [
     "OpenAI",
     "Anthropic",
+    "Cohere",
     "DeepMind",
-    "MSFT",
-    "GOOGL"
+    "AI21 Labs"
   ],
   "key_products": [
-    "Nebius AI Platform",
-    "Nebius AI Infrastructure",
-    "Nebius AI Services",
-    "Nebius AI Cloud",
-    "Nebius AI Solutions"
+    "Nebius AI Infrastructure Platform",
+    "Avride",
+    "TripleTen",
+    "Toloka",
+    "Clickhouse"
   ],
-  "extracted_at": "2026-05-18 17:55:27",
+  "extracted_at": "2026-05-19 18:01:58",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,25 +43,25 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Nebius_Group",
       "query": "NBIS suppliers manufacturers",
-      "snippet": "Nebius Group N.V., headquartered in Amsterdam, is a technology company that provides artificial intelligence infrastructure."
+      "snippet": "Nebius Group N.V., headquartered in Amsterdam, is a technology company [3] that provides artificial intelligence infrastructure. [4] . The company als"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/suppliers_glance.php?code=NBIS",
+      "url": "https://csimarket.com/stocks/NBIS-Suppliers",
       "query": "NBIS suppliers manufacturers",
-      "snippet": "NBIS 's Suppliers Management Effectiveness. NBIS 's Competitors Results.Nebius Group N V's Comment on Supply Chain. NBIS 's Stock Perfrormance relativ"
+      "snippet": "May 3, 2025 · For your research, we’ve provided nine additional tables on Nebius Group n v ’s suppliers . You can find them in the navigation menu und"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/NBIS/",
+      "url": "https://csimarket.com/stocks/NBIS-Customers",
       "query": "NBIS major customers clients",
-      "snippet": "Find the latest Nebius Group N.V. ( NBIS ) stock quote, history, news and other vital information to help you with your stock trading and investing."
+      "snippet": "May 10, 2026 · For your research, we’ve provided 9 tables on Nebius Group n v corporate clients . You can find them in the navigation menu under Custo"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.nasdaq.com/market-activity/stocks/nbis",
+      "url": "https://toptechstocksus.substack.com/p/nebius-nbis-q1-2026-earnings-call",
       "query": "NBIS major customers clients",
-      "snippet": "Nasdaq Listed ETFs where NBIS is a top 10 holding*. Symbol.Data Disclaimer: The Nasdaq Indices and the Major Indices are delayed at least 1 minute. Re"
+      "snippet": "5 days ago · Nebius ( NBIS ) Q1 2026 Earnings Call Revenue guidance of $3B to $3.4B in 2026. Revenue up +684% YoY. Capex increased from $20B to $25B. "
     }
   ]
 }

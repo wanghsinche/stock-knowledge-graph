@@ -1,37 +1,37 @@
 {
   "ticker": "STX",
   "company_name": "Seagate Technology Holdings plc",
-  "sector": "Technology / Computer Hardware",
-  "industry": "Data Storage",
+  "sector": "Technology",
+  "industry": "Computer Hardware",
   "upstream": [
-    "005930.KS",
     "MU",
+    "005930.KS",
     "SK Hynix",
-    "Toshiba",
-    "STX"
+    "Toshiba (Kioxia)",
+    "INTC"
   ],
   "downstream": [
     "DELL",
     "HPQ",
-    "Lenovo",
-    "AMZN",
-    "MSFT"
+    "Lenovo Group",
+    "MSFT",
+    "AMZN"
   ],
   "competitors": [
     "WDC",
-    "Toshiba",
-    "IBM",
+    "Toshiba (Kioxia)",
     "005930.KS",
-    "MU"
+    "MU",
+    "IBM"
   ],
   "key_products": [
     "Hard Disk Drives (HDD)",
     "Solid State Drives (SSD)",
-    "Enterprise Storage Solutions",
-    "Data Storage Systems",
-    "Cloud Storage Solutions"
+    "Enterprise Storage Systems",
+    "Cloud Storage Solutions",
+    "3D NAND Flash"
   ],
-  "extracted_at": "2026-05-18 17:56:50",
+  "extracted_at": "2026-05-19 18:03:03",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,25 +43,25 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Seagate_Technology",
       "query": "Seagate Technology Holdings plc suppliers manufacturers",
-      "snippet": "Seagate Technology Holdings plc is an American data storage company. It was incorporated in 1978 as Shugart Technology and commenced business in 1979."
+      "snippet": "Seagate Technology ... Seagate Technology Holdings plc is an American data storage company. It was incorporated in 1978 as Shugart Technology and comm"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://csimarket.com/stocks/STX-Suppliers",
       "query": "Seagate Technology Holdings plc suppliers manufacturers",
-      "snippet": "Seagate Technology Holdings Plc supply chain, list and performance of Seagate Technology Holdings Plcs ' suppliers - CSIMarket. Seagate Technology Hol"
+      "snippet": "Apr 30, 2026 · For your research, we’ve provided nine additional tables on Seagate Technology Holdings Plc ’s suppliers . You can find them in the nav"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.trefis.com/data/companies/STX?from=SNDK-2026-05-05",
+      "url": "https://en.wikipedia.org/wiki/Seagate_Technology",
       "query": "Seagate Technology Holdings plc major customers clients",
-      "snippet": "Seagate Technology Holdings plc provides data storage technology and solutions in Singapore, the United States, the Netherlands, and internationally. "
+      "snippet": "Seagate Technology Holdings plc is an American data storage company. It was incorporated in 1978 as Shugart Technology and commenced business in 1979."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://simplywall.st/stocks/us/tech/nasdaq-stx/seagate-technology-holdings",
+      "url": "https://www.barrons.com/market-data/stocks/stx",
       "query": "Seagate Technology Holdings plc major customers clients",
-      "snippet": "Seagate Technology Holdings plc Competitors. Dell Technologies . Seagate Technology Holdings plc Just Recorded A 16% EPS Beat: Here's What Analysts Ar"
+      "snippet": "Seagate Technology Holdings Plc operates as holding company that is engaged in the development, production, and distribution of data storage products "
     }
   ]
 }

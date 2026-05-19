@@ -1,41 +1,37 @@
 {
   "ticker": "COST",
   "company_name": "Costco Wholesale Corporation",
-  "sector": "Consumer Defensive",
+  "sector": "Consumer Defensive / Discount Stores",
   "industry": "Discount Stores",
   "upstream": [
     "Tyson Foods",
     "Cargill",
-    "Dole Food Company",
-    "Bunge Limited",
+    "Bunge",
+    "Constellation Brands",
     "Kraft Heinz"
   ],
   "downstream": [
-    "American consumers",
+    "U.S. consumers",
     "Canadian consumers",
-    "Wholesale buyers",
-    "Corporate clients",
-    "Online shoppers"
+    "Corporate members",
+    "Small businesses",
+    "International members"
   ],
   "competitors": [
-    "Target Corporation",
     "Walmart",
-    "BJ's Wholesale Club",
+    "Target",
     "Sam's Club",
+    "BJ's Wholesale Club",
     "AMZN"
   ],
   "key_products": [
-    "Membership program",
-    "Groceries",
-    "Electronics",
-    "Furniture",
-    "Clothing",
-    "Household goods",
-    "Wine & beer",
+    "Beef",
+    "Poultry",
     "Organic produce",
-    "Bulk items"
+    "Wine",
+    "Household goods"
   ],
-  "extracted_at": "2026-05-12 18:03:31",
+  "extracted_at": "2026-05-19 18:11:49",
   "sources": [
     {
       "source": "Wikipedia",
@@ -45,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/COST-Suppliers",
+      "query": "Costco Wholesale Corporation suppliers manufacturers",
+      "snippet": "Costco Wholesale 's Comment on Supply Chain We buy the majority of our merchandise directly from manufacturers and route it to a cross-docking consoli"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.sourcifychina.com/top-costco-suppliers-list-compare/",
+      "query": "Costco Wholesale Corporation suppliers manufacturers",
+      "snippet": "Product Details: Costco Global Manufacturers & Suppliers List provides insights into international manufacturers and suppliers associated with Costco,"
+    },
+    {
+      "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Costco",
       "query": "Costco Wholesale Corporation major customers clients",
       "snippet": "Costco Wholesale Corporation . Logo since 1997. Costco warehouse interior in Brampton, Ontario in Canada in 2021. Costco is a membership-only warehous"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.costco.com/",
+      "url": "https://www.britannica.com/money/Costco",
       "query": "Costco Wholesale Corporation major customers clients",
-      "snippet": "official website of Costco Wholesale Corporation ."
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Costco",
-      "query": "Costco Wholesale Corporation competitors alternatives",
-      "snippet": "Costco Wholesale Corporation , trading as Costco , is an American multinational corporation that operates a chain of membership-only big-box warehouse"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://bullfincher.io/companies/costco-wholesale-corporation/competitors",
-      "query": "Costco Wholesale Corporation competitors alternatives",
-      "snippet": "Costco Wholesale Corporation 's competitors include Target Corporation , Walmart and more. Discover more competitors and create your own custom side-b"
+      "snippet": "As a division of Costco Wholesale Corporation , Costco Wholesale Industries operates various manufacturing businesses, including jewelry distribution,"
     }
   ]
 }

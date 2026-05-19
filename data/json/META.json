@@ -1,21 +1,21 @@
 {
   "ticker": "META",
   "company_name": "Meta Platforms, Inc.",
-  "sector": "Communication Services",
-  "industry": "Internet Content & Information",
+  "sector": "Communication Services / Internet Content & Information",
+  "industry": "Social Media & Advertising",
   "upstream": [
-    "QCOM",
-    "INTC",
     "NVDA",
-    "AMD",
-    "005930.KS"
+    "INTC",
+    "DELL",
+    "CSCO",
+    "AMZN"
   ],
   "downstream": [
-    "Coca‑Cola",
-    "Nike",
-    "005930.KS",
-    "Disney",
-    "MSFT"
+    "Advertisers (brands, agencies)",
+    "META",
+    "Content creators (video, photo, text)",
+    "E‑commerce merchants (Marketplace, Shops)",
+    "META"
   ],
   "competitors": [
     "GOOGL",
@@ -29,9 +29,9 @@
     "Instagram",
     "WhatsApp",
     "Messenger",
-    "Meta Quest"
+    "Meta Ads Platform"
   ],
-  "extracted_at": "2026-05-18 17:53:57",
+  "extracted_at": "2026-05-19 18:00:24",
   "sources": [
     {
       "source": "Wikipedia",
@@ -53,9 +53,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.thestreet.com/employment/metas-recent-layoffs-take-an-unexpected-turn",
+      "url": "https://www.meta.com/about/",
       "query": "Meta Platforms, Inc. major customers clients",
-      "snippet": "25, 2024. Meta Platforms Inc . debuted its first pair of augmented reality glasses, devices that show a combined view of the digital and physical worl"
+      "snippet": "Learn more about Meta and stay updated on our role in social technology, virtual reality, augmented reality, and the future of human connection. Meta "
     },
     {
       "source": "DuckDuckGo",

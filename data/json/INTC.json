@@ -4,16 +4,16 @@
   "sector": "Technology",
   "industry": "Semiconductors",
   "upstream": [
-    "ASML",
-    "AMAT",
-    "LRCX",
-    "Tokyo Electron",
-    "KLA"
+    "TSM",
+    "005930.KS",
+    "GlobalFoundries",
+    "ASE Group",
+    "Amkor Technology"
   ],
   "downstream": [
     "DELL",
+    "Lenovo",
     "HPQ",
-    "Lenovo Group",
     "AAPL",
     "MSFT"
   ],
@@ -22,16 +22,16 @@
     "NVDA",
     "QCOM",
     "AVGO",
-    "TSM"
+    "TXN"
   ],
   "key_products": [
-    "Intel Core processors",
-    "Intel Xeon processors",
-    "Intel Arc GPUs",
-    "Intel FPGAs (Stratix)",
-    "Intel AI chips (Xeon Phi)"
+    "Intel Core CPUs",
+    "Intel Xeon CPUs",
+    "Intel GPUs",
+    "Intel FPGAs",
+    "Intel AI accelerators"
   ],
-  "extracted_at": "2026-05-18 17:52:49",
+  "extracted_at": "2026-05-19 17:57:52",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,21 +47,21 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.intel.com/",
+      "url": "https://finance.yahoo.com/quote/INTC/",
       "query": "Intel Corporation suppliers manufacturers",
-      "snippet": "See how suppliers are developing solutions based on Intel ® Xeon® for..."
+      "snippet": "Find the latest Intel Corporation (INTC) stock quote, history, news and other vital information to help you with your stock trading and investing."
     },
     {
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Intel",
       "query": "Intel Corporation major customers clients",
-      "snippet": "Intel Corporation is an American multinational technology company headquartered in Santa Clara, California. It designs, manufactures, and sells comput"
+      "snippet": "8 hours ago - General Manager of Intel's custom foundry division Sunit Rikhi indicated that Intel would pursue further such deals in the future. This "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.tradingview.com/symbols/NASDAQ-INTC/",
+      "url": "https://www.investopedia.com/articles/markets/100214/inside-intel-look-mega-chipmaker.asp",
       "query": "Intel Corporation major customers clients",
-      "snippet": "View live Intel Corporation chart to track its stock's price action. Find market predictions, INTC financials and market news."
+      "snippet": "March 3, 2026 - Intel's main customers include Dell, Lenovo, and HP . Never has a corporation done so much with so little. Founded in Mountain View, C"
     }
   ]
 }

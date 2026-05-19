@@ -3,8 +3,8 @@ ticker: ADI
 company: Analog Devices, Inc.
 sector: Technology
 industry: Semiconductors
-extracted_at: 2026-04-20 17:02:39
-last_updated: 2026-04-20
+extracted_at: 2026-05-19 18:08:17
+last_updated: 2026-05-19
 ---
 
 # ADI - Analog Devices, Inc.
@@ -12,46 +12,46 @@ last_updated: 2026-04-20
 ## 基本信息
 
 - **所属行业**: Technology / Semiconductors
-- **提取时间**: 2026-04-20 17:02:39
+- **提取时间**: 2026-05-19 18:08:17
 
 ## 产业链关系
 
 ### 上游供应商
-- [[TSM]]
-- [[GlobalFoundries]]
-- [[005930.KS]]
-- [[INTC]]
+- [[Maxim Integrated]]
 - [[TXN]]
+- [[ON Semiconductor]]
+- [[STMicroelectronics]]
+- [[Infineon Technologies]]
 
 ### 下游客户
+- [[NVDA]]
+- [[QCOM]]
 - [[AAPL]]
 - [[MSFT]]
 - [[GOOGL]]
-- [[AMZN]]
-- [[005930.KS]]
 
 ### 竞争对手
 - [[TXN]]
+- [[Maxim Integrated]]
+- [[ON Semiconductor]]
 - [[STMicroelectronics]]
-- [[NXP Semiconductors]]
 - [[Infineon Technologies]]
-- [[Maxim Integrated (now part of ADI)]]
 
 ### 核心产品
 - [[Analog-to-Digital Converters (ADCs)]]
 - [[Digital-to-Analog Converters (DACs)]]
-- [[Signal Processing Integrated Circuits]]
-- [[Power Management Integrated Circuits]]
-- [[Wireless RF Integrated Circuits]]
+- [[Signal Processing ICs]]
+- [[Power Management ICs]]
+- [[Sensors]]
 
 ## 数据来源
 
 - [Analog Devices](https://en.wikipedia.org/wiki/Analog_Devices,_Inc.)
-- [Analog Devices, Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/Analog_Devices)
-- [Analog Devices, Inc. suppliers manufacturers](https://www.analog.com/)
-- [Analog Devices, Inc. major customers clients](https://en.wikipedia.org/wiki/Analog_Devices)
-- [Analog Devices, Inc. major customers clients](https://www.analog.com/)
+- [Analog Devices, Inc. suppliers manufacturers](https://www.inven.ai/company-lists/top-27-analog-device-manufacturing-companies)
+- [Analog Devices, Inc. suppliers manufacturers](https://www.digikey.com/en/supplier-centers/analog-devices)
+- [Analog Devices, Inc. major customers clients](https://csimarket.com/stocks/ADI-Customers)
+- [Analog Devices, Inc. major customers clients](https://portersfiveforce.com/blogs/target-market/analog)
 
 ## 元数据
 
-- **更新日期**: 2026-04-20
+- **更新日期**: 2026-05-19

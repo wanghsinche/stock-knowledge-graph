@@ -3,8 +3,8 @@ ticker: AMAT
 company: Applied Materials, Inc.
 sector: Technology
 industry: Semiconductor Equipment & Materials
-extracted_at: 2026-05-18 17:57:48
-last_updated: 2026-05-18
+extracted_at: 2026-05-19 18:04:03
+last_updated: 2026-05-19
 ---
 
 # AMAT - Applied Materials, Inc.
@@ -12,46 +12,46 @@ last_updated: 2026-05-18
 ## 基本信息
 
 - **所属行业**: Technology / Semiconductor Equipment & Materials
-- **提取时间**: 2026-05-18 17:57:48
+- **提取时间**: 2026-05-19 18:04:03
 
 ## 产业链关系
 
 ### 上游供应商
-- [[ASML]]
-- [[LRCX]]
-- [[Tokyo Electron]]
-- [[KLA Corporation]]
-- [[AMAT]]
+- [[Silicon wafer suppliers]]
+- [[Chemical and process gas suppliers]]
+- [[META]]
+- [[Electronic component manufacturers]]
+- [[Software and control system vendors]]
 
 ### 下游客户
-- [[INTC]]
-- [[005930.KS]]
 - [[TSM]]
+- [[005930.KS]]
+- [[INTC]]
+- [[GlobalFoundries]]
 - [[MU]]
-- [[SK Hynix]]
 
 ### 竞争对手
 - [[ASML]]
 - [[LRCX]]
 - [[Tokyo Electron]]
 - [[KLA Corporation]]
-- [[AMAT]]
+- [[Teradyne]]
 
 ### 核心产品
-- [[Deposition equipment]]
-- [[Etching equipment]]
-- [[Metrology and inspection equipment]]
-- [[Semiconductor manufacturing systems]]
-- [[Materials engineering solutions]]
+- [[Lithography systems]]
+- [[Deposition equipment (CVD, PVD)]]
+- [[Etching and plasma systems]]
+- [[Wafer cleaning and inspection tools]]
+- [[Packaging and assembly equipment]]
 
 ## 数据来源
 
 - [Applied Materials](https://en.wikipedia.org/wiki/Applied_Materials,_Inc.)
 - [Applied Materials, Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/Applied_Materials)
 - [Applied Materials, Inc. suppliers manufacturers](https://www.appliedmaterials.com/)
-- [Applied Materials, Inc. major customers clients](https://en.wikipedia.org/wiki/Applied_Materials)
-- [Applied Materials, Inc. major customers clients](https://www.appliedmaterials.com/us/en.html)
+- [Applied Materials, Inc. major customers clients](https://csimarket.com/stocks/AMAT-Customers)
+- [Applied Materials, Inc. major customers clients](https://portersfiveforce.com/blogs/target-market/appliedmaterials)
 
 ## 元数据
 
-- **更新日期**: 2026-05-18
+- **更新日期**: 2026-05-19

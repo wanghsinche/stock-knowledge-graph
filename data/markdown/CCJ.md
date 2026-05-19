@@ -3,8 +3,8 @@ ticker: CCJ
 company: Cameco Corporation
 sector: Energy
 industry: Uranium
-extracted_at: 2026-05-18 18:05:54
-last_updated: 2026-05-18
+extracted_at: 2026-05-19 18:16:32
+last_updated: 2026-05-19
 ---
 
 # CCJ - Cameco Corporation
@@ -12,46 +12,46 @@ last_updated: 2026-05-18
 ## 基本信息
 
 - **所属行业**: Energy / Uranium
-- **提取时间**: 2026-05-18 18:05:54
+- **提取时间**: 2026-05-19 18:16:32
 
 ## 产业链关系
 
 ### 上游供应商
-- [[CAT]]
-- [[Drilling and exploration service providers]]
-- [[Geological survey and mapping firms]]
-- [[Mining safety and environmental compliance contractors]]
-- [[Ore processing technology suppliers]]
+- [[Cameco Fuel Manufacturing]]
+- [[Power Resources Inc.]]
+- [[Uranium ore suppliers]]
+- [[Mining equipment suppliers]]
+- [[Fuel processing facilities]]
 
 ### 下游客户
-- [[Nuclear power plant operators (e.g., EDF, EDF Energy, China National Nuclear Corporation)]]
-- [[Nuclear fuel cycle companies (e.g., Westinghouse, Areva, Holtec)]]
-- [[National nuclear regulatory agencies]]
-- [[Utilities with nuclear portfolios (e.g., Duke Energy, Southern Company)]]
-- [[International nuclear fuel suppliers]]
+- [[Canadian nuclear power plants]]
+- [[United States nuclear power plants]]
+- [[China nuclear power plants]]
+- [[South Korea nuclear power plants]]
+- [[France nuclear power plants]]
 
 ### 竞争对手
+- [[NexGen Energy]]
 - [[Kazatomprom]]
 - [[Uranium Energy Corp]]
+- [[Orano]]
 - [[Uranium One]]
-- [[NexGen Energy Ltd.]]
-- [[Uranium Resources Inc.]]
 
 ### 核心产品
 - [[Uranium ore]]
-- [[Uranium concentrate (U3O8)]]
-- [[Uranium hexafluoride (UF6)]]
-- [[Nuclear fuel assemblies]]
+- [[Uranium concentrate]]
+- [[Uranium fuel]]
+- [[Uranium hexafluoride]]
 - [[Uranium enrichment services]]
 
 ## 数据来源
 
 - [Cameco](https://en.wikipedia.org/wiki/Cameco_Corporation)
-- [Cameco Corporation suppliers manufacturers](https://www.cameco.com/)
-- [Cameco Corporation suppliers manufacturers](https://www.cameco.com/about)
+- [Cameco Corporation suppliers manufacturers](https://en.wikipedia.org/wiki/Cameco)
+- [Cameco Corporation suppliers manufacturers](https://www.camecofuel.com/business/cameco-fuel-manufacturing)
 - [Cameco Corporation major customers clients](https://www.cameco.com/)
-- [Cameco Corporation major customers clients](https://www.insidermonkey.com/blog/cameco-ccj-remains-a-beneficiary-of-the-long-term-upside-in-western-nuclear-fuel-infrastructure-according-to-glj-research-1762974/)
+- [Cameco Corporation major customers clients](https://www.marketsmojo.com/stocks-analysis/cameco-corp-1111014-30)
 
 ## 元数据
 
-- **更新日期**: 2026-05-18
+- **更新日期**: 2026-05-19

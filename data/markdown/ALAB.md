@@ -3,8 +3,8 @@ ticker: ALAB
 company: Astera Labs, Inc.
 sector: Technology
 industry: Semiconductors
-extracted_at: 2026-04-21 16:54:51
-last_updated: 2026-04-21
+extracted_at: 2026-05-19 18:12:50
+last_updated: 2026-05-19
 ---
 
 # ALAB - Astera Labs, Inc.
@@ -12,46 +12,46 @@ last_updated: 2026-04-21
 ## 基本信息
 
 - **所属行业**: Technology / Semiconductors
-- **提取时间**: 2026-04-21 16:54:51
+- **提取时间**: 2026-05-19 18:12:50
 
 ## 产业链关系
 
 ### 上游供应商
-- [[TSM]]
-- [[005930.KS]]
-- [[GlobalFoundries]]
-- [[INTC]]
-- [[ASE Group]]
+- [[AMAT]]
+- [[Silicon wafer suppliers (e.g., Shin-Etsu Chemical, SUMCO)]]
+- [[Design IP providers (e.g., Cadence, Synopsys)]]
+- [[Electronic design automation (EDA) tool vendors]]
+- [[CAT]]
 
 ### 下游客户
-- [[CSCO]]
-- [[JNPR]]
-- [[Huawei Technologies]]
-- [[DELL]]
-- [[HPQ]]
+- [[NVDA]]
+- [[AMD]]
+- [[INTC]]
+- [[QCOM]]
+- [[AVGO]]
 
 ### 竞争对手
 - [[AVGO]]
 - [[MRVL]]
 - [[QRVO]]
-- [[Lattice Semiconductor]]
-- [[Silicon Labs]]
+- [[AMD]]
+- [[Cypress Semiconductor (now part of Infineon)]]
 
 ### 核心产品
-- [[Silicon photonics transceivers (10G/25G/40G/100G)]]
-- [[High‑speed serial transceiver IP]]
-- [[Silicon photonics transceiver IP]]
-- [[Optical interconnect solutions]]
-- [[Data center interconnect solutions]]
+- [[NVLink interconnect solutions]]
+- [[PCIe 5.0/6.0 interface chips]]
+- [[CXL (Compute Express Link) adapters]]
+- [[High‑speed Ethernet (2.5G/5G) controllers]]
+- [[Custom ASICs for data‑center interconnect]]
 
 ## 数据来源
 
 - 
-- [Astera Labs, Inc. suppliers manufacturers](https://marketing.asteracu.com/acton/fs/blocks/showLandingPage/a/2638/p/p-0030/t/page/fm/0)
-- [Astera Labs, Inc. suppliers manufacturers](https://www.asteracu.com/wp-content/uploads/2019/04/ASTq_Jul18.pdf)
-- [Astera Labs, Inc. major customers clients](https://marketing.asteracu.com/acton/fs/blocks/showLandingPage/a/2638/p/p-0030/t/page/fm/0)
-- [Astera Labs, Inc. major customers clients](https://www.asteracu.com/wp-content/uploads/2019/04/ASTq_Jul18.pdf)
+- [Astera Labs, Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/Astera_Labs)
+- [Astera Labs, Inc. suppliers manufacturers](https://www.asteralabs.com/)
+- [Astera Labs, Inc. major customers clients](https://en.wikipedia.org/wiki/Astera_Labs)
+- [Astera Labs, Inc. major customers clients](https://www.asteralabs.com/)
 
 ## 元数据
 
-- **更新日期**: 2026-04-21
+- **更新日期**: 2026-05-19

@@ -3,8 +3,8 @@ ticker: NEE
 company: NextEra Energy, Inc.
 sector: Utilities
 industry: Utilities - Regulated Electric
-extracted_at: 2026-05-18 17:57:18
-last_updated: 2026-05-18
+extracted_at: 2026-05-19 18:12:05
+last_updated: 2026-05-19
 ---
 
 # NEE - NextEra Energy, Inc.
@@ -12,46 +12,46 @@ last_updated: 2026-05-18
 ## 基本信息
 
 - **所属行业**: Utilities / Utilities - Regulated Electric
-- **提取时间**: 2026-05-18 17:57:18
+- **提取时间**: 2026-05-19 18:12:05
 
 ## 产业链关系
 
 ### 上游供应商
-- [[General Electric (GE)]]
+- [[GE Renewable Energy]]
 - [[Siemens Energy]]
 - [[ABB]]
-- [[Mitsubishi Electric]]
-- [[Schneider Electric]]
+- [[General Electric]]
+- [[Alstom Power]]
 
 ### 下游客户
-- [[Residential customers in Florida and Canada]]
-- [[Commercial and industrial customers in the U.S.]]
+- [[Florida Power & Light customers]]
+- [[Industrial power users in the US]]
 - [[Municipal utilities]]
-- [[Other regulated electric utilities]]
-- [[Energy service companies]]
+- [[Commercial real estate owners]]
+- [[Renewable energy developers]]
 
 ### 竞争对手
 - [[Duke Energy]]
 - [[Southern Company]]
 - [[Dominion Energy]]
+- [[American Electric Power]]
 - [[Pacific Gas & Electric]]
-- [[Exelon]]
 
 ### 核心产品
-- [[Electricity generation (thermal, nuclear, wind, solar)]]
-- [[Grid transmission and distribution services]]
+- [[Electricity generation (wind, solar, nuclear, natural gas)]]
+- [[Grid transmission and distribution]]
+- [[Renewable energy development]]
 - [[Energy storage solutions]]
-- [[Renewable energy projects]]
 - [[Electric vehicle charging infrastructure]]
 
 ## 数据来源
 
 - [NextEra Energy](https://en.wikipedia.org/wiki/NextEra_Energy,_Inc.)
 - [NextEra Energy, Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/NextEra_Energy)
-- [NextEra Energy, Inc. suppliers manufacturers](https://ru.wikipedia.org/wiki/NextEra_Energy)
-- [NextEra Energy, Inc. major customers clients](https://en.wikipedia.org/wiki/NextEra_Energy)
-- [NextEra Energy, Inc. major customers clients](https://www.investor.nexteraenergy.com/)
+- [NextEra Energy, Inc. suppliers manufacturers](https://twitter.com/nexteraenergy)
+- [NextEra Energy, Inc. major customers clients](https://marketchameleon.com/articles/b/2026/5/18/dominion-nextera-merger-worlds-largest-regulated-utility-shareholder-customer-growth)
+- [NextEra Energy, Inc. major customers clients](https://www.investor.nexteraenergy.com/news-and-events/news-releases/2026/05-18-2026-123054903)
 
 ## 元数据
 
-- **更新日期**: 2026-05-18
+- **更新日期**: 2026-05-19

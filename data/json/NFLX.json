@@ -4,34 +4,34 @@
   "sector": "Communication Services",
   "industry": "Entertainment",
   "upstream": [
-    "Film and television production studios",
-    "Content licensing distributors",
-    "Technology hardware manufacturers (streaming devices)",
-    "Cloud service providers",
-    "Advertising technology partners"
+    "Visual Data (UK)",
+    "AMZN",
+    "GOOGL",
+    "MSFT",
+    "NFLX"
   ],
   "downstream": [
-    "Global individual subscribers",
-    "US households",
-    "International streaming audiences",
-    "Corporate and institutional subscribers",
-    "Device OEMs offering bundled subscriptions"
+    "Global subscribers",
+    "US subscribers",
+    "International subscribers",
+    "Corporate accounts",
+    "CAT"
   ],
   "competitors": [
     "Disney+",
-    "AMZN",
     "Hulu",
+    "AMZN",
     "HBO Max",
     "AAPL"
   ],
   "key_products": [
-    "Netflix streaming service",
-    "Netflix Originals (movies, series, documentaries)",
-    "Mobile and web applications",
-    "Subscription plans (Basic, Standard, Premium)",
-    "Content licensing agreements"
+    "Streaming service",
+    "Original series",
+    "Original films",
+    "Documentaries",
+    "Kids content"
   ],
-  "extracted_at": "2026-05-18 17:57:04",
+  "extracted_at": "2026-05-19 18:02:48",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
+      "url": "https://npfp.netflixstudios.com/region/global/",
+      "query": "Netflix, Inc. suppliers manufacturers",
+      "snippet": "Visual Data (UK) became a Netflix Preferred Vendor in 2013 and its technical, professional and service standards are among the highest in the industry"
+    },
+    {
+      "source": "DuckDuckGo",
       "url": "https://csimarket.com/stocks/NFLX-Suppliers",
       "query": "Netflix, Inc. suppliers manufacturers",
-      "snippet": "Netflix Inc supply chain, list and performance of Netflix Incs ' suppliers - CSIMarket."
+      "snippet": "Netflix Inc supply chain, list and performance of Netflix Incs ' suppliers - CSIMarket"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://porteranalysis.com/porters-five-forces-of-netflix/",
-      "query": "Netflix, Inc. suppliers manufacturers",
-      "snippet": "Likewise, the suppliers have a weaker bargaining power while dealing with the traditional broadcasting businesses, but online distributors like Netfli"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.inc.com/jason-aten/theres-no-one-left-to-sign-up-for-netflix-so-its-raising-prices-again-instead.html",
+      "url": "https://csimarket.com/stocks/NFLX-Customers",
       "query": "Netflix, Inc. major customers clients",
-      "snippet": "“We’re updating our prices so that we can continue to offer a wide variety of quality entertainment options,” a Netflix spokesperson said. To be clear"
+      "snippet": "Apr 11, 2026 · For your research, we’ve provided 9 tables on Netflix Inc corporate clients . You can find them in the navigation menu under Customers "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.emarketer.com/content/upfronts-2026-netflix-ad-business-gets-more-aggressive",
+      "url": "https://businessmodelanalyst.com/netflix-target-market/",
       "query": "Netflix, Inc. major customers clients",
-      "snippet": "Netflix hits the gas on advertising: The company secured a slew of NFL games, but its bet on podcast and vertical video ads is less certain."
+      "snippet": "Dec 11, 2024 · Netflix’ s target customers are not confined to a single country or region but encompass a broad and diverse international demographic."
     }
   ]
 }

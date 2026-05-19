@@ -1,37 +1,13 @@
 {
   "ticker": "HD",
   "company_name": "The Home Depot, Inc.",
-  "sector": "Consumer Discretionary",
+  "sector": "Consumer Cyclical",
   "industry": "Home Improvement Retail",
-  "upstream": [
-    "Whirlpool",
-    "GE Appliances",
-    "Bosch",
-    "DeWalt",
-    "Milwaukee"
-  ],
-  "downstream": [
-    "DIY homeowners",
-    "Professional contractors",
-    "Construction companies",
-    "Real estate developers",
-    "Small businesses"
-  ],
-  "competitors": [
-    "Lowe's",
-    "Menards",
-    "Ace Hardware",
-    "AMZN",
-    "Walmart Home Improvement"
-  ],
-  "key_products": [
-    "Power tools",
-    "Appliances",
-    "Lumber",
-    "Paint",
-    "Lawn & garden equipment"
-  ],
-  "extracted_at": "2026-05-13 18:04:04",
+  "upstream": [],
+  "downstream": [],
+  "competitors": [],
+  "key_products": [],
+  "extracted_at": "2026-05-19 18:06:32",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,21 +23,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.homedepot.com/",
+      "url": "https://ru.wikipedia.org/wiki/The_Home_Depot",
       "query": "The Home Depot, Inc. suppliers manufacturers",
-      "snippet": "Shop online for all your home improvement needs: appliances, bathroom decorating ideas, kitchen remodeling, patio furniture, power tools, bbq grills, "
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://ir.homedepot.com/~/media/Files/H/HomeDepot-IR/2025/HD_2024_AR_IRsite_v2.pdf",
-      "query": "The Home Depot, Inc. major customers clients",
-      "snippet": "The Home Depot , Inc . is the world’s largest home improvement retailer based on net sales for fiscal 2024. We offer our customers a wide assortment o"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://businessmodelanalyst.com/home-depot-target-market-analysis/",
-      "query": "The Home Depot, Inc. major customers clients",
-      "snippet": "Jul 31, 2025 · This article provides a deep dive into the Home Depot target market, examining who its core customers are and how the company segments "
+      "snippet": "The Home Depot — американская торговая сеть, являющаяся крупнейшей в мире по продаже стройматериалов и инструментов для ремонта. Штаб-квартира компани"
     }
   ]
 }

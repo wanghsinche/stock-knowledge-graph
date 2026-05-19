@@ -4,34 +4,36 @@
   "sector": "Financial Services",
   "industry": "Credit Services",
   "upstream": [
-    "Chip and card manufacturing vendors",
-    "Payment network infrastructure providers",
-    "Software platform suppliers",
-    "Card printing and embossing manufacturers",
-    "Security and fraud‑prevention technology vendors"
+    "Card manufacturing companies (e.g., Gemalto, IDEMIA)",
+    "Payment processing technology providers (e.g., Fiserv, First Data)",
+    "Security and fraud‑detection vendors (e.g., Experian, LexisNexis)",
+    "MSFT",
+    "Chip and PIN technology suppliers (e.g., NXP Semiconductors)"
   ],
   "downstream": [
-    "Commercial banks and credit unions",
-    "Retail merchants and e‑commerce platforms",
-    "Financial institutions issuing Visa‑branded cards",
-    "Consumers using Visa cards for purchases",
-    "Payment processors and acquirers"
+    "Major banks and financial institutions (e.g., JPMorgan Chase, Bank of America)",
+    "AMZN",
+    "Small and medium‑enterprise merchants",
+    "Consumers using Visa‑branded cards",
+    "Payment service providers (e.g., PayPal, Square)"
   ],
   "competitors": [
     "Mastercard",
     "American Express",
     "Discover",
-    "PayPal",
-    "Square"
+    "JCB",
+    "UnionPay"
   ],
   "key_products": [
+    "Visa payment network",
     "Visa credit cards",
     "Visa debit cards",
     "Visa prepaid cards",
-    "VisaNet payment network",
-    "Visa Direct real‑time payments"
+    "Visa mobile payment services (e.g., Visa Checkout, Visa PayWave)",
+    "Visa Direct real‑time payments",
+    "Visa Token Service"
   ],
-  "extracted_at": "2026-05-15 17:38:09",
+  "extracted_at": "2026-05-19 18:12:20",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,13 +45,13 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Visa_Inc.",
       "query": "Visa Inc. suppliers manufacturers",
-      "snippet": "Visa Inc . is an American multinational payment card services corporation headquartered in San Francisco, California. Visa Inc . Logo used since 2014 "
+      "snippet": "Prior to October 3, 2007, Visa comprised four non-stock, separately incorporated companies that employed 6,000 people worldwide: the worldwide parent "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ru.wikipedia.org/wiki/Visa",
+      "url": "https://usa.visa.com/partner-with-us/info-for-partners/info-for-suppliers.html",
       "query": "Visa Inc. suppliers manufacturers",
-      "snippet": "Visa Inc . — американская транснациональная компания, предоставляющая услуги проведения платёжных операций. Является основой одноимённой ассоциации. С"
+      "snippet": "Visa recognizes the value of engaging with a broad group of suppliers , including small and micro-sized businesses (SMBs), and provides opportunities "
     },
     {
       "source": "DuckDuckGo",

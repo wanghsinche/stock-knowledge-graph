@@ -3,8 +3,8 @@ ticker: LLY
 company: Eli Lilly and Company
 sector: Healthcare
 industry: Drug Manufacturers - General
-extracted_at: 2026-05-15 17:35:37
-last_updated: 2026-05-15
+extracted_at: 2026-05-19 18:05:11
+last_updated: 2026-05-19
 ---
 
 # LLY - Eli Lilly and Company
@@ -12,46 +12,46 @@ last_updated: 2026-05-15
 ## 基本信息
 
 - **所属行业**: Healthcare / Drug Manufacturers - General
-- **提取时间**: 2026-05-15 17:35:37
+- **提取时间**: 2026-05-19 18:05:11
 
 ## 产业链关系
 
 ### 上游供应商
-- [[BASF]]
-- [[Bayer]]
-- [[Corteva]]
-- [[Dow Chemical]]
-- [[DuPont]]
+- [[Chemical raw material suppliers]]
+- [[Contract research organizations (CROs)]]
+- [[Contract manufacturing organizations (CMOs)]]
+- [[Biotech ingredient suppliers]]
+- [[Pharmaceutical packaging suppliers]]
 
 ### 下游客户
-- [[Hospitals]]
-- [[Pharmacies]]
-- [[Health systems]]
+- [[Hospitals and health systems]]
+- [[Community pharmacies]]
 - [[Government health agencies]]
-- [[Retail pharmacies]]
+- [[Insurance providers]]
+- [[International health organizations]]
 
 ### 竞争对手
 - [[Pfizer]]
 - [[Johnson & Johnson]]
-- [[Merck]]
+- [[Merck & Co.]]
 - [[Novartis]]
-- [[Roche]]
+- [[AbbVie]]
 
 ### 核心产品
-- [[Humalog]]
-- [[Lantus]]
-- [[Trulicity]]
-- [[Mounjaro]]
-- [[Jardiance]]
+- [[Trulicity (dulaglutide)]]
+- [[Mounjaro (tirzepatide)]]
+- [[Zynlonta (loncastuximab tesirine)]]
+- [[Lilly's oncology drugs]]
+- [[Lilly's diabetes medications]]
 
 ## 数据来源
 
 - [Eli Lilly and Company](https://en.wikipedia.org/wiki/Eli_Lilly_and_Company)
-- [Eli Lilly and Company suppliers manufacturers](https://en.wikipedia.org/wiki/Eli_Lilly_and_Company)
-- [Eli Lilly and Company suppliers manufacturers](https://data.ark.ai/analysis/suppliers/eli-lilly-and-company-supplier-profile-overview/)
+- [Eli Lilly and Company suppliers manufacturers](https://www.lilly.com/suppliers)
+- [Eli Lilly and Company suppliers manufacturers](https://www.lilly.com/suppliers/resources)
 - [Eli Lilly and Company major customers clients](https://en.wikipedia.org/wiki/Eli_Lilly_and_Company)
 - [Eli Lilly and Company major customers clients](https://www.linkedin.com/company/eli-lilly-and-company)
 
 ## 元数据
 
-- **更新日期**: 2026-05-15
+- **更新日期**: 2026-05-19

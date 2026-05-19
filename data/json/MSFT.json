@@ -7,31 +7,31 @@
     "INTC",
     "AMD",
     "NVDA",
-    "QCOM",
-    "005930.KS"
+    "005930.KS",
+    "LG Display"
   ],
   "downstream": [
-    "Enterprises",
-    "Governments",
-    "DELL",
-    "Consumers",
-    "Gaming customers"
+    "Walmart",
+    "JPMorgan Chase",
+    "AT&T",
+    "Verizon",
+    "U.S. Department of Defense"
   ],
   "competitors": [
     "AAPL",
     "GOOGL",
     "AMZN",
-    "ORCL",
-    "CRM"
+    "IBM",
+    "ORCL"
   ],
   "key_products": [
-    "Windows OS",
-    "Microsoft 365",
-    "Azure",
-    "Surface",
-    "Xbox"
+    "Windows operating system",
+    "Microsoft Office suite",
+    "Azure cloud services",
+    "Microsoft Teams",
+    "Surface devices"
   ],
-  "extracted_at": "2026-05-18 17:53:13",
+  "extracted_at": "2026-05-19 17:58:04",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Microsoft",
+      "url": "https://csimarket.com/stocks/MSFT-Suppliers",
       "query": "Microsoft Corporation suppliers manufacturers",
-      "snippet": "Microsoft Corporation is an American multinational technology company headquartered in Redmond, Washington."
+      "snippet": "Microsoft's Comment on Supply Chain We develop most of our products and services internally through four primary engineering groups. Applications and "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.alibaba.com/",
+      "url": "https://www.microsoft.com/en-us/procurement",
       "query": "Microsoft Corporation suppliers manufacturers",
-      "snippet": "Find quality Manufacturers , Suppliers , Exporters, Importers, Buyers, Wholesalers, Products and Trade Leads from our award-winning International Trad"
+      "snippet": "Microsoft Procurement is committed to building a diverse global supplier base that reflects the global diversity of our customers and provides all typ"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Microsoft",
+      "url": "https://www.appsruntheworld.com/customers-database/vendors/view/microsoft",
       "query": "Microsoft Corporation major customers clients",
-      "snippet": "Microsoft Corporation is an American multinational technology company headquartered in Redmond, Washington."
+      "snippet": "March 9, 2026 - Each quarter our research team identifies companies that are using Microsoft applications such as Microsoft 365 for Collaboration, Mic"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.ft.com/content/f3d9d339-42ef-4979-bf52-89ecd699dea2?syn-25a6b1a6=1",
+      "url": "https://www.microsoft.com/investor/reports/ar13/financial-review/business-description/customers/index.html",
       "query": "Microsoft Corporation major customers clients",
-      "snippet": "They added that Microsoft retained a number of ongoing contracts with CoreWeave and it remained an important partner. A shift in the relationship woul"
+      "snippet": "Our customers include individual consumers, small- and medium-sized organizations, enterprises, governmental institutions, educational institutions, I"
     }
   ]
 }

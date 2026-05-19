@@ -4,25 +4,25 @@
   "sector": "Energy",
   "industry": "Oil & Gas Integrated",
   "upstream": [
-    "Halliburton",
-    "Schlumberger",
-    "Baker Hughes",
-    "Weatherford",
-    "National Oilwell Varco"
+    "Crude oil suppliers",
+    "Natural gas producers",
+    "Petrochemical feedstock suppliers",
+    "Equipment manufacturers (exploration rigs, drilling tools)",
+    "Chemical raw material suppliers"
   ],
   "downstream": [
-    "Automotive manufacturers",
-    "Airlines",
-    "Petrochemical plants",
-    "Industrial refineries",
-    "Retail fuel stations"
+    "Automotive fuel distributors",
+    "Industrial lubricant distributors",
+    "Aviation fuel suppliers",
+    "Petrochemical product customers (plastics, synthetic rubber)",
+    "Retail gasoline stations"
   ],
   "competitors": [
-    "Chevron",
-    "ConocoPhillips",
+    "Chevron Corporation",
     "Royal Dutch Shell",
-    "BP",
-    "TotalEnergies"
+    "BP plc",
+    "TotalEnergies SE",
+    "ConocoPhillips"
   ],
   "key_products": [
     "Crude oil",
@@ -31,11 +31,10 @@
     "Diesel",
     "Jet fuel",
     "Lubricants (Mobil 1)",
-    "Petrochemicals",
-    "Plastics",
-    "Synthetic rubber"
+    "Petrochemicals (plastics, synthetic rubber)",
+    "Synthetic fuels"
   ],
-  "extracted_at": "2026-05-18 17:58:12",
+  "extracted_at": "2026-05-19 18:11:33",
   "sources": [
     {
       "source": "Wikipedia",
@@ -45,15 +44,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/ExxonMobil",
-      "query": "Exxon Mobil Corporation suppliers manufacturers",
-      "snippet": "Exxon Mobil Corporation . Floating cube at ExxonMobil headquarters in Spring, Texas."
-    },
-    {
-      "source": "DuckDuckGo",
       "url": "https://corporate.exxonmobil.com/procurement/exxonmobil-for-suppliers",
       "query": "Exxon Mobil Corporation suppliers manufacturers",
       "snippet": "Learn about our supplier ’s collaboration portal, which provides suppliers with access to collaborate with us, view invoices, report issues, & submit "
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.mobil.com/en/lubricants/for-businesses/industrial/lubricants-distributors",
+      "query": "Exxon Mobil Corporation suppliers manufacturers",
+      "snippet": "Find a Mobil™ industrial lubricants distributor near you that can help you meet all of your industrial lubricant needs."
     },
     {
       "source": "DuckDuckGo",

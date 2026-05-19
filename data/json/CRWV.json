@@ -1,37 +1,37 @@
 {
   "ticker": "CRWV",
   "company_name": "CoreWeave, Inc.",
-  "sector": "Technology",
-  "industry": "Software - Infrastructure",
+  "sector": "Technology / Software - Infrastructure",
+  "industry": "AI Cloud Computing / GPU Infrastructure",
   "upstream": [
     "NVDA",
     "AMD",
     "INTC",
-    "QCOM",
-    "AVGO"
+    "TSM",
+    "005930.KS"
   ],
   "downstream": [
     "OpenAI",
+    "Mistral AI",
     "MSFT",
-    "GOOGL",
     "AMZN",
-    "IBM"
+    "GOOGL"
   ],
   "competitors": [
-    "Lambda Labs",
-    "Cerebras Systems",
-    "NVDA",
     "AMZN",
-    "MSFT"
+    "MSFT",
+    "GOOGL",
+    "IBM",
+    "ORCL"
   ],
   "key_products": [
-    "GPU Cloud Compute Instances",
-    "GPU Cluster Management Software",
-    "AI Compute Infrastructure",
-    "Custom GPU Workload Optimization",
-    "Data Center GPU Leasing"
+    "GPU‑based AI compute cloud",
+    "Chip management software",
+    "High‑performance GPU clusters",
+    "Custom AI workloads orchestration",
+    "Scalable GPU infrastructure services"
   ],
-  "extracted_at": "2026-05-18 17:55:41",
+  "extracted_at": "2026-05-19 18:02:22",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,13 +43,13 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/CoreWeave",
       "query": "CoreWeave, Inc. suppliers manufacturers",
-      "snippet": "CoreWeave , Inc . is an American artificial intelligence cloud-computing company based in Livingston, New Jersey."
+      "snippet": "CoreWeave , Inc . is an American artificial intelligence (AI) cloud-computing company based in Livingston, New Jersey. It specializes in providing clo"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://stockanalysis.com/stocks/crwv/",
+      "url": "https://www.coreweave.com/",
       "query": "CoreWeave, Inc. suppliers manufacturers",
-      "snippet": "A detailed overview of CoreWeave , Inc . (CRWV) stock, including real-time price, chart, key statistics, news, and more."
+      "snippet": "5 days ago · From leading AI labs like OpenAI and Mistral AI to global giants like IBM, the world’s most ambitious AI innovators build on CoreWeave . "
     },
     {
       "source": "DuckDuckGo",

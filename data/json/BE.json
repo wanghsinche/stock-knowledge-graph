@@ -1,37 +1,37 @@
 {
   "ticker": "BE",
   "company_name": "Bloom Energy Corporation",
-  "sector": "Industrials / Electrical Equipment & Parts",
-  "industry": "Fuel Cell Technology",
+  "sector": "Industrials",
+  "industry": "Electrical Equipment & Parts",
   "upstream": [
-    "Fuel cell stack component manufacturers",
+    "Fuel cell stack component suppliers",
     "Electrolyte material suppliers",
-    "CAT",
-    "Power electronics suppliers",
-    "Natural gas suppliers"
+    "Natural gas suppliers",
+    "Hydrogen suppliers",
+    "Power electronics suppliers"
   ],
   "downstream": [
-    "Data center operators",
-    "Manufacturing facilities",
-    "Commercial building operators",
-    "CAT",
-    "Government and municipal facilities"
+    "AMZN",
+    "GOOGL",
+    "MSFT",
+    "Facebook Data Centers",
+    "IBM"
   ],
   "competitors": [
     "FuelCell Energy",
-    "Plug Power",
-    "Nexamp",
-    "H2 Energy",
+    "Engie",
+    "Siemens Energy",
+    "GE Renewable Energy",
     "PowerCell Sweden"
   ],
   "key_products": [
-    "Solid Oxide Fuel Cells (SOFCs)",
+    "Solid Oxide Fuel Cells (SOFC)",
     "Electrolyzers for hydrogen production",
-    "On-site power generation systems",
-    "Fuel cell stacks",
-    "Integrated power solutions"
+    "Onsite power generation systems",
+    "Power conversion systems",
+    "Energy storage solutions"
   ],
-  "extracted_at": "2026-05-18 17:59:14",
+  "extracted_at": "2026-05-19 18:06:46",
   "sources": [
     {
       "source": "Wikipedia",
@@ -53,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.bloomenergy.com/",
+      "url": "https://www.bloomenergy.com/customers/",
       "query": "Bloom Energy Corporation major customers clients",
-      "snippet": "Bloom Energy delivers clean, reliable, scalable onsite power to multiple industries, installed in as little as three months.Fast to Deploy. Bloom ’s E"
+      "snippet": "Bloom Energy ' s customers have important goals: clean energy, dependency, resiliency, reliability, and affordability. We're here to help reach those "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.linkedin.com/company/bloom-energy",
+      "url": "https://csimarket.com/stocks/BE-Customers",
       "query": "Bloom Energy Corporation major customers clients",
-      "snippet": "Bloom Energy empowers businesses and communities to responsibly take charge of their energy . The company’s leading solid-oxide platform for distribut"
+      "snippet": "6 days ago · For your research, we’ve provided 9 tables on Bloom Energy Corporation corporate clients . You can find them in the navigation menu under"
     }
   ]
 }

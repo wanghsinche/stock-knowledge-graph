@@ -7,15 +7,15 @@
     "TSM",
     "005930.KS",
     "GlobalFoundries",
-    "UMC",
-    "ASML"
+    "ASML",
+    "AMAT"
   ],
   "downstream": [
-    "DELL",
-    "HPQ",
-    "Lenovo Group",
     "SONY",
-    "MSFT"
+    "MSFT",
+    "HPQ",
+    "DELL",
+    "Lenovo Group"
   ],
   "competitors": [
     "INTC",
@@ -26,12 +26,12 @@
   ],
   "key_products": [
     "Ryzen CPUs",
-    "EPYC Servers",
+    "EPYC CPUs",
     "Radeon GPUs",
-    "Radeon Instinct Accelerators",
-    "Threadripper CPUs"
+    "Xilinx FPGAs",
+    "APU SoCs"
   ],
-  "extracted_at": "2026-05-18 17:53:01",
+  "extracted_at": "2026-05-19 17:57:41",
   "sources": [
     {
       "source": "Wikipedia",
@@ -55,13 +55,13 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/AMD",
       "query": "Advanced Micro Devices, Inc. major customers clients",
-      "snippet": "Advanced Micro Devices , Inc . Advanced Micro Devices , Inc . ( AMD ) is an American multinational semiconductor company headquartered in Santa Clara,"
+      "snippet": "2 days ago - In September 1969, AMD moved from its temporary location in Santa Clara to its new $500,000 15,000sqft headquarters at 901 Thompson Place"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.britannica.com/money/Advanced-Micro-Devices-Inc",
+      "url": "https://www.sec.gov/Archives/edgar/data/2488/000000248817000043/amd-12312016x10k.htm",
       "query": "Advanced Micro Devices, Inc. major customers clients",
-      "snippet": "Advanced Micro Devices , Inc . ( AMD ) is an American semiconductor designer and global supplier of computing and graphics technologies used in data c"
+      "snippet": "Our major customers, Sony Corporation, Microsoft Corporation and HP Inc. , each accounted for more than 10% of our consolidated net revenue for the ye"
     }
   ]
 }

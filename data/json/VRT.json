@@ -4,34 +4,34 @@
   "sector": "Industrials",
   "industry": "Electrical Equipment & Parts",
   "upstream": [
-    "American Industrial Company",
-    "Capitol Refrigeration",
-    "Crown Equipment",
-    "Rittal",
-    "Schneider Electric"
+    "ABB",
+    "Schneider Electric",
+    "Siemens",
+    "Honeywell",
+    "General Electric"
   ],
   "downstream": [
     "AMZN",
     "GOOGL",
     "MSFT",
     "AT&T",
-    "Verizon"
+    "CAT"
   ],
   "competitors": [
     "Schneider Electric",
     "ABB",
     "Eaton",
-    "CSCO",
-    "HPQ"
+    "Siemens",
+    "Vertiv's competitor: Vertiv"
   ],
   "key_products": [
-    "Power Distribution Units (PDUs)",
     "Uninterruptible Power Supplies (UPS)",
-    "Cooling Systems",
-    "Rack-Mount Equipment",
-    "Data Center Infrastructure Management (DCIM) Software"
+    "Power Distribution Units (PDUs)",
+    "Data Center Cooling Systems",
+    "Data Center Infrastructure Management (DCIM) software",
+    "Power and Thermal Infrastructure Solutions"
   ],
-  "extracted_at": "2026-05-18 17:59:00",
+  "extracted_at": "2026-05-19 18:05:39",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,25 +43,25 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Vertiv",
       "query": "Vertiv Holdings Co suppliers manufacturers",
-      "snippet": "American industrial company . Vertiv Holdings Co . Formerly. Capitol Refrigeration Industries (1946–1965).Headquartered in Westerville, Ohio, Vertiv h"
+      "snippet": "Vertiv Holdings Co . is an American provider of infrastructure and services for data centers, communication networks, and commercial and industrial en"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/VRT/",
+      "url": "https://partners.vertiv.com/English/directory",
       "query": "Vertiv Holdings Co suppliers manufacturers",
-      "snippet": "News headlines Vertiv Holdings Co (VRT) has seen a remarkable 115% year-to-date increase driven by strong AI demand and robust financial performance, "
+      "snippet": "Information and Product Security. Report a Security Concern. Corporate. About Vertiv ."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/VRT/",
+      "url": "https://en.wikipedia.org/wiki/Vertiv",
       "query": "Vertiv Holdings Co major customers clients",
-      "snippet": "Find the latest Vertiv Holdings Co (VRT) stock quote, history, news and other vital information to help you with your stock trading and investing."
+      "snippet": "Vertiv ' s primary customers are businesses across three main end markets: data centers, communication networks and commercial & industrial environmen"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://simplywall.st/stocks/us/capital-goods/nyse-vrt/vertiv-holdings-co",
+      "url": "https://www.appsruntheworld.com/customers-database/vendors/view/vertiv",
       "query": "Vertiv Holdings Co major customers clients",
-      "snippet": "Research Vertiv Holdings Co 's (NYSE:VRT) fundamentals, past performance, valuation, dividends and more."
+      "snippet": "List of companies using or evaluating Vertiv applications, with details on their revenues, employees, industries, and locations."
     }
   ]
 }

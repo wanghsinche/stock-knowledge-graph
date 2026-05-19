@@ -6,32 +6,32 @@
   "upstream": [
     "TSM",
     "005930.KS",
-    "GlobalFoundries",
-    "INTC",
-    "MU"
+    "MU",
+    "SK Hynix",
+    "ASE"
   ],
   "downstream": [
     "SONY",
     "MSFT",
+    "DELL",
     "AMZN",
-    "GOOGL",
     "TSLA"
   ],
   "competitors": [
     "AMD",
     "INTC",
     "QCOM",
-    "AVGO",
-    "AAPL"
+    "AAPL",
+    "AVGO"
   ],
   "key_products": [
-    "GeForce GPUs",
-    "Quadro GPUs",
+    "GeForce RTX GPUs",
     "Tesla GPUs",
     "Jetson SoCs",
-    "CUDA API"
+    "CUDA API",
+    "NVLink"
   ],
-  "extracted_at": "2026-05-18 17:52:07",
+  "extracted_at": "2026-05-19 17:57:02",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
+      "url": "https://www.suppliersmap.com/nvidia",
+      "query": "NVIDIA Corporation suppliers manufacturers",
+      "snippet": "Explore Nvidia 's complete supply chain with interactive visualizations showing supplier locations and component breakdowns across GeForce RTX and oth"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://stocksandfuturestrading.com/the-complete-list-of-nvidias-suppliers-and-consumers/",
+      "query": "NVIDIA Corporation suppliers manufacturers",
+      "snippet": "Nov 22, 2024 · NVIDIA has completed one of the most dramatic business transformations in market history — going from a gaming GPU company to the backb"
+    },
+    {
+      "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Nvidia",
-      "query": "NVIDIA Corporation suppliers manufacturers",
-      "snippet": "4 hours ago - In August 2025, Nvidia ordered ... due to security concerns. The company directed suppliers including Taiwan Semiconductor Manufacturing"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/suppliers_glance.php?code=NVDA",
-      "query": "NVIDIA Corporation suppliers manufacturers",
-      "snippet": "February 26, 2026 - Nvidia supply chain, list and performance of Nvidias' suppliers - CSIMarket"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.fool.com/investing/2025/06/26/who-are-nvidias-biggest-customers/",
       "query": "NVIDIA Corporation major customers clients",
-      "snippet": "June 26, 2025 - Nvidia has amassed an impressive list of customers, which includes top AI developers like Amazon, Microsoft, and Alphabet ."
+      "snippet": "Nvidia thus avoids most of the investment and production costs and risks associated with chip manufacturing, although it does sometimes directly procu"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/news/nvidias-biggest-customers-095700428.html",
+      "url": "https://www.youtube.com/watch?v=d3L2uPuxOxU",
       "query": "NVIDIA Corporation major customers clients",
-      "snippet": "June 26, 2025 - Nvidia has amassed an impressive list of customers, which includes top AI developers like Amazon, Microsoft, and Alphabet . Nvidia's c"
+      "snippet": "Thirty years ago, Taiwan immigrant Jensen Huang founded Nvidia with the dream of revolutionizing PCs and gaming with 3D graphics."
     }
   ]
 }

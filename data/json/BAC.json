@@ -5,17 +5,17 @@
   "industry": "Banks - Diversified",
   "upstream": [
     "MSFT",
-    "AMZN",
-    "Payment processors (e.g., Visa, Mastercard)",
-    "Security services (e.g., Symantec)",
-    "Consulting firms (e.g., Accenture)"
+    "CSCO",
+    "Office and facility services (e.g., Staples, local contractors)",
+    "Security and compliance firms (e.g., Symantec, Deloitte)",
+    "Consulting and advisory services (e.g., Accenture, PwC)"
   ],
   "downstream": [
-    "Retail customers (individuals)",
-    "Small and medium businesses",
-    "Large corporations",
-    "Government agencies",
-    "High-net-worth individuals"
+    "Retail banking customers (individual depositors and borrowers)",
+    "Small and medium‑enterprise clients (SMEs)",
+    "Corporate and institutional clients (large corporations, governments)",
+    "Wealth management and private banking clients",
+    "Mortgage borrowers and real‑estate investors"
   ],
   "competitors": [
     "JPMorgan Chase & Co.",
@@ -25,43 +25,43 @@
     "Morgan Stanley"
   ],
   "key_products": [
-    "Retail banking services",
-    "Wealth management",
-    "Investment banking",
-    "Credit cards",
-    "Mortgage lending"
+    "Consumer banking (checking, savings, credit cards)",
+    "Corporate banking (loans, treasury services)",
+    "Investment banking (M&A, underwriting)",
+    "Wealth management and private banking",
+    "Mortgage lending and real‑estate finance"
   ],
-  "extracted_at": "2026-05-14 17:50:01",
+  "extracted_at": "2026-05-19 18:13:59",
   "sources": [
     {
       "source": "Wikipedia",
-      "url": "",
-      "title": "",
-      "snippet": ""
+      "url": "https://en.wikipedia.org/wiki/Bank_of_America_Corporation",
+      "title": "Bank of America",
+      "snippet": "The Bank of America Corporation is an American multinational investment bank and financial services holding company headquartered at the Bank of America Corporate Center in Charlotte, North Carolina, "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/List_of_largest_banks_in_the_United_States",
+      "url": "https://about.bankofamerica.com/en/our-company/supplier-management",
       "query": "Bank of America Corporation suppliers manufacturers",
-      "snippet": "The following table lists the 100 largest bank holding companies in the United States ranked by total assets as of December 31, 2025 per the Federal F"
+      "snippet": "Bank of America is dedicated to partnering with suppliers who value ethics, inclusion, human rights, and the environment. Learn more about our supplie"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.bankofamerica.com/online-banking/sign-in/",
+      "url": "https://csimarket.com/stocks/BAC-Suppliers",
       "query": "Bank of America Corporation suppliers manufacturers",
-      "snippet": "Log in to Mobile & Online Banking to access your personal and small business accounts, see balances, transfer funds, pay bills and more.Log in to Onli"
+      "snippet": "Bank Of America supply chain, list and performance of Bank Of Americas ' suppliers - CSIMarket"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/Bank_of_America",
+      "query": "Bank of America Corporation major customers clients",
+      "snippet": "The Bank of America Corporation is an American multinational investment bank and financial services holding company headquartered at the Bank of Ameri"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.bankofamerica.com/",
       "query": "Bank of America Corporation major customers clients",
       "snippet": "At Bank of America , our purpose is to help make financial lives better through the power of every connection.Get it on the App Store. Download the Ba"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.thestreet.com/opinion/bank-of-america-clients-are-worried-and-so-should-you-be-11283827",
-      "query": "Bank of America Corporation major customers clients",
-      "snippet": "Kohl’s CEO tells customers major revamp is on the way. Bank of America isn’t the only institution whose clients are getting anxious. An e-mail message"
     }
   ]
 }

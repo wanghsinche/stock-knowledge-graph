@@ -4,34 +4,34 @@
   "sector": "Industrials",
   "industry": "Farm & Heavy Construction Machinery",
   "upstream": [
-    "Eaton Corporation",
-    "Rockwell Automation",
-    "Bosch Rexroth",
-    "Siemens AG",
-    "Emerson Electric Co."
+    "Steel suppliers",
+    "Aluminum suppliers",
+    "Electronic component suppliers",
+    "Hydraulic component suppliers",
+    "Engine component suppliers"
   ],
   "downstream": [
-    "Bechtel",
-    "Fluor",
-    "Kiewit",
-    "HPQ",
-    "Rio Tinto"
+    "Construction companies",
+    "Mining companies",
+    "Government agencies",
+    "Infrastructure developers",
+    "Agricultural equipment manufacturers"
   ],
   "competitors": [
     "Komatsu Ltd.",
     "Volvo Construction Equipment",
-    "CNH Industrial",
     "DE",
-    "Hitachi Construction Machinery"
+    "CNH Industrial",
+    "Doosan Infracore"
   ],
   "key_products": [
     "Bulldozers",
     "Excavators",
-    "Wheel Loaders",
-    "Mining Trucks",
-    "Generators"
+    "Wheel loaders",
+    "Mining trucks",
+    "Hydraulic excavators"
   ],
-  "extracted_at": "2026-05-18 18:03:23",
+  "extracted_at": "2026-05-19 18:05:26",
   "sources": [
     {
       "source": "Wikipedia",
@@ -53,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Caterpillar_Inc.",
+      "url": "https://csimarket.com/stocks/CAT-Customers",
       "query": "Caterpillar Inc. major customers clients",
-      "snippet": "Caterpillar Inc . is an American construction, mining, and other engineering equipment manufacturer. The company is the world's largest manufacturer o"
+      "snippet": "Caterpillar Inc customers and markets, results by customer and performance relative to CAT, by company and industry - CSIMarket"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ru.wikipedia.org/wiki/Caterpillar",
+      "url": "https://www.caterpillar.com/en/investors/reports/annual-report/segment-highlights.html",
       "query": "Caterpillar Inc. major customers clients",
-      "snippet": "Caterpillar Inc . ([ˈkætəpɪlə]), «Катерпиллар»[4] — американская компания, один из крупнейших мировых производителей строительной и горнодобывающей те"
+      "snippet": "In 2025, we marked our centennial by continuing to evolve how we serve customers ."
     }
   ]
 }

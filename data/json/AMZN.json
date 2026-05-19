@@ -4,34 +4,34 @@
   "sector": "Consumer Cyclical",
   "industry": "Internet Retail",
   "upstream": [
-    "Consumer electronics manufacturers",
-    "Apparel and fashion manufacturers",
-    "Home goods and furniture manufacturers",
-    "Book publishers and distributors",
-    "Third‑party seller suppliers"
+    "Book publishers",
+    "Electronics manufacturers",
+    "Apparel brands",
+    "Consumer electronics makers",
+    "Third‑party sellers"
   ],
   "downstream": [
-    "Retail consumers (Prime members)",
-    "AMZN",
-    "Enterprise customers using AWS",
-    "Digital content consumers (Prime Video, Kindle)",
-    "Voice‑assistant users (Alexa devices)"
+    "Retail consumers",
+    "Enterprise customers (AWS)",
+    "Advertising clients",
+    "Prime members",
+    "Third‑party sellers"
   ],
   "competitors": [
     "Walmart",
-    "Alibaba Group",
+    "Alibaba",
     "eBay",
-    "MSFT",
-    "GOOGL"
+    "Target",
+    "Shopify"
   ],
   "key_products": [
-    "Amazon.com marketplace",
+    "Amazon.com e‑commerce platform",
     "Amazon Web Services (AWS)",
     "Amazon Prime Video",
-    "Amazon Echo/Alexa",
+    "Amazon Echo (Alexa)",
     "Amazon Kindle"
   ],
-  "extracted_at": "2026-05-18 17:53:27",
+  "extracted_at": "2026-05-19 17:58:15",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,21 +47,21 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.amazon.com/home-garden-kitchen-furniture-bedding/b?ie=UTF8&node=1055398",
-      "query": "Amazon.com, Inc. suppliers manufacturers",
-      "snippet": "Shop a wide selection of products for your home at Amazon . com . Free shipping and free returns on eligible items."
-    },
-    {
-      "source": "DuckDuckGo",
       "url": "https://ir.aboutamazon.com/",
-      "query": "Amazon.com, Inc. major customers clients",
+      "query": "Amazon.com, Inc. suppliers manufacturers",
       "snippet": "Amazon . com Announces Fourth Quarter Results. Amazon . com , Inc . (NASDAQ: AMZN) today announced financial results for its fourth quarter ended Dece"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.businessinsider.com/amazon-shoppers-richer-than-walmart-2020-1",
+      "url": "https://capitaloneshopping.com/research/amazon-statistics/",
       "query": "Amazon.com, Inc. major customers clients",
-      "snippet": "These customers are important for Amazon to win over, given that Walmart previously estimated that around 18% of all SNAP benefits — or roughly $13 bi"
+      "snippet": "Mar 29, 2026 · Over 310 million global consumers shop on Amazon at least once a year. 2 million active selling partners have shops on Amazon. Independ"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.businessofapps.com/data/amazon-statistics/",
+      "query": "Amazon.com, Inc. major customers clients",
+      "snippet": "May 5, 2026 · Amazon is one of the most recognisable brands in the world, and the third largest by revenue. It was the fourth tech company to reach a "
     }
   ]
 }

@@ -1,37 +1,37 @@
 {
   "ticker": "TSLA",
   "company_name": "Tesla, Inc.",
-  "sector": "Consumer Cyclical / Auto Manufacturers",
-  "industry": "Automotive",
+  "sector": "Consumer Cyclical",
+  "industry": "Auto Manufacturers",
   "upstream": [
-    "LG Chem",
     "Panasonic",
     "CAT",
+    "LG Chem",
     "005930.KS",
-    "SK Innovation"
+    "BYD"
   ],
   "downstream": [
-    "Individual consumers",
-    "Corporate fleet operators",
-    "Government agencies",
-    "Utilities",
-    "Ride‑hailing companies"
+    "Individual consumers (US, EU)",
+    "Fleet operators (Uber, Lyft)",
+    "Government fleets (US DoD, EU)",
+    "AMZN",
+    "Utility companies (energy storage customers)"
   ],
   "competitors": [
-    "General Motors",
     "Ford",
+    "General Motors",
     "Volkswagen",
     "Hyundai",
     "Rivian"
   ],
   "key_products": [
+    "Model S",
     "Model 3",
+    "Model X",
     "Model Y",
-    "Powerwall",
-    "Powerpack",
-    "Solar Roof"
+    "Powerwall"
   ],
-  "extracted_at": "2026-05-18 17:52:21",
+  "extracted_at": "2026-05-19 17:57:14",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,21 +41,21 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Tesla,_Inc.",
+      "url": "https://www.investopedia.com/ask/answers/052815/who-are-teslas-tsla-main-suppliers.asp",
       "query": "Tesla, Inc. suppliers manufacturers",
-      "snippet": "4 days ago - The practice of vertical integration is rare in the automotive industry, where companies typically outsource 80% of components to supplie"
+      "snippet": "Nov 4, 2025 · Discover Tesla's key and rumored parts suppliers . Learn which companies provide essential components for Tesla's electric vehicles and "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.investopedia.com/ask/answers/052815/who-are-teslas-tsla-main-suppliers.asp",
+      "url": "https://csimarket.com/stocks/TSLA-Suppliers",
       "query": "Tesla, Inc. suppliers manufacturers",
-      "snippet": "November 4, 2025 - Tesla manufactures key components like the electric motor, battery pack, and charger, but relies on suppliers for other parts. Key "
+      "snippet": "Tesla Inc 's Comment on Supply Chain Model S uses over 2,000 purchased parts which we source globally from over 300 suppliers , the majority of whom a"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Tesla,_Inc.",
       "query": "Tesla, Inc. major customers clients",
-      "snippet": "4 days ago - Tesla Energy products include solar panels (built by other companies for Tesla), the Tesla Solar Roof (a solar shingle system), and the T"
+      "snippet": "17 hours ago - Tesla Energy products include solar panels (built by other companies for Tesla), the Tesla Solar Roof (a solar shingle system), and the"
     },
     {
       "source": "DuckDuckGo",

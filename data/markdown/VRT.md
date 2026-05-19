@@ -3,8 +3,8 @@ ticker: VRT
 company: Vertiv Holdings Co
 sector: Industrials
 industry: Electrical Equipment & Parts
-extracted_at: 2026-05-18 17:59:00
-last_updated: 2026-05-18
+extracted_at: 2026-05-19 18:05:39
+last_updated: 2026-05-19
 ---
 
 # VRT - Vertiv Holdings Co
@@ -12,46 +12,46 @@ last_updated: 2026-05-18
 ## 基本信息
 
 - **所属行业**: Industrials / Electrical Equipment & Parts
-- **提取时间**: 2026-05-18 17:59:00
+- **提取时间**: 2026-05-19 18:05:39
 
 ## 产业链关系
 
 ### 上游供应商
-- [[American Industrial Company]]
-- [[Capitol Refrigeration]]
-- [[Crown Equipment]]
-- [[Rittal]]
+- [[ABB]]
 - [[Schneider Electric]]
+- [[Siemens]]
+- [[Honeywell]]
+- [[General Electric]]
 
 ### 下游客户
 - [[AMZN]]
 - [[GOOGL]]
 - [[MSFT]]
 - [[AT&T]]
-- [[Verizon]]
+- [[CAT]]
 
 ### 竞争对手
 - [[Schneider Electric]]
 - [[ABB]]
 - [[Eaton]]
-- [[CSCO]]
-- [[HPQ]]
+- [[Siemens]]
+- [[Vertiv's competitor: Vertiv]]
 
 ### 核心产品
-- [[Power Distribution Units (PDUs)]]
 - [[Uninterruptible Power Supplies (UPS)]]
-- [[Cooling Systems]]
-- [[Rack-Mount Equipment]]
-- [[Data Center Infrastructure Management (DCIM) Software]]
+- [[Power Distribution Units (PDUs)]]
+- [[Data Center Cooling Systems]]
+- [[Data Center Infrastructure Management (DCIM) software]]
+- [[Power and Thermal Infrastructure Solutions]]
 
 ## 数据来源
 
 - [Vertiv](https://en.wikipedia.org/wiki/Vertiv_Holdings_Co)
 - [Vertiv Holdings Co suppliers manufacturers](https://en.wikipedia.org/wiki/Vertiv)
-- [Vertiv Holdings Co suppliers manufacturers](https://finance.yahoo.com/quote/VRT/)
-- [Vertiv Holdings Co major customers clients](https://finance.yahoo.com/quote/VRT/)
-- [Vertiv Holdings Co major customers clients](https://simplywall.st/stocks/us/capital-goods/nyse-vrt/vertiv-holdings-co)
+- [Vertiv Holdings Co suppliers manufacturers](https://partners.vertiv.com/English/directory)
+- [Vertiv Holdings Co major customers clients](https://en.wikipedia.org/wiki/Vertiv)
+- [Vertiv Holdings Co major customers clients](https://www.appsruntheworld.com/customers-database/vendors/view/vertiv)
 
 ## 元数据
 
-- **更新日期**: 2026-05-18
+- **更新日期**: 2026-05-19
