@@ -4,23 +4,19 @@
   "sector": "Technology",
   "industry": "Software - Application",
   "upstream": [
-    "AMZN",
-    "MSFT",
-    "GOOGL",
-    "ORCL",
-    "IBM"
+    "ExactTarget Inc."
   ],
   "downstream": [
     "AMZN",
-    "AAPL",
-    "Coca‑Cola",
-    "DELL",
-    "HPQ"
+    "GOOGL",
+    "MSFT",
+    "IBM",
+    "Walmart"
   ],
   "competitors": [
     "MSFT",
     "ORCL",
-    "SAP Sales Cloud",
+    "SAP Customer Experience",
     "HubSpot",
     "Zoho CRM"
   ],
@@ -31,7 +27,7 @@
     "Commerce Cloud",
     "Einstein AI"
   ],
-  "extracted_at": "2026-05-19 18:03:33",
+  "extracted_at": "2026-05-20 18:18:52",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +37,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.salesforce.com/company/locations/",
+      "url": "https://en.wikipedia.org/wiki/Salesforce",
       "query": "Salesforce, Inc. suppliers manufacturers",
-      "snippet": "Salesforce has a worldwide presence. Browse our locations across the globe and see how we're changing AI and CRM in your country."
+      "snippet": "Salesforce , Inc ., is an American cloud-based software company headquartered in San Francisco, California. It provides software for sales , customer "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/CRM-Suppliers",
+      "url": "https://www.salesforce.com/",
       "query": "Salesforce, Inc. suppliers manufacturers",
-      "snippet": "Mar 3, 2026 · For your research, we’ve provided nine additional tables on Salesforce Inc ’s suppliers . You can find them in the navigation menu under"
+      "snippet": "ExactTarget Inc ."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.salesforce.com/customer-stories/",
+      "url": "https://www.appsruntheworld.com/customers-database/vendors/view/salesforce",
       "query": "Salesforce, Inc. major customers clients",
-      "snippet": "Discover how Salesforce helps 150,000+ companies increase productivity, customer loyalty, and sales revenue — every day."
+      "snippet": "List of companies using or evaluating Salesforce applications, with details on their revenues, employees, industries, and locations."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.thomsondata.com/customer-base/salesforce-crm.php",
+      "url": "https://csimarket.com/stocks/CRM-Customers",
       "query": "Salesforce, Inc. major customers clients",
-      "snippet": "The Salesforce customers list is a complied contact database of companies using Salesforce CRM. The list includes email addresses, phone numbers, loca"
+      "snippet": "Salesforce Inc ' s Comment on Sales, Marketing and Customers We organize our sales and marketing programs by geographic regions, including the America"
     }
   ]
 }

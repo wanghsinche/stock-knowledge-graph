@@ -4,34 +4,34 @@
   "sector": "Technology",
   "industry": "Software - Infrastructure",
   "upstream": [
-    "AMZN",
-    "MSFT",
-    "GOOGL",
     "DELL",
-    "HPQ"
+    "Cloud infrastructure providers (AWS, Azure, GCP)",
+    "MSFT",
+    "Data center operators",
+    "Security analytics tool vendors"
   ],
   "downstream": [
-    "United States Department of Defense",
-    "National Aeronautics and Space Administration",
-    "JPMorgan Chase",
+    "MSFT",
+    "AMZN",
+    "GOOGL",
     "Bank of America",
-    "MSFT"
+    "U.S. Department of Defense"
   ],
   "competitors": [
     "Palo Alto Networks",
-    "AVGO",
-    "McAfee",
     "SentinelOne",
-    "Carbon Black (VMware)"
+    "McAfee",
+    "Sophos",
+    "Carbon Black"
   ],
   "key_products": [
-    "CrowdStrike Falcon Platform",
+    "Falcon Platform",
     "Falcon Prevent",
     "Falcon Insight",
-    "Falcon OverWatch",
-    "Falcon X"
+    "Falcon Discover",
+    "Falcon OverWatch"
   ],
-  "extracted_at": "2026-05-19 18:03:18",
+  "extracted_at": "2026-05-20 18:14:28",
   "sources": [
     {
       "source": "Wikipedia",
@@ -49,7 +49,7 @@
       "source": "DuckDuckGo",
       "url": "https://csimarket.com/stocks/CRWD-Suppliers",
       "query": "CrowdStrike Holdings, Inc. suppliers manufacturers",
-      "snippet": "Mar 5, 2026 · For your research, we’ve provided nine additional tables on Crowdstrike Holdings Inc ’ s suppliers . You can find them in the navigation"
+      "snippet": "Mar 5, 2026 · For your research, we’ve provided nine additional tables on Crowdstrike Holdings Inc ’s suppliers . You can find them in the navigation "
     },
     {
       "source": "DuckDuckGo",
@@ -59,9 +59,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://simplywall.st/stocks/us/software/nasdaq-crwd/crowdstrike-holdings",
+      "url": "https://www.investing.com/equities/crowdstrike-holdings-inc",
       "query": "CrowdStrike Holdings, Inc. major customers clients",
-      "snippet": "CrowdStrike Holdings , Inc .NasdaqGS:CRWD Stock Report. Market Cap US$114.1b. CrowdStrike Holdings , Inc ., Annual General Meeting, Jun 17, 2026. Apr "
+      "snippet": "CrowdStrike Holdings Inc is listed and trades on the NASDAQ stock exchange. CrowdStrike leads the EDR market with innovative solutions like Falcon Fle"
     }
   ]
 }

@@ -3,11 +3,35 @@
   "company_name": "Rocket Lab Corporation",
   "sector": "Industrials",
   "industry": "Aerospace & Defense",
-  "upstream": [],
-  "downstream": [],
-  "competitors": [],
-  "key_products": [],
-  "extracted_at": "2026-05-19 18:01:21",
+  "upstream": [
+    "Star tracker manufacturers",
+    "Reaction wheel suppliers",
+    "Solar panel manufacturers",
+    "Electric propulsion system suppliers",
+    "Composite structure manufacturers"
+  ],
+  "downstream": [
+    "Planet Labs",
+    "Spire Global",
+    "NASA",
+    "SpaceX",
+    "Axiom Space"
+  ],
+  "competitors": [
+    "SpaceX",
+    "Blue Origin",
+    "Relativity Space",
+    "Virgin Orbit",
+    "Astra"
+  ],
+  "key_products": [
+    "Electron orbital rocket",
+    "HASTE suborbital rocket",
+    "Neutron medium‑lift rocket",
+    "Satellite components (star trackers, reaction wheels, solar panels)",
+    "Electric propulsion systems"
+  ],
+  "extracted_at": "2026-05-20 18:13:19",
   "sources": [
     {
       "source": "Wikipedia",
@@ -17,15 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Rocket_Lab",
+      "url": "https://rocketlabcorp.com/",
       "query": "Rocket Lab Corporation suppliers manufacturers",
-      "snippet": "Rocket Lab Corporation is a publicly traded aerospace manufacturer and launch service provider. [10] Its Electron orbital rocket launches small satell"
+      "snippet": "Cumulative Years In Space For Rocket Lab Satellite Technology. From Idea To Orbit. Rocket Lab is an end-to-end space company delivering reliable launc"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://payloadspace.com/rocket-lab-snags-ir-sensor-maker-in-275m-deal/",
+      "url": "https://seekingalpha.com/symbol/RKLB",
       "query": "Rocket Lab Corporation suppliers manufacturers",
-      "snippet": "May 28, 2025 · Rocket Lab ($RKLB) announced its purchase of Geost, an AZ-based company that builds electro-optical and IR sensor payloads for satellit"
+      "snippet": "RKLB Rocket Lab Corporation . Stock Price & Overview. Rocket Lab Corporation , a space company, provides launch services and space systems solutions i"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/Rocket_Lab",
+      "query": "Rocket Lab Corporation major customers clients",
+      "snippet": "The company is a major spacecraft manufacturer, building and operating satellites for commercial constellation operators such as Globalstar, [21] as w"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/RKLB-Customers",
+      "query": "Rocket Lab Corporation major customers clients",
+      "snippet": "6 days ago · Rocket Lab customers and markets, results by customer and performance relative to RKLB, by company and industry - CSIMarket"
     }
   ]
 }

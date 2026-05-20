@@ -1,37 +1,37 @@
 {
   "ticker": "WMT",
   "company_name": "Walmart Inc.",
-  "sector": "Consumer Defensive",
-  "industry": "Discount Stores",
+  "sector": "Consumer Defensive / Discount Stores",
+  "industry": "Retail - Discount Stores",
   "upstream": [
+    "Plug Power Inc.",
     "Procter & Gamble",
+    "HPQ",
     "Coca‑Cola",
-    "PepsiCo",
-    "Nestlé",
-    "Unilever"
+    "Nike"
   ],
   "downstream": [
-    "U.S. consumers",
-    "Canadian consumers",
-    "Mexican consumers",
-    "International shoppers",
-    "Corporate buyers"
+    "Consumers",
+    "Online shoppers",
+    "Small businesses",
+    "Local communities",
+    "Corporate clients"
   ],
   "competitors": [
-    "Target",
-    "Costco",
-    "AMZN",
-    "BJ’s Wholesale Club",
-    "Kroger"
+    "Target Corp.",
+    "Costco Wholesale Corp.",
+    "Dollar General Corp.",
+    "Aldi Inc.",
+    "BJ’s Wholesale Club"
   ],
   "key_products": [
-    "Groceries",
-    "Apparel",
-    "Electronics",
-    "Household goods",
-    "Pharmacy products"
+    "Grocery and fresh produce",
+    "Household goods and appliances",
+    "Electronics and computers",
+    "Apparel and footwear",
+    "Pharmacy and health products"
   ],
-  "extracted_at": "2026-05-19 18:14:53",
+  "extracted_at": "2026-05-20 18:14:51",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,21 +47,21 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.investopedia.com/articles/insights/050116/walmart-stock-analyzing-5-key-suppliers-wmt.asp",
+      "url": "https://solatatech.com/article/5-key-suppliers-of-walmart",
       "query": "Walmart Inc. suppliers manufacturers",
-      "snippet": "Mar 28, 2026 · Explore major Walmart suppliers , the companies depended on to provide the products Walmart sells. Learn how being a supplier to Walmar"
+      "snippet": "18 hours ago · Key Takeaways 1. Plug PowerInc. 2. Proctor & Gamble 3. HP Inc . 4. Green Dot Corporation 5. Primo Water Corporation Where Does Walmart "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://capitaloneshopping.com/research/walmart-statistics/",
+      "url": "https://en.wikipedia.org/wiki/Walmart",
       "query": "Walmart Inc. major customers clients",
-      "snippet": "Nov 6, 2025 · Latest available data on Walmart ' s size and market share, both offline and online, with total sales and revenue breakdowns by year."
+      "snippet": "Walmart Inc . is an American multinational retail corporation that operates a chain of hypermarkets, discount department stores, and grocery stores in"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://businessmodelanalyst.com/walmart-target-market/",
+      "url": "https://www.walmart.com/",
       "query": "Walmart Inc. major customers clients",
-      "snippet": "Dec 2, 2024 · This article will examine Walmart target market and approach to reaching a broad yet carefully segmented customer base."
+      "snippet": "Shop Walmart .com today for Every Day Low Prices. Join Walmart + for unlimited free delivery from your store & free shipping with no order minimum. St"
     }
   ]
 }

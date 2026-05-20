@@ -4,34 +4,34 @@
   "sector": "Technology",
   "industry": "Semiconductors",
   "upstream": [
-    "Shin-Etsu Chemical",
-    "Sumitomo Chemical",
-    "Tokyo Electron",
+    "ASML",
     "AMAT",
-    "ASML"
+    "LRCX",
+    "Tokyo Electron",
+    "KLA"
   ],
   "downstream": [
     "AAPL",
-    "MSFT",
-    "AMZN",
-    "GOOGL",
-    "Huawei"
+    "DELL",
+    "HPQ",
+    "SONY",
+    "TSLA"
   ],
   "competitors": [
     "005930.KS",
     "SK Hynix",
     "Nanya Technology",
-    "Kingston Technology",
-    "Crucial"
+    "WDC",
+    "STX"
   ],
   "key_products": [
     "DRAM",
     "NAND flash memory",
-    "SSD",
-    "3D NAND",
-    "High‑bandwidth memory (HBM)"
+    "SSDs",
+    "Embedded DRAM",
+    "3D NAND"
   ],
-  "extracted_at": "2026-05-19 17:56:51",
+  "extracted_at": "2026-05-20 18:09:27",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Micron_Technology",
+      "url": "https://www.micron.com/about/company/suppliers",
       "query": "Micron Technology, Inc. suppliers manufacturers",
-      "snippet": "Micron Technology , Inc . is an American multinational semiconductor company that manufactures computer memory and computer data storage products, inc"
+      "snippet": "Suppliers interested in doing business with Micron must register and create an account to submit a supplier profile through Gainfront, Micron’s truste"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.micron.com/",
+      "url": "https://csimarket.com/stocks/MU-Suppliers",
       "query": "Micron Technology, Inc. suppliers manufacturers",
-      "snippet": "Micron engineers advanced memory and storage solutions designed to meet the dynamic demands of industrial IoT and aerospace systems. Our technologies "
+      "snippet": "Micron Technology Inc supply chain, list and performance of Micron Technology Incs ' suppliers - CSIMarket"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/Micron_Technology",
+      "query": "Micron Technology, Inc. major customers clients",
+      "snippet": "Micron Technology, Inc. is an American multinational semiconductor company that manufactures computer memory and computer data storage products, inclu"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://csimarket.com/stocks/MU-Customers",
       "query": "Micron Technology, Inc. major customers clients",
       "snippet": "Micron Technology Inc's Comment on Sales, Marketing and Customers Our products are sold into compute and graphics, mobile, SSD and other storage, auto"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.trendforce.com/news/2025/06/26/news-micron-scales-up-hbm-to-four-major-gpuasic-clients-targets-24-market-share-by-year-end/",
-      "query": "Micron Technology, Inc. major customers clients",
-      "snippet": "Notably, Micron said in its press release that it is now shipping high-volume HBM to four customers across both GPU and ASIC platforms. The company, t"
     }
   ]
 }

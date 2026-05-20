@@ -3,8 +3,8 @@ ticker: PLTR
 company: Palantir Technologies Inc.
 sector: Technology
 industry: Software - Infrastructure
-extracted_at: 2026-05-19 18:01:47
-last_updated: 2026-05-19
+extracted_at: 2026-05-20 18:12:27
+last_updated: 2026-05-20
 ---
 
 # PLTR - Palantir Technologies Inc.
@@ -12,7 +12,7 @@ last_updated: 2026-05-19
 ## 基本信息
 
 - **所属行业**: Technology / Software - Infrastructure
-- **提取时间**: 2026-05-19 18:01:47
+- **提取时间**: 2026-05-20 18:12:27
 
 ## 产业链关系
 
@@ -20,38 +20,38 @@ last_updated: 2026-05-19
 - [[AMZN]]
 - [[MSFT]]
 - [[GOOGL]]
-- [[INTC]]
-- [[NVDA]]
+- [[IBM]]
+- [[ORCL]]
 
 ### 下游客户
 - [[U.S. Department of Defense]]
 - [[INTC]]
-- [[Federal Bureau of Investigation]]
-- [[JPMorgan Chase]]
-- [[Walmart]]
+- [[U.S. Department of Homeland Security]]
+- [[U.S. Department of Justice]]
+- [[U.S. Department of Energy]]
 
 ### 竞争对手
 - [[Snowflake]]
 - [[Databricks]]
 - [[Splunk]]
+- [[Tableau]]
 - [[Qlik]]
-- [[Alteryx]]
 
 ### 核心产品
 - [[Palantir Foundry]]
 - [[Palantir Gotham]]
 - [[Palantir Apollo]]
 - [[Palantir Helios]]
-- [[Palantir Data Integration Platform]]
+- [[Palantir Platform]]
 
 ## 数据来源
 
 - [Palantir](https://en.wikipedia.org/wiki/Palantir_Technologies_Inc.)
-- [Palantir Technologies Inc. suppliers manufacturers](https://csimarket.com/stocks/PLTR-Suppliers)
-- [Palantir Technologies Inc. suppliers manufacturers](https://theirstack.com/en/technology/palantir)
-- [Palantir Technologies Inc. major customers clients](https://www.appsruntheworld.com/customers-database/products/view/palantir-foundry)
-- [Palantir Technologies Inc. major customers clients](https://www.designgurus.io/answers/detail/who-are-the-main-customers-of-palantir)
+- [Palantir Technologies Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/Palantir)
+- [Palantir Technologies Inc. suppliers manufacturers](https://finance.yahoo.com/quote/PLTR/)
+- [Palantir Technologies Inc. major customers clients](https://data.landbase.com/technology/palantir/)
+- [Palantir Technologies Inc. major customers clients](https://financhill.com/blog/investing/who-are-palantir-biggest-customers)
 
 ## 元数据
 
-- **更新日期**: 2026-05-19
+- **更新日期**: 2026-05-20

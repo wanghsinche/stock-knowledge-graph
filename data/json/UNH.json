@@ -2,36 +2,36 @@
   "ticker": "UNH",
   "company_name": "UnitedHealth Group Incorporated",
   "sector": "Healthcare",
-  "industry": "Healthcare Plans",
+  "industry": "Health Insurance / Healthcare Plans",
   "upstream": [
     "Pharmaceutical manufacturers",
     "Medical device manufacturers",
     "Health IT vendors",
-    "Pharmacy benefit managers",
-    "Healthcare technology providers"
+    "Data analytics providers",
+    "Technology services providers"
   ],
   "downstream": [
-    "Employers and corporate groups",
+    "U.S. federal government (Medicare, Medicaid)",
+    "Large corporate employers (e.g., Walmart, AT&T)",
+    "State governments",
     "Individual consumers",
-    "Government programs (Medicare, Medicaid)",
-    "Health care providers (hospitals, clinics)",
-    "Retail pharmacies"
+    "Health care providers (hospitals, clinics)"
   ],
   "competitors": [
     "Anthem",
-    "Aetna",
+    "Aetna (CVS Health)",
     "Cigna",
     "Humana",
-    "Molina Healthcare"
+    "Blue Cross Blue Shield"
   ],
   "key_products": [
-    "Commercial health insurance plans",
-    "Medicare Advantage plans",
-    "Medicaid managed care",
-    "Pharmacy benefit management services",
-    "Optum health services (clinical, pharmacy, data analytics)"
+    "UnitedHealthcare insurance plans (individual, group, Medicare Advantage, Medicaid)",
+    "Optum health services (OptumHealth, OptumInsight, OptumRx)",
+    "Pharmacy benefit management",
+    "Health data analytics",
+    "Telehealth services"
   ],
-  "extracted_at": "2026-05-18 17:58:26",
+  "extracted_at": "2026-05-20 18:16:23",
   "sources": [
     {
       "source": "Wikipedia",
@@ -53,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://pitchgrade.com/companies/unitedhealth",
+      "url": "https://en.wikipedia.org/wiki/UnitedHealth_Group",
       "query": "UnitedHealth Group Incorporated major customers clients",
-      "snippet": "Customer Segments: UnitedHealth Group Incorporated serves multiple distinct customer segments, which may include consumers, small and medium businesse"
+      "snippet": "UnitedHealth Group Incorporated is an American multinational for-profit company based in Eden Prairie, Minnesota, specializing in health insurance and"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/UNH-Business-Segments",
+      "url": "https://csimarket.com/stocks/UNH-Customers",
       "query": "UnitedHealth Group Incorporated major customers clients",
-      "snippet": "Conclusion UnitedHealth Group Incorporated 's extensive suite of healthcare solutions addresses the wide-ranging needs of consumers, employers, and go"
+      "snippet": "For your research, we’ve provided 9 tables on Unitedhealth Group Incorporated corporate clients . You can find them in the navigation menu under Custo"
     }
   ]
 }

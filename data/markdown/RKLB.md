@@ -3,8 +3,8 @@ ticker: RKLB
 company: Rocket Lab Corporation
 sector: Industrials
 industry: Aerospace & Defense
-extracted_at: 2026-05-19 18:01:21
-last_updated: 2026-05-19
+extracted_at: 2026-05-20 18:13:19
+last_updated: 2026-05-20
 ---
 
 # RKLB - Rocket Lab Corporation
@@ -12,28 +12,46 @@ last_updated: 2026-05-19
 ## 基本信息
 
 - **所属行业**: Industrials / Aerospace & Defense
-- **提取时间**: 2026-05-19 18:01:21
+- **提取时间**: 2026-05-20 18:13:19
 
 ## 产业链关系
 
 ### 上游供应商
-_暂无数据_
+- [[Star tracker manufacturers]]
+- [[Reaction wheel suppliers]]
+- [[Solar panel manufacturers]]
+- [[Electric propulsion system suppliers]]
+- [[Composite structure manufacturers]]
 
 ### 下游客户
-_暂无数据_
+- [[Planet Labs]]
+- [[Spire Global]]
+- [[NASA]]
+- [[SpaceX]]
+- [[Axiom Space]]
 
 ### 竞争对手
-_暂无数据_
+- [[SpaceX]]
+- [[Blue Origin]]
+- [[Relativity Space]]
+- [[Virgin Orbit]]
+- [[Astra]]
 
 ### 核心产品
-_暂无数据_
+- [[Electron orbital rocket]]
+- [[HASTE suborbital rocket]]
+- [[Neutron medium‑lift rocket]]
+- [[Satellite components (star trackers, reaction wheels, solar panels)]]
+- [[Electric propulsion systems]]
 
 ## 数据来源
 
 - [Rocket Lab](https://en.wikipedia.org/wiki/Rocket_Lab_Corporation)
-- [Rocket Lab Corporation suppliers manufacturers](https://en.wikipedia.org/wiki/Rocket_Lab)
-- [Rocket Lab Corporation suppliers manufacturers](https://payloadspace.com/rocket-lab-snags-ir-sensor-maker-in-275m-deal/)
+- [Rocket Lab Corporation suppliers manufacturers](https://rocketlabcorp.com/)
+- [Rocket Lab Corporation suppliers manufacturers](https://seekingalpha.com/symbol/RKLB)
+- [Rocket Lab Corporation major customers clients](https://en.wikipedia.org/wiki/Rocket_Lab)
+- [Rocket Lab Corporation major customers clients](https://csimarket.com/stocks/RKLB-Customers)
 
 ## 元数据
 
-- **更新日期**: 2026-05-19
+- **更新日期**: 2026-05-20

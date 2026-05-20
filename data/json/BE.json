@@ -4,34 +4,34 @@
   "sector": "Industrials",
   "industry": "Electrical Equipment & Parts",
   "upstream": [
-    "Fuel cell stack component suppliers",
-    "Electrolyte material suppliers",
     "Natural gas suppliers",
     "Hydrogen suppliers",
-    "Power electronics suppliers"
+    "Biogas suppliers",
+    "Ceramic material suppliers",
+    "Electrolyzer component manufacturers"
   ],
   "downstream": [
     "AMZN",
-    "GOOGL",
     "MSFT",
-    "Facebook Data Centers",
-    "IBM"
+    "GOOGL",
+    "Facebook",
+    "Walmart"
   ],
   "competitors": [
     "FuelCell Energy",
-    "Engie",
-    "Siemens Energy",
-    "GE Renewable Energy",
+    "Plug Power",
+    "Ballard Power Systems",
+    "NRG Energy",
     "PowerCell Sweden"
   ],
   "key_products": [
-    "Solid Oxide Fuel Cells (SOFC)",
+    "Solid Oxide Fuel Cells (SOFCs)",
     "Electrolyzers for hydrogen production",
-    "Onsite power generation systems",
-    "Power conversion systems",
-    "Energy storage solutions"
+    "On‑site power generation systems",
+    "Renewable energy solutions",
+    "Power management software"
   ],
-  "extracted_at": "2026-05-19 18:06:46",
+  "extracted_at": "2026-05-20 18:13:04",
   "sources": [
     {
       "source": "Wikipedia",
@@ -53,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.bloomenergy.com/customers/",
+      "url": "https://en.wikipedia.org/wiki/Bloom_Energy",
       "query": "Bloom Energy Corporation major customers clients",
-      "snippet": "Bloom Energy ' s customers have important goals: clean energy, dependency, resiliency, reliability, and affordability. We're here to help reach those "
+      "snippet": "Bloom Energy (formerly, Ion America) is an American public company that designs and manufactures solid oxide fuel cells (SOFCs) which independently pr"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/BE-Customers",
+      "url": "https://www.bloomenergy.com/customers/",
       "query": "Bloom Energy Corporation major customers clients",
-      "snippet": "6 days ago · For your research, we’ve provided 9 tables on Bloom Energy Corporation corporate clients . You can find them in the navigation menu under"
+      "snippet": "Bloom Energy ' s customers have important goals: clean energy, dependency, resiliency, reliability, and affordability. We're here to help reach those "
     }
   ]
 }

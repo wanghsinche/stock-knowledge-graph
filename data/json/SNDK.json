@@ -2,36 +2,36 @@
   "ticker": "SNDK",
   "company_name": "SanDisk Corporation",
   "sector": "Technology",
-  "industry": "Semiconductor",
+  "industry": "Computer Hardware",
   "upstream": [
     "MU",
     "005930.KS",
     "SK Hynix",
-    "WDC",
-    "Nanya Technology"
+    "Toshiba Memory",
+    "INTC"
   ],
   "downstream": [
-    "AAPL",
-    "MSFT",
     "DELL",
     "HPQ",
-    "SONY"
+    "Lenovo Group",
+    "AAPL",
+    "MSFT"
   ],
   "competitors": [
     "MU",
     "005930.KS",
     "SK Hynix",
-    "WDC",
-    "INTC"
+    "Toshiba Memory",
+    "WDC"
   ],
   "key_products": [
     "Solid State Drives (SSDs)",
-    "USB flash drives",
-    "SD cards",
-    "Memory cards",
-    "Enterprise storage solutions"
+    "USB Flash Drives",
+    "SD Cards",
+    "microSD Cards",
+    "Internal and External SSDs for servers"
   ],
-  "extracted_at": "2026-05-19 17:57:28",
+  "extracted_at": "2026-05-20 18:10:36",
   "sources": [
     {
       "source": "Wikipedia",
@@ -53,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Sandisk",
+      "url": "https://en.wikipedia.org/wiki/SanDisk",
       "query": "Sandisk Corporation major customers clients",
-      "snippet": "5 days ago - Sandisk Corporation (formerly SunDisk Corporation) is an American multinational semiconductor company based in Milpitas, California. Foun"
+      "snippet": "SanDisk Corporation (formerly SunDisk Corporation) is an American multinational semiconductor company based in Milpitas, California. [3] Founded in 19"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.cbinsights.com/company/sandisk",
+      "url": "https://data.landbase.com/technology/sandisk/",
       "query": "Sandisk Corporation major customers clients",
-      "snippet": "Micron is also a memory and storage stock, and it is benefiting from the same supercycle as Sandisk. While there is some overlap, as Micron also provi"
+      "snippet": "Aug 17, 2025 · Our SanDisk customers list is available for download and comes enriched with vital company specifics, including industry classification"
     }
   ]
 }

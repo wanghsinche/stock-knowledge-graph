@@ -5,33 +5,33 @@
   "industry": "Semiconductor Equipment & Materials",
   "upstream": [
     "Silicon wafer suppliers",
-    "Chemical and process gas suppliers",
+    "Chemical feedstock providers",
+    "Precision component manufacturers",
     "META",
-    "Electronic component manufacturers",
-    "Software and control system vendors"
+    "Cleanroom equipment vendors"
   ],
   "downstream": [
+    "INTC",
     "TSM",
     "005930.KS",
-    "INTC",
-    "GlobalFoundries",
-    "MU"
+    "SK Hynix",
+    "GlobalFoundries"
   ],
   "competitors": [
     "ASML",
+    "Tokyo Electron Limited",
     "LRCX",
-    "Tokyo Electron",
     "KLA Corporation",
-    "Teradyne"
+    "AMAT"
   ],
   "key_products": [
-    "Lithography systems",
-    "Deposition equipment (CVD, PVD)",
-    "Etching and plasma systems",
-    "Wafer cleaning and inspection tools",
-    "Packaging and assembly equipment"
+    "Chemical Vapor Deposition (CVD) systems",
+    "Atomic Layer Deposition (ALD) equipment",
+    "Etch and deposition tools",
+    "Inspection and metrology instruments",
+    "Packaging and assembly solutions"
   ],
-  "extracted_at": "2026-05-19 18:04:03",
+  "extracted_at": "2026-05-20 18:15:56",
   "sources": [
     {
       "source": "Wikipedia",
@@ -53,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/AMAT-Customers",
+      "url": "https://en.wikipedia.org/wiki/Applied_Materials",
       "query": "Applied Materials, Inc. major customers clients",
-      "snippet": "This investigation comes at a time when financial indicators suggest significant challenges for Applied Materials and its corporate clientele , raisin"
+      "snippet": "Applied Materials , Inc . is an American corporation that supplies equipment, services and software for the manufacture of semiconductor (integrated c"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://portersfiveforce.com/blogs/target-market/appliedmaterials",
+      "url": "https://csimarket.com/stocks/AMAT-Customers",
       "query": "Applied Materials, Inc. major customers clients",
-      "snippet": "Nov 9, 2025 · The target demographic has shifted to a focus on the top 10 global semiconductor producers. These key clients of Applied Materials repre"
+      "snippet": "This investigation comes at a time when financial indicators suggest significant challenges for Applied Materials and its corporate clientele , raisin"
     }
   ]
 }

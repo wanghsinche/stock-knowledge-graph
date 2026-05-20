@@ -6,32 +6,32 @@
   "upstream": [
     "Book publishers",
     "Electronics manufacturers",
-    "Apparel brands",
-    "Consumer electronics makers",
-    "Third‑party sellers"
+    "Apparel and fashion suppliers",
+    "AMZN",
+    "Logistics and fulfillment partners"
   ],
   "downstream": [
-    "Retail consumers",
-    "Enterprise customers (AWS)",
-    "Advertising clients",
-    "Prime members",
-    "Third‑party sellers"
+    "Individual consumers",
+    "Small and medium businesses using AWS",
+    "AMZN",
+    "AMZN",
+    "AMZN"
   ],
   "competitors": [
-    "Walmart",
-    "Alibaba",
-    "eBay",
-    "Target",
-    "Shopify"
+    "Walmart Inc.",
+    "Alibaba Group Holding Ltd.",
+    "eBay Inc.",
+    "Shopify Inc.",
+    "Target Corp."
   ],
   "key_products": [
-    "Amazon.com e‑commerce platform",
+    "Amazon Marketplace",
+    "Amazon Prime subscription",
     "Amazon Web Services (AWS)",
-    "Amazon Prime Video",
-    "Amazon Echo (Alexa)",
-    "Amazon Kindle"
+    "Amazon Advertising",
+    "Amazon Devices (Echo, Kindle, Fire)"
   ],
-  "extracted_at": "2026-05-19 17:58:15",
+  "extracted_at": "2026-05-20 18:11:11",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.alibaba.com/",
+      "url": "https://supply.amazon.com/",
       "query": "Amazon.com, Inc. suppliers manufacturers",
-      "snippet": "Find quality Manufacturers , Suppliers , Exporters, Importers, Buyers, Wholesalers, Products and Trade Leads from our award-winning International Trad"
+      "snippet": "Join Amazon' s global network of suppliers to be considered for opportunities to sell Amazon the goods and services necessary to support our retail an"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://d39w7f4ix9f5s9.cloudfront.net/cb/19/77dfc5b441c892cd6e2be166ba70/final-amazon-supplier-list-2019-11-14-updated-1005am.pdf",
+      "query": "Amazon.com, Inc. suppliers manufacturers",
+      "snippet": "Nov 14, 2019 · Our global teams work closely with suppliers to communicate our standards, and help suppliers build their capacity to provide safe and "
     },
     {
       "source": "DuckDuckGo",
       "url": "https://ir.aboutamazon.com/",
-      "query": "Amazon.com, Inc. suppliers manufacturers",
+      "query": "Amazon.com, Inc. major customers clients",
       "snippet": "Amazon . com Announces Fourth Quarter Results. Amazon . com , Inc . (NASDAQ: AMZN) today announced financial results for its fourth quarter ended Dece"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://capitaloneshopping.com/research/amazon-statistics/",
+      "url": "https://www.amazon.com/Purifier-Filters-Dual-way-Tracking-Quality/dp/B0F32TGRMR",
       "query": "Amazon.com, Inc. major customers clients",
-      "snippet": "Mar 29, 2026 · Over 310 million global consumers shop on Amazon at least once a year. 2 million active selling partners have shops on Amazon. Independ"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.businessofapps.com/data/amazon-statistics/",
-      "query": "Amazon.com, Inc. major customers clients",
-      "snippet": "May 5, 2026 · Amazon is one of the most recognisable brands in the world, and the third largest by revenue. It was the fourth tech company to reach a "
+      "snippet": "Amazon . com assumes no liability for inaccuracies or misstatements about products.50K+ customers rate items from this brand highly. Trending. 50K+ or"
     }
   ]
 }

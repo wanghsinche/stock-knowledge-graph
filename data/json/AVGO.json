@@ -4,34 +4,34 @@
   "sector": "Technology",
   "industry": "Semiconductors",
   "upstream": [
+    "TSM",
+    "005930.KS",
+    "GlobalFoundries",
     "ASML",
-    "AMAT",
-    "LRCX",
-    "Tokyo Electron",
-    "KLA"
+    "LRCX"
   ],
   "downstream": [
-    "005930.KS",
-    "AAPL",
     "CSCO",
-    "Huawei",
-    "DELL"
+    "DELL",
+    "HPQ",
+    "IBM",
+    "AMZN"
   ],
   "competitors": [
-    "INTC",
     "QCOM",
+    "INTC",
     "NVDA",
     "TXN",
     "MRVL"
   ],
   "key_products": [
-    "Ethernet controllers",
-    "Broadband modems",
-    "Wireless chips (Wi‑Fi, 5G)",
-    "Storage controllers",
-    "Data center networking chips"
+    "Broadcom 7000 Series Ethernet Controllers",
+    "Broadcom Wi‑Fi and Bluetooth SoCs",
+    "Broadcom Broadband Modems",
+    "Broadcom Storage Controllers",
+    "Broadcom Data Center ASICs"
   ],
-  "extracted_at": "2026-05-19 17:59:20",
+  "extracted_at": "2026-05-20 18:11:42",
   "sources": [
     {
       "source": "Wikipedia",
@@ -59,9 +59,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/AVGO-Customers",
+      "url": "https://www.broadcom.com/support",
       "query": "Broadcom Inc. major customers clients",
-      "snippet": "Sales to our five largest customers represented 48.3%. Sales to Samsung represented 21.3%. Sales to Apple represented 13.3%."
+      "snippet": "Access Broadcom 's Customer Support Portal to obtain warranty information, find documentation and downloads, and answer other questions you might have"
     }
   ]
 }

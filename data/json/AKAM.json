@@ -5,15 +5,15 @@
   "industry": "Software - Infrastructure",
   "upstream": [
     "CSCO",
-    "JNPR",
-    "ANET",
-    "DELL",
-    "IBM"
+    "MSFT",
+    "Internet backbone providers (e.g., AT&T, Verizon)",
+    "MSFT",
+    "Content delivery hardware manufacturers"
   ],
   "downstream": [
     "NFLX",
-    "MSFT",
     "AMZN",
+    "MSFT",
     "GOOGL",
     "Facebook"
   ],
@@ -29,9 +29,9 @@
     "Akamai Kona Site Defender",
     "Akamai Bot Manager",
     "Akamai Enterprise Threat Protector",
-    "Akamai Media Delivery"
+    "Akamai Cloud Security"
   ],
-  "extracted_at": "2026-05-08 17:07:43",
+  "extracted_at": "2026-05-20 18:14:14",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,25 +43,25 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Akamai_Technologies",
       "query": "Akamai Technologies, Inc. suppliers manufacturers",
-      "snippet": "Akamai Technologies, Inc. is an American company specializing in content delivery network (CDN), cybersecurity, DDoS mitigation, and cloud services. M"
+      "snippet": "Akamai Technologies , Inc . is an American company specializing in content delivery network [4] (CDN), cybersecurity, DDoS mitigation, and cloud servi"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.akamai.com/channel-partners/directory",
+      "url": "https://csimarket.com/stocks/AKAM-Suppliers",
       "query": "Akamai Technologies, Inc. suppliers manufacturers",
-      "snippet": "Access the Akamai channel partner directory that includes value-added resellers, systems integrators and managed service providers. Missing: suppliers"
+      "snippet": "Akamai Technologies Inc supply chain, list and performance of Akamai Technologies Incs ' suppliers - CSIMarket"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Akamai_Technologies",
       "query": "Akamai Technologies, Inc. major customers clients",
-      "snippet": "Akamai Technologies, Inc. is an American company specializing in content delivery network (CDN), cybersecurity, DDoS mitigation, and cloud services."
+      "snippet": "Akamai Technologies , Inc . is an American company specializing in content delivery network, cybersecurity, DDoS mitigation, and cloud services. It is"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.akamai.com/resources/customer-story",
+      "url": "https://ru.wikipedia.org/wiki/Akamai_Technologies",
       "query": "Akamai Technologies, Inc. major customers clients",
-      "snippet": "Read about our customers and how they are using Akamai to power and protect life online. Missing: major | Show results with: major"
+      "snippet": "Akamai Technologies , Inc . Изображение логотипа. Akamai Technologies ([ɑːkəmaɪ]; NASDAQ: AKAM. ) — поставщик услуг для акселерации веб-сайтов, провай"
     }
   ]
 }

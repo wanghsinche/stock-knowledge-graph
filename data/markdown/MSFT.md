@@ -3,8 +3,8 @@ ticker: MSFT
 company: Microsoft Corporation
 sector: Technology
 industry: Software - Infrastructure
-extracted_at: 2026-05-19 17:58:04
-last_updated: 2026-05-19
+extracted_at: 2026-05-20 18:10:52
+last_updated: 2026-05-20
 ---
 
 # MSFT - Microsoft Corporation
@@ -12,46 +12,46 @@ last_updated: 2026-05-19
 ## 基本信息
 
 - **所属行业**: Technology / Software - Infrastructure
-- **提取时间**: 2026-05-19 17:58:04
+- **提取时间**: 2026-05-20 18:10:52
 
 ## 产业链关系
 
 ### 上游供应商
-- [[INTC]]
-- [[AMD]]
 - [[NVDA]]
-- [[005930.KS]]
-- [[LG Display]]
+- [[TSM]]
+- [[DELL]]
+- [[GOOGL]]
+- [[Software component vendors (e.g., Red Hat, VMware)]]
 
 ### 下游客户
-- [[Walmart]]
-- [[JPMorgan Chase]]
-- [[AT&T]]
-- [[Verizon]]
-- [[U.S. Department of Defense]]
+- [[Enterprise customers (e.g., banks, government agencies, healthcare providers)]]
+- [[Small and medium businesses using Office 365 and Dynamics]]
+- [[Individual consumers via Windows, Xbox, Surface devices]]
+- [[MSFT]]
+- [[OEMs integrating Windows and Azure into their products]]
 
 ### 竞争对手
 - [[AAPL]]
 - [[GOOGL]]
 - [[AMZN]]
-- [[IBM]]
 - [[ORCL]]
+- [[CRM]]
 
 ### 核心产品
 - [[Windows operating system]]
 - [[Microsoft Office suite]]
-- [[Azure cloud services]]
+- [[Azure cloud platform]]
 - [[Microsoft Teams]]
-- [[Surface devices]]
+- [[Xbox gaming console]]
 
 ## 数据来源
 
 - [Microsoft](https://en.wikipedia.org/wiki/Microsoft_Corporation)
 - [Microsoft Corporation suppliers manufacturers](https://csimarket.com/stocks/MSFT-Suppliers)
-- [Microsoft Corporation suppliers manufacturers](https://www.microsoft.com/en-us/procurement)
-- [Microsoft Corporation major customers clients](https://www.appsruntheworld.com/customers-database/vendors/view/microsoft)
-- [Microsoft Corporation major customers clients](https://www.microsoft.com/investor/reports/ar13/financial-review/business-description/customers/index.html)
+- [Microsoft Corporation suppliers manufacturers](https://download.microsoft.com/download/F/3/8/F38AF681-EB3A-4645-A9C4-D4F31B8BA8F2/Microsoft+Top+100+Production+Suppliers.pdf)
+- [Microsoft Corporation major customers clients](https://csimarket.com/stocks/MSFT-Customers)
+- [Microsoft Corporation major customers clients](https://www.microsoft.com/en-us/customers/)
 
 ## 元数据
 
-- **更新日期**: 2026-05-19
+- **更新日期**: 2026-05-20

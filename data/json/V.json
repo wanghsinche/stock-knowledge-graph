@@ -4,36 +4,34 @@
   "sector": "Financial Services",
   "industry": "Credit Services",
   "upstream": [
-    "Card manufacturing companies (e.g., Gemalto, IDEMIA)",
-    "Payment processing technology providers (e.g., Fiserv, First Data)",
-    "Security and fraud‑detection vendors (e.g., Experian, LexisNexis)",
+    "Card manufacturers (e.g., Gemalto, IDEMIA)",
+    "Payment network technology vendors",
+    "Security and fraud‑prevention service providers",
     "MSFT",
-    "Chip and PIN technology suppliers (e.g., NXP Semiconductors)"
+    "Data analytics and cloud infrastructure providers"
   ],
   "downstream": [
-    "Major banks and financial institutions (e.g., JPMorgan Chase, Bank of America)",
-    "AMZN",
-    "Small and medium‑enterprise merchants",
-    "Consumers using Visa‑branded cards",
-    "Payment service providers (e.g., PayPal, Square)"
+    "Commercial banks and credit unions",
+    "Retail merchants and e‑commerce platforms",
+    "Financial institutions issuing Visa‑branded cards",
+    "Consumers using Visa credit/debit/prepaid cards",
+    "Payment processors and acquirers"
   ],
   "competitors": [
     "Mastercard",
     "American Express",
-    "Discover",
-    "JCB",
-    "UnionPay"
+    "Discover Financial Services",
+    "PayPal",
+    "Square"
   ],
   "key_products": [
-    "Visa payment network",
     "Visa credit cards",
     "Visa debit cards",
     "Visa prepaid cards",
-    "Visa mobile payment services (e.g., Visa Checkout, Visa PayWave)",
-    "Visa Direct real‑time payments",
-    "Visa Token Service"
+    "Visa payment network services",
+    "Visa Direct real‑time payments"
   ],
-  "extracted_at": "2026-05-19 18:12:20",
+  "extracted_at": "2026-05-20 18:19:15",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,15 +41,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Visa_Inc.",
+      "url": "https://csimarket.com/stocks/V-Suppliers",
       "query": "Visa Inc. suppliers manufacturers",
-      "snippet": "Prior to October 3, 2007, Visa comprised four non-stock, separately incorporated companies that employed 6,000 people worldwide: the worldwide parent "
+      "snippet": "Visa Inc ' s Suppliers recorded an increase in sales by 22.29 % year on year in Q1 2026, from the previous quarter, sales fell by -21.97 %, while thei"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://usa.visa.com/partner-with-us/info-for-partners/info-for-suppliers.html",
+      "url": "https://d1.awsstatic.com/whitepapers/compliance/Visa_Global_Registry_of_Service_Providers_June_30_2025.pdf",
       "query": "Visa Inc. suppliers manufacturers",
-      "snippet": "Visa recognizes the value of engaging with a broad group of suppliers , including small and micro-sized businesses (SMBs), and provides opportunities "
+      "snippet": "The Global Registry of Service Providers lists all approved vendors (card manufacturers , magnetic-stripe card personalizers, IC personalizers, IC pre"
     },
     {
       "source": "DuckDuckGo",

@@ -3,8 +3,8 @@ ticker: JPM
 company: JPMorgan Chase & Co.
 sector: Financial Services
 industry: Banks - Diversified
-extracted_at: 2026-05-15 17:37:27
-last_updated: 2026-05-15
+extracted_at: 2026-05-20 18:17:58
+last_updated: 2026-05-20
 ---
 
 # JPM - JPMorgan Chase & Co.
@@ -12,37 +12,37 @@ last_updated: 2026-05-15
 ## 基本信息
 
 - **所属行业**: Financial Services / Banks - Diversified
-- **提取时间**: 2026-05-15 17:37:27
+- **提取时间**: 2026-05-20 18:17:58
 
 ## 产业链关系
 
 ### 上游供应商
 - [[MSFT]]
-- [[GOOGL]]
 - [[Payment processors (e.g., Visa, Mastercard)]]
-- [[Data analytics firms (e.g., Bloomberg, Refinitiv)]]
-- [[Cybersecurity providers (e.g., Palo Alto Networks, Symantec)]]
+- [[AMZN]]
+- [[Consulting firms (e.g., Accenture, Deloitte)]]
+- [[Cybersecurity vendors (e.g., Symantec, Palo Alto Networks)]]
 
 ### 下游客户
 - [[Retail banking customers]]
-- [[Corporate banking clients]]
-- [[Institutional investors]]
-- [[Wealth management clients]]
-- [[Credit card holders]]
+- [[Corporate and commercial clients]]
+- [[Investment banking clients]]
+- [[Wealth management and private banking clients]]
+- [[Government and public sector entities]]
 
 ### 竞争对手
-- [[Bank of America (BAC)]]
-- [[Citigroup (C)]]
-- [[Wells Fargo (WFC)]]
-- [[Goldman Sachs (GS)]]
-- [[Morgan Stanley (MS)]]
+- [[Bank of America]]
+- [[Citigroup]]
+- [[Wells Fargo]]
+- [[Goldman Sachs]]
+- [[Morgan Stanley]]
 
 ### 核心产品
-- [[Retail banking services]]
-- [[Investment banking and advisory]]
+- [[Retail banking services (checking, savings, mortgages)]]
+- [[Commercial banking and treasury services]]
+- [[Investment banking and capital markets]]
 - [[Asset and wealth management]]
-- [[Credit card and consumer lending]]
-- [[Treasury and securities services]]
+- [[Credit card and payment solutions]]
 
 ## 数据来源
 
@@ -54,4 +54,4 @@ last_updated: 2026-05-15
 
 ## 元数据
 
-- **更新日期**: 2026-05-15
+- **更新日期**: 2026-05-20

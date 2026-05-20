@@ -4,34 +4,34 @@
   "sector": "Industrials",
   "industry": "Electrical Equipment & Parts",
   "upstream": [
-    "ABB",
-    "Schneider Electric",
     "Siemens",
+    "ABB",
+    "Eaton",
     "Honeywell",
-    "General Electric"
+    "CSCO"
   ],
   "downstream": [
     "AMZN",
     "GOOGL",
     "MSFT",
     "AT&T",
-    "CAT"
+    "Verizon"
   ],
   "competitors": [
     "Schneider Electric",
-    "ABB",
     "Eaton",
-    "Siemens",
-    "Vertiv's competitor: Vertiv"
+    "ABB",
+    "CSCO",
+    "APC by Schneider"
   ],
   "key_products": [
-    "Uninterruptible Power Supplies (UPS)",
-    "Power Distribution Units (PDUs)",
-    "Data Center Cooling Systems",
-    "Data Center Infrastructure Management (DCIM) software",
-    "Power and Thermal Infrastructure Solutions"
+    "Power distribution units",
+    "Cooling systems",
+    "Rack‑mount servers",
+    "Environmental monitoring",
+    "Data center infrastructure management software"
   ],
-  "extracted_at": "2026-05-19 18:05:39",
+  "extracted_at": "2026-05-20 18:19:53",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,13 +43,13 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Vertiv",
       "query": "Vertiv Holdings Co suppliers manufacturers",
-      "snippet": "Vertiv Holdings Co . is an American provider of infrastructure and services for data centers, communication networks, and commercial and industrial en"
+      "snippet": "American industrial company . Vertiv Holdings Co . Formerly. Capitol Refrigeration Industries (1946–1965).Headquartered in Westerville, Ohio, Vertiv h"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://partners.vertiv.com/English/directory",
+      "url": "https://www.vertiv.com/en-us/",
       "query": "Vertiv Holdings Co suppliers manufacturers",
-      "snippet": "Information and Product Security. Report a Security Concern. Corporate. About Vertiv ."
+      "snippet": "Vertiv Holdings Co (NYSE: VRT), today reported financial results for its first quarter ended March 31, 2026. Vertiv reported first quarter net sales o"
     },
     {
       "source": "DuckDuckGo",

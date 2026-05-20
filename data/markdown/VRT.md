@@ -3,8 +3,8 @@ ticker: VRT
 company: Vertiv Holdings Co
 sector: Industrials
 industry: Electrical Equipment & Parts
-extracted_at: 2026-05-19 18:05:39
-last_updated: 2026-05-19
+extracted_at: 2026-05-20 18:19:53
+last_updated: 2026-05-20
 ---
 
 # VRT - Vertiv Holdings Co
@@ -12,46 +12,46 @@ last_updated: 2026-05-19
 ## 基本信息
 
 - **所属行业**: Industrials / Electrical Equipment & Parts
-- **提取时间**: 2026-05-19 18:05:39
+- **提取时间**: 2026-05-20 18:19:53
 
 ## 产业链关系
 
 ### 上游供应商
-- [[ABB]]
-- [[Schneider Electric]]
 - [[Siemens]]
+- [[ABB]]
+- [[Eaton]]
 - [[Honeywell]]
-- [[General Electric]]
+- [[CSCO]]
 
 ### 下游客户
 - [[AMZN]]
 - [[GOOGL]]
 - [[MSFT]]
 - [[AT&T]]
-- [[CAT]]
+- [[Verizon]]
 
 ### 竞争对手
 - [[Schneider Electric]]
-- [[ABB]]
 - [[Eaton]]
-- [[Siemens]]
-- [[Vertiv's competitor: Vertiv]]
+- [[ABB]]
+- [[CSCO]]
+- [[APC by Schneider]]
 
 ### 核心产品
-- [[Uninterruptible Power Supplies (UPS)]]
-- [[Power Distribution Units (PDUs)]]
-- [[Data Center Cooling Systems]]
-- [[Data Center Infrastructure Management (DCIM) software]]
-- [[Power and Thermal Infrastructure Solutions]]
+- [[Power distribution units]]
+- [[Cooling systems]]
+- [[Rack‑mount servers]]
+- [[Environmental monitoring]]
+- [[Data center infrastructure management software]]
 
 ## 数据来源
 
 - [Vertiv](https://en.wikipedia.org/wiki/Vertiv_Holdings_Co)
 - [Vertiv Holdings Co suppliers manufacturers](https://en.wikipedia.org/wiki/Vertiv)
-- [Vertiv Holdings Co suppliers manufacturers](https://partners.vertiv.com/English/directory)
+- [Vertiv Holdings Co suppliers manufacturers](https://www.vertiv.com/en-us/)
 - [Vertiv Holdings Co major customers clients](https://en.wikipedia.org/wiki/Vertiv)
 - [Vertiv Holdings Co major customers clients](https://www.appsruntheworld.com/customers-database/vendors/view/vertiv)
 
 ## 元数据
 
-- **更新日期**: 2026-05-19
+- **更新日期**: 2026-05-20

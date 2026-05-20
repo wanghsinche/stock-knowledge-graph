@@ -4,18 +4,18 @@
   "sector": "Industrials",
   "industry": "Farm & Heavy Construction Machinery",
   "upstream": [
-    "Steel suppliers",
-    "Aluminum suppliers",
-    "Electronic component suppliers",
-    "Hydraulic component suppliers",
-    "Engine component suppliers"
+    "Rockwell Automation",
+    "Eaton",
+    "Baldor Electric",
+    "Boeing (for aerospace components)",
+    "General Electric (for power systems)"
   ],
   "downstream": [
-    "Construction companies",
-    "Mining companies",
-    "Government agencies",
-    "Infrastructure developers",
-    "Agricultural equipment manufacturers"
+    "Construction companies (e.g., Bechtel, Fluor)",
+    "HPQ",
+    "Government agencies (e.g., U.S. Army, U.S. Navy)",
+    "Infrastructure developers (e.g., Vinci, ACS)",
+    "DE"
   ],
   "competitors": [
     "Komatsu Ltd.",
@@ -27,11 +27,13 @@
   "key_products": [
     "Bulldozers",
     "Excavators",
-    "Wheel loaders",
-    "Mining trucks",
-    "Hydraulic excavators"
+    "Wheel Loaders",
+    "Backhoes",
+    "Mining equipment",
+    "Diesel engines",
+    "Generators"
   ],
-  "extracted_at": "2026-05-19 18:05:26",
+  "extracted_at": "2026-05-20 18:19:29",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,15 +43,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Caterpillar_Inc.",
+      "url": "https://www.caterpillar.com/en/company/working-together/suppliers.html",
       "query": "Caterpillar Inc. suppliers manufacturers",
-      "snippet": "Caterpillar Inc . is an American construction, mining, and other engineering equipment manufacturer . The company is the world's largest manufacturer "
+      "snippet": "Caterpillar suppliers set high standards for specifications, delivery and price, communication and conduct."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/CAT-Suppliers",
+      "url": "https://www.goldsupplier.com/discover/top-10-caterpillar-suppliers-manufacturers-in-the-united-states/",
       "query": "Caterpillar Inc. suppliers manufacturers",
-      "snippet": "Caterpillar Inc supply chain, list and performance of Caterpillar Incs ' suppliers - CSIMarket. Caterpillar Inc 's Suppliers Performance. CAT's Supply"
+      "snippet": "As a contractor, business owner, or industry enthusiast, this in-depth guide will allow everyone to look at Caterpillar ’ s supply chain from a differ"
     },
     {
       "source": "DuckDuckGo",
@@ -59,9 +61,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.caterpillar.com/en/investors/reports/annual-report/segment-highlights.html",
+      "url": "https://bstrategyhub.com/caterpillar-swot-analysis/",
       "query": "Caterpillar Inc. major customers clients",
-      "snippet": "In 2025, we marked our centennial by continuing to evolve how we serve customers ."
+      "snippet": "Nov 13, 2025 · Caterpillar ’s services start by understanding customers ’ business needs before taking the right measures on requirements. Customers c"
     }
   ]
 }

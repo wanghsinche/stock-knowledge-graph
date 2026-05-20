@@ -1,57 +1,57 @@
 ---
 ticker: WMT
 company: Walmart Inc.
-sector: Consumer Defensive
-industry: Discount Stores
-extracted_at: 2026-05-19 18:14:53
-last_updated: 2026-05-19
+sector: Consumer Defensive / Discount Stores
+industry: Retail - Discount Stores
+extracted_at: 2026-05-20 18:14:51
+last_updated: 2026-05-20
 ---
 
 # WMT - Walmart Inc.
 
 ## 基本信息
 
-- **所属行业**: Consumer Defensive / Discount Stores
-- **提取时间**: 2026-05-19 18:14:53
+- **所属行业**: Consumer Defensive / Discount Stores / Retail - Discount Stores
+- **提取时间**: 2026-05-20 18:14:51
 
 ## 产业链关系
 
 ### 上游供应商
+- [[Plug Power Inc.]]
 - [[Procter & Gamble]]
+- [[HPQ]]
 - [[Coca‑Cola]]
-- [[PepsiCo]]
-- [[Nestlé]]
-- [[Unilever]]
+- [[Nike]]
 
 ### 下游客户
-- [[U.S. consumers]]
-- [[Canadian consumers]]
-- [[Mexican consumers]]
-- [[International shoppers]]
-- [[Corporate buyers]]
+- [[Consumers]]
+- [[Online shoppers]]
+- [[Small businesses]]
+- [[Local communities]]
+- [[Corporate clients]]
 
 ### 竞争对手
-- [[Target]]
-- [[Costco]]
-- [[AMZN]]
+- [[Target Corp.]]
+- [[Costco Wholesale Corp.]]
+- [[Dollar General Corp.]]
+- [[Aldi Inc.]]
 - [[BJ’s Wholesale Club]]
-- [[Kroger]]
 
 ### 核心产品
-- [[Groceries]]
-- [[Apparel]]
-- [[Electronics]]
-- [[Household goods]]
-- [[Pharmacy products]]
+- [[Grocery and fresh produce]]
+- [[Household goods and appliances]]
+- [[Electronics and computers]]
+- [[Apparel and footwear]]
+- [[Pharmacy and health products]]
 
 ## 数据来源
 
 - [Walmart](https://en.wikipedia.org/wiki/Walmart_Inc.)
 - [Walmart Inc. suppliers manufacturers](https://corporate.walmart.com/suppliers)
-- [Walmart Inc. suppliers manufacturers](https://www.investopedia.com/articles/insights/050116/walmart-stock-analyzing-5-key-suppliers-wmt.asp)
-- [Walmart Inc. major customers clients](https://capitaloneshopping.com/research/walmart-statistics/)
-- [Walmart Inc. major customers clients](https://businessmodelanalyst.com/walmart-target-market/)
+- [Walmart Inc. suppliers manufacturers](https://solatatech.com/article/5-key-suppliers-of-walmart)
+- [Walmart Inc. major customers clients](https://en.wikipedia.org/wiki/Walmart)
+- [Walmart Inc. major customers clients](https://www.walmart.com/)
 
 ## 元数据
 
-- **更新日期**: 2026-05-19
+- **更新日期**: 2026-05-20

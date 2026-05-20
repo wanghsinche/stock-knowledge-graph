@@ -7,31 +7,31 @@
     "AMZN",
     "MSFT",
     "GOOGL",
-    "INTC",
-    "NVDA"
+    "IBM",
+    "ORCL"
   ],
   "downstream": [
     "U.S. Department of Defense",
     "INTC",
-    "Federal Bureau of Investigation",
-    "JPMorgan Chase",
-    "Walmart"
+    "U.S. Department of Homeland Security",
+    "U.S. Department of Justice",
+    "U.S. Department of Energy"
   ],
   "competitors": [
     "Snowflake",
     "Databricks",
     "Splunk",
-    "Qlik",
-    "Alteryx"
+    "Tableau",
+    "Qlik"
   ],
   "key_products": [
     "Palantir Foundry",
     "Palantir Gotham",
     "Palantir Apollo",
     "Palantir Helios",
-    "Palantir Data Integration Platform"
+    "Palantir Platform"
   ],
-  "extracted_at": "2026-05-19 18:01:47",
+  "extracted_at": "2026-05-20 18:12:27",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/PLTR-Suppliers",
+      "url": "https://en.wikipedia.org/wiki/Palantir",
       "query": "Palantir Technologies Inc. suppliers manufacturers",
-      "snippet": "Palantir Technologies Inc supply chain, list and performance of Palantir Technologies Incs ' suppliers - CSIMarket"
+      "snippet": "Palantir Technologies Inc . is an American publicly traded company that develops data integration and analytics platforms enabling government agencies"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://theirstack.com/en/technology/palantir",
+      "url": "https://finance.yahoo.com/quote/PLTR/",
       "query": "Palantir Technologies Inc. suppliers manufacturers",
-      "snippet": "Download a list of 3,812 companies that use Palantir with enriched data including industry, company size, location, funding rounds, and revenue figure"
+      "snippet": "Find the latest Palantir Technologies Inc . (PLTR) stock quote, history, news and other vital information to help you with your stock trading and inve"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.appsruntheworld.com/customers-database/products/view/palantir-foundry",
+      "url": "https://data.landbase.com/technology/palantir/",
       "query": "Palantir Technologies Inc. major customers clients",
-      "snippet": "Since 2010, our global team of researchers has been studying Palantir Foundry customers around the world, aggregating massive amounts of data points t"
+      "snippet": "Aug 17, 2025 · Our Palantir customers list is available for download and comes enriched with vital company specifics, including industry classificatio"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.designgurus.io/answers/detail/who-are-the-main-customers-of-palantir",
+      "url": "https://financhill.com/blog/investing/who-are-palantir-biggest-customers",
       "query": "Palantir Technologies Inc. major customers clients",
-      "snippet": "Who are the main customers of Palantir? Palantir Technologies serves a diverse clientele across government and commercial sectors, providing data anal"
+      "snippet": "Jun 12, 2024 · The US Department of Defense was historically Palantir’s biggest customer but the Army awarded a $480m contract in May. So too have ent"
     }
   ]
 }

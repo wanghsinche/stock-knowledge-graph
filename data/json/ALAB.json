@@ -4,34 +4,34 @@
   "sector": "Technology",
   "industry": "Semiconductors",
   "upstream": [
-    "AMAT",
-    "Silicon wafer suppliers (e.g., Shin-Etsu Chemical, SUMCO)",
-    "Design IP providers (e.g., Cadence, Synopsys)",
-    "Electronic design automation (EDA) tool vendors",
-    "CAT"
+    "TSM",
+    "005930.KS",
+    "GlobalFoundries",
+    "ASML",
+    "LRCX"
   ],
   "downstream": [
     "NVDA",
     "AMD",
     "INTC",
-    "QCOM",
-    "AVGO"
+    "DELL",
+    "HPQ"
   ],
   "competitors": [
     "AVGO",
     "MRVL",
-    "QRVO",
     "AMD",
-    "Cypress Semiconductor (now part of Infineon)"
+    "INTC",
+    "QRVO"
   ],
   "key_products": [
-    "NVLink interconnect solutions",
-    "PCIe 5.0/6.0 interface chips",
-    "CXL (Compute Express Link) adapters",
-    "High‑speed Ethernet (2.5G/5G) controllers",
-    "Custom ASICs for data‑center interconnect"
+    "PCIe 5.0/6.0 transceivers",
+    "NVLink interconnects",
+    "CXL (Compute Express Link) solutions",
+    "Thunderbolt 4/5 transceivers",
+    "2.5G/5G Ethernet controllers"
   ],
-  "extracted_at": "2026-05-19 18:12:50",
+  "extracted_at": "2026-05-20 18:13:46",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,13 +43,13 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Astera_Labs",
       "query": "Astera Labs, Inc. suppliers manufacturers",
-      "snippet": "Astera Labs , Inc . is an American fabless semiconductor manufacturer and artificial intelligence company. The company specializes in designing high-s"
+      "snippet": "Astera Labs, Inc . is an American fabless semiconductor manufacturer and artificial intelligence company. The company specializes in designing high-sp"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.asteralabs.com/",
+      "url": "https://www.asteralabs.com/faqs/who-are-astera-labs-primary-design-manufacturing-partners/",
       "query": "Astera Labs, Inc. suppliers manufacturers",
-      "snippet": "Go to the homepage of ASTERA LABS , INC . Products. Astera Labs Expands Connectivity Portfolio with Custom Solutions. NVLink Fusion-based custom solut"
+      "snippet": "Who are Astera Labs’ primary design & manufacturing partners? We leverage industry leading partners in both our design and manufacturing process such "
     },
     {
       "source": "DuckDuckGo",

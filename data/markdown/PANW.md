@@ -1,57 +1,39 @@
 ---
 ticker: PANW
 company: Palo Alto Networks, Inc.
-sector: Technology / Software - Infrastructure
-industry: Cybersecurity
-extracted_at: 2026-05-19 18:06:10
-last_updated: 2026-05-19
+sector: Technology
+industry: Software - Infrastructure
+extracted_at: 2026-05-20 18:18:16
+last_updated: 2026-05-20
 ---
 
 # PANW - Palo Alto Networks, Inc.
 
 ## 基本信息
 
-- **所属行业**: Technology / Software - Infrastructure / Cybersecurity
-- **提取时间**: 2026-05-19 18:06:10
+- **所属行业**: Technology / Software - Infrastructure
+- **提取时间**: 2026-05-20 18:18:16
 
 ## 产业链关系
 
 ### 上游供应商
-- [[INTC]]
-- [[AVGO]]
-- [[MU]]
-- [[005930.KS]]
-- [[NVDA]]
+_暂无数据_
 
 ### 下游客户
-- [[Wipro]]
-- [[Tyson Foods]]
-- [[MSFT]]
-- [[AMZN]]
-- [[GOOGL]]
+_暂无数据_
 
 ### 竞争对手
-- [[CSCO]]
-- [[Fortinet]]
-- [[Check Point]]
-- [[CrowdStrike]]
-- [[Sophos]]
+_暂无数据_
 
 ### 核心产品
-- [[Next-Generation Firewall]]
-- [[Prisma Cloud]]
-- [[Cortex XDR]]
-- [[Unit 42 Threat Intelligence]]
-- [[Firewalls]]
+_暂无数据_
 
 ## 数据来源
 
 - [Palo Alto Networks](https://en.wikipedia.org/wiki/Palo_Alto_Networks,_Inc.)
-- [Palo Alto Networks, Inc. suppliers manufacturers](https://www.paloaltonetworks.com/)
-- [Palo Alto Networks, Inc. suppliers manufacturers](https://addo.supply/brands/paloalto-networks.html)
-- [Palo Alto Networks, Inc. major customers clients](https://www.paloaltonetworks.com/customers)
-- [Palo Alto Networks, Inc. major customers clients](https://www.spanglobalservices.com/blog/top-companies-using-palo-alto-networks/)
+- [Palo Alto Networks, Inc. suppliers manufacturers](https://paloaltonetworks.my.site.com/NextWavePartnerProgram/s/partnerlocator)
+- [Palo Alto Networks, Inc. suppliers manufacturers](https://www.linkedin.com/posts/shreyas-cholachgud_inside-palo-alto-networks-the-key-companies-activity-7299791184602808321-MaWo)
 
 ## 元数据
 
-- **更新日期**: 2026-05-19
+- **更新日期**: 2026-05-20

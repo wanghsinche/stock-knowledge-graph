@@ -1,18 +1,18 @@
 ---
 ticker: CRWV
 company: CoreWeave, Inc.
-sector: Technology / Software - Infrastructure
-industry: AI Cloud Computing / GPU Infrastructure
-extracted_at: 2026-05-19 18:02:22
-last_updated: 2026-05-19
+sector: Technology
+industry: Software - Infrastructure
+extracted_at: 2026-05-20 18:17:01
+last_updated: 2026-05-20
 ---
 
 # CRWV - CoreWeave, Inc.
 
 ## 基本信息
 
-- **所属行业**: Technology / Software - Infrastructure / AI Cloud Computing / GPU Infrastructure
-- **提取时间**: 2026-05-19 18:02:22
+- **所属行业**: Technology / Software - Infrastructure
+- **提取时间**: 2026-05-20 18:17:01
 
 ## 产业链关系
 
@@ -20,15 +20,15 @@ last_updated: 2026-05-19
 - [[NVDA]]
 - [[AMD]]
 - [[INTC]]
-- [[TSM]]
-- [[005930.KS]]
+- [[Xilinx]]
+- [[QCOM]]
 
 ### 下游客户
-- [[OpenAI]]
-- [[Mistral AI]]
-- [[MSFT]]
-- [[AMZN]]
-- [[GOOGL]]
+- [[AI developers]]
+- [[Enterprises]]
+- [[Research institutions]]
+- [[Startups]]
+- [[Government agencies]]
 
 ### 竞争对手
 - [[AMZN]]
@@ -38,20 +38,20 @@ last_updated: 2026-05-19
 - [[ORCL]]
 
 ### 核心产品
-- [[GPU‑based AI compute cloud]]
-- [[Chip management software]]
-- [[High‑performance GPU clusters]]
-- [[Custom AI workloads orchestration]]
-- [[Scalable GPU infrastructure services]]
+- [[GPU Cloud Infrastructure]]
+- [[GPU Compute Services]]
+- [[Chip Management Software]]
+- [[AI Training Services]]
+- [[GPU Virtualization]]
 
 ## 数据来源
 
 - [CoreWeave](https://en.wikipedia.org/wiki/CoreWeave,_Inc.)
 - [CoreWeave, Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/CoreWeave)
-- [CoreWeave, Inc. suppliers manufacturers](https://www.coreweave.com/)
+- [CoreWeave, Inc. suppliers manufacturers](https://notice.co/c/coreweave)
 - [CoreWeave, Inc. major customers clients](https://en.wikipedia.org/wiki/CoreWeave)
-- [CoreWeave, Inc. major customers clients](https://www.fitchratings.com/research/corporate-finance/fitch-affirms-coreweave-idr-at-bb-outlook-positive-15-05-2026)
+- [CoreWeave, Inc. major customers clients](https://www.appsruntheworld.com/customers-database/products/view/coreweave-compute-services)
 
 ## 元数据
 
-- **更新日期**: 2026-05-19
+- **更新日期**: 2026-05-20

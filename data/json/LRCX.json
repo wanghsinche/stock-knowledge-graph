@@ -4,33 +4,34 @@
   "sector": "Technology",
   "industry": "Semiconductor Equipment & Materials",
   "upstream": [
-    "Shin-Etsu Chemical",
-    "SUMCO",
-    "GlobalWafers",
-    "Air Liquide",
-    "Linde"
+    "Edwards Vacuum",
+    "Parker Hannifin",
+    "MKS Instruments",
+    "Kohler",
+    "Tianjin Yichang"
   ],
   "downstream": [
     "TSM",
     "005930.KS",
     "INTC",
     "MU",
-    "TXN"
+    "GlobalFoundries"
   ],
   "competitors": [
     "AMAT",
+    "ASML",
     "Tokyo Electron",
-    "KLA Corporation",
-    "ASML"
+    "KLA",
+    "LRCX"
   ],
   "key_products": [
-    "Plasma etch systems",
-    "Deposition systems",
-    "Wafer cleaning systems",
-    "Wafer-level packaging equipment",
-    "MEMS equipment"
+    "Plasma etching systems",
+    "Plasma deposition systems",
+    "Back‑end wafer‑level packaging (WLP) equipment",
+    "MEMS fabrication equipment",
+    "Advanced wafer processing tools"
   ],
-  "extracted_at": "2026-05-19 18:12:34",
+  "extracted_at": "2026-05-20 18:17:24",
   "sources": [
     {
       "source": "Wikipedia",
@@ -40,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Lam_Research",
+      "url": "https://sg.finance.yahoo.com/news/why-investors-favour-lam-research-134019665.html",
       "query": "Lam Research Corporation suppliers manufacturers",
+      "snippet": "Lam Research Corporation (NASDAQ:LRCX) is a leading semiconductor equipment company that supplies semiconductor processing equipment for the fabricati"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.insidermonkey.com/blog/seaport-research-affirms-lam-research-corporation-lrcx-as-one-of-the-top-tech-stocks-in-louis-navelliers-portfolio-1759604/",
+      "query": "Lam Research Corporation suppliers manufacturers",
+      "snippet": "Lam Research Corporation (NASDAQ:LRCX) is one of the top tech stocks in Louis Navellier’s portfolio. On May 5, Seaport Research analyst Jay Goldberg i"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/Lam_Research",
+      "query": "Lam Research Corporation major customers clients",
       "snippet": "Lam Research designs and builds products for semiconductor manufacturing, including equipment for thin film deposition, plasma etch, photoresist strip"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.lamresearch.com/",
-      "query": "Lam Research Corporation suppliers manufacturers",
-      "snippet": "Everyone at Lam is a deep listener, in tune with what customers, suppliers , and key stakeholders in the entire ecosystem expect. And in turn, we’ve c"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2ktMXJLREVSR1hpSU5MSzN0TVlTZ0FQAQ?hl=en-UG&gl=UG&ceid=UG:en",
+      "url": "https://csimarket.com/stocks/LRCX-Customers",
       "query": "Lam Research Corporation major customers clients",
-      "snippet": "Seaport Research Affirms Lam Research Corporation (LRCX) as One of The Top Tech Stocks in Louis Navellier’s Portfolio. 4 hours ago. Save for later."
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.thestreet.com/investing/here-are-3-reasons-to-own-lam-research-stock-14844454",
-      "query": "Lam Research Corporation major customers clients",
-      "snippet": "Major bank customers may qualify for $425 million settlement payout. Read More.On Wednesday evening, Lam Research put their fiscal Q2 numbers to the t"
+      "snippet": "Our customers include all of the world’s leading semiconductor manufacturers. Customers continue to establish joint ventures, alliances and licensing "
     }
   ]
 }
