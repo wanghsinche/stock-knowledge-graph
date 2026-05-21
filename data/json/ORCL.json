@@ -4,34 +4,34 @@
   "sector": "Technology",
   "industry": "Software - Infrastructure",
   "upstream": [
-    "INTC",
-    "NVDA",
-    "AMD",
     "DELL",
-    "HPQ"
+    "MSFT",
+    "NVDA",
+    "Software component vendors (e.g., Red Hat)",
+    "Data center service providers"
   ],
   "downstream": [
-    "JPMorgan Chase",
-    "Walmart",
-    "AT&T",
-    "Verizon",
-    "eBay"
+    "Large enterprises (e.g., Walmart, JPMorgan Chase)",
+    "Government agencies (e.g., U.S. Department of Defense)",
+    "Financial institutions (e.g., Bank of America)",
+    "Healthcare organizations (e.g., Mayo Clinic)",
+    "Retail chains (e.g., Target)"
   ],
   "competitors": [
     "MSFT",
     "AMZN",
     "IBM",
     "SAP",
-    "GOOGL"
+    "CRM"
   ],
   "key_products": [
     "Oracle Database",
     "Oracle Cloud Infrastructure",
-    "Oracle Fusion Applications",
     "Oracle Autonomous Database",
-    "Oracle ERP Cloud"
+    "Oracle ERP Cloud",
+    "Oracle Analytics Cloud"
   ],
-  "extracted_at": "2026-05-20 18:14:40",
+  "extracted_at": "2026-05-21 17:55:38",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.oracle.com/corporate/suppliers/",
+      "url": "https://en.wikipedia.org/wiki/Oracle_Corporation",
       "query": "Oracle Corporation suppliers manufacturers",
-      "snippet": "Oracle is always looking for suppliers who can meet our high quality standards and satisfy our ever-evolving business needs. We believe in the importa"
+      "snippet": "Oracle Corporation is an American multinational technology company headquartered in Austin, Texas. Co-founded in Santa Clara, California in 1977 by Bo"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/ORCL-Suppliers",
+      "url": "https://www.oracle.com/",
       "query": "Oracle Corporation suppliers manufacturers",
-      "snippet": "Sign in to see all suppliers for Oracle Corporation ."
+      "snippet": "Oracle offers a comprehensive and fully integrated stack of cloud applications and cloud platform services.."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.thomsondata.com/customer-base/oracle.php",
+      "url": "https://en.wikipedia.org/wiki/Oracle_Corporation",
       "query": "Oracle Corporation major customers clients",
-      "snippet": "Thomson Data makes it easy by offering an accurate and up-to-date list of companies that use Oracle. This list allows you to identify Oracle customers"
+      "snippet": "Oracle Corporation is an American multinational technology company headquartered in Austin, Texas. Co-founded in Santa Clara, California in 1977 by Bo"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.appsruntheworld.com/customers-database/vendors/view/oracle",
+      "url": "https://www.oracle.com/corporate/",
       "query": "Oracle Corporation major customers clients",
-      "snippet": "List of companies using or evaluating Oracle applications, with details on their revenues, employees, industries, and locations. See full list on apps"
+      "snippet": "Oracle is pleased to provide information about our company, customers , partners, events, communities, press, analysts, investors, and careers.The com"
     }
   ]
 }

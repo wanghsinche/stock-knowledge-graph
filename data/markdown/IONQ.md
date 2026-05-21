@@ -3,8 +3,8 @@ ticker: IONQ
 company: IonQ, Inc.
 sector: Technology
 industry: Computer Hardware
-extracted_at: 2026-05-12 17:58:42
-last_updated: 2026-05-12
+extracted_at: 2026-05-21 17:53:25
+last_updated: 2026-05-21
 ---
 
 # IONQ - IonQ, Inc.
@@ -12,46 +12,46 @@ last_updated: 2026-05-12
 ## 基本信息
 
 - **所属行业**: Technology / Computer Hardware
-- **提取时间**: 2026-05-12 17:58:42
+- **提取时间**: 2026-05-21 17:53:25
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Laser system manufacturers (e.g., Coherent, Thorlabs)]]
-- [[Vacuum system suppliers (e.g., Edwards, Leybold)]]
-- [[Cryogenic equipment providers (e.g., Cryomech)]]
-- [[Electronic component suppliers (e.g., National Instruments)]]
-- [[Ion trap component manufacturers (custom in‑house or specialized vendors)]]
+- [[Laser system manufacturers]]
+- [[Vacuum chamber suppliers]]
+- [[Cryogenic equipment providers]]
+- [[Ion trap component suppliers]]
+- [[High‑precision electronics vendors]]
 
 ### 下游客户
+- [[University research laboratories]]
+- [[National laboratories (e.g., DOE, DARPA)]]
 - [[MSFT]]
-- [[Enterprise research institutions (MIT, Harvard, Stanford)]]
-- [[Pharmaceutical companies (e.g., Pfizer, Merck)]]
-- [[Financial services firms (e.g., JPMorgan, Goldman Sachs)]]
-- [[Automotive manufacturers (e.g., Toyota)]]
+- [[Government agencies]]
+- [[Academic consortiums]]
 
 ### 竞争对手
 - [[Rigetti Computing]]
 - [[D-Wave Systems]]
-- [[Quantinuum (Honeywell)]]
 - [[Xanadu]]
-- [[PsiQuantum]]
+- [[Honeywell Quantum Solutions]]
+- [[Quantum Motion]]
 
 ### 核心产品
 - [[Trapped‑ion quantum processors]]
-- [[Quantum computing cloud platform]]
-- [[Quantum software stack (Qiskit, Cirq integration)]]
-- [[Quantum optimization services]]
-- [[Quantum algorithm development tools]]
+- [[Quantum computing software stack]]
+- [[QPU (Quantum Processing Unit) hardware]]
+- [[Quantum algorithm optimization tools]]
+- [[Quantum simulation software]]
 
 ## 数据来源
 
 - [IonQ](https://en.wikipedia.org/wiki/IonQ,_Inc.)
 - [IonQ, Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/IonQ)
-- [IonQ, Inc. suppliers manufacturers](https://www.ionq.com/)
-- [IonQ, Inc. major customers clients](https://www.ionq.com/)
-- [IonQ, Inc. major customers clients](https://www.youtube.com/watch?v=ZDn2HA62z-8)
+- [IonQ, Inc. suppliers manufacturers](https://csimarket.com/stocks/IONQWS-Suppliers)
+- [IonQ, Inc. major customers clients](https://csimarket.com/stocks/IONQWS-Customers)
+- [IonQ, Inc. major customers clients](https://www.fool.com/earnings/call-transcripts/2026/05/06/ionq-ionq-q1-2026-earnings-call-transcript/)
 
 ## 元数据
 
-- **更新日期**: 2026-05-12
+- **更新日期**: 2026-05-21

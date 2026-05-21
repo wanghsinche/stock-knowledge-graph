@@ -1,37 +1,37 @@
 {
   "ticker": "RGTI",
   "company_name": "Rigetti Computing, Inc.",
-  "sector": "Technology / Computer Hardware",
-  "industry": "Quantum Computing",
+  "sector": "Technology",
+  "industry": "Computer Hardware",
   "upstream": [
-    "Oxford Instruments",
-    "Cryomech",
-    "QSC",
-    "American Superconductor",
-    "Qubit Technologies"
+    "Superconducting qubit materials suppliers",
+    "Cryogenic equipment manufacturers (e.g., Oxford Instruments)",
+    "Dilution refrigerator suppliers",
+    "Control electronics component manufacturers",
+    "CAT"
   ],
   "downstream": [
-    "GOOGL",
-    "MSFT",
-    "IBM",
-    "NASA",
-    "University of California, Berkeley"
+    "Research universities (e.g., MIT, Stanford)",
+    "Government research labs (e.g., DARPA, DOE)",
+    "Quantum software developers",
+    "Cloud service providers",
+    "Enterprise R&D departments"
   ],
   "competitors": [
     "IBM",
     "GOOGL",
-    "MSFT",
     "D-Wave Systems",
+    "Honeywell Quantum Solutions",
     "IonQ"
   ],
   "key_products": [
-    "Aspen-9 quantum processor",
     "Aspen-10 quantum processor",
     "Aspen-15 quantum processor",
-    "Quantum cloud platform",
-    "Quantum SDK"
+    "Forest quantum software platform",
+    "Quantum cloud service",
+    "Quantum hardware development kits"
   ],
-  "extracted_at": "2026-04-15 17:04:37",
+  "extracted_at": "2026-05-21 17:54:29",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,25 +43,25 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Rigetti_Computing",
       "query": "Rigetti Computing, Inc. suppliers manufacturers",
-      "snippet": "Rigetti Computing , Inc . is an American Berkeley, California -based developer of superconducting quantum integrated circuits used for quantum compute"
+      "snippet": "Rigetti Computing is a full-stack quantum computing company, a term that indicates that the company designs and fabricates quantum chips, integrates t"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.rigetti.com/",
+      "url": "https://csimarket.com/stocks/RGTI-Suppliers",
       "query": "Rigetti Computing, Inc. suppliers manufacturers",
-      "snippet": "Dec 23, 2024 · Practical quantum computing . Delivered over the cloud. Unlocking a fast adiabatic CZ gate and exact residual ZZ cancellation between f"
+      "snippet": "Dec 4, 2025 · For your research, we’ve provided nine additional tables on Rigetti Computing Inc ’ s suppliers . You can find them in the navigation me"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Rigetti_Computing",
       "query": "Rigetti Computing, Inc. major customers clients",
-      "snippet": "Rigetti Computing , Inc . is a Berkeley, California-based developer of superconducting quantum integrated circuits used for quantum computers . Rigett"
+      "snippet": "Rigetti Computing , Inc . is an American Berkeley, California-based developer of superconducting quantum integrated circuits used for quantum computer"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.rigetti.com/",
+      "url": "https://finance.yahoo.com/quote/RGTI/",
       "query": "Rigetti Computing, Inc. major customers clients",
-      "snippet": "Practical quantum computing . Delivered over the cloud.Full Rigetti machine. Welcome to the next generation of computing . This is where you find tech"
+      "snippet": "Find the latest Rigetti Computing , Inc . (RGTI) stock quote, history, news and other vital information to help you with your stock trading and invest"
     }
   ]
 }

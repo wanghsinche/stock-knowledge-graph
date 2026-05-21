@@ -4,40 +4,40 @@
   "sector": "Technology",
   "industry": "Semiconductors",
   "upstream": [
-    "TSM",
-    "005930.KS",
-    "GlobalFoundries",
-    "ASML",
-    "LRCX"
+    "Silicon wafer suppliers",
+    "Lithography equipment manufacturers",
+    "Photolithography chemicals",
+    "META",
+    "Packaging and testing equipment suppliers"
   ],
   "downstream": [
+    "AAPL",
+    "QCOM",
     "CSCO",
-    "DELL",
-    "HPQ",
-    "IBM",
-    "AMZN"
+    "005930.KS",
+    "Huawei Technologies Co., Ltd."
   ],
   "competitors": [
     "QCOM",
     "INTC",
-    "NVDA",
     "TXN",
-    "MRVL"
+    "MRVL",
+    "MediaTek Inc."
   ],
   "key_products": [
-    "Broadcom 7000 Series Ethernet Controllers",
-    "Broadcom Wi‑Fi and Bluetooth SoCs",
-    "Broadcom Broadband Modems",
-    "Broadcom Storage Controllers",
-    "Broadcom Data Center ASICs"
+    "Wireless communication chips (Wi‑Fi, Bluetooth, LTE, 5G)",
+    "Broadband and cable modem chips",
+    "Enterprise storage controllers",
+    "Networking ASICs and switches",
+    "Security and encryption chips"
   ],
-  "extracted_at": "2026-05-20 18:11:42",
+  "extracted_at": "2026-05-21 17:52:40",
   "sources": [
     {
       "source": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Broadcom_Inc.",
-      "title": "Broadcom",
-      "snippet": "Broadcom Inc. is an American multinational designer, developer, manufacturer, and global supplier of a wide range of semiconductor and infrastructure software products. Broadcom's product offerings se"
+      "url": "",
+      "title": "",
+      "snippet": ""
     },
     {
       "source": "DuckDuckGo",
@@ -59,9 +59,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.broadcom.com/support",
+      "url": "https://www.appsruntheworld.com/customers-database/vendors/view/broadcom",
       "query": "Broadcom Inc. major customers clients",
-      "snippet": "Access Broadcom 's Customer Support Portal to obtain warranty information, find documentation and downloads, and answer other questions you might have"
+      "snippet": "List of companies using or evaluating Broadcom applications, with details on their revenues, employees, industries, and locations."
     }
   ]
 }

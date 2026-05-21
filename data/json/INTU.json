@@ -4,34 +4,34 @@
   "sector": "Technology",
   "industry": "Software - Application",
   "upstream": [
-    "AMZN",
     "MSFT",
+    "AMZN",
     "GOOGL",
     "ADBE",
     "ORCL"
   ],
   "downstream": [
-    "Small and medium‑size businesses using QuickBooks",
-    "Individual taxpayers using TurboTax",
-    "Consumers using Credit Karma",
-    "Marketing agencies using Mailchimp",
-    "Financial institutions using Intuit Payments"
+    "TurboTax users",
+    "QuickBooks users",
+    "Credit Karma users",
+    "Mailchimp users",
+    "ProConnect users"
   ],
   "competitors": [
+    "H&R Block",
     "Sage",
     "Xero",
-    "SAP Concur",
-    "H&R Block",
-    "HubSpot"
+    "FreshBooks",
+    "MSFT"
   ],
   "key_products": [
     "TurboTax",
     "QuickBooks",
     "Credit Karma",
     "Mailchimp",
-    "Intuit Payments"
+    "ProConnect"
   ],
-  "extracted_at": "2026-04-10 16:46:35",
+  "extracted_at": "2026-05-21 17:51:20",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.intuit.com/legal/intuit-group-companies/",
+      "url": "https://csimarket.com/stocks/INTU-Suppliers",
       "query": "Intuit Inc. suppliers manufacturers",
-      "snippet": "Dec 1, 2022 · A comprehensive list of all Intuit 's companies in the US and around the world."
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.intuit.com/company/supplier-programs/",
-      "query": "Intuit Inc. suppliers manufacturers",
-      "snippet": "We’re always looking for opportunities to work with new suppliers who share our passion for innovation, customer obsession, and above-and-beyond corpo"
+      "snippet": "Intuit Inc supply chain, list and performance of Intuit Incs ' suppliers - CSIMarket."
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.linkedin.com/company/intuit",
-      "query": "Intuit Inc. major customers clients",
-      "snippet": "About us. Intuit is a global technology platform that helps our customers and communities overcome their most important financial challenges. Serving "
+      "query": "Intuit Inc. suppliers manufacturers",
+      "snippet": "Intuit is a global technology platform that helps our customers and communities overcome their most important financial challenges. Serving millions o"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.insidermonkey.com/blog/jim-cramer-on-intuit-im-hoping-thats-the-start-of-a-larger-comeback-and-i-think-it-deserves-to-1731914/",
+      "url": "https://en.wikipedia.org/wiki/Intuit",
       "query": "Intuit Inc. major customers clients",
-      "snippet": "Intuit Inc . (NASDAQ:INTU) is among the stocks in focus as Jim Cramer reviewed the S&P 500’s top performers and the Nasdaq 100’s biggest laggards for "
+      "snippet": "Credit Karma · Mailchimp · QuickBooks · TurboTax · ProConnect · Personal finance · Accounting software · Tax return software · Increase US$18.8 billio"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.intuit.com/company/",
+      "query": "Intuit Inc. major customers clients",
+      "snippet": "Serving approximately 100 million customers worldwide with TurboTax, Credit Karma, QuickBooks, and Mailchimp, Intuit helps put more money in consumers"
     }
   ]
 }

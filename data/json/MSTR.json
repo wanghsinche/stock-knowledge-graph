@@ -1,19 +1,19 @@
 {
   "ticker": "MSTR",
   "company_name": "Strategy Inc",
-  "sector": "Technology",
-  "industry": "Software - Application",
+  "sector": "Technology / Software - Application",
+  "industry": "Business Intelligence & Analytics",
   "upstream": [
-    "DELL",
-    "HPQ",
-    "INTC",
-    "NVDA",
-    "AMZN"
+    "MSFT",
+    "AMZN",
+    "GOOGL",
+    "ORCL",
+    "SAP"
   ],
   "downstream": [
     "Walmart",
-    "Coca‑Cola",
     "JPMorgan Chase",
+    "Bank of America",
     "AT&T",
     "Verizon"
   ],
@@ -21,8 +21,8 @@
     "SAP SE Business Objects",
     "IBM",
     "ORCL",
-    "MSFT",
-    "Tableau"
+    "CRM",
+    "Qlik"
   ],
   "key_products": [
     "MicroStrategy Desktop",
@@ -31,7 +31,7 @@
     "MicroStrategy Analytics",
     "MicroStrategy Cloud"
   ],
-  "extracted_at": "2026-05-18 17:58:00",
+  "extracted_at": "2026-05-21 17:58:26",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,15 +41,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/MSTR/",
+      "url": "https://www.autostoresystem.com/insights/real-life-supply-chain-strategy-examples",
       "query": "Strategy Inc suppliers manufacturers",
-      "snippet": "Find the latest Strategy Inc (MSTR) stock quote, history, news and other vital information to help you with your stock trading and investing."
+      "snippet": "Explore real-life examples of effective supply chain management and learn how AutoStore can elevate your tactics. Missing: Inc | Show results with: In"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ru.investing.com/equities/microstrategy-inc",
+      "url": "https://www.strategy.com/software",
       "query": "Strategy Inc suppliers manufacturers",
-      "snippet": "Акции Strategy Inc (MSTR): курс сегодня, актуальная цена онлайн, графики, мнения, технический анализ, отчеты и другое о Strategy ."
+      "snippet": "Strategy Solutions powered by Mosaic provide a universal semantic layer that unifies enterprise data, governs business metrics, and delivers trusted A"
     },
     {
       "source": "DuckDuckGo",

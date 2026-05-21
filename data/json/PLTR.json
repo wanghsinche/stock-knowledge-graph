@@ -7,31 +7,31 @@
     "AMZN",
     "MSFT",
     "GOOGL",
-    "IBM",
-    "ORCL"
+    "ORCL",
+    "IBM"
   ],
   "downstream": [
     "U.S. Department of Defense",
-    "INTC",
     "U.S. Department of Homeland Security",
-    "U.S. Department of Justice",
-    "U.S. Department of Energy"
+    "Federal Bureau of Investigation (FBI)",
+    "JPMorgan Chase",
+    "Airbus"
   ],
   "competitors": [
     "Snowflake",
     "Databricks",
     "Splunk",
-    "Tableau",
-    "Qlik"
+    "IBM",
+    "MSFT"
   ],
   "key_products": [
     "Palantir Foundry",
     "Palantir Gotham",
     "Palantir Apollo",
-    "Palantir Helios",
-    "Palantir Platform"
+    "Palantir Data Integration Platform",
+    "Palantir Helios"
   ],
-  "extracted_at": "2026-05-20 18:12:27",
+  "extracted_at": "2026-05-21 17:54:19",
   "sources": [
     {
       "source": "Wikipedia",
@@ -53,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://data.landbase.com/technology/palantir/",
+      "url": "https://www.palantir.com/",
       "query": "Palantir Technologies Inc. major customers clients",
-      "snippet": "Aug 17, 2025 · Our Palantir customers list is available for download and comes enriched with vital company specifics, including industry classificatio"
+      "snippet": "Our software powers real-time, AI-driven decisions in critical government and commercial enterprises in the West, from the factory floors to the front"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://financhill.com/blog/investing/who-are-palantir-biggest-customers",
       "query": "Palantir Technologies Inc. major customers clients",
-      "snippet": "Jun 12, 2024 · The US Department of Defense was historically Palantir’s biggest customer but the Army awarded a $480m contract in May. So too have ent"
+      "snippet": "Jun 12, 2024 · So, who are Palantir's biggest customers? The US Department of Defense was historically Palantir's biggest customer but the Army awarde"
     }
   ]
 }

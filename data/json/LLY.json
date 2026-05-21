@@ -4,34 +4,34 @@
   "sector": "Healthcare",
   "industry": "Drug Manufacturers - General",
   "upstream": [
-    "Raw material suppliers (chemicals & active pharmaceutical ingredients)",
-    "Contract manufacturing organizations (CMOs)",
-    "Packaging and labeling suppliers",
+    "Raw material suppliers (chemical manufacturers)",
     "Contract research organizations (CROs)",
-    "Logistics and distribution partners"
+    "Biotech partners (e.g., Genentech)",
+    "Specialty chemical suppliers",
+    "Contract manufacturing organizations (CMOs)"
   ],
   "downstream": [
-    "Hospitals and health‑care providers",
-    "Pharmacies and drugstores",
+    "Hospitals and health systems",
+    "Pharmacies (retail and wholesale)",
     "Government health agencies (e.g., CDC, NIH)",
-    "International health organizations (e.g., WHO)",
-    "Insurance and pharmacy benefit managers"
+    "International health organizations",
+    "Retail drug stores"
   ],
   "competitors": [
     "Pfizer",
     "Johnson & Johnson",
     "Merck & Co.",
-    "Novartis",
-    "Bristol‑Myers Squibb"
+    "AbbVie",
+    "Bristol-Myers Squibb"
   ],
   "key_products": [
-    "Humira (adalimumab)",
-    "Trulicity (dulaglutide)",
-    "Mounjaro (tirzepatide)",
+    "Humalog (insulin lispro)",
     "Lantus (insulin glargine)",
-    "Cymbalta (duloxetine)"
+    "Cymbalta (duloxetine)",
+    "Trulicity (dulaglutide)",
+    "Zyprexa (olanzapine)"
   ],
-  "extracted_at": "2026-05-20 18:16:47",
+  "extracted_at": "2026-05-21 17:55:29",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Eli_Lilly_and_Company",
+      "url": "https://www.lilly.com/suppliers",
       "query": "Eli Lilly and Company suppliers manufacturers",
+      "snippet": "View supplier resources including accounts payable, invoicing, payments, new and existing supplier guidance, and the Lilly Supplier portal."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.linkedin.com/pulse/eli-lillys-us-manufacturing-build-out-playbook-win-varenas-mba-gqdjc",
+      "query": "Eli Lilly and Company suppliers manufacturers",
+      "snippet": "Nov 5, 2025 · Lilly ’ s Supplier Code of Business Conduct sets standards for labor, EHS, anti-corruption, and responsible sourcing; primes will flow t"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/Eli_Lilly_and_Company",
+      "query": "Eli Lilly and Company major customers clients",
       "snippet": "Eli Lilly and Company , doing business as Lilly , is an American multinational pharmaceutical company headquartered in Indianapolis, Indiana, with off"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.lilly.com/",
-      "query": "Eli Lilly and Company suppliers manufacturers",
-      "snippet": "Lilly is a medicine company that puts health above all. Learn about our medicines, view condition support, find care, and much more. Lilly employee wo"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Eli_Lilly_and_Company",
+      "url": "https://www.linkedin.com/company/eli-lilly-and-company",
       "query": "Eli Lilly and Company major customers clients",
-      "snippet": "Eli Lilly and Company ... David Ricks, CEO of Lilly since 2016 Eli Lilly and Company , doing business as Lilly , is an American multinational pharmace"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/LLY-Customers",
-      "query": "Eli Lilly and Company major customers clients",
-      "snippet": "We promote our major human pharmaceutical products in the U.S. through sales representatives who call upon physicians and other health care profession"
+      "snippet": "Eli Lilly and Company | 2,684,553 followers on LinkedIn. We're a medicine company turning science into healing to make life better for people around t"
     }
   ]
 }

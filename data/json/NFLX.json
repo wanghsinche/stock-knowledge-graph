@@ -4,34 +4,34 @@
   "sector": "Communication Services",
   "industry": "Entertainment",
   "upstream": [
-    "Visual Data (UK)",
-    "AMZN",
-    "GOOGL",
-    "MSFT",
-    "NFLX"
+    "Disney",
+    "Warner Bros. Discovery",
+    "SONY",
+    "Paramount Global",
+    "Universal Studios"
   ],
   "downstream": [
-    "Global subscribers",
-    "US subscribers",
-    "International subscribers",
+    "US households",
+    "International households",
     "Corporate accounts",
-    "CAT"
+    "CAT",
+    "Government agencies"
   ],
   "competitors": [
     "Disney+",
-    "Hulu",
-    "AMZN",
     "HBO Max",
+    "AMZN",
+    "Hulu",
     "AAPL"
   ],
   "key_products": [
-    "Streaming service",
-    "Original series",
-    "Original films",
-    "Documentaries",
-    "Kids content"
+    "Netflix streaming service",
+    "Original series and films",
+    "Licensed content library",
+    "Mobile app",
+    "Smart TV app"
   ],
-  "extracted_at": "2026-05-19 18:02:48",
+  "extracted_at": "2026-05-21 17:56:11",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,9 +41,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://npfp.netflixstudios.com/region/global/",
+      "url": "https://npfp.netflixstudios.com/",
       "query": "Netflix, Inc. suppliers manufacturers",
-      "snippet": "Visual Data (UK) became a Netflix Preferred Vendor in 2013 and its technical, professional and service standards are among the highest in the industry"
+      "snippet": "The Netflix Preferred Fulfillment Partner (NPFP) program represents a worldwide network of elite media fulfillment companies . After meeting strict st"
     },
     {
       "source": "DuckDuckGo",
@@ -53,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/NFLX-Customers",
+      "url": "https://en.wikipedia.org/wiki/Netflix",
       "query": "Netflix, Inc. major customers clients",
-      "snippet": "Apr 11, 2026 · For your research, we’ve provided 9 tables on Netflix Inc corporate clients . You can find them in the navigation menu under Customers "
+      "snippet": "As of 2025, Netflix is the 18th most-visited website in the world, with 21.18% of its traffic coming from the US, followed by the United Kingdom at 6."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://businessmodelanalyst.com/netflix-target-market/",
+      "url": "https://ir.netflix.net/ir-overview/profile/default.aspx",
       "query": "Netflix, Inc. major customers clients",
-      "snippet": "Dec 11, 2024 · Netflix’ s target customers are not confined to a single country or region but encompass a broad and diverse international demographic."
+      "snippet": "Apr 16, 2026 · Netflix is one of the world’s leading entertainment services offering TV series, films, games and live programming across a wide variet"
     }
   ]
 }

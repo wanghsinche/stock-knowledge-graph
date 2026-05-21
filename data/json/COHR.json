@@ -3,29 +3,65 @@
   "company_name": "Coherent Corp.",
   "sector": "Technology",
   "industry": "Scientific & Technical Instruments",
-  "upstream": [],
-  "downstream": [],
-  "competitors": [],
-  "key_products": [],
-  "extracted_at": "2026-05-20 18:20:09",
+  "upstream": [
+    "Silicon photonics suppliers",
+    "VCSEL array manufacturers",
+    "Lens manufacturers",
+    "Optical filter and coupler suppliers",
+    "Isolator component suppliers"
+  ],
+  "downstream": [
+    "CAT",
+    "Defense and aerospace system integrators",
+    "Medical imaging and laser therapy companies",
+    "CAT",
+    "Research laboratories and universities"
+  ],
+  "competitors": [
+    "Thorlabs",
+    "Newport Corporation",
+    "Lumentum Holdings",
+    "IPG Photonics",
+    "Coherent Laser Systems (other divisions)"
+  ],
+  "key_products": [
+    "High‑power lasers",
+    "VCSEL (Vertical‑Cavity Surface‑Emitting Laser) modules",
+    "Optical amplifiers",
+    "Photonic integrated circuits",
+    "Optical filters and couplers"
+  ],
+  "extracted_at": "2026-05-21 17:58:01",
   "sources": [
     {
       "source": "Wikipedia",
+      "url": "",
+      "title": "",
+      "snippet": ""
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.coherent.com/",
+      "query": "Coherent Corp. suppliers manufacturers",
+      "snippet": "From Silicon photonics, VCSEL arrays, lenses, filters and couplers, and isolators, Coherent is a vertically integrated supplier alleviating supply cha"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.avnet.com/americas/manufacturers/m/coherent/",
+      "query": "Coherent Corp. suppliers manufacturers",
+      "snippet": "Avnet Americas is an authorized distributor of Coherent products. Check stock, price and buy Coherent components online with same-day shipping."
+    },
+    {
+      "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Coherent_Corp.",
-      "title": "Coherent Corp.",
-      "snippet": "Coherent Corp. is an American manufacturer of optical materials and semiconductors. As of 2023, the company had 26,622 employees. Its stock is listed on the New York Stock Exchange under the ticker sy"
+      "query": "Coherent Corp. major customers clients",
+      "snippet": "Coherent Corp . is an American manufacturer of optical materials and semiconductors. As of 2023, the company had 26,622 employees. Its stock is listed"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.coherent.com/company/locations",
-      "query": "Coherent Corp. suppliers manufacturers",
-      "snippet": "Locate Coherent locations across the globe or discover our list of partners who can help you transform and innovate your laser application or solution"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.ibselectronics.com/manufacturers/coherent/",
-      "query": "Coherent Corp. suppliers manufacturers",
-      "snippet": "Coherent Corp . is a global leader in advanced materials, networking, and laser technologies, catering to the industrial, communications, electronics,"
+      "url": "https://www.coherent.com/",
+      "query": "Coherent Corp. major customers clients",
+      "snippet": "Learn how Coherent empowers innovations and breakthrough technologies for the industrial, communications, electronics, and instrumentation markets."
     }
   ]
 }

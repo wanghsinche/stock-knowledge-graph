@@ -3,8 +3,8 @@ ticker: GS
 company: The Goldman Sachs Group, Inc.
 sector: Financial Services
 industry: Capital Markets
-extracted_at: 2026-05-20 18:15:18
-last_updated: 2026-05-20
+extracted_at: 2026-05-21 17:56:53
+last_updated: 2026-05-21
 ---
 
 # GS - The Goldman Sachs Group, Inc.
@@ -12,46 +12,46 @@ last_updated: 2026-05-20
 ## 基本信息
 
 - **所属行业**: Financial Services / Capital Markets
-- **提取时间**: 2026-05-20 18:15:18
+- **提取时间**: 2026-05-21 17:56:53
 
 ## 产业链关系
 
 ### 上游供应商
-- [[MSFT]]
-- [[IBM]]
-- [[ORCL]]
-- [[SAP]]
-- [[Accenture]]
+- [[Market makers]]
+- [[Clearinghouses]]
+- [[Financial data vendors]]
+- [[Technology platform providers]]
+- [[Regulatory compliance services]]
 
 ### 下游客户
-- [[U.S. Treasury]]
-- [[European Central Bank]]
-- [[AAPL]]
-- [[Pension funds]]
-- [[Sovereign wealth funds]]
+- [[Corporate clients (M&A advisory)]]
+- [[Institutional investors (securities trading)]]
+- [[High‑net‑worth individuals (wealth management)]]
+- [[Pension funds (asset management)]]
+- [[Retail brokerage clients]]
 
 ### 竞争对手
-- [[JPMorgan Chase & Co.]]
+- [[J.P. Morgan Chase & Co.]]
 - [[Morgan Stanley]]
-- [[Citigroup Inc.]]
-- [[Bank of America]]
-- [[Wells Fargo]]
+- [[Citigroup]]
+- [[Bank of America Merrill Lynch]]
+- [[Credit Suisse]]
 
 ### 核心产品
 - [[Investment banking advisory]]
 - [[Securities underwriting]]
-- [[Asset management]]
-- [[Wealth management]]
-- [[Capital markets trading]]
+- [[Asset and wealth management]]
+- [[Equity and fixed‑income trading]]
+- [[Risk management and derivatives]]
 
 ## 数据来源
 
-- [Goldman Sachs](https://en.wikipedia.org/wiki/The_Goldman_Sachs_Group,_Inc.)
-- [The Goldman Sachs Group, Inc. suppliers manufacturers](https://csimarket.com/stocks/GS-Suppliers)
-- [The Goldman Sachs Group, Inc. suppliers manufacturers](https://www.goldmansachs.com/our-firm/our-vendor-program)
+- 
+- [The Goldman Sachs Group, Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/Goldman_Sachs)
+- [The Goldman Sachs Group, Inc. suppliers manufacturers](https://www.goldmansachs.com/)
 - [The Goldman Sachs Group, Inc. major customers clients](https://en.wikipedia.org/wiki/Goldman_Sachs)
-- [The Goldman Sachs Group, Inc. major customers clients](https://www.goldmansachs.com/what-we-do/serving-clients/delivering-for-our-clients)
+- [The Goldman Sachs Group, Inc. major customers clients](https://www.goldmansachs.com/what-we-do/serving-clients)
 
 ## 元数据
 
-- **更新日期**: 2026-05-20
+- **更新日期**: 2026-05-21

@@ -1,57 +1,57 @@
 ---
 ticker: APLD
 company: Applied Digital Corporation
-sector: Technology / Information Technology Services
+sector: Technology
 industry: Information Technology Services
-extracted_at: 2026-04-24 16:53:07
-last_updated: 2026-04-24
+extracted_at: 2026-05-21 17:55:47
+last_updated: 2026-05-21
 ---
 
 # APLD - Applied Digital Corporation
 
 ## 基本信息
 
-- **所属行业**: Technology / Information Technology Services / Information Technology Services
-- **提取时间**: 2026-04-24 16:53:07
+- **所属行业**: Technology / Information Technology Services
+- **提取时间**: 2026-05-21 17:55:47
 
 ## 产业链关系
 
 ### 上游供应商
-- [[WDC]]
-- [[STX]]
-- [[005930.KS]]
-- [[MU]]
-- [[SK Hynix]]
+- [[CSCO]]
+- [[JNPR]]
+- [[Huawei Technologies]]
+- [[Nokia]]
+- [[Ericsson]]
 
 ### 下游客户
-- [[AMZN]]
-- [[MSFT]]
-- [[GOOGL]]
-- [[Alibaba Cloud]]
-- [[IBM]]
+- [[CAT]]
+- [[Cloud service providers]]
+- [[Enterprise customers]]
+- [[Internet service providers]]
+- [[Content delivery networks]]
 
 ### 竞争对手
-- [[Accenture]]
-- [[IBM]]
-- [[Tata Consultancy Services]]
-- [[Infosys]]
-- [[Capgemini]]
+- [[Equinix]]
+- [[Digital Realty]]
+- [[CyrusOne]]
+- [[CoreSite]]
+- [[QTS Realty Trust]]
 
 ### 核心产品
-- [[Cloud infrastructure services]]
-- [[Managed data center services]]
-- [[IT consulting & digital transformation]]
-- [[Enterprise storage solutions]]
-- [[Hybrid cloud integration]]
+- [[Digital infrastructure solutions]]
+- [[Data center services]]
+- [[Fiber network connectivity]]
+- [[Managed services]]
+- [[Cloud connectivity]]
 
 ## 数据来源
 
 - 
-- [Applied Digital Corporation suppliers manufacturers](https://en.wikipedia.org/wiki/Western_Digital)
-- [Applied Digital Corporation suppliers manufacturers](https://csimarket.com/news/applied_digital_unveils_160_million_financing_to_propel_ai_and_compute_infrastructure_amidst_financial_challenges_br_n_2024-09-05130526)
-- [Applied Digital Corporation major customers clients](https://ir.applieddigital.com/news-events/press-releases/detail/65/applied-digital-onboards-first-major-customer-for-cloud)
-- [Applied Digital Corporation major customers clients](https://seekingalpha.com/article/4892048-applied-digital-has-the-capacity-time-to-get-the-customers)
+- [Applied Digital Corporation suppliers manufacturers](https://www.applieddigital.com/)
+- [Applied Digital Corporation suppliers manufacturers](https://csimarket.com/stocks/competitionSEG2.php?code=APLD)
+- [Applied Digital Corporation major customers clients](https://www.applieddigital.com/)
+- [Applied Digital Corporation major customers clients](https://finance.yahoo.com/news/applied-digital-onboards-first-major-120000455.html)
 
 ## 元数据
 
-- **更新日期**: 2026-04-24
+- **更新日期**: 2026-05-21

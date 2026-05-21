@@ -7,31 +7,31 @@
     "TSM",
     "005930.KS",
     "GlobalFoundries",
-    "ASE Technology Holding",
-    "Amkor Technology"
+    "UMC",
+    "SMIC"
   ],
   "downstream": [
     "SONY",
     "MSFT",
-    "AMZN",
-    "TSLA",
-    "NVDA"
+    "Nintendo",
+    "DELL",
+    "TSLA"
   ],
   "competitors": [
     "AMD",
     "INTC",
     "QCOM",
-    "AAPL",
-    "GOOGL"
+    "AVGO",
+    "Arm Holdings"
   ],
   "key_products": [
-    "GeForce RTX series GPUs",
-    "Tesla V100 / A100 GPUs",
-    "Jetson AGX Xavier",
-    "Drive PX automotive platform",
-    "DGX A100 AI supercomputer"
+    "GeForce GPUs",
+    "Tesla GPUs for data centers",
+    "NVIDIA DRIVE SoC",
+    "CUDA API",
+    "NVIDIA RTX GPUs"
   ],
-  "extracted_at": "2026-05-20 18:09:36",
+  "extracted_at": "2026-05-21 17:50:00",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
+      "url": "https://bgr.com/2030838/who-makes-where-manufactured-nvidia-gpus/",
+      "query": "NVIDIA Corporation suppliers manufacturers",
+      "snippet": "Nvidia designs chips, but TSMC (Taiwan) and Samsung (Korea) manufacture them. Learn how the global network produces the GPUs powering the AI boom."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.revenantresearch.com/p/nvidia-supply-chain-audit",
+      "query": "NVIDIA Corporation suppliers manufacturers",
+      "snippet": "NVIDIA's supply chain is geographically concentrated in East Asia, particularly in Taiwan and South Korea, where TSMC and other key suppliers are base"
+    },
+    {
+      "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Nvidia",
-      "query": "NVIDIA Corporation suppliers manufacturers",
-      "snippet": "1 day ago - In August 2025, Nvidia ordered ... due to security concerns. The company directed suppliers including Taiwan Semiconductor Manufacturing C"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/suppliers_glance.php?code=NVDA",
-      "query": "NVIDIA Corporation suppliers manufacturers",
-      "snippet": "February 26, 2026 - Nvidia supply chain, list and performance of Nvidias' suppliers - CSIMarket"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.fool.com/investing/2025/06/26/who-are-nvidias-biggest-customers/",
       "query": "NVIDIA Corporation major customers clients",
-      "snippet": "June 26, 2025 - Nvidia has amassed an impressive list of customers, which includes top AI developers like Amazon, Microsoft, and Alphabet ."
+      "snippet": "Nvidia thus avoids most of the investment and production costs and risks associated with chip manufacturing, although it does sometimes directly procu"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/markets_glance.php?code=NVDA",
+      "url": "https://coinlaw.io/nvidia-revenue-customer-concentration-q2/",
       "query": "NVIDIA Corporation major customers clients",
-      "snippet": "11 hours ago - Nvidia customers and markets, results by customer and performance relative to NVDA, by company and industry - CSIMarket"
+      "snippet": "Nvidia revealed that just two unnamed customers accounted for 39 percent of its total revenue in Q2, sparking debate about risk and transparency. Key "
     }
   ]
 }

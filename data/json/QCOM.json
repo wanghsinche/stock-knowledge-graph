@@ -4,34 +4,34 @@
   "sector": "Technology",
   "industry": "Semiconductors",
   "upstream": [
-    "Chipset manufacturers",
-    "Power supply unit suppliers",
-    "Memory (RAM) suppliers",
-    "CAT",
-    "Component suppliers"
+    "TSM",
+    "005930.KS",
+    "INTC",
+    "ASML",
+    "Nikon"
   ],
   "downstream": [
     "AAPL",
-    "CAT",
-    "International mobile network operators",
-    "Licensees of 5G and 4G technology",
-    "Consumer electronics companies"
+    "005930.KS",
+    "GOOGL",
+    "Xiaomi Corp.",
+    "Huawei Technologies"
   ],
   "competitors": [
-    "MediaTek",
+    "MediaTek Inc.",
+    "AAPL",
+    "005930.KS",
     "AVGO",
-    "INTC",
-    "NVDA",
-    "005930.KS"
+    "INTC"
   ],
   "key_products": [
     "Snapdragon mobile processors",
-    "5G and 4G modems",
+    "5G modems",
     "AI chips",
     "LTE modems",
-    "CDMA2000 and TD-SCDMA chips"
+    "Wi‑Fi chips"
   ],
-  "extracted_at": "2026-05-20 18:12:53",
+  "extracted_at": "2026-05-21 17:52:15",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/List_of_computer_hardware_manufacturers",
+      "url": "https://en.wikipedia.org/wiki/Qualcomm",
       "query": "QUALCOMM Incorporated suppliers manufacturers",
-      "snippet": "24 Chipsets for network cards. 25 Power supply units (PSUs). 26 Random-access memory (RAM) modules.Current notable computer hardware manufacturers : C"
+      "snippet": "Qualcomm Incorporated (/ ˈkwɒlkɒm /) [2] is an American multinational technology corporation headquartered in San Diego, California. [3] The company d"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.accio.com/supplier/qualcomm-manufacturer",
+      "query": "QUALCOMM Incorporated suppliers manufacturers",
+      "snippet": "May 9, 2026 · Need Qualcomm components? Discover verified manufacturers offering chips, wireless modules, and IoT solutions. Click to connect with sup"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://qualcomm.com/",
-      "query": "QUALCOMM Incorporated suppliers manufacturers",
+      "query": "QUALCOMM Incorporated major customers clients",
       "snippet": "Director of product management, Qualcomm Technologies, Inc ."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Qualcomm",
+      "url": "https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2ltMnNhTEVSRzJIU2Fkc19JMVdTZ0FQAQ?hl=en-NA&gl=NA&ceid=NA:en",
       "query": "QUALCOMM Incorporated major customers clients",
-      "snippet": "China became a major market for Qualcomm' s semiconductor products, representing more than fifty percent of its revenues, [103] but also the source of"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/QCOM-Customers",
-      "query": "QUALCOMM Incorporated major customers clients",
-      "snippet": "Consolidated revenues from international customers and licensees as a percentage of total revenues were 97%, and 49%, 20% and 11% of our revenues were"
+      "snippet": "Qualcomm Inc stock (US7475251036): AI smartphone boom and licensing engine under Wall Street’s spo. 2 days ago. Save for later."
     }
   ]
 }

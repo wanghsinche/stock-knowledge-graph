@@ -3,11 +3,35 @@
   "company_name": "Corning Incorporated",
   "sector": "Technology",
   "industry": "Electronic Components",
-  "upstream": [],
-  "downstream": [],
-  "competitors": [],
-  "key_products": [],
-  "extracted_at": "2026-05-20 18:17:44",
+  "upstream": [
+    "Silica sand suppliers (e.g., Rio Tinto, Vale)",
+    "Chemical suppliers (e.g., Dow Chemical, BASF)",
+    "Glass furnace equipment manufacturers (e.g., Babcock & Wilcox, Siemens)",
+    "Energy suppliers (electricity utilities, natural gas providers)",
+    "Logistics and transportation providers"
+  ],
+  "downstream": [
+    "AAPL",
+    "005930.KS",
+    "Huawei Technologies",
+    "INTC",
+    "Boeing Co."
+  ],
+  "competitors": [
+    "Saint‑Gobain",
+    "AGC Inc.",
+    "Schott AG",
+    "Nokia",
+    "Ciena"
+  ],
+  "key_products": [
+    "Gorilla Glass (display glass)",
+    "Optical fiber",
+    "Specialty glass for scientific instruments",
+    "Glass for automotive applications",
+    "Glass for medical devices"
+  ],
+  "extracted_at": "2026-05-21 17:57:30",
   "sources": [
     {
       "source": "Wikipedia",
@@ -17,15 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/GLW-Suppliers",
+      "url": "https://en.wikipedia.org/wiki/Corning_Inc.",
       "query": "Corning Incorporated suppliers manufacturers",
-      "snippet": "Corning Inc 's Comment on Supply Chain Corning’s production of specialty glasses, ceramics, and related materials requires significant quantities of e"
+      "snippet": "Corning Incorporated is an American multinational technology company specializing in glass, ceramics, and related materials and technologies including"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.corning.com/",
+      "url": "https://www.corning.com/worldwide/en.html",
       "query": "Corning Incorporated suppliers manufacturers",
-      "snippet": "For 175 years, Corning has combined its unparalleled expertise in glass science, ceramics science, and optical physics with deep manufacturing and eng"
+      "snippet": "Corning Incorporated is a global-leading innovator in materials science, with 170 years of life-changing inventions and category-defining products. Co"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/Corning_Inc.",
+      "query": "Corning Incorporated major customers clients",
+      "snippet": "Corning Incorporated is an American multinational technology company specializing in glass, ceramics, and related materials and technologies including"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://pitchgrade.com/companies/corning-inc",
+      "query": "Corning Incorporated major customers clients",
+      "snippet": "Customer Segments: Corning Incorporated serves multiple distinct customer segments, which may include consumers, small and medium businesses, enterpri"
     }
   ]
 }

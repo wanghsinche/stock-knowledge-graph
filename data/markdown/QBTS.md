@@ -3,8 +3,8 @@ ticker: QBTS
 company: D-Wave Quantum Inc.
 sector: Technology
 industry: Computer Hardware
-extracted_at: 2026-04-16 17:08:12
-last_updated: 2026-04-16
+extracted_at: 2026-05-21 17:54:48
+last_updated: 2026-05-21
 ---
 
 # QBTS - D-Wave Quantum Inc.
@@ -12,40 +12,46 @@ last_updated: 2026-04-16
 ## 基本信息
 
 - **所属行业**: Technology / Computer Hardware
-- **提取时间**: 2026-04-16 17:08:12
+- **提取时间**: 2026-05-21 17:54:48
 
 ## 产业链关系
 
 ### 上游供应商
-_暂无数据_
+- [[Cryogenic equipment suppliers]]
+- [[Superconducting material suppliers]]
+- [[Electronic component manufacturers]]
+- [[CAT]]
+- [[Software development tool vendors]]
 
 ### 下游客户
-- [[Lockheed Martin]]
-- [[University of Southern California]]
-- [[GOOGL]]
-- [[NASA]]
-- [[Los Alamos National Laboratory]]
+- [[Academic research institutions]]
+- [[Government research laboratories]]
+- [[Quantum computing service providers]]
+- [[Enterprise technology customers]]
+- [[Cloud service providers]]
 
 ### 竞争对手
-- [[IonQ]]
+- [[IBM]]
 - [[Rigetti Computing]]
-- [[Quantum Computing Inc.]]
+- [[IonQ]]
+- [[Xanadu]]
+- [[Quantinuum]]
 
 ### 核心产品
-- [[D-Wave Advantage]]
+- [[D-Wave Advantage quantum annealer]]
 - [[D-Wave 2000Q]]
-- [[Quantum annealer]]
-- [[Quantum processor]]
-- [[Quantum computing platform]]
+- [[D-Wave 2000Q Advantage]]
+- [[Quantum software platform]]
+- [[Quantum Processing Unit (QPU)]]
 
 ## 数据来源
 
-- [D-Wave Systems](https://en.wikipedia.org/wiki/D-Wave_Quantum_Inc.)
-- [D-Wave Quantum Inc. suppliers manufacturers](https://csimarket.com/stocks/QBTS-Suppliers)
+- 
+- [D-Wave Quantum Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/D-Wave_Systems)
 - [D-Wave Quantum Inc. suppliers manufacturers](https://www.dwavequantum.com/)
-- [D-Wave Quantum Inc. major customers clients](https://stockanalysis.com/stocks/qbts/)
-- [D-Wave Quantum Inc. major customers clients](https://www.nasdaq.com/articles/3-unpleasant-truths-investors-ionq-rigetti-computing-d-wave-quantum-and-quantum-computing)
+- [D-Wave Quantum Inc. major customers clients](https://www.dwavequantum.com/learn/customer-success-stories/)
+- [D-Wave Quantum Inc. major customers clients](https://csimarket.com/stocks/QBTS-Customers)
 
 ## 元数据
 
-- **更新日期**: 2026-04-16
+- **更新日期**: 2026-05-21

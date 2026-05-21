@@ -3,8 +3,8 @@ ticker: XOM
 company: Exxon Mobil Corporation
 sector: Energy
 industry: Oil & Gas Integrated
-extracted_at: 2026-05-20 18:15:31
-last_updated: 2026-05-20
+extracted_at: 2026-05-21 17:56:42
+last_updated: 2026-05-21
 ---
 
 # XOM - Exxon Mobil Corporation
@@ -12,37 +12,42 @@ last_updated: 2026-05-20
 ## 基本信息
 
 - **所属行业**: Energy / Oil & Gas Integrated
-- **提取时间**: 2026-05-20 18:15:31
+- **提取时间**: 2026-05-21 17:56:42
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Drilling rig manufacturers (e.g., Halliburton, Baker Hughes)]]
-- [[Petroleum equipment suppliers (e.g., Schlumberger)]]
-- [[Pipeline construction firms]]
-- [[Exploration technology providers]]
-- [[Oilfield services companies]]
+- [[Halliburton]]
+- [[Schlumberger]]
+- [[Baker Hughes]]
+- [[Weatherford]]
+- [[National Oilwell Varco]]
 
 ### 下游客户
-- [[Automotive industry (fuel sales)]]
-- [[Aviation sector (jet fuel)]]
-- [[Industrial petrochemical plants]]
-- [[Retail fuel stations]]
-- [[Manufacturing of plastics and synthetic rubber]]
+- [[American Airlines]]
+- [[Delta Air Lines]]
+- [[Exxon Retail Network]]
+- [[Mobil Retail Network]]
+- [[Dow Chemical]]
 
 ### 竞争对手
-- [[Chevron Corporation]]
-- [[Royal Dutch Shell plc]]
-- [[BP plc]]
-- [[TotalEnergies SE]]
+- [[Chevron]]
 - [[ConocoPhillips]]
+- [[Royal Dutch Shell]]
+- [[BP]]
+- [[TotalEnergies]]
 
 ### 核心产品
 - [[Crude oil]]
 - [[Natural gas]]
 - [[Gasoline]]
-- [[Diesel fuel]]
-- [[Petrochemical feedstocks (ethylene, propylene)]]
+- [[Diesel]]
+- [[Jet fuel]]
+- [[Lubricants]]
+- [[Ethylene]]
+- [[Propylene]]
+- [[Polyethylene]]
+- [[Synthetic rubber]]
 
 ## 数据来源
 
@@ -54,4 +59,4 @@ last_updated: 2026-05-20
 
 ## 元数据
 
-- **更新日期**: 2026-05-20
+- **更新日期**: 2026-05-21

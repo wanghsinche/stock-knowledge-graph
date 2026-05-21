@@ -4,64 +4,64 @@
   "sector": "Technology",
   "industry": "Communication Equipment",
   "upstream": [
-    "Foxconn",
-    "Flex",
-    "Jabil",
-    "Wistron",
-    "Pegatron"
+    "AVGO",
+    "INTC",
+    "QCOM",
+    "TXN",
+    "NVDA"
   ],
   "downstream": [
+    "AT&T",
+    "Verizon",
+    "Comcast",
     "GOOGL",
-    "AMZN",
-    "MSFT",
-    "IBM",
-    "AT&T"
+    "AMZN"
   ],
   "competitors": [
     "JNPR",
-    "ANET",
     "Huawei",
+    "ANET",
     "HPQ",
-    "DELL"
+    "Nokia"
   ],
   "key_products": [
     "Cisco routers",
     "Cisco switches",
-    "Cisco Webex",
-    "Cisco Meraki",
-    "Cisco ASA firewall"
+    "Cisco wireless LAN",
+    "Cisco security appliances",
+    "Cisco SD‑WAN"
   ],
-  "extracted_at": "2026-05-20 18:16:36",
+  "extracted_at": "2026-05-21 17:57:01",
   "sources": [
     {
       "source": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Cisco_Systems,_Inc.",
-      "title": "Cisco",
-      "snippet": "Cisco Systems, Inc., doing business as Cisco, is an American multinational technology conglomerate corporation that develops, manufactures, and sells hardware, software, telecommunications equipment a"
+      "url": "",
+      "title": "",
+      "snippet": ""
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.cisco.com/c/dam/en_us/about/supply-chain/cisco-supplier-list.pdf",
       "query": "Cisco Systems, Inc. suppliers manufacturers",
-      "snippet": "Cisco Supplier List Cisco products are made by a complex global network of manufacturing partners and component suppliers . To learn more about how we"
+      "snippet": "Below is an alphabetical list of Cisco Contract Manufacturers , strategic Original Design Manufacturers , Joint Development Manufacturers , and Compon"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.accio.com/supplier/cisco-supplier-list",
       "query": "Cisco Systems, Inc. suppliers manufacturers",
-      "snippet": "4 days ago · Cisco Partners (including resellers, distributors, and system integrators) are authorized by Cisco to sell, support, and implement Cisco "
+      "snippet": "5 days ago · Need reliable Cisco suppliers ? Discover verified vendors offering networking equipment like switches, routers, and security appliances. "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.cisco.com/site/us/en/about/case-studies-customer-stories/index.html",
+      "url": "https://en.wikipedia.org/wiki/Cisco",
       "query": "Cisco Systems, Inc. major customers clients",
-      "snippet": "Read Cisco case studies and customer success stories highlighting the ways organizations have realized their goals and helped drive outcomes."
+      "snippet": "Cisco Systems , Inc ., doing business as Cisco , is an American multinational technology conglomerate corporation that develops, manufactures, and sel"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.appsruntheworld.com/customers-database/vendors/view/cisco-systems",
+      "url": "https://ru.wikipedia.org/wiki/Cisco",
       "query": "Cisco Systems, Inc. major customers clients",
-      "snippet": "List of companies using or evaluating Cisco Systems applications, with details on their revenues, employees, industries, and locations."
+      "snippet": "Cisco Systems , «Сиско Системз» — американская транснациональная компания, разрабатывающая и продающая сетевое оборудование, предназначенное в основно"
     }
   ]
 }

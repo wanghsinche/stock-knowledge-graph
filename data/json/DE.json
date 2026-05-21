@@ -4,42 +4,40 @@
   "sector": "Industrials",
   "industry": "Farm & Heavy Construction Machinery",
   "upstream": [
-    "Steel and alloy suppliers",
-    "Aluminum and composite manufacturers",
-    "Rubber and tire producers",
+    "Steel suppliers",
+    "Aluminum suppliers",
     "Electronic component suppliers",
-    "Diesel engine manufacturers"
+    "Hydraulic component suppliers",
+    "Tire manufacturers"
   ],
   "downstream": [
-    "Commercial farmers and agribusinesses",
-    "Construction and civil engineering firms",
-    "Forestry and logging companies",
-    "Government and municipal agencies",
-    "Lawn and landscape maintenance businesses"
+    "Large commercial farms",
+    "Construction and mining firms",
+    "Forestry operations",
+    "Municipal governments",
+    "Defense contractors"
   ],
   "competitors": [
-    "AGCO Corp",
     "CNH Industrial",
-    "Kubota Corp",
+    "AGCO Corporation",
+    "Kubota Corporation",
     "Mahindra & Mahindra",
-    "CAT"
+    "Iveco"
   ],
   "key_products": [
     "Tractors",
     "Combine harvesters",
-    "Sprayers and planters",
-    "Hay and forage equipment",
-    "Forestry and logging machinery",
+    "Sprayers",
     "Diesel engines",
-    "Lawn care equipment"
+    "Forestry equipment"
   ],
-  "extracted_at": "2026-02-20 16:35:10",
+  "extracted_at": "2026-05-21 17:58:09",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Deere_&_Company",
       "title": "John Deere",
-      "snippet": "Deere & Company, doing business as John Deere, is an American corporation that manufactures agricultural machinery, heavy equipment, forestry machinery, diesel engines, drivetrains used in heavy equip"
+      "snippet": "Deere & Company, is an American corporation that manufactures agricultural machinery, heavy equipment, forestry machinery, diesel engines, drivetrains used in heavy equipment and lawn care equipment. "
     },
     {
       "source": "DuckDuckGo",
@@ -51,19 +49,19 @@
       "source": "DuckDuckGo",
       "url": "https://csimarket.com/stocks/DE-Suppliers",
       "query": "Deere & Company suppliers manufacturers",
-      "snippet": "Dec 21, 2025 · Deere And Co's Comment on Supply Chain Raw Materials John Deere purchases raw materials and some manufactured components and replacemen"
+      "snippet": "John Deere purchases raw materials and some manufactured components and replacement parts for its equipment, engines and other products from leading s"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/DE-Customers",
+      "query": "Deere & Company major customers clients",
+      "snippet": "Apr 22, 2026 · For your research, we’ve provided 9 tables on Deere and Co corporate clients . You can find them in the navigation menu under Customers"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://about.deere.com/en-us/our-company-and-purpose/celebrating-our-customers",
       "query": "Deere & Company major customers clients",
-      "snippet": "For nearly two centuries, John Deere has supported those who shape our world. From the farmers who grow our food; to the contractors who build our roa"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.deere.com/assets/pdfs/common/our-company/deere-",
-      "query": "Deere & Company major customers clients",
-      "snippet": "For 185 years John Deere has led the way in developing innovative solutions to help our customers become more productive. We conduct business essentia"
+      "snippet": "John Deere partners with our customers to provide innovative solutions to care for their land across various industries like agriculture, construction"
     }
   ]
 }

@@ -3,57 +3,65 @@
   "company_name": "D-Wave Quantum Inc.",
   "sector": "Technology",
   "industry": "Computer Hardware",
-  "upstream": [],
+  "upstream": [
+    "Cryogenic equipment suppliers",
+    "Superconducting material suppliers",
+    "Electronic component manufacturers",
+    "CAT",
+    "Software development tool vendors"
+  ],
   "downstream": [
-    "Lockheed Martin",
-    "University of Southern California",
-    "GOOGL",
-    "NASA",
-    "Los Alamos National Laboratory"
+    "Academic research institutions",
+    "Government research laboratories",
+    "Quantum computing service providers",
+    "Enterprise technology customers",
+    "Cloud service providers"
   ],
   "competitors": [
-    "IonQ",
+    "IBM",
     "Rigetti Computing",
-    "Quantum Computing Inc."
+    "IonQ",
+    "Xanadu",
+    "Quantinuum"
   ],
   "key_products": [
-    "D-Wave Advantage",
+    "D-Wave Advantage quantum annealer",
     "D-Wave 2000Q",
-    "Quantum annealer",
-    "Quantum processor",
-    "Quantum computing platform"
+    "D-Wave 2000Q Advantage",
+    "Quantum software platform",
+    "Quantum Processing Unit (QPU)"
   ],
-  "extracted_at": "2026-04-16 17:08:12",
+  "extracted_at": "2026-05-21 17:54:48",
   "sources": [
     {
       "source": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/D-Wave_Quantum_Inc.",
-      "title": "D-Wave Systems",
-      "snippet": "D-Wave Quantum Inc. is a quantum computing company with locations in Palo Alto, California and Burnaby, British Columbia. D-Wave claims to be the world's first company to sell computers that exploit q"
+      "url": "",
+      "title": "",
+      "snippet": ""
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/QBTS-Suppliers",
+      "url": "https://en.wikipedia.org/wiki/D-Wave_Systems",
       "query": "D-Wave Quantum Inc. suppliers manufacturers",
-      "snippet": "Mar 5, 2026 · For your research, we’ve provided nine additional tables on D wave Quantum Inc ’ s suppliers . You can find them in the navigation menu "
+      "snippet": "D - Wave Quantum Inc . is a quantum computing company with locations in Palo Alto, California and Burnaby, British Columbia."
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.dwavequantum.com/",
       "query": "D-Wave Quantum Inc. suppliers manufacturers",
-      "snippet": "D - Wave has developed a clear framework that deflates the hype, helping you develop an informed position on quantum . The framework consists of three"
+      "snippet": "Unlike other quantum systems that are years away from practical use, D - Wave 's annealing quantum computing technology is ready for real-world applic"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://stockanalysis.com/stocks/qbts/",
+      "url": "https://www.dwavequantum.com/learn/customer-success-stories/",
       "query": "D-Wave Quantum Inc. major customers clients",
-      "snippet": "D - Wave Quantum Inc . engages in the development and delivery of quantum computing systems, software, and services worldwide. It provides Advantage a"
+      "snippet": "Our quantum technology has been applied to a variety of problems ranging from grocery optimization to protein design. Hear more about our customers ' "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.nasdaq.com/articles/3-unpleasant-truths-investors-ionq-rigetti-computing-d-wave-quantum-and-quantum-computing",
+      "url": "https://csimarket.com/stocks/QBTS-Customers",
       "query": "D-Wave Quantum Inc. major customers clients",
-      "snippet": "In order for IonQ, Rigetti Computing, D - Wave Quantum , and Quantum Computing Inc . to facilitate their ongoing research and keep the proverbial ligh"
+      "snippet": "3 days ago · For your research, we’ve provided 9 tables on D wave Quantum Inc corporate clients . You can find them in the navigation menu under Custo"
     }
   ]
 }

@@ -1,57 +1,57 @@
 ---
 ticker: WMT
 company: Walmart Inc.
-sector: Consumer Defensive / Discount Stores
-industry: Retail - Discount Stores
-extracted_at: 2026-05-20 18:14:51
-last_updated: 2026-05-20
+sector: Consumer Defensive
+industry: Discount Stores
+extracted_at: 2026-05-21 17:51:54
+last_updated: 2026-05-21
 ---
 
 # WMT - Walmart Inc.
 
 ## 基本信息
 
-- **所属行业**: Consumer Defensive / Discount Stores / Retail - Discount Stores
-- **提取时间**: 2026-05-20 18:14:51
+- **所属行业**: Consumer Defensive / Discount Stores
+- **提取时间**: 2026-05-21 17:51:54
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Plug Power Inc.]]
 - [[Procter & Gamble]]
-- [[HPQ]]
-- [[Coca‑Cola]]
-- [[Nike]]
+- [[Coca-Cola]]
+- [[PepsiCo]]
+- [[Nestlé]]
+- [[Unilever]]
 
 ### 下游客户
 - [[Consumers]]
-- [[Online shoppers]]
 - [[Small businesses]]
+- [[Online shoppers]]
 - [[Local communities]]
-- [[Corporate clients]]
+- [[Employees]]
 
 ### 竞争对手
-- [[Target Corp.]]
-- [[Costco Wholesale Corp.]]
-- [[Dollar General Corp.]]
-- [[Aldi Inc.]]
-- [[BJ’s Wholesale Club]]
+- [[Target]]
+- [[Costco]]
+- [[AMZN]]
+- [[BJ's Wholesale]]
+- [[Dollar General]]
 
 ### 核心产品
-- [[Grocery and fresh produce]]
-- [[Household goods and appliances]]
-- [[Electronics and computers]]
-- [[Apparel and footwear]]
-- [[Pharmacy and health products]]
+- [[Groceries]]
+- [[Apparel]]
+- [[Electronics]]
+- [[Household goods]]
+- [[Pharmacy]]
 
 ## 数据来源
 
-- [Walmart](https://en.wikipedia.org/wiki/Walmart_Inc.)
+- 
 - [Walmart Inc. suppliers manufacturers](https://corporate.walmart.com/suppliers)
-- [Walmart Inc. suppliers manufacturers](https://solatatech.com/article/5-key-suppliers-of-walmart)
+- [Walmart Inc. suppliers manufacturers](https://www.accio.com/supplier/list-of-walmart-suppliers)
 - [Walmart Inc. major customers clients](https://en.wikipedia.org/wiki/Walmart)
 - [Walmart Inc. major customers clients](https://www.walmart.com/)
 
 ## 元数据
 
-- **更新日期**: 2026-05-20
+- **更新日期**: 2026-05-21

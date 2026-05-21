@@ -3,8 +3,8 @@ ticker: IBM
 company: International Business Machines Corporation
 sector: Technology
 industry: Information Technology Services
-extracted_at: 2026-04-27 17:25:02
-last_updated: 2026-04-27
+extracted_at: 2026-05-21 17:52:33
+last_updated: 2026-05-21
 ---
 
 # IBM - International Business Machines Corporation
@@ -12,7 +12,7 @@ last_updated: 2026-04-27
 ## 基本信息
 
 - **所属行业**: Technology / Information Technology Services
-- **提取时间**: 2026-04-27 17:25:02
+- **提取时间**: 2026-05-21 17:52:33
 
 ## 产业链关系
 
@@ -20,8 +20,8 @@ last_updated: 2026-04-27
 - [[INTC]]
 - [[NVDA]]
 - [[AMD]]
-- [[QCOM]]
-- [[005930.KS]]
+- [[CSCO]]
+- [[DELL]]
 
 ### 下游客户
 - [[U.S. Federal Government]]
@@ -32,26 +32,26 @@ last_updated: 2026-04-27
 
 ### 竞争对手
 - [[MSFT]]
-- [[Accenture]]
+- [[AMZN]]
+- [[GOOGL]]
 - [[ORCL]]
-- [[SAP]]
-- [[CSCO]]
+- [[Accenture]]
 
 ### 核心产品
 - [[IBM Cloud]]
 - [[IBM Watson]]
 - [[IBM Power Systems]]
+- [[IBM z Systems]]
 - [[IBM Security]]
-- [[IBM Analytics]]
 
 ## 数据来源
 
 - [IBM](https://en.wikipedia.org/wiki/International_Business_Machines_Corporation)
-- [International Business Machines Corporation suppliers manufacturers](https://en.wikipedia.org/wiki/List_of_IBM_products)
-- [International Business Machines Corporation suppliers manufacturers](https://csimarket.com/stocks/IBM-Suppliers)
+- [International Business Machines Corporation suppliers manufacturers](https://en.wikipedia.org/wiki/IBM)
+- [International Business Machines Corporation suppliers manufacturers](https://ru.wikipedia.org/wiki/IBM)
 - [International Business Machines Corporation major customers clients](https://en.wikipedia.org/wiki/IBM)
-- [International Business Machines Corporation major customers clients](https://www.insidermonkey.com/blog/international-business-machines-corporation-nyseibm-q1-2026-earnings-call-transcript-1744782/)
+- [International Business Machines Corporation major customers clients](https://www.insidermonkey.com/blog/international-business-machines-corporation-ibm-using-blockchain-to-build-trust-in-ai-1760536/)
 
 ## 元数据
 
-- **更新日期**: 2026-04-27
+- **更新日期**: 2026-05-21

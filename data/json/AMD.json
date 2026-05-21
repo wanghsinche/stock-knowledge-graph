@@ -3,11 +3,35 @@
   "company_name": "Advanced Micro Devices, Inc.",
   "sector": "Technology",
   "industry": "Semiconductors",
-  "upstream": [],
-  "downstream": [],
-  "competitors": [],
-  "key_products": [],
-  "extracted_at": "2026-05-20 18:10:25",
+  "upstream": [
+    "TSM",
+    "GlobalFoundries",
+    "005930.KS",
+    "ASE",
+    "SMIC"
+  ],
+  "downstream": [
+    "DELL",
+    "HPQ",
+    "Lenovo",
+    "SONY",
+    "MSFT"
+  ],
+  "competitors": [
+    "INTC",
+    "NVDA",
+    "QCOM",
+    "AVGO",
+    "005930.KS"
+  ],
+  "key_products": [
+    "Ryzen CPUs",
+    "EPYC CPUs",
+    "Radeon GPUs",
+    "Instinct GPUs",
+    "Threadripper CPUs"
+  ],
+  "extracted_at": "2026-05-21 17:50:53",
   "sources": [
     {
       "source": "Wikipedia",
@@ -25,6 +49,18 @@
       "source": "DuckDuckGo",
       "url": "https://www.britannica.com/money/Advanced-Micro-Devices-Inc",
       "query": "Advanced Micro Devices, Inc. suppliers manufacturers",
+      "snippet": "Advanced Micro Devices , Inc . ( AMD ) is an American semiconductor designer and global supplier of computing and graphics technologies used in data c"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/AMD",
+      "query": "Advanced Micro Devices, Inc. major customers clients",
+      "snippet": "Advanced Micro Devices , Inc . Advanced Micro Devices , Inc . ( AMD ) is an American multinational semiconductor company headquartered in Santa Clara,"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.britannica.com/money/Advanced-Micro-Devices-Inc",
+      "query": "Advanced Micro Devices, Inc. major customers clients",
       "snippet": "Advanced Micro Devices , Inc . ( AMD ) is an American semiconductor designer and global supplier of computing and graphics technologies used in data c"
     }
   ]

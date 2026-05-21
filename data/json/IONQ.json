@@ -4,34 +4,34 @@
   "sector": "Technology",
   "industry": "Computer Hardware",
   "upstream": [
-    "Laser system manufacturers (e.g., Coherent, Thorlabs)",
-    "Vacuum system suppliers (e.g., Edwards, Leybold)",
-    "Cryogenic equipment providers (e.g., Cryomech)",
-    "Electronic component suppliers (e.g., National Instruments)",
-    "Ion trap component manufacturers (custom in‑house or specialized vendors)"
+    "Laser system manufacturers",
+    "Vacuum chamber suppliers",
+    "Cryogenic equipment providers",
+    "Ion trap component suppliers",
+    "High‑precision electronics vendors"
   ],
   "downstream": [
+    "University research laboratories",
+    "National laboratories (e.g., DOE, DARPA)",
     "MSFT",
-    "Enterprise research institutions (MIT, Harvard, Stanford)",
-    "Pharmaceutical companies (e.g., Pfizer, Merck)",
-    "Financial services firms (e.g., JPMorgan, Goldman Sachs)",
-    "Automotive manufacturers (e.g., Toyota)"
+    "Government agencies",
+    "Academic consortiums"
   ],
   "competitors": [
     "Rigetti Computing",
     "D-Wave Systems",
-    "Quantinuum (Honeywell)",
     "Xanadu",
-    "PsiQuantum"
+    "Honeywell Quantum Solutions",
+    "Quantum Motion"
   ],
   "key_products": [
     "Trapped‑ion quantum processors",
-    "Quantum computing cloud platform",
-    "Quantum software stack (Qiskit, Cirq integration)",
-    "Quantum optimization services",
-    "Quantum algorithm development tools"
+    "Quantum computing software stack",
+    "QPU (Quantum Processing Unit) hardware",
+    "Quantum algorithm optimization tools",
+    "Quantum simulation software"
   ],
-  "extracted_at": "2026-05-12 17:58:42",
+  "extracted_at": "2026-05-21 17:53:25",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,21 +47,21 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.ionq.com/",
+      "url": "https://csimarket.com/stocks/IONQWS-Suppliers",
       "query": "IonQ, Inc. suppliers manufacturers",
-      "snippet": "IonQ partnered with a leading global automotive manufacturer , applying quantum-classical AI to solve critical materials science challenges. Our model"
+      "snippet": "May 9, 2026 · For your research, we’ve provided nine additional tables on Ionq Inc ’ s suppliers . You can find them in the navigation menu under Supp"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.ionq.com/",
+      "url": "https://csimarket.com/stocks/IONQWS-Customers",
       "query": "IonQ, Inc. major customers clients",
-      "snippet": "IonQ delivers trapped ion quantum computing systems, cloud access, and enterprise solutions for real-world quantum applications.Quantum computing is c"
+      "snippet": "Dec 29, 2025 · For your research, we’ve provided 9 tables on Ionq Inc corporate clients . You can find them in the navigation menu under Customers & M"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.youtube.com/watch?v=ZDn2HA62z-8",
+      "url": "https://www.fool.com/earnings/call-transcripts/2026/05/06/ionq-ionq-q1-2026-earnings-call-transcript/",
       "query": "IonQ, Inc. major customers clients",
-      "snippet": "In this video, we take a deep dive into IonQ Inc . (NYSE: IONQ ), a leading company in trapped-ion quantum computing, working to reshape industries wi"
+      "snippet": "May 6, 2026 · We continue to grow internationally, adding both application engineers and field engineers to support customer appetite for implementing"
     }
   ]
 }

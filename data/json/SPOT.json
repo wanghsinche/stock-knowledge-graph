@@ -1,49 +1,49 @@
 {
   "ticker": "SPOT",
   "company_name": "Spotify Technology S.A.",
-  "sector": "Communication Services / Internet Content & Information",
-  "industry": "Audio Streaming & Media Services",
+  "sector": "Communication Services",
+  "industry": "Internet Content & Information",
   "upstream": [
-    "SONY",
-    "Music publishers and rights holders",
-    "MSFT",
-    "Content delivery network (CDN) providers",
-    "AAPL"
+    "Music record labels",
+    "Content licensing partners",
+    "Artists & songwriters",
+    "Music publishers",
+    "Audio equipment manufacturers"
   ],
   "downstream": [
-    "Individual music listeners (over 750 million monthly active users)",
-    "Advertisers and brands using Spotify Ad Studio",
-    "Podcasters and content creators on the Spotify platform",
-    "Music industry partners (artists, labels, distributors)",
-    "Enterprise customers using Spotify for Business solutions"
+    "Individual consumers",
+    "Advertisers",
+    "Device manufacturers",
+    "Smart speaker platforms",
+    "Enterprise clients"
   ],
   "competitors": [
     "AAPL",
     "AMZN",
     "YouTube Music",
     "Tidal",
-    "Deezer"
+    "Pandora"
   ],
   "key_products": [
-    "Spotify Music streaming service (free and Premium tiers)",
-    "Spotify Podcasts and exclusive podcast content",
-    "Spotify Ad Studio (advertising platform)",
-    "Spotify for Artists (artist analytics and promotion tools)",
-    "Spotify Wrapped (annual personalized listening summary)"
+    "Spotify Streaming Service",
+    "Spotify Premium",
+    "Spotify Ad-supported",
+    "Spotify Podcasts",
+    "Spotify for Artists"
   ],
-  "extracted_at": "2026-04-29 17:27:42",
+  "extracted_at": "2026-05-21 17:54:01",
   "sources": [
     {
       "source": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Spotify_Technology_S.A.",
-      "title": "Spotify",
-      "snippet": "Spotify is a Swedish audio streaming and media service provider founded in April 2006 by Daniel Ek and Martin Lorentzon. As of December 2025, it was one of the largest providers of music streaming ser"
+      "url": "",
+      "title": "",
+      "snippet": ""
     },
     {
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Spotify",
       "query": "Spotify Technology S.A. suppliers manufacturers",
-      "snippet": "Spotify is a Swedish audio streaming and media service provider founded in April 2006 by Daniel Ek and Martin Lorentzon."
+      "snippet": "Spotify is a Swedish audio streaming and media service provider founded in April 2006 by the businessmen Daniel Ek and Martin Lorentzon."
     },
     {
       "source": "DuckDuckGo",
@@ -59,9 +59,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://support.spotify.com/us/article/contact-us/",
+      "url": "https://www.mexc.fm/stocks/spot",
       "query": "Spotify Technology S.A. major customers clients",
-      "snippet": "Post or search on our Spotify Community, where listeners help out and share ideas and solutions. Spotify for Artists. Check out the Spotify for Artist"
+      "snippet": "What is Spotify Technology S . A . (SPOT)? Spotify is the leading global music streaming service, with over 750 million monthly active users and nearl"
     }
   ]
 }
