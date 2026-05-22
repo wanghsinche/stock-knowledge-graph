@@ -3,8 +3,8 @@ ticker: IREN
 company: IREN Limited
 sector: Financial Services
 industry: Capital Markets
-extracted_at: 2026-05-21 17:54:39
-last_updated: 2026-05-21
+extracted_at: 2026-05-22 17:51:27
+last_updated: 2026-05-22
 ---
 
 # IREN - IREN Limited
@@ -12,22 +12,22 @@ last_updated: 2026-05-21
 ## 基本信息
 
 - **所属行业**: Financial Services / Capital Markets
-- **提取时间**: 2026-05-21 17:54:39
+- **提取时间**: 2026-05-22 17:51:27
 
 ## 产业链关系
 
 ### 上游供应商
 - [[Bloomberg]]
 - [[Refinitiv]]
-- [[NASDAQ]]
-- [[NYSE]]
+- [[FactSet]]
+- [[Tradeweb]]
 - [[Citi]]
 
 ### 下游客户
 - [[Retail investors]]
 - [[Institutional investors]]
 - [[High net worth individuals]]
-- [[Pension funds]]
+- [[Financial advisors]]
 - [[Corporate clients]]
 
 ### 竞争对手
@@ -38,11 +38,11 @@ last_updated: 2026-05-21
 - [[E*TRADE]]
 
 ### 核心产品
-- [[Online brokerage platform]]
-- [[Wealth management services]]
+- [[Brokerage services]]
+- [[Wealth management]]
 - [[Investment advisory]]
+- [[Trading platform]]
 - [[Research reports]]
-- [[Trading execution services]]
 
 ## 数据来源
 
@@ -54,4 +54,4 @@ last_updated: 2026-05-21
 
 ## 元数据
 
-- **更新日期**: 2026-05-21
+- **更新日期**: 2026-05-22

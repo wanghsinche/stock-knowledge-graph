@@ -1,37 +1,37 @@
 {
   "ticker": "MSTR",
   "company_name": "Strategy Inc",
-  "sector": "Technology / Software - Application",
-  "industry": "Business Intelligence & Analytics",
+  "sector": "Technology",
+  "industry": "Software - Application",
   "upstream": [
     "MSFT",
     "AMZN",
     "GOOGL",
     "ORCL",
-    "SAP"
+    "IBM"
   ],
   "downstream": [
     "Walmart",
     "JPMorgan Chase",
     "Bank of America",
-    "AT&T",
-    "Verizon"
+    "Coca‑Cola",
+    "General Motors"
   ],
   "competitors": [
     "SAP SE Business Objects",
     "IBM",
     "ORCL",
-    "CRM",
-    "Qlik"
+    "MSFT",
+    "Tableau Software"
   ],
   "key_products": [
-    "MicroStrategy Desktop",
-    "MicroStrategy Web",
-    "MicroStrategy Mobile",
-    "MicroStrategy Analytics",
-    "MicroStrategy Cloud"
+    "MicroStrategy Analytics Platform",
+    "Mobile BI Applications",
+    "Data Visualization Tools",
+    "Enterprise Reporting Suite",
+    "Data Governance Solutions"
   ],
-  "extracted_at": "2026-05-21 17:58:26",
+  "extracted_at": "2026-05-22 17:52:25",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,15 +41,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.autostoresystem.com/insights/real-life-supply-chain-strategy-examples",
+      "url": "https://finance.yahoo.com/quote/MSTR/",
       "query": "Strategy Inc suppliers manufacturers",
-      "snippet": "Explore real-life examples of effective supply chain management and learn how AutoStore can elevate your tactics. Missing: Inc | Show results with: In"
+      "snippet": "Find the latest Strategy Inc (MSTR) stock quote, history, news and other vital information to help you with your stock trading and investing."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.strategy.com/software",
+      "url": "https://ru.investing.com/equities/microstrategy-inc",
       "query": "Strategy Inc suppliers manufacturers",
-      "snippet": "Strategy Solutions powered by Mosaic provide a universal semantic layer that unifies enterprise data, governs business metrics, and delivers trusted A"
+      "snippet": "Акции Strategy Inc (MSTR): курс сегодня, актуальная цена онлайн, графики, мнения, технический анализ, отчеты и другое о Strategy ."
     },
     {
       "source": "DuckDuckGo",

@@ -4,52 +4,40 @@
   "sector": "Consumer Defensive",
   "industry": "Discount Stores",
   "upstream": [
-    "Food and beverage manufacturers",
-    "Electronics producers",
-    "Apparel and footwear brands",
-    "Furniture and home goods manufacturers",
-    "Household cleaning product suppliers"
+    "Tyson Foods",
+    "Cargill",
+    "PepsiCo",
+    "Coca‑Cola",
+    "Nestlé"
   ],
   "downstream": [
-    "Individual retail members",
-    "Small business owners",
-    "Restaurant and food service operators",
-    "CAT",
-    "Healthcare facilities"
+    "U.S. consumers",
+    "Canadian consumers",
+    "Corporate members",
+    "Small businesses",
+    "Online shoppers"
   ],
   "competitors": [
     "Walmart",
     "Target",
-    "Sam's Club",
-    "BJ's Wholesale Club",
-    "Dollar General"
+    "BJ’s Wholesale Club",
+    "Sam’s Club",
+    "AMZN"
   ],
   "key_products": [
-    "Grocery and fresh produce",
-    "Household appliances",
-    "Electronics and tech gadgets",
-    "Apparel and footwear",
-    "Furniture and home décor"
+    "Beef and poultry",
+    "Organic produce",
+    "Wine and beverages",
+    "Household goods",
+    "Electronics"
   ],
-  "extracted_at": "2026-05-21 17:57:53",
+  "extracted_at": "2026-05-22 17:55:29",
   "sources": [
     {
       "source": "Wikipedia",
-      "url": "",
-      "title": "",
-      "snippet": ""
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Costco",
-      "query": "Costco Wholesale Corporation suppliers manufacturers",
-      "snippet": "Costco Wholesale Corporation . Logo since 1997.Ken Kimble, Costco 's Vice President of Corporate Food and Sundries, condemned the use of monkey labor "
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.costco.com/",
-      "query": "Costco Wholesale Corporation suppliers manufacturers",
-      "snippet": "official website of Costco Wholesale Corporation ."
+      "url": "https://en.wikipedia.org/wiki/Costco_Wholesale_Corporation",
+      "title": "Costco",
+      "snippet": "Costco Wholesale Corporation, trading as Costco, is an American multinational corporation that operates a chain of membership-only big-box warehouse club retail stores. As of 2021, Costco is the third"
     },
     {
       "source": "DuckDuckGo",
@@ -59,9 +47,21 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.britannica.com/money/Costco",
+      "url": "https://www.linkedin.com/company/costco-wholesale",
       "query": "Costco Wholesale Corporation major customers clients",
-      "snippet": "As a division of Costco Wholesale Corporation , Costco Wholesale Industries operates various manufacturing businesses, including jewelry distribution,"
+      "snippet": "Costco Wholesale | 703,246 followers on LinkedIn. Costco Wholesale is a multibillion dollar global retailer with warehouse club operations in 14 count"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/Costco",
+      "query": "Costco Wholesale Corporation competitors alternatives",
+      "snippet": "Costco Wholesale Corporation , trading as Costco , is an American multinational corporation that operates a chain of membership-only big-box warehouse"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://bullfincher.io/companies/costco-wholesale-corporation/competitors",
+      "query": "Costco Wholesale Corporation competitors alternatives",
+      "snippet": "Costco Wholesale Corporation 's competitors include Target Corporation , Walmart and more. Discover more competitors and create your own custom side-b"
     }
   ]
 }

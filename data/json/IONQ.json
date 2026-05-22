@@ -2,36 +2,36 @@
   "ticker": "IONQ",
   "company_name": "IonQ, Inc.",
   "sector": "Technology",
-  "industry": "Computer Hardware",
+  "industry": "Quantum Computing",
   "upstream": [
-    "Laser system manufacturers",
-    "Vacuum chamber suppliers",
-    "Cryogenic equipment providers",
-    "Ion trap component suppliers",
-    "High‑precision electronics vendors"
+    "Oxford Instruments",
+    "Qubitekk",
+    "Coherent",
+    "AMAT",
+    "Thorlabs"
   ],
   "downstream": [
-    "University research laboratories",
-    "National laboratories (e.g., DOE, DARPA)",
+    "AMZN",
     "MSFT",
-    "Government agencies",
-    "Academic consortiums"
+    "GOOGL",
+    "IBM",
+    "ORCL"
   ],
   "competitors": [
+    "IBM",
     "Rigetti Computing",
-    "D-Wave Systems",
-    "Xanadu",
     "Honeywell Quantum Solutions",
-    "Quantum Motion"
+    "D-Wave Systems",
+    "Xanadu"
   ],
   "key_products": [
-    "Trapped‑ion quantum processors",
-    "Quantum computing software stack",
-    "QPU (Quantum Processing Unit) hardware",
-    "Quantum algorithm optimization tools",
-    "Quantum simulation software"
+    "Trapped ion quantum processors",
+    "Quantum cloud services",
+    "Quantum software stack",
+    "Quantum algorithms",
+    "Quantum hardware"
   ],
-  "extracted_at": "2026-05-21 17:53:25",
+  "extracted_at": "2026-05-22 17:48:16",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,21 +47,21 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/IONQWS-Suppliers",
+      "url": "https://www.ionq.com/",
       "query": "IonQ, Inc. suppliers manufacturers",
-      "snippet": "May 9, 2026 · For your research, we’ve provided nine additional tables on Ionq Inc ’ s suppliers . You can find them in the navigation menu under Supp"
+      "snippet": "IonQ partnered with a leading global automotive manufacturer , applying quantum-classical AI to solve critical materials science challenges. Our model"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/IONQWS-Customers",
+      "url": "https://www.ionq.com/",
       "query": "IonQ, Inc. major customers clients",
-      "snippet": "Dec 29, 2025 · For your research, we’ve provided 9 tables on Ionq Inc corporate clients . You can find them in the navigation menu under Customers & M"
+      "snippet": "IonQ delivers trapped ion quantum computing systems, cloud access, and enterprise solutions for real-world quantum applications.Quantum computing is c"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.fool.com/earnings/call-transcripts/2026/05/06/ionq-ionq-q1-2026-earnings-call-transcript/",
+      "url": "https://www.fool.com/earnings/call-transcripts/2026/02/25/ionq-ionq-q4-2025-earnings-call-transcript/",
       "query": "IonQ, Inc. major customers clients",
-      "snippet": "May 6, 2026 · We continue to grow internationally, adding both application engineers and field engineers to support customer appetite for implementing"
+      "snippet": "IonQ , Inc . benefits from approximately 300 PhDs and 800 talented colleagues with advanced degrees, many of whom are household names in their fields."
     }
   ]
 }

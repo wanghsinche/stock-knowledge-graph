@@ -4,17 +4,17 @@
   "sector": "Communication Services",
   "industry": "Internet Content & Information",
   "upstream": [
-    "TSM",
-    "005930.KS",
     "INTC",
+    "QCOM",
+    "005930.KS",
     "NVDA",
-    "QCOM"
+    "CSCO"
   ],
   "downstream": [
     "GOOGL",
-    "Android app developers",
-    "YouTube content creators",
+    "005930.KS",
     "GOOGL",
+    "YouTube content creators",
     "GOOGL"
   ],
   "competitors": [
@@ -22,16 +22,16 @@
     "AMZN",
     "META",
     "AAPL",
-    "Tencent"
+    "NFLX"
   ],
   "key_products": [
     "Google Search",
-    "Android OS",
     "YouTube",
-    "Google Cloud",
-    "Google Ads"
+    "Google Cloud Platform",
+    "Android OS",
+    "Google Workspace"
   ],
-  "extracted_at": "2026-05-21 17:53:16",
+  "extracted_at": "2026-05-22 17:48:04",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,13 +43,13 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Alphabet_Inc.",
       "query": "Alphabet Inc. suppliers manufacturers",
-      "snippet": "Alphabet Inc. is an American multinational technology conglomerate holding company headquartered in Mountain View, California."
+      "snippet": "Alphabet Inc . is an American multinational technology conglomerate holding company headquartered in Mountain View, California. It was created through"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.investopedia.com/investing/companies-owned-by-google/",
+      "url": "https://csimarket.com/stocks/GOOG-Suppliers",
       "query": "Alphabet Inc. suppliers manufacturers",
-      "snippet": "Seven major companies owned by Alphabet are YouTube, Waze, DoubleClick, Nest, Looker, Fitbit, and Mandiant. Alphabet was founded as a search engine co"
+      "snippet": "Alphabet Inc supply chain, list and performance of Alphabet Incs ' suppliers - CSIMarket."
     },
     {
       "source": "DuckDuckGo",

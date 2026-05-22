@@ -4,34 +4,34 @@
   "sector": "Technology",
   "industry": "Software - Application",
   "upstream": [
-    "MSFT",
     "AMZN",
+    "MSFT",
     "GOOGL",
-    "ADBE",
-    "ORCL"
+    "Stripe",
+    "PayPal"
   ],
   "downstream": [
-    "TurboTax users",
-    "QuickBooks users",
-    "Credit Karma users",
-    "Mailchimp users",
-    "ProConnect users"
+    "Small and medium-sized businesses",
+    "Accounting firms",
+    "Tax preparation professionals",
+    "Individual taxpayers",
+    "Financial advisors"
   ],
   "competitors": [
     "H&R Block",
     "Sage",
     "Xero",
     "FreshBooks",
-    "MSFT"
+    "Wave"
   ],
   "key_products": [
     "TurboTax",
     "QuickBooks",
     "Credit Karma",
     "Mailchimp",
-    "ProConnect"
+    "QuickBooks Online"
   ],
-  "extracted_at": "2026-05-21 17:51:20",
+  "extracted_at": "2026-05-22 17:48:40",
   "sources": [
     {
       "source": "Wikipedia",
@@ -53,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Intuit",
+      "url": "https://www.linkedin.com/company/intuit",
       "query": "Intuit Inc. major customers clients",
-      "snippet": "Credit Karma · Mailchimp · QuickBooks · TurboTax · ProConnect · Personal finance · Accounting software · Tax return software · Increase US$18.8 billio"
+      "snippet": "Intuit is a global technology platform that helps our customers and communities overcome their most important financial challenges. Serving millions o"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.intuit.com/company/",
+      "url": "https://www.insidermonkey.com/blog/do-you-believe-in-the-growth-prospectus-of-intuit-intu-1764195/",
       "query": "Intuit Inc. major customers clients",
-      "snippet": "Serving approximately 100 million customers worldwide with TurboTax, Credit Karma, QuickBooks, and Mailchimp, Intuit helps put more money in consumers"
+      "snippet": "Intuit Inc . (NASDAQ:INTU) is a financial software company offering products and services for financial management, payments, capital, compliance, and"
     }
   ]
 }

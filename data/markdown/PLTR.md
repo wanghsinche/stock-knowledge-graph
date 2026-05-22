@@ -3,8 +3,8 @@ ticker: PLTR
 company: Palantir Technologies Inc.
 sector: Technology
 industry: Software - Infrastructure
-extracted_at: 2026-05-21 17:54:19
-last_updated: 2026-05-21
+extracted_at: 2026-05-22 17:48:30
+last_updated: 2026-05-22
 ---
 
 # PLTR - Palantir Technologies Inc.
@@ -12,7 +12,7 @@ last_updated: 2026-05-21
 ## 基本信息
 
 - **所属行业**: Technology / Software - Infrastructure
-- **提取时间**: 2026-05-21 17:54:19
+- **提取时间**: 2026-05-22 17:48:30
 
 ## 产业链关系
 
@@ -20,15 +20,15 @@ last_updated: 2026-05-21
 - [[AMZN]]
 - [[MSFT]]
 - [[GOOGL]]
-- [[ORCL]]
-- [[IBM]]
+- [[DELL]]
+- [[HPQ]]
 
 ### 下游客户
 - [[U.S. Department of Defense]]
-- [[U.S. Department of Homeland Security]]
-- [[Federal Bureau of Investigation (FBI)]]
-- [[JPMorgan Chase]]
-- [[Airbus]]
+- [[Federal Bureau of Investigation]]
+- [[Airbnb]]
+- [[Walmart]]
+- [[Coca-Cola]]
 
 ### 竞争对手
 - [[Snowflake]]
@@ -41,17 +41,17 @@ last_updated: 2026-05-21
 - [[Palantir Foundry]]
 - [[Palantir Gotham]]
 - [[Palantir Apollo]]
+- [[Palantir Helix]]
 - [[Palantir Data Integration Platform]]
-- [[Palantir Helios]]
 
 ## 数据来源
 
 - [Palantir](https://en.wikipedia.org/wiki/Palantir_Technologies_Inc.)
 - [Palantir Technologies Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/Palantir)
 - [Palantir Technologies Inc. suppliers manufacturers](https://finance.yahoo.com/quote/PLTR/)
-- [Palantir Technologies Inc. major customers clients](https://www.palantir.com/)
-- [Palantir Technologies Inc. major customers clients](https://financhill.com/blog/investing/who-are-palantir-biggest-customers)
+- [Palantir Technologies Inc. major customers clients](https://en.wikipedia.org/wiki/Palantir)
+- [Palantir Technologies Inc. major customers clients](https://www.tradingview.com/symbols/NASDAQ-PLTR/)
 
 ## 元数据
 
-- **更新日期**: 2026-05-21
+- **更新日期**: 2026-05-22

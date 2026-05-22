@@ -5,33 +5,33 @@
   "industry": "Computer Hardware",
   "upstream": [
     "MU",
-    "005930.KS",
-    "SK Hynix",
-    "Toshiba",
-    "WDC"
+    "TXN",
+    "AMAT",
+    "Raw material suppliers (e.g., silicon wafer producers)",
+    "Logistics and shipping providers"
   ],
   "downstream": [
     "DELL",
     "HPQ",
     "Lenovo Group",
-    "AMZN",
-    "MSFT"
+    "AAPL",
+    "AMZN"
   ],
   "competitors": [
     "WDC",
-    "Toshiba",
+    "Kioxia (formerly Toshiba)",
     "005930.KS",
-    "MU",
-    "SK Hynix"
+    "IBM",
+    "NetApp"
   ],
   "key_products": [
-    "Hard Disk Drives (HDDs)",
-    "Solid State Drives (SSDs)",
-    "Enterprise storage arrays",
+    "Internal hard disk drives (HDDs)",
+    "Solid state drives (SSDs)",
+    "Enterprise storage systems",
     "Cloud storage solutions",
-    "External storage devices"
+    "External portable drives"
   ],
-  "extracted_at": "2026-05-21 17:54:59",
+  "extracted_at": "2026-05-22 17:51:51",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/Valuation.php?code=STX",
-      "query": "Seagate Technology Holdings plc suppliers manufacturers",
-      "snippet": "Seagate Technology Holdings Plc Geographic Information. Suppliers .Competition by Companys' Segments. Seagate Technology Holdings Plc Market Share."
-    },
-    {
-      "source": "DuckDuckGo",
       "url": "https://www.seagate.com/",
       "query": "Seagate Technology Holdings plc suppliers manufacturers",
       "snippet": "Seagate Technology Holdings PLC ."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/STX-Customers",
-      "query": "Seagate Technology Holdings plc major customers clients",
-      "snippet": "Customers can now purchase Seagate s industry-leading storage products directly from their website, along with exclusive promotions, support, live cha"
+      "url": "https://csimarket.com/stocks/FinancialStrength.php?code=STX",
+      "query": "Seagate Technology Holdings plc suppliers manufacturers",
+      "snippet": "Seagate Technology Holdings Plc 's Quick, Working Capital, Debt to Equity, Leverage and Interest Coverage Ratio, Comparisons to Industry Sector and S&"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.appsruntheworld.com/customers-database/vendors/view/seagate-technology",
+      "url": "https://simplywall.st/stocks/us/tech/nasdaq-stx/seagate-technology-holdings",
       "query": "Seagate Technology Holdings plc major customers clients",
-      "snippet": "List of companies using or evaluating Seagate Technology applications, with details on their revenues, employees, industries, and locations."
+      "snippet": "Seagate Technology Holdings plc Competitors. Dell Technologies . Seagate Technology Holdings plc Just Recorded A 16% EPS Beat: Here's What Analysts Ar"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.marketresearch.com/GlobalData-v3648/Seagate-Technology-Holdings-PLC-STX-42358792/",
+      "query": "Seagate Technology Holdings plc major customers clients",
+      "snippet": "Seagate Technology Holdings PLC ( Seagate ) is a manufacturer of electronic storage devices. The company designs and markets solid state drives (SSD),"
     }
   ]
 }

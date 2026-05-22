@@ -3,11 +3,35 @@
   "company_name": "Bloom Energy Corporation",
   "sector": "Industrials",
   "industry": "Electrical Equipment & Parts",
-  "upstream": [],
-  "downstream": [],
-  "competitors": [],
-  "key_products": [],
-  "extracted_at": "2026-05-21 17:53:08",
+  "upstream": [
+    "Hydrogen suppliers",
+    "CAT",
+    "Membrane producers",
+    "Electrode material suppliers",
+    "Power electronics component suppliers"
+  ],
+  "downstream": [
+    "AMZN",
+    "GOOGL",
+    "MSFT",
+    "IBM",
+    "Equinix"
+  ],
+  "competitors": [
+    "FuelCell Energy",
+    "Heliogen",
+    "PowerCell",
+    "Sierra Energy",
+    "NexGen Energy"
+  ],
+  "key_products": [
+    "Bloom Energy Server",
+    "Bloom Energy Server 2.0",
+    "Bloom Energy Power Pack",
+    "Bloom Energy Fuel Cell System",
+    "Bloom Energy Energy Storage"
+  ],
+  "extracted_at": "2026-05-22 17:49:50",
   "sources": [
     {
       "source": "Wikipedia",
@@ -17,15 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Bloom_Energy",
+      "url": "https://www.bloomenergy.com/",
       "query": "Bloom Energy Corporation suppliers manufacturers",
-      "snippet": "Bloom Energy (formerly, Ion America) is an American public company that designs and manufactures solid oxide fuel cells (SOFCs)"
+      "snippet": "Bloom Energy delivers clean, reliable, scalable onsite power to multiple industries, installed in as little as three months.Fast to Deploy. Bloom ’s E"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.linkedin.com/company/bloom-energy",
+      "query": "Bloom Energy Corporation suppliers manufacturers",
+      "snippet": "Bloom Energy empowers businesses and communities to responsibly take charge of their energy . The company’s leading solid-oxide platform for distribut"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.bloomenergy.com/",
-      "query": "Bloom Energy Corporation suppliers manufacturers",
-      "snippet": "Bloom Energy delivers clean, reliable, scalable onsite power to multiple industries, installed in as little as three months."
+      "query": "Bloom Energy Corporation major customers clients",
+      "snippet": "Bloom Energy delivers clean, reliable, scalable onsite power to multiple industries, installed in as little as three months.Fast to Deploy. Bloom ’s E"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.linkedin.com/company/bloom-energy",
+      "query": "Bloom Energy Corporation major customers clients",
+      "snippet": "Bloom Energy empowers businesses and communities to responsibly take charge of their energy . The company’s leading solid-oxide platform for distribut"
     }
   ]
 }

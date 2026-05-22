@@ -7,14 +7,14 @@
     "TSM",
     "005930.KS",
     "GlobalFoundries",
-    "UMC",
-    "SMIC"
+    "Amkor Technology",
+    "ASE Group"
   ],
   "downstream": [
     "SONY",
     "MSFT",
-    "Nintendo",
     "DELL",
+    "Lenovo Group",
     "TSLA"
   ],
   "competitors": [
@@ -22,16 +22,16 @@
     "INTC",
     "QCOM",
     "AVGO",
-    "Arm Holdings"
+    "AAPL"
   ],
   "key_products": [
-    "GeForce GPUs",
-    "Tesla GPUs for data centers",
-    "NVIDIA DRIVE SoC",
-    "CUDA API",
-    "NVIDIA RTX GPUs"
+    "GeForce RTX GPUs",
+    "Quadro RTX GPUs",
+    "Tesla AI GPUs",
+    "Jetson SoCs",
+    "DGX AI supercomputers"
   ],
-  "extracted_at": "2026-05-21 17:50:00",
+  "extracted_at": "2026-05-22 17:44:50",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,15 +41,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://bgr.com/2030838/who-makes-where-manufactured-nvidia-gpus/",
+      "url": "https://en.wikipedia.org/wiki/Nvidia",
       "query": "NVIDIA Corporation suppliers manufacturers",
-      "snippet": "Nvidia designs chips, but TSMC (Taiwan) and Samsung (Korea) manufacture them. Learn how the global network produces the GPUs powering the AI boom."
+      "snippet": "Nvidia uses external suppliers for all phases of manufacturing , including wafer fabrication, assembly, testing, and packaging. Nvidia thus avoids mos"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.revenantresearch.com/p/nvidia-supply-chain-audit",
+      "url": "https://www.youtube.com/watch?v=5hSg0MjEl88",
       "query": "NVIDIA Corporation suppliers manufacturers",
-      "snippet": "NVIDIA's supply chain is geographically concentrated in East Asia, particularly in Taiwan and South Korea, where TSMC and other key suppliers are base"
+      "snippet": "Nvidia has instructed component suppliers to stop production related to the H20, The Information reported, following news Beijing urged local companie"
     },
     {
       "source": "DuckDuckGo",
@@ -59,9 +59,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://coinlaw.io/nvidia-revenue-customer-concentration-q2/",
+      "url": "https://fortune.com/2024/08/29/nvidia-jensen-huang-ai-customers/",
       "query": "NVIDIA Corporation major customers clients",
-      "snippet": "Nvidia revealed that just two unnamed customers accounted for 39 percent of its total revenue in Q2, sparking debate about risk and transparency. Key "
+      "snippet": "Take “ Customer B” cited in the filing, for example: Its direct purchases represented 11% of Nvidia ’s $30 billion in revenue. That means a single com"
     }
   ]
 }

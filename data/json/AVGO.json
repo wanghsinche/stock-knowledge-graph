@@ -4,40 +4,40 @@
   "sector": "Technology",
   "industry": "Semiconductors",
   "upstream": [
-    "Silicon wafer suppliers",
-    "Lithography equipment manufacturers",
-    "Photolithography chemicals",
-    "META",
-    "Packaging and testing equipment suppliers"
+    "TSM",
+    "005930.KS",
+    "GlobalFoundries",
+    "ASE Technology Holding",
+    "Amkor Technology"
   ],
   "downstream": [
-    "AAPL",
-    "QCOM",
+    "AMZN",
+    "MSFT",
+    "GOOGL",
     "CSCO",
-    "005930.KS",
-    "Huawei Technologies Co., Ltd."
+    "Huawei"
   ],
   "competitors": [
-    "QCOM",
     "INTC",
+    "QCOM",
+    "NVDA",
     "TXN",
-    "MRVL",
-    "MediaTek Inc."
+    "MRVL"
   ],
   "key_products": [
-    "Wireless communication chips (Wi‑Fi, Bluetooth, LTE, 5G)",
-    "Broadband and cable modem chips",
-    "Enterprise storage controllers",
-    "Networking ASICs and switches",
-    "Security and encryption chips"
+    "Broadcom 802.11 Wi‑Fi chips",
+    "Broadcom BCM network processors",
+    "Broadcom storage controllers (SATA/SAS)",
+    "Broadcom broadband DOCSIS chips",
+    "Broadcom wireless LAN chips"
   ],
-  "extracted_at": "2026-05-21 17:52:40",
+  "extracted_at": "2026-05-22 17:47:41",
   "sources": [
     {
       "source": "Wikipedia",
-      "url": "",
-      "title": "",
-      "snippet": ""
+      "url": "https://en.wikipedia.org/wiki/Broadcom_Inc.",
+      "title": "Broadcom",
+      "snippet": "Broadcom Inc. is an American multinational designer, developer, manufacturer, and global supplier of a wide range of semiconductor and infrastructure software products. Broadcom's product offerings se"
     },
     {
       "source": "DuckDuckGo",
@@ -47,9 +47,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.broadcom.com/how-to-buy/partner-distributor-lookup",
+      "url": "https://csimarket.com/stocks/AVGO-Suppliers",
       "query": "Broadcom Inc. suppliers manufacturers",
-      "snippet": "The Partner Locator will help you find the local expertise you need to be successful with Broadcom solutions. Begin searching by typing what you're lo"
+      "snippet": "Broadcom Inc supply chain, list and performance of Broadcom Incs ' suppliers - CSIMarket."
     },
     {
       "source": "DuckDuckGo",
@@ -59,9 +59,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.appsruntheworld.com/customers-database/vendors/view/broadcom",
+      "url": "https://www.broadcom.com/support",
       "query": "Broadcom Inc. major customers clients",
-      "snippet": "List of companies using or evaluating Broadcom applications, with details on their revenues, employees, industries, and locations."
+      "snippet": "Access Broadcom 's Customer Support Portal to obtain warranty information, find documentation and downloads, and answer other questions you might have"
     }
   ]
 }

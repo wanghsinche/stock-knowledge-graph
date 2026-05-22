@@ -3,8 +3,8 @@ ticker: COHR
 company: Coherent Corp.
 sector: Technology
 industry: Scientific & Technical Instruments
-extracted_at: 2026-05-21 17:58:01
-last_updated: 2026-05-21
+extracted_at: 2026-05-22 17:55:46
+last_updated: 2026-05-22
 ---
 
 # COHR - Coherent Corp.
@@ -12,46 +12,46 @@ last_updated: 2026-05-21
 ## 基本信息
 
 - **所属行业**: Technology / Scientific & Technical Instruments
-- **提取时间**: 2026-05-21 17:58:01
+- **提取时间**: 2026-05-22 17:55:46
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Silicon photonics suppliers]]
-- [[VCSEL array manufacturers]]
-- [[Lens manufacturers]]
-- [[Optical filter and coupler suppliers]]
-- [[Isolator component suppliers]]
+- [[II-VI Incorporated]]
+- [[Lumentum Holdings]]
+- [[Trumpf GmbH + Co. KG]]
+- [[Coherent Inc. (formerly part of II‑VI)]]
+- [[Coherent Technologies]]
 
 ### 下游客户
-- [[CAT]]
-- [[Defense and aerospace system integrators]]
-- [[Medical imaging and laser therapy companies]]
-- [[CAT]]
-- [[Research laboratories and universities]]
+- [[Lockheed Martin]]
+- [[Boeing]]
+- [[INTC]]
+- [[005930.KS]]
+- [[National Institute of Standards and Technology (NIST)]]
 
 ### 竞争对手
-- [[Thorlabs]]
-- [[Newport Corporation]]
 - [[Lumentum Holdings]]
-- [[IPG Photonics]]
-- [[Coherent Laser Systems (other divisions)]]
+- [[Trumpf GmbH + Co. KG]]
+- [[Coherent Inc. (pre‑acquisition)]]
+- [[Coherent Technologies]]
+- [[Coherent Optics]]
 
 ### 核心产品
-- [[High‑power lasers]]
-- [[VCSEL (Vertical‑Cavity Surface‑Emitting Laser) modules]]
-- [[Optical amplifiers]]
+- [[Laser diodes]]
+- [[Optical waveguides]]
 - [[Photonic integrated circuits]]
-- [[Optical filters and couplers]]
+- [[Optical amplifiers]]
+- [[Semiconductor lasers]]
 
 ## 数据来源
 
-- 
+- [Coherent Corp.](https://en.wikipedia.org/wiki/Coherent_Corp.)
+- [Coherent Corp. suppliers manufacturers](https://en.wikipedia.org/wiki/Coherent_Corp.)
 - [Coherent Corp. suppliers manufacturers](https://www.coherent.com/)
-- [Coherent Corp. suppliers manufacturers](https://www.avnet.com/americas/manufacturers/m/coherent/)
-- [Coherent Corp. major customers clients](https://en.wikipedia.org/wiki/Coherent_Corp.)
 - [Coherent Corp. major customers clients](https://www.coherent.com/)
+- [Coherent Corp. major customers clients](https://www.insidermonkey.com/blog/what-makes-coherent-cohr-a-lucrative-investment-1761843/)
 
 ## 元数据
 
-- **更新日期**: 2026-05-21
+- **更新日期**: 2026-05-22

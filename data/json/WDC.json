@@ -4,40 +4,40 @@
   "sector": "Technology",
   "industry": "Computer Hardware",
   "upstream": [
-    "Semiconductor manufacturers",
-    "Printed circuit board (PCB) suppliers",
-    "Electronic component distributors",
-    "Precision machining suppliers",
-    "Thermal management component vendors"
+    "MU",
+    "SSD controller manufacturers (e.g., Silicon Motion, Phison)",
+    "TSM",
+    "PCB and assembly suppliers",
+    "Power management IC suppliers"
   ],
   "downstream": [
     "DELL",
-    "Data center operators",
-    "Cloud service providers",
-    "Enterprise storage integrators",
-    "Consumer electronics retailers"
+    "DELL",
+    "AAPL",
+    "MSFT",
+    "Data center operators"
   ],
   "competitors": [
     "STX",
-    "Toshiba Corporation",
+    "Toshiba Memory (now Kioxia)",
     "005930.KS",
-    "MU",
-    "Kingston Technology"
+    "INTC",
+    "MU"
   ],
   "key_products": [
-    "Hard Disk Drives (HDDs)",
-    "Solid State Drives (SSDs)",
-    "External storage solutions",
-    "Enterprise storage arrays",
-    "Data center storage platforms"
+    "Internal HDDs (e.g., 3.5\" and 2.5\" drives)",
+    "External HDDs and portable drives",
+    "SSD products (SATA, NVMe, PCIe)",
+    "Enterprise storage solutions (e.g., Ultrastar, Nytro)",
+    "Cloud storage devices and infrastructure"
   ],
-  "extracted_at": "2026-05-21 17:56:33",
+  "extracted_at": "2026-05-22 17:53:13",
   "sources": [
     {
       "source": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Western_Digital_Corporation",
-      "title": "Western Digital",
-      "snippet": "Western Digital Corporation, doing business as WD, is an American data storage company headquartered in San Jose, California. Established in 1970, the company is one of the world's largest manufacture"
+      "url": "",
+      "title": "",
+      "snippet": ""
     },
     {
       "source": "DuckDuckGo",
@@ -47,21 +47,21 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/bullish-agentic-ai-western-digital-200555161.html",
+      "url": "https://ru.wikipedia.org/wiki/Western_Digital",
       "query": "Western Digital Corporation suppliers manufacturers",
-      "snippet": "Data storage provider Western Digital Corporation (WDC) recently received a price target hike from analysts at Mizuho from $470 to $550, as agentic AI"
+      "snippet": "SSD Western Digital Green 120 Gb. Western Digital Corporation (NASDAQ: WDC. , по-русски «Вестерн Диджитал»[3]) — компания, производитель компьютерной "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/WDC-Customers",
+      "url": "https://en.wikipedia.org/wiki/Western_Digital",
       "query": "Western Digital Corporation major customers clients",
-      "snippet": "We sell our branded products directly to a select group of major retailers such as computer superstores, warehouse clubs, online retailers, and comput"
+      "snippet": "Western Digital Corporation , doing business as WD , is an American data storage company headquartered in San Jose, California. Established in 1970, t"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://data.landbase.com/technology/western-digital/",
+      "url": "https://www.marketresearch.com/MarketLine-v3883/Western-Digital-Corporation-Company-Profile-43331798/",
       "query": "Western Digital Corporation major customers clients",
-      "snippet": "Aug 17, 2025 · Our Western Digital customers list is available for download and comes enriched with vital company specifics, including industry classi"
+      "snippet": "Western Digital Corporation ( Western Digital ) is a designer, manufacturer, and supplier of data storage products and related solutions. The company "
     }
   ]
 }

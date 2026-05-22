@@ -2,36 +2,36 @@
   "ticker": "ALAB",
   "company_name": "Astera Labs, Inc.",
   "sector": "Technology / Semiconductors",
-  "industry": "Connectivity Solutions",
+  "industry": "Semiconductors",
   "upstream": [
-    "AMAT",
-    "ASML",
-    "LRCX",
-    "Tokyo Electron",
-    "KLA"
+    "TSM",
+    "005930.KS",
+    "GlobalFoundries",
+    "INTC",
+    "Xilinx (IP provider)"
   ],
   "downstream": [
+    "INTC",
     "NVDA",
     "AMD",
-    "INTC",
-    "QCOM",
+    "Xilinx",
     "AVGO"
   ],
   "competitors": [
-    "AVGO",
-    "MRVL",
     "AMD",
-    "Silicon Labs",
-    "Lattice Semiconductor"
+    "INTC",
+    "AVGO",
+    "Cadence Design Systems",
+    "Synopsys"
   ],
   "key_products": [
-    "NVLink",
-    "PCIe",
-    "CXL",
-    "Thunderbolt",
-    "2.5G/5G Ethernet"
+    "PCIe 5.0/6.0 IP",
+    "NVLink IP",
+    "CXL IP",
+    "High‑speed serial transceivers",
+    "Custom ASIC interconnect solutions"
   ],
-  "extracted_at": "2026-05-21 17:56:23",
+  "extracted_at": "2026-05-22 17:51:13",
   "sources": [
     {
       "source": "Wikipedia",

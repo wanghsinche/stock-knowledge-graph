@@ -3,11 +3,34 @@
   "company_name": "Lam Research Corporation",
   "sector": "Technology",
   "industry": "Semiconductor Equipment & Materials",
-  "upstream": [],
-  "downstream": [],
-  "competitors": [],
-  "key_products": [],
-  "extracted_at": "2026-05-21 17:57:44",
+  "upstream": [
+    "Siltronic AG",
+    "GlobalWafers Corp.",
+    "Shin-Etsu Chemical Co.",
+    "Linde plc",
+    "Air Liquide"
+  ],
+  "downstream": [
+    "TSM",
+    "005930.KS",
+    "INTC",
+    "MU",
+    "SK Hynix"
+  ],
+  "competitors": [
+    "AMAT",
+    "Tokyo Electron",
+    "ASML",
+    "KLA Corporation"
+  ],
+  "key_products": [
+    "Plasma etch systems",
+    "Plasma deposition systems",
+    "Wafer cleaning systems",
+    "Wafer-level packaging equipment",
+    "MEMS packaging equipment"
+  ],
+  "extracted_at": "2026-05-22 17:54:41",
   "sources": [
     {
       "source": "Wikipedia",
@@ -26,6 +49,18 @@
       "url": "https://newsroom.lamresearch.com/Lam-Research-Establishes-Panel-Level-Packaging-CoE",
       "query": "Lam Research Corporation suppliers manufacturers",
       "snippet": "Lam Research Corporation is a global supplier of innovative wafer fabrication equipment and services to the semiconductor industry. Lam ’s equipment a"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2ktMXJLREVSR1hpSU5MSzN0TVlTZ0FQAQ?hl=en-UG&gl=UG&ceid=UG:en",
+      "query": "Lam Research Corporation major customers clients",
+      "snippet": "Seaport Research Affirms Lam Research Corporation (LRCX) as One of The Top Tech Stocks in Louis Navellier’s Portfolio. 4 hours ago. Save for later."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://finance.yahoo.com/news/why-investors-favour-lam-research-134019665.html",
+      "query": "Lam Research Corporation major customers clients",
+      "snippet": "Lam Research Corporation (NASDAQ:LRCX) is a leading semiconductor equipment company that supplies semiconductor processing equipment for the fabricati"
     }
   ]
 }

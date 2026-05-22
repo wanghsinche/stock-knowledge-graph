@@ -2,47 +2,47 @@
 ticker: ALAB
 company: Astera Labs, Inc.
 sector: Technology / Semiconductors
-industry: Connectivity Solutions
-extracted_at: 2026-05-21 17:56:23
-last_updated: 2026-05-21
+industry: Semiconductors
+extracted_at: 2026-05-22 17:51:13
+last_updated: 2026-05-22
 ---
 
 # ALAB - Astera Labs, Inc.
 
 ## 基本信息
 
-- **所属行业**: Technology / Semiconductors / Connectivity Solutions
-- **提取时间**: 2026-05-21 17:56:23
+- **所属行业**: Technology / Semiconductors / Semiconductors
+- **提取时间**: 2026-05-22 17:51:13
 
 ## 产业链关系
 
 ### 上游供应商
-- [[AMAT]]
-- [[ASML]]
-- [[LRCX]]
-- [[Tokyo Electron]]
-- [[KLA]]
+- [[TSM]]
+- [[005930.KS]]
+- [[GlobalFoundries]]
+- [[INTC]]
+- [[Xilinx (IP provider)]]
 
 ### 下游客户
+- [[INTC]]
 - [[NVDA]]
 - [[AMD]]
-- [[INTC]]
-- [[QCOM]]
+- [[Xilinx]]
 - [[AVGO]]
 
 ### 竞争对手
-- [[AVGO]]
-- [[MRVL]]
 - [[AMD]]
-- [[Silicon Labs]]
-- [[Lattice Semiconductor]]
+- [[INTC]]
+- [[AVGO]]
+- [[Cadence Design Systems]]
+- [[Synopsys]]
 
 ### 核心产品
-- [[NVLink]]
-- [[PCIe]]
-- [[CXL]]
-- [[Thunderbolt]]
-- [[2.5G/5G Ethernet]]
+- [[PCIe 5.0/6.0 IP]]
+- [[NVLink IP]]
+- [[CXL IP]]
+- [[High‑speed serial transceivers]]
+- [[Custom ASIC interconnect solutions]]
 
 ## 数据来源
 
@@ -54,4 +54,4 @@ last_updated: 2026-05-21
 
 ## 元数据
 
-- **更新日期**: 2026-05-21
+- **更新日期**: 2026-05-22

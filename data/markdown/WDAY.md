@@ -3,8 +3,8 @@ ticker: WDAY
 company: Workday, Inc.
 sector: Technology
 industry: Software - Application
-extracted_at: 2026-02-25 17:02:34
-last_updated: 2026-02-25
+extracted_at: 2026-05-22 17:53:56
+last_updated: 2026-05-22
 ---
 
 # WDAY - Workday, Inc.
@@ -12,7 +12,7 @@ last_updated: 2026-02-25
 ## 基本信息
 
 - **所属行业**: Technology / Software - Application
-- **提取时间**: 2026-02-25 17:02:34
+- **提取时间**: 2026-05-22 17:53:56
 
 ## 产业链关系
 
@@ -20,26 +20,26 @@ last_updated: 2026-02-25
 - [[AMZN]]
 - [[MSFT]]
 - [[GOOGL]]
-- [[DELL]]
-- [[HPQ]]
+- [[ORCL]]
+- [[IBM]]
 
 ### 下游客户
+- [[JPMorgan Chase]]
 - [[Walmart]]
-- [[Coca‑Cola]]
 - [[AT&T]]
-- [[Bank of America]]
-- [[UnitedHealth Group]]
+- [[Verizon]]
+- [[Target]]
 
 ### 竞争对手
 - [[SAP SuccessFactors]]
 - [[ORCL]]
-- [[ADP]]
 - [[CRM]]
 - [[MSFT]]
+- [[Infor]]
 
 ### 核心产品
+- [[Workday Human Capital Management (HCM)]]
 - [[Workday Financial Management]]
-- [[Workday Human Capital Management]]
 - [[Workday Student]]
 - [[Workday Payroll]]
 - [[Workday Analytics]]
@@ -47,11 +47,11 @@ last_updated: 2026-02-25
 ## 数据来源
 
 - [Workday, Inc.](https://en.wikipedia.org/wiki/Workday,_Inc.)
-- [Workday, Inc. suppliers manufacturers](https://www.workday.com/en-us/solutions/industries/manufacturing.html)
-- [Workday, Inc. suppliers manufacturers](https://csimarket.com/stocks/WDAY-Suppliers)
-- [Workday, Inc. major customers clients](https://digital.workday.com/)
-- [Workday, Inc. major customers clients](https://m.myworkday.com/)
+- [Workday, Inc. suppliers manufacturers](https://csimarket.com/stocks/WDAY-Efficiency-Comparisons.html)
+- [Workday, Inc. suppliers manufacturers](https://www.alibaba.com/)
+- [Workday, Inc. major customers clients](https://www.youtube.com/watch?v=zcXuemsatEU)
+- [Workday, Inc. major customers clients](https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2o1OHEtUkVSRXRxODM3WDU1dnpDZ0FQAQ?hl=en-UG&gl=UG&ceid=UG:en)
 
 ## 元数据
 
-- **更新日期**: 2026-02-25
+- **更新日期**: 2026-05-22

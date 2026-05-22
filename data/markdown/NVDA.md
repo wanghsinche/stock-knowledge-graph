@@ -3,8 +3,8 @@ ticker: NVDA
 company: NVIDIA Corporation
 sector: Technology
 industry: Semiconductors
-extracted_at: 2026-05-21 17:50:00
-last_updated: 2026-05-21
+extracted_at: 2026-05-22 17:44:50
+last_updated: 2026-05-22
 ---
 
 # NVDA - NVIDIA Corporation
@@ -12,7 +12,7 @@ last_updated: 2026-05-21
 ## 基本信息
 
 - **所属行业**: Technology / Semiconductors
-- **提取时间**: 2026-05-21 17:50:00
+- **提取时间**: 2026-05-22 17:44:50
 
 ## 产业链关系
 
@@ -20,14 +20,14 @@ last_updated: 2026-05-21
 - [[TSM]]
 - [[005930.KS]]
 - [[GlobalFoundries]]
-- [[UMC]]
-- [[SMIC]]
+- [[Amkor Technology]]
+- [[ASE Group]]
 
 ### 下游客户
 - [[SONY]]
 - [[MSFT]]
-- [[Nintendo]]
 - [[DELL]]
+- [[Lenovo Group]]
 - [[TSLA]]
 
 ### 竞争对手
@@ -35,23 +35,23 @@ last_updated: 2026-05-21
 - [[INTC]]
 - [[QCOM]]
 - [[AVGO]]
-- [[Arm Holdings]]
+- [[AAPL]]
 
 ### 核心产品
-- [[GeForce GPUs]]
-- [[Tesla GPUs for data centers]]
-- [[NVIDIA DRIVE SoC]]
-- [[CUDA API]]
-- [[NVIDIA RTX GPUs]]
+- [[GeForce RTX GPUs]]
+- [[Quadro RTX GPUs]]
+- [[Tesla AI GPUs]]
+- [[Jetson SoCs]]
+- [[DGX AI supercomputers]]
 
 ## 数据来源
 
 - [Nvidia](https://en.wikipedia.org/wiki/NVIDIA_Corporation)
-- [NVIDIA Corporation suppliers manufacturers](https://bgr.com/2030838/who-makes-where-manufactured-nvidia-gpus/)
-- [NVIDIA Corporation suppliers manufacturers](https://www.revenantresearch.com/p/nvidia-supply-chain-audit)
+- [NVIDIA Corporation suppliers manufacturers](https://en.wikipedia.org/wiki/Nvidia)
+- [NVIDIA Corporation suppliers manufacturers](https://www.youtube.com/watch?v=5hSg0MjEl88)
 - [NVIDIA Corporation major customers clients](https://en.wikipedia.org/wiki/Nvidia)
-- [NVIDIA Corporation major customers clients](https://coinlaw.io/nvidia-revenue-customer-concentration-q2/)
+- [NVIDIA Corporation major customers clients](https://fortune.com/2024/08/29/nvidia-jensen-huang-ai-customers/)
 
 ## 元数据
 
-- **更新日期**: 2026-05-21
+- **更新日期**: 2026-05-22

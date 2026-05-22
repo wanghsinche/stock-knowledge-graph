@@ -3,8 +3,8 @@ ticker: MU
 company: Micron Technology, Inc.
 sector: Technology
 industry: Semiconductors
-extracted_at: 2026-05-21 17:50:11
-last_updated: 2026-05-21
+extracted_at: 2026-05-22 17:44:58
+last_updated: 2026-05-22
 ---
 
 # MU - Micron Technology, Inc.
@@ -12,7 +12,7 @@ last_updated: 2026-05-21
 ## 基本信息
 
 - **所属行业**: Technology / Semiconductors
-- **提取时间**: 2026-05-21 17:50:11
+- **提取时间**: 2026-05-22 17:44:58
 
 ## 产业链关系
 
@@ -28,21 +28,21 @@ last_updated: 2026-05-21
 - [[005930.KS]]
 - [[DELL]]
 - [[HPQ]]
-- [[Lenovo Group]]
+- [[AMZN]]
 
 ### 竞争对手
 - [[005930.KS]]
 - [[SK Hynix]]
-- [[WDC]]
-- [[STX]]
 - [[INTC]]
+- [[WDC]]
+- [[Nanya Technology]]
 
 ### 核心产品
 - [[Dynamic Random-Access Memory (DRAM)]]
 - [[NAND Flash Memory]]
 - [[Solid-State Drives (SSDs)]]
 - [[Memory Modules]]
-- [[Embedded Memory Solutions]]
+- [[Embedded DRAM (eDRAM)]]
 
 ## 数据来源
 
@@ -50,8 +50,8 @@ last_updated: 2026-05-21
 - [Micron Technology, Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/Micron_Technology)
 - [Micron Technology, Inc. suppliers manufacturers](https://www.micron.com/)
 - [Micron Technology, Inc. major customers clients](https://en.wikipedia.org/wiki/Micron_Technology)
-- [Micron Technology, Inc. major customers clients](https://marketrealist.com/2015/10/microns-clients-relationships-glance/)
+- [Micron Technology, Inc. major customers clients](https://csimarket.com/stocks/markets_glance.php?code=MU)
 
 ## 元数据
 
-- **更新日期**: 2026-05-21
+- **更新日期**: 2026-05-22

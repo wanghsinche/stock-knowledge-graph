@@ -3,8 +3,8 @@ ticker: MSFT
 company: Microsoft Corporation
 sector: Technology
 industry: Software - Infrastructure
-extracted_at: 2026-05-21 17:51:01
-last_updated: 2026-05-21
+extracted_at: 2026-05-22 17:46:10
+last_updated: 2026-05-22
 ---
 
 # MSFT - Microsoft Corporation
@@ -12,7 +12,7 @@ last_updated: 2026-05-21
 ## 基本信息
 
 - **所属行业**: Technology / Software - Infrastructure
-- **提取时间**: 2026-05-21 17:51:01
+- **提取时间**: 2026-05-22 17:46:10
 
 ## 产业链关系
 
@@ -21,37 +21,37 @@ last_updated: 2026-05-21
 - [[AMD]]
 - [[NVDA]]
 - [[QCOM]]
-- [[TSM]]
+- [[005930.KS]]
 
 ### 下游客户
-- [[Enterprise customers (e.g., Fortune 500 firms)]]
+- [[Enterprises]]
 - [[Government agencies]]
-- [[CAT]]
-- [[Consumers (Windows, Office, Xbox)]]
-- [[Cloud service users (Azure)]]
+- [[DELL]]
+- [[Gamers (Xbox)]]
+- [[Consumers]]
 
 ### 竞争对手
-- [[AAPL]]
-- [[GOOGL]]
 - [[AMZN]]
-- [[IBM]]
+- [[GOOGL]]
+- [[AAPL]]
 - [[ORCL]]
+- [[CRM]]
 
 ### 核心产品
-- [[Windows operating system]]
-- [[Microsoft Office Suite]]
-- [[Azure cloud platform]]
-- [[Microsoft 365]]
-- [[Surface devices]]
+- [[Windows OS]]
+- [[Microsoft Office]]
+- [[Azure Cloud]]
+- [[Microsoft Teams]]
+- [[Xbox]]
 
 ## 数据来源
 
-- 
+- [Microsoft](https://en.wikipedia.org/wiki/Microsoft_Corporation)
 - [Microsoft Corporation suppliers manufacturers](https://en.wikipedia.org/wiki/Microsoft)
 - [Microsoft Corporation suppliers manufacturers](https://www.alibaba.com/)
 - [Microsoft Corporation major customers clients](https://en.wikipedia.org/wiki/Microsoft)
-- [Microsoft Corporation major customers clients](https://www.nytimes.com/2025/01/29/technology/microsoft-earnings-stock.html)
+- [Microsoft Corporation major customers clients](https://www.morningstar.com/stocks/after-earnings-is-microsoft-stock-buy-sell-or-fairly-valued-4)
 
 ## 元数据
 
-- **更新日期**: 2026-05-21
+- **更新日期**: 2026-05-22

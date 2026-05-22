@@ -4,34 +4,34 @@
   "sector": "Technology",
   "industry": "Semiconductors",
   "upstream": [
-    "AMAT",
-    "Raw material suppliers (e.g., silicon wafers, chemicals)",
-    "IP providers (e.g., ARM, Xilinx)",
-    "Electronic design automation tools (e.g., Cadence, Synopsys)",
-    "Test and measurement equipment (e.g., Keysight)"
+    "TSM",
+    "005930.KS",
+    "GlobalFoundries",
+    "UMC",
+    "ASE Technology Holding"
   ],
   "downstream": [
-    "CAT",
-    "MSFT",
     "CSCO",
-    "AAPL",
-    "Automotive electronics suppliers (e.g., Bosch, Continental)"
+    "DELL",
+    "HPQ",
+    "Huawei Technologies",
+    "AMZN"
   ],
   "competitors": [
     "AVGO",
-    "QCOM",
     "INTC",
-    "NVDA",
-    "AMD"
+    "QCOM",
+    "MediaTek",
+    "NVDA"
   ],
   "key_products": [
-    "Storage controller chips",
-    "Network processors",
-    "Wi‑Fi and Bluetooth chips",
-    "5G modem solutions",
-    "Ethernet controllers"
+    "Ethernet controllers",
+    "Storage controllers",
+    "Wi‑Fi chips",
+    "5G modems",
+    "Network processors"
   ],
-  "extracted_at": "2026-05-21 17:53:35",
+  "extracted_at": "2026-05-22 17:48:51",
   "sources": [
     {
       "source": "Wikipedia",
@@ -53,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.marvell.com/",
+      "url": "https://en.wikipedia.org/wiki/Marvell_Technology",
       "query": "Marvell Technology, Inc. major customers clients",
-      "snippet": "Designed for your current needs and future ambitions, Marvell delivers the data infrastructure technology transforming tomorrow’s enterprise, cloud, a"
+      "snippet": "Marvell Technology , Inc . is an American company, headquartered in Santa Clara, California, which develops and produces semiconductors and related te"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.youtube.com/watch?v=AeKV1RHGn1k",
+      "url": "https://www.marvell.com/",
       "query": "Marvell Technology, Inc. major customers clients",
-      "snippet": "Marvell has been one of this year's best performing stocks and now a member of the Nasdaq 100 where it began trading on Monday. Marvell Technology CEO"
+      "snippet": "Designed for your current needs and future ambitions, Marvell delivers the data infrastructure technology transforming tomorrow’s enterprise, cloud, a"
     }
   ]
 }

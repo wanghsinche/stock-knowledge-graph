@@ -4,34 +4,34 @@
   "sector": "Technology",
   "industry": "Software - Infrastructure",
   "upstream": [
+    "AMD",
     "DELL",
     "MSFT",
-    "NVDA",
-    "Software component vendors (e.g., Red Hat)",
-    "Data center service providers"
+    "Software component vendors (e.g., Red Hat, VMware)",
+    "CSCO"
   ],
   "downstream": [
-    "Large enterprises (e.g., Walmart, JPMorgan Chase)",
-    "Government agencies (e.g., U.S. Department of Defense)",
-    "Financial institutions (e.g., Bank of America)",
-    "Healthcare organizations (e.g., Mayo Clinic)",
-    "Retail chains (e.g., Target)"
+    "Large enterprises (e.g., JPMorgan Chase, Walmart)",
+    "Government agencies (e.g., U.S. Department of Defense, U.K. Ministry of Defence)",
+    "Financial institutions (e.g., Bank of America, Citibank)",
+    "Healthcare organizations (e.g., Mayo Clinic, UnitedHealth Group)",
+    "Retail and e‑commerce companies (e.g., eBay, Target)"
   ],
   "competitors": [
     "MSFT",
     "AMZN",
     "IBM",
-    "SAP",
-    "CRM"
+    "SAP SE",
+    "GOOGL"
   ],
   "key_products": [
-    "Oracle Database",
-    "Oracle Cloud Infrastructure",
-    "Oracle Autonomous Database",
-    "Oracle ERP Cloud",
+    "Oracle Database (including Autonomous Database)",
+    "Oracle Cloud Infrastructure (OCI)",
+    "Oracle Fusion Applications",
+    "Oracle E‑Business Suite",
     "Oracle Analytics Cloud"
   ],
-  "extracted_at": "2026-05-21 17:55:38",
+  "extracted_at": "2026-05-22 17:51:00",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,9 +47,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.oracle.com/",
+      "url": "https://ru.wikipedia.org/wiki/Oracle",
       "query": "Oracle Corporation suppliers manufacturers",
-      "snippet": "Oracle offers a comprehensive and fully integrated stack of cloud applications and cloud platform services.."
+      "snippet": "Oracle ( Oracle Corporation ) — американская корпорация, второй по размеру выручки разработчик программного обеспечения (после Microsoft), четвёртая к"
     },
     {
       "source": "DuckDuckGo",

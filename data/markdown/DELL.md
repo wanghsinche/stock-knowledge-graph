@@ -3,8 +3,8 @@ ticker: DELL
 company: Dell Technologies Inc.
 sector: Technology
 industry: Computer Hardware
-extracted_at: 2026-05-14 17:49:29
-last_updated: 2026-05-14
+extracted_at: 2026-05-22 17:47:16
+last_updated: 2026-05-22
 ---
 
 # DELL - Dell Technologies Inc.
@@ -12,7 +12,7 @@ last_updated: 2026-05-14
 ## 基本信息
 
 - **所属行业**: Technology / Computer Hardware
-- **提取时间**: 2026-05-14 17:49:29
+- **提取时间**: 2026-05-22 17:47:16
 
 ## 产业链关系
 
@@ -24,11 +24,11 @@ last_updated: 2026-05-14
 - [[TSM]]
 
 ### 下游客户
-- [[U.S. Department of Defense]]
-- [[NASA]]
-- [[Fortune 500 companies]]
-- [[Small and medium businesses]]
-- [[Individual consumers]]
+- [[Enterprise IT customers]]
+- [[Government agencies]]
+- [[Healthcare providers]]
+- [[CAT]]
+- [[Retail businesses]]
 
 ### 竞争对手
 - [[HPQ]]
@@ -38,20 +38,20 @@ last_updated: 2026-05-14
 - [[Asus]]
 
 ### 核心产品
-- [[Personal computers]]
-- [[Servers]]
-- [[Storage solutions]]
-- [[Networking equipment]]
-- [[Security software]]
+- [[Dell PowerEdge servers]]
+- [[Dell EMC storage solutions]]
+- [[Dell XPS laptops]]
+- [[Dell Precision workstations]]
+- [[Dell EMC PowerProtect backup]]
 
 ## 数据来源
 
 - [Dell Technologies](https://en.wikipedia.org/wiki/Dell_Technologies_Inc.)
 - [Dell Technologies Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/Dell)
-- [Dell Technologies Inc. suppliers manufacturers](https://www.dell.com/en-us)
+- [Dell Technologies Inc. suppliers manufacturers](https://ru.wikipedia.org/wiki/Dell)
 - [Dell Technologies Inc. major customers clients](https://en.wikipedia.org/wiki/Dell)
 - [Dell Technologies Inc. major customers clients](https://www.dell.com/en-us)
 
 ## 元数据
 
-- **更新日期**: 2026-05-14
+- **更新日期**: 2026-05-22

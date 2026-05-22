@@ -1,18 +1,18 @@
 ---
 ticker: MSTR
 company: Strategy Inc
-sector: Technology / Software - Application
-industry: Business Intelligence & Analytics
-extracted_at: 2026-05-21 17:58:26
-last_updated: 2026-05-21
+sector: Technology
+industry: Software - Application
+extracted_at: 2026-05-22 17:52:25
+last_updated: 2026-05-22
 ---
 
 # MSTR - Strategy Inc
 
 ## 基本信息
 
-- **所属行业**: Technology / Software - Application / Business Intelligence & Analytics
-- **提取时间**: 2026-05-21 17:58:26
+- **所属行业**: Technology / Software - Application
+- **提取时间**: 2026-05-22 17:52:25
 
 ## 产业链关系
 
@@ -21,37 +21,37 @@ last_updated: 2026-05-21
 - [[AMZN]]
 - [[GOOGL]]
 - [[ORCL]]
-- [[SAP]]
+- [[IBM]]
 
 ### 下游客户
 - [[Walmart]]
 - [[JPMorgan Chase]]
 - [[Bank of America]]
-- [[AT&T]]
-- [[Verizon]]
+- [[Coca‑Cola]]
+- [[General Motors]]
 
 ### 竞争对手
 - [[SAP SE Business Objects]]
 - [[IBM]]
 - [[ORCL]]
-- [[CRM]]
-- [[Qlik]]
+- [[MSFT]]
+- [[Tableau Software]]
 
 ### 核心产品
-- [[MicroStrategy Desktop]]
-- [[MicroStrategy Web]]
-- [[MicroStrategy Mobile]]
-- [[MicroStrategy Analytics]]
-- [[MicroStrategy Cloud]]
+- [[MicroStrategy Analytics Platform]]
+- [[Mobile BI Applications]]
+- [[Data Visualization Tools]]
+- [[Enterprise Reporting Suite]]
+- [[Data Governance Solutions]]
 
 ## 数据来源
 
 - [MicroStrategy](https://en.wikipedia.org/wiki/Strategy_Inc)
-- [Strategy Inc suppliers manufacturers](https://www.autostoresystem.com/insights/real-life-supply-chain-strategy-examples)
-- [Strategy Inc suppliers manufacturers](https://www.strategy.com/software)
+- [Strategy Inc suppliers manufacturers](https://finance.yahoo.com/quote/MSTR/)
+- [Strategy Inc suppliers manufacturers](https://ru.investing.com/equities/microstrategy-inc)
 - [Strategy Inc major customers clients](https://en.wikipedia.org/wiki/MicroStrategy)
 - [Strategy Inc major customers clients](https://finance.yahoo.com/quote/MSTR/)
 
 ## 元数据
 
-- **更新日期**: 2026-05-21
+- **更新日期**: 2026-05-22

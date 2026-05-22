@@ -3,8 +3,8 @@ ticker: QCOM
 company: Qualcomm Incorporated
 sector: Technology
 industry: Semiconductors
-extracted_at: 2026-05-21 17:52:15
-last_updated: 2026-05-21
+extracted_at: 2026-05-22 17:46:23
+last_updated: 2026-05-22
 ---
 
 # QCOM - Qualcomm Incorporated
@@ -12,46 +12,46 @@ last_updated: 2026-05-21
 ## 基本信息
 
 - **所属行业**: Technology / Semiconductors
-- **提取时间**: 2026-05-21 17:52:15
+- **提取时间**: 2026-05-22 17:46:23
 
 ## 产业链关系
 
 ### 上游供应商
 - [[TSM]]
 - [[005930.KS]]
-- [[INTC]]
-- [[ASML]]
-- [[Nikon]]
+- [[GlobalFoundries]]
+- [[MU]]
+- [[QCOM]]
 
 ### 下游客户
 - [[AAPL]]
 - [[005930.KS]]
-- [[GOOGL]]
-- [[Xiaomi Corp.]]
 - [[Huawei Technologies]]
+- [[Nokia]]
+- [[TSLA]]
 
 ### 竞争对手
-- [[MediaTek Inc.]]
-- [[AAPL]]
-- [[005930.KS]]
+- [[MediaTek]]
 - [[AVGO]]
 - [[INTC]]
+- [[NVDA]]
+- [[AAPL]]
 
 ### 核心产品
 - [[Snapdragon mobile processors]]
 - [[5G modems]]
-- [[AI chips]]
-- [[LTE modems]]
-- [[Wi‑Fi chips]]
+- [[AI inference chips]]
+- [[RF front-end modules]]
+- [[Baseband processors]]
 
 ## 数据来源
 
 - [Qualcomm](https://en.wikipedia.org/wiki/QUALCOMM_Incorporated)
-- [QUALCOMM Incorporated suppliers manufacturers](https://en.wikipedia.org/wiki/Qualcomm)
-- [QUALCOMM Incorporated suppliers manufacturers](https://www.accio.com/supplier/qualcomm-manufacturer)
+- [QUALCOMM Incorporated suppliers manufacturers](https://en.wikipedia.org/wiki/List_of_computer_hardware_manufacturers)
+- [QUALCOMM Incorporated suppliers manufacturers](https://qualcomm.com/)
 - [QUALCOMM Incorporated major customers clients](https://qualcomm.com/)
-- [QUALCOMM Incorporated major customers clients](https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2ltMnNhTEVSRzJIU2Fkc19JMVdTZ0FQAQ?hl=en-NA&gl=NA&ceid=NA:en)
+- [QUALCOMM Incorporated major customers clients](https://finance.yahoo.com/quote/QCOM/)
 
 ## 元数据
 
-- **更新日期**: 2026-05-21
+- **更新日期**: 2026-05-22

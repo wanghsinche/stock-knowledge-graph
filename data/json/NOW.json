@@ -4,40 +4,40 @@
   "sector": "Technology",
   "industry": "Software - Application",
   "upstream": [
-    "GOOGL",
-    "DELL",
+    "AMZN",
     "MSFT",
-    "NVDA",
-    "IT consulting firms"
+    "GOOGL",
+    "ORCL",
+    "IBM"
   ],
   "downstream": [
-    "Enterprise IT departments (Fortune 500 companies)",
-    "Financial services firms (banks, insurance)",
-    "Healthcare organizations (hospitals, health systems)",
-    "Retail and e‑commerce companies",
-    "Government agencies"
+    "Walmart",
+    "JPMorgan Chase",
+    "AT&T",
+    "Verizon",
+    "General Electric"
   ],
   "competitors": [
     "CRM",
     "MSFT",
     "SAP SuccessFactors",
-    "Workday",
-    "ORCL"
+    "ORCL",
+    "Workday"
   ],
   "key_products": [
-    "ServiceNow Platform",
+    "Now Platform",
     "IT Service Management (ITSM)",
     "IT Operations Management (ITOM)",
     "IT Business Management (ITBM)",
     "Customer Service Management (CSM)"
   ],
-  "extracted_at": "2026-05-21 17:55:09",
+  "extracted_at": "2026-05-22 17:50:12",
   "sources": [
     {
       "source": "Wikipedia",
-      "url": "",
-      "title": "",
-      "snippet": ""
+      "url": "https://en.wikipedia.org/wiki/ServiceNow,_Inc.",
+      "title": "ServiceNow",
+      "snippet": "ServiceNow, Inc. is an American software company that supplies a cloud computing platform for the creation and management of automated business workflows. The company was founded in Santa Clara, Calif"
     },
     {
       "source": "DuckDuckGo",
@@ -59,9 +59,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.fool.com/investing/2026/04/09/the-saaspocalypse-made-servicenow-stock-a-bargain/",
+      "url": "https://siliconangle.com/2025/07/23/servicenows-agentic-ai-push-pays-off-blowout-earnings-strong-revenue-growth/",
       "query": "ServiceNow, Inc. major customers clients",
-      "snippet": "Customers don't need to bother with setting up AI agents when ServiceNow seamlessly delivers the technology. More importantly, the company possesses d"
+      "snippet": "The information technology service management software specialist ServiceNow Inc . delivered another strong earnings and revenue beat today as it post"
     }
   ]
 }
