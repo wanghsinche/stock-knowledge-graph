@@ -4,34 +4,34 @@
   "sector": "Technology",
   "industry": "Software - Application",
   "upstream": [
-    "AMZN",
-    "MSFT",
-    "GOOGL",
-    "Stripe",
-    "PayPal"
+    "Hardware component suppliers",
+    "Cloud infrastructure providers (e.g., AWS, Azure)",
+    "Payment processing partners (e.g., Stripe, PayPal)",
+    "Data analytics and AI service vendors",
+    "Software library and API providers"
   ],
   "downstream": [
     "Small and medium-sized businesses",
-    "Accounting firms",
-    "Tax preparation professionals",
+    "Certified public accountants and tax professionals",
     "Individual taxpayers",
-    "Financial advisors"
+    "Financial advisors",
+    "E-commerce merchants"
   ],
   "competitors": [
-    "H&R Block",
-    "Sage",
     "Xero",
+    "Sage",
     "FreshBooks",
-    "Wave"
+    "Wave",
+    "H&R Block"
   ],
   "key_products": [
     "TurboTax",
     "QuickBooks",
     "Credit Karma",
     "Mailchimp",
-    "QuickBooks Online"
+    "QuickBooks Self‑Employed"
   ],
-  "extracted_at": "2026-05-22 17:48:40",
+  "extracted_at": "2026-05-25 17:31:48",
   "sources": [
     {
       "source": "Wikipedia",
@@ -53,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.linkedin.com/company/intuit",
-      "query": "Intuit Inc. major customers clients",
-      "snippet": "Intuit is a global technology platform that helps our customers and communities overcome their most important financial challenges. Serving millions o"
-    },
-    {
-      "source": "DuckDuckGo",
       "url": "https://www.insidermonkey.com/blog/do-you-believe-in-the-growth-prospectus-of-intuit-intu-1764195/",
       "query": "Intuit Inc. major customers clients",
       "snippet": "Intuit Inc . (NASDAQ:INTU) is a financial software company offering products and services for financial management, payments, capital, compliance, and"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.barchart.com/story/news/2068303/intuit-is-slashing-more-than-3-000-jobs-why-wall-street-is-punishing-intu-stock-for-the-ai-pivot",
+      "query": "Intuit Inc. major customers clients",
+      "snippet": "Intuit Inc logo-by Mojahid Mottakin via Shutterstock.Notably, what is particularly telling about Intuit 's position is that free alternatives exist in"
     }
   ]
 }

@@ -4,18 +4,18 @@
   "sector": "Technology",
   "industry": "Semiconductors",
   "upstream": [
-    "TXN",
-    "NXP Semiconductors",
-    "STMicroelectronics",
-    "Infineon Technologies",
-    "ON Semiconductor"
+    "TSM",
+    "005930.KS",
+    "GlobalFoundries",
+    "UMC",
+    "ASE Group"
   ],
   "downstream": [
-    "MSFT",
     "AAPL",
-    "GOOGL",
-    "AMZN",
-    "IBM"
+    "005930.KS",
+    "QCOM",
+    "INTC",
+    "MSFT"
   ],
   "competitors": [
     "TXN",
@@ -27,11 +27,11 @@
   "key_products": [
     "Analog-to-Digital Converters (ADCs)",
     "Digital-to-Analog Converters (DACs)",
-    "Signal Processing ICs",
+    "Operational Amplifiers",
     "Power Management ICs",
-    "Mixed-Signal ICs"
+    "Signal Processing ICs"
   ],
-  "extracted_at": "2026-05-21 17:58:19",
+  "extracted_at": "2026-05-25 17:34:51",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.analog.com/en/index.html",
+      "url": "https://en.wikipedia.org/wiki/Analog_Devices",
       "query": "Analog Devices, Inc. suppliers manufacturers",
-      "snippet": "Analog Devices is global leader in the design and manufacturing of analog, mixed signal, and DSP integrated circuits to help solve the toughest engine"
+      "snippet": "Analog Devices , Inc . (ADI), also known simply as Analog , is an American multinational semiconductor company specializing in data conversion, signal"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.digikey.com/en/supplier-centers/analog-devices",
+      "url": "https://www.analog.com/ru/index.html?spoor-id=ckz0d2kht00003g64pxyda3dq",
       "query": "Analog Devices, Inc. suppliers manufacturers",
-      "snippet": "DigiKey is an authorized distributor of Analog Devices (ADI) products - specializing in high-performance analog, mixed-signal, DSP ICs, RF & more. Lea"
+      "snippet": "Компания Analog Devices – ведущий мировой лидер в области проектирования и производства интегральных схем для обработки аналоговых, смешанных и цифров"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Analog_Devices",
       "query": "Analog Devices, Inc. major customers clients",
-      "snippet": "Analog Devices has approximately 100,000 customers in the following industries: communications, computer, instrumentation, military/aerospace, automot"
+      "snippet": "Analog Devices , Inc . (ADI), also known simply as Analog , is an American multinational semiconductor company specializing in data conversion, signal"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.analog.com/en/who-we-are.html",
+      "url": "https://www.analog.com/ru/index.html?spoor-id=ckz0d2kht00003g64pxyda3dq",
       "query": "Analog Devices, Inc. major customers clients",
-      "snippet": "Our customers are at the center of our identity, and we are endlessly committed to their success. We listen to our customers and anticipate their need"
+      "snippet": "Компания Analog Devices – ведущий мировой лидер в области проектирования и производства интегральных схем для обработки аналоговых, смешанных и цифров"
     }
   ]
 }

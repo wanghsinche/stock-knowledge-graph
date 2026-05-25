@@ -2,36 +2,36 @@
   "ticker": "ASTS",
   "company_name": "AST SpaceMobile, Inc.",
   "sector": "Technology",
-  "industry": "Satellite Communications",
+  "industry": "Communication Equipment",
   "upstream": [
-    "SpaceX",
-    "Lockheed Martin",
-    "Boeing",
-    "Northrop Grumman",
-    "Airbus"
+    "SpaceX (launch services)",
+    "Lockheed Martin (satellite components)",
+    "Boeing (satellite components)",
+    "QCOM",
+    "INTC"
   ],
   "downstream": [
     "AT&T",
     "Verizon",
     "T-Mobile",
-    "Maritime operators",
-    "Aviation operators"
+    "Vodafone",
+    "China Mobile"
   ],
   "competitors": [
     "SpaceX Starlink",
     "OneWeb",
-    "Telesat",
     "AMZN",
+    "Telesat",
     "Hughes Network Systems"
   ],
   "key_products": [
-    "Satellite broadband network",
-    "Satellite-based cellular network",
-    "High-throughput satellite (HTS) systems",
-    "Satellite modem",
-    "Satellite payload"
+    "4G/5G space-based cellular broadband",
+    "Satellite constellation",
+    "Satellite terminals",
+    "Ground stations",
+    "Network infrastructure"
   ],
-  "extracted_at": "2026-05-22 17:49:12",
+  "extracted_at": "2026-05-25 17:33:07",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,9 +47,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ast-science.com/",
+      "url": "https://ast-science.com/company/",
       "query": "AST SpaceMobile, Inc. suppliers manufacturers",
-      "snippet": "AST SpaceMobile is working to close that gap. Our space -based technology is designed to connect the unconnected, bringing broadband access directly t"
+      "snippet": "AST SpaceMobile mission is to enable 4G and 5G space -based cellular broadband to every device, everywhere, for today’s nearly 6 billion mobile subscr"
     },
     {
       "source": "DuckDuckGo",

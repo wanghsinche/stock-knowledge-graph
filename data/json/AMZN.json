@@ -4,40 +4,40 @@
   "sector": "Consumer Cyclical",
   "industry": "Internet Retail",
   "upstream": [
-    "AAPL",
-    "005930.KS",
-    "Nike, Inc.",
-    "SONY",
-    "Adidas AG"
+    "Book publishers",
+    "Electronics manufacturers",
+    "Clothing manufacturers",
+    "Home goods manufacturers",
+    "AWS hardware suppliers"
   ],
   "downstream": [
-    "Individual consumers",
-    "Small businesses",
-    "Large retailers",
-    "AMZN",
-    "AMZN"
+    "Retail customers (Prime members)",
+    "Business customers",
+    "AWS enterprise customers",
+    "Third‑party sellers",
+    "Content consumers (Kindle, Prime Video)"
   ],
   "competitors": [
-    "Walmart Inc.",
-    "eBay Inc.",
-    "Alibaba Group Holding Ltd.",
-    "Target Corp.",
-    "Shopify Inc."
+    "Walmart",
+    "eBay",
+    "Alibaba",
+    "Target",
+    "Shopify"
   ],
   "key_products": [
-    "Amazon.com e-commerce platform",
-    "Amazon Prime subscription",
-    "Amazon Web Services",
-    "Amazon Echo smart speakers",
-    "Amazon Kindle e-readers"
+    "Amazon.com e‑commerce platform",
+    "Amazon Prime membership",
+    "Amazon Web Services (cloud computing)",
+    "Amazon Echo/Alexa smart devices",
+    "Amazon Kindle e‑reader"
   ],
-  "extracted_at": "2026-05-22 17:46:45",
+  "extracted_at": "2026-05-25 17:29:31",
   "sources": [
     {
       "source": "Wikipedia",
-      "url": "",
-      "title": "",
-      "snippet": ""
+      "url": "https://en.wikipedia.org/wiki/Amazon.com,_Inc.",
+      "title": "Amazon (company)",
+      "snippet": "Amazon.com, Inc. is an American multinational technology company engaged in e-commerce, cloud computing, online advertising, digital streaming, entertainment and artificial intelligence. Founded in 19"
     },
     {
       "source": "DuckDuckGo",
@@ -59,9 +59,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.cohenmilstein.com/amazon-earths-most-customer-centric-company-fja-journal/",
+      "url": "https://aws.amazon.com/",
       "query": "Amazon.com, Inc. major customers clients",
-      "snippet": "Our goal is to be earth’s most customer -centric company.”— Jeff Bezos, CEO of Amazon . com , Inc . On August 13, 2020 in Bolger v. Amazon . com , LLC"
+      "snippet": "Amazon Web Services offers reliable, scalable, and inexpensive cloud computing services. Free to join, pay only for what you use."
     }
   ]
 }

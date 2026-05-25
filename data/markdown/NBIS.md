@@ -1,52 +1,52 @@
 ---
 ticker: NBIS
 company: Nebius Group N.V.
-sector: Communication Services / Internet Content & Information
-industry: Artificial Intelligence & Data Analytics Services
-extracted_at: 2026-05-22 17:50:48
-last_updated: 2026-05-22
+sector: Communication Services
+industry: Internet Content & Information
+extracted_at: 2026-05-25 17:35:51
+last_updated: 2026-05-25
 ---
 
 # NBIS - Nebius Group N.V.
 
 ## 基本信息
 
-- **所属行业**: Communication Services / Internet Content & Information / Artificial Intelligence & Data Analytics Services
-- **提取时间**: 2026-05-22 17:50:48
+- **所属行业**: Communication Services / Internet Content & Information
+- **提取时间**: 2026-05-25 17:35:51
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Cloud infrastructure providers (AWS, Azure, GCP)]]
 - [[NVDA]]
-- [[Data providers (Bloomberg, Thomson Reuters)]]
-- [[MSFT]]
 - [[INTC]]
+- [[AMD]]
+- [[CSCO]]
+- [[DELL]]
 
 ### 下游客户
-- [[Financial services firms (JP Morgan, Goldman Sachs)]]
-- [[Healthcare providers (Mayo Clinic, NHS)]]
-- [[Government agencies (U.S. Department of Defense, EU agencies)]]
-- [[AMZN]]
-- [[CAT]]
+- [[Bank of America]]
+- [[JPMorgan Chase]]
+- [[Vodafone]]
+- [[Alibaba]]
+- [[Tencent]]
 
 ### 竞争对手
-- [[Palantir Technologies]]
-- [[DataRobot]]
-- [[C3.ai]]
-- [[IBM]]
-- [[MSFT]]
+- [[NVDA]]
+- [[INTC]]
+- [[AMD]]
+- [[GOOGL]]
+- [[AMZN]]
 
 ### 核心产品
-- [[Nebius AI Platform]]
-- [[Data Analytics Suite]]
-- [[AI Consulting Services]]
-- [[Predictive Modeling Solutions]]
-- [[AI-powered Automation Tools]]
+- [[Nebius AI Infrastructure Platform]]
+- [[Avride]]
+- [[TripleTen]]
+- [[Toloka]]
+- [[Clickhouse]]
 
 ## 数据来源
 
-- 
+- [Nebius Group](https://en.wikipedia.org/wiki/NBIS)
 - [NBIS suppliers manufacturers](https://csimarket.com/stocks/suppliers_glance.php?code=NBIS)
 - [NBIS suppliers manufacturers](https://finance.yahoo.com/quote/NBIS/)
 - [NBIS major customers clients](https://finance.yahoo.com/quote/NBIS/)
@@ -54,4 +54,4 @@ last_updated: 2026-05-22
 
 ## 元数据
 
-- **更新日期**: 2026-05-22
+- **更新日期**: 2026-05-25

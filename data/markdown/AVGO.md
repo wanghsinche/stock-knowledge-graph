@@ -3,8 +3,8 @@ ticker: AVGO
 company: Broadcom Inc.
 sector: Technology
 industry: Semiconductors
-extracted_at: 2026-05-22 17:47:41
-last_updated: 2026-05-22
+extracted_at: 2026-05-25 17:30:15
+last_updated: 2026-05-25
 ---
 
 # AVGO - Broadcom Inc.
@@ -12,46 +12,28 @@ last_updated: 2026-05-22
 ## 基本信息
 
 - **所属行业**: Technology / Semiconductors
-- **提取时间**: 2026-05-22 17:47:41
+- **提取时间**: 2026-05-25 17:30:15
 
 ## 产业链关系
 
 ### 上游供应商
-- [[TSM]]
-- [[005930.KS]]
-- [[GlobalFoundries]]
-- [[ASE Technology Holding]]
-- [[Amkor Technology]]
+_暂无数据_
 
 ### 下游客户
-- [[AMZN]]
-- [[MSFT]]
-- [[GOOGL]]
-- [[CSCO]]
-- [[Huawei]]
+_暂无数据_
 
 ### 竞争对手
-- [[INTC]]
-- [[QCOM]]
-- [[NVDA]]
-- [[TXN]]
-- [[MRVL]]
+_暂无数据_
 
 ### 核心产品
-- [[Broadcom 802.11 Wi‑Fi chips]]
-- [[Broadcom BCM network processors]]
-- [[Broadcom storage controllers (SATA/SAS)]]
-- [[Broadcom broadband DOCSIS chips]]
-- [[Broadcom wireless LAN chips]]
+_暂无数据_
 
 ## 数据来源
 
 - [Broadcom](https://en.wikipedia.org/wiki/Broadcom_Inc.)
 - [Broadcom Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/Broadcom)
 - [Broadcom Inc. suppliers manufacturers](https://csimarket.com/stocks/AVGO-Suppliers)
-- [Broadcom Inc. major customers clients](https://en.wikipedia.org/wiki/Broadcom)
-- [Broadcom Inc. major customers clients](https://www.broadcom.com/support)
 
 ## 元数据
 
-- **更新日期**: 2026-05-22
+- **更新日期**: 2026-05-25

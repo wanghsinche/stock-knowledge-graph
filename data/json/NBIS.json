@@ -1,43 +1,43 @@
 {
   "ticker": "NBIS",
   "company_name": "Nebius Group N.V.",
-  "sector": "Communication Services / Internet Content & Information",
-  "industry": "Artificial Intelligence & Data Analytics Services",
+  "sector": "Communication Services",
+  "industry": "Internet Content & Information",
   "upstream": [
-    "Cloud infrastructure providers (AWS, Azure, GCP)",
     "NVDA",
-    "Data providers (Bloomberg, Thomson Reuters)",
-    "MSFT",
-    "INTC"
+    "INTC",
+    "AMD",
+    "CSCO",
+    "DELL"
   ],
   "downstream": [
-    "Financial services firms (JP Morgan, Goldman Sachs)",
-    "Healthcare providers (Mayo Clinic, NHS)",
-    "Government agencies (U.S. Department of Defense, EU agencies)",
-    "AMZN",
-    "CAT"
+    "Bank of America",
+    "JPMorgan Chase",
+    "Vodafone",
+    "Alibaba",
+    "Tencent"
   ],
   "competitors": [
-    "Palantir Technologies",
-    "DataRobot",
-    "C3.ai",
-    "IBM",
-    "MSFT"
+    "NVDA",
+    "INTC",
+    "AMD",
+    "GOOGL",
+    "AMZN"
   ],
   "key_products": [
-    "Nebius AI Platform",
-    "Data Analytics Suite",
-    "AI Consulting Services",
-    "Predictive Modeling Solutions",
-    "AI-powered Automation Tools"
+    "Nebius AI Infrastructure Platform",
+    "Avride",
+    "TripleTen",
+    "Toloka",
+    "Clickhouse"
   ],
-  "extracted_at": "2026-05-22 17:50:48",
+  "extracted_at": "2026-05-25 17:35:51",
   "sources": [
     {
       "source": "Wikipedia",
-      "url": "",
-      "title": "",
-      "snippet": ""
+      "url": "https://en.wikipedia.org/wiki/NBIS",
+      "title": "Nebius Group",
+      "snippet": "Nebius Group N.V., headquartered in Amsterdam, is a technology company that provides artificial intelligence infrastructure. The company also owns Avride and TripleTen, as well as stakes in Toloka and"
     },
     {
       "source": "DuckDuckGo",

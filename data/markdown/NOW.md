@@ -3,8 +3,8 @@ ticker: NOW
 company: ServiceNow, Inc.
 sector: Technology
 industry: Software - Application
-extracted_at: 2026-05-22 17:50:12
-last_updated: 2026-05-22
+extracted_at: 2026-05-25 17:35:04
+last_updated: 2026-05-25
 ---
 
 # NOW - ServiceNow, Inc.
@@ -12,7 +12,7 @@ last_updated: 2026-05-22
 ## 基本信息
 
 - **所属行业**: Technology / Software - Application
-- **提取时间**: 2026-05-22 17:50:12
+- **提取时间**: 2026-05-25 17:35:04
 
 ## 产业链关系
 
@@ -27,31 +27,31 @@ last_updated: 2026-05-22
 - [[Walmart]]
 - [[JPMorgan Chase]]
 - [[AT&T]]
-- [[Verizon]]
-- [[General Electric]]
+- [[Coca-Cola]]
+- [[Bank of America]]
 
 ### 竞争对手
 - [[CRM]]
-- [[MSFT]]
-- [[SAP SuccessFactors]]
+- [[SAP]]
+- [[IBM]]
 - [[ORCL]]
-- [[Workday]]
+- [[MSFT]]
 
 ### 核心产品
 - [[Now Platform]]
-- [[IT Service Management (ITSM)]]
-- [[IT Operations Management (ITOM)]]
-- [[IT Business Management (ITBM)]]
-- [[Customer Service Management (CSM)]]
+- [[IT Service Management]]
+- [[IT Operations Management]]
+- [[Customer Service Management]]
+- [[HR Service Delivery]]
 
 ## 数据来源
 
 - [ServiceNow](https://en.wikipedia.org/wiki/ServiceNow,_Inc.)
-- [ServiceNow, Inc. suppliers manufacturers](https://theenterpriseworld.com/10-servicenow-partners-in-2024/)
 - [ServiceNow, Inc. suppliers manufacturers](https://www.alibaba.com/)
+- [ServiceNow, Inc. suppliers manufacturers](https://theenterpriseworld.com/10-servicenow-partners-in-2024/)
 - [ServiceNow, Inc. major customers clients](https://www.tradingview.com/news/zacks:eb2a340ae094b:0-can-an-expanding-clientele-boost-servicenow-s-top-line-growth/)
-- [ServiceNow, Inc. major customers clients](https://siliconangle.com/2025/07/23/servicenows-agentic-ai-push-pays-off-blowout-earnings-strong-revenue-growth/)
+- [ServiceNow, Inc. major customers clients](https://www.fool.com/investing/2026/04/09/the-saaspocalypse-made-servicenow-stock-a-bargain/)
 
 ## 元数据
 
-- **更新日期**: 2026-05-22
+- **更新日期**: 2026-05-25

@@ -4,25 +4,25 @@
   "sector": "Energy",
   "industry": "Oil & Gas Integrated",
   "upstream": [
-    "Halliburton",
     "Schlumberger",
     "Baker Hughes",
-    "Weatherford",
-    "National Oilwell Varco"
+    "Halliburton",
+    "CAT",
+    "Siemens"
   ],
   "downstream": [
-    "American Airlines",
-    "Delta Air Lines",
-    "Exxon Retail Network",
-    "Mobil Retail Network",
-    "Dow Chemical"
+    "Automotive industry (fuel)",
+    "Airlines (jet fuel)",
+    "Trucking and logistics companies (diesel)",
+    "Petrochemical plants (ethylene, propylene)",
+    "Power generation plants (natural gas)"
   ],
   "competitors": [
     "Chevron",
-    "ConocoPhillips",
     "Royal Dutch Shell",
     "BP",
-    "TotalEnergies"
+    "TotalEnergies",
+    "ConocoPhillips"
   ],
   "key_products": [
     "Crude oil",
@@ -30,13 +30,11 @@
     "Gasoline",
     "Diesel",
     "Jet fuel",
-    "Lubricants",
-    "Ethylene",
-    "Propylene",
-    "Polyethylene",
+    "Mobil 1 lubricants",
+    "Petrochemicals (ethylene, propylene, polyethylene, polypropylene)",
     "Synthetic rubber"
   ],
-  "extracted_at": "2026-05-21 17:56:42",
+  "extracted_at": "2026-05-25 17:39:15",
   "sources": [
     {
       "source": "Wikipedia",
@@ -60,13 +58,13 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/ExxonMobil",
       "query": "Exxon Mobil Corporation major customers clients",
-      "snippet": "ExxonMobil markets products around the world under the brands of Exxon, Mobil, and Esso. Mobil is ExxonMobil 's primary retail gasoline brand in Calif"
+      "snippet": "Mobil 1, a brand of synthetic motor oil, is a major sponsor of multiple racing teams and the official motor oil of NASCAR since 2003.[47] ExxonMobil i"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/XOM-Customers",
+      "url": "https://investor.exxonmobil.com/",
       "query": "Exxon Mobil Corporation major customers clients",
-      "snippet": "Exxon Mobil customers and markets, results by customer and performance relative to XOM, by company and industry - CSIMarket"
+      "snippet": "ExxonMobil , one of the world’s largest publicly traded energy providers and chemical manufacturers, develops and applies next-generation technologies"
     }
   ]
 }

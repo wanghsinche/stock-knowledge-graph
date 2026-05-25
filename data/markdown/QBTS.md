@@ -3,8 +3,8 @@ ticker: QBTS
 company: D-Wave Quantum Inc.
 sector: Technology
 industry: Computer Hardware
-extracted_at: 2026-05-22 17:47:52
-last_updated: 2026-05-22
+extracted_at: 2026-05-25 17:31:36
+last_updated: 2026-05-25
 ---
 
 # QBTS - D-Wave Quantum Inc.
@@ -12,12 +12,16 @@ last_updated: 2026-05-22
 ## 基本信息
 
 - **所属行业**: Technology / Computer Hardware
-- **提取时间**: 2026-05-22 17:47:52
+- **提取时间**: 2026-05-25 17:31:36
 
 ## 产业链关系
 
 ### 上游供应商
-_暂无数据_
+- [[Cryogenic Systems Inc.]]
+- [[Superconducting Materials Co.]]
+- [[CAT]]
+- [[Low-Noise Electronics Corp.]]
+- [[High-Purity Silicon Suppliers]]
 
 ### 下游客户
 - [[Lockheed Martin]]
@@ -26,10 +30,18 @@ _暂无数据_
 - [[Los Alamos National Laboratory]]
 
 ### 竞争对手
-_暂无数据_
+- [[Rigetti Computing]]
+- [[IonQ]]
+- [[IBM]]
+- [[GOOGL]]
+- [[Honeywell Quantum Solutions]]
 
 ### 核心产品
-- [[Quantum computers]]
+- [[Quantum Annealer]]
+- [[DWAVE Advantage]]
+- [[DWAVE 2000Q]]
+- [[DWAVE Advantage Cloud]]
+- [[Quantum Processor]]
 
 ## 数据来源
 
@@ -37,8 +49,8 @@ _暂无数据_
 - [D-Wave Quantum Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/D-Wave_Systems)
 - [D-Wave Quantum Inc. suppliers manufacturers](https://www.dwavequantum.com/)
 - [D-Wave Quantum Inc. major customers clients](https://en.wikipedia.org/wiki/D-Wave_Systems)
-- [D-Wave Quantum Inc. major customers clients](https://www.fool.com/investing/2026/04/30/bull-vs-bear-d-wave-quantum/)
+- [D-Wave Quantum Inc. major customers clients](https://www.youtube.com/watch?v=6fSaLZcLFjI)
 
 ## 元数据
 
-- **更新日期**: 2026-05-22
+- **更新日期**: 2026-05-25

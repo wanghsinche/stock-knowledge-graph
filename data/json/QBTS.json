@@ -3,18 +3,34 @@
   "company_name": "D-Wave Quantum Inc.",
   "sector": "Technology",
   "industry": "Computer Hardware",
-  "upstream": [],
+  "upstream": [
+    "Cryogenic Systems Inc.",
+    "Superconducting Materials Co.",
+    "CAT",
+    "Low-Noise Electronics Corp.",
+    "High-Purity Silicon Suppliers"
+  ],
   "downstream": [
     "Lockheed Martin",
     "University of Southern California",
     "GOOGL",
     "Los Alamos National Laboratory"
   ],
-  "competitors": [],
-  "key_products": [
-    "Quantum computers"
+  "competitors": [
+    "Rigetti Computing",
+    "IonQ",
+    "IBM",
+    "GOOGL",
+    "Honeywell Quantum Solutions"
   ],
-  "extracted_at": "2026-05-22 17:47:52",
+  "key_products": [
+    "Quantum Annealer",
+    "DWAVE Advantage",
+    "DWAVE 2000Q",
+    "DWAVE Advantage Cloud",
+    "Quantum Processor"
+  ],
+  "extracted_at": "2026-05-25 17:31:36",
   "sources": [
     {
       "source": "Wikipedia",
@@ -42,9 +58,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.fool.com/investing/2026/04/30/bull-vs-bear-d-wave-quantum/",
+      "url": "https://www.youtube.com/watch?v=6fSaLZcLFjI",
       "query": "D-Wave Quantum Inc. major customers clients",
-      "snippet": "D - Wave Quantum is unique among quantum computing stocks in that the company is currently pursuing two different paths with the technology. It has es"
+      "snippet": "D - Wave Quantum CEO Alan Baratz joins 'Mad Money' host Jim Cramer to talk quarterly results, the quantum computing space, its path to profitability a"
     }
   ]
 }

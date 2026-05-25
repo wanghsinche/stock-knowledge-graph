@@ -2,36 +2,36 @@
   "ticker": "UNH",
   "company_name": "UnitedHealth Group Incorporated",
   "sector": "Healthcare",
-  "industry": "Health Insurance / Healthcare Plans",
+  "industry": "Health Insurance & Health Care Services",
   "upstream": [
     "Pharmaceutical manufacturers",
-    "Medical device manufacturers",
-    "Health IT vendors",
+    "Medical device producers",
+    "Health technology vendors",
     "Data analytics providers",
-    "Technology services providers"
+    "Pharmacy benefit management suppliers"
   ],
   "downstream": [
-    "U.S. federal government (Medicare, Medicaid)",
-    "Large corporate employers (e.g., Walmart, AT&T)",
-    "State governments",
+    "Employers offering group plans",
+    "Government programs (Medicare, Medicaid)",
     "Individual consumers",
-    "Health care providers (hospitals, clinics)"
+    "Health care providers (hospitals, clinics)",
+    "Large corporate clients"
   ],
   "competitors": [
     "Anthem",
     "Aetna (CVS Health)",
     "Cigna",
     "Humana",
-    "Blue Cross Blue Shield"
+    "Kaiser Permanente"
   ],
   "key_products": [
-    "UnitedHealthcare insurance plans (individual, group, Medicare Advantage, Medicaid)",
-    "Optum health services (OptumHealth, OptumInsight, OptumRx)",
-    "Pharmacy benefit management",
-    "Health data analytics",
-    "Telehealth services"
+    "Commercial health insurance plans",
+    "Medicare Advantage plans",
+    "Medicaid managed care",
+    "OptumRx pharmacy benefit management",
+    "OptumCare health services"
   ],
-  "extracted_at": "2026-05-20 18:16:23",
+  "extracted_at": "2026-05-25 17:36:19",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/UNH-Suppliers",
-      "query": "UnitedHealth Group Incorporated suppliers manufacturers",
-      "snippet": "Unitedhealth Group Incorporated supply chain, list and performance of Unitedhealth Group Incorporateds' suppliers - CSIMarket."
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/UNH/",
-      "query": "UnitedHealth Group Incorporated suppliers manufacturers",
-      "snippet": "UnitedHealth Group Incorporated Overview Healthcare Plans / Healthcare. UnitedHealth Group Incorporated operates as a health care company in the Unite"
-    },
-    {
-      "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/UnitedHealth_Group",
-      "query": "UnitedHealth Group Incorporated major customers clients",
+      "query": "UnitedHealth Group Incorporated suppliers manufacturers",
       "snippet": "UnitedHealth Group Incorporated is an American multinational for-profit company based in Eden Prairie, Minnesota, specializing in health insurance and"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/UNH-Customers",
+      "url": "https://www.unitedhealthgroup.com/suppliers/information.html",
+      "query": "UnitedHealth Group Incorporated suppliers manufacturers",
+      "snippet": "We search for suppliers that help us deliver best-in-class services to our customers. These partners support the UnitedHealth Group mission of helping"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://pitchgrade.com/companies/unitedhealth",
       "query": "UnitedHealth Group Incorporated major customers clients",
-      "snippet": "For your research, we’ve provided 9 tables on Unitedhealth Group Incorporated corporate clients . You can find them in the navigation menu under Custo"
+      "snippet": "Customer Segments: UnitedHealth Group Incorporated serves multiple distinct customer segments, which may include consumers, small and medium businesse"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://finance.yahoo.com/quote/UNH/",
+      "query": "UnitedHealth Group Incorporated major customers clients",
+      "snippet": "UnitedHealth Group Incorporated Overview Healthcare Plans / Healthcare. UnitedHealth Group Incorporated operates as a health care company in the Unite"
     }
   ]
 }

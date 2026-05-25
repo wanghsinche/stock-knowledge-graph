@@ -1,13 +1,37 @@
 {
   "ticker": "MRNA",
   "company_name": "Moderna, Inc.",
-  "sector": "Healthcare",
+  "sector": "Healthcare / Biotechnology",
   "industry": "Biotechnology",
-  "upstream": [],
-  "downstream": [],
-  "competitors": [],
-  "key_products": [],
-  "extracted_at": "2026-05-22 17:56:06",
+  "upstream": [
+    "mRNA synthesis reagents",
+    "lipid nanoparticle (LNP) components",
+    "cell culture media and supplements",
+    "enzymes for nucleic acid manipulation",
+    "plasmid DNA vectors"
+  ],
+  "downstream": [
+    "U.S. Centers for Disease Control and Prevention (CDC)",
+    "World Health Organization (WHO)",
+    "pharmaceutical distributors (e.g., Pfizer‑BioNTech, Johnson & Johnson)",
+    "hospital and clinic networks",
+    "government health agencies worldwide"
+  ],
+  "competitors": [
+    "Pfizer",
+    "BioNTech",
+    "Johnson & Johnson",
+    "Novavax",
+    "CureVac"
+  ],
+  "key_products": [
+    "Spikevax (COVID‑19 mRNA vaccine)",
+    "mRNA‑4157 (cancer vaccine platform)",
+    "mRNA‑1246 (mRNA‑based therapeutic for rare diseases)",
+    "mRNA‑LNP delivery platform",
+    "Moderna's mRNA therapeutic pipeline (e.g., mRNA‑LNP for infectious diseases)"
+  ],
+  "extracted_at": "2026-05-25 17:40:18",
   "sources": [
     {
       "source": "Wikipedia",
@@ -17,15 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/MRNA-Suppliers",
-      "query": "Moderna, Inc. suppliers manufacturers",
-      "snippet": "Moderna Inc supply chain, list and performance of Moderna Incs ' suppliers - CSIMarket."
-    },
-    {
-      "source": "DuckDuckGo",
       "url": "https://www.modernatx.com/about-us/our-story",
       "query": "Moderna, Inc. suppliers manufacturers",
       "snippet": "Moderna building with large moderna logo. Scientist looking through microscope. We’re making biotech history.Lease signed to build 200,000-square-foot"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://strategy.transforml.co/moderna-strategy-cascade-analysis",
+      "query": "Moderna, Inc. suppliers manufacturers",
+      "snippet": "How Moderna , Inc . tries to Win Strategically. Moderna wins by treating mRNA as a highly scalable, digital-like platform, enabling rapid iteration, s"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://strategy.transforml.co/moderna-strategy-cascade-analysis",
+      "query": "Moderna, Inc. major customers clients",
+      "snippet": "Strategy overview for Moderna , Inc . Moderna , Inc . is a pioneer and leader in the field of mRNA medicines, leveraging its proprietary platform to t"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.fool.com/earnings/call-transcripts/2021/05/07/moderna-inc-mrna-q1-2021-earnings-call-transcript/",
+      "query": "Moderna, Inc. major customers clients",
+      "snippet": "We now have 1,500 employees. We have recently incorporated Moderna Japan K.K. And we'll continue to build our commercial network. We will push to Asia"
     }
   ]
 }

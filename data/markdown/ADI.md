@@ -3,8 +3,8 @@ ticker: ADI
 company: Analog Devices, Inc.
 sector: Technology
 industry: Semiconductors
-extracted_at: 2026-05-21 17:58:19
-last_updated: 2026-05-21
+extracted_at: 2026-05-25 17:34:51
+last_updated: 2026-05-25
 ---
 
 # ADI - Analog Devices, Inc.
@@ -12,23 +12,23 @@ last_updated: 2026-05-21
 ## 基本信息
 
 - **所属行业**: Technology / Semiconductors
-- **提取时间**: 2026-05-21 17:58:19
+- **提取时间**: 2026-05-25 17:34:51
 
 ## 产业链关系
 
 ### 上游供应商
-- [[TXN]]
-- [[NXP Semiconductors]]
-- [[STMicroelectronics]]
-- [[Infineon Technologies]]
-- [[ON Semiconductor]]
+- [[TSM]]
+- [[005930.KS]]
+- [[GlobalFoundries]]
+- [[UMC]]
+- [[ASE Group]]
 
 ### 下游客户
-- [[MSFT]]
 - [[AAPL]]
-- [[GOOGL]]
-- [[AMZN]]
-- [[IBM]]
+- [[005930.KS]]
+- [[QCOM]]
+- [[INTC]]
+- [[MSFT]]
 
 ### 竞争对手
 - [[TXN]]
@@ -40,18 +40,18 @@ last_updated: 2026-05-21
 ### 核心产品
 - [[Analog-to-Digital Converters (ADCs)]]
 - [[Digital-to-Analog Converters (DACs)]]
-- [[Signal Processing ICs]]
+- [[Operational Amplifiers]]
 - [[Power Management ICs]]
-- [[Mixed-Signal ICs]]
+- [[Signal Processing ICs]]
 
 ## 数据来源
 
 - [Analog Devices](https://en.wikipedia.org/wiki/Analog_Devices,_Inc.)
-- [Analog Devices, Inc. suppliers manufacturers](https://www.analog.com/en/index.html)
-- [Analog Devices, Inc. suppliers manufacturers](https://www.digikey.com/en/supplier-centers/analog-devices)
+- [Analog Devices, Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/Analog_Devices)
+- [Analog Devices, Inc. suppliers manufacturers](https://www.analog.com/ru/index.html?spoor-id=ckz0d2kht00003g64pxyda3dq)
 - [Analog Devices, Inc. major customers clients](https://en.wikipedia.org/wiki/Analog_Devices)
-- [Analog Devices, Inc. major customers clients](https://www.analog.com/en/who-we-are.html)
+- [Analog Devices, Inc. major customers clients](https://www.analog.com/ru/index.html?spoor-id=ckz0d2kht00003g64pxyda3dq)
 
 ## 元数据
 
-- **更新日期**: 2026-05-21
+- **更新日期**: 2026-05-25

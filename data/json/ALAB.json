@@ -1,37 +1,37 @@
 {
   "ticker": "ALAB",
   "company_name": "Astera Labs, Inc.",
-  "sector": "Technology / Semiconductors",
+  "sector": "Technology",
   "industry": "Semiconductors",
   "upstream": [
     "TSM",
     "005930.KS",
     "GlobalFoundries",
-    "INTC",
-    "Xilinx (IP provider)"
+    "ASE Group",
+    "Amkor Technology"
   ],
   "downstream": [
-    "INTC",
-    "NVDA",
-    "AMD",
-    "Xilinx",
-    "AVGO"
+    "CSCO",
+    "DELL",
+    "HPQ",
+    "Lenovo Group",
+    "Huawei Technologies"
   ],
   "competitors": [
-    "AMD",
-    "INTC",
     "AVGO",
-    "Cadence Design Systems",
-    "Synopsys"
+    "MRVL",
+    "QRVO",
+    "Silicon Labs",
+    "ADI"
   ],
   "key_products": [
-    "PCIe 5.0/6.0 IP",
-    "NVLink IP",
-    "CXL IP",
-    "High‑speed serial transceivers",
-    "Custom ASIC interconnect solutions"
+    "2.5G/5G Ethernet PHY",
+    "PCIe 4.0/5.0 PHY",
+    "10G/25G/40G Ethernet PHY",
+    "100G/200G/400G Ethernet PHY",
+    "Optical interconnect solutions"
   ],
-  "extracted_at": "2026-05-22 17:51:13",
+  "extracted_at": "2026-05-25 17:39:36",
   "sources": [
     {
       "source": "Wikipedia",
@@ -54,14 +54,14 @@
     {
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Astera_Labs",
-      "query": "Astera Labs, Inc. major customers clients",
+      "query": "Astera Labs, Inc. competitors alternatives",
       "snippet": "Astera Labs , Inc . is an American fabless semiconductor manufacturer and artificial intelligence company. The company specializes in designing high-s"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.asteralabs.com/",
-      "query": "Astera Labs, Inc. major customers clients",
-      "snippet": "Astera Labs Expands Connectivity Portfolio with Custom Solutions. NVLink Fusion-based custom solutions will be offered to support next-generation hete"
+      "url": "https://tracxn.com/d/companies/asteralabs/__k20v-JOuHin6h1sLjZh_GLe8P-UdaW20PSStKJgy6Xg",
+      "query": "Astera Labs, Inc. competitors alternatives",
+      "snippet": "Explore Astera Labs ' in-depth company profile, including funding details, key investors, leadership, competitors , and acquisitions."
     }
   ]
 }

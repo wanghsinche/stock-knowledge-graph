@@ -4,40 +4,40 @@
   "sector": "Technology",
   "industry": "Computer Hardware",
   "upstream": [
+    "005930.KS",
+    "SK Hynix",
     "MU",
-    "SSD controller manufacturers (e.g., Silicon Motion, Phison)",
-    "TSM",
-    "PCB and assembly suppliers",
-    "Power management IC suppliers"
+    "Toshiba Corporation",
+    "STX"
   ],
   "downstream": [
     "DELL",
-    "DELL",
-    "AAPL",
+    "HPQ",
+    "AMZN",
     "MSFT",
-    "Data center operators"
+    "AAPL"
   ],
   "competitors": [
     "STX",
-    "Toshiba Memory (now Kioxia)",
+    "Toshiba Corporation",
     "005930.KS",
-    "INTC",
-    "MU"
+    "MU",
+    "IBM"
   ],
   "key_products": [
-    "Internal HDDs (e.g., 3.5\" and 2.5\" drives)",
-    "External HDDs and portable drives",
-    "SSD products (SATA, NVMe, PCIe)",
-    "Enterprise storage solutions (e.g., Ultrastar, Nytro)",
-    "Cloud storage devices and infrastructure"
+    "Hard Disk Drives (HDDs)",
+    "Solid State Drives (SSDs)",
+    "Enterprise Storage Solutions",
+    "Desktop Storage",
+    "External Drives"
   ],
-  "extracted_at": "2026-05-22 17:53:13",
+  "extracted_at": "2026-05-25 17:36:34",
   "sources": [
     {
       "source": "Wikipedia",
-      "url": "",
-      "title": "",
-      "snippet": ""
+      "url": "https://en.wikipedia.org/wiki/Western_Digital_Corporation",
+      "title": "Western Digital",
+      "snippet": "Western Digital Corporation, doing business as WD, is an American data storage company headquartered in San Jose, California. Established in 1970, the company is one of the world's largest manufacture"
     },
     {
       "source": "DuckDuckGo",
@@ -53,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Western_Digital",
+      "url": "https://ru.wikipedia.org/wiki/Western_Digital",
       "query": "Western Digital Corporation major customers clients",
-      "snippet": "Western Digital Corporation , doing business as WD , is an American data storage company headquartered in San Jose, California. Established in 1970, t"
+      "snippet": "Western Digital Corporation (NASDAQ: WDC. , по-русски «Вестерн Диджитал»[3]) — компания, производитель компьютерной электроники. Наиболее известна про"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.marketresearch.com/MarketLine-v3883/Western-Digital-Corporation-Company-Profile-43331798/",
+      "url": "https://kalkine.com.au/report/western-digital-corporation/",
       "query": "Western Digital Corporation major customers clients",
-      "snippet": "Western Digital Corporation ( Western Digital ) is a designer, manufacturer, and supplier of data storage products and related solutions. The company "
+      "snippet": "Company Overview: Western Digital Corporation (NASDAQ: WDC) is a global data storage devices and solutions provider. It has a broad portfolio of techn"
     }
   ]
 }

@@ -3,8 +3,8 @@ ticker: APH
 company: Amphenol Corporation
 sector: Technology
 industry: Electronic Components
-extracted_at: 2026-05-11 18:01:11
-last_updated: 2026-05-11
+extracted_at: 2026-05-25 17:35:36
+last_updated: 2026-05-25
 ---
 
 # APH - Amphenol Corporation
@@ -12,46 +12,28 @@ last_updated: 2026-05-11
 ## 基本信息
 
 - **所属行业**: Technology / Electronic Components
-- **提取时间**: 2026-05-11 18:01:11
+- **提取时间**: 2026-05-25 17:35:36
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Polymer resin suppliers]]
-- [[Copper wire manufacturers]]
-- [[Glass fiber producers]]
-- [[Silicone and elastomer suppliers]]
-- [[Electronic component suppliers]]
+_暂无数据_
 
 ### 下游客户
-- [[CAT]]
-- [[Automotive OEMs and suppliers]]
-- [[Aerospace and defense contractors]]
-- [[Data center infrastructure providers]]
-- [[Consumer electronics manufacturers]]
+_暂无数据_
 
 ### 竞争对手
-- [[TE Connectivity]]
-- [[Molex]]
-- [[L-com]]
-- [[Amphenol (other divisions)]]
-- [[Cypress Semiconductor]]
+_暂无数据_
 
 ### 核心产品
-- [[Coaxial connectors]]
-- [[Fiber optic connectors]]
-- [[Cable assemblies]]
-- [[Interconnect systems]]
-- [[High‑speed data connectors]]
+_暂无数据_
 
 ## 数据来源
 
 - [Amphenol](https://en.wikipedia.org/wiki/Amphenol_Corporation)
 - [Amphenol Corporation suppliers manufacturers](https://www.amphenol.com/)
-- [Amphenol Corporation suppliers manufacturers](https://csimarket.com/stocks/APH-Suppliers)
-- [Amphenol Corporation major customers clients](https://www.amphenol.com/)
-- [Amphenol Corporation major customers clients](https://www.insidermonkey.com/blog/amphenol-aph-12-best-growth-stocks-to-invest-in-for-the-next-2-years-1755463/)
+- [Amphenol Corporation suppliers manufacturers](https://csimarket.com/stocks/APH-Business-Description.html)
 
 ## 元数据
 
-- **更新日期**: 2026-05-11
+- **更新日期**: 2026-05-25

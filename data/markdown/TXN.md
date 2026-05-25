@@ -3,8 +3,8 @@ ticker: TXN
 company: Texas Instruments Incorporated
 sector: Technology
 industry: Semiconductors
-extracted_at: 2026-05-22 17:52:38
-last_updated: 2026-05-22
+extracted_at: 2026-05-25 17:36:06
+last_updated: 2026-05-25
 ---
 
 # TXN - Texas Instruments Incorporated
@@ -12,35 +12,35 @@ last_updated: 2026-05-22
 ## 基本信息
 
 - **所属行业**: Technology / Semiconductors
-- **提取时间**: 2026-05-22 17:52:38
+- **提取时间**: 2026-05-25 17:36:06
 
 ## 产业链关系
 
 ### 上游供应商
-- [[AMAT]]
-- [[ASML]]
-- [[LRCX]]
-- [[Tokyo Electron]]
-- [[Sumitomo Silicon]]
+- [[TSM]]
+- [[005930.KS]]
+- [[GlobalFoundries]]
+- [[INTC]]
+- [[MU]]
 
 ### 下游客户
 - [[Ford Motor Company]]
+- [[General Motors]]
 - [[AAPL]]
 - [[005930.KS]]
-- [[Bosch]]
-- [[NXP Semiconductors]]
+- [[Siemens AG]]
 
 ### 竞争对手
 - [[ADI]]
-- [[Maxim Integrated]]
-- [[STMicroelectronics]]
-- [[Infineon Technologies]]
 - [[NXP Semiconductors]]
+- [[Infineon Technologies]]
+- [[STMicroelectronics]]
+- [[Maxim Integrated]]
 
 ### 核心产品
 - [[Analog integrated circuits]]
 - [[Embedded processors]]
-- [[Digital Light Processing (DLP) modules]]
+- [[Digital Light Processing (DLP) technology]]
 - [[Calculators]]
 - [[Microcontrollers]]
 
@@ -50,8 +50,8 @@ last_updated: 2026-05-22
 - [Texas Instruments Incorporated suppliers manufacturers](https://en.wikipedia.org/wiki/Texas_Instruments)
 - [Texas Instruments Incorporated suppliers manufacturers](https://finance.yahoo.com/quote/TXN/)
 - [Texas Instruments Incorporated major customers clients](https://en.wikipedia.org/wiki/Texas_Instruments)
-- [Texas Instruments Incorporated major customers clients](https://finance.yahoo.com/quote/TXN/)
+- [Texas Instruments Incorporated major customers clients](https://www.ti.com/about-ti/company/ti-at-a-glance.html)
 
 ## 元数据
 
-- **更新日期**: 2026-05-22
+- **更新日期**: 2026-05-25

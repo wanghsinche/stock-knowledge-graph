@@ -7,15 +7,15 @@
     "TSM",
     "005930.KS",
     "GlobalFoundries",
-    "Amkor Technology",
-    "ASE Group"
+    "UMC",
+    "ASE Technology Holding"
   ],
   "downstream": [
-    "SONY",
-    "MSFT",
     "DELL",
+    "HPQ",
     "Lenovo Group",
-    "TSLA"
+    "TSLA",
+    "AMZN"
   ],
   "competitors": [
     "AMD",
@@ -25,13 +25,13 @@
     "AAPL"
   ],
   "key_products": [
-    "GeForce RTX GPUs",
-    "Quadro RTX GPUs",
-    "Tesla AI GPUs",
-    "Jetson SoCs",
-    "DGX AI supercomputers"
+    "GeForce RTX 30/40 Series GPUs",
+    "NVIDIA A100 Tensor Core GPU",
+    "NVIDIA H100 Tensor Core GPU",
+    "NVIDIA Jetson AI Edge Platform",
+    "NVIDIA Drive Automotive Platform"
   ],
-  "extracted_at": "2026-05-22 17:44:50",
+  "extracted_at": "2026-05-25 17:27:51",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,21 +47,21 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.youtube.com/watch?v=5hSg0MjEl88",
+      "url": "https://finance.yahoo.com/quote/NVDA/",
       "query": "NVIDIA Corporation suppliers manufacturers",
-      "snippet": "Nvidia has instructed component suppliers to stop production related to the H20, The Information reported, following news Beijing urged local companie"
+      "snippet": "Find the latest NVIDIA Corporation (NVDA) stock quote, history, news and other vital information to help you with your stock trading and investing."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Nvidia",
+      "url": "https://csimarket.com/stocks/NVDA-Customers",
       "query": "NVIDIA Corporation major customers clients",
-      "snippet": "Nvidia thus avoids most of the investment and production costs and risks associated with chip manufacturing, although it does sometimes directly procu"
+      "snippet": "Nvidia's Comment on Sales, Marketing and Customers Our worldwide sales and marketing strategy is key to our objective to become the leading supplier o"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://fortune.com/2024/08/29/nvidia-jensen-huang-ai-customers/",
+      "url": "https://www.fool.com/investing/2024/05/02/who-are-nvidias-largest-customers/",
       "query": "NVIDIA Corporation major customers clients",
-      "snippet": "Take “ Customer B” cited in the filing, for example: Its direct purchases represented 11% of Nvidia ’s $30 billion in revenue. That means a single com"
+      "snippet": "It's not completely clear who that customer is, but we have a good sense of who Nvidia's biggest customers may be based on media reports and deduction"
     }
   ]
 }

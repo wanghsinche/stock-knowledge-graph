@@ -5,15 +5,15 @@
   "industry": "Internet Content & Information",
   "upstream": [
     "INTC",
+    "NVDA",
     "QCOM",
     "005930.KS",
-    "NVDA",
-    "CSCO"
+    "TSM"
   ],
   "downstream": [
     "GOOGL",
-    "005930.KS",
     "GOOGL",
+    "Android device manufacturers",
     "YouTube content creators",
     "GOOGL"
   ],
@@ -26,12 +26,12 @@
   ],
   "key_products": [
     "Google Search",
-    "YouTube",
-    "Google Cloud Platform",
     "Android OS",
-    "Google Workspace"
+    "Google Cloud",
+    "YouTube",
+    "Google Ads"
   ],
-  "extracted_at": "2026-05-22 17:48:04",
+  "extracted_at": "2026-05-25 17:30:41",
   "sources": [
     {
       "source": "Wikipedia",
@@ -59,9 +59,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/GOOG/",
+      "url": "https://www.britannica.com/money/Alphabet-Inc",
       "query": "Alphabet Inc. major customers clients",
-      "snippet": "Find the latest Alphabet Inc . (GOOG) stock quote, history, news and other vital information to help you with your stock trading and investing. Alphab"
+      "snippet": "Alphabet Inc . is an American technology conglomerate and holding company formed in 2015 as a strategic... Alphabet ’s subsidiaries are generally sepa"
     }
   ]
 }

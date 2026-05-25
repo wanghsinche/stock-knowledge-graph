@@ -3,8 +3,8 @@ ticker: STX
 company: Seagate Technology Holdings plc
 sector: Technology
 industry: Computer Hardware
-extracted_at: 2026-05-22 17:51:51
-last_updated: 2026-05-22
+extracted_at: 2026-05-25 17:38:31
+last_updated: 2026-05-25
 ---
 
 # STX - Seagate Technology Holdings plc
@@ -12,46 +12,46 @@ last_updated: 2026-05-22
 ## 基本信息
 
 - **所属行业**: Technology / Computer Hardware
-- **提取时间**: 2026-05-22 17:51:51
+- **提取时间**: 2026-05-25 17:38:31
 
 ## 产业链关系
 
 ### 上游供应商
+- [[005930.KS]]
+- [[Toshiba]]
+- [[WDC]]
 - [[MU]]
-- [[TXN]]
-- [[AMAT]]
-- [[Raw material suppliers (e.g., silicon wafer producers)]]
-- [[Logistics and shipping providers]]
+- [[SK Hynix]]
 
 ### 下游客户
 - [[DELL]]
 - [[HPQ]]
 - [[Lenovo Group]]
 - [[AAPL]]
-- [[AMZN]]
+- [[MSFT]]
 
 ### 竞争对手
 - [[WDC]]
-- [[Kioxia (formerly Toshiba)]]
+- [[Toshiba]]
 - [[005930.KS]]
 - [[IBM]]
-- [[NetApp]]
+- [[MU]]
 
 ### 核心产品
-- [[Internal hard disk drives (HDDs)]]
-- [[Solid state drives (SSDs)]]
-- [[Enterprise storage systems]]
-- [[Cloud storage solutions]]
-- [[External portable drives]]
+- [[Hard Disk Drives (HDDs)]]
+- [[Solid State Drives (SSDs)]]
+- [[Enterprise Storage Solutions]]
+- [[Exos Series]]
+- [[Barracuda Series]]
 
 ## 数据来源
 
 - 
 - [Seagate Technology Holdings plc suppliers manufacturers](https://www.seagate.com/)
-- [Seagate Technology Holdings plc suppliers manufacturers](https://csimarket.com/stocks/FinancialStrength.php?code=STX)
-- [Seagate Technology Holdings plc major customers clients](https://simplywall.st/stocks/us/tech/nasdaq-stx/seagate-technology-holdings)
-- [Seagate Technology Holdings plc major customers clients](https://www.marketresearch.com/GlobalData-v3648/Seagate-Technology-Holdings-PLC-STX-42358792/)
+- [Seagate Technology Holdings plc suppliers manufacturers](https://simplywall.st/stocks/at/tech/vie-stxh/seagate-technology-holdings-shares)
+- [Seagate Technology Holdings plc major customers clients](https://en.wikipedia.org/wiki/Seagate_Technology)
+- [Seagate Technology Holdings plc major customers clients](https://investors.seagate.com/)
 
 ## 元数据
 
-- **更新日期**: 2026-05-22
+- **更新日期**: 2026-05-25

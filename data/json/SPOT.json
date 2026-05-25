@@ -4,34 +4,34 @@
   "sector": "Communication Services",
   "industry": "Internet Content & Information",
   "upstream": [
-    "Universal Music Group",
-    "SONY",
-    "Warner Music Group",
     "AMZN",
-    "MSFT"
+    "MSFT",
+    "GOOGL",
+    "CDN providers (e.g., Akamai)",
+    "Hardware manufacturers (servers, networking equipment)"
   ],
   "downstream": [
-    "Consumers (listeners)",
-    "Advertisers (brands)",
-    "Podcast creators",
-    "Artists",
-    "Brands"
+    "Advertisers on ad‑supported tier",
+    "Advertisers on podcast platform",
+    "Advertisers on partner apps",
+    "Advertisers on music streaming tier",
+    "Advertisers on premium tier (indirect via brand exposure)"
   ],
   "competitors": [
     "AAPL",
     "AMZN",
     "YouTube Music",
     "Tidal",
-    "Deezer"
+    "Pandora"
   ],
   "key_products": [
     "Spotify Music Streaming",
-    "Spotify Premium",
-    "Spotify Free",
     "Spotify Podcasts",
-    "Spotify Ad Studio"
+    "Spotify Ad‑Supported Tier",
+    "Spotify Premium",
+    "Spotify for Artists"
   ],
-  "extracted_at": "2026-05-22 17:49:39",
+  "extracted_at": "2026-05-25 17:34:10",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,9 +47,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/SPOT/",
+      "url": "https://www.case48.com/porter-analysis/15464-Spotify-Technology-S-A",
       "query": "Spotify Technology S.A. suppliers manufacturers",
-      "snippet": "Find the latest Spotify Technology S . A . (SPOT) stock quote, history, news and other vital information to help you with your stock trading and inves"
+      "snippet": "Spotify Technology S A is highly price sensitive and has adequate market knowledge. There is no threat of forward integration by suppliers . How Spoti"
     },
     {
       "source": "DuckDuckGo",
@@ -59,9 +59,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.mexc.fm/stocks/spot",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/spotify-technology-spot-growth-story-091229089.html",
       "query": "Spotify Technology S.A. major customers clients",
-      "snippet": "What is Spotify Technology S . A . (SPOT)? Spotify is the leading global music streaming service, with over 750 million monthly active users and nearl"
+      "snippet": "Spotify Technology S . A . (NYSE:SPOT) is one of the best large cap stocks to buy in 2026 according to billionaire Dan Loeb. On April 29, Benchmark lo"
     }
   ]
 }

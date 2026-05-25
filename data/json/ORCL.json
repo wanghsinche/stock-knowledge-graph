@@ -4,34 +4,34 @@
   "sector": "Technology",
   "industry": "Software - Infrastructure",
   "upstream": [
-    "AMD",
-    "DELL",
+    "NVDA",
     "MSFT",
-    "Software component vendors (e.g., Red Hat, VMware)",
-    "CSCO"
+    "CSCO",
+    "Storage vendors (e.g., NetApp, EMC)",
+    "Software component vendors (e.g., Red Hat, VMware)"
   ],
   "downstream": [
-    "Large enterprises (e.g., JPMorgan Chase, Walmart)",
-    "Government agencies (e.g., U.S. Department of Defense, U.K. Ministry of Defence)",
-    "Financial institutions (e.g., Bank of America, Citibank)",
-    "Healthcare organizations (e.g., Mayo Clinic, UnitedHealth Group)",
-    "Retail and e‑commerce companies (e.g., eBay, Target)"
+    "Large enterprises (e.g., Walmart, JPMorgan Chase)",
+    "Government agencies (e.g., U.S. Department of Defense)",
+    "Financial institutions (e.g., Bank of America)",
+    "Healthcare organizations (e.g., Mayo Clinic)",
+    "Retail companies (e.g., Target)"
   ],
   "competitors": [
     "MSFT",
     "AMZN",
     "IBM",
-    "SAP SE",
+    "SAP (HANA)",
     "GOOGL"
   ],
   "key_products": [
-    "Oracle Database (including Autonomous Database)",
-    "Oracle Cloud Infrastructure (OCI)",
+    "Oracle Database",
+    "Oracle Cloud Infrastructure",
     "Oracle Fusion Applications",
-    "Oracle E‑Business Suite",
-    "Oracle Analytics Cloud"
+    "Oracle Autonomous Database",
+    "Oracle Exadata"
   ],
-  "extracted_at": "2026-05-22 17:51:00",
+  "extracted_at": "2026-05-25 17:37:39",
   "sources": [
     {
       "source": "Wikipedia",

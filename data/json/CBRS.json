@@ -4,51 +4,44 @@
   "sector": "Technology",
   "industry": "Semiconductors",
   "upstream": [
-    "TSM",
-    "005930.KS",
-    "GlobalFoundries",
-    "INTC",
-    "MU"
+    "TSM"
   ],
   "downstream": [
-    "Mayo Clinic",
-    "Stanford University",
-    "University of California, Berkeley",
-    "GOOGL",
-    "AMZN"
+    "Mayo Clinic"
   ],
   "competitors": [
     "NVDA",
     "AMD",
     "INTC",
-    "Graphcore"
+    "Graphcore",
+    "QCOM"
   ],
   "key_products": [
-    "Cerebras Wafer-Scale Engine 1 (WSE-1)",
-    "Cerebras Wafer-Scale Engine 2 (WSE-2)",
-    "Cerebras CS-1",
-    "Cerebras CS-2",
-    "Cerebras AI Accelerator"
+    "Wafer Scale Engine (WSE)-3 semiconductor",
+    "CS-3 supercomputer",
+    "AI inference cloud API",
+    "AI training cloud API",
+    "Data center solutions"
   ],
-  "extracted_at": "2026-05-18 17:56:37",
+  "extracted_at": "2026-05-25 17:33:22",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Cerebras_Systems_Inc.",
       "title": "Cerebras Systems",
-      "snippet": "Cerebras Systems Inc. is an American artificial intelligence (AI) company with offices in Sunnyvale, San Diego, Toronto, and Bangalore, India. Cerebras builds computer systems for complex AI deep lear"
+      "snippet": "Cerebras Systems Inc., headquartered in Sunnyvale, California, develops semiconductors, supercomputers, and related software to power artificial intelligence deep-learning applications such as inferen"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Cerebras",
+      "url": "https://en.wikipedia.org/wiki/Cerebras_Systems",
       "query": "Cerebras Systems Inc. suppliers manufacturers",
-      "snippet": "Cerebras Systems Inc . is an American artificial intelligence company with offices in Sunnyvale, San Diego, Toronto, and Bangalore, India. Cerebras bu"
+      "snippet": "Its semiconductors are manufactured by TSMC, currently the only company that has the ability to manufacture Cerebras chips. The company's primary comp"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.cerebras.ai/",
       "query": "Cerebras Systems Inc. suppliers manufacturers",
-      "snippet": "Co-founder & CEO Cerebras Systems . Sam Altman.What we've built with Cerebras solves that: by splitting the inference workload across Trainium and the"
+      "snippet": "The AI Chip Company that is up to 15x Faster than GPUs ... The Cerebras Wafer-Scale Engine is purpose-built for ultra-fast AI. It is 58x larger than G"
     },
     {
       "source": "DuckDuckGo",

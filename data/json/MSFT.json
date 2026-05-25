@@ -8,30 +8,30 @@
     "AMD",
     "NVDA",
     "QCOM",
-    "005930.KS"
+    "TSM"
   ],
   "downstream": [
-    "Enterprises",
+    "Enterprise customers",
     "Government agencies",
+    "CAT",
     "DELL",
-    "Gamers (Xbox)",
-    "Consumers"
+    "Gamers (Xbox)"
   ],
   "competitors": [
-    "AMZN",
-    "GOOGL",
     "AAPL",
+    "GOOGL",
+    "AMZN",
     "ORCL",
-    "CRM"
+    "IBM"
   ],
   "key_products": [
     "Windows OS",
     "Microsoft Office",
     "Azure Cloud",
-    "Microsoft Teams",
-    "Xbox"
+    "Xbox",
+    "Surface"
   ],
-  "extracted_at": "2026-05-22 17:46:10",
+  "extracted_at": "2026-05-25 17:29:18",
   "sources": [
     {
       "source": "Wikipedia",
@@ -59,9 +59,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.morningstar.com/stocks/after-earnings-is-microsoft-stock-buy-sell-or-fairly-valued-4",
+      "url": "https://www.nytimes.com/2025/01/29/technology/microsoft-earnings-stock.html",
       "query": "Microsoft Corporation major customers clients",
-      "snippet": "Microsoft Corp .We believe Microsoft ’s moat will allow the company to earn returns above its cost of capital over the next 20 years. We believe custo"
+      "snippet": "About 5 percent of eligible Microsoft 365 Commercial customers have upgraded to include Copilot, Microsoft ’s A.I. companion, according to analysts at"
     }
   ]
 }

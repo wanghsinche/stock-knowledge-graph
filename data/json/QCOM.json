@@ -4,34 +4,34 @@
   "sector": "Technology",
   "industry": "Semiconductors",
   "upstream": [
-    "TSM",
-    "005930.KS",
-    "GlobalFoundries",
-    "MU",
-    "QCOM"
+    "Chipset manufacturers",
+    "Power supply unit manufacturers",
+    "Memory chip manufacturers",
+    "Component suppliers for RF modules",
+    "Electronic design automation (EDA) tool vendors"
   ],
   "downstream": [
     "AAPL",
-    "005930.KS",
-    "Huawei Technologies",
-    "Nokia",
-    "TSLA"
+    "CAT",
+    "OEMs for tablets and wearables",
+    "Automotive electronics suppliers",
+    "Enterprise networking equipment manufacturers"
   ],
   "competitors": [
     "MediaTek",
     "AVGO",
     "INTC",
     "NVDA",
-    "AAPL"
+    "005930.KS"
   ],
   "key_products": [
     "Snapdragon mobile processors",
-    "5G modems",
+    "5G modem chips",
     "AI inference chips",
-    "RF front-end modules",
-    "Baseband processors"
+    "Mobile communication RF modules",
+    "Licensing of mobile communication patents"
   ],
-  "extracted_at": "2026-05-22 17:46:23",
+  "extracted_at": "2026-05-25 17:29:46",
   "sources": [
     {
       "source": "Wikipedia",
@@ -53,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://qualcomm.com/",
-      "query": "QUALCOMM Incorporated major customers clients",
-      "snippet": "Director of product management, Qualcomm Technologies, Inc ."
-    },
-    {
-      "source": "DuckDuckGo",
       "url": "https://finance.yahoo.com/quote/QCOM/",
       "query": "QUALCOMM Incorporated major customers clients",
       "snippet": "Find the latest QUALCOMM Incorporated (QCOM) stock quote, history, news and other vital information to help you with your stock trading and investing."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2ltMnNhTEVSRzJIU2Fkc19JMVdTZ0FQAQ?hl=en-NA&gl=NA&ceid=NA:en",
+      "query": "QUALCOMM Incorporated major customers clients",
+      "snippet": "Qualcomm Inc stock (US7475251036): AI smartphone boom and licensing engine under Wall Street’s spo. 2 days ago. Save for later."
     }
   ]
 }

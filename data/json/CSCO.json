@@ -5,8 +5,8 @@
   "industry": "Communication Equipment",
   "upstream": [
     "INTC",
-    "QCOM",
     "AVGO",
+    "QCOM",
     "TXN",
     "NVDA"
   ],
@@ -14,24 +14,24 @@
     "AT&T",
     "Verizon",
     "Comcast",
-    "Vodafone",
-    "China Mobile"
+    "AT&T",
+    "AT&T"
   ],
   "competitors": [
-    "JNPR",
-    "Huawei",
     "ANET",
-    "Nokia",
-    "Ericsson"
+    "Huawei",
+    "JNPR",
+    "HPQ",
+    "Aruba Networks"
   ],
   "key_products": [
     "Cisco routers",
     "Cisco switches",
-    "Cisco firewalls",
-    "Webex",
-    "OpenDNS"
+    "Cisco security solutions",
+    "Webex collaboration tools",
+    "Cisco DNA Center"
   ],
-  "extracted_at": "2026-05-22 17:50:34",
+  "extracted_at": "2026-05-25 17:34:24",
   "sources": [
     {
       "source": "Wikipedia",
@@ -53,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Cisco",
-      "query": "Cisco Systems, Inc. major customers clients",
-      "snippet": "Cisco Systems , Inc ., doing business as Cisco , is an American multinational technology conglomerate corporation that develops, manufactures, and sel"
+      "url": "https://www.gartner.com/reviews/market/data-center-and-cloud-networking/vendor/cisco-systems/alternatives",
+      "query": "Cisco Systems, Inc. competitors alternatives",
+      "snippet": "Top Cisco Systems Alternatives · Arista Networks · Huawei · Hewlett Packard Enterprise (HPE) · Dell Technologies · Broadcom (VMware) · Extreme Network"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ru.wikipedia.org/wiki/Cisco",
-      "query": "Cisco Systems, Inc. major customers clients",
-      "snippet": "Cisco Systems , «Сиско Системз» — американская транснациональная компания, разрабатывающая и продающая сетевое оборудование, предназначенное в основно"
+      "url": "https://www.reddit.com/r/networking/comments/iz2q3d/escaping_from_cisco_alternatives/",
+      "query": "Cisco Systems, Inc. competitors alternatives",
+      "snippet": "Sep 24, 2020 · Aruba, Arista, Juniper, etc. There are plenty. And for firewalls, I prefer Palo Alto, which can replace your core routing if you build "
     }
   ]
 }

@@ -3,8 +3,8 @@ ticker: LLY
 company: Eli Lilly and Company
 sector: Healthcare
 industry: Drug Manufacturers - General
-extracted_at: 2026-05-22 17:50:00
-last_updated: 2026-05-22
+extracted_at: 2026-05-25 17:32:26
+last_updated: 2026-05-25
 ---
 
 # LLY - Eli Lilly and Company
@@ -12,46 +12,46 @@ last_updated: 2026-05-22
 ## 基本信息
 
 - **所属行业**: Healthcare / Drug Manufacturers - General
-- **提取时间**: 2026-05-22 17:50:00
+- **提取时间**: 2026-05-25 17:32:26
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Active Pharmaceutical Ingredient (API) suppliers]]
-- [[Contract manufacturing organizations (CMOs)]]
-- [[Packaging and labeling suppliers]]
-- [[Raw material suppliers (chemicals, solvents)]]
-- [[Logistics and transportation providers]]
+- [[Lonza Group AG]]
+- [[CAT]]
+- [[Evonik Industries AG]]
+- [[BASF SE]]
+- [[Thermo Fisher Scientific Inc.]]
 
 ### 下游客户
-- [[Hospitals and health systems]]
-- [[Pharmacies and drugstores]]
-- [[Government health agencies (e.g., CDC, NIH)]]
-- [[Insurance payers]]
-- [[International health organizations]]
+- [[McKesson Corporation]]
+- [[AmerisourceBergen Corporation]]
+- [[Cardinal Health, Inc.]]
+- [[UnitedHealth Group Incorporated]]
+- [[Walgreens Boots Alliance, Inc.]]
 
 ### 竞争对手
-- [[Pfizer]]
+- [[Pfizer Inc.]]
 - [[Johnson & Johnson]]
-- [[Merck & Co.]]
-- [[AbbVie]]
-- [[Amgen]]
+- [[Merck & Co., Inc.]]
+- [[Novartis AG]]
+- [[Bristol Myers Squibb Company]]
 
 ### 核心产品
-- [[Humalog (insulin lispro)]]
-- [[Lantus (insulin glargine)]]
 - [[Trulicity (dulaglutide)]]
-- [[Cyramza (ramucirumab)]]
+- [[Mounjaro (tirzepatide)]]
+- [[Lantus (insulin glargine)]]
 - [[Zyprexa (olanzapine)]]
+- [[Cymbalta (duloxetine)]]
 
 ## 数据来源
 
 - [Eli Lilly and Company](https://en.wikipedia.org/wiki/Eli_Lilly_and_Company)
 - [Eli Lilly and Company suppliers manufacturers](https://en.wikipedia.org/wiki/Eli_Lilly_and_Company)
-- [Eli Lilly and Company suppliers manufacturers](https://data.ark.ai/analysis/suppliers/eli-lilly-and-company-supplier-profile-overview/)
+- [Eli Lilly and Company suppliers manufacturers](https://www.linkedin.com/company/eli-lilly-and-company)
 - [Eli Lilly and Company major customers clients](https://en.wikipedia.org/wiki/Eli_Lilly_and_Company)
 - [Eli Lilly and Company major customers clients](https://www.linkedin.com/company/eli-lilly-and-company)
 
 ## 元数据
 
-- **更新日期**: 2026-05-22
+- **更新日期**: 2026-05-25

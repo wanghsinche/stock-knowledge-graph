@@ -4,34 +4,34 @@
   "sector": "Financial Services",
   "industry": "Credit Services",
   "upstream": [
-    "Card manufacturers (e.g., Gemalto, IDEMIA)",
-    "Payment network technology vendors",
-    "Security and fraud‑prevention service providers",
-    "MSFT",
-    "Data analytics and cloud infrastructure providers"
+    "Chip and card manufacturing vendors",
+    "Payment network infrastructure providers",
+    "Technology platform suppliers",
+    "Security and fraud‑prevention vendors",
+    "Data analytics service providers"
   ],
   "downstream": [
     "Commercial banks and credit unions",
     "Retail merchants and e‑commerce platforms",
-    "Financial institutions issuing Visa‑branded cards",
-    "Consumers using Visa credit/debit/prepaid cards",
-    "Payment processors and acquirers"
+    "Card issuers (e.g., banks, credit unions)",
+    "Consumers using Visa‑branded cards",
+    "Financial institutions using Visa Direct"
   ],
   "competitors": [
     "Mastercard",
     "American Express",
-    "Discover Financial Services",
-    "PayPal",
-    "Square"
+    "Discover",
+    "JCB",
+    "UnionPay"
   ],
   "key_products": [
     "Visa credit cards",
     "Visa debit cards",
     "Visa prepaid cards",
     "Visa payment network services",
-    "Visa Direct real‑time payments"
+    "Visa Direct and mobile payment solutions"
   ],
-  "extracted_at": "2026-05-20 18:19:15",
+  "extracted_at": "2026-05-25 17:34:35",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/V-Suppliers",
+      "url": "https://ru.wikipedia.org/wiki/Visa",
       "query": "Visa Inc. suppliers manufacturers",
-      "snippet": "Visa Inc ' s Suppliers recorded an increase in sales by 22.29 % year on year in Q1 2026, from the previous quarter, sales fell by -21.97 %, while thei"
+      "snippet": "Visa Inc . — американская транснациональная компания, предоставляющая услуги проведения платёжных операций. Является основой одноимённой ассоциации. С"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://d1.awsstatic.com/whitepapers/compliance/Visa_Global_Registry_of_Service_Providers_June_30_2025.pdf",
+      "url": "https://www.visa.com/en-us",
       "query": "Visa Inc. suppliers manufacturers",
-      "snippet": "The Global Registry of Service Providers lists all approved vendors (card manufacturers , magnetic-stripe card personalizers, IC personalizers, IC pre"
+      "snippet": "Discover Visa personal payment solutions, secure transactions, travel support, cards and rewards designed to bring more value to your everyday experie"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Visa_Inc.",
+      "url": "https://www.visa.com/en-us",
       "query": "Visa Inc. major customers clients",
-      "snippet": "Visa Inc . is an American multinational payment card services corporation headquartered in San Francisco, California. It facilitates electronic funds "
+      "snippet": "Discover Visa personal payment solutions, secure transactions, travel support, cards and rewards designed to bring more value to your everyday experie"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.britannica.com/money/Visa-Inc",
+      "url": "https://deroundtable.com/recruitment-at-visa-incorporated-6/",
       "query": "Visa Inc. major customers clients",
-      "snippet": "Visa Inc . is an international payment card services corporation established in 1958.A major player in bolstering BankAmericard’s early success was De"
+      "snippet": "Set priorities, influence client and Visa teams involved in various workstreams to multi-task under tight deadlines and ensure that client and/or proc"
     }
   ]
 }

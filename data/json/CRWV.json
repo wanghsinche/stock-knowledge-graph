@@ -1,37 +1,37 @@
 {
   "ticker": "CRWV",
   "company_name": "CoreWeave, Inc.",
-  "sector": "Technology",
-  "industry": "Software - Infrastructure",
+  "sector": "Technology / Software - Infrastructure",
+  "industry": "AI Cloud Computing",
   "upstream": [
     "NVDA",
     "AMD",
     "INTC",
-    "DELL",
-    "CSCO"
+    "QCOM",
+    "MU"
   ],
   "downstream": [
-    "AI developers",
-    "Enterprise AI teams",
-    "Research institutions",
+    "AI research labs",
+    "Tech enterprises",
     "Gaming companies",
-    "Data science startups"
+    "Automotive companies",
+    "Financial services"
   ],
   "competitors": [
-    "AMZN",
+    "NVDA",
+    "AMD",
     "GOOGL",
-    "MSFT",
-    "IBM",
-    "Paperspace"
+    "AWS Inferentia",
+    "MSFT"
   ],
   "key_products": [
     "GPU cloud infrastructure",
-    "GPU-optimized virtual machines",
-    "AI training services",
     "GPU management software",
-    "High-performance computing clusters"
+    "AI compute services",
+    "GPU virtualization",
+    "AI workload optimization"
   ],
-  "extracted_at": "2026-05-22 17:50:23",
+  "extracted_at": "2026-05-25 17:37:12",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,9 +47,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://notice.co/c/coreweave",
+      "url": "https://finance.yahoo.com/sectors/technology/articles/coreweave-vs-nebius-artificial-intelligence-134501390.html",
       "query": "CoreWeave, Inc. suppliers manufacturers",
-      "snippet": "About CoreWeave , Inc . CoreWeave provides cloud infrastructure optimized for NVIDIA GPUs."
+      "snippet": "As artificial intelligence workloads demand massive computing power, choosing between CoreWeave Inc . (NASDAQ:CRWV) and Nebius Group (NASDAQ:NBIS) hig"
     },
     {
       "source": "DuckDuckGo",
@@ -59,9 +59,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/coreweave-raised-20-billion-capital-144406639.html",
+      "url": "https://finance.yahoo.com/sectors/technology/articles/coreweave-vs-nebius-artificial-intelligence-134501390.html",
       "query": "CoreWeave, Inc. major customers clients",
-      "snippet": "The Number CoreWeave (NASDAQ:CRWV) has raised over $20 billion in capital so far in 2026, a financing pace that now defines the investment debate arou"
+      "snippet": "Specific major customers are not disclosed in public filings, but the firm targets a wide range of global AI builders.Risk profile comparison. CoreWea"
     }
   ]
 }

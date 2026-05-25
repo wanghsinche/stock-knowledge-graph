@@ -2,36 +2,36 @@
   "ticker": "SNDK",
   "company_name": "SanDisk Corporation",
   "sector": "Technology / Computer Hardware",
-  "industry": "Storage Solutions / Semiconductor",
+  "industry": "Semiconductor / Flash Memory",
   "upstream": [
-    "Silicon wafer suppliers",
-    "Memory cell manufacturers",
-    "Packaging and assembly suppliers",
-    "Electronic component suppliers",
-    "Raw material suppliers"
+    "MU",
+    "005930.KS",
+    "SK Hynix",
+    "Toshiba Memory",
+    "WDC"
   ],
   "downstream": [
     "AAPL",
-    "005930.KS",
     "DELL",
     "HPQ",
-    "MSFT"
+    "Lenovo Group",
+    "SONY"
   ],
   "competitors": [
     "MU",
     "005930.KS",
-    "WDC",
     "Kingston Technology",
-    "SK Hynix"
+    "WDC",
+    "Toshiba Memory"
   ],
   "key_products": [
-    "NAND flash memory",
-    "Solid State Drives (SSDs)",
+    "SD cards",
     "USB flash drives",
-    "SD and microSD cards",
-    "Enterprise storage solutions"
+    "Solid State Drives (SSDs)",
+    "MicroSD cards",
+    "Memory cards for cameras"
   ],
-  "extracted_at": "2026-05-22 17:45:30",
+  "extracted_at": "2026-05-25 17:28:38",
   "sources": [
     {
       "source": "Wikipedia",
@@ -55,13 +55,13 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Sandisk",
       "query": "Sandisk Corporation major customers clients",
-      "snippet": "Sandisk Corporation is an American multinational computer semiconductor company based in Milpitas, California, that designs and manufactures flash mem"
+      "snippet": "1 week ago - SanDisk Corporation (formerly SunDisk Corporation) is an American multinational semiconductor company based in Milpitas, California. Foun"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.sandisk.com/",
+      "url": "https://www.cbinsights.com/company/sandisk",
       "query": "Sandisk Corporation major customers clients",
-      "snippet": "Sandisk online store members receive free standard shipping on all eligible orders.New Sandisk Customers Sign Up and Save 10% Off. Explore the latest "
+      "snippet": "Micron is also a memory and storage stock, and it is benefiting from the same supercycle as Sandisk. While there is some overlap, as Micron also provi"
     }
   ]
 }

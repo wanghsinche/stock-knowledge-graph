@@ -3,8 +3,8 @@ ticker: RGTI
 company: Rigetti Computing, Inc.
 sector: Technology
 industry: Computer Hardware
-extracted_at: 2026-05-22 17:46:33
-last_updated: 2026-05-22
+extracted_at: 2026-05-25 17:30:27
+last_updated: 2026-05-25
 ---
 
 # RGTI - Rigetti Computing, Inc.
@@ -12,37 +12,37 @@ last_updated: 2026-05-22
 ## 基本信息
 
 - **所属行业**: Technology / Computer Hardware
-- **提取时间**: 2026-05-22 17:46:33
+- **提取时间**: 2026-05-25 17:30:27
 
 ## 产业链关系
 
 ### 上游供应商
 - [[Superconducting qubit manufacturers]]
-- [[Cryogenic electronics suppliers]]
-- [[High‑purity silicon wafer producers]]
-- [[Quantum control electronics vendors]]
-- [[Cryostat and dilution refrigerator manufacturers]]
+- [[Cryogenic system suppliers]]
+- [[Silicon wafer suppliers]]
+- [[Electronic component suppliers]]
+- [[CAT]]
 
 ### 下游客户
-- [[Academic research institutions]]
-- [[Government quantum research labs]]
-- [[Cloud service providers offering quantum access]]
-- [[Quantum software companies]]
-- [[Enterprise R&D departments]]
+- [[Research universities]]
+- [[Government research labs]]
+- [[Cloud service providers]]
+- [[Enterprise technology firms]]
+- [[Quantum software developers]]
 
 ### 竞争对手
 - [[IBM]]
 - [[GOOGL]]
+- [[Honeywell Quantum Solutions]]
 - [[D-Wave Systems]]
 - [[IonQ]]
-- [[Xanadu]]
 
 ### 核心产品
-- [[Aspen quantum processors]]
-- [[Rigetti Forest quantum cloud platform]]
-- [[Quantum software stack (Qiskit, Forest SDK)]]
-- [[Cryogenic control hardware]]
-- [[Quantum error‑correction tools]]
+- [[Quantum Processing Units (QPU)]]
+- [[Forest quantum cloud platform]]
+- [[Quantum software stack]]
+- [[Cryogenic hardware]]
+- [[Quantum algorithm libraries]]
 
 ## 数据来源
 
@@ -54,4 +54,4 @@ last_updated: 2026-05-22
 
 ## 元数据
 
-- **更新日期**: 2026-05-22
+- **更新日期**: 2026-05-25

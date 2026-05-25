@@ -2,47 +2,47 @@
 ticker: IONQ
 company: IonQ, Inc.
 sector: Technology
-industry: Quantum Computing
-extracted_at: 2026-05-22 17:48:16
-last_updated: 2026-05-22
+industry: Computer Hardware
+extracted_at: 2026-05-25 17:32:56
+last_updated: 2026-05-25
 ---
 
 # IONQ - IonQ, Inc.
 
 ## 基本信息
 
-- **所属行业**: Technology / Quantum Computing
-- **提取时间**: 2026-05-22 17:48:16
+- **所属行业**: Technology / Computer Hardware
+- **提取时间**: 2026-05-25 17:32:56
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Oxford Instruments]]
-- [[Qubitekk]]
-- [[Coherent]]
-- [[AMAT]]
-- [[Thorlabs]]
+- [[Laser system manufacturers]]
+- [[Vacuum chamber suppliers]]
+- [[Cryogenic equipment providers]]
+- [[High‑precision electronics vendors]]
+- [[Ion trap component suppliers]]
 
 ### 下游客户
-- [[AMZN]]
+- [[Research universities]]
+- [[National laboratories]]
 - [[MSFT]]
-- [[GOOGL]]
-- [[IBM]]
-- [[ORCL]]
+- [[Quantum software companies]]
+- [[Government agencies (e.g., DARPA, DOE)]]
 
 ### 竞争对手
-- [[IBM]]
 - [[Rigetti Computing]]
-- [[Honeywell Quantum Solutions]]
+- [[Honeywell Quantum Solutions (Quantinuum)]]
 - [[D-Wave Systems]]
 - [[Xanadu]]
+- [[IonQ’s own internal competitors (e.g., IonQ’s own QPU models)]]
 
 ### 核心产品
-- [[Trapped ion quantum processors]]
-- [[Quantum cloud services]]
-- [[Quantum software stack]]
-- [[Quantum algorithms]]
-- [[Quantum hardware]]
+- [[Trapped‑ion quantum processors]]
+- [[Quantum computing software stack]]
+- [[Cloud‑based quantum computing access]]
+- [[Quantum circuit optimization tools]]
+- [[Quantum hardware‑as‑a‑service (QaaS) platform]]
 
 ## 数据来源
 
@@ -50,8 +50,8 @@ last_updated: 2026-05-22
 - [IonQ, Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/IonQ)
 - [IonQ, Inc. suppliers manufacturers](https://www.ionq.com/)
 - [IonQ, Inc. major customers clients](https://www.ionq.com/)
-- [IonQ, Inc. major customers clients](https://www.fool.com/earnings/call-transcripts/2026/02/25/ionq-ionq-q4-2025-earnings-call-transcript/)
+- [IonQ, Inc. major customers clients](https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lNcjlXTUVSSGlnTTlqT29GYXZpZ0FQAQ?hl=en-US&gl=US&ceid=US:en)
 
 ## 元数据
 
-- **更新日期**: 2026-05-22
+- **更新日期**: 2026-05-25

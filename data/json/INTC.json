@@ -5,16 +5,16 @@
   "industry": "Semiconductors",
   "upstream": [
     "TSM",
-    "GlobalFoundries",
     "005930.KS",
+    "GlobalFoundries",
     "MU",
-    "INTC"
+    "TXN"
   ],
   "downstream": [
+    "AAPL",
     "DELL",
     "HPQ",
-    "Lenovo Group",
-    "AAPL",
+    "Lenovo",
     "MSFT"
   ],
   "competitors": [
@@ -22,16 +22,16 @@
     "NVDA",
     "QCOM",
     "AVGO",
-    "TSM"
+    "MU"
   ],
   "key_products": [
-    "Intel Core processors",
-    "Intel Xeon processors",
-    "Intel Atom processors",
-    "Intel FPGAs",
-    "Intel AI chips"
+    "Intel Core CPUs",
+    "Intel Xeon CPUs",
+    "Intel Arc GPUs",
+    "Intel Optane memory",
+    "Intel Ethernet controllers"
   ],
-  "extracted_at": "2026-05-22 17:45:58",
+  "extracted_at": "2026-05-25 17:29:04",
   "sources": [
     {
       "source": "Wikipedia",
@@ -59,9 +59,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.tradingview.com/symbols/NASDAQ-INTC/",
+      "url": "https://finance.yahoo.com/quote/INTC/",
       "query": "Intel Corporation major customers clients",
-      "snippet": "View live Intel Corporation chart to track its stock's price action. Find market predictions, INTC financials and market news."
+      "snippet": "Find the latest Intel Corporation (INTC) stock quote, history, news and other vital information to help you with your stock trading and investing."
     }
   ]
 }
