@@ -4,37 +4,34 @@
   "sector": "Communication Services",
   "industry": "Internet Content & Information",
   "upstream": [
-    "QCOM",
-    "NVDA",
     "INTC",
-    "005930.KS",
-    "TSM"
+    "NVDA",
+    "AMD",
+    "CSCO",
+    "DELL"
   ],
   "downstream": [
-    "Advertisers (global brands)",
-    "App developers",
-    "Content creators",
-    "Small and medium businesses",
-    "Media agencies"
+    "Advertisers",
+    "Small and Medium Businesses",
+    "Developers",
+    "Content Creators",
+    "Media Companies"
   ],
   "competitors": [
-    "GOOGL",
-    "AMZN",
-    "AAPL",
+    "X Corp (Twitter)",
+    "Snap Inc.",
+    "TikTok (ByteDance)",
     "MSFT",
-    "Twitter (X)"
+    "Pinterest"
   ],
   "key_products": [
     "Facebook",
     "Instagram",
     "WhatsApp",
     "Messenger",
-    "Threads",
-    "Meta Ads",
-    "Meta Quest",
-    "Meta Business Suite"
+    "Threads"
   ],
-  "extracted_at": "2026-05-25 17:29:58",
+  "extracted_at": "2026-05-26 18:19:31",
   "sources": [
     {
       "source": "Wikipedia",
@@ -50,9 +47,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.alibaba.com/",
+      "url": "https://www.computerhope.com/comp/meta.htm",
       "query": "Meta Platforms, Inc. suppliers manufacturers",
-      "snippet": "Find quality Manufacturers , Suppliers , Exporters, Importers, Buyers, Wholesalers, Products and Trade Leads from our award-winning International Trad"
+      "snippet": "Before it was rebranded as Meta in October 2021, Meta was known as Facebook Inc . According to Zuckerberg, the name Meta emphasizes their focus on VR "
     },
     {
       "source": "DuckDuckGo",
@@ -62,9 +59,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.thestreet.com/employment/metas-recent-layoffs-take-an-unexpected-turn",
+      "url": "https://www.cnn.com/markets/stocks/META",
       "query": "Meta Platforms, Inc. major customers clients",
-      "snippet": "25, 2024. Meta Platforms Inc . debuted its first pair of augmented reality glasses, devices that show a combined view of the digital and physical worl"
+      "snippet": "View Meta Platforms Inc Class A META stock quote prices, financial information, real-time forecasts, and company news from CNN."
     }
   ]
 }

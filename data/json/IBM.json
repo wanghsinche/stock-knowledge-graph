@@ -6,16 +6,16 @@
   "upstream": [
     "INTC",
     "AMD",
-    "TSM",
-    "005930.KS",
-    "MU"
+    "NVDA",
+    "CSCO",
+    "DELL"
   ],
   "downstream": [
-    "Walmart",
-    "JPMorgan Chase",
-    "United States Department of Defense",
-    "General Electric",
-    "AT&T"
+    "U.S. Federal Government",
+    "Banking & Financial Services",
+    "Healthcare Providers",
+    "Retail Chains",
+    "CAT"
   ],
   "competitors": [
     "MSFT",
@@ -28,10 +28,10 @@
     "IBM Cloud",
     "IBM Watson",
     "IBM Power Systems",
-    "IBM Z mainframes",
+    "IBM z Systems",
     "IBM Security"
   ],
-  "extracted_at": "2026-05-25 17:30:52",
+  "extracted_at": "2026-05-26 18:26:01",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,25 +43,25 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/IBM",
       "query": "International Business Machines Corporation suppliers manufacturers",
-      "snippet": "International Business Machines Corporation . Logo since 1972, designed by Paul Rand. IBM CHQ in Armonk, New York, in 2014.It was renamed \" Internatio"
+      "snippet": "For other uses, see Big Blue (disambiguation). International Business Machines Corporation .IBM was founded in 1911 as the Computing-Tabulating-Record"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ru.wikipedia.org/wiki/IBM",
+      "url": "https://finance.yahoo.com/quote/IBM/",
       "query": "International Business Machines Corporation suppliers manufacturers",
-      "snippet": "International Business Machines ) — американская компания со штаб-квартирой в Армонке[англ.] (штат Нью-Йорк), один из крупнейших в мире производителей"
+      "snippet": "Find the latest International Business Machines Corporation (IBM) stock quote, history, news and other vital information to help you with your stock t"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/IBM",
       "query": "International Business Machines Corporation major customers clients",
-      "snippet": "Also that year, IBM began announcing several major partnerships with other companies, including Apple Inc., Twitter, Facebook, Tencent ... History · C"
+      "snippet": "International Business Machines Corporation . International Business Machines Corporation , doing business as IBM (nicknamed Big Blue),[6] is an Ameri"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.ebsco.com/research-starters/business-and-management/international-business-machines-corporation-ibm",
+      "url": "https://finance.yahoo.com/news/international-business-machines-corporation-ibm-172212325.html",
       "query": "International Business Machines Corporation major customers clients",
-      "snippet": "The company has continually evolved, focusing on sectors like supercomputing, artificial intelligence, cloud computing, and cybersecurity. As of mid-2"
+      "snippet": "International Business Machines Corporation (NYSE:IBM) is an American multinational technology company. It provides cloud platforms, software services"
     }
   ]
 }

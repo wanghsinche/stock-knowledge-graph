@@ -4,34 +4,34 @@
   "sector": "Technology",
   "industry": "Software - Infrastructure",
   "upstream": [
+    "INTC",
+    "AMD",
     "NVDA",
-    "MSFT",
     "CSCO",
-    "Storage vendors (e.g., NetApp, EMC)",
-    "Software component vendors (e.g., Red Hat, VMware)"
+    "DELL"
   ],
   "downstream": [
-    "Large enterprises (e.g., Walmart, JPMorgan Chase)",
-    "Government agencies (e.g., U.S. Department of Defense)",
-    "Financial institutions (e.g., Bank of America)",
-    "Healthcare organizations (e.g., Mayo Clinic)",
-    "Retail companies (e.g., Target)"
+    "Bank of America",
+    "UnitedHealth Group",
+    "Walmart",
+    "U.S. Department of Defense",
+    "General Electric"
   ],
   "competitors": [
     "MSFT",
     "AMZN",
+    "GOOGL",
     "IBM",
-    "SAP (HANA)",
-    "GOOGL"
+    "SAP"
   ],
   "key_products": [
     "Oracle Database",
     "Oracle Cloud Infrastructure",
-    "Oracle Fusion Applications",
+    "Oracle ERP Cloud",
     "Oracle Autonomous Database",
-    "Oracle Exadata"
+    "Oracle Analytics Cloud"
   ],
-  "extracted_at": "2026-05-25 17:37:39",
+  "extracted_at": "2026-05-26 18:29:30",
   "sources": [
     {
       "source": "Wikipedia",

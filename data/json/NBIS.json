@@ -1,43 +1,43 @@
 {
   "ticker": "NBIS",
   "company_name": "Nebius Group N.V.",
-  "sector": "Communication Services",
+  "sector": "Communication Services / Internet Content & Information",
   "industry": "Internet Content & Information",
   "upstream": [
-    "NVDA",
-    "INTC",
-    "AMD",
-    "CSCO",
-    "DELL"
+    "AI hardware manufacturers",
+    "Cloud infrastructure providers",
+    "Data center operators",
+    "Chip suppliers",
+    "Software platform vendors"
   ],
   "downstream": [
-    "Bank of America",
-    "JPMorgan Chase",
-    "Vodafone",
-    "Alibaba",
-    "Tencent"
+    "Large enterprises",
+    "CAT",
+    "Government agencies",
+    "Content distribution networks",
+    "Digital media companies"
   ],
   "competitors": [
-    "NVDA",
-    "INTC",
-    "AMD",
     "GOOGL",
-    "AMZN"
+    "META",
+    "AMZN",
+    "MSFT",
+    "Tencent Holdings Ltd."
   ],
   "key_products": [
-    "Nebius AI Infrastructure Platform",
-    "Avride",
-    "TripleTen",
-    "Toloka",
-    "Clickhouse"
+    "AI-powered analytics platform",
+    "Cloud-based content delivery services",
+    "Data processing and storage solutions",
+    "Machine learning model hosting",
+    "Digital advertising technology"
   ],
-  "extracted_at": "2026-05-25 17:35:51",
+  "extracted_at": "2026-05-26 18:24:03",
   "sources": [
     {
       "source": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/NBIS",
-      "title": "Nebius Group",
-      "snippet": "Nebius Group N.V., headquartered in Amsterdam, is a technology company that provides artificial intelligence infrastructure. The company also owns Avride and TripleTen, as well as stakes in Toloka and"
+      "url": "",
+      "title": "",
+      "snippet": ""
     },
     {
       "source": "DuckDuckGo",
@@ -61,7 +61,7 @@
       "source": "DuckDuckGo",
       "url": "https://www.nasdaq.com/market-activity/stocks/nbis",
       "query": "NBIS major customers clients",
-      "snippet": "Nasdaq Listed ETFs where NBIS is a top 10 holding*. Symbol.Data Disclaimer: The Nasdaq Indices and the Major Indices are delayed at least 1 minute. Re"
+      "snippet": "ETFs with NBIS as a Top 10 Holding*.Data Disclaimer: The Nasdaq Indices and the Major Indices are delayed at least 1 minute. Real-time Data is provide"
     }
   ]
 }

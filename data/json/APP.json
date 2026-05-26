@@ -2,36 +2,36 @@
   "ticker": "APP",
   "company_name": "AppLovin Corporation",
   "sector": "Communication Services",
-  "industry": "Advertising Agencies",
+  "industry": "Advertising Technology",
   "upstream": [
-    "AMZN",
     "GOOGL",
-    "MSFT",
-    "Data providers (e.g., Nielsen)",
-    "Ad exchange platforms (e.g., The Trade Desk)"
+    "Data providers (e.g., Nielsen, comScore)",
+    "Ad exchange platforms (e.g., The Trade Desk)",
+    "AAPL",
+    "Technology infrastructure suppliers (e.g., CDN providers)"
   ],
   "downstream": [
     "Mobile app developers",
     "Game developers",
-    "Advertisers",
-    "Publishers",
-    "Brands"
+    "Brand advertisers",
+    "Marketing agencies",
+    "E-commerce platforms"
   ],
   "competitors": [
     "The Trade Desk",
-    "AppNexus",
+    "GOOGL",
+    "Facebook Ads",
     "Unity Ads",
-    "Vungle",
-    "AdColony"
+    "AppNexus (Xandr)"
   ],
   "key_products": [
-    "Mobile advertising SDK",
-    "App monetization platform",
-    "Marketing technology solutions",
-    "Data analytics services",
-    "Audience targeting tools"
+    "Mobile advertising platform",
+    "User acquisition solutions",
+    "In-app video ads",
+    "Data analytics and attribution",
+    "App store optimization tools"
   ],
-  "extracted_at": "2026-05-18 18:01:23",
+  "extracted_at": "2026-05-26 18:21:09",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,9 +47,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/investors-heavily-search-applovin-corporation-130005515.html",
+      "url": "https://csimarket.com/stocks/APP-technical-analysis",
       "query": "AppLovin Corporation suppliers manufacturers",
-      "snippet": "AppLovin (APP) has received quite a bit of attention from Zacks.com users lately. Therefore, it is wise to be aware of the facts that can impact the s"
+      "snippet": "Applovin Corporation Cash Flow Statement. Suppliers ."
     },
     {
       "source": "DuckDuckGo",
@@ -59,9 +59,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/investors-heavily-search-applovin-corporation-130005515.html",
+      "url": "https://finance.yahoo.com/news/applovin-corporation-app-ai-ad-154214208.html?guccounter=1&guce_referrer=aHR0cHM6Ly95YS5ydS8&guce_referrer_sig=AQAAAGziw4_EnupkpZF70H1asAS1XowGT4Cq-SB_w3ciB3HBdpeT5hTNU0xiJvOglKuj1YYkFo9DsQzMgUUWanRBgoBtbbssp7zuAqDw5qZeiqUAnyOXnzyn2H1GpANEgJ-M1Hvfi38gJvgvtpG6dp8a29qwP28hpgSifoYV_vgc9Apv",
       "query": "AppLovin Corporation major customers clients",
-      "snippet": "AppLovin (APP) has received quite a bit of attention from Zacks.com users lately. Therefore, it is wise to be aware of the facts that can impact the s"
+      "snippet": "AppLovin Corporation (NASDAQ:APP) provides a leading marketing platform powered by AI technology. On February 10, Jefferies analyst James Heaney CFA m"
     }
   ]
 }

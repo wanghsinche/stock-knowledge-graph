@@ -4,11 +4,11 @@
   "sector": "Technology",
   "industry": "Computer Hardware",
   "upstream": [
-    "005930.KS",
-    "Toshiba",
-    "WDC",
     "MU",
-    "SK Hynix"
+    "005930.KS",
+    "SK Hynix",
+    "TDK Corporation",
+    "Toshiba Corporation"
   ],
   "downstream": [
     "DELL",
@@ -19,7 +19,7 @@
   ],
   "competitors": [
     "WDC",
-    "Toshiba",
+    "Toshiba Corporation",
     "005930.KS",
     "IBM",
     "MU"
@@ -27,11 +27,11 @@
   "key_products": [
     "Hard Disk Drives (HDDs)",
     "Solid State Drives (SSDs)",
-    "Enterprise Storage Solutions",
-    "Exos Series",
-    "Barracuda Series"
+    "Enterprise storage solutions",
+    "Cloud storage solutions",
+    "Data center storage systems"
   ],
-  "extracted_at": "2026-05-25 17:38:31",
+  "extracted_at": "2026-05-26 18:21:33",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,25 +43,25 @@
       "source": "DuckDuckGo",
       "url": "https://www.seagate.com/",
       "query": "Seagate Technology Holdings plc suppliers manufacturers",
-      "snippet": "Seagate Technology Holdings PLC ."
+      "snippet": "Seagate Technology American data storage company as a Technology ..."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://simplywall.st/stocks/at/tech/vie-stxh/seagate-technology-holdings-shares",
+      "url": "https://csimarket.com/stocks/FinancialStrength.php?code=STX",
       "query": "Seagate Technology Holdings plc suppliers manufacturers",
-      "snippet": "Seagate Technology Holdings plc Announces the Latest Seagate Exos®? CORVAULT™? 4U106 Mass Data Storage System. Nov 15. Seagate Technology Holdings plc"
+      "snippet": "Seagate Technology Holdings Plc 's Quick, Working Capital, Debt to Equity, Leverage and Interest Coverage Ratio, Comparisons to Industry Sector and S&"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Seagate_Technology",
+      "url": "https://simplywall.st/stocks/us/tech/nasdaq-stx/seagate-technology-holdings",
       "query": "Seagate Technology Holdings plc major customers clients",
-      "snippet": "Seagate Technology Holdings plc is an American data storage company. It was incorporated in 1978 as Shugart Technology and commenced business in 1979."
+      "snippet": "Seagate Technology Holdings plc Introduces New and Refreshed Consumer and Prosumer Storage Solutions."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://investors.seagate.com/",
+      "url": "https://csimarket.com/stocks/STX-Return-on-Assets-ROA.html",
       "query": "Seagate Technology Holdings plc major customers clients",
-      "snippet": "Seagate Direct Customer Portal.This site contains information about Seagate Technology Holdings plc (\" Seagate \") and forward-looking statements withi"
+      "snippet": "In its first quarter of 2026, Seagate Technology Holdings Plc yielded a return on asset (ROA) of 21.42% Meanwhile, within the Technology sector 20 oth"
     }
   ]
 }

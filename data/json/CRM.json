@@ -4,19 +4,23 @@
   "sector": "Technology",
   "industry": "Software - Application",
   "upstream": [
-    "ExactTarget Inc."
+    "AMZN",
+    "MSFT",
+    "GOOGL",
+    "ORCL",
+    "IBM"
   ],
   "downstream": [
-    "AMZN",
-    "GOOGL",
-    "MSFT",
-    "IBM",
-    "Walmart"
+    "Coca‑Cola",
+    "American Express",
+    "Toyota",
+    "General Electric",
+    "AT&T"
   ],
   "competitors": [
     "MSFT",
+    "SAP SuccessFactors",
     "ORCL",
-    "SAP Customer Experience",
     "HubSpot",
     "Zoho CRM"
   ],
@@ -27,7 +31,7 @@
     "Commerce Cloud",
     "Einstein AI"
   ],
-  "extracted_at": "2026-05-20 18:18:52",
+  "extracted_at": "2026-05-26 18:28:28",
   "sources": [
     {
       "source": "Wikipedia",
@@ -39,25 +43,25 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Salesforce",
       "query": "Salesforce, Inc. suppliers manufacturers",
-      "snippet": "Salesforce , Inc ., is an American cloud-based software company headquartered in San Francisco, California. It provides software for sales , customer "
+      "snippet": "Salesforce , Inc ., is an American cloud-based software company headquartered in San Francisco, California."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/CRM-Suppliers",
+      "query": "Salesforce, Inc. suppliers manufacturers",
+      "snippet": "CRM Costs vs Sales of Suppliers Growth.Sources: Salesforce Inc 's official press releases and regulatory filings; CSIMarket.com's supply -chain resear"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.salesforce.com/",
-      "query": "Salesforce, Inc. suppliers manufacturers",
-      "snippet": "ExactTarget Inc ."
+      "query": "Salesforce, Inc. major customers clients",
+      "snippet": "Salesforce Enterprise-grade CRM with deep reporting, sales operations..."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.appsruntheworld.com/customers-database/vendors/view/salesforce",
+      "url": "https://www.foreignpolicyjournal.com/2026/05/24/salesforce-inc-nyse-crm-stock-pricegains-2-2-as-agentforce-momentum-builds/",
       "query": "Salesforce, Inc. major customers clients",
-      "snippet": "List of companies using or evaluating Salesforce applications, with details on their revenues, employees, industries, and locations."
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/CRM-Customers",
-      "query": "Salesforce, Inc. major customers clients",
-      "snippet": "Salesforce Inc ' s Comment on Sales, Marketing and Customers We organize our sales and marketing programs by geographic regions, including the America"
+      "snippet": "The Dow gained 294 points on the day to close at a record 50,579.70, and Salesforce ’s contribution to the advance was second only to Merck among the "
     }
   ]
 }

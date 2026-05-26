@@ -7,31 +7,31 @@
     "AMZN",
     "MSFT",
     "GOOGL",
-    "DELL",
-    "CSCO"
+    "IBM",
+    "ORCL"
   ],
   "downstream": [
     "U.S. Department of Defense",
-    "INTC",
-    "Federal Bureau of Investigation",
-    "Department of Homeland Security",
+    "U.S. Department of Justice",
+    "UK Ministry of Defence",
+    "Walmart",
     "JPMorgan Chase"
   ],
   "competitors": [
     "Snowflake",
     "Databricks",
     "Splunk",
-    "IBM",
-    "MSFT"
+    "Qlik",
+    "Tableau"
   ],
   "key_products": [
     "Palantir Foundry",
     "Palantir Gotham",
     "Palantir Apollo",
-    "Palantir Platform",
-    "Palantir Data Integration Suite"
+    "Palantir Helix",
+    "Palantir Atlas"
   ],
-  "extracted_at": "2026-05-25 17:32:13",
+  "extracted_at": "2026-05-26 18:20:44",
   "sources": [
     {
       "source": "Wikipedia",
@@ -59,9 +59,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.tradingview.com/symbols/NASDAQ-PLTR/",
+      "url": "https://polymarket.com/event/palantir-of-customers-above-in-q1/palantir-total-customers-above-1060-in-q1",
       "query": "Palantir Technologies Inc. major customers clients",
-      "snippet": "View live Palantir Technologies Inc . chart to track its stock's price action. Find market predictions, PLTR financials and market news."
+      "snippet": "Palantir Technologies (PLTR) approaches its Q1 2026 earnings release on May 4, with total customer count serving as a pivotal metric tracking Artifici"
     }
   ]
 }

@@ -11,27 +11,28 @@
     "TSM"
   ],
   "downstream": [
-    "Enterprise customers",
-    "Government agencies",
+    "Fortune 500 companies",
+    "U.S. federal government",
     "CAT",
-    "DELL",
-    "Gamers (Xbox)"
+    "Healthcare organizations",
+    "Automotive manufacturers"
   ],
   "competitors": [
     "AAPL",
     "GOOGL",
     "AMZN",
     "ORCL",
-    "IBM"
+    "CRM"
   ],
   "key_products": [
-    "Windows OS",
-    "Microsoft Office",
-    "Azure Cloud",
-    "Xbox",
-    "Surface"
+    "Windows operating system",
+    "Microsoft Office suite",
+    "Azure cloud platform",
+    "Microsoft Teams",
+    "Surface devices",
+    "Xbox gaming console"
   ],
-  "extracted_at": "2026-05-25 17:29:18",
+  "extracted_at": "2026-05-26 18:18:19",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,7 +44,7 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Microsoft",
       "query": "Microsoft Corporation suppliers manufacturers",
-      "snippet": "Microsoft Corporation is an American multinational technology company headquartered in Redmond, Washington."
+      "snippet": "Microsoft entered the operating system (OS) business in 1980 with its own version of Unix, licensed from AT&T Corporation a year before, called Xenix,"
     },
     {
       "source": "DuckDuckGo",
@@ -53,15 +54,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Microsoft",
+      "url": "https://www.comparably.com/companies/microsoft/mission",
       "query": "Microsoft Corporation major customers clients",
-      "snippet": "Microsoft Corporation is an American multinational technology company headquartered in Redmond, Washington."
+      "snippet": "Microsoft Corporation Mission Statement."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.nytimes.com/2025/01/29/technology/microsoft-earnings-stock.html",
+      "url": "https://play.google.com/store/apps/details?id=com.microsoft.office.outlook&hl=en",
       "query": "Microsoft Corporation major customers clients",
-      "snippet": "About 5 percent of eligible Microsoft 365 Commercial customers have upgraded to include Copilot, Microsoft ’s A.I. companion, according to analysts at"
+      "snippet": "Microsoft Corporation . Contains adsIn-app purchases."
     }
   ]
 }

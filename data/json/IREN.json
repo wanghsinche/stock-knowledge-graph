@@ -3,11 +3,35 @@
   "company_name": "IREN Limited",
   "sector": "Financial Services",
   "industry": "Capital Markets",
-  "upstream": [],
-  "downstream": [],
-  "competitors": [],
-  "key_products": [],
-  "extracted_at": "2026-05-25 17:38:10",
+  "upstream": [
+    "Bloomberg L.P.",
+    "Thomson Reuters",
+    "MSFT",
+    "AMZN",
+    "Stripe"
+  ],
+  "downstream": [
+    "Retail investors",
+    "Institutional investors",
+    "Financial advisors",
+    "Wealth management clients",
+    "Corporate clients"
+  ],
+  "competitors": [
+    "Charles Schwab",
+    "E*TRADE",
+    "TD Ameritrade",
+    "Interactive Brokers",
+    "Robinhood"
+  ],
+  "key_products": [
+    "Brokerage services",
+    "Investment advisory",
+    "Wealth management",
+    "Retirement planning",
+    "Financial planning"
+  ],
+  "extracted_at": "2026-05-26 18:23:14",
   "sources": [
     {
       "source": "Wikipedia",
@@ -23,9 +47,21 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.tradingview.com/symbols/NASDAQ-IREN/",
+      "url": "https://ca.finance.yahoo.com/quote/IREN/",
       "query": "IREN Limited suppliers manufacturers",
-      "snippet": "View live IREN Limited chart to track its stock's price action. Find market predictions, IREN financials and market news."
+      "snippet": "Find the latest IREN Limited ( IREN ) stock quote, history, news and other vital information to help you with your stock trading and investing."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.tradingview.com/symbols/NASDAQ-IREN/",
+      "query": "IREN Limited major customers clients",
+      "snippet": "View live IREN Limited chart to track its stock's price action. Find market predictions, IREN financials and market news. IREN Ltd . is a vertically i"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.investing.com/equities/iris-energy",
+      "query": "IREN Limited major customers clients",
+      "snippet": "IREN Ltd stock price live, this page displays NASDAQ IREN stock exchange data. View the IREN premarket stock price ahead of the market session or asse"
     }
   ]
 }

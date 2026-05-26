@@ -3,8 +3,8 @@ ticker: AAPL
 company: Apple Inc.
 sector: Technology
 industry: Consumer Electronics
-extracted_at: 2026-05-25 17:28:48
-last_updated: 2026-05-25
+extracted_at: 2026-05-26 18:18:31
+last_updated: 2026-05-26
 ---
 
 # AAPL - Apple Inc.
@@ -12,16 +12,16 @@ last_updated: 2026-05-25
 ## 基本信息
 
 - **所属行业**: Technology / Consumer Electronics
-- **提取时间**: 2026-05-25 17:28:48
+- **提取时间**: 2026-05-26 18:18:31
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Foxconn (Hon Hai Precision Industry Co., Ltd.)]]
+- [[Foxconn (Hon Hai Precision)]]
+- [[Pegatron]]
+- [[Wistron]]
 - [[TSM]]
 - [[005930.KS]]
-- [[AVGO]]
-- [[SK Hynix]]
 
 ### 下游客户
 - [[iPhone users]]
@@ -34,24 +34,24 @@ last_updated: 2026-05-25
 - [[005930.KS]]
 - [[GOOGL]]
 - [[MSFT]]
-- [[AMZN]]
-- [[SONY]]
+- [[Huawei]]
+- [[Xiaomi]]
 
 ### 核心产品
 - [[iPhone]]
 - [[iPad]]
 - [[Mac]]
 - [[Apple Watch]]
-- [[AirPods]]
+- [[Apple Silicon (M1/M2)]]
 
 ## 数据来源
 
 - [Apple Inc.](https://en.wikipedia.org/wiki/Apple_Inc.)
 - [Apple Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/List_of_Apple_Inc._suppliers)
 - [Apple Inc. suppliers manufacturers](https://www.alibaba.com/)
-- [Apple Inc. major customers clients](https://www.facebook.com/rossenreports/videos/apple-pay-scams-are-exploding-heres-what-you-need-to-know/3238441496327710/)
-- [Apple Inc. major customers clients](https://www.reddit.com/r/Fauxmoi/comments/1tj2ofe/apple_cofounder_steve_wozniak_took_the_stage_at/)
+- [Apple Inc. major customers clients](https://en.wikipedia.org/wiki/Apple_Inc.)
+- [Apple Inc. major customers clients](https://247wallst.com/special-report/2012/04/30/american-companies-with-the-most-customers/)
 
 ## 元数据
 
-- **更新日期**: 2026-05-25
+- **更新日期**: 2026-05-26

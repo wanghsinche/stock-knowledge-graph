@@ -3,8 +3,8 @@ ticker: SNOW
 company: Snowflake Inc.
 sector: Technology
 industry: Software - Application
-extracted_at: 2026-05-19 18:07:36
-last_updated: 2026-05-19
+extracted_at: 2026-05-26 18:28:03
+last_updated: 2026-05-26
 ---
 
 # SNOW - Snowflake Inc.
@@ -12,7 +12,7 @@ last_updated: 2026-05-19
 ## 基本信息
 
 - **所属行业**: Technology / Software - Application
-- **提取时间**: 2026-05-19 18:07:36
+- **提取时间**: 2026-05-26 18:28:03
 
 ## 产业链关系
 
@@ -33,13 +33,14 @@ last_updated: 2026-05-19
 - [[GOOGL]]
 - [[MSFT]]
 - [[Databricks]]
+- [[Teradata]]
 
 ### 核心产品
 - [[Snowflake Data Cloud]]
+- [[Snowflake Data Warehouse]]
 - [[Snowflake Data Marketplace]]
-- [[Snowflake Snowpark]]
 - [[Snowflake Data Sharing]]
-- [[Snowflake Data Engineering]]
+- [[Snowflake Snowpark]]
 
 ## 数据来源
 
@@ -47,8 +48,8 @@ last_updated: 2026-05-19
 - [Snowflake Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/Snowflake_Inc.)
 - [Snowflake Inc. suppliers manufacturers](https://www.snowflake.com/)
 - [Snowflake Inc. major customers clients](https://en.wikipedia.org/wiki/Snowflake_Inc.)
-- [Snowflake Inc. major customers clients](https://www.statista.com/statistics/1325458/snowflake-quarterly-number-of-customers/)
+- [Snowflake Inc. major customers clients](https://www.statista.com/statistics/1328548/snowflake-inc-quarterly-number-of-forbes-global-2000-customers/)
 
 ## 元数据
 
-- **更新日期**: 2026-05-19
+- **更新日期**: 2026-05-26

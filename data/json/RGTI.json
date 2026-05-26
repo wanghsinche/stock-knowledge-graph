@@ -2,36 +2,36 @@
   "ticker": "RGTI",
   "company_name": "Rigetti Computing, Inc.",
   "sector": "Technology",
-  "industry": "Computer Hardware",
+  "industry": "Quantum Computing Hardware",
   "upstream": [
-    "Superconducting qubit manufacturers",
-    "Cryogenic system suppliers",
-    "Silicon wafer suppliers",
-    "Electronic component suppliers",
-    "CAT"
+    "Oxford Instruments",
+    "Cryomech",
+    "QSC (Quantum Systems)",
+    "Superconducting Materials Inc.",
+    "Quantum Control Systems"
   ],
   "downstream": [
-    "Research universities",
-    "Government research labs",
-    "Cloud service providers",
-    "Enterprise technology firms",
-    "Quantum software developers"
+    "University of California, Berkeley",
+    "University of Toronto",
+    "Massachusetts Institute of Technology (MIT)",
+    "National Aeronautics and Space Administration (NASA)",
+    "National Institute of Standards and Technology (NIST)"
   ],
   "competitors": [
-    "IBM",
-    "GOOGL",
-    "Honeywell Quantum Solutions",
     "D-Wave Systems",
-    "IonQ"
+    "IonQ",
+    "Quantinuum (Honeywell Quantum Solutions)",
+    "Xanadu",
+    "Quantum Circuits Inc."
   ],
   "key_products": [
-    "Quantum Processing Units (QPU)",
+    "Aspen-10 quantum processor",
+    "Aspen-20 quantum processor",
     "Forest quantum cloud platform",
-    "Quantum software stack",
-    "Cryogenic hardware",
-    "Quantum algorithm libraries"
+    "Quantum SDK",
+    "Quantum hardware development kit"
   ],
-  "extracted_at": "2026-05-25 17:30:27",
+  "extracted_at": "2026-05-26 18:22:16",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,9 +47,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/RGTI/",
+      "url": "https://csimarket.com/stocks/suppliers_glance.php?code=RGTI",
       "query": "Rigetti Computing, Inc. suppliers manufacturers",
-      "snippet": "Rigetti Computing , Inc . Overview Computer Hardware / Technology. Rigetti Computing , Inc ., through its subsidiaries, builds and operates quantum co"
+      "snippet": "Rigetti Computing Inc supply chain, list and performance of Rigetti Computing Incs ' suppliers - CSIMarket. Rigetti Computing Inc 's Suppliers Perform"
     },
     {
       "source": "DuckDuckGo",

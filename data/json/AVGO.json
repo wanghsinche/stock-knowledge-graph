@@ -3,17 +3,41 @@
   "company_name": "Broadcom Inc.",
   "sector": "Technology",
   "industry": "Semiconductors",
-  "upstream": [],
-  "downstream": [],
-  "competitors": [],
-  "key_products": [],
-  "extracted_at": "2026-05-25 17:30:15",
+  "upstream": [
+    "AMAT",
+    "ASML",
+    "LRCX",
+    "Tokyo Electron",
+    "KLA"
+  ],
+  "downstream": [
+    "AAPL",
+    "QCOM",
+    "CSCO",
+    "005930.KS",
+    "MSFT"
+  ],
+  "competitors": [
+    "QCOM",
+    "INTC",
+    "NVDA",
+    "TXN",
+    "MU"
+  ],
+  "key_products": [
+    "Wi‑Fi chips",
+    "Bluetooth chips",
+    "Ethernet controllers",
+    "Broadband modems",
+    "Enterprise storage controllers"
+  ],
+  "extracted_at": "2026-05-26 18:19:05",
   "sources": [
     {
       "source": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Broadcom_Inc.",
-      "title": "Broadcom",
-      "snippet": "Broadcom Inc. is an American multinational designer, developer, manufacturer, and global supplier of a wide range of semiconductor and infrastructure software products. Broadcom's product offerings se"
+      "url": "",
+      "title": "",
+      "snippet": ""
     },
     {
       "source": "DuckDuckGo",
@@ -25,7 +49,19 @@
       "source": "DuckDuckGo",
       "url": "https://csimarket.com/stocks/AVGO-Suppliers",
       "query": "Broadcom Inc. suppliers manufacturers",
-      "snippet": "Broadcom Inc supply chain, list and performance of Broadcom Incs ' suppliers - CSIMarket."
+      "snippet": "Broadcom Inc supply chain, list and performance of Broadcom Incs ' suppliers - CSIMarket.We could experience significant delays in product shipments i"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/Broadcom",
+      "query": "Broadcom Inc. major customers clients",
+      "snippet": "Broadcom Inc . is an American multinational designer, developer, manufacturer, and global supplier of a wide range of semiconductor and infrastructure"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.broadcom.com/support",
+      "query": "Broadcom Inc. major customers clients",
+      "snippet": "Access Broadcom 's Customer Support Portal to obtain warranty information, find documentation and downloads, and answer other questions you might have"
     }
   ]
 }

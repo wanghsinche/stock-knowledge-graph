@@ -3,8 +3,8 @@ ticker: TXN
 company: Texas Instruments Incorporated
 sector: Technology
 industry: Semiconductors
-extracted_at: 2026-05-25 17:36:06
-last_updated: 2026-05-25
+extracted_at: 2026-05-26 18:27:46
+last_updated: 2026-05-26
 ---
 
 # TXN - Texas Instruments Incorporated
@@ -12,37 +12,37 @@ last_updated: 2026-05-25
 ## 基本信息
 
 - **所属行业**: Technology / Semiconductors
-- **提取时间**: 2026-05-25 17:36:06
+- **提取时间**: 2026-05-26 18:27:46
 
 ## 产业链关系
 
 ### 上游供应商
-- [[TSM]]
-- [[005930.KS]]
-- [[GlobalFoundries]]
-- [[INTC]]
-- [[MU]]
+- [[Silicon wafer suppliers]]
+- [[Epitaxial material providers]]
+- [[Packaging and assembly vendors]]
+- [[Chemical and process equipment manufacturers]]
+- [[Test and measurement equipment suppliers]]
 
 ### 下游客户
-- [[Ford Motor Company]]
-- [[General Motors]]
-- [[AAPL]]
-- [[005930.KS]]
-- [[Siemens AG]]
+- [[Automotive electronics OEMs]]
+- [[Industrial automation and control systems]]
+- [[Consumer electronics manufacturers]]
+- [[CAT]]
+- [[Aerospace and defense contractors]]
 
 ### 竞争对手
 - [[ADI]]
-- [[NXP Semiconductors]]
 - [[Infineon Technologies]]
 - [[STMicroelectronics]]
-- [[Maxim Integrated]]
+- [[NXP Semiconductors]]
+- [[ADI]]
 
 ### 核心产品
 - [[Analog integrated circuits]]
-- [[Embedded processors]]
-- [[Digital Light Processing (DLP) technology]]
-- [[Calculators]]
-- [[Microcontrollers]]
+- [[Embedded processors (e.g., Sitara, OMAP)]]
+- [[Digital Light Processing (DLP) chips]]
+- [[Calculators and educational electronics]]
+- [[Microcontrollers and multi-core processors]]
 
 ## 数据来源
 
@@ -50,8 +50,8 @@ last_updated: 2026-05-25
 - [Texas Instruments Incorporated suppliers manufacturers](https://en.wikipedia.org/wiki/Texas_Instruments)
 - [Texas Instruments Incorporated suppliers manufacturers](https://finance.yahoo.com/quote/TXN/)
 - [Texas Instruments Incorporated major customers clients](https://en.wikipedia.org/wiki/Texas_Instruments)
-- [Texas Instruments Incorporated major customers clients](https://www.ti.com/about-ti/company/ti-at-a-glance.html)
+- [Texas Instruments Incorporated major customers clients](https://finance.yahoo.com/quote/TXN/)
 
 ## 元数据
 
-- **更新日期**: 2026-05-25
+- **更新日期**: 2026-05-26

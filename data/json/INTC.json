@@ -6,15 +6,15 @@
   "upstream": [
     "TSM",
     "005930.KS",
-    "GlobalFoundries",
     "MU",
-    "TXN"
+    "ASML",
+    "AMAT"
   ],
   "downstream": [
-    "AAPL",
     "DELL",
     "HPQ",
     "Lenovo",
+    "AAPL",
     "MSFT"
   ],
   "competitors": [
@@ -22,16 +22,16 @@
     "NVDA",
     "QCOM",
     "AVGO",
-    "MU"
+    "005930.KS"
   ],
   "key_products": [
-    "Intel Core CPUs",
-    "Intel Xeon CPUs",
-    "Intel Arc GPUs",
-    "Intel Optane memory",
-    "Intel Ethernet controllers"
+    "Core CPUs",
+    "Xeon CPUs",
+    "Arc GPUs",
+    "Chipsets",
+    "FPGAs"
   ],
-  "extracted_at": "2026-05-25 17:29:04",
+  "extracted_at": "2026-05-26 18:18:06",
   "sources": [
     {
       "source": "Wikipedia",
@@ -53,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Intel",
+      "url": "https://www.tradingview.com/symbols/NASDAQ-INTC/",
       "query": "Intel Corporation major customers clients",
-      "snippet": "Intel Corporation is an American multinational technology company headquartered in Santa Clara, California. It designs, manufactures, and sells comput"
+      "snippet": "View live Intel Corporation chart to track its stock's price action. Find market predictions, INTC financials and market news."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/INTC/",
+      "url": "https://www.trendforce.com/news/2026/04/20/news-intel-foundry-said-to-boost-equipment-orders-by-50-yoy-14a-may-draw-major-customers-by-year-end/",
       "query": "Intel Corporation major customers clients",
-      "snippet": "Find the latest Intel Corporation (INTC) stock quote, history, news and other vital information to help you with your stock trading and investing."
+      "snippet": "At present, Intel is seeking to attract customers not only with its 14A node but also with other key offerings. EMIB, its advanced packaging technolog"
     }
   ]
 }

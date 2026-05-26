@@ -1,37 +1,37 @@
 {
   "ticker": "CRWV",
   "company_name": "CoreWeave, Inc.",
-  "sector": "Technology / Software - Infrastructure",
-  "industry": "AI Cloud Computing",
+  "sector": "Technology",
+  "industry": "Software - Infrastructure",
   "upstream": [
     "NVDA",
     "AMD",
     "INTC",
-    "QCOM",
-    "MU"
+    "DELL",
+    "HPQ"
   ],
   "downstream": [
-    "AI research labs",
-    "Tech enterprises",
-    "Gaming companies",
-    "Automotive companies",
-    "Financial services"
+    "OpenAI",
+    "GOOGL",
+    "MSFT",
+    "AMZN",
+    "NVDA"
   ],
   "competitors": [
     "NVDA",
-    "AMD",
     "GOOGL",
-    "AWS Inferentia",
-    "MSFT"
+    "MSFT",
+    "AMZN",
+    "IBM"
   ],
   "key_products": [
-    "GPU cloud infrastructure",
-    "GPU management software",
-    "AI compute services",
-    "GPU virtualization",
-    "AI workload optimization"
+    "GPU Cloud Infrastructure",
+    "GPU Management Software",
+    "AI Compute Services",
+    "GPU Clusters",
+    "AI Workload Optimization"
   ],
-  "extracted_at": "2026-05-25 17:37:12",
+  "extracted_at": "2026-05-26 18:23:51",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,7 +43,7 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/CoreWeave",
       "query": "CoreWeave, Inc. suppliers manufacturers",
-      "snippet": "CoreWeave , Inc . is an American artificial intelligence cloud-computing company based in Livingston, New Jersey."
+      "snippet": "CoreWeave , Inc . is an American artificial intelligence (AI) cloud-computing company based in Livingston, New Jersey."
     },
     {
       "source": "DuckDuckGo",
@@ -55,13 +55,13 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/CoreWeave",
       "query": "CoreWeave, Inc. major customers clients",
-      "snippet": "CoreWeave , Inc . is an American artificial intelligence cloud-computing company based in Livingston, New Jersey. It specializes in providing cloud-ba"
+      "snippet": "CoreWeave , Inc . is an American artificial intelligence (AI) cloud-computing company based in Livingston, New Jersey."
     },
     {
       "source": "DuckDuckGo",
       "url": "https://finance.yahoo.com/sectors/technology/articles/coreweave-vs-nebius-artificial-intelligence-134501390.html",
       "query": "CoreWeave, Inc. major customers clients",
-      "snippet": "Specific major customers are not disclosed in public filings, but the firm targets a wide range of global AI builders.Risk profile comparison. CoreWea"
+      "snippet": "As artificial intelligence workloads demand massive computing power, choosing between CoreWeave Inc . (NASDAQ:CRWV) and Nebius Group (NASDAQ:NBIS) hig"
     }
   ]
 }

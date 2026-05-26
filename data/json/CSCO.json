@@ -5,33 +5,35 @@
   "industry": "Communication Equipment",
   "upstream": [
     "INTC",
-    "AVGO",
     "QCOM",
-    "TXN",
-    "NVDA"
+    "AVGO",
+    "NVDA",
+    "TXN"
   ],
   "downstream": [
-    "AT&T",
-    "Verizon",
-    "Comcast",
-    "AT&T",
-    "AT&T"
+    "Enterprise IT departments",
+    "CAT",
+    "Government agencies",
+    "CAT",
+    "Cloud service providers"
   ],
   "competitors": [
+    "JNPR",
     "ANET",
     "Huawei",
-    "JNPR",
-    "HPQ",
-    "Aruba Networks"
+    "Nokia",
+    "Ericsson"
   ],
   "key_products": [
     "Cisco routers",
     "Cisco switches",
-    "Cisco security solutions",
-    "Webex collaboration tools",
-    "Cisco DNA Center"
+    "Webex video conferencing",
+    "OpenDNS security",
+    "Cisco ASA firewall",
+    "Cisco IOS software",
+    "Cisco Jasper IoT platform"
   ],
-  "extracted_at": "2026-05-25 17:34:24",
+  "extracted_at": "2026-05-26 18:23:24",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,7 +45,7 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Cisco",
       "query": "Cisco Systems, Inc. suppliers manufacturers",
-      "snippet": "Cisco Systems , Inc ., doing business as Cisco , is an American multinational technology conglomerate corporation that develops, manufactures , and se"
+      "snippet": "In March 2007, Cisco acquired Reactivity Inc , a privately held XML gateway provider based in Redwood City, California."
     },
     {
       "source": "DuckDuckGo",
@@ -53,15 +55,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.gartner.com/reviews/market/data-center-and-cloud-networking/vendor/cisco-systems/alternatives",
-      "query": "Cisco Systems, Inc. competitors alternatives",
-      "snippet": "Top Cisco Systems Alternatives · Arista Networks · Huawei · Hewlett Packard Enterprise (HPE) · Dell Technologies · Broadcom (VMware) · Extreme Network"
+      "url": "https://en.wikipedia.org/wiki/Cisco",
+      "query": "Cisco Systems, Inc. major customers clients",
+      "snippet": "Cisco Systems , Inc ., doing business as Cisco , is an American multinational technology conglomerate corporation that develops, manufactures, and sel"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.reddit.com/r/networking/comments/iz2q3d/escaping_from_cisco_alternatives/",
-      "query": "Cisco Systems, Inc. competitors alternatives",
-      "snippet": "Sep 24, 2020 · Aruba, Arista, Juniper, etc. There are plenty. And for firewalls, I prefer Palo Alto, which can replace your core routing if you build "
+      "url": "https://ru.wikipedia.org/wiki/Cisco",
+      "query": "Cisco Systems, Inc. major customers clients",
+      "snippet": "Cisco Systems , «Сиско Системз» — американская транснациональная компания, разрабатывающая и продающая сетевое оборудование, предназначенное в основно"
     }
   ]
 }

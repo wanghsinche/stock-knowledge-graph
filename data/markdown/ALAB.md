@@ -3,8 +3,8 @@ ticker: ALAB
 company: Astera Labs, Inc.
 sector: Technology
 industry: Semiconductors
-extracted_at: 2026-05-25 17:39:36
-last_updated: 2026-05-25
+extracted_at: 2026-05-26 18:23:39
+last_updated: 2026-05-26
 ---
 
 # ALAB - Astera Labs, Inc.
@@ -12,46 +12,46 @@ last_updated: 2026-05-25
 ## 基本信息
 
 - **所属行业**: Technology / Semiconductors
-- **提取时间**: 2026-05-25 17:39:36
+- **提取时间**: 2026-05-26 18:23:39
 
 ## 产业链关系
 
 ### 上游供应商
-- [[TSM]]
-- [[005930.KS]]
-- [[GlobalFoundries]]
-- [[ASE Group]]
-- [[Amkor Technology]]
+- [[Silicon wafer suppliers]]
+- [[Packaging and assembly providers]]
+- [[Test and measurement equipment manufacturers]]
+- [[IP core vendors]]
+- [[EDA tool providers]]
 
 ### 下游客户
 - [[CSCO]]
+- [[JNPR]]
+- [[ANET]]
 - [[DELL]]
-- [[HPQ]]
-- [[Lenovo Group]]
 - [[Huawei Technologies]]
 
 ### 竞争对手
 - [[AVGO]]
 - [[MRVL]]
-- [[QRVO]]
-- [[Silicon Labs]]
+- [[TXN]]
 - [[ADI]]
+- [[QRVO]]
 
 ### 核心产品
-- [[2.5G/5G Ethernet PHY]]
-- [[PCIe 4.0/5.0 PHY]]
-- [[10G/25G/40G Ethernet PHY]]
-- [[100G/200G/400G Ethernet PHY]]
-- [[Optical interconnect solutions]]
+- [[10G/25G/40G/100G Ethernet SerDes IP]]
+- [[PCIe Gen4/Gen5 SerDes IP]]
+- [[NVMe over Fabrics SerDes IP]]
+- [[Optical transceiver IP]]
+- [[High‑speed interconnect solutions]]
 
 ## 数据来源
 
 - 
 - [Astera Labs, Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/Astera_Labs)
 - [Astera Labs, Inc. suppliers manufacturers](https://www.asteralabs.com/)
-- [Astera Labs, Inc. competitors alternatives](https://en.wikipedia.org/wiki/Astera_Labs)
-- [Astera Labs, Inc. competitors alternatives](https://tracxn.com/d/companies/asteralabs/__k20v-JOuHin6h1sLjZh_GLe8P-UdaW20PSStKJgy6Xg)
+- [Astera Labs, Inc. major customers clients](https://en.wikipedia.org/wiki/Astera_Labs)
+- [Astera Labs, Inc. major customers clients](https://www.asteralabs.com/)
 
 ## 元数据
 
-- **更新日期**: 2026-05-25
+- **更新日期**: 2026-05-26

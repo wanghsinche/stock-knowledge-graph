@@ -4,26 +4,34 @@
   "sector": "Technology",
   "industry": "Semiconductors",
   "upstream": [
-    "TSM"
+    "TSM",
+    "005930.KS",
+    "GlobalFoundries",
+    "MU",
+    "INTC"
   ],
   "downstream": [
+    "GOOGL",
+    "MSFT",
+    "AMZN",
+    "IBM",
     "Mayo Clinic"
   ],
   "competitors": [
     "NVDA",
-    "AMD",
     "INTC",
+    "AMD",
     "Graphcore",
-    "QCOM"
+    "SambaNova"
   ],
   "key_products": [
-    "Wafer Scale Engine (WSE)-3 semiconductor",
+    "WSE-3 wafer scale engine",
     "CS-3 supercomputer",
     "AI inference cloud API",
     "AI training cloud API",
-    "Data center solutions"
+    "Cerebras CS-3"
   ],
-  "extracted_at": "2026-05-25 17:33:22",
+  "extracted_at": "2026-05-26 18:24:15",
   "sources": [
     {
       "source": "Wikipedia",
@@ -33,15 +41,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Cerebras_Systems",
+      "url": "https://en.wikipedia.org/wiki/Cerebras",
       "query": "Cerebras Systems Inc. suppliers manufacturers",
-      "snippet": "Its semiconductors are manufactured by TSMC, currently the only company that has the ability to manufacture Cerebras chips. The company's primary comp"
+      "snippet": "Cerebras Systems Inc . is an American artificial intelligence company with offices in Sunnyvale, San Diego, Toronto, and Bangalore, India. Cerebras bu"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.cerebras.ai/",
       "query": "Cerebras Systems Inc. suppliers manufacturers",
-      "snippet": "The AI Chip Company that is up to 15x Faster than GPUs ... The Cerebras Wafer-Scale Engine is purpose-built for ultra-fast AI. It is 58x larger than G"
+      "snippet": "Co-founder & CEO Cerebras Systems . Sam Altman.What we've built with Cerebras solves that: by splitting the inference workload across Trainium and the"
     },
     {
       "source": "DuckDuckGo",

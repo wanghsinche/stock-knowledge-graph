@@ -4,51 +4,57 @@
   "sector": "Technology",
   "industry": "Software - Application",
   "upstream": [
-    "Hardware component suppliers",
-    "Cloud infrastructure providers (e.g., AWS, Azure)",
-    "Payment processing partners (e.g., Stripe, PayPal)",
-    "Data analytics and AI service vendors",
-    "Software library and API providers"
+    "MSFT",
+    "AMZN",
+    "GOOGL",
+    "ORCL",
+    "SAP"
   ],
   "downstream": [
     "Small and medium-sized businesses",
-    "Certified public accountants and tax professionals",
-    "Individual taxpayers",
-    "Financial advisors",
-    "E-commerce merchants"
+    "Accountants and CPA firms",
+    "Tax professionals",
+    "Individuals filing taxes",
+    "Financial advisors"
   ],
   "competitors": [
+    "H&R Block",
+    "SAP",
+    "ORCL",
     "Xero",
-    "Sage",
-    "FreshBooks",
-    "Wave",
-    "H&R Block"
+    "FreshBooks"
   ],
   "key_products": [
     "TurboTax",
     "QuickBooks",
+    "Mint",
     "Credit Karma",
-    "Mailchimp",
-    "QuickBooks Self‑Employed"
+    "TaxAct"
   ],
-  "extracted_at": "2026-05-25 17:31:48",
+  "extracted_at": "2026-05-26 18:22:02",
   "sources": [
     {
       "source": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Intuit_Inc.",
-      "title": "Intuit",
-      "snippet": "Intuit Inc. is an American multinational business software company that specializes in financial software. Headquartered in Mountain View, California, the company is led by CEO Sasan Goodarzi. Intuit'"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/INTU-Suppliers",
-      "query": "Intuit Inc. suppliers manufacturers",
-      "snippet": "Intuit Inc supply chain, list and performance of Intuit Incs ' suppliers - CSIMarket."
+      "url": "",
+      "title": "",
+      "snippet": ""
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.linkedin.com/company/intuit",
       "query": "Intuit Inc. suppliers manufacturers",
+      "snippet": "Intuit is a global technology platform that helps our customers and communities overcome their most important financial challenges."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://markets.ft.com/data/equities/tearsheet/profile?s=INTU:NSQ",
+      "query": "Intuit Inc. suppliers manufacturers",
+      "snippet": "Intuit Inc (INTU:NSQ) company profile with history, revenue, mergers & acquisitions, peer analysis, institutional shareholders and more."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.linkedin.com/company/intuit",
+      "query": "Intuit Inc. major customers clients",
       "snippet": "Intuit is a global technology platform that helps our customers and communities overcome their most important financial challenges. Serving millions o"
     },
     {
@@ -56,12 +62,6 @@
       "url": "https://www.insidermonkey.com/blog/do-you-believe-in-the-growth-prospectus-of-intuit-intu-1764195/",
       "query": "Intuit Inc. major customers clients",
       "snippet": "Intuit Inc . (NASDAQ:INTU) is a financial software company offering products and services for financial management, payments, capital, compliance, and"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.barchart.com/story/news/2068303/intuit-is-slashing-more-than-3-000-jobs-why-wall-street-is-punishing-intu-stock-for-the-ai-pivot",
-      "query": "Intuit Inc. major customers clients",
-      "snippet": "Intuit Inc logo-by Mojahid Mottakin via Shutterstock.Notably, what is particularly telling about Intuit 's position is that free alternatives exist in"
     }
   ]
 }

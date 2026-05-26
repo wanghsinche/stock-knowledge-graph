@@ -19,16 +19,17 @@
     "AMZN",
     "GOOGL",
     "MSFT",
-    "Databricks"
+    "Databricks",
+    "Teradata"
   ],
   "key_products": [
     "Snowflake Data Cloud",
+    "Snowflake Data Warehouse",
     "Snowflake Data Marketplace",
-    "Snowflake Snowpark",
     "Snowflake Data Sharing",
-    "Snowflake Data Engineering"
+    "Snowflake Snowpark"
   ],
-  "extracted_at": "2026-05-19 18:07:36",
+  "extracted_at": "2026-05-26 18:28:03",
   "sources": [
     {
       "source": "Wikipedia",
@@ -56,9 +57,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.statista.com/statistics/1325458/snowflake-quarterly-number-of-customers/",
+      "url": "https://www.statista.com/statistics/1328548/snowflake-inc-quarterly-number-of-forbes-global-2000-customers/",
       "query": "Snowflake Inc. major customers clients",
-      "snippet": "Quarterly customer count of Snowflake Inc . from FY 2021 to FY 2025. Characteristic. Number of customers ."
+      "snippet": "The data cloud firm Snowflake reported that *** of its customers were listed on the Forbes Global 2000 as of the company's second fiscal quarter of 20"
     }
   ]
 }
