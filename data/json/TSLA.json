@@ -6,32 +6,37 @@
   "upstream": [
     "Panasonic",
     "LG Chem",
-    "005930.KS",
     "CAT",
-    "SK Innovation"
+    "005930.KS",
+    "TSLA"
   ],
   "downstream": [
     "Individual consumers",
-    "Fleet operators (e.g., Uber, Lyft)",
+    "Commercial fleet operators (e.g., Uber, Lyft)",
+    "Utility companies",
     "Government agencies",
-    "Commercial fleet operators",
-    "Corporate buyers"
+    "Corporate commercial customers"
   ],
   "competitors": [
     "General Motors",
     "Ford",
     "Volkswagen",
-    "Nissan",
-    "Hyundai"
+    "Rivian",
+    "Lucid Motors"
   ],
   "key_products": [
     "Model S",
     "Model 3",
     "Model X",
     "Model Y",
-    "Powerwall"
+    "Cybertruck",
+    "Semi",
+    "Powerwall",
+    "Powerpack",
+    "Solar Roof",
+    "Solar panels"
   ],
-  "extracted_at": "2026-05-26 18:17:40",
+  "extracted_at": "2026-05-27 18:20:05",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,13 +48,13 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Tesla,_Inc.",
       "query": "Tesla, Inc. suppliers manufacturers",
-      "snippet": "Tesla , Inc . is an American multinational automotive and clean energy company.The company was incorporated in July 2003 by Martin Eberhard and Marc T"
+      "snippet": "14 hours ago - The practice of vertical integration is rare in the automotive industry, where companies typically outsource 80% of components to suppl"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.investopedia.com/ask/answers/052815/who-are-teslas-tsla-main-suppliers.asp",
+      "url": "https://en.wikipedia.org/wiki/List_of_Tesla_factories",
       "query": "Tesla, Inc. suppliers manufacturers",
-      "snippet": "Tesla Suppliers : Key and Rumored Parts Suppliers - Investop…"
+      "snippet": "1 week ago - Tesla, Inc. manufactures their products worldwide as well as a lithium ore refinery. The following is a list of current, future, and form"
     },
     {
       "source": "DuckDuckGo",
@@ -61,7 +66,7 @@
       "source": "DuckDuckGo",
       "url": "https://www.tesla.com/",
       "query": "Tesla, Inc. major customers clients",
-      "snippet": "Midsize SUV · Sport Sedan · Utility Truck · 3.99% APR Available · Luxury SUV · Luxury Sedan · Current Offers · Explore limited-time offers on Tesla ve"
+      "snippet": "Explore limited-time offers on Tesla vehicles."
     }
   ]
 }

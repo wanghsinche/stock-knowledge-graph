@@ -1,21 +1,21 @@
 {
   "ticker": "WMT",
   "company_name": "Walmart Inc.",
-  "sector": "Consumer Defensive",
-  "industry": "Discount Stores",
+  "sector": "Consumer Defensive / Discount Stores",
+  "industry": "Retail - Discount Stores",
   "upstream": [
     "Procter & Gamble",
     "Coca-Cola",
     "PepsiCo",
-    "Nestlé",
+    "Johnson & Johnson",
     "Kraft Heinz"
   ],
   "downstream": [
-    "U.S. consumers",
-    "International consumers",
-    "Online shoppers",
+    "Individual consumers",
     "Small businesses",
-    "Local communities"
+    "Online shoppers",
+    "Corporate clients",
+    "Government agencies"
   ],
   "competitors": [
     "Target",
@@ -26,12 +26,12 @@
   ],
   "key_products": [
     "Groceries",
+    "Apparel",
     "Electronics",
-    "Clothing",
-    "Pharmacy",
-    "Home goods"
+    "Household goods",
+    "Pharmacy products"
   ],
-  "extracted_at": "2026-05-26 18:22:46",
+  "extracted_at": "2026-05-27 18:32:31",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,13 +43,13 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Walmart",
       "query": "Walmart Inc. suppliers manufacturers",
-      "snippet": "Walmart Inc . is an American multinational retail corporation that operates a chain of hypermarkets, discount department stores, and grocery stores in"
+      "snippet": "Walmart Inc . is an American multinational retail corporation that operates a chain of hypermarkets (also called supercenters), discount department st"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/WMT-Suppliers",
+      "url": "https://ru.wikipedia.org/wiki/Walmart",
       "query": "Walmart Inc. suppliers manufacturers",
-      "snippet": "Walmart Inc supply chain, list and performance of Walmart Incs ' suppliers - CSIMarket. Walmart Inc 's Suppliers Performance. WMT's Supply Chain. Down"
+      "snippet": "Walmart , Inc . ([ˈwɔːlmɑːrt], «Уолмарт») — американская компания, управляющая крупнейшей в мире сетью оптовой и розничной торговли, действующей под т"
     },
     {
       "source": "DuckDuckGo",

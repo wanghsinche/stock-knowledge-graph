@@ -4,40 +4,40 @@
   "sector": "Technology",
   "industry": "Semiconductors",
   "upstream": [
-    "AMAT",
-    "ASML",
-    "LRCX",
-    "Tokyo Electron",
-    "KLA"
+    "TSM",
+    "INTC",
+    "005930.KS",
+    "MU",
+    "SK Hynix"
   ],
   "downstream": [
-    "AAPL",
-    "QCOM",
     "CSCO",
-    "005930.KS",
-    "MSFT"
+    "Huawei",
+    "DELL",
+    "HPQ",
+    "IBM"
   ],
   "competitors": [
-    "QCOM",
     "INTC",
+    "QCOM",
     "NVDA",
     "TXN",
-    "MU"
+    "MRVL"
   ],
   "key_products": [
     "Wi‑Fi chips",
-    "Bluetooth chips",
     "Ethernet controllers",
-    "Broadband modems",
-    "Enterprise storage controllers"
+    "Broadcom 802.11 wireless solutions",
+    "Broadcom 802.3 Ethernet solutions",
+    "Broadcom 802.15.4 IoT solutions"
   ],
-  "extracted_at": "2026-05-26 18:19:05",
+  "extracted_at": "2026-05-27 18:24:27",
   "sources": [
     {
       "source": "Wikipedia",
-      "url": "",
-      "title": "",
-      "snippet": ""
+      "url": "https://en.wikipedia.org/wiki/Broadcom_Inc.",
+      "title": "Broadcom",
+      "snippet": "Broadcom Inc. is an American multinational designer, developer, manufacturer, and global supplier of a wide range of semiconductor and infrastructure software products. Broadcom's product offerings se"
     },
     {
       "source": "DuckDuckGo",
@@ -54,14 +54,14 @@
     {
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Broadcom",
-      "query": "Broadcom Inc. major customers clients",
+      "query": "Broadcom Inc. competitors alternatives",
       "snippet": "Broadcom Inc . is an American multinational designer, developer, manufacturer, and global supplier of a wide range of semiconductor and infrastructure"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.broadcom.com/support",
-      "query": "Broadcom Inc. major customers clients",
-      "snippet": "Access Broadcom 's Customer Support Portal to obtain warranty information, find documentation and downloads, and answer other questions you might have"
+      "url": "https://www.globaldata.com/company-profile/broadcom-inc/competitors/",
+      "query": "Broadcom Inc. competitors alternatives",
+      "snippet": "Understand how Broadcom Inc fits into your total addressable market and Ideal Customer Profile. Gain competitive edge with triggers that tell you when"
     }
   ]
 }

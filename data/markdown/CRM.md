@@ -3,8 +3,8 @@ ticker: CRM
 company: Salesforce, Inc.
 sector: Technology
 industry: Software - Application
-extracted_at: 2026-05-26 18:28:28
-last_updated: 2026-05-26
+extracted_at: 2026-05-27 18:32:56
+last_updated: 2026-05-27
 ---
 
 # CRM - Salesforce, Inc.
@@ -12,7 +12,7 @@ last_updated: 2026-05-26
 ## 基本信息
 
 - **所属行业**: Technology / Software - Application
-- **提取时间**: 2026-05-26 18:28:28
+- **提取时间**: 2026-05-27 18:32:56
 
 ## 产业链关系
 
@@ -20,19 +20,19 @@ last_updated: 2026-05-26
 - [[AMZN]]
 - [[MSFT]]
 - [[GOOGL]]
-- [[ORCL]]
 - [[IBM]]
+- [[ORCL]]
 
 ### 下游客户
-- [[Coca‑Cola]]
-- [[American Express]]
-- [[Toyota]]
-- [[General Electric]]
-- [[AT&T]]
+- [[AMZN]]
+- [[GOOGL]]
+- [[MSFT]]
+- [[Walmart]]
+- [[JPMorgan Chase]]
 
 ### 竞争对手
 - [[MSFT]]
-- [[SAP SuccessFactors]]
+- [[SAP CRM]]
 - [[ORCL]]
 - [[HubSpot]]
 - [[Zoho CRM]]
@@ -41,17 +41,17 @@ last_updated: 2026-05-26
 - [[Sales Cloud]]
 - [[Service Cloud]]
 - [[Marketing Cloud]]
-- [[Commerce Cloud]]
 - [[Einstein AI]]
+- [[MuleSoft]]
 
 ## 数据来源
 
 - [Salesforce](https://en.wikipedia.org/wiki/Salesforce,_Inc.)
 - [Salesforce, Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/Salesforce)
 - [Salesforce, Inc. suppliers manufacturers](https://csimarket.com/stocks/CRM-Suppliers)
+- [Salesforce, Inc. major customers clients](https://en.wikipedia.org/wiki/Salesforce)
 - [Salesforce, Inc. major customers clients](https://www.salesforce.com/)
-- [Salesforce, Inc. major customers clients](https://www.foreignpolicyjournal.com/2026/05/24/salesforce-inc-nyse-crm-stock-pricegains-2-2-as-agentforce-momentum-builds/)
 
 ## 元数据
 
-- **更新日期**: 2026-05-26
+- **更新日期**: 2026-05-27

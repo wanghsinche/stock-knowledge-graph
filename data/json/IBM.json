@@ -4,34 +4,34 @@
   "sector": "Technology",
   "industry": "Information Technology Services",
   "upstream": [
-    "INTC",
     "AMD",
-    "NVDA",
-    "CSCO",
-    "DELL"
+    "DELL",
+    "MSFT",
+    "Software vendors (e.g., Red Hat, SAP)",
+    "Research and development partners (e.g., MIT, Stanford)"
   ],
   "downstream": [
-    "U.S. Federal Government",
-    "Banking & Financial Services",
-    "Healthcare Providers",
-    "Retail Chains",
+    "Large enterprises (e.g., Walmart, Coca‑Cola)",
+    "Government agencies (e.g., U.S. Department of Defense, NASA)",
+    "Financial institutions (e.g., JPMorgan Chase, Goldman Sachs)",
+    "Healthcare providers (e.g., Mayo Clinic, UnitedHealth)",
     "CAT"
   ],
   "competitors": [
     "MSFT",
-    "AMZN",
-    "GOOGL",
+    "Accenture",
     "ORCL",
+    "AMZN",
     "SAP"
   ],
   "key_products": [
     "IBM Cloud",
-    "IBM Watson",
+    "IBM Watson AI",
     "IBM Power Systems",
-    "IBM z Systems",
-    "IBM Security"
+    "IBM Security",
+    "IBM Quantum"
   ],
-  "extracted_at": "2026-05-26 18:26:01",
+  "extracted_at": "2026-05-27 18:35:50",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,7 +43,7 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/IBM",
       "query": "International Business Machines Corporation suppliers manufacturers",
-      "snippet": "For other uses, see Big Blue (disambiguation). International Business Machines Corporation .IBM was founded in 1911 as the Computing-Tabulating-Record"
+      "snippet": "International Business Machines Corporation . Logo since 1972, designed by Paul Rand.IBM was founded in 1911 as the Computing-Tabulating-Recording Com"
     },
     {
       "source": "DuckDuckGo",
@@ -55,13 +55,13 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/IBM",
       "query": "International Business Machines Corporation major customers clients",
-      "snippet": "International Business Machines Corporation . International Business Machines Corporation , doing business as IBM (nicknamed Big Blue),[6] is an Ameri"
+      "snippet": "International Business Machines Corporation , doing business as IBM (nicknamed Big Blue),[6] is an American multinational technology company headquart"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/news/international-business-machines-corporation-ibm-172212325.html",
+      "url": "https://www.wsj.com/market-data/quotes/IBM",
       "query": "International Business Machines Corporation major customers clients",
-      "snippet": "International Business Machines Corporation (NYSE:IBM) is an American multinational technology company. It provides cloud platforms, software services"
+      "snippet": "View the latest International Business Machines Corp . (IBM) stock price, news, historical charts, analyst ratings and financial information from WSJ."
     }
   ]
 }

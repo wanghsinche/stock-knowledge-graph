@@ -3,8 +3,8 @@ ticker: RKLB
 company: Rocket Lab Corporation
 sector: Industrials
 industry: Aerospace & Defense
-extracted_at: 2026-05-26 18:20:30
-last_updated: 2026-05-26
+extracted_at: 2026-05-27 18:25:54
+last_updated: 2026-05-27
 ---
 
 # RKLB - Rocket Lab Corporation
@@ -12,28 +12,46 @@ last_updated: 2026-05-26
 ## 基本信息
 
 - **所属行业**: Industrials / Aerospace & Defense
-- **提取时间**: 2026-05-26 18:20:30
+- **提取时间**: 2026-05-27 18:25:54
 
 ## 产业链关系
 
 ### 上游供应商
-_暂无数据_
+- [[Star trackers]]
+- [[Reaction wheels]]
+- [[Solar panels]]
+- [[Electric propulsion systems]]
+- [[Composite structures]]
 
 ### 下游客户
-_暂无数据_
+- [[Planet Labs]]
+- [[Spire Global]]
+- [[OneWeb]]
+- [[Spaceflight Inc.]]
+- [[NASA]]
 
 ### 竞争对手
-_暂无数据_
+- [[SpaceX]]
+- [[Firefly Aerospace]]
+- [[Arianespace]]
+- [[Blue Origin]]
+- [[Virgin Orbit]]
 
 ### 核心产品
-_暂无数据_
+- [[Electron orbital rocket]]
+- [[HASTE suborbital rocket]]
+- [[Neutron reusable medium‑lift rocket]]
+- [[Satellite components]]
+- [[Launch services]]
 
 ## 数据来源
 
 - [Rocket Lab](https://en.wikipedia.org/wiki/Rocket_Lab_Corporation)
 - [Rocket Lab Corporation suppliers manufacturers](https://rocketlabcorp.com/)
 - [Rocket Lab Corporation suppliers manufacturers](https://finance.yahoo.com/quote/RKLB/)
+- [Rocket Lab Corporation major customers clients](https://finance.yahoo.com/quote/RKLB/)
+- [Rocket Lab Corporation major customers clients](https://www.nasdaq.com/market-activity/stocks/rklb)
 
 ## 元数据
 
-- **更新日期**: 2026-05-26
+- **更新日期**: 2026-05-27

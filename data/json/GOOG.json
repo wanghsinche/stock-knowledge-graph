@@ -5,17 +5,17 @@
   "industry": "Internet Content & Information",
   "upstream": [
     "INTC",
-    "NVDA",
     "QCOM",
     "005930.KS",
-    "TSM"
+    "TSM",
+    "NVDA"
   ],
   "downstream": [
-    "GOOGL",
-    "YouTube viewers",
-    "Android device users",
-    "GOOGL",
-    "Advertisers"
+    "AMZN",
+    "MSFT",
+    "Walmart",
+    "AAPL",
+    "005930.KS"
   ],
   "competitors": [
     "META",
@@ -27,11 +27,11 @@
   "key_products": [
     "Google Search",
     "YouTube",
-    "Android OS",
-    "Google Cloud",
-    "Google Ads"
+    "Google Ads",
+    "Google Cloud Platform",
+    "Android OS"
   ],
-  "extracted_at": "2026-05-26 18:19:55",
+  "extracted_at": "2026-05-27 18:25:22",
   "sources": [
     {
       "source": "Wikipedia",
@@ -49,7 +49,7 @@
       "source": "DuckDuckGo",
       "url": "https://csimarket.com/stocks/GOOG-Suppliers",
       "query": "Alphabet Inc. suppliers manufacturers",
-      "snippet": "Alphabet Inc supply chain, list and performance of Alphabet Incs ' suppliers - CSIMarket."
+      "snippet": "Sources: Alphabet Inc 's official press releases and regulatory filings; CSIMarket.com's supply -chain research; and the financial filings and press r"
     },
     {
       "source": "DuckDuckGo",

@@ -3,8 +3,8 @@ ticker: ORCL
 company: Oracle Corporation
 sector: Technology
 industry: Software - Infrastructure
-extracted_at: 2026-05-26 18:29:30
-last_updated: 2026-05-26
+extracted_at: 2026-05-27 18:39:31
+last_updated: 2026-05-27
 ---
 
 # ORCL - Oracle Corporation
@@ -12,7 +12,7 @@ last_updated: 2026-05-26
 ## 基本信息
 
 - **所属行业**: Technology / Software - Infrastructure
-- **提取时间**: 2026-05-26 18:29:30
+- **提取时间**: 2026-05-27 18:39:31
 
 ## 产业链关系
 
@@ -25,24 +25,24 @@ last_updated: 2026-05-26
 
 ### 下游客户
 - [[Bank of America]]
-- [[UnitedHealth Group]]
 - [[Walmart]]
-- [[U.S. Department of Defense]]
-- [[General Electric]]
+- [[Coca‑Cola]]
+- [[AT&T]]
+- [[Boeing]]
 
 ### 竞争对手
 - [[MSFT]]
-- [[AMZN]]
-- [[GOOGL]]
 - [[IBM]]
 - [[SAP]]
+- [[AMZN]]
+- [[GOOGL]]
 
 ### 核心产品
 - [[Oracle Database]]
 - [[Oracle Cloud Infrastructure]]
 - [[Oracle ERP Cloud]]
-- [[Oracle Autonomous Database]]
-- [[Oracle Analytics Cloud]]
+- [[Oracle E‑Business Suite]]
+- [[Oracle Fusion Middleware]]
 
 ## 数据来源
 
@@ -54,4 +54,4 @@ last_updated: 2026-05-26
 
 ## 元数据
 
-- **更新日期**: 2026-05-26
+- **更新日期**: 2026-05-27

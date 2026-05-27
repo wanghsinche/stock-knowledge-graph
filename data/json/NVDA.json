@@ -7,31 +7,31 @@
     "TSM",
     "005930.KS",
     "GlobalFoundries",
-    "INTC",
-    "MU"
+    "MU",
+    "ASE"
   ],
   "downstream": [
-    "AMZN",
-    "GOOGL",
-    "MSFT",
     "SONY",
-    "MSFT"
+    "MSFT",
+    "AMZN",
+    "TSLA",
+    "DELL"
   ],
   "competitors": [
     "AMD",
     "INTC",
     "QCOM",
-    "AVGO",
-    "AAPL"
+    "AAPL",
+    "005930.KS"
   ],
   "key_products": [
-    "GeForce RTX 30/40 Series GPUs",
-    "NVIDIA Tesla V100/A100 GPUs",
-    "DGX A100 AI System",
-    "NVIDIA Drive PX automotive platform",
-    "Jetson AGX Xavier AI edge platform"
+    "GeForce GPUs",
+    "Quadro GPUs",
+    "Tesla GPUs",
+    "NVIDIA DRIVE SoC",
+    "CUDA API"
   ],
-  "extracted_at": "2026-05-26 18:17:15",
+  "extracted_at": "2026-05-27 18:19:44",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,21 +41,21 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Nvidia",
+      "url": "https://stocksandfuturestrading.com/the-complete-list-of-nvidias-suppliers-and-consumers/",
       "query": "NVIDIA Corporation suppliers manufacturers",
-      "snippet": "12 hours ago - In August 2025, Nvidia ordered ... due to security concerns. The company directed suppliers including Taiwan Semiconductor Manufacturin"
+      "snippet": "Trading Resources The Complete List Of Nvidia's Suppliers And Consumers By Stocks & Futures Trading This is the most recently updated list but please "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/suppliers_glance.php?code=NVDA",
+      "url": "https://geekbitz.com/where-are-nvidia-chips-made/",
       "query": "NVIDIA Corporation suppliers manufacturers",
-      "snippet": "5 days ago - Nvidia supply chain, list and performance of Nvidias' suppliers - CSIMarket"
+      "snippet": "Discover where Nvidia chips are made through an in-depth look at the manufacturing facilities, fabrication partners, and global production locations o"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://csimarket.com/stocks/markets_glance.php?code=NVDA",
       "query": "NVIDIA Corporation major customers clients",
-      "snippet": "4 days ago - Nvidia customers and markets, results by customer and performance relative to NVDA, by company and industry - CSIMarket"
+      "snippet": "5 days ago - Nvidia customers and markets, results by customer and performance relative to NVDA, by company and industry - CSIMarket"
     },
     {
       "source": "DuckDuckGo",

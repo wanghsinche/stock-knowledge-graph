@@ -7,15 +7,15 @@
     "TSM",
     "005930.KS",
     "GlobalFoundries",
-    "ASE Group",
-    "UMC"
+    "UMC",
+    "INTC"
   ],
   "downstream": [
     "DELL",
     "HPQ",
-    "Lenovo",
-    "AAPL",
-    "MSFT"
+    "Lenovo Group",
+    "MSFT",
+    "SONY"
   ],
   "competitors": [
     "INTC",
@@ -26,18 +26,18 @@
   ],
   "key_products": [
     "Ryzen CPUs",
-    "EPYC CPUs",
+    "EPYC Servers",
     "Radeon GPUs",
-    "Semi‑custom chips for gaming consoles",
-    "AMD GPUs for gaming and professional use"
+    "Radeon Instinct",
+    "AMD GPUs for gaming consoles"
   ],
-  "extracted_at": "2026-05-26 18:17:52",
+  "extracted_at": "2026-05-27 18:21:03",
   "sources": [
     {
       "source": "Wikipedia",
-      "url": "",
-      "title": "",
-      "snippet": ""
+      "url": "https://en.wikipedia.org/wiki/Advanced_Micro_Devices,_Inc.",
+      "title": "AMD",
+      "snippet": "Advanced Micro Devices, Inc. (AMD) is an American multinational semiconductor company headquartered in Santa Clara, California. It develops central processing units (CPUs), graphics processing units ("
     },
     {
       "source": "DuckDuckGo",
@@ -55,13 +55,13 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/AMD",
       "query": "Advanced Micro Devices, Inc. major customers clients",
-      "snippet": "Advanced Micro Devices , Inc . ( AMD ) is an American multinational semiconductor company headquartered in Santa Clara, California, with significant o"
+      "snippet": "Advanced Micro Devices , Inc . Advanced Micro Devices , Inc . ( AMD ) is an American multinational semiconductor company headquartered in Santa Clara,"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.britannica.com/money/Advanced-Micro-Devices-Inc",
+      "url": "https://finance.yahoo.com/quote/AMD/",
       "query": "Advanced Micro Devices, Inc. major customers clients",
-      "snippet": "Advanced Micro Devices , Inc . ( AMD ) is an American semiconductor designer and global supplier of computing and graphics technologies used in data c"
+      "snippet": "Find the latest Advanced Micro Devices , Inc . ( AMD ) stock quote, history, news and other vital information to help you with your stock trading and "
     }
   ]
 }

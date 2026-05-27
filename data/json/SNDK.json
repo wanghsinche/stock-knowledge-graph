@@ -4,34 +4,34 @@
   "sector": "Technology",
   "industry": "Computer Hardware",
   "upstream": [
-    "MU",
-    "005930.KS",
-    "SK Hynix",
-    "Toshiba",
-    "WDC"
+    "CAT",
+    "Silicon wafer suppliers",
+    "Lithography equipment manufacturers",
+    "Electronic component suppliers",
+    "Packaging and assembly providers"
   ],
   "downstream": [
     "DELL",
     "HPQ",
     "Lenovo Group",
     "AAPL",
-    "SONY"
+    "005930.KS"
   ],
   "competitors": [
-    "Kingston Technology",
     "MU",
-    "005930.KS",
     "WDC",
-    "STX"
+    "Kingston Technology",
+    "005930.KS",
+    "Kioxia"
   ],
   "key_products": [
-    "Solid State Drives (SSDs)",
-    "SD Memory Cards",
-    "USB Flash Drives",
-    "Enterprise Storage Solutions",
-    "Memory Modules"
+    "USB flash drives",
+    "SD cards",
+    "SSD drives",
+    "M.2 SSDs",
+    "Enterprise flash storage"
   ],
-  "extracted_at": "2026-05-26 18:17:27",
+  "extracted_at": "2026-05-27 18:20:37",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,21 +47,21 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.trustedparts.com/en/manufacturers/sandisk",
+      "url": "https://www.accio.com/supplier/sandisk-manufacturer",
       "query": "Sandisk Corporation suppliers manufacturers",
-      "snippet": "SanDisk distributor stock, prices & datasheets from authorized distributors. Search authorized SanDisk inventory."
+      "snippet": "1 week ago - They sourced these from a Taiwanese manufacturer known for its OEM support and quality control. The supplier provided fast turnaround tim"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/Sandisk",
+      "query": "Sandisk Corporation major customers clients",
+      "snippet": "Sandisk Corporation is an American multinational computer semiconductor company based in Milpitas, California, that designs and manufactures flash mem"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://ru.wikipedia.org/wiki/SanDisk",
       "query": "Sandisk Corporation major customers clients",
       "snippet": "SanDisk — американская корпорация, занимавшаяся разработкой и производством носителей информации на базе флеш-памяти. Корпорация была основана в 1988 "
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.sandisk.com/",
-      "query": "Sandisk Corporation major customers clients",
-      "snippet": "Sandisk online store members receive free standard shipping on all eligible orders.New Sandisk Customers Sign Up and Save 10% Off. Explore the latest "
     }
   ]
 }

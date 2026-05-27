@@ -5,33 +5,33 @@
   "industry": "Communication Equipment",
   "upstream": [
     "Satellite component manufacturers",
-    "Electronics suppliers",
     "Launch service providers",
+    "Ground station equipment suppliers",
     "Antenna manufacturers",
-    "Ground station equipment suppliers"
+    "Electronics suppliers"
   ],
   "downstream": [
-    "Mobile network operators (e.g., AT&T, Verizon, T-Mobile)",
+    "Mobile network operators",
+    "CAT",
     "Government agencies",
-    "Maritime service providers",
-    "Aviation service providers",
-    "Remote area broadband providers"
+    "Enterprise customers",
+    "Internet service providers"
   ],
   "competitors": [
     "SpaceX Starlink",
     "OneWeb",
     "AMZN",
-    "Telesat",
-    "Iridium"
+    "Telesat LEO",
+    "CAT"
   ],
   "key_products": [
-    "Space-based cellular broadband network",
-    "Satellite constellation",
-    "Satellite modem",
-    "Ground station infrastructure",
-    "Network management software"
+    "Satellite-based broadband network",
+    "Mobile satellite communication services",
+    "LEO satellite constellation",
+    "Satellite payloads",
+    "Ground station infrastructure"
   ],
-  "extracted_at": "2026-05-26 18:19:43",
+  "extracted_at": "2026-05-27 18:27:46",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,9 +47,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ast-science.com/",
+      "url": "https://finance.yahoo.com/quote/ASTS/",
       "query": "AST SpaceMobile, Inc. suppliers manufacturers",
-      "snippet": "AST SpaceMobile is building the first and only space -based cellular broadband network accessible directly by standard, unmodified mobile phones.Yet, "
+      "snippet": "Find the latest AST SpaceMobile , Inc . (ASTS) stock quote, history, news and other vital information to help you with your stock trading and investin"
     },
     {
       "source": "DuckDuckGo",
@@ -59,9 +59,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finviz.com/news/27727/ast-spacemobile-5-reasons-to-buy-this-tiny-trailblazer-stock",
+      "url": "https://finviz.com/news/35605/ast-spacemobile-5-reasons-to-buy-this-tiny-trailblazer-stock",
       "query": "AST SpaceMobile, Inc. major customers clients",
-      "snippet": "AST SpaceMobile ’s broadband cellular network is supposed to fill in coverage gaps throughout the globe in order to ensure continuous coverage for mob"
+      "snippet": "1. AST SpaceMobile Has 3 Billion Potential Customers . AST SpaceMobile ’s broadband cellular network is supposed to fill in coverage gaps throughout t"
     }
   ]
 }

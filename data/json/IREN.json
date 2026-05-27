@@ -1,37 +1,37 @@
 {
   "ticker": "IREN",
   "company_name": "IREN Limited",
-  "sector": "Financial Services",
-  "industry": "Capital Markets",
+  "sector": "Information Technology",
+  "industry": "IT Services",
   "upstream": [
-    "Bloomberg L.P.",
-    "Thomson Reuters",
+    "DELL",
     "MSFT",
-    "AMZN",
-    "Stripe"
+    "Cloud service providers (e.g., AWS, Azure)",
+    "CSCO",
+    "Security solutions providers (e.g., Palo Alto)"
   ],
   "downstream": [
-    "Retail investors",
-    "Institutional investors",
-    "Financial advisors",
-    "Wealth management clients",
-    "Corporate clients"
+    "UK Government",
+    "Ministry of Defence",
+    "HM Revenue & Customs",
+    "Department for Work and Pensions",
+    "Other UK public sector agencies"
   ],
   "competitors": [
-    "Charles Schwab",
-    "E*TRADE",
-    "TD Ameritrade",
-    "Interactive Brokers",
-    "Robinhood"
+    "Capita",
+    "Accenture",
+    "IBM",
+    "DXC Technology",
+    "SAS"
   ],
   "key_products": [
-    "Brokerage services",
-    "Investment advisory",
-    "Wealth management",
-    "Retirement planning",
-    "Financial planning"
+    "IT infrastructure management",
+    "Cloud computing services",
+    "Cybersecurity solutions",
+    "Application development and support",
+    "Data analytics and reporting"
   ],
-  "extracted_at": "2026-05-26 18:23:14",
+  "extracted_at": "2026-05-27 18:24:54",
   "sources": [
     {
       "source": "Wikipedia",
@@ -55,13 +55,13 @@
       "source": "DuckDuckGo",
       "url": "https://www.tradingview.com/symbols/NASDAQ-IREN/",
       "query": "IREN Limited major customers clients",
-      "snippet": "View live IREN Limited chart to track its stock's price action. Find market predictions, IREN financials and market news. IREN Ltd . is a vertically i"
+      "snippet": "View live IREN Limited chart to track its stock's price action. Find market predictions, IREN financials and market news."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.investing.com/equities/iris-energy",
+      "url": "https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lzeGU2YkVSRlF6M19TVFk3aEVTZ0FQAQ?hl=en-GH&gl=GH&ceid=GH:en",
       "query": "IREN Limited major customers clients",
-      "snippet": "IREN Ltd stock price live, this page displays NASDAQ IREN stock exchange data. View the IREN premarket stock price ahead of the market session or asse"
+      "snippet": "IREN Limited signs $1.6B deal with Dell for AI cloud systems."
     }
   ]
 }

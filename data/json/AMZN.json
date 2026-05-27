@@ -1,49 +1,43 @@
 {
   "ticker": "AMZN",
   "company_name": "Amazon.com, Inc.",
-  "sector": "Consumer Cyclical / Internet Retail",
+  "sector": "Consumer Cyclical",
   "industry": "Internet Retail",
   "upstream": [
-    "Consumer electronics manufacturers",
-    "Apparel manufacturers",
-    "Book publishers",
-    "Home goods manufacturers",
-    "Third‑party sellers"
+    "005930.KS",
+    "AAPL",
+    "SONY",
+    "Nike, Inc.",
+    "Adidas AG"
   ],
   "downstream": [
-    "Retail consumers",
+    "Consumers worldwide",
     "Small and medium businesses",
     "Enterprise customers (AWS)",
-    "Government agencies",
-    "Third‑party sellers"
+    "AMZN",
+    "Third‑party vendors"
   ],
   "competitors": [
-    "Walmart",
-    "eBay",
-    "Alibaba",
-    "Shopify",
-    "MSFT"
+    "Walmart Inc.",
+    "Alibaba Group Holding Ltd.",
+    "eBay Inc.",
+    "Shopify Inc.",
+    "Target Corp."
   ],
   "key_products": [
     "Amazon.com e‑commerce platform",
     "Amazon Web Services (AWS)",
-    "Amazon Prime membership",
-    "Amazon Echo/Alexa devices",
-    "Amazon Kindle e‑reader"
+    "Amazon Prime subscription",
+    "Amazon Echo / Alexa devices",
+    "Amazon Kindle e‑readers"
   ],
-  "extracted_at": "2026-05-26 18:18:55",
+  "extracted_at": "2026-05-27 18:22:51",
   "sources": [
     {
       "source": "Wikipedia",
-      "url": "",
-      "title": "",
-      "snippet": ""
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://business.amazon.com/",
-      "query": "Amazon.com, Inc. suppliers manufacturers",
-      "snippet": "We'll translate the most important information for your browsing, shopping, and communications. Our translations are provided for your convenience. Th"
+      "url": "https://en.wikipedia.org/wiki/Amazon.com,_Inc.",
+      "title": "Amazon (company)",
+      "snippet": "Amazon.com, Inc. is an American multinational technology company engaged in e-commerce, cloud computing, online advertising, digital streaming, entertainment and artificial intelligence. Founded in 19"
     },
     {
       "source": "DuckDuckGo",
@@ -54,14 +48,20 @@
     {
       "source": "DuckDuckGo",
       "url": "https://ir.aboutamazon.com/",
+      "query": "Amazon.com, Inc. suppliers manufacturers",
+      "snippet": "Amazon . com Announces Fourth Quarter Results. Amazon . com , Inc . (NASDAQ: AMZN) today announced financial results for its fourth quarter ended Dece"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://ir.aboutamazon.com/",
       "query": "Amazon.com, Inc. major customers clients",
       "snippet": "Amazon . com Announces Fourth Quarter Results. Amazon . com , Inc . (NASDAQ: AMZN) today announced financial results for its fourth quarter ended Dece"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://business.amazon.com/",
+      "url": "https://www.thestreet.com/employment/amazon-ceo-gives-employees-a-harsh-wake-up-call",
       "query": "Amazon.com, Inc. major customers clients",
-      "snippet": "Amazon Business combines the selection, convenience, and value of Amazon with features that help improve business purchasing."
+      "snippet": "Kohl’s CEO tells customers major revamp is on the way.Jassy’s comments come after Amazon laid off dozens of people in its communications department in"
     }
   ]
 }

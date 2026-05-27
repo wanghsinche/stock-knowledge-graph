@@ -2,47 +2,47 @@
 ticker: IONQ
 company: IonQ, Inc.
 sector: Technology
-industry: Computer Hardware
-extracted_at: 2026-05-26 18:25:47
-last_updated: 2026-05-26
+industry: Quantum Computing Hardware
+extracted_at: 2026-05-27 18:33:50
+last_updated: 2026-05-27
 ---
 
 # IONQ - IonQ, Inc.
 
 ## 基本信息
 
-- **所属行业**: Technology / Computer Hardware
-- **提取时间**: 2026-05-26 18:25:47
+- **所属行业**: Technology / Quantum Computing Hardware
+- **提取时间**: 2026-05-27 18:33:50
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Laser system manufacturers]]
-- [[Vacuum chamber suppliers]]
+- [[Laser system suppliers (e.g., Coherent)]]
+- [[Vacuum system manufacturers (e.g., Edwards)]]
 - [[Cryogenic equipment providers]]
-- [[Ion trap component suppliers]]
-- [[Precision electronics vendors]]
+- [[Electronic component suppliers]]
+- [[Software platform vendors]]
 
 ### 下游客户
-- [[MSFT]]
-- [[Research institutions and universities]]
-- [[Government agencies (e.g., DARPA, NASA)]]
-- [[Enterprise R&D departments]]
-- [[Quantum algorithm developers]]
+- [[Research institutions (e.g., universities, national labs)]]
+- [[Enterprise cloud customers]]
+- [[Government agencies]]
+- [[Pharmaceutical and biotech companies]]
+- [[Automotive manufacturers exploring quantum solutions]]
 
 ### 竞争对手
 - [[Rigetti Computing]]
-- [[Honeywell Quantum Solutions (Quantinuum)]]
 - [[D-Wave Systems]]
-- [[Xanadu]]
-- [[IonQ’s own internal R&D teams]]
+- [[Honeywell Quantum Solutions]]
+- [[IBM]]
+- [[GOOGL]]
 
 ### 核心产品
-- [[Trapped‑ion quantum processors]]
-- [[Quantum software stack (Qiskit, Q# integration)]]
-- [[Cloud‑based quantum computing access]]
-- [[Quantum algorithm optimization tools]]
-- [[Hardware‑software integration services]]
+- [[Trapped ion quantum computer]]
+- [[Quantum software stack]]
+- [[Quantum cloud services]]
+- [[Quantum optimization software]]
+- [[Quantum simulation software]]
 
 ## 数据来源
 
@@ -54,4 +54,4 @@ last_updated: 2026-05-26
 
 ## 元数据
 
-- **更新日期**: 2026-05-26
+- **更新日期**: 2026-05-27

@@ -3,8 +3,8 @@ ticker: CRWV
 company: CoreWeave, Inc.
 sector: Technology
 industry: Software - Infrastructure
-extracted_at: 2026-05-26 18:23:51
-last_updated: 2026-05-26
+extracted_at: 2026-05-27 18:30:57
+last_updated: 2026-05-27
 ---
 
 # CRWV - CoreWeave, Inc.
@@ -12,7 +12,7 @@ last_updated: 2026-05-26
 ## 基本信息
 
 - **所属行业**: Technology / Software - Infrastructure
-- **提取时间**: 2026-05-26 18:23:51
+- **提取时间**: 2026-05-27 18:30:57
 
 ## 产业链关系
 
@@ -20,29 +20,29 @@ last_updated: 2026-05-26
 - [[NVDA]]
 - [[AMD]]
 - [[INTC]]
-- [[DELL]]
-- [[HPQ]]
+- [[QCOM]]
+- [[005930.KS]]
 
 ### 下游客户
-- [[OpenAI]]
-- [[GOOGL]]
-- [[MSFT]]
-- [[AMZN]]
-- [[NVDA]]
+- [[AI developers]]
+- [[Enterprise AI teams]]
+- [[Research institutions]]
+- [[Startups]]
+- [[Large cloud customers]]
 
 ### 竞争对手
-- [[NVDA]]
+- [[AWS EC2 GPU instances]]
 - [[GOOGL]]
 - [[MSFT]]
-- [[AMZN]]
-- [[IBM]]
+- [[NVDA]]
+- [[Paperspace]]
 
 ### 核心产品
-- [[GPU Cloud Infrastructure]]
-- [[GPU Management Software]]
-- [[AI Compute Services]]
-- [[GPU Clusters]]
-- [[AI Workload Optimization]]
+- [[GPU cloud computing services]]
+- [[GPU infrastructure for AI workloads]]
+- [[Chip management software]]
+- [[Scalable GPU clusters]]
+- [[AI workload optimization tools]]
 
 ## 数据来源
 
@@ -50,8 +50,8 @@ last_updated: 2026-05-26
 - [CoreWeave, Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/CoreWeave)
 - [CoreWeave, Inc. suppliers manufacturers](https://finance.yahoo.com/sectors/technology/articles/coreweave-vs-nebius-artificial-intelligence-134501390.html)
 - [CoreWeave, Inc. major customers clients](https://en.wikipedia.org/wiki/CoreWeave)
-- [CoreWeave, Inc. major customers clients](https://finance.yahoo.com/sectors/technology/articles/coreweave-vs-nebius-artificial-intelligence-134501390.html)
+- [CoreWeave, Inc. major customers clients](https://www.fool.com/coverage/better-buy/2026/05/22/coreweave-vs-nebius-which-artificial-intelligence-ai-infrastructure-stock-is-a-better-buy-in-2026/)
 
 ## 元数据
 
-- **更新日期**: 2026-05-26
+- **更新日期**: 2026-05-27

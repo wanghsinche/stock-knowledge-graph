@@ -3,8 +3,8 @@ ticker: META
 company: Meta Platforms, Inc.
 sector: Communication Services
 industry: Internet Content & Information
-extracted_at: 2026-05-26 18:19:31
-last_updated: 2026-05-26
+extracted_at: 2026-05-27 18:23:41
+last_updated: 2026-05-27
 ---
 
 # META - Meta Platforms, Inc.
@@ -12,37 +12,37 @@ last_updated: 2026-05-26
 ## 基本信息
 
 - **所属行业**: Communication Services / Internet Content & Information
-- **提取时间**: 2026-05-26 18:19:31
+- **提取时间**: 2026-05-27 18:23:41
 
 ## 产业链关系
 
 ### 上游供应商
 - [[INTC]]
 - [[NVDA]]
-- [[AMD]]
+- [[AMZN]]
+- [[MSFT]]
 - [[CSCO]]
-- [[DELL]]
 
 ### 下游客户
 - [[Advertisers]]
-- [[Small and Medium Businesses]]
-- [[Developers]]
-- [[Content Creators]]
-- [[Media Companies]]
+- [[Small businesses]]
+- [[App developers]]
+- [[Brands]]
+- [[Content creators]]
 
 ### 竞争对手
-- [[X Corp (Twitter)]]
-- [[Snap Inc.]]
-- [[TikTok (ByteDance)]]
+- [[GOOGL]]
+- [[AMZN]]
+- [[AAPL]]
 - [[MSFT]]
-- [[Pinterest]]
+- [[TikTok (ByteDance)]]
 
 ### 核心产品
 - [[Facebook]]
 - [[Instagram]]
 - [[WhatsApp]]
 - [[Messenger]]
-- [[Threads]]
+- [[Meta Ads]]
 
 ## 数据来源
 
@@ -50,8 +50,8 @@ last_updated: 2026-05-26
 - [Meta Platforms, Inc. suppliers manufacturers](https://ru.wikipedia.org/wiki/Meta_Platforms)
 - [Meta Platforms, Inc. suppliers manufacturers](https://www.computerhope.com/comp/meta.htm)
 - [Meta Platforms, Inc. major customers clients](https://ru.wikipedia.org/wiki/Meta_Platforms)
-- [Meta Platforms, Inc. major customers clients](https://www.cnn.com/markets/stocks/META)
+- [Meta Platforms, Inc. major customers clients](https://about.fb.com/news/2025/11/how-meta-is-helping-brands-connect-with-customers-through-culture-to-drive-brand-impact/)
 
 ## 元数据
 
-- **更新日期**: 2026-05-26
+- **更新日期**: 2026-05-27

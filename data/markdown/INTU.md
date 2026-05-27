@@ -1,18 +1,18 @@
 ---
 ticker: INTU
 company: Intuit Inc.
-sector: Technology
-industry: Software - Application
-extracted_at: 2026-05-26 18:22:02
-last_updated: 2026-05-26
+sector: Technology / Software - Application
+industry: Financial Software & Accounting Solutions
+extracted_at: 2026-05-27 18:31:44
+last_updated: 2026-05-27
 ---
 
 # INTU - Intuit Inc.
 
 ## 基本信息
 
-- **所属行业**: Technology / Software - Application
-- **提取时间**: 2026-05-26 18:22:02
+- **所属行业**: Technology / Software - Application / Financial Software & Accounting Solutions
+- **提取时间**: 2026-05-27 18:31:44
 
 ## 产业链关系
 
@@ -21,37 +21,37 @@ last_updated: 2026-05-26
 - [[AMZN]]
 - [[GOOGL]]
 - [[ORCL]]
-- [[SAP]]
+- [[IBM]]
 
 ### 下游客户
-- [[Small and medium-sized businesses]]
+- [[Small and Medium‑Sized Enterprises (SMEs)]]
 - [[Accountants and CPA firms]]
-- [[Tax professionals]]
-- [[Individuals filing taxes]]
-- [[Financial advisors]]
+- [[Tax preparers and tax‑preparation services]]
+- [[Individual taxpayers]]
+- [[Financial advisors and wealth‑management firms]]
 
 ### 竞争对手
-- [[H&R Block]]
 - [[SAP]]
 - [[ORCL]]
+- [[MSFT]]
 - [[Xero]]
 - [[FreshBooks]]
 
 ### 核心产品
 - [[TurboTax]]
 - [[QuickBooks]]
-- [[Mint]]
 - [[Credit Karma]]
-- [[TaxAct]]
+- [[Mailchimp]]
+- [[Intuit Payments]]
 
 ## 数据来源
 
-- 
+- [Intuit](https://en.wikipedia.org/wiki/Intuit_Inc.)
+- [Intuit Inc. suppliers manufacturers](https://csimarket.com/stocks/INTU-Suppliers)
 - [Intuit Inc. suppliers manufacturers](https://www.linkedin.com/company/intuit)
-- [Intuit Inc. suppliers manufacturers](https://markets.ft.com/data/equities/tearsheet/profile?s=INTU:NSQ)
 - [Intuit Inc. major customers clients](https://www.linkedin.com/company/intuit)
 - [Intuit Inc. major customers clients](https://www.insidermonkey.com/blog/do-you-believe-in-the-growth-prospectus-of-intuit-intu-1764195/)
 
 ## 元数据
 
-- **更新日期**: 2026-05-26
+- **更新日期**: 2026-05-27

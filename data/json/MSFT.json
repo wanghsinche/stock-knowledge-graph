@@ -8,31 +8,30 @@
     "AMD",
     "NVDA",
     "QCOM",
-    "TSM"
+    "005930.KS"
   ],
   "downstream": [
-    "Fortune 500 companies",
-    "U.S. federal government",
-    "CAT",
-    "Healthcare organizations",
-    "Automotive manufacturers"
+    "Enterprise customers (e.g., banks, government agencies)",
+    "DELL",
+    "Consumer users",
+    "Cloud service customers",
+    "Gaming partners (e.g., Xbox, game developers)"
   ],
   "competitors": [
-    "AAPL",
-    "GOOGL",
     "AMZN",
+    "GOOGL",
+    "IBM",
     "ORCL",
     "CRM"
   ],
   "key_products": [
     "Windows operating system",
-    "Microsoft Office suite",
+    "Microsoft Office / Microsoft 365",
     "Azure cloud platform",
     "Microsoft Teams",
-    "Surface devices",
-    "Xbox gaming console"
+    "Surface devices"
   ],
-  "extracted_at": "2026-05-26 18:18:19",
+  "extracted_at": "2026-05-27 18:22:18",
   "sources": [
     {
       "source": "Wikipedia",
@@ -44,7 +43,7 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Microsoft",
       "query": "Microsoft Corporation suppliers manufacturers",
-      "snippet": "Microsoft entered the operating system (OS) business in 1980 with its own version of Unix, licensed from AT&T Corporation a year before, called Xenix,"
+      "snippet": "Microsoft Corporation is an American multinational technology company headquartered in Redmond, Washington."
     },
     {
       "source": "DuckDuckGo",
@@ -54,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.comparably.com/companies/microsoft/mission",
+      "url": "https://en.wikipedia.org/wiki/Microsoft",
       "query": "Microsoft Corporation major customers clients",
-      "snippet": "Microsoft Corporation Mission Statement."
+      "snippet": "Microsoft Corporation is an American multinational technology company headquartered in Redmond, Washington."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://play.google.com/store/apps/details?id=com.microsoft.office.outlook&hl=en",
+      "url": "https://www.smbom.com/news/47754",
       "query": "Microsoft Corporation major customers clients",
-      "snippet": "Microsoft Corporation . Contains adsIn-app purchases."
+      "snippet": "Microsoft introduced its second-generation Maia AI chip, the Maia 200, in January this year. However, the chip has not yet been made available to cust"
     }
   ]
 }

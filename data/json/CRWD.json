@@ -1,37 +1,37 @@
 {
   "ticker": "CRWD",
   "company_name": "CrowdStrike Holdings, Inc.",
-  "sector": "Technology",
-  "industry": "Software - Infrastructure",
+  "sector": "Technology / Software - Infrastructure",
+  "industry": "Cybersecurity",
   "upstream": [
     "MSFT",
-    "AMZN",
-    "GOOGL",
-    "VMware",
-    "CSCO"
+    "Linux",
+    "AWS",
+    "Azure",
+    "INTC"
   ],
   "downstream": [
     "MSFT",
-    "GOOGL",
     "AMZN",
-    "Walmart",
-    "JPMorgan Chase"
+    "GOOGL",
+    "Bank of America",
+    "Citigroup"
   ],
   "competitors": [
+    "Symantec",
+    "McAfee",
     "Palo Alto Networks",
     "SentinelOne",
-    "Fortinet",
-    "Check Point Software",
-    "McAfee"
+    "Sophos"
   ],
   "key_products": [
-    "CrowdStrike Falcon Platform",
-    "Falcon Prevent",
-    "Falcon Insight",
-    "Falcon OverWatch",
-    "Falcon X"
+    "Falcon Endpoint Protection",
+    "Falcon Threat Intelligence",
+    "Falcon Response",
+    "Falcon Discover",
+    "Falcon Platform"
   ],
-  "extracted_at": "2026-05-22 17:52:00",
+  "extracted_at": "2026-05-27 18:34:11",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,9 +47,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/competition2.php?supply&code=CRWD",
+      "url": "https://finance.yahoo.com/quote/CRWD/",
       "query": "CrowdStrike Holdings, Inc. suppliers manufacturers",
-      "snippet": "Crowdstrike Holdings Inc 's Suppliers . Crowdstrike Holdings Inc 's vs. its Suppliers Results. (List of Suppliers , Financial Results 12 Months from t"
+      "snippet": "Find the latest CrowdStrike Holdings , Inc . (CRWD) stock quote, history, news and other vital information to help you with your stock trading and inv"
     },
     {
       "source": "DuckDuckGo",

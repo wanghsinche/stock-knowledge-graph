@@ -4,34 +4,34 @@
   "sector": "Technology",
   "industry": "Software - Infrastructure",
   "upstream": [
-    "AMZN",
-    "MSFT",
-    "GOOGL",
-    "IBM",
-    "ORCL"
+    "DELL",
+    "Cloud service providers (e.g., AWS, Azure)",
+    "Data providers (e.g., Bloomberg, Thomson Reuters)",
+    "Software component vendors (e.g., Apache, open‑source libraries)",
+    "Consulting partners (e.g., Accenture, Deloitte)"
   ],
   "downstream": [
-    "U.S. Department of Defense",
-    "U.S. Department of Justice",
-    "UK Ministry of Defence",
-    "Walmart",
-    "JPMorgan Chase"
+    "U.S. federal agencies (e.g., Department of Defense, CIA)",
+    "INTC",
+    "Financial institutions (e.g., JPMorgan, Goldman Sachs)",
+    "Healthcare organizations (e.g., Mayo Clinic)",
+    "Retail and e‑commerce firms (e.g., Walmart)"
   ],
   "competitors": [
     "Snowflake",
     "Databricks",
     "Splunk",
-    "Qlik",
-    "Tableau"
+    "Tableau",
+    "Qlik"
   ],
   "key_products": [
     "Palantir Foundry",
     "Palantir Gotham",
     "Palantir Apollo",
     "Palantir Helix",
-    "Palantir Atlas"
+    "Palantir Platform"
   ],
-  "extracted_at": "2026-05-26 18:20:44",
+  "extracted_at": "2026-05-27 18:27:07",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,9 +47,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/PLTR/",
+      "url": "https://www.linkedin.com/company/palantir-technologies",
       "query": "Palantir Technologies Inc. suppliers manufacturers",
-      "snippet": "Find the latest Palantir Technologies Inc . (PLTR) stock quote, history, news and other vital information to help you with your stock trading and inve"
+      "snippet": "Palantir Technologies . Software Development. Miami, Florida 642,277 followers. Palantir is proud to partner with Cleveland-Cliffs, North America's la"
     },
     {
       "source": "DuckDuckGo",
@@ -59,9 +59,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://polymarket.com/event/palantir-of-customers-above-in-q1/palantir-total-customers-above-1060-in-q1",
+      "url": "https://www.tradingview.com/symbols/NASDAQ-PLTR/",
       "query": "Palantir Technologies Inc. major customers clients",
-      "snippet": "Palantir Technologies (PLTR) approaches its Q1 2026 earnings release on May 4, with total customer count serving as a pivotal metric tracking Artifici"
+      "snippet": "View live Palantir Technologies Inc . chart to track its stock's price action. Find market predictions, PLTR financials and market news."
     }
   ]
 }

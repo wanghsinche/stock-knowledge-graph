@@ -5,17 +5,17 @@
   "industry": "Banks - Diversified",
   "upstream": [
     "MSFT",
-    "Payment processors (e.g., Visa, Mastercard)",
-    "AMZN",
-    "Cybersecurity firms (e.g., Palo Alto Networks)",
-    "Regulatory compliance consultants"
+    "Payment processors (Visa, Mastercard)",
+    "Data providers (Bloomberg, S&P Global)",
+    "Cloud services (AWS, Azure)",
+    "Cybersecurity firms (Symantec, Palo Alto)"
   ],
   "downstream": [
     "Retail banking customers",
-    "Small and medium enterprises",
-    "Large corporations",
-    "High-net-worth individuals",
-    "Government entities"
+    "Small business clients",
+    "Corporate banking clients",
+    "Mortgage borrowers",
+    "Investment banking clients"
   ],
   "competitors": [
     "JPMorgan Chase",
@@ -25,13 +25,13 @@
     "Morgan Stanley"
   ],
   "key_products": [
-    "Consumer checking and savings accounts",
-    "Credit cards",
-    "Mortgage loans",
-    "Investment banking services",
-    "Wealth management"
+    "Consumer banking",
+    "Small business banking",
+    "Wealth management",
+    "Investment banking",
+    "Credit cards"
   ],
-  "extracted_at": "2026-05-20 18:19:03",
+  "extracted_at": "2026-05-27 18:37:03",
   "sources": [
     {
       "source": "Wikipedia",
@@ -50,18 +50,6 @@
       "url": "https://www.bankofamerica.com/online-banking/sign-in/",
       "query": "Bank of America Corporation suppliers manufacturers",
       "snippet": "Log in to Mobile & Online Banking to access your personal and small business accounts, see balances, transfer funds, pay bills and more. Bank of Ameri"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Bank_of_America",
-      "query": "Bank of America Corporation major customers clients",
-      "snippet": "It serves about 10 percent of all American bank deposits, in direct competition with JPMorgan Chase, Citigroup, and Wells Fargo. Its primary financial"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://pestel-analysis.com/blogs/target-market/bankofamerica",
-      "query": "Bank of America Corporation major customers clients",
-      "snippet": "Sep 29, 2025 · Bank of America serves a broad spectrum of clients , encompassing approximately 69 million U.S. consumer and small business clients , a"
     }
   ]
 }

@@ -3,8 +3,8 @@ ticker: JPM
 company: JPMorgan Chase & Co.
 sector: Financial Services
 industry: Banks - Diversified
-extracted_at: 2026-05-20 18:17:58
-last_updated: 2026-05-20
+extracted_at: 2026-05-27 18:29:17
+last_updated: 2026-05-27
 ---
 
 # JPM - JPMorgan Chase & Co.
@@ -12,23 +12,23 @@ last_updated: 2026-05-20
 ## 基本信息
 
 - **所属行业**: Financial Services / Banks - Diversified
-- **提取时间**: 2026-05-20 18:17:58
+- **提取时间**: 2026-05-27 18:29:17
 
 ## 产业链关系
 
 ### 上游供应商
+- [[IBM]]
 - [[MSFT]]
-- [[Payment processors (e.g., Visa, Mastercard)]]
+- [[ORCL]]
 - [[AMZN]]
-- [[Consulting firms (e.g., Accenture, Deloitte)]]
-- [[Cybersecurity vendors (e.g., Symantec, Palo Alto Networks)]]
+- [[Bloomberg]]
 
 ### 下游客户
-- [[Retail banking customers]]
-- [[Corporate and commercial clients]]
-- [[Investment banking clients]]
-- [[Wealth management and private banking clients]]
-- [[Government and public sector entities]]
+- [[Retail customers]]
+- [[Corporate clients]]
+- [[Institutional investors]]
+- [[Small and medium enterprises]]
+- [[Government entities]]
 
 ### 竞争对手
 - [[Bank of America]]
@@ -38,11 +38,11 @@ last_updated: 2026-05-20
 - [[Morgan Stanley]]
 
 ### 核心产品
-- [[Retail banking services (checking, savings, mortgages)]]
-- [[Commercial banking and treasury services]]
-- [[Investment banking and capital markets]]
-- [[Asset and wealth management]]
-- [[Credit card and payment solutions]]
+- [[Retail banking]]
+- [[Commercial banking]]
+- [[Investment banking]]
+- [[Asset management]]
+- [[Wealth management]]
 
 ## 数据来源
 
@@ -50,8 +50,8 @@ last_updated: 2026-05-20
 - [JPMorgan Chase & Co. suppliers manufacturers](https://en.wikipedia.org/wiki/JPMorgan_Chase)
 - [JPMorgan Chase & Co. suppliers manufacturers](https://ru.wikipedia.org/wiki/JPMorgan_Chase)
 - [JPMorgan Chase & Co. major customers clients](https://en.wikipedia.org/wiki/JPMorgan_Chase)
-- [JPMorgan Chase & Co. major customers clients](https://www.jpmorganchase.com/)
+- [JPMorgan Chase & Co. major customers clients](https://www.chase.com/)
 
 ## 元数据
 
-- **更新日期**: 2026-05-20
+- **更新日期**: 2026-05-27

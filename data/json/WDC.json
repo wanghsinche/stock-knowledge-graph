@@ -1,37 +1,37 @@
 {
   "ticker": "WDC",
   "company_name": "Western Digital Corporation",
-  "sector": "Technology / Computer Hardware",
-  "industry": "Data Storage",
+  "sector": "Technology",
+  "industry": "Computer Hardware",
   "upstream": [
-    "MU",
+    "STX",
     "005930.KS",
-    "TSM",
-    "INTC",
-    "SK Hynix"
+    "SK Hynix",
+    "MU",
+    "INTC"
   ],
   "downstream": [
     "AAPL",
     "MSFT",
     "AMZN",
-    "GOOGL",
-    "DELL"
+    "DELL",
+    "HPQ"
   ],
   "competitors": [
     "STX",
     "005930.KS",
     "MU",
     "IBM",
-    "Hitachi Global Storage Technologies"
+    "ORCL"
   ],
   "key_products": [
     "Hard Disk Drives (HDD)",
     "Solid State Drives (SSD)",
     "Enterprise Storage Solutions",
-    "Portable Storage Devices",
-    "Data Center Storage"
+    "Data Center Storage",
+    "Personal Storage Devices"
   ],
-  "extracted_at": "2026-05-26 18:20:56",
+  "extracted_at": "2026-05-27 18:28:04",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,9 +47,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.dns-shop.ru/catalog/recipe/3b4511c808617ae1/zestkie-diski-western-digital/",
+      "url": "https://ru.wikipedia.org/wiki/Western_Digital",
       "query": "Western Digital Corporation suppliers manufacturers",
-      "snippet": "В каталоге можно ознакомиться с ценами, отзывами, фотографиями и подробными характеристиками товаров, а также подобрать Жесткие диски Western Digital "
+      "snippet": "SSD Western Digital Green 120 Gb. Western Digital Corporation (NASDAQ: WDC. , по-русски «Вестерн Диджитал»[3]) — компания, производитель компьютерной "
     },
     {
       "source": "DuckDuckGo",

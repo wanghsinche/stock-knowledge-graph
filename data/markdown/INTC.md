@@ -3,8 +3,8 @@ ticker: INTC
 company: Intel Corporation
 sector: Technology
 industry: Semiconductors
-extracted_at: 2026-05-26 18:18:06
-last_updated: 2026-05-26
+extracted_at: 2026-05-27 18:21:50
+last_updated: 2026-05-27
 ---
 
 # INTC - Intel Corporation
@@ -12,7 +12,7 @@ last_updated: 2026-05-26
 ## 基本信息
 
 - **所属行业**: Technology / Semiconductors
-- **提取时间**: 2026-05-26 18:18:06
+- **提取时间**: 2026-05-27 18:21:50
 
 ## 产业链关系
 
@@ -20,15 +20,15 @@ last_updated: 2026-05-26
 - [[TSM]]
 - [[005930.KS]]
 - [[MU]]
-- [[ASML]]
-- [[AMAT]]
+- [[SK Hynix]]
+- [[GlobalFoundries]]
 
 ### 下游客户
 - [[DELL]]
 - [[HPQ]]
-- [[Lenovo]]
+- [[Lenovo Group]]
 - [[AAPL]]
-- [[MSFT]]
+- [[AMZN]]
 
 ### 竞争对手
 - [[AMD]]
@@ -38,20 +38,20 @@ last_updated: 2026-05-26
 - [[005930.KS]]
 
 ### 核心产品
-- [[Core CPUs]]
-- [[Xeon CPUs]]
-- [[Arc GPUs]]
-- [[Chipsets]]
-- [[FPGAs]]
+- [[Intel Core CPUs]]
+- [[Intel Xeon CPUs]]
+- [[Intel Arc GPUs]]
+- [[Intel Network Interface Cards]]
+- [[Intel AI accelerators]]
 
 ## 数据来源
 
 - [Intel](https://en.wikipedia.org/wiki/Intel_Corporation)
 - [Intel Corporation suppliers manufacturers](https://en.wikipedia.org/wiki/Intel)
 - [Intel Corporation suppliers manufacturers](https://finance.yahoo.com/quote/INTC/)
-- [Intel Corporation major customers clients](https://www.tradingview.com/symbols/NASDAQ-INTC/)
-- [Intel Corporation major customers clients](https://www.trendforce.com/news/2026/04/20/news-intel-foundry-said-to-boost-equipment-orders-by-50-yoy-14a-may-draw-major-customers-by-year-end/)
+- [Intel Corporation major customers clients](https://en.wikipedia.org/wiki/Intel)
+- [Intel Corporation major customers clients](https://finance.yahoo.com/quote/INTC/)
 
 ## 元数据
 
-- **更新日期**: 2026-05-26
+- **更新日期**: 2026-05-27

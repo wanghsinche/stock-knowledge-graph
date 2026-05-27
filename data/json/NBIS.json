@@ -1,43 +1,43 @@
 {
   "ticker": "NBIS",
   "company_name": "Nebius Group N.V.",
-  "sector": "Communication Services / Internet Content & Information",
+  "sector": "Communication Services",
   "industry": "Internet Content & Information",
   "upstream": [
-    "AI hardware manufacturers",
-    "Cloud infrastructure providers",
-    "Data center operators",
-    "Chip suppliers",
-    "Software platform vendors"
+    "NVDA",
+    "AMD",
+    "DELL",
+    "HPQ",
+    "CSCO"
   ],
   "downstream": [
-    "Large enterprises",
-    "CAT",
-    "Government agencies",
-    "Content distribution networks",
-    "Digital media companies"
+    "Large enterprises using AI infrastructure",
+    "Financial institutions",
+    "E-commerce platforms",
+    "Healthcare providers",
+    "CAT"
   ],
   "competitors": [
+    "NVDA",
+    "AMD",
+    "INTC",
     "GOOGL",
-    "META",
-    "AMZN",
-    "MSFT",
-    "Tencent Holdings Ltd."
+    "AMZN"
   ],
   "key_products": [
-    "AI-powered analytics platform",
-    "Cloud-based content delivery services",
-    "Data processing and storage solutions",
-    "Machine learning model hosting",
-    "Digital advertising technology"
+    "Nebius AI Platform",
+    "Toloka",
+    "Clickhouse",
+    "Avride",
+    "TripleTen"
   ],
-  "extracted_at": "2026-05-26 18:24:03",
+  "extracted_at": "2026-05-27 18:31:28",
   "sources": [
     {
       "source": "Wikipedia",
-      "url": "",
-      "title": "",
-      "snippet": ""
+      "url": "https://en.wikipedia.org/wiki/NBIS",
+      "title": "Nebius Group",
+      "snippet": "Nebius Group N.V., headquartered in Amsterdam, is a technology company that provides artificial intelligence infrastructure. The company also owns Avride and TripleTen, as well as stakes in Toloka and"
     },
     {
       "source": "DuckDuckGo",
@@ -47,9 +47,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/NBIS/",
+      "url": "https://ru.investing.com/equities/yandex-nv",
       "query": "NBIS suppliers manufacturers",
-      "snippet": "Nebius Group ( NBIS ) has made significant strides in the AI sector, highlighted by a $643 million acquisition of Eigen AI and major contracts with Me"
+      "snippet": "Акции Nebius Group NV ( NBIS ): курс сегодня, актуальная цена онлайн, графики, мнения, технический анализ, отчеты и другое о Nebius NV."
     },
     {
       "source": "DuckDuckGo",
@@ -59,9 +59,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.nasdaq.com/market-activity/stocks/nbis",
+      "url": "https://blockonomi.com/nebius-nbis-stock-soars-8-on-massive-2-6b-bloom-energy-partnership-for-ai-infrastructure/",
       "query": "NBIS major customers clients",
-      "snippet": "ETFs with NBIS as a Top 10 Holding*.Data Disclaimer: The Nasdaq Indices and the Major Indices are delayed at least 1 minute. Real-time Data is provide"
+      "snippet": "Shares of Nebius Group ( NBIS ) surged over 8% in Thursday’s premarket session, reaching $207.94, following the company’s announcement of a $2.6 billi"
     }
   ]
 }
