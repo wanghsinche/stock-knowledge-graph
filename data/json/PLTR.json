@@ -4,64 +4,64 @@
   "sector": "Technology",
   "industry": "Software - Infrastructure",
   "upstream": [
-    "DELL",
-    "Cloud service providers (e.g., AWS, Azure)",
-    "Data providers (e.g., Bloomberg, Thomson Reuters)",
-    "Software component vendors (e.g., Apache, open‑source libraries)",
-    "Consulting partners (e.g., Accenture, Deloitte)"
+    "AMZN",
+    "MSFT",
+    "GOOGL",
+    "ORCL",
+    "IBM"
   ],
   "downstream": [
-    "U.S. federal agencies (e.g., Department of Defense, CIA)",
-    "INTC",
-    "Financial institutions (e.g., JPMorgan, Goldman Sachs)",
-    "Healthcare organizations (e.g., Mayo Clinic)",
-    "Retail and e‑commerce firms (e.g., Walmart)"
+    "U.S. Department of Defense",
+    "Federal Bureau of Investigation",
+    "State and local governments",
+    "JPMorgan Chase",
+    "Walmart"
   ],
   "competitors": [
     "Snowflake",
     "Databricks",
     "Splunk",
     "Tableau",
-    "Qlik"
+    "MSFT"
   ],
   "key_products": [
-    "Palantir Foundry",
     "Palantir Gotham",
+    "Palantir Foundry",
     "Palantir Apollo",
     "Palantir Helix",
     "Palantir Platform"
   ],
-  "extracted_at": "2026-05-27 18:27:07",
+  "extracted_at": "2026-05-28 18:32:34",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Palantir_Technologies_Inc.",
       "title": "Palantir",
-      "snippet": "Palantir Technologies Inc. is an American publicly traded company that develops data integration and analytics platforms. Headquartered in Miami, Florida, it was founded in 2003 by Peter Thiel, Stephe"
+      "snippet": "Palantir Technologies Inc. is an American publicly traded company that develops data integration and analytics software. Palantir is headquartered in Miami, Florida, and was founded in 2003 by Peter T"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Palantir",
       "query": "Palantir Technologies Inc. suppliers manufacturers",
+      "snippet": "Palantir 's customer base includes federal agencies, state and local governments, international organizations, and also private companies. [11] The co"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/PLTR-Suppliers",
+      "query": "Palantir Technologies Inc. suppliers manufacturers",
+      "snippet": "May 6, 2026 · For your research, we’ve provided nine additional tables on Palantir Technologies Inc ’ s suppliers . You can find them in the navigatio"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/Palantir",
+      "query": "Palantir Technologies Inc. major customers clients",
       "snippet": "Palantir Technologies Inc . is an American publicly traded company that develops data integration and analytics platforms enabling government agencies"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.linkedin.com/company/palantir-technologies",
-      "query": "Palantir Technologies Inc. suppliers manufacturers",
-      "snippet": "Palantir Technologies . Software Development. Miami, Florida 642,277 followers. Palantir is proud to partner with Cleveland-Cliffs, North America's la"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Palantir",
+      "url": "https://www.marketwatch.com/investing/stock/pltr",
       "query": "Palantir Technologies Inc. major customers clients",
-      "snippet": "Palantir Technologies Inc . Palantir 's customer base includes federal agencies, state and local governments, international organizations, and also pr"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.tradingview.com/symbols/NASDAQ-PLTR/",
-      "query": "Palantir Technologies Inc. major customers clients",
-      "snippet": "View live Palantir Technologies Inc . chart to track its stock's price action. Find market predictions, PLTR financials and market news."
+      "snippet": "PLTR | Complete Palantir Technologies Inc . stock news by MarketWatch. View real-time stock prices and stock quotes for a full financial overview."
     }
   ]
 }

@@ -3,8 +3,8 @@ ticker: CAT
 company: Caterpillar Inc.
 sector: Industrials
 industry: Farm & Heavy Construction Machinery
-extracted_at: 2026-05-27 18:40:38
-last_updated: 2026-05-27
+extracted_at: 2026-05-28 18:42:43
+last_updated: 2026-05-28
 ---
 
 # CAT - Caterpillar Inc.
@@ -12,46 +12,46 @@ last_updated: 2026-05-27
 ## 基本信息
 
 - **所属行业**: Industrials / Farm & Heavy Construction Machinery
-- **提取时间**: 2026-05-27 18:40:38
+- **提取时间**: 2026-05-28 18:42:43
 
 ## 产业链关系
 
 ### 上游供应商
-- [[ArcelorMittal]]
-- [[Nucor]]
-- [[Alcoa]]
-- [[Honeywell]]
-- [[Boeing (electronics components)]]
+- [[Cummins Inc.]]
+- [[Boeing]]
+- [[General Electric]]
+- [[DE]]
+- [[BASF]]
 
 ### 下游客户
-- [[Bechtel]]
-- [[HPQ]]
 - [[U.S. Army]]
-- [[China State Construction Engineering]]
-- [[Rio Tinto]]
+- [[U.S. Navy]]
+- [[U.S. Air Force]]
+- [[HPQ]]
+- [[Bechtel]]
 
 ### 竞争对手
-- [[Komatsu]]
-- [[Volvo Construction Equipment]]
 - [[DE]]
+- [[Komatsu]]
 - [[CNH Industrial]]
+- [[Volvo Construction Equipment]]
 - [[Hitachi Construction Machinery]]
 
 ### 核心产品
 - [[Excavators]]
 - [[Bulldozers]]
-- [[Backhoes]]
 - [[Wheel Loaders]]
 - [[Mining Trucks]]
+- [[Diesel Engines]]
 
 ## 数据来源
 
 - [Caterpillar Inc.](https://en.wikipedia.org/wiki/Caterpillar_Inc.)
-- [Caterpillar Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/Caterpillar_Inc.)
-- [Caterpillar Inc. suppliers manufacturers](https://csimarket.com/stocks/CAT-Suppliers)
-- [Caterpillar Inc. major customers clients](https://en.wikipedia.org/wiki/Caterpillar_Inc.)
-- [Caterpillar Inc. major customers clients](https://ru.wikipedia.org/wiki/Caterpillar)
+- [Caterpillar Inc. suppliers manufacturers](https://www.caterpillar.com/en/company/working-together/suppliers.html)
+- [Caterpillar Inc. suppliers manufacturers](https://www.goldsupplier.com/discover/top-10-caterpillar-suppliers-manufacturers-in-the-united-states/)
+- [Caterpillar Inc. major customers clients](https://csimarket.com/stocks/CAT-Customers)
+- [Caterpillar Inc. major customers clients](https://www.sec.gov/Archives/edgar/data/18230/000130817926000360/cat015318-ars.pdf)
 
 ## 元数据
 
-- **更新日期**: 2026-05-27
+- **更新日期**: 2026-05-28

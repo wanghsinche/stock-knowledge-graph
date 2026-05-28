@@ -3,11 +3,35 @@
   "company_name": "Eli Lilly and Company",
   "sector": "Healthcare",
   "industry": "Drug Manufacturers - General",
-  "upstream": [],
-  "downstream": [],
-  "competitors": [],
-  "key_products": [],
-  "extracted_at": "2026-05-27 18:34:48",
+  "upstream": [
+    "CAT",
+    "Raw material suppliers (chemicals, biologics)",
+    "Research & development partners (e.g., universities)",
+    "Packaging suppliers",
+    "Clinical trial sites"
+  ],
+  "downstream": [
+    "Hospitals and health systems",
+    "Pharmacies and drugstores",
+    "Government health agencies (e.g., FDA, CDC)",
+    "Insurance providers",
+    "International health organizations"
+  ],
+  "competitors": [
+    "Pfizer",
+    "Johnson & Johnson",
+    "Merck & Co.",
+    "AbbVie",
+    "Amgen"
+  ],
+  "key_products": [
+    "Humalog (insulin lispro)",
+    "Trulicity (dulaglutide)",
+    "Mounjaro (tirzepatide)",
+    "Cymbalta (duloxetine)",
+    "Lenvima (cabozantinib)"
+  ],
+  "extracted_at": "2026-05-28 18:34:03",
   "sources": [
     {
       "source": "Wikipedia",
@@ -25,7 +49,19 @@
       "source": "DuckDuckGo",
       "url": "https://www.lilly.com/",
       "query": "Eli Lilly and Company suppliers manufacturers",
-      "snippet": "Lilly is a medicine company that puts health above all. Learn about our medicines, view condition support, find care, and much more. Lilly employee wo"
+      "snippet": "Lilly is a medicine company that puts health above all. Learn about our medicines, view condition support, find care, and much more."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/Eli_Lilly_and_Company",
+      "query": "Eli Lilly and Company major customers clients",
+      "snippet": "Eli Lilly and Company ... David Ricks, CEO of Lilly since 2016 Eli Lilly and Company , doing business as Lilly , is an American multinational pharmace"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/LLY-Customers",
+      "query": "Eli Lilly and Company major customers clients",
+      "snippet": "For your research, we’ve provided 9 tables on Eli Lilly And Company corporate clients . You can find them in the navigation menu under Customers & Mar"
     }
   ]
 }

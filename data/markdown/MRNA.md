@@ -3,8 +3,8 @@ ticker: MRNA
 company: Moderna, Inc.
 sector: Healthcare
 industry: Biotechnology
-extracted_at: 2026-05-27 18:41:14
-last_updated: 2026-05-27
+extracted_at: 2026-05-28 18:44:05
+last_updated: 2026-05-28
 ---
 
 # MRNA - Moderna, Inc.
@@ -12,46 +12,46 @@ last_updated: 2026-05-27
 ## 基本信息
 
 - **所属行业**: Healthcare / Biotechnology
-- **提取时间**: 2026-05-27 18:41:14
+- **提取时间**: 2026-05-28 18:44:05
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Lonza (contract manufacturing)]]
-- [[Thermo Fisher Scientific (lab equipment)]]
-- [[Merck & Co. (raw materials)]]
-- [[Sangamo Therapeutics (gene editing tools)]]
-- [[BioNTech (technology licensing)]]
+- [[Nucleoside triphosphate suppliers]]
+- [[Lipid nanoparticle manufacturers]]
+- [[Cell culture media suppliers]]
+- [[Contract manufacturing organizations (CMOs)]]
+- [[Equipment suppliers]]
 
 ### 下游客户
 - [[U.S. Department of Health and Human Services]]
 - [[European Medicines Agency]]
-- [[National Institutes of Health]]
-- [[Hospitals and health systems]]
+- [[Hospitals and healthcare providers]]
 - [[Pharmaceutical distributors]]
+- [[Vaccine recipients (public)]]
 
 ### 竞争对手
-- [[Pfizer Inc.]]
-- [[Johnson & Johnson]]
-- [[BioNTech SE]]
-- [[AstraZeneca]]
-- [[Novavax]]
+- [[Pfizer]]
+- [[BioNTech]]
+- [[CureVac]]
+- [[Translate Bio]]
+- [[Biontech]]
 
 ### 核心产品
-- [[Spikevax (mRNA COVID‑19 vaccine)]]
-- [[mRNA‑based therapeutics (e.g., mRNA‑4157)]]
-- [[mRNA‑based oncology candidates]]
-- [[mRNA‑based rare disease therapies]]
-- [[mRNA vaccine platform technology]]
+- [[Spikevax (COVID-19 vaccine)]]
+- [[mRNA-4157 (cancer vaccine)]]
+- [[mRNA-3704 (influenza vaccine)]]
+- [[mRNA-1345 (COVID-19 booster)]]
+- [[mRNA-1273 (COVID-19 vaccine)]]
 
 ## 数据来源
 
 - 
 - [Moderna, Inc. suppliers manufacturers](https://csimarket.com/stocks/MRNA-Suppliers)
 - [Moderna, Inc. suppliers manufacturers](https://www.modernatx.com/about-us/our-story)
-- [Moderna, Inc. major customers clients](https://www.tradingview.com/symbols/SIX-MRNA/ideas/page-7/)
+- [Moderna, Inc. major customers clients](https://www.modernatx.com/about-us/our-story)
 - [Moderna, Inc. major customers clients](https://strategy.transforml.co/moderna-strategy-cascade-analysis)
 
 ## 元数据
 
-- **更新日期**: 2026-05-27
+- **更新日期**: 2026-05-28

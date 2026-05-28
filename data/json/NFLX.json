@@ -4,34 +4,34 @@
   "sector": "Communication Services",
   "industry": "Entertainment",
   "upstream": [
-    "Content production studios (e.g., Animal Logic, Boss Fight Entertainment)",
-    "Film and television distributors (e.g., Warner Bros., Disney)",
-    "SONY",
     "AMZN",
-    "Marketing and advertising agencies"
+    "GOOGL",
+    "MSFT",
+    "Disney",
+    "Warner Bros."
   ],
   "downstream": [
-    "Global individual subscribers",
-    "Corporate and institutional customers (e.g., airlines, hotels)",
-    "Telecom and cable providers offering bundled services",
-    "Smart TV and streaming device manufacturers",
-    "International streaming platforms"
+    "Individual subscribers worldwide",
+    "NFLX",
+    "AAPL",
+    "Smart TV platforms",
+    "Mobile app users"
   ],
   "competitors": [
     "Disney+",
+    "HBO Max",
     "AMZN",
     "Hulu",
-    "HBO Max",
-    "Peacock"
+    "AAPL"
   ],
   "key_products": [
-    "Over-the-top (OTT) subscription video-on-demand service",
-    "Original scripted and unscripted series",
-    "Feature films and documentaries",
+    "Streaming video-on-demand service",
+    "Original programming (e.g., Stranger Things, The Crown)",
     "Licensed third‑party content",
-    "Interactive and immersive experiences (e.g., interactive movies)"
+    "Mobile and web applications",
+    "Smart TV and console apps"
   ],
-  "extracted_at": "2026-05-25 17:36:58",
+  "extracted_at": "2026-05-28 18:38:26",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://netflixtechblog.com/complexity-in-the-digital-supply-chain-958384cbd70b",
+      "url": "https://npfp.netflixstudios.com/",
       "query": "Netflix, Inc. suppliers manufacturers",
-      "snippet": "Dec 17, 2012 · Netflix needs to innovate on the supply chain so that we can effectively increase licensing spending to create an outstanding member ex"
+      "snippet": "The Netflix Preferred Fulfillment Partner (NPFP) program represents a worldwide network of elite media fulfillment companies . After meeting strict st"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://insights.greyb.com/netflix-subsidiaries-and-acquisitions/",
+      "url": "https://csimarket.com/stocks/NFLX-Suppliers",
       "query": "Netflix, Inc. suppliers manufacturers",
-      "snippet": "List of Netflix Subsidiaries ; 1, Animal Logic Llc, United States ; 2, Boss Fight Entertainment Inc, United States ; 3, Line Global Llc, United States"
+      "snippet": "Apr 24, 2026 · Netflix Inc supply chain, list and performance of Netflix Incs ' suppliers - CSIMarket"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Netflix,_Inc.",
+      "url": "https://csimarket.com/stocks/NFLX-Customers",
       "query": "Netflix, Inc. major customers clients",
-      "snippet": "It is the largest entertainment/media company by market capitalization as of 2026 estimated at $450 billion. In 2021, Netflix was ranked as the eighth"
+      "snippet": "May 18, 2026 · Focus of this report: Netflix Inc ’ s corporate clients . For your research, we’ve provided 9 tables on Netflix Inc corporate clients ."
     },
     {
       "source": "DuckDuckGo",
       "url": "https://ir.netflix.net/ir-overview/profile/default.aspx",
       "query": "Netflix, Inc. major customers clients",
-      "snippet": "Netflix is one of the world's leading entertainment services offering TV series, films, games and live programming across a wide variety of genres and"
+      "snippet": "Apr 16, 2026 · Netflix is one of the world’s leading entertainment services offering TV series, films, games and live programming across a wide variet"
     }
   ]
 }

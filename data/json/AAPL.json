@@ -4,35 +4,35 @@
   "sector": "Technology",
   "industry": "Consumer Electronics",
   "upstream": [
-    "Foxconn (Hon Hai Precision Industry Co.)",
     "TSM",
     "005930.KS",
-    "SONY",
-    "LG Display"
+    "Foxconn",
+    "AVGO",
+    "QCOM"
   ],
   "downstream": [
-    "Retail consumers (iPhone, iPad, Mac buyers)",
+    "iPhone users",
+    "iPad users",
+    "Mac users",
     "AAPL",
-    "AAPL",
-    "AAPL",
-    "App developers (App Store ecosystem)"
+    "AAPL"
   ],
   "competitors": [
     "005930.KS",
-    "GOOGL",
     "MSFT",
-    "Huawei",
-    "Xiaomi"
+    "GOOGL",
+    "AMZN",
+    "SONY"
   ],
   "key_products": [
     "iPhone",
     "iPad",
-    "Mac (MacBook, iMac, Mac Pro)",
+    "Mac",
     "Apple Watch",
     "Apple TV",
-    "Services (App Store, iCloud, Apple Music, Apple Pay, Apple TV+)"
+    "AirPods"
   ],
-  "extracted_at": "2026-05-27 18:21:25",
+  "extracted_at": "2026-05-28 18:32:15",
   "sources": [
     {
       "source": "Wikipedia",
@@ -44,13 +44,13 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/List_of_Apple_Inc._suppliers",
       "query": "Apple Inc. suppliers manufacturers",
-      "snippet": "engineering and manufacturing was outsourced to Sony.[1]: 41–42 [2]: 255 In 1994, Apple began interviewing manufacturers in Taiwan due to unfavorable "
+      "snippet": "Apple released a list of its major suppliers for the first time in 2012. [13][14][15] The list has generally been released in yearly intervals since. "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ru.wikipedia.org/wiki/Apple",
+      "url": "https://www.investopedia.com/articles/investing/090315/10-major-companies-tied-apple-supply-chain.asp",
       "query": "Apple Inc. suppliers manufacturers",
-      "snippet": "Apple Inc (МФА: [ˈæp(ə)l], «Эппл») — американская корпорация, разработчик персональных и планшетных компьютеров, аудиоплееров, смартфонов, программног"
+      "snippet": "Apr 17, 2026 · Discover Apple 's top suppliers and how they enhance product performance and innovation. Learn about Apple 's efficient supply chain an"
     },
     {
       "source": "DuckDuckGo",
@@ -60,9 +60,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.apple.com/",
+      "url": "https://support.apple.com/",
       "query": "Apple Inc. major customers clients",
-      "snippet": "Apple for College. Mac and iPad. Major in any field. Apple Payments Services LLC, a subsidiary of Apple Inc ., is a service provider of Goldman Sachs "
+      "snippet": "Learn more about popular features and topics, and find resources that will help you with all of your Apple products."
     }
   ]
 }

@@ -5,39 +5,39 @@
   "industry": "Semiconductors",
   "upstream": [
     "TSM",
-    "INTC",
     "005930.KS",
-    "MU",
-    "SK Hynix"
+    "GlobalFoundries",
+    "ASML",
+    "AMAT"
   ],
   "downstream": [
+    "AAPL",
     "CSCO",
+    "QCOM",
     "Huawei",
-    "DELL",
-    "HPQ",
-    "IBM"
+    "DELL"
   ],
   "competitors": [
-    "INTC",
     "QCOM",
-    "NVDA",
+    "INTC",
+    "MediaTek",
     "TXN",
     "MRVL"
   ],
   "key_products": [
-    "Wi‑Fi chips",
+    "Wi‑Fi and Bluetooth chips",
     "Ethernet controllers",
-    "Broadcom 802.11 wireless solutions",
-    "Broadcom 802.3 Ethernet solutions",
-    "Broadcom 802.15.4 IoT solutions"
+    "Broadband modems",
+    "RF and RFICs",
+    "Enterprise networking solutions"
   ],
-  "extracted_at": "2026-05-27 18:24:27",
+  "extracted_at": "2026-05-28 18:33:04",
   "sources": [
     {
       "source": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Broadcom_Inc.",
-      "title": "Broadcom",
-      "snippet": "Broadcom Inc. is an American multinational designer, developer, manufacturer, and global supplier of a wide range of semiconductor and infrastructure software products. Broadcom's product offerings se"
+      "url": "",
+      "title": "",
+      "snippet": ""
     },
     {
       "source": "DuckDuckGo",
@@ -49,19 +49,19 @@
       "source": "DuckDuckGo",
       "url": "https://csimarket.com/stocks/AVGO-Suppliers",
       "query": "Broadcom Inc. suppliers manufacturers",
-      "snippet": "Broadcom Inc supply chain, list and performance of Broadcom Incs ' suppliers - CSIMarket.We could experience significant delays in product shipments i"
+      "snippet": "Broadcom Inc supply chain, list and performance of Broadcom Incs ' suppliers - CSIMarket."
     },
     {
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Broadcom",
-      "query": "Broadcom Inc. competitors alternatives",
+      "query": "Broadcom Inc. major customers clients",
       "snippet": "Broadcom Inc . is an American multinational designer, developer, manufacturer, and global supplier of a wide range of semiconductor and infrastructure"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.globaldata.com/company-profile/broadcom-inc/competitors/",
-      "query": "Broadcom Inc. competitors alternatives",
-      "snippet": "Understand how Broadcom Inc fits into your total addressable market and Ideal Customer Profile. Gain competitive edge with triggers that tell you when"
+      "url": "https://www.broadcom.com/",
+      "query": "Broadcom Inc. major customers clients",
+      "snippet": "Broadcom delivers semiconductors and infrastructure software for global enterprises’ most complex, mission-critical needs."
     }
   ]
 }

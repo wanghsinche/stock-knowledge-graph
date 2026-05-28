@@ -3,11 +3,35 @@
   "company_name": "Lumentum Holdings Inc.",
   "sector": "Technology",
   "industry": "Communication Equipment",
-  "upstream": [],
-  "downstream": [],
-  "competitors": [],
-  "key_products": [],
-  "extracted_at": "2026-05-27 18:27:30",
+  "upstream": [
+    "Coherent Inc.",
+    "II-VI Incorporated",
+    "Lattice Semiconductor",
+    "Lumerical",
+    "Thorlabs"
+  ],
+  "downstream": [
+    "AT&T",
+    "Verizon",
+    "Huawei",
+    "CSCO",
+    "Nokia"
+  ],
+  "competitors": [
+    "Coherent Inc.",
+    "II-VI Incorporated",
+    "Trumpf GmbH + Co. KG",
+    "Lattice Semiconductor",
+    "Lumerical"
+  ],
+  "key_products": [
+    "Optical amplifiers",
+    "Laser diodes",
+    "Photonic integrated circuits",
+    "LiDAR components",
+    "Optical transceivers"
+  ],
+  "extracted_at": "2026-05-28 18:34:21",
   "sources": [
     {
       "source": "Wikipedia",
@@ -17,14 +41,26 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/LITE-Suppliers",
+      "url": "https://en.wikipedia.org/wiki/Lumentum",
       "query": "Lumentum Holdings Inc. suppliers manufacturers",
-      "snippet": "Lumentum Holdings Inc supply chain, list and performance of Lumentum Holdings Incs ' suppliers - CSIMarket."
+      "snippet": "Lumentum Holdings Inc . is an American manufacturer of optical and photonic products. It was created in 2015 as a spinoff from JDSU."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.lumentum.com/en",
+      "url": "https://csimarket.com/stocks/LITE-Suppliers",
       "query": "Lumentum Holdings Inc. suppliers manufacturers",
+      "snippet": "May 6, 2026 · Lumentum Holdings Inc supply chain, list and performance of Lumentum Holdings Incs ' suppliers - CSIMarket"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://pitchgrade.com/companies/lumentum",
+      "query": "Lumentum Holdings Inc. major customers clients",
+      "snippet": "The largest shareholders of Lumentum Holdings Inc . are typically major institutional investors including The Vanguard Group, BlackRock, and State Str"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.lumentum.com/",
+      "query": "Lumentum Holdings Inc. major customers clients",
       "snippet": "Discover how Lumentum enables innovation through optical and photonic technologies for cloud networking, 3D sensing, lasers, and advanced manufacturin"
     }
   ]

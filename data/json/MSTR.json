@@ -4,28 +4,34 @@
   "sector": "Technology",
   "industry": "Software - Application",
   "upstream": [
-    "Microchip Technology Incorporated"
+    "Hardware manufacturers",
+    "Cloud service providers",
+    "Data vendors",
+    "Software component suppliers",
+    "IT infrastructure providers"
   ],
   "downstream": [
-    "Bank of America",
-    "Walmart",
-    "Coca-Cola",
-    "American Express",
-    "MSFT"
+    "Healthcare organizations",
+    "Financial services firms",
+    "Retail companies",
+    "Government agencies",
+    "Manufacturing firms"
   ],
   "competitors": [
-    "SAP SE Business Objects",
+    "SAP SE",
     "IBM",
-    "ORCL"
+    "ORCL",
+    "MSFT",
+    "Tableau"
   ],
   "key_products": [
-    "Business Intelligence (BI) software",
-    "Mobile analytics applications",
-    "Data visualization dashboards",
-    "Reporting and analytics platform",
-    "Enterprise data integration tools"
+    "MicroStrategy Analytics Platform",
+    "Mobile BI Apps",
+    "Data Visualization Tools",
+    "Enterprise Data Management",
+    "Cloud Analytics Services"
   ],
-  "extracted_at": "2026-05-26 18:28:57",
+  "extracted_at": "2026-05-28 18:39:56",
   "sources": [
     {
       "source": "Wikipedia",
@@ -35,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.alibaba.com/",
+      "url": "https://finance.yahoo.com/quote/MSTR/",
       "query": "Strategy Inc suppliers manufacturers",
-      "snippet": "Find quality Manufacturers , Suppliers , Exporters, Importers, Buyers, Wholesalers, Products and Trade Leads from our award-winning International Trad"
+      "snippet": "Find the latest Strategy Inc (MSTR) stock quote, history, news and other vital information to help you with your stock trading and investing."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ru.investing.com/equities/microstrategy-inc",
+      "url": "https://ru.tradingview.com/symbols/NASDAQ-MSTR/",
       "query": "Strategy Inc suppliers manufacturers",
-      "snippet": "Сведения о компании Strategy Inc . Microchip Technology Incorporated является поставщиком интеллектуальных, подключенных и безопасных встроенных решен"
+      "snippet": "Следите за графиком Strategy Inc , чтобы быть в курсе цены акций. Вы также найдёте прогнозы, отчётность MSTR и новости рынка."
     },
     {
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/MicroStrategy",
       "query": "Strategy Inc major customers clients",
-      "snippet": "Strategy Inc ., formerly known as MicroStrategy, is an American company that provides business intelligence (BI) and mobile software."
+      "snippet": "Strategy has launched four credit instruments in the second and third quarter of 2025 worth $4 billion, with more to come. Michael Saylor told Bloombe"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.linkedin.com/pulse/how-major-customers-influence-companys-financial-strategy-ajaskw-gegbe",
+      "url": "https://www.strategy.com/software/customer-stories",
       "query": "Strategy Inc major customers clients",
-      "snippet": "Companies with major customers —accounting for at least 10% of a firm's total sales—tend to adapt their financial strategies more quickly than those w"
+      "snippet": "Dive into Strategy customer stories highlighting the impact of Analytics in Healthcare, Financial Services, Call Centers, Retail, Insurance, and Gover"
     }
   ]
 }

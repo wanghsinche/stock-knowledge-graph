@@ -4,34 +4,34 @@
   "sector": "Technology",
   "industry": "Information Technology Services",
   "upstream": [
+    "INTC",
     "AMD",
+    "NVDA",
     "DELL",
-    "MSFT",
-    "Software vendors (e.g., Red Hat, SAP)",
-    "Research and development partners (e.g., MIT, Stanford)"
+    "HPQ"
   ],
   "downstream": [
-    "Large enterprises (e.g., Walmart, Coca‑Cola)",
-    "Government agencies (e.g., U.S. Department of Defense, NASA)",
-    "Financial institutions (e.g., JPMorgan Chase, Goldman Sachs)",
-    "Healthcare providers (e.g., Mayo Clinic, UnitedHealth)",
-    "CAT"
+    "AMZN",
+    "GOOGL",
+    "MSFT",
+    "AAPL",
+    "Walmart"
   ],
   "competitors": [
     "MSFT",
-    "Accenture",
-    "ORCL",
     "AMZN",
+    "GOOGL",
+    "ORCL",
     "SAP"
   ],
   "key_products": [
     "IBM Cloud",
-    "IBM Watson AI",
+    "IBM Watson",
     "IBM Power Systems",
-    "IBM Security",
-    "IBM Quantum"
+    "IBM z Systems",
+    "IBM Security"
   ],
-  "extracted_at": "2026-05-27 18:35:50",
+  "extracted_at": "2026-05-28 18:36:37",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/IBM",
+      "url": "https://en.wikipedia.org/wiki/List_of_mergers_and_acquisitions_by_IBM",
       "query": "International Business Machines Corporation suppliers manufacturers",
-      "snippet": "International Business Machines Corporation . Logo since 1972, designed by Paul Rand.IBM was founded in 1911 as the Computing-Tabulating-Recording Com"
+      "snippet": "IBM has undergone a large number of mergers and acquisitions during a corporate history lasting over a century; the company has also produced a number"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/IBM/",
+      "url": "https://www.danaher.com/",
       "query": "International Business Machines Corporation suppliers manufacturers",
-      "snippet": "Find the latest International Business Machines Corporation (IBM) stock quote, history, news and other vital information to help you with your stock t"
+      "snippet": "We’re Danaher - a leading global life sciences and diagnostics innovator, committed to accelerating the power of science and technology to improve hum"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/IBM",
       "query": "International Business Machines Corporation major customers clients",
-      "snippet": "International Business Machines Corporation , doing business as IBM (nicknamed Big Blue),[6] is an American multinational technology company headquart"
+      "snippet": "IBM was founded in 1911 as the Computing-Tabulating-Recording Company (CTR), a holding company of manufacturers of record-keeping and measuring system"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.wsj.com/market-data/quotes/IBM",
+      "url": "https://csimarket.com/stocks/IBM-Customers",
       "query": "International Business Machines Corporation major customers clients",
-      "snippet": "View the latest International Business Machines Corp . (IBM) stock price, news, historical charts, analyst ratings and financial information from WSJ."
+      "snippet": "Apr 24, 2026 · For your research, we’ve provided 9 tables on International Business Machines Corporation corporate clients . You can find them in the "
     }
   ]
 }

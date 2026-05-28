@@ -7,20 +7,20 @@
     "AMZN",
     "MSFT",
     "GOOGL",
-    "IBM",
-    "ORCL"
+    "ORCL",
+    "IBM"
   ],
   "downstream": [
     "AMZN",
-    "GOOGL",
-    "MSFT",
-    "Walmart",
-    "JPMorgan Chase"
+    "AAPL",
+    "Coca‑Cola",
+    "Ford",
+    "Walmart"
   ],
   "competitors": [
     "MSFT",
-    "SAP CRM",
     "ORCL",
+    "SAP Customer Experience",
     "HubSpot",
     "Zoho CRM"
   ],
@@ -28,10 +28,10 @@
     "Sales Cloud",
     "Service Cloud",
     "Marketing Cloud",
-    "Einstein AI",
-    "MuleSoft"
+    "Commerce Cloud",
+    "Einstein AI"
   ],
-  "extracted_at": "2026-05-27 18:32:56",
+  "extracted_at": "2026-05-28 18:35:53",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,25 +43,25 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Salesforce",
       "query": "Salesforce, Inc. suppliers manufacturers",
-      "snippet": "Salesforce , Inc ., is an American cloud-based software company headquartered in San Francisco, California. It provides software for sales , customer "
+      "snippet": "Salesforce was founded on March 8, 1999, by former Oracle executive Marc Benioff, together with Parker Harris, Dave Moellenhoff, and Frank Dominguez a"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://csimarket.com/stocks/CRM-Suppliers",
       "query": "Salesforce, Inc. suppliers manufacturers",
-      "snippet": "Salesforce Inc supply chain, list and performance of Salesforce Incs ' suppliers - CSIMarket."
+      "snippet": "Mar 3, 2026 · For your research, we’ve provided nine additional tables on Salesforce Inc ’s suppliers . You can find them in the navigation menu under"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Salesforce",
+      "url": "https://www.salesforce.com/customer-stories/",
       "query": "Salesforce, Inc. major customers clients",
-      "snippet": "Salesforce , Inc ., is an American cloud-based software company headquartered in San Francisco, California. It provides software for sales , customer "
+      "snippet": "Discover how Salesforce helps 150,000+ companies increase productivity, customer loyalty, and sales revenue — every day."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.salesforce.com/",
+      "url": "https://www.appsruntheworld.com/customers-database/vendors/view/salesforce",
       "query": "Salesforce, Inc. major customers clients",
-      "snippet": "Salesforce Enterprise-grade CRM with deep reporting, sales operations..."
+      "snippet": "List of companies using or evaluating Salesforce applications, with details on their revenues, employees, industries, and locations."
     }
   ]
 }

@@ -4,34 +4,34 @@
   "sector": "Technology",
   "industry": "Computer Hardware",
   "upstream": [
-    "STX",
+    "MU",
     "005930.KS",
     "SK Hynix",
-    "MU",
-    "INTC"
+    "TSM",
+    "Nanya Technology"
   ],
   "downstream": [
-    "AAPL",
-    "MSFT",
-    "AMZN",
     "DELL",
-    "HPQ"
+    "HPQ",
+    "Lenovo Group",
+    "AMZN",
+    "MSFT"
   ],
   "competitors": [
     "STX",
+    "Kioxia (formerly Toshiba Memory)",
     "005930.KS",
     "MU",
-    "IBM",
-    "ORCL"
+    "IBM"
   ],
   "key_products": [
-    "Hard Disk Drives (HDD)",
-    "Solid State Drives (SSD)",
+    "Hard Disk Drives (HDDs)",
+    "Solid State Drives (SSDs)",
     "Enterprise Storage Solutions",
-    "Data Center Storage",
-    "Personal Storage Devices"
+    "External Storage Devices",
+    "Data Center Storage"
   ],
-  "extracted_at": "2026-05-27 18:28:04",
+  "extracted_at": "2026-05-28 18:38:44",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,25 +43,25 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Western_Digital",
       "query": "Western Digital Corporation suppliers manufacturers",
-      "snippet": "Western Digital Corporation , doing business as WD , is an American data storage company headquartered in San Jose, California. Established in 1970, t"
+      "snippet": "Western Digital Corporation is an American data storage company headquartered in San Jose, California. It has a decades-long history in the electronic"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://ru.wikipedia.org/wiki/Western_Digital",
       "query": "Western Digital Corporation suppliers manufacturers",
-      "snippet": "SSD Western Digital Green 120 Gb. Western Digital Corporation (NASDAQ: WDC. , по-русски «Вестерн Диджитал»[3]) — компания, производитель компьютерной "
+      "snippet": "Western Digital Corporation .SSD Western Digital Green 120 Gb. Western Digital Corporation (NASDAQ: WDC. , по-русски «Вестерн Диджитал»[3]) — компания"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Western_Digital",
       "query": "Western Digital Corporation major customers clients",
-      "snippet": "Western Digital Corporation , doing business as WD , is an American data storage company headquartered in San Jose, California. Established in 1970, t"
+      "snippet": "Western Digital Corporation is an American data storage company headquartered in San Jose, California. It has a decades-long history in the electronic"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://kalkine.com.au/report/western-digital-corporation/",
+      "url": "https://community.wd.com/",
       "query": "Western Digital Corporation major customers clients",
-      "snippet": "Company Overview: Western Digital Corporation (NASDAQ: WDC) is a global data storage devices and solutions provider. It has a broad portfolio of techn"
+      "snippet": "Western Digital Business Portal. Unlock benefits and tools for your business such as enterprise support, pricing and rebate tools, marketing, loyalty,"
     }
   ]
 }

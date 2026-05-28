@@ -7,31 +7,31 @@
     "TSM",
     "005930.KS",
     "GlobalFoundries",
-    "MU",
+    "UMC",
     "ASE"
   ],
   "downstream": [
-    "SONY",
-    "MSFT",
-    "AMZN",
-    "TSLA",
-    "DELL"
+    "DELL",
+    "HPQ",
+    "Lenovo",
+    "AAPL",
+    "TSLA"
   ],
   "competitors": [
     "AMD",
     "INTC",
     "QCOM",
-    "AAPL",
-    "005930.KS"
+    "AVGO",
+    "AAPL"
   ],
   "key_products": [
-    "GeForce GPUs",
+    "GeForce RTX GPUs",
     "Quadro GPUs",
     "Tesla GPUs",
-    "NVIDIA DRIVE SoC",
-    "CUDA API"
+    "Jetson SoCs",
+    "DGX AI systems"
   ],
-  "extracted_at": "2026-05-27 18:19:44",
+  "extracted_at": "2026-05-28 18:30:10",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://stocksandfuturestrading.com/the-complete-list-of-nvidias-suppliers-and-consumers/",
+      "url": "https://www.suppliersmap.com/nvidia",
       "query": "NVIDIA Corporation suppliers manufacturers",
-      "snippet": "Trading Resources The Complete List Of Nvidia's Suppliers And Consumers By Stocks & Futures Trading This is the most recently updated list but please "
+      "snippet": "Explore Nvidia 's complete supply chain with interactive visualizations showing supplier locations and component breakdowns across GeForce RTX and oth"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://geekbitz.com/where-are-nvidia-chips-made/",
+      "url": "https://csimarket.com/stocks/NVDA-Suppliers",
       "query": "NVIDIA Corporation suppliers manufacturers",
-      "snippet": "Discover where Nvidia chips are made through an in-depth look at the manufacturing facilities, fabrication partners, and global production locations o"
+      "snippet": "May 21, 2026 · Nvidia 's Comment on Supply Chain We utilize a fabless and contracting manufacturing strategy, whereby we employ and partner with key s"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/markets_glance.php?code=NVDA",
+      "url": "https://en.wikipedia.org/wiki/Nvidia",
       "query": "NVIDIA Corporation major customers clients",
-      "snippet": "5 days ago - Nvidia customers and markets, results by customer and performance relative to NVDA, by company and industry - CSIMarket"
+      "snippet": "Nvidia Corporation is an American multinational technology company headquartered in Santa Clara, California. Nvidia focuses its own resources on produ"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/news/nvidias-biggest-customers-095700428.html",
+      "url": "https://www.investing.com/equities/nvidia-corp",
       "query": "NVIDIA Corporation major customers clients",
-      "snippet": "June 26, 2025 - Nvidia has amassed an impressive list of customers, which includes top AI developers like Amazon, Microsoft, and Alphabet . Nvidia's c"
+      "snippet": "View today's NVIDIA Corporation stock price and latest NVDA news and analysis. Create real-time notifications to follow any changes in the live stock "
     }
   ]
 }

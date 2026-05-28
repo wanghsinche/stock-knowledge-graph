@@ -2,47 +2,47 @@
 ticker: RGTI
 company: Rigetti Computing, Inc.
 sector: Technology
-industry: Quantum Computing Hardware
-extracted_at: 2026-05-26 18:22:16
-last_updated: 2026-05-26
+industry: Computer Hardware
+extracted_at: 2026-05-28 18:41:22
+last_updated: 2026-05-28
 ---
 
 # RGTI - Rigetti Computing, Inc.
 
 ## 基本信息
 
-- **所属行业**: Technology / Quantum Computing Hardware
-- **提取时间**: 2026-05-26 18:22:16
+- **所属行业**: Technology / Computer Hardware
+- **提取时间**: 2026-05-28 18:41:22
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Oxford Instruments]]
-- [[Cryomech]]
-- [[QSC (Quantum Systems)]]
-- [[Superconducting Materials Inc.]]
-- [[Quantum Control Systems]]
+- [[Superconducting qubit component suppliers]]
+- [[Cryogenic equipment manufacturers]]
+- [[CAT]]
+- [[Materials suppliers for superconductors]]
+- [[Quantum chip design tool vendors]]
 
 ### 下游客户
-- [[University of California, Berkeley]]
-- [[University of Toronto]]
-- [[Massachusetts Institute of Technology (MIT)]]
-- [[National Aeronautics and Space Administration (NASA)]]
-- [[National Institute of Standards and Technology (NIST)]]
+- [[Horizon Quantum Computing]]
+- [[Fermilab]]
+- [[GOOGL]]
+- [[IBM]]
+- [[MSFT]]
 
 ### 竞争对手
-- [[D-Wave Systems]]
+- [[IBM]]
+- [[GOOGL]]
+- [[Honeywell Quantum Solutions]]
 - [[IonQ]]
-- [[Quantinuum (Honeywell Quantum Solutions)]]
 - [[Xanadu]]
-- [[Quantum Circuits Inc.]]
 
 ### 核心产品
+- [[Aspen-9 quantum processor]]
 - [[Aspen-10 quantum processor]]
-- [[Aspen-20 quantum processor]]
-- [[Forest quantum cloud platform]]
-- [[Quantum SDK]]
-- [[Quantum hardware development kit]]
+- [[Aspen-15 quantum processor]]
+- [[Rigetti Quantum Cloud Platform]]
+- [[Quantum SDK (Forest)]]
 
 ## 数据来源
 
@@ -50,8 +50,8 @@ last_updated: 2026-05-26
 - [Rigetti Computing, Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/Rigetti_Computing)
 - [Rigetti Computing, Inc. suppliers manufacturers](https://csimarket.com/stocks/suppliers_glance.php?code=RGTI)
 - [Rigetti Computing, Inc. major customers clients](https://en.wikipedia.org/wiki/Rigetti_Computing)
-- [Rigetti Computing, Inc. major customers clients](https://finance.yahoo.com/quote/RGTI/)
+- [Rigetti Computing, Inc. major customers clients](https://www.cbinsights.com/company/rigetti-computing/customers)
 
 ## 元数据
 
-- **更新日期**: 2026-05-26
+- **更新日期**: 2026-05-28

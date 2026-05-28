@@ -1,57 +1,39 @@
 ---
 ticker: IREN
 company: IREN Limited
-sector: Information Technology
-industry: IT Services
-extracted_at: 2026-05-27 18:24:54
-last_updated: 2026-05-27
+sector: Financial Services
+industry: Capital Markets
+extracted_at: 2026-05-28 18:38:10
+last_updated: 2026-05-28
 ---
 
 # IREN - IREN Limited
 
 ## 基本信息
 
-- **所属行业**: Information Technology / IT Services
-- **提取时间**: 2026-05-27 18:24:54
+- **所属行业**: Financial Services / Capital Markets
+- **提取时间**: 2026-05-28 18:38:10
 
 ## 产业链关系
 
 ### 上游供应商
-- [[DELL]]
-- [[MSFT]]
-- [[Cloud service providers (e.g., AWS, Azure)]]
-- [[CSCO]]
-- [[Security solutions providers (e.g., Palo Alto)]]
+_暂无数据_
 
 ### 下游客户
-- [[UK Government]]
-- [[Ministry of Defence]]
-- [[HM Revenue & Customs]]
-- [[Department for Work and Pensions]]
-- [[Other UK public sector agencies]]
+_暂无数据_
 
 ### 竞争对手
-- [[Capita]]
-- [[Accenture]]
-- [[IBM]]
-- [[DXC Technology]]
-- [[SAS]]
+_暂无数据_
 
 ### 核心产品
-- [[IT infrastructure management]]
-- [[Cloud computing services]]
-- [[Cybersecurity solutions]]
-- [[Application development and support]]
-- [[Data analytics and reporting]]
+_暂无数据_
 
 ## 数据来源
 
 - 
-- [IREN Limited suppliers manufacturers](https://www.investing.com/equities/iris-energy)
-- [IREN Limited suppliers manufacturers](https://ca.finance.yahoo.com/quote/IREN/)
-- [IREN Limited major customers clients](https://www.tradingview.com/symbols/NASDAQ-IREN/)
-- [IREN Limited major customers clients](https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lzeGU2YkVSRlF6M19TVFk3aEVTZ0FQAQ?hl=en-GH&gl=GH&ceid=GH:en)
+- [IREN Limited suppliers manufacturers](https://www.iren.com/)
+- [IREN Limited suppliers manufacturers](https://finance.yahoo.com/quote/IREN/profile/?fr=sycsrp_catchall)
 
 ## 元数据
 
-- **更新日期**: 2026-05-27
+- **更新日期**: 2026-05-28

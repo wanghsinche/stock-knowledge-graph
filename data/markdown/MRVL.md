@@ -3,8 +3,8 @@ ticker: MRVL
 company: Marvell Technology, Inc.
 sector: Technology
 industry: Semiconductors
-extracted_at: 2026-05-27 18:23:12
-last_updated: 2026-05-27
+extracted_at: 2026-05-28 18:31:16
+last_updated: 2026-05-28
 ---
 
 # MRVL - Marvell Technology, Inc.
@@ -12,46 +12,46 @@ last_updated: 2026-05-27
 ## 基本信息
 
 - **所属行业**: Technology / Semiconductors
-- **提取时间**: 2026-05-27 18:23:12
+- **提取时间**: 2026-05-28 18:31:16
 
 ## 产业链关系
 
 ### 上游供应商
-- [[TXN]]
-- [[ADI]]
-- [[NXP Semiconductors]]
-- [[QCOM]]
-- [[AVGO]]
+- [[TSM]]
+- [[005930.KS]]
+- [[GlobalFoundries]]
+- [[UMC]]
+- [[INTC]]
 
 ### 下游客户
-- [[AMZN]]
-- [[GOOGL]]
-- [[MSFT]]
 - [[AAPL]]
+- [[DELL]]
 - [[CSCO]]
+- [[Huawei Technologies]]
+- [[QCOM]]
 
 ### 竞争对手
 - [[AVGO]]
-- [[QCOM]]
-- [[NXP Semiconductors]]
 - [[INTC]]
-- [[AMD]]
+- [[NVDA]]
+- [[QCOM]]
+- [[TXN]]
 
 ### 核心产品
-- [[Network processors]]
-- [[Storage controllers]]
-- [[Wireless LAN chips]]
-- [[AI accelerators]]
-- [[Ethernet controllers]]
+- [[Storage controller chips]]
+- [[Ethernet and networking ASICs]]
+- [[Wi‑Fi and Bluetooth modules]]
+- [[5G modem solutions]]
+- [[Data center interconnect processors]]
 
 ## 数据来源
 
 - [Marvell Technology](https://en.wikipedia.org/wiki/Marvell_Technology,_Inc.)
 - [Marvell Technology, Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/Marvell_Technology)
 - [Marvell Technology, Inc. suppliers manufacturers](https://www.marvell.com/)
-- [Marvell Technology, Inc. major customers clients](https://www.marvell.com/)
-- [Marvell Technology, Inc. major customers clients](https://www.benzinga.com/news/24/04/38224114/marvell-tech-set-for-major-growth-with-ai-accelerators-for-amazon-google-and-potential-microsoft-dea)
+- [Marvell Technology, Inc. major customers clients](https://csimarket.com/stocks/MRVL-Customers)
+- [Marvell Technology, Inc. major customers clients](https://pestel-analysis.com/blogs/target-market/marvell)
 
 ## 元数据
 
-- **更新日期**: 2026-05-27
+- **更新日期**: 2026-05-28

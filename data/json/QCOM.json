@@ -4,34 +4,34 @@
   "sector": "Technology",
   "industry": "Semiconductors",
   "upstream": [
-    "Chipsets for network cards",
-    "Power supply units (PSUs)",
-    "Random‑access memory (RAM) modules",
-    "CAT",
-    "Electronic design automation (EDA) tools"
+    "TSM",
+    "005930.KS",
+    "GlobalFoundries",
+    "INTC",
+    "MU"
   ],
   "downstream": [
     "AAPL",
-    "Telecom equipment vendors (e.g., Ericsson, Nokia)",
-    "Enterprise networking equipment manufacturers",
-    "Automotive electronics suppliers",
-    "Consumer electronics brands"
+    "005930.KS",
+    "Huawei",
+    "GOOGL",
+    "Ericsson"
   ],
   "competitors": [
     "MediaTek",
-    "AVGO",
-    "NXP Semiconductors",
+    "005930.KS",
     "AAPL",
-    "005930.KS"
+    "AVGO",
+    "INTC"
   ],
   "key_products": [
-    "5G mobile modems",
-    "4G LTE modems",
-    "CDMA2000 and TD‑SCDMA chips",
-    "AI inference processors",
-    "Mobile application processors (Snapdragon)"
+    "Snapdragon mobile processors",
+    "5G modems",
+    "AI chips",
+    "RF front-end modules",
+    "Baseband processors"
   ],
-  "extracted_at": "2026-05-27 18:24:03",
+  "extracted_at": "2026-05-28 18:34:36",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/List_of_computer_hardware_manufacturers",
+      "url": "https://csimarket.com/stocks/QCOM-Suppliers",
       "query": "QUALCOMM Incorporated suppliers manufacturers",
-      "snippet": "24 Chipsets for network cards. 25 Power supply units (PSUs). 26 Random-access memory (RAM) modules.Current notable computer hardware manufacturers : C"
+      "snippet": "May 2, 2026 · Qualcomm Inc 's Comment on Supply Chain Our QCT segment purchases wafers, die and fully-assembled and tested integrated circuits from th"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://qualcomm.com/",
+      "url": "https://www.accio.com/supplier/qualcomm-manufacturer",
       "query": "QUALCOMM Incorporated suppliers manufacturers",
-      "snippet": "Director of product management, Qualcomm Technologies, Inc ."
+      "snippet": "May 16, 2026 · Need Qualcomm components? Discover verified manufacturers offering chips, wireless modules, and IoT solutions. Click to connect with su"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://finance.yahoo.com/quote/QCOM/",
+      "query": "QUALCOMM Incorporated major customers clients",
+      "snippet": "Find the latest QUALCOMM Incorporated (QCOM) stock quote, history, news and other vital information to help you with your stock trading and investing."
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.krbitget.com/stock/nasdaq-qcom/what-is",
       "query": "QUALCOMM Incorporated major customers clients",
       "snippet": "QUALCOMM Incorporated (QCOM) is a global leader in wireless technology and semiconductor innovation. Its core business includes the QCT segment (Snapd"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2ltMnNhTEVSRzJIU2Fkc19JMVdTZ0FQAQ?hl=en-NA&gl=NA&ceid=NA:en",
-      "query": "QUALCOMM Incorporated major customers clients",
-      "snippet": "Qualcomm Inc stock (US7475251036): AI smartphone boom and licensing engine under Wall Street’s spo. 2 days ago. Save for later."
     }
   ]
 }

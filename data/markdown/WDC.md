@@ -3,8 +3,8 @@ ticker: WDC
 company: Western Digital Corporation
 sector: Technology
 industry: Computer Hardware
-extracted_at: 2026-05-27 18:28:04
-last_updated: 2026-05-27
+extracted_at: 2026-05-28 18:38:44
+last_updated: 2026-05-28
 ---
 
 # WDC - Western Digital Corporation
@@ -12,37 +12,37 @@ last_updated: 2026-05-27
 ## 基本信息
 
 - **所属行业**: Technology / Computer Hardware
-- **提取时间**: 2026-05-27 18:28:04
+- **提取时间**: 2026-05-28 18:38:44
 
 ## 产业链关系
 
 ### 上游供应商
-- [[STX]]
+- [[MU]]
 - [[005930.KS]]
 - [[SK Hynix]]
-- [[MU]]
-- [[INTC]]
+- [[TSM]]
+- [[Nanya Technology]]
 
 ### 下游客户
-- [[AAPL]]
-- [[MSFT]]
-- [[AMZN]]
 - [[DELL]]
 - [[HPQ]]
+- [[Lenovo Group]]
+- [[AMZN]]
+- [[MSFT]]
 
 ### 竞争对手
 - [[STX]]
+- [[Kioxia (formerly Toshiba Memory)]]
 - [[005930.KS]]
 - [[MU]]
 - [[IBM]]
-- [[ORCL]]
 
 ### 核心产品
-- [[Hard Disk Drives (HDD)]]
-- [[Solid State Drives (SSD)]]
+- [[Hard Disk Drives (HDDs)]]
+- [[Solid State Drives (SSDs)]]
 - [[Enterprise Storage Solutions]]
+- [[External Storage Devices]]
 - [[Data Center Storage]]
-- [[Personal Storage Devices]]
 
 ## 数据来源
 
@@ -50,8 +50,8 @@ last_updated: 2026-05-27
 - [Western Digital Corporation suppliers manufacturers](https://en.wikipedia.org/wiki/Western_Digital)
 - [Western Digital Corporation suppliers manufacturers](https://ru.wikipedia.org/wiki/Western_Digital)
 - [Western Digital Corporation major customers clients](https://en.wikipedia.org/wiki/Western_Digital)
-- [Western Digital Corporation major customers clients](https://kalkine.com.au/report/western-digital-corporation/)
+- [Western Digital Corporation major customers clients](https://community.wd.com/)
 
 ## 元数据
 
-- **更新日期**: 2026-05-27
+- **更新日期**: 2026-05-28

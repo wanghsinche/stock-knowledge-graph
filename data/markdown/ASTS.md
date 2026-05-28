@@ -3,8 +3,8 @@ ticker: ASTS
 company: AST SpaceMobile, Inc.
 sector: Technology
 industry: Communication Equipment
-extracted_at: 2026-05-27 18:27:46
-last_updated: 2026-05-27
+extracted_at: 2026-05-28 18:39:39
+last_updated: 2026-05-28
 ---
 
 # ASTS - AST SpaceMobile, Inc.
@@ -12,46 +12,46 @@ last_updated: 2026-05-27
 ## 基本信息
 
 - **所属行业**: Technology / Communication Equipment
-- **提取时间**: 2026-05-27 18:27:46
+- **提取时间**: 2026-05-28 18:39:39
 
 ## 产业链关系
 
 ### 上游供应商
 - [[Satellite component manufacturers]]
 - [[Launch service providers]]
-- [[Ground station equipment suppliers]]
-- [[Antenna manufacturers]]
 - [[Electronics suppliers]]
+- [[Ground station equipment vendors]]
+- [[Software and firmware developers]]
 
 ### 下游客户
 - [[Mobile network operators]]
 - [[CAT]]
 - [[Government agencies]]
-- [[Enterprise customers]]
-- [[Internet service providers]]
+- [[Enterprise broadband customers]]
+- [[IoT service providers]]
 
 ### 竞争对手
 - [[SpaceX Starlink]]
 - [[OneWeb]]
 - [[AMZN]]
-- [[Telesat LEO]]
+- [[Telesat]]
 - [[CAT]]
 
 ### 核心产品
-- [[Satellite-based broadband network]]
-- [[Mobile satellite communication services]]
-- [[LEO satellite constellation]]
-- [[Satellite payloads]]
+- [[Low‑Earth‑orbit satellite constellation]]
+- [[Satellite‑based broadband terminals]]
 - [[Ground station infrastructure]]
+- [[Network management software]]
+- [[Integrated communication services]]
 
 ## 数据来源
 
 - 
 - [AST SpaceMobile, Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/AST_SpaceMobile)
-- [AST SpaceMobile, Inc. suppliers manufacturers](https://finance.yahoo.com/quote/ASTS/)
+- [AST SpaceMobile, Inc. suppliers manufacturers](https://ast-science.com/)
 - [AST SpaceMobile, Inc. major customers clients](https://en.wikipedia.org/wiki/AST_SpaceMobile)
-- [AST SpaceMobile, Inc. major customers clients](https://finviz.com/news/35605/ast-spacemobile-5-reasons-to-buy-this-tiny-trailblazer-stock)
+- [AST SpaceMobile, Inc. major customers clients](https://csimarket.com/stocks/ASTS-Customers)
 
 ## 元数据
 
-- **更新日期**: 2026-05-27
+- **更新日期**: 2026-05-28

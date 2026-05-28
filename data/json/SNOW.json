@@ -6,14 +6,16 @@
   "upstream": [
     "AMZN",
     "MSFT",
-    "GOOGL"
+    "GOOGL",
+    "Snowflake Data Marketplace",
+    "Snowflake Partner Ecosystem"
   ],
   "downstream": [
     "Capital One",
-    "ADBE",
     "SONY",
+    "ADBE",
     "eBay",
-    "Spotify"
+    "Target"
   ],
   "competitors": [
     "AMZN",
@@ -24,12 +26,12 @@
   ],
   "key_products": [
     "Snowflake Data Cloud",
-    "Snowflake Data Warehouse",
     "Snowflake Data Marketplace",
     "Snowflake Data Sharing",
-    "Snowflake Snowpark"
+    "Snowflake Snowpark",
+    "Snowflake Data Lake"
   ],
-  "extracted_at": "2026-05-26 18:28:03",
+  "extracted_at": "2026-05-28 18:31:56",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,25 +43,25 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Snowflake_Inc.",
       "query": "Snowflake Inc. suppliers manufacturers",
-      "snippet": "Snowflake Inc . is an American cloud-based data platform company founded in San Mateo, California, and headquartered in Menlo Park."
+      "snippet": "Snowflake Inc . was founded in July 2012 in San Mateo, California, by Benoît Dageville, Thierry Cruanes, and Marcin Żukowski. Dageville and Cruanes pr"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.snowflake.com/",
+      "url": "https://www.nasdaq.com/press-release/snowflake-launches-manufacturing-data-cloud-to-improve-supply-chain-performance-and",
       "query": "Snowflake Inc. suppliers manufacturers",
-      "snippet": "Snowflake powers AI, data engineering, applications, and analytics on a trusted, scalable AI Data Cloud—eliminating silos and accelerating innovation."
+      "snippet": "Apr 13, 2023 · The Manufacturing Data Cloud empowers manufacturers to collaborate with partners, suppliers , and customers to improve supply chain per"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Snowflake_Inc.",
       "query": "Snowflake Inc. major customers clients",
-      "snippet": "Snowflake Inc . is an American cloud-based data platform company founded in San Mateo, California, and headquartered in Menlo Park. It operates a plat"
+      "snippet": "Snowflake Inc . is an American cloud-based data storage company that was headquartered in Bozeman, Montana. It operates a platform that allows for dat"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.statista.com/statistics/1328548/snowflake-inc-quarterly-number-of-forbes-global-2000-customers/",
+      "url": "https://www.snowflake.com/",
       "query": "Snowflake Inc. major customers clients",
-      "snippet": "The data cloud firm Snowflake reported that *** of its customers were listed on the Forbes Global 2000 as of the company's second fiscal quarter of 20"
+      "snippet": "Snowflake enables organizations to collaborate, build AI-powered data apps, and unlock data insights—all within a secure and scalable AI Data Cloud."
     }
   ]
 }

@@ -1,37 +1,37 @@
 {
   "ticker": "AMZN",
   "company_name": "Amazon.com, Inc.",
-  "sector": "Consumer Cyclical",
+  "sector": "Consumer Cyclical / Internet Retail",
   "industry": "Internet Retail",
   "upstream": [
-    "005930.KS",
     "AAPL",
-    "SONY",
+    "005930.KS",
     "Nike, Inc.",
-    "Adidas AG"
+    "SONY",
+    "H&M"
   ],
   "downstream": [
-    "Consumers worldwide",
-    "Small and medium businesses",
-    "Enterprise customers (AWS)",
-    "AMZN",
-    "Third‑party vendors"
+    "NFLX",
+    "Airbnb",
+    "Spotify",
+    "ADBE",
+    "Capital One"
   ],
   "competitors": [
     "Walmart Inc.",
-    "Alibaba Group Holding Ltd.",
+    "Alibaba Group",
     "eBay Inc.",
-    "Shopify Inc.",
-    "Target Corp."
+    "Target Corp.",
+    "Shopify Inc."
   ],
   "key_products": [
-    "Amazon.com e‑commerce platform",
+    "Amazon.com e-commerce platform",
     "Amazon Web Services (AWS)",
-    "Amazon Prime subscription",
-    "Amazon Echo / Alexa devices",
-    "Amazon Kindle e‑readers"
+    "Amazon Prime Video",
+    "Amazon Echo (Alexa)",
+    "Amazon Kindle"
   ],
-  "extracted_at": "2026-05-27 18:22:51",
+  "extracted_at": "2026-05-28 18:32:24",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.alibaba.com/",
+      "url": "https://supply.amazon.com/",
       "query": "Amazon.com, Inc. suppliers manufacturers",
-      "snippet": "Find quality Manufacturers , Suppliers , Exporters, Importers, Buyers, Wholesalers, Products and Trade Leads from our award-winning International Trad"
+      "snippet": "Join Amazon' s global network of suppliers to be considered for opportunities to sell Amazon the goods and services necessary to support our retail an"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ir.aboutamazon.com/",
+      "url": "https://bigframe.net/who-are-amazons-main-suppliers/",
       "query": "Amazon.com, Inc. suppliers manufacturers",
-      "snippet": "Amazon . com Announces Fourth Quarter Results. Amazon . com , Inc . (NASDAQ: AMZN) today announced financial results for its fourth quarter ended Dece"
+      "snippet": "Oct 6, 2023 · These suppliers range from small businesses to multinational corporations, each playing a crucial role in Amazon’s supply chain. This ar"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ir.aboutamazon.com/",
+      "url": "https://en.wikipedia.org/wiki/Amazon_(company)",
       "query": "Amazon.com, Inc. major customers clients",
-      "snippet": "Amazon . com Announces Fourth Quarter Results. Amazon . com , Inc . (NASDAQ: AMZN) today announced financial results for its fourth quarter ended Dece"
+      "snippet": "Amazon Logistics, in which Amazon contracts with small businesses (which it calls \"Delivery Service Partners\") to perform deliveries to customers . Ea"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.thestreet.com/employment/amazon-ceo-gives-employees-a-harsh-wake-up-call",
+      "url": "https://aws.amazon.com/about-aws/our-customers-and-partners/",
       "query": "Amazon.com, Inc. major customers clients",
-      "snippet": "Kohl’s CEO tells customers major revamp is on the way.Jassy’s comments come after Amazon laid off dozens of people in its communications department in"
+      "snippet": "Every day, our customers and partners around use AWS to launch new businesses, reinvent themselves and their industries, serve their communities more "
     }
   ]
 }
