@@ -3,11 +3,35 @@
   "company_name": "Palo Alto Networks, Inc.",
   "sector": "Technology",
   "industry": "Software - Infrastructure",
-  "upstream": [],
-  "downstream": [],
-  "competitors": [],
-  "key_products": [],
-  "extracted_at": "2026-05-20 18:18:16",
+  "upstream": [
+    "INTC",
+    "AMD",
+    "NVDA",
+    "AVGO",
+    "QCOM"
+  ],
+  "downstream": [
+    "Bank of America",
+    "JPMorgan Chase",
+    "Walmart",
+    "AT&T",
+    "Verizon"
+  ],
+  "competitors": [
+    "CSCO",
+    "Fortinet",
+    "Check Point",
+    "JNPR",
+    "Palo Alto Networks"
+  ],
+  "key_products": [
+    "Next-Generation Firewall",
+    "Panorama",
+    "WildFire",
+    "Cortex XDR",
+    "Prisma Cloud"
+  ],
+  "extracted_at": "2026-05-29 18:39:34",
   "sources": [
     {
       "source": "Wikipedia",
@@ -17,15 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://paloaltonetworks.my.site.com/NextWavePartnerProgram/s/partnerlocator",
+      "url": "https://ru.wikipedia.org/wiki/Palo_Alto_Networks",
       "query": "Palo Alto Networks, Inc. suppliers manufacturers",
-      "snippet": "Find a Partner Reseller Resell and integrate Palo Alto Networks products and services to create solutions that deliver positive security outcomes for "
+      "snippet": "Palo Alto Networks , Inc . — американская компания, оказывающая услуги в области информационной безопасности. Головной офис компании расположен в Сант"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.linkedin.com/posts/shreyas-cholachgud_inside-palo-alto-networks-the-key-companies-activity-7299791184602808321-MaWo",
+      "url": "https://www.paloaltonetworks.com/",
       "query": "Palo Alto Networks, Inc. suppliers manufacturers",
-      "snippet": "Palo Alto Networks relies on several third-party companies for manufacturing its hardware appliances, processors, and other components."
+      "snippet": "FrostRadar™ names Palo Alto Networks a CNAPP Leader. Overall leader : 2024 Leadership Compass: Security Orchestration, Automation and Response. Kuppin"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/Palo_Alto_Networks",
+      "query": "Palo Alto Networks, Inc. major customers clients",
+      "snippet": "Palo Alto Networks , Inc . is an American multinational cybersecurity company with headquarters in Santa Clara, California. The core product is a plat"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.paloaltonetworks.com/",
+      "query": "Palo Alto Networks, Inc. major customers clients",
+      "snippet": "Palo Alto Networks : Cloud Security Leader in First-Ever CNAPP ReportFrostRadar™ names Palo Alto Networks a CNAPP LeaderOverall leader : 2024 Leadersh"
     }
   ]
 }

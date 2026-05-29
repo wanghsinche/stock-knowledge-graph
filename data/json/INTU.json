@@ -6,31 +6,32 @@
   "upstream": [
     "AMZN",
     "MSFT",
-    "INTC",
-    "ADBE",
-    "ORCL"
+    "GOOGL",
+    "AAPL",
+    "DELL"
   ],
   "downstream": [
-    "Small business owners",
+    "Small and medium-sized enterprises (SMEs)",
     "Individual taxpayers",
-    "Credit Karma users",
-    "Mailchimp clients",
-    "Freelancers"
+    "Certified public accountants (CPAs)",
+    "Tax preparers",
+    "Financial advisors"
   ],
   "competitors": [
     "H&R Block",
+    "TaxAct",
     "Xero",
-    "Credit Sesame",
-    "Constant Contact",
-    "Sage"
+    "Sage",
+    "FreshBooks"
   ],
   "key_products": [
     "TurboTax",
     "QuickBooks",
     "Credit Karma",
-    "Mailchimp"
+    "Mailchimp",
+    "QuickBooks Online"
   ],
-  "extracted_at": "2026-05-28 18:42:57",
+  "extracted_at": "2026-05-29 18:42:09",
   "sources": [
     {
       "source": "Wikipedia",
@@ -46,21 +47,21 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://markets.ft.com/data/equities/tearsheet/profile?s=INTU:NSQ",
+      "url": "https://www.case48.com/porter-case/1643-Intuit-Inc",
       "query": "Intuit Inc. suppliers manufacturers",
-      "snippet": "Intuit Inc (INTU:NSQ) company profile with history, revenue, mergers & acquisitions, peer analysis, institutional shareholders and more."
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.bbb.org/us/ca/mountain-view/profile/tax-software/intuit-inc-1216-202832/customer-reviews?page=52",
-      "query": "Intuit Inc. major customers clients",
-      "snippet": "View BBB customer reviews of Intuit , Inc .. Leave a review and share your experience with the BBB and Intuit , Inc ..This profile includes reviews fo"
+      "snippet": "Suppliers are not concentrated Intuit Inc is highly price sensitive and has adequate market knowledge"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.linkedin.com/company/intuit",
       "query": "Intuit Inc. major customers clients",
-      "snippet": "About us. Intuit is a global technology platform that helps our customers and communities overcome their most important financial challenges. Serving "
+      "snippet": "Intuit is a global technology platform that helps our customers and communities overcome their most important financial challenges."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://myparticipants.medium.com/how-the-follow-me-home-research-approach-helped-intuit-build-a-billion-dollar-customer-centric-e7e8d9e3a317",
+      "query": "Intuit Inc. major customers clients",
+      "snippet": "Press enter or click to view image in full size. Participants giving their feedback in one of the user research studies. Intuit ’s “Follow Me Home” ap"
     }
   ]
 }

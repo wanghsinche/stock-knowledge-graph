@@ -1,37 +1,37 @@
 {
   "ticker": "MSTR",
-  "company_name": "Strategy Inc",
+  "company_name": "MicroStrategy Incorporated",
   "sector": "Technology",
-  "industry": "Software - Application",
+  "industry": "Software—Application",
   "upstream": [
-    "Hardware manufacturers",
-    "Cloud service providers",
-    "Data vendors",
-    "Software component suppliers",
-    "IT infrastructure providers"
+    "DELL",
+    "Cloud service providers (e.g., AWS, Azure)",
+    "Data storage vendors (e.g., NetApp)",
+    "ORCL",
+    "CSCO"
   ],
   "downstream": [
-    "Healthcare organizations",
-    "Financial services firms",
-    "Retail companies",
-    "Government agencies",
-    "Manufacturing firms"
+    "Financial services firms (e.g., JPMorgan Chase)",
+    "Retail giants (e.g., Walmart)",
+    "Manufacturing companies (e.g., General Electric)",
+    "Healthcare organizations (e.g., Mayo Clinic)",
+    "Government agencies (e.g., U.S. Department of Defense)"
   ],
   "competitors": [
     "SAP SE",
     "IBM",
     "ORCL",
     "MSFT",
-    "Tableau"
+    "Tableau Software"
   ],
   "key_products": [
-    "MicroStrategy Analytics Platform",
-    "Mobile BI Apps",
-    "Data Visualization Tools",
-    "Enterprise Data Management",
-    "Cloud Analytics Services"
+    "MicroStrategy Desktop",
+    "MicroStrategy Cloud",
+    "MicroStrategy Mobile",
+    "MicroStrategy Analytics",
+    "MicroStrategy Data Warehouse"
   ],
-  "extracted_at": "2026-05-28 18:39:56",
+  "extracted_at": "2026-05-29 18:38:29",
   "sources": [
     {
       "source": "Wikipedia",
@@ -53,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/MicroStrategy",
+      "url": "https://finance.yahoo.com/quote/MSTR/",
       "query": "Strategy Inc major customers clients",
-      "snippet": "Strategy has launched four credit instruments in the second and third quarter of 2025 worth $4 billion, with more to come. Michael Saylor told Bloombe"
+      "snippet": "Find the latest Strategy Inc (MSTR) stock quote, history, news and other vital information to help you with your stock trading and investing."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.strategy.com/software/customer-stories",
+      "url": "https://www.marketwatch.com/investing/stock/mstr",
       "query": "Strategy Inc major customers clients",
-      "snippet": "Dive into Strategy customer stories highlighting the impact of Analytics in Healthcare, Financial Services, Call Centers, Retail, Insurance, and Gover"
+      "snippet": "MSTR | Complete Strategy Inc . stock news by MarketWatch. View real-time stock prices and stock quotes for a full financial overview."
     }
   ]
 }

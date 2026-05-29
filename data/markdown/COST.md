@@ -1,57 +1,57 @@
 ---
 ticker: COST
 company: Costco Wholesale Corporation
-sector: Consumer Defensive / Discount Stores
+sector: Consumer Defensive
 industry: Discount Stores
-extracted_at: 2026-05-26 18:24:57
-last_updated: 2026-05-26
+extracted_at: 2026-05-29 18:33:47
+last_updated: 2026-05-29
 ---
 
 # COST - Costco Wholesale Corporation
 
 ## 基本信息
 
-- **所属行业**: Consumer Defensive / Discount Stores / Discount Stores
-- **提取时间**: 2026-05-26 18:24:57
+- **所属行业**: Consumer Defensive / Discount Stores
+- **提取时间**: 2026-05-29 18:33:47
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Food manufacturers]]
-- [[Electronics manufacturers]]
-- [[Apparel manufacturers]]
-- [[Furniture manufacturers]]
-- [[Household goods manufacturers]]
+- [[Tyson Foods]]
+- [[Cargill]]
+- [[Hormel Foods]]
+- [[Nestlé]]
+- [[PepsiCo]]
 
 ### 下游客户
-- [[Individual consumers]]
-- [[Small businesses]]
-- [[Restaurants]]
-- [[Hotels]]
-- [[CAT]]
+- [[U.S. consumers]]
+- [[Canadian consumers]]
+- [[U.S. households]]
+- [[Canadian households]]
+- [[Corporate bulk buyers]]
 
 ### 竞争对手
+- [[Walmart]]
+- [[Target]]
 - [[Sam's Club]]
 - [[BJ's Wholesale Club]]
-- [[Walmart]]
 - [[AMZN]]
-- [[Target]]
 
 ### 核心产品
-- [[Groceries]]
+- [[Bulk groceries (beef, poultry, organic produce)]]
+- [[Wine and spirits]]
 - [[Electronics]]
-- [[Furniture]]
-- [[Clothing]]
 - [[Household goods]]
+- [[Apparel and footwear]]
 
 ## 数据来源
 
-- 
+- [Costco](https://en.wikipedia.org/wiki/Costco_Wholesale_Corporation)
 - [Costco Wholesale Corporation suppliers manufacturers](https://en.wikipedia.org/wiki/Costco)
-- [Costco Wholesale Corporation suppliers manufacturers](https://panjiva.com/Manufacturers-Of/costco+wholesale+corporation)
+- [Costco Wholesale Corporation suppliers manufacturers](https://www.costco.com/)
 - [Costco Wholesale Corporation major customers clients](https://en.wikipedia.org/wiki/Costco)
 - [Costco Wholesale Corporation major customers clients](https://www.linkedin.com/company/costco-wholesale)
 
 ## 元数据
 
-- **更新日期**: 2026-05-26
+- **更新日期**: 2026-05-29

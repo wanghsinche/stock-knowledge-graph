@@ -6,32 +6,30 @@
   "upstream": [
     "AMZN",
     "MSFT",
-    "GOOGL",
-    "Snowflake Data Marketplace",
-    "Snowflake Partner Ecosystem"
+    "GOOGL"
   ],
   "downstream": [
     "Capital One",
     "SONY",
-    "ADBE",
     "eBay",
-    "Target"
+    "ADBE",
+    "NFLX"
   ],
   "competitors": [
+    "Databricks",
     "AMZN",
     "GOOGL",
     "MSFT",
-    "Databricks",
     "Teradata"
   ],
   "key_products": [
     "Snowflake Data Cloud",
+    "Snowflake Data Warehouse",
     "Snowflake Data Marketplace",
     "Snowflake Data Sharing",
-    "Snowflake Snowpark",
-    "Snowflake Data Lake"
+    "Snowflake Data Engineering"
   ],
-  "extracted_at": "2026-05-28 18:31:56",
+  "extracted_at": "2026-05-29 18:34:02",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,13 +41,13 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Snowflake_Inc.",
       "query": "Snowflake Inc. suppliers manufacturers",
-      "snippet": "Snowflake Inc . was founded in July 2012 in San Mateo, California, by Benoît Dageville, Thierry Cruanes, and Marcin Żukowski. Dageville and Cruanes pr"
+      "snippet": "Snowflake Inc . is an American cloud-based data storage company that was headquartered in Bozeman, Montana. It operates a platform that allows for dat"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.nasdaq.com/press-release/snowflake-launches-manufacturing-data-cloud-to-improve-supply-chain-performance-and",
+      "url": "https://www.snowflake.com/",
       "query": "Snowflake Inc. suppliers manufacturers",
-      "snippet": "Apr 13, 2023 · The Manufacturing Data Cloud empowers manufacturers to collaborate with partners, suppliers , and customers to improve supply chain per"
+      "snippet": "Snowflake powers AI, data engineering, applications, and analytics on a trusted, scalable AI Data Cloud—eliminating silos and accelerating innovation."
     },
     {
       "source": "DuckDuckGo",

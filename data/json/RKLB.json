@@ -3,11 +3,34 @@
   "company_name": "Rocket Lab Corporation",
   "sector": "Industrials",
   "industry": "Aerospace & Defense",
-  "upstream": [],
-  "downstream": [],
-  "competitors": [],
-  "key_products": [],
-  "extracted_at": "2026-05-28 18:37:51",
+  "upstream": [
+    "Star tracker manufacturers",
+    "Reaction wheel suppliers",
+    "Solar panel producers",
+    "Electric propulsion system vendors",
+    "Software‑defined radio manufacturers"
+  ],
+  "downstream": [
+    "Small satellite operators (e.g., Planet, Spire)",
+    "Government space agencies (NASA, ESA, DoD)",
+    "Commercial satellite operators",
+    "Research institutions",
+    "Space technology startups"
+  ],
+  "competitors": [
+    "SpaceX",
+    "Blue Origin",
+    "United Launch Alliance",
+    "Arianespace",
+    "Firefly Aerospace"
+  ],
+  "key_products": [
+    "Electron orbital launch vehicle",
+    "HASTE sub‑orbital testbed",
+    "Neutron medium‑lift launch vehicle (in development)",
+    "Satellite components (star trackers, reaction wheels, solar panels, electric propulsion, software‑defined radios, composite structures, separation systems)"
+  ],
+  "extracted_at": "2026-05-29 18:34:55",
   "sources": [
     {
       "source": "Wikipedia",
@@ -26,6 +49,18 @@
       "url": "https://finance.yahoo.com/quote/RKLB/",
       "query": "Rocket Lab Corporation suppliers manufacturers",
       "snippet": "Find the latest Rocket Lab Corporation (RKLB) stock quote, history, news and other vital information to help you with your stock trading and investing"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://finance.yahoo.com/quote/RKLB/",
+      "query": "Rocket Lab Corporation major customers clients",
+      "snippet": "Find the latest Rocket Lab Corporation (RKLB) stock quote, history, news and other vital information to help you with your stock trading and investing"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://rocketlabcorp.com/",
+      "query": "Rocket Lab Corporation major customers clients",
+      "snippet": "Cumulative Years In Space For Rocket Lab Satellite Technology. From Idea To Orbit. Rocket Lab is an end-to-end space company delivering reliable launc"
     }
   ]
 }

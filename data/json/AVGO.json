@@ -1,43 +1,43 @@
 {
   "ticker": "AVGO",
   "company_name": "Broadcom Inc.",
-  "sector": "Technology",
-  "industry": "Semiconductors",
+  "sector": "Technology / Semiconductors",
+  "industry": "Semiconductor",
   "upstream": [
     "TSM",
     "005930.KS",
     "GlobalFoundries",
-    "ASML",
-    "AMAT"
+    "INTC",
+    "MU"
   ],
   "downstream": [
-    "AAPL",
     "CSCO",
-    "QCOM",
-    "Huawei",
-    "DELL"
+    "DELL",
+    "HPQ",
+    "AMZN",
+    "MSFT"
   ],
   "competitors": [
     "QCOM",
     "INTC",
-    "MediaTek",
+    "NVDA",
     "TXN",
     "MRVL"
   ],
   "key_products": [
     "Wi‑Fi and Bluetooth chips",
     "Ethernet controllers",
-    "Broadband modems",
-    "RF and RFICs",
-    "Enterprise networking solutions"
+    "Broadband modem chips",
+    "Storage controller chips",
+    "RF and wireless chips"
   ],
-  "extracted_at": "2026-05-28 18:33:04",
+  "extracted_at": "2026-05-29 18:30:09",
   "sources": [
     {
       "source": "Wikipedia",
-      "url": "",
-      "title": "",
-      "snippet": ""
+      "url": "https://en.wikipedia.org/wiki/Broadcom_Inc.",
+      "title": "Broadcom",
+      "snippet": "Broadcom Inc. is an American multinational designer, developer, manufacturer, and global supplier of a wide range of semiconductor and infrastructure software products. Broadcom's product offerings se"
     },
     {
       "source": "DuckDuckGo",
@@ -49,7 +49,7 @@
       "source": "DuckDuckGo",
       "url": "https://csimarket.com/stocks/AVGO-Suppliers",
       "query": "Broadcom Inc. suppliers manufacturers",
-      "snippet": "Broadcom Inc supply chain, list and performance of Broadcom Incs ' suppliers - CSIMarket."
+      "snippet": "Broadcom Inc supply chain, list and performance of Broadcom Incs ' suppliers - CSIMarket.We could experience significant delays in product shipments i"
     },
     {
       "source": "DuckDuckGo",
@@ -59,9 +59,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.broadcom.com/",
+      "url": "https://www.broadcom.com/support",
       "query": "Broadcom Inc. major customers clients",
-      "snippet": "Broadcom delivers semiconductors and infrastructure software for global enterprises’ most complex, mission-critical needs."
+      "snippet": "Access Broadcom 's Customer Support Portal to obtain warranty information, find documentation and downloads, and answer other questions you might have"
     }
   ]
 }

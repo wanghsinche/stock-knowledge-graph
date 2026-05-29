@@ -1,37 +1,37 @@
 {
   "ticker": "CRWD",
   "company_name": "CrowdStrike Holdings, Inc.",
-  "sector": "Technology / Software - Infrastructure",
+  "sector": "Technology",
   "industry": "Cybersecurity",
   "upstream": [
     "MSFT",
-    "Linux",
-    "AWS",
-    "Azure",
-    "INTC"
-  ],
-  "downstream": [
-    "MSFT",
     "AMZN",
     "GOOGL",
+    "INTC",
+    "CSCO"
+  ],
+  "downstream": [
+    "U.S. Department of Defense",
     "Bank of America",
-    "Citigroup"
+    "Walmart",
+    "MSFT",
+    "General Electric"
   ],
   "competitors": [
-    "Symantec",
-    "McAfee",
     "Palo Alto Networks",
     "SentinelOne",
-    "Sophos"
+    "Fortinet",
+    "Check Point Software",
+    "CSCO"
   ],
   "key_products": [
-    "Falcon Endpoint Protection",
-    "Falcon Threat Intelligence",
-    "Falcon Response",
-    "Falcon Discover",
-    "Falcon Platform"
+    "CrowdStrike Falcon Platform",
+    "Falcon Prevent",
+    "Falcon Insight",
+    "Falcon OverWatch",
+    "Falcon X"
   ],
-  "extracted_at": "2026-05-27 18:34:11",
+  "extracted_at": "2026-05-29 18:37:50",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,25 +43,25 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/CrowdStrike",
       "query": "CrowdStrike Holdings, Inc. suppliers manufacturers",
-      "snippet": "CrowdStrike Holdings , Inc . is an American cybersecurity technology company based in Austin, Texas. It provides endpoint security, threat intelligenc"
+      "snippet": "For the widespread IT system outage in July 2024, see 2024 CrowdStrike -related IT outages. CrowdStrike Holdings , Inc . CrowdStrike Holdings , Inc . "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/CRWD/",
+      "url": "https://www.tradingview.com/symbols/NASDAQ-CRWD/",
       "query": "CrowdStrike Holdings, Inc. suppliers manufacturers",
-      "snippet": "Find the latest CrowdStrike Holdings , Inc . (CRWD) stock quote, history, news and other vital information to help you with your stock trading and inv"
+      "snippet": "View live CrowdStrike Holdings , Inc . chart to track its stock's price action. Find market predictions, CRWD financials and market news."
     },
     {
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/CrowdStrike",
       "query": "CrowdStrike Holdings, Inc. major customers clients",
-      "snippet": "CrowdStrike Holdings , Inc . is an American cybersecurity technology company based in Austin, Texas. It provides endpoint security, threat intelligenc"
+      "snippet": "For the widespread IT system outage in July 2024, see 2024 CrowdStrike -related IT outages. CrowdStrike Holdings , Inc . CrowdStrike Holdings , Inc . "
     },
     {
       "source": "DuckDuckGo",
       "url": "https://au.finance.yahoo.com/news/analyst-crowdstrike-holdings-crwd-customers-172748552.html",
       "query": "CrowdStrike Holdings, Inc. major customers clients",
-      "snippet": "In this article, we are going to take a look at where Crowdstrike Holdings Inc (NASDAQ:CRWD) stands against other top AI stocks that should be On your"
+      "snippet": "“A non-benchmark stake in CrowdStrike Holdings , Inc . (NASDAQ:CRWD) (-40%) was the biggest detractor among individual stocks. The shares of this cybe"
     }
   ]
 }

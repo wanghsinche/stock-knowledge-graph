@@ -4,11 +4,11 @@
   "sector": "Technology",
   "industry": "Semiconductors",
   "upstream": [
-    "ASML",
-    "AMAT",
-    "LRCX",
-    "Tokyo Electron",
-    "KLA"
+    "TSM",
+    "005930.KS",
+    "GlobalFoundries",
+    "ASE Technology Holding",
+    "Amkor Technology"
   ],
   "downstream": [
     "DELL",
@@ -22,16 +22,16 @@
     "NVDA",
     "QCOM",
     "AVGO",
-    "TSM"
+    "005930.KS"
   ],
   "key_products": [
-    "Intel Core CPUs",
-    "Intel Xeon CPUs",
+    "Intel Core processors",
+    "Intel Xeon processors",
     "Intel Arc GPUs",
-    "Intel Optane Memory",
-    "Intel Ethernet Controllers"
+    "Intel FPGAs",
+    "Intel Optane memory"
   ],
-  "extracted_at": "2026-05-28 18:31:41",
+  "extracted_at": "2026-05-29 18:28:39",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,15 +41,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/List_of_Intel_manufacturing_sites",
+      "url": "https://en.wikipedia.org/wiki/Intel",
       "query": "Intel Corporation suppliers manufacturers",
-      "snippet": "Intel is an American multinational corporation and technology company headquartered in Santa Clara, California. Processors are manufactured in semicon"
+      "snippet": "Intel Corporation is an American multinational technology company headquartered in Santa Clara, California. It designs, manufactures , and sells compu"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.intel.com/content/www/us/en/supplier/overview.html",
+      "url": "https://finance.yahoo.com/quote/INTC/",
       "query": "Intel Corporation suppliers manufacturers",
-      "snippet": "Enter here for the most current announcements, guides, forms, information on technology, accounts payable, and training to effectively work as an Inte"
+      "snippet": "Find the latest Intel Corporation (INTC) stock quote, history, news and other vital information to help you with your stock trading and investing."
     },
     {
       "source": "DuckDuckGo",

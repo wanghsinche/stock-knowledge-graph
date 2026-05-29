@@ -1,37 +1,37 @@
 {
   "ticker": "F",
   "company_name": "Ford Motor Company",
-  "sector": "Consumer Cyclical / Auto Manufacturers",
+  "sector": "Consumer Cyclical",
   "industry": "Auto Manufacturers",
   "upstream": [
     "Bosch",
-    "Magna International",
     "Denso",
+    "Magna International",
     "ZF Friedrichshafen",
     "Continental AG"
   ],
   "downstream": [
-    "U.S. Department of Defense",
-    "AMZN",
-    "Walmart (fleet vehicles)",
-    "General Motors (fleet leasing)",
-    "Commercial fleet operators"
+    "Commercial fleet operators",
+    "Government agencies",
+    "Individual consumers",
+    "Rental car companies",
+    "Commercial truck fleets"
   ],
   "competitors": [
     "General Motors",
     "Toyota Motor Corporation",
     "Honda Motor Co.",
-    "Nissan Motor Co.",
-    "TSLA"
+    "TSLA",
+    "Nissan Motor Co."
   ],
   "key_products": [
-    "Ford F-Series trucks",
+    "Ford F‑Series trucks",
     "Ford Mustang",
     "Ford Explorer",
     "Ford Transit",
     "Lincoln Continental"
   ],
-  "extracted_at": "2026-05-14 17:46:22",
+  "extracted_at": "2026-05-29 18:40:06",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,25 +43,25 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Ford_Motor_Company",
       "query": "Ford Motor Company suppliers manufacturers",
-      "snippet": "The Ford Motor Company (commonly known as Ford , sometimes abbreviated as FoMoCo) is an American multinational automobile manufacturer headquartered i"
+      "snippet": "Ford Motor Company (commonly known as Ford ) is an American multinational automobile manufacturer headquartered in Dearborn, Michigan, United States. "
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.linkedin.com/company/ford-motor-company",
       "query": "Ford Motor Company suppliers manufacturers",
-      "snippet": "Ford Motor Company | 4,414,768 followers on LinkedIn.We’ve broken down traditional silos: we have designers, engineers, supply chain experts, and manu"
+      "snippet": "Ford Motor Company | 4,419,192 followers on LinkedIn. We don't just make history -- we make the future. Ford put the world on wheels over a century ag"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Henry_Ford",
       "query": "Ford Motor Company major customers clients",
-      "snippet": "He founded the Ford Motor Company in 1903 after prior failures in business, but was successful in constructing automobiles. The introduction of the Fo"
+      "snippet": "Henry Ford (July 30, 1863 – April 7, 1947) was an American industrialist and business magnate. As the founder of the Ford Motor Company , he is credit"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.linkedin.com/company/ford-motor-company",
+      "url": "https://www.youtube.com/channel/UCKA96UxTdgFBwGZMGZ-135w",
       "query": "Ford Motor Company major customers clients",
-      "snippet": "Ford Motor Company | 4,414,768 followers on LinkedIn.We believe in serving our customers , our communities, and the world. If you do, too, come move t"
+      "snippet": "#READYSETFORD The official YouTube channel for Ford Motor Company . Subscribe for weekly videos showcasing our vehicles, innovation and stories that i"
     }
   ]
 }

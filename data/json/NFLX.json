@@ -4,34 +4,34 @@
   "sector": "Communication Services",
   "industry": "Entertainment",
   "upstream": [
+    "Film and television production studios",
+    "Independent content creators",
+    "Video distributors and licensing agencies",
     "AMZN",
-    "GOOGL",
-    "MSFT",
-    "Disney",
-    "Warner Bros."
+    "Internet service providers"
   ],
   "downstream": [
-    "Individual subscribers worldwide",
-    "NFLX",
-    "AAPL",
-    "Smart TV platforms",
-    "Mobile app users"
+    "Individual household subscribers",
+    "Corporate and institutional accounts",
+    "Smart TV and streaming device users",
+    "Mobile and tablet users",
+    "International streaming markets"
   ],
   "competitors": [
     "Disney+",
-    "HBO Max",
     "AMZN",
     "Hulu",
+    "HBO Max",
     "AAPL"
   ],
   "key_products": [
-    "Streaming video-on-demand service",
-    "Original programming (e.g., Stranger Things, The Crown)",
-    "Licensed third‑party content",
+    "Netflix streaming service (OTT platform)",
+    "Original scripted and unscripted series",
+    "Feature films and documentaries",
     "Mobile and web applications",
-    "Smart TV and console apps"
+    "Smart TV and streaming device apps"
   ],
-  "extracted_at": "2026-05-28 18:38:26",
+  "extracted_at": "2026-05-29 18:41:12",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://npfp.netflixstudios.com/",
-      "query": "Netflix, Inc. suppliers manufacturers",
-      "snippet": "The Netflix Preferred Fulfillment Partner (NPFP) program represents a worldwide network of elite media fulfillment companies . After meeting strict st"
-    },
-    {
-      "source": "DuckDuckGo",
       "url": "https://csimarket.com/stocks/NFLX-Suppliers",
       "query": "Netflix, Inc. suppliers manufacturers",
-      "snippet": "Apr 24, 2026 · Netflix Inc supply chain, list and performance of Netflix Incs ' suppliers - CSIMarket"
+      "snippet": "Netflix Inc supply chain, list and performance of Netflix Incs ' suppliers - CSIMarket."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/NFLX-Customers",
-      "query": "Netflix, Inc. major customers clients",
-      "snippet": "May 18, 2026 · Focus of this report: Netflix Inc ’ s corporate clients . For your research, we’ve provided 9 tables on Netflix Inc corporate clients ."
+      "url": "https://porteranalysis.com/porters-five-forces-of-netflix/",
+      "query": "Netflix, Inc. suppliers manufacturers",
+      "snippet": "This is the detailed Porter’s five forces of Netflix that would allow to gain insight into the industry , identifying the magnitude of each of the fiv"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ir.netflix.net/ir-overview/profile/default.aspx",
+      "url": "https://www.inc.com/jason-aten/netflix-just-revealed-its-doing-the-1-thing-customers-were-most-afraid-of/91110628",
       "query": "Netflix, Inc. major customers clients",
-      "snippet": "Apr 16, 2026 · Netflix is one of the world’s leading entertainment services offering TV series, films, games and live programming across a wide variet"
+      "snippet": "Look, that’s basically Netflix ’s most reliable strategy. It’s right up there with dumping an entire season of episodes at a time to encourage custome"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://ir.netflix.net/",
+      "query": "Netflix, Inc. major customers clients",
+      "snippet": "Company Profile. Netflix is one of the world’s leading entertainment services offering TV series, films, games and live programming across a wide vari"
     }
   ]
 }

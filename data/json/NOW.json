@@ -4,34 +4,34 @@
   "sector": "Technology",
   "industry": "Software - Application",
   "upstream": [
-    "AMZN",
     "MSFT",
+    "AMZN",
     "GOOGL",
-    "ORCL",
-    "VMware"
+    "IBM",
+    "ORCL"
   ],
   "downstream": [
-    "Walmart",
-    "JPMorgan Chase",
-    "AT&T",
-    "Verizon",
-    "Comcast"
+    "Bank of America",
+    "Coca‑Cola",
+    "General Electric",
+    "UnitedHealth Group",
+    "Walmart"
   ],
   "competitors": [
-    "CRM",
-    "SAP",
-    "ORCL",
     "MSFT",
-    "Workday"
+    "CRM",
+    "SAP SuccessFactors",
+    "ORCL",
+    "IBM"
   ],
   "key_products": [
+    "Now Platform",
     "IT Service Management (ITSM)",
     "IT Operations Management (ITOM)",
     "IT Business Management (ITBM)",
-    "Customer Service Management (CSM)",
-    "HR Service Delivery"
+    "Customer Service Management (CSM)"
   ],
-  "extracted_at": "2026-05-28 18:34:56",
+  "extracted_at": "2026-05-29 18:30:59",
   "sources": [
     {
       "source": "Wikipedia",
@@ -53,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.aventionmedia.com/technology-installed-base/servicenow/",
+      "url": "https://www.servicenow.com/",
       "query": "ServiceNow, Inc. major customers clients",
-      "snippet": "Businesses whose solutions and services can help Cloud- Service Customers achieve any of their business requirements can make use of our List of Compa"
+      "snippet": "ServiceNow AI Control Tower. Connect strategy, governance, management, and performance for all your AI across the enterprise."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.appsruntheworld.com/customers-database/vendors/view/servicenow",
+      "url": "https://geeksforless.com/benefits-of-servicenow/",
       "query": "ServiceNow, Inc. major customers clients",
-      "snippet": "List of companies using or evaluating ServiceNow applications, with details on their revenues, employees, industries, and locations."
+      "snippet": "ServiceNow is a comprehensive enterprise cloud platform that enables businesses to manage their services faster, more efficiently, and with greater cu"
     }
   ]
 }

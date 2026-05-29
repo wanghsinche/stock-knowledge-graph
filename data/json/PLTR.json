@@ -7,31 +7,31 @@
     "AMZN",
     "MSFT",
     "GOOGL",
-    "ORCL",
-    "IBM"
+    "IBM",
+    "ORCL"
   ],
   "downstream": [
     "U.S. Department of Defense",
-    "Federal Bureau of Investigation",
-    "State and local governments",
-    "JPMorgan Chase",
-    "Walmart"
+    "U.S. Department of Homeland Security",
+    "U.S. Department of Justice",
+    "U.K. Government",
+    "European Union agencies"
   ],
   "competitors": [
+    "Splunk",
     "Snowflake",
     "Databricks",
-    "Splunk",
-    "Tableau",
-    "MSFT"
+    "MSFT",
+    "IBM"
   ],
   "key_products": [
-    "Palantir Gotham",
     "Palantir Foundry",
+    "Palantir Gotham",
     "Palantir Apollo",
     "Palantir Helix",
-    "Palantir Platform"
+    "Palantir Apollo"
   ],
-  "extracted_at": "2026-05-28 18:32:34",
+  "extracted_at": "2026-05-29 18:27:48",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Palantir",
+      "url": "https://en.wikipedia.org/wiki/Palantir_Technologies",
       "query": "Palantir Technologies Inc. suppliers manufacturers",
-      "snippet": "Palantir 's customer base includes federal agencies, state and local governments, international organizations, and also private companies. [11] The co"
+      "snippet": "Palantir Technologies Inc . is an American publicly traded company that specializes in software platforms for big data analytics. Headquartered in Den"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/PLTR-Suppliers",
+      "url": "https://finance.yahoo.com/quote/PLTR/",
       "query": "Palantir Technologies Inc. suppliers manufacturers",
-      "snippet": "May 6, 2026 · For your research, we’ve provided nine additional tables on Palantir Technologies Inc ’ s suppliers . You can find them in the navigatio"
+      "snippet": "Find the latest Palantir Technologies Inc . (PLTR) stock quote, history, news and other vital information to help you with your stock trading and inve"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Palantir",
       "query": "Palantir Technologies Inc. major customers clients",
-      "snippet": "Palantir Technologies Inc . is an American publicly traded company that develops data integration and analytics platforms enabling government agencies"
+      "snippet": "Palantir Technologies Inc . Palantir 's customer base includes federal agencies, state and local governments, international organizations, and also pr"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.marketwatch.com/investing/stock/pltr",
+      "url": "https://simplywall.st/stocks/us/software/nasdaq-pltr/palantir-technologies",
       "query": "Palantir Technologies Inc. major customers clients",
-      "snippet": "PLTR | Complete Palantir Technologies Inc . stock news by MarketWatch. View real-time stock prices and stock quotes for a full financial overview."
+      "snippet": "Palantir Technologies (PLTR) Stock Overview. Palantir Technologies Inc . builds and deploys software platforms for the intelligence community to assis"
     }
   ]
 }

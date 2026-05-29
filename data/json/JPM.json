@@ -4,18 +4,18 @@
   "sector": "Financial Services",
   "industry": "Banks - Diversified",
   "upstream": [
-    "IBM",
     "MSFT",
-    "ORCL",
-    "AMZN",
-    "Bloomberg"
+    "Consulting firms (e.g., Accenture, Deloitte)",
+    "Legal service providers",
+    "Cybersecurity firms",
+    "Infrastructure and cloud service providers"
   ],
   "downstream": [
-    "Retail customers",
-    "Corporate clients",
-    "Institutional investors",
-    "Small and medium enterprises",
-    "Government entities"
+    "Retail banking customers (individuals)",
+    "Corporate banking clients",
+    "Government and public sector entities",
+    "High‑net‑worth individuals (wealth management)",
+    "Small and medium‑enterprise (SME) borrowers"
   ],
   "competitors": [
     "Bank of America",
@@ -25,13 +25,13 @@
     "Morgan Stanley"
   ],
   "key_products": [
-    "Retail banking",
-    "Commercial banking",
-    "Investment banking",
-    "Asset management",
-    "Wealth management"
+    "Retail banking services",
+    "Investment banking and advisory",
+    "Asset and wealth management",
+    "Credit card and consumer lending",
+    "Treasury and cash management"
   ],
-  "extracted_at": "2026-05-27 18:29:17",
+  "extracted_at": "2026-05-29 18:41:28",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,25 +43,25 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/JPMorgan_Chase",
       "query": "JPMorgan Chase & Co. suppliers manufacturers",
-      "snippet": "JPMorgan Chase was created in 2000 by the merger of New York City banks J . P . Morgan & Co . and Chase Manhattan Company . Through its predecessors, "
+      "snippet": "JPMorgan Chase & Co . (stylized as JPMorganChase ) is an American multinational finance corporation headquartered in New York City and incorporated in"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://ru.wikipedia.org/wiki/JPMorgan_Chase",
       "query": "JPMorgan Chase & Co. suppliers manufacturers",
-      "snippet": "JPMorgan Chase & Co , «Дж. П. Морган Чейз и Ко.» — американский транснациональный финансовый конгломерат, один из крупнейших банков мира[4]. Штаб-квар"
+      "snippet": "JPMorgan Chase & Co , «Дж. П. Морган Чейз и Ко.» — американский транснациональный финансовый конгломерат, один из крупнейших банков мира. Штаб-квартир"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/JPMorgan_Chase",
       "query": "JPMorgan Chase & Co. major customers clients",
-      "snippet": "JPMorgan Chase & Co . (stylized as JPMorganChase ) is an American multinational banking institution headquartered in New York City and incorporated in"
+      "snippet": "JPMorgan Chase is the result of the combination of several large U.S. banking companies that merged since 1996, combining Chase Manhattan Bank, J . P "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.chase.com/",
+      "url": "https://www.jpmorganchase.com/",
       "query": "JPMorgan Chase & Co. major customers clients",
-      "snippet": "Chase online lets you manage your Chase accounts, view statements, monitor activity, pay bills or transfer funds securely from one central place. Cust"
+      "snippet": "An Ohio-based company is protecting first responders around the world. With support from JPMorganChase , Fire-Dex is providing protective equipment to"
     }
   ]
 }

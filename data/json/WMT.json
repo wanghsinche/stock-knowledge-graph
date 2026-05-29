@@ -1,43 +1,43 @@
 {
   "ticker": "WMT",
   "company_name": "Walmart Inc.",
-  "sector": "Consumer Defensive / Discount Stores",
+  "sector": "Consumer Defensive",
   "industry": "Discount Stores",
   "upstream": [
     "Procter & Gamble",
-    "Unilever",
-    "Nike",
-    "005930.KS",
-    "Coca‑Cola"
+    "Coca‑Cola",
+    "Nestlé",
+    "Johnson & Johnson",
+    "Unilever"
   ],
   "downstream": [
-    "Individual consumers",
-    "Small businesses",
-    "Local communities",
+    "US consumers",
+    "International consumers",
     "Online shoppers",
-    "International shoppers"
+    "Pharmacy customers",
+    "Fuel station customers"
   ],
   "competitors": [
     "Target",
     "Costco",
     "AMZN",
     "Kroger",
-    "Walgreens"
+    "Aldi"
   ],
   "key_products": [
     "Groceries",
-    "Clothing",
     "Electronics",
-    "Home goods",
-    "Pharmacy products"
+    "Clothing",
+    "Pharmacy products",
+    "Fuel"
   ],
-  "extracted_at": "2026-05-28 18:43:11",
+  "extracted_at": "2026-05-29 18:36:16",
   "sources": [
     {
       "source": "Wikipedia",
-      "url": "",
-      "title": "",
-      "snippet": ""
+      "url": "https://en.wikipedia.org/wiki/Walmart_Inc.",
+      "title": "Walmart",
+      "snippet": "Walmart Inc. is an American multinational retail corporation that operates a chain of hypermarkets, discount department stores, grocery stores, pharmacies, and gas stations in the United States and 19"
     },
     {
       "source": "DuckDuckGo",
@@ -47,21 +47,21 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ru.wikipedia.org/wiki/Walmart",
+      "url": "https://csimarket.com/stocks/WMT-Suppliers",
       "query": "Walmart Inc. suppliers manufacturers",
-      "snippet": "Walmart , Inc . ([ˈwɔːlmɑːrt], «Уолмарт») — американская компания, управляющая крупнейшей в мире сетью оптовой и розничной торговли, действующей под т"
+      "snippet": "Walmart Inc supply chain, list and performance of Walmart Incs ' suppliers - CSIMarket. Walmart Inc 's Suppliers Performance. WMT's Supply Chain. Down"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://capitaloneshopping.com/research/walmart-statistics/",
+      "url": "https://en.wikipedia.org/wiki/Walmart",
       "query": "Walmart Inc. major customers clients",
-      "snippet": "Nov 6, 2025 · Latest available data on Walmart ' s size and market share, both offline and online, with total sales and revenue breakdowns by year."
+      "snippet": "Walmart Inc . Logo used since 2025[1]. Formerly.The company was incorporated under Delaware General Corporation Law as Wal - Mart , Inc . on October 3"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://businessmodelanalyst.com/walmart-target-market/",
+      "url": "https://www.walmart.com/",
       "query": "Walmart Inc. major customers clients",
-      "snippet": "Dec 2, 2024 · This article will examine Walmart target market and approach to reaching a broad yet carefully segmented customer base."
+      "snippet": "Shop Walmart .com today for Every Day Low Prices. Join Walmart + for unlimited free delivery from your store & free shipping with no order minimum. St"
     }
   ]
 }

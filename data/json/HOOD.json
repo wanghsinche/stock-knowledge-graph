@@ -2,36 +2,36 @@
   "ticker": "HOOD",
   "company_name": "Robinhood Markets, Inc.",
   "sector": "Financial Services",
-  "industry": "Capital Markets / Brokerage",
+  "industry": "Capital Markets",
   "upstream": [
-    "MSFT",
-    "Market data vendors (e.g., Bloomberg, Refinitiv)",
+    "Market data providers (e.g., Nasdaq, NYSE)",
+    "AMZN",
     "Payment processors (e.g., Stripe, PayPal)",
-    "Regulatory technology firms (e.g., Onfido, Trulioo)",
-    "Cybersecurity vendors (e.g., Palo Alto Networks, CrowdStrike)"
+    "Regulatory technology firms",
+    "Cybersecurity vendors"
   ],
   "downstream": [
-    "Retail investors (individual traders)",
-    "High‑frequency traders using Robinhood’s API",
-    "Institutional clients via Robinhood Institutional",
-    "Corporate clients for employee equity plans",
-    "Financial advisors using Robinhood’s platform"
+    "Retail investors",
+    "Day traders",
+    "Institutional clients",
+    "Crypto traders",
+    "High‑frequency traders"
   ],
   "competitors": [
     "Charles Schwab",
-    "E*TRADE",
     "TD Ameritrade",
+    "E*TRADE",
     "Fidelity Investments",
     "Webull"
   ],
   "key_products": [
     "Commission‑free stock and ETF trading",
     "Options trading platform",
-    "Cryptocurrency trading",
     "Margin trading (Robinhood Gold)",
+    "Cryptocurrency trading",
     "Cash management and interest‑earning accounts"
   ],
-  "extracted_at": "2026-05-28 18:37:17",
+  "extracted_at": "2026-05-29 18:32:46",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,7 +43,7 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Robinhood_Markets",
       "query": "Robinhood Markets, Inc. suppliers manufacturers",
-      "snippet": "Robinhood Markets , Inc . is an American financial services company based in Menlo Park, California."
+      "snippet": "Robinhood Markets , Inc . is an American financial services company based in Menlo Park, California. It provides an electronic trading platform that f"
     },
     {
       "source": "DuckDuckGo",
@@ -55,13 +55,13 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Robinhood_Markets",
       "query": "Robinhood Markets, Inc. major customers clients",
-      "snippet": "Robinhood Markets , Inc . is an American financial services company based in Menlo Park, California. It provides an electronic trading platform that f"
+      "snippet": "Robinhood co-founder Baiju Bhatt (left) and moderator Josh Constine (right) speak onstage during Day 2 of TechCrunch Disrupt SF 2018 at the Moscone Ce"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://pitchgrade.com/companies/robinhood-markets",
+      "url": "https://robinhood.com/",
       "query": "Robinhood Markets, Inc. major customers clients",
-      "snippet": "Customer Segments: Robinhood Markets , Inc . serves multiple distinct customer segments, which may include consumers, small and medium businesses, ent"
+      "snippet": "Trade stocks on Robinhood with commission-free investing & advanced trading tools. Access fractional shares, real-time market data, and more."
     }
   ]
 }

@@ -3,8 +3,8 @@ ticker: META
 company: Meta Platforms, Inc.
 sector: Communication Services
 industry: Internet Content & Information
-extracted_at: 2026-05-28 18:32:05
-last_updated: 2026-05-28
+extracted_at: 2026-05-29 18:31:17
+last_updated: 2026-05-29
 ---
 
 # META - Meta Platforms, Inc.
@@ -12,46 +12,48 @@ last_updated: 2026-05-28
 ## 基本信息
 
 - **所属行业**: Communication Services / Internet Content & Information
-- **提取时间**: 2026-05-28 18:32:05
+- **提取时间**: 2026-05-29 18:31:17
 
 ## 产业链关系
 
 ### 上游供应商
-- [[NVDA]]
 - [[DELL]]
-- [[AMZN]]
+- [[HPQ]]
+- [[Lenovo Group]]
 - [[CSCO]]
-- [[MSFT]]
+- [[AMZN]]
 
 ### 下游客户
-- [[Advertisers (e.g., Coca‑Cola, Nike)]]
-- [[App developers and publishers]]
-- [[Content creators and influencers]]
-- [[META]]
-- [[Consumers using Facebook, Instagram, WhatsApp]]
+- [[Global advertisers (brands & agencies)]]
+- [[App developers]]
+- [[Content creators]]
+- [[E‑commerce merchants]]
+- [[Gaming studios]]
 
 ### 竞争对手
 - [[GOOGL]]
 - [[AMZN]]
 - [[AAPL]]
+- [[MSFT]]
 - [[TikTok (ByteDance)]]
-- [[Snap Inc.]]
 
 ### 核心产品
 - [[Facebook]]
 - [[Instagram]]
 - [[WhatsApp]]
+- [[Messenger]]
+- [[Threads]]
+- [[Meta Ads]]
 - [[Meta Quest (VR)]]
-- [[Meta Portal (video calling)]]
 
 ## 数据来源
 
-- 
-- [Meta Platforms, Inc. suppliers manufacturers](https://csimarket.com/stocks/META-Suppliers)
-- [Meta Platforms, Inc. suppliers manufacturers](https://www.trademo.com/manufacturers/meta)
-- [Meta Platforms, Inc. major customers clients](https://en.wikipedia.org/wiki/Meta_Platforms)
-- [Meta Platforms, Inc. major customers clients](https://www.statista.com/topics/9038/meta-platforms/)
+- [Meta Platforms](https://en.wikipedia.org/wiki/Meta_Platforms,_Inc.)
+- [Meta Platforms, Inc. suppliers manufacturers](https://ru.wikipedia.org/wiki/Meta_Platforms)
+- [Meta Platforms, Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/List_of_computer_hardware_manufacturers)
+- [Meta Platforms, Inc. major customers clients](https://ru.wikipedia.org/wiki/Meta_Platforms)
+- [Meta Platforms, Inc. major customers clients](https://www.cnn.com/markets/stocks/META)
 
 ## 元数据
 
-- **更新日期**: 2026-05-28
+- **更新日期**: 2026-05-29

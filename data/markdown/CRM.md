@@ -3,8 +3,8 @@ ticker: CRM
 company: Salesforce, Inc.
 sector: Technology
 industry: Software - Application
-extracted_at: 2026-05-28 18:35:53
-last_updated: 2026-05-28
+extracted_at: 2026-05-29 18:35:11
+last_updated: 2026-05-29
 ---
 
 # CRM - Salesforce, Inc.
@@ -12,7 +12,7 @@ last_updated: 2026-05-28
 ## 基本信息
 
 - **所属行业**: Technology / Software - Application
-- **提取时间**: 2026-05-28 18:35:53
+- **提取时间**: 2026-05-29 18:35:11
 
 ## 产业链关系
 
@@ -25,15 +25,15 @@ last_updated: 2026-05-28
 
 ### 下游客户
 - [[AMZN]]
-- [[AAPL]]
 - [[Coca‑Cola]]
-- [[Ford]]
-- [[Walmart]]
+- [[American Express]]
+- [[Unilever]]
+- [[Toyota]]
 
 ### 竞争对手
 - [[MSFT]]
+- [[SAP CRM]]
 - [[ORCL]]
-- [[SAP Customer Experience]]
 - [[HubSpot]]
 - [[Zoho CRM]]
 
@@ -47,11 +47,11 @@ last_updated: 2026-05-28
 ## 数据来源
 
 - [Salesforce](https://en.wikipedia.org/wiki/Salesforce,_Inc.)
-- [Salesforce, Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/Salesforce)
+- [Salesforce, Inc. suppliers manufacturers](https://tr.wikipedia.org/wiki/Salesforce)
 - [Salesforce, Inc. suppliers manufacturers](https://csimarket.com/stocks/CRM-Suppliers)
-- [Salesforce, Inc. major customers clients](https://www.salesforce.com/customer-stories/)
-- [Salesforce, Inc. major customers clients](https://www.appsruntheworld.com/customers-database/vendors/view/salesforce)
+- [Salesforce, Inc. major customers clients](https://www.salesforce.com/)
+- [Salesforce, Inc. major customers clients](https://www.technetexperts.com/salesforce-customer-success-stories/)
 
 ## 元数据
 
-- **更新日期**: 2026-05-28
+- **更新日期**: 2026-05-29

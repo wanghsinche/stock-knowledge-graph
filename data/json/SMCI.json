@@ -1,37 +1,37 @@
 {
   "ticker": "SMCI",
   "company_name": "Super Micro Computer, Inc.",
-  "sector": "Technology / Computer Hardware",
+  "sector": "Technology",
   "industry": "Computer Hardware",
   "upstream": [
-    "EDOM Technology",
     "INTC",
     "AMD",
     "NVDA",
-    "AVGO"
+    "005930.KS",
+    "STX"
   ],
   "downstream": [
     "NVDA",
     "AMZN",
     "GOOGL",
     "MSFT",
-    "IBM"
+    "Alibaba Cloud"
   ],
   "competitors": [
     "DELL",
     "HPQ",
     "Lenovo",
-    "IBM",
-    "CSCO"
+    "CSCO",
+    "IBM"
   ],
   "key_products": [
     "High-performance servers",
     "High-efficiency servers",
     "Server management software",
     "Storage systems",
-    "Edge computing solutions"
+    "AI servers"
   ],
-  "extracted_at": "2026-05-28 18:36:58",
+  "extracted_at": "2026-05-29 18:33:15",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,25 +43,25 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Supermicro",
       "query": "Super Micro Computer, Inc. suppliers manufacturers",
-      "snippet": "Super Micro Computer , Inc ., doing business as Supermicro, is an American information technology company based in San Jose, California."
+      "snippet": "Super Micro Computer , Inc ., doing business as Supermicro , is an American information technology company based in San Jose, California.American supp"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.edomtech.com/en/manufacturers-detail/super-micro/",
+      "url": "https://www.supermicro.com/",
       "query": "Super Micro Computer, Inc. suppliers manufacturers",
-      "snippet": "Jul 2, 2024 · EDOM Technology is an authorized distributor of Supermicro, offering a complete lineup of Supermicro products backed by a dedicated tech"
+      "snippet": "Supermicro Super AI Station. Supermicro 5G Edge Solutions Empowering the Deskless Workforce with Taqtile and Intel. Supermicro TECHTalk: Harness the P"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Supermicro",
       "query": "Super Micro Computer, Inc. major customers clients",
-      "snippet": "Supermicro was founded on November 1, 1993, and has manufacturing operations in Silicon... Super Micro Computer , Inc ., doing business as Supermicro "
+      "snippet": "Super Micro Computer , Inc . Supermicro Green Computing Park. Super Micro Computer , Inc ., doing business as Supermicro , is an American information "
     },
     {
       "source": "DuckDuckGo",
       "url": "https://wccftech.com/nvidia-major-customer-super-micro-computer-smci-plunges-as-its-accounting-firm-resigns-after-citing-concerns-around-a-commitment-to-integrity-and-ethical-values/",
       "query": "Super Micro Computer, Inc. major customers clients",
-      "snippet": "And, this development has a bearing on the broader narrative around NVIDIA/AI. Consider the fact that Super Micro Computer is NVIDIA's third-largest c"
+      "snippet": "Consider the fact that Super Micro Computer is NVIDIA's third-largest customer . What's more, SMCI's biggest client is NVIDIA, and its second-biggest "
     }
   ]
 }

@@ -4,34 +4,34 @@
   "sector": "Communication Services",
   "industry": "Advertising Agencies",
   "upstream": [
-    "Data providers (e.g., Nielsen, comScore)",
+    "AAPL",
     "GOOGL",
-    "Mobile operating system platforms (iOS, Android)",
     "MSFT",
-    "Analytics and attribution tool vendors"
+    "AMZN",
+    "Data broker firms"
   ],
   "downstream": [
     "Mobile app developers",
-    "Game publishers",
+    "Game developers",
+    "Brands and advertisers",
     "Digital marketing agencies",
-    "Brand advertisers",
     "E‑commerce platforms"
   ],
   "competitors": [
-    "The Trade Desk",
-    "GOOGL",
-    "Facebook Ads",
-    "Unity Ads",
-    "Vungle"
+    "Unity Technologies",
+    "IronSource",
+    "AdColony",
+    "Vungle",
+    "GOOGL"
   ],
   "key_products": [
-    "Mobile advertising platform",
-    "User acquisition solutions",
-    "In‑app video and rewarded video ads",
-    "Audience segmentation and targeting tools",
-    "Analytics and attribution dashboards"
+    "AppLovin SDK",
+    "AppLovin Marketing Cloud",
+    "In‑app advertising platform",
+    "Mobile app monetization tools",
+    "Analytics & attribution services"
   ],
-  "extracted_at": "2026-05-28 18:36:13",
+  "extracted_at": "2026-05-29 18:39:07",
   "sources": [
     {
       "source": "Wikipedia",
@@ -59,9 +59,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/news/applovin-corporation-app-ai-ad-154214208.html?guccounter=1&guce_referrer=aHR0cHM6Ly95YS5ydS8&guce_referrer_sig=AQAAAGziw4_EnupkpZF70H1asAS1XowGT4Cq-SB_w3ciB3HBdpeT5hTNU0xiJvOglKuj1YYkFo9DsQzMgUUWanRBgoBtbbssp7zuAqDw5qZeiqUAnyOXnzyn2H1GpANEgJ-M1Hvfi38gJvgvtpG6dp8a29qwP28hpgSifoYV_vgc9Apv",
+      "url": "https://www.tipranks.com/stocks/app/stock-analysis",
       "query": "AppLovin Corporation major customers clients",
-      "snippet": "AppLovin Corporation (NASDAQ:APP) provides a leading marketing platform powered by AI technology. On February 10, Jefferies analyst James Heaney CFA m"
+      "snippet": "Get a real-time AppLovin Corp . Class A (APP) stock analysis report, powered by AI. AppLovin Corporate Events. Executive/Board ChangesShareholder Meet"
     }
   ]
 }

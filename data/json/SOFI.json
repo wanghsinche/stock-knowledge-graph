@@ -5,45 +5,45 @@
   "industry": "Credit Services",
   "upstream": [
     "AMZN",
-    "Data analytics vendors",
-    "Payment processors (e.g., Stripe)",
-    "Regulatory compliance vendors",
-    "Cybersecurity firms"
+    "MSFT",
+    "Stripe",
+    "Plaid",
+    "PayPal"
   ],
   "downstream": [
-    "Individual consumers seeking loans",
-    "Students refinancing loans",
-    "Homebuyers seeking mortgages",
-    "Small business borrowers",
-    "Investors using SoFi Invest"
+    "Individual consumers",
+    "Small businesses",
+    "Students",
+    "Mortgage borrowers",
+    "Credit card holders"
   ],
   "competitors": [
     "LendingClub",
     "Upstart",
     "Marcus by Goldman Sachs",
-    "Credit Karma",
-    "Chime"
+    "Kabbage",
+    "Prosper"
   ],
   "key_products": [
     "Student loan refinancing",
     "Personal loans",
-    "Mortgage loans",
+    "Mortgage refinancing",
     "Credit cards",
-    "Investment platform (SoFi Invest)"
+    "Investment platform"
   ],
-  "extracted_at": "2026-05-01 16:56:26",
+  "extracted_at": "2026-05-29 18:37:01",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/SoFi_Technologies,_Inc.",
       "title": "SoFi",
-      "snippet": "SoFi Technologies, Inc. is an American financial technology company. Founded in 2011 by Stanford University students, it operates as a nationally chartered online bank and is a technology provider to "
+      "snippet": "SoFi Technologies, Inc. is an American financial technology company. Founded in 2011 by Stanford University students, it operates as a direct bank with a national charter and provides technology to ot"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/SoFi",
       "query": "SoFi Technologies, Inc. suppliers manufacturers",
-      "snippet": "SoFi Technologies , Inc . is an American financial technology company. Founded in 2011 by Stanford University students, it operates as a nationally ch"
+      "snippet": "SoFi Technologies , Inc . is an American personal finance and financial technology company. Founded in 2011 at Stanford University, it operates as a d"
     },
     {
       "source": "DuckDuckGo",
@@ -55,13 +55,13 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/SoFi",
       "query": "SoFi Technologies, Inc. major customers clients",
-      "snippet": "SoFi Technologies , Inc . is an American financial technology company. Founded in 2011 by Stanford University students, it operates as a nationally ch"
+      "snippet": "SoFi is the largest U.S. based online lender, and has 15 million customers as of 2026. SoFi Technologies, Inc. Company type. Public · Traded ... Histo"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/SOFI/",
+      "url": "https://investors.sofi.com/financials/quarterly-results/default.aspx",
       "query": "SoFi Technologies, Inc. major customers clients",
-      "snippet": "SoFi Technologies , Inc . ( SOFI ). Time to buy SOFI ? SoFi Technologies , Inc . provides various financial services in the United States, Latin Ameri"
+      "snippet": "2 days ago · SoFi Reports First Quarter 2026 with Record Net Revenue of $1.1 Billion, Record Member and Product Growth, Net Income of $167 Million."
     }
   ]
 }

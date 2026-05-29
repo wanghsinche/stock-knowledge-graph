@@ -1,67 +1,67 @@
 {
   "ticker": "COST",
   "company_name": "Costco Wholesale Corporation",
-  "sector": "Consumer Defensive / Discount Stores",
+  "sector": "Consumer Defensive",
   "industry": "Discount Stores",
   "upstream": [
-    "Food manufacturers",
-    "Electronics manufacturers",
-    "Apparel manufacturers",
-    "Furniture manufacturers",
-    "Household goods manufacturers"
+    "Tyson Foods",
+    "Cargill",
+    "Hormel Foods",
+    "Nestlé",
+    "PepsiCo"
   ],
   "downstream": [
-    "Individual consumers",
-    "Small businesses",
-    "Restaurants",
-    "Hotels",
-    "CAT"
+    "U.S. consumers",
+    "Canadian consumers",
+    "U.S. households",
+    "Canadian households",
+    "Corporate bulk buyers"
   ],
   "competitors": [
+    "Walmart",
+    "Target",
     "Sam's Club",
     "BJ's Wholesale Club",
-    "Walmart",
-    "AMZN",
-    "Target"
+    "AMZN"
   ],
   "key_products": [
-    "Groceries",
+    "Bulk groceries (beef, poultry, organic produce)",
+    "Wine and spirits",
     "Electronics",
-    "Furniture",
-    "Clothing",
-    "Household goods"
+    "Household goods",
+    "Apparel and footwear"
   ],
-  "extracted_at": "2026-05-26 18:24:57",
+  "extracted_at": "2026-05-29 18:33:47",
   "sources": [
     {
       "source": "Wikipedia",
-      "url": "",
-      "title": "",
-      "snippet": ""
+      "url": "https://en.wikipedia.org/wiki/Costco_Wholesale_Corporation",
+      "title": "Costco",
+      "snippet": "Costco Wholesale Corporation is an American multinational corporation that operates a chain of membership-only big-box warehouse club retail stores. As of 2021, Costco is the third-largest retailer in"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Costco",
       "query": "Costco Wholesale Corporation suppliers manufacturers",
-      "snippet": "Costco Wholesale Corporation , trading as Costco , is an American multinational corporation that operates a chain of membership-only big-box warehouse"
+      "snippet": "Costco Wholesale Corporation . Logo since 1997. Headquarters in Issaquah, Washington, United States.warehouses.[111] However, unlike most chain stores"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://panjiva.com/Manufacturers-Of/costco+wholesale+corporation",
+      "url": "https://www.costco.com/",
       "query": "Costco Wholesale Corporation suppliers manufacturers",
-      "snippet": "manufacturers and suppliers of costco wholesale corporation from around the world. Panjiva uses over 30 international data sources to help you find qu"
+      "snippet": "official website of Costco Wholesale Corporation ."
     },
     {
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Costco",
       "query": "Costco Wholesale Corporation major customers clients",
-      "snippet": "Costco Wholesale Corporation . Logo since 1997. Costco warehouse interior in Brampton, Ontario in Canada in 2021. Costco is a membership-only warehous"
+      "snippet": "Costco Wholesale Corporation . Logo since 1997.In 2014, The Guardian reported that Costco is a client of Charoen Pokphand Foods. Over six months, The "
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.linkedin.com/company/costco-wholesale",
       "query": "Costco Wholesale Corporation major customers clients",
-      "snippet": "Costco Wholesale | 703,246 followers on LinkedIn. Costco Wholesale is a multibillion dollar global retailer with warehouse club operations in 14 count"
+      "snippet": "Costco Wholesale | 705,655 followers on LinkedIn. Costco Wholesale is a multibillion dollar global retailer with warehouse club operations in 14 count"
     }
   ]
 }

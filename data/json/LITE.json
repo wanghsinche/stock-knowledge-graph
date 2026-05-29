@@ -1,37 +1,37 @@
 {
   "ticker": "LITE",
   "company_name": "Lumentum Holdings Inc.",
-  "sector": "Technology",
-  "industry": "Communication Equipment",
+  "sector": "Technology / Communication Equipment",
+  "industry": "Optical Communications",
   "upstream": [
-    "Coherent Inc.",
-    "II-VI Incorporated",
-    "Lattice Semiconductor",
-    "Lumerical",
-    "Thorlabs"
+    "TSM",
+    "Lumentum's own manufacturing facilities",
+    "Photonic component suppliers",
+    "Optical fiber suppliers",
+    "Semiconductor material suppliers"
   ],
   "downstream": [
     "AT&T",
     "Verizon",
+    "China Mobile",
     "Huawei",
-    "CSCO",
-    "Nokia"
+    "CSCO"
   ],
   "competitors": [
-    "Coherent Inc.",
-    "II-VI Incorporated",
-    "Trumpf GmbH + Co. KG",
-    "Lattice Semiconductor",
-    "Lumerical"
+    "CSCO",
+    "AVGO",
+    "Infinera",
+    "Ciena",
+    "II-VI Incorporated"
   ],
   "key_products": [
+    "Optical transceivers",
+    "Laser modules",
     "Optical amplifiers",
-    "Laser diodes",
     "Photonic integrated circuits",
-    "LiDAR components",
-    "Optical transceivers"
+    "Optical fiber components"
   ],
-  "extracted_at": "2026-05-28 18:34:21",
+  "extracted_at": "2026-05-29 18:33:30",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Lumentum",
+      "url": "https://www.lumentum.com/",
       "query": "Lumentum Holdings Inc. suppliers manufacturers",
-      "snippet": "Lumentum Holdings Inc . is an American manufacturer of optical and photonic products. It was created in 2015 as a spinoff from JDSU."
+      "snippet": "Discover how Lumentum enables innovation through optical and photonic technologies for cloud networking, 3D sensing, lasers, and advanced manufacturin"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/LITE-Suppliers",
+      "url": "https://csimarket.com/stocks/competitionNO4.php?supply&code=LITE",
       "query": "Lumentum Holdings Inc. suppliers manufacturers",
-      "snippet": "May 6, 2026 · Lumentum Holdings Inc supply chain, list and performance of Lumentum Holdings Incs ' suppliers - CSIMarket"
+      "snippet": "Lumentum Holdings Inc 's Suppliers .Taiwan Semiconductor Manufacturing Company Limited. TSM. 1,046,108."
     },
     {
       "source": "DuckDuckGo",
       "url": "https://pitchgrade.com/companies/lumentum",
       "query": "Lumentum Holdings Inc. major customers clients",
-      "snippet": "The largest shareholders of Lumentum Holdings Inc . are typically major institutional investors including The Vanguard Group, BlackRock, and State Str"
+      "snippet": "Customer Segments: Lumentum Holdings Inc . serves multiple distinct customer segments, which may include consumers, small and medium businesses, enter"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.lumentum.com/",
+      "url": "https://www.investing.com/news/swot-analysis/lumentum-holdings-swot-analysis-stock-rides-ai-wave-amid-valuation-debate-93CH-4696673",
       "query": "Lumentum Holdings Inc. major customers clients",
-      "snippet": "Discover how Lumentum enables innovation through optical and photonic technologies for cloud networking, 3D sensing, lasers, and advanced manufacturin"
+      "snippet": "Lumentum Holdings Inc .Bear Case. Can Lumentum sustain growth amid high customer concentration risks? Lumentum ’s revenue base is concentrated among a"
     }
   ]
 }

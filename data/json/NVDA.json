@@ -6,15 +6,15 @@
   "upstream": [
     "TSM",
     "005930.KS",
-    "GlobalFoundries",
-    "UMC",
-    "ASE"
+    "MU",
+    "SK Hynix",
+    "ASE Technology Holding"
   ],
   "downstream": [
-    "DELL",
-    "HPQ",
-    "Lenovo",
-    "AAPL",
+    "SONY",
+    "MSFT",
+    "AMZN",
+    "GOOGL",
     "TSLA"
   ],
   "competitors": [
@@ -26,12 +26,12 @@
   ],
   "key_products": [
     "GeForce RTX GPUs",
-    "Quadro GPUs",
-    "Tesla GPUs",
-    "Jetson SoCs",
-    "DGX AI systems"
+    "NVIDIA A100 Tensor Core GPU",
+    "NVIDIA DGX AI systems",
+    "NVIDIA Jetson AI platform",
+    "NVIDIA Drive PX automotive platform"
   ],
-  "extracted_at": "2026-05-28 18:30:10",
+  "extracted_at": "2026-05-29 18:26:40",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.suppliersmap.com/nvidia",
-      "query": "NVIDIA Corporation suppliers manufacturers",
-      "snippet": "Explore Nvidia 's complete supply chain with interactive visualizations showing supplier locations and component breakdowns across GeForce RTX and oth"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/NVDA-Suppliers",
-      "query": "NVIDIA Corporation suppliers manufacturers",
-      "snippet": "May 21, 2026 · Nvidia 's Comment on Supply Chain We utilize a fabless and contracting manufacturing strategy, whereby we employ and partner with key s"
-    },
-    {
-      "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Nvidia",
-      "query": "NVIDIA Corporation major customers clients",
-      "snippet": "Nvidia Corporation is an American multinational technology company headquartered in Santa Clara, California. Nvidia focuses its own resources on produ"
+      "query": "NVIDIA Corporation suppliers manufacturers",
+      "snippet": "Nvidia Corporation is an American multinational technology company headquartered in Santa Clara, California. Nvidia had also entered into a partnershi"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.investing.com/equities/nvidia-corp",
+      "query": "NVIDIA Corporation suppliers manufacturers",
+      "snippet": "Monitor the latest movements within the NVIDIA Corporation real time stock price chart below. You can find more details by visiting the additional pag"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://finance.yahoo.com/news/nvidias-biggest-customers-095700428.html",
       "query": "NVIDIA Corporation major customers clients",
-      "snippet": "View today's NVIDIA Corporation stock price and latest NVDA news and analysis. Create real-time notifications to follow any changes in the live stock "
+      "snippet": "June 26, 2025 - Nvidia has amassed an impressive list of customers, which includes top AI developers like Amazon, Microsoft, and Alphabet . Nvidia's c"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/markets_glance.php?code=NVDA",
+      "query": "NVIDIA Corporation major customers clients",
+      "snippet": "1 week ago - Nvidia customers and markets, results by customer and performance relative to NVDA, by company and industry - CSIMarket"
     }
   ]
 }

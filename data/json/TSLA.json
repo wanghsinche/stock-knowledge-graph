@@ -1,21 +1,21 @@
 {
   "ticker": "TSLA",
   "company_name": "Tesla, Inc.",
-  "sector": "Consumer Cyclical",
-  "industry": "Auto Manufacturers",
+  "sector": "Consumer Cyclical / Auto Manufacturers",
+  "industry": "Automotive Manufacturers",
   "upstream": [
     "Panasonic",
     "LG Chem",
     "CAT",
-    "005930.KS",
-    "Bosch"
+    "Bosch",
+    "Denso"
   ],
   "downstream": [
     "Individual consumers",
-    "Uber",
-    "Lyft",
-    "AMZN",
-    "Government fleets"
+    "Ride‑hailing fleets (Uber, Lyft)",
+    "Corporate fleet customers",
+    "Government agencies",
+    "Commercial delivery fleets"
   ],
   "competitors": [
     "General Motors",
@@ -25,13 +25,13 @@
     "Nissan"
   ],
   "key_products": [
-    "Model 3",
     "Model S",
+    "Model 3",
     "Model X",
     "Model Y",
     "Powerwall"
   ],
-  "extracted_at": "2026-05-28 18:31:00",
+  "extracted_at": "2026-05-29 18:26:55",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/TSLA-Suppliers",
+      "url": "https://en.wikipedia.org/wiki/Tesla,_Inc.",
       "query": "Tesla, Inc. suppliers manufacturers",
-      "snippet": "Apr 24, 2026 · Tesla relies on a wide range of suppliers beyond just battery manufacturers to build our electric vehicles (EVs) and energy products. T"
+      "snippet": "2 days ago - The practice of vertical integration is rare in the automotive industry, where companies typically outsource 80% of components to supplie"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.investopedia.com/ask/answers/052815/who-are-teslas-tsla-main-suppliers.asp",
+      "url": "https://en.wikipedia.org/wiki/List_of_Tesla_factories",
       "query": "Tesla, Inc. suppliers manufacturers",
-      "snippet": "Nov 4, 2025 · Discover Tesla's key and rumored parts suppliers . Learn which companies provide essential components for Tesla's electric vehicles and "
+      "snippet": "2 weeks ago - Tesla, Inc. manufactures their products worldwide as well as a lithium ore refinery. The following is a list of current, future, and for"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/TSLA-Customers",
+      "url": "https://en.wikipedia.org/wiki/Tesla,_Inc.",
       "query": "Tesla, Inc. major customers clients",
-      "snippet": "May 2, 2026 · We currently sell our cars primarily to individual customers . We have strategic or commercial relationships with Daimler, Toyota, and P"
+      "snippet": "The company was incorporated in July 2003 by Martin Eberhard and Marc Tarpenning as Tesla Motors. Its name is a tribute to the inventor and electrical"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.growthnavigate.com/tesla-target-customers",
+      "url": "https://www.tesla.com/",
       "query": "Tesla, Inc. major customers clients",
-      "snippet": "Tesla target customers are primarily affluent, college-educated professionals who value technology, environmental responsibility, and performance. The"
+      "snippet": "Midsize SUV · Sport Sedan · Utility Truck · 3.99% APR Available · Luxury SUV · Luxury Sedan · Current Offers · Explore limited-time offers on Tesla ve"
     }
   ]
 }
