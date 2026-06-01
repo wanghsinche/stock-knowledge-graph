@@ -4,34 +4,34 @@
   "sector": "Technology",
   "industry": "Communication Equipment",
   "upstream": [
-    "HPQ",
+    "Hewlett-Packard Company",
     "DELL",
     "IBM",
     "CSCO",
-    "INTC"
+    "Lenovo Group"
   ],
   "downstream": [
-    "DELL",
-    "IBM",
-    "CSCO",
+    "AMZN",
+    "GOOGL",
     "MSFT",
-    "AMZN"
+    "ORCL",
+    "META"
   ],
   "competitors": [
     "DELL",
     "IBM",
     "CSCO",
-    "Lenovo",
-    "JNPR"
+    "Lenovo Group",
+    "ORCL"
   ],
   "key_products": [
-    "Servers",
-    "Storage",
-    "Networking",
-    "Artificial Intelligence",
-    "Containerization Software"
+    "HPE ProLiant servers",
+    "HPE 3PAR storage systems",
+    "HPE Aruba networking solutions",
+    "HPE AI and analytics platforms",
+    "HPE consulting and support services"
   ],
-  "extracted_at": "2026-05-29 18:37:32",
+  "extracted_at": "2026-06-01 20:15:21",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,21 +47,21 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ru.wikipedia.org/wiki/Hewlett-Packard",
-      "query": "Hewlett Packard Enterprise Company suppliers manufacturers",
-      "snippet": "Hewlett - Packard ([ˈhjuːlɪt ˈpækərd], HP , Хьюлетт-Паккард, Эйч-Пи) — созданная в 1939 году компания-поставщик аппаратного и программного обеспечения"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Hewlett-Packard",
-      "query": "Hewlett Packard Enterprise Company major customers clients",
-      "snippet": "The Hewlett - Packard Company , commonly shortened to Hewlett - Packard or HP , was an American multinational information technology company ."
-    },
-    {
-      "source": "DuckDuckGo",
       "url": "https://www.hpe.com/",
-      "query": "Hewlett Packard Enterprise Company major customers clients",
+      "query": "Hewlett Packard Enterprise Company suppliers manufacturers",
       "snippet": "Our company . A leader in essential enterprise technology, bringing together the power of AI, cloud, and networking to help organizations achieve more"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/Hewlett_Packard_Enterprise",
+      "query": "Hewlett Packard Enterprise Company major customers clients",
+      "snippet": "The Hewlett Packard Enterprise Company (HPE) is an American multinational information technology company based in Spring, Texas. It is a business -foc"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.appsruntheworld.com/customers-database/vendors/view/hewlett-packard-enterprise",
+      "query": "Hewlett Packard Enterprise Company major customers clients",
+      "snippet": "List of companies using or evaluating Hewlett Packard Enterprise applications, with details on their revenues, employees, industries, and locations."
     }
   ]
 }

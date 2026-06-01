@@ -3,8 +3,8 @@ ticker: BE
 company: Bloom Energy Corporation
 sector: Industrials
 industry: Electrical Equipment & Parts
-extracted_at: 2026-05-29 18:38:09
-last_updated: 2026-05-29
+extracted_at: 2026-06-01 20:17:36
+last_updated: 2026-06-01
 ---
 
 # BE - Bloom Energy Corporation
@@ -12,45 +12,46 @@ last_updated: 2026-05-29
 ## 基本信息
 
 - **所属行业**: Industrials / Electrical Equipment & Parts
-- **提取时间**: 2026-05-29 18:38:09
+- **提取时间**: 2026-06-01 20:17:36
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Electrolyte manufacturers]]
-- [[CAT]]
-- [[Membrane producers]]
+- [[Natural gas suppliers]]
+- [[Biogas suppliers]]
+- [[Hydrogen suppliers]]
+- [[Electrolyzer component manufacturers]]
 - [[Fuel cell stack component suppliers]]
-- [[Natural gas and biogas suppliers]]
 
 ### 下游客户
-- [[Data center operators]]
-- [[Manufacturing facilities]]
-- [[Commercial building operators]]
-- [[Utilities]]
-- [[CAT]]
+- [[GOOGL]]
+- [[AMZN]]
+- [[MSFT]]
+- [[Facebook]]
+- [[IBM]]
 
 ### 竞争对手
 - [[FuelCell Energy]]
 - [[Plug Power]]
 - [[Ballard Power Systems]]
-- [[PowerCell Sweden]]
+- [[Siemens Energy]]
+- [[General Electric]]
 
 ### 核心产品
-- [[Bloom Energy Server (solid oxide fuel cell)]]
-- [[Bloom Energy Electrolyzer]]
-- [[Bloom Energy Hydrogen Production System]]
-- [[Bloom Energy Power Generation Solutions]]
-- [[Bloom Energy Fuel Cell Stack]]
+- [[Solid Oxide Fuel Cells (SOFCs)]]
+- [[Onsite Power Generation Systems]]
+- [[Electrolyzers for Hydrogen Production]]
+- [[Hydrogen Production Systems]]
+- [[Power Generation Units]]
 
 ## 数据来源
 
 - [Bloom Energy](https://en.wikipedia.org/wiki/Bloom_Energy_Corporation)
-- [Bloom Energy Corporation suppliers manufacturers](https://www.linkedin.com/company/bloom-energy)
-- [Bloom Energy Corporation suppliers manufacturers](https://finance.yahoo.com/news/bloom-energy-corporation-best-hydrogen-144600863.html)
-- [Bloom Energy Corporation major customers clients](https://www.linkedin.com/company/bloom-energy)
-- [Bloom Energy Corporation major customers clients](https://finance.yahoo.com/markets/stocks/articles/jim-cramer-discusses-bloom-energy-133748957.html)
+- [Bloom Energy Corporation suppliers manufacturers](https://en.wikipedia.org/wiki/Bloom_Energy)
+- [Bloom Energy Corporation suppliers manufacturers](https://www.bloomenergy.com/)
+- [Bloom Energy Corporation major customers clients](https://en.wikipedia.org/wiki/Bloom_Energy)
+- [Bloom Energy Corporation major customers clients](https://www.bloomenergy.com/customers/)
 
 ## 元数据
 
-- **更新日期**: 2026-05-29
+- **更新日期**: 2026-06-01

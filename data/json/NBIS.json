@@ -4,34 +4,34 @@
   "sector": "Communication Services",
   "industry": "Internet Content & Information",
   "upstream": [
-    "NVDA",
-    "AMD",
-    "INTC",
-    "GOOGL",
-    "AMZN"
+    "Cloud infrastructure providers",
+    "Hardware manufacturers",
+    "AI software vendors",
+    "Data center operators",
+    "Network equipment suppliers"
   ],
   "downstream": [
     "Large enterprises",
-    "AI research labs",
-    "Cloud service providers",
-    "Fintech firms",
-    "Healthcare organizations"
+    "Government agencies",
+    "Technology firms",
+    "Financial institutions",
+    "Research organizations"
   ],
   "competitors": [
     "OpenAI",
-    "Anthropic",
-    "Cohere",
-    "DeepMind",
-    "Hugging Face"
+    "GOOGL",
+    "MSFT",
+    "IBM",
+    "AMZN"
   ],
   "key_products": [
-    "Nebius AI infrastructure platform",
-    "Avride",
-    "TripleTen",
-    "Toloka",
-    "Clickhouse"
+    "AI infrastructure platform",
+    "AI training services",
+    "Data labeling platform (Toloka)",
+    "Analytics platform (Clickhouse)",
+    "AI-powered content delivery (Avride)"
   ],
-  "extracted_at": "2026-05-29 18:35:25",
+  "extracted_at": "2026-06-01 20:13:43",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/suppliers_glance.php?code=NBIS",
+      "url": "https://en.wikipedia.org/wiki/Nebius_Group",
       "query": "NBIS suppliers manufacturers",
-      "snippet": "NBIS 's Stock Perfrormance relative to it's Suppliers . NBIS 's vs. Suppliers , Data. (Revenue and Income for Trailing 12 Months, in Millions of $, ex"
+      "snippet": "Nebius Group N.V., headquartered in Amsterdam, is a technology company that provides artificial intelligence infrastructure."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ru.investing.com/equities/yandex-nv",
+      "url": "https://csimarket.com/stocks/suppliers_glance.php?code=NBIS",
       "query": "NBIS suppliers manufacturers",
-      "snippet": "Акции Nebius Group NV ( NBIS ): курс сегодня, актуальная цена онлайн, графики, мнения, технический анализ, отчеты и другое о Nebius NV."
+      "snippet": "NBIS 's Suppliers Management Effectiveness. NBIS 's Competitors Results. NBIS 's vs. Suppliers , Data. (Revenue and Income for Trailing 12 Months, in "
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://finance.yahoo.com/quote/NBIS/",
+      "query": "NBIS major customers clients",
+      "snippet": "Find the latest Nebius Group N.V. ( NBIS ) stock quote, history, news and other vital information to help you with your stock trading and investing."
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.nasdaq.com/market-activity/stocks/nbis",
       "query": "NBIS major customers clients",
-      "snippet": "Data Disclaimer: The Nasdaq Indices and the Major Indices are delayed at least 1 minute. Real-time Data is provided using Nasdaq Last Sale Data."
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.youtube.com/watch?v=bp1PJJR-xC0",
-      "query": "NBIS major customers clients",
-      "snippet": "CLIENTS music to attract customers and money in 1 day - with sounds to Visualize 2026 Vol 2 https://youtu.be/C1iqbL6LSNI #WealthMusic #attracWealth #."
+      "snippet": "ETFs with NBIS as a Top 10 Holding*.Data Disclaimer: The Nasdaq Indices and the Major Indices are delayed at least 1 minute. Real-time Data is provide"
     }
   ]
 }

@@ -4,47 +4,40 @@
   "sector": "Consumer Cyclical",
   "industry": "Internet Retail",
   "upstream": [
-    "Electronics manufacturers",
-    "Apparel manufacturers",
-    "Home goods manufacturers",
-    "Book publishers",
-    "Consumer electronics suppliers"
+    "AAPL",
+    "Clothing manufacturers (e.g., Nike, Adidas)",
+    "Home goods manufacturers (e.g., IKEA)",
+    "Book publishers (e.g., Penguin Random House)",
+    "AMZN"
   ],
   "downstream": [
-    "Individual consumers worldwide",
-    "Small and medium businesses",
+    "AMZN",
+    "AMZN",
     "AMZN",
     "AMZN",
     "AMZN"
   ],
   "competitors": [
     "Walmart",
-    "Alibaba Group",
+    "Alibaba",
     "eBay",
-    "MSFT",
-    "GOOGL"
+    "Target",
+    "Shopify"
   ],
   "key_products": [
-    "Amazon.com marketplace",
-    "Amazon Prime subscription",
-    "Amazon Web Services (AWS)",
-    "Amazon Prime Video",
-    "Amazon Music",
-    "Alexa voice assistant"
+    "Amazon.com e‑commerce platform",
+    "Amazon Web Services (cloud computing)",
+    "Amazon Prime Video (streaming)",
+    "Amazon Echo (Alexa smart devices)",
+    "Amazon Kindle (e‑books and tablets)"
   ],
-  "extracted_at": "2026-05-29 18:30:27",
+  "extracted_at": "2026-06-01 20:11:09",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Amazon.com,_Inc.",
       "title": "Amazon (company)",
-      "snippet": "Amazon.com, Inc. is an American multinational technology company engaged in e-commerce, cloud computing, online advertising, digital streaming, entertainment and artificial intelligence. Founded in 19"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://us.amazon.com/",
-      "query": "Amazon.com, Inc. suppliers manufacturers",
-      "snippet": "Enjoy low prices and great deals on the largest selection of everyday essentials and other products, including fashion, home, beauty, electronics, Ale"
+      "snippet": "Amazon.com, Inc. is an American multinational technology company engaged in e-commerce, cloud computing, online advertising, digital streaming, entertainment, and artificial intelligence. Founded in 1"
     },
     {
       "source": "DuckDuckGo",
@@ -54,15 +47,21 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://us.amazon.com/",
-      "query": "Amazon.com, Inc. major customers clients",
-      "snippet": "Reach customers wherever they spend their time."
+      "url": "https://ir.aboutamazon.com/",
+      "query": "Amazon.com, Inc. suppliers manufacturers",
+      "snippet": "Amazon . com , Inc . (NASDAQ: AMZN) today announced financial results for its first quarter ended March 31, 2026. Net sales increased 17% to $181.5 bi"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ir.aboutamazon.com/",
+      "url": "https://en.wikipedia.org/wiki/Amazon_(company)",
       "query": "Amazon.com, Inc. major customers clients",
-      "snippet": "Amazon . com , Inc . (NASDAQ: AMZN) today announced financial results for its first quarter ended March 31, 2026. Net sales increased 17% to $181.5 bi"
+      "snippet": "Amazon.com, Inc .[1] (doing business as Amazon) [a] is an American multinational technology company engaged in e-commerce, cloud computing, online adv"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/AMZN-Customers",
+      "query": "Amazon.com, Inc. major customers clients",
+      "snippet": "Amazon Com Inc 's Comment on Sales, Marketing and Customers We serve consumers through our retail websites and focus on selection, price, and convenie"
     }
   ]
 }

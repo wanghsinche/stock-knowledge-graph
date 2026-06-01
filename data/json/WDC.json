@@ -5,63 +5,63 @@
   "industry": "Computer Hardware",
   "upstream": [
     "005930.KS",
-    "Printed circuit board (PCB) suppliers",
-    "Electronics manufacturing services (EMS) providers",
-    "Magnetic material suppliers",
-    "Precision machining and assembly suppliers"
+    "SK Hynix",
+    "MU",
+    "Toshiba",
+    "Kioxia"
   ],
   "downstream": [
     "DELL",
-    "DELL",
+    "HPQ",
+    "Lenovo",
     "AAPL",
-    "MSFT",
-    "Automotive and industrial OEMs"
+    "AMZN"
   ],
   "competitors": [
     "STX",
-    "Toshiba (Kioxia)",
+    "Toshiba",
     "005930.KS",
-    "SK Hynix (SSD)",
-    "MU"
+    "MU",
+    "INTC"
   ],
   "key_products": [
-    "Internal hard disk drives (HDDs)",
-    "Solid‑state drives (SSDs)",
-    "External portable storage devices",
-    "Network Attached Storage (NAS) solutions",
-    "Enterprise storage arrays"
+    "Hard Disk Drives (HDDs)",
+    "Solid State Drives (SSDs)",
+    "External Hard Drives",
+    "Enterprise Storage Arrays",
+    "Cloud Storage Solutions"
   ],
-  "extracted_at": "2026-05-29 18:40:23",
+  "extracted_at": "2026-06-01 20:15:57",
   "sources": [
     {
       "source": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Western_Digital_Corporation",
-      "title": "Western Digital",
-      "snippet": "Western Digital Corporation, doing business as WD, is an American data storage company headquartered in San Jose, California. Established in 1970, the company is one of the world's largest manufacture"
+      "url": "",
+      "title": "",
+      "snippet": ""
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.westerndigital.com/company/distributors",
+      "query": "Western Digital Corporation suppliers manufacturers",
+      "snippet": "Find Distributors & Resellers Purchase from your preferred Western Digital authorized partner Region Country/Area Brand"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/WDC-Suppliers",
+      "query": "Western Digital Corporation suppliers manufacturers",
+      "snippet": "May 3, 2026 · Western Digital supply chain, list and performance of Western Digitals' suppliers - CSIMarket"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Western_Digital",
-      "query": "Western Digital Corporation suppliers manufacturers",
+      "query": "Western Digital Corporation major customers clients",
       "snippet": "Western Digital Corporation is an American data storage company headquartered in San Jose, California. It has a decades-long history in the electronic"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ru.wikipedia.org/wiki/Western_Digital",
-      "query": "Western Digital Corporation suppliers manufacturers",
-      "snippet": "Western Digital Corporation .SSD Western Digital Green 120 Gb. Western Digital Corporation (NASDAQ: WDC. , по-русски «Вестерн Диджитал»[3]) — компания"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://ru.wikipedia.org/wiki/Western_Digital",
+      "url": "https://community.wd.com/",
       "query": "Western Digital Corporation major customers clients",
-      "snippet": "Western Digital Corporation (NASDAQ: WDC. , по-русски «Вестерн Диджитал»[3]) — компания, производитель компьютерной электроники. Наиболее известна про"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.westerndigital.com/support",
-      "query": "Western Digital Corporation major customers clients",
-      "snippet": "Need help with a Western Digital HDD? Download firmware, check warranty status, access FAQs, or contact technical support—all in one place."
+      "snippet": "Western Digital Business Portal. Unlock benefits and tools for your business such as enterprise support, pricing and rebate tools, marketing, loyalty,"
     }
   ]
 }

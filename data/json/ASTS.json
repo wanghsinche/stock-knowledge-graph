@@ -1,37 +1,37 @@
 {
   "ticker": "ASTS",
   "company_name": "AST SpaceMobile, Inc.",
-  "sector": "Technology",
-  "industry": "Communication Equipment",
+  "sector": "Technology / Communication Equipment",
+  "industry": "Satellite Communications",
   "upstream": [
+    "SpaceX",
+    "Blue Origin",
+    "Rocket Lab",
     "Lockheed Martin",
-    "Boeing",
-    "Northrop Grumman",
-    "Airbus",
-    "Raytheon Technologies"
+    "Boeing"
   ],
   "downstream": [
     "AT&T",
     "Verizon",
     "T-Mobile",
-    "CAT",
-    "U.S. Department of Defense"
+    "US Department of Defense",
+    "NASA"
   ],
   "competitors": [
-    "SpaceX (Starlink)",
+    "SpaceX Starlink",
     "OneWeb",
-    "AMZN",
     "Telesat",
+    "AMZN",
     "CAT"
   ],
   "key_products": [
-    "Low Earth Orbit (LEO) satellite broadband network",
-    "Satellite-based mobile broadband terminals",
-    "Satellite communication payloads",
-    "Ground station infrastructure",
-    "Satellite network management software"
+    "Space-based cellular broadband",
+    "Satellite design and manufacturing",
+    "Satellite communications network",
+    "Mobile broadband via satellite",
+    "Space-based IoT connectivity"
   ],
-  "extracted_at": "2026-05-29 18:32:13",
+  "extracted_at": "2026-06-01 20:16:29",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/ASTS/",
+      "url": "https://ast-science.com/",
       "query": "AST SpaceMobile, Inc. suppliers manufacturers",
-      "snippet": "Find the latest AST SpaceMobile , Inc . (ASTS) stock quote, history, news and other vital information to help you with your stock trading and investin"
+      "snippet": "AST SpaceMobile is building the first and only space -based cellular broadband network accessible directly by standard, unmodified mobile phones.Yet, "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ast-science.com/spacemobile-network/",
+      "url": "https://finance.yahoo.com/quote/ASTS/",
       "query": "AST SpaceMobile, Inc. suppliers manufacturers",
-      "snippet": "Direct connection. AST SpaceMobile aims to directly connect ordinary mobile phones to a space -based cellular broadband satellite network. This means "
+      "snippet": "AST SpaceMobile (ASTS) plunged 14.8% after Blue Origin's rocket explosion raised serious concerns about launch schedules and prompted a downgrade from"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/AST_SpaceMobile",
       "query": "AST SpaceMobile, Inc. major customers clients",
-      "snippet": "AST SpaceMobile is a publicly traded satellite designer and manufacturer based in Midland, Texas, United States. The company is building the SpaceMobi"
+      "snippet": "AST SpaceMobile , Inc . is a publicly traded satellite designer and manufacturer based in Midland, Texas, United States. [6][7] The company is buildin"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finviz.com/news/27727/ast-spacemobile-5-reasons-to-buy-this-tiny-trailblazer-stock",
+      "url": "https://csimarket.com/stocks/ASTS-Customers",
       "query": "AST SpaceMobile, Inc. major customers clients",
-      "snippet": "AST SpaceMobile ’s broadband cellular network is supposed to fill in coverage gaps throughout the globe in order to ensure continuous coverage for mob"
+      "snippet": "6 days ago · Ast Spacemobile Inc customers and markets, results by customer and performance relative to ASTS, by company and industry - CSIMarket"
     }
   ]
 }

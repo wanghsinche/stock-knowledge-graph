@@ -3,8 +3,8 @@ ticker: CRM
 company: Salesforce, Inc.
 sector: Technology
 industry: Software - Application
-extracted_at: 2026-05-29 18:35:11
-last_updated: 2026-05-29
+extracted_at: 2026-06-01 20:14:05
+last_updated: 2026-06-01
 ---
 
 # CRM - Salesforce, Inc.
@@ -12,28 +12,28 @@ last_updated: 2026-05-29
 ## 基本信息
 
 - **所属行业**: Technology / Software - Application
-- **提取时间**: 2026-05-29 18:35:11
+- **提取时间**: 2026-06-01 20:14:05
 
 ## 产业链关系
 
 ### 上游供应商
-- [[AMZN]]
+- [[ExactTarget Inc.]]
 - [[MSFT]]
+- [[AMZN]]
 - [[GOOGL]]
 - [[ORCL]]
-- [[IBM]]
 
 ### 下游客户
 - [[AMZN]]
 - [[Coca‑Cola]]
-- [[American Express]]
-- [[Unilever]]
 - [[Toyota]]
+- [[Nike]]
+- [[American Express]]
 
 ### 竞争对手
 - [[MSFT]]
-- [[SAP CRM]]
 - [[ORCL]]
+- [[SAP Customer Experience]]
 - [[HubSpot]]
 - [[Zoho CRM]]
 
@@ -47,11 +47,11 @@ last_updated: 2026-05-29
 ## 数据来源
 
 - [Salesforce](https://en.wikipedia.org/wiki/Salesforce,_Inc.)
-- [Salesforce, Inc. suppliers manufacturers](https://tr.wikipedia.org/wiki/Salesforce)
 - [Salesforce, Inc. suppliers manufacturers](https://csimarket.com/stocks/CRM-Suppliers)
+- [Salesforce, Inc. suppliers manufacturers](https://www.salesforce.com/)
 - [Salesforce, Inc. major customers clients](https://www.salesforce.com/)
-- [Salesforce, Inc. major customers clients](https://www.technetexperts.com/salesforce-customer-success-stories/)
+- [Salesforce, Inc. major customers clients](https://www.heise.de/en/news/Salesforce-200-major-customers-join-Agentforce-10189412.html)
 
 ## 元数据
 
-- **更新日期**: 2026-05-29
+- **更新日期**: 2026-06-01

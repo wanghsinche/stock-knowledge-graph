@@ -5,33 +5,33 @@
   "industry": "Advertising Agencies",
   "upstream": [
     "AAPL",
+    "005930.KS",
     "GOOGL",
     "MSFT",
-    "AMZN",
-    "Data broker firms"
+    "AMZN"
   ],
   "downstream": [
     "Mobile app developers",
-    "Game developers",
-    "Brands and advertisers",
-    "Digital marketing agencies",
-    "E‑commerce platforms"
+    "Gaming companies",
+    "E-commerce platforms",
+    "Social media platforms",
+    "Video streaming services"
   ],
   "competitors": [
-    "Unity Technologies",
+    "Unity Ads",
+    "AdMob",
     "IronSource",
-    "AdColony",
     "Vungle",
-    "GOOGL"
+    "Chartboost"
   ],
   "key_products": [
     "AppLovin SDK",
-    "AppLovin Marketing Cloud",
-    "In‑app advertising platform",
-    "Mobile app monetization tools",
-    "Analytics & attribution services"
+    "AppLovin MAX",
+    "AppLovin Marketing Platform",
+    "AppLovin Data Analytics",
+    "AppLovin Mobile Advertising"
   ],
-  "extracted_at": "2026-05-29 18:39:07",
+  "extracted_at": "2026-06-01 20:18:36",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.applovin.com/",
+      "url": "https://en.wikipedia.org/wiki/AppLovin",
       "query": "AppLovin Corporation suppliers manufacturers",
-      "snippet": "AppLovin enables businesses to advertise profitably with marketing technologies that attract customers, increase revenue, and track ad performance."
+      "snippet": "AppLovin Corporation is an American mobile technology company headquartered in Palo Alto, California. [3] Founded in 2012, the company helps developer"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.tipranks.com/stocks/app/stock-analysis",
+      "url": "https://csimarket.com/stocks/APP-Suppliers",
       "query": "AppLovin Corporation suppliers manufacturers",
-      "snippet": "Get a real-time AppLovin Corp . Class A (APP) stock analysis report, powered by AI. AppLovin Corporate Events. Executive/Board ChangesShareholder Meet"
+      "snippet": "Feb 28, 2026 · Applovin's Suppliers recorded an increase in sales by 6.16 % year on year in Q4 2025, sequentially sales grew by 2285.92 %, Applovin's "
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/AppLovin",
+      "query": "AppLovin Corporation major customers clients",
+      "snippet": "AppLovin Corporation is an American mobile technology company headquartered in Palo Alto, California. Founded in 2012, the company helps developers ma"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.applovin.com/",
       "query": "AppLovin Corporation major customers clients",
       "snippet": "AppLovin enables businesses to advertise profitably with marketing technologies that attract customers , increase revenue, and track ad performance."
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.tipranks.com/stocks/app/stock-analysis",
-      "query": "AppLovin Corporation major customers clients",
-      "snippet": "Get a real-time AppLovin Corp . Class A (APP) stock analysis report, powered by AI. AppLovin Corporate Events. Executive/Board ChangesShareholder Meet"
     }
   ]
 }

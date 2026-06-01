@@ -1,37 +1,37 @@
 {
   "ticker": "STX",
   "company_name": "Seagate Technology Holdings plc",
-  "sector": "Technology / Computer Hardware",
-  "industry": "Hard Disk Drive Manufacturing",
+  "sector": "Technology",
+  "industry": "Computer Hardware",
   "upstream": [
-    "Hard disk drive component suppliers",
-    "Platter manufacturers",
-    "Electronics and firmware suppliers",
-    "Magnetic media suppliers",
-    "Precision machining suppliers"
+    "MU",
+    "005930.KS",
+    "SK Hynix",
+    "Toshiba Corporation",
+    "INTC"
   ],
   "downstream": [
     "DELL",
-    "DELL",
-    "Enterprise storage vendors (NetApp, EMC)",
-    "GOOGL",
-    "005930.KS"
+    "HPQ",
+    "Lenovo Group",
+    "AAPL",
+    "AMZN"
   ],
   "competitors": [
     "WDC",
-    "Toshiba",
-    "WDC",
+    "Toshiba Corporation",
     "005930.KS",
+    "IBM",
     "MU"
   ],
   "key_products": [
-    "Enterprise HDDs",
-    "Desktop HDDs",
-    "External HDDs",
-    "Seagate SSDs",
-    "Enterprise SSDs"
+    "Barracuda HDD",
+    "IronWolf HDD",
+    "Exos Enterprise HDD",
+    "SkyHawk Surveillance HDD",
+    "Seagate SSDs"
   ],
-  "extracted_at": "2026-05-29 18:42:28",
+  "extracted_at": "2026-06-01 20:16:14",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.seagate.com/",
+      "url": "https://en.wikipedia.org/wiki/Seagate_Technology",
       "query": "Seagate Technology Holdings plc suppliers manufacturers",
-      "snippet": "Seagate Technology Holdings PLC ."
+      "snippet": "Seagate Technology ... Seagate Technology Holdings plc is an American data storage company. It was incorporated in 1978 as Shugart Technology and comm"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/news/seagate-technology-holdings-plcs-dividend-100633734.html",
+      "url": "https://csimarket.com/stocks/STX-Suppliers",
       "query": "Seagate Technology Holdings plc suppliers manufacturers",
-      "snippet": "Seagate Technology Holdings PLC is a leading supplier of hard disk drives for data storage to the enterprise and consumer markets. It forms a practica"
+      "snippet": "Apr 30, 2026 · Sources: Seagate Technology Holdings Plc 's official press releases and regulatory filings; CSIMarket.com's supply -chain research; and"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://simplywall.st/stocks/at/tech/vie-stxh/seagate-technology-holdings-shares/management",
+      "url": "https://csimarket.com/stocks/STX-Customers",
       "query": "Seagate Technology Holdings plc major customers clients",
-      "snippet": "Seagate Technology Holdings plc . WBAG:STXH Stock Report. Market Cap: €112.0b."
+      "snippet": "Seagate Technology Holdings Plc 's Comment on Sales, Marketing and Customers We sell our products to major OEMs, distributors and retailers. OEM custo"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.marketresearch.com/GlobalData-v3648/Seagate-Technology-Holdings-PLC-STX-42358792/",
+      "url": "https://www.appsruntheworld.com/customers-database/vendors/view/seagate-technology",
       "query": "Seagate Technology Holdings plc major customers clients",
-      "snippet": "Seagate Technology Holdings PLC ( Seagate ) is a manufacturer of electronic storage devices. The company designs and markets solid state drives (SSD),"
+      "snippet": "List of companies using or evaluating Seagate Technology applications, with details on their revenues, employees, industries, and locations."
     }
   ]
 }

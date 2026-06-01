@@ -1,14 +1,14 @@
 {
   "ticker": "AVGO",
   "company_name": "Broadcom Inc.",
-  "sector": "Technology / Semiconductors",
-  "industry": "Semiconductor",
+  "sector": "Technology",
+  "industry": "Semiconductors",
   "upstream": [
     "TSM",
     "005930.KS",
     "GlobalFoundries",
-    "INTC",
-    "MU"
+    "ASE Technology Holding",
+    "Amkor Technology"
   ],
   "downstream": [
     "CSCO",
@@ -27,11 +27,11 @@
   "key_products": [
     "Wi‑Fi and Bluetooth chips",
     "Ethernet controllers",
-    "Broadband modem chips",
-    "Storage controller chips",
-    "RF and wireless chips"
+    "Broadband and cable modem chips",
+    "Storage controller ASICs",
+    "Infrastructure software solutions"
   ],
-  "extracted_at": "2026-05-29 18:30:09",
+  "extracted_at": "2026-06-01 20:11:23",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,15 +41,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Broadcom",
-      "query": "Broadcom Inc. suppliers manufacturers",
-      "snippet": "Broadcom Inc . is an American multinational designer, developer, manufacturer , and global supplier of a wide range of semiconductor and infrastructur"
-    },
-    {
-      "source": "DuckDuckGo",
       "url": "https://csimarket.com/stocks/AVGO-Suppliers",
       "query": "Broadcom Inc. suppliers manufacturers",
       "snippet": "Broadcom Inc supply chain, list and performance of Broadcom Incs ' suppliers - CSIMarket.We could experience significant delays in product shipments i"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.youtube.com/channel/UCTr3zah69bISSVdBcHiKhpA",
+      "query": "Broadcom Inc. suppliers manufacturers",
+      "snippet": "Broadcom provides semiconductors and infrastructure software for global organizations’ complex, mission-critical needs."
     },
     {
       "source": "DuckDuckGo",
@@ -59,9 +59,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.broadcom.com/support",
+      "url": "https://csimarket.com/stocks/AVGO-Customers",
       "query": "Broadcom Inc. major customers clients",
-      "snippet": "Access Broadcom 's Customer Support Portal to obtain warranty information, find documentation and downloads, and answer other questions you might have"
+      "snippet": "Broadcom Inc customers and markets, results by customer and performance relative to AVGO, by company and industry - CSIMarket"
     }
   ]
 }

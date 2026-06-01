@@ -5,33 +5,33 @@
   "industry": "Software - Infrastructure",
   "upstream": [
     "DELL",
-    "HPQ",
-    "IBM",
-    "INTC",
-    "NVDA"
+    "NVDA",
+    "MSFT",
+    "ORCL",
+    "CSCO"
   ],
   "downstream": [
-    "Bank of America",
-    "UnitedHealth Group",
-    "Walmart",
-    "Airbnb",
-    "U.S. Department of Defense"
+    "Large enterprises (e.g., Walmart, JPMorgan Chase)",
+    "Government agencies (e.g., U.S. Department of Defense, U.K. Ministry of Defence)",
+    "Financial institutions (e.g., Bank of America, HSBC)",
+    "Healthcare organizations (e.g., Mayo Clinic, Kaiser Permanente)",
+    "Retail and e‑commerce companies (e.g., eBay, Alibaba)"
   ],
   "competitors": [
     "MSFT",
-    "SAP",
-    "IBM",
     "AMZN",
+    "IBM",
+    "SAP",
     "GOOGL"
   ],
   "key_products": [
     "Oracle Database",
-    "Oracle Cloud Infrastructure",
+    "Oracle Cloud Infrastructure (OCI)",
     "Oracle Autonomous Database",
-    "Oracle E‑Business Suite",
-    "Oracle Fusion Applications"
+    "Oracle Applications (e.g., E-Business Suite, Fusion Applications)",
+    "Oracle Java Platform"
   ],
-  "extracted_at": "2026-05-29 18:30:41",
+  "extracted_at": "2026-06-01 20:11:48",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,13 +43,13 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Oracle_Corporation",
       "query": "Oracle Corporation suppliers manufacturers",
-      "snippet": "Oracle Rdb, a relational database system running on OpenVMS platforms. Oracle acquired Rdb in 1994 from Digital Equipment Corporation . Oracle has sin"
+      "snippet": "Oracle Corporation is an American multinational technology company headquartered in Austin, Texas. [5] Co-founded in Santa Clara, California, in 1977 "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ru.wikipedia.org/wiki/Oracle",
+      "url": "https://www.oracle.com/corporate/suppliers/",
       "query": "Oracle Corporation suppliers manufacturers",
-      "snippet": "Oracle — американская корпорация, второй по размеру выручки разработчик программного обеспечения[4], четвёртая крупнейшая компания в сфере информацион"
+      "snippet": "Doing Business with Oracle Oracle iSupplier Portal (iSP) is a secured self-service tool, which provides Oracle's suppliers with the ability to use a s"
     },
     {
       "source": "DuckDuckGo",

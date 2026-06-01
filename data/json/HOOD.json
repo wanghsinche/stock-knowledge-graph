@@ -4,34 +4,34 @@
   "sector": "Financial Services",
   "industry": "Capital Markets",
   "upstream": [
-    "Market data providers (e.g., Nasdaq, NYSE)",
-    "AMZN",
-    "Payment processors (e.g., Stripe, PayPal)",
+    "Cloud service providers (AWS, Azure)",
+    "Data feed providers (Bloomberg, Refinitiv)",
+    "Payment processors (Stripe, PayPal)",
     "Regulatory technology firms",
     "Cybersecurity vendors"
   ],
   "downstream": [
     "Retail investors",
-    "Day traders",
-    "Institutional clients",
+    "Institutional investors",
     "Crypto traders",
-    "High‑frequency traders"
+    "High‑frequency traders",
+    "Financial advisors"
   ],
   "competitors": [
     "Charles Schwab",
     "TD Ameritrade",
     "E*TRADE",
-    "Fidelity Investments",
-    "Webull"
+    "Webull",
+    "SoFi Invest"
   ],
   "key_products": [
-    "Commission‑free stock and ETF trading",
-    "Options trading platform",
-    "Margin trading (Robinhood Gold)",
+    "Commission‑free stock trading",
     "Cryptocurrency trading",
-    "Cash management and interest‑earning accounts"
+    "Margin trading",
+    "Robinhood Gold subscription",
+    "Options trading"
   ],
-  "extracted_at": "2026-05-29 18:32:46",
+  "extracted_at": "2026-06-01 20:14:55",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,21 +47,21 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://robinhood.com/",
+      "url": "https://csimarket.com/stocks/HOOD-Suppliers",
       "query": "Robinhood Markets, Inc. suppliers manufacturers",
-      "snippet": "Trade stocks on Robinhood with commission-free investing & advanced trading tools. Access fractional shares, real-time market data, and more."
+      "snippet": "Feb 28, 2026 · Robinhood Markets Inc 's Suppliers recorded an increase in sales by 8.72 % year on year in Q4 2025, sequentially sales grew by 4.1 %, w"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Robinhood_Markets",
       "query": "Robinhood Markets, Inc. major customers clients",
-      "snippet": "Robinhood co-founder Baiju Bhatt (left) and moderator Josh Constine (right) speak onstage during Day 2 of TechCrunch Disrupt SF 2018 at the Moscone Ce"
+      "snippet": "Robinhood Markets , Inc . is an American financial services company based in Menlo Park, California."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://robinhood.com/",
+      "url": "https://www.investing.com/equities/robinhood-markets",
       "query": "Robinhood Markets, Inc. major customers clients",
-      "snippet": "Trade stocks on Robinhood with commission-free investing & advanced trading tools. Access fractional shares, real-time market data, and more."
+      "snippet": "Major Funds. customers the basics related to cryptocurrency. Further, it provides Robinhood credit cards, cash card and spending accounts, and wallets"
     }
   ]
 }

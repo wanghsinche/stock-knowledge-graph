@@ -1,63 +1,61 @@
 {
   "ticker": "CSCO",
   "company_name": "Cisco Systems, Inc.",
-  "sector": "Technology",
-  "industry": "Communication Equipment",
+  "sector": "Technology / Communication Equipment",
+  "industry": "Networking Equipment",
   "upstream": [
     "INTC",
-    "QCOM",
     "AVGO",
-    "NVDA",
-    "TXN"
+    "QCOM",
+    "TXN",
+    "NVDA"
   ],
   "downstream": [
-    "Enterprise IT departments",
-    "CAT",
-    "Government agencies",
-    "CAT",
-    "Cloud service providers"
+    "AT&T",
+    "Verizon",
+    "Comcast",
+    "Vodafone",
+    "China Mobile"
   ],
   "competitors": [
     "JNPR",
-    "ANET",
     "Huawei",
+    "ANET",
     "Nokia",
     "Ericsson"
   ],
   "key_products": [
-    "Cisco routers",
-    "Cisco switches",
-    "Webex video conferencing",
-    "OpenDNS security",
-    "Cisco ASA firewall",
-    "Cisco IOS software",
-    "Cisco Jasper IoT platform"
+    "Routers",
+    "Switches",
+    "Wireless LAN",
+    "Security Appliances",
+    "SD‑WAN"
   ],
-  "extracted_at": "2026-05-26 18:23:24",
+  "extracted_at": "2026-06-01 20:20:17",
   "sources": [
     {
       "source": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Cisco_Systems,_Inc.",
-      "title": "Cisco",
-      "snippet": "Cisco Systems, Inc., doing business as Cisco, is an American multinational technology conglomerate corporation that develops, manufactures, and sells hardware, software, telecommunications equipment a"
+      "url": "",
+      "title": "",
+      "snippet": ""
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Cisco",
+      "url": "https://www.cisco.com/c/dam/en_us/about/supply-chain/cisco-supplier-list.pdf",
       "query": "Cisco Systems, Inc. suppliers manufacturers",
-      "snippet": "In March 2007, Cisco acquired Reactivity Inc , a privately held XML gateway provider based in Redwood City, California."
+      "snippet": "Cisco Supplier List Cisco products are made by a complex global network of manufacturing partners and component suppliers . To learn more about how we"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ru.wikipedia.org/wiki/Cisco",
+      "url": "https://www.accio.com/supplier/cisco-supplier-list",
       "query": "Cisco Systems, Inc. suppliers manufacturers",
-      "snippet": "Cisco Systems , «Сиско Системз» — американская транснациональная компания, разрабатывающая и продающая сетевое оборудование, предназначенное в основно"
+      "snippet": "May 25, 2026 · Cisco Partners (including resellers, distributors, and system integrators) are authorized by Cisco to sell, support, and implement Cisc"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Cisco",
       "query": "Cisco Systems, Inc. major customers clients",
-      "snippet": "Cisco Systems , Inc ., doing business as Cisco , is an American multinational technology conglomerate corporation that develops, manufactures, and sel"
+      "snippet": "Cisco Systems , Inc ., doing business as Cisco, is an American multinational technology conglomerate corporation that develops, manufactures, and sell"
     },
     {
       "source": "DuckDuckGo",

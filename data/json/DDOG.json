@@ -7,31 +7,31 @@
     "AMZN",
     "MSFT",
     "GOOGL",
-    "CSCO",
-    "DELL"
+    "VMware",
+    "Open-source libraries (e.g., Prometheus, Grafana)"
   ],
   "downstream": [
-    "CRM",
-    "ADBE",
-    "Shopify",
     "NFLX",
-    "Airbnb"
+    "Airbnb",
+    "Shopify",
+    "Square",
+    "ADBE"
   ],
   "competitors": [
     "New Relic",
     "Splunk",
     "Dynatrace",
-    "Elastic",
-    "AppDynamics"
+    "AppDynamics",
+    "Elastic"
   ],
   "key_products": [
-    "Datadog APM",
+    "Datadog Agent",
+    "Datadog Dashboards",
+    "Datadog APM (Application Performance Monitoring)",
     "Datadog Infrastructure Monitoring",
-    "Datadog Log Management",
-    "Datadog Cloud Security",
-    "Datadog Synthetic Monitoring"
+    "Datadog Log Management"
   ],
-  "extracted_at": "2026-05-08 17:10:30",
+  "extracted_at": "2026-06-01 20:16:43",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.datadoghq.com/solutions/security-analytics/",
+      "url": "https://en.wikipedia.org/wiki/Datadog",
       "query": "Datadog, Inc. suppliers manufacturers",
-      "snippet": "Datadog 's security analytics solutions allow for Dev, Sec, and Ops teams to catch potential threats earlier and improve security posture. Datadog ’s "
+      "snippet": "Datadog, Inc . is an American company that provides an observability service for cloud-scale applications, providing monitoring of servers, databases,"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://sg.finance.yahoo.com/news/datadog-two-other-stocks-could-113809023.html",
+      "url": "https://csimarket.com/stocks/DDOG-Suppliers",
       "query": "Datadog, Inc. suppliers manufacturers",
-      "snippet": "Overview: Datadog , Inc . operates an observability and security platform for cloud applications globally, with a market cap of approximately $50.02 b"
+      "snippet": "May 9, 2026 · Datadog Inc 's Suppliers recorded an increase in sales by 23.32 % year on year in Q4 2025, sequentially sales grew by 10.57 %, Datadog I"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.fool.com/investing/2020/06/11/better-buy-alphabet-vs-datadog.aspx",
+      "url": "https://www.datadoghq.com/customers/",
       "query": "Datadog, Inc. major customers clients",
-      "snippet": "Datadog keeps tabs on all your tech. Unlike Alphabet, which has been a public company since 2004, Datadog has only been a public company for less than"
+      "snippet": "See metrics from all of your apps, tools & services in one place with Datadog 's cloud monitoring as a service solution. Try it for free."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.morningstar.com/company-reports/1138248-narrow-moat-datadog-is-poised-for-success-in-the-observability-market",
+      "url": "https://www.appsruntheworld.com/customers-database/vendors/view/datadog",
       "query": "Datadog, Inc. major customers clients",
-      "snippet": "Datadog Inc Class A. DDOG: XNAS (USA). View Stock Summary. Datadog 's additional products, including its more recent security offerings, can offer dif"
+      "snippet": "List of companies using or evaluating Datadog applications, with details on their revenues, employees, industries, and locations."
     }
   ]
 }

@@ -1,37 +1,35 @@
 {
   "ticker": "MSTR",
-  "company_name": "MicroStrategy Incorporated",
+  "company_name": "Strategy Inc",
   "sector": "Technology",
-  "industry": "Software—Application",
+  "industry": "Software - Application",
   "upstream": [
+    "INTC",
+    "AMD",
+    "NVDA",
     "DELL",
-    "Cloud service providers (e.g., AWS, Azure)",
-    "Data storage vendors (e.g., NetApp)",
-    "ORCL",
-    "CSCO"
+    "HPQ"
   ],
   "downstream": [
-    "Financial services firms (e.g., JPMorgan Chase)",
-    "Retail giants (e.g., Walmart)",
-    "Manufacturing companies (e.g., General Electric)",
-    "Healthcare organizations (e.g., Mayo Clinic)",
-    "Government agencies (e.g., U.S. Department of Defense)"
+    "Bank of America",
+    "Walmart",
+    "Coca-Cola",
+    "UnitedHealth",
+    "MSFT"
   ],
   "competitors": [
-    "SAP SE",
+    "SAP SE Business Objects",
     "IBM",
-    "ORCL",
-    "MSFT",
-    "Tableau Software"
+    "ORCL"
   ],
   "key_products": [
-    "MicroStrategy Desktop",
-    "MicroStrategy Cloud",
-    "MicroStrategy Mobile",
-    "MicroStrategy Analytics",
-    "MicroStrategy Data Warehouse"
+    "Business Intelligence platform",
+    "Data analytics software",
+    "Mobile analytics apps",
+    "Data visualization dashboards",
+    "MicroStrategy Cloud"
   ],
-  "extracted_at": "2026-05-29 18:38:29",
+  "extracted_at": "2026-06-01 20:18:50",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +39,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/MSTR/",
+      "url": "https://markets.ft.com/data/equities/tearsheet/profile?s=MSTR",
       "query": "Strategy Inc suppliers manufacturers",
-      "snippet": "Find the latest Strategy Inc (MSTR) stock quote, history, news and other vital information to help you with your stock trading and investing."
+      "snippet": "20 hours ago · Strategy Inc (MSTR:NSQ) company profile with history, revenue, mergers & acquisitions, peer analysis, institutional shareholders and mo"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ru.tradingview.com/symbols/NASDAQ-MSTR/",
+      "url": "https://www.manufacturersalliance.org/",
       "query": "Strategy Inc suppliers manufacturers",
-      "snippet": "Следите за графиком Strategy Inc , чтобы быть в курсе цены акций. Вы также найдёте прогнозы, отчётность MSTR и новости рынка."
+      "snippet": "May 19, 2026 · Manufacturing leaders are moving beyond AI pilots and into enterprise-wide transformation, unlocking gains in efficiency, safety, and o"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/MSTR/",
+      "url": "https://en.wikipedia.org/wiki/MicroStrategy",
       "query": "Strategy Inc major customers clients",
-      "snippet": "Find the latest Strategy Inc (MSTR) stock quote, history, news and other vital information to help you with your stock trading and investing."
+      "snippet": "Strategy Inc ., formerly known as MicroStrategy,[1] is an American company that provides business intelligence (BI) and mobile software. Founded in 19"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.marketwatch.com/investing/stock/mstr",
+      "url": "https://www.strategyand.pwc.com/",
       "query": "Strategy Inc major customers clients",
-      "snippet": "MSTR | Complete Strategy Inc . stock news by MarketWatch. View real-time stock prices and stock quotes for a full financial overview."
+      "snippet": "Explore PwC’s expertise As part of the PwC network, Strategy & helps clients solve their issues from strategy through to execution. We do that by comb"
     }
   ]
 }

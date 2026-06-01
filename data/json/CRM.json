@@ -4,23 +4,23 @@
   "sector": "Technology",
   "industry": "Software - Application",
   "upstream": [
-    "AMZN",
+    "ExactTarget Inc.",
     "MSFT",
+    "AMZN",
     "GOOGL",
-    "ORCL",
-    "IBM"
+    "ORCL"
   ],
   "downstream": [
     "AMZN",
     "Coca‑Cola",
-    "American Express",
-    "Unilever",
-    "Toyota"
+    "Toyota",
+    "Nike",
+    "American Express"
   ],
   "competitors": [
     "MSFT",
-    "SAP CRM",
     "ORCL",
+    "SAP Customer Experience",
     "HubSpot",
     "Zoho CRM"
   ],
@@ -31,7 +31,7 @@
     "Commerce Cloud",
     "Einstein AI"
   ],
-  "extracted_at": "2026-05-29 18:35:11",
+  "extracted_at": "2026-06-01 20:14:05",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,15 +41,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://tr.wikipedia.org/wiki/Salesforce",
+      "url": "https://csimarket.com/stocks/CRM-Suppliers",
       "query": "Salesforce, Inc. suppliers manufacturers",
-      "snippet": "Salesforce merkezi San Francisco, Kaliforniya'da bulunan bir Amerikan bulut tabanlı yazılım şirketidir. Şirket müşteri ilişkileri yönetimi (CRM) hizme"
+      "snippet": "Salesforce Inc supply chain, list and performance of Salesforce Incs ' suppliers - CSIMarket."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/CRM-Suppliers",
+      "url": "https://www.salesforce.com/",
       "query": "Salesforce, Inc. suppliers manufacturers",
-      "snippet": "Salesforce Inc 's Suppliers Performance. CRM's Supply Chain. Download as CSV.Updated on: Tuesday, March 3, 2026 9:56 PM For your research, we’ve provi"
+      "snippet": "ExactTarget Inc ."
     },
     {
       "source": "DuckDuckGo",
@@ -59,9 +59,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.technetexperts.com/salesforce-customer-success-stories/",
+      "url": "https://www.heise.de/en/news/Salesforce-200-major-customers-join-Agentforce-10189412.html",
       "query": "Salesforce, Inc. major customers clients",
-      "snippet": "Top 10 Salesforce Customer Success Stories of Popular Organizations. Salesforce has numerous success stories from customers who have transformed their"
+      "snippet": "More than 200 major customers have already signed contracts with Salesforce to gain access to the new AI platform Agentforce. This was reported by Sal"
     }
   ]
 }

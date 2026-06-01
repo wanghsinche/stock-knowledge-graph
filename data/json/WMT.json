@@ -1,43 +1,43 @@
 {
   "ticker": "WMT",
   "company_name": "Walmart Inc.",
-  "sector": "Consumer Defensive",
-  "industry": "Discount Stores",
+  "sector": "Consumer Defensive / Discount Stores",
+  "industry": "Retail - Discount Stores",
   "upstream": [
     "Procter & Gamble",
     "Coca‑Cola",
+    "PepsiCo",
     "Nestlé",
-    "Johnson & Johnson",
     "Unilever"
   ],
   "downstream": [
-    "US consumers",
-    "International consumers",
+    "Individual consumers",
+    "Small businesses",
+    "Local communities",
     "Online shoppers",
-    "Pharmacy customers",
-    "Fuel station customers"
+    "Corporate bulk buyers"
   ],
   "competitors": [
-    "Target",
-    "Costco",
+    "Target Corp.",
+    "Costco Wholesale",
     "AMZN",
-    "Kroger",
-    "Aldi"
+    "BJ’s Wholesale Club",
+    "Kroger Co."
   ],
   "key_products": [
     "Groceries",
+    "Household goods",
+    "Apparel",
     "Electronics",
-    "Clothing",
-    "Pharmacy products",
-    "Fuel"
+    "Pharmacy products"
   ],
-  "extracted_at": "2026-05-29 18:36:16",
+  "extracted_at": "2026-06-01 20:17:47",
   "sources": [
     {
       "source": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Walmart_Inc.",
-      "title": "Walmart",
-      "snippet": "Walmart Inc. is an American multinational retail corporation that operates a chain of hypermarkets, discount department stores, grocery stores, pharmacies, and gas stations in the United States and 19"
+      "url": "",
+      "title": "",
+      "snippet": ""
     },
     {
       "source": "DuckDuckGo",
@@ -47,21 +47,21 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/WMT-Suppliers",
+      "url": "https://csimarket.com/stocks/suppliers_glance.php?code=WMT",
       "query": "Walmart Inc. suppliers manufacturers",
-      "snippet": "Walmart Inc supply chain, list and performance of Walmart Incs ' suppliers - CSIMarket. Walmart Inc 's Suppliers Performance. WMT's Supply Chain. Down"
+      "snippet": "Walmart Inc supply chain, list and performance of Walmart Incs ' suppliers - CSIMarket.Among Walmart Inc suppliers , the revenue of Interface Inc has "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Walmart",
+      "url": "https://csimarket.com/stocks/WMT-Customers",
       "query": "Walmart Inc. major customers clients",
-      "snippet": "Walmart Inc . Logo used since 2025[1]. Formerly.The company was incorporated under Delaware General Corporation Law as Wal - Mart , Inc . on October 3"
+      "snippet": "Walmart Inc customers and markets, results by customer and performance relative to WMT, by company and industry - CSIMarket"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.walmart.com/",
+      "url": "https://capitaloneshopping.com/research/walmart-statistics/",
       "query": "Walmart Inc. major customers clients",
-      "snippet": "Shop Walmart .com today for Every Day Low Prices. Join Walmart + for unlimited free delivery from your store & free shipping with no order minimum. St"
+      "snippet": "Nov 6, 2025 · Latest available data on Walmart 's size and market share, both offline and online, with total sales and revenue breakdowns by year."
     }
   ]
 }

@@ -1,37 +1,37 @@
 {
   "ticker": "AAOI",
   "company_name": "Applied Optoelectronics, Inc.",
-  "sector": "Technology / Communication Equipment",
-  "industry": "Optical Components & Equipment",
+  "sector": "Technology",
+  "industry": "Optoelectronics / Communication Equipment",
   "upstream": [
-    "Semiconductor wafer suppliers",
-    "Laser diode manufacturers",
-    "Photolithography equipment suppliers",
-    "Optical fiber suppliers",
-    "Electronic component suppliers"
+    "AMAT",
+    "ASML",
+    "LRCX",
+    "Tokyo Electron",
+    "KLA Corporation"
   ],
   "downstream": [
     "CSCO",
     "Huawei Technologies",
-    "Nokia",
     "Ericsson",
-    "JNPR"
+    "JNPR",
+    "ANET"
   ],
   "competitors": [
     "Lumentum Holdings",
     "II-VI Incorporated",
-    "Finisar (II-VI)",
-    "CAT",
-    "Coherent Inc."
+    "Coherent Inc.",
+    "Lumenis",
+    "Optical Solutions Inc."
   ],
   "key_products": [
     "Optical transceivers",
-    "Photonic integrated circuits",
-    "Laser diodes",
-    "Photodetectors",
-    "Optical modulators"
+    "Optical modules",
+    "Optical amplifiers",
+    "Optical fiber connectors",
+    "Optical signal processors"
   ],
-  "extracted_at": "2026-05-27 18:38:06",
+  "extracted_at": "2026-06-01 20:16:53",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.marketscreener.com/quote/stock/APPLIED-OPTOELECTRONICS-I-40449762/",
+      "url": "https://en.wikipedia.org/wiki/Applied_Optoelectronics",
       "query": "Applied Optoelectronics, Inc. suppliers manufacturers",
-      "snippet": "Applied Optoelectronics , Inc . is a developer and manufacturer of advanced optical and hybrid fiber coaxial (HFC) networking products that are the bu"
+      "snippet": "Applied Optoelectronics Inc . is an American semiconductor company that focuses on optical devices. It was founded in 1997 at the University of Housto"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/AAOI-Suppliers",
+      "query": "Applied Optoelectronics, Inc. suppliers manufacturers",
+      "snippet": "May 9, 2026 · Applied Optoelectronics Inc's Sup pliers recorded an increase in sales by 6.17 % year on year in Q1 2026, sequentially sales grew by 1.8"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://csimarket.com/stocks/AAOI-Customers",
-      "query": "Applied Optoelectronics, Inc. suppliers manufacturers",
-      "snippet": "Applied Optoelectronics Inc customers and markets, results by customer and performance relative to AAOI, by company and industry - CSIMarket."
+      "query": "Applied Optoelectronics, Inc. major customers clients",
+      "snippet": "2 days ago · Applied Optoelectronics Inc 's Comment on Sales, Marketing and Customers Our customers are primarily internet data center operators, CATV"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://247wallst.com/INVESTING/2026/04/09/IS-IT-TOO-LATE-TO-BUY-APPLIED-OPTOELECTRONICS-STOCK-AAOI/",
+      "url": "https://investors.ao-inc.com/",
       "query": "Applied Optoelectronics, Inc. major customers clients",
-      "snippet": "The catalyst that justifies the move is genuine. Applied Optoelectronics qualified its 800G transceivers with multiple hyperscale customers , and CEO "
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/applied-optoelectronics-inc-aaoi-among-132437416.html",
-      "query": "Applied Optoelectronics, Inc. major customers clients",
-      "snippet": "On April 2, 2026, Applied Optoelectronics , Inc . (NASDAQ:AAOI) reported that it had received a new $71 million order for 800G single-mode data center"
+      "snippet": "May 7, 2026 · The Investor Relations website contains information about Applied Optoelectronics, Inc .'s business for stockholders, potential investor"
     }
   ]
 }
