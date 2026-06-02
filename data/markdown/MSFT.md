@@ -3,8 +3,8 @@ ticker: MSFT
 company: Microsoft Corporation
 sector: Technology
 industry: Software - Infrastructure
-extracted_at: 2026-06-01 20:10:03
-last_updated: 2026-06-01
+extracted_at: 2026-06-02 19:36:54
+last_updated: 2026-06-02
 ---
 
 # MSFT - Microsoft Corporation
@@ -12,7 +12,7 @@ last_updated: 2026-06-01
 ## 基本信息
 
 - **所属行业**: Technology / Software - Infrastructure
-- **提取时间**: 2026-06-01 20:10:03
+- **提取时间**: 2026-06-02 19:36:54
 
 ## 产业链关系
 
@@ -20,15 +20,15 @@ last_updated: 2026-06-01
 - [[INTC]]
 - [[AMD]]
 - [[NVDA]]
-- [[CSCO]]
+- [[005930.KS]]
 - [[DELL]]
 
 ### 下游客户
-- [[Enterprise customers (e.g., banks, healthcare)]]
+- [[Enterprise customers (e.g., Fortune 500 firms)]]
 - [[Government agencies]]
+- [[Consumer users]]
 - [[DELL]]
-- [[Retail consumers]]
-- [[MSFT]]
+- [[Gaming studios]]
 
 ### 竞争对手
 - [[AAPL]]
@@ -41,17 +41,17 @@ last_updated: 2026-06-01
 - [[Windows operating system]]
 - [[Microsoft Office suite]]
 - [[Azure cloud platform]]
-- [[Microsoft 365]]
+- [[Surface devices]]
 - [[Xbox gaming console]]
 
 ## 数据来源
 
 - [Microsoft](https://en.wikipedia.org/wiki/Microsoft_Corporation)
-- [Microsoft Corporation suppliers manufacturers](https://en.wikipedia.org/wiki/Microsoft)
-- [Microsoft Corporation suppliers manufacturers](https://www.volza.com/p/microsoft/manufacturers/)
-- [Microsoft Corporation major customers clients](https://www.appsruntheworld.com/customers-database/vendors/view/microsoft)
-- [Microsoft Corporation major customers clients](https://www.microsoft.com/investor/reports/ar13/financial-review/business-description/customers/index.html)
+- [Microsoft Corporation suppliers manufacturers](https://download.microsoft.com/download/F/3/8/F38AF681-EB3A-4645-A9C4-D4F31B8BA8F2/Microsoft+Top+100+Production+Suppliers.pdf)
+- [Microsoft Corporation suppliers manufacturers](https://data.ark.ai/analysis/suppliers/microsoft-corporation-supplier-profile-overview)
+- [Microsoft Corporation major customers clients](https://en.wikipedia.org/wiki/Microsoft)
+- [Microsoft Corporation major customers clients](https://www.investopedia.com/articles/investing/122215/top-4-microsoft-shareholders.asp)
 
 ## 元数据
 
-- **更新日期**: 2026-06-01
+- **更新日期**: 2026-06-02

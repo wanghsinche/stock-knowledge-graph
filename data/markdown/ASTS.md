@@ -1,48 +1,48 @@
 ---
 ticker: ASTS
 company: AST SpaceMobile, Inc.
-sector: Technology / Communication Equipment
-industry: Satellite Communications
-extracted_at: 2026-06-01 20:16:29
-last_updated: 2026-06-01
+sector: Technology
+industry: Communication Equipment
+extracted_at: 2026-06-02 19:45:07
+last_updated: 2026-06-02
 ---
 
 # ASTS - AST SpaceMobile, Inc.
 
 ## 基本信息
 
-- **所属行业**: Technology / Communication Equipment / Satellite Communications
-- **提取时间**: 2026-06-01 20:16:29
+- **所属行业**: Technology / Communication Equipment
+- **提取时间**: 2026-06-02 19:45:07
 
 ## 产业链关系
 
 ### 上游供应商
-- [[SpaceX]]
-- [[Blue Origin]]
-- [[Rocket Lab]]
-- [[Lockheed Martin]]
-- [[Boeing]]
+- [[Satellite component manufacturers]]
+- [[Launch service providers]]
+- [[Ground station equipment suppliers]]
+- [[Semiconductor suppliers]]
+- [[Antenna manufacturers]]
 
 ### 下游客户
-- [[AT&T]]
-- [[Verizon]]
-- [[T-Mobile]]
-- [[US Department of Defense]]
-- [[NASA]]
+- [[Mobile network operators (e.g., AT&T, Verizon, T-Mobile)]]
+- [[Telecom operators]]
+- [[Government agencies]]
+- [[Enterprise satellite users]]
+- [[Satellite internet consumers]]
 
 ### 竞争对手
 - [[SpaceX Starlink]]
 - [[OneWeb]]
 - [[Telesat]]
 - [[AMZN]]
-- [[CAT]]
+- [[Hughes Network Systems]]
 
 ### 核心产品
 - [[Space-based cellular broadband]]
-- [[Satellite design and manufacturing]]
-- [[Satellite communications network]]
-- [[Mobile broadband via satellite]]
-- [[Space-based IoT connectivity]]
+- [[Satellite communications payloads]]
+- [[Satellite network infrastructure]]
+- [[Ground station systems]]
+- [[Satellite antennas]]
 
 ## 数据来源
 
@@ -54,4 +54,4 @@ last_updated: 2026-06-01
 
 ## 元数据
 
-- **更新日期**: 2026-06-01
+- **更新日期**: 2026-06-02

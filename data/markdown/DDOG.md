@@ -2,17 +2,17 @@
 ticker: DDOG
 company: Datadog, Inc.
 sector: Technology
-industry: Software - Application
-extracted_at: 2026-06-01 20:16:43
-last_updated: 2026-06-01
+industry: Software—Application
+extracted_at: 2026-06-02 19:45:52
+last_updated: 2026-06-02
 ---
 
 # DDOG - Datadog, Inc.
 
 ## 基本信息
 
-- **所属行业**: Technology / Software - Application
-- **提取时间**: 2026-06-01 20:16:43
+- **所属行业**: Technology / Software—Application
+- **提取时间**: 2026-06-02 19:45:52
 
 ## 产业链关系
 
@@ -20,38 +20,38 @@ last_updated: 2026-06-01
 - [[AMZN]]
 - [[MSFT]]
 - [[GOOGL]]
-- [[VMware]]
-- [[Open-source libraries (e.g., Prometheus, Grafana)]]
+- [[GitHub]]
+- [[Jenkins]]
 
 ### 下游客户
+- [[AMZN]]
+- [[GOOGL]]
+- [[MSFT]]
 - [[NFLX]]
 - [[Airbnb]]
-- [[Shopify]]
-- [[Square]]
-- [[ADBE]]
 
 ### 竞争对手
 - [[New Relic]]
 - [[Splunk]]
 - [[Dynatrace]]
 - [[AppDynamics]]
-- [[Elastic]]
+- [[PagerDuty]]
 
 ### 核心产品
-- [[Datadog Agent]]
-- [[Datadog Dashboards]]
-- [[Datadog APM (Application Performance Monitoring)]]
+- [[Datadog APM]]
 - [[Datadog Infrastructure Monitoring]]
 - [[Datadog Log Management]]
+- [[Datadog Security Monitoring]]
+- [[Datadog Cloud Security Posture Management]]
 
 ## 数据来源
 
 - 
-- [Datadog, Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/Datadog)
-- [Datadog, Inc. suppliers manufacturers](https://csimarket.com/stocks/DDOG-Suppliers)
-- [Datadog, Inc. major customers clients](https://www.datadoghq.com/customers/)
-- [Datadog, Inc. major customers clients](https://www.appsruntheworld.com/customers-database/vendors/view/datadog)
+- [Datadog, Inc. suppliers manufacturers](https://www.datadoghq.com/solutions/security-analytics/)
+- [Datadog, Inc. suppliers manufacturers](https://data.ark.ai/analysis/suppliers/page-13/)
+- [Datadog, Inc. major customers clients](https://www.morningstar.com/company-reports/1250702-datadog-is-a-high-quality-observability-vendor-with-a-long-runway-for-growth)
+- [Datadog, Inc. major customers clients](https://www.fool.com/investing/2020/06/11/better-buy-alphabet-vs-datadog.aspx)
 
 ## 元数据
 
-- **更新日期**: 2026-06-01
+- **更新日期**: 2026-06-02

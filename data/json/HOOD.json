@@ -4,34 +4,34 @@
   "sector": "Financial Services",
   "industry": "Capital Markets",
   "upstream": [
-    "Cloud service providers (AWS, Azure)",
-    "Data feed providers (Bloomberg, Refinitiv)",
-    "Payment processors (Stripe, PayPal)",
-    "Regulatory technology firms",
-    "Cybersecurity vendors"
+    "AMZN",
+    "GOOGL",
+    "Bloomberg",
+    "Refinitiv",
+    "NASDAQ"
   ],
   "downstream": [
     "Retail investors",
     "Institutional investors",
-    "Crypto traders",
     "High‑frequency traders",
-    "Financial advisors"
+    "Financial advisors",
+    "Wealth management firms"
   ],
   "competitors": [
     "Charles Schwab",
     "TD Ameritrade",
     "E*TRADE",
-    "Webull",
-    "SoFi Invest"
+    "Fidelity",
+    "Webull"
   ],
   "key_products": [
     "Commission‑free stock trading",
-    "Cryptocurrency trading",
+    "Crypto trading",
     "Margin trading",
-    "Robinhood Gold subscription",
+    "Robinhood Gold",
     "Options trading"
   ],
-  "extracted_at": "2026-06-01 20:14:55",
+  "extracted_at": "2026-06-02 19:45:40",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,25 +43,25 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Robinhood_Markets",
       "query": "Robinhood Markets, Inc. suppliers manufacturers",
-      "snippet": "Robinhood Markets , Inc . is an American financial services company based in Menlo Park, California. It provides an electronic trading platform that f"
+      "snippet": "Robinhood Markets , Inc . Robinhood Markets , Inc . is an American financial services company based in Menlo Park, California."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/HOOD-Suppliers",
+      "url": "https://robinhood.com/",
       "query": "Robinhood Markets, Inc. suppliers manufacturers",
-      "snippet": "Feb 28, 2026 · Robinhood Markets Inc 's Suppliers recorded an increase in sales by 8.72 % year on year in Q4 2025, sequentially sales grew by 4.1 %, w"
+      "snippet": "Trade stocks on Robinhood with commission-free investing & advanced trading tools. Access fractional shares, real-time market data, and more."
     },
     {
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Robinhood_Markets",
       "query": "Robinhood Markets, Inc. major customers clients",
-      "snippet": "Robinhood Markets , Inc . is an American financial services company based in Menlo Park, California."
+      "snippet": "Robinhood Markets , Inc . is an American financial services company based in Menlo Park, California. It provides an electronic trading platform that f"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.investing.com/equities/robinhood-markets",
+      "url": "https://investingintheweb.com/brokers/robinhood-statistics/",
       "query": "Robinhood Markets, Inc. major customers clients",
-      "snippet": "Major Funds. customers the basics related to cryptocurrency. Further, it provides Robinhood credit cards, cash card and spending accounts, and wallets"
+      "snippet": "Apr 7, 2026 · Robinhood revenues Robinhood generates revenues through transaction-based revenues, net interest revenues, and other revenues. Transacti"
     }
   ]
 }

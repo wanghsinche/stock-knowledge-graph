@@ -4,34 +4,34 @@
   "sector": "Technology",
   "industry": "Software - Infrastructure",
   "upstream": [
-    "INTC",
-    "AMD",
     "CSCO",
     "MSFT",
-    "AMZN"
+    "AMZN",
+    "INTC",
+    "QCOM"
   ],
   "downstream": [
-    "Wipro",
-    "Tyson Foods",
-    "Bank of America",
-    "United States Department of Defense",
-    "General Electric"
+    "Wipro (IT services)",
+    "Tyson Foods (food processing)",
+    "Bank of America (financial services)",
+    "U.S. Department of Defense (government)",
+    "General Electric (industrial)"
   ],
   "competitors": [
     "CSCO",
     "Fortinet",
     "Check Point Software Technologies",
-    "JNPR",
-    "CrowdStrike"
+    "CrowdStrike",
+    "Sophos"
   ],
   "key_products": [
-    "Palo Alto Networks Next-Generation Firewall",
+    "Next-Generation Firewall",
     "Prisma Cloud",
     "Cortex XDR",
-    "WildFire",
-    "GlobalProtect"
+    "Cortex XSOAR",
+    "GlobalProtect VPN"
   ],
-  "extracted_at": "2026-06-01 20:15:09",
+  "extracted_at": "2026-06-02 19:41:04",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,13 +43,13 @@
       "source": "DuckDuckGo",
       "url": "https://www.paloaltonetworks.com/",
       "query": "Palo Alto Networks, Inc. suppliers manufacturers",
-      "snippet": "Palo Alto Networks : Cloud Security Leader in First-Ever CNAPP Report. The Forrester Wave™: Cloud Workload Security, Q1 2024.KuppingerCole Leadership "
+      "snippet": "Palo Alto Networks to Acquire Portkey to Secure the Rise of AI Agents. Read the Press Release. Fight AI with AI."
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.linkedin.com/company/palo-alto-networks",
       "query": "Palo Alto Networks, Inc. suppliers manufacturers",
-      "snippet": "Palo Alto Networks | 1,911,685 followers on LinkedIn. Palo Alto Networks , the global cybersecurity leader, is shaping the cloud-centric future with t"
+      "snippet": "Palo Alto Networks , the global cybersecurity leader, is shaping the cloud-centric future with technology that is transforming the way people and orga"
     },
     {
       "source": "DuckDuckGo",
@@ -61,7 +61,7 @@
       "source": "DuckDuckGo",
       "url": "https://csimarket.com/stocks/PANW-Customers",
       "query": "Palo Alto Networks, Inc. major customers clients",
-      "snippet": "6 days ago · Palo Alto Networks Inc customers and markets, results by customer and performance relative to PANW, by company and industry - CSIMarket"
+      "snippet": "19 hours ago · Palo Alto Networks Inc customers and markets, results by customer and performance relative to PANW, by company and industry - CSIMarket"
     }
   ]
 }

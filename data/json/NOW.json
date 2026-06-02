@@ -7,15 +7,15 @@
     "AMZN",
     "MSFT",
     "GOOGL",
-    "ORCL",
-    "IBM"
+    "DELL",
+    "CSCO"
   ],
   "downstream": [
     "Walmart",
     "JPMorgan Chase",
-    "AT&T",
-    "Comcast",
-    "Verizon"
+    "UnitedHealth Group",
+    "U.S. Department of Defense",
+    "General Electric"
   ],
   "competitors": [
     "CRM",
@@ -25,19 +25,19 @@
     "Workday"
   ],
   "key_products": [
-    "ServiceNow Platform",
-    "IT Service Management (ITSM)",
-    "IT Operations Management (ITOM)",
-    "IT Business Management (ITBM)",
-    "Customer Service Management (CSM)"
+    "ServiceNow IT Service Management",
+    "ServiceNow IT Operations Management",
+    "ServiceNow Customer Service Management",
+    "ServiceNow HR Service Delivery",
+    "ServiceNow Security Operations"
   ],
-  "extracted_at": "2026-06-01 20:12:34",
+  "extracted_at": "2026-06-02 19:39:56",
   "sources": [
     {
       "source": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/ServiceNow,_Inc.",
-      "title": "ServiceNow",
-      "snippet": "ServiceNow, Inc. is an American software company that supplies a cloud computing platform for the creation and management of automated business workflows. The company was founded in Santa Clara, Calif"
+      "url": "",
+      "title": "",
+      "snippet": ""
     },
     {
       "source": "DuckDuckGo",
@@ -55,7 +55,7 @@
       "source": "DuckDuckGo",
       "url": "https://www.servicenow.com/",
       "query": "ServiceNow, Inc. major customers clients",
-      "snippet": "Streamline your enterprise workflows with the ServiceNow AI Platform—empowering both customers and employees in every corner of your business."
+      "snippet": "Customer Service Management. Empower self- service , boost agent productivity, and speed up resolution.AI Agent Stories. Learn how ServiceNow customer"
     },
     {
       "source": "DuckDuckGo",

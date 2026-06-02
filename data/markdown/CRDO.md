@@ -3,8 +3,8 @@ ticker: CRDO
 company: Credo Technology Group Holding Ltd
 sector: Technology
 industry: Semiconductors
-extracted_at: 2026-05-26 18:26:19
-last_updated: 2026-05-26
+extracted_at: 2026-06-02 19:41:31
+last_updated: 2026-06-02
 ---
 
 # CRDO - Credo Technology Group Holding Ltd
@@ -12,46 +12,46 @@ last_updated: 2026-05-26
 ## 基本信息
 
 - **所属行业**: Technology / Semiconductors
-- **提取时间**: 2026-05-26 18:26:19
+- **提取时间**: 2026-06-02 19:41:31
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Silicon wafer suppliers]]
-- [[Chemical suppliers]]
-- [[AMAT]]
-- [[Packaging suppliers]]
-- [[EDA tool providers]]
+- [[TSM]]
+- [[005930.KS]]
+- [[GlobalFoundries]]
+- [[Semiconductor Equipment Manufacturers]]
+- [[Silicon Wafer Suppliers]]
 
 ### 下游客户
-- [[Smartphone OEMs (e.g., Xiaomi, Oppo, Vivo)]]
-- [[Tablet manufacturers]]
-- [[IoT device manufacturers]]
-- [[Automotive electronics suppliers]]
-- [[Consumer electronics companies]]
+- [[AMZN]]
+- [[GOOGL]]
+- [[MSFT]]
+- [[Alibaba Cloud]]
+- [[Huawei Cloud]]
 
 ### 竞争对手
-- [[MediaTek]]
-- [[Unisoc (Spreadtrum)]]
-- [[HiSilicon (Huawei)]]
-- [[QCOM]]
-- [[SMIC]]
+- [[TXN]]
+- [[ADI]]
+- [[Maxim Integrated]]
+- [[ON Semiconductor]]
+- [[Infineon Technologies]]
 
 ### 核心产品
-- [[Mobile SoC]]
-- [[IoT chips]]
-- [[Automotive chips]]
-- [[AI inference chips]]
-- [[Smartphone processors]]
+- [[Power Management ICs]]
+- [[DC-DC Converters]]
+- [[Linear Regulators]]
+- [[Battery Management ICs]]
+- [[LED Drivers]]
 
 ## 数据来源
 
 - 
-- [Credo Technology Group Holding Ltd suppliers manufacturers](https://csimarket.com/stocks/suppliers_glance.php?code=CRDO)
+- [Credo Technology Group Holding Ltd suppliers manufacturers](https://csimarket.com/stocks/competitionSEG2.php?code=CRDO)
 - [Credo Technology Group Holding Ltd suppliers manufacturers](https://finance.yahoo.com/quote/CRDO/)
 - [Credo Technology Group Holding Ltd major customers clients](https://csimarket.com/stocks/CRDO-Customers)
-- [Credo Technology Group Holding Ltd major customers clients](https://finance.yahoo.com/quote/CRDO/)
+- [Credo Technology Group Holding Ltd major customers clients](https://xueqiu.com/7367587733/350203491)
 
 ## 元数据
 
-- **更新日期**: 2026-05-26
+- **更新日期**: 2026-06-02

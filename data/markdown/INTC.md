@@ -3,8 +3,8 @@ ticker: INTC
 company: Intel Corporation
 sector: Technology
 industry: Semiconductors
-extracted_at: 2026-06-01 20:11:00
-last_updated: 2026-06-01
+extracted_at: 2026-06-02 19:37:32
+last_updated: 2026-06-02
 ---
 
 # INTC - Intel Corporation
@@ -12,21 +12,21 @@ last_updated: 2026-06-01
 ## 基本信息
 
 - **所属行业**: Technology / Semiconductors
-- **提取时间**: 2026-06-01 20:11:00
+- **提取时间**: 2026-06-02 19:37:32
 
 ## 产业链关系
 
 ### 上游供应商
-- [[TSM]]
-- [[005930.KS]]
-- [[GlobalFoundries]]
-- [[ASE Technology Holding]]
+- [[ASML]]
+- [[AMAT]]
 - [[LRCX]]
+- [[Tokyo Electron]]
+- [[KLA]]
 
 ### 下游客户
 - [[DELL]]
 - [[HPQ]]
-- [[Lenovo Group]]
+- [[Lenovo]]
 - [[AAPL]]
 - [[MSFT]]
 
@@ -38,20 +38,20 @@ last_updated: 2026-06-01
 - [[TSM]]
 
 ### 核心产品
-- [[Intel Core processors]]
-- [[Intel Xeon processors]]
+- [[Intel Core CPUs]]
+- [[Intel Xeon CPUs]]
+- [[Intel Xe GPUs]]
+- [[Intel FPGAs (Altera)]]
 - [[Intel chipsets]]
-- [[Intel network interface cards]]
-- [[Intel SSDs]]
 
 ## 数据来源
 
-- 
+- [Intel](https://en.wikipedia.org/wiki/Intel_Corporation)
 - [Intel Corporation suppliers manufacturers](https://en.wikipedia.org/wiki/Intel)
-- [Intel Corporation suppliers manufacturers](https://finance.yahoo.com/quote/INTC/)
+- [Intel Corporation suppliers manufacturers](https://www.intel.com/content/www/us/en/supplier/overview.html)
 - [Intel Corporation major customers clients](https://en.wikipedia.org/wiki/Intel)
-- [Intel Corporation major customers clients](https://www.benzinga.com/25/03/44469986/intel-targets-major-foundry-clients-in-new-strategy-to-revitalize-chip-design-says-ubs)
+- [Intel Corporation major customers clients](https://finance.yahoo.com/quote/INTC/)
 
 ## 元数据
 
-- **更新日期**: 2026-06-01
+- **更新日期**: 2026-06-02

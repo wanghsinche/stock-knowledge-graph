@@ -4,23 +4,23 @@
   "sector": "Technology",
   "industry": "Software - Application",
   "upstream": [
-    "ExactTarget Inc.",
     "MSFT",
     "AMZN",
     "GOOGL",
-    "ORCL"
+    "ORCL",
+    "IBM"
   ],
   "downstream": [
-    "AMZN",
     "Coca‑Cola",
-    "Toyota",
-    "Nike",
-    "American Express"
+    "AMZN",
+    "MSFT",
+    "GOOGL",
+    "AAPL"
   ],
   "competitors": [
     "MSFT",
+    "SAP CRM",
     "ORCL",
-    "SAP Customer Experience",
     "HubSpot",
     "Zoho CRM"
   ],
@@ -31,7 +31,7 @@
     "Commerce Cloud",
     "Einstein AI"
   ],
-  "extracted_at": "2026-06-01 20:14:05",
+  "extracted_at": "2026-06-02 19:42:36",
   "sources": [
     {
       "source": "Wikipedia",
@@ -55,7 +55,7 @@
       "source": "DuckDuckGo",
       "url": "https://www.salesforce.com/",
       "query": "Salesforce, Inc. major customers clients",
-      "snippet": "Salesforce Enterprise-grade CRM with deep reporting, sales operations, and..."
+      "snippet": "Salesforce Enterprise-grade CRM with deep reporting, sales operations..."
     },
     {
       "source": "DuckDuckGo",

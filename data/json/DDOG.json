@@ -2,36 +2,36 @@
   "ticker": "DDOG",
   "company_name": "Datadog, Inc.",
   "sector": "Technology",
-  "industry": "Software - Application",
+  "industry": "Software—Application",
   "upstream": [
     "AMZN",
     "MSFT",
     "GOOGL",
-    "VMware",
-    "Open-source libraries (e.g., Prometheus, Grafana)"
+    "GitHub",
+    "Jenkins"
   ],
   "downstream": [
+    "AMZN",
+    "GOOGL",
+    "MSFT",
     "NFLX",
-    "Airbnb",
-    "Shopify",
-    "Square",
-    "ADBE"
+    "Airbnb"
   ],
   "competitors": [
     "New Relic",
     "Splunk",
     "Dynatrace",
     "AppDynamics",
-    "Elastic"
+    "PagerDuty"
   ],
   "key_products": [
-    "Datadog Agent",
-    "Datadog Dashboards",
-    "Datadog APM (Application Performance Monitoring)",
+    "Datadog APM",
     "Datadog Infrastructure Monitoring",
-    "Datadog Log Management"
+    "Datadog Log Management",
+    "Datadog Security Monitoring",
+    "Datadog Cloud Security Posture Management"
   ],
-  "extracted_at": "2026-06-01 20:16:43",
+  "extracted_at": "2026-06-02 19:45:52",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Datadog",
+      "url": "https://www.datadoghq.com/solutions/security-analytics/",
       "query": "Datadog, Inc. suppliers manufacturers",
-      "snippet": "Datadog, Inc . is an American company that provides an observability service for cloud-scale applications, providing monitoring of servers, databases,"
+      "snippet": "Datadog 's security analytics solutions allow for Dev, Sec, and Ops teams to catch potential threats earlier and improve security posture. Datadog ’s "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/DDOG-Suppliers",
+      "url": "https://data.ark.ai/analysis/suppliers/page-13/",
       "query": "Datadog, Inc. suppliers manufacturers",
-      "snippet": "May 9, 2026 · Datadog Inc 's Suppliers recorded an increase in sales by 23.32 % year on year in Q4 2025, sequentially sales grew by 10.57 %, Datadog I"
+      "snippet": "Ark.ai provides definitive, consolidated analyses of every vendor, subcontractor, supplier , grant awardee, non-profit, and investment organization in"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.datadoghq.com/customers/",
+      "url": "https://www.morningstar.com/company-reports/1250702-datadog-is-a-high-quality-observability-vendor-with-a-long-runway-for-growth",
       "query": "Datadog, Inc. major customers clients",
-      "snippet": "See metrics from all of your apps, tools & services in one place with Datadog 's cloud monitoring as a service solution. Try it for free."
+      "snippet": "Datadog 's additional products, including its more recent security offerings, can offer different points of entry into potential clients ' IT ecosyste"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.appsruntheworld.com/customers-database/vendors/view/datadog",
+      "url": "https://www.fool.com/investing/2020/06/11/better-buy-alphabet-vs-datadog.aspx",
       "query": "Datadog, Inc. major customers clients",
-      "snippet": "List of companies using or evaluating Datadog applications, with details on their revenues, employees, industries, and locations."
+      "snippet": "Two leading companies that can help businesses accomplish these feats are Alphabet (GOOG +0.03%) (GOOGL +0.16%) and Datadog (DDOG +7.43%). Let's dive "
     }
   ]
 }

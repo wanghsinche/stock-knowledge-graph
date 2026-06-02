@@ -5,17 +5,17 @@
   "industry": "Credit Services",
   "upstream": [
     "NXP Semiconductors",
-    "Jabil",
-    "Zebra Technologies",
     "STMicroelectronics",
-    "AVGO"
+    "Giesecke+Devrient",
+    "IDEMIA",
+    "Cypress Semiconductor"
   ],
   "downstream": [
     "Bank of America",
-    "Citibank",
     "Wells Fargo",
-    "HSBC",
-    "Walmart"
+    "PayPal",
+    "AMZN",
+    "AAPL"
   ],
   "competitors": [
     "Mastercard",
@@ -25,31 +25,31 @@
     "Square"
   ],
   "key_products": [
-    "VisaNet payment network",
-    "Visa Credit cards",
-    "Visa Debit cards",
-    "Visa Prepaid cards",
-    "Visa Direct payment service"
+    "Visa Payment Network",
+    "Credit & Debit Card Issuance",
+    "Mobile Payments & Tokenization",
+    "Fraud & Risk Management Solutions",
+    "Data Analytics & Insights"
   ],
-  "extracted_at": "2026-06-01 20:17:27",
+  "extracted_at": "2026-06-02 19:44:57",
   "sources": [
     {
       "source": "Wikipedia",
+      "url": "",
+      "title": "",
+      "snippet": ""
+    },
+    {
+      "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Visa_Inc.",
-      "title": "Visa Inc.",
-      "snippet": "Visa Inc. is an American multinational payment card services corporation headquartered in San Francisco, California. It facilitates electronic funds transfers worldwide, most commonly through Visa-bra"
+      "query": "Visa Inc. suppliers manufacturers",
+      "snippet": "Visa Inc . is an American multinational payment card services corporation headquartered in San Francisco, California. It facilitates electronic funds "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.visa.com/splisting/searchGrsp.do",
+      "url": "https://ru.wikipedia.org/wiki/Visa",
       "query": "Visa Inc. suppliers manufacturers",
-      "snippet": "3 days ago · Important notice about service provider validation status and search instructions For service providers published on the Registry, if Vis"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/V-Suppliers",
-      "query": "Visa Inc. suppliers manufacturers",
-      "snippet": "Visa Inc 's Suppliers recorded an increase in sales by 22.29 % year on year in Q1 2026, from the previous quarter, sales fell by -21.97 %, while their"
+      "snippet": "Visa Inc . ([ˈviːzə] или [ˈviːsə]) — американская транснациональная компания, предоставляющая услуги проведения платёжных операций. Является основой о"
     },
     {
       "source": "DuckDuckGo",

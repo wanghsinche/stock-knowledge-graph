@@ -7,31 +7,30 @@
     "AMZN",
     "MSFT",
     "GOOGL",
-    "DELL",
-    "HPQ"
+    "INTC",
+    "NVDA"
   ],
   "downstream": [
-    "CRM",
+    "Capital One",
     "ADBE",
-    "NFLX",
     "eBay",
-    "Shopify"
+    "CRM",
+    "NFLX"
   ],
   "competitors": [
     "AMZN",
     "GOOGL",
     "MSFT",
-    "Databricks",
-    "Teradata"
+    "Databricks"
   ],
   "key_products": [
     "Snowflake Data Cloud",
     "Snowflake Data Warehouse",
-    "Snowflake Data Marketplace",
     "Snowflake Snowpark",
+    "Snowflake Data Marketplace",
     "Snowflake Data Exchange"
   ],
-  "extracted_at": "2026-06-01 20:13:55",
+  "extracted_at": "2026-06-02 19:41:59",
   "sources": [
     {
       "source": "Wikipedia",
@@ -53,15 +52,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Snowflake_Inc.",
+      "url": "https://www.snowflake.com/en/customers/all-customers/",
       "query": "Snowflake Inc. major customers clients",
-      "snippet": "Snowflake Inc . is an American cloud-based data storage company that was headquartered in Bozeman, Montana. It operates a platform that allows for dat"
+      "snippet": "Leading Organizations Choose Snowflake . Discover how organizations are using the Snowflake AI Data Cloud, to easily transform, integrate, and analyze"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.snowflake.com/",
+      "url": "https://www.appsruntheworld.com/customers-database/vendors/view/snowflake-inc",
       "query": "Snowflake Inc. major customers clients",
-      "snippet": "Snowflake enables organizations to collaborate, build AI-powered data apps, and unlock data insights—all within a secure and scalable AI Data Cloud."
+      "snippet": "List of companies using or evaluating Snowflake applications, with details on their revenues, employees, industries, and locations."
     }
   ]
 }

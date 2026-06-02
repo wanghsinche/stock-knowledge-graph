@@ -3,8 +3,8 @@ ticker: META
 company: Meta Platforms, Inc.
 sector: Communication Services
 industry: Internet Content & Information
-extracted_at: 2026-06-01 20:10:46
-last_updated: 2026-06-01
+extracted_at: 2026-06-02 19:38:43
+last_updated: 2026-06-02
 ---
 
 # META - Meta Platforms, Inc.
@@ -12,49 +12,46 @@ last_updated: 2026-06-01
 ## 基本信息
 
 - **所属行业**: Communication Services / Internet Content & Information
-- **提取时间**: 2026-06-01 20:10:46
+- **提取时间**: 2026-06-02 19:38:43
 
 ## 产业链关系
 
 ### 上游供应商
-- [[QCOM]]
-- [[NVDA]]
-- [[INTC]]
 - [[DELL]]
 - [[CSCO]]
+- [[NVDA]]
+- [[INTC]]
+- [[AMZN]]
 
 ### 下游客户
-- [[Advertisers (global brands)]]
-- [[App developers]]
-- [[Content creators]]
-- [[Gamers]]
-- [[Small and medium businesses]]
+- [[Coca‑Cola]]
+- [[Nike]]
+- [[005930.KS]]
+- [[Procter & Gamble]]
+- [[Walmart]]
 
 ### 竞争对手
-- [[META]]
-- [[Twitter]]
-- [[Snapchat]]
-- [[TikTok]]
 - [[GOOGL]]
+- [[AMZN]]
+- [[AAPL]]
+- [[MSFT]]
+- [[TikTok]]
 
 ### 核心产品
 - [[Facebook]]
 - [[Instagram]]
 - [[WhatsApp]]
 - [[Messenger]]
-- [[Meta Quest (VR)]]
-- [[Meta Portal]]
-- [[Meta Business Suite]]
-- [[Meta Ads]]
+- [[Threads]]
 
 ## 数据来源
 
-- 
-- [Meta Platforms, Inc. suppliers manufacturers](https://ru.wikipedia.org/wiki/Meta_Platforms)
-- [Meta Platforms, Inc. suppliers manufacturers](https://www.g2.com/sellers/meta-platforms-inc)
-- [Meta Platforms, Inc. major customers clients](https://www.g2.com/sellers/meta-platforms-inc)
-- [Meta Platforms, Inc. major customers clients](https://www.cnn.com/markets/stocks/META)
+- [Meta Platforms](https://en.wikipedia.org/wiki/Meta_Platforms,_Inc.)
+- [Meta Platforms, Inc. suppliers manufacturers](https://csimarket.com/stocks/META-Suppliers)
+- [Meta Platforms, Inc. suppliers manufacturers](https://www.trademo.com/manufacturers/meta)
+- [Meta Platforms, Inc. major customers clients](https://en.wikipedia.org/wiki/Meta_Platforms)
+- [Meta Platforms, Inc. major customers clients](https://csimarket.com/stocks/META-Customers)
 
 ## 元数据
 
-- **更新日期**: 2026-06-01
+- **更新日期**: 2026-06-02

@@ -7,31 +7,31 @@
     "AMZN",
     "MSFT",
     "GOOGL",
-    "DELL",
+    "ORCL",
     "IBM"
   ],
   "downstream": [
     "U.S. Department of Defense",
-    "U.S. Army",
     "INTC",
-    "Airbus",
-    "Boeing"
+    "FBI",
+    "JPMorgan Chase",
+    "Walmart"
   ],
   "competitors": [
     "Splunk",
     "Snowflake",
     "Databricks",
-    "Qlik",
-    "Tableau"
+    "Tableau",
+    "MSFT"
   ],
   "key_products": [
     "Palantir Foundry",
     "Palantir Gotham",
     "Palantir Apollo",
     "Palantir Helios",
-    "Palantir Platform"
+    "Palantir Data Lake"
   ],
-  "extracted_at": "2026-06-01 20:12:48",
+  "extracted_at": "2026-06-02 19:39:34",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,15 +41,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Palantir_Technologies",
+      "url": "https://en.wikipedia.org/wiki/Palantir",
       "query": "Palantir Technologies Inc. suppliers manufacturers",
-      "snippet": "Palantir Technologies Inc . is an American publicly traded company that specializes in software platforms[3] for big data analytics. Headquartered in "
+      "snippet": "Palantir Technologies Inc . (/ ˈpælənˌtɪər /) [3] is an American publicly traded company that develops data integration and analytics software. [4] Pa"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.palantir.com/",
+      "url": "https://csimarket.com/stocks/PLTR-Suppliers",
       "query": "Palantir Technologies Inc. suppliers manufacturers",
-      "snippet": "Palantir 's AI-fueled TITAN trucks are rolling into U.S. Army hands. The U.S. Army now has in hand a few Tactical Intelligence Targeting Access Nodes,"
+      "snippet": "May 6, 2026 · Palantir Technologies Inc 's Suppliers recorded an increase in sales by 5.7 % year on year in Q1 2026, from the previous quarter, sales "
     },
     {
       "source": "DuckDuckGo",
@@ -59,9 +59,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://financhill.com/blog/investing/who-are-palantir-biggest-customers",
+      "url": "https://csimarket.com/stocks/PLTR-Customers",
       "query": "Palantir Technologies Inc. major customers clients",
-      "snippet": "Jun 12, 2024 · So, who are Palantir’s biggest customers ? The US Department of Defense was historically Palantir’s biggest customer but the Army award"
+      "snippet": "May 9, 2026 · Palantir Technologies Inc customers and markets, results by customer and performance relative to PLTR, by company and industry - CSIMark"
     }
   ]
 }

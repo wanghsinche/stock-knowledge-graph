@@ -1,37 +1,37 @@
 {
   "ticker": "SMCI",
   "company_name": "Super Micro Computer, Inc.",
-  "sector": "Technology / Computer Hardware",
-  "industry": "Server Equipment",
+  "sector": "Technology",
+  "industry": "Computer Hardware",
   "upstream": [
     "INTC",
     "AMD",
-    "MU",
+    "NVDA",
     "005930.KS",
-    "AVGO"
+    "MU"
   ],
   "downstream": [
     "AMZN",
-    "MSFT",
     "GOOGL",
-    "Huawei",
-    "AT&T"
+    "MSFT",
+    "IBM",
+    "Facebook"
   ],
   "competitors": [
     "DELL",
     "HPQ",
     "Lenovo",
-    "CSCO",
-    "IBM"
+    "IBM",
+    "CSCO"
   ],
   "key_products": [
-    "High-performance servers",
-    "High-efficiency servers",
+    "High‑performance servers",
+    "High‑efficiency servers",
     "Server management software",
     "Storage systems",
-    "Edge computing solutions"
+    "AI and 5G edge solutions"
   ],
-  "extracted_at": "2026-06-01 20:20:28",
+  "extracted_at": "2026-06-02 19:44:00",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,25 +43,25 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Supermicro",
       "query": "Super Micro Computer, Inc. suppliers manufacturers",
-      "snippet": "Super Micro Computer , Inc ., doing business as Supermicro, is an American information technology company based in San Jose, California. The company i"
+      "snippet": "Super Micro Computer , Inc ., doing business as Supermicro , is an American information technology company based in San Jose, California.American supp"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/SMCI-Suppliers",
+      "url": "https://www.supermicro.com/",
       "query": "Super Micro Computer, Inc. suppliers manufacturers",
-      "snippet": "Super Micro Computer Inc 's Suppliers recorded an increase in sales by 19.48 % year on year in Q4 2025, sequentially sales grew by 6.07 %, Super Micro"
+      "snippet": "Supermicro Super AI Station. Supermicro 5G Edge Solutions Empowering the Deskless Workforce with Taqtile and Intel. Supermicro TECHTalk: Harness the P"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Supermicro",
+      "url": "https://data.landbase.com/technology/supermicro/",
       "query": "Super Micro Computer, Inc. major customers clients",
-      "snippet": "Supermicro was founded on November 1, 1993, and has manufacturing operations in Silicon... Super Micro Computer , Inc ., doing business as Supermicro "
+      "snippet": "Aug 17, 2025 · Companies using Supermicro by Super Micro Computer , Inc . in 2026 As of 2026, 450 verified companies use Supermicro – across industrie"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/SMCI/",
+      "url": "https://csimarket.com/stocks/SMCI-Customers",
       "query": "Super Micro Computer, Inc. major customers clients",
-      "snippet": "Super Micro Computer , Inc ., together with its subsidiaries, develops and sells server and storage solutions based on modular and open-standard archi"
+      "snippet": "Super Micro Computer Inc 's Customers have recorded an increase in their cost of revenue by 12.19 % in the 1 quarter 2026 year on year, sequentially c"
     }
   ]
 }

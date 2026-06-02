@@ -1,21 +1,21 @@
 {
   "ticker": "CSCO",
   "company_name": "Cisco Systems, Inc.",
-  "sector": "Technology / Communication Equipment",
-  "industry": "Networking Equipment",
+  "sector": "Technology",
+  "industry": "Communication Equipment",
   "upstream": [
     "INTC",
     "AVGO",
     "QCOM",
     "TXN",
-    "NVDA"
+    "MRVL"
   ],
   "downstream": [
     "AT&T",
     "Verizon",
     "Comcast",
-    "Vodafone",
-    "China Mobile"
+    "MSFT",
+    "GOOGL"
   ],
   "competitors": [
     "JNPR",
@@ -25,19 +25,22 @@
     "Ericsson"
   ],
   "key_products": [
-    "Routers",
-    "Switches",
-    "Wireless LAN",
-    "Security Appliances",
-    "SD‑WAN"
+    "Cisco routers",
+    "Cisco switches",
+    "Webex",
+    "OpenDNS",
+    "Jabber",
+    "Jasper",
+    "Cisco ASA firewall",
+    "Cisco Meraki"
   ],
-  "extracted_at": "2026-06-01 20:20:17",
+  "extracted_at": "2026-06-02 19:44:25",
   "sources": [
     {
       "source": "Wikipedia",
-      "url": "",
-      "title": "",
-      "snippet": ""
+      "url": "https://en.wikipedia.org/wiki/Cisco_Systems,_Inc.",
+      "title": "Cisco",
+      "snippet": "Cisco Systems, Inc., doing business as Cisco, is an American multinational technology conglomerate corporation that develops, manufactures, and sells hardware, software, telecommunications equipment a"
     },
     {
       "source": "DuckDuckGo",
@@ -55,7 +58,7 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Cisco",
       "query": "Cisco Systems, Inc. major customers clients",
-      "snippet": "Cisco Systems , Inc ., doing business as Cisco, is an American multinational technology conglomerate corporation that develops, manufactures, and sell"
+      "snippet": "Cisco Systems , Inc ., doing business as Cisco , is an American multinational technology conglomerate corporation that develops, manufactures, and sel"
     },
     {
       "source": "DuckDuckGo",

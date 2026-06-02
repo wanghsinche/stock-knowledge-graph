@@ -4,67 +4,64 @@
   "sector": "Communication Services",
   "industry": "Internet Content & Information",
   "upstream": [
-    "QCOM",
+    "DELL",
+    "CSCO",
     "NVDA",
     "INTC",
-    "DELL",
-    "CSCO"
+    "AMZN"
   ],
   "downstream": [
-    "Advertisers (global brands)",
-    "App developers",
-    "Content creators",
-    "Gamers",
-    "Small and medium businesses"
+    "Coca‑Cola",
+    "Nike",
+    "005930.KS",
+    "Procter & Gamble",
+    "Walmart"
   ],
   "competitors": [
-    "META",
-    "Twitter",
-    "Snapchat",
-    "TikTok",
-    "GOOGL"
+    "GOOGL",
+    "AMZN",
+    "AAPL",
+    "MSFT",
+    "TikTok"
   ],
   "key_products": [
     "Facebook",
     "Instagram",
     "WhatsApp",
     "Messenger",
-    "Meta Quest (VR)",
-    "Meta Portal",
-    "Meta Business Suite",
-    "Meta Ads"
+    "Threads"
   ],
-  "extracted_at": "2026-06-01 20:10:46",
+  "extracted_at": "2026-06-02 19:38:43",
   "sources": [
     {
       "source": "Wikipedia",
-      "url": "",
-      "title": "",
-      "snippet": ""
+      "url": "https://en.wikipedia.org/wiki/Meta_Platforms,_Inc.",
+      "title": "Meta Platforms",
+      "snippet": "Meta Platforms, Inc. is an American multinational technology company headquartered in Menlo Park, California. Meta owns and operates several prominent social media platforms and communication services"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ru.wikipedia.org/wiki/Meta_Platforms",
+      "url": "https://csimarket.com/stocks/META-Suppliers",
       "query": "Meta Platforms, Inc. suppliers manufacturers",
-      "snippet": "Meta Platforms , Inc . — американская транснациональная холдинговая компания, владеющая технологическим конгломератом и расположенная в Менло-Парке, К"
+      "snippet": "May 2, 2026 · Meta Platforms Inc 's Suppliers recorded an increase in sales by 14.55 % year on year in Q1 2026, sequentially sales grew by 14.1 %, Met"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.g2.com/sellers/meta-platforms-inc",
+      "url": "https://www.trademo.com/manufacturers/meta",
       "query": "Meta Platforms, Inc. suppliers manufacturers",
-      "snippet": "Meta Platforms , Inc has been rated 4.3 stars by 5657 verified reviews on G2."
+      "snippet": "Connect globally with the manufacturers & suppliers of Meta . Get import-export data and enhance trade intelligence with Trademo's supply chain platfo"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.g2.com/sellers/meta-platforms-inc",
+      "url": "https://en.wikipedia.org/wiki/Meta_Platforms",
       "query": "Meta Platforms, Inc. major customers clients",
-      "snippet": "Meta Platforms , Inc . is a global leader in social technology, connecting people and businesses through its family of apps like Facebook, Instagram, "
+      "snippet": "Meta Platforms , Inc . (doing business as Meta) is an American multinational technology company headquartered in Menlo Park, California. Meta owns and"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.cnn.com/markets/stocks/META",
+      "url": "https://csimarket.com/stocks/META-Customers",
       "query": "Meta Platforms, Inc. major customers clients",
-      "snippet": "View Meta Platforms Inc Class A META stock quote prices, financial information, real-time forecasts, and company news from CNN."
+      "snippet": "Meta Platforms Inc 's Comment on Sales, Marketing and Customers The majority of our marketers use our self-service ad platform to establish accounts a"
     }
   ]
 }

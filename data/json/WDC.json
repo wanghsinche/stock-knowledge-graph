@@ -1,37 +1,37 @@
 {
   "ticker": "WDC",
   "company_name": "Western Digital Corporation",
-  "sector": "Technology",
-  "industry": "Computer Hardware",
+  "sector": "Technology / Computer Hardware",
+  "industry": "Data Storage Solutions",
   "upstream": [
     "005930.KS",
     "SK Hynix",
     "MU",
     "Toshiba",
-    "Kioxia"
+    "TDK"
   ],
   "downstream": [
     "DELL",
     "HPQ",
-    "Lenovo",
-    "AAPL",
-    "AMZN"
+    "Lenovo Group",
+    "AMZN",
+    "MSFT"
   ],
   "competitors": [
     "STX",
-    "Toshiba",
+    "Toshiba Corporation",
     "005930.KS",
     "MU",
-    "INTC"
+    "SK Hynix"
   ],
   "key_products": [
-    "Hard Disk Drives (HDDs)",
-    "Solid State Drives (SSDs)",
-    "External Hard Drives",
-    "Enterprise Storage Arrays",
-    "Cloud Storage Solutions"
+    "Hard Disk Drives (HDD)",
+    "Solid State Drives (SSD)",
+    "Enterprise Storage Systems",
+    "External Storage Devices",
+    "Network Attached Storage (NAS)"
   ],
-  "extracted_at": "2026-06-01 20:15:57",
+  "extracted_at": "2026-06-02 19:46:06",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.westerndigital.com/company/distributors",
-      "query": "Western Digital Corporation suppliers manufacturers",
-      "snippet": "Find Distributors & Resellers Purchase from your preferred Western Digital authorized partner Region Country/Area Brand"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/WDC-Suppliers",
-      "query": "Western Digital Corporation suppliers manufacturers",
-      "snippet": "May 3, 2026 · Western Digital supply chain, list and performance of Western Digitals' suppliers - CSIMarket"
-    },
-    {
-      "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Western_Digital",
-      "query": "Western Digital Corporation major customers clients",
-      "snippet": "Western Digital Corporation is an American data storage company headquartered in San Jose, California. It has a decades-long history in the electronic"
+      "query": "Western Digital Corporation suppliers manufacturers",
+      "snippet": "Western Digital Corporation is an American data storage company headquartered in San Jose, California. westerndigital .com. Footnotes / references Fin"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://community.wd.com/",
+      "url": "https://finance.yahoo.com/quote/WDC/",
+      "query": "Western Digital Corporation suppliers manufacturers",
+      "snippet": "Find the latest Western Digital Corporation (WDC) stock quote, history, news and other vital information to help you with your stock trading and inves"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/WDC-Customers",
       "query": "Western Digital Corporation major customers clients",
-      "snippet": "Western Digital Business Portal. Unlock benefits and tools for your business such as enterprise support, pricing and rebate tools, marketing, loyalty,"
+      "snippet": "3 days ago · Western Digital 's Comment on Sales, Marketing and Customers We maintain sales offices in selected parts of the world including the major"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://data.landbase.com/technology/western-digital/",
+      "query": "Western Digital Corporation major customers clients",
+      "snippet": "Aug 17, 2025 · Companies using Western Digital by Western Digital Corporation in 2026 As of 2026, 354 verified companies use Western Digital – across "
     }
   ]
 }

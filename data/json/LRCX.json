@@ -3,29 +3,65 @@
   "company_name": "Lam Research Corporation",
   "sector": "Technology",
   "industry": "Semiconductor Equipment & Materials",
-  "upstream": [],
-  "downstream": [],
-  "competitors": [],
-  "key_products": [],
-  "extracted_at": "2026-05-28 18:42:18",
+  "upstream": [
+    "Silicon wafer suppliers (e.g., Sumitomo Chemical, Shin-Etsu Chemical)",
+    "Chemical suppliers (e.g., Dow Chemical, DuPont)",
+    "Gas suppliers (e.g., Air Liquide, Linde)",
+    "META",
+    "Cleanroom equipment manufacturers"
+  ],
+  "downstream": [
+    "INTC",
+    "TSM",
+    "005930.KS",
+    "MU",
+    "SK Hynix"
+  ],
+  "competitors": [
+    "AMAT",
+    "Tokyo Electron",
+    "KLA Corporation",
+    "ASML",
+    "LRCX"
+  ],
+  "key_products": [
+    "Front‑end etch systems",
+    "Front‑end deposition systems",
+    "Wafer cleaning equipment",
+    "Back‑end wafer‑level packaging (WLP) tools",
+    "MEMS fabrication equipment"
+  ],
+  "extracted_at": "2026-06-02 19:47:29",
   "sources": [
     {
       "source": "Wikipedia",
-      "url": "",
-      "title": "",
-      "snippet": ""
+      "url": "https://en.wikipedia.org/wiki/Lam_Research_Corporation",
+      "title": "Lam Research",
+      "snippet": "Lam Research Corporation is an American supplier of wafer-fabrication equipment and related services to the semiconductor industry. Its products are used primarily in front-end wafer processing, which"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Lam_Research",
+      "url": "https://www.americanbankingnews.com/2026/05/29/fideuram-asset-management-ireland-dac-invests-10-04-million-in-lam-research-corporation-lrcx.html",
       "query": "Lam Research Corporation suppliers manufacturers",
-      "snippet": "Lam Research designs and builds products for semiconductor manufacturing, including equipment for thin film deposition, plasma etch, photoresist strip"
+      "snippet": "Founded in 1980 by David K. Lam and headquartered in Fremont, California, the company develops and manufactures systems used in multiple stages of sem"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.lamresearch.com/",
+      "url": "https://www.sharewise.com/us/news_articles/Lam_Research_CEO_Sees_AI_Fueling_140_Billion_Chip_Equipment_Boom_MarketBeat_20260531_0002",
       "query": "Lam Research Corporation suppliers manufacturers",
-      "snippet": "Everyone at Lam is a deep listener, in tune with what customers, suppliers , and key stakeholders in the entire ecosystem expect. And in turn, we’ve c"
+      "snippet": "He said local equipment suppliers have filled gaps in areas where Lam cannot compete, but Lam still delivers value in lagging-edge nodes where sales a"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/List_of_multinational_corporations",
+      "query": "Lam Research Corporation major customers clients",
+      "snippet": "This is a complete list of multinational corporations , also known as multinational companies in worldwide or global enterprises."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.marketbeat.com/instant-alerts/lam-research-ceo-sees-ai-fueling-140-billion-chip-equipment-boom-2026-05-30/",
+      "query": "Lam Research Corporation major customers clients",
+      "snippet": "Lam Research CEO Tim Archer said AI demand is driving a broad semiconductor equipment boom, with wafer fab equipment spending now expected to reach ab"
     }
   ]
 }

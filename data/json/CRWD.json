@@ -1,37 +1,37 @@
 {
   "ticker": "CRWD",
   "company_name": "CrowdStrike Holdings, Inc.",
-  "sector": "Technology",
-  "industry": "Software - Infrastructure",
+  "sector": "Technology / Software - Infrastructure",
+  "industry": "Cybersecurity",
   "upstream": [
     "MSFT",
     "AMZN",
-    "GOOGL",
+    "DELL",
     "CSCO",
-    "DELL"
+    "Red Hat (Linux distribution)"
   ],
   "downstream": [
-    "Walmart",
-    "JPMorgan Chase",
+    "MSFT",
+    "AMZN",
     "Bank of America",
-    "UnitedHealth Group",
-    "AT&T"
+    "U.S. Department of Defense",
+    "General Electric"
   ],
   "competitors": [
     "Palo Alto Networks",
     "AVGO",
     "McAfee",
     "SentinelOne",
-    "Fortinet"
+    "Carbon Black (VMware)"
   ],
   "key_products": [
-    "CrowdStrike Falcon Platform",
-    "Falcon Prevent",
-    "Falcon Insight",
-    "Falcon OverWatch",
-    "Falcon X"
+    "CrowdStrike Falcon Prevent",
+    "CrowdStrike Falcon Insight",
+    "CrowdStrike Falcon Discover",
+    "CrowdStrike Falcon OverWatch",
+    "CrowdStrike Falcon Complete"
   ],
-  "extracted_at": "2026-06-01 20:15:48",
+  "extracted_at": "2026-06-02 19:44:13",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,21 +41,21 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.crowdstrike.com/en-us/about-us/suppliers/",
+      "url": "https://en.wikipedia.org/wiki/CrowdStrike",
       "query": "CrowdStrike Holdings, Inc. suppliers manufacturers",
-      "snippet": "CrowdStrike is committed to developing partnerships with a diverse range of suppliers who value quality and integrity in order to help us stop breache"
+      "snippet": "CrowdStrike Holdings , Inc . is an American cybersecurity technology company based in Austin, Texas. It provides endpoint security, threat intelligenc"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://csimarket.com/stocks/CRWD-Suppliers",
       "query": "CrowdStrike Holdings, Inc. suppliers manufacturers",
-      "snippet": "Mar 5, 2026 · Crowdstrike Holdings Inc 's Comment on Supply Chain We work with a number of technology alliance partners to design go-to-market strateg"
+      "snippet": "Crowdstrike Holdings Inc supply chain, list and performance of Crowdstrike Holdings Incs ' suppliers - CSIMarket."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/CrowdStrike",
+      "url": "https://theirstack.com/en/technology/crowdstrike",
       "query": "CrowdStrike Holdings, Inc. major customers clients",
-      "snippet": "CrowdStrike Holdings , Inc . is an American cybersecurity technology company based in Austin, Texas. It provides endpoint security, threat intelligenc"
+      "snippet": "Download a list of 12,491 companies that use CrowdStrike with enriched data including industry, company size, location, funding rounds, and revenue fi"
     },
     {
       "source": "DuckDuckGo",

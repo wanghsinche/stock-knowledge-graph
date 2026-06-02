@@ -4,34 +4,34 @@
   "sector": "Technology",
   "industry": "Communication Equipment",
   "upstream": [
-    "Hewlett-Packard Company",
-    "DELL",
-    "IBM",
+    "INTC",
+    "AMD",
     "CSCO",
-    "Lenovo Group"
+    "DELL",
+    "IBM"
   ],
   "downstream": [
-    "AMZN",
-    "GOOGL",
-    "MSFT",
-    "ORCL",
-    "META"
+    "Government agencies",
+    "Financial institutions",
+    "Healthcare providers",
+    "Retail companies",
+    "Manufacturing firms"
   ],
   "competitors": [
     "DELL",
     "IBM",
     "CSCO",
-    "Lenovo Group",
+    "Lenovo",
     "ORCL"
   ],
   "key_products": [
     "HPE ProLiant servers",
-    "HPE 3PAR storage systems",
     "HPE Aruba networking solutions",
-    "HPE AI and analytics platforms",
-    "HPE consulting and support services"
+    "HPE Nimble Storage",
+    "HPE Synergy composable infrastructure",
+    "HPE OneView management software"
   ],
-  "extracted_at": "2026-06-01 20:15:21",
+  "extracted_at": "2026-06-02 19:38:21",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Hewlett-Packard",
+      "url": "https://en.wikipedia.org/wiki/Hewlett_Packard_Enterprise",
       "query": "Hewlett Packard Enterprise Company suppliers manufacturers",
-      "snippet": "The Hewlett - Packard Company , commonly shortened to Hewlett - Packard or HP , was an American multinational information technology company . Hewlett"
+      "snippet": "The Hewlett Packard Enterprise Company (HPE) is an American multinational information technology company based in Spring, Texas. It is a business-focu"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.hpe.com/psnow/doc/a00151646enw",
+      "query": "Hewlett Packard Enterprise Company suppliers manufacturers",
+      "snippet": "A list of HPE's final assembly, commodity, component and service suppliers , including their compliance with certain HPE sustainability key performanc"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.hpe.com/",
-      "query": "Hewlett Packard Enterprise Company suppliers manufacturers",
+      "query": "Hewlett Packard Enterprise Company major customers clients",
       "snippet": "Our company . A leader in essential enterprise technology, bringing together the power of AI, cloud, and networking to help organizations achieve more"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Hewlett_Packard_Enterprise",
+      "url": "https://www.linkedin.com/posts/jeff-dolce_ai-driven-rail-safety-norfolk-southerns-activity-7407841691853877250-4b1W",
       "query": "Hewlett Packard Enterprise Company major customers clients",
-      "snippet": "The Hewlett Packard Enterprise Company (HPE) is an American multinational information technology company based in Spring, Texas. It is a business -foc"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.appsruntheworld.com/customers-database/vendors/view/hewlett-packard-enterprise",
-      "query": "Hewlett Packard Enterprise Company major customers clients",
-      "snippet": "List of companies using or evaluating Hewlett Packard Enterprise applications, with details on their revenues, employees, industries, and locations."
+      "snippet": "One of the highlights of this year has been seeing how Hewlett Packard Enterprise customers are using modern networking to transform even the most est"
     }
   ]
 }

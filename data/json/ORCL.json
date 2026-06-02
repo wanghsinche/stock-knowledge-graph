@@ -5,33 +5,33 @@
   "industry": "Software - Infrastructure",
   "upstream": [
     "DELL",
-    "NVDA",
-    "MSFT",
-    "ORCL",
-    "CSCO"
+    "HPQ",
+    "CSCO",
+    "IBM",
+    "MSFT"
   ],
   "downstream": [
-    "Large enterprises (e.g., Walmart, JPMorgan Chase)",
-    "Government agencies (e.g., U.S. Department of Defense, U.K. Ministry of Defence)",
-    "Financial institutions (e.g., Bank of America, HSBC)",
-    "Healthcare organizations (e.g., Mayo Clinic, Kaiser Permanente)",
-    "Retail and e‑commerce companies (e.g., eBay, Alibaba)"
+    "Bank of America",
+    "UnitedHealth Group",
+    "Walmart",
+    "Airbnb",
+    "NASA"
   ],
   "competitors": [
     "MSFT",
-    "AMZN",
-    "IBM",
     "SAP",
-    "GOOGL"
+    "IBM",
+    "CRM",
+    "AMZN"
   ],
   "key_products": [
     "Oracle Database",
-    "Oracle Cloud Infrastructure (OCI)",
+    "Oracle Cloud Infrastructure",
     "Oracle Autonomous Database",
-    "Oracle Applications (e.g., E-Business Suite, Fusion Applications)",
-    "Oracle Java Platform"
+    "Oracle E-Business Suite",
+    "Oracle Fusion Applications"
   ],
-  "extracted_at": "2026-06-01 20:11:48",
+  "extracted_at": "2026-06-02 19:39:21",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,9 +41,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Oracle_Corporation",
+      "url": "https://en.wikipedia.org/wiki/List_of_acquisitions_by_Oracle",
       "query": "Oracle Corporation suppliers manufacturers",
-      "snippet": "Oracle Corporation is an American multinational technology company headquartered in Austin, Texas. [5] Co-founded in Santa Clara, California, in 1977 "
+      "snippet": "List of acquisitions by Oracle This is a listing of Oracle Corporation 's corporate acquisitions, including acquisitions of both companies and individ"
     },
     {
       "source": "DuckDuckGo",
