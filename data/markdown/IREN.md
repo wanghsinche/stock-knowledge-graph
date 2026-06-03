@@ -1,57 +1,41 @@
 ---
 ticker: IREN
 company: IREN Limited
-sector: Financial Services / Capital Markets
-industry: Data Center Services
-extracted_at: 2026-06-02 19:43:48
-last_updated: 2026-06-02
+sector: Financial Services
+industry: Capital Markets
+extracted_at: 2026-06-03 19:46:05
+last_updated: 2026-06-03
 ---
 
 # IREN - IREN Limited
 
 ## 基本信息
 
-- **所属行业**: Financial Services / Capital Markets / Data Center Services
-- **提取时间**: 2026-06-02 19:43:48
+- **所属行业**: Financial Services / Capital Markets
+- **提取时间**: 2026-06-03 19:46:05
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Renewable energy providers (wind, solar farms)]]
-- [[DELL]]
-- [[NVDA]]
-- [[Cooling system suppliers (Schneider Electric, Vertiv)]]
-- [[CSCO]]
+_暂无数据_
 
 ### 下游客户
-- [[AI research organizations (OpenAI, DeepMind)]]
-- [[Enterprise clients (financial institutions, healthcare)]]
-- [[Cloud service resellers]]
-- [[Government agencies]]
-- [[E-commerce companies]]
+_暂无数据_
 
 ### 竞争对手
-- [[Equinix]]
-- [[Digital Realty]]
-- [[AMZN]]
-- [[MSFT]]
-- [[GOOGL]]
+_暂无数据_
 
 ### 核心产品
-- [[Renewable-powered data centers]]
-- [[AI cloud services]]
-- [[GPU cluster solutions]]
-- [[Edge computing infrastructure]]
-- [[Colocation services]]
+_暂无数据_
 
 ## 数据来源
 
 - 
-- [IREN Limited suppliers manufacturers](https://csimarket.com/stocks/suppliers_glance.php?code=IREN)
-- [IREN Limited suppliers manufacturers](https://www.iren.com/)
-- [IREN Limited major customers clients](https://csimarket.com/stocks/IREN-Customers)
-- [IREN Limited major customers clients](https://www.msn.com/en-us/money/topstocks/irens-ai-client-base-expands-is-growth-becoming-more-durable/ar-AA1T5bT4)
+- [IREN Limited suppliers manufacturers](https://www.investing.com/equities/iris-energy)
+- [IREN Limited suppliers manufacturers](https://finance.yahoo.com/markets/stocks/articles/iren-flipping-switch-bitcoin-ai-164500609.html)
+- [IREN Limited major customers clients](https://www.investing.com/equities/iris-energy)
+- [IREN Limited major customers clients](https://www.youtube.com/watch?v=Mc_KnLE2Js4)
 
 ## 元数据
 
-- **更新日期**: 2026-06-02
+- **更新日期**: 2026-06-03

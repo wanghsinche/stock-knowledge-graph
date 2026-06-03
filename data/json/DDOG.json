@@ -2,36 +2,36 @@
   "ticker": "DDOG",
   "company_name": "Datadog, Inc.",
   "sector": "Technology",
-  "industry": "Software—Application",
+  "industry": "Software - Application",
   "upstream": [
     "AMZN",
     "MSFT",
     "GOOGL",
-    "GitHub",
-    "Jenkins"
+    "VMware",
+    "CSCO"
   ],
   "downstream": [
-    "AMZN",
     "GOOGL",
+    "AMZN",
     "MSFT",
-    "NFLX",
-    "Airbnb"
+    "Facebook",
+    "NFLX"
   ],
   "competitors": [
     "New Relic",
     "Splunk",
     "Dynatrace",
-    "AppDynamics",
-    "PagerDuty"
+    "Elastic",
+    "AppDynamics"
   ],
   "key_products": [
     "Datadog APM",
     "Datadog Infrastructure Monitoring",
     "Datadog Log Management",
     "Datadog Security Monitoring",
-    "Datadog Cloud Security Posture Management"
+    "Datadog Cloud Cost Management"
   ],
-  "extracted_at": "2026-06-02 19:45:52",
+  "extracted_at": "2026-06-03 19:56:50",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,9 +47,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://data.ark.ai/analysis/suppliers/page-13/",
+      "url": "https://www.morningstar.com/company-reports/1250702-datadog-is-a-high-quality-observability-vendor-with-a-long-runway-for-growth",
       "query": "Datadog, Inc. suppliers manufacturers",
-      "snippet": "Ark.ai provides definitive, consolidated analyses of every vendor, subcontractor, supplier , grant awardee, non-profit, and investment organization in"
+      "snippet": "Datadog Inc Class A. DDOG: XNAS (USA). View Stock Summary.We believe Datadog is poised for success in the observability market. Datadog 's observabili"
     },
     {
       "source": "DuckDuckGo",

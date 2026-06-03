@@ -3,8 +3,8 @@ ticker: V
 company: Visa Inc.
 sector: Financial Services
 industry: Credit Services
-extracted_at: 2026-06-02 19:44:57
-last_updated: 2026-06-02
+extracted_at: 2026-06-03 19:54:34
+last_updated: 2026-06-03
 ---
 
 # V - Visa Inc.
@@ -12,41 +12,41 @@ last_updated: 2026-06-02
 ## 基本信息
 
 - **所属行业**: Financial Services / Credit Services
-- **提取时间**: 2026-06-02 19:44:57
+- **提取时间**: 2026-06-03 19:54:34
 
 ## 产业链关系
 
 ### 上游供应商
-- [[NXP Semiconductors]]
-- [[STMicroelectronics]]
-- [[Giesecke+Devrient]]
+- [[Gemalto (now part of Thales)]]
 - [[IDEMIA]]
-- [[Cypress Semiconductor]]
+- [[Fiserv]]
+- [[Worldline]]
+- [[PayPal (technology services)]]
 
 ### 下游客户
 - [[Bank of America]]
 - [[Wells Fargo]]
-- [[PayPal]]
+- [[Walmart]]
 - [[AMZN]]
-- [[AAPL]]
+- [[Target]]
 
 ### 竞争对手
 - [[Mastercard]]
 - [[American Express]]
 - [[Discover]]
-- [[PayPal]]
-- [[Square]]
+- [[JCB]]
+- [[UnionPay]]
 
 ### 核心产品
-- [[Visa Payment Network]]
-- [[Credit & Debit Card Issuance]]
-- [[Mobile Payments & Tokenization]]
-- [[Fraud & Risk Management Solutions]]
-- [[Data Analytics & Insights]]
+- [[VisaNet payment network]]
+- [[Visa Credit cards]]
+- [[Visa Debit cards]]
+- [[Visa Prepaid cards]]
+- [[Visa Direct instant payments]]
 
 ## 数据来源
 
-- 
+- [Visa Inc.](https://en.wikipedia.org/wiki/Visa_Inc.)
 - [Visa Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/Visa_Inc.)
 - [Visa Inc. suppliers manufacturers](https://ru.wikipedia.org/wiki/Visa)
 - [Visa Inc. major customers clients](https://en.wikipedia.org/wiki/Visa_Inc.)
@@ -54,4 +54,4 @@ last_updated: 2026-06-02
 
 ## 元数据
 
-- **更新日期**: 2026-06-02
+- **更新日期**: 2026-06-03

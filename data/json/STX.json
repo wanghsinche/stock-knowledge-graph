@@ -3,11 +3,35 @@
   "company_name": "Seagate Technology Holdings plc",
   "sector": "Technology",
   "industry": "Computer Hardware",
-  "upstream": [],
-  "downstream": [],
-  "competitors": [],
-  "key_products": [],
-  "extracted_at": "2026-06-02 19:47:15",
+  "upstream": [
+    "MU",
+    "005930.KS",
+    "WDC",
+    "TDK",
+    "Toshiba"
+  ],
+  "downstream": [
+    "DELL",
+    "HPQ",
+    "Lenovo",
+    "AMZN",
+    "MSFT"
+  ],
+  "competitors": [
+    "WDC",
+    "Toshiba",
+    "005930.KS",
+    "IBM",
+    "DELL"
+  ],
+  "key_products": [
+    "Hard Disk Drives (HDD)",
+    "Solid State Drives (SSD)",
+    "Enterprise storage solutions",
+    "Cloud storage solutions",
+    "Data storage systems"
+  ],
+  "extracted_at": "2026-06-03 19:49:52",
   "sources": [
     {
       "source": "Wikipedia",
@@ -17,15 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Seagate_Technology",
+      "url": "https://www.seagate.com/",
       "query": "Seagate Technology Holdings plc suppliers manufacturers",
-      "snippet": "Seagate Technology ... Seagate Technology Holdings plc is an American data storage company. It was incorporated in 1978 as Shugart Technology and comm"
+      "snippet": "Seagate Technology Holdings PLC ."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/STX-Suppliers",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/seagate-stx-lands-stunning-target-121722739.html",
       "query": "Seagate Technology Holdings plc suppliers manufacturers",
-      "snippet": "Apr 30, 2026 · Seagate Technology Holdings Plc 's Comment on Supply Chain Disk drives incorporate certain components, including a head disk assembly a"
+      "snippet": "Seagate Technology Holdings plc (NASDAQ:STX) is a global leader in data storage technology , developing, manufacturing , and distributing hard disk dr"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.seagate.com/",
+      "query": "Seagate Technology Holdings plc major customers clients",
+      "snippet": "Seagate Technology American data storage company as a Technology ..."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/seagate-technology-holdings-plc-stx-220222184.html",
+      "query": "Seagate Technology Holdings plc major customers clients",
+      "snippet": "We just covered the From Fired Researcher to $13.7 Billion King: How Leopold Aschenbrenner Broke the Hedge Fund World and Seagate Technology Holdings "
     }
   ]
 }

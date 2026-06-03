@@ -1,42 +1,37 @@
 {
   "ticker": "TSLA",
   "company_name": "Tesla, Inc.",
-  "sector": "Consumer Cyclical",
-  "industry": "Auto Manufacturers",
+  "sector": "Consumer Cyclical / Auto Manufacturers",
+  "industry": "Automotive / Electric Vehicles",
   "upstream": [
     "Panasonic",
     "LG Chem",
-    "005930.KS",
     "CAT",
+    "005930.KS",
     "Bosch"
   ],
   "downstream": [
     "Individual consumers",
-    "Commercial fleet operators",
-    "Ride‑hailing companies",
-    "Government agencies",
-    "Logistics and delivery companies"
+    "Fleet operators (e.g., Uber, Lyft)",
+    "AMZN",
+    "Utility companies",
+    "Government agencies"
   ],
   "competitors": [
-    "Ford",
     "General Motors",
+    "Ford",
     "Volkswagen",
-    "Toyota",
-    "Hyundai"
+    "Rivian",
+    "Lucid Motors"
   ],
   "key_products": [
-    "Model S",
-    "Model 3",
-    "Model X",
-    "Model Y",
-    "Cybertruck",
-    "Semi",
-    "Powerwall",
-    "Powerpack",
-    "Solar Roof",
-    "Solar panels"
+    "Tesla Model 3",
+    "Tesla Model Y",
+    "Tesla Model S",
+    "Tesla Model X",
+    "Tesla Powerwall"
   ],
-  "extracted_at": "2026-06-02 19:37:05",
+  "extracted_at": "2026-06-03 19:42:32",
   "sources": [
     {
       "source": "Wikipedia",
@@ -46,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/TSLA-Suppliers",
+      "url": "https://en.wikipedia.org/wiki/Tesla,_Inc.",
       "query": "Tesla, Inc. suppliers manufacturers",
-      "snippet": "Apr 24, 2026 · Tesla Inc supply chain, list and performance of Tesla Incs' suppliers - CSIMarket"
+      "snippet": "2 days ago - The practice of vertical integration is rare in the automotive industry, where companies typically outsource 80% of components to supplie"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.investopedia.com/ask/answers/052815/who-are-teslas-tsla-main-suppliers.asp",
+      "url": "https://en.wikipedia.org/wiki/List_of_Tesla_factories",
       "query": "Tesla, Inc. suppliers manufacturers",
-      "snippet": "Nov 4, 2025 · Discover Tesla's key and rumored parts suppliers . Learn which companies provide essential components for Tesla's electric vehicles and "
+      "snippet": "2 weeks ago - Tesla, Inc. manufactures their products worldwide as well as a lithium ore refinery. The following is a list of current, future, and for"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/TSLA-Customers",
+      "url": "https://en.wikipedia.org/wiki/Tesla,_Inc.",
       "query": "Tesla, Inc. major customers clients",
-      "snippet": "May 2, 2026 · Tesla Inc customers and markets, results by customer and performance relative to TSLA, by company and industry - CSIMarket"
+      "snippet": "Tesla , Inc . is an American multinational automotive and clean energy company.The company was incorporated in July 2003 by Martin Eberhard and Marc T"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.growthnavigate.com/tesla-target-customers",
+      "url": "https://www.tesla.com/",
       "query": "Tesla, Inc. major customers clients",
-      "snippet": "Tesla target customers are typically affluent, tech-savvy, and environmentally conscious buyers. This guide breaks down who buys Tesla, by model, regi"
+      "snippet": "Explore limited-time offers on Tesla vehicles. Learn More. Tesla vehicle. Inventory. Find nearby vehicles available for immediate delivery."
     }
   ]
 }

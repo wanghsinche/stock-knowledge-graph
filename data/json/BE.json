@@ -1,42 +1,43 @@
 {
   "ticker": "BE",
   "company_name": "Bloom Energy Corporation",
-  "sector": "Industrials",
-  "industry": "Electrical Equipment & Parts",
+  "sector": "Industrials / Electrical Equipment & Parts",
+  "industry": "Solid Oxide Fuel Cell Technology",
   "upstream": [
-    "Ceramic electrolyte manufacturers",
-    "CAT",
-    "Hydrogen fuel suppliers",
+    "Fuel cell stack suppliers",
+    "Electrolyte material suppliers",
     "Natural gas suppliers",
-    "Electrolyte material suppliers"
+    "Hydrogen suppliers",
+    "Component manufacturers"
   ],
   "downstream": [
-    "Utilities (e.g., Pacific Gas & Electric)",
-    "MSFT",
-    "Hospitals",
-    "Commercial buildings",
-    "Industrial facilities"
+    "Data center operators",
+    "Manufacturing facilities",
+    "Commercial building operators",
+    "Cloud service providers",
+    "Industrial power users"
   ],
   "competitors": [
-    "Plug Power",
     "FuelCell Energy",
-    "PowerCell",
-    "Sierra Energy",
-    "Nexamp"
+    "Plug Power",
+    "Ballard Power Systems",
+    "Nexamp",
+    "Traditional utilities"
   ],
   "key_products": [
-    "Bloom Energy Server",
-    "Bloom Energy Server 2.0",
-    "Bloom Energy Server 3.0",
-    "Bloom Energy Server 4.0"
+    "Solid Oxide Fuel Cells",
+    "Electrolyzers",
+    "On‑site Power Generation Systems",
+    "Fuel Cell Stacks",
+    "Hydrogen Production Units"
   ],
-  "extracted_at": "2026-06-02 19:43:18",
+  "extracted_at": "2026-06-03 19:53:31",
   "sources": [
     {
       "source": "Wikipedia",
-      "url": "",
-      "title": "",
-      "snippet": ""
+      "url": "https://en.wikipedia.org/wiki/Bloom_Energy_Corporation",
+      "title": "Bloom Energy",
+      "snippet": "Bloom Energy is an American public company that designs and manufactures solid oxide fuel cells (SOFCs) which independently produce electricity onsite for power generation in data centers, manufacturi"
     },
     {
       "source": "DuckDuckGo",
@@ -54,13 +55,13 @@
       "source": "DuckDuckGo",
       "url": "https://www.fool.com/coverage/better-buy/2026/05/30/bloom-energy-vs-plug-power-which-hydrogen-stock-is-a-better-buy-in-2026/",
       "query": "Bloom Energy Corporation major customers clients",
-      "snippet": "Choosing between Bloom Energy (NYSE:BE) and Plug Power (NYSE:PLUG) involves betting on green hydrogen and fuel cells, although the two companies take "
+      "snippet": "Bloom Energy focuses on providing steady electricity from solid-oxide fuel cells for critical infrastructure,ure such as data centers. Plug Power aims"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.linkedin.com/company/bloom-energy",
       "query": "Bloom Energy Corporation major customers clients",
-      "snippet": "Something special is happening at Bloom Energy . Today, we’re kicking off 25 years of celebration with events across our corporate offices, starting i"
+      "snippet": "Bloom Energy empowers businesses and communities to responsibly take charge of their energy . The company’s leading solid-oxide platform for distribut"
     }
   ]
 }

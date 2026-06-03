@@ -4,34 +4,34 @@
   "sector": "Financial Services",
   "industry": "Credit Services",
   "upstream": [
-    "Chip and card manufacturing suppliers",
-    "Payment network infrastructure providers",
-    "Software and cybersecurity vendors",
-    "Data center and cloud service providers",
-    "Hardware component manufacturers"
+    "Card‑issuing banks",
+    "Financial institutions",
+    "Payment processors",
+    "Merchant acquirers",
+    "Card network operators"
   ],
   "downstream": [
-    "Retail merchants worldwide",
-    "Banking institutions and credit unions",
-    "Card issuing banks",
+    "Merchants",
+    "Cardholders",
+    "Retailers",
     "E‑commerce platforms",
-    "Financial technology partners"
+    "Financial service providers"
   ],
   "competitors": [
-    "Visa Inc.",
+    "Visa",
     "American Express",
-    "Discover Financial Services",
-    "JCB Co., Ltd.",
+    "Discover",
+    "JCB",
     "UnionPay"
   ],
   "key_products": [
-    "Payment transaction processing network",
-    "Card issuance and management services",
-    "Fraud detection and prevention solutions",
-    "Data analytics and reporting tools",
-    "Digital wallet and mobile payment platforms"
+    "Payment processing network",
+    "Transaction processing services",
+    "Digital payment solutions",
+    "Fraud detection & prevention",
+    "Data analytics & insights"
   ],
-  "extracted_at": "2026-05-05 17:23:11",
+  "extracted_at": "2026-06-03 19:51:45",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.mastercard.com/procurement/us/en/informationforsupplier.html",
-      "query": "Mastercard Incorporated suppliers manufacturers",
-      "snippet": "Information for Suppliers We recognize that our suppliers must have all of the appropriate information in order for them to provide the products & ser"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/MA-Suppliers",
-      "query": "Mastercard Incorporated suppliers manufacturers",
-      "snippet": "Feb 12, 2026 · Mastercard Incorporated 's Suppliers recorded an increase in sales by 29.58 % year on year in Q4 2025, sequentially sales grew by 12.82"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://technologychecker.io/technology/mastercard",
+      "url": "https://en.wikipedia.org/wiki/Mastercard",
       "query": "Mastercard Incorporated major customers clients",
-      "snippet": "Apr 1, 2026 · Download all 890,612 Mastercard customers with full company data, or create a signal to track when companies start or stop using Masterc"
+      "snippet": "Mastercard Inc . is an American multinational payment card services corporation headquartered in Purchase, New York. It offers a range of payment tran"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://data.landbase.com/technology/mastercard/",
+      "url": "https://ru.wikipedia.org/wiki/Mastercard",
       "query": "Mastercard Incorporated major customers clients",
-      "snippet": "Aug 17, 2025 · We have data on 212,109 companies that use Mastercard. Our Mastercard customers list is available for download and comes enriched with "
+      "snippet": "Mastercard Inc . (ранее MasterCard Worldwide или MasterCard Incorporated ) — международная платёжная система, транснациональная финансовая корпорация,"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/Mastercard",
+      "query": "Mastercard Incorporated competitors alternatives",
+      "snippet": "Mastercard Inc . (stylized as MasterCard from 1979 to 2016 and as mastercard from 2016 to 2019) is an American multinational payment card services cor"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://bullfincher.io/companies/mastercard-incorporated/competitors",
+      "query": "Mastercard Incorporated competitors alternatives",
+      "snippet": "Mastercard Incorporated 's competitors include Visa, American Express Company, PayPal Holdings and more. Discover more competitors and create your own"
     }
   ]
 }

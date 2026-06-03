@@ -3,8 +3,8 @@ ticker: NOW
 company: ServiceNow, Inc.
 sector: Technology
 industry: Software - Application
-extracted_at: 2026-06-02 19:39:56
-last_updated: 2026-06-02
+extracted_at: 2026-06-03 19:47:33
+last_updated: 2026-06-03
 ---
 
 # NOW - ServiceNow, Inc.
@@ -12,23 +12,17 @@ last_updated: 2026-06-02
 ## 基本信息
 
 - **所属行业**: Technology / Software - Application
-- **提取时间**: 2026-06-02 19:39:56
+- **提取时间**: 2026-06-03 19:47:33
 
 ## 产业链关系
 
 ### 上游供应商
-- [[AMZN]]
-- [[MSFT]]
-- [[GOOGL]]
-- [[DELL]]
-- [[CSCO]]
+- [[Supplier Lifecycle Operations]]
+- [[Advanced partnership with ServiceNow]]
 
 ### 下游客户
-- [[Walmart]]
-- [[JPMorgan Chase]]
-- [[UnitedHealth Group]]
-- [[U.S. Department of Defense]]
-- [[General Electric]]
+- [[Customer Service Management]]
+- [[CRM cloud provider services]]
 
 ### 竞争对手
 - [[CRM]]
@@ -38,20 +32,20 @@ last_updated: 2026-06-02
 - [[Workday]]
 
 ### 核心产品
-- [[ServiceNow IT Service Management]]
-- [[ServiceNow IT Operations Management]]
-- [[ServiceNow Customer Service Management]]
-- [[ServiceNow HR Service Delivery]]
-- [[ServiceNow Security Operations]]
+- [[IT Service Management (ITSM)]]
+- [[HR Service Delivery]]
+- [[Customer Service Management]]
+- [[Security Operations]]
+- [[Workflow Automation Platform]]
 
 ## 数据来源
 
-- 
-- [ServiceNow, Inc. suppliers manufacturers](https://www.servicenow.com/company/supplier.html)
-- [ServiceNow, Inc. suppliers manufacturers](https://csimarket.com/stocks/NOW-Suppliers)
+- [ServiceNow](https://en.wikipedia.org/wiki/ServiceNow,_Inc.)
+- [ServiceNow, Inc. suppliers manufacturers](https://www.servicenow.com/)
+- [ServiceNow, Inc. suppliers manufacturers](https://theenterpriseworld.com/10-servicenow-partners-in-2024/)
 - [ServiceNow, Inc. major customers clients](https://www.servicenow.com/)
-- [ServiceNow, Inc. major customers clients](https://www.fool.com/investing/2026/04/09/the-saaspocalypse-made-servicenow-stock-a-bargain/)
+- [ServiceNow, Inc. major customers clients](https://learn.microsoft.com/en-us/defender-cloud-apps/protect-servicenow)
 
 ## 元数据
 
-- **更新日期**: 2026-06-02
+- **更新日期**: 2026-06-03

@@ -3,8 +3,8 @@ ticker: PANW
 company: Palo Alto Networks, Inc.
 sector: Technology
 industry: Software - Infrastructure
-extracted_at: 2026-06-02 19:41:04
-last_updated: 2026-06-02
+extracted_at: 2026-06-03 19:46:21
+last_updated: 2026-06-03
 ---
 
 # PANW - Palo Alto Networks, Inc.
@@ -12,46 +12,46 @@ last_updated: 2026-06-02
 ## 基本信息
 
 - **所属行业**: Technology / Software - Infrastructure
-- **提取时间**: 2026-06-02 19:41:04
+- **提取时间**: 2026-06-03 19:46:21
 
 ## 产业链关系
 
 ### 上游供应商
-- [[CSCO]]
-- [[MSFT]]
-- [[AMZN]]
 - [[INTC]]
-- [[QCOM]]
+- [[AMD]]
+- [[NVDA]]
+- [[CSCO]]
+- [[DELL]]
 
 ### 下游客户
-- [[Wipro (IT services)]]
-- [[Tyson Foods (food processing)]]
-- [[Bank of America (financial services)]]
-- [[U.S. Department of Defense (government)]]
-- [[General Electric (industrial)]]
+- [[JPMorgan Chase]]
+- [[Walmart]]
+- [[AT&T]]
+- [[Bank of America]]
+- [[Verizon]]
 
 ### 竞争对手
-- [[CSCO]]
 - [[Fortinet]]
 - [[Check Point Software Technologies]]
+- [[CSCO]]
+- [[JNPR]]
 - [[CrowdStrike]]
-- [[Sophos]]
 
 ### 核心产品
-- [[Next-Generation Firewall]]
+- [[Next‑Generation Firewall]]
 - [[Prisma Cloud]]
 - [[Cortex XDR]]
-- [[Cortex XSOAR]]
-- [[GlobalProtect VPN]]
+- [[Unit 42 Threat Intelligence]]
+- [[Secure Access Service Edge (SASE)]]
 
 ## 数据来源
 
-- 
+- [Palo Alto Networks](https://en.wikipedia.org/wiki/Palo_Alto_Networks,_Inc.)
 - [Palo Alto Networks, Inc. suppliers manufacturers](https://www.paloaltonetworks.com/)
-- [Palo Alto Networks, Inc. suppliers manufacturers](https://www.linkedin.com/company/palo-alto-networks)
-- [Palo Alto Networks, Inc. major customers clients](https://www.paloaltonetworks.com/customers)
-- [Palo Alto Networks, Inc. major customers clients](https://csimarket.com/stocks/PANW-Customers)
+- [Palo Alto Networks, Inc. suppliers manufacturers](https://finance.yahoo.com/quote/PANW/)
+- [Palo Alto Networks, Inc. major customers clients](https://en.wikipedia.org/wiki/Palo_Alto_Networks)
+- [Palo Alto Networks, Inc. major customers clients](https://www.paloaltonetworks.com/)
 
 ## 元数据
 
-- **更新日期**: 2026-06-02
+- **更新日期**: 2026-06-03

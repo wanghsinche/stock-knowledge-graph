@@ -4,34 +4,34 @@
   "sector": "Consumer Cyclical",
   "industry": "Internet Retail",
   "upstream": [
-    "Book publishers",
-    "Consumer electronics manufacturers",
-    "Apparel manufacturers",
-    "Home goods manufacturers",
-    "Third‑party sellers"
+    "Electronics manufacturers",
+    "Apparel and fashion suppliers",
+    "Home goods and furniture suppliers",
+    "AMZN",
+    "AMZN"
   ],
   "downstream": [
-    "Retail consumers",
+    "Individual consumers worldwide",
     "AMZN",
-    "Small and medium businesses using AWS",
-    "Enterprise customers using AWS",
+    "AMZN",
+    "AMZN",
     "AMZN"
   ],
   "competitors": [
-    "eBay",
     "Walmart",
+    "eBay",
     "Alibaba",
     "Shopify",
     "MSFT"
   ],
   "key_products": [
-    "Amazon.com e‑commerce platform",
+    "Amazon.com e‑commerce marketplace",
+    "Amazon Prime subscription services",
     "Amazon Web Services (cloud computing)",
-    "Amazon Prime Video (digital streaming)",
-    "Amazon Kindle (e‑books)",
-    "Amazon Echo/Alexa (smart home devices)"
+    "Amazon Advertising platform",
+    "Amazon Echo/Alexa smart devices"
   ],
-  "extracted_at": "2026-06-02 19:38:31",
+  "extracted_at": "2026-06-03 19:44:24",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,21 +47,21 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ir.aboutamazon.com/",
+      "url": "https://www.amazon.com/power-tools-hand-tools/b?ie=UTF8&node=328182011",
       "query": "Amazon.com, Inc. suppliers manufacturers",
-      "snippet": "Amazon . com Announces First Quarter Results. Amazon . com , Inc . (NASDAQ: AMZN) today announced financial results for its first quarter ended March "
+      "snippet": "Shop through a wide selection of Power & Hand Tools at Amazon . com . Free shipping and free returns on Prime eligible items."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://capitaloneshopping.com/research/amazon-statistics/",
+      "url": "https://ir.aboutamazon.com/",
       "query": "Amazon.com, Inc. major customers clients",
-      "snippet": "Mar 29, 2026 · Statistics & analysis on Amazon including total sales (per year & minute), number of products (SKUs), customers , sellers & more."
+      "snippet": "The Spheres. Select awards and recognition. Amazon . com Conditions of Use © 1996- Amazon . com , Inc . - IR or its affiliates."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/AMZN-Customers",
+      "url": "https://www.amazon.com/s?k=...",
       "query": "Amazon.com, Inc. major customers clients",
-      "snippet": "Amazon Com Inc 's Comment on Sales, Marketing and Customers We serve consumers through our retail websites and focus on selection, price, and convenie"
+      "snippet": "Reach customers wherever they spend their time. 6pm. Score deals on fashion brands."
     }
   ]
 }

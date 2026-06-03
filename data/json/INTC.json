@@ -4,34 +4,34 @@
   "sector": "Technology",
   "industry": "Semiconductors",
   "upstream": [
-    "ASML",
-    "AMAT",
-    "LRCX",
+    "GlobalWafers",
+    "Sumitomo Silicon Industry",
     "Tokyo Electron",
-    "KLA"
+    "LRCX",
+    "AMAT"
   ],
   "downstream": [
     "DELL",
     "HPQ",
-    "Lenovo",
+    "Lenovo Group",
     "AAPL",
     "MSFT"
   ],
   "competitors": [
     "AMD",
     "NVDA",
-    "QCOM",
-    "AVGO",
-    "TSM"
+    "TSM",
+    "005930.KS",
+    "AVGO"
   ],
   "key_products": [
-    "Intel Core CPUs",
-    "Intel Xeon CPUs",
-    "Intel Xe GPUs",
-    "Intel FPGAs (Altera)",
-    "Intel chipsets"
+    "Intel Core processors",
+    "Intel Xeon processors",
+    "Intel Atom processors",
+    "Intel chipsets",
+    "Intel FPGAs"
   ],
-  "extracted_at": "2026-06-02 19:37:32",
+  "extracted_at": "2026-06-03 19:43:33",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,13 +43,13 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Intel",
       "query": "Intel Corporation suppliers manufacturers",
-      "snippet": "Intel Corporation is an American multinational technology company headquartered in Santa Clara, California. It designs, manufactures, and sells comput"
+      "snippet": "Intel Corporation is an American multinational technology company headquartered in Santa Clara, California. It designs, manufactures , and sells compu"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.intel.com/content/www/us/en/supplier/overview.html",
+      "url": "https://finance.yahoo.com/quote/INTC/",
       "query": "Intel Corporation suppliers manufacturers",
-      "snippet": "Intel is working to continuously improve transparency and promote corporate responsibility throughout the global electronics supply chain."
+      "snippet": "Find the latest Intel Corporation (INTC) stock quote, history, news and other vital information to help you with your stock trading and investing."
     },
     {
       "source": "DuckDuckGo",

@@ -4,23 +4,23 @@
   "sector": "Technology",
   "industry": "Software - Application",
   "upstream": [
-    "MSFT",
     "AMZN",
+    "MSFT",
     "GOOGL",
     "ORCL",
     "IBM"
   ],
   "downstream": [
+    "Walmart",
     "Coca‑Cola",
-    "AMZN",
-    "MSFT",
-    "GOOGL",
-    "AAPL"
+    "American Express",
+    "General Electric",
+    "Bank of America"
   ],
   "competitors": [
     "MSFT",
-    "SAP CRM",
     "ORCL",
+    "SAP Sales Cloud",
     "HubSpot",
     "Zoho CRM"
   ],
@@ -31,7 +31,7 @@
     "Commerce Cloud",
     "Einstein AI"
   ],
-  "extracted_at": "2026-06-02 19:42:36",
+  "extracted_at": "2026-06-03 19:53:05",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,15 +41,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/CRM-Suppliers",
-      "query": "Salesforce, Inc. suppliers manufacturers",
-      "snippet": "Salesforce Inc supply chain, list and performance of Salesforce Incs ' suppliers - CSIMarket."
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.salesforce.com/",
-      "query": "Salesforce, Inc. suppliers manufacturers",
-      "snippet": "ExactTarget Inc ."
+      "url": "https://en.wikipedia.org/wiki/Salesforce",
+      "query": "Salesforce, Inc. major customers clients",
+      "snippet": "Salesforce , Inc . is an American cloud-based software company headquartered in San Francisco, California. It provides applications focused on sales ,"
     },
     {
       "source": "DuckDuckGo",
@@ -59,9 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.heise.de/en/news/Salesforce-200-major-customers-join-Agentforce-10189412.html",
-      "query": "Salesforce, Inc. major customers clients",
-      "snippet": "More than 200 major customers have already signed contracts with Salesforce to gain access to the new AI platform Agentforce. This was reported by Sal"
+      "url": "https://www.guru99.com/salesforce-alternatives-competitor.html",
+      "query": "Salesforce, Inc. competitors alternatives",
+      "snippet": "best free salesforce alternatives . Struggling with Salesforce ’s high costs and limited flexibility? Exploring Software as a service (SaaS) CRM alter"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/CRM-Competitors",
+      "query": "Salesforce, Inc. competitors alternatives",
+      "snippet": "Comparing the current results to its competitors , Salesforce Inc reported Revenue increase in the 4 quarter 2025 by 61.05 % year on year. The sales g"
     }
   ]
 }

@@ -11,27 +11,27 @@
     "IBM"
   ],
   "downstream": [
-    "Walmart",
-    "JPMorgan Chase",
     "Bank of America",
-    "AT&T",
-    "Verizon"
+    "JPMorgan Chase",
+    "Walmart",
+    "Coca‑Cola",
+    "General Motors"
   ],
   "competitors": [
     "SAP SE Business Objects",
     "IBM",
     "ORCL",
-    "SAS Institute",
-    "CRM"
+    "Tableau",
+    "Qlik"
   ],
   "key_products": [
-    "MicroStrategy Analytics",
-    "MicroStrategy Mobile",
+    "MicroStrategy Desktop",
+    "MicroStrategy Server",
     "MicroStrategy Cloud",
-    "MicroStrategy Data Warehouse",
-    "MicroStrategy Dashboard"
+    "Mobile BI",
+    "Analytics Platform"
   ],
-  "extracted_at": "2026-06-02 19:40:34",
+  "extracted_at": "2026-06-03 19:52:41",
   "sources": [
     {
       "source": "Wikipedia",
@@ -53,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.marketwatch.com/investing/stock/mstr",
-      "query": "Strategy Inc major customers clients",
-      "snippet": "MSTR | Complete Strategy Inc . stock news by MarketWatch. View real-time stock prices and stock quotes for a full financial overview."
-    },
-    {
-      "source": "DuckDuckGo",
       "url": "https://www.youtube.com/watch?v=X-YeqTpmXww",
       "query": "Strategy Inc major customers clients",
       "snippet": "Let’s explore 33 of the best ways to get more customers or attract more clients . This video covers three different types of marketing channels that y"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.marketwatch.com/investing/stock/mstr",
+      "query": "Strategy Inc major customers clients",
+      "snippet": "Strategy , Inc . is a Bitcoin Treasury company. The firm has adopted Bitcoin as a primary treasury reserve asset. It uses proceeds from equity and deb"
     }
   ]
 }

@@ -4,16 +4,16 @@
   "sector": "Technology",
   "industry": "Consumer Electronics",
   "upstream": [
-    "Foxconn (Hon Hai Precision Industry)",
-    "TSM",
-    "005930.KS",
-    "LG Display",
-    "QCOM"
+    "Foxconn (Hon Hai Precision)",
+    "Pegatron",
+    "Wistron",
+    "Flex",
+    "005930.KS"
   ],
   "downstream": [
-    "iPhone users",
-    "iPad users",
-    "MacBook users",
+    "AAPL",
+    "AAPL",
+    "AAPL",
     "AAPL",
     "AAPL"
   ],
@@ -21,17 +21,17 @@
     "005930.KS",
     "GOOGL",
     "MSFT",
-    "AMZN",
-    "Huawei"
+    "Huawei",
+    "Xiaomi"
   ],
   "key_products": [
     "iPhone",
     "iPad",
-    "MacBook",
+    "Mac",
     "Apple Watch",
-    "Apple TV"
+    "AirPods"
   ],
-  "extracted_at": "2026-06-02 19:37:45",
+  "extracted_at": "2026-06-03 19:43:56",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,25 +43,25 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/List_of_Apple_Inc._suppliers",
       "query": "Apple Inc. suppliers manufacturers",
-      "snippet": "In 1985, Apple reduced its parts suppliers from 1,500 to 250 and closed down plants in Texas, Ireland, and California. [2]: 182–190 In the mid-1980s, "
+      "snippet": "Apple is an American technology company with a global supply chain. Until 2003, Apple 's own factories in the United States, Singapore, and Ireland we"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.apple.com/supply-chain/",
+      "url": "https://csimarket.com/stocks/suppliers_glance.php?code=AAPL",
       "query": "Apple Inc. suppliers manufacturers",
-      "snippet": "Our supply chain includes thousands of supplier facilities in over 60 countries. Suppliers support every stage of the Apple product lifecycle, and we "
+      "snippet": "Apple Inc supply chain, list and performance of Apple Incs ' suppliers - CSIMarket."
     },
     {
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Apple_Inc.",
       "query": "Apple Inc. major customers clients",
-      "snippet": "Apple Inc. is an American multinational technology company headquartered in Cupertino, California, in Silicon Valley, and known for consumer electroni"
+      "snippet": "Apple Inc . is an American multinational technology company headquartered in Cupertino, California, in Silicon Valley, and known for consumer electron"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.start.io/blog/apple-target-market-analysis-apple-demographics-marketing-strategy-competitors/",
+      "url": "https://www.apple.com/",
       "query": "Apple Inc. major customers clients",
-      "snippet": "Aug 14, 2024 · The Apple target market includes mainly younger to middle aged consumers, and the brand is more popular among women than men."
+      "snippet": "Apple Payments Services LLC, a subsidiary of Apple Inc ., is a service provider of Goldman Sachs Bank USA for Apple Card and Savings accounts.Not all "
     }
   ]
 }

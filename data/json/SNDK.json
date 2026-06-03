@@ -1,37 +1,37 @@
 {
   "ticker": "SNDK",
   "company_name": "Sandisk Corporation",
-  "sector": "Technology / Computer Hardware",
-  "industry": "Semiconductors / Computer Storage",
+  "sector": "Technology",
+  "industry": "Computer Hardware",
   "upstream": [
-    "TSM",
-    "005930.KS",
-    "MU",
-    "SK Hynix",
-    "Nanya Technology"
+    "GIGAPC Corporation",
+    "Taiwanese OEM manufacturer (unnamed)",
+    "Other semiconductor suppliers",
+    "Component manufacturers",
+    "Raw material suppliers"
   ],
   "downstream": [
-    "AAPL",
-    "MSFT",
     "DELL",
-    "HPQ",
-    "AMZN"
+    "Consumer electronics manufacturers",
+    "Mobile device OEMs",
+    "Enterprise storage vendors",
+    "Retail distributors"
   ],
   "competitors": [
+    "Kingston Technology",
     "005930.KS",
     "MU",
-    "WDC",
-    "Kingston Technology",
-    "Crucial"
+    "INTC",
+    "MU"
   ],
   "key_products": [
     "Solid State Drives (SSDs)",
     "USB flash drives",
-    "SD cards",
-    "Memory cards",
+    "SD and microSD cards",
+    "Enterprise flash storage",
     "Memory modules"
   ],
-  "extracted_at": "2026-06-02 19:37:20",
+  "extracted_at": "2026-06-03 19:42:18",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,15 +41,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/SanDisk",
+      "url": "https://www.sandisk.com/company/distributors",
       "query": "Sandisk Corporation suppliers manufacturers",
-      "snippet": "Sandisk Corporation (formerly SunDisk Corporation ) is an American multinational computer semiconductor company based in Milpitas, California. [3] Fou"
+      "snippet": "GIGAPC Corporation · 430 8th Ave N. Seattle, WA 98109 · Tel: 206-624-1100 · Glazers Camera · 430 8th Ave N. Seattle, WA 98109 · Tel: 206-624-1100 · Gl"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.accio.com/supplier/sandisk-manufacturer",
       "query": "Sandisk Corporation suppliers manufacturers",
-      "snippet": "May 26, 2026 · Looking for SanDisk manufacturers ? Discover trusted suppliers of USB drives, memory cards, and SSDs. Click to connect with top provide"
+      "snippet": "2 weeks ago - They sourced these from a Taiwanese manufacturer known for its OEM support and quality control. The supplier provided fast turnaround ti"
     },
     {
       "source": "DuckDuckGo",

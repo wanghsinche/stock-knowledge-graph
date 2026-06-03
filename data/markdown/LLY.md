@@ -3,8 +3,8 @@ ticker: LLY
 company: Eli Lilly and Company
 sector: Healthcare
 industry: Drug Manufacturers - General
-extracted_at: 2026-05-29 18:38:50
-last_updated: 2026-05-29
+extracted_at: 2026-06-03 19:55:34
+last_updated: 2026-06-03
 ---
 
 # LLY - Eli Lilly and Company
@@ -12,37 +12,37 @@ last_updated: 2026-05-29
 ## 基本信息
 
 - **所属行业**: Healthcare / Drug Manufacturers - General
-- **提取时间**: 2026-05-29 18:38:50
+- **提取时间**: 2026-06-03 19:55:34
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Raw material suppliers (chemical manufacturers)]]
-- [[Contract research organizations (CROs)]]
+- [[Raw material suppliers (chemicals, active pharmaceutical ingredients)]]
 - [[Contract manufacturing organizations (CMOs)]]
-- [[Biotechnology ingredient suppliers]]
-- [[Pharmaceutical ingredient suppliers]]
+- [[Packaging and labeling vendors]]
+- [[Research and development partners]]
+- [[Regulatory and quality assurance service providers]]
 
 ### 下游客户
-- [[Hospitals and clinics]]
-- [[Pharmacy chains]]
-- [[Health insurance providers]]
-- [[Government health agencies]]
-- [[Retail pharmacies]]
+- [[Hospitals and health systems]]
+- [[Pharmacies and drugstores]]
+- [[Insurance and pharmacy benefit managers]]
+- [[Government health agencies (e.g., Medicare, Medicaid)]]
+- [[International health ministries and procurement agencies]]
 
 ### 竞争对手
-- [[Pfizer]]
+- [[Pfizer Inc.]]
 - [[Johnson & Johnson]]
-- [[Novartis]]
-- [[Merck & Co.]]
-- [[Bristol-Myers Squibb]]
+- [[Merck & Co., Inc.]]
+- [[Novartis AG]]
+- [[Bristol‑Myers Squibb]]
 
 ### 核心产品
-- [[Humulin (insulin)]]
-- [[Glucophage (metformin)]]
+- [[Humalog (insulin lispro)]]
+- [[Lantus (insulin glargine)]]
 - [[Trulicity (dulaglutide)]]
 - [[Cymbalta (duloxetine)]]
-- [[Cialis (tadalafil)]]
+- [[Zyprexa (olanzapine)]]
 
 ## 数据来源
 
@@ -50,8 +50,8 @@ last_updated: 2026-05-29
 - [Eli Lilly and Company suppliers manufacturers](https://en.wikipedia.org/wiki/Eli_Lilly_and_Company)
 - [Eli Lilly and Company suppliers manufacturers](https://www.lilly.com/)
 - [Eli Lilly and Company major customers clients](https://en.wikipedia.org/wiki/Eli_Lilly_and_Company)
-- [Eli Lilly and Company major customers clients](https://gethuman.com/phone-number/Eli-Lilly-and-Company)
+- [Eli Lilly and Company major customers clients](https://www.linkedin.com/company/eli-lilly-and-company)
 
 ## 元数据
 
-- **更新日期**: 2026-05-29
+- **更新日期**: 2026-06-03

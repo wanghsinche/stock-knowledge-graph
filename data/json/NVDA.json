@@ -6,15 +6,15 @@
   "upstream": [
     "TSM",
     "005930.KS",
-    "GlobalFoundries",
-    "UMC",
-    "TSM"
+    "MU",
+    "SK Hynix",
+    "ASE Group"
   ],
   "downstream": [
     "SONY",
     "MSFT",
+    "DELL",
     "AMZN",
-    "GOOGL",
     "TSLA"
   ],
   "competitors": [
@@ -22,16 +22,16 @@
     "INTC",
     "QCOM",
     "AVGO",
-    "AAPL"
+    "005930.KS"
   ],
   "key_products": [
-    "GeForce RTX GPUs",
-    "Quadro GPUs",
-    "Tesla GPUs",
-    "Jetson SoCs",
-    "CUDA platform"
+    "GeForce RTX",
+    "NVIDIA A100",
+    "NVIDIA H100",
+    "NVIDIA Jetson",
+    "NVIDIA Drive"
   ],
-  "extracted_at": "2026-06-02 19:36:23",
+  "extracted_at": "2026-06-03 19:42:05",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/NVDA-Suppliers",
+      "url": "https://en.wikipedia.org/wiki/Nvidia",
       "query": "NVIDIA Corporation suppliers manufacturers",
-      "snippet": "May 21, 2026 · Nvidia 's Comment on Supply Chain We utilize a fabless and contracting manufacturing strategy, whereby we employ and partner with key s"
+      "snippet": "Nvidia Corporation is an American multinational technology company headquartered in Santa Clara, California. Nvidia had also entered into a partnershi"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.suppliersmap.com/nvidia",
+      "url": "https://finance.yahoo.com/quote/NVDA/",
       "query": "NVIDIA Corporation suppliers manufacturers",
-      "snippet": "Nvidia Nvidia works with leading semiconductor manufacturers for its GPU products, including TSMC for advanced chip fabrication, Samsung and Micron fo"
+      "snippet": "Find the latest NVIDIA Corporation (NVDA) stock quote, history, news and other vital information to help you with your stock trading and investing."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/NVDA-Customers",
+      "url": "https://en.wikipedia.org/wiki/Nvidia",
       "query": "NVIDIA Corporation major customers clients",
-      "snippet": "Nvidia's Comment on Sales, Marketing and Customers Our worldwide sales and marketing strategy is key to our objective to become the leading supplier o"
+      "snippet": "Nvidia Corporation is an American multinational technology company headquartered in Santa Clara, California. Nvidia focuses its own resources on produ"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.fool.com/investing/2024/05/02/who-are-nvidias-largest-customers/",
+      "url": "https://www.fool.com/investing/2025/09/01/nvidia-just-sounded-the-silent-alarm-investors/",
       "query": "NVIDIA Corporation major customers clients",
-      "snippet": "It's not completely clear who that customer is, but we have a good sense of who Nvidia's biggest customers may be based on media reports and deduction"
+      "snippet": "Though Nvidia doesn't spill the beans on the names of its top clients , customers A and B are (in no particular order) probably Meta Platforms (META +"
     }
   ]
 }

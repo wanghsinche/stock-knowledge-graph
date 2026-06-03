@@ -4,17 +4,17 @@
   "sector": "Communication Services",
   "industry": "Internet Content & Information",
   "upstream": [
-    "INTC",
-    "AMD",
     "QCOM",
     "005930.KS",
-    "TSM"
+    "Foxconn",
+    "TSM",
+    "SONY"
   ],
   "downstream": [
-    "AMZN",
-    "005930.KS",
     "GOOGL",
-    "YouTube content creators",
+    "GOOGL",
+    "Content creators (YouTube)",
+    "GOOGL",
     "GOOGL"
   ],
   "competitors": [
@@ -27,11 +27,11 @@
   "key_products": [
     "Google Search",
     "YouTube",
-    "Google Cloud Platform",
     "Android OS",
+    "Google Cloud Platform",
     "Google Ads"
   ],
-  "extracted_at": "2026-06-02 19:38:11",
+  "extracted_at": "2026-06-03 19:43:45",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,25 +43,25 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Alphabet_Inc.",
       "query": "Alphabet Inc. suppliers manufacturers",
-      "snippet": "Alphabet Inc . is an American multinational technology conglomerate holding company headquartered in Mountain View, California. It was created through"
+      "snippet": "Alphabet Inc . is an American multinational technology conglomerate holding company headquartered in Mountain View, California."
     },
     {
       "source": "DuckDuckGo",
       "url": "https://csimarket.com/stocks/GOOG-Suppliers",
       "query": "Alphabet Inc. suppliers manufacturers",
-      "snippet": "May 2, 2026 · Alphabet Inc 's Comment on Supply Chain We rely on third parties to manufacture many of our assemblies and finished products, and we hav"
+      "snippet": "Alphabet Inc 's Comment on Supply Chain. We rely on third parties to manufacture many of our assemblies and finished products, and we have third-party"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/GOOGL-Customers",
+      "url": "https://en.wikipedia.org/wiki/Alphabet_Inc.",
       "query": "Alphabet Inc. major customers clients",
-      "snippet": "Feb 9, 2026 · Alphabet Inc customers and markets, results by customer and performance relative to GOOGL, by company and industry - CSIMarket"
+      "snippet": "Alphabet Inc . is an American multinational technology conglomerate holding company headquartered in Mountain View, California. It was created through"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://portersfiveforce.com/blogs/target-market/abc",
+      "url": "https://finance.yahoo.com/quote/GOOGL/",
       "query": "Alphabet Inc. major customers clients",
-      "snippet": "Nov 10, 2025 · Understand the target market for Alphabet 's cloud computing services. Discover how it serves businesses of all sizes with scalable sol"
+      "snippet": "Find the latest Alphabet Inc . (GOOGL) stock quote, history, news and other vital information to help you with your stock trading and investing. Alpha"
     }
   ]
 }

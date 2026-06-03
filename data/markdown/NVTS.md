@@ -3,8 +3,8 @@ ticker: NVTS
 company: Navitas Semiconductor Corporation
 sector: Technology
 industry: Semiconductors
-extracted_at: 2026-05-22 17:54:16
-last_updated: 2026-05-22
+extracted_at: 2026-06-03 19:47:01
+last_updated: 2026-06-03
 ---
 
 # NVTS - Navitas Semiconductor Corporation
@@ -12,46 +12,46 @@ last_updated: 2026-05-22
 ## 基本信息
 
 - **所属行业**: Technology / Semiconductors
-- **提取时间**: 2026-05-22 17:54:16
+- **提取时间**: 2026-06-03 19:47:01
 
 ## 产业链关系
 
 ### 上游供应商
-- [[TSM]]
-- [[005930.KS]]
-- [[INTC]]
-- [[NXP Semiconductors]]
-- [[TXN]]
+- [[GaN wafer suppliers]]
+- [[Gallium nitride raw material suppliers]]
+- [[Epitaxial growth equipment manufacturers]]
+- [[Packaging equipment suppliers]]
+- [[Test and measurement equipment vendors]]
 
 ### 下游客户
-- [[DELL]]
-- [[HPQ]]
-- [[Lenovo]]
-- [[CSCO]]
-- [[MSFT]]
+- [[Automotive OEMs]]
+- [[Industrial motor drive manufacturers]]
+- [[Renewable energy inverter manufacturers]]
+- [[Data center power supply vendors]]
+- [[Telecom infrastructure equipment providers]]
 
 ### 竞争对手
-- [[GaN Systems]]
+- [[Wolfspeed (Cree)]]
 - [[Infineon Technologies]]
-- [[QRVO]]
-- [[TXN]]
 - [[ON Semiconductor]]
+- [[TXN]]
+- [[STMicroelectronics]]
 
 ### 核心产品
-- [[GaN Power ICs]]
-- [[GaN-based power converters]]
-- [[GaN transistors]]
-- [[GaN integrated circuits]]
+- [[GaN power ICs]]
 - [[GaN power modules]]
+- [[GaN transistors]]
+- [[GaN-based power converters]]
+- [[GaN power devices]]
 
 ## 数据来源
 
 - 
 - [Navitas Semiconductor Corporation suppliers manufacturers](https://navitassemi.com/)
-- [Navitas Semiconductor Corporation suppliers manufacturers](https://csimarket.com/stocks/competitionSEG2.php?code=NVTS)
-- [Navitas Semiconductor Corporation major customers clients](https://www.fool.com/investing/2025/07/04/navitas-semiconductor-stock-help-retire-million/)
+- [Navitas Semiconductor Corporation suppliers manufacturers](https://csimarket.com/stocks/at_glance.php?code=NVTS)
 - [Navitas Semiconductor Corporation major customers clients](https://navitassemi.com/)
+- [Navitas Semiconductor Corporation major customers clients](https://www.fool.com/investing/2025/07/04/navitas-semiconductor-stock-help-retire-million/)
 
 ## 元数据
 
-- **更新日期**: 2026-05-22
+- **更新日期**: 2026-06-03

@@ -4,64 +4,64 @@
   "sector": "Technology",
   "industry": "Software - Infrastructure",
   "upstream": [
-    "CSCO",
-    "MSFT",
-    "AMZN",
     "INTC",
-    "QCOM"
+    "AMD",
+    "NVDA",
+    "CSCO",
+    "DELL"
   ],
   "downstream": [
-    "Wipro (IT services)",
-    "Tyson Foods (food processing)",
-    "Bank of America (financial services)",
-    "U.S. Department of Defense (government)",
-    "General Electric (industrial)"
+    "JPMorgan Chase",
+    "Walmart",
+    "AT&T",
+    "Bank of America",
+    "Verizon"
   ],
   "competitors": [
-    "CSCO",
     "Fortinet",
     "Check Point Software Technologies",
-    "CrowdStrike",
-    "Sophos"
+    "CSCO",
+    "JNPR",
+    "CrowdStrike"
   ],
   "key_products": [
-    "Next-Generation Firewall",
+    "Next‑Generation Firewall",
     "Prisma Cloud",
     "Cortex XDR",
-    "Cortex XSOAR",
-    "GlobalProtect VPN"
+    "Unit 42 Threat Intelligence",
+    "Secure Access Service Edge (SASE)"
   ],
-  "extracted_at": "2026-06-02 19:41:04",
+  "extracted_at": "2026-06-03 19:46:21",
   "sources": [
     {
       "source": "Wikipedia",
-      "url": "",
-      "title": "",
-      "snippet": ""
+      "url": "https://en.wikipedia.org/wiki/Palo_Alto_Networks,_Inc.",
+      "title": "Palo Alto Networks",
+      "snippet": "Palo Alto Networks, Inc. is an American multinational cybersecurity company with headquarters in Santa Clara, California. The core product is a platform that includes advanced firewalls and cloud-base"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.paloaltonetworks.com/",
       "query": "Palo Alto Networks, Inc. suppliers manufacturers",
-      "snippet": "Palo Alto Networks to Acquire Portkey to Secure the Rise of AI Agents. Read the Press Release. Fight AI with AI."
+      "snippet": "FrostRadar™ names Palo Alto Networks a CNAPP Leader. Overall leader : 2024 Leadership Compass: Security Orchestration, Automation and Response. Kuppin"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.linkedin.com/company/palo-alto-networks",
+      "url": "https://finance.yahoo.com/quote/PANW/",
       "query": "Palo Alto Networks, Inc. suppliers manufacturers",
-      "snippet": "Palo Alto Networks , the global cybersecurity leader, is shaping the cloud-centric future with technology that is transforming the way people and orga"
+      "snippet": "Find the latest Palo Alto Networks , Inc . (PANW) stock quote, history, news and other vital information to help you with your stock trading and inves"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.paloaltonetworks.com/customers",
+      "url": "https://en.wikipedia.org/wiki/Palo_Alto_Networks",
       "query": "Palo Alto Networks, Inc. major customers clients",
-      "snippet": "Discover how leading global brands like Wipro and Tyson Foods secure their operations with Palo Alto Networks . Explore customer success stories in cy"
+      "snippet": "Palo Alto Networks , Inc . is an American multinational cybersecurity company with headquarters in Santa Clara, California. The core product is a plat"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/PANW-Customers",
+      "url": "https://www.paloaltonetworks.com/",
       "query": "Palo Alto Networks, Inc. major customers clients",
-      "snippet": "19 hours ago · Palo Alto Networks Inc customers and markets, results by customer and performance relative to PANW, by company and industry - CSIMarket"
+      "snippet": "Palo Alto Networks : Cloud Security Leader in First-Ever CNAPP ReportFrostRadar™ names Palo Alto Networks a CNAPP LeaderOverall leader : 2024 Leadersh"
     }
   ]
 }
