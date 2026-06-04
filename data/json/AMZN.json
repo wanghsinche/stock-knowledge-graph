@@ -4,34 +4,34 @@
   "sector": "Consumer Cyclical",
   "industry": "Internet Retail",
   "upstream": [
-    "Electronics manufacturers",
-    "Apparel and fashion suppliers",
-    "Home goods and furniture suppliers",
-    "AMZN",
-    "AMZN"
-  ],
-  "downstream": [
-    "Individual consumers worldwide",
-    "AMZN",
-    "AMZN",
-    "AMZN",
-    "AMZN"
-  ],
-  "competitors": [
-    "Walmart",
-    "eBay",
-    "Alibaba",
-    "Shopify",
+    "AAPL",
+    "005930.KS",
+    "Nike Inc.",
+    "SONY",
     "MSFT"
   ],
-  "key_products": [
-    "Amazon.com e‑commerce marketplace",
-    "Amazon Prime subscription services",
-    "Amazon Web Services (cloud computing)",
-    "Amazon Advertising platform",
-    "Amazon Echo/Alexa smart devices"
+  "downstream": [
+    "NFLX",
+    "Airbnb",
+    "ADBE",
+    "Spotify",
+    "005930.KS"
   ],
-  "extracted_at": "2026-06-03 19:44:24",
+  "competitors": [
+    "eBay",
+    "Walmart",
+    "Alibaba",
+    "MSFT",
+    "GOOGL"
+  ],
+  "key_products": [
+    "Amazon.com e-commerce platform",
+    "Amazon Web Services",
+    "Amazon Prime",
+    "Amazon Echo (Alexa)",
+    "Amazon Kindle"
+  ],
+  "extracted_at": "2026-06-04 18:10:38",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,9 +47,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.amazon.com/power-tools-hand-tools/b?ie=UTF8&node=328182011",
+      "url": "https://ir.aboutamazon.com/",
       "query": "Amazon.com, Inc. suppliers manufacturers",
-      "snippet": "Shop through a wide selection of Power & Hand Tools at Amazon . com . Free shipping and free returns on Prime eligible items."
+      "snippet": "The Spheres. Select awards and recognition. Amazon . com Conditions of Use © 1996- Amazon . com , Inc . - IR or its affiliates."
     },
     {
       "source": "DuckDuckGo",
@@ -59,9 +59,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.amazon.com/s?k=...",
+      "url": "https://www.amazon.com/gp/movers-and-shakers/home-garden/ref=zg_bsms_nav_home-garden_0",
       "query": "Amazon.com, Inc. major customers clients",
-      "snippet": "Reach customers wherever they spend their time. 6pm. Score deals on fashion brands."
+      "snippet": "BEDLORE Twin Mattress Topper Viscose Derived from Bamboo, Thick Pillow Top Mattress Pad with Stretchable Pockets for 6-15 inc .Reach customers whereve"
     }
   ]
 }

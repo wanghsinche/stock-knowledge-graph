@@ -2,18 +2,18 @@
   "ticker": "UNH",
   "company_name": "UnitedHealth Group Incorporated",
   "sector": "Healthcare",
-  "industry": "Healthcare Plans",
+  "industry": "Health Insurance / Health Care Services",
   "upstream": [
-    "Pharmaceutical manufacturers",
     "Medical device manufacturers",
+    "Pharmaceutical companies",
     "Health technology vendors",
     "Pharmacy benefit managers",
-    "Health information technology providers"
+    "Data analytics providers"
   ],
   "downstream": [
     "Large corporate employers",
-    "Government health programs (Medicare, Medicaid)",
-    "Small and medium businesses",
+    "Government agencies (Medicare, Medicaid)",
+    "State health plans",
     "Individual consumers",
     "Health care providers (hospitals, clinics)"
   ],
@@ -22,16 +22,16 @@
     "Aetna",
     "Cigna",
     "Humana",
-    "Blue Cross Blue Shield"
+    "CVS Health (Aetna)"
   ],
   "key_products": [
     "UnitedHealthcare insurance plans",
-    "Medicare Advantage plans",
-    "Medicaid plans",
-    "Optum health services",
-    "OptumRx pharmacy benefit management"
+    "Medicare Advantage",
+    "Medicaid managed care",
+    "OptumRx pharmacy benefit management",
+    "OptumInsight data analytics"
   ],
-  "extracted_at": "2026-06-03 19:56:27",
+  "extracted_at": "2026-06-04 18:12:34",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,21 +41,21 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/UNH-technical-analysis",
+      "url": "https://www.marketresearch.com/MarketLine-v3883/UnitedHealth-Group-Incorporated-Company-Profile-38951281/",
       "query": "UnitedHealth Group Incorporated suppliers manufacturers",
-      "snippet": "Analyse Unitedhealth Group Incorporated 's stock charts with over 30 different indicators - CSIMarket."
+      "snippet": "UnitedHealth Group Incorporated ( UnitedHealth Group or 'the company) is a health care...Gain understanding of UnitedHealth Group Incorporated and the"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.marketresearch.com/MarketLine-v3883/UnitedHealth-Group-Incorporated-Company-Profile-38951281/",
+      "url": "https://finance.yahoo.com/sectors/healthcare/articles/unitedhealth-vs-molina-managed-care-171600243.html",
       "query": "UnitedHealth Group Incorporated suppliers manufacturers",
-      "snippet": "Intelligence on UnitedHealth Group Incorporated 's mergers and acquisitions (MandA), strategic partnerships and alliances, capital raising, private eq"
+      "snippet": "UnitedHealth Group Incorporated Price, Consensus and EPS Surprise. UnitedHealth Group Incorporated price-consensus-eps-surprise-chart | UnitedHealth G"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://finance.yahoo.com/markets/stocks/articles/why-unitedhealth-unh-slid-q1-130649391.html",
       "query": "UnitedHealth Group Incorporated major customers clients",
-      "snippet": "UnitedHealth Group Incorporated (NYSE:UNH) has a market capitalization of $347.39 billion. Auxier Asset Management stated the following regarding Unit"
+      "snippet": "UnitedHealth Group Incorporated (NYSE:UNH) is a multinational health benefits company based in Eden Prairie, Minnesota. On May 28, 2026, UnitedHealth "
     },
     {
       "source": "DuckDuckGo",

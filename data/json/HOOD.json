@@ -5,33 +5,33 @@
   "industry": "Capital Markets",
   "upstream": [
     "AMZN",
-    "GOOGL",
-    "Bloomberg",
+    "MSFT",
+    "Bloomberg L.P.",
     "Refinitiv",
-    "NASDAQ"
+    "Stripe"
   ],
   "downstream": [
     "Retail investors",
-    "Institutional investors",
-    "High‑frequency traders",
-    "Financial advisors",
-    "Wealth management firms"
+    "High net worth individuals",
+    "Institutional clients",
+    "Corporate clients",
+    "Crypto traders"
   ],
   "competitors": [
     "Charles Schwab",
-    "TD Ameritrade",
     "E*TRADE",
+    "TD Ameritrade",
     "Fidelity",
     "Webull"
   ],
   "key_products": [
     "Commission‑free stock trading",
-    "Crypto trading",
+    "Options trading",
+    "Cryptocurrency trading",
     "Margin trading",
-    "Robinhood Gold",
-    "Options trading"
+    "Robinhood Gold subscription"
   ],
-  "extracted_at": "2026-06-02 19:45:40",
+  "extracted_at": "2026-06-04 18:15:45",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,9 +47,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://robinhood.com/",
+      "url": "https://csimarket.com/stocks/suppliers_glance.php?code=HOOD",
       "query": "Robinhood Markets, Inc. suppliers manufacturers",
-      "snippet": "Trade stocks on Robinhood with commission-free investing & advanced trading tools. Access fractional shares, real-time market data, and more."
+      "snippet": "Robinhood Markets Inc supply chain, list and performance of Robinhood Markets Incs ' suppliers - CSIMarket."
     },
     {
       "source": "DuckDuckGo",
@@ -59,9 +59,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://investingintheweb.com/brokers/robinhood-statistics/",
+      "url": "https://www.investing.com/equities/robinhood-markets",
       "query": "Robinhood Markets, Inc. major customers clients",
-      "snippet": "Apr 7, 2026 · Robinhood revenues Robinhood generates revenues through transaction-based revenues, net interest revenues, and other revenues. Transacti"
+      "snippet": "Robinhood Markets Inc . ( HOOD ) announced Wednesday that customers can deploy AI agents to trade stocks and make credit card... customers the basics "
     }
   ]
 }

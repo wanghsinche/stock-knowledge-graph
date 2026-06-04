@@ -4,40 +4,40 @@
   "sector": "Communication Services",
   "industry": "Internet Content & Information",
   "upstream": [
-    "QCOM",
     "NVDA",
-    "INTC",
     "AMD",
-    "TSM"
+    "INTC",
+    "AMZN",
+    "MSFT"
   ],
   "downstream": [
-    "Advertisers",
+    "Global advertisers",
     "App developers",
     "Content creators",
-    "Gamers",
-    "VR users"
+    "Small and medium businesses",
+    "Third‑party advertisers"
   ],
   "competitors": [
     "GOOGL",
     "AMZN",
     "AAPL",
-    "Snap Inc.",
-    "ByteDance"
+    "MSFT",
+    "Snap Inc."
   ],
   "key_products": [
     "Facebook",
     "Instagram",
     "WhatsApp",
     "Messenger",
-    "Meta Quest"
+    "Meta Ads Platform"
   ],
-  "extracted_at": "2026-06-03 19:44:13",
+  "extracted_at": "2026-06-04 18:09:32",
   "sources": [
     {
       "source": "Wikipedia",
-      "url": "",
-      "title": "",
-      "snippet": ""
+      "url": "https://en.wikipedia.org/wiki/Meta_Platforms,_Inc.",
+      "title": "Meta Platforms",
+      "snippet": "Meta Platforms, Inc. is an American multinational technology company headquartered in Menlo Park, California. Meta owns and operates several prominent social media platforms and communication services"
     },
     {
       "source": "DuckDuckGo",
@@ -53,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ru.wikipedia.org/wiki/Meta_Platforms",
-      "query": "Meta Platforms, Inc. major customers clients",
-      "snippet": "Meta Platforms , Inc . — американская транснациональная холдинговая компания, владеющая технологическим конгломератом и расположенная в Менло-Парке, К"
-    },
-    {
-      "source": "DuckDuckGo",
       "url": "https://www.cnn.com/markets/stocks/META",
       "query": "Meta Platforms, Inc. major customers clients",
       "snippet": "View Meta Platforms Inc Class A META stock quote prices, financial information, real-time forecasts, and company news from CNN."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.youtube.com/watch?v=gElfIo6uw4g",
+      "query": "Meta Platforms, Inc. major customers clients",
+      "snippet": "At Facebook Connect, Mark Zuckerberg revealed a new company name, Meta , plus new VR and AR technologies the company is developing for the future.0:00"
     }
   ]
 }

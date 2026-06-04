@@ -3,11 +3,35 @@
   "company_name": "IonQ, Inc.",
   "sector": "Technology",
   "industry": "Computer Hardware",
-  "upstream": [],
-  "downstream": [],
-  "competitors": [],
-  "key_products": [],
-  "extracted_at": "2026-06-03 19:56:05",
+  "upstream": [
+    "QSC",
+    "Oxford Instruments",
+    "Thorlabs",
+    "Bruker",
+    "Applied Photonics"
+  ],
+  "downstream": [
+    "GOOGL",
+    "MSFT",
+    "AMZN",
+    "NASA",
+    "DARPA"
+  ],
+  "competitors": [
+    "Rigetti",
+    "Quantinuum (Honeywell)",
+    "D-Wave",
+    "Xanadu",
+    "IonQ's competitor: Quantum Circuits"
+  ],
+  "key_products": [
+    "IonQ Quantum Processor",
+    "IonQ Quantum Computer",
+    "IonQ Quantum Software",
+    "IonQ SDK",
+    "IonQ QPU"
+  ],
+  "extracted_at": "2026-06-04 18:16:08",
   "sources": [
     {
       "source": "Wikipedia",
@@ -25,7 +49,19 @@
       "source": "DuckDuckGo",
       "url": "https://quantumnews.in/article/quantum-computing/ionq-ionq-2025-earnings-call-transcript",
       "query": "IonQ, Inc. suppliers manufacturers",
-      "snippet": "IonQ reported record Q4 2025 revenue of $61.9M, a 429% YoY surge, with full-year revenue hitting $130M—202% growth—driven by commercial clients (60% o"
+      "snippet": "Quantum is indeed now and IonQ , Inc . is confidently leading this revolution by every measure. As most listeners know, late last month, we announced "
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://quantumnews.in/article/quantum-computing/ionq-ionq-2025-earnings-call-transcript",
+      "query": "IonQ, Inc. major customers clients",
+      "snippet": "Together, IonQ , Inc .'s market-leading quantum sensing technologies complement our quantum computing and quantum networking infrastructure to positio"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.marketbeat.com/earnings/reports/2026-5-6-ionq-inc-stock/",
+      "query": "IonQ, Inc. major customers clients",
+      "snippet": "IonQ announced their Q1 2026 earnings on 5/6/2026. View IONQ 's earnings results, press release, and conference call transcript at MarketBeat."
     }
   ]
 }

@@ -1,48 +1,48 @@
 ---
 ticker: WDC
 company: Western Digital Corporation
-sector: Technology
-industry: Computer Hardware
-extracted_at: 2026-06-03 19:46:43
-last_updated: 2026-06-03
+sector: Technology / Computer Hardware
+industry: Data Storage
+extracted_at: 2026-06-04 18:12:46
+last_updated: 2026-06-04
 ---
 
 # WDC - Western Digital Corporation
 
 ## 基本信息
 
-- **所属行业**: Technology / Computer Hardware
-- **提取时间**: 2026-06-03 19:46:43
+- **所属行业**: Technology / Computer Hardware / Data Storage
+- **提取时间**: 2026-06-04 18:12:46
 
 ## 产业链关系
 
 ### 上游供应商
-- [[005930.KS]]
 - [[MU]]
-- [[SK Hynix]]
-- [[TSM]]
-- [[Amkor Technology]]
+- [[TXN]]
+- [[Precision machining suppliers]]
+- [[PCB manufacturers]]
+- [[Packaging and assembly providers]]
 
 ### 下游客户
 - [[DELL]]
-- [[HPQ]]
-- [[Lenovo]]
-- [[AAPL]]
-- [[AMZN]]
+- [[DELL]]
+- [[MSFT]]
+- [[Enterprise storage solutions customers]]
+- [[Consumer electronics manufacturers]]
 
 ### 竞争对手
 - [[STX]]
-- [[Toshiba]]
+- [[Toshiba Corporation]]
 - [[005930.KS]]
-- [[MU]]
 - [[SK Hynix]]
+- [[MU]]
 
 ### 核心产品
-- [[3.5" HDDs]]
-- [[2.5" HDDs]]
-- [[SATA SSDs]]
-- [[NVMe SSDs]]
-- [[External storage drives]]
+- [[Hard Disk Drives (HDD)]]
+- [[Solid State Drives (SSD)]]
+- [[External storage devices]]
+- [[Enterprise storage solutions]]
+- [[Cloud storage infrastructure]]
 
 ## 数据来源
 
@@ -54,4 +54,4 @@ last_updated: 2026-06-03
 
 ## 元数据
 
-- **更新日期**: 2026-06-03
+- **更新日期**: 2026-06-04

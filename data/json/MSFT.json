@@ -5,17 +5,17 @@
   "industry": "Software - Infrastructure",
   "upstream": [
     "INTC",
-    "NVDA",
     "AMD",
-    "005930.KS",
-    "MU"
+    "NVDA",
+    "QCOM",
+    "ARM"
   ],
   "downstream": [
-    "Enterprise customers",
-    "Government agencies",
+    "Fortune 500 enterprises",
+    "U.S. federal and state governments",
     "DELL",
-    "Azure cloud customers",
-    "Xbox gaming community"
+    "Consumer users worldwide",
+    "Enterprise IT departments"
   ],
   "competitors": [
     "AAPL",
@@ -28,28 +28,16 @@
     "Windows operating system",
     "Microsoft Office suite",
     "Azure cloud platform",
-    "Microsoft 365",
-    "Xbox gaming console"
+    "Xbox gaming console",
+    "Microsoft Teams"
   ],
-  "extracted_at": "2026-06-03 19:43:17",
+  "extracted_at": "2026-06-04 18:09:45",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Microsoft_Corporation",
       "title": "Microsoft",
       "snippet": "Microsoft Corporation is an American multinational technology company headquartered in Redmond, Washington. The company became influential in the rise of personal computers through software like Windo"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Microsoft",
-      "query": "Microsoft Corporation suppliers manufacturers",
-      "snippet": "Microsoft has denied participation in such a program.[309]. In 2020, Salesforce, the manufacturer of the Slack platform, complained to European regula"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/suppliers_glance.php?code=MSFT",
-      "query": "Microsoft Corporation suppliers manufacturers",
-      "snippet": "Microsoft supply chain, list and performance of Microsofts' suppliers - CSIMarket."
     },
     {
       "source": "DuckDuckGo",
@@ -62,6 +50,18 @@
       "url": "https://www.investopedia.com/articles/investing/122215/top-4-microsoft-shareholders.asp",
       "query": "Microsoft Corporation major customers clients",
       "snippet": "who owns microsoft corporation - Erinbethea.com."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/Microsoft",
+      "query": "Microsoft Corporation competitors alternatives",
+      "snippet": "Microsoft Corporation is an American multinational technology company headquartered in Redmond, Washington."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.startupranking.com/microsoft-corporation/competitors",
+      "query": "Microsoft Corporation competitors alternatives",
+      "snippet": "The competitors for Microsoft Corporation in Startup Ranking."
     }
   ]
 }

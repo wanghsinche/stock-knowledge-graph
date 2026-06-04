@@ -1,37 +1,37 @@
 {
   "ticker": "TSLA",
   "company_name": "Tesla, Inc.",
-  "sector": "Consumer Cyclical / Auto Manufacturers",
-  "industry": "Automotive / Electric Vehicles",
+  "sector": "Consumer Cyclical",
+  "industry": "Auto Manufacturers",
   "upstream": [
     "Panasonic",
     "LG Chem",
     "CAT",
-    "005930.KS",
-    "Bosch"
+    "Bosch",
+    "Denso"
   ],
   "downstream": [
     "Individual consumers",
-    "Fleet operators (e.g., Uber, Lyft)",
-    "AMZN",
-    "Utility companies",
-    "Government agencies"
+    "Commercial fleet operators",
+    "Government agencies",
+    "Corporate leasing companies",
+    "Electric vehicle charging network operators"
   ],
   "competitors": [
-    "General Motors",
     "Ford",
+    "General Motors",
     "Volkswagen",
-    "Rivian",
-    "Lucid Motors"
+    "Lucid Motors",
+    "Rivian"
   ],
   "key_products": [
-    "Tesla Model 3",
-    "Tesla Model Y",
-    "Tesla Model S",
-    "Tesla Model X",
-    "Tesla Powerwall"
+    "Model S",
+    "Model 3",
+    "Model X",
+    "Model Y",
+    "Cybertruck"
   ],
-  "extracted_at": "2026-06-03 19:42:32",
+  "extracted_at": "2026-06-04 18:09:20",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,25 +43,25 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Tesla,_Inc.",
       "query": "Tesla, Inc. suppliers manufacturers",
-      "snippet": "2 days ago - The practice of vertical integration is rare in the automotive industry, where companies typically outsource 80% of components to supplie"
+      "snippet": "Tesla , Inc . is an American multinational automotive and clean energy company.The company was incorporated in July 2003 by Martin Eberhard and Marc T"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/List_of_Tesla_factories",
+      "url": "https://www.investopedia.com/ask/answers/052815/who-are-teslas-tsla-main-suppliers.asp",
       "query": "Tesla, Inc. suppliers manufacturers",
-      "snippet": "2 weeks ago - Tesla, Inc. manufactures their products worldwide as well as a lithium ore refinery. The following is a list of current, future, and for"
+      "snippet": "Tesla Suppliers : Key and Rumored Parts Suppliers - Investop…"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Tesla,_Inc.",
       "query": "Tesla, Inc. major customers clients",
-      "snippet": "Tesla , Inc . is an American multinational automotive and clean energy company.The company was incorporated in July 2003 by Martin Eberhard and Marc T"
+      "snippet": "The company was incorporated in July 2003 by Martin Eberhard and Marc Tarpenning as Tesla Motors. Its name is a tribute to the inventor and electrical"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.tesla.com/",
       "query": "Tesla, Inc. major customers clients",
-      "snippet": "Explore limited-time offers on Tesla vehicles. Learn More. Tesla vehicle. Inventory. Find nearby vehicles available for immediate delivery."
+      "snippet": "Explore limited-time offers on Tesla vehicles."
     }
   ]
 }

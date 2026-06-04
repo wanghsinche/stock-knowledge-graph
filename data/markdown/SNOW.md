@@ -3,8 +3,8 @@ ticker: SNOW
 company: Snowflake Inc.
 sector: Technology
 industry: Software - Application
-extracted_at: 2026-06-03 19:49:37
-last_updated: 2026-06-03
+extracted_at: 2026-06-04 18:19:09
+last_updated: 2026-06-04
 ---
 
 # SNOW - Snowflake Inc.
@@ -12,7 +12,7 @@ last_updated: 2026-06-03
 ## 基本信息
 
 - **所属行业**: Technology / Software - Application
-- **提取时间**: 2026-06-03 19:49:37
+- **提取时间**: 2026-06-04 18:19:09
 
 ## 产业链关系
 
@@ -26,23 +26,23 @@ last_updated: 2026-06-03
 ### 下游客户
 - [[Capital One]]
 - [[ADBE]]
-- [[SONY]]
 - [[eBay]]
-- [[NFLX]]
+- [[SONY]]
+- [[Spotify]]
 
 ### 竞争对手
 - [[AMZN]]
 - [[GOOGL]]
 - [[MSFT]]
 - [[Databricks]]
-- [[Snowpark]]
+- [[Teradata]]
 
 ### 核心产品
 - [[Snowflake Data Cloud]]
 - [[Snowflake Data Marketplace]]
 - [[Snowflake Data Sharing]]
-- [[Snowflake Snowpark]]
-- [[Snowflake Data Lake]]
+- [[Snowflake Data Engineering]]
+- [[Snowflake Data Warehousing]]
 
 ## 数据来源
 
@@ -54,4 +54,4 @@ last_updated: 2026-06-03
 
 ## 元数据
 
-- **更新日期**: 2026-06-03
+- **更新日期**: 2026-06-04

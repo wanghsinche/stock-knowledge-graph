@@ -4,34 +4,34 @@
   "sector": "Healthcare",
   "industry": "Drug Manufacturers - General",
   "upstream": [
-    "Raw material suppliers (chemicals, active pharmaceutical ingredients)",
-    "Contract manufacturing organizations (CMOs)",
-    "Packaging and labeling vendors",
-    "Research and development partners",
-    "Regulatory and quality assurance service providers"
+    "Active Pharmaceutical Ingredient (API) suppliers",
+    "Contract Manufacturing Organizations (CMOs)",
+    "Packaging and labeling suppliers",
+    "Raw material suppliers (chemicals, excipients)",
+    "Logistics and transportation providers"
   ],
   "downstream": [
     "Hospitals and health systems",
     "Pharmacies and drugstores",
-    "Insurance and pharmacy benefit managers",
-    "Government health agencies (e.g., Medicare, Medicaid)",
-    "International health ministries and procurement agencies"
+    "Government health agencies (e.g., CDC, FDA)",
+    "International health organizations (e.g., WHO)",
+    "Retail pharmacy chains"
   ],
   "competitors": [
-    "Pfizer Inc.",
+    "Pfizer",
     "Johnson & Johnson",
-    "Merck & Co., Inc.",
-    "Novartis AG",
-    "Bristol‑Myers Squibb"
+    "Merck & Co.",
+    "AbbVie",
+    "Bristol Myers Squibb"
   ],
   "key_products": [
-    "Humalog (insulin lispro)",
-    "Lantus (insulin glargine)",
+    "Humulin insulin",
+    "Lantus insulin",
     "Trulicity (dulaglutide)",
-    "Cymbalta (duloxetine)",
-    "Zyprexa (olanzapine)"
+    "Mounjaro (tirzepatide)",
+    "Empagliflozin (Jardiance)"
   ],
-  "extracted_at": "2026-06-03 19:55:34",
+  "extracted_at": "2026-06-04 18:12:10",
   "sources": [
     {
       "source": "Wikipedia",
@@ -49,7 +49,7 @@
       "source": "DuckDuckGo",
       "url": "https://www.lilly.com/",
       "query": "Eli Lilly and Company suppliers manufacturers",
-      "snippet": "Lilly is a medicine company that puts health above all. Learn about our medicines, view condition support, find care, and much more. Lilly employee wo"
+      "snippet": "Lilly is a medicine company that puts health above all. Learn about our medicines, view condition support, find care, and much more."
     },
     {
       "source": "DuckDuckGo",

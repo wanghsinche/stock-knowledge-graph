@@ -4,10 +4,28 @@
   "sector": "Technology",
   "industry": "Semiconductor Equipment & Materials",
   "upstream": [],
-  "downstream": [],
-  "competitors": [],
-  "key_products": [],
-  "extracted_at": "2026-06-03 19:48:11",
+  "downstream": [
+    "TSM",
+    "005930.KS",
+    "INTC",
+    "MU",
+    "GlobalFoundries"
+  ],
+  "competitors": [
+    "ASML",
+    "LRCX",
+    "Tokyo Electron",
+    "KLA Corporation",
+    "AMAT"
+  ],
+  "key_products": [
+    "Deposition equipment",
+    "Etch equipment",
+    "Lithography equipment",
+    "Inspection & metrology equipment",
+    "Packaging equipment"
+  ],
+  "extracted_at": "2026-06-04 18:17:14",
   "sources": [
     {
       "source": "Wikipedia",
@@ -23,8 +41,20 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.appliedmaterials.com/",
+      "url": "https://www.azonano.com/suppliers.aspx?SupplierID=462",
       "query": "Applied Materials, Inc. suppliers manufacturers",
+      "snippet": "Applied Materials , Inc . is a global leader in nanomanufacturing technology solutions with a broad portfolio of innovative equipment, service and sof"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/Applied_Materials",
+      "query": "Applied Materials, Inc. major customers clients",
+      "snippet": "Applied Materials , Inc . is an American corporation that supplies equipment, services and software for the manufacture of semiconductor chips for ele"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.appliedmaterials.com/us/en.html",
+      "query": "Applied Materials, Inc. major customers clients",
       "snippet": "Applied Materials , Inc . is the leader in materials engineering solutions that are at the foundation of virtually every new semiconductor and advance"
     }
   ]

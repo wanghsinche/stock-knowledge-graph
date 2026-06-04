@@ -4,34 +4,34 @@
   "sector": "Technology",
   "industry": "Semiconductors",
   "upstream": [
-    "GlobalWafers",
-    "Sumitomo Silicon Industry",
-    "Tokyo Electron",
+    "ASML",
+    "AMAT",
     "LRCX",
-    "AMAT"
+    "Tokyo Electron",
+    "KLA"
   ],
   "downstream": [
     "DELL",
     "HPQ",
-    "Lenovo Group",
-    "AAPL",
-    "MSFT"
+    "Lenovo",
+    "MSFT",
+    "AAPL"
   ],
   "competitors": [
     "AMD",
     "NVDA",
-    "TSM",
-    "005930.KS",
-    "AVGO"
+    "QCOM",
+    "AVGO",
+    "TSM"
   ],
   "key_products": [
-    "Intel Core processors",
-    "Intel Xeon processors",
-    "Intel Atom processors",
-    "Intel chipsets",
-    "Intel FPGAs"
+    "Core CPUs",
+    "Xeon CPUs",
+    "Chipsets",
+    "Network Interface Controllers",
+    "AI Accelerators"
   ],
-  "extracted_at": "2026-06-03 19:43:33",
+  "extracted_at": "2026-06-04 18:10:21",
   "sources": [
     {
       "source": "Wikipedia",
@@ -53,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Intel",
-      "query": "Intel Corporation major customers clients",
-      "snippet": "Intel Corporation is an American multinational technology company headquartered in Santa Clara, California. It designs, manufactures, and sells comput"
-    },
-    {
-      "source": "DuckDuckGo",
       "url": "https://finance.yahoo.com/quote/INTC/",
       "query": "Intel Corporation major customers clients",
       "snippet": "Find the latest Intel Corporation (INTC) stock quote, history, news and other vital information to help you with your stock trading and investing."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://wccftech.com/intel-14a-wins-tesla-major-customers-foundry-business-gamble-pays-off/",
+      "query": "Intel Corporation major customers clients",
+      "snippet": "Image: Intel Corporation . But Intel has also teased that they are already engaged with external customers on not only the 14A node, but also the 18AP"
     }
   ]
 }

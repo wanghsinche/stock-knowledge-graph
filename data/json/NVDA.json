@@ -6,32 +6,32 @@
   "upstream": [
     "TSM",
     "005930.KS",
-    "MU",
-    "SK Hynix",
-    "ASE Group"
+    "GlobalFoundries",
+    "INTC",
+    "MU"
   ],
   "downstream": [
     "SONY",
     "MSFT",
     "DELL",
-    "AMZN",
-    "TSLA"
+    "TSLA",
+    "Mercedes-Benz AG"
   ],
   "competitors": [
     "AMD",
     "INTC",
     "QCOM",
-    "AVGO",
-    "005930.KS"
+    "AAPL",
+    "ARM Holdings"
   ],
   "key_products": [
-    "GeForce RTX",
-    "NVIDIA A100",
-    "NVIDIA H100",
-    "NVIDIA Jetson",
-    "NVIDIA Drive"
+    "GeForce RTX GPUs",
+    "NVIDIA A100 Tensor Core GPU",
+    "NVIDIA Jetson AI platform",
+    "NVIDIA Drive automotive platform",
+    "CUDA API"
   ],
-  "extracted_at": "2026-06-03 19:42:05",
+  "extracted_at": "2026-06-04 18:08:40",
   "sources": [
     {
       "source": "Wikipedia",
@@ -55,13 +55,13 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Nvidia",
       "query": "NVIDIA Corporation major customers clients",
-      "snippet": "Nvidia Corporation is an American multinational technology company headquartered in Santa Clara, California. Nvidia focuses its own resources on produ"
+      "snippet": "Nvidia Corporation is an American multinational technology company headquartered in Santa Clara, California. The company develops graphics processing "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.fool.com/investing/2025/09/01/nvidia-just-sounded-the-silent-alarm-investors/",
+      "url": "https://www.tipranks.com/news/two-clients-made-up-39-of-nvidia-nvda-revenue-is-it-a-risk-for-investors",
       "query": "NVIDIA Corporation major customers clients",
-      "snippet": "Though Nvidia doesn't spill the beans on the names of its top clients , customers A and B are (in no particular order) probably Meta Platforms (META +"
+      "snippet": "Nvidia (NVDA) has revealed that two unnamed clients made up a striking 39% of its total revenue in Q2 2026. According to a recent SEC filing, “ Custom"
     }
   ]
 }

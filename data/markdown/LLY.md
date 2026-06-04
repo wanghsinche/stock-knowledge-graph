@@ -3,8 +3,8 @@ ticker: LLY
 company: Eli Lilly and Company
 sector: Healthcare
 industry: Drug Manufacturers - General
-extracted_at: 2026-06-03 19:55:34
-last_updated: 2026-06-03
+extracted_at: 2026-06-04 18:12:10
+last_updated: 2026-06-04
 ---
 
 # LLY - Eli Lilly and Company
@@ -12,37 +12,37 @@ last_updated: 2026-06-03
 ## 基本信息
 
 - **所属行业**: Healthcare / Drug Manufacturers - General
-- **提取时间**: 2026-06-03 19:55:34
+- **提取时间**: 2026-06-04 18:12:10
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Raw material suppliers (chemicals, active pharmaceutical ingredients)]]
-- [[Contract manufacturing organizations (CMOs)]]
-- [[Packaging and labeling vendors]]
-- [[Research and development partners]]
-- [[Regulatory and quality assurance service providers]]
+- [[Active Pharmaceutical Ingredient (API) suppliers]]
+- [[Contract Manufacturing Organizations (CMOs)]]
+- [[Packaging and labeling suppliers]]
+- [[Raw material suppliers (chemicals, excipients)]]
+- [[Logistics and transportation providers]]
 
 ### 下游客户
 - [[Hospitals and health systems]]
 - [[Pharmacies and drugstores]]
-- [[Insurance and pharmacy benefit managers]]
-- [[Government health agencies (e.g., Medicare, Medicaid)]]
-- [[International health ministries and procurement agencies]]
+- [[Government health agencies (e.g., CDC, FDA)]]
+- [[International health organizations (e.g., WHO)]]
+- [[Retail pharmacy chains]]
 
 ### 竞争对手
-- [[Pfizer Inc.]]
+- [[Pfizer]]
 - [[Johnson & Johnson]]
-- [[Merck & Co., Inc.]]
-- [[Novartis AG]]
-- [[Bristol‑Myers Squibb]]
+- [[Merck & Co.]]
+- [[AbbVie]]
+- [[Bristol Myers Squibb]]
 
 ### 核心产品
-- [[Humalog (insulin lispro)]]
-- [[Lantus (insulin glargine)]]
+- [[Humulin insulin]]
+- [[Lantus insulin]]
 - [[Trulicity (dulaglutide)]]
-- [[Cymbalta (duloxetine)]]
-- [[Zyprexa (olanzapine)]]
+- [[Mounjaro (tirzepatide)]]
+- [[Empagliflozin (Jardiance)]]
 
 ## 数据来源
 
@@ -54,4 +54,4 @@ last_updated: 2026-06-03
 
 ## 元数据
 
-- **更新日期**: 2026-06-03
+- **更新日期**: 2026-06-04

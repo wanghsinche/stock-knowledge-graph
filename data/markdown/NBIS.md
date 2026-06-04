@@ -2,33 +2,33 @@
 ticker: NBIS
 company: Nebius Group N.V.
 sector: Communication Services
-industry: Internet Content & Information / AI Infrastructure
-extracted_at: 2026-06-03 19:50:30
-last_updated: 2026-06-03
+industry: Internet Content & Information
+extracted_at: 2026-06-04 18:13:15
+last_updated: 2026-06-04
 ---
 
 # NBIS - Nebius Group N.V.
 
 ## 基本信息
 
-- **所属行业**: Communication Services / Internet Content & Information / AI Infrastructure
-- **提取时间**: 2026-06-03 19:50:30
+- **所属行业**: Communication Services / Internet Content & Information
+- **提取时间**: 2026-06-04 18:13:15
 
 ## 产业链关系
 
 ### 上游供应商
 - [[NVDA]]
-- [[Cloud service providers (e.g., AWS, Azure, GCP)]]
-- [[Semiconductor suppliers]]
-- [[Data center equipment vendors]]
-- [[Software platform providers]]
+- [[AMD]]
+- [[INTC]]
+- [[QCOM]]
+- [[AVGO]]
 
 ### 下游客户
-- [[Enterprise technology clients]]
-- [[Financial services firms]]
-- [[Healthcare organizations]]
-- [[Retail and e‑commerce companies]]
-- [[CAT]]
+- [[GOOGL]]
+- [[MSFT]]
+- [[AMZN]]
+- [[IBM]]
+- [[ORCL]]
 
 ### 竞争对手
 - [[OpenAI]]
@@ -38,7 +38,7 @@ last_updated: 2026-06-03
 - [[IBM]]
 
 ### 核心产品
-- [[Nebius AI Infrastructure Platform]]
+- [[Nebius AI Platform]]
 - [[Avride]]
 - [[TripleTen]]
 - [[Toloka]]
@@ -54,4 +54,4 @@ last_updated: 2026-06-03
 
 ## 元数据
 
-- **更新日期**: 2026-06-03
+- **更新日期**: 2026-06-04

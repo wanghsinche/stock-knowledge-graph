@@ -7,15 +7,15 @@
     "INTC",
     "AMD",
     "NVDA",
-    "CSCO",
-    "DELL"
+    "DELL",
+    "HPQ"
   ],
   "downstream": [
-    "Walmart",
     "JPMorgan Chase",
     "Bank of America",
+    "Walmart",
     "AT&T",
-    "Verizon"
+    "NASA"
   ],
   "competitors": [
     "MSFT",
@@ -27,11 +27,11 @@
   "key_products": [
     "Oracle Database",
     "Oracle Cloud Infrastructure",
-    "Oracle ERP Cloud",
-    "Oracle E-Business Suite",
-    "Oracle Fusion Middleware"
+    "Oracle Autonomous Database",
+    "Oracle Fusion Applications",
+    "Oracle ERP Cloud"
   ],
-  "extracted_at": "2026-06-03 19:45:26",
+  "extracted_at": "2026-06-04 18:11:43",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,13 +43,13 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Oracle_Corporation",
       "query": "Oracle Corporation suppliers manufacturers",
-      "snippet": "Oracle Corporation is an American multinational technology company headquartered in Austin, Texas. Co-founded in 1977 in Santa Clara, California, by i"
+      "snippet": "Oracle acquired Rdb in 1994 from Digital Equipment Corporation . Oracle has since made many enhancements to this product and development continues as "
     },
     {
       "source": "DuckDuckGo",
       "url": "https://ru.wikipedia.org/wiki/Oracle",
       "query": "Oracle Corporation suppliers manufacturers",
-      "snippet": "Oracle ( Oracle Corporation ) — американская корпорация, второй по размеру выручки разработчик программного обеспечения (после Microsoft), четвёртая к"
+      "snippet": "Oracle — американская корпорация, второй по размеру выручки разработчик программного обеспечения, четвёртая крупнейшая компания в сфере информационных"
     },
     {
       "source": "DuckDuckGo",

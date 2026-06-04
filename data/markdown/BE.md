@@ -1,48 +1,48 @@
 ---
 ticker: BE
 company: Bloom Energy Corporation
-sector: Industrials / Electrical Equipment & Parts
-industry: Solid Oxide Fuel Cell Technology
-extracted_at: 2026-06-03 19:53:31
-last_updated: 2026-06-03
+sector: Industrials
+industry: Electrical Equipment & Parts
+extracted_at: 2026-06-04 18:20:27
+last_updated: 2026-06-04
 ---
 
 # BE - Bloom Energy Corporation
 
 ## 基本信息
 
-- **所属行业**: Industrials / Electrical Equipment & Parts / Solid Oxide Fuel Cell Technology
-- **提取时间**: 2026-06-03 19:53:31
+- **所属行业**: Industrials / Electrical Equipment & Parts
+- **提取时间**: 2026-06-04 18:20:27
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Fuel cell stack suppliers]]
-- [[Electrolyte material suppliers]]
-- [[Natural gas suppliers]]
-- [[Hydrogen suppliers]]
-- [[Component manufacturers]]
+- [[Air Liquide]]
+- [[Linde]]
+- [[Shell]]
+- [[BP]]
+- [[Enbridge]]
 
 ### 下游客户
-- [[Data center operators]]
-- [[Manufacturing facilities]]
-- [[Commercial building operators]]
-- [[Cloud service providers]]
-- [[Industrial power users]]
+- [[AMZN]]
+- [[GOOGL]]
+- [[MSFT]]
+- [[Facebook]]
+- [[Walmart]]
 
 ### 竞争对手
-- [[FuelCell Energy]]
 - [[Plug Power]]
+- [[FuelCell Energy]]
 - [[Ballard Power Systems]]
-- [[Nexamp]]
-- [[Traditional utilities]]
+- [[PowerCell]]
+- [[ITM Power]]
 
 ### 核心产品
-- [[Solid Oxide Fuel Cells]]
-- [[Electrolyzers]]
-- [[On‑site Power Generation Systems]]
-- [[Fuel Cell Stacks]]
-- [[Hydrogen Production Units]]
+- [[Solid Oxide Fuel Cells (SOFCs)]]
+- [[Electrolyzers for hydrogen production]]
+- [[On‑site power generation units]]
+- [[Hydrogen production systems]]
+- [[Power modules]]
 
 ## 数据来源
 
@@ -54,4 +54,4 @@ last_updated: 2026-06-03
 
 ## 元数据
 
-- **更新日期**: 2026-06-03
+- **更新日期**: 2026-06-04

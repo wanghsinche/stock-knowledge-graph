@@ -3,8 +3,8 @@ ticker: INTC
 company: Intel Corporation
 sector: Technology
 industry: Semiconductors
-extracted_at: 2026-06-03 19:43:33
-last_updated: 2026-06-03
+extracted_at: 2026-06-04 18:10:21
+last_updated: 2026-06-04
 ---
 
 # INTC - Intel Corporation
@@ -12,46 +12,46 @@ last_updated: 2026-06-03
 ## 基本信息
 
 - **所属行业**: Technology / Semiconductors
-- **提取时间**: 2026-06-03 19:43:33
+- **提取时间**: 2026-06-04 18:10:21
 
 ## 产业链关系
 
 ### 上游供应商
-- [[GlobalWafers]]
-- [[Sumitomo Silicon Industry]]
-- [[Tokyo Electron]]
-- [[LRCX]]
+- [[ASML]]
 - [[AMAT]]
+- [[LRCX]]
+- [[Tokyo Electron]]
+- [[KLA]]
 
 ### 下游客户
 - [[DELL]]
 - [[HPQ]]
-- [[Lenovo Group]]
-- [[AAPL]]
+- [[Lenovo]]
 - [[MSFT]]
+- [[AAPL]]
 
 ### 竞争对手
 - [[AMD]]
 - [[NVDA]]
-- [[TSM]]
-- [[005930.KS]]
+- [[QCOM]]
 - [[AVGO]]
+- [[TSM]]
 
 ### 核心产品
-- [[Intel Core processors]]
-- [[Intel Xeon processors]]
-- [[Intel Atom processors]]
-- [[Intel chipsets]]
-- [[Intel FPGAs]]
+- [[Core CPUs]]
+- [[Xeon CPUs]]
+- [[Chipsets]]
+- [[Network Interface Controllers]]
+- [[AI Accelerators]]
 
 ## 数据来源
 
 - [Intel](https://en.wikipedia.org/wiki/Intel_Corporation)
 - [Intel Corporation suppliers manufacturers](https://en.wikipedia.org/wiki/Intel)
 - [Intel Corporation suppliers manufacturers](https://finance.yahoo.com/quote/INTC/)
-- [Intel Corporation major customers clients](https://en.wikipedia.org/wiki/Intel)
 - [Intel Corporation major customers clients](https://finance.yahoo.com/quote/INTC/)
+- [Intel Corporation major customers clients](https://wccftech.com/intel-14a-wins-tesla-major-customers-foundry-business-gamble-pays-off/)
 
 ## 元数据
 
-- **更新日期**: 2026-06-03
+- **更新日期**: 2026-06-04

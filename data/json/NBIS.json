@@ -2,20 +2,20 @@
   "ticker": "NBIS",
   "company_name": "Nebius Group N.V.",
   "sector": "Communication Services",
-  "industry": "Internet Content & Information / AI Infrastructure",
+  "industry": "Internet Content & Information",
   "upstream": [
     "NVDA",
-    "Cloud service providers (e.g., AWS, Azure, GCP)",
-    "Semiconductor suppliers",
-    "Data center equipment vendors",
-    "Software platform providers"
+    "AMD",
+    "INTC",
+    "QCOM",
+    "AVGO"
   ],
   "downstream": [
-    "Enterprise technology clients",
-    "Financial services firms",
-    "Healthcare organizations",
-    "Retail and e‑commerce companies",
-    "CAT"
+    "GOOGL",
+    "MSFT",
+    "AMZN",
+    "IBM",
+    "ORCL"
   ],
   "competitors": [
     "OpenAI",
@@ -25,13 +25,13 @@
     "IBM"
   ],
   "key_products": [
-    "Nebius AI Infrastructure Platform",
+    "Nebius AI Platform",
     "Avride",
     "TripleTen",
     "Toloka",
     "Clickhouse"
   ],
-  "extracted_at": "2026-06-03 19:50:30",
+  "extracted_at": "2026-06-04 18:13:15",
   "sources": [
     {
       "source": "Wikipedia",
@@ -61,7 +61,7 @@
       "source": "DuckDuckGo",
       "url": "https://www.nasdaq.com/market-activity/stocks/nbis",
       "query": "NBIS major customers clients",
-      "snippet": "Show more results ->. NBIS . Summary. Quotes.Data Disclaimer: The Nasdaq Indices and the Major Indices are delayed at least 1 minute."
+      "snippet": "Data Disclaimer: The Nasdaq Indices and the Major Indices are delayed at least 1 minute. Real-time Data is provided using Nasdaq Last Sale Data."
     }
   ]
 }

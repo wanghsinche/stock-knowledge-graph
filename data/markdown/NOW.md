@@ -3,8 +3,8 @@ ticker: NOW
 company: ServiceNow, Inc.
 sector: Technology
 industry: Software - Application
-extracted_at: 2026-06-03 19:47:33
-last_updated: 2026-06-03
+extracted_at: 2026-06-04 18:12:21
+last_updated: 2026-06-04
 ---
 
 # NOW - ServiceNow, Inc.
@@ -12,31 +12,37 @@ last_updated: 2026-06-03
 ## 基本信息
 
 - **所属行业**: Technology / Software - Application
-- **提取时间**: 2026-06-03 19:47:33
+- **提取时间**: 2026-06-04 18:12:21
 
 ## 产业链关系
 
 ### 上游供应商
 - [[Supplier Lifecycle Operations]]
 - [[Advanced partnership with ServiceNow]]
+- [[MSFT]]
+- [[AMZN]]
+- [[GOOGL]]
 
 ### 下游客户
-- [[Customer Service Management]]
-- [[CRM cloud provider services]]
+- [[Enterprise customers]]
+- [[AWS integration clients]]
+- [[ServiceNow AI Control Tower clients]]
+- [[IT service management clients]]
+- [[Customer service management clients]]
 
 ### 竞争对手
 - [[CRM]]
 - [[MSFT]]
+- [[Workday]]
 - [[SAP SuccessFactors]]
 - [[ORCL]]
-- [[Workday]]
 
 ### 核心产品
+- [[Now Platform]]
 - [[IT Service Management (ITSM)]]
-- [[HR Service Delivery]]
-- [[Customer Service Management]]
-- [[Security Operations]]
-- [[Workflow Automation Platform]]
+- [[IT Operations Management (ITOM)]]
+- [[IT Business Management (ITBM)]]
+- [[Customer Service Management (CSM)]]
 
 ## 数据来源
 
@@ -44,8 +50,8 @@ last_updated: 2026-06-03
 - [ServiceNow, Inc. suppliers manufacturers](https://www.servicenow.com/)
 - [ServiceNow, Inc. suppliers manufacturers](https://theenterpriseworld.com/10-servicenow-partners-in-2024/)
 - [ServiceNow, Inc. major customers clients](https://www.servicenow.com/)
-- [ServiceNow, Inc. major customers clients](https://learn.microsoft.com/en-us/defender-cloud-apps/protect-servicenow)
+- [ServiceNow, Inc. major customers clients](https://www.aegissofttech.com/insights/guide-to-servicenow-aws-integration/)
 
 ## 元数据
 
-- **更新日期**: 2026-06-03
+- **更新日期**: 2026-06-04

@@ -5,27 +5,33 @@
   "industry": "Software - Application",
   "upstream": [
     "Supplier Lifecycle Operations",
-    "Advanced partnership with ServiceNow"
+    "Advanced partnership with ServiceNow",
+    "MSFT",
+    "AMZN",
+    "GOOGL"
   ],
   "downstream": [
-    "Customer Service Management",
-    "CRM cloud provider services"
+    "Enterprise customers",
+    "AWS integration clients",
+    "ServiceNow AI Control Tower clients",
+    "IT service management clients",
+    "Customer service management clients"
   ],
   "competitors": [
     "CRM",
     "MSFT",
+    "Workday",
     "SAP SuccessFactors",
-    "ORCL",
-    "Workday"
+    "ORCL"
   ],
   "key_products": [
+    "Now Platform",
     "IT Service Management (ITSM)",
-    "HR Service Delivery",
-    "Customer Service Management",
-    "Security Operations",
-    "Workflow Automation Platform"
+    "IT Operations Management (ITOM)",
+    "IT Business Management (ITBM)",
+    "Customer Service Management (CSM)"
   ],
-  "extracted_at": "2026-06-03 19:47:33",
+  "extracted_at": "2026-06-04 18:12:21",
   "sources": [
     {
       "source": "Wikipedia",
@@ -49,13 +55,13 @@
       "source": "DuckDuckGo",
       "url": "https://www.servicenow.com/",
       "query": "ServiceNow, Inc. major customers clients",
-      "snippet": "Customer Service Management. Empower self- service , boost agent productivity, and speed up resolution. Strategic Portfolio Management.AI Agent Storie"
+      "snippet": "ServiceNow AI Control Tower. Connect strategy, governance, management, and performance for all your AI across the enterprise."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://learn.microsoft.com/en-us/defender-cloud-apps/protect-servicenow",
+      "url": "https://www.aegissofttech.com/insights/guide-to-servicenow-aws-integration/",
       "query": "ServiceNow, Inc. major customers clients",
-      "snippet": "As a major CRM cloud provider, ServiceNow incorporates large amounts of sensitive information about customers , internal processes, incidents, and rep"
+      "snippet": "Enterprises approach ServiceNow Consulting Services and AWS integration in three general ways: Hand-creating custom combinations among ServiceNow and "
     }
   ]
 }

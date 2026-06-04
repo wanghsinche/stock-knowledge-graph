@@ -3,8 +3,8 @@ ticker: CRWD
 company: CrowdStrike Holdings, Inc.
 sector: Technology
 industry: Software - Infrastructure
-extracted_at: 2026-06-03 19:48:59
-last_updated: 2026-06-03
+extracted_at: 2026-06-04 18:11:21
+last_updated: 2026-06-04
 ---
 
 # CRWD - CrowdStrike Holdings, Inc.
@@ -12,7 +12,7 @@ last_updated: 2026-06-03
 ## 基本信息
 
 - **所属行业**: Technology / Software - Infrastructure
-- **提取时间**: 2026-06-03 19:48:59
+- **提取时间**: 2026-06-04 18:11:21
 
 ## 产业链关系
 
@@ -20,38 +20,38 @@ last_updated: 2026-06-03
 - [[MSFT]]
 - [[AMZN]]
 - [[GOOGL]]
-- [[Red Hat]]
-- [[VMware]]
+- [[INTC]]
+- [[AMD]]
 
 ### 下游客户
-- [[MSFT]]
-- [[AMZN]]
-- [[GOOGL]]
-- [[Bank of America]]
-- [[U.S. Department of Defense]]
+- [[Large enterprises (e.g., Fortune 500)]]
+- [[Government agencies]]
+- [[Financial institutions]]
+- [[Healthcare providers]]
+- [[Retail and e‑commerce companies]]
 
 ### 竞争对手
 - [[Palo Alto Networks]]
 - [[SentinelOne]]
-- [[Fortinet]]
-- [[Check Point Software Technologies]]
+- [[AVGO]]
 - [[McAfee]]
+- [[Sophos]]
 
 ### 核心产品
-- [[CrowdStrike Falcon]]
+- [[CrowdStrike Falcon Platform]]
 - [[Falcon Prevent]]
 - [[Falcon Insight]]
-- [[Falcon Discover]]
 - [[Falcon OverWatch]]
+- [[Falcon Discover]]
 
 ## 数据来源
 
 - [CrowdStrike](https://en.wikipedia.org/wiki/CrowdStrike_Holdings,_Inc.)
 - [CrowdStrike Holdings, Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/CrowdStrike)
-- [CrowdStrike Holdings, Inc. suppliers manufacturers](https://finance.yahoo.com/quote/CRWD/)
-- [CrowdStrike Holdings, Inc. major customers clients](https://finance.yahoo.com/quote/CRWD/)
+- [CrowdStrike Holdings, Inc. suppliers manufacturers](https://www.tradingview.com/symbols/NASDAQ-CRWD/)
+- [CrowdStrike Holdings, Inc. major customers clients](https://au.finance.yahoo.com/news/analyst-crowdstrike-holdings-crwd-customers-172748552.html)
 - [CrowdStrike Holdings, Inc. major customers clients](https://simplywall.st/stocks/us/software/nasdaq-crwd/crowdstrike-holdings)
 
 ## 元数据
 
-- **更新日期**: 2026-06-03
+- **更新日期**: 2026-06-04

@@ -11,11 +11,11 @@
     "IBM"
   ],
   "downstream": [
-    "Walmart",
     "Coca‑Cola",
+    "Toyota",
     "American Express",
-    "General Electric",
-    "Bank of America"
+    "Unilever",
+    "Nike"
   ],
   "competitors": [
     "MSFT",
@@ -29,9 +29,11 @@
     "Service Cloud",
     "Marketing Cloud",
     "Commerce Cloud",
-    "Einstein AI"
+    "Einstein AI",
+    "MuleSoft",
+    "Tableau"
   ],
-  "extracted_at": "2026-06-03 19:53:05",
+  "extracted_at": "2026-06-04 18:18:59",
   "sources": [
     {
       "source": "Wikipedia",
@@ -42,26 +44,26 @@
     {
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Salesforce",
-      "query": "Salesforce, Inc. major customers clients",
+      "query": "Salesforce, Inc. suppliers manufacturers",
       "snippet": "Salesforce , Inc . is an American cloud-based software company headquartered in San Francisco, California. It provides applications focused on sales ,"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.salesforce.com/",
-      "query": "Salesforce, Inc. major customers clients",
-      "snippet": "Salesforce Enterprise-grade CRM with deep reporting, sales operations..."
+      "url": "https://csimarket.com/stocks/CRM-Suppliers",
+      "query": "Salesforce, Inc. suppliers manufacturers",
+      "snippet": "Salesforce Inc 's Suppliers Performance. CRM's Supply Chain. Download as CSV.Updated on: Tuesday, March 3, 2026 9:56 PM For your research, we’ve provi"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.guru99.com/salesforce-alternatives-competitor.html",
       "query": "Salesforce, Inc. competitors alternatives",
-      "snippet": "best free salesforce alternatives . Struggling with Salesforce ’s high costs and limited flexibility? Exploring Software as a service (SaaS) CRM alter"
+      "snippet": "best free salesforce alternatives . Struggling with Salesforce ’s high costs and limited flexibility?I have evaluated leading FREE Salesforce alternat"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/CRM-Competitors",
+      "url": "https://www.globaldata.com/company-profile/salesforcecom-inc/competitors/",
       "query": "Salesforce, Inc. competitors alternatives",
-      "snippet": "Comparing the current results to its competitors , Salesforce Inc reported Revenue increase in the 4 quarter 2025 by 61.05 % year on year. The sales g"
+      "snippet": "Salesforce .Com Inc peers and key competitor information including headquarters, annual...Understand how Salesforce Inc fits into your total addressab"
     }
   ]
 }

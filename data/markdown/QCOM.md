@@ -3,8 +3,8 @@ ticker: QCOM
 company: Qualcomm Incorporated
 sector: Technology
 industry: Semiconductors
-extracted_at: 2026-06-03 19:45:47
-last_updated: 2026-06-03
+extracted_at: 2026-06-04 18:14:02
+last_updated: 2026-06-04
 ---
 
 # QCOM - Qualcomm Incorporated
@@ -12,7 +12,7 @@ last_updated: 2026-06-03
 ## 基本信息
 
 - **所属行业**: Technology / Semiconductors
-- **提取时间**: 2026-06-03 19:45:47
+- **提取时间**: 2026-06-04 18:14:02
 
 ## 产业链关系
 
@@ -20,38 +20,38 @@ last_updated: 2026-06-03
 - [[TSM]]
 - [[005930.KS]]
 - [[GlobalFoundries]]
-- [[INTC]]
-- [[ASML]]
+- [[ASE Group]]
+- [[Amkor Technology]]
 
 ### 下游客户
 - [[AAPL]]
 - [[005930.KS]]
-- [[Huawei]]
-- [[GOOGL]]
-- [[Nokia]]
+- [[Huawei Technologies]]
+- [[Xiaomi Corp.]]
+- [[Oppo Mobile]]
 
 ### 竞争对手
-- [[MediaTek]]
+- [[MediaTek Inc.]]
 - [[AVGO]]
-- [[INTC]]
-- [[NVDA]]
 - [[005930.KS]]
+- [[AAPL]]
+- [[INTC]]
 
 ### 核心产品
-- [[Snapdragon mobile processors]]
-- [[5G modems]]
-- [[AI chips]]
-- [[RF front-end modules]]
-- [[Wi-Fi chips]]
+- [[Snapdragon 8 Gen 2 SoC]]
+- [[Snapdragon 5G Modems (X65, X60)]]
+- [[RF Front‑End Modules]]
+- [[Wi‑Fi 6/7 Chips]]
+- [[Snapdragon Automotive SoC]]
 
 ## 数据来源
 
-- [Qualcomm](https://en.wikipedia.org/wiki/QUALCOMM_Incorporated)
+- 
 - [QUALCOMM Incorporated suppliers manufacturers](https://ru.wikipedia.org/wiki/Qualcomm)
 - [QUALCOMM Incorporated suppliers manufacturers](https://data.ark.ai/analysis/suppliers/qualcomm-incorporated-supplier-profile-overview)
 - [QUALCOMM Incorporated major customers clients](https://finance.yahoo.com/markets/stocks/articles/apple-house-modem-chips-threaten-132313888.html)
-- [QUALCOMM Incorporated major customers clients](https://www.qualcomm.com/)
+- [QUALCOMM Incorporated major customers clients](https://qualcomm.com/)
 
 ## 元数据
 
-- **更新日期**: 2026-06-03
+- **更新日期**: 2026-06-04

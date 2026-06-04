@@ -3,8 +3,8 @@ ticker: MSTR
 company: Strategy Inc
 sector: Technology
 industry: Software - Application
-extracted_at: 2026-06-03 19:52:41
-last_updated: 2026-06-03
+extracted_at: 2026-06-04 18:13:48
+last_updated: 2026-06-04
 ---
 
 # MSTR - Strategy Inc
@@ -12,37 +12,25 @@ last_updated: 2026-06-03
 ## 基本信息
 
 - **所属行业**: Technology / Software - Application
-- **提取时间**: 2026-06-03 19:52:41
+- **提取时间**: 2026-06-04 18:13:48
 
 ## 产业链关系
 
 ### 上游供应商
-- [[MSFT]]
-- [[AMZN]]
-- [[GOOGL]]
-- [[ORCL]]
-- [[IBM]]
+_暂无数据_
 
 ### 下游客户
-- [[Bank of America]]
-- [[JPMorgan Chase]]
-- [[Walmart]]
-- [[Coca‑Cola]]
-- [[General Motors]]
+_暂无数据_
 
 ### 竞争对手
 - [[SAP SE Business Objects]]
 - [[IBM]]
 - [[ORCL]]
-- [[Tableau]]
-- [[Qlik]]
 
 ### 核心产品
-- [[MicroStrategy Desktop]]
-- [[MicroStrategy Server]]
+- [[MicroStrategy Analytics Platform]]
+- [[MicroStrategy Mobile]]
 - [[MicroStrategy Cloud]]
-- [[Mobile BI]]
-- [[Analytics Platform]]
 
 ## 数据来源
 
@@ -54,4 +42,4 @@ last_updated: 2026-06-03
 
 ## 元数据
 
-- **更新日期**: 2026-06-03
+- **更新日期**: 2026-06-04

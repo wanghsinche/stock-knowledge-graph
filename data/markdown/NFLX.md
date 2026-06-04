@@ -3,8 +3,8 @@ ticker: NFLX
 company: Netflix, Inc.
 sector: Communication Services
 industry: Entertainment
-extracted_at: 2026-06-03 19:50:46
-last_updated: 2026-06-03
+extracted_at: 2026-06-04 18:14:43
+last_updated: 2026-06-04
 ---
 
 # NFLX - Netflix, Inc.
@@ -12,46 +12,46 @@ last_updated: 2026-06-03
 ## 基本信息
 
 - **所属行业**: Communication Services / Entertainment
-- **提取时间**: 2026-06-03 19:50:46
+- **提取时间**: 2026-06-04 18:14:43
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Disney Studios]]
-- [[Warner Bros. Pictures]]
-- [[Universal Studios]]
-- [[SONY]]
-- [[Paramount Pictures]]
+- [[Film and television production studios]]
+- [[Animation and visual effects companies]]
+- [[Music and soundtrack publishers]]
+- [[Hardware manufacturers (smart TVs, streaming devices)]]
+- [[Cloud service providers]]
 
 ### 下游客户
-- [[Households (individual subscribers)]]
-- [[Smart TV manufacturers]]
-- [[Cable and satellite providers]]
-- [[Mobile carriers]]
-- [[Internet service providers]]
+- [[Individual subscribers worldwide]]
+- [[Household users via smart TVs]]
+- [[Mobile device users]]
+- [[AAPL]]
+- [[Content consumption platforms (web, app)]]
 
 ### 竞争对手
 - [[Disney+]]
-- [[Hulu]]
 - [[AMZN]]
 - [[HBO Max]]
 - [[AAPL]]
+- [[Paramount+]]
 
 ### 核心产品
-- [[Netflix streaming service]]
-- [[Original series]]
-- [[Original movies]]
-- [[Licensed TV shows]]
-- [[Mobile and web apps]]
+- [[Over-the-top streaming service]]
+- [[Original scripted series]]
+- [[Original unscripted and documentary content]]
+- [[Licensed movies and TV shows]]
+- [[Mobile and web applications]]
 
 ## 数据来源
 
 - [Netflix, Inc.](https://en.wikipedia.org/wiki/Netflix,_Inc.)
 - [Netflix, Inc. suppliers manufacturers](https://porteranalysis.com/porters-five-forces-of-netflix/)
 - [Netflix, Inc. suppliers manufacturers](https://www.alibaba.com/)
-- [Netflix, Inc. competitors alternatives](https://www.marketingtutor.net/netflix-competitors-alternatives/)
-- [Netflix, Inc. competitors alternatives](https://www.trustradius.com/products/field-nation/competitors)
+- [Netflix, Inc. major customers clients](https://www.netflix.com/)
+- [Netflix, Inc. major customers clients](https://www.inc.com/jason-aten/netflix-just-revealed-its-doing-the-1-thing-customers-were-most-afraid-of/91110628)
 
 ## 元数据
 
-- **更新日期**: 2026-06-03
+- **更新日期**: 2026-06-04
