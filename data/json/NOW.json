@@ -1,67 +1,67 @@
 {
   "ticker": "NOW",
   "company_name": "ServiceNow, Inc.",
-  "sector": "Technology",
-  "industry": "Software - Application",
+  "sector": "Technology / Software - Application",
+  "industry": "Application Software",
   "upstream": [
-    "Supplier Lifecycle Operations",
-    "Advanced partnership with ServiceNow",
-    "MSFT",
     "AMZN",
-    "GOOGL"
+    "MSFT",
+    "GOOGL",
+    "DELL",
+    "HPQ"
   ],
   "downstream": [
-    "Enterprise customers",
-    "AWS integration clients",
-    "ServiceNow AI Control Tower clients",
-    "IT service management clients",
-    "Customer service management clients"
+    "Walmart",
+    "JPMorgan Chase",
+    "AT&T",
+    "Bank of America",
+    "Citi"
   ],
   "competitors": [
     "CRM",
     "MSFT",
-    "Workday",
     "SAP SuccessFactors",
-    "ORCL"
+    "ORCL",
+    "Workday"
   ],
   "key_products": [
-    "Now Platform",
+    "ServiceNow Platform",
     "IT Service Management (ITSM)",
     "IT Operations Management (ITOM)",
     "IT Business Management (ITBM)",
     "Customer Service Management (CSM)"
   ],
-  "extracted_at": "2026-06-04 18:12:21",
+  "extracted_at": "2026-06-05 17:52:05",
   "sources": [
     {
       "source": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/ServiceNow,_Inc.",
-      "title": "ServiceNow",
-      "snippet": "ServiceNow, Inc. is an American software company that supplies a cloud computing platform for the creation and management of automated business workflows. The company was founded in Santa Clara, Calif"
+      "url": "",
+      "title": "",
+      "snippet": ""
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.servicenow.com/",
+      "url": "https://en.wikipedia.org/wiki/ServiceNow",
       "query": "ServiceNow, Inc. suppliers manufacturers",
-      "snippet": "Supplier Lifecycle Operations. Streamline supplier onboarding, collaboration, and performance management. ServiceNow EmployeeWorks. Stop chasing what "
+      "snippet": "ServiceNow, Inc . is an American software company that supplies a cloud computing platform for the creation and management of automated business workf"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://theenterpriseworld.com/10-servicenow-partners-in-2024/",
+      "url": "https://www.servicenow.com/company/supplier.html",
       "query": "ServiceNow, Inc. suppliers manufacturers",
-      "snippet": "Advanced partnership with ServiceNow , incorporating AI to automate complex workflows.Key Takeaways for CDW Logistics, Inc . 1. Responsive ServiceNow "
+      "snippet": "ServiceNow partners with capable and competitive suppliers who commit to diversity, sustainability, and best-in-class goods and services. Learn more h"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.servicenow.com/",
+      "url": "https://www.aventionmedia.com/technology-installed-base/servicenow/",
       "query": "ServiceNow, Inc. major customers clients",
-      "snippet": "ServiceNow AI Control Tower. Connect strategy, governance, management, and performance for all your AI across the enterprise."
+      "snippet": "Discover Avention Media’s accurate and customizable ServiceNow customers list. Our verified ServiceNow data helps you target key decision-makers and c"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.aegissofttech.com/insights/guide-to-servicenow-aws-integration/",
+      "url": "https://data.landbase.com/technology/servicenow/",
       "query": "ServiceNow, Inc. major customers clients",
-      "snippet": "Enterprises approach ServiceNow Consulting Services and AWS integration in three general ways: Hand-creating custom combinations among ServiceNow and "
+      "snippet": "Aug 17, 2025 · ServiceNow by ServiceNow, is a cloud-based platform designed for digital workflows. It’s commonly employed to automate and enhance vari"
     }
   ]
 }

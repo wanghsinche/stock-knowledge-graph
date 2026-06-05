@@ -4,34 +4,34 @@
   "sector": "Technology",
   "industry": "Software - Infrastructure",
   "upstream": [
-    "Cloud infrastructure providers (AWS, Azure, GCP)",
-    "DELL",
+    "AMZN",
+    "MSFT",
+    "GOOGL",
     "ORCL",
-    "Data providers and brokers",
-    "Consulting and system integration firms"
+    "IBM"
   ],
   "downstream": [
     "U.S. Department of Defense",
+    "Federal Bureau of Investigation",
     "INTC",
-    "Financial institutions (JP Morgan, Goldman Sachs)",
-    "Healthcare organizations (UnitedHealth, Mayo Clinic)",
-    "Retail and logistics companies (Walmart, FedEx)"
+    "U.S. Department of Homeland Security",
+    "U.S. Department of Justice"
   ],
   "competitors": [
+    "Splunk",
     "Snowflake",
     "Databricks",
-    "Splunk",
     "MSFT",
-    "IBM"
+    "Tableau"
   ],
   "key_products": [
-    "Palantir Foundry",
     "Palantir Gotham",
+    "Palantir Foundry",
     "Palantir Apollo",
-    "Palantir Helix",
-    "Palantir Data Integration Platform"
+    "Palantir Data Lake",
+    "Palantir AI Suite"
   ],
-  "extracted_at": "2026-06-04 18:10:51",
+  "extracted_at": "2026-06-05 17:50:33",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,21 +41,21 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Palantir",
+      "url": "https://csimarket.com/stocks/PLTR-Suppliers",
       "query": "Palantir Technologies Inc. suppliers manufacturers",
-      "snippet": "Palantir Technologies Inc . is an American publicly traded company that develops data integration and analytics platforms enabling government agencies"
+      "snippet": "May 6, 2026 · Palantir Technologies Inc 's Suppliers recorded an increase in sales by 5.7 % year on year in Q1 2026, from the previous quarter, sales "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.palantir.com/",
+      "url": "https://fintel.io/doc/sec-palantir-technologies-inc-1321655-ex211-2023-february-21-19410-4071",
       "query": "Palantir Technologies Inc. suppliers manufacturers",
-      "snippet": "\" Palantir 's frontline mixed reality capabilities...will complement our technology goals of worker enablement and job site safety. No matter what ind"
+      "snippet": "Palantir Technologies Inc . - List of subsidiaries of Palantir Technologies Inc . - EX-21.1 - February 21, 2023 Palantir Technologies Inc . US ˙ Nasda"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Palantir",
       "query": "Palantir Technologies Inc. major customers clients",
-      "snippet": "Palantir Technologies Inc . is an American publicly traded company that develops data integration and analytics platforms enabling government agencies"
+      "snippet": "Palantir Technologies Inc . Palantir 's customer base includes federal agencies, state and local governments, international organizations, and also pr"
     },
     {
       "source": "DuckDuckGo",

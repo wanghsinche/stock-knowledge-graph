@@ -4,34 +4,34 @@
   "sector": "Financial Services",
   "industry": "Financial Data & Stock Exchanges",
   "upstream": [
+    "AMZN",
+    "Stripe (payment processing)",
     "MSFT",
-    "Blockchain network operators (Bitcoin, Ethereum, other public chains)",
-    "Payment processors (e.g., Stripe, PayPal, traditional banking APIs)",
-    "Regulatory compliance vendors (AML/KYC solutions)",
-    "ORCL"
+    "Coinbase Custody (internal custody platform)",
+    "Blockchain infrastructure providers (e.g., ConsenSys)"
   ],
   "downstream": [
     "Retail cryptocurrency traders",
-    "Institutional investors and asset managers",
-    "Merchant partners accepting crypto payments",
-    "DeFi protocol developers using Coinbase APIs",
-    "Crypto wallet users"
+    "Institutional investors",
+    "Crypto asset managers",
+    "Merchant payment processors",
+    "Regulated financial institutions"
   ],
   "competitors": [
     "Binance",
     "Kraken",
     "Gemini",
     "Bitstamp",
-    "FTX (post-bankruptcy assets and brand)"
+    "FTX (formerly)"
   ],
   "key_products": [
     "Cryptocurrency trading platform",
     "Custody services for institutional clients",
-    "Staking and earning products",
-    "Wallet and mobile app",
-    "API services for developers"
+    "Staking and yield products",
+    "Coinbase Wallet (mobile & web)",
+    "API and developer tools"
   ],
-  "extracted_at": "2026-05-18 18:02:24",
+  "extracted_at": "2026-06-05 17:54:58",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,25 +43,25 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Coinbase",
       "query": "Coinbase Global, Inc. suppliers manufacturers",
-      "snippet": "Coinbase Global , Inc . is an American cryptocurrency exchange. It was founded in 2012 by Brian Armstrong and Fred Ehrsam."
+      "snippet": "Coinbase Global , Inc ., branded Coinbase , is an American publicly traded company that operates a cryptocurrency exchange platform. Coinbase is a dis"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ru.wikipedia.org/wiki/Coinbase",
+      "url": "https://finance.yahoo.com/quote/COIN/",
       "query": "Coinbase Global, Inc. suppliers manufacturers",
-      "snippet": "Coinbase Global , Inc . (бренд Coinbase ) — американская публичная компания, которая управляет онлайн-сервисом обмена цифровых валют (биржей криптовал"
+      "snippet": "Coinbase Global , Inc . Overview Financial Data & Stock Exchanges / Financial Services. Coinbase Global , Inc . operates platform for crypto assets in"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Coinbase",
       "query": "Coinbase Global, Inc. major customers clients",
-      "snippet": "Coinbase Global , Inc . is an American cryptocurrency exchange. It was founded in 2012 by Brian Armstrong and Fred Ehrsam."
+      "snippet": "Coinbase Global , Inc ., branded Coinbase , is an American publicly traded company that operates a cryptocurrency exchange platform."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/COIN/",
+      "url": "https://www.coinbase.com/",
       "query": "Coinbase Global, Inc. major customers clients",
-      "snippet": "Find the latest Coinbase Global , Inc . (COIN) stock quote, history, news and other vital information to help you with your stock trading and investin"
+      "snippet": "Coinbase United States is a secure online platform for buying, selling, transferring, and storing cryptocurrency."
     }
   ]
 }

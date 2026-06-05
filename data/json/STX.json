@@ -1,37 +1,37 @@
 {
   "ticker": "STX",
   "company_name": "Seagate Technology Holdings plc",
-  "sector": "Technology",
-  "industry": "Computer Hardware",
+  "sector": "Technology / Computer Hardware",
+  "industry": "Hard Disk Drive Manufacturing / Storage Solutions",
   "upstream": [
-    "MU",
-    "005930.KS",
-    "SK Hynix",
-    "TDK Corporation",
-    "SONY"
+    "Magnetic media suppliers",
+    "Electronics component manufacturers",
+    "Firmware developers",
+    "Manufacturing equipment suppliers",
+    "Raw material suppliers"
   ],
   "downstream": [
     "DELL",
     "HPQ",
     "Lenovo Group",
-    "AMZN",
+    "AAPL",
     "MSFT"
   ],
   "competitors": [
     "WDC",
-    "Kioxia (formerly Toshiba Memory)",
+    "Toshiba",
     "005930.KS",
-    "INTC",
+    "IBM",
     "MU"
   ],
   "key_products": [
-    "Hard Disk Drives (HDD)",
-    "Solid State Drives (SSD)",
-    "Enterprise Storage Systems",
-    "Cloud Storage Solutions",
-    "Magnetic Tape Drives"
+    "Hard Disk Drives (HDDs)",
+    "Solid State Drives (SSDs)",
+    "Enterprise storage solutions",
+    "Cloud storage infrastructure",
+    "Data center storage"
   ],
-  "extracted_at": "2026-06-04 18:19:31",
+  "extracted_at": "2026-06-05 17:53:10",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.seagate.com/",
+      "url": "https://en.wikipedia.org/wiki/Seagate_Technology",
       "query": "Seagate Technology Holdings plc suppliers manufacturers",
-      "snippet": "Seagate Technology Holdings PLC ."
+      "snippet": "Seagate Technology ... Seagate Technology Holdings plc is an American data storage company. It was incorporated in 1978 as Shugart Technology and comm"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/seagate-technology-holdings-plc-stx-220222184.html",
+      "url": "https://csimarket.com/stocks/STX-Suppliers",
       "query": "Seagate Technology Holdings plc suppliers manufacturers",
-      "snippet": "The technical foundation of the Seagate Technology Holdings plc (NASDAQ:STX) bull case is the undisputed first-mover advantage in HAMR technology , co"
+      "snippet": "Apr 30, 2026 · Seagate Technology Holdings Plc 's Comment on Supply Chain Disk drives incorporate certain components, including a head disk assembly a"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/Seagate_Technology",
+      "query": "Seagate Technology Holdings plc major customers clients",
+      "snippet": "Seagate developed the first 5.25-inch hard disk drive (HDD), the 5-megabyte ST-506, in 1980. They were a major supplier in the microcomputer market du"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://finance.yahoo.com/markets/stocks/articles/seagate-technology-holdings-plc-stx-220222184.html",
       "query": "Seagate Technology Holdings plc major customers clients",
-      "snippet": "The technical foundation of the Seagate Technology Holdings plc (NASDAQ:STX) bull case is the undisputed first-mover advantage in HAMR technology , co"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.youtube.com/channel/UC6nPUTO22UXVxD8uOei8BjA",
-      "query": "Seagate Technology Holdings plc major customers clients",
-      "snippet": "Seagate Technology . 1,6 тыс. просмотров • 2 года назад. 3:44. Breakthrough Tech : Seagate 's 12nm Integrated Controller ."
+      "snippet": "We just covered the From Fired Researcher to $13.7 Billion King: How Leopold Aschenbrenner Broke the Hedge Fund World and Seagate Technology Holdings "
     }
   ]
 }

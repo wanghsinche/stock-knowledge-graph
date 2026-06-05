@@ -2,56 +2,56 @@
 ticker: ASTS
 company: AST SpaceMobile, Inc.
 sector: Technology
-industry: Communication Equipment
-extracted_at: 2026-06-04 18:21:03
-last_updated: 2026-06-04
+industry: Satellite Communications
+extracted_at: 2026-06-05 17:55:11
+last_updated: 2026-06-05
 ---
 
 # ASTS - AST SpaceMobile, Inc.
 
 ## 基本信息
 
-- **所属行业**: Technology / Communication Equipment
-- **提取时间**: 2026-06-04 18:21:03
+- **所属行业**: Technology / Satellite Communications
+- **提取时间**: 2026-06-05 17:55:11
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Satellite component manufacturers (e.g., antenna, RF module suppliers)]]
-- [[Electronic component suppliers (e.g., processors, memory, power supplies)]]
-- [[Launch service providers (e.g., SpaceX, Rocket Lab)]]
-- [[Materials suppliers (e.g., composite materials for satellite structures)]]
-- [[Software and firmware vendors (e.g., satellite control software providers)]]
+- [[Satellite component manufacturers]]
+- [[Launch service providers]]
+- [[Ground station equipment suppliers]]
+- [[Aerospace materials suppliers]]
+- [[RF and antenna technology vendors]]
 
 ### 下游客户
-- [[Mobile network operators (e.g., AT&T, Verizon, T-Mobile)]]
-- [[CAT]]
-- [[CAT]]
-- [[Enterprise customers needing global connectivity]]
-- [[IoT and M2M service providers]]
+- [[Mobile network operators]]
+- [[Enterprise broadband customers]]
+- [[Government and defense agencies]]
+- [[Maritime and aviation service providers]]
+- [[IoT and remote sensing customers]]
 
 ### 竞争对手
 - [[SpaceX Starlink]]
 - [[OneWeb]]
-- [[Telesat]]
 - [[AMZN]]
+- [[Telesat]]
 - [[CAT]]
 
 ### 核心产品
-- [[4G/5G space‑based broadband satellite constellation]]
-- [[Satellite terminals for mobile devices]]
-- [[Ground station infrastructure]]
-- [[Network management and control software]]
-- [[Integrated satellite‑cellular network solutions]]
+- [[BlueBird satellite constellation]]
+- [[SpaceMobile broadband network]]
+- [[Satellite ground stations]]
+- [[Satellite-based IoT solutions]]
+- [[Mobile broadband services]]
 
 ## 数据来源
 
 - 
-- [AST SpaceMobile, Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/AST_SpaceMobile)
-- [AST SpaceMobile, Inc. suppliers manufacturers](https://ast-science.com/company/)
-- [AST SpaceMobile, Inc. major customers clients](https://en.wikipedia.org/wiki/AST_SpaceMobile)
-- [AST SpaceMobile, Inc. major customers clients](https://www.tradingview.com/news/marketbeat:c5a25be25094b:0-ast-spacemobile-5-reasons-to-buy-this-tiny-trailblazer-stock/)
+- [AST SpaceMobile, Inc. suppliers manufacturers](https://ast-science.com/)
+- [AST SpaceMobile, Inc. suppliers manufacturers](https://finance.yahoo.com/quote/ASTS/)
+- [AST SpaceMobile, Inc. major customers clients](https://csimarket.com/stocks/ASTS-Customers)
+- [AST SpaceMobile, Inc. major customers clients](https://ast-science.com/)
 
 ## 元数据
 
-- **更新日期**: 2026-06-04
+- **更新日期**: 2026-06-05

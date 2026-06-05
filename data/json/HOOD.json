@@ -5,33 +5,33 @@
   "industry": "Capital Markets",
   "upstream": [
     "AMZN",
-    "MSFT",
-    "Bloomberg L.P.",
-    "Refinitiv",
-    "Stripe"
+    "GOOGL",
+    "Bloomberg Data Services",
+    "Stripe",
+    "Plaid"
   ],
   "downstream": [
     "Retail investors",
-    "High net worth individuals",
+    "High‑frequency traders",
     "Institutional clients",
-    "Corporate clients",
-    "Crypto traders"
+    "Crypto traders",
+    "Options traders"
   ],
   "competitors": [
-    "Charles Schwab",
-    "E*TRADE",
+    "eToro",
+    "Webull",
     "TD Ameritrade",
     "Fidelity",
-    "Webull"
+    "Charles Schwab"
   ],
   "key_products": [
     "Commission‑free stock trading",
-    "Options trading",
-    "Cryptocurrency trading",
+    "Crypto trading",
     "Margin trading",
-    "Robinhood Gold subscription"
+    "Robinhood Gold subscription",
+    "Cash management"
   ],
-  "extracted_at": "2026-06-04 18:15:45",
+  "extracted_at": "2026-06-05 17:53:20",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,9 +47,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/suppliers_glance.php?code=HOOD",
+      "url": "https://robinhood.com/",
       "query": "Robinhood Markets, Inc. suppliers manufacturers",
-      "snippet": "Robinhood Markets Inc supply chain, list and performance of Robinhood Markets Incs ' suppliers - CSIMarket."
+      "snippet": "Trade stocks on Robinhood with commission-free investing & advanced trading tools. Access fractional shares, real-time market data, and more."
     },
     {
       "source": "DuckDuckGo",
@@ -59,9 +59,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.investing.com/equities/robinhood-markets",
+      "url": "https://investingintheweb.com/brokers/robinhood-statistics/",
       "query": "Robinhood Markets, Inc. major customers clients",
-      "snippet": "Robinhood Markets Inc . ( HOOD ) announced Wednesday that customers can deploy AI agents to trade stocks and make credit card... customers the basics "
+      "snippet": "Apr 7, 2026 · Robinhood revenues Robinhood generates revenues through transaction-based revenues, net interest revenues, and other revenues. Transacti"
     }
   ]
 }

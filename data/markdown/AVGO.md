@@ -3,8 +3,8 @@ ticker: AVGO
 company: Broadcom Inc.
 sector: Technology
 industry: Semiconductors
-extracted_at: 2026-06-04 18:08:24
-last_updated: 2026-06-04
+extracted_at: 2026-06-05 17:48:05
+last_updated: 2026-06-05
 ---
 
 # AVGO - Broadcom Inc.
@@ -12,46 +12,46 @@ last_updated: 2026-06-04
 ## 基本信息
 
 - **所属行业**: Technology / Semiconductors
-- **提取时间**: 2026-06-04 18:08:24
+- **提取时间**: 2026-06-05 17:48:05
 
 ## 产业链关系
 
 ### 上游供应商
-- [[TSM]]
-- [[Raw material suppliers (e.g., silicon wafer manufacturers)]]
 - [[AMAT]]
-- [[TXN]]
-- [[Packaging and testing service providers]]
+- [[LRCX]]
+- [[ASML]]
+- [[Tokyo Electron]]
+- [[KLA Corporation]]
 
 ### 下游客户
-- [[DELL]]
 - [[CSCO]]
-- [[MSFT]]
 - [[AAPL]]
-- [[Industrial automation and IoT device makers]]
+- [[QCOM]]
+- [[MSFT]]
+- [[AMZN]]
 
 ### 竞争对手
-- [[INTC]]
 - [[QCOM]]
+- [[INTC]]
 - [[NVDA]]
-- [[MRVL]]
 - [[TXN]]
+- [[MU]]
 
 ### 核心产品
-- [[Ethernet and networking ASICs]]
-- [[Wi‑Fi and Bluetooth chips]]
-- [[Broadband modem and set‑top box processors]]
-- [[Storage controller chips (e.g., SATA, NVMe)]]
-- [[Enterprise security and virtualization solutions]]
+- [[Wireless communication chips]]
+- [[Broadband and networking ASICs]]
+- [[Data center storage controllers]]
+- [[Enterprise networking solutions]]
+- [[Security and encryption chips]]
 
 ## 数据来源
 
-- [Broadcom](https://en.wikipedia.org/wiki/Broadcom_Inc.)
-- [Broadcom Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/Broadcom)
+- 
 - [Broadcom Inc. suppliers manufacturers](https://csimarket.com/stocks/AVGO-Suppliers)
-- [Broadcom Inc. major customers clients](https://en.wikipedia.org/wiki/Broadcom)
-- [Broadcom Inc. major customers clients](https://csimarket.com/stocks/markets_glance.php?code=AVGO)
+- [Broadcom Inc. suppliers manufacturers](https://www.youtube.com/channel/UCTr3zah69bISSVdBcHiKhpA)
+- [Broadcom Inc. major customers clients](https://news.broadcom.com/category/customers)
+- [Broadcom Inc. major customers clients](https://www.appsruntheworld.com/customers-database/vendors/view/broadcom)
 
 ## 元数据
 
-- **更新日期**: 2026-06-04
+- **更新日期**: 2026-06-05

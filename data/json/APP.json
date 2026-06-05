@@ -4,18 +4,18 @@
   "sector": "Communication Services",
   "industry": "Advertising Agencies",
   "upstream": [
-    "AAPL",
-    "Data and analytics vendors (e.g., Adjust, Appsflyer)",
-    "GOOGL",
-    "MSFT",
-    "Mobile app development platforms (e.g., Unity, Unreal Engine)"
+    "Cloud service providers (AWS, Azure)",
+    "Data analytics vendors",
+    "Ad tech platform partners",
+    "Mobile SDK development tools",
+    "Marketing technology vendors"
   ],
   "downstream": [
-    "Mobile game developers and publishers",
-    "App developers across various verticals (e.g., finance, health, e‑commerce)",
-    "Digital media companies",
-    "E‑commerce platforms",
-    "Social networking apps"
+    "Mobile app developers",
+    "Game developers",
+    "Digital advertisers",
+    "Brand marketing agencies",
+    "E-commerce app owners"
   ],
   "competitors": [
     "Unity Ads",
@@ -25,13 +25,13 @@
     "Chartboost"
   ],
   "key_products": [
-    "AppLovin MAX (mobile ad mediation platform)",
-    "AppLovin SDK (in‑app advertising and analytics)",
-    "AppLovin Analytics (user acquisition & retention insights)",
-    "AppLovin LTV (lifetime value prediction tools)",
-    "AppLovin Ad Studio (creative and campaign management)"
+    "Mobile advertising SDK",
+    "App monetization platform",
+    "Marketing solutions",
+    "Data analytics & attribution",
+    "Audience targeting tools"
   ],
-  "extracted_at": "2026-06-04 18:16:50",
+  "extracted_at": "2026-06-05 17:53:31",
   "sources": [
     {
       "source": "Wikipedia",
@@ -49,19 +49,19 @@
       "source": "DuckDuckGo",
       "url": "https://www.tipranks.com/stocks/app/stock-analysis",
       "query": "AppLovin Corporation suppliers manufacturers",
-      "snippet": "AppLovin 's strong financial performance and positive earnings call insights are major strengths, showcasing robust growth and strategic focus. Howeve"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.applovin.com/",
-      "query": "AppLovin Corporation major customers clients",
-      "snippet": "AppLovin enables businesses to advertise profitably with marketing technologies that attract customers , increase revenue, and track ad performance."
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.tipranks.com/stocks/app/stock-analysis",
-      "query": "AppLovin Corporation major customers clients",
       "snippet": "Get a real-time AppLovin Corp . Class A (APP) stock analysis report, powered by AI. AppLovin Corporate Events. Executive/Board ChangesShareholder Meet"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/AppLovin",
+      "query": "AppLovin Corporation major customers clients",
+      "snippet": "AppLovin Corporation is an American mobile technology company headquartered in Palo Alto, California. [3] Founded in 2012, the company helps developer"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.appsruntheworld.com/customers-database/vendors/view/applovin",
+      "query": "AppLovin Corporation major customers clients",
+      "snippet": "List of companies using or evaluating Applovin applications, with details on their revenues, employees, industries, and locations."
     }
   ]
 }

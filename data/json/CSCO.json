@@ -1,37 +1,37 @@
 {
   "ticker": "CSCO",
   "company_name": "Cisco Systems, Inc.",
-  "sector": "Technology",
-  "industry": "Communication Equipment",
+  "sector": "Technology / Communication Equipment",
+  "industry": "Networking Equipment",
   "upstream": [
+    "Reactivity Inc",
     "INTC",
     "AVGO",
     "QCOM",
-    "TXN",
     "NVDA"
   ],
   "downstream": [
-    "AT&T",
-    "Verizon",
-    "Comcast",
-    "GOOGL",
-    "AMZN"
+    "Enterprise IT departments",
+    "CAT",
+    "Government agencies",
+    "CAT",
+    "Financial institutions"
   ],
   "competitors": [
     "JNPR",
-    "Huawei",
     "ANET",
-    "Nokia",
-    "Ericsson"
+    "Huawei",
+    "HPQ",
+    "Netgear"
   ],
   "key_products": [
     "Cisco routers",
     "Cisco switches",
-    "Cisco firewalls",
-    "Webex",
-    "OpenDNS"
+    "Cisco Webex",
+    "Cisco OpenDNS",
+    "Cisco Jabber"
   ],
-  "extracted_at": "2026-06-04 18:19:52",
+  "extracted_at": "2026-06-05 17:52:38",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,7 +43,7 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Cisco",
       "query": "Cisco Systems, Inc. suppliers manufacturers",
-      "snippet": "Cisco Systems , Inc ., doing business as Cisco , is an American multinational technology conglomerate corporation that develops, manufactures , and se"
+      "snippet": "In March 2007, Cisco acquired Reactivity Inc , a privately held XML gateway provider based in Redwood City, California."
     },
     {
       "source": "DuckDuckGo",
@@ -55,13 +55,13 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Cisco",
       "query": "Cisco Systems, Inc. major customers clients",
-      "snippet": "Cisco Systems , Inc ., doing business as Cisco , is an American multinational technology conglomerate corporation that develops, manufactures, and sel"
+      "snippet": "Cisco Systems , Inc ., doing business as Cisco, is an American multinational technology conglomerate corporation that develops, manufactures, and sell"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ru.wikipedia.org/wiki/Cisco",
+      "url": "https://www.cisco.com/site/us/en/about/case-studies-customer-stories/index.html",
       "query": "Cisco Systems, Inc. major customers clients",
-      "snippet": "Cisco Systems , «Сиско Системз» — американская транснациональная компания, разрабатывающая и продающая сетевое оборудование, предназначенное в основно"
+      "snippet": "Read Cisco case studies and customer success stories highlighting the ways organizations have realized their goals and helped drive outcomes."
     }
   ]
 }

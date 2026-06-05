@@ -1,13 +1,37 @@
 {
   "ticker": "IREN",
   "company_name": "IREN Limited",
-  "sector": "Financial Services",
-  "industry": "Capital Markets",
-  "upstream": [],
-  "downstream": [],
-  "competitors": [],
-  "key_products": [],
-  "extracted_at": "2026-06-04 18:13:05",
+  "sector": "Financial Services / Capital Markets",
+  "industry": "AI Cloud & Data Center Services",
+  "upstream": [
+    "NVDA",
+    "AMD",
+    "INTC",
+    "Siemens Energy",
+    "TSLA"
+  ],
+  "downstream": [
+    "AMZN",
+    "MSFT",
+    "GOOGL",
+    "Alibaba Cloud",
+    "IBM"
+  ],
+  "competitors": [
+    "AMZN",
+    "MSFT",
+    "GOOGL",
+    "Alibaba Cloud",
+    "IBM"
+  ],
+  "key_products": [
+    "AI Cloud Services",
+    "GPU Clusters",
+    "Renewable-Powered Data Centers",
+    "AI Infrastructure",
+    "Cloud Computing Platforms"
+  ],
+  "extracted_at": "2026-06-05 17:52:28",
   "sources": [
     {
       "source": "Wikipedia",
@@ -17,15 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.investing.com/equities/iris-energy",
+      "url": "https://csimarket.com/stocks/suppliers_glance.php?code=IREN",
       "query": "IREN Limited suppliers manufacturers",
-      "snippet": "IREN Ltd stock price live, this page displays NASDAQ IREN stock exchange data. View the IREN premarket stock price ahead of the market session or asse"
+      "snippet": "Iren Limited supply chain, list and performance of Iren Limiteds' suppliers - CSIMarket"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ca.finance.yahoo.com/quote/IREN/",
+      "url": "https://www.iren.com/",
       "query": "IREN Limited suppliers manufacturers",
-      "snippet": "Find the latest IREN Limited ( IREN ) stock quote, history, news and other vital information to help you with your stock trading and investing."
+      "snippet": "Explore IREN 's 100% renewable-powered data centers offering AI Cloud, GPU clusters, colocation, and build-to-suit infrastructure for scalable compute"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.fool.com/investing/2026/06/05/why-iren-limited-rallied-almost-40-in-may/",
+      "query": "IREN Limited major customers clients",
+      "snippet": "Shares of AI neocloud IREN Limited ( IREN 5.21%) rallied 39.6% in May, according to data from S&P Global Market Intelligence.Mirantis has 1,500 enterp"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.investing.com/equities/iris-energy",
+      "query": "IREN Limited major customers clients",
+      "snippet": "View today's IREN Ltd stock price and latest IREN news and analysis. Create real-time notifications to follow any changes in the live stock price."
     }
   ]
 }

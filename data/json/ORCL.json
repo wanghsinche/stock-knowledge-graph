@@ -6,32 +6,32 @@
   "upstream": [
     "INTC",
     "AMD",
-    "NVDA",
     "DELL",
-    "HPQ"
+    "HPQ",
+    "CSCO"
   ],
   "downstream": [
-    "JPMorgan Chase",
+    "Air France-KLM",
+    "Argonne National Laboratory",
     "Bank of America",
-    "Walmart",
-    "AT&T",
-    "NASA"
+    "JPMorgan Chase",
+    "Walmart"
   ],
   "competitors": [
     "MSFT",
-    "AMZN",
     "IBM",
     "SAP",
-    "GOOGL"
+    "CRM",
+    "AMZN"
   ],
   "key_products": [
     "Oracle Database",
     "Oracle Cloud Infrastructure",
-    "Oracle Autonomous Database",
-    "Oracle Fusion Applications",
-    "Oracle ERP Cloud"
+    "Oracle E-Business Suite",
+    "Oracle Fusion Middleware",
+    "Oracle Autonomous Database"
   ],
-  "extracted_at": "2026-06-04 18:11:43",
+  "extracted_at": "2026-06-05 17:49:33",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Oracle_Corporation",
+      "url": "https://en.wikipedia.org/wiki/List_of_acquisitions_by_Oracle",
       "query": "Oracle Corporation suppliers manufacturers",
-      "snippet": "Oracle acquired Rdb in 1994 from Digital Equipment Corporation . Oracle has since made many enhancements to this product and development continues as "
+      "snippet": "List of acquisitions by Oracle This is a listing of Oracle Corporation 's corporate acquisitions, including acquisitions of both companies and individ"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ru.wikipedia.org/wiki/Oracle",
+      "url": "https://www.oracle.com/corporate/suppliers/",
       "query": "Oracle Corporation suppliers manufacturers",
-      "snippet": "Oracle — американская корпорация, второй по размеру выручки разработчик программного обеспечения, четвёртая крупнейшая компания в сфере информационных"
+      "snippet": "Doing Business with Oracle Oracle iSupplier Portal (iSP) is a secured self-service tool, which provides Oracle's suppliers with the ability to use a s"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Oracle_Corporation",
+      "url": "https://www.thomsondata.com/customer-base/oracle.php",
       "query": "Oracle Corporation major customers clients",
-      "snippet": "Oracle Corporation is an American multinational technology company headquartered in Austin, Texas.Additionally, clients of Cerner have reported minima"
+      "snippet": "Technographic Data of Companies That Use Oracle Oracle Customers List by Industry Different industries use Oracle technology for their business . Look"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.oracle.com/corporate/",
+      "url": "https://www.oracle.com/customers/earnings/",
       "query": "Oracle Corporation major customers clients",
-      "snippet": "Read Oracle news. Corporate responsibility. Oracle at 30 continues to grow and innovate. Oracle turns 30, with revenues of US$18B, 65,000 employees, a"
+      "snippet": "Customer highlights from Q3 FY26 earnings Thank you, Air France-KLM, Argonne National Laboratory, Lockheed Martin, Louis Vuitton, Paramount, SoftBank,"
     }
   ]
 }

@@ -2,20 +2,20 @@
   "ticker": "UNH",
   "company_name": "UnitedHealth Group Incorporated",
   "sector": "Healthcare",
-  "industry": "Health Insurance / Health Care Services",
+  "industry": "Healthcare Plans",
   "upstream": [
+    "Pharmaceutical manufacturers",
     "Medical device manufacturers",
-    "Pharmaceutical companies",
-    "Health technology vendors",
-    "Pharmacy benefit managers",
-    "Data analytics providers"
+    "Health care service providers",
+    "Health IT technology vendors",
+    "Data analytics service providers"
   ],
   "downstream": [
-    "Large corporate employers",
-    "Government agencies (Medicare, Medicaid)",
-    "State health plans",
-    "Individual consumers",
-    "Health care providers (hospitals, clinics)"
+    "Employers and corporate clients",
+    "Government health programs (Medicare, Medicaid)",
+    "Individual policyholders",
+    "Health care providers (hospitals, clinics)",
+    "Pharmacy benefit management clients"
   ],
   "competitors": [
     "Anthem",
@@ -25,19 +25,25 @@
     "CVS Health (Aetna)"
   ],
   "key_products": [
-    "UnitedHealthcare insurance plans",
-    "Medicare Advantage",
+    "Commercial health insurance plans",
+    "Medicare Advantage plans",
     "Medicaid managed care",
     "OptumRx pharmacy benefit management",
-    "OptumInsight data analytics"
+    "Optum health services"
   ],
-  "extracted_at": "2026-06-04 18:12:34",
+  "extracted_at": "2026-06-05 17:51:09",
   "sources": [
     {
       "source": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/UnitedHealth_Group_Incorporated",
-      "title": "UnitedHealth Group",
-      "snippet": "UnitedHealth Group Incorporated is an American multinational for-profit company based in Eden Prairie, Minnesota, specializing in health insurance and health care services. Selling insurance products "
+      "url": "",
+      "title": "",
+      "snippet": ""
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/UNH-Shares-vs-Suppliers",
+      "query": "UnitedHealth Group Incorporated suppliers manufacturers",
+      "snippet": "Unitedhealth Group Incorporated vs Suppliers , today, this week, 30 days, 90 days, year to date stock performance comparison. Unitedhealth Group Incor"
     },
     {
       "source": "DuckDuckGo",
@@ -47,21 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/sectors/healthcare/articles/unitedhealth-vs-molina-managed-care-171600243.html",
-      "query": "UnitedHealth Group Incorporated suppliers manufacturers",
-      "snippet": "UnitedHealth Group Incorporated Price, Consensus and EPS Surprise. UnitedHealth Group Incorporated price-consensus-eps-surprise-chart | UnitedHealth G"
+      "url": "https://en.wikipedia.org/wiki/UnitedHealth_Group",
+      "query": "UnitedHealth Group Incorporated major customers clients",
+      "snippet": "UnitedHealth Group Incorporated is an American multinational for-profit company based in Eden Prairie, Minnesota, specializing in health insurance and"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/why-unitedhealth-unh-slid-q1-130649391.html",
+      "url": "https://csimarket.com/stocks/UNH-Customers",
       "query": "UnitedHealth Group Incorporated major customers clients",
-      "snippet": "UnitedHealth Group Incorporated (NYSE:UNH) is a multinational health benefits company based in Eden Prairie, Minnesota. On May 28, 2026, UnitedHealth "
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.quiverquant.com/news/UnitedHealth+Group+Stock+(UNH)+Opinions+on+Healthcare+Sector+Trading",
-      "query": "UnitedHealth Group Incorporated major customers clients",
-      "snippet": "UnitedHealth Group Hedge Fund Activity. We have seen 1,341 institutional investors add shares of UnitedHealth Group stock to their portfolio, and 1,96"
+      "snippet": "Unitedhealth Group Incorporated 's Comment on Sales, Marketing and Customers UnitedHealthcare International participates in international markets thro"
     }
   ]
 }

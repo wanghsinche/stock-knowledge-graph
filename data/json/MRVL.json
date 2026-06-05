@@ -4,34 +4,34 @@
   "sector": "Technology",
   "industry": "Semiconductors",
   "upstream": [
-    "TSM",
-    "005930.KS",
-    "GlobalFoundries",
-    "INTC",
-    "TSM"
+    "AMAT",
+    "ASML",
+    "LRCX",
+    "Tokyo Electron",
+    "KLA"
   ],
   "downstream": [
-    "STX",
-    "NetApp",
-    "DELL",
     "CSCO",
-    "Huawei Technologies"
+    "Huawei",
+    "DELL",
+    "AMZN",
+    "005930.KS"
   ],
   "competitors": [
     "AVGO",
     "INTC",
     "QCOM",
     "NVDA",
-    "AMD"
+    "MediaTek"
   ],
   "key_products": [
-    "Storage controllers",
-    "Network processors",
-    "Wi‑Fi chips",
     "Ethernet controllers",
-    "NVMe controllers"
+    "Storage controllers (NVMe, SATA)",
+    "Wireless connectivity chips (Wi‑Fi, Bluetooth, LTE, 5G)",
+    "System‑on‑Chip for automotive",
+    "Network processors"
   ],
-  "extracted_at": "2026-06-04 18:08:50",
+  "extracted_at": "2026-06-05 17:47:40",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,21 +47,21 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.marvell.com/",
+      "url": "https://csimarket.com/stocks/MRVL-Suppliers",
       "query": "Marvell Technology, Inc. suppliers manufacturers",
-      "snippet": "Watch the latest. Marvell Essential Technology Videos. Marvell designs custom silicon tailored for any application and offers the industry’s most comp"
+      "snippet": "May 29, 2026 · Marvell Technology Inc 's Suppliers recorded an increase in sales by 27.61 % year on year in Q1 2026, sequentially sales grew by 13.14 "
     },
     {
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Marvell_Technology",
       "query": "Marvell Technology, Inc. major customers clients",
-      "snippet": "2 days ago - Seagate Technology became its first customer. The company's initial public offering of 6 million shares on NASDAQ under the ticker symbol"
+      "snippet": "Marvell Technology , Inc . is an American company, headquartered in Santa Clara, California, which develops and produces semiconductors and related te"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/markets_glance.php?code=MRVL",
+      "url": "https://finance.yahoo.com/quote/MRVL/",
       "query": "Marvell Technology, Inc. major customers clients",
-      "snippet": "2 days ago - Marvell Technology Inc customers and markets, results by customer and performance relative to MRVL, by company and industry - CSIMarket"
+      "snippet": "Find the latest Marvell Technology , Inc . (MRVL) stock quote, history, news and other vital information to help you with your stock trading and inves"
     }
   ]
 }

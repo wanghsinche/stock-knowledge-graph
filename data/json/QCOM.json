@@ -7,31 +7,31 @@
     "TSM",
     "005930.KS",
     "GlobalFoundries",
-    "ASE Group",
-    "Amkor Technology"
+    "MU",
+    "ON Semiconductor"
   ],
   "downstream": [
     "AAPL",
     "005930.KS",
     "Huawei Technologies",
-    "Xiaomi Corp.",
-    "Oppo Mobile"
+    "Xiaomi Inc.",
+    "GOOGL"
   ],
   "competitors": [
     "MediaTek Inc.",
     "AVGO",
-    "005930.KS",
+    "INTC",
     "AAPL",
-    "INTC"
+    "NXP Semiconductors"
   ],
   "key_products": [
-    "Snapdragon 8 Gen 2 SoC",
-    "Snapdragon 5G Modems (X65, X60)",
-    "RF Front‑End Modules",
-    "Wi‑Fi 6/7 Chips",
-    "Snapdragon Automotive SoC"
+    "Snapdragon mobile SoCs",
+    "5G modem chips",
+    "AI processors",
+    "RF and baseband chips",
+    "Wi‑Fi and Bluetooth modules"
   ],
-  "extracted_at": "2026-06-04 18:14:02",
+  "extracted_at": "2026-06-05 17:50:59",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ru.wikipedia.org/wiki/Qualcomm",
-      "query": "QUALCOMM Incorporated suppliers manufacturers",
-      "snippet": "Qualcomm , «Куалкомм» — компания по разработке и производству микросхем для мобильных телефонов и другой электроники, включая семейство систем на крис"
-    },
-    {
-      "source": "DuckDuckGo",
       "url": "https://data.ark.ai/analysis/suppliers/qualcomm-incorporated-supplier-profile-overview",
       "query": "QUALCOMM Incorporated suppliers manufacturers",
       "snippet": "Ark.ai conducted a vendor and supply chain analysis of QUALCOMM Incorporated , examining their subcontractors, subsidiaries, list of suppliers , manuf"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/apple-house-modem-chips-threaten-132313888.html",
-      "query": "QUALCOMM Incorporated major customers clients",
-      "snippet": "One-month return of QUALCOMM Incorporated (NASDAQ:QCOM) was 37.44%, and its shares gained 67.56% over the past 52 weeks. QUALCOMM Incorporated (NASDAQ"
+      "url": "https://qualcomm.com/",
+      "query": "QUALCOMM Incorporated suppliers manufacturers",
+      "snippet": "Director of product management, Qualcomm Technologies, Inc ."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://qualcomm.com/",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/apple-house-modem-chips-threaten-132313888.html",
       "query": "QUALCOMM Incorporated major customers clients",
-      "snippet": "Director of product management, Qualcomm Technologies, Inc ."
+      "snippet": "Apple's accelerating development of in-house modem chips threatens Qualcomm 's largest customer relationship, and escalating US-China trade tensions c"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.qualcomm.com/",
+      "query": "QUALCOMM Incorporated major customers clients",
+      "snippet": "Learn how Qualcomm transforms industries with leading edge AI, high-performance, low-power computing and unrivaled connectivity."
     }
   ]
 }

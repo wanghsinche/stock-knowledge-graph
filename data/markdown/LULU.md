@@ -2,56 +2,56 @@
 ticker: LULU
 company: Lululemon Athletica Inc.
 sector: Consumer Cyclical / Apparel Retail
-industry: Apparel Retail
-extracted_at: 2026-04-23 17:18:37
-last_updated: 2026-04-23
+industry: Athletic Apparel
+extracted_at: 2026-06-05 17:56:00
+last_updated: 2026-06-05
 ---
 
 # LULU - Lululemon Athletica Inc.
 
 ## 基本信息
 
-- **所属行业**: Consumer Cyclical / Apparel Retail / Apparel Retail
-- **提取时间**: 2026-04-23 17:18:37
+- **所属行业**: Consumer Cyclical / Apparel Retail / Athletic Apparel
+- **提取时间**: 2026-06-05 17:56:00
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Gildan]]
-- [[Hanes]]
-- [[Joma]]
-- [[TSC Apparel]]
-- [[Other textile manufacturers]]
+- [[Textile manufacturers]]
+- [[Fabric suppliers]]
+- [[Footwear manufacturers]]
+- [[Packaging suppliers]]
+- [[Sustainable material partners]]
 
 ### 下游客户
-- [[Individual consumers]]
-- [[Corporate wellness programs]]
-- [[Fitness studios]]
-- [[Online shoppers]]
-- [[Wholesale partners]]
+- [[Fitness enthusiasts]]
+- [[Yoga practitioners]]
+- [[Athletes]]
+- [[Health‑conscious consumers]]
+- [[AMZN]]
 
 ### 竞争对手
 - [[Nike]]
 - [[Adidas]]
 - [[Under Armour]]
-- [[Athleta]]
+- [[Athleta (Gap)]]
 - [[Puma]]
 
 ### 核心产品
 - [[Yoga pants]]
-- [[Leggings]]
 - [[Sports bras]]
-- [[Tops]]
-- [[Outerwear]]
+- [[Running shorts]]
+- [[Athletic tops]]
+- [[Footwear]]
 
 ## 数据来源
 
-- [Lululemon](https://en.wikipedia.org/wiki/lululemon_athletica_inc.)
-- [lululemon athletica inc. suppliers manufacturers](https://corporate.lululemon.com/~/media/Files/L/Lululemon/lululemon-supplier-list-april-2024.pdf)
-- [lululemon athletica inc. suppliers manufacturers](https://www.sourcifychina.com/top-lululemon-supplier-compare/)
+- 
+- [lululemon athletica inc. suppliers manufacturers](https://en.wikipedia.org/wiki/Lululemon)
+- [lululemon athletica inc. suppliers manufacturers](https://shop.lululemon.com/)
 - [lululemon athletica inc. major customers clients](https://en.wikipedia.org/wiki/Lululemon)
-- [lululemon athletica inc. major customers clients](https://csimarket.com/stocks/LULU-Customers)
+- [lululemon athletica inc. major customers clients](https://shop.lululemon.com/)
 
 ## 元数据
 
-- **更新日期**: 2026-04-23
+- **更新日期**: 2026-06-05

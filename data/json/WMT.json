@@ -3,11 +3,35 @@
   "company_name": "Walmart Inc.",
   "sector": "Consumer Defensive",
   "industry": "Discount Stores",
-  "upstream": [],
-  "downstream": [],
-  "competitors": [],
-  "key_products": [],
-  "extracted_at": "2026-06-04 18:18:29",
+  "upstream": [
+    "Procter & Gamble",
+    "Coca-Cola",
+    "Nestlé",
+    "PepsiCo",
+    "Kraft Heinz"
+  ],
+  "downstream": [
+    "Individual consumers",
+    "Small businesses",
+    "Government agencies",
+    "Online shoppers",
+    "Local communities"
+  ],
+  "competitors": [
+    "Target",
+    "Costco",
+    "AMZN",
+    "Kroger",
+    "Aldi"
+  ],
+  "key_products": [
+    "Grocery items",
+    "Electronics",
+    "Clothing",
+    "Pharmacy products",
+    "Fuel"
+  ],
+  "extracted_at": "2026-06-05 17:52:16",
   "sources": [
     {
       "source": "Wikipedia",
@@ -17,15 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Walmart",
+      "url": "https://corporate.walmart.com/suppliers",
       "query": "Walmart Inc. suppliers manufacturers",
-      "snippet": "The company was incorporated under Delaware General Corporation Law as Wal - Mart , Inc . on October 31, 1969, and changed its name to Wal - Mart Stor"
+      "snippet": "The Walmart Sustainability Hub is a destination for Walmart suppliers to access resources and learn about opportunities to collaborate with Walmart, j"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/suppliers_glance.php?code=WMT",
+      "url": "https://csimarket.com/stocks/WMT-Suppliers",
       "query": "Walmart Inc. suppliers manufacturers",
-      "snippet": "Among Walmart Inc suppliers , the revenue of Generac Holdings Inc has shown a strong correlation over the past 2 years."
+      "snippet": "6 days ago · Walmart Inc supply chain, list and performance of Walmart Incs' suppliers - CSIMarket"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://capitaloneshopping.com/research/walmart-statistics/",
+      "query": "Walmart Inc. major customers clients",
+      "snippet": "Nov 6, 2025 · Latest available data on Walmart 's size and market share, both offline and online, with total sales and revenue breakdowns by year."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/WMT-Customers",
+      "query": "Walmart Inc. major customers clients",
+      "snippet": "6 days ago · Walmart Inc customers and markets, results by customer and performance relative to WMT, by company and industry - CSIMarket"
     }
   ]
 }

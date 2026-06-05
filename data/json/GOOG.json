@@ -4,68 +4,64 @@
   "sector": "Communication Services",
   "industry": "Internet Content & Information",
   "upstream": [
+    "INTC",
+    "NVDA",
     "QCOM",
-    "005930.KS",
-    "Foxconn",
-    "TSM",
-    "SONY"
+    "CSCO",
+    "MSFT"
   ],
   "downstream": [
-    "GOOGL",
-    "Android app developers",
-    "YouTube content creators",
-    "GOOGL",
+    "Advertisers",
+    "App developers",
+    "Enterprise customers",
+    "Android device manufacturers",
     "GOOGL"
   ],
   "competitors": [
     "MSFT",
     "AMZN",
-    "AAPL",
     "META",
+    "AAPL",
     "Tencent"
   ],
   "key_products": [
     "Google Search",
-    "Android OS",
     "YouTube",
+    "Android",
     "Google Cloud Platform",
-    "Google Ads",
-    "Google Chrome",
-    "Google Maps",
-    "Google Workspace",
-    "Google Play"
+    "Google Ads"
   ],
-  "extracted_at": "2026-06-04 18:10:10",
+  "extracted_at": "2026-06-05 17:49:09",
   "sources": [
     {
       "source": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Alphabet_Inc.",
-      "title": "Alphabet Inc.",
-      "snippet": "Alphabet Inc. is an American multinational technology conglomerate holding company headquartered in Mountain View, California. It was created through a restructuring of Google on October 2, 2015, and "
+      "url": "",
+      "title": "",
+      "snippet": ""
     },
     {
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Alphabet_Inc.",
       "query": "Alphabet Inc. suppliers manufacturers",
-      "snippet": "Alphabet Inc . is an American multinational technology conglomerate holding company headquartered in Mountain View, California."
+      "snippet": "Alphabet Inc . is an American multinational technology conglomerate holding company headquartered in Mountain View, California. It was created through"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://csimarket.com/stocks/GOOG-Suppliers",
       "query": "Alphabet Inc. suppliers manufacturers",
-      "snippet": "Alphabet Inc 's Comment on Supply Chain. We rely on third parties to manufacture many of our assemblies and finished products, and we have third-party"
+      "snippet": "Alphabet Inc supply chain, list and performance of Alphabet Incs ' suppliers - CSIMarket."
     },
     {
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Alphabet_Inc.",
       "query": "Alphabet Inc. major customers clients",
-      "snippet": "Alphabet is mainly owned by institutional investors, who own over 60% of shares. The founders Larry Page and Sergey Brin each control around 3% of all"
+      "snippet": "Alphabet Inc . is an American multinational technology conglomerate holding company headquartered in Mountain View, California. It was created through"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/GOOGL/",
+      "url": "https://csimarket.com/stocks/GOOG-Customers",
       "query": "Alphabet Inc. major customers clients",
-      "snippet": "Find the latest Alphabet Inc . (GOOGL) stock quote, history, news and other vital information to help you with your stock trading and investing."
+      "snippet": "Alphabet Inc customers and markets, results by customer and performance relative to GOOG, by company and industry - CSIMarket"
     }
   ]
 }

@@ -6,32 +6,32 @@
   "upstream": [
     "NVDA",
     "AMD",
-    "INTC",
-    "QCOM",
-    "AVGO"
+    "AWS",
+    "MSFT",
+    "GOOGL"
   ],
   "downstream": [
-    "GOOGL",
-    "MSFT",
-    "AMZN",
-    "IBM",
-    "ORCL"
+    "U.S. Federal Government",
+    "Department of Defense",
+    "Department of Homeland Security",
+    "Large enterprises",
+    "Research institutions"
   ],
   "competitors": [
     "OpenAI",
+    "Anthropic",
     "GOOGL",
-    "MSFT",
-    "AMZN",
-    "IBM"
+    "AWS AI Services",
+    "MSFT"
   ],
   "key_products": [
-    "Nebius AI Platform",
+    "AI infrastructure platform",
     "Avride",
     "TripleTen",
     "Toloka",
     "Clickhouse"
   ],
-  "extracted_at": "2026-06-04 18:13:15",
+  "extracted_at": "2026-06-05 17:49:47",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,25 +43,25 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Nebius_Group",
       "query": "NBIS suppliers manufacturers",
-      "snippet": "Nebius Group N.V., headquartered in Amsterdam, is a technology company that provides artificial intelligence infrastructure."
+      "snippet": "Nebius Group N.V., headquartered in Amsterdam, is a technology company [3] that provides artificial intelligence infrastructure. [4] The company also "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/suppliers_glance.php?code=NBIS",
+      "url": "https://www.dcsa.mil/Systems-Applications/National-Background-Investigation-Services-NBIS/",
       "query": "NBIS suppliers manufacturers",
-      "snippet": "NBIS 's Suppliers Management Effectiveness. NBIS 's Competitors Results. NBIS 's vs. Suppliers , Data. (Revenue and Income for Trailing 12 Months, in "
+      "snippet": "NBIS is the Federal government’s IT system for end-to-end process for personnel vetting. This starts with the initiation and application for a backgro"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.bloomberg.com/quote/NBIS:US",
+      "url": "https://en.wikipedia.org/wiki/Nebius_Group",
       "query": "NBIS major customers clients",
-      "snippet": "Stock analysis for Nebius Group NV ( NBIS :NASDAQ GS) including stock price, stock chart, company news, key statistics, fundamentals and company profi"
+      "snippet": "Nebius Group N.V., headquartered in Amsterdam, is a technology company [3] that provides artificial intelligence infrastructure. [4] The company also "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.nasdaq.com/market-activity/stocks/nbis",
+      "url": "https://www.dcsa.mil/Systems-Applications/National-Background-Investigation-Services-NBIS/",
       "query": "NBIS major customers clients",
-      "snippet": "Data Disclaimer: The Nasdaq Indices and the Major Indices are delayed at least 1 minute. Real-time Data is provided using Nasdaq Last Sale Data."
+      "snippet": "NBIS is the Federal government’s IT system for end-to-end process for personnel vetting. This starts with the initiation and application for a backgro"
     }
   ]
 }
