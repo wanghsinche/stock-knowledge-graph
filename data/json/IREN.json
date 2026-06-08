@@ -2,36 +2,36 @@
   "ticker": "IREN",
   "company_name": "IREN Limited",
   "sector": "Financial Services / Capital Markets",
-  "industry": "AI Cloud & Data Center Services",
+  "industry": "Data Center & Cloud Services",
   "upstream": [
-    "NVDA",
-    "AMD",
-    "INTC",
-    "Siemens Energy",
-    "TSLA"
+    "DELL",
+    "HPQ",
+    "CSCO",
+    "JNPR",
+    "NetApp"
   ],
   "downstream": [
     "AMZN",
     "MSFT",
     "GOOGL",
-    "Alibaba Cloud",
-    "IBM"
+    "IBM",
+    "ORCL"
   ],
   "competitors": [
-    "AMZN",
-    "MSFT",
-    "GOOGL",
-    "Alibaba Cloud",
-    "IBM"
+    "Equinix",
+    "Digital Realty",
+    "CyrusOne",
+    "CoreSite",
+    "QTS"
   ],
   "key_products": [
-    "AI Cloud Services",
-    "GPU Clusters",
-    "Renewable-Powered Data Centers",
-    "AI Infrastructure",
-    "Cloud Computing Platforms"
+    "Colocation",
+    "Interconnection",
+    "Cloud Services",
+    "Managed Services",
+    "Edge Computing"
   ],
-  "extracted_at": "2026-06-05 17:52:28",
+  "extracted_at": "2026-06-08 18:26:57",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/suppliers_glance.php?code=IREN",
+      "url": "https://www.sec.gov/Archives/edgar/data/1878848/000187884825000020/iren-20240630.htm",
       "query": "IREN Limited suppliers manufacturers",
-      "snippet": "Iren Limited supply chain, list and performance of Iren Limiteds' suppliers - CSIMarket"
+      "snippet": "... Company changed its name from Iris Energy Limited to IREN Limited. The Company's shares trade on the NASDAQ under the ticker symbol “IREN”. IREN L"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.iren.com/",
+      "url": "https://eaapartners.substack.com/p/iren-ltd",
       "query": "IREN Limited suppliers manufacturers",
-      "snippet": "Explore IREN 's 100% renewable-powered data centers offering AI Cloud, GPU clusters, colocation, and build-to-suit infrastructure for scalable compute"
+      "snippet": "Aug 11, 2025 · IREN is building more than datacenters, it's laying the foundation for a sovereign compute future. IREN is at the inflection point of a"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.fool.com/investing/2026/06/05/why-iren-limited-rallied-almost-40-in-may/",
       "query": "IREN Limited major customers clients",
-      "snippet": "Shares of AI neocloud IREN Limited ( IREN 5.21%) rallied 39.6% in May, according to data from S&P Global Market Intelligence.Mirantis has 1,500 enterp"
+      "snippet": "More important to IREN were the flurry of operational milestones and acquisitions announced during the month. In early May, IREN announced the energiz"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.investing.com/equities/iris-energy",
       "query": "IREN Limited major customers clients",
-      "snippet": "View today's IREN Ltd stock price and latest IREN news and analysis. Create real-time notifications to follow any changes in the live stock price."
+      "snippet": "IREN Ltd stock price live, this page displays NASDAQ IREN stock exchange data. View the IREN premarket stock price ahead of the market session or asse"
     }
   ]
 }

@@ -3,8 +3,8 @@ ticker: KLAC
 company: KLA Corporation
 sector: Technology
 industry: Semiconductor Equipment & Materials
-extracted_at: 2026-05-08 17:13:23
-last_updated: 2026-05-08
+extracted_at: 2026-06-08 18:28:18
+last_updated: 2026-06-08
 ---
 
 # KLAC - KLA Corporation
@@ -12,46 +12,46 @@ last_updated: 2026-05-08
 ## 基本信息
 
 - **所属行业**: Technology / Semiconductor Equipment & Materials
-- **提取时间**: 2026-05-08 17:13:23
+- **提取时间**: 2026-06-08 18:28:18
 
 ## 产业链关系
 
 ### 上游供应商
-- [[AMAT]]
-- [[LRCX]]
-- [[Tokyo Electron]]
-- [[ASML]]
-- [[Nikon]]
+- [[Optical component manufacturers]]
+- [[Semiconductor device component suppliers]]
+- [[Electronic component suppliers]]
+- [[Chemical suppliers for lithography and etching]]
+- [[Software vendors for process control]]
 
 ### 下游客户
-- [[INTC]]
-- [[005930.KS]]
 - [[TSM]]
-- [[MU]]
+- [[005930.KS]]
+- [[INTC]]
 - [[GlobalFoundries]]
+- [[UMC]]
 
 ### 竞争对手
 - [[AMAT]]
 - [[LRCX]]
 - [[Tokyo Electron]]
-- [[ASML]]
-- [[Nikon]]
+- [[Teradyne]]
+- [[Advantest]]
 
 ### 核心产品
-- [[Process Control Systems]]
-- [[Yield Management Systems]]
-- [[Metrology Instruments]]
-- [[Inspection Systems]]
-- [[Reticle Inspection Tools]]
+- [[KLA‑Tencor Metrology systems]]
+- [[KLA Inspection systems]]
+- [[KLA Process Control systems]]
+- [[KLA Advanced Process Control solutions]]
+- [[KLA 3D Metrology solutions]]
 
 ## 数据来源
 
-- [KLA Corporation](https://en.wikipedia.org/wiki/KLA_Corporation)
-- [KLA Corporation suppliers manufacturers](https://en.wikipedia.org/wiki/KLA_Corporation)
-- [KLA Corporation suppliers manufacturers](https://markets.financialcontent.com/stocks/article/stockstory-2026-5-6-qualcomm-kla-corporation-and-entegris-stocks-trade-up-what-you-need-to-know)
-- [KLA Corporation major customers clients](https://en.wikipedia.org/wiki/KLA_Corporation)
-- [KLA Corporation major customers clients](https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2ptczR6OUVCSEZWVHV5U19YZjlpZ0FQAQ?hl=en-PK&gl=PK&ceid=PK:en)
+- 
+- [KLA Corporation suppliers manufacturers](https://www.kla.com/company/environmental-social-governance)
+- [KLA Corporation suppliers manufacturers](https://www.companieshistory.com/kla-corporation/)
+- [KLA Corporation major customers clients](https://www.companieshistory.com/kla-corporation/)
+- [KLA Corporation major customers clients](https://www.youtube.com/watch?v=Ob29oWhsAQk)
 
 ## 元数据
 
-- **更新日期**: 2026-05-08
+- **更新日期**: 2026-06-08

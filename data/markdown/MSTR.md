@@ -1,18 +1,18 @@
 ---
 ticker: MSTR
-company: MicroStrategy Incorporated
-sector: Technology
-industry: Software - Application
-extracted_at: 2026-06-05 17:49:57
-last_updated: 2026-06-05
+company: Strategy Inc
+sector: Technology / Software - Application
+industry: Business Intelligence & Analytics
+extracted_at: 2026-06-08 18:25:12
+last_updated: 2026-06-08
 ---
 
-# MSTR - MicroStrategy Incorporated
+# MSTR - Strategy Inc
 
 ## 基本信息
 
-- **所属行业**: Technology / Software - Application
-- **提取时间**: 2026-06-05 17:49:57
+- **所属行业**: Technology / Software - Application / Business Intelligence & Analytics
+- **提取时间**: 2026-06-08 18:25:12
 
 ## 产业链关系
 
@@ -20,38 +20,38 @@ last_updated: 2026-06-05
 - [[MSFT]]
 - [[AMZN]]
 - [[GOOGL]]
-- [[IBM]]
-- [[ORCL]]
+- [[INTC]]
+- [[NVDA]]
 
 ### 下游客户
-- [[JPMorgan Chase]]
 - [[Bank of America]]
-- [[Walmart]]
-- [[Coca‑Cola]]
+- [[Citigroup]]
+- [[UnitedHealth Group]]
 - [[General Motors]]
+- [[U.S. Department of Defense]]
 
 ### 竞争对手
-- [[Tableau Software]]
+- [[Tableau]]
 - [[Qlik]]
 - [[MSFT]]
+- [[Looker]]
 - [[SAP BusinessObjects]]
-- [[ORCL]]
 
 ### 核心产品
-- [[MicroStrategy Desktop]]
+- [[MicroStrategy Analytics]]
 - [[MicroStrategy Cloud]]
 - [[MicroStrategy Mobile]]
-- [[MicroStrategy Analytics]]
-- [[MicroStrategy Data Visualization]]
+- [[MicroStrategy Data Warehouse]]
+- [[MicroStrategy Analytics Platform]]
 
 ## 数据来源
 
 - 
-- [Strategy Inc suppliers manufacturers](https://www.strategy.com/press/strategy-announces-legal-name-change-from-microstrategy-incorporated-to-strategy-inc_08-14-2025)
-- [Strategy Inc suppliers manufacturers](https://finance.yahoo.com/quote/STRK/profile/?fr=sycsrp_catchall)
+- [Strategy Inc suppliers manufacturers](https://www.strategy.com/software)
+- [Strategy Inc suppliers manufacturers](https://unilog.company/blog-articles/supply-chain-strategy-support-the-business-strategy/)
 - [Strategy Inc major customers clients](https://en.wikipedia.org/wiki/MicroStrategy)
-- [Strategy Inc major customers clients](https://www.strategy.inc/)
+- [Strategy Inc major customers clients](https://www.strategy.com/software/customer-stories)
 
 ## 元数据
 
-- **更新日期**: 2026-06-05
+- **更新日期**: 2026-06-08

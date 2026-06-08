@@ -3,8 +3,8 @@ ticker: AMAT
 company: Applied Materials, Inc.
 sector: Technology
 industry: Semiconductor Equipment & Materials
-extracted_at: 2026-06-05 17:52:58
-last_updated: 2026-06-05
+extracted_at: 2026-06-08 18:23:40
+last_updated: 2026-06-08
 ---
 
 # AMAT - Applied Materials, Inc.
@@ -12,46 +12,45 @@ last_updated: 2026-06-05
 ## 基本信息
 
 - **所属行业**: Technology / Semiconductor Equipment & Materials
-- **提取时间**: 2026-06-05 17:52:58
+- **提取时间**: 2026-06-08 18:23:40
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Siltronic AG]]
-- [[Sumitomo Silicon Industry]]
-- [[Tokyo Electron]]
-- [[KLA-Tencor]]
-- [[AMAT]]
+- [[Edwards Vacuum]]
+- [[Leybold]]
+- [[Pfeiffer Vacuum]]
+- [[Edmund Optics]]
+- [[Shin‑Etsu Chemical]]
 
 ### 下游客户
 - [[TSM]]
 - [[005930.KS]]
 - [[INTC]]
-- [[GlobalFoundries]]
 - [[MU]]
+- [[GlobalFoundries]]
 
 ### 竞争对手
+- [[ASML]]
 - [[LRCX]]
 - [[Tokyo Electron]]
-- [[ASML]]
 - [[KLA Corporation]]
-- [[AMAT]]
 
 ### 核心产品
-- [[Chemical Vapor Deposition (CVD) equipment]]
-- [[Atomic Layer Deposition (ALD) equipment]]
-- [[Etching equipment]]
-- [[Lithography equipment]]
-- [[Wafer cleaning systems]]
+- [[Chemical Vapor Deposition (CVD) systems]]
+- [[Physical Vapor Deposition (PVD) systems]]
+- [[Etch systems]]
+- [[Inspection & Metrology systems]]
+- [[Packaging equipment]]
 
 ## 数据来源
 
-- 
+- [Applied Materials](https://en.wikipedia.org/wiki/Applied_Materials,_Inc.)
 - [Applied Materials, Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/Applied_Materials)
-- [Applied Materials, Inc. suppliers manufacturers](https://csimarket.com/stocks/AMAT-Suppliers)
+- [Applied Materials, Inc. suppliers manufacturers](https://www.azonano.com/suppliers.aspx?SupplierID=462)
 - [Applied Materials, Inc. major customers clients](https://en.wikipedia.org/wiki/Applied_Materials)
-- [Applied Materials, Inc. major customers clients](https://www.appliedmaterials.com/us/en.html)
+- [Applied Materials, Inc. major customers clients](https://www.appliedmaterials.com/us/en/about.html)
 
 ## 元数据
 
-- **更新日期**: 2026-06-05
+- **更新日期**: 2026-06-08

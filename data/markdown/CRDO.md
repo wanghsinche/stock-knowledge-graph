@@ -3,8 +3,8 @@ ticker: CRDO
 company: Credo Technology Group Holding Ltd
 sector: Technology
 industry: Semiconductors
-extracted_at: 2026-06-05 17:51:33
-last_updated: 2026-06-05
+extracted_at: 2026-06-08 18:28:52
+last_updated: 2026-06-08
 ---
 
 # CRDO - Credo Technology Group Holding Ltd
@@ -12,46 +12,46 @@ last_updated: 2026-06-05
 ## 基本信息
 
 - **所属行业**: Technology / Semiconductors
-- **提取时间**: 2026-06-05 17:51:33
+- **提取时间**: 2026-06-08 18:28:52
 
 ## 产业链关系
 
 ### 上游供应商
-- [[ASML]]
-- [[AMAT]]
-- [[LRCX]]
-- [[Tokyo Electron]]
-- [[KLA]]
+- [[TSM]]
+- [[Packaging and assembly suppliers]]
+- [[Passive component manufacturers (resistors, capacitors)]]
+- [[Advanced packaging materials suppliers]]
+- [[E-beam lithography equipment vendors]]
 
 ### 下游客户
-- [[AMZN]]
-- [[GOOGL]]
-- [[MSFT]]
-- [[Alibaba]]
-- [[Huawei]]
+- [[NVDA]]
+- [[CSCO]]
+- [[CAT]]
+- [[High‑performance computing system integrators]]
+- [[Enterprise storage solution providers]]
 
 ### 竞争对手
-- [[NVDA]]
-- [[AMD]]
-- [[QCOM]]
-- [[MediaTek]]
 - [[AVGO]]
+- [[MRVL]]
+- [[Silicon Labs]]
+- [[AMD]]
+- [[Lattice Semiconductor]]
 
 ### 核心产品
-- [[Credo AI chip]]
-- [[Credo IoT chip]]
-- [[Credo 5G chip]]
-- [[Credo SoC]]
-- [[Credo microcontroller]]
+- [[High‑speed serial transceivers]]
+- [[High‑speed interconnect solutions]]
+- [[High‑speed memory interface IP]]
+- [[High‑speed I/O packaging solutions]]
+- [[AI‑optimized connectivity modules]]
 
 ## 数据来源
 
 - 
-- [Credo Technology Group Holding Ltd suppliers manufacturers](https://finance.yahoo.com/quote/CRDO/)
-- [Credo Technology Group Holding Ltd suppliers manufacturers](https://www.fool.com/earnings/call-transcripts/2025/06/02/credo-tech-crdo-q4-2025-earnings-call-transcript/)
-- [Credo Technology Group Holding Ltd major customers clients](https://csimarket.com/stocks/CRDO-Customers)
-- [Credo Technology Group Holding Ltd major customers clients](https://xueqiu.com/7367587733/350203491)
+- [Credo Technology Group Holding Ltd suppliers manufacturers](https://csimarket.com/stocks/competitionSEG2.php?code=CRDO)
+- [Credo Technology Group Holding Ltd suppliers manufacturers](https://credosemi.com/)
+- [Credo Technology Group Holding Ltd major customers clients](https://www.fool.com/earnings/call-transcripts/2025/06/02/credo-tech-crdo-q4-2025-earnings-call-transcript/)
+- [Credo Technology Group Holding Ltd major customers clients](https://csimarket.com/stocks/CRDO-Return-on-Investment-ROI.html)
 
 ## 元数据
 
-- **更新日期**: 2026-06-05
+- **更新日期**: 2026-06-08

@@ -1,13 +1,13 @@
 {
   "ticker": "CSCO",
   "company_name": "Cisco Systems, Inc.",
-  "sector": "Technology / Communication Equipment",
-  "industry": "Networking Equipment",
+  "sector": "Technology",
+  "industry": "Communication Equipment",
   "upstream": [
-    "Reactivity Inc",
     "INTC",
     "AVGO",
     "QCOM",
+    "TXN",
     "NVDA"
   ],
   "downstream": [
@@ -15,35 +15,35 @@
     "CAT",
     "Government agencies",
     "CAT",
-    "Financial institutions"
+    "Healthcare organizations"
   ],
   "competitors": [
     "JNPR",
+    "Huawei Technologies",
     "ANET",
-    "Huawei",
-    "HPQ",
-    "Netgear"
+    "Nokia",
+    "Ericsson"
   ],
   "key_products": [
-    "Cisco routers",
-    "Cisco switches",
-    "Cisco Webex",
-    "Cisco OpenDNS",
-    "Cisco Jabber"
+    "Routers",
+    "Switches",
+    "Firewalls",
+    "Wireless access points",
+    "SD‑WAN solutions"
   ],
-  "extracted_at": "2026-06-05 17:52:38",
+  "extracted_at": "2026-06-08 18:26:10",
   "sources": [
     {
       "source": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Cisco_Systems,_Inc.",
-      "title": "Cisco",
-      "snippet": "Cisco Systems, Inc., doing business as Cisco, is an American multinational technology conglomerate corporation that develops, manufactures, and sells hardware, software, telecommunications equipment a"
+      "url": "",
+      "title": "",
+      "snippet": ""
     },
     {
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Cisco",
       "query": "Cisco Systems, Inc. suppliers manufacturers",
-      "snippet": "In March 2007, Cisco acquired Reactivity Inc , a privately held XML gateway provider based in Redwood City, California."
+      "snippet": "Cisco Systems , Inc ., doing business as Cisco , is an American multinational technology conglomerate corporation that develops, manufactures , and se"
     },
     {
       "source": "DuckDuckGo",
@@ -55,7 +55,7 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Cisco",
       "query": "Cisco Systems, Inc. major customers clients",
-      "snippet": "Cisco Systems , Inc ., doing business as Cisco, is an American multinational technology conglomerate corporation that develops, manufactures, and sell"
+      "snippet": "Cisco specializes in specific tech markets, such as the Internet of things (IoT), domain security, videoconferencing, and energy management, including"
     },
     {
       "source": "DuckDuckGo",

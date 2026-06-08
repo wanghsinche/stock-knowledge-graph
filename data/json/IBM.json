@@ -1,37 +1,37 @@
 {
   "ticker": "IBM",
   "company_name": "International Business Machines Corporation",
-  "sector": "Technology / Information Technology Services",
+  "sector": "Technology",
   "industry": "Information Technology Services",
   "upstream": [
+    "TE Connectivity",
     "INTC",
-    "MU",
-    "005930.KS",
-    "STX",
-    "CSCO"
+    "DELL",
+    "CSCO",
+    "NVDA"
   ],
   "downstream": [
     "U.S. Federal Government",
-    "Bank of America",
-    "General Motors",
-    "UnitedHealth",
-    "Walmart"
+    "Banking & Financial Services",
+    "Healthcare & Life Sciences",
+    "CAT",
+    "Retail & Consumer Goods"
   ],
   "competitors": [
-    "Accenture",
     "MSFT",
+    "Accenture",
     "ORCL",
-    "AMZN",
-    "GOOGL"
+    "SAP",
+    "AMZN"
   ],
   "key_products": [
     "IBM Cloud",
-    "IBM Watson",
-    "IBM Power Systems",
-    "IBM z Systems",
-    "IBM Security"
+    "Watson AI",
+    "IBM Security",
+    "IBM Analytics",
+    "IBM Systems & Hardware"
   ],
-  "extracted_at": "2026-06-05 17:51:42",
+  "extracted_at": "2026-06-08 18:32:11",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,19 +43,19 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/IBM",
       "query": "International Business Machines Corporation suppliers manufacturers",
-      "snippet": "IBM was founded in 1911 as the Computing-Tabulating-Recording Company (CTR), a holding company of manufacturers of record-keeping and measuring system"
+      "snippet": "International Business Machines Corporation , doing business as IBM, is an American multinational technology company headquartered in Armonk, New York"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/IBM-Suppliers",
+      "url": "https://corpabuse.org/company/international-business-machines-corporation-ibm/",
       "query": "International Business Machines Corporation suppliers manufacturers",
-      "snippet": "Apr 24, 2026 · Sources: International Business Machines Corporation 's official press releases and regulatory filings; CSIMarket.com's supply-chain re"
+      "snippet": "TE Connectivity ( Supplier Of International Business Machines Corporation (IBM)). Significantly low wages, and production quotas which if not reached "
     },
     {
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/IBM",
       "query": "International Business Machines Corporation major customers clients",
-      "snippet": "International Business Machines Corporation , doing business as IBM, is an American multinational technology company headquartered in Armonk, New York"
+      "snippet": "International Business Machines Corporation , doing business as IBM (nicknamed Big Blue), is an American multinational technology company headquartere"
     },
     {
       "source": "DuckDuckGo",

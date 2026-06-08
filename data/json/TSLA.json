@@ -1,28 +1,28 @@
 {
   "ticker": "TSLA",
   "company_name": "Tesla, Inc.",
-  "sector": "Consumer Cyclical / Auto Manufacturers",
-  "industry": "Automotive",
+  "sector": "Consumer Cyclical",
+  "industry": "Auto Manufacturers",
   "upstream": [
     "Panasonic",
     "LG Chem",
     "CAT",
     "005930.KS",
-    "Bosch"
+    "SK Innovation"
   ],
   "downstream": [
     "Individual consumers",
-    "Fleet customers (e.g., Uber, Lyft)",
-    "AMZN",
-    "Utility companies (Powerwall/Powerpack)",
-    "Government agencies"
+    "Commercial fleet operators",
+    "Utility companies",
+    "Government agencies",
+    "Corporate leasing firms"
   ],
   "competitors": [
+    "Ford Motor Company",
     "General Motors",
-    "Ford",
-    "Volkswagen",
-    "Hyundai",
-    "Rivian"
+    "Volkswagen AG",
+    "Hyundai Motor Group",
+    "Rivian Automotive"
   ],
   "key_products": [
     "Model S",
@@ -36,7 +36,7 @@
     "Solar Roof",
     "Solar Panels"
   ],
-  "extracted_at": "2026-06-05 17:47:28",
+  "extracted_at": "2026-06-08 18:19:53",
   "sources": [
     {
       "source": "Wikipedia",
@@ -48,25 +48,25 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Tesla,_Inc.",
       "query": "Tesla, Inc. suppliers manufacturers",
-      "snippet": "Tesla , Inc . is an American multinational automotive and clean energy company.The company was incorporated in July 2003 by Martin Eberhard and Marc T"
+      "snippet": "The Tesla Semi is a Class 8 semi-truck by Tesla , Inc ., with a tri-motor, rear-wheel drive layout. Tesla states that the Semi has approximately three"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.investopedia.com/ask/answers/052815/who-are-teslas-tsla-main-suppliers.asp",
+      "url": "https://www.tesla.com/",
       "query": "Tesla, Inc. suppliers manufacturers",
-      "snippet": "Tesla Suppliers : Key and Rumored Parts Suppliers - Investop…"
+      "snippet": "Explore limited-time offers on Tesla vehicles."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/TSLA-Customers",
+      "url": "https://en.wikipedia.org/wiki/Tesla,_Inc.",
       "query": "Tesla, Inc. major customers clients",
-      "snippet": "May 2, 2026 · Tesla Inc customers and markets, results by customer and performance relative to TSLA, by company and industry - CSIMarket"
+      "snippet": "1 day ago - Tesla Energy products include solar panels (built by other companies for Tesla), the Tesla Solar Roof (a solar shingle system), and the Te"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.growthnavigate.com/tesla-target-customers",
+      "url": "https://www.tesla.com/customer-stories",
       "query": "Tesla, Inc. major customers clients",
-      "snippet": "Tesla target customers are typically affluent, tech-savvy, and environmentally conscious buyers. This guide breaks down who buys Tesla, by model, regi"
+      "snippet": "Incentives · Support · Partner with Tesla · Commercial · Utilities · Learn · LearnShop · LearnFind · LearnOrder · LearnOrder · LearnOrder · Help Me Ch"
     }
   ]
 }

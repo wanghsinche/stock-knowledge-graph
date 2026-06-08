@@ -3,8 +3,8 @@ ticker: LRCX
 company: Lam Research Corporation
 sector: Technology
 industry: Semiconductor Equipment & Materials
-extracted_at: 2026-06-05 17:55:31
-last_updated: 2026-06-05
+extracted_at: 2026-06-08 18:24:54
+last_updated: 2026-06-08
 ---
 
 # LRCX - Lam Research Corporation
@@ -12,16 +12,16 @@ last_updated: 2026-06-05
 ## 基本信息
 
 - **所属行业**: Technology / Semiconductor Equipment & Materials
-- **提取时间**: 2026-06-05 17:55:31
+- **提取时间**: 2026-06-08 18:24:54
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Silicon wafer manufacturers]]
-- [[Chemical suppliers]]
-- [[Gas suppliers]]
+- [[Silicon wafer suppliers]]
+- [[Chemical and gas suppliers]]
 - [[Precision component manufacturers]]
-- [[Tooling suppliers]]
+- [[Plasma source suppliers]]
+- [[Cleanroom equipment providers]]
 
 ### 下游客户
 - [[TSM]]
@@ -38,20 +38,20 @@ last_updated: 2026-06-05
 - [[Teradyne]]
 
 ### 核心产品
-- [[Etch systems]]
-- [[Deposition systems]]
-- [[Wafer cleaning equipment]]
-- [[Back‑end wafer‑level packaging (WLP) equipment]]
-- [[MEMS fabrication equipment]]
+- [[Plasma etch systems]]
+- [[Chemical vapor deposition (CVD) equipment]]
+- [[Physical vapor deposition (PVD) tools]]
+- [[Wafer-level packaging (WLP) equipment]]
+- [[MEMS packaging solutions]]
 
 ## 数据来源
 
 - [Lam Research](https://en.wikipedia.org/wiki/Lam_Research_Corporation)
-- [Lam Research Corporation suppliers manufacturers](https://www.americanbankingnews.com/2026/05/29/fideuram-asset-management-ireland-dac-invests-10-04-million-in-lam-research-corporation-lrcx.html)
-- [Lam Research Corporation suppliers manufacturers](https://www.insidermonkey.com/blog/lam-research-corp-lrcx-increasing-dependence-on-essential-chip-manufacturing-1774772/)
-- [Lam Research Corporation major customers clients](https://en.wikipedia.org/wiki/Lam_Research)
-- [Lam Research Corporation major customers clients](https://csimarket.com/stocks/LRCX-Customers)
+- [Lam Research Corporation suppliers manufacturers](https://www.tipranks.com/news/article/lam-research-indispensable-yet-overvalued)
+- [Lam Research Corporation suppliers manufacturers](https://finance.yahoo.com/news/lam-research-ships-200th-kiyo-200700311.html)
+- [Lam Research Corporation major customers clients](https://seekingalpha.com/article/4912487-lam-research-a-wide-moat-equipment-leader-that-i-rate-a-buy-despite-a-rich-valuation)
+- [Lam Research Corporation major customers clients](https://www.researchandmarkets.com/reports/4029340/lam-research-corporation-company-profile-and)
 
 ## 元数据
 
-- **更新日期**: 2026-06-05
+- **更新日期**: 2026-06-08

@@ -3,8 +3,8 @@ ticker: AMD
 company: Advanced Micro Devices, Inc.
 sector: Technology
 industry: Semiconductors
-extracted_at: 2026-06-05 17:47:57
-last_updated: 2026-06-05
+extracted_at: 2026-06-08 18:20:58
+last_updated: 2026-06-08
 ---
 
 # AMD - Advanced Micro Devices, Inc.
@@ -12,23 +12,23 @@ last_updated: 2026-06-05
 ## 基本信息
 
 - **所属行业**: Technology / Semiconductors
-- **提取时间**: 2026-06-05 17:47:57
+- **提取时间**: 2026-06-08 18:20:58
 
 ## 产业链关系
 
 ### 上游供应商
 - [[TSM]]
-- [[GlobalFoundries (foundry for older nodes)]]
-- [[NVDA]]
-- [[MU]]
-- [[INTC]]
+- [[005930.KS]]
+- [[GlobalFoundries]]
+- [[United Microelectronics Corporation (UMC)]]
+- [[Semiconductor Manufacturing International Corporation (SMIC)]]
 
 ### 下游客户
 - [[DELL]]
-- [[MSFT]]
-- [[AMZN]]
+- [[HPQ]]
+- [[Lenovo]]
 - [[SONY]]
-- [[GOOGL]]
+- [[MSFT]]
 
 ### 竞争对手
 - [[INTC]]
@@ -38,20 +38,20 @@ last_updated: 2026-06-05
 - [[005930.KS]]
 
 ### 核心产品
-- [[Ryzen CPUs for desktops and laptops]]
-- [[EPYC CPUs for servers and data centers]]
-- [[Radeon GPUs for gaming and professional graphics]]
-- [[Xilinx‑based FPGAs (now part of AMD portfolio)]]
-- [[SoC solutions for embedded and automotive markets]]
+- [[Ryzen CPUs]]
+- [[EPYC servers]]
+- [[Radeon GPUs]]
+- [[Xilinx FPGAs]]
+- [[APU SoCs]]
 
 ## 数据来源
 
 - [AMD](https://en.wikipedia.org/wiki/Advanced_Micro_Devices,_Inc.)
-- [Advanced Micro Devices, Inc. suppliers manufacturers](https://csimarket.com/stocks/AMD-Suppliers)
-- [Advanced Micro Devices, Inc. suppliers manufacturers](https://www.marketscreener.com/quote/stock/AMD-ADVANCED-MICRO-DEVICE-19475876/company-group/)
-- [Advanced Micro Devices, Inc. major customers clients](https://en.wikipedia.org/wiki/AMD)
-- [Advanced Micro Devices, Inc. major customers clients](https://csimarket.com/stocks/AMD-Customers)
+- [Advanced Micro Devices, Inc. suppliers manufacturers](https://www.britannica.com/money/Advanced-Micro-Devices-Inc)
+- [Advanced Micro Devices, Inc. suppliers manufacturers](https://ir.amd.com/)
+- [Advanced Micro Devices, Inc. major customers clients](https://ir.amd.com/)
+- [Advanced Micro Devices, Inc. major customers clients](https://www.tradingview.com/news/marketbeat:26f5a9082094b:0-advanced-micro-devices-shareholders-back-board-as-lisa-su-touts-ai-growth/)
 
 ## 元数据
 
-- **更新日期**: 2026-06-05
+- **更新日期**: 2026-06-08

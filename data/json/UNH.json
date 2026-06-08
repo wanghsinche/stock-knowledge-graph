@@ -6,62 +6,62 @@
   "upstream": [
     "Pharmaceutical manufacturers",
     "Medical device manufacturers",
-    "Health care service providers",
-    "Health IT technology vendors",
-    "Data analytics service providers"
+    "Health information technology vendors",
+    "Data analytics and AI service providers",
+    "Pharmacy benefit management firms"
   ],
   "downstream": [
-    "Employers and corporate clients",
-    "Government health programs (Medicare, Medicaid)",
-    "Individual policyholders",
-    "Health care providers (hospitals, clinics)",
-    "Pharmacy benefit management clients"
+    "Large corporate employers",
+    "Government agencies (Medicare, Medicaid)",
+    "Small and medium‑size businesses",
+    "Individual consumers",
+    "Health care providers (hospitals, clinics)"
   ],
   "competitors": [
     "Anthem",
-    "Aetna",
+    "Aetna (CVS Health)",
     "Cigna",
     "Humana",
-    "CVS Health (Aetna)"
+    "Kaiser Permanente"
   ],
   "key_products": [
-    "Commercial health insurance plans",
-    "Medicare Advantage plans",
-    "Medicaid managed care",
-    "OptumRx pharmacy benefit management",
-    "Optum health services"
+    "UnitedHealthcare health insurance plans (commercial, Medicare Advantage, Medicaid)",
+    "Optum health services (pharmacy, care delivery, data analytics)",
+    "OptumCare health care delivery",
+    "OptumHealth services",
+    "OptumInsight data analytics"
   ],
-  "extracted_at": "2026-06-05 17:51:09",
+  "extracted_at": "2026-06-08 18:30:02",
   "sources": [
     {
       "source": "Wikipedia",
-      "url": "",
-      "title": "",
-      "snippet": ""
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/UNH-Shares-vs-Suppliers",
-      "query": "UnitedHealth Group Incorporated suppliers manufacturers",
-      "snippet": "Unitedhealth Group Incorporated vs Suppliers , today, this week, 30 days, 90 days, year to date stock performance comparison. Unitedhealth Group Incor"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.marketresearch.com/MarketLine-v3883/UnitedHealth-Group-Incorporated-Company-Profile-38951281/",
-      "query": "UnitedHealth Group Incorporated suppliers manufacturers",
-      "snippet": "UnitedHealth Group Incorporated ( UnitedHealth Group or 'the company) is a health care...Gain understanding of UnitedHealth Group Incorporated and the"
+      "url": "https://en.wikipedia.org/wiki/UnitedHealth_Group_Incorporated",
+      "title": "UnitedHealth Group",
+      "snippet": "UnitedHealth Group Incorporated is an American multinational for-profit company based in Eden Prairie, Minnesota, specializing in health insurance and health care services. Selling insurance products "
     },
     {
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/UnitedHealth_Group",
-      "query": "UnitedHealth Group Incorporated major customers clients",
+      "query": "UnitedHealth Group Incorporated suppliers manufacturers",
       "snippet": "UnitedHealth Group Incorporated is an American multinational for-profit company based in Eden Prairie, Minnesota, specializing in health insurance and"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/UNH-Customers",
+      "url": "https://csimarket.com/stocks/competition2.php?supply&code=UNH",
+      "query": "UnitedHealth Group Incorporated suppliers manufacturers",
+      "snippet": "List of Unitedhealth Group Incorporated 's Suppliers comparisons of quarterly Sales, Income, Profitability, Cash flow - CSIMarket."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.marketresearch.com/MarketLine-v3883/UnitedHealth-Group-Incorporated-Company-Profile-38951281/",
       "query": "UnitedHealth Group Incorporated major customers clients",
-      "snippet": "Unitedhealth Group Incorporated 's Comment on Sales, Marketing and Customers UnitedHealthcare International participates in international markets thro"
+      "snippet": "UnitedHealth Group Incorporated ( UnitedHealth Group or 'the company) is a health care company. The company provides health care benefits and services"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.alpha-sense.com/earnings/unh/",
+      "query": "UnitedHealth Group Incorporated major customers clients",
+      "snippet": "UnitedHealth Group Inc . unitedhealthgroup .com. UnitedHealth Group is one of the largest private health insurers and provides medical benefits to abo"
     }
   ]
 }

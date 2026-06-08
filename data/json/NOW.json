@@ -1,67 +1,67 @@
 {
   "ticker": "NOW",
   "company_name": "ServiceNow, Inc.",
-  "sector": "Technology / Software - Application",
-  "industry": "Application Software",
+  "sector": "Technology",
+  "industry": "Software - Application",
   "upstream": [
-    "AMZN",
     "MSFT",
+    "AMZN",
     "GOOGL",
-    "DELL",
-    "HPQ"
+    "ORCL",
+    "IBM"
   ],
   "downstream": [
+    "IBM",
+    "Accenture",
+    "Cognizant",
     "Walmart",
-    "JPMorgan Chase",
-    "AT&T",
-    "Bank of America",
-    "Citi"
+    "Bank of America"
   ],
   "competitors": [
     "CRM",
     "MSFT",
     "SAP SuccessFactors",
     "ORCL",
-    "Workday"
+    "Atlassian"
   ],
   "key_products": [
-    "ServiceNow Platform",
+    "Now Platform",
     "IT Service Management (ITSM)",
     "IT Operations Management (ITOM)",
     "IT Business Management (ITBM)",
     "Customer Service Management (CSM)"
   ],
-  "extracted_at": "2026-06-05 17:52:05",
+  "extracted_at": "2026-06-08 18:27:26",
   "sources": [
     {
       "source": "Wikipedia",
-      "url": "",
-      "title": "",
-      "snippet": ""
+      "url": "https://en.wikipedia.org/wiki/ServiceNow,_Inc.",
+      "title": "ServiceNow",
+      "snippet": "ServiceNow, Inc. is an American software company that supplies a cloud computing platform for the creation and management of automated business workflows. The company was founded in Santa Clara, Calif"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/ServiceNow",
+      "url": "https://www.servicenow.com/",
       "query": "ServiceNow, Inc. suppliers manufacturers",
-      "snippet": "ServiceNow, Inc . is an American software company that supplies a cloud computing platform for the creation and management of automated business workf"
+      "snippet": "ServiceNow Otto. Explore the new way to put AI to work."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.servicenow.com/company/supplier.html",
+      "url": "https://theenterpriseworld.com/10-servicenow-partners-in-2024/",
       "query": "ServiceNow, Inc. suppliers manufacturers",
-      "snippet": "ServiceNow partners with capable and competitive suppliers who commit to diversity, sustainability, and best-in-class goods and services. Learn more h"
+      "snippet": "In this article, we highlight the top ServiceNow partners of 2026, known for their ability to optimize your IT environment through strategic automatio"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.aventionmedia.com/technology-installed-base/servicenow/",
+      "url": "https://www.servicenow.com/",
       "query": "ServiceNow, Inc. major customers clients",
-      "snippet": "Discover Avention Media’s accurate and customizable ServiceNow customers list. Our verified ServiceNow data helps you target key decision-makers and c"
+      "snippet": "Customer Service Management. Empower self- service , boost agent productivity, and speed up resolution. Strategic Portfolio Management.Learn how Servi"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://data.landbase.com/technology/servicenow/",
+      "url": "https://www.benzinga.com/trading-ideas/movers/26/06/53004920/servicenow-shares-are-climbing-whats-driving-the-move",
       "query": "ServiceNow, Inc. major customers clients",
-      "snippet": "Aug 17, 2025 · ServiceNow by ServiceNow, is a cloud-based platform designed for digital workflows. It’s commonly employed to automate and enhance vari"
+      "snippet": "How ServiceNow Operates in the Software Market. ServiceNow Inc provides software solutions to structure and automate various business processes via a "
     }
   ]
 }

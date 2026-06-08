@@ -1,37 +1,37 @@
 {
   "ticker": "MSTR",
-  "company_name": "MicroStrategy Incorporated",
-  "sector": "Technology",
-  "industry": "Software - Application",
+  "company_name": "Strategy Inc",
+  "sector": "Technology / Software - Application",
+  "industry": "Business Intelligence & Analytics",
   "upstream": [
     "MSFT",
     "AMZN",
     "GOOGL",
-    "IBM",
-    "ORCL"
+    "INTC",
+    "NVDA"
   ],
   "downstream": [
-    "JPMorgan Chase",
     "Bank of America",
-    "Walmart",
-    "Coca‑Cola",
-    "General Motors"
+    "Citigroup",
+    "UnitedHealth Group",
+    "General Motors",
+    "U.S. Department of Defense"
   ],
   "competitors": [
-    "Tableau Software",
+    "Tableau",
     "Qlik",
     "MSFT",
-    "SAP BusinessObjects",
-    "ORCL"
+    "Looker",
+    "SAP BusinessObjects"
   ],
   "key_products": [
-    "MicroStrategy Desktop",
+    "MicroStrategy Analytics",
     "MicroStrategy Cloud",
     "MicroStrategy Mobile",
-    "MicroStrategy Analytics",
-    "MicroStrategy Data Visualization"
+    "MicroStrategy Data Warehouse",
+    "MicroStrategy Analytics Platform"
   ],
-  "extracted_at": "2026-06-05 17:49:57",
+  "extracted_at": "2026-06-08 18:25:12",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.strategy.com/press/strategy-announces-legal-name-change-from-microstrategy-incorporated-to-strategy-inc_08-14-2025",
+      "url": "https://www.strategy.com/software",
       "query": "Strategy Inc suppliers manufacturers",
-      "snippet": "Aug 14, 2025 · August 14, 2025 Strategy Announces Legal Name Change from MicroStrategy Incorporated to Strategy Inc Press Release • August 14, 2025"
+      "snippet": "Strategy Solutions powered by Mosaic provide a universal semantic layer that unifies enterprise data, governs business metrics, and delivers trusted A"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/STRK/profile/?fr=sycsrp_catchall",
+      "url": "https://unilog.company/blog-articles/supply-chain-strategy-support-the-business-strategy/",
       "query": "Strategy Inc suppliers manufacturers",
-      "snippet": "See the company profile for Strategy Inc (STRK) including business summary, industry/sector information, number of employees, business summary, corpor"
+      "snippet": "Supply Chain Strategy refers to the approach and plans a company takes to manage and optimize the flow of goods, services, and information from suppli"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/MicroStrategy",
       "query": "Strategy Inc major customers clients",
-      "snippet": "Strategy Inc ., formerly known as MicroStrategy,[1] is an American company that provides business intelligence (BI) and mobile software. Founded in 19"
+      "snippet": "Strategy Inc., formerly known as MicroStrategy, is an American company that provides business intelligence (BI) and mobile software."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.strategy.inc/",
+      "url": "https://www.strategy.com/software/customer-stories",
       "query": "Strategy Inc major customers clients",
-      "snippet": "About Strategy . Inc Strategy . Inc is a global thought leadership institute redefining how the world learns and practices strategy . We research, tea"
+      "snippet": "Dive into Strategy customer stories highlighting the impact of Analytics in Healthcare, Financial Services, Call Centers, Retail, Insurance, and Gover"
     }
   ]
 }

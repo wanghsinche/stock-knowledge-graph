@@ -4,34 +4,34 @@
   "sector": "Financial Services",
   "industry": "Capital Markets",
   "upstream": [
-    "Technology vendors (e.g., Bloomberg, Refinitiv)",
-    "Data providers (e.g., FactSet, S&P Global)",
-    "Legal and compliance service firms",
-    "Risk management and analytics platforms",
-    "Cybersecurity providers"
+    "Bloomberg",
+    "FactSet",
+    "Refinitiv",
+    "MSFT",
+    "AMZN"
   ],
   "downstream": [
-    "Corporate clients (e.g., Fortune 500 companies)",
-    "Sovereign and municipal governments",
-    "Institutional investors (pension funds, endowments)",
-    "High‑net‑worth individuals and family offices",
-    "Asset‑management firms"
+    "Corporations",
+    "Governments",
+    "Institutional investors",
+    "Hedge funds",
+    "Sovereign wealth funds"
   ],
   "competitors": [
-    "JPMorgan Chase & Co.",
+    "JPMorgan Chase",
     "Morgan Stanley",
-    "Bank of America Merrill Lynch",
     "Citigroup",
-    "Wells Fargo & Co."
+    "Bank of America Merrill Lynch",
+    "UBS"
   ],
   "key_products": [
-    "Investment banking advisory",
-    "Securities underwriting and trading",
-    "Asset management and wealth management",
-    "Market research and analytics",
-    "Derivatives and structured products"
+    "Investment banking services",
+    "Securities trading",
+    "Asset management",
+    "Wealth management",
+    "Research & analytics"
   ],
-  "extracted_at": "2026-06-05 17:55:20",
+  "extracted_at": "2026-06-08 18:30:34",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,25 +43,25 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Goldman_Sachs",
       "query": "The Goldman Sachs Group, Inc. suppliers manufacturers",
-      "snippet": "The Goldman Sachs Group , Inc . (/ sæks / SAKS) is an American multinational investment bank and financial services company. Founded in 1869, Goldman "
+      "snippet": "The Goldman Sachs Group , Inc . is an American multinational investment bank and financial services company.In the Forbes Global 2000 of 2025, Goldman"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/GS-Suppliers",
+      "url": "https://ru.wikipedia.org/wiki/Goldman_Sachs",
       "query": "The Goldman Sachs Group, Inc. suppliers manufacturers",
-      "snippet": "The Goldman Sachs Group Inc supply chain, list and performance of The Goldman Sachs Group Incs ' suppliers - CSIMarket"
+      "snippet": "21 сентября 2008 года The Goldman Sachs Group была перерегистрирована как банковская холдинговая компания[12]. Goldman Sachs Funding LLC (Делавэр). GS"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.goldmansachs.com/what-we-do/serving-clients",
+      "url": "https://en.wikipedia.org/wiki/Goldman_Sachs",
       "query": "The Goldman Sachs Group, Inc. major customers clients",
-      "snippet": "The #1 investment bank in the world¹. The leader in equities and a dominant force in FICC. A leading global active asset manager with a top alternativ"
+      "snippet": "The Goldman Sachs Group , Inc . is an American multinational investment bank and financial services company.In the Forbes Global 2000 of 2025, Goldman"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/GS-Customers",
+      "url": "https://www.goldmansachs.com/what-we-do/serving-clients/delivering-for-our-clients",
       "query": "The Goldman Sachs Group, Inc. major customers clients",
-      "snippet": "The Goldman Sachs Group Inc 's Customers have recorded a surge in their cost of revenue by 103.01 % in the 4 quarter 2025 year on year, sequentially c"
+      "snippet": "Our weekly newsletter delivers the latest insights on economic forces shaping markets—from Goldman Sachs leaders, economists, and investors around the"
     }
   ]
 }

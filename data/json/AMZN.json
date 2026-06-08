@@ -4,64 +4,64 @@
   "sector": "Consumer Cyclical",
   "industry": "Internet Retail",
   "upstream": [
-    "electronics manufacturers",
-    "apparel brands",
-    "home goods manufacturers",
-    "consumer electronics producers",
-    "third‑party sellers"
+    "Third‑party sellers",
+    "Manufacturers of consumer electronics",
+    "Apparel manufacturers",
+    "Home goods suppliers",
+    "AMZN"
   ],
   "downstream": [
-    "individual consumers",
-    "business customers",
     "AMZN",
-    "small and medium enterprises using AWS",
+    "AMZN",
+    "Prime members",
+    "AMZN",
     "AMZN"
   ],
   "competitors": [
     "Walmart",
     "eBay",
     "Alibaba",
-    "Shopify",
-    "MSFT"
+    "Target",
+    "Shopify"
   ],
   "key_products": [
     "Amazon.com e‑commerce platform",
     "Amazon Web Services",
-    "Amazon Prime Video",
-    "Amazon Echo (Alexa)",
-    "Amazon Kindle"
+    "Amazon Prime subscription",
+    "Amazon Devices (Echo, Kindle)",
+    "Amazon Fulfillment services"
   ],
-  "extracted_at": "2026-06-05 17:48:57",
+  "extracted_at": "2026-06-08 18:22:03",
   "sources": [
     {
       "source": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Amazon.com,_Inc.",
-      "title": "Amazon (company)",
-      "snippet": "Amazon.com, Inc. is an American multinational technology company engaged in e-commerce, cloud computing, online advertising, digital streaming, entertainment, and artificial intelligence. Founded in 1"
+      "url": "",
+      "title": "",
+      "snippet": ""
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://supply.amazon.com/",
+      "url": "https://www.alibaba.com/",
       "query": "Amazon.com, Inc. suppliers manufacturers",
-      "snippet": "At Amazon, we look for suppliers who want to become partners on our road to being earth’s most customer-centric company. Supplier Connect enables supp"
+      "snippet": "Find quality Manufacturers , Suppliers , Exporters, Importers, Buyers, Wholesalers, Products and Trade Leads from our award-winning International Trad"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://d39w7f4ix9f5s9.cloudfront.net/cb/19/77dfc5b441c892cd6e2be166ba70/final-amazon-supplier-list-2019-11-14-updated-1005am.pdf",
+      "url": "https://ir.aboutamazon.com/",
       "query": "Amazon.com, Inc. suppliers manufacturers",
-      "snippet": "Nov 14, 2019 · Amazon Supplier List Amazon is strongly committed to conducting its business in a lawful and ethical manner, including engaging with su"
+      "snippet": "Amazon . com Announces First Quarter Results. Amazon . com , Inc . (NASDAQ: AMZN) today announced financial results for its first quarter ended March "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Amazon_(company)",
+      "url": "https://ir.aboutamazon.com/",
       "query": "Amazon.com, Inc. major customers clients",
-      "snippet": "Amazon.com, Inc .[1] (doing business as Amazon) [a] is an American multinational technology company engaged in e-commerce, cloud computing, online adv"
+      "snippet": "Amazon . com , Inc . (NASDAQ: AMZN) today announced financial results for its first quarter ended March 31, 2026."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://capitaloneshopping.com/research/amazon-statistics/",
+      "url": "https://aws.amazon.com/",
       "query": "Amazon.com, Inc. major customers clients",
-      "snippet": "1 day ago · Statistics & analysis on Amazon including total sales (per year & minute), number of products (SKUs), customers , sellers & more."
+      "snippet": "Amazon Web Services offers reliable, scalable, and inexpensive cloud computing services. Free to join, pay only for what you use."
     }
   ]
 }

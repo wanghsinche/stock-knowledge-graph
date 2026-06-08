@@ -4,34 +4,34 @@
   "sector": "Communication Services",
   "industry": "Advertising Agencies",
   "upstream": [
-    "Cloud service providers (AWS, Azure)",
-    "Data analytics vendors",
-    "Ad tech platform partners",
-    "Mobile SDK development tools",
-    "Marketing technology vendors"
+    "Mobile app developers",
+    "Data providers",
+    "Ad tech platform vendors",
+    "Cloud infrastructure providers",
+    "Analytics tool providers"
   ],
   "downstream": [
-    "Mobile app developers",
+    "Mobile app publishers",
+    "Advertisers",
+    "Brands",
     "Game developers",
-    "Digital advertisers",
-    "Brand marketing agencies",
-    "E-commerce app owners"
+    "Marketing agencies"
   ],
   "competitors": [
-    "Unity Ads",
     "GOOGL",
     "Facebook Audience Network",
+    "Unity Ads",
     "Vungle",
     "Chartboost"
   ],
   "key_products": [
-    "Mobile advertising SDK",
-    "App monetization platform",
-    "Marketing solutions",
-    "Data analytics & attribution",
-    "Audience targeting tools"
+    "Mobile advertising platform",
+    "App monetization solutions",
+    "Marketing technology suite",
+    "User acquisition services",
+    "In-app advertising network"
   ],
-  "extracted_at": "2026-06-05 17:53:31",
+  "extracted_at": "2026-06-08 18:29:43",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,21 +47,21 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.tipranks.com/stocks/app/stock-analysis",
+      "url": "https://finance.yahoo.com/quote/APP/",
       "query": "AppLovin Corporation suppliers manufacturers",
-      "snippet": "Get a real-time AppLovin Corp . Class A (APP) stock analysis report, powered by AI. AppLovin Corporate Events. Executive/Board ChangesShareholder Meet"
+      "snippet": "Find the latest AppLovin Corporation (APP) stock quote, history, news and other vital information to help you with your stock trading and investing."
     },
     {
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/AppLovin",
       "query": "AppLovin Corporation major customers clients",
-      "snippet": "AppLovin Corporation is an American mobile technology company headquartered in Palo Alto, California. [3] Founded in 2012, the company helps developer"
+      "snippet": "AppLovin Corporation is an American mobile technology company headquartered in Palo Alto, California."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.appsruntheworld.com/customers-database/vendors/view/applovin",
+      "url": "https://www.applovin.com/",
       "query": "AppLovin Corporation major customers clients",
-      "snippet": "List of companies using or evaluating Applovin applications, with details on their revenues, employees, industries, and locations."
+      "snippet": "AppLovin enables businesses to advertise profitably with marketing technologies that attract customers , increase revenue, and track ad performance."
     }
   ]
 }

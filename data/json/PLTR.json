@@ -4,34 +4,34 @@
   "sector": "Technology",
   "industry": "Software - Infrastructure",
   "upstream": [
-    "AMZN",
-    "MSFT",
-    "GOOGL",
-    "ORCL",
-    "IBM"
+    "Hardware manufacturers (servers, storage)",
+    "Cloud service providers (AWS, Azure, GCP)",
+    "Data providers (government data feeds, commercial data vendors)",
+    "Software component suppliers (open‑source libraries, AI frameworks)",
+    "Networking equipment suppliers"
   ],
   "downstream": [
     "U.S. Department of Defense",
-    "Federal Bureau of Investigation",
     "INTC",
-    "U.S. Department of Homeland Security",
-    "U.S. Department of Justice"
+    "Law enforcement agencies",
+    "Financial services firms",
+    "Healthcare and life‑science organizations"
   ],
   "competitors": [
-    "Splunk",
     "Snowflake",
     "Databricks",
-    "MSFT",
-    "Tableau"
+    "Splunk",
+    "IBM",
+    "MSFT"
   ],
   "key_products": [
-    "Palantir Gotham",
     "Palantir Foundry",
+    "Palantir Gotham",
     "Palantir Apollo",
-    "Palantir Data Lake",
-    "Palantir AI Suite"
+    "Palantir Helios",
+    "Palantir Data Lake"
   ],
-  "extracted_at": "2026-06-05 17:50:33",
+  "extracted_at": "2026-06-08 18:24:03",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,21 +41,21 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/PLTR-Suppliers",
+      "url": "https://builtin.com/articles/what-is-palantir",
       "query": "Palantir Technologies Inc. suppliers manufacturers",
-      "snippet": "May 6, 2026 · Palantir Technologies Inc 's Suppliers recorded an increase in sales by 5.7 % year on year in Q1 2026, from the previous quarter, sales "
+      "snippet": "In this article, we’ll trace Palantir ’s evolution from a military intelligence startup to one of the most valuable tech companies in the United State"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://fintel.io/doc/sec-palantir-technologies-inc-1321655-ex211-2023-february-21-19410-4071",
+      "url": "https://finance.yahoo.com/quote/PLTR/",
       "query": "Palantir Technologies Inc. suppliers manufacturers",
-      "snippet": "Palantir Technologies Inc . - List of subsidiaries of Palantir Technologies Inc . - EX-21.1 - February 21, 2023 Palantir Technologies Inc . US ˙ Nasda"
+      "snippet": "Palantir Technologies Inc . builds and deploys software platforms for the intelligence community to assist in counterterrorism investigations and oper"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Palantir",
+      "url": "https://www.marketwatch.com/investing/stock/pltr",
       "query": "Palantir Technologies Inc. major customers clients",
-      "snippet": "Palantir Technologies Inc . Palantir 's customer base includes federal agencies, state and local governments, international organizations, and also pr"
+      "snippet": "PLTR | Complete Palantir Technologies Inc . stock news by MarketWatch. View real-time stock prices and stock quotes for a full financial overview. Pal"
     },
     {
       "source": "DuckDuckGo",

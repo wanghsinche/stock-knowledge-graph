@@ -1,37 +1,31 @@
 {
   "ticker": "CBRS",
   "company_name": "Cerebras Systems Inc.",
-  "sector": "Technology",
+  "sector": "Technology / Semiconductors",
   "industry": "Semiconductors",
   "upstream": [
-    "TSM",
-    "005930.KS",
-    "GlobalFoundries",
-    "MU",
-    "INTC"
+    "TSM"
   ],
   "downstream": [
-    "GOOGL",
-    "MSFT",
-    "AMZN",
-    "IBM",
-    "Mayo Clinic"
+    "AI research institutions",
+    "Cloud service providers",
+    "Enterprise customers"
   ],
   "competitors": [
     "NVDA",
-    "INTC",
     "AMD",
-    "Graphcore",
-    "SambaNova"
+    "INTC",
+    "GOOGL",
+    "Graphcore"
   ],
   "key_products": [
-    "WSE-3 wafer scale engine",
+    "Wafer Scale Engine 3 (WSE-3)",
     "CS-3 supercomputer",
     "AI inference cloud API",
     "AI training cloud API",
-    "Cerebras CS-3"
+    "Data center solutions"
   ],
-  "extracted_at": "2026-05-26 18:24:15",
+  "extracted_at": "2026-06-08 18:26:39",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,15 +35,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Cerebras",
+      "url": "https://en.wikipedia.org/wiki/Cerebras_Systems",
       "query": "Cerebras Systems Inc. suppliers manufacturers",
-      "snippet": "Cerebras Systems Inc . is an American artificial intelligence company with offices in Sunnyvale, San Diego, Toronto, and Bangalore, India. Cerebras bu"
+      "snippet": "Its semiconductors are manufactured by TSMC, currently the only company that has the ability to manufacture Cerebras chips. The company's primary comp"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.cerebras.ai/",
       "query": "Cerebras Systems Inc. suppliers manufacturers",
-      "snippet": "Co-founder & CEO Cerebras Systems . Sam Altman.What we've built with Cerebras solves that: by splitting the inference workload across Trainium and the"
+      "snippet": "The Cerebras Wafer-Scale Engine is purpose-built for ultra-fast AI. It is 58x larger than GPUs. Designed for builders who want to do extraordinary thi"
     },
     {
       "source": "DuckDuckGo",
@@ -59,9 +53,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.forbes.com/sites/karlfreund/2024/01/08/cerebras-systems-wins-a-major-new-client-the-mayo-clinic/",
+      "url": "https://simplywall.st/stocks/us/semiconductors/nasdaq-cbrs/cerebras-systems",
       "query": "Cerebras Systems Inc. major customers clients",
-      "snippet": "Cerebras brings AI and Hardware to the table, and Mayo Clinic brings data and domain expertise. Combined, they will build state of the art medical AI "
+      "snippet": "Cerebras Systems Inc . operates as an artificial intelligence infrastructure company. It designs and manufactures an AI compute platform that comprise"
     }
   ]
 }

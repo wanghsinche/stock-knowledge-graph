@@ -1,39 +1,57 @@
 ---
 ticker: LITE
 company: Lumentum Holdings Inc.
-sector: Technology
-industry: Communication Equipment
-extracted_at: 2026-06-05 17:49:24
-last_updated: 2026-06-05
+sector: Technology / Communication Equipment
+industry: Optical Communications
+extracted_at: 2026-06-08 18:22:35
+last_updated: 2026-06-08
 ---
 
 # LITE - Lumentum Holdings Inc.
 
 ## 基本信息
 
-- **所属行业**: Technology / Communication Equipment
-- **提取时间**: 2026-06-05 17:49:24
+- **所属行业**: Technology / Communication Equipment / Optical Communications
+- **提取时间**: 2026-06-08 18:22:35
 
 ## 产业链关系
 
 ### 上游供应商
-_暂无数据_
+- [[Silica fiber suppliers]]
+- [[Laser diode manufacturers]]
+- [[Semiconductor equipment suppliers]]
+- [[Photonic integrated circuit suppliers]]
+- [[Optical fiber manufacturers]]
 
 ### 下游客户
-_暂无数据_
+- [[AT&T]]
+- [[Verizon]]
+- [[China Mobile]]
+- [[AMZN]]
+- [[GOOGL]]
 
 ### 竞争对手
-_暂无数据_
+- [[II-VI Incorporated]]
+- [[Coherent]]
+- [[Lattice Photonics]]
+- [[Infinera]]
+- [[Ciena]]
 
 ### 核心产品
-_暂无数据_
+- [[Optical transceivers]]
+- [[Laser diodes]]
+- [[Optical amplifiers]]
+- [[Photonic integrated circuits]]
+- [[Optical sensors]]
 
 ## 数据来源
 
 - 
 - [Lumentum Holdings Inc. suppliers manufacturers](https://www.lumentum.com/)
-- [Lumentum Holdings Inc. suppliers manufacturers](https://finance.yahoo.com/quote/LITE/)
+- [Lumentum Holdings Inc. suppliers manufacturers](https://csimarket.com/stocks/at_glance.php?code=LITE)
+- [Lumentum Holdings Inc. major customers clients](https://pitchgrade.com/companies/lumentum)
+- [Lumentum Holdings Inc. major customers clients](https://www.investing.com/news/swot-analysis/lumentum-holdings-swot-analysis-stock-rides-ai-wave-amid-valuation-debate-93CH-4696673)
 
 ## 元数据
 
-- **更新日期**: 2026-06-05
+- **更新日期**: 2026-06-08

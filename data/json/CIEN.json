@@ -1,55 +1,55 @@
 {
   "ticker": "CIEN",
   "company_name": "Ciena Corporation",
-  "sector": "Technology / Communication Equipment",
-  "industry": "Optical Networking Systems and Software",
+  "sector": "Technology",
+  "industry": "Communication Equipment",
   "upstream": [
     "INTC",
-    "Optical component suppliers (e.g., Finisar, Lumentum, II‑VI Incorporated)",
-    "Fiber‑optic cable producers (e.g., Corning)",
-    "CSCO",
-    "TXN"
+    "AVGO",
+    "MRVL",
+    "QCOM",
+    "CSCO"
   ],
   "downstream": [
+    "AT&T Inc.",
     "CAT",
-    "MSFT",
-    "Enterprise network operators",
-    "Government and defense agencies",
-    "Data center operators"
+    "Vodafone Group",
+    "China Mobile",
+    "Telefonica"
   ],
   "competitors": [
-    "CSCO",
-    "JNPR",
     "Nokia",
     "Ericsson",
-    "Huawei"
+    "Huawei",
+    "JNPR",
+    "CAT"
   ],
   "key_products": [
     "Optical transport equipment",
-    "Optical switching systems",
-    "Optical amplifiers",
-    "Optical networking software",
-    "Optical network management systems"
+    "Packet optical transport",
+    "Optical switching",
+    "Optical networking solutions",
+    "Network solutions for cloud, AI, and digital transformation"
   ],
-  "extracted_at": "2026-06-05 17:55:48",
+  "extracted_at": "2026-06-08 18:27:09",
   "sources": [
     {
       "source": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Ciena_Corporation",
-      "title": "Ciena",
-      "snippet": "Ciena Corporation is an American optical networking systems and software company based in Hanover, Maryland. The company has been described as a vital player in optical connectivity. The company repor"
+      "url": "",
+      "title": "",
+      "snippet": ""
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Ciena",
+      "url": "https://www.ciena.com/",
       "query": "Ciena Corporation suppliers manufacturers",
-      "snippet": "Ciena Corporation is an American optical networking systems and software company [4][5][6] based in Hanover, Maryland. [7][8] The company has been des"
+      "snippet": "Ciena delivers the fastest network solutions to power cloud, AI, and digital transformation with high-speed, scalable, and secure connectivity."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.ciena.com/partners/locator",
+      "url": "https://ca.finance.yahoo.com/news/investors-ciena-stock-ahead-q2-134900312.html",
       "query": "Ciena Corporation suppliers manufacturers",
-      "snippet": "Ciena is the global leader in high-speed connectivity. Our networking systems, components, automation software, and services revolutionize data transm"
+      "snippet": "Ciena Corporation CIEN will report second-quarter fiscal 2026 results on June 4, before market open. The Zacks Consensus Estimate for earnings for the"
     },
     {
       "source": "DuckDuckGo",
@@ -59,9 +59,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://investorshub.advfn.com/Ciena-Corp-CIEN-4090",
+      "url": "https://www.tipranks.com/stocks/cien/stock-analysis",
       "query": "Ciena Corporation major customers clients",
-      "snippet": "Find the latest Ciena Corp (CIEN) discussion and analysis from iHub's community of investors. Ciena ® Corporation (NYSE: CIEN), a networking systems, "
+      "snippet": "Ciena Corporation reported revenue of $1.13 billion for Q2 2025, reaching the high end of guidance and demonstrating strong demand across all customer"
     }
   ]
 }

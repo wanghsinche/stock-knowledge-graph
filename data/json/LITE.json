@@ -1,13 +1,37 @@
 {
   "ticker": "LITE",
   "company_name": "Lumentum Holdings Inc.",
-  "sector": "Technology",
-  "industry": "Communication Equipment",
-  "upstream": [],
-  "downstream": [],
-  "competitors": [],
-  "key_products": [],
-  "extracted_at": "2026-06-05 17:49:24",
+  "sector": "Technology / Communication Equipment",
+  "industry": "Optical Communications",
+  "upstream": [
+    "Silica fiber suppliers",
+    "Laser diode manufacturers",
+    "Semiconductor equipment suppliers",
+    "Photonic integrated circuit suppliers",
+    "Optical fiber manufacturers"
+  ],
+  "downstream": [
+    "AT&T",
+    "Verizon",
+    "China Mobile",
+    "AMZN",
+    "GOOGL"
+  ],
+  "competitors": [
+    "II-VI Incorporated",
+    "Coherent",
+    "Lattice Photonics",
+    "Infinera",
+    "Ciena"
+  ],
+  "key_products": [
+    "Optical transceivers",
+    "Laser diodes",
+    "Optical amplifiers",
+    "Photonic integrated circuits",
+    "Optical sensors"
+  ],
+  "extracted_at": "2026-06-08 18:22:35",
   "sources": [
     {
       "source": "Wikipedia",
@@ -23,9 +47,21 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/LITE/",
+      "url": "https://csimarket.com/stocks/at_glance.php?code=LITE",
       "query": "Lumentum Holdings Inc. suppliers manufacturers",
-      "snippet": "Lumentum Holdings Inc . Overview Communication Equipment / Technology. Lumentum Holdings Inc . manufactures and sells optical and photonic products in"
+      "snippet": "Lumentum Holdings Inc 's Suppliers . Lumentum Holdings Inc ., a leading manufacturer of optical communication products for telecommunications, fiber l"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://pitchgrade.com/companies/lumentum",
+      "query": "Lumentum Holdings Inc. major customers clients",
+      "snippet": "Customer Segments: Lumentum Holdings Inc . serves multiple distinct customer segments, which may include consumers, small and medium businesses, enter"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.investing.com/news/swot-analysis/lumentum-holdings-swot-analysis-stock-rides-ai-wave-amid-valuation-debate-93CH-4696673",
+      "query": "Lumentum Holdings Inc. major customers clients",
+      "snippet": "Bear Case. Can Lumentum sustain growth amid high customer concentration risks? Lumentum ’s revenue base is concentrated among a small number of large "
     }
   ]
 }

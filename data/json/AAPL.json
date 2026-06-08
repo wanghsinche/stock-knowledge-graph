@@ -4,11 +4,11 @@
   "sector": "Technology",
   "industry": "Consumer Electronics",
   "upstream": [
-    "Foxconn (Hon Hai Precision)",
-    "Pegatron",
-    "Wistron",
+    "Foxconn",
+    "TSM",
     "005930.KS",
-    "TSM"
+    "SK Hynix",
+    "LG Display"
   ],
   "downstream": [
     "iPhone users",
@@ -21,17 +21,17 @@
     "005930.KS",
     "GOOGL",
     "MSFT",
-    "Huawei",
-    "Xiaomi"
+    "AMZN",
+    "Huawei"
   ],
   "key_products": [
     "iPhone",
     "iPad",
-    "MacBook",
+    "Mac",
     "Apple Watch",
-    "AirPods"
+    "Apple TV"
   ],
-  "extracted_at": "2026-06-05 17:48:16",
+  "extracted_at": "2026-06-08 18:20:08",
   "sources": [
     {
       "source": "Wikipedia",
@@ -59,9 +59,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.apple.com/",
+      "url": "https://www.nbcnews.com/business/business-news/american-companies-most-customers-flna752756",
       "query": "Apple Inc. major customers clients",
-      "snippet": "Apple Payments Services LLC, a subsidiary of Apple Inc ., is a service provider of Goldman Sachs Bank USA for Apple Card and Savings accounts.Not all "
+      "snippet": "Customers : 225 million. Industry: e-commerce. Parent company: Apple Inc . Major competitors: Amazon.com, eBay, PayPal. There are at least 225 million"
     }
   ]
 }

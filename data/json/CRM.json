@@ -4,36 +4,34 @@
   "sector": "Technology",
   "industry": "Software - Application",
   "upstream": [
+    "ExactTarget Inc.",
     "AMZN",
     "MSFT",
     "GOOGL",
-    "ORCL",
-    "IBM"
+    "ADBE"
   ],
   "downstream": [
-    "Coca‑Cola",
-    "Toyota",
     "American Express",
-    "Unilever",
-    "Nike"
+    "Coca-Cola",
+    "Toyota",
+    "HSBC",
+    "Walmart"
   ],
   "competitors": [
     "MSFT",
     "ORCL",
-    "SAP Sales Cloud",
+    "SAP Customer Experience",
     "HubSpot",
-    "Zoho CRM"
+    "Zendesk"
   ],
   "key_products": [
     "Sales Cloud",
     "Service Cloud",
     "Marketing Cloud",
     "Commerce Cloud",
-    "Einstein AI",
-    "MuleSoft",
-    "Tableau"
+    "Einstein AI"
   ],
-  "extracted_at": "2026-06-04 18:18:59",
+  "extracted_at": "2026-06-08 18:31:34",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Salesforce",
+      "url": "https://www.salesforce.com/",
       "query": "Salesforce, Inc. suppliers manufacturers",
-      "snippet": "Salesforce , Inc . is an American cloud-based software company headquartered in San Francisco, California. It provides applications focused on sales ,"
+      "snippet": "ExactTarget Inc ."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/CRM-Suppliers",
+      "url": "https://csimarket.com/stocks/fundamentals_glance.php?code=CRM",
       "query": "Salesforce, Inc. suppliers manufacturers",
-      "snippet": "Salesforce Inc 's Suppliers Performance. CRM's Supply Chain. Download as CSV.Updated on: Tuesday, March 3, 2026 9:56 PM For your research, we’ve provi"
+      "snippet": "Fundamental Analysis on Salesforce Inc Key ratios, Comparisons to Software & Programming Industry, Technology Sector, S&P 500 - CSIMarket."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.guru99.com/salesforce-alternatives-competitor.html",
-      "query": "Salesforce, Inc. competitors alternatives",
-      "snippet": "best free salesforce alternatives . Struggling with Salesforce ’s high costs and limited flexibility?I have evaluated leading FREE Salesforce alternat"
+      "url": "https://hevodata.com/learn/salesforce-customers/",
+      "query": "Salesforce, Inc. major customers clients",
+      "snippet": "This article will give you a comprehensive guide to the 8 Best Salesforce Customers . You will also get to know about Salesforce and its key features."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.globaldata.com/company-profile/salesforcecom-inc/competitors/",
-      "query": "Salesforce, Inc. competitors alternatives",
-      "snippet": "Salesforce .Com Inc peers and key competitor information including headquarters, annual...Understand how Salesforce Inc fits into your total addressab"
+      "url": "https://www.salesforce.com/",
+      "query": "Salesforce, Inc. major customers clients",
+      "snippet": "Salesforce Enterprise-grade CRM with deep reporting, sales operations, and..."
     }
   ]
 }

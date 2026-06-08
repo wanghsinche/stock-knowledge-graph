@@ -4,18 +4,18 @@
   "sector": "Technology",
   "industry": "Software - Infrastructure",
   "upstream": [
-    "Ellington Electronics Technology",
-    "Fairchild Semiconductor Corporation",
-    "Flextronics",
     "INTC",
-    "NVDA"
+    "AMD",
+    "NVDA",
+    "TSM",
+    "005930.KS"
   ],
   "downstream": [
-    "Enterprise customers",
-    "Government agencies",
+    "Walmart",
+    "JPMorgan Chase",
+    "U.S. Department of Defense",
     "DELL",
-    "Gaming customers (Xbox)",
-    "Cloud customers (Azure)"
+    "HPQ"
   ],
   "competitors": [
     "AAPL",
@@ -25,13 +25,13 @@
     "IBM"
   ],
   "key_products": [
-    "Windows operating system",
-    "Microsoft Office suite",
-    "Azure cloud services",
-    "Xbox console",
-    "Surface devices"
+    "Windows",
+    "Microsoft Office",
+    "Azure",
+    "Xbox",
+    "Surface"
   ],
-  "extracted_at": "2026-06-05 17:48:34",
+  "extracted_at": "2026-06-08 18:21:28",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,15 +41,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/MSFT-Suppliers",
+      "url": "https://en.wikipedia.org/wiki/Microsoft",
       "query": "Microsoft Corporation suppliers manufacturers",
-      "snippet": "May 2, 2026 · Microsoft's Comment on Supply Chain We develop most of our products and services internally through four primary engineering groups. App"
+      "snippet": "Microsoft entered the operating system (OS) business in 1980 with its own version of Unix, licensed from AT&T Corporation a year before, called Xenix,"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://download.microsoft.com/download/F/3/8/F38AF681-EB3A-4645-A9C4-D4F31B8BA8F2/Microsoft+Top+100+Production+Suppliers.pdf",
+      "url": "https://csimarket.com/stocks/suppliers_glance.php?code=MSFT",
       "query": "Microsoft Corporation suppliers manufacturers",
-      "snippet": "ELLINGTON ELECTRONICS TECHNOLOGY FAIRCHILD SEMICONDUCTOR CORPORATION FLEXTRONICS FOXCONN FOXLINK FREESCALE GOERTEK, INC. HANNSTAR BOARD HITACHI-LG DAT"
+      "snippet": "Microsoft 's Comment on Supply Chain. We develop most of our products and services internally through four primary engineering groups.Among Microsoft "
     },
     {
       "source": "DuckDuckGo",

@@ -5,17 +5,17 @@
   "industry": "Semiconductors",
   "upstream": [
     "TSM",
-    "GlobalFoundries (foundry for older nodes)",
-    "NVDA",
-    "MU",
-    "INTC"
+    "005930.KS",
+    "GlobalFoundries",
+    "United Microelectronics Corporation (UMC)",
+    "Semiconductor Manufacturing International Corporation (SMIC)"
   ],
   "downstream": [
     "DELL",
-    "MSFT",
-    "AMZN",
+    "HPQ",
+    "Lenovo",
     "SONY",
-    "GOOGL"
+    "MSFT"
   ],
   "competitors": [
     "INTC",
@@ -25,13 +25,13 @@
     "005930.KS"
   ],
   "key_products": [
-    "Ryzen CPUs for desktops and laptops",
-    "EPYC CPUs for servers and data centers",
-    "Radeon GPUs for gaming and professional graphics",
-    "Xilinx‑based FPGAs (now part of AMD portfolio)",
-    "SoC solutions for embedded and automotive markets"
+    "Ryzen CPUs",
+    "EPYC servers",
+    "Radeon GPUs",
+    "Xilinx FPGAs",
+    "APU SoCs"
   ],
-  "extracted_at": "2026-06-05 17:47:57",
+  "extracted_at": "2026-06-08 18:20:58",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/AMD-Suppliers",
+      "url": "https://www.britannica.com/money/Advanced-Micro-Devices-Inc",
       "query": "Advanced Micro Devices, Inc. suppliers manufacturers",
-      "snippet": "May 6, 2026 · Advanced Micro Devices Inc's Sup pliers recorded an increase in sales by 9.44 % year on year in Q1 2026, sequentially sales grew by 5.18"
+      "snippet": "Advanced Micro Devices , Inc . ( AMD ) is an American semiconductor designer and global supplier of computing and graphics technologies used in data c"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.marketscreener.com/quote/stock/AMD-ADVANCED-MICRO-DEVICE-19475876/company-group/",
+      "url": "https://ir.amd.com/",
       "query": "Advanced Micro Devices, Inc. suppliers manufacturers",
-      "snippet": "1 day ago · Find the group structure chart of AMD (Advanced Micro Devices ), with the list of companies belonging to the same group as AMD (Advanced M"
+      "snippet": "Advanced Micro Devices , Inc . IR Overview. Investor Relations. AMD Completes Divestiture of ZT Systems Data Center Infrastructure Manufacturing Busin"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/AMD",
+      "url": "https://ir.amd.com/",
       "query": "Advanced Micro Devices, Inc. major customers clients",
-      "snippet": "Advanced Micro Devices , Inc . (AMD) is an American multinational semiconductor company headquartered in Santa Clara, California. It develops central "
+      "snippet": "Advanced Micro Devices , Inc . IR Overview. Investor Relations. AMD Expands AI Leadership Across Client , Graphics, and Software with New Ryzen, Ryzen"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/AMD-Customers",
+      "url": "https://www.tradingview.com/news/marketbeat:26f5a9082094b:0-advanced-micro-devices-shareholders-back-board-as-lisa-su-touts-ai-growth/",
       "query": "Advanced Micro Devices, Inc. major customers clients",
-      "snippet": "6 days ago · Advanced Micro Devices Inc customers and markets, results by customer and performance relative to AMD, by company and industry - CSIMarke"
+      "snippet": "Advanced Micro Devices , Inc AMD is a global semiconductor company that designs and sells microprocessors, graphics processors, chipsets and adaptive "
     }
   ]
 }

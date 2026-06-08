@@ -4,64 +4,64 @@
   "sector": "Technology",
   "industry": "Software - Infrastructure",
   "upstream": [
-    "INTC",
-    "AMD",
     "MSFT",
     "AMZN",
-    "GOOGL"
+    "GOOGL",
+    "DELL",
+    "MSFT"
   ],
   "downstream": [
-    "Large enterprises (e.g., banks, healthcare, energy)",
-    "U.S. federal and state government agencies",
-    "Small and medium‑size businesses",
-    "Financial services firms",
-    "Retail and e‑commerce companies"
+    "Large enterprises (e.g., Walmart, JPMorgan Chase)",
+    "Government agencies (U.S. Department of Defense, DHS)",
+    "Financial institutions (Goldman Sachs, Morgan Stanley)",
+    "Healthcare organizations (Mayo Clinic, UnitedHealth)",
+    "Retail chains (Target, Best Buy)"
   ],
   "competitors": [
     "Palo Alto Networks",
     "SentinelOne",
-    "VMware Carbon Black",
     "McAfee",
-    "MSFT"
+    "Fortinet",
+    "Check Point Software Technologies"
   ],
   "key_products": [
-    "CrowdStrike Falcon Prevent",
-    "CrowdStrike Falcon Insight",
-    "CrowdStrike Falcon OverWatch",
-    "CrowdStrike Falcon Discover",
-    "CrowdStrike Falcon X"
+    "CrowdStrike Falcon Platform",
+    "Falcon Prevent",
+    "Falcon Insight",
+    "Falcon OverWatch",
+    "Threat Intelligence Services"
   ],
-  "extracted_at": "2026-06-05 17:51:52",
+  "extracted_at": "2026-06-08 18:27:56",
   "sources": [
     {
       "source": "Wikipedia",
-      "url": "",
-      "title": "",
-      "snippet": ""
+      "url": "https://en.wikipedia.org/wiki/CrowdStrike_Holdings,_Inc.",
+      "title": "CrowdStrike",
+      "snippet": "CrowdStrike Holdings, Inc. is an American cybersecurity technology company based in Austin, Texas. It provides endpoint security, threat intelligence, and cyberattack response services. The company wa"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/CrowdStrike",
       "query": "CrowdStrike Holdings, Inc. suppliers manufacturers",
       "snippet": "CrowdStrike Holdings , Inc . is an American cybersecurity technology company based in Austin, Texas. It provides endpoint security, threat intelligenc"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/at_glance.php?code=CRWD",
+      "query": "CrowdStrike Holdings, Inc. suppliers manufacturers",
+      "snippet": "Crowdstrike Holdings Inc Profile, Financial Information, Stock Quotes Charts, Financial Results, Segments, Competitors, Fundamental Analysis - CSIMark"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.tradingview.com/symbols/NASDAQ-CRWD/",
-      "query": "CrowdStrike Holdings, Inc. suppliers manufacturers",
+      "query": "CrowdStrike Holdings, Inc. major customers clients",
       "snippet": "View live CrowdStrike Holdings , Inc . chart to track its stock's price action. Find market predictions, CRWD financials and market news."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/CrowdStrike",
+      "url": "https://finance.yahoo.com/quote/CRWD/",
       "query": "CrowdStrike Holdings, Inc. major customers clients",
-      "snippet": "CrowdStrike Holdings , Inc . is an American cybersecurity technology company based in Austin, Texas. It provides endpoint security, threat intelligenc"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/CRWD-Customers",
-      "query": "CrowdStrike Holdings, Inc. major customers clients",
-      "snippet": "Crowdstrike Holdings Inc 's Comment on Sales, Marketing and Customers Some of the world?s largest enterprises, government organizations, and high prof"
+      "snippet": "Find the latest CrowdStrike Holdings , Inc . (CRWD) stock quote, history, news and other vital information to help you with your stock trading and inv"
     }
   ]
 }

@@ -4,34 +4,34 @@
   "sector": "Financial Services",
   "industry": "Capital Markets",
   "upstream": [
-    "AMZN",
-    "GOOGL",
-    "Bloomberg Data Services",
-    "Stripe",
-    "Plaid"
+    "MSFT",
+    "Market data vendors (e.g., Bloomberg, Refinitiv)",
+    "Payment processors (e.g., Stripe, PayPal)",
+    "Regulatory technology firms (e.g., Onfido, Plaid)",
+    "Cybersecurity providers (e.g., Palo Alto Networks, CrowdStrike)"
   ],
   "downstream": [
-    "Retail investors",
-    "High‑frequency traders",
-    "Institutional clients",
-    "Crypto traders",
-    "Options traders"
+    "Retail investors using the Robinhood app",
+    "Institutional clients accessing the Robinhood API",
+    "Crypto traders on the Robinhood crypto platform",
+    "Margin trading customers",
+    "Robinhood Gold subscribers"
   ],
   "competitors": [
-    "eToro",
-    "Webull",
+    "Charles Schwab",
+    "E*TRADE",
+    "Fidelity Investments",
     "TD Ameritrade",
-    "Fidelity",
-    "Charles Schwab"
+    "Webull"
   ],
   "key_products": [
-    "Commission‑free stock trading",
-    "Crypto trading",
-    "Margin trading",
-    "Robinhood Gold subscription",
-    "Cash management"
+    "Commission‑free stock and ETF trading",
+    "Fractional share trading",
+    "Margin trading and Robinhood Gold subscription",
+    "Cryptocurrency trading",
+    "Options trading platform"
   ],
-  "extracted_at": "2026-06-05 17:53:20",
+  "extracted_at": "2026-06-08 18:31:09",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,21 +47,21 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://robinhood.com/",
+      "url": "https://csimarket.com/stocks/suppliers_glance.php?code=HOOD",
       "query": "Robinhood Markets, Inc. suppliers manufacturers",
-      "snippet": "Trade stocks on Robinhood with commission-free investing & advanced trading tools. Access fractional shares, real-time market data, and more."
+      "snippet": "Robinhood Markets Inc supply chain, list and performance of Robinhood Markets Incs ' suppliers - CSIMarket."
     },
     {
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Robinhood_Markets",
       "query": "Robinhood Markets, Inc. major customers clients",
-      "snippet": "Robinhood Markets , Inc . is an American financial services company based in Menlo Park, California. It provides an electronic trading platform that f"
+      "snippet": "Robinhood Markets , Inc . is an American financial services company based in Menlo Park, California."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://investingintheweb.com/brokers/robinhood-statistics/",
+      "url": "https://www.investing.com/equities/robinhood-markets",
       "query": "Robinhood Markets, Inc. major customers clients",
-      "snippet": "Apr 7, 2026 · Robinhood revenues Robinhood generates revenues through transaction-based revenues, net interest revenues, and other revenues. Transacti"
+      "snippet": "$ HOOD is a common way to refer to the Robinhood Markets Inc ticker symbol in social media, forums, and online discussions. The dollar sign is a short"
     }
   ]
 }
