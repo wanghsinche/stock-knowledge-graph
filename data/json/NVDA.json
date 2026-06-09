@@ -7,31 +7,31 @@
     "TSM",
     "005930.KS",
     "GlobalFoundries",
-    "UMC",
-    "TSM"
+    "ASE Technology Holding",
+    "Amkor Technology"
   ],
   "downstream": [
-    "DELL",
-    "HPQ",
-    "Lenovo Group",
+    "SONY",
     "MSFT",
-    "AMZN"
+    "Nintendo Co., Ltd.",
+    "DELL",
+    "TSLA"
   ],
   "competitors": [
     "AMD",
     "INTC",
     "QCOM",
-    "AAPL",
-    "005930.KS"
+    "AVGO",
+    "AAPL"
   ],
   "key_products": [
     "GeForce RTX GPUs",
     "Quadro RTX GPUs",
-    "Tesla V100/T4 GPUs",
-    "Jetson AGX Xavier",
-    "NVIDIA Drive PX"
+    "NVIDIA Tesla GPUs",
+    "Tegra SoCs",
+    "NVIDIA Drive PX automotive platform"
   ],
-  "extracted_at": "2026-06-08 18:19:22",
+  "extracted_at": "2026-06-09 17:54:37",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,7 +43,7 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Nvidia",
       "query": "NVIDIA Corporation suppliers manufacturers",
-      "snippet": "4 hours ago - In August 2025, Nvidia ordered ... concerns. The company directed suppliers including Taiwan Semiconductor Manufacturing Company, Samsun"
+      "snippet": "7 hours ago - In August 2025, Nvidia ordered ... concerns. The company directed suppliers including Taiwan Semiconductor Manufacturing Company, Samsun"
     },
     {
       "source": "DuckDuckGo",
@@ -53,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Nvidia",
+      "url": "https://finance.yahoo.com/news/nvidias-biggest-customers-095700428.html",
       "query": "NVIDIA Corporation major customers clients",
-      "snippet": "Nvidia Corporation is an American multinational technology company headquartered in Santa Clara, California. The company develops graphics processing "
+      "snippet": "June 26, 2025 - Nvidia has amassed an impressive list of customers, which includes top AI developers like Amazon, Microsoft, and Alphabet . Nvidia's c"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://coinlaw.io/nvidia-revenue-customer-concentration-q2/",
+      "url": "https://csimarket.com/stocks/markets_glance.php?code=NVDA",
       "query": "NVIDIA Corporation major customers clients",
-      "snippet": "Nvidia revealed that just two unnamed customers accounted for 39 percent of its total revenue in Q2, sparking debate about risk and transparency. Key "
+      "snippet": "1 day ago - Nvidia customers and markets, results by customer and performance relative to NVDA, by company and industry - CSIMarket"
     }
   ]
 }

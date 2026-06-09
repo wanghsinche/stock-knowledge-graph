@@ -6,32 +6,32 @@
   "upstream": [
     "INTC",
     "AMD",
-    "NVDA",
-    "Red Hat",
-    "VMware"
+    "DELL",
+    "HPQ",
+    "CSCO"
   ],
   "downstream": [
     "Bank of America",
-    "Walmart",
-    "General Motors",
-    "Coca‑Cola",
-    "UnitedHealth Group"
+    "UnitedHealth Group",
+    "General Electric",
+    "U.S. Department of Defense",
+    "Walmart"
   ],
   "competitors": [
     "MSFT",
-    "SAP",
-    "IBM",
     "AMZN",
+    "IBM",
+    "SAP",
     "GOOGL"
   ],
   "key_products": [
     "Oracle Database",
     "Oracle Cloud Infrastructure",
     "Oracle Autonomous Database",
-    "Oracle ERP Cloud",
-    "Oracle Fusion Applications"
+    "Oracle Fusion Applications",
+    "Oracle Analytics Cloud"
   ],
-  "extracted_at": "2026-06-08 18:23:08",
+  "extracted_at": "2026-06-09 18:18:01",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,13 +43,13 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Oracle_Corporation",
       "query": "Oracle Corporation suppliers manufacturers",
-      "snippet": "Oracle Rdb, a relational database system running on OpenVMS platforms. Oracle acquired Rdb in 1994 from Digital Equipment Corporation . Oracle has sin"
+      "snippet": "Oracle Corporation is an American multinational technology company headquartered in Austin, Texas. Co-founded in 1977 in Santa Clara, California, by i"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://ru.wikipedia.org/wiki/Oracle",
       "query": "Oracle Corporation suppliers manufacturers",
-      "snippet": "Oracle — американская корпорация, второй по размеру выручки разработчик программного обеспечения, четвёртая крупнейшая компания в сфере информационных"
+      "snippet": "Oracle ( Oracle Corporation ) — американская корпорация, второй по размеру выручки разработчик программного обеспечения (после Microsoft), четвёртая к"
     },
     {
       "source": "DuckDuckGo",
@@ -59,9 +59,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.oracle.com/corporate/",
+      "url": "https://ru.wikipedia.org/wiki/Oracle",
       "query": "Oracle Corporation major customers clients",
-      "snippet": "Oracle is pleased to provide information about our company, customers , partners, events, communities, press, analysts, investors, and careers.The com"
+      "snippet": "Oracle ( Oracle Corporation ) — американская корпорация, второй по размеру выручки разработчик программного обеспечения (после Microsoft), четвёртая к"
     }
   ]
 }

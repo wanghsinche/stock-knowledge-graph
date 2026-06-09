@@ -3,8 +3,8 @@ ticker: AAOI
 company: Applied Optoelectronics, Inc.
 sector: Technology
 industry: Communication Equipment
-extracted_at: 2026-06-08 18:24:18
-last_updated: 2026-06-08
+extracted_at: 2026-06-09 18:18:19
+last_updated: 2026-06-09
 ---
 
 # AAOI - Applied Optoelectronics, Inc.
@@ -12,46 +12,46 @@ last_updated: 2026-06-08
 ## 基本信息
 
 - **所属行业**: Technology / Communication Equipment
-- **提取时间**: 2026-06-08 18:24:18
+- **提取时间**: 2026-06-09 18:18:19
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Corning Inc.]]
+- [[II-VI Incorporated]]
 - [[Lumentum Holdings]]
-- [[3M]]
-- [[Nisshinbo]]
-- [[Sumitomo Electric]]
+- [[Finisar Corporation]]
+- [[Infinera Corporation]]
+- [[Coherent Inc.]]
 
 ### 下游客户
 - [[CSCO]]
+- [[Huawei Technologies]]
 - [[JNPR]]
-- [[Huawei]]
-- [[AT&T]]
-- [[Verizon]]
+- [[ANET]]
+- [[DELL]]
 
 ### 竞争对手
-- [[Corning Inc.]]
+- [[Finisar Corporation]]
 - [[Lumentum Holdings]]
+- [[Infinera Corporation]]
 - [[II-VI Incorporated]]
-- [[Opto-Logical]]
-- [[Amphenol]]
+- [[Coherent Inc.]]
 
 ### 核心产品
-- [[Fiber optic connectors (SC, LC, MPO)]]
-- [[Fiber optic cables]]
-- [[Optical transceivers]]
+- [[Fiber optic transceivers]]
 - [[Optical modules]]
-- [[Fiber optic splicing equipment]]
+- [[Optical switches]]
+- [[Optical amplifiers]]
+- [[Optical connectors]]
 
 ## 数据来源
 
 - 
-- [Applied Optoelectronics, Inc. suppliers manufacturers](https://csimarket.com/stocks/competitionSEG2.php?code=AAOI)
-- [Applied Optoelectronics, Inc. suppliers manufacturers](https://finance.yahoo.com/quote/1AAOI.MI/profile/)
-- [Applied Optoelectronics, Inc. major customers clients](https://finance.yahoo.com/quote/1AAOI.MI/)
-- [Applied Optoelectronics, Inc. major customers clients](https://www.msn.com/en-us/money/smallbusiness/applied-optoelectronics-stock-rises-on-200m-transceiver-order/ar-AA1XQ84o?ocid=finance-verthp-feeds)
+- [Applied Optoelectronics, Inc. suppliers manufacturers](https://www.azooptics.com/Suppliers.aspx?SupplierID=203)
+- [Applied Optoelectronics, Inc. suppliers manufacturers](https://finance.yahoo.com/quote/AAOI/)
+- [Applied Optoelectronics, Inc. major customers clients](https://www.trefis.com/data/companies/AAOI?from=AAOI-2026-06-08&source=yahoo)
+- [Applied Optoelectronics, Inc. major customers clients](https://www.marketwatch.com/investing/stock/aaoi)
 
 ## 元数据
 
-- **更新日期**: 2026-06-08
+- **更新日期**: 2026-06-09

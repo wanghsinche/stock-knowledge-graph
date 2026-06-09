@@ -3,8 +3,8 @@ ticker: VRT
 company: Vertiv Holdings Co
 sector: Industrials
 industry: Electrical Equipment & Parts
-extracted_at: 2026-05-20 18:19:53
-last_updated: 2026-05-20
+extracted_at: 2026-06-09 18:35:06
+last_updated: 2026-06-09
 ---
 
 # VRT - Vertiv Holdings Co
@@ -12,21 +12,21 @@ last_updated: 2026-05-20
 ## 基本信息
 
 - **所属行业**: Industrials / Electrical Equipment & Parts
-- **提取时间**: 2026-05-20 18:19:53
+- **提取时间**: 2026-06-09 18:35:06
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Siemens]]
-- [[ABB]]
+- [[Schneider Electric]]
 - [[Eaton]]
+- [[ABB]]
+- [[Siemens]]
 - [[Honeywell]]
-- [[CSCO]]
 
 ### 下游客户
 - [[AMZN]]
-- [[GOOGL]]
 - [[MSFT]]
+- [[GOOGL]]
 - [[AT&T]]
 - [[Verizon]]
 
@@ -34,24 +34,24 @@ last_updated: 2026-05-20
 - [[Schneider Electric]]
 - [[Eaton]]
 - [[ABB]]
-- [[CSCO]]
-- [[APC by Schneider]]
+- [[Siemens]]
+- [[Honeywell]]
 
 ### 核心产品
-- [[Power distribution units]]
-- [[Cooling systems]]
-- [[Rack‑mount servers]]
-- [[Environmental monitoring]]
-- [[Data center infrastructure management software]]
+- [[Power Distribution Units (PDUs)]]
+- [[Uninterruptible Power Supplies (UPS)]]
+- [[Cooling Systems]]
+- [[Data Center Infrastructure Management (DCIM) Software]]
+- [[Rack-Mount Servers]]
 
 ## 数据来源
 
 - [Vertiv](https://en.wikipedia.org/wiki/Vertiv_Holdings_Co)
-- [Vertiv Holdings Co suppliers manufacturers](https://en.wikipedia.org/wiki/Vertiv)
-- [Vertiv Holdings Co suppliers manufacturers](https://www.vertiv.com/en-us/)
-- [Vertiv Holdings Co major customers clients](https://en.wikipedia.org/wiki/Vertiv)
-- [Vertiv Holdings Co major customers clients](https://www.appsruntheworld.com/customers-database/vendors/view/vertiv)
+- [Vertiv Holdings Co suppliers manufacturers](https://finance.yahoo.com/quote/VRT/)
+- [Vertiv Holdings Co suppliers manufacturers](https://simplywall.st/stocks/us/capital-goods/nyse-vrt/vertiv-holdings-co)
+- [Vertiv Holdings Co major customers clients](https://simplywall.st/stocks/br/capital-goods/bovespa-v1rt34/vertiv-holdings-co-shares/future)
+- [Vertiv Holdings Co major customers clients](https://www.insidermonkey.com/blog/vertiv-holdings-co-vrt-surged-on-strong-results-and-better-than-expected-guidance-1741815/)
 
 ## 元数据
 
-- **更新日期**: 2026-05-20
+- **更新日期**: 2026-06-09

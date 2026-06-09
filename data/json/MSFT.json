@@ -7,15 +7,15 @@
     "INTC",
     "AMD",
     "NVDA",
-    "TSM",
+    "QCOM",
     "005930.KS"
   ],
   "downstream": [
-    "Walmart",
-    "JPMorgan Chase",
-    "U.S. Department of Defense",
+    "Enterprises",
+    "Small and Medium Businesses",
+    "Government Agencies",
     "DELL",
-    "HPQ"
+    "Consumers"
   ],
   "competitors": [
     "AAPL",
@@ -25,13 +25,13 @@
     "IBM"
   ],
   "key_products": [
-    "Windows",
+    "Windows Operating System",
     "Microsoft Office",
-    "Azure",
-    "Xbox",
-    "Surface"
+    "Azure Cloud Platform",
+    "Microsoft 365",
+    "Xbox Gaming Console"
   ],
-  "extracted_at": "2026-06-08 18:21:28",
+  "extracted_at": "2026-06-09 18:08:17",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,13 +43,13 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Microsoft",
       "query": "Microsoft Corporation suppliers manufacturers",
-      "snippet": "Microsoft entered the operating system (OS) business in 1980 with its own version of Unix, licensed from AT&T Corporation a year before, called Xenix,"
+      "snippet": "Microsoft Corporation is an American multinational technology company headquartered in Redmond, Washington."
     },
     {
       "source": "DuckDuckGo",
       "url": "https://csimarket.com/stocks/suppliers_glance.php?code=MSFT",
       "query": "Microsoft Corporation suppliers manufacturers",
-      "snippet": "Microsoft 's Comment on Supply Chain. We develop most of our products and services internally through four primary engineering groups.Among Microsoft "
+      "snippet": "News about Microsoft Corporation Contracts. Microsoft 's Comment on Supply Chain. We develop most of our products and services internally through four"
     },
     {
       "source": "DuckDuckGo",

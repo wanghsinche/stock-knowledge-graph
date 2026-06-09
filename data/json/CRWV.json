@@ -1,14 +1,14 @@
 {
   "ticker": "CRWV",
   "company_name": "CoreWeave, Inc.",
-  "sector": "Technology / Software - Infrastructure",
-  "industry": "AI Cloud Computing / GPU Infrastructure",
+  "sector": "Technology",
+  "industry": "Software - Infrastructure",
   "upstream": [
     "NVDA",
     "AMD",
     "INTC",
-    "Supermicro",
-    "DELL"
+    "QCOM",
+    "AVGO"
   ],
   "downstream": [
     "OpenAI",
@@ -18,20 +18,20 @@
     "IBM"
   ],
   "competitors": [
-    "AMZN",
-    "MSFT",
-    "GOOGL",
     "NVDA",
+    "AWS Inferentia",
+    "GOOGL",
+    "MSFT",
     "IBM"
   ],
   "key_products": [
-    "GPU-based AI cloud infrastructure",
-    "AI compute clusters",
-    "Chip management software",
-    "GPU virtualization services",
-    "High‑performance computing (HPC) solutions"
+    "GPU Cloud Infrastructure",
+    "H100 GPU Instances",
+    "H200 GPU Instances",
+    "Chip Management Software",
+    "AI Development Platform"
   ],
-  "extracted_at": "2026-06-08 18:25:23",
+  "extracted_at": "2026-06-09 18:37:14",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,25 +43,25 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/CoreWeave",
       "query": "CoreWeave, Inc. suppliers manufacturers",
-      "snippet": "CoreWeave , Inc . is an American artificial intelligence cloud-computing company based in Livingston, New Jersey."
+      "snippet": "CoreWeave , Inc . is an American artificial intelligence (AI) cloud-computing company based in Livingston, New Jersey."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.ig.com/en/shares/markets-shares/coreweave-inc",
+      "url": "https://fairlane.systems/en/wissen/tool-coreweave",
       "query": "CoreWeave, Inc. suppliers manufacturers",
-      "snippet": "CoreWeave , Inc . is a cloud infrastructure technology company. The Company offers the CoreWeave Cloud Platform, which consists of software and..."
+      "snippet": "In May 2026 CoreWeave runs one of the largest H100 and H200 inventories outside the hyperscalers. NVIDIA premium partner status means preferred access"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/CoreWeave",
       "query": "CoreWeave, Inc. major customers clients",
-      "snippet": "CoreWeave , Inc . is an American artificial intelligence cloud-computing company based in Livingston, New Jersey. It specializes in providing cloud-ba"
+      "snippet": "CoreWeave , Inc . is an American artificial intelligence (AI) cloud-computing company based in Livingston, New Jersey."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.morningstar.com/stocks/debt-fueled-coreweave-surges-ai-boom-is-stock-buy",
+      "url": "https://finance.yahoo.com/quote/CRWV.BA/holders/",
       "query": "CoreWeave, Inc. major customers clients",
-      "snippet": "CoreWeave Inc Ordinary Shares - Class A. (CRWV). CoreWeave ’s clients include OpenAI, Meta Platforms, and Microsoft. The company’s cloud-based AI infr"
+      "snippet": "Recently viewed. Top gainers. COO The Cooper Companies, Inc . 67.34 +5.32 (+8.58%)."
     }
   ]
 }

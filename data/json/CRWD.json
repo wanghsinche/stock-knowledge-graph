@@ -5,33 +5,33 @@
   "industry": "Software - Infrastructure",
   "upstream": [
     "MSFT",
+    "Linux",
     "AMZN",
-    "GOOGL",
-    "DELL",
-    "MSFT"
+    "MSFT",
+    "GOOGL"
   ],
   "downstream": [
-    "Large enterprises (e.g., Walmart, JPMorgan Chase)",
-    "Government agencies (U.S. Department of Defense, DHS)",
-    "Financial institutions (Goldman Sachs, Morgan Stanley)",
-    "Healthcare organizations (Mayo Clinic, UnitedHealth)",
-    "Retail chains (Target, Best Buy)"
+    "MSFT",
+    "GOOGL",
+    "AMZN",
+    "Bank of America",
+    "Citi"
   ],
   "competitors": [
     "Palo Alto Networks",
     "SentinelOne",
     "McAfee",
-    "Fortinet",
-    "Check Point Software Technologies"
+    "Symantec",
+    "Fortinet"
   ],
   "key_products": [
     "CrowdStrike Falcon Platform",
     "Falcon Prevent",
     "Falcon Insight",
-    "Falcon OverWatch",
-    "Threat Intelligence Services"
+    "Falcon Discover",
+    "Falcon Response"
   ],
-  "extracted_at": "2026-06-08 18:27:56",
+  "extracted_at": "2026-06-09 18:42:52",
   "sources": [
     {
       "source": "Wikipedia",
@@ -53,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.tradingview.com/symbols/NASDAQ-CRWD/",
-      "query": "CrowdStrike Holdings, Inc. major customers clients",
-      "snippet": "View live CrowdStrike Holdings , Inc . chart to track its stock's price action. Find market predictions, CRWD financials and market news."
-    },
-    {
-      "source": "DuckDuckGo",
       "url": "https://finance.yahoo.com/quote/CRWD/",
       "query": "CrowdStrike Holdings, Inc. major customers clients",
       "snippet": "Find the latest CrowdStrike Holdings , Inc . (CRWD) stock quote, history, news and other vital information to help you with your stock trading and inv"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://simplywall.st/stocks/us/software/nasdaq-crwd/crowdstrike-holdings",
+      "query": "CrowdStrike Holdings, Inc. major customers clients",
+      "snippet": "Research CrowdStrike Holdings ' (Nasdaq:CRWD) fundamentals, past performance, valuation, dividends and more. CrowdStrike announced Falcon OverWatch fo"
     }
   ]
 }

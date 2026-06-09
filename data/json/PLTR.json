@@ -4,34 +4,34 @@
   "sector": "Technology",
   "industry": "Software - Infrastructure",
   "upstream": [
-    "Hardware manufacturers (servers, storage)",
-    "Cloud service providers (AWS, Azure, GCP)",
-    "Data providers (government data feeds, commercial data vendors)",
-    "Software component suppliers (open‑source libraries, AI frameworks)",
-    "Networking equipment suppliers"
+    "AMZN",
+    "MSFT",
+    "GOOGL",
+    "ORCL",
+    "IBM"
   ],
   "downstream": [
     "U.S. Department of Defense",
     "INTC",
-    "Law enforcement agencies",
-    "Financial services firms",
-    "Healthcare and life‑science organizations"
+    "JPMorgan Chase",
+    "Bank of America",
+    "Pfizer"
   ],
   "competitors": [
     "Snowflake",
     "Databricks",
     "Splunk",
-    "IBM",
+    "Tableau",
     "MSFT"
   ],
   "key_products": [
-    "Palantir Foundry",
-    "Palantir Gotham",
-    "Palantir Apollo",
+    "Foundry",
+    "Gotham",
+    "Apollo",
     "Palantir Helios",
-    "Palantir Data Lake"
+    "Palantir Platform"
   ],
-  "extracted_at": "2026-06-08 18:24:03",
+  "extracted_at": "2026-06-09 18:21:32",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://builtin.com/articles/what-is-palantir",
+      "url": "https://en.wikipedia.org/wiki/Palantir",
       "query": "Palantir Technologies Inc. suppliers manufacturers",
-      "snippet": "In this article, we’ll trace Palantir ’s evolution from a military intelligence startup to one of the most valuable tech companies in the United State"
+      "snippet": "Palantir Technologies Inc . Palantir Technologies Inc . is an American publicly traded company that develops data integration and analytics platforms "
     },
     {
       "source": "DuckDuckGo",
       "url": "https://finance.yahoo.com/quote/PLTR/",
       "query": "Palantir Technologies Inc. suppliers manufacturers",
-      "snippet": "Palantir Technologies Inc . builds and deploys software platforms for the intelligence community to assist in counterterrorism investigations and oper"
+      "snippet": "Find the latest Palantir Technologies Inc . (PLTR) stock quote, history, news and other vital information to help you with your stock trading and inve"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.marketwatch.com/investing/stock/pltr",
+      "url": "https://en.wikipedia.org/wiki/Palantir",
       "query": "Palantir Technologies Inc. major customers clients",
-      "snippet": "PLTR | Complete Palantir Technologies Inc . stock news by MarketWatch. View real-time stock prices and stock quotes for a full financial overview. Pal"
+      "snippet": "Palantir Technologies Inc . is an American publicly traded company that develops data integration and analytics platforms enabling government agencies"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.tradingview.com/symbols/NASDAQ-PLTR/",
+      "url": "https://builtin.com/articles/what-is-palantir",
       "query": "Palantir Technologies Inc. major customers clients",
-      "snippet": "View live Palantir Technologies Inc . chart to track its stock's price action. Find market predictions, PLTR financials and market news."
+      "snippet": "How Palantir ’s Technology Works. To label Palantir ’s software as a data analytics dashboard would be an oversimplification. Palantir ’s software use"
     }
   ]
 }

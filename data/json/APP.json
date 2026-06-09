@@ -4,34 +4,34 @@
   "sector": "Communication Services",
   "industry": "Advertising Agencies",
   "upstream": [
-    "Mobile app developers",
-    "Data providers",
-    "Ad tech platform vendors",
-    "Cloud infrastructure providers",
-    "Analytics tool providers"
+    "AAPL",
+    "GOOGL",
+    "Data and analytics vendors (Appsflyer, Adjust)",
+    "Cloud infrastructure providers (AWS, Azure)",
+    "Technology component suppliers (SDK libraries, ad tech frameworks)"
   ],
   "downstream": [
-    "Mobile app publishers",
-    "Advertisers",
-    "Brands",
-    "Game developers",
-    "Marketing agencies"
+    "Mobile app developers",
+    "Game publishers",
+    "Consumer app brands",
+    "E‑commerce app operators",
+    "Social media app developers"
   ],
   "competitors": [
+    "Unity Ads",
     "GOOGL",
     "Facebook Audience Network",
-    "Unity Ads",
     "Vungle",
-    "Chartboost"
+    "IronSource"
   ],
   "key_products": [
-    "Mobile advertising platform",
-    "App monetization solutions",
-    "Marketing technology suite",
-    "User acquisition services",
-    "In-app advertising network"
+    "AppLovin MAX (ad mediation platform)",
+    "AppLovin SDK (mobile advertising SDK)",
+    "AppLovin Marketing Platform (app acquisition & analytics)",
+    "AppLovin App Discovery (in‑app discovery ads)",
+    "AppLovin App Monetization Suite"
   ],
-  "extracted_at": "2026-06-08 18:29:43",
+  "extracted_at": "2026-06-09 18:41:16",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,21 +47,21 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/APP/",
+      "url": "https://csimarket.com/stocks/APP-Business-Description.html",
       "query": "AppLovin Corporation suppliers manufacturers",
-      "snippet": "Find the latest AppLovin Corporation (APP) stock quote, history, news and other vital information to help you with your stock trading and investing."
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/AppLovin",
-      "query": "AppLovin Corporation major customers clients",
-      "snippet": "AppLovin Corporation is an American mobile technology company headquartered in Palo Alto, California."
+      "snippet": "Applovin Corporation Cash Flow Statement. Suppliers . Applovin Corporation . Business Description. Our software solutions provide mobile app developer"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.applovin.com/",
       "query": "AppLovin Corporation major customers clients",
       "snippet": "AppLovin enables businesses to advertise profitably with marketing technologies that attract customers , increase revenue, and track ad performance."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://finance.yahoo.com/quote/APP/",
+      "query": "AppLovin Corporation major customers clients",
+      "snippet": "Find the latest AppLovin Corporation (APP) stock quote, history, news and other vital information to help you with your stock trading and investing."
     }
   ]
 }

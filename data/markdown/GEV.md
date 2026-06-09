@@ -3,8 +3,8 @@ ticker: GEV
 company: GE Vernova Inc.
 sector: Industrials
 industry: Specialty Industrial Machinery
-extracted_at: 2026-06-05 17:56:22
-last_updated: 2026-06-05
+extracted_at: 2026-06-09 18:25:48
+last_updated: 2026-06-09
 ---
 
 # GEV - GE Vernova Inc.
@@ -12,37 +12,37 @@ last_updated: 2026-06-05
 ## 基本信息
 
 - **所属行业**: Industrials / Specialty Industrial Machinery
-- **提取时间**: 2026-06-05 17:56:22
+- **提取时间**: 2026-06-09 18:25:48
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Siemens Energy]]
-- [[Alstom]]
-- [[Mitsubishi Hitachi Power Systems]]
-- [[ABB]]
-- [[Schneider Electric]]
+- [[Siemens AG]]
+- [[Schneider Electric SE]]
+- [[ABB Ltd]]
+- [[Honeywell International Inc.]]
+- [[Emerson Electric Co.]]
 
 ### 下游客户
+- [[National Grid]]
+- [[Enel]]
+- [[EDF]]
 - [[Duke Energy]]
 - [[Southern Company]]
-- [[NextEra Energy]]
-- [[EDF]]
-- [[Enel]]
 
 ### 竞争对手
 - [[Siemens Energy]]
-- [[Alstom]]
-- [[Mitsubishi Hitachi Power Systems]]
-- [[ABB]]
 - [[Schneider Electric]]
+- [[ABB]]
+- [[Honeywell]]
+- [[Emerson]]
 
 ### 核心产品
 - [[Gas turbines]]
 - [[Steam turbines]]
-- [[Combined cycle power plants]]
-- [[Renewable energy equipment]]
-- [[Power generation systems]]
+- [[Power generation equipment]]
+- [[Industrial gas turbines]]
+- [[Power plant services]]
 
 ## 数据来源
 
@@ -54,4 +54,4 @@ last_updated: 2026-06-05
 
 ## 元数据
 
-- **更新日期**: 2026-06-05
+- **更新日期**: 2026-06-09

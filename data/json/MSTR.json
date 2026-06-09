@@ -1,67 +1,67 @@
 {
   "ticker": "MSTR",
   "company_name": "Strategy Inc",
-  "sector": "Technology / Software - Application",
-  "industry": "Business Intelligence & Analytics",
+  "sector": "Technology",
+  "industry": "Software - Application",
   "upstream": [
     "MSFT",
     "AMZN",
     "GOOGL",
-    "INTC",
-    "NVDA"
+    "ORCL",
+    "IBM"
   ],
   "downstream": [
-    "Bank of America",
-    "Citigroup",
-    "UnitedHealth Group",
-    "General Motors",
-    "U.S. Department of Defense"
+    "Financial services firms",
+    "Retail companies",
+    "Manufacturing firms",
+    "Healthcare organizations",
+    "Government agencies"
   ],
   "competitors": [
-    "Tableau",
-    "Qlik",
+    "SAP SE Business Objects",
+    "IBM",
+    "ORCL",
     "MSFT",
-    "Looker",
-    "SAP BusinessObjects"
+    "Tableau"
   ],
   "key_products": [
-    "MicroStrategy Analytics",
+    "MicroStrategy Desktop",
     "MicroStrategy Cloud",
     "MicroStrategy Mobile",
-    "MicroStrategy Data Warehouse",
-    "MicroStrategy Analytics Platform"
+    "MicroStrategy Analytics",
+    "MicroStrategy Data Visualization"
   ],
-  "extracted_at": "2026-06-08 18:25:12",
+  "extracted_at": "2026-06-09 18:36:29",
   "sources": [
     {
       "source": "Wikipedia",
-      "url": "",
-      "title": "",
-      "snippet": ""
+      "url": "https://en.wikipedia.org/wiki/Strategy_Inc",
+      "title": "MicroStrategy",
+      "snippet": "Strategy Inc., formerly known as MicroStrategy, is an American company that provides business intelligence (BI) and mobile software. Founded in 1989 by Michael J. Saylor, Sanju Bansal, and Thomas Spah"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.strategy.com/software",
+      "url": "https://en.wikipedia.org/wiki/Strategic_partnership",
       "query": "Strategy Inc suppliers manufacturers",
-      "snippet": "Strategy Solutions powered by Mosaic provide a universal semantic layer that unifies enterprise data, governs business metrics, and delivers trusted A"
+      "snippet": "A strategic partnership (also see strategic alliance) is a relationship between two commercial enterprises, usually formalized by one or more business"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://unilog.company/blog-articles/supply-chain-strategy-support-the-business-strategy/",
+      "url": "https://finance.yahoo.com/quote/MSTR/",
       "query": "Strategy Inc suppliers manufacturers",
-      "snippet": "Supply Chain Strategy refers to the approach and plans a company takes to manage and optimize the flow of goods, services, and information from suppli"
+      "snippet": "Find the latest Strategy Inc (MSTR) stock quote, history, news and other vital information to help you with your stock trading and investing."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/MicroStrategy",
+      "url": "https://finance.yahoo.com/quote/MSTR/",
       "query": "Strategy Inc major customers clients",
-      "snippet": "Strategy Inc., formerly known as MicroStrategy, is an American company that provides business intelligence (BI) and mobile software."
+      "snippet": "Find the latest Strategy Inc (MSTR) stock quote, history, news and other vital information to help you with your stock trading and investing."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.strategy.com/software/customer-stories",
+      "url": "https://www.linkedin.com/pulse/lead-nurturing-growth-strategy-how-build-long-term-customer-ve9ue",
       "query": "Strategy Inc major customers clients",
-      "snippet": "Dive into Strategy customer stories highlighting the impact of Analytics in Healthcare, Financial Services, Call Centers, Retail, Insurance, and Gover"
+      "snippet": "Increasing customer retention by just 5% can boost profits by 25% to 95%, according to Harvard Business Review, making lead nurturing one of the most "
     }
   ]
 }

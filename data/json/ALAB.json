@@ -1,37 +1,37 @@
 {
   "ticker": "ALAB",
   "company_name": "Astera Labs, Inc.",
-  "sector": "Technology",
-  "industry": "Semiconductors",
+  "sector": "Technology / Semiconductors",
+  "industry": "Semiconductor Interconnect Solutions",
   "upstream": [
-    "Silicon wafer suppliers",
-    "Packaging and assembly providers",
-    "Test and measurement equipment manufacturers",
-    "IP core vendors",
-    "EDA tool providers"
+    "TSM",
+    "005930.KS",
+    "GlobalFoundries",
+    "UMC",
+    "TSM"
   ],
   "downstream": [
-    "CSCO",
-    "JNPR",
-    "ANET",
+    "GOOGL",
+    "AMZN",
+    "MSFT",
     "DELL",
-    "Huawei Technologies"
+    "HPQ"
   ],
   "competitors": [
     "AVGO",
     "MRVL",
-    "TXN",
-    "ADI",
-    "QRVO"
+    "INTC",
+    "AMD",
+    "NVDA"
   ],
   "key_products": [
-    "10G/25G/40G/100G Ethernet SerDes IP",
-    "PCIe Gen4/Gen5 SerDes IP",
-    "NVMe over Fabrics SerDes IP",
-    "Optical transceiver IP",
-    "High‑speed interconnect solutions"
+    "Aster Interconnect Chips",
+    "Aster Interconnect IP",
+    "Aster Interconnect ASICs",
+    "Aster Interconnect Modules",
+    "Aster Interconnect Solutions"
   ],
-  "extracted_at": "2026-05-26 18:23:39",
+  "extracted_at": "2026-06-09 18:42:29",
   "sources": [
     {
       "source": "Wikipedia",
@@ -49,19 +49,19 @@
       "source": "DuckDuckGo",
       "url": "https://www.asteralabs.com/",
       "query": "Astera Labs, Inc. suppliers manufacturers",
-      "snippet": "Go to the homepage of ASTERA LABS , INC .Plug-and-play interoperability is critical for deploying rack-scale AI. Astera Labs rigorously tests its prod"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Astera_Labs",
-      "query": "Astera Labs, Inc. major customers clients",
-      "snippet": "Astera Labs , Inc . is an American fabless semiconductor manufacturer and artificial intelligence company. The company specializes in designing high-s"
+      "snippet": "Plug-and-play interoperability is critical for deploying rack-scale AI. Astera Labs rigorously tests its products with all major hosts, endpoints, and"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.asteralabs.com/",
       "query": "Astera Labs, Inc. major customers clients",
-      "snippet": "Cloud-Scale Interop Lab . Plug-and-play interoperability is critical for deploying rack-scale AI. Astera Labs rigorously tests its products with all m"
+      "snippet": "Go to the homepage of ASTERA LABS , INC .Cloud-Scale Interop Lab . Plug-and-play interoperability is critical for deploying rack-scale AI. Astera Labs"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://finance.yahoo.com/quote/ALAB/",
+      "query": "Astera Labs, Inc. major customers clients",
+      "snippet": "Find the latest Astera Labs , Inc . (ALAB) stock quote, history, news and other vital information to help you with your stock trading and investing."
     }
   ]
 }

@@ -3,8 +3,8 @@ ticker: CCJ
 company: Cameco Corporation
 sector: Energy
 industry: Uranium
-extracted_at: 2026-06-08 18:33:25
-last_updated: 2026-06-08
+extracted_at: 2026-06-09 18:43:54
+last_updated: 2026-06-09
 ---
 
 # CCJ - Cameco Corporation
@@ -12,16 +12,16 @@ last_updated: 2026-06-08
 ## 基本信息
 
 - **所属行业**: Energy / Uranium
-- **提取时间**: 2026-06-08 18:33:25
+- **提取时间**: 2026-06-09 18:43:54
 
 ## 产业链关系
 
 ### 上游供应商
 - [[Mining equipment manufacturers]]
+- [[Drilling rig suppliers]]
 - [[Exploration service providers]]
-- [[CAT]]
 - [[Geological survey firms]]
-- [[Chemical processing equipment vendors]]
+- [[Mining safety equipment vendors]]
 
 ### 下游客户
 - [[Nuclear power plant operators]]
@@ -34,24 +34,24 @@ last_updated: 2026-06-08
 - [[Kazatomprom]]
 - [[Energy Fuels Inc.]]
 - [[Uranium Energy Corp.]]
-- [[Uranium One Ltd.]]
+- [[Orano]]
 - [[NexGen Energy Ltd.]]
 
 ### 核心产品
-- [[Uranium ore (U3O8)]]
 - [[Uranium hexafluoride (UF6)]]
+- [[Uranium dioxide (UO2)]]
+- [[Uranium metal]]
 - [[Enriched uranium fuel assemblies]]
-- [[Uranium concentrate]]
-- [[Uranium fuel fabrication services]]
+- [[Uranium ore concentrates]]
 
 ## 数据来源
 
 - [Cameco](https://en.wikipedia.org/wiki/Cameco_Corporation)
 - [Cameco Corporation suppliers manufacturers](https://www.cameco.com/)
-- [Cameco Corporation suppliers manufacturers](https://www.fool.com/investing/2017/05/15/better-buy-cameco-corporation-vs-denison-mines.aspx)
+- [Cameco Corporation suppliers manufacturers](https://www.essay48.com/term-paper/2288-Cameco-Corporation-Porter-Five-Forces)
 - [Cameco Corporation major customers clients](https://www.cameco.com/)
 - [Cameco Corporation major customers clients](https://www.marketresearch.com/MarketLine-v3883/Cameco-Corp-Company-Profile-SWOT-42667107/)
 
 ## 元数据
 
-- **更新日期**: 2026-06-08
+- **更新日期**: 2026-06-09

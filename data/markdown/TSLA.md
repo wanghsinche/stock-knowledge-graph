@@ -3,8 +3,8 @@ ticker: TSLA
 company: Tesla, Inc.
 sector: Consumer Cyclical
 industry: Auto Manufacturers
-extracted_at: 2026-06-08 18:19:53
-last_updated: 2026-06-08
+extracted_at: 2026-06-09 18:01:08
+last_updated: 2026-06-09
 ---
 
 # TSLA - Tesla, Inc.
@@ -12,7 +12,7 @@ last_updated: 2026-06-08
 ## 基本信息
 
 - **所属行业**: Consumer Cyclical / Auto Manufacturers
-- **提取时间**: 2026-06-08 18:19:53
+- **提取时间**: 2026-06-09 18:01:08
 
 ## 产业链关系
 
@@ -20,43 +20,38 @@ last_updated: 2026-06-08
 - [[Panasonic]]
 - [[LG Chem]]
 - [[CAT]]
-- [[005930.KS]]
-- [[SK Innovation]]
+- [[Raw materials (lithium, cobalt, nickel)]]
+- [[Battery cell suppliers]]
 
 ### 下游客户
 - [[Individual consumers]]
-- [[Commercial fleet operators]]
-- [[Utility companies]]
+- [[Fleet operators]]
 - [[Government agencies]]
-- [[Corporate leasing firms]]
+- [[Commercial fleet customers]]
+- [[Energy storage customers]]
 
 ### 竞争对手
-- [[Ford Motor Company]]
 - [[General Motors]]
-- [[Volkswagen AG]]
-- [[Hyundai Motor Group]]
-- [[Rivian Automotive]]
+- [[Ford]]
+- [[Volkswagen]]
+- [[BYD]]
+- [[Lucid Motors]]
 
 ### 核心产品
 - [[Model S]]
 - [[Model 3]]
 - [[Model X]]
 - [[Model Y]]
-- [[Cybertruck]]
-- [[Semi]]
 - [[Powerwall]]
-- [[Powerpack]]
-- [[Solar Roof]]
-- [[Solar Panels]]
 
 ## 数据来源
 
 - [Tesla, Inc.](https://en.wikipedia.org/wiki/Tesla,_Inc.)
 - [Tesla, Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/Tesla,_Inc.)
-- [Tesla, Inc. suppliers manufacturers](https://www.tesla.com/)
-- [Tesla, Inc. major customers clients](https://en.wikipedia.org/wiki/Tesla,_Inc.)
-- [Tesla, Inc. major customers clients](https://www.tesla.com/customer-stories)
+- [Tesla, Inc. suppliers manufacturers](https://www.investopedia.com/ask/answers/052815/who-are-teslas-tsla-main-suppliers.asp)
+- [Tesla, Inc. major customers clients](https://csimarket.com/stocks/TSLA-Customers)
+- [Tesla, Inc. major customers clients](https://businessmodelanalyst.com/tesla-target-market/)
 
 ## 元数据
 
-- **更新日期**: 2026-06-08
+- **更新日期**: 2026-06-09

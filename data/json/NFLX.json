@@ -4,34 +4,34 @@
   "sector": "Communication Services",
   "industry": "Entertainment",
   "upstream": [
-    "Content production studios (e.g., Warner Bros., Universal Studios)",
-    "SONY",
-    "Equipment suppliers (e.g., Dolby, Panavision)",
     "AMZN",
-    "Marketing and advertising agencies"
+    "MSFT",
+    "GOOGL",
+    "Akamai Technologies",
+    "Warner Bros. Discovery"
   ],
   "downstream": [
-    "Individual subscribers worldwide",
-    "Corporate and institutional accounts",
-    "005930.KS",
-    "Gaming consoles (e.g., Xbox, PlayStation)",
-    "Mobile device users"
+    "US households",
+    "European households",
+    "Asian households",
+    "Corporate accounts",
+    "AAPL"
   ],
   "competitors": [
     "Disney+",
     "AMZN",
     "HBO Max",
-    "Paramount+",
+    "Hulu",
     "AAPL"
   ],
   "key_products": [
     "Netflix streaming service",
-    "Original series and films",
-    "Licensed TV shows and movies",
-    "Mobile and web applications",
-    "Interactive content (e.g., Black Mirror: Bandersnatch)"
+    "Netflix Originals",
+    "Licensed content library",
+    "Mobile app",
+    "Smart TV app"
   ],
-  "extracted_at": "2026-06-08 18:27:40",
+  "extracted_at": "2026-06-09 18:38:17",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,25 +43,25 @@
       "source": "DuckDuckGo",
       "url": "https://csimarket.com/stocks/NFLX-Suppliers",
       "query": "Netflix, Inc. suppliers manufacturers",
-      "snippet": "Netflix Inc supply chain, list and performance of Netflix Incs ' suppliers - CSIMarket."
+      "snippet": "Netflix Inc supply chain, list and performance of Netflix Incs ' suppliers - CSIMarket.NFLX's Suppliers Net margin grew in Q1 to 16.59 %."
     },
     {
       "source": "DuckDuckGo",
       "url": "https://porteranalysis.com/porters-five-forces-of-netflix/",
       "query": "Netflix, Inc. suppliers manufacturers",
-      "snippet": "Likewise, the suppliers have a weaker bargaining power while dealing with the traditional broadcasting businesses, but online distributors like Netfli"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.investopedia.com/insights/how-netflix-makes-money/",
-      "query": "Netflix, Inc. major customers clients",
-      "snippet": "licensing content is a huge expense for Netflix ."
+      "snippet": "This is the detailed Porter’s five forces of Netflix that would allow to gain insight into the industry , identifying the magnitude of each of the fiv"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://ir.netflix.net/",
       "query": "Netflix, Inc. major customers clients",
       "snippet": "Company Profile. Netflix is one of the world’s leading entertainment services offering TV series, films, games and live programming across a wide vari"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.investopedia.com/insights/how-netflix-makes-money/",
+      "query": "Netflix, Inc. major customers clients",
+      "snippet": "licensing content is a huge expense for Netflix ."
     }
   ]
 }

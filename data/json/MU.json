@@ -4,33 +4,34 @@
   "sector": "Technology",
   "industry": "Semiconductors",
   "upstream": [
+    "Silicon wafer suppliers",
+    "Chemical suppliers (etching, doping chemicals)",
     "AMAT",
-    "ASML",
-    "LRCX",
-    "Tokyo Electron",
-    "KLA"
+    "Packaging suppliers",
+    "Polysilicon raw material suppliers"
   ],
   "downstream": [
-    "AAPL",
     "DELL",
-    "HPQ",
-    "Lenovo",
-    "005930.KS"
+    "AAPL",
+    "MSFT",
+    "DELL",
+    "GOOGL"
   ],
   "competitors": [
     "005930.KS",
     "SK Hynix",
-    "INTC",
-    "MU"
+    "WDC",
+    "Nanya Technology",
+    "Kingston Technology"
   ],
   "key_products": [
     "Dynamic Random-Access Memory (DRAM)",
-    "NAND Flash Memory",
+    "NAND flash memory",
     "High Bandwidth Memory (HBM)",
     "Solid-State Drives (SSDs)",
-    "Memory Modules"
+    "Memory modules"
   ],
-  "extracted_at": "2026-06-08 18:19:07",
+  "extracted_at": "2026-06-09 17:54:27",
   "sources": [
     {
       "source": "Wikipedia",

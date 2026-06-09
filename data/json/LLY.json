@@ -3,11 +3,35 @@
   "company_name": "Eli Lilly and Company",
   "sector": "Healthcare",
   "industry": "Drug Manufacturers - General",
-  "upstream": [],
-  "downstream": [],
-  "competitors": [],
-  "key_products": [],
-  "extracted_at": "2026-06-08 18:22:56",
+  "upstream": [
+    "Raw material suppliers (chemicals, biologics)",
+    "Contract manufacturing organizations (CMOs)",
+    "Biotechnology component suppliers",
+    "Packaging and labeling vendors",
+    "Research and development partners"
+  ],
+  "downstream": [
+    "Hospitals and health systems",
+    "Community and specialty pharmacies",
+    "Government health agencies (e.g., CDC, WHO)",
+    "Health insurance providers",
+    "International pharmaceutical distributors"
+  ],
+  "competitors": [
+    "Pfizer",
+    "Johnson & Johnson",
+    "Novartis",
+    "Merck & Co.",
+    "Sanofi"
+  ],
+  "key_products": [
+    "Humira (adalimumab)",
+    "Trulicity (dulaglutide)",
+    "Mounjaro (tirzepatide)",
+    "Lantus (insulin glargine)",
+    "Cymbalta (duloxetine)"
+  ],
+  "extracted_at": "2026-06-09 18:24:37",
   "sources": [
     {
       "source": "Wikipedia",
@@ -25,7 +49,19 @@
       "source": "DuckDuckGo",
       "url": "https://www.lilly.com/",
       "query": "Eli Lilly and Company suppliers manufacturers",
-      "snippet": "Lilly is a medicine company that puts health above all. Learn about our medicines, view condition support, find care, and much more."
+      "snippet": "Lilly is a medicine company that puts health above all. Learn about our medicines, view condition support, find care, and much more. Lilly employee wo"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/Eli_Lilly_and_Company",
+      "query": "Eli Lilly and Company major customers clients",
+      "snippet": "Eli Lilly and Company , doing business as Lilly , is an American multinational pharmaceutical company headquartered in Indianapolis, Indiana, with off"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.linkedin.com/company/eli-lilly-and-company",
+      "query": "Eli Lilly and Company major customers clients",
+      "snippet": "At the World Health Assembly, WHO Foundation and Eli Lilly and Company convened key stakeholders to explore integrated care for NCDs, including the ri"
     }
   ]
 }

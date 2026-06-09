@@ -1,43 +1,43 @@
 {
   "ticker": "CIEN",
   "company_name": "Ciena Corporation",
-  "sector": "Technology",
-  "industry": "Communication Equipment",
+  "sector": "Technology / Communication Equipment",
+  "industry": "Optical Networking Systems",
   "upstream": [
-    "INTC",
-    "AVGO",
-    "MRVL",
-    "QCOM",
-    "CSCO"
+    "Corning Inc.",
+    "Lumentum Holdings",
+    "II-VI Incorporated",
+    "Finisar Corporation",
+    "Coherent Inc."
   ],
   "downstream": [
-    "AT&T Inc.",
+    "AT&T",
     "CAT",
-    "Vodafone Group",
-    "China Mobile",
-    "Telefonica"
+    "Comcast",
+    "GOOGL",
+    "AMZN"
   ],
   "competitors": [
     "Nokia",
     "Ericsson",
     "Huawei",
     "JNPR",
-    "CAT"
+    "Infinera"
   ],
   "key_products": [
-    "Optical transport equipment",
-    "Packet optical transport",
-    "Optical switching",
-    "Optical networking solutions",
-    "Network solutions for cloud, AI, and digital transformation"
+    "Ciena 100G Optical Transport Platform",
+    "Ciena 400G Optical Transport Platform",
+    "Ciena 800G Optical Transport Platform",
+    "Ciena ROADMs (Reconfigurable Optical Add-Drop Multiplexers)",
+    "Ciena Optical Networking Software Suite"
   ],
-  "extracted_at": "2026-06-08 18:27:09",
+  "extracted_at": "2026-06-09 18:23:10",
   "sources": [
     {
       "source": "Wikipedia",
-      "url": "",
-      "title": "",
-      "snippet": ""
+      "url": "https://en.wikipedia.org/wiki/Ciena_Corporation",
+      "title": "Ciena",
+      "snippet": "Ciena Corporation is an American optical networking systems and software company based in Hanover, Maryland. The company has been described as a vital player in optical connectivity. The company repor"
     },
     {
       "source": "DuckDuckGo",
@@ -47,9 +47,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ca.finance.yahoo.com/news/investors-ciena-stock-ahead-q2-134900312.html",
+      "url": "https://www.thenew.money/company/ciena-corp",
       "query": "Ciena Corporation suppliers manufacturers",
-      "snippet": "Ciena Corporation CIEN will report second-quarter fiscal 2026 results on June 4, before market open. The Zacks Consensus Estimate for earnings for the"
+      "snippet": "Ciena Corporation builds adaptive network infrastructure to support bandwidth-intensive applications including cloud, data centre and AI workloads."
     },
     {
       "source": "DuckDuckGo",
@@ -61,7 +61,7 @@
       "source": "DuckDuckGo",
       "url": "https://www.tipranks.com/stocks/cien/stock-analysis",
       "query": "Ciena Corporation major customers clients",
-      "snippet": "Ciena Corporation reported revenue of $1.13 billion for Q2 2025, reaching the high end of guidance and demonstrating strong demand across all customer"
+      "snippet": "Get a real-time Ciena (CIEN) stock analysis report, powered by AI. See AAPL business overview, financial statement overview and technical analysis."
     }
   ]
 }

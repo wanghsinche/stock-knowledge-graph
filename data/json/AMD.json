@@ -7,8 +7,8 @@
     "TSM",
     "005930.KS",
     "GlobalFoundries",
-    "United Microelectronics Corporation (UMC)",
-    "Semiconductor Manufacturing International Corporation (SMIC)"
+    "INTC",
+    "TSM"
   ],
   "downstream": [
     "DELL",
@@ -22,16 +22,16 @@
     "NVDA",
     "QCOM",
     "AVGO",
-    "005930.KS"
+    "ARM"
   ],
   "key_products": [
     "Ryzen CPUs",
-    "EPYC servers",
+    "EPYC CPUs",
     "Radeon GPUs",
-    "Xilinx FPGAs",
-    "APU SoCs"
+    "Radeon Instinct",
+    "AMD GPUs for gaming"
   ],
-  "extracted_at": "2026-06-08 18:20:58",
+  "extracted_at": "2026-06-09 18:04:30",
   "sources": [
     {
       "source": "Wikipedia",
@@ -59,9 +59,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.tradingview.com/news/marketbeat:26f5a9082094b:0-advanced-micro-devices-shareholders-back-board-as-lisa-su-touts-ai-growth/",
+      "url": "https://www.britannica.com/money/Advanced-Micro-Devices-Inc",
       "query": "Advanced Micro Devices, Inc. major customers clients",
-      "snippet": "Advanced Micro Devices , Inc AMD is a global semiconductor company that designs and sells microprocessors, graphics processors, chipsets and adaptive "
+      "snippet": "Advanced Micro Devices , Inc . ( AMD ) is an American semiconductor designer and global supplier of computing and graphics technologies used in data c"
     }
   ]
 }

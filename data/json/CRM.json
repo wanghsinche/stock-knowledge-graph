@@ -4,64 +4,64 @@
   "sector": "Technology",
   "industry": "Software - Application",
   "upstream": [
-    "ExactTarget Inc.",
     "AMZN",
     "MSFT",
     "GOOGL",
-    "ADBE"
+    "IBM",
+    "ORCL"
   ],
   "downstream": [
-    "American Express",
     "Coca-Cola",
     "Toyota",
-    "HSBC",
-    "Walmart"
+    "American Express",
+    "General Electric",
+    "AT&T"
   ],
   "competitors": [
     "MSFT",
+    "SAP SuccessFactors",
     "ORCL",
-    "SAP Customer Experience",
     "HubSpot",
-    "Zendesk"
+    "Zoho CRM"
   ],
   "key_products": [
     "Sales Cloud",
     "Service Cloud",
     "Marketing Cloud",
     "Commerce Cloud",
-    "Einstein AI"
+    "Experience Cloud"
   ],
-  "extracted_at": "2026-06-08 18:31:34",
+  "extracted_at": "2026-06-09 18:38:02",
   "sources": [
     {
       "source": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Salesforce,_Inc.",
-      "title": "Salesforce",
-      "snippet": "Salesforce, Inc., is an American cloud-based software company headquartered in San Francisco, California. It is primarily known for its customer relationship management software and related applicatio"
+      "url": "",
+      "title": "",
+      "snippet": ""
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.salesforce.com/",
+      "url": "https://tr.wikipedia.org/wiki/Salesforce",
       "query": "Salesforce, Inc. suppliers manufacturers",
-      "snippet": "ExactTarget Inc ."
+      "snippet": "Salesforce merkezi San Francisco, Kaliforniya'da bulunan bir Amerikan bulut tabanlı yazılım şirketidir. Şirket müşteri ilişkileri yönetimi (CRM) hizme"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/fundamentals_glance.php?code=CRM",
+      "url": "https://csimarket.com/stocks/CRM-Suppliers",
       "query": "Salesforce, Inc. suppliers manufacturers",
-      "snippet": "Fundamental Analysis on Salesforce Inc Key ratios, Comparisons to Software & Programming Industry, Technology Sector, S&P 500 - CSIMarket."
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://hevodata.com/learn/salesforce-customers/",
-      "query": "Salesforce, Inc. major customers clients",
-      "snippet": "This article will give you a comprehensive guide to the 8 Best Salesforce Customers . You will also get to know about Salesforce and its key features."
+      "snippet": "Salesforce Inc supply chain, list and performance of Salesforce Incs ' suppliers - CSIMarket."
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.salesforce.com/",
       "query": "Salesforce, Inc. major customers clients",
       "snippet": "Salesforce Enterprise-grade CRM with deep reporting, sales operations, and..."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.linkedin.com/company/salesforce",
+      "query": "Salesforce, Inc. major customers clients",
+      "snippet": "Salesforce | 6,534,512 followers on LinkedIn. We're the #1 AI CRM—where humans with agents drive customer success together with AI, data, and Customer"
     }
   ]
 }

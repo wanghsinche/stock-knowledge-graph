@@ -4,34 +4,34 @@
   "sector": "Technology",
   "industry": "Software - Application",
   "upstream": [
-    "MSFT",
     "AMZN",
+    "MSFT",
     "GOOGL",
     "ORCL",
     "IBM"
   ],
   "downstream": [
-    "IBM",
-    "Accenture",
-    "Cognizant",
     "Walmart",
-    "Bank of America"
+    "AT&T",
+    "Bank of America",
+    "Coca‑Cola",
+    "Airbnb"
   ],
   "competitors": [
     "CRM",
     "MSFT",
     "SAP SuccessFactors",
     "ORCL",
-    "Atlassian"
+    "Workday"
   ],
   "key_products": [
-    "Now Platform",
+    "ServiceNow Platform",
     "IT Service Management (ITSM)",
     "IT Operations Management (ITOM)",
-    "IT Business Management (ITBM)",
-    "Customer Service Management (CSM)"
+    "HR Service Delivery",
+    "Customer Service Management"
   ],
-  "extracted_at": "2026-06-08 18:27:26",
+  "extracted_at": "2026-06-09 18:22:55",
   "sources": [
     {
       "source": "Wikipedia",
@@ -59,9 +59,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.benzinga.com/trading-ideas/movers/26/06/53004920/servicenow-shares-are-climbing-whats-driving-the-move",
+      "url": "https://markets.ft.com/data/announce/detail?dockey=600-202605061300BIZWIRE_USPRX____20260506_BW000690-1",
       "query": "ServiceNow, Inc. major customers clients",
-      "snippet": "How ServiceNow Operates in the Software Market. ServiceNow Inc provides software solutions to structure and automate various business processes via a "
+      "snippet": "ServiceNow Telecommunications Service Management is a generally available product and now includes ServiceNow Telco Customer 360 as part of the Austra"
     }
   ]
 }

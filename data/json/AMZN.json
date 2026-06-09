@@ -4,40 +4,40 @@
   "sector": "Consumer Cyclical",
   "industry": "Internet Retail",
   "upstream": [
-    "Third‑party sellers",
-    "Manufacturers of consumer electronics",
+    "Book publishers",
+    "Consumer electronics manufacturers",
     "Apparel manufacturers",
-    "Home goods suppliers",
-    "AMZN"
+    "Home goods manufacturers",
+    "NVDA"
   ],
   "downstream": [
+    "Retail consumers",
+    "Enterprise customers using AWS",
     "AMZN",
     "AMZN",
-    "Prime members",
-    "AMZN",
-    "AMZN"
+    "Advertising clients"
   ],
   "competitors": [
-    "Walmart",
     "eBay",
+    "Walmart",
     "Alibaba",
-    "Target",
-    "Shopify"
+    "Shopify",
+    "Target"
   ],
   "key_products": [
     "Amazon.com e‑commerce platform",
-    "Amazon Web Services",
-    "Amazon Prime subscription",
-    "Amazon Devices (Echo, Kindle)",
-    "Amazon Fulfillment services"
+    "Amazon Prime subscription services",
+    "Amazon Web Services (cloud computing)",
+    "Amazon Echo (Alexa) smart speakers",
+    "Amazon Kindle e‑readers"
   ],
-  "extracted_at": "2026-06-08 18:22:03",
+  "extracted_at": "2026-06-09 18:10:10",
   "sources": [
     {
       "source": "Wikipedia",
-      "url": "",
-      "title": "",
-      "snippet": ""
+      "url": "https://en.wikipedia.org/wiki/Amazon.com,_Inc.",
+      "title": "Amazon (company)",
+      "snippet": "Amazon.com, Inc. is an American multinational technology company engaged in e-commerce, cloud computing, online advertising, digital streaming, entertainment, and artificial intelligence. Founded in 1"
     },
     {
       "source": "DuckDuckGo",
@@ -49,19 +49,19 @@
       "source": "DuckDuckGo",
       "url": "https://ir.aboutamazon.com/",
       "query": "Amazon.com, Inc. suppliers manufacturers",
-      "snippet": "Amazon . com Announces First Quarter Results. Amazon . com , Inc . (NASDAQ: AMZN) today announced financial results for its first quarter ended March "
+      "snippet": "Amazon . com , Inc . (NASDAQ: AMZN) today announced financial results for its first quarter ended March 31, 2026. Net sales increased 17% to $181.5 bi"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://ir.aboutamazon.com/",
       "query": "Amazon.com, Inc. major customers clients",
-      "snippet": "Amazon . com , Inc . (NASDAQ: AMZN) today announced financial results for its first quarter ended March 31, 2026."
+      "snippet": "Amazon . com Announces First Quarter Results. Amazon . com , Inc . (NASDAQ: AMZN) today announced financial results for its first quarter ended March "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://aws.amazon.com/",
+      "url": "https://stocktwits.com/symbol/AMZN",
       "query": "Amazon.com, Inc. major customers clients",
-      "snippet": "Amazon Web Services offers reliable, scalable, and inexpensive cloud computing services. Free to join, pay only for what you use."
+      "snippet": "Get real-time Amazon . com Inc (AMZN) stock price, news, financials, community insights, and trading ideas. Join 10 million+ investors and traders tra"
     }
   ]
 }

@@ -3,8 +3,8 @@ ticker: AMD
 company: Advanced Micro Devices, Inc.
 sector: Technology
 industry: Semiconductors
-extracted_at: 2026-06-08 18:20:58
-last_updated: 2026-06-08
+extracted_at: 2026-06-09 18:04:30
+last_updated: 2026-06-09
 ---
 
 # AMD - Advanced Micro Devices, Inc.
@@ -12,7 +12,7 @@ last_updated: 2026-06-08
 ## 基本信息
 
 - **所属行业**: Technology / Semiconductors
-- **提取时间**: 2026-06-08 18:20:58
+- **提取时间**: 2026-06-09 18:04:30
 
 ## 产业链关系
 
@@ -20,8 +20,8 @@ last_updated: 2026-06-08
 - [[TSM]]
 - [[005930.KS]]
 - [[GlobalFoundries]]
-- [[United Microelectronics Corporation (UMC)]]
-- [[Semiconductor Manufacturing International Corporation (SMIC)]]
+- [[INTC]]
+- [[TSM]]
 
 ### 下游客户
 - [[DELL]]
@@ -35,14 +35,14 @@ last_updated: 2026-06-08
 - [[NVDA]]
 - [[QCOM]]
 - [[AVGO]]
-- [[005930.KS]]
+- [[ARM]]
 
 ### 核心产品
 - [[Ryzen CPUs]]
-- [[EPYC servers]]
+- [[EPYC CPUs]]
 - [[Radeon GPUs]]
-- [[Xilinx FPGAs]]
-- [[APU SoCs]]
+- [[Radeon Instinct]]
+- [[AMD GPUs for gaming]]
 
 ## 数据来源
 
@@ -50,8 +50,8 @@ last_updated: 2026-06-08
 - [Advanced Micro Devices, Inc. suppliers manufacturers](https://www.britannica.com/money/Advanced-Micro-Devices-Inc)
 - [Advanced Micro Devices, Inc. suppliers manufacturers](https://ir.amd.com/)
 - [Advanced Micro Devices, Inc. major customers clients](https://ir.amd.com/)
-- [Advanced Micro Devices, Inc. major customers clients](https://www.tradingview.com/news/marketbeat:26f5a9082094b:0-advanced-micro-devices-shareholders-back-board-as-lisa-su-touts-ai-growth/)
+- [Advanced Micro Devices, Inc. major customers clients](https://www.britannica.com/money/Advanced-Micro-Devices-Inc)
 
 ## 元数据
 
-- **更新日期**: 2026-06-08
+- **更新日期**: 2026-06-09

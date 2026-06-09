@@ -4,34 +4,34 @@
   "sector": "Communication Services",
   "industry": "Internet Content & Information",
   "upstream": [
-    "Hardware component manufacturers",
-    "Cloud service providers",
-    "Advertising technology vendors",
-    "Data center equipment suppliers",
-    "CAT"
+    "Third‑party hardware manufacturers",
+    "Chip suppliers",
+    "Component suppliers",
+    "Cloud infrastructure providers",
+    "Software tool vendors"
   ],
   "downstream": [
+    "Institutional investors",
+    "Digital advertisers",
     "GOOGL",
-    "YouTube subscribers",
     "Android device users",
-    "GOOGL",
-    "GOOGL"
+    "YouTube viewers"
   ],
   "competitors": [
     "MSFT",
     "AMZN",
     "META",
     "AAPL",
-    "NFLX"
+    "Tencent"
   ],
   "key_products": [
     "Google Search",
     "YouTube",
     "Google Cloud Platform",
-    "Android OS",
+    "Android operating system",
     "Google Ads"
   ],
-  "extracted_at": "2026-06-08 18:22:19",
+  "extracted_at": "2026-06-09 18:13:48",
   "sources": [
     {
       "source": "Wikipedia",
@@ -55,13 +55,13 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Alphabet_Inc.",
       "query": "Alphabet Inc. major customers clients",
-      "snippet": "It was created through a restructuring of Google on October 2, 2015, and became the parent holding company of Google and several former Google subsidi"
+      "snippet": "Alphabet is mainly owned by institutional investors, who own over 60% of shares. The founders Larry Page and Sergey Brin each control around 3% of all"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.investopedia.com/investing/companies-owned-by-google/",
+      "url": "https://finance.yahoo.com/quote/GOOGL/",
       "query": "Alphabet Inc. major customers clients",
-      "snippet": "Seven major companies owned by Alphabet are YouTube, Waze, DoubleClick, Nest, Looker, Fitbit, and Mandiant. Alphabet: An Overview · Mandiant · Fitbit "
+      "snippet": "Find the latest Alphabet Inc . (GOOGL) stock quote, history, news and other vital information to help you with your stock trading and investing."
     }
   ]
 }

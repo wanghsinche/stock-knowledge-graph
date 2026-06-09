@@ -4,16 +4,16 @@
   "sector": "Industrials",
   "industry": "Electrical Equipment & Parts",
   "upstream": [
-    "Siemens",
-    "ABB",
+    "Schneider Electric",
     "Eaton",
-    "Honeywell",
-    "CSCO"
+    "ABB",
+    "Siemens",
+    "Honeywell"
   ],
   "downstream": [
     "AMZN",
-    "GOOGL",
     "MSFT",
+    "GOOGL",
     "AT&T",
     "Verizon"
   ],
@@ -21,17 +21,17 @@
     "Schneider Electric",
     "Eaton",
     "ABB",
-    "CSCO",
-    "APC by Schneider"
+    "Siemens",
+    "Honeywell"
   ],
   "key_products": [
-    "Power distribution units",
-    "Cooling systems",
-    "Rack‑mount servers",
-    "Environmental monitoring",
-    "Data center infrastructure management software"
+    "Power Distribution Units (PDUs)",
+    "Uninterruptible Power Supplies (UPS)",
+    "Cooling Systems",
+    "Data Center Infrastructure Management (DCIM) Software",
+    "Rack-Mount Servers"
   ],
-  "extracted_at": "2026-05-20 18:19:53",
+  "extracted_at": "2026-06-09 18:35:06",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Vertiv",
+      "url": "https://finance.yahoo.com/quote/VRT/",
       "query": "Vertiv Holdings Co suppliers manufacturers",
-      "snippet": "American industrial company . Vertiv Holdings Co . Formerly. Capitol Refrigeration Industries (1946–1965).Headquartered in Westerville, Ohio, Vertiv h"
+      "snippet": "Find the latest Vertiv Holdings Co (VRT) stock quote, history, news and other vital information to help you with your stock trading and investing."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.vertiv.com/en-us/",
+      "url": "https://simplywall.st/stocks/us/capital-goods/nyse-vrt/vertiv-holdings-co",
       "query": "Vertiv Holdings Co suppliers manufacturers",
-      "snippet": "Vertiv Holdings Co (NYSE: VRT), today reported financial results for its first quarter ended March 31, 2026. Vertiv reported first quarter net sales o"
+      "snippet": "Research Vertiv Holdings Co 's (NYSE:VRT) fundamentals, past performance, valuation, dividends and more."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Vertiv",
+      "url": "https://simplywall.st/stocks/br/capital-goods/bovespa-v1rt34/vertiv-holdings-co-shares/future",
       "query": "Vertiv Holdings Co major customers clients",
-      "snippet": "Vertiv ' s primary customers are businesses across three main end markets: data centers, communication networks and commercial & industrial environmen"
+      "snippet": "Discover Vertiv Holdings Co 's earnings and revenue growth rates, forecasts, and the latest analyst predictions while comparing them to its industry p"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.appsruntheworld.com/customers-database/vendors/view/vertiv",
+      "url": "https://www.insidermonkey.com/blog/vertiv-holdings-co-vrt-surged-on-strong-results-and-better-than-expected-guidance-1741815/",
       "query": "Vertiv Holdings Co major customers clients",
-      "snippet": "List of companies using or evaluating Vertiv applications, with details on their revenues, employees, industries, and locations."
+      "snippet": "Vertiv Holdings Co (NYSE:VRT) ranks 38 on our list of 40 Most Popular Stocks Among Hedge Funds Heading Into 2026. According to our database, 112 hedge"
     }
   ]
 }

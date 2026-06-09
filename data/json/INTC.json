@@ -3,11 +3,35 @@
   "company_name": "Intel Corporation",
   "sector": "Technology",
   "industry": "Semiconductors",
-  "upstream": [],
-  "downstream": [],
-  "competitors": [],
-  "key_products": [],
-  "extracted_at": "2026-06-08 18:20:34",
+  "upstream": [
+    "ASML",
+    "Nikon (lithography equipment)",
+    "MU",
+    "005930.KS",
+    "AMAT"
+  ],
+  "downstream": [
+    "DELL",
+    "HPQ",
+    "Lenovo Group",
+    "AAPL",
+    "MSFT"
+  ],
+  "competitors": [
+    "AMD",
+    "NVDA",
+    "TSM",
+    "005930.KS",
+    "AVGO"
+  ],
+  "key_products": [
+    "Intel Core processors",
+    "Intel Xeon processors",
+    "Intel Atom processors",
+    "Intel chipsets",
+    "Intel Optane memory"
+  ],
+  "extracted_at": "2026-06-09 18:05:47",
   "sources": [
     {
       "source": "Wikipedia",
@@ -25,7 +49,19 @@
       "source": "DuckDuckGo",
       "url": "https://csimarket.com/stocks/INTC-Suppliers",
       "query": "Intel Corporation suppliers manufacturers",
-      "snippet": "Intel 's Comment on Supply Chain. We use third-party foundries to manufacture wafers for certain components, including networking and communications p"
+      "snippet": "Intel supply chain, list and performance of Intels' suppliers - CSIMarket. Intel 's Comment on Supply Chain. We use third-party foundries to manufactu"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://finance.yahoo.com/quote/INTC/",
+      "query": "Intel Corporation major customers clients",
+      "snippet": "Find the latest Intel Corporation (INTC) stock quote, history, news and other vital information to help you with your stock trading and investing."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://wccftech.com/intel-14a-wins-tesla-major-customers-foundry-business-gamble-pays-off/",
+      "query": "Intel Corporation major customers clients",
+      "snippet": "Image: Intel Corporation . But Intel has also teased that they are already engaged with external customers on not only the 14A node, but also the 18AP"
     }
   ]
 }
