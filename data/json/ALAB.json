@@ -2,36 +2,34 @@
   "ticker": "ALAB",
   "company_name": "Astera Labs, Inc.",
   "sector": "Technology / Semiconductors",
-  "industry": "Semiconductor Interconnect Solutions",
+  "industry": "Semiconductor Equipment & Materials",
   "upstream": [
     "TSM",
     "005930.KS",
     "GlobalFoundries",
-    "UMC",
-    "TSM"
+    "INTC",
+    "MU"
   ],
   "downstream": [
-    "GOOGL",
-    "AMZN",
-    "MSFT",
+    "CSCO",
     "DELL",
-    "HPQ"
+    "HPQ",
+    "IBM",
+    "NVDA"
   ],
   "competitors": [
     "AVGO",
     "MRVL",
     "INTC",
-    "AMD",
-    "NVDA"
+    "Cavium",
+    "Xilinx"
   ],
   "key_products": [
-    "Aster Interconnect Chips",
-    "Aster Interconnect IP",
-    "Aster Interconnect ASICs",
-    "Aster Interconnect Modules",
-    "Aster Interconnect Solutions"
+    "Asteria 2",
+    "Asteria 3",
+    "Asteria 4"
   ],
-  "extracted_at": "2026-06-09 18:42:29",
+  "extracted_at": "2026-06-10 18:31:11",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,25 +41,25 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Astera_Labs",
       "query": "Astera Labs, Inc. suppliers manufacturers",
-      "snippet": "Astera Labs , Inc . is an American fabless semiconductor manufacturer and artificial intelligence company. The company specializes in designing high-s"
+      "snippet": "Astera Labs, Inc . is an American fabless semiconductor manufacturer and artificial intelligence company. The company specializes in designing high-sp"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.asteralabs.com/",
+      "url": "https://www.asteralabs.com/faqs/who-are-astera-labs-primary-design-manufacturing-partners/",
       "query": "Astera Labs, Inc. suppliers manufacturers",
-      "snippet": "Plug-and-play interoperability is critical for deploying rack-scale AI. Astera Labs rigorously tests its products with all major hosts, endpoints, and"
+      "snippet": "Who are Astera Labs ’ primary design & manufacturing partners? We leverage industry leading partners in both our design and manufacturing process such"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/ALAB-Customers",
+      "query": "Astera Labs, Inc. major customers clients",
+      "snippet": "1 day ago · Astera Labs Inc customers and markets, results by customer and performance relative to ALAB, by company and industry - CSIMarket"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.asteralabs.com/",
       "query": "Astera Labs, Inc. major customers clients",
-      "snippet": "Go to the homepage of ASTERA LABS , INC .Cloud-Scale Interop Lab . Plug-and-play interoperability is critical for deploying rack-scale AI. Astera Labs"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/ALAB/",
-      "query": "Astera Labs, Inc. major customers clients",
-      "snippet": "Find the latest Astera Labs , Inc . (ALAB) stock quote, history, news and other vital information to help you with your stock trading and investing."
+      "snippet": "Plug-and-play interoperability is critical for deploying rack-scale AI. Astera Labs rigorously tests its products with all major hosts, endpoints, and"
     }
   ]
 }

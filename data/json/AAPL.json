@@ -4,17 +4,17 @@
   "sector": "Technology",
   "industry": "Consumer Electronics",
   "upstream": [
-    "Shenzhen Desay Battery",
-    "TSM",
     "Foxconn",
-    "QCOM",
-    "NVDA"
+    "TSM",
+    "005930.KS",
+    "LG Display",
+    "AVGO"
   ],
   "downstream": [
-    "Consumers",
-    "Best Buy",
-    "AMZN",
-    "Walmart",
+    "iPhone users",
+    "iPad users",
+    "Mac users",
+    "AAPL",
     "AAPL"
   ],
   "competitors": [
@@ -22,16 +22,16 @@
     "GOOGL",
     "MSFT",
     "SONY",
-    "Xiaomi"
+    "Huawei"
   ],
   "key_products": [
     "iPhone",
     "iPad",
-    "MacBook",
+    "Mac",
     "Apple Watch",
-    "AirPods"
+    "Apple TV"
   ],
-  "extracted_at": "2026-06-09 18:02:58",
+  "extracted_at": "2026-06-10 18:25:15",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,13 +43,13 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/List_of_Apple_Inc._suppliers",
       "query": "Apple Inc. suppliers manufacturers",
-      "snippet": "May 6, 2026 - Suppliers of the Vision Pro have included Shenzhen Desay Battery Technology, Shenzhen Everwin Precision Technology, Lingyi iTech, Largan"
+      "snippet": "Apple is an American technology company with a global supply chain. Until 2003, Apple 's own factories in the United States, Singapore, and Ireland we"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Apple_supply_chain",
+      "url": "https://www.apple.com/",
       "query": "Apple Inc. suppliers manufacturers",
-      "snippet": "3 weeks ago - Taiwan Semiconductor Manufacturing Co., (TSMC) is a pure-play semiconductor manufacturing company. They make the majority of Apple's sma"
+      "snippet": "Discover the innovative world of Apple and shop everything iPhone, iPad, Apple Watch, Mac, and Apple TV, plus explore accessories, entertainment, and "
     },
     {
       "source": "DuckDuckGo",
@@ -59,9 +59,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://247wallst.com/special-report/2012/04/30/american-companies-with-the-most-customers/",
+      "url": "https://www.apple.com/",
       "query": "Apple Inc. major customers clients",
-      "snippet": "Last week, Apple (NASDAQ: AAPL) announced that it sold 35.1 million iPhones worldwide in the latest quarter. The figure is large, but not extraordinar"
+      "snippet": "Apple Payments Services LLC, a subsidiary of Apple Inc ., is a service provider of Goldman Sachs Bank USA for Apple Card and Savings accounts.Not all "
     }
   ]
 }

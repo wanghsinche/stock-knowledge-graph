@@ -1,57 +1,57 @@
 ---
 ticker: IREN
 company: IREN Limited
-sector: Financial Services
-industry: Capital Markets
-extracted_at: 2026-06-09 18:34:48
-last_updated: 2026-06-09
+sector: Financial Services / Capital Markets
+industry: Cloud Computing / Data Center Services
+extracted_at: 2026-06-10 18:30:24
+last_updated: 2026-06-10
 ---
 
 # IREN - IREN Limited
 
 ## 基本信息
 
-- **所属行业**: Financial Services / Capital Markets
-- **提取时间**: 2026-06-09 18:34:48
+- **所属行业**: Financial Services / Capital Markets / Cloud Computing / Data Center Services
+- **提取时间**: 2026-06-10 18:30:24
 
 ## 产业链关系
 
 ### 上游供应商
-- [[MSFT]]
-- [[Legal service providers]]
-- [[Consulting firms]]
-- [[Data providers (Bloomberg, Refinitiv)]]
-- [[Regulatory bodies]]
+- [[NVDA]]
+- [[AMD]]
+- [[DELL]]
+- [[HPQ]]
+- [[Renewable Energy Providers]]
 
 ### 下游客户
-- [[Institutional investors]]
-- [[Corporations seeking capital]]
-- [[Private equity firms]]
-- [[Sovereign wealth funds]]
-- [[Pension funds]]
+- [[Fintech Companies]]
+- [[Banks]]
+- [[Insurance Firms]]
+- [[Government Agencies]]
+- [[AI Startups]]
 
 ### 竞争对手
-- [[Goldman Sachs]]
-- [[JPMorgan Chase]]
-- [[Morgan Stanley]]
-- [[Bank of America Merrill Lynch]]
-- [[Citigroup]]
+- [[AMZN]]
+- [[MSFT]]
+- [[GOOGL]]
+- [[Alibaba Cloud]]
+- [[IBM]]
 
 ### 核心产品
-- [[Investment banking advisory]]
-- [[Capital raising]]
-- [[M&A advisory]]
-- [[Equity and debt underwriting]]
-- [[Securities trading]]
+- [[AI Cloud Services]]
+- [[GPU Cluster Services]]
+- [[Renewable-Powered Data Centers]]
+- [[Cloud Infrastructure]]
+- [[AI-Enabled Analytics]]
 
 ## 数据来源
 
 - 
-- [IREN Limited suppliers manufacturers](https://www.investing.com/equities/iris-energy)
-- [IREN Limited suppliers manufacturers](https://www.ig.com/en-ch/news-and-trade-ideas/Stock-of-the-day-IREN-Limited-251009)
+- [IREN Limited suppliers manufacturers](https://www.iren.com/)
+- [IREN Limited suppliers manufacturers](https://csimarket.com/stocks/suppliers_glance.php?code=IREN)
 - [IREN Limited major customers clients](https://www.investing.com/equities/iris-energy)
 - [IREN Limited major customers clients](https://www.fool.com/investing/2026/06/05/why-iren-limited-rallied-almost-40-in-may/)
 
 ## 元数据
 
-- **更新日期**: 2026-06-09
+- **更新日期**: 2026-06-10

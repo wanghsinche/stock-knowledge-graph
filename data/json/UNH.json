@@ -2,48 +2,48 @@
   "ticker": "UNH",
   "company_name": "UnitedHealth Group Incorporated",
   "sector": "Healthcare",
-  "industry": "Health Insurance / Healthcare Plans",
+  "industry": "Healthcare Plans",
   "upstream": [
     "Pharmaceutical manufacturers",
     "Medical device manufacturers",
-    "Health technology and software vendors",
-    "Data analytics and AI firms",
-    "Pharmacy benefit managers"
+    "Hospital networks",
+    "Pharmacy benefit managers",
+    "Health technology vendors"
   ],
   "downstream": [
-    "Large corporate employers",
-    "Government programs (Medicare, Medicaid)",
-    "Individual policyholders",
-    "Health plans and insurers",
-    "Healthcare providers (hospitals, clinics)"
+    "Individual consumers",
+    "Employers",
+    "Government agencies (Medicare, Medicaid)",
+    "Health care providers",
+    "Corporate clients"
   ],
   "competitors": [
-    "Anthem",
-    "Aetna (CVS Health)",
-    "Cigna",
-    "Humana",
+    "Anthem, Inc.",
+    "Aetna Inc.",
+    "Cigna Corp.",
+    "Humana Inc.",
     "Kaiser Permanente"
   ],
   "key_products": [
-    "UnitedHealthcare health insurance plans",
-    "Medicare Advantage and Medicaid plans",
+    "Health insurance plans",
+    "Medicare Advantage plans",
+    "Medicaid plans",
     "OptumRx pharmacy benefit management",
-    "OptumHealth clinical services",
-    "OptumInsight data analytics and technology solutions"
+    "Optum health services"
   ],
-  "extracted_at": "2026-06-09 18:41:46",
+  "extracted_at": "2026-06-10 18:29:52",
   "sources": [
     {
       "source": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/UnitedHealth_Group_Incorporated",
-      "title": "UnitedHealth Group",
-      "snippet": "UnitedHealth Group Incorporated is an American multinational for-profit company based in Eden Prairie, Minnesota, specializing in health insurance and health care services. Selling insurance products "
+      "url": "",
+      "title": "",
+      "snippet": ""
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/UnitedHealth_Group",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/unitedhealth-group-incorporated-unh-good-201437713.html",
       "query": "UnitedHealth Group Incorporated suppliers manufacturers",
-      "snippet": "UnitedHealth Group Incorporated is an American multinational for-profit company based in Eden Prairie, Minnesota, specializing in health insurance and"
+      "snippet": "UnitedHealth Group Incorporated operates as a health care company in the United States and internationally. UNH reported its Q1 2026 results, marking "
     },
     {
       "source": "DuckDuckGo",
@@ -53,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/UnitedHealth_Group",
+      "url": "https://csimarket.com/stocks/UNH-Customers",
       "query": "UnitedHealth Group Incorporated major customers clients",
-      "snippet": "UnitedHealth Group originated in late 1974, when Minnesota-based Charter Med Incorporated was founded by Richard Taylor Burke."
+      "snippet": "Unitedhealth Group Incorporated 's Comment on Sales, Marketing and Customers . UnitedHealthcare International participates in international markets th"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/UNH-Competitors",
+      "url": "https://disfold.com/company/unitedhealth-group-incorporated/",
       "query": "UnitedHealth Group Incorporated major customers clients",
-      "snippet": "Unitedhealth Group Incorporated Net Income in the 1 quarter 2026 grew year on year by 0.11%, slower than its competitors' income growth of 16.85 %. <<"
+      "snippet": "UnitedHealth Group Incorporated operates as a diversified health care company in the United States. It operates through four segments: UnitedHealthcar"
     }
   ]
 }

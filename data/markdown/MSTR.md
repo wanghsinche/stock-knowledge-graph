@@ -1,18 +1,18 @@
 ---
 ticker: MSTR
-company: Strategy Inc
+company: MicroStrategy Incorporated
 sector: Technology
 industry: Software - Application
-extracted_at: 2026-06-09 18:36:29
-last_updated: 2026-06-09
+extracted_at: 2026-06-10 18:31:39
+last_updated: 2026-06-10
 ---
 
-# MSTR - Strategy Inc
+# MSTR - MicroStrategy Incorporated
 
 ## 基本信息
 
 - **所属行业**: Technology / Software - Application
-- **提取时间**: 2026-06-09 18:36:29
+- **提取时间**: 2026-06-10 18:31:39
 
 ## 产业链关系
 
@@ -21,37 +21,37 @@ last_updated: 2026-06-09
 - [[AMZN]]
 - [[GOOGL]]
 - [[ORCL]]
-- [[IBM]]
+- [[Snowflake]]
 
 ### 下游客户
 - [[Financial services firms]]
-- [[Retail companies]]
-- [[Manufacturing firms]]
 - [[Healthcare organizations]]
+- [[Retail chains]]
+- [[Manufacturing enterprises]]
 - [[Government agencies]]
 
 ### 竞争对手
-- [[SAP SE Business Objects]]
-- [[IBM]]
-- [[ORCL]]
+- [[Tableau Software]]
 - [[MSFT]]
-- [[Tableau]]
+- [[Qlik Technologies]]
+- [[GOOGL]]
+- [[Sisense]]
 
 ### 核心产品
-- [[MicroStrategy Desktop]]
-- [[MicroStrategy Cloud]]
-- [[MicroStrategy Mobile]]
 - [[MicroStrategy Analytics]]
-- [[MicroStrategy Data Visualization]]
+- [[MicroStrategy Desktop]]
+- [[MicroStrategy Mobile]]
+- [[MicroStrategy Cloud]]
+- [[MicroStrategy Data Warehouse]]
 
 ## 数据来源
 
-- [MicroStrategy](https://en.wikipedia.org/wiki/Strategy_Inc)
-- [Strategy Inc suppliers manufacturers](https://en.wikipedia.org/wiki/Strategic_partnership)
-- [Strategy Inc suppliers manufacturers](https://finance.yahoo.com/quote/MSTR/)
-- [Strategy Inc major customers clients](https://finance.yahoo.com/quote/MSTR/)
-- [Strategy Inc major customers clients](https://www.linkedin.com/pulse/lead-nurturing-growth-strategy-how-build-long-term-customer-ve9ue)
+- 
+- [Strategy Inc suppliers manufacturers](https://www.strategy.com/press/strategy-announces-legal-name-change-from-microstrategy-incorporated-to-strategy-inc_08-14-2025)
+- [Strategy Inc suppliers manufacturers](https://www.manufacturersalliance.org/)
+- [Strategy Inc major customers clients](https://en.wikipedia.org/wiki/MicroStrategy)
+- [Strategy Inc major customers clients](https://www.strategy.com/software/customer-stories)
 
 ## 元数据
 
-- **更新日期**: 2026-06-09
+- **更新日期**: 2026-06-10

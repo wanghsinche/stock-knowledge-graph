@@ -1,6 +1,6 @@
 {
   "ticker": "MSTR",
-  "company_name": "Strategy Inc",
+  "company_name": "MicroStrategy Incorporated",
   "sector": "Technology",
   "industry": "Software - Application",
   "upstream": [
@@ -8,60 +8,60 @@
     "AMZN",
     "GOOGL",
     "ORCL",
-    "IBM"
+    "Snowflake"
   ],
   "downstream": [
     "Financial services firms",
-    "Retail companies",
-    "Manufacturing firms",
     "Healthcare organizations",
+    "Retail chains",
+    "Manufacturing enterprises",
     "Government agencies"
   ],
   "competitors": [
-    "SAP SE Business Objects",
-    "IBM",
-    "ORCL",
+    "Tableau Software",
     "MSFT",
-    "Tableau"
+    "Qlik Technologies",
+    "GOOGL",
+    "Sisense"
   ],
   "key_products": [
-    "MicroStrategy Desktop",
-    "MicroStrategy Cloud",
-    "MicroStrategy Mobile",
     "MicroStrategy Analytics",
-    "MicroStrategy Data Visualization"
+    "MicroStrategy Desktop",
+    "MicroStrategy Mobile",
+    "MicroStrategy Cloud",
+    "MicroStrategy Data Warehouse"
   ],
-  "extracted_at": "2026-06-09 18:36:29",
+  "extracted_at": "2026-06-10 18:31:39",
   "sources": [
     {
       "source": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Strategy_Inc",
-      "title": "MicroStrategy",
-      "snippet": "Strategy Inc., formerly known as MicroStrategy, is an American company that provides business intelligence (BI) and mobile software. Founded in 1989 by Michael J. Saylor, Sanju Bansal, and Thomas Spah"
+      "url": "",
+      "title": "",
+      "snippet": ""
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Strategic_partnership",
+      "url": "https://www.strategy.com/press/strategy-announces-legal-name-change-from-microstrategy-incorporated-to-strategy-inc_08-14-2025",
       "query": "Strategy Inc suppliers manufacturers",
-      "snippet": "A strategic partnership (also see strategic alliance) is a relationship between two commercial enterprises, usually formalized by one or more business"
+      "snippet": "Aug 14, 2025 · August 14, 2025 Strategy Announces Legal Name Change from MicroStrategy Incorporated to Strategy Inc Press Release • August 14, 2025"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/MSTR/",
+      "url": "https://www.manufacturersalliance.org/",
       "query": "Strategy Inc suppliers manufacturers",
-      "snippet": "Find the latest Strategy Inc (MSTR) stock quote, history, news and other vital information to help you with your stock trading and investing."
+      "snippet": "May 20, 2026 · Manufacturing leaders are moving beyond AI pilots and into enterprise-wide transformation, unlocking gains in efficiency, safety, and o"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/MSTR/",
+      "url": "https://en.wikipedia.org/wiki/MicroStrategy",
       "query": "Strategy Inc major customers clients",
-      "snippet": "Find the latest Strategy Inc (MSTR) stock quote, history, news and other vital information to help you with your stock trading and investing."
+      "snippet": "Strategy Inc ., formerly known as MicroStrategy,[1] is an American company that provides business intelligence (BI) and mobile software. Founded in 19"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.linkedin.com/pulse/lead-nurturing-growth-strategy-how-build-long-term-customer-ve9ue",
+      "url": "https://www.strategy.com/software/customer-stories",
       "query": "Strategy Inc major customers clients",
-      "snippet": "Increasing customer retention by just 5% can boost profits by 25% to 95%, according to Harvard Business Review, making lead nurturing one of the most "
+      "snippet": "Dive into Strategy customer stories highlighting the impact of Analytics in Healthcare, Financial Services, Call Centers, Retail, Insurance, and Gover"
     }
   ]
 }

@@ -4,34 +4,34 @@
   "sector": "Communication Services",
   "industry": "Internet Content & Information",
   "upstream": [
-    "Third‑party hardware manufacturers",
-    "Chip suppliers",
-    "Component suppliers",
-    "Cloud infrastructure providers",
-    "Software tool vendors"
+    "INTC",
+    "QCOM",
+    "005930.KS",
+    "CSCO",
+    "AMD"
   ],
   "downstream": [
-    "Institutional investors",
-    "Digital advertisers",
     "GOOGL",
-    "Android device users",
-    "YouTube viewers"
+    "005930.KS",
+    "GOOGL",
+    "YouTube content creators",
+    "GOOGL"
   ],
   "competitors": [
     "MSFT",
     "AMZN",
-    "META",
     "AAPL",
+    "META",
     "Tencent"
   ],
   "key_products": [
     "Google Search",
     "YouTube",
     "Google Cloud Platform",
-    "Android operating system",
+    "Android OS",
     "Google Ads"
   ],
-  "extracted_at": "2026-06-09 18:13:48",
+  "extracted_at": "2026-06-10 18:26:38",
   "sources": [
     {
       "source": "Wikipedia",
@@ -49,19 +49,19 @@
       "source": "DuckDuckGo",
       "url": "https://csimarket.com/stocks/GOOG-Suppliers",
       "query": "Alphabet Inc. suppliers manufacturers",
-      "snippet": "Alphabet Inc 's Comment on Supply Chain. We rely on third parties to manufacture many of our assemblies and finished products, and we have third-party"
+      "snippet": "May 2, 2026 · Alphabet Inc 's Comment on Supply Chain We rely on third parties to manufacture many of our assemblies and finished products, and we hav"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Alphabet_Inc.",
       "query": "Alphabet Inc. major customers clients",
-      "snippet": "Alphabet is mainly owned by institutional investors, who own over 60% of shares. The founders Larry Page and Sergey Brin each control around 3% of all"
+      "snippet": "Alphabet Inc . is an American multinational technology conglomerate holding company headquartered in Mountain View, California. It was created through"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://finance.yahoo.com/quote/GOOGL/",
       "query": "Alphabet Inc. major customers clients",
-      "snippet": "Find the latest Alphabet Inc . (GOOGL) stock quote, history, news and other vital information to help you with your stock trading and investing."
+      "snippet": "Find the latest Alphabet Inc . (GOOGL) stock quote, history, news and other vital information to help you with your stock trading and investing. Alpha"
     }
   ]
 }

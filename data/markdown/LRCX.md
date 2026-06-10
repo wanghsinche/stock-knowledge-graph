@@ -3,8 +3,8 @@ ticker: LRCX
 company: Lam Research Corporation
 sector: Technology
 industry: Semiconductor Equipment & Materials
-extracted_at: 2026-06-09 18:22:25
-last_updated: 2026-06-09
+extracted_at: 2026-06-10 18:27:30
+last_updated: 2026-06-10
 ---
 
 # LRCX - Lam Research Corporation
@@ -12,16 +12,16 @@ last_updated: 2026-06-09
 ## 基本信息
 
 - **所属行业**: Technology / Semiconductor Equipment & Materials
-- **提取时间**: 2026-06-09 18:22:25
+- **提取时间**: 2026-06-10 18:27:30
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Silicon wafer manufacturers]]
-- [[Chemical suppliers (etching & deposition chemicals)]]
-- [[Gaseous materials suppliers (e.g., SF6, HBr)]]
-- [[Precision mechanical component suppliers]]
-- [[Electronic component suppliers]]
+- [[Chemical suppliers (e.g., Dow, DuPont)]]
+- [[META]]
+- [[Precision engineering component suppliers]]
+- [[Plasma source manufacturers]]
+- [[Electrical component suppliers]]
 
 ### 下游客户
 - [[TSM]]
@@ -33,25 +33,25 @@ last_updated: 2026-06-09
 ### 竞争对手
 - [[AMAT]]
 - [[Tokyo Electron]]
-- [[ASML]]
 - [[KLA Corporation]]
-- [[LRCX]]
+- [[ASM Pacific Technology]]
+- [[Ultratech]]
 
 ### 核心产品
-- [[Etching equipment]]
-- [[Deposition equipment]]
-- [[Ion implantation equipment]]
+- [[Plasma etch systems]]
+- [[Plasma deposition systems]]
+- [[Plasma cleaning systems]]
 - [[Back‑end wafer‑level packaging (WLP) equipment]]
-- [[Wafer cleaning equipment]]
+- [[Front‑end wafer processing tools]]
 
 ## 数据来源
 
 - [Lam Research](https://en.wikipedia.org/wiki/Lam_Research_Corporation)
-- [Lam Research Corporation suppliers manufacturers](https://en.wikipedia.org/wiki/List_of_multinational_corporations)
-- [Lam Research Corporation suppliers manufacturers](https://finance.yahoo.com/news/lam-research-ships-200th-kiyo-200700311.html)
-- [Lam Research Corporation major customers clients](https://seekingalpha.com/article/4912487-lam-research-a-wide-moat-equipment-leader-that-i-rate-a-buy-despite-a-rich-valuation)
-- [Lam Research Corporation major customers clients](https://www.marketresearch.com/MarketLine-v3883/Lam-Research-Corporation-Company-Profile-43331218/)
+- [Lam Research Corporation suppliers manufacturers](https://ca.finance.yahoo.com/news/lam-research-lrcx-strategic-investment-150327161.html)
+- [Lam Research Corporation suppliers manufacturers](https://www.marketbeat.com/instant-alerts/filing-telemark-asset-management-llc-acquires-25000-shares-of-lam-research-corporation-lrcx-2026-06-07/)
+- [Lam Research Corporation major customers clients](https://csimarket.com/stocks/LRCX-Customers)
+- [Lam Research Corporation major customers clients](https://www.lamresearch.com/company/company-overview/)
 
 ## 元数据
 
-- **更新日期**: 2026-06-09
+- **更新日期**: 2026-06-10

@@ -2,36 +2,36 @@
   "ticker": "WMT",
   "company_name": "Walmart Inc.",
   "sector": "Consumer Defensive / Discount Stores",
-  "industry": "Discount Stores",
+  "industry": "Retail - Discount Stores",
   "upstream": [
     "Procter & Gamble",
     "Coca‑Cola",
+    "Nestlé",
     "PepsiCo",
-    "Walmart private‑label suppliers",
-    "Walmart distribution network"
+    "Johnson & Johnson"
   ],
   "downstream": [
     "U.S. consumers",
     "International consumers",
-    "Online shoppers",
-    "Sam’s Club members",
-    "Corporate clients"
+    "Walmart.com shoppers",
+    "Walmart store shoppers",
+    "Sam’s Club members"
   ],
   "competitors": [
     "Target",
     "Costco",
-    "Dollar General",
-    "Dollar Tree",
-    "Aldi"
+    "AMZN",
+    "Home Depot",
+    "Kroger"
   ],
   "key_products": [
     "Groceries",
-    "Household goods",
     "Apparel",
     "Electronics",
-    "Pharmacy"
+    "Household goods",
+    "Pharmacy products"
   ],
-  "extracted_at": "2026-06-08 18:31:53",
+  "extracted_at": "2026-06-10 18:30:49",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/suppliers_glance.php?code=WMT",
+      "url": "https://corporate.walmart.com/suppliers",
       "query": "Walmart Inc. suppliers manufacturers",
-      "snippet": "Walmart Inc supply chain, list and performance of Walmart Incs ' suppliers - CSIMarket.Among Walmart Inc suppliers , the revenue of Interface Inc has "
+      "snippet": "The Walmart Sustainability Hub is a destination for Walmart suppliers to access resources and learn about opportunities to collaborate with Walmart , "
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://solatatech.com/article/5-key-suppliers-of-walmart",
+      "query": "Walmart Inc. suppliers manufacturers",
+      "snippet": "1 day ago · Walmart is the second largest retailer in the world, following Amazon. There are over 100,000 Walmart suppliers across the globe. Walmart "
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.walmart.com/",
-      "query": "Walmart Inc. suppliers manufacturers",
+      "query": "Walmart Inc. major customers clients",
       "snippet": "Shop Walmart .com today for Every Day Low Prices. Join Walmart + for unlimited free delivery from your store & free shipping with no order minimum. St"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.walmart.com/",
+      "url": "https://www.linkedin.com/company/walmart",
       "query": "Walmart Inc. major customers clients",
-      "snippet": "Shop Walmart .com today for Every Day Low Prices. Join Walmart + for unlimited free delivery from your store & free shipping with no order minimum."
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.thestreet.com/investing/stocks/walmart-ceo-warns-fuel-prices-stress-point-us-consumers",
-      "query": "Walmart Inc. major customers clients",
-      "snippet": "John Furner, who took over as Walmart ’s chief executive in February 2026, was speaking to reporters during the company’s annual shareholder week in B"
+      "snippet": "Walmart | 5,014,463 followers on LinkedIn. More than 60 years ago, Sam Walton opened the first Walmart in Rogers, Arkansas."
     }
   ]
 }

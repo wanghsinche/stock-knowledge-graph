@@ -1,57 +1,57 @@
 ---
 ticker: AAOI
 company: Applied Optoelectronics, Inc.
-sector: Technology
-industry: Communication Equipment
-extracted_at: 2026-06-09 18:18:19
-last_updated: 2026-06-09
+sector: Technology / Communication Equipment
+industry: Optoelectronics
+extracted_at: 2026-06-10 18:28:13
+last_updated: 2026-06-10
 ---
 
 # AAOI - Applied Optoelectronics, Inc.
 
 ## 基本信息
 
-- **所属行业**: Technology / Communication Equipment
-- **提取时间**: 2026-06-09 18:18:19
+- **所属行业**: Technology / Communication Equipment / Optoelectronics
+- **提取时间**: 2026-06-10 18:28:13
 
 ## 产业链关系
 
 ### 上游供应商
+- [[Lumentum]]
+- [[Finisar]]
+- [[InnoLight]]
 - [[II-VI Incorporated]]
-- [[Lumentum Holdings]]
-- [[Finisar Corporation]]
-- [[Infinera Corporation]]
-- [[Coherent Inc.]]
+- [[Coherent]]
 
 ### 下游客户
 - [[CSCO]]
-- [[Huawei Technologies]]
 - [[JNPR]]
 - [[ANET]]
+- [[Huawei]]
 - [[DELL]]
 
 ### 竞争对手
-- [[Finisar Corporation]]
-- [[Lumentum Holdings]]
-- [[Infinera Corporation]]
-- [[II-VI Incorporated]]
-- [[Coherent Inc.]]
+- [[Ciena]]
+- [[CSCO]]
+- [[JNPR]]
+- [[ANET]]
+- [[Huawei]]
 
 ### 核心产品
-- [[Fiber optic transceivers]]
-- [[Optical modules]]
-- [[Optical switches]]
-- [[Optical amplifiers]]
-- [[Optical connectors]]
+- [[800G data center transceivers]]
+- [[400G transceivers]]
+- [[optical transceiver modules]]
+- [[optical fiber communication components]]
+- [[high-speed optical interconnects]]
 
 ## 数据来源
 
 - 
-- [Applied Optoelectronics, Inc. suppliers manufacturers](https://www.azooptics.com/Suppliers.aspx?SupplierID=203)
-- [Applied Optoelectronics, Inc. suppliers manufacturers](https://finance.yahoo.com/quote/AAOI/)
-- [Applied Optoelectronics, Inc. major customers clients](https://www.trefis.com/data/companies/AAOI?from=AAOI-2026-06-08&source=yahoo)
-- [Applied Optoelectronics, Inc. major customers clients](https://www.marketwatch.com/investing/stock/aaoi)
+- [Applied Optoelectronics, Inc. suppliers manufacturers](https://csimarket.com/stocks/AAOI-Suppliers)
+- [Applied Optoelectronics, Inc. suppliers manufacturers](https://en.nbd.ltd/trader/info/35N100024485)
+- [Applied Optoelectronics, Inc. major customers clients](https://www.quiverquant.com/news/Applied+Optoelectronics+Inc.+Secures+First+Volume+Order+for+800G+Data+Center+Transceivers+from+Major+Hyperscale+Customer)
+- [Applied Optoelectronics, Inc. major customers clients](https://investors.ao-inc.com/news-releases/news-release-details/applied-optoelectronics-announces-first-volume-shipment-data)
 
 ## 元数据
 
-- **更新日期**: 2026-06-09
+- **更新日期**: 2026-06-10

@@ -3,8 +3,8 @@ ticker: WDC
 company: Western Digital Corporation
 sector: Technology
 industry: Computer Hardware
-extracted_at: 2026-06-09 18:33:09
-last_updated: 2026-06-09
+extracted_at: 2026-06-10 18:29:20
+last_updated: 2026-06-10
 ---
 
 # WDC - Western Digital Corporation
@@ -12,46 +12,28 @@ last_updated: 2026-06-09
 ## 基本信息
 
 - **所属行业**: Technology / Computer Hardware
-- **提取时间**: 2026-06-09 18:33:09
+- **提取时间**: 2026-06-10 18:29:20
 
 ## 产业链关系
 
 ### 上游供应商
-- [[MU]]
-- [[TXN]]
-- [[Mechanical parts suppliers (e.g., Bosch, DENSO)]]
-- [[Printed circuit board (PCB) manufacturers]]
-- [[Precision machining and assembly suppliers]]
+_暂无数据_
 
 ### 下游客户
-- [[DELL]]
-- [[DELL]]
-- [[MSFT]]
-- [[Enterprise IT infrastructure integrators]]
-- [[Consumer electronics distributors]]
+_暂无数据_
 
 ### 竞争对手
-- [[STX]]
-- [[Toshiba Storage]]
-- [[005930.KS]]
-- [[SK Hynix (storage solutions)]]
-- [[MU]]
+_暂无数据_
 
 ### 核心产品
-- [[Hard Disk Drives (HDDs)]]
-- [[Solid State Drives (SSDs)]]
-- [[External portable storage devices]]
-- [[Enterprise storage solutions (e.g., Ultrastar series)]]
-- [[Cloud storage infrastructure components]]
+_暂无数据_
 
 ## 数据来源
 
 - [Western Digital](https://en.wikipedia.org/wiki/Western_Digital_Corporation)
-- [Western Digital Corporation suppliers manufacturers](https://www.importyeti.com/)
-- [Western Digital Corporation suppliers manufacturers](https://octopart.com/wdbblw5000aal-nesn-western+digital-30896511)
-- [Western Digital Corporation major customers clients](https://www.bloomberg.com/quote/WDC:US)
-- [Western Digital Corporation major customers clients](https://www.marketresearch.com/MarketLine-v3883/Western-Digital-Corporation-Strategy-SWOT-35563950/)
+- [Western Digital Corporation suppliers manufacturers](https://octopart.com/wd136ba-00aga0-western+digital-91481684)
+- [Western Digital Corporation suppliers manufacturers](https://esaitech.com/products/western-digital-corporation-wd102purp-20pk)
 
 ## 元数据
 
-- **更新日期**: 2026-06-09
+- **更新日期**: 2026-06-10

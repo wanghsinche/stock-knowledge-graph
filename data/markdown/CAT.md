@@ -3,8 +3,8 @@ ticker: CAT
 company: Caterpillar Inc.
 sector: Industrials
 industry: Farm & Heavy Construction Machinery
-extracted_at: 2026-06-09 18:38:48
-last_updated: 2026-06-09
+extracted_at: 2026-06-10 18:29:05
+last_updated: 2026-06-10
 ---
 
 # CAT - Caterpillar Inc.
@@ -12,46 +12,46 @@ last_updated: 2026-06-09
 ## 基本信息
 
 - **所属行业**: Industrials / Farm & Heavy Construction Machinery
-- **提取时间**: 2026-06-09 18:38:48
+- **提取时间**: 2026-06-10 18:29:05
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Boeing]]
-- [[General Motors]]
-- [[CAT]]
-- [[Alcoa]]
-- [[ArcelorMittal]]
+- [[Steel and alloy suppliers]]
+- [[Aluminum and alloy manufacturers]]
+- [[Rubber and tire producers]]
+- [[Hydraulic fluid and component suppliers]]
+- [[Electronic and sensor component manufacturers]]
 
 ### 下游客户
-- [[Construction companies]]
-- [[Mining companies]]
-- [[Government agencies]]
-- [[Infrastructure projects]]
-- [[Oil and gas companies]]
+- [[Construction and civil engineering firms]]
+- [[Mining and quarry operators]]
+- [[Government and defense agencies]]
+- [[Infrastructure development companies]]
+- [[Agricultural equipment distributors]]
 
 ### 竞争对手
+- [[DE]]
 - [[Komatsu]]
 - [[Volvo Construction Equipment]]
-- [[DE]]
 - [[CNH Industrial]]
-- [[Hitachi Construction Machinery]]
+- [[Doosan Infracore]]
 
 ### 核心产品
-- [[Excavators]]
 - [[Bulldozers]]
+- [[Excavators]]
 - [[Wheel loaders]]
-- [[Dump trucks]]
-- [[Mining equipment]]
+- [[Backhoes]]
+- [[Mining trucks]]
 
 ## 数据来源
 
-- [Caterpillar Inc.](https://en.wikipedia.org/wiki/Caterpillar_Inc.)
+- 
 - [Caterpillar Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/Caterpillar_Inc.)
 - [Caterpillar Inc. suppliers manufacturers](https://csimarket.com/stocks/CAT-Suppliers)
-- [Caterpillar Inc. major customers clients](https://en.wikipedia.org/wiki/Caterpillar_Inc.)
-- [Caterpillar Inc. major customers clients](https://ru.wikipedia.org/wiki/Caterpillar)
+- [Caterpillar Inc. major customers clients](https://csimarket.com/stocks/CAT-Customers)
+- [Caterpillar Inc. major customers clients](https://www.caterpillar.com/en/news/caterpillarNews/2025/what-our-customers-make-possible.html)
 
 ## 元数据
 
-- **更新日期**: 2026-06-09
+- **更新日期**: 2026-06-10

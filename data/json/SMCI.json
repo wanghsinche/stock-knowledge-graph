@@ -3,29 +3,65 @@
   "company_name": "Super Micro Computer, Inc.",
   "sector": "Technology",
   "industry": "Computer Hardware",
-  "upstream": [],
-  "downstream": [],
-  "competitors": [],
-  "key_products": [],
-  "extracted_at": "2026-06-05 17:56:38",
+  "upstream": [
+    "INTC",
+    "AMD",
+    "MU",
+    "005930.KS",
+    "STX"
+  ],
+  "downstream": [
+    "AMZN",
+    "MSFT",
+    "GOOGL",
+    "Telecom Operators",
+    "Enterprise Data Centers"
+  ],
+  "competitors": [
+    "DELL",
+    "HPQ",
+    "Lenovo",
+    "CSCO",
+    "Inspur"
+  ],
+  "key_products": [
+    "SuperServer",
+    "SuperMicro motherboards",
+    "SuperMicro storage solutions",
+    "SuperMicro AI solutions",
+    "SuperMicro edge solutions"
+  ],
+  "extracted_at": "2026-06-10 18:26:59",
   "sources": [
     {
       "source": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Super_Micro_Computer,_Inc.",
-      "title": "Supermicro",
-      "snippet": "Super Micro Computer, Inc., doing business as Supermicro, is an American information technology company based in San Jose, California. The company is one of the largest producers of high-performance a"
+      "url": "",
+      "title": "",
+      "snippet": ""
     },
     {
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Supermicro",
       "query": "Super Micro Computer, Inc. suppliers manufacturers",
-      "snippet": "Super Micro Computer , Inc ., doing business as Supermicro, is an American information technology company based in San Jose, California. The company i"
+      "snippet": "Super Micro Computer , Inc ., doing business as Supermicro , is an American information technology company based in San Jose, California.American supp"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/SMCI-Suppliers",
+      "url": "https://www.supermicro.com/",
       "query": "Super Micro Computer, Inc. suppliers manufacturers",
-      "snippet": "May 12, 2026 · Sources: Super Micro Computer Inc 's official press releases and regulatory filings; CSIMarket.com's supply -chain research; and the fi"
+      "snippet": "Supermicro Super AI Station. Supermicro 5G Edge Solutions Empowering the Deskless Workforce with Taqtile and Intel. Supermicro TECHTalk: Harness the P"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://data.landbase.com/technology/supermicro/",
+      "query": "Super Micro Computer, Inc. major customers clients",
+      "snippet": "Aug 17, 2025 · Companies using Supermicro by Super Micro Computer , Inc . in 2026 As of 2026, 450 verified companies use Supermicro – across industrie"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://enlyft.com/tech/products/supermicro",
+      "query": "Super Micro Computer, Inc. major customers clients",
+      "snippet": "Top Industries that use Supermicro Top Industries that use Supermicro Looking at Supermicro customers by industry, we find that Information Technology"
     }
   ]
 }

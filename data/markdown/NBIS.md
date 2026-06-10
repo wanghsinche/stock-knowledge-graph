@@ -1,57 +1,41 @@
 ---
 ticker: NBIS
-company: Nebius Group N.V.
+company: NBIS
 sector: Communication Services
 industry: Internet Content & Information
-extracted_at: 2026-06-09 18:14:13
-last_updated: 2026-06-09
+extracted_at: 2026-06-10 18:28:44
+last_updated: 2026-06-10
 ---
 
-# NBIS - Nebius Group N.V.
+# NBIS - NBIS
 
 ## 基本信息
 
 - **所属行业**: Communication Services / Internet Content & Information
-- **提取时间**: 2026-06-09 18:14:13
+- **提取时间**: 2026-06-10 18:28:44
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Hardware component suppliers]]
-- [[Chip manufacturers]]
-- [[Server manufacturers]]
-- [[Data center equipment vendors]]
-- [[Software tool providers]]
+- [[Nebius Group N.V.]]
 
 ### 下游客户
-- [[Tech startups]]
-- [[Enterprise AI solution customers]]
-- [[Cloud service providers]]
-- [[Research institutions]]
-- [[Government agencies]]
+_暂无数据_
 
 ### 竞争对手
-- [[OpenAI]]
-- [[GOOGL]]
-- [[MSFT]]
-- [[AMZN]]
-- [[IBM]]
+_暂无数据_
 
 ### 核心产品
-- [[Nebius AI Platform]]
-- [[Avride]]
-- [[TripleTen]]
-- [[Toloka]]
-- [[Clickhouse]]
+_暂无数据_
 
 ## 数据来源
 
-- [Nebius Group](https://en.wikipedia.org/wiki/NBIS)
+- 
+- [NBIS suppliers manufacturers](https://en.wikipedia.org/wiki/Nebius_Group)
 - [NBIS suppliers manufacturers](https://csimarket.com/stocks/suppliers_glance.php?code=NBIS)
-- [NBIS suppliers manufacturers](https://www.labnics.com/benchtop-incubator-shaker/nbis-301)
-- [NBIS major customers clients](https://www.tradingview.com/symbols/NASDAQ-NBIS/ideas/page-2/)
-- [NBIS major customers clients](https://www.marketbeat.com/stocks/NASDAQ/NBIS/institutional-ownership/)
+- [NBIS major customers clients](https://sql.coderang.dev/fr/trainer/tasks/757)
+- [NBIS major customers clients](https://www.youtube.com/watch?v=bp1PJJR-xC0)
 
 ## 元数据
 
-- **更新日期**: 2026-06-09
+- **更新日期**: 2026-06-10

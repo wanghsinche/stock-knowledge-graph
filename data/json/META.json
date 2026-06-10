@@ -4,34 +4,34 @@
   "sector": "Communication Services",
   "industry": "Internet Content & Information",
   "upstream": [
-    "DELL",
-    "HPQ",
-    "CSCO",
+    "QCOM",
+    "AVGO",
+    "INTC",
     "NVDA",
-    "AMD"
+    "CSCO"
   ],
   "downstream": [
     "Coca‑Cola",
     "Nike",
-    "005930.KS",
-    "MSFT",
-    "AMZN"
+    "Procter & Gamble",
+    "Electronic Arts",
+    "Tencent"
   ],
   "competitors": [
-    "Twitter (X)",
-    "Snapchat",
-    "TikTok",
-    "LinkedIn",
-    "Pinterest"
+    "GOOGL",
+    "AMZN",
+    "AAPL",
+    "MSFT",
+    "Snap Inc."
   ],
   "key_products": [
     "Facebook",
     "Instagram",
     "WhatsApp",
     "Messenger",
-    "Threads"
+    "Meta Ads"
   ],
-  "extracted_at": "2026-06-09 18:13:14",
+  "extracted_at": "2026-06-10 18:26:02",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.researchandmarkets.com/reports/5792631/meta-platforms-inc-meta-financial-strategic",
+      "url": "https://ru.wikipedia.org/wiki/Meta_Platforms",
       "query": "Meta Platforms, Inc. suppliers manufacturers",
-      "snippet": "Meta Platforms Inc ( Meta ) is a provider of social networking, advertising, and business insight solutions. Meta Platforms Inc Key Recent Development"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://investor.atmeta.com/",
-      "query": "Meta Platforms, Inc. suppliers manufacturers",
-      "snippet": "Meta to Participate in the Morgan Stanley Technology, Media & Telecom Conference."
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.insidermonkey.com/blog/meta-platforms-meta-ai-journey-of-success-and-turbulence-1566090/",
-      "query": "Meta Platforms, Inc. major customers clients",
-      "snippet": "“ Meta Platforms , Inc . (NASDAQ: META ), in contrast, is using AI to make money today. Behind the scenes, it has built some of the most advanced infr"
+      "snippet": "Meta Platforms , Inc . — американская транснациональная холдинговая компания, владеющая технологическим конгломератом и расположенная в Менло-Парке, К"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.computerhope.com/comp/meta.htm",
+      "query": "Meta Platforms, Inc. suppliers manufacturers",
+      "snippet": "Before it was rebranded as Meta in October 2021, Meta was known as Facebook Inc . According to Zuckerberg, the name Meta emphasizes their focus on VR "
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/Meta_Platforms",
       "query": "Meta Platforms, Inc. major customers clients",
-      "snippet": "Meta Platforms Inc 1 Hacker Way Menlo Park, California 94025. Stock: MVRS (formerly FB)."
+      "snippet": "Meta owns and operates several prominent social media platforms and communication services, including Facebook, Instagram, WhatsApp, Messenger, and Th"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.statista.com/topics/9038/meta-platforms/?srsltid=AfmBOooD6wx8yUu-bUMmoAPL8nAZqE02p7n2ZaXZuHo6ZOulGoiGZuw_",
+      "query": "Meta Platforms, Inc. major customers clients",
+      "snippet": "Meta Platforms owns social media giants Facebook, Instagram, WhatsApp, and Messenger, among others, all of which are household names that continue to "
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
   "ticker": "CSCO",
   "company_name": "Cisco Systems, Inc.",
-  "sector": "Technology",
-  "industry": "Communication Equipment",
+  "sector": "Technology / Communication Equipment",
+  "industry": "Networking Equipment",
   "upstream": [
     "INTC",
     "AVGO",
@@ -11,57 +11,57 @@
     "NVDA"
   ],
   "downstream": [
-    "Enterprise IT departments",
-    "CAT",
-    "Government agencies",
-    "CAT",
-    "Healthcare organizations"
+    "AT&T",
+    "Verizon",
+    "GOOGL",
+    "MSFT",
+    "AMZN"
   ],
   "competitors": [
     "JNPR",
-    "Huawei Technologies",
+    "Huawei",
     "ANET",
     "Nokia",
     "Ericsson"
   ],
   "key_products": [
-    "Routers",
-    "Switches",
-    "Firewalls",
-    "Wireless access points",
-    "SD‑WAN solutions"
+    "Cisco routers",
+    "Cisco switches",
+    "Cisco security appliances",
+    "Webex",
+    "OpenDNS"
   ],
-  "extracted_at": "2026-06-08 18:26:10",
+  "extracted_at": "2026-06-10 18:31:21",
   "sources": [
     {
       "source": "Wikipedia",
-      "url": "",
-      "title": "",
-      "snippet": ""
+      "url": "https://en.wikipedia.org/wiki/Cisco_Systems,_Inc.",
+      "title": "Cisco",
+      "snippet": "Cisco Systems, Inc., doing business as Cisco, is an American multinational technology conglomerate corporation that develops, manufactures, and sells hardware, software, telecommunications equipment a"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.cisco.com/c/dam/en_us/about/supply-chain/cisco-supplier-list.pdf",
+      "query": "Cisco Systems, Inc. suppliers manufacturers",
+      "snippet": "Cisco Supplier List Cisco products are made by a complex global network of manufacturing partners and component suppliers . To learn more about how we"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.accio.com/supplier/cisco-supplier-list",
+      "query": "Cisco Systems, Inc. suppliers manufacturers",
+      "snippet": "Jun 1, 2026 · Cisco Partners (including resellers, distributors, and system integrators) are authorized by Cisco to sell, support, and implement Cisco"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Cisco",
-      "query": "Cisco Systems, Inc. suppliers manufacturers",
-      "snippet": "Cisco Systems , Inc ., doing business as Cisco , is an American multinational technology conglomerate corporation that develops, manufactures , and se"
+      "query": "Cisco Systems, Inc. major customers clients",
+      "snippet": "Cisco Systems , Inc ., doing business as Cisco , is an American multinational technology conglomerate corporation that develops, manufactures, and sel"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://ru.wikipedia.org/wiki/Cisco",
-      "query": "Cisco Systems, Inc. suppliers manufacturers",
+      "query": "Cisco Systems, Inc. major customers clients",
       "snippet": "Cisco Systems , «Сиско Системз» — американская транснациональная компания, разрабатывающая и продающая сетевое оборудование, предназначенное в основно"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Cisco",
-      "query": "Cisco Systems, Inc. major customers clients",
-      "snippet": "Cisco specializes in specific tech markets, such as the Internet of things (IoT), domain security, videoconferencing, and energy management, including"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.cisco.com/site/us/en/about/case-studies-customer-stories/index.html",
-      "query": "Cisco Systems, Inc. major customers clients",
-      "snippet": "Read Cisco case studies and customer success stories highlighting the ways organizations have realized their goals and helped drive outcomes."
     }
   ]
 }

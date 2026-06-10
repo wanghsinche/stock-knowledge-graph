@@ -4,46 +4,40 @@
   "sector": "Technology",
   "industry": "Semiconductors",
   "upstream": [
-    "TSM",
-    "005930.KS",
-    "GlobalFoundries",
-    "INTC",
-    "MU"
+    "AMAT",
+    "ASML",
+    "LRCX",
+    "Tokyo Electron",
+    "KLA"
   ],
   "downstream": [
     "CSCO",
-    "AMZN",
-    "MSFT",
-    "GOOGL",
-    "DELL"
+    "AAPL",
+    "DELL",
+    "Huawei",
+    "005930.KS"
   ],
   "competitors": [
     "QCOM",
     "INTC",
     "NVDA",
-    "MRVL",
-    "TXN"
+    "TXN",
+    "MediaTek"
   ],
   "key_products": [
-    "Broadcom Wi‑Fi chips",
-    "Broadcom Ethernet controllers",
-    "Broadcom Fibre Channel storage controllers",
-    "Broadcom WiMAX chips",
-    "Broadcom infrastructure software solutions"
+    "5G modem chips",
+    "Ethernet controllers",
+    "Broadband routers",
+    "Enterprise software",
+    "Wireless LAN chips"
   ],
-  "extracted_at": "2026-06-09 18:08:04",
+  "extracted_at": "2026-06-10 18:25:05",
   "sources": [
     {
       "source": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Broadcom_Inc.",
-      "title": "Broadcom",
-      "snippet": "Broadcom Inc. is an American multinational designer, developer, manufacturer, and global supplier of a wide range of semiconductor and infrastructure software products. Broadcom's product offerings se"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/BCM",
-      "query": "Broadcom Inc. suppliers manufacturers",
-      "snippet": "Broadcom Inc ., designer, developer and global supplier of semiconductor products. Broadcom Corporation, subsidiary of Broadcom Inc ."
+      "url": "",
+      "title": "",
+      "snippet": ""
     },
     {
       "source": "DuckDuckGo",
@@ -54,14 +48,20 @@
     {
       "source": "DuckDuckGo",
       "url": "https://www.broadcom.com/",
-      "query": "Broadcom Inc. major customers clients",
+      "query": "Broadcom Inc. suppliers manufacturers",
       "snippet": "Broadcom delivers semiconductors and infrastructure software for global enterprises’ most complex, mission-critical needs."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.linkedin.com/company/broadcom",
+      "url": "https://www.appsruntheworld.com/customers-database/vendors/view/broadcom",
       "query": "Broadcom Inc. major customers clients",
-      "snippet": "Broadcom ’s infrastructure software solutions serve markets including private cloud, mainframe software, cybersecurity, enterprise software, and Fibre"
+      "snippet": "List of companies using or evaluating Broadcom applications, with details on their revenues, employees, industries, and locations."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://news.broadcom.com/category/customers",
+      "query": "Broadcom Inc. major customers clients",
+      "snippet": "May 19, 2026 · Broadcom Customer Achievement Awards recognize and celebrate our customers ’ successes leveraging innovative solutions to improve opera"
     }
   ]
 }

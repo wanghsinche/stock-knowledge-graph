@@ -4,64 +4,64 @@
   "sector": "Communication Services",
   "industry": "Entertainment",
   "upstream": [
+    "Roku",
     "AMZN",
-    "MSFT",
+    "AAPL",
     "GOOGL",
-    "Akamai Technologies",
-    "Warner Bros. Discovery"
+    "005930.KS"
   ],
   "downstream": [
-    "US households",
-    "European households",
-    "Asian households",
-    "Corporate accounts",
-    "AAPL"
+    "NFLX",
+    "NFLX",
+    "NFLX",
+    "NFLX",
+    "NFLX"
   ],
   "competitors": [
     "Disney+",
     "AMZN",
-    "HBO Max",
     "Hulu",
-    "AAPL"
+    "HBO Max",
+    "Peacock"
   ],
   "key_products": [
     "Netflix streaming service",
     "Netflix Originals",
-    "Licensed content library",
-    "Mobile app",
-    "Smart TV app"
+    "Netflix mobile app",
+    "Netflix Smart TV app",
+    "Netflix web player"
   ],
-  "extracted_at": "2026-06-09 18:38:17",
+  "extracted_at": "2026-06-10 18:30:00",
   "sources": [
     {
       "source": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Netflix,_Inc.",
-      "title": "Netflix, Inc.",
-      "snippet": "Netflix, Inc. is an American media company founded on August 29, 1997, by Reed Hastings and Marc Randolph in Scotts Valley, California, and currently based in Los Gatos, California, with production of"
+      "url": "",
+      "title": "",
+      "snippet": ""
     },
     {
       "source": "DuckDuckGo",
       "url": "https://csimarket.com/stocks/NFLX-Suppliers",
       "query": "Netflix, Inc. suppliers manufacturers",
-      "snippet": "Netflix Inc supply chain, list and performance of Netflix Incs ' suppliers - CSIMarket.NFLX's Suppliers Net margin grew in Q1 to 16.59 %."
+      "snippet": "Apr 24, 2026 · Netflix Inc 's Suppliers recorded an increase in sales by 10.66 % year on year in Q1 2026, from the previous quarter, sales fell by -7."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://porteranalysis.com/porters-five-forces-of-netflix/",
+      "url": "https://www.accio.com/supplier/supplier-netflix",
       "query": "Netflix, Inc. suppliers manufacturers",
-      "snippet": "This is the detailed Porter’s five forces of Netflix that would allow to gain insight into the industry , identifying the magnitude of each of the fiv"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://ir.netflix.net/",
-      "query": "Netflix, Inc. major customers clients",
-      "snippet": "Company Profile. Netflix is one of the world’s leading entertainment services offering TV series, films, games and live programming across a wide vari"
+      "snippet": "4 days ago · Need Netflix-compatible streaming devices? Discover verified suppliers offering Google-certified Android TV boxes with Netflix support. C"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.investopedia.com/insights/how-netflix-makes-money/",
       "query": "Netflix, Inc. major customers clients",
       "snippet": "licensing content is a huge expense for Netflix ."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://ir.netflix.net/",
+      "query": "Netflix, Inc. major customers clients",
+      "snippet": "Company Profile. Netflix is one of the world’s leading entertainment services offering TV series, films, games and live programming across a wide vari"
     }
   ]
 }

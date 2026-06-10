@@ -1,37 +1,37 @@
 {
   "ticker": "SNDK",
-  "company_name": "SanDisk Corporation",
+  "company_name": "Sandisk Corporation",
   "sector": "Technology",
   "industry": "Computer Hardware",
   "upstream": [
-    "MU",
-    "005930.KS",
-    "SK Hynix",
-    "Toshiba Memory",
-    "WDC"
+    "GIGAPC Corporation",
+    "Taiwanese OEM manufacturer (unnamed)",
+    "Nanya Technology",
+    "Winbond Electronics",
+    "MU"
   ],
   "downstream": [
-    "DELL",
-    "HPQ",
-    "Lenovo Group",
     "AAPL",
-    "005930.KS"
+    "MSFT",
+    "SONY",
+    "DELL",
+    "HPQ"
   ],
   "competitors": [
+    "Kingston Technology",
     "005930.KS",
     "MU",
-    "WDC",
-    "Kingston Technology",
-    "INTC"
+    "Toshiba Corporation",
+    "Lexar"
   ],
   "key_products": [
-    "Solid State Drives (SSDs)",
-    "USB Flash Drives",
-    "SD Cards",
-    "microSD Cards",
-    "External Hard Drives"
+    "USB flash drives",
+    "SD/CF memory cards",
+    "SSD solid‑state drives",
+    "External hard drives",
+    "Embedded flash memory"
   ],
-  "extracted_at": "2026-06-09 17:56:10",
+  "extracted_at": "2026-06-10 18:24:35",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/SanDisk",
+      "url": "https://www.sandisk.com/company/distributors",
       "query": "Sandisk Corporation suppliers manufacturers",
-      "snippet": "Sandisk Corporation is an American multinational computer technology company based in Milpitas, California, that designs and manufactures flash memory"
+      "snippet": "GIGAPC Corporation · 430 8th Ave N. Seattle, WA 98109 · Tel: 206-624-1100 · Glazers Camera · 430 8th Ave N. Seattle, WA 98109 · Tel: 206-624-1100 · Gl"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ru.wikipedia.org/wiki/SanDisk",
+      "url": "https://www.accio.com/supplier/sandisk-manufacturer",
       "query": "Sandisk Corporation suppliers manufacturers",
-      "snippet": "SanDisk — американская корпорация, занимавшаяся разработкой и производством носителей информации на базе флеш-памяти. Корпорация была основана в 1988 "
+      "snippet": "3 weeks ago - They sourced these from a Taiwanese manufacturer known for its OEM support and quality control. The supplier provided fast turnaround ti"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Sandisk",
       "query": "Sandisk Corporation major customers clients",
-      "snippet": "4 days ago - Sandisk Corporation (formerly SunDisk Corporation) is an American multinational computer semiconductor company based in Milpitas, Califor"
+      "snippet": "2 days ago - Sandisk Corporation (formerly SunDisk Corporation) is an American multinational computer semiconductor company based in Milpitas, Califor"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.cbinsights.com/company/sandisk",
+      "url": "https://www.companieshistory.com/sandisk/",
       "query": "Sandisk Corporation major customers clients",
-      "snippet": "Exascend is a company focused on providing specialized solid-state storage solutions within the industrial, automotive, enterprise, and cinematography"
+      "snippet": "January 19, 2026 - SanDisk completed its largest acquisition in 2014 by purchasing Fusion-io for $1.1 billion. Fusion-io specialized in PCIe flash car"
     }
   ]
 }

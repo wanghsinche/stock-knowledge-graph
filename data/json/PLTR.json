@@ -7,15 +7,15 @@
     "AMZN",
     "MSFT",
     "GOOGL",
-    "ORCL",
-    "IBM"
+    "DELL",
+    "HPQ"
   ],
   "downstream": [
     "U.S. Department of Defense",
     "INTC",
+    "Federal Bureau of Investigation",
     "JPMorgan Chase",
-    "Bank of America",
-    "Pfizer"
+    "Walmart"
   ],
   "competitors": [
     "Snowflake",
@@ -25,13 +25,13 @@
     "MSFT"
   ],
   "key_products": [
-    "Foundry",
-    "Gotham",
-    "Apollo",
-    "Palantir Helios",
-    "Palantir Platform"
+    "Palantir Foundry",
+    "Palantir Gotham",
+    "Palantir Apollo",
+    "Palantir Platform",
+    "Palantir Data Integration"
   ],
-  "extracted_at": "2026-06-09 18:21:32",
+  "extracted_at": "2026-06-10 18:28:02",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,25 +43,25 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Palantir",
       "query": "Palantir Technologies Inc. suppliers manufacturers",
-      "snippet": "Palantir Technologies Inc . Palantir Technologies Inc . is an American publicly traded company that develops data integration and analytics platforms "
+      "snippet": "Palantir Technologies Inc . (/ ˈpælənˌtɪər /) [3] is an American publicly traded company that develops data integration and analytics software. [4] Pa"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/PLTR/",
+      "url": "https://csimarket.com/stocks/PLTR-Suppliers",
       "query": "Palantir Technologies Inc. suppliers manufacturers",
-      "snippet": "Find the latest Palantir Technologies Inc . (PLTR) stock quote, history, news and other vital information to help you with your stock trading and inve"
+      "snippet": "May 6, 2026 · Palantir Technologies Inc 's Suppliers recorded an increase in sales by 5.7 % year on year in Q1 2026, from the previous quarter, sales "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Palantir",
+      "url": "https://www.designgurus.io/answers/detail/who-are-the-main-customers-of-palantir",
       "query": "Palantir Technologies Inc. major customers clients",
-      "snippet": "Palantir Technologies Inc . is an American publicly traded company that develops data integration and analytics platforms enabling government agencies"
+      "snippet": "Who are the main customers of Palantir? Palantir Technologies serves a diverse clientele across government and commercial sectors, providing data anal"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://builtin.com/articles/what-is-palantir",
+      "url": "https://data.landbase.com/technology/palantir/",
       "query": "Palantir Technologies Inc. major customers clients",
-      "snippet": "How Palantir ’s Technology Works. To label Palantir ’s software as a data analytics dashboard would be an oversimplification. Palantir ’s software use"
+      "snippet": "Aug 17, 2025 · Companies using Palantir by Palantir Technologies Inc in 2026 As of 2026, 1,479 verified companies use Palantir – across industries, co"
     }
   ]
 }

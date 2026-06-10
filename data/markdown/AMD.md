@@ -3,8 +3,8 @@ ticker: AMD
 company: Advanced Micro Devices, Inc.
 sector: Technology
 industry: Semiconductors
-extracted_at: 2026-06-09 18:04:30
-last_updated: 2026-06-09
+extracted_at: 2026-06-10 18:25:34
+last_updated: 2026-06-10
 ---
 
 # AMD - Advanced Micro Devices, Inc.
@@ -12,7 +12,7 @@ last_updated: 2026-06-09
 ## 基本信息
 
 - **所属行业**: Technology / Semiconductors
-- **提取时间**: 2026-06-09 18:04:30
+- **提取时间**: 2026-06-10 18:25:34
 
 ## 产业链关系
 
@@ -20,8 +20,8 @@ last_updated: 2026-06-09
 - [[TSM]]
 - [[005930.KS]]
 - [[GlobalFoundries]]
-- [[INTC]]
-- [[TSM]]
+- [[ASE Group]]
+- [[MU]]
 
 ### 下游客户
 - [[DELL]]
@@ -41,17 +41,17 @@ last_updated: 2026-06-09
 - [[Ryzen CPUs]]
 - [[EPYC CPUs]]
 - [[Radeon GPUs]]
-- [[Radeon Instinct]]
-- [[AMD GPUs for gaming]]
+- [[Radeon Instinct GPUs]]
+- [[Xilinx FPGAs]]
 
 ## 数据来源
 
 - [AMD](https://en.wikipedia.org/wiki/Advanced_Micro_Devices,_Inc.)
-- [Advanced Micro Devices, Inc. suppliers manufacturers](https://www.britannica.com/money/Advanced-Micro-Devices-Inc)
-- [Advanced Micro Devices, Inc. suppliers manufacturers](https://ir.amd.com/)
-- [Advanced Micro Devices, Inc. major customers clients](https://ir.amd.com/)
-- [Advanced Micro Devices, Inc. major customers clients](https://www.britannica.com/money/Advanced-Micro-Devices-Inc)
+- [Advanced Micro Devices, Inc. suppliers manufacturers](https://csimarket.com/stocks/AMD-Suppliers)
+- [Advanced Micro Devices, Inc. suppliers manufacturers](https://thepartsdirect.com/advancedmicrodevicesamd/distributors-and-vendors)
+- [Advanced Micro Devices, Inc. major customers clients](https://csimarket.com/stocks/AMD-Customers)
+- [Advanced Micro Devices, Inc. major customers clients](https://www.marketscreener.com/quote/stock/AMD-ADVANCED-MICRO-DEVICE-179387659/finances-segments/)
 
 ## 元数据
 
-- **更新日期**: 2026-06-09
+- **更新日期**: 2026-06-10

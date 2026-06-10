@@ -4,34 +4,34 @@
   "sector": "Technology",
   "industry": "Software - Infrastructure",
   "upstream": [
+    "Ellington Electronics",
+    "Fairchild Semiconductor",
+    "Flextronics",
     "INTC",
-    "AMD",
-    "NVDA",
-    "QCOM",
-    "005930.KS"
+    "NVDA"
   ],
   "downstream": [
-    "Enterprises",
-    "Small and Medium Businesses",
-    "Government Agencies",
+    "Enterprise customers",
+    "Government agencies",
     "DELL",
-    "Consumers"
+    "Retail consumers",
+    "CAT"
   ],
   "competitors": [
     "AAPL",
     "GOOGL",
     "AMZN",
     "ORCL",
-    "IBM"
+    "CRM"
   ],
   "key_products": [
-    "Windows Operating System",
+    "Windows OS",
     "Microsoft Office",
-    "Azure Cloud Platform",
-    "Microsoft 365",
-    "Xbox Gaming Console"
+    "Azure Cloud",
+    "Surface devices",
+    "Xbox"
   ],
-  "extracted_at": "2026-06-09 18:08:17",
+  "extracted_at": "2026-06-10 18:25:43",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,15 +41,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Microsoft",
+      "url": "https://csimarket.com/stocks/MSFT-Suppliers",
       "query": "Microsoft Corporation suppliers manufacturers",
-      "snippet": "Microsoft Corporation is an American multinational technology company headquartered in Redmond, Washington."
+      "snippet": "May 2, 2026 · Sources: Microsoft Corporation 's official press releases and regulatory filings; CSIMarket.com's supply-chain research; and the financi"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/suppliers_glance.php?code=MSFT",
+      "url": "https://download.microsoft.com/download/F/3/8/F38AF681-EB3A-4645-A9C4-D4F31B8BA8F2/Microsoft+Top+100+Production+Suppliers.pdf",
       "query": "Microsoft Corporation suppliers manufacturers",
-      "snippet": "News about Microsoft Corporation Contracts. Microsoft 's Comment on Supply Chain. We develop most of our products and services internally through four"
+      "snippet": "ELLINGTON ELECTRONICS TECHNOLOGY FAIRCHILD SEMICONDUCTOR CORPORATION FLEXTRONICS FOXCONN FOXLINK FREESCALE GOERTEK, INC. HANNSTAR BOARD HITACHI-LG DAT"
     },
     {
       "source": "DuckDuckGo",

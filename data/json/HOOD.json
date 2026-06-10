@@ -1,37 +1,37 @@
 {
   "ticker": "HOOD",
   "company_name": "Robinhood Markets, Inc.",
-  "sector": "Financial Services",
-  "industry": "Capital Markets",
+  "sector": "Financial Services / Capital Markets",
+  "industry": "Retail Brokerage",
   "upstream": [
-    "NASDAQ",
-    "NYSE",
-    "CBOE",
+    "AMZN",
+    "GOOGL",
     "Bloomberg",
-    "Plaid"
+    "FactSet",
+    "IEX Cloud"
   ],
   "downstream": [
     "Retail investors",
-    "Day traders",
     "High‑frequency traders",
-    "Institutional clients",
-    "Crypto traders"
+    "Institutional investors",
+    "Financial advisors",
+    "Wealth management firms"
   ],
   "competitors": [
     "Charles Schwab",
-    "Fidelity",
-    "TD Ameritrade",
     "E*TRADE",
+    "TD Ameritrade",
+    "Fidelity",
     "Webull"
   ],
   "key_products": [
     "Commission‑free stock trading",
     "Options trading",
     "Cryptocurrency trading",
-    "Margin trading",
-    "Cash management & interest‑earning accounts"
+    "Robinhood Gold subscription",
+    "Cash management services"
   ],
-  "extracted_at": "2026-06-09 18:37:45",
+  "extracted_at": "2026-06-10 18:27:09",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,7 +43,7 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Robinhood_Markets",
       "query": "Robinhood Markets, Inc. suppliers manufacturers",
-      "snippet": "Robinhood Markets , Inc . is an American financial services company based in Menlo Park, California."
+      "snippet": "Robinhood Markets , Inc . Robinhood Markets , Inc . is an American financial services company based in Menlo Park, California."
     },
     {
       "source": "DuckDuckGo",
@@ -59,9 +59,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://robinhood.com/",
+      "url": "https://www.bbb.org/us/ca/palo-alto/profile/financial-services/robinhood-markets-inc-1216-417256/customer-reviews",
       "query": "Robinhood Markets, Inc. major customers clients",
-      "snippet": "Trade stocks on Robinhood with commission-free investing & advanced trading tools. Access fractional shares, real-time market data, and more."
+      "snippet": "Robinhood Markets , Inc . is NOT a BBB Accredited Business. To become accredited, a business must agree to BBB Standards for Trust and pass BBB's vett"
     }
   ]
 }

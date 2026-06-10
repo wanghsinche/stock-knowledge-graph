@@ -1,37 +1,37 @@
 {
   "ticker": "IREN",
   "company_name": "IREN Limited",
-  "sector": "Financial Services",
-  "industry": "Capital Markets",
+  "sector": "Financial Services / Capital Markets",
+  "industry": "Cloud Computing / Data Center Services",
   "upstream": [
-    "MSFT",
-    "Legal service providers",
-    "Consulting firms",
-    "Data providers (Bloomberg, Refinitiv)",
-    "Regulatory bodies"
+    "NVDA",
+    "AMD",
+    "DELL",
+    "HPQ",
+    "Renewable Energy Providers"
   ],
   "downstream": [
-    "Institutional investors",
-    "Corporations seeking capital",
-    "Private equity firms",
-    "Sovereign wealth funds",
-    "Pension funds"
+    "Fintech Companies",
+    "Banks",
+    "Insurance Firms",
+    "Government Agencies",
+    "AI Startups"
   ],
   "competitors": [
-    "Goldman Sachs",
-    "JPMorgan Chase",
-    "Morgan Stanley",
-    "Bank of America Merrill Lynch",
-    "Citigroup"
+    "AMZN",
+    "MSFT",
+    "GOOGL",
+    "Alibaba Cloud",
+    "IBM"
   ],
   "key_products": [
-    "Investment banking advisory",
-    "Capital raising",
-    "M&A advisory",
-    "Equity and debt underwriting",
-    "Securities trading"
+    "AI Cloud Services",
+    "GPU Cluster Services",
+    "Renewable-Powered Data Centers",
+    "Cloud Infrastructure",
+    "AI-Enabled Analytics"
   ],
-  "extracted_at": "2026-06-09 18:34:48",
+  "extracted_at": "2026-06-10 18:30:24",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,15 +41,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.investing.com/equities/iris-energy",
+      "url": "https://www.iren.com/",
       "query": "IREN Limited suppliers manufacturers",
-      "snippet": "IREN Ltd stock price live, this page displays NASDAQ IREN stock exchange data. View the IREN premarket stock price ahead of the market session or asse"
+      "snippet": "Explore IREN 's 100% renewable-powered data centers offering AI Cloud, GPU clusters, colocation, and build-to-suit infrastructure for scalable compute"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.ig.com/en-ch/news-and-trade-ideas/Stock-of-the-day-IREN-Limited-251009",
+      "url": "https://csimarket.com/stocks/suppliers_glance.php?code=IREN",
       "query": "IREN Limited suppliers manufacturers",
-      "snippet": "IREN Limited is expanding its artificial intelligence (AI) business with new AI data centre contracts expected to boost revenues. To support this grow"
+      "snippet": "Iren Limited supply chain, list and performance of Iren Limiteds' suppliers - CSIMarket"
     },
     {
       "source": "DuckDuckGo",

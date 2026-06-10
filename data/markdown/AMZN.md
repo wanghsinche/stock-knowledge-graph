@@ -3,8 +3,8 @@ ticker: AMZN
 company: Amazon.com, Inc.
 sector: Consumer Cyclical
 industry: Internet Retail
-extracted_at: 2026-06-09 18:10:10
-last_updated: 2026-06-09
+extracted_at: 2026-06-10 18:25:52
+last_updated: 2026-06-10
 ---
 
 # AMZN - Amazon.com, Inc.
@@ -12,46 +12,46 @@ last_updated: 2026-06-09
 ## 基本信息
 
 - **所属行业**: Consumer Cyclical / Internet Retail
-- **提取时间**: 2026-06-09 18:10:10
+- **提取时间**: 2026-06-10 18:25:52
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Book publishers]]
-- [[Consumer electronics manufacturers]]
-- [[Apparel manufacturers]]
-- [[Home goods manufacturers]]
-- [[NVDA]]
+- [[Authorized third‑party sellers]]
+- [[Manufacturers of consumer goods]]
+- [[Logistics and fulfillment partners]]
+- [[Technology vendors]]
+- [[Content providers]]
 
 ### 下游客户
-- [[Retail consumers]]
-- [[Enterprise customers using AWS]]
-- [[AMZN]]
-- [[AMZN]]
-- [[Advertising clients]]
+- [[Individual consumers]]
+- [[Prime members]]
+- [[Business customers]]
+- [[Enterprise clients]]
+- [[Small and medium enterprises]]
 
 ### 竞争对手
 - [[eBay]]
 - [[Walmart]]
 - [[Alibaba]]
-- [[Shopify]]
 - [[Target]]
+- [[Best Buy]]
 
 ### 核心产品
 - [[Amazon.com e‑commerce platform]]
 - [[Amazon Prime subscription services]]
-- [[Amazon Web Services (cloud computing)]]
-- [[Amazon Echo (Alexa) smart speakers]]
-- [[Amazon Kindle e‑readers]]
+- [[Amazon Web Services (AWS)]]
+- [[Amazon Devices (Echo, Kindle, Fire)]]
+- [[Amazon Marketplace]]
 
 ## 数据来源
 
-- [Amazon (company)](https://en.wikipedia.org/wiki/Amazon.com,_Inc.)
-- [Amazon.com, Inc. suppliers manufacturers](https://www.alibaba.com/)
-- [Amazon.com, Inc. suppliers manufacturers](https://ir.aboutamazon.com/)
-- [Amazon.com, Inc. major customers clients](https://ir.aboutamazon.com/)
-- [Amazon.com, Inc. major customers clients](https://stocktwits.com/symbol/AMZN)
+- 
+- [Amazon.com, Inc. suppliers manufacturers](https://www.accio.com/supplier/amazon-authorized-supplier-list)
+- [Amazon.com, Inc. suppliers manufacturers](https://supply.amazon.com/)
+- [Amazon.com, Inc. major customers clients](https://en.wikipedia.org/wiki/Amazon_(company))
+- [Amazon.com, Inc. major customers clients](https://csimarket.com/stocks/AMZN-Customers)
 
 ## 元数据
 
-- **更新日期**: 2026-06-09
+- **更新日期**: 2026-06-10

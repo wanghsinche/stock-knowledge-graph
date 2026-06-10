@@ -3,11 +3,35 @@
   "company_name": "KLA Corporation",
   "sector": "Technology",
   "industry": "Semiconductor Equipment & Materials",
-  "upstream": [],
-  "downstream": [],
-  "competitors": [],
-  "key_products": [],
-  "extracted_at": "2026-06-09 18:36:10",
+  "upstream": [
+    "Coherent",
+    "Nikon",
+    "Canon",
+    "Thorlabs",
+    "TXN"
+  ],
+  "downstream": [
+    "TSM",
+    "005930.KS",
+    "INTC",
+    "GlobalFoundries",
+    "MU"
+  ],
+  "competitors": [
+    "AMAT",
+    "ASML",
+    "LRCX",
+    "Tokyo Electron",
+    "Teradyne"
+  ],
+  "key_products": [
+    "Process control systems",
+    "Yield management systems",
+    "Wafer inspection systems",
+    "Reticle inspection systems",
+    "Defect inspection systems"
+  ],
+  "extracted_at": "2026-06-10 18:28:56",
   "sources": [
     {
       "source": "Wikipedia",
@@ -17,15 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://markets.financialcontent.com/stocks/article/stockstory-2026-4-29-kla-corporations-nasdaqklac-q1-sales-top-estimates-but-stock-drops",
+      "url": "https://www.kla.com/locations",
       "query": "KLA Corporation suppliers manufacturers",
-      "snippet": "KLA Corporation (KLAC) Q1 CY2026 Highlights: Revenue: $3.42 billion vs analyst estimates of $3.38 billion (11.5% year-on-year growth, 1.2% beat)."
+      "snippet": "Find the address and contact information for the KLA domestic and international sites. Corporate Governance. Compliance. Suppliers . Standards of Busi"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://danelfin.com/stock/KLAC?score=sentiment",
+      "url": "https://www.tipranks.com/stocks/klac/stock-analysis",
       "query": "KLA Corporation suppliers manufacturers",
-      "snippet": "The AI-powered sentiment analysis of KLA Corp (KLAC) is only based on the 26 sentiment features that had the greatest impact on stock performance duri"
+      "snippet": "KLA Corporation designs, manufactures , and markets process control, process-enabling, and yield management solutions for the semiconductor and relate"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.kla.com/media-room/videos/who-are-our-customers",
+      "query": "KLA Corporation major customers clients",
+      "snippet": "May 14, 2021 · KLA Instruments serves customers in academia, research labs and industrial manufacturers in semi, compound-semi and surface metrology i"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/KLAC-Customers",
+      "query": "KLA Corporation major customers clients",
+      "snippet": "2 days ago · Kla customers and markets, results by customer and performance relative to KLAC, by company and industry - CSIMarket"
     }
   ]
 }
