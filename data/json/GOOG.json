@@ -4,34 +4,34 @@
   "sector": "Communication Services",
   "industry": "Internet Content & Information",
   "upstream": [
-    "INTC",
-    "QCOM",
-    "005930.KS",
+    "TSM",
+    "DELL",
+    "AMZN",
     "CSCO",
-    "AMD"
+    "QCOM"
   ],
   "downstream": [
-    "GOOGL",
+    "Advertisers (e.g., global brands)",
     "005930.KS",
     "GOOGL",
     "YouTube content creators",
     "GOOGL"
   ],
   "competitors": [
-    "MSFT",
-    "AMZN",
-    "AAPL",
     "META",
-    "Tencent"
+    "AMZN",
+    "MSFT",
+    "AAPL",
+    "Facebook"
   ],
   "key_products": [
     "Google Search",
-    "YouTube",
-    "Google Cloud Platform",
     "Android OS",
+    "Google Cloud Platform",
+    "YouTube",
     "Google Ads"
   ],
-  "extracted_at": "2026-06-10 18:26:38",
+  "extracted_at": "2026-06-11 18:42:55",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,7 +43,7 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Alphabet_Inc.",
       "query": "Alphabet Inc. suppliers manufacturers",
-      "snippet": "Alphabet Inc . is an American multinational technology conglomerate holding company headquartered in Mountain View, California. It was created through"
+      "snippet": "Alphabet Inc . has faced numerous legal and ethical controversies, including a 2017 lawsuit against Uber over stolen self-driving technology, a 2020 p"
     },
     {
       "source": "DuckDuckGo",
@@ -53,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Alphabet_Inc.",
+      "url": "https://csimarket.com/stocks/GOOG-Customers",
       "query": "Alphabet Inc. major customers clients",
-      "snippet": "Alphabet Inc . is an American multinational technology conglomerate holding company headquartered in Mountain View, California. It was created through"
+      "snippet": "For your research, we’ve provided 9 tables on Alphabet Inc corporate clients . You can find them in the navigation menu under Customers & Markets. To "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/GOOGL/",
+      "url": "https://analyzify.com/statsup/alphabet",
       "query": "Alphabet Inc. major customers clients",
-      "snippet": "Find the latest Alphabet Inc . (GOOGL) stock quote, history, news and other vital information to help you with your stock trading and investing. Alpha"
+      "snippet": "Jan 3, 2025 · Explore the latest Alphabet (Google) statistics for 2025, covering users and audience, traffic, revenue, and many other downloadable key"
     }
   ]
 }

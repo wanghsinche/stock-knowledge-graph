@@ -5,33 +5,33 @@
   "industry": "Software - Infrastructure",
   "upstream": [
     "MSFT",
-    "Linux",
     "AMZN",
-    "MSFT",
-    "GOOGL"
+    "GOOGL",
+    "CSCO",
+    "DELL"
   ],
   "downstream": [
+    "Walmart",
+    "JPMorgan Chase",
     "MSFT",
-    "GOOGL",
     "AMZN",
-    "Bank of America",
-    "Citi"
+    "GOOGL"
   ],
   "competitors": [
     "Palo Alto Networks",
     "SentinelOne",
     "McAfee",
     "Symantec",
-    "Fortinet"
+    "Sophos"
   ],
   "key_products": [
-    "CrowdStrike Falcon Platform",
+    "Falcon Endpoint Protection",
     "Falcon Prevent",
     "Falcon Insight",
     "Falcon Discover",
-    "Falcon Response"
+    "Falcon OverWatch"
   ],
-  "extracted_at": "2026-06-09 18:42:52",
+  "extracted_at": "2026-06-11 18:47:27",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/CrowdStrike",
+      "url": "https://www.crowdstrike.com/en-us/about-us/suppliers/",
       "query": "CrowdStrike Holdings, Inc. suppliers manufacturers",
-      "snippet": "CrowdStrike Holdings , Inc . is an American cybersecurity technology company based in Austin, Texas. It provides endpoint security, threat intelligenc"
+      "snippet": "Our Supplier Portal will improve the way we do business with enhanced transparency and supplier experience. We recognize the important role our suppli"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/at_glance.php?code=CRWD",
+      "url": "https://csimarket.com/stocks/CRWD-Suppliers",
       "query": "CrowdStrike Holdings, Inc. suppliers manufacturers",
-      "snippet": "Crowdstrike Holdings Inc Profile, Financial Information, Stock Quotes Charts, Financial Results, Segments, Competitors, Fundamental Analysis - CSIMark"
+      "snippet": "Mar 5, 2026 · For your research, we’ve provided nine additional tables on Crowdstrike Holdings Inc ’ s suppliers . You can find them in the navigation"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/CRWD/",
+      "url": "https://www.appsruntheworld.com/customers-database/vendors/view/crowdstrike",
       "query": "CrowdStrike Holdings, Inc. major customers clients",
-      "snippet": "Find the latest CrowdStrike Holdings , Inc . (CRWD) stock quote, history, news and other vital information to help you with your stock trading and inv"
+      "snippet": "List of companies using or evaluating CrowdStrike applications, with details on their revenues, employees, industries, and locations."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://simplywall.st/stocks/us/software/nasdaq-crwd/crowdstrike-holdings",
+      "url": "https://csimarket.com/stocks/CRWD-Customers",
       "query": "CrowdStrike Holdings, Inc. major customers clients",
-      "snippet": "Research CrowdStrike Holdings ' (Nasdaq:CRWD) fundamentals, past performance, valuation, dividends and more. CrowdStrike announced Falcon OverWatch fo"
+      "snippet": "As of January 31, 2022, we had 16,325 subscription customers worldwide. Historically, we and our channel partners have primarily sold to large organiz"
     }
   ]
 }

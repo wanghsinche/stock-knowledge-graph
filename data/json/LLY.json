@@ -4,34 +4,34 @@
   "sector": "Healthcare",
   "industry": "Drug Manufacturers - General",
   "upstream": [
-    "Contract pharmaceutical manufacturers",
-    "Chemical suppliers (active pharmaceutical ingredients)",
-    "Biotechnology equipment suppliers",
-    "Laboratory testing and analytical services",
-    "Packaging and labeling vendors"
+    "CAT",
+    "Chemical raw material suppliers (e.g., DSM, BASF)",
+    "Contract research organizations (e.g., Thermo Fisher Scientific)",
+    "Biotechnology partners (e.g., Genentech, Amgen)",
+    "Packaging suppliers (e.g., Amcor, Sealed Air)"
   ],
   "downstream": [
     "Hospitals and health systems",
-    "Pharmacies and retail chains",
-    "Government health agencies",
-    "Insurance providers and PBMs",
-    "International health ministries"
+    "Pharmacies and drug wholesalers",
+    "Government health agencies (e.g., Medicare, Medicaid)",
+    "International health organizations (e.g., WHO)",
+    "Insurance companies and payers"
   ],
   "competitors": [
     "Pfizer",
     "Johnson & Johnson",
     "Merck & Co.",
-    "AbbVie",
-    "Amgen"
+    "Novartis",
+    "Roche"
   ],
   "key_products": [
     "Humalog (insulin lispro)",
+    "Humulin (human insulin)",
     "Lantus (insulin glargine)",
     "Trulicity (dulaglutide)",
-    "Cymbalta (duloxetine)",
-    "Zyprexa (olanzapine)"
+    "Mounjaro (tirzepatide)"
   ],
-  "extracted_at": "2026-06-10 18:29:31",
+  "extracted_at": "2026-06-11 18:45:35",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Eli_Lilly_and_Company",
+      "url": "https://www.lilly.com/suppliers",
       "query": "Eli Lilly and Company suppliers manufacturers",
-      "snippet": "Eli Lilly and Company , doing business as Lilly , is an American multinational pharmaceutical company headquartered in Indianapolis, Indiana, with off"
+      "snippet": "View supplier resources including accounts payable, invoicing, payments, new and existing supplier guidance, and the Lilly Supplier portal."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.lilly.com/",
+      "url": "https://www.linkedin.com/pulse/eli-lillys-us-manufacturing-build-out-playbook-win-varenas-mba-gqdjc",
       "query": "Eli Lilly and Company suppliers manufacturers",
-      "snippet": "Lilly is a medicine company that puts health above all. Learn about our medicines, view condition support, find care, and much more. Lilly employee wo"
+      "snippet": "Nov 5, 2025 · Lilly ’ s Supplier Code of Business Conduct sets standards for labor, EHS, anti-corruption, and responsible sourcing; primes will flow t"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/LLY-Customers",
-      "query": "Eli Lilly and Company major customers clients",
-      "snippet": "Eli Lilly customers and markets, results by customer and performance relative to LLY, by company and industry - CSIMarket"
+      "url": "https://www.lilly.com/medicines",
+      "query": "Eli Lilly and Company products services offerings",
+      "snippet": "Our growing portfolio of medicines includes treatments in the areas of cancer, diabetes, endocrinology, immunology, neuroscience, obesity and more. Ev"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.lilly.com/about/year-in-review",
-      "query": "Eli Lilly and Company major customers clients",
-      "snippet": "Lilly ’s commitment to people, the planet and society remained central to our work in 2025. We created new access pathways, including an agreement to "
+      "url": "https://medxdrg.com/what-products-does-lilly-make-a-comprehensive-look-at-the-pharmaceutical-giants-portfolio",
+      "query": "Eli Lilly and Company products services offerings",
+      "snippet": "Nov 29, 2025 · Discover what products does Lilly make across its key therapeutic areas, including recent breakthroughs in diabetes (Mounjaro), weight "
     }
   ]
 }

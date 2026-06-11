@@ -4,65 +4,64 @@
   "sector": "Technology",
   "industry": "Computer Hardware",
   "upstream": [
-    "INTC",
-    "AMD",
-    "NVDA",
-    "005930.KS",
-    "TSM"
+    "Foxconn",
+    "Pegatron",
+    "Wistron",
+    "Flex",
+    "Jabil"
   ],
   "downstream": [
-    "Enterprise IT",
-    "Government",
+    "Enterprise IT customers",
+    "Government agencies",
     "CAT",
-    "Healthcare",
-    "Retail"
+    "Healthcare providers",
+    "Retail consumers"
   ],
   "competitors": [
     "HPQ",
-    "Lenovo",
-    "AAPL",
-    "Acer",
-    "Asus"
+    "Lenovo Group",
+    "Acer Inc.",
+    "ASUS",
+    "AAPL"
   ],
   "key_products": [
-    "Personal computers",
+    "Desktops",
+    "Laptops",
     "Servers",
-    "Monitors",
     "Storage solutions",
-    "Networking equipment",
-    "Cybersecurity services"
+    "Networking equipment"
   ],
-  "extracted_at": "2026-06-10 18:28:34",
+  "extracted_at": "2026-06-11 18:44:47",
   "sources": [
     {
       "source": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Dell_Technologies_Inc.",
-      "title": "Dell Technologies",
-      "snippet": "Dell Technologies Inc. is an American multinational technology company that has been headquartered in Round Rock, Texas, since 1994. It was formed as a result of the September 2016 merger of Dell and "
+      "url": "",
+      "title": "",
+      "snippet": ""
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Dell",
+      "url": "https://www.delltechnologies.com/asset/pl-pl/solutions/business-solutions/briefs-summaries/dell-public-supplier-list.pdf",
       "query": "Dell Technologies Inc. suppliers manufacturers",
-      "snippet": "Dell Inc ., formerly Dell Computer Corporation, is an American technology company that develops, sells, repairs, and supports personal computers, serv"
+      "snippet": "The list of supplier facilities includes original design manufacturers (ODMs), final assembly and material suppliers that Dell buys from directly and/"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.dell.com/en-us",
+      "url": "https://csimarket.com/stocks/DELL-Suppliers",
       "query": "Dell Technologies Inc. suppliers manufacturers",
-      "snippet": "Dell provides technology solutions, services & support. Buy Laptops, Touch Screen PCs, Desktops, Servers, Storage, Monitors, Gaming & Accessories."
+      "snippet": "1 day ago · Dell Technologies Inc supply chain, list and performance of Dell Technologies Incs ' suppliers - CSIMarket"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Dell",
+      "url": "https://en.wikipedia.org/wiki/Dell_Technologies",
       "query": "Dell Technologies Inc. major customers clients",
-      "snippet": "Dell Inc ., formerly Dell Computer Corporation, is an American technology company that develops, sells, repairs, and supports personal computers, serv"
+      "snippet": "Client Solutions Group (55.3% of fiscal 2024 revenues) – produces desktop PCs, notebooks, tablets, and peripherals, such as monitors, printers, and pr"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.dell.com/en-us",
+      "url": "https://www.dell.com/en-us/lp/dt/customer-stories",
       "query": "Dell Technologies Inc. major customers clients",
-      "snippet": "Dell provides technology solutions, services & support. Buy Laptops, Touch Screen PCs, Desktops, Servers, Storage, Monitors, Gaming & Accessories."
+      "snippet": "Miami Dolphins partner with Dell Technologies to optimize IT at Hard Rock Stadium, supporting NFL, soccer, motorsport, tennis, and fan experience."
     }
   ]
 }

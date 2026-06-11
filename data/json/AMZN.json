@@ -4,64 +4,64 @@
   "sector": "Consumer Cyclical",
   "industry": "Internet Retail",
   "upstream": [
-    "Authorized third‑party sellers",
-    "Manufacturers of consumer goods",
-    "Logistics and fulfillment partners",
-    "Technology vendors",
-    "Content providers"
+    "electronics manufacturers",
+    "apparel manufacturers",
+    "home goods suppliers",
+    "book publishers",
+    "third‑party sellers"
   ],
   "downstream": [
-    "Individual consumers",
-    "Prime members",
-    "Business customers",
-    "Enterprise clients",
-    "Small and medium enterprises"
+    "AMZN",
+    "AMZN",
+    "AMZN",
+    "AMZN",
+    "AMZN"
   ],
   "competitors": [
     "eBay",
     "Walmart",
     "Alibaba",
-    "Target",
-    "Best Buy"
+    "Shopify",
+    "Target"
   ],
   "key_products": [
     "Amazon.com e‑commerce platform",
-    "Amazon Prime subscription services",
-    "Amazon Web Services (AWS)",
-    "Amazon Devices (Echo, Kindle, Fire)",
-    "Amazon Marketplace"
+    "Amazon Web Services (cloud computing)",
+    "Amazon Prime Video (digital streaming)",
+    "Amazon Echo/Alexa (smart home devices)",
+    "Amazon Kindle (e‑books and reading devices)"
   ],
-  "extracted_at": "2026-06-10 18:25:52",
+  "extracted_at": "2026-06-11 18:42:25",
   "sources": [
     {
       "source": "Wikipedia",
-      "url": "",
-      "title": "",
-      "snippet": ""
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.accio.com/supplier/amazon-authorized-supplier-list",
-      "query": "Amazon.com, Inc. suppliers manufacturers",
-      "snippet": "6 days ago · Need trusted Amazon authorized suppliers ? Discover vetted manufacturers and wholesalers for seamless product sourcing. Click to access t"
+      "url": "https://en.wikipedia.org/wiki/Amazon.com,_Inc.",
+      "title": "Amazon (company)",
+      "snippet": "Amazon.com, Inc. is an American multinational technology company engaged in e-commerce, cloud computing, online advertising, digital streaming, entertainment, and artificial intelligence. Founded in 1"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://supply.amazon.com/",
       "query": "Amazon.com, Inc. suppliers manufacturers",
-      "snippet": "At Amazon, we look for suppliers who want to become partners on our road to being earth’s most customer-centric company. Supplier Connect enables supp"
+      "snippet": "Join Amazon' s global network of suppliers to be considered for opportunities to sell Amazon the goods and services necessary to support our retail an"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.accio.com/supplier/amazon-suppliers-list",
+      "query": "Amazon.com, Inc. suppliers manufacturers",
+      "snippet": "Jun 3, 2026 · Looking for reliable Amazon suppliers ? Explore our curated list of verified manufacturers across electronics, apparel, and supplements."
     },
     {
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Amazon_(company)",
       "query": "Amazon.com, Inc. major customers clients",
-      "snippet": "Amazon.com, Inc .[1] (doing business as Amazon) [a] is an American multinational technology company engaged in e-commerce, cloud computing, online adv"
+      "snippet": "Amazon Logistics, in which Amazon contracts with small businesses (which it calls \"Delivery Service Partners\") to perform deliveries to customers . Ea"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/AMZN-Customers",
+      "url": "https://capitaloneshopping.com/research/amazon-statistics/",
       "query": "Amazon.com, Inc. major customers clients",
-      "snippet": "Amazon Com Inc 's Comment on Sales, Marketing and Customers We serve consumers through our retail websites and focus on selection, price, and convenie"
+      "snippet": "Jun 4, 2026 · Over 310 million global consumers shop on Amazon at least once a year. 2 million active selling partners have shops on Amazon. Independe"
     }
   ]
 }

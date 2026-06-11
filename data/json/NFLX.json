@@ -1,67 +1,67 @@
 {
   "ticker": "NFLX",
   "company_name": "Netflix, Inc.",
-  "sector": "Communication Services",
-  "industry": "Entertainment",
+  "sector": "Communication Services / Entertainment",
+  "industry": "Streaming Media",
   "upstream": [
-    "Roku",
     "AMZN",
-    "AAPL",
     "GOOGL",
-    "005930.KS"
+    "MSFT",
+    "Roku",
+    "AAPL"
   ],
   "downstream": [
-    "NFLX",
-    "NFLX",
-    "NFLX",
-    "NFLX",
-    "NFLX"
+    "US households",
+    "International households",
+    "Corporate clients (airlines, hotels)",
+    "AAPL",
+    "Cable providers (AT&T, Comcast)"
   ],
   "competitors": [
     "Disney+",
     "AMZN",
-    "Hulu",
     "HBO Max",
-    "Peacock"
+    "AAPL",
+    "Paramount+"
   ],
   "key_products": [
-    "Netflix streaming service",
-    "Netflix Originals",
-    "Netflix mobile app",
-    "Netflix Smart TV app",
-    "Netflix web player"
+    "Streaming service",
+    "Original content",
+    "Licensed content",
+    "Mobile app",
+    "Smart TV app"
   ],
-  "extracted_at": "2026-06-10 18:30:00",
+  "extracted_at": "2026-06-11 18:47:02",
   "sources": [
     {
       "source": "Wikipedia",
-      "url": "",
-      "title": "",
-      "snippet": ""
+      "url": "https://en.wikipedia.org/wiki/Netflix,_Inc.",
+      "title": "Netflix, Inc.",
+      "snippet": "Netflix, Inc. is an American media company founded on August 29, 1997, by Reed Hastings and Marc Randolph in Scotts Valley, California, and currently based in Los Gatos, California, with production of"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/NFLX-Suppliers",
+      "url": "https://netflixtechblog.com/complexity-in-the-digital-supply-chain-958384cbd70b",
       "query": "Netflix, Inc. suppliers manufacturers",
-      "snippet": "Apr 24, 2026 · Netflix Inc 's Suppliers recorded an increase in sales by 10.66 % year on year in Q1 2026, from the previous quarter, sales fell by -7."
+      "snippet": "Dec 17, 2012 · Netflix needs to innovate on the supply chain so that we can effectively increase licensing spending to create an outstanding member ex"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.accio.com/supplier/supplier-netflix",
+      "url": "https://www.eximpedia.app/companies/netflix-inc/96917073",
       "query": "Netflix, Inc. suppliers manufacturers",
-      "snippet": "4 days ago · Need Netflix-compatible streaming devices? Discover verified suppliers offering Google-certified Android TV boxes with Netflix support. C"
+      "snippet": "View Netflix Inc import export trade data, including shipment records, HS codes, top buyers, suppliers, trade values, and global market insights."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.investopedia.com/insights/how-netflix-makes-money/",
+      "url": "https://csimarket.com/stocks/NFLX-Customers",
       "query": "Netflix, Inc. major customers clients",
-      "snippet": "licensing content is a huge expense for Netflix ."
+      "snippet": "May 18, 2026 · Focus of this report: Netflix Inc ’ s corporate clients . For your research, we’ve provided 9 tables on Netflix Inc corporate clients ."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ir.netflix.net/",
+      "url": "https://ir.netflix.net/ir-overview/profile/default.aspx",
       "query": "Netflix, Inc. major customers clients",
-      "snippet": "Company Profile. Netflix is one of the world’s leading entertainment services offering TV series, films, games and live programming across a wide vari"
+      "snippet": "Apr 16, 2026 · Netflix is one of the world’s leading entertainment services offering TV series, films, games and live programming across a wide variet"
     }
   ]
 }

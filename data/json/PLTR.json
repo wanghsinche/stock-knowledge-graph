@@ -7,31 +7,31 @@
     "AMZN",
     "MSFT",
     "GOOGL",
-    "DELL",
-    "HPQ"
+    "ORCL",
+    "IBM"
   ],
   "downstream": [
     "U.S. Department of Defense",
     "INTC",
-    "Federal Bureau of Investigation",
-    "JPMorgan Chase",
-    "Walmart"
+    "U.K. Ministry of Defence",
+    "European Union agencies",
+    "Fortune 500 enterprises"
   ],
   "competitors": [
     "Snowflake",
     "Databricks",
     "Splunk",
-    "Tableau",
-    "MSFT"
+    "CRM",
+    "Qlik"
   ],
   "key_products": [
-    "Palantir Foundry",
-    "Palantir Gotham",
+    "Foundry",
+    "Gotham",
     "Palantir Apollo",
     "Palantir Platform",
     "Palantir Data Integration"
   ],
-  "extracted_at": "2026-06-10 18:28:02",
+  "extracted_at": "2026-06-11 18:44:16",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,25 +43,25 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Palantir",
       "query": "Palantir Technologies Inc. suppliers manufacturers",
-      "snippet": "Palantir Technologies Inc . (/ ˈpælənˌtɪər /) [3] is an American publicly traded company that develops data integration and analytics software. [4] Pa"
+      "snippet": "Palantir 's customer base includes federal agencies, state and local governments, international organizations, and also private companies. [11] The co"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://csimarket.com/stocks/PLTR-Suppliers",
       "query": "Palantir Technologies Inc. suppliers manufacturers",
-      "snippet": "May 6, 2026 · Palantir Technologies Inc 's Suppliers recorded an increase in sales by 5.7 % year on year in Q1 2026, from the previous quarter, sales "
+      "snippet": "May 6, 2026 · For your research, we’ve provided nine additional tables on Palantir Technologies Inc ’ s suppliers . You can find them in the navigatio"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://data.landbase.com/technology/palantir/",
+      "query": "Palantir Technologies Inc. major customers clients",
+      "snippet": "Aug 17, 2025 · Our Palantir customers list is available for download and comes enriched with vital company specifics, including industry classificatio"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.designgurus.io/answers/detail/who-are-the-main-customers-of-palantir",
       "query": "Palantir Technologies Inc. major customers clients",
       "snippet": "Who are the main customers of Palantir? Palantir Technologies serves a diverse clientele across government and commercial sectors, providing data anal"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://data.landbase.com/technology/palantir/",
-      "query": "Palantir Technologies Inc. major customers clients",
-      "snippet": "Aug 17, 2025 · Companies using Palantir by Palantir Technologies Inc in 2026 As of 2026, 1,479 verified companies use Palantir – across industries, co"
     }
   ]
 }

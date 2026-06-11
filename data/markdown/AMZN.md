@@ -3,8 +3,8 @@ ticker: AMZN
 company: Amazon.com, Inc.
 sector: Consumer Cyclical
 industry: Internet Retail
-extracted_at: 2026-06-10 18:25:52
-last_updated: 2026-06-10
+extracted_at: 2026-06-11 18:42:25
+last_updated: 2026-06-11
 ---
 
 # AMZN - Amazon.com, Inc.
@@ -12,46 +12,46 @@ last_updated: 2026-06-10
 ## 基本信息
 
 - **所属行业**: Consumer Cyclical / Internet Retail
-- **提取时间**: 2026-06-10 18:25:52
+- **提取时间**: 2026-06-11 18:42:25
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Authorized third‑party sellers]]
-- [[Manufacturers of consumer goods]]
-- [[Logistics and fulfillment partners]]
-- [[Technology vendors]]
-- [[Content providers]]
+- [[electronics manufacturers]]
+- [[apparel manufacturers]]
+- [[home goods suppliers]]
+- [[book publishers]]
+- [[third‑party sellers]]
 
 ### 下游客户
-- [[Individual consumers]]
-- [[Prime members]]
-- [[Business customers]]
-- [[Enterprise clients]]
-- [[Small and medium enterprises]]
+- [[AMZN]]
+- [[AMZN]]
+- [[AMZN]]
+- [[AMZN]]
+- [[AMZN]]
 
 ### 竞争对手
 - [[eBay]]
 - [[Walmart]]
 - [[Alibaba]]
+- [[Shopify]]
 - [[Target]]
-- [[Best Buy]]
 
 ### 核心产品
 - [[Amazon.com e‑commerce platform]]
-- [[Amazon Prime subscription services]]
-- [[Amazon Web Services (AWS)]]
-- [[Amazon Devices (Echo, Kindle, Fire)]]
-- [[Amazon Marketplace]]
+- [[Amazon Web Services (cloud computing)]]
+- [[Amazon Prime Video (digital streaming)]]
+- [[Amazon Echo/Alexa (smart home devices)]]
+- [[Amazon Kindle (e‑books and reading devices)]]
 
 ## 数据来源
 
-- 
-- [Amazon.com, Inc. suppliers manufacturers](https://www.accio.com/supplier/amazon-authorized-supplier-list)
+- [Amazon (company)](https://en.wikipedia.org/wiki/Amazon.com,_Inc.)
 - [Amazon.com, Inc. suppliers manufacturers](https://supply.amazon.com/)
+- [Amazon.com, Inc. suppliers manufacturers](https://www.accio.com/supplier/amazon-suppliers-list)
 - [Amazon.com, Inc. major customers clients](https://en.wikipedia.org/wiki/Amazon_(company))
-- [Amazon.com, Inc. major customers clients](https://csimarket.com/stocks/AMZN-Customers)
+- [Amazon.com, Inc. major customers clients](https://capitaloneshopping.com/research/amazon-statistics/)
 
 ## 元数据
 
-- **更新日期**: 2026-06-10
+- **更新日期**: 2026-06-11

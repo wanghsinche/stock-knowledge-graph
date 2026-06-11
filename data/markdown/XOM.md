@@ -3,8 +3,8 @@ ticker: XOM
 company: Exxon Mobil Corporation
 sector: Energy
 industry: Oil & Gas Integrated
-extracted_at: 2026-06-10 18:32:54
-last_updated: 2026-06-10
+extracted_at: 2026-06-11 18:50:45
+last_updated: 2026-06-11
 ---
 
 # XOM - Exxon Mobil Corporation
@@ -12,29 +12,29 @@ last_updated: 2026-06-10
 ## 基本信息
 
 - **所属行业**: Energy / Oil & Gas Integrated
-- **提取时间**: 2026-06-10 18:32:54
+- **提取时间**: 2026-06-11 18:50:45
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Drilling equipment manufacturers]]
-- [[Petrochemical feedstock suppliers]]
-- [[Exploration technology providers]]
-- [[Oilfield services companies]]
-- [[Pipeline construction firms]]
+- [[Halliburton]]
+- [[Schlumberger]]
+- [[Baker Hughes]]
+- [[Weatherford]]
+- [[National Oilwell Varco]]
 
 ### 下游客户
-- [[Automotive fuel distributors]]
-- [[Aviation fuel suppliers]]
-- [[Industrial petrochemical customers]]
-- [[Retail gasoline stations]]
-- [[Bulk fuel purchasers (airlines, shipping)]]
+- [[Shell]]
+- [[BP]]
+- [[Chevron]]
+- [[TotalEnergies]]
+- [[PetroChina]]
 
 ### 竞争对手
-- [[Chevron Corporation]]
-- [[Royal Dutch Shell]]
-- [[BP plc]]
-- [[TotalEnergies SE]]
+- [[Chevron]]
+- [[BP]]
+- [[Shell]]
+- [[TotalEnergies]]
 - [[ConocoPhillips]]
 
 ### 核心产品
@@ -42,16 +42,16 @@ last_updated: 2026-06-10
 - [[Natural gas]]
 - [[Gasoline]]
 - [[Diesel]]
-- [[Jet fuel]]
+- [[Petrochemicals (ethylene, propylene)]]
 
 ## 数据来源
 
-- 
-- [Exxon Mobil Corporation suppliers manufacturers](https://en.wikipedia.org/wiki/ExxonMobil)
+- [ExxonMobil](https://en.wikipedia.org/wiki/Exxon_Mobil_Corporation)
 - [Exxon Mobil Corporation suppliers manufacturers](https://corporate.exxonmobil.com/procurement/exxonmobil-for-suppliers)
-- [Exxon Mobil Corporation major customers clients](https://en.wikipedia.org/wiki/History_of_ExxonMobil)
-- [Exxon Mobil Corporation major customers clients](https://corporate.exxonmobil.com/)
+- [Exxon Mobil Corporation suppliers manufacturers](https://www.accio.com/supplier/exxonmobil-approved-manufacturer-list)
+- [Exxon Mobil Corporation competitors alternatives](https://www.marketbeat.com/stocks/NYSE/XOM/competitors-and-alternatives/)
+- [Exxon Mobil Corporation competitors alternatives](https://www.investopedia.com/articles/markets/090715/who-are-exxons-main-competitors.asp)
 
 ## 元数据
 
-- **更新日期**: 2026-06-10
+- **更新日期**: 2026-06-11

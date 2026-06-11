@@ -7,31 +7,31 @@
     "AMZN",
     "MSFT",
     "GOOGL",
-    "DELL",
-    "HPQ"
+    "INTC",
+    "NVDA"
   ],
   "downstream": [
     "Capital One",
-    "ADBE",
-    "eBay",
     "SONY",
-    "Spotify"
+    "eBay",
+    "Target",
+    "ADBE"
   ],
   "competitors": [
     "AMZN",
     "GOOGL",
     "MSFT",
     "Databricks",
-    "Teradata"
+    "Snowpark"
   ],
   "key_products": [
     "Snowflake Data Cloud",
+    "Snowflake Data Warehouse",
     "Snowflake Data Marketplace",
-    "Snowflake Data Sharing",
-    "Snowflake Data Engineering",
-    "Snowflake Data Warehousing"
+    "Snowflake Data Exchange",
+    "Snowpark"
   ],
-  "extracted_at": "2026-06-04 18:19:09",
+  "extracted_at": "2026-06-11 18:49:20",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,25 +43,25 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Snowflake_Inc.",
       "query": "Snowflake Inc. suppliers manufacturers",
-      "snippet": "Snowflake Inc . is an American cloud-based data platform company founded in San Mateo, California, and headquartered in Menlo Park."
+      "snippet": "Snowflake Inc . was founded in July 2012 in San Mateo, California, by Benoît Dageville, Thierry Cruanes, and Marcin Żukowski. Dageville and Cruanes pr"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.snowflake.com/",
+      "url": "https://csimarket.com/stocks/SNOW-Suppliers",
       "query": "Snowflake Inc. suppliers manufacturers",
-      "snippet": "Snowflake powers AI, data engineering, applications, and analytics on a trusted, scalable AI Data Cloud—eliminating silos and accelerating innovation."
+      "snippet": "Mar 23, 2026 · Snowflake Inc supply chain, list and performance of Snowflake Incs ' suppliers - CSIMarket"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Snowflake_Inc.",
+      "url": "https://www.snowflake.com/en/customers/all-customers/",
       "query": "Snowflake Inc. major customers clients",
-      "snippet": "Snowflake Inc . is an American cloud-based data platform company founded in San Mateo, California, and headquartered in Menlo Park. It operates a plat"
+      "snippet": "Leading Organizations Choose Snowflake . Discover how organizations are using the Snowflake AI Data Cloud, to easily transform, integrate, and analyze"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.snowflake.com/",
+      "url": "https://www.appsruntheworld.com/customers-database/vendors/view/snowflake-inc",
       "query": "Snowflake Inc. major customers clients",
-      "snippet": "Snowflake enables organizations to collaborate, build AI-powered data apps, and unlock data insights—all within a secure and scalable AI Data Cloud."
+      "snippet": "Which Snowflake products have the most recorded customers ? The most widely adopted products are Snowflake Data Warehouse, Snowflake Data Cloud, Snowf"
     }
   ]
 }

@@ -1,37 +1,37 @@
 {
   "ticker": "HOOD",
   "company_name": "Robinhood Markets, Inc.",
-  "sector": "Financial Services / Capital Markets",
-  "industry": "Retail Brokerage",
+  "sector": "Financial Services",
+  "industry": "Capital Markets",
   "upstream": [
     "AMZN",
     "GOOGL",
-    "Bloomberg",
-    "FactSet",
-    "IEX Cloud"
+    "Bloomberg Data Services",
+    "Plaid",
+    "Stripe"
   ],
   "downstream": [
     "Retail investors",
-    "High‑frequency traders",
+    "High net worth individuals",
     "Institutional investors",
-    "Financial advisors",
-    "Wealth management firms"
+    "Day traders",
+    "Crypto traders"
   ],
   "competitors": [
     "Charles Schwab",
-    "E*TRADE",
-    "TD Ameritrade",
     "Fidelity",
+    "TD Ameritrade",
+    "E*TRADE",
     "Webull"
   ],
   "key_products": [
     "Commission‑free stock trading",
-    "Options trading",
     "Cryptocurrency trading",
+    "Margin trading",
     "Robinhood Gold subscription",
-    "Cash management services"
+    "Cash management account"
   ],
-  "extracted_at": "2026-06-10 18:27:09",
+  "extracted_at": "2026-06-11 18:43:54",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,25 +43,25 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Robinhood_Markets",
       "query": "Robinhood Markets, Inc. suppliers manufacturers",
-      "snippet": "Robinhood Markets , Inc . Robinhood Markets , Inc . is an American financial services company based in Menlo Park, California."
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://robinhood.com/",
-      "query": "Robinhood Markets, Inc. suppliers manufacturers",
-      "snippet": "Trade stocks on Robinhood with commission-free investing & advanced trading tools. Access fractional shares, real-time market data, and more."
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Robinhood_Markets",
-      "query": "Robinhood Markets, Inc. major customers clients",
       "snippet": "Robinhood Markets , Inc . is an American financial services company based in Menlo Park, California. It provides an electronic trading platform that f"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.bbb.org/us/ca/palo-alto/profile/financial-services/robinhood-markets-inc-1216-417256/customer-reviews",
+      "url": "https://csimarket.com/stocks/HOOD-Suppliers",
+      "query": "Robinhood Markets, Inc. suppliers manufacturers",
+      "snippet": "Feb 28, 2026 · For your research, we’ve provided nine additional tables on Robinhood Markets Inc ’s suppliers . You can find them in the navigation me"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://investingintheweb.com/brokers/robinhood-statistics/",
       "query": "Robinhood Markets, Inc. major customers clients",
-      "snippet": "Robinhood Markets , Inc . is NOT a BBB Accredited Business. To become accredited, a business must agree to BBB Standards for Trust and pass BBB's vett"
+      "snippet": "Apr 7, 2026 · The platform has gained a massive customer base in the US, making it a major disruptor in the finance industry. In this article, we’ll e"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://investors.robinhood.com/",
+      "query": "Robinhood Markets, Inc. major customers clients",
+      "snippet": "May 31, 2026 · Robinhood Markets , Inc . Investor relations (IR) website contains information about our business for stockholders, potential investors"
     }
   ]
 }

@@ -1,37 +1,37 @@
 {
   "ticker": "ASTS",
   "company_name": "AST SpaceMobile, Inc.",
-  "sector": "Technology / Communication Equipment",
-  "industry": "Satellite Communications / Space-based Broadband",
+  "sector": "Technology",
+  "industry": "Communication Equipment",
   "upstream": [
-    "SpaceX",
-    "Lockheed Martin",
-    "Boeing",
-    "Airbus",
-    "Northrop Grumman"
+    "Satellite component manufacturers",
+    "Launch service providers",
+    "Antenna manufacturers",
+    "Electronics suppliers",
+    "Propulsion system suppliers"
   ],
   "downstream": [
-    "AT&T",
-    "Verizon",
-    "T-Mobile",
-    "Vodafone",
-    "Telefonica"
+    "Mobile network operators",
+    "Telecom operators",
+    "Enterprise customers",
+    "Government agencies",
+    "Satellite internet users"
   ],
   "competitors": [
     "SpaceX Starlink",
     "OneWeb",
     "AMZN",
     "Telesat",
-    "LeoSat"
+    "Hughes Network Systems"
   ],
   "key_products": [
-    "Space-based cellular broadband network",
-    "Satellite constellation",
-    "Satellite terminals",
-    "Ground stations",
-    "Mobile broadband services"
+    "Satellite broadband network",
+    "Low Earth Orbit satellite constellation",
+    "Satellite communication terminals",
+    "Space-based internet services",
+    "Satellite infrastructure"
   ],
-  "extracted_at": "2026-06-09 18:37:31",
+  "extracted_at": "2026-06-11 18:48:18",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/AST_SpaceMobile",
+      "query": "AST SpaceMobile, Inc. suppliers manufacturers",
+      "snippet": "AST SpaceMobile , Inc . is a publicly traded satellite designer and manufacturer based in Midland, Texas, United States. [6][7] The company is buildin"
+    },
+    {
+      "source": "DuckDuckGo",
       "url": "https://ast-science.com/",
       "query": "AST SpaceMobile, Inc. suppliers manufacturers",
-      "snippet": "AST SpaceMobile is building the first and only space -based cellular broadband network accessible directly by standard, unmodified mobile phones."
+      "snippet": "We have partnered with over 50 mobile network operators to seamlessly integrate with ground infrastructure and offer a turnkey service to their nearly"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/ASTS/",
-      "query": "AST SpaceMobile, Inc. suppliers manufacturers",
-      "snippet": "Find the latest AST SpaceMobile , Inc . (ASTS) stock quote, history, news and other vital information to help you with your stock trading and investin"
+      "url": "https://www.marketbeat.com/stocks/NASDAQ/ASTS/competitors-and-alternatives/",
+      "query": "AST SpaceMobile, Inc. competitors alternatives",
+      "snippet": "Should you buy AST SpaceMobile stock or one of its competitors ? MarketBeat compares AST SpaceMobile with other companies and stocks that may be simil"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/AST_SpaceMobile",
-      "query": "AST SpaceMobile, Inc. major customers clients",
-      "snippet": "AST SpaceMobile is a publicly traded satellite designer and manufacturer based in Midland, Texas, United States. The company is building the SpaceMobi"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.marketbeat.com/stocks/NASDAQ/ASTS/",
-      "query": "AST SpaceMobile, Inc. major customers clients",
-      "snippet": "AST SpaceMobile , Inc . (NASDAQ:ASTS) announced its earnings results on Monday, May, 11th. The company reported ($0.66) earnings per share for the qua"
+      "url": "https://tradestie.com/stocks/ASTS/competitors/",
+      "query": "AST SpaceMobile, Inc. competitors alternatives",
+      "snippet": "3 days ago · Find the best alternatives to ASTS (Ast Spacemobile Inc ). Compare ASTS vs top competitors in Communication Equipment industry by valuati"
     }
   ]
 }

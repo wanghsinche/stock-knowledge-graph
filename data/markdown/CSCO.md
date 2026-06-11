@@ -3,8 +3,8 @@ ticker: CSCO
 company: Cisco Systems, Inc.
 sector: Technology / Communication Equipment
 industry: Networking Equipment
-extracted_at: 2026-06-10 18:31:21
-last_updated: 2026-06-10
+extracted_at: 2026-06-11 18:46:18
+last_updated: 2026-06-11
 ---
 
 # CSCO - Cisco Systems, Inc.
@@ -12,7 +12,7 @@ last_updated: 2026-06-10
 ## 基本信息
 
 - **所属行业**: Technology / Communication Equipment / Networking Equipment
-- **提取时间**: 2026-06-10 18:31:21
+- **提取时间**: 2026-06-11 18:46:18
 
 ## 产业链关系
 
@@ -21,7 +21,7 @@ last_updated: 2026-06-10
 - [[AVGO]]
 - [[QCOM]]
 - [[TXN]]
-- [[NVDA]]
+- [[MU]]
 
 ### 下游客户
 - [[AT&T]]
@@ -32,10 +32,10 @@ last_updated: 2026-06-10
 
 ### 竞争对手
 - [[JNPR]]
-- [[Huawei]]
 - [[ANET]]
-- [[Nokia]]
-- [[Ericsson]]
+- [[HPQ]]
+- [[Huawei]]
+- [[Netgear]]
 
 ### 核心产品
 - [[Cisco routers]]
@@ -49,9 +49,9 @@ last_updated: 2026-06-10
 - [Cisco](https://en.wikipedia.org/wiki/Cisco_Systems,_Inc.)
 - [Cisco Systems, Inc. suppliers manufacturers](https://www.cisco.com/c/dam/en_us/about/supply-chain/cisco-supplier-list.pdf)
 - [Cisco Systems, Inc. suppliers manufacturers](https://www.accio.com/supplier/cisco-supplier-list)
-- [Cisco Systems, Inc. major customers clients](https://en.wikipedia.org/wiki/Cisco)
-- [Cisco Systems, Inc. major customers clients](https://ru.wikipedia.org/wiki/Cisco)
+- [Cisco Systems, Inc. major customers clients](https://www.cisco.com/site/us/en/about/case-studies-customer-stories/index.html)
+- [Cisco Systems, Inc. major customers clients](https://www.appsruntheworld.com/customers-database/vendors/view/cisco-systems)
 
 ## 元数据
 
-- **更新日期**: 2026-06-10
+- **更新日期**: 2026-06-11

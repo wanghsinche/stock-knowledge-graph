@@ -1,57 +1,57 @@
 ---
 ticker: ASTS
 company: AST SpaceMobile, Inc.
-sector: Technology / Communication Equipment
-industry: Satellite Communications / Space-based Broadband
-extracted_at: 2026-06-09 18:37:31
-last_updated: 2026-06-09
+sector: Technology
+industry: Communication Equipment
+extracted_at: 2026-06-11 18:48:18
+last_updated: 2026-06-11
 ---
 
 # ASTS - AST SpaceMobile, Inc.
 
 ## 基本信息
 
-- **所属行业**: Technology / Communication Equipment / Satellite Communications / Space-based Broadband
-- **提取时间**: 2026-06-09 18:37:31
+- **所属行业**: Technology / Communication Equipment
+- **提取时间**: 2026-06-11 18:48:18
 
 ## 产业链关系
 
 ### 上游供应商
-- [[SpaceX]]
-- [[Lockheed Martin]]
-- [[Boeing]]
-- [[Airbus]]
-- [[Northrop Grumman]]
+- [[Satellite component manufacturers]]
+- [[Launch service providers]]
+- [[Antenna manufacturers]]
+- [[Electronics suppliers]]
+- [[Propulsion system suppliers]]
 
 ### 下游客户
-- [[AT&T]]
-- [[Verizon]]
-- [[T-Mobile]]
-- [[Vodafone]]
-- [[Telefonica]]
+- [[Mobile network operators]]
+- [[Telecom operators]]
+- [[Enterprise customers]]
+- [[Government agencies]]
+- [[Satellite internet users]]
 
 ### 竞争对手
 - [[SpaceX Starlink]]
 - [[OneWeb]]
 - [[AMZN]]
 - [[Telesat]]
-- [[LeoSat]]
+- [[Hughes Network Systems]]
 
 ### 核心产品
-- [[Space-based cellular broadband network]]
-- [[Satellite constellation]]
-- [[Satellite terminals]]
-- [[Ground stations]]
-- [[Mobile broadband services]]
+- [[Satellite broadband network]]
+- [[Low Earth Orbit satellite constellation]]
+- [[Satellite communication terminals]]
+- [[Space-based internet services]]
+- [[Satellite infrastructure]]
 
 ## 数据来源
 
 - 
+- [AST SpaceMobile, Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/AST_SpaceMobile)
 - [AST SpaceMobile, Inc. suppliers manufacturers](https://ast-science.com/)
-- [AST SpaceMobile, Inc. suppliers manufacturers](https://finance.yahoo.com/quote/ASTS/)
-- [AST SpaceMobile, Inc. major customers clients](https://en.wikipedia.org/wiki/AST_SpaceMobile)
-- [AST SpaceMobile, Inc. major customers clients](https://www.marketbeat.com/stocks/NASDAQ/ASTS/)
+- [AST SpaceMobile, Inc. competitors alternatives](https://www.marketbeat.com/stocks/NASDAQ/ASTS/competitors-and-alternatives/)
+- [AST SpaceMobile, Inc. competitors alternatives](https://tradestie.com/stocks/ASTS/competitors/)
 
 ## 元数据
 
-- **更新日期**: 2026-06-09
+- **更新日期**: 2026-06-11

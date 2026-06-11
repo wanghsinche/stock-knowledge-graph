@@ -6,16 +6,16 @@
   "upstream": [
     "Boeing",
     "Airbus",
-    "Pratt & Whitney",
     "GE Aviation",
+    "Pratt & Whitney",
     "Honeywell"
   ],
   "downstream": [
+    "Passengers",
     "Corporate travel clients",
     "Travel agencies",
-    "Government agencies",
-    "Frequent flyers",
-    "Cargo shippers"
+    "Freight customers",
+    "Government contracts"
   ],
   "competitors": [
     "Delta Air Lines",
@@ -26,30 +26,30 @@
   ],
   "key_products": [
     "Passenger air transport",
-    "Cargo transport",
-    "Maintenance, Repair, and Overhaul (MRO)",
-    "Loyalty program (AAdvantage)",
-    "In-flight services"
+    "Cargo services",
+    "AAdvantage loyalty program",
+    "Maintenance services",
+    "In-flight entertainment"
   ],
-  "extracted_at": "2026-06-10 18:32:25",
+  "extracted_at": "2026-06-11 18:46:51",
   "sources": [
     {
       "source": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/American_Airlines_Group_Inc.",
-      "title": "American Airlines Group",
-      "snippet": "American Airlines Group Inc. is an American publicly traded airline holding company headquartered in Fort Worth, Texas. It was formed on December 9, 2013, by the merger of AMR Corporation, the parent "
+      "url": "",
+      "title": "",
+      "snippet": ""
     },
     {
       "source": "DuckDuckGo",
       "url": "https://csimarket.com/stocks/AAL-Suppliers",
       "query": "American Airlines Group Inc. suppliers manufacturers",
-      "snippet": "Apr 24, 2026 · American Airlines Group Inc 's Suppliers recorded an increase in sales by 10.62 % year on year in Q1 2026, from the previous quarter, s"
+      "snippet": "Apr 24, 2026 · American Airlines Group Inc supply chain, list and performance of American Airlines Group Incs ' suppliers - CSIMarket"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.aa.com/web/i18n/customer-service/about-us/supplier-diversity.html",
+      "url": "https://www.aa.com/arriving/ponInfSup.html",
       "query": "American Airlines Group Inc. suppliers manufacturers",
-      "snippet": "American Airlines partners with a wide range of suppliers to support operations and enhance the customer travel experience."
+      "snippet": "Dec 9, 2013 · In addition, our suppliers will help us provide a seamless integration experience for our customers by continuing to provide high-qualit"
     },
     {
       "source": "DuckDuckGo",
@@ -61,7 +61,7 @@
       "source": "DuckDuckGo",
       "url": "https://www.aa.com/i18n/customer-service/about-us/american-airlines-group.jsp",
       "query": "American Airlines Group Inc. major customers clients",
-      "snippet": "In 2016, American Airlines Group Inc . topped Fortune magazine’s list of best business turnarounds, and its stock (NASDAQ: AAL) joined the S&P 500 ind"
+      "snippet": "With 130,000 team members around the world, American is focused on creating a world-class customer experience, building the airline to thrive forever "
     }
   ]
 }

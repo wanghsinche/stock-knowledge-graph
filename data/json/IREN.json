@@ -2,36 +2,36 @@
   "ticker": "IREN",
   "company_name": "IREN Limited",
   "sector": "Financial Services / Capital Markets",
-  "industry": "Cloud Computing / Data Center Services",
+  "industry": "Cloud Computing & Data Center Services",
   "upstream": [
     "NVDA",
     "AMD",
+    "INTC",
     "DELL",
-    "HPQ",
-    "Renewable Energy Providers"
+    "HPQ"
   ],
   "downstream": [
-    "Fintech Companies",
-    "Banks",
-    "Insurance Firms",
-    "Government Agencies",
-    "AI Startups"
+    "MSFT",
+    "AMZN",
+    "GOOGL",
+    "JPMorgan Chase",
+    "Goldman Sachs"
   ],
   "competitors": [
     "AMZN",
     "MSFT",
     "GOOGL",
     "Alibaba Cloud",
-    "IBM"
+    "ORCL"
   ],
   "key_products": [
     "AI Cloud Services",
-    "GPU Cluster Services",
+    "GPU Cluster Solutions",
     "Renewable-Powered Data Centers",
-    "Cloud Infrastructure",
-    "AI-Enabled Analytics"
+    "High-Performance Computing Infrastructure",
+    "Cloud Storage & Backup"
   ],
-  "extracted_at": "2026-06-10 18:30:24",
+  "extracted_at": "2026-06-11 18:45:09",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.iren.com/",
+      "url": "https://iren.com/",
       "query": "IREN Limited suppliers manufacturers",
-      "snippet": "Explore IREN 's 100% renewable-powered data centers offering AI Cloud, GPU clusters, colocation, and build-to-suit infrastructure for scalable compute"
+      "snippet": "Explore IREN's 100% renewable-powered data centers offering AI Cloud, GPU clusters, colocation, and build-to-suit infrastructure for scalable compute "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/suppliers_glance.php?code=IREN",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-and-iren-announce-strategic-partnership-to-accelerate-deployment-of-up-to-5-gigawatts-of-ai-infrastructure",
       "query": "IREN Limited suppliers manufacturers",
-      "snippet": "Iren Limited supply chain, list and performance of Iren Limiteds' suppliers - CSIMarket"
+      "snippet": "May 7, 2026 · The partnership is intended to accelerate deployment of large-scale AI factories by combining NVIDIA's DSX AI factory architecture with "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.investing.com/equities/iris-energy",
+      "url": "https://csimarket.com/stocks/IREN-Customers",
       "query": "IREN Limited major customers clients",
-      "snippet": "View today's IREN Ltd stock price and latest IREN news and analysis. Create real-time notifications to follow any changes in the live stock price."
+      "snippet": "May 22, 2026 · For your research, we’ve provided 9 tables on Iren Limited corporate clients . You can find them in the navigation menu under Customers"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.fool.com/investing/2026/06/05/why-iren-limited-rallied-almost-40-in-may/",
+      "url": "https://www.msn.com/en-us/money/topstocks/irens-ai-client-base-expands-is-growth-becoming-more-durable/ar-AA1T5bT4",
       "query": "IREN Limited major customers clients",
-      "snippet": "Shares of AI neocloud IREN Limited ( IREN 11.95%) rallied 39.6% in May, according to data from S&P Global Market Intelligence.Mirantis has 1,500 enter"
+      "snippet": "Beyond the highly visible $9.7 billion Microsoft AI cloud agreement, the company has added several multi-year AI cloud customers , including Together "
     }
   ]
 }

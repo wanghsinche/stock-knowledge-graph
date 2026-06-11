@@ -1,37 +1,37 @@
 {
   "ticker": "SNDK",
   "company_name": "Sandisk Corporation",
-  "sector": "Technology",
-  "industry": "Computer Hardware",
+  "sector": "Technology / Computer Hardware",
+  "industry": "Computer Semiconductor",
   "upstream": [
     "GIGAPC Corporation",
-    "Taiwanese OEM manufacturer (unnamed)",
-    "Nanya Technology",
-    "Winbond Electronics",
+    "Taiwanese OEM manufacturer",
+    "TSM",
+    "005930.KS",
     "MU"
   ],
   "downstream": [
     "AAPL",
     "MSFT",
-    "SONY",
     "DELL",
-    "HPQ"
+    "HPQ",
+    "AMZN"
   ],
   "competitors": [
-    "Kingston Technology",
-    "005930.KS",
+    "WDC",
+    "STX",
     "MU",
-    "Toshiba Corporation",
-    "Lexar"
+    "005930.KS",
+    "SK Hynix"
   ],
   "key_products": [
+    "Solid State Drives (SSDs)",
     "USB flash drives",
-    "SD/CF memory cards",
-    "SSD solid‑state drives",
-    "External hard drives",
-    "Embedded flash memory"
+    "SD cards",
+    "Memory cards",
+    "Enterprise storage solutions"
   ],
-  "extracted_at": "2026-06-10 18:24:35",
+  "extracted_at": "2026-06-11 18:40:45",
   "sources": [
     {
       "source": "Wikipedia",
@@ -53,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Sandisk",
+      "url": "https://data.landbase.com/technology/sandisk/",
       "query": "Sandisk Corporation major customers clients",
-      "snippet": "2 days ago - Sandisk Corporation (formerly SunDisk Corporation) is an American multinational computer semiconductor company based in Milpitas, Califor"
+      "snippet": "Aug 17, 2025 · Our SanDisk customers list is available for download and comes enriched with vital company specifics, including industry classification"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.companieshistory.com/sandisk/",
+      "url": "https://www.appsruntheworld.com/customers-database/vendors/view/sandisk",
       "query": "Sandisk Corporation major customers clients",
-      "snippet": "January 19, 2026 - SanDisk completed its largest acquisition in 2014 by purchasing Fusion-io for $1.1 billion. Fusion-io specialized in PCIe flash car"
+      "snippet": "List of companies using or evaluating SanDisk applications, with details on their revenues, employees, industries, and locations."
     }
   ]
 }

@@ -1,45 +1,67 @@
 {
   "ticker": "NBIS",
-  "company_name": "NBIS",
-  "sector": "Communication Services",
-  "industry": "Internet Content & Information",
+  "company_name": "Nebius Group N.V.",
+  "sector": "Communication Services / Internet Content & Information",
+  "industry": "Artificial Intelligence Infrastructure",
   "upstream": [
-    "Nebius Group N.V."
+    "NVDA",
+    "AMD",
+    "INTC",
+    "AMZN",
+    "MSFT"
   ],
-  "downstream": [],
-  "competitors": [],
-  "key_products": [],
-  "extracted_at": "2026-06-10 18:28:44",
+  "downstream": [
+    "U.S. Federal Government",
+    "Israeli Government",
+    "Large enterprises",
+    "Academic institutions",
+    "Cloud service providers"
+  ],
+  "competitors": [
+    "OpenAI",
+    "Anthropic",
+    "Cohere",
+    "DeepMind",
+    "MSFT"
+  ],
+  "key_products": [
+    "Nebius AI Infrastructure Platform",
+    "Avride",
+    "TripleTen",
+    "Toloka",
+    "Clickhouse"
+  ],
+  "extracted_at": "2026-06-11 18:44:38",
   "sources": [
     {
       "source": "Wikipedia",
-      "url": "",
-      "title": "",
-      "snippet": ""
+      "url": "https://en.wikipedia.org/wiki/NBIS",
+      "title": "Nebius Group",
+      "snippet": "Nebius Group N.V., headquartered in Amsterdam, is a technology company that provides artificial intelligence infrastructure. The company also owns Avride and TripleTen, as well as stakes in Toloka and"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Nebius_Group",
       "query": "NBIS suppliers manufacturers",
-      "snippet": "Nebius Group N.V., headquartered in Amsterdam, is a technology company that provides artificial intelligence infrastructure."
+      "snippet": "Nebius Group N.V., headquartered in Amsterdam, is a technology company [3] that provides artificial intelligence infrastructure. [4] . The company als"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/suppliers_glance.php?code=NBIS",
+      "url": "https://www.dcsa.mil/Systems-Applications/National-Background-Investigation-Services-NBIS/",
       "query": "NBIS suppliers manufacturers",
-      "snippet": "NBIS 's Suppliers Management Effectiveness. NBIS 's Competitors Results. NBIS 's vs. Suppliers , Data. (Revenue and Income for Trailing 12 Months, in "
+      "snippet": "NBIS is the Federal government’s IT system for end-to-end process for personnel vetting. This starts with the initiation and application for a backgro"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://sql.coderang.dev/fr/trainer/tasks/757",
+      "url": "https://csimarket.com/stocks/NBIS-Customers",
       "query": "NBIS major customers clients",
-      "snippet": "Le marketing veut trois segments de clients selon le chiffre d'affaires total payé : « low » — moins de 200, « mid » — de 200 à 700 (700 non inclus), "
+      "snippet": "2 days ago · For your research, we’ve provided 9 tables on Nebius Group n v corporate clients . You can find them in the navigation menu under Custome"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.youtube.com/watch?v=bp1PJJR-xC0",
+      "url": "https://www.dcsa.mil/Systems-Applications/National-Background-Investigation-Services-NBIS/",
       "query": "NBIS major customers clients",
-      "snippet": "CLIENTS music to attract customers and money in 1 day - with sounds to Visualize 2026 Vol 2 https://youtu.be/C1iqbL6LSNI #WealthMusic #attracWealth #."
+      "snippet": "The purpose of NBIS is to modernize, streamline and secure the entire process to enhance the user experience and provide a reliable and integrated set"
     }
   ]
 }

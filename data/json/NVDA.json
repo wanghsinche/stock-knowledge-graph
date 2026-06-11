@@ -7,14 +7,14 @@
     "TSM",
     "005930.KS",
     "GlobalFoundries",
-    "ASE Technology Holding",
-    "MU"
+    "UMC",
+    "ASE"
   ],
   "downstream": [
+    "AAPL",
     "MSFT",
     "AMZN",
     "GOOGL",
-    "SONY",
     "TSLA"
   ],
   "competitors": [
@@ -26,12 +26,12 @@
   ],
   "key_products": [
     "GeForce RTX GPUs",
-    "Quadro/RTX A-series GPUs",
-    "Tesla V100 & A100 GPUs",
-    "DGX AI supercomputers",
-    "Jetson AI SoCs"
+    "Quadro GPUs",
+    "Tesla GPUs",
+    "Jetson SoCs",
+    "CUDA platform"
   ],
-  "extracted_at": "2026-06-10 18:24:25",
+  "extracted_at": "2026-06-11 18:40:29",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Nvidia",
+      "url": "https://www.suppliersmap.com/nvidia",
       "query": "NVIDIA Corporation suppliers manufacturers",
-      "snippet": "Nvidia Corporation is an American multinational technology company headquartered in Santa Clara, California. Nvidia uses external suppliers for all ph"
+      "snippet": "Explore Nvidia 's complete supply chain with interactive visualizations showing supplier locations and component breakdowns across GeForce RTX and oth"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.investing.com/equities/nvidia-corp",
+      "url": "https://csimarket.com/stocks/NVDA-Suppliers",
       "query": "NVIDIA Corporation suppliers manufacturers",
-      "snippet": "View today's NVIDIA Corporation stock price and latest NVDA news and analysis. Create real-time notifications to follow any changes in the live stock "
+      "snippet": "May 21, 2026 · Nvidia 's Comment on Supply Chain We utilize a fabless and contracting manufacturing strategy, whereby we employ and partner with key s"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.fool.com/investing/2025/06/26/who-are-nvidias-biggest-customers/",
+      "url": "https://finance.yahoo.com/news/nvidias-biggest-customers-095700428.html",
       "query": "NVIDIA Corporation major customers clients",
-      "snippet": "Jun 26, 2025 · Nvidia 's GPUs and networking equipment account for a large chunk of AI data center spending, but other major costs include land acquis"
+      "snippet": "June 26, 2025 - Nvidia has amassed an impressive list of customers, which includes top AI developers like Amazon, Microsoft, and Alphabet . Nvidia's c"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://stocksandfuturestrading.com/the-complete-list-of-nvidias-suppliers-and-consumers/",
+      "url": "https://csimarket.com/stocks/markets_glance.php?code=NVDA",
       "query": "NVIDIA Corporation major customers clients",
-      "snippet": "Nov 22, 2024 · NVIDIA has completed one of the most dramatic business transformations in market history — going from a gaming GPU company to the backb"
+      "snippet": "3 days ago - Nvidia customers and markets, results by customer and performance relative to NVDA, by company and industry - CSIMarket"
     }
   ]
 }

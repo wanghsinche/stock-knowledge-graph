@@ -3,8 +3,8 @@ ticker: WDC
 company: Western Digital Corporation
 sector: Technology
 industry: Computer Hardware
-extracted_at: 2026-06-10 18:29:20
-last_updated: 2026-06-10
+extracted_at: 2026-06-11 18:48:02
+last_updated: 2026-06-11
 ---
 
 # WDC - Western Digital Corporation
@@ -12,28 +12,46 @@ last_updated: 2026-06-10
 ## 基本信息
 
 - **所属行业**: Technology / Computer Hardware
-- **提取时间**: 2026-06-10 18:29:20
+- **提取时间**: 2026-06-11 18:48:02
 
 ## 产业链关系
 
 ### 上游供应商
-_暂无数据_
+- [[Silicon wafer manufacturers]]
+- [[Memory chip suppliers]]
+- [[Electronic component suppliers]]
+- [[Manufacturing equipment suppliers]]
+- [[Packaging and assembly suppliers]]
 
 ### 下游客户
-_暂无数据_
+- [[DELL]]
+- [[HPQ]]
+- [[Lenovo Group]]
+- [[AAPL]]
+- [[AMZN]]
 
 ### 竞争对手
-_暂无数据_
+- [[STX]]
+- [[Toshiba Corporation]]
+- [[005930.KS]]
+- [[SK Hynix]]
+- [[MU]]
 
 ### 核心产品
-_暂无数据_
+- [[Hard Disk Drives (HDDs)]]
+- [[Solid State Drives (SSDs)]]
+- [[Enterprise storage solutions]]
+- [[Network Attached Storage (NAS)]]
+- [[External storage devices]]
 
 ## 数据来源
 
-- [Western Digital](https://en.wikipedia.org/wiki/Western_Digital_Corporation)
-- [Western Digital Corporation suppliers manufacturers](https://octopart.com/wd136ba-00aga0-western+digital-91481684)
-- [Western Digital Corporation suppliers manufacturers](https://esaitech.com/products/western-digital-corporation-wd102purp-20pk)
+- 
+- [Western Digital Corporation suppliers manufacturers](https://www.westerndigital.com/company/distributors)
+- [Western Digital Corporation suppliers manufacturers](https://csimarket.com/stocks/WDC-Suppliers)
+- [Western Digital Corporation major customers clients](https://www.ibisworld.com/united-states/company/western-digital-corporation/10437/)
+- [Western Digital Corporation major customers clients](https://investor.wdc.com/news-releases/news-release-details/western-digital-unveiled-go-forward-strategy-investor-day-2025)
 
 ## 元数据
 
-- **更新日期**: 2026-06-10
+- **更新日期**: 2026-06-11

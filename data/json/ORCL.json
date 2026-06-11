@@ -4,34 +4,34 @@
   "sector": "Technology",
   "industry": "Software - Infrastructure",
   "upstream": [
+    "INTC",
+    "AMD",
+    "NVDA",
     "DELL",
-    "HPQ",
-    "CSCO",
-    "EMC Corporation",
-    "NetApp"
+    "CSCO"
   ],
   "downstream": [
     "Walmart",
     "JPMorgan Chase",
     "Bank of America",
     "AT&T",
-    "CAT"
+    "Verizon"
   ],
   "competitors": [
     "MSFT",
     "AMZN",
-    "GOOGL",
     "IBM",
-    "SAP"
+    "SAP",
+    "CRM"
   ],
   "key_products": [
     "Oracle Database",
     "Oracle Cloud Infrastructure",
-    "Oracle E-Business Suite",
-    "Oracle Fusion Middleware",
-    "Oracle Autonomous Database"
+    "Oracle ERP Cloud",
+    "Oracle Autonomous Database",
+    "Oracle Fusion Cloud"
   ],
-  "extracted_at": "2026-06-10 18:26:11",
+  "extracted_at": "2026-06-11 18:41:40",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/List_of_acquisitions_by_Oracle",
-      "query": "Oracle Corporation suppliers manufacturers",
-      "snippet": "List of acquisitions by Oracle This is a listing of Oracle Corporation 's corporate acquisitions, including acquisitions of both companies and individ"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.oracle.com/corporate/suppliers/",
-      "query": "Oracle Corporation suppliers manufacturers",
-      "snippet": "Doing Business with Oracle Oracle iSupplier Portal (iSP) is a secured self-service tool, which provides Oracle's suppliers with the ability to use a s"
-    },
-    {
-      "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Oracle_Corporation",
-      "query": "Oracle Corporation major customers clients",
-      "snippet": "Oracle Corporation is an American multinational technology company headquartered in Austin, Texas. Co-founded in 1977 in Santa Clara, California, by i"
+      "query": "Oracle Corporation suppliers manufacturers",
+      "snippet": "Oracle in the late 1980s began selling enterprise software running on the database, starting with financial software, then manufacturing ."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.oracle.com/corporate/",
+      "url": "https://csimarket.com/stocks/ORCL-Suppliers",
+      "query": "Oracle Corporation suppliers manufacturers",
+      "snippet": "Mar 12, 2026 · Oracle's Comment on Supply Chain To produce our hardware products, we rely on both our internal manufacturing operations as well as thi"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.thomsondata.com/customer-base/oracle.php",
       "query": "Oracle Corporation major customers clients",
-      "snippet": "Oracle is pleased to provide information about our company, customers , partners, events, communities, press, analysts, investors, and careers.The com"
+      "snippet": "Thomson Data makes it easy by offering an accurate and up-to-date list of companies that use Oracle. This list allows you to identify Oracle customers"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.oracle.com/customers/earnings/",
+      "query": "Oracle Corporation major customers clients",
+      "snippet": "Learn more about the Oracle customers that were highlighted in our latest quarterly earnings call."
     }
   ]
 }
