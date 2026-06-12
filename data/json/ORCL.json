@@ -7,14 +7,14 @@
     "INTC",
     "AMD",
     "NVDA",
-    "DELL",
-    "CSCO"
+    "CSCO",
+    "DELL"
   ],
   "downstream": [
-    "Walmart",
     "JPMorgan Chase",
-    "Bank of America",
+    "Walmart",
     "AT&T",
+    "Bank of America",
     "Verizon"
   ],
   "competitors": [
@@ -29,9 +29,9 @@
     "Oracle Cloud Infrastructure",
     "Oracle ERP Cloud",
     "Oracle Autonomous Database",
-    "Oracle Fusion Cloud"
+    "Oracle Analytics Cloud"
   ],
-  "extracted_at": "2026-06-11 18:41:40",
+  "extracted_at": "2026-06-12 18:01:47",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,25 +43,25 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Oracle_Corporation",
       "query": "Oracle Corporation suppliers manufacturers",
-      "snippet": "Oracle in the late 1980s began selling enterprise software running on the database, starting with financial software, then manufacturing ."
+      "snippet": "Oracle Corporation is an American multinational technology company headquartered in Austin, Texas. Co-founded in 1977 in Santa Clara, California, by i"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/ORCL-Suppliers",
+      "url": "https://www.oracle.com/",
       "query": "Oracle Corporation suppliers manufacturers",
-      "snippet": "Mar 12, 2026 · Oracle's Comment on Supply Chain To produce our hardware products, we rely on both our internal manufacturing operations as well as thi"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.thomsondata.com/customer-base/oracle.php",
-      "query": "Oracle Corporation major customers clients",
-      "snippet": "Thomson Data makes it easy by offering an accurate and up-to-date list of companies that use Oracle. This list allows you to identify Oracle customers"
+      "snippet": "Oracle offers a comprehensive and fully integrated stack of cloud applications and cloud platform services.."
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.oracle.com/customers/earnings/",
       "query": "Oracle Corporation major customers clients",
       "snippet": "Learn more about the Oracle customers that were highlighted in our latest quarterly earnings call."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.thomsondata.com/customer-base/oracle.php",
+      "query": "Oracle Corporation major customers clients",
+      "snippet": "Thomson Data makes it easy by offering an accurate and up-to-date list of companies that use Oracle. This list allows you to identify Oracle customers"
     }
   ]
 }

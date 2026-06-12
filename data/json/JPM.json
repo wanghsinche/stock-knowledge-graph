@@ -4,40 +4,40 @@
   "sector": "Financial Services",
   "industry": "Banks - Diversified",
   "upstream": [
-    "MSFT",
+    "ORCL",
     "Payment processors (e.g., Visa, Mastercard)",
-    "Data analytics providers (e.g., SAS, Palantir)",
-    "Consulting firms (e.g., Accenture, Deloitte)",
+    "Data providers (e.g., Bloomberg, Thomson Reuters)",
+    "MSFT",
     "Cybersecurity vendors (e.g., Palo Alto Networks)"
   ],
   "downstream": [
     "Retail banking customers",
-    "Corporate and institutional clients",
-    "Small and medium‑enterprise customers",
+    "Corporate clients",
+    "Institutional investors",
     "Wealth management clients",
-    "Mortgage and credit card holders"
+    "Small business customers"
   ],
   "competitors": [
-    "Bank of America",
-    "Citigroup",
-    "Wells Fargo",
-    "Goldman Sachs",
-    "Morgan Stanley"
+    "Bank of America (BAC)",
+    "Citigroup (C)",
+    "Wells Fargo (WFC)",
+    "Goldman Sachs (GS)",
+    "Morgan Stanley (MS)"
   ],
   "key_products": [
-    "Consumer banking services",
-    "Corporate and investment banking",
-    "Asset and wealth management",
-    "Credit cards and consumer loans",
+    "Investment banking services",
+    "Retail banking and credit cards",
+    "Wealth management and private banking",
+    "Mortgage and consumer lending",
     "Treasury and securities services"
   ],
-  "extracted_at": "2026-06-04 18:18:07",
+  "extracted_at": "2026-06-12 18:07:04",
   "sources": [
     {
       "source": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/JPMorgan_Chase_&_Co.",
-      "title": "JPMorgan Chase",
-      "snippet": "JPMorgan Chase & Co. is an American multinational banking institution headquartered in New York City and incorporated in Delaware. It is the largest bank in the United States, and the world's largest "
+      "url": "",
+      "title": "",
+      "snippet": ""
     },
     {
       "source": "DuckDuckGo",
@@ -55,13 +55,13 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/JPMorgan_Chase",
       "query": "JPMorgan Chase & Co. major customers clients",
-      "snippet": "JPMorgan Chase & Co . (stylized as JPMorganChase ) is an American multinational banking institution headquartered in New York City and incorporated in"
+      "snippet": "Today, the firm is a major provider of investment banking services, through corporate advisory, mergers and acquisitions, sales and trading, and publi"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.jpmorganchase.com/",
+      "url": "https://csimarket.com/stocks/JPM-Customers",
       "query": "JPMorgan Chase & Co. major customers clients",
-      "snippet": "JPMorganChase serves millions of customers , clients and communities in over 100 global markets.We are united by a purpose that weaves together what w"
+      "snippet": "For your research, we’ve provided 9 tables on Jpmorgan Chase and Co corporate clients . You can find them in the navigation menu under Customers & Mar"
     }
   ]
 }

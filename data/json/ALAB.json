@@ -2,34 +2,36 @@
   "ticker": "ALAB",
   "company_name": "Astera Labs, Inc.",
   "sector": "Technology / Semiconductors",
-  "industry": "Semiconductor Equipment & Materials",
+  "industry": "Semiconductor IP / Interconnect Solutions",
   "upstream": [
     "TSM",
     "005930.KS",
     "GlobalFoundries",
-    "INTC",
-    "MU"
+    "UMC",
+    "Tower Semiconductor"
   ],
   "downstream": [
-    "CSCO",
-    "DELL",
-    "HPQ",
-    "IBM",
-    "NVDA"
+    "AMD",
+    "INTC",
+    "NVDA",
+    "AVGO",
+    "QCOM"
   ],
   "competitors": [
-    "AVGO",
-    "MRVL",
-    "INTC",
-    "Cavium",
-    "Xilinx"
+    "Cadence Design Systems",
+    "Synopsys",
+    "Mentor Graphics",
+    "AMD",
+    "AVGO"
   ],
   "key_products": [
-    "Asteria 2",
-    "Asteria 3",
-    "Asteria 4"
+    "Aster 2.0 PCIe IP",
+    "Aster 2.0 CXL IP",
+    "Aster 2.0 NVMe IP",
+    "Aster 2.0 Ethernet IP",
+    "Aster 2.0 Interconnect IP"
   ],
-  "extracted_at": "2026-06-10 18:31:11",
+  "extracted_at": "2026-06-12 18:06:25",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,19 +49,19 @@
       "source": "DuckDuckGo",
       "url": "https://www.asteralabs.com/faqs/who-are-astera-labs-primary-design-manufacturing-partners/",
       "query": "Astera Labs, Inc. suppliers manufacturers",
-      "snippet": "Who are Astera Labs ’ primary design & manufacturing partners? We leverage industry leading partners in both our design and manufacturing process such"
+      "snippet": "Who are Astera Labs’ primary design & manufacturing partners? We leverage industry leading partners in both our design and manufacturing process such "
     },
     {
       "source": "DuckDuckGo",
       "url": "https://csimarket.com/stocks/ALAB-Customers",
       "query": "Astera Labs, Inc. major customers clients",
-      "snippet": "1 day ago · Astera Labs Inc customers and markets, results by customer and performance relative to ALAB, by company and industry - CSIMarket"
+      "snippet": "3 days ago · For your research, we’ve provided 9 tables on Astera Labs Inc corporate clients . You can find them in the navigation menu under Customer"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.asteralabs.com/",
+      "url": "https://www.featuredcustomers.com/vendor/astera-labs",
       "query": "Astera Labs, Inc. major customers clients",
-      "snippet": "Plug-and-play interoperability is critical for deploying rack-scale AI. Astera Labs rigorously tests its products with all major hosts, endpoints, and"
+      "snippet": "Learn more about Astera Labs - use cases, approaches, & end results from real customers ; read customer reviews including 12 testimonials, videos, and"
     }
   ]
 }

@@ -4,11 +4,11 @@
   "sector": "Technology",
   "industry": "Computer Hardware",
   "upstream": [
-    "005930.KS",
     "MU",
-    "SK Hynix",
-    "Toshiba",
-    "INTC"
+    "005930.KS",
+    "SK Hynix (NAND flash memory)",
+    "TDK Corporation (magnetic heads & materials)",
+    "TXN"
   ],
   "downstream": [
     "DELL",
@@ -19,19 +19,19 @@
   ],
   "competitors": [
     "WDC",
-    "Toshiba",
+    "Toshiba Corporation",
     "005930.KS",
-    "MU",
-    "SK Hynix"
+    "INTC",
+    "MU"
   ],
   "key_products": [
-    "Hard Disk Drives (HDDs)",
+    "Enterprise Hard Disk Drives (HDDs)",
+    "Desktop and Portable HDDs",
     "Solid State Drives (SSDs)",
-    "Enterprise Storage Solutions",
-    "Data Storage Solutions",
-    "Cloud Storage Solutions"
+    "Data Center Storage Arrays",
+    "Cloud Storage Solutions & Management Software"
   ],
-  "extracted_at": "2026-06-10 18:29:41",
+  "extracted_at": "2026-06-12 18:03:10",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,25 +43,25 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Seagate_Technology",
       "query": "Seagate Technology Holdings plc suppliers manufacturers",
-      "snippet": "Seagate Technology ... Seagate Technology Holdings plc is an American data storage company. It was incorporated in 1978 as Shugart Technology and comm"
+      "snippet": "In 1989, Seagate acquired Control Data Corporation 's Imprimis division, the makers of CDC's HDD products. Seagate acquired Conner Peripherals in 1996"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/STX-Suppliers",
+      "url": "https://investors.seagate.com/overview/default.aspx",
       "query": "Seagate Technology Holdings plc suppliers manufacturers",
-      "snippet": "Apr 30, 2026 · Sources: Seagate Technology Holdings Plc 's official press releases and regulatory filings; CSIMarket.com's supply -chain research; and"
+      "snippet": "18 hours ago · Register, access, and manage Lyve Mobile services, subscriptions and projects. Provides Suppliers with self-service tools targeted to t"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/STX-Return-on-Assets-ROA.html",
+      "url": "https://en.wikipedia.org/wiki/Seagate_Technology",
       "query": "Seagate Technology Holdings plc major customers clients",
-      "snippet": "Seagate Technology Holdings Plc Customers Demand. STX Customers Expenditure Growth Rates. STX Customers Performance."
+      "snippet": "Seagate Technology Holdings plc is an American data storage company. It was incorporated in 1978 as Shugart Technology and commenced business in 1979."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.tikr.com/blog/seagate-technology-surged-400-last-year-analysts-see-150-more-upside-ahead",
+      "url": "https://www.tenzingmemo.com/companies/stx_seagate-technology-holdings-plc",
       "query": "Seagate Technology Holdings plc major customers clients",
-      "snippet": "Should You Invest in Seagate Technology Holdings plc ? The only way to really know is to look at the numbers yourself.You can build a free watchlist t"
+      "snippet": "Get AI-powered stock analysis and technical insights for Seagate Technology Holdings plc (STX) with Tenzing MEMO. Real-time indicators, sentiment tren"
     }
   ]
 }

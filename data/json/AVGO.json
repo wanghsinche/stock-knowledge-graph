@@ -1,19 +1,19 @@
 {
   "ticker": "AVGO",
   "company_name": "Broadcom Inc.",
-  "sector": "Technology",
+  "sector": "Technology / Semiconductors",
   "industry": "Semiconductors",
   "upstream": [
     "TSM",
     "005930.KS",
     "GlobalFoundries",
     "UMC",
-    "ASE Group"
+    "ASML"
   ],
   "downstream": [
     "CSCO",
     "DELL",
-    "IBM",
+    "HPQ",
     "AMZN",
     "MSFT"
   ],
@@ -21,18 +21,17 @@
     "QCOM",
     "INTC",
     "NVDA",
-    "TXN",
-    "MediaTek"
+    "MRVL",
+    "TXN"
   ],
   "key_products": [
-    "Wi‑Fi and Bluetooth chips",
-    "Ethernet and networking ASICs",
-    "5G and LTE modems",
-    "Broadband and cable modems",
-    "Enterprise storage controllers",
-    "Infrastructure software solutions"
+    "Ethernet controllers",
+    "Wi‑Fi chips",
+    "Broadband modems",
+    "Storage controllers",
+    "Data center processors"
   ],
-  "extracted_at": "2026-06-11 18:42:42",
+  "extracted_at": "2026-06-12 18:00:45",
   "sources": [
     {
       "source": "Wikipedia",
@@ -42,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Broadcom",
+      "url": "https://en.wikipedia.org/wiki/BCM",
       "query": "Broadcom Inc. suppliers manufacturers",
-      "snippet": "Broadcom Inc. is an American multinational designer, developer, manufacturer, and global supplier of a wide range of semiconductor and infrastructure "
+      "snippet": "Broadcom Inc ., designer, developer and global supplier of semiconductor products. Broadcom Corporation, subsidiary of Broadcom Inc ."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/AVGO-Suppliers",
+      "query": "Broadcom Inc. suppliers manufacturers",
+      "snippet": "Broadcom Inc supply chain, list and performance of Broadcom Incs ' suppliers - CSIMarket."
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.broadcom.com/",
-      "query": "Broadcom Inc. suppliers manufacturers",
-      "snippet": "Broadcom delivers semiconductors and infrastructure software for global enterprises' most complex, mission-critical needs. Supplier Responsibility Fin"
+      "query": "Broadcom Inc. major customers clients",
+      "snippet": "Broadcom delivers semiconductors and infrastructure software for global enterprises’ most complex, mission-critical needs."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.appsruntheworld.com/customers-database/vendors/view/broadcom",
+      "url": "https://www.linkedin.com/news/story/broadcom-outlook-fails-to-impress-bullish-investors-6826612/",
       "query": "Broadcom Inc. major customers clients",
-      "snippet": "List of companies using or evaluating Broadcom applications, with details on their revenues, employees, industries, and locations."
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://news.broadcom.com/category/customers",
-      "query": "Broadcom Inc. major customers clients",
-      "snippet": "May 19, 2026 · This year, Broadcom has recognized the United States Senate Federal Credit Union (USSFCU) with the Innovator award. Innovators are visi"
+      "snippet": "Broadcom Shares Slip as AI Outlook Falls Short of Lofty Expectations Broadcom Inc . saw its stock drop more than 5% in after-hours trading, reversing "
     }
   ]
 }

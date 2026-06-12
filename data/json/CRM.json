@@ -4,23 +4,23 @@
   "sector": "Technology",
   "industry": "Software - Application",
   "upstream": [
-    "AMZN",
+    "ExactTarget Inc.",
+    "DELL",
+    "HPQ",
     "MSFT",
-    "GOOGL",
-    "ORCL",
-    "IBM"
+    "AMZN"
   ],
   "downstream": [
+    "AMZN",
     "Coca‑Cola",
     "Toyota",
-    "005930.KS",
-    "American Express",
-    "General Electric"
+    "General Electric",
+    "Walmart"
   ],
   "competitors": [
     "MSFT",
     "ORCL",
-    "SAP Customer Experience",
+    "SAP Sales Cloud",
     "HubSpot",
     "Zoho CRM"
   ],
@@ -31,7 +31,7 @@
     "Commerce Cloud",
     "Einstein AI"
   ],
-  "extracted_at": "2026-06-11 18:48:33",
+  "extracted_at": "2026-06-12 18:06:54",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Salesforce",
-      "query": "Salesforce, Inc. suppliers manufacturers",
-      "snippet": "Salesforce was founded on March 8, 1999, by former Oracle executive Marc Benioff, together with Parker Harris, Dave Moellenhoff, and Frank Dominguez a"
-    },
-    {
-      "source": "DuckDuckGo",
       "url": "https://csimarket.com/stocks/CRM-Suppliers",
       "query": "Salesforce, Inc. suppliers manufacturers",
-      "snippet": "May 29, 2026 · For your research, we’ve provided nine additional tables on Salesforce Inc ’s suppliers . You can find them in the navigation menu unde"
+      "snippet": "Salesforce Inc supply chain, list and performance of Salesforce Incs ' suppliers - CSIMarket."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.appsruntheworld.com/customers-database/vendors/view/salesforce",
-      "query": "Salesforce, Inc. major customers clients",
-      "snippet": "List of companies using or evaluating Salesforce applications, with details on their revenues, employees, industries, and locations."
+      "url": "https://www.salesforce.com/",
+      "query": "Salesforce, Inc. suppliers manufacturers",
+      "snippet": "ExactTarget Inc ."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.salesforce.com/customer-stories/",
+      "url": "https://www.salesforce.com/",
       "query": "Salesforce, Inc. major customers clients",
-      "snippet": "Discover how Salesforce helps 150,000+ companies increase productivity, customer loyalty, and sales revenue — every day."
+      "snippet": "Salesforce Enterprise-grade CRM with deep reporting, sales operations, and..."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.heise.de/en/news/Salesforce-200-major-customers-join-Agentforce-10189412.html",
+      "query": "Salesforce, Inc. major customers clients",
+      "snippet": "More than 200 major customers have already signed contracts with Salesforce to gain access to the new AI platform Agentforce. This was reported by Sal"
     }
   ]
 }

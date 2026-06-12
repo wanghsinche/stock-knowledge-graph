@@ -4,34 +4,34 @@
   "sector": "Technology",
   "industry": "Computer Hardware",
   "upstream": [
+    "Semiconductor component suppliers",
     "Silicon wafer manufacturers",
-    "Memory chip suppliers",
-    "Electronic component suppliers",
-    "Manufacturing equipment suppliers",
-    "Packaging and assembly suppliers"
+    "Electronics manufacturing services (EMS) providers",
+    "Hard drive assembly suppliers",
+    "Storage controller chip manufacturers"
   ],
   "downstream": [
     "DELL",
     "HPQ",
-    "Lenovo Group",
     "AAPL",
-    "AMZN"
+    "MSFT",
+    "Data center operators"
   ],
   "competitors": [
     "STX",
     "Toshiba Corporation",
     "005930.KS",
-    "SK Hynix",
-    "MU"
+    "MU",
+    "SK Hynix"
   ],
   "key_products": [
-    "Hard Disk Drives (HDDs)",
-    "Solid State Drives (SSDs)",
+    "Internal HDDs",
+    "External HDDs",
+    "SSD drives",
     "Enterprise storage solutions",
-    "Network Attached Storage (NAS)",
-    "External storage devices"
+    "NAS devices"
   ],
-  "extracted_at": "2026-06-11 18:48:02",
+  "extracted_at": "2026-06-12 18:02:52",
   "sources": [
     {
       "source": "Wikipedia",
@@ -53,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.ibisworld.com/united-states/company/western-digital-corporation/10437/",
+      "url": "https://csimarket.com/stocks/WDC-Customers",
       "query": "Western Digital Corporation major customers clients",
-      "snippet": "Access a detailed company profile for Western Digital Corporation. Includes financial data, executive team, industry roles, and service providers."
+      "snippet": "2 days ago · For your research, we’ve provided 9 tables on Western Digital Corporation corporate clients . You can find them in the navigation menu un"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://investor.wdc.com/news-releases/news-release-details/western-digital-unveiled-go-forward-strategy-investor-day-2025",
+      "url": "https://data.landbase.com/technology/western-digital/",
       "query": "Western Digital Corporation major customers clients",
-      "snippet": "Feb 12, 2025 · Western Digital remains steadfast in addressing the ever-growing data demands of the cloud and enterprise markets, delivering the scala"
+      "snippet": "Aug 17, 2025 · Our Western Digital customers list is available for download and comes enriched with vital company specifics, including industry classi"
     }
   ]
 }

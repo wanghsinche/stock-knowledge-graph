@@ -7,31 +7,31 @@
     "INTC",
     "AMD",
     "NVDA",
-    "TSM",
-    "QCOM"
+    "QCOM",
+    "TSM"
   ],
   "downstream": [
-    "Enterprise customers (e.g., banks, governments)",
+    "Enterprise customers (e.g., banks, government agencies)",
     "DELL",
-    "Individual consumers (retail)",
-    "SONY",
-    "Cloud service users"
+    "Consumer users of Windows and Office",
+    "Gaming studios using Xbox Live",
+    "Cloud service clients using Azure"
   ],
   "competitors": [
     "AAPL",
     "GOOGL",
     "AMZN",
     "ORCL",
-    "IBM"
+    "CRM"
   ],
   "key_products": [
     "Windows operating system",
     "Microsoft Office suite",
     "Azure cloud platform",
-    "Surface devices",
+    "Microsoft Teams",
     "Xbox gaming console"
   ],
-  "extracted_at": "2026-06-11 18:41:18",
+  "extracted_at": "2026-06-12 17:59:48",
   "sources": [
     {
       "source": "Wikipedia",
@@ -53,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/MSFT-Customers",
+      "url": "https://en.wikipedia.org/wiki/Microsoft",
       "query": "Microsoft Corporation major customers clients",
-      "snippet": "3 days ago · Individual consumers obtain these products primarily through retail outlets, such as Wal-Mart, Dixons, and Microsoft retail stores. We di"
+      "snippet": "Microsoft Corporation is an American multinational technology company headquartered in Redmond, Washington."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.appsruntheworld.com/customers-database/vendors/view/microsoft",
+      "url": "https://copilot.microsoft.com/",
       "query": "Microsoft Corporation major customers clients",
-      "snippet": "Which Microsoft products have the most recorded customers ? The most widely adopted products are Microsoft 365, Microsoft Azure Cloud Services, Micros"
+      "snippet": "Microsoft Copilot — ваш компаньон для информирования, развлечения и вдохновения. Получайте советы, отзывы и прямые ответы."
     }
   ]
 }

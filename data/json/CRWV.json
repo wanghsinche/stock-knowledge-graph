@@ -2,42 +2,42 @@
   "ticker": "CRWV",
   "company_name": "CoreWeave, Inc.",
   "sector": "Technology / Software - Infrastructure",
-  "industry": "AI Cloud Computing",
+  "industry": "Cloud Computing / AI Infrastructure",
   "upstream": [
     "NVDA",
     "AMD",
     "INTC",
-    "QCOM",
-    "005930.KS"
+    "Xilinx",
+    "QCOM"
   ],
   "downstream": [
     "OpenAI",
     "Mistral AI",
     "GOOGL",
-    "AMZN",
-    "MSFT"
+    "MSFT",
+    "AMZN"
   ],
   "competitors": [
-    "AMZN",
-    "MSFT",
+    "NVDA",
     "GOOGL",
-    "IBM",
-    "ORCL"
+    "AWS Inferentia",
+    "MSFT",
+    "IBM"
   ],
   "key_products": [
-    "GPU-accelerated AI compute instances",
-    "High-performance computing clusters",
-    "AI training and inference services",
-    "Custom AI infrastructure solutions",
-    "GPU virtualization"
+    "GPU Cloud Infrastructure",
+    "Chip Management Software",
+    "AI Compute Services",
+    "GPU-as-a-Service",
+    "AI Training Infrastructure"
   ],
-  "extracted_at": "2026-06-11 18:47:53",
+  "extracted_at": "2026-06-12 18:02:12",
   "sources": [
     {
       "source": "Wikipedia",
-      "url": "",
-      "title": "",
-      "snippet": ""
+      "url": "https://en.wikipedia.org/wiki/CoreWeave,_Inc.",
+      "title": "CoreWeave",
+      "snippet": "CoreWeave, Inc. is an American artificial intelligence (AI) cloud-computing company based in Livingston, New Jersey. It specializes in providing cloud-based graphics processing unit (GPU) infrastructu"
     },
     {
       "source": "DuckDuckGo",
@@ -59,9 +59,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.appsruntheworld.com/customers-database/products/view/coreweave-compute-services",
+      "url": "https://www.coreweave.com/case-studies",
       "query": "CoreWeave, Inc. major customers clients",
-      "snippet": "Who uses CoreWeave Compute Services for AI infrastructure? Companies worldwide use CoreWeave Compute Services, from small firms to large enterprises a"
+      "snippet": "Discover how CoreWeave customers transform ambition into achievement. These pioneers are shaping the future of AI, VFX, and compute with speed, scale,"
     }
   ]
 }

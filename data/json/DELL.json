@@ -4,64 +4,64 @@
   "sector": "Technology",
   "industry": "Computer Hardware",
   "upstream": [
-    "Foxconn",
-    "Pegatron",
-    "Wistron",
-    "Flex",
-    "Jabil"
+    "INTC",
+    "AMD",
+    "NVDA",
+    "005930.KS",
+    "MU"
   ],
   "downstream": [
-    "Enterprise IT customers",
-    "Government agencies",
-    "CAT",
-    "Healthcare providers",
-    "Retail consumers"
+    "AMZN",
+    "MSFT",
+    "GOOGL",
+    "U.S. Department of Defense",
+    "Best Buy"
   ],
   "competitors": [
     "HPQ",
-    "Lenovo Group",
-    "Acer Inc.",
-    "ASUS",
-    "AAPL"
+    "Lenovo",
+    "AAPL",
+    "IBM",
+    "CSCO"
   ],
   "key_products": [
-    "Desktops",
-    "Laptops",
+    "Personal computers",
     "Servers",
-    "Storage solutions",
-    "Networking equipment"
+    "Monitors",
+    "Computer software",
+    "Computer security"
   ],
-  "extracted_at": "2026-06-11 18:44:47",
+  "extracted_at": "2026-06-12 18:04:30",
   "sources": [
     {
       "source": "Wikipedia",
-      "url": "",
-      "title": "",
-      "snippet": ""
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.delltechnologies.com/asset/pl-pl/solutions/business-solutions/briefs-summaries/dell-public-supplier-list.pdf",
-      "query": "Dell Technologies Inc. suppliers manufacturers",
-      "snippet": "The list of supplier facilities includes original design manufacturers (ODMs), final assembly and material suppliers that Dell buys from directly and/"
+      "url": "https://en.wikipedia.org/wiki/Dell_Technologies_Inc.",
+      "title": "Dell Technologies",
+      "snippet": "Dell Technologies Inc. is an American multinational technology company that has been headquartered in Round Rock, Texas, since 1994. It was formed as a result of the September 2016 merger of Dell and "
     },
     {
       "source": "DuckDuckGo",
       "url": "https://csimarket.com/stocks/DELL-Suppliers",
       "query": "Dell Technologies Inc. suppliers manufacturers",
-      "snippet": "1 day ago · Dell Technologies Inc supply chain, list and performance of Dell Technologies Incs ' suppliers - CSIMarket"
+      "snippet": "2 days ago · Dell Technologies Inc's Sup pliers recorded an increase in sales by 29.73 % year on year in Q1 2026, sequentially sales grew by 8.17 %, D"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Dell_Technologies",
-      "query": "Dell Technologies Inc. major customers clients",
-      "snippet": "Client Solutions Group (55.3% of fiscal 2024 revenues) – produces desktop PCs, notebooks, tablets, and peripherals, such as monitors, printers, and pr"
+      "url": "https://www.delltechnologies.com/asset/pl-pl/solutions/business-solutions/briefs-summaries/dell-public-supplier-list.pdf",
+      "query": "Dell Technologies Inc. suppliers manufacturers",
+      "snippet": "Public Supplier List The list of supplier facilities includes original design manufacturers (ODMs), final assembly and material suppliers that Dell bu"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.dell.com/en-us/lp/dt/customer-stories",
+      "url": "https://csimarket.com/stocks/DELL-Customers",
       "query": "Dell Technologies Inc. major customers clients",
-      "snippet": "Miami Dolphins partner with Dell Technologies to optimize IT at Hard Rock Stadium, supporting NFL, soccer, motorsport, tennis, and fan experience."
+      "snippet": "4 days ago · For your research, we’ve provided 9 tables on Dell Technologies Inc corporate clients . You can find them in the navigation menu under Cu"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.dell.com/en-us/dt/case-studies-customer-stories/index.htm",
+      "query": "Dell Technologies Inc. major customers clients",
+      "snippet": "The Dell Technologies digital transformation library showcases how some of the largest brands bring their ideas to life, and their products to market."
     }
   ]
 }

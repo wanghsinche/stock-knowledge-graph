@@ -4,34 +4,34 @@
   "sector": "Healthcare",
   "industry": "Healthcare Plans",
   "upstream": [
-    "Pharmaceutical manufacturers",
     "Medical device manufacturers",
-    "Hospital networks",
-    "Pharmacy benefit managers",
-    "Health technology vendors"
+    "Pharmaceutical companies",
+    "Health technology vendors",
+    "Laboratory services providers",
+    "Data analytics firms"
   ],
   "downstream": [
-    "Individual consumers",
-    "Employers",
-    "Government agencies (Medicare, Medicaid)",
-    "Health care providers",
-    "Corporate clients"
+    "Medicare beneficiaries",
+    "Medicaid beneficiaries",
+    "Commercial health plan members",
+    "Employer-sponsored health plans",
+    "Individual health insurance customers"
   ],
   "competitors": [
-    "Anthem, Inc.",
-    "Aetna Inc.",
-    "Cigna Corp.",
-    "Humana Inc.",
-    "Kaiser Permanente"
+    "Anthem",
+    "Cigna",
+    "Aetna",
+    "Humana",
+    "CVS Health (Aetna)"
   ],
   "key_products": [
     "Health insurance plans",
     "Medicare Advantage plans",
     "Medicaid plans",
-    "OptumRx pharmacy benefit management",
-    "Optum health services"
+    "Commercial health plans",
+    "Pharmacy benefit management (OptumRx)"
   ],
-  "extracted_at": "2026-06-10 18:29:52",
+  "extracted_at": "2026-06-12 18:05:10",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/unitedhealth-group-incorporated-unh-good-201437713.html",
+      "url": "https://en.wikipedia.org/wiki/UnitedHealth_Group",
       "query": "UnitedHealth Group Incorporated suppliers manufacturers",
-      "snippet": "UnitedHealth Group Incorporated operates as a health care company in the United States and internationally. UNH reported its Q1 2026 results, marking "
+      "snippet": "The Sunlight Report on UnitedHealth Group is a first-of-its-kind look at the nearly 2,700 acquisitions and internally created subsidiaries that make u"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.unitedhealthgroup.com/suppliers/information.html",
+      "query": "UnitedHealth Group Incorporated suppliers manufacturers",
+      "snippet": "Information for UnitedHealth Group suppliers , including access to our vendor portal"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.uhc.com/",
+      "query": "UnitedHealth Group Incorporated major customers clients",
+      "snippet": "Explore health insurance options including Medicare, Medicaid, individual and family, short term and dental, as well as employer plans.Join our team: "
     },
     {
       "source": "DuckDuckGo",
       "url": "https://csimarket.com/stocks/UNH-technical-analysis",
-      "query": "UnitedHealth Group Incorporated suppliers manufacturers",
+      "query": "UnitedHealth Group Incorporated major customers clients",
       "snippet": "Analyse Unitedhealth Group Incorporated 's stock charts with over 30 different indicators - CSIMarket."
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/UNH-Customers",
-      "query": "UnitedHealth Group Incorporated major customers clients",
-      "snippet": "Unitedhealth Group Incorporated 's Comment on Sales, Marketing and Customers . UnitedHealthcare International participates in international markets th"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://disfold.com/company/unitedhealth-group-incorporated/",
-      "query": "UnitedHealth Group Incorporated major customers clients",
-      "snippet": "UnitedHealth Group Incorporated operates as a diversified health care company in the United States. It operates through four segments: UnitedHealthcar"
     }
   ]
 }

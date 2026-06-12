@@ -4,34 +4,34 @@
   "sector": "Communication Services",
   "industry": "Advertising Agencies",
   "upstream": [
-    "AMZN",
     "GOOGL",
+    "Data and analytics vendors (e.g., Nielsen, comScore)",
+    "Ad tech infrastructure providers (e.g., The Trade Desk, MediaMath)",
     "AAPL",
-    "GOOGL",
-    "Data analytics providers (e.g., Adjust, Appsflyer)"
+    "Third‑party SDK and API providers"
   ],
   "downstream": [
-    "Mobile game developers",
-    "App publishers",
-    "Social media platforms",
-    "E‑commerce app developers",
-    "Streaming app providers"
+    "Mobile game developers and publishers",
+    "App developers across entertainment, productivity, and lifestyle",
+    "E‑commerce and retail app operators",
+    "Social media and messaging app creators",
+    "CAT"
   ],
   "competitors": [
     "Unity Ads",
+    "GOOGL",
+    "Facebook Audience Network",
     "Vungle",
-    "IronSource",
-    "AdColony",
     "Chartboost"
   ],
   "key_products": [
-    "AppLovin MAX (mobile ad network)",
-    "AppLovin SDK (in‑app advertising)",
-    "AppLovin Marketing Solutions",
-    "AppLovin Discovery (app recommendation engine)",
-    "AppLovin Analytics & Attribution tools"
+    "AppLovin Mobile Advertising Platform",
+    "MAX (Mobile Ad Exchange)",
+    "AppLovin SDK for in‑app advertising",
+    "LTV (Lifetime Value) Optimization tools",
+    "AppLovin Analytics & Attribution services"
   ],
-  "extracted_at": "2026-06-11 18:45:52",
+  "extracted_at": "2026-06-12 18:06:07",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/AppLovin",
+      "url": "https://www.applovin.com/",
       "query": "AppLovin Corporation suppliers manufacturers",
-      "snippet": "On April 15, 2021, AppLovin became a public company, trading on the Nasdaq under the ticker APP; it began trading at US$70 per share, with a total val"
+      "snippet": "AppLovin enables businesses to advertise profitably with marketing technologies that attract customers, increase revenue, and track ad performance."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/APP-Suppliers",
+      "url": "https://finance.yahoo.com/quote/APP/",
       "query": "AppLovin Corporation suppliers manufacturers",
-      "snippet": "For your research, we’ve provided nine additional tables on Applovin Corporation ’ s suppliers . You can find them in the navigation menu under Suppli"
+      "snippet": "Find the latest AppLovin Corporation (APP) stock quote, history, news and other vital information to help you with your stock trading and investing."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/AppLovin",
+      "url": "https://www.applovin.com/",
       "query": "AppLovin Corporation major customers clients",
-      "snippet": "Before emerging from stealth mode, AppLovin acquired customers , including Opentable and Spotify. [9][10] The company was ranked #10 on the 2016 Deloi"
+      "snippet": "AppLovin enables businesses to advertise profitably with marketing technologies that attract customers , increase revenue, and track ad performance."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.appsruntheworld.com/customers-database/vendors/view/applovin",
+      "url": "https://finance.yahoo.com/quote/APP/",
       "query": "AppLovin Corporation major customers clients",
-      "snippet": "List of companies using or evaluating Applovin applications, with details on their revenues, employees, industries, and locations."
+      "snippet": "Find the latest AppLovin Corporation (APP) stock quote, history, news and other vital information to help you with your stock trading and investing."
     }
   ]
 }

@@ -4,16 +4,16 @@
   "sector": "Technology",
   "industry": "Semiconductors",
   "upstream": [
-    "ASML",
-    "AMAT",
-    "LRCX",
-    "Tokyo Electron",
-    "KLA"
+    "TSM",
+    "005930.KS",
+    "GlobalFoundries",
+    "ASE Group",
+    "MU"
   ],
   "downstream": [
     "DELL",
     "HPQ",
-    "Lenovo",
+    "Lenovo Group",
     "AAPL",
     "MSFT"
   ],
@@ -22,16 +22,16 @@
     "NVDA",
     "QCOM",
     "AVGO",
-    "TSM"
+    "005930.KS"
   ],
   "key_products": [
-    "Intel Core processors",
-    "Intel Xeon processors",
-    "Intel chipsets",
-    "Intel Optane memory",
-    "Intel AI accelerators"
+    "Intel Core CPUs",
+    "Intel Xeon CPUs",
+    "Intel Arc GPUs",
+    "Intel FPGAs",
+    "Intel AI chips"
   ],
-  "extracted_at": "2026-06-11 18:40:56",
+  "extracted_at": "2026-06-12 17:59:30",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,15 +47,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.accio.com/supplier/manufacturer-intel-corporation",
+      "url": "https://finance.yahoo.com/quote/INTC/",
       "query": "Intel Corporation suppliers manufacturers",
-      "snippet": "Jun 2, 2026 · Need Intel processors or components? Find verified manufacturers and suppliers worldwide. Click to discover top products and connect dir"
+      "snippet": "Find the latest Intel Corporation (INTC) stock quote, history, news and other vital information to help you with your stock trading and investing."
     },
     {
       "source": "DuckDuckGo",
       "url": "https://csimarket.com/stocks/INTC-Customers",
       "query": "Intel Corporation major customers clients",
-      "snippet": "1 day ago · For your research, we’ve provided 9 tables on Intel Corporation corporate clients . You can find them in the navigation menu under Custome"
+      "snippet": "2 days ago · For your research, we’ve provided 9 tables on Intel Corporation corporate clients . You can find them in the navigation menu under Custom"
     },
     {
       "source": "DuckDuckGo",

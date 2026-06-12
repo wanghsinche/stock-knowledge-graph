@@ -3,8 +3,8 @@ ticker: DELL
 company: Dell Technologies Inc.
 sector: Technology
 industry: Computer Hardware
-extracted_at: 2026-06-11 18:44:47
-last_updated: 2026-06-11
+extracted_at: 2026-06-12 18:04:30
+last_updated: 2026-06-12
 ---
 
 # DELL - Dell Technologies Inc.
@@ -12,46 +12,46 @@ last_updated: 2026-06-11
 ## 基本信息
 
 - **所属行业**: Technology / Computer Hardware
-- **提取时间**: 2026-06-11 18:44:47
+- **提取时间**: 2026-06-12 18:04:30
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Foxconn]]
-- [[Pegatron]]
-- [[Wistron]]
-- [[Flex]]
-- [[Jabil]]
+- [[INTC]]
+- [[AMD]]
+- [[NVDA]]
+- [[005930.KS]]
+- [[MU]]
 
 ### 下游客户
-- [[Enterprise IT customers]]
-- [[Government agencies]]
-- [[CAT]]
-- [[Healthcare providers]]
-- [[Retail consumers]]
+- [[AMZN]]
+- [[MSFT]]
+- [[GOOGL]]
+- [[U.S. Department of Defense]]
+- [[Best Buy]]
 
 ### 竞争对手
 - [[HPQ]]
-- [[Lenovo Group]]
-- [[Acer Inc.]]
-- [[ASUS]]
+- [[Lenovo]]
 - [[AAPL]]
+- [[IBM]]
+- [[CSCO]]
 
 ### 核心产品
-- [[Desktops]]
-- [[Laptops]]
+- [[Personal computers]]
 - [[Servers]]
-- [[Storage solutions]]
-- [[Networking equipment]]
+- [[Monitors]]
+- [[Computer software]]
+- [[Computer security]]
 
 ## 数据来源
 
-- 
-- [Dell Technologies Inc. suppliers manufacturers](https://www.delltechnologies.com/asset/pl-pl/solutions/business-solutions/briefs-summaries/dell-public-supplier-list.pdf)
+- [Dell Technologies](https://en.wikipedia.org/wiki/Dell_Technologies_Inc.)
 - [Dell Technologies Inc. suppliers manufacturers](https://csimarket.com/stocks/DELL-Suppliers)
-- [Dell Technologies Inc. major customers clients](https://en.wikipedia.org/wiki/Dell_Technologies)
-- [Dell Technologies Inc. major customers clients](https://www.dell.com/en-us/lp/dt/customer-stories)
+- [Dell Technologies Inc. suppliers manufacturers](https://www.delltechnologies.com/asset/pl-pl/solutions/business-solutions/briefs-summaries/dell-public-supplier-list.pdf)
+- [Dell Technologies Inc. major customers clients](https://csimarket.com/stocks/DELL-Customers)
+- [Dell Technologies Inc. major customers clients](https://www.dell.com/en-us/dt/case-studies-customer-stories/index.htm)
 
 ## 元数据
 
-- **更新日期**: 2026-06-11
+- **更新日期**: 2026-06-12

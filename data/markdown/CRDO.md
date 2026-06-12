@@ -3,8 +3,8 @@ ticker: CRDO
 company: Credo Technology Group Holding Ltd
 sector: Technology
 industry: Semiconductors
-extracted_at: 2026-06-11 18:44:03
-last_updated: 2026-06-11
+extracted_at: 2026-06-12 18:04:20
+last_updated: 2026-06-12
 ---
 
 # CRDO - Credo Technology Group Holding Ltd
@@ -12,23 +12,23 @@ last_updated: 2026-06-11
 ## 基本信息
 
 - **所属行业**: Technology / Semiconductors
-- **提取时间**: 2026-06-11 18:44:03
+- **提取时间**: 2026-06-12 18:04:20
 
 ## 产业链关系
 
 ### 上游供应商
-- [[INTC]]
-- [[AVGO]]
-- [[QCOM]]
-- [[NXP Semiconductors]]
-- [[MediaTek]]
+- [[Silicon wafer suppliers]]
+- [[Packaging and assembly providers]]
+- [[Test and measurement equipment manufacturers]]
+- [[Materials suppliers (copper, epoxy)]]
+- [[Design IP vendors]]
 
 ### 下游客户
-- [[AMZN]]
-- [[GOOGL]]
-- [[MSFT]]
-- [[Alibaba Cloud]]
-- [[Tencent Cloud]]
+- [[Telecom equipment manufacturers]]
+- [[Data center infrastructure vendors]]
+- [[AI accelerator manufacturers]]
+- [[Cloud service providers]]
+- [[Consumer electronics OEMs]]
 
 ### 竞争对手
 - [[AVGO]]
@@ -38,20 +38,20 @@ last_updated: 2026-06-11
 - [[MediaTek]]
 
 ### 核心产品
-- [[High-speed connectivity solutions]]
-- [[Energy-efficient transceivers]]
-- [[Network interface controllers]]
-- [[AI acceleration chips]]
-- [[Data center interconnect solutions]]
+- [[5G RF front‑end chips]]
+- [[Wi‑Fi 6/7 modules]]
+- [[Optical interconnect transceivers]]
+- [[High‑speed serial transceivers]]
+- [[Power management ICs]]
 
 ## 数据来源
 
 - 
 - [Credo Technology Group Holding Ltd suppliers manufacturers](https://credosemi.com/)
-- [Credo Technology Group Holding Ltd suppliers manufacturers](https://finance.yahoo.com/markets/stocks/articles/credo-technology-repositions-ai-infrastructure-070938226.html)
+- [Credo Technology Group Holding Ltd suppliers manufacturers](https://finance.yahoo.com/quote/CRDO/)
 - [Credo Technology Group Holding Ltd major customers clients](https://csimarket.com/stocks/CRDO-Customers)
-- [Credo Technology Group Holding Ltd major customers clients](https://xueqiu.com/7367587733/350203491)
+- [Credo Technology Group Holding Ltd major customers clients](https://investors.credosemi.com/overview/default.aspx)
 
 ## 元数据
 
-- **更新日期**: 2026-06-11
+- **更新日期**: 2026-06-12

@@ -2,56 +2,56 @@
 ticker: AAOI
 company: Applied Optoelectronics, Inc.
 sector: Technology / Communication Equipment
-industry: Optoelectronics / Optical Communications
-extracted_at: 2026-06-11 18:46:06
-last_updated: 2026-06-11
+industry: Optical Communications Equipment
+extracted_at: 2026-06-12 18:04:09
+last_updated: 2026-06-12
 ---
 
 # AAOI - Applied Optoelectronics, Inc.
 
 ## 基本信息
 
-- **所属行业**: Technology / Communication Equipment / Optoelectronics / Optical Communications
-- **提取时间**: 2026-06-11 18:46:06
+- **所属行业**: Technology / Communication Equipment / Optical Communications Equipment
+- **提取时间**: 2026-06-12 18:04:09
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Finisar]]
-- [[Ciena]]
-- [[Infinera]]
-- [[CSCO]]
-- [[JNPR]]
+- [[Semiconductor manufacturers (e.g., II‑VI, Lumentum)]]
+- [[Optical fiber manufacturers (e.g., Corning)]]
+- [[Laser diode suppliers]]
+- [[Photonic integrated circuit suppliers]]
+- [[Optical connector manufacturers]]
 
 ### 下游客户
 - [[Internet data center operators]]
 - [[CAT]]
-- [[CAT]]
-- [[Broadband service providers]]
-- [[Enterprise network operators]]
+- [[Telecom network operators]]
+- [[Fiber optic network providers]]
+- [[Enterprise network infrastructure providers]]
 
 ### 竞争对手
-- [[Finisar]]
-- [[Ciena]]
-- [[Infinera]]
-- [[CSCO]]
-- [[JNPR]]
+- [[Lumentum Holdings]]
+- [[II‑VI Incorporated]]
+- [[Finisar Corporation]]
+- [[Infinera Corporation]]
+- [[Ciena Corporation]]
 
 ### 核心产品
 - [[Optical transceivers]]
+- [[Fiber optic cables]]
+- [[Optical amplifiers]]
+- [[Photonic integrated circuits]]
 - [[Optical modules]]
-- [[Fiber optic components]]
-- [[Optical networking equipment]]
-- [[Wavelength division multiplexers]]
 
 ## 数据来源
 
 - 
-- [Applied Optoelectronics, Inc. suppliers manufacturers](https://csimarket.com/stocks/AAOI-Suppliers)
-- [Applied Optoelectronics, Inc. suppliers manufacturers](https://en.nbd.ltd/trader/info/35N100024485)
+- [Applied Optoelectronics, Inc. suppliers manufacturers](https://csimarket.com/stocks/competitionSEG2.php?code=AAOI)
+- [Applied Optoelectronics, Inc. suppliers manufacturers](https://danelfin.com/stocks/AAOI-applied-optoelectronics-vs-LITE-lumentum-compare)
 - [Applied Optoelectronics, Inc. major customers clients](https://csimarket.com/stocks/AAOI-Customers)
 - [Applied Optoelectronics, Inc. major customers clients](https://investors.ao-inc.com/)
 
 ## 元数据
 
-- **更新日期**: 2026-06-11
+- **更新日期**: 2026-06-12

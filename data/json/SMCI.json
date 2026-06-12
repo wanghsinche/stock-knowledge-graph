@@ -1,37 +1,37 @@
 {
   "ticker": "SMCI",
   "company_name": "Super Micro Computer, Inc.",
-  "sector": "Technology / Computer Hardware",
+  "sector": "Technology",
   "industry": "Computer Hardware",
   "upstream": [
     "INTC",
     "AMD",
-    "MU",
-    "005930.KS",
-    "AVGO"
+    "NVDA",
+    "AVGO",
+    "005930.KS"
   ],
   "downstream": [
     "AMZN",
-    "MSFT",
     "GOOGL",
-    "Alibaba Cloud",
-    "Tencent Cloud"
+    "MSFT",
+    "IBM",
+    "Facebook"
   ],
   "competitors": [
     "DELL",
     "HPQ",
     "Lenovo",
     "CSCO",
-    "Inspur"
+    "IBM"
   ],
   "key_products": [
     "High‑performance servers",
-    "Server chassis",
-    "Motherboards",
+    "High‑efficiency servers",
+    "Server management software",
     "Storage systems",
-    "Server management software"
+    "5G edge solutions"
   ],
-  "extracted_at": "2026-06-11 18:42:16",
+  "extracted_at": "2026-06-12 18:03:29",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,13 +43,13 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Supermicro",
       "query": "Super Micro Computer, Inc. suppliers manufacturers",
-      "snippet": "Super Micro Computer , Inc ., doing business as Supermicro, is an American information technology company based in San Jose, California."
+      "snippet": "Super Micro Computer , Inc ., doing business as Supermicro , is an American information technology company based in San Jose, California.American supp"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/SMCI-Suppliers",
+      "url": "https://www.supermicro.com/",
       "query": "Super Micro Computer, Inc. suppliers manufacturers",
-      "snippet": "May 12, 2026 · For your research, we’ve provided nine additional tables on Super Micro Computer Inc ’s suppliers . You can find them in the navigation"
+      "snippet": "Supermicro Super AI Station. Supermicro 5G Edge Solutions Empowering the Deskless Workforce with Taqtile and Intel. Supermicro TECHTalk: Harness the P"
     },
     {
       "source": "DuckDuckGo",
@@ -61,7 +61,7 @@
       "source": "DuckDuckGo",
       "url": "https://csimarket.com/stocks/SMCI-Customers",
       "query": "Super Micro Computer, Inc. major customers clients",
-      "snippet": "In recent weeks, Super Micro Computer Inc . (NASDAQ: SMCI), a key player in the technology sector, has entered the spotlight, not just for its innovat"
+      "snippet": "Super Micro Computer Inc 's Customers have recorded an increase in their cost of revenue by 11.95 % in the 1 quarter 2026 year on year, sequentially c"
     }
   ]
 }

@@ -1,37 +1,37 @@
 {
   "ticker": "NFLX",
   "company_name": "Netflix, Inc.",
-  "sector": "Communication Services / Entertainment",
+  "sector": "Communication Services",
   "industry": "Streaming Media",
   "upstream": [
-    "AMZN",
-    "GOOGL",
-    "MSFT",
-    "Roku",
-    "AAPL"
+    "Content production studios",
+    "Film and TV production companies",
+    "Cloud service providers",
+    "Technology hardware suppliers",
+    "Marketing and advertising agencies"
   ],
   "downstream": [
-    "US households",
-    "International households",
+    "Global subscribers",
     "Corporate clients (airlines, hotels)",
-    "AAPL",
-    "Cable providers (AT&T, Comcast)"
+    "Smart TV manufacturers",
+    "Mobile device users",
+    "Internet service providers"
   ],
   "competitors": [
     "Disney+",
     "AMZN",
+    "Hulu",
     "HBO Max",
-    "AAPL",
-    "Paramount+"
+    "AAPL"
   ],
   "key_products": [
-    "Streaming service",
-    "Original content",
-    "Licensed content",
-    "Mobile app",
-    "Smart TV app"
+    "Netflix streaming service",
+    "Original series and films",
+    "Licensed movies and TV shows",
+    "Mobile and web apps",
+    "Smart TV and console apps"
   ],
-  "extracted_at": "2026-06-11 18:47:02",
+  "extracted_at": "2026-06-12 18:04:49",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://netflixtechblog.com/complexity-in-the-digital-supply-chain-958384cbd70b",
+      "url": "https://csimarket.com/stocks/NFLX-Suppliers",
       "query": "Netflix, Inc. suppliers manufacturers",
-      "snippet": "Dec 17, 2012 · Netflix needs to innovate on the supply chain so that we can effectively increase licensing spending to create an outstanding member ex"
+      "snippet": "Netflix Inc supply chain, list and performance of Netflix Incs ' suppliers - CSIMarket."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.eximpedia.app/companies/netflix-inc/96917073",
+      "url": "https://www.stock-analysis-on.net/NASDAQ/Company/Netflix-Inc",
       "query": "Netflix, Inc. suppliers manufacturers",
-      "snippet": "View Netflix Inc import export trade data, including shipment records, HS codes, top buyers, suppliers, trade values, and global market insights."
+      "snippet": "Netflix financial ratios grouped by activity, liquidity, solvency, and profitability.Analysis of Solvency Ratios. Examines Netflix Inc . capital struc"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/NFLX-Customers",
+      "url": "https://ir.netflix.net/",
       "query": "Netflix, Inc. major customers clients",
-      "snippet": "May 18, 2026 · Focus of this report: Netflix Inc ’ s corporate clients . For your research, we’ve provided 9 tables on Netflix Inc corporate clients ."
+      "snippet": "Company Profile. Netflix is one of the world’s leading entertainment services offering TV series, films, games and live programming across a wide vari"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ir.netflix.net/ir-overview/profile/default.aspx",
+      "url": "https://www.netflix.com/gb/",
       "query": "Netflix, Inc. major customers clients",
-      "snippet": "Apr 16, 2026 · Netflix is one of the world’s leading entertainment services offering TV series, films, games and live programming across a wide variet"
+      "snippet": "Watch Netflix films & series online or stream straight to your smart TV, game console, PC, Mac, mobile, tablet and more."
     }
   ]
 }

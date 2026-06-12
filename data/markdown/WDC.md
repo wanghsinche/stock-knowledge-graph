@@ -3,8 +3,8 @@ ticker: WDC
 company: Western Digital Corporation
 sector: Technology
 industry: Computer Hardware
-extracted_at: 2026-06-11 18:48:02
-last_updated: 2026-06-11
+extracted_at: 2026-06-12 18:02:52
+last_updated: 2026-06-12
 ---
 
 # WDC - Western Digital Corporation
@@ -12,46 +12,46 @@ last_updated: 2026-06-11
 ## 基本信息
 
 - **所属行业**: Technology / Computer Hardware
-- **提取时间**: 2026-06-11 18:48:02
+- **提取时间**: 2026-06-12 18:02:52
 
 ## 产业链关系
 
 ### 上游供应商
+- [[Semiconductor component suppliers]]
 - [[Silicon wafer manufacturers]]
-- [[Memory chip suppliers]]
-- [[Electronic component suppliers]]
-- [[Manufacturing equipment suppliers]]
-- [[Packaging and assembly suppliers]]
+- [[Electronics manufacturing services (EMS) providers]]
+- [[Hard drive assembly suppliers]]
+- [[Storage controller chip manufacturers]]
 
 ### 下游客户
 - [[DELL]]
 - [[HPQ]]
-- [[Lenovo Group]]
 - [[AAPL]]
-- [[AMZN]]
+- [[MSFT]]
+- [[Data center operators]]
 
 ### 竞争对手
 - [[STX]]
 - [[Toshiba Corporation]]
 - [[005930.KS]]
-- [[SK Hynix]]
 - [[MU]]
+- [[SK Hynix]]
 
 ### 核心产品
-- [[Hard Disk Drives (HDDs)]]
-- [[Solid State Drives (SSDs)]]
+- [[Internal HDDs]]
+- [[External HDDs]]
+- [[SSD drives]]
 - [[Enterprise storage solutions]]
-- [[Network Attached Storage (NAS)]]
-- [[External storage devices]]
+- [[NAS devices]]
 
 ## 数据来源
 
 - 
 - [Western Digital Corporation suppliers manufacturers](https://www.westerndigital.com/company/distributors)
 - [Western Digital Corporation suppliers manufacturers](https://csimarket.com/stocks/WDC-Suppliers)
-- [Western Digital Corporation major customers clients](https://www.ibisworld.com/united-states/company/western-digital-corporation/10437/)
-- [Western Digital Corporation major customers clients](https://investor.wdc.com/news-releases/news-release-details/western-digital-unveiled-go-forward-strategy-investor-day-2025)
+- [Western Digital Corporation major customers clients](https://csimarket.com/stocks/WDC-Customers)
+- [Western Digital Corporation major customers clients](https://data.landbase.com/technology/western-digital/)
 
 ## 元数据
 
-- **更新日期**: 2026-06-11
+- **更新日期**: 2026-06-12
