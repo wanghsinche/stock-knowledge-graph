@@ -7,31 +7,31 @@
     "MSFT",
     "AMZN",
     "GOOGL",
-    "IBM",
-    "ORCL"
+    "ORCL",
+    "IBM"
   ],
   "downstream": [
     "Bank of America",
+    "JPMorgan Chase",
     "Walmart",
-    "Coca‑Cola",
-    "General Electric",
-    "MSFT"
+    "Coca-Cola",
+    "General Motors"
   ],
   "competitors": [
-    "SAP SE Business Objects",
+    "SAP SE",
     "IBM",
     "ORCL",
     "MSFT",
-    "Tableau Software"
+    "Tableau"
   ],
   "key_products": [
     "MicroStrategy Desktop",
-    "MicroStrategy Cloud",
+    "MicroStrategy Web",
     "MicroStrategy Mobile",
     "MicroStrategy Analytics",
-    "MicroStrategy Data Warehouse"
+    "MicroStrategy Cloud"
   ],
-  "extracted_at": "2026-06-12 18:05:34",
+  "extracted_at": "2026-06-15 19:51:50",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/MSTR/",
-      "query": "Strategy Inc suppliers manufacturers",
-      "snippet": "Find the latest Strategy Inc (MSTR) stock quote, history, news and other vital information to help you with your stock trading and investing."
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pNel9ta0VSSHMtOWJuOFVrTHRDZ0FQAQ?hl=en-KE&gl=KE&ceid=KE:en",
-      "query": "Strategy Inc suppliers manufacturers",
-      "snippet": "Strategy May Have Bought 3,200 BTC After Bitcoin Sale, Standard Chartered Says."
-    },
-    {
-      "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/MicroStrategy",
       "query": "Strategy Inc major customers clients",
-      "snippet": "Strategy has launched four credit instruments in the second and third quarter of 2025 worth $4 billion, with more to come. Michael Saylor told Bloombe"
+      "snippet": "Strategy Inc ., formerly known as MicroStrategy, is an American company that provides business intelligence and mobile software.In 1992, MicroStrategy"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.strategy.com/software/customer-stories",
+      "url": "https://finance.yahoo.com/quote/MSTR/",
       "query": "Strategy Inc major customers clients",
-      "snippet": "Dive into Strategy customer stories highlighting the impact of Analytics in Healthcare, Financial Services, Call Centers, Retail, Insurance, and Gover"
+      "snippet": "Find the latest Strategy Inc (MSTR) stock quote, history, news and other vital information to help you with your stock trading and investing."
     }
   ]
 }

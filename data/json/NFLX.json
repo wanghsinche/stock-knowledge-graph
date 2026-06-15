@@ -2,20 +2,20 @@
   "ticker": "NFLX",
   "company_name": "Netflix, Inc.",
   "sector": "Communication Services",
-  "industry": "Streaming Media",
+  "industry": "Entertainment",
   "upstream": [
-    "Content production studios",
-    "Film and TV production companies",
-    "Cloud service providers",
-    "Technology hardware suppliers",
-    "Marketing and advertising agencies"
+    "Content production studios (e.g., Warner Bros., Universal)",
+    "AMZN",
+    "Content delivery network providers (Akamai)",
+    "AAPL",
+    "Marketing and distribution partners"
   ],
   "downstream": [
-    "Global subscribers",
-    "Corporate clients (airlines, hotels)",
-    "Smart TV manufacturers",
-    "Mobile device users",
-    "Internet service providers"
+    "Individual subscribers worldwide",
+    "Corporate accounts (airlines, hotels)",
+    "Smart TV and console users",
+    "Mobile app users",
+    "Streaming device users"
   ],
   "competitors": [
     "Disney+",
@@ -27,11 +27,11 @@
   "key_products": [
     "Netflix streaming service",
     "Original series and films",
-    "Licensed movies and TV shows",
+    "Licensed movies and shows",
     "Mobile and web apps",
     "Smart TV and console apps"
   ],
-  "extracted_at": "2026-06-12 18:04:49",
+  "extracted_at": "2026-06-15 19:50:45",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,21 +47,21 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.stock-analysis-on.net/NASDAQ/Company/Netflix-Inc",
+      "url": "https://www.alibaba.com/",
       "query": "Netflix, Inc. suppliers manufacturers",
-      "snippet": "Netflix financial ratios grouped by activity, liquidity, solvency, and profitability.Analysis of Solvency Ratios. Examines Netflix Inc . capital struc"
+      "snippet": "Find quality Manufacturers , Suppliers , Exporters, Importers, Buyers, Wholesalers, Products and Trade Leads from our award-winning International Trad"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ir.netflix.net/",
-      "query": "Netflix, Inc. major customers clients",
-      "snippet": "Company Profile. Netflix is one of the world’s leading entertainment services offering TV series, films, games and live programming across a wide vari"
+      "url": "https://csimarket.com/stocks/NFLX-Competitors",
+      "query": "Netflix, Inc. competitors alternatives",
+      "snippet": "The sales growth was above Netflix Inc 's competitors ' average revenue growth of 13.59 %, achieved in the same quarter.Overall company sales advanced"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.netflix.com/gb/",
-      "query": "Netflix, Inc. major customers clients",
-      "snippet": "Watch Netflix films & series online or stream straight to your smart TV, game console, PC, Mac, mobile, tablet and more."
+      "url": "https://financhill.com/stocks/sp500/nflx/competitors",
+      "query": "Netflix, Inc. competitors alternatives",
+      "snippet": "Who are Netflix , Inc .'s biggest competitors ? Compare Netflix , Inc . (NFLX) vs. main competitors ."
     }
   ]
 }

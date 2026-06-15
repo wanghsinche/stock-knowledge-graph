@@ -4,25 +4,25 @@
   "sector": "Technology",
   "industry": "Software - Application",
   "upstream": [
-    "ExactTarget Inc.",
-    "DELL",
-    "HPQ",
     "MSFT",
-    "AMZN"
+    "AMZN",
+    "GOOGL",
+    "ORCL",
+    "Open‑source software libraries"
   ],
   "downstream": [
-    "AMZN",
+    "Bank of America",
+    "Walmart",
     "Coca‑Cola",
     "Toyota",
-    "General Electric",
-    "Walmart"
+    "American Express"
   ],
   "competitors": [
     "MSFT",
+    "SAP Customer Experience",
     "ORCL",
-    "SAP Sales Cloud",
     "HubSpot",
-    "Zoho CRM"
+    "Zendesk"
   ],
   "key_products": [
     "Sales Cloud",
@@ -31,37 +31,13 @@
     "Commerce Cloud",
     "Einstein AI"
   ],
-  "extracted_at": "2026-06-12 18:06:54",
+  "extracted_at": "2026-06-15 19:58:13",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Salesforce,_Inc.",
       "title": "Salesforce",
       "snippet": "Salesforce, Inc., is an American cloud-based software company headquartered in San Francisco, California. It is primarily known for its customer relationship management software and related applicatio"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/CRM-Suppliers",
-      "query": "Salesforce, Inc. suppliers manufacturers",
-      "snippet": "Salesforce Inc supply chain, list and performance of Salesforce Incs ' suppliers - CSIMarket."
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.salesforce.com/",
-      "query": "Salesforce, Inc. suppliers manufacturers",
-      "snippet": "ExactTarget Inc ."
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.salesforce.com/",
-      "query": "Salesforce, Inc. major customers clients",
-      "snippet": "Salesforce Enterprise-grade CRM with deep reporting, sales operations, and..."
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.heise.de/en/news/Salesforce-200-major-customers-join-Agentforce-10189412.html",
-      "query": "Salesforce, Inc. major customers clients",
-      "snippet": "More than 200 major customers have already signed contracts with Salesforce to gain access to the new AI platform Agentforce. This was reported by Sal"
     }
   ]
 }

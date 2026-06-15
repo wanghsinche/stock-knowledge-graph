@@ -1,57 +1,53 @@
 ---
 ticker: HOOD
 company: Robinhood Markets, Inc.
-sector: Financial Services / Capital Markets
-industry: Online Brokerage
-extracted_at: 2026-06-12 18:03:00
-last_updated: 2026-06-12
+sector: Financial Services
+industry: Capital Markets
+extracted_at: 2026-06-15 19:43:32
+last_updated: 2026-06-15
 ---
 
 # HOOD - Robinhood Markets, Inc.
 
 ## 基本信息
 
-- **所属行业**: Financial Services / Capital Markets / Online Brokerage
-- **提取时间**: 2026-06-12 18:03:00
+- **所属行业**: Financial Services / Capital Markets
+- **提取时间**: 2026-06-15 19:43:32
 
 ## 产业链关系
 
 ### 上游供应商
 - [[AMZN]]
-- [[MSFT]]
-- [[Bloomberg]]
-- [[Refinitiv]]
-- [[Stripe]]
+- [[Market data vendors (e.g., Bloomberg, Refinitiv)]]
+- [[Payment processors (e.g., Stripe, PayPal)]]
+- [[Regulatory technology partners]]
+- [[Technology infrastructure providers (e.g., Twilio)]]
 
 ### 下游客户
 - [[Retail investors]]
-- [[Institutional investors]]
 - [[High‑frequency traders]]
+- [[Institutional clients via Robinhood Institutional]]
 - [[Financial advisors]]
-- [[Corporate clients]]
+- [[Corporate clients using Robinhood Cash Management]]
 
 ### 竞争对手
-- [[E*TRADE]]
 - [[Charles Schwab]]
-- [[Fidelity]]
+- [[Fidelity Investments]]
+- [[E*TRADE]]
 - [[TD Ameritrade]]
-- [[Interactive Brokers]]
+- [[Webull]]
 
 ### 核心产品
-- [[Commission‑free stock trading]]
-- [[Robinhood Gold (margin & premium research)]]
-- [[Options trading]]
-- [[Cryptocurrency trading]]
-- [[Cash management & interest‑earning accounts]]
+- [[Commission‑free stock trading app]]
+- [[Robinhood Gold premium service]]
+- [[Robinhood Crypto]]
+- [[Robinhood Cash Management]]
+- [[Options trading platform]]
 
 ## 数据来源
 
 - 
-- [Robinhood Markets, Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/Robinhood_Markets)
-- [Robinhood Markets, Inc. suppliers manufacturers](https://robinhood.com/)
-- [Robinhood Markets, Inc. major customers clients](https://en.wikipedia.org/wiki/Robinhood_Markets)
-- [Robinhood Markets, Inc. major customers clients](https://investingintheweb.com/brokers/robinhood-statistics/)
 
 ## 元数据
 
-- **更新日期**: 2026-06-12
+- **更新日期**: 2026-06-15

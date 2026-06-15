@@ -3,8 +3,8 @@ ticker: INTC
 company: Intel Corporation
 sector: Technology
 industry: Semiconductors
-extracted_at: 2026-06-12 17:59:30
-last_updated: 2026-06-12
+extracted_at: 2026-06-15 19:38:54
+last_updated: 2026-06-15
 ---
 
 # INTC - Intel Corporation
@@ -12,21 +12,21 @@ last_updated: 2026-06-12
 ## 基本信息
 
 - **所属行业**: Technology / Semiconductors
-- **提取时间**: 2026-06-12 17:59:30
+- **提取时间**: 2026-06-15 19:38:54
 
 ## 产业链关系
 
 ### 上游供应商
 - [[TSM]]
 - [[005930.KS]]
-- [[GlobalFoundries]]
-- [[ASE Group]]
-- [[MU]]
+- [[ASML]]
+- [[AMAT]]
+- [[LRCX]]
 
 ### 下游客户
 - [[DELL]]
 - [[HPQ]]
-- [[Lenovo Group]]
+- [[Lenovo]]
 - [[AAPL]]
 - [[MSFT]]
 
@@ -34,24 +34,22 @@ last_updated: 2026-06-12
 - [[AMD]]
 - [[NVDA]]
 - [[QCOM]]
-- [[AVGO]]
-- [[005930.KS]]
+- [[ARM]]
+- [[TSM]]
 
 ### 核心产品
-- [[Intel Core CPUs]]
-- [[Intel Xeon CPUs]]
-- [[Intel Arc GPUs]]
+- [[Intel Core i7]]
+- [[Intel Xeon]]
+- [[Intel Atom]]
+- [[Intel Xe GPU]]
 - [[Intel FPGAs]]
-- [[Intel AI chips]]
 
 ## 数据来源
 
-- [Intel](https://en.wikipedia.org/wiki/Intel_Corporation)
-- [Intel Corporation suppliers manufacturers](https://en.wikipedia.org/wiki/List_of_Intel_manufacturing_sites)
+- 
+- [Intel Corporation suppliers manufacturers](https://csimarket.com/stocks/INTC-Suppliers)
 - [Intel Corporation suppliers manufacturers](https://finance.yahoo.com/quote/INTC/)
-- [Intel Corporation major customers clients](https://csimarket.com/stocks/INTC-Customers)
-- [Intel Corporation major customers clients](https://www.appsruntheworld.com/customers-database/vendors/view/intel-corporation)
 
 ## 元数据
 
-- **更新日期**: 2026-06-12
+- **更新日期**: 2026-06-15

@@ -3,8 +3,8 @@ ticker: CCJ
 company: Cameco Corporation
 sector: Energy
 industry: Uranium
-extracted_at: 2026-06-12 18:07:25
-last_updated: 2026-06-12
+extracted_at: 2026-06-15 20:00:58
+last_updated: 2026-06-15
 ---
 
 # CCJ - Cameco Corporation
@@ -12,46 +12,44 @@ last_updated: 2026-06-12
 ## 基本信息
 
 - **所属行业**: Energy / Uranium
-- **提取时间**: 2026-06-12 18:07:25
+- **提取时间**: 2026-06-15 20:00:58
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Power Resources Inc.]]
-- [[Uranium Resources Ltd.]]
-- [[Uranium Mining Equipment Co.]]
-- [[Mining Services Ltd.]]
-- [[Drilling Rig Manufacturers]]
+- [[Uranium ore suppliers]]
+- [[Mining equipment manufacturers]]
+- [[Mining service contractors]]
+- [[Exploration technology providers]]
+- [[Geological survey firms]]
 
 ### 下游客户
-- [[U.S. Nuclear Utilities]]
-- [[French Nuclear Utilities]]
-- [[Japanese Nuclear Utilities]]
-- [[Canadian Nuclear Utilities]]
-- [[Russian Nuclear Utilities]]
+- [[Nuclear power plant operators]]
+- [[Electric utility companies]]
+- [[Government nuclear agencies]]
+- [[International nuclear regulators]]
+- [[Nuclear fuel cycle contractors]]
 
 ### 竞争对手
-- [[NexGen Energy]]
 - [[Kazatomprom]]
+- [[Uranium Energy Corp]]
 - [[Orano]]
-- [[Uranium Energy Corp.]]
 - [[Uranium One]]
+- [[Energy Fuels]]
 
 ### 核心产品
-- [[Uranium ore]]
-- [[Uranium concentrate]]
-- [[Uranium fuel services]]
+- [[Uranium concentrate (U3O8)]]
+- [[Uranium hexafluoride (UF6)]]
+- [[Uranium dioxide (UO2)]]
+- [[Uranium fuel assemblies]]
 - [[Uranium enrichment services]]
-- [[Uranium mining services]]
 
 ## 数据来源
 
 - [Cameco](https://en.wikipedia.org/wiki/Cameco_Corporation)
-- [Cameco Corporation suppliers manufacturers](https://en.wikipedia.org/wiki/Cameco)
-- [Cameco Corporation suppliers manufacturers](https://csimarket.com/stocks/CCJ-Suppliers)
-- [Cameco Corporation major customers clients](https://www.cameco.com/invest/markets/cameco-customers)
-- [Cameco Corporation major customers clients](https://csimarket.com/stocks/CCJ-Customers)
+- [Cameco Corporation products services offerings](https://www.cameco.com/)
+- [Cameco Corporation products services offerings](https://www.marketresearch.com/MarketLine-v3883/Cameco-Corp-Company-Profile-SWOT-42667107/)
 
 ## 元数据
 
-- **更新日期**: 2026-06-12
+- **更新日期**: 2026-06-15

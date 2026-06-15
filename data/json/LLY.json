@@ -4,18 +4,18 @@
   "sector": "Healthcare",
   "industry": "Drug Manufacturers - General",
   "upstream": [
+    "Lonza",
     "CAT",
-    "Raw material suppliers (Chemours, BASF)",
-    "Contract research organizations (IQVIA)",
-    "Packaging suppliers (Amcor)",
-    "Logistics providers (DHL)"
+    "Thermo Fisher Scientific",
+    "BASF",
+    "DSM"
   ],
   "downstream": [
-    "US Department of Veterans Affairs",
     "UnitedHealth Group",
-    "Kaiser Permanente",
-    "Cigna",
-    "Walgreens"
+    "CVS Health",
+    "Walgreens Boots Alliance",
+    "US Department of Veterans Affairs",
+    "National Health Service (UK)"
   ],
   "competitors": [
     "Pfizer",
@@ -25,13 +25,13 @@
     "Bristol Myers Squibb"
   ],
   "key_products": [
-    "Trulicity",
+    "Humira",
+    "Cialis",
     "Zyprexa",
-    "Cymbalta",
-    "Alimta",
-    "Insulin glargine"
+    "Trulicity",
+    "Lantus"
   ],
-  "extracted_at": "2026-06-12 18:06:17",
+  "extracted_at": "2026-06-15 19:50:15",
   "sources": [
     {
       "source": "Wikipedia",
@@ -50,18 +50,6 @@
       "url": "https://www.lilly.com/",
       "query": "Eli Lilly and Company suppliers manufacturers",
       "snippet": "Lilly is a medicine company that puts health above all. Learn about our medicines, view condition support, find care, and much more. Lilly employee wo"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Eli_Lilly_and_Company",
-      "query": "Eli Lilly and Company major customers clients",
-      "snippet": "Eli Lilly and Company , doing business as Lilly , is an American multinational pharmaceutical company headquartered in Indianapolis, Indiana, with off"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.linkedin.com/company/eli-lilly-and-company",
-      "query": "Eli Lilly and Company major customers clients",
-      "snippet": "Eli Lilly and Company . 2,719,072 followers. 5d. Report this post. Announcing a major milestone in obesity care: all three of the nation's largest pha"
     }
   ]
 }

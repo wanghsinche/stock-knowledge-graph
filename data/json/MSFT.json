@@ -13,9 +13,9 @@
   "downstream": [
     "Enterprise customers (e.g., banks, government agencies)",
     "DELL",
-    "Consumer users of Windows and Office",
-    "Gaming studios using Xbox Live",
-    "Cloud service clients using Azure"
+    "Consumer users of Windows, Office, Xbox",
+    "Cloud customers using Azure",
+    "SMB and developer communities"
   ],
   "competitors": [
     "AAPL",
@@ -28,10 +28,10 @@
     "Windows operating system",
     "Microsoft Office suite",
     "Azure cloud platform",
-    "Microsoft Teams",
+    "Surface hardware line",
     "Xbox gaming console"
   ],
-  "extracted_at": "2026-06-12 17:59:48",
+  "extracted_at": "2026-06-15 19:39:37",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/List_of_mergers_and_acquisitions_by_Microsoft",
-      "query": "Microsoft Corporation suppliers manufacturers",
-      "snippet": "List of mergers and acquisitions by Microsoft Microsoft logo Microsoft is an American public multinational corporation headquartered in Redmond, Washi"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/MSFT-Suppliers",
-      "query": "Microsoft Corporation suppliers manufacturers",
-      "snippet": "May 2, 2026 · Microsoft supply chain, list and performance of Microsofts ' suppliers - CSIMarket"
-    },
-    {
-      "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Microsoft",
-      "query": "Microsoft Corporation major customers clients",
+      "query": "Microsoft Corporation suppliers manufacturers",
       "snippet": "Microsoft Corporation is an American multinational technology company headquartered in Redmond, Washington."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://copilot.microsoft.com/",
-      "query": "Microsoft Corporation major customers clients",
-      "snippet": "Microsoft Copilot — ваш компаньон для информирования, развлечения и вдохновения. Получайте советы, отзывы и прямые ответы."
+      "url": "https://csimarket.com/stocks/suppliers_glance.php?code=MSFT",
+      "query": "Microsoft Corporation suppliers manufacturers",
+      "snippet": "News about Microsoft Corporation Contracts. Microsoft 's Comment on Supply Chain. We develop most of our products and services internally through four"
     }
   ]
 }

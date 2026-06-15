@@ -3,8 +3,8 @@ ticker: SMCI
 company: Super Micro Computer, Inc.
 sector: Technology
 industry: Computer Hardware
-extracted_at: 2026-06-12 18:03:29
-last_updated: 2026-06-12
+extracted_at: 2026-06-15 19:57:05
+last_updated: 2026-06-15
 ---
 
 # SMCI - Super Micro Computer, Inc.
@@ -12,23 +12,23 @@ last_updated: 2026-06-12
 ## 基本信息
 
 - **所属行业**: Technology / Computer Hardware
-- **提取时间**: 2026-06-12 18:03:29
+- **提取时间**: 2026-06-15 19:57:05
 
 ## 产业链关系
 
 ### 上游供应商
 - [[INTC]]
 - [[AMD]]
-- [[NVDA]]
+- [[MU]]
+- [[STX]]
 - [[AVGO]]
-- [[005930.KS]]
 
 ### 下游客户
-- [[AMZN]]
-- [[GOOGL]]
-- [[MSFT]]
-- [[IBM]]
-- [[Facebook]]
+- [[Enterprise data centers]]
+- [[Cloud service providers]]
+- [[AI companies]]
+- [[Telecom operators]]
+- [[Edge computing customers]]
 
 ### 竞争对手
 - [[DELL]]
@@ -38,20 +38,18 @@ last_updated: 2026-06-12
 - [[IBM]]
 
 ### 核心产品
-- [[High‑performance servers]]
-- [[High‑efficiency servers]]
+- [[High-performance servers]]
+- [[High-efficiency servers]]
 - [[Server management software]]
 - [[Storage systems]]
-- [[5G edge solutions]]
+- [[5G edge computing solutions]]
 
 ## 数据来源
 
 - [Supermicro](https://en.wikipedia.org/wiki/Super_Micro_Computer,_Inc.)
-- [Super Micro Computer, Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/Supermicro)
-- [Super Micro Computer, Inc. suppliers manufacturers](https://www.supermicro.com/)
-- [Super Micro Computer, Inc. major customers clients](https://data.landbase.com/technology/supermicro/)
-- [Super Micro Computer, Inc. major customers clients](https://csimarket.com/stocks/SMCI-Customers)
+- [Super Micro Computer, Inc. products services offerings](https://en.wikipedia.org/wiki/Supermicro)
+- [Super Micro Computer, Inc. products services offerings](https://www.supermicro.com/)
 
 ## 元数据
 
-- **更新日期**: 2026-06-12
+- **更新日期**: 2026-06-15

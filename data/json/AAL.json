@@ -6,62 +6,38 @@
   "upstream": [
     "Boeing",
     "Airbus",
-    "CAT",
+    "United Technologies",
     "Honeywell",
-    "United Technologies"
+    "GE Aviation"
   ],
   "downstream": [
-    "Passengers",
-    "Corporate clients",
-    "Cargo customers",
+    "Corporate travel clients",
+    "Leisure travelers",
+    "Freight and cargo customers",
     "Travel agencies",
-    "Airline partners"
+    "Online travel platforms"
   ],
   "competitors": [
     "Delta Air Lines",
     "United Airlines",
     "Southwest Airlines",
-    "JetBlue Airways",
-    "Alaska Airlines"
+    "Alaska Airlines",
+    "JetBlue Airways"
   ],
   "key_products": [
-    "Passenger air transport",
-    "Cargo transport",
-    "Frequent Flyer program (AAdvantage)",
-    "Maintenance services",
-    "In-flight entertainment"
+    "Domestic and international passenger flights",
+    "Cargo and freight services",
+    "Loyalty program (AAdvantage)",
+    "In‑flight entertainment and Wi‑Fi",
+    "Maintenance, repair, and overhaul (MRO) services"
   ],
-  "extracted_at": "2026-06-12 18:06:45",
+  "extracted_at": "2026-06-15 19:48:35",
   "sources": [
     {
       "source": "Wikipedia",
-      "url": "",
-      "title": "",
-      "snippet": ""
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/American_Airlines_Group",
-      "query": "American Airlines Group Inc. suppliers manufacturers",
-      "snippet": "American Airlines Group Inc . is an American publicly traded airline holding company headquartered in Fort Worth, Texas. It was formed on December 9, "
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.aa.com/i18n/customer-service/about-us/american-airlines-group.jsp",
-      "query": "American Airlines Group Inc. suppliers manufacturers",
-      "snippet": "In 2016, American Airlines Group Inc . topped Fortune magazine’s list of best business turnarounds, and its stock (NASDAQ: AAL) joined the S&P 500 ind"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/American_Airlines_Group",
-      "query": "American Airlines Group Inc. major customers clients",
-      "snippet": "American Airlines Group Inc . is an American publicly traded airline holding company headquartered in Fort Worth, Texas. It was formed on December 9, "
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.aa.com/i18n/customer-service/about-us/american-airlines-group.jsp",
-      "query": "American Airlines Group Inc. major customers clients",
-      "snippet": "With 130,000 team members around the world, American is focused on creating a world-class customer experience, building the airline to thrive forever "
+      "url": "https://en.wikipedia.org/wiki/American_Airlines_Group_Inc.",
+      "title": "American Airlines Group",
+      "snippet": "American Airlines Group Inc. is an American publicly traded airline holding company headquartered in Fort Worth, Texas. It was formed on December 9, 2013, by the merger of AMR Corporation, the parent "
     }
   ]
 }

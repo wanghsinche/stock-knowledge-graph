@@ -4,34 +4,34 @@
   "sector": "Industrials",
   "industry": "Specialty Industrial Machinery",
   "upstream": [
-    "Nickel alloy suppliers",
+    "META",
     "Turbine blade manufacturers",
-    "Compressor component suppliers",
-    "Electrical equipment suppliers",
-    "Materials suppliers"
+    "Electronic component suppliers",
+    "Chemical and coating suppliers",
+    "Precision machining and tooling providers"
   ],
   "downstream": [
-    "Electric utilities",
-    "Industrial power plants",
-    "Oil & gas companies",
-    "Renewable energy developers",
-    "Municipal power providers"
+    "Electric utility companies",
+    "Oil & gas exploration and production firms",
+    "Renewable energy developers (wind & solar)",
+    "Government defense and infrastructure agencies",
+    "Power plant operators and maintenance services"
   ],
   "competitors": [
     "Siemens Energy",
-    "Mitsubishi Hitachi Power Systems",
-    "Alstom Power",
-    "ABB",
-    "General Electric (Power & Energy)"
+    "Mitsubishi Power",
+    "ABB Power Grids",
+    "Schneider Electric",
+    "Alstom Power"
   ],
   "key_products": [
     "Gas turbines",
     "Steam turbines",
     "Generators",
-    "Power plant equipment",
-    "Renewable energy solutions"
+    "Power plant automation systems",
+    "Turbine blades and components"
   ],
-  "extracted_at": "2026-06-12 18:05:25",
+  "extracted_at": "2026-06-15 19:48:03",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.gevernova.com/grid-solutions/suppliers",
-      "query": "GE Vernova Inc. suppliers manufacturers",
-      "snippet": "Explore GE Vernova ’ s supplier portal for partnership opportunities and procurement information."
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://supplierportal.ren.apps.ge.com/",
-      "query": "GE Vernova Inc. suppliers manufacturers",
-      "snippet": "Using our range of robust tools, suppliers can access all relevant areas of GE Vernova including sourcing, purchasing, finance, engineering, productio"
-    },
-    {
-      "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/GE_Vernova",
-      "query": "GE Vernova Inc. major customers clients",
+      "query": "GE Vernova Inc. competitors alternatives",
       "snippet": "GE Vernova , Inc . is an energy equipment manufacturing and services company headquartered in Cambridge, Massachusetts."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.gevernova.com/",
-      "query": "GE Vernova Inc. major customers clients",
-      "snippet": "GE Vernova is accelerating the path to more reliable, affordable, and sustainable energy through our innovative portfolio of electrification and decar"
+      "url": "https://ru.wikipedia.org/wiki/GE_Vernova",
+      "query": "GE Vernova Inc. competitors alternatives",
+      "snippet": "GE Vernova — американская компания, производитель оборудования для энергетической отрасли. До апреля 2024 года являлась подразделением General Electri"
     }
   ]
 }

@@ -4,64 +4,40 @@
   "sector": "Technology",
   "industry": "Software - Infrastructure",
   "upstream": [
-    "INTC",
     "AMD",
     "NVDA",
-    "CSCO",
-    "DELL"
+    "ORCL",
+    "Software component vendors (e.g., Java, SQL libraries)",
+    "Data center and networking equipment suppliers"
   ],
   "downstream": [
-    "JPMorgan Chase",
     "Walmart",
-    "AT&T",
-    "Bank of America",
-    "Verizon"
+    "JPMorgan Chase",
+    "US Department of Defense",
+    "Mayo Clinic",
+    "Target"
   ],
   "competitors": [
     "MSFT",
-    "AMZN",
-    "IBM",
     "SAP",
-    "CRM"
+    "IBM",
+    "AMZN",
+    "GOOGL"
   ],
   "key_products": [
     "Oracle Database",
     "Oracle Cloud Infrastructure",
-    "Oracle ERP Cloud",
     "Oracle Autonomous Database",
+    "Oracle ERP Cloud",
     "Oracle Analytics Cloud"
   ],
-  "extracted_at": "2026-06-12 18:01:47",
+  "extracted_at": "2026-06-15 19:45:18",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Oracle_Corporation",
       "title": "Oracle Corporation",
       "snippet": "Oracle Corporation is an American multinational technology company headquartered in Austin, Texas. Co-founded in Santa Clara, California, in 1977 by Bob Miner, Ed Oates, and current chairman of the bo"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Oracle_Corporation",
-      "query": "Oracle Corporation suppliers manufacturers",
-      "snippet": "Oracle Corporation is an American multinational technology company headquartered in Austin, Texas. Co-founded in 1977 in Santa Clara, California, by i"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.oracle.com/",
-      "query": "Oracle Corporation suppliers manufacturers",
-      "snippet": "Oracle offers a comprehensive and fully integrated stack of cloud applications and cloud platform services.."
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.oracle.com/customers/earnings/",
-      "query": "Oracle Corporation major customers clients",
-      "snippet": "Learn more about the Oracle customers that were highlighted in our latest quarterly earnings call."
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.thomsondata.com/customer-base/oracle.php",
-      "query": "Oracle Corporation major customers clients",
-      "snippet": "Thomson Data makes it easy by offering an accurate and up-to-date list of companies that use Oracle. This list allows you to identify Oracle customers"
     }
   ]
 }

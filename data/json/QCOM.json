@@ -8,30 +8,30 @@
     "005930.KS",
     "GlobalFoundries",
     "INTC",
-    "NXP Semiconductors"
+    "UMC"
   ],
   "downstream": [
     "AAPL",
     "005930.KS",
-    "Huawei",
     "Xiaomi",
-    "GOOGL"
+    "Huawei",
+    "Oppo"
   ],
   "competitors": [
     "MediaTek",
-    "AAPL",
-    "005930.KS",
     "AVGO",
-    "NVDA"
+    "INTC",
+    "NVDA",
+    "005930.KS"
   ],
   "key_products": [
     "Snapdragon mobile processors",
-    "5G modems",
-    "AI chips",
-    "RF front-end modules",
-    "Baseband chips"
+    "5G modem chips",
+    "AI inference chips",
+    "Wi‑Fi and Bluetooth chips",
+    "LTE/4G modems"
   ],
-  "extracted_at": "2026-06-12 18:03:39",
+  "extracted_at": "2026-06-15 19:51:14",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,26 +41,26 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://data.ark.ai/analysis/suppliers/qualcomm-incorporated-supplier-profile-overview",
-      "query": "QUALCOMM Incorporated suppliers manufacturers",
-      "snippet": "Ark.ai conducted a vendor and supply chain analysis of QUALCOMM Incorporated , examining their subcontractors, subsidiaries, list of suppliers , manuf"
-    },
-    {
-      "source": "DuckDuckGo",
       "url": "https://qualcomm.com/",
       "query": "QUALCOMM Incorporated suppliers manufacturers",
       "snippet": "Director of product management, Qualcomm Technologies, Inc ."
     },
     {
       "source": "DuckDuckGo",
+      "url": "https://finance.yahoo.com/quote/QCOM/",
+      "query": "QUALCOMM Incorporated suppliers manufacturers",
+      "snippet": "Find the latest QUALCOMM Incorporated (QCOM) stock quote, history, news and other vital information to help you with your stock trading and investing."
+    },
+    {
+      "source": "DuckDuckGo",
       "url": "https://www.qualcomm.com/",
-      "query": "QUALCOMM Incorporated major customers clients",
-      "snippet": "Qualcomm relentlessly innovates to deliver intelligent computing everywhere, helping the world tackle some of its most important challenges. Our leadi"
+      "query": "QUALCOMM Incorporated products services offerings",
+      "snippet": "Snapdragon and Qualcomm branded products are products of Qualcomm Technologies, Inc . and/or its subsidiaries.Note: Certain services and materials may"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://finance.yahoo.com/quote/QCOM/",
-      "query": "QUALCOMM Incorporated major customers clients",
+      "query": "QUALCOMM Incorporated products services offerings",
       "snippet": "Find the latest QUALCOMM Incorporated (QCOM) stock quote, history, news and other vital information to help you with your stock trading and investing."
     }
   ]

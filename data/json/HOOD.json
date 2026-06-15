@@ -1,67 +1,43 @@
 {
   "ticker": "HOOD",
   "company_name": "Robinhood Markets, Inc.",
-  "sector": "Financial Services / Capital Markets",
-  "industry": "Online Brokerage",
+  "sector": "Financial Services",
+  "industry": "Capital Markets",
   "upstream": [
     "AMZN",
-    "MSFT",
-    "Bloomberg",
-    "Refinitiv",
-    "Stripe"
+    "Market data vendors (e.g., Bloomberg, Refinitiv)",
+    "Payment processors (e.g., Stripe, PayPal)",
+    "Regulatory technology partners",
+    "Technology infrastructure providers (e.g., Twilio)"
   ],
   "downstream": [
     "Retail investors",
-    "Institutional investors",
     "High‑frequency traders",
+    "Institutional clients via Robinhood Institutional",
     "Financial advisors",
-    "Corporate clients"
+    "Corporate clients using Robinhood Cash Management"
   ],
   "competitors": [
-    "E*TRADE",
     "Charles Schwab",
-    "Fidelity",
+    "Fidelity Investments",
+    "E*TRADE",
     "TD Ameritrade",
-    "Interactive Brokers"
+    "Webull"
   ],
   "key_products": [
-    "Commission‑free stock trading",
-    "Robinhood Gold (margin & premium research)",
-    "Options trading",
-    "Cryptocurrency trading",
-    "Cash management & interest‑earning accounts"
+    "Commission‑free stock trading app",
+    "Robinhood Gold premium service",
+    "Robinhood Crypto",
+    "Robinhood Cash Management",
+    "Options trading platform"
   ],
-  "extracted_at": "2026-06-12 18:03:00",
+  "extracted_at": "2026-06-15 19:43:32",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "",
       "title": "",
       "snippet": ""
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Robinhood_Markets",
-      "query": "Robinhood Markets, Inc. suppliers manufacturers",
-      "snippet": "Robinhood Markets , Inc . Robinhood Markets , Inc . is an American financial services company based in Menlo Park, California."
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://robinhood.com/",
-      "query": "Robinhood Markets, Inc. suppliers manufacturers",
-      "snippet": "Trade stocks on Robinhood with commission-free investing & advanced trading tools. Access fractional shares, real-time market data, and more."
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Robinhood_Markets",
-      "query": "Robinhood Markets, Inc. major customers clients",
-      "snippet": "Robinhood Markets , Inc . is an American financial services company based in Menlo Park, California. It provides an electronic trading platform that f"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://investingintheweb.com/brokers/robinhood-statistics/",
-      "query": "Robinhood Markets, Inc. major customers clients",
-      "snippet": "Apr 7, 2026 · The platform has gained a massive customer base in the US, making it a major disruptor in the finance industry. In this article, we’ll e"
     }
   ]
 }

@@ -4,17 +4,34 @@
   "sector": "Technology",
   "industry": "Computer Hardware",
   "upstream": [
-    "GIGAPC Corporation"
+    "GIGAPC Corporation",
+    "MU",
+    "005930.KS",
+    "SK Hynix",
+    "WDC"
   ],
-  "downstream": [],
-  "competitors": [],
+  "downstream": [
+    "AAPL",
+    "DELL",
+    "HPQ",
+    "MSFT",
+    "AMZN"
+  ],
+  "competitors": [
+    "MU",
+    "005930.KS",
+    "Kingston Technology",
+    "WDC",
+    "Crucial"
+  ],
   "key_products": [
-    "SSDs",
-    "flash drives",
-    "memory cards",
-    "storage solutions"
+    "Solid State Drives (SSDs)",
+    "USB Flash Drives",
+    "Memory Cards (SD, microSD)",
+    "Enterprise Storage Solutions",
+    "Portable External Drives"
   ],
-  "extracted_at": "2026-06-12 17:59:11",
+  "extracted_at": "2026-06-15 19:38:25",
   "sources": [
     {
       "source": "Wikipedia",
@@ -33,18 +50,6 @@
       "url": "https://www.asbis.com/vendors/sandisk",
       "query": "Sandisk Corporation suppliers manufacturers",
       "snippet": "Discover Sandisk SSDs, flash drives, memory cards, and storage solutions distributed by ASBIS. Reliable performance for consumers, professionals, and "
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://data.landbase.com/technology/sandisk/",
-      "query": "Sandisk Corporation major customers clients",
-      "snippet": "Aug 17, 2025 · Our SanDisk customers list is available for download and comes enriched with vital company specifics, including industry classification"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.appsruntheworld.com/customers-database/vendors/view/sandisk",
-      "query": "Sandisk Corporation major customers clients",
-      "snippet": "List of companies using or evaluating SanDisk applications, with details on their revenues, employees, industries, and locations."
     }
   ]
 }

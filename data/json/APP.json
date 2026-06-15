@@ -4,34 +4,34 @@
   "sector": "Communication Services",
   "industry": "Advertising Agencies",
   "upstream": [
-    "GOOGL",
-    "Data and analytics vendors (e.g., Nielsen, comScore)",
-    "Ad tech infrastructure providers (e.g., The Trade Desk, MediaMath)",
     "AAPL",
-    "Third‑party SDK and API providers"
+    "GOOGL",
+    "Data providers (e.g., Nielsen, comScore)",
+    "Ad exchange platforms (e.g., The Trade Desk)",
+    "Mobile app development tool vendors"
   ],
   "downstream": [
-    "Mobile game developers and publishers",
-    "App developers across entertainment, productivity, and lifestyle",
-    "E‑commerce and retail app operators",
-    "Social media and messaging app creators",
-    "CAT"
+    "Mobile game developers",
+    "App developers (non-gaming)",
+    "Digital marketing agencies",
+    "Brands and advertisers",
+    "Publishers of mobile content"
   ],
   "competitors": [
+    "The Trade Desk",
     "Unity Ads",
     "GOOGL",
     "Facebook Audience Network",
-    "Vungle",
-    "Chartboost"
+    "AppNexus (Xandr)"
   ],
   "key_products": [
     "AppLovin Mobile Advertising Platform",
-    "MAX (Mobile Ad Exchange)",
-    "AppLovin SDK for in‑app advertising",
-    "LTV (Lifetime Value) Optimization tools",
-    "AppLovin Analytics & Attribution services"
+    "AppLovin Marketing Solutions",
+    "AppLovin Audience Targeting",
+    "AppLovin Data Analytics",
+    "AppLovin Monetization SDK"
   ],
-  "extracted_at": "2026-06-12 18:06:07",
+  "extracted_at": "2026-06-15 19:43:10",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.applovin.com/",
+      "url": "https://umbrex.com/resources/company-profiles/applovin/",
       "query": "AppLovin Corporation suppliers manufacturers",
+      "snippet": "AppLovin is a digital advertising and app-monetization company that sells software to two sides of the app economy: advertisers that want measurable c"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.cbinsights.com/company/applovin",
+      "query": "AppLovin Corporation suppliers manufacturers",
+      "snippet": "AppLovin is a technology company focused on marketing solutions within the advertising industry. The company offers a suite of marketing technologies "
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.applovin.com/",
+      "query": "AppLovin Corporation products services offerings",
       "snippet": "AppLovin enables businesses to advertise profitably with marketing technologies that attract customers, increase revenue, and track ad performance."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/APP/",
-      "query": "AppLovin Corporation suppliers manufacturers",
-      "snippet": "Find the latest AppLovin Corporation (APP) stock quote, history, news and other vital information to help you with your stock trading and investing."
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.applovin.com/",
-      "query": "AppLovin Corporation major customers clients",
-      "snippet": "AppLovin enables businesses to advertise profitably with marketing technologies that attract customers , increase revenue, and track ad performance."
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/APP/",
-      "query": "AppLovin Corporation major customers clients",
-      "snippet": "Find the latest AppLovin Corporation (APP) stock quote, history, news and other vital information to help you with your stock trading and investing."
+      "url": "https://bullfincher.io/companies/applovin-corporation/overview",
+      "query": "AppLovin Corporation products services offerings",
+      "snippet": "AppLovin Corporation provides a specialized software platform focused on empowering mobile application developers to enhance the marketing and revenue"
     }
   ]
 }

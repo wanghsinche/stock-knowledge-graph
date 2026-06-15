@@ -5,63 +5,39 @@
   "industry": "Auto Manufacturers",
   "upstream": [
     "CAT",
-    "Panasonic",
-    "005930.KS",
-    "LG Chem",
-    "Baidu Automotive"
+    "Automotive parts suppliers (e.g., Bosch, Denso)",
+    "Steel and aluminum suppliers",
+    "Electronic component suppliers",
+    "Software and AI providers"
   ],
   "downstream": [
     "Individual consumers",
     "Commercial fleet operators",
-    "Utility companies",
     "Government agencies",
-    "Automotive dealers"
+    "Ride‑hailing services",
+    "Energy storage customers"
   ],
   "competitors": [
     "Ford Motor Company",
     "General Motors",
-    "Volkswagen AG",
-    "Hyundai Motor Group",
-    "Rivian Automotive"
+    "Rivian Automotive",
+    "Lucid Motors",
+    "BYD"
   ],
   "key_products": [
     "Model S",
     "Model 3",
     "Model X",
     "Model Y",
-    "Powerwall"
+    "Cybertruck"
   ],
-  "extracted_at": "2026-06-12 17:59:03",
+  "extracted_at": "2026-06-15 19:38:40",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Tesla,_Inc.",
       "title": "Tesla, Inc.",
       "snippet": "Tesla, Inc. is an American multinational automotive and clean energy company. Headquartered in Austin, Texas, it designs, manufactures, and sells battery electric vehicles (BEVs), stationary battery e"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/TSLA-Suppliers",
-      "query": "Tesla, Inc. suppliers manufacturers",
-      "snippet": "Apr 24, 2026 · Tesla Inc 's Comment on Supply Chain Model S uses over 2,000 purchased parts which we source globally from over 300 suppliers , the maj"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.suppliersmap.com/tesla",
-      "query": "Tesla, Inc. suppliers manufacturers",
-      "snippet": "Explore Tesla's key suppliers including CATL and Panasonic for batteries, Samsung for chips, Bosch for braking systems, and STMicroelectronics for pow"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Tesla,_Inc.",
-      "query": "Tesla, Inc. major customers clients",
-      "snippet": "2 days ago - Tesla Energy products include solar panels (built by other companies for Tesla), the Tesla Solar Roof (a solar shingle system), and the T"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.tesla.com/customer-stories",
-      "query": "Tesla, Inc. major customers clients",
-      "snippet": "Incentives · Support · Partner with Tesla · Commercial · Utilities · Learn · LearnShop · LearnFind · LearnOrder · LearnOrder · LearnOrder · Help Me Ch"
     }
   ]
 }

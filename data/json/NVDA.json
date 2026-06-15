@@ -7,61 +7,37 @@
     "TSM",
     "005930.KS",
     "GlobalFoundries",
-    "ASE Group",
-    "Amkor Technology"
+    "INTC",
+    "MU"
   ],
   "downstream": [
-    "AMZN",
-    "META",
     "MSFT",
+    "SONY",
+    "AMZN",
     "GOOGL",
-    "AAPL"
+    "TSLA"
   ],
   "competitors": [
     "AMD",
     "INTC",
     "QCOM",
-    "AAPL",
-    "AVGO"
+    "AVGO",
+    "ARM"
   ],
   "key_products": [
     "GeForce GPUs",
     "Quadro GPUs",
     "Tesla GPUs",
-    "Tegra SoCs",
-    "CUDA & cuDNN APIs"
+    "NVIDIA Tegra SoCs",
+    "CUDA API"
   ],
-  "extracted_at": "2026-06-12 17:59:20",
+  "extracted_at": "2026-06-15 19:38:13",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/NVIDIA_Corporation",
       "title": "Nvidia",
       "snippet": "Nvidia Corporation is an American multinational technology company headquartered in Santa Clara, California. The company develops graphics processing units (GPUs), systems on chips (SoCs), and applica"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Nvidia",
-      "query": "NVIDIA Corporation suppliers manufacturers",
-      "snippet": "2 days ago - In August 2025, Nvidia ordered ... concerns. The company directed suppliers including Taiwan Semiconductor Manufacturing Company, Samsung"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/suppliers_glance.php?code=NVDA",
-      "query": "NVIDIA Corporation suppliers manufacturers",
-      "snippet": "3 weeks ago - Nvidia supply chain, list and performance of Nvidias' suppliers - CSIMarket"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/NVDA-Customers",
-      "query": "NVIDIA Corporation major customers clients",
-      "snippet": "Nvidia customers and markets, results by customer and performance relative to NVDA, by company and industry - CSIMarket"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.fool.com/investing/2024/05/02/who-are-nvidias-largest-customers/",
-      "query": "NVIDIA Corporation major customers clients",
-      "snippet": "May 2, 2024 · Unsurprisingly, big tech companies like Amazon, Meta Platforms, Microsoft, and Alphabet are believed to be among Nvidia 's biggest custo"
     }
   ]
 }

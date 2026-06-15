@@ -1,67 +1,43 @@
 {
   "ticker": "SATS",
   "company_name": "EchoStar Corporation",
-  "sector": "Communication Services / Telecom Services",
-  "industry": "Satellite Communications",
+  "sector": "Communication Services",
+  "industry": "Telecom Services",
   "upstream": [
     "Lockheed Martin",
     "Boeing",
     "Airbus",
     "SpaceX",
-    "Thales"
+    "Arianespace"
   ],
   "downstream": [
     "Dish Network",
     "Boost Mobile",
     "Sling TV",
-    "EchoStar Mobile",
-    "Hughes Network Systems"
+    "Hughes Network Systems",
+    "Corporate aviation customers"
   ],
   "competitors": [
     "INTC",
     "SES",
     "Eutelsat",
-    "ViaSat",
-    "Telesat"
+    "Telesat",
+    "Inmarsat"
   ],
   "key_products": [
-    "Satellite communication services",
-    "Broadband internet services",
-    "Mobile services",
-    "Multichannel video programming",
-    "Satellite TV"
+    "Satellite broadband internet",
+    "Satellite TV distribution",
+    "Mobile broadband services",
+    "Satellite-based wireless communications",
+    "Satellite data services"
   ],
-  "extracted_at": "2026-06-12 18:01:06",
+  "extracted_at": "2026-06-15 19:55:59",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/EchoStar_Corporation",
       "title": "EchoStar",
       "snippet": "EchoStar Corporation is an American telecommunications company, specializing in satellite communication, wireless telecommunications, and internet services. Echostar also provides multichannel video p"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.linkedin.com/company/echostar-corporation",
-      "query": "EchoStar Corporation suppliers manufacturers",
-      "snippet": "EchoStar Corporation | 34,963 followers on LinkedIn. EchoStar Corporation (Nasdaq: SATS) is a premier provider of technology, networking services, tel"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/E20.DE/profile/",
-      "query": "EchoStar Corporation suppliers manufacturers",
-      "snippet": "See the company profile for EchoStar Corporation (E20.DE) including business summary, industry/sector information, number of employees, business summa"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.linkedin.com/company/echostar-corporation",
-      "query": "EchoStar Corporation major customers clients",
-      "snippet": "EchoStar Corporation | 34,963 followers on LinkedIn. EchoStar Corporation (Nasdaq: SATS) is a premier provider of technology, networking services, tel"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://legalclarity.org/who-owns-dish-network-echostar-and-directv-explained/",
-      "query": "EchoStar Corporation major customers clients",
-      "snippet": "DISH Network Corporation Form 8-K The result was a single corporate entity combining Dish’s satellite TV subscribers and wireless spectrum with EchoSt"
     }
   ]
 }

@@ -5,33 +5,33 @@
   "industry": "Communication Equipment",
   "upstream": [
     "Satellite component manufacturers",
-    "Launch service providers",
-    "Electronics suppliers",
-    "Antenna manufacturers",
-    "Software providers"
+    "Launch vehicle providers",
+    "Ground station equipment suppliers",
+    "Semiconductor suppliers",
+    "Antenna manufacturers"
   ],
   "downstream": [
     "Mobile network operators",
-    "Telecom carriers",
-    "Enterprise customers",
     "Government agencies",
-    "IoT service providers"
+    "Enterprise customers",
+    "Maritime operators",
+    "Aviation operators"
   ],
   "competitors": [
     "SpaceX Starlink",
     "OneWeb",
-    "AMZN",
     "Telesat",
+    "Hughes Network Systems",
     "Viasat"
   ],
   "key_products": [
-    "High-throughput satellite network",
-    "Mobile broadband via satellite",
-    "Satellite-based IoT connectivity",
-    "Satellite communication equipment",
-    "Ground station solutions"
+    "Satellite broadband constellation",
+    "Mobile satellite terminals",
+    "Ground station infrastructure",
+    "Satellite communication services",
+    "Satellite antennas"
   ],
-  "extracted_at": "2026-06-12 18:01:35",
+  "extracted_at": "2026-06-15 19:55:20",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/AST_SpaceMobile",
-      "query": "AST SpaceMobile, Inc. suppliers manufacturers",
-      "snippet": "AST SpaceMobile , Inc . is a publicly traded satellite designer and manufacturer based in Midland, Texas, United States. [6][7] The company is buildin"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://ast-science.com/",
-      "query": "AST SpaceMobile, Inc. suppliers manufacturers",
-      "snippet": "We have partnered with over 50 mobile network operators to seamlessly integrate with ground infrastructure and offer a turnkey service to their nearly"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/ASTS-Customers",
+      "url": "https://www.marketbeat.com/stocks/NASDAQ/ASTS/",
       "query": "AST SpaceMobile, Inc. major customers clients",
-      "snippet": "May 26, 2026 · For your research, we’ve provided 9 tables on Ast Spacemobile Inc corporate clients . You can find them in the navigation menu under Cu"
+      "snippet": "AST SpaceMobile , Inc . (NASDAQ:ASTS) released its earnings results on Monday, May, 11th. The company reported ($0.66) EPS for the quarter, missing th"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ast-science.com/",
+      "url": "https://www.benzinga.com/news/space/25/06/45776611/ast-spacemobile-stock-climbs-after-analyst-flags-potential-investment-from-amazons-jeff-bezos",
       "query": "AST SpaceMobile, Inc. major customers clients",
-      "snippet": "We have partnered with over 50 mobile network operators to seamlessly integrate with ground infrastructure and offer a turnkey service to their nearly"
+      "snippet": "AST SpaceMobile Inc (NASDAQ:ASTS) shares are rising Wednesday. Scotiabank speculated in a note to clients that Amazon's Jeff Bezos could become an inv"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://starlinkinsider.com/ast-spacemobile-vs-starlink/",
+      "query": "AST SpaceMobile, Inc. competitors alternatives",
+      "snippet": "Both AST SpaceMobile and Starlink rely on a constellation of satellites, which operate in LEO. However, the details differ quite substantially. The co"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.tradingview.com/news/zacks:b366e1102094b:0-at-t-vs-ast-spacemobile-which-connectivity-stock-should-you-bet-on/",
+      "query": "AST SpaceMobile, Inc. competitors alternatives",
+      "snippet": "The Case for AST SpaceMobile . AST SpaceMobile has deployed its first five commercial satellites (dubbed Bluebird) in LEO, marking a key advancement i"
     }
   ]
 }
