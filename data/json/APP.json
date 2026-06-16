@@ -4,34 +4,34 @@
   "sector": "Communication Services",
   "industry": "Advertising Agencies",
   "upstream": [
-    "AAPL",
     "GOOGL",
-    "Data providers (e.g., Nielsen, comScore)",
-    "Ad exchange platforms (e.g., The Trade Desk)",
-    "Mobile app development tool vendors"
+    "AAPL",
+    "Facebook",
+    "MSFT",
+    "AMZN"
   ],
   "downstream": [
     "Mobile game developers",
-    "App developers (non-gaming)",
-    "Digital marketing agencies",
-    "Brands and advertisers",
-    "Publishers of mobile content"
+    "App developers",
+    "Digital marketers",
+    "Advertising agencies",
+    "Brand advertisers"
   ],
   "competitors": [
-    "The Trade Desk",
     "Unity Ads",
-    "GOOGL",
-    "Facebook Audience Network",
-    "AppNexus (Xandr)"
+    "AdMob",
+    "IronSource",
+    "Vungle",
+    "Chartboost"
   ],
   "key_products": [
-    "AppLovin Mobile Advertising Platform",
-    "AppLovin Marketing Solutions",
-    "AppLovin Audience Targeting",
-    "AppLovin Data Analytics",
-    "AppLovin Monetization SDK"
+    "Mobile advertising platform",
+    "User acquisition solutions",
+    "App monetization tools",
+    "Data analytics & attribution",
+    "Video ad formats"
   ],
-  "extracted_at": "2026-06-15 19:43:10",
+  "extracted_at": "2026-06-16 19:33:35",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://umbrex.com/resources/company-profiles/applovin/",
+      "url": "https://en.wikipedia.org/wiki/AppLovin",
       "query": "AppLovin Corporation suppliers manufacturers",
-      "snippet": "AppLovin is a digital advertising and app-monetization company that sells software to two sides of the app economy: advertisers that want measurable c"
+      "snippet": "AppLovin Corporation is an American mobile technology company headquartered in Palo Alto, California. [3] Founded in 2012, the company helps developer"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.cbinsights.com/company/applovin",
+      "url": "https://csimarket.com/stocks/APP-Suppliers",
       "query": "AppLovin Corporation suppliers manufacturers",
-      "snippet": "AppLovin is a technology company focused on marketing solutions within the advertising industry. The company offers a suite of marketing technologies "
+      "snippet": "Applovin 's Suppliers recorded an increase in sales by 6.16 % year on year in Q4 2025, sequentially sales grew by 2285.92 %, Applovin 's cost of sales"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.applovin.com/",
-      "query": "AppLovin Corporation products services offerings",
-      "snippet": "AppLovin enables businesses to advertise profitably with marketing technologies that attract customers, increase revenue, and track ad performance."
+      "url": "https://en.wikipedia.org/wiki/AppLovin",
+      "query": "AppLovin Corporation major customers clients",
+      "snippet": "AppLovin Corporation is an American mobile technology company headquartered in Palo Alto, California. [3] Founded in 2012, the company helps developer"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://bullfincher.io/companies/applovin-corporation/overview",
-      "query": "AppLovin Corporation products services offerings",
-      "snippet": "AppLovin Corporation provides a specialized software platform focused on empowering mobile application developers to enhance the marketing and revenue"
+      "url": "https://www.appsruntheworld.com/customers-database/vendors/view/applovin",
+      "query": "AppLovin Corporation major customers clients",
+      "snippet": "List of companies using or evaluating Applovin applications, with details on their revenues, employees, industries, and locations."
     }
   ]
 }

@@ -4,34 +4,34 @@
   "sector": "Technology",
   "industry": "Scientific & Technical Instruments",
   "upstream": [
-    "Silicon wafer suppliers",
-    "Gallium arsenide suppliers",
-    "Rare‑earth element suppliers",
-    "Optical crystal manufacturers",
-    "Photonic component suppliers"
-  ],
-  "downstream": [
-    "INTC",
-    "Laser manufacturers (e.g., Thorlabs, Newport)",
-    "Defense contractors (e.g., Lockheed Martin)",
-    "Medical device companies (e.g., Medtronic)",
-    "Aerospace firms (e.g., Boeing, SpaceX)"
-  ],
-  "competitors": [
-    "II‑VI Incorporated",
-    "Newport Corporation",
+    "Corning Inc.",
+    "Schott AG",
     "Edmund Optics",
     "Thorlabs",
-    "Coherent (pre‑acquisition)"
+    "Nikon Corporation"
+  ],
+  "downstream": [
+    "Boeing",
+    "Lockheed Martin",
+    "NASA",
+    "Medtronic",
+    "INTC"
+  ],
+  "competitors": [
+    "Thorlabs",
+    "Newport Corporation",
+    "Edmund Optics",
+    "Lumentum Holdings",
+    "II-VI Incorporated"
   ],
   "key_products": [
-    "Optical materials (glass, crystals)",
-    "Semiconductor wafers",
     "Laser diodes",
-    "Photonic integrated circuits",
-    "Optical fibers and components"
+    "Fiber lasers",
+    "Solid‑state lasers",
+    "Optical amplifiers",
+    "Photonic components"
   ],
-  "extracted_at": "2026-06-15 19:59:24",
+  "extracted_at": "2026-06-16 19:40:44",
   "sources": [
     {
       "source": "Wikipedia",
@@ -42,26 +42,26 @@
     {
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Coherent_Corp.",
-      "query": "Coherent Corp. major customers clients",
+      "query": "Coherent Corp. suppliers manufacturers",
       "snippet": "Coherent Corp . is an American manufacturer of optical materials and semiconductors. As of 2023, the company had 26,622 employees. Its stock is listed"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.coherent.com/",
+      "query": "Coherent Corp. suppliers manufacturers",
+      "snippet": "Learn how Coherent empowers innovations and breakthrough technologies for the industrial, communications, electronics, and instrumentation markets."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/Coherent_Corp.",
+      "query": "Coherent Corp. major customers clients",
+      "snippet": "Coherent Corp . (formerly II-VI Incorporated) is an American manufacturer of optical materials and semiconductors. As of 2023, the company had 26,622 "
     },
     {
       "source": "DuckDuckGo",
       "url": "https://csimarket.com/stocks/COHR-Customers",
       "query": "Coherent Corp. major customers clients",
       "snippet": "Coherent customers and markets, results by customer and performance relative to COHR, by company and industry - CSIMarket.For your research, we’ve pro"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Coherent_Corp.",
-      "query": "Coherent Corp. products services offerings",
-      "snippet": "Coherent Corp . is an American manufacturer of optical materials and semiconductors. As of 2023, the company had 26,622 employees. Its stock is listed"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.coherent.com/",
-      "query": "Coherent Corp. products services offerings",
-      "snippet": "Learn how Coherent empowers innovations and breakthrough technologies for the industrial, communications, electronics, and instrumentation markets."
     }
   ]
 }

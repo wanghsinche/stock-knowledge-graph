@@ -4,40 +4,65 @@
   "sector": "Technology",
   "industry": "Software - Application",
   "upstream": [
-    "MSFT",
     "AMZN",
+    "MSFT",
     "GOOGL",
     "ORCL",
-    "Open‑source software libraries"
+    "IBM"
   ],
   "downstream": [
-    "Bank of America",
-    "Walmart",
     "Coca‑Cola",
-    "Toyota",
-    "American Express"
+    "Toyota Motor Corporation",
+    "005930.KS",
+    "American Express",
+    "Nike"
   ],
   "competitors": [
     "MSFT",
-    "SAP Customer Experience",
+    "SAP Sales Cloud",
     "ORCL",
     "HubSpot",
-    "Zendesk"
+    "Zoho CRM"
   ],
   "key_products": [
     "Sales Cloud",
     "Service Cloud",
     "Marketing Cloud",
     "Commerce Cloud",
-    "Einstein AI"
+    "Einstein AI",
+    "Platform (AppExchange)"
   ],
-  "extracted_at": "2026-06-15 19:58:13",
+  "extracted_at": "2026-06-16 19:37:49",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Salesforce,_Inc.",
       "title": "Salesforce",
       "snippet": "Salesforce, Inc., is an American cloud-based software company headquartered in San Francisco, California. It is primarily known for its customer relationship management software and related applicatio"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/CRM-Suppliers",
+      "query": "Salesforce, Inc. suppliers manufacturers",
+      "snippet": "May 29, 2026 · Sources: Salesforce Inc 's official press releases and regulatory filings; CSIMarket.com's supply -chain research; and the financial fi"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.accio.com/supplier/salesforce-supplier",
+      "query": "Salesforce, Inc. suppliers manufacturers",
+      "snippet": "Apr 29, 2026 · Need Salesforce implementation or customization? Discover 4800+ verified suppliers offering CRM software and support services. Click to"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.appsruntheworld.com/customers-database/vendors/view/salesforce",
+      "query": "Salesforce, Inc. major customers clients",
+      "snippet": "List of companies using or evaluating Salesforce applications, with details on their revenues, employees, industries, and locations."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.salesforce.com/customer-stories/",
+      "query": "Salesforce, Inc. major customers clients",
+      "snippet": "Discover how Salesforce helps 150,000+ companies increase productivity, customer loyalty, and sales revenue — every day."
     }
   ]
 }

@@ -3,8 +3,8 @@ ticker: MSFT
 company: Microsoft Corporation
 sector: Technology
 industry: Software - Infrastructure
-extracted_at: 2026-06-15 19:39:37
-last_updated: 2026-06-15
+extracted_at: 2026-06-16 19:29:28
+last_updated: 2026-06-16
 ---
 
 # MSFT - Microsoft Corporation
@@ -12,7 +12,7 @@ last_updated: 2026-06-15
 ## 基本信息
 
 - **所属行业**: Technology / Software - Infrastructure
-- **提取时间**: 2026-06-15 19:39:37
+- **提取时间**: 2026-06-16 19:29:28
 
 ## 产业链关系
 
@@ -26,22 +26,22 @@ last_updated: 2026-06-15
 ### 下游客户
 - [[Enterprise customers (e.g., banks, government agencies)]]
 - [[DELL]]
-- [[Consumer users of Windows, Office, Xbox]]
-- [[Cloud customers using Azure]]
-- [[SMB and developer communities]]
+- [[Retail consumers]]
+- [[CAT]]
+- [[Gaming studios]]
 
 ### 竞争对手
 - [[AAPL]]
 - [[GOOGL]]
 - [[AMZN]]
 - [[ORCL]]
-- [[CRM]]
+- [[IBM]]
 
 ### 核心产品
 - [[Windows operating system]]
 - [[Microsoft Office suite]]
 - [[Azure cloud platform]]
-- [[Surface hardware line]]
+- [[Microsoft Teams]]
 - [[Xbox gaming console]]
 
 ## 数据来源
@@ -49,7 +49,9 @@ last_updated: 2026-06-15
 - [Microsoft](https://en.wikipedia.org/wiki/Microsoft_Corporation)
 - [Microsoft Corporation suppliers manufacturers](https://en.wikipedia.org/wiki/Microsoft)
 - [Microsoft Corporation suppliers manufacturers](https://csimarket.com/stocks/suppliers_glance.php?code=MSFT)
+- [Microsoft Corporation major customers clients](https://csimarket.com/stocks/MSFT-Customers)
+- [Microsoft Corporation major customers clients](https://www.microsoft.com/en-us/customers/)
 
 ## 元数据
 
-- **更新日期**: 2026-06-15
+- **更新日期**: 2026-06-16

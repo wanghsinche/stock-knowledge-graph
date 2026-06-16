@@ -5,39 +5,63 @@
   "industry": "Capital Markets",
   "upstream": [
     "AMZN",
-    "Market data vendors (e.g., Bloomberg, Refinitiv)",
-    "Payment processors (e.g., Stripe, PayPal)",
-    "Regulatory technology partners",
-    "Technology infrastructure providers (e.g., Twilio)"
+    "GOOGL",
+    "Bloomberg L.P.",
+    "FactSet",
+    "Stripe"
   ],
   "downstream": [
     "Retail investors",
+    "Institutional investors",
     "High‑frequency traders",
-    "Institutional clients via Robinhood Institutional",
     "Financial advisors",
-    "Corporate clients using Robinhood Cash Management"
+    "Corporate clients"
   ],
   "competitors": [
     "Charles Schwab",
     "Fidelity Investments",
-    "E*TRADE",
     "TD Ameritrade",
+    "E*TRADE",
     "Webull"
   ],
   "key_products": [
-    "Commission‑free stock trading app",
-    "Robinhood Gold premium service",
-    "Robinhood Crypto",
-    "Robinhood Cash Management",
-    "Options trading platform"
+    "Commission‑free stock trading",
+    "Options trading",
+    "Cryptocurrency trading",
+    "Margin trading",
+    "Robinhood Gold subscription"
   ],
-  "extracted_at": "2026-06-15 19:43:32",
+  "extracted_at": "2026-06-16 19:34:17",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "",
       "title": "",
       "snippet": ""
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/Robinhood_Markets",
+      "query": "Robinhood Markets, Inc. suppliers manufacturers",
+      "snippet": "Robinhood Markets , Inc . is an American financial services company based in Menlo Park, California. It provides an electronic trading platform that f"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/HOOD-Suppliers",
+      "query": "Robinhood Markets, Inc. suppliers manufacturers",
+      "snippet": "Feb 28, 2026 · Robinhood Markets Inc 's Suppliers recorded an increase in sales by 8.72 % year on year in Q4 2025, sequentially sales grew by 4.1 %, w"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/HOOD-Customers",
+      "query": "Robinhood Markets, Inc. major customers clients",
+      "snippet": "Robinhood Markets Inc 's Corporate Customers have recorded an increase in their cost of revenue by 10.65 % in the 2 quarter 2025 year on year, sequent"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://investingintheweb.com/brokers/robinhood-statistics/",
+      "query": "Robinhood Markets, Inc. major customers clients",
+      "snippet": "Apr 7, 2026 · Robinhood revenues Robinhood generates revenues through transaction-based revenues, net interest revenues, and other revenues. Transacti"
     }
   ]
 }

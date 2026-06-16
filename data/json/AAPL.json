@@ -4,40 +4,52 @@
   "sector": "Technology",
   "industry": "Consumer Electronics",
   "upstream": [
-    "Foxconn (Hon Hai Precision Industry Co.)",
-    "TSM",
+    "Foxconn (Hon Hai Precision Industry)",
+    "Pegatron",
+    "Wistron",
     "005930.KS",
-    "SONY",
-    "LG Display"
+    "TSM"
   ],
   "downstream": [
-    "Best Buy",
-    "AMZN",
-    "Walmart",
+    "iPhone users",
+    "iPad users",
+    "Mac users",
     "AAPL",
-    "CAT"
+    "AAPL"
   ],
   "competitors": [
     "005930.KS",
-    "MSFT",
     "GOOGL",
-    "AMZN",
+    "MSFT",
+    "Huawei",
     "Xiaomi"
   ],
   "key_products": [
     "iPhone",
     "iPad",
-    "Mac",
+    "MacBook",
     "Apple Watch",
-    "Apple TV"
+    "AirPods"
   ],
-  "extracted_at": "2026-06-15 19:39:50",
+  "extracted_at": "2026-06-16 19:29:40",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Apple_Inc.",
       "title": "Apple Inc.",
       "snippet": "Apple Inc. is an American multinational technology company headquartered in Cupertino, California, in Silicon Valley, and known for consumer electronics, software and online services. Founded in 1976 "
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/List_of_Apple_Inc._suppliers",
+      "query": "Apple Inc. suppliers manufacturers",
+      "snippet": "Apple is an American technology company with a global supply chain. Until 2003, Apple 's own factories in the United States, Singapore, and Ireland we"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/suppliers_glance.php?code=AAPL",
+      "query": "Apple Inc. suppliers manufacturers",
+      "snippet": "Apple Inc supply chain, list and performance of Apple Incs ' suppliers - CSIMarket."
     },
     {
       "source": "DuckDuckGo",

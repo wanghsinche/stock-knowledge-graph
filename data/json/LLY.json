@@ -7,31 +7,31 @@
     "Lonza",
     "CAT",
     "Thermo Fisher Scientific",
-    "BASF",
-    "DSM"
+    "Merck & Co.",
+    "Evonik Industries"
   ],
   "downstream": [
-    "UnitedHealth Group",
+    "United States Department of Veterans Affairs",
+    "Kaiser Permanente",
     "CVS Health",
     "Walgreens Boots Alliance",
-    "US Department of Veterans Affairs",
-    "National Health Service (UK)"
+    "Mayo Clinic"
   ],
   "competitors": [
     "Pfizer",
     "Johnson & Johnson",
     "Novartis",
     "Merck & Co.",
-    "Bristol Myers Squibb"
+    "Bristol-Myers Squibb"
   ],
   "key_products": [
-    "Humira",
-    "Cialis",
-    "Zyprexa",
-    "Trulicity",
-    "Lantus"
+    "Humira (adalimumab)",
+    "Trulicity (dulaglutide)",
+    "Mounjaro (tirzepatide)",
+    "Lantus (insulin glargine)",
+    "Zyprexa (olanzapine)"
   ],
-  "extracted_at": "2026-06-15 19:50:15",
+  "extracted_at": "2026-06-16 19:40:19",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,9 +47,21 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.lilly.com/",
+      "url": "https://www.lilly.com/suppliers",
       "query": "Eli Lilly and Company suppliers manufacturers",
-      "snippet": "Lilly is a medicine company that puts health above all. Learn about our medicines, view condition support, find care, and much more. Lilly employee wo"
+      "snippet": "Supplier relationships are an important piece of the company , and we’re proud to offer mentorship and advocacy to small and under-leveraged businesse"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/Eli_Lilly_and_Company",
+      "query": "Eli Lilly and Company major customers clients",
+      "snippet": "Eli Lilly and Company , doing business as Lilly , is an American multinational pharmaceutical company headquartered in Indianapolis, Indiana, with off"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.linkedin.com/company/eli-lilly-and-company",
+      "query": "Eli Lilly and Company major customers clients",
+      "snippet": "Eli Lilly and Company | 2,725,314 followers on LinkedIn. We're a medicine company turning science into healing to make life better for people around t"
     }
   ]
 }

@@ -4,34 +4,34 @@
   "sector": "Communication Services",
   "industry": "Entertainment",
   "upstream": [
-    "Content production studios (e.g., Warner Bros., Universal)",
-    "AMZN",
-    "Content delivery network providers (Akamai)",
-    "AAPL",
-    "Marketing and distribution partners"
+    "Disney Studios",
+    "Warner Bros. Studios",
+    "Universal Studios",
+    "SONY",
+    "AMZN"
   ],
   "downstream": [
-    "Individual subscribers worldwide",
-    "Corporate accounts (airlines, hotels)",
-    "Smart TV and console users",
-    "Mobile app users",
-    "Streaming device users"
+    "US households",
+    "UK households",
+    "Canada households",
+    "India households",
+    "Brazil households"
   ],
   "competitors": [
     "Disney+",
-    "AMZN",
-    "Hulu",
     "HBO Max",
-    "AAPL"
+    "AMZN",
+    "AAPL",
+    "Hulu"
   ],
   "key_products": [
     "Netflix streaming service",
-    "Original series and films",
-    "Licensed movies and shows",
-    "Mobile and web apps",
-    "Smart TV and console apps"
+    "Original series",
+    "Original movies",
+    "Documentaries",
+    "Kids programming"
   ],
-  "extracted_at": "2026-06-15 19:50:45",
+  "extracted_at": "2026-06-16 19:32:43",
   "sources": [
     {
       "source": "Wikipedia",
@@ -53,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/NFLX-Competitors",
-      "query": "Netflix, Inc. competitors alternatives",
-      "snippet": "The sales growth was above Netflix Inc 's competitors ' average revenue growth of 13.59 %, achieved in the same quarter.Overall company sales advanced"
+      "url": "https://csimarket.com/stocks/NFLX-Customers",
+      "query": "Netflix, Inc. major customers clients",
+      "snippet": "May 18, 2026 · Netflix Inc customers and markets, results by customer and performance relative to NFLX, by company and industry - CSIMarket"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://financhill.com/stocks/sp500/nflx/competitors",
-      "query": "Netflix, Inc. competitors alternatives",
-      "snippet": "Who are Netflix , Inc .'s biggest competitors ? Compare Netflix , Inc . (NFLX) vs. main competitors ."
+      "url": "https://ir.netflix.net/ir-overview/profile/default.aspx",
+      "query": "Netflix, Inc. major customers clients",
+      "snippet": "Jun 4, 2026 · Netflix is one of the world’s leading entertainment services offering TV series, films, games and live programming across a wide variety"
     }
   ]
 }

@@ -4,34 +4,34 @@
   "sector": "Financial Services",
   "industry": "Credit Services",
   "upstream": [
-    "Gemalto (now part of Thales)",
-    "IDEMIA",
-    "Fiserv",
-    "Worldline",
-    "PayPal (technology services)"
+    "Chip manufacturers (e.g., NXP, STMicroelectronics)",
+    "Card production vendors (e.g., IDEMIA, Giesecke+Devrient)",
+    "Payment network infrastructure providers",
+    "MSFT",
+    "Security and compliance service providers"
   ],
   "downstream": [
-    "Bank of America",
-    "Wells Fargo",
-    "Walmart",
-    "AMZN",
-    "Target"
+    "Commercial banks and credit unions",
+    "Retail merchants and e‑commerce platforms",
+    "Consumer cardholders (individuals)",
+    "Financial institutions issuing Visa‑branded cards",
+    "Payment service providers (e.g., PayPal, Square)"
   ],
   "competitors": [
     "Mastercard",
     "American Express",
-    "Discover",
-    "JCB",
-    "UnionPay"
+    "Discover Financial Services",
+    "PayPal",
+    "Square (Cash App)"
   ],
   "key_products": [
-    "VisaNet payment network",
-    "Visa Credit cards",
-    "Visa Debit cards",
-    "Visa Prepaid cards",
-    "Visa Direct instant payments"
+    "Visa credit cards",
+    "Visa debit cards",
+    "Visa prepaid cards",
+    "Visa payment network (VisaNet)",
+    "Mobile payment solutions (Visa Checkout, Visa Token Service)"
   ],
-  "extracted_at": "2026-06-03 19:54:34",
+  "extracted_at": "2026-06-16 19:37:27",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Visa_Inc.",
+      "url": "https://www.visa.com/splisting/searchGrsp.do",
       "query": "Visa Inc. suppliers manufacturers",
-      "snippet": "Visa Inc . is an American multinational payment card services corporation headquartered in San Francisco, California. Visa Inc . Logo used since 2014 "
+      "snippet": "5 days ago · For service providers published on the Registry, if Visa does not receive the appropriate revalidation documents: Within 1 - 60 days upon"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ru.wikipedia.org/wiki/Visa",
+      "url": "https://usa.visa.com/partner-with-us/info-for-partners/info-for-suppliers.html",
       "query": "Visa Inc. suppliers manufacturers",
-      "snippet": "Visa Inc . — американская транснациональная компания, предоставляющая услуги проведения платёжных операций. Является основой одноимённой ассоциации. С"
+      "snippet": "Visa recognizes the value of engaging with a broad group of suppliers , including small and micro-sized businesses (SMBs), and provides opportunities "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Visa_Inc.",
+      "url": "https://csimarket.com/stocks/V-Customers",
       "query": "Visa Inc. major customers clients",
-      "snippet": "Visa Inc . is an American multinational payment card services corporation headquartered in San Francisco, California. It facilitates electronic funds "
+      "snippet": "Visa Inc customers and markets, results by customer and performance relative to V, by company and industry - CSIMarket"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.britannica.com/money/Visa-Inc",
+      "url": "https://capitaloneshopping.com/research/credit-card-market-share-statistics/",
       "query": "Visa Inc. major customers clients",
-      "snippet": "Visa Inc . is an international payment card services corporation established in 1958. It provides a variety...A major player in bolstering BankAmerica"
+      "snippet": "Jun 3, 2026 · Analysis of the latest available data on credit card industry market share to compare Visa , Mastercard, American Express and others."
     }
   ]
 }

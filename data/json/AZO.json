@@ -1,37 +1,37 @@
 {
   "ticker": "AZO",
   "company_name": "AutoZone, Inc.",
-  "sector": "Consumer Cyclical / Auto Parts",
-  "industry": "Automotive Parts Retailer",
+  "sector": "Consumer Cyclical",
+  "industry": "Auto Parts",
   "upstream": [
     "Bosch",
     "Denso",
-    "Delphi",
-    "Magna",
-    "Continental"
+    "Magna International",
+    "Continental",
+    "Delphi Technologies"
   ],
   "downstream": [
-    "Independent repair shops",
-    "Automotive service centers",
-    "Automotive technicians",
-    "Car enthusiasts",
-    "Fleet maintenance operators"
+    "Independent automotive repair shops",
+    "Car owners and enthusiasts",
+    "Fleet operators",
+    "Commercial vehicle maintenance providers",
+    "Automotive service centers"
   ],
   "competitors": [
     "O'Reilly Auto Parts",
     "Advance Auto Parts",
     "NAPA Auto Parts",
     "Pep Boys",
-    "Carquest"
+    "Auto Parts Warehouse"
   ],
   "key_products": [
-    "Aftermarket automotive parts",
-    "Automotive accessories",
-    "Car batteries",
+    "Automotive replacement parts",
+    "Batteries",
     "Oil filters",
-    "Brake components"
+    "Brake pads",
+    "Spark plugs"
   ],
-  "extracted_at": "2026-06-08 18:29:23",
+  "extracted_at": "2026-06-16 19:40:30",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.alibaba.com/",
+      "url": "https://www.autozone.com/?intcmp=yext_header_logo",
       "query": "AutoZone, Inc. suppliers manufacturers",
-      "snippet": "Find quality Manufacturers , Suppliers , Exporters, Importers, Buyers, Wholesalers, Products and Trade Leads from our award-winning International Trad"
+      "snippet": "Autozone Home."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.autozone.com/locations/",
+      "url": "https://www.buzzfile.com/business/Autozone-954-942-0106",
       "query": "AutoZone, Inc. suppliers manufacturers",
-      "snippet": "Autozone Locations | Oil Pump - Find The Right Part at The Right Pric…"
+      "snippet": "Autozone , Inc . (trade name Autozone ) is in the Automotive Parts business. View competitors, revenue, employees, website and phone number.Contact In"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ru.wikipedia.org/wiki/AutoZone",
+      "url": "https://reviews.birdeye.com/autozone-inc-687013824",
       "query": "AutoZone, Inc. major customers clients",
-      "snippet": "AutoZone — компания США по продаже автомобильных комплектующих и аксессуаров. Компания была основана в 1979 году, ей принадлежит около 7000 магазинов "
+      "snippet": "Read 753 customer reviews of Autozone , Inc ., one of the best Automotive businesses at 5821 Culebra Rd, San Antonio, TX 78228 United States.. Find re"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.autozone.com/locations/",
+      "url": "https://www.thestreet.com/retail/autozone-makes-harsh-change-customers-will-notice-in-stores",
       "query": "AutoZone, Inc. major customers clients",
-      "snippet": "Browse one of our 6383 locations to find your local AutoZone ."
+      "snippet": "Inside An AutoZone Inc . Store. Prices at AutoZone have increased this year because of the Trump administration’s tariffs. Auto -parts customers have "
     }
   ]
 }

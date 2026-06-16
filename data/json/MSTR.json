@@ -1,43 +1,55 @@
 {
   "ticker": "MSTR",
-  "company_name": "Strategy Inc",
+  "company_name": "MicroStrategy Incorporated",
   "sector": "Technology",
   "industry": "Software - Application",
   "upstream": [
     "MSFT",
     "AMZN",
-    "GOOGL",
     "ORCL",
-    "IBM"
+    "IBM",
+    "DELL"
   ],
   "downstream": [
-    "Bank of America",
     "JPMorgan Chase",
+    "Bank of America",
+    "Citigroup",
     "Walmart",
-    "Coca-Cola",
-    "General Motors"
+    "UnitedHealth Group"
   ],
   "competitors": [
-    "SAP SE",
-    "IBM",
-    "ORCL",
+    "Tableau Software",
     "MSFT",
-    "Tableau"
+    "Qlik",
+    "GOOGL",
+    "Sisense"
   ],
   "key_products": [
     "MicroStrategy Desktop",
-    "MicroStrategy Web",
+    "MicroStrategy Server",
+    "MicroStrategy Cloud",
     "MicroStrategy Mobile",
-    "MicroStrategy Analytics",
-    "MicroStrategy Cloud"
+    "MicroStrategy Analytics"
   ],
-  "extracted_at": "2026-06-15 19:51:50",
+  "extracted_at": "2026-06-16 19:41:10",
   "sources": [
     {
       "source": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Strategy_Inc",
-      "title": "MicroStrategy",
-      "snippet": "Strategy Inc., formerly known as MicroStrategy, is an American company that provides business intelligence (BI) and mobile software. Founded in 1989 by Michael J. Saylor, Sanju Bansal, and Thomas Spah"
+      "url": "",
+      "title": "",
+      "snippet": ""
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://finance.yahoo.com/quote/MSTR/",
+      "query": "Strategy Inc suppliers manufacturers",
+      "snippet": "Find the latest Strategy Inc (MSTR) stock quote, history, news and other vital information to help you with your stock trading and investing."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://tr.investing.com/equities/microstrategy-inc",
+      "query": "Strategy Inc suppliers manufacturers",
+      "snippet": "MSTR hisse detayları (117,02). Hisse senedi ile ilgili grafiklere, teknik analizlere, Strategy fiyatları (MSTR) raporlarına ve daha fazlasına ulaşın."
     },
     {
       "source": "DuckDuckGo",

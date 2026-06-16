@@ -13,25 +13,25 @@
   "downstream": [
     "Enterprise customers (e.g., banks, government agencies)",
     "DELL",
-    "Consumer users of Windows, Office, Xbox",
-    "Cloud customers using Azure",
-    "SMB and developer communities"
+    "Retail consumers",
+    "CAT",
+    "Gaming studios"
   ],
   "competitors": [
     "AAPL",
     "GOOGL",
     "AMZN",
     "ORCL",
-    "CRM"
+    "IBM"
   ],
   "key_products": [
     "Windows operating system",
     "Microsoft Office suite",
     "Azure cloud platform",
-    "Surface hardware line",
+    "Microsoft Teams",
     "Xbox gaming console"
   ],
-  "extracted_at": "2026-06-15 19:39:37",
+  "extracted_at": "2026-06-16 19:29:28",
   "sources": [
     {
       "source": "Wikipedia",
@@ -50,6 +50,18 @@
       "url": "https://csimarket.com/stocks/suppliers_glance.php?code=MSFT",
       "query": "Microsoft Corporation suppliers manufacturers",
       "snippet": "News about Microsoft Corporation Contracts. Microsoft 's Comment on Supply Chain. We develop most of our products and services internally through four"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/MSFT-Customers",
+      "query": "Microsoft Corporation major customers clients",
+      "snippet": "19 hours ago · Microsoft's Comment on Sales, Marketing and Customers We distribute software through OEMs that pre-install our software on new PCs, tab"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.microsoft.com/en-us/customers/",
+      "query": "Microsoft Corporation major customers clients",
+      "snippet": "Explore customer success stories to learn how businesses are overcoming challenges, driving innovation, and achieving more with Microsoft solutions."
     }
   ]
 }

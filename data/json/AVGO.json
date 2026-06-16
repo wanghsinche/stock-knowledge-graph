@@ -1,43 +1,67 @@
 {
   "ticker": "AVGO",
   "company_name": "Broadcom Inc.",
-  "sector": "Technology",
-  "industry": "Semiconductors",
+  "sector": "Technology / Semiconductors",
+  "industry": "Semiconductor Design & Manufacturing",
   "upstream": [
-    "ASML",
-    "AMAT",
-    "LRCX",
-    "Tokyo Electron",
-    "KLA Corporation"
+    "TSM",
+    "005930.KS",
+    "GlobalFoundries",
+    "UMC",
+    "ASML"
   ],
   "downstream": [
-    "AMZN",
-    "MSFT",
-    "GOOGL",
     "CSCO",
-    "DELL"
+    "DELL",
+    "HPQ",
+    "AMZN",
+    "MSFT"
   ],
   "competitors": [
-    "INTC",
     "QCOM",
+    "INTC",
     "NVDA",
-    "TXN",
-    "MU"
+    "MRVL",
+    "QRVO"
   ],
   "key_products": [
-    "Broadcom BCM series Ethernet controllers",
-    "Broadcom Wi‑Fi chips",
-    "Broadcom broadband modems",
-    "Broadcom storage controllers",
-    "Broadcom network infrastructure software"
+    "Ethernet controllers",
+    "Wi‑Fi chips",
+    "Bluetooth chips",
+    "Broadband modems",
+    "Network processors"
   ],
-  "extracted_at": "2026-06-15 19:40:34",
+  "extracted_at": "2026-06-16 19:29:51",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Broadcom_Inc.",
       "title": "Broadcom",
       "snippet": "Broadcom Inc. is an American multinational designer, developer, manufacturer, and global supplier of a wide range of semiconductor and infrastructure software products. Broadcom's product offerings se"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/AVGO-Suppliers",
+      "query": "Broadcom Inc. suppliers manufacturers",
+      "snippet": "Broadcom Inc supply chain, list and performance of Broadcom Incs ' suppliers - CSIMarket."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.globalspec.com/supplier/profile/Broadcom",
+      "query": "Broadcom Inc. suppliers manufacturers",
+      "snippet": "Broadcom Inc . business profile on GlobalSpec. Read about Broadcom Inc ., browse product catalogs and product areas.Business Type: Manufacturer . Supp"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/AVGO-Customers",
+      "query": "Broadcom Inc. major customers clients",
+      "snippet": "Broadcom Inc 's Comment on Sales, Marketing and Customers We sell our products to leading wired and wireless communications manufacturers. We have als"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://news.broadcom.com/category/customers",
+      "query": "Broadcom Inc. major customers clients",
+      "snippet": "May 19, 2026 · USSFCU: Powering Financial Wellness with Broadcom ’s Private Cloud and Private AI Broadcom Customer Achievement Awards recognize and ce"
     }
   ]
 }

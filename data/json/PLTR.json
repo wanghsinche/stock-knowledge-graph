@@ -4,40 +4,64 @@
   "sector": "Technology",
   "industry": "Software - Infrastructure",
   "upstream": [
-    "INTC",
-    "NVDA",
     "AMZN",
     "MSFT",
-    "GOOGL"
+    "GOOGL",
+    "DELL",
+    "HPQ"
   ],
   "downstream": [
     "U.S. Department of Defense",
+    "U.S. Department of Homeland Security",
     "JPMorgan Chase",
-    "Boeing",
-    "Lockheed Martin",
-    "Walmart"
+    "Goldman Sachs",
+    "UnitedHealth Group"
   ],
   "competitors": [
     "Snowflake",
     "Databricks",
     "Splunk",
-    "IBM",
-    "MSFT"
+    "CRM",
+    "Qlik"
   ],
   "key_products": [
-    "Foundry",
-    "Gotham",
-    "Apollo",
-    "Palantir Platform",
-    "Palantir Helix"
+    "Palantir Foundry",
+    "Palantir Gotham",
+    "Palantir Apollo",
+    "Palantir Helix",
+    "Palantir Platform"
   ],
-  "extracted_at": "2026-06-15 19:42:22",
+  "extracted_at": "2026-06-16 19:33:22",
   "sources": [
     {
       "source": "Wikipedia",
-      "url": "",
-      "title": "",
-      "snippet": ""
+      "url": "https://en.wikipedia.org/wiki/Palantir_Technologies_Inc.",
+      "title": "Palantir",
+      "snippet": "Palantir Technologies Inc. is an American publicly traded company that develops data integration and analytics software. Palantir is headquartered in Miami, Florida, and was founded in 2003 by Peter T"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/PLTR-Suppliers",
+      "query": "Palantir Technologies Inc. suppliers manufacturers",
+      "snippet": "2 days ago · Palantir Technologies Inc 's Suppliers recorded an increase in sales by 33.09 % year on year in Q1 2026, sequentially sales grew by 3.39 "
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://fintel.io/doc/sec-palantir-technologies-inc-1321655-ex211-2023-february-21-19410-4071",
+      "query": "Palantir Technologies Inc. suppliers manufacturers",
+      "snippet": "Palantir Technologies Inc . - List of subsidiaries of Palantir Technologies Inc . - EX-21.1 - February 21, 2023 Palantir Technologies Inc . US ˙ Nasda"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.designgurus.io/answers/detail/who-are-the-main-customers-of-palantir",
+      "query": "Palantir Technologies Inc. major customers clients",
+      "snippet": "Who are the main customers of Palantir? Palantir Technologies serves a diverse clientele across government and commercial sectors, providing data anal"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://data.landbase.com/technology/palantir/",
+      "query": "Palantir Technologies Inc. major customers clients",
+      "snippet": "Aug 17, 2025 · Companies using Palantir by Palantir Technologies Inc in 2026 As of 2026, 1,479 verified companies use Palantir – across industries, co"
     }
   ]
 }

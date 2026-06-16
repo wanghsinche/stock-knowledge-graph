@@ -1,18 +1,18 @@
 ---
 ticker: WMT
 company: Walmart Inc.
-sector: Consumer Defensive / Discount Stores
-industry: Retail - Discount Stores
-extracted_at: 2026-06-11 18:50:28
-last_updated: 2026-06-11
+sector: Consumer Defensive
+industry: Discount Stores
+extracted_at: 2026-06-16 19:40:57
+last_updated: 2026-06-16
 ---
 
 # WMT - Walmart Inc.
 
 ## 基本信息
 
-- **所属行业**: Consumer Defensive / Discount Stores / Retail - Discount Stores
-- **提取时间**: 2026-06-11 18:50:28
+- **所属行业**: Consumer Defensive / Discount Stores
+- **提取时间**: 2026-06-16 19:40:57
 
 ## 产业链关系
 
@@ -21,37 +21,37 @@ last_updated: 2026-06-11
 - [[Coca‑Cola]]
 - [[PepsiCo]]
 - [[Nestlé]]
-- [[Johnson & Johnson]]
+- [[Walmart Private‑Label Suppliers]]
 
 ### 下游客户
-- [[U.S. consumers]]
-- [[International consumers]]
-- [[Online shoppers]]
-- [[Grocery shoppers]]
-- [[Pharmacy customers]]
+- [[U.S. Consumers]]
+- [[International Consumers]]
+- [[Small Businesses]]
+- [[Online Shoppers]]
+- [[Corporate Clients]]
 
 ### 竞争对手
 - [[Target]]
 - [[Costco]]
-- [[Kroger]]
-- [[Aldi]]
+- [[AMZN]]
+- [[BJ’s Wholesale Club]]
 - [[Dollar General]]
 
 ### 核心产品
-- [[General merchandise]]
-- [[Grocery]]
-- [[Pharmacy products]]
+- [[Groceries]]
+- [[Household Goods]]
+- [[Apparel]]
 - [[Electronics]]
-- [[Clothing]]
+- [[Pharmacy Products]]
 
 ## 数据来源
 
 - [Walmart](https://en.wikipedia.org/wiki/Walmart_Inc.)
-- [Walmart Inc. suppliers manufacturers](https://corporate.walmart.com/suppliers)
-- [Walmart Inc. suppliers manufacturers](https://solatatech.com/article/5-key-suppliers-of-walmart)
-- [Walmart Inc. major customers clients](https://capitaloneshopping.com/research/walmart-statistics/)
-- [Walmart Inc. major customers clients](https://businessmodelanalyst.com/walmart-target-market/)
+- [Walmart Inc. suppliers manufacturers](https://csimarket.com/stocks/suppliers_glance.php?code=WMT)
+- [Walmart Inc. suppliers manufacturers](https://www.alibaba.com/)
+- [Walmart Inc. major customers clients](https://www.walmart.com/)
+- [Walmart Inc. major customers clients](https://www.walmart.com.gt/)
 
 ## 元数据
 
-- **更新日期**: 2026-06-11
+- **更新日期**: 2026-06-16

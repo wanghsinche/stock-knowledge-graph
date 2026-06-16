@@ -3,8 +3,8 @@ ticker: NFLX
 company: Netflix, Inc.
 sector: Communication Services
 industry: Entertainment
-extracted_at: 2026-06-15 19:50:45
-last_updated: 2026-06-15
+extracted_at: 2026-06-16 19:32:43
+last_updated: 2026-06-16
 ---
 
 # NFLX - Netflix, Inc.
@@ -12,46 +12,46 @@ last_updated: 2026-06-15
 ## 基本信息
 
 - **所属行业**: Communication Services / Entertainment
-- **提取时间**: 2026-06-15 19:50:45
+- **提取时间**: 2026-06-16 19:32:43
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Content production studios (e.g., Warner Bros., Universal)]]
+- [[Disney Studios]]
+- [[Warner Bros. Studios]]
+- [[Universal Studios]]
+- [[SONY]]
 - [[AMZN]]
-- [[Content delivery network providers (Akamai)]]
-- [[AAPL]]
-- [[Marketing and distribution partners]]
 
 ### 下游客户
-- [[Individual subscribers worldwide]]
-- [[Corporate accounts (airlines, hotels)]]
-- [[Smart TV and console users]]
-- [[Mobile app users]]
-- [[Streaming device users]]
+- [[US households]]
+- [[UK households]]
+- [[Canada households]]
+- [[India households]]
+- [[Brazil households]]
 
 ### 竞争对手
 - [[Disney+]]
-- [[AMZN]]
-- [[Hulu]]
 - [[HBO Max]]
+- [[AMZN]]
 - [[AAPL]]
+- [[Hulu]]
 
 ### 核心产品
 - [[Netflix streaming service]]
-- [[Original series and films]]
-- [[Licensed movies and shows]]
-- [[Mobile and web apps]]
-- [[Smart TV and console apps]]
+- [[Original series]]
+- [[Original movies]]
+- [[Documentaries]]
+- [[Kids programming]]
 
 ## 数据来源
 
 - [Netflix, Inc.](https://en.wikipedia.org/wiki/Netflix,_Inc.)
 - [Netflix, Inc. suppliers manufacturers](https://csimarket.com/stocks/NFLX-Suppliers)
 - [Netflix, Inc. suppliers manufacturers](https://www.alibaba.com/)
-- [Netflix, Inc. competitors alternatives](https://csimarket.com/stocks/NFLX-Competitors)
-- [Netflix, Inc. competitors alternatives](https://financhill.com/stocks/sp500/nflx/competitors)
+- [Netflix, Inc. major customers clients](https://csimarket.com/stocks/NFLX-Customers)
+- [Netflix, Inc. major customers clients](https://ir.netflix.net/ir-overview/profile/default.aspx)
 
 ## 元数据
 
-- **更新日期**: 2026-06-15
+- **更新日期**: 2026-06-16

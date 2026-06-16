@@ -1,43 +1,67 @@
 {
   "ticker": "NOW",
   "company_name": "ServiceNow, Inc.",
-  "sector": "Technology / Software - Application",
-  "industry": "Enterprise Software",
+  "sector": "Technology",
+  "industry": "Software - Application",
   "upstream": [
     "AMZN",
     "MSFT",
     "GOOGL",
+    "DELL",
+    "CSCO"
+  ],
+  "downstream": [
+    "Large enterprises",
+    "Government agencies",
+    "Financial institutions",
+    "Retail companies",
+    "Technology companies"
+  ],
+  "competitors": [
+    "MSFT",
+    "CRM",
+    "SAP SuccessFactors",
     "ORCL",
     "IBM"
   ],
-  "downstream": [
-    "Walmart",
-    "JPMorgan Chase",
-    "Bank of America",
-    "Coca-Cola",
-    "General Motors"
-  ],
-  "competitors": [
-    "CRM",
-    "SAP",
-    "MSFT",
-    "IBM",
-    "ORCL"
-  ],
   "key_products": [
-    "ServiceNow Platform",
+    "Now Platform",
     "IT Service Management (ITSM)",
     "IT Operations Management (ITOM)",
-    "Customer Service Management (CSM)",
-    "HR Service Delivery"
+    "IT Business Management (ITBM)",
+    "Customer Service Management (CSM)"
   ],
-  "extracted_at": "2026-06-15 19:52:25",
+  "extracted_at": "2026-06-16 19:42:27",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/ServiceNow,_Inc.",
       "title": "ServiceNow",
       "snippet": "ServiceNow, Inc. is an American software company that supplies cloud computing platforms for the creation and management of automated business workflows. The company was founded in Santa Clara, Califo"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.servicenow.com/",
+      "query": "ServiceNow, Inc. suppliers manufacturers",
+      "snippet": "Streamline your enterprise workflows with the ServiceNow AI Platform—empowering both customers and employees in every corner of your business."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.alibaba.com/",
+      "query": "ServiceNow, Inc. suppliers manufacturers",
+      "snippet": "Find quality Manufacturers , Suppliers , Exporters, Importers, Buyers, Wholesalers, Products and Trade Leads from our award-winning International Trad"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.aventionmedia.com/technology-installed-base/servicenow/",
+      "query": "ServiceNow, Inc. major customers clients",
+      "snippet": "Discover Avention Media’s accurate and customizable ServiceNow customers list. Our verified ServiceNow data helps you target key decision-makers and c"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://data.landbase.com/technology/servicenow/",
+      "query": "ServiceNow, Inc. major customers clients",
+      "snippet": "Aug 17, 2025 · ServiceNow by ServiceNow, is a cloud-based platform designed for digital workflows. It’s commonly employed to automate and enhance vari"
     }
   ]
 }

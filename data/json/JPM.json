@@ -4,64 +4,64 @@
   "sector": "Financial Services",
   "industry": "Banks - Diversified",
   "upstream": [
-    "ORCL",
-    "Payment processors (e.g., Visa, Mastercard)",
-    "Data providers (e.g., Bloomberg, Thomson Reuters)",
-    "MSFT",
-    "Cybersecurity vendors (e.g., Palo Alto Networks)"
+    "Technology vendors",
+    "Consulting firms",
+    "Legal service providers",
+    "Insurance providers",
+    "Infrastructure providers"
   ],
   "downstream": [
-    "Retail banking customers",
+    "Retail customers",
     "Corporate clients",
-    "Institutional investors",
-    "Wealth management clients",
-    "Small business customers"
+    "Investment banking clients",
+    "Asset management clients",
+    "Private banking clients"
   ],
   "competitors": [
-    "Bank of America (BAC)",
-    "Citigroup (C)",
-    "Wells Fargo (WFC)",
-    "Goldman Sachs (GS)",
-    "Morgan Stanley (MS)"
+    "Bank of America",
+    "Citigroup",
+    "Wells Fargo",
+    "Goldman Sachs",
+    "Morgan Stanley"
   ],
   "key_products": [
-    "Investment banking services",
-    "Retail banking and credit cards",
-    "Wealth management and private banking",
-    "Mortgage and consumer lending",
-    "Treasury and securities services"
+    "Retail banking",
+    "Commercial banking",
+    "Investment banking",
+    "Asset management",
+    "Wealth management"
   ],
-  "extracted_at": "2026-06-12 18:07:04",
+  "extracted_at": "2026-06-16 19:34:52",
   "sources": [
     {
       "source": "Wikipedia",
-      "url": "",
-      "title": "",
-      "snippet": ""
+      "url": "https://en.wikipedia.org/wiki/JPMorgan_Chase_&_Co.",
+      "title": "JPMorgan Chase",
+      "snippet": "JPMorgan Chase & Co. is an American multinational banking institution headquartered in New York City and incorporated in Delaware. It is the largest bank in the United States, and the world's largest "
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.jpmorganchase.com/about/suppliers",
+      "query": "JPMorgan Chase & Co. suppliers manufacturers",
+      "snippet": "Building strong partnerships is the cornerstone of our success. At JPMorganChase , we place particular value in our supplier partnerships. Thanks to t"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://suppliercentral.jpmchase.com/",
+      "query": "JPMorgan Chase & Co. suppliers manufacturers",
+      "snippet": "Access JPMorgan Chase 's Preferred Supplier portal for streamlined payment solutions, reduced administrative costs, and efficient transactions."
     },
     {
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/JPMorgan_Chase",
-      "query": "JPMorgan Chase & Co. suppliers manufacturers",
+      "query": "JPMorgan Chase & Co. major customers clients",
       "snippet": "JPMorgan Chase & Co . (stylized as JPMorganChase ) is an American multinational banking institution headquartered in New York City and incorporated in"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ru.wikipedia.org/wiki/JPMorgan_Chase",
-      "query": "JPMorgan Chase & Co. suppliers manufacturers",
-      "snippet": "JPMorgan Chase & Co , «Дж. П. Морган Чейз и Ко.» — американский транснациональный финансовый конгломерат, один из крупнейших банков мира. Штаб-квартир"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/JPMorgan_Chase",
+      "url": "https://www.jpmorganchase.com/",
       "query": "JPMorgan Chase & Co. major customers clients",
-      "snippet": "Today, the firm is a major provider of investment banking services, through corporate advisory, mergers and acquisitions, sales and trading, and publi"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/JPM-Customers",
-      "query": "JPMorgan Chase & Co. major customers clients",
-      "snippet": "For your research, we’ve provided 9 tables on Jpmorgan Chase and Co corporate clients . You can find them in the navigation menu under Customers & Mar"
+      "snippet": "JPMorganChase serves millions of customers , clients and communities in over 100 global markets.We are united by a purpose that weaves together what w"
     }
   ]
 }

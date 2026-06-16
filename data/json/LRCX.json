@@ -4,11 +4,11 @@
   "sector": "Technology",
   "industry": "Semiconductor Equipment & Materials",
   "upstream": [
-    "BASF",
-    "Chemours",
-    "DuPont",
-    "Merck",
-    "SABIC"
+    "Air Liquide",
+    "Shin-Etsu Chemical",
+    "Sumitomo Chemical",
+    "Siltronic",
+    "Tokyo Electron"
   ],
   "downstream": [
     "INTC",
@@ -21,23 +21,47 @@
     "AMAT",
     "Tokyo Electron",
     "ASML",
-    "KLA",
-    "LRCX"
+    "ASM International",
+    "KLA-Tencor"
   ],
   "key_products": [
-    "etch systems",
-    "deposition systems",
-    "wafer cleaning systems",
-    "wafer‑level packaging equipment",
-    "plasma etch & deposition solutions"
+    "Plasma etch systems",
+    "Plasma deposition systems",
+    "Wafer cleaning systems",
+    "Wafer-level packaging equipment",
+    "Back-end processing equipment"
   ],
-  "extracted_at": "2026-06-15 19:44:11",
+  "extracted_at": "2026-06-16 19:34:04",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Lam_Research_Corporation",
       "title": "Lam Research",
       "snippet": "Lam Research Corporation is an American supplier of wafer-fabrication equipment and related services to the semiconductor industry. Its products are used primarily in front-end wafer processing, which"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://newsroom.lamresearch.com/2025-01-14-Lam-Research-Establishes-28nm-Pitch-in-High-Resolution-Patterning-Through-Dry-Photoresist-Technology",
+      "query": "Lam Research Corporation suppliers manufacturers",
+      "snippet": "About Lam Research Lam Research Corporation is a global supplier of innovative wafer fabrication equipment and services to the semiconductor industry."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.alibaba.com/",
+      "query": "Lam Research Corporation suppliers manufacturers",
+      "snippet": "Find quality Manufacturers , Suppliers , Exporters, Importers, Buyers, Wholesalers, Products and Trade Leads from our award-winning International Trad"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/Lam_Research",
+      "query": "Lam Research Corporation major customers clients",
+      "snippet": "Lam Research Corporation is an American supplier of wafer-fabrication equipment and related services to the semiconductor industry. [2] Its products a"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/LRCX-Customers",
+      "query": "Lam Research Corporation major customers clients",
+      "snippet": "2 days ago · Lam Research 's Comment on Sales, Marketing and Customers Our marketing, sales, and service efforts are focused on building long-term rel"
     }
   ]
 }

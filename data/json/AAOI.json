@@ -1,43 +1,67 @@
 {
   "ticker": "AAOI",
   "company_name": "Applied Optoelectronics, Inc.",
-  "sector": "Technology / Communication Equipment",
-  "industry": "Optical Components & Systems",
+  "sector": "Technology",
+  "industry": "Communication Equipment",
   "upstream": [
-    "Glass fiber manufacturers",
-    "Precision machining equipment suppliers",
-    "META",
-    "Adhesive and coating suppliers",
-    "Electronic component suppliers"
+    "Corning Inc.",
+    "Lumentum Holdings Inc.",
+    "II-VI Incorporated",
+    "Coherent Inc.",
+    "Finisar Corporation"
   ],
   "downstream": [
+    "AT&T Inc.",
     "CAT",
-    "Data center infrastructure vendors",
-    "Network equipment manufacturers",
-    "Cable and fiber optic installation companies",
-    "Enterprise IT infrastructure providers"
+    "Comcast",
+    "GOOGL",
+    "AMZN"
   ],
   "competitors": [
     "Corning Inc.",
-    "Lumentum Holdings",
+    "Lumentum Holdings Inc.",
     "II-VI Incorporated",
-    "Coherent, Inc.",
-    "OptoSigma"
+    "Finisar Corporation",
+    "Coherent Inc."
   ],
   "key_products": [
-    "Fiber optic connectors",
-    "Optical couplers",
-    "Optical splitters",
-    "Optical power meters",
-    "Fiber optic patch panels"
+    "Fiber‑optic transceivers",
+    "Optical amplifiers",
+    "Fiber‑optic cables",
+    "Optical connectors",
+    "Optical switches"
   ],
-  "extracted_at": "2026-06-15 19:49:46",
+  "extracted_at": "2026-06-16 19:37:03",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "",
       "title": "",
       "snippet": ""
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.nanotechnologyworld.org/directory/applied-optoelectronics-inc.",
+      "query": "Applied Optoelectronics, Inc. suppliers manufacturers",
+      "snippet": "Applied Optoelectronics , Inc . (AOI) is a leading provider of fiber-optic networking products. They design and manufacture a range of optical compone"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://danelfin.com/stock/AAOI",
+      "query": "Applied Optoelectronics, Inc. suppliers manufacturers",
+      "snippet": "Applied Optoelectronics Inc (AAOI) AI stock analysis with rating, fundamental, technical & sentiment insights. Applied Optoelectronics , Inc . designs"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/AAOI-Customers",
+      "query": "Applied Optoelectronics, Inc. major customers clients",
+      "snippet": "Applied Optoelectronics Inc customers and markets, results by customer and performance relative to AAOI, by company and industry - CSIMarket."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://uk.investing.com/news/stock-market-news/applied-optoelectronics-stock-surges-after-first-volume-shipment-to-major-customer-93CH-4129566",
+      "query": "Applied Optoelectronics, Inc. major customers clients",
+      "snippet": "Investing.com -- Applied Optoelectronics , Inc . (NASDAQ:AAOI) stock jumped 13.2% following the company’s announcement of its first volume shipment of"
     }
   ]
 }

@@ -8,14 +8,14 @@
     "005930.KS",
     "GlobalFoundries",
     "INTC",
-    "UMC"
+    "SK Hynix"
   ],
   "downstream": [
     "AAPL",
     "005930.KS",
-    "Xiaomi",
     "Huawei",
-    "Oppo"
+    "Xiaomi",
+    "SONY"
   ],
   "competitors": [
     "MediaTek",
@@ -26,12 +26,12 @@
   ],
   "key_products": [
     "Snapdragon mobile processors",
-    "5G modem chips",
+    "5G modems",
     "AI inference chips",
-    "Wi‑Fi and Bluetooth chips",
-    "LTE/4G modems"
+    "RF front‑end ICs",
+    "SoC solutions for IoT"
   ],
-  "extracted_at": "2026-06-15 19:51:14",
+  "extracted_at": "2026-06-16 19:33:51",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://qualcomm.com/",
-      "query": "QUALCOMM Incorporated suppliers manufacturers",
-      "snippet": "Director of product management, Qualcomm Technologies, Inc ."
-    },
-    {
-      "source": "DuckDuckGo",
       "url": "https://finance.yahoo.com/quote/QCOM/",
       "query": "QUALCOMM Incorporated suppliers manufacturers",
       "snippet": "Find the latest QUALCOMM Incorporated (QCOM) stock quote, history, news and other vital information to help you with your stock trading and investing."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.qualcomm.com/",
-      "query": "QUALCOMM Incorporated products services offerings",
-      "snippet": "Snapdragon and Qualcomm branded products are products of Qualcomm Technologies, Inc . and/or its subsidiaries.Note: Certain services and materials may"
+      "url": "https://www.qualcomm.com/company",
+      "query": "QUALCOMM Incorporated suppliers manufacturers",
+      "snippet": "Review Qualcomm 's corporate history, values, and history of innovation. Qualcomm helps transform industries, create new experiences, and support the "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/QCOM/",
-      "query": "QUALCOMM Incorporated products services offerings",
-      "snippet": "Find the latest QUALCOMM Incorporated (QCOM) stock quote, history, news and other vital information to help you with your stock trading and investing."
+      "url": "https://www.qualcomm.com/company",
+      "query": "QUALCOMM Incorporated major customers clients",
+      "snippet": "Review Qualcomm 's corporate history, values, and history of innovation. Qualcomm helps transform industries, create new experiences, and support the "
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://uk.finance.yahoo.com/news/apple-house-modem-chips-threaten-132313888.html",
+      "query": "QUALCOMM Incorporated major customers clients",
+      "snippet": "\" QUALCOMM Incorporated (NASDAQ:QCOM) (Information Technology, Semiconductors) is held due to its best-in-class Corporate Resilience score, scoring hi"
     }
   ]
 }

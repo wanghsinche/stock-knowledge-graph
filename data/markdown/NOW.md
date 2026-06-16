@@ -1,18 +1,18 @@
 ---
 ticker: NOW
 company: ServiceNow, Inc.
-sector: Technology / Software - Application
-industry: Enterprise Software
-extracted_at: 2026-06-15 19:52:25
-last_updated: 2026-06-15
+sector: Technology
+industry: Software - Application
+extracted_at: 2026-06-16 19:42:27
+last_updated: 2026-06-16
 ---
 
 # NOW - ServiceNow, Inc.
 
 ## 基本信息
 
-- **所属行业**: Technology / Software - Application / Enterprise Software
-- **提取时间**: 2026-06-15 19:52:25
+- **所属行业**: Technology / Software - Application
+- **提取时间**: 2026-06-16 19:42:27
 
 ## 产业链关系
 
@@ -20,34 +20,38 @@ last_updated: 2026-06-15
 - [[AMZN]]
 - [[MSFT]]
 - [[GOOGL]]
-- [[ORCL]]
-- [[IBM]]
+- [[DELL]]
+- [[CSCO]]
 
 ### 下游客户
-- [[Walmart]]
-- [[JPMorgan Chase]]
-- [[Bank of America]]
-- [[Coca-Cola]]
-- [[General Motors]]
+- [[Large enterprises]]
+- [[Government agencies]]
+- [[Financial institutions]]
+- [[Retail companies]]
+- [[Technology companies]]
 
 ### 竞争对手
-- [[CRM]]
-- [[SAP]]
 - [[MSFT]]
-- [[IBM]]
+- [[CRM]]
+- [[SAP SuccessFactors]]
 - [[ORCL]]
+- [[IBM]]
 
 ### 核心产品
-- [[ServiceNow Platform]]
+- [[Now Platform]]
 - [[IT Service Management (ITSM)]]
 - [[IT Operations Management (ITOM)]]
+- [[IT Business Management (ITBM)]]
 - [[Customer Service Management (CSM)]]
-- [[HR Service Delivery]]
 
 ## 数据来源
 
 - [ServiceNow](https://en.wikipedia.org/wiki/ServiceNow,_Inc.)
+- [ServiceNow, Inc. suppliers manufacturers](https://www.servicenow.com/)
+- [ServiceNow, Inc. suppliers manufacturers](https://www.alibaba.com/)
+- [ServiceNow, Inc. major customers clients](https://www.aventionmedia.com/technology-installed-base/servicenow/)
+- [ServiceNow, Inc. major customers clients](https://data.landbase.com/technology/servicenow/)
 
 ## 元数据
 
-- **更新日期**: 2026-06-15
+- **更新日期**: 2026-06-16

@@ -4,40 +4,64 @@
   "sector": "Consumer Cyclical",
   "industry": "Internet Retail",
   "upstream": [
-    "Book publishers",
-    "Electronics manufacturers",
-    "Clothing brands",
-    "Consumer electronics manufacturers",
-    "Third‑party sellers"
+    "005930.KS",
+    "AAPL",
+    "Nike Inc.",
+    "UPS",
+    "INTC"
   ],
   "downstream": [
-    "Retail shoppers worldwide",
-    "Enterprise customers using AWS",
-    "AMZN",
-    "AMZN",
-    "Prime members"
+    "Prime members",
+    "NFLX",
+    "Airbnb",
+    "Walmart",
+    "Alibaba"
   ],
   "competitors": [
+    "eBay",
     "Walmart",
     "Alibaba",
-    "eBay",
-    "Shopify",
-    "MSFT"
+    "MSFT",
+    "GOOGL"
   ],
   "key_products": [
-    "Amazon.com e‑commerce platform",
-    "Amazon Web Services (AWS)",
-    "Amazon Prime membership",
-    "Amazon Echo/Alexa smart devices",
-    "Amazon Kindle e‑reader"
+    "Amazon Marketplace",
+    "Amazon Prime",
+    "Amazon Web Services",
+    "Amazon Echo (Alexa)",
+    "Amazon Kindle"
   ],
-  "extracted_at": "2026-06-15 19:40:19",
+  "extracted_at": "2026-06-16 19:30:07",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Amazon.com,_Inc.",
       "title": "Amazon (company)",
       "snippet": "Amazon.com, Inc. is an American multinational technology company engaged in e-commerce, cloud computing, online advertising, digital streaming, entertainment, and artificial intelligence. Founded in 1"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.alibaba.com/",
+      "query": "Amazon.com, Inc. suppliers manufacturers",
+      "snippet": "Find quality Manufacturers , Suppliers , Exporters, Importers, Buyers, Wholesalers, Products and Trade Leads from our award-winning International Trad"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.amazon.com.au/gp/css/homepage.html?ref_=nav_AccountFlyout_ya",
+      "query": "Amazon.com, Inc. suppliers manufacturers",
+      "snippet": "amazon . com .au›gp/css/homepage.html…"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/Amazon_(company)",
+      "query": "Amazon.com, Inc. major customers clients",
+      "snippet": "Amazon.com, Inc .[1] (doing business as Amazon) [a] is an American multinational technology company engaged in e-commerce, cloud computing, online adv"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://capitaloneshopping.com/research/amazon-statistics/",
+      "query": "Amazon.com, Inc. major customers clients",
+      "snippet": "Jun 4, 2026 · Statistics & analysis on Amazon including total sales (per year & minute), number of products (SKUs), customers , sellers & more."
     }
   ]
 }

@@ -6,16 +6,16 @@
   "upstream": [
     "Boeing",
     "Airbus",
-    "United Technologies",
-    "Honeywell",
-    "GE Aviation"
+    "Pratt & Whitney",
+    "GE Aviation",
+    "Honeywell"
   ],
   "downstream": [
     "Corporate travel clients",
-    "Leisure travelers",
-    "Freight and cargo customers",
+    "Individual leisure travelers",
     "Travel agencies",
-    "Online travel platforms"
+    "Corporate loyalty program members",
+    "Cargo shippers"
   ],
   "competitors": [
     "Delta Air Lines",
@@ -25,19 +25,43 @@
     "JetBlue Airways"
   ],
   "key_products": [
-    "Domestic and international passenger flights",
-    "Cargo and freight services",
-    "Loyalty program (AAdvantage)",
-    "In‑flight entertainment and Wi‑Fi",
-    "Maintenance, repair, and overhaul (MRO) services"
+    "Passenger air transport",
+    "Cargo transport",
+    "Frequent Flyer program",
+    "In‑flight entertainment and connectivity",
+    "Airport lounge access"
   ],
-  "extracted_at": "2026-06-15 19:48:35",
+  "extracted_at": "2026-06-16 19:36:50",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/American_Airlines_Group_Inc.",
       "title": "American Airlines Group",
       "snippet": "American Airlines Group Inc. is an American publicly traded airline holding company headquartered in Fort Worth, Texas. It was formed on December 9, 2013, by the merger of AMR Corporation, the parent "
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/American_Airlines_Group",
+      "query": "American Airlines Group Inc. suppliers manufacturers",
+      "snippet": "American Airlines Group Inc . is an American publicly traded airline holding company headquartered in Fort Worth, Texas. It was formed on December 9, "
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/AAL-Suppliers",
+      "query": "American Airlines Group Inc. suppliers manufacturers",
+      "snippet": "2 days ago · American Airlines Group Inc 's Suppliers recorded an increase in sales by 10.62 % year on year in Q1 2026, from the previous quarter, sal"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/American_Airlines_Group",
+      "query": "American Airlines Group Inc. major customers clients",
+      "snippet": "American Airlines Group Inc . is an American publicly traded airline holding company headquartered in Fort Worth, Texas. It was formed on December 9, "
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.aa.com/i18n/customer-service/about-us/american-airlines-group.jsp",
+      "query": "American Airlines Group Inc. major customers clients",
+      "snippet": "In 2016, American Airlines Group Inc . topped Fortune magazine’s list of best business turnarounds, and its stock (NASDAQ: AAL) joined the S&P 500 ind"
     }
   ]
 }

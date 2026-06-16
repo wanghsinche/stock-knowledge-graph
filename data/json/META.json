@@ -5,39 +5,63 @@
   "industry": "Internet Content & Information",
   "upstream": [
     "NVDA",
-    "AMD",
+    "QCOM",
     "INTC",
-    "DELL",
-    "CSCO"
+    "005930.KS",
+    "AMD"
   ],
   "downstream": [
-    "Advertisers",
-    "App developers",
-    "Content creators",
-    "Users",
-    "Business partners"
+    "005930.KS",
+    "App developers using Facebook SDK",
+    "META",
+    "Game developers on Facebook Gaming",
+    "Content creators on Instagram and TikTok"
   ],
   "competitors": [
     "GOOGL",
     "AMZN",
     "AAPL",
-    "Snap Inc.",
-    "ByteDance Ltd."
+    "MSFT",
+    "TikTok (ByteDance)"
   ],
   "key_products": [
     "Facebook",
     "Instagram",
     "WhatsApp",
     "Meta Quest",
-    "Meta Business Suite"
+    "Meta Ads"
   ],
-  "extracted_at": "2026-06-15 19:40:05",
+  "extracted_at": "2026-06-16 19:31:03",
   "sources": [
     {
       "source": "Wikipedia",
-      "url": "",
-      "title": "",
-      "snippet": ""
+      "url": "https://en.wikipedia.org/wiki/Meta_Platforms,_Inc.",
+      "title": "Meta Platforms",
+      "snippet": "Meta Platforms, Inc. is an American multinational technology company headquartered in Menlo Park, California. Meta owns and operates several prominent social media platforms and communication services"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/META-Suppliers",
+      "query": "Meta Platforms, Inc. suppliers manufacturers",
+      "snippet": "2 days ago · Meta Platforms Inc 's Suppliers recorded an increase in sales by 14.33 % year on year in Q1 2026, sequentially sales grew by 13.48 %, Met"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.suppliersmap.com/meta",
+      "query": "Meta Platforms, Inc. suppliers manufacturers",
+      "snippet": "Meta Meta works with leading technology suppliers for its AR/VR products, including Qualcomm for advanced processors, Sony and other display manufactu"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/Meta_Platforms",
+      "query": "Meta Platforms, Inc. major customers clients",
+      "snippet": "Meta Platforms , Inc . (doing business as Meta) is an American multinational technology company headquartered in Menlo Park, California. Meta owns and"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/META-Customers",
+      "query": "Meta Platforms, Inc. major customers clients",
+      "snippet": "Jun 8, 2026 · Meta Platforms Inc 's Comment on Sales, Marketing and Customers The majority of our marketers use our self-service ad platform to establ"
     }
   ]
 }

@@ -5,39 +5,63 @@
   "industry": "Internet Content & Information",
   "upstream": [
     "NVDA",
-    "AMD",
     "INTC",
-    "AMZN",
-    "MSFT"
+    "AMD",
+    "GOOGL",
+    "AMZN"
   ],
   "downstream": [
     "GOOGL",
-    "AMZN",
     "MSFT",
+    "AMZN",
     "META",
-    "TSLA"
+    "Alibaba"
   ],
   "competitors": [
-    "NVDA",
-    "AMD",
-    "INTC",
-    "GOOGL",
-    "MSFT"
+    "OpenAI",
+    "Anthropic",
+    "Cohere",
+    "Stability AI",
+    "DeepMind"
   ],
   "key_products": [
-    "Nebius AI Platform",
-    "Nebius Cloud",
-    "Nebius AI Services",
-    "Nebius AI Infrastructure",
-    "Nebius AI Solutions"
+    "Nebius AI Infrastructure Platform",
+    "Avride",
+    "TripleTen",
+    "Toloka",
+    "Clickhouse"
   ],
-  "extracted_at": "2026-06-15 19:42:55",
+  "extracted_at": "2026-06-16 19:33:00",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/NBIS",
       "title": "Nebius Group",
       "snippet": "Nebius Group N.V., headquartered in Amsterdam, is a technology company that provides artificial intelligence infrastructure. The company also owns Avride and TripleTen, as well as stakes in Toloka and"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/suppliers_glance.php?code=NBIS",
+      "query": "NBIS suppliers manufacturers",
+      "snippet": "NBIS 's Suppliers Management Effectiveness. NBIS 's Competitors Results. NBIS 's vs. Suppliers , Data. (Revenue and Income for Trailing 12 Months, in "
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.youtube.com/watch?v=k6hi9ypXEJA",
+      "query": "NBIS suppliers manufacturers",
+      "snippet": "There's another name emerging in the tech space. Nebius Group ( NBIS ) is gaining traction through its A.I. infrastructure business."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/NBIS-Customers",
+      "query": "NBIS major customers clients",
+      "snippet": "Nebius Group N V customers and markets, results by customer and performance relative to NBIS , by company and industry - CSIMarket"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.dcsa.mil/Systems-Applications/National-Background-Investigation-Services-NBIS/",
+      "query": "NBIS major customers clients",
+      "snippet": "The purpose of NBIS is to modernize, streamline and secure the entire process to enhance the user experience and provide a reliable and integrated set"
     }
   ]
 }

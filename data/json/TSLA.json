@@ -1,43 +1,67 @@
 {
   "ticker": "TSLA",
   "company_name": "Tesla, Inc.",
-  "sector": "Consumer Cyclical",
+  "sector": "Consumer Discretionary",
   "industry": "Auto Manufacturers",
   "upstream": [
+    "Panasonic",
+    "LG Chem",
     "CAT",
-    "Automotive parts suppliers (e.g., Bosch, Denso)",
-    "Steel and aluminum suppliers",
-    "Electronic component suppliers",
-    "Software and AI providers"
+    "005930.KS",
+    "SK Innovation"
   ],
   "downstream": [
     "Individual consumers",
     "Commercial fleet operators",
     "Government agencies",
-    "Ride‑hailing services",
-    "Energy storage customers"
+    "Ride‑hailing companies",
+    "Corporate fleets"
   ],
   "competitors": [
-    "Ford Motor Company",
+    "Ford",
     "General Motors",
-    "Rivian Automotive",
-    "Lucid Motors",
-    "BYD"
+    "Volkswagen",
+    "Nissan",
+    "Toyota"
   ],
   "key_products": [
-    "Model S",
     "Model 3",
+    "Model S",
     "Model X",
     "Model Y",
     "Cybertruck"
   ],
-  "extracted_at": "2026-06-15 19:38:40",
+  "extracted_at": "2026-06-16 19:28:22",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Tesla,_Inc.",
       "title": "Tesla, Inc.",
       "snippet": "Tesla, Inc. is an American multinational automotive and clean energy company. Headquartered in Austin, Texas, it designs, manufactures, and sells battery electric vehicles (BEVs), stationary battery e"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/Tesla,_Inc.",
+      "query": "Tesla, Inc. suppliers manufacturers",
+      "snippet": "Tesla , Inc . is an American multinational automotive and clean energy company.The company was incorporated in July 2003 by Martin Eberhard and Marc T"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/suppliers_glance.php?code=TSLA",
+      "query": "Tesla, Inc. suppliers manufacturers",
+      "snippet": "Tesla Inc 's Suppliers Performance. TSLA's Supply Chain. Tesla relies on a wide range of suppliers beyond just battery manufacturers to build our elec"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/Tesla,_Inc.",
+      "query": "Tesla, Inc. major customers clients",
+      "snippet": "Tesla , Inc . is an American multinational automotive and clean energy company.The company was incorporated in July 2003 by Martin Eberhard and Marc T"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.tesla.com/",
+      "query": "Tesla, Inc. major customers clients",
+      "snippet": "Tesla Skip to main content. Vehicles. Energy.Learn. Video Guides. Customer Stories. Events."
     }
   ]
 }

@@ -3,17 +3,65 @@
   "company_name": "Seagate Technology Holdings plc",
   "sector": "Technology",
   "industry": "Computer Hardware",
-  "upstream": [],
-  "downstream": [],
-  "competitors": [],
-  "key_products": [],
-  "extracted_at": "2026-06-15 19:41:57",
+  "upstream": [
+    "MU",
+    "TXN",
+    "Magnetic media suppliers (e.g., TDK, Murata)",
+    "PCB and assembly providers (e.g., Flex Ltd., Jabil)",
+    "Precision machining and tooling suppliers"
+  ],
+  "downstream": [
+    "DELL",
+    "DELL",
+    "MSFT",
+    "AAPL",
+    "CAT"
+  ],
+  "competitors": [
+    "WDC",
+    "Toshiba",
+    "005930.KS",
+    "IBM",
+    "MU"
+  ],
+  "key_products": [
+    "Hard Disk Drives (HDD)",
+    "Solid State Drives (SSD)",
+    "Enterprise storage systems",
+    "Cloud storage solutions",
+    "Data center infrastructure"
+  ],
+  "extracted_at": "2026-06-16 19:31:17",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "",
       "title": "",
       "snippet": ""
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/STX-Suppliers",
+      "query": "Seagate Technology Holdings plc suppliers manufacturers",
+      "snippet": "Apr 30, 2026 · Seagate Technology Holdings Plc recorded increase in cost of sales by 18.93 % year on year, sequentially cost of sales grew by 0.97 % i"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.accio.com/business/seagate-products",
+      "query": "Seagate Technology Holdings plc suppliers manufacturers",
+      "snippet": "Apr 6, 2026 · This report provides a comprehensive analysis of Seagate Technology Holdings PLC , focusing on its financial performance, market strateg"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/Seagate_Technology",
+      "query": "Seagate Technology Holdings plc major customers clients",
+      "snippet": "Seagate Technology Holdings plc is an American data storage company. It was incorporated in 1978 as Shugart Technology and commenced business in 1979."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.seagate.com/",
+      "query": "Seagate Technology Holdings plc major customers clients",
+      "snippet": "Seagate Technology Holdings PLC ."
     }
   ]
 }

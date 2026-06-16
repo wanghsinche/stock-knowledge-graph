@@ -2,36 +2,36 @@
   "ticker": "ROKU",
   "company_name": "Roku, Inc.",
   "sector": "Communication Services / Entertainment",
-  "industry": "Streaming Video Distribution",
+  "industry": "Streaming Media",
   "upstream": [
     "QCOM",
-    "NVDA",
-    "MediaTek",
+    "MediaTek (chipsets)",
     "005930.KS",
-    "LG Electronics"
+    "LG Display (display panels)",
+    "NVDA"
   ],
   "downstream": [
     "NFLX",
-    "AMZN",
     "Disney+",
+    "AMZN",
     "Hulu",
-    "HBO Max"
+    "AAPL"
   ],
   "competitors": [
     "AMZN",
-    "GOOGL",
     "AAPL",
-    "Xiaomi Mi TV",
-    "005930.KS"
+    "GOOGL",
+    "NVDA",
+    "Xiaomi Mi TV Stick"
   ],
   "key_products": [
     "Roku Streaming Stick",
     "Roku Streaming Stick+",
     "Roku Ultra",
-    "Roku Smart TV",
-    "Roku TV"
+    "Roku TV",
+    "Roku Smart TV"
   ],
-  "extracted_at": "2026-06-15 19:44:44",
+  "extracted_at": "2026-06-16 19:38:34",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,15 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/ROKU-Suppliers",
+      "url": "https://en.wikipedia.org/wiki/Roku,_Inc.",
       "query": "Roku, Inc. suppliers manufacturers",
-      "snippet": "Roku Inc 's Suppliers Performance. ROKU 's Supply Chain.We outsource the manufacturing of our players to contract manufacturer , using our design spec"
+      "snippet": "In its initial years, Roku focused on making high-definition video players and launched the first connected TV device to stream Netflix in 2008. [7][1"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.roku.com/",
+      "url": "https://csimarket.com/stocks/ROKU-Suppliers",
       "query": "Roku, Inc. suppliers manufacturers",
-      "snippet": "Roku devices make streaming TV easy. From players, smart TVs, & even smart home products that make your home feel secure, find the perfect Roku produc"
+      "snippet": "May 3, 2026 · Roku Inc 's Comment on Supply Chain We outsource the manufacturing of our players to contract manufacturer, using our design specificati"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/ROKU-Customers",
+      "query": "Roku, Inc. major customers clients",
+      "snippet": "May 14, 2026 · Roku Inc 's Comment on Sales, Marketing and Customers We drive growth in our TV streaming platform by building relationships with conte"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.nullexposure.com/customers/roku",
+      "query": "Roku, Inc. major customers clients",
+      "snippet": "Roku 's customer map: platform scale, OEM exposure, and advertising leverage Roku operates a two-sided TV streaming platform that monetizes through pl"
     }
   ]
 }

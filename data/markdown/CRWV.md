@@ -1,57 +1,57 @@
 ---
 ticker: CRWV
 company: CoreWeave, Inc.
-sector: Technology / Software - Infrastructure
-industry: Cloud Computing / AI Infrastructure
-extracted_at: 2026-06-15 19:53:00
-last_updated: 2026-06-15
+sector: Technology
+industry: Software - Infrastructure
+extracted_at: 2026-06-16 19:31:51
+last_updated: 2026-06-16
 ---
 
 # CRWV - CoreWeave, Inc.
 
 ## 基本信息
 
-- **所属行业**: Technology / Software - Infrastructure / Cloud Computing / AI Infrastructure
-- **提取时间**: 2026-06-15 19:53:00
+- **所属行业**: Technology / Software - Infrastructure
+- **提取时间**: 2026-06-16 19:31:51
 
 ## 产业链关系
 
 ### 上游供应商
 - [[NVDA]]
 - [[AMD]]
-- [[INTC]]
-- [[Supermicro]]
 - [[DELL]]
+- [[HPQ]]
+- [[CSCO]]
 
 ### 下游客户
-- [[AI research labs]]
+- [[AI developers]]
 - [[Enterprise AI teams]]
-- [[Machine learning startups]]
-- [[Gaming developers]]
-- [[Data science firms]]
+- [[Research institutions]]
+- [[Startups]]
+- [[Large tech companies]]
 
 ### 竞争对手
-- [[AMZN]]
-- [[MSFT]]
-- [[GOOGL]]
 - [[NVDA]]
-- [[IBM]]
+- [[AWS Inferentia]]
+- [[GOOGL]]
+- [[MSFT]]
+- [[Lambda Labs]]
 
 ### 核心产品
-- [[GPU‑based AI cloud infrastructure]]
-- [[Custom chip‑management software]]
-- [[High‑performance computing (HPC) clusters]]
-- [[Scalable GPU leasing platform]]
-- [[AI workload orchestration tools]]
+- [[GPU cloud infrastructure]]
+- [[GPU-as-a-Service]]
+- [[AI compute platform]]
+- [[GPU management software]]
+- [[Custom AI workload orchestration]]
 
 ## 数据来源
 
 - [CoreWeave](https://en.wikipedia.org/wiki/CoreWeave,_Inc.)
 - [CoreWeave, Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/CoreWeave)
-- [CoreWeave, Inc. suppliers manufacturers](https://twelvedata.com/markets/180244/stock/nasdaq/crwv)
-- [CoreWeave, Inc. major customers clients](https://en.wikipedia.org/wiki/CoreWeave)
-- [CoreWeave, Inc. major customers clients](https://twelvedata.com/markets/180244/stock/nasdaq/crwv)
+- [CoreWeave, Inc. suppliers manufacturers](https://www.coreweave.com/)
+- [CoreWeave, Inc. major customers clients](https://csimarket.com/stocks/CRWV-Customers)
+- [CoreWeave, Inc. major customers clients](https://www.coreweave.com/case-studies)
 
 ## 元数据
 
-- **更新日期**: 2026-06-15
+- **更新日期**: 2026-06-16

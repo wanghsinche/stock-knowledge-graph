@@ -1,43 +1,71 @@
 {
   "ticker": "WDC",
   "company_name": "Western Digital Corporation",
-  "sector": "Technology / Computer Hardware",
-  "industry": "Data Storage",
+  "sector": "Technology",
+  "industry": "Computer Hardware",
   "upstream": [
-    "Silicon wafer suppliers",
-    "Magnetic material manufacturers",
-    "Electronic component suppliers",
-    "Firmware and software vendors",
-    "Precision machining providers"
+    "005930.KS",
+    "MU",
+    "SK Hynix",
+    "TDK",
+    "Silicon Motion"
   ],
   "downstream": [
     "DELL",
     "HPQ",
-    "Lenovo Group",
+    "Lenovo",
     "AAPL",
-    "005930.KS"
+    "MSFT"
   ],
   "competitors": [
     "STX",
-    "Toshiba Corporation",
+    "Toshiba (Kioxia)",
     "005930.KS",
     "MU",
-    "SK Hynix"
+    "INTC"
   ],
   "key_products": [
-    "Hard Disk Drives (HDDs)",
-    "Solid State Drives (SSDs)",
-    "External storage enclosures",
-    "Enterprise storage solutions",
-    "Network Attached Storage (NAS) devices"
+    "WD Blue HDD",
+    "WD Red HDD",
+    "WD Black HDD",
+    "WD Blue SSD",
+    "WD Green SSD",
+    "WD My Passport",
+    "WD Gold Enterprise HDD",
+    "WD Ultrastar Enterprise HDD",
+    "WD NAS Drives"
   ],
-  "extracted_at": "2026-06-15 19:40:54",
+  "extracted_at": "2026-06-16 19:29:15",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Western_Digital_Corporation",
       "title": "Western Digital",
       "snippet": "Western Digital Corporation, doing business as WD, is an American data storage company headquartered in San Jose, California. Established in 1970, the company is one of the world's largest manufacture"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://ru.wikipedia.org/wiki/Western_Digital",
+      "query": "Western Digital Corporation suppliers manufacturers",
+      "snippet": "Western Digital Corporation .SSD Western Digital Green 120 Gb. Western Digital Corporation (NASDAQ: WDC. , по-русски «Вестерн Диджитал»[3]) — компания"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://tradestie.com/apps/options/classic-analysis/WDC/",
+      "query": "Western Digital Corporation suppliers manufacturers",
+      "snippet": "Western Digital is a leading vertically integrated supplier of hard disk drives. The HDD market is a practical duopoly, with Western Digital and Seaga"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.researchandmarkets.com/reports/4028445/western-digital-corporation-company-profile",
+      "query": "Western Digital Corporation major customers clients",
+      "snippet": "Assess Western Digital Corporation as a prospective partner, vendor or supplier. Support sales activities by understanding your customers ' businesses"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.mycloud.com/",
+      "query": "Western Digital Corporation major customers clients",
+      "snippet": "© 2020 Western Digital Corporation или аффилированные лица."
     }
   ]
 }
