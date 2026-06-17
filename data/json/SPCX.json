@@ -4,35 +4,34 @@
   "sector": "Industrials",
   "industry": "Aerospace & Defense",
   "upstream": [
-    "Aerojet Rocketdyne (rocket engines)",
-    "Pratt & Whitney Rocket Systems (engines)",
-    "Linde (propellant gases)",
-    "Air Products & Chemicals (propellant gases)",
-    "Boeing (structural components)"
+    "Boeing",
+    "Lockheed Martin",
+    "Northrop Grumman",
+    "SpaceX's own manufacturing",
+    "SpaceX's own components"
   ],
   "downstream": [
-    "NASA (government contracts)",
-    "U.S. Department of Defense (military launches)",
-    "SpaceX Starlink customers (satellite broadband)",
-    "INTC",
-    "Private spaceflight customers (e.g., SpaceX Crew Dragon)"
+    "NASA",
+    "U.S. Department of Defense",
+    "AMZN",
+    "Starlink customers",
+    "Commercial satellite operators"
   ],
   "competitors": [
     "Blue Origin",
-    "United Launch Alliance (ULA)",
+    "United Launch Alliance",
+    "Arianespace",
     "Rocket Lab",
-    "Virgin Galactic",
-    "Arianespace"
+    "Relativity Space"
   ],
   "key_products": [
-    "Falcon 9 launch vehicle",
-    "Falcon Heavy launch vehicle",
-    "Starship launch vehicle",
-    "Dragon spacecraft",
-    "Starlink satellite constellation",
-    "Raptor rocket engine"
+    "Falcon 9",
+    "Falcon Heavy",
+    "Starship",
+    "Starlink satellites",
+    "Reusable rockets"
   ],
-  "extracted_at": "2026-06-16 19:27:33",
+  "extracted_at": "2026-06-17 18:09:00",
   "sources": [
     {
       "source": "Wikipedia",
@@ -42,21 +41,21 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www3.nasa.gov/specials/ESDSuppliersMap/",
+      "url": "https://www.accio.com/supplier/spacex-approved-supplier-list",
       "query": "Space Exploration Technologies Corp. suppliers manufacturers",
-      "snippet": "2019 Deep Space Exploration Systems Supplier Locations 2019 Supplier Locations"
+      "snippet": "3 days ago · Need SpaceX -approved suppliers ? Discover verified vendors for aerospace components and materials. Ensure quality compliance for your pr"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://sky-brokers.com/supplier/space-exploration-technologies-corp/",
+      "url": "https://www.spacex.com/supplier",
       "query": "Space Exploration Technologies Corp. suppliers manufacturers",
-      "snippet": "Space Exploration Technologies Corp . (SpaceX) is a US based aerospace manufacturer and space transportation company headquartered in Hawthorne, Calif"
+      "snippet": "While SpaceX develops and manufactures its technologies and products in-house, often times we can leverage specialized, small, nimble, or local suppli"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/SpaceX",
       "query": "Space Exploration Technologies Corp. major customers clients",
-      "snippet": "1 day ago - Space Exploration Technologies Corporation, doing business as SpaceX, is an American public spaceflight, telecommunications, and artificia"
+      "snippet": "6 hours ago - As of 2026, SpaceX conducts more orbital launches annually than any other launch provider, including private competitors and national pr"
     },
     {
       "source": "DuckDuckGo",

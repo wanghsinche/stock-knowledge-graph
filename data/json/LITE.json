@@ -1,36 +1,37 @@
 {
   "ticker": "LITE",
   "company_name": "Lumentum Holdings Inc.",
-  "sector": "Technology",
-  "industry": "Communication Equipment",
+  "sector": "Technology / Communication Equipment",
+  "industry": "Photonics",
   "upstream": [
-    "Coherent Inc.",
-    "II-VI Incorporated",
-    "Optical fiber manufacturers",
-    "Laser diode manufacturers",
-    "Component suppliers for photonics"
+    "Semiconductor manufacturers",
+    "Fiber optic cable manufacturers",
+    "Laser diode suppliers",
+    "Photonic integrated circuit suppliers",
+    "Optical component suppliers"
   ],
   "downstream": [
-    "CAT",
-    "Data center operators",
-    "Enterprise networking vendors",
-    "Defense and aerospace contractors",
+    "CSCO",
+    "DELL",
+    "TSLA",
+    "Aerospace and defense companies",
     "Medical device manufacturers"
   ],
   "competitors": [
     "II-VI Incorporated",
     "Coherent Inc.",
-    "Newport Corporation",
-    "Lumenis"
+    "Trumpf",
+    "Lattice Photonics",
+    "Infinera"
   ],
   "key_products": [
-    "Laser diodes",
-    "Optical amplifiers",
+    "Optical transmitters",
+    "Optical receivers",
+    "Laser modules",
     "Photonic integrated circuits",
-    "Optical transceivers",
-    "Fiber optic components"
+    "Optical amplifiers"
   ],
-  "extracted_at": "2026-06-16 19:31:40",
+  "extracted_at": "2026-06-17 18:12:42",
   "sources": [
     {
       "source": "Wikipedia",
@@ -40,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://pitchgrade.com/companies/lumentum",
-      "query": "Lumentum Holdings Inc. suppliers manufacturers",
-      "snippet": "How Does Lumentum Holdings Inc . Make Money? Lumentum Holdings Inc . manufactures and sells optical and photonic products in the Americas, the Asia-Pa"
-    },
-    {
-      "source": "DuckDuckGo",
       "url": "https://www.lumentum.com/",
       "query": "Lumentum Holdings Inc. suppliers manufacturers",
       "snippet": "Discover how Lumentum enables innovation through optical and photonic technologies for cloud networking, 3D sensing, lasers, and advanced manufacturin"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://pitchgrade.com/companies/lumentum",
-      "query": "Lumentum Holdings Inc. major customers clients",
-      "snippet": "Customer Segments: Lumentum Holdings Inc . serves multiple distinct customer segments, which may include consumers, small and medium businesses, enter"
+      "url": "https://csimarket.com/stocks/at_glance.php?code=LITE",
+      "query": "Lumentum Holdings Inc. suppliers manufacturers",
+      "snippet": "Lumentum Holdings Inc 's Suppliers . Lumentum Holdings Inc ., a leading manufacturer of optical communication products for telecommunications, fiber l"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.lumentum.com/",
+      "url": "https://csimarket.com/stocks/LITE-Customers",
       "query": "Lumentum Holdings Inc. major customers clients",
-      "snippet": "Discover how Lumentum enables innovation through optical and photonic technologies for cloud networking, 3D sensing, lasers, and advanced manufacturin"
+      "snippet": "1 day ago · Lumentum Holdings Inc customers and markets, results by customer and performance relative to LITE, by company and industry - CSIMarket"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://investor.lumentum.com/overview/default.aspx",
+      "query": "Lumentum Holdings Inc. major customers clients",
+      "snippet": "1 day ago · Built on decades of photonics innovation, Lumentum delivers high-performance lasers, modules, and optical subsystems that enable scalable,"
     }
   ]
 }

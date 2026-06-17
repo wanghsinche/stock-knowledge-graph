@@ -6,32 +6,32 @@
   "upstream": [
     "NVDA",
     "AMD",
-    "DELL",
-    "HPQ",
-    "CSCO"
+    "INTC",
+    "QCOM",
+    "AVGO"
   ],
   "downstream": [
     "AI developers",
-    "Enterprise AI teams",
-    "Research institutions",
+    "Enterprise customers",
     "Startups",
-    "Large tech companies"
+    "Research institutions",
+    "Gaming companies"
   ],
   "competitors": [
-    "NVDA",
-    "AWS Inferentia",
-    "GOOGL",
+    "AMZN",
     "MSFT",
-    "Lambda Labs"
+    "GOOGL",
+    "IBM",
+    "NVDA"
   ],
   "key_products": [
     "GPU cloud infrastructure",
-    "GPU-as-a-Service",
-    "AI compute platform",
-    "GPU management software",
-    "Custom AI workload orchestration"
+    "Chip management software",
+    "GPU virtualization services",
+    "AI compute clusters",
+    "Data center management tools"
   ],
-  "extracted_at": "2026-06-16 19:31:51",
+  "extracted_at": "2026-06-17 18:14:16",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,25 +43,25 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/CoreWeave",
       "query": "CoreWeave, Inc. suppliers manufacturers",
-      "snippet": "CoreWeave , Inc . is an American artificial intelligence (AI) cloud-computing company based in Livingston, New Jersey. It specializes in providing clo"
+      "snippet": "CoreWeave , Inc . is an American artificial intelligence cloud-computing company based in Livingston, New Jersey."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.coreweave.com/",
+      "url": "https://www.coreweave.com/products/nvidia-blackwell",
       "query": "CoreWeave, Inc. suppliers manufacturers",
-      "snippet": "CoreWeave Cloud is an AI-native platform purpose-built for AI. It combines next-generation infrastructure, intelligent tools, and expert support to po"
+      "snippet": "CoreWeave earns SemiAnalysis’ Platinum ClusterMAX™ rating.Zero egress data migration to CoreWeave with no fees, no lock-in, and expert-led transfers t"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/CRWV-Customers",
+      "url": "https://en.wikipedia.org/wiki/CoreWeave",
       "query": "CoreWeave, Inc. major customers clients",
-      "snippet": "19 hours ago · Coreweave Inc customers and markets, results by customer and performance relative to CRWV, by company and industry - CSIMarket"
+      "snippet": "CoreWeave , Inc . is an American artificial intelligence cloud-computing company based in Livingston, New Jersey. It specializes in providing cloud-ba"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.coreweave.com/case-studies",
+      "url": "https://brokstock.co.za/markets/us-shares/crwv/",
       "query": "CoreWeave, Inc. major customers clients",
-      "snippet": "Customer stories Where Customers Become Pioneers Discover how CoreWeave customers transform ambition into achievement. These pioneers are shaping the "
+      "snippet": "Financial overview of CoreWeave Inc , Share CFDs including CRWV Stock Price, charts, analysis, share historical data and more."
     }
   ]
 }

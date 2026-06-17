@@ -4,34 +4,34 @@
   "sector": "Technology",
   "industry": "Semiconductors",
   "upstream": [
+    "Silicon wafer suppliers",
+    "Chemical and photoresist manufacturers",
     "AMAT",
-    "ASML",
-    "LRCX",
-    "Tokyo Electron",
-    "KLA"
+    "META",
+    "Packaging and test equipment providers"
   ],
   "downstream": [
     "AAPL",
     "DELL",
     "HPQ",
-    "Lenovo",
-    "AMZN"
+    "Lenovo Group Ltd.",
+    "MSFT"
   ],
   "competitors": [
     "005930.KS",
     "SK Hynix",
+    "Kioxia (formerly Toshiba Memory)",
     "WDC",
-    "INTC",
-    "Nanya Technology"
+    "SK hynix"
   ],
   "key_products": [
-    "DRAM",
-    "NAND flash",
-    "HBM",
-    "SSD",
-    "Memory modules"
+    "Dynamic Random-Access Memory (DRAM)",
+    "NAND Flash Memory",
+    "High Bandwidth Memory (HBM)",
+    "Solid-State Drives (SSDs)",
+    "Embedded DRAM (eDRAM)"
   ],
-  "extracted_at": "2026-06-16 19:27:43",
+  "extracted_at": "2026-06-17 18:09:09",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,7 +43,7 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Micron_Technology",
       "query": "Micron Technology, Inc. suppliers manufacturers",
-      "snippet": "15 hours ago - In the 2012 to 2014 period, Micron again went through an acquisition-layoff cycle, becoming the majority shareholder of Inotera Memorie"
+      "snippet": "7 hours ago - In the 2012 to 2014 period, Micron again went through an acquisition-layoff cycle, becoming the majority shareholder of Inotera Memories"
     },
     {
       "source": "DuckDuckGo",
@@ -53,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/MU-Customers",
-      "query": "Micron Technology, Inc. major customers clients",
-      "snippet": "Micron Technology Inc 's Comment on Sales, Marketing and Customers Our products are sold into compute and graphics, mobile, SSD and other storage, aut"
-    },
-    {
-      "source": "DuckDuckGo",
       "url": "https://www.micron.com/markets-industries/customer-and-partner-storage-success",
       "query": "Micron Technology, Inc. major customers clients",
       "snippet": "Explore how Micron Technology collaborates with customers and partners to create storage solutions that enable the world's most advanced workloads."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.marketscreener.com/quote/stock/MICRON-TECHNOLOGY-INC-13639/finances-segments/",
+      "query": "Micron Technology, Inc. major customers clients",
+      "snippet": "1 day ago · Understand how activity and revenue gets distributed for Micron Technology , Inc . (MU). Ten-year segmentation history. The entire stock m"
     }
   ]
 }

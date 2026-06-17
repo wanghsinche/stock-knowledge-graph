@@ -1,57 +1,57 @@
 ---
 ticker: APP
 company: AppLovin Corporation
-sector: Communication Services
-industry: Advertising Agencies
-extracted_at: 2026-06-16 19:33:35
-last_updated: 2026-06-16
+sector: Communication Services / Advertising Agencies
+industry: Mobile Advertising & Marketing
+extracted_at: 2026-06-17 18:14:39
+last_updated: 2026-06-17
 ---
 
 # APP - AppLovin Corporation
 
 ## 基本信息
 
-- **所属行业**: Communication Services / Advertising Agencies
-- **提取时间**: 2026-06-16 19:33:35
+- **所属行业**: Communication Services / Advertising Agencies / Mobile Advertising & Marketing
+- **提取时间**: 2026-06-17 18:14:39
 
 ## 产业链关系
 
 ### 上游供应商
-- [[GOOGL]]
-- [[AAPL]]
-- [[Facebook]]
-- [[MSFT]]
 - [[AMZN]]
+- [[GOOGL]]
+- [[MSFT]]
+- [[AppLovin Data Partners]]
+- [[GOOGL]]
 
 ### 下游客户
-- [[Mobile game developers]]
-- [[App developers]]
-- [[Digital marketers]]
-- [[Advertising agencies]]
-- [[Brand advertisers]]
+- [[Supercell]]
+- [[King]]
+- [[TikTok]]
+- [[Nike]]
+- [[005930.KS]]
 
 ### 竞争对手
+- [[The Trade Desk]]
+- [[AppNexus (Xandr)]]
+- [[AdColony]]
 - [[Unity Ads]]
-- [[AdMob]]
-- [[IronSource]]
 - [[Vungle]]
-- [[Chartboost]]
 
 ### 核心产品
 - [[Mobile advertising platform]]
-- [[User acquisition solutions]]
-- [[App monetization tools]]
+- [[App acquisition & user acquisition]]
+- [[App monetization solutions]]
 - [[Data analytics & attribution]]
-- [[Video ad formats]]
+- [[Real‑time bidding & ad serving]]
 
 ## 数据来源
 
 - 
-- [AppLovin Corporation suppliers manufacturers](https://en.wikipedia.org/wiki/AppLovin)
-- [AppLovin Corporation suppliers manufacturers](https://csimarket.com/stocks/APP-Suppliers)
+- [AppLovin Corporation suppliers manufacturers](https://umbrex.com/resources/company-profiles/applovin/)
+- [AppLovin Corporation suppliers manufacturers](https://sherwood.news/markets/applovin-tumbles-company-dismisses-negative-report-as-false-misleading-and/)
 - [AppLovin Corporation major customers clients](https://en.wikipedia.org/wiki/AppLovin)
 - [AppLovin Corporation major customers clients](https://www.appsruntheworld.com/customers-database/vendors/view/applovin)
 
 ## 元数据
 
-- **更新日期**: 2026-06-16
+- **更新日期**: 2026-06-17

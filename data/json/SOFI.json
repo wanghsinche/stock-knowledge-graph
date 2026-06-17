@@ -4,64 +4,64 @@
   "sector": "Financial Services",
   "industry": "Credit Services",
   "upstream": [
-    "Payment processors (e.g., Stripe, PayPal)",
     "AMZN",
-    "Data analytics vendors (e.g., Experian, Equifax)",
-    "Regulatory compliance software providers",
-    "Cybersecurity solutions providers"
+    "Stripe (payment processing)",
+    "Plaid (financial data aggregation)",
+    "MSFT",
+    "Fidelity Investments (investment platform integration)"
   ],
   "downstream": [
     "Individual consumers seeking personal loans",
     "Students refinancing loans",
-    "Small business owners",
-    "Homebuyers seeking mortgages",
+    "Small business owners borrowing for working capital",
+    "Homeowners seeking mortgage refinancing",
     "Investors using SoFi Invest platform"
   ],
   "competitors": [
     "LendingClub",
     "Upstart",
     "Marcus by Goldman Sachs",
-    "Traditional banks (e.g., JPMorgan Chase)",
-    "Other fintech lenders (e.g., Kabbage, OnDeck)"
+    "SoFi's own competitor: Varo Money",
+    "SoFi's competitor: Chime"
   ],
   "key_products": [
     "Personal loans",
     "Student loan refinancing",
-    "Mortgage loans",
-    "Credit card",
-    "Investment platform (SoFi Invest)"
+    "Mortgage refinancing",
+    "Credit cards",
+    "Investment accounts (stocks, ETFs, crypto)"
   ],
-  "extracted_at": "2026-06-16 19:38:05",
+  "extracted_at": "2026-06-17 18:15:16",
   "sources": [
     {
       "source": "Wikipedia",
-      "url": "",
-      "title": "",
-      "snippet": ""
+      "url": "https://en.wikipedia.org/wiki/SoFi_Technologies,_Inc.",
+      "title": "SoFi",
+      "snippet": "SoFi Technologies, Inc. is an American financial technology company operating as a branchless bank. As of 2026, SoFi is the largest U.S.-based online lender, with nearly 15 million customers."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.sofi.com/",
+      "url": "https://csimarket.com/stocks/SOFI-Suppliers",
       "query": "SoFi Technologies, Inc. suppliers manufacturers",
-      "snippet": "Why do 12.6M members trust SoFi? Financial solutions for school, marriage, starting a family, home buying, retirement, or whatever's next. Member FDIC"
+      "snippet": "May 9, 2026 · For your research, we’ve provided nine additional tables on Sofi Technologies Inc ’ s suppliers . You can find them in the navigation me"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.sec.gov/Archives/edgar/data/1818874/000181887425000016/sofi-20241231.htm",
+      "url": "https://www.accio.com/business/sofi",
       "query": "SoFi Technologies, Inc. suppliers manufacturers",
-      "snippet": "A financial services marketplace platform developed to help small businesses and individuals who do not qualify for SoFi products."
+      "snippet": "Mar 4, 2026 · Discover top SOFI suppliers in sanitary napkins, fiber optics, and sofas . Get a detailed company analysis report with verified recommen"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/SOFI/",
+      "url": "https://en.wikipedia.org/wiki/SoFi",
       "query": "SoFi Technologies, Inc. major customers clients",
-      "snippet": "SoFi Technologies , Inc . ( SOFI ). Is SOFI a buy now? SoFi Technologies , Inc . provides various financial services in the United States, Latin Ameri"
+      "snippet": "In April 2025, SoFi stated that 41% of its annualized revenues were fee-based, including the fees from the company’s loan platform business, interchan"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://investors.sofi.com/financials/quarterly-results/default.aspx",
+      "url": "https://csimarket.com/stocks/SOFI-Customers",
       "query": "SoFi Technologies, Inc. major customers clients",
-      "snippet": "SAN FRANCISCO--(BUSINESS WIRE)-- SoFi Technologies , Inc . (NASDAQ: SOFI ), a member-centric, everything app for digital financial services that helps"
+      "snippet": "May 16, 2026 · Updated on: Focus of this report: Sofi Technologies Inc ’ s corporate clients . For your research, we’ve provided 9 tables on Sofi Tech"
     }
   ]
 }

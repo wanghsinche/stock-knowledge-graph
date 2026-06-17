@@ -4,52 +4,64 @@
   "sector": "Financial Services",
   "industry": "Banks - Diversified",
   "upstream": [
-    "MSFT",
-    "Payment processors (Visa, Mastercard)",
-    "Data providers (Bloomberg, S&P Global)",
-    "Cloud services (AWS, Azure)",
-    "Cybersecurity firms (Symantec, Palo Alto)"
+    "Technology vendors",
+    "IT services providers",
+    "Office equipment suppliers",
+    "Security services",
+    "Legal and consulting firms"
   ],
   "downstream": [
     "Retail banking customers",
-    "Small business clients",
-    "Corporate banking clients",
+    "Corporate clients",
+    "Investment banking clients",
     "Mortgage borrowers",
-    "Investment banking clients"
+    "Small and medium enterprises"
   ],
   "competitors": [
     "JPMorgan Chase",
-    "Citigroup",
     "Wells Fargo",
+    "Citigroup",
     "Goldman Sachs",
     "Morgan Stanley"
   ],
   "key_products": [
-    "Consumer banking",
-    "Small business banking",
-    "Wealth management",
+    "Retail banking services",
+    "Commercial banking",
     "Investment banking",
-    "Credit cards"
+    "Wealth management",
+    "Mortgage lending"
   ],
-  "extracted_at": "2026-05-27 18:37:03",
+  "extracted_at": "2026-06-17 18:18:29",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Bank_of_America_Corporation",
       "title": "Bank of America",
-      "snippet": "The Bank of America Corporation is an American multinational investment bank and financial services holding company headquartered at the Bank of America Corporate Center in Charlotte, North Carolina, "
+      "snippet": "The Bank of America Corporation is an American multinational bank and financial services holding company headquartered at the Bank of America Corporate Center in Charlotte, North Carolina, with invest"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://about.bankofamerica.com/en/our-company/supplier-management",
+      "query": "Bank of America Corporation suppliers manufacturers",
+      "snippet": "Bank of America is dedicated to partnering with suppliers who value ethics, inclusion, human rights, and the environment. Learn more about our supplie"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/BAC-Suppliers",
+      "query": "Bank of America Corporation suppliers manufacturers",
+      "snippet": "4 days ago · For your research, we’ve provided nine additional tables on Bank Of America Corporation ’s suppliers . You can find them in the navigatio"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Bank_of_America",
-      "query": "Bank of America Corporation suppliers manufacturers",
-      "snippet": "The Bank of America Corporation is an American multinational investment bank and financial services holding company headquartered at the Bank of Ameri"
+      "query": "Bank of America Corporation major customers clients",
+      "snippet": "It serves about 10 percent of all American bank deposits, in direct competition with JPMorgan Chase, Citigroup, and Wells Fargo. Its primary financial"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.bankofamerica.com/online-banking/sign-in/",
-      "query": "Bank of America Corporation suppliers manufacturers",
-      "snippet": "Log in to Mobile & Online Banking to access your personal and small business accounts, see balances, transfer funds, pay bills and more. Bank of Ameri"
+      "url": "https://newsroom.bankofamerica.com/content/newsroom/company-overview/bank-of-america-fast-facts.html",
+      "query": "Bank of America Corporation major customers clients",
+      "snippet": "Apr 16, 2026 · Explore Bank of America Fast Facts for key insights on our global presence, financial services, client reach, and commitment to respons"
     }
   ]
 }

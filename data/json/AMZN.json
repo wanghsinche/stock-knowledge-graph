@@ -4,34 +4,34 @@
   "sector": "Consumer Cyclical",
   "industry": "Internet Retail",
   "upstream": [
-    "005930.KS",
-    "AAPL",
-    "Nike Inc.",
-    "UPS",
-    "INTC"
+    "Book publishers",
+    "Electronics manufacturers",
+    "Apparel brands",
+    "Home goods manufacturers",
+    "Third‑party sellers"
   ],
   "downstream": [
-    "Prime members",
-    "NFLX",
-    "Airbnb",
-    "Walmart",
-    "Alibaba"
+    "Individual consumers",
+    "Small businesses",
+    "Large enterprises (AWS customers)",
+    "Advertisers",
+    "Content creators"
   ],
   "competitors": [
-    "eBay",
     "Walmart",
+    "eBay",
     "Alibaba",
-    "MSFT",
-    "GOOGL"
+    "Shopify",
+    "MSFT"
   ],
   "key_products": [
-    "Amazon Marketplace",
+    "Amazon.com marketplace",
+    "Amazon Web Services (AWS)",
     "Amazon Prime",
-    "Amazon Web Services",
-    "Amazon Echo (Alexa)",
-    "Amazon Kindle"
+    "Amazon Advertising",
+    "Amazon Echo/Alexa"
   ],
-  "extracted_at": "2026-06-16 19:30:07",
+  "extracted_at": "2026-06-17 18:11:23",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.alibaba.com/",
+      "url": "https://supply.amazon.com/",
       "query": "Amazon.com, Inc. suppliers manufacturers",
-      "snippet": "Find quality Manufacturers , Suppliers , Exporters, Importers, Buyers, Wholesalers, Products and Trade Leads from our award-winning International Trad"
+      "snippet": "Join Amazon' s global network of suppliers to be considered for opportunities to sell Amazon the goods and services necessary to support our retail an"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.amazon.com.au/gp/css/homepage.html?ref_=nav_AccountFlyout_ya",
+      "url": "https://www.accio.com/supplier/amazon-suppliers-list",
       "query": "Amazon.com, Inc. suppliers manufacturers",
-      "snippet": "amazon . com .au›gp/css/homepage.html…"
+      "snippet": "Jun 3, 2026 · Looking for reliable Amazon suppliers ? Explore our curated list of verified manufacturers across electronics, apparel, and supplements."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Amazon_(company)",
+      "url": "https://ir.aboutamazon.com/",
       "query": "Amazon.com, Inc. major customers clients",
-      "snippet": "Amazon.com, Inc .[1] (doing business as Amazon) [a] is an American multinational technology company engaged in e-commerce, cloud computing, online adv"
+      "snippet": "Twitter. Youtube. Shop Amazon . com ."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://capitaloneshopping.com/research/amazon-statistics/",
+      "url": "https://sellercentral.amazon.com/",
       "query": "Amazon.com, Inc. major customers clients",
-      "snippet": "Jun 4, 2026 · Statistics & analysis on Amazon including total sales (per year & minute), number of products (SKUs), customers , sellers & more."
+      "snippet": "Log in to your Amazon seller account, or sign up to create a seller account.Increase sales with better listings. Fulfillment by Amazon . Outsource shi"
     }
   ]
 }

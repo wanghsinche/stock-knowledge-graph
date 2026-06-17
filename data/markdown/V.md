@@ -3,8 +3,8 @@ ticker: V
 company: Visa Inc.
 sector: Financial Services
 industry: Credit Services
-extracted_at: 2026-06-16 19:37:27
-last_updated: 2026-06-16
+extracted_at: 2026-06-17 18:18:19
+last_updated: 2026-06-17
 ---
 
 # V - Visa Inc.
@@ -12,46 +12,46 @@ last_updated: 2026-06-16
 ## 基本信息
 
 - **所属行业**: Financial Services / Credit Services
-- **提取时间**: 2026-06-16 19:37:27
+- **提取时间**: 2026-06-17 18:18:19
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Chip manufacturers (e.g., NXP, STMicroelectronics)]]
-- [[Card production vendors (e.g., IDEMIA, Giesecke+Devrient)]]
-- [[Payment network infrastructure providers]]
+- [[Chip and card manufacturers (e.g., Gemalto, IDEMIA)]]
 - [[MSFT]]
-- [[Security and compliance service providers]]
+- [[Payment processing software vendors (e.g., Stripe, PayPal)]]
+- [[Data center operators (e.g., Equinix)]]
+- [[Security and compliance service providers (e.g., Symantec)]]
 
 ### 下游客户
-- [[Commercial banks and credit unions]]
-- [[Retail merchants and e‑commerce platforms]]
-- [[Consumer cardholders (individuals)]]
-- [[Financial institutions issuing Visa‑branded cards]]
-- [[Payment service providers (e.g., PayPal, Square)]]
+- [[Retail banks and credit unions (e.g., JPMorgan Chase, Bank of America)]]
+- [[AMZN]]
+- [[Government agencies (e.g., U.S. Treasury, State Departments)]]
+- [[AAPL]]
+- [[Financial institutions in emerging markets (e.g., ICICI Bank, Banco do Brasil)]]
 
 ### 竞争对手
 - [[Mastercard]]
 - [[American Express]]
-- [[Discover Financial Services]]
+- [[Discover]]
+- [[UnionPay]]
 - [[PayPal]]
-- [[Square (Cash App)]]
 
 ### 核心产品
-- [[Visa credit cards]]
-- [[Visa debit cards]]
-- [[Visa prepaid cards]]
-- [[Visa payment network (VisaNet)]]
-- [[Mobile payment solutions (Visa Checkout, Visa Token Service)]]
+- [[VisaNet payment network]]
+- [[Visa Credit cards]]
+- [[Visa Debit cards]]
+- [[Visa Prepaid cards]]
+- [[Visa Direct real‑time payments]]
 
 ## 数据来源
 
 - [Visa Inc.](https://en.wikipedia.org/wiki/Visa_Inc.)
-- [Visa Inc. suppliers manufacturers](https://www.visa.com/splisting/searchGrsp.do)
-- [Visa Inc. suppliers manufacturers](https://usa.visa.com/partner-with-us/info-for-partners/info-for-suppliers.html)
+- [Visa Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/Visa_Inc.)
+- [Visa Inc. suppliers manufacturers](https://csimarket.com/stocks/V-Suppliers)
 - [Visa Inc. major customers clients](https://csimarket.com/stocks/V-Customers)
-- [Visa Inc. major customers clients](https://capitaloneshopping.com/research/credit-card-market-share-statistics/)
+- [Visa Inc. major customers clients](https://www.visa.com/en-us/thought-leadership/case-studies)
 
 ## 元数据
 
-- **更新日期**: 2026-06-16
+- **更新日期**: 2026-06-17

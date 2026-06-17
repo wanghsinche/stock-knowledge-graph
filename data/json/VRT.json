@@ -3,29 +3,65 @@
   "company_name": "Vertiv Holdings Co",
   "sector": "Industrials",
   "industry": "Electrical Equipment & Parts",
-  "upstream": [],
-  "downstream": [],
-  "competitors": [],
-  "key_products": [],
-  "extracted_at": "2026-06-10 18:32:05",
+  "upstream": [
+    "Power distribution equipment manufacturers",
+    "Cooling system component suppliers",
+    "Electronic component suppliers",
+    "Industrial automation equipment suppliers",
+    "Data center infrastructure component manufacturers"
+  ],
+  "downstream": [
+    "Data center operators",
+    "CAT",
+    "Enterprise IT infrastructure providers",
+    "Government agencies",
+    "Cloud service providers"
+  ],
+  "competitors": [
+    "Schneider Electric",
+    "Eaton",
+    "ABB",
+    "Siemens",
+    "CSCO"
+  ],
+  "key_products": [
+    "Rack-mount power distribution units",
+    "Data center cooling systems",
+    "Environmental monitoring solutions",
+    "Power management software",
+    "Uninterruptible power supplies"
+  ],
+  "extracted_at": "2026-06-17 18:18:41",
   "sources": [
     {
       "source": "Wikipedia",
-      "url": "",
-      "title": "",
-      "snippet": ""
+      "url": "https://en.wikipedia.org/wiki/Vertiv_Holdings_Co",
+      "title": "Vertiv",
+      "snippet": "Vertiv Holdings Co. is an American provider of infrastructure and services for data centers, communication networks, and commercial and industrial environments."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/VRT/",
+      "url": "https://stockanalysis.com/stocks/vrt/company/",
       "query": "Vertiv Holdings Co suppliers manufacturers",
-      "snippet": "Find the latest Vertiv Holdings Co (VRT) stock quote, history, news and other vital information to help you with your stock trading and investing."
+      "snippet": "Company profile for Vertiv Holdings Co (VRT) stock, with a description, list of executives, contact details and other key facts."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://markets.financialcontent.com/stocks/article/finterra-2026-4-7-vertiv-holdings-co-vrt-the-critical-infrastructure-behind-the-ai-boom",
+      "url": "https://au.finance.yahoo.com/news/look-vertiv-holdings-co-vrt-020845458.html",
       "query": "Vertiv Holdings Co suppliers manufacturers",
-      "snippet": "Vertiv ’s history is a multi-decade evolution from a niche cooling manufacturer to a global leader. Its origins trace back to 1946 with the founding o"
+      "snippet": "See our latest analysis for Vertiv Holdings Co . Vertiv ’s share price has been volatile in the short term, with a 7 day share price return down 11.72"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/Vertiv",
+      "query": "Vertiv Holdings Co major customers clients",
+      "snippet": "Vertiv' s primary customers are businesses across three main end markets: data centers, communication networks and commercial & industrial environment"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.appsruntheworld.com/customers-database/vendors/view/vertiv",
+      "query": "Vertiv Holdings Co major customers clients",
+      "snippet": "List of companies using or evaluating Vertiv applications, with details on their revenues, employees, industries, and locations."
     }
   ]
 }

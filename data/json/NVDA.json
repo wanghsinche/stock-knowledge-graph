@@ -6,9 +6,9 @@
   "upstream": [
     "TSM",
     "005930.KS",
-    "MU",
-    "SK Hynix",
-    "ASE Group"
+    "GlobalFoundries",
+    "UMC",
+    "SMIC"
   ],
   "downstream": [
     "SONY",
@@ -21,17 +21,17 @@
     "AMD",
     "INTC",
     "QCOM",
-    "AAPL",
-    "ARM Holdings"
+    "AVGO",
+    "AAPL"
   ],
   "key_products": [
     "GeForce RTX GPUs",
     "Quadro RTX GPUs",
-    "Tesla V100 GPU",
-    "Nvidia DGX AI Systems",
-    "Nvidia Drive Automotive Platform"
+    "Tesla V100/T4 GPUs",
+    "Jetson AI edge platform",
+    "NVIDIA Drive automotive platform"
   ],
-  "extracted_at": "2026-06-16 19:27:55",
+  "extracted_at": "2026-06-17 18:09:19",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Nvidia",
+      "url": "https://www.britannica.com/money/NVIDIA-Corporation",
       "query": "NVIDIA Corporation suppliers manufacturers",
-      "snippet": "6 days ago - In August 2025, Nvidia ordered ... concerns. The company directed suppliers including Taiwan Semiconductor Manufacturing Company, Samsung"
+      "snippet": "NVIDIA Corporation (NVDA) is a semiconductor company and a leading global manufacturer of high-end graphics... NVIDIA was also able to accelerate its "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.accio.com/supplier/nvidia-chip-suppliers",
+      "url": "https://www.investing.com/equities/nvidia-corp",
       "query": "NVIDIA Corporation suppliers manufacturers",
-      "snippet": "1 month ago - This ensures NVIDIA's accelerated computing platforms deliver balanced performance for a wide range of AI and HPC tasks across various i"
+      "snippet": "View today's NVIDIA Corporation stock price and latest NVDA news and analysis. Create real-time notifications to follow any changes in the live stock "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/markets_glance.php?code=NVDA",
+      "url": "https://www.nvidia.com/en-us/",
       "query": "NVIDIA Corporation major customers clients",
-      "snippet": "1 week ago - Nvidia customers and markets, results by customer and performance relative to NVDA, by company and industry - CSIMarket"
+      "snippet": "NVIDIA invents the GPU and drives advances in AI, HPC, gaming, creative design, autonomous vehicles, and robotics."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/news/nvidias-biggest-customers-095700428.html",
+      "url": "https://www.investing.com/equities/nvidia-corp",
       "query": "NVIDIA Corporation major customers clients",
-      "snippet": "June 26, 2025 - Nvidia has amassed an impressive list of customers, which includes top AI developers like Amazon, Microsoft, and Alphabet . Nvidia's c"
+      "snippet": "View today's NVIDIA Corporation stock price and latest NVDA news and analysis. Create real-time notifications to follow any changes in the live stock "
     }
   ]
 }

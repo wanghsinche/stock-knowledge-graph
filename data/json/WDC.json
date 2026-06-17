@@ -4,38 +4,34 @@
   "sector": "Technology",
   "industry": "Computer Hardware",
   "upstream": [
-    "005930.KS",
     "MU",
-    "SK Hynix",
-    "TDK",
-    "Silicon Motion"
+    "Printed circuit board (PCB) manufacturers",
+    "Magnetic media suppliers",
+    "Firmware and software development partners",
+    "Packaging and logistics providers"
   ],
   "downstream": [
     "DELL",
-    "HPQ",
-    "Lenovo",
+    "DELL",
+    "MSFT",
     "AAPL",
-    "MSFT"
+    "Cloud service providers"
   ],
   "competitors": [
     "STX",
-    "Toshiba (Kioxia)",
+    "Toshiba",
     "005930.KS",
     "MU",
-    "INTC"
+    "SK Hynix"
   ],
   "key_products": [
-    "WD Blue HDD",
-    "WD Red HDD",
-    "WD Black HDD",
-    "WD Blue SSD",
-    "WD Green SSD",
-    "WD My Passport",
-    "WD Gold Enterprise HDD",
-    "WD Ultrastar Enterprise HDD",
-    "WD NAS Drives"
+    "Hard Disk Drives (HDDs)",
+    "Solid State Drives (SSDs)",
+    "External storage devices (e.g., My Passport, My Cloud)",
+    "Enterprise storage solutions (e.g., Ultrastar, WD Red)",
+    "Personal storage devices (e.g., WD My Book)"
   ],
-  "extracted_at": "2026-06-16 19:29:15",
+  "extracted_at": "2026-06-17 18:10:50",
   "sources": [
     {
       "source": "Wikipedia",
@@ -57,9 +53,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.researchandmarkets.com/reports/4028445/western-digital-corporation-company-profile",
+      "url": "https://community.wd.com/",
       "query": "Western Digital Corporation major customers clients",
-      "snippet": "Assess Western Digital Corporation as a prospective partner, vendor or supplier. Support sales activities by understanding your customers ' businesses"
+      "snippet": "Western Digital Business Portal. Unlock benefits and tools for your business such as enterprise support, pricing and rebate tools, marketing, loyalty,"
     },
     {
       "source": "DuckDuckGo",

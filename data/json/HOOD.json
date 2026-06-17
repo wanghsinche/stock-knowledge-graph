@@ -4,34 +4,34 @@
   "sector": "Financial Services",
   "industry": "Capital Markets",
   "upstream": [
-    "AMZN",
-    "GOOGL",
-    "Bloomberg L.P.",
-    "FactSet",
-    "Stripe"
+    "NASDAQ",
+    "NYSE",
+    "CBOE",
+    "Bloomberg",
+    "Refinitiv"
   ],
   "downstream": [
     "Retail investors",
-    "Institutional investors",
-    "High‑frequency traders",
-    "Financial advisors",
-    "Corporate clients"
+    "Day traders",
+    "Options traders",
+    "Crypto traders",
+    "Institutional clients"
   ],
   "competitors": [
     "Charles Schwab",
-    "Fidelity Investments",
-    "TD Ameritrade",
+    "Fidelity",
     "E*TRADE",
-    "Webull"
+    "Webull",
+    "SoFi Invest"
   ],
   "key_products": [
-    "Commission‑free stock trading",
-    "Options trading",
-    "Cryptocurrency trading",
-    "Margin trading",
-    "Robinhood Gold subscription"
+    "Commission‑free stock trading app",
+    "Robinhood Gold (margin & extended hours)",
+    "Cash management & interest‑earning accounts",
+    "Options trading platform",
+    "Cryptocurrency trading"
   ],
-  "extracted_at": "2026-06-16 19:34:17",
+  "extracted_at": "2026-06-17 18:11:35",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
+      "url": "https://robinhood.com/",
+      "query": "Robinhood Markets, Inc. suppliers manufacturers",
+      "snippet": "Trade stocks on Robinhood with commission-free investing & advanced trading tools. Access fractional shares, real-time market data, and more."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://finance.yahoo.com/quote/HOOD/",
+      "query": "Robinhood Markets, Inc. suppliers manufacturers",
+      "snippet": "Robinhood Markets , Inc . ( HOOD ). Is HOOD a long-term buy? Robinhood Markets , Inc . operates financial services platform in the United States. The "
+    },
+    {
+      "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Robinhood_Markets",
-      "query": "Robinhood Markets, Inc. suppliers manufacturers",
-      "snippet": "Robinhood Markets , Inc . is an American financial services company based in Menlo Park, California. It provides an electronic trading platform that f"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/HOOD-Suppliers",
-      "query": "Robinhood Markets, Inc. suppliers manufacturers",
-      "snippet": "Feb 28, 2026 · Robinhood Markets Inc 's Suppliers recorded an increase in sales by 8.72 % year on year in Q4 2025, sequentially sales grew by 4.1 %, w"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/HOOD-Customers",
       "query": "Robinhood Markets, Inc. major customers clients",
-      "snippet": "Robinhood Markets Inc 's Corporate Customers have recorded an increase in their cost of revenue by 10.65 % in the 2 quarter 2025 year on year, sequent"
+      "snippet": "Robinhood Markets , Inc . is an American financial services company based in Menlo Park, California. It provides an electronic trading platform that f"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://investingintheweb.com/brokers/robinhood-statistics/",
       "query": "Robinhood Markets, Inc. major customers clients",
-      "snippet": "Apr 7, 2026 · Robinhood revenues Robinhood generates revenues through transaction-based revenues, net interest revenues, and other revenues. Transacti"
+      "snippet": "Apr 7, 2026 · The platform has gained a massive customer base in the US, making it a major disruptor in the finance industry. In this article, we’ll e"
     }
   ]
 }

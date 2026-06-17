@@ -1,55 +1,55 @@
 {
   "ticker": "SNDK",
   "company_name": "Sandisk Corporation",
-  "sector": "Technology",
-  "industry": "Computer Hardware",
+  "sector": "Technology / Computer Hardware",
+  "industry": "Semiconductors / Flash Memory",
   "upstream": [
-    "GIGAPC Corporation",
-    "Taiwanese OEM manufacturer (unnamed)",
-    "NVDA",
+    "MU",
     "005930.KS",
-    "MU"
+    "SK Hynix",
+    "WDC",
+    "INTC"
   ],
   "downstream": [
     "AAPL",
     "MSFT",
     "DELL",
     "HPQ",
-    "Lenovo Group"
+    "AMZN"
   ],
   "competitors": [
-    "WDC",
-    "STX",
     "MU",
     "005930.KS",
-    "Crucial"
+    "SK Hynix",
+    "WDC",
+    "INTC"
   ],
   "key_products": [
-    "Solid State Drives (SSDs)",
-    "USB Flash Drives",
-    "SD Memory Cards",
-    "External Hard Drives",
-    "SDXC Cards"
+    "SD cards",
+    "USB flash drives",
+    "SSD (SATA & NVMe)",
+    "eMMC modules",
+    "NVMe SSDs"
   ],
-  "extracted_at": "2026-06-16 19:28:08",
+  "extracted_at": "2026-06-17 18:09:30",
   "sources": [
     {
       "source": "Wikipedia",
-      "url": "",
-      "title": "",
-      "snippet": ""
+      "url": "https://en.wikipedia.org/wiki/Sandisk_Corporation",
+      "title": "Sandisk",
+      "snippet": "Sandisk Corporation is an American multinational computer semiconductor company based in Milpitas, California."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.sandisk.com/company/distributors",
+      "url": "https://en.wikipedia.org/wiki/SanDisk",
       "query": "Sandisk Corporation suppliers manufacturers",
-      "snippet": "GIGAPC Corporation · 430 8th Ave N. Seattle, WA 98109 · Tel: 206-624-1100 · Glazers Camera · 430 8th Ave N. Seattle, WA 98109 · Tel: 206-624-1100 · Gl"
+      "snippet": "Founded in 1988, [4] it designs and manufactures flash memory products, including memory cards, USB flash drives, and solid-state drives (SSDs). The c"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.accio.com/supplier/sandisk-manufacturer",
       "query": "Sandisk Corporation suppliers manufacturers",
-      "snippet": "1 month ago - They sourced these from a Taiwanese manufacturer known for its OEM support and quality control. The supplier provided fast turnaround ti"
+      "snippet": "Jun 5, 2026 · Looking for SanDisk manufacturers ? Discover trusted suppliers of USB drives, memory cards, and SSDs. Click to connect with top provider"
     },
     {
       "source": "DuckDuckGo",

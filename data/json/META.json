@@ -4,34 +4,36 @@
   "sector": "Communication Services",
   "industry": "Internet Content & Information",
   "upstream": [
-    "NVDA",
-    "QCOM",
     "INTC",
+    "NVDA",
+    "AMD",
     "005930.KS",
-    "AMD"
+    "TSM"
   ],
   "downstream": [
-    "005930.KS",
-    "App developers using Facebook SDK",
-    "META",
-    "Game developers on Facebook Gaming",
-    "Content creators on Instagram and TikTok"
+    "Advertisers",
+    "Businesses",
+    "App developers",
+    "Content creators",
+    "End users"
   ],
   "competitors": [
     "GOOGL",
     "AMZN",
     "AAPL",
     "MSFT",
-    "TikTok (ByteDance)"
+    "ByteDance (TikTok)"
   ],
   "key_products": [
     "Facebook",
     "Instagram",
     "WhatsApp",
-    "Meta Quest",
-    "Meta Ads"
+    "Messenger",
+    "Threads",
+    "Meta Ads",
+    "Meta Quest"
   ],
-  "extracted_at": "2026-06-16 19:31:03",
+  "extracted_at": "2026-06-17 18:11:00",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,25 +45,25 @@
       "source": "DuckDuckGo",
       "url": "https://csimarket.com/stocks/META-Suppliers",
       "query": "Meta Platforms, Inc. suppliers manufacturers",
-      "snippet": "2 days ago · Meta Platforms Inc 's Suppliers recorded an increase in sales by 14.33 % year on year in Q1 2026, sequentially sales grew by 13.48 %, Met"
+      "snippet": "3 days ago · Meta Platforms Inc 's Suppliers recorded an increase in sales by 14.33 % year on year in Q1 2026, sequentially sales grew by 13.48 %, Met"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.suppliersmap.com/meta",
       "query": "Meta Platforms, Inc. suppliers manufacturers",
-      "snippet": "Meta Meta works with leading technology suppliers for its AR/VR products, including Qualcomm for advanced processors, Sony and other display manufactu"
+      "snippet": "Explore Meta ' s complete supply chain with interactive visualizations showing supplier locations and component breakdowns across Quest, Ray-Ban Meta,"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Meta_Platforms",
+      "url": "https://ca.finance.yahoo.com/news/why-meta-platforms-inc-meta-233838374.html",
       "query": "Meta Platforms, Inc. major customers clients",
-      "snippet": "Meta Platforms , Inc . (doing business as Meta) is an American multinational technology company headquartered in Menlo Park, California. Meta owns and"
+      "snippet": "On May 29, Meta Platforms , Inc . (NASDAQ: META ) established a new Enterprise Solutions unit that embeds engineers and product managers directly with"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/META-Customers",
+      "url": "https://www.thestreet.com/employment/metas-recent-layoffs-take-an-unexpected-turn",
       "query": "Meta Platforms, Inc. major customers clients",
-      "snippet": "Jun 8, 2026 · Meta Platforms Inc 's Comment on Sales, Marketing and Customers The majority of our marketers use our self-service ad platform to establ"
+      "snippet": "These ratings are allegedly the middle tier in Meta ’s three-level performance system. Mark Zuckerberg, chief executive officer of Meta Platforms Inc "
     }
   ]
 }

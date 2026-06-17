@@ -4,17 +4,17 @@
   "sector": "Communication Services",
   "industry": "Internet Content & Information",
   "upstream": [
-    "TSM",
-    "005930.KS",
     "INTC",
     "NVDA",
-    "QCOM"
+    "QCOM",
+    "005930.KS",
+    "TSM"
   ],
   "downstream": [
     "GOOGL",
-    "Android app developers",
-    "YouTube content creators",
     "GOOGL",
+    "YouTube creators",
+    "Android device manufacturers",
     "GOOGL"
   ],
   "competitors": [
@@ -26,12 +26,14 @@
   ],
   "key_products": [
     "Google Search",
-    "Android OS",
-    "Google Cloud Platform",
     "YouTube",
-    "Google Ads"
+    "Google Cloud Platform",
+    "Android OS",
+    "Google Ads",
+    "Google Workspace",
+    "Google Maps"
   ],
-  "extracted_at": "2026-06-16 19:32:10",
+  "extracted_at": "2026-06-17 18:12:29",
   "sources": [
     {
       "source": "Wikipedia",
@@ -49,13 +51,13 @@
       "source": "DuckDuckGo",
       "url": "https://csimarket.com/stocks/GOOG-Suppliers",
       "query": "Alphabet Inc. suppliers manufacturers",
-      "snippet": "May 2, 2026 · Alphabet Inc supply chain, list and performance of Alphabet Incs ' suppliers - CSIMarket"
+      "snippet": "May 2, 2026 · Alphabet Inc 's Comment on Supply Chain We rely on third parties to manufacture many of our assemblies and finished products, and we hav"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://csimarket.com/stocks/GOOGL-Customers",
       "query": "Alphabet Inc. major customers clients",
-      "snippet": "Feb 9, 2026 · Alphabet Inc customers and markets, results by customer and performance relative to GOOGL, by company and industry - CSIMarket"
+      "snippet": "Feb 9, 2026 · Updated on: Focus of this report: Alphabet Inc ’s corporate clients . For your research, we’ve provided 9 tables on Alphabet Inc corpora"
     },
     {
       "source": "DuckDuckGo",

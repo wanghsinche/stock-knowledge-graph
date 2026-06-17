@@ -7,37 +7,37 @@
     "TSM",
     "005930.KS",
     "GlobalFoundries",
-    "INTC",
-    "MU"
+    "UMC",
+    "INTC"
   ],
   "downstream": [
-    "MSFT",
     "DELL",
     "HPQ",
-    "AMZN",
-    "GOOGL"
+    "Lenovo",
+    "SONY",
+    "MSFT"
   ],
   "competitors": [
     "INTC",
     "NVDA",
     "QCOM",
     "AVGO",
-    "ARM Holdings"
+    "TXN"
   ],
   "key_products": [
     "Ryzen CPUs",
-    "EPYC server CPUs",
+    "EPYC CPUs",
     "Radeon GPUs",
-    "Semi‑custom ASICs",
-    "Embedded processors"
+    "Radeon Instinct GPUs",
+    "Radeon Pro GPUs"
   ],
-  "extracted_at": "2026-06-16 19:29:00",
+  "extracted_at": "2026-06-17 18:10:14",
   "sources": [
     {
       "source": "Wikipedia",
-      "url": "",
-      "title": "",
-      "snippet": ""
+      "url": "https://en.wikipedia.org/wiki/Advanced_Micro_Devices,_Inc.",
+      "title": "AMD",
+      "snippet": "Advanced Micro Devices, Inc. (AMD) is an American multinational semiconductor company headquartered in Santa Clara, California. It develops central processing units (CPUs), graphics processing units ("
     },
     {
       "source": "DuckDuckGo",
@@ -55,13 +55,13 @@
       "source": "DuckDuckGo",
       "url": "https://csimarket.com/stocks/AMD-Customers",
       "query": "Advanced Micro Devices, Inc. major customers clients",
-      "snippet": "Advanced Micro Devices Inc customers and markets, results by customer and performance relative to AMD, by company and industry - CSIMarket"
+      "snippet": "Focus of this report: Advanced Micro Devices Inc ’ s corporate clients . For your research, we’ve provided 9 tables on Advanced Micro Devices Inc corp"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ir.amd.com/financial-information/sec-filings/content/0001193125-25-067185/0001193125-25-067185.pdf",
+      "url": "https://matrixbcg.com/blogs/target-market/amd",
       "query": "Advanced Micro Devices, Inc. major customers clients",
-      "snippet": "With our high-performance product portfolios, we deliver differentiated solutions, such as our semi-custom System-on-Chip (SoCs), Adaptive SoCs, and a"
+      "snippet": "Sep 8, 2025 · AMD' s customer base is diverse, spanning individual consumers , businesses, and data centers. Key segments include PC gamers and creato"
     }
   ]
 }

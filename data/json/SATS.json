@@ -1,43 +1,43 @@
 {
   "ticker": "SATS",
   "company_name": "EchoStar Corporation",
-  "sector": "Communication Services / Telecom Services",
-  "industry": "Satellite Communications",
+  "sector": "Communication Services",
+  "industry": "Telecom Services",
   "upstream": [
-    "Lockheed Martin",
+    "Hughes Network Systems",
     "Boeing",
-    "Airbus",
-    "SpaceX",
-    "Thales Alenia Space"
+    "Lockheed Martin",
+    "Raytheon",
+    "SpaceX"
   ],
   "downstream": [
-    "Dish Network",
-    "Boost Mobile",
-    "Sling TV",
-    "EchoStar Mobile",
-    "Hughes Network Systems"
+    "Comcast",
+    "AT&T",
+    "CAT",
+    "DirecTV",
+    "U.S. Department of Defense"
   ],
   "competitors": [
-    "SpaceX Starlink",
-    "CAT",
+    "Hughes Network Systems",
+    "Viasat",
     "INTC",
-    "Telesat",
-    "ViaSat"
+    "SES",
+    "Dish Network"
   ],
   "key_products": [
-    "Satellite communication services",
-    "Wireless telecommunications",
-    "Internet services",
-    "Multichannel video programming",
-    "Mobile services"
+    "EchoStar Satellite Broadband",
+    "EchoStar Satellite TV",
+    "EchoStar Satellite Internet",
+    "EchoStar Satellite Data Services",
+    "EchoStar Satellite Communications"
   ],
-  "extracted_at": "2026-06-16 19:37:14",
+  "extracted_at": "2026-06-17 18:18:06",
   "sources": [
     {
       "source": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/EchoStar_Corporation",
-      "title": "EchoStar",
-      "snippet": "EchoStar Corporation is an American telecommunications company, specializing in satellite communication, wireless telecommunications, and internet services. Echostar also provides multichannel video p"
+      "url": "",
+      "title": "",
+      "snippet": ""
     },
     {
       "source": "DuckDuckGo",
@@ -47,21 +47,21 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.accio.com/business/mydish",
+      "url": "https://www.globaldata.com/company-profile/echostar-corp/",
       "query": "EchoStar Corporation suppliers manufacturers",
-      "snippet": "EchoStar Corp - Company Profile and News. EchoStar Corporation provides satellite broadband communication solutions."
+      "snippet": "EchoStar Corp ."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/EchoStar",
+      "url": "https://csimarket.com/stocks/markets_glance.php?code=SATS",
       "query": "EchoStar Corporation major customers clients",
-      "snippet": "EchoStar Corporation is an American telecommunications company, specializing in satellite communication, wireless telecommunications, and internet ser"
+      "snippet": "Dec 11, 2025 · Updated on: Focus of this report: Echostar Corporation ’ s corporate clients . For your research, we’ve provided 9 tables on Echostar C"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ir.echostar.com/",
+      "url": "https://portersfiveforce.com/blogs/target-market/echostar",
       "query": "EchoStar Corporation major customers clients",
-      "snippet": "Mar 2, 2026 · Headquartered in Englewood, Colo., with business units worldwide, EchoStar is a multiple Emmy award-winning company that has pioneered a"
+      "snippet": "Mar 19, 2026 · EchoStar ’ s target market includes rural residential subscribers, enterprise backhaul and SD‑WAN clients , mobility (maritime/aviation"
     }
   ]
 }

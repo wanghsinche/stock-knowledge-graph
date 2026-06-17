@@ -2,47 +2,47 @@
 ticker: IREN
 company: IREN Limited
 sector: Financial Services / Capital Markets
-industry: Data Center Services / Cloud Computing
-extracted_at: 2026-06-16 19:38:44
-last_updated: 2026-06-16
+industry: Financial Services / Capital Markets
+extracted_at: 2026-06-17 18:17:39
+last_updated: 2026-06-17
 ---
 
 # IREN - IREN Limited
 
 ## 基本信息
 
-- **所属行业**: Financial Services / Capital Markets / Data Center Services / Cloud Computing
-- **提取时间**: 2026-06-16 19:38:44
+- **所属行业**: Financial Services / Capital Markets / Financial Services / Capital Markets
+- **提取时间**: 2026-06-17 18:17:39
 
 ## 产业链关系
 
 ### 上游供应商
 - [[NVDA]]
-- [[Renewable energy providers (wind, solar farms)]]
+- [[AMD]]
 - [[DELL]]
-- [[Cooling system vendors]]
-- [[CSCO]]
+- [[HPQ]]
+- [[Lenovo]]
 
 ### 下游客户
-- [[Enterprise AI clients]]
-- [[Financial institutions using AI analytics]]
-- [[Tech startups requiring GPU clusters]]
-- [[Government agencies]]
-- [[E-commerce platforms]]
+- [[MSFT]]
+- [[AMZN]]
+- [[GOOGL]]
+- [[Alibaba Cloud]]
+- [[ORCL]]
 
 ### 竞争对手
 - [[AMZN]]
 - [[MSFT]]
 - [[GOOGL]]
 - [[Alibaba Cloud]]
-- [[DigitalOcean]]
+- [[ORCL]]
 
 ### 核心产品
-- [[Renewable-powered data centers]]
-- [[AI cloud services]]
-- [[GPU cluster solutions]]
-- [[Edge computing platforms]]
-- [[Data center management software]]
+- [[GPU-based AI cloud services]]
+- [[Data center infrastructure]]
+- [[Cloud computing solutions]]
+- [[AI workloads]]
+- [[High-performance computing]]
 
 ## 数据来源
 
@@ -54,4 +54,4 @@ last_updated: 2026-06-16
 
 ## 元数据
 
-- **更新日期**: 2026-06-16
+- **更新日期**: 2026-06-17

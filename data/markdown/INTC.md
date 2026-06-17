@@ -3,8 +3,8 @@ ticker: INTC
 company: Intel Corporation
 sector: Technology
 industry: Semiconductors
-extracted_at: 2026-06-16 19:28:46
-last_updated: 2026-06-16
+extracted_at: 2026-06-17 18:10:37
+last_updated: 2026-06-17
 ---
 
 # INTC - Intel Corporation
@@ -12,46 +12,46 @@ last_updated: 2026-06-16
 ## 基本信息
 
 - **所属行业**: Technology / Semiconductors
-- **提取时间**: 2026-06-16 19:28:46
+- **提取时间**: 2026-06-17 18:10:37
 
 ## 产业链关系
 
 ### 上游供应商
-- [[TSM]]
-- [[005930.KS]]
-- [[GlobalFoundries]]
-- [[ASE Group]]
-- [[UMC]]
+- [[ASML]]
+- [[AMAT]]
+- [[LRCX]]
+- [[Tokyo Electron]]
+- [[KLA Corporation]]
 
 ### 下游客户
-- [[AAPL]]
-- [[MSFT]]
 - [[DELL]]
 - [[HPQ]]
-- [[Lenovo]]
+- [[Lenovo Group]]
+- [[AAPL]]
+- [[MSFT]]
 
 ### 竞争对手
 - [[AMD]]
 - [[NVDA]]
 - [[QCOM]]
-- [[AVGO]]
-- [[TXN]]
+- [[TSM]]
+- [[005930.KS]]
 
 ### 核心产品
-- [[Intel Core CPUs]]
-- [[Intel Xeon CPUs]]
-- [[Intel Arc GPUs]]
-- [[Intel FPGAs]]
-- [[Intel networking chips]]
+- [[Intel Core processors]]
+- [[Intel Xeon processors]]
+- [[Intel Optane memory]]
+- [[Intel FPGA (Stratix)]]
+- [[Intel Ethernet controllers]]
 
 ## 数据来源
 
-- 
-- [Intel Corporation suppliers manufacturers](https://en.wikipedia.org/wiki/List_of_Intel_manufacturing_sites)
-- [Intel Corporation suppliers manufacturers](https://www.intel.com/content/www/us/en/partner/showcase/partner-directory/distributor.html)
-- [Intel Corporation major customers clients](https://finance.yahoo.com/quote/INTC/)
-- [Intel Corporation major customers clients](https://www.intc.com/)
+- [Intel](https://en.wikipedia.org/wiki/Intel_Corporation)
+- [Intel Corporation suppliers manufacturers](https://www.accio.com/supplier/manufacturer-intel-corporation)
+- [Intel Corporation suppliers manufacturers](https://csimarket.com/stocks/INTC-Suppliers)
+- [Intel Corporation major customers clients](https://www.marketbeat.com/originals/intel-foundrys-moment-of-truth-will-18a-deliver/)
+- [Intel Corporation major customers clients](https://www.fool.com/investing/2023/10/28/intel-foundry-snags-more-customers/)
 
 ## 元数据
 
-- **更新日期**: 2026-06-16
+- **更新日期**: 2026-06-17

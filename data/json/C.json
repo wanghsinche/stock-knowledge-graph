@@ -2,20 +2,20 @@
   "ticker": "C",
   "company_name": "Citigroup Inc.",
   "sector": "Financial Services",
-  "industry": "Diversified Banks",
+  "industry": "Banks - Diversified",
   "upstream": [
+    "MSFT",
     "ORCL",
-    "Legal and consulting firms",
-    "Office supply providers",
-    "Data analytics providers",
-    "Cybersecurity vendors"
+    "IBM",
+    "CRM",
+    "Accenture"
   ],
   "downstream": [
-    "Institutional clients (corporate & government)",
+    "Large multinational corporations",
+    "Government entities",
+    "Small and medium enterprises",
     "Retail banking customers",
-    "Credit card holders",
-    "Wealth management clients",
-    "Treasury & trade finance clients"
+    "High‑net‑worth individuals"
   ],
   "competitors": [
     "JPMorgan Chase & Co.",
@@ -26,12 +26,12 @@
   ],
   "key_products": [
     "Investment banking services",
-    "Retail banking & credit cards",
+    "Consumer banking & credit cards",
     "Wealth management & private banking",
-    "Treasury and trade services",
-    "Global payments & foreign exchange"
+    "Treasury and cash management",
+    "Capital markets & securities brokerage"
   ],
-  "extracted_at": "2026-06-10 18:32:33",
+  "extracted_at": "2026-06-17 18:19:03",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,25 +43,25 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Citigroup",
       "query": "Citigroup Inc. suppliers manufacturers",
-      "snippet": "Citigroup Inc . or Citi (stylized as citi) is an American multinational investment bank and financial services company based in New York City. The com"
+      "snippet": "This list only contains chairmen since the formation of Citigroup in 1998; for a full list of chairmen including Citigroup 's predecessors, please see"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://csimarket.com/stocks/C-Suppliers",
       "query": "Citigroup Inc. suppliers manufacturers",
-      "snippet": "Citigroup Inc supply chain, list and performance of Citigroup Incs' suppliers - CSIMarket"
+      "snippet": "Citigroup Inc supply chain, list and performance of Citigroup Incs ' suppliers - CSIMarket"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Citigroup",
       "query": "Citigroup Inc. major customers clients",
-      "snippet": "Citigroup operates with two major divisions: Institutional Clients Group (ICG), which offers investment banking and corporate banking services, as wel"
+      "snippet": "Citigroup Inc . or Citi is an American multinational investment bank and financial services company based in New York City. The company was formed in "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/C-Customers",
+      "url": "https://www.investing.com/equities/citigroup-incorporated-company-profile",
       "query": "Citigroup Inc. major customers clients",
-      "snippet": "Citigroup Inc customers and markets, results by customer and performance relative to C, by company and industry - CSIMarket"
+      "snippet": "Citigroup Inc ., a diversified financial service holding company, provides various financial products and services to consumers, corporations, governm"
     }
   ]
 }

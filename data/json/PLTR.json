@@ -7,31 +7,31 @@
     "AMZN",
     "MSFT",
     "GOOGL",
-    "DELL",
-    "HPQ"
+    "IBM",
+    "ORCL"
   ],
   "downstream": [
     "U.S. Department of Defense",
+    "U.S. Federal Bureau of Investigation",
     "U.S. Department of Homeland Security",
-    "JPMorgan Chase",
-    "Goldman Sachs",
-    "UnitedHealth Group"
+    "U.K. Government",
+    "JPMorgan Chase"
   ],
   "competitors": [
     "Snowflake",
     "Databricks",
     "Splunk",
-    "CRM",
-    "Qlik"
+    "Tableau",
+    "MSFT"
   ],
   "key_products": [
     "Palantir Foundry",
     "Palantir Gotham",
     "Palantir Apollo",
     "Palantir Helix",
-    "Palantir Platform"
+    "Palantir Data Lake"
   ],
-  "extracted_at": "2026-06-16 19:33:22",
+  "extracted_at": "2026-06-17 18:12:19",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/Palantir",
+      "query": "Palantir Technologies Inc. suppliers manufacturers",
+      "snippet": "Palantir 's customer base includes federal agencies, state and local governments, international organizations, and also private companies. [11] The co"
+    },
+    {
+      "source": "DuckDuckGo",
       "url": "https://csimarket.com/stocks/PLTR-Suppliers",
       "query": "Palantir Technologies Inc. suppliers manufacturers",
-      "snippet": "2 days ago · Palantir Technologies Inc 's Suppliers recorded an increase in sales by 33.09 % year on year in Q1 2026, sequentially sales grew by 3.39 "
+      "snippet": "3 days ago · For your research, we’ve provided nine additional tables on Palantir Technologies Inc ’ s suppliers . You can find them in the navigation"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://fintel.io/doc/sec-palantir-technologies-inc-1321655-ex211-2023-february-21-19410-4071",
-      "query": "Palantir Technologies Inc. suppliers manufacturers",
-      "snippet": "Palantir Technologies Inc . - List of subsidiaries of Palantir Technologies Inc . - EX-21.1 - February 21, 2023 Palantir Technologies Inc . US ˙ Nasda"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.designgurus.io/answers/detail/who-are-the-main-customers-of-palantir",
+      "url": "https://en.wikipedia.org/wiki/Palantir",
       "query": "Palantir Technologies Inc. major customers clients",
-      "snippet": "Who are the main customers of Palantir? Palantir Technologies serves a diverse clientele across government and commercial sectors, providing data anal"
+      "snippet": "Palantir Technologies Inc . is an American publicly traded company that develops data integration and analytics platforms enabling government agencies"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://data.landbase.com/technology/palantir/",
+      "url": "https://www.tradingview.com/symbols/NASDAQ-PLTR/",
       "query": "Palantir Technologies Inc. major customers clients",
-      "snippet": "Aug 17, 2025 · Companies using Palantir by Palantir Technologies Inc in 2026 As of 2026, 1,479 verified companies use Palantir – across industries, co"
+      "snippet": "View live Palantir Technologies Inc . chart to track its stock's price action. Find market predictions, PLTR financials and market news."
     }
   ]
 }

@@ -4,34 +4,34 @@
   "sector": "Financial Services",
   "industry": "Credit Services",
   "upstream": [
-    "Chip manufacturers (e.g., NXP, STMicroelectronics)",
-    "Card production vendors (e.g., IDEMIA, Giesecke+Devrient)",
-    "Payment network infrastructure providers",
+    "Chip and card manufacturers (e.g., Gemalto, IDEMIA)",
     "MSFT",
-    "Security and compliance service providers"
+    "Payment processing software vendors (e.g., Stripe, PayPal)",
+    "Data center operators (e.g., Equinix)",
+    "Security and compliance service providers (e.g., Symantec)"
   ],
   "downstream": [
-    "Commercial banks and credit unions",
-    "Retail merchants and e‑commerce platforms",
-    "Consumer cardholders (individuals)",
-    "Financial institutions issuing Visa‑branded cards",
-    "Payment service providers (e.g., PayPal, Square)"
+    "Retail banks and credit unions (e.g., JPMorgan Chase, Bank of America)",
+    "AMZN",
+    "Government agencies (e.g., U.S. Treasury, State Departments)",
+    "AAPL",
+    "Financial institutions in emerging markets (e.g., ICICI Bank, Banco do Brasil)"
   ],
   "competitors": [
     "Mastercard",
     "American Express",
-    "Discover Financial Services",
-    "PayPal",
-    "Square (Cash App)"
+    "Discover",
+    "UnionPay",
+    "PayPal"
   ],
   "key_products": [
-    "Visa credit cards",
-    "Visa debit cards",
-    "Visa prepaid cards",
-    "Visa payment network (VisaNet)",
-    "Mobile payment solutions (Visa Checkout, Visa Token Service)"
+    "VisaNet payment network",
+    "Visa Credit cards",
+    "Visa Debit cards",
+    "Visa Prepaid cards",
+    "Visa Direct real‑time payments"
   ],
-  "extracted_at": "2026-06-16 19:37:27",
+  "extracted_at": "2026-06-17 18:18:19",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,15 +41,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.visa.com/splisting/searchGrsp.do",
+      "url": "https://en.wikipedia.org/wiki/Visa_Inc.",
       "query": "Visa Inc. suppliers manufacturers",
-      "snippet": "5 days ago · For service providers published on the Registry, if Visa does not receive the appropriate revalidation documents: Within 1 - 60 days upon"
+      "snippet": "Visa Inc . is an American multinational payment card services corporation headquartered in San Francisco, California. It facilitates electronic funds "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://usa.visa.com/partner-with-us/info-for-partners/info-for-suppliers.html",
+      "url": "https://csimarket.com/stocks/V-Suppliers",
       "query": "Visa Inc. suppliers manufacturers",
-      "snippet": "Visa recognizes the value of engaging with a broad group of suppliers , including small and micro-sized businesses (SMBs), and provides opportunities "
+      "snippet": "Visa Inc supply chain, list and performance of Visa Incs ' suppliers - CSIMarket."
     },
     {
       "source": "DuckDuckGo",
@@ -59,9 +59,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://capitaloneshopping.com/research/credit-card-market-share-statistics/",
+      "url": "https://www.visa.com/en-us/thought-leadership/case-studies",
       "query": "Visa Inc. major customers clients",
-      "snippet": "Jun 3, 2026 · Analysis of the latest available data on credit card industry market share to compare Visa , Mastercard, American Express and others."
+      "snippet": "Discover how Visa helps companies and governments around the globe increase customer loyalty, boost productivity, and help their businesses thrive."
     }
   ]
 }

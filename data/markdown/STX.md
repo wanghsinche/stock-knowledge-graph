@@ -3,8 +3,8 @@ ticker: STX
 company: Seagate Technology Holdings plc
 sector: Technology
 industry: Computer Hardware
-extracted_at: 2026-06-16 19:31:17
-last_updated: 2026-06-16
+extracted_at: 2026-06-17 18:13:05
+last_updated: 2026-06-17
 ---
 
 # STX - Seagate Technology Holdings plc
@@ -12,46 +12,28 @@ last_updated: 2026-06-16
 ## 基本信息
 
 - **所属行业**: Technology / Computer Hardware
-- **提取时间**: 2026-06-16 19:31:17
+- **提取时间**: 2026-06-17 18:13:05
 
 ## 产业链关系
 
 ### 上游供应商
-- [[MU]]
-- [[TXN]]
-- [[Magnetic media suppliers (e.g., TDK, Murata)]]
-- [[PCB and assembly providers (e.g., Flex Ltd., Jabil)]]
-- [[Precision machining and tooling suppliers]]
+_暂无数据_
 
 ### 下游客户
-- [[DELL]]
-- [[DELL]]
-- [[MSFT]]
-- [[AAPL]]
-- [[CAT]]
+_暂无数据_
 
 ### 竞争对手
-- [[WDC]]
-- [[Toshiba]]
-- [[005930.KS]]
-- [[IBM]]
-- [[MU]]
+_暂无数据_
 
 ### 核心产品
-- [[Hard Disk Drives (HDD)]]
-- [[Solid State Drives (SSD)]]
-- [[Enterprise storage systems]]
-- [[Cloud storage solutions]]
-- [[Data center infrastructure]]
+_暂无数据_
 
 ## 数据来源
 
 - 
-- [Seagate Technology Holdings plc suppliers manufacturers](https://csimarket.com/stocks/STX-Suppliers)
-- [Seagate Technology Holdings plc suppliers manufacturers](https://www.accio.com/business/seagate-products)
-- [Seagate Technology Holdings plc major customers clients](https://en.wikipedia.org/wiki/Seagate_Technology)
-- [Seagate Technology Holdings plc major customers clients](https://www.seagate.com/)
+- [Seagate Technology Holdings plc suppliers manufacturers](https://www.seagate.com/)
+- [Seagate Technology Holdings plc suppliers manufacturers](https://www.tenzingmemo.com/companies/stx_seagate-technology-holdings-plc)
 
 ## 元数据
 
-- **更新日期**: 2026-06-16
+- **更新日期**: 2026-06-17

@@ -6,32 +6,32 @@
   "upstream": [
     "INTC",
     "AMD",
-    "NVDA",
-    "CSCO",
-    "DELL"
+    "DELL",
+    "HPQ",
+    "CSCO"
   ],
   "downstream": [
-    "Walmart",
     "JPMorgan Chase",
     "Bank of America",
-    "UnitedHealth",
-    "AT&T"
+    "Walmart",
+    "AT&T",
+    "Verizon"
   ],
   "competitors": [
     "MSFT",
     "AMZN",
-    "GOOGL",
     "IBM",
-    "SAP"
+    "SAP",
+    "CRM"
   ],
   "key_products": [
     "Oracle Database",
     "Oracle Cloud Infrastructure",
-    "Oracle Autonomous Database",
     "Oracle ERP Cloud",
-    "Oracle E-Business Suite"
+    "Oracle Analytics Cloud",
+    "Oracle Autonomous Database"
   ],
-  "extracted_at": "2026-06-16 19:35:23",
+  "extracted_at": "2026-06-17 18:15:26",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.oracle.com/corporate/suppliers/",
+      "url": "https://en.wikipedia.org/wiki/Oracle_Corporation",
       "query": "Oracle Corporation suppliers manufacturers",
-      "snippet": "Doing Business with Oracle Oracle iSupplier Portal (iSP) is a secured self-service tool, which provides Oracle 's suppliers with the ability to use a "
+      "snippet": "Co-founded in Santa Clara, California, in 1977 by Bob Miner, Ed Oates, and current chairman of the board and chief technology officer Larry Ellison, O"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.oracle.com/partner/find-partner/",
+      "url": "https://www.oracle.com/",
       "query": "Oracle Corporation suppliers manufacturers",
-      "snippet": "Easily locate Oracle partners with expertise in building, selling, and providing value-added services for Oracle technology. Search by partner name, p"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/ORCL-Customers",
-      "query": "Oracle Corporation major customers clients",
-      "snippet": "By offering our partners access to our product offerings, educational information, technical services, marketing and sales support, the Oracle Partner"
+      "snippet": "Oracle offers a comprehensive and fully integrated stack of cloud applications and cloud platform services..OCI Tech Customers. AMD, ByteDance, Meta, "
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.thomsondata.com/customer-base/oracle.php",
       "query": "Oracle Corporation major customers clients",
-      "snippet": "Technographic Data of Companies That Use Oracle Oracle Customers List by Industry Different industries use Oracle technology for their business . Look"
+      "snippet": "Thomson Data makes it easy by offering an accurate and up-to-date list of companies that use Oracle. This list allows you to identify Oracle customers"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.oracle.com/customers/earnings/",
+      "query": "Oracle Corporation major customers clients",
+      "snippet": "Learn more about the Oracle customers that were highlighted in our latest quarterly earnings call."
     }
   ]
 }
