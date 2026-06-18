@@ -3,8 +3,8 @@ ticker: WDC
 company: Western Digital Corporation
 sector: Technology
 industry: Computer Hardware
-extracted_at: 2026-06-17 18:10:50
-last_updated: 2026-06-17
+extracted_at: 2026-06-18 18:23:35
+last_updated: 2026-06-18
 ---
 
 # WDC - Western Digital Corporation
@@ -12,46 +12,46 @@ last_updated: 2026-06-17
 ## 基本信息
 
 - **所属行业**: Technology / Computer Hardware
-- **提取时间**: 2026-06-17 18:10:50
+- **提取时间**: 2026-06-18 18:23:35
 
 ## 产业链关系
 
 ### 上游供应商
 - [[MU]]
-- [[Printed circuit board (PCB) manufacturers]]
-- [[Magnetic media suppliers]]
-- [[Firmware and software development partners]]
-- [[Packaging and logistics providers]]
+- [[005930.KS]]
+- [[SK Hynix]]
+- [[Toshiba]]
+- [[STX]]
 
 ### 下游客户
 - [[DELL]]
-- [[DELL]]
-- [[MSFT]]
+- [[HPQ]]
+- [[Lenovo Group]]
 - [[AAPL]]
-- [[Cloud service providers]]
+- [[AMZN]]
 
 ### 竞争对手
 - [[STX]]
 - [[Toshiba]]
 - [[005930.KS]]
 - [[MU]]
-- [[SK Hynix]]
+- [[IBM]]
 
 ### 核心产品
 - [[Hard Disk Drives (HDDs)]]
 - [[Solid State Drives (SSDs)]]
-- [[External storage devices (e.g., My Passport, My Cloud)]]
-- [[Enterprise storage solutions (e.g., Ultrastar, WD Red)]]
-- [[Personal storage devices (e.g., WD My Book)]]
+- [[External Storage Devices]]
+- [[Enterprise Storage Solutions]]
+- [[USB Flash Drives]]
 
 ## 数据来源
 
 - [Western Digital](https://en.wikipedia.org/wiki/Western_Digital_Corporation)
-- [Western Digital Corporation suppliers manufacturers](https://ru.wikipedia.org/wiki/Western_Digital)
-- [Western Digital Corporation suppliers manufacturers](https://tradestie.com/apps/options/classic-analysis/WDC/)
-- [Western Digital Corporation major customers clients](https://community.wd.com/)
-- [Western Digital Corporation major customers clients](https://www.mycloud.com/)
+- [Western Digital Corporation suppliers manufacturers](https://www.westerndigital.com/company/distributors)
+- [Western Digital Corporation suppliers manufacturers](https://csimarket.com/stocks/WDC-Suppliers)
+- [Western Digital Corporation major customers clients](https://www.tikr.com/blog/why-western-digital-stock-is-still-undervalued-despite-a-900-run-in-12-months)
+- [Western Digital Corporation major customers clients](https://www.sandisk.com/)
 
 ## 元数据
 
-- **更新日期**: 2026-06-17
+- **更新日期**: 2026-06-18

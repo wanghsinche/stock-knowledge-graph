@@ -1,55 +1,55 @@
 {
   "ticker": "MSTR",
-  "company_name": "MicroStrategy Incorporated",
+  "company_name": "Strategy Inc",
   "sector": "Technology",
   "industry": "Software - Application",
   "upstream": [
     "MSFT",
     "AMZN",
+    "GOOGL",
     "ORCL",
-    "IBM",
-    "DELL"
+    "IBM"
   ],
   "downstream": [
-    "JPMorgan Chase",
     "Bank of America",
-    "Citigroup",
+    "JPMorgan Chase",
     "Walmart",
-    "UnitedHealth Group"
+    "United States Department of Defense",
+    "General Electric"
   ],
   "competitors": [
+    "SAP SE Business Objects",
+    "IBM",
+    "ORCL",
     "Tableau Software",
-    "MSFT",
-    "Qlik",
-    "GOOGL",
-    "Sisense"
+    "Qlik Technologies"
   ],
   "key_products": [
-    "MicroStrategy Desktop",
-    "MicroStrategy Server",
-    "MicroStrategy Cloud",
+    "MicroStrategy Analytics",
     "MicroStrategy Mobile",
-    "MicroStrategy Analytics"
+    "MicroStrategy Cloud",
+    "MicroStrategy Data Warehouse",
+    "MicroStrategy BI Platform"
   ],
-  "extracted_at": "2026-06-16 19:41:10",
+  "extracted_at": "2026-06-18 18:26:55",
   "sources": [
     {
       "source": "Wikipedia",
-      "url": "",
-      "title": "",
-      "snippet": ""
+      "url": "https://en.wikipedia.org/wiki/Strategy_Inc",
+      "title": "MicroStrategy",
+      "snippet": "Strategy Inc., formerly known as MicroStrategy, is an American company that provides business intelligence (BI) and mobile software. Founded in 1989 by Michael J. Saylor, Sanju Bansal, and Thomas Spah"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/MicroStrategy",
+      "query": "Strategy Inc suppliers manufacturers",
+      "snippet": "Strategy Inc ., formerly known as MicroStrategy, is an American company that provides business intelligence and mobile software. Founded in 1989 by Mi"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://finance.yahoo.com/quote/MSTR/",
       "query": "Strategy Inc suppliers manufacturers",
-      "snippet": "Find the latest Strategy Inc (MSTR) stock quote, history, news and other vital information to help you with your stock trading and investing."
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://tr.investing.com/equities/microstrategy-inc",
-      "query": "Strategy Inc suppliers manufacturers",
-      "snippet": "MSTR hisse detayları (117,02). Hisse senedi ile ilgili grafiklere, teknik analizlere, Strategy fiyatları (MSTR) raporlarına ve daha fazlasına ulaşın."
+      "snippet": "Find the latest Strategy Inc (MSTR) stock quote, history, news and other vital information to help you with your stock trading and investing.The compa"
     },
     {
       "source": "DuckDuckGo",

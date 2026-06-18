@@ -3,29 +3,65 @@
   "company_name": "Applied Materials, Inc.",
   "sector": "Technology",
   "industry": "Semiconductor Equipment & Materials",
-  "upstream": [],
-  "downstream": [],
-  "competitors": [],
-  "key_products": [],
-  "extracted_at": "2026-06-17 18:12:08",
+  "upstream": [
+    "Shin-Etsu Chemical",
+    "Sumitomo Chemical",
+    "Air Liquide",
+    "Linde",
+    "KLA-Tencor"
+  ],
+  "downstream": [
+    "TSM",
+    "005930.KS",
+    "INTC",
+    "MU",
+    "GlobalFoundries"
+  ],
+  "competitors": [
+    "ASML",
+    "LRCX",
+    "Tokyo Electron",
+    "KLA Corporation",
+    "AMAT"
+  ],
+  "key_products": [
+    "Lithography systems",
+    "Deposition systems",
+    "Etching systems",
+    "Ion implantation systems",
+    "Wafer cleaning systems"
+  ],
+  "extracted_at": "2026-06-18 18:24:23",
   "sources": [
     {
       "source": "Wikipedia",
-      "url": "",
-      "title": "",
-      "snippet": ""
+      "url": "https://en.wikipedia.org/wiki/Applied_Materials,_Inc.",
+      "title": "Applied Materials",
+      "snippet": "Applied Materials, Inc. is an American corporation that supplies equipment, services and software for the manufacture of semiconductor chips for electronics, flat panel displays for computers, smartph"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Applied_Materials",
+      "url": "https://www.appliedmaterials.com/",
       "query": "Applied Materials, Inc. suppliers manufacturers",
-      "snippet": "Applied Materials , Inc . is an American corporation that supplies equipment, services and software for the manufacture of semiconductor (integrated c"
+      "snippet": "We Deliver Material Innovation That Changes The World. Trending. Reaching New Heights: Applied Leader’s Everest Climb Reflects the Power of Teamwork.V"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/AMAT-Suppliers",
+      "url": "https://www.alibaba.com/",
       "query": "Applied Materials, Inc. suppliers manufacturers",
-      "snippet": "3 days ago · Applied uses numerous vendors , including contract manufacturers , to supply parts and assembly services for the manufacture and support "
+      "snippet": "Find quality Manufacturers , Suppliers , Exporters, Importers, Buyers, Wholesalers, Products and Trade Leads from our award-winning International Trad"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.appliedmaterials.com/",
+      "query": "Applied Materials, Inc. major customers clients",
+      "snippet": "Applied Materials , Inc . is the leader in materials engineering solutions that are at the foundation of virtually every new semiconductor and advance"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://sg.finance.yahoo.com/news/applied-materials-inc-amat-good-212213557.html",
+      "query": "Applied Materials, Inc. major customers clients",
+      "snippet": "Applied Materials , Inc . is on our list of the 40 Most Popular Stocks Among Hedge Funds. As per our database, 138 hedge fund portfolios held AMAT at "
     }
   ]
 }

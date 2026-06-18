@@ -1,37 +1,36 @@
 {
   "ticker": "ALAB",
   "company_name": "Astera Labs, Inc.",
-  "sector": "Technology / Semiconductors",
-  "industry": "Semiconductor IP / Interconnect Solutions",
+  "sector": "Technology",
+  "industry": "Semiconductors",
   "upstream": [
     "TSM",
-    "005930.KS",
     "GlobalFoundries",
-    "UMC",
-    "Tower Semiconductor"
+    "005930.KS",
+    "INTC",
+    "MU"
   ],
   "downstream": [
-    "AMD",
-    "INTC",
-    "NVDA",
-    "AVGO",
-    "QCOM"
+    "AAPL",
+    "DELL",
+    "HPQ",
+    "Lenovo",
+    "MSFT"
   ],
   "competitors": [
-    "Cadence Design Systems",
-    "Synopsys",
-    "Mentor Graphics",
-    "AMD",
-    "AVGO"
+    "AVGO",
+    "MRVL",
+    "QRVO",
+    "Xilinx",
+    "INTC"
   ],
   "key_products": [
-    "Aster 2.0 PCIe IP",
-    "Aster 2.0 CXL IP",
-    "Aster 2.0 NVMe IP",
-    "Aster 2.0 Ethernet IP",
-    "Aster 2.0 Interconnect IP"
+    "Asterion PCIe Switch",
+    "Asterion CXL Switch",
+    "Asterion Thunderbolt 4 Switch",
+    "Asterion HDMI 2.1 Switch"
   ],
-  "extracted_at": "2026-06-12 18:06:25",
+  "extracted_at": "2026-06-18 18:30:37",
   "sources": [
     {
       "source": "Wikipedia",
@@ -49,13 +48,13 @@
       "source": "DuckDuckGo",
       "url": "https://www.asteralabs.com/faqs/who-are-astera-labs-primary-design-manufacturing-partners/",
       "query": "Astera Labs, Inc. suppliers manufacturers",
-      "snippet": "Who are Astera Labs’ primary design & manufacturing partners? We leverage industry leading partners in both our design and manufacturing process such "
+      "snippet": "Who are Astera Labs ’ primary design & manufacturing partners? We leverage industry leading partners in both our design and manufacturing process such"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://csimarket.com/stocks/ALAB-Customers",
       "query": "Astera Labs, Inc. major customers clients",
-      "snippet": "3 days ago · For your research, we’ve provided 9 tables on Astera Labs Inc corporate clients . You can find them in the navigation menu under Customer"
+      "snippet": "2 days ago · Astera Labs Inc customers and markets, results by customer and performance relative to ALAB, by company and industry - CSIMarket"
     },
     {
       "source": "DuckDuckGo",

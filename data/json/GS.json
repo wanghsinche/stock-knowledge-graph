@@ -1,37 +1,37 @@
 {
   "ticker": "GS",
   "company_name": "The Goldman Sachs Group, Inc.",
-  "sector": "Financial Services",
-  "industry": "Capital Markets",
+  "sector": "Financial Services / Capital Markets",
+  "industry": "Investment Banking",
   "upstream": [
-    "Bloomberg L.P.",
+    "Bloomberg",
     "Thomson Reuters",
-    "MSFT",
-    "AMZN",
-    "ORCL"
+    "FactSet",
+    "S&P Global",
+    "MSFT"
   ],
   "downstream": [
-    "Corporate clients (e.g., Fortune 500 companies)",
-    "Sovereign and municipal governments",
-    "Institutional investors (pension funds, endowments)",
-    "Hedge funds and private equity firms",
-    "Retail investors through wealth‑management platforms"
+    "Corporations",
+    "Governments",
+    "Institutional investors",
+    "Pension funds",
+    "High net worth individuals"
   ],
   "competitors": [
-    "JPMorgan Chase & Co.",
+    "JPMorgan Chase",
     "Morgan Stanley",
-    "Bank of America",
+    "Bank of America Merrill Lynch",
     "Citigroup",
     "Wells Fargo"
   ],
   "key_products": [
-    "Investment banking advisory",
+    "Investment banking services",
     "Securities underwriting",
     "Asset management",
     "Wealth management",
-    "Prime brokerage & trading services"
+    "Capital markets research"
   ],
-  "extracted_at": "2026-06-17 18:16:28",
+  "extracted_at": "2026-06-18 18:30:51",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.goldmansachs.com/",
+      "url": "https://en.wikipedia.org/wiki/Goldman_Sachs",
       "query": "The Goldman Sachs Group, Inc. suppliers manufacturers",
+      "snippet": "The Goldman Sachs Group , Inc . (/ sæks / SAKS) is an American multinational investment bank and financial services company. Founded in 1869, Goldman "
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/GS-Suppliers",
+      "query": "The Goldman Sachs Group, Inc. suppliers manufacturers",
+      "snippet": "4 days ago · The Goldman Sachs Group Inc 's Suppliers recorded an increase in sales by 20.08 % year on year in Q1 2026, sequentially sales grew by 17."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.goldmansachs.com/",
+      "query": "The Goldman Sachs Group, Inc. major customers clients",
       "snippet": "The Goldman Sachs Group , Inc . is a leading global investment banking, securities, and asset and wealth management firm that provides a wide range of"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://finance.yahoo.com/quote/GS/",
-      "query": "The Goldman Sachs Group, Inc. suppliers manufacturers",
+      "query": "The Goldman Sachs Group, Inc. major customers clients",
       "snippet": "Find the latest The Goldman Sachs Group , Inc . (GS) stock quote, history, news and other vital information to help you with your stock trading and in"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Goldman_Sachs",
-      "query": "The Goldman Sachs Group, Inc. major customers clients",
-      "snippet": "The Goldman Sachs Group , Inc . is an American multinational investment bank and financial services company. The Goldman Sachs Group , Inc . Headquart"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.goldmansachs.com/",
-      "query": "The Goldman Sachs Group, Inc. major customers clients",
-      "snippet": "The Goldman Sachs Group , Inc . is a leading global investment banking, securities, and asset and wealth management firm that provides a wide range of"
     }
   ]
 }

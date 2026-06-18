@@ -3,8 +3,8 @@ ticker: RKLB
 company: Rocket Lab Corporation
 sector: Industrials
 industry: Aerospace & Defense
-extracted_at: 2026-06-17 18:14:05
-last_updated: 2026-06-17
+extracted_at: 2026-06-18 18:31:24
+last_updated: 2026-06-18
 ---
 
 # RKLB - Rocket Lab Corporation
@@ -12,46 +12,28 @@ last_updated: 2026-06-17
 ## 基本信息
 
 - **所属行业**: Industrials / Aerospace & Defense
-- **提取时间**: 2026-06-17 18:14:05
+- **提取时间**: 2026-06-18 18:31:24
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Composite materials suppliers]]
-- [[Titanium alloy suppliers]]
-- [[Electronic component suppliers]]
-- [[Propellant suppliers (MMH/N2O4)]]
-- [[3D printing suppliers]]
+_暂无数据_
 
 ### 下游客户
-- [[Planet Labs]]
-- [[Planet]]
-- [[NASA]]
-- [[US Space Force]]
-- [[US Air Force]]
+_暂无数据_
 
 ### 竞争对手
-- [[SpaceX]]
-- [[Blue Origin]]
-- [[Firefly Aerospace]]
-- [[Relativity Space]]
-- [[United Launch Alliance]]
+_暂无数据_
 
 ### 核心产品
-- [[Electron rocket]]
-- [[Neutron rocket]]
-- [[Satellite launch services]]
-- [[Payload integration services]]
-- [[Small satellite launch services]]
+_暂无数据_
 
 ## 数据来源
 
-- 
+- [Rocket Lab](https://en.wikipedia.org/wiki/Rocket_Lab_Corporation)
 - [Rocket Lab Corporation suppliers manufacturers](https://rocketlabcorp.com/)
-- [Rocket Lab Corporation suppliers manufacturers](https://seekingalpha.com/symbol/RKLB)
-- [Rocket Lab Corporation major customers clients](https://rocketlabcorp.com/)
-- [Rocket Lab Corporation major customers clients](https://seekingalpha.com/symbol/RKLB)
+- [Rocket Lab Corporation suppliers manufacturers](https://www.businesswire.com/news/home/20250524371387/en/Rocket-Lab-Enters-Payload-Market-with-Agreement-to-Acquire-Geost-Positioning-Itself-as-Disruptive-Prime-to-U.S.-National-Security)
 
 ## 元数据
 
-- **更新日期**: 2026-06-17
+- **更新日期**: 2026-06-18

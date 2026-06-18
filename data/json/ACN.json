@@ -4,64 +4,64 @@
   "sector": "Technology",
   "industry": "Information Technology Services",
   "upstream": [
-    "DELL",
-    "CSCO",
     "MSFT",
+    "AMZN",
+    "GOOGL",
     "IBM",
-    "HPQ"
+    "ORCL"
   ],
   "downstream": [
     "MSFT",
     "AMZN",
-    "Walmart",
-    "Coca‑Cola",
-    "Bank of America"
+    "GOOGL",
+    "Bank of America",
+    "General Electric"
   ],
   "competitors": [
     "Deloitte",
     "PwC",
     "EY",
-    "KPMG",
-    "IBM"
+    "IBM",
+    "Capgemini"
   ],
   "key_products": [
-    "Digital Transformation Consulting",
-    "Cloud Services",
-    "Cybersecurity Solutions",
-    "Analytics & AI Services",
-    "Enterprise Software Integration"
+    "Management consulting",
+    "Technology consulting",
+    "Digital transformation",
+    "Cloud services",
+    "Cybersecurity"
   ],
-  "extracted_at": "2026-03-19 16:51:49",
+  "extracted_at": "2026-06-18 18:25:53",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Accenture_plc",
       "title": "Accenture",
-      "snippet": "Accenture plc is a multinational technology consulting company headquartered in Dublin, Ireland. Founded in 1989, Accenture provides information technology and management consulting services across 12"
+      "snippet": "Accenture plc is an Irish technology consulting company headquartered in Dublin, Ireland. Founded in 1989, Accenture provides information technology and management consulting services across 120 count"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/List_of_acquisitions_by_Accenture",
+      "query": "Accenture plc suppliers manufacturers",
+      "snippet": "List of acquisitions by Accenture Following is a list of acquisitions by Accenture from 2013 until the present. Accenture plc is an American professio"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://csimarket.com/stocks/ACN-Suppliers",
       "query": "Accenture plc suppliers manufacturers",
-      "snippet": "Accenture Plc supply chain, list and performance of Accenture Plcs ' suppliers - CSIMarket."
+      "snippet": "1 day ago · Accenture Plc 's Comment on Supply Chain We combine our capabilities across management consulting, technology and business process outsour"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://simplywall.st/stocks/us/software/nyse-acn/accenture",
-      "query": "Accenture plc suppliers manufacturers",
-      "snippet": "Research Accenture 's (NYSE:ACN) fundamentals, past performance, valuation, dividends and more."
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Accenture",
+      "url": "https://www.researchandmarkets.com/reports/4029099/accenture-plc-company-profile-and-swot-analysis",
       "query": "Accenture plc major customers clients",
-      "snippet": "Accenture plc is a multinational technology consulting company headquartered in Dublin, Ireland. Founded in 1989, Accenture provides information techn"
+      "snippet": "Assess Accenture plc as a prospective partner, vendor or supplier. Support sales activities by understanding your customers ' businesses better. Stay "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://newsroom.accenture.com/fact-sheet",
+      "url": "https://www.360quadrants.com/software/application-testing-services/accenture-plc",
       "query": "Accenture plc major customers clients",
-      "snippet": "We continue to be the reinvention partner of choice, serving approximately 9,000 clients including a significant portion of the Fortune Global 100 and"
+      "snippet": "View ACCENTURE PLC ’s reviews, use cases, case studies, features, clients and more in Software Testing Tools."
     }
   ]
 }

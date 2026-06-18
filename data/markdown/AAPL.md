@@ -3,8 +3,8 @@ ticker: AAPL
 company: Apple Inc.
 sector: Technology
 industry: Consumer Electronics
-extracted_at: 2026-06-17 18:11:13
-last_updated: 2026-06-17
+extracted_at: 2026-06-18 18:22:35
+last_updated: 2026-06-18
 ---
 
 # AAPL - Apple Inc.
@@ -12,30 +12,27 @@ last_updated: 2026-06-17
 ## 基本信息
 
 - **所属行业**: Technology / Consumer Electronics
-- **提取时间**: 2026-06-17 18:11:13
+- **提取时间**: 2026-06-18 18:22:35
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Foxconn (Hon Hai Precision Industry Co., Ltd.)]]
+- [[Shenzhen Desay Battery]]
 - [[TSM]]
-- [[005930.KS]]
-- [[ASE Group]]
-- [[Pegatron]]
 
 ### 下游客户
-- [[AAPL]]
-- [[Best Buy]]
-- [[AMZN]]
-- [[Walmart]]
-- [[Target]]
+- [[Consumers]]
+- [[Enterprise customers]]
+- [[CAT]]
+- [[Government agencies]]
+- [[App developers]]
 
 ### 竞争对手
 - [[005930.KS]]
-- [[MSFT]]
 - [[GOOGL]]
-- [[AMZN]]
-- [[SONY]]
+- [[MSFT]]
+- [[Huawei]]
+- [[Xiaomi]]
 
 ### 核心产品
 - [[iPhone]]
@@ -50,8 +47,8 @@ last_updated: 2026-06-17
 - [Apple Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/List_of_Apple_Inc._suppliers)
 - [Apple Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/Apple_supply_chain)
 - [Apple Inc. major customers clients](https://csimarket.com/stocks/AAPL-Customers)
-- [Apple Inc. major customers clients](https://techbiva.com/trends/who-are-apples-customers/)
+- [Apple Inc. major customers clients](https://www.appsruntheworld.com/customers-database/vendors/view/apple)
 
 ## 元数据
 
-- **更新日期**: 2026-06-17
+- **更新日期**: 2026-06-18

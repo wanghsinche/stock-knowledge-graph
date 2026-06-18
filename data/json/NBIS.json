@@ -1,63 +1,67 @@
 {
   "ticker": "NBIS",
-  "company_name": "NBIS",
+  "company_name": "Nebius Group N.V.",
   "sector": "Communication Services",
   "industry": "Internet Content & Information",
   "upstream": [
-    "Nebius Group N.V."
+    "Nebius Group N.V.",
+    "AI infrastructure providers",
+    "Cloud service providers",
+    "Data center operators",
+    "Hardware manufacturers"
   ],
   "downstream": [
-    "CAT",
-    "Internet service providers",
-    "Content delivery networks",
-    "Media and entertainment companies",
-    "Enterprise IT departments"
+    "Clients of AI infrastructure",
+    "Technology partners",
+    "Enterprise customers",
+    "Research institutions",
+    "Startups"
   ],
   "competitors": [
-    "Akamai Technologies",
-    "Cloudflare",
-    "Fastly",
-    "Limelight Networks",
-    "AMZN"
+    "OpenAI",
+    "GOOGL",
+    "AMZN",
+    "MSFT",
+    "IBM"
   ],
   "key_products": [
-    "Content delivery network services",
-    "Edge computing solutions",
-    "Web acceleration",
-    "Security and DDoS protection",
-    "Video streaming optimization"
+    "Artificial intelligence infrastructure",
+    "Avride",
+    "TripleTen",
+    "Toloka",
+    "Clickhouse"
   ],
-  "extracted_at": "2026-06-17 18:11:47",
+  "extracted_at": "2026-06-18 18:24:44",
   "sources": [
     {
       "source": "Wikipedia",
-      "url": "",
-      "title": "",
-      "snippet": ""
+      "url": "https://en.wikipedia.org/wiki/NBIS",
+      "title": "Nebius Group",
+      "snippet": "Nebius Group N.V., headquartered in Amsterdam, is a technology company that provides artificial intelligence infrastructure. The company also owns Avride and TripleTen, as well as stakes in Toloka and"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Nebius_Group",
       "query": "NBIS suppliers manufacturers",
-      "snippet": "Nebius Group N.V., headquartered in Amsterdam, is a technology company [3] that provides artificial intelligence infrastructure. [4] . The company als"
+      "snippet": "Nebius Group N.V., headquartered in Amsterdam, is a technology company [3] that provides artificial intelligence infrastructure. [4] The company also "
     },
     {
       "source": "DuckDuckGo",
       "url": "https://csimarket.com/stocks/NBIS-Suppliers",
       "query": "NBIS suppliers manufacturers",
-      "snippet": "May 3, 2025 · For your research, we’ve provided nine additional tables on Nebius Group n v ’s suppliers . You can find them in the navigation menu und"
+      "snippet": "May 3, 2025 · Sources: Nebius Group n v 's official press releases and regulatory filings; CSIMarket.com's supply -chain research; and the financial f"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Nebius_Group",
+      "url": "https://blockonomi.com/nebius-nbis-stock-soars-9-on-nasdaq-100-addition-following-320-annual-surge/",
       "query": "NBIS major customers clients",
-      "snippet": "In December 2024, Nebius raised $700 million through private investors, including Nvidia (which acquired 0.5% of Nebius ) and Accel Partners. [5]"
+      "snippet": "NBIS rose 8.9% during pre-market hours following confirmation of its Nasdaq-100 inclusion, set to take effect on June 22. Shares have climbed 320% ove"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/NBIS-Customers",
+      "url": "https://www.foreignpolicyjournal.com/2026/06/14/nebius-group-nasdaq-nbis-stock-enters-nasdaq-100-as-ai-infrastructure-demand-and-index-flows-converge/",
       "query": "NBIS major customers clients",
-      "snippet": "1 day ago · For your research, we’ve provided 9 tables on Nebius Group n v corporate clients . You can find them in the navigation menu under Customer"
+      "snippet": "Nebius Group (NASDAQ: NBIS ) is set to join the Nasdaq-100 Index as part of the June 2026 rebalance, marking a significant milestone for the AI infras"
     }
   ]
 }

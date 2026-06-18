@@ -1,37 +1,37 @@
 {
   "ticker": "ASTS",
   "company_name": "AST SpaceMobile, Inc.",
-  "sector": "Technology",
-  "industry": "Communication Equipment",
+  "sector": "Technology / Communication Equipment",
+  "industry": "Satellite Communications",
   "upstream": [
     "Satellite component manufacturers",
+    "Electronics suppliers",
     "Launch service providers",
-    "Antenna and RF equipment suppliers",
-    "Satellite bus manufacturers",
-    "Ground station equipment vendors"
+    "Ground station equipment vendors",
+    "Software and firmware developers"
   ],
   "downstream": [
-    "Mobile network operators (e.g., AT&T, Verizon, T-Mobile, Vodafone)",
-    "Enterprise broadband customers",
-    "Government and defense agencies",
-    "IoT and asset‑tracking service providers",
-    "Consumer satellite phone users"
+    "Mobile network operators",
+    "Government agencies",
+    "Enterprise customers",
+    "Internet service providers",
+    "CAT"
   ],
   "competitors": [
-    "SpaceX Starlink",
+    "SpaceX (Starlink)",
     "OneWeb",
     "AMZN",
     "Telesat",
-    "Hughes Network Systems"
+    "Viasat"
   ],
   "key_products": [
-    "Space‑based cellular broadband network",
-    "Satellite modems and terminals",
-    "Satellite antennas for mobile devices",
-    "Ground‑station infrastructure",
-    "Satellite‑to‑ground communication services"
+    "BlueBird satellite constellation",
+    "SpaceMobile Network platform",
+    "Satellite broadband services",
+    "Ground segment solutions",
+    "Integrated satellite‑to‑mobile connectivity"
   ],
-  "extracted_at": "2026-06-17 18:14:51",
+  "extracted_at": "2026-06-18 18:31:36",
   "sources": [
     {
       "source": "Wikipedia",
@@ -49,19 +49,19 @@
       "source": "DuckDuckGo",
       "url": "https://ast-science.com/",
       "query": "AST SpaceMobile, Inc. suppliers manufacturers",
-      "snippet": "We have partnered with over 50 mobile network operators to seamlessly integrate with ground infrastructure and offer a turnkey service to their nearly"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.marketbeat.com/stocks/NASDAQ/ASTS/",
-      "query": "AST SpaceMobile, Inc. major customers clients",
-      "snippet": "Should You Buy or Sell AST SpaceMobile Stock? Get The Latest ASTS Stock Analysis, Price Target, Earnings Estimates, Headlines, and Short Interest at M"
+      "snippet": "The SpaceMobile Network Our BlueBird satellites provide full broadband directly to standard smartphones without specialized hardware or phone modifica"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://ast-science.com/",
       "query": "AST SpaceMobile, Inc. major customers clients",
-      "snippet": "AST SpaceMobile is building the first and only space -based cellular broadband network accessible directly by standard, unmodified mobile phones."
+      "snippet": "AST SpaceMobile is working to close that gap. Our space -based technology is designed to connect the unconnected, bringing broadband access directly t"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.marketbeat.com/articles/ast-spacemobile-stock-surges-17-after-analyst-upgrade/",
+      "query": "AST SpaceMobile, Inc. major customers clients",
+      "snippet": "AST SpaceMobile shares skyrocketed after an analyst upgrade and the announcement of a new government contract; can the firm continue to live up to the"
     }
   ]
 }

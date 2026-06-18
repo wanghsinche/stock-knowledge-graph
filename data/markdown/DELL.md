@@ -3,8 +3,8 @@ ticker: DELL
 company: Dell Technologies Inc.
 sector: Technology
 industry: Computer Hardware
-extracted_at: 2026-06-17 18:14:25
-last_updated: 2026-06-17
+extracted_at: 2026-06-18 18:27:16
+last_updated: 2026-06-18
 ---
 
 # DELL - Dell Technologies Inc.
@@ -12,7 +12,7 @@ last_updated: 2026-06-17
 ## 基本信息
 
 - **所属行业**: Technology / Computer Hardware
-- **提取时间**: 2026-06-17 18:14:25
+- **提取时间**: 2026-06-18 18:27:16
 
 ## 产业链关系
 
@@ -21,28 +21,28 @@ last_updated: 2026-06-17
 - [[AMD]]
 - [[NVDA]]
 - [[005930.KS]]
-- [[TSM]]
+- [[SK Hynix]]
 
 ### 下游客户
-- [[Enterprise IT departments]]
+- [[Enterprise IT customers]]
 - [[Government agencies]]
+- [[Small and medium businesses]]
 - [[CAT]]
-- [[Healthcare providers]]
-- [[Retail and e‑commerce businesses]]
+- [[Retail consumers]]
 
 ### 竞争对手
 - [[HPQ]]
 - [[Lenovo]]
 - [[AAPL]]
 - [[Acer]]
-- [[MSFT]]
+- [[Asus]]
 
 ### 核心产品
-- [[Personal computers (laptops & desktops)]]
-- [[Servers & storage solutions]]
-- [[Monitors & display devices]]
-- [[Networking & security equipment]]
-- [[Cloud & data‑center services]]
+- [[Dell PowerEdge servers]]
+- [[Dell EMC storage arrays]]
+- [[Dell XPS laptops]]
+- [[Alienware gaming PCs]]
+- [[Dell monitors]]
 
 ## 数据来源
 
@@ -54,4 +54,4 @@ last_updated: 2026-06-17
 
 ## 元数据
 
-- **更新日期**: 2026-06-17
+- **更新日期**: 2026-06-18

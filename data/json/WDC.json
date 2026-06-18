@@ -5,33 +5,33 @@
   "industry": "Computer Hardware",
   "upstream": [
     "MU",
-    "Printed circuit board (PCB) manufacturers",
-    "Magnetic media suppliers",
-    "Firmware and software development partners",
-    "Packaging and logistics providers"
+    "005930.KS",
+    "SK Hynix",
+    "Toshiba",
+    "STX"
   ],
   "downstream": [
     "DELL",
-    "DELL",
-    "MSFT",
+    "HPQ",
+    "Lenovo Group",
     "AAPL",
-    "Cloud service providers"
+    "AMZN"
   ],
   "competitors": [
     "STX",
     "Toshiba",
     "005930.KS",
     "MU",
-    "SK Hynix"
+    "IBM"
   ],
   "key_products": [
     "Hard Disk Drives (HDDs)",
     "Solid State Drives (SSDs)",
-    "External storage devices (e.g., My Passport, My Cloud)",
-    "Enterprise storage solutions (e.g., Ultrastar, WD Red)",
-    "Personal storage devices (e.g., WD My Book)"
+    "External Storage Devices",
+    "Enterprise Storage Solutions",
+    "USB Flash Drives"
   ],
-  "extracted_at": "2026-06-17 18:10:50",
+  "extracted_at": "2026-06-18 18:23:35",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ru.wikipedia.org/wiki/Western_Digital",
+      "url": "https://www.westerndigital.com/company/distributors",
       "query": "Western Digital Corporation suppliers manufacturers",
-      "snippet": "Western Digital Corporation .SSD Western Digital Green 120 Gb. Western Digital Corporation (NASDAQ: WDC. , по-русски «Вестерн Диджитал»[3]) — компания"
+      "snippet": "Find Distributors & Resellers Purchase from your preferred Western Digital authorized partner Region Country/Area Brand"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://tradestie.com/apps/options/classic-analysis/WDC/",
+      "url": "https://csimarket.com/stocks/WDC-Suppliers",
       "query": "Western Digital Corporation suppliers manufacturers",
-      "snippet": "Western Digital is a leading vertically integrated supplier of hard disk drives. The HDD market is a practical duopoly, with Western Digital and Seaga"
+      "snippet": "May 3, 2026 · Western Digital supply chain, list and performance of Western Digitals' suppliers - CSIMarket"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://community.wd.com/",
+      "url": "https://www.tikr.com/blog/why-western-digital-stock-is-still-undervalued-despite-a-900-run-in-12-months",
       "query": "Western Digital Corporation major customers clients",
-      "snippet": "Western Digital Business Portal. Unlock benefits and tools for your business such as enterprise support, pricing and rebate tools, marketing, loyalty,"
+      "snippet": "Priced at roughly 41x trailing normalized EPS against a FY26 consensus estimate of approximately $8.93 per share, Western Digital stock appears underv"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.mycloud.com/",
+      "url": "https://www.sandisk.com/",
       "query": "Western Digital Corporation major customers clients",
-      "snippet": "© 2020 Western Digital Corporation или аффилированные лица."
+      "snippet": "High-performance SSDs, memory cards, and USB Flash Drives designed to prioritize speed, reliability, and energy efficiency for gamers, digital photogr"
     }
   ]
 }

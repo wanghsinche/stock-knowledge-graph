@@ -3,8 +3,8 @@ ticker: PLTR
 company: Palantir Technologies Inc.
 sector: Technology
 industry: Software - Infrastructure
-extracted_at: 2026-06-17 18:12:19
-last_updated: 2026-06-17
+extracted_at: 2026-06-18 18:24:33
+last_updated: 2026-06-18
 ---
 
 # PLTR - Palantir Technologies Inc.
@@ -12,37 +12,37 @@ last_updated: 2026-06-17
 ## 基本信息
 
 - **所属行业**: Technology / Software - Infrastructure
-- **提取时间**: 2026-06-17 18:12:19
+- **提取时间**: 2026-06-18 18:24:33
 
 ## 产业链关系
 
 ### 上游供应商
-- [[AMZN]]
 - [[MSFT]]
-- [[GOOGL]]
+- [[AMZN]]
+- [[DELL]]
 - [[IBM]]
-- [[ORCL]]
+- [[GOOGL]]
 
 ### 下游客户
 - [[U.S. Department of Defense]]
-- [[U.S. Federal Bureau of Investigation]]
 - [[U.S. Department of Homeland Security]]
-- [[U.K. Government]]
-- [[JPMorgan Chase]]
+- [[Financial services firms (e.g., JPMorgan Chase)]]
+- [[Healthcare providers (e.g., Mayo Clinic)]]
+- [[Retail and logistics companies (e.g., Walmart)]]
 
 ### 竞争对手
 - [[Snowflake]]
 - [[Databricks]]
 - [[Splunk]]
 - [[Tableau]]
-- [[MSFT]]
+- [[Qlik]]
 
 ### 核心产品
 - [[Palantir Foundry]]
 - [[Palantir Gotham]]
 - [[Palantir Apollo]]
-- [[Palantir Helix]]
-- [[Palantir Data Lake]]
+- [[Palantir Helios]]
+- [[Palantir Atlas]]
 
 ## 数据来源
 
@@ -54,4 +54,4 @@ last_updated: 2026-06-17
 
 ## 元数据
 
-- **更新日期**: 2026-06-17
+- **更新日期**: 2026-06-18

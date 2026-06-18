@@ -1,18 +1,18 @@
 ---
 ticker: AMZN
 company: Amazon.com, Inc.
-sector: Consumer Cyclical
-industry: Internet Retail
-extracted_at: 2026-06-17 18:11:23
-last_updated: 2026-06-17
+sector: Consumer Cyclical / Internet Retail
+industry: E‑commerce & Cloud Computing
+extracted_at: 2026-06-18 18:23:13
+last_updated: 2026-06-18
 ---
 
 # AMZN - Amazon.com, Inc.
 
 ## 基本信息
 
-- **所属行业**: Consumer Cyclical / Internet Retail
-- **提取时间**: 2026-06-17 18:11:23
+- **所属行业**: Consumer Cyclical / Internet Retail / E‑commerce & Cloud Computing
+- **提取时间**: 2026-06-18 18:23:13
 
 ## 产业链关系
 
@@ -20,29 +20,29 @@ last_updated: 2026-06-17
 - [[Book publishers]]
 - [[Electronics manufacturers]]
 - [[Apparel brands]]
-- [[Home goods manufacturers]]
 - [[Third‑party sellers]]
+- [[Logistics & fulfillment partners]]
 
 ### 下游客户
 - [[Individual consumers]]
-- [[Small businesses]]
-- [[Large enterprises (AWS customers)]]
+- [[Small & medium businesses]]
+- [[Enterprise customers (AWS)]]
 - [[Advertisers]]
-- [[Content creators]]
+- [[Streaming subscribers (Prime Video, Music)]]
 
 ### 竞争对手
 - [[Walmart]]
 - [[eBay]]
 - [[Alibaba]]
 - [[Shopify]]
-- [[MSFT]]
+- [[Target]]
 
 ### 核心产品
 - [[Amazon.com marketplace]]
 - [[Amazon Web Services (AWS)]]
-- [[Amazon Prime]]
-- [[Amazon Advertising]]
-- [[Amazon Echo/Alexa]]
+- [[Amazon Prime (subscription services)]]
+- [[Amazon Echo / Alexa]]
+- [[Amazon Kindle]]
 
 ## 数据来源
 
@@ -50,8 +50,8 @@ last_updated: 2026-06-17
 - [Amazon.com, Inc. suppliers manufacturers](https://supply.amazon.com/)
 - [Amazon.com, Inc. suppliers manufacturers](https://www.accio.com/supplier/amazon-suppliers-list)
 - [Amazon.com, Inc. major customers clients](https://ir.aboutamazon.com/)
-- [Amazon.com, Inc. major customers clients](https://sellercentral.amazon.com/)
+- [Amazon.com, Inc. major customers clients](https://www.amazon.com/shop/influencer-5be7a4bc)
 
 ## 元数据
 
-- **更新日期**: 2026-06-17
+- **更新日期**: 2026-06-18

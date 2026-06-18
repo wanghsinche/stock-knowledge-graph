@@ -3,8 +3,8 @@ ticker: INTC
 company: Intel Corporation
 sector: Technology
 industry: Semiconductors
-extracted_at: 2026-06-17 18:10:37
-last_updated: 2026-06-17
+extracted_at: 2026-06-18 18:21:50
+last_updated: 2026-06-18
 ---
 
 # INTC - Intel Corporation
@@ -12,7 +12,7 @@ last_updated: 2026-06-17
 ## 基本信息
 
 - **所属行业**: Technology / Semiconductors
-- **提取时间**: 2026-06-17 18:10:37
+- **提取时间**: 2026-06-18 18:21:50
 
 ## 产业链关系
 
@@ -21,12 +21,12 @@ last_updated: 2026-06-17
 - [[AMAT]]
 - [[LRCX]]
 - [[Tokyo Electron]]
-- [[KLA Corporation]]
+- [[KLA]]
 
 ### 下游客户
 - [[DELL]]
 - [[HPQ]]
-- [[Lenovo Group]]
+- [[Lenovo]]
 - [[AAPL]]
 - [[MSFT]]
 
@@ -34,24 +34,24 @@ last_updated: 2026-06-17
 - [[AMD]]
 - [[NVDA]]
 - [[QCOM]]
+- [[AVGO]]
 - [[TSM]]
-- [[005930.KS]]
 
 ### 核心产品
-- [[Intel Core processors]]
-- [[Intel Xeon processors]]
+- [[Intel Core CPUs]]
+- [[Intel Xeon CPUs]]
 - [[Intel Optane memory]]
-- [[Intel FPGA (Stratix)]]
-- [[Intel Ethernet controllers]]
+- [[Intel chipsets]]
+- [[Intel FPGAs]]
 
 ## 数据来源
 
 - [Intel](https://en.wikipedia.org/wiki/Intel_Corporation)
-- [Intel Corporation suppliers manufacturers](https://www.accio.com/supplier/manufacturer-intel-corporation)
+- [Intel Corporation suppliers manufacturers](https://en.wikipedia.org/wiki/List_of_Intel_manufacturing_sites)
 - [Intel Corporation suppliers manufacturers](https://csimarket.com/stocks/INTC-Suppliers)
-- [Intel Corporation major customers clients](https://www.marketbeat.com/originals/intel-foundrys-moment-of-truth-will-18a-deliver/)
-- [Intel Corporation major customers clients](https://www.fool.com/investing/2023/10/28/intel-foundry-snags-more-customers/)
+- [Intel Corporation major customers clients](https://finance.yahoo.com/quote/INTC/)
+- [Intel Corporation major customers clients](https://www.intc.com/)
 
 ## 元数据
 
-- **更新日期**: 2026-06-17
+- **更新日期**: 2026-06-18

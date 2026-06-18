@@ -1,37 +1,37 @@
 {
   "ticker": "AMZN",
   "company_name": "Amazon.com, Inc.",
-  "sector": "Consumer Cyclical",
-  "industry": "Internet Retail",
+  "sector": "Consumer Cyclical / Internet Retail",
+  "industry": "E‑commerce & Cloud Computing",
   "upstream": [
     "Book publishers",
     "Electronics manufacturers",
     "Apparel brands",
-    "Home goods manufacturers",
-    "Third‑party sellers"
+    "Third‑party sellers",
+    "Logistics & fulfillment partners"
   ],
   "downstream": [
     "Individual consumers",
-    "Small businesses",
-    "Large enterprises (AWS customers)",
+    "Small & medium businesses",
+    "Enterprise customers (AWS)",
     "Advertisers",
-    "Content creators"
+    "Streaming subscribers (Prime Video, Music)"
   ],
   "competitors": [
     "Walmart",
     "eBay",
     "Alibaba",
     "Shopify",
-    "MSFT"
+    "Target"
   ],
   "key_products": [
     "Amazon.com marketplace",
     "Amazon Web Services (AWS)",
-    "Amazon Prime",
-    "Amazon Advertising",
-    "Amazon Echo/Alexa"
+    "Amazon Prime (subscription services)",
+    "Amazon Echo / Alexa",
+    "Amazon Kindle"
   ],
-  "extracted_at": "2026-06-17 18:11:23",
+  "extracted_at": "2026-06-18 18:23:13",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,7 +43,7 @@
       "source": "DuckDuckGo",
       "url": "https://supply.amazon.com/",
       "query": "Amazon.com, Inc. suppliers manufacturers",
-      "snippet": "Join Amazon' s global network of suppliers to be considered for opportunities to sell Amazon the goods and services necessary to support our retail an"
+      "snippet": "At Amazon , we look for suppliers who want to become partners on our road to being earth’s most customer-centric company. Supplier Connect enables sup"
     },
     {
       "source": "DuckDuckGo",
@@ -55,13 +55,13 @@
       "source": "DuckDuckGo",
       "url": "https://ir.aboutamazon.com/",
       "query": "Amazon.com, Inc. major customers clients",
-      "snippet": "Twitter. Youtube. Shop Amazon . com ."
+      "snippet": "The Spheres. Select awards and recognition. Amazon . com Conditions of Use © 1996- Amazon . com , Inc . - IR or its affiliates."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://sellercentral.amazon.com/",
+      "url": "https://www.amazon.com/shop/influencer-5be7a4bc",
       "query": "Amazon.com, Inc. major customers clients",
-      "snippet": "Log in to your Amazon seller account, or sign up to create a seller account.Increase sales with better listings. Fulfillment by Amazon . Outsource shi"
+      "snippet": "Shop recommended products from Buy Smart, Not Twice – with Lily on www. amazon . com . Reach customers wherever they spend their time. 6pm. Score deal"
     }
   ]
 }

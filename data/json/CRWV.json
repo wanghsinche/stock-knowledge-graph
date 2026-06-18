@@ -1,37 +1,37 @@
 {
   "ticker": "CRWV",
   "company_name": "CoreWeave, Inc.",
-  "sector": "Technology",
-  "industry": "Software - Infrastructure",
+  "sector": "Technology / Software - Infrastructure",
+  "industry": "AI Cloud Computing",
   "upstream": [
     "NVDA",
     "AMD",
     "INTC",
-    "QCOM",
-    "AVGO"
+    "Xilinx",
+    "QCOM"
   ],
   "downstream": [
     "AI developers",
-    "Enterprise customers",
-    "Startups",
+    "Enterprise AI teams",
     "Research institutions",
-    "Gaming companies"
+    "Gaming studios",
+    "Fintech companies"
   ],
   "competitors": [
     "AMZN",
-    "MSFT",
     "GOOGL",
+    "MSFT",
     "IBM",
     "NVDA"
   ],
   "key_products": [
-    "GPU cloud infrastructure",
-    "Chip management software",
-    "GPU virtualization services",
-    "AI compute clusters",
-    "Data center management tools"
+    "GPU cloud platform",
+    "GPU management software",
+    "AI training services",
+    "GPU virtualization",
+    "GPU compute instances"
   ],
-  "extracted_at": "2026-06-17 18:14:16",
+  "extracted_at": "2026-06-18 18:29:20",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,9 +47,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.coreweave.com/products/nvidia-blackwell",
+      "url": "https://www.coreweave.com/why-coreweave",
       "query": "CoreWeave, Inc. suppliers manufacturers",
-      "snippet": "CoreWeave earns SemiAnalysis’ Platinum ClusterMAX™ rating.Zero egress data migration to CoreWeave with no fees, no lock-in, and expert-led transfers t"
+      "snippet": "CoreWeave Cloud is the force multiplier for every stage of AI development, offering the pace, performance, and partnership you need to accelerate AI i"
     },
     {
       "source": "DuckDuckGo",
@@ -59,9 +59,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://brokstock.co.za/markets/us-shares/crwv/",
+      "url": "https://www.coreweave.com/why-coreweave",
       "query": "CoreWeave, Inc. major customers clients",
-      "snippet": "Financial overview of CoreWeave Inc , Share CFDs including CRWV Stock Price, charts, analysis, share historical data and more."
+      "snippet": "CoreWeave Cloud is the force multiplier for every stage of AI development, offering the pace, performance, and partnership you need to accelerate AI i"
     }
   ]
 }

@@ -4,40 +4,40 @@
   "sector": "Technology",
   "industry": "Software - Application",
   "upstream": [
-    "AMZN",
     "MSFT",
+    "AMZN",
     "GOOGL",
-    "DELL",
-    "HPQ"
+    "ORCL",
+    "IBM"
   ],
   "downstream": [
+    "General Electric",
+    "Coca‑Cola",
+    "Bank of America",
     "Walmart",
-    "JPMorgan Chase",
-    "AT&T",
-    "Verizon",
-    "Coca‑Cola"
+    "MSFT"
   ],
   "competitors": [
     "CRM",
     "SAP",
-    "MSFT",
     "ORCL",
-    "Workday"
+    "MSFT",
+    "Atlassian"
   ],
   "key_products": [
     "Now Platform",
     "IT Service Management (ITSM)",
     "IT Operations Management (ITOM)",
-    "HR Service Delivery",
-    "Customer Service Management"
+    "IT Business Management (ITBM)",
+    "Customer Service Management (CSM)"
   ],
-  "extracted_at": "2026-06-17 18:16:06",
+  "extracted_at": "2026-06-18 18:30:25",
   "sources": [
     {
       "source": "Wikipedia",
-      "url": "",
-      "title": "",
-      "snippet": ""
+      "url": "https://en.wikipedia.org/wiki/ServiceNow,_Inc.",
+      "title": "ServiceNow",
+      "snippet": "ServiceNow, Inc. is an American software company that supplies cloud computing platforms for the creation and management of automated business workflows. The company was founded in Santa Clara, Califo"
     },
     {
       "source": "DuckDuckGo",
@@ -53,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.servicenow.com/",
+      "url": "https://www.aventionmedia.com/technology-installed-base/servicenow/",
       "query": "ServiceNow, Inc. major customers clients",
-      "snippet": "Customer Service Management. Empower self- service , boost agent productivity, and speed up resolution. Strategic Portfolio Management.Learn how Servi"
+      "snippet": "Discover Avention Media’s accurate and customizable ServiceNow customers list. Our verified ServiceNow data helps you target key decision-makers and c"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://twelvedata.com/markets/688624/stock/mta/1now/statistics",
+      "url": "https://data.landbase.com/technology/servicenow/",
       "query": "ServiceNow, Inc. major customers clients",
-      "snippet": "Comprehensive market data for ServiceNow , Inc . (1 NOW ). Explore various metrics, charts, and historical data to make informed decisions."
+      "snippet": "Aug 17, 2025 · ServiceNow by ServiceNow, is a cloud-based platform designed for digital workflows. It’s commonly employed to automate and enhance vari"
     }
   ]
 }

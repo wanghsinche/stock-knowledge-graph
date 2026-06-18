@@ -4,64 +4,64 @@
   "sector": "Industrials",
   "industry": "Electrical Equipment & Parts",
   "upstream": [
-    "Platinum suppliers",
-    "Iridium suppliers",
-    "Electrolyte manufacturers",
-    "Membrane producers",
-    "Stack component suppliers"
+    "Natural gas suppliers",
+    "Biogas suppliers",
+    "Hydrogen suppliers",
+    "Electrolyzer component manufacturers",
+    "Fuel cell stack component suppliers"
   ],
   "downstream": [
-    "Utilities",
-    "Data centers",
-    "Hospitals",
-    "Universities",
-    "Government agencies"
+    "AMZN",
+    "GOOGL",
+    "MSFT",
+    "Facebook Data Centers",
+    "Manufacturing plants"
   ],
   "competitors": [
+    "Plug Power",
     "FuelCell Energy",
-    "Heliogen",
-    "PowerCell",
-    "Sierra Energy",
-    "H2 Energy"
+    "Ballard Power Systems",
+    "Hydrogenics",
+    "PowerCell Sweden"
   ],
   "key_products": [
-    "Bloom Energy Server 1.5 MW",
-    "Bloom Energy Server 3 MW",
-    "Bloom Energy Server 5 MW",
-    "Bloom Energy Server 10 MW",
-    "Bloom Energy Server 20 MW"
+    "Solid Oxide Fuel Cells (SOFCs)",
+    "Bloom Energy Server",
+    "Electrolyzers for Hydrogen Production",
+    "Hybrid Power Systems",
+    "On‑site Power Generation Solutions"
   ],
-  "extracted_at": "2026-06-17 18:15:52",
+  "extracted_at": "2026-06-18 18:27:06",
   "sources": [
     {
       "source": "Wikipedia",
-      "url": "",
-      "title": "",
-      "snippet": ""
+      "url": "https://en.wikipedia.org/wiki/Bloom_Energy_Corporation",
+      "title": "Bloom Energy",
+      "snippet": "Bloom Energy is an American public company that designs and manufactures solid oxide fuel cells (SOFCs) which independently produce electricity onsite for power generation in data centers, manufacturi"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.marketscreener.com/quote/stock/BLOOM-ENERGY-CORPORATION-45031987/company/",
+      "query": "Bloom Energy Corporation suppliers manufacturers",
+      "snippet": "Bloom Energy Corporation is engaged in stationary fuel cell power generation by market share. The Company provides distributed energy technology solut"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://uk.finance.yahoo.com/quote/0A4L.L/profile/",
+      "query": "Bloom Energy Corporation suppliers manufacturers",
+      "snippet": "See the company profile for Bloom Energy Corporation (0A4L.L), including business summary, industry/sector information, number of employees, corporate"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Bloom_Energy",
-      "query": "Bloom Energy Corporation suppliers manufacturers",
+      "query": "Bloom Energy Corporation major customers clients",
       "snippet": "Bloom Energy (formerly, Ion America) is an American public company that designs and manufactures solid oxide fuel cells (SOFCs) which independently pr"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/List_of_fuel_cell_manufacturers",
-      "query": "Bloom Energy Corporation suppliers manufacturers",
-      "snippet": "Fuel cells differ from batteries in that they are designed for continuous replenishment of the reactants consumed. This is a partial list of companies"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.energyandcapital.com/bloom-energy-brings-on-big-customers/",
+      "url": "https://www.bloomenergy.com/customers/",
       "query": "Bloom Energy Corporation major customers clients",
-      "snippet": "California-based fuel cell manufacturer Bloom Energy expands its customer base by supplying Coca-Cola and NASA with its unique solid oxide fuel cell e"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.linkedin.com/company/bloom-energy",
-      "query": "Bloom Energy Corporation major customers clients",
-      "snippet": "Bloom Energy empowers businesses and communities to responsibly take charge of their energy . The company’s leading solid-oxide platform for distribut"
+      "snippet": "Bloom Energy 's customers have important goals: clean energy , dependency, resiliency, reliability, and affordability. We're here to help reach those "
     }
   ]
 }

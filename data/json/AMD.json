@@ -11,27 +11,27 @@
     "INTC"
   ],
   "downstream": [
+    "MSFT",
+    "AMZN",
+    "GOOGL",
     "DELL",
-    "HPQ",
-    "Lenovo",
-    "SONY",
-    "MSFT"
+    "HPQ"
   ],
   "competitors": [
     "INTC",
     "NVDA",
     "QCOM",
     "AVGO",
-    "TXN"
+    "005930.KS"
   ],
   "key_products": [
     "Ryzen CPUs",
-    "EPYC CPUs",
+    "EPYC servers",
     "Radeon GPUs",
     "Radeon Instinct GPUs",
-    "Radeon Pro GPUs"
+    "Ryzen Threadripper"
   ],
-  "extracted_at": "2026-06-17 18:10:14",
+  "extracted_at": "2026-06-18 18:23:02",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/AMD",
+      "url": "https://csimarket.com/stocks/AMD-Suppliers",
       "query": "Advanced Micro Devices, Inc. suppliers manufacturers",
+      "snippet": "4 days ago · Advanced Micro Devices Inc's Sup pliers recorded an increase in sales by 9.44 % year on year in Q1 2026, sequentially sales grew by 5.04 "
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://thepartsdirect.com/advancedmicrodevicesamd/distributors-and-vendors",
+      "query": "Advanced Micro Devices, Inc. suppliers manufacturers",
+      "snippet": "144 Distributors & Vendors, 1 Locations associated to Advanced Micro Devices (AMD)"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/AMD",
+      "query": "Advanced Micro Devices, Inc. major customers clients",
       "snippet": "Advanced Micro Devices , Inc . is an American multinational semiconductor company headquartered in Santa Clara, California. It develops central proces"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.britannica.com/money/Advanced-Micro-Devices-Inc",
-      "query": "Advanced Micro Devices, Inc. suppliers manufacturers",
-      "snippet": "Advanced Micro Devices , Inc . ( AMD ) is an American semiconductor designer and global supplier of computing and graphics technologies used in data c"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/AMD-Customers",
+      "url": "https://www.stockjabber.com/company/AMD/company-insights",
       "query": "Advanced Micro Devices, Inc. major customers clients",
-      "snippet": "Focus of this report: Advanced Micro Devices Inc ’ s corporate clients . For your research, we’ve provided 9 tables on Advanced Micro Devices Inc corp"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://matrixbcg.com/blogs/target-market/amd",
-      "query": "Advanced Micro Devices, Inc. major customers clients",
-      "snippet": "Sep 8, 2025 · AMD' s customer base is diverse, spanning individual consumers , businesses, and data centers. Key segments include PC gamers and creato"
+      "snippet": "Explore Advanced Micro Devices , Inc .'s business overview, products, customer base, competitors, revenue model, specialties, and geographic presence "
     }
   ]
 }

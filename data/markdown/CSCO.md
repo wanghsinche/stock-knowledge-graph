@@ -1,18 +1,18 @@
 ---
 ticker: CSCO
 company: Cisco Systems, Inc.
-sector: Technology / Communication Equipment
-industry: Networking Equipment
-extracted_at: 2026-06-11 18:46:18
-last_updated: 2026-06-11
+sector: Technology
+industry: Communication Equipment
+extracted_at: 2026-06-18 18:29:41
+last_updated: 2026-06-18
 ---
 
 # CSCO - Cisco Systems, Inc.
 
 ## 基本信息
 
-- **所属行业**: Technology / Communication Equipment / Networking Equipment
-- **提取时间**: 2026-06-11 18:46:18
+- **所属行业**: Technology / Communication Equipment
+- **提取时间**: 2026-06-18 18:29:41
 
 ## 产业链关系
 
@@ -21,37 +21,37 @@ last_updated: 2026-06-11
 - [[AVGO]]
 - [[QCOM]]
 - [[TXN]]
-- [[MU]]
+- [[NVDA]]
 
 ### 下游客户
-- [[AT&T]]
-- [[Verizon]]
-- [[GOOGL]]
-- [[MSFT]]
-- [[AMZN]]
+- [[Enterprise IT departments]]
+- [[CAT]]
+- [[Government agencies]]
+- [[CAT]]
+- [[Healthcare providers]]
 
 ### 竞争对手
 - [[JNPR]]
 - [[ANET]]
+- [[Huawei Technologies]]
 - [[HPQ]]
-- [[Huawei]]
-- [[Netgear]]
+- [[Extreme Networks]]
 
 ### 核心产品
 - [[Cisco routers]]
 - [[Cisco switches]]
-- [[Cisco security appliances]]
-- [[Webex]]
-- [[OpenDNS]]
+- [[Webex collaboration suite]]
+- [[Meraki cloud‑managed networking]]
+- [[OpenDNS security services]]
 
 ## 数据来源
 
 - [Cisco](https://en.wikipedia.org/wiki/Cisco_Systems,_Inc.)
-- [Cisco Systems, Inc. suppliers manufacturers](https://www.cisco.com/c/dam/en_us/about/supply-chain/cisco-supplier-list.pdf)
-- [Cisco Systems, Inc. suppliers manufacturers](https://www.accio.com/supplier/cisco-supplier-list)
-- [Cisco Systems, Inc. major customers clients](https://www.cisco.com/site/us/en/about/case-studies-customer-stories/index.html)
-- [Cisco Systems, Inc. major customers clients](https://www.appsruntheworld.com/customers-database/vendors/view/cisco-systems)
+- [Cisco Systems, Inc. suppliers manufacturers](https://ru.wikipedia.org/wiki/Cisco)
+- [Cisco Systems, Inc. suppliers manufacturers](https://www.cisco.com/)
+- [Cisco Systems, Inc. major customers clients](https://www.cisco.com/)
+- [Cisco Systems, Inc. major customers clients](https://www.linkedin.com/company/cisco)
 
 ## 元数据
 
-- **更新日期**: 2026-06-11
+- **更新日期**: 2026-06-18

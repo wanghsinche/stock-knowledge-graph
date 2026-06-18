@@ -3,8 +3,8 @@ ticker: CCJ
 company: Cameco Corporation
 sector: Energy
 industry: Uranium
-extracted_at: 2026-06-17 18:19:28
-last_updated: 2026-06-17
+extracted_at: 2026-06-18 18:32:12
+last_updated: 2026-06-18
 ---
 
 # CCJ - Cameco Corporation
@@ -12,46 +12,46 @@ last_updated: 2026-06-17
 ## 基本信息
 
 - **所属行业**: Energy / Uranium
-- **提取时间**: 2026-06-17 18:19:28
+- **提取时间**: 2026-06-18 18:32:12
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Uranium ore suppliers]]
+- [[Uranium mining companies]]
 - [[Mining equipment manufacturers]]
-- [[Exploration service providers]]
-- [[Geological survey firms]]
-- [[Mining logistics providers]]
+- [[Drilling and exploration contractors]]
+- [[Mining service providers]]
+- [[CAT]]
 
 ### 下游客户
-- [[Nuclear power utilities]]
+- [[Nuclear power plant operators]]
+- [[National nuclear utilities]]
+- [[International nuclear fuel distributors]]
 - [[Government nuclear agencies]]
-- [[CAT]]
-- [[International nuclear regulators]]
-- [[Energy infrastructure companies]]
+- [[Commercial nuclear fuel customers]]
 
 ### 竞争对手
 - [[Kazatomprom]]
-- [[Uranium Energy Corp]]
-- [[Uranium One]]
-- [[Orano]]
-- [[Nuclear Fuel Services]]
+- [[Energy Fuels Inc.]]
+- [[Uranium Energy Corp.]]
+- [[Uranium One Ltd.]]
+- [[Orano (formerly Areva)]]
 
 ### 核心产品
-- [[Uranium concentrate (U3O8)]]
-- [[Enriched uranium fuel assemblies]]
-- [[Nuclear fuel solutions]]
-- [[Uranium mining services]]
-- [[Uranium processing equipment]]
+- [[Uranium ore]]
+- [[Uranium hexafluoride (UF6)]]
+- [[Enriched uranium fuel]]
+- [[Nuclear fuel assemblies]]
+- [[Fuel fabrication services]]
 
 ## 数据来源
 
 - [Cameco](https://en.wikipedia.org/wiki/Cameco_Corporation)
+- [Cameco Corporation suppliers manufacturers](https://www.cameco.com/businesses)
 - [Cameco Corporation suppliers manufacturers](https://www.cameco.com/)
-- [Cameco Corporation suppliers manufacturers](https://csimarket.com/stocks/CCJ-Suppliers)
-- [Cameco Corporation major customers clients](https://www.cameco.com/)
-- [Cameco Corporation major customers clients](https://www.youtube.com/watch?v=l379ScByeBU)
+- [Cameco Corporation major customers clients](https://www.cameco.com/invest/markets/cameco-customers)
+- [Cameco Corporation major customers clients](https://csimarket.com/stocks/CCJ-Customers)
 
 ## 元数据
 
-- **更新日期**: 2026-06-17
+- **更新日期**: 2026-06-18

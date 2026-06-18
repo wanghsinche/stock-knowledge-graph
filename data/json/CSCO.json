@@ -1,37 +1,37 @@
 {
   "ticker": "CSCO",
   "company_name": "Cisco Systems, Inc.",
-  "sector": "Technology / Communication Equipment",
-  "industry": "Networking Equipment",
+  "sector": "Technology",
+  "industry": "Communication Equipment",
   "upstream": [
     "INTC",
     "AVGO",
     "QCOM",
     "TXN",
-    "MU"
+    "NVDA"
   ],
   "downstream": [
-    "AT&T",
-    "Verizon",
-    "GOOGL",
-    "MSFT",
-    "AMZN"
+    "Enterprise IT departments",
+    "CAT",
+    "Government agencies",
+    "CAT",
+    "Healthcare providers"
   ],
   "competitors": [
     "JNPR",
     "ANET",
+    "Huawei Technologies",
     "HPQ",
-    "Huawei",
-    "Netgear"
+    "Extreme Networks"
   ],
   "key_products": [
     "Cisco routers",
     "Cisco switches",
-    "Cisco security appliances",
-    "Webex",
-    "OpenDNS"
+    "Webex collaboration suite",
+    "Meraki cloud‑managed networking",
+    "OpenDNS security services"
   ],
-  "extracted_at": "2026-06-11 18:46:18",
+  "extracted_at": "2026-06-18 18:29:41",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.cisco.com/c/dam/en_us/about/supply-chain/cisco-supplier-list.pdf",
+      "url": "https://ru.wikipedia.org/wiki/Cisco",
       "query": "Cisco Systems, Inc. suppliers manufacturers",
-      "snippet": "Below is an alphabetical list of Cisco Contract Manufacturers , strategic Original Design Manufacturers , Joint Development Manufacturers , and Compon"
+      "snippet": "Cisco Systems , «Сиско Системз» — американская транснациональная компания, разрабатывающая и продающая сетевое оборудование, предназначенное в основно"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.accio.com/supplier/cisco-supplier-list",
+      "url": "https://www.cisco.com/",
       "query": "Cisco Systems, Inc. suppliers manufacturers",
-      "snippet": "Jun 1, 2026 · Need reliable Cisco suppliers ? Discover verified vendors offering networking equipment like switches, routers, and security appliances."
+      "snippet": "Cisco is a worldwide technology leader powering an inclusive future for all. Learn more about our products, services, solutions, and innovations.Disco"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.cisco.com/site/us/en/about/case-studies-customer-stories/index.html",
+      "url": "https://www.cisco.com/",
       "query": "Cisco Systems, Inc. major customers clients",
-      "snippet": "Read Cisco case studies and customer success stories highlighting the ways organizations have realized their goals and helped drive outcomes."
+      "snippet": "Cisco is a worldwide technology leader powering an inclusive future for all.Join us to take advantage of the latest networking opportunities with Cisc"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.appsruntheworld.com/customers-database/vendors/view/cisco-systems",
+      "url": "https://www.linkedin.com/company/cisco",
       "query": "Cisco Systems, Inc. major customers clients",
-      "snippet": "List of companies using or evaluating Cisco Systems applications, with details on their revenues, employees, industries, and locations."
+      "snippet": "Cisco Meraki Systems Manager. Cisco Meraki Systems Manager. Mobile Device Management (MDM) Software. Cisco Secure Malware Analytics, Threat Intelligen"
     }
   ]
 }

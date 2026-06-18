@@ -3,11 +3,35 @@
   "company_name": "Seagate Technology Holdings plc",
   "sector": "Technology",
   "industry": "Computer Hardware",
-  "upstream": [],
-  "downstream": [],
-  "competitors": [],
-  "key_products": [],
-  "extracted_at": "2026-06-17 18:13:05",
+  "upstream": [
+    "Manufacturers of magnetic media",
+    "Silicon wafer suppliers",
+    "Electronic component suppliers",
+    "Firmware providers",
+    "Packaging material suppliers"
+  ],
+  "downstream": [
+    "DELL",
+    "HPQ",
+    "Lenovo Group",
+    "AAPL",
+    "MSFT"
+  ],
+  "competitors": [
+    "WDC",
+    "Kioxia (Toshiba)",
+    "005930.KS",
+    "MU",
+    "SK Hynix"
+  ],
+  "key_products": [
+    "3.5-inch HDDs",
+    "2.5-inch HDDs",
+    "1.8-inch HDDs",
+    "SSDs",
+    "Enterprise storage solutions"
+  ],
+  "extracted_at": "2026-06-18 18:24:11",
   "sources": [
     {
       "source": "Wikipedia",
@@ -23,9 +47,21 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.tenzingmemo.com/companies/stx_seagate-technology-holdings-plc",
+      "url": "https://ca.finance.yahoo.com/news/morgan-stanley-calls-seagate-technology-163904538.html",
       "query": "Seagate Technology Holdings plc suppliers manufacturers",
-      "snippet": "Get AI-powered stock analysis and technical insights for Seagate Technology Holdings plc (STX) with Tenzing MEMO. Real-time indicators, sentiment tren"
+      "snippet": "Seagate Technology Holdings Plc (NASDAQ:STX) is a holding company that develops, produces, and distributes data storage products and electronic data s"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.benzinga.com/insights/short-sellers/25/10/48027451/whats-driving-the-market-sentiment-around-seagate-technology-holdings-plc",
+      "query": "Seagate Technology Holdings plc major customers clients",
+      "snippet": "Seagate Technology Holdings PLC Short Interest Graph (3 Months). As you can see from the chart above the percentage of shares that are sold short for "
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.insidermonkey.com/blog/jim-cramer-says-seagate-needs-a-massive-beat-and-raise-to-keep-it-running-1681619/",
+      "query": "Seagate Technology Holdings plc major customers clients",
+      "snippet": "Seagate Technology Holdings plc (NASDAQ:STX) makes hard drives, solid-state drives, and storage solutions for personal, gaming, and business use. Cram"
     }
   ]
 }

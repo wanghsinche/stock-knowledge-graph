@@ -3,8 +3,8 @@ ticker: SPCX
 company: Space Exploration Technologies Corp.
 sector: Industrials
 industry: Aerospace & Defense
-extracted_at: 2026-06-17 18:09:00
-last_updated: 2026-06-17
+extracted_at: 2026-06-18 18:21:27
+last_updated: 2026-06-18
 ---
 
 # SPCX - Space Exploration Technologies Corp.
@@ -12,46 +12,46 @@ last_updated: 2026-06-17
 ## 基本信息
 
 - **所属行业**: Industrials / Aerospace & Defense
-- **提取时间**: 2026-06-17 18:09:00
+- **提取时间**: 2026-06-18 18:21:27
 
 ## 产业链关系
 
 ### 上游供应商
+- [[Aerojet Rocketdyne]]
 - [[Boeing]]
 - [[Lockheed Martin]]
 - [[Northrop Grumman]]
-- [[SpaceX's own manufacturing]]
-- [[SpaceX's own components]]
+- [[Honeywell]]
 
 ### 下游客户
 - [[NASA]]
-- [[U.S. Department of Defense]]
+- [[United States Armed Forces]]
 - [[AMZN]]
+- [[OneWeb]]
 - [[Starlink customers]]
-- [[Commercial satellite operators]]
 
 ### 竞争对手
 - [[Blue Origin]]
 - [[United Launch Alliance]]
-- [[Arianespace]]
 - [[Rocket Lab]]
-- [[Relativity Space]]
+- [[Virgin Galactic]]
+- [[Arianespace]]
 
 ### 核心产品
 - [[Falcon 9]]
 - [[Falcon Heavy]]
 - [[Starship]]
 - [[Starlink satellites]]
-- [[Reusable rockets]]
+- [[Dragon spacecraft]]
 
 ## 数据来源
 
 - [SpaceX](https://en.wikipedia.org/wiki/Space_Exploration_Technologies_Corp.)
-- [Space Exploration Technologies Corp. suppliers manufacturers](https://www.accio.com/supplier/spacex-approved-supplier-list)
 - [Space Exploration Technologies Corp. suppliers manufacturers](https://www.spacex.com/supplier)
+- [Space Exploration Technologies Corp. suppliers manufacturers](https://grokipedia.com/page/Publicly_traded_SpaceX_suppliers)
 - [Space Exploration Technologies Corp. major customers clients](https://en.wikipedia.org/wiki/SpaceX)
-- [Space Exploration Technologies Corp. major customers clients](https://www.bloomberg.com/profile/company/SPCX:US)
+- [Space Exploration Technologies Corp. major customers clients](https://finance.yahoo.com/quote/SPCX/)
 
 ## 元数据
 
-- **更新日期**: 2026-06-17
+- **更新日期**: 2026-06-18
