@@ -5,32 +5,33 @@
   "industry": "Semiconductors",
   "upstream": [
     "TSM",
-    "GlobalFoundries",
     "005930.KS",
+    "GlobalFoundries",
     "INTC",
-    "MU"
+    "UMC"
   ],
   "downstream": [
-    "AAPL",
+    "CSCO",
+    "JNPR",
+    "ANET",
     "DELL",
-    "HPQ",
-    "Lenovo",
-    "MSFT"
+    "HPQ"
   ],
   "competitors": [
     "AVGO",
     "MRVL",
     "QRVO",
-    "Xilinx",
-    "INTC"
+    "Lattice Semiconductor",
+    "AMD"
   ],
   "key_products": [
-    "Asterion PCIe Switch",
-    "Asterion CXL Switch",
-    "Asterion Thunderbolt 4 Switch",
-    "Asterion HDMI 2.1 Switch"
+    "10G/25G/40G/100G Ethernet PHYs",
+    "PCIe 4.0/5.0 interconnect solutions",
+    "InfiniBand interconnects",
+    "Optical interconnect solutions",
+    "High-speed serial transceivers"
   ],
-  "extracted_at": "2026-06-18 18:30:37",
+  "extracted_at": "2026-06-19 17:51:59",
   "sources": [
     {
       "source": "Wikipedia",
@@ -40,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Astera_Labs",
+      "url": "https://csimarket.com/stocks/suppliers_glance.php?code=ALAB",
       "query": "Astera Labs, Inc. suppliers manufacturers",
-      "snippet": "Astera Labs, Inc . is an American fabless semiconductor manufacturer and artificial intelligence company. The company specializes in designing high-sp"
+      "snippet": "Astera Labs Inc supply chain, list and performance of Astera Labs Incs ' suppliers - CSIMarket."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.asteralabs.com/faqs/who-are-astera-labs-primary-design-manufacturing-partners/",
+      "url": "https://www.asteralabs.com/",
       "query": "Astera Labs, Inc. suppliers manufacturers",
-      "snippet": "Who are Astera Labs ’ primary design & manufacturing partners? We leverage industry leading partners in both our design and manufacturing process such"
+      "snippet": "Go to the homepage of ASTERA LABS , INC .Cloud-Scale Interop Lab . Plug-and-play interoperability is critical for deploying rack-scale AI. Astera Labs"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/ALAB-Customers",
+      "url": "https://www.stockjabber.com/company/ALAB/company-insights",
       "query": "Astera Labs, Inc. major customers clients",
-      "snippet": "2 days ago · Astera Labs Inc customers and markets, results by customer and performance relative to ALAB, by company and industry - CSIMarket"
+      "snippet": "Explore Astera Labs , Inc . Common Stock's business overview, products, customer base, competitors, revenue model, specialties, and geographic presenc"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.featuredcustomers.com/vendor/astera-labs",
+      "url": "https://www.youtube.com/watch?v=vdR1VGj8AYw",
       "query": "Astera Labs, Inc. major customers clients",
-      "snippet": "Learn more about Astera Labs - use cases, approaches, & end results from real customers ; read customer reviews including 12 testimonials, videos, and"
+      "snippet": "'Mad Money' host Jim Cramer does a deep dive into Astera Labs after the company recently went public and shares his outlook for the IPO."
     }
   ]
 }

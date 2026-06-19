@@ -4,34 +4,34 @@
   "sector": "Technology",
   "industry": "Semiconductors",
   "upstream": [
+    "Silicon wafer suppliers",
+    "Packaging and assembly suppliers",
+    "AMAT",
     "TSM",
-    "INTC",
-    "QCOM",
-    "NVDA",
-    "005930.KS"
+    "Component suppliers (analog ICs, memory)"
   ],
   "downstream": [
-    "005930.KS",
-    "AAPL",
-    "Huawei",
     "MSFT",
-    "AMZN"
+    "CSCO",
+    "ORCL",
+    "Broadband equipment vendors (ARRIS, Nokia)",
+    "Industrial automation companies"
   ],
   "competitors": [
-    "INTC",
     "QCOM",
+    "INTC",
     "NVDA",
-    "TXN",
-    "MRVL"
+    "MRVL",
+    "TXN"
   ],
   "key_products": [
-    "Wi‑Fi chips",
-    "Bluetooth chips",
-    "Ethernet controllers",
-    "Broadcom Switches",
-    "Broadcom Modems"
+    "Networking ASICs (Ethernet, InfiniBand)",
+    "Wi‑Fi and RF chips",
+    "Broadband modems and cable chips",
+    "Storage and virtualization software",
+    "Enterprise security solutions"
   ],
-  "extracted_at": "2026-06-18 18:23:24",
+  "extracted_at": "2026-06-19 17:49:40",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,21 +47,21 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.broadcom.com/",
+      "url": "https://www.globalspec.com/supplier/profile/Broadcom",
       "query": "Broadcom Inc. suppliers manufacturers",
+      "snippet": "Broadcom Inc . business profile on GlobalSpec. Read about Broadcom Inc ., browse product catalogs and product areas.Business Type: Manufacturer . Supp"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.broadcom.com/",
+      "query": "Broadcom Inc. major customers clients",
       "snippet": "Broadcom delivers semiconductors and infrastructure software for global enterprises’ most complex, mission-critical needs."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/AVGO-Customers",
+      "url": "https://x.com/Broadcom",
       "query": "Broadcom Inc. major customers clients",
-      "snippet": "Sales to our five largest customers represented 48.3%. Sales to Samsung represented 21.3%. Sales to Apple represented 13.3%."
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://news.broadcom.com/category/customers",
-      "query": "Broadcom Inc. major customers clients",
-      "snippet": "May 19, 2026 · This year, Broadcom has recognized the United States Senate Federal Credit Union (USSFCU) with the Innovator award. Innovators are visi"
+      "snippet": "Broadcom Inc .Підтверджений профіль @ Broadcom ."
     }
   ]
 }

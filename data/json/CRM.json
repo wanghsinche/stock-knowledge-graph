@@ -4,8 +4,8 @@
   "sector": "Technology",
   "industry": "Software - Application",
   "upstream": [
-    "MSFT",
     "AMZN",
+    "MSFT",
     "GOOGL",
     "ORCL",
     "IBM"
@@ -13,14 +13,14 @@
   "downstream": [
     "American Express",
     "Coca‑Cola",
-    "Toyota",
     "Nike",
+    "Toyota",
     "Walmart"
   ],
   "competitors": [
     "MSFT",
-    "SAP CRM",
     "ORCL",
+    "SAP Sales Cloud",
     "HubSpot",
     "Zoho CRM"
   ],
@@ -31,7 +31,7 @@
     "Commerce Cloud",
     "Einstein AI"
   ],
-  "extracted_at": "2026-06-18 18:29:30",
+  "extracted_at": "2026-06-19 17:52:52",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Salesforce",
-      "query": "Salesforce, Inc. suppliers manufacturers",
-      "snippet": "Salesforce, Inc ., is an American cloud -based software company headquartered in San Francisco, California. It is primarily known for its customer rel"
-    },
-    {
-      "source": "DuckDuckGo",
       "url": "https://csimarket.com/stocks/CRM-Suppliers",
       "query": "Salesforce, Inc. suppliers manufacturers",
-      "snippet": "May 29, 2026 · Sources: Salesforce Inc 's official press releases and regulatory filings; CSIMarket.com's supply -chain research; and the financial fi"
+      "snippet": "Salesforce Inc supply chain, list and performance of Salesforce Incs ' suppliers - CSIMarket."
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.salesforce.com/",
-      "query": "Salesforce, Inc. major customers clients",
-      "snippet": "Salesforce Enterprise-grade CRM with deep reporting, sales operations, and..."
+      "query": "Salesforce, Inc. suppliers manufacturers",
+      "snippet": "ExactTarget Inc ."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.youtube.com/channel/UCUpquzY878NEaZm5bc7m2sQ",
+      "url": "https://hevodata.com/learn/salesforce-customers/",
       "query": "Salesforce, Inc. major customers clients",
-      "snippet": "Salesforce is the #1 AI CRM, where humans with agents drive customer success together. Through Agentforce, our groundbreaking suite of customizable ag"
+      "snippet": "This article will give you a comprehensive guide to the 8 Best Salesforce Customers . You will also get to know about Salesforce and its key features."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://login.salesforce.com/sfc/",
+      "query": "Salesforce, Inc. major customers clients",
+      "snippet": "Go to Salesforce Trial Account Login page."
     }
   ]
 }

@@ -4,8 +4,8 @@
   "sector": "Technology",
   "industry": "Semiconductors",
   "upstream": [
-    "ASML",
     "AMAT",
+    "ASML",
     "LRCX",
     "Tokyo Electron",
     "KLA"
@@ -14,24 +14,23 @@
     "AAPL",
     "DELL",
     "HPQ",
-    "MSFT",
-    "AMZN"
+    "AMZN",
+    "GOOGL"
   ],
   "competitors": [
     "005930.KS",
     "SK Hynix",
     "INTC",
-    "Nanya Technology",
-    "Netlist"
+    "WDC",
+    "Toshiba"
   ],
   "key_products": [
     "DRAM",
-    "NAND Flash",
-    "HBM",
-    "SSD",
-    "Memory Modules"
+    "Flash memory",
+    "High Bandwidth Memory (HBM)",
+    "Solid-state drives (SSDs)"
   ],
-  "extracted_at": "2026-06-18 18:21:16",
+  "extracted_at": "2026-06-19 17:47:24",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +40,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ru.wikipedia.org/wiki/Micron_Technology",
+      "url": "https://www.micron.com/",
       "query": "Micron Technology, Inc. suppliers manufacturers",
-      "snippet": "Micron Technology — американская транснациональная корпорация, известная своей полупроводниковой продукцией, основную часть которой составляют чипы па"
+      "snippet": "Explore Micron Technology , leading in semiconductors with a broad range of performance-enhancing memory and storage solutions.Learn about and enroll "
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.youtube.com/channel/UCBqcI352Dc2ExKq1uSdwZvg",
+      "query": "Micron Technology, Inc. suppliers manufacturers",
+      "snippet": "To learn more about Micron Technology , Inc . (Nasdaq: MU), visit micron .com. Micron celebrates the start of 1-alpha DRAM manufacturing in Manassas, "
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.micron.com/",
-      "query": "Micron Technology, Inc. suppliers manufacturers",
-      "snippet": "Explore Micron Technology , leading in semiconductors with a broad range of performance-enhancing memory and storage solutions.Building memory manufac"
+      "query": "Micron Technology, Inc. major customers clients",
+      "snippet": "Micron engineers advanced memory and storage solutions designed to meet the dynamic demands of industrial IoT and aerospace systems. Our technologies "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/MU-Customers",
+      "url": "https://www.youtube.com/channel/UCBqcI352Dc2ExKq1uSdwZvg",
       "query": "Micron Technology, Inc. major customers clients",
-      "snippet": "Micron Technology Inc customers and markets, results by customer and performance relative to MU, by company and industry - CSIMarket"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.marketscreener.com/quote/stock/MICRON-TECHNOLOGY-INC-13639/finances-segments/",
-      "query": "Micron Technology, Inc. major customers clients",
-      "snippet": "Understand how activity and revenue gets distributed for Micron Technology, Inc. (MU). Ten-year segmentation history. The entire stock market is on Ma"
+      "snippet": "With a relentless focus on our customers , technology leadership and manufacturing and operational excellence, Micron delivers a rich portfolio of hig"
     }
   ]
 }

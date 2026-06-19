@@ -1,37 +1,37 @@
 {
   "ticker": "GS",
   "company_name": "The Goldman Sachs Group, Inc.",
-  "sector": "Financial Services / Capital Markets",
-  "industry": "Investment Banking",
+  "sector": "Financial Services",
+  "industry": "Capital Markets",
   "upstream": [
-    "Bloomberg",
-    "Thomson Reuters",
-    "FactSet",
-    "S&P Global",
-    "MSFT"
+    "Technology vendors (e.g., Bloomberg, Refinitiv)",
+    "Data providers (e.g., FactSet, S&P Global)",
+    "Legal and compliance service firms",
+    "Risk management software providers",
+    "Cloud infrastructure providers (e.g., AWS, Azure)"
   ],
   "downstream": [
-    "Corporations",
-    "Governments",
-    "Institutional investors",
-    "Pension funds",
-    "High net worth individuals"
+    "Corporations seeking M&A advisory",
+    "Governments and sovereign entities",
+    "Institutional investors (pension funds, endowments)",
+    "High‑net‑worth individuals and family offices",
+    "Asset managers and hedge funds"
   ],
   "competitors": [
-    "JPMorgan Chase",
+    "JPMorgan Chase & Co.",
     "Morgan Stanley",
     "Bank of America Merrill Lynch",
     "Citigroup",
     "Wells Fargo"
   ],
   "key_products": [
-    "Investment banking services",
-    "Securities underwriting",
-    "Asset management",
-    "Wealth management",
-    "Capital markets research"
+    "Investment banking advisory and underwriting",
+    "Securities trading and market making",
+    "Asset and wealth management",
+    "Research and analytics services",
+    "Risk management and structured finance"
   ],
-  "extracted_at": "2026-06-18 18:30:51",
+  "extracted_at": "2026-06-19 17:58:24",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Goldman_Sachs",
-      "query": "The Goldman Sachs Group, Inc. suppliers manufacturers",
-      "snippet": "The Goldman Sachs Group , Inc . (/ sæks / SAKS) is an American multinational investment bank and financial services company. Founded in 1869, Goldman "
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/GS-Suppliers",
-      "query": "The Goldman Sachs Group, Inc. suppliers manufacturers",
-      "snippet": "4 days ago · The Goldman Sachs Group Inc 's Suppliers recorded an increase in sales by 20.08 % year on year in Q1 2026, sequentially sales grew by 17."
-    },
-    {
-      "source": "DuckDuckGo",
       "url": "https://www.goldmansachs.com/",
-      "query": "The Goldman Sachs Group, Inc. major customers clients",
+      "query": "The Goldman Sachs Group, Inc. suppliers manufacturers",
       "snippet": "The Goldman Sachs Group , Inc . is a leading global investment banking, securities, and asset and wealth management firm that provides a wide range of"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://finance.yahoo.com/quote/GS/",
-      "query": "The Goldman Sachs Group, Inc. major customers clients",
+      "query": "The Goldman Sachs Group, Inc. suppliers manufacturers",
       "snippet": "Find the latest The Goldman Sachs Group , Inc . (GS) stock quote, history, news and other vital information to help you with your stock trading and in"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/Goldman_Sachs",
+      "query": "The Goldman Sachs Group, Inc. major customers clients",
+      "snippet": "The Goldman Sachs Group , Inc . is an American multinational investment bank and financial services company. The Goldman Sachs Group , Inc . Headquart"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.goldmansachs.com/careers/students/programs-and-internships",
+      "query": "The Goldman Sachs Group, Inc. major customers clients",
+      "snippet": "Begin your career with a Goldman Sachs internship and get access to the best support network, events, and opportunities to thrive. We have a wide rang"
     }
   ]
 }

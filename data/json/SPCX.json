@@ -4,34 +4,34 @@
   "sector": "Industrials",
   "industry": "Aerospace & Defense",
   "upstream": [
-    "Aerojet Rocketdyne",
-    "Boeing",
-    "Lockheed Martin",
-    "Northrop Grumman",
-    "Honeywell"
+    "Linde (LOX and propellant supply)",
+    "Hexcel (composite materials)",
+    "Honeywell (avionics and guidance systems)",
+    "Aerojet Rocketdyne (engine components)",
+    "Pratt & Whitney (propulsion systems)"
   ],
   "downstream": [
     "NASA",
-    "United States Armed Forces",
-    "AMZN",
-    "OneWeb",
-    "Starlink customers"
+    "U.S. Department of Defense",
+    "SpaceX Starlink (satellite internet customers)",
+    "INTC",
+    "European Space Agency (ESA) launch contracts"
   ],
   "competitors": [
     "Blue Origin",
-    "United Launch Alliance",
+    "United Launch Alliance (ULA)",
     "Rocket Lab",
-    "Virgin Galactic",
-    "Arianespace"
+    "Arianespace",
+    "AMZN"
   ],
   "key_products": [
-    "Falcon 9",
-    "Falcon Heavy",
-    "Starship",
-    "Starlink satellites",
-    "Dragon spacecraft"
+    "Falcon 9 launch vehicle",
+    "Falcon Heavy launch vehicle",
+    "Starship launch vehicle",
+    "Starlink satellite constellation",
+    "Dragon 2 spacecraft"
   ],
-  "extracted_at": "2026-06-18 18:21:27",
+  "extracted_at": "2026-06-19 17:47:54",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,15 +41,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.spacex.com/supplier",
+      "url": "https://ru.wikipedia.org/wiki/SpaceX",
       "query": "Space Exploration Technologies Corp. suppliers manufacturers",
-      "snippet": "Becoming a supplier SpaceX is committed to including diverse suppliers in our sourcing process, which enhances our ability to provide the most reliabl"
+      "snippet": "Space Exploration Technologies Corporation , SpaceX (дословно — «Корпорация технологий освоения космоса», «Спейс-Экс») — американская аэрокосмическая "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://grokipedia.com/page/Publicly_traded_SpaceX_suppliers",
+      "url": "https://www.volza.com/company-profile/space-exploration-technologies-corp-3332635/import/suppliers/",
       "query": "Space Exploration Technologies Corp. suppliers manufacturers",
-      "snippet": "Publicly traded SpaceX suppliers refer to companies listed on major stock exchanges that provide components, services, or related resources to SpaceX,"
+      "snippet": "Space Exploration Technologies Corp - Supplier Directory: 253 Verified Vendors. Get a complete 360° view of global trade activities, including imports"
     },
     {
       "source": "DuckDuckGo",
@@ -59,9 +59,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/SPCX/",
+      "url": "https://ru.wikipedia.org/wiki/SpaceX",
       "query": "Space Exploration Technologies Corp. major customers clients",
-      "snippet": "The company's AI segment operates a vertically integrated AI platform spanning a frontier LLM Grok; AI solutions for consumer and enterprise customers"
+      "snippet": "Space Exploration Technologies Corporation , SpaceX (дословно — «Корпорация технологий освоения космоса», «Спейс-Экс») — американская аэрокосмическая "
     }
   ]
 }

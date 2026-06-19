@@ -3,8 +3,8 @@ ticker: STX
 company: Seagate Technology Holdings plc
 sector: Technology
 industry: Computer Hardware
-extracted_at: 2026-06-18 18:24:11
-last_updated: 2026-06-18
+extracted_at: 2026-06-19 17:52:21
+last_updated: 2026-06-19
 ---
 
 # STX - Seagate Technology Holdings plc
@@ -12,46 +12,42 @@ last_updated: 2026-06-18
 ## 基本信息
 
 - **所属行业**: Technology / Computer Hardware
-- **提取时间**: 2026-06-18 18:24:11
+- **提取时间**: 2026-06-19 17:52:21
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Manufacturers of magnetic media]]
-- [[Silicon wafer suppliers]]
-- [[Electronic component suppliers]]
-- [[Firmware providers]]
-- [[Packaging material suppliers]]
+_暂无数据_
 
 ### 下游客户
 - [[DELL]]
 - [[HPQ]]
-- [[Lenovo Group]]
-- [[AAPL]]
+- [[Lenovo]]
 - [[MSFT]]
+- [[AMZN]]
 
 ### 竞争对手
 - [[WDC]]
-- [[Kioxia (Toshiba)]]
+- [[Toshiba]]
 - [[005930.KS]]
+- [[IBM]]
 - [[MU]]
-- [[SK Hynix]]
 
 ### 核心产品
-- [[3.5-inch HDDs]]
-- [[2.5-inch HDDs]]
-- [[1.8-inch HDDs]]
-- [[SSDs]]
+- [[Hard Disk Drives (HDDs)]]
+- [[Solid State Drives (SSDs)]]
 - [[Enterprise storage solutions]]
+- [[Data center storage]]
+- [[External storage devices]]
 
 ## 数据来源
 
 - 
 - [Seagate Technology Holdings plc suppliers manufacturers](https://www.seagate.com/)
-- [Seagate Technology Holdings plc suppliers manufacturers](https://ca.finance.yahoo.com/news/morgan-stanley-calls-seagate-technology-163904538.html)
-- [Seagate Technology Holdings plc major customers clients](https://www.benzinga.com/insights/short-sellers/25/10/48027451/whats-driving-the-market-sentiment-around-seagate-technology-holdings-plc)
-- [Seagate Technology Holdings plc major customers clients](https://www.insidermonkey.com/blog/jim-cramer-says-seagate-needs-a-massive-beat-and-raise-to-keep-it-running-1681619/)
+- [Seagate Technology Holdings plc suppliers manufacturers](https://csimarket.com/stocks/STX-Management-Effectiveness-Comparisons.html)
+- [Seagate Technology Holdings plc major customers clients](https://iask.ai/q/Seagate-Technology-largest-clients-list-2hls4io)
+- [Seagate Technology Holdings plc major customers clients](https://www.marketresearch.com/GlobalData-v3648/Seagate-Technology-Holdings-PLC-STX-38282410/)
 
 ## 元数据
 
-- **更新日期**: 2026-06-18
+- **更新日期**: 2026-06-19

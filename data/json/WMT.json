@@ -4,34 +4,34 @@
   "sector": "Consumer Defensive",
   "industry": "Discount Stores",
   "upstream": [
-    "Procter & Gamble",
-    "Nike",
-    "005930.KS",
-    "General Mills",
-    "Coca‑Cola"
+    "Food manufacturers (e.g., Nestlé, Kraft)",
+    "Apparel manufacturers (e.g., Nike, Adidas)",
+    "AAPL",
+    "Pharmaceutical suppliers (e.g., Pfizer, Johnson & Johnson)",
+    "Fuel suppliers (e.g., Chevron, Exxon Mobil)"
   ],
   "downstream": [
     "Individual consumers",
+    "Online shoppers",
+    "Sam's Club members",
     "Small businesses",
-    "Corporate clients",
-    "Sam’s Club members",
-    "Online shoppers"
+    "Corporate clients"
   ],
   "competitors": [
-    "Target Corp",
-    "Costco Wholesale",
+    "Target",
+    "Costco",
     "Dollar General",
     "Aldi",
-    "BJ’s Wholesale Club"
+    "BJ's Wholesale Club"
   ],
   "key_products": [
     "Groceries",
-    "Clothing",
+    "Apparel",
     "Electronics",
     "Pharmacy products",
-    "Fuel"
+    "Gasoline"
   ],
-  "extracted_at": "2026-06-18 18:30:15",
+  "extracted_at": "2026-06-19 18:02:06",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,25 +43,25 @@
       "source": "DuckDuckGo",
       "url": "https://csimarket.com/stocks/suppliers_glance.php?code=WMT",
       "query": "Walmart Inc. suppliers manufacturers",
-      "snippet": "Walmart Inc supply chain, list and performance of Walmart Incs ' suppliers - CSIMarket.Among Walmart Inc suppliers , the revenue of Interface Inc has "
+      "snippet": "Walmart Inc supply chain, list and performance of Walmart Incs ' suppliers - CSIMarket."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.shipbob.com/blog/walmart-supply-chain/",
+      "query": "Walmart Inc. suppliers manufacturers",
+      "snippet": "From the get-go, the company started removing links within the supply chain and purchased goods in bulk to be transported directly to their stores. Th"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.walmart.com/",
+      "query": "Walmart Inc. major customers clients",
+      "snippet": "Shop Walmart .com today for Every Day Low Prices. Join Walmart + for unlimited free delivery from your store & free shipping with no order minimum. St"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.linkedin.com/company/walmart",
-      "query": "Walmart Inc. suppliers manufacturers",
-      "snippet": "Walmart | 5,019,123 followers on LinkedIn. More than 60 years ago, Sam Walton opened the first Walmart in Rogers, Arkansas.Transportation, Logistics, "
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://capitaloneshopping.com/research/walmart-statistics/",
       "query": "Walmart Inc. major customers clients",
-      "snippet": "Jun 10, 2026 · Latest available data on Walmart 's size and market share, both offline and online, with total sales and revenue breakdowns by year."
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/WMT-Customers",
-      "query": "Walmart Inc. major customers clients",
-      "snippet": "Jun 8, 2026 · Walmart Inc customers and markets, results by customer and performance relative to WMT, by company and industry - CSIMarket"
+      "snippet": "2 Innovation is happening across Walmart International. From faster digital delivery in China to expanded marketplace access in Mexico and Central Ame"
     }
   ]
 }

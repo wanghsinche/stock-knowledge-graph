@@ -3,8 +3,8 @@ ticker: AMAT
 company: Applied Materials, Inc.
 sector: Technology
 industry: Semiconductor Equipment & Materials
-extracted_at: 2026-06-18 18:24:23
-last_updated: 2026-06-18
+extracted_at: 2026-06-19 17:51:41
+last_updated: 2026-06-19
 ---
 
 # AMAT - Applied Materials, Inc.
@@ -12,23 +12,23 @@ last_updated: 2026-06-18
 ## 基本信息
 
 - **所属行业**: Technology / Semiconductor Equipment & Materials
-- **提取时间**: 2026-06-18 18:24:23
+- **提取时间**: 2026-06-19 17:51:41
 
 ## 产业链关系
 
 ### 上游供应商
+- [[SUMCO]]
 - [[Shin-Etsu Chemical]]
-- [[Sumitomo Chemical]]
-- [[Air Liquide]]
-- [[Linde]]
-- [[KLA-Tencor]]
+- [[GlobalWafers]]
+- [[Dow Chemical]]
+- [[DuPont]]
 
 ### 下游客户
-- [[TSM]]
-- [[005930.KS]]
 - [[INTC]]
+- [[005930.KS]]
+- [[TSM]]
 - [[MU]]
-- [[GlobalFoundries]]
+- [[QCOM]]
 
 ### 竞争对手
 - [[ASML]]
@@ -38,20 +38,20 @@ last_updated: 2026-06-18
 - [[AMAT]]
 
 ### 核心产品
+- [[Semiconductor fabrication equipment]]
 - [[Lithography systems]]
+- [[Etch systems]]
 - [[Deposition systems]]
-- [[Etching systems]]
-- [[Ion implantation systems]]
-- [[Wafer cleaning systems]]
+- [[Inspection and metrology equipment]]
 
 ## 数据来源
 
 - [Applied Materials](https://en.wikipedia.org/wiki/Applied_Materials,_Inc.)
-- [Applied Materials, Inc. suppliers manufacturers](https://www.appliedmaterials.com/)
-- [Applied Materials, Inc. suppliers manufacturers](https://www.alibaba.com/)
+- [Applied Materials, Inc. suppliers manufacturers](https://www.appliedmaterials.com/us/en.html)
+- [Applied Materials, Inc. suppliers manufacturers](https://sgbuzz.com/?p=61304)
 - [Applied Materials, Inc. major customers clients](https://www.appliedmaterials.com/)
-- [Applied Materials, Inc. major customers clients](https://sg.finance.yahoo.com/news/applied-materials-inc-amat-good-212213557.html)
+- [Applied Materials, Inc. major customers clients](https://weissratings.com/en/instant-news-alerts/applied-materials-inc-amat-up-9-0-should-i-go-from-curious-to-committed)
 
 ## 元数据
 
-- **更新日期**: 2026-06-18
+- **更新日期**: 2026-06-19

@@ -4,34 +4,34 @@
   "sector": "Technology",
   "industry": "Software - Infrastructure",
   "upstream": [
-    "MSFT",
     "AMZN",
-    "DELL",
+    "MSFT",
+    "GOOGL",
     "IBM",
-    "GOOGL"
+    "ORCL"
   ],
   "downstream": [
     "U.S. Department of Defense",
-    "U.S. Department of Homeland Security",
-    "Financial services firms (e.g., JPMorgan Chase)",
-    "Healthcare providers (e.g., Mayo Clinic)",
-    "Retail and logistics companies (e.g., Walmart)"
+    "Federal Bureau of Investigation",
+    "JPMorgan Chase",
+    "Walmart",
+    "Airbnb"
   ],
   "competitors": [
+    "Splunk",
     "Snowflake",
     "Databricks",
-    "Splunk",
     "Tableau",
     "Qlik"
   ],
   "key_products": [
-    "Palantir Foundry",
     "Palantir Gotham",
+    "Palantir Foundry",
     "Palantir Apollo",
-    "Palantir Helios",
-    "Palantir Atlas"
+    "Palantir Helix",
+    "Palantir Data Lake"
   ],
-  "extracted_at": "2026-06-18 18:24:33",
+  "extracted_at": "2026-06-19 17:54:19",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,13 +43,13 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Palantir",
       "query": "Palantir Technologies Inc. suppliers manufacturers",
-      "snippet": "Palantir Technologies Inc . (/ ˈpælənˌtɪər /) [3] is an American publicly traded company that develops data integration and analytics software. [4] Pa"
+      "snippet": "Palantir Technologies Inc . is an American publicly traded company that develops data integration and analytics software. Palantir is headquartered in"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/PLTR-Suppliers",
+      "url": "https://www.tradingview.com/symbols/NASDAQ-PLTR/",
       "query": "Palantir Technologies Inc. suppliers manufacturers",
-      "snippet": "4 days ago · Palantir Technologies Inc 's Suppliers recorded an increase in sales by 33.09 % year on year in Q1 2026, sequentially sales grew by 3.39 "
+      "snippet": "View live Palantir Technologies Inc . chart to track its stock's price action. Find market predictions, PLTR financials and market news."
     },
     {
       "source": "DuckDuckGo",
@@ -61,7 +61,7 @@
       "source": "DuckDuckGo",
       "url": "https://www.tradingview.com/symbols/NASDAQ-PLTR/",
       "query": "Palantir Technologies Inc. major customers clients",
-      "snippet": "View live Palantir Technologies Inc . chart to track its stock's price action. Find market predictions, PLTR financials and market news."
+      "snippet": "View live Palantir Technologies Inc . chart to track its stock's price action. Find market predictions, PLTR financials and market news.It operates th"
     }
   ]
 }

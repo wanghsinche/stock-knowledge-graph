@@ -11,15 +11,15 @@
     "KLA"
   ],
   "downstream": [
+    "AAPL",
     "DELL",
     "HPQ",
     "Lenovo",
-    "AAPL",
     "MSFT"
   ],
   "competitors": [
-    "AMD",
     "NVDA",
+    "AMD",
     "QCOM",
     "AVGO",
     "TSM"
@@ -27,11 +27,11 @@
   "key_products": [
     "Intel Core CPUs",
     "Intel Xeon CPUs",
-    "Intel Optane memory",
     "Intel chipsets",
-    "Intel FPGAs"
+    "Intel memory solutions",
+    "Intel data center processors"
   ],
-  "extracted_at": "2026-06-18 18:21:50",
+  "extracted_at": "2026-06-19 17:48:08",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/List_of_Intel_manufacturing_sites",
-      "query": "Intel Corporation suppliers manufacturers",
-      "snippet": "List of Intel manufacturing sites Intel is an American multinational corporation and technology company headquartered in Santa Clara, California. Proc"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/INTC-Suppliers",
-      "query": "Intel Corporation suppliers manufacturers",
-      "snippet": "4 days ago · Sources: Intel Corporation 's official press releases and regulatory filings; CSIMarket.com's supply-chain research; and the financial fi"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/INTC/",
+      "url": "https://en.wikipedia.org/wiki/Intel",
       "query": "Intel Corporation major customers clients",
-      "snippet": "Find the latest Intel Corporation (INTC) stock quote, history, news and other vital information to help you with your stock trading and investing."
+      "snippet": "largest customer, Apple. five companies were using Intel's fabs via the Intel Custom Foundry division: Achronix, Tabula, Netronome, Microsemi, and Pan"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.intc.com/",
+      "url": "https://www.intel.com/content/www/us/en/customer-spotlight/overview.html",
       "query": "Intel Corporation major customers clients",
-      "snippet": "Intel (Nasdaq: INTC) is an industry leader, creating world-changing technology that enables global progress and enriches lives. Inspired by Moore’s La"
+      "snippet": "Kibernetika Inc. Klas Telecom; Lancoo Group; Lanner Electronics Inc. LEADERG INC. Lecoo AI Technologies; LEX Computech; LIPS Corporation; Mamotech Co."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://bullfincher.io/companies/intel-corporation/competitors",
+      "query": "Intel Corporation competitors alternatives",
+      "snippet": "Intel Corporation 's competitors include Applied Materials, NVIDIA Corporation , Broadcom and more. Discover more competitors and create your own cust"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://pitchgrade.com/companies/intel",
+      "query": "Intel Corporation competitors alternatives",
+      "snippet": "Intel Corporation competes in the Semiconductors segment of the Technology sector. The competitor comparison table in this article outlines key peers "
     }
   ]
 }

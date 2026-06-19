@@ -3,8 +3,8 @@ ticker: NBIS
 company: Nebius Group N.V.
 sector: Communication Services
 industry: Internet Content & Information
-extracted_at: 2026-06-18 18:24:44
-last_updated: 2026-06-18
+extracted_at: 2026-06-19 17:51:25
+last_updated: 2026-06-19
 ---
 
 # NBIS - Nebius Group N.V.
@@ -12,46 +12,32 @@ last_updated: 2026-06-18
 ## 基本信息
 
 - **所属行业**: Communication Services / Internet Content & Information
-- **提取时间**: 2026-06-18 18:24:44
+- **提取时间**: 2026-06-19 17:51:25
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Nebius Group N.V.]]
-- [[AI infrastructure providers]]
-- [[Cloud service providers]]
-- [[Data center operators]]
-- [[Hardware manufacturers]]
+_暂无数据_
 
 ### 下游客户
-- [[Clients of AI infrastructure]]
-- [[Technology partners]]
-- [[Enterprise customers]]
-- [[Research institutions]]
-- [[Startups]]
+_暂无数据_
 
 ### 竞争对手
-- [[OpenAI]]
-- [[GOOGL]]
-- [[AMZN]]
-- [[MSFT]]
-- [[IBM]]
+_暂无数据_
 
 ### 核心产品
 - [[Artificial intelligence infrastructure]]
-- [[Avride]]
-- [[TripleTen]]
-- [[Toloka]]
-- [[Clickhouse]]
+- [[AI platform services]]
+- [[Data analytics solutions]]
 
 ## 数据来源
 
 - [Nebius Group](https://en.wikipedia.org/wiki/NBIS)
-- [NBIS suppliers manufacturers](https://en.wikipedia.org/wiki/Nebius_Group)
-- [NBIS suppliers manufacturers](https://csimarket.com/stocks/NBIS-Suppliers)
-- [NBIS major customers clients](https://blockonomi.com/nebius-nbis-stock-soars-9-on-nasdaq-100-addition-following-320-annual-surge/)
-- [NBIS major customers clients](https://www.foreignpolicyjournal.com/2026/06/14/nebius-group-nasdaq-nbis-stock-enters-nasdaq-100-as-ai-infrastructure-demand-and-index-flows-converge/)
+- [NBIS major customers clients](https://seekingalpha.com/symbol/NBIS)
+- [NBIS major customers clients](https://www.nasdaq.com/market-activity/stocks/nbis)
+- [NBIS competitors alternatives](https://tracxn.com/d/companies/nbis/__CEvjFGepqVDfV7Rq3MZ5EvVEOS0AdSIcBkQrzVxFz1U)
+- [NBIS competitors alternatives](https://tradestie.com/stocks/NBIS/competitors/)
 
 ## 元数据
 
-- **更新日期**: 2026-06-18
+- **更新日期**: 2026-06-19

@@ -1,43 +1,65 @@
 {
   "ticker": "FLEX",
   "company_name": "Flex Ltd.",
-  "sector": "Technology",
+  "sector": "Technology / Electronic Components",
   "industry": "Electronics Manufacturing Services (EMS) / Original Design Manufacturer (ODM)",
   "upstream": [
-    "Semiconductor manufacturers",
-    "Printed circuit board (PCB) suppliers",
-    "Electronic component distributors",
-    "Packaging materials suppliers",
-    "Raw material suppliers"
+    "Alibaba",
+    "Alibaba Group",
+    "Alibaba.com",
+    "Alibaba Cloud",
+    "Alibaba Logistics"
   ],
   "downstream": [
-    "AAPL",
-    "AMZN",
-    "GOOGL",
-    "005930.KS",
-    "MSFT"
+    "Sanmina Corp",
+    "Jabil Inc",
+    "Cele"
   ],
   "competitors": [
-    "Jabil Inc.",
-    "Pegatron Corp.",
-    "Foxconn Technology Group",
-    "Wistron Corp.",
-    "Compal Electronics"
+    "Pegatron",
+    "Jabil",
+    "Sanmina",
+    "Celestica",
+    "Foxconn"
   ],
   "key_products": [
     "Electronics manufacturing services",
-    "Design and engineering services",
-    "Supply chain management solutions",
-    "Automotive electronics assembly",
-    "Industrial and medical device manufacturing"
+    "Original design manufacturing",
+    "PCB assembly",
+    "Embedded systems",
+    "Industrial automation"
   ],
-  "extracted_at": "2026-05-06 17:32:48",
+  "extracted_at": "2026-06-19 17:50:44",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Flex_Ltd.",
       "title": "Flex Ltd.",
       "snippet": "Flex Ltd. is a Singaporean–American multinational manufacturing company. It is the world's third largest global electronics manufacturing services (EMS), original design manufacturer (ODM) company by "
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.alibaba.com/flex-ltd-suppliers.html",
+      "query": "Flex Ltd. suppliers manufacturers",
+      "snippet": "Alibaba offers 198 Flex Ltd Suppliers , and Flex Ltd Manufacturers , Distributors, Factories, Companies.Youngjin flex co., ltd . Gold Supplier Contact"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/FLEX-Suppliers",
+      "query": "Flex Ltd. suppliers manufacturers",
+      "snippet": "Flex Ltd 's Suppliers Performance. FLEX 's Supply Chain. Download as CSV.- Sources: Flex Ltd 's official press releases and regulatory filings; CSIMar"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.researchandmarkets.com/reports/1291235/flex_ltd_flex_financial_and_strategic_swot",
+      "query": "Flex Ltd. major customers clients",
+      "snippet": "This swot analysis features 7 companies, including Sanmina Corp, Jabil Inc, Celestica Inc, Benchmark Electronics Inc, OSI Systems Inc, Plexus Corp, Ho"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.case48.com/porter-analysis/5760-Flex-Ltd",
+      "query": "Flex Ltd. major customers clients",
+      "snippet": "The switching cost of using the substitute product is high (due to high psychological costs or higher economic costs). Customers cannot derive the sam"
     }
   ]
 }

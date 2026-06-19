@@ -3,11 +3,35 @@
   "company_name": "KLA Corporation",
   "sector": "Technology",
   "industry": "Semiconductor Equipment & Materials",
-  "upstream": [],
-  "downstream": [],
-  "competitors": [],
-  "key_products": [],
-  "extracted_at": "2026-06-18 18:28:42",
+  "upstream": [
+    "Silicon wafer suppliers",
+    "Optical component manufacturers",
+    "Precision mechanics suppliers",
+    "Electronic component suppliers",
+    "Chemical suppliers"
+  ],
+  "downstream": [
+    "INTC",
+    "TSM",
+    "005930.KS",
+    "GlobalFoundries",
+    "MU"
+  ],
+  "competitors": [
+    "AMAT",
+    "ASML",
+    "LRCX",
+    "Tokyo Electron",
+    "Teradyne"
+  ],
+  "key_products": [
+    "Process control systems",
+    "Yield management systems",
+    "Wafer inspection equipment",
+    "Reticle inspection systems",
+    "IC packaging equipment"
+  ],
+  "extracted_at": "2026-06-19 17:55:20",
   "sources": [
     {
       "source": "Wikipedia",
@@ -17,15 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.kla.com/locations",
+      "url": "https://uk.finance.yahoo.com/news/kla-corporation-nasdaq-klac-q3-210355466.html",
       "query": "KLA Corporation suppliers manufacturers",
-      "snippet": "Find the address and contact information for the KLA domestic and international sites. Corporate Governance. Compliance. Suppliers . Standards of Busi"
+      "snippet": "Semiconductor manufacturing equipment maker KLA Corporation (NASDAQ:KLAC) reported revenue ahead of Wall Street’s expectations in Q3 CY2024, with sale"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.tipranks.com/stocks/klac/stock-analysis",
       "query": "KLA Corporation suppliers manufacturers",
       "snippet": "KLA Corporation specializes in creating, manufacturing , and distributing advanced solutions vital for process control, process optimization, and yiel"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.cnbc.com/quotes/KLAC",
+      "query": "KLA Corporation major customers clients",
+      "snippet": "KLAC: KLA Corp - Stock Price, Quote and News - CNBC."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.insidermonkey.com/blog/barlcays-lifts-kla-klac-price-target-by-500-here-is-why-1782317/",
+      "query": "KLA Corporation major customers clients",
+      "snippet": "KLA Corporation (NASDAQ:KLAC) develops industry-leading equipment and services that enable innovation throughout the electronics industry. The company"
     }
   ]
 }

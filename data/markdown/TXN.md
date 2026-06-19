@@ -3,8 +3,8 @@ ticker: TXN
 company: Texas Instruments Incorporated
 sector: Technology
 industry: Semiconductors
-extracted_at: 2026-06-18 18:31:01
-last_updated: 2026-06-18
+extracted_at: 2026-06-19 17:54:59
+last_updated: 2026-06-19
 ---
 
 # TXN - Texas Instruments Incorporated
@@ -12,46 +12,46 @@ last_updated: 2026-06-18
 ## 基本信息
 
 - **所属行业**: Technology / Semiconductors
-- **提取时间**: 2026-06-18 18:31:01
+- **提取时间**: 2026-06-19 17:54:59
 
 ## 产业链关系
 
 ### 上游供应商
-- [[AMAT]]
-- [[ASML]]
-- [[LRCX]]
-- [[Tokyo Electron]]
-- [[KLA Corporation]]
+- [[Silicon wafer suppliers]]
+- [[Photolithography equipment manufacturers]]
+- [[Chemical and gases suppliers]]
+- [[Packaging and assembly vendors]]
+- [[Test and measurement equipment providers]]
 
 ### 下游客户
-- [[Automotive OEMs (e.g., Ford, GM)]]
-- [[005930.KS]]
-- [[Industrial automation firms (e.g., Siemens, Rockwell Automation)]]
-- [[CSCO]]
-- [[Embedded system integrators (e.g., ARM, NXP)]]
+- [[Automotive electronics manufacturers]]
+- [[Industrial control system integrators]]
+- [[Consumer electronics OEMs]]
+- [[Mobile device component suppliers]]
+- [[Internet‑of‑Things (IoT) solution providers]]
 
 ### 竞争对手
 - [[ADI]]
 - [[ADI]]
-- [[Infineon Technologies]]
-- [[STMicroelectronics]]
 - [[NXP Semiconductors]]
+- [[STMicroelectronics]]
+- [[Infineon Technologies]]
 
 ### 核心产品
-- [[Analog integrated circuits (e.g., op-amps, ADCs, DACs)]]
-- [[Embedded processors (e.g., C2000, Sitara, OMAP)]]
-- [[Digital Light Processing (DLP) technology]]
-- [[Educational calculators and STEM devices]]
-- [[Microcontrollers and multi-core processors]]
+- [[Analog integrated circuits (e.g., op‑amps, ADCs, DACs)]]
+- [[Embedded processors (e.g., Sitara, OMAP)]]
+- [[Digital Light Processing (DLP) chips]]
+- [[Educational calculators and microcontrollers]]
+- [[Multi‑core processors for industrial and automotive use]]
 
 ## 数据来源
 
 - [Texas Instruments](https://en.wikipedia.org/wiki/Texas_Instruments_Incorporated)
-- [Texas Instruments Incorporated suppliers manufacturers](https://www.ti.com/about-ti/suppliers/supplier-overview.html/)
-- [Texas Instruments Incorporated suppliers manufacturers](https://thepartsdirect.com/texasinstrumentsti/linecard)
+- [Texas Instruments Incorporated suppliers manufacturers](https://en.wikipedia.org/wiki/Texas_Instruments)
+- [Texas Instruments Incorporated suppliers manufacturers](https://www.ebsco.com/research-starters/business-and-management/texas-instruments-incorporated-ti)
 - [Texas Instruments Incorporated major customers clients](https://en.wikipedia.org/wiki/Texas_Instruments)
-- [Texas Instruments Incorporated major customers clients](https://csimarket.com/stocks/TXN-Customers)
+- [Texas Instruments Incorporated major customers clients](https://finance.yahoo.com/quote/TXN/)
 
 ## 元数据
 
-- **更新日期**: 2026-06-18
+- **更新日期**: 2026-06-19

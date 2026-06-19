@@ -4,37 +4,34 @@
   "sector": "Communication Services",
   "industry": "Internet Content & Information",
   "upstream": [
+    "TSM",
     "INTC",
-    "NVDA",
+    "005930.KS",
     "QCOM",
-    "CSCO",
-    "DELL"
+    "NVDA"
   ],
   "downstream": [
-    "AMZN",
-    "Enterprise customers (e.g., banks, governments)",
-    "Android device users",
+    "Advertisers",
+    "Android OEMs",
+    "GOOGL",
     "YouTube content creators",
     "GOOGL"
   ],
   "competitors": [
     "MSFT",
     "AMZN",
-    "AAPL",
     "META",
+    "AAPL",
     "Tencent"
   ],
   "key_products": [
     "Google Search",
     "YouTube",
-    "Google Cloud",
-    "Android OS",
     "Google Ads",
-    "Google Workspace",
-    "Google Maps",
-    "Google Pixel"
+    "Google Cloud Platform",
+    "Android OS"
   ],
-  "extracted_at": "2026-06-18 18:23:56",
+  "extracted_at": "2026-06-19 17:51:00",
   "sources": [
     {
       "source": "Wikipedia",
@@ -57,14 +54,14 @@
     {
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Alphabet_Inc.",
-      "query": "Alphabet Inc. major customers clients",
+      "query": "Alphabet Inc. competitors alternatives",
       "snippet": "Alphabet Inc . is an American multinational technology conglomerate holding company headquartered in Mountain View, California. It was created through"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.investing.com/equities/google-inc",
-      "query": "Alphabet Inc. major customers clients",
-      "snippet": "Get detailed information about the Alphabet Inc . stock (GOOGL) including Price, Charts, Technical Analysis, Historical data, Alphabet Reports and mor"
+      "url": "https://champsignal.com/competitors/abc.xyz",
+      "query": "Alphabet Inc. competitors alternatives",
+      "snippet": "Top 8 Alphabet Inc . Competitors & Alternatives in 2026. Updated on 12/21/2025. Find more companies/brands/products like Alphabet Inc .. We've shortli"
     }
   ]
 }

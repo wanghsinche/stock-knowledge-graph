@@ -2,36 +2,36 @@
   "ticker": "HOOD",
   "company_name": "Robinhood Markets, Inc.",
   "sector": "Financial Services",
-  "industry": "Online Brokerage",
+  "industry": "Capital Markets",
   "upstream": [
-    "NASDAQ data feeds",
-    "Payment processors (e.g., Stripe)",
-    "Cloud infrastructure (AWS)",
-    "Regulatory compliance vendors",
-    "Market data providers (Bloomberg)"
+    "Brokerage technology platforms",
+    "Financial data providers (Bloomberg, Refinitiv)",
+    "Payment processors (Stripe, PayPal)",
+    "AMZN",
+    "Regulatory compliance services"
   ],
   "downstream": [
     "Retail investors",
     "Day traders",
     "High‑frequency traders",
     "Institutional clients",
-    "Crypto traders"
+    "Financial advisors"
   ],
   "competitors": [
+    "E*TRADE",
+    "TD Ameritrade",
     "Charles Schwab",
     "Fidelity",
-    "TD Ameritrade",
-    "Webull",
-    "E*TRADE"
+    "Webull"
   ],
   "key_products": [
-    "Commission‑free stock trading",
-    "Robinhood Gold premium service",
-    "Cash Management",
-    "Options trading",
-    "Cryptocurrency trading"
+    "Commission‑free trading app",
+    "Robinhood Gold",
+    "Robinhood Crypto",
+    "Robinhood Cash Management",
+    "Stock options trading"
   ],
-  "extracted_at": "2026-06-18 18:25:25",
+  "extracted_at": "2026-06-19 18:02:35",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,15 +41,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Robinhood_Markets",
+      "url": "https://robinhood.com/",
       "query": "Robinhood Markets, Inc. suppliers manufacturers",
-      "snippet": "Robinhood Markets , Inc . is an American financial services company based in Menlo Park, California. It provides an electronic trading platform that f"
+      "snippet": "Trade stocks on Robinhood with commission-free investing & advanced trading tools. Access fractional shares, real-time market data, and more."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/HOOD-Suppliers",
+      "url": "https://finance.yahoo.com/quote/HOOD/",
       "query": "Robinhood Markets, Inc. suppliers manufacturers",
-      "snippet": "Feb 28, 2026 · Robinhood Markets Inc 's Suppliers recorded an increase in sales by 8.72 % year on year in Q4 2025, sequentially sales grew by 4.1 %, w"
+      "snippet": "Robinhood Markets , Inc . ( HOOD ). Time to buy HOOD ? Robinhood Markets , Inc . operates financial services platform in the United States. The compan"
     },
     {
       "source": "DuckDuckGo",
@@ -59,9 +59,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/HOOD/",
+      "url": "https://www.investing.com/equities/robinhood-markets",
       "query": "Robinhood Markets, Inc. major customers clients",
-      "snippet": "Robinhood Markets , Inc . ( HOOD ) is gaining momentum as it outperforms the market and receives regulatory approval for IPO underwriting. However, th"
+      "snippet": "Robinhood Markets Inc . ( HOOD ) reported service disruptions affecting some customers due to record-breaking traffic on its... customers the basics r"
     }
   ]
 }

@@ -1,37 +1,37 @@
 {
   "ticker": "AMZN",
   "company_name": "Amazon.com, Inc.",
-  "sector": "Consumer Cyclical / Internet Retail",
-  "industry": "E‑commerce & Cloud Computing",
+  "sector": "Consumer Cyclical",
+  "industry": "Internet Retail",
   "upstream": [
-    "Book publishers",
-    "Electronics manufacturers",
-    "Apparel brands",
-    "Third‑party sellers",
-    "Logistics & fulfillment partners"
+    "005930.KS",
+    "AAPL",
+    "Nike",
+    "Penguin Random House",
+    "SONY"
   ],
   "downstream": [
-    "Individual consumers",
-    "Small & medium businesses",
-    "Enterprise customers (AWS)",
-    "Advertisers",
-    "Streaming subscribers (Prime Video, Music)"
+    "AMZN",
+    "AMZN",
+    "AMZN",
+    "Third‑party sellers",
+    "Retail consumers"
   ],
   "competitors": [
-    "Walmart",
     "eBay",
+    "Walmart",
     "Alibaba",
     "Shopify",
-    "Target"
+    "MSFT"
   ],
   "key_products": [
     "Amazon.com marketplace",
-    "Amazon Web Services (AWS)",
-    "Amazon Prime (subscription services)",
-    "Amazon Echo / Alexa",
-    "Amazon Kindle"
+    "Amazon Web Services",
+    "Amazon Prime",
+    "Kindle",
+    "Alexa"
   ],
-  "extracted_at": "2026-06-18 18:23:13",
+  "extracted_at": "2026-06-19 17:49:52",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,15 +41,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://supply.amazon.com/",
+      "url": "https://www.alibaba.com/",
       "query": "Amazon.com, Inc. suppliers manufacturers",
-      "snippet": "At Amazon , we look for suppliers who want to become partners on our road to being earth’s most customer-centric company. Supplier Connect enables sup"
+      "snippet": "Find quality Manufacturers , Suppliers , Exporters, Importers, Buyers, Wholesalers, Products and Trade Leads from our award-winning International Trad"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.accio.com/supplier/amazon-suppliers-list",
+      "url": "https://ir.aboutamazon.com/",
       "query": "Amazon.com, Inc. suppliers manufacturers",
-      "snippet": "Jun 3, 2026 · Looking for reliable Amazon suppliers ? Explore our curated list of verified manufacturers across electronics, apparel, and supplements."
+      "snippet": "The Spheres. Select awards and recognition. Amazon . com Conditions of Use © 1996- Amazon . com , Inc . - IR or its affiliates."
     },
     {
       "source": "DuckDuckGo",
@@ -59,9 +59,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.amazon.com/shop/influencer-5be7a4bc",
+      "url": "https://www.inc.com/jeff-bercovici/amazon-advertising-customer-trust.html",
       "query": "Amazon.com, Inc. major customers clients",
-      "snippet": "Shop recommended products from Buy Smart, Not Twice – with Lily on www. amazon . com . Reach customers wherever they spend their time. 6pm. Score deal"
+      "snippet": "An Inc . com Featured Presentation. That’s great news for Amazon ’s shareholders. But it’s a bummer for shoppers who’d rather see products with the be"
     }
   ]
 }

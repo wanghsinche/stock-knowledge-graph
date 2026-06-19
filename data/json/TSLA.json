@@ -1,37 +1,37 @@
 {
   "ticker": "TSLA",
   "company_name": "Tesla, Inc.",
-  "sector": "Consumer Cyclical",
-  "industry": "Auto Manufacturers",
+  "sector": "Consumer Cyclical / Auto Manufacturers",
+  "industry": "Automotive",
   "upstream": [
     "Panasonic",
     "LG Chem",
     "CAT",
     "005930.KS",
-    "TSLA"
+    "Bosch"
   ],
   "downstream": [
-    "U.S. individual consumers",
-    "Chinese individual consumers",
-    "fleet operators (e.g., Uber, Lyft)",
-    "government agencies (e.g., U.S. DoD)",
-    "electric vehicle fleet programs"
+    "Individual consumers",
+    "Fleet operators (e.g., Uber, Lyft)",
+    "Utility companies (e.g., Southern California Edison)",
+    "Government agencies",
+    "Commercial fleet operators"
   ],
   "competitors": [
     "General Motors",
     "Ford",
-    "Volkswagen",
-    "Nissan",
-    "Toyota"
+    "Rivian",
+    "Lucid Motors",
+    "BYD"
   ],
   "key_products": [
     "Model S",
     "Model 3",
     "Model X",
     "Model Y",
-    "Cybertruck"
+    "Powerwall"
   ],
-  "extracted_at": "2026-06-18 18:22:22",
+  "extracted_at": "2026-06-19 17:49:10",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Optimus_(robot)",
+      "url": "https://en.wikipedia.org/wiki/Tesla,_Inc.",
       "query": "Tesla, Inc. suppliers manufacturers",
-      "snippet": "Optimus, also known as Tesla Bot, is a general-purpose robotic humanoid under development by Tesla , Inc . It was announced at the company's Artificia"
+      "snippet": "Tesla , Inc . is an American multinational automotive and clean energy company. Headquartered in Austin, Texas, it designs, manufactures , and sells b"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://csimarket.com/stocks/suppliers_glance.php?code=TSLA",
       "query": "Tesla, Inc. suppliers manufacturers",
-      "snippet": "Tesla Inc 's Suppliers Performance. TSLA's Supply Chain. Tesla relies on a wide range of suppliers beyond just battery manufacturers to build our elec"
+      "snippet": "Tesla Inc supply chain, list and performance of Tesla Incs ' suppliers - CSIMarket."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/TSLA-Customers",
+      "url": "https://en.wikipedia.org/wiki/Tesla,_Inc.",
       "query": "Tesla, Inc. major customers clients",
-      "snippet": "Tesla Inc customers and markets, results by customer and performance relative to TSLA, by company and industry - CSIMarket"
+      "snippet": "Tesla , Inc . is an American multinational automotive and clean energy company.The company was incorporated in July 2003 by Martin Eberhard and Marc T"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://businessmodelanalyst.com/tesla-target-market/",
+      "url": "https://www.tesla.com/",
       "query": "Tesla, Inc. major customers clients",
-      "snippet": "Nov 7, 2024 · This article explores the intricacies of Tesla target market, analyzing the demographic, geographic, psychographic, and behavioral facto"
+      "snippet": "Explore limited-time offers on Tesla vehicles. Learn More. Tesla vehicle. Inventory. Find nearby vehicles available for immediate delivery."
     }
   ]
 }

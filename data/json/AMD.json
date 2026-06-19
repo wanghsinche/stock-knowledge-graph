@@ -8,30 +8,30 @@
     "005930.KS",
     "GlobalFoundries",
     "UMC",
-    "INTC"
+    "MU"
   ],
   "downstream": [
+    "SONY",
     "MSFT",
-    "AMZN",
-    "GOOGL",
+    "HPQ",
     "DELL",
-    "HPQ"
+    "AMZN"
   ],
   "competitors": [
     "INTC",
     "NVDA",
     "QCOM",
     "AVGO",
-    "005930.KS"
+    "MediaTek Inc."
   ],
   "key_products": [
     "Ryzen CPUs",
-    "EPYC servers",
+    "EPYC server CPUs",
     "Radeon GPUs",
     "Radeon Instinct GPUs",
-    "Ryzen Threadripper"
+    "APU (Accelerated Processing Unit)"
   ],
-  "extracted_at": "2026-06-18 18:23:02",
+  "extracted_at": "2026-06-19 17:48:55",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/AMD-Suppliers",
+      "url": "https://en.wikipedia.org/wiki/AMD",
       "query": "Advanced Micro Devices, Inc. suppliers manufacturers",
-      "snippet": "4 days ago · Advanced Micro Devices Inc's Sup pliers recorded an increase in sales by 9.44 % year on year in Q1 2026, sequentially sales grew by 5.04 "
+      "snippet": "Advanced Micro Devices , Inc . is an American multinational semiconductor company headquartered in Santa Clara, California. It develops central proces"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://thepartsdirect.com/advancedmicrodevicesamd/distributors-and-vendors",
+      "url": "https://www.britannica.com/money/Advanced-Micro-Devices-Inc",
       "query": "Advanced Micro Devices, Inc. suppliers manufacturers",
-      "snippet": "144 Distributors & Vendors, 1 Locations associated to Advanced Micro Devices (AMD)"
+      "snippet": "Advanced Micro Devices , Inc . ( AMD ) is an American semiconductor designer and global supplier of computing and graphics technologies used in data c"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/AMD",
       "query": "Advanced Micro Devices, Inc. major customers clients",
-      "snippet": "Advanced Micro Devices , Inc . is an American multinational semiconductor company headquartered in Santa Clara, California. It develops central proces"
+      "snippet": "AMD serves a wide range of business and consumer markets, including personal computers (PCs), gaming, data centers, and embedded systems. History · Fo"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.stockjabber.com/company/AMD/company-insights",
+      "url": "https://www.sec.gov/Archives/edgar/data/2488/000000248817000043/amd-12312016x10k.htm",
       "query": "Advanced Micro Devices, Inc. major customers clients",
-      "snippet": "Explore Advanced Micro Devices , Inc .'s business overview, products, customer base, competitors, revenue model, specialties, and geographic presence "
+      "snippet": "Our major customers, Sony Corporation, Microsoft Corporation and HP Inc., each accounted for more than 10% of our consolidated net revenue for the yea"
     }
   ]
 }

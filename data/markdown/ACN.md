@@ -1,18 +1,18 @@
 ---
 ticker: ACN
 company: Accenture plc
-sector: Technology
+sector: Technology / Information Technology Services
 industry: Information Technology Services
-extracted_at: 2026-06-18 18:25:53
-last_updated: 2026-06-18
+extracted_at: 2026-06-19 17:57:07
+last_updated: 2026-06-19
 ---
 
 # ACN - Accenture plc
 
 ## 基本信息
 
-- **所属行业**: Technology / Information Technology Services
-- **提取时间**: 2026-06-18 18:25:53
+- **所属行业**: Technology / Information Technology Services / Information Technology Services
+- **提取时间**: 2026-06-19 17:57:07
 
 ## 产业链关系
 
@@ -27,31 +27,31 @@ last_updated: 2026-06-18
 - [[MSFT]]
 - [[AMZN]]
 - [[GOOGL]]
+- [[AAPL]]
 - [[Bank of America]]
-- [[General Electric]]
 
 ### 竞争对手
 - [[Deloitte]]
 - [[PwC]]
 - [[EY]]
+- [[KPMG]]
 - [[IBM]]
-- [[Capgemini]]
 
 ### 核心产品
-- [[Management consulting]]
-- [[Technology consulting]]
+- [[Consulting services]]
+- [[Technology services]]
 - [[Digital transformation]]
 - [[Cloud services]]
-- [[Cybersecurity]]
+- [[Cybersecurity services]]
 
 ## 数据来源
 
 - [Accenture](https://en.wikipedia.org/wiki/Accenture_plc)
-- [Accenture plc suppliers manufacturers](https://en.wikipedia.org/wiki/List_of_acquisitions_by_Accenture)
 - [Accenture plc suppliers manufacturers](https://csimarket.com/stocks/ACN-Suppliers)
+- [Accenture plc suppliers manufacturers](https://simplywall.st/stocks/us/software/nyse-acn/accenture)
+- [Accenture plc major customers clients](https://www.aarkstore.com/technology/176592/accenture-plc-acn-financial-and-strategic-swot-analysis-review)
 - [Accenture plc major customers clients](https://www.researchandmarkets.com/reports/4029099/accenture-plc-company-profile-and-swot-analysis)
-- [Accenture plc major customers clients](https://www.360quadrants.com/software/application-testing-services/accenture-plc)
 
 ## 元数据
 
-- **更新日期**: 2026-06-18
+- **更新日期**: 2026-06-19
