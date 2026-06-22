@@ -4,34 +4,34 @@
   "sector": "Consumer Cyclical",
   "industry": "Internet Retail",
   "upstream": [
-    "005930.KS",
-    "AAPL",
-    "Nike",
-    "Penguin Random House",
-    "SONY"
+    "Book publishers",
+    "Electronics manufacturers",
+    "Third‑party sellers",
+    "Consumer goods manufacturers",
+    "Logistics equipment suppliers"
   ],
   "downstream": [
     "AMZN",
     "AMZN",
     "AMZN",
-    "Third‑party sellers",
-    "Retail consumers"
+    "NFLX",
+    "AMZN"
   ],
   "competitors": [
-    "eBay",
     "Walmart",
     "Alibaba",
+    "eBay",
     "Shopify",
-    "MSFT"
+    "Target"
   ],
   "key_products": [
     "Amazon.com marketplace",
-    "Amazon Web Services",
-    "Amazon Prime",
-    "Kindle",
-    "Alexa"
+    "Amazon Prime subscription",
+    "Amazon Web Services (cloud computing)",
+    "Amazon Kindle e‑readers",
+    "Amazon Echo smart speakers"
   ],
-  "extracted_at": "2026-06-19 17:49:52",
+  "extracted_at": "2026-06-22 19:19:40",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.alibaba.com/",
+      "url": "https://supply.amazon.com/",
       "query": "Amazon.com, Inc. suppliers manufacturers",
-      "snippet": "Find quality Manufacturers , Suppliers , Exporters, Importers, Buyers, Wholesalers, Products and Trade Leads from our award-winning International Trad"
+      "snippet": "Join Amazon ' s global network of suppliers to be considered for opportunities to sell Amazon the goods and services necessary to support our retail a"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ir.aboutamazon.com/",
+      "url": "https://www.accio.com/supplier/amazon-suppliers-list",
       "query": "Amazon.com, Inc. suppliers manufacturers",
-      "snippet": "The Spheres. Select awards and recognition. Amazon . com Conditions of Use © 1996- Amazon . com , Inc . - IR or its affiliates."
+      "snippet": "4 days ago · Looking for reliable Amazon suppliers ? Explore our curated list of verified manufacturers across electronics, apparel, and supplements. "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ir.aboutamazon.com/",
+      "url": "https://en.wikipedia.org/wiki/Amazon_(company)",
       "query": "Amazon.com, Inc. major customers clients",
-      "snippet": "The Spheres. Select awards and recognition. Amazon . com Conditions of Use © 1996- Amazon . com , Inc . - IR or its affiliates."
+      "snippet": "Amazon Logistics, in which Amazon contracts with small businesses (which it calls \"Delivery Service Partners\") to perform deliveries to customers . Ea"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.inc.com/jeff-bercovici/amazon-advertising-customer-trust.html",
+      "url": "https://aws.amazon.com/about-aws/our-customers-and-partners/",
       "query": "Amazon.com, Inc. major customers clients",
-      "snippet": "An Inc . com Featured Presentation. That’s great news for Amazon ’s shareholders. But it’s a bummer for shoppers who’d rather see products with the be"
+      "snippet": "Every day, our customers and partners around use AWS to launch new businesses, reinvent themselves and their industries, serve their communities more "
     }
   ]
 }

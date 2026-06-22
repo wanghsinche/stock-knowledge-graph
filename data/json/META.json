@@ -4,34 +4,34 @@
   "sector": "Communication Services",
   "industry": "Internet Content & Information",
   "upstream": [
+    "CSCO",
+    "DELL",
+    "HPQ",
     "INTC",
-    "QCOM",
-    "NVDA",
-    "005930.KS",
-    "TSM"
+    "NVDA"
   ],
   "downstream": [
     "Advertisers",
     "Businesses",
-    "App developers",
+    "Developers",
     "Content creators",
-    "End users"
+    "Media companies"
   ],
   "competitors": [
-    "X (formerly Twitter)",
-    "Snap Inc.",
-    "TikTok (ByteDance)",
+    "GOOGL",
+    "AMZN",
+    "AAPL",
     "MSFT",
-    "Pinterest"
+    "TikTok"
   ],
   "key_products": [
     "Facebook",
     "Instagram",
     "WhatsApp",
     "Messenger",
-    "Meta Ads"
+    "Threads"
   ],
-  "extracted_at": "2026-06-19 17:50:09",
+  "extracted_at": "2026-06-22 19:20:56",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,9 +41,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ru.wikipedia.org/wiki/Meta_Platforms",
+      "url": "https://investor.atmeta.com/",
       "query": "Meta Platforms, Inc. suppliers manufacturers",
-      "snippet": "Meta Platforms , Inc . — американская транснациональная холдинговая компания, владеющая технологическим конгломератом и расположенная в Менло-Парке, К"
+      "snippet": "Investor Education Center. Meta for Business. Meta Ads Guide."
     },
     {
       "source": "DuckDuckGo",
@@ -59,9 +59,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://investorshangout.com/Meta-Platforms-Inc-META-69146/",
+      "url": "https://www.marketresearch.com/MarketLine-v3883/Meta-Platforms-Company-Profile-SWOT-41413488/",
       "query": "Meta Platforms, Inc. major customers clients",
-      "snippet": "META Stock Message Board for Investors. Meta Platforms , Inc . Stock Price, News and Company Updates."
+      "snippet": "Assess Meta Platforms , Inc . as a prospective partner, vendor or supplier.Support sales activities by understanding your customers ' businesses bette"
     }
   ]
 }

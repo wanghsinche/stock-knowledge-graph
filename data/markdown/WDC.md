@@ -1,57 +1,57 @@
 ---
 ticker: WDC
 company: Western Digital Corporation
-sector: Technology / Computer Hardware
-industry: Data Storage / Hard Disk Drive Manufacturing
-extracted_at: 2026-06-19 17:50:25
-last_updated: 2026-06-19
+sector: Technology
+industry: Computer Hardware
+extracted_at: 2026-06-22 19:20:32
+last_updated: 2026-06-22
 ---
 
 # WDC - Western Digital Corporation
 
 ## 基本信息
 
-- **所属行业**: Technology / Computer Hardware / Data Storage / Hard Disk Drive Manufacturing
-- **提取时间**: 2026-06-19 17:50:25
+- **所属行业**: Technology / Computer Hardware
+- **提取时间**: 2026-06-22 19:20:32
 
 ## 产业链关系
 
 ### 上游供应商
-- [[MU]]
 - [[005930.KS]]
+- [[MU]]
+- [[Toshiba]]
+- [[STX]]
 - [[SK Hynix]]
-- [[INTC]]
-- [[Toshiba Memory]]
 
 ### 下游客户
-- [[DELL]]
-- [[HPQ]]
-- [[Lenovo Group]]
 - [[AAPL]]
 - [[MSFT]]
+- [[AMZN]]
+- [[GOOGL]]
+- [[DELL]]
 
 ### 竞争对手
 - [[STX]]
-- [[Toshiba]]
 - [[005930.KS]]
 - [[MU]]
+- [[Toshiba]]
 - [[IBM]]
 
 ### 核心产品
-- [[Internal Hard Disk Drives]]
-- [[Solid State Drives]]
-- [[External Portable Drives]]
+- [[Hard Disk Drives (HDD)]]
+- [[Solid State Drives (SSD)]]
 - [[Enterprise Storage Systems]]
-- [[Cloud Storage Solutions]]
+- [[Data Storage Solutions]]
+- [[Cloud Storage Services]]
 
 ## 数据来源
 
 - [Western Digital](https://en.wikipedia.org/wiki/Western_Digital_Corporation)
-- [Western Digital Corporation suppliers manufacturers](https://ru.wikipedia.org/wiki/Western_Digital)
-- [Western Digital Corporation suppliers manufacturers](https://octopart.com/wd2791a/al02-western+digital-29360379)
-- [Western Digital Corporation major customers clients](https://ru.wikipedia.org/wiki/Western_Digital)
-- [Western Digital Corporation major customers clients](https://weissratings.com/en/instant-news-alerts/western-digital-corporation-wdc-up-5-7-time-to-commit-before-it-s-too-late)
+- [Western Digital Corporation suppliers manufacturers](https://www.westerndigital.com/company/distributors)
+- [Western Digital Corporation suppliers manufacturers](https://csimarket.com/stocks/WDC-Suppliers)
+- [Western Digital Corporation major customers clients](https://csimarket.com/stocks/WDC-Customers)
+- [Western Digital Corporation major customers clients](https://data.landbase.com/technology/western-digital/)
 
 ## 元数据
 
-- **更新日期**: 2026-06-19
+- **更新日期**: 2026-06-22

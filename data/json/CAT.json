@@ -4,34 +4,38 @@
   "sector": "Industrials",
   "industry": "Farm & Heavy Construction Machinery",
   "upstream": [
-    "Cummins Inc.",
-    "Bosch",
+    "Cummins",
     "Eaton",
-    "GE Power",
-    "Honeywell"
+    "Bosch",
+    "Denso",
+    "Baldor Electric"
   ],
   "downstream": [
-    "HPQ",
-    "Rio Tinto",
-    "Bechtel",
-    "United States Army",
-    "Vulcan Materials"
+    "Construction companies",
+    "Mining companies",
+    "Government agencies",
+    "Infrastructure developers",
+    "Agricultural firms"
   ],
   "competitors": [
-    "DE",
     "Komatsu",
     "Volvo Construction Equipment",
+    "DE",
     "CNH Industrial",
     "Hitachi Construction Machinery"
   ],
   "key_products": [
     "Excavators",
     "Bulldozers",
-    "Wheel Loaders",
+    "Wheel loaders",
     "Backhoes",
-    "Mining Trucks"
+    "Mining trucks",
+    "Diesel engines",
+    "Generators",
+    "Track loaders",
+    "Hydraulic hammers"
   ],
-  "extracted_at": "2026-06-19 17:56:36",
+  "extracted_at": "2026-06-22 19:29:35",
   "sources": [
     {
       "source": "Wikipedia",
@@ -49,19 +53,19 @@
       "source": "DuckDuckGo",
       "url": "https://csimarket.com/stocks/CAT-Suppliers",
       "query": "Caterpillar Inc. suppliers manufacturers",
-      "snippet": "Caterpillar Inc supply chain, list and performance of Caterpillar Incs ' suppliers - CSIMarket. Caterpillar Inc 's Suppliers Performance. CAT's Supply"
+      "snippet": "Caterpillar Inc supply chain, list and performance of Caterpillar Incs ' suppliers - CSIMarket."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Caterpillar_Inc.",
+      "url": "https://csimarket.com/stocks/CAT-Customers",
       "query": "Caterpillar Inc. major customers clients",
-      "snippet": "Caterpillar Inc . is an American construction, mining, and other engineering equipment manufacturer. The company is the world's largest manufacturer o"
+      "snippet": "3 days ago · For your research, we’ve provided 9 tables on Caterpillar Inc corporate clients . You can find them in the navigation menu under Customer"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ru.wikipedia.org/wiki/Caterpillar",
+      "url": "https://www.caterpillar.com/en/company/100/customers-success.html",
       "query": "Caterpillar Inc. major customers clients",
-      "snippet": "Caterpillar Inc . ([ˈkætəpɪlə]), «Катерпиллар»[4], также известная как CAT — американская компания, один из крупнейших мировых производителей строител"
+      "snippet": "All About Caterpillar Mission and Purpose Strategy History Industries We Serve Innovation Global Locations Culture Code of Conduct Brands All Brands C"
     }
   ]
 }

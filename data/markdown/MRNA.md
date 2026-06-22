@@ -3,8 +3,8 @@ ticker: MRNA
 company: Moderna, Inc.
 sector: Healthcare
 industry: Biotechnology
-extracted_at: 2026-06-19 18:03:05
-last_updated: 2026-06-19
+extracted_at: 2026-06-22 19:33:57
+last_updated: 2026-06-22
 ---
 
 # MRNA - Moderna, Inc.
@@ -12,46 +12,46 @@ last_updated: 2026-06-19
 ## 基本信息
 
 - **所属行业**: Healthcare / Biotechnology
-- **提取时间**: 2026-06-19 18:03:05
+- **提取时间**: 2026-06-22 19:33:57
 
 ## 产业链关系
 
 ### 上游供应商
-- [[mRNA synthesis suppliers]]
-- [[lipid nanoparticle manufacturers]]
-- [[cell culture media suppliers]]
-- [[bioreactor equipment vendors]]
+- [[Lonza]]
 - [[CAT]]
+- [[Thermo Fisher Scientific]]
+- [[Merck KGaA]]
+- [[GSK]]
 
 ### 下游客户
-- [[U.S. Department of Health & Human Services]]
+- [[U.S. Department of Health and Human Services]]
 - [[European Medicines Agency]]
-- [[National Health Service (UK)]]
-- [[private hospitals and clinics]]
-- [[pharmaceutical distributors]]
+- [[World Health Organization]]
+- [[National Institutes of Health]]
+- [[United Nations]]
 
 ### 竞争对手
-- [[Pfizer-BioNTech]]
-- [[Johnson & Johnson]]
+- [[Pfizer]]
+- [[BioNTech]]
+- [[CureVac]]
 - [[Novavax]]
-- [[Biontech]]
-- [[AstraZeneca]]
+- [[GSK]]
 
 ### 核心产品
-- [[Spikevax (COVID-19 vaccine)]]
-- [[mRNA-1273 (COVID-19 vaccine)]]
-- [[mRNA therapeutics platform]]
-- [[mRNA-based oncology candidates]]
-- [[mRNA-based rare disease therapies]]
+- [[mRNA-1273 (COVID‑19 vaccine)]]
+- [[mRNA-4157 (cancer vaccine)]]
+- [[mRNA-1245 (influenza vaccine)]]
+- [[mRNA-1273.211 (bivalent COVID‑19 vaccine)]]
+- [[mRNA-1273.214 (bivalent COVID‑19 vaccine)]]
 
 ## 数据来源
 
 - 
 - [Moderna, Inc. suppliers manufacturers](https://csimarket.com/stocks/MRNA-Suppliers)
 - [Moderna, Inc. suppliers manufacturers](https://www.modernatx.com/about-us/our-story)
-- [Moderna, Inc. competitors alternatives](https://pitchgrade.com/companies/moderna)
-- [Moderna, Inc. competitors alternatives](https://csimarket.com/stocks/MRNA-Competitors)
+- [Moderna, Inc. major customers clients](https://investors.modernatx.com/)
+- [Moderna, Inc. major customers clients](https://www.marketresearch.com/GlobalData-v3648/Moderna-MRNA-Financial-Strategic-SWOT-37607329/)
 
 ## 元数据
 
-- **更新日期**: 2026-06-19
+- **更新日期**: 2026-06-22

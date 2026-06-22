@@ -4,34 +4,34 @@
   "sector": "Consumer Cyclical",
   "industry": "Auto Parts",
   "upstream": [
-    "Automotive parts manufacturers",
-    "Aftermarket parts suppliers",
-    "OEM component suppliers",
-    "Battery manufacturers",
-    "Lubricant and filter producers"
+    "Bosch",
+    "Denso",
+    "Delphi",
+    "Magna International",
+    "Continental"
   ],
   "downstream": [
-    "Individual vehicle owners",
-    "Independent repair shops",
+    "Repair garages",
+    "Car dealerships",
     "Auto service centers",
-    "Fleet maintenance operators",
-    "Car enthusiasts and hobbyists"
+    "Individual consumers",
+    "Fleet operators"
   ],
   "competitors": [
     "O'Reilly Auto Parts",
-    "NAPA Auto Parts",
     "Advance Auto Parts",
+    "NAPA Auto Parts",
     "Pep Boys",
-    "Auto Parts Warehouse"
+    "Carquest"
   ],
   "key_products": [
     "Aftermarket automotive parts",
-    "Car batteries",
-    "Engine oils and lubricants",
-    "Filters (oil, air, fuel)",
-    "Performance and upgrade accessories"
+    "Car accessories",
+    "Batteries",
+    "Motor oils & lubricants",
+    "Filters & air cleaners"
   ],
-  "extracted_at": "2026-06-18 18:29:52",
+  "extracted_at": "2026-06-22 19:30:44",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,15 +41,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.autozone.com/?intcmp=yext_header_logo",
+      "url": "https://about.autozone.com/news-releases/news-release-details/autozone-vendor-summit-recognizes-contributions-top-suppliers-1",
       "query": "AutoZone, Inc. suppliers manufacturers",
-      "snippet": "Autozone Home."
+      "snippet": "Jun 12, 2025 · MEMPHIS, Tenn., June 12, 2025 (GLOBE NEWSWIRE) -- AutoZone (NYSE: AZO) recognized 18 of its top suppliers at its annual Vendor Summit. "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.linkedin.com/company/autozone",
+      "url": "https://csimarket.com/stocks/AZO-Suppliers",
       "query": "AutoZone, Inc. suppliers manufacturers",
-      "snippet": "AutoZone | 254,133 followers on LinkedIn. AutoZone is the nation's leading retailer and a leading distributor of automotive replacement parts and acce"
+      "snippet": "5 days ago · For your research, we’ve provided nine additional tables on Autozone Inc ’s suppliers . You can find them in the navigation menu under Su"
     },
     {
       "source": "DuckDuckGo",
@@ -59,9 +59,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.indeed.com/cmp/Autozone/reviews",
+      "url": "https://www.marketresearch.com/GlobalData-v3648/AutoZone-AZO-Financial-Strategic-SWOT-38996333/",
       "query": "AutoZone, Inc. major customers clients",
-      "snippet": "14,809 reviews from AutoZone employees about AutoZone culture, salaries, benefits, work-life balance, management, job security, and more."
+      "snippet": "AutoZone serves a diverse customer base, including repair garages, dealers, service stations, fleet owners, and other accounts, facilitating applicati"
     }
   ]
 }

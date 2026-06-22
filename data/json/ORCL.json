@@ -4,34 +4,34 @@
   "sector": "Technology",
   "industry": "Software - Infrastructure",
   "upstream": [
-    "INTC",
-    "AMD",
-    "NVDA",
     "DELL",
-    "HPQ"
+    "HPQ",
+    "IBM",
+    "CSCO",
+    "Lenovo"
   ],
   "downstream": [
-    "AMD",
-    "ByteDance",
-    "META",
-    "NVDA",
-    "OpenAI"
+    "Walmart",
+    "JPMorgan Chase",
+    "Bank of America",
+    "AT&T",
+    "Verizon"
   ],
   "competitors": [
     "MSFT",
-    "SAP",
+    "AMZN",
     "IBM",
-    "CRM",
-    "AMZN"
+    "SAP",
+    "CRM"
   ],
   "key_products": [
     "Oracle Database",
     "Oracle Cloud Infrastructure",
     "Oracle ERP Cloud",
-    "Oracle Fusion Middleware",
-    "Oracle Autonomous Database"
+    "Oracle Autonomous Database",
+    "Oracle Analytics Cloud"
   ],
-  "extracted_at": "2026-06-19 17:56:51",
+  "extracted_at": "2026-06-22 19:27:47",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://adjkjc.github.io/en.wikipedia.org/wiki/Oracle_Corporation.html",
+      "url": "https://en.wikipedia.org/wiki/List_of_acquisitions_by_Oracle",
       "query": "Oracle Corporation suppliers manufacturers",
-      "snippet": "Oracle Corporation is an American multinational computer technology corporation headquartered in Redwood Shores, California."
+      "snippet": "List of acquisitions by Oracle This is a listing of Oracle Corporation 's corporate acquisitions, including acquisitions of both companies and individ"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ru.wikipedia.org/wiki/Oracle",
+      "url": "https://www.oracle.com/corporate/suppliers/",
       "query": "Oracle Corporation suppliers manufacturers",
-      "snippet": "Oracle — американская корпорация, второй по размеру выручки разработчик программного обеспечения, четвёртая крупнейшая компания в сфере информационных"
+      "snippet": "Oracle is always looking for suppliers who can meet our high quality standards and satisfy our ever-evolving business needs. We believe in the importa"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.oracle.com/",
+      "url": "https://www.thomsondata.com/customer-base/oracle.php",
       "query": "Oracle Corporation major customers clients",
-      "snippet": "OCI Tech Customers . AMD, ByteDance, Meta, NVIDIA, OpenAI, Temu, TikTok, Uber, xAI. The demand for cloud infrastructure for AI training and inferencin"
+      "snippet": "Thomson Data makes it easy by offering an accurate and up-to-date list of companies that use Oracle. This list allows you to identify Oracle customers"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.britannica.com/money/Oracle-Corporation",
+      "url": "https://www.appsruntheworld.com/customers-database/vendors/view/oracle",
       "query": "Oracle Corporation major customers clients",
-      "snippet": "Oracle is global corporation that develops and markets software applications for business.The relocation placed Oracle among several major technology "
+      "snippet": "List of companies using or evaluating Oracle applications, with details on their revenues, employees, industries, and locations. See full list on apps"
     }
   ]
 }

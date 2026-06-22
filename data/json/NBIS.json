@@ -3,15 +3,35 @@
   "company_name": "Nebius Group N.V.",
   "sector": "Communication Services",
   "industry": "Internet Content & Information",
-  "upstream": [],
-  "downstream": [],
-  "competitors": [],
-  "key_products": [
-    "Artificial intelligence infrastructure",
-    "AI platform services",
-    "Data analytics solutions"
+  "upstream": [
+    "NVDA",
+    "AMD",
+    "INTC",
+    "GOOGL",
+    "AMZN"
   ],
-  "extracted_at": "2026-06-19 17:51:25",
+  "downstream": [
+    "ING Bank",
+    "Vodafone",
+    "Alibaba",
+    "Tencent",
+    "Baidu"
+  ],
+  "competitors": [
+    "NVDA",
+    "AMD",
+    "INTC",
+    "GOOGL",
+    "AMZN"
+  ],
+  "key_products": [
+    "Nebius AI Platform",
+    "Avride",
+    "TripleTen",
+    "Toloka",
+    "Clickhouse"
+  ],
+  "extracted_at": "2026-06-22 19:22:12",
   "sources": [
     {
       "source": "Wikipedia",
@@ -21,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://seekingalpha.com/symbol/NBIS",
+      "url": "https://csimarket.com/stocks/suppliers_glance.php?code=NBIS",
+      "query": "NBIS suppliers manufacturers",
+      "snippet": "NBIS 's Suppliers Management Effectiveness. NBIS 's Competitors Results. NBIS 's vs. Suppliers , Data. (Revenue and Income for Trailing 12 Months, in "
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.youtube.com/watch?v=qj_hnSg3nGk",
+      "query": "NBIS suppliers manufacturers",
+      "snippet": "Nebius or NBIS stock grew revenue by nearly 9x in the 3Q 2024. What's driving their hyper growth and where do I think NBIS can go in the years ahead?T"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/Nebius_Group",
       "query": "NBIS major customers clients",
-      "snippet": "View ( NBIS ) real-time stock price, chart, news, analysis, analyst reviews and more."
+      "snippet": "In December 2024, Nebius raised $700 million through private investors, including Nvidia (which acquired 0.5% of Nebius ) and Accel Partners. [5]"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.nasdaq.com/market-activity/stocks/nbis",
+      "url": "https://csimarket.com/stocks/NBIS-Customers",
       "query": "NBIS major customers clients",
-      "snippet": "Show more results ->. NBIS . Summary. Quotes.Data Disclaimer: The Nasdaq Indices and the Major Indices are delayed at least 1 minute."
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://tracxn.com/d/companies/nbis/__CEvjFGepqVDfV7Rq3MZ5EvVEOS0AdSIcBkQrzVxFz1U",
-      "query": "NBIS competitors alternatives",
-      "snippet": "NBIS 's Competitors and alternates . NBIS ranks 33rd amongst 142 active competitors , of which 9 are funded. It stands 11th in terms of total funding "
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://tradestie.com/stocks/NBIS/competitors/",
-      "query": "NBIS competitors alternatives",
-      "snippet": "Find the best alternatives to NBIS (Nebius Group N.V.). Compare NBIS vs top competitors in Internet Content & Information industry by valuation, perfo"
+      "snippet": "1 day ago · For your research, we’ve provided 9 tables on Nebius Group n v corporate clients . You can find them in the navigation menu under Customer"
     }
   ]
 }

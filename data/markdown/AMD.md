@@ -3,8 +3,8 @@ ticker: AMD
 company: Advanced Micro Devices, Inc.
 sector: Technology
 industry: Semiconductors
-extracted_at: 2026-06-19 17:48:55
-last_updated: 2026-06-19
+extracted_at: 2026-06-22 19:19:50
+last_updated: 2026-06-22
 ---
 
 # AMD - Advanced Micro Devices, Inc.
@@ -12,7 +12,7 @@ last_updated: 2026-06-19
 ## 基本信息
 
 - **所属行业**: Technology / Semiconductors
-- **提取时间**: 2026-06-19 17:48:55
+- **提取时间**: 2026-06-22 19:19:50
 
 ## 产业链关系
 
@@ -21,37 +21,37 @@ last_updated: 2026-06-19
 - [[005930.KS]]
 - [[GlobalFoundries]]
 - [[UMC]]
-- [[MU]]
+- [[SK Hynix]]
 
 ### 下游客户
-- [[SONY]]
-- [[MSFT]]
-- [[HPQ]]
 - [[DELL]]
-- [[AMZN]]
+- [[HPQ]]
+- [[Lenovo Group]]
+- [[MSFT]]
+- [[SONY]]
 
 ### 竞争对手
 - [[INTC]]
 - [[NVDA]]
 - [[QCOM]]
 - [[AVGO]]
-- [[MediaTek Inc.]]
+- [[ARM Holdings]]
 
 ### 核心产品
 - [[Ryzen CPUs]]
-- [[EPYC server CPUs]]
+- [[EPYC CPUs]]
 - [[Radeon GPUs]]
-- [[Radeon Instinct GPUs]]
-- [[APU (Accelerated Processing Unit)]]
+- [[Radeon Instinct accelerators]]
+- [[AMD EPYC Data Center Processors]]
 
 ## 数据来源
 
 - [AMD](https://en.wikipedia.org/wiki/Advanced_Micro_Devices,_Inc.)
-- [Advanced Micro Devices, Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/AMD)
-- [Advanced Micro Devices, Inc. suppliers manufacturers](https://www.britannica.com/money/Advanced-Micro-Devices-Inc)
-- [Advanced Micro Devices, Inc. major customers clients](https://en.wikipedia.org/wiki/AMD)
-- [Advanced Micro Devices, Inc. major customers clients](https://www.sec.gov/Archives/edgar/data/2488/000000248817000043/amd-12312016x10k.htm)
+- [Advanced Micro Devices, Inc. suppliers manufacturers](https://csimarket.com/stocks/AMD-Suppliers)
+- [Advanced Micro Devices, Inc. suppliers manufacturers](https://thepartsdirect.com/advancedmicrodevicesamd/distributors-and-vendors)
+- [Advanced Micro Devices, Inc. major customers clients](https://www.britannica.com/money/Advanced-Micro-Devices-Inc)
+- [Advanced Micro Devices, Inc. major customers clients](https://ir.amd.com/)
 
 ## 元数据
 
-- **更新日期**: 2026-06-19
+- **更新日期**: 2026-06-22

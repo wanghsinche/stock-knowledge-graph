@@ -1,18 +1,18 @@
 ---
 ticker: MRVL
 company: Marvell Technology, Inc.
-sector: Technology / Semiconductors
-industry: Semiconductor Devices
-extracted_at: 2026-06-19 17:47:08
-last_updated: 2026-06-19
+sector: Technology
+industry: Semiconductors
+extracted_at: 2026-06-22 19:19:19
+last_updated: 2026-06-22
 ---
 
 # MRVL - Marvell Technology, Inc.
 
 ## 基本信息
 
-- **所属行业**: Technology / Semiconductors / Semiconductor Devices
-- **提取时间**: 2026-06-19 17:47:08
+- **所属行业**: Technology / Semiconductors
+- **提取时间**: 2026-06-22 19:19:19
 
 ## 产业链关系
 
@@ -20,15 +20,15 @@ last_updated: 2026-06-19
 - [[TSM]]
 - [[005930.KS]]
 - [[GlobalFoundries]]
-- [[ASE Technology Holding]]
-- [[Amkor Technology]]
+- [[INTC]]
+- [[SMIC]]
 
 ### 下游客户
-- [[STX]]
-- [[NetApp]]
-- [[DELL]]
-- [[CSCO]]
-- [[Huawei Technologies]]
+- [[AMZN]]
+- [[MSFT]]
+- [[GOOGL]]
+- [[Huawei]]
+- [[Nokia]]
 
 ### 竞争对手
 - [[AVGO]]
@@ -38,20 +38,20 @@ last_updated: 2026-06-19
 - [[NVDA]]
 
 ### 核心产品
-- [[Storage controller chips]]
-- [[Ethernet and networking ASICs]]
-- [[Wi‑Fi and Bluetooth modules]]
-- [[5G modem solutions]]
+- [[5G baseband processors]]
+- [[Wi‑Fi 6/6E chips]]
+- [[Ethernet controllers]]
 - [[NVMe SSD controllers]]
+- [[PCIe switch chips]]
 
 ## 数据来源
 
 - [Marvell Technology](https://en.wikipedia.org/wiki/Marvell_Technology,_Inc.)
 - [Marvell Technology, Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/Marvell_Technology)
-- [Marvell Technology, Inc. suppliers manufacturers](https://csimarket.com/stocks/MRVL-Suppliers)
-- [Marvell Technology, Inc. major customers clients](https://en.wikipedia.org/wiki/Marvell_Technology)
-- [Marvell Technology, Inc. major customers clients](https://csimarket.com/stocks/markets_glance.php?code=MRVL)
+- [Marvell Technology, Inc. suppliers manufacturers](https://www.marvell.com/)
+- [Marvell Technology, Inc. major customers clients](https://csimarket.com/stocks/MRVL-Customers)
+- [Marvell Technology, Inc. major customers clients](https://matrixbcg.com/blogs/target-market/marvell)
 
 ## 元数据
 
-- **更新日期**: 2026-06-19
+- **更新日期**: 2026-06-22

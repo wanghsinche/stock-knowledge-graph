@@ -8,14 +8,14 @@
     "Airbus",
     "Pratt & Whitney",
     "GE Aviation",
-    "Honeywell"
+    "Rolls‑Royce"
   ],
   "downstream": [
-    "Corporate travel",
-    "Leisure travelers",
-    "Travel agencies",
-    "Codeshare partners (United Airlines, Delta Air Lines, Southwest Airlines)",
-    "American Eagle regional carriers"
+    "Individual passengers",
+    "Corporate travel clients",
+    "U.S. Department of Defense",
+    "American Airlines Cargo",
+    "Freight shippers"
   ],
   "competitors": [
     "Delta Air Lines",
@@ -26,12 +26,12 @@
   ],
   "key_products": [
     "Passenger air transport",
-    "Cargo transport",
-    "Maintenance, Repair, and Overhaul (MRO) services",
+    "Cargo and freight services",
+    "Maintenance, repair, and overhaul (MRO)",
     "AAdvantage loyalty program",
-    "In‑flight entertainment"
+    "Flight operations and scheduling"
   ],
-  "extracted_at": "2026-06-17 18:15:40",
+  "extracted_at": "2026-06-22 19:29:10",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,15 +41,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/American_Airlines",
-      "query": "American Airlines Group Inc. suppliers manufacturers",
-      "snippet": "American Airlines , Inc . is a major airline in the United States headquartered in Fort Worth, Texas, within the Dallas–Fort Worth metroplex, and is t"
-    },
-    {
-      "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/American_Airlines_Group",
       "query": "American Airlines Group Inc. suppliers manufacturers",
       "snippet": "Through its subsidiaries American Airlines , Envoy Air, Piedmont Airlines, and PSA Airlines, the group serves approximately 350 destinations worldwide"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/AAL-Suppliers",
+      "query": "American Airlines Group Inc. suppliers manufacturers",
+      "snippet": "4 days ago · American Airlines Group Inc supply chain, list and performance of American Airlines Group Incs ' suppliers - CSIMarket"
     },
     {
       "source": "DuckDuckGo",
@@ -61,7 +61,7 @@
       "source": "DuckDuckGo",
       "url": "https://www.aa.com/i18n/customer-service/about-us/american-airlines-group.jsp",
       "query": "American Airlines Group Inc. major customers clients",
-      "snippet": "The American Eagle network of 5 regional carriers operates under a codeshare and service agreement with American , serving destinations across the U.S"
+      "snippet": "In 2016, American Airlines Group Inc . topped Fortune magazine’s list of best business turnarounds, and its stock (NASDAQ: AAL) joined the S&P 500 ind"
     }
   ]
 }

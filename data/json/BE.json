@@ -4,34 +4,34 @@
   "sector": "Industrials",
   "industry": "Electrical Equipment & Parts",
   "upstream": [
-    "Natural gas suppliers",
-    "Biogas providers",
-    "Hydrogen suppliers",
-    "Electrolyzer component manufacturers",
-    "Fuel cell stack suppliers"
+    "Zirconium suppliers (e.g., Kemet, Linde)",
+    "Platinum suppliers (e.g., De Beers, Rio Tinto)",
+    "Nickel suppliers (e.g., Vale, Norilsk Nickel)",
+    "Electrolyzer manufacturers (e.g., Siemens Energy, ITM Power)",
+    "Fuel cell stack suppliers (e.g., FuelCell Energy, Ballard Power Systems)"
   ],
   "downstream": [
-    "Data center operators",
-    "Manufacturing facilities",
-    "Commercial building owners",
-    "Industrial power users",
-    "Utility-scale power customers"
+    "AMZN",
+    "GOOGL",
+    "MSFT",
+    "Equinix",
+    "AT&T"
   ],
   "competitors": [
     "FuelCell Energy",
-    "Plug Power",
     "Ballard Power Systems",
+    "NexGen Energy",
     "Hydrogenics",
-    "NexGen Energy"
+    "ITM Power"
   ],
   "key_products": [
-    "Solid Oxide Fuel Cells (SOFCs)",
+    "Solid Oxide Fuel Cells (SOFC)",
     "Electrolyzers for hydrogen production",
-    "Fuel cell stacks",
-    "On‑site power generation systems",
-    "Hybrid power solutions"
+    "Hybrid Fuel Cell Systems",
+    "On‑site Power Generation Units",
+    "Hydrogen Production Systems"
   ],
-  "extracted_at": "2026-06-19 17:57:28",
+  "extracted_at": "2026-06-22 19:30:19",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.petrochemical.com/suppliers/bloom-energy-corporation",
+      "url": "https://seekingalpha.com/symbol/BE",
       "query": "Bloom Energy Corporation suppliers manufacturers",
-      "snippet": "Bloom Energy Corporation is a Hydrogen supplier based in San Jose, United States of America. View company profile, contact details, and related suppli"
+      "snippet": "BE Bloom Energy Corporation . Stock Price & Overview. Bloom Energy Corporation designs, manufactures , sells, and installs solid oxide fuel cell syste"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ca.finance.yahoo.com/quote/BE/",
+      "url": "https://www.linkedin.com/company/bloom-energy",
       "query": "Bloom Energy Corporation suppliers manufacturers",
-      "snippet": "Bloom Energy Corporation OverviewElectrical Equipment & Parts / Industrials. Bloom Energy Corporation designs, manufactures , sells, and installs soli"
+      "snippet": "Bloom Energy empowers businesses and communities to responsibly take charge of their energy . The company’s leading solid-oxide platform for distribut"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.linkedin.com/company/bloom-energy",
+      "query": "Bloom Energy Corporation major customers clients",
+      "snippet": "Bloom Energy empowers businesses and communities to responsibly take charge of their energy . The company’s leading solid-oxide platform for distribut"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.stockjabber.com/company/BE/company-insights",
       "query": "Bloom Energy Corporation major customers clients",
       "snippet": "Explore Bloom Energy Corporation 's business overview, products, customer base, competitors, revenue model, specialties, and geographic presence in on"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.energyandcapital.com/bloom-energy-brings-on-big-customers/",
-      "query": "Bloom Energy Corporation major customers clients",
-      "snippet": "California-based fuel cell manufacturer Bloom Energy expands its customer base by supplying Coca-Cola and NASA with its unique solid oxide fuel cell e"
     }
   ]
 }

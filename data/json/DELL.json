@@ -11,27 +11,27 @@
     "TSM"
   ],
   "downstream": [
-    "US Department of Defense",
-    "MSFT",
-    "AMZN",
     "Walmart",
-    "Target"
+    "AMZN",
+    "MSFT",
+    "GOOGL",
+    "Facebook"
   ],
   "competitors": [
     "HPQ",
-    "Lenovo",
-    "Acer",
-    "Asus",
+    "Lenovo Group",
+    "Acer Inc.",
+    "AsusTek Computer",
     "AAPL"
   ],
   "key_products": [
-    "Personal computers",
+    "Personal Computers",
+    "Laptops",
     "Servers",
-    "Monitors",
-    "Computer software",
-    "Network security services"
+    "Storage Solutions",
+    "Monitors"
   ],
-  "extracted_at": "2026-06-19 17:56:03",
+  "extracted_at": "2026-06-22 19:30:58",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,15 +41,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.alibaba.com/",
-      "query": "Dell Technologies Inc. suppliers manufacturers",
-      "snippet": "Find quality Manufacturers , Suppliers , Exporters, Importers, Buyers, Wholesalers, Products and Trade Leads from our award-winning International Trad"
-    },
-    {
-      "source": "DuckDuckGo",
       "url": "https://www.dell.com/en-us",
       "query": "Dell Technologies Inc. suppliers manufacturers",
       "snippet": "Dell provides technology solutions, services & support. Buy Laptops, Touch Screen PCs, Desktops, Servers, Storage, Monitors, Gaming & Accessories."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://finance.yahoo.com/quote/DELL/",
+      "query": "Dell Technologies Inc. suppliers manufacturers",
+      "snippet": "Dell Technologies Inc . ( DELL ). Time to buy DELL ? Dell Technologies Inc . designs, develops, manufactures , markets, sells, and supports various co"
     },
     {
       "source": "DuckDuckGo",

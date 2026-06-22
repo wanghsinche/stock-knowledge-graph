@@ -1,37 +1,37 @@
 {
   "ticker": "WDC",
   "company_name": "Western Digital Corporation",
-  "sector": "Technology / Computer Hardware",
-  "industry": "Data Storage / Hard Disk Drive Manufacturing",
+  "sector": "Technology",
+  "industry": "Computer Hardware",
   "upstream": [
-    "MU",
     "005930.KS",
-    "SK Hynix",
-    "INTC",
-    "Toshiba Memory"
+    "MU",
+    "Toshiba",
+    "STX",
+    "SK Hynix"
   ],
   "downstream": [
-    "DELL",
-    "HPQ",
-    "Lenovo Group",
     "AAPL",
-    "MSFT"
+    "MSFT",
+    "AMZN",
+    "GOOGL",
+    "DELL"
   ],
   "competitors": [
     "STX",
-    "Toshiba",
     "005930.KS",
     "MU",
+    "Toshiba",
     "IBM"
   ],
   "key_products": [
-    "Internal Hard Disk Drives",
-    "Solid State Drives",
-    "External Portable Drives",
+    "Hard Disk Drives (HDD)",
+    "Solid State Drives (SSD)",
     "Enterprise Storage Systems",
-    "Cloud Storage Solutions"
+    "Data Storage Solutions",
+    "Cloud Storage Services"
   ],
-  "extracted_at": "2026-06-19 17:50:25",
+  "extracted_at": "2026-06-22 19:20:32",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ru.wikipedia.org/wiki/Western_Digital",
+      "url": "https://www.westerndigital.com/company/distributors",
       "query": "Western Digital Corporation suppliers manufacturers",
-      "snippet": "Western Digital Corporation .SSD Western Digital Green 120 Gb. Western Digital Corporation (NASDAQ: WDC. , по-русски «Вестерн Диджитал»[3]) — компания"
+      "snippet": "Find Distributors & Resellers Purchase from your preferred Western Digital authorized partner Region Country/Area Brand"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://octopart.com/wd2791a/al02-western+digital-29360379",
+      "url": "https://csimarket.com/stocks/WDC-Suppliers",
       "query": "Western Digital Corporation suppliers manufacturers",
-      "snippet": "Find the best pricing for Western Digital WD 2791A/AL02 by comparing bulk discounts from distributors. Octopart is the world's source for WD 2791A/AL0"
+      "snippet": "Jun 14, 2026 · For your research, we’ve provided nine additional tables on Western Digital Corporation ’ s suppliers . You can find them in the naviga"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ru.wikipedia.org/wiki/Western_Digital",
+      "url": "https://csimarket.com/stocks/WDC-Customers",
       "query": "Western Digital Corporation major customers clients",
-      "snippet": "Western Digital Corporation .SSD Western Digital Green 120 Gb. Western Digital Corporation (NASDAQ: WDC. , по-русски «Вестерн Диджитал»[3]) — компания"
+      "snippet": "1 day ago · For your research, we’ve provided 9 tables on Western Digital Corporation corporate clients . You can find them in the navigation menu und"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://weissratings.com/en/instant-news-alerts/western-digital-corporation-wdc-up-5-7-time-to-commit-before-it-s-too-late",
+      "url": "https://data.landbase.com/technology/western-digital/",
       "query": "Western Digital Corporation major customers clients",
-      "snippet": "Western Digital Corporation (WDC) is a long-established Information Technology company in the Technology Hardware and Equipment industry, focused on d"
+      "snippet": "Aug 17, 2025 · Our Western Digital customers list is available for download and comes enriched with vital company specifics, including industry classi"
     }
   ]
 }

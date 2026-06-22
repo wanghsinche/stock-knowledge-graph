@@ -3,8 +3,8 @@ ticker: MU
 company: Micron Technology, Inc.
 sector: Technology
 industry: Semiconductors
-extracted_at: 2026-06-19 17:47:24
-last_updated: 2026-06-19
+extracted_at: 2026-06-22 19:18:06
+last_updated: 2026-06-22
 ---
 
 # MU - Micron Technology, Inc.
@@ -12,13 +12,13 @@ last_updated: 2026-06-19
 ## 基本信息
 
 - **所属行业**: Technology / Semiconductors
-- **提取时间**: 2026-06-19 17:47:24
+- **提取时间**: 2026-06-22 19:18:06
 
 ## 产业链关系
 
 ### 上游供应商
-- [[AMAT]]
 - [[ASML]]
+- [[AMAT]]
 - [[LRCX]]
 - [[Tokyo Electron]]
 - [[KLA]]
@@ -27,30 +27,31 @@ last_updated: 2026-06-19
 - [[AAPL]]
 - [[DELL]]
 - [[HPQ]]
+- [[Lenovo]]
 - [[AMZN]]
-- [[GOOGL]]
 
 ### 竞争对手
 - [[005930.KS]]
 - [[SK Hynix]]
-- [[INTC]]
+- [[Kioxia]]
 - [[WDC]]
-- [[Toshiba]]
+- [[INTC]]
 
 ### 核心产品
 - [[DRAM]]
-- [[Flash memory]]
+- [[NAND Flash Memory]]
 - [[High Bandwidth Memory (HBM)]]
-- [[Solid-state drives (SSDs)]]
+- [[Solid-State Drives (SSDs)]]
+- [[Memory Modules]]
 
 ## 数据来源
 
 - [Micron Technology](https://en.wikipedia.org/wiki/Micron_Technology,_Inc.)
-- [Micron Technology, Inc. suppliers manufacturers](https://www.micron.com/)
-- [Micron Technology, Inc. suppliers manufacturers](https://www.youtube.com/channel/UCBqcI352Dc2ExKq1uSdwZvg)
-- [Micron Technology, Inc. major customers clients](https://www.micron.com/)
-- [Micron Technology, Inc. major customers clients](https://www.youtube.com/channel/UCBqcI352Dc2ExKq1uSdwZvg)
+- [Micron Technology, Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/Micron_Technology)
+- [Micron Technology, Inc. suppliers manufacturers](https://www.micron.com/about/company/suppliers)
+- [Micron Technology, Inc. major customers clients](https://www.micron.com/markets-industries/customer-and-partner-storage-success)
+- [Micron Technology, Inc. major customers clients](https://portersfiveforce.com/blogs/target-market/micron)
 
 ## 元数据
 
-- **更新日期**: 2026-06-19
+- **更新日期**: 2026-06-22

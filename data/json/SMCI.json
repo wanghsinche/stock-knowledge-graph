@@ -7,15 +7,15 @@
     "INTC",
     "AMD",
     "MU",
-    "STX",
+    "005930.KS",
     "AVGO"
   ],
   "downstream": [
-    "Enterprise data centers",
-    "Cloud service providers",
-    "AI companies",
-    "Telecom operators",
-    "Edge computing customers"
+    "AMZN",
+    "GOOGL",
+    "MSFT",
+    "IBM",
+    "Huawei"
   ],
   "competitors": [
     "DELL",
@@ -25,13 +25,13 @@
     "IBM"
   ],
   "key_products": [
-    "High-performance servers",
-    "High-efficiency servers",
+    "High‑performance servers",
+    "High‑efficiency servers",
     "Server management software",
     "Storage systems",
     "5G edge computing solutions"
   ],
-  "extracted_at": "2026-06-15 19:57:05",
+  "extracted_at": "2026-06-22 19:21:58",
   "sources": [
     {
       "source": "Wikipedia",
@@ -42,14 +42,26 @@
     {
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Supermicro",
-      "query": "Super Micro Computer, Inc. products services offerings",
+      "query": "Super Micro Computer, Inc. suppliers manufacturers",
+      "snippet": "Super Micro Computer , Inc ., doing business as Supermicro , is an American information technology company based in San Jose, California.American supp"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.supermicro.com/",
+      "query": "Super Micro Computer, Inc. suppliers manufacturers",
+      "snippet": "Supermicro Super AI Station. Supermicro 5G Edge Solutions Empowering the Deskless Workforce with Taqtile and Intel. Supermicro TECHTalk: Harness the P"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/Supermicro",
+      "query": "Super Micro Computer, Inc. major customers clients",
       "snippet": "Super Micro Computer , Inc . Supermicro Green Computing Park. Super Micro Computer , Inc ., doing business as Supermicro , is an American information "
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.supermicro.com/",
-      "query": "Super Micro Computer, Inc. products services offerings",
-      "snippet": "Supermicro 5G, IoT & Edge Computing from Edge to Cloud. Supermicro TECHTalk: Harness the Power of AI with Supermicro & NVIDIA Omniverse Enterprise. Su"
+      "query": "Super Micro Computer, Inc. major customers clients",
+      "snippet": "Supermicro Super AI Station. Supermicro 5G Edge Solutions Empowering the Deskless Workforce with Taqtile and Intel. Supermicro TECHTalk: Harness the P"
     }
   ]
 }

@@ -1,37 +1,37 @@
 {
   "ticker": "IREN",
   "company_name": "IREN Limited",
-  "sector": "Financial Services / Capital Markets",
-  "industry": "Financial Services / Capital Markets",
+  "sector": "Financial Services",
+  "industry": "Capital Markets",
   "upstream": [
     "NVDA",
-    "AMD",
+    "Renewable energy providers (wind, solar farms)",
     "DELL",
-    "HPQ",
-    "Lenovo"
+    "Cooling system manufacturers",
+    "Power infrastructure providers"
   ],
   "downstream": [
     "MSFT",
-    "AMZN",
     "GOOGL",
+    "AMZN",
     "Alibaba Cloud",
-    "ORCL"
+    "IBM"
   ],
   "competitors": [
+    "Equinix",
+    "Digital Realty",
+    "CyrusOne",
     "AMZN",
-    "MSFT",
-    "GOOGL",
-    "Alibaba Cloud",
-    "ORCL"
+    "MSFT"
   ],
   "key_products": [
-    "GPU-based AI cloud services",
-    "Data center infrastructure",
-    "Cloud computing solutions",
-    "AI workloads",
-    "High-performance computing"
+    "Renewable-powered data centers",
+    "AI Cloud services",
+    "GPU clusters",
+    "Edge computing solutions",
+    "Colocation services"
   ],
-  "extracted_at": "2026-06-17 18:17:39",
+  "extracted_at": "2026-06-22 19:33:43",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,15 +41,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.iren.com/",
+      "url": "https://www.investing.com/equities/iris-energy",
       "query": "IREN Limited suppliers manufacturers",
-      "snippet": "Whether you need immediate access to GPUs, world-class turnkey data centers for your own hardware, or a partner to design and build your AI-ready faci"
+      "snippet": "IREN Ltd stock price live, this page displays NASDAQ IREN stock exchange data. View the IREN premarket stock price ahead of the market session or asse"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/suppliers_glance.php?code=IREN",
+      "url": "https://iren.com/",
       "query": "IREN Limited suppliers manufacturers",
-      "snippet": "Iren Limited supply chain, list and performance of Iren Limiteds ' suppliers - CSIMarket"
+      "snippet": "Explore IREN 's 100% renewable-powered data centers offering AI Cloud, GPU clusters, colocation, and build-to-suit infrastructure for scalable compute"
     },
     {
       "source": "DuckDuckGo",

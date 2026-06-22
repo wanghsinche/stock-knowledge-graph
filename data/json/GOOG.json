@@ -5,16 +5,16 @@
   "industry": "Internet Content & Information",
   "upstream": [
     "TSM",
-    "INTC",
     "005930.KS",
+    "INTC",
     "QCOM",
     "NVDA"
   ],
   "downstream": [
-    "Advertisers",
-    "Android OEMs",
     "GOOGL",
+    "Android app developers",
     "YouTube content creators",
+    "GOOGL",
     "GOOGL"
   ],
   "competitors": [
@@ -22,16 +22,16 @@
     "AMZN",
     "META",
     "AAPL",
-    "Tencent"
+    "NFLX"
   ],
   "key_products": [
     "Google Search",
     "YouTube",
-    "Google Ads",
+    "Android",
     "Google Cloud Platform",
-    "Android OS"
+    "Google Ads"
   ],
-  "extracted_at": "2026-06-19 17:51:00",
+  "extracted_at": "2026-06-22 19:20:00",
   "sources": [
     {
       "source": "Wikipedia",
@@ -54,14 +54,14 @@
     {
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Alphabet_Inc.",
-      "query": "Alphabet Inc. competitors alternatives",
+      "query": "Alphabet Inc. major customers clients",
       "snippet": "Alphabet Inc . is an American multinational technology conglomerate holding company headquartered in Mountain View, California. It was created through"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://champsignal.com/competitors/abc.xyz",
-      "query": "Alphabet Inc. competitors alternatives",
-      "snippet": "Top 8 Alphabet Inc . Competitors & Alternatives in 2026. Updated on 12/21/2025. Find more companies/brands/products like Alphabet Inc .. We've shortli"
+      "url": "https://pitchgrade.com/companies/alphabet-inc-class-a",
+      "query": "Alphabet Inc. major customers clients",
+      "snippet": "The largest shareholders of Alphabet Inc . (Class A) are typically major institutional investors including The Vanguard Group, BlackRock, and State St"
     }
   ]
 }

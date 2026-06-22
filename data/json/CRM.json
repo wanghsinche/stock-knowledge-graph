@@ -6,21 +6,19 @@
   "upstream": [
     "AMZN",
     "MSFT",
-    "GOOGL",
-    "ORCL",
-    "IBM"
+    "GOOGL"
   ],
   "downstream": [
-    "American Express",
+    "AMZN",
     "Coca‑Cola",
     "Nike",
     "Toyota",
-    "Walmart"
+    "American Express"
   ],
   "competitors": [
     "MSFT",
+    "SAP SuccessFactors",
     "ORCL",
-    "SAP Sales Cloud",
     "HubSpot",
     "Zoho CRM"
   ],
@@ -31,7 +29,7 @@
     "Commerce Cloud",
     "Einstein AI"
   ],
-  "extracted_at": "2026-06-19 17:52:52",
+  "extracted_at": "2026-06-22 19:32:01",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +39,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/CRM-Suppliers",
+      "url": "https://en.wikipedia.org/wiki/Salesforce",
       "query": "Salesforce, Inc. suppliers manufacturers",
-      "snippet": "Salesforce Inc supply chain, list and performance of Salesforce Incs ' suppliers - CSIMarket."
+      "snippet": "Salesforce was founded on March 8, 1999, by former Oracle executive Marc Benioff, together with Parker Harris, Dave Moellenhoff, and Frank Dominguez a"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.salesforce.com/company/our-brands/",
+      "query": "Salesforce, Inc. suppliers manufacturers",
+      "snippet": "See our full list of Salesforce brands and find out how these companies inspire innovation to provide customer solutions."
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.salesforce.com/",
-      "query": "Salesforce, Inc. suppliers manufacturers",
-      "snippet": "ExactTarget Inc ."
+      "query": "Salesforce, Inc. major customers clients",
+      "snippet": "...The World's Favorite Customer Relationship Management - Salesforce .com."
     },
     {
       "source": "DuckDuckGo",
       "url": "https://hevodata.com/learn/salesforce-customers/",
       "query": "Salesforce, Inc. major customers clients",
-      "snippet": "This article will give you a comprehensive guide to the 8 Best Salesforce Customers . You will also get to know about Salesforce and its key features."
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://login.salesforce.com/sfc/",
-      "query": "Salesforce, Inc. major customers clients",
-      "snippet": "Go to Salesforce Trial Account Login page."
+      "snippet": "It assists businesses in tracking customers , gaining insights from data, and managing customer service and complaints. It can also be used to maintai"
     }
   ]
 }

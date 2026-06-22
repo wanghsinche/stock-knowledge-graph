@@ -1,37 +1,37 @@
 {
   "ticker": "V",
   "company_name": "Visa Inc.",
-  "sector": "Financial Services",
-  "industry": "Credit Services",
+  "sector": "Financial Services / Credit Services",
+  "industry": "Payment Services",
   "upstream": [
-    "Chip and card manufacturers (e.g., Gemalto, IDEMIA)",
-    "Payment network infrastructure providers",
-    "Security and tokenization technology vendors",
-    "Electronic funds transfer system integrators",
-    "Data center and cloud service providers"
+    "Gemalto (now part of Thales)",
+    "IDEMIA",
+    "NXP Semiconductors",
+    "Cypress Semiconductor",
+    "Microchip Technology"
   ],
   "downstream": [
-    "Commercial banks and financial institutions",
-    "Retail merchants and e‑commerce platforms",
-    "Card issuers (banks, credit unions)",
-    "Consumers using Visa‑branded cards",
-    "Payment processors and acquirers"
+    "Bank of America",
+    "Citibank",
+    "Wells Fargo",
+    "Walmart",
+    "AMZN"
   ],
   "competitors": [
     "Mastercard",
     "American Express",
-    "Discover",
+    "Discover Financial",
     "PayPal",
     "Square"
   ],
   "key_products": [
-    "Visa payment network",
     "Visa credit cards",
     "Visa debit cards",
     "Visa prepaid cards",
-    "Visa Direct and tokenization services"
+    "Visa payment network",
+    "Visa Digital Wallet"
   ],
-  "extracted_at": "2026-06-19 17:59:32",
+  "extracted_at": "2026-06-22 19:32:30",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,9 +47,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ru.wikipedia.org/wiki/Visa",
+      "url": "https://csimarket.com/stocks/V-Suppliers",
       "query": "Visa Inc. suppliers manufacturers",
-      "snippet": "Visa Inc . — американская транснациональная компания, предоставляющая услуги проведения платёжных операций. Является основой одноимённой ассоциации. С"
+      "snippet": "Visa Inc supply chain, list and performance of Visa Incs ' suppliers - CSIMarket."
     },
     {
       "source": "DuckDuckGo",

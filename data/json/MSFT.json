@@ -8,30 +8,30 @@
     "AMD",
     "NVDA",
     "QCOM",
-    "MSFT"
+    "TSM"
   ],
   "downstream": [
-    "Enterprise customers (e.g., banks, government agencies)",
+    "Individual consumers",
+    "Enterprise customers",
+    "Government agencies",
     "DELL",
-    "Consumer users of Windows and Office",
-    "Gaming studios using Xbox Live",
-    "Cloud service clients on Azure"
+    "Cloud service users (Azure)"
   ],
   "competitors": [
     "AAPL",
     "GOOGL",
     "AMZN",
-    "IBM",
-    "ORCL"
+    "ORCL",
+    "IBM"
   ],
   "key_products": [
     "Windows operating system",
     "Microsoft Office suite",
     "Azure cloud platform",
-    "Surface devices",
+    "Microsoft 365",
     "Xbox gaming console"
   ],
-  "extracted_at": "2026-06-19 17:49:24",
+  "extracted_at": "2026-06-22 19:19:30",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Microsoft",
+      "url": "https://download.microsoft.com/download/F/3/8/F38AF681-EB3A-4645-A9C4-D4F31B8BA8F2/Microsoft+Top+100+Production+Suppliers.pdf",
       "query": "Microsoft Corporation suppliers manufacturers",
-      "snippet": "Microsoft Corporation is an American multinational technology company headquartered in Redmond, Washington."
+      "snippet": "The official Microsoft Download Center. Featuring the latest software updates and drivers for Windows, Office, Xbox and more. Operating systems includ"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/suppliers_glance.php?code=MSFT",
+      "url": "https://www.microsoft.com/en-us/professionalservices/suppliers",
       "query": "Microsoft Corporation suppliers manufacturers",
-      "snippet": "News about Microsoft Corporation Contracts. Microsoft 's Comment on Supply Chain. We develop most of our products and services internally through four"
+      "snippet": "When customers engage with Microsoft for Professional Services, including enterprise services, consulting, and support solutions, Microsoft may hire a"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Microsoft",
+      "url": "https://csimarket.com/stocks/MSFT-Customers",
       "query": "Microsoft Corporation major customers clients",
-      "snippet": "Microsoft Corporation is an American multinational technology company headquartered in Redmond, Washington."
+      "snippet": "4 days ago · Individual consumers obtain these products primarily through retail outlets, such as Wal-Mart, Dixons, and Microsoft retail stores. We di"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://businessaccount.microsoft.com/",
+      "url": "https://www.appsruntheworld.com/customers-database/vendors/view/microsoft",
       "query": "Microsoft Corporation major customers clients",
-      "snippet": "Business Center. Sign In. For customers ."
+      "snippet": "Which Microsoft products have the most recorded customers ? The most widely adopted products are Microsoft 365, Microsoft Azure Cloud Services, Micros"
     }
   ]
 }

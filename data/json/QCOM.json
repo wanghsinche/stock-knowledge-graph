@@ -6,32 +6,32 @@
   "upstream": [
     "TSM",
     "005930.KS",
-    "ASML",
-    "AMAT",
-    "ARM Holdings"
+    "GlobalFoundries",
+    "UMC",
+    "SMIC"
   ],
   "downstream": [
     "AAPL",
     "005930.KS",
-    "Huawei Technologies",
-    "Xiaomi Corp.",
-    "Ericsson AB"
+    "Huawei",
+    "Xiaomi",
+    "Oppo"
   ],
   "competitors": [
-    "MediaTek Inc.",
-    "AVGO",
+    "MediaTek",
+    "005930.KS",
     "INTC",
-    "NVDA",
-    "AAPL"
+    "AVGO",
+    "NVDA"
   ],
   "key_products": [
     "Snapdragon mobile processors",
-    "5G modem SoCs",
-    "AI inference chips",
-    "RF front‑end modules",
-    "Modem firmware"
+    "Snapdragon AI chips",
+    "Snapdragon 5G modems",
+    "Snapdragon Wi‑Fi chips",
+    "RF front‑end modules"
   ],
-  "extracted_at": "2026-06-19 17:51:14",
+  "extracted_at": "2026-06-22 19:27:57",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://qualcomm.com/",
+      "url": "https://csimarket.com/stocks/QCOM-Suppliers",
       "query": "QUALCOMM Incorporated suppliers manufacturers",
-      "snippet": "Director of product management, Qualcomm Technologies, Inc ."
+      "snippet": "Jun 14, 2026 · Qualcomm Inc supply chain, list and performance of Qualcomm Incs ' suppliers - CSIMarket"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.accio.com/supplier/qualcomm-manufacturer",
+      "query": "QUALCOMM Incorporated suppliers manufacturers",
+      "snippet": "6 days ago · Need Qualcomm components? Discover verified manufacturers offering chips, wireless modules, and IoT solutions. Click to connect with supp"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://techgolly.com/news/qualcomm-agentic-ai-push-unifies-custom-silicon-strategy-beyond-smartphones",
+      "query": "QUALCOMM Incorporated major customers clients",
+      "snippet": "Qualcomm Incorporated continues to redefine the future of intelligent computing platforms. [TechGolly]. Key Points: Qualcomm is transforming its busin"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://finance.yahoo.com/quote/QCOM/",
-      "query": "QUALCOMM Incorporated suppliers manufacturers",
+      "query": "QUALCOMM Incorporated major customers clients",
       "snippet": "Find the latest QUALCOMM Incorporated (QCOM) stock quote, history, news and other vital information to help you with your stock trading and investing."
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://uk.finance.yahoo.com/news/apple-house-modem-chips-threaten-132313888.html",
-      "query": "QUALCOMM Incorporated major customers clients",
-      "snippet": "\" QUALCOMM Incorporated (NASDAQ:QCOM) (Information Technology, Semiconductors) is held due to its best-in-class Corporate Resilience score, scoring hi"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.qualcomm.com/",
-      "query": "QUALCOMM Incorporated major customers clients",
-      "snippet": "Learn how Qualcomm transforms industries with leading edge AI, high-performance, low-power computing and unrivaled connectivity."
     }
   ]
 }

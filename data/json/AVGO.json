@@ -4,34 +4,34 @@
   "sector": "Technology",
   "industry": "Semiconductors",
   "upstream": [
-    "Silicon wafer suppliers",
-    "Packaging and assembly suppliers",
-    "AMAT",
     "TSM",
-    "Component suppliers (analog ICs, memory)"
+    "005930.KS",
+    "GlobalFoundries",
+    "INTC",
+    "MU"
   ],
   "downstream": [
-    "MSFT",
+    "DELL",
     "CSCO",
-    "ORCL",
-    "Broadband equipment vendors (ARRIS, Nokia)",
-    "Industrial automation companies"
+    "AMZN",
+    "MSFT",
+    "GOOGL"
   ],
   "competitors": [
     "QCOM",
     "INTC",
     "NVDA",
-    "MRVL",
-    "TXN"
+    "TXN",
+    "MediaTek"
   ],
   "key_products": [
-    "Networking ASICs (Ethernet, InfiniBand)",
-    "Wi‑Fi and RF chips",
-    "Broadband modems and cable chips",
-    "Storage and virtualization software",
-    "Enterprise security solutions"
+    "Wi‑Fi and Bluetooth chips",
+    "Ethernet controllers",
+    "5G modem chips",
+    "Broadband and cable modems",
+    "Enterprise software solutions"
   ],
-  "extracted_at": "2026-06-19 17:49:40",
+  "extracted_at": "2026-06-22 19:20:44",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,15 +41,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/AVGO-Suppliers",
+      "url": "https://en.wikipedia.org/wiki/BCM",
       "query": "Broadcom Inc. suppliers manufacturers",
-      "snippet": "Broadcom Inc supply chain, list and performance of Broadcom Incs ' suppliers - CSIMarket."
+      "snippet": "Broadcom Inc ., designer, developer and global supplier of semiconductor products. Broadcom Corporation, subsidiary of Broadcom Inc ."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.globalspec.com/supplier/profile/Broadcom",
+      "url": "https://csimarket.com/stocks/AVGO-Suppliers",
       "query": "Broadcom Inc. suppliers manufacturers",
-      "snippet": "Broadcom Inc . business profile on GlobalSpec. Read about Broadcom Inc ., browse product catalogs and product areas.Business Type: Manufacturer . Supp"
+      "snippet": "Broadcom Inc supply chain, list and performance of Broadcom Incs ' suppliers - CSIMarket."
     },
     {
       "source": "DuckDuckGo",

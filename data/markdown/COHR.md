@@ -3,8 +3,8 @@ ticker: COHR
 company: Coherent Corp.
 sector: Technology
 industry: Scientific & Technical Instruments
-extracted_at: 2026-06-16 19:40:44
-last_updated: 2026-06-16
+extracted_at: 2026-06-22 19:26:32
+last_updated: 2026-06-22
 ---
 
 # COHR - Coherent Corp.
@@ -12,46 +12,46 @@ last_updated: 2026-06-16
 ## 基本信息
 
 - **所属行业**: Technology / Scientific & Technical Instruments
-- **提取时间**: 2026-06-16 19:40:44
+- **提取时间**: 2026-06-22 19:26:32
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Corning Inc.]]
-- [[Schott AG]]
-- [[Edmund Optics]]
-- [[Thorlabs]]
-- [[Nikon Corporation]]
+- [[Silicon photonics manufacturers]]
+- [[VCSEL array suppliers]]
+- [[Lens manufacturers]]
+- [[Optical filter producers]]
+- [[Isolator component suppliers]]
 
 ### 下游客户
-- [[Boeing]]
-- [[Lockheed Martin]]
-- [[NASA]]
-- [[Medtronic]]
-- [[INTC]]
+- [[Laser system integrators]]
+- [[CAT]]
+- [[CAT]]
+- [[Defense and aerospace contractors]]
+- [[Medical imaging device manufacturers]]
 
 ### 竞争对手
-- [[Thorlabs]]
-- [[Newport Corporation]]
-- [[Edmund Optics]]
-- [[Lumentum Holdings]]
 - [[II-VI Incorporated]]
+- [[Lumentum Holdings]]
+- [[Trumpf GmbH + Co. KG]]
+- [[Coherent, Inc. (pre‑acquisition)]]
+- [[Thorlabs, Inc.]]
 
 ### 核心产品
-- [[Laser diodes]]
-- [[Fiber lasers]]
-- [[Solid‑state lasers]]
-- [[Optical amplifiers]]
-- [[Photonic components]]
+- [[Optical materials (e.g., laser gain media)]]
+- [[Semiconductor laser diodes]]
+- [[VCSELs (Vertical‑Cavity Surface‑Emitting Lasers)]]
+- [[Photonic integrated circuits]]
+- [[Optical components (lenses, filters, couplers, isolators)]]
 
 ## 数据来源
 
 - [Coherent Corp.](https://en.wikipedia.org/wiki/Coherent_Corp.)
-- [Coherent Corp. suppliers manufacturers](https://en.wikipedia.org/wiki/Coherent_Corp.)
 - [Coherent Corp. suppliers manufacturers](https://www.coherent.com/)
+- [Coherent Corp. suppliers manufacturers](https://www.coherent.com/legal/list-of-the-subsidiaries)
 - [Coherent Corp. major customers clients](https://en.wikipedia.org/wiki/Coherent_Corp.)
 - [Coherent Corp. major customers clients](https://csimarket.com/stocks/COHR-Customers)
 
 ## 元数据
 
-- **更新日期**: 2026-06-16
+- **更新日期**: 2026-06-22

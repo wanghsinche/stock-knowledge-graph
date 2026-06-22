@@ -1,37 +1,37 @@
 {
   "ticker": "SPCX",
-  "company_name": "Space Exploration Technologies Corp.",
+  "company_name": "Space Exploration Technologies Corporation",
   "sector": "Industrials",
   "industry": "Aerospace & Defense",
   "upstream": [
-    "Linde (LOX and propellant supply)",
-    "Hexcel (composite materials)",
-    "Honeywell (avionics and guidance systems)",
-    "Aerojet Rocketdyne (engine components)",
-    "Pratt & Whitney (propulsion systems)"
+    "Aerojet Rocketdyne",
+    "Honeywell Aerospace",
+    "Lockheed Martin",
+    "Northrop Grumman",
+    "SpaceX's own manufacturing facilities"
   ],
   "downstream": [
     "NASA",
-    "U.S. Department of Defense",
-    "SpaceX Starlink (satellite internet customers)",
+    "United States Department of Defense",
     "INTC",
-    "European Space Agency (ESA) launch contracts"
+    "SES",
+    "Telesat"
   ],
   "competitors": [
     "Blue Origin",
-    "United Launch Alliance (ULA)",
+    "United Launch Alliance",
     "Rocket Lab",
     "Arianespace",
-    "AMZN"
+    "Virgin Galactic"
   ],
   "key_products": [
-    "Falcon 9 launch vehicle",
-    "Falcon Heavy launch vehicle",
-    "Starship launch vehicle",
-    "Starlink satellite constellation",
-    "Dragon 2 spacecraft"
+    "Falcon 9",
+    "Falcon Heavy",
+    "Starship",
+    "Dragon spacecraft",
+    "Starlink satellites"
   ],
-  "extracted_at": "2026-06-19 17:47:54",
+  "extracted_at": "2026-06-22 19:18:20",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,15 +41,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ru.wikipedia.org/wiki/SpaceX",
+      "url": "https://en.wikipedia.org/wiki/SpaceX",
       "query": "Space Exploration Technologies Corp. suppliers manufacturers",
-      "snippet": "Space Exploration Technologies Corporation , SpaceX (дословно — «Корпорация технологий освоения космоса», «Спейс-Экс») — американская аэрокосмическая "
+      "snippet": "2 hours ago - Much of the company's engineering, manufacturing, and mission operations remain based at its facility in Hawthorne, California, its head"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.volza.com/company-profile/space-exploration-technologies-corp-3332635/import/suppliers/",
+      "url": "https://www.spacex.com/",
       "query": "Space Exploration Technologies Corp. suppliers manufacturers",
-      "snippet": "Space Exploration Technologies Corp - Supplier Directory: 253 Verified Vendors. Get a complete 360° view of global trade activities, including imports"
+      "snippet": "SpaceX designs, manufactures and launches advanced rockets and spacecraft. The company was founded in 2002 to revolutionize space technology, with the"
     },
     {
       "source": "DuckDuckGo",
@@ -59,9 +59,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ru.wikipedia.org/wiki/SpaceX",
+      "url": "https://finance.yahoo.com/quote/SPCX/",
       "query": "Space Exploration Technologies Corp. major customers clients",
-      "snippet": "Space Exploration Technologies Corporation , SpaceX (дословно — «Корпорация технологий освоения космоса», «Спейс-Экс») — американская аэрокосмическая "
+      "snippet": "Find the latest Space Exploration Technologies Corp . (SPCX) stock quote, history, news and other vital information to help you with your stock tradin"
     }
   ]
 }

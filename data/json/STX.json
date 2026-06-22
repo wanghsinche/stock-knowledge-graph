@@ -1,31 +1,37 @@
 {
   "ticker": "STX",
   "company_name": "Seagate Technology Holdings plc",
-  "sector": "Technology",
-  "industry": "Computer Hardware",
-  "upstream": [],
+  "sector": "Technology / Computer Hardware",
+  "industry": "Hard Disk Drive Manufacturing / Storage Solutions",
+  "upstream": [
+    "Suppliers of magnetic media (platter materials)",
+    "Electronics component suppliers (capacitors, resistors)",
+    "Precision engineering suppliers (spindle motors)",
+    "Software and firmware providers",
+    "Raw material suppliers (silicon wafers, aluminum)"
+  ],
   "downstream": [
     "DELL",
-    "HPQ",
-    "Lenovo",
+    "DELL",
     "MSFT",
-    "AMZN"
+    "DELL",
+    "AAPL"
   ],
   "competitors": [
     "WDC",
-    "Toshiba",
+    "Toshiba (Kioxia)",
     "005930.KS",
-    "IBM",
-    "MU"
+    "MU",
+    "STX"
   ],
   "key_products": [
-    "Hard Disk Drives (HDDs)",
+    "Internal HDDs (3.5\" and 2.5\")",
+    "External HDDs",
+    "Enterprise HDDs (RAID, NAS)",
     "Solid State Drives (SSDs)",
-    "Enterprise storage solutions",
-    "Data center storage",
-    "External storage devices"
+    "Data center storage solutions"
   ],
-  "extracted_at": "2026-06-19 17:52:21",
+  "extracted_at": "2026-06-22 19:21:48",
   "sources": [
     {
       "source": "Wikipedia",
@@ -35,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.seagate.com/",
+      "url": "https://en.wikipedia.org/wiki/Seagate_Technology",
       "query": "Seagate Technology Holdings plc suppliers manufacturers",
-      "snippet": "Seagate Technology Holdings PLC ."
+      "snippet": "In 1989, Seagate acquired Control Data Corporation 's Imprimis division, the makers of CDC's HDD products. Seagate acquired Conner Peripherals in 1996"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/STX-Management-Effectiveness-Comparisons.html",
+      "url": "https://csimarket.com/stocks/STX-Suppliers",
       "query": "Seagate Technology Holdings plc suppliers manufacturers",
-      "snippet": "Seagate Technology Holdings Plc 's current Return on Assets, Investment, Equity ROE, ROI and ROA comparisons to Computer Hardware Industry and Technol"
+      "snippet": "5 days ago · Sources: Seagate Technology Holdings Plc 's official press releases and regulatory filings; CSIMarket.com's supply -chain research; and t"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://iask.ai/q/Seagate-Technology-largest-clients-list-2hls4io",
+      "url": "https://en.wikipedia.org/wiki/Seagate_Technology",
       "query": "Seagate Technology Holdings plc major customers clients",
-      "snippet": "According to one source, Dell Inc. accounted for approximately 13% of Seagate Technology Holdings Plc 's consolidated revenue, while Hewlett-Packard C"
+      "snippet": "Seagate Technology Holdings plc is an American data storage company. It was incorporated in 1978 as Shugart Technology and commenced business in 1979."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.marketresearch.com/GlobalData-v3648/Seagate-Technology-Holdings-PLC-STX-38282410/",
+      "url": "https://sg.finance.yahoo.com/quote/STX/?ltr=1",
       "query": "Seagate Technology Holdings plc major customers clients",
-      "snippet": "Seagate Technology Holdings PLC ( Seagate ) manufactures electronic storage devices. The company designs and markets solid state drives (SSD), solid s"
+      "snippet": "Find the latest Seagate Technology Holdings plc (STX) stock quote, history, news and other vital information to help you with your stock trading and i"
     }
   ]
 }

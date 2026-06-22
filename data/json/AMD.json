@@ -8,30 +8,30 @@
     "005930.KS",
     "GlobalFoundries",
     "UMC",
-    "MU"
+    "SK Hynix"
   ],
   "downstream": [
-    "SONY",
-    "MSFT",
-    "HPQ",
     "DELL",
-    "AMZN"
+    "HPQ",
+    "Lenovo Group",
+    "MSFT",
+    "SONY"
   ],
   "competitors": [
     "INTC",
     "NVDA",
     "QCOM",
     "AVGO",
-    "MediaTek Inc."
+    "ARM Holdings"
   ],
   "key_products": [
     "Ryzen CPUs",
-    "EPYC server CPUs",
+    "EPYC CPUs",
     "Radeon GPUs",
-    "Radeon Instinct GPUs",
-    "APU (Accelerated Processing Unit)"
+    "Radeon Instinct accelerators",
+    "AMD EPYC Data Center Processors"
   ],
-  "extracted_at": "2026-06-19 17:48:55",
+  "extracted_at": "2026-06-22 19:19:50",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/AMD",
+      "url": "https://csimarket.com/stocks/AMD-Suppliers",
       "query": "Advanced Micro Devices, Inc. suppliers manufacturers",
-      "snippet": "Advanced Micro Devices , Inc . is an American multinational semiconductor company headquartered in Santa Clara, California. It develops central proces"
+      "snippet": "Jun 14, 2026 · Advanced Micro Devices Inc supply chain, list and performance of Advanced Micro Devices Incs ' suppliers - CSIMarket"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://thepartsdirect.com/advancedmicrodevicesamd/distributors-and-vendors",
+      "query": "Advanced Micro Devices, Inc. suppliers manufacturers",
+      "snippet": "Secure competitive pricing and rapid fulfillment on over 6 billion unique part numbers, ASAP Semiconductor’s quality-assured selection including aeros"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.britannica.com/money/Advanced-Micro-Devices-Inc",
-      "query": "Advanced Micro Devices, Inc. suppliers manufacturers",
-      "snippet": "Advanced Micro Devices , Inc . ( AMD ) is an American semiconductor designer and global supplier of computing and graphics technologies used in data c"
+      "query": "Advanced Micro Devices, Inc. major customers clients",
+      "snippet": "Advanced Micro Devices , Inc . ( AMD ) is an American semiconductor designer and global supplier of computing...In 1991, AMD released the Am386 microp"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/AMD",
+      "url": "https://ir.amd.com/",
       "query": "Advanced Micro Devices, Inc. major customers clients",
-      "snippet": "AMD serves a wide range of business and consumer markets, including personal computers (PCs), gaming, data centers, and embedded systems. History · Fo"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.sec.gov/Archives/edgar/data/2488/000000248817000043/amd-12312016x10k.htm",
-      "query": "Advanced Micro Devices, Inc. major customers clients",
-      "snippet": "Our major customers, Sony Corporation, Microsoft Corporation and HP Inc., each accounted for more than 10% of our consolidated net revenue for the yea"
+      "snippet": "For 50 years AMD has driven innovation in high-performance computing, graphics and visualization technologies ― the building blocks for gaming, immers"
     }
   ]
 }

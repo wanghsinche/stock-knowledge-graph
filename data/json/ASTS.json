@@ -1,37 +1,37 @@
 {
   "ticker": "ASTS",
   "company_name": "AST SpaceMobile, Inc.",
-  "sector": "Technology / Communication Equipment",
-  "industry": "Satellite Communications",
+  "sector": "Technology",
+  "industry": "Communication Equipment",
   "upstream": [
     "Satellite component manufacturers",
-    "Electronics suppliers",
     "Launch service providers",
-    "Ground station equipment vendors",
-    "Software and firmware developers"
+    "Antenna manufacturers",
+    "Semiconductor suppliers",
+    "Ground station equipment vendors"
   ],
   "downstream": [
-    "Mobile network operators",
+    "Telecom operators",
     "Government agencies",
-    "Enterprise customers",
-    "Internet service providers",
-    "CAT"
+    "Enterprise broadband customers",
+    "Remote area service providers",
+    "IoT connectivity providers"
   ],
   "competitors": [
-    "SpaceX (Starlink)",
+    "SpaceX Starlink",
     "OneWeb",
-    "AMZN",
     "Telesat",
-    "Viasat"
+    "AMZN",
+    "CAT"
   ],
   "key_products": [
-    "BlueBird satellite constellation",
-    "SpaceMobile Network platform",
-    "Satellite broadband services",
-    "Ground segment solutions",
-    "Integrated satellite‑to‑mobile connectivity"
+    "SpaceMobile satellite network",
+    "SpaceMobile satellite payload",
+    "SpaceMobile ground terminal",
+    "SpaceMobile broadband service",
+    "SpaceMobile satellite communications platform"
   ],
-  "extracted_at": "2026-06-18 18:31:36",
+  "extracted_at": "2026-06-22 19:33:29",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,15 +41,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/AST_SpaceMobile",
+      "url": "https://ast-science.com/",
       "query": "AST SpaceMobile, Inc. suppliers manufacturers",
-      "snippet": "AST SpaceMobile , Inc . is a publicly traded satellite designer and manufacturer based in Midland, Texas, United States. [6][7] The company is buildin"
+      "snippet": "AST SpaceMobile is working to close that gap. Our space -based technology is designed to connect the unconnected, bringing broadband access directly t"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ast-science.com/",
+      "url": "https://www.marketbeat.com/stocks/NASDAQ/ASTS/",
       "query": "AST SpaceMobile, Inc. suppliers manufacturers",
-      "snippet": "The SpaceMobile Network Our BlueBird satellites provide full broadband directly to standard smartphones without specialized hardware or phone modifica"
+      "snippet": "AST SpaceMobile , Inc . (NASDAQ:ASTS) announced its quarterly earnings data on Monday, May, 11th. The company reported ($0.66) EPS for the quarter, mi"
     },
     {
       "source": "DuckDuckGo",
@@ -59,9 +59,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.marketbeat.com/articles/ast-spacemobile-stock-surges-17-after-analyst-upgrade/",
+      "url": "https://www.marketbeat.com/stocks/NASDAQ/ASTS/",
       "query": "AST SpaceMobile, Inc. major customers clients",
-      "snippet": "AST SpaceMobile shares skyrocketed after an analyst upgrade and the announcement of a new government contract; can the firm continue to live up to the"
+      "snippet": "AST SpaceMobile , Inc . (NASDAQ:ASTS) announced its quarterly earnings data on Monday, May, 11th. The company reported ($0.66) EPS for the quarter, mi"
     }
   ]
 }

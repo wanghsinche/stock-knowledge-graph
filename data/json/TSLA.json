@@ -1,28 +1,28 @@
 {
   "ticker": "TSLA",
   "company_name": "Tesla, Inc.",
-  "sector": "Consumer Cyclical / Auto Manufacturers",
-  "industry": "Automotive",
+  "sector": "Consumer Cyclical",
+  "industry": "Auto Manufacturers",
   "upstream": [
     "Panasonic",
     "LG Chem",
     "CAT",
-    "005930.KS",
-    "Bosch"
+    "Battery cell suppliers",
+    "Raw material providers (lithium, cobalt, nickel)"
   ],
   "downstream": [
     "Individual consumers",
-    "Fleet operators (e.g., Uber, Lyft)",
-    "Utility companies (e.g., Southern California Edison)",
+    "Commercial fleet operators",
+    "Utility companies",
     "Government agencies",
-    "Commercial fleet operators"
+    "Energy storage customers"
   ],
   "competitors": [
     "General Motors",
     "Ford",
-    "Rivian",
-    "Lucid Motors",
-    "BYD"
+    "Volkswagen",
+    "Hyundai",
+    "Nissan"
   ],
   "key_products": [
     "Model S",
@@ -31,7 +31,7 @@
     "Model Y",
     "Powerwall"
   ],
-  "extracted_at": "2026-06-19 17:49:10",
+  "extracted_at": "2026-06-22 19:18:54",
   "sources": [
     {
       "source": "Wikipedia",
@@ -55,13 +55,13 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Tesla,_Inc.",
       "query": "Tesla, Inc. major customers clients",
-      "snippet": "Tesla , Inc . is an American multinational automotive and clean energy company.The company was incorporated in July 2003 by Martin Eberhard and Marc T"
+      "snippet": "1 day ago - Tesla Energy products include solar panels (built by other companies for Tesla), the Tesla Solar Roof (a solar shingle system), and the Te"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.tesla.com/",
+      "url": "https://www.edmunds.com/about/press/tesla-expands-customer-base-to-younger-and-middle-class-buyers-in-used-car-market-reports-edmundscom.html",
       "query": "Tesla, Inc. major customers clients",
-      "snippet": "Explore limited-time offers on Tesla vehicles. Learn More. Tesla vehicle. Inventory. Find nearby vehicles available for immediate delivery."
+      "snippet": "Analysis of Pre-Owned Registration Data Shows Tesla Growing its Reach Outside California to more Mainstream Shoppers in U.S. Markets Like Florida, Was"
     }
   ]
 }
