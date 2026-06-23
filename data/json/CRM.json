@@ -6,19 +6,21 @@
   "upstream": [
     "AMZN",
     "MSFT",
-    "GOOGL"
+    "GOOGL",
+    "ORCL",
+    "IBM"
   ],
   "downstream": [
-    "AMZN",
     "Coca‑Cola",
-    "Nike",
+    "American Express",
+    "SONY",
     "Toyota",
-    "American Express"
+    "Unilever"
   ],
   "competitors": [
     "MSFT",
-    "SAP SuccessFactors",
     "ORCL",
+    "SAP Customer Experience",
     "HubSpot",
     "Zoho CRM"
   ],
@@ -27,39 +29,17 @@
     "Service Cloud",
     "Marketing Cloud",
     "Commerce Cloud",
-    "Einstein AI"
+    "Einstein AI",
+    "MuleSoft",
+    "Tableau"
   ],
-  "extracted_at": "2026-06-22 19:32:01",
+  "extracted_at": "2026-06-23 18:08:33",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Salesforce,_Inc.",
       "title": "Salesforce",
       "snippet": "Salesforce, Inc., is an American cloud-based software company headquartered in San Francisco, California. It is primarily known for its customer relationship management software and related applicatio"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Salesforce",
-      "query": "Salesforce, Inc. suppliers manufacturers",
-      "snippet": "Salesforce was founded on March 8, 1999, by former Oracle executive Marc Benioff, together with Parker Harris, Dave Moellenhoff, and Frank Dominguez a"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.salesforce.com/company/our-brands/",
-      "query": "Salesforce, Inc. suppliers manufacturers",
-      "snippet": "See our full list of Salesforce brands and find out how these companies inspire innovation to provide customer solutions."
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.salesforce.com/",
-      "query": "Salesforce, Inc. major customers clients",
-      "snippet": "...The World's Favorite Customer Relationship Management - Salesforce .com."
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://hevodata.com/learn/salesforce-customers/",
-      "query": "Salesforce, Inc. major customers clients",
-      "snippet": "It assists businesses in tracking customers , gaining insights from data, and managing customer service and complaints. It can also be used to maintai"
     }
   ]
 }

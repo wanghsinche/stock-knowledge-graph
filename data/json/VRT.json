@@ -4,18 +4,18 @@
   "sector": "Industrials",
   "industry": "Electrical Equipment & Parts",
   "upstream": [
-    "Schneider Electric",
-    "Eaton",
-    "ABB",
-    "Siemens",
-    "Honeywell"
+    "Power distribution unit (PDU) manufacturers",
+    "Cooling fan and HVAC component suppliers",
+    "Electrical cable and connector suppliers",
+    "Power supply unit (PSU) manufacturers",
+    "Industrial sensor and monitoring equipment suppliers"
   ],
   "downstream": [
-    "AMZN",
+    "Data center operators (e.g., Equinix, Digital Realty)",
+    "CAT",
     "GOOGL",
-    "MSFT",
-    "Equinix",
-    "Digital Realty"
+    "Enterprise IT departments",
+    "Government and defense data centers"
   ],
   "competitors": [
     "Schneider Electric",
@@ -25,43 +25,19 @@
     "Honeywell"
   ],
   "key_products": [
-    "Power Distribution Units (PDUs)",
     "Uninterruptible Power Supplies (UPS)",
-    "Data Center Cooling Systems",
-    "Rack Enclosures",
-    "Data Center Infrastructure Management (DCIM) Software"
+    "Power Distribution Units (PDUs)",
+    "Data center cooling systems",
+    "Rack‑mount power distribution equipment",
+    "Data Center Infrastructure Management (DCIM) software"
   ],
-  "extracted_at": "2026-06-22 19:33:18",
+  "extracted_at": "2026-06-23 18:01:49",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Vertiv_Holdings_Co",
       "title": "Vertiv",
       "snippet": "Vertiv Holdings Co. is an American provider of infrastructure and services for data centers, communication networks, and commercial and industrial environments."
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://markets.financialcontent.com/stocks/article/finterra-2026-4-7-vertiv-holdings-co-vrt-the-critical-infrastructure-behind-the-ai-boom",
-      "query": "Vertiv Holdings Co suppliers manufacturers",
-      "snippet": "Power Management: Providing the electrical \"heart\" of the data center, this pillar includes Uninterruptible Power Supplies (UPS), switchgear, and busb"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://inforcapital.com/news/vertiv-acquires-bmarko-structures-to-expand-ai-infrastructure-manufacturing-capabilities/",
-      "query": "Vertiv Holdings Co suppliers manufacturers",
-      "snippet": "Vertiv Holdings Co strengthens AI infrastructure capabilities by acquiring BMarko Structures LLC, enhancing manufacturing and supply chain control for"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://portersfiveforce.com/blogs/target-market/vertiv",
-      "query": "Vertiv Holdings Co major customers clients",
-      "snippet": "How Does Vertiv Holdings Win & Keep Customers ? Vertiv Holdings Company employs a deeply technical, relationship-driven customer acquisition strategy "
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.stockjabber.com/company/VRT/company-insights",
-      "query": "Vertiv Holdings Co major customers clients",
-      "snippet": "Explore Vertiv Holdings Co 's business overview, products, customer base, competitors, revenue model, specialties, and geographic presence in one deta"
     }
   ]
 }

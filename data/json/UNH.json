@@ -4,64 +4,40 @@
   "sector": "Healthcare",
   "industry": "Healthcare Plans",
   "upstream": [
-    "Pharmaceutical manufacturers",
     "Medical device manufacturers",
-    "Health IT vendors",
-    "Pharmacy benefit managers",
-    "Laboratory services providers"
+    "Pharmaceutical companies",
+    "Health technology vendors",
+    "Data analytics providers",
+    "Hospital networks"
   ],
   "downstream": [
-    "Hospitals and health systems",
-    "Employers and corporate clients",
-    "Government health agencies",
-    "Individual policyholders",
-    "Health care providers"
+    "Employers",
+    "Individuals",
+    "Government agencies (Medicare, Medicaid)",
+    "Small and medium businesses",
+    "Large corporations"
   ],
   "competitors": [
-    "Aetna",
+    "Anthem",
+    "Aetna (CVS Health)",
     "Cigna",
     "Humana",
-    "Blue Cross Blue Shield",
-    "Kaiser Permanente"
+    "Blue Cross Blue Shield"
   ],
   "key_products": [
-    "Health insurance plans",
-    "Health care services (Optum)",
-    "Pharmacy benefit management",
-    "Health data analytics",
-    "Telehealth and digital health services"
+    "UnitedHealthcare insurance plans",
+    "Medicare Advantage plans",
+    "Medicaid plans",
+    "OptumHealth services",
+    "OptumRx pharmacy benefit management"
   ],
-  "extracted_at": "2026-06-19 18:00:02",
+  "extracted_at": "2026-06-23 18:15:18",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/UnitedHealth_Group_Incorporated",
       "title": "UnitedHealth Group",
       "snippet": "UnitedHealth Group Incorporated is an American multinational for-profit company based in Eden Prairie, Minnesota, specializing in health insurance and health care services. Selling insurance products "
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/fundamentals_glance.php?code=UNH",
-      "query": "UnitedHealth Group Incorporated suppliers manufacturers",
-      "snippet": "Fundamental Analysis on Unitedhealth Group Incorporated Key ratios, Comparisons to Accident & Health Insurance Industry, Financial Sector, S&P 500 - C"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.essay48.com/term-paper/4351-UnitedHealth-Group-Incorporated-Porter-Five-Forces",
-      "query": "UnitedHealth Group Incorporated suppliers manufacturers",
-      "snippet": "This makes the bargaining power of suppliers a stronger force within the industry. The suppliers do not provide a credible threat for forward integrat"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.bloomberg.com/profile/company/UNH19:TB",
-      "query": "UnitedHealth Group Incorporated major customers clients",
-      "snippet": "UnitedHealth Group Incorporated owns and manages organized health systems. The Company provides employers products and resources to plan and administe"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://artificall.com/analysis/companies/unitedhealth-group-incorporated/",
-      "query": "UnitedHealth Group Incorporated major customers clients",
-      "snippet": "UnitedHealth Group Incorporated ranks 1st among its 7 competitors, with a market cap 1.059 times that of the top player (itself). It is positioned wel"
     }
   ]
 }

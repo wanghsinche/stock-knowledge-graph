@@ -1,67 +1,43 @@
 {
   "ticker": "STX",
   "company_name": "Seagate Technology Holdings plc",
-  "sector": "Technology / Computer Hardware",
-  "industry": "Hard Disk Drive Manufacturing / Storage Solutions",
+  "sector": "Technology",
+  "industry": "Computer Hardware",
   "upstream": [
-    "Suppliers of magnetic media (platter materials)",
-    "Electronics component suppliers (capacitors, resistors)",
-    "Precision engineering suppliers (spindle motors)",
-    "Software and firmware providers",
-    "Raw material suppliers (silicon wafers, aluminum)"
+    "Silicon wafer suppliers",
+    "Magnetic material suppliers",
+    "Electronics component suppliers",
+    "Firmware development partners",
+    "Packaging and assembly suppliers"
   ],
   "downstream": [
     "DELL",
-    "DELL",
-    "MSFT",
-    "DELL",
-    "AAPL"
+    "HPQ",
+    "Lenovo Group",
+    "AAPL",
+    "MSFT"
   ],
   "competitors": [
     "WDC",
     "Toshiba (Kioxia)",
     "005930.KS",
     "MU",
-    "STX"
+    "IBM"
   ],
   "key_products": [
-    "Internal HDDs (3.5\" and 2.5\")",
-    "External HDDs",
-    "Enterprise HDDs (RAID, NAS)",
+    "Hard Disk Drives (HDDs)",
     "Solid State Drives (SSDs)",
-    "Data center storage solutions"
+    "Enterprise storage solutions",
+    "Cloud storage solutions",
+    "External and portable storage devices"
   ],
-  "extracted_at": "2026-06-22 19:21:48",
+  "extracted_at": "2026-06-23 17:56:05",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "",
       "title": "",
       "snippet": ""
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Seagate_Technology",
-      "query": "Seagate Technology Holdings plc suppliers manufacturers",
-      "snippet": "In 1989, Seagate acquired Control Data Corporation 's Imprimis division, the makers of CDC's HDD products. Seagate acquired Conner Peripherals in 1996"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/STX-Suppliers",
-      "query": "Seagate Technology Holdings plc suppliers manufacturers",
-      "snippet": "5 days ago · Sources: Seagate Technology Holdings Plc 's official press releases and regulatory filings; CSIMarket.com's supply -chain research; and t"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Seagate_Technology",
-      "query": "Seagate Technology Holdings plc major customers clients",
-      "snippet": "Seagate Technology Holdings plc is an American data storage company. It was incorporated in 1978 as Shugart Technology and commenced business in 1979."
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://sg.finance.yahoo.com/quote/STX/?ltr=1",
-      "query": "Seagate Technology Holdings plc major customers clients",
-      "snippet": "Find the latest Seagate Technology Holdings plc (STX) stock quote, history, news and other vital information to help you with your stock trading and i"
     }
   ]
 }

@@ -3,8 +3,8 @@ ticker: LLY
 company: Eli Lilly and Company
 sector: Healthcare
 industry: Drug Manufacturers - General
-extracted_at: 2026-06-22 19:32:55
-last_updated: 2026-06-22
+extracted_at: 2026-06-23 18:05:27
+last_updated: 2026-06-23
 ---
 
 # LLY - Eli Lilly and Company
@@ -12,28 +12,42 @@ last_updated: 2026-06-22
 ## 基本信息
 
 - **所属行业**: Healthcare / Drug Manufacturers - General
-- **提取时间**: 2026-06-22 19:32:55
+- **提取时间**: 2026-06-23 18:05:27
 
 ## 产业链关系
 
 ### 上游供应商
-_暂无数据_
+- [[Active Pharmaceutical Ingredient (API) suppliers]]
+- [[Contract Manufacturing Organizations (CMOs)]]
+- [[Chemical raw material suppliers]]
+- [[Packaging suppliers]]
+- [[Logistics and distribution partners]]
 
 ### 下游客户
-_暂无数据_
+- [[Hospitals and health systems]]
+- [[Pharmacies (retail and wholesale)]]
+- [[Government health agencies]]
+- [[Health insurers]]
+- [[International pharmaceutical distributors]]
 
 ### 竞争对手
-_暂无数据_
+- [[Pfizer]]
+- [[Johnson & Johnson]]
+- [[Merck & Co.]]
+- [[Novartis]]
+- [[AbbVie]]
 
 ### 核心产品
-_暂无数据_
+- [[Humira (adalimumab)]]
+- [[Trulicity (dulaglutide)]]
+- [[Mounjaro (tirzepatide)]]
+- [[Jardiance (empagliflozin)]]
+- [[Zynlonta (loncastuximab tesirine)]]
 
 ## 数据来源
 
 - [Eli Lilly and Company](https://en.wikipedia.org/wiki/Eli_Lilly_and_Company)
-- [Eli Lilly and Company suppliers manufacturers](https://en.wikipedia.org/wiki/Eli_Lilly_and_Company)
-- [Eli Lilly and Company suppliers manufacturers](https://www.lilly.com/suppliers)
 
 ## 元数据
 
-- **更新日期**: 2026-06-22
+- **更新日期**: 2026-06-23

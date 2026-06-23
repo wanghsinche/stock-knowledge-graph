@@ -3,29 +3,41 @@
   "company_name": "Eli Lilly and Company",
   "sector": "Healthcare",
   "industry": "Drug Manufacturers - General",
-  "upstream": [],
-  "downstream": [],
-  "competitors": [],
-  "key_products": [],
-  "extracted_at": "2026-06-22 19:32:55",
+  "upstream": [
+    "Active Pharmaceutical Ingredient (API) suppliers",
+    "Contract Manufacturing Organizations (CMOs)",
+    "Chemical raw material suppliers",
+    "Packaging suppliers",
+    "Logistics and distribution partners"
+  ],
+  "downstream": [
+    "Hospitals and health systems",
+    "Pharmacies (retail and wholesale)",
+    "Government health agencies",
+    "Health insurers",
+    "International pharmaceutical distributors"
+  ],
+  "competitors": [
+    "Pfizer",
+    "Johnson & Johnson",
+    "Merck & Co.",
+    "Novartis",
+    "AbbVie"
+  ],
+  "key_products": [
+    "Humira (adalimumab)",
+    "Trulicity (dulaglutide)",
+    "Mounjaro (tirzepatide)",
+    "Jardiance (empagliflozin)",
+    "Zynlonta (loncastuximab tesirine)"
+  ],
+  "extracted_at": "2026-06-23 18:05:27",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Eli_Lilly_and_Company",
       "title": "Eli Lilly and Company",
       "snippet": "Eli Lilly and Company, doing business as Lilly, is an American multinational pharmaceutical company headquartered in Indianapolis, Indiana, with offices in 18 countries. Its products are sold in appro"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Eli_Lilly_and_Company",
-      "query": "Eli Lilly and Company suppliers manufacturers",
-      "snippet": "Eli Lilly and Company , doing business as Lilly , is an American multinational pharmaceutical company headquartered in Indianapolis, Indiana, with off"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.lilly.com/suppliers",
-      "query": "Eli Lilly and Company suppliers manufacturers",
-      "snippet": "View supplier resources including accounts payable, invoicing, payments, new and existing supplier guidance, and the Lilly Supplier portal."
     }
   ]
 }

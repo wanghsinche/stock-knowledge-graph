@@ -1,7 +1,7 @@
 {
   "ticker": "DELL",
   "company_name": "Dell Technologies Inc.",
-  "sector": "Technology",
+  "sector": "Technology / Computer Hardware",
   "industry": "Computer Hardware",
   "upstream": [
     "INTC",
@@ -11,57 +11,33 @@
     "TSM"
   ],
   "downstream": [
-    "Walmart",
-    "AMZN",
-    "MSFT",
-    "GOOGL",
-    "Facebook"
+    "Enterprise IT customers",
+    "Government agencies",
+    "Small and medium businesses",
+    "Consumers",
+    "OEM partners"
   ],
   "competitors": [
     "HPQ",
-    "Lenovo Group",
-    "Acer Inc.",
-    "AsusTek Computer",
-    "AAPL"
+    "Lenovo Group Ltd.",
+    "AAPL",
+    "MSFT",
+    "Acer Inc."
   ],
   "key_products": [
-    "Personal Computers",
-    "Laptops",
-    "Servers",
-    "Storage Solutions",
-    "Monitors"
+    "Dell XPS laptops",
+    "Dell Latitude laptops",
+    "Dell PowerEdge servers",
+    "Dell EMC storage solutions",
+    "Dell monitors"
   ],
-  "extracted_at": "2026-06-22 19:30:58",
+  "extracted_at": "2026-06-23 18:06:43",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Dell_Technologies_Inc.",
       "title": "Dell Technologies",
       "snippet": "Dell Technologies Inc. is an American multinational technology company that has been headquartered in Round Rock, Texas, since 1994. It was formed as a result of the September 2016 merger of Dell and "
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.dell.com/en-us",
-      "query": "Dell Technologies Inc. suppliers manufacturers",
-      "snippet": "Dell provides technology solutions, services & support. Buy Laptops, Touch Screen PCs, Desktops, Servers, Storage, Monitors, Gaming & Accessories."
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/DELL/",
-      "query": "Dell Technologies Inc. suppliers manufacturers",
-      "snippet": "Dell Technologies Inc . ( DELL ). Time to buy DELL ? Dell Technologies Inc . designs, develops, manufactures , markets, sells, and supports various co"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.dell.com/en-us",
-      "query": "Dell Technologies Inc. major customers clients",
-      "snippet": "Dell provides technology solutions, services & support. Buy Laptops, Touch Screen PCs, Desktops, Servers, Storage, Monitors, Gaming & Accessories."
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/DELL/",
-      "query": "Dell Technologies Inc. major customers clients",
-      "snippet": "Find the latest Dell Technologies Inc . ( DELL ) stock quote, history, news and other vital information to help you with your stock trading and invest"
     }
   ]
 }

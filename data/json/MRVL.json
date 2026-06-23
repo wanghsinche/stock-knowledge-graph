@@ -7,15 +7,15 @@
     "TSM",
     "005930.KS",
     "GlobalFoundries",
-    "INTC",
+    "UMC",
     "SMIC"
   ],
   "downstream": [
-    "AMZN",
-    "MSFT",
-    "GOOGL",
+    "CSCO",
     "Huawei",
-    "Nokia"
+    "Nokia",
+    "005930.KS",
+    "AAPL"
   ],
   "competitors": [
     "AVGO",
@@ -25,43 +25,19 @@
     "NVDA"
   ],
   "key_products": [
-    "5G baseband processors",
-    "Wi‑Fi 6/6E chips",
     "Ethernet controllers",
-    "NVMe SSD controllers",
-    "PCIe switch chips"
+    "Wi‑Fi/Bluetooth chips",
+    "5G modems",
+    "NVMe storage controllers",
+    "Automotive SoCs"
   ],
-  "extracted_at": "2026-06-22 19:19:19",
+  "extracted_at": "2026-06-23 17:51:19",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Marvell_Technology,_Inc.",
       "title": "Marvell Technology",
       "snippet": "Marvell Technology, Inc. is an American company, headquartered in Santa Clara, California, which develops and produces semiconductors and related technology. Founded in 1995, the company had close to "
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Marvell_Technology",
-      "query": "Marvell Technology, Inc. suppliers manufacturers",
-      "snippet": "Marvell Technology , Inc . is an American company, headquartered in Santa Clara, California, which develops and produces semiconductors and related te"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.marvell.com/",
-      "query": "Marvell Technology, Inc. suppliers manufacturers",
-      "snippet": "Watch the latest. Marvell Essential Technology Videos. Marvell designs custom silicon tailored for any application and offers the industry’s most comp"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/MRVL-Customers",
-      "query": "Marvell Technology, Inc. major customers clients",
-      "snippet": "3 days ago · Our target customers are original equipment manufacturers and original design manufacturers, both of which design and manufacture end mar"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://matrixbcg.com/blogs/target-market/marvell",
-      "query": "Marvell Technology, Inc. major customers clients",
-      "snippet": "May 5, 2026 · Primary market segments include hyperscale cloud providers, telecom operators, enterprise storage customers , and automotive OEMs—aligni"
     }
   ]
 }

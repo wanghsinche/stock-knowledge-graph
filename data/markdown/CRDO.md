@@ -3,8 +3,8 @@ ticker: CRDO
 company: Credo Technology Group Holding Ltd
 sector: Technology
 industry: Semiconductors
-extracted_at: 2026-06-22 19:30:34
-last_updated: 2026-06-22
+extracted_at: 2026-06-23 18:07:21
+last_updated: 2026-06-23
 ---
 
 # CRDO - Credo Technology Group Holding Ltd
@@ -12,46 +12,42 @@ last_updated: 2026-06-22
 ## 基本信息
 
 - **所属行业**: Technology / Semiconductors
-- **提取时间**: 2026-06-22 19:30:34
+- **提取时间**: 2026-06-23 18:07:21
 
 ## 产业链关系
 
 ### 上游供应商
-- [[TSM]]
-- [[005930.KS]]
-- [[GlobalFoundries]]
-- [[INTC]]
-- [[QCOM]]
+- [[Silicon wafer suppliers]]
+- [[Photolithography equipment manufacturers]]
+- [[CAT]]
+- [[Packaging materials providers]]
+- [[Equipment for wafer processing]]
 
 ### 下游客户
-- [[NVDA]]
-- [[GOOGL]]
-- [[INTC]]
-- [[AMD]]
-- [[AMZN]]
+- [[OEMs in consumer electronics]]
+- [[Automotive electronics manufacturers]]
+- [[Industrial control system suppliers]]
+- [[LED lighting companies]]
+- [[Mobile device component integrators]]
 
 ### 竞争对手
-- [[AVGO]]
-- [[MRVL]]
-- [[INTC]]
-- [[QCOM]]
-- [[Xilinx]]
+- [[ON Semiconductor]]
+- [[TXN]]
+- [[Infineon Technologies]]
+- [[STMicroelectronics]]
+- [[NXP Semiconductors]]
 
 ### 核心产品
-- [[High‑speed interconnects]]
-- [[High‑speed serial transceivers]]
-- [[Chip‑to‑chip interconnects]]
-- [[PCIe solutions]]
-- [[CXL solutions]]
+- [[Power management ICs]]
+- [[LED driver ICs]]
+- [[DC‑DC converters]]
+- [[Power management solutions for automotive]]
+- [[Integrated power modules]]
 
 ## 数据来源
 
 - 
-- [Credo Technology Group Holding Ltd suppliers manufacturers](https://credosemi.com/)
-- [Credo Technology Group Holding Ltd suppliers manufacturers](https://mool.ai/information/credo-technology-group-holding-ltd-(crdo))
-- [Credo Technology Group Holding Ltd major customers clients](https://www.insidermonkey.com/blog/credo-technology-group-holding-ltd-crdo-a-bull-case-theory-5-1627177/)
-- [Credo Technology Group Holding Ltd major customers clients](https://www.fool.com/earnings/call-transcripts/2025/06/02/credo-tech-crdo-q4-2025-earnings-call-transcript/)
 
 ## 元数据
 
-- **更新日期**: 2026-06-22
+- **更新日期**: 2026-06-23

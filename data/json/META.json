@@ -4,64 +4,40 @@
   "sector": "Communication Services",
   "industry": "Internet Content & Information",
   "upstream": [
-    "CSCO",
-    "DELL",
-    "HPQ",
+    "NVDA",
+    "AMD",
     "INTC",
-    "NVDA"
+    "AMZN",
+    "MSFT"
   ],
   "downstream": [
-    "Advertisers",
-    "Businesses",
-    "Developers",
+    "Advertisers (brands and agencies)",
     "Content creators",
-    "Media companies"
+    "App developers",
+    "Game developers",
+    "E‑commerce merchants"
   ],
   "competitors": [
     "GOOGL",
     "AMZN",
     "AAPL",
     "MSFT",
-    "TikTok"
+    "TikTok (ByteDance)"
   ],
   "key_products": [
     "Facebook",
     "Instagram",
     "WhatsApp",
     "Messenger",
-    "Threads"
+    "Meta Ads"
   ],
-  "extracted_at": "2026-06-22 19:20:56",
+  "extracted_at": "2026-06-23 17:53:38",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Meta_Platforms,_Inc.",
       "title": "Meta Platforms",
       "snippet": "Meta Platforms, Inc. is an American multinational technology company headquartered in Menlo Park, California. Meta owns and operates several prominent social media platforms and communication services"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://investor.atmeta.com/",
-      "query": "Meta Platforms, Inc. suppliers manufacturers",
-      "snippet": "Investor Education Center. Meta for Business. Meta Ads Guide."
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.alibaba.com/",
-      "query": "Meta Platforms, Inc. suppliers manufacturers",
-      "snippet": "Find quality Manufacturers , Suppliers , Exporters, Importers, Buyers, Wholesalers, Products and Trade Leads from our award-winning International Trad"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://investor.atmeta.com/",
-      "query": "Meta Platforms, Inc. major customers clients",
-      "snippet": "Investor Education Center. Meta for Business. Meta Ads Guide."
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.marketresearch.com/MarketLine-v3883/Meta-Platforms-Company-Profile-SWOT-41413488/",
-      "query": "Meta Platforms, Inc. major customers clients",
-      "snippet": "Assess Meta Platforms , Inc . as a prospective partner, vendor or supplier.Support sales activities by understanding your customers ' businesses bette"
     }
   ]
 }

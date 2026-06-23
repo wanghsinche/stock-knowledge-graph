@@ -4,64 +4,40 @@
   "sector": "Technology",
   "industry": "Software - Application",
   "upstream": [
-    "AMZN",
     "MSFT",
+    "AMZN",
     "GOOGL",
     "ORCL",
     "IBM"
   ],
   "downstream": [
-    "Walmart",
-    "JPMorgan Chase",
-    "AT&T",
-    "Verizon",
-    "CSCO"
+    "General Electric",
+    "Bank of America",
+    "UnitedHealth Group",
+    "Airbnb",
+    "NASA"
   ],
   "competitors": [
-    "CRM",
-    "SAP",
+    "Atlassian",
     "MSFT",
-    "ORCL",
-    "Workday"
+    "IBM",
+    "CRM",
+    "BMC Software"
   ],
   "key_products": [
-    "ServiceNow Platform",
+    "Now Platform",
     "IT Service Management (ITSM)",
     "IT Operations Management (ITOM)",
-    "IT Business Management (ITBM)",
-    "Customer Service Management (CSM)"
+    "Customer Service Management (CSM)",
+    "Security Operations (SecOps)"
   ],
-  "extracted_at": "2026-06-22 19:33:06",
+  "extracted_at": "2026-06-23 18:06:06",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/ServiceNow,_Inc.",
       "title": "ServiceNow",
       "snippet": "ServiceNow, Inc. is an American software company that supplies cloud computing platforms for the creation and management of automated business workflows. The company was founded in Santa Clara, Califo"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.servicenow.com/company/supplier.html",
-      "query": "ServiceNow, Inc. suppliers manufacturers",
-      "snippet": "ServiceNow partners with capable and competitive suppliers who commit to diversity, sustainability, and best-in-class goods and services. Learn more h"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/NOW-Suppliers",
-      "query": "ServiceNow, Inc. suppliers manufacturers",
-      "snippet": "Apr 24, 2026 · Servicenow Inc supply chain, list and performance of Servicenow Incs ' suppliers - CSIMarket"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.aventionmedia.com/technology-installed-base/servicenow/",
-      "query": "ServiceNow, Inc. major customers clients",
-      "snippet": "Businesses whose solutions and services can help Cloud- Service Customers achieve any of their business requirements can make use of our List of Compa"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://data.landbase.com/technology/servicenow/",
-      "query": "ServiceNow, Inc. major customers clients",
-      "snippet": "Aug 17, 2025 · Our ServiceNow customers list is available for download and comes enriched with vital company specifics, including industry classificat"
     }
   ]
 }

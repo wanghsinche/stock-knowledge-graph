@@ -6,62 +6,38 @@
   "upstream": [
     "TSM",
     "005930.KS",
-    "MU",
     "GlobalFoundries",
-    "NVDA"
+    "UMC",
+    "ASE Group"
   ],
   "downstream": [
-    "SONY",
-    "MSFT",
     "AMZN",
     "GOOGL",
-    "TSLA"
+    "MSFT",
+    "TSLA",
+    "BMW"
   ],
   "competitors": [
     "AMD",
     "INTC",
     "QCOM",
     "AVGO",
-    "ARM Holdings"
+    "005930.KS"
   ],
   "key_products": [
-    "GeForce GPUs",
-    "Quadro GPUs",
+    "GeForce RTX GPUs",
+    "Quadro RTX GPUs",
     "Tesla GPUs",
     "Jetson SoCs",
-    "CUDA API"
+    "DGX AI systems"
   ],
-  "extracted_at": "2026-06-22 19:18:34",
+  "extracted_at": "2026-06-23 17:48:55",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/NVIDIA_Corporation",
       "title": "Nvidia",
       "snippet": "Nvidia Corporation is an American multinational technology company headquartered in Santa Clara, California. The company develops graphics processing units (GPUs), systems on chips (SoCs), and applica"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.tradingview.com/symbols/NASDAQ-NVDA/",
-      "query": "NVIDIA Corporation suppliers manufacturers",
-      "snippet": "View live NVIDIA Corporation chart to track its stock's price action. Find market predictions, NVDA financials and market news. NVIDIA Corp engages in"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.investing.com/equities/nvidia-corp",
-      "query": "NVIDIA Corporation suppliers manufacturers",
-      "snippet": "View today's NVIDIA Corporation stock price and latest NVDA news and analysis. Create real-time notifications to follow any changes in the live stock "
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.tradingview.com/symbols/NASDAQ-NVDA/",
-      "query": "NVIDIA Corporation major customers clients",
-      "snippet": "View live NVIDIA Corporation chart to track its stock's price action. Find market predictions, NVDA financials and market news."
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.investing.com/equities/nvidia-corp",
-      "query": "NVIDIA Corporation major customers clients",
-      "snippet": "View today's NVIDIA Corporation stock price and latest NVDA news and analysis. Create real-time notifications to follow any changes in the live stock "
     }
   ]
 }

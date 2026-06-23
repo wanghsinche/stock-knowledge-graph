@@ -3,8 +3,8 @@ ticker: GOOG
 company: Alphabet Inc.
 sector: Communication Services
 industry: Internet Content & Information
-extracted_at: 2026-06-22 19:20:00
-last_updated: 2026-06-22
+extracted_at: 2026-06-23 17:53:14
+last_updated: 2026-06-23
 ---
 
 # GOOG - Alphabet Inc.
@@ -12,46 +12,42 @@ last_updated: 2026-06-22
 ## 基本信息
 
 - **所属行业**: Communication Services / Internet Content & Information
-- **提取时间**: 2026-06-22 19:20:00
+- **提取时间**: 2026-06-23 17:53:14
 
 ## 产业链关系
 
 ### 上游供应商
-- [[TSM]]
-- [[005930.KS]]
 - [[INTC]]
-- [[QCOM]]
-- [[NVDA]]
+- [[005930.KS]]
+- [[005930.KS]]
+- [[CSCO]]
+- [[MSFT]]
 
 ### 下游客户
+- [[Advertisers (e.g., Coca‑Cola, Nike)]]
 - [[GOOGL]]
-- [[Android app developers]]
-- [[YouTube content creators]]
+- [[005930.KS]]
 - [[GOOGL]]
-- [[GOOGL]]
+- [[Content creators on YouTube]]
 
 ### 竞争对手
 - [[MSFT]]
 - [[AMZN]]
 - [[META]]
 - [[AAPL]]
-- [[NFLX]]
+- [[Baidu]]
 
 ### 核心产品
 - [[Google Search]]
 - [[YouTube]]
-- [[Android]]
-- [[Google Cloud Platform]]
 - [[Google Ads]]
+- [[Google Cloud Platform]]
+- [[Android OS]]
 
 ## 数据来源
 
 - [Alphabet Inc.](https://en.wikipedia.org/wiki/Alphabet_Inc.)
-- [Alphabet Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/Alphabet_Inc.)
-- [Alphabet Inc. suppliers manufacturers](https://csimarket.com/stocks/GOOG-Suppliers)
-- [Alphabet Inc. major customers clients](https://en.wikipedia.org/wiki/Alphabet_Inc.)
-- [Alphabet Inc. major customers clients](https://pitchgrade.com/companies/alphabet-inc-class-a)
 
 ## 元数据
 
-- **更新日期**: 2026-06-22
+- **更新日期**: 2026-06-23

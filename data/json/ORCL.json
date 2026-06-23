@@ -4,64 +4,40 @@
   "sector": "Technology",
   "industry": "Software - Infrastructure",
   "upstream": [
-    "DELL",
-    "HPQ",
-    "IBM",
+    "INTC",
+    "AMD",
+    "NVDA",
     "CSCO",
-    "Lenovo"
+    "DELL"
   ],
   "downstream": [
-    "Walmart",
-    "JPMorgan Chase",
     "Bank of America",
-    "AT&T",
-    "Verizon"
+    "Walmart",
+    "JP Morgan Chase",
+    "Coca‑Cola",
+    "UnitedHealth Group"
   ],
   "competitors": [
     "MSFT",
     "AMZN",
     "IBM",
     "SAP",
-    "CRM"
+    "GOOGL"
   ],
   "key_products": [
     "Oracle Database",
     "Oracle Cloud Infrastructure",
-    "Oracle ERP Cloud",
     "Oracle Autonomous Database",
-    "Oracle Analytics Cloud"
+    "Oracle ERP Cloud",
+    "Oracle Fusion Applications"
   ],
-  "extracted_at": "2026-06-22 19:27:47",
+  "extracted_at": "2026-06-23 17:56:43",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Oracle_Corporation",
       "title": "Oracle Corporation",
       "snippet": "Oracle Corporation is an American multinational technology company headquartered in Austin, Texas. Co-founded in Santa Clara, California, in 1977 by Bob Miner, Ed Oates, and current chairman of the bo"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/List_of_acquisitions_by_Oracle",
-      "query": "Oracle Corporation suppliers manufacturers",
-      "snippet": "List of acquisitions by Oracle This is a listing of Oracle Corporation 's corporate acquisitions, including acquisitions of both companies and individ"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.oracle.com/corporate/suppliers/",
-      "query": "Oracle Corporation suppliers manufacturers",
-      "snippet": "Oracle is always looking for suppliers who can meet our high quality standards and satisfy our ever-evolving business needs. We believe in the importa"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.thomsondata.com/customer-base/oracle.php",
-      "query": "Oracle Corporation major customers clients",
-      "snippet": "Thomson Data makes it easy by offering an accurate and up-to-date list of companies that use Oracle. This list allows you to identify Oracle customers"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.appsruntheworld.com/customers-database/vendors/view/oracle",
-      "query": "Oracle Corporation major customers clients",
-      "snippet": "List of companies using or evaluating Oracle applications, with details on their revenues, employees, industries, and locations. See full list on apps"
     }
   ]
 }

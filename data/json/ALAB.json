@@ -4,64 +4,40 @@
   "sector": "Technology",
   "industry": "Semiconductors",
   "upstream": [
-    "TSM",
-    "005930.KS",
-    "GlobalFoundries",
-    "INTC",
-    "UMC"
+    "Silicon wafer suppliers",
+    "Lithography equipment manufacturers",
+    "Packaging and assembly providers",
+    "Test and measurement equipment vendors",
+    "EDA tool suppliers"
   ],
   "downstream": [
     "CSCO",
-    "JNPR",
-    "ANET",
     "DELL",
-    "HPQ"
+    "HPQ",
+    "NetApp",
+    "AMZN"
   ],
   "competitors": [
     "AVGO",
     "MRVL",
     "QRVO",
-    "Lattice Semiconductor",
+    "INTC",
     "AMD"
   ],
   "key_products": [
-    "10G/25G/40G/100G Ethernet PHYs",
-    "PCIe 4.0/5.0 interconnect solutions",
-    "InfiniBand interconnects",
-    "Optical interconnect solutions",
-    "High-speed serial transceivers"
+    "High-speed interconnect chips",
+    "SerDes solutions",
+    "Silicon photonics devices",
+    "High-speed I/O IP",
+    "Data center interconnect solutions"
   ],
-  "extracted_at": "2026-06-19 17:51:59",
+  "extracted_at": "2026-06-23 18:16:31",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "",
       "title": "",
       "snippet": ""
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/suppliers_glance.php?code=ALAB",
-      "query": "Astera Labs, Inc. suppliers manufacturers",
-      "snippet": "Astera Labs Inc supply chain, list and performance of Astera Labs Incs ' suppliers - CSIMarket."
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.asteralabs.com/",
-      "query": "Astera Labs, Inc. suppliers manufacturers",
-      "snippet": "Go to the homepage of ASTERA LABS , INC .Cloud-Scale Interop Lab . Plug-and-play interoperability is critical for deploying rack-scale AI. Astera Labs"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.stockjabber.com/company/ALAB/company-insights",
-      "query": "Astera Labs, Inc. major customers clients",
-      "snippet": "Explore Astera Labs , Inc . Common Stock's business overview, products, customer base, competitors, revenue model, specialties, and geographic presenc"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.youtube.com/watch?v=vdR1VGj8AYw",
-      "query": "Astera Labs, Inc. major customers clients",
-      "snippet": "'Mad Money' host Jim Cramer does a deep dive into Astera Labs after the company recently went public and shares his outlook for the IPO."
     }
   ]
 }

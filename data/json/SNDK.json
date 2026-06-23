@@ -2,66 +2,42 @@
   "ticker": "SNDK",
   "company_name": "SanDisk Corporation",
   "sector": "Technology",
-  "industry": "Computer Hardware",
+  "industry": "Computer Hardware / Storage Solutions",
   "upstream": [
-    "Matrix Semiconductor",
-    "GIGAPC Corporation",
-    "MU",
     "005930.KS",
-    "SK Hynix"
+    "MU",
+    "SK Hynix",
+    "Kioxia (Toshiba)",
+    "INTC"
   ],
   "downstream": [
-    "AAPL",
-    "MSFT",
     "DELL",
     "HPQ",
-    "SONY"
+    "Lenovo",
+    "AAPL",
+    "005930.KS"
   ],
   "competitors": [
-    "MU",
     "005930.KS",
-    "WDC",
+    "MU",
     "Kingston Technology",
-    "MU"
+    "WDC",
+    "SK Hynix"
   ],
   "key_products": [
+    "NAND flash memory",
     "Solid State Drives (SSDs)",
-    "USB flash drives",
     "SD and microSD cards",
-    "Enterprise storage solutions",
-    "Memory modules"
+    "USB flash drives",
+    "External SSDs"
   ],
-  "extracted_at": "2026-06-22 19:18:44",
+  "extracted_at": "2026-06-23 17:48:20",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Sandisk_Corporation",
       "title": "Sandisk",
       "snippet": "Sandisk Corporation is an American multinational computer semiconductor company based in Milpitas, California."
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Sandisk",
-      "query": "Sandisk Corporation suppliers manufacturers",
-      "snippet": "2 days ago - In October 2005, SanDisk acquired Matrix Semiconductor. In July 2006, SanDisk acquired M-Systems. In May 2011, SanDisk acquired Pliant Te"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.sandisk.com/company/distributors",
-      "query": "Sandisk Corporation suppliers manufacturers",
-      "snippet": "GIGAPC Corporation · 430 8th Ave N. Seattle, WA 98109 · Tel: 206-624-1100 · Glazers Camera · 430 8th Ave N. Seattle, WA 98109 · Tel: 206-624-1100 · Gl"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Sandisk",
-      "query": "Sandisk Corporation major customers clients",
-      "snippet": "2 days ago - Sandisk Corporation (formerly SunDisk Corporation and SanDisk) is an American multinational computer semiconductor company based in Milpi"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/markets_glance.php?code=SNDK",
-      "query": "Sandisk Corporation major customers clients",
-      "snippet": "3 days ago - Sandisk customers and markets, results by customer and performance relative to SNDK, by company and industry - CSIMarket"
     }
   ]
 }

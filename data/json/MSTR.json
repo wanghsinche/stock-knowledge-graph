@@ -1,61 +1,43 @@
 {
   "ticker": "MSTR",
   "company_name": "Strategy Inc",
-  "sector": "Technology",
-  "industry": "Software - Application",
+  "sector": "Technology / Software - Application",
+  "industry": "Business Intelligence & Analytics",
   "upstream": [
-    "Hardware manufacturers",
-    "Cloud service providers",
-    "Software component vendors"
+    "MSFT",
+    "AMZN",
+    "GOOGL",
+    "ORCL",
+    "IBM"
   ],
   "downstream": [
-    "Enterprise customers",
-    "Financial institutions",
-    "Retail companies",
-    "Government agencies"
+    "Bank of America",
+    "JPMorgan Chase",
+    "Citigroup",
+    "Walmart",
+    "General Electric"
   ],
   "competitors": [
     "SAP SE Business Objects",
     "IBM",
-    "ORCL"
+    "ORCL",
+    "MSFT",
+    "Tableau Software"
   ],
   "key_products": [
-    "Business Intelligence (BI) software",
-    "Mobile analytics apps",
-    "Data visualization tools",
-    "Enterprise analytics platform"
+    "MicroStrategy Desktop",
+    "MicroStrategy Web",
+    "MicroStrategy Mobile",
+    "MicroStrategy Analytics",
+    "MicroStrategy Cloud"
   ],
-  "extracted_at": "2026-06-22 19:31:51",
+  "extracted_at": "2026-06-23 18:09:48",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Strategy_Inc",
       "title": "MicroStrategy",
       "snippet": "Strategy Inc., formerly known as MicroStrategy, is an American company that provides business intelligence (BI) and mobile software. Founded in 1989 by Michael J. Saylor, Sanju Bansal, and Thomas Spah"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.strategy.com/software/company/contact-us",
-      "query": "Strategy Inc suppliers manufacturers",
-      "snippet": "Reach out to Strategy ' s dedicated team for inquiries, support, and partnership opportunities. Whether you have questions about our products, need as"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.manufacturersalliance.org/",
-      "query": "Strategy Inc suppliers manufacturers",
-      "snippet": "May 20, 2026 · Explore the latest research and expert insights revealing how leading manufacturers are scaling AI successfully while keeping people, d"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/MicroStrategy",
-      "query": "Strategy Inc major customers clients",
-      "snippet": "Strategy Inc ., formerly known as MicroStrategy, is an American company that provides business intelligence and mobile software.In 1992, MicroStrategy"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/MSTR/",
-      "query": "Strategy Inc major customers clients",
-      "snippet": "Find the latest Strategy Inc (MSTR) stock quote, history, news and other vital information to help you with your stock trading and investing."
     }
   ]
 }

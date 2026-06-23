@@ -1,37 +1,37 @@
 {
   "ticker": "SPCX",
-  "company_name": "Space Exploration Technologies Corporation",
+  "company_name": "Space Exploration Technologies Corp.",
   "sector": "Industrials",
   "industry": "Aerospace & Defense",
   "upstream": [
-    "Aerojet Rocketdyne",
-    "Honeywell Aerospace",
-    "Lockheed Martin",
-    "Northrop Grumman",
-    "SpaceX's own manufacturing facilities"
+    "Rocket engine component suppliers (e.g., Merlin engine parts)",
+    "Composite material manufacturers (e.g., aerospace composites)",
+    "Avionics and electronics suppliers (e.g., Honeywell)",
+    "Satellite component suppliers (e.g., solar panels, antennas)",
+    "Launch vehicle structural component suppliers"
   ],
   "downstream": [
     "NASA",
-    "United States Department of Defense",
+    "U.S. Department of Defense",
     "INTC",
-    "SES",
-    "Telesat"
+    "Starlink residential and business customers",
+    "International space agencies (e.g., ESA, Roscosmos)"
   ],
   "competitors": [
-    "Blue Origin",
-    "United Launch Alliance",
-    "Rocket Lab",
+    "United Launch Alliance (ULA)",
     "Arianespace",
-    "Virgin Galactic"
+    "Blue Origin",
+    "Rocket Lab",
+    "Virgin Orbit"
   ],
   "key_products": [
-    "Falcon 9",
-    "Falcon Heavy",
-    "Starship",
-    "Dragon spacecraft",
-    "Starlink satellites"
+    "Falcon 9 launch vehicle",
+    "Falcon Heavy launch vehicle",
+    "Starship launch vehicle",
+    "Starlink satellite constellation",
+    "Reusable launch vehicle technology"
   ],
-  "extracted_at": "2026-06-22 19:18:20",
+  "extracted_at": "2026-06-23 17:48:04",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,25 +43,25 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/SpaceX",
       "query": "Space Exploration Technologies Corp. suppliers manufacturers",
-      "snippet": "2 hours ago - Much of the company's engineering, manufacturing, and mission operations remain based at its facility in Hawthorne, California, its head"
+      "snippet": "3 hours ago - Much of the company's engineering, manufacturing, and mission operations remain based at its facility in Hawthorne, California, its head"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.spacex.com/",
+      "url": "https://sky-brokers.com/supplier/space-exploration-technologies-corp/",
       "query": "Space Exploration Technologies Corp. suppliers manufacturers",
-      "snippet": "SpaceX designs, manufactures and launches advanced rockets and spacecraft. The company was founded in 2002 to revolutionize space technology, with the"
+      "snippet": "December 15, 2023 - In July 2021 SpaceX acquired privately owned satellite Internet of Things (IoT) company Swarm Technologies, to become a whole subs"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/SpaceX",
       "query": "Space Exploration Technologies Corp. major customers clients",
-      "snippet": "Space Exploration Technologies Corporation , doing business as SpaceX , is a private American spaceflight, telecommunications, and artificial intellig"
+      "snippet": "3 hours ago - The company is credited with advances ... launch operations compared to NASA. The company's largest customers include NASA, the United S"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/SPCX/",
+      "url": "https://www.bloomberg.com/profile/company/SPCX:US",
       "query": "Space Exploration Technologies Corp. major customers clients",
-      "snippet": "Find the latest Space Exploration Technologies Corp . (SPCX) stock quote, history, news and other vital information to help you with your stock tradin"
+      "snippet": "Space Exploration Technologies Corp., doing business as SpaceX, operates as an aerospace and space technology company. The Company designs, manufactur"
     }
   ]
 }

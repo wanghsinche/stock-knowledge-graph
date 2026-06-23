@@ -4,64 +4,40 @@
   "sector": "Communication Services",
   "industry": "Advertising Agencies",
   "upstream": [
-    "Mobile app developers",
-    "Advertising technology platforms",
-    "Data analytics providers",
-    "Cloud infrastructure vendors",
-    "Digital media agencies"
+    "AAPL",
+    "GOOGL",
+    "Data Providers (e.g., Nielsen)",
+    "Mobile OS Platforms",
+    "Ad Exchanges"
   ],
   "downstream": [
-    "Mobile app publishers",
-    "Gaming studios",
-    "E‑commerce brands",
-    "Social media platforms",
-    "Video streaming services"
+    "Mobile App Developers",
+    "Advertisers",
+    "Brands",
+    "Game Developers",
+    "Media Companies"
   ],
   "competitors": [
-    "Unity Ads",
+    "The Trade Desk",
+    "META",
     "GOOGL",
-    "Facebook Audience Network",
-    "IronSource",
-    "AdColony"
+    "Unity Ads",
+    "Vungle"
   ],
   "key_products": [
-    "Mobile advertising platform",
-    "App monetization solutions",
-    "User acquisition services",
-    "Data‑driven targeting",
-    "Analytics & reporting tools"
+    "AppLovin SDK",
+    "MAX Ad Platform",
+    "LTV Analytics",
+    "AppLovin Mobile Advertising Platform",
+    "AppLovin Data Platform"
   ],
-  "extracted_at": "2026-06-22 19:26:45",
+  "extracted_at": "2026-06-23 18:13:16",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "",
       "title": "",
       "snippet": ""
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/AppLovin",
-      "query": "AppLovin Corporation suppliers manufacturers",
-      "snippet": "On April 15, 2021, AppLovin became a public company, trading on the Nasdaq under the ticker APP; it began trading at US$70 per share, with a total val"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/APP-Suppliers",
-      "query": "AppLovin Corporation suppliers manufacturers",
-      "snippet": "For your research, we’ve provided nine additional tables on Applovin Corporation ’ s suppliers . You can find them in the navigation menu under Suppli"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/AppLovin",
-      "query": "AppLovin Corporation major customers clients",
-      "snippet": "Before emerging from stealth mode, AppLovin acquired customers , including Opentable and Spotify. [9][10] The company was ranked #10 on the 2016 Deloi"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/APP-Customers",
-      "query": "AppLovin Corporation major customers clients",
-      "snippet": "For your research, we’ve provided 9 tables on Applovin Corporation corporate clients . You can find them in the navigation menu under Customers & Mark"
     }
   ]
 }

@@ -4,63 +4,40 @@
   "sector": "Technology",
   "industry": "Software - Infrastructure",
   "upstream": [
-    "AMZN",
-    "MSFT",
-    "GOOGL",
-    "ORCL",
-    "IBM"
+    "Cloud infrastructure providers (AWS, Azure, GCP)",
+    "DELL",
+    "Open‑source software libraries (Apache, Hadoop)",
+    "Data integration tools (Informatica)",
+    "AI/ML framework providers (TensorFlow, PyTorch)"
   ],
   "downstream": [
-    "U.S. Department of Defense",
-    "INTC",
-    "Federal Bureau of Investigation",
-    "UK Ministry of Defence",
-    "Airbus"
+    "U.S. federal government agencies (FBI, CIA, DoD)",
+    "Financial services firms (Goldman Sachs, JPMorgan)",
+    "Healthcare organizations (Mayo Clinic, Kaiser Permanente)",
+    "Energy sector companies (ExxonMobil, Shell)",
+    "AMZN"
   ],
   "competitors": [
     "Snowflake",
     "Databricks",
     "Splunk",
-    "IBM",
-    "MSFT"
+    "MSFT",
+    "Tableau"
   ],
   "key_products": [
     "Palantir Foundry",
     "Palantir Gotham",
     "Palantir Apollo",
-    "Palantir Helix"
+    "Palantir Helios",
+    "Palantir Platform APIs"
   ],
-  "extracted_at": "2026-06-22 19:21:08",
+  "extracted_at": "2026-06-23 17:55:41",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Palantir_Technologies_Inc.",
       "title": "Palantir",
       "snippet": "Palantir Technologies Inc. is an American publicly traded company that develops data integration and analytics software. Palantir is headquartered in Miami, Florida, and was founded in 2003 by Peter T"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Palantir",
-      "query": "Palantir Technologies Inc. suppliers manufacturers",
-      "snippet": "Palantir 's customer base includes federal agencies, state and local governments, international organizations, and also private companies. [11] The co"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/PLTR-Suppliers",
-      "query": "Palantir Technologies Inc. suppliers manufacturers",
-      "snippet": "Jun 14, 2026 · For your research, we’ve provided nine additional tables on Palantir Technologies Inc ’ s suppliers . You can find them in the navigati"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.designgurus.io/answers/detail/who-are-the-main-customers-of-palantir",
-      "query": "Palantir Technologies Inc. major customers clients",
-      "snippet": "Who are the main customers of Palantir? Palantir Technologies serves a diverse clientele across government and commercial sectors, providing data anal"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://data.landbase.com/technology/palantir/",
-      "query": "Palantir Technologies Inc. major customers clients",
-      "snippet": "Aug 17, 2025 · Our Palantir customers list is available for download and comes enriched with vital company specifics, including industry classificatio"
     }
   ]
 }
