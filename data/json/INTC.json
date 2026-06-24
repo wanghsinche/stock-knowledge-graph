@@ -4,40 +4,64 @@
   "sector": "Technology",
   "industry": "Semiconductors",
   "upstream": [
-    "ASML",
     "AMAT",
-    "Silicon wafer suppliers",
-    "Chemical suppliers (photoresists)",
-    "Advanced packaging suppliers"
+    "ASML",
+    "LRCX",
+    "Tokyo Electron",
+    "KLA"
   ],
   "downstream": [
     "DELL",
     "HPQ",
     "Lenovo Group",
-    "MSFT",
-    "AMZN"
+    "AAPL",
+    "MSFT"
   ],
   "competitors": [
     "AMD",
     "NVDA",
-    "AVGO",
     "QCOM",
-    "005930.KS"
+    "AVGO",
+    "TXN"
   ],
   "key_products": [
-    "Intel Core CPUs",
-    "Intel Xeon CPUs",
-    "Intel chipsets",
+    "Intel Core processors",
+    "Intel Xeon processors",
     "Intel Optane memory",
-    "Intel AI accelerators"
+    "Intel Ethernet controllers",
+    "Intel Xe GPU"
   ],
-  "extracted_at": "2026-06-23 17:49:29",
+  "extracted_at": "2026-06-24 17:47:38",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Intel_Corporation",
       "title": "Intel",
       "snippet": "Intel Corporation is an American multinational technology company headquartered in Santa Clara, California. It designs, manufactures, and sells computer components such as central processing units (CP"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.accio.com/supplier/manufacturer-intel-corporation",
+      "query": "Intel Corporation suppliers manufacturers",
+      "snippet": "Jun 10, 2026 · Where to find manufacturer intel corporation supplier ? Intel Corporation relies on a global network of suppliers across key semiconduc"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.intel.com/content/www/us/en/partner/showcase/partner-directory/distributor.html",
+      "query": "Intel Corporation suppliers manufacturers",
+      "snippet": "Distributor Partner Directory Sell Intel ® Products directly sourced from Intel as well as devices manufactured by OEMs Return to Intel ® Partner Show"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/INTC-Customers",
+      "query": "Intel Corporation major customers clients",
+      "snippet": "5 days ago · Intel customers and markets, results by customer and performance relative to INTC, by company and industry - CSIMarket"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.intel.com/content/www/us/en/customer-spotlight/overview.html",
+      "query": "Intel Corporation major customers clients",
+      "snippet": "Jul 20, 2025 · Explore the Intel Customer Spotlight for the latest customer stories, case studies, and testimonials highlighting data-centric innovati"
     }
   ]
 }

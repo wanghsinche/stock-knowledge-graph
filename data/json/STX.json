@@ -4,40 +4,64 @@
   "sector": "Technology",
   "industry": "Computer Hardware",
   "upstream": [
-    "Silicon wafer suppliers",
-    "Magnetic material suppliers",
-    "Electronics component suppliers",
-    "Firmware development partners",
-    "Packaging and assembly suppliers"
+    "MU",
+    "005930.KS",
+    "SK Hynix",
+    "WDC",
+    "Toshiba"
   ],
   "downstream": [
     "DELL",
     "HPQ",
-    "Lenovo Group",
-    "AAPL",
+    "Lenovo",
+    "AMZN",
     "MSFT"
   ],
   "competitors": [
     "WDC",
-    "Toshiba (Kioxia)",
+    "Toshiba",
     "005930.KS",
     "MU",
-    "IBM"
+    "LG Electronics"
   ],
   "key_products": [
-    "Hard Disk Drives (HDDs)",
-    "Solid State Drives (SSDs)",
-    "Enterprise storage solutions",
-    "Cloud storage solutions",
-    "External and portable storage devices"
+    "Hard Disk Drives",
+    "Solid State Drives",
+    "Enterprise Storage Solutions",
+    "Cloud Storage",
+    "External Hard Drives"
   ],
-  "extracted_at": "2026-06-23 17:56:05",
+  "extracted_at": "2026-06-24 17:52:13",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "",
       "title": "",
       "snippet": ""
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/STX-Suppliers",
+      "query": "Seagate Technology Holdings plc suppliers manufacturers",
+      "snippet": "2 days ago · Sources: Seagate Technology Holdings Plc 's official press releases and regulatory filings; CSIMarket.com's supply -chain research; and t"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://investors.seagate.com/overview/default.aspx",
+      "query": "Seagate Technology Holdings plc suppliers manufacturers",
+      "snippet": "17 hours ago · Register, access, and manage Lyve Mobile services, subscriptions and projects. Provides Suppliers with self-service tools targeted to t"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/STX-Business-Description.html",
+      "query": "Seagate Technology Holdings plc major customers clients",
+      "snippet": "Seagate Technology Holdings Plc ' explanation of operations and nature of the Business - CSIMarket."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.seagate.com/",
+      "query": "Seagate Technology Holdings plc major customers clients",
+      "snippet": "Seagate Technology Holdings PLC ."
     }
   ]
 }

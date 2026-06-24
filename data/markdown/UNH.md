@@ -2,52 +2,56 @@
 ticker: UNH
 company: UnitedHealth Group Incorporated
 sector: Healthcare
-industry: Healthcare Plans
-extracted_at: 2026-06-23 18:15:18
-last_updated: 2026-06-23
+industry: Health Insurance / Health Care Services
+extracted_at: 2026-06-24 17:56:31
+last_updated: 2026-06-24
 ---
 
 # UNH - UnitedHealth Group Incorporated
 
 ## 基本信息
 
-- **所属行业**: Healthcare / Healthcare Plans
-- **提取时间**: 2026-06-23 18:15:18
+- **所属行业**: Healthcare / Health Insurance / Health Care Services
+- **提取时间**: 2026-06-24 17:56:31
 
 ## 产业链关系
 
 ### 上游供应商
 - [[Medical device manufacturers]]
-- [[Pharmaceutical companies]]
-- [[Health technology vendors]]
-- [[Data analytics providers]]
-- [[Hospital networks]]
+- [[Pharmaceutical suppliers]]
+- [[Health information technology vendors]]
+- [[Pharmacy benefit managers]]
+- [[Telehealth platform providers]]
 
 ### 下游客户
-- [[Employers]]
-- [[Individuals]]
+- [[Large corporate employers]]
 - [[Government agencies (Medicare, Medicaid)]]
-- [[Small and medium businesses]]
-- [[Large corporations]]
+- [[Individual consumers]]
+- [[Health care providers (hospitals, clinics)]]
+- [[Health plans of other insurers]]
 
 ### 竞争对手
-- [[Anthem]]
+- [[Anthem, Inc.]]
 - [[Aetna (CVS Health)]]
-- [[Cigna]]
-- [[Humana]]
-- [[Blue Cross Blue Shield]]
+- [[Cigna Corporation]]
+- [[Humana Inc.]]
+- [[Kaiser Permanente]]
 
 ### 核心产品
-- [[UnitedHealthcare insurance plans]]
+- [[Commercial health insurance plans]]
 - [[Medicare Advantage plans]]
-- [[Medicaid plans]]
-- [[OptumHealth services]]
-- [[OptumRx pharmacy benefit management]]
+- [[Medicaid managed care]]
+- [[Optum health services (pharmacy, data analytics, care delivery)]]
+- [[UnitedHealthcare employer group plans]]
 
 ## 数据来源
 
 - [UnitedHealth Group](https://en.wikipedia.org/wiki/UnitedHealth_Group_Incorporated)
+- [UnitedHealth Group Incorporated suppliers manufacturers](https://www.unitedhealthgroup.com/suppliers/information.html)
+- [UnitedHealth Group Incorporated suppliers manufacturers](https://www.unitedhealthgroup.com/suppliers/information/vendor-portal.html)
+- [UnitedHealth Group Incorporated major customers clients](https://en.wikipedia.org/wiki/UnitedHealth_Group)
+- [UnitedHealth Group Incorporated major customers clients](https://www.unitedhealthgroup.com/uhg/businesses.html)
 
 ## 元数据
 
-- **更新日期**: 2026-06-23
+- **更新日期**: 2026-06-24

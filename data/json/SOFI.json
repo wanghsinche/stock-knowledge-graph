@@ -4,34 +4,34 @@
   "sector": "Financial Services",
   "industry": "Credit Services",
   "upstream": [
-    "AMZN",
-    "Stripe (payment processing)",
-    "Plaid (financial data aggregation)",
-    "MSFT",
-    "Fidelity Investments (investment platform integration)"
+    "Payment processors (e.g., Stripe, PayPal)",
+    "Credit bureaus (Experian, Equifax, TransUnion)",
+    "Data analytics providers (e.g., FICO)",
+    "Regulatory bodies (FINRA, SEC)",
+    "Technology infrastructure (AWS, Azure)"
   ],
   "downstream": [
-    "Individual consumers seeking personal loans",
-    "Students refinancing loans",
-    "Small business owners borrowing for working capital",
-    "Homeowners seeking mortgage refinancing",
-    "Investors using SoFi Invest platform"
+    "Individual borrowers (personal loans, student loan refinancing)",
+    "Investors (investment platform users)",
+    "Mortgage borrowers (refinancing)",
+    "Credit card holders",
+    "Wealth management clients"
   ],
   "competitors": [
     "LendingClub",
     "Upstart",
     "Marcus by Goldman Sachs",
-    "SoFi's own competitor: Varo Money",
-    "SoFi's competitor: Chime"
+    "Prosper",
+    "SoFi's competitor: SoFi's own competitor? (e.g., other fintech lenders)"
   ],
   "key_products": [
     "Personal loans",
     "Student loan refinancing",
     "Mortgage refinancing",
-    "Credit cards",
-    "Investment accounts (stocks, ETFs, crypto)"
+    "Investment platform",
+    "Credit cards"
   ],
-  "extracted_at": "2026-06-17 18:15:16",
+  "extracted_at": "2026-06-24 17:54:58",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/SOFI-Suppliers",
+      "url": "https://www.sofi.com/",
       "query": "SoFi Technologies, Inc. suppliers manufacturers",
-      "snippet": "May 9, 2026 · For your research, we’ve provided nine additional tables on Sofi Technologies Inc ’ s suppliers . You can find them in the navigation me"
+      "snippet": "Why do 12.6M members trust SoFi? Financial solutions for school, marriage, starting a family, home buying, retirement, or whatever's next. Member FDIC"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.accio.com/business/sofi",
+      "url": "https://www.sec.gov/Archives/edgar/data/1818874/000181887425000016/sofi-20241231.htm",
       "query": "SoFi Technologies, Inc. suppliers manufacturers",
-      "snippet": "Mar 4, 2026 · Discover top SOFI suppliers in sanitary napkins, fiber optics, and sofas . Get a detailed company analysis report with verified recommen"
+      "snippet": "SoFi Securities is subject to regulation by FINRA and the SEC and the Company and its affiliates are subject to supervision and examination by various"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/SoFi",
       "query": "SoFi Technologies, Inc. major customers clients",
-      "snippet": "In April 2025, SoFi stated that 41% of its annualized revenues were fee-based, including the fees from the company’s loan platform business, interchan"
+      "snippet": "SoFi Technologies , Inc . (abbreviated as SoFi , short for Social Finance) is an American financial technology company operating as a branchless bank."
     },
     {
       "source": "DuckDuckGo",
       "url": "https://csimarket.com/stocks/SOFI-Customers",
       "query": "SoFi Technologies, Inc. major customers clients",
-      "snippet": "May 16, 2026 · Updated on: Focus of this report: Sofi Technologies Inc ’ s corporate clients . For your research, we’ve provided 9 tables on Sofi Tech"
+      "snippet": "6 days ago · Sofi Technologies Inc customers and markets, results by customer and performance relative to SOFI , by company and industry - CSIMarket"
     }
   ]
 }

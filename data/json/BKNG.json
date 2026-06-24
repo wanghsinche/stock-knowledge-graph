@@ -1,37 +1,37 @@
 {
   "ticker": "BKNG",
   "company_name": "Booking Holdings Inc.",
-  "sector": "Consumer Cyclical / Travel Services",
+  "sector": "Consumer Cyclical",
   "industry": "Travel Services",
   "upstream": [
-    "Hotels",
-    "Airlines",
-    "Car Rental Companies",
-    "Cruise Lines",
-    "Travel Agencies"
+    "Hotel chains (e.g., Marriott, Hilton)",
+    "Airlines (e.g., Delta, United)",
+    "Car rental companies (e.g., Hertz, Avis)",
+    "CAT",
+    "Travel technology providers (e.g., Sabre)"
   ],
   "downstream": [
-    "Individual Travelers",
-    "Corporate Travel Managers",
-    "Travel Agencies",
-    "Travel Management Companies",
-    "Corporate Clients"
+    "Individual travelers",
+    "Corporate travel departments",
+    "Travel agencies",
+    "Online travel agencies (OTAs)",
+    "Event planners"
   ],
   "competitors": [
     "Expedia Group",
     "TripAdvisor",
     "Airbnb",
-    "Priceline",
-    "Trip.com"
+    "Priceline (Booking.com)",
+    "Travelocity"
   ],
   "key_products": [
-    "Booking.com",
-    "Priceline.com",
-    "Kayak.com",
-    "Agoda.com",
-    "Rentalcars.com"
+    "Hotel booking platform",
+    "Flight booking service",
+    "Car rental reservations",
+    "Vacation rental listings",
+    "Travel package bundles"
   ],
-  "extracted_at": "2026-04-29 17:23:45",
+  "extracted_at": "2026-06-24 17:56:57",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Booking_Holdings",
+      "url": "https://csimarket.com/stocks/BKNG-Suppliers",
       "query": "Booking Holdings Inc. suppliers manufacturers",
-      "snippet": "Booking Holdings Inc . is an American travel technology company based in Norwalk, Connecticut, that owns and operates several travel fare aggregators "
+      "snippet": "Booking Holdings Inc supply chain, list and performance of Booking Holdings Incs ' suppliers - CSIMarket."
     },
     {
       "source": "DuckDuckGo",
       "url": "https://pitchgrade.com/companies/booking-holdings",
       "query": "Booking Holdings Inc. suppliers manufacturers",
-      "snippet": "How Booking Holdings Inc . generates revenue across its key business segments and the unit economics behind each. A data-backed SWOT analysis covering"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Booking_Holdings",
-      "query": "Booking Holdings Inc. major customers clients",
-      "snippet": "Booking Holdings Inc . is an American travel technology company based in Norwalk, Connecticut, that owns and operates several travel fare aggregators "
+      "snippet": "Key Partners: Booking Holdings Inc .'s key partners include suppliers , distributors, technology providers, and strategic alliances that enable its co"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://pitchgrade.com/companies/booking-holdings",
       "query": "Booking Holdings Inc. major customers clients",
       "snippet": "Customer Segments: Booking Holdings Inc . serves multiple distinct customer segments, which may include consumers, small and medium businesses, enterp"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.booking.com/",
+      "query": "Booking Holdings Inc. major customers clients",
+      "snippet": "Explore the world with Booking .com. Big savings on homes, hotels, flights, car rentals, taxis, and attractions – build your perfect trip on any budge"
     }
   ]
 }

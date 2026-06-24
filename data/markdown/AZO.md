@@ -3,8 +3,8 @@ ticker: AZO
 company: AutoZone, Inc.
 sector: Consumer Cyclical
 industry: Auto Parts
-extracted_at: 2026-06-23 18:11:13
-last_updated: 2026-06-23
+extracted_at: 2026-06-24 17:54:09
+last_updated: 2026-06-24
 ---
 
 # AZO - AutoZone, Inc.
@@ -12,42 +12,46 @@ last_updated: 2026-06-23
 ## 基本信息
 
 - **所属行业**: Consumer Cyclical / Auto Parts
-- **提取时间**: 2026-06-23 18:11:13
+- **提取时间**: 2026-06-24 17:54:09
 
 ## 产业链关系
 
 ### 上游供应商
 - [[Bosch]]
 - [[Denso]]
-- [[Magna International]]
-- [[Continental]]
 - [[Delphi]]
+- [[Magna]]
+- [[Continental]]
 
 ### 下游客户
-- [[Individual vehicle owners]]
-- [[Auto repair shops]]
-- [[Independent mechanics]]
-- [[Car dealerships]]
-- [[Fleet operators]]
+- [[Independent auto repair shops]]
+- [[Automotive service centers]]
+- [[Automotive retailers]]
+- [[Auto parts distributors]]
+- [[Individual consumers]]
 
 ### 竞争对手
 - [[O'Reilly Auto Parts]]
 - [[Advance Auto Parts]]
 - [[NAPA Auto Parts]]
 - [[Pep Boys]]
-- [[Auto Parts Warehouse]]
+- [[Carquest]]
 
 ### 核心产品
-- [[Automotive parts and accessories]]
-- [[Car batteries]]
-- [[Engine oils and lubricants]]
-- [[Filters and spark plugs]]
-- [[Tires and wheels]]
+- [[Aftermarket automotive parts]]
+- [[Car accessories]]
+- [[Batteries]]
+- [[Engine oils & filters]]
+- [[Tires & wheels]]
 
 ## 数据来源
 
 - [AutoZone](https://en.wikipedia.org/wiki/AutoZone,_Inc.)
+- [AutoZone, Inc. suppliers manufacturers](https://about.autozone.com/news-releases/news-release-details/autozone-vendor-summit-recognizes-contributions-top-suppliers-2)
+- [AutoZone, Inc. suppliers manufacturers](https://about.autozone.com/news-releases/news-release-details/autozone-vendor-summit-recognizes-contributions-top-suppliers-1)
+- [AutoZone, Inc. major customers clients](https://csimarket.com/stocks/AZO-Customers)
+- [AutoZone, Inc. major customers clients](https://portersfiveforce.com/blogs/target-market/autozone)
 
 ## 元数据
 
-- **更新日期**: 2026-06-23
+- **更新日期**: 2026-06-24

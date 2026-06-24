@@ -4,34 +4,34 @@
   "sector": "Industrials",
   "industry": "Integrated Freight & Logistics",
   "upstream": [
-    "Boeing",
-    "Airbus",
-    "Ford Motor Company",
-    "General Motors",
-    "CAT"
+    "FedEx Supply Chain",
+    "FedEx Ground",
+    "FedEx Freight",
+    "FedEx Express",
+    "FedEx Logistics"
   ],
   "downstream": [
     "AMZN",
     "Walmart",
     "eBay",
-    "Target",
-    "Small and medium‑size businesses"
+    "Coca‑Cola",
+    "Procter & Gamble"
   ],
   "competitors": [
-    "United Parcel Service (UPS)",
-    "DHL Express",
-    "United States Postal Service (USPS)",
-    "AMZN",
-    "XPO Logistics"
+    "UPS",
+    "DHL",
+    "USPS",
+    "Aramex",
+    "SF Express"
   ],
   "key_products": [
-    "FedEx Express (air freight)",
-    "FedEx Ground (ground delivery)",
-    "FedEx Freight (LTL)",
-    "FedEx Office (printing & shipping)",
-    "FedEx Custom Critical (specialty logistics)"
+    "Express shipping",
+    "Freight services",
+    "Logistics solutions",
+    "E‑commerce fulfillment",
+    "Supply chain management"
   ],
-  "extracted_at": "2026-05-04 17:27:25",
+  "extracted_at": "2026-06-24 17:56:44",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/FedEx_Supply_Chain",
+      "query": "FedEx Corporation suppliers manufacturers",
+      "snippet": "FedEx Supply Chain, [3][4] formerly known as GENCO (General Commodities Warehouse & Distribution Co.) is a major third-party logistics (3PL) provider "
+    },
+    {
+      "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/FedEx",
       "query": "FedEx Corporation suppliers manufacturers",
       "snippet": "FedEx Corporation , originally known as Federal Express Corporation , is an American multinational conglomerate holding company specializing in transp"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ru.wikipedia.org/wiki/FedEx",
-      "query": "FedEx Corporation suppliers manufacturers",
-      "snippet": "FedEx Office, FedEx Express, FedEx Ground, FedEx Freight, FedEx Custom Critical, FedEx Supply Chain, FedEx Trade Networks, FedEx Services.В 1994 году "
+      "url": "https://csimarket.com/stocks/FDX-Customers",
+      "query": "FedEx Corporation major customers clients",
+      "snippet": "6 days ago · Fedex's Comment on Sales, Marketing and Customers We believe that sales and marketing activities, as well as the information systems that"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/FedEx",
+      "url": "https://portersfiveforce.com/blogs/target-market/fedex",
       "query": "FedEx Corporation major customers clients",
-      "snippet": "FedEx Corporation , originally known as Federal Express Corporation , is an American multinational conglomerate holding company specializing in transp"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.fedex.com/en-us/home.html",
-      "query": "FedEx Corporation major customers clients",
-      "snippet": "We ship everywhere*. From major cities to remote locations, your goods can reach worldwide. Wallet-friendly shipping with no weighing. FedEx can ship "
+      "snippet": "Mar 19, 2026 · Who are FedEx's core customers today? FedEx shifted from corporate -only overnight parcels to a broad mix of B2B and B2C customers afte"
     }
   ]
 }

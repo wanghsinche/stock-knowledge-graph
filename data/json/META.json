@@ -4,18 +4,18 @@
   "sector": "Communication Services",
   "industry": "Internet Content & Information",
   "upstream": [
+    "QCOM",
     "NVDA",
-    "AMD",
     "INTC",
-    "AMZN",
-    "MSFT"
+    "AMD",
+    "AAPL"
   ],
   "downstream": [
-    "Advertisers (brands and agencies)",
-    "Content creators",
+    "Advertisers (brands & agencies)",
+    "Small & medium businesses",
     "App developers",
-    "Game developers",
-    "E‑commerce merchants"
+    "Content creators",
+    "Media partners"
   ],
   "competitors": [
     "GOOGL",
@@ -29,15 +29,41 @@
     "Instagram",
     "WhatsApp",
     "Messenger",
-    "Meta Ads"
+    "Threads",
+    "Meta Ads Platform",
+    "Oculus VR"
   ],
-  "extracted_at": "2026-06-23 17:53:38",
+  "extracted_at": "2026-06-24 17:49:36",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Meta_Platforms,_Inc.",
       "title": "Meta Platforms",
       "snippet": "Meta Platforms, Inc. is an American multinational technology company headquartered in Menlo Park, California. Meta owns and operates several prominent social media platforms and communication services"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://ru.wikipedia.org/wiki/Meta_Platforms",
+      "query": "Meta Platforms, Inc. suppliers manufacturers",
+      "snippet": "Meta Platforms , Inc . — американская транснациональная холдинговая компания, владеющая технологическим конгломератом и расположенная в Менло-Парке, К"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://investor.atmeta.com/",
+      "query": "Meta Platforms, Inc. suppliers manufacturers",
+      "snippet": "Investor Education Center. Meta for Business. Meta Ads Guide."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/META-Customers",
+      "query": "Meta Platforms, Inc. major customers clients",
+      "snippet": "5 days ago · Meta Platforms Inc 's Comment on Sales, Marketing and Customers The majority of our marketers use our self-service ad platform to establi"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.statista.com/topics/9038/meta-platforms/",
+      "query": "Meta Platforms, Inc. major customers clients",
+      "snippet": "Dec 17, 2025 · Meta Platforms - statistics & facts The rise and rise of Facebook led to the creation of one of the most influential companies in the w"
     }
   ]
 }

@@ -1,43 +1,67 @@
 {
   "ticker": "SNDK",
-  "company_name": "SanDisk Corporation",
+  "company_name": "Sandisk Corporation",
   "sector": "Technology",
-  "industry": "Computer Hardware / Storage Solutions",
+  "industry": "Computer Hardware",
   "upstream": [
+    "WDC",
     "005930.KS",
-    "MU",
     "SK Hynix",
-    "Kioxia (Toshiba)",
-    "INTC"
+    "MU",
+    "Toshiba Memory"
   ],
   "downstream": [
+    "AAPL",
     "DELL",
     "HPQ",
-    "Lenovo",
-    "AAPL",
+    "Lenovo Group",
     "005930.KS"
   ],
   "competitors": [
-    "005930.KS",
     "MU",
-    "Kingston Technology",
+    "005930.KS",
     "WDC",
-    "SK Hynix"
+    "Kingston Technology",
+    "MU"
   ],
   "key_products": [
-    "NAND flash memory",
-    "Solid State Drives (SSDs)",
-    "SD and microSD cards",
-    "USB flash drives",
-    "External SSDs"
+    "Solid‑State Drives (SSDs)",
+    "USB Flash Drives",
+    "SD/CF/SDXC Memory Cards",
+    "Embedded Flash Memory",
+    "Enterprise Storage Solutions"
   ],
-  "extracted_at": "2026-06-23 17:48:20",
+  "extracted_at": "2026-06-24 17:47:27",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Sandisk_Corporation",
       "title": "Sandisk",
       "snippet": "Sandisk Corporation is an American multinational computer semiconductor company based in Milpitas, California."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.sandisk.com/company/distributors",
+      "query": "Sandisk Corporation suppliers manufacturers",
+      "snippet": "Region · Loading Region · Country/Area · Loading Country/Area · Brand · Loading Brand · Distributors | SanDisk"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.accio.com/supplier/sandisk-manufacturer",
+      "query": "Sandisk Corporation suppliers manufacturers",
+      "snippet": "3 weeks ago - SanDisk was founded in 1988 as SunDisk and became part of Western Digital in 2016. In 2025, Western Digital spun off its flash storage d"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://data.landbase.com/technology/sandisk/",
+      "query": "Sandisk Corporation major customers clients",
+      "snippet": "Aug 17, 2025 · We have data on 324 companies that use SanDisk. Our SanDisk customers list is available for download and comes enriched with vital comp"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.appsruntheworld.com/customers-database/vendors/view/sandisk",
+      "query": "Sandisk Corporation major customers clients",
+      "snippet": "List of companies using or evaluating SanDisk applications, with details on their revenues, employees, industries, and locations."
     }
   ]
 }

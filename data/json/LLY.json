@@ -4,40 +4,64 @@
   "sector": "Healthcare",
   "industry": "Drug Manufacturers - General",
   "upstream": [
-    "Active Pharmaceutical Ingredient (API) suppliers",
-    "Contract Manufacturing Organizations (CMOs)",
-    "Chemical raw material suppliers",
-    "Packaging suppliers",
-    "Logistics and distribution partners"
+    "Contract manufacturers",
+    "Active pharmaceutical ingredient suppliers",
+    "Biotech research partners",
+    "Raw material suppliers",
+    "Contract research organizations"
   ],
   "downstream": [
-    "Hospitals and health systems",
-    "Pharmacies (retail and wholesale)",
+    "Hospitals",
+    "Pharmacies",
+    "Health insurance providers",
     "Government health agencies",
-    "Health insurers",
-    "International pharmaceutical distributors"
+    "Retail drug chains"
   ],
   "competitors": [
     "Pfizer",
     "Johnson & Johnson",
     "Merck & Co.",
-    "Novartis",
-    "AbbVie"
+    "AbbVie",
+    "Bristol-Myers Squibb"
   ],
   "key_products": [
-    "Humira (adalimumab)",
+    "Humalog (insulin lispro)",
+    "Lantus (insulin glargine)",
     "Trulicity (dulaglutide)",
-    "Mounjaro (tirzepatide)",
-    "Jardiance (empagliflozin)",
-    "Zynlonta (loncastuximab tesirine)"
+    "Cymbalta (duloxetine)",
+    "Zyprexa (olanzapine)"
   ],
-  "extracted_at": "2026-06-23 18:05:27",
+  "extracted_at": "2026-06-24 17:55:33",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Eli_Lilly_and_Company",
       "title": "Eli Lilly and Company",
       "snippet": "Eli Lilly and Company, doing business as Lilly, is an American multinational pharmaceutical company headquartered in Indianapolis, Indiana, with offices in 18 countries. Its products are sold in appro"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.lilly.com/suppliers",
+      "query": "Eli Lilly and Company suppliers manufacturers",
+      "snippet": "Supplier relationships are an important piece of the company , and we’re proud to offer mentorship and advocacy to small and under-leveraged businesse"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.lilly.com/suppliers/resources",
+      "query": "Eli Lilly and Company suppliers manufacturers",
+      "snippet": "View Lilly 's supplier resources to find information on standards and commitments, supplier procurement activities, contingent worker onboarding, and "
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/Eli_Lilly_and_Company",
+      "query": "Eli Lilly and Company major customers clients",
+      "snippet": "It achieved commercial success with major depressive disorder drugs Prozac (fluoxetine) (1986), Cymbalta (duloxetine) (2004), and its antipsychotic me"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.lilly.com/",
+      "query": "Eli Lilly and Company major customers clients",
+      "snippet": "Lilly is a medicine company that puts health above all. Learn about our medicines, view condition support, find care, and much more."
     }
   ]
 }

@@ -4,40 +4,64 @@
   "sector": "Technology",
   "industry": "Semiconductors",
   "upstream": [
-    "TSM",
-    "005930.KS",
-    "GlobalFoundries",
-    "AMAT",
-    "ASML"
+    "Silicon wafer suppliers",
+    "IC packaging and assembly providers",
+    "Electronic component suppliers",
+    "EDA tool vendors",
+    "Foundry partners"
   ],
   "downstream": [
-    "CSCO",
     "DELL",
-    "AMZN",
-    "MSFT",
-    "Huawei Technologies"
+    "HPQ",
+    "CSCO",
+    "NetApp",
+    "AAPL"
   ],
   "competitors": [
-    "QCOM",
     "INTC",
+    "QCOM",
     "NVDA",
     "MRVL",
-    "JNPR"
+    "TXN"
   ],
   "key_products": [
-    "Broadcom Ethernet Switches",
-    "Broadcom Wi‑Fi and Bluetooth chips",
-    "Broadcom Broadband Modems",
-    "Broadcom Storage Controllers",
-    "Broadcom Data Center Processors"
+    "Broadcom 7000 series Ethernet controllers",
+    "Broadcom 4000 series Wi‑Fi chips",
+    "Broadcom 5000 series storage controllers",
+    "Broadcom 6000 series broadband chips",
+    "Broadcom 8000 series data‑center networking chips"
   ],
-  "extracted_at": "2026-06-23 17:52:16",
+  "extracted_at": "2026-06-24 17:48:46",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Broadcom_Inc.",
       "title": "Broadcom",
       "snippet": "Broadcom Inc. is an American multinational designer, developer, manufacturer, and global supplier of a wide range of semiconductor and infrastructure software products. Broadcom's product offerings se"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/Broadcom",
+      "query": "Broadcom Inc. suppliers manufacturers",
+      "snippet": "Broadcom Inc . is an American multinational designer, developer, manufacturer , and global supplier of a wide range of semiconductor and infrastructur"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/AVGO-Suppliers",
+      "query": "Broadcom Inc. suppliers manufacturers",
+      "snippet": "6 days ago · Broadcom Inc 's Suppliers recorded an increase in sales by 27.35 % year on year in Q1 2026, sequentially sales grew by 10.79 %, Broadcom "
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/AVGO-Customers",
+      "query": "Broadcom Inc. major customers clients",
+      "snippet": "Broadcom Inc 's Comment on Sales, Marketing and Customers We sell our products to leading wired and wireless communications manufacturers. We have als"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://news.broadcom.com/category/customers",
+      "query": "Broadcom Inc. major customers clients",
+      "snippet": "May 19, 2026 · USSFCU: Powering Financial Wellness with Broadcom ’s Private Cloud and Private AI Broadcom Customer Achievement Awards recognize and ce"
     }
   ]
 }

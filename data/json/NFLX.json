@@ -4,18 +4,18 @@
   "sector": "Communication Services",
   "industry": "Entertainment",
   "upstream": [
-    "Film and television production studios",
-    "Content licensing partners",
-    "Independent production companies",
-    "Distribution networks",
-    "Music and soundtrack providers"
+    "Major film and television studios (e.g., Warner Bros., Disney, Paramount)",
+    "Independent production companies (e.g., Annapurna, A24)",
+    "CAT",
+    "Technology providers (e.g., cloud services, CDN providers)",
+    "Equipment manufacturers (e.g., camera and lighting gear suppliers)"
   ],
   "downstream": [
     "Individual subscribers worldwide",
-    "Households with internet access",
-    "Smart TV and streaming device users",
-    "Mobile device users",
-    "Corporate and institutional accounts"
+    "Corporate and institutional customers (e.g., airlines, hotels)",
+    "Device manufacturers (e.g., smart TV OEMs, gaming consoles)",
+    "Advertising partners (for occasional ad‑supported tiers)",
+    "Content licensing partners (e.g., TV networks, streaming platforms)"
   ],
   "competitors": [
     "Disney+",
@@ -25,19 +25,43 @@
     "AAPL"
   ],
   "key_products": [
-    "Over-the-top streaming service",
-    "Original series and movies",
-    "Documentaries and specials",
-    "Kids and family content",
-    "International language subtitles and dubbing"
+    "Netflix streaming service (OTT platform)",
+    "Original programming (e.g., Stranger Things, The Crown)",
+    "Licensed movies and TV shows",
+    "Mobile and web applications",
+    "Interactive content (e.g., Black Mirror: Bandersnatch)"
   ],
-  "extracted_at": "2026-06-23 18:04:11",
+  "extracted_at": "2026-06-24 17:52:24",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Netflix,_Inc.",
       "title": "Netflix, Inc.",
       "snippet": "Netflix, Inc. is an American media company founded on August 29, 1997, by Reed Hastings and Marc Randolph in Scotts Valley, California, and currently based in Los Gatos, California, with production of"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://netflixtechblog.com/complexity-in-the-digital-supply-chain-958384cbd70b",
+      "query": "Netflix, Inc. suppliers manufacturers",
+      "snippet": "Dec 17, 2012 · Netflix needs to innovate on the supply chain so that we can effectively increase licensing spending to create an outstanding member ex"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.britannica.com/money/Netflix-Inc",
+      "query": "Netflix, Inc. suppliers manufacturers",
+      "snippet": "4 days ago · Netflix, Inc. is a media company based in Los Gatos, California, founded in 1997 by American entrepreneurs..."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/NFLX-Customers",
+      "query": "Netflix, Inc. major customers clients",
+      "snippet": "During the corresponding time, Netflix Inc recorded a revenue increase by 16.19 % year on year, sequentially revenue grew by 1.65 %. While revenue at "
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://ir.netflix.net/ir-overview/profile/default.aspx",
+      "query": "Netflix, Inc. major customers clients",
+      "snippet": "Jun 4, 2026 · Netflix is one of the world’s leading entertainment services offering TV series, films, games and live programming across a wide variety"
     }
   ]
 }

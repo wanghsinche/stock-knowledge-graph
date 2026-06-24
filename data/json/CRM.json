@@ -12,15 +12,15 @@
   ],
   "downstream": [
     "Coca‑Cola",
-    "American Express",
-    "SONY",
-    "Toyota",
-    "Unilever"
+    "Ford Motor Company",
+    "005930.KS",
+    "AT&T",
+    "Walmart"
   ],
   "competitors": [
     "MSFT",
     "ORCL",
-    "SAP Customer Experience",
+    "SAP Sales Cloud",
     "HubSpot",
     "Zoho CRM"
   ],
@@ -29,17 +29,39 @@
     "Service Cloud",
     "Marketing Cloud",
     "Commerce Cloud",
-    "Einstein AI",
-    "MuleSoft",
-    "Tableau"
+    "Einstein AI"
   ],
-  "extracted_at": "2026-06-23 18:08:33",
+  "extracted_at": "2026-06-24 17:57:12",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Salesforce,_Inc.",
       "title": "Salesforce",
       "snippet": "Salesforce, Inc., is an American cloud-based software company headquartered in San Francisco, California. It is primarily known for its customer relationship management software and related applicatio"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/Salesforce",
+      "query": "Salesforce, Inc. suppliers manufacturers",
+      "snippet": "Salesforce, Inc ., is an American cloud -based software company headquartered in San Francisco, California. It is primarily known for its customer rel"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/CRM-Suppliers",
+      "query": "Salesforce, Inc. suppliers manufacturers",
+      "snippet": "May 29, 2026 · Sources: Salesforce Inc 's official press releases and regulatory filings; CSIMarket.com's supply -chain research; and the financial fi"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.appsruntheworld.com/customers-database/vendors/view/salesforce",
+      "query": "Salesforce, Inc. major customers clients",
+      "snippet": "List of companies using or evaluating Salesforce applications, with details on their revenues, employees, industries, and locations."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/CRM-Customers",
+      "query": "Salesforce, Inc. major customers clients",
+      "snippet": "Salesforce Inc 's Comment on Sales, Marketing and Customers We organize our sales and marketing programs by geographic regions, including the Americas"
     }
   ]
 }

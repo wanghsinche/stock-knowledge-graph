@@ -1,43 +1,67 @@
 {
   "ticker": "MSFT",
   "company_name": "Microsoft Corporation",
-  "sector": "Technology / Software - Infrastructure",
+  "sector": "Technology",
   "industry": "Software - Infrastructure",
   "upstream": [
-    "INTC",
+    "DELL",
     "AMD",
-    "NVDA",
-    "QCOM",
-    "MSFT"
+    "GOOGL",
+    "ADBE",
+    "CAT"
   ],
   "downstream": [
-    "Enterprise customers",
+    "Enterprise customers (e.g., Walmart, JPMorgan)",
     "Government agencies",
-    "OEM partners",
-    "Consumers",
-    "Cloud customers"
+    "CAT",
+    "Small and medium businesses",
+    "Consumers"
   ],
   "competitors": [
     "AAPL",
     "GOOGL",
     "AMZN",
-    "ORCL",
-    "IBM"
+    "IBM",
+    "ORCL"
   ],
   "key_products": [
-    "Windows OS",
-    "Microsoft Office",
-    "Azure Cloud",
-    "Microsoft 365",
-    "Xbox"
+    "Windows operating system",
+    "Microsoft Office suite",
+    "Azure cloud platform",
+    "Microsoft 365 subscription services",
+    "Xbox gaming console"
   ],
-  "extracted_at": "2026-06-23 17:50:33",
+  "extracted_at": "2026-06-24 17:48:35",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Microsoft_Corporation",
       "title": "Microsoft",
       "snippet": "Microsoft Corporation is an American multinational technology company headquartered in Redmond, Washington. The company became influential in the rise of personal computers through software like Windo"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.microsoft.com/en-us/procurement/supplier-conduct",
+      "query": "Microsoft Corporation suppliers manufacturers",
+      "snippet": "Read the Microsoft Supplier Code of Conduct (SCoC) to review how our values, integrity, honesty, and compliance extend throughout the supplier ecosyst"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.microsoft.com/en-us/professionalservices/suppliers",
+      "query": "Microsoft Corporation suppliers manufacturers",
+      "snippet": "These suppliers access support and consulting data provided to Microsoft by, or on behalf of, customers. This may include personal data or customer da"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/MSFT-Customers",
+      "query": "Microsoft Corporation major customers clients",
+      "snippet": "2 days ago · Microsoft's Comment on Sales, Marketing and Customers We distribute software through OEMs that pre-install our software on new PCs, table"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.appsruntheworld.com/customers-database/vendors/view/microsoft",
+      "query": "Microsoft Corporation major customers clients",
+      "snippet": "List of companies using or evaluating Microsoft applications, with details on their revenues, employees, industries, and locations."
     }
   ]
 }

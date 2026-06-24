@@ -1,18 +1,18 @@
 ---
 ticker: SHOP
 company: Shopify Inc.
-sector: Technology / Software - Application
-industry: E-commerce Platform
-extracted_at: 2026-05-13 18:04:44
-last_updated: 2026-05-13
+sector: Technology
+industry: Software - Application
+extracted_at: 2026-06-24 17:54:33
+last_updated: 2026-06-24
 ---
 
 # SHOP - Shopify Inc.
 
 ## 基本信息
 
-- **所属行业**: Technology / Software - Application / E-commerce Platform
-- **提取时间**: 2026-05-13 18:04:44
+- **所属行业**: Technology / Software - Application
+- **提取时间**: 2026-06-24 17:54:33
 
 ## 产业链关系
 
@@ -32,15 +32,15 @@ last_updated: 2026-05-13
 
 ### 竞争对手
 - [[BigCommerce]]
-- [[ADBE]]
-- [[WooCommerce]]
 - [[Wix]]
 - [[Squarespace]]
+- [[ADBE]]
+- [[WooCommerce]]
 
 ### 核心产品
 - [[Shopify e-commerce platform]]
-- [[Shopify POS]]
 - [[Shopify Payments]]
+- [[Shopify POS]]
 - [[Shopify Fulfillment Network]]
 - [[Shopify App Store]]
 
@@ -48,10 +48,10 @@ last_updated: 2026-05-13
 
 - [Shopify](https://en.wikipedia.org/wiki/Shopify_Inc.)
 - [Shopify Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/Shopify)
-- [Shopify Inc. suppliers manufacturers](https://www.shopify.com/)
-- [Shopify Inc. major customers clients](https://en.wikipedia.org/wiki/Shopify)
-- [Shopify Inc. major customers clients](https://www.shopify.com/)
+- [Shopify Inc. suppliers manufacturers](https://www.shopify.com/blog/13975985-how-to-find-a-manufacturer-or-supplier-for-your-product-idea)
+- [Shopify Inc. major customers clients](https://www.thomsondata.com/customer-base/shopify-customers.php)
+- [Shopify Inc. major customers clients](https://vizologi.com/who-are-shopifys-biggest-customers/)
 
 ## 元数据
 
-- **更新日期**: 2026-05-13
+- **更新日期**: 2026-06-24

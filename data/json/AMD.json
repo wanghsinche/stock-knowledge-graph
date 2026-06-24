@@ -8,13 +8,13 @@
     "005930.KS",
     "GlobalFoundries",
     "UMC",
-    "ASML"
+    "SMIC"
   ],
   "downstream": [
     "DELL",
     "HPQ",
     "Lenovo",
-    "AAPL",
+    "SONY",
     "MSFT"
   ],
   "competitors": [
@@ -22,22 +22,46 @@
     "NVDA",
     "QCOM",
     "AVGO",
-    "ARM"
+    "005930.KS"
   ],
   "key_products": [
     "Ryzen CPUs",
     "EPYC CPUs",
     "Radeon GPUs",
     "Radeon Instinct GPUs",
-    "Radeon Pro GPUs"
+    "Xilinx FPGAs"
   ],
-  "extracted_at": "2026-06-23 17:49:49",
+  "extracted_at": "2026-06-24 17:48:23",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Advanced_Micro_Devices,_Inc.",
       "title": "AMD",
       "snippet": "Advanced Micro Devices, Inc. (AMD) is an American multinational semiconductor company headquartered in Santa Clara, California. It develops central processing units (CPUs), graphics processing units ("
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.britannica.com/money/Advanced-Micro-Devices-Inc",
+      "query": "Advanced Micro Devices, Inc. suppliers manufacturers",
+      "snippet": "Advanced Micro Devices , Inc . ( AMD ) is an American semiconductor designer and global supplier of computing and graphics technologies used in data c"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://ir.amd.com/",
+      "query": "Advanced Micro Devices, Inc. suppliers manufacturers",
+      "snippet": "Advanced Micro Devices , Inc . IR Overview. Investor Relations. AMD Completes Divestiture of ZT Systems Data Center Infrastructure Manufacturing Busin"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/AMD-Customers",
+      "query": "Advanced Micro Devices, Inc. major customers clients",
+      "snippet": "2 days ago · Advanced Micro Devices Inc customers and markets, results by customer and performance relative to AMD, by company and industry - CSIMarke"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.marketscreener.com/quote/stock/AMD-ADVANCED-MICRO-DEVICE-179387659/finances-segments/",
+      "query": "Advanced Micro Devices, Inc. major customers clients",
+      "snippet": "1 day ago · Understand how activity and revenue gets distributed for AMD (Advanced Micro Devices ) (AMD). Ten-year segmentation history. The entire st"
     }
   ]
 }

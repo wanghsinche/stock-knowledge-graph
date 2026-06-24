@@ -4,40 +4,64 @@
   "sector": "Financial Services",
   "industry": "Capital Markets",
   "upstream": [
-    "GOOGL",
-    "Market data vendors (Bloomberg, Refinitiv)",
-    "Payment processors (Stripe, PayPal)",
-    "Technology hardware suppliers",
-    "Software vendors"
+    "Bloomberg",
+    "Refinitiv",
+    "NASDAQ",
+    "NYSE",
+    "S&P Global"
   ],
   "downstream": [
     "Retail investors",
-    "Institutional investors",
+    "Institutional clients",
+    "High-frequency traders",
     "Financial advisors",
-    "Corporate clients",
-    "Wealth managers"
+    "Corporate clients"
   ],
   "competitors": [
-    "Charles Schwab",
+    "Webull",
+    "eToro",
     "Fidelity",
-    "TD Ameritrade",
-    "E*TRADE",
-    "Webull"
+    "Charles Schwab",
+    "TD Ameritrade"
   ],
   "key_products": [
-    "Robinhood mobile app",
-    "Commission‑free trading",
+    "Commission-free stock trading",
     "Robinhood Gold",
-    "Cash Management",
-    "Crypto trading"
+    "Options trading",
+    "Crypto trading",
+    "Cash Management"
   ],
-  "extracted_at": "2026-06-23 17:54:54",
+  "extracted_at": "2026-06-24 17:52:36",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "",
       "title": "",
       "snippet": ""
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://pitchgrade.com/companies/robinhood-markets",
+      "query": "Robinhood Markets, Inc. suppliers manufacturers",
+      "snippet": "How Robinhood Markets , Inc . generates revenue across its key business segments and the unit economics behind each. A data-backed SWOT analysis cover"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://robinhood.com/",
+      "query": "Robinhood Markets, Inc. suppliers manufacturers",
+      "snippet": "Trade stocks on Robinhood with commission-free investing & advanced trading tools. Access fractional shares, real-time market data, and more."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://robinhood.com/",
+      "query": "Robinhood Markets, Inc. major customers clients",
+      "snippet": "Trade stocks on Robinhood with commission-free investing & advanced trading tools. Access fractional shares, real-time market data, and more."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.investing.com/equities/robinhood-markets",
+      "query": "Robinhood Markets, Inc. major customers clients",
+      "snippet": "$ HOOD is a common way to refer to the Robinhood Markets Inc ticker symbol in social media, forums, and online discussions. The dollar sign is a short"
     }
   ]
 }

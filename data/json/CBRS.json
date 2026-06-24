@@ -4,28 +4,34 @@
   "sector": "Technology / Semiconductors",
   "industry": "Semiconductors",
   "upstream": [
-    "TSM"
+    "TSM",
+    "005930.KS",
+    "ASML",
+    "AMAT",
+    "MU"
   ],
   "downstream": [
-    "AI research institutions",
-    "Cloud service providers",
-    "Enterprise customers"
+    "GOOGL",
+    "AMZN",
+    "MSFT",
+    "IBM",
+    "NVDA"
   ],
   "competitors": [
     "NVDA",
-    "AMD",
     "INTC",
-    "GOOGL",
-    "Graphcore"
+    "Graphcore",
+    "AMD",
+    "Xilinx"
   ],
   "key_products": [
-    "Wafer Scale Engine 3 (WSE-3)",
+    "WSE-3 wafer‑scale engine",
     "CS-3 supercomputer",
     "AI inference cloud API",
     "AI training cloud API",
-    "Data center solutions"
+    "Cerebras data center solutions"
   ],
-  "extracted_at": "2026-06-08 18:26:39",
+  "extracted_at": "2026-06-24 17:50:21",
   "sources": [
     {
       "source": "Wikipedia",
@@ -37,25 +43,25 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Cerebras_Systems",
       "query": "Cerebras Systems Inc. suppliers manufacturers",
-      "snippet": "Its semiconductors are manufactured by TSMC, currently the only company that has the ability to manufacture Cerebras chips. The company's primary comp"
+      "snippet": "Cerebras Systems Inc ., headquartered in Sunnyvale, California, develops semiconductors, supercomputers, and related software to power artificial inte"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.cerebras.ai/",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/cerebras-systems-partnerships-amazon-openai-081238321.html?fr=sycsrp_catchall",
       "query": "Cerebras Systems Inc. suppliers manufacturers",
-      "snippet": "The Cerebras Wafer-Scale Engine is purpose-built for ultra-fast AI. It is 58x larger than GPUs. Designed for builders who want to do extraordinary thi"
+      "snippet": "Jun 5, 2026 · Cerebras Systems (NasdaqGS:CBRS) has expanded its AI infrastructure partnerships to include Amazon and OpenAI. CEO Andrew Feldman confir"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Cerebras",
+      "url": "https://www.appsruntheworld.com/customers-database/vendors/view/cerebras-systems",
       "query": "Cerebras Systems Inc. major customers clients",
-      "snippet": "Cerebras Systems Inc . is an American artificial intelligence company with offices in Sunnyvale, San Diego, Toronto, and Bangalore, India. Cerebras bu"
+      "snippet": "List of companies using or evaluating Cerebras Systems applications, with details on their revenues, employees, industries, and locations."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://simplywall.st/stocks/us/semiconductors/nasdaq-cbrs/cerebras-systems",
+      "url": "https://www.cerebras.ai/customer-spotlights",
       "query": "Cerebras Systems Inc. major customers clients",
-      "snippet": "Cerebras Systems Inc . operates as an artificial intelligence infrastructure company. It designs and manufactures an AI compute platform that comprise"
+      "snippet": "Customer spotlight See how Cerebras is empowering companies from all disciplines to improve their results. Every story is different, but all have the "
     }
   ]
 }

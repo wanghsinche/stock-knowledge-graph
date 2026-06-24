@@ -1,43 +1,67 @@
 {
   "ticker": "MSTR",
   "company_name": "Strategy Inc",
-  "sector": "Technology / Software - Application",
-  "industry": "Business Intelligence & Analytics",
+  "sector": "Technology",
+  "industry": "Software - Application",
   "upstream": [
     "MSFT",
-    "AMZN",
-    "GOOGL",
     "ORCL",
-    "IBM"
+    "IBM",
+    "Mosaic",
+    "AMZN"
   ],
   "downstream": [
-    "Bank of America",
-    "JPMorgan Chase",
-    "Citigroup",
-    "Walmart",
-    "General Electric"
+    "Healthcare",
+    "Financial Services",
+    "Retail",
+    "Manufacturing",
+    "Government"
   ],
   "competitors": [
     "SAP SE Business Objects",
     "IBM",
     "ORCL",
     "MSFT",
-    "Tableau Software"
+    "Tableau"
   ],
   "key_products": [
-    "MicroStrategy Desktop",
-    "MicroStrategy Web",
-    "MicroStrategy Mobile",
-    "MicroStrategy Analytics",
-    "MicroStrategy Cloud"
+    "MicroStrategy Analytics Platform",
+    "Strategy Solutions",
+    "Mobile Analytics Apps",
+    "Data Visualization Tools",
+    "Enterprise BI Suite"
   ],
-  "extracted_at": "2026-06-23 18:09:48",
+  "extracted_at": "2026-06-24 17:51:25",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Strategy_Inc",
       "title": "MicroStrategy",
       "snippet": "Strategy Inc., formerly known as MicroStrategy, is an American company that provides business intelligence (BI) and mobile software. Founded in 1989 by Michael J. Saylor, Sanju Bansal, and Thomas Spah"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.strategy.com/software",
+      "query": "Strategy Inc suppliers manufacturers",
+      "snippet": "Strategy Solutions powered by Mosaic provide a universal semantic layer that unifies enterprise data, governs business metrics, and delivers trusted A"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://prgnpi.com/developing-an-effective-supply-chain-strategy/",
+      "query": "Strategy Inc suppliers manufacturers",
+      "snippet": "Feb 29, 2024 · A well-designed supply chain strategy enables companies to reliably deliver product, reduce costs, and enhance customer satisfaction."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/MicroStrategy",
+      "query": "Strategy Inc major customers clients",
+      "snippet": "Strategy Inc ., formerly known as MicroStrategy,[1] is an American company that provides business intelligence (BI) and mobile software. Founded in 19"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.strategy.com/software/customer-stories",
+      "query": "Strategy Inc major customers clients",
+      "snippet": "Dive into Strategy customer stories highlighting the impact of Analytics in Healthcare, Financial Services, Call Centers, Retail, Insurance, and Gover"
     }
   ]
 }

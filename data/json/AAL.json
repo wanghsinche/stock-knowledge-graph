@@ -6,16 +6,16 @@
   "upstream": [
     "Boeing",
     "Airbus",
-    "GE Aviation",
     "Pratt & Whitney",
-    "Rolls‑Royce"
+    "GE Aviation",
+    "Honeywell Aerospace"
   ],
   "downstream": [
-    "Corporate travel clients",
-    "Individual passengers",
+    "Corporate travel agencies",
+    "Government agencies",
     "Travel agencies",
-    "Cargo customers",
-    "Freight forwarders"
+    "Passengers",
+    "Cargo shippers"
   ],
   "competitors": [
     "Delta Air Lines",
@@ -27,17 +27,41 @@
   "key_products": [
     "Passenger air transport",
     "Cargo transport",
-    "Loyalty program (AAdvantage)",
-    "In‑flight services",
-    "Maintenance, repair, overhaul (MRO)"
+    "Maintenance, repair, and overhaul services",
+    "AAdvantage loyalty program",
+    "In-flight entertainment"
   ],
-  "extracted_at": "2026-06-23 18:07:57",
+  "extracted_at": "2026-06-24 17:51:57",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/American_Airlines_Group_Inc.",
       "title": "American Airlines Group",
       "snippet": "American Airlines Group Inc. is an American publicly traded airline holding company headquartered in Fort Worth, Texas. It was formed on December 9, 2013, by the merger of AMR Corporation, the parent "
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/American_Airlines",
+      "query": "American Airlines Group Inc. suppliers manufacturers",
+      "snippet": "American Airlines , Inc . is a major airline in the United States headquartered in Fort Worth, Texas, within the Dallas–Fort Worth metroplex, and is t"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/AAL-Suppliers",
+      "query": "American Airlines Group Inc. suppliers manufacturers",
+      "snippet": "6 days ago · American Airlines Group Inc 's Suppliers recorded an increase in sales by 10.62 % year on year in Q1 2026, from the previous quarter, sal"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.tiktok.com/@aaronrheins/video/7654615323663944990",
+      "query": "American Airlines Group Inc. major customers clients",
+      "snippet": "1 day ago · Spirit Airlines shutdown, Spirit Airlines closure, loyal Spirit Airlines customer, affordable travel, Spirit Airlines news, airline indust"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://finance.yahoo.com/video/amazon-prime-day-helps-consumers-143715585.html",
+      "query": "American Airlines Group Inc. major customers clients",
+      "snippet": "1 day ago · What are the two top categories that consumers can expect to maybe ... AAL American Airlines Group Inc. 16.14 +0.06 (+0.37%) · SPCX Space "
     }
   ]
 }

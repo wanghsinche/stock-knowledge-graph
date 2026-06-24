@@ -6,38 +6,62 @@
   "upstream": [
     "Bosch",
     "Denso",
-    "Magna International",
-    "Continental",
-    "Delphi"
+    "Delphi",
+    "Magna",
+    "Continental"
   ],
   "downstream": [
-    "Individual vehicle owners",
-    "Auto repair shops",
-    "Independent mechanics",
-    "Car dealerships",
-    "Fleet operators"
+    "Independent auto repair shops",
+    "Automotive service centers",
+    "Automotive retailers",
+    "Auto parts distributors",
+    "Individual consumers"
   ],
   "competitors": [
     "O'Reilly Auto Parts",
     "Advance Auto Parts",
     "NAPA Auto Parts",
     "Pep Boys",
-    "Auto Parts Warehouse"
+    "Carquest"
   ],
   "key_products": [
-    "Automotive parts and accessories",
-    "Car batteries",
-    "Engine oils and lubricants",
-    "Filters and spark plugs",
-    "Tires and wheels"
+    "Aftermarket automotive parts",
+    "Car accessories",
+    "Batteries",
+    "Engine oils & filters",
+    "Tires & wheels"
   ],
-  "extracted_at": "2026-06-23 18:11:13",
+  "extracted_at": "2026-06-24 17:54:09",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/AutoZone,_Inc.",
       "title": "AutoZone",
       "snippet": "AutoZone, Inc., doing business as AutoZone, is an American retailer of aftermarket automotive parts and accessories, the largest in the United States. Founded in 1979, AutoZone has 7,140 stores across"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://about.autozone.com/news-releases/news-release-details/autozone-vendor-summit-recognizes-contributions-top-suppliers-2",
+      "query": "AutoZone, Inc. suppliers manufacturers",
+      "snippet": "Jun 3, 2026 · MEMPHIS, Tenn., June 03, 2026 (GLOBE NEWSWIRE) -- AutoZone (NYSE: AZO) recognized 15 of its top suppliers at its annual Vendor Summit. T"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://about.autozone.com/news-releases/news-release-details/autozone-vendor-summit-recognizes-contributions-top-suppliers-1",
+      "query": "AutoZone, Inc. suppliers manufacturers",
+      "snippet": "Jun 12, 2025 · MEMPHIS, Tenn., June 12, 2025 (GLOBE NEWSWIRE) -- AutoZone (NYSE: AZO) recognized 18 of its top suppliers at its annual Vendor Summit. "
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/AZO-Customers",
+      "query": "AutoZone, Inc. major customers clients",
+      "snippet": "Autozone Inc 's Comment on Sales, Marketing and Customers Customer service is the most important element in our marketing and merchandising strategy, "
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://portersfiveforce.com/blogs/target-market/autozone",
+      "query": "AutoZone, Inc. major customers clients",
+      "snippet": "Nov 4, 2025 · Who exactly are AutoZone 's customers ? AutoZone has transformed from a local parts store into a key partner for both DIY car owners and"
     }
   ]
 }

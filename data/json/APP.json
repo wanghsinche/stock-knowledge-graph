@@ -4,40 +4,64 @@
   "sector": "Communication Services",
   "industry": "Advertising Agencies",
   "upstream": [
-    "AAPL",
     "GOOGL",
-    "Data Providers (e.g., Nielsen)",
-    "Mobile OS Platforms",
-    "Ad Exchanges"
+    "AAPL",
+    "Data and analytics vendors (e.g., Nielsen, App Annie)",
+    "Ad network and exchange partners",
+    "SDK and technology component suppliers"
   ],
   "downstream": [
-    "Mobile App Developers",
-    "Advertisers",
-    "Brands",
-    "Game Developers",
-    "Media Companies"
+    "Mobile app developers (games, utilities, social apps)",
+    "Digital publishers and content platforms",
+    "Brand advertisers and marketing agencies",
+    "E‑commerce and retail app owners",
+    "Gaming studios and indie developers"
   ],
   "competitors": [
-    "The Trade Desk",
-    "META",
-    "GOOGL",
     "Unity Ads",
-    "Vungle"
+    "AdColony",
+    "Vungle",
+    "Chartboost",
+    "Tapjoy"
   ],
   "key_products": [
-    "AppLovin SDK",
-    "MAX Ad Platform",
-    "LTV Analytics",
-    "AppLovin Mobile Advertising Platform",
-    "AppLovin Data Platform"
+    "Mobile advertising SDK",
+    "App monetization platform",
+    "User acquisition & attribution tools",
+    "Video & native ad formats",
+    "Data analytics & audience insights"
   ],
-  "extracted_at": "2026-06-23 18:13:16",
+  "extracted_at": "2026-06-24 17:54:44",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "",
       "title": "",
       "snippet": ""
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/APP-Suppliers",
+      "query": "AppLovin Corporation suppliers manufacturers",
+      "snippet": "Applovin 's Suppliers recorded an increase in sales by 6.16 % year on year in Q4 2025, sequentially sales grew by 2285.92 %, Applovin 's cost of sales"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.hivelr.com/2025/01/applovin-app-porters-five-forces-industry-and-competition-analysis/",
+      "query": "AppLovin Corporation suppliers manufacturers",
+      "snippet": "Jan 4, 2025 · The bargaining power of suppliers for AppLovin is low to moderate, as the company operates in a digital ecosystem where suppliers primar"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/AppLovin",
+      "query": "AppLovin Corporation major customers clients",
+      "snippet": "AppLovin Corporation is an American mobile technology company headquartered in Palo Alto, California. [3] Founded in 2012, the company helps developer"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.appsruntheworld.com/customers-database/vendors/view/applovin",
+      "query": "AppLovin Corporation major customers clients",
+      "snippet": "List of companies using or evaluating Applovin applications, with details on their revenues, employees, industries, and locations."
     }
   ]
 }

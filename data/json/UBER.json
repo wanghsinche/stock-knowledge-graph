@@ -1,37 +1,37 @@
 {
   "ticker": "UBER",
   "company_name": "Uber Technologies, Inc.",
-  "sector": "Technology",
-  "industry": "Software - Application",
+  "sector": "Technology / Software - Application",
+  "industry": "Transportation Network Company",
   "upstream": [
-    "Automotive manufacturers (e.g., Toyota, Ford)",
-    "Vehicle leasing companies (e.g., Hertz, Avis)",
-    "NVDA",
+    "TSLA",
     "AAPL",
-    "Insurance providers (e.g., Geico, State Farm)"
+    "GOOGL",
+    "Payment processors (Visa, Mastercard, Stripe)",
+    "GOOGL"
   ],
   "downstream": [
-    "Ride‑hailing customers (individual riders)",
-    "Food delivery customers (individuals ordering food)",
-    "AMZN",
-    "Corporate clients (e.g., Uber for Business)",
-    "Event organizers (e.g., sports and concert venues)"
+    "Individual riders",
+    "Drivers and couriers",
+    "Food delivery customers (Uber Eats)",
+    "Freight shippers (Uber Freight)",
+    "Corporate clients (Uber for Business)"
   ],
   "competitors": [
     "Lyft",
-    "DoorDash",
-    "Via",
+    "Didi Chuxing",
     "Grab",
-    "Bolt"
+    "Ola",
+    "Via"
   ],
   "key_products": [
-    "Uber ride‑hailing app",
+    "Ride-hailing service",
     "Uber Eats food delivery",
     "Uber Freight logistics",
     "Uber for Business",
     "Uber Health"
   ],
-  "extracted_at": "2026-05-07 17:51:15",
+  "extracted_at": "2026-06-24 17:54:20",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.uber.com/us/en/suppliers/",
+      "url": "https://ru.wikipedia.org/wiki/Uber",
       "query": "Uber Technologies, Inc. suppliers manufacturers",
-      "snippet": "Uber Global Supplier Portal with information on how to become a supplier for Uber ."
+      "snippet": "Uber Technologies Inc . ; Uber — американская международная публичная компания из Сан-Франциско, создавшая одноимённое мобильное приложение для поиска"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/UBER-Suppliers",
+      "url": "https://in.tradingview.com/symbols/EUROTLX-4UBER/",
       "query": "Uber Technologies, Inc. suppliers manufacturers",
-      "snippet": "Feb 14, 2026 · Sources: Uber Technologies Inc 's official press releases and regulatory filings; CSIMarket.com's supply -chain research; and the finan"
+      "snippet": "View live Uber Technologies , Inc . chart to track its stock's price action. Find market predictions, 4 UBER financials and market news."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Uber",
+      "url": "https://csimarket.com/stocks/UBER-Customers",
       "query": "Uber Technologies, Inc. major customers clients",
-      "snippet": "Uber Technologies , Inc . is an American multinational transportation company that provides ride-hailing services, courier services, food delivery, an"
+      "snippet": "May 10, 2026 · Uber Technologies Inc customers and markets, results by customer and performance relative to UBER, by company and industry - CSIMarket"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://support-uber.com/",
+      "url": "https://www.uber.com/us/en/about/",
       "query": "Uber Technologies, Inc. major customers clients",
-      "snippet": "Выгодные поездки. Uber покажет, куда лучше вызвать машину, чтобы поездка была быстрее и выгоднее. Маршруты с остановками. Укажите несколько адресов в "
+      "snippet": "Want to learn more about Uber? Read about our leadership, customers , the Uber platform, the communities we serve, and more!"
     }
   ]
 }

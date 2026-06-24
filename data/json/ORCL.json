@@ -4,40 +4,64 @@
   "sector": "Technology",
   "industry": "Software - Infrastructure",
   "upstream": [
-    "INTC",
     "AMD",
-    "NVDA",
-    "CSCO",
-    "DELL"
+    "DELL",
+    "MSFT",
+    "Software component suppliers (e.g., Red Hat, VMware)",
+    "CSCO"
   ],
   "downstream": [
-    "Bank of America",
-    "Walmart",
-    "JP Morgan Chase",
-    "Coca‑Cola",
-    "UnitedHealth Group"
-  ],
-  "competitors": [
     "MSFT",
     "AMZN",
+    "GOOGL",
+    "Financial institutions (e.g., JPMorgan, Bank of America)",
+    "Government agencies (e.g., U.S. Department of Defense)"
+  ],
+  "competitors": [
     "IBM",
+    "MSFT",
     "SAP",
+    "AMZN",
     "GOOGL"
   ],
   "key_products": [
     "Oracle Database",
-    "Oracle Cloud Infrastructure",
+    "Oracle Cloud Infrastructure (OCI)",
     "Oracle Autonomous Database",
-    "Oracle ERP Cloud",
-    "Oracle Fusion Applications"
+    "Oracle Fusion Applications",
+    "Oracle ERP Cloud"
   ],
-  "extracted_at": "2026-06-23 17:56:43",
+  "extracted_at": "2026-06-24 17:49:58",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Oracle_Corporation",
       "title": "Oracle Corporation",
       "snippet": "Oracle Corporation is an American multinational technology company headquartered in Austin, Texas. Co-founded in Santa Clara, California, in 1977 by Bob Miner, Ed Oates, and current chairman of the bo"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/Oracle_Corporation",
+      "query": "Oracle Corporation suppliers manufacturers",
+      "snippet": "Oracle Corporation is an American multinational technology company headquartered in Austin, Texas. Co-founded in Santa Clara, California, in 1977 by B"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.oracle.com/scm/manufacturing/",
+      "query": "Oracle Corporation suppliers manufacturers",
+      "snippet": "Oracle Fusion Cloud Manufacturing helps you streamline your global, mixed-mode manufacturing to maximize operational performance."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/Oracle_Corporation",
+      "query": "Oracle Corporation major customers clients",
+      "snippet": "Oracle Corporation's main competitors in the database arena remain IBM Db2 and Microsoft SQL Server, and to a lesser extent Sybase and Teradata, as Po"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://cloudwars.com/cloud/larry-ellisons-masterpiece-microsoft-becomes-oracles-largest-customer-2/",
+      "query": "Oracle Corporation major customers clients",
+      "snippet": "Dec 18, 2023 · Oracle's partnership turns Microsoft into its biggest customer, with a multi-cloud deal and significant investments."
     }
   ]
 }

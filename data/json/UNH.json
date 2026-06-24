@@ -2,42 +2,66 @@
   "ticker": "UNH",
   "company_name": "UnitedHealth Group Incorporated",
   "sector": "Healthcare",
-  "industry": "Healthcare Plans",
+  "industry": "Health Insurance / Health Care Services",
   "upstream": [
     "Medical device manufacturers",
-    "Pharmaceutical companies",
-    "Health technology vendors",
-    "Data analytics providers",
-    "Hospital networks"
+    "Pharmaceutical suppliers",
+    "Health information technology vendors",
+    "Pharmacy benefit managers",
+    "Telehealth platform providers"
   ],
   "downstream": [
-    "Employers",
-    "Individuals",
+    "Large corporate employers",
     "Government agencies (Medicare, Medicaid)",
-    "Small and medium businesses",
-    "Large corporations"
+    "Individual consumers",
+    "Health care providers (hospitals, clinics)",
+    "Health plans of other insurers"
   ],
   "competitors": [
-    "Anthem",
+    "Anthem, Inc.",
     "Aetna (CVS Health)",
-    "Cigna",
-    "Humana",
-    "Blue Cross Blue Shield"
+    "Cigna Corporation",
+    "Humana Inc.",
+    "Kaiser Permanente"
   ],
   "key_products": [
-    "UnitedHealthcare insurance plans",
+    "Commercial health insurance plans",
     "Medicare Advantage plans",
-    "Medicaid plans",
-    "OptumHealth services",
-    "OptumRx pharmacy benefit management"
+    "Medicaid managed care",
+    "Optum health services (pharmacy, data analytics, care delivery)",
+    "UnitedHealthcare employer group plans"
   ],
-  "extracted_at": "2026-06-23 18:15:18",
+  "extracted_at": "2026-06-24 17:56:31",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/UnitedHealth_Group_Incorporated",
       "title": "UnitedHealth Group",
       "snippet": "UnitedHealth Group Incorporated is an American multinational for-profit company based in Eden Prairie, Minnesota, specializing in health insurance and health care services. Selling insurance products "
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.unitedhealthgroup.com/suppliers/information.html",
+      "query": "UnitedHealth Group Incorporated suppliers manufacturers",
+      "snippet": "Supplier Community Portal At UnitedHealth Group , we search for suppliers that help us deliver best-in-class services to our customers. These partners"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.unitedhealthgroup.com/suppliers/information/vendor-portal.html",
+      "query": "UnitedHealth Group Incorporated suppliers manufacturers",
+      "snippet": "Vendor Portal Information for Current Suppliers UnitedHealth Group uses the eGRC (Enterprise Governance, Risk & Compliance) External Vendor Portal to "
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/UnitedHealth_Group",
+      "query": "UnitedHealth Group Incorporated major customers clients",
+      "snippet": "UnitedHealth Group Incorporated is an American multinational for-profit company based in Eden Prairie, Minnesota, specializing in health insurance and"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.unitedhealthgroup.com/uhg/businesses.html",
+      "query": "UnitedHealth Group Incorporated major customers clients",
+      "snippet": "UnitedHealth Group is a health care and well-being company with team members in two distinct and complementary businesses — Optum and UnitedHealthcare"
     }
   ]
 }

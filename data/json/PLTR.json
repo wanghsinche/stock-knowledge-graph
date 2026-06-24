@@ -4,40 +4,64 @@
   "sector": "Technology",
   "industry": "Software - Infrastructure",
   "upstream": [
-    "Cloud infrastructure providers (AWS, Azure, GCP)",
+    "AMZN",
+    "MSFT",
+    "GOOGL",
     "DELL",
-    "Open‑source software libraries (Apache, Hadoop)",
-    "Data integration tools (Informatica)",
-    "AI/ML framework providers (TensorFlow, PyTorch)"
+    "CSCO"
   ],
   "downstream": [
-    "U.S. federal government agencies (FBI, CIA, DoD)",
-    "Financial services firms (Goldman Sachs, JPMorgan)",
-    "Healthcare organizations (Mayo Clinic, Kaiser Permanente)",
-    "Energy sector companies (ExxonMobil, Shell)",
-    "AMZN"
+    "U.S. Department of Defense",
+    "INTC",
+    "FBI",
+    "Walmart",
+    "JPMorgan Chase"
   ],
   "competitors": [
     "Snowflake",
-    "Databricks",
     "Splunk",
-    "MSFT",
-    "Tableau"
+    "Databricks",
+    "Alteryx",
+    "Qlik"
   ],
   "key_products": [
     "Palantir Foundry",
     "Palantir Gotham",
     "Palantir Apollo",
     "Palantir Helios",
-    "Palantir Platform APIs"
+    "Palantir Platform"
   ],
-  "extracted_at": "2026-06-23 17:55:41",
+  "extracted_at": "2026-06-24 17:49:48",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Palantir_Technologies_Inc.",
       "title": "Palantir",
       "snippet": "Palantir Technologies Inc. is an American publicly traded company that develops data integration and analytics software. Palantir is headquartered in Miami, Florida, and was founded in 2003 by Peter T"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/Palantir",
+      "query": "Palantir Technologies Inc. suppliers manufacturers",
+      "snippet": "Palantir Technologies Inc is an American publicly traded company that develops data integration and analytics software. Palantir is headquartered in M"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.palantir.com/offerings/supply-chain/",
+      "query": "Palantir Technologies Inc. suppliers manufacturers",
+      "snippet": "From humanitarian aid to vital manufacturing components, Palantir's software is the backbone of critical supply chains across the globe."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.designgurus.io/answers/detail/who-are-the-main-customers-of-palantir",
+      "query": "Palantir Technologies Inc. major customers clients",
+      "snippet": "Who are the main customers of Palantir? Palantir Technologies serves a diverse clientele across government and commercial sectors, providing data anal"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://data.landbase.com/technology/palantir/",
+      "query": "Palantir Technologies Inc. major customers clients",
+      "snippet": "Aug 17, 2025 · Companies using Palantir by Palantir Technologies Inc in 2026 As of 2026, 1,479 verified companies use Palantir – across industries, co"
     }
   ]
 }

@@ -4,16 +4,16 @@
   "sector": "Technology",
   "industry": "Consumer Electronics",
   "upstream": [
-    "TSM",
-    "005930.KS",
-    "Foxconn",
+    "Foxconn (Hon Hai Precision)",
     "Pegatron",
-    "LG Display"
+    "Wistron",
+    "TSM",
+    "005930.KS"
   ],
   "downstream": [
-    "Best Buy",
-    "AMZN",
-    "Walmart",
+    "iPhone users",
+    "iPad users",
+    "Mac users",
     "AAPL",
     "AAPL"
   ],
@@ -21,8 +21,8 @@
     "005930.KS",
     "GOOGL",
     "MSFT",
-    "Huawei",
-    "Xiaomi"
+    "AMZN",
+    "Huawei"
   ],
   "key_products": [
     "iPhone",
@@ -31,13 +31,37 @@
     "Apple Watch",
     "AirPods"
   ],
-  "extracted_at": "2026-06-23 17:51:34",
+  "extracted_at": "2026-06-24 17:49:08",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Apple_Inc.",
       "title": "Apple Inc.",
       "snippet": "Apple Inc. is an American multinational technology company headquartered in Cupertino, California, in Silicon Valley, and known for consumer electronics, software and online services. Founded in 1976 "
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/List_of_Apple_Inc._suppliers",
+      "query": "Apple Inc. suppliers manufacturers",
+      "snippet": "In 1985, Apple reduced its parts suppliers from 1,500 to 250 and closed down plants in Texas, Ireland, and California. [2]: 182–190 In the mid-1980s, "
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.apple.com/supply-chain/",
+      "query": "Apple Inc. suppliers manufacturers",
+      "snippet": "Our supply chain includes thousands of supplier facilities in over 60 countries. Suppliers support every stage of the Apple product lifecycle, and we "
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/AAPL-Customers",
+      "query": "Apple Inc. major customers clients",
+      "snippet": "Apple Inc 's Comment on Sales, Marketing and Customers The Company’s customers are primarily in the consumer, SMB, education, enterprise and governmen"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.appsruntheworld.com/customers-database/vendors/view/apple",
+      "query": "Apple Inc. major customers clients",
+      "snippet": "List of companies using or evaluating Apple applications, with details on their revenues, employees, industries, and locations."
     }
   ]
 }

@@ -5,39 +5,63 @@
   "industry": "Internet Content & Information",
   "upstream": [
     "INTC",
+    "DELL",
+    "MSFT",
     "005930.KS",
-    "005930.KS",
-    "CSCO",
-    "MSFT"
+    "Advertising technology partners (Facebook, Twitter)"
   ],
   "downstream": [
-    "Advertisers (e.g., Coca‑Cola, Nike)",
     "GOOGL",
-    "005930.KS",
     "GOOGL",
-    "Content creators on YouTube"
+    "GOOGL",
+    "Consumers (Android users)",
+    "Content creators (YouTube creators)"
   ],
   "competitors": [
     "MSFT",
     "AMZN",
     "META",
     "AAPL",
-    "Baidu"
+    "NFLX"
   ],
   "key_products": [
     "Google Search",
     "YouTube",
-    "Google Ads",
-    "Google Cloud Platform",
-    "Android OS"
+    "Google Cloud",
+    "Android",
+    "Google Ads"
   ],
-  "extracted_at": "2026-06-23 17:53:14",
+  "extracted_at": "2026-06-24 17:50:08",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Alphabet_Inc.",
       "title": "Alphabet Inc.",
       "snippet": "Alphabet Inc. is an American multinational technology conglomerate holding company headquartered in Mountain View, California. It was created through a restructuring of Google on October 2, 2015, and "
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/Alphabet_Inc.",
+      "query": "Alphabet Inc. suppliers manufacturers",
+      "snippet": "Alphabet Inc . is an American multinational technology conglomerate holding company headquartered in Mountain View, California. It was created through"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/GOOG-Suppliers",
+      "query": "Alphabet Inc. suppliers manufacturers",
+      "snippet": "Jun 14, 2026 · Alphabet Inc 's Comment on Supply Chain We rely on third parties to manufacture many of our assemblies and finished products, and we ha"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/GOOG-Customers",
+      "query": "Alphabet Inc. major customers clients",
+      "snippet": "2 days ago · Alphabet Inc customers and markets, results by customer and performance relative to GOOG, by company and industry - CSIMarket"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.marketscreener.com/quote/stock/ALPHABET-INC-24203373/finances-segments/",
+      "query": "Alphabet Inc. major customers clients",
+      "snippet": "2 days ago · Understand how activity and revenue gets distributed for Alphabet Inc . (GOOGL). Ten-year segmentation history. The entire stock market i"
     }
   ]
 }

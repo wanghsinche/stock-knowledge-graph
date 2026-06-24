@@ -3,8 +3,8 @@ ticker: FDX
 company: FedEx Corporation
 sector: Industrials
 industry: Integrated Freight & Logistics
-extracted_at: 2026-05-04 17:27:25
-last_updated: 2026-05-04
+extracted_at: 2026-06-24 17:56:44
+last_updated: 2026-06-24
 ---
 
 # FDX - FedEx Corporation
@@ -12,46 +12,46 @@ last_updated: 2026-05-04
 ## 基本信息
 
 - **所属行业**: Industrials / Integrated Freight & Logistics
-- **提取时间**: 2026-05-04 17:27:25
+- **提取时间**: 2026-06-24 17:56:44
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Boeing]]
-- [[Airbus]]
-- [[Ford Motor Company]]
-- [[General Motors]]
-- [[CAT]]
+- [[FedEx Supply Chain]]
+- [[FedEx Ground]]
+- [[FedEx Freight]]
+- [[FedEx Express]]
+- [[FedEx Logistics]]
 
 ### 下游客户
 - [[AMZN]]
 - [[Walmart]]
 - [[eBay]]
-- [[Target]]
-- [[Small and medium‑size businesses]]
+- [[Coca‑Cola]]
+- [[Procter & Gamble]]
 
 ### 竞争对手
-- [[United Parcel Service (UPS)]]
-- [[DHL Express]]
-- [[United States Postal Service (USPS)]]
-- [[AMZN]]
-- [[XPO Logistics]]
+- [[UPS]]
+- [[DHL]]
+- [[USPS]]
+- [[Aramex]]
+- [[SF Express]]
 
 ### 核心产品
-- [[FedEx Express (air freight)]]
-- [[FedEx Ground (ground delivery)]]
-- [[FedEx Freight (LTL)]]
-- [[FedEx Office (printing & shipping)]]
-- [[FedEx Custom Critical (specialty logistics)]]
+- [[Express shipping]]
+- [[Freight services]]
+- [[Logistics solutions]]
+- [[E‑commerce fulfillment]]
+- [[Supply chain management]]
 
 ## 数据来源
 
 - [FedEx](https://en.wikipedia.org/wiki/FedEx_Corporation)
+- [FedEx Corporation suppliers manufacturers](https://en.wikipedia.org/wiki/FedEx_Supply_Chain)
 - [FedEx Corporation suppliers manufacturers](https://en.wikipedia.org/wiki/FedEx)
-- [FedEx Corporation suppliers manufacturers](https://ru.wikipedia.org/wiki/FedEx)
-- [FedEx Corporation major customers clients](https://en.wikipedia.org/wiki/FedEx)
-- [FedEx Corporation major customers clients](https://www.fedex.com/en-us/home.html)
+- [FedEx Corporation major customers clients](https://csimarket.com/stocks/FDX-Customers)
+- [FedEx Corporation major customers clients](https://portersfiveforce.com/blogs/target-market/fedex)
 
 ## 元数据
 
-- **更新日期**: 2026-05-04
+- **更新日期**: 2026-06-24

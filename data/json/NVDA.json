@@ -7,37 +7,61 @@
     "TSM",
     "005930.KS",
     "GlobalFoundries",
-    "UMC",
-    "ASE Group"
+    "ASE Technology Holding",
+    "MU"
   ],
   "downstream": [
-    "AMZN",
-    "GOOGL",
-    "MSFT",
-    "TSLA",
-    "BMW"
+    "ASUS",
+    "MSI",
+    "DELL",
+    "HPQ",
+    "TSLA"
   ],
   "competitors": [
     "AMD",
     "INTC",
     "QCOM",
     "AVGO",
-    "005930.KS"
+    "AAPL"
   ],
   "key_products": [
     "GeForce RTX GPUs",
     "Quadro RTX GPUs",
-    "Tesla GPUs",
-    "Jetson SoCs",
-    "DGX AI systems"
+    "Tesla V100 & A100 GPUs",
+    "NVIDIA DGX AI systems",
+    "Jetson AI edge platform"
   ],
-  "extracted_at": "2026-06-23 17:48:55",
+  "extracted_at": "2026-06-24 17:47:17",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/NVIDIA_Corporation",
       "title": "Nvidia",
       "snippet": "Nvidia Corporation is an American multinational technology company headquartered in Santa Clara, California. The company develops graphics processing units (GPUs), systems on chips (SoCs), and applica"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/Nvidia",
+      "query": "NVIDIA Corporation suppliers manufacturers",
+      "snippet": "2 weeks ago - In August 2025, Nvidia ordered ... concerns. The company directed suppliers including Taiwan Semiconductor Manufacturing Company, Samsun"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.accio.com/supplier/nvidia-supplier-list",
+      "query": "NVIDIA Corporation suppliers manufacturers",
+      "snippet": "April 24, 2026 - NVIDIA's key suppliers span various critical areas of semiconductor manufacturing and assembly. These include TSMC (Taiwan Semiconduc"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://stocksandfuturestrading.com/the-complete-list-of-nvidias-suppliers-and-consumers/",
+      "query": "NVIDIA Corporation major customers clients",
+      "snippet": "Nov 22, 2024 · NVIDIA has completed one of the most dramatic business transformations in market history — going from a gaming GPU company to the backb"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.fool.com/investing/2024/05/02/who-are-nvidias-largest-customers/",
+      "query": "NVIDIA Corporation major customers clients",
+      "snippet": "May 2, 2024 · Nvidia 's top customers Nvidia doesn't disclose who its biggest customer is. That's not surprising since that information would be valua"
     }
   ]
 }

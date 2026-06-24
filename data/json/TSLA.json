@@ -4,40 +4,68 @@
   "sector": "Consumer Cyclical",
   "industry": "Auto Manufacturers",
   "upstream": [
-    "Battery cell suppliers (e.g., Panasonic, LG Chem)",
-    "Semiconductor and electronics suppliers",
-    "Raw material providers (lithium, cobalt, nickel, aluminum)",
-    "Steel and aluminum alloy manufacturers",
-    "Component suppliers (suspension, braking, HVAC)"
+    "CAT",
+    "Panasonic",
+    "005930.KS",
+    "LG Chem",
+    "BYD"
   ],
   "downstream": [
-    "Individual vehicle buyers",
+    "Individual consumers",
     "Commercial fleet operators",
-    "Utility companies for grid‑scale storage",
-    "Residential customers for Powerwall",
-    "Solar installation contractors"
+    "Logistics companies",
+    "Government agencies",
+    "Retail partners"
   ],
   "competitors": [
-    "Ford Motor Company",
     "General Motors",
-    "Volkswagen Group",
-    "BYD",
-    "NIO"
+    "Ford",
+    "Volkswagen",
+    "Hyundai",
+    "Rivian"
   ],
   "key_products": [
     "Model S",
     "Model 3",
     "Model X",
     "Model Y",
-    "Cybertruck"
+    "Cybertruck",
+    "Powerwall",
+    "Powerpack",
+    "Solar Roof",
+    "Solar panels"
   ],
-  "extracted_at": "2026-06-23 17:49:12",
+  "extracted_at": "2026-06-24 17:47:59",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Tesla,_Inc.",
       "title": "Tesla, Inc.",
       "snippet": "Tesla, Inc. is an American multinational automotive and clean energy company. Headquartered in Austin, Texas, it designs, manufactures, and sells battery electric vehicles (BEVs), stationary battery e"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/TSLA-Suppliers",
+      "query": "Tesla, Inc. suppliers manufacturers",
+      "snippet": "Jun 14, 2026 · Tesla Inc supply chain, list and performance of Tesla Incs' suppliers - CSIMarket"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.suppliersmap.com/tesla",
+      "query": "Tesla, Inc. suppliers manufacturers",
+      "snippet": "Explore Tesla's key suppliers including CATL and Panasonic for batteries, Samsung for chips, Bosch for braking systems, and STMicroelectronics for pow"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/Tesla,_Inc.",
+      "query": "Tesla, Inc. major customers clients",
+      "snippet": "Tesla , Inc . is an American multinational automotive and clean energy company.The company was incorporated in July 2003 by Martin Eberhard and Marc T"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.tesla.com/",
+      "query": "Tesla, Inc. major customers clients",
+      "snippet": "Video Guides. Customer Stories. Events. Safety. Tesla Assist. Schedule a Drive Today."
     }
   ]
 }

@@ -1,43 +1,43 @@
 {
   "ticker": "SPCX",
-  "company_name": "Space Exploration Technologies Corp.",
-  "sector": "Industrials",
+  "company_name": "Space Exploration Technologies Corporation",
+  "sector": "Industrials / Aerospace & Defense",
   "industry": "Aerospace & Defense",
   "upstream": [
-    "Rocket engine component suppliers (e.g., Merlin engine parts)",
-    "Composite material manufacturers (e.g., aerospace composites)",
-    "Avionics and electronics suppliers (e.g., Honeywell)",
-    "Satellite component suppliers (e.g., solar panels, antennas)",
-    "Launch vehicle structural component suppliers"
+    "Rocket engine manufacturers (e.g., Pratt & Whitney Rocketdyne)",
+    "Composite material suppliers",
+    "Avionics and electronics suppliers",
+    "Propellant and fuel suppliers",
+    "Launch site infrastructure providers"
   ],
   "downstream": [
     "NASA",
     "U.S. Department of Defense",
-    "INTC",
-    "Starlink residential and business customers",
-    "International space agencies (e.g., ESA, Roscosmos)"
+    "Commercial satellite operators",
+    "Starlink broadband customers",
+    "International space agencies"
   ],
   "competitors": [
     "United Launch Alliance (ULA)",
     "Arianespace",
-    "Blue Origin",
     "Rocket Lab",
-    "Virgin Orbit"
+    "Blue Origin",
+    "Virgin Galactic"
   ],
   "key_products": [
     "Falcon 9 launch vehicle",
     "Falcon Heavy launch vehicle",
     "Starship launch vehicle",
     "Starlink satellite constellation",
-    "Reusable launch vehicle technology"
+    "Grok AI platform"
   ],
-  "extracted_at": "2026-06-23 17:48:04",
+  "extracted_at": "2026-06-24 17:47:49",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Space_Exploration_Technologies_Corp.",
       "title": "SpaceX",
-      "snippet": "Space Exploration Technologies Corporation, doing business as SpaceX, is an American public spaceflight, telecommunications, and artificial intelligence company headquartered at the Starbase developme"
+      "snippet": "Space Exploration Technologies Corporation, doing business as SpaceX, is an American spaceflight, telecommunications, and artificial intelligence company headquartered at the Starbase development site"
     },
     {
       "source": "DuckDuckGo",
