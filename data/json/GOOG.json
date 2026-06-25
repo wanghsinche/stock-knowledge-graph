@@ -5,33 +5,33 @@
   "industry": "Internet Content & Information",
   "upstream": [
     "INTC",
-    "DELL",
-    "MSFT",
+    "QCOM",
     "005930.KS",
-    "Advertising technology partners (Facebook, Twitter)"
+    "NVDA",
+    "CSCO"
   ],
   "downstream": [
+    "Advertisers (e.g., Walmart, Coca‑Cola)",
+    "005930.KS",
+    "YouTube content creators",
     "GOOGL",
-    "GOOGL",
-    "GOOGL",
-    "Consumers (Android users)",
-    "Content creators (YouTube creators)"
+    "GOOGL"
   ],
   "competitors": [
     "MSFT",
     "AMZN",
     "META",
     "AAPL",
-    "NFLX"
+    "Tencent"
   ],
   "key_products": [
     "Google Search",
     "YouTube",
-    "Google Cloud",
-    "Android",
+    "Android OS",
+    "Google Cloud Platform",
     "Google Ads"
   ],
-  "extracted_at": "2026-06-24 17:50:08",
+  "extracted_at": "2026-06-25 18:09:00",
   "sources": [
     {
       "source": "Wikipedia",
@@ -49,19 +49,19 @@
       "source": "DuckDuckGo",
       "url": "https://csimarket.com/stocks/GOOG-Suppliers",
       "query": "Alphabet Inc. suppliers manufacturers",
-      "snippet": "Jun 14, 2026 · Alphabet Inc 's Comment on Supply Chain We rely on third parties to manufacture many of our assemblies and finished products, and we ha"
+      "snippet": "Alphabet Inc supply chain, list and performance of Alphabet Incs ' suppliers - CSIMarket."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/GOOG-Customers",
+      "url": "https://en.wikipedia.org/wiki/Alphabet_Inc.",
       "query": "Alphabet Inc. major customers clients",
-      "snippet": "2 days ago · Alphabet Inc customers and markets, results by customer and performance relative to GOOG, by company and industry - CSIMarket"
+      "snippet": "Alphabet Inc . is an American multinational technology conglomerate holding company headquartered in Mountain View, California. It was created through"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.marketscreener.com/quote/stock/ALPHABET-INC-24203373/finances-segments/",
+      "url": "https://www.investing.com/equities/google-inc",
       "query": "Alphabet Inc. major customers clients",
-      "snippet": "2 days ago · Understand how activity and revenue gets distributed for Alphabet Inc . (GOOGL). Ten-year segmentation history. The entire stock market i"
+      "snippet": "Get detailed information about the Alphabet Inc . stock (GOOGL) including Price, Charts, Technical Analysis, Historical data, Alphabet Reports and mor"
     }
   ]
 }

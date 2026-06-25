@@ -3,8 +3,8 @@ ticker: ORCL
 company: Oracle Corporation
 sector: Technology
 industry: Software - Infrastructure
-extracted_at: 2026-06-24 17:49:58
-last_updated: 2026-06-24
+extracted_at: 2026-06-25 18:12:52
+last_updated: 2026-06-25
 ---
 
 # ORCL - Oracle Corporation
@@ -12,46 +12,46 @@ last_updated: 2026-06-24
 ## 基本信息
 
 - **所属行业**: Technology / Software - Infrastructure
-- **提取时间**: 2026-06-24 17:49:58
+- **提取时间**: 2026-06-25 18:12:52
 
 ## 产业链关系
 
 ### 上游供应商
+- [[INTC]]
 - [[AMD]]
-- [[DELL]]
-- [[MSFT]]
-- [[Software component suppliers (e.g., Red Hat, VMware)]]
+- [[NVDA]]
 - [[CSCO]]
+- [[DELL]]
 
 ### 下游客户
-- [[MSFT]]
-- [[AMZN]]
-- [[GOOGL]]
-- [[Financial institutions (e.g., JPMorgan, Bank of America)]]
-- [[Government agencies (e.g., U.S. Department of Defense)]]
+- [[AMD]]
+- [[ByteDance]]
+- [[META]]
+- [[NVDA]]
+- [[OpenAI]]
 
 ### 竞争对手
-- [[IBM]]
 - [[MSFT]]
-- [[SAP]]
 - [[AMZN]]
+- [[IBM]]
+- [[SAP]]
 - [[GOOGL]]
 
 ### 核心产品
 - [[Oracle Database]]
-- [[Oracle Cloud Infrastructure (OCI)]]
-- [[Oracle Autonomous Database]]
-- [[Oracle Fusion Applications]]
+- [[Oracle Cloud Infrastructure]]
 - [[Oracle ERP Cloud]]
+- [[Oracle Autonomous Database]]
+- [[Oracle Analytics Cloud]]
 
 ## 数据来源
 
 - [Oracle Corporation](https://en.wikipedia.org/wiki/Oracle_Corporation)
-- [Oracle Corporation suppliers manufacturers](https://en.wikipedia.org/wiki/Oracle_Corporation)
-- [Oracle Corporation suppliers manufacturers](https://www.oracle.com/scm/manufacturing/)
-- [Oracle Corporation major customers clients](https://en.wikipedia.org/wiki/Oracle_Corporation)
-- [Oracle Corporation major customers clients](https://cloudwars.com/cloud/larry-ellisons-masterpiece-microsoft-becomes-oracles-largest-customer-2/)
+- [Oracle Corporation suppliers manufacturers](https://adjkjc.github.io/en.wikipedia.org/wiki/Oracle_Corporation.html)
+- [Oracle Corporation suppliers manufacturers](https://csimarket.com/stocks/ORCL-Suppliers)
+- [Oracle Corporation major customers clients](https://www.oracle.com/)
+- [Oracle Corporation major customers clients](https://headquartersoffice.com/oracle/)
 
 ## 元数据
 
-- **更新日期**: 2026-06-24
+- **更新日期**: 2026-06-25

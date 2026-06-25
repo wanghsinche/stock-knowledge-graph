@@ -1,37 +1,37 @@
 {
   "ticker": "APP",
   "company_name": "AppLovin Corporation",
-  "sector": "Communication Services",
-  "industry": "Advertising Agencies",
+  "sector": "Communication Services / Advertising Agencies",
+  "industry": "Mobile Advertising / AdTech",
   "upstream": [
-    "GOOGL",
     "AAPL",
-    "Data and analytics vendors (e.g., Nielsen, App Annie)",
-    "Ad network and exchange partners",
-    "SDK and technology component suppliers"
+    "GOOGL",
+    "META",
+    "AMZN",
+    "Unity Technologies (ad tech infrastructure)"
   ],
   "downstream": [
-    "Mobile app developers (games, utilities, social apps)",
-    "Digital publishers and content platforms",
-    "Brand advertisers and marketing agencies",
-    "E‑commerce and retail app owners",
-    "Gaming studios and indie developers"
+    "Mobile app developers (indie and large studios)",
+    "Game publishers",
+    "E‑commerce app operators",
+    "Digital media companies",
+    "Social networking app developers"
   ],
   "competitors": [
     "Unity Ads",
     "AdColony",
     "Vungle",
     "Chartboost",
-    "Tapjoy"
+    "Facebook Audience Network"
   ],
   "key_products": [
-    "Mobile advertising SDK",
-    "App monetization platform",
-    "User acquisition & attribution tools",
-    "Video & native ad formats",
-    "Data analytics & audience insights"
+    "AppLovin SDK (mobile advertising)",
+    "MAX (mobile ad mediation platform)",
+    "AppLovin Data Platform (analytics & attribution)",
+    "AppLovin Audience Network (display & video ads)",
+    "LTV (Lifetime Value) optimization tools"
   ],
-  "extracted_at": "2026-06-24 17:54:44",
+  "extracted_at": "2026-06-25 18:24:16",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/APP-Suppliers",
+      "url": "https://www.applovin.com/",
       "query": "AppLovin Corporation suppliers manufacturers",
-      "snippet": "Applovin 's Suppliers recorded an increase in sales by 6.16 % year on year in Q4 2025, sequentially sales grew by 2285.92 %, Applovin 's cost of sales"
+      "snippet": "Let's get you in front of a billion customers. We built AppLovin for businesses like yours. Jewelry, furniture, fitness subscriptions, word games. Wha"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.hivelr.com/2025/01/applovin-app-porters-five-forces-industry-and-competition-analysis/",
+      "url": "https://csimarket.com/stocks/APP-technical-analysis",
       "query": "AppLovin Corporation suppliers manufacturers",
-      "snippet": "Jan 4, 2025 · The bargaining power of suppliers for AppLovin is low to moderate, as the company operates in a digital ecosystem where suppliers primar"
+      "snippet": "Analyse Applovin 's stock charts with over 30 different indicators - CSIMarket."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/AppLovin",
+      "url": "https://www.applovin.com/",
       "query": "AppLovin Corporation major customers clients",
-      "snippet": "AppLovin Corporation is an American mobile technology company headquartered in Palo Alto, California. [3] Founded in 2012, the company helps developer"
+      "snippet": "Let's get you in front of a billion customers . We built AppLovin for businesses like yours. Jewelry, furniture, fitness subscriptions, word games. Wh"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.appsruntheworld.com/customers-database/vendors/view/applovin",
+      "url": "https://www.bitget.com/wiki/app-loving-stock",
       "query": "AppLovin Corporation major customers clients",
-      "snippet": "List of companies using or evaluating Applovin applications, with details on their revenues, employees, industries, and locations."
+      "snippet": "app loving stock commonly refers to AppLovin Corporation , a U.S.-based advertising technology and mobile software company. AppLovin was founded in 20"
     }
   ]
 }

@@ -3,8 +3,8 @@ ticker: PLTR
 company: Palantir Technologies Inc.
 sector: Technology
 industry: Software - Infrastructure
-extracted_at: 2026-06-24 17:49:48
-last_updated: 2026-06-24
+extracted_at: 2026-06-25 18:08:28
+last_updated: 2026-06-25
 ---
 
 # PLTR - Palantir Technologies Inc.
@@ -12,7 +12,7 @@ last_updated: 2026-06-24
 ## 基本信息
 
 - **所属行业**: Technology / Software - Infrastructure
-- **提取时间**: 2026-06-24 17:49:48
+- **提取时间**: 2026-06-25 18:08:28
 
 ## 产业链关系
 
@@ -21,37 +21,37 @@ last_updated: 2026-06-24
 - [[MSFT]]
 - [[GOOGL]]
 - [[DELL]]
-- [[CSCO]]
+- [[IBM]]
 
 ### 下游客户
 - [[U.S. Department of Defense]]
 - [[INTC]]
-- [[FBI]]
-- [[Walmart]]
+- [[Federal Bureau of Investigation]]
 - [[JPMorgan Chase]]
+- [[Airbus]]
 
 ### 竞争对手
 - [[Snowflake]]
-- [[Splunk]]
 - [[Databricks]]
-- [[Alteryx]]
-- [[Qlik]]
+- [[Splunk]]
+- [[Tableau]]
+- [[MSFT]]
 
 ### 核心产品
 - [[Palantir Foundry]]
 - [[Palantir Gotham]]
 - [[Palantir Apollo]]
-- [[Palantir Helios]]
-- [[Palantir Platform]]
+- [[Palantir Helix]]
+- [[Palantir Metropolis]]
 
 ## 数据来源
 
 - [Palantir](https://en.wikipedia.org/wiki/Palantir_Technologies_Inc.)
-- [Palantir Technologies Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/Palantir)
-- [Palantir Technologies Inc. suppliers manufacturers](https://www.palantir.com/offerings/supply-chain/)
-- [Palantir Technologies Inc. major customers clients](https://www.designgurus.io/answers/detail/who-are-the-main-customers-of-palantir)
-- [Palantir Technologies Inc. major customers clients](https://data.landbase.com/technology/palantir/)
+- [Palantir Technologies Inc. suppliers manufacturers](https://www.businesswire.com/news/home/20240807171687/en/From-the-Farm-to-the-Frosty-Palantir-and-Wendys-Partner-on-AI-and-Supply-Chain-Digitalization)
+- [Palantir Technologies Inc. suppliers manufacturers](https://finance.yahoo.com/quote/PLTR/)
+- [Palantir Technologies Inc. major customers clients](https://en.wikipedia.org/wiki/Palantir)
+- [Palantir Technologies Inc. major customers clients](https://finance.yahoo.com/quote/PLTR/)
 
 ## 元数据
 
-- **更新日期**: 2026-06-24
+- **更新日期**: 2026-06-25

@@ -5,21 +5,21 @@
   "industry": "Banks - Diversified",
   "upstream": [
     "MSFT",
-    "MSFT",
-    "Data analytics vendors (e.g., Bloomberg, Thomson Reuters)",
-    "Security and cyber‑defense vendors",
-    "Payment processing platforms (e.g., Visa, Mastercard, Stripe)"
+    "Payment processors (e.g., Visa, Mastercard)",
+    "Data providers (e.g., Bloomberg, Thomson Reuters)",
+    "AMZN",
+    "Cybersecurity firms (e.g., Palo Alto Networks)"
   ],
   "downstream": [
     "Retail banking customers",
     "Corporate and institutional clients",
-    "High‑net‑worth individuals",
-    "Government and public‑sector entities",
-    "Investment and wealth‑management clients"
+    "High‑net‑worth individuals (wealth management)",
+    "Small and medium‑enterprise borrowers",
+    "Government and public sector entities"
   ],
   "competitors": [
-    "Bank of America",
     "Citigroup",
+    "Bank of America",
     "Wells Fargo",
     "Goldman Sachs",
     "Morgan Stanley"
@@ -27,29 +27,17 @@
   "key_products": [
     "Retail banking services",
     "Investment banking and advisory",
-    "Asset management",
-    "Wealth management",
-    "Credit card and consumer lending"
+    "Asset and wealth management",
+    "Credit card and consumer lending",
+    "Treasury and cash management"
   ],
-  "extracted_at": "2026-06-22 19:32:17",
+  "extracted_at": "2026-06-25 18:15:39",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/JPMorgan_Chase_&_Co.",
       "title": "JPMorgan Chase",
       "snippet": "JPMorgan Chase & Co. is an American multinational banking institution headquartered in New York City and incorporated in Delaware. It is the largest bank in the United States, and the world's largest "
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.jpmorganchase.com/about/suppliers",
-      "query": "JPMorgan Chase & Co. suppliers manufacturers",
-      "snippet": "Suppliers An inclusive supply chain where every business, including but not limited to small and diverse businesses, has the opportunity to be conside"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://jpmorganchase.suppliergateway.com/",
-      "query": "JPMorgan Chase & Co. suppliers manufacturers",
-      "snippet": "To provide opportunities for JPMorganChase to engage with a wide range suppliers , we have created a Supplier Network through which all prospective su"
     },
     {
       "source": "DuckDuckGo",
@@ -62,6 +50,18 @@
       "url": "https://www.jpmorganchase.com/",
       "query": "JPMorgan Chase & Co. major customers clients",
       "snippet": "JPMorganChase serves millions of customers , clients and communities in over 100 global markets.We are united by a purpose that weaves together what w"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/JPMorgan_Chase",
+      "query": "JPMorgan Chase & Co. competitors alternatives",
+      "snippet": "JPMorgan Chase & Co . (stylized as JPMorganChase ) is an American multinational banking institution headquartered in New York City and incorporated in"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://bullfincher.io/companies/jpmorgan-chase-co/competitors",
+      "query": "JPMorgan Chase & Co. competitors alternatives",
+      "snippet": "JPMorgan Chase & Co .'s competitors include Citigroup, Bank of America Corporation and more. Discover more competitors and create your own custom side"
     }
   ]
 }

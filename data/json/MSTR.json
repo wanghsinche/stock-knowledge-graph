@@ -1,37 +1,37 @@
 {
   "ticker": "MSTR",
-  "company_name": "Strategy Inc",
+  "company_name": "MicroStrategy Incorporated",
   "sector": "Technology",
   "industry": "Software - Application",
   "upstream": [
     "MSFT",
+    "AMZN",
+    "GOOGL",
     "ORCL",
-    "IBM",
-    "Mosaic",
-    "AMZN"
+    "IBM"
   ],
   "downstream": [
-    "Healthcare",
-    "Financial Services",
-    "Retail",
-    "Manufacturing",
-    "Government"
+    "IBM",
+    "SAP",
+    "ORCL",
+    "MSFT",
+    "AMZN"
   ],
   "competitors": [
     "SAP SE Business Objects",
     "IBM",
     "ORCL",
-    "MSFT",
-    "Tableau"
+    "CRM",
+    "Qlik"
   ],
   "key_products": [
-    "MicroStrategy Analytics Platform",
-    "Strategy Solutions",
-    "Mobile Analytics Apps",
-    "Data Visualization Tools",
-    "Enterprise BI Suite"
+    "MicroStrategy Desktop",
+    "MicroStrategy Server",
+    "MicroStrategy Cloud",
+    "MicroStrategy Mobile",
+    "MicroStrategy Analytics"
   ],
-  "extracted_at": "2026-06-24 17:51:25",
+  "extracted_at": "2026-06-25 18:11:40",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.strategy.com/software",
+      "url": "https://csimarket.com/stocks/competitionSEG2.php?code=STRF",
       "query": "Strategy Inc suppliers manufacturers",
-      "snippet": "Strategy Solutions powered by Mosaic provide a universal semantic layer that unifies enterprise data, governs business metrics, and delivers trusted A"
+      "snippet": "Strategy Inc Executive Officers. Economic Indicators. Strategy Inc Competitors Results. STRF vs Competitors Stock Performance."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://prgnpi.com/developing-an-effective-supply-chain-strategy/",
+      "url": "https://finance.yahoo.com/quote/MSTR/",
       "query": "Strategy Inc suppliers manufacturers",
-      "snippet": "Feb 29, 2024 · A well-designed supply chain strategy enables companies to reliably deliver product, reduce costs, and enhance customer satisfaction."
+      "snippet": "Find the latest Strategy Inc (MSTR) stock quote, history, news and other vital information to help you with your stock trading and investing."
     },
     {
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/MicroStrategy",
       "query": "Strategy Inc major customers clients",
-      "snippet": "Strategy Inc ., formerly known as MicroStrategy,[1] is an American company that provides business intelligence (BI) and mobile software. Founded in 19"
+      "snippet": "Strategy Inc ., formerly known as MicroStrategy, is an American company that provides business intelligence and mobile software. Founded in 1989 by Mi"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.strategy.com/software/customer-stories",
+      "url": "https://finance.yahoo.com/quote/MSTR/",
       "query": "Strategy Inc major customers clients",
-      "snippet": "Dive into Strategy customer stories highlighting the impact of Analytics in Healthcare, Financial Services, Call Centers, Retail, Insurance, and Gover"
+      "snippet": "Find the latest Strategy Inc (MSTR) stock quote, history, news and other vital information to help you with your stock trading and investing."
     }
   ]
 }

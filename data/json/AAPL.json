@@ -4,34 +4,34 @@
   "sector": "Technology",
   "industry": "Consumer Electronics",
   "upstream": [
-    "Foxconn (Hon Hai Precision)",
-    "Pegatron",
-    "Wistron",
+    "Foxconn (Hon Hai Precision Industry)",
     "TSM",
-    "005930.KS"
+    "005930.KS",
+    "LG Display",
+    "SK Hynix"
   ],
   "downstream": [
-    "iPhone users",
-    "iPad users",
-    "Mac users",
+    "iPhone customers",
+    "iPad customers",
+    "Mac customers",
     "AAPL",
     "AAPL"
   ],
   "competitors": [
     "005930.KS",
-    "GOOGL",
     "MSFT",
-    "AMZN",
-    "Huawei"
+    "GOOGL",
+    "Huawei",
+    "Xiaomi"
   ],
   "key_products": [
     "iPhone",
     "iPad",
     "Mac",
     "Apple Watch",
-    "AirPods"
+    "Apple TV"
   ],
-  "extracted_at": "2026-06-24 17:49:08",
+  "extracted_at": "2026-06-25 18:04:04",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,25 +43,25 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/List_of_Apple_Inc._suppliers",
       "query": "Apple Inc. suppliers manufacturers",
-      "snippet": "In 1985, Apple reduced its parts suppliers from 1,500 to 250 and closed down plants in Texas, Ireland, and California. [2]: 182–190 In the mid-1980s, "
+      "snippet": "Apple is an American technology company with a global supply chain. Until 2003, Apple 's own factories in the United States, Singapore, and Ireland we"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.apple.com/supply-chain/",
+      "url": "https://csimarket.com/stocks/suppliers_glance.php?code=AAPL",
       "query": "Apple Inc. suppliers manufacturers",
-      "snippet": "Our supply chain includes thousands of supplier facilities in over 60 countries. Suppliers support every stage of the Apple product lifecycle, and we "
+      "snippet": "Apple Inc supply chain, list and performance of Apple Incs ' suppliers - CSIMarket."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/AAPL-Customers",
+      "url": "https://en.wikipedia.org/wiki/Apple_Inc.",
       "query": "Apple Inc. major customers clients",
-      "snippet": "Apple Inc 's Comment on Sales, Marketing and Customers The Company’s customers are primarily in the consumer, SMB, education, enterprise and governmen"
+      "snippet": "Apple Inc . is an American multinational technology company headquartered in Cupertino, California, in Silicon Valley, and known for consumer electron"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.appsruntheworld.com/customers-database/vendors/view/apple",
+      "url": "https://www.apple.com/",
       "query": "Apple Inc. major customers clients",
-      "snippet": "List of companies using or evaluating Apple applications, with details on their revenues, employees, industries, and locations."
+      "snippet": "Neither Apple Inc . nor Apple Payments Services LLC is a bank. All communications from Apple and Goldman Sachs Bank USA about Apple Card (including tr"
     }
   ]
 }

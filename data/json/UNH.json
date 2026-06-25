@@ -2,36 +2,36 @@
   "ticker": "UNH",
   "company_name": "UnitedHealth Group Incorporated",
   "sector": "Healthcare",
-  "industry": "Health Insurance / Health Care Services",
+  "industry": "Healthcare Plans",
   "upstream": [
-    "Medical device manufacturers",
-    "Pharmaceutical suppliers",
-    "Health information technology vendors",
-    "Pharmacy benefit managers",
-    "Telehealth platform providers"
+    "Pfizer",
+    "Johnson & Johnson",
+    "Merck & Co.",
+    "AbbVie",
+    "Medtronic"
   ],
   "downstream": [
+    "Medicare",
+    "Medicaid",
     "Large corporate employers",
-    "Government agencies (Medicare, Medicaid)",
     "Individual consumers",
-    "Health care providers (hospitals, clinics)",
-    "Health plans of other insurers"
+    "Government agencies"
   ],
   "competitors": [
-    "Anthem, Inc.",
-    "Aetna (CVS Health)",
-    "Cigna Corporation",
-    "Humana Inc.",
-    "Kaiser Permanente"
+    "Anthem",
+    "Aetna",
+    "Cigna",
+    "Humana",
+    "Blue Cross Blue Shield"
   ],
   "key_products": [
-    "Commercial health insurance plans",
-    "Medicare Advantage plans",
+    "Health insurance plans",
+    "Medicare Advantage",
     "Medicaid managed care",
-    "Optum health services (pharmacy, data analytics, care delivery)",
-    "UnitedHealthcare employer group plans"
+    "Pharmacy benefit management (OptumRx)",
+    "Health data analytics (OptumInsight)"
   ],
-  "extracted_at": "2026-06-24 17:56:31",
+  "extracted_at": "2026-06-25 18:22:03",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.unitedhealthgroup.com/suppliers/information.html",
+      "url": "https://finance.yahoo.com/quote/UNH/",
       "query": "UnitedHealth Group Incorporated suppliers manufacturers",
-      "snippet": "Supplier Community Portal At UnitedHealth Group , we search for suppliers that help us deliver best-in-class services to our customers. These partners"
+      "snippet": "UnitedHealth Group Incorporated Overview Healthcare Plans / Healthcare. UnitedHealth Group Incorporated operates as a health care company in the Unite"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.unitedhealthgroup.com/suppliers/information/vendor-portal.html",
+      "url": "https://de.tradingview.com/symbols/VIE-UNH/bonds/",
       "query": "UnitedHealth Group Incorporated suppliers manufacturers",
-      "snippet": "Vendor Portal Information for Current Suppliers UnitedHealth Group uses the eGRC (Enterprise Governance, Risk & Compliance) External Vendor Portal to "
+      "snippet": "Anleihen. Unten befindet sich eine Liste von UnitedHealth Group Incorporated Unternehmensanleihen. Investoren entscheiden sich oft für Unternehmensanl"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/UnitedHealth_Group",
+      "url": "https://www.uhc.com/",
       "query": "UnitedHealth Group Incorporated major customers clients",
-      "snippet": "UnitedHealth Group Incorporated is an American multinational for-profit company based in Eden Prairie, Minnesota, specializing in health insurance and"
+      "snippet": "Explore health insurance options including Medicare, Medicaid, individual and family, short term and dental, as well as employer plans. Group plans fo"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.unitedhealthgroup.com/uhg/businesses.html",
+      "url": "https://finance.yahoo.com/quote/UNH/",
       "query": "UnitedHealth Group Incorporated major customers clients",
-      "snippet": "UnitedHealth Group is a health care and well-being company with team members in two distinct and complementary businesses — Optum and UnitedHealthcare"
+      "snippet": "UnitedHealth Group Incorporated Overview Healthcare Plans / Healthcare. UnitedHealth Group Incorporated operates as a health care company in the Unite"
     }
   ]
 }

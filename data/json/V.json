@@ -2,36 +2,36 @@
   "ticker": "V",
   "company_name": "Visa Inc.",
   "sector": "Financial Services / Credit Services",
-  "industry": "Payment Services",
+  "industry": "Payment Processing",
   "upstream": [
-    "Gemalto (now part of Thales)",
-    "IDEMIA",
-    "NXP Semiconductors",
-    "Cypress Semiconductor",
-    "Microchip Technology"
+    "Banks (issuers)",
+    "Chip manufacturers (NXP, STMicroelectronics)",
+    "ORCL",
+    "CSCO",
+    "Payment processors (VisaNet)"
   ],
   "downstream": [
-    "Bank of America",
-    "Citibank",
-    "Wells Fargo",
-    "Walmart",
-    "AMZN"
+    "AMZN",
+    "Financial institutions (JPMorgan Chase, Bank of America)",
+    "Card issuers (Citibank, Wells Fargo)",
+    "Consumers (individual cardholders)",
+    "E-commerce platforms (eBay, Shopify)"
   ],
   "competitors": [
     "Mastercard",
     "American Express",
-    "Discover Financial",
+    "Discover",
     "PayPal",
     "Square"
   ],
   "key_products": [
-    "Visa credit cards",
-    "Visa debit cards",
-    "Visa prepaid cards",
-    "Visa payment network",
-    "Visa Digital Wallet"
+    "Visa Credit Card",
+    "Visa Debit Card",
+    "Visa Prepaid Card",
+    "VisaNet payment network",
+    "Visa Direct"
   ],
-  "extracted_at": "2026-06-22 19:32:30",
+  "extracted_at": "2026-06-25 18:27:50",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,13 +43,13 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Visa_Inc.",
       "query": "Visa Inc. suppliers manufacturers",
-      "snippet": "Visa Inc . is an American multinational payment card services corporation headquartered in San Francisco, California. It facilitates electronic funds "
+      "snippet": "Visa Inc . is an American multinational payment card services corporation headquartered in San Francisco, California."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/V-Suppliers",
+      "url": "https://ru.wikipedia.org/wiki/Visa",
       "query": "Visa Inc. suppliers manufacturers",
-      "snippet": "Visa Inc supply chain, list and performance of Visa Incs ' suppliers - CSIMarket."
+      "snippet": "Visa Inc . — американская транснациональная компания, предоставляющая услуги проведения платёжных операций. Является основой одноимённой ассоциации. С"
     },
     {
       "source": "DuckDuckGo",

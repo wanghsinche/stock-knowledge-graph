@@ -4,18 +4,18 @@
   "sector": "Communication Services",
   "industry": "Internet Content & Information",
   "upstream": [
-    "QCOM",
     "NVDA",
     "INTC",
     "AMD",
-    "AAPL"
+    "QCOM",
+    "005930.KS"
   ],
   "downstream": [
-    "Advertisers (brands & agencies)",
-    "Small & medium businesses",
+    "Advertisers (e.g., Coca‑Cola, Nike)",
     "App developers",
     "Content creators",
-    "Media partners"
+    "META",
+    "Consumers of social media"
   ],
   "competitors": [
     "GOOGL",
@@ -29,11 +29,9 @@
     "Instagram",
     "WhatsApp",
     "Messenger",
-    "Threads",
-    "Meta Ads Platform",
-    "Oculus VR"
+    "Meta Ads"
   ],
-  "extracted_at": "2026-06-24 17:49:36",
+  "extracted_at": "2026-06-25 18:08:15",
   "sources": [
     {
       "source": "Wikipedia",
@@ -55,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/META-Customers",
+      "url": "https://investor.atmeta.com/",
       "query": "Meta Platforms, Inc. major customers clients",
-      "snippet": "5 days ago · Meta Platforms Inc 's Comment on Sales, Marketing and Customers The majority of our marketers use our self-service ad platform to establi"
+      "snippet": "Investor Education Center. Meta for Business. Meta Ads Guide."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.statista.com/topics/9038/meta-platforms/",
+      "url": "https://www.benzinga.com/analyst-ratings/analyst-color/24/09/41046013/metas-ai-breakthroughs-dominate-connect-event-as-analyst-highlights-affordable-mixe",
       "query": "Meta Platforms, Inc. major customers clients",
-      "snippet": "Dec 17, 2025 · Meta Platforms - statistics & facts The rise and rise of Facebook led to the creation of one of the most influential companies in the w"
+      "snippet": "META Logo. METAMeta Platforms Inc .Though still in prototype, Meta believes Orion has the potential to be a game-changing platform . Anmuth also highl"
     }
   ]
 }

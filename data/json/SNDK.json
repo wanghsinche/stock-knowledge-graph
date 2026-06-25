@@ -1,37 +1,37 @@
 {
   "ticker": "SNDK",
-  "company_name": "Sandisk Corporation",
-  "sector": "Technology",
-  "industry": "Computer Hardware",
+  "company_name": "SanDisk Corporation",
+  "sector": "Technology / Computer Hardware",
+  "industry": "Computer Storage & Semiconductors",
   "upstream": [
-    "WDC",
+    "GIGAPC Corporation",
+    "MU",
     "005930.KS",
     "SK Hynix",
-    "MU",
-    "Toshiba Memory"
+    "Nanya Technology"
   ],
   "downstream": [
+    "MSFT",
     "AAPL",
     "DELL",
     "HPQ",
-    "Lenovo Group",
-    "005930.KS"
+    "IBM"
   ],
   "competitors": [
-    "MU",
-    "005930.KS",
     "WDC",
+    "STX",
     "Kingston Technology",
-    "MU"
+    "MU",
+    "005930.KS"
   ],
   "key_products": [
-    "Solid‑State Drives (SSDs)",
-    "USB Flash Drives",
-    "SD/CF/SDXC Memory Cards",
-    "Embedded Flash Memory",
-    "Enterprise Storage Solutions"
+    "Solid State Drives (SSDs)",
+    "USB flash drives",
+    "SD cards",
+    "MicroSD cards",
+    "External hard drives"
   ],
-  "extracted_at": "2026-06-24 17:47:27",
+  "extracted_at": "2026-06-25 18:02:53",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,7 +43,7 @@
       "source": "DuckDuckGo",
       "url": "https://www.sandisk.com/company/distributors",
       "query": "Sandisk Corporation suppliers manufacturers",
-      "snippet": "Region · Loading Region · Country/Area · Loading Country/Area · Brand · Loading Brand · Distributors | SanDisk"
+      "snippet": "GIGAPC Corporation · 430 8th Ave N. Seattle, WA 98109 · Tel: 206-624-1100 · Glazers Camera · 430 8th Ave N. Seattle, WA 98109 · Tel: 206-624-1100 · Gl"
     },
     {
       "source": "DuckDuckGo",
@@ -53,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://data.landbase.com/technology/sandisk/",
+      "url": "https://en.wikipedia.org/wiki/Sandisk",
       "query": "Sandisk Corporation major customers clients",
-      "snippet": "Aug 17, 2025 · We have data on 324 companies that use SanDisk. Our SanDisk customers list is available for download and comes enriched with vital comp"
+      "snippet": "5 days ago - On November 8, 1995, SunDisk changed its name to SanDisk to avoid confusion with Sun Microsystems, and went public under the new name via"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.appsruntheworld.com/customers-database/vendors/view/sandisk",
+      "url": "https://csimarket.com/stocks/markets_glance.php?code=SNDK",
       "query": "Sandisk Corporation major customers clients",
-      "snippet": "List of companies using or evaluating SanDisk applications, with details on their revenues, employees, industries, and locations."
+      "snippet": "6 days ago - Sandisk customers and markets, results by customer and performance relative to SNDK, by company and industry - CSIMarket"
     }
   ]
 }

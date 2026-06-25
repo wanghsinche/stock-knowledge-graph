@@ -1,8 +1,8 @@
 {
   "ticker": "CSCO",
   "company_name": "Cisco Systems, Inc.",
-  "sector": "Technology",
-  "industry": "Communication Equipment",
+  "sector": "Technology / Communication Equipment",
+  "industry": "Networking Equipment",
   "upstream": [
     "INTC",
     "AVGO",
@@ -11,27 +11,29 @@
     "NVDA"
   ],
   "downstream": [
-    "AT&T",
-    "Verizon",
-    "GOOGL",
-    "MSFT",
-    "U.S. Department of Defense"
+    "CAT",
+    "Enterprise IT departments",
+    "Government agencies",
+    "Service providers",
+    "CAT"
   ],
   "competitors": [
     "JNPR",
     "Huawei",
     "ANET",
-    "Fortinet",
-    "Palo Alto Networks"
+    "Nokia",
+    "Ericsson"
   ],
   "key_products": [
     "Cisco routers",
     "Cisco switches",
-    "Cisco security appliances",
-    "Webex",
-    "OpenDNS"
+    "Cisco firewalls (ASA)",
+    "Cisco Webex",
+    "Cisco OpenDNS",
+    "Cisco Jabber",
+    "Cisco Meraki"
   ],
-  "extracted_at": "2026-06-19 17:56:20",
+  "extracted_at": "2026-06-25 18:25:01",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,9 +49,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.alibaba.com/",
+      "url": "https://www.cisco.com/",
       "query": "Cisco Systems, Inc. suppliers manufacturers",
-      "snippet": "Find quality Manufacturers , Suppliers , Exporters, Importers, Buyers, Wholesalers, Products and Trade Leads from our award-winning International Trad"
+      "snippet": "Cisco is a worldwide technology leader powering an inclusive future for all. Learn more about our products, services, solutions, and innovations. Cisc"
     },
     {
       "source": "DuckDuckGo",
@@ -61,7 +63,7 @@
       "source": "DuckDuckGo",
       "url": "https://www.cisco.com/",
       "query": "Cisco Systems, Inc. major customers clients",
-      "snippet": "Cisco is a worldwide technology leader powering an inclusive future for all.Join us to take advantage of the latest networking opportunities with Cisc"
+      "snippet": "Cisco is a worldwide technology leader powering an inclusive future for all. Learn more about our products, services, solutions, and innovations.39M N"
     }
   ]
 }

@@ -3,11 +3,35 @@
   "company_name": "Corning Incorporated",
   "sector": "Technology",
   "industry": "Electronic Components",
-  "upstream": [],
-  "downstream": [],
-  "competitors": [],
-  "key_products": [],
-  "extracted_at": "2026-06-24 17:50:43",
+  "upstream": [
+    "Silica sand suppliers",
+    "Alumina producers",
+    "Boron and boric acid manufacturers",
+    "Chemical feedstock suppliers",
+    "Glass manufacturing equipment vendors"
+  ],
+  "downstream": [
+    "AAPL",
+    "005930.KS",
+    "SONY",
+    "Canon Inc. (lens systems)",
+    "Nikon Corporation (optical components)"
+  ],
+  "competitors": [
+    "Schott AG",
+    "Saint‑Gobain",
+    "Asahi Glass Co., Ltd. (AGC)",
+    "Owens‑Illinois, Inc.",
+    "Lumen Technologies (formerly LPKF)"
+  ],
+  "key_products": [
+    "Optical fiber",
+    "Glass fiber",
+    "Optical lenses",
+    "Display glass",
+    "Fiber‑optic cables"
+  ],
+  "extracted_at": "2026-06-25 18:08:44",
   "sources": [
     {
       "source": "Wikipedia",
@@ -26,6 +50,18 @@
       "url": "https://www.corning.com/worldwide/en.html",
       "query": "Corning Incorporated suppliers manufacturers",
       "snippet": "Corning Incorporated is a global-leading innovator in materials science, with 170 years of life-changing inventions and category-defining products."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/Corning_Inc.",
+      "query": "Corning Incorporated major customers clients",
+      "snippet": "Corning Incorporated is an American multinational technology company specializing in glass, ceramics, and related materials and technologies including"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.linkedin.com/company/corning-incorporated",
+      "query": "Corning Incorporated major customers clients",
+      "snippet": "Corning Incorporated | 243,050 followers on LinkedIn. Corning succeeds through sustained investment in RD&E, a unique combination of material and proc"
     }
   ]
 }

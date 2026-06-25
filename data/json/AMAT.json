@@ -3,11 +3,34 @@
   "company_name": "Applied Materials, Inc.",
   "sector": "Technology",
   "industry": "Semiconductor Equipment & Materials",
-  "upstream": [],
-  "downstream": [],
-  "competitors": [],
-  "key_products": [],
-  "extracted_at": "2026-06-24 17:51:03",
+  "upstream": [
+    "Sumitomo Chemical",
+    "Shin‑Etsu Chemical",
+    "Air Liquide",
+    "Linde",
+    "KLA Corporation"
+  ],
+  "downstream": [
+    "INTC",
+    "005930.KS",
+    "TSM",
+    "MU",
+    "QCOM"
+  ],
+  "competitors": [
+    "ASML",
+    "LRCX",
+    "Tokyo Electron",
+    "KLA Corporation"
+  ],
+  "key_products": [
+    "Semiconductor processing equipment",
+    "Etching equipment",
+    "Deposition equipment",
+    "Metrology equipment",
+    "Packaging equipment"
+  ],
+  "extracted_at": "2026-06-25 18:07:15",
   "sources": [
     {
       "source": "Wikipedia",
@@ -23,9 +46,21 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://simplywall.st/stocks/us/semiconductors/nasdaq-amat/applied-materials",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-applied-materials-inc-amat-185920007.html",
       "query": "Applied Materials, Inc. suppliers manufacturers",
-      "snippet": "Applied Materials , Inc . NasdaqGS: AMAT Stock Report. Market Cap: US$450.4b. Applied Materials sits in the middle of the surge in demand for advanced"
+      "snippet": "Applied Materials Inc (NASDAQ: AMAT ) is one of billionaire Ken Fisher’s top high growth stock picks.To strengthen its supply chain resilience, Applie"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.appliedmaterials.com/us/en.html",
+      "query": "Applied Materials, Inc. major customers clients",
+      "snippet": "Applied Materials , Inc . is the leader in materials engineering solutions that are at the foundation of virtually every new semiconductor and advance"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-applied-materials-inc-amat-080820141.html",
+      "query": "Applied Materials, Inc. major customers clients",
+      "snippet": "Applied Materials , Inc . (NASDAQ: AMAT ) is among the stocks with the best earnings growth for the next 3 years. On June 15, Applied Materials , Inc "
     }
   ]
 }

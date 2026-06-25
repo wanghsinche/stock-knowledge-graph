@@ -4,40 +4,64 @@
   "sector": "Technology",
   "industry": "Information Technology Services",
   "upstream": [
+    "INTC",
     "AMD",
-    "DELL",
-    "MSFT",
-    "MSFT",
-    "CSCO"
+    "NVDA",
+    "QCOM",
+    "MSFT"
   ],
   "downstream": [
-    "Government agencies (e.g., U.S. Department of Defense)",
-    "Financial institutions (e.g., banks, insurance companies)",
-    "Healthcare organizations (e.g., hospitals, pharma)",
-    "Large enterprises (e.g., manufacturing, retail)",
-    "Academic and research institutions"
+    "U.S. Federal Government",
+    "Bank of America",
+    "UnitedHealth Group",
+    "General Electric",
+    "NASA"
   ],
   "competitors": [
     "MSFT",
-    "Accenture",
+    "AMZN",
+    "GOOGL",
     "ORCL",
-    "SAP",
-    "CSCO"
+    "SAP"
   ],
   "key_products": [
     "IBM Cloud",
     "IBM Watson AI",
+    "IBM Security",
     "IBM Power Systems",
-    "IBM Security solutions",
-    "IBM Analytics & Data Platforms"
+    "IBM Quantum"
   ],
-  "extracted_at": "2026-06-23 17:57:18",
+  "extracted_at": "2026-06-25 18:17:21",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/International_Business_Machines_Corporation",
       "title": "IBM",
       "snippet": "International Business Machines Corporation, doing business as IBM, is an American multinational technology company headquartered in Armonk, New York, and present in over 175 countries. It is a public"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://ru.wikipedia.org/wiki/IBM",
+      "query": "International Business Machines Corporation suppliers manufacturers",
+      "snippet": "International Business Machines ) — американская компания со штаб-квартирой в Армонке[англ.] (штат Нью-Йорк), один из крупнейших в мире производителей"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.made-in-china.com/",
+      "query": "International Business Machines Corporation suppliers manufacturers",
+      "snippet": "Find reliable China Suppliers , Manufacturers , Factories, Wholesalers & Exporters on the leading B2B e-commerce website Made-in-China.com.MEI Awards-"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://dhan.co/us-stocks/IBM-international-business-machines-corp-share-price/",
+      "query": "International Business Machines Corporation major customers clients",
+      "snippet": "International Business Machines Corp . IBM Share PriceTechnology. $ 249.67. INTERNATIONAL BUS MACH CORP Return Calculator. You have invested. Investme"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.insidermonkey.com/blog/jim-cramer-on-international-business-machines-astonishing-decline-for-a-company-that-is-actually-doing-quite-well-1704138/",
+      "query": "International Business Machines Corporation major customers clients",
+      "snippet": "International Business Machines Corporation (NYSE:IBM) provides software, consulting, and cloud and on-site technology solutions, along with financing"
     }
   ]
 }

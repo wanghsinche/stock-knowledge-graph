@@ -3,8 +3,8 @@ ticker: AZO
 company: AutoZone, Inc.
 sector: Consumer Cyclical
 industry: Auto Parts
-extracted_at: 2026-06-24 17:54:09
-last_updated: 2026-06-24
+extracted_at: 2026-06-25 18:19:51
+last_updated: 2026-06-25
 ---
 
 # AZO - AutoZone, Inc.
@@ -12,7 +12,7 @@ last_updated: 2026-06-24
 ## 基本信息
 
 - **所属行业**: Consumer Cyclical / Auto Parts
-- **提取时间**: 2026-06-24 17:54:09
+- **提取时间**: 2026-06-25 18:19:51
 
 ## 产业链关系
 
@@ -20,38 +20,39 @@ last_updated: 2026-06-24
 - [[Bosch]]
 - [[Denso]]
 - [[Delphi]]
-- [[Magna]]
-- [[Continental]]
+- [[Magna International]]
+- [[Continental AG]]
 
 ### 下游客户
-- [[Independent auto repair shops]]
-- [[Automotive service centers]]
-- [[Automotive retailers]]
-- [[Auto parts distributors]]
 - [[Individual consumers]]
+- [[Independent automotive repair shops]]
+- [[Auto repair chains (e.g., Jiffy Lube)]]
+- [[Fleet maintenance operators]]
+- [[Car dealerships (aftermarket services)]]
 
 ### 竞争对手
-- [[O'Reilly Auto Parts]]
 - [[Advance Auto Parts]]
+- [[O'Reilly Auto Parts]]
 - [[NAPA Auto Parts]]
-- [[Pep Boys]]
 - [[Carquest]]
+- [[Auto Parts Warehouse]]
 
 ### 核心产品
-- [[Aftermarket automotive parts]]
-- [[Car accessories]]
-- [[Batteries]]
-- [[Engine oils & filters]]
-- [[Tires & wheels]]
+- [[Brake pads and rotors]]
+- [[Car batteries]]
+- [[Oil filters]]
+- [[Spark plugs]]
+- [[Tires and wheels]]
+- [[Automotive accessories]]
 
 ## 数据来源
 
 - [AutoZone](https://en.wikipedia.org/wiki/AutoZone,_Inc.)
-- [AutoZone, Inc. suppliers manufacturers](https://about.autozone.com/news-releases/news-release-details/autozone-vendor-summit-recognizes-contributions-top-suppliers-2)
-- [AutoZone, Inc. suppliers manufacturers](https://about.autozone.com/news-releases/news-release-details/autozone-vendor-summit-recognizes-contributions-top-suppliers-1)
-- [AutoZone, Inc. major customers clients](https://csimarket.com/stocks/AZO-Customers)
-- [AutoZone, Inc. major customers clients](https://portersfiveforce.com/blogs/target-market/autozone)
+- [AutoZone, Inc. suppliers manufacturers](https://www.autozone.com/?intcmp=yext_header_logo)
+- [AutoZone, Inc. suppliers manufacturers](https://csimarket.com/stocks/AZO-Management-Effectiveness-Comparisons.html)
+- [AutoZone, Inc. major customers clients](https://www.autozone.com/?intcmp=yext_header_logo)
+- [AutoZone, Inc. major customers clients](https://www.linkedin.com/company/autozone)
 
 ## 元数据
 
-- **更新日期**: 2026-06-24
+- **更新日期**: 2026-06-25

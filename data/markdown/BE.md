@@ -3,8 +3,8 @@ ticker: BE
 company: Bloom Energy Corporation
 sector: Industrials
 industry: Electrical Equipment & Parts
-extracted_at: 2026-06-24 17:52:55
-last_updated: 2026-06-24
+extracted_at: 2026-06-25 18:11:55
+last_updated: 2026-06-25
 ---
 
 # BE - Bloom Energy Corporation
@@ -12,46 +12,46 @@ last_updated: 2026-06-24
 ## 基本信息
 
 - **所属行业**: Industrials / Electrical Equipment & Parts
-- **提取时间**: 2026-06-24 17:52:55
+- **提取时间**: 2026-06-25 18:11:55
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Fuel cell stack component suppliers]]
-- [[Electrolyte material suppliers]]
-- [[High‑temperature material suppliers]]
-- [[Natural gas and biogas suppliers]]
-- [[Hydrogen production equipment suppliers]]
+- [[Baker Hughes]]
+- [[Air Liquide]]
+- [[BASF]]
+- [[Mitsubishi Heavy Industries]]
+- [[General Electric]]
 
 ### 下游客户
-- [[AMZN]]
 - [[GOOGL]]
+- [[AMZN]]
 - [[MSFT]]
 - [[Facebook]]
-- [[AAPL]]
+- [[AT&T]]
 
 ### 竞争对手
-- [[FuelCell Energy]]
-- [[ITM Power]]
-- [[Doosan Fuel Cell]]
 - [[Ballard Power Systems]]
-- [[NexGen Energy]]
+- [[Plug Power]]
+- [[FuelCell Energy]]
+- [[Siemens Energy]]
+- [[Nextera Energy]]
 
 ### 核心产品
-- [[Bloom Energy Power Server]]
-- [[Bloom Energy Power Server 2.0]]
-- [[Bloom Energy Power Server 3.0]]
-- [[Bloom Energy Power Server 4.0]]
-- [[Bloom Energy Power Server 5.0]]
+- [[Solid Oxide Fuel Cell (SOFC)]]
+- [[Bloom Energy Server]]
+- [[Bloom Energy Power Plant]]
+- [[Bloom Energy Hydrogen Electrolyzer]]
+- [[Bloom Energy Power Pack]]
 
 ## 数据来源
 
 - [Bloom Energy](https://en.wikipedia.org/wiki/Bloom_Energy_Corporation)
-- [Bloom Energy Corporation suppliers manufacturers](https://en.wikipedia.org/wiki/Bloom_Energy)
-- [Bloom Energy Corporation suppliers manufacturers](https://www.bloomenergy.com/)
+- [Bloom Energy Corporation suppliers manufacturers](https://en.abrams.wiki/Bloom-Energy-Corporation/3-xmUbOGgnqysRr-E-0yfXvA)
+- [Bloom Energy Corporation suppliers manufacturers](https://ca.finance.yahoo.com/quote/BE/)
 - [Bloom Energy Corporation major customers clients](https://www.stockjabber.com/company/BE/company-insights)
-- [Bloom Energy Corporation major customers clients](https://www.energyandcapital.com/bloom-energy-brings-on-big-customers/)
+- [Bloom Energy Corporation major customers clients](https://www.essay48.com/term-paper/14969-Bloom-Energy-Corporation-Swot-Analysis)
 
 ## 元数据
 
-- **更新日期**: 2026-06-24
+- **更新日期**: 2026-06-25

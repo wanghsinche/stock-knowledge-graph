@@ -3,8 +3,8 @@ ticker: STX
 company: Seagate Technology Holdings plc
 sector: Technology
 industry: Computer Hardware
-extracted_at: 2026-06-24 17:52:13
-last_updated: 2026-06-24
+extracted_at: 2026-06-25 18:09:46
+last_updated: 2026-06-25
 ---
 
 # STX - Seagate Technology Holdings plc
@@ -12,7 +12,7 @@ last_updated: 2026-06-24
 ## 基本信息
 
 - **所属行业**: Technology / Computer Hardware
-- **提取时间**: 2026-06-24 17:52:13
+- **提取时间**: 2026-06-25 18:09:46
 
 ## 产业链关系
 
@@ -20,38 +20,38 @@ last_updated: 2026-06-24
 - [[MU]]
 - [[005930.KS]]
 - [[SK Hynix]]
-- [[WDC]]
-- [[Toshiba]]
+- [[TSM]]
+- [[Aluminum & Steel suppliers]]
 
 ### 下游客户
 - [[DELL]]
 - [[HPQ]]
-- [[Lenovo]]
+- [[Lenovo Group]]
+- [[AAPL]]
 - [[AMZN]]
-- [[MSFT]]
 
 ### 竞争对手
 - [[WDC]]
-- [[Toshiba]]
+- [[Kioxia (formerly Toshiba Memory)]]
 - [[005930.KS]]
 - [[MU]]
-- [[LG Electronics]]
+- [[IBM]]
 
 ### 核心产品
-- [[Hard Disk Drives]]
-- [[Solid State Drives]]
-- [[Enterprise Storage Solutions]]
-- [[Cloud Storage]]
-- [[External Hard Drives]]
+- [[Enterprise Hard Disk Drives (HDDs)]]
+- [[Desktop and Mobile HDDs]]
+- [[Solid State Drives (SSDs)]]
+- [[Data Center Storage Solutions]]
+- [[Hybrid Storage Systems]]
 
 ## 数据来源
 
 - 
-- [Seagate Technology Holdings plc suppliers manufacturers](https://csimarket.com/stocks/STX-Suppliers)
-- [Seagate Technology Holdings plc suppliers manufacturers](https://investors.seagate.com/overview/default.aspx)
-- [Seagate Technology Holdings plc major customers clients](https://csimarket.com/stocks/STX-Business-Description.html)
-- [Seagate Technology Holdings plc major customers clients](https://www.seagate.com/)
+- [Seagate Technology Holdings plc suppliers manufacturers](https://www.seagate.com/)
+- [Seagate Technology Holdings plc suppliers manufacturers](https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-calls-seagate-technology-163904538.html)
+- [Seagate Technology Holdings plc major customers clients](http://www.seagate.com/)
+- [Seagate Technology Holdings plc major customers clients](https://finance.yahoo.com/markets/stocks/articles/why-jpmorgan-remains-bullish-seagate-080832784.html)
 
 ## 元数据
 
-- **更新日期**: 2026-06-24
+- **更新日期**: 2026-06-25

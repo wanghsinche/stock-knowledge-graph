@@ -4,34 +4,34 @@
   "sector": "Technology",
   "industry": "Software - Infrastructure",
   "upstream": [
-    "DELL",
+    "INTC",
     "AMD",
-    "GOOGL",
-    "ADBE",
-    "CAT"
+    "NVDA",
+    "QCOM",
+    "TSM"
   ],
   "downstream": [
-    "Enterprise customers (e.g., Walmart, JPMorgan)",
+    "Enterprise customers",
     "Government agencies",
-    "CAT",
-    "Small and medium businesses",
+    "DELL",
+    "SMBs",
     "Consumers"
   ],
   "competitors": [
-    "AAPL",
-    "GOOGL",
     "AMZN",
+    "GOOGL",
+    "ORCL",
     "IBM",
-    "ORCL"
+    "CRM"
   ],
   "key_products": [
-    "Windows operating system",
-    "Microsoft Office suite",
-    "Azure cloud platform",
-    "Microsoft 365 subscription services",
-    "Xbox gaming console"
+    "Windows OS",
+    "Microsoft Office",
+    "Azure Cloud",
+    "Microsoft 365",
+    "Surface devices"
   ],
-  "extracted_at": "2026-06-24 17:48:35",
+  "extracted_at": "2026-06-25 18:05:05",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.microsoft.com/en-us/procurement/supplier-conduct",
+      "url": "https://en.wikipedia.org/wiki/Microsoft",
       "query": "Microsoft Corporation suppliers manufacturers",
-      "snippet": "Read the Microsoft Supplier Code of Conduct (SCoC) to review how our values, integrity, honesty, and compliance extend throughout the supplier ecosyst"
+      "snippet": "Microsoft Corporation is an American multinational technology company headquartered in Redmond, Washington."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.microsoft.com/en-us/professionalservices/suppliers",
+      "url": "https://csimarket.com/stocks/suppliers_glance.php?code=MSFT",
       "query": "Microsoft Corporation suppliers manufacturers",
-      "snippet": "These suppliers access support and consulting data provided to Microsoft by, or on behalf of, customers. This may include personal data or customer da"
+      "snippet": "News about Microsoft Corporation Contracts. Microsoft 's Comment on Supply Chain. We develop most of our products and services internally through four"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/MSFT-Customers",
+      "url": "https://en.wikipedia.org/wiki/Microsoft",
       "query": "Microsoft Corporation major customers clients",
-      "snippet": "2 days ago · Microsoft's Comment on Sales, Marketing and Customers We distribute software through OEMs that pre-install our software on new PCs, table"
+      "snippet": "Microsoft Corporation is an American multinational technology company headquartered in Redmond, Washington."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.appsruntheworld.com/customers-database/vendors/view/microsoft",
+      "url": "https://www.linkedin.com/company/microsoft",
       "query": "Microsoft Corporation major customers clients",
-      "snippet": "List of companies using or evaluating Microsoft applications, with details on their revenues, employees, industries, and locations."
+      "snippet": "Microsoft | 28,385,318 followers on LinkedIn. Every company has a mission. What's ours? To empower every person and every organization to achieve more"
     }
   ]
 }

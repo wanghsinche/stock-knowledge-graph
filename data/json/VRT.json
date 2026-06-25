@@ -1,43 +1,67 @@
 {
   "ticker": "VRT",
   "company_name": "Vertiv Holdings Co",
-  "sector": "Industrials",
-  "industry": "Electrical Equipment & Parts",
+  "sector": "Industrials / Electrical Equipment & Parts",
+  "industry": "Data Center Infrastructure",
   "upstream": [
-    "Power distribution unit (PDU) manufacturers",
-    "Cooling fan and HVAC component suppliers",
-    "Electrical cable and connector suppliers",
-    "Power supply unit (PSU) manufacturers",
-    "Industrial sensor and monitoring equipment suppliers"
+    "Siemens",
+    "ABB",
+    "Eaton",
+    "Schneider Electric",
+    "Mitsubishi Electric"
   ],
   "downstream": [
-    "Data center operators (e.g., Equinix, Digital Realty)",
-    "CAT",
+    "AMZN",
     "GOOGL",
-    "Enterprise IT departments",
-    "Government and defense data centers"
+    "MSFT",
+    "Equinix",
+    "AT&T"
   ],
   "competitors": [
     "Schneider Electric",
     "Eaton",
     "ABB",
-    "Siemens",
-    "Honeywell"
+    "CSCO",
+    "HPQ"
   ],
   "key_products": [
-    "Uninterruptible Power Supplies (UPS)",
     "Power Distribution Units (PDUs)",
-    "Data center cooling systems",
-    "Rack‑mount power distribution equipment",
-    "Data Center Infrastructure Management (DCIM) software"
+    "Uninterruptible Power Supplies (UPS)",
+    "Cooling Systems",
+    "Data Center Infrastructure Management (DCIM) Software",
+    "Rack-Mount Power Modules"
   ],
-  "extracted_at": "2026-06-23 18:01:49",
+  "extracted_at": "2026-06-25 18:20:15",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Vertiv_Holdings_Co",
       "title": "Vertiv",
       "snippet": "Vertiv Holdings Co. is an American provider of infrastructure and services for data centers, communication networks, and commercial and industrial environments."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/news/vertiv-launches-ai-hub-and-achieves-significant-financial-milestone-cementing-its-leadership-in-digital-infrastructure2024-05-23001994",
+      "query": "Vertiv Holdings Co suppliers manufacturers",
+      "snippet": "Vertiv Holdings Co Cash Flow Statement. Suppliers . Vertiv Expands Manufacturing Footprint Amid Rising Market Demand, September 24, 2024. Vertiv Holdi"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.insidermonkey.com/blog/vertiv-holdings-co-vrt-a-bull-case-theory-5-1661399/",
+      "query": "Vertiv Holdings Co suppliers manufacturers",
+      "snippet": "Vertiv Holdings Co is not on our list of the 30 Most Popular Stocks Among Hedge Funds. As per our database, 102 hedge fund portfolios held VRT at the "
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.stockjabber.com/company/VRT/company-insights",
+      "query": "Vertiv Holdings Co major customers clients",
+      "snippet": "Explore Vertiv Holdings Co 's business overview, products, customer base, competitors, revenue model, specialties, and geographic presence in one deta"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-norges-bank-makes-new-80870-million-investment-in-vertiv-holdings-co-vrt-2026-05-31/",
+      "query": "Vertiv Holdings Co major customers clients",
+      "snippet": "Norges Bank bought a new stake in Vertiv Holdings Co ., acquiring 4,991,672 shares valued at about $808.7 million, according to its latest 13F filing."
     }
   ]
 }

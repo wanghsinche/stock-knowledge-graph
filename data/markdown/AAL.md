@@ -3,8 +3,8 @@ ticker: AAL
 company: American Airlines Group Inc.
 sector: Industrials
 industry: Airlines
-extracted_at: 2026-06-24 17:51:57
-last_updated: 2026-06-24
+extracted_at: 2026-06-25 18:14:50
+last_updated: 2026-06-25
 ---
 
 # AAL - American Airlines Group Inc.
@@ -12,46 +12,46 @@ last_updated: 2026-06-24
 ## 基本信息
 
 - **所属行业**: Industrials / Airlines
-- **提取时间**: 2026-06-24 17:51:57
+- **提取时间**: 2026-06-25 18:14:50
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Boeing]]
 - [[Airbus]]
-- [[Pratt & Whitney]]
+- [[Boeing]]
+- [[Spirit AeroSystems]]
 - [[GE Aviation]]
-- [[Honeywell Aerospace]]
+- [[Rolls‑Royce]]
 
 ### 下游客户
-- [[Corporate travel agencies]]
-- [[Government agencies]]
+- [[American Eagle regional carriers]]
+- [[Corporate travel clients]]
+- [[Government travel contracts]]
+- [[Frequent flyer program members]]
 - [[Travel agencies]]
-- [[Passengers]]
-- [[Cargo shippers]]
 
 ### 竞争对手
 - [[Delta Air Lines]]
 - [[United Airlines]]
 - [[Southwest Airlines]]
-- [[Alaska Airlines]]
 - [[JetBlue Airways]]
+- [[Alaska Airlines]]
 
 ### 核心产品
 - [[Passenger air transport]]
 - [[Cargo transport]]
 - [[Maintenance, repair, and overhaul services]]
-- [[AAdvantage loyalty program]]
-- [[In-flight entertainment]]
+- [[In‑flight entertainment]]
+- [[Frequent flyer program]]
 
 ## 数据来源
 
 - [American Airlines Group](https://en.wikipedia.org/wiki/American_Airlines_Group_Inc.)
-- [American Airlines Group Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/American_Airlines)
-- [American Airlines Group Inc. suppliers manufacturers](https://csimarket.com/stocks/AAL-Suppliers)
-- [American Airlines Group Inc. major customers clients](https://www.tiktok.com/@aaronrheins/video/7654615323663944990)
-- [American Airlines Group Inc. major customers clients](https://finance.yahoo.com/video/amazon-prime-day-helps-consumers-143715585.html)
+- [American Airlines Group Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/US_Airways_Group)
+- [American Airlines Group Inc. suppliers manufacturers](https://www.aa.com/i18n/customer-service/about-us/american-airlines-group.jsp)
+- [American Airlines Group Inc. major customers clients](https://en.wikipedia.org/wiki/US_Airways_Group)
+- [American Airlines Group Inc. major customers clients](https://www.aa.com/i18n/customer-service/about-us/american-airlines-group.jsp)
 
 ## 元数据
 
-- **更新日期**: 2026-06-24
+- **更新日期**: 2026-06-25

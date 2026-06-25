@@ -4,40 +4,64 @@
   "sector": "Technology",
   "industry": "Semiconductors",
   "upstream": [
-    "Silicon wafer suppliers",
-    "Photolithography equipment manufacturers",
-    "CAT",
-    "Packaging materials providers",
-    "Equipment for wafer processing"
+    "AMAT",
+    "LRCX",
+    "Tokyo Electron",
+    "ASML",
+    "KLA Corporation"
   ],
   "downstream": [
-    "OEMs in consumer electronics",
-    "Automotive electronics manufacturers",
-    "Industrial control system suppliers",
-    "LED lighting companies",
-    "Mobile device component integrators"
+    "Automotive OEMs",
+    "Industrial equipment manufacturers",
+    "Consumer electronics companies",
+    "CAT",
+    "Renewable energy system integrators"
   ],
   "competitors": [
-    "ON Semiconductor",
     "TXN",
+    "ADI",
     "Infineon Technologies",
-    "STMicroelectronics",
-    "NXP Semiconductors"
+    "ON Semiconductor",
+    "STMicroelectronics"
   ],
   "key_products": [
     "Power management ICs",
-    "LED driver ICs",
-    "DC‑DC converters",
-    "Power management solutions for automotive",
+    "DC-DC converters",
+    "LED drivers",
+    "Power management solutions",
     "Integrated power modules"
   ],
-  "extracted_at": "2026-06-23 18:07:21",
+  "extracted_at": "2026-06-25 18:23:58",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "",
       "title": "",
       "snippet": ""
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/suppliers_glance.php?code=CRDO",
+      "query": "Credo Technology Group Holding Ltd suppliers manufacturers",
+      "snippet": "Among Credo Technology Group Holding Ltd suppliers , the revenue of Applied Materials Inc has shown a strong correlation over the past 2 years."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://finviz.com/quote.ashx?t=CRDO",
+      "query": "Credo Technology Group Holding Ltd suppliers manufacturers",
+      "snippet": "TD Cowen Maintains Buy on Credo Technology Group Holding (CRDO), Raises PT."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://finviz.com/quote.ashx?t=CRDO",
+      "query": "Credo Technology Group Holding Ltd major customers clients",
+      "snippet": "Earnings Estimates Rising for Credo Technology Group (CRDO): Will It Gain?Are You Looking for a Top Momentum Pick? Why Credo Technology Group Holding "
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.fool.com/earnings/call-transcripts/2025/06/02/credo-tech-crdo-q4-2025-earnings-call-transcript/",
+      "query": "Credo Technology Group Holding Ltd major customers clients",
+      "snippet": "Credo Technology Group Holding Ltd pioneered a market that transformed how hyperscalers connect switches and servers. We continue to innovate with rec"
     }
   ]
 }

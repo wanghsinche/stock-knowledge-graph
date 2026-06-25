@@ -6,32 +6,32 @@
   "upstream": [
     "NVDA",
     "AMD",
-    "INTC",
     "DELL",
-    "Hewlett‑Packard Enterprise"
+    "Hewlett‑Packard Enterprise",
+    "NetApp"
   ],
   "downstream": [
-    "AI developers and startups",
-    "Enterprise AI teams",
-    "Research institutions",
-    "NVDA",
-    "Large cloud‑native AI firms"
+    "OpenAI",
+    "MSFT",
+    "GOOGL",
+    "AMZN",
+    "IBM"
   ],
   "competitors": [
-    "AMZN",
-    "GOOGL",
-    "MSFT",
-    "IBM",
-    "Paperspace"
+    "Lambda",
+    "Cerebras Systems",
+    "G42",
+    "NVDA",
+    "AMZN"
   ],
   "key_products": [
-    "GPU‑based AI cloud platform",
-    "GPU infrastructure as a service",
-    "Chip‑management software",
-    "AI‑native GPU clusters",
-    "Custom GPU instance types"
+    "GPU‑based AI cloud infrastructure",
+    "GPU virtual machine instances",
+    "GPU management and orchestration software",
+    "AI training and inference services",
+    "Custom GPU server configurations"
   ],
-  "extracted_at": "2026-06-24 17:56:19",
+  "extracted_at": "2026-06-25 18:21:14",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,13 +43,13 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/CoreWeave",
       "query": "CoreWeave, Inc. suppliers manufacturers",
-      "snippet": "CoreWeave , Inc . is an American artificial intelligence (AI) cloud-computing company based in Livingston, New Jersey. It specializes in providing clo"
+      "snippet": "CoreWeave , Inc . is an American artificial intelligence cloud-computing company based in Livingston, New Jersey."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.coreweave.com/",
+      "url": "https://www.marketscreener.com/news/coreweave-inc-nasdaqgs-crwv-added-to-nasdaq-100-index-ce7f5cd3dd8af226",
       "query": "CoreWeave, Inc. suppliers manufacturers",
-      "snippet": "CoreWeave Cloud is an AI-native platform purpose-built for AI. It combines next-generation infrastructure, intelligent tools, and expert support to po"
+      "snippet": "CoreWeave , Inc . is an American technology company founded in 2017, specializing in cloud infrastructure designed for compute-intensive workloads.Sto"
     },
     {
       "source": "DuckDuckGo",
@@ -59,9 +59,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/technology/ai/articles/coreweave-vs-nebius-ai-infrastructure-135300566.html",
+      "url": "https://www.fitchratings.com/research/corporate-finance/fitch-rates-coreweave-proposed-senior-unsecured-notes-bb-rr4-11-06-2026",
       "query": "CoreWeave, Inc. major customers clients",
-      "snippet": "In January, NVIDIA increased its investment in CoreWeave to $2 billion. CRWV aims to reach 5 GW of data center capacity by 2030, strengthening its abi"
+      "snippet": "Fitch Ratings-Chicago-11 June 2026: Fitch Ratings has assigned CoreWeave , Inc .'s (BB-/Positive) proposed senior unsecured notes issuance, which incl"
     }
   ]
 }

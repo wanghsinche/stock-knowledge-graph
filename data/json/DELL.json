@@ -1,37 +1,37 @@
 {
   "ticker": "DELL",
   "company_name": "Dell Technologies Inc.",
-  "sector": "Technology / Computer Hardware",
+  "sector": "Technology",
   "industry": "Computer Hardware",
   "upstream": [
     "INTC",
     "AMD",
     "NVDA",
     "005930.KS",
-    "SK Hynix"
+    "TSM"
   ],
   "downstream": [
-    "U.S. Federal Government",
-    "Large Enterprises",
-    "CAT",
-    "Retail Consumers",
-    "OEM Partners"
+    "U.S. Department of Defense",
+    "NASA",
+    "Fortune 500 enterprises",
+    "Small and medium businesses",
+    "Individual consumers"
   ],
   "competitors": [
     "HPQ",
-    "Lenovo Group",
+    "Lenovo",
     "AAPL",
-    "Acer Inc.",
-    "AsusTek Computer Inc."
+    "MSFT",
+    "Acer"
   ],
   "key_products": [
-    "Personal Computers",
+    "Personal computers",
     "Servers",
     "Monitors",
-    "Storage Solutions",
-    "Networking Equipment"
+    "Storage solutions",
+    "Networking equipment"
   ],
-  "extracted_at": "2026-06-24 17:53:43",
+  "extracted_at": "2026-06-25 18:10:11",
   "sources": [
     {
       "source": "Wikipedia",
@@ -53,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/DELL-Customers",
+      "url": "https://www.dell.com/en-us",
       "query": "Dell Technologies Inc. major customers clients",
-      "snippet": "Dell Technologies Inc 's Comment on Sales, Marketing and Customers News about Dell Technologies Inc Contracts Dell Technologies Pioneering Role in AI "
+      "snippet": "Dell provides technology solutions, services & support. Buy Laptops, Touch Screen PCs, Desktops, Servers, Storage, Monitors, Gaming & Accessories."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.dell.com/en-us/lp/dt/customer-stories",
+      "url": "https://finance.yahoo.com/quote/DELL/",
       "query": "Dell Technologies Inc. major customers clients",
-      "snippet": "The Dell Technologies digital transformation library showcases how some of the largest brands bring their ideas to life, and their products to market."
+      "snippet": "Find the latest Dell Technologies Inc . ( DELL ) stock quote, history, news and other vital information to help you with your stock trading and invest"
     }
   ]
 }

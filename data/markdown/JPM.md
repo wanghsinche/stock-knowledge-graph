@@ -3,8 +3,8 @@ ticker: JPM
 company: JPMorgan Chase & Co.
 sector: Financial Services
 industry: Banks - Diversified
-extracted_at: 2026-06-22 19:32:17
-last_updated: 2026-06-22
+extracted_at: 2026-06-25 18:15:39
+last_updated: 2026-06-25
 ---
 
 # JPM - JPMorgan Chase & Co.
@@ -12,27 +12,27 @@ last_updated: 2026-06-22
 ## 基本信息
 
 - **所属行业**: Financial Services / Banks - Diversified
-- **提取时间**: 2026-06-22 19:32:17
+- **提取时间**: 2026-06-25 18:15:39
 
 ## 产业链关系
 
 ### 上游供应商
 - [[MSFT]]
-- [[MSFT]]
-- [[Data analytics vendors (e.g., Bloomberg, Thomson Reuters)]]
-- [[Security and cyber‑defense vendors]]
-- [[Payment processing platforms (e.g., Visa, Mastercard, Stripe)]]
+- [[Payment processors (e.g., Visa, Mastercard)]]
+- [[Data providers (e.g., Bloomberg, Thomson Reuters)]]
+- [[AMZN]]
+- [[Cybersecurity firms (e.g., Palo Alto Networks)]]
 
 ### 下游客户
 - [[Retail banking customers]]
 - [[Corporate and institutional clients]]
-- [[High‑net‑worth individuals]]
-- [[Government and public‑sector entities]]
-- [[Investment and wealth‑management clients]]
+- [[High‑net‑worth individuals (wealth management)]]
+- [[Small and medium‑enterprise borrowers]]
+- [[Government and public sector entities]]
 
 ### 竞争对手
-- [[Bank of America]]
 - [[Citigroup]]
+- [[Bank of America]]
 - [[Wells Fargo]]
 - [[Goldman Sachs]]
 - [[Morgan Stanley]]
@@ -40,18 +40,18 @@ last_updated: 2026-06-22
 ### 核心产品
 - [[Retail banking services]]
 - [[Investment banking and advisory]]
-- [[Asset management]]
-- [[Wealth management]]
+- [[Asset and wealth management]]
 - [[Credit card and consumer lending]]
+- [[Treasury and cash management]]
 
 ## 数据来源
 
 - [JPMorgan Chase](https://en.wikipedia.org/wiki/JPMorgan_Chase_&_Co.)
-- [JPMorgan Chase & Co. suppliers manufacturers](https://www.jpmorganchase.com/about/suppliers)
-- [JPMorgan Chase & Co. suppliers manufacturers](https://jpmorganchase.suppliergateway.com/)
 - [JPMorgan Chase & Co. major customers clients](https://en.wikipedia.org/wiki/JPMorgan_Chase)
 - [JPMorgan Chase & Co. major customers clients](https://www.jpmorganchase.com/)
+- [JPMorgan Chase & Co. competitors alternatives](https://en.wikipedia.org/wiki/JPMorgan_Chase)
+- [JPMorgan Chase & Co. competitors alternatives](https://bullfincher.io/companies/jpmorgan-chase-co/competitors)
 
 ## 元数据
 
-- **更新日期**: 2026-06-22
+- **更新日期**: 2026-06-25

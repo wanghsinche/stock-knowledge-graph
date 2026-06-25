@@ -4,38 +4,34 @@
   "sector": "Consumer Cyclical",
   "industry": "Auto Manufacturers",
   "upstream": [
-    "CAT",
     "Panasonic",
-    "005930.KS",
     "LG Chem",
+    "CAT",
+    "005930.KS",
     "BYD"
   ],
   "downstream": [
     "Individual consumers",
-    "Commercial fleet operators",
-    "Logistics companies",
-    "Government agencies",
-    "Retail partners"
+    "Uber",
+    "Lyft",
+    "AMZN",
+    "U.S. Army"
   ],
   "competitors": [
     "General Motors",
     "Ford",
     "Volkswagen",
-    "Hyundai",
-    "Rivian"
+    "Nissan",
+    "Hyundai"
   ],
   "key_products": [
-    "Model S",
     "Model 3",
-    "Model X",
     "Model Y",
-    "Cybertruck",
-    "Powerwall",
-    "Powerpack",
-    "Solar Roof",
-    "Solar panels"
+    "Model S",
+    "Model X",
+    "Powerwall"
   ],
-  "extracted_at": "2026-06-24 17:47:59",
+  "extracted_at": "2026-06-25 18:06:05",
   "sources": [
     {
       "source": "Wikipedia",
@@ -45,15 +41,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/TSLA-Suppliers",
+      "url": "https://en.wikipedia.org/wiki/Tesla,_Inc.",
       "query": "Tesla, Inc. suppliers manufacturers",
-      "snippet": "Jun 14, 2026 · Tesla Inc supply chain, list and performance of Tesla Incs' suppliers - CSIMarket"
+      "snippet": "Tesla , Inc . is an American multinational automotive and clean energy company.The company was incorporated in July 2003 by Martin Eberhard and Marc T"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.suppliersmap.com/tesla",
+      "url": "https://csimarket.com/stocks/suppliers_glance.php?code=TSLA",
       "query": "Tesla, Inc. suppliers manufacturers",
-      "snippet": "Explore Tesla's key suppliers including CATL and Panasonic for batteries, Samsung for chips, Bosch for braking systems, and STMicroelectronics for pow"
+      "snippet": "Tesla Inc 's Suppliers Performance. TSLA's Supply Chain. Tesla relies on a wide range of suppliers beyond just battery manufacturers to build our elec"
     },
     {
       "source": "DuckDuckGo",
@@ -65,7 +61,7 @@
       "source": "DuckDuckGo",
       "url": "https://www.tesla.com/",
       "query": "Tesla, Inc. major customers clients",
-      "snippet": "Video Guides. Customer Stories. Events. Safety. Tesla Assist. Schedule a Drive Today."
+      "snippet": "Video Guides. Customer Stories. Events. Safety.\"Compare Model 3 and Model Y\". \"What's Pet Mode?\" \"What does the Tesla app do?\" \"Where can I drive the "
     }
   ]
 }

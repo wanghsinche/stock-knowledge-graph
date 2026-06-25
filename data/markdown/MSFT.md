@@ -3,8 +3,8 @@ ticker: MSFT
 company: Microsoft Corporation
 sector: Technology
 industry: Software - Infrastructure
-extracted_at: 2026-06-24 17:48:35
-last_updated: 2026-06-24
+extracted_at: 2026-06-25 18:05:05
+last_updated: 2026-06-25
 ---
 
 # MSFT - Microsoft Corporation
@@ -12,46 +12,46 @@ last_updated: 2026-06-24
 ## 基本信息
 
 - **所属行业**: Technology / Software - Infrastructure
-- **提取时间**: 2026-06-24 17:48:35
+- **提取时间**: 2026-06-25 18:05:05
 
 ## 产业链关系
 
 ### 上游供应商
-- [[DELL]]
+- [[INTC]]
 - [[AMD]]
-- [[GOOGL]]
-- [[ADBE]]
-- [[CAT]]
+- [[NVDA]]
+- [[QCOM]]
+- [[TSM]]
 
 ### 下游客户
-- [[Enterprise customers (e.g., Walmart, JPMorgan)]]
+- [[Enterprise customers]]
 - [[Government agencies]]
-- [[CAT]]
-- [[Small and medium businesses]]
+- [[DELL]]
+- [[SMBs]]
 - [[Consumers]]
 
 ### 竞争对手
-- [[AAPL]]
-- [[GOOGL]]
 - [[AMZN]]
-- [[IBM]]
+- [[GOOGL]]
 - [[ORCL]]
+- [[IBM]]
+- [[CRM]]
 
 ### 核心产品
-- [[Windows operating system]]
-- [[Microsoft Office suite]]
-- [[Azure cloud platform]]
-- [[Microsoft 365 subscription services]]
-- [[Xbox gaming console]]
+- [[Windows OS]]
+- [[Microsoft Office]]
+- [[Azure Cloud]]
+- [[Microsoft 365]]
+- [[Surface devices]]
 
 ## 数据来源
 
 - [Microsoft](https://en.wikipedia.org/wiki/Microsoft_Corporation)
-- [Microsoft Corporation suppliers manufacturers](https://www.microsoft.com/en-us/procurement/supplier-conduct)
-- [Microsoft Corporation suppliers manufacturers](https://www.microsoft.com/en-us/professionalservices/suppliers)
-- [Microsoft Corporation major customers clients](https://csimarket.com/stocks/MSFT-Customers)
-- [Microsoft Corporation major customers clients](https://www.appsruntheworld.com/customers-database/vendors/view/microsoft)
+- [Microsoft Corporation suppliers manufacturers](https://en.wikipedia.org/wiki/Microsoft)
+- [Microsoft Corporation suppliers manufacturers](https://csimarket.com/stocks/suppliers_glance.php?code=MSFT)
+- [Microsoft Corporation major customers clients](https://en.wikipedia.org/wiki/Microsoft)
+- [Microsoft Corporation major customers clients](https://www.linkedin.com/company/microsoft)
 
 ## 元数据
 
-- **更新日期**: 2026-06-24
+- **更新日期**: 2026-06-25
