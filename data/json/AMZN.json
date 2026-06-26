@@ -1,37 +1,37 @@
 {
   "ticker": "AMZN",
   "company_name": "Amazon.com, Inc.",
-  "sector": "Consumer Cyclical",
+  "sector": "Consumer Cyclical / Internet Retail",
   "industry": "Internet Retail",
   "upstream": [
+    "AAPL",
+    "Clothing brands (e.g., Nike, Adidas)",
+    "Home goods manufacturers (e.g., IKEA)",
     "Book publishers",
-    "Electronics manufacturers",
-    "Clothing and apparel brands",
-    "Home goods manufacturers",
-    "AMZN"
+    "Automotive parts suppliers"
   ],
   "downstream": [
+    "Retail consumers worldwide",
+    "Enterprise customers for AWS",
     "AMZN",
-    "Small and medium‑size businesses",
-    "Enterprise customers using AWS",
-    "AMZN",
-    "AMZN"
+    "Advertising clients",
+    "Digital streaming subscribers"
   ],
   "competitors": [
-    "eBay",
     "Walmart",
     "Alibaba",
-    "Shopify",
-    "Target"
+    "eBay",
+    "MSFT",
+    "GOOGL"
   ],
   "key_products": [
     "Amazon.com marketplace",
-    "Amazon Prime subscription",
-    "Amazon Web Services (AWS)",
-    "Amazon Advertising",
-    "Amazon Devices (Echo, Kindle, Fire)"
+    "Amazon Web Services",
+    "Amazon Prime",
+    "Amazon Echo/Alexa",
+    "Amazon Kindle"
   ],
-  "extracted_at": "2026-06-25 18:05:52",
+  "extracted_at": "2026-06-26 17:30:33",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,25 +43,25 @@
       "source": "DuckDuckGo",
       "url": "https://ir.aboutamazon.com/",
       "query": "Amazon.com, Inc. suppliers manufacturers",
-      "snippet": "Amazon . com Announces First Quarter Results. Amazon . com , Inc . (NASDAQ: AMZN) today announced financial results for its first quarter ended March "
+      "snippet": "The Spheres. Select awards and recognition. Amazon . com Conditions of Use © 1996- Amazon . com , Inc . - IR or its affiliates."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.amazon.com.au/gp/css/homepage.html?ref_=nav_AccountFlyout_ya",
+      "url": "https://finance.yahoo.com/quote/AMZN/",
       "query": "Amazon.com, Inc. suppliers manufacturers",
-      "snippet": "amazon . com .au›gp/css/homepage.html…"
+      "snippet": "Find the latest Amazon . com , Inc . (AMZN) stock quote, history, news and other vital information to help you with your stock trading and investing."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ir.aboutamazon.com/",
+      "url": "https://en.wikipedia.org/wiki/Amazon_(company)",
       "query": "Amazon.com, Inc. major customers clients",
-      "snippet": "Amazon . com Announces First Quarter Results. Amazon . com , Inc . (NASDAQ: AMZN) today announced financial results for its first quarter ended March "
+      "snippet": "Amazon Logistics, in which Amazon contracts with small businesses (which it calls \"Delivery Service Partners\") to perform deliveries to customers . Ea"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.amazon.com/stores/MountHagen/page/9D3CD2B0-EC87-4F19-AD13-76E21A2CCD41",
+      "url": "https://capitaloneshopping.com/research/amazon-statistics/",
       "query": "Amazon.com, Inc. major customers clients",
-      "snippet": "Reach customers wherever they spend their time. 6pm. Score deals on fashion brands."
+      "snippet": "Jun 4, 2026 · Over 310 million global consumers shop on Amazon at least once a year. 2 million active selling partners have shops on Amazon. Independe"
     }
   ]
 }

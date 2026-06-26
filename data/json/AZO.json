@@ -1,38 +1,37 @@
 {
   "ticker": "AZO",
   "company_name": "AutoZone, Inc.",
-  "sector": "Consumer Cyclical",
-  "industry": "Auto Parts",
+  "sector": "Consumer Cyclical / Auto Parts",
+  "industry": "Auto Parts Retailer",
   "upstream": [
     "Bosch",
     "Denso",
-    "Delphi",
     "Magna International",
+    "Delphi Technologies",
     "Continental AG"
   ],
   "downstream": [
     "Individual consumers",
-    "Independent automotive repair shops",
-    "Auto repair chains (e.g., Jiffy Lube)",
-    "Fleet maintenance operators",
-    "Car dealerships (aftermarket services)"
+    "Independent repair shops",
+    "Fleet operators",
+    "Automotive service centers",
+    "Automotive dealerships"
   ],
   "competitors": [
-    "Advance Auto Parts",
     "O'Reilly Auto Parts",
+    "Advance Auto Parts",
     "NAPA Auto Parts",
-    "Carquest",
-    "Auto Parts Warehouse"
+    "Pep Boys",
+    "Walmart (auto parts) "
   ],
   "key_products": [
-    "Brake pads and rotors",
-    "Car batteries",
+    "Brake pads",
     "Oil filters",
-    "Spark plugs",
-    "Tires and wheels",
-    "Automotive accessories"
+    "Batteries",
+    "Tires",
+    "Spark plugs"
   ],
-  "extracted_at": "2026-06-25 18:19:51",
+  "extracted_at": "2026-06-26 17:39:05",
   "sources": [
     {
       "source": "Wikipedia",
@@ -42,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.autozone.com/?intcmp=yext_header_logo",
+      "url": "https://about.autozone.com/news-releases/news-release-details/autozone-vendor-summit-recognizes-contributions-top-suppliers-2",
       "query": "AutoZone, Inc. suppliers manufacturers",
-      "snippet": "Autozone Home."
+      "snippet": "Jun 3, 2026 · MEMPHIS, Tenn., June 03, 2026 (GLOBE NEWSWIRE) -- AutoZone (NYSE: AZO) recognized 15 of its top suppliers at its annual Vendor Summit. T"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/AZO-Management-Effectiveness-Comparisons.html",
+      "url": "https://about.autozone.com/about-autozone/vendor-info",
       "query": "AutoZone, Inc. suppliers manufacturers",
-      "snippet": "Autozone Inc 's current Return on Assets, Investment, Equity ROE, ROI and ROA comparisons to Automotive Aftermarket Industry and Retail Sector, and S&"
+      "snippet": "In an effort to meet customers’ expectations of quality, AutoZone has implemented a proposal process for marketing vendors , and a Supplier Certificat"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.autozone.com/?intcmp=yext_header_logo",
+      "url": "https://csimarket.com/stocks/AZO-Customers",
       "query": "AutoZone, Inc. major customers clients",
-      "snippet": "Autozone Home."
+      "snippet": "For your research, we’ve provided 9 tables on Autozone Inc corporate clients . You can find them in the navigation menu under Customers & Markets. To "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.linkedin.com/company/autozone",
+      "url": "https://portersfiveforce.com/blogs/target-market/autozone",
       "query": "AutoZone, Inc. major customers clients",
-      "snippet": "AutoZone | 255,371 followers on LinkedIn. AutoZone is the nation's leading retailer and a leading distributor of automotive replacement parts and acce"
+      "snippet": "Nov 4, 2025 · W ho Are AutoZone ’ s Main Customers ? AutoZone strategically bifurcates its customer base into two distinct segments: Do-It-Yourself (D"
     }
   ]
 }

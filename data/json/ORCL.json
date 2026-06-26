@@ -6,32 +6,32 @@
   "upstream": [
     "INTC",
     "AMD",
-    "NVDA",
-    "CSCO",
-    "DELL"
+    "DELL",
+    "HPQ",
+    "CSCO"
   ],
   "downstream": [
-    "AMD",
-    "ByteDance",
-    "META",
-    "NVDA",
-    "OpenAI"
+    "Walmart",
+    "JPMorgan Chase",
+    "Bank of America",
+    "AT&T",
+    "Verizon"
   ],
   "competitors": [
     "MSFT",
-    "AMZN",
-    "IBM",
     "SAP",
-    "GOOGL"
+    "IBM",
+    "CRM",
+    "AMZN"
   ],
   "key_products": [
     "Oracle Database",
     "Oracle Cloud Infrastructure",
-    "Oracle ERP Cloud",
     "Oracle Autonomous Database",
-    "Oracle Analytics Cloud"
+    "Oracle Fusion Applications",
+    "Oracle E-Business Suite"
   ],
-  "extracted_at": "2026-06-25 18:12:52",
+  "extracted_at": "2026-06-26 17:35:45",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,9 +41,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://adjkjc.github.io/en.wikipedia.org/wiki/Oracle_Corporation.html",
+      "url": "https://en.wikipedia.org/wiki/List_of_largest_manufacturing_companies_by_revenue",
       "query": "Oracle Corporation suppliers manufacturers",
-      "snippet": "Oracle Corporation is an American multinational computer technology corporation headquartered in Redwood Shores, California. The company sells databas"
+      "snippet": "The following is a list of the world's largest manufacturing companies, ordered by revenue in millions of U.S. dollars according to the Fortune Global"
     },
     {
       "source": "DuckDuckGo",
@@ -53,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.oracle.com/",
+      "url": "https://csimarket.com/stocks/ORCL-Customers",
       "query": "Oracle Corporation major customers clients",
-      "snippet": "OCI Tech Customers . AMD, ByteDance, Meta, NVIDIA, OpenAI, Temu, TikTok, Uber, xAI. The demand for cloud infrastructure for AI training and inferencin"
+      "snippet": "3 days ago · For your research, we’ve provided 9 tables on Oracle Corporation corporate clients . You can find them in the navigation menu under Custo"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://headquartersoffice.com/oracle/",
+      "url": "https://www.thomsondata.com/customer-base/oracle.php",
       "query": "Oracle Corporation major customers clients",
-      "snippet": "Address: 500 Oracle Parkway Redwood City, CA 94065 United States Contact number: 650-506-7000 Website: www. oracle .com. Key People/Executives for Ora"
+      "snippet": "Thomson Data makes it easy by offering an accurate and up-to-date list of companies that use Oracle. This list allows you to identify Oracle customers"
     }
   ]
 }

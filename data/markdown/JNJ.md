@@ -3,8 +3,8 @@ ticker: JNJ
 company: Johnson & Johnson
 sector: Healthcare
 industry: Drug Manufacturers - General
-extracted_at: 2026-06-19 18:01:39
-last_updated: 2026-06-19
+extracted_at: 2026-06-26 17:40:29
+last_updated: 2026-06-26
 ---
 
 # JNJ - Johnson & Johnson
@@ -12,46 +12,46 @@ last_updated: 2026-06-19
 ## 基本信息
 
 - **所属行业**: Healthcare / Drug Manufacturers - General
-- **提取时间**: 2026-06-19 18:01:39
+- **提取时间**: 2026-06-26 17:40:29
 
 ## 产业链关系
 
 ### 上游供应商
-- [[BASF]]
-- [[Bayer]]
-- [[DuPont]]
-- [[Dow Chemical]]
-- [[Merck & Co.]]
+- [[Raw material suppliers for pharmaceuticals]]
+- [[Contract manufacturers for drug delivery systems]]
+- [[Medical device component suppliers]]
+- [[Biotechnology research partners]]
+- [[Packaging and labeling vendors]]
 
 ### 下游客户
-- [[UnitedHealth Group]]
-- [[Kaiser Permanente]]
-- [[CVS Health]]
-- [[Walgreens Boots Alliance]]
-- [[AMZN]]
+- [[Hospitals and health systems]]
+- [[Pharmacies and drugstores]]
+- [[Retail chains (e.g., CVS, Walgreens)]]
+- [[Global healthcare distributors]]
+- [[Consumer retail customers]]
 
 ### 竞争对手
 - [[Pfizer]]
 - [[Merck & Co.]]
 - [[Novartis]]
 - [[GlaxoSmithKline]]
-- [[Bristol-Myers Squibb]]
+- [[AbbVie]]
 
 ### 核心产品
-- [[Tylenol]]
-- [[Band-Aid]]
-- [[Neutrogena Skin Care]]
-- [[Listerine]]
-- [[Remicade]]
+- [[Pharmaceuticals (e.g., Remicade, Stelara)]]
+- [[Medical devices (e.g., surgical instruments, orthopedic implants)]]
+- [[Consumer health products (e.g., Tylenol, Band-Aid)]]
+- [[Diagnostic tools]]
+- [[Vaccines and biologics]]
 
 ## 数据来源
 
 - [Johnson & Johnson](https://en.wikipedia.org/wiki/Johnson_&_Johnson)
+- [Johnson & Johnson suppliers manufacturers](https://en.wikipedia.org/wiki/Johnson_&_Johnson)
 - [Johnson & Johnson suppliers manufacturers](https://www.jnj.com/suppliers)
-- [Johnson & Johnson suppliers manufacturers](https://www.alibaba.com/johnson-and-johnson-babi-care-product-suppliers.html)
-- [Johnson & Johnson major customers clients](https://en.wikipedia.org/wiki/Boris_Johnson)
-- [Johnson & Johnson major customers clients](https://www.youtube.com/watch?v=tMhgw5SW0h4)
+- [Johnson & Johnson major customers clients](https://www.marketscreener.com/quote/stock/JOHNSON-JOHNSON-4832/company/)
+- [Johnson & Johnson major customers clients](https://www.bucknell.edu/news/inside-innovation-senior-design-team-engineers-app-johnson-johnson)
 
 ## 元数据
 
-- **更新日期**: 2026-06-19
+- **更新日期**: 2026-06-26

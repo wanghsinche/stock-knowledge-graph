@@ -7,8 +7,8 @@
     "TSM",
     "005930.KS",
     "GlobalFoundries",
-    "MU",
-    "ASE Group"
+    "INTC",
+    "TXN"
   ],
   "downstream": [
     "CSCO",
@@ -21,17 +21,17 @@
     "QCOM",
     "INTC",
     "NVDA",
-    "TXN",
-    "MRVL"
+    "MRVL",
+    "AVGO"
   ],
   "key_products": [
-    "Broadcom BCM series semiconductor chips",
-    "Broadcom NetXtreme Ethernet controllers",
-    "Broadcom Wi‑Fi and Bluetooth chips",
-    "Broadcom 5G modem solutions",
-    "Broadcom storage controller and broadband modem products"
+    "Ethernet controllers",
+    "Wi‑Fi and Bluetooth chips",
+    "Broadband modem chips",
+    "Storage controller ASICs",
+    "Networking and switching ASICs"
   ],
-  "extracted_at": "2026-06-25 18:07:59",
+  "extracted_at": "2026-06-26 17:32:05",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,7 +43,7 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/BCM",
       "query": "Broadcom Inc. suppliers manufacturers",
-      "snippet": "Business Continuity Management, an interdisciplinary peer mentoring methodology used to create a plan for recovery of a business after disaster or dis"
+      "snippet": "Broadcom Inc ., designer, developer and global supplier of semiconductor products. Broadcom Corporation, subsidiary of Broadcom Inc ."
     },
     {
       "source": "DuckDuckGo",
@@ -53,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.broadcom.com/",
+      "url": "https://ru.wikipedia.org/wiki/Broadcom_Inc.",
       "query": "Broadcom Inc. major customers clients",
-      "snippet": "Broadcom delivers semiconductors and infrastructure software for global enterprises’ most complex, mission-critical needs."
+      "snippet": "Broadcom Inc . — американская компания по разработке полупроводниковой продукции и программного обеспечения со штаб-квартирой в Пало-Алто (Калифорния,"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://x.com/Broadcom",
+      "url": "https://www.broadcom.com/",
       "query": "Broadcom Inc. major customers clients",
-      "snippet": "Broadcom Inc .Підтверджений профіль @ Broadcom ."
+      "snippet": "Broadcom delivers semiconductors and infrastructure software for global enterprises’ most complex, mission-critical needs."
     }
   ]
 }

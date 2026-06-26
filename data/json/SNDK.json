@@ -1,37 +1,37 @@
 {
   "ticker": "SNDK",
   "company_name": "SanDisk Corporation",
-  "sector": "Technology / Computer Hardware",
-  "industry": "Computer Storage & Semiconductors",
+  "sector": "Technology",
+  "industry": "Computer Hardware",
   "upstream": [
-    "GIGAPC Corporation",
     "MU",
     "005930.KS",
     "SK Hynix",
-    "Nanya Technology"
+    "Toshiba",
+    "WDC"
   ],
   "downstream": [
-    "MSFT",
     "AAPL",
+    "MSFT",
     "DELL",
     "HPQ",
-    "IBM"
-  ],
-  "competitors": [
-    "WDC",
-    "STX",
-    "Kingston Technology",
-    "MU",
     "005930.KS"
   ],
-  "key_products": [
-    "Solid State Drives (SSDs)",
-    "USB flash drives",
-    "SD cards",
-    "MicroSD cards",
-    "External hard drives"
+  "competitors": [
+    "MU",
+    "005930.KS",
+    "SK Hynix",
+    "WDC",
+    "Kingston Technology"
   ],
-  "extracted_at": "2026-06-25 18:02:53",
+  "key_products": [
+    "SD cards",
+    "USB flash drives",
+    "SSD drives",
+    "eMMC modules",
+    "NVMe SSDs"
+  ],
+  "extracted_at": "2026-06-26 17:29:30",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.sandisk.com/company/distributors",
+      "url": "https://en.wikipedia.org/wiki/SanDisk",
       "query": "Sandisk Corporation suppliers manufacturers",
-      "snippet": "GIGAPC Corporation · 430 8th Ave N. Seattle, WA 98109 · Tel: 206-624-1100 · Glazers Camera · 430 8th Ave N. Seattle, WA 98109 · Tel: 206-624-1100 · Gl"
+      "snippet": "Founded in 1988, [4] it designs and manufactures flash memory products, including memory cards, USB flash drives, and solid-state drives (SSDs). The c"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.accio.com/supplier/sandisk-manufacturer",
       "query": "Sandisk Corporation suppliers manufacturers",
-      "snippet": "3 weeks ago - SanDisk was founded in 1988 as SunDisk and became part of Western Digital in 2016. In 2025, Western Digital spun off its flash storage d"
+      "snippet": "Jun 13, 2026 · Looking for SanDisk manufacturers ? Discover trusted suppliers of USB drives, memory cards, and SSDs. Click to connect with top provide"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Sandisk",
       "query": "Sandisk Corporation major customers clients",
-      "snippet": "5 days ago - On November 8, 1995, SunDisk changed its name to SanDisk to avoid confusion with Sun Microsystems, and went public under the new name via"
+      "snippet": "6 days ago - On November 8, 1995, SunDisk changed its name to SanDisk to avoid confusion with Sun Microsystems, and went public under the new name via"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://csimarket.com/stocks/markets_glance.php?code=SNDK",
       "query": "Sandisk Corporation major customers clients",
-      "snippet": "6 days ago - Sandisk customers and markets, results by customer and performance relative to SNDK, by company and industry - CSIMarket"
+      "snippet": "1 week ago - Sandisk customers and markets, results by customer and performance relative to SNDK, by company and industry - CSIMarket"
     }
   ]
 }

@@ -4,34 +4,34 @@
   "sector": "Financial Services",
   "industry": "Capital Markets",
   "upstream": [
-    "Technology vendors (e.g., Bloomberg, Refinitiv)",
-    "Data providers (e.g., FactSet, S&P Global)",
-    "Legal and compliance service firms",
-    "Risk management software providers",
-    "Cloud infrastructure providers (e.g., AWS, Azure)"
+    "MSFT",
+    "AMZN",
+    "ORCL",
+    "Bloomberg",
+    "Refinitiv"
   ],
   "downstream": [
-    "Corporations seeking M&A advisory",
-    "Governments and sovereign entities",
-    "Institutional investors (pension funds, endowments)",
-    "High‑net‑worth individuals and family offices",
-    "Asset managers and hedge funds"
+    "Institutional investors",
+    "Corporations",
+    "Governments",
+    "Pension funds",
+    "High‑net‑worth individuals"
   ],
   "competitors": [
-    "JPMorgan Chase & Co.",
+    "JPMorgan Chase",
     "Morgan Stanley",
     "Bank of America Merrill Lynch",
     "Citigroup",
-    "Wells Fargo"
+    "UBS"
   ],
   "key_products": [
-    "Investment banking advisory and underwriting",
-    "Securities trading and market making",
-    "Asset and wealth management",
-    "Research and analytics services",
-    "Risk management and structured finance"
+    "Investment banking services",
+    "Asset management",
+    "Securities trading",
+    "Wealth management",
+    "Derivatives and structured finance"
   ],
-  "extracted_at": "2026-06-19 17:58:24",
+  "extracted_at": "2026-06-26 17:42:10",
   "sources": [
     {
       "source": "Wikipedia",
@@ -53,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Goldman_Sachs",
+      "url": "https://www.goldmansachs.com/",
       "query": "The Goldman Sachs Group, Inc. major customers clients",
-      "snippet": "The Goldman Sachs Group , Inc . is an American multinational investment bank and financial services company. The Goldman Sachs Group , Inc . Headquart"
+      "snippet": "The Goldman Sachs Group , Inc . is a leading global investment banking, securities, and asset and wealth management firm that provides a wide range of"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.goldmansachs.com/careers/students/programs-and-internships",
+      "url": "https://finance.yahoo.com/quote/GS/",
       "query": "The Goldman Sachs Group, Inc. major customers clients",
-      "snippet": "Begin your career with a Goldman Sachs internship and get access to the best support network, events, and opportunities to thrive. We have a wide rang"
+      "snippet": "Find the latest The Goldman Sachs Group , Inc . (GS) stock quote, history, news and other vital information to help you with your stock trading and in"
     }
   ]
 }

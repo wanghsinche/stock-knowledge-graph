@@ -4,18 +4,18 @@
   "sector": "Industrials",
   "industry": "Airlines",
   "upstream": [
-    "Airbus",
     "Boeing",
-    "Spirit AeroSystems",
+    "Airbus",
     "GE Aviation",
+    "Pratt & Whitney",
     "Rolls‑Royce"
   ],
   "downstream": [
-    "American Eagle regional carriers",
     "Corporate travel clients",
-    "Government travel contracts",
-    "Frequent flyer program members",
-    "Travel agencies"
+    "Business travelers",
+    "Leisure passengers",
+    "Travel agencies",
+    "Cargo shippers"
   ],
   "competitors": [
     "Delta Air Lines",
@@ -26,12 +26,12 @@
   ],
   "key_products": [
     "Passenger air transport",
-    "Cargo transport",
-    "Maintenance, repair, and overhaul services",
-    "In‑flight entertainment",
-    "Frequent flyer program"
+    "Freight and cargo services",
+    "Maintenance, repair, and overhaul (MRO)",
+    "Loyalty program (AAdvantage)",
+    "In‑flight entertainment and connectivity"
   ],
-  "extracted_at": "2026-06-25 18:14:50",
+  "extracted_at": "2026-06-26 17:39:30",
   "sources": [
     {
       "source": "Wikipedia",
@@ -55,13 +55,13 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/US_Airways_Group",
       "query": "American Airlines Group Inc. major customers clients",
-      "snippet": "US Airways traces its history to All American Aviation Inc , a company founded in 1939 by du Pont family brothers Richard C. du Pont and Alexis Felix "
+      "snippet": "US Airways Group Inc . Company type. Public. American Airlines Group . Headquarters. Tempe, Arizona, United States."
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.aa.com/i18n/customer-service/about-us/american-airlines-group.jsp",
       "query": "American Airlines Group Inc. major customers clients",
-      "snippet": "The American Eagle network of 5 regional carriers operates under a codeshare and service agreement with American , serving destinations across the U.S"
+      "snippet": "In 2016, American Airlines Group Inc . topped Fortune magazine’s list of best business turnarounds, and its stock (NASDAQ: AAL) joined the S&P 500 ind"
     }
   ]
 }

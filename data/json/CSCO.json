@@ -1,21 +1,21 @@
 {
   "ticker": "CSCO",
   "company_name": "Cisco Systems, Inc.",
-  "sector": "Technology / Communication Equipment",
-  "industry": "Networking Equipment",
+  "sector": "Technology",
+  "industry": "Communication Equipment",
   "upstream": [
     "INTC",
     "AVGO",
     "QCOM",
-    "TXN",
-    "NVDA"
+    "NVDA",
+    "TXN"
   ],
   "downstream": [
-    "CAT",
-    "Enterprise IT departments",
-    "Government agencies",
-    "Service providers",
-    "CAT"
+    "AT&T",
+    "Verizon",
+    "GOOGL",
+    "MSFT",
+    "AMZN"
   ],
   "competitors": [
     "JNPR",
@@ -25,15 +25,13 @@
     "Ericsson"
   ],
   "key_products": [
-    "Cisco routers",
-    "Cisco switches",
-    "Cisco firewalls (ASA)",
-    "Cisco Webex",
-    "Cisco OpenDNS",
-    "Cisco Jabber",
-    "Cisco Meraki"
+    "Cisco IOS",
+    "Cisco ASA",
+    "Cisco Meraki",
+    "Webex",
+    "OpenDNS"
   ],
-  "extracted_at": "2026-06-25 18:25:01",
+  "extracted_at": "2026-06-26 17:38:39",
   "sources": [
     {
       "source": "Wikipedia",
@@ -51,19 +49,19 @@
       "source": "DuckDuckGo",
       "url": "https://www.cisco.com/",
       "query": "Cisco Systems, Inc. suppliers manufacturers",
-      "snippet": "Cisco is a worldwide technology leader powering an inclusive future for all. Learn more about our products, services, solutions, and innovations. Cisc"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://ru.wikipedia.org/wiki/Cisco",
-      "query": "Cisco Systems, Inc. major customers clients",
-      "snippet": "Cisco Systems , «Сиско Системз» — американская транснациональная компания, разрабатывающая и продающая сетевое оборудование, предназначенное в основно"
+      "snippet": "Cisco is a worldwide technology leader powering an inclusive future for all. Learn more about our products, services, solutions, and innovations.Disco"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.cisco.com/",
       "query": "Cisco Systems, Inc. major customers clients",
-      "snippet": "Cisco is a worldwide technology leader powering an inclusive future for all. Learn more about our products, services, solutions, and innovations.39M N"
+      "snippet": "Cisco is a worldwide technology leader powering an inclusive future for all. Learn more about our products, services, solutions, and innovations.Join "
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.linkedin.com/company/cisco",
+      "query": "Cisco Systems, Inc. major customers clients",
+      "snippet": "Cisco Meraki Systems Manager. Cisco Meraki Systems Manager. Mobile Device Management (MDM) Software. Cisco Secure Malware Analytics, Threat Intelligen"
     }
   ]
 }

@@ -4,30 +4,34 @@
   "sector": "Technology",
   "industry": "Semiconductors",
   "upstream": [
-    "Diodes Incorporated"
+    "TSM",
+    "005930.KS",
+    "GlobalFoundries",
+    "INTC",
+    "SMIC"
   ],
   "downstream": [
+    "Ford Motor Company",
     "General Motors",
-    "Ford",
-    "005930.KS",
+    "CSCO",
     "AAPL",
-    "MSFT"
+    "Siemens AG"
   ],
   "competitors": [
     "TXN",
     "ADI",
+    "STMicroelectronics",
     "NXP Semiconductors",
-    "Infineon Technologies",
-    "STMicroelectronics"
+    "Infineon Technologies"
   ],
   "key_products": [
     "Power management ICs",
     "Signal processing ICs",
     "Logic ICs",
-    "Discrete semiconductors",
-    "Custom devices"
+    "Discrete devices",
+    "LED drivers"
   ],
-  "extracted_at": "2026-05-13 18:01:58",
+  "extracted_at": "2026-06-26 17:36:18",
   "sources": [
     {
       "source": "Wikipedia",
@@ -37,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Diodes_Incorporated",
+      "url": "https://en.wikipedia.org/wiki/Onsemi",
       "query": "ON Semiconductor Corporation suppliers manufacturers",
-      "snippet": "Diodes Incorporated is a global manufacturer and supplier of application specific standard products within the discrete, logic, analog, and mixed-sign"
+      "snippet": "ON Semiconductor Corporation (stylized and doing business as onsemi) is an American semiconductor supplier company, based in Scottsdale, Arizona. Prod"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.case48.com/porter-analysis/6014-ON-Semiconductor-Corporation",
+      "url": "https://en.wikipedia.org/wiki/List_of_semiconductor_fabrication_plants",
       "query": "ON Semiconductor Corporation suppliers manufacturers",
-      "snippet": "ON Semiconductor Corporation is highly price sensitive and has adequate market knowledge. There is no threat of forward integration by suppliers . How"
+      "snippet": "Some pure play foundries like TSMC offer IC design services, and others, like Samsung, design and manufacture ICs for customers, while also designing,"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Onsemi",
       "query": "ON Semiconductor Corporation major customers clients",
-      "snippet": "ON Semiconductor Corporation (stylized and doing business as onsemi) is an American semiconductor supplier company, based in Scottsdale, Arizona. Prod"
+      "snippet": "ON Semiconductor Corporation (stylized and doing business as onsemi) is an American semiconductor supplier company, based in Scottsdale, Arizona."
     },
     {
       "source": "DuckDuckGo",
       "url": "https://csimarket.com/stocks/ON-Customers",
       "query": "ON Semiconductor Corporation major customers clients",
-      "snippet": "On Semiconductor 's Customers have recorded an increase in their cost of revenue by 12.57 % in the 1 quarter 2026 year on year, sequentially costs of "
+      "snippet": "4 days ago · For your research, we’ve provided 9 tables on On Semiconductor Corporation corporate clients . You can find them in the navigation menu u"
     }
   ]
 }

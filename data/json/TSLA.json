@@ -8,30 +8,30 @@
     "LG Chem",
     "CAT",
     "005930.KS",
-    "BYD"
+    "Bosch"
   ],
   "downstream": [
     "Individual consumers",
-    "Uber",
-    "Lyft",
-    "AMZN",
-    "U.S. Army"
+    "Fleet operators",
+    "Utility companies (Megapack)",
+    "Commercial fleet customers",
+    "Residential customers (Powerwall)"
   ],
   "competitors": [
-    "General Motors",
     "Ford",
+    "General Motors",
     "Volkswagen",
-    "Nissan",
-    "Hyundai"
+    "Hyundai",
+    "Rivian"
   ],
   "key_products": [
     "Model 3",
     "Model Y",
-    "Model S",
-    "Model X",
-    "Powerwall"
+    "Cybertruck",
+    "Powerwall",
+    "Solar Roof"
   ],
-  "extracted_at": "2026-06-25 18:06:05",
+  "extracted_at": "2026-06-26 17:30:19",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,25 +43,25 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Tesla,_Inc.",
       "query": "Tesla, Inc. suppliers manufacturers",
-      "snippet": "Tesla , Inc . is an American multinational automotive and clean energy company.The company was incorporated in July 2003 by Martin Eberhard and Marc T"
+      "snippet": "4 days ago - The practice of vertical integration ... to suppliers and focus on engine manufacturing and final assembly. Tesla generally allows its co"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/suppliers_glance.php?code=TSLA",
+      "url": "https://www.investopedia.com/ask/answers/052815/who-are-teslas-tsla-main-suppliers.asp",
       "query": "Tesla, Inc. suppliers manufacturers",
-      "snippet": "Tesla Inc 's Suppliers Performance. TSLA's Supply Chain. Tesla relies on a wide range of suppliers beyond just battery manufacturers to build our elec"
+      "snippet": "November 4, 2025 - Tesla manufactures key components like the electric motor, battery pack, and charger, but relies on suppliers for other parts. Key "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Tesla,_Inc.",
+      "url": "https://csimarket.com/stocks/TSLA-Customers",
       "query": "Tesla, Inc. major customers clients",
-      "snippet": "Tesla , Inc . is an American multinational automotive and clean energy company.The company was incorporated in July 2003 by Martin Eberhard and Marc T"
+      "snippet": "3 days ago · We currently sell our cars primarily to individual customers . We have strategic or commercial relationships with Daimler, Toyota, and Pa"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.tesla.com/",
+      "url": "https://mungomash.com/orgs/tesla/customers/",
       "query": "Tesla, Inc. major customers clients",
-      "snippet": "Video Guides. Customer Stories. Events. Safety.\"Compare Model 3 and Model Y\". \"What's Pet Mode?\" \"What does the Tesla app do?\" \"Where can I drive the "
+      "snippet": "Named Tesla customers across Energy / Megapack utility-scale deployments, NACS-adoption partner automakers and charging networks, Solar projects, and "
     }
   ]
 }

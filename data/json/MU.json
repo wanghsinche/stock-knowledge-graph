@@ -4,34 +4,34 @@
   "sector": "Technology",
   "industry": "Semiconductors",
   "upstream": [
-    "ASML",
     "AMAT",
+    "ASML",
     "LRCX",
     "Tokyo Electron",
-    "Kokusai Electric"
+    "KLA Corporation"
   ],
   "downstream": [
     "DELL",
     "HPQ",
-    "Lenovo",
+    "Lenovo Group",
     "AAPL",
-    "005930.KS"
+    "AMZN"
   ],
   "competitors": [
     "005930.KS",
     "SK Hynix",
-    "WDC",
     "Kioxia",
-    "Netlist"
+    "WDC",
+    "INTC"
   ],
   "key_products": [
     "DRAM",
-    "NAND flash",
-    "HBM",
-    "SSDs",
-    "Memory modules"
+    "NAND flash memory",
+    "High Bandwidth Memory (HBM)",
+    "Solid-state drives (SSDs)",
+    "Memory modules for servers"
   ],
-  "extracted_at": "2026-06-25 18:02:42",
+  "extracted_at": "2026-06-26 17:29:18",
   "sources": [
     {
       "source": "Wikipedia",
@@ -53,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/MU/",
+      "url": "https://www.micron.com/",
       "query": "Micron Technology, Inc. major customers clients",
-      "snippet": "Micron Technology , Inc . designs, develops, manufactures, and sells memory and storage products in the United States, Taiwan, Japan, Mainland China, "
+      "snippet": "Explore Micron Technology , leading in semiconductors with a broad range of performance-enhancing memory and storage solutions.Learn about and enroll "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.micron.com/",
+      "url": "https://finance.yahoo.com/quote/MU/",
       "query": "Micron Technology, Inc. major customers clients",
-      "snippet": "Explore Micron Technology , leading in semiconductors with a broad range of performance-enhancing memory and storage solutions. Customer trust center."
+      "snippet": "Find the latest Micron Technology , Inc . (MU) stock quote, history, news and other vital information to help you with your stock trading and investin"
     }
   ]
 }

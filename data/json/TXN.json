@@ -4,18 +4,18 @@
   "sector": "Technology",
   "industry": "Semiconductors",
   "upstream": [
-    "Silicon wafer suppliers",
-    "Packaging materials suppliers",
-    "Electronic component suppliers",
-    "Chemical suppliers",
-    "Equipment manufacturers"
+    "TSM",
+    "005930.KS",
+    "GlobalFoundries",
+    "INTC",
+    "MU"
   ],
   "downstream": [
-    "Automotive OEMs",
-    "Industrial automation companies",
-    "Consumer electronics manufacturers",
-    "CAT",
-    "Embedded system integrators"
+    "Ford Motor Company",
+    "General Motors",
+    "Bosch",
+    "QCOM",
+    "MSFT"
   ],
   "competitors": [
     "ADI",
@@ -31,13 +31,37 @@
     "Calculators",
     "Microcontrollers"
   ],
-  "extracted_at": "2026-06-23 18:15:54",
+  "extracted_at": "2026-06-26 17:41:43",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Texas_Instruments_Incorporated",
       "title": "Texas Instruments",
       "snippet": "Texas Instruments Incorporated (TI) is an American multinational semiconductor company headquartered in Dallas, Texas. It is one of the top 10 semiconductor companies worldwide based on sales volume. "
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/Texas_Instruments",
+      "query": "Texas Instruments Incorporated suppliers manufacturers",
+      "snippet": "Texas Instruments Incorporated ( TI ) is an American multinational semiconductor company headquartered in Dallas, Texas . It is one of the top 10 semi"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://finance.yahoo.com/quote/TXN/",
+      "query": "Texas Instruments Incorporated suppliers manufacturers",
+      "snippet": "Find the latest Texas Instruments Incorporated (TXN) stock quote, history, news and other vital information to help you with your stock trading and in"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/Texas_Instruments",
+      "query": "Texas Instruments Incorporated major customers clients",
+      "snippet": "Texas Instruments provides free services to the College Board, which administers AP tests and the SAT, and also has a group called Teachers Teaching f"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/TXN-Customers",
+      "query": "Texas Instruments Incorporated major customers clients",
+      "snippet": "For your research, we’ve provided 9 tables on Texas Instruments Incorporated corporate clients . You can find them in the navigation menu under Custom"
     }
   ]
 }

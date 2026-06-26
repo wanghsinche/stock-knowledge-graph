@@ -3,8 +3,8 @@ ticker: VRT
 company: Vertiv Holdings Co
 sector: Industrials / Electrical Equipment & Parts
 industry: Data Center Infrastructure
-extracted_at: 2026-06-25 18:20:15
-last_updated: 2026-06-25
+extracted_at: 2026-06-26 17:41:10
+last_updated: 2026-06-26
 ---
 
 # VRT - Vertiv Holdings Co
@@ -12,16 +12,16 @@ last_updated: 2026-06-25
 ## 基本信息
 
 - **所属行业**: Industrials / Electrical Equipment & Parts / Data Center Infrastructure
-- **提取时间**: 2026-06-25 18:20:15
+- **提取时间**: 2026-06-26 17:41:10
 
 ## 产业链关系
 
 ### 上游供应商
 - [[Siemens]]
 - [[ABB]]
-- [[Eaton]]
 - [[Schneider Electric]]
-- [[Mitsubishi Electric]]
+- [[Honeywell]]
+- [[General Electric]]
 
 ### 下游客户
 - [[AMZN]]
@@ -32,8 +32,8 @@ last_updated: 2026-06-25
 
 ### 竞争对手
 - [[Schneider Electric]]
-- [[Eaton]]
 - [[ABB]]
+- [[Siemens]]
 - [[CSCO]]
 - [[HPQ]]
 
@@ -41,17 +41,17 @@ last_updated: 2026-06-25
 - [[Power Distribution Units (PDUs)]]
 - [[Uninterruptible Power Supplies (UPS)]]
 - [[Cooling Systems]]
-- [[Data Center Infrastructure Management (DCIM) Software]]
-- [[Rack-Mount Power Modules]]
+- [[Data Center Infrastructure Solutions]]
+- [[Network Infrastructure]]
 
 ## 数据来源
 
 - [Vertiv](https://en.wikipedia.org/wiki/Vertiv_Holdings_Co)
-- [Vertiv Holdings Co suppliers manufacturers](https://csimarket.com/news/vertiv-launches-ai-hub-and-achieves-significant-financial-milestone-cementing-its-leadership-in-digital-infrastructure2024-05-23001994)
-- [Vertiv Holdings Co suppliers manufacturers](https://www.insidermonkey.com/blog/vertiv-holdings-co-vrt-a-bull-case-theory-5-1661399/)
-- [Vertiv Holdings Co major customers clients](https://www.stockjabber.com/company/VRT/company-insights)
-- [Vertiv Holdings Co major customers clients](https://www.marketbeat.com/instant-alerts/filing-norges-bank-makes-new-80870-million-investment-in-vertiv-holdings-co-vrt-2026-05-31/)
+- [Vertiv Holdings Co suppliers manufacturers](https://en.wikipedia.org/wiki/Vertiv)
+- [Vertiv Holdings Co suppliers manufacturers](https://www.vertiv.com/)
+- [Vertiv Holdings Co major customers clients](https://www.marketbeat.com/instant-alerts/filing-alberta-investment-management-corp-increases-holdings-in-vertiv-holdings-co-vrt-2026-06-19/)
+- [Vertiv Holdings Co major customers clients](https://blockonomi.com/vertiv-vrt-stock-soars-nearly-90-this-year-should-investors-buy-the-dip/)
 
 ## 元数据
 
-- **更新日期**: 2026-06-25
+- **更新日期**: 2026-06-26

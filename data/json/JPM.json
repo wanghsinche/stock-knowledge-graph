@@ -4,34 +4,34 @@
   "sector": "Financial Services",
   "industry": "Banks - Diversified",
   "upstream": [
+    "IBM",
     "MSFT",
-    "Payment processors (e.g., Visa, Mastercard)",
-    "Data providers (e.g., Bloomberg, Thomson Reuters)",
+    "ORCL",
     "AMZN",
-    "Cybersecurity firms (e.g., Palo Alto Networks)"
+    "GOOGL"
   ],
   "downstream": [
-    "Retail banking customers",
-    "Corporate and institutional clients",
-    "High‑net‑worth individuals (wealth management)",
-    "Small and medium‑enterprise borrowers",
-    "Government and public sector entities"
+    "Retail customers",
+    "Corporate clients",
+    "Investment banking clients",
+    "Wealth management clients",
+    "Insurance partners"
   ],
   "competitors": [
-    "Citigroup",
     "Bank of America",
+    "Citigroup",
     "Wells Fargo",
     "Goldman Sachs",
     "Morgan Stanley"
   ],
   "key_products": [
-    "Retail banking services",
-    "Investment banking and advisory",
-    "Asset and wealth management",
-    "Credit card and consumer lending",
-    "Treasury and cash management"
+    "Retail banking",
+    "Corporate banking",
+    "Investment banking",
+    "Wealth management",
+    "Credit cards"
   ],
-  "extracted_at": "2026-06-25 18:15:39",
+  "extracted_at": "2026-06-26 17:38:52",
   "sources": [
     {
       "source": "Wikipedia",
@@ -42,26 +42,26 @@
     {
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/JPMorgan_Chase",
-      "query": "JPMorgan Chase & Co. major customers clients",
+      "query": "JPMorgan Chase & Co. suppliers manufacturers",
       "snippet": "JPMorgan Chase & Co . (stylized as JPMorganChase ) is an American multinational banking institution headquartered in New York City and incorporated in"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.jpmorganchase.com/",
-      "query": "JPMorgan Chase & Co. major customers clients",
-      "snippet": "JPMorganChase serves millions of customers , clients and communities in over 100 global markets.We are united by a purpose that weaves together what w"
+      "query": "JPMorgan Chase & Co. suppliers manufacturers",
+      "snippet": "Latest news. An Ohio-based company is protecting first responders around the world. With support from JPMorganChase , Fire-Dex is providing protective"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/JPMorgan_Chase",
-      "query": "JPMorgan Chase & Co. competitors alternatives",
-      "snippet": "JPMorgan Chase & Co . (stylized as JPMorganChase ) is an American multinational banking institution headquartered in New York City and incorporated in"
+      "query": "JPMorgan Chase & Co. major customers clients",
+      "snippet": "Today, the firm is a major provider of investment banking services, through corporate advisory, mergers and acquisitions, sales and trading, and publi"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://bullfincher.io/companies/jpmorgan-chase-co/competitors",
-      "query": "JPMorgan Chase & Co. competitors alternatives",
-      "snippet": "JPMorgan Chase & Co .'s competitors include Citigroup, Bank of America Corporation and more. Discover more competitors and create your own custom side"
+      "url": "https://www.jpmorganchase.com/",
+      "query": "JPMorgan Chase & Co. major customers clients",
+      "snippet": "JPMorganChase serves millions of customers , clients and communities in over 100 global markets. For 225 years, our work has been guided by principles"
     }
   ]
 }

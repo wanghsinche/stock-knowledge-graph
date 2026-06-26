@@ -1,37 +1,30 @@
 {
   "ticker": "SPCX",
   "company_name": "Space Exploration Technologies Corp.",
-  "sector": "Industrials",
+  "sector": "Industrials / Aerospace & Defense",
   "industry": "Aerospace & Defense",
   "upstream": [
-    "Aerojet Rocketdyne",
-    "Boeing",
-    "Lockheed Martin",
-    "Northrop Grumman",
-    "Honeywell"
+    "Starlink Services, LLC",
+    "SpaceX's own manufacturing facilities"
   ],
   "downstream": [
     "NASA",
-    "U.S. Department of Defense",
-    "SpaceX Starlink customers (commercial & residential)",
-    "INTC",
-    "U.S. Space Force"
+    "United States Space Force"
   ],
   "competitors": [
+    "Blue Origin",
     "United Launch Alliance",
     "Arianespace",
-    "Blue Origin",
-    "Rocket Lab",
-    "Relativity Space"
+    "Rocket Lab"
   ],
   "key_products": [
-    "Falcon 9 rocket",
-    "Falcon Heavy rocket",
+    "Falcon 9",
+    "Falcon Heavy",
     "Starship",
-    "Starlink satellite constellation",
-    "Dragon spacecraft"
+    "Starlink satellites",
+    "Starlink broadband service"
   ],
-  "extracted_at": "2026-06-25 18:06:36",
+  "extracted_at": "2026-06-26 17:31:42",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +34,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/SpaceX",
+      "url": "https://en.wikipedia.org/wiki/Starlink",
       "query": "Space Exploration Technologies Corp. suppliers manufacturers",
-      "snippet": "Space Exploration Technologies Corporation , doing business as SpaceX , is a private American spaceflight, telecommunications, and artificial intellig"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/SPCX/",
-      "query": "Space Exploration Technologies Corp. suppliers manufacturers",
-      "snippet": "Space Exploration Technologies Corp . provides satellite-based broadband services in the United States, Ireland, Canada, and internationally.Its Space"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/SpaceX",
-      "query": "Space Exploration Technologies Corp. major customers clients",
-      "snippet": "Space Exploration Technologies Corporation , doing business as SpaceX , is a private American spaceflight, telecommunications, and artificial intellig"
+      "snippet": "Starlink Services, LLC is a satellite internet constellation subsidiary of the American space company SpaceX , providing broadband Internet service in"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.tradingview.com/symbols/NASDAQ-SPCX/",
+      "query": "Space Exploration Technologies Corp. suppliers manufacturers",
+      "snippet": "Track SpaceX stock price and see how investors are reacting to the IPO.Watch SPCX chart and read a more detailed Space Exploration Technologies Corp s"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/SpaceX",
       "query": "Space Exploration Technologies Corp. major customers clients",
-      "snippet": "Space Exploration Technologies Corp ( SpaceX ). SPCX Nasdaq Stock Market. Space Exploration Technologies Corp ., doing business as SpaceX , operates a"
+      "snippet": "The company's largest customers include NASA, the United States Space Force, and the National Reconnaissance Office. Elon Musk owns 42% of the outstan"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://stockanalysis.com/stocks/spcx/company/",
+      "query": "Space Exploration Technologies Corp. major customers clients",
+      "snippet": "21 hours ago · Space Exploration Technologies Corp . provides satellite-based broadband services in the United States, Ireland, Canada, and internatio"
     }
   ]
 }

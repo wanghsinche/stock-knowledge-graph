@@ -8,14 +8,14 @@
     "005930.KS",
     "GlobalFoundries",
     "UMC",
-    "INTC"
+    "SMIC"
   ],
   "downstream": [
-    "DELL",
-    "HPQ",
-    "SONY",
     "MSFT",
-    "TSLA"
+    "MSFT",
+    "TSLA",
+    "ORCL",
+    "Cloud gaming platforms (GeForce NOW, Xbox Cloud Gaming)"
   ],
   "competitors": [
     "AMD",
@@ -26,12 +26,12 @@
   ],
   "key_products": [
     "GeForce GPUs",
-    "Quadro GPUs",
+    "Quadro/RTX GPUs",
     "Tesla GPUs",
-    "Tegra SoCs",
-    "CUDA API"
+    "Jetson SoCs",
+    "CUDA & RTX APIs"
   ],
-  "extracted_at": "2026-06-25 18:03:51",
+  "extracted_at": "2026-06-26 17:30:07",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Nvidia",
+      "url": "https://csimarket.com/stocks/NVDA-Suppliers",
       "query": "NVIDIA Corporation suppliers manufacturers",
-      "snippet": "2 weeks ago - In August 2025, Nvidia ordered suppliers to halt production of its H20 AI chip following Chinese government directives warning domestic "
+      "snippet": "4 days ago · Nvidia 's Comment on Supply Chain We utilize a fabless and contracting manufacturing strategy, whereby we employ and partner with key sup"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.accio.com/supplier/nvidia-supplier-list",
+      "url": "https://www.suppliersmap.com/nvidia",
       "query": "NVIDIA Corporation suppliers manufacturers",
-      "snippet": "April 24, 2026 - NVIDIA's key suppliers span various critical areas of semiconductor manufacturing and assembly. These include TSMC (Taiwan Semiconduc"
+      "snippet": "Explore Nvidia 's complete supply chain with interactive visualizations showing supplier locations and component breakdowns across GeForce RTX and oth"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.tradingview.com/symbols/NASDAQ-NVDA/",
+      "url": "https://csimarket.com/stocks/NVDA-Customers",
       "query": "NVIDIA Corporation major customers clients",
-      "snippet": "View live NVIDIA Corporation chart to track its stock's price action. Find market predictions, NVDA financials and market news."
+      "snippet": "Nvidia customers and markets, results by customer and performance relative to NVDA, by company and industry - CSIMarket"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.investing.com/equities/nvidia-corp",
+      "url": "https://stocksandfuturestrading.com/the-complete-list-of-nvidias-suppliers-and-consumers/",
       "query": "NVIDIA Corporation major customers clients",
-      "snippet": "View today's NVIDIA Corporation stock price and latest NVDA news and analysis. Create real-time notifications to follow any changes in the live stock "
+      "snippet": "Nov 22, 2024 · NVIDIA has completed one of the most dramatic business transformations in market history — going from a gaming GPU company to the backb"
     }
   ]
 }

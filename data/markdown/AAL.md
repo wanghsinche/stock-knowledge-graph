@@ -3,8 +3,8 @@ ticker: AAL
 company: American Airlines Group Inc.
 sector: Industrials
 industry: Airlines
-extracted_at: 2026-06-25 18:14:50
-last_updated: 2026-06-25
+extracted_at: 2026-06-26 17:39:30
+last_updated: 2026-06-26
 ---
 
 # AAL - American Airlines Group Inc.
@@ -12,23 +12,23 @@ last_updated: 2026-06-25
 ## 基本信息
 
 - **所属行业**: Industrials / Airlines
-- **提取时间**: 2026-06-25 18:14:50
+- **提取时间**: 2026-06-26 17:39:30
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Airbus]]
 - [[Boeing]]
-- [[Spirit AeroSystems]]
+- [[Airbus]]
 - [[GE Aviation]]
+- [[Pratt & Whitney]]
 - [[Rolls‑Royce]]
 
 ### 下游客户
-- [[American Eagle regional carriers]]
 - [[Corporate travel clients]]
-- [[Government travel contracts]]
-- [[Frequent flyer program members]]
+- [[Business travelers]]
+- [[Leisure passengers]]
 - [[Travel agencies]]
+- [[Cargo shippers]]
 
 ### 竞争对手
 - [[Delta Air Lines]]
@@ -39,10 +39,10 @@ last_updated: 2026-06-25
 
 ### 核心产品
 - [[Passenger air transport]]
-- [[Cargo transport]]
-- [[Maintenance, repair, and overhaul services]]
-- [[In‑flight entertainment]]
-- [[Frequent flyer program]]
+- [[Freight and cargo services]]
+- [[Maintenance, repair, and overhaul (MRO)]]
+- [[Loyalty program (AAdvantage)]]
+- [[In‑flight entertainment and connectivity]]
 
 ## 数据来源
 
@@ -54,4 +54,4 @@ last_updated: 2026-06-25
 
 ## 元数据
 
-- **更新日期**: 2026-06-25
+- **更新日期**: 2026-06-26

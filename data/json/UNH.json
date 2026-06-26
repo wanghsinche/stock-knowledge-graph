@@ -2,36 +2,36 @@
   "ticker": "UNH",
   "company_name": "UnitedHealth Group Incorporated",
   "sector": "Healthcare",
-  "industry": "Healthcare Plans",
+  "industry": "Health Insurance / Health Plans",
   "upstream": [
-    "Pfizer",
-    "Johnson & Johnson",
-    "Merck & Co.",
-    "AbbVie",
-    "Medtronic"
+    "Pharmaceutical manufacturers",
+    "Medical device manufacturers",
+    "Health technology vendors",
+    "Data analytics providers",
+    "Pharmacy benefit managers"
   ],
   "downstream": [
-    "Medicare",
-    "Medicaid",
     "Large corporate employers",
-    "Individual consumers",
-    "Government agencies"
+    "Government programs (Medicare, Medicaid)",
+    "Health plans and insurers",
+    "Hospitals and health systems",
+    "Individual consumers"
   ],
   "competitors": [
     "Anthem",
     "Aetna",
     "Cigna",
     "Humana",
-    "Blue Cross Blue Shield"
+    "CVS Health (Aetna)"
   ],
   "key_products": [
-    "Health insurance plans",
-    "Medicare Advantage",
+    "Commercial health insurance plans",
+    "Medicare Advantage plans",
     "Medicaid managed care",
-    "Pharmacy benefit management (OptumRx)",
-    "Health data analytics (OptumInsight)"
+    "Pharmacy benefit management",
+    "Health data analytics & Optum services"
   ],
-  "extracted_at": "2026-06-25 18:22:03",
+  "extracted_at": "2026-06-26 17:39:41",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/UNH/",
+      "url": "https://csimarket.com/stocks/singleFinancialStrength.php?code=UNH&Let",
       "query": "UnitedHealth Group Incorporated suppliers manufacturers",
-      "snippet": "UnitedHealth Group Incorporated Overview Healthcare Plans / Healthcare. UnitedHealth Group Incorporated operates as a health care company in the Unite"
+      "snippet": "Unitedhealth Group Incorporated Executive Officers. Economic Indicators. Unitedhealth Group Incorporated Competitors Results. UNH Competitors Stock Pe"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://de.tradingview.com/symbols/VIE-UNH/bonds/",
+      "url": "https://es.tradingview.com/symbols/NYSE-UNH/bonds/",
       "query": "UnitedHealth Group Incorporated suppliers manufacturers",
-      "snippet": "Anleihen. Unten befindet sich eine Liste von UnitedHealth Group Incorporated Unternehmensanleihen. Investoren entscheiden sich oft für Unternehmensanl"
+      "snippet": "A continuación se muestra la lista de bonos de UnitedHealth Group Incorporated , ordenados por rendimiento mínimo. Los inversores suelen optar por los"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.uhc.com/",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-19/unitedhealth-bets-3-billion-on-ai-to-cut-costs-tame-backlash",
       "query": "UnitedHealth Group Incorporated major customers clients",
-      "snippet": "Explore health insurance options including Medicare, Medicaid, individual and family, short term and dental, as well as employer plans. Group plans fo"
+      "snippet": "At UnitedHealth Group Inc ., artificial intelligence reads aloud summaries of medical charts as nurses drive to patients’ homes. It listens to million"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/UNH/",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-modus-advisors-llc-raises-position-in-unitedhealth-group-incorporated-unh-2026-06-07/",
       "query": "UnitedHealth Group Incorporated major customers clients",
-      "snippet": "UnitedHealth Group Incorporated Overview Healthcare Plans / Healthcare. UnitedHealth Group Incorporated operates as a health care company in the Unite"
+      "snippet": "Modus Advisors LLC lifted its stake in shares of UnitedHealth Group Incorporated (NYSE:UNH - Free Report) by 91.2% in the 4th quarter, according to th"
     }
   ]
 }

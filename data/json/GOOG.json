@@ -4,17 +4,17 @@
   "sector": "Communication Services",
   "industry": "Internet Content & Information",
   "upstream": [
-    "INTC",
-    "QCOM",
-    "005930.KS",
     "NVDA",
-    "CSCO"
+    "CSCO",
+    "MSFT",
+    "CAT",
+    "QCOM"
   ],
   "downstream": [
-    "Advertisers (e.g., Walmart, Coca‑Cola)",
+    "Advertisers (global brands, small businesses)",
     "005930.KS",
-    "YouTube content creators",
     "GOOGL",
+    "YouTube content creators and viewers",
     "GOOGL"
   ],
   "competitors": [
@@ -26,12 +26,16 @@
   ],
   "key_products": [
     "Google Search",
-    "YouTube",
     "Android OS",
     "Google Cloud Platform",
-    "Google Ads"
+    "YouTube",
+    "Google Ads",
+    "Google Chrome",
+    "Google Maps",
+    "Google Workspace",
+    "Google Play Store"
   ],
-  "extracted_at": "2026-06-25 18:09:00",
+  "extracted_at": "2026-06-26 17:33:50",
   "sources": [
     {
       "source": "Wikipedia",
@@ -59,9 +63,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.investing.com/equities/google-inc",
+      "url": "https://www.globaldata.com/company-profile/alphabet-inc/",
       "query": "Alphabet Inc. major customers clients",
-      "snippet": "Get detailed information about the Alphabet Inc . stock (GOOGL) including Price, Charts, Technical Analysis, Historical data, Alphabet Reports and mor"
+      "snippet": "Alphabet Inc Company Profile - Alphabet Inc Overview - GlobalData."
     }
   ]
 }

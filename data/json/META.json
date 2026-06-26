@@ -4,34 +4,34 @@
   "sector": "Communication Services",
   "industry": "Internet Content & Information",
   "upstream": [
-    "NVDA",
     "INTC",
+    "NVDA",
     "AMD",
-    "QCOM",
-    "005930.KS"
+    "CSCO",
+    "DELL"
   ],
   "downstream": [
-    "Advertisers (e.g., Coca‑Cola, Nike)",
+    "Advertisers",
     "App developers",
-    "Content creators",
-    "META",
-    "Consumers of social media"
+    "E-commerce merchants",
+    "Media partners",
+    "Content creators"
   ],
   "competitors": [
     "GOOGL",
     "AMZN",
     "AAPL",
     "MSFT",
-    "TikTok (ByteDance)"
+    "TikTok"
   ],
   "key_products": [
     "Facebook",
     "Instagram",
     "WhatsApp",
     "Messenger",
-    "Meta Ads"
+    "Threads"
   ],
-  "extracted_at": "2026-06-25 18:08:15",
+  "extracted_at": "2026-06-26 17:34:09",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,15 +41,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ru.wikipedia.org/wiki/Meta_Platforms",
+      "url": "https://csimarket.com/stocks/META-Suppliers",
       "query": "Meta Platforms, Inc. suppliers manufacturers",
-      "snippet": "Meta Platforms , Inc . — американская транснациональная холдинговая компания, владеющая технологическим конгломератом и расположенная в Менло-Парке, К"
+      "snippet": "4 days ago · For your research, we’ve provided nine additional tables on Meta Platforms Inc ’ s suppliers . You can find them in the navigation menu u"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://investor.atmeta.com/",
+      "url": "https://www.suppliersmap.com/meta",
       "query": "Meta Platforms, Inc. suppliers manufacturers",
-      "snippet": "Investor Education Center. Meta for Business. Meta Ads Guide."
+      "snippet": "Explore Meta ' s complete supply chain with interactive visualizations showing supplier locations and component breakdowns across Quest, Ray-Ban Meta,"
     },
     {
       "source": "DuckDuckGo",
@@ -59,9 +59,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.benzinga.com/analyst-ratings/analyst-color/24/09/41046013/metas-ai-breakthroughs-dominate-connect-event-as-analyst-highlights-affordable-mixe",
+      "url": "https://developers.meta.com/",
       "query": "Meta Platforms, Inc. major customers clients",
-      "snippet": "META Logo. METAMeta Platforms Inc .Though still in prototype, Meta believes Orion has the potential to be a game-changing platform . Anmuth also highl"
+      "snippet": "Build on every platform with Meta . Develop with Meta to create successful apps and projects, and grow your business.LAFISE Bank. Providing fast, more"
     }
   ]
 }

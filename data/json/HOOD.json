@@ -1,37 +1,37 @@
 {
   "ticker": "HOOD",
   "company_name": "Robinhood Markets, Inc.",
-  "sector": "Financial Services",
-  "industry": "Capital Markets",
+  "sector": "Financial Services / Capital Markets",
+  "industry": "Online Brokerage / Investment Services",
   "upstream": [
-    "NASDAQ Market Data Services",
-    "Bloomberg Data Services",
-    "Stripe Payment Processing",
-    "AWS Cloud Services",
-    "MSFT"
+    "NASDAQ",
+    "NYSE",
+    "CBOE",
+    "Bloomberg",
+    "AMZN"
   ],
   "downstream": [
+    "Millennials",
+    "Gen Z",
     "Retail investors",
-    "Day traders",
-    "Institutional clients",
-    "High-frequency traders",
-    "Crypto traders"
+    "Individual investors",
+    "Young professionals"
   ],
   "competitors": [
-    "Charles Schwab",
     "E*TRADE",
-    "Fidelity",
     "TD Ameritrade",
+    "Charles Schwab",
+    "Fidelity",
     "Webull"
   ],
   "key_products": [
-    "Commission-free stock trading",
-    "Options trading",
-    "Cryptocurrency trading",
-    "Margin trading",
-    "Robinhood Gold subscription"
+    "Commission‑free stock trading",
+    "Robinhood Gold premium service",
+    "Robinhood Crypto",
+    "Robinhood Cash Management",
+    "Options trading"
   ],
-  "extracted_at": "2026-06-25 18:18:24",
+  "extracted_at": "2026-06-26 17:39:20",
   "sources": [
     {
       "source": "Wikipedia",
@@ -49,19 +49,19 @@
       "source": "DuckDuckGo",
       "url": "https://www.investing.com/equities/robinhood-markets",
       "query": "Robinhood Markets, Inc. suppliers manufacturers",
-      "snippet": "$ HOOD is a common way to refer to the Robinhood Markets Inc ticker symbol in social media, forums, and online discussions. The dollar sign is a short"
+      "snippet": "Form 4 Robinhood Markets Inc For: 15 June. Robinhood Markets , Inc . (NASDAQ: HOOD ) announced Tuesday a reduction in its workforce by approximately 1"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://robinhood.com/",
+      "url": "https://en.wikipedia.org/wiki/Robinhood_Markets",
       "query": "Robinhood Markets, Inc. major customers clients",
-      "snippet": "Trade stocks on Robinhood with commission-free investing & advanced trading tools. Access fractional shares, real-time market data, and more."
+      "snippet": "Robinhood has targeted millennials as customers ; in March 2025, the average age of its customers was 35. [4] Its platform is available in the U.S., t"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/HOOD/",
+      "url": "https://investingintheweb.com/brokers/robinhood-statistics/",
       "query": "Robinhood Markets, Inc. major customers clients",
-      "snippet": "Find the latest Robinhood Markets , Inc . ( HOOD ) stock quote, history, news and other vital information to help you with your stock trading and inve"
+      "snippet": "3 days ago · The platform has gained a massive customer base in the US, making it a major disruptor in the finance industry. In this article, we will "
     }
   ]
 }

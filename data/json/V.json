@@ -1,37 +1,37 @@
 {
   "ticker": "V",
   "company_name": "Visa Inc.",
-  "sector": "Financial Services / Credit Services",
-  "industry": "Payment Processing",
+  "sector": "Financial Services",
+  "industry": "Credit Services",
   "upstream": [
-    "Banks (issuers)",
-    "Chip manufacturers (NXP, STMicroelectronics)",
-    "ORCL",
-    "CSCO",
-    "Payment processors (VisaNet)"
+    "Chip and card manufacturing (e.g., Gemalto, IDEMIA)",
+    "Payment network infrastructure providers (e.g., VisaNet operators)",
+    "Card printing and embossing manufacturers",
+    "Security and fraud‑prevention technology vendors",
+    "Software platform providers for transaction processing"
   ],
   "downstream": [
-    "AMZN",
-    "Financial institutions (JPMorgan Chase, Bank of America)",
-    "Card issuers (Citibank, Wells Fargo)",
-    "Consumers (individual cardholders)",
-    "E-commerce platforms (eBay, Shopify)"
+    "Issuing banks and financial institutions",
+    "Merchant acquirers and point‑of‑sale (POS) providers",
+    "Retail and e‑commerce merchants",
+    "Consumer cardholders (credit, debit, prepaid)",
+    "Mobile wallet and digital payment platforms"
   ],
   "competitors": [
     "Mastercard",
     "American Express",
-    "Discover",
-    "PayPal",
-    "Square"
+    "Discover Financial",
+    "JCB",
+    "UnionPay"
   ],
   "key_products": [
-    "Visa Credit Card",
-    "Visa Debit Card",
-    "Visa Prepaid Card",
-    "VisaNet payment network",
-    "Visa Direct"
+    "Visa credit cards",
+    "Visa debit cards",
+    "Visa prepaid cards",
+    "Visa payment network services (VisaNet)",
+    "Contactless and mobile payment solutions"
   ],
-  "extracted_at": "2026-06-25 18:27:50",
+  "extracted_at": "2026-06-26 17:41:22",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,9 +47,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ru.wikipedia.org/wiki/Visa",
+      "url": "https://csimarket.com/stocks/V-Suppliers",
       "query": "Visa Inc. suppliers manufacturers",
-      "snippet": "Visa Inc . — американская транснациональная компания, предоставляющая услуги проведения платёжных операций. Является основой одноимённой ассоциации. С"
+      "snippet": "Visa Inc supply chain, list and performance of Visa Incs ' suppliers - CSIMarket."
     },
     {
       "source": "DuckDuckGo",
@@ -59,9 +59,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.britannica.com/money/Visa-Inc",
+      "url": "https://investor.visa.com/",
       "query": "Visa Inc. major customers clients",
-      "snippet": "Visa Inc . is an international payment card services corporation established in 1958.A major player in bolstering BankAmericard’s early success was De"
+      "snippet": "Choose Visa . Find a Visa Card. Visa Credit Cards."
     }
   ]
 }
