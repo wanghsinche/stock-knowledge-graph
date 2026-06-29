@@ -4,40 +4,64 @@
   "sector": "Technology",
   "industry": "Semiconductors",
   "upstream": [
-    "Silicon wafer suppliers",
-    "Lithography equipment manufacturers",
-    "Packaging and assembly providers",
-    "Test and measurement equipment vendors",
-    "EDA tool suppliers"
+    "TSM",
+    "005930.KS",
+    "GlobalFoundries",
+    "UMC",
+    "Tower Semiconductor"
   ],
   "downstream": [
-    "CSCO",
+    "AMZN",
+    "MSFT",
+    "GOOGL",
     "DELL",
-    "HPQ",
-    "NetApp",
-    "AMZN"
+    "HPQ"
   ],
   "competitors": [
     "AVGO",
     "MRVL",
     "QRVO",
     "INTC",
-    "AMD"
+    "Xilinx"
   ],
   "key_products": [
-    "High-speed interconnect chips",
-    "SerDes solutions",
-    "Silicon photonics devices",
-    "High-speed I/O IP",
-    "Data center interconnect solutions"
+    "PCIe interface chips",
+    "CXL interface chips",
+    "NVMe interface chips",
+    "Ethernet interface chips",
+    "InfiniBand interface chips"
   ],
-  "extracted_at": "2026-06-23 18:16:31",
+  "extracted_at": "2026-06-29 18:21:48",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "",
       "title": "",
       "snippet": ""
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.asteralabs.com/",
+      "query": "Astera Labs, Inc. suppliers manufacturers",
+      "snippet": "Go to the homepage of ASTERA LABS , INC .Cloud-Scale Interop Lab . Plug-and-play interoperability is critical for deploying rack-scale AI. Astera Labs"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://finance.yahoo.com/news/why-stifel-bullish-astera-labs-233356245.html",
+      "query": "Astera Labs, Inc. suppliers manufacturers",
+      "snippet": "Astera Labs , Inc . (NASDAQ:ALAB) is engaged in the design, manufacture , and selling of semiconductor-based connectivity solutions for cloud and AI i"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.asteralabs.com/",
+      "query": "Astera Labs, Inc. major customers clients",
+      "snippet": "Go to the homepage of ASTERA LABS , INC .Cloud-Scale Interop Lab . Plug-and-play interoperability is critical for deploying rack-scale AI. Astera Labs"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://investorshub.advfn.com/Astera-Labs-Inc-ALAB-42857",
+      "query": "Astera Labs, Inc. major customers clients",
+      "snippet": "Find the latest Astera Labs Inc (ALAB) discussion and analysis from iHub's community of investors.One of the key highlights of Astera Labs ’ IPO is it"
     }
   ]
 }

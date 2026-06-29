@@ -1,30 +1,38 @@
 {
   "ticker": "SPCX",
   "company_name": "Space Exploration Technologies Corp.",
-  "sector": "Industrials / Aerospace & Defense",
+  "sector": "Industrials",
   "industry": "Aerospace & Defense",
   "upstream": [
-    "Starlink Services, LLC",
-    "SpaceX's own manufacturing facilities"
+    "Aerojet Rocketdyne",
+    "Lockheed Martin",
+    "Boeing",
+    "Northrop Grumman",
+    "Honeywell Aerospace"
   ],
   "downstream": [
     "NASA",
-    "United States Space Force"
+    "U.S. Department of Defense",
+    "INTC",
+    "SES",
+    "Commercial satellite operators"
   ],
   "competitors": [
     "Blue Origin",
     "United Launch Alliance",
-    "Arianespace",
-    "Rocket Lab"
+    "Rocket Lab",
+    "Relativity Space",
+    "Arianespace"
   ],
   "key_products": [
     "Falcon 9",
     "Falcon Heavy",
     "Starship",
-    "Starlink satellites",
-    "Starlink broadband service"
+    "Starlink satellite constellation",
+    "Starlink broadband service",
+    "Grok AI services"
   ],
-  "extracted_at": "2026-06-26 17:31:42",
+  "extracted_at": "2026-06-29 18:07:46",
   "sources": [
     {
       "source": "Wikipedia",
@@ -34,9 +42,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Starlink",
+      "url": "https://en.wikipedia.org/wiki/SpaceX",
       "query": "Space Exploration Technologies Corp. suppliers manufacturers",
-      "snippet": "Starlink Services, LLC is a satellite internet constellation subsidiary of the American space company SpaceX , providing broadband Internet service in"
+      "snippet": "Space Exploration Technologies Corporation . Company headquarters, SpaceX Starbase in Starbase, Texas. SpaceX won demonstration and actual supply cont"
     },
     {
       "source": "DuckDuckGo",
@@ -48,13 +56,13 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/SpaceX",
       "query": "Space Exploration Technologies Corp. major customers clients",
-      "snippet": "The company's largest customers include NASA, the United States Space Force, and the National Reconnaissance Office. Elon Musk owns 42% of the outstan"
+      "snippet": "Space Exploration Technologies Corporation , doing business as SpaceX , is an American spaceflight, telecommunications, and artificial intelligence co"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://stockanalysis.com/stocks/spcx/company/",
+      "url": "https://finance.yahoo.com/quote/SPCX/",
       "query": "Space Exploration Technologies Corp. major customers clients",
-      "snippet": "21 hours ago · Space Exploration Technologies Corp . provides satellite-based broadband services in the United States, Ireland, Canada, and internatio"
+      "snippet": "Find the latest Space Exploration Technologies Corp . (SPCX) stock quote, history, news and other vital information to help you with your stock tradin"
     }
   ]
 }

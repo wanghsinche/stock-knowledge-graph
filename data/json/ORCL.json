@@ -6,32 +6,32 @@
   "upstream": [
     "INTC",
     "AMD",
-    "DELL",
-    "HPQ",
-    "CSCO"
+    "NVDA",
+    "CSCO",
+    "DELL"
   ],
   "downstream": [
     "Walmart",
     "JPMorgan Chase",
-    "Bank of America",
     "AT&T",
-    "Verizon"
+    "Bank of America",
+    "UnitedHealth Group"
   ],
   "competitors": [
     "MSFT",
-    "SAP",
+    "AMZN",
     "IBM",
-    "CRM",
-    "AMZN"
+    "SAP",
+    "CRM"
   ],
   "key_products": [
     "Oracle Database",
     "Oracle Cloud Infrastructure",
     "Oracle Autonomous Database",
-    "Oracle Fusion Applications",
-    "Oracle E-Business Suite"
+    "Oracle ERP Cloud",
+    "Oracle Analytics Cloud"
   ],
-  "extracted_at": "2026-06-26 17:35:45",
+  "extracted_at": "2026-06-29 18:14:56",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,9 +41,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/List_of_largest_manufacturing_companies_by_revenue",
+      "url": "https://en.wikipedia.org/wiki/Oracle_Corporation",
       "query": "Oracle Corporation suppliers manufacturers",
-      "snippet": "The following is a list of the world's largest manufacturing companies, ordered by revenue in millions of U.S. dollars according to the Fortune Global"
+      "snippet": "Oracle Corporation is an American multinational technology company headquartered in Austin, Texas. Co-founded in Santa Clara, California, in 1977 by B"
     },
     {
       "source": "DuckDuckGo",
@@ -53,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/ORCL-Customers",
+      "url": "https://www.oracle.com/",
       "query": "Oracle Corporation major customers clients",
-      "snippet": "3 days ago · For your research, we’ve provided 9 tables on Oracle Corporation corporate clients . You can find them in the navigation menu under Custo"
+      "snippet": "Oracle offers a comprehensive and fully integrated stack of cloud applications and cloud platform services.."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.thomsondata.com/customer-base/oracle.php",
+      "url": "https://www.linkedin.com/company/oracle",
       "query": "Oracle Corporation major customers clients",
-      "snippet": "Thomson Data makes it easy by offering an accurate and up-to-date list of companies that use Oracle. This list allows you to identify Oracle customers"
+      "snippet": "Oracle is a global leader in AI, delivering the cloud infrastructure, data, and applications that organizations across the world trust to successfully"
     }
   ]
 }

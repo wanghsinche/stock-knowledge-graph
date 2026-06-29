@@ -1,57 +1,57 @@
 ---
 ticker: PANW
 company: Palo Alto Networks, Inc.
-sector: Technology / Software - Infrastructure
-industry: Cybersecurity
-extracted_at: 2026-06-11 18:50:11
-last_updated: 2026-06-11
+sector: Technology
+industry: Software - Infrastructure
+extracted_at: 2026-06-29 18:19:49
+last_updated: 2026-06-29
 ---
 
 # PANW - Palo Alto Networks, Inc.
 
 ## 基本信息
 
-- **所属行业**: Technology / Software - Infrastructure / Cybersecurity
-- **提取时间**: 2026-06-11 18:50:11
+- **所属行业**: Technology / Software - Infrastructure
+- **提取时间**: 2026-06-29 18:19:49
 
 ## 产业链关系
 
 ### 上游供应商
 - [[INTC]]
-- [[QCOM]]
-- [[AVGO]]
-- [[NVDA]]
 - [[AMD]]
+- [[NVDA]]
+- [[AVGO]]
+- [[QCOM]]
 
 ### 下游客户
-- [[Wipro]]
-- [[Tyson Foods]]
-- [[Bank of America]]
-- [[General Electric]]
-- [[Coca-Cola]]
+- [[Walmart]]
+- [[JPMorgan Chase]]
+- [[AT&T]]
+- [[Verizon]]
+- [[MSFT]]
 
 ### 竞争对手
-- [[CSCO]]
 - [[Fortinet]]
 - [[Check Point Software Technologies]]
+- [[CSCO]]
 - [[JNPR]]
-- [[Symantec]]
+- [[CrowdStrike]]
 
 ### 核心产品
-- [[Next-Generation Firewall]]
+- [[Next‑Generation Firewall]]
 - [[Prisma Cloud]]
 - [[Cortex XDR]]
 - [[WildFire]]
-- [[GlobalProtect]]
+- [[Unit 42 threat research]]
 
 ## 数据来源
 
 - [Palo Alto Networks](https://en.wikipedia.org/wiki/Palo_Alto_Networks,_Inc.)
-- [Palo Alto Networks, Inc. suppliers manufacturers](https://paloaltonetworks.my.site.com/NextWavePartnerProgram/s/partnerlocator)
-- [Palo Alto Networks, Inc. suppliers manufacturers](https://www.linkedin.com/posts/shreyas-cholachgud_inside-palo-alto-networks-the-key-companies-activity-7299791184602808321-MaWo)
-- [Palo Alto Networks, Inc. major customers clients](https://www.paloaltonetworks.com/customers)
-- [Palo Alto Networks, Inc. major customers clients](https://csimarket.com/stocks/PANW-Customers)
+- [Palo Alto Networks, Inc. suppliers manufacturers](https://www.paloaltonetworks.com/)
+- [Palo Alto Networks, Inc. suppliers manufacturers](https://csimarket.com/news/earnings/_1_6_billion_tax_provisions_drive_earnings_surge_for_palo_alto_networks_inc-2024-02-21204422)
+- [Palo Alto Networks, Inc. major customers clients](https://www.paloaltonetworks.com/)
+- [Palo Alto Networks, Inc. major customers clients](https://www.youtube.com/channel/UC2UPStk47kvhBn8P7Q5BaAg)
 
 ## 元数据
 
-- **更新日期**: 2026-06-11
+- **更新日期**: 2026-06-29

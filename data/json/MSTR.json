@@ -1,37 +1,37 @@
 {
   "ticker": "MSTR",
-  "company_name": "Strategy Inc",
+  "company_name": "Strategy Inc.",
   "sector": "Technology",
   "industry": "Software - Application",
   "upstream": [
-    "MSFT",
     "AMZN",
-    "ORCL",
-    "IBM",
-    "SAP"
+    "MSFT",
+    "GOOGL",
+    "INTC",
+    "NVDA"
   ],
   "downstream": [
-    "Healthcare organizations",
-    "Financial services firms",
+    "Financial institutions",
     "Retail companies",
-    "Manufacturing firms",
-    "Government agencies"
+    "Healthcare providers",
+    "Government agencies",
+    "Large enterprises"
   ],
   "competitors": [
     "SAP SE Business Objects",
     "IBM",
     "ORCL",
-    "MSFT",
-    "Tableau"
+    "Tableau",
+    "MSFT"
   ],
   "key_products": [
-    "MicroStrategy Desktop",
-    "MicroStrategy Cloud",
+    "MicroStrategy Analytics",
     "MicroStrategy Mobile",
-    "MicroStrategy Analytics Platform",
-    "MicroStrategy Data Visualization"
+    "MicroStrategy Cloud",
+    "MicroStrategy Data Warehouse",
+    "MicroStrategy BI Platform"
   ],
-  "extracted_at": "2026-06-26 17:35:57",
+  "extracted_at": "2026-06-29 18:15:46",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
+      "url": "https://finance.yahoo.com/quote/MSTR/",
+      "query": "Strategy Inc suppliers manufacturers",
+      "snippet": "Find the latest Strategy Inc (MSTR) stock quote, history, news and other vital information to help you with your stock trading and investing."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.strategy.com/",
+      "query": "Strategy Inc suppliers manufacturers",
+      "snippet": "Learn More. © 2026 Strategy . All Rights Reserved."
+    },
+    {
+      "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/MicroStrategy",
-      "query": "Strategy Inc suppliers manufacturers",
-      "snippet": "Strategy Inc ., formerly known as MicroStrategy,[1] is an American company that provides business intelligence (BI) and mobile software. Founded in 19"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.strategyinc.net/services-overview/",
-      "query": "Strategy Inc suppliers manufacturers",
-      "snippet": "At Strategy Inc ., we offer a comprehensive range of consulting services required for life science and medical device due diligence, such as: market a"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.strategy.com/software/customer-stories",
       "query": "Strategy Inc major customers clients",
-      "snippet": "Dive into Strategy customer stories highlighting the impact of Analytics in Healthcare, Financial Services, Call Centers, Retail, Insurance, and Gover"
+      "snippet": "Strategy Inc ., formerly known as MicroStrategy, is an American company that provides business intelligence and mobile software. Founded in 1989 by Mi"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.strategy.com/press/strategy-recognized-customers-choice-gartner-peer-insights-through-user-feedback-for-fourth-consecutive-year_12-11-2025",
+      "url": "https://finance.yahoo.com/quote/MSTR/",
       "query": "Strategy Inc major customers clients",
-      "snippet": "Dec 11, 2025 · Strategy , a pioneer in AI-powered data analytics and semantic modeling, is one of only four vendors named as a Customers ’ Choice in t"
+      "snippet": "Find the latest Strategy Inc (MSTR) stock quote, history, news and other vital information to help you with your stock trading and investing."
     }
   ]
 }

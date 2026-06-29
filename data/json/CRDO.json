@@ -4,34 +4,34 @@
   "sector": "Technology",
   "industry": "Semiconductors",
   "upstream": [
-    "Optical fiber manufacturers",
-    "Semiconductor wafer suppliers",
-    "Polymer coating suppliers for fiber",
-    "META",
-    "Electronic component distributors"
+    "Silicon wafer suppliers",
+    "Photonic component manufacturers",
+    "Fiber optic cable suppliers",
+    "Lithography equipment vendors",
+    "Packaging and assembly providers"
   ],
   "downstream": [
-    "CAT",
-    "Data center operators",
-    "Cloud service providers",
-    "Enterprise IT infrastructure vendors",
-    "Network equipment manufacturers"
+    "NVDA",
+    "AMD",
+    "INTC",
+    "GOOGL",
+    "AMZN"
   ],
   "competitors": [
-    "Finisar (II‑VI)",
-    "Lumentum",
     "Ciena",
-    "CAT",
-    "AVGO"
+    "Finisar (II-VI)",
+    "Lumentum",
+    "Infinera",
+    "CAT"
   ],
   "key_products": [
-    "Optical transceivers",
-    "Fiber optic cables",
-    "Optical modules",
-    "Optical connectors",
-    "High‑speed connectivity solutions"
+    "Silicon photonics transceivers",
+    "High-speed optical interconnect modules",
+    "Energy-efficient optical transceivers",
+    "Optical interconnect solutions for AI",
+    "Data center optical modules"
   ],
-  "extracted_at": "2026-06-26 17:41:58",
+  "extracted_at": "2026-06-29 18:23:58",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finviz.com/quote.ashx?t=CRDO",
-      "query": "Credo Technology Group Holding Ltd suppliers manufacturers",
-      "snippet": "Are Computer and Technology Stocks Lagging Credo Technology Group (CRDO) This Year?Are You Looking for a Top Momentum Pick? Why Credo Technology Group"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://csimarket.com/news/credo-technology-group-holding-ltd-unveils-robust-112g-pam4-serdes-ip-family-on-tsmc-s-cutting-edge-n3-process-technolog2024-02-01140994",
-      "query": "Credo Technology Group Holding Ltd suppliers manufacturers",
-      "snippet": "Despite the decline in supplier revenues, Credo Technology Group Holding Ltd has managed to optimize its cost of sales. Year-on-year, there has been a"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/CRDO-Customers",
+      "url": "https://finance.yahoo.com/quote/CRDO/",
       "query": "Credo Technology Group Holding Ltd major customers clients",
-      "snippet": "For your research, we’ve provided 9 tables on Credo Technology Group Holding Ltd corporate clients . You can find them in the navigation menu under Cu"
+      "snippet": "Find the latest Credo Technology Group Holding Ltd (CRDO) stock quote, history, news and other vital information to help you with your stock trading a"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://investors.credosemi.com/overview/default.aspx",
+      "url": "https://credosemi.com/",
       "query": "Credo Technology Group Holding Ltd major customers clients",
-      "snippet": "Jun 18, 2026 · Credo ’ s mission is to transform connectivity at scale through fast, reliable, and energy-efficient system solutions. Our high-speed c"
+      "snippet": "Credo delivers high-speed, energy-efficient connectivity solutions powering AI, cloud computing, and hyperscale networks up to 1.6T."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.marketbeat.com/stocks/NASDAQ/CRDO/competitors-and-alternatives/",
+      "query": "Credo Technology Group Holding Ltd competitors alternatives",
+      "snippet": "View all of CRDO's competitors ."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://finance.yahoo.com/quote/CRDO/",
+      "query": "Credo Technology Group Holding Ltd competitors alternatives",
+      "snippet": "Find the latest Credo Technology Group Holding Ltd (CRDO) stock quote, history, news and other vital information to help you with your stock trading a"
     }
   ]
 }

@@ -7,31 +7,31 @@
     "NVDA",
     "AMD",
     "INTC",
-    "QCOM",
-    "AVGO"
+    "Supermicro",
+    "DELL"
   ],
   "downstream": [
-    "AI developers",
-    "Enterprise AI teams",
-    "Research institutions",
-    "Platform engineers",
-    "Start‑ups in machine learning"
+    "OpenAI",
+    "GOOGL",
+    "MSFT",
+    "AI startups",
+    "Enterprise clients"
   ],
   "competitors": [
     "AMZN",
-    "GOOGL",
     "MSFT",
+    "GOOGL",
     "NVDA",
-    "IBM"
+    "Lambda Labs"
   ],
   "key_products": [
-    "GPU‑based AI cloud infrastructure",
-    "Custom GPU cluster orchestration",
-    "Chip management software",
-    "AI workload scheduling",
-    "Data center optimization tools"
+    "GPU cloud infrastructure",
+    "GPU instances",
+    "AI compute services",
+    "chip management software",
+    "AI development platform"
   ],
-  "extracted_at": "2026-06-26 17:40:54",
+  "extracted_at": "2026-06-29 18:25:09",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,13 +43,13 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/CoreWeave",
       "query": "CoreWeave, Inc. suppliers manufacturers",
-      "snippet": "CoreWeave , Inc . is an American artificial intelligence cloud-computing company based in Livingston, New Jersey."
+      "snippet": "CoreWeave , Inc . is an American artificial intelligence cloud-computing company based in Livingston, New Jersey. It specializes in providing cloud-ba"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.marketscreener.com/news/coreweave-inc-nasdaqgs-crwv-added-to-nasdaq-100-index-ce7f5cd3dd8af226",
+      "url": "https://finance.yahoo.com/technology/ai/articles/bnp-paribas-highlights-coreweave-crwv-105020455.html",
       "query": "CoreWeave, Inc. suppliers manufacturers",
-      "snippet": "CoreWeave , Inc . is an American technology company founded in 2017, specializing in cloud infrastructure designed for compute-intensive workloads.Sto"
+      "snippet": "CoreWeave Inc . (NASDAQ:CRWV) ranks among the best tech stocks to buy now for the “Vera Rubin” chip cycle. On June 16, Cantor Fitzgerald reiterated it"
     },
     {
       "source": "DuckDuckGo",
@@ -59,9 +59,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/I1V.DU/earnings/I1V.DU-Q1-2026-earnings_call-572324.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-coreweave-inc-crwv-among-013609763.html",
       "query": "CoreWeave, Inc. major customers clients",
-      "snippet": "CoreWeave empowers researchers, developers, and platform engineers to rapidly iterate across training, inference, and agentic workloads, accelerating "
+      "snippet": "On June 15, Cantor Fitzgerald reiterated its Overweight rating and $167 price target on CoreWeave , Inc . (NASDAQ:CRWV), following the company's discl"
     }
   ]
 }

@@ -4,34 +4,34 @@
   "sector": "Communication Services",
   "industry": "Internet Content & Information",
   "upstream": [
-    "Agentic Search Company (acquired 2026)",
     "NVDA",
     "AMD",
     "INTC",
-    "QCOM"
+    "AWS cloud infrastructure",
+    "MSFT"
   ],
   "downstream": [
-    "Large enterprise clients (e.g., financial services, healthcare)",
-    "Cloud service providers (e.g., AWS, Azure, GCP)",
-    "Government agencies",
-    "Academic research institutions",
-    "E-commerce platforms"
+    "CoreWeave",
+    "Nebiu",
+    "OpenAI",
+    "MSFT",
+    "AMZN"
   ],
   "competitors": [
-    "OpenAI",
-    "Anthropic",
-    "DeepMind",
-    "MSFT",
-    "GOOGL"
+    "NVDA",
+    "AMD",
+    "INTC",
+    "GOOGL",
+    "MSFT"
   ],
   "key_products": [
     "Nebius AI Infrastructure Platform",
-    "Avride AI services",
-    "TripleTen AI solutions",
-    "Toloka crowdsourcing platform",
-    "Clickhouse analytics engine"
+    "Nebius AI Services",
+    "Nebius AI Platform",
+    "Nebius AI Infrastructure Suite",
+    "Nebius AI Cloud Solutions"
   ],
-  "extracted_at": "2026-06-26 17:38:08",
+  "extracted_at": "2026-06-29 18:15:30",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Nebius_Group",
-      "query": "NBIS suppliers manufacturers",
-      "snippet": "In February 2026, Nebius announced the acquisition of the agentic search company Tavily for around $400 million. [17][18] The same month, the company "
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/NBIS-Suppliers",
-      "query": "NBIS suppliers manufacturers",
-      "snippet": "May 3, 2025 · For your research, we’ve provided nine additional tables on Nebius Group n v ’s suppliers . You can find them in the navigation menu und"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Nebius_Group",
+      "url": "https://finance.yahoo.com/quote/NBIS/",
       "query": "NBIS major customers clients",
-      "snippet": "In December 2024, Nebius raised $700 million through private investors, including Nvidia (which acquired 0.5% of Nebius ) and Accel Partners. [5]"
+      "snippet": "Find the latest Nebius Group N.V. ( NBIS ) stock quote, history, news and other vital information to help you with your stock trading and investing."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/NBIS-Customers",
+      "url": "https://www.tipranks.com/news/coreweave-crwv-nebius-nbis-make-nasdaq-100-debut-which-ai-infrastructure-stock-is-a-better-pick",
       "query": "NBIS major customers clients",
-      "snippet": "5 days ago · For your research, we’ve provided 9 tables on Nebius Group n v corporate clients . You can find them in the navigation menu under Custome"
+      "snippet": "Artificial intelligence (AI) infrastructure providers CoreWeave (CRWV) and Nebius ( NBIS ) joined the Nasdaq-100 Index (NDX) on Monday, June 22. Howev"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.marketbeat.com/stocks/NASDAQ/NBIS/competitors-and-alternatives/",
+      "query": "NBIS competitors alternatives",
+      "snippet": "Is Nebius Group (NASDAQ: NBIS ) the best stock in the Internet Software/Services industry? Compare NBIS to competitors like CRWV and META with MarketB"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://tracxn.com/d/companies/nbis/__CEvjFGepqVDfV7Rq3MZ5EvVEOS0AdSIcBkQrzVxFz1U",
+      "query": "NBIS competitors alternatives",
+      "snippet": "NBIS 's Competitors and alternates . NBIS ranks 33rd amongst 142 active competitors , of which 9 are funded. It stands 11th in terms of total funding "
     }
   ]
 }

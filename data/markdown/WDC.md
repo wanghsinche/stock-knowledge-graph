@@ -3,8 +3,8 @@ ticker: WDC
 company: Western Digital Corporation
 sector: Technology
 industry: Computer Hardware
-extracted_at: 2026-06-26 17:31:54
-last_updated: 2026-06-26
+extracted_at: 2026-06-29 18:11:07
+last_updated: 2026-06-29
 ---
 
 # WDC - Western Digital Corporation
@@ -12,46 +12,46 @@ last_updated: 2026-06-26
 ## 基本信息
 
 - **所属行业**: Technology / Computer Hardware
-- **提取时间**: 2026-06-26 17:31:54
+- **提取时间**: 2026-06-29 18:11:07
 
 ## 产业链关系
 
 ### 上游供应商
-- [[INTC]]
 - [[005930.KS]]
 - [[SK Hynix]]
 - [[MU]]
-- [[Toshiba]]
+- [[TSM]]
+- [[INTC]]
 
 ### 下游客户
 - [[DELL]]
 - [[HPQ]]
-- [[Lenovo]]
+- [[Lenovo Group]]
 - [[AAPL]]
 - [[AMZN]]
 
 ### 竞争对手
 - [[STX]]
-- [[Toshiba]]
+- [[Toshiba Corporation]]
 - [[005930.KS]]
 - [[MU]]
-- [[SK Hynix]]
+- [[INTC]]
 
 ### 核心产品
-- [[Hard Disk Drives (HDDs)]]
+- [[Internal Hard Disk Drives (HDDs)]]
+- [[External Hard Disk Drives]]
 - [[Solid State Drives (SSDs)]]
-- [[External Hard Drives]]
-- [[Enterprise Storage Solutions]]
-- [[Storage Controllers]]
+- [[Network Attached Storage (NAS) devices]]
+- [[Enterprise storage solutions]]
 
 ## 数据来源
 
 - [Western Digital](https://en.wikipedia.org/wiki/Western_Digital_Corporation)
-- [Western Digital Corporation suppliers manufacturers](https://en.wikipedia.org/wiki/Western_Digital)
-- [Western Digital Corporation suppliers manufacturers](https://en.wikipedia.org/wiki/List_of_semiconductor_fabrication_plants)
-- [Western Digital Corporation major customers clients](https://csimarket.com/stocks/WDC-Customers)
-- [Western Digital Corporation major customers clients](https://data.landbase.com/technology/western-digital/)
+- [Western Digital Corporation suppliers manufacturers](https://www.mycloud.com/)
+- [Western Digital Corporation suppliers manufacturers](https://www.kynix.com/productdetails/57215117/westerndigitalcorporation/wd83c805.html)
+- [Western Digital Corporation major customers clients](https://www.marketresearch.com/MarketLine-v3883/Western-Digital-Corporation-Strategy-SWOT-35563950/)
+- [Western Digital Corporation major customers clients](https://qz.com/will-next-gen-hamr-epmr-drives-give-western-digital-a-storage-edge)
 
 ## 元数据
 
-- **更新日期**: 2026-06-26
+- **更新日期**: 2026-06-29

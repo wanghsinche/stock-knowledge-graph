@@ -2,12 +2,34 @@
   "ticker": "GLW",
   "company_name": "Corning Incorporated",
   "sector": "Technology",
-  "industry": "Electronic Components",
-  "upstream": [],
-  "downstream": [],
-  "competitors": [],
-  "key_products": [],
-  "extracted_at": "2026-06-26 17:35:34",
+  "industry": "Advanced Materials / Glass & Ceramics",
+  "upstream": [
+    "Silica sand suppliers",
+    "Alumina producers",
+    "Flux and chemical suppliers",
+    "Refractories manufacturers",
+    "Specialty glass additives suppliers"
+  ],
+  "downstream": [
+    "AAPL",
+    "INTC",
+    "005930.KS",
+    "Aerospace companies (Boeing, Airbus)",
+    "Optical equipment manufacturers (Canon, Nikon)"
+  ],
+  "competitors": [
+    "Schott AG",
+    "Saint‑Gobain",
+    "AGC Inc."
+  ],
+  "key_products": [
+    "Optical fiber",
+    "Display glass",
+    "Advanced ceramics",
+    "Glass substrates for semiconductors",
+    "Optical lenses"
+  ],
+  "extracted_at": "2026-06-29 18:12:35",
   "sources": [
     {
       "source": "Wikipedia",
@@ -17,15 +39,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.corning.com/",
+      "url": "https://en.wikipedia.org/wiki/Corning_Inc.",
       "query": "Corning Incorporated suppliers manufacturers",
-      "snippet": "Amazon announced a multibillion-dollar agreement with Corning Incorporated , a leading manufacturer of advanced glass and fiber optic technology, to s"
+      "snippet": "Corning Incorporated is an American multinational technology company specializing in glass, ceramics, and related materials and technologies including"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/GLW-Suppliers",
+      "url": "https://www.corning.com/worldwide/en.html",
       "query": "Corning Incorporated suppliers manufacturers",
-      "snippet": "4 days ago · Corning Inc 's Comment on Supply Chain Corning’s production of specialty glasses, ceramics, and related materials requires significant qu"
+      "snippet": "Corning Incorporated is a global-leading innovator in materials science, with 170 years of life-changing inventions and category-defining products."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/Corning_Inc.",
+      "query": "Corning Incorporated major customers clients",
+      "snippet": "Corning Incorporated is an American multinational technology company specializing in glass, ceramics, and related materials and technologies including"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://bullfincher.io/companies/corning-incorporated/overview",
+      "query": "Corning Incorporated major customers clients",
+      "snippet": "Corning Incorporated is a global enterprise operating across five key business areas: display technologies, optical communications, environmental solu"
     }
   ]
 }

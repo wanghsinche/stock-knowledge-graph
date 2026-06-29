@@ -1,48 +1,48 @@
 ---
 ticker: APP
 company: AppLovin Corporation
-sector: Communication Services / Advertising Agencies
-industry: Mobile Advertising / AdTech
-extracted_at: 2026-06-25 18:24:16
-last_updated: 2026-06-25
+sector: Communication Services
+industry: Advertising Agencies
+extracted_at: 2026-06-29 18:26:13
+last_updated: 2026-06-29
 ---
 
 # APP - AppLovin Corporation
 
 ## 基本信息
 
-- **所属行业**: Communication Services / Advertising Agencies / Mobile Advertising / AdTech
-- **提取时间**: 2026-06-25 18:24:16
+- **所属行业**: Communication Services / Advertising Agencies
+- **提取时间**: 2026-06-29 18:26:13
 
 ## 产业链关系
 
 ### 上游供应商
-- [[AAPL]]
-- [[GOOGL]]
-- [[META]]
-- [[AMZN]]
-- [[Unity Technologies (ad tech infrastructure)]]
+- [[Mobile app developers]]
+- [[Data analytics providers]]
+- [[Ad‑tech platforms]]
+- [[Cloud service providers]]
+- [[Marketing agencies]]
 
 ### 下游客户
-- [[Mobile app developers (indie and large studios)]]
-- [[Game publishers]]
-- [[E‑commerce app operators]]
-- [[Digital media companies]]
-- [[Social networking app developers]]
+- [[Mobile game developers]]
+- [[App developers]]
+- [[Advertisers]]
+- [[Marketing agencies]]
+- [[Publishers]]
 
 ### 竞争对手
 - [[Unity Ads]]
-- [[AdColony]]
-- [[Vungle]]
-- [[Chartboost]]
+- [[AdMob]]
 - [[Facebook Audience Network]]
+- [[Vungle]]
+- [[IronSource]]
 
 ### 核心产品
-- [[AppLovin SDK (mobile advertising)]]
-- [[MAX (mobile ad mediation platform)]]
-- [[AppLovin Data Platform (analytics & attribution)]]
-- [[AppLovin Audience Network (display & video ads)]]
-- [[LTV (Lifetime Value) optimization tools]]
+- [[AppLovin SDK]]
+- [[AppLovin Mobile Advertising Platform]]
+- [[AppLovin Marketing Cloud]]
+- [[AppLovin Ad Network]]
+- [[AppLovin Data Analytics]]
 
 ## 数据来源
 
@@ -54,4 +54,4 @@ last_updated: 2026-06-25
 
 ## 元数据
 
-- **更新日期**: 2026-06-25
+- **更新日期**: 2026-06-29

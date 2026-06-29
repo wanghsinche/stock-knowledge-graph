@@ -4,34 +4,34 @@
   "sector": "Consumer Cyclical",
   "industry": "Auto Manufacturers",
   "upstream": [
-    "Panasonic",
-    "LG Chem",
+    "Panasonic (battery cells)",
+    "LG Chem (battery cells)",
     "CAT",
-    "005930.KS",
-    "Bosch"
+    "Albemarle (lithium)",
+    "Glencore (nickel & cobalt)"
   ],
   "downstream": [
-    "Individual consumers",
-    "Fleet operators",
-    "Utility companies (Megapack)",
-    "Commercial fleet customers",
-    "Residential customers (Powerwall)"
+    "Individual consumers (global retail)",
+    "Commercial fleet operators (e.g., Uber, Lyft)",
+    "AMZN",
+    "Government fleet programs",
+    "Corporate leasing customers"
   ],
   "competitors": [
-    "Ford",
     "General Motors",
+    "Ford",
     "Volkswagen",
-    "Hyundai",
-    "Rivian"
+    "Rivian",
+    "Lucid Motors"
   ],
   "key_products": [
+    "Model S",
     "Model 3",
+    "Model X",
     "Model Y",
-    "Cybertruck",
-    "Powerwall",
-    "Solar Roof"
+    "Powerwall"
   ],
-  "extracted_at": "2026-06-26 17:30:19",
+  "extracted_at": "2026-06-29 18:03:47",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,7 +43,7 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Tesla,_Inc.",
       "query": "Tesla, Inc. suppliers manufacturers",
-      "snippet": "4 days ago - The practice of vertical integration ... to suppliers and focus on engine manufacturing and final assembly. Tesla generally allows its co"
+      "snippet": "18 hours ago - The practice of vertical integration ... to suppliers and focus on engine manufacturing and final assembly. Tesla generally allows its "
     },
     {
       "source": "DuckDuckGo",
@@ -53,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/TSLA-Customers",
+      "url": "https://en.wikipedia.org/wiki/Tesla,_Inc.",
       "query": "Tesla, Inc. major customers clients",
-      "snippet": "3 days ago · We currently sell our cars primarily to individual customers . We have strategic or commercial relationships with Daimler, Toyota, and Pa"
+      "snippet": "Tesla , Inc . is an American multinational automotive and clean energy company.The company was incorporated in July 2003 by Martin Eberhard and Marc T"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://mungomash.com/orgs/tesla/customers/",
+      "url": "https://www.tesla.com/",
       "query": "Tesla, Inc. major customers clients",
-      "snippet": "Named Tesla customers across Energy / Megapack utility-scale deployments, NACS-adoption partner automakers and charging networks, Solar projects, and "
+      "snippet": "Explore limited-time offers on Tesla vehicles. Learn More. Tesla vehicle. Inventory. Find nearby vehicles available for immediate delivery."
     }
   ]
 }

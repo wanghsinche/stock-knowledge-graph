@@ -1,37 +1,37 @@
 {
   "ticker": "CBRS",
   "company_name": "Cerebras Systems Inc.",
-  "sector": "Technology / Semiconductors",
+  "sector": "Technology",
   "industry": "Semiconductors",
   "upstream": [
     "TSM",
     "005930.KS",
     "GlobalFoundries",
-    "ASML",
-    "MU"
+    "ASE Group",
+    "Amkor Technology"
   ],
   "downstream": [
     "GOOGL",
-    "MSFT",
     "AMZN",
-    "IBM",
-    "NVDA"
+    "MSFT",
+    "NVDA",
+    "OpenAI"
   ],
   "competitors": [
     "NVDA",
     "INTC",
-    "AMD",
     "Graphcore",
-    "GOOGL"
+    "Habana Labs",
+    "Groq"
   ],
   "key_products": [
-    "Wafer Scale Engine (WSE-3)",
-    "CS-3 Supercomputer",
-    "AI Inference Cloud API",
-    "AI Training Cloud API",
-    "AI inference cloud services"
+    "WSE-3 wafer scale engine",
+    "CS-3 supercomputer",
+    "AI inference cloud API",
+    "AI training cloud API",
+    "Data center solutions powered by Cerebras processors"
   ],
-  "extracted_at": "2026-06-25 18:14:17",
+  "extracted_at": "2026-06-29 18:20:07",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ru.wikipedia.org/wiki/Cerebras_Systems",
+      "url": "https://www.cerebras.ai/",
       "query": "Cerebras Systems Inc. suppliers manufacturers",
-      "snippet": "Cerebras Systems — американская компания, занимающаяся искусственным интеллектом, с офисами в Кремниевой долине, Сан-Диего, Торонто и Токио."
+      "snippet": "Cerebras Systems Sets Date of First-Quarter 2026 Financial Results.Powering AI Native Leaders, Top Startups, and the Global 1000. Andrew Feldman. Co-f"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.cerebras.ai/",
+      "url": "https://www.youtube.com/watch?v=8YYpTr6H0BE",
       "query": "Cerebras Systems Inc. suppliers manufacturers",
-      "snippet": "Latest From Cerebras . Cerebras Systems Sets Date of First-Quarter 2026 Financial Results.Powering AI Native Leaders, Top Startups, and the Global 100"
+      "snippet": "Andy Hock is Head of Product at Cerebras Systems in Palo Alto, CA. He is responsible for the requirements and product strategy for Cerebras ’ AI hardw"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.cerebras.ai/",
       "query": "Cerebras Systems Inc. major customers clients",
-      "snippet": "Latest From Cerebras . Cerebras Systems Sets Date of First-Quarter 2026 Financial Results.Explore training options. What customers are saying. OpenAI’"
+      "snippet": "Cerebras Systems Sets Date of First-Quarter 2026 Financial Results.What customers are saying. OpenAI’s compute strategy is to build a resilient portfo"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://techgolly.com/news/ai-chipmaker-cerebras-systems-completes-historic-5-55-billion-ipo-despite-friday-dip",
+      "url": "https://www.linkedin.com/posts/namnguyen_massive-congratulations-to-our-clients-cerebras-activity-7202315389907722251-BRKU",
       "query": "Cerebras Systems Inc. major customers clients",
-      "snippet": "Cerebras Systems just made Wall Street history with a massive financial milestone. The artificial intelligence hardware company completed the largest "
+      "snippet": "The Winning Team At Cerebras Systems , our success begins with our people. We have assembled the best engineers and talent from around the world, tire"
     }
   ]
 }

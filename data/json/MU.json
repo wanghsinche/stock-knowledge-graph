@@ -8,30 +8,30 @@
     "ASML",
     "LRCX",
     "Tokyo Electron",
-    "KLA Corporation"
+    "KLA"
   ],
   "downstream": [
+    "AAPL",
+    "005930.KS",
     "DELL",
     "HPQ",
-    "Lenovo Group",
-    "AAPL",
-    "AMZN"
+    "Lenovo"
   ],
   "competitors": [
     "005930.KS",
     "SK Hynix",
-    "Kioxia",
     "WDC",
-    "INTC"
+    "Toshiba",
+    "STX"
   ],
   "key_products": [
     "DRAM",
-    "NAND flash memory",
+    "NAND Flash",
     "High Bandwidth Memory (HBM)",
-    "Solid-state drives (SSDs)",
-    "Memory modules for servers"
+    "Solid‑State Drives (SSDs)",
+    "Memory modules"
   ],
-  "extracted_at": "2026-06-26 17:29:18",
+  "extracted_at": "2026-06-29 18:02:54",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Micron_Technology",
-      "query": "Micron Technology, Inc. suppliers manufacturers",
-      "snippet": "3 days ago - In the 2012 to 2014 period, Micron ... memory chip manufacturing venture between Powerchip and Elpida Memory for $334 million, while anno"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.micron.com/about/company/suppliers",
-      "query": "Micron Technology, Inc. suppliers manufacturers",
-      "snippet": "Micron is about people working together to build the next world-changing idea. Learn about supplier expectations, responsibility, supplier awards and "
-    },
-    {
-      "source": "DuckDuckGo",
       "url": "https://www.micron.com/",
-      "query": "Micron Technology, Inc. major customers clients",
+      "query": "Micron Technology, Inc. suppliers manufacturers",
       "snippet": "Explore Micron Technology , leading in semiconductors with a broad range of performance-enhancing memory and storage solutions.Learn about and enroll "
     },
     {
       "source": "DuckDuckGo",
       "url": "https://finance.yahoo.com/quote/MU/",
+      "query": "Micron Technology, Inc. suppliers manufacturers",
+      "snippet": "Micron Technology , Inc . designs, develops, manufactures , and sells memory and storage products in the United States, Taiwan, Japan, Mainland China,"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/MU-Customers",
       "query": "Micron Technology, Inc. major customers clients",
-      "snippet": "Find the latest Micron Technology , Inc . (MU) stock quote, history, news and other vital information to help you with your stock trading and investin"
+      "snippet": "Micron Technology Inc customers and markets, results by customer and performance relative to MU, by company and industry - CSIMarket"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.marketscreener.com/quote/stock/MICRON-TECHNOLOGY-INC-13639/finances-segments/",
+      "query": "Micron Technology, Inc. major customers clients",
+      "snippet": "Understand how activity and revenue gets distributed for Micron Technology, Inc. (MU). Ten-year segmentation history. The entire stock market is on Ma"
     }
   ]
 }

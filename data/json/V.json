@@ -4,34 +4,34 @@
   "sector": "Financial Services",
   "industry": "Credit Services",
   "upstream": [
-    "Chip and card manufacturing (e.g., Gemalto, IDEMIA)",
-    "Payment network infrastructure providers (e.g., VisaNet operators)",
-    "Card printing and embossing manufacturers",
-    "Security and fraud‑prevention technology vendors",
-    "Software platform providers for transaction processing"
+    "Card manufacturers",
+    "Technology infrastructure providers",
+    "Payment processors",
+    "Banking partners",
+    "Regulatory bodies"
   ],
   "downstream": [
-    "Issuing banks and financial institutions",
-    "Merchant acquirers and point‑of‑sale (POS) providers",
-    "Retail and e‑commerce merchants",
-    "Consumer cardholders (credit, debit, prepaid)",
-    "Mobile wallet and digital payment platforms"
+    "Banks and card issuers",
+    "Merchants and retailers",
+    "E-commerce platforms",
+    "Consumers",
+    "Financial institutions"
   ],
   "competitors": [
     "Mastercard",
     "American Express",
-    "Discover Financial",
-    "JCB",
-    "UnionPay"
+    "Discover",
+    "PayPal",
+    "Adyen"
   ],
   "key_products": [
-    "Visa credit cards",
-    "Visa debit cards",
-    "Visa prepaid cards",
-    "Visa payment network services (VisaNet)",
-    "Contactless and mobile payment solutions"
+    "Visa Credit Card",
+    "Visa Debit Card",
+    "Visa Prepaid Card",
+    "Visa Payment Network",
+    "Visa Direct"
   ],
-  "extracted_at": "2026-06-26 17:41:22",
+  "extracted_at": "2026-06-29 18:25:35",
   "sources": [
     {
       "source": "Wikipedia",
@@ -42,26 +42,26 @@
     {
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Visa_Inc.",
-      "query": "Visa Inc. suppliers manufacturers",
-      "snippet": "Visa Inc . is an American multinational payment card services corporation headquartered in San Francisco, California."
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/V-Suppliers",
-      "query": "Visa Inc. suppliers manufacturers",
-      "snippet": "Visa Inc supply chain, list and performance of Visa Incs ' suppliers - CSIMarket."
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Visa_Inc.",
       "query": "Visa Inc. major customers clients",
       "snippet": "Visa Inc . is an American multinational payment card services corporation headquartered in San Francisco, California. It facilitates electronic funds "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://investor.visa.com/",
+      "url": "https://www.britannica.com/money/Visa-Inc",
       "query": "Visa Inc. major customers clients",
-      "snippet": "Choose Visa . Find a Visa Card. Visa Credit Cards."
+      "snippet": "Visa Inc . is an international payment card services corporation established in 1958.A major player in bolstering BankAmericard’s early success was De"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://pitchgrade.com/companies/visa",
+      "query": "Visa Inc. competitors alternatives",
+      "snippet": "Visa Inc .'s main competitors include Mastercard, American Express, Discover, PayPal. The company operates in the Credit Services segment of the Finan"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://rocketreach.co/visa-inc-competitors_b7ce23efc15adcce",
+      "query": "Visa Inc. competitors alternatives",
+      "snippet": "View Visa Inc .'s top competitors like Adyen, American Express, and Discover."
     }
   ]
 }

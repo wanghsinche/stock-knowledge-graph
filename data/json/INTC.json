@@ -6,32 +6,32 @@
   "upstream": [
     "TSM",
     "005930.KS",
-    "GlobalFoundries",
     "MU",
-    "SK Hynix"
+    "GlobalFoundries",
+    "NVDA"
   ],
   "downstream": [
-    "AAPL",
     "DELL",
     "HPQ",
+    "Lenovo Group",
     "MSFT",
-    "AMZN"
+    "AAPL"
   ],
   "competitors": [
     "AMD",
     "NVDA",
     "QCOM",
     "AVGO",
-    "TXN"
+    "005930.KS"
   ],
   "key_products": [
-    "Central Processing Units (CPUs)",
-    "Graphics Processing Units (GPUs)",
-    "Chipsets",
-    "Solid‑State Drives (SSDs)",
-    "AI and machine‑learning accelerators"
+    "Intel Core processors",
+    "Intel Xeon processors",
+    "Intel chipsets",
+    "Intel SSDs",
+    "Intel AI accelerators"
   ],
-  "extracted_at": "2026-06-26 17:31:23",
+  "extracted_at": "2026-06-29 18:06:16",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,25 +43,25 @@
       "source": "DuckDuckGo",
       "url": "https://csimarket.com/stocks/INTC-Suppliers",
       "query": "Intel Corporation suppliers manufacturers",
-      "snippet": "4 days ago · We have thousands of suppliers , including subcontractors, providing our various materials and service needs. We set expectations for sup"
+      "snippet": "Intel supply chain, list and performance of Intels' suppliers - CSIMarket. Intel 's Comment on Supply Chain. We use third-party foundries to manufactu"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.intel.com/content/www/us/en/partner/showcase/partner-directory/distributor.html",
+      "url": "https://finance.yahoo.com/quote/INTC/",
       "query": "Intel Corporation suppliers manufacturers",
-      "snippet": "Sell Intel® Products directly sourced from Intel as well as devices manufactured by OEMs"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.pcgamer.com/hardware/processors/intel-has-just-18-months-to-land-a-hero-customer-on-14a-or-its-cutting-edge-fabs-are-toast-says-chip-industry-analyst/",
-      "query": "Intel Corporation major customers clients",
-      "snippet": "Subscribe to our newsletter. Intel has just 18 months to land a big customer or its cutting-edge fabs are history.The issue here is that Intel recentl"
+      "snippet": "Find the latest Intel Corporation (INTC) stock quote, history, news and other vital information to help you with your stock trading and investing."
     },
     {
       "source": "DuckDuckGo",
       "url": "https://finance.yahoo.com/quote/INTC/",
       "query": "Intel Corporation major customers clients",
       "snippet": "Find the latest Intel Corporation (INTC) stock quote, history, news and other vital information to help you with your stock trading and investing."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.linkedin.com/company/intel-corporation",
+      "query": "Intel Corporation major customers clients",
+      "snippet": "Intel | 4,246,850 followers on LinkedIn. Our mission is to shape the future of technology to help create a better future for the entire world, that’s "
     }
   ]
 }

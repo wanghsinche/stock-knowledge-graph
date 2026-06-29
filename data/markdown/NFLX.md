@@ -3,8 +3,8 @@ ticker: NFLX
 company: Netflix, Inc.
 sector: Communication Services
 industry: Entertainment
-extracted_at: 2026-06-26 17:36:08
-last_updated: 2026-06-26
+extracted_at: 2026-06-29 18:19:35
+last_updated: 2026-06-29
 ---
 
 # NFLX - Netflix, Inc.
@@ -12,23 +12,23 @@ last_updated: 2026-06-26
 ## 基本信息
 
 - **所属行业**: Communication Services / Entertainment
-- **提取时间**: 2026-06-26 17:36:08
+- **提取时间**: 2026-06-29 18:19:35
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Warner Bros.]]
-- [[Disney]]
-- [[SONY]]
+- [[Warner Bros. Discovery]]
+- [[Disney Studios]]
 - [[Universal Studios]]
-- [[Paramount Pictures]]
+- [[SONY]]
+- [[AMZN]]
 
 ### 下游客户
-- [[US households]]
-- [[European households]]
-- [[Asian households]]
+- [[U.S. households]]
+- [[International subscribers]]
 - [[Corporate accounts]]
-- [[Device manufacturers (Roku)]]
+- [[CAT]]
+- [[Streaming devices]]
 
 ### 竞争对手
 - [[Disney+]]
@@ -38,20 +38,20 @@ last_updated: 2026-06-26
 - [[AAPL]]
 
 ### 核心产品
-- [[Streaming service]]
-- [[Netflix Originals]]
-- [[Subscription plans]]
-- [[Mobile app]]
-- [[Content library]]
+- [[Original series]]
+- [[Movies]]
+- [[Documentaries]]
+- [[Kids & Family content]]
+- [[Interactive content]]
 
 ## 数据来源
 
 - [Netflix, Inc.](https://en.wikipedia.org/wiki/Netflix,_Inc.)
 - [Netflix, Inc. suppliers manufacturers](https://csimarket.com/stocks/NFLX-Suppliers)
-- [Netflix, Inc. suppliers manufacturers](https://npfp.netflixstudios.com/region/global/)
-- [Netflix, Inc. major customers clients](https://csimarket.com/stocks/NFLX-Customers)
-- [Netflix, Inc. major customers clients](https://ir.netflix.net/ir-overview/profile/default.aspx)
+- [Netflix, Inc. suppliers manufacturers](https://porteranalysis.com/porters-five-forces-of-netflix/)
+- [Netflix, Inc. major customers clients](https://www.tradestation.com/insights/2026/06/24/netflix-puts-bearish/)
+- [Netflix, Inc. major customers clients](https://parameter.io/netflix-nflx-stock-falls-46-in-a-year-despite-3-billion-advertising-ambitions/)
 
 ## 元数据
 
-- **更新日期**: 2026-06-26
+- **更新日期**: 2026-06-29

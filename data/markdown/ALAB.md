@@ -3,8 +3,8 @@ ticker: ALAB
 company: Astera Labs, Inc.
 sector: Technology
 industry: Semiconductors
-extracted_at: 2026-06-23 18:16:31
-last_updated: 2026-06-23
+extracted_at: 2026-06-29 18:21:48
+last_updated: 2026-06-29
 ---
 
 # ALAB - Astera Labs, Inc.
@@ -12,42 +12,46 @@ last_updated: 2026-06-23
 ## 基本信息
 
 - **所属行业**: Technology / Semiconductors
-- **提取时间**: 2026-06-23 18:16:31
+- **提取时间**: 2026-06-29 18:21:48
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Silicon wafer suppliers]]
-- [[Lithography equipment manufacturers]]
-- [[Packaging and assembly providers]]
-- [[Test and measurement equipment vendors]]
-- [[EDA tool suppliers]]
+- [[TSM]]
+- [[005930.KS]]
+- [[GlobalFoundries]]
+- [[UMC]]
+- [[Tower Semiconductor]]
 
 ### 下游客户
-- [[CSCO]]
+- [[AMZN]]
+- [[MSFT]]
+- [[GOOGL]]
 - [[DELL]]
 - [[HPQ]]
-- [[NetApp]]
-- [[AMZN]]
 
 ### 竞争对手
 - [[AVGO]]
 - [[MRVL]]
 - [[QRVO]]
 - [[INTC]]
-- [[AMD]]
+- [[Xilinx]]
 
 ### 核心产品
-- [[High-speed interconnect chips]]
-- [[SerDes solutions]]
-- [[Silicon photonics devices]]
-- [[High-speed I/O IP]]
-- [[Data center interconnect solutions]]
+- [[PCIe interface chips]]
+- [[CXL interface chips]]
+- [[NVMe interface chips]]
+- [[Ethernet interface chips]]
+- [[InfiniBand interface chips]]
 
 ## 数据来源
 
 - 
+- [Astera Labs, Inc. suppliers manufacturers](https://www.asteralabs.com/)
+- [Astera Labs, Inc. suppliers manufacturers](https://finance.yahoo.com/news/why-stifel-bullish-astera-labs-233356245.html)
+- [Astera Labs, Inc. major customers clients](https://www.asteralabs.com/)
+- [Astera Labs, Inc. major customers clients](https://investorshub.advfn.com/Astera-Labs-Inc-ALAB-42857)
 
 ## 元数据
 
-- **更新日期**: 2026-06-23
+- **更新日期**: 2026-06-29

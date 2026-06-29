@@ -4,34 +4,36 @@
   "sector": "Communication Services",
   "industry": "Internet Content & Information",
   "upstream": [
-    "INTC",
     "NVDA",
     "AMD",
+    "INTC",
     "CSCO",
     "DELL"
   ],
   "downstream": [
-    "Advertisers",
+    "Advertisers (brands & agencies)",
     "App developers",
-    "E-commerce merchants",
-    "Media partners",
-    "Content creators"
+    "Content creators",
+    "Small & medium businesses",
+    "Enterprise customers"
   ],
   "competitors": [
-    "GOOGL",
-    "AMZN",
-    "AAPL",
+    "X Corp. (Twitter)",
+    "Snap Inc.",
+    "ByteDance (TikTok)",
     "MSFT",
-    "TikTok"
+    "Pinterest"
   ],
   "key_products": [
     "Facebook",
     "Instagram",
     "WhatsApp",
     "Messenger",
-    "Threads"
+    "Threads",
+    "Meta Ads",
+    "Meta Quest (VR/AR)"
   ],
-  "extracted_at": "2026-06-26 17:34:09",
+  "extracted_at": "2026-06-29 18:11:42",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,21 +43,21 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/META-Suppliers",
+      "url": "https://ru.wikipedia.org/wiki/Meta_Platforms",
       "query": "Meta Platforms, Inc. suppliers manufacturers",
-      "snippet": "4 days ago · For your research, we’ve provided nine additional tables on Meta Platforms Inc ’ s suppliers . You can find them in the navigation menu u"
+      "snippet": "Meta Platforms , Inc . — американская транснациональная холдинговая компания, владеющая технологическим конгломератом и расположенная в Менло-Парке, К"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.suppliersmap.com/meta",
+      "url": "https://investor.atmeta.com/",
       "query": "Meta Platforms, Inc. suppliers manufacturers",
-      "snippet": "Explore Meta ' s complete supply chain with interactive visualizations showing supplier locations and component breakdowns across Quest, Ray-Ban Meta,"
+      "snippet": "Meta Partners With Reliance on AI-Enabled Data Center in India.Investor Education Center. Meta for Business. Meta Ads Guide."
     },
     {
       "source": "DuckDuckGo",
       "url": "https://investor.atmeta.com/",
       "query": "Meta Platforms, Inc. major customers clients",
-      "snippet": "Investor Education Center. Meta for Business. Meta Ads Guide."
+      "snippet": "Meta Partners With Reliance on AI-Enabled Data Center in India.Investor Education Center. Meta for Business. Meta Ads Guide."
     },
     {
       "source": "DuckDuckGo",

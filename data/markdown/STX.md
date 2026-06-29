@@ -3,8 +3,8 @@ ticker: STX
 company: Seagate Technology Holdings plc
 sector: Technology
 industry: Computer Hardware
-extracted_at: 2026-06-26 17:34:39
-last_updated: 2026-06-26
+extracted_at: 2026-06-29 18:14:00
+last_updated: 2026-06-29
 ---
 
 # STX - Seagate Technology Holdings plc
@@ -12,46 +12,46 @@ last_updated: 2026-06-26
 ## 基本信息
 
 - **所属行业**: Technology / Computer Hardware
-- **提取时间**: 2026-06-26 17:34:39
+- **提取时间**: 2026-06-29 18:14:00
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Semiconductor manufacturers]]
-- [[Printed circuit board (PCB) manufacturers]]
-- [[Magnetic media suppliers]]
-- [[Precision machining suppliers]]
-- [[Electronics component suppliers]]
+- [[MU]]
+- [[005930.KS]]
+- [[SK Hynix]]
+- [[Toshiba]]
+- [[WDC]]
 
 ### 下游客户
-- [[DELL]]
-- [[DELL]]
+- [[MSFT]]
+- [[AMZN]]
 - [[GOOGL]]
-- [[Data center operators]]
-- [[Consumer electronics manufacturers]]
+- [[IBM]]
+- [[DELL]]
 
 ### 竞争对手
 - [[WDC]]
-- [[Toshiba (Kioxia)]]
-- [[005930.KS]]
-- [[MU]]
+- [[Toshiba]]
 - [[IBM]]
+- [[MU]]
+- [[005930.KS]]
 
 ### 核心产品
-- [[Enterprise HDDs]]
-- [[Desktop HDDs]]
-- [[Portable HDDs]]
-- [[SSD drives]]
-- [[NAS storage solutions]]
+- [[Hard Disk Drives (HDD)]]
+- [[Solid State Drives (SSD)]]
+- [[Enterprise Storage Solutions]]
+- [[Data Center Storage Systems]]
+- [[Backup and Archival Solutions]]
 
 ## 数据来源
 
 - 
 - [Seagate Technology Holdings plc suppliers manufacturers](https://www.seagate.com/)
-- [Seagate Technology Holdings plc suppliers manufacturers](https://weissratings.com/en/instant-news-alerts/seagate-technology-holdings-plc-stx-up-7-5-is-this-a-buying-opportunity)
-- [Seagate Technology Holdings plc major customers clients](https://brandhistories.com/compare/reddit-vs-seagate)
-- [Seagate Technology Holdings plc major customers clients](https://www.seagate.com/)
+- [Seagate Technology Holdings plc suppliers manufacturers](https://www.linkedin.com/company/seagate-technology)
+- [Seagate Technology Holdings plc major customers clients](http://www.seagate.com/)
+- [Seagate Technology Holdings plc major customers clients](https://www.morningstar.com/company-reports/1304503-unrelenting-ai-demand-is-turning-the-tide-for-seagate-and-the-hdd-industry)
 
 ## 元数据
 
-- **更新日期**: 2026-06-26
+- **更新日期**: 2026-06-29

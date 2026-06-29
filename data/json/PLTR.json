@@ -4,34 +4,34 @@
   "sector": "Technology",
   "industry": "Software - Infrastructure",
   "upstream": [
-    "AMZN",
-    "MSFT",
-    "GOOGL",
     "DELL",
-    "IBM"
+    "HPQ",
+    "IBM",
+    "AMZN",
+    "MSFT"
   ],
   "downstream": [
     "U.S. Department of Defense",
-    "U.S. Department of Homeland Security",
-    "JPMorgan Chase & Co.",
-    "Walmart Inc.",
-    "Exxon Mobil Corp."
+    "Federal Bureau of Investigation",
+    "JPMorgan Chase",
+    "Airbus",
+    "BP"
   ],
   "competitors": [
-    "Snowflake Inc.",
-    "Databricks Inc.",
-    "Splunk Inc.",
+    "Snowflake",
+    "Databricks",
+    "Splunk",
     "MSFT",
-    "IBM"
+    "Tableau"
   ],
   "key_products": [
     "Palantir Foundry",
     "Palantir Gotham",
     "Palantir Apollo",
-    "Palantir Platform",
-    "Palantir Data Integration Suite"
+    "Palantir Helios",
+    "Palantir AI Platform"
   ],
-  "extracted_at": "2026-06-26 17:34:23",
+  "extracted_at": "2026-06-29 18:13:44",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,9 +47,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/PLTR/",
+      "url": "https://www.businesswire.com/news/home/20240807171687/en/From-the-Farm-to-the-Frosty-Palantir-and-Wendys-Partner-on-AI-and-Supply-Chain-Digitalization",
       "query": "Palantir Technologies Inc. suppliers manufacturers",
-      "snippet": "Find the latest Palantir Technologies Inc . (PLTR) stock quote, history, news and other vital information to help you with your stock trading and inve"
+      "snippet": "Palantir Technologies Inc . (NYSE: PLTR), a leading provider of AI systems, and Wendy’s Quality Supply Chain Co-op (QSCC) today announced they have pa"
     },
     {
       "source": "DuckDuckGo",

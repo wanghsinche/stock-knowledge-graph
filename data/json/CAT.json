@@ -3,11 +3,35 @@
   "company_name": "Caterpillar Inc.",
   "sector": "Industrials",
   "industry": "Farm & Heavy Construction Machinery",
-  "upstream": [],
-  "downstream": [],
-  "competitors": [],
-  "key_products": [],
-  "extracted_at": "2026-06-26 17:37:32",
+  "upstream": [
+    "Eaton",
+    "Cummins",
+    "Baldor Electric",
+    "Baldor Power",
+    "Baldor Motor"
+  ],
+  "downstream": [
+    "CAT",
+    "CAT",
+    "CAT",
+    "CAT",
+    "CAT"
+  ],
+  "competitors": [
+    "Komatsu",
+    "Volvo Construction Equipment",
+    "DE",
+    "CNH Industrial",
+    "Hitachi Construction Machinery"
+  ],
+  "key_products": [
+    "Excavators",
+    "Bulldozers",
+    "Wheel Loaders",
+    "Backhoes",
+    "Mining Equipment"
+  ],
+  "extracted_at": "2026-06-29 18:23:24",
   "sources": [
     {
       "source": "Wikipedia",
@@ -17,15 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.caterpillar.com/en/company/working-together/suppliers.html",
+      "url": "https://en.wikipedia.org/wiki/Caterpillar_Inc.",
       "query": "Caterpillar Inc. suppliers manufacturers",
-      "snippet": "Caterpillar suppliers set high standards for specifications, delivery and price, communication and conduct."
+      "snippet": "Caterpillar Inc . is an American construction, mining, and other engineering equipment manufacturer . The company is the world's largest manufacturer "
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/CAT-Suppliers",
+      "query": "Caterpillar Inc. suppliers manufacturers",
+      "snippet": "Caterpillar Inc supply chain, list and performance of Caterpillar Incs ' suppliers - CSIMarket."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.linkedin.com/company/caterpillar-inc",
+      "query": "Caterpillar Inc. major customers clients",
+      "snippet": "Caterpillar Inc . | 2,270,351 followers on LinkedIn.With 2024 sales and revenues of $64.8 billion, Caterpillar Inc . is the world’s leading manufactur"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.caterpillar.com/",
-      "query": "Caterpillar Inc. suppliers manufacturers",
-      "snippet": "Caterpillar is the world’s leading manufacturer of construction and mining equipment, diesel and natural gas engines, industrial turbines and diesel-e"
+      "query": "Caterpillar Inc. major customers clients",
+      "snippet": "Caterpillar Inc . is shaping the future as the world’s leading manufacturer of construction and mining equipment, off-highway diesel and natural gas e"
     }
   ]
 }

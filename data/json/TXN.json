@@ -4,18 +4,18 @@
   "sector": "Technology",
   "industry": "Semiconductors",
   "upstream": [
-    "TSM",
+    "MU",
     "005930.KS",
-    "GlobalFoundries",
+    "TSM",
     "INTC",
-    "MU"
+    "GlobalFoundries"
   ],
   "downstream": [
-    "Ford Motor Company",
-    "General Motors",
-    "Bosch",
-    "QCOM",
-    "MSFT"
+    "Automotive OEMs (e.g., Ford, Toyota)",
+    "AAPL",
+    "Industrial automation (e.g., Siemens)",
+    "CAT",
+    "Medical devices (e.g., Medtronic)"
   ],
   "competitors": [
     "ADI",
@@ -31,7 +31,7 @@
     "Calculators",
     "Microcontrollers"
   ],
-  "extracted_at": "2026-06-26 17:41:43",
+  "extracted_at": "2026-06-29 18:18:47",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,21 +47,21 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/TXN/",
+      "url": "https://ru.wikipedia.org/wiki/Texas_Instruments",
       "query": "Texas Instruments Incorporated suppliers manufacturers",
-      "snippet": "Find the latest Texas Instruments Incorporated (TXN) stock quote, history, news and other vital information to help you with your stock trading and in"
+      "snippet": "Texas Instruments — американская компания, производитель полупроводниковых приборов, микросхем, электроники и изделий на их основе. Расположена в Далл"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Texas_Instruments",
       "query": "Texas Instruments Incorporated major customers clients",
-      "snippet": "Texas Instruments provides free services to the College Board, which administers AP tests and the SAT, and also has a group called Teachers Teaching f"
+      "snippet": "Texas Instruments Incorporated ( TI ) is an American multinational semiconductor company headquartered in Dallas, Texas . It is one of the top 10 semi"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/TXN-Customers",
+      "url": "https://finance.yahoo.com/quote/TXN/",
       "query": "Texas Instruments Incorporated major customers clients",
-      "snippet": "For your research, we’ve provided 9 tables on Texas Instruments Incorporated corporate clients . You can find them in the navigation menu under Custom"
+      "snippet": "Find the latest Texas Instruments Incorporated (TXN) stock quote, history, news and other vital information to help you with your stock trading and in"
     }
   ]
 }

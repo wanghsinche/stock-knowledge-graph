@@ -8,30 +8,30 @@
     "Airbus",
     "GE Aviation",
     "Pratt & Whitney",
-    "Rolls‑Royce"
+    "Honeywell"
   ],
   "downstream": [
-    "Corporate travel clients",
-    "Business travelers",
-    "Leisure passengers",
+    "Corporate travelers",
+    "Individual passengers",
     "Travel agencies",
-    "Cargo shippers"
+    "Government agencies",
+    "Cargo clients"
   ],
   "competitors": [
     "Delta Air Lines",
     "United Airlines",
     "Southwest Airlines",
-    "JetBlue Airways",
-    "Alaska Airlines"
+    "Alaska Airlines",
+    "JetBlue Airways"
   ],
   "key_products": [
     "Passenger air transport",
-    "Freight and cargo services",
-    "Maintenance, repair, and overhaul (MRO)",
+    "Cargo transport",
+    "In-flight services",
     "Loyalty program (AAdvantage)",
-    "In‑flight entertainment and connectivity"
+    "Maintenance & repair services"
   ],
-  "extracted_at": "2026-06-26 17:39:30",
+  "extracted_at": "2026-06-29 18:26:32",
   "sources": [
     {
       "source": "Wikipedia",
@@ -53,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/US_Airways_Group",
-      "query": "American Airlines Group Inc. major customers clients",
-      "snippet": "US Airways Group Inc . Company type. Public. American Airlines Group . Headquarters. Tempe, Arizona, United States."
-    },
-    {
-      "source": "DuckDuckGo",
       "url": "https://www.aa.com/i18n/customer-service/about-us/american-airlines-group.jsp",
       "query": "American Airlines Group Inc. major customers clients",
       "snippet": "In 2016, American Airlines Group Inc . topped Fortune magazine’s list of best business turnarounds, and its stock (NASDAQ: AAL) joined the S&P 500 ind"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.bloomberg.com/quote/AAL:US",
+      "query": "American Airlines Group Inc. major customers clients",
+      "snippet": "Stock analysis for American Airlines Group Inc (AAL:NASDAQ GS) including stock price, stock chart, company news, key statistics, fundamentals and comp"
     }
   ]
 }

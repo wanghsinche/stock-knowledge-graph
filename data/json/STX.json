@@ -4,34 +4,34 @@
   "sector": "Technology",
   "industry": "Computer Hardware",
   "upstream": [
-    "Semiconductor manufacturers",
-    "Printed circuit board (PCB) manufacturers",
-    "Magnetic media suppliers",
-    "Precision machining suppliers",
-    "Electronics component suppliers"
+    "MU",
+    "005930.KS",
+    "SK Hynix",
+    "Toshiba",
+    "WDC"
   ],
   "downstream": [
-    "DELL",
-    "DELL",
+    "MSFT",
+    "AMZN",
     "GOOGL",
-    "Data center operators",
-    "Consumer electronics manufacturers"
+    "IBM",
+    "DELL"
   ],
   "competitors": [
     "WDC",
-    "Toshiba (Kioxia)",
-    "005930.KS",
+    "Toshiba",
+    "IBM",
     "MU",
-    "IBM"
+    "005930.KS"
   ],
   "key_products": [
-    "Enterprise HDDs",
-    "Desktop HDDs",
-    "Portable HDDs",
-    "SSD drives",
-    "NAS storage solutions"
+    "Hard Disk Drives (HDD)",
+    "Solid State Drives (SSD)",
+    "Enterprise Storage Solutions",
+    "Data Center Storage Systems",
+    "Backup and Archival Solutions"
   ],
-  "extracted_at": "2026-06-26 17:34:39",
+  "extracted_at": "2026-06-29 18:14:00",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,21 +47,21 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://weissratings.com/en/instant-news-alerts/seagate-technology-holdings-plc-stx-up-7-5-is-this-a-buying-opportunity",
+      "url": "https://www.linkedin.com/company/seagate-technology",
       "query": "Seagate Technology Holdings plc suppliers manufacturers",
-      "snippet": "Why Seagate Technology Holdings plc Price is Moving Higher. Seagate primarily distributes through original equipment manufacturers , distributors, and"
+      "snippet": "Seagate Technology . Computer Hardware Manufacturing . Fremont, CA 301,426 followers. Unleash your data’s value with storage that keeps AI running 24/"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://brandhistories.com/compare/reddit-vs-seagate",
+      "url": "http://www.seagate.com/",
       "query": "Seagate Technology Holdings plc major customers clients",
-      "snippet": "Seagate Technology Holdings plc 's core: Seagate Technology generates its $7.54 billion in annual revenue through a highly concentrated business model"
+      "snippet": "Seagate Technology Holdings Plc ."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.seagate.com/",
+      "url": "https://www.morningstar.com/company-reports/1304503-unrelenting-ai-demand-is-turning-the-tide-for-seagate-and-the-hdd-industry",
       "query": "Seagate Technology Holdings plc major customers clients",
-      "snippet": "Seagate Technology Holdings PLC ."
+      "snippet": "Business Strategy and Outlook. Seagate is a leader in the hard disk drive, or HDD, market. HDDs have become a concentrated market, with only three pla"
     }
   ]
 }

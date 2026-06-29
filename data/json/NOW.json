@@ -1,37 +1,37 @@
 {
   "ticker": "NOW",
   "company_name": "ServiceNow, Inc.",
-  "sector": "Technology",
-  "industry": "Software - Application",
+  "sector": "Technology / Software - Application",
+  "industry": "Enterprise Software / Business Process Management",
   "upstream": [
-    "AMZN",
-    "MSFT",
-    "GOOGL",
-    "ORCL",
-    "IBM"
+    "Supplier Lifecycle Operations",
+    "ServiceNow Integration Hub",
+    "ServiceNow Manufacturing Connected Workflow",
+    "Supplier onboarding platforms",
+    "Cloud infrastructure providers"
   ],
   "downstream": [
-    "General Electric",
-    "AT&T",
-    "JPMorgan Chase",
-    "Walmart",
-    "CSCO"
+    "Customer Service Management solutions",
+    "IT Service Management (ITSM) customers",
+    "IT Operations Management (ITOM) clients",
+    "Enterprise AI agent deployments",
+    "Self‑service portal users"
   ],
   "competitors": [
     "CRM",
-    "SAP",
     "MSFT",
+    "SAP SuccessFactors",
     "ORCL",
-    "Workday"
+    "IBM"
   ],
   "key_products": [
-    "Now Platform",
+    "Now Platform (cloud workflow platform)",
     "IT Service Management (ITSM)",
     "IT Operations Management (ITOM)",
-    "HR Service Delivery",
-    "Customer Service Management"
+    "IT Business Management (ITBM)",
+    "Customer Service Management (CSM)"
   ],
-  "extracted_at": "2026-06-26 17:40:43",
+  "extracted_at": "2026-06-29 18:22:23",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,21 +47,21 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://theenterpriseworld.com/10-servicenow-partners-in-2024/",
+      "url": "https://www.g2.com/sellers/servicenow",
       "query": "ServiceNow, Inc. suppliers manufacturers",
-      "snippet": "Advanced partnership with ServiceNow , incorporating AI to automate complex workflows.Key Takeaways for CDW Logistics, Inc . 1. Responsive ServiceNow "
+      "snippet": "Profile Name ServiceNow Integration Hub ServiceNow Manufacturing Connected Workforce"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.aventionmedia.com/technology-installed-base/servicenow/",
+      "url": "https://www.servicenow.com/",
       "query": "ServiceNow, Inc. major customers clients",
-      "snippet": "Businesses whose solutions and services can help Cloud- Service Customers achieve any of their business requirements can make use of our List of Compa"
+      "snippet": "Customer Service Management. Empower self- service , boost agent productivity, and speed up resolution. Strategic Portfolio Management.Learn how Servi"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://data.landbase.com/technology/servicenow/",
+      "url": "https://www.fool.com/investing/2026/04/09/the-saaspocalypse-made-servicenow-stock-a-bargain/",
       "query": "ServiceNow, Inc. major customers clients",
-      "snippet": "Aug 17, 2025 · Our ServiceNow customers list is available for download and comes enriched with vital company specifics, including industry classificat"
+      "snippet": "Customers don't need to bother with setting up AI agents when ServiceNow seamlessly delivers the technology. More importantly, the company possesses d"
     }
   ]
 }

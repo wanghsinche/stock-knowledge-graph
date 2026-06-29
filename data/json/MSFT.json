@@ -7,15 +7,15 @@
     "INTC",
     "AMD",
     "NVDA",
-    "QCOM",
-    "AVGO"
+    "TSM",
+    "005930.KS"
   ],
   "downstream": [
-    "Enterprise customers (e.g., Fortune 500 companies)",
-    "Government agencies",
+    "Fortune 500 companies",
+    "U.S. federal government",
+    "CAT",
     "DELL",
-    "Individual consumers",
-    "CAT"
+    "HPQ"
   ],
   "competitors": [
     "AAPL",
@@ -25,13 +25,13 @@
     "IBM"
   ],
   "key_products": [
-    "Windows operating system",
-    "Microsoft Office suite",
-    "Azure cloud platform",
-    "Microsoft Teams",
-    "Surface hardware"
+    "Windows",
+    "Office",
+    "Azure",
+    "Xbox",
+    "Surface"
   ],
-  "extracted_at": "2026-06-26 17:29:39",
+  "extracted_at": "2026-06-29 18:05:12",
   "sources": [
     {
       "source": "Wikipedia",
@@ -53,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/MSFT-Customers",
+      "url": "https://en.wikipedia.org/wiki/Microsoft",
       "query": "Microsoft Corporation major customers clients",
-      "snippet": "2 days ago · Individual consumers obtain these products primarily through retail outlets, such as Wal-Mart, Dixons, and Microsoft retail stores. We di"
+      "snippet": "Microsoft Corporation is an American multinational technology company headquartered in Redmond, Washington."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.appsruntheworld.com/customers-database/vendors/view/microsoft",
+      "url": "https://www.linkedin.com/company/microsoft",
       "query": "Microsoft Corporation major customers clients",
-      "snippet": "Which Microsoft products have the most recorded customers ? The most widely adopted products are Microsoft 365, Microsoft Azure Cloud Services, Micros"
+      "snippet": "Microsoft | 28,430,215 followers on LinkedIn. Every company has a mission. What's ours? To empower every person and every organization to achieve more"
     }
   ]
 }

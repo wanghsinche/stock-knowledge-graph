@@ -8,7 +8,7 @@
     "005930.KS",
     "GlobalFoundries",
     "INTC",
-    "TXN"
+    "MU"
   ],
   "downstream": [
     "CSCO",
@@ -21,17 +21,17 @@
     "QCOM",
     "INTC",
     "NVDA",
-    "MRVL",
-    "AVGO"
+    "TXN",
+    "MRVL"
   ],
   "key_products": [
+    "Wi‑Fi chips",
     "Ethernet controllers",
-    "Wi‑Fi and Bluetooth chips",
-    "Broadband modem chips",
-    "Storage controller ASICs",
-    "Networking and switching ASICs"
+    "Broadband modems",
+    "5G modems",
+    "Storage controllers"
   ],
-  "extracted_at": "2026-06-26 17:32:05",
+  "extracted_at": "2026-06-29 18:12:09",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,7 +43,7 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/BCM",
       "query": "Broadcom Inc. suppliers manufacturers",
-      "snippet": "Broadcom Inc ., designer, developer and global supplier of semiconductor products. Broadcom Corporation, subsidiary of Broadcom Inc ."
+      "snippet": "Business Continuity Management, an interdisciplinary peer mentoring methodology used to create a plan for recovery of a business after disaster or dis"
     },
     {
       "source": "DuckDuckGo",
@@ -53,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ru.wikipedia.org/wiki/Broadcom_Inc.",
-      "query": "Broadcom Inc. major customers clients",
-      "snippet": "Broadcom Inc . — американская компания по разработке полупроводниковой продукции и программного обеспечения со штаб-квартирой в Пало-Алто (Калифорния,"
-    },
-    {
-      "source": "DuckDuckGo",
       "url": "https://www.broadcom.com/",
       "query": "Broadcom Inc. major customers clients",
       "snippet": "Broadcom delivers semiconductors and infrastructure software for global enterprises’ most complex, mission-critical needs."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://x.com/Broadcom",
+      "query": "Broadcom Inc. major customers clients",
+      "snippet": "Broadcom Inc .Підтверджений профіль @ Broadcom ."
     }
   ]
 }

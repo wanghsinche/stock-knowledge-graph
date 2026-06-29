@@ -1,57 +1,57 @@
 ---
 ticker: MSTR
-company: Strategy Inc
+company: Strategy Inc.
 sector: Technology
 industry: Software - Application
-extracted_at: 2026-06-26 17:35:57
-last_updated: 2026-06-26
+extracted_at: 2026-06-29 18:15:46
+last_updated: 2026-06-29
 ---
 
-# MSTR - Strategy Inc
+# MSTR - Strategy Inc.
 
 ## 基本信息
 
 - **所属行业**: Technology / Software - Application
-- **提取时间**: 2026-06-26 17:35:57
+- **提取时间**: 2026-06-29 18:15:46
 
 ## 产业链关系
 
 ### 上游供应商
-- [[MSFT]]
 - [[AMZN]]
-- [[ORCL]]
-- [[IBM]]
-- [[SAP]]
+- [[MSFT]]
+- [[GOOGL]]
+- [[INTC]]
+- [[NVDA]]
 
 ### 下游客户
-- [[Healthcare organizations]]
-- [[Financial services firms]]
+- [[Financial institutions]]
 - [[Retail companies]]
-- [[Manufacturing firms]]
+- [[Healthcare providers]]
 - [[Government agencies]]
+- [[Large enterprises]]
 
 ### 竞争对手
 - [[SAP SE Business Objects]]
 - [[IBM]]
 - [[ORCL]]
-- [[MSFT]]
 - [[Tableau]]
+- [[MSFT]]
 
 ### 核心产品
-- [[MicroStrategy Desktop]]
-- [[MicroStrategy Cloud]]
+- [[MicroStrategy Analytics]]
 - [[MicroStrategy Mobile]]
-- [[MicroStrategy Analytics Platform]]
-- [[MicroStrategy Data Visualization]]
+- [[MicroStrategy Cloud]]
+- [[MicroStrategy Data Warehouse]]
+- [[MicroStrategy BI Platform]]
 
 ## 数据来源
 
 - [MicroStrategy](https://en.wikipedia.org/wiki/Strategy_Inc)
-- [Strategy Inc suppliers manufacturers](https://en.wikipedia.org/wiki/MicroStrategy)
-- [Strategy Inc suppliers manufacturers](https://www.strategyinc.net/services-overview/)
-- [Strategy Inc major customers clients](https://www.strategy.com/software/customer-stories)
-- [Strategy Inc major customers clients](https://www.strategy.com/press/strategy-recognized-customers-choice-gartner-peer-insights-through-user-feedback-for-fourth-consecutive-year_12-11-2025)
+- [Strategy Inc suppliers manufacturers](https://finance.yahoo.com/quote/MSTR/)
+- [Strategy Inc suppliers manufacturers](https://www.strategy.com/)
+- [Strategy Inc major customers clients](https://en.wikipedia.org/wiki/MicroStrategy)
+- [Strategy Inc major customers clients](https://finance.yahoo.com/quote/MSTR/)
 
 ## 元数据
 
-- **更新日期**: 2026-06-26
+- **更新日期**: 2026-06-29
