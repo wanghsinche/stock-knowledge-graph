@@ -1,55 +1,53 @@
 ---
 ticker: GLW
 company: Corning Incorporated
-sector: Technology
-industry: Advanced Materials / Glass & Ceramics
-extracted_at: 2026-06-29 18:12:35
-last_updated: 2026-06-29
+sector: Technology / Electronic Components
+industry: Optical & Photonics / Advanced Glass & Ceramics
+extracted_at: 2026-06-30 17:55:57
+last_updated: 2026-06-30
 ---
 
 # GLW - Corning Incorporated
 
 ## 基本信息
 
-- **所属行业**: Technology / Advanced Materials / Glass & Ceramics
-- **提取时间**: 2026-06-29 18:12:35
+- **所属行业**: Technology / Electronic Components / Optical & Photonics / Advanced Glass & Ceramics
+- **提取时间**: 2026-06-30 17:55:57
 
 ## 产业链关系
 
 ### 上游供应商
 - [[Silica sand suppliers]]
-- [[Alumina producers]]
-- [[Flux and chemical suppliers]]
-- [[Refractories manufacturers]]
-- [[Specialty glass additives suppliers]]
+- [[Chemical feedstock providers (e.g., silica dioxide, boron compounds)]]
+- [[Glass manufacturing equipment manufacturers]]
+- [[Recycling and waste management partners]]
+- [[Energy and utility providers for high‑temperature furnaces]]
 
 ### 下游客户
-- [[AAPL]]
 - [[INTC]]
-- [[005930.KS]]
-- [[Aerospace companies (Boeing, Airbus)]]
-- [[Optical equipment manufacturers (Canon, Nikon)]]
+- [[CAT]]
+- [[Aerospace and defense contractors (e.g., Lockheed Martin, Boeing)]]
+- [[Medical imaging device manufacturers (e.g., Siemens Healthineers)]]
+- [[AAPL]]
 
 ### 竞争对手
 - [[Schott AG]]
 - [[Saint‑Gobain]]
-- [[AGC Inc.]]
+- [[Lumentum Holdings]]
+- [[II‑VI Incorporated]]
+- [[Teledyne Technologies]]
 
 ### 核心产品
-- [[Optical fiber]]
-- [[Display glass]]
-- [[Advanced ceramics]]
-- [[Glass substrates for semiconductors]]
-- [[Optical lenses]]
+- [[Optical fiber and cable assemblies]]
+- [[High‑performance specialty glass (e.g., Gorilla Glass)]]
+- [[Optical lenses and windows for imaging systems]]
+- [[Photonic integrated circuits and components]]
+- [[Glass substrates for semiconductor and display manufacturing]]
 
 ## 数据来源
 
 - [Corning Inc.](https://en.wikipedia.org/wiki/Corning_Incorporated)
-- [Corning Incorporated suppliers manufacturers](https://en.wikipedia.org/wiki/Corning_Inc.)
-- [Corning Incorporated suppliers manufacturers](https://www.corning.com/worldwide/en.html)
-- [Corning Incorporated major customers clients](https://en.wikipedia.org/wiki/Corning_Inc.)
-- [Corning Incorporated major customers clients](https://bullfincher.io/companies/corning-incorporated/overview)
 
 ## 元数据
 
-- **更新日期**: 2026-06-29
+- **更新日期**: 2026-06-30

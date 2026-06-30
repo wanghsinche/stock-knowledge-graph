@@ -4,64 +4,40 @@
   "sector": "Technology",
   "industry": "Semiconductor Equipment & Materials",
   "upstream": [
-    "AMAT",
-    "ASML",
-    "LRCX",
-    "Tokyo Electron",
-    "Nikon"
+    "Semiconductor raw material suppliers",
+    "Electronic component manufacturers",
+    "Metrology sensor suppliers",
+    "Optical component suppliers",
+    "Software vendors for process control"
   ],
   "downstream": [
-    "TSM",
-    "005930.KS",
     "INTC",
-    "GlobalFoundries",
-    "MU"
+    "NVDA",
+    "IC packaging companies",
+    "Research laboratories",
+    "High‑performance computing firms"
   ],
   "competitors": [
     "AMAT",
-    "ASML",
     "LRCX",
     "Tokyo Electron",
-    "Nikon"
+    "ASML",
+    "Teradyne"
   ],
   "key_products": [
-    "Advanced wafer inspection tools",
+    "Wafer inspection systems",
     "Metrology systems",
-    "Defect inspection systems",
-    "Yield management solutions",
-    "Process control software"
+    "Yield management software",
+    "Reticle inspection systems",
+    "Process control solutions"
   ],
-  "extracted_at": "2026-06-29 18:17:53",
+  "extracted_at": "2026-06-30 18:00:01",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/KLA_Corporation",
       "title": "KLA Corporation",
       "snippet": "KLA Corporation is an American company based in Milpitas, California that makes wafer fab equipment. It supplies process control and yield management systems for the semiconductor industry and other r"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.kla.com/",
-      "query": "KLA Corporation suppliers manufacturers",
-      "snippet": "KLA is a leader in process control using advanced inspection tools, metrology systems, and computational analytics. Keep Looking Ahead. Corporate Gove"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.granitefirm.com/blog/us/2026/06/28/how-klac-makes-money/",
-      "query": "KLA Corporation suppliers manufacturers",
-      "snippet": "KLA differs significantly from leading chip equipment manufacturers Applied Materials and Lam Research. KLA 's business is not primarily focused on de"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.kla.com/",
-      "query": "KLA Corporation major customers clients",
-      "snippet": "KLA is a leader in process control using advanced inspection tools, metrology systems, and computational analytics.Mar 18, 2026. This year, KLA is cel"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.cnbc.com/quotes/KLAC",
-      "query": "KLA Corporation major customers clients",
-      "snippet": "KLAC: KLA Corp - Stock Price, Quote and News - CNBC."
     }
   ]
 }

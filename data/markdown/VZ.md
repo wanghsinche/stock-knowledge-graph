@@ -3,8 +3,8 @@ ticker: VZ
 company: Verizon Communications Inc.
 sector: Communication Services
 industry: Telecom Services
-extracted_at: 2026-06-29 18:24:47
-last_updated: 2026-06-29
+extracted_at: 2026-06-30 18:16:02
+last_updated: 2026-06-30
 ---
 
 # VZ - Verizon Communications Inc.
@@ -12,7 +12,7 @@ last_updated: 2026-06-29
 ## 基本信息
 
 - **所属行业**: Communication Services / Telecom Services
-- **提取时间**: 2026-06-29 18:24:47
+- **提取时间**: 2026-06-30 18:16:02
 
 ## 产业链关系
 
@@ -20,15 +20,15 @@ last_updated: 2026-06-29
 - [[Ericsson]]
 - [[Nokia]]
 - [[Huawei]]
-- [[CSCO]]
-- [[JNPR]]
+- [[005930.KS]]
+- [[QCOM]]
 
 ### 下游客户
-- [[U.S. consumers]]
-- [[U.S. businesses]]
+- [[Individual mobile subscribers]]
+- [[Small and medium enterprises]]
+- [[Large enterprises]]
 - [[Government agencies]]
-- [[Enterprise customers]]
-- [[Mobile device manufacturers]]
+- [[Telecom resellers]]
 
 ### 竞争对手
 - [[AT&T]]
@@ -39,19 +39,15 @@ last_updated: 2026-06-29
 
 ### 核心产品
 - [[Wireless voice and data services]]
-- [[Broadband Internet]]
-- [[Fiber‑optic network]]
-- [[Digital TV (Verizon FiOS)]]
-- [[Cloud and cybersecurity solutions]]
+- [[Broadband and fiber‑optic Internet]]
+- [[Enterprise networking solutions]]
+- [[Cloud and edge computing services]]
+- [[Internet of Things (IoT) platforms]]
 
 ## 数据来源
 
 - [Verizon](https://en.wikipedia.org/wiki/Verizon_Communications_Inc.)
-- [Verizon Communications Inc. suppliers manufacturers](https://ru.wikipedia.org/wiki/Verizon_Communications)
-- [Verizon Communications Inc. suppliers manufacturers](https://www.verizon.com/about)
-- [Verizon Communications Inc. major customers clients](https://www.verizon.com/)
-- [Verizon Communications Inc. major customers clients](https://finance.yahoo.com/quote/VZ/)
 
 ## 元数据
 
-- **更新日期**: 2026-06-29
+- **更新日期**: 2026-06-30

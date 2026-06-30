@@ -6,16 +6,16 @@
   "upstream": [
     "Boeing",
     "Airbus",
-    "GE Aviation",
     "Pratt & Whitney",
+    "GE Aviation",
     "Honeywell"
   ],
   "downstream": [
-    "Corporate travelers",
     "Individual passengers",
+    "Corporate travel clients",
     "Travel agencies",
-    "Government agencies",
-    "Cargo clients"
+    "Cargo customers",
+    "Codeshare partners"
   ],
   "competitors": [
     "Delta Air Lines",
@@ -27,41 +27,17 @@
   "key_products": [
     "Passenger air transport",
     "Cargo transport",
-    "In-flight services",
-    "Loyalty program (AAdvantage)",
-    "Maintenance & repair services"
+    "In‑flight services",
+    "AAdvantage loyalty program",
+    "Aircraft maintenance services"
   ],
-  "extracted_at": "2026-06-29 18:26:32",
+  "extracted_at": "2026-06-30 18:09:36",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/American_Airlines_Group_Inc.",
       "title": "American Airlines Group",
       "snippet": "American Airlines Group Inc. is an American publicly traded airline holding company headquartered in Fort Worth, Texas. It was formed on December 9, 2013, by the merger of AMR Corporation, the parent "
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/US_Airways_Group",
-      "query": "American Airlines Group Inc. suppliers manufacturers",
-      "snippet": "Airline holding company. US Airways Group Inc . American Airlines Group . Headquarters. Tempe, Arizona, United States."
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.aa.com/i18n/customer-service/about-us/american-airlines-group.jsp",
-      "query": "American Airlines Group Inc. suppliers manufacturers",
-      "snippet": "In 2016, American Airlines Group Inc . topped Fortune magazine’s list of best business turnarounds, and its stock (NASDAQ: AAL) joined the S&P 500 ind"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.aa.com/i18n/customer-service/about-us/american-airlines-group.jsp",
-      "query": "American Airlines Group Inc. major customers clients",
-      "snippet": "In 2016, American Airlines Group Inc . topped Fortune magazine’s list of best business turnarounds, and its stock (NASDAQ: AAL) joined the S&P 500 ind"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.bloomberg.com/quote/AAL:US",
-      "query": "American Airlines Group Inc. major customers clients",
-      "snippet": "Stock analysis for American Airlines Group Inc (AAL:NASDAQ GS) including stock price, stock chart, company news, key statistics, fundamentals and comp"
     }
   ]
 }

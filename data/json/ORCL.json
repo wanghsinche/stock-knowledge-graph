@@ -5,63 +5,39 @@
   "industry": "Software - Infrastructure",
   "upstream": [
     "INTC",
-    "AMD",
     "NVDA",
     "CSCO",
-    "DELL"
+    "DELL",
+    "IBM"
   ],
   "downstream": [
-    "Walmart",
-    "JPMorgan Chase",
-    "AT&T",
-    "Bank of America",
-    "UnitedHealth Group"
+    "Large enterprises (e.g., banks, insurance, telecom)",
+    "Government agencies",
+    "Retail companies",
+    "Healthcare organizations",
+    "CAT"
   ],
   "competitors": [
     "MSFT",
-    "AMZN",
-    "IBM",
     "SAP",
-    "CRM"
+    "IBM",
+    "AMZN",
+    "GOOGL"
   ],
   "key_products": [
     "Oracle Database",
     "Oracle Cloud Infrastructure",
     "Oracle Autonomous Database",
-    "Oracle ERP Cloud",
-    "Oracle Analytics Cloud"
+    "Oracle E-Business Suite",
+    "Oracle Fusion Applications"
   ],
-  "extracted_at": "2026-06-29 18:14:56",
+  "extracted_at": "2026-06-30 18:01:34",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Oracle_Corporation",
       "title": "Oracle Corporation",
       "snippet": "Oracle Corporation is an American multinational technology company headquartered in Austin, Texas. Co-founded in Santa Clara, California, in 1977 by Bob Miner, Ed Oates, and current chairman of the bo"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Oracle_Corporation",
-      "query": "Oracle Corporation suppliers manufacturers",
-      "snippet": "Oracle Corporation is an American multinational technology company headquartered in Austin, Texas. Co-founded in Santa Clara, California, in 1977 by B"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/ORCL-Suppliers",
-      "query": "Oracle Corporation suppliers manufacturers",
-      "snippet": "Oracle supply chain, list and performance of Oracles ' suppliers - CSIMarket."
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.oracle.com/",
-      "query": "Oracle Corporation major customers clients",
-      "snippet": "Oracle offers a comprehensive and fully integrated stack of cloud applications and cloud platform services.."
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.linkedin.com/company/oracle",
-      "query": "Oracle Corporation major customers clients",
-      "snippet": "Oracle is a global leader in AI, delivering the cloud infrastructure, data, and applications that organizations across the world trust to successfully"
     }
   ]
 }

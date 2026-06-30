@@ -1,57 +1,53 @@
 ---
 ticker: AMZN
 company: Amazon.com, Inc.
-sector: Consumer Cyclical
-industry: Internet Retail
-extracted_at: 2026-06-29 18:04:02
-last_updated: 2026-06-29
+sector: Consumer Cyclical / Internet Retail
+industry: E‑commerce & Cloud Computing
+extracted_at: 2026-06-30 17:50:41
+last_updated: 2026-06-30
 ---
 
 # AMZN - Amazon.com, Inc.
 
 ## 基本信息
 
-- **所属行业**: Consumer Cyclical / Internet Retail
-- **提取时间**: 2026-06-29 18:04:02
+- **所属行业**: Consumer Cyclical / Internet Retail / E‑commerce & Cloud Computing
+- **提取时间**: 2026-06-30 17:50:41
 
 ## 产业链关系
 
 ### 上游供应商
 - [[Book publishers]]
 - [[Electronics manufacturers]]
-- [[Apparel and fashion brands]]
-- [[Third‑party sellers]]
-- [[Logistics and fulfillment partners]]
+- [[Consumer goods wholesalers]]
+- [[Third‑party seller suppliers]]
+- [[Digital content creators]]
 
 ### 下游客户
-- [[Prime members (retail consumers)]]
-- [[Small and medium businesses using AWS]]
+- [[Individual consumers]]
+- [[Small and medium businesses]]
 - [[AMZN]]
-- [[Consumers purchasing digital content (Kindle, Prime Video)]]
-- [[Global retail customers]]
+- [[Streaming subscribers (Prime Video, Music)]]
+- [[AMZN]]
 
 ### 竞争对手
 - [[Walmart]]
-- [[eBay]]
 - [[Alibaba]]
+- [[eBay]]
 - [[Shopify]]
 - [[Target]]
 
 ### 核心产品
 - [[Amazon.com marketplace]]
-- [[Amazon Prime subscription]]
+- [[Amazon Prime membership]]
 - [[Amazon Web Services (AWS)]]
-- [[Kindle e‑readers and digital books]]
-- [[Alexa smart‑home ecosystem]]
+- [[Kindle e‑readers]]
+- [[Echo smart speakers (Alexa)]]
 
 ## 数据来源
 
 - [Amazon (company)](https://en.wikipedia.org/wiki/Amazon.com,_Inc.)
-- [Amazon.com, Inc. suppliers manufacturers](https://supplierconnect.amazon.com/)
-- [Amazon.com, Inc. suppliers manufacturers](https://suppliercentral.amazon.com/)
-- [Amazon.com, Inc. major customers clients](https://ir.aboutamazon.com/)
-- [Amazon.com, Inc. major customers clients](https://www.amazon.com/b?ie=UTF8&node=210710947011)
 
 ## 元数据
 
-- **更新日期**: 2026-06-29
+- **更新日期**: 2026-06-30

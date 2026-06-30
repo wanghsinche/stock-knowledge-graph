@@ -4,25 +4,25 @@
   "sector": "Consumer Cyclical",
   "industry": "Auto Manufacturers",
   "upstream": [
-    "Panasonic (battery cells)",
-    "LG Chem (battery cells)",
-    "CAT",
-    "Albemarle (lithium)",
-    "Glencore (nickel & cobalt)"
+    "Battery cell suppliers (e.g., LG Chem, Panasonic)",
+    "Electric motor suppliers",
+    "Semiconductor suppliers",
+    "Raw material suppliers (lithium, cobalt, nickel)",
+    "Automotive parts suppliers"
   ],
   "downstream": [
-    "Individual consumers (global retail)",
-    "Commercial fleet operators (e.g., Uber, Lyft)",
-    "AMZN",
-    "Government fleet programs",
-    "Corporate leasing customers"
+    "Individual consumers",
+    "Fleet operators",
+    "Commercial customers",
+    "Utility companies (energy storage)",
+    "Government agencies"
   ],
   "competitors": [
     "General Motors",
     "Ford",
     "Volkswagen",
-    "Rivian",
-    "Lucid Motors"
+    "Hyundai",
+    "Nissan"
   ],
   "key_products": [
     "Model S",
@@ -31,7 +31,7 @@
     "Model Y",
     "Powerwall"
   ],
-  "extracted_at": "2026-06-29 18:03:47",
+  "extracted_at": "2026-06-30 17:49:06",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Tesla,_Inc.",
-      "query": "Tesla, Inc. suppliers manufacturers",
-      "snippet": "18 hours ago - The practice of vertical integration ... to suppliers and focus on engine manufacturing and final assembly. Tesla generally allows its "
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.investopedia.com/ask/answers/052815/who-are-teslas-tsla-main-suppliers.asp",
-      "query": "Tesla, Inc. suppliers manufacturers",
-      "snippet": "November 4, 2025 - Tesla manufactures key components like the electric motor, battery pack, and charger, but relies on suppliers for other parts. Key "
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Tesla,_Inc.",
-      "query": "Tesla, Inc. major customers clients",
-      "snippet": "Tesla , Inc . is an American multinational automotive and clean energy company.The company was incorporated in July 2003 by Martin Eberhard and Marc T"
+      "url": "https://www.tesla.com/about",
+      "query": "Tesla, Inc. products services offerings",
+      "snippet": "With over 100,000 employees, our teams design, build, sell and service our products in-house. The Machine That Builds the Machine. Tesla manufacturing"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.tesla.com/",
-      "query": "Tesla, Inc. major customers clients",
-      "snippet": "Explore limited-time offers on Tesla vehicles. Learn More. Tesla vehicle. Inventory. Find nearby vehicles available for immediate delivery."
+      "query": "Tesla, Inc. products services offerings",
+      "snippet": "Tesla is building a world of amazing abundance with AI, electric cars, solar, home batteries and integrated renewable energy solutions for homes. Char"
     }
   ]
 }

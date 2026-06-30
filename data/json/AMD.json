@@ -5,16 +5,16 @@
   "industry": "Semiconductors",
   "upstream": [
     "TSM",
-    "005930.KS",
     "GlobalFoundries",
-    "UMC",
-    "SMIC"
+    "INTC",
+    "005930.KS",
+    "ASML"
   ],
   "downstream": [
     "DELL",
     "HPQ",
-    "Lenovo Group",
-    "AMZN",
+    "Lenovo",
+    "SONY",
     "MSFT"
   ],
   "competitors": [
@@ -22,46 +22,22 @@
     "NVDA",
     "QCOM",
     "AVGO",
-    "ARM Holdings"
+    "005930.KS"
   ],
   "key_products": [
     "Ryzen CPUs",
     "EPYC CPUs",
     "Radeon GPUs",
-    "Radeon Instinct GPUs",
-    "Radeon Pro GPUs"
+    "Xilinx FPGAs",
+    "SoCs"
   ],
-  "extracted_at": "2026-06-29 18:06:03",
+  "extracted_at": "2026-06-30 17:47:41",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Advanced_Micro_Devices,_Inc.",
       "title": "AMD",
       "snippet": "Advanced Micro Devices, Inc. (AMD) is an American multinational semiconductor company headquartered in Santa Clara, California. It develops central processing units (CPUs), graphics processing units ("
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/AMD",
-      "query": "Advanced Micro Devices, Inc. suppliers manufacturers",
-      "snippet": "Advanced Micro Devices , Inc . is an American multinational semiconductor company headquartered in Santa Clara, California. It develops central proces"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.britannica.com/money/Advanced-Micro-Devices-Inc",
-      "query": "Advanced Micro Devices, Inc. suppliers manufacturers",
-      "snippet": "Advanced Micro Devices , Inc . ( AMD ) is an American semiconductor designer and global supplier of computing and graphics technologies used in data c"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.britannica.com/money/Advanced-Micro-Devices-Inc",
-      "query": "Advanced Micro Devices, Inc. major customers clients",
-      "snippet": "Advanced Micro Devices , Inc . ( AMD ) is an American semiconductor designer and global supplier of computing...In 1991, AMD released the Am386 microp"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://ir.amd.com/",
-      "query": "Advanced Micro Devices, Inc. major customers clients",
-      "snippet": "For 50 years AMD has driven innovation in high-performance computing, graphics and visualization technologies ― the building blocks for gaming, immers"
     }
   ]
 }

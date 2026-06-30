@@ -7,61 +7,37 @@
     "INTC",
     "AMD",
     "NVDA",
-    "TSM",
-    "005930.KS"
+    "QCOM",
+    "MSFT"
   ],
   "downstream": [
-    "Fortune 500 companies",
-    "U.S. federal government",
-    "CAT",
-    "DELL",
-    "HPQ"
+    "Enterprise customers (e.g., banks, healthcare, manufacturing)",
+    "Government agencies (federal, state, local)",
+    "005930.KS",
+    "Retail consumers (Windows PCs, Surface devices)",
+    "Gaming community (Xbox, PC gamers)"
   ],
   "competitors": [
     "AAPL",
     "GOOGL",
     "AMZN",
     "ORCL",
-    "IBM"
+    "CRM"
   ],
   "key_products": [
-    "Windows",
-    "Office",
-    "Azure",
-    "Xbox",
-    "Surface"
+    "Windows operating system",
+    "Microsoft Office suite",
+    "Azure cloud platform",
+    "Surface hardware line",
+    "Xbox gaming console"
   ],
-  "extracted_at": "2026-06-29 18:05:12",
+  "extracted_at": "2026-06-30 17:52:50",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Microsoft_Corporation",
       "title": "Microsoft",
       "snippet": "Microsoft Corporation is an American multinational technology company headquartered in Redmond, Washington. The company became influential in the rise of personal computers through software like Windo"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Microsoft",
-      "query": "Microsoft Corporation suppliers manufacturers",
-      "snippet": "Microsoft Corporation is an American multinational technology company headquartered in Redmond, Washington."
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/suppliers_glance.php?code=MSFT",
-      "query": "Microsoft Corporation suppliers manufacturers",
-      "snippet": "News about Microsoft Corporation Contracts. Microsoft 's Comment on Supply Chain. We develop most of our products and services internally through four"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Microsoft",
-      "query": "Microsoft Corporation major customers clients",
-      "snippet": "Microsoft Corporation is an American multinational technology company headquartered in Redmond, Washington."
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.linkedin.com/company/microsoft",
-      "query": "Microsoft Corporation major customers clients",
-      "snippet": "Microsoft | 28,430,215 followers on LinkedIn. Every company has a mission. What's ours? To empower every person and every organization to achieve more"
     }
   ]
 }

@@ -3,8 +3,8 @@ ticker: AVAV
 company: AeroVironment, Inc.
 sector: Industrials
 industry: Aerospace & Defense
-extracted_at: 2026-03-11 16:47:32
-last_updated: 2026-03-11
+extracted_at: 2026-06-30 18:25:45
+last_updated: 2026-06-30
 ---
 
 # AVAV - AeroVironment, Inc.
@@ -12,46 +12,42 @@ last_updated: 2026-03-11
 ## 基本信息
 
 - **所属行业**: Industrials / Aerospace & Defense
-- **提取时间**: 2026-03-11 16:47:32
+- **提取时间**: 2026-06-30 18:25:45
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Honeywell Aerospace]]
-- [[Raytheon Technologies]]
-- [[Northrop Grumman]]
+- [[Honeywell]]
 - [[Boeing]]
-- [[General Dynamics]]
+- [[General Electric]]
+- [[Northrop Grumman]]
+- [[Raytheon Technologies]]
 
 ### 下游客户
 - [[U.S. Department of Defense]]
 - [[U.S. Army]]
 - [[U.S. Navy]]
 - [[U.S. Air Force]]
-- [[Foreign militaries (e.g., UK, Israel, Australia)]]
+- [[Foreign militaries]]
 
 ### 竞争对手
+- [[Lockheed Martin]]
 - [[Northrop Grumman]]
 - [[Boeing]]
-- [[Lockheed Martin]]
-- [[General Atomics]]
 - [[Raytheon Technologies]]
+- [[General Dynamics]]
 
 ### 核心产品
 - [[Raven UAV]]
-- [[Switchblade loitering munition]]
+- [[Switchblade UAV]]
 - [[Wasp UAV]]
 - [[Puma UAV]]
-- [[BlueHalo directed‑energy & space communications systems]]
+- [[BlueHalo directed energy system]]
 
 ## 数据来源
 
 - [AeroVironment](https://en.wikipedia.org/wiki/AeroVironment,_Inc.)
-- [AeroVironment, Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/AeroVironment)
-- [AeroVironment, Inc. suppliers manufacturers](https://suppliers.avinc.com/)
-- [AeroVironment, Inc. major customers clients](https://en.wikipedia.org/wiki/AeroVironment)
-- [AeroVironment, Inc. major customers clients](https://www.avinc.com/resources/press-releases/view/southeast-asian-military-customer-awards-aerovironment-6.4-million-raven-ta)
 
 ## 元数据
 
-- **更新日期**: 2026-03-11
+- **更新日期**: 2026-06-30

@@ -1,67 +1,43 @@
 {
   "ticker": "VRT",
   "company_name": "Vertiv Holdings Co",
-  "sector": "Industrials / Electrical Equipment & Parts",
-  "industry": "Data Center Infrastructure",
+  "sector": "Industrials",
+  "industry": "Electrical Equipment & Parts",
   "upstream": [
-    "Siemens",
-    "ABB",
-    "Schneider Electric",
-    "Honeywell",
-    "General Electric"
+    "Component manufacturers (e.g., power supplies, cooling fans)",
+    "Electronic component suppliers",
+    "Raw material suppliers (steel, copper)",
+    "Semiconductor suppliers",
+    "Electrical component distributors"
   ],
   "downstream": [
-    "AMZN",
-    "GOOGL",
-    "MSFT",
-    "Equinix",
-    "AT&T"
+    "Data center operators",
+    "CAT",
+    "Cloud service providers",
+    "Enterprise IT departments",
+    "Industrial automation firms"
   ],
   "competitors": [
     "Schneider Electric",
+    "Eaton",
     "ABB",
     "Siemens",
-    "CSCO",
-    "HPQ"
+    "APC by Schneider"
   ],
   "key_products": [
-    "Power Distribution Units (PDUs)",
-    "Uninterruptible Power Supplies (UPS)",
-    "Cooling Systems",
-    "Data Center Infrastructure Solutions",
-    "Network Infrastructure"
+    "Power distribution units (PDUs)",
+    "Uninterruptible power supplies (UPS)",
+    "Cooling systems (CRAC, CRIU)",
+    "Racks and enclosures",
+    "Environmental monitoring solutions"
   ],
-  "extracted_at": "2026-06-26 17:41:10",
+  "extracted_at": "2026-06-30 18:26:28",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Vertiv_Holdings_Co",
       "title": "Vertiv",
       "snippet": "Vertiv Holdings Co. is an American provider of infrastructure and services for data centers, communication networks, and commercial and industrial environments."
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Vertiv",
-      "query": "Vertiv Holdings Co suppliers manufacturers",
-      "snippet": "Vertiv Holdings Co . is an American provider of infrastructure and services for data centers, communication networks, and commercial and industrial en"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.vertiv.com/",
-      "query": "Vertiv Holdings Co suppliers manufacturers",
-      "snippet": "Jun 12, 2026 · May 05, 2026 Frieda He was named Vertiv's Chief Procurement Officer effective May 5, 2026, with global responsibility for leading the c"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-alberta-investment-management-corp-increases-holdings-in-vertiv-holdings-co-vrt-2026-06-19/",
-      "query": "Vertiv Holdings Co major customers clients",
-      "snippet": "Alberta Investment Management Corp boosted its position in Vertiv Holdings Co . (NYSE:VRT - Free Report) by 238.7% during the fourth quarter, accordin"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://blockonomi.com/vertiv-vrt-stock-soars-nearly-90-this-year-should-investors-buy-the-dip/",
-      "query": "Vertiv Holdings Co major customers clients",
-      "snippet": "VRT Stock Card Vertiv Holdings Co , VRT. Customer diversification presents another concern. Vertiv ’s sales are disproportionately dependent on a limi"
     }
   ]
 }

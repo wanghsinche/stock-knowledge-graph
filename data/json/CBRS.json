@@ -4,64 +4,40 @@
   "sector": "Technology",
   "industry": "Semiconductors",
   "upstream": [
-    "TSM",
-    "005930.KS",
-    "GlobalFoundries",
-    "ASE Group",
-    "Amkor Technology"
+    "Silicon wafer suppliers",
+    "Lithography equipment manufacturers",
+    "Photolithography mask suppliers",
+    "Electronic materials suppliers",
+    "Chip packaging suppliers"
   ],
   "downstream": [
-    "GOOGL",
-    "AMZN",
-    "MSFT",
-    "NVDA",
-    "OpenAI"
+    "INTC",
+    "Cloud service providers",
+    "Enterprise AI solution vendors",
+    "Academic research labs",
+    "High-performance computing centers"
   ],
   "competitors": [
     "NVDA",
     "INTC",
     "Graphcore",
-    "Habana Labs",
-    "Groq"
+    "AMD",
+    "GOOGL"
   ],
   "key_products": [
     "WSE-3 wafer scale engine",
     "CS-3 supercomputer",
     "AI inference cloud API",
     "AI training cloud API",
-    "Data center solutions powered by Cerebras processors"
+    "Data center solutions"
   ],
-  "extracted_at": "2026-06-29 18:20:07",
+  "extracted_at": "2026-06-30 18:24:30",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Cerebras_Systems_Inc.",
       "title": "Cerebras Systems",
       "snippet": "Cerebras Systems Inc., headquartered in Sunnyvale, California, develops semiconductors, supercomputers, and related software to power artificial intelligence deep-learning applications such as inferen"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.cerebras.ai/",
-      "query": "Cerebras Systems Inc. suppliers manufacturers",
-      "snippet": "Cerebras Systems Sets Date of First-Quarter 2026 Financial Results.Powering AI Native Leaders, Top Startups, and the Global 1000. Andrew Feldman. Co-f"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.youtube.com/watch?v=8YYpTr6H0BE",
-      "query": "Cerebras Systems Inc. suppliers manufacturers",
-      "snippet": "Andy Hock is Head of Product at Cerebras Systems in Palo Alto, CA. He is responsible for the requirements and product strategy for Cerebras ’ AI hardw"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.cerebras.ai/",
-      "query": "Cerebras Systems Inc. major customers clients",
-      "snippet": "Cerebras Systems Sets Date of First-Quarter 2026 Financial Results.What customers are saying. OpenAI’s compute strategy is to build a resilient portfo"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.linkedin.com/posts/namnguyen_massive-congratulations-to-our-clients-cerebras-activity-7202315389907722251-BRKU",
-      "query": "Cerebras Systems Inc. major customers clients",
-      "snippet": "The Winning Team At Cerebras Systems , our success begins with our people. We have assembled the best engineers and talent from around the world, tire"
     }
   ]
 }

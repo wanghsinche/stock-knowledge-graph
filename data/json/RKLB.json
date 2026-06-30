@@ -3,11 +3,35 @@
   "company_name": "Rocket Lab Corporation",
   "sector": "Industrials",
   "industry": "Aerospace & Defense",
-  "upstream": [],
-  "downstream": [],
-  "competitors": [],
-  "key_products": [],
-  "extracted_at": "2026-06-29 18:15:14",
+  "upstream": [
+    "Aerojet Rocketdyne",
+    "Hexcel",
+    "Honeywell",
+    "Lockheed Martin",
+    "Boeing"
+  ],
+  "downstream": [
+    "Planet",
+    "Planet Labs",
+    "NASA",
+    "DARPA",
+    "Astra"
+  ],
+  "competitors": [
+    "SpaceX",
+    "Firefly Aerospace",
+    "Astra",
+    "Virgin Orbit",
+    "Blue Origin"
+  ],
+  "key_products": [
+    "Electron launch vehicle",
+    "HASTE suborbital vehicle",
+    "Neutron launch vehicle",
+    "Star trackers",
+    "Reaction wheels"
+  ],
+  "extracted_at": "2026-06-30 18:00:34",
   "sources": [
     {
       "source": "Wikipedia",
@@ -17,15 +41,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://rocketlabcorp.com/",
+      "url": "https://en.wikipedia.org/wiki/Rocket_Lab",
       "query": "Rocket Lab Corporation suppliers manufacturers",
-      "snippet": "Cumulative Years In Space For Rocket Lab Satellite Technology. From Idea To Orbit. Rocket Lab is an end-to-end space company delivering reliable launc"
+      "snippet": "3 hours ago - As of August 2021, the company ... the rockets as well as launch infrastructure for Neutron at the Mid-Atlantic Regional Spaceport in Wa"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finviz.com/stock?t=RKLB",
+      "url": "https://sky-brokers.com/supplier/rocket-lab/",
       "query": "Rocket Lab Corporation suppliers manufacturers",
-      "snippet": "RKLB Stock Jumps Overnight: Rocket Lab Lines Up Record Launch Blitz After Nasdaq-100 Entry. Rocket Lab Corp . engages in the development of rocket lau"
+      "snippet": "May 24, 2023 - Rocket Lab is a public American aerospace manufacturer and launch service provider for small satellites, with a wholly owned New Zealan"
     }
   ]
 }

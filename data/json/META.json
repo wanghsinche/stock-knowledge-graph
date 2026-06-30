@@ -7,22 +7,22 @@
     "NVDA",
     "AMD",
     "INTC",
-    "CSCO",
-    "DELL"
+    "QCOM",
+    "AMZN"
   ],
   "downstream": [
-    "Advertisers (brands & agencies)",
-    "App developers",
-    "Content creators",
-    "Small & medium businesses",
-    "Enterprise customers"
+    "Advertisers (global brands and agencies)",
+    "META",
+    "App developers integrating Facebook/Instagram APIs",
+    "Content creators on Facebook, Instagram, and Threads",
+    "End users of Facebook, Instagram, WhatsApp, Messenger"
   ],
   "competitors": [
-    "X Corp. (Twitter)",
-    "Snap Inc.",
-    "ByteDance (TikTok)",
+    "GOOGL",
+    "AMZN",
+    "AAPL",
     "MSFT",
-    "Pinterest"
+    "ByteDance (TikTok)"
   ],
   "key_products": [
     "Facebook",
@@ -30,40 +30,16 @@
     "WhatsApp",
     "Messenger",
     "Threads",
-    "Meta Ads",
-    "Meta Quest (VR/AR)"
+    "Meta Quest (VR/AR)",
+    "Meta Ads Platform"
   ],
-  "extracted_at": "2026-06-29 18:11:42",
+  "extracted_at": "2026-06-30 17:53:45",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Meta_Platforms,_Inc.",
       "title": "Meta Platforms",
       "snippet": "Meta Platforms, Inc. is an American multinational technology company headquartered in Menlo Park, California. Meta owns and operates several prominent social media platforms and communication services"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://ru.wikipedia.org/wiki/Meta_Platforms",
-      "query": "Meta Platforms, Inc. suppliers manufacturers",
-      "snippet": "Meta Platforms , Inc . — американская транснациональная холдинговая компания, владеющая технологическим конгломератом и расположенная в Менло-Парке, К"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://investor.atmeta.com/",
-      "query": "Meta Platforms, Inc. suppliers manufacturers",
-      "snippet": "Meta Partners With Reliance on AI-Enabled Data Center in India.Investor Education Center. Meta for Business. Meta Ads Guide."
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://investor.atmeta.com/",
-      "query": "Meta Platforms, Inc. major customers clients",
-      "snippet": "Meta Partners With Reliance on AI-Enabled Data Center in India.Investor Education Center. Meta for Business. Meta Ads Guide."
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://developers.meta.com/",
-      "query": "Meta Platforms, Inc. major customers clients",
-      "snippet": "Build on every platform with Meta . Develop with Meta to create successful apps and projects, and grow your business.LAFISE Bank. Providing fast, more"
     }
   ]
 }

@@ -1,67 +1,43 @@
 {
   "ticker": "AZO",
   "company_name": "AutoZone, Inc.",
-  "sector": "Consumer Cyclical / Auto Parts",
-  "industry": "Auto Parts Retailer",
+  "sector": "Consumer Cyclical",
+  "industry": "Auto Parts",
   "upstream": [
-    "Bosch",
-    "Denso",
-    "Magna International",
-    "Delphi Technologies",
-    "Continental AG"
+    "Automotive component manufacturers",
+    "Battery producers",
+    "Oil and filter suppliers",
+    "Brake and suspension part suppliers",
+    "Electrical accessory manufacturers"
   ],
   "downstream": [
-    "Individual consumers",
-    "Independent repair shops",
+    "Individual vehicle owners",
+    "Independent automotive repair shops",
     "Fleet operators",
-    "Automotive service centers",
-    "Automotive dealerships"
+    "Car dealerships",
+    "Online automotive retailers"
   ],
   "competitors": [
     "O'Reilly Auto Parts",
-    "Advance Auto Parts",
     "NAPA Auto Parts",
-    "Pep Boys",
-    "Walmart (auto parts) "
+    "Advance Auto Parts",
+    "Carquest",
+    "Auto Parts Warehouse"
   ],
   "key_products": [
-    "Brake pads",
-    "Oil filters",
+    "Aftermarket automotive parts",
+    "Car accessories",
     "Batteries",
-    "Tires",
-    "Spark plugs"
+    "Motor oils and lubricants",
+    "Filters and air conditioning components"
   ],
-  "extracted_at": "2026-06-26 17:39:05",
+  "extracted_at": "2026-06-30 18:22:02",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/AutoZone,_Inc.",
       "title": "AutoZone",
       "snippet": "AutoZone, Inc., doing business as AutoZone, is an American retailer of aftermarket automotive parts and accessories, the largest in the United States. Founded in 1979, AutoZone has 7,140 stores across"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://about.autozone.com/news-releases/news-release-details/autozone-vendor-summit-recognizes-contributions-top-suppliers-2",
-      "query": "AutoZone, Inc. suppliers manufacturers",
-      "snippet": "Jun 3, 2026 · MEMPHIS, Tenn., June 03, 2026 (GLOBE NEWSWIRE) -- AutoZone (NYSE: AZO) recognized 15 of its top suppliers at its annual Vendor Summit. T"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://about.autozone.com/about-autozone/vendor-info",
-      "query": "AutoZone, Inc. suppliers manufacturers",
-      "snippet": "In an effort to meet customers’ expectations of quality, AutoZone has implemented a proposal process for marketing vendors , and a Supplier Certificat"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/AZO-Customers",
-      "query": "AutoZone, Inc. major customers clients",
-      "snippet": "For your research, we’ve provided 9 tables on Autozone Inc corporate clients . You can find them in the navigation menu under Customers & Markets. To "
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://portersfiveforce.com/blogs/target-market/autozone",
-      "query": "AutoZone, Inc. major customers clients",
-      "snippet": "Nov 4, 2025 · W ho Are AutoZone ’ s Main Customers ? AutoZone strategically bifurcates its customer base into two distinct segments: Do-It-Yourself (D"
     }
   ]
 }

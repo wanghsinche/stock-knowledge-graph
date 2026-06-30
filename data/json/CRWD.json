@@ -4,64 +4,40 @@
   "sector": "Technology",
   "industry": "Software - Infrastructure",
   "upstream": [
+    "MSFT",
+    "Linux",
     "AMZN",
     "MSFT",
-    "GOOGL",
-    "IBM",
-    "ORCL"
+    "GOOGL"
   ],
   "downstream": [
-    "Walmart",
-    "JPMorgan Chase",
-    "MSFT",
-    "GOOGL",
-    "Bank of America"
+    "Large enterprises",
+    "Government agencies",
+    "Financial institutions",
+    "Healthcare organizations",
+    "Retail companies"
   ],
   "competitors": [
     "Palo Alto Networks",
-    "SentinelOne",
+    "CSCO",
     "Fortinet",
     "Check Point Software Technologies",
-    "McAfee"
+    "SentinelOne"
   ],
   "key_products": [
-    "CrowdStrike Falcon Platform",
+    "CrowdStrike Falcon",
     "Falcon Prevent",
     "Falcon Insight",
     "Falcon OverWatch",
     "Falcon X"
   ],
-  "extracted_at": "2026-06-29 18:16:53",
+  "extracted_at": "2026-06-30 18:25:05",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/CrowdStrike_Holdings,_Inc.",
       "title": "CrowdStrike",
       "snippet": "CrowdStrike Holdings, Inc. is an American cybersecurity technology company based in Austin, Texas. It provides endpoint security, threat intelligence, and cyberattack response services. The company wa"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://lei.report/LEI/549300YBY08K9KM4HX32",
-      "query": "CrowdStrike Holdings, Inc. suppliers manufacturers",
-      "snippet": "Crowdstrike , Inc . is directly consolidated by Crowdstrike Holdings , Inc . Relationship Start Node Node I D.549300YBY08K9KM4HX32 [ crowdstrike holdi"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.gurufocus.com/stock/GB0ABP/summary",
-      "query": "CrowdStrike Holdings, Inc. suppliers manufacturers",
-      "snippet": "CrowdStrike Holdings Inc Stock Events. Financials Calendars. Download to Excel(.xlsx).The next earnings date of CrowdStrike Holdings Inc (LTS:0A3N) is"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://au.finance.yahoo.com/news/analyst-crowdstrike-holdings-crwd-customers-172748552.html",
-      "query": "CrowdStrike Holdings, Inc. major customers clients",
-      "snippet": "In this article, we are going to take a look at where Crowdstrike Holdings Inc (NASDAQ:CRWD) stands against other top AI stocks that should be On your"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.marketsmojo.com/stocks-analysis/companycv/crowdstrike-holdings-inc-1236640-210",
-      "query": "CrowdStrike Holdings, Inc. major customers clients",
-      "snippet": "CrowdStrike Holdings , Inc . Market Cap: Large Cap. CrowdStrike Holdings , Inc . is a provider of cloud-delivered solution for the endpoint protection"
     }
   ]
 }

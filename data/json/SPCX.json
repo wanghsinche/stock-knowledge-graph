@@ -4,65 +4,40 @@
   "sector": "Industrials",
   "industry": "Aerospace & Defense",
   "upstream": [
-    "Aerojet Rocketdyne",
-    "Lockheed Martin",
-    "Boeing",
-    "Northrop Grumman",
-    "Honeywell Aerospace"
+    "Boeing (components and manufacturing services)",
+    "Lockheed Martin (components and avionics)",
+    "Northrop Grumman (components and systems)",
+    "SpaceX internal manufacturing (propellant, avionics)",
+    "Rocket Lab (small launch vehicle components)"
   ],
   "downstream": [
-    "NASA",
-    "U.S. Department of Defense",
+    "NASA (launch services, ISS payloads)",
+    "U.S. Space Force (military launch contracts)",
     "INTC",
-    "SES",
-    "Commercial satellite operators"
+    "Starlink subscribers (global broadband users)",
+    "International Space Station (ISS) payloads and experiments"
   ],
   "competitors": [
     "Blue Origin",
     "United Launch Alliance",
     "Rocket Lab",
-    "Relativity Space",
-    "Arianespace"
+    "Arianespace",
+    "Relativity Space"
   ],
   "key_products": [
     "Falcon 9",
     "Falcon Heavy",
     "Starship",
     "Starlink satellite constellation",
-    "Starlink broadband service",
-    "Grok AI services"
+    "Grok AI platform"
   ],
-  "extracted_at": "2026-06-29 18:07:46",
+  "extracted_at": "2026-06-30 17:50:22",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Space_Exploration_Technologies_Corp.",
       "title": "SpaceX",
       "snippet": "Space Exploration Technologies Corporation, doing business as SpaceX, is an American spaceflight, telecommunications, and artificial intelligence company headquartered at the Starbase development site"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/SpaceX",
-      "query": "Space Exploration Technologies Corp. suppliers manufacturers",
-      "snippet": "Space Exploration Technologies Corporation . Company headquarters, SpaceX Starbase in Starbase, Texas. SpaceX won demonstration and actual supply cont"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.tradingview.com/symbols/NASDAQ-SPCX/",
-      "query": "Space Exploration Technologies Corp. suppliers manufacturers",
-      "snippet": "Track SpaceX stock price and see how investors are reacting to the IPO.Watch SPCX chart and read a more detailed Space Exploration Technologies Corp s"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/SpaceX",
-      "query": "Space Exploration Technologies Corp. major customers clients",
-      "snippet": "Space Exploration Technologies Corporation , doing business as SpaceX , is an American spaceflight, telecommunications, and artificial intelligence co"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/SPCX/",
-      "query": "Space Exploration Technologies Corp. major customers clients",
-      "snippet": "Find the latest Space Exploration Technologies Corp . (SPCX) stock quote, history, news and other vital information to help you with your stock tradin"
     }
   ]
 }

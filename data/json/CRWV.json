@@ -6,62 +6,38 @@
   "upstream": [
     "NVDA",
     "AMD",
-    "INTC",
-    "Supermicro",
-    "DELL"
+    "TSM",
+    "005930.KS",
+    "INTC"
   ],
   "downstream": [
-    "OpenAI",
-    "GOOGL",
-    "MSFT",
     "AI startups",
-    "Enterprise clients"
+    "Research institutions",
+    "Enterprises",
+    "Universities",
+    "Government agencies"
   ],
   "competitors": [
+    "NVDA",
     "AMZN",
     "MSFT",
     "GOOGL",
-    "NVDA",
-    "Lambda Labs"
+    "IBM"
   ],
   "key_products": [
-    "GPU cloud infrastructure",
-    "GPU instances",
-    "AI compute services",
-    "chip management software",
-    "AI development platform"
+    "GPU cloud services",
+    "Chip management software",
+    "AI infrastructure",
+    "GPU virtualization",
+    "AI workload orchestration"
   ],
-  "extracted_at": "2026-06-29 18:25:09",
+  "extracted_at": "2026-06-30 18:19:32",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/CoreWeave,_Inc.",
       "title": "CoreWeave",
       "snippet": "CoreWeave, Inc. is an American artificial intelligence (AI) cloud-computing company based in Livingston, New Jersey. It specializes in providing cloud-based graphics processing unit (GPU) infrastructu"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/CoreWeave",
-      "query": "CoreWeave, Inc. suppliers manufacturers",
-      "snippet": "CoreWeave , Inc . is an American artificial intelligence cloud-computing company based in Livingston, New Jersey. It specializes in providing cloud-ba"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/technology/ai/articles/bnp-paribas-highlights-coreweave-crwv-105020455.html",
-      "query": "CoreWeave, Inc. suppliers manufacturers",
-      "snippet": "CoreWeave Inc . (NASDAQ:CRWV) ranks among the best tech stocks to buy now for the “Vera Rubin” chip cycle. On June 16, Cantor Fitzgerald reiterated it"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/CoreWeave",
-      "query": "CoreWeave, Inc. major customers clients",
-      "snippet": "CoreWeave , Inc . is an American artificial intelligence cloud-computing company based in Livingston, New Jersey. It specializes in providing cloud-ba"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/why-coreweave-inc-crwv-among-013609763.html",
-      "query": "CoreWeave, Inc. major customers clients",
-      "snippet": "On June 15, Cantor Fitzgerald reiterated its Overweight rating and $167 price target on CoreWeave , Inc . (NASDAQ:CRWV), following the company's discl"
     }
   ]
 }

@@ -1,67 +1,43 @@
 {
   "ticker": "ASTS",
   "company_name": "AST SpaceMobile, Inc.",
-  "sector": "Technology / Communication Equipment",
-  "industry": "Satellite Communications",
+  "sector": "Technology",
+  "industry": "Communication Equipment",
   "upstream": [
-    "SpaceX",
-    "Rocket Lab",
-    "Airbus",
-    "Boeing",
-    "Lockheed Martin"
+    "Satellite component manufacturers",
+    "Launch service providers",
+    "Semiconductor suppliers",
+    "Antenna and RF equipment vendors",
+    "Ground station equipment suppliers"
   ],
   "downstream": [
-    "Telecom operators",
     "Mobile network operators",
-    "Government agencies",
     "Enterprise broadband customers",
-    "IoT service providers"
+    "Government agencies",
+    "IoT device manufacturers",
+    "Satellite service users"
   ],
   "competitors": [
     "SpaceX Starlink",
     "OneWeb",
     "AMZN",
-    "Telesat",
+    "Telesat LEO",
     "Hughes Network Systems"
   ],
   "key_products": [
-    "Satellite-based broadband network",
-    "Space-based mobile communication terminals",
-    "Integrated satellite network solutions",
-    "High-throughput satellite payloads",
-    "Ground station infrastructure"
+    "SpaceMobile LEO satellites",
+    "Ground station infrastructure",
+    "Satellite broadband services",
+    "Mobile satellite terminals",
+    "Satellite antenna systems"
   ],
-  "extracted_at": "2026-06-29 18:20:23",
+  "extracted_at": "2026-06-30 18:13:24",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "",
       "title": "",
       "snippet": ""
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://ast-science.com/",
-      "query": "AST SpaceMobile, Inc. suppliers manufacturers",
-      "snippet": "AST SpaceMobile is working to close that gap. Our space -based technology is designed to connect the unconnected, bringing broadband access directly t"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.marketbeat.com/stocks/NASDAQ/ASTS/",
-      "query": "AST SpaceMobile, Inc. suppliers manufacturers",
-      "snippet": "AST SpaceMobile , Inc . (NASDAQ:ASTS) released its quarterly earnings results on Monday, May, 11th. The company reported ($0.66) earnings per share (E"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/AST_SpaceMobile",
-      "query": "AST SpaceMobile, Inc. major customers clients",
-      "snippet": "AST SpaceMobile , Inc . is a publicly traded satellite designer and manufacturer based in Midland, Texas, United States. AST SpaceMobile sold its majo"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/ASTS/",
-      "query": "AST SpaceMobile, Inc. major customers clients",
-      "snippet": "Find the latest AST SpaceMobile , Inc . (ASTS) stock quote, history, news and other vital information to help you with your stock trading and investin"
     }
   ]
 }

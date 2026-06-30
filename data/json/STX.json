@@ -4,64 +4,40 @@
   "sector": "Technology",
   "industry": "Computer Hardware",
   "upstream": [
-    "MU",
-    "005930.KS",
-    "SK Hynix",
-    "Toshiba",
-    "WDC"
+    "Silicon wafer suppliers",
+    "META",
+    "Electronic component manufacturers",
+    "Thermal management materials",
+    "Packaging suppliers"
   ],
   "downstream": [
-    "MSFT",
+    "DELL",
+    "HPQ",
+    "Lenovo Group",
     "AMZN",
-    "GOOGL",
-    "IBM",
-    "DELL"
+    "MSFT"
   ],
   "competitors": [
     "WDC",
     "Toshiba",
+    "005930.KS",
     "IBM",
-    "MU",
-    "005930.KS"
+    "MU"
   ],
   "key_products": [
-    "Hard Disk Drives (HDD)",
-    "Solid State Drives (SSD)",
-    "Enterprise Storage Solutions",
-    "Data Center Storage Systems",
-    "Backup and Archival Solutions"
+    "Enterprise HDDs",
+    "Consumer HDDs",
+    "SSD solutions",
+    "Data center storage arrays",
+    "Cloud storage services"
   ],
-  "extracted_at": "2026-06-29 18:14:00",
+  "extracted_at": "2026-06-30 18:04:22",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "",
       "title": "",
       "snippet": ""
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.seagate.com/",
-      "query": "Seagate Technology Holdings plc suppliers manufacturers",
-      "snippet": "Seagate Technology Holdings PLC ."
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.linkedin.com/company/seagate-technology",
-      "query": "Seagate Technology Holdings plc suppliers manufacturers",
-      "snippet": "Seagate Technology . Computer Hardware Manufacturing . Fremont, CA 301,426 followers. Unleash your data’s value with storage that keeps AI running 24/"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "http://www.seagate.com/",
-      "query": "Seagate Technology Holdings plc major customers clients",
-      "snippet": "Seagate Technology Holdings Plc ."
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.morningstar.com/company-reports/1304503-unrelenting-ai-demand-is-turning-the-tide-for-seagate-and-the-hdd-industry",
-      "query": "Seagate Technology Holdings plc major customers clients",
-      "snippet": "Business Strategy and Outlook. Seagate is a leader in the hard disk drive, or HDD, market. HDDs have become a concentrated market, with only three pla"
     }
   ]
 }
