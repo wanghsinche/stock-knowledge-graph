@@ -7,8 +7,8 @@
     "TSM",
     "005930.KS",
     "GlobalFoundries",
-    "MU",
-    "NVDA"
+    "UMC",
+    "SMIC"
   ],
   "downstream": [
     "MSFT",
@@ -21,23 +21,47 @@
     "AMD",
     "INTC",
     "QCOM",
-    "AAPL",
-    "AVGO"
+    "AVGO",
+    "AAPL"
   ],
   "key_products": [
     "GeForce RTX GPUs",
     "Quadro RTX GPUs",
-    "Tesla V100 & A100 GPUs",
-    "DGX AI systems",
-    "Jetson SoCs"
+    "Tesla AI accelerators",
+    "Jetson SoCs",
+    "CUDA software platform"
   ],
-  "extracted_at": "2026-06-30 17:47:20",
+  "extracted_at": "2026-07-01 17:46:51",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/NVIDIA_Corporation",
       "title": "Nvidia",
       "snippet": "Nvidia Corporation is an American multinational technology company headquartered in Santa Clara, California. The company develops graphics processing units (GPUs), systems on chips (SoCs), and applica"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.suppliersmap.com/nvidia",
+      "query": "NVIDIA Corporation suppliers manufacturers",
+      "snippet": "Nvidia Nvidia works with leading semiconductor manufacturers for its GPU products, including TSMC for advanced chip fabrication, Samsung and Micron fo"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/NVDA-Suppliers",
+      "query": "NVIDIA Corporation suppliers manufacturers",
+      "snippet": "Jun 22, 2026 · Nvidia 's Comment on Supply Chain We utilize a fabless and contracting manufacturing strategy, whereby we employ and partner with key s"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/NVDA-Customers",
+      "query": "NVIDIA Corporation major customers clients",
+      "snippet": "Nvidia 's Comment on Sales, Marketing and Customers Our worldwide sales and marketing strategy is key to our objective to become the leading supplier "
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://stocksandfuturestrading.com/the-complete-list-of-nvidias-suppliers-and-consumers/",
+      "query": "NVIDIA Corporation major customers clients",
+      "snippet": "Nov 22, 2024 · NVIDIA has completed one of the most dramatic business transformations in market history — going from a gaming GPU company to the backb"
     }
   ]
 }

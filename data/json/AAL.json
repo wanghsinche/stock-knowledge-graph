@@ -6,16 +6,16 @@
   "upstream": [
     "Boeing",
     "Airbus",
-    "Pratt & Whitney",
     "GE Aviation",
+    "Pratt & Whitney",
     "Honeywell"
   ],
   "downstream": [
-    "Individual passengers",
-    "Corporate travel clients",
-    "Travel agencies",
-    "Cargo customers",
-    "Codeshare partners"
+    "Corporate travel programs",
+    "Government agencies (e.g., U.S. Department of Defense)",
+    "Travel agencies (e.g., Expedia, Orbitz)",
+    "Leisure travelers",
+    "Frequent‑flyer members (AAdvantage program)"
   ],
   "competitors": [
     "Delta Air Lines",
@@ -26,18 +26,42 @@
   ],
   "key_products": [
     "Passenger air transport",
-    "Cargo transport",
-    "In‑flight services",
-    "AAdvantage loyalty program",
-    "Aircraft maintenance services"
+    "Cargo transport services",
+    "In‑flight entertainment and catering",
+    "Loyalty program (AAdvantage)",
+    "Aircraft maintenance and support services"
   ],
-  "extracted_at": "2026-06-30 18:09:36",
+  "extracted_at": "2026-07-01 18:01:10",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/American_Airlines_Group_Inc.",
       "title": "American Airlines Group",
       "snippet": "American Airlines Group Inc. is an American publicly traded airline holding company headquartered in Fort Worth, Texas. It was formed on December 9, 2013, by the merger of AMR Corporation, the parent "
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/American_Airlines",
+      "query": "American Airlines Group Inc. suppliers manufacturers",
+      "snippet": "1 day ago - Main Cabin Extra seats are located ... one group ahead of the main cabin. It is available on all of the mainline fleet and American Eagle "
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/American_Airlines_Group",
+      "query": "American Airlines Group Inc. suppliers manufacturers",
+      "snippet": "1 day ago - American Airlines Group Inc . is an American publicly traded airline holding company headquartered in Fort Worth, Texas. It was formed on "
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.aa.com/i18n/customer-service/about-us/american-airlines-group.jsp",
+      "query": "American Airlines Group Inc. major customers clients",
+      "snippet": "In 2016, American Airlines Group Inc . topped Fortune magazine’s list of best business turnarounds, and its stock (NASDAQ: AAL) joined the S&P 500 ind"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.bloomberg.com/quote/AAL:US",
+      "query": "American Airlines Group Inc. major customers clients",
+      "snippet": "Stock analysis for American Airlines Group Inc (AAL:NASDAQ GS) including stock price, stock chart, company news, key statistics, fundamentals and comp"
     }
   ]
 }

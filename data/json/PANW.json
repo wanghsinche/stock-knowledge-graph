@@ -1,43 +1,67 @@
 {
   "ticker": "PANW",
   "company_name": "Palo Alto Networks, Inc.",
-  "sector": "Technology / Software - Infrastructure",
-  "industry": "Cybersecurity / Network Security",
+  "sector": "Technology",
+  "industry": "Software - Infrastructure",
   "upstream": [
     "INTC",
-    "AMD",
+    "AVGO",
     "NVDA",
-    "AMZN",
-    "MSFT"
+    "QCOM",
+    "AMD"
   ],
   "downstream": [
-    "Fortune 100 companies",
-    "U.S. federal agencies",
-    "Financial institutions",
-    "Healthcare providers",
-    "CAT"
+    "Wipro",
+    "Tyson Foods",
+    "Accenture",
+    "IBM",
+    "AMZN"
   ],
   "competitors": [
     "CSCO",
     "Fortinet",
-    "Check Point Software",
+    "Check Point Software Technologies",
     "JNPR",
-    "CrowdStrike"
+    "Sophos"
   ],
   "key_products": [
     "Next-Generation Firewall",
-    "Panorama management",
-    "Cortex XDR",
     "Prisma Cloud",
+    "Cortex XDR",
+    "GlobalProtect",
     "WildFire"
   ],
-  "extracted_at": "2026-06-30 18:16:46",
+  "extracted_at": "2026-07-01 18:03:11",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Palo_Alto_Networks,_Inc.",
       "title": "Palo Alto Networks",
       "snippet": "Palo Alto Networks, Inc. is an American multinational cybersecurity company with headquarters in Santa Clara, California. The core product is a platform that includes advanced firewalls and cloud-base"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://paloaltonetworks.my.site.com/NextWavePartnerProgram/s/partnerlocator",
+      "query": "Palo Alto Networks, Inc. suppliers manufacturers",
+      "snippet": "Distributors Extend Palo Alto Networks partners reach to address customer demand for Palo Alto Networks security solutions, services and support on a "
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.linkedin.com/posts/shreyas-cholachgud_inside-palo-alto-networks-the-key-companies-activity-7299791184602808321-MaWo",
+      "query": "Palo Alto Networks, Inc. suppliers manufacturers",
+      "snippet": "Inside Palo Alto Networks : The Key Companies Powering Its Security Hardware. Palo Alto Networks relies on several third-party companies for manufactu"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.paloaltonetworks.com/customers",
+      "query": "Palo Alto Networks, Inc. major customers clients",
+      "snippet": "Discover how leading global brands like Wipro and Tyson Foods secure their operations with Palo Alto Networks . Explore customer success stories in cy"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.appsruntheworld.com/customers-database/vendors/view/palo-alto-networks",
+      "query": "Palo Alto Networks, Inc. major customers clients",
+      "snippet": "List of companies using or evaluating Palo Alto Networks applications, with details on their revenues, employees, industries, and locations."
     }
   ]
 }

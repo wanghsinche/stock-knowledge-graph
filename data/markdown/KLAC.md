@@ -3,8 +3,8 @@ ticker: KLAC
 company: KLA Corporation
 sector: Technology
 industry: Semiconductor Equipment & Materials
-extracted_at: 2026-06-30 18:00:01
-last_updated: 2026-06-30
+extracted_at: 2026-07-01 17:58:00
+last_updated: 2026-07-01
 ---
 
 # KLAC - KLA Corporation
@@ -12,42 +12,46 @@ last_updated: 2026-06-30
 ## 基本信息
 
 - **所属行业**: Technology / Semiconductor Equipment & Materials
-- **提取时间**: 2026-06-30 18:00:01
+- **提取时间**: 2026-07-01 17:58:00
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Semiconductor raw material suppliers]]
-- [[Electronic component manufacturers]]
-- [[Metrology sensor suppliers]]
-- [[Optical component suppliers]]
-- [[Software vendors for process control]]
+- [[AMAT]]
+- [[LRCX]]
+- [[Tokyo Electron]]
+- [[ASML]]
+- [[Nikon]]
 
 ### 下游客户
+- [[TSM]]
+- [[005930.KS]]
 - [[INTC]]
-- [[NVDA]]
-- [[IC packaging companies]]
-- [[Research laboratories]]
-- [[High‑performance computing firms]]
+- [[GlobalFoundries]]
+- [[MU]]
 
 ### 竞争对手
 - [[AMAT]]
 - [[LRCX]]
 - [[Tokyo Electron]]
 - [[ASML]]
-- [[Teradyne]]
+- [[Nikon]]
 
 ### 核心产品
 - [[Wafer inspection systems]]
-- [[Metrology systems]]
-- [[Yield management software]]
 - [[Reticle inspection systems]]
-- [[Process control solutions]]
+- [[Metrology tools]]
+- [[Process control and yield management software]]
+- [[Defect review and analysis systems]]
 
 ## 数据来源
 
 - [KLA Corporation](https://en.wikipedia.org/wiki/KLA_Corporation)
+- [KLA Corporation suppliers manufacturers](https://en.wikipedia.org/wiki/KLA_Corporation)
+- [KLA Corporation suppliers manufacturers](https://www.kla.com/)
+- [KLA Corporation major customers clients](https://www.kla.com/media-room/videos/who-are-our-customers)
+- [KLA Corporation major customers clients](https://csimarket.com/stocks/KLAC-Customers)
 
 ## 元数据
 
-- **更新日期**: 2026-06-30
+- **更新日期**: 2026-07-01

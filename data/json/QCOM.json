@@ -4,40 +4,64 @@
   "sector": "Technology",
   "industry": "Semiconductors",
   "upstream": [
-    "Silicon wafer suppliers",
-    "Memory chip manufacturers",
-    "EDA tool providers",
-    "Packaging and testing services",
-    "Component suppliers (e.g., capacitors, resistors)"
+    "TSM",
+    "005930.KS",
+    "GlobalFoundries",
+    "INTC",
+    "MU"
   ],
   "downstream": [
     "AAPL",
-    "Telecom equipment vendors (Ericsson, Nokia, Huawei, ZTE)",
-    "TSLA",
-    "IoT device manufacturers",
-    "Enterprise networking equipment vendors"
+    "005930.KS",
+    "Huawei Technologies",
+    "Xiaomi Corp.",
+    "GOOGL"
   ],
   "competitors": [
-    "MediaTek",
+    "MediaTek Inc.",
     "AVGO",
     "INTC",
-    "005930.KS",
-    "NVDA"
+    "NVDA",
+    "AAPL"
   ],
   "key_products": [
     "Snapdragon mobile processors",
-    "5G modems and RF front‑ends",
+    "5G modem chips",
     "AI inference chips",
-    "SoC solutions for automotive",
-    "Embedded connectivity modules"
+    "RF front‑end modules",
+    "Wi‑Fi and Bluetooth chips"
   ],
-  "extracted_at": "2026-06-30 18:06:49",
+  "extracted_at": "2026-07-01 18:01:22",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/QUALCOMM_Incorporated",
       "title": "Qualcomm",
       "snippet": "Qualcomm Incorporated is an American multinational technology corporation headquartered in San Diego, California. The company develops and designs technologies for global communications and computing,"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.qualcomm.com/",
+      "query": "QUALCOMM Incorporated suppliers manufacturers",
+      "snippet": "Learn how Qualcomm transforms industries with leading edge AI, high-performance, low-power computing and unrivaled connectivity."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://brandsownedby.com/companies/qualcomm/",
+      "query": "QUALCOMM Incorporated suppliers manufacturers",
+      "snippet": "Ownership Explained. Qualcomm Incorporated is a publicly traded company with no controlling shareholder. Its co-founder Irwin Jacobs and other foundin"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/QCOM-Customers",
+      "query": "QUALCOMM Incorporated major customers clients",
+      "snippet": "Qualcomm Inc customers and markets, results by customer and performance relative to QCOM, by company and industry - CSIMarket"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.appsruntheworld.com/customers-database/vendors/view/qualcomm",
+      "query": "QUALCOMM Incorporated major customers clients",
+      "snippet": "List of companies using or evaluating Qualcomm applications, with details on their revenues, employees, industries, and locations."
     }
   ]
 }

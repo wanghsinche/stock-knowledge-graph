@@ -1,26 +1,26 @@
 {
   "ticker": "CRM",
   "company_name": "Salesforce, Inc.",
-  "sector": "Technology",
-  "industry": "Software - Application",
+  "sector": "Technology / Software - Application",
+  "industry": "Customer Relationship Management (CRM) Software",
   "upstream": [
     "AMZN",
     "MSFT",
     "GOOGL",
     "ORCL",
-    "IBM"
+    "VMware"
   ],
   "downstream": [
     "Coca‑Cola",
-    "Ford Motor Company",
-    "005930.KS",
+    "American Express",
+    "Toyota",
     "AT&T",
     "Walmart"
   ],
   "competitors": [
     "MSFT",
+    "SAP Customer Experience",
     "ORCL",
-    "SAP Sales Cloud",
     "HubSpot",
     "Zoho CRM"
   ],
@@ -31,7 +31,7 @@
     "Commerce Cloud",
     "Einstein AI"
   ],
-  "extracted_at": "2026-06-24 17:57:12",
+  "extracted_at": "2026-07-01 18:04:20",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Salesforce",
-      "query": "Salesforce, Inc. suppliers manufacturers",
-      "snippet": "Salesforce, Inc ., is an American cloud -based software company headquartered in San Francisco, California. It is primarily known for its customer rel"
-    },
-    {
-      "source": "DuckDuckGo",
       "url": "https://csimarket.com/stocks/CRM-Suppliers",
       "query": "Salesforce, Inc. suppliers manufacturers",
       "snippet": "May 29, 2026 · Sources: Salesforce Inc 's official press releases and regulatory filings; CSIMarket.com's supply -chain research; and the financial fi"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.appsruntheworld.com/customers-database/vendors/view/salesforce",
-      "query": "Salesforce, Inc. major customers clients",
-      "snippet": "List of companies using or evaluating Salesforce applications, with details on their revenues, employees, industries, and locations."
+      "url": "https://www.salesforce.com/company/our-brands/",
+      "query": "Salesforce, Inc. suppliers manufacturers",
+      "snippet": "See our full list of Salesforce brands and find out how these companies inspire innovation to provide customer solutions."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/CRM-Customers",
+      "url": "https://www.salesforce.com/",
       "query": "Salesforce, Inc. major customers clients",
-      "snippet": "Salesforce Inc 's Comment on Sales, Marketing and Customers We organize our sales and marketing programs by geographic regions, including the Americas"
+      "snippet": "Salesforce Enterprise-grade CRM with deep reporting, sales operations, and..."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://simplywall.st/stocks/us/software/nyse-crm/salesforce",
+      "query": "Salesforce, Inc. major customers clients",
+      "snippet": "Marc Benioff. www. salesforce .com. Salesforce , Inc . provides customer relationship management technology services that connect companies and custom"
     }
   ]
 }

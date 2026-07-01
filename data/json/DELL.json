@@ -11,33 +11,57 @@
     "TSM"
   ],
   "downstream": [
-    "Enterprise IT customers",
+    "Enterprise IT departments",
     "Government agencies",
-    "DELL",
-    "Retail consumers",
-    "CAT"
+    "CAT",
+    "Healthcare providers",
+    "Retail businesses"
   ],
   "competitors": [
     "HPQ",
     "Lenovo",
     "AAPL",
     "Acer",
-    "Asus"
+    "MSFT"
   ],
   "key_products": [
-    "Personal computers (XPS, Inspiron)",
-    "Servers (PowerEdge)",
-    "Storage solutions (Dell EMC)",
-    "Monitors (UltraSharp)",
-    "Networking & security equipment"
+    "Personal computers",
+    "Servers",
+    "Storage solutions",
+    "Monitors",
+    "Security software"
   ],
-  "extracted_at": "2026-06-30 18:08:11",
+  "extracted_at": "2026-07-01 18:03:25",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Dell_Technologies_Inc.",
       "title": "Dell Technologies",
       "snippet": "Dell Technologies Inc. is an American multinational technology company that has been headquartered in Round Rock, Texas, since 1994. It was formed as a result of the September 2016 merger of Dell and "
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.dell.com/en-us",
+      "query": "Dell Technologies Inc. suppliers manufacturers",
+      "snippet": "Dell provides technology solutions, services & support. Buy Laptops, Touch Screen PCs, Desktops, Servers, Storage, Monitors, Gaming & Accessories. Del"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.delltechnologies.com/partner/en-us/partner/partner.htm",
+      "query": "Dell Technologies Inc. suppliers manufacturers",
+      "snippet": "Partner Program Guide - Dell Technologies US."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.dell.com/en-us",
+      "query": "Dell Technologies Inc. major customers clients",
+      "snippet": "Dell provides technology solutions, services & support. Buy Laptops, Touch Screen PCs, Desktops, Servers, Storage, Monitors, Gaming & Accessories."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.delltechnologies.com/partner/en-us/partner/partner.htm",
+      "query": "Dell Technologies Inc. major customers clients",
+      "snippet": "Partner Program Guide - Dell Technologies US."
     }
   ]
 }

@@ -4,40 +4,64 @@
   "sector": "Communication Services",
   "industry": "Advertising Agencies",
   "upstream": [
-    "Mobile app developers",
-    "Game developers",
-    "Ad exchanges",
-    "Data providers",
-    "Mobile SDK providers"
+    "GOOGL",
+    "Data analytics and attribution platforms",
+    "Mobile operating system vendors (iOS, Android)",
+    "Ad exchange and demand-side platform partners",
+    "Technology infrastructure providers (CDNs, SDKs)"
   ],
   "downstream": [
-    "Mobile app developers",
-    "Game developers",
-    "App publishers",
-    "Mobile game publishers",
-    "App developers"
+    "Mobile game developers",
+    "App developers across various verticals",
+    "Digital marketing agencies",
+    "Brand advertisers seeking mobile reach",
+    "E‑commerce and fintech app publishers"
   ],
   "competitors": [
     "Unity Ads",
-    "GOOGL",
-    "Facebook Audience Network",
+    "AdColony",
     "Vungle",
-    "Chartboost"
+    "IronSource",
+    "Tapjoy"
   ],
   "key_products": [
-    "MAX (Mobile Ad Mediation)",
-    "AppLovin SDK",
-    "AppDiscovery",
-    "AppLovin Ad Network",
-    "AppLovin Mobile App Monetization"
+    "Mobile advertising platform (AppLovin Ads)",
+    "App monetization solutions (in‑app purchases, subscriptions)",
+    "User acquisition and attribution tools",
+    "Data analytics and audience segmentation",
+    "Creative and ad optimization services"
   ],
-  "extracted_at": "2026-06-30 18:12:45",
+  "extracted_at": "2026-07-01 17:59:26",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "",
       "title": "",
       "snippet": ""
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.applovin.com/",
+      "query": "AppLovin Corporation suppliers manufacturers",
+      "snippet": "Let's get you in front of a billion customers. We built AppLovin for businesses like yours. Jewelry, furniture, fitness subscriptions, word games. Wha"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/APP-technical-analysis",
+      "query": "AppLovin Corporation suppliers manufacturers",
+      "snippet": "Applovin Corporation Cash Flow Statement. Suppliers ."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.applovin.com/",
+      "query": "AppLovin Corporation major customers clients",
+      "snippet": "Let's get you in front of a billion customers . We built AppLovin for businesses like yours. Jewelry, furniture, fitness subscriptions, word games. Wh"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.tipranks.com/stocks/app/stock-analysis",
+      "query": "AppLovin Corporation major customers clients",
+      "snippet": "Get a real-time AppLovin Corp . Class A (APP) stock analysis report, powered by AI. AppLovin Corporate Events. Executive/Board ChangesShareholder Meet"
     }
   ]
 }

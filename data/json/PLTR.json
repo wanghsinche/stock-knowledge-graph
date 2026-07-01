@@ -4,40 +4,64 @@
   "sector": "Technology",
   "industry": "Software - Infrastructure",
   "upstream": [
-    "AMD",
-    "Cloud service providers (AWS, Azure, GCP)",
-    "Data providers (e.g., Thomson Reuters, Bloomberg)",
-    "Software libraries (e.g., Apache, Kubernetes)",
-    "Consulting and integration partners"
+    "AMZN",
+    "MSFT",
+    "GOOGL",
+    "Hardware manufacturers (servers, storage)",
+    "Data providers (government and commercial datasets)"
   ],
   "downstream": [
     "U.S. Department of Defense",
     "U.S. Department of Homeland Security",
-    "Financial institutions (e.g., JPMorgan, Goldman Sachs)",
-    "Healthcare organizations (e.g., Mayo Clinic)",
-    "Retail and logistics companies (e.g., Walmart)"
+    "U.S. Department of Justice",
+    "Large financial institutions",
+    "Healthcare providers"
   ],
   "competitors": [
-    "Splunk",
     "Snowflake",
     "Databricks",
-    "IBM",
-    "MSFT"
+    "Splunk",
+    "MSFT",
+    "Tableau"
   ],
   "key_products": [
-    "Palantir Gotham",
     "Palantir Foundry",
+    "Palantir Gotham",
     "Palantir Apollo",
-    "Palantir Helix",
+    "Palantir Helios",
     "Palantir Data Lake"
   ],
-  "extracted_at": "2026-06-30 18:00:56",
+  "extracted_at": "2026-07-01 17:53:56",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Palantir_Technologies_Inc.",
       "title": "Palantir",
       "snippet": "Palantir Technologies Inc. is an American publicly traded company that develops data integration and analytics software. Palantir is headquartered in Miami, Florida, and was founded in 2003 by Peter T"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/Palantir",
+      "query": "Palantir Technologies Inc. suppliers manufacturers",
+      "snippet": "Palantir Technologies Inc . is an American publicly traded company that develops data integration and analytics software. Palantir is headquartered in"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.businesswire.com/news/home/20240807171687/en/From-the-Farm-to-the-Frosty-Palantir-and-Wendys-Partner-on-AI-and-Supply-Chain-Digitalization",
+      "query": "Palantir Technologies Inc. suppliers manufacturers",
+      "snippet": "Palantir Technologies Inc . (NYSE: PLTR), a leading provider of AI systems, and Wendy’s Quality Supply Chain Co-op (QSCC) today announced they have pa"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://financhill.com/blog/investing/who-are-palantir-biggest-customers",
+      "query": "Palantir Technologies Inc. major customers clients",
+      "snippet": "Jun 12, 2024 · So, who are Palantir’s biggest customers ? The US Department of Defense was historically Palantir’s biggest customer but the Army award"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://data.landbase.com/technology/palantir/",
+      "query": "Palantir Technologies Inc. major customers clients",
+      "snippet": "Aug 17, 2025 · Companies using Palantir by Palantir Technologies Inc in 2026 As of 2026, 1,479 verified companies use Palantir – across industries, co"
     }
   ]
 }

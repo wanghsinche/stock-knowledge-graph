@@ -3,8 +3,8 @@ ticker: SNDK
 company: Sandisk Corporation
 sector: Technology
 industry: Computer Hardware
-extracted_at: 2026-06-30 17:46:26
-last_updated: 2026-06-30
+extracted_at: 2026-07-01 17:47:04
+last_updated: 2026-07-01
 ---
 
 # SNDK - Sandisk Corporation
@@ -12,46 +12,46 @@ last_updated: 2026-06-30
 ## 基本信息
 
 - **所属行业**: Technology / Computer Hardware
-- **提取时间**: 2026-06-30 17:46:26
+- **提取时间**: 2026-07-01 17:47:04
 
 ## 产业链关系
 
 ### 上游供应商
-- [[GIGAPC Corporation]]
-- [[MU]]
-- [[005930.KS]]
-- [[SK Hynix]]
-- [[INTC]]
+- [[Semiconductor manufacturers]]
+- [[Memory chip suppliers]]
+- [[Printed circuit board (PCB) manufacturers]]
+- [[Packaging and encapsulation suppliers]]
+- [[Electronic component distributors]]
 
 ### 下游客户
-- [[AAPL]]
-- [[MSFT]]
 - [[DELL]]
-- [[HPQ]]
-- [[005930.KS]]
+- [[AAPL]]
+- [[Enterprise storage solution providers]]
+- [[Consumer electronics retailers]]
+- [[Gaming console manufacturers]]
 
 ### 竞争对手
-- [[MU]]
-- [[005930.KS]]
 - [[WDC]]
-- [[SK Hynix]]
-- [[INTC]]
+- [[STX]]
+- [[005930.KS]]
+- [[Kingston Technology]]
+- [[Crucial]]
 
 ### 核心产品
-- [[Solid State Drives (SSD)]]
 - [[USB flash drives]]
-- [[SD cards]]
-- [[Memory cards]]
-- [[Enterprise storage solutions]]
+- [[SD memory cards]]
+- [[Solid State Drives (SSDs)]]
+- [[External hard drives]]
+- [[Memory modules]]
 
 ## 数据来源
 
 - [Sandisk](https://en.wikipedia.org/wiki/Sandisk_Corporation)
-- [Sandisk Corporation suppliers manufacturers](https://en.wikipedia.org/wiki/Sandisk)
-- [Sandisk Corporation suppliers manufacturers](https://www.sandisk.com/company/distributors)
-- [Sandisk Corporation major customers clients](https://en.wikipedia.org/wiki/SanDisk)
-- [Sandisk Corporation major customers clients](https://csimarket.com/stocks/markets_glance.php?code=SNDK)
+- [Sandisk Corporation suppliers manufacturers](https://www.sandisk.com/)
+- [Sandisk Corporation suppliers manufacturers](https://finance.yahoo.com/quote/SNDK/)
+- [Sandisk Corporation major customers clients](https://data.landbase.com/technology/sandisk/)
+- [Sandisk Corporation major customers clients](https://www.appsruntheworld.com/customers-database/vendors/view/sandisk)
 
 ## 元数据
 
-- **更新日期**: 2026-06-30
+- **更新日期**: 2026-07-01

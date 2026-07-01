@@ -4,40 +4,64 @@
   "sector": "Healthcare",
   "industry": "Drug Manufacturers - General",
   "upstream": [
-    "Active Pharmaceutical Ingredient (API) manufacturers",
-    "Contract Manufacturing Organizations (CMOs)",
-    "Packaging suppliers",
-    "Laboratory equipment suppliers",
-    "Technology and software providers"
+    "Raw material suppliers",
+    "Contract manufacturing organizations (CMOs)",
+    "Chemical suppliers",
+    "Biotechnology suppliers",
+    "Packaging suppliers"
   ],
   "downstream": [
-    "Hospitals and health care facilities",
-    "Pharmacies and drugstores",
-    "Health insurance companies",
-    "Government health agencies",
-    "Pharmaceutical distributors"
+    "Hospitals",
+    "Pharmacies",
+    "Health care providers",
+    "Government agencies",
+    "International health organizations"
   ],
   "competitors": [
     "Pfizer",
     "Johnson & Johnson",
-    "Merck & Co.",
     "Novartis",
-    "AbbVie"
+    "Merck & Co.",
+    "Bristol-Myers Squibb"
   ],
   "key_products": [
-    "Humira (adalimumab)",
     "Trulicity (dulaglutide)",
-    "Mounjaro (tirzepatide)",
+    "Cymbalta (duloxetine)",
     "Zyprexa (olanzapine)",
-    "Cymbalta (duloxetine)"
+    "Trulicity (diabetes)",
+    "Cymbalta (antidepressant)"
   ],
-  "extracted_at": "2026-06-30 18:03:36",
+  "extracted_at": "2026-07-01 18:03:54",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Eli_Lilly_and_Company",
       "title": "Eli Lilly and Company",
       "snippet": "Eli Lilly and Company, doing business as Lilly, is an American multinational pharmaceutical company headquartered in Indianapolis, Indiana, with offices in 18 countries. Its products are sold in appro"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/Eli_Lilly_and_Company",
+      "query": "Eli Lilly and Company suppliers manufacturers",
+      "snippet": "Eli Lilly and Company , doing business as Lilly , is an American multinational pharmaceutical company headquartered in Indianapolis, Indiana, with off"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.lilly.com/suppliers",
+      "query": "Eli Lilly and Company suppliers manufacturers",
+      "snippet": "Supplier relationships are an important piece of the company , and we’re proud to offer mentorship and advocacy to small and under-leveraged businesse"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/Eli_Lilly_and_Company",
+      "query": "Eli Lilly and Company major customers clients",
+      "snippet": "Eli Lilly and Company ... David Ricks, CEO of Lilly since 2016 Eli Lilly and Company , doing business as Lilly , is an American multinational pharmace"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/LLY-Customers",
+      "query": "Eli Lilly and Company major customers clients",
+      "snippet": "Eli Lilly customers and markets, results by customer and performance relative to LLY, by company and industry - CSIMarket"
     }
   ]
 }

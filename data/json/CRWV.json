@@ -6,38 +6,62 @@
   "upstream": [
     "NVDA",
     "AMD",
+    "INTC",
     "TSM",
-    "005930.KS",
-    "INTC"
+    "QCOM"
   ],
   "downstream": [
-    "AI startups",
+    "AI developers",
+    "Enterprise AI teams",
+    "Start‑ups in machine learning",
     "Research institutions",
-    "Enterprises",
-    "Universities",
-    "Government agencies"
+    "Gaming companies"
   ],
   "competitors": [
-    "NVDA",
     "AMZN",
     "MSFT",
     "GOOGL",
+    "NVDA",
     "IBM"
   ],
   "key_products": [
-    "GPU cloud services",
+    "GPU‑based AI compute cloud",
     "Chip management software",
-    "AI infrastructure",
-    "GPU virtualization",
-    "AI workload orchestration"
+    "GPU‑as‑a‑Service (GPUaaS)",
+    "AI workload orchestration",
+    "Custom GPU cluster provisioning"
   ],
-  "extracted_at": "2026-06-30 18:19:32",
+  "extracted_at": "2026-07-01 17:54:45",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/CoreWeave,_Inc.",
       "title": "CoreWeave",
       "snippet": "CoreWeave, Inc. is an American artificial intelligence (AI) cloud-computing company based in Livingston, New Jersey. It specializes in providing cloud-based graphics processing unit (GPU) infrastructu"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/CoreWeave",
+      "query": "CoreWeave, Inc. suppliers manufacturers",
+      "snippet": "CoreWeave , Inc . is an American artificial intelligence cloud-computing company based in Livingston, New Jersey."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.businesswire.com/news/home/20260629000491/en/CoreWeave-ARIA-Launches-as-an-AI-Research-and-Iteration-Agent-with-autonomous-research-and-collaborative-intelligence",
+      "query": "CoreWeave, Inc. suppliers manufacturers",
+      "snippet": "CoreWeave , Inc . (Nasdaq: CRWV), The Essential Cloud for AI™, today announced the launch of CoreWeave ARIA (AI Research & Iteration Agent), an AI res"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.coreweave.com/case-studies",
+      "query": "CoreWeave, Inc. major customers clients",
+      "snippet": "Customer stories Where Customers Become Pioneers Discover how CoreWeave customers transform ambition into achievement. These pioneers are shaping the "
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.appsruntheworld.com/customers-database/products/view/coreweave-compute-services",
+      "query": "CoreWeave, Inc. major customers clients",
+      "snippet": "Contact APPS RUN THE WORLD to access the full verified CoreWeave Compute Services customer database with detailed Firmographics such as industry, geog"
     }
   ]
 }

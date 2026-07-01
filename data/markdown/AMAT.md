@@ -3,8 +3,8 @@ ticker: AMAT
 company: Applied Materials, Inc.
 sector: Technology
 industry: Semiconductor Equipment & Materials
-extracted_at: 2026-06-30 17:53:28
-last_updated: 2026-06-30
+extracted_at: 2026-07-01 17:51:50
+last_updated: 2026-07-01
 ---
 
 # AMAT - Applied Materials, Inc.
@@ -12,41 +12,28 @@ last_updated: 2026-06-30
 ## 基本信息
 
 - **所属行业**: Technology / Semiconductor Equipment & Materials
-- **提取时间**: 2026-06-30 17:53:28
+- **提取时间**: 2026-07-01 17:51:50
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Silicon wafers]]
-- [[Photoresist chemicals]]
-- [[Process gases (silane, ammonia)]]
-- [[META]]
-- [[Precision optics and lenses]]
+_暂无数据_
 
 ### 下游客户
-- [[TSM]]
-- [[005930.KS]]
-- [[INTC]]
-- [[GlobalFoundries]]
-- [[MU]]
+_暂无数据_
 
 ### 竞争对手
-- [[ASML]]
-- [[Tokyo Electron]]
-- [[LRCX]]
-- [[KLA Corporation]]
+_暂无数据_
 
 ### 核心产品
-- [[Lithography systems]]
-- [[Deposition equipment (CVD, ALD)]]
-- [[Etching tools]]
-- [[Inspection & metrology solutions]]
-- [[Software & services for process optimization]]
+_暂无数据_
 
 ## 数据来源
 
 - [Applied Materials](https://en.wikipedia.org/wiki/Applied_Materials,_Inc.)
+- [Applied Materials, Inc. suppliers manufacturers](https://www.appliedmaterials.com/us/en.html)
+- [Applied Materials, Inc. suppliers manufacturers](https://www.apacoutlookmag.com/manufacturing/applied-materials-inc-expands-its-singapore-manufacturing-and-rd-operations)
 
 ## 元数据
 
-- **更新日期**: 2026-06-30
+- **更新日期**: 2026-07-01

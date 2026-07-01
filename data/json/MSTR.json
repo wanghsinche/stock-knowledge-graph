@@ -1,43 +1,67 @@
 {
   "ticker": "MSTR",
   "company_name": "Strategy Inc",
-  "sector": "Technology / Software - Application",
-  "industry": "Business Intelligence & Analytics Software",
+  "sector": "Technology",
+  "industry": "Software - Application",
   "upstream": [
+    "Strategic Resources, Inc. (SRI)",
+    "DELL",
+    "HPQ",
     "MSFT",
-    "AMZN",
-    "GOOGL",
-    "ORCL",
-    "IBM"
+    "AMZN"
   ],
   "downstream": [
-    "Bank of America",
-    "JPMorgan Chase",
     "Walmart",
-    "General Electric",
-    "Coca‑Cola"
+    "JPMorgan Chase",
+    "Bank of America",
+    "AT&T",
+    "Verizon"
   ],
   "competitors": [
-    "SAP BusinessObjects",
+    "SAP SE Business Objects",
     "IBM",
     "ORCL",
     "MSFT",
-    "Tableau"
+    "CRM"
   ],
   "key_products": [
     "MicroStrategy Analytics Platform",
-    "MicroStrategy Mobile",
-    "MicroStrategy Data Visualization",
-    "MicroStrategy Cloud",
-    "MicroStrategy Data Warehouse"
+    "Business Intelligence Dashboards",
+    "Mobile Analytics Apps",
+    "Data Visualization Tools",
+    "Cloud Analytics Services"
   ],
-  "extracted_at": "2026-06-30 18:02:54",
+  "extracted_at": "2026-07-01 17:58:31",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Strategy_Inc",
       "title": "MicroStrategy",
       "snippet": "Strategy Inc., formerly known as MicroStrategy, is an American company that provides business intelligence (BI) and mobile software. Founded in 1989 by Michael J. Saylor, Sanju Bansal, and Thomas Spah"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.strategy.com/press/strategy-announces-legal-name-change-from-microstrategy-incorporated-to-strategy-inc_08-14-2025",
+      "query": "Strategy Inc suppliers manufacturers",
+      "snippet": "Aug 14, 2025 · August 14, 2025 Strategy Announces Legal Name Change from MicroStrategy Incorporated to Strategy Inc Press Release • August 14, 2025"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://sri-hq.com/",
+      "query": "Strategy Inc suppliers manufacturers",
+      "snippet": "Strategic Resources, Inc . (SRI) is an international, ISO 9001/20000/27001 Certified, CMMI Level 3 Rated full-service provider with more than 35 years"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/MicroStrategy",
+      "query": "Strategy Inc major customers clients",
+      "snippet": "Strategy Inc ., formerly known as MicroStrategy, is an American company that provides business intelligence and mobile software. Founded in 1989 by Mi"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://finance.yahoo.com/quote/MSTR/",
+      "query": "Strategy Inc major customers clients",
+      "snippet": "Find the latest Strategy Inc (MSTR) stock quote, history, news and other vital information to help you with your stock trading and investing."
     }
   ]
 }

@@ -5,17 +5,17 @@
   "industry": "Semiconductors",
   "upstream": [
     "TSM",
-    "GlobalFoundries",
-    "INTC",
     "005930.KS",
-    "ASML"
+    "GlobalFoundries",
+    "UMC",
+    "INTC"
   ],
   "downstream": [
+    "MSFT",
+    "AMZN",
+    "GOOGL",
     "DELL",
-    "HPQ",
-    "Lenovo",
-    "SONY",
-    "MSFT"
+    "HPQ"
   ],
   "competitors": [
     "INTC",
@@ -26,18 +26,42 @@
   ],
   "key_products": [
     "Ryzen CPUs",
-    "EPYC CPUs",
+    "EPYC server processors",
     "Radeon GPUs",
-    "Xilinx FPGAs",
-    "SoCs"
+    "Radeon Instinct accelerators",
+    "AMD GPUs for gaming consoles"
   ],
-  "extracted_at": "2026-06-30 17:47:41",
+  "extracted_at": "2026-07-01 17:50:27",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Advanced_Micro_Devices,_Inc.",
       "title": "AMD",
       "snippet": "Advanced Micro Devices, Inc. (AMD) is an American multinational semiconductor company headquartered in Santa Clara, California. It develops central processing units (CPUs), graphics processing units ("
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/AMD-Suppliers",
+      "query": "Advanced Micro Devices, Inc. suppliers manufacturers",
+      "snippet": "Jun 22, 2026 · Advanced Micro Devices Inc 's Comment on Supply Chain We rely on third-party wafer foundries to fabricate the silicon wafers for all of"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://thepartsdirect.com/advancedmicrodevicesamd/distributors-and-vendors",
+      "query": "Advanced Micro Devices, Inc. suppliers manufacturers",
+      "snippet": "144 Distributors & Vendors, 1 Locations associated to Advanced Micro Devices (AMD)"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/AMD-Customers",
+      "query": "Advanced Micro Devices, Inc. major customers clients",
+      "snippet": "Advanced Micro Devices Inc customers and markets, results by customer and performance relative to AMD, by company and industry - CSIMarket"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.marketscreener.com/quote/stock/AMD-ADVANCED-MICRO-DEVICE-179387659/finances-segments/",
+      "query": "Advanced Micro Devices, Inc. major customers clients",
+      "snippet": "5 days ago · Understand how activity and revenue gets distributed for AMD (Advanced Micro Devices ) (AMD). Ten-year segmentation history. The entire s"
     }
   ]
 }

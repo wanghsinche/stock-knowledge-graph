@@ -3,8 +3,8 @@ ticker: RKLB
 company: Rocket Lab Corporation
 sector: Industrials
 industry: Aerospace & Defense
-extracted_at: 2026-06-30 18:00:34
-last_updated: 2026-06-30
+extracted_at: 2026-07-01 18:02:52
+last_updated: 2026-07-01
 ---
 
 # RKLB - Rocket Lab Corporation
@@ -12,44 +12,46 @@ last_updated: 2026-06-30
 ## 基本信息
 
 - **所属行业**: Industrials / Aerospace & Defense
-- **提取时间**: 2026-06-30 18:00:34
+- **提取时间**: 2026-07-01 18:02:52
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Aerojet Rocketdyne]]
-- [[Hexcel]]
-- [[Honeywell]]
-- [[Lockheed Martin]]
-- [[Boeing]]
+- [[Star tracker manufacturers]]
+- [[Reaction wheel manufacturers]]
+- [[Solar panel suppliers]]
+- [[Electric propulsion system suppliers]]
+- [[Composite structure manufacturers]]
 
 ### 下游客户
-- [[Planet]]
-- [[Planet Labs]]
-- [[NASA]]
-- [[DARPA]]
-- [[Astra]]
+- [[Satellite operators]]
+- [[Space agencies]]
+- [[Commercial satellite customers]]
+- [[Government defense agencies]]
+- [[Research institutions]]
 
 ### 竞争对手
 - [[SpaceX]]
 - [[Firefly Aerospace]]
-- [[Astra]]
-- [[Virgin Orbit]]
-- [[Blue Origin]]
+- [[Arianespace (Vega)]]
+- [[Blue Origin (New Shepard)]]
+- [[Relativity Space]]
 
 ### 核心产品
-- [[Electron launch vehicle]]
-- [[HASTE suborbital vehicle]]
-- [[Neutron launch vehicle]]
-- [[Star trackers]]
-- [[Reaction wheels]]
+- [[Electron orbital rocket]]
+- [[HASTE suborbital rocket]]
+- [[Neutron medium‑lift launch vehicle]]
+- [[Satellite components (star trackers, reaction wheels, solar panels)]]
+- [[Electric propulsion systems]]
 
 ## 数据来源
 
 - [Rocket Lab](https://en.wikipedia.org/wiki/Rocket_Lab_Corporation)
 - [Rocket Lab Corporation suppliers manufacturers](https://en.wikipedia.org/wiki/Rocket_Lab)
-- [Rocket Lab Corporation suppliers manufacturers](https://sky-brokers.com/supplier/rocket-lab/)
+- [Rocket Lab Corporation suppliers manufacturers](https://csimarket.com/stocks/RKLB-Suppliers)
+- [Rocket Lab Corporation major customers clients](https://en.wikipedia.org/wiki/Rocket_Lab)
+- [Rocket Lab Corporation major customers clients](https://csimarket.com/stocks/RKLB-Customers)
 
 ## 元数据
 
-- **更新日期**: 2026-06-30
+- **更新日期**: 2026-07-01

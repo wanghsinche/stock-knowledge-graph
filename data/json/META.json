@@ -7,15 +7,15 @@
     "NVDA",
     "AMD",
     "INTC",
-    "QCOM",
-    "AMZN"
+    "CSCO",
+    "DELL"
   ],
   "downstream": [
-    "Advertisers (global brands and agencies)",
-    "META",
-    "App developers integrating Facebook/Instagram APIs",
-    "Content creators on Facebook, Instagram, and Threads",
-    "End users of Facebook, Instagram, WhatsApp, Messenger"
+    "Advertisers",
+    "Businesses",
+    "App developers",
+    "Content creators",
+    "End users"
   ],
   "competitors": [
     "GOOGL",
@@ -29,17 +29,39 @@
     "Instagram",
     "WhatsApp",
     "Messenger",
-    "Threads",
-    "Meta Quest (VR/AR)",
-    "Meta Ads Platform"
+    "Meta Ads"
   ],
-  "extracted_at": "2026-06-30 17:53:45",
+  "extracted_at": "2026-07-01 17:46:41",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Meta_Platforms,_Inc.",
       "title": "Meta Platforms",
       "snippet": "Meta Platforms, Inc. is an American multinational technology company headquartered in Menlo Park, California. Meta owns and operates several prominent social media platforms and communication services"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://ru.wikipedia.org/wiki/Meta_Platforms",
+      "query": "Meta Platforms, Inc. suppliers manufacturers",
+      "snippet": "Meta Platforms , Inc . — американская транснациональная холдинговая компания, владеющая технологическим конгломератом и расположенная в Менло-Парке, К"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://investor.atmeta.com/",
+      "query": "Meta Platforms, Inc. suppliers manufacturers",
+      "snippet": "Meta to Participate in the Morgan Stanley Technology, Media & Telecom Conference. February 25, 2026."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/Meta_Platforms",
+      "query": "Meta Platforms, Inc. major customers clients",
+      "snippet": "Meta Platforms , Inc . (doing business as Meta) is an American multinational technology company headquartered in Menlo Park, California. Meta owns and"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/META-Customers",
+      "query": "Meta Platforms, Inc. major customers clients",
+      "snippet": "Meta Platforms Inc 's Comment on Sales, Marketing and Customers The majority of our marketers use our self-service ad platform to establish accounts a"
     }
   ]
 }

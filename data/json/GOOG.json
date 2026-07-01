@@ -4,34 +4,34 @@
   "sector": "Communication Services",
   "industry": "Internet Content & Information",
   "upstream": [
-    "NVDA",
-    "AMD",
     "INTC",
-    "DELL",
-    "AMZN"
+    "NVDA",
+    "QCOM",
+    "005930.KS",
+    "TSM"
   ],
   "downstream": [
-    "AMZN",
-    "AAPL",
-    "Content creators (e.g., YouTube creators)",
-    "Media companies (e.g., Disney, NBC)",
+    "Advertisers",
+    "Android app developers",
+    "YouTube content creators",
+    "GOOGL",
     "GOOGL"
   ],
   "competitors": [
-    "MSFT",
-    "AMZN",
     "META",
+    "AMZN",
+    "MSFT",
     "AAPL",
     "Tencent"
   ],
   "key_products": [
     "Google Search",
-    "YouTube",
+    "Android OS",
     "Google Cloud Platform",
-    "Google Ads",
-    "Android"
+    "YouTube",
+    "Google Ads"
   ],
-  "extracted_at": "2026-06-30 17:59:09",
+  "extracted_at": "2026-07-01 17:57:16",
   "sources": [
     {
       "source": "Wikipedia",
@@ -42,14 +42,26 @@
     {
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Alphabet_Inc.",
-      "query": "Alphabet Inc. major customers clients",
-      "snippet": "Google, Internet services, largest subsidiary and prior corporate entity name, Sundar Pichai ; Google Fiber, Internet access: via fiber, Dinesh Jain ;"
+      "query": "Alphabet Inc. suppliers manufacturers",
+      "snippet": "Alphabet Inc . is an American multinational technology conglomerate holding company headquartered in Mountain View, California . It was created throug"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.investopedia.com/investing/companies-owned-by-google/",
+      "url": "https://csimarket.com/stocks/GOOG-Suppliers",
+      "query": "Alphabet Inc. suppliers manufacturers",
+      "snippet": "Jun 22, 2026 · Alphabet Inc 's Comment on Supply Chain We rely on third parties to manufacture many of our assemblies and finished products, and we ha"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/Alphabet_Inc.",
       "query": "Alphabet Inc. major customers clients",
-      "snippet": "Seven major companies owned by Alphabet are YouTube, Waze, DoubleClick, Nest, Looker, Fitbit, and Mandiant. Alphabet: An Overview · Mandiant · Fitbit "
+      "snippet": "Alphabet Inc . is an American multinational technology conglomerate holding company headquartered in Mountain View, California. It was created through"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.investing.com/equities/google-inc",
+      "query": "Alphabet Inc. major customers clients",
+      "snippet": "Get detailed information about the Alphabet Inc . stock (GOOGL) including Price, Charts, Technical Analysis, Historical data, Alphabet Reports and mor"
     }
   ]
 }

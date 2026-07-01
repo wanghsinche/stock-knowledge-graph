@@ -3,17 +3,65 @@
   "company_name": "Astera Labs, Inc.",
   "sector": "Technology",
   "industry": "Semiconductors",
-  "upstream": [],
-  "downstream": [],
-  "competitors": [],
-  "key_products": [],
-  "extracted_at": "2026-06-30 18:08:57",
+  "upstream": [
+    "TSM",
+    "005930.KS",
+    "GlobalFoundries",
+    "ASE",
+    "Amkor"
+  ],
+  "downstream": [
+    "CSCO",
+    "JNPR",
+    "ANET",
+    "NVDA",
+    "AVGO"
+  ],
+  "competitors": [
+    "AVGO",
+    "MRVL",
+    "QRVO",
+    "Lattice Semiconductor",
+    "INTC"
+  ],
+  "key_products": [
+    "Astera 10G Ethernet transceiver",
+    "Astera 25G Ethernet transceiver",
+    "Astera 40G Ethernet transceiver",
+    "Astera PCIe 4.0 transceiver",
+    "Astera PCIe 5.0 transceiver"
+  ],
+  "extracted_at": "2026-07-01 18:06:01",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "",
       "title": "",
       "snippet": ""
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/suppliers_glance.php?code=ALAB",
+      "query": "Astera Labs, Inc. suppliers manufacturers",
+      "snippet": "Astera Labs Inc supply chain, list and performance of Astera Labs Incs ' suppliers - CSIMarket."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.asteralabs.com/",
+      "query": "Astera Labs, Inc. suppliers manufacturers",
+      "snippet": "Go to the homepage of ASTERA LABS , INC .Cloud-Scale Interop Lab . Plug-and-play interoperability is critical for deploying rack-scale AI. Astera Labs"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.asteralabs.com/",
+      "query": "Astera Labs, Inc. major customers clients",
+      "snippet": "Go to the homepage of ASTERA LABS , INC .Cloud-Scale Interop Lab . Plug-and-play interoperability is critical for deploying rack-scale AI. Astera Labs"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://simplywall.st/stocks/us/semiconductors/nasdaq-alab/astera-labs",
+      "query": "Astera Labs, Inc. major customers clients",
+      "snippet": "Astera Labs , Inc ., Annual General Meeting, Jun 04, 2026. Location: offices of, astera labs , inc ., at 2345 north first street, san jose, california"
     }
   ]
 }

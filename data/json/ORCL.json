@@ -5,39 +5,63 @@
   "industry": "Software - Infrastructure",
   "upstream": [
     "INTC",
-    "NVDA",
-    "CSCO",
+    "AMD",
     "DELL",
-    "IBM"
+    "HPQ",
+    "CSCO"
   ],
   "downstream": [
-    "Large enterprises (e.g., banks, insurance, telecom)",
-    "Government agencies",
-    "Retail companies",
-    "Healthcare organizations",
-    "CAT"
+    "Walmart",
+    "JPMorgan Chase",
+    "Bank of America",
+    "AT&T",
+    "Verizon"
   ],
   "competitors": [
     "MSFT",
-    "SAP",
-    "IBM",
     "AMZN",
+    "IBM",
+    "SAP",
     "GOOGL"
   ],
   "key_products": [
     "Oracle Database",
     "Oracle Cloud Infrastructure",
-    "Oracle Autonomous Database",
     "Oracle E-Business Suite",
-    "Oracle Fusion Applications"
+    "Oracle Fusion Applications",
+    "Oracle Autonomous Database"
   ],
-  "extracted_at": "2026-06-30 18:01:34",
+  "extracted_at": "2026-07-01 17:55:57",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Oracle_Corporation",
       "title": "Oracle Corporation",
       "snippet": "Oracle Corporation is an American multinational technology company headquartered in Austin, Texas. Co-founded in Santa Clara, California, in 1977 by Bob Miner, Ed Oates, and current chairman of the bo"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.oracle.com/corporate/suppliers/",
+      "query": "Oracle Corporation suppliers manufacturers",
+      "snippet": "Doing Business with Oracle Oracle iSupplier Portal (iSP) is a secured self-service tool, which provides Oracle 's suppliers with the ability to use a "
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/ORCL-Suppliers",
+      "query": "Oracle Corporation suppliers manufacturers",
+      "snippet": "Jun 22, 2026 · Oracle 's Suppliers recorded an increase in sales by 26.11 % year on year in Q1 2026, sequentially sales grew by 13.04 %, Oracle record"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/ORCL-Customers",
+      "query": "Oracle Corporation major customers clients",
+      "snippet": "Jun 24, 2026 · By offering our partners access to our product offerings, educational information, technical services, marketing and sales support, the"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.thomsondata.com/customer-base/oracle.php",
+      "query": "Oracle Corporation major customers clients",
+      "snippet": "Technographic Data of Companies That Use Oracle Oracle Customers List by Industry Different industries use Oracle technology for their business . Look"
     }
   ]
 }

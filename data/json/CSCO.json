@@ -1,37 +1,37 @@
 {
   "ticker": "CSCO",
   "company_name": "Cisco Systems, Inc.",
-  "sector": "Technology",
-  "industry": "Communication Equipment",
+  "sector": "Technology / Communication Equipment",
+  "industry": "Networking Equipment",
   "upstream": [
     "INTC",
     "AVGO",
     "QCOM",
-    "NVDA",
-    "TXN"
+    "TXN",
+    "NVDA"
   ],
   "downstream": [
     "AT&T",
     "Verizon",
     "GOOGL",
-    "MSFT",
-    "AMZN"
+    "AMZN",
+    "U.S. Department of Defense"
   ],
   "competitors": [
     "JNPR",
-    "Huawei",
     "ANET",
+    "Huawei",
     "Nokia",
     "Ericsson"
   ],
   "key_products": [
-    "Cisco IOS",
-    "Cisco ASA",
-    "Cisco Meraki",
+    "Cisco routers",
+    "Cisco switches",
+    "Cisco firewalls",
     "Webex",
     "OpenDNS"
   ],
-  "extracted_at": "2026-06-26 17:38:39",
+  "extracted_at": "2026-07-01 18:04:06",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ru.wikipedia.org/wiki/Cisco",
+      "url": "https://www.cisco.com/c/dam/en_us/about/supply-chain/cisco-supplier-list.pdf",
       "query": "Cisco Systems, Inc. suppliers manufacturers",
-      "snippet": "Cisco Systems , «Сиско Системз» — американская транснациональная компания, разрабатывающая и продающая сетевое оборудование, предназначенное в основно"
+      "snippet": "Cisco Supplier List Cisco products are made by a complex global network of manufacturing partners and component suppliers . To learn more about how we"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.cisco.com/",
+      "url": "https://www.cisco.com/c/en/us/about/suppliers.html",
       "query": "Cisco Systems, Inc. suppliers manufacturers",
-      "snippet": "Cisco is a worldwide technology leader powering an inclusive future for all. Learn more about our products, services, solutions, and innovations.Disco"
+      "snippet": "As a worldwide technology leader, Cisco leverages a premier, strategic supplier network across our business operations—managed by Global Procurement S"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.cisco.com/",
+      "url": "https://www.cisco.com/site/us/en/about/case-studies-customer-stories/index.html",
       "query": "Cisco Systems, Inc. major customers clients",
-      "snippet": "Cisco is a worldwide technology leader powering an inclusive future for all. Learn more about our products, services, solutions, and innovations.Join "
+      "snippet": "Read Cisco case studies and customer success stories highlighting the ways organizations have realized their goals and helped drive outcomes."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.linkedin.com/company/cisco",
+      "url": "https://www.cisco.com/c/en/us/about/case-studies-customer-success-stories/customer-stories-listing.html",
       "query": "Cisco Systems, Inc. major customers clients",
-      "snippet": "Cisco Meraki Systems Manager. Cisco Meraki Systems Manager. Mobile Device Management (MDM) Software. Cisco Secure Malware Analytics, Threat Intelligen"
+      "snippet": "Customer case studies highlighting customer and partner success with Cisco technology and services. Find your Industry."
     }
   ]
 }

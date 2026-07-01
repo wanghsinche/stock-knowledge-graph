@@ -1,43 +1,67 @@
 {
   "ticker": "GLW",
   "company_name": "Corning Incorporated",
-  "sector": "Technology / Electronic Components",
-  "industry": "Optical & Photonics / Advanced Glass & Ceramics",
+  "sector": "Technology",
+  "industry": "Electronic Components",
   "upstream": [
     "Silica sand suppliers",
-    "Chemical feedstock providers (e.g., silica dioxide, boron compounds)",
-    "Glass manufacturing equipment manufacturers",
-    "Recycling and waste management partners",
-    "Energy and utility providers for high‑temperature furnaces"
+    "Chemical feedstock providers",
+    "Glass raw material manufacturers",
+    "META",
+    "Specialty polymer suppliers"
   ],
   "downstream": [
-    "INTC",
+    "AAPL",
     "CAT",
-    "Aerospace and defense contractors (e.g., Lockheed Martin, Boeing)",
-    "Medical imaging device manufacturers (e.g., Siemens Healthineers)",
-    "AAPL"
+    "Display panel producers (e.g., LG Display, BOE)",
+    "Environmental sensor companies",
+    "CAT"
   ],
   "competitors": [
     "Schott AG",
     "Saint‑Gobain",
-    "Lumentum Holdings",
     "II‑VI Incorporated",
-    "Teledyne Technologies"
+    "Lumentum Holdings",
+    "CAT"
   ],
   "key_products": [
-    "Optical fiber and cable assemblies",
-    "High‑performance specialty glass (e.g., Gorilla Glass)",
-    "Optical lenses and windows for imaging systems",
-    "Photonic integrated circuits and components",
-    "Glass substrates for semiconductor and display manufacturing"
+    "Optical fiber and cable",
+    "Display glass substrates",
+    "Advanced ceramics",
+    "Optical lenses and windows",
+    "Glass substrates for flat‑panel displays"
   ],
-  "extracted_at": "2026-06-30 17:55:57",
+  "extracted_at": "2026-07-01 17:55:42",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Corning_Incorporated",
       "title": "Corning Inc.",
       "snippet": "Corning Incorporated is an American multinational technology company specializing in glass, ceramics, and related materials and technologies including advanced optics, primarily for industrial and sci"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.corning.com/",
+      "query": "Corning Incorporated suppliers manufacturers",
+      "snippet": "Corning Incorporated is a global-leading innovator in materials science, with 170 years of life-changing inventions and category-defining products."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.corning.com/worldwide/en/about-us/company-profile.html",
+      "query": "Corning Incorporated suppliers manufacturers",
+      "snippet": "Corning is vital to progress – in the industries we shape and in the world we share. We invent life-changing technologies using materials science. Our"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/Corning_Inc.",
+      "query": "Corning Incorporated major customers clients",
+      "snippet": "As of 2014, Corning had five major business sectors: display technologies, environmental technologies, life sciences, optical communications, and spec"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/GLW-Customers",
+      "query": "Corning Incorporated major customers clients",
+      "snippet": "Corning Inc customers and markets, results by customer and performance relative to GLW, by company and industry - CSIMarket"
     }
   ]
 }

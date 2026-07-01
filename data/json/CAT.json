@@ -4,23 +4,23 @@
   "sector": "Industrials",
   "industry": "Farm & Heavy Construction Machinery",
   "upstream": [
-    "Cummins Inc.",
-    "Eaton Corporation",
-    "Bosch Rexroth",
-    "Denso",
-    "Kohler Engines"
+    "Steel suppliers",
+    "Engine manufacturers",
+    "Hydraulic component suppliers",
+    "Electronic systems suppliers",
+    "Battery manufacturers"
   ],
   "downstream": [
     "Construction companies",
     "Mining companies",
     "Government agencies",
-    "Infrastructure developers",
-    "Oil & gas operators"
+    "Infrastructure projects",
+    "Engineering firms"
   ],
   "competitors": [
-    "Komatsu Ltd.",
-    "Volvo Construction Equipment",
     "DE",
+    "Komatsu",
+    "Volvo Construction Equipment",
     "CNH Industrial",
     "Doosan Infracore"
   ],
@@ -29,15 +29,39 @@
     "Excavators",
     "Wheel loaders",
     "Mining trucks",
-    "Diesel engines"
+    "Hydraulic excavators"
   ],
-  "extracted_at": "2026-06-30 18:18:06",
+  "extracted_at": "2026-07-01 17:58:44",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Caterpillar_Inc.",
       "title": "Caterpillar Inc.",
       "snippet": "Caterpillar Inc. is an American construction, mining, and other engineering equipment manufacturer. The company is the world's largest manufacturer of construction equipment.\nIn 2018, Caterpillar was "
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.caterpillar.com/en/company/working-together/suppliers.html",
+      "query": "Caterpillar Inc. suppliers manufacturers",
+      "snippet": "Caterpillar suppliers set high standards for specifications, delivery and price, communication and conduct."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.caterpillar.com/",
+      "query": "Caterpillar Inc. suppliers manufacturers",
+      "snippet": "Caterpillar is the world’s leading manufacturer of construction and mining equipment, diesel and natural gas engines, industrial turbines and diesel-e"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/CAT-Customers",
+      "query": "Caterpillar Inc. major customers clients",
+      "snippet": "Caterpillar Inc customers and markets, results by customer and performance relative to CAT , by company and industry - CSIMarket"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.caterpillar.com/en/company/100/customers-success.html",
+      "query": "Caterpillar Inc. major customers clients",
+      "snippet": "\"Buy the iron, get the company.\" If you’ve been around Caterpillar long enough, you’re familiar with those words. And even if you haven’t, you get the"
     }
   ]
 }

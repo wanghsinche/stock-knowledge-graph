@@ -3,8 +3,8 @@ ticker: PLTR
 company: Palantir Technologies Inc.
 sector: Technology
 industry: Software - Infrastructure
-extracted_at: 2026-06-30 18:00:56
-last_updated: 2026-06-30
+extracted_at: 2026-07-01 17:53:56
+last_updated: 2026-07-01
 ---
 
 # PLTR - Palantir Technologies Inc.
@@ -12,42 +12,46 @@ last_updated: 2026-06-30
 ## 基本信息
 
 - **所属行业**: Technology / Software - Infrastructure
-- **提取时间**: 2026-06-30 18:00:56
+- **提取时间**: 2026-07-01 17:53:56
 
 ## 产业链关系
 
 ### 上游供应商
-- [[AMD]]
-- [[Cloud service providers (AWS, Azure, GCP)]]
-- [[Data providers (e.g., Thomson Reuters, Bloomberg)]]
-- [[Software libraries (e.g., Apache, Kubernetes)]]
-- [[Consulting and integration partners]]
+- [[AMZN]]
+- [[MSFT]]
+- [[GOOGL]]
+- [[Hardware manufacturers (servers, storage)]]
+- [[Data providers (government and commercial datasets)]]
 
 ### 下游客户
 - [[U.S. Department of Defense]]
 - [[U.S. Department of Homeland Security]]
-- [[Financial institutions (e.g., JPMorgan, Goldman Sachs)]]
-- [[Healthcare organizations (e.g., Mayo Clinic)]]
-- [[Retail and logistics companies (e.g., Walmart)]]
+- [[U.S. Department of Justice]]
+- [[Large financial institutions]]
+- [[Healthcare providers]]
 
 ### 竞争对手
-- [[Splunk]]
 - [[Snowflake]]
 - [[Databricks]]
-- [[IBM]]
+- [[Splunk]]
 - [[MSFT]]
+- [[Tableau]]
 
 ### 核心产品
-- [[Palantir Gotham]]
 - [[Palantir Foundry]]
+- [[Palantir Gotham]]
 - [[Palantir Apollo]]
-- [[Palantir Helix]]
+- [[Palantir Helios]]
 - [[Palantir Data Lake]]
 
 ## 数据来源
 
 - [Palantir](https://en.wikipedia.org/wiki/Palantir_Technologies_Inc.)
+- [Palantir Technologies Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/Palantir)
+- [Palantir Technologies Inc. suppliers manufacturers](https://www.businesswire.com/news/home/20240807171687/en/From-the-Farm-to-the-Frosty-Palantir-and-Wendys-Partner-on-AI-and-Supply-Chain-Digitalization)
+- [Palantir Technologies Inc. major customers clients](https://financhill.com/blog/investing/who-are-palantir-biggest-customers)
+- [Palantir Technologies Inc. major customers clients](https://data.landbase.com/technology/palantir/)
 
 ## 元数据
 
-- **更新日期**: 2026-06-30
+- **更新日期**: 2026-07-01

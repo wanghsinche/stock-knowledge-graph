@@ -5,39 +5,66 @@
   "industry": "Consumer Electronics",
   "upstream": [
     "TSM",
-    "Foxconn",
     "005930.KS",
-    "LG Display",
+    "Foxconn (contract manufacturing)",
+    "LG Display (OLED/LED panels)",
     "SONY"
   ],
   "downstream": [
-    "iPhone users",
-    "iPad users",
-    "MacBook users",
     "AAPL",
-    "AAPL"
+    "Best Buy (authorized reseller)",
+    "AMZN",
+    "Walmart (retail partner)",
+    "Verizon (carrier for iPhone)"
   ],
   "competitors": [
     "005930.KS",
     "GOOGL",
     "MSFT",
     "SONY",
-    "Xiaomi"
+    "Huawei Technologies"
   ],
   "key_products": [
     "iPhone",
     "iPad",
-    "MacBook",
+    "Mac",
     "Apple Watch",
-    "AirPods"
+    "Apple TV",
+    "iCloud",
+    "Apple Music",
+    "App Store"
   ],
-  "extracted_at": "2026-06-30 17:52:02",
+  "extracted_at": "2026-07-01 17:51:27",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Apple_Inc.",
       "title": "Apple Inc.",
       "snippet": "Apple Inc. is an American multinational technology company headquartered in Cupertino, California, in Silicon Valley, and known for consumer electronics, software and online services. Founded in 1976 "
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/List_of_Apple_Inc._suppliers",
+      "query": "Apple Inc. suppliers manufacturers",
+      "snippet": "Apple released a list of its major suppliers for the first time in 2012. [13][14][15] The list has generally been released in yearly intervals since. "
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.investopedia.com/articles/investing/090315/10-major-companies-tied-apple-supply-chain.asp",
+      "query": "Apple Inc. suppliers manufacturers",
+      "snippet": "Apr 17, 2026 · Discover Apple 's top suppliers and how they enhance product performance and innovation. Learn about Apple 's efficient supply chain an"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.apple.com/",
+      "query": "Apple Inc. major customers clients",
+      "snippet": "Discover the innovative world of Apple and shop everything iPhone, iPad, Apple Watch, Mac, and Apple TV, plus explore accessories, entertainment, and "
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://247wallst.com/special-report/2012/04/30/american-companies-with-the-most-customers/",
+      "query": "Apple Inc. major customers clients",
+      "snippet": "2. iTunes > Customers : 225 million > Industry: e-commerce > Parent company: Apple Inc . > Major competitors: Amazon.com (NASDAQ: AMZN), eBay (NASDAQ:"
     }
   ]
 }

@@ -4,40 +4,64 @@
   "sector": "Communication Services",
   "industry": "Internet Content & Information",
   "upstream": [
-    "NVDA",
-    "AMD",
-    "INTC",
-    "MU",
-    "005930.KS"
+    "AI hardware manufacturers",
+    "Cloud infrastructure providers",
+    "Data center operators",
+    "Software platform vendors",
+    "Machine learning framework developers"
   ],
   "downstream": [
-    "GOOGL",
-    "MSFT",
-    "AMZN",
-    "IBM",
-    "ORCL"
+    "Large enterprises",
+    "Tech companies",
+    "Financial institutions",
+    "Healthcare providers",
+    "Retail companies"
   ],
   "competitors": [
+    "OpenAI",
+    "DeepMind",
     "NVDA",
-    "AMD",
-    "INTC",
-    "GOOGL",
+    "IBM",
     "MSFT"
   ],
   "key_products": [
-    "Nebius AI Platform",
-    "Nebius AI Infrastructure",
-    "Nebius Cloud AI Services",
-    "Nebius AI Solutions",
-    "Nebius AI Edge Services"
+    "Nebius AI infrastructure platform",
+    "Avride",
+    "TripleTen",
+    "Toloka",
+    "Clickhouse"
   ],
-  "extracted_at": "2026-06-30 17:59:33",
+  "extracted_at": "2026-07-01 17:52:23",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/NBIS",
       "title": "Nebius Group",
       "snippet": "Nebius Group N.V., headquartered in Amsterdam, is a technology company that provides artificial intelligence infrastructure. The company also owns Avride and TripleTen, as well as stakes in Toloka and"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/Nebius_Group",
+      "query": "NBIS suppliers manufacturers",
+      "snippet": "Nebius Group N.V., headquartered in Amsterdam, is a technology company [3] that provides artificial intelligence infrastructure. [4] The company also "
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/NBIS-Suppliers",
+      "query": "NBIS suppliers manufacturers",
+      "snippet": "Jun 23, 2026 · Sources: Nebius Group n v 's official press releases and regulatory filings; CSIMarket.com's supply -chain research; and the financial "
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/Nebius_Group",
+      "query": "NBIS major customers clients",
+      "snippet": "Nebius Group N.V., headquartered in Amsterdam, is a technology company [3] that provides artificial intelligence infrastructure. [4] The company also "
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/NBIS-Customers",
+      "query": "NBIS major customers clients",
+      "snippet": "2 days ago · Nebius Group N V customers and markets, results by customer and performance relative to NBIS , by company and industry - CSIMarket"
     }
   ]
 }

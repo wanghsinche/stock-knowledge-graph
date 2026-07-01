@@ -1,43 +1,67 @@
 {
   "ticker": "AVGO",
   "company_name": "Broadcom Inc.",
-  "sector": "Technology",
-  "industry": "Semiconductors",
+  "sector": "Technology / Semiconductors",
+  "industry": "Semiconductor",
   "upstream": [
     "TSM",
     "005930.KS",
     "GlobalFoundries",
-    "MU",
-    "INTC"
+    "INTC",
+    "MU"
   ],
   "downstream": [
+    "AAPL",
     "CSCO",
     "DELL",
-    "MSFT",
     "AMZN",
-    "AAPL"
+    "MSFT"
   ],
   "competitors": [
     "QCOM",
     "INTC",
     "NVDA",
     "TXN",
-    "MRVL"
+    "MediaTek"
   ],
   "key_products": [
-    "Broadcom 7000 Ethernet ASIC",
-    "Broadcom 4000 Wi‑Fi/Bluetooth",
-    "Broadcom 5G Modems",
-    "Broadcom Storage Controllers",
-    "Broadcom Broadband Modems"
+    "Wi‑Fi chips",
+    "Ethernet controllers",
+    "Broadband modems",
+    "RF components",
+    "Storage controllers"
   ],
-  "extracted_at": "2026-06-30 17:55:39",
+  "extracted_at": "2026-07-01 17:55:22",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Broadcom_Inc.",
       "title": "Broadcom",
       "snippet": "Broadcom Inc. is an American multinational designer, developer, manufacturer, and global supplier of a wide range of semiconductor and infrastructure software products. Broadcom's product offerings se"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/Broadcom",
+      "query": "Broadcom Inc. suppliers manufacturers",
+      "snippet": "Broadcom Inc . is an American multinational designer, developer, manufacturer , and global supplier of a wide range of semiconductor and infrastructur"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.broadcom.com/how-to-buy/partner-distributor-lookup",
+      "query": "Broadcom Inc. suppliers manufacturers",
+      "snippet": "Find a local reseller or global distributor of every Broadcom software solution for your business or enterprise, spanning the desktop to the Mainframe"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://news.broadcom.com/category/customers",
+      "query": "Broadcom Inc. major customers clients",
+      "snippet": "May 19, 2026 · USSFCU: Powering Financial Wellness with Broadcom ’s Private Cloud and Private AI Broadcom Customer Achievement Awards recognize and ce"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/AVGO-Customers",
+      "query": "Broadcom Inc. major customers clients",
+      "snippet": "2 days ago · Broadcom Inc 's Comment on Sales, Marketing and Customers We sell our products to leading wired and wireless communications manufacturers"
     }
   ]
 }

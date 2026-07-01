@@ -3,8 +3,8 @@ ticker: WMT
 company: Walmart Inc.
 sector: Consumer Defensive
 industry: Discount Stores
-extracted_at: 2026-06-19 18:02:06
-last_updated: 2026-06-19
+extracted_at: 2026-07-01 17:57:45
+last_updated: 2026-07-01
 ---
 
 # WMT - Walmart Inc.
@@ -12,46 +12,47 @@ last_updated: 2026-06-19
 ## 基本信息
 
 - **所属行业**: Consumer Defensive / Discount Stores
-- **提取时间**: 2026-06-19 18:02:06
+- **提取时间**: 2026-07-01 17:57:45
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Food manufacturers (e.g., Nestlé, Kraft)]]
-- [[Apparel manufacturers (e.g., Nike, Adidas)]]
-- [[AAPL]]
-- [[Pharmaceutical suppliers (e.g., Pfizer, Johnson & Johnson)]]
-- [[Fuel suppliers (e.g., Chevron, Exxon Mobil)]]
+- [[Procter & Gamble]]
+- [[Coca‑Cola]]
+- [[PepsiCo]]
+- [[Nestlé]]
+- [[Walmart Private‑Label Suppliers]]
 
 ### 下游客户
 - [[Individual consumers]]
-- [[Online shoppers]]
-- [[Sam's Club members]]
 - [[Small businesses]]
-- [[Corporate clients]]
+- [[Online shoppers]]
+- [[Local grocery customers]]
+- [[Pharmacy customers]]
 
 ### 竞争对手
 - [[Target]]
 - [[Costco]]
-- [[Dollar General]]
-- [[Aldi]]
+- [[AMZN]]
 - [[BJ's Wholesale Club]]
+- [[Dollar General]]
 
 ### 核心产品
 - [[Groceries]]
 - [[Apparel]]
 - [[Electronics]]
+- [[Household goods]]
 - [[Pharmacy products]]
-- [[Gasoline]]
+- [[Fuel/gasoline]]
 
 ## 数据来源
 
 - [Walmart](https://en.wikipedia.org/wiki/Walmart_Inc.)
-- [Walmart Inc. suppliers manufacturers](https://csimarket.com/stocks/suppliers_glance.php?code=WMT)
-- [Walmart Inc. suppliers manufacturers](https://www.shipbob.com/blog/walmart-supply-chain/)
-- [Walmart Inc. major customers clients](https://www.walmart.com/)
-- [Walmart Inc. major customers clients](https://www.linkedin.com/company/walmart)
+- [Walmart Inc. suppliers manufacturers](https://corporate.walmart.com/suppliers)
+- [Walmart Inc. suppliers manufacturers](https://corporate.walmart.com/suppliers/requirements)
+- [Walmart Inc. major customers clients](https://capitaloneshopping.com/research/walmart-statistics/)
+- [Walmart Inc. major customers clients](https://businessmodelanalyst.com/walmart-target-market/)
 
 ## 元数据
 
-- **更新日期**: 2026-06-19
+- **更新日期**: 2026-07-01

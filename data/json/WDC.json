@@ -2,42 +2,66 @@
   "ticker": "WDC",
   "company_name": "Western Digital Corporation",
   "sector": "Technology",
-  "industry": "Data Storage",
+  "industry": "Computer Hardware",
   "upstream": [
-    "Silicon wafer suppliers",
-    "Magnetic media manufacturers",
-    "Electronic component suppliers",
-    "Firmware development partners",
-    "Supply chain logistics providers"
+    "MU",
+    "Printed circuit board (PCB) suppliers",
+    "Electronics component suppliers (capacitors, resistors, connectors)",
+    "Magnetic media suppliers (rare earth magnets, ferrite)",
+    "Precision machining and assembly equipment suppliers"
   ],
   "downstream": [
     "DELL",
-    "Enterprise storage customers",
-    "Cloud service providers",
-    "Consumer electronics manufacturers",
-    "Retailers"
+    "DELL",
+    "MSFT",
+    "SONY",
+    "Enterprise IT and data center operators"
   ],
   "competitors": [
     "STX",
-    "Toshiba",
+    "Toshiba Storage Solutions",
     "005930.KS",
-    "MU",
-    "INTC"
+    "SK Hynix (SSD segment)",
+    "MU"
   ],
   "key_products": [
-    "Hard Disk Drives",
-    "Solid State Drives",
-    "External Storage Devices",
-    "Enterprise Storage Solutions",
-    "Cloud Storage Appliances"
+    "Internal hard disk drives (HDDs)",
+    "Solid-state drives (SSDs)",
+    "External portable storage devices",
+    "Enterprise storage solutions (e.g., Ultrastar, PowerVault)",
+    "Data center infrastructure and software"
   ],
-  "extracted_at": "2026-06-30 17:57:42",
+  "extracted_at": "2026-07-01 17:57:30",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Western_Digital_Corporation",
       "title": "Western Digital",
       "snippet": "Western Digital Corporation, doing business as WD, is an American data storage company headquartered in San Jose, California. Established in 1970, the company is one of the world's largest manufacture"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/Western_Digital",
+      "query": "Western Digital Corporation suppliers manufacturers",
+      "snippet": "Western Digital Corporation , doing business as WD, is an American data storage company headquartered in San Jose , California . Established in 1970, "
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.westerndigital.com/company/distributors",
+      "query": "Western Digital Corporation suppliers manufacturers",
+      "snippet": "Find Distributors & Resellers Purchase from your preferred Western Digital authorized partner Region Country/Area Brand"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.mycloud.com/",
+      "query": "Western Digital Corporation major customers clients",
+      "snippet": "© 2020 Western Digital Corporation или аффилированные лица."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://qz.com/will-next-gen-hamr-epmr-drives-give-western-digital-a-storage-edge",
+      "query": "Western Digital Corporation major customers clients",
+      "snippet": "Currently, Western Digital sports a Zacks Rank #1 (Strong Buy). You can see the complete list of today’s Zacks #1 Rank stocks here. Zacks' Research Ch"
     }
   ]
 }

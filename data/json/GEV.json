@@ -4,40 +4,64 @@
   "sector": "Industrials",
   "industry": "Specialty Industrial Machinery",
   "upstream": [
-    "META",
-    "Electronic component manufacturers",
-    "Industrial equipment parts suppliers",
-    "Chemical suppliers",
-    "Engineering services firms"
+    "Siemens Energy",
+    "Mitsubishi Hitachi Power Systems",
+    "Alstom",
+    "ABB",
+    "GE Power"
   ],
   "downstream": [
-    "Airlines and aviation operators",
-    "Power generation utilities",
-    "Industrial manufacturing plants",
-    "Oil & gas companies",
-    "Municipal infrastructure providers"
+    "Utilities (e.g., Duke Energy, Southern Company)",
+    "Oil & Gas (e.g., ExxonMobil, Shell)",
+    "Petrochemical (e.g., SABIC)",
+    "Mining (e.g., Rio Tinto)",
+    "Power Plant Operators"
   ],
   "competitors": [
-    "Siemens AG",
-    "Honeywell International",
-    "ABB Ltd",
-    "Rockwell Automation",
-    "Emerson Electric Co"
+    "Siemens Energy",
+    "Mitsubishi Hitachi Power Systems",
+    "Alstom",
+    "ABB",
+    "GE Renewable Energy"
   ],
   "key_products": [
-    "Industrial gas turbines",
+    "Gas turbines (H-class)",
     "Steam turbines",
     "Generators",
-    "Industrial automation systems",
-    "Industrial software solutions"
+    "Power plant services",
+    "Turbine blades & components"
   ],
-  "extracted_at": "2026-06-30 18:06:13",
+  "extracted_at": "2026-07-01 18:02:32",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "",
       "title": "",
       "snippet": ""
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/GE_Vernova",
+      "query": "GE Vernova Inc. suppliers manufacturers",
+      "snippet": "GE Vernova , Inc . is an energy equipment manufacturing and services company headquartered in Cambridge, Massachusetts."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.gevernova.com/",
+      "query": "GE Vernova Inc. suppliers manufacturers",
+      "snippet": "GE Vernova is accelerating the path to more reliable, affordable, and sustainable energy through our innovative portfolio of electrification and decar"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/GE_Vernova",
+      "query": "GE Vernova Inc. major customers clients",
+      "snippet": "GE Vernova , Inc . is an energy equipment manufacturing and services company headquartered in Cambridge, Massachusetts."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.gevernova.com/",
+      "query": "GE Vernova Inc. major customers clients",
+      "snippet": "GE Vernova is accelerating the path to more reliable, affordable, and sustainable energy through our innovative portfolio of electrification and decar"
     }
   ]
 }

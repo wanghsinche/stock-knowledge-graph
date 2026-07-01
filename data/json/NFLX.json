@@ -1,21 +1,21 @@
 {
   "ticker": "NFLX",
   "company_name": "Netflix, Inc.",
-  "sector": "Communication Services",
-  "industry": "Entertainment",
+  "sector": "Communication Services / Entertainment",
+  "industry": "Streaming Media",
   "upstream": [
-    "Content production studios",
-    "Film and television studios",
-    "Independent filmmakers",
-    "Production companies",
-    "Music and licensing agencies"
+    "Warner Bros. Discovery",
+    "Disney Studios",
+    "SONY",
+    "AMZN",
+    "MSFT"
   ],
   "downstream": [
-    "Individual subscribers",
-    "Households",
-    "Corporate streaming bundles",
-    "Smart TV platforms",
-    "Mobile device users"
+    "Individual subscribers worldwide",
+    "Household users",
+    "Corporate accounts",
+    "Smart TV users",
+    "Streaming device users"
   ],
   "competitors": [
     "Disney+",
@@ -27,17 +27,41 @@
   "key_products": [
     "Netflix streaming service",
     "Netflix Originals",
-    "Licensed movies and TV shows",
     "Mobile app",
+    "Web app",
     "Smart TV app"
   ],
-  "extracted_at": "2026-06-30 18:14:37",
+  "extracted_at": "2026-07-01 18:00:51",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Netflix,_Inc.",
       "title": "Netflix, Inc.",
       "snippet": "Netflix, Inc. is an American media company founded on August 29, 1997, by Reed Hastings and Marc Randolph in Scotts Valley, California, and currently based in Los Gatos, California, with production of"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/NFLX-Suppliers",
+      "query": "Netflix, Inc. suppliers manufacturers",
+      "snippet": "Netflix Inc supply chain, list and performance of Netflix Incs ' suppliers - CSIMarket."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.stock-analysis-on.net/NASDAQ/Company/Netflix-Inc",
+      "query": "Netflix, Inc. suppliers manufacturers",
+      "snippet": "Netflix financial ratios grouped by activity, liquidity, solvency, and profitability.Analysis of Solvency Ratios. Examines Netflix Inc . capital struc"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.marketresearch.com/GlobalData-v3648/Netflix-NFLX-Financial-Strategic-SWOT-36870770/",
+      "query": "Netflix, Inc. major customers clients",
+      "snippet": "Netflix Inc ( Netflix ) is a provider of entertainment services. The company offers TV shows and movies such as original series, documentaries, anime,"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://about.netflix.com/en",
+      "query": "Netflix, Inc. major customers clients",
+      "snippet": "We are here to entertain the world, one fan at a time. Thrilling everyone again and again. Whatever you’re into, whatever your mood, Netflix delivers "
     }
   ]
 }

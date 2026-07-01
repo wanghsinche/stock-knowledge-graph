@@ -1,57 +1,59 @@
 ---
 ticker: V
 company: Visa Inc.
-sector: Financial Services
-industry: Credit Services
-extracted_at: 2026-06-29 18:25:35
-last_updated: 2026-06-29
+sector: Financial Services / Credit Services
+industry: Payment Services
+extracted_at: 2026-07-01 18:02:10
+last_updated: 2026-07-01
 ---
 
 # V - Visa Inc.
 
 ## 基本信息
 
-- **所属行业**: Financial Services / Credit Services
-- **提取时间**: 2026-06-29 18:25:35
+- **所属行业**: Financial Services / Credit Services / Payment Services
+- **提取时间**: 2026-07-01 18:02:10
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Card manufacturers]]
-- [[Technology infrastructure providers]]
-- [[Payment processors]]
-- [[Banking partners]]
-- [[Regulatory bodies]]
+- [[Chip manufacturers (e.g., NXP, STMicroelectronics)]]
+- [[Card production vendors (e.g., Plastic Card Solutions)]]
+- [[CSCO]]
+- [[Payment network equipment suppliers]]
+- [[Security and encryption solution providers]]
 
 ### 下游客户
-- [[Banks and card issuers]]
-- [[Merchants and retailers]]
-- [[E-commerce platforms]]
-- [[Consumers]]
-- [[Financial institutions]]
+- [[Commercial banks and credit unions]]
+- [[Retail merchants and e‑commerce platforms]]
+- [[Financial institutions issuing Visa‑branded cards]]
+- [[Consumers using Visa cards for purchases]]
+- [[Payment processors and acquirers]]
 
 ### 竞争对手
 - [[Mastercard]]
 - [[American Express]]
-- [[Discover]]
+- [[Discover Financial]]
 - [[PayPal]]
-- [[Adyen]]
+- [[Square (Block, Inc.)]]
 
 ### 核心产品
 - [[Visa Credit Card]]
 - [[Visa Debit Card]]
 - [[Visa Prepaid Card]]
-- [[Visa Payment Network]]
-- [[Visa Direct]]
+- [[VisaNet payment network]]
+- [[Visa Direct real‑time payments]]
+- [[Visa Token Service]]
+- [[Visa Checkout]]
 
 ## 数据来源
 
 - [Visa Inc.](https://en.wikipedia.org/wiki/Visa_Inc.)
-- [Visa Inc. major customers clients](https://en.wikipedia.org/wiki/Visa_Inc.)
-- [Visa Inc. major customers clients](https://www.britannica.com/money/Visa-Inc)
-- [Visa Inc. competitors alternatives](https://pitchgrade.com/companies/visa)
-- [Visa Inc. competitors alternatives](https://rocketreach.co/visa-inc-competitors_b7ce23efc15adcce)
+- [Visa Inc. suppliers manufacturers](https://csimarket.com/stocks/V-Suppliers)
+- [Visa Inc. suppliers manufacturers](https://www.britannica.com/money/Visa-Inc)
+- [Visa Inc. major customers clients](https://csimarket.com/stocks/V-Customers)
+- [Visa Inc. major customers clients](https://s29.q4cdn.com/385744025/files/doc_downloads/2025/Visa-Fiscal-2025-Annual-Report.pdf)
 
 ## 元数据
 
-- **更新日期**: 2026-06-29
+- **更新日期**: 2026-07-01

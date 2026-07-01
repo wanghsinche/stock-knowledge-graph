@@ -4,40 +4,64 @@
   "sector": "Technology",
   "industry": "Computer Hardware",
   "upstream": [
-    "Silicon wafer suppliers",
-    "META",
-    "Electronic component manufacturers",
-    "Thermal management materials",
-    "Packaging suppliers"
+    "MU",
+    "005930.KS",
+    "Toshiba",
+    "WDC",
+    "INTC"
   ],
   "downstream": [
     "DELL",
     "HPQ",
     "Lenovo Group",
-    "AMZN",
+    "AAPL",
     "MSFT"
   ],
   "competitors": [
     "WDC",
-    "Toshiba",
     "005930.KS",
-    "IBM",
-    "MU"
+    "Toshiba",
+    "MU",
+    "IBM"
   ],
   "key_products": [
-    "Enterprise HDDs",
-    "Consumer HDDs",
-    "SSD solutions",
-    "Data center storage arrays",
-    "Cloud storage services"
+    "Hard Disk Drives",
+    "Solid State Drives",
+    "Enterprise Storage Solutions",
+    "Hybrid Drives",
+    "Data Center Storage"
   ],
-  "extracted_at": "2026-06-30 18:04:22",
+  "extracted_at": "2026-07-01 17:59:43",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "",
       "title": "",
       "snippet": ""
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "http://www.seagate.com/",
+      "query": "Seagate Technology Holdings plc suppliers manufacturers",
+      "snippet": "Seagate Technology Holdings Plc ."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.linkedin.com/company/seagate-technology",
+      "query": "Seagate Technology Holdings plc suppliers manufacturers",
+      "snippet": "Seagate Technology . Computer Hardware Manufacturing . Fremont, CA 301,869 followers. Unleash your data’s value with storage that keeps AI running 24/"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.seagate.com/",
+      "query": "Seagate Technology Holdings plc major customers clients",
+      "snippet": "Seagate Technology Holdings PLC ."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.insidermonkey.com/blog/morgan-stanley-calls-seagate-technology-holdings-stx-a-top-pick-1756185/",
+      "query": "Seagate Technology Holdings plc major customers clients",
+      "snippet": "Seagate Technology Holdings Plc (NASDAQ:STX) is a holding company that develops, produces, and distributes data storage products and electronic data s"
     }
   ]
 }

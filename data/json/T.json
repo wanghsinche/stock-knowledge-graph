@@ -4,40 +4,64 @@
   "sector": "Communication Services",
   "industry": "Telecom Services",
   "upstream": [
-    "Nokia",
-    "Ericsson",
-    "Huawei",
     "CSCO",
+    "Ericsson",
+    "Nokia",
+    "Huawei",
     "005930.KS"
   ],
   "downstream": [
-    "U.S. consumers",
-    "Small and medium businesses",
-    "Large enterprises",
+    "Enterprise customers",
+    "Small businesses",
+    "Consumers",
     "Government agencies",
-    "Telecom resellers"
+    "Mobile subscribers"
   ],
   "competitors": [
     "CAT",
     "T-Mobile US",
     "Comcast",
     "CAT",
-    "Vodafone"
+    "Dish Network"
   ],
   "key_products": [
-    "Wireless voice and data services",
-    "Fiber‑optic broadband (AT&T Fiber)",
-    "DirectTV satellite television",
-    "AT&T Business Cloud & Enterprise services",
-    "AT&T Mobility mobile devices"
+    "Wireless services",
+    "Fiber broadband",
+    "Voice services",
+    "Data services",
+    "Cloud services"
   ],
-  "extracted_at": "2026-06-30 18:14:00",
+  "extracted_at": "2026-07-01 18:06:14",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/AT&T_Inc.",
       "title": "AT&T",
       "snippet": "AT&T Inc., an abbreviation of its predecessor's original name, the American Telephone and Telegraph Company, is an American multinational telecommunications company headquartered at the Whitacre Tower"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://about.att.com/sites/supplier_inclusivity/vendor",
+      "query": "AT&T Inc. suppliers manufacturers",
+      "snippet": "Over the years, AT&T Supplier Inclusivity has engaged suppliers to help with the evolution and success of our Global Supply Chain. We connect with cer"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.accio.com/supplier/att-manufacturer",
+      "query": "AT&T Inc. suppliers manufacturers",
+      "snippet": "Looking for verified AT&T manufacturers ? Discover suppliers of IoT modules, mobile hotspots, and networking solutions for telecom projects. Ideal for"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://investors.att.com/~/media/Files/A/ATT-IR-V2/financial-reports/annual-reports/2025/2025-annual-report-complete.pdf",
+      "query": "AT&T Inc. major customers clients",
+      "snippet": "Business Wireline – Our Business Wireline business unit provides services to business customers , including multinational corporations, small and mid-"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://expandedramblings.com/index.php/att-statistics/",
+      "query": "AT&T Inc. major customers clients",
+      "snippet": "Feb 24, 2026 · Updated AT&T stats for 2026: 2025 revenue, net income, free cash flow, wireless subscriber totals, postpaid phone net adds, fiber custo"
     }
   ]
 }
