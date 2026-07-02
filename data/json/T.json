@@ -4,34 +4,34 @@
   "sector": "Communication Services",
   "industry": "Telecom Services",
   "upstream": [
-    "CSCO",
     "Ericsson",
     "Nokia",
-    "Huawei",
-    "005930.KS"
+    "CSCO",
+    "JNPR",
+    "Huawei"
   ],
   "downstream": [
-    "Enterprise customers",
-    "Small businesses",
     "Consumers",
+    "Enterprise customers",
     "Government agencies",
-    "Mobile subscribers"
+    "CAT",
+    "Media companies"
   ],
   "competitors": [
     "CAT",
     "T-Mobile US",
     "Comcast",
     "CAT",
-    "Dish Network"
+    "Lumen Technologies"
   ],
   "key_products": [
     "Wireless services",
-    "Fiber broadband",
-    "Voice services",
-    "Data services",
+    "Broadband internet",
+    "Pay TV",
+    "Enterprise networking solutions",
     "Cloud services"
   ],
-  "extracted_at": "2026-07-01 18:06:14",
+  "extracted_at": "2026-07-02 17:39:27",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://about.att.com/sites/supplier_inclusivity/vendor",
-      "query": "AT&T Inc. suppliers manufacturers",
-      "snippet": "Over the years, AT&T Supplier Inclusivity has engaged suppliers to help with the evolution and success of our Global Supply Chain. We connect with cer"
-    },
-    {
-      "source": "DuckDuckGo",
       "url": "https://www.accio.com/supplier/att-manufacturer",
       "query": "AT&T Inc. suppliers manufacturers",
-      "snippet": "Looking for verified AT&T manufacturers ? Discover suppliers of IoT modules, mobile hotspots, and networking solutions for telecom projects. Ideal for"
+      "snippet": "1 day ago · Looking for verified AT&T manufacturers ? Discover suppliers of IoT modules, mobile hotspots, and networking solutions for telecom project"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://investors.att.com/~/media/Files/A/ATT-IR-V2/financial-reports/annual-reports/2025/2025-annual-report-complete.pdf",
-      "query": "AT&T Inc. major customers clients",
-      "snippet": "Business Wireline – Our Business Wireline business unit provides services to business customers , including multinational corporations, small and mid-"
+      "url": "https://www.accio.com/supplier/att-supplier-list",
+      "query": "AT&T Inc. suppliers manufacturers",
+      "snippet": "Jun 24, 2026 · Need AT&T suppliers ? Discover certified vendors offering routers, hotspots, and modules. Compare products and connect directly. Click "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://expandedramblings.com/index.php/att-statistics/",
+      "url": "https://finance.yahoo.com/quote/T/",
       "query": "AT&T Inc. major customers clients",
-      "snippet": "Feb 24, 2026 · Updated AT&T stats for 2026: 2025 revenue, net income, free cash flow, wireless subscriber totals, postpaid phone net adds, fiber custo"
+      "snippet": "Find the latest AT & T Inc . ( T ) stock quote, history, news and other vital information to help you with your stock trading and investing."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.nasdaq.com/market-activity/stocks/t",
+      "query": "AT&T Inc. major customers clients",
+      "snippet": "Discover real-time AT & T Inc . ( T ) stock prices, quotes, historical data, news, and Insights for informed trading and investment decisions. Stay ah"
     }
   ]
 }

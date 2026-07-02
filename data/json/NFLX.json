@@ -1,21 +1,21 @@
 {
   "ticker": "NFLX",
   "company_name": "Netflix, Inc.",
-  "sector": "Communication Services / Entertainment",
-  "industry": "Streaming Media",
+  "sector": "Communication Services",
+  "industry": "Entertainment",
   "upstream": [
-    "Warner Bros. Discovery",
-    "Disney Studios",
-    "SONY",
-    "AMZN",
-    "MSFT"
+    "Content production studios (e.g., Warner Bros., Disney)",
+    "MSFT",
+    "005930.KS",
+    "GOOGL",
+    "Marketing and advertising agencies"
   ],
   "downstream": [
-    "Individual subscribers worldwide",
-    "Household users",
-    "Corporate accounts",
-    "Smart TV users",
-    "Streaming device users"
+    "Household subscribers",
+    "Corporate enterprise accounts",
+    "AAPL",
+    "005930.KS",
+    "Mobile app users"
   ],
   "competitors": [
     "Disney+",
@@ -25,13 +25,13 @@
     "AAPL"
   ],
   "key_products": [
-    "Netflix streaming service",
-    "Netflix Originals",
-    "Mobile app",
-    "Web app",
-    "Smart TV app"
+    "Over-the-top streaming service",
+    "Original programming (e.g., Stranger Things)",
+    "Licensed third‑party content",
+    "Mobile and web applications",
+    "Personalized recommendation algorithms"
   ],
-  "extracted_at": "2026-07-01 18:00:51",
+  "extracted_at": "2026-07-02 17:36:39",
   "sources": [
     {
       "source": "Wikipedia",
@@ -53,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.marketresearch.com/GlobalData-v3648/Netflix-NFLX-Financial-Strategic-SWOT-36870770/",
+      "url": "https://csimarket.com/stocks/NFLX-Customers",
       "query": "Netflix, Inc. major customers clients",
-      "snippet": "Netflix Inc ( Netflix ) is a provider of entertainment services. The company offers TV shows and movies such as original series, documentaries, anime,"
+      "snippet": "Updated on: Focus of this report: Netflix Inc ’ s corporate clients . For your research, we’ve provided 9 tables on Netflix Inc corporate clients . Yo"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://about.netflix.com/en",
+      "url": "https://ir.netflix.net/ir-overview/profile/default.aspx",
       "query": "Netflix, Inc. major customers clients",
-      "snippet": "We are here to entertain the world, one fan at a time. Thrilling everyone again and again. Whatever you’re into, whatever your mood, Netflix delivers "
+      "snippet": "Jun 4, 2026 · Netflix is one of the world’s leading entertainment services offering TV series, films, games and live programming across a wide variety"
     }
   ]
 }

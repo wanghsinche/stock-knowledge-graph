@@ -1,37 +1,37 @@
 {
   "ticker": "HOOD",
   "company_name": "Robinhood Markets, Inc.",
-  "sector": "Financial Services / Capital Markets",
-  "industry": "Online Brokerage / Investment Services",
+  "sector": "Financial Services",
+  "industry": "Capital Markets",
   "upstream": [
-    "AMZN",
-    "Bloomberg (financial data)",
-    "Stripe (payment processing)",
-    "PayPal (payment processing)",
-    "Refinitiv (market data)"
+    "GOOGL",
+    "Market data vendors (e.g., Bloomberg, Refinitiv)",
+    "Payment processors (e.g., Stripe, PayPal)",
+    "Regulatory compliance services",
+    "Cybersecurity vendors"
   ],
   "downstream": [
     "Retail investors",
-    "Small business owners",
-    "High‑frequency traders (via Robinhood Gold)",
-    "Cryptocurrency traders",
-    "Options traders"
+    "High-net-worth individuals",
+    "Institutional clients",
+    "Financial advisors",
+    "Third‑party app developers"
   ],
   "competitors": [
-    "Webull",
-    "eToro",
     "Charles Schwab",
-    "Fidelity",
-    "Interactive Brokers"
+    "Fidelity Investments",
+    "TD Ameritrade",
+    "E*TRADE",
+    "Webull"
   ],
   "key_products": [
-    "Commission‑free stock trading app",
-    "Robinhood Gold (margin & premium research)",
+    "Commission‑free stock trading",
+    "Options trading",
     "Cryptocurrency trading",
-    "Options trading platform",
-    "Cash management & interest‑earning accounts"
+    "Margin trading",
+    "Robinhood Gold subscription"
   ],
-  "extracted_at": "2026-07-01 18:01:40",
+  "extracted_at": "2026-07-02 17:33:25",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,19 +43,19 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Robinhood_Markets",
       "query": "Robinhood Markets, Inc. suppliers manufacturers",
-      "snippet": "Robinhood Markets , Inc . Robinhood Markets , Inc . is an American financial services company based in Menlo Park, California."
+      "snippet": "Robinhood Markets, Inc. is an American financial services company based in Menlo Park, California. It provides an electronic trading platform that fac"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://robinhood.com/",
+      "url": "https://robinhood.com/us/en/",
       "query": "Robinhood Markets, Inc. suppliers manufacturers",
       "snippet": "Trade stocks on Robinhood with commission-free investing & advanced trading tools. Access fractional shares, real-time market data, and more."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.investing.com/equities/robinhood-markets",
+      "url": "https://robinhood.com/",
       "query": "Robinhood Markets, Inc. major customers clients",
-      "snippet": "- Robinhood Markets , Inc . (NASDAQ: HOOD ) announced today the closing of its private offering of $2.2 billion...Investing.com -- In a note to client"
+      "snippet": "Trade stocks on Robinhood with commission-free investing & advanced trading tools. Access fractional shares, real-time market data, and more."
     },
     {
       "source": "DuckDuckGo",

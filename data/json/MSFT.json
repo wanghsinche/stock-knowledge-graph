@@ -4,16 +4,18 @@
   "sector": "Technology",
   "industry": "Software - Infrastructure",
   "upstream": [
-    "MONOLITHIC POWER SYSTEMS, INC.",
-    "MURATA MANUFACTURING CO., LTD.",
-    "NEWMAX TECHNOLOGY"
+    "INTC",
+    "AMD",
+    "NVDA",
+    "DELL",
+    "HPQ"
   ],
   "downstream": [
-    "AMZN",
-    "GOOGL",
-    "IBM",
-    "ORCL",
-    "Fortune 500 enterprises"
+    "Enterprises (e.g., banks, healthcare)",
+    "Government agencies",
+    "DELL",
+    "Consumers (individuals)",
+    "Cloud customers (e.g., Walmart, Coca‑Cola)"
   ],
   "competitors": [
     "AAPL",
@@ -24,12 +26,12 @@
   ],
   "key_products": [
     "Windows operating system",
-    "Microsoft Office suite",
-    "Azure cloud platform",
-    "Surface devices",
-    "Xbox gaming console"
+    "Microsoft Office",
+    "Microsoft Azure",
+    "Microsoft Teams",
+    "Xbox"
   ],
-  "extracted_at": "2026-07-01 17:48:24",
+  "extracted_at": "2026-07-02 17:30:37",
   "sources": [
     {
       "source": "Wikipedia",
@@ -39,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/MSFT-Suppliers",
+      "url": "https://en.wikipedia.org/wiki/Microsoft",
       "query": "Microsoft Corporation suppliers manufacturers",
-      "snippet": "Jun 22, 2026 · Microsoft's Comment on Supply Chain We develop most of our products and services internally through four primary engineering groups. Ap"
+      "snippet": "Microsoft Corporation is an American multinational technology company headquartered in Redmond, Washington."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://download.microsoft.com/download/F/3/8/F38AF681-EB3A-4645-A9C4-D4F31B8BA8F2/Microsoft+Top+100+Production+Suppliers.pdf",
+      "url": "https://csimarket.com/stocks/suppliers_glance.php?code=MSFT",
       "query": "Microsoft Corporation suppliers manufacturers",
-      "snippet": "MONOLITHIC POWER SYSTEMS, INC. MURATA MANUFACTURING CO., LTD. NEWMAX TECHNOLOGY CO., LTD. NICHICON CORPORATION NIDEC CORPORATION NUVOTON TECHNOLOGY CO"
+      "snippet": "News about Microsoft Corporation Contracts. Microsoft 's Comment on Supply Chain. We develop most of our products and services internally through four"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/MSFT-Customers",
+      "url": "https://en.wikipedia.org/wiki/Microsoft",
       "query": "Microsoft Corporation major customers clients",
-      "snippet": "Microsoft's Comment on Sales, Marketing and Customers We distribute software through OEMs that pre-install our software on new PCs, tablets, servers, "
+      "snippet": "Microsoft Corporation is an American multinational technology company headquartered in Redmond, Washington."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.appsruntheworld.com/customers-database/vendors/view/microsoft",
+      "url": "https://businessaccount.microsoft.com/",
       "query": "Microsoft Corporation major customers clients",
-      "snippet": "List of companies using or evaluating Microsoft applications, with details on their revenues, employees, industries, and locations."
+      "snippet": "Business Center. Sign In. For customers ."
     }
   ]
 }

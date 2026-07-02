@@ -1,19 +1,19 @@
 {
   "ticker": "AVGO",
   "company_name": "Broadcom Inc.",
-  "sector": "Technology / Semiconductors",
-  "industry": "Semiconductor",
+  "sector": "Technology",
+  "industry": "Semiconductors",
   "upstream": [
     "TSM",
     "005930.KS",
     "GlobalFoundries",
-    "INTC",
-    "MU"
+    "UMC",
+    "ASE Technology Holding"
   ],
   "downstream": [
-    "AAPL",
     "CSCO",
     "DELL",
+    "HPQ",
     "AMZN",
     "MSFT"
   ],
@@ -21,17 +21,17 @@
     "QCOM",
     "INTC",
     "NVDA",
-    "TXN",
-    "MediaTek"
+    "MediaTek",
+    "TXN"
   ],
   "key_products": [
-    "Wi‑Fi chips",
+    "RF transceivers",
     "Ethernet controllers",
+    "Wi‑Fi chips",
     "Broadband modems",
-    "RF components",
     "Storage controllers"
   ],
-  "extracted_at": "2026-07-01 17:55:22",
+  "extracted_at": "2026-07-02 17:33:02",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,21 +47,21 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.broadcom.com/how-to-buy/partner-distributor-lookup",
+      "url": "https://csimarket.com/stocks/AVGO-Suppliers",
       "query": "Broadcom Inc. suppliers manufacturers",
-      "snippet": "Find a local reseller or global distributor of every Broadcom software solution for your business or enterprise, spanning the desktop to the Mainframe"
+      "snippet": "Jun 22, 2026 · Broadcom Inc supply chain, list and performance of Broadcom Incs ' suppliers - CSIMarket"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://news.broadcom.com/category/customers",
+      "url": "https://www.broadcom.com/",
       "query": "Broadcom Inc. major customers clients",
-      "snippet": "May 19, 2026 · USSFCU: Powering Financial Wellness with Broadcom ’s Private Cloud and Private AI Broadcom Customer Achievement Awards recognize and ce"
+      "snippet": "Broadcom delivers semiconductors and infrastructure software for global enterprises’ most complex, mission-critical needs."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/AVGO-Customers",
+      "url": "https://en.oninvest.com/article/broadcom-has-improved-its-ai-revenue-outlook-it-has-a-new-major-customer",
       "query": "Broadcom Inc. major customers clients",
-      "snippet": "2 days ago · Broadcom Inc 's Comment on Sales, Marketing and Customers We sell our products to leading wired and wireless communications manufacturers"
+      "snippet": "In Broadcom 's report, investors were looking for confirmation that technology spending is not declining. Last week, Nvidia - a major AI beneficiary a"
     }
   ]
 }

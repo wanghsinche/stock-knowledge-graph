@@ -1,37 +1,37 @@
 {
   "ticker": "AMZN",
   "company_name": "Amazon.com, Inc.",
-  "sector": "Consumer Cyclical",
+  "sector": "Consumer Discretionary",
   "industry": "Internet Retail",
   "upstream": [
-    "005930.KS",
     "AAPL",
-    "Nike, Inc.",
-    "SONY",
-    "DELL"
+    "005930.KS",
+    "Nike",
+    "Adidas",
+    "SONY"
   ],
   "downstream": [
     "AMZN",
-    "NFLX",
+    "AMZN",
     "AMZN",
     "AMZN",
     "AMZN"
   ],
   "competitors": [
-    "eBay Inc.",
     "Walmart Inc.",
+    "eBay Inc.",
     "Alibaba Group Holding Ltd.",
-    "Shopify Inc.",
-    "Target Corporation"
+    "Target Corp.",
+    "Shopify Inc."
   ],
   "key_products": [
-    "Amazon.com e‑commerce marketplace",
-    "Amazon Prime subscription service",
-    "Amazon Web Services (cloud computing)",
-    "Amazon Advertising platform",
-    "Amazon Devices (Echo, Kindle, Fire TV)"
+    "Amazon.com e-commerce platform",
+    "Amazon Web Services",
+    "Amazon Prime Video",
+    "Amazon Kindle",
+    "Amazon Echo (Alexa)"
   ],
-  "extracted_at": "2026-07-01 17:50:42",
+  "extracted_at": "2026-07-02 17:31:42",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://d39w7f4ix9f5s9.cloudfront.net/cb/19/77dfc5b441c892cd6e2be166ba70/final-amazon-supplier-list-2019-11-14-updated-1005am.pdf",
+      "url": "https://csimarket.com/stocks/AMZN-Suppliers",
       "query": "Amazon.com, Inc. suppliers manufacturers",
-      "snippet": "Nov 14, 2019 · Amazon Supplier List Amazon is strongly committed to conducting its business in a lawful and ethical manner, including engaging with su"
+      "snippet": "Jun 22, 2026 · Amazon Com Inc supply chain, list and performance of Amazon Com Incs ' suppliers - CSIMarket"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.thesellingguys.com/online-sourcing-buying-wholesalers-distributors/",
+      "url": "https://d39w7f4ix9f5s9.cloudfront.net/cb/19/77dfc5b441c892cd6e2be166ba70/final-amazon-supplier-list-2019-11-14-updated-1005am.pdf",
       "query": "Amazon.com, Inc. suppliers manufacturers",
-      "snippet": "So what is the “secret sauce“ to finding the best authorized Amazon FBA wholesale suppliers ? ⏳ In a rush? Click here to jump straight to our lists of"
+      "snippet": "Nov 14, 2019 · Our global teams work closely with suppliers to communicate our standards, and help suppliers build their capacity to provide safe and "
     },
     {
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Amazon_(company)",
       "query": "Amazon.com, Inc. major customers clients",
-      "snippet": "Amazon.com, Inc .[1] (doing business as Amazon) [a] is an American multinational technology company engaged in e-commerce, cloud computing, online adv"
+      "snippet": "Amazon Logistics, in which Amazon contracts with small businesses (which it calls \"Delivery Service Partners\") to perform deliveries to customers . Ea"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://capitaloneshopping.com/research/amazon-statistics/",
+      "url": "https://csimarket.com/stocks/AMZN-Customers",
       "query": "Amazon.com, Inc. major customers clients",
-      "snippet": "Jun 4, 2026 · Statistics & analysis on Amazon including total sales (per year & minute), number of products (SKUs), customers , sellers & more."
+      "snippet": "Updated on: Tuesday, June 23, 2026 8:00 PM Focus of this report: Amazon com Inc ’s corporate clients . For your research, we’ve provided 9 tables on A"
     }
   ]
 }

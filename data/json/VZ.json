@@ -4,40 +4,64 @@
   "sector": "Communication Services",
   "industry": "Telecom Services",
   "upstream": [
-    "Ericsson",
     "Nokia",
-    "Huawei",
+    "Ericsson",
     "005930.KS",
-    "QCOM"
+    "Huawei",
+    "ZTE"
   ],
   "downstream": [
-    "Individual mobile subscribers",
-    "Small and medium enterprises",
-    "Large enterprises",
+    "U.S. consumers",
+    "Enterprise customers",
     "Government agencies",
-    "Telecom resellers"
+    "Small and medium businesses",
+    "Content providers"
   ],
   "competitors": [
     "AT&T",
     "T-Mobile US",
     "Comcast",
     "CAT",
-    "CenturyLink"
+    "GOOGL"
   ],
   "key_products": [
     "Wireless voice and data services",
-    "Broadband and fiber‑optic Internet",
+    "Broadband internet (FiOS)",
+    "Fiber‑optic network",
     "Enterprise networking solutions",
-    "Cloud and edge computing services",
-    "Internet of Things (IoT) platforms"
+    "Digital TV and streaming services"
   ],
-  "extracted_at": "2026-06-30 18:16:02",
+  "extracted_at": "2026-07-02 17:40:06",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Verizon_Communications_Inc.",
       "title": "Verizon",
       "snippet": "Verizon Communications Inc. is an American telecommunications company headquartered in New York City. It is the world's second-largest telecommunications company by revenue and its mobile network is t"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.verizon.com/about",
+      "query": "Verizon Communications Inc. suppliers manufacturers",
+      "snippet": "Learn about Verizon 's core values, leadership, investor relations, career opportunities, outreach programs, and the latest news on our products and n"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://finance.yahoo.com/quote/VZ/",
+      "query": "Verizon Communications Inc. suppliers manufacturers",
+      "snippet": "Verizon Communications Inc ., through its subsidiaries, engages in the provision of communications , technology, information, and streaming products a"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/VZ-Customers",
+      "query": "Verizon Communications Inc. major customers clients",
+      "snippet": "Verizon Communications Inc customers and markets, results by customer and performance relative to VZ, by company and industry - CSIMarket"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.verizon.com/about",
+      "query": "Verizon Communications Inc. major customers clients",
+      "snippet": "Learn about Verizon 's core values, leadership, investor relations, career opportunities, outreach programs, and the latest news on our products and n"
     }
   ]
 }

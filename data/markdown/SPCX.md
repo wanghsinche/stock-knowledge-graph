@@ -1,57 +1,57 @@
 ---
 ticker: SPCX
-company: Space Exploration Technologies Corp.
-sector: Industrials / Aerospace & Defense
+company: Space Exploration Technologies Corporation
+sector: Industrials
 industry: Aerospace & Defense
-extracted_at: 2026-07-01 17:48:09
-last_updated: 2026-07-01
+extracted_at: 2026-07-02 17:31:52
+last_updated: 2026-07-02
 ---
 
-# SPCX - Space Exploration Technologies Corp.
+# SPCX - Space Exploration Technologies Corporation
 
 ## 基本信息
 
-- **所属行业**: Industrials / Aerospace & Defense / Aerospace & Defense
-- **提取时间**: 2026-07-01 17:48:09
+- **所属行业**: Industrials / Aerospace & Defense
+- **提取时间**: 2026-07-02 17:31:52
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Rocket engine manufacturers (e.g., Raptor, Merlin)]]
-- [[Propellant suppliers (liquid oxygen, RP-1)]]
-- [[Avionics and electronics suppliers]]
-- [[Composite material suppliers]]
-- [[Launch pad infrastructure providers]]
+- [[STMicroelectronics N.V.]]
+- [[Boeing]]
+- [[Lockheed Martin]]
+- [[Northrop Grumman]]
+- [[Honeywell Aerospace]]
 
 ### 下游客户
 - [[NASA]]
-- [[U.S. Department of Defense]]
+- [[U.S. Space Force]]
 - [[INTC]]
-- [[Starlink residential and enterprise customers]]
-- [[SpaceX's own crewed mission customers (e.g., NASA astronauts)]]
+- [[Government agencies (e.g., ESA, JAXA)]]
+- [[Private spaceflight customers (e.g., SpaceX Crew Dragon clients)]]
 
 ### 竞争对手
-- [[United Launch Alliance]]
-- [[Arianespace]]
-- [[Rocket Lab]]
 - [[Blue Origin]]
-- [[Virgin Orbit]]
+- [[United Launch Alliance]]
+- [[Rocket Lab]]
+- [[Virgin Galactic]]
+- [[Arianespace]]
 
 ### 核心产品
-- [[Falcon 9 rocket]]
-- [[Falcon Heavy rocket]]
-- [[Starship spacecraft]]
+- [[Falcon 9 launch vehicle]]
+- [[Falcon Heavy launch vehicle]]
+- [[Starship launch vehicle]]
 - [[Starlink satellite constellation]]
-- [[SpaceX AI services (Grok)]]
+- [[Grok AI platform]]
 
 ## 数据来源
 
 - [SpaceX](https://en.wikipedia.org/wiki/Space_Exploration_Technologies_Corp.)
-- [Space Exploration Technologies Corp. suppliers manufacturers](https://en.wikipedia.org/wiki/SpaceX)
-- [Space Exploration Technologies Corp. suppliers manufacturers](https://www.spacex.com/)
+- [Space Exploration Technologies Corp. suppliers manufacturers](https://grokipedia.com/page/Publicly_traded_SpaceX_suppliers)
+- [Space Exploration Technologies Corp. suppliers manufacturers](https://www.listthe.com/manufacturers-of/space-exploration-technologies-corp)
 - [Space Exploration Technologies Corp. major customers clients](https://en.wikipedia.org/wiki/SpaceX)
-- [Space Exploration Technologies Corp. major customers clients](https://www.bloomberg.com/profile/company/SPCX:US)
+- [Space Exploration Technologies Corp. major customers clients](https://www.tradingview.com/symbols/NASDAQ-SPCX/)
 
 ## 元数据
 
-- **更新日期**: 2026-07-01
+- **更新日期**: 2026-07-02

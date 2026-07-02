@@ -3,8 +3,8 @@ ticker: PLTR
 company: Palantir Technologies Inc.
 sector: Technology
 industry: Software - Infrastructure
-extracted_at: 2026-07-01 17:53:56
-last_updated: 2026-07-01
+extracted_at: 2026-07-02 17:32:23
+last_updated: 2026-07-02
 ---
 
 # PLTR - Palantir Technologies Inc.
@@ -12,7 +12,7 @@ last_updated: 2026-07-01
 ## 基本信息
 
 - **所属行业**: Technology / Software - Infrastructure
-- **提取时间**: 2026-07-01 17:53:56
+- **提取时间**: 2026-07-02 17:32:23
 
 ## 产业链关系
 
@@ -20,15 +20,15 @@ last_updated: 2026-07-01
 - [[AMZN]]
 - [[MSFT]]
 - [[GOOGL]]
-- [[Hardware manufacturers (servers, storage)]]
-- [[Data providers (government and commercial datasets)]]
+- [[IBM]]
+- [[ORCL]]
 
 ### 下游客户
 - [[U.S. Department of Defense]]
-- [[U.S. Department of Homeland Security]]
-- [[U.S. Department of Justice]]
-- [[Large financial institutions]]
-- [[Healthcare providers]]
+- [[INTC]]
+- [[Financial Services firms]]
+- [[Healthcare organizations]]
+- [[Retail companies]]
 
 ### 竞争对手
 - [[Snowflake]]
@@ -41,17 +41,17 @@ last_updated: 2026-07-01
 - [[Palantir Foundry]]
 - [[Palantir Gotham]]
 - [[Palantir Apollo]]
-- [[Palantir Helios]]
+- [[Palantir Helix]]
 - [[Palantir Data Lake]]
 
 ## 数据来源
 
 - [Palantir](https://en.wikipedia.org/wiki/Palantir_Technologies_Inc.)
-- [Palantir Technologies Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/Palantir)
-- [Palantir Technologies Inc. suppliers manufacturers](https://www.businesswire.com/news/home/20240807171687/en/From-the-Farm-to-the-Frosty-Palantir-and-Wendys-Partner-on-AI-and-Supply-Chain-Digitalization)
-- [Palantir Technologies Inc. major customers clients](https://financhill.com/blog/investing/who-are-palantir-biggest-customers)
-- [Palantir Technologies Inc. major customers clients](https://data.landbase.com/technology/palantir/)
+- [Palantir Technologies Inc. suppliers manufacturers](https://csimarket.com/stocks/PLTR-Suppliers)
+- [Palantir Technologies Inc. suppliers manufacturers](https://fintel.io/doc/sec-palantir-technologies-inc-1321655-ex211-2023-february-21-19410-4071)
+- [Palantir Technologies Inc. major customers clients](https://en.wikipedia.org/wiki/Palantir)
+- [Palantir Technologies Inc. major customers clients](https://finance.yahoo.com/quote/PLTR/)
 
 ## 元数据
 
-- **更新日期**: 2026-07-01
+- **更新日期**: 2026-07-02

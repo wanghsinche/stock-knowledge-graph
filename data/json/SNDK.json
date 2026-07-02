@@ -1,37 +1,37 @@
 {
   "ticker": "SNDK",
-  "company_name": "Sandisk Corporation",
+  "company_name": "SanDisk Corporation",
   "sector": "Technology",
   "industry": "Computer Hardware",
   "upstream": [
-    "Semiconductor manufacturers",
-    "Memory chip suppliers",
-    "Printed circuit board (PCB) manufacturers",
-    "Packaging and encapsulation suppliers",
-    "Electronic component distributors"
+    "Silicon wafer suppliers",
+    "NAND flash memory chip suppliers",
+    "Packaging material suppliers",
+    "Electronic component suppliers",
+    "Test equipment suppliers"
   ],
   "downstream": [
-    "DELL",
     "AAPL",
-    "Enterprise storage solution providers",
-    "Consumer electronics retailers",
-    "Gaming console manufacturers"
+    "MSFT",
+    "005930.KS",
+    "DELL",
+    "HPQ"
   ],
   "competitors": [
+    "MU",
+    "SK Hynix",
     "WDC",
     "STX",
-    "005930.KS",
-    "Kingston Technology",
-    "Crucial"
+    "Kingston Technology"
   ],
   "key_products": [
-    "USB flash drives",
-    "SD memory cards",
+    "NAND flash memory",
     "Solid State Drives (SSDs)",
-    "External hard drives",
-    "Memory modules"
+    "USB flash drives",
+    "SD cards",
+    "eMMC modules"
   ],
-  "extracted_at": "2026-07-01 17:47:04",
+  "extracted_at": "2026-07-02 17:27:47",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.sandisk.com/",
+      "url": "https://en.wikipedia.org/wiki/SanDisk",
       "query": "Sandisk Corporation suppliers manufacturers",
-      "snippet": "Sandisk online store members receive free standard shipping on all eligible orders.Free standard shipping applies to purchases delivered within the Un"
+      "snippet": "Founded in 1988, [4] it designs and manufactures flash memory products, including memory cards, USB flash drives, and solid-state drives (SSDs). The c"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/SNDK/",
+      "url": "https://www.sandisk.com/en-us/company/distributors",
       "query": "Sandisk Corporation suppliers manufacturers",
-      "snippet": "Sandisk Corporation develops, manufactures , and sells data storage devices and solutions using NAND flash technology in the United States, Europe, th"
+      "snippet": "Find authorized SanDisk distributors and channel partners worldwide for trusted storage solutions and products."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://data.landbase.com/technology/sandisk/",
+      "url": "https://en.wikipedia.org/wiki/Sandisk",
       "query": "Sandisk Corporation major customers clients",
-      "snippet": "Aug 17, 2025 · We have data on 324 companies that use SanDisk. Our SanDisk customers list is available for download and comes enriched with vital comp"
+      "snippet": "2 weeks ago - On November 8, 1995, SunDisk changed its name to SanDisk to avoid confusion with Sun Microsystems, and went public under the new name vi"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.appsruntheworld.com/customers-database/vendors/view/sandisk",
+      "url": "https://csimarket.com/stocks/markets_glance.php?code=SNDK",
       "query": "Sandisk Corporation major customers clients",
-      "snippet": "List of companies using or evaluating SanDisk applications, with details on their revenues, employees, industries, and locations."
+      "snippet": "2 weeks ago - Sandisk customers and markets, results by customer and performance relative to SNDK, by company and industry - CSIMarket"
     }
   ]
 }

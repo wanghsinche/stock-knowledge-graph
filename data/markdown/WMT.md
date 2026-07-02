@@ -3,8 +3,8 @@ ticker: WMT
 company: Walmart Inc.
 sector: Consumer Defensive
 industry: Discount Stores
-extracted_at: 2026-07-01 17:57:45
-last_updated: 2026-07-01
+extracted_at: 2026-07-02 17:38:21
+last_updated: 2026-07-02
 ---
 
 # WMT - Walmart Inc.
@@ -12,7 +12,7 @@ last_updated: 2026-07-01
 ## 基本信息
 
 - **所属行业**: Consumer Defensive / Discount Stores
-- **提取时间**: 2026-07-01 17:57:45
+- **提取时间**: 2026-07-02 17:38:21
 
 ## 产业链关系
 
@@ -20,39 +20,40 @@ last_updated: 2026-07-01
 - [[Procter & Gamble]]
 - [[Coca‑Cola]]
 - [[PepsiCo]]
-- [[Nestlé]]
-- [[Walmart Private‑Label Suppliers]]
+- [[Johnson & Johnson]]
+- [[General Mills]]
 
 ### 下游客户
-- [[Individual consumers]]
-- [[Small businesses]]
+- [[Consumers in the United States]]
+- [[Sam’s Club members]]
 - [[Online shoppers]]
-- [[Local grocery customers]]
-- [[Pharmacy customers]]
+- [[Healthcare patients]]
+- [[Small businesses]]
 
 ### 竞争对手
 - [[Target]]
 - [[Costco]]
 - [[AMZN]]
-- [[BJ's Wholesale Club]]
+- [[BJ’s Wholesale]]
 - [[Dollar General]]
 
 ### 核心产品
 - [[Groceries]]
+- [[Household goods]]
 - [[Apparel]]
 - [[Electronics]]
-- [[Household goods]]
 - [[Pharmacy products]]
-- [[Fuel/gasoline]]
+- [[Gasoline]]
+- [[Private‑label brands]]
 
 ## 数据来源
 
 - [Walmart](https://en.wikipedia.org/wiki/Walmart_Inc.)
-- [Walmart Inc. suppliers manufacturers](https://corporate.walmart.com/suppliers)
-- [Walmart Inc. suppliers manufacturers](https://corporate.walmart.com/suppliers/requirements)
-- [Walmart Inc. major customers clients](https://capitaloneshopping.com/research/walmart-statistics/)
-- [Walmart Inc. major customers clients](https://businessmodelanalyst.com/walmart-target-market/)
+- [Walmart Inc. suppliers manufacturers](https://csimarket.com/stocks/suppliers_glance.php?code=WMT)
+- [Walmart Inc. suppliers manufacturers](https://www.walmart.com/)
+- [Walmart Inc. major customers clients](https://www.walmart.com/)
+- [Walmart Inc. major customers clients](https://www.linkedin.com/company/walmart)
 
 ## 元数据
 
-- **更新日期**: 2026-07-01
+- **更新日期**: 2026-07-02

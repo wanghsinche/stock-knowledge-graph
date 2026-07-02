@@ -1,37 +1,37 @@
 {
   "ticker": "CRWV",
   "company_name": "CoreWeave, Inc.",
-  "sector": "Technology",
-  "industry": "Software - Infrastructure",
+  "sector": "Technology / Software - Infrastructure",
+  "industry": "AI Cloud Computing",
   "upstream": [
     "NVDA",
     "AMD",
     "INTC",
-    "TSM",
-    "QCOM"
+    "DELL",
+    "HPQ"
   ],
   "downstream": [
-    "AI developers",
-    "Enterprise AI teams",
-    "Start‑ups in machine learning",
-    "Research institutions",
-    "Gaming companies"
+    "META",
+    "GOOGL",
+    "MSFT",
+    "AMZN",
+    "IBM"
   ],
   "competitors": [
+    "NVDA",
     "AMZN",
     "MSFT",
     "GOOGL",
-    "NVDA",
     "IBM"
   ],
   "key_products": [
-    "GPU‑based AI compute cloud",
-    "Chip management software",
-    "GPU‑as‑a‑Service (GPUaaS)",
-    "AI workload orchestration",
-    "Custom GPU cluster provisioning"
+    "GPU-based cloud infrastructure",
+    "GPU management software",
+    "AI training services",
+    "GPU virtualization",
+    "High-performance computing instances"
   ],
-  "extracted_at": "2026-07-01 17:54:45",
+  "extracted_at": "2026-07-02 17:36:54",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,21 +47,21 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.businesswire.com/news/home/20260629000491/en/CoreWeave-ARIA-Launches-as-an-AI-Research-and-Iteration-Agent-with-autonomous-research-and-collaborative-intelligence",
+      "url": "https://finance.yahoo.com/technology/ai/articles/coreweave-nebius-shares-slide-meta-141141929.html",
       "query": "CoreWeave, Inc. suppliers manufacturers",
-      "snippet": "CoreWeave , Inc . (Nasdaq: CRWV), The Essential Cloud for AI™, today announced the launch of CoreWeave ARIA (AI Research & Iteration Agent), an AI res"
+      "snippet": "Meta's reported plans weigh on AI infrastructure providers. Shares of CoreWeave (NASDAQ:CRWV) and Nebius Group (NASDAQ:NBIS) fell more than 6% on Wedn"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.coreweave.com/case-studies",
+      "url": "https://en.wikipedia.org/wiki/CoreWeave",
       "query": "CoreWeave, Inc. major customers clients",
-      "snippet": "Customer stories Where Customers Become Pioneers Discover how CoreWeave customers transform ambition into achievement. These pioneers are shaping the "
+      "snippet": "CoreWeave , Inc . is an American artificial intelligence cloud-computing company based in Livingston, New Jersey. It specializes in providing cloud-ba"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.appsruntheworld.com/customers-database/products/view/coreweave-compute-services",
+      "url": "https://finance.yahoo.com/technology/ai/articles/coreweave-nebius-shares-slide-meta-141141929.html",
       "query": "CoreWeave, Inc. major customers clients",
-      "snippet": "Contact APPS RUN THE WORLD to access the full verified CoreWeave Compute Services customer database with detailed Firmographics such as industry, geog"
+      "snippet": "Shares of CoreWeave (NASDAQ:CRWV) and Nebius Group (NASDAQ:NBIS) fell more than 6% on Wednesday after a Bloomberg report suggested that Meta Platforms"
     }
   ]
 }

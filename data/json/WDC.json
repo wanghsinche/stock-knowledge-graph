@@ -5,33 +5,33 @@
   "industry": "Computer Hardware",
   "upstream": [
     "MU",
-    "Printed circuit board (PCB) suppliers",
-    "Electronics component suppliers (capacitors, resistors, connectors)",
-    "Magnetic media suppliers (rare earth magnets, ferrite)",
-    "Precision machining and assembly equipment suppliers"
+    "TSM",
+    "Component manufacturers (e.g., SSD controller makers)",
+    "Materials suppliers (e.g., silicon wafer producers)",
+    "Electronics assembly providers"
   ],
   "downstream": [
     "DELL",
     "DELL",
     "MSFT",
-    "SONY",
-    "Enterprise IT and data center operators"
+    "AAPL",
+    "Enterprise storage integrators"
   ],
   "competitors": [
     "STX",
-    "Toshiba Storage Solutions",
+    "Toshiba Corporation",
     "005930.KS",
-    "SK Hynix (SSD segment)",
-    "MU"
+    "MU",
+    "IBM"
   ],
   "key_products": [
-    "Internal hard disk drives (HDDs)",
-    "Solid-state drives (SSDs)",
-    "External portable storage devices",
-    "Enterprise storage solutions (e.g., Ultrastar, PowerVault)",
-    "Data center infrastructure and software"
+    "Hard Disk Drives (HDDs)",
+    "Solid State Drives (SSDs)",
+    "External storage solutions",
+    "Network Attached Storage (NAS) devices",
+    "Enterprise storage systems"
   ],
-  "extracted_at": "2026-07-01 17:57:30",
+  "extracted_at": "2026-07-02 17:34:53",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Western_Digital",
-      "query": "Western Digital Corporation suppliers manufacturers",
-      "snippet": "Western Digital Corporation , doing business as WD, is an American data storage company headquartered in San Jose , California . Established in 1970, "
-    },
-    {
-      "source": "DuckDuckGo",
       "url": "https://www.westerndigital.com/company/distributors",
       "query": "Western Digital Corporation suppliers manufacturers",
       "snippet": "Find Distributors & Resellers Purchase from your preferred Western Digital authorized partner Region Country/Area Brand"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.mycloud.com/",
-      "query": "Western Digital Corporation major customers clients",
-      "snippet": "© 2020 Western Digital Corporation или аффилированные лица."
+      "url": "https://csimarket.com/stocks/WDC-Suppliers",
+      "query": "Western Digital Corporation suppliers manufacturers",
+      "snippet": "Jun 22, 2026 · For your research, we’ve provided nine additional tables on Western Digital Corporation ’ s suppliers . You can find them in the naviga"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://qz.com/will-next-gen-hamr-epmr-drives-give-western-digital-a-storage-edge",
+      "url": "https://csimarket.com/stocks/WDC-Customers",
       "query": "Western Digital Corporation major customers clients",
-      "snippet": "Currently, Western Digital sports a Zacks Rank #1 (Strong Buy). You can see the complete list of today’s Zacks #1 Rank stocks here. Zacks' Research Ch"
+      "snippet": "For your research, we’ve provided 9 tables on Western Digital Corporation corporate clients . You can find them in the navigation menu under Customers"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://data.landbase.com/technology/western-digital/",
+      "query": "Western Digital Corporation major customers clients",
+      "snippet": "Aug 17, 2025 · Our Western Digital customers list is available for download and comes enriched with vital company specifics, including industry classi"
     }
   ]
 }

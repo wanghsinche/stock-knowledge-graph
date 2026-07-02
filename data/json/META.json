@@ -4,18 +4,18 @@
   "sector": "Communication Services",
   "industry": "Internet Content & Information",
   "upstream": [
-    "NVDA",
-    "AMD",
+    "TSM",
+    "005930.KS",
     "INTC",
-    "CSCO",
-    "DELL"
+    "NVDA",
+    "CSCO"
   ],
   "downstream": [
-    "Advertisers",
-    "Businesses",
-    "App developers",
-    "Content creators",
-    "End users"
+    "Coca‑Cola",
+    "Nike",
+    "Procter & Gamble",
+    "McDonald’s",
+    "AMZN"
   ],
   "competitors": [
     "GOOGL",
@@ -31,7 +31,7 @@
     "Messenger",
     "Meta Ads"
   ],
-  "extracted_at": "2026-07-01 17:46:41",
+  "extracted_at": "2026-07-02 17:31:32",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,15 +41,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ru.wikipedia.org/wiki/Meta_Platforms",
+      "url": "https://csimarket.com/stocks/META-Suppliers",
       "query": "Meta Platforms, Inc. suppliers manufacturers",
-      "snippet": "Meta Platforms , Inc . — американская транснациональная холдинговая компания, владеющая технологическим конгломератом и расположенная в Менло-Парке, К"
+      "snippet": "Jun 22, 2026 · Meta Platforms Inc 's Suppliers recorded an increase in sales by 14.3 % year on year in Q1 2026, sequentially sales grew by 13.44 %, Me"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://investor.atmeta.com/",
+      "url": "https://evidinvest.com/supply-chain/META",
       "query": "Meta Platforms, Inc. suppliers manufacturers",
-      "snippet": "Meta to Participate in the Morgan Stanley Technology, Media & Telecom Conference. February 25, 2026."
+      "snippet": "Who supplies Meta Platforms and who buys from it? Mapped suppliers , customers, partners, and competitors of META, every relationship anchored to SEC "
     },
     {
       "source": "DuckDuckGo",
@@ -61,7 +61,7 @@
       "source": "DuckDuckGo",
       "url": "https://csimarket.com/stocks/META-Customers",
       "query": "Meta Platforms, Inc. major customers clients",
-      "snippet": "Meta Platforms Inc 's Comment on Sales, Marketing and Customers The majority of our marketers use our self-service ad platform to establish accounts a"
+      "snippet": "For your research, we’ve provided 9 tables on Meta Platforms Inc corporate clients . You can find them in the navigation menu under Customers & Market"
     }
   ]
 }

@@ -4,40 +4,64 @@
   "sector": "Technology",
   "industry": "Semiconductors",
   "upstream": [
-    "Silicon wafer suppliers",
-    "Chemical and photoresist suppliers",
-    "Semiconductor equipment manufacturers",
-    "Metrology equipment suppliers",
-    "Cleanroom facility providers"
+    "TSM",
+    "005930.KS",
+    "GlobalFoundries",
+    "INTC",
+    "MU"
   ],
   "downstream": [
+    "GOOGL",
+    "AMZN",
+    "MSFT",
     "AAPL",
-    "QCOM",
-    "INTC",
-    "005930.KS",
     "NVDA"
   ],
   "competitors": [
-    "GlobalFoundries Inc.",
-    "United Microelectronics Corp. (UMC)",
-    "Semiconductor Manufacturing International Corp. (SMIC)",
-    "Tower Semiconductor Ltd.",
-    "TSM"
+    "AVGO",
+    "MRVL",
+    "INTC",
+    "QCOM",
+    "Lattice Semiconductor"
   ],
   "key_products": [
-    "Wafer fabrication services",
-    "Semiconductor packaging and assembly",
-    "Test and measurement services",
-    "Design and verification services",
-    "Advanced packaging solutions"
+    "High-speed serial interconnects",
+    "Silicon photonics solutions",
+    "High-speed connectivity for AI",
+    "Data center interconnects",
+    "High-bandwidth memory interfaces"
   ],
-  "extracted_at": "2026-06-30 18:18:50",
+  "extracted_at": "2026-07-02 17:41:00",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "",
       "title": "",
       "snippet": ""
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/news.php?code=CRDO&date=2023-06-24142518",
+      "query": "Credo Technology Group Holding Ltd suppliers manufacturers",
+      "snippet": "San Jose, California Credo Technology Group Holding Ltd (Nasdaq: CRDO), known for its innovative contributions to secure and high-speed connectivity s"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.fool.com/earnings/call-transcripts/2026/03/02/credo-tech-crdo-q3-2026-earnings-call-transcript/",
+      "query": "Credo Technology Group Holding Ltd suppliers manufacturers",
+      "snippet": "Credo Technology Group Holding Ltd (CRDO 4.60%) reported record top-line growth and profitability, with pronounced sequential and year-over-year gains"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://finance.yahoo.com/quote/CRDO/",
+      "query": "Credo Technology Group Holding Ltd major customers clients",
+      "snippet": "Find the latest Credo Technology Group Holding Ltd (CRDO) stock quote, history, news and other vital information to help you with your stock trading a"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://credosemi.com/",
+      "query": "Credo Technology Group Holding Ltd major customers clients",
+      "snippet": "Credo delivers high-speed, energy-efficient connectivity solutions powering AI, cloud computing, and hyperscale networks up to 1.6T."
     }
   ]
 }

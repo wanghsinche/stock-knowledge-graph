@@ -1,37 +1,37 @@
 {
   "ticker": "SPCX",
-  "company_name": "Space Exploration Technologies Corp.",
-  "sector": "Industrials / Aerospace & Defense",
+  "company_name": "Space Exploration Technologies Corporation",
+  "sector": "Industrials",
   "industry": "Aerospace & Defense",
   "upstream": [
-    "Rocket engine manufacturers (e.g., Raptor, Merlin)",
-    "Propellant suppliers (liquid oxygen, RP-1)",
-    "Avionics and electronics suppliers",
-    "Composite material suppliers",
-    "Launch pad infrastructure providers"
+    "STMicroelectronics N.V.",
+    "Boeing",
+    "Lockheed Martin",
+    "Northrop Grumman",
+    "Honeywell Aerospace"
   ],
   "downstream": [
     "NASA",
-    "U.S. Department of Defense",
+    "U.S. Space Force",
     "INTC",
-    "Starlink residential and enterprise customers",
-    "SpaceX's own crewed mission customers (e.g., NASA astronauts)"
+    "Government agencies (e.g., ESA, JAXA)",
+    "Private spaceflight customers (e.g., SpaceX Crew Dragon clients)"
   ],
   "competitors": [
-    "United Launch Alliance",
-    "Arianespace",
-    "Rocket Lab",
     "Blue Origin",
-    "Virgin Orbit"
+    "United Launch Alliance",
+    "Rocket Lab",
+    "Virgin Galactic",
+    "Arianespace"
   ],
   "key_products": [
-    "Falcon 9 rocket",
-    "Falcon Heavy rocket",
-    "Starship spacecraft",
+    "Falcon 9 launch vehicle",
+    "Falcon Heavy launch vehicle",
+    "Starship launch vehicle",
     "Starlink satellite constellation",
-    "SpaceX AI services (Grok)"
+    "Grok AI platform"
   ],
-  "extracted_at": "2026-07-01 17:48:09",
+  "extracted_at": "2026-07-02 17:31:52",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/SpaceX",
+      "url": "https://grokipedia.com/page/Publicly_traded_SpaceX_suppliers",
       "query": "Space Exploration Technologies Corp. suppliers manufacturers",
-      "snippet": "1 hour ago - Space Exploration Technologies Corporation, doing business as SpaceX, is an American spaceflight, telecommunications, and artificial inte"
+      "snippet": "STMicroelectronics N.V. (NYSE: STM), a multinational semiconductor company headquartered in Geneva, Switzerland, serves as a critical supplier of spec"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.spacex.com/",
+      "url": "https://www.listthe.com/manufacturers-of/space-exploration-technologies-corp",
       "query": "Space Exploration Technologies Corp. suppliers manufacturers",
-      "snippet": "SpaceX designs, manufactures and launches advanced rockets and spacecraft. The company was founded in 2002 to revolutionize space technology, with the"
+      "snippet": "This page shows the major manufacturers of SPACE EXPLORATION TECHNOLOGIES CORP . Results are limited to 15 suppliers, if you want to see more supplier"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/SpaceX",
       "query": "Space Exploration Technologies Corp. major customers clients",
-      "snippet": "1 hour ago - Space Exploration Technologies Corporation, doing business as SpaceX, is an American spaceflight, telecommunications, and artificial inte"
+      "snippet": "Space Exploration Technologies Corporation , doing business as SpaceX , is an American spaceflight, telecommunications, and artificial intelligence co"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.bloomberg.com/profile/company/SPCX:US",
+      "url": "https://www.tradingview.com/symbols/NASDAQ-SPCX/",
       "query": "Space Exploration Technologies Corp. major customers clients",
-      "snippet": "Space Exploration Technologies Corp., doing business as SpaceX, operates as an aerospace and space technology company. The Company designs, manufactur"
+      "snippet": "Space Exploration Technologies Corp ( SpaceX ). SPCX Nasdaq Stock Market. Space Exploration Technologies Corp ., doing business as SpaceX , operates a"
     }
   ]
 }

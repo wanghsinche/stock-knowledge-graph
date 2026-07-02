@@ -1,57 +1,57 @@
 ---
 ticker: SNDK
-company: Sandisk Corporation
+company: SanDisk Corporation
 sector: Technology
 industry: Computer Hardware
-extracted_at: 2026-07-01 17:47:04
-last_updated: 2026-07-01
+extracted_at: 2026-07-02 17:27:47
+last_updated: 2026-07-02
 ---
 
-# SNDK - Sandisk Corporation
+# SNDK - SanDisk Corporation
 
 ## 基本信息
 
 - **所属行业**: Technology / Computer Hardware
-- **提取时间**: 2026-07-01 17:47:04
+- **提取时间**: 2026-07-02 17:27:47
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Semiconductor manufacturers]]
-- [[Memory chip suppliers]]
-- [[Printed circuit board (PCB) manufacturers]]
-- [[Packaging and encapsulation suppliers]]
-- [[Electronic component distributors]]
+- [[Silicon wafer suppliers]]
+- [[NAND flash memory chip suppliers]]
+- [[Packaging material suppliers]]
+- [[Electronic component suppliers]]
+- [[Test equipment suppliers]]
 
 ### 下游客户
-- [[DELL]]
 - [[AAPL]]
-- [[Enterprise storage solution providers]]
-- [[Consumer electronics retailers]]
-- [[Gaming console manufacturers]]
+- [[MSFT]]
+- [[005930.KS]]
+- [[DELL]]
+- [[HPQ]]
 
 ### 竞争对手
+- [[MU]]
+- [[SK Hynix]]
 - [[WDC]]
 - [[STX]]
-- [[005930.KS]]
 - [[Kingston Technology]]
-- [[Crucial]]
 
 ### 核心产品
-- [[USB flash drives]]
-- [[SD memory cards]]
+- [[NAND flash memory]]
 - [[Solid State Drives (SSDs)]]
-- [[External hard drives]]
-- [[Memory modules]]
+- [[USB flash drives]]
+- [[SD cards]]
+- [[eMMC modules]]
 
 ## 数据来源
 
 - [Sandisk](https://en.wikipedia.org/wiki/Sandisk_Corporation)
-- [Sandisk Corporation suppliers manufacturers](https://www.sandisk.com/)
-- [Sandisk Corporation suppliers manufacturers](https://finance.yahoo.com/quote/SNDK/)
-- [Sandisk Corporation major customers clients](https://data.landbase.com/technology/sandisk/)
-- [Sandisk Corporation major customers clients](https://www.appsruntheworld.com/customers-database/vendors/view/sandisk)
+- [Sandisk Corporation suppliers manufacturers](https://en.wikipedia.org/wiki/SanDisk)
+- [Sandisk Corporation suppliers manufacturers](https://www.sandisk.com/en-us/company/distributors)
+- [Sandisk Corporation major customers clients](https://en.wikipedia.org/wiki/Sandisk)
+- [Sandisk Corporation major customers clients](https://csimarket.com/stocks/markets_glance.php?code=SNDK)
 
 ## 元数据
 
-- **更新日期**: 2026-07-01
+- **更新日期**: 2026-07-02

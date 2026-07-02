@@ -3,8 +3,8 @@ ticker: WDC
 company: Western Digital Corporation
 sector: Technology
 industry: Computer Hardware
-extracted_at: 2026-07-01 17:57:30
-last_updated: 2026-07-01
+extracted_at: 2026-07-02 17:34:53
+last_updated: 2026-07-02
 ---
 
 # WDC - Western Digital Corporation
@@ -12,46 +12,46 @@ last_updated: 2026-07-01
 ## 基本信息
 
 - **所属行业**: Technology / Computer Hardware
-- **提取时间**: 2026-07-01 17:57:30
+- **提取时间**: 2026-07-02 17:34:53
 
 ## 产业链关系
 
 ### 上游供应商
 - [[MU]]
-- [[Printed circuit board (PCB) suppliers]]
-- [[Electronics component suppliers (capacitors, resistors, connectors)]]
-- [[Magnetic media suppliers (rare earth magnets, ferrite)]]
-- [[Precision machining and assembly equipment suppliers]]
+- [[TSM]]
+- [[Component manufacturers (e.g., SSD controller makers)]]
+- [[Materials suppliers (e.g., silicon wafer producers)]]
+- [[Electronics assembly providers]]
 
 ### 下游客户
 - [[DELL]]
 - [[DELL]]
 - [[MSFT]]
-- [[SONY]]
-- [[Enterprise IT and data center operators]]
+- [[AAPL]]
+- [[Enterprise storage integrators]]
 
 ### 竞争对手
 - [[STX]]
-- [[Toshiba Storage Solutions]]
+- [[Toshiba Corporation]]
 - [[005930.KS]]
-- [[SK Hynix (SSD segment)]]
 - [[MU]]
+- [[IBM]]
 
 ### 核心产品
-- [[Internal hard disk drives (HDDs)]]
-- [[Solid-state drives (SSDs)]]
-- [[External portable storage devices]]
-- [[Enterprise storage solutions (e.g., Ultrastar, PowerVault)]]
-- [[Data center infrastructure and software]]
+- [[Hard Disk Drives (HDDs)]]
+- [[Solid State Drives (SSDs)]]
+- [[External storage solutions]]
+- [[Network Attached Storage (NAS) devices]]
+- [[Enterprise storage systems]]
 
 ## 数据来源
 
 - [Western Digital](https://en.wikipedia.org/wiki/Western_Digital_Corporation)
-- [Western Digital Corporation suppliers manufacturers](https://en.wikipedia.org/wiki/Western_Digital)
 - [Western Digital Corporation suppliers manufacturers](https://www.westerndigital.com/company/distributors)
-- [Western Digital Corporation major customers clients](https://www.mycloud.com/)
-- [Western Digital Corporation major customers clients](https://qz.com/will-next-gen-hamr-epmr-drives-give-western-digital-a-storage-edge)
+- [Western Digital Corporation suppliers manufacturers](https://csimarket.com/stocks/WDC-Suppliers)
+- [Western Digital Corporation major customers clients](https://csimarket.com/stocks/WDC-Customers)
+- [Western Digital Corporation major customers clients](https://data.landbase.com/technology/western-digital/)
 
 ## 元数据
 
-- **更新日期**: 2026-07-01
+- **更新日期**: 2026-07-02

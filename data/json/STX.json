@@ -4,34 +4,34 @@
   "sector": "Technology",
   "industry": "Computer Hardware",
   "upstream": [
-    "MU",
+    "INTC",
     "005930.KS",
-    "Toshiba",
-    "WDC",
-    "INTC"
+    "MU",
+    "Toshiba Memory",
+    "WDC"
   ],
   "downstream": [
     "DELL",
     "HPQ",
     "Lenovo Group",
-    "AAPL",
+    "AMZN",
     "MSFT"
   ],
   "competitors": [
     "WDC",
+    "Toshiba (Kioxia)",
     "005930.KS",
-    "Toshiba",
-    "MU",
-    "IBM"
+    "IBM",
+    "MU"
   ],
   "key_products": [
     "Hard Disk Drives",
     "Solid State Drives",
     "Enterprise Storage Solutions",
-    "Hybrid Drives",
-    "Data Center Storage"
+    "NAS Drives",
+    "External Storage Devices"
   ],
-  "extracted_at": "2026-07-01 17:59:43",
+  "extracted_at": "2026-07-02 17:35:08",
   "sources": [
     {
       "source": "Wikipedia",
@@ -53,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.seagate.com/",
+      "url": "https://csimarket.com/stocks/STX-Customers",
       "query": "Seagate Technology Holdings plc major customers clients",
-      "snippet": "Seagate Technology Holdings PLC ."
+      "snippet": "1 day ago · Seagate Technology Holdings Plc 's Comment on Sales, Marketing and Customers We sell our products to major OEMs, distributors and retailer"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.insidermonkey.com/blog/morgan-stanley-calls-seagate-technology-holdings-stx-a-top-pick-1756185/",
+      "url": "https://www.marketcapwatch.com/company/seagate-marketcap",
       "query": "Seagate Technology Holdings plc major customers clients",
-      "snippet": "Seagate Technology Holdings Plc (NASDAQ:STX) is a holding company that develops, produces, and distributes data storage products and electronic data s"
+      "snippet": "Jun 24, 2026 · Company Profile About Seagate Technology Holdings plc Seagate Technology Holdings plc is a global leader in data storage technology and"
     }
   ]
 }

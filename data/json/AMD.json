@@ -11,11 +11,11 @@
     "INTC"
   ],
   "downstream": [
-    "MSFT",
-    "AMZN",
-    "GOOGL",
     "DELL",
-    "HPQ"
+    "HPQ",
+    "Lenovo Group",
+    "MSFT",
+    "SONY"
   ],
   "competitors": [
     "INTC",
@@ -26,12 +26,12 @@
   ],
   "key_products": [
     "Ryzen CPUs",
-    "EPYC server processors",
+    "EPYC CPUs",
     "Radeon GPUs",
-    "Radeon Instinct accelerators",
-    "AMD GPUs for gaming consoles"
+    "Instinct GPUs",
+    "Xilinx FPGAs"
   ],
-  "extracted_at": "2026-07-01 17:50:27",
+  "extracted_at": "2026-07-02 17:31:18",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/AMD-Suppliers",
+      "url": "https://www.britannica.com/money/Advanced-Micro-Devices-Inc",
       "query": "Advanced Micro Devices, Inc. suppliers manufacturers",
-      "snippet": "Jun 22, 2026 · Advanced Micro Devices Inc 's Comment on Supply Chain We rely on third-party wafer foundries to fabricate the silicon wafers for all of"
+      "snippet": "Advanced Micro Devices , Inc . ( AMD ) is an American semiconductor designer and global supplier of computing and graphics technologies used in data c"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://thepartsdirect.com/advancedmicrodevicesamd/distributors-and-vendors",
+      "url": "https://ir.amd.com/",
       "query": "Advanced Micro Devices, Inc. suppliers manufacturers",
-      "snippet": "144 Distributors & Vendors, 1 Locations associated to Advanced Micro Devices (AMD)"
+      "snippet": "Advanced Micro Devices , Inc . IR Overview. Investor Relations. AMD Completes Divestiture of ZT Systems Data Center Infrastructure Manufacturing Busin"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/AMD",
+      "query": "Advanced Micro Devices, Inc. major customers clients",
+      "snippet": "Effective July 1, 2014, AMD reorganized into two business groups: Computing and Graphics, which primarily includes desktop and notebook processors and"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://csimarket.com/stocks/AMD-Customers",
       "query": "Advanced Micro Devices, Inc. major customers clients",
-      "snippet": "Advanced Micro Devices Inc customers and markets, results by customer and performance relative to AMD, by company and industry - CSIMarket"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.marketscreener.com/quote/stock/AMD-ADVANCED-MICRO-DEVICE-179387659/finances-segments/",
-      "query": "Advanced Micro Devices, Inc. major customers clients",
-      "snippet": "5 days ago · Understand how activity and revenue gets distributed for AMD (Advanced Micro Devices ) (AMD). Ten-year segmentation history. The entire s"
+      "snippet": "Focus of this report: Advanced Micro Devices Inc ’ s corporate clients . For your research, we’ve provided 9 tables on Advanced Micro Devices Inc corp"
     }
   ]
 }

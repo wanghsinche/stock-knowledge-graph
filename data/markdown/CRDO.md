@@ -3,8 +3,8 @@ ticker: CRDO
 company: Credo Technology Group Holding Ltd
 sector: Technology
 industry: Semiconductors
-extracted_at: 2026-06-30 18:18:50
-last_updated: 2026-06-30
+extracted_at: 2026-07-02 17:41:00
+last_updated: 2026-07-02
 ---
 
 # CRDO - Credo Technology Group Holding Ltd
@@ -12,42 +12,46 @@ last_updated: 2026-06-30
 ## 基本信息
 
 - **所属行业**: Technology / Semiconductors
-- **提取时间**: 2026-06-30 18:18:50
+- **提取时间**: 2026-07-02 17:41:00
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Silicon wafer suppliers]]
-- [[Chemical and photoresist suppliers]]
-- [[Semiconductor equipment manufacturers]]
-- [[Metrology equipment suppliers]]
-- [[Cleanroom facility providers]]
+- [[TSM]]
+- [[005930.KS]]
+- [[GlobalFoundries]]
+- [[INTC]]
+- [[MU]]
 
 ### 下游客户
+- [[GOOGL]]
+- [[AMZN]]
+- [[MSFT]]
 - [[AAPL]]
-- [[QCOM]]
-- [[INTC]]
-- [[005930.KS]]
 - [[NVDA]]
 
 ### 竞争对手
-- [[GlobalFoundries Inc.]]
-- [[United Microelectronics Corp. (UMC)]]
-- [[Semiconductor Manufacturing International Corp. (SMIC)]]
-- [[Tower Semiconductor Ltd.]]
-- [[TSM]]
+- [[AVGO]]
+- [[MRVL]]
+- [[INTC]]
+- [[QCOM]]
+- [[Lattice Semiconductor]]
 
 ### 核心产品
-- [[Wafer fabrication services]]
-- [[Semiconductor packaging and assembly]]
-- [[Test and measurement services]]
-- [[Design and verification services]]
-- [[Advanced packaging solutions]]
+- [[High-speed serial interconnects]]
+- [[Silicon photonics solutions]]
+- [[High-speed connectivity for AI]]
+- [[Data center interconnects]]
+- [[High-bandwidth memory interfaces]]
 
 ## 数据来源
 
 - 
+- [Credo Technology Group Holding Ltd suppliers manufacturers](https://csimarket.com/stocks/news.php?code=CRDO&date=2023-06-24142518)
+- [Credo Technology Group Holding Ltd suppliers manufacturers](https://www.fool.com/earnings/call-transcripts/2026/03/02/credo-tech-crdo-q3-2026-earnings-call-transcript/)
+- [Credo Technology Group Holding Ltd major customers clients](https://finance.yahoo.com/quote/CRDO/)
+- [Credo Technology Group Holding Ltd major customers clients](https://credosemi.com/)
 
 ## 元数据
 
-- **更新日期**: 2026-06-30
+- **更新日期**: 2026-07-02

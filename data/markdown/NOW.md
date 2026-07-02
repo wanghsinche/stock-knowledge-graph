@@ -3,8 +3,8 @@ ticker: NOW
 company: ServiceNow, Inc.
 sector: Technology
 industry: Software - Application
-extracted_at: 2026-07-01 18:01:54
-last_updated: 2026-07-01
+extracted_at: 2026-07-02 17:40:45
+last_updated: 2026-07-02
 ---
 
 # NOW - ServiceNow, Inc.
@@ -12,46 +12,46 @@ last_updated: 2026-07-01
 ## 基本信息
 
 - **所属行业**: Technology / Software - Application
-- **提取时间**: 2026-07-01 18:01:54
+- **提取时间**: 2026-07-02 17:40:45
 
 ## 产业链关系
 
 ### 上游供应商
-- [[MSFT]]
 - [[AMZN]]
+- [[MSFT]]
 - [[GOOGL]]
 - [[ORCL]]
 - [[IBM]]
 
 ### 下游客户
-- [[Walmart]]
-- [[JPMorgan Chase]]
-- [[AT&T]]
-- [[General Motors]]
-- [[Bank of America]]
+- [[Large enterprises]]
+- [[Government agencies]]
+- [[Financial institutions]]
+- [[Retail companies]]
+- [[CAT]]
 
 ### 竞争对手
-- [[CRM]]
-- [[SAP]]
 - [[MSFT]]
-- [[ORCL]]
+- [[CRM]]
 - [[Workday]]
+- [[SAP SuccessFactors]]
+- [[ORCL]]
 
 ### 核心产品
 - [[ServiceNow Platform]]
-- [[IT Service Management (ITSM)]]
-- [[IT Operations Management (ITOM)]]
-- [[IT Business Management (ITBM)]]
-- [[Customer Service Management (CSM)]]
+- [[Integration Hub]]
+- [[Supplier Lifecycle Operations]]
+- [[Customer Service Management]]
+- [[IT Service Management]]
 
 ## 数据来源
 
 - [ServiceNow](https://en.wikipedia.org/wiki/ServiceNow,_Inc.)
-- [ServiceNow, Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/ServiceNow)
-- [ServiceNow, Inc. suppliers manufacturers](https://www.servicenow.com/company/supplier.html)
-- [ServiceNow, Inc. major customers clients](https://www.aventionmedia.com/technology-installed-base/servicenow/)
-- [ServiceNow, Inc. major customers clients](https://data.landbase.com/technology/servicenow/)
+- [ServiceNow, Inc. suppliers manufacturers](https://www.servicenow.com/)
+- [ServiceNow, Inc. suppliers manufacturers](https://www.g2.com/sellers/servicenow)
+- [ServiceNow, Inc. major customers clients](https://www.servicenow.com/)
+- [ServiceNow, Inc. major customers clients](https://destinykey.org/en/companies/servicenow)
 
 ## 元数据
 
-- **更新日期**: 2026-07-01
+- **更新日期**: 2026-07-02

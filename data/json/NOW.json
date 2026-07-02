@@ -4,34 +4,34 @@
   "sector": "Technology",
   "industry": "Software - Application",
   "upstream": [
-    "MSFT",
     "AMZN",
+    "MSFT",
     "GOOGL",
     "ORCL",
     "IBM"
   ],
   "downstream": [
-    "Walmart",
-    "JPMorgan Chase",
-    "AT&T",
-    "General Motors",
-    "Bank of America"
+    "Large enterprises",
+    "Government agencies",
+    "Financial institutions",
+    "Retail companies",
+    "CAT"
   ],
   "competitors": [
-    "CRM",
-    "SAP",
     "MSFT",
-    "ORCL",
-    "Workday"
+    "CRM",
+    "Workday",
+    "SAP SuccessFactors",
+    "ORCL"
   ],
   "key_products": [
     "ServiceNow Platform",
-    "IT Service Management (ITSM)",
-    "IT Operations Management (ITOM)",
-    "IT Business Management (ITBM)",
-    "Customer Service Management (CSM)"
+    "Integration Hub",
+    "Supplier Lifecycle Operations",
+    "Customer Service Management",
+    "IT Service Management"
   ],
-  "extracted_at": "2026-07-01 18:01:54",
+  "extracted_at": "2026-07-02 17:40:45",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/ServiceNow",
+      "url": "https://www.servicenow.com/",
       "query": "ServiceNow, Inc. suppliers manufacturers",
-      "snippet": "ServiceNow, Inc . is an American software company that supplies cloud computing platforms for the creation and management of automated business workfl"
+      "snippet": "Supplier Lifecycle Operations. Streamline supplier onboarding, collaboration, and performance management. ServiceNow EmployeeWorks. Stop chasing what "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.servicenow.com/company/supplier.html",
+      "url": "https://www.g2.com/sellers/servicenow",
       "query": "ServiceNow, Inc. suppliers manufacturers",
-      "snippet": "ServiceNow partners with capable and competitive suppliers who commit to diversity, sustainability, and best-in-class goods and services. Learn more h"
+      "snippet": "Profile Name ServiceNow Integration Hub ServiceNow Manufacturing Connected Workforce"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.aventionmedia.com/technology-installed-base/servicenow/",
+      "url": "https://www.servicenow.com/",
       "query": "ServiceNow, Inc. major customers clients",
-      "snippet": "Discover Avention Media’s accurate and customizable ServiceNow customers list. Our verified ServiceNow data helps you target key decision-makers and c"
+      "snippet": "Customer Service Management. Empower self- service , boost agent productivity, and speed up resolution. Strategic Portfolio Management.Learn how Servi"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://data.landbase.com/technology/servicenow/",
+      "url": "https://destinykey.org/en/companies/servicenow",
       "query": "ServiceNow, Inc. major customers clients",
-      "snippet": "Aug 17, 2025 · ServiceNow by ServiceNow, is a cloud-based platform designed for digital workflows. It’s commonly employed to automate and enhance vari"
+      "snippet": "ServiceNow entered the public market with a chart where the Sun in Cancer in the 11th house — not about aggressive conquest, but about cultivating com"
     }
   ]
 }

@@ -1,18 +1,18 @@
 ---
 ticker: CRWV
 company: CoreWeave, Inc.
-sector: Technology
-industry: Software - Infrastructure
-extracted_at: 2026-07-01 17:54:45
-last_updated: 2026-07-01
+sector: Technology / Software - Infrastructure
+industry: AI Cloud Computing
+extracted_at: 2026-07-02 17:36:54
+last_updated: 2026-07-02
 ---
 
 # CRWV - CoreWeave, Inc.
 
 ## 基本信息
 
-- **所属行业**: Technology / Software - Infrastructure
-- **提取时间**: 2026-07-01 17:54:45
+- **所属行业**: Technology / Software - Infrastructure / AI Cloud Computing
+- **提取时间**: 2026-07-02 17:36:54
 
 ## 产业链关系
 
@@ -20,38 +20,38 @@ last_updated: 2026-07-01
 - [[NVDA]]
 - [[AMD]]
 - [[INTC]]
-- [[TSM]]
-- [[QCOM]]
+- [[DELL]]
+- [[HPQ]]
 
 ### 下游客户
-- [[AI developers]]
-- [[Enterprise AI teams]]
-- [[Start‑ups in machine learning]]
-- [[Research institutions]]
-- [[Gaming companies]]
+- [[META]]
+- [[GOOGL]]
+- [[MSFT]]
+- [[AMZN]]
+- [[IBM]]
 
 ### 竞争对手
+- [[NVDA]]
 - [[AMZN]]
 - [[MSFT]]
 - [[GOOGL]]
-- [[NVDA]]
 - [[IBM]]
 
 ### 核心产品
-- [[GPU‑based AI compute cloud]]
-- [[Chip management software]]
-- [[GPU‑as‑a‑Service (GPUaaS)]]
-- [[AI workload orchestration]]
-- [[Custom GPU cluster provisioning]]
+- [[GPU-based cloud infrastructure]]
+- [[GPU management software]]
+- [[AI training services]]
+- [[GPU virtualization]]
+- [[High-performance computing instances]]
 
 ## 数据来源
 
 - [CoreWeave](https://en.wikipedia.org/wiki/CoreWeave,_Inc.)
 - [CoreWeave, Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/CoreWeave)
-- [CoreWeave, Inc. suppliers manufacturers](https://www.businesswire.com/news/home/20260629000491/en/CoreWeave-ARIA-Launches-as-an-AI-Research-and-Iteration-Agent-with-autonomous-research-and-collaborative-intelligence)
-- [CoreWeave, Inc. major customers clients](https://www.coreweave.com/case-studies)
-- [CoreWeave, Inc. major customers clients](https://www.appsruntheworld.com/customers-database/products/view/coreweave-compute-services)
+- [CoreWeave, Inc. suppliers manufacturers](https://finance.yahoo.com/technology/ai/articles/coreweave-nebius-shares-slide-meta-141141929.html)
+- [CoreWeave, Inc. major customers clients](https://en.wikipedia.org/wiki/CoreWeave)
+- [CoreWeave, Inc. major customers clients](https://finance.yahoo.com/technology/ai/articles/coreweave-nebius-shares-slide-meta-141141929.html)
 
 ## 元数据
 
-- **更新日期**: 2026-07-01
+- **更新日期**: 2026-07-02

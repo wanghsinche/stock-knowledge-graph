@@ -4,34 +4,34 @@
   "sector": "Technology",
   "industry": "Software - Infrastructure",
   "upstream": [
-    "INTC",
-    "AMD",
     "DELL",
     "HPQ",
-    "CSCO"
+    "IBM",
+    "CSCO",
+    "INTC"
   ],
   "downstream": [
-    "Walmart",
+    "US Department of Defense",
     "JPMorgan Chase",
-    "Bank of America",
+    "Walmart",
     "AT&T",
     "Verizon"
   ],
   "competitors": [
     "MSFT",
     "AMZN",
+    "GOOGL",
     "IBM",
-    "SAP",
-    "GOOGL"
+    "SAP"
   ],
   "key_products": [
     "Oracle Database",
     "Oracle Cloud Infrastructure",
-    "Oracle E-Business Suite",
-    "Oracle Fusion Applications",
-    "Oracle Autonomous Database"
+    "Oracle Autonomous Database",
+    "Oracle ERP Cloud",
+    "Oracle Analytics Cloud"
   ],
-  "extracted_at": "2026-07-01 17:55:57",
+  "extracted_at": "2026-07-02 17:33:40",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.oracle.com/corporate/suppliers/",
+      "url": "https://adjkjc.github.io/en.wikipedia.org/wiki/Oracle_Corporation.html",
       "query": "Oracle Corporation suppliers manufacturers",
-      "snippet": "Doing Business with Oracle Oracle iSupplier Portal (iSP) is a secured self-service tool, which provides Oracle 's suppliers with the ability to use a "
+      "snippet": "Oracle Corporation is an American multinational computer technology corporation headquartered in Redwood Shores, California. The company sells databas"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/ORCL-Suppliers",
+      "url": "https://en.wikipedia.org/wiki/List_of_largest_manufacturing_companies_by_revenue",
       "query": "Oracle Corporation suppliers manufacturers",
-      "snippet": "Jun 22, 2026 · Oracle 's Suppliers recorded an increase in sales by 26.11 % year on year in Q1 2026, sequentially sales grew by 13.04 %, Oracle record"
+      "snippet": "The following is a list of the world's largest manufacturing companies, ordered by revenue in millions of U.S. dollars according to the Fortune Global"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/ORCL-Customers",
+      "url": "https://destinykey.org/en/companies/oracle-corp",
       "query": "Oracle Corporation major customers clients",
-      "snippet": "Jun 24, 2026 · By offering our partners access to our product offerings, educational information, technical services, marketing and sales support, the"
+      "snippet": "Oracle Corporation didn't just go public—it burst onto the scene ready for war, encoding its DNA in a water stellium of Pisces and Aries in the 11th h"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.thomsondata.com/customer-base/oracle.php",
+      "url": "https://www.oracle.com/",
       "query": "Oracle Corporation major customers clients",
-      "snippet": "Technographic Data of Companies That Use Oracle Oracle Customers List by Industry Different industries use Oracle technology for their business . Look"
+      "snippet": "Oracle offers a comprehensive and fully integrated stack of cloud applications and cloud platform services.."
     }
   ]
 }

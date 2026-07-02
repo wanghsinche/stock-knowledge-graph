@@ -8,14 +8,14 @@
     "005930.KS",
     "GlobalFoundries",
     "UMC",
-    "SMIC"
+    "MU"
   ],
   "downstream": [
-    "MSFT",
-    "AMZN",
-    "GOOGL",
-    "SONY",
-    "TSLA"
+    "DELL",
+    "HPQ",
+    "Lenovo",
+    "AAPL",
+    "MSFT"
   ],
   "competitors": [
     "AMD",
@@ -25,13 +25,13 @@
     "AAPL"
   ],
   "key_products": [
-    "GeForce RTX GPUs",
-    "Quadro RTX GPUs",
-    "Tesla AI accelerators",
+    "GeForce GPUs",
+    "Tesla GPUs",
+    "Quadro GPUs",
     "Jetson SoCs",
-    "CUDA software platform"
+    "CUDA API"
   ],
-  "extracted_at": "2026-07-01 17:46:51",
+  "extracted_at": "2026-07-02 17:28:47",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,21 +41,21 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.suppliersmap.com/nvidia",
+      "url": "https://en.wikipedia.org/wiki/Nvidia",
       "query": "NVIDIA Corporation suppliers manufacturers",
-      "snippet": "Nvidia Nvidia works with leading semiconductor manufacturers for its GPU products, including TSMC for advanced chip fabrication, Samsung and Micron fo"
+      "snippet": "2 days ago - In August 2025, Nvidia ordered suppliers to halt production of its H20 AI chip following Chinese government directives warning domestic c"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/NVDA-Suppliers",
+      "url": "https://csimarket.com/stocks/suppliers_glance.php?code=NVDA",
       "query": "NVIDIA Corporation suppliers manufacturers",
-      "snippet": "Jun 22, 2026 · Nvidia 's Comment on Supply Chain We utilize a fabless and contracting manufacturing strategy, whereby we employ and partner with key s"
+      "snippet": "1 week ago - Nvidia supply chain, list and performance of Nvidias' suppliers - CSIMarket"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://csimarket.com/stocks/NVDA-Customers",
       "query": "NVIDIA Corporation major customers clients",
-      "snippet": "Nvidia 's Comment on Sales, Marketing and Customers Our worldwide sales and marketing strategy is key to our objective to become the leading supplier "
+      "snippet": "1 day ago · Nvidia customers and markets, results by customer and performance relative to NVDA, by company and industry - CSIMarket"
     },
     {
       "source": "DuckDuckGo",
