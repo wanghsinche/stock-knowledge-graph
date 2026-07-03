@@ -3,8 +3,8 @@ ticker: IREN
 company: IREN Limited
 sector: Financial Services
 industry: Capital Markets
-extracted_at: 2026-07-02 17:38:38
-last_updated: 2026-07-02
+extracted_at: 2026-07-03 17:54:53
+last_updated: 2026-07-03
 ---
 
 # IREN - IREN Limited
@@ -12,46 +12,42 @@ last_updated: 2026-07-02
 ## 基本信息
 
 - **所属行业**: Financial Services / Capital Markets
-- **提取时间**: 2026-07-02 17:38:38
+- **提取时间**: 2026-07-03 17:54:53
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Hardware suppliers]]
-- [[Data center equipment manufacturers]]
-- [[Cloud service providers]]
-- [[Software vendors]]
-- [[CAT]]
+- [[Financial technology providers]]
+- [[Data analytics firms]]
+- [[Regulatory bodies]]
+- [[Clearing houses]]
+- [[Custodian banks]]
 
 ### 下游客户
-- [[Investment banks]]
-- [[Asset management firms]]
+- [[Corporate clients]]
+- [[Institutional investors]]
+- [[Retail investors]]
 - [[Insurance companies]]
 - [[Pension funds]]
-- [[High net worth individuals]]
 
 ### 竞争对手
-- [[Goldman Sachs]]
-- [[Morgan Stanley]]
-- [[JP Morgan]]
-- [[Citigroup]]
-- [[Bank of America]]
+- [[Commonwealth Bank]]
+- [[Westpac]]
+- [[ANZ]]
+- [[National Australia Bank]]
+- [[Macquarie Group]]
 
 ### 核心产品
-- [[Capital market services]]
-- [[Investment banking]]
+- [[Capital market advisory]]
+- [[Securities underwriting]]
+- [[Trading platform]]
 - [[Asset management]]
 - [[Wealth management]]
-- [[Trading platforms]]
 
 ## 数据来源
 
 - 
-- [IREN Limited suppliers manufacturers](https://csimarket.com/stocks/suppliers_glance.php?code=IREN)
-- [IREN Limited suppliers manufacturers](https://www.iren.com/)
-- [IREN Limited major customers clients](https://www.investing.com/equities/iris-energy)
-- [IREN Limited major customers clients](https://www.tradingview.com/symbols/NASDAQ-IREN/)
 
 ## 元数据
 
-- **更新日期**: 2026-07-02
+- **更新日期**: 2026-07-03

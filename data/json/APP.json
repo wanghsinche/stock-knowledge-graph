@@ -4,64 +4,40 @@
   "sector": "Communication Services",
   "industry": "Advertising Agencies",
   "upstream": [
+    "AMZN",
     "GOOGL",
-    "Data analytics and attribution vendors",
-    "Mobile operating system platforms (iOS, Android)",
-    "Payment processing companies",
-    "Ad tech infrastructure providers"
+    "MSFT",
+    "Unity Technologies",
+    "AAPL"
   ],
   "downstream": [
     "Mobile game developers",
-    "App developers across various verticals",
-    "Digital marketing agencies",
-    "Consumer brands seeking mobile reach",
-    "Tech companies integrating in‑app advertising"
+    "Mobile app developers",
+    "Digital advertisers",
+    "Mobile publishers",
+    "Marketing agencies"
   ],
   "competitors": [
     "Unity Ads",
-    "GOOGL",
-    "Facebook Audience Network",
     "Vungle",
-    "ironSource"
+    "AdColony",
+    "IronSource",
+    "GOOGL"
   ],
   "key_products": [
-    "Mobile advertising platform",
-    "App monetization SDK",
-    "In‑app video advertising",
-    "App analytics and attribution tools",
-    "Audience targeting and optimization services"
+    "AppLovin MAX (ad mediation)",
+    "AppLovin Studio",
+    "AppLovin SDK",
+    "AppLovin Data Platform",
+    "AppLovin Analytics"
   ],
-  "extracted_at": "2026-07-02 17:37:54",
+  "extracted_at": "2026-07-03 17:43:40",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "",
       "title": "",
       "snippet": ""
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/AppLovin",
-      "query": "AppLovin Corporation suppliers manufacturers",
-      "snippet": "On April 15, 2021, AppLovin became a public company, trading on the Nasdaq under the ticker APP; it began trading at US$70 per share, with a total val"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/APP-Suppliers",
-      "query": "AppLovin Corporation suppliers manufacturers",
-      "snippet": "For your research, we’ve provided nine additional tables on Applovin Corporation ’ s suppliers . You can find them in the navigation menu under Suppli"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.applovin.com/",
-      "query": "AppLovin Corporation major customers clients",
-      "snippet": "Let's get you in front of a billion customers . We built AppLovin for businesses like yours. Jewelry, furniture, fitness subscriptions, word games. Wh"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.bitget.com/wiki/app-loving-stock",
-      "query": "AppLovin Corporation major customers clients",
-      "snippet": "app loving stock commonly refers to AppLovin Corporation , a U.S.-based advertising technology and mobile software company. AppLovin was founded in 20"
     }
   ]
 }

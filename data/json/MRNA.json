@@ -1,67 +1,41 @@
 {
   "ticker": "MRNA",
   "company_name": "Moderna, Inc.",
-  "sector": "Healthcare",
+  "sector": "Healthcare / Biotechnology",
   "industry": "Biotechnology",
   "upstream": [
-    "Cytiva (bioprocessing equipment)",
-    "Thermo Fisher Scientific (reagents)",
-    "Merck KGaA (cell culture media)",
-    "Boehringer Ingelheim (contract manufacturing)",
-    "Sangamo Therapeutics (gene editing tools)"
+    "Nucleic acid suppliers",
+    "Lipid nanoparticle manufacturers",
+    "Cell culture media suppliers",
+    "Enzyme suppliers",
+    "GMP manufacturing facilities"
   ],
   "downstream": [
-    "U.S. Department of Health and Human Services (CDC)",
-    "European Medicines Agency (EMA)",
-    "National Institutes of Health (NIH)",
-    "Pfizer (partner for COVID‑19 vaccine distribution)",
-    "United Nations (UNICEF)"
+    "Governments and public health agencies",
+    "Hospitals and healthcare providers",
+    "Pharmaceutical partners",
+    "Vaccine recipients",
+    "Research institutions"
   ],
   "competitors": [
+    "Pfizer",
     "BioNTech",
     "CureVac",
     "Translate Bio",
-    "Arcturus Therapeutics",
-    "Pfizer (mRNA platform)"
+    "Arcturus Therapeutics"
   ],
   "key_products": [
-    "Spikevax (COVID‑19 vaccine)",
     "mRNA‑1273 (COVID‑19 vaccine)",
     "mRNA‑4157 (cancer vaccine)",
-    "mRNA‑3704 (influenza vaccine)",
-    "mRNA‑1245 (influenza vaccine)"
+    "mRNA‑3704 (influenza vaccine)"
   ],
-  "extracted_at": "2026-07-02 17:42:02",
+  "extracted_at": "2026-07-03 17:59:23",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "",
       "title": "",
       "snippet": ""
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/MRNA-Suppliers",
-      "query": "Moderna, Inc. suppliers manufacturers",
-      "snippet": "Moderna Inc supply chain, list and performance of Moderna Incs ' suppliers - CSIMarket."
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://investors.modernatx.com/",
-      "query": "Moderna, Inc. suppliers manufacturers",
-      "snippet": "- Moderna ’s Pipeline: Development Programs. Click here to learn more."
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/MRNA-Customers",
-      "query": "Moderna, Inc. major customers clients",
-      "snippet": "4 days ago · For your research, we’ve provided 9 tables on Moderna Inc corporate clients . You can find them in the navigation menu under Customers & "
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://portersfiveforce.com/blogs/target-market/modernatx",
-      "query": "Moderna, Inc. major customers clients",
-      "snippet": "Mar 19, 2026 · Moderna ' s customers cluster by age (older adults and high-risk groups), payer type (public and private insurers), and geography (Nort"
     }
   ]
 }

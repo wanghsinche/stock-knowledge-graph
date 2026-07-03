@@ -5,63 +5,39 @@
   "industry": "Internet Content & Information",
   "upstream": [
     "NVDA",
-    "INTC",
     "AMD",
-    "CSCO",
-    "DELL"
+    "INTC",
+    "AMZN",
+    "MSFT"
   ],
   "downstream": [
-    "Large enterprises",
-    "Cloud service providers",
-    "AI startups",
-    "Research institutions",
-    "Government agencies"
+    "GOOGL",
+    "AMZN",
+    "MSFT",
+    "IBM",
+    "ORCL"
   ],
   "competitors": [
-    "OpenAI",
-    "Anthropic",
-    "Cohere",
+    "NVDA",
+    "AMD",
+    "INTC",
     "GOOGL",
-    "AMZN"
+    "AWS AI"
   ],
   "key_products": [
-    "AI infrastructure platform",
-    "Toloka data labeling platform",
-    "Clickhouse analytics platform",
-    "Avride AI services",
-    "TripleTen AI solutions"
+    "Nebius AI Platform",
+    "Avride",
+    "TripleTen",
+    "Toloka",
+    "Clickhouse"
   ],
-  "extracted_at": "2026-07-02 17:33:14",
+  "extracted_at": "2026-07-03 17:30:10",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/NBIS",
       "title": "Nebius Group",
       "snippet": "Nebius Group N.V., headquartered in Amsterdam, is a technology company that provides artificial intelligence infrastructure. The company also owns Avride and TripleTen, as well as stakes in Toloka and"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/suppliers_glance.php?code=NBIS",
-      "query": "NBIS suppliers manufacturers",
-      "snippet": "NBIS 's Suppliers Management Effectiveness. NBIS 's Competitors Results. NBIS 's vs. Suppliers , Data. (Revenue and Income for Trailing 12 Months, in "
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/NBIS/",
-      "query": "NBIS suppliers manufacturers",
-      "snippet": "Find the latest Nebius Group N.V. ( NBIS ) stock quote, history, news and other vital information to help you with your stock trading and investing."
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.nasdaq.com/market-activity/stocks/nbis",
-      "query": "NBIS major customers clients",
-      "snippet": "Nasdaq Listed ETFs where NBIS is a top 10 holding*. Symbol.Data Disclaimer: The Nasdaq Indices and the Major Indices are delayed at least 1 minute. Re"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.tradingview.com/symbols/NASDAQ-NBIS/ideas/page-2/",
-      "query": "NBIS major customers clients",
-      "snippet": "NBIS setup bullish I have added another 100 shares in the last few days we we dipped back into the demand zone and teal trend."
     }
   ]
 }

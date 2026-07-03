@@ -4,18 +4,18 @@
   "sector": "Communication Services",
   "industry": "Internet Content & Information",
   "upstream": [
-    "TSM",
-    "005930.KS",
-    "INTC",
     "NVDA",
-    "CSCO"
+    "QCOM",
+    "DELL",
+    "HPQ",
+    "AMZN"
   ],
   "downstream": [
-    "Coca‑Cola",
-    "Nike",
-    "Procter & Gamble",
-    "McDonald’s",
-    "AMZN"
+    "Advertisers",
+    "Small businesses",
+    "App developers",
+    "Content creators",
+    "Media companies"
   ],
   "competitors": [
     "GOOGL",
@@ -31,37 +31,13 @@
     "Messenger",
     "Meta Ads"
   ],
-  "extracted_at": "2026-07-02 17:31:32",
+  "extracted_at": "2026-07-03 17:20:42",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Meta_Platforms,_Inc.",
       "title": "Meta Platforms",
       "snippet": "Meta Platforms, Inc. is an American multinational technology company headquartered in Menlo Park, California. Meta owns and operates several prominent social media platforms and communication services"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/META-Suppliers",
-      "query": "Meta Platforms, Inc. suppliers manufacturers",
-      "snippet": "Jun 22, 2026 · Meta Platforms Inc 's Suppliers recorded an increase in sales by 14.3 % year on year in Q1 2026, sequentially sales grew by 13.44 %, Me"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://evidinvest.com/supply-chain/META",
-      "query": "Meta Platforms, Inc. suppliers manufacturers",
-      "snippet": "Who supplies Meta Platforms and who buys from it? Mapped suppliers , customers, partners, and competitors of META, every relationship anchored to SEC "
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Meta_Platforms",
-      "query": "Meta Platforms, Inc. major customers clients",
-      "snippet": "Meta Platforms , Inc . (doing business as Meta) is an American multinational technology company headquartered in Menlo Park, California. Meta owns and"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/META-Customers",
-      "query": "Meta Platforms, Inc. major customers clients",
-      "snippet": "For your research, we’ve provided 9 tables on Meta Platforms Inc corporate clients . You can find them in the navigation menu under Customers & Market"
     }
   ]
 }

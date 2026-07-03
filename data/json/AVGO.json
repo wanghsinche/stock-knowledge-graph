@@ -4,64 +4,40 @@
   "sector": "Technology",
   "industry": "Semiconductors",
   "upstream": [
-    "TSM",
-    "005930.KS",
-    "GlobalFoundries",
-    "UMC",
-    "ASE Technology Holding"
+    "ASML",
+    "AMAT",
+    "LRCX",
+    "Tokyo Electron",
+    "KLA Corporation"
   ],
   "downstream": [
-    "CSCO",
-    "DELL",
-    "HPQ",
     "AMZN",
-    "MSFT"
+    "MSFT",
+    "GOOGL",
+    "CSCO",
+    "DELL"
   ],
   "competitors": [
-    "QCOM",
     "INTC",
+    "QCOM",
     "NVDA",
-    "MediaTek",
-    "TXN"
+    "MRVL",
+    "AMD"
   ],
   "key_products": [
-    "RF transceivers",
-    "Ethernet controllers",
-    "Wi‑Fi chips",
-    "Broadband modems",
-    "Storage controllers"
+    "Broadcom BCM Ethernet controllers",
+    "Broadcom Wi‑Fi chips",
+    "Broadcom broadband modems",
+    "Broadcom storage controllers",
+    "Broadcom network infrastructure software"
   ],
-  "extracted_at": "2026-07-02 17:33:02",
+  "extracted_at": "2026-07-03 17:23:18",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Broadcom_Inc.",
       "title": "Broadcom",
       "snippet": "Broadcom Inc. is an American multinational designer, developer, manufacturer, and global supplier of a wide range of semiconductor and infrastructure software products. Broadcom's product offerings se"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Broadcom",
-      "query": "Broadcom Inc. suppliers manufacturers",
-      "snippet": "Broadcom Inc . is an American multinational designer, developer, manufacturer , and global supplier of a wide range of semiconductor and infrastructur"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/AVGO-Suppliers",
-      "query": "Broadcom Inc. suppliers manufacturers",
-      "snippet": "Jun 22, 2026 · Broadcom Inc supply chain, list and performance of Broadcom Incs ' suppliers - CSIMarket"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.broadcom.com/",
-      "query": "Broadcom Inc. major customers clients",
-      "snippet": "Broadcom delivers semiconductors and infrastructure software for global enterprises’ most complex, mission-critical needs."
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://en.oninvest.com/article/broadcom-has-improved-its-ai-revenue-outlook-it-has-a-new-major-customer",
-      "query": "Broadcom Inc. major customers clients",
-      "snippet": "In Broadcom 's report, investors were looking for confirmation that technology spending is not declining. Last week, Nvidia - a major AI beneficiary a"
     }
   ]
 }

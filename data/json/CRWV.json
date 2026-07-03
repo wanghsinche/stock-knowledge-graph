@@ -1,67 +1,43 @@
 {
   "ticker": "CRWV",
   "company_name": "CoreWeave, Inc.",
-  "sector": "Technology / Software - Infrastructure",
-  "industry": "AI Cloud Computing",
+  "sector": "Technology",
+  "industry": "Software - Infrastructure",
   "upstream": [
     "NVDA",
     "AMD",
     "INTC",
-    "DELL",
-    "HPQ"
+    "TSM",
+    "005930.KS"
   ],
   "downstream": [
-    "META",
-    "GOOGL",
-    "MSFT",
-    "AMZN",
-    "IBM"
+    "AI developers",
+    "Enterprise AI teams",
+    "Research institutions",
+    "Startups",
+    "Large tech companies"
   ],
   "competitors": [
-    "NVDA",
-    "AMZN",
-    "MSFT",
+    "AWS EC2 P3/P4",
     "GOOGL",
-    "IBM"
+    "MSFT",
+    "IBM",
+    "Paperspace"
   ],
   "key_products": [
-    "GPU-based cloud infrastructure",
-    "GPU management software",
-    "AI training services",
-    "GPU virtualization",
-    "High-performance computing instances"
+    "GPU cloud infrastructure",
+    "GPU instances",
+    "Chip management software",
+    "AI workload orchestration",
+    "GPU virtualization"
   ],
-  "extracted_at": "2026-07-02 17:36:54",
+  "extracted_at": "2026-07-03 17:48:01",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/CoreWeave,_Inc.",
       "title": "CoreWeave",
       "snippet": "CoreWeave, Inc. is an American artificial intelligence (AI) cloud-computing company based in Livingston, New Jersey. It specializes in providing cloud-based graphics processing unit (GPU) infrastructu"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/CoreWeave",
-      "query": "CoreWeave, Inc. suppliers manufacturers",
-      "snippet": "CoreWeave , Inc . is an American artificial intelligence cloud-computing company based in Livingston, New Jersey."
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/technology/ai/articles/coreweave-nebius-shares-slide-meta-141141929.html",
-      "query": "CoreWeave, Inc. suppliers manufacturers",
-      "snippet": "Meta's reported plans weigh on AI infrastructure providers. Shares of CoreWeave (NASDAQ:CRWV) and Nebius Group (NASDAQ:NBIS) fell more than 6% on Wedn"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/CoreWeave",
-      "query": "CoreWeave, Inc. major customers clients",
-      "snippet": "CoreWeave , Inc . is an American artificial intelligence cloud-computing company based in Livingston, New Jersey. It specializes in providing cloud-ba"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/technology/ai/articles/coreweave-nebius-shares-slide-meta-141141929.html",
-      "query": "CoreWeave, Inc. major customers clients",
-      "snippet": "Shares of CoreWeave (NASDAQ:CRWV) and Nebius Group (NASDAQ:NBIS) fell more than 6% on Wednesday after a Bloomberg report suggested that Meta Platforms"
     }
   ]
 }

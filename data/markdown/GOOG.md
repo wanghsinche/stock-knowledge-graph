@@ -3,8 +3,8 @@ ticker: GOOG
 company: Alphabet Inc.
 sector: Communication Services
 industry: Internet Content & Information
-extracted_at: 2026-07-02 17:33:56
-last_updated: 2026-07-02
+extracted_at: 2026-07-03 17:29:31
+last_updated: 2026-07-03
 ---
 
 # GOOG - Alphabet Inc.
@@ -12,22 +12,22 @@ last_updated: 2026-07-02
 ## 基本信息
 
 - **所属行业**: Communication Services / Internet Content & Information
-- **提取时间**: 2026-07-02 17:33:56
+- **提取时间**: 2026-07-03 17:29:31
 
 ## 产业链关系
 
 ### 上游供应商
-- [[INTC]]
 - [[NVDA]]
-- [[QCOM]]
-- [[005930.KS]]
-- [[TSM]]
+- [[DELL]]
+- [[MSFT]]
+- [[CSCO]]
+- [[ORCL]]
 
 ### 下游客户
-- [[Advertisers]]
-- [[Android OEMs]]
-- [[GOOGL]]
+- [[Advertisers (e.g., global brands)]]
+- [[Android device manufacturers]]
 - [[YouTube content creators]]
+- [[GOOGL]]
 - [[GOOGL]]
 
 ### 竞争对手
@@ -35,23 +35,19 @@ last_updated: 2026-07-02
 - [[AMZN]]
 - [[META]]
 - [[AAPL]]
-- [[IBM]]
+- [[NFLX]]
 
 ### 核心产品
 - [[Google Search]]
 - [[YouTube]]
-- [[Google Ads]]
 - [[Google Cloud Platform]]
 - [[Android OS]]
+- [[Google Ads]]
 
 ## 数据来源
 
 - [Alphabet Inc.](https://en.wikipedia.org/wiki/Alphabet_Inc.)
-- [Alphabet Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/Alphabet_Inc.)
-- [Alphabet Inc. suppliers manufacturers](https://csimarket.com/stocks/GOOG-Suppliers)
-- [Alphabet Inc. major customers clients](https://en.wikipedia.org/wiki/Alphabet_Inc.)
-- [Alphabet Inc. major customers clients](https://www.bloomberg.com/news/articles/2026-07-01/alphabet-s-2-trillion-gain-turns-rock-star-into-question-mark)
 
 ## 元数据
 
-- **更新日期**: 2026-07-02
+- **更新日期**: 2026-07-03

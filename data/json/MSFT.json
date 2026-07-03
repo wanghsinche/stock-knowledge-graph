@@ -7,15 +7,15 @@
     "INTC",
     "AMD",
     "NVDA",
-    "DELL",
-    "HPQ"
+    "QCOM",
+    "MSFT"
   ],
   "downstream": [
-    "Enterprises (e.g., banks, healthcare)",
-    "Government agencies",
+    "Enterprise customers (e.g., banks, government agencies)",
     "DELL",
-    "Consumers (individuals)",
-    "Cloud customers (e.g., Walmart, Coca‑Cola)"
+    "Consumer users of Windows and Office",
+    "Gaming studios using Xbox Live",
+    "Cloud service users of Azure"
   ],
   "competitors": [
     "AAPL",
@@ -26,42 +26,18 @@
   ],
   "key_products": [
     "Windows operating system",
-    "Microsoft Office",
-    "Microsoft Azure",
-    "Microsoft Teams",
-    "Xbox"
+    "Microsoft Office suite",
+    "Azure cloud platform",
+    "Surface hardware line",
+    "Xbox gaming console"
   ],
-  "extracted_at": "2026-07-02 17:30:37",
+  "extracted_at": "2026-07-03 17:17:26",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Microsoft_Corporation",
       "title": "Microsoft",
       "snippet": "Microsoft Corporation is an American multinational technology company headquartered in Redmond, Washington. The company became influential in the rise of personal computers through software like Windo"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Microsoft",
-      "query": "Microsoft Corporation suppliers manufacturers",
-      "snippet": "Microsoft Corporation is an American multinational technology company headquartered in Redmond, Washington."
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/suppliers_glance.php?code=MSFT",
-      "query": "Microsoft Corporation suppliers manufacturers",
-      "snippet": "News about Microsoft Corporation Contracts. Microsoft 's Comment on Supply Chain. We develop most of our products and services internally through four"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Microsoft",
-      "query": "Microsoft Corporation major customers clients",
-      "snippet": "Microsoft Corporation is an American multinational technology company headquartered in Redmond, Washington."
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://businessaccount.microsoft.com/",
-      "query": "Microsoft Corporation major customers clients",
-      "snippet": "Business Center. Sign In. For customers ."
     }
   ]
 }

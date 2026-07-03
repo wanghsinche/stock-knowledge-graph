@@ -2,12 +2,36 @@
   "ticker": "GLW",
   "company_name": "Corning Incorporated",
   "sector": "Technology",
-  "industry": "Electronic Components",
-  "upstream": [],
-  "downstream": [],
-  "competitors": [],
-  "key_products": [],
-  "extracted_at": "2026-07-02 17:34:39",
+  "industry": "Electronic Components / Advanced Optics",
+  "upstream": [
+    "Silica sand suppliers",
+    "Chemical feedstock manufacturers",
+    "Glass furnace equipment suppliers",
+    "Precision glass forming machinery",
+    "Specialty coating material providers"
+  ],
+  "downstream": [
+    "CSCO",
+    "INTC",
+    "Aerospace and defense contractors (e.g., Lockheed Martin, Boeing)",
+    "Medical imaging device makers (e.g., GE Healthcare, Siemens)",
+    "Automotive electronics suppliers (e.g., Bosch, Continental)"
+  ],
+  "competitors": [
+    "Lumentum Holdings",
+    "II-VI Incorporated",
+    "Coherent, Inc.",
+    "NKT Photonics",
+    "Trumpf GmbH + Co. KG"
+  ],
+  "key_products": [
+    "Optical fiber and fiber‑optic cable",
+    "Specialty glass substrates for electronics",
+    "High‑performance glass for aerospace and defense",
+    "Optical components for medical imaging",
+    "Photonic devices and laser delivery systems"
+  ],
+  "extracted_at": "2026-07-03 17:35:41",
   "sources": [
     {
       "source": "Wikipedia",
@@ -18,14 +42,14 @@
     {
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Corning_Inc.",
-      "query": "Corning Incorporated suppliers manufacturers",
-      "snippet": "As of 2014, Corning had five major business sectors: display technologies, environmental technologies, life sciences, optical communications, and spec"
+      "query": "Corning Incorporated competitors alternatives",
+      "snippet": "Corning Incorporated is an American multinational technology company specializing in glass, ceramics, and related materials and technologies including"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.corning.com/",
-      "query": "Corning Incorporated suppliers manufacturers",
-      "snippet": "Corning Incorporated is a global-leading innovator in materials science, with 170 years of life-changing inventions and category-defining products."
+      "url": "https://ru.wikipedia.org/wiki/Corning_Inc.",
+      "query": "Corning Incorporated competitors alternatives",
+      "snippet": "Corning Incorporated — американская компания, специализирующаяся на производстве специальных стекол, керамики и связанных с ней материалов и технологи"
     }
   ]
 }

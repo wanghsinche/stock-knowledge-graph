@@ -4,11 +4,11 @@
   "sector": "Technology",
   "industry": "Computer Hardware",
   "upstream": [
-    "INTC",
-    "005930.KS",
     "MU",
-    "Toshiba Memory",
-    "WDC"
+    "005930.KS",
+    "SK Hynix (semiconductor memory)",
+    "TDK (magnetic materials)",
+    "Panasonic (electronic components)"
   ],
   "downstream": [
     "DELL",
@@ -21,47 +21,23 @@
     "WDC",
     "Toshiba (Kioxia)",
     "005930.KS",
-    "IBM",
+    "INTC",
     "MU"
   ],
   "key_products": [
-    "Hard Disk Drives",
-    "Solid State Drives",
-    "Enterprise Storage Solutions",
-    "NAS Drives",
-    "External Storage Devices"
+    "Barracuda HDD",
+    "IronWolf HDD",
+    "Exos HDD",
+    "SkyHawk HDD",
+    "Seagate SSD"
   ],
-  "extracted_at": "2026-07-02 17:35:08",
+  "extracted_at": "2026-07-03 17:30:58",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "",
       "title": "",
       "snippet": ""
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "http://www.seagate.com/",
-      "query": "Seagate Technology Holdings plc suppliers manufacturers",
-      "snippet": "Seagate Technology Holdings Plc ."
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.linkedin.com/company/seagate-technology",
-      "query": "Seagate Technology Holdings plc suppliers manufacturers",
-      "snippet": "Seagate Technology . Computer Hardware Manufacturing . Fremont, CA 301,869 followers. Unleash your data’s value with storage that keeps AI running 24/"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/STX-Customers",
-      "query": "Seagate Technology Holdings plc major customers clients",
-      "snippet": "1 day ago · Seagate Technology Holdings Plc 's Comment on Sales, Marketing and Customers We sell our products to major OEMs, distributors and retailer"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.marketcapwatch.com/company/seagate-marketcap",
-      "query": "Seagate Technology Holdings plc major customers clients",
-      "snippet": "Jun 24, 2026 · Company Profile About Seagate Technology Holdings plc Seagate Technology Holdings plc is a global leader in data storage technology and"
     }
   ]
 }

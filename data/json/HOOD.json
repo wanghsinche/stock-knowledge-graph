@@ -4,64 +4,40 @@
   "sector": "Financial Services",
   "industry": "Capital Markets",
   "upstream": [
-    "GOOGL",
-    "Market data vendors (e.g., Bloomberg, Refinitiv)",
-    "Payment processors (e.g., Stripe, PayPal)",
-    "Regulatory compliance services",
-    "Cybersecurity vendors"
+    "Nasdaq",
+    "NYSE",
+    "CME Group",
+    "Bloomberg",
+    "AMZN"
   ],
   "downstream": [
     "Retail investors",
-    "High-net-worth individuals",
-    "Institutional clients",
-    "Financial advisors",
-    "Third‑party app developers"
+    "High‑net‑worth individuals",
+    "Small businesses",
+    "Crypto traders",
+    "Options traders"
   ],
   "competitors": [
     "Charles Schwab",
     "Fidelity Investments",
-    "TD Ameritrade",
     "E*TRADE",
-    "Webull"
+    "TD Ameritrade",
+    "Interactive Brokers"
   ],
   "key_products": [
-    "Commission‑free stock trading",
-    "Options trading",
-    "Cryptocurrency trading",
-    "Margin trading",
-    "Robinhood Gold subscription"
+    "Robinhood Stock trading",
+    "Robinhood Options trading",
+    "Robinhood Crypto trading",
+    "Robinhood Gold (premium subscription)",
+    "Robinhood Cash Management"
   ],
-  "extracted_at": "2026-07-02 17:33:25",
+  "extracted_at": "2026-07-03 17:32:18",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "",
       "title": "",
       "snippet": ""
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Robinhood_Markets",
-      "query": "Robinhood Markets, Inc. suppliers manufacturers",
-      "snippet": "Robinhood Markets, Inc. is an American financial services company based in Menlo Park, California. It provides an electronic trading platform that fac"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://robinhood.com/us/en/",
-      "query": "Robinhood Markets, Inc. suppliers manufacturers",
-      "snippet": "Trade stocks on Robinhood with commission-free investing & advanced trading tools. Access fractional shares, real-time market data, and more."
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://robinhood.com/",
-      "query": "Robinhood Markets, Inc. major customers clients",
-      "snippet": "Trade stocks on Robinhood with commission-free investing & advanced trading tools. Access fractional shares, real-time market data, and more."
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/HOOD/",
-      "query": "Robinhood Markets, Inc. major customers clients",
-      "snippet": "Find the latest Robinhood Markets , Inc . ( HOOD ) stock quote, history, news and other vital information to help you with your stock trading and inve"
     }
   ]
 }

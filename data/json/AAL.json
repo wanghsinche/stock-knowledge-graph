@@ -6,16 +6,16 @@
   "upstream": [
     "Boeing",
     "Airbus",
-    "GE Aviation",
     "Pratt & Whitney",
-    "Rolls‑Royce"
+    "GE Aviation",
+    "ExxonMobil"
   ],
   "downstream": [
-    "Individual passengers",
-    "Corporate travel clients",
-    "Travel agencies",
-    "American Eagle regional flights",
-    "Cargo shippers"
+    "Business travelers",
+    "Leisure travelers",
+    "Corporate travel agencies",
+    "Government agencies",
+    "Freight customers"
   ],
   "competitors": [
     "Delta Air Lines",
@@ -26,42 +26,18 @@
   ],
   "key_products": [
     "Passenger air transport",
-    "Cargo transport",
-    "In‑flight entertainment",
+    "Cargo and freight services",
+    "Maintenance, repair, and overhaul (MRO)",
     "AAdvantage loyalty program",
-    "Maintenance, repair, overhaul services"
+    "In‑flight entertainment and connectivity"
   ],
-  "extracted_at": "2026-07-02 17:40:28",
+  "extracted_at": "2026-07-03 17:56:15",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/American_Airlines_Group_Inc.",
       "title": "American Airlines Group",
       "snippet": "American Airlines Group Inc. is an American publicly traded airline holding company headquartered in Fort Worth, Texas. It was formed on December 9, 2013, by the merger of AMR Corporation, the parent "
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/American_Airlines",
-      "query": "American Airlines Group Inc. suppliers manufacturers",
-      "snippet": "American Airlines , Inc . is a major airline in the United States headquartered in Fort Worth, Texas, within the Dallas–Fort Worth metroplex, and is t"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/AAL-Suppliers",
-      "query": "American Airlines Group Inc. suppliers manufacturers",
-      "snippet": "Jun 22, 2026 · American Airlines Group Inc supply chain, list and performance of American Airlines Group Incs ' suppliers - CSIMarket"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/American_Airlines",
-      "query": "American Airlines Group Inc. major customers clients",
-      "snippet": "American Eagle is the brand for regional airline flights operated for American Airlines , encompassing flights by wholly owned affiliates Envoy Air, P"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/American_Airlines_Group",
-      "query": "American Airlines Group Inc. major customers clients",
-      "snippet": "American Airlines Group Inc . is an American publicly traded airline holding company headquartered in Fort Worth, Texas. It was formed on December 9, "
     }
   ]
 }

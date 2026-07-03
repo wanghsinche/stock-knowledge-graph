@@ -4,11 +4,11 @@
   "sector": "Technology",
   "industry": "Semiconductor Equipment & Materials",
   "upstream": [
-    "ASML",
-    "Nikon",
-    "Canon",
-    "AMAT",
-    "Tokyo Electron"
+    "Semiconductor material suppliers",
+    "Photolithography equipment manufacturers",
+    "Sensor and detector component suppliers",
+    "Chemical and process gas vendors",
+    "Software and data analytics providers"
   ],
   "downstream": [
     "INTC",
@@ -22,46 +22,22 @@
     "LRCX",
     "Tokyo Electron",
     "ASML",
-    "ASML"
+    "Teradyne"
   ],
   "key_products": [
-    "Wafer inspection systems",
-    "Reticle inspection systems",
-    "Metrology systems",
-    "Data analytics & yield management",
-    "3‑D defect detection"
+    "Wafer inspection and defect detection systems",
+    "Process control and yield management solutions",
+    "Metrology and measurement equipment",
+    "Imaging and data analytics platforms",
+    "Reticle inspection and alignment tools"
   ],
-  "extracted_at": "2026-07-02 17:35:19",
+  "extracted_at": "2026-07-03 17:28:49",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/KLA_Corporation",
       "title": "KLA Corporation",
       "snippet": "KLA Corporation is an American company based in Milpitas, California that makes wafer fab equipment. It supplies process control and yield management systems for the semiconductor industry and other r"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/KLA_Corporation",
-      "query": "KLA Corporation suppliers manufacturers",
-      "snippet": "KLA Corporation is an American company based in Milpitas, California that makes wafer fab equipment. It supplies process control and yield management "
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.kla.com/products",
-      "query": "KLA Corporation suppliers manufacturers",
-      "snippet": "KLA’s comprehensive portfolio of inspection, metrology & data analytic systems helps manufacturers manage yield through the entire IC fabrication proc"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.cnbc.com/quotes/KLAC",
-      "query": "KLA Corporation major customers clients",
-      "snippet": "KLAC: KLA Corp - Stock Price, Quote and News - CNBC."
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://brandsownedby.com/companies/kla-corporation/",
-      "query": "KLA Corporation major customers clients",
-      "snippet": "Ownership Explained. KLA Corporation is a publicly traded company with no controlling shareholder. Its founders Ken Levy and Bob Anderson no longer re"
     }
   ]
 }

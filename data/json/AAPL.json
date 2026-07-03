@@ -5,63 +5,42 @@
   "industry": "Consumer Electronics",
   "upstream": [
     "TSM",
+    "LG Display (OLED/LED panels)",
     "005930.KS",
-    "Foxconn (Hon Hai Precision)",
-    "AVGO",
-    "SK Hynix"
+    "Amphenol (connectors)",
+    "LG Chem (batteries)"
   ],
   "downstream": [
-    "Consumers (individuals worldwide)",
-    "AMZN",
-    "MSFT",
-    "CAT",
-    "Government agencies"
+    "iPhone users worldwide",
+    "iPad users worldwide",
+    "Mac users worldwide",
+    "AAPL",
+    "AAPL"
   ],
   "competitors": [
     "005930.KS",
-    "MSFT",
     "GOOGL",
-    "AMZN",
-    "SONY"
+    "MSFT",
+    "SONY",
+    "Huawei"
   ],
   "key_products": [
     "iPhone",
     "iPad",
     "Mac",
     "Apple Watch",
-    "Apple TV"
+    "Apple TV",
+    "AirPods",
+    "iOS",
+    "macOS"
   ],
-  "extracted_at": "2026-07-02 17:29:27",
+  "extracted_at": "2026-07-03 17:16:50",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Apple_Inc.",
       "title": "Apple Inc.",
       "snippet": "Apple Inc. is an American multinational technology company headquartered in Cupertino, California, in Silicon Valley, and known for consumer electronics, software and online services. Founded in 1976 "
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/List_of_Apple_Inc._suppliers",
-      "query": "Apple Inc. suppliers manufacturers",
-      "snippet": "Apple released a list of its major suppliers for the first time in 2012. [13][14][15] The list has generally been released in yearly intervals since. "
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.investopedia.com/articles/investing/090315/10-major-companies-tied-apple-supply-chain.asp",
-      "query": "Apple Inc. suppliers manufacturers",
-      "snippet": "Apr 17, 2026 · Discover Apple's top suppliers and how they enhance product performance and innovation. Learn about Apple's efficient supply chain and "
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Apple_Inc.",
-      "query": "Apple Inc. major customers clients",
-      "snippet": "15 hours ago - Multimillionaire Mike Markkula ... the incorporation of Apple . During the first five years of operations, revenue grew exponentially, "
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/markets_glance.php?code=AAPL",
-      "query": "Apple Inc. major customers clients",
-      "snippet": "2 weeks ago - Apple Inc customers and markets, results by customer and performance relative to AAPL, by company and industry - CSIMarket"
     }
   ]
 }

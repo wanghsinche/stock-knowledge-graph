@@ -1,21 +1,21 @@
 {
   "ticker": "NFLX",
   "company_name": "Netflix, Inc.",
-  "sector": "Communication Services",
-  "industry": "Entertainment",
+  "sector": "Communication Services / Entertainment",
+  "industry": "Streaming Media",
   "upstream": [
-    "Content production studios (e.g., Warner Bros., Disney)",
-    "MSFT",
-    "005930.KS",
-    "GOOGL",
-    "Marketing and advertising agencies"
+    "Film and Television Production Studios",
+    "Content Production Companies",
+    "Film Distributors",
+    "Music Licensing Agencies",
+    "Advertising Agencies"
   ],
   "downstream": [
-    "Household subscribers",
-    "Corporate enterprise accounts",
-    "AAPL",
-    "005930.KS",
-    "Mobile app users"
+    "Individual Subscribers",
+    "Corporate Subscriptions",
+    "Smart TV OEMs",
+    "Cable and Satellite Providers",
+    "Mobile Network Operators"
   ],
   "competitors": [
     "Disney+",
@@ -25,43 +25,19 @@
     "AAPL"
   ],
   "key_products": [
-    "Over-the-top streaming service",
-    "Original programming (e.g., Stranger Things)",
-    "Licensed third‑party content",
-    "Mobile and web applications",
-    "Personalized recommendation algorithms"
+    "Netflix Streaming Service",
+    "Original Series and Films",
+    "Licensed Movies and TV Shows",
+    "Mobile and Smart TV Apps",
+    "User Profile and Recommendation Engine"
   ],
-  "extracted_at": "2026-07-02 17:36:39",
+  "extracted_at": "2026-07-03 17:33:20",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Netflix,_Inc.",
       "title": "Netflix, Inc.",
       "snippet": "Netflix, Inc. is an American media company founded on August 29, 1997, by Reed Hastings and Marc Randolph in Scotts Valley, California, and currently based in Los Gatos, California, with production of"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/NFLX-Suppliers",
-      "query": "Netflix, Inc. suppliers manufacturers",
-      "snippet": "Netflix Inc supply chain, list and performance of Netflix Incs ' suppliers - CSIMarket."
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.stock-analysis-on.net/NASDAQ/Company/Netflix-Inc",
-      "query": "Netflix, Inc. suppliers manufacturers",
-      "snippet": "Netflix financial ratios grouped by activity, liquidity, solvency, and profitability.Analysis of Solvency Ratios. Examines Netflix Inc . capital struc"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/NFLX-Customers",
-      "query": "Netflix, Inc. major customers clients",
-      "snippet": "Updated on: Focus of this report: Netflix Inc ’ s corporate clients . For your research, we’ve provided 9 tables on Netflix Inc corporate clients . Yo"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://ir.netflix.net/ir-overview/profile/default.aspx",
-      "query": "Netflix, Inc. major customers clients",
-      "snippet": "Jun 4, 2026 · Netflix is one of the world’s leading entertainment services offering TV series, films, games and live programming across a wide variety"
     }
   ]
 }

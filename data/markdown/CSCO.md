@@ -3,8 +3,8 @@ ticker: CSCO
 company: Cisco Systems, Inc.
 sector: Technology / Communication Equipment
 industry: Networking Equipment
-extracted_at: 2026-07-02 17:41:25
-last_updated: 2026-07-02
+extracted_at: 2026-07-03 17:46:45
+last_updated: 2026-07-03
 ---
 
 # CSCO - Cisco Systems, Inc.
@@ -12,7 +12,7 @@ last_updated: 2026-07-02
 ## 基本信息
 
 - **所属行业**: Technology / Communication Equipment / Networking Equipment
-- **提取时间**: 2026-07-02 17:41:25
+- **提取时间**: 2026-07-03 17:46:45
 
 ## 产业链关系
 
@@ -21,37 +21,33 @@ last_updated: 2026-07-02
 - [[QCOM]]
 - [[AVGO]]
 - [[TXN]]
-- [[MU]]
+- [[MSFT]]
 
 ### 下游客户
-- [[AT&T]]
-- [[Verizon]]
-- [[Comcast]]
-- [[Vodafone]]
-- [[Deutsche Telekom]]
+- [[AT&T Inc.]]
+- [[CAT]]
+- [[Bank of America Corp.]]
+- [[United States Department of Defense]]
+- [[University of California System]]
 
 ### 竞争对手
 - [[JNPR]]
 - [[ANET]]
-- [[Huawei]]
-- [[Nokia]]
-- [[Ericsson]]
+- [[Huawei Technologies Co., Ltd.]]
+- [[Nokia Corporation]]
+- [[Ericsson AB]]
 
 ### 核心产品
-- [[Cisco IOS]]
-- [[Cisco Catalyst]]
-- [[Cisco Meraki]]
-- [[Webex]]
-- [[OpenDNS]]
+- [[Cisco Webex]]
+- [[Cisco OpenDNS]]
+- [[Cisco Jabber]]
+- [[Cisco Jasper]]
+- [[Cisco Meraki Cloud‑Managed Networking]]
 
 ## 数据来源
 
 - [Cisco](https://en.wikipedia.org/wiki/Cisco_Systems,_Inc.)
-- [Cisco Systems, Inc. suppliers manufacturers](https://ru.wikipedia.org/wiki/Cisco)
-- [Cisco Systems, Inc. suppliers manufacturers](https://www.cisco.com/)
-- [Cisco Systems, Inc. major customers clients](https://ru.wikipedia.org/wiki/Cisco)
-- [Cisco Systems, Inc. major customers clients](https://www.cisco.com/)
 
 ## 元数据
 
-- **更新日期**: 2026-07-02
+- **更新日期**: 2026-07-03

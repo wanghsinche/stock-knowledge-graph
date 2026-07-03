@@ -3,8 +3,8 @@ ticker: TXN
 company: Texas Instruments Incorporated
 sector: Technology
 industry: Semiconductors
-extracted_at: 2026-07-02 17:41:13
-last_updated: 2026-07-02
+extracted_at: 2026-07-03 17:45:35
+last_updated: 2026-07-03
 ---
 
 # TXN - Texas Instruments Incorporated
@@ -12,46 +12,44 @@ last_updated: 2026-07-02
 ## 基本信息
 
 - **所属行业**: Technology / Semiconductors
-- **提取时间**: 2026-07-02 17:41:13
+- **提取时间**: 2026-07-03 17:45:35
 
 ## 产业链关系
 
 ### 上游供应商
-- [[GlobalFoundries]]
-- [[TSM]]
-- [[005930.KS]]
-- [[INTC]]
-- [[MU]]
+- [[Silicon wafer suppliers]]
+- [[Photolithography equipment manufacturers]]
+- [[Packaging and assembly providers]]
+- [[Chemical and process material suppliers]]
+- [[Test and measurement equipment vendors]]
 
 ### 下游客户
-- [[Automotive OEMs]]
-- [[Industrial equipment manufacturers]]
+- [[Automotive electronics manufacturers]]
 - [[Consumer electronics companies]]
-- [[Mobile device manufacturers]]
-- [[Aerospace and defense contractors]]
+- [[Industrial control system integrators]]
+- [[CAT]]
+- [[CAT]]
 
 ### 竞争对手
 - [[ADI]]
-- [[Maxim Integrated]]
-- [[NXP Semiconductors]]
 - [[Infineon Technologies]]
 - [[STMicroelectronics]]
+- [[NXP Semiconductors]]
+- [[ADI]]
 
 ### 核心产品
 - [[Analog integrated circuits]]
-- [[Embedded processors]]
+- [[Embedded processors (e.g., Sitara, OMAP)]]
 - [[Digital Light Processing (DLP) chips]]
-- [[Calculators]]
-- [[Microcontrollers]]
+- [[Graphing calculators]]
+- [[Microcontrollers and multi‑core processors]]
 
 ## 数据来源
 
 - [Texas Instruments](https://en.wikipedia.org/wiki/Texas_Instruments_Incorporated)
-- [Texas Instruments Incorporated suppliers manufacturers](https://www.ti.com/about-ti/suppliers.html)
-- [Texas Instruments Incorporated suppliers manufacturers](https://csimarket.com/stocks/TXN-Suppliers)
-- [Texas Instruments Incorporated major customers clients](https://en.wikipedia.org/wiki/Texas_Instruments)
-- [Texas Instruments Incorporated major customers clients](https://csimarket.com/stocks/TXN-Customers)
+- [Texas Instruments Incorporated suppliers manufacturers](https://en.wikipedia.org/wiki/Texas_Instruments)
+- [Texas Instruments Incorporated suppliers manufacturers](https://finance.yahoo.com/quote/TXN/)
 
 ## 元数据
 
-- **更新日期**: 2026-07-02
+- **更新日期**: 2026-07-03

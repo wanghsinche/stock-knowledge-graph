@@ -4,64 +4,40 @@
   "sector": "Technology",
   "industry": "Software - Infrastructure",
   "upstream": [
-    "AMD",
+    "INTC",
     "CSCO",
     "MSFT",
-    "Software component vendors (e.g., VMware, Red Hat)",
-    "Security research partners"
+    "MSFT",
+    "INTC"
   ],
   "downstream": [
     "Fortune 100 enterprises",
-    "Wipro",
-    "Tyson Foods",
-    "Global financial institutions",
-    "Government agencies"
+    "Government and defense agencies",
+    "Financial institutions",
+    "Healthcare providers",
+    "CAT"
   ],
   "competitors": [
     "CSCO",
     "Fortinet",
     "Check Point Software Technologies",
     "JNPR",
-    "McAfee"
+    "CrowdStrike"
   ],
   "key_products": [
     "Next‑Generation Firewall",
-    "Panorama management platform",
-    "WildFire threat intelligence",
-    "Cortex XDR",
-    "Prisma Cloud"
+    "Panorama (network security management)",
+    "Cortex XDR (extended detection & response)",
+    "WildFire (cloud‑based malware analysis)",
+    "Prisma Cloud (cloud security platform)"
   ],
-  "extracted_at": "2026-07-02 17:41:35",
+  "extracted_at": "2026-07-03 17:47:22",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Palo_Alto_Networks,_Inc.",
       "title": "Palo Alto Networks",
       "snippet": "Palo Alto Networks, Inc. is an American multinational cybersecurity company with headquarters in Santa Clara, California. The core product is a platform that includes advanced firewalls and cloud-base"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Palo_Alto_Networks",
-      "query": "Palo Alto Networks, Inc. suppliers manufacturers",
-      "snippet": "Palo Alto Networks, Inc. is an American multinational cybersecurity company with headquarters in Santa Clara, California. The core product is a platfo"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.paloaltonetworks.com/industry/manufacturing",
-      "query": "Palo Alto Networks, Inc. suppliers manufacturers",
-      "snippet": "Palo Alto Networks solutions are designed to securely enable this transformation while maximizing ROI and keeping high uptime."
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.paloaltonetworks.com/customers",
-      "query": "Palo Alto Networks, Inc. major customers clients",
-      "snippet": "Discover how leading global brands like Wipro and Tyson Foods secure their operations with Palo Alto Networks . Explore customer success stories in cy"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.appsruntheworld.com/customers-database/vendors/view/palo-alto-networks",
-      "query": "Palo Alto Networks, Inc. major customers clients",
-      "snippet": "List of companies using or evaluating Palo Alto Networks applications, with details on their revenues, employees, industries, and locations."
     }
   ]
 }

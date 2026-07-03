@@ -4,64 +4,40 @@
   "sector": "Communication Services",
   "industry": "Telecom Services",
   "upstream": [
-    "Ericsson",
     "Nokia",
+    "Ericsson",
+    "Huawei",
     "CSCO",
-    "JNPR",
-    "Huawei"
+    "JNPR"
   ],
   "downstream": [
-    "Consumers",
-    "Enterprise customers",
+    "U.S. consumers",
+    "Small and medium enterprises",
+    "Large enterprises",
     "Government agencies",
-    "CAT",
-    "Media companies"
+    "International carriers"
   ],
   "competitors": [
     "CAT",
     "T-Mobile US",
     "Comcast",
     "CAT",
-    "Lumen Technologies"
+    "Dish Network"
   ],
   "key_products": [
-    "Wireless services",
-    "Broadband internet",
-    "Pay TV",
-    "Enterprise networking solutions",
-    "Cloud services"
+    "Wireless voice and data services",
+    "Fiber‑optic broadband",
+    "AT&T TV",
+    "AT&T Business Cloud",
+    "Enterprise networking solutions"
   ],
-  "extracted_at": "2026-07-02 17:39:27",
+  "extracted_at": "2026-07-03 17:48:39",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/AT&T_Inc.",
       "title": "AT&T",
       "snippet": "AT&T Inc., an abbreviation of its predecessor's original name, the American Telephone and Telegraph Company, is an American multinational telecommunications company headquartered at the Whitacre Tower"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.accio.com/supplier/att-manufacturer",
-      "query": "AT&T Inc. suppliers manufacturers",
-      "snippet": "1 day ago · Looking for verified AT&T manufacturers ? Discover suppliers of IoT modules, mobile hotspots, and networking solutions for telecom project"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.accio.com/supplier/att-supplier-list",
-      "query": "AT&T Inc. suppliers manufacturers",
-      "snippet": "Jun 24, 2026 · Need AT&T suppliers ? Discover certified vendors offering routers, hotspots, and modules. Compare products and connect directly. Click "
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/T/",
-      "query": "AT&T Inc. major customers clients",
-      "snippet": "Find the latest AT & T Inc . ( T ) stock quote, history, news and other vital information to help you with your stock trading and investing."
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.nasdaq.com/market-activity/stocks/t",
-      "query": "AT&T Inc. major customers clients",
-      "snippet": "Discover real-time AT & T Inc . ( T ) stock prices, quotes, historical data, news, and Insights for informed trading and investment decisions. Stay ah"
     }
   ]
 }

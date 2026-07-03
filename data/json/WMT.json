@@ -1,69 +1,44 @@
 {
   "ticker": "WMT",
   "company_name": "Walmart Inc.",
-  "sector": "Consumer Defensive",
-  "industry": "Discount Stores",
+  "sector": "Consumer Defensive / Discount Stores",
+  "industry": "Retail - Discount Stores",
   "upstream": [
     "Procter & Gamble",
     "Coca‑Cola",
     "PepsiCo",
     "Johnson & Johnson",
-    "General Mills"
+    "Unilever"
   ],
   "downstream": [
-    "Consumers in the United States",
-    "Sam’s Club members",
+    "Individual consumers",
+    "Small businesses",
     "Online shoppers",
-    "Healthcare patients",
-    "Small businesses"
+    "Grocery shoppers",
+    "Local communities"
   ],
   "competitors": [
     "Target",
     "Costco",
     "AMZN",
-    "BJ’s Wholesale",
+    "BJ’s Wholesale Club",
     "Dollar General"
   ],
   "key_products": [
     "Groceries",
-    "Household goods",
     "Apparel",
     "Electronics",
+    "Household goods",
     "Pharmacy products",
-    "Gasoline",
-    "Private‑label brands"
+    "Gasoline"
   ],
-  "extracted_at": "2026-07-02 17:38:21",
+  "extracted_at": "2026-07-03 17:42:18",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Walmart_Inc.",
       "title": "Walmart",
       "snippet": "Walmart Inc. is an American multinational omnichannel retail corporation that operates a chain of hypermarkets, discount department stores, grocery stores, pharmacies, and gas stations in the United S"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/suppliers_glance.php?code=WMT",
-      "query": "Walmart Inc. suppliers manufacturers",
-      "snippet": "Walmart Inc supply chain, list and performance of Walmart Incs ' suppliers - CSIMarket.Among Walmart Inc suppliers , the revenue of Interface Inc has "
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.walmart.com/",
-      "query": "Walmart Inc. suppliers manufacturers",
-      "snippet": "Shop Walmart .com today for Every Day Low Prices. Join Walmart + for unlimited free delivery from your store & free shipping with no order minimum. St"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.walmart.com/",
-      "query": "Walmart Inc. major customers clients",
-      "snippet": "Shop Walmart .com today for Every Day Low Prices. Join Walmart + for unlimited free delivery from your store & free shipping with no order minimum. St"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.linkedin.com/company/walmart",
-      "query": "Walmart Inc. major customers clients",
-      "snippet": "As more Medicare customers begin new weight management journeys, Walmart and Sam’s Club are focused on making healthcare easier to navigate. Our pharm"
     }
   ]
 }
