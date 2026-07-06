@@ -5,17 +5,17 @@
   "industry": "Computer Hardware",
   "upstream": [
     "INTC",
-    "AMD",
     "NVDA",
-    "MU",
-    "005930.KS"
+    "AMD",
+    "005930.KS",
+    "MU"
   ],
   "downstream": [
-    "Enterprise IT customers",
+    "Enterprise IT",
     "Government agencies",
-    "Cloud service providers",
-    "Consumer retail",
-    "OEM partners"
+    "CAT",
+    "Healthcare providers",
+    "Retail and e‑commerce"
   ],
   "competitors": [
     "HPQ",
@@ -25,19 +25,44 @@
     "Asus"
   ],
   "key_products": [
-    "Personal computers",
+    "Personal computers (laptops, desktops)",
     "Servers",
-    "Storage solutions",
     "Monitors",
-    "Security software"
+    "Storage solutions",
+    "Networking equipment",
+    "Security software & services"
   ],
-  "extracted_at": "2026-07-03 17:51:24",
+  "extracted_at": "2026-07-06 18:08:40",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Dell_Technologies_Inc.",
       "title": "Dell Technologies",
       "snippet": "Dell Technologies Inc. is an American multinational technology company that has been headquartered in Round Rock, Texas, since 1994. It was formed as a result of the September 2016 merger of Dell and "
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.dell.com/en-us",
+      "query": "Dell Technologies Inc. suppliers manufacturers",
+      "snippet": "Dell provides technology solutions, services & support. Buy Laptops, Touch Screen PCs, Desktops, Servers, Storage, Monitors, Gaming & Accessories."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.alibaba.com/",
+      "query": "Dell Technologies Inc. suppliers manufacturers",
+      "snippet": "Find quality Manufacturers , Suppliers , Exporters, Importers, Buyers, Wholesalers, Products and Trade Leads from our award-winning International Trad"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.dell.com/en-us",
+      "query": "Dell Technologies Inc. major customers clients",
+      "snippet": "Dell provides technology solutions, services & support. Buy Laptops, Touch Screen PCs, Desktops, Servers, Storage, Monitors, Gaming & Accessories."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.linkedin.com/company/delltechnologies",
+      "query": "Dell Technologies Inc. major customers clients",
+      "snippet": "Dell Technologies | 5,571,330 followers on LinkedIn. Dell 's end-to-end AI portfolio brings together infrastructure, services and a strong partner eco"
     }
   ]
 }

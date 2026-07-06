@@ -4,34 +4,34 @@
   "sector": "Technology",
   "industry": "Software - Application",
   "upstream": [
-    "AMZN",
     "MSFT",
+    "AMZN",
     "GOOGL",
+    "IBM",
+    "ORCL"
+  ],
+  "downstream": [
+    "US Federal Government",
+    "Bank of America",
+    "Coca‑Cola",
+    "Walmart",
+    "General Electric"
+  ],
+  "competitors": [
+    "CRM",
+    "SAP",
+    "MSFT",
     "ORCL",
     "IBM"
   ],
-  "downstream": [
-    "Large enterprises",
-    "Government agencies",
-    "Financial institutions",
-    "Retail companies",
-    "CAT"
-  ],
-  "competitors": [
-    "MSFT",
-    "CRM",
-    "Workday",
-    "SAP SuccessFactors",
-    "ORCL"
-  ],
   "key_products": [
-    "ServiceNow Platform",
-    "Integration Hub",
-    "Supplier Lifecycle Operations",
-    "Customer Service Management",
-    "IT Service Management"
+    "Now Platform",
+    "IT Service Management",
+    "IT Operations Management",
+    "IT Business Management",
+    "Customer Service Management"
   ],
-  "extracted_at": "2026-07-02 17:40:45",
+  "extracted_at": "2026-07-06 18:15:02",
   "sources": [
     {
       "source": "Wikipedia",

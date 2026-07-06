@@ -4,40 +4,64 @@
   "sector": "Technology",
   "industry": "Semiconductor Equipment & Materials",
   "upstream": [
-    "Chemical and gas suppliers",
-    "Photomask manufacturers",
-    "META",
-    "Cleanroom equipment vendors",
-    "Semiconductor equipment component suppliers"
+    "BASF",
+    "Dow Chemical",
+    "DuPont",
+    "KLA Corporation",
+    "LRCX"
   ],
   "downstream": [
     "INTC",
     "005930.KS",
-    "Solar cell manufacturers (e.g., First Solar, SunPower)",
-    "AAPL",
-    "MU"
+    "TSM",
+    "MU",
+    "QCOM"
   ],
   "competitors": [
     "ASML",
-    "Tokyo Electron",
     "LRCX",
+    "Tokyo Electron",
     "KLA Corporation",
     "AMAT"
   ],
   "key_products": [
-    "Deposition equipment (CVD, ALD, PVD)",
-    "Etching equipment (plasma, wet)",
-    "Lithography equipment (stepper, scanner)",
-    "Inspection and metrology tools",
-    "Software and services for process control"
+    "Deposition systems",
+    "Etching systems",
+    "Metrology tools",
+    "CVD systems",
+    "PVD systems"
   ],
-  "extracted_at": "2026-07-03 17:26:09",
+  "extracted_at": "2026-07-06 18:08:12",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Applied_Materials,_Inc.",
       "title": "Applied Materials",
       "snippet": "Applied Materials, Inc. is an American corporation that supplies equipment, services and software for the manufacture of semiconductor chips for electronics, flat panel displays for computers, smartph"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/Applied_Materials",
+      "query": "Applied Materials, Inc. suppliers manufacturers",
+      "snippet": "Applied Materials , Inc . is an American corporation that supplies equipment, services and software for the manufacture of semiconductor (integrated c"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/AMAT-Suppliers",
+      "query": "Applied Materials, Inc. suppliers manufacturers",
+      "snippet": "Jun 22, 2026 · Applied uses numerous vendors , including contract manufacturers , to supply parts and assembly services for the manufacture and suppor"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.appliedmaterials.com/us/en.html",
+      "query": "Applied Materials, Inc. major customers clients",
+      "snippet": "Applied Materials , Inc . is the leader in materials engineering solutions that are at the foundation of virtually every new semiconductor and advance"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.insidermonkey.com/blog/are-we-paying-too-much-for-applied-materials-amat-1794923/",
+      "query": "Applied Materials, Inc. major customers clients",
+      "snippet": "Applied Materials , Inc . (NASDAQ: AMAT ) is a leading supplier of materials engineering solutions, equipment, services, and software to the semicondu"
     }
   ]
 }

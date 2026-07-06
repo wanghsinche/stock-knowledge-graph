@@ -1,43 +1,67 @@
 {
   "ticker": "SPCX",
   "company_name": "Space Exploration Technologies Corporation",
-  "sector": "Industrials",
+  "sector": "Industrials / Aerospace & Defense",
   "industry": "Aerospace & Defense",
   "upstream": [
     "Aerojet Rocketdyne",
-    "Honeywell Aerospace",
-    "United Technologies",
     "Boeing",
-    "Lockheed Martin"
+    "Lockheed Martin",
+    "Northrop Grumman",
+    "United Launch Alliance"
   ],
   "downstream": [
     "NASA",
-    "US Space Force",
-    "INTC",
-    "SES",
-    "Telesat"
+    "United States Space Force",
+    "Department of Defense",
+    "Commercial satellite operators",
+    "International space agencies"
   ],
   "competitors": [
     "United Launch Alliance",
-    "Arianespace",
     "Blue Origin",
-    "Rocket Lab",
-    "Virgin Orbit"
+    "Arianespace",
+    "Boeing (Delta)",
+    "Lockheed Martin (Space Systems)"
   ],
   "key_products": [
-    "Falcon 9",
+    "Falcon 9 rocket",
     "Falcon Heavy",
     "Starship",
-    "Starlink satellites",
+    "Starlink satellite constellation",
     "Grok AI platform"
   ],
-  "extracted_at": "2026-07-03 17:22:37",
+  "extracted_at": "2026-07-06 18:05:54",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Space_Exploration_Technologies_Corp.",
       "title": "SpaceX",
       "snippet": "Space Exploration Technologies Corporation, doing business as SpaceX, is an American spaceflight, telecommunications, and artificial intelligence company headquartered at the Starbase development site"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/SpaceX",
+      "query": "Space Exploration Technologies Corp. suppliers manufacturers",
+      "snippet": "Space Exploration Technologies Corporation , doing business as SpaceX , is an American spaceflight, telecommunications, and artificial intelligence co"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.tradingview.com/symbols/NASDAQ-SPCX/",
+      "query": "Space Exploration Technologies Corp. suppliers manufacturers",
+      "snippet": "Space Exploration Technologies Corp ( SpaceX ). Space Exploration Technologies Corp ., doing business as SpaceX , operates as an aerospace manufacture"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/SpaceX",
+      "query": "Space Exploration Technologies Corp. major customers clients",
+      "snippet": "The company's largest customers include NASA, the United States Space Force, and the National Reconnaissance Office. Elon Musk owns 42% of the outstan"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://spaceexplorationtechnologies.com/",
+      "query": "Space Exploration Technologies Corp. major customers clients",
+      "snippet": "Space Exploration Technologies designs and manufactures rockets and advanced space crafts. The company to revolutionize space technology."
     }
   ]
 }

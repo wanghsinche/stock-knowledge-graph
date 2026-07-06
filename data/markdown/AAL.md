@@ -3,8 +3,8 @@ ticker: AAL
 company: American Airlines Group Inc.
 sector: Industrials
 industry: Airlines
-extracted_at: 2026-07-03 17:56:15
-last_updated: 2026-07-03
+extracted_at: 2026-07-06 18:11:49
+last_updated: 2026-07-06
 ---
 
 # AAL - American Airlines Group Inc.
@@ -12,7 +12,7 @@ last_updated: 2026-07-03
 ## 基本信息
 
 - **所属行业**: Industrials / Airlines
-- **提取时间**: 2026-07-03 17:56:15
+- **提取时间**: 2026-07-06 18:11:49
 
 ## 产业链关系
 
@@ -21,14 +21,14 @@ last_updated: 2026-07-03
 - [[Airbus]]
 - [[Pratt & Whitney]]
 - [[GE Aviation]]
-- [[ExxonMobil]]
+- [[Bombardier]]
 
 ### 下游客户
-- [[Business travelers]]
-- [[Leisure travelers]]
+- [[American Eagle]]
 - [[Corporate travel agencies]]
 - [[Government agencies]]
-- [[Freight customers]]
+- [[Frequent flyers]]
+- [[Travel agencies]]
 
 ### 竞争对手
 - [[Delta Air Lines]]
@@ -39,15 +39,19 @@ last_updated: 2026-07-03
 
 ### 核心产品
 - [[Passenger air transport]]
-- [[Cargo and freight services]]
-- [[Maintenance, repair, and overhaul (MRO)]]
-- [[AAdvantage loyalty program]]
-- [[In‑flight entertainment and connectivity]]
+- [[Cargo services]]
+- [[Maintenance, Repair, and Overhaul (MRO)]]
+- [[AAdvantage frequent‑flyer program]]
+- [[Aircraft leasing]]
 
 ## 数据来源
 
 - [American Airlines Group](https://en.wikipedia.org/wiki/American_Airlines_Group_Inc.)
+- [American Airlines Group Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/US_Airways_Group)
+- [American Airlines Group Inc. suppliers manufacturers](https://www.aa.com/i18n/customer-service/about-us/american-airlines-group.jsp)
+- [American Airlines Group Inc. major customers clients](https://en.wikipedia.org/wiki/American_Airlines)
+- [American Airlines Group Inc. major customers clients](https://en.wikipedia.org/wiki/American_Airlines_Group)
 
 ## 元数据
 
-- **更新日期**: 2026-07-03
+- **更新日期**: 2026-07-06

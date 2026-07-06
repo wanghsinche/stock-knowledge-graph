@@ -4,40 +4,64 @@
   "sector": "Industrials",
   "industry": "Specialty Industrial Machinery",
   "upstream": [
-    "Siemens",
-    "Schneider Electric",
-    "ABB",
-    "Rockwell Automation",
-    "Honeywell"
+    "Turbine blade manufacturers",
+    "Compressor component suppliers",
+    "Electrical component suppliers",
+    "Steel and alloy suppliers",
+    "Materials science companies"
   ],
   "downstream": [
-    "General Motors",
-    "Ford",
-    "Boeing",
-    "ExxonMobil",
-    "Shell"
+    "Utility companies",
+    "Oil & gas operators",
+    "Power plant operators",
+    "Renewable energy developers",
+    "Industrial power users"
   ],
   "competitors": [
-    "Siemens",
-    "Schneider Electric",
+    "GE Renewable Energy",
+    "Siemens Energy",
+    "Mitsubishi Hitachi Power Systems",
     "ABB",
-    "Rockwell Automation",
-    "Emerson Electric"
+    "Schneider Electric"
   ],
   "key_products": [
-    "Industrial automation & control systems",
-    "Industrial software solutions",
-    "Industrial power electronics",
-    "Industrial robotics",
-    "Industrial equipment"
+    "Gas turbines",
+    "Steam turbines",
+    "Generators",
+    "Power plant equipment",
+    "Renewable energy solutions"
   ],
-  "extracted_at": "2026-07-03 17:50:06",
+  "extracted_at": "2026-07-06 18:09:09",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "",
       "title": "",
       "snippet": ""
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.gevernova.com/grid-solutions/suppliers",
+      "query": "GE Vernova Inc. suppliers manufacturers",
+      "snippet": "Explore GE Vernova ’ s supplier portal for partnership opportunities and procurement information."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.gevernova.com/suppliers",
+      "query": "GE Vernova Inc. suppliers manufacturers",
+      "snippet": "Welcome to the GE Vernova Supplier Portal. Partnering with us signifies your commitment to World Class Sourcing, a cornerstone of our vision. As we wo"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/GE_Vernova",
+      "query": "GE Vernova Inc. major customers clients",
+      "snippet": "GE Vernova , Inc . is an energy equipment manufacturing and services company headquartered in Cambridge, Massachusetts."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.gevernova.com/",
+      "query": "GE Vernova Inc. major customers clients",
+      "snippet": "GE Vernova is accelerating the path to more reliable, affordable, and sustainable energy through our innovative portfolio of electrification and decar"
     }
   ]
 }

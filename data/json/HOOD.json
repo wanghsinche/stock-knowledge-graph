@@ -4,40 +4,64 @@
   "sector": "Financial Services",
   "industry": "Capital Markets",
   "upstream": [
-    "Nasdaq",
-    "NYSE",
-    "CME Group",
-    "Bloomberg",
-    "AMZN"
+    "AMZN",
+    "Stripe (payment processing)",
+    "Bloomberg (market data)",
+    "Plaid (financial data aggregation)",
+    "GOOGL"
   ],
   "downstream": [
-    "Retail investors",
-    "High‑net‑worth individuals",
-    "Small businesses",
-    "Crypto traders",
-    "Options traders"
+    "Retail investors (millennial and Gen Z users)",
+    "Institutional clients (small brokerage firms)",
+    "High‑frequency traders using Robinhood’s API",
+    "Crypto traders on the platform",
+    "Robinhood Gold subscribers (premium users)"
   ],
   "competitors": [
     "Charles Schwab",
     "Fidelity Investments",
-    "E*TRADE",
     "TD Ameritrade",
-    "Interactive Brokers"
+    "Webull",
+    "SoFi Invest"
   ],
   "key_products": [
-    "Robinhood Stock trading",
-    "Robinhood Options trading",
-    "Robinhood Crypto trading",
-    "Robinhood Gold (premium subscription)",
-    "Robinhood Cash Management"
+    "Commission‑free stock and ETF trading",
+    "Options trading platform",
+    "Cryptocurrency trading",
+    "Robinhood Gold (margin, extended hours, research)",
+    "Cash management and interest‑earning accounts"
   ],
-  "extracted_at": "2026-07-03 17:32:18",
+  "extracted_at": "2026-07-06 18:10:34",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "",
       "title": "",
       "snippet": ""
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/Robinhood_Markets",
+      "query": "Robinhood Markets, Inc. suppliers manufacturers",
+      "snippet": "Robinhood Markets, Inc. is an American financial services company based in Menlo Park, California. It provides an electronic trading platform that fac"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/HOOD-Suppliers",
+      "query": "Robinhood Markets, Inc. suppliers manufacturers",
+      "snippet": "Robinhood Markets Inc's Suppliers recorded an increase in sales by 8.72 % year on year in Q4 2025, sequentially sales grew by 4.1 %, while their net m"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/Robinhood_Markets",
+      "query": "Robinhood Markets, Inc. major customers clients",
+      "snippet": "Robinhood has targeted millennials as customers ; in March 2025, the average age of its customers was 35. [4] Its platform is available in the U.S., t"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://investors.robinhood.com/",
+      "query": "Robinhood Markets, Inc. major customers clients",
+      "snippet": "May 31, 2026 · Robinhood Markets , Inc . Investor relations (IR) website contains information about our business for stockholders, potential investors"
     }
   ]
 }

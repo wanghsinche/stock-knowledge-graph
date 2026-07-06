@@ -4,18 +4,18 @@
   "sector": "Technology",
   "industry": "Software - Infrastructure",
   "upstream": [
+    "DELL",
+    "HPQ",
+    "CSCO",
     "INTC",
-    "AMD",
-    "NVDA",
-    "MSFT",
-    "Red Hat"
+    "MSFT"
   ],
   "downstream": [
-    "Bank of America",
     "Walmart",
-    "United States Department of Defense",
-    "Airbus",
-    "Coca-Cola"
+    "JPMorgan Chase",
+    "Bank of America",
+    "UnitedHealth Group",
+    "Airbnb"
   ],
   "competitors": [
     "MSFT",
@@ -28,16 +28,40 @@
     "Oracle Database",
     "Oracle Cloud Infrastructure",
     "Oracle Autonomous Database",
-    "Oracle Fusion Middleware",
+    "Oracle ERP Cloud",
     "Oracle Analytics Cloud"
   ],
-  "extracted_at": "2026-07-03 17:28:11",
+  "extracted_at": "2026-07-06 18:07:43",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Oracle_Corporation",
       "title": "Oracle Corporation",
       "snippet": "Oracle Corporation is an American multinational technology company headquartered in Austin, Texas. Co-founded in Santa Clara, California, in 1977 by Bob Miner, Ed Oates, and current chairman of the bo"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/List_of_acquisitions_by_Oracle",
+      "query": "Oracle Corporation suppliers manufacturers",
+      "snippet": "List of acquisitions by Oracle This is a listing of Oracle Corporation 's corporate acquisitions, including acquisitions of both companies and individ"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.oracle.com/corporate/suppliers/",
+      "query": "Oracle Corporation suppliers manufacturers",
+      "snippet": "Oracle is always looking for suppliers who can meet our high quality standards and satisfy our ever-evolving business needs. We believe in the importa"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/Oracle_Corporation",
+      "query": "Oracle Corporation major customers clients",
+      "snippet": "Oracle Corporation is an American multinational technology company headquartered in Austin, Texas. Co-founded in Santa Clara, California, in 1977 by B"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://destinykey.org/en/companies/oracle-corp",
+      "query": "Oracle Corporation major customers clients",
+      "snippet": "Oracle Corporation didn't just go public—it burst onto the scene ready for war, encoding its DNA in a water stellium of Pisces and Aries in the 11th h"
     }
   ]
 }

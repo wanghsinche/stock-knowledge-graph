@@ -1,41 +1,67 @@
 {
   "ticker": "MRNA",
   "company_name": "Moderna, Inc.",
-  "sector": "Healthcare / Biotechnology",
+  "sector": "Healthcare",
   "industry": "Biotechnology",
   "upstream": [
-    "Nucleic acid suppliers",
-    "Lipid nanoparticle manufacturers",
-    "Cell culture media suppliers",
-    "Enzyme suppliers",
-    "GMP manufacturing facilities"
+    "Acuitas Therapeutics (lipid nanoparticle technology)",
+    "Cargill (raw material supply)",
+    "CureVac (technology collaboration)",
+    "Gilead Sciences (clinical trial support)",
+    "Thermo Fisher Scientific (lab equipment and reagents)"
   ],
   "downstream": [
-    "Governments and public health agencies",
-    "Hospitals and healthcare providers",
-    "Pharmaceutical partners",
-    "Vaccine recipients",
-    "Research institutions"
+    "U.S. Department of Health and Human Services",
+    "European Medicines Agency",
+    "National Health Service (UK)",
+    "Hospitals and clinics worldwide",
+    "Pharmaceutical distributors (e.g., McKesson, Cardinal Health)"
   ],
   "competitors": [
     "Pfizer",
     "BioNTech",
-    "CureVac",
-    "Translate Bio",
-    "Arcturus Therapeutics"
+    "Johnson & Johnson",
+    "Novavax",
+    "AstraZeneca"
   ],
   "key_products": [
+    "Spikevax (COVID‑19 vaccine)",
     "mRNA‑1273 (COVID‑19 vaccine)",
     "mRNA‑4157 (cancer vaccine)",
-    "mRNA‑3704 (influenza vaccine)"
+    "mRNA‑1245 (influenza vaccine)",
+    "mRNA‑3704 (therapeutic candidate)"
   ],
-  "extracted_at": "2026-07-03 17:59:23",
+  "extracted_at": "2026-07-06 18:16:53",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "",
       "title": "",
       "snippet": ""
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/MRNA-Suppliers",
+      "query": "Moderna, Inc. suppliers manufacturers",
+      "snippet": "Jun 14, 2026 · For your research, we’ve provided nine additional tables on Moderna Inc ’s suppliers . You can find them in the navigation menu under S"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.modernatx.com/",
+      "query": "Moderna, Inc. suppliers manufacturers",
+      "snippet": "Apr 11, 2026 · Moderna 's mission is to deliver the greatest possible impact to people through mRNA medicines. So, what is mRNA? Messenger RNA (mRNA) "
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/MRNA-Customers",
+      "query": "Moderna, Inc. major customers clients",
+      "snippet": "2 days ago · For your research, we’ve provided 9 tables on Moderna Inc corporate clients . You can find them in the navigation menu under Customers & "
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://portersfiveforce.com/blogs/target-market/moderna",
+      "query": "Moderna, Inc. major customers clients",
+      "snippet": "Mar 19, 2026 · Customers now include national procurement agencies, multilateral buyers, health systems, and individual adults for seasonal vaccines; "
     }
   ]
 }

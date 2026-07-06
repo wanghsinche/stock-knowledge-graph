@@ -1,53 +1,56 @@
 ---
 ticker: PANW
 company: Palo Alto Networks, Inc.
-sector: Technology
-industry: Software - Infrastructure
-extracted_at: 2026-07-03 17:47:22
-last_updated: 2026-07-03
+sector: Technology / Software - Infrastructure
+industry: Cybersecurity
+extracted_at: 2026-07-06 18:12:39
+last_updated: 2026-07-06
 ---
 
 # PANW - Palo Alto Networks, Inc.
 
 ## 基本信息
 
-- **所属行业**: Technology / Software - Infrastructure
-- **提取时间**: 2026-07-03 17:47:22
+- **所属行业**: Technology / Software - Infrastructure / Cybersecurity
+- **提取时间**: 2026-07-06 18:12:39
 
 ## 产业链关系
 
 ### 上游供应商
 - [[INTC]]
-- [[CSCO]]
+- [[AMD]]
+- [[NVDA]]
+- [[AMZN]]
 - [[MSFT]]
-- [[MSFT]]
-- [[INTC]]
 
 ### 下游客户
-- [[Fortune 100 enterprises]]
-- [[Government and defense agencies]]
-- [[Financial institutions]]
-- [[Healthcare providers]]
-- [[CAT]]
+- [[Wipro]]
+- [[Tyson Foods]]
+- [[Grupo Bimbo]]
+- [[Putnam Investments]]
 
 ### 竞争对手
 - [[CSCO]]
 - [[Fortinet]]
-- [[Check Point Software Technologies]]
+- [[Check Point]]
 - [[JNPR]]
-- [[CrowdStrike]]
+- [[Sophos]]
 
 ### 核心产品
-- [[Next‑Generation Firewall]]
-- [[Panorama (network security management)]]
-- [[Cortex XDR (extended detection & response)]]
-- [[WildFire (cloud‑based malware analysis)]]
-- [[Prisma Cloud (cloud security platform)]]
+- [[Next-Generation Firewall]]
+- [[Prisma Cloud]]
+- [[Cortex XDR]]
+- [[WildFire]]
+- [[Unit 42 Threat Intelligence]]
 
 ## 数据来源
 
 - [Palo Alto Networks](https://en.wikipedia.org/wiki/Palo_Alto_Networks,_Inc.)
+- [Palo Alto Networks, Inc. suppliers manufacturers](https://www.paloaltonetworks.com/)
+- [Palo Alto Networks, Inc. suppliers manufacturers](https://csimarket.com/news/earnings/_1_6_billion_tax_provisions_drive_earnings_surge_for_palo_alto_networks_inc-2024-02-21204422)
+- [Palo Alto Networks, Inc. major customers clients](https://www.paloaltonetworks.com/customers)
+- [Palo Alto Networks, Inc. major customers clients](https://www.paloaltonetworks.com/network-security/customer-stories)
 
 ## 元数据
 
-- **更新日期**: 2026-07-03
+- **更新日期**: 2026-07-06

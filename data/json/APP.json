@@ -1,43 +1,67 @@
 {
   "ticker": "APP",
   "company_name": "AppLovin Corporation",
-  "sector": "Communication Services",
-  "industry": "Advertising Agencies",
+  "sector": "Communication Services / Advertising Agencies",
+  "industry": "Digital Advertising / Mobile Ad Tech",
   "upstream": [
-    "AMZN",
+    "Cloud service providers (e.g., AWS, Azure)",
     "GOOGL",
-    "MSFT",
-    "Unity Technologies",
-    "AAPL"
+    "Data analytics vendors",
+    "Mobile operating system providers (iOS, Android)",
+    "Technology infrastructure suppliers"
   ],
   "downstream": [
-    "Mobile game developers",
     "Mobile app developers",
-    "Digital advertisers",
-    "Mobile publishers",
-    "Marketing agencies"
+    "Game studios",
+    "Brand advertisers",
+    "Digital marketing agencies",
+    "E‑commerce app owners"
   ],
   "competitors": [
     "Unity Ads",
-    "Vungle",
     "AdColony",
+    "Vungle",
     "IronSource",
     "GOOGL"
   ],
   "key_products": [
-    "AppLovin MAX (ad mediation)",
-    "AppLovin Studio",
-    "AppLovin SDK",
-    "AppLovin Data Platform",
-    "AppLovin Analytics"
+    "AppLovin SDK (mobile advertising)",
+    "MAX (ad mediation platform)",
+    "LTV (customer acquisition & retention)",
+    "AppDiscovery (app discovery network)",
+    "AppLovin Marketing Solutions (data‑driven campaigns)"
   ],
-  "extracted_at": "2026-07-03 17:43:40",
+  "extracted_at": "2026-07-06 18:12:02",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "",
       "title": "",
       "snippet": ""
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.applovin.com/",
+      "query": "AppLovin Corporation suppliers manufacturers",
+      "snippet": "Let's get you in front of a billion customers. We built AppLovin for businesses like yours. Jewelry, furniture, fitness subscriptions, word games. Wha"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://stocksifting.com/company/APP",
+      "query": "AppLovin Corporation suppliers manufacturers",
+      "snippet": "www. applovin .com NMS: APP. Explore AppLovin Corporation stock price, valuation, financial statements, dividend history, analyst estimates, and long-"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.applovin.com/",
+      "query": "AppLovin Corporation major customers clients",
+      "snippet": "Let's get you in front of a billion customers . We built AppLovin for businesses like yours. Jewelry, furniture, fitness subscriptions, word games. Wh"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.bitget.com/wiki/app-loving-stock",
+      "query": "AppLovin Corporation major customers clients",
+      "snippet": "app loving stock commonly refers to AppLovin Corporation , a U.S.-based advertising technology and mobile software company. AppLovin was founded in 20"
     }
   ]
 }

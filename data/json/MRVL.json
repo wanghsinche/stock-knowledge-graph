@@ -4,40 +4,64 @@
   "sector": "Technology",
   "industry": "Semiconductors",
   "upstream": [
-    "Silicon wafer suppliers",
-    "Lithography equipment manufacturers",
-    "Photolithography equipment suppliers",
-    "CAT",
-    "Equipment and tooling providers"
+    "TSM",
+    "Packaging and test equipment suppliers (ASE, Amkor)",
+    "Electronic design automation (EDA) tool vendors (Cadence, Synopsys)",
+    "IP core providers (ARM, Xilinx)",
+    "Raw material suppliers (silicon wafers, chemicals)"
   ],
   "downstream": [
     "CSCO",
-    "Huawei Technologies",
+    "AAPL",
+    "CAT",
     "DELL",
-    "005930.KS",
-    "AAPL"
+    "NVDA"
   ],
   "competitors": [
     "AVGO",
     "QCOM",
     "INTC",
-    "MediaTek Inc.",
-    "NVDA"
+    "NVDA",
+    "MediaTek"
   ],
   "key_products": [
+    "Network processors",
     "Ethernet controllers",
-    "NVMe SSD controllers",
-    "Wi‑Fi 6/6E chips",
-    "5G modem solutions",
-    "Storage and networking ASICs"
+    "Storage controllers",
+    "Wi‑Fi/Bluetooth chips",
+    "5G modem solutions"
   ],
-  "extracted_at": "2026-07-03 17:24:42",
+  "extracted_at": "2026-07-06 18:07:16",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Marvell_Technology,_Inc.",
       "title": "Marvell Technology",
       "snippet": "Marvell Technology, Inc. is an American company, headquartered in Santa Clara, California, which develops and produces semiconductors and related technology. Founded in 1995, the company had close to "
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/Marvell_Technology",
+      "query": "Marvell Technology, Inc. suppliers manufacturers",
+      "snippet": "Marvell Technology , Inc . is an American company, headquartered in Santa Clara, California, which develops and produces semiconductors and related te"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.marvell.com/",
+      "query": "Marvell Technology, Inc. suppliers manufacturers",
+      "snippet": "Watch the latest. Marvell Essential Technology Videos. Marvell designs custom silicon tailored for any application and offers the industry’s most comp"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://pestel-analysis.com/blogs/target-market/marvell",
+      "query": "Marvell Technology, Inc. major customers clients",
+      "snippet": "Jun 18, 2026 · Marvell Technology customer segments are concentrated in AI infrastructure customers, cloud data center customers, networking customers"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/MRVL-Customers",
+      "query": "Marvell Technology, Inc. major customers clients",
+      "snippet": "Our target customers are original equipment manufacturers and original design manufacturers, both of which design and manufacture end market devices. "
     }
   ]
 }

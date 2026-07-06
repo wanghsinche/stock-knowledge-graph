@@ -1,19 +1,67 @@
 {
   "ticker": "LITE",
   "company_name": "Lumentum Holdings Inc.",
-  "sector": "Technology",
-  "industry": "Communication Equipment",
-  "upstream": [],
-  "downstream": [],
-  "competitors": [],
-  "key_products": [],
-  "extracted_at": "2026-07-03 17:37:50",
+  "sector": "Technology / Communication Equipment",
+  "industry": "Optical Communications",
+  "upstream": [
+    "AMAT",
+    "META",
+    "Laser diode manufacturers (e.g., Finisar, II‑VI Incorporated)",
+    "Optical fiber manufacturers (e.g., Corning, Prysmian Group)",
+    "ADI"
+  ],
+  "downstream": [
+    "CAT",
+    "MSFT",
+    "CSCO",
+    "Military and defense agencies (U.S. Department of Defense, NATO)",
+    "Optical networking equipment manufacturers (Ciena, Nokia, Ericsson)"
+  ],
+  "competitors": [
+    "Coherent Inc.",
+    "Infinera Corp.",
+    "II‑VI Incorporated",
+    "Ciena Corp.",
+    "Nokia Corp."
+  ],
+  "key_products": [
+    "Optical transceivers (e.g., 400G, 800G)",
+    "Laser diodes and VCSELs",
+    "Photonic integrated circuits (PICs)",
+    "Optical amplifiers (EDFA, Raman)",
+    "Fiber‑optic components (splitters, couplers, connectors)"
+  ],
+  "extracted_at": "2026-07-06 18:10:03",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "",
       "title": "",
       "snippet": ""
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/Lumentum",
+      "query": "Lumentum Holdings Inc. suppliers manufacturers",
+      "snippet": "They primarily produce optical and photonic products in two sectors of the economy: Cloud & Networking and Industrial Tech. In the former sector, they"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/LITE-Suppliers",
+      "query": "Lumentum Holdings Inc. suppliers manufacturers",
+      "snippet": "Jun 22, 2026 · Lumentum Holdings Inc supply chain, list and performance of Lumentum Holdings Incs ' suppliers - CSIMarket"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://pitchgrade.com/companies/lumentum",
+      "query": "Lumentum Holdings Inc. major customers clients",
+      "snippet": "Customer Segments: Lumentum Holdings Inc . serves multiple distinct customer segments, which may include consumers, small and medium businesses, enter"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://in.investing.com/news/-4960725",
+      "query": "Lumentum Holdings Inc. major customers clients",
+      "snippet": "Lumentum Holdings Inc . (NASDAQ:LITE), a leading provider of optical and photonic products with a market capitalization of $8.3 billion, has been maki"
     }
   ]
 }

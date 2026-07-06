@@ -7,14 +7,14 @@
     "TSM",
     "005930.KS",
     "GlobalFoundries",
-    "MU",
-    "ARM Holdings"
+    "INTC",
+    "MU"
   ],
   "downstream": [
     "SONY",
     "MSFT",
+    "DELL",
     "AMZN",
-    "GOOGL",
     "TSLA"
   ],
   "competitors": [
@@ -22,22 +22,46 @@
     "INTC",
     "QCOM",
     "AVGO",
-    "005930.KS"
+    "AAPL"
   ],
   "key_products": [
-    "GeForce RTX GPUs",
-    "Quadro/RTX Professional GPUs",
-    "Tesla AI GPUs",
-    "Jetson SoCs",
-    "DGX AI Systems"
+    "GeForce GPUs",
+    "Quadro GPUs",
+    "Tesla GPUs",
+    "NVIDIA Tegra SoCs",
+    "CUDA API"
   ],
-  "extracted_at": "2026-07-03 17:16:13",
+  "extracted_at": "2026-07-06 18:04:50",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/NVIDIA_Corporation",
       "title": "Nvidia",
       "snippet": "Nvidia Corporation is an American multinational technology company headquartered in Santa Clara, California. The company develops graphics processing units (GPUs), systems on chips (SoCs), and applica"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/Nvidia",
+      "query": "NVIDIA Corporation suppliers manufacturers",
+      "snippet": "Nvidia Corporation is an American multinational technology company headquartered in Santa Clara, California. The company develops graphics processing "
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.britannica.com/money/NVIDIA-Corporation",
+      "query": "NVIDIA Corporation suppliers manufacturers",
+      "snippet": "NVIDIA Corporation (NVDA) is a semiconductor company and a leading global manufacturer of high-end graphics... NVIDIA was also able to accelerate its "
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/Nvidia",
+      "query": "NVIDIA Corporation major customers clients",
+      "snippet": "Nvidia Corporation is an American multinational technology company headquartered in Santa Clara, California. The company develops graphics processing "
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.nvidia.com/",
+      "query": "NVIDIA Corporation major customers clients",
+      "snippet": "NVIDIA invents the GPU and drives advances in AI, HPC, gaming, creative design, autonomous vehicles, and robotics."
     }
   ]
 }

@@ -4,40 +4,65 @@
   "sector": "Financial Services",
   "industry": "Credit Services",
   "upstream": [
-    "Card manufacturers (e.g., Gemalto)",
-    "Payment processing technology providers",
-    "Banking partners",
-    "Security solution vendors",
-    "Network infrastructure providers"
+    "Chip and card manufacturing vendors (e.g., Giesecke+Devrient, Oberthur Technologies)",
+    "Payment network infrastructure providers (e.g., AT&T, Verizon)",
+    "IBM",
+    "Electronic payment processing partners (e.g., FIS, TSYS)",
+    "MSFT"
   ],
   "downstream": [
-    "Retail merchants",
-    "Online merchants",
-    "Financial institutions (card issuers)",
-    "Consumers",
-    "E‑commerce platforms"
+    "Commercial banks and credit unions",
+    "Retail merchants and e‑commerce platforms",
+    "Financial institutions issuing Visa‑branded cards",
+    "Cardholders (individual consumers)",
+    "Payment service providers (e.g., PayPal, Stripe) using Visa’s network"
   ],
   "competitors": [
     "Mastercard",
     "American Express",
-    "Discover",
-    "PayPal",
-    "Square"
+    "Discover Financial Services",
+    "JCB Co., Ltd.",
+    "UnionPay"
   ],
   "key_products": [
     "Visa credit cards",
     "Visa debit cards",
     "Visa prepaid cards",
-    "Visa Direct",
-    "Visa Checkout"
+    "Visa payment network (VisaNet)",
+    "Visa Direct (real‑time payments)",
+    "Visa Checkout and mobile payment solutions"
   ],
-  "extracted_at": "2026-07-03 17:38:31",
+  "extracted_at": "2026-07-06 18:10:46",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Visa_Inc.",
       "title": "Visa Inc.",
       "snippet": "Visa Inc. is an American multinational payment card services corporation headquartered in San Francisco, California. It facilitates electronic funds transfers worldwide, most commonly through Visa-bra"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/Visa_Inc.",
+      "query": "Visa Inc. suppliers manufacturers",
+      "snippet": "Visa Inc . is an American multinational payment card services corporation headquartered in San Francisco, California. It facilitates electronic funds "
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/V-Suppliers",
+      "query": "Visa Inc. suppliers manufacturers",
+      "snippet": "Visa Inc supply chain, list and performance of Visa Incs ' suppliers - CSIMarket."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/Visa_Inc.",
+      "query": "Visa Inc. major customers clients",
+      "snippet": "Visa Inc . is an American multinational payment card services corporation headquartered in San Francisco, California. It facilitates electronic funds "
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.britannica.com/money/Visa-Inc",
+      "query": "Visa Inc. major customers clients",
+      "snippet": "Visa Inc . is an international payment card services corporation established in 1958.A major player in bolstering BankAmericard’s early success was De"
     }
   ]
 }

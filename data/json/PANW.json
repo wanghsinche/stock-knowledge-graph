@@ -1,43 +1,66 @@
 {
   "ticker": "PANW",
   "company_name": "Palo Alto Networks, Inc.",
-  "sector": "Technology",
-  "industry": "Software - Infrastructure",
+  "sector": "Technology / Software - Infrastructure",
+  "industry": "Cybersecurity",
   "upstream": [
     "INTC",
-    "CSCO",
-    "MSFT",
-    "MSFT",
-    "INTC"
+    "AMD",
+    "NVDA",
+    "AMZN",
+    "MSFT"
   ],
   "downstream": [
-    "Fortune 100 enterprises",
-    "Government and defense agencies",
-    "Financial institutions",
-    "Healthcare providers",
-    "CAT"
+    "Wipro",
+    "Tyson Foods",
+    "Grupo Bimbo",
+    "Putnam Investments"
   ],
   "competitors": [
     "CSCO",
     "Fortinet",
-    "Check Point Software Technologies",
+    "Check Point",
     "JNPR",
-    "CrowdStrike"
+    "Sophos"
   ],
   "key_products": [
-    "Next‑Generation Firewall",
-    "Panorama (network security management)",
-    "Cortex XDR (extended detection & response)",
-    "WildFire (cloud‑based malware analysis)",
-    "Prisma Cloud (cloud security platform)"
+    "Next-Generation Firewall",
+    "Prisma Cloud",
+    "Cortex XDR",
+    "WildFire",
+    "Unit 42 Threat Intelligence"
   ],
-  "extracted_at": "2026-07-03 17:47:22",
+  "extracted_at": "2026-07-06 18:12:39",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Palo_Alto_Networks,_Inc.",
       "title": "Palo Alto Networks",
       "snippet": "Palo Alto Networks, Inc. is an American multinational cybersecurity company with headquarters in Santa Clara, California. The core product is a platform that includes advanced firewalls and cloud-base"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.paloaltonetworks.com/",
+      "query": "Palo Alto Networks, Inc. suppliers manufacturers",
+      "snippet": "Palo Alto Networks : Cloud Security Leader in First-Ever CNAPP Report. The Forrester Wave™: Cloud Workload Security, Q1 2024.KuppingerCole Leadership "
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/news/earnings/_1_6_billion_tax_provisions_drive_earnings_surge_for_palo_alto_networks_inc-2024-02-21204422",
+      "query": "Palo Alto Networks, Inc. suppliers manufacturers",
+      "snippet": "Palo Alto Networks Inc Executive Officers. Economic Indicators. Fundamentals. Palo Alto Networks Inc Cash Flow Statement. Suppliers ."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.paloaltonetworks.com/customers",
+      "query": "Palo Alto Networks, Inc. major customers clients",
+      "snippet": "Discover how leading global brands like Wipro and Tyson Foods secure their operations with Palo Alto Networks . Explore customer success stories in cy"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.paloaltonetworks.com/network-security/customer-stories",
+      "query": "Palo Alto Networks, Inc. major customers clients",
+      "snippet": "Explore how top companies like Grupo Bimbo and Putnam Investments enhance network security with Palo Alto Networks ."
     }
   ]
 }

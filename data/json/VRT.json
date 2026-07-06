@@ -4,40 +4,64 @@
   "sector": "Industrials",
   "industry": "Electrical Equipment & Parts",
   "upstream": [
-    "Component manufacturers (e.g., power supplies, cooling fans)",
-    "Electronic component suppliers",
-    "Raw material suppliers (steel, copper)",
-    "Semiconductor suppliers",
-    "Electrical component distributors"
+    "Vertiv Group Corp.",
+    "Siemens AG",
+    "ABB Ltd",
+    "Eaton Corporation",
+    "Schneider Electric"
   ],
   "downstream": [
     "Data center operators",
     "CAT",
-    "Cloud service providers",
-    "Enterprise IT departments",
+    "Enterprise IT customers",
+    "Government agencies",
     "Industrial automation firms"
   ],
   "competitors": [
     "Schneider Electric",
-    "Eaton",
-    "ABB",
-    "Siemens",
-    "APC by Schneider"
+    "ABB Ltd",
+    "Eaton Corporation",
+    "CSCO",
+    "HPQ"
   ],
   "key_products": [
-    "Power distribution units (PDUs)",
+    "Rack‑mount power distribution units",
+    "Cooling and environmental monitoring systems",
     "Uninterruptible power supplies (UPS)",
-    "Cooling systems (CRAC, CRIU)",
-    "Racks and enclosures",
-    "Environmental monitoring solutions"
+    "Power conditioning and surge protection",
+    "Data center infrastructure management (DCIM) software"
   ],
-  "extracted_at": "2026-06-30 18:26:28",
+  "extracted_at": "2026-07-06 18:15:41",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Vertiv_Holdings_Co",
       "title": "Vertiv",
       "snippet": "Vertiv Holdings Co. is an American provider of infrastructure and services for data centers, communication networks, and commercial and industrial environments."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.marketsandmarkets.com/ResearchInsight/data-center-heat-exchangers-companies.asp",
+      "query": "Vertiv Holdings Co suppliers manufacturers",
+      "snippet": "Vertiv Group Corp. (US). Vertiv Holdings Co . is a global provider of critical digital infrastructure and continuity solutions for data centers, commu"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.vertiv.com/en-emea/",
+      "query": "Vertiv Holdings Co suppliers manufacturers",
+      "snippet": "Vertiv is a global leader in critical digital infrastructure for applications in data centers, communication networks, and commercial and industrial e"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/vertiv-holdings-co-vrt-continues-140536720.html",
+      "query": "Vertiv Holdings Co major customers clients",
+      "snippet": "Vertiv Holdings Co (NYSE:VRT) is ranked 38th on our list of 40 Most Popular Stocks Among Hedge Funds Heading Into 2026. According to our database, 96 "
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.insidermonkey.com/blog/here-is-what-to-expect-from-vertiv-holdings-vrt-following-two-major-acquisitions-1792975/",
+      "query": "Vertiv Holdings Co major customers clients",
+      "snippet": "Vertiv Holdings Co (NYSE:VRT) is one of the 10 stocks that were added to the S&P 500 index recently. So far, the stock has performed well, soaring ove"
     }
   ]
 }

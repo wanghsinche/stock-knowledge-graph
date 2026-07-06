@@ -7,38 +7,61 @@
     "Procter & Gamble",
     "Coca‑Cola",
     "PepsiCo",
-    "Johnson & Johnson",
-    "Unilever"
+    "Kraft Heinz",
+    "General Mills"
   ],
   "downstream": [
-    "Individual consumers",
+    "Consumers",
     "Small businesses",
+    "Local businesses",
     "Online shoppers",
-    "Grocery shoppers",
-    "Local communities"
+    "Corporate clients"
   ],
   "competitors": [
     "Target",
     "Costco",
     "AMZN",
-    "BJ’s Wholesale Club",
+    "BJ’s Wholesale",
     "Dollar General"
   ],
   "key_products": [
     "Groceries",
+    "Household goods",
     "Apparel",
     "Electronics",
-    "Household goods",
-    "Pharmacy products",
-    "Gasoline"
+    "Pharmacy products"
   ],
-  "extracted_at": "2026-07-03 17:42:18",
+  "extracted_at": "2026-07-06 18:12:55",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Walmart_Inc.",
       "title": "Walmart",
       "snippet": "Walmart Inc. is an American multinational omnichannel retail corporation that operates a chain of hypermarkets, discount department stores, grocery stores, pharmacies, and gas stations in the United S"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/suppliers_glance.php?code=WMT",
+      "query": "Walmart Inc. suppliers manufacturers",
+      "snippet": "Walmart Inc supply chain, list and performance of Walmart Incs ' suppliers - CSIMarket.Among Walmart Inc suppliers , the revenue of Interface Inc has "
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.walmart.com/",
+      "query": "Walmart Inc. suppliers manufacturers",
+      "snippet": "Shop Walmart .com today for Every Day Low Prices. Join Walmart + for unlimited free delivery from your store & free shipping with no order minimum. St"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://capitaloneshopping.com/research/walmart-statistics/",
+      "query": "Walmart Inc. major customers clients",
+      "snippet": "Jun 10, 2026 · Latest available data on Walmart ' s size and market share, both offline and online, with total sales and revenue breakdowns by year."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/WMT-Customers",
+      "query": "Walmart Inc. major customers clients",
+      "snippet": "For your research, we’ve provided 9 tables on Walmart Inc corporate clients . You can find them in the navigation menu under Customers & Markets. To d"
     }
   ]
 }

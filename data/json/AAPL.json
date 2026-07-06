@@ -5,15 +5,15 @@
   "industry": "Consumer Electronics",
   "upstream": [
     "TSM",
-    "LG Display (OLED/LED panels)",
     "005930.KS",
-    "Amphenol (connectors)",
-    "LG Chem (batteries)"
+    "Foxconn (Hon Hai)",
+    "Pegatron",
+    "Wistron"
   ],
   "downstream": [
-    "iPhone users worldwide",
-    "iPad users worldwide",
-    "Mac users worldwide",
+    "iPhone",
+    "iPad",
+    "IBM",
     "AAPL",
     "AAPL"
   ],
@@ -21,26 +21,47 @@
     "005930.KS",
     "GOOGL",
     "MSFT",
-    "SONY",
-    "Huawei"
+    "AMZN",
+    "SONY"
   ],
   "key_products": [
     "iPhone",
     "iPad",
     "Mac",
     "Apple Watch",
-    "Apple TV",
-    "AirPods",
-    "iOS",
-    "macOS"
+    "AirPods"
   ],
-  "extracted_at": "2026-07-03 17:16:50",
+  "extracted_at": "2026-07-06 18:05:27",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Apple_Inc.",
       "title": "Apple Inc.",
       "snippet": "Apple Inc. is an American multinational technology company headquartered in Cupertino, California, in Silicon Valley, and known for consumer electronics, software and online services. Founded in 1976 "
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/List_of_Apple_Inc._suppliers",
+      "query": "Apple Inc. suppliers manufacturers",
+      "snippet": "Apple released a list of its major suppliers for the first time in 2012. [13][14][15] The list has generally been released in yearly intervals since. "
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.investopedia.com/articles/investing/090315/10-major-companies-tied-apple-supply-chain.asp",
+      "query": "Apple Inc. suppliers manufacturers",
+      "snippet": "Apr 17, 2026 · Discover Apple ' s top suppliers and how they enhance product performance and innovation. Learn about Apple 's efficient supply chain a"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/AAPL-Customers",
+      "query": "Apple Inc. major customers clients",
+      "snippet": "For your research, we’ve provided 9 tables on Apple Inc corporate clients . You can find them in the navigation menu under Customers & Markets. To dow"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://businessmodelanalyst.com/apple-target-market/",
+      "query": "Apple Inc. major customers clients",
+      "snippet": "May 21, 2026 · Apple’s core target market is consumers aged 18 to 45, skewing toward Gen Z and Millennials, with above-average household incomes and a"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
   "ticker": "MU",
   "company_name": "Micron Technology, Inc.",
-  "sector": "Technology",
-  "industry": "Semiconductors",
+  "sector": "Technology / Semiconductors",
+  "industry": "Memory Chips",
   "upstream": [
     "AMAT",
     "ASML",
@@ -11,27 +11,27 @@
     "KLA"
   ],
   "downstream": [
-    "DELL",
-    "HPQ",
-    "Lenovo",
     "AAPL",
+    "DELL",
+    "MSFT",
+    "AMZN",
     "005930.KS"
   ],
   "competitors": [
     "005930.KS",
     "SK Hynix",
-    "Nanya Technology",
-    "Kingmax Technology",
-    "WDC"
+    "Kioxia",
+    "WDC",
+    "STX"
   ],
   "key_products": [
-    "DRAM",
-    "NAND flash memory",
+    "Dynamic Random-Access Memory (DRAM)",
+    "NAND Flash Memory",
     "High Bandwidth Memory (HBM)",
-    "Solid-state drives (SSDs)",
-    "Memory modules"
+    "Solid-State Drives (SSDs)",
+    "3D NAND"
   ],
-  "extracted_at": "2026-07-03 17:13:36",
+  "extracted_at": "2026-07-06 18:04:18",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,7 +43,7 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Micron_Technology",
       "query": "Micron Technology, Inc. suppliers manufacturers",
-      "snippet": "6 hours ago - In the 2012 to 2014 period, Micron ... memory chip manufacturing venture between Powerchip and Elpida Memory for $334 million, while ann"
+      "snippet": "3 days ago - In the 2012 to 2014 period, Micron ... memory chip manufacturing venture between Powerchip and Elpida Memory for $334 million, while anno"
     },
     {
       "source": "DuckDuckGo",
@@ -55,7 +55,7 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Micron_Technology",
       "query": "Micron Technology, Inc. major customers clients",
-      "snippet": "6 hours ago - Micron Technology , Inc . is an American multinational semiconductor company that manufactures computer memory and computer data storage"
+      "snippet": "3 days ago - Micron Technology , Inc . is an American multinational semiconductor company that manufactures computer memory and computer data storage "
     },
     {
       "source": "DuckDuckGo",

@@ -4,18 +4,18 @@
   "sector": "Technology",
   "industry": "Computer Hardware",
   "upstream": [
-    "Hard disk platter manufacturers",
-    "Magnetic head manufacturers",
-    "Printed circuit board (PCB) suppliers",
-    "Electronics component suppliers",
-    "Precision machining and tooling suppliers"
+    "MU",
+    "005930.KS",
+    "SK Hynix",
+    "Toshiba",
+    "STMicroelectronics"
   ],
   "downstream": [
     "DELL",
-    "DELL",
-    "Data center operators",
-    "GOOGL",
-    "AAPL"
+    "HPQ",
+    "Lenovo Group",
+    "AAPL",
+    "AMZN"
   ],
   "competitors": [
     "STX",
@@ -27,17 +27,41 @@
   "key_products": [
     "Hard Disk Drives (HDDs)",
     "Solid State Drives (SSDs)",
-    "External storage devices",
-    "Enterprise storage solutions",
-    "Network Attached Storage (NAS) devices"
+    "External Storage Devices",
+    "Enterprise Storage Solutions",
+    "Cloud Storage Platforms"
   ],
-  "extracted_at": "2026-07-03 17:31:36",
+  "extracted_at": "2026-07-06 18:07:57",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Western_Digital_Corporation",
       "title": "Western Digital",
       "snippet": "Western Digital Corporation, doing business as WD, is an American data storage company headquartered in San Jose, California. Established in 1970, the company is one of the world's largest manufacture"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.mycloud.com/",
+      "query": "Western Digital Corporation suppliers manufacturers",
+      "snippet": "© 2020 Western Digital Corporation или аффилированные лица."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://octopart.com/wd3200aajs-40h3a1-western+digital-83062528",
+      "query": "Western Digital Corporation suppliers manufacturers",
+      "snippet": "Find the best pricing for Western Digital WD 3200AAJS-40H3A1 by comparing bulk discounts from distributors. Octopart is the world's source for WD 3200"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.mycloud.com/",
+      "query": "Western Digital Corporation major customers clients",
+      "snippet": "© 2020 Western Digital Corporation или аффилированные лица."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://weissratings.com/en/instant-news-alerts/western-digital-corporation-wdc-up-5-7-time-to-commit-before-it-s-too-late",
+      "query": "Western Digital Corporation major customers clients",
+      "snippet": "Western Digital Corporation (WDC) is a long-established Information Technology company in the Technology Hardware and Equipment industry, focused on d"
     }
   ]
 }

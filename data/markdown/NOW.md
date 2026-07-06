@@ -3,8 +3,8 @@ ticker: NOW
 company: ServiceNow, Inc.
 sector: Technology
 industry: Software - Application
-extracted_at: 2026-07-02 17:40:45
-last_updated: 2026-07-02
+extracted_at: 2026-07-06 18:15:02
+last_updated: 2026-07-06
 ---
 
 # NOW - ServiceNow, Inc.
@@ -12,37 +12,37 @@ last_updated: 2026-07-02
 ## 基本信息
 
 - **所属行业**: Technology / Software - Application
-- **提取时间**: 2026-07-02 17:40:45
+- **提取时间**: 2026-07-06 18:15:02
 
 ## 产业链关系
 
 ### 上游供应商
-- [[AMZN]]
 - [[MSFT]]
+- [[AMZN]]
 - [[GOOGL]]
+- [[IBM]]
+- [[ORCL]]
+
+### 下游客户
+- [[US Federal Government]]
+- [[Bank of America]]
+- [[Coca‑Cola]]
+- [[Walmart]]
+- [[General Electric]]
+
+### 竞争对手
+- [[CRM]]
+- [[SAP]]
+- [[MSFT]]
 - [[ORCL]]
 - [[IBM]]
 
-### 下游客户
-- [[Large enterprises]]
-- [[Government agencies]]
-- [[Financial institutions]]
-- [[Retail companies]]
-- [[CAT]]
-
-### 竞争对手
-- [[MSFT]]
-- [[CRM]]
-- [[Workday]]
-- [[SAP SuccessFactors]]
-- [[ORCL]]
-
 ### 核心产品
-- [[ServiceNow Platform]]
-- [[Integration Hub]]
-- [[Supplier Lifecycle Operations]]
-- [[Customer Service Management]]
+- [[Now Platform]]
 - [[IT Service Management]]
+- [[IT Operations Management]]
+- [[IT Business Management]]
+- [[Customer Service Management]]
 
 ## 数据来源
 
@@ -54,4 +54,4 @@ last_updated: 2026-07-02
 
 ## 元数据
 
-- **更新日期**: 2026-07-02
+- **更新日期**: 2026-07-06

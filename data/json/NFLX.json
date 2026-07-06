@@ -1,21 +1,21 @@
 {
   "ticker": "NFLX",
   "company_name": "Netflix, Inc.",
-  "sector": "Communication Services / Entertainment",
-  "industry": "Streaming Media",
+  "sector": "Communication Services",
+  "industry": "Entertainment",
   "upstream": [
-    "Film and Television Production Studios",
-    "Content Production Companies",
-    "Film Distributors",
-    "Music Licensing Agencies",
-    "Advertising Agencies"
+    "Content production studios (e.g., Warner Bros., Disney)",
+    "AMZN",
+    "AAPL",
+    "Technology vendors (e.g., Visual Data)",
+    "Marketing and advertising agencies"
   ],
   "downstream": [
-    "Individual Subscribers",
-    "Corporate Subscriptions",
-    "Smart TV OEMs",
-    "Cable and Satellite Providers",
-    "Mobile Network Operators"
+    "Individual subscribers worldwide",
+    "Corporate clients (airlines, hotels, telecoms)",
+    "Device manufacturers (smart TVs, set‑top boxes)",
+    "Telecom operators",
+    "Streaming device manufacturers"
   ],
   "competitors": [
     "Disney+",
@@ -25,19 +25,43 @@
     "AAPL"
   ],
   "key_products": [
-    "Netflix Streaming Service",
-    "Original Series and Films",
-    "Licensed Movies and TV Shows",
-    "Mobile and Smart TV Apps",
-    "User Profile and Recommendation Engine"
+    "Netflix streaming service",
+    "Original programming (e.g., Stranger Things)",
+    "Licensed content library",
+    "Mobile and web applications",
+    "Recommendation engine and user interface"
   ],
-  "extracted_at": "2026-07-03 17:33:20",
+  "extracted_at": "2026-07-06 18:11:06",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Netflix,_Inc.",
       "title": "Netflix, Inc.",
       "snippet": "Netflix, Inc. is an American media company founded on August 29, 1997, by Reed Hastings and Marc Randolph in Scotts Valley, California, and currently based in Los Gatos, California, with production of"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/NFLX-Suppliers",
+      "query": "Netflix, Inc. suppliers manufacturers",
+      "snippet": "Jun 22, 2026 · Netflix Inc supply chain, list and performance of Netflix Incs ' suppliers - CSIMarket"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://npfp.netflixstudios.com/region/global/",
+      "query": "Netflix, Inc. suppliers manufacturers",
+      "snippet": "Visual Data (UK) became a Netflix Preferred Vendor in 2013 and its technical, professional and service standards are among the highest in the industry"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/NFLX-Customers",
+      "query": "Netflix, Inc. major customers clients",
+      "snippet": "Updated on: Focus of this report: Netflix Inc ’ s corporate clients . For your research, we’ve provided 9 tables on Netflix Inc corporate clients . Yo"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://ir.netflix.net/ir-overview/profile/default.aspx",
+      "query": "Netflix, Inc. major customers clients",
+      "snippet": "Jun 4, 2026 · Netflix is one of the world’s leading entertainment services offering TV series, films, games and live programming across a wide variety"
     }
   ]
 }

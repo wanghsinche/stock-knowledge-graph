@@ -4,40 +4,64 @@
   "sector": "Communication Services",
   "industry": "Internet Content & Information",
   "upstream": [
-    "NVDA",
-    "AMD",
-    "INTC",
-    "AMZN",
-    "MSFT"
+    "Hardware manufacturers",
+    "Cloud service providers",
+    "AI chip suppliers",
+    "Data center providers",
+    "Software vendors"
   ],
   "downstream": [
-    "GOOGL",
-    "AMZN",
-    "MSFT",
-    "IBM",
-    "ORCL"
+    "Large enterprises",
+    "Government agencies",
+    "Financial institutions",
+    "Telecom operators",
+    "E-commerce platforms"
   ],
   "competitors": [
-    "NVDA",
-    "AMD",
-    "INTC",
+    "OpenAI",
     "GOOGL",
-    "AWS AI"
+    "MSFT",
+    "AMZN",
+    "IBM"
   ],
   "key_products": [
-    "Nebius AI Platform",
-    "Avride",
-    "TripleTen",
-    "Toloka",
-    "Clickhouse"
+    "AI infrastructure platform",
+    "Nebius AI Cloud",
+    "Nebius AI Engine",
+    "Nebius AI Services",
+    "Nebius AI Analytics"
   ],
-  "extracted_at": "2026-07-03 17:30:10",
+  "extracted_at": "2026-07-06 18:08:25",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/NBIS",
       "title": "Nebius Group",
       "snippet": "Nebius Group N.V., headquartered in Amsterdam, is a technology company that provides artificial intelligence infrastructure. The company also owns Avride and TripleTen, as well as stakes in Toloka and"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/suppliers_glance.php?code=NBIS",
+      "query": "NBIS suppliers manufacturers",
+      "snippet": "NBIS 's Suppliers Management Effectiveness. NBIS 's Competitors Results. NBIS 's vs. Suppliers , Data. (Revenue and Income for Trailing 12 Months, in "
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://finance.yahoo.com/quote/NBIS/",
+      "query": "NBIS suppliers manufacturers",
+      "snippet": "Find the latest Nebius Group N.V. ( NBIS ) stock quote, history, news and other vital information to help you with your stock trading and investing."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/Nebius_Group",
+      "query": "NBIS major customers clients",
+      "snippet": "In December 2024, Nebius raised $700 million through private investors, including Nvidia (which acquired 0.5% of Nebius ) and Accel Partners. [5]"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/NBIS-Customers",
+      "query": "NBIS major customers clients",
+      "snippet": "5 days ago · For your research, we’ve provided 9 tables on Nebius Group n v corporate clients . You can find them in the navigation menu under Custome"
     }
   ]
 }

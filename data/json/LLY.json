@@ -4,40 +4,64 @@
   "sector": "Healthcare",
   "industry": "Drug Manufacturers - General",
   "upstream": [
-    "Active Pharmaceutical Ingredient (API) manufacturers",
-    "Contract Manufacturing Organizations (CMOs)",
+    "API suppliers",
+    "Contract manufacturing organizations (CMOs)",
+    "Raw material suppliers",
     "Packaging suppliers",
-    "Laboratory equipment suppliers",
-    "Raw material suppliers"
+    "Logistics providers"
   ],
   "downstream": [
     "Hospitals",
     "Pharmacies",
-    "Health insurance providers",
+    "Health insurance companies",
     "Government health agencies",
-    "Retail pharmacy chains"
+    "Private medical practices"
   ],
   "competitors": [
     "Pfizer",
     "Johnson & Johnson",
-    "Merck & Co.",
-    "AbbVie",
-    "Bristol-Myers Squibb"
+    "Merck",
+    "Novartis",
+    "AbbVie"
   ],
   "key_products": [
-    "Humalog (insulin lispro)",
-    "Lantus (insulin glargine)",
-    "Trulicity (dulaglutide)",
-    "Cymbalta (duloxetine)",
-    "Zyprexa (olanzapine)"
+    "Trulicity",
+    "Mounjaro",
+    "Lantus",
+    "Zyprexa",
+    "Cymbalta"
   ],
-  "extracted_at": "2026-07-03 17:36:46",
+  "extracted_at": "2026-07-06 18:14:11",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Eli_Lilly_and_Company",
       "title": "Eli Lilly and Company",
       "snippet": "Eli Lilly and Company, doing business as Lilly, is an American multinational pharmaceutical company headquartered in Indianapolis, Indiana, with offices in 18 countries. Its products are sold in appro"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/Eli_Lilly_and_Company",
+      "query": "Eli Lilly and Company suppliers manufacturers",
+      "snippet": "Eli Lilly and Company , doing business as Lilly , is an American multinational pharmaceutical company headquartered in Indianapolis, Indiana, with off"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.lilly.com/suppliers",
+      "query": "Eli Lilly and Company suppliers manufacturers",
+      "snippet": "View supplier resources including accounts payable, invoicing, payments, new and existing supplier guidance, and the Lilly Supplier portal."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/Eli_Lilly_and_Company",
+      "query": "Eli Lilly and Company major customers clients",
+      "snippet": "Eli Lilly and Company , doing business as Lilly , is an American multinational pharmaceutical company headquartered in Indianapolis, Indiana, with off"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://finance.yahoo.com/quote/LLY/",
+      "query": "Eli Lilly and Company major customers clients",
+      "snippet": "Find the latest Eli Lilly and Company (LLY) stock quote, history, news and other vital information to help you with your stock trading and investing."
     }
   ]
 }

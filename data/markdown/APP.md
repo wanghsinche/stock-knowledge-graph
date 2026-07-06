@@ -1,53 +1,57 @@
 ---
 ticker: APP
 company: AppLovin Corporation
-sector: Communication Services
-industry: Advertising Agencies
-extracted_at: 2026-07-03 17:43:40
-last_updated: 2026-07-03
+sector: Communication Services / Advertising Agencies
+industry: Digital Advertising / Mobile Ad Tech
+extracted_at: 2026-07-06 18:12:02
+last_updated: 2026-07-06
 ---
 
 # APP - AppLovin Corporation
 
 ## 基本信息
 
-- **所属行业**: Communication Services / Advertising Agencies
-- **提取时间**: 2026-07-03 17:43:40
+- **所属行业**: Communication Services / Advertising Agencies / Digital Advertising / Mobile Ad Tech
+- **提取时间**: 2026-07-06 18:12:02
 
 ## 产业链关系
 
 ### 上游供应商
-- [[AMZN]]
+- [[Cloud service providers (e.g., AWS, Azure)]]
 - [[GOOGL]]
-- [[MSFT]]
-- [[Unity Technologies]]
-- [[AAPL]]
+- [[Data analytics vendors]]
+- [[Mobile operating system providers (iOS, Android)]]
+- [[Technology infrastructure suppliers]]
 
 ### 下游客户
-- [[Mobile game developers]]
 - [[Mobile app developers]]
-- [[Digital advertisers]]
-- [[Mobile publishers]]
-- [[Marketing agencies]]
+- [[Game studios]]
+- [[Brand advertisers]]
+- [[Digital marketing agencies]]
+- [[E‑commerce app owners]]
 
 ### 竞争对手
 - [[Unity Ads]]
-- [[Vungle]]
 - [[AdColony]]
+- [[Vungle]]
 - [[IronSource]]
 - [[GOOGL]]
 
 ### 核心产品
-- [[AppLovin MAX (ad mediation)]]
-- [[AppLovin Studio]]
-- [[AppLovin SDK]]
-- [[AppLovin Data Platform]]
-- [[AppLovin Analytics]]
+- [[AppLovin SDK (mobile advertising)]]
+- [[MAX (ad mediation platform)]]
+- [[LTV (customer acquisition & retention)]]
+- [[AppDiscovery (app discovery network)]]
+- [[AppLovin Marketing Solutions (data‑driven campaigns)]]
 
 ## 数据来源
 
 - 
+- [AppLovin Corporation suppliers manufacturers](https://www.applovin.com/)
+- [AppLovin Corporation suppliers manufacturers](https://stocksifting.com/company/APP)
+- [AppLovin Corporation major customers clients](https://www.applovin.com/)
+- [AppLovin Corporation major customers clients](https://www.bitget.com/wiki/app-loving-stock)
 
 ## 元数据
 
-- **更新日期**: 2026-07-03
+- **更新日期**: 2026-07-06

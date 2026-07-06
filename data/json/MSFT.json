@@ -7,37 +7,61 @@
     "INTC",
     "AMD",
     "NVDA",
-    "QCOM",
-    "MSFT"
+    "DELL",
+    "CSCO"
   ],
   "downstream": [
-    "Enterprise customers (e.g., banks, government agencies)",
+    "Enterprise customers (e.g., Fortune 500 companies)",
+    "Government agencies",
     "DELL",
-    "Consumer users of Windows and Office",
-    "Gaming studios using Xbox Live",
-    "Cloud service users of Azure"
+    "Individual consumers",
+    "Cloud customers (Azure users)"
   ],
   "competitors": [
     "AAPL",
     "GOOGL",
     "AMZN",
     "ORCL",
-    "IBM"
+    "CRM"
   ],
   "key_products": [
     "Windows operating system",
     "Microsoft Office suite",
     "Azure cloud platform",
-    "Surface hardware line",
+    "Microsoft Teams",
     "Xbox gaming console"
   ],
-  "extracted_at": "2026-07-03 17:17:26",
+  "extracted_at": "2026-07-06 18:05:40",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Microsoft_Corporation",
       "title": "Microsoft",
       "snippet": "Microsoft Corporation is an American multinational technology company headquartered in Redmond, Washington. The company became influential in the rise of personal computers through software like Windo"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/MSFT-Suppliers",
+      "query": "Microsoft Corporation suppliers manufacturers",
+      "snippet": "Jun 22, 2026 · Microsoft supply chain, list and performance of Microsofts ' suppliers - CSIMarket"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.microsoft.com/en-us/professionalservices/suppliers",
+      "query": "Microsoft Corporation suppliers manufacturers",
+      "snippet": "Microsoft requires all suppliers to join the Microsoft Supplier Security and Privacy Assurance Program (SSPA). This program is designed to standardize"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/MSFT-Customers",
+      "query": "Microsoft Corporation major customers clients",
+      "snippet": "Individual consumers obtain these products primarily through retail outlets, such as Wal-Mart, Dixons, and Microsoft retail stores. We distribute our "
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.appsruntheworld.com/customers-database/vendors/view/microsoft",
+      "query": "Microsoft Corporation major customers clients",
+      "snippet": "Which Microsoft products have the most recorded customers ? The most widely adopted products are Microsoft 365, Microsoft Azure Cloud Services, Micros"
     }
   ]
 }

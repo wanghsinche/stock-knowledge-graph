@@ -13,31 +13,55 @@
   "downstream": [
     "DELL",
     "HPQ",
-    "Lenovo",
-    "IBM",
-    "CSCO"
+    "Lenovo Group",
+    "MSFT",
+    "AMZN"
   ],
   "competitors": [
     "AMD",
     "NVDA",
-    "TSM",
-    "005930.KS",
-    "QCOM"
+    "QCOM",
+    "AVGO",
+    "TSM"
   ],
   "key_products": [
     "Intel Core processors",
     "Intel Xeon processors",
-    "Intel Xe GPUs",
-    "Intel Optane memory",
-    "Intel FPGAs (Altera)"
+    "Intel chipsets",
+    "Intel FPGAs",
+    "Intel memory solutions"
   ],
-  "extracted_at": "2026-07-03 17:19:22",
+  "extracted_at": "2026-07-06 18:06:09",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Intel_Corporation",
       "title": "Intel",
       "snippet": "Intel Corporation is an American multinational technology company headquartered in Santa Clara, California. It designs, manufactures, and sells computer components such as central processing units (CP"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/INTC-Suppliers",
+      "query": "Intel Corporation suppliers manufacturers",
+      "snippet": "Intel supply chain, list and performance of Intels' suppliers - CSIMarket. Intel 's Comment on Supply Chain. We use third-party foundries to manufactu"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.globalspec.com/supplier/profile/Intel",
+      "query": "Intel Corporation suppliers manufacturers",
+      "snippet": "Intel Corporation business profile on GlobalSpec. Read about Intel Corporation , browse product catalogs and product areas.(408) 765-9904. Business Ty"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://finance.yahoo.com/quote/INTC/",
+      "query": "Intel Corporation major customers clients",
+      "snippet": "Find the latest Intel Corporation (INTC) stock quote, history, news and other vital information to help you with your stock trading and investing."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.tradingview.com/symbols/NASDAQ-INTC/",
+      "query": "Intel Corporation major customers clients",
+      "snippet": "View live Intel Corporation chart to track its stock's price action. Find market predictions, INTC financials and market news."
     }
   ]
 }

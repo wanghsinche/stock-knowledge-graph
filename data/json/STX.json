@@ -3,41 +3,29 @@
   "company_name": "Seagate Technology Holdings plc",
   "sector": "Technology",
   "industry": "Computer Hardware",
-  "upstream": [
-    "MU",
-    "005930.KS",
-    "SK Hynix (semiconductor memory)",
-    "TDK (magnetic materials)",
-    "Panasonic (electronic components)"
-  ],
-  "downstream": [
-    "DELL",
-    "HPQ",
-    "Lenovo Group",
-    "AMZN",
-    "MSFT"
-  ],
-  "competitors": [
-    "WDC",
-    "Toshiba (Kioxia)",
-    "005930.KS",
-    "INTC",
-    "MU"
-  ],
-  "key_products": [
-    "Barracuda HDD",
-    "IronWolf HDD",
-    "Exos HDD",
-    "SkyHawk HDD",
-    "Seagate SSD"
-  ],
-  "extracted_at": "2026-07-03 17:30:58",
+  "upstream": [],
+  "downstream": [],
+  "competitors": [],
+  "key_products": [],
+  "extracted_at": "2026-07-06 18:09:41",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "",
       "title": "",
       "snippet": ""
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/Seagate_Technology",
+      "query": "Seagate Technology Holdings plc suppliers manufacturers",
+      "snippet": "In 1989, Seagate acquired Control Data Corporation 's Imprimis division, the makers of CDC's HDD products. Seagate acquired Conner Peripherals in 1996"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/STX-Suppliers",
+      "query": "Seagate Technology Holdings plc suppliers manufacturers",
+      "snippet": "Jun 22, 2026 · Sources: Seagate Technology Holdings Plc 's official press releases and regulatory filings; CSIMarket.com's supply -chain research; and"
     }
   ]
 }

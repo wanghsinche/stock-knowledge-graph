@@ -1,43 +1,67 @@
 {
   "ticker": "IREN",
   "company_name": "IREN Limited",
-  "sector": "Financial Services",
+  "sector": "Financial Services / Capital Markets",
   "industry": "Capital Markets",
   "upstream": [
-    "Financial technology providers",
-    "Data analytics firms",
-    "Regulatory bodies",
-    "Clearing houses",
-    "Custodian banks"
+    "NVDA",
+    "AMD",
+    "INTC",
+    "DELL",
+    "CSCO"
   ],
   "downstream": [
-    "Corporate clients",
-    "Institutional investors",
-    "Retail investors",
-    "Insurance companies",
-    "Pension funds"
+    "AI research labs",
+    "Fintech firms",
+    "High‑frequency trading firms",
+    "Gaming companies",
+    "Universities"
   ],
   "competitors": [
-    "Commonwealth Bank",
-    "Westpac",
-    "ANZ",
-    "National Australia Bank",
-    "Macquarie Group"
+    "AMZN",
+    "MSFT",
+    "GOOGL",
+    "IBM",
+    "ORCL"
   ],
   "key_products": [
-    "Capital market advisory",
-    "Securities underwriting",
-    "Trading platform",
-    "Asset management",
-    "Wealth management"
+    "GPU compute services",
+    "Data center hosting",
+    "Cloud computing",
+    "AI infrastructure",
+    "GPU‑as‑a‑service"
   ],
-  "extracted_at": "2026-07-03 17:54:53",
+  "extracted_at": "2026-07-06 18:11:34",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "",
       "title": "",
       "snippet": ""
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.iren.com/",
+      "query": "IREN Limited suppliers manufacturers",
+      "snippet": "Whether you need immediate access to GPUs, world-class turnkey data centers for your own hardware, or a partner to design and build your AI-ready faci"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/suppliers_glance.php?code=IREN",
+      "query": "IREN Limited suppliers manufacturers",
+      "snippet": "Iren Limited supply chain, list and performance of Iren Limiteds ' suppliers - CSIMarket"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/IREN-Customers",
+      "query": "IREN Limited major customers clients",
+      "snippet": "4 days ago · For your research, we’ve provided 9 tables on Iren Limited corporate clients . You can find them in the navigation menu under Customers &"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://finviz.com/news/262618/irens-ai-client-base-expands-is-growth-becoming-more-durable",
+      "query": "IREN Limited major customers clients",
+      "snippet": "Dec 26, 2025 · Importantly, CoreWeave noted that nine of its ten largest customers now have multiple contracts, indicating the growing expansion and d"
     }
   ]
 }

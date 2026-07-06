@@ -1,43 +1,67 @@
 {
   "ticker": "MSTR",
   "company_name": "Strategy Inc",
-  "sector": "Technology / Software - Application",
-  "industry": "Business Intelligence & Analytics",
+  "sector": "Technology",
+  "industry": "Software - Application",
   "upstream": [
-    "AMZN",
-    "MSFT",
-    "GOOGL",
-    "ORCL",
-    "IBM"
+    "DELL",
+    "HPQ",
+    "Lenovo",
+    "INTC",
+    "NVDA"
   ],
   "downstream": [
+    "Walmart",
     "JPMorgan Chase",
     "Bank of America",
-    "Walmart",
-    "Coca‑Cola",
-    "General Electric"
+    "AT&T",
+    "Verizon"
   ],
   "competitors": [
     "SAP SE Business Objects",
     "IBM",
     "ORCL",
     "MSFT",
-    "Tableau Software"
+    "CRM"
   ],
   "key_products": [
-    "MicroStrategy Analytics Platform",
+    "MicroStrategy Desktop",
+    "MicroStrategy Web",
     "MicroStrategy Mobile",
-    "MicroStrategy Cloud",
-    "MicroStrategy Data Visualization",
-    "MicroStrategy AI Analytics"
+    "MicroStrategy Analytics",
+    "MicroStrategy Cloud"
   ],
-  "extracted_at": "2026-07-03 17:40:03",
+  "extracted_at": "2026-07-06 18:08:53",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Strategy_Inc",
       "title": "MicroStrategy",
       "snippet": "Strategy Inc., formerly known as MicroStrategy, is an American company that provides business intelligence (BI) and mobile software. Founded in 1989 by Michael J. Saylor, Sanju Bansal, and Thomas Spah"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://finance.yahoo.com/quote/MSTR/",
+      "query": "Strategy Inc suppliers manufacturers",
+      "snippet": "Find the latest Strategy Inc (MSTR) stock quote, history, news and other vital information to help you with your stock trading and investing."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://ru.tradingview.com/symbols/NASDAQ-MSTR/",
+      "query": "Strategy Inc suppliers manufacturers",
+      "snippet": "Следите за графиком Strategy Inc , чтобы быть в курсе цены акций. Вы также найдёте прогнозы, отчётность MSTR и новости рынка."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/MicroStrategy",
+      "query": "Strategy Inc major customers clients",
+      "snippet": "Strategy has launched four credit instruments in the second and third quarter of 2025 worth $4 billion, with more to come. Michael Saylor told Bloombe"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.strategy.inc/",
+      "query": "Strategy Inc major customers clients",
+      "snippet": "Identify and develop your strategy competencies with the Big 5 of Strategy . Use our validated framework to assess and grow strategy capabilities acro"
     }
   ]
 }

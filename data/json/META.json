@@ -4,40 +4,64 @@
   "sector": "Communication Services",
   "industry": "Internet Content & Information",
   "upstream": [
+    "INTC",
     "NVDA",
+    "AMD",
     "QCOM",
-    "DELL",
-    "HPQ",
-    "AMZN"
+    "TSM"
   ],
   "downstream": [
     "Advertisers",
-    "Small businesses",
-    "App developers",
-    "Content creators",
-    "Media companies"
+    "Brands",
+    "Businesses",
+    "Media Companies",
+    "Content Creators"
   ],
   "competitors": [
     "GOOGL",
     "AMZN",
     "AAPL",
     "MSFT",
-    "ByteDance (TikTok)"
+    "NVDA"
   ],
   "key_products": [
     "Facebook",
     "Instagram",
     "WhatsApp",
     "Messenger",
-    "Meta Ads"
+    "Threads"
   ],
-  "extracted_at": "2026-07-03 17:20:42",
+  "extracted_at": "2026-07-06 18:06:36",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Meta_Platforms,_Inc.",
       "title": "Meta Platforms",
       "snippet": "Meta Platforms, Inc. is an American multinational technology company headquartered in Menlo Park, California. Meta owns and operates several prominent social media platforms and communication services"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/META-Suppliers",
+      "query": "Meta Platforms, Inc. suppliers manufacturers",
+      "snippet": "Jun 22, 2026 · Meta Platforms Inc 's Suppliers recorded an increase in sales by 14.3 % year on year in Q1 2026, sequentially sales grew by 13.44 %, Me"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.makesureiknowit.com/company/meta-platforms",
+      "query": "Meta Platforms, Inc. suppliers manufacturers",
+      "snippet": "Operates one of the world's largest AI-compute footprints, combining millions of GPUs with its own MTIA silicon and $115-135B in 2026 capex. Meta comm"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.azbpartners.com/bank/meta-platforms-inc-in-connection-with-its-usd-900-mn-investment-in-cred-dreamplug-technologies-private-limited/",
+      "query": "Meta Platforms, Inc. major customers clients",
+      "snippet": "CRED operates technology-driven platforms that enable users to access a range of financial and digital services, including lending, investments, insur"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.fool.com/investing/2026/07/02/meta-wants-in-on-the-cloud-is-amazon-stock-still-a/",
+      "query": "Meta Platforms, Inc. major customers clients",
+      "snippet": "Daniel Sparks and his clients have no position in any of the stocks mentioned. The Motley Fool has positions in and recommends Alphabet, Amazon, Meta "
     }
   ]
 }

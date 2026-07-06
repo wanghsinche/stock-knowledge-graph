@@ -4,40 +4,64 @@
   "sector": "Technology",
   "industry": "Semiconductors",
   "upstream": [
-    "Silicon wafer suppliers",
-    "Lithography equipment manufacturers",
-    "Memory chip suppliers",
-    "EDA software providers",
-    "Packaging and testing services"
+    "TSM",
+    "005930.KS",
+    "GlobalFoundries",
+    "INTC",
+    "UMC"
   ],
   "downstream": [
     "AAPL",
     "005930.KS",
-    "Huawei Technologies",
-    "Xiaomi Corporation",
-    "Ericsson AB"
+    "Huawei",
+    "Xiaomi",
+    "Oppo"
   ],
   "competitors": [
-    "MediaTek Inc.",
+    "MediaTek",
     "AVGO",
     "INTC",
-    "NVDA",
-    "005930.KS"
+    "005930.KS",
+    "AAPL"
   ],
   "key_products": [
     "Snapdragon mobile processors",
-    "5G modem chips",
-    "AI inference chips",
-    "RF front‑end modules",
-    "Baseband processors"
+    "5G/4G modems",
+    "AI chips",
+    "SoC solutions",
+    "Wireless communication technologies"
   ],
-  "extracted_at": "2026-07-03 17:42:58",
+  "extracted_at": "2026-07-06 18:13:06",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/QUALCOMM_Incorporated",
       "title": "Qualcomm",
       "snippet": "Qualcomm Incorporated is an American multinational technology corporation headquartered in San Diego, California. The company develops and designs technologies for global communications and computing,"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/QCOM-Suppliers",
+      "query": "QUALCOMM Incorporated suppliers manufacturers",
+      "snippet": "Jun 22, 2026 · Qualcomm Inc 's Comment on Supply Chain Our QCT segment purchases wafers, die and fully-assembled and tested integrated circuits from t"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.qualcomm.com/info/manufacturers",
+      "query": "QUALCOMM Incorporated suppliers manufacturers",
+      "snippet": "From ultra-connected modems to powerful, battery-saving processors, Qualcomm products are key to creating cutting-edge, feature-rich and cost-effectiv"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.qualcomm.com/company",
+      "query": "QUALCOMM Incorporated major customers clients",
+      "snippet": "Review Qualcomm 's corporate history, values, and history of innovation. Qualcomm helps transform industries, create new experiences, and support the "
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.nasdaq.com/market-activity/stocks/qcom",
+      "query": "QUALCOMM Incorporated major customers clients",
+      "snippet": "Data Disclaimer: The Nasdaq Indices and the Major Indices are delayed at least 1 minute.Markets. Why Qualcomm Stock Popped Today. 1 day ago • The Motl"
     }
   ]
 }

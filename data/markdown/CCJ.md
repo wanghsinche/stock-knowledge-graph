@@ -3,8 +3,8 @@ ticker: CCJ
 company: Cameco Corporation
 sector: Energy
 industry: Uranium
-extracted_at: 2026-07-03 18:00:14
-last_updated: 2026-07-03
+extracted_at: 2026-07-06 18:17:04
+last_updated: 2026-07-06
 ---
 
 # CCJ - Cameco Corporation
@@ -12,7 +12,7 @@ last_updated: 2026-07-03
 ## 基本信息
 
 - **所属行业**: Energy / Uranium
-- **提取时间**: 2026-07-03 18:00:14
+- **提取时间**: 2026-07-06 18:17:04
 
 ## 产业链关系
 
@@ -20,34 +20,38 @@ last_updated: 2026-07-03
 - [[CAT]]
 - [[Komatsu Ltd.]]
 - [[Sandvik AB]]
-- [[Wirtgen GmbH]]
-- [[Terex Corporation]]
+- [[Eaton Corporation]]
+- [[HPQ]]
 
 ### 下游客户
-- [[Ontario Power Generation]]
-- [[China General Nuclear Power Group]]
-- [[Rosatom]]
-- [[Electricité de France]]
-- [[U.S. Department of Energy]]
+- [[Électricité de France (EDF)]]
+- [[Rosatom (Russia)]]
+- [[China National Nuclear Corporation (CNNC)]]
+- [[Korea Hydro & Nuclear Power (KHNP)]]
+- [[U.S. Nuclear Regulatory Commission (USNRC) customers]]
 
 ### 竞争对手
-- [[Uranium Energy Corp]]
-- [[Uranium One]]
 - [[Kazatomprom]]
-- [[Rio Tinto]]
-- [[HPQ]]
+- [[Orano]]
+- [[Uranium Energy Corp]]
+- [[Uranium One Ltd.]]
+- [[NexGen Energy Ltd.]]
 
 ### 核心产品
 - [[Uranium ore]]
-- [[Uranium concentrate (U3O8)]]
-- [[Enriched uranium fuel]]
-- [[Uranium hexafluoride (UF6)]]
-- [[Uranium dioxide (UO2) fuel pellets]]
+- [[Enriched uranium]]
+- [[Uranium fuel services]]
+- [[Uranium concentrate]]
+- [[Uranium processing equipment]]
 
 ## 数据来源
 
 - [Cameco](https://en.wikipedia.org/wiki/Cameco_Corporation)
+- [Cameco Corporation suppliers manufacturers](https://csimarket.com/stocks/CCJ-Suppliers)
+- [Cameco Corporation suppliers manufacturers](https://www.tendata.com/en/buyer/cameco-inc-CANN3ea9f52e3e875bb5b94637fe1f770b12.html)
+- [Cameco Corporation major customers clients](https://www.cameco.com/invest/markets/cameco-customers)
+- [Cameco Corporation major customers clients](https://csimarket.com/stocks/CCJ-Customers)
 
 ## 元数据
 
-- **更新日期**: 2026-07-03
+- **更新日期**: 2026-07-06
