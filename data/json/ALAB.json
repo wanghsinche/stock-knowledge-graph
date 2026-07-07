@@ -4,40 +4,64 @@
   "sector": "Technology",
   "industry": "Semiconductors",
   "upstream": [
-    "Silicon wafer suppliers",
-    "Photonic component manufacturers",
-    "Packaging and assembly providers",
-    "E-beam lithography equipment suppliers",
-    "EDA tool vendors"
+    "TSM",
+    "005930.KS",
+    "GlobalFoundries",
+    "MU",
+    "ARM Holdings"
   ],
   "downstream": [
-    "CSCO",
     "DELL",
     "HPQ",
-    "NetApp",
-    "Lenovo"
+    "Lenovo",
+    "CSCO",
+    "NVDA"
   ],
   "competitors": [
     "AVGO",
     "MRVL",
-    "Lattice Semiconductor",
-    "Ciena",
-    "INTC"
+    "INTC",
+    "AMD",
+    "Synopsys"
   ],
   "key_products": [
-    "Silicon photonics transceivers (400G, 800G)",
-    "High‑speed serial interconnect solutions",
-    "Optical interconnect modules",
-    "Silicon photonics platform",
-    "Data center interconnect solutions"
+    "Aster 2.5G/5G/10G/25G/40G/50G/100G Ethernet IP",
+    "Aster PCIe IP",
+    "Aster InfiniBand IP",
+    "Aster Thunderbolt IP",
+    "Aster AI Interconnect Solutions"
   ],
-  "extracted_at": "2026-07-03 17:44:25",
+  "extracted_at": "2026-07-07 18:01:37",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "",
       "title": "",
       "snippet": ""
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/suppliers_glance.php?code=ALAB",
+      "query": "Astera Labs, Inc. suppliers manufacturers",
+      "snippet": "Astera Labs Inc supply chain, list and performance of Astera Labs Incs ' suppliers - CSIMarket."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.asteralabs.com/",
+      "query": "Astera Labs, Inc. suppliers manufacturers",
+      "snippet": "Go to the homepage of ASTERA LABS , INC .Cloud-Scale Interop Lab . Plug-and-play interoperability is critical for deploying rack-scale AI. Astera Labs"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.asteralabs.com/",
+      "query": "Astera Labs, Inc. major customers clients",
+      "snippet": "Go to the homepage of ASTERA LABS , INC .Cloud-Scale Interop Lab . Plug-and-play interoperability is critical for deploying rack-scale AI. Astera Labs"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://finviz.com/stock?t=ALAB",
+      "query": "Astera Labs, Inc. major customers clients",
+      "snippet": "Astera Labs , Inc . provides rack-scale AI infrastructure through purpose-built connectivity solutions. The company offers a range of semiconductor-ba"
     }
   ]
 }

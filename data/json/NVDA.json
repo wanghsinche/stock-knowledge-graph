@@ -7,12 +7,12 @@
     "TSM",
     "005930.KS",
     "GlobalFoundries",
-    "INTC",
-    "MU"
+    "MU",
+    "INTC"
   ],
   "downstream": [
-    "SONY",
     "MSFT",
+    "SONY",
     "DELL",
     "AMZN",
     "TSLA"
@@ -25,13 +25,13 @@
     "AAPL"
   ],
   "key_products": [
-    "GeForce GPUs",
+    "GeForce RTX GPUs",
     "Quadro GPUs",
-    "Tesla GPUs",
-    "NVIDIA Tegra SoCs",
-    "CUDA API"
+    "Tesla AI GPUs",
+    "Jetson SoCs",
+    "CUDA software platform"
   ],
-  "extracted_at": "2026-07-06 18:04:50",
+  "extracted_at": "2026-07-07 17:51:53",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,25 +43,25 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Nvidia",
       "query": "NVIDIA Corporation suppliers manufacturers",
-      "snippet": "Nvidia Corporation is an American multinational technology company headquartered in Santa Clara, California. The company develops graphics processing "
+      "snippet": "Nvidia Corporation is an American multinational technology company headquartered in Santa Clara, California. Nvidia uses external suppliers for all ph"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.britannica.com/money/NVIDIA-Corporation",
+      "url": "https://www.investing.com/equities/nvidia-corp",
       "query": "NVIDIA Corporation suppliers manufacturers",
-      "snippet": "NVIDIA Corporation (NVDA) is a semiconductor company and a leading global manufacturer of high-end graphics... NVIDIA was also able to accelerate its "
+      "snippet": "View today's NVIDIA Corporation stock price and latest NVDA news and analysis. Create real-time notifications to follow any changes in the live stock "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Nvidia",
+      "url": "https://csimarket.com/stocks/markets_glance.php?code=NVDA",
       "query": "NVIDIA Corporation major customers clients",
-      "snippet": "Nvidia Corporation is an American multinational technology company headquartered in Santa Clara, California. The company develops graphics processing "
+      "snippet": "19 hours ago - Nvidia customers and markets, results by customer and performance relative to NVDA, by company and industry - CSIMarket"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.nvidia.com/",
+      "url": "https://www.fool.com/investing/2025/06/26/who-are-nvidias-biggest-customers/",
       "query": "NVIDIA Corporation major customers clients",
-      "snippet": "NVIDIA invents the GPU and drives advances in AI, HPC, gaming, creative design, autonomous vehicles, and robotics."
+      "snippet": "June 26, 2025 - Nvidia has amassed an impressive list of customers, which includes top AI developers like Amazon, Microsoft, and Alphabet ."
     }
   ]
 }

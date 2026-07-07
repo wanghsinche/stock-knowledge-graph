@@ -6,14 +6,14 @@
   "upstream": [
     "INTC",
     "NVDA",
-    "TSM",
+    "QCOM",
     "005930.KS",
-    "QCOM"
+    "TSM"
   ],
   "downstream": [
-    "005930.KS",
     "GOOGL",
-    "YouTube advertisers",
+    "Android app developers",
+    "YouTube content creators",
     "GOOGL",
     "GOOGL"
   ],
@@ -28,10 +28,10 @@
     "Google Search",
     "YouTube",
     "Google Cloud Platform",
-    "Android",
+    "Android OS",
     "Google Ads"
   ],
-  "extracted_at": "2026-07-06 18:06:58",
+  "extracted_at": "2026-07-07 17:56:13",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,15 +41,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/GOOG-Suppliers",
+      "url": "https://en.wikipedia.org/wiki/Alphabet_Inc.",
       "query": "Alphabet Inc. suppliers manufacturers",
-      "snippet": "Jun 22, 2026 · Alphabet Inc 's Comment on Supply Chain We rely on third parties to manufacture many of our assemblies and finished products, and we ha"
+      "snippet": "Alphabet Inc . is an American multinational technology conglomerate holding company headquartered in Mountain View, California. It was created through"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/GOOGL-Suppliers",
+      "url": "https://csimarket.com/stocks/GOOG-Suppliers",
       "query": "Alphabet Inc. suppliers manufacturers",
-      "snippet": "Alphabet Inc supply chain, list and performance of Alphabet Incs ' suppliers - CSIMarket"
+      "snippet": "Alphabet Inc supply chain, list and performance of Alphabet Incs ' suppliers - CSIMarket."
     },
     {
       "source": "DuckDuckGo",
@@ -59,9 +59,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.globaldata.com/company-profile/alphabet-inc/",
+      "url": "https://pitchgrade.com/companies/alphabet-inc-class-a",
       "query": "Alphabet Inc. major customers clients",
-      "snippet": "Alphabet Inc Company Profile - Alphabet Inc Overview - GlobalData."
+      "snippet": "Customer Segments: Alphabet Inc . (Class A) serves multiple distinct customer segments, which may include consumers, small and medium businesses, ente"
     }
   ]
 }

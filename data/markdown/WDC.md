@@ -3,8 +3,8 @@ ticker: WDC
 company: Western Digital Corporation
 sector: Technology
 industry: Computer Hardware
-extracted_at: 2026-07-06 18:07:57
-last_updated: 2026-07-06
+extracted_at: 2026-07-07 17:56:29
+last_updated: 2026-07-07
 ---
 
 # WDC - Western Digital Corporation
@@ -12,7 +12,7 @@ last_updated: 2026-07-06
 ## 基本信息
 
 - **所属行业**: Technology / Computer Hardware
-- **提取时间**: 2026-07-06 18:07:57
+- **提取时间**: 2026-07-07 17:56:29
 
 ## 产业链关系
 
@@ -20,38 +20,38 @@ last_updated: 2026-07-06
 - [[MU]]
 - [[005930.KS]]
 - [[SK Hynix]]
+- [[INTC]]
 - [[Toshiba]]
-- [[STMicroelectronics]]
 
 ### 下游客户
 - [[DELL]]
 - [[HPQ]]
 - [[Lenovo Group]]
-- [[AAPL]]
 - [[AMZN]]
+- [[MSFT]]
 
 ### 竞争对手
 - [[STX]]
-- [[Toshiba Corporation]]
-- [[005930.KS]]
+- [[Sandisk Corporation]]
+- [[HGST]]
+- [[Toshiba]]
 - [[MU]]
-- [[IBM]]
 
 ### 核心产品
 - [[Hard Disk Drives (HDDs)]]
 - [[Solid State Drives (SSDs)]]
-- [[External Storage Devices]]
-- [[Enterprise Storage Solutions]]
-- [[Cloud Storage Platforms]]
+- [[Enterprise storage solutions]]
+- [[Portable storage devices]]
+- [[Data center storage systems]]
 
 ## 数据来源
 
 - [Western Digital](https://en.wikipedia.org/wiki/Western_Digital_Corporation)
-- [Western Digital Corporation suppliers manufacturers](https://www.mycloud.com/)
-- [Western Digital Corporation suppliers manufacturers](https://octopart.com/wd3200aajs-40h3a1-western+digital-83062528)
-- [Western Digital Corporation major customers clients](https://www.mycloud.com/)
-- [Western Digital Corporation major customers clients](https://weissratings.com/en/instant-news-alerts/western-digital-corporation-wdc-up-5-7-time-to-commit-before-it-s-too-late)
+- [Western Digital Corporation suppliers manufacturers](https://www.kynix.com/productdetails/64704770/westerndigitalcorporation/wd70c23gp.html)
+- [Western Digital Corporation suppliers manufacturers](https://finance.yahoo.com/quote/SNDK/)
+- [Western Digital Corporation major customers clients](https://ru.wikipedia.org/wiki/Western_Digital)
+- [Western Digital Corporation major customers clients](https://community.wd.com/)
 
 ## 元数据
 
-- **更新日期**: 2026-07-06
+- **更新日期**: 2026-07-07

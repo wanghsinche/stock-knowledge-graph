@@ -3,8 +3,8 @@ ticker: LRCX
 company: Lam Research Corporation
 sector: Technology
 industry: Semiconductor Equipment & Materials
-extracted_at: 2026-07-06 18:11:16
-last_updated: 2026-07-06
+extracted_at: 2026-07-07 17:57:01
+last_updated: 2026-07-07
 ---
 
 # LRCX - Lam Research Corporation
@@ -12,46 +12,46 @@ last_updated: 2026-07-06
 ## 基本信息
 
 - **所属行业**: Technology / Semiconductor Equipment & Materials
-- **提取时间**: 2026-07-06 18:11:16
+- **提取时间**: 2026-07-07 17:57:01
 
 ## 产业链关系
 
 ### 上游供应商
-- [[INFICON AG]]
-- [[TOKA Corporation]]
-- [[Parker Hannifin]]
-- [[Ebara Corporation]]
-- [[Mitsubishi Chemical]]
+- [[Siemens AG]]
+- [[Honeywell International Inc.]]
+- [[Mitsubishi Electric Corp.]]
+- [[Kongsberg Gruppen ASA]]
+- [[Molex LLC]]
 
 ### 下游客户
-- [[INTC]]
-- [[005930.KS]]
 - [[TSM]]
+- [[005930.KS]]
+- [[INTC]]
+- [[GlobalFoundries Inc.]]
 - [[MU]]
-- [[GlobalFoundries]]
 
 ### 竞争对手
 - [[AMAT]]
-- [[Tokyo Electron]]
+- [[Tokyo Electron Ltd.]]
 - [[KLA Corporation]]
 - [[ASML]]
-- [[Veeco Instruments]]
+- [[LRCX]]
 
 ### 核心产品
-- [[Etch systems]]
-- [[Deposition systems]]
+- [[Plasma etch systems]]
+- [[Plasma deposition systems]]
 - [[Wafer cleaning equipment]]
 - [[Back‑end wafer‑level packaging (WLP) tools]]
-- [[Microelectromechanical systems (MEMS) fabrication equipment]]
+- [[MEMS packaging solutions]]
 
 ## 数据来源
 
 - [Lam Research](https://en.wikipedia.org/wiki/Lam_Research_Corporation)
-- [Lam Research Corporation suppliers manufacturers](https://www.lamresearch.com/)
-- [Lam Research Corporation suppliers manufacturers](https://investor.lamresearch.com/2024-09-23-Lam-Research-Honors-Global-Suppliers-with-2024-Excellence-Awards)
-- [Lam Research Corporation major customers clients](https://www.zacks.com/stock/news/2946215/lam-research-stock-surges-154-in-h126-should-you-buy-more-or-exit)
-- [Lam Research Corporation major customers clients](https://www.marketresearch.com/MarketLine-v3883/Lam-Research-Corporation-Company-Profile-43331218/)
+- [Lam Research Corporation suppliers manufacturers](https://uk.finance.yahoo.com/news/lam-research-stock-surges-154-141100491.html)
+- [Lam Research Corporation suppliers manufacturers](https://finantahub.com/article/barclays-holds-overweight-rating-on-lam-research-stock)
+- [Lam Research Corporation major customers clients](https://www.marketbeat.com/instant-alerts/filing-columbia-bank-has-677-million-position-in-lam-research-corporation-lrcx-2026-06-13/)
+- [Lam Research Corporation major customers clients](https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2ptekpqQUVSSERpZUpCRmxfNVRpZ0FQAQ?hl=en-PK&gl=PK&ceid=PK:en)
 
 ## 元数据
 
-- **更新日期**: 2026-07-06
+- **更新日期**: 2026-07-07

@@ -3,11 +3,35 @@
   "company_name": "Seagate Technology Holdings plc",
   "sector": "Technology",
   "industry": "Computer Hardware",
-  "upstream": [],
-  "downstream": [],
-  "competitors": [],
-  "key_products": [],
-  "extracted_at": "2026-07-06 18:09:41",
+  "upstream": [
+    "005930.KS",
+    "MU",
+    "SK Hynix",
+    "TDK Corporation",
+    "LG Electronics"
+  ],
+  "downstream": [
+    "DELL",
+    "HPQ",
+    "Lenovo Group",
+    "AMZN",
+    "MSFT"
+  ],
+  "competitors": [
+    "WDC",
+    "Toshiba Corporation",
+    "005930.KS",
+    "IBM",
+    "Hitachi Global Storage Technologies"
+  ],
+  "key_products": [
+    "Hard Disk Drives",
+    "Solid State Drives",
+    "Enterprise Storage Solutions",
+    "Cloud Storage Infrastructure",
+    "Data Center Storage"
+  ],
+  "extracted_at": "2026-07-07 17:57:40",
   "sources": [
     {
       "source": "Wikipedia",
@@ -17,15 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Seagate_Technology",
+      "url": "http://www.seagate.com/",
       "query": "Seagate Technology Holdings plc suppliers manufacturers",
-      "snippet": "In 1989, Seagate acquired Control Data Corporation 's Imprimis division, the makers of CDC's HDD products. Seagate acquired Conner Peripherals in 1996"
+      "snippet": "Seagate Technology Holdings Plc ."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/STX-Suppliers",
+      "url": "https://optioncharts.io/options/STX/expected-move",
       "query": "Seagate Technology Holdings plc suppliers manufacturers",
-      "snippet": "Jun 22, 2026 · Sources: Seagate Technology Holdings Plc 's official press releases and regulatory filings; CSIMarket.com's supply -chain research; and"
+      "snippet": "View STX: Seagate Technology Holdings Plc Options Expected Move chart showing anticipated price movement."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "http://www.seagate.com/",
+      "query": "Seagate Technology Holdings plc major customers clients",
+      "snippet": "Seagate Technology Holdings Plc ."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.insidermonkey.com/blog/morgan-stanley-calls-seagate-technology-holdings-stx-a-top-pick-1756185/",
+      "query": "Seagate Technology Holdings plc major customers clients",
+      "snippet": "Seagate Technology Holdings Plc (NASDAQ:STX) is a holding company that develops, produces, and distributes data storage products and electronic data s"
     }
   ]
 }

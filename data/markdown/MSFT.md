@@ -3,8 +3,8 @@ ticker: MSFT
 company: Microsoft Corporation
 sector: Technology
 industry: Software - Infrastructure
-extracted_at: 2026-07-06 18:05:40
-last_updated: 2026-07-06
+extracted_at: 2026-07-07 17:53:35
+last_updated: 2026-07-07
 ---
 
 # MSFT - Microsoft Corporation
@@ -12,7 +12,7 @@ last_updated: 2026-07-06
 ## 基本信息
 
 - **所属行业**: Technology / Software - Infrastructure
-- **提取时间**: 2026-07-06 18:05:40
+- **提取时间**: 2026-07-07 17:53:35
 
 ## 产业链关系
 
@@ -21,37 +21,37 @@ last_updated: 2026-07-06
 - [[AMD]]
 - [[NVDA]]
 - [[DELL]]
-- [[CSCO]]
+- [[HPQ]]
 
 ### 下游客户
-- [[Enterprise customers (e.g., Fortune 500 companies)]]
-- [[Government agencies]]
+- [[Enterprises]]
+- [[Governments]]
+- [[Consumers]]
 - [[DELL]]
-- [[Individual consumers]]
-- [[Cloud customers (Azure users)]]
+- [[Cloud service users]]
 
 ### 竞争对手
 - [[AAPL]]
 - [[GOOGL]]
 - [[AMZN]]
 - [[ORCL]]
-- [[CRM]]
+- [[IBM]]
 
 ### 核心产品
-- [[Windows operating system]]
-- [[Microsoft Office suite]]
-- [[Azure cloud platform]]
-- [[Microsoft Teams]]
-- [[Xbox gaming console]]
+- [[Windows OS]]
+- [[Azure Cloud]]
+- [[Microsoft Office]]
+- [[Xbox]]
+- [[Surface]]
 
 ## 数据来源
 
 - [Microsoft](https://en.wikipedia.org/wiki/Microsoft_Corporation)
-- [Microsoft Corporation suppliers manufacturers](https://csimarket.com/stocks/MSFT-Suppliers)
-- [Microsoft Corporation suppliers manufacturers](https://www.microsoft.com/en-us/professionalservices/suppliers)
-- [Microsoft Corporation major customers clients](https://csimarket.com/stocks/MSFT-Customers)
-- [Microsoft Corporation major customers clients](https://www.appsruntheworld.com/customers-database/vendors/view/microsoft)
+- [Microsoft Corporation suppliers manufacturers](https://en.wikipedia.org/wiki/Microsoft)
+- [Microsoft Corporation suppliers manufacturers](https://csimarket.com/stocks/suppliers_glance.php?code=MSFT)
+- [Microsoft Corporation major customers clients](https://en.wikipedia.org/wiki/Microsoft)
+- [Microsoft Corporation major customers clients](https://copilot.microsoft.com/)
 
 ## 元数据
 
-- **更新日期**: 2026-07-06
+- **更新日期**: 2026-07-07

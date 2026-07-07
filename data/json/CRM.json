@@ -1,26 +1,26 @@
 {
   "ticker": "CRM",
   "company_name": "Salesforce, Inc.",
-  "sector": "Technology / Software - Application",
-  "industry": "Customer Relationship Management (CRM) Software",
+  "sector": "Technology",
+  "industry": "Software - Application",
   "upstream": [
-    "AMZN",
     "MSFT",
+    "AMZN",
     "GOOGL",
     "ORCL",
-    "VMware"
+    "IBM"
   ],
   "downstream": [
-    "Coca‑Cola",
     "American Express",
+    "Coca‑Cola",
     "Toyota",
-    "AT&T",
-    "Walmart"
+    "Walmart",
+    "HSBC"
   ],
   "competitors": [
     "MSFT",
-    "SAP Customer Experience",
     "ORCL",
+    "SAP Customer Experience",
     "HubSpot",
     "Zoho CRM"
   ],
@@ -31,7 +31,7 @@
     "Commerce Cloud",
     "Einstein AI"
   ],
-  "extracted_at": "2026-07-01 18:04:20",
+  "extracted_at": "2026-07-07 18:05:04",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,19 +43,19 @@
       "source": "DuckDuckGo",
       "url": "https://csimarket.com/stocks/CRM-Suppliers",
       "query": "Salesforce, Inc. suppliers manufacturers",
-      "snippet": "May 29, 2026 · Sources: Salesforce Inc 's official press releases and regulatory filings; CSIMarket.com's supply -chain research; and the financial fi"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.salesforce.com/company/our-brands/",
-      "query": "Salesforce, Inc. suppliers manufacturers",
-      "snippet": "See our full list of Salesforce brands and find out how these companies inspire innovation to provide customer solutions."
+      "snippet": "Salesforce Inc supply chain, list and performance of Salesforce Incs ' suppliers - CSIMarket."
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.salesforce.com/",
+      "query": "Salesforce, Inc. suppliers manufacturers",
+      "snippet": "ExactTarget Inc ."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://login.salesforce.com/?locale=in",
       "query": "Salesforce, Inc. major customers clients",
-      "snippet": "Salesforce Enterprise-grade CRM with deep reporting, sales operations, and..."
+      "snippet": "Salesforce login Salesforce login. Edit List. Save. Cancel.Not a customer ? Try for Free. Log In with a Different Username."
     },
     {
       "source": "DuckDuckGo",

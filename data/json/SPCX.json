@@ -1,67 +1,67 @@
 {
   "ticker": "SPCX",
-  "company_name": "Space Exploration Technologies Corporation",
-  "sector": "Industrials / Aerospace & Defense",
+  "company_name": "Space Exploration Technologies Corp.",
+  "sector": "Industrials",
   "industry": "Aerospace & Defense",
   "upstream": [
     "Aerojet Rocketdyne",
-    "Boeing",
+    "Honeywell Aerospace",
     "Lockheed Martin",
-    "Northrop Grumman",
-    "United Launch Alliance"
+    "Linde",
+    "Air Products"
   ],
   "downstream": [
     "NASA",
-    "United States Space Force",
-    "Department of Defense",
-    "Commercial satellite operators",
-    "International space agencies"
+    "U.S. Department of Defense",
+    "INTC",
+    "Starlink residential and enterprise customers",
+    "Artemis program participants"
   ],
   "competitors": [
     "United Launch Alliance",
-    "Blue Origin",
     "Arianespace",
-    "Boeing (Delta)",
-    "Lockheed Martin (Space Systems)"
+    "Blue Origin",
+    "Rocket Lab",
+    "Virgin Orbit"
   ],
   "key_products": [
-    "Falcon 9 rocket",
-    "Falcon Heavy",
-    "Starship",
+    "Falcon 9 launch vehicle",
+    "Falcon Heavy launch vehicle",
+    "Starship launch vehicle",
     "Starlink satellite constellation",
     "Grok AI platform"
   ],
-  "extracted_at": "2026-07-06 18:05:54",
+  "extracted_at": "2026-07-07 17:53:04",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Space_Exploration_Technologies_Corp.",
       "title": "SpaceX",
-      "snippet": "Space Exploration Technologies Corporation, doing business as SpaceX, is an American spaceflight, telecommunications, and artificial intelligence company headquartered at the Starbase development site"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/SpaceX",
-      "query": "Space Exploration Technologies Corp. suppliers manufacturers",
-      "snippet": "Space Exploration Technologies Corporation , doing business as SpaceX , is an American spaceflight, telecommunications, and artificial intelligence co"
+      "snippet": "Space Exploration Technologies Corp., doing business as SpaceX, is an American spaceflight, telecommunications, and artificial intelligence company headquartered at the Starbase development site in St"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.tradingview.com/symbols/NASDAQ-SPCX/",
       "query": "Space Exploration Technologies Corp. suppliers manufacturers",
-      "snippet": "Space Exploration Technologies Corp ( SpaceX ). Space Exploration Technologies Corp ., doing business as SpaceX , operates as an aerospace manufacture"
+      "snippet": "Space Exploration Technologies Corp ( SpaceX ). SPCX Nasdaq Stock Market. Space Exploration Technologies Corp ., doing business as SpaceX , operates a"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://finance.yahoo.com/quote/SPCX/",
+      "query": "Space Exploration Technologies Corp. suppliers manufacturers",
+      "snippet": "Space Exploration Technologies Corp . provides satellite-based broadband services in the United States, Ireland, Canada, and internationally.Its Space"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/SpaceX",
       "query": "Space Exploration Technologies Corp. major customers clients",
-      "snippet": "The company's largest customers include NASA, the United States Space Force, and the National Reconnaissance Office. Elon Musk owns 42% of the outstan"
+      "snippet": "Space Exploration Technologies Corporation , doing business as SpaceX , is an American spaceflight, telecommunications, and artificial intelligence co"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://spaceexplorationtechnologies.com/",
+      "url": "https://www.tradingview.com/symbols/NASDAQ-SPCX/",
       "query": "Space Exploration Technologies Corp. major customers clients",
-      "snippet": "Space Exploration Technologies designs and manufactures rockets and advanced space crafts. The company to revolutionize space technology."
+      "snippet": "Space Exploration Technologies Corp ( SpaceX ). SPCX Nasdaq Stock Market. Space Exploration Technologies Corp ., doing business as SpaceX , operates a"
     }
   ]
 }

@@ -3,8 +3,8 @@ ticker: AMZN
 company: Amazon.com, Inc.
 sector: Consumer Cyclical
 industry: Internet Retail
-extracted_at: 2026-07-06 18:06:24
-last_updated: 2026-07-06
+extracted_at: 2026-07-07 17:53:49
+last_updated: 2026-07-07
 ---
 
 # AMZN - Amazon.com, Inc.
@@ -12,46 +12,46 @@ last_updated: 2026-07-06
 ## 基本信息
 
 - **所属行业**: Consumer Cyclical / Internet Retail
-- **提取时间**: 2026-07-06 18:06:24
+- **提取时间**: 2026-07-07 17:53:49
 
 ## 产业链关系
 
 ### 上游供应商
-- [[AAPL]]
 - [[005930.KS]]
-- [[Nike, Inc.]]
-- [[INTC]]
-- [[NVDA]]
+- [[AAPL]]
+- [[SONY]]
+- [[LG Electronics]]
+- [[DELL]]
 
 ### 下游客户
 - [[AMZN]]
 - [[AMZN]]
-- [[AWS enterprise customers]]
 - [[AMZN]]
+- [[Consumers worldwide]]
 - [[AMZN]]
 
 ### 竞争对手
 - [[Walmart Inc.]]
-- [[Alibaba Group]]
+- [[Alibaba Group Holding Ltd.]]
 - [[eBay Inc.]]
-- [[MSFT]]
-- [[GOOGL]]
+- [[Target Corp.]]
+- [[Shopify Inc.]]
 
 ### 核心产品
-- [[Amazon.com marketplace]]
-- [[Amazon Web Services]]
+- [[Amazon.com e-commerce platform]]
+- [[Amazon Web Services (AWS)]]
 - [[Amazon Prime Video]]
-- [[Amazon Echo/Alexa]]
 - [[Amazon Kindle]]
+- [[Amazon Echo (Alexa)]]
 
 ## 数据来源
 
 - [Amazon (company)](https://en.wikipedia.org/wiki/Amazon.com,_Inc.)
 - [Amazon.com, Inc. suppliers manufacturers](https://www.alibaba.com/)
-- [Amazon.com, Inc. suppliers manufacturers](https://ir.aboutamazon.com/)
-- [Amazon.com, Inc. major customers clients](https://en.wikipedia.org/wiki/Amazon_(company))
-- [Amazon.com, Inc. major customers clients](https://csimarket.com/stocks/AMZN-Customers)
+- [Amazon.com, Inc. suppliers manufacturers](https://it.marketscreener.com/quotazioni/azione/AMAZON-COM-INC-12864605/azienda/)
+- [Amazon.com, Inc. major customers clients](https://www.amazon.com/dp/B004LLIKVU)
+- [Amazon.com, Inc. major customers clients](https://www.tipranks.com/stocks/amzn/stock-analysis)
 
 ## 元数据
 
-- **更新日期**: 2026-07-06
+- **更新日期**: 2026-07-07

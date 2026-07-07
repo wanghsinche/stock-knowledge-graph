@@ -3,8 +3,8 @@ ticker: AAPL
 company: Apple Inc.
 sector: Technology
 industry: Consumer Electronics
-extracted_at: 2026-07-06 18:05:27
-last_updated: 2026-07-06
+extracted_at: 2026-07-07 17:53:18
+last_updated: 2026-07-07
 ---
 
 # AAPL - Apple Inc.
@@ -12,23 +12,23 @@ last_updated: 2026-07-06
 ## 基本信息
 
 - **所属行业**: Technology / Consumer Electronics
-- **提取时间**: 2026-07-06 18:05:27
+- **提取时间**: 2026-07-07 17:53:18
 
 ## 产业链关系
 
 ### 上游供应商
-- [[TSM]]
-- [[005930.KS]]
-- [[Foxconn (Hon Hai)]]
+- [[Foxconn]]
 - [[Pegatron]]
 - [[Wistron]]
+- [[TSM]]
+- [[005930.KS]]
 
 ### 下游客户
-- [[iPhone]]
-- [[iPad]]
-- [[IBM]]
 - [[AAPL]]
-- [[AAPL]]
+- [[Best Buy]]
+- [[AMZN]]
+- [[Walmart]]
+- [[Target]]
 
 ### 竞争对手
 - [[005930.KS]]
@@ -48,10 +48,10 @@ last_updated: 2026-07-06
 
 - [Apple Inc.](https://en.wikipedia.org/wiki/Apple_Inc.)
 - [Apple Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/List_of_Apple_Inc._suppliers)
-- [Apple Inc. suppliers manufacturers](https://www.investopedia.com/articles/investing/090315/10-major-companies-tied-apple-supply-chain.asp)
-- [Apple Inc. major customers clients](https://csimarket.com/stocks/AAPL-Customers)
-- [Apple Inc. major customers clients](https://businessmodelanalyst.com/apple-target-market/)
+- [Apple Inc. suppliers manufacturers](https://csimarket.com/stocks/suppliers_glance.php?code=AAPL)
+- [Apple Inc. major customers clients](https://www.apple.com/)
+- [Apple Inc. major customers clients](https://247wallst.com/special-report/2012/04/30/american-companies-with-the-most-customers/)
 
 ## 元数据
 
-- **更新日期**: 2026-07-06
+- **更新日期**: 2026-07-07

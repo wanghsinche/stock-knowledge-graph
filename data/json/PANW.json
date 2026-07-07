@@ -1,36 +1,37 @@
 {
   "ticker": "PANW",
   "company_name": "Palo Alto Networks, Inc.",
-  "sector": "Technology / Software - Infrastructure",
-  "industry": "Cybersecurity",
+  "sector": "Technology",
+  "industry": "Software - Infrastructure",
   "upstream": [
     "INTC",
     "AMD",
-    "NVDA",
-    "AMZN",
-    "MSFT"
+    "AVGO",
+    "QCOM",
+    "NVDA"
   ],
   "downstream": [
-    "Wipro",
-    "Tyson Foods",
-    "Grupo Bimbo",
-    "Putnam Investments"
+    "Fortune 100 companies",
+    "U.S. Department of Defense",
+    "European Union agencies",
+    "Large financial institutions",
+    "Healthcare providers"
   ],
   "competitors": [
-    "CSCO",
+    "Checkpoint",
     "Fortinet",
-    "Check Point",
+    "CSCO",
     "JNPR",
-    "Sophos"
+    "CrowdStrike"
   ],
   "key_products": [
     "Next-Generation Firewall",
     "Prisma Cloud",
     "Cortex XDR",
-    "WildFire",
-    "Unit 42 Threat Intelligence"
+    "Cortex XSOAR",
+    "Panorama Management"
   ],
-  "extracted_at": "2026-07-06 18:12:39",
+  "extracted_at": "2026-07-07 18:02:58",
   "sources": [
     {
       "source": "Wikipedia",
@@ -42,7 +43,7 @@
       "source": "DuckDuckGo",
       "url": "https://www.paloaltonetworks.com/",
       "query": "Palo Alto Networks, Inc. suppliers manufacturers",
-      "snippet": "Palo Alto Networks : Cloud Security Leader in First-Ever CNAPP Report. The Forrester Wave™: Cloud Workload Security, Q1 2024.KuppingerCole Leadership "
+      "snippet": "Palo Alto Networks : Cloud Security Leader in First-Ever CNAPP Report. The Forrester Wave™: Cloud Workload Security, Q1 2024. Frost Radar™: Cloud Secu"
     },
     {
       "source": "DuckDuckGo",
@@ -52,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.paloaltonetworks.com/customers",
+      "url": "https://www.paloaltonetworks.com/",
       "query": "Palo Alto Networks, Inc. major customers clients",
-      "snippet": "Discover how leading global brands like Wipro and Tyson Foods secure their operations with Palo Alto Networks . Explore customer success stories in cy"
+      "snippet": "Palo Alto Networks : Cloud Security Leader in First-Ever CNAPP ReportFrostRadar™ names Palo Alto Networks a CNAPP LeaderOverall leader : 2024 Leadersh"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.paloaltonetworks.com/network-security/customer-stories",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-02/palo-alto-networks-raises-profit-outlook-citing-ai-demand",
       "query": "Palo Alto Networks, Inc. major customers clients",
-      "snippet": "Explore how top companies like Grupo Bimbo and Putnam Investments enhance network security with Palo Alto Networks ."
+      "snippet": "Palo Alto Networks Inc . released a forecast for adjusted earnings that was stronger than anticipated, signaling ongoing demand for security services "
     }
   ]
 }

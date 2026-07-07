@@ -1,57 +1,57 @@
 ---
 ticker: LITE
 company: Lumentum Holdings Inc.
-sector: Technology / Communication Equipment
-industry: Optical Communications
-extracted_at: 2026-07-06 18:10:03
-last_updated: 2026-07-06
+sector: Technology
+industry: Optical and Photonic Equipment
+extracted_at: 2026-07-07 17:59:58
+last_updated: 2026-07-07
 ---
 
 # LITE - Lumentum Holdings Inc.
 
 ## 基本信息
 
-- **所属行业**: Technology / Communication Equipment / Optical Communications
-- **提取时间**: 2026-07-06 18:10:03
+- **所属行业**: Technology / Optical and Photonic Equipment
+- **提取时间**: 2026-07-07 17:59:58
 
 ## 产业链关系
 
 ### 上游供应商
-- [[AMAT]]
-- [[META]]
-- [[Laser diode manufacturers (e.g., Finisar, II‑VI Incorporated)]]
-- [[Optical fiber manufacturers (e.g., Corning, Prysmian Group)]]
-- [[ADI]]
+- [[Corning Inc.]]
+- [[TSM]]
+- [[005930.KS]]
+- [[Rare Earth Mining Inc.]]
+- [[Schott AG]]
 
 ### 下游客户
+- [[AT&T]]
 - [[CAT]]
-- [[MSFT]]
-- [[CSCO]]
-- [[Military and defense agencies (U.S. Department of Defense, NATO)]]
-- [[Optical networking equipment manufacturers (Ciena, Nokia, Ericsson)]]
+- [[AMZN]]
+- [[GOOGL]]
+- [[INTC]]
 
 ### 竞争对手
+- [[II-VI Incorporated]]
 - [[Coherent Inc.]]
-- [[Infinera Corp.]]
-- [[II‑VI Incorporated]]
-- [[Ciena Corp.]]
-- [[Nokia Corp.]]
+- [[NKT Photonics]]
+- [[Trumpf GmbH + Co. KG]]
+- [[Lumentum Holdings Inc.]]
 
 ### 核心产品
-- [[Optical transceivers (e.g., 400G, 800G)]]
-- [[Laser diodes and VCSELs]]
-- [[Photonic integrated circuits (PICs)]]
-- [[Optical amplifiers (EDFA, Raman)]]
-- [[Fiber‑optic components (splitters, couplers, connectors)]]
+- [[Laser diodes]]
+- [[Fiber lasers]]
+- [[Optical amplifiers]]
+- [[Photonic integrated circuits]]
+- [[Optical transceivers]]
 
 ## 数据来源
 
 - 
-- [Lumentum Holdings Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/Lumentum)
-- [Lumentum Holdings Inc. suppliers manufacturers](https://csimarket.com/stocks/LITE-Suppliers)
-- [Lumentum Holdings Inc. major customers clients](https://pitchgrade.com/companies/lumentum)
-- [Lumentum Holdings Inc. major customers clients](https://in.investing.com/news/-4960725)
+- [Lumentum Holdings Inc. suppliers manufacturers](https://csimarket.com/stocks/fundamentals_glance.php?code=LITE)
+- [Lumentum Holdings Inc. suppliers manufacturers](https://fiscal.ai/company/NasdaqGS-LITE/)
+- [Lumentum Holdings Inc. major customers clients](https://www.investing.com/news/swot-analysis/lumentum-holdings-swot-analysis-optical-tech-stock-eyes-ai-boom-93CH-4694937)
+- [Lumentum Holdings Inc. major customers clients](https://www.bloomberg.com/profile/company/LITE*:MM)
 
 ## 元数据
 
-- **更新日期**: 2026-07-06
+- **更新日期**: 2026-07-07

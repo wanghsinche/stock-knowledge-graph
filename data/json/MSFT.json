@@ -8,30 +8,30 @@
     "AMD",
     "NVDA",
     "DELL",
-    "CSCO"
+    "HPQ"
   ],
   "downstream": [
-    "Enterprise customers (e.g., Fortune 500 companies)",
-    "Government agencies",
+    "Enterprises",
+    "Governments",
+    "Consumers",
     "DELL",
-    "Individual consumers",
-    "Cloud customers (Azure users)"
+    "Cloud service users"
   ],
   "competitors": [
     "AAPL",
     "GOOGL",
     "AMZN",
     "ORCL",
-    "CRM"
+    "IBM"
   ],
   "key_products": [
-    "Windows operating system",
-    "Microsoft Office suite",
-    "Azure cloud platform",
-    "Microsoft Teams",
-    "Xbox gaming console"
+    "Windows OS",
+    "Azure Cloud",
+    "Microsoft Office",
+    "Xbox",
+    "Surface"
   ],
-  "extracted_at": "2026-07-06 18:05:40",
+  "extracted_at": "2026-07-07 17:53:35",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/MSFT-Suppliers",
+      "url": "https://en.wikipedia.org/wiki/Microsoft",
       "query": "Microsoft Corporation suppliers manufacturers",
-      "snippet": "Jun 22, 2026 · Microsoft supply chain, list and performance of Microsofts ' suppliers - CSIMarket"
+      "snippet": "Microsoft Corporation is an American multinational technology company headquartered in Redmond, Washington."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.microsoft.com/en-us/professionalservices/suppliers",
+      "url": "https://csimarket.com/stocks/suppliers_glance.php?code=MSFT",
       "query": "Microsoft Corporation suppliers manufacturers",
-      "snippet": "Microsoft requires all suppliers to join the Microsoft Supplier Security and Privacy Assurance Program (SSPA). This program is designed to standardize"
+      "snippet": "News about Microsoft Corporation Contracts. Microsoft 's Comment on Supply Chain. We develop most of our products and services internally through four"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/MSFT-Customers",
+      "url": "https://en.wikipedia.org/wiki/Microsoft",
       "query": "Microsoft Corporation major customers clients",
-      "snippet": "Individual consumers obtain these products primarily through retail outlets, such as Wal-Mart, Dixons, and Microsoft retail stores. We distribute our "
+      "snippet": "Microsoft Corporation is an American multinational technology company headquartered in Redmond, Washington."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.appsruntheworld.com/customers-database/vendors/view/microsoft",
+      "url": "https://copilot.microsoft.com/",
       "query": "Microsoft Corporation major customers clients",
-      "snippet": "Which Microsoft products have the most recorded customers ? The most widely adopted products are Microsoft 365, Microsoft Azure Cloud Services, Micros"
+      "snippet": "Microsoft Copilot is your companion to inform, entertain and inspire. Get advice, feedback and straightforward answers. Try Copilot now."
     }
   ]
 }

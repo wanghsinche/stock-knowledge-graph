@@ -3,8 +3,8 @@ ticker: NOW
 company: ServiceNow, Inc.
 sector: Technology
 industry: Software - Application
-extracted_at: 2026-07-06 18:15:02
-last_updated: 2026-07-06
+extracted_at: 2026-07-07 18:01:50
+last_updated: 2026-07-07
 ---
 
 # NOW - ServiceNow, Inc.
@@ -12,7 +12,7 @@ last_updated: 2026-07-06
 ## 基本信息
 
 - **所属行业**: Technology / Software - Application
-- **提取时间**: 2026-07-06 18:15:02
+- **提取时间**: 2026-07-07 18:01:50
 
 ## 产业链关系
 
@@ -20,29 +20,29 @@ last_updated: 2026-07-06
 - [[MSFT]]
 - [[AMZN]]
 - [[GOOGL]]
-- [[IBM]]
 - [[ORCL]]
+- [[IBM]]
 
 ### 下游客户
-- [[US Federal Government]]
-- [[Bank of America]]
-- [[Coca‑Cola]]
 - [[Walmart]]
-- [[General Electric]]
+- [[JPMorgan Chase]]
+- [[AT&T]]
+- [[Verizon]]
+- [[Bank of America]]
 
 ### 竞争对手
 - [[CRM]]
+- [[Workday]]
 - [[SAP]]
-- [[MSFT]]
 - [[ORCL]]
-- [[IBM]]
+- [[MSFT]]
 
 ### 核心产品
 - [[Now Platform]]
-- [[IT Service Management]]
-- [[IT Operations Management]]
-- [[IT Business Management]]
-- [[Customer Service Management]]
+- [[IT Service Management (ITSM)]]
+- [[IT Operations Management (ITOM)]]
+- [[IT Business Management (ITBM)]]
+- [[Customer Service Management (CSM)]]
 
 ## 数据来源
 
@@ -50,8 +50,8 @@ last_updated: 2026-07-06
 - [ServiceNow, Inc. suppliers manufacturers](https://www.servicenow.com/)
 - [ServiceNow, Inc. suppliers manufacturers](https://www.g2.com/sellers/servicenow)
 - [ServiceNow, Inc. major customers clients](https://www.servicenow.com/)
-- [ServiceNow, Inc. major customers clients](https://destinykey.org/en/companies/servicenow)
+- [ServiceNow, Inc. major customers clients](https://www.aegissofttech.com/insights/elevating-service-with-servicenow/)
 
 ## 元数据
 
-- **更新日期**: 2026-07-06
+- **更新日期**: 2026-07-07

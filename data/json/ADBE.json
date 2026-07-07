@@ -3,11 +3,39 @@
   "company_name": "Adobe Inc.",
   "sector": "Technology",
   "industry": "Software - Application",
-  "upstream": [],
-  "downstream": [],
-  "competitors": [],
-  "key_products": [],
-  "extracted_at": "2026-06-17 18:17:26",
+  "upstream": [
+    "AMZN",
+    "MSFT",
+    "GOOGL",
+    "INTC",
+    "NVDA"
+  ],
+  "downstream": [
+    "ADBE",
+    "ADBE",
+    "ADBE",
+    "ADBE",
+    "ADBE"
+  ],
+  "competitors": [
+    "Corel Corporation",
+    "Autodesk",
+    "MSFT",
+    "AAPL",
+    "GOOGL"
+  ],
+  "key_products": [
+    "Adobe Photoshop",
+    "Adobe Illustrator",
+    "Adobe Acrobat",
+    "Adobe Premiere Pro",
+    "Adobe After Effects",
+    "Adobe Lightroom",
+    "Adobe Creative Cloud",
+    "Adobe Document Cloud",
+    "Adobe Experience Cloud"
+  ],
+  "extracted_at": "2026-07-07 18:07:29",
   "sources": [
     {
       "source": "Wikipedia",
@@ -17,15 +45,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Adobe_Inc.",
+      "url": "https://csimarket.com/stocks/ADBE-Suppliers",
       "query": "Adobe Inc. suppliers manufacturers",
-      "snippet": "Its flagship products include Adobe Photoshop image editing software; Adobe Illustrator vector-based illustration software; Adobe Acrobat and the Port"
+      "snippet": "Adobe Inc supply chain, list and performance of Adobe Incs ' suppliers - CSIMarket."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/ADBE-Suppliers",
+      "url": "https://www.adobe.com/",
       "query": "Adobe Inc. suppliers manufacturers",
-      "snippet": "Adobe Inc supply chain, list and performance of Adobe Incs ' suppliers - CSIMarket"
+      "snippet": "Adobe is changing the world through digital experiences.Generate and edit images, video, audio, and designs using top AI models from Adobe , Google, O"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://pitchgrade.com/companies/adobe",
+      "query": "Adobe Inc. competitors alternatives",
+      "snippet": "Adobe Inc .'s main competitors include Corel Corporation. The company operates in the Software - Application segment of the Technology sector where co"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.g2.com/products/adobe-after-effects/competitors/alternatives",
+      "query": "Adobe Inc. competitors alternatives",
+      "snippet": "The best Adobe After Effects alternatives are Blender, Unity, and Maya. Find top-ranking free & paid apps similar to Adobe After Effects for your Vide"
     }
   ]
 }

@@ -2,36 +2,35 @@
   "ticker": "APP",
   "company_name": "AppLovin Corporation",
   "sector": "Communication Services / Advertising Agencies",
-  "industry": "Digital Advertising / Mobile Ad Tech",
+  "industry": "Mobile Advertising Technology",
   "upstream": [
-    "Cloud service providers (e.g., AWS, Azure)",
-    "GOOGL",
-    "Data analytics vendors",
-    "Mobile operating system providers (iOS, Android)",
-    "Technology infrastructure suppliers"
+    "Axon",
+    "MAX",
+    "Adjust",
+    "Wurl"
   ],
   "downstream": [
     "Mobile app developers",
-    "Game studios",
-    "Brand advertisers",
-    "Digital marketing agencies",
-    "E‑commerce app owners"
+    "Game developers",
+    "Publishers",
+    "Advertisers",
+    "Brands"
   ],
   "competitors": [
     "Unity Ads",
     "AdColony",
     "Vungle",
-    "IronSource",
-    "GOOGL"
+    "Chartboost",
+    "Tapjoy"
   ],
   "key_products": [
-    "AppLovin SDK (mobile advertising)",
-    "MAX (ad mediation platform)",
-    "LTV (customer acquisition & retention)",
-    "AppDiscovery (app discovery network)",
-    "AppLovin Marketing Solutions (data‑driven campaigns)"
+    "AppLovin Mobile Marketing Platform",
+    "MAX Ad Mediation",
+    "SDK",
+    "Data Analytics",
+    "Ad Network"
   ],
-  "extracted_at": "2026-07-06 18:12:02",
+  "extracted_at": "2026-07-07 18:00:20",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,15 +40,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.applovin.com/",
+      "url": "https://en.wikipedia.org/wiki/AppLovin",
       "query": "AppLovin Corporation suppliers manufacturers",
-      "snippet": "Let's get you in front of a billion customers. We built AppLovin for businesses like yours. Jewelry, furniture, fitness subscriptions, word games. Wha"
+      "snippet": "3 weeks ago - AppLovin Corporation is an American mobile technology company headquartered in Palo Alto, California."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://stocksifting.com/company/APP",
+      "url": "https://www.globaldata.com/company-profile/applovin-corporation/",
       "query": "AppLovin Corporation suppliers manufacturers",
-      "snippet": "www. applovin .com NMS: APP. Explore AppLovin Corporation stock price, valuation, financial statements, dividend history, analyst estimates, and long-"
+      "snippet": "Notable brands associated with AppLovin include Axon, MAX, Adjust, and Wurl . AppLovin's customers range from large enterprises to small businesses ac"
     },
     {
       "source": "DuckDuckGo",
@@ -59,9 +58,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.bitget.com/wiki/app-loving-stock",
+      "url": "https://bullfincher.io/companies/applovin-corporation/overview",
       "query": "AppLovin Corporation major customers clients",
-      "snippet": "app loving stock commonly refers to AppLovin Corporation , a U.S.-based advertising technology and mobile software company. AppLovin was founded in 20"
+      "snippet": "AppLovin Corporation provides a specialized software platform focused on empowering mobile application developers to enhance the marketing and revenue"
     }
   ]
 }

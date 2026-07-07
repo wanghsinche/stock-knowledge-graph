@@ -3,11 +3,35 @@
   "company_name": "KLA Corporation",
   "sector": "Technology",
   "industry": "Semiconductor Equipment & Materials",
-  "upstream": [],
-  "downstream": [],
-  "competitors": [],
-  "key_products": [],
-  "extracted_at": "2026-07-06 18:13:58",
+  "upstream": [
+    "Lumentum",
+    "Canon",
+    "Nikon",
+    "TXN",
+    "AMAT"
+  ],
+  "downstream": [
+    "INTC",
+    "TSM",
+    "005930.KS",
+    "MU",
+    "GlobalFoundries"
+  ],
+  "competitors": [
+    "AMAT",
+    "ASML",
+    "LRCX",
+    "Tokyo Electron",
+    "Koh Young"
+  ],
+  "key_products": [
+    "Advanced Metrology Systems",
+    "Inspection Systems",
+    "Process Control Systems",
+    "Yield Management Systems",
+    "Reticle Inspection"
+  ],
+  "extracted_at": "2026-07-07 17:59:10",
   "sources": [
     {
       "source": "Wikipedia",
@@ -26,6 +50,18 @@
       "url": "https://www.filmetrics.com/locations",
       "query": "KLA Corporation suppliers manufacturers",
       "snippet": "Find the address and contact information for the KLA domestic and international sites. Corporate Governance. Compliance. Suppliers . Standards of Busi"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.kla.com/",
+      "query": "KLA Corporation major customers clients",
+      "snippet": "KLA is a leader in process control using advanced inspection tools, metrology systems, and computational analytics.Mar 18, 2026. This year, KLA is cel"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.cnbc.com/quotes/KLAC",
+      "query": "KLA Corporation major customers clients",
+      "snippet": "KLAC: KLA Corp - Stock Price, Quote and News - CNBC."
     }
   ]
 }

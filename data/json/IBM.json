@@ -4,18 +4,18 @@
   "sector": "Technology",
   "industry": "Information Technology Services",
   "upstream": [
-    "INTC",
     "AMD",
-    "NVDA",
+    "WDC",
     "CSCO",
-    "DELL"
+    "Cloud infrastructure providers (e.g., AWS, Azure)",
+    "MSFT"
   ],
   "downstream": [
-    "U.S. Federal Government",
-    "European Union Agencies",
-    "JPMorgan Chase",
-    "Mayo Clinic",
-    "Bank of America"
+    "Large enterprises (e.g., Walmart, JPMorgan Chase)",
+    "Government agencies (e.g., U.S. Department of Defense, NASA)",
+    "Healthcare organizations (e.g., Mayo Clinic)",
+    "CAT",
+    "Financial institutions (e.g., Goldman Sachs)"
   ],
   "competitors": [
     "MSFT",
@@ -26,12 +26,16 @@
   ],
   "key_products": [
     "IBM Cloud",
-    "IBM Watson",
+    "IBM Watson AI",
     "IBM Power Systems",
     "IBM z Systems",
-    "IBM Security"
+    "IBM Security",
+    "IBM Analytics",
+    "IBM Blockchain",
+    "IBM Quantum",
+    "IBM Consulting"
   ],
-  "extracted_at": "2026-07-06 18:14:51",
+  "extracted_at": "2026-07-07 18:02:28",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,15 +45,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/List_of_mergers_and_acquisitions_by_IBM",
+      "url": "https://www.alibaba.com/",
       "query": "International Business Machines Corporation suppliers manufacturers",
-      "snippet": "IBM has undergone a large number of mergers and acquisitions during a corporate history lasting over a century; the company has also produced a number"
+      "snippet": "Find quality Manufacturers , Suppliers , Exporters, Importers, Buyers, Wholesalers, Products and Trade Leads from our award-winning International Trad"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/IBM-Suppliers",
+      "url": "https://ai.limex.com/profile/BATS:IBM",
       "query": "International Business Machines Corporation suppliers manufacturers",
-      "snippet": "Jun 22, 2026 · For your research, we’ve provided nine additional tables on International Business Machines Corporation ’s suppliers . You can find the"
+      "snippet": "International Business Machines Corporation , together with its subsidiaries, provides integrated solutions and services worldwide. The company operat"
     },
     {
       "source": "DuckDuckGo",
@@ -59,9 +63,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/news/jim-cramer-international-business-machines-203528293.html",
+      "url": "https://www.insidermonkey.com/blog/jim-cramer-says-international-business-machines-corporation-ibm-is-doing-quite-well-1456102/",
       "query": "International Business Machines Corporation major customers clients",
-      "snippet": "International Business Machines Corporation (NYSE:IBM) provides software, consulting, and cloud and on-site technology solutions, along with financing"
+      "snippet": "International Business Machines Corporation (NYSE:IBM). Number of Hedge Fund Holders In Q3 2024: 56. Date of Cramer’s Comments: September 10th, 2024. "
     }
   ]
 }

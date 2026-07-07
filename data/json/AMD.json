@@ -4,18 +4,18 @@
   "sector": "Technology",
   "industry": "Semiconductors",
   "upstream": [
-    "MU",
-    "AVGO",
-    "MRVL",
     "TSM",
-    "NVDA"
+    "005930.KS",
+    "GlobalFoundries",
+    "UMC",
+    "SMIC"
   ],
   "downstream": [
-    "MSFT",
     "DELL",
     "HPQ",
     "Lenovo Group",
-    "SONY"
+    "MSFT",
+    "AMZN"
   ],
   "competitors": [
     "INTC",
@@ -26,12 +26,12 @@
   ],
   "key_products": [
     "Ryzen CPUs",
+    "EPYC CPUs",
     "Radeon GPUs",
-    "EPYC server processors",
     "Xilinx FPGAs",
-    "APU SoCs"
+    "SoCs"
   ],
-  "extracted_at": "2026-07-06 18:04:39",
+  "extracted_at": "2026-07-07 17:52:48",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/AMD",
+      "url": "https://www.britannica.com/money/Advanced-Micro-Devices-Inc",
       "query": "Advanced Micro Devices, Inc. suppliers manufacturers",
-      "snippet": "4 days ago - To immediately secure a customer ... source supplier of microchips designed by Fairchild (the 5 V TTL \"9300\" logic series) and National S"
+      "snippet": "Advanced Micro Devices , Inc . ( AMD ) is an American semiconductor designer and global supplier of computing and graphics technologies used in data c"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/AMD/profile/",
+      "url": "https://finance.yahoo.com/quote/AMD/",
       "query": "Advanced Micro Devices, Inc. suppliers manufacturers",
-      "snippet": "3 weeks ago - MU Micron Technology, Inc. ... AVGO Broadcom Inc. ... MRVL Marvell Technology, Inc. ... SHAZ SharonAI Holdings Inc. ... SLS SELLAS Life "
+      "snippet": "Find the latest Advanced Micro Devices , Inc . ( AMD ) stock quote, history, news and other vital information to help you with your stock trading and "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/AMD-Customers",
+      "url": "https://www.britannica.com/money/Advanced-Micro-Devices-Inc",
       "query": "Advanced Micro Devices, Inc. major customers clients",
-      "snippet": "Advanced Micro Devices Inc's Comment on Sales, Marketing and Customers We sell our products through our direct sales force and through independent dis"
+      "snippet": "Advanced Micro Devices , Inc . ( AMD ) is an American semiconductor designer and global supplier of computing and graphics technologies used in data c"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ir.amd.com/financial-information/sec-filings/content/0001193125-25-067185/0001193125-25-067185.pdf",
+      "url": "https://ir.amd.com/",
       "query": "Advanced Micro Devices, Inc. major customers clients",
-      "snippet": "With our high-performance product portfolios, we deliver differentiated solutions, such as our semi-custom System-on-Chip (SoCs), Adaptive SoCs, and a"
+      "snippet": "Advanced Micro Devices , Inc . IR Overview. Investor Relations. AMD Expands AI Leadership Across Client , Graphics, and Software with New Ryzen, Ryzen"
     }
   ]
 }

@@ -3,11 +3,33 @@
   "company_name": "Rocket Lab Corporation",
   "sector": "Industrials",
   "industry": "Aerospace & Defense",
-  "upstream": [],
-  "downstream": [],
-  "competitors": [],
-  "key_products": [],
-  "extracted_at": "2026-07-06 18:16:23",
+  "upstream": [
+    "Honeywell Aerospace",
+    "Thales Alenia Space",
+    "Aerojet Rocketdyne",
+    "Boeing",
+    "Lockheed Martin"
+  ],
+  "downstream": [
+    "NASA",
+    "Planet Labs",
+    "Planet"
+  ],
+  "competitors": [
+    "SpaceX",
+    "Blue Origin",
+    "Virgin Orbit",
+    "Firefly Aerospace",
+    "Astra"
+  ],
+  "key_products": [
+    "Electron orbital rocket",
+    "HASTE suborbital rocket",
+    "Neutron medium‑lift rocket",
+    "Satellite components (star trackers, reaction wheels, solar panels)",
+    "Software‑defined radios"
+  ],
+  "extracted_at": "2026-07-07 18:04:31",
   "sources": [
     {
       "source": "Wikipedia",
@@ -17,15 +39,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Rocket_Lab",
+      "url": "https://rocketlabcorp.com/",
       "query": "Rocket Lab Corporation suppliers manufacturers",
-      "snippet": "Rocket Lab Corporation is a publicly traded aerospace manufacturer and launch service provider. [10] Its Electron orbital rocket launches small satell"
+      "snippet": "Cumulative Years In Space For Rocket Lab Satellite Technology. From Idea To Orbit. Rocket Lab is an end-to-end space company delivering reliable launc"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://rocketlabcorp.com/become-a-rocket-lab-supplier/",
+      "url": "https://www.investing.com/equities/vector-acquisition",
       "query": "Rocket Lab Corporation suppliers manufacturers",
-      "snippet": "While Rocket Lab designs and manufactures many of its merchant components in-house, we also leverage specialized suppliers that can enable us to achie"
+      "snippet": "- Rocket Lab Corporation (NASDAQ:RKLB) announced today it will acquire Iridium Communications... Investing.com. Jun 29, 2026. Rocket Lab Corporation ("
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://rocketlabcorp.com/",
+      "query": "Rocket Lab Corporation major customers clients",
+      "snippet": "Cumulative Years In Space For Rocket Lab Satellite Technology. From Idea To Orbit. Rocket Lab is an end-to-end space company delivering reliable launc"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.eoportal.org/other-space-activities/rocket-lab",
+      "query": "Rocket Lab Corporation major customers clients",
+      "snippet": "Rocket Lab 's standard process is to integrate payloads at the launch site in a traditional manner. With the Rocket Lab \"Plug-In Payload\" module, the "
     }
   ]
 }

@@ -7,31 +7,31 @@
     "MSFT",
     "AMZN",
     "GOOGL",
-    "IBM",
-    "ORCL"
-  ],
-  "downstream": [
-    "US Federal Government",
-    "Bank of America",
-    "Coca‑Cola",
-    "Walmart",
-    "General Electric"
-  ],
-  "competitors": [
-    "CRM",
-    "SAP",
-    "MSFT",
     "ORCL",
     "IBM"
   ],
+  "downstream": [
+    "Walmart",
+    "JPMorgan Chase",
+    "AT&T",
+    "Verizon",
+    "Bank of America"
+  ],
+  "competitors": [
+    "CRM",
+    "Workday",
+    "SAP",
+    "ORCL",
+    "MSFT"
+  ],
   "key_products": [
     "Now Platform",
-    "IT Service Management",
-    "IT Operations Management",
-    "IT Business Management",
-    "Customer Service Management"
+    "IT Service Management (ITSM)",
+    "IT Operations Management (ITOM)",
+    "IT Business Management (ITBM)",
+    "Customer Service Management (CSM)"
   ],
-  "extracted_at": "2026-07-06 18:15:02",
+  "extracted_at": "2026-07-07 18:01:50",
   "sources": [
     {
       "source": "Wikipedia",
@@ -55,13 +55,13 @@
       "source": "DuckDuckGo",
       "url": "https://www.servicenow.com/",
       "query": "ServiceNow, Inc. major customers clients",
-      "snippet": "Customer Service Management. Empower self- service , boost agent productivity, and speed up resolution. Strategic Portfolio Management.Learn how Servi"
+      "snippet": "Customer Service Management. Empower self- service , boost agent productivity, and speed up resolution.AI Agent Stories. Learn how ServiceNow customer"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://destinykey.org/en/companies/servicenow",
+      "url": "https://www.aegissofttech.com/insights/elevating-service-with-servicenow/",
       "query": "ServiceNow, Inc. major customers clients",
-      "snippet": "ServiceNow entered the public market with a chart where the Sun in Cancer in the 11th house — not about aggressive conquest, but about cultivating com"
+      "snippet": "In understanding the underlying foundations of client care, explore through its verifiable setting and follow the advancement of client assumptions. D"
     }
   ]
 }
