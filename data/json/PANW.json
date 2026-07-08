@@ -1,37 +1,37 @@
 {
   "ticker": "PANW",
   "company_name": "Palo Alto Networks, Inc.",
-  "sector": "Technology",
-  "industry": "Software - Infrastructure",
+  "sector": "Technology / Software - Infrastructure",
+  "industry": "Cybersecurity",
   "upstream": [
-    "INTC",
-    "AMD",
-    "AVGO",
-    "QCOM",
-    "NVDA"
-  ],
-  "downstream": [
-    "Fortune 100 companies",
-    "U.S. Department of Defense",
-    "European Union agencies",
-    "Large financial institutions",
-    "Healthcare providers"
-  ],
-  "competitors": [
-    "Checkpoint",
-    "Fortinet",
     "CSCO",
     "JNPR",
-    "CrowdStrike"
+    "HPQ",
+    "DELL",
+    "IBM"
+  ],
+  "downstream": [
+    "Wipro",
+    "Tyson Foods",
+    "GOOGL",
+    "MSFT",
+    "AMZN"
+  ],
+  "competitors": [
+    "CSCO",
+    "Fortinet",
+    "Check Point Software Technologies",
+    "CrowdStrike",
+    "McAfee"
   ],
   "key_products": [
-    "Next-Generation Firewall",
-    "Prisma Cloud",
-    "Cortex XDR",
-    "Cortex XSOAR",
-    "Panorama Management"
+    "Next‑Generation Firewall",
+    "Cloud Security (Prisma Cloud)",
+    "Threat Intelligence (Unit 42)",
+    "Endpoint Protection (Cortex XDR)",
+    "Security Automation (Cortex XSOAR)"
   ],
-  "extracted_at": "2026-07-07 18:02:58",
+  "extracted_at": "2026-07-08 17:27:00",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.paloaltonetworks.com/",
+      "url": "https://paloaltonetworks.my.site.com/NextWavePartnerProgram/s/partnerlocator",
       "query": "Palo Alto Networks, Inc. suppliers manufacturers",
-      "snippet": "Palo Alto Networks : Cloud Security Leader in First-Ever CNAPP Report. The Forrester Wave™: Cloud Workload Security, Q1 2024. Frost Radar™: Cloud Secu"
+      "snippet": "Distributors Extend Palo Alto Networks partners reach to address customer demand for Palo Alto Networks security solutions, services and support on a "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/news/earnings/_1_6_billion_tax_provisions_drive_earnings_surge_for_palo_alto_networks_inc-2024-02-21204422",
+      "url": "https://www.paloaltonetworks.com/industry/manufacturing",
       "query": "Palo Alto Networks, Inc. suppliers manufacturers",
-      "snippet": "Palo Alto Networks Inc Executive Officers. Economic Indicators. Fundamentals. Palo Alto Networks Inc Cash Flow Statement. Suppliers ."
+      "snippet": "As Industry 4.0 unfolds and the internet of things (IoT) expands, manufacturers are deploying next-gen technologies at scale. Despite the do-or-die pa"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.paloaltonetworks.com/",
+      "url": "https://www.paloaltonetworks.com/customers",
       "query": "Palo Alto Networks, Inc. major customers clients",
-      "snippet": "Palo Alto Networks : Cloud Security Leader in First-Ever CNAPP ReportFrostRadar™ names Palo Alto Networks a CNAPP LeaderOverall leader : 2024 Leadersh"
+      "snippet": "Discover how leading global brands like Wipro and Tyson Foods secure their operations with Palo Alto Networks . Explore customer success stories in cy"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-02/palo-alto-networks-raises-profit-outlook-citing-ai-demand",
+      "url": "https://www.appsruntheworld.com/customers-database/vendors/view/palo-alto-networks",
       "query": "Palo Alto Networks, Inc. major customers clients",
-      "snippet": "Palo Alto Networks Inc . released a forecast for adjusted earnings that was stronger than anticipated, signaling ongoing demand for security services "
+      "snippet": "List of companies using or evaluating Palo Alto Networks applications, with details on their revenues, employees, industries, and locations."
     }
   ]
 }

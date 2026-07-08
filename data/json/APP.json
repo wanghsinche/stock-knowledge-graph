@@ -1,36 +1,37 @@
 {
   "ticker": "APP",
   "company_name": "AppLovin Corporation",
-  "sector": "Communication Services / Advertising Agencies",
-  "industry": "Mobile Advertising Technology",
+  "sector": "Communication Services",
+  "industry": "Advertising Agencies",
   "upstream": [
-    "Axon",
-    "MAX",
-    "Adjust",
-    "Wurl"
+    "Mobile operating systems (iOS, Android)",
+    "GOOGL",
+    "AAPL",
+    "Data and analytics vendors",
+    "Ad technology infrastructure providers"
   ],
   "downstream": [
-    "Mobile app developers",
-    "Game developers",
-    "Publishers",
-    "Advertisers",
-    "Brands"
+    "App developers and publishers",
+    "Digital advertisers and brands",
+    "Gaming companies",
+    "Media and entertainment firms",
+    "E‑commerce platforms"
   ],
   "competitors": [
+    "The Trade Desk",
+    "GOOGL",
+    "META",
     "Unity Ads",
-    "AdColony",
-    "Vungle",
-    "Chartboost",
-    "Tapjoy"
+    "Vungle"
   ],
   "key_products": [
-    "AppLovin Mobile Marketing Platform",
-    "MAX Ad Mediation",
-    "SDK",
-    "Data Analytics",
-    "Ad Network"
+    "Mobile advertising SDK",
+    "App monetization platform",
+    "User acquisition solutions",
+    "Video ad serving",
+    "Data analytics and attribution tools"
   ],
-  "extracted_at": "2026-07-07 18:00:20",
+  "extracted_at": "2026-07-08 17:30:49",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,26 +42,26 @@
     {
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/AppLovin",
-      "query": "AppLovin Corporation suppliers manufacturers",
-      "snippet": "3 weeks ago - AppLovin Corporation is an American mobile technology company headquartered in Palo Alto, California."
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.globaldata.com/company-profile/applovin-corporation/",
-      "query": "AppLovin Corporation suppliers manufacturers",
-      "snippet": "Notable brands associated with AppLovin include Axon, MAX, Adjust, and Wurl . AppLovin's customers range from large enterprises to small businesses ac"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.applovin.com/",
       "query": "AppLovin Corporation major customers clients",
-      "snippet": "Let's get you in front of a billion customers . We built AppLovin for businesses like yours. Jewelry, furniture, fitness subscriptions, word games. Wh"
+      "snippet": "AppLovin Corporation is an American mobile technology company headquartered in Palo Alto, California. [3] Founded in 2012, the company helps developer"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://bullfincher.io/companies/applovin-corporation/overview",
+      "url": "https://www.appsruntheworld.com/customers-database/vendors/view/applovin",
       "query": "AppLovin Corporation major customers clients",
-      "snippet": "AppLovin Corporation provides a specialized software platform focused on empowering mobile application developers to enhance the marketing and revenue"
+      "snippet": "List of companies using or evaluating Applovin applications, with details on their revenues, employees, industries, and locations."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.softwaresuggest.com/applovin/alternatives",
+      "query": "AppLovin Corporation competitors alternatives",
+      "snippet": "6 days ago · Find the best AppLovin alternatives and competitors . Compare features, pricing, and verified user reviews to choose the right software f"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.marketbeat.com/stocks/NASDAQ/APP/competitors-and-alternatives/",
+      "query": "AppLovin Corporation competitors alternatives",
+      "snippet": "1 day ago · Is AppLovin (NASDAQ:APP) the best stock in the Technology Services industry? Compare APP to competitors like AAPL and DUOL with MarketBeat"
     }
   ]
 }

@@ -1,37 +1,37 @@
 {
   "ticker": "NFLX",
   "company_name": "Netflix, Inc.",
-  "sector": "Communication Services",
-  "industry": "Entertainment",
+  "sector": "Communication Services / Entertainment",
+  "industry": "Streaming Media",
   "upstream": [
-    "Film and television production studios",
-    "Independent content creators",
-    "Music and soundtrack licensors",
-    "Technology hardware suppliers (e.g., streaming devices)",
-    "Cloud service providers"
+    "Content production studios (e.g., Warner Bros., Disney, HBO)",
+    "SONY",
+    "MSFT",
+    "Digital rights management vendors",
+    "Advertising technology providers"
   ],
   "downstream": [
-    "Global individual subscribers",
-    "Corporate and institutional customers",
-    "Smart TV and set‑top box manufacturers",
-    "Mobile network operators",
-    "Advertising partners"
+    "Global subscribers",
+    "Roku",
+    "AMZN",
+    "AAPL",
+    "GOOGL"
   ],
   "competitors": [
     "Disney+",
+    "HBO Max",
     "AMZN",
     "Hulu",
-    "HBO Max",
     "AAPL"
   ],
   "key_products": [
-    "Over‑the‑top streaming service",
-    "Original scripted series",
-    "Original unscripted and documentary content",
-    "Licensed movies and TV shows",
-    "Interactive and immersive experiences"
+    "Netflix streaming service",
+    "Original content library (e.g., Stranger Things, The Crown)",
+    "Licensed content library",
+    "Mobile app",
+    "Smart TV app"
   ],
-  "extracted_at": "2026-07-07 18:04:52",
+  "extracted_at": "2026-07-08 17:31:35",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,25 +43,25 @@
       "source": "DuckDuckGo",
       "url": "https://csimarket.com/stocks/NFLX-Suppliers",
       "query": "Netflix, Inc. suppliers manufacturers",
-      "snippet": "Netflix Inc supply chain, list and performance of Netflix Incs ' suppliers - CSIMarket."
+      "snippet": "1 day ago · Netflix Inc 's Suppliers recorded an increase in sales by 10.66 % year on year in Q1 2026, from the previous quarter, sales fell by -7.92 "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.stock-analysis-on.net/NASDAQ/Company/Netflix-Inc",
+      "url": "https://npfp.netflixstudios.com/",
       "query": "Netflix, Inc. suppliers manufacturers",
-      "snippet": "Netflix Inc . (NASDAQ:NFLX). The Company Profile. Financial Statements.An approach to decomposing Netflix Inc . return on equity, return on assets, an"
+      "snippet": "The Netflix Preferred Fulfillment Partner (NPFP) program represents a worldwide network of elite media fulfillment companies. After meeting strict sta"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.marketresearch.com/GlobalData-v3648/Netflix-NFLX-Financial-Strategic-SWOT-45074809/",
+      "url": "https://csimarket.com/stocks/NFLX-Customers",
       "query": "Netflix, Inc. major customers clients",
-      "snippet": "Netflix Inc ( Netflix ) is a subscription-based entertainment service provider. The company offers TV shows and movies including original series, docu"
+      "snippet": "During the corresponding time, Netflix Inc recorded a revenue increase by 16.19 % year on year, sequentially revenue grew by 1.65 %. While revenue at "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://destinykey.org/fr/companies/netflix",
+      "url": "https://ir.netflix.net/ir-overview/profile/default.aspx",
       "query": "Netflix, Inc. major customers clients",
-      "snippet": "Atouts commerciaux et avantages concurrentiels. La planète la plus forte de la carte – Mercure (domicile +5, dernier dispensateur, maître de quatre ch"
+      "snippet": "Jun 4, 2026 · Netflix is one of the world’s leading entertainment services offering TV series, films, games and live programming across a wide variety"
     }
   ]
 }

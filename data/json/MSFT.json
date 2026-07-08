@@ -6,32 +6,32 @@
   "upstream": [
     "INTC",
     "AMD",
-    "NVDA",
     "DELL",
-    "HPQ"
+    "HPQ",
+    "CSCO"
   ],
   "downstream": [
-    "Enterprises",
-    "Governments",
-    "Consumers",
-    "DELL",
-    "Cloud service users"
+    "Walmart",
+    "JPMorgan Chase",
+    "AT&T",
+    "Verizon",
+    "U.S. Department of Defense"
   ],
   "competitors": [
     "AAPL",
     "GOOGL",
     "AMZN",
-    "ORCL",
-    "IBM"
+    "IBM",
+    "ORCL"
   ],
   "key_products": [
     "Windows OS",
-    "Azure Cloud",
     "Microsoft Office",
-    "Xbox",
-    "Surface"
+    "Azure Cloud",
+    "Microsoft Teams",
+    "Xbox"
   ],
-  "extracted_at": "2026-07-07 17:53:35",
+  "extracted_at": "2026-07-08 17:21:38",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Microsoft",
+      "url": "https://csimarket.com/stocks/MSFT-Suppliers",
       "query": "Microsoft Corporation suppliers manufacturers",
-      "snippet": "Microsoft Corporation is an American multinational technology company headquartered in Redmond, Washington."
+      "snippet": "1 day ago · Microsoft's Suppliers recorded an increase in sales by 41.5 % year on year in Q1 2026, sequentially sales grew by 10.71 %, Microsoft recor"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/suppliers_glance.php?code=MSFT",
+      "url": "https://www.microsoft.com/en-us/professionalservices/suppliers",
       "query": "Microsoft Corporation suppliers manufacturers",
-      "snippet": "News about Microsoft Corporation Contracts. Microsoft 's Comment on Supply Chain. We develop most of our products and services internally through four"
+      "snippet": "Microsoft Professional Services and suppliers When customers engage with Microsoft for Professional Services, including enterprise services, consultin"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Microsoft",
+      "url": "https://csimarket.com/stocks/MSFT-Customers",
       "query": "Microsoft Corporation major customers clients",
-      "snippet": "Microsoft Corporation is an American multinational technology company headquartered in Redmond, Washington."
+      "snippet": "Microsoft customers and markets, results by customer and performance relative to MSFT, by company and industry - CSIMarket"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://copilot.microsoft.com/",
+      "url": "https://www.appsruntheworld.com/customers-database/vendors/view/microsoft",
       "query": "Microsoft Corporation major customers clients",
-      "snippet": "Microsoft Copilot is your companion to inform, entertain and inspire. Get advice, feedback and straightforward answers. Try Copilot now."
+      "snippet": "List of companies using or evaluating Microsoft applications, with details on their revenues, employees, industries, and locations."
     }
   ]
 }

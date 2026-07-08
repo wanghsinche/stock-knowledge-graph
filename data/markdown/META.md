@@ -3,8 +3,8 @@ ticker: META
 company: Meta Platforms, Inc.
 sector: Communication Services
 industry: Internet Content & Information
-extracted_at: 2026-07-07 17:54:23
-last_updated: 2026-07-07
+extracted_at: 2026-07-08 17:22:29
+last_updated: 2026-07-08
 ---
 
 # META - Meta Platforms, Inc.
@@ -12,46 +12,49 @@ last_updated: 2026-07-07
 ## 基本信息
 
 - **所属行业**: Communication Services / Internet Content & Information
-- **提取时间**: 2026-07-07 17:54:23
+- **提取时间**: 2026-07-08 17:22:29
 
 ## 产业链关系
 
 ### 上游供应商
 - [[QCOM]]
+- [[NVDA]]
+- [[INTC]]
 - [[005930.KS]]
-- [[AAPL]]
-- [[LG Display]]
-- [[CSCO]]
+- [[TSM]]
 
 ### 下游客户
-- [[Advertisers]]
-- [[Third‑party app developers]]
+- [[Advertisers (global brands)]]
+- [[App developers]]
 - [[Content creators]]
-- [[Gaming companies]]
-- [[Media companies]]
+- [[Small & medium businesses]]
+- [[Enterprise clients]]
 
 ### 竞争对手
 - [[GOOGL]]
 - [[AMZN]]
 - [[AAPL]]
 - [[MSFT]]
-- [[Twitter Inc.]]
+- [[TikTok (ByteDance)]]
 
 ### 核心产品
 - [[Facebook]]
 - [[Instagram]]
 - [[WhatsApp]]
 - [[Messenger]]
+- [[Threads]]
 - [[Meta Ads]]
+- [[Meta Quest]]
+- [[Meta Horizon Worlds]]
 
 ## 数据来源
 
 - [Meta Platforms](https://en.wikipedia.org/wiki/Meta_Platforms,_Inc.)
-- [Meta Platforms, Inc. suppliers manufacturers](https://ru.wikipedia.org/wiki/Meta_Platforms)
-- [Meta Platforms, Inc. suppliers manufacturers](https://investor.atmeta.com/)
-- [Meta Platforms, Inc. major customers clients](https://www.thestreet.com/investing/metas-next-ai-bet-has-one-major-catch-for-investors)
-- [Meta Platforms, Inc. major customers clients](https://www.marketbeat.com/instant-alerts/filing-forsta-ap-fonden-has-39392-million-stock-position-in-meta-platforms-inc-meta-2026-06-08/)
+- [Meta Platforms, Inc. suppliers manufacturers](https://csimarket.com/stocks/META-Suppliers)
+- [Meta Platforms, Inc. suppliers manufacturers](https://www.makesureiknowit.com/company/meta-platforms)
+- [Meta Platforms, Inc. major customers clients](https://en.wikipedia.org/wiki/Meta_Platforms)
+- [Meta Platforms, Inc. major customers clients](https://csimarket.com/stocks/META-Customers)
 
 ## 元数据
 
-- **更新日期**: 2026-07-07
+- **更新日期**: 2026-07-08

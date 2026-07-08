@@ -1,37 +1,37 @@
 {
   "ticker": "V",
   "company_name": "Visa Inc.",
-  "sector": "Financial Services / Credit Services",
-  "industry": "Payment Processing",
+  "sector": "Financial Services",
+  "industry": "Credit Services",
   "upstream": [
-    "Card issuing banks",
-    "Financial institutions",
-    "Payment card issuers",
-    "Banking partners",
-    "Card network providers"
+    "Chip and card manufacturers (e.g., Gemalto, IDTech)",
+    "Payment network infrastructure providers",
+    "Software vendors for transaction processing",
+    "Security and fraud detection service providers",
+    "Data center and cloud service providers"
   ],
   "downstream": [
-    "Merchants",
-    "Retailers",
-    "E‑commerce platforms",
-    "Financial institutions",
-    "Cardholders"
+    "Commercial banks and credit unions",
+    "Retail merchants and e-commerce platforms",
+    "Travel and hospitality companies",
+    "Government agencies",
+    "Consumers using Visa-branded cards"
   ],
   "competitors": [
     "Mastercard",
     "American Express",
-    "Discover",
+    "Discover Financial Services",
     "PayPal",
     "Square"
   ],
   "key_products": [
-    "VisaNet payment network",
-    "Visa credit cards",
-    "Visa debit cards",
-    "Visa prepaid cards",
-    "Visa mobile payments"
+    "Visa payment network (VisaNet)",
+    "Visa-branded credit, debit, and prepaid cards",
+    "Merchant acquiring services",
+    "Fraud and risk management solutions",
+    "Digital payment solutions (e.g., Visa Checkout)"
   ],
-  "extracted_at": "2026-07-07 18:03:13",
+  "extracted_at": "2026-07-08 17:36:09",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Visa_Inc.",
+      "url": "https://usa.visa.com/partner-with-us/info-for-partners/info-for-suppliers.html",
+      "query": "Visa Inc. suppliers manufacturers",
+      "snippet": "Visa recognizes the value of engaging with a broad group of suppliers , including small and micro-sized businesses (SMBs), and provides opportunities "
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.visa.com/splisting/searchGrsp.do",
+      "query": "Visa Inc. suppliers manufacturers",
+      "snippet": "Jun 18, 2026 · For service providers published on the Registry, if Visa does not receive the appropriate revalidation documents: Within 1 - 60 days up"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/V-Customers",
       "query": "Visa Inc. major customers clients",
-      "snippet": "Visa Inc . is an American multinational payment card services corporation headquartered in San Francisco, California. It facilitates electronic funds "
+      "snippet": "Visa also owns and manages additional data centers in the United States and internationally, including those we added with our acquisitions of CyberSo"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.britannica.com/money/Visa-Inc",
+      "url": "https://data.landbase.com/technology/visa/",
       "query": "Visa Inc. major customers clients",
-      "snippet": "Visa Inc . is an international payment card services corporation established in 1958.A major player in bolstering BankAmericard’s early success was De"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://rocketreach.co/visa-inc-competitors_b7ce23efc15adcce",
-      "query": "Visa Inc. competitors alternatives",
-      "snippet": "View Visa Inc .'s top competitors like Adyen, American Express, and Discover."
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://pitchgrade.com/companies/visa",
-      "query": "Visa Inc. competitors alternatives",
-      "snippet": "Visa Inc .'s main competitors include Mastercard, American Express, Discover, PayPal. The company operates in the Credit Services segment of the Finan"
+      "snippet": "Aug 17, 2025 · We have data on 149,403 companies that use Visa. Our Visa customers list is available for download and comes enriched with vital compan"
     }
   ]
 }

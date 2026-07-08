@@ -3,8 +3,8 @@ ticker: SPCX
 company: Space Exploration Technologies Corp.
 sector: Industrials
 industry: Aerospace & Defense
-extracted_at: 2026-07-07 17:53:04
-last_updated: 2026-07-07
+extracted_at: 2026-07-08 17:21:16
+last_updated: 2026-07-08
 ---
 
 # SPCX - Space Exploration Technologies Corp.
@@ -12,30 +12,30 @@ last_updated: 2026-07-07
 ## 基本信息
 
 - **所属行业**: Industrials / Aerospace & Defense
-- **提取时间**: 2026-07-07 17:53:04
+- **提取时间**: 2026-07-08 17:21:16
 
 ## 产业链关系
 
 ### 上游供应商
 - [[Aerojet Rocketdyne]]
 - [[Honeywell Aerospace]]
+- [[Pratt & Whitney]]
+- [[Boeing]]
 - [[Lockheed Martin]]
-- [[Linde]]
-- [[Air Products]]
 
 ### 下游客户
 - [[NASA]]
 - [[U.S. Department of Defense]]
-- [[INTC]]
-- [[Starlink residential and enterprise customers]]
-- [[Artemis program participants]]
+- [[Commercial satellite operators]]
+- [[Starlink customers (global broadband users)]]
+- [[SpaceX's own Starlink service subscribers]]
 
 ### 竞争对手
-- [[United Launch Alliance]]
-- [[Arianespace]]
 - [[Blue Origin]]
+- [[United Launch Alliance]]
 - [[Rocket Lab]]
-- [[Virgin Orbit]]
+- [[Virgin Galactic]]
+- [[Arianespace]]
 
 ### 核心产品
 - [[Falcon 9 launch vehicle]]
@@ -47,11 +47,11 @@ last_updated: 2026-07-07
 ## 数据来源
 
 - [SpaceX](https://en.wikipedia.org/wiki/Space_Exploration_Technologies_Corp.)
-- [Space Exploration Technologies Corp. suppliers manufacturers](https://www.tradingview.com/symbols/NASDAQ-SPCX/)
-- [Space Exploration Technologies Corp. suppliers manufacturers](https://finance.yahoo.com/quote/SPCX/)
+- [Space Exploration Technologies Corp. suppliers manufacturers](https://grokipedia.com/page/Publicly_traded_SpaceX_suppliers)
+- [Space Exploration Technologies Corp. suppliers manufacturers](https://www3.nasa.gov/specials/ESDSuppliersMap/)
 - [Space Exploration Technologies Corp. major customers clients](https://en.wikipedia.org/wiki/SpaceX)
-- [Space Exploration Technologies Corp. major customers clients](https://www.tradingview.com/symbols/NASDAQ-SPCX/)
+- [Space Exploration Technologies Corp. major customers clients](https://spaceexplorationtechnologies.com/)
 
 ## 元数据
 
-- **更新日期**: 2026-07-07
+- **更新日期**: 2026-07-08

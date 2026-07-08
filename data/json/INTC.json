@@ -4,11 +4,11 @@
   "sector": "Technology",
   "industry": "Semiconductors",
   "upstream": [
-    "AMAT",
-    "ASML",
-    "LRCX",
-    "Tokyo Electron",
-    "KLA Corporation"
+    "TSM",
+    "005930.KS",
+    "MU",
+    "SK Hynix",
+    "ASE Group"
   ],
   "downstream": [
     "DELL",
@@ -22,16 +22,16 @@
     "NVDA",
     "QCOM",
     "AVGO",
-    "TSM"
+    "005930.KS"
   ],
   "key_products": [
     "Intel Core processors",
     "Intel Xeon processors",
-    "Intel Arc GPUs",
+    "Intel Iris Graphics",
     "Intel Optane memory",
-    "Intel Ethernet controllers"
+    "Intel AI accelerators"
   ],
-  "extracted_at": "2026-07-07 17:52:17",
+  "extracted_at": "2026-07-08 17:20:30",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,25 +43,25 @@
       "source": "DuckDuckGo",
       "url": "https://csimarket.com/stocks/INTC-Suppliers",
       "query": "Intel Corporation suppliers manufacturers",
-      "snippet": "Intel supply chain, list and performance of Intels' suppliers - CSIMarket. Intel 's Comment on Supply Chain. We use third-party foundries to manufactu"
+      "snippet": "1 day ago · Intel's Suppliers recorded an increase in sales by 16.34 % year on year in Q1 2026, sequentially sales grew by 8.67 %, Intel recorded incr"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.globalspec.com/supplier/profile/Intel",
+      "url": "https://www.accio.com/supplier/intel-supplier",
       "query": "Intel Corporation suppliers manufacturers",
-      "snippet": "Intel Corporation business profile on GlobalSpec. Read about Intel Corporation , browse product catalogs and product areas.(408) 765-9904. Business Ty"
+      "snippet": "Jun 28, 2026 · Need reliable Intel suppliers ? Discover verified vendors offering Core i5, i7, i9 processors, motherboards and graphics cards. Click t"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.tradingview.com/symbols/NASDAQ-INTC/",
+      "url": "https://www.intel.com/content/www/us/en/customer-spotlight/overview.html",
       "query": "Intel Corporation major customers clients",
-      "snippet": "View live Intel Corporation chart to track its stock's price action. Find market predictions, INTC financials and market news."
+      "snippet": "Jul 20, 2025 · Explore the Intel Customer Spotlight for the latest customer stories, case studies, and testimonials highlighting data-centric innovati"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/INTC/",
+      "url": "https://csimarket.com/stocks/INTC-Customers",
       "query": "Intel Corporation major customers clients",
-      "snippet": "Find the latest Intel Corporation (INTC) stock quote, history, news and other vital information to help you with your stock trading and investing."
+      "snippet": "2 days ago · Intel customers and markets, results by customer and performance relative to INTC, by company and industry - CSIMarket"
     }
   ]
 }

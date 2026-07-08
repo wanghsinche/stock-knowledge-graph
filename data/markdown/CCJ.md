@@ -3,8 +3,8 @@ ticker: CCJ
 company: Cameco Corporation
 sector: Energy
 industry: Uranium
-extracted_at: 2026-07-07 18:12:27
-last_updated: 2026-07-07
+extracted_at: 2026-07-08 17:43:02
+last_updated: 2026-07-08
 ---
 
 # CCJ - Cameco Corporation
@@ -12,46 +12,46 @@ last_updated: 2026-07-07
 ## 基本信息
 
 - **所属行业**: Energy / Uranium
-- **提取时间**: 2026-07-07 18:12:27
+- **提取时间**: 2026-07-08 17:43:02
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Uranium ore suppliers]]
-- [[Mining equipment manufacturers]]
-- [[Drilling equipment suppliers]]
-- [[Fuel processing chemical suppliers]]
-- [[Engineering and construction contractors]]
+- [[CAT]]
+- [[Komatsu]]
+- [[Sandvik]]
+- [[Eaton]]
+- [[ABB]]
 
 ### 下游客户
-- [[Nuclear power plant operators]]
-- [[National nuclear agencies]]
-- [[Electric utilities]]
-- [[Nuclear fuel cycle companies]]
-- [[Government defense departments]]
+- [[EDF]]
+- [[Westinghouse]]
+- [[China National Nuclear Corporation]]
+- [[Electricité de France]]
+- [[Nuclear Power Corporation of India]]
 
 ### 竞争对手
 - [[Kazatomprom]]
 - [[Uranium Energy Corp]]
-- [[Nuclear Fuel Services]]
-- [[Uranium Resources Ltd]]
-- [[Uranium One]]
+- [[Energy Fuels]]
+- [[Orano]]
+- [[NexGen Energy]]
 
 ### 核心产品
+- [[Uranium ore]]
 - [[Uranium concentrate (U3O8)]]
-- [[Enriched uranium fuel]]
-- [[Depleted uranium]]
 - [[Uranium hexafluoride (UF6)]]
 - [[Nuclear fuel assemblies]]
+- [[Uranium enrichment services]]
 
 ## 数据来源
 
 - [Cameco](https://en.wikipedia.org/wiki/Cameco_Corporation)
+- [Cameco Corporation suppliers manufacturers](https://csimarket.com/stocks/CCJ-Suppliers)
 - [Cameco Corporation suppliers manufacturers](https://www.cameco.com/)
-- [Cameco Corporation suppliers manufacturers](https://grokipedia.com/page/Cameco)
-- [Cameco Corporation major customers clients](https://www.cameco.com/)
-- [Cameco Corporation major customers clients](https://thecustomertest.com/companies/81699_Cameco_Corporation_v2)
+- [Cameco Corporation major customers clients](https://www.cameco.com/invest/markets/cameco-customers)
+- [Cameco Corporation major customers clients](https://csimarket.com/stocks/CCJ-Customers)
 
 ## 元数据
 
-- **更新日期**: 2026-07-07
+- **更新日期**: 2026-07-08

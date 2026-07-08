@@ -3,8 +3,8 @@ ticker: RKLB
 company: Rocket Lab Corporation
 sector: Industrials
 industry: Aerospace & Defense
-extracted_at: 2026-07-07 18:04:31
-last_updated: 2026-07-07
+extracted_at: 2026-07-08 17:36:41
+last_updated: 2026-07-08
 ---
 
 # RKLB - Rocket Lab Corporation
@@ -12,44 +12,28 @@ last_updated: 2026-07-07
 ## 基本信息
 
 - **所属行业**: Industrials / Aerospace & Defense
-- **提取时间**: 2026-07-07 18:04:31
+- **提取时间**: 2026-07-08 17:36:41
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Honeywell Aerospace]]
-- [[Thales Alenia Space]]
-- [[Aerojet Rocketdyne]]
-- [[Boeing]]
-- [[Lockheed Martin]]
+_暂无数据_
 
 ### 下游客户
-- [[NASA]]
-- [[Planet Labs]]
-- [[Planet]]
+_暂无数据_
 
 ### 竞争对手
-- [[SpaceX]]
-- [[Blue Origin]]
-- [[Virgin Orbit]]
-- [[Firefly Aerospace]]
-- [[Astra]]
+_暂无数据_
 
 ### 核心产品
-- [[Electron orbital rocket]]
-- [[HASTE suborbital rocket]]
-- [[Neutron medium‑lift rocket]]
-- [[Satellite components (star trackers, reaction wheels, solar panels)]]
-- [[Software‑defined radios]]
+_暂无数据_
 
 ## 数据来源
 
 - [Rocket Lab](https://en.wikipedia.org/wiki/Rocket_Lab_Corporation)
-- [Rocket Lab Corporation suppliers manufacturers](https://rocketlabcorp.com/)
-- [Rocket Lab Corporation suppliers manufacturers](https://www.investing.com/equities/vector-acquisition)
-- [Rocket Lab Corporation major customers clients](https://rocketlabcorp.com/)
-- [Rocket Lab Corporation major customers clients](https://www.eoportal.org/other-space-activities/rocket-lab)
+- [Rocket Lab Corporation suppliers manufacturers](https://en.wikipedia.org/wiki/Rocket_Lab)
+- [Rocket Lab Corporation suppliers manufacturers](https://rocketlabcorp.com/become-a-rocket-lab-supplier/)
 
 ## 元数据
 
-- **更新日期**: 2026-07-07
+- **更新日期**: 2026-07-08

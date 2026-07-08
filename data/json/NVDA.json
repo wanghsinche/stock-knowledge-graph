@@ -7,14 +7,14 @@
     "TSM",
     "005930.KS",
     "GlobalFoundries",
-    "MU",
-    "INTC"
+    "ASE Technology Holding",
+    "MU"
   ],
   "downstream": [
     "MSFT",
-    "SONY",
-    "DELL",
     "AMZN",
+    "GOOGL",
+    "SONY",
     "TSLA"
   ],
   "competitors": [
@@ -26,12 +26,12 @@
   ],
   "key_products": [
     "GeForce RTX GPUs",
-    "Quadro GPUs",
-    "Tesla AI GPUs",
-    "Jetson SoCs",
+    "Quadro RTX GPUs",
+    "NVIDIA DGX AI systems",
+    "Jetson AI edge platform",
     "CUDA software platform"
   ],
-  "extracted_at": "2026-07-07 17:51:53",
+  "extracted_at": "2026-07-08 17:19:03",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,25 +43,25 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Nvidia",
       "query": "NVIDIA Corporation suppliers manufacturers",
-      "snippet": "Nvidia Corporation is an American multinational technology company headquartered in Santa Clara, California. Nvidia uses external suppliers for all ph"
+      "snippet": "3 days ago - In August 2025, Nvidia ordered suppliers to halt production of its H20 AI chip following Chinese government directives warning domestic c"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.investing.com/equities/nvidia-corp",
+      "url": "https://csimarket.com/stocks/suppliers_glance.php?code=NVDA",
       "query": "NVIDIA Corporation suppliers manufacturers",
-      "snippet": "View today's NVIDIA Corporation stock price and latest NVDA news and analysis. Create real-time notifications to follow any changes in the live stock "
+      "snippet": "2 weeks ago - Nvidia supply chain, list and performance of Nvidias' suppliers - CSIMarket"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/markets_glance.php?code=NVDA",
+      "url": "https://finance.yahoo.com/news/nvidias-largest-customers-201900375.html",
       "query": "NVIDIA Corporation major customers clients",
-      "snippet": "19 hours ago - Nvidia customers and markets, results by customer and performance relative to NVDA, by company and industry - CSIMarket"
+      "snippet": "May 2, 2024 - However, in its recent 10-K filing, the company did say that one customer represented 13% of its revenue from its compute and networking"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.fool.com/investing/2025/06/26/who-are-nvidias-biggest-customers/",
+      "url": "https://finance.yahoo.com/news/nvidias-biggest-customers-095700428.html",
       "query": "NVIDIA Corporation major customers clients",
-      "snippet": "June 26, 2025 - Nvidia has amassed an impressive list of customers, which includes top AI developers like Amazon, Microsoft, and Alphabet ."
+      "snippet": "June 26, 2025 - Nvidia has amassed an impressive list of customers, which includes top AI developers like Amazon, Microsoft, and Alphabet . Nvidia's c"
     }
   ]
 }

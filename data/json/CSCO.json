@@ -5,39 +5,63 @@
   "industry": "Networking Equipment",
   "upstream": [
     "INTC",
-    "QCOM",
     "AVGO",
+    "QCOM",
     "TXN",
-    "MSFT"
+    "MRVL"
   ],
   "downstream": [
-    "AT&T Inc.",
+    "Enterprise IT customers",
     "CAT",
-    "Bank of America Corp.",
-    "United States Department of Defense",
-    "University of California System"
+    "Government agencies",
+    "Cloud service providers",
+    "Healthcare organizations"
   ],
   "competitors": [
     "JNPR",
     "ANET",
-    "Huawei Technologies Co., Ltd.",
-    "Nokia Corporation",
-    "Ericsson AB"
+    "Huawei",
+    "Nokia",
+    "Ericsson"
   ],
   "key_products": [
-    "Cisco Webex",
-    "Cisco OpenDNS",
-    "Cisco Jabber",
-    "Cisco Jasper",
-    "Cisco Meraki Cloud‑Managed Networking"
+    "Cisco routers",
+    "Cisco switches",
+    "Webex",
+    "OpenDNS",
+    "Jabber"
   ],
-  "extracted_at": "2026-07-03 17:46:45",
+  "extracted_at": "2026-07-08 17:35:10",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Cisco_Systems,_Inc.",
       "title": "Cisco",
       "snippet": "Cisco Systems, Inc., doing business as Cisco, is an American multinational technology conglomerate corporation that develops, manufactures, and sells hardware, software, telecommunications equipment a"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.cisco.com/c/en/us/about/suppliers.html",
+      "query": "Cisco Systems, Inc. suppliers manufacturers",
+      "snippet": "As a worldwide technology leader, Cisco leverages a premier, strategic supplier network across our business operations—managed by Global Procurement S"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.cisco.com/c/dam/en_us/about/supply-chain/cisco-supplier-list.pdf",
+      "query": "Cisco Systems, Inc. suppliers manufacturers",
+      "snippet": "Cisco Supplier List Cisco products are made by a complex global network of manufacturing partners and component suppliers . To learn more about how we"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.cisco.com/site/us/en/about/case-studies-customer-stories/index.html",
+      "query": "Cisco Systems, Inc. major customers clients",
+      "snippet": "Read Cisco case studies and customer success stories highlighting the ways organizations have realized their goals and helped drive outcomes."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.cisco.com/c/en/us/about/case-studies-customer-success-stories/customer-stories-listing.html",
+      "query": "Cisco Systems, Inc. major customers clients",
+      "snippet": "Customer case studies highlighting customer and partner success with Cisco technology and services. Find your Industry."
     }
   ]
 }

@@ -7,31 +7,31 @@
     "NVDA",
     "AMD",
     "INTC",
-    "GOOGL",
-    "AMZN"
+    "AMZN",
+    "MSFT"
   ],
   "downstream": [
-    "MSFT",
+    "JPMorgan Chase",
+    "Bank of America",
+    "Verizon",
     "AMZN",
-    "GOOGL",
-    "Alibaba",
-    "Tencent"
+    "GOOGL"
   ],
   "competitors": [
     "NVDA",
-    "AMD",
-    "INTC",
     "GOOGL",
-    "AMZN"
+    "MSFT",
+    "AMZN",
+    "IBM"
   ],
   "key_products": [
-    "Nebius AI Infrastructure",
-    "Avride",
-    "TripleTen",
-    "Toloka",
-    "Clickhouse"
+    "AI infrastructure platform",
+    "Avride AI platform",
+    "TripleTen AI platform",
+    "Toloka crowdsourcing platform",
+    "ClickHouse database"
   ],
-  "extracted_at": "2026-07-07 17:57:21",
+  "extracted_at": "2026-07-08 17:24:19",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/suppliers_glance.php?code=NBIS",
+      "url": "https://www.dcsa.mil/Systems-Applications/National-Background-Investigation-Services-NBIS/",
       "query": "NBIS suppliers manufacturers",
-      "snippet": "NBIS 's Suppliers Management Effectiveness. NBIS 's Competitors Results. NBIS 's vs. Suppliers , Data. (Revenue and Income for Trailing 12 Months, in "
+      "snippet": "NBIS improves efficiency by automating manual practices and removing paper from the background investigation process. While NBIS is the modernized, in"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/NBIS/",
+      "url": "https://csimarket.com/stocks/NBIS-Suppliers",
       "query": "NBIS suppliers manufacturers",
-      "snippet": "Find the latest Nebius Group N.V. ( NBIS ) stock quote, history, news and other vital information to help you with your stock trading and investing."
+      "snippet": "Jun 23, 2026 · Nebius Group N V's Suppliers Performance NBIS 's Supply Chain Download as CSV Commercial Data Licensing & OEM Annual commercial subscri"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.nasdaq.com/market-activity/stocks/nbis",
+      "url": "https://csimarket.com/stocks/NBIS-Customers",
       "query": "NBIS major customers clients",
-      "snippet": "Data Disclaimer: The Nasdaq Indices and the Major Indices are delayed at least 1 minute. Real-time Data is provided using Nasdaq Last Sale Data.Edit M"
+      "snippet": "1 day ago · Nebius Group N V customers and markets, results by customer and performance relative to NBIS , by company and industry - CSIMarket"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.tradingview.com/symbols/NASDAQ-NBIS/ideas/page-2/",
+      "url": "https://www.dcsa.mil/Systems-Applications/National-Background-Investigation-Services-NBIS/",
       "query": "NBIS major customers clients",
-      "snippet": "NBIS setup bullish I have added another 100 shares in the last few days we we dipped back into the demand zone and teal trend."
+      "snippet": "NBIS improves efficiency by automating manual practices and removing paper from the background investigation process. While NBIS is the modernized, in"
     }
   ]
 }

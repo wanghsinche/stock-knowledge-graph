@@ -3,17 +3,47 @@
   "company_name": "Arista Networks, Inc.",
   "sector": "Technology",
   "industry": "Computer Hardware",
-  "upstream": [],
-  "downstream": [],
-  "competitors": [],
-  "key_products": [],
-  "extracted_at": "2026-05-14 17:49:02",
+  "upstream": [
+    "AVGO",
+    "INTC",
+    "QCOM",
+    "MRVL",
+    "TXN"
+  ],
+  "downstream": [
+    "AMZN",
+    "GOOGL",
+    "MSFT",
+    "Facebook",
+    "NFLX"
+  ],
+  "competitors": [
+    "CSCO",
+    "JNPR",
+    "HPQ",
+    "Huawei",
+    "DELL"
+  ],
+  "key_products": [
+    "7500R Series Switches",
+    "7280R Series Switches",
+    "7050X Series Switches",
+    "7280SR Series Switches",
+    "CloudVision SDN Platform"
+  ],
+  "extracted_at": "2026-07-08 17:34:19",
   "sources": [
     {
       "source": "Wikipedia",
-      "url": "",
-      "title": "",
-      "snippet": ""
+      "url": "https://en.wikipedia.org/wiki/Arista_Networks,_Inc.",
+      "title": "Arista Networks",
+      "snippet": "Arista Networks, Inc. is an American provider of client to cloud networking services for large data center/AI, campus and routing environments."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.listthe.com/manufacturers-of/arista-networks-inc",
+      "query": "Arista Networks, Inc. suppliers manufacturers",
+      "snippet": "Let's check ARISTA NETWORKS INC 's supplier list! arista networks inc is a CHASSISSTEEL SWITCH , WIRELESS LAN PRODUCT and SWITCHING POWER SUPPLY compa"
     },
     {
       "source": "DuckDuckGo",
@@ -23,9 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.globalspec.com/supplier/profile/AristaNetworks",
-      "query": "Arista Networks, Inc. suppliers manufacturers",
-      "snippet": "Arista Networks was founded to pioneer and deliver software-driven cloud networking solutions for large data center storage and computing environments"
+      "url": "https://www.appsruntheworld.com/customers-database/vendors/view/arista-networks",
+      "query": "Arista Networks, Inc. major customers clients",
+      "snippet": "List of companies using or evaluating Arista Networks applications, with details on their revenues, employees, industries, and locations."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.readycontacts.com/target-account-profiling/arista-networks-2/",
+      "query": "Arista Networks, Inc. major customers clients",
+      "snippet": "Arista Networks is a renowned network company that works on an advanced network operating system. Companies who use Arista Networks get a high perform"
     }
   ]
 }

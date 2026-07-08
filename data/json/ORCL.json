@@ -2,27 +2,27 @@
   "ticker": "ORCL",
   "company_name": "Oracle Corporation",
   "sector": "Technology",
-  "industry": "Software - Infrastructure",
+  "industry": "Software – Infrastructure",
   "upstream": [
+    "INTC",
+    "AMD",
+    "NVDA",
     "DELL",
-    "HPQ",
-    "CSCO",
-    "IBM",
-    "INTC"
+    "Hewlett‑Packard Enterprise"
   ],
   "downstream": [
-    "Bank of America",
-    "Walmart",
-    "United States Department of Defense",
-    "General Electric",
-    "Citigroup"
+    "AMZN",
+    "MSFT",
+    "GOOGL",
+    "Government agencies (e.g., U.S. Department of Defense)",
+    "Financial services firms (e.g., JPMorgan Chase)"
   ],
   "competitors": [
     "MSFT",
-    "AMZN",
-    "GOOGL",
+    "SAP",
     "IBM",
-    "SAP"
+    "AMZN",
+    "GOOGL"
   ],
   "key_products": [
     "Oracle Database",
@@ -31,7 +31,7 @@
     "Oracle ERP Cloud",
     "Oracle Analytics Cloud"
   ],
-  "extracted_at": "2026-07-07 17:55:59",
+  "extracted_at": "2026-07-08 17:25:51",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://adjkjc.github.io/en.wikipedia.org/wiki/Oracle_Corporation.html",
-      "query": "Oracle Corporation suppliers manufacturers",
-      "snippet": "Oracle Corporation is an American multinational computer technology corporation headquartered in Redwood Shores, California. The company sells databas"
-    },
-    {
-      "source": "DuckDuckGo",
       "url": "https://csimarket.com/stocks/ORCL-Suppliers",
       "query": "Oracle Corporation suppliers manufacturers",
-      "snippet": "Oracle supply chain, list and performance of Oracles ' suppliers - CSIMarket."
+      "snippet": "2 days ago · To produce our hardware products, we rely on both our internal manufacturing operations as well as third party manufacturing partners. Ou"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Larry_Ellison",
-      "query": "Oracle Corporation major customers clients",
-      "snippet": "Lawrence Joseph Ellison is an American businessman. He co-founded the software company Oracle Corporation , and was its CEO from 1977 to 2014. He now "
+      "url": "https://www.oracle.com/corporate/suppliers/",
+      "query": "Oracle Corporation suppliers manufacturers",
+      "snippet": "Doing Business with Oracle Oracle iSupplier Portal (iSP) is a secured self-service tool, which provides Oracle 's suppliers with the ability to use a "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://destinykey.org/en/companies/oracle-corp",
+      "url": "https://csimarket.com/stocks/ORCL-Customers",
       "query": "Oracle Corporation major customers clients",
-      "snippet": "Oracle Corporation didn't just go public—it burst onto the scene ready for war, encoding its DNA in a water stellium of Pisces and Aries in the 11th h"
+      "snippet": "Jun 24, 2026 · By offering our partners access to our product offerings, educational information, technical services, marketing and sales support, the"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.thomsondata.com/customer-base/oracle.php",
+      "query": "Oracle Corporation major customers clients",
+      "snippet": "An Oracle customers list is a data set that provides contact leads for marketing and promotional efforts. In the context of Oracle, such lists host in"
     }
   ]
 }

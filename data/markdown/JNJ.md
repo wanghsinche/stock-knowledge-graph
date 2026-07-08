@@ -3,8 +3,8 @@ ticker: JNJ
 company: Johnson & Johnson
 sector: Healthcare
 industry: Drug Manufacturers - General
-extracted_at: 2026-07-07 18:05:25
-last_updated: 2026-07-07
+extracted_at: 2026-07-08 17:40:08
+last_updated: 2026-07-08
 ---
 
 # JNJ - Johnson & Johnson
@@ -12,46 +12,46 @@ last_updated: 2026-07-07
 ## 基本信息
 
 - **所属行业**: Healthcare / Drug Manufacturers - General
-- **提取时间**: 2026-07-07 18:05:25
+- **提取时间**: 2026-07-08 17:40:08
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Pfizer]]
-- [[Merck & Co.]]
-- [[Bayer]]
-- [[Sanofi]]
-- [[Amcor]]
+- [[Baxter International]]
+- [[Medtronic]]
+- [[Stryker]]
+- [[Boehringer Ingelheim]]
+- [[Teva Pharmaceutical]]
 
 ### 下游客户
 - [[UnitedHealth Group]]
-- [[CVS Health]]
+- [[Kaiser Permanente]]
+- [[United States Department of Defense]]
+- [[National Health Service (UK)]]
 - [[Walgreens Boots Alliance]]
-- [[Walmart]]
-- [[U.S. Department of Health and Human Services]]
 
 ### 竞争对手
 - [[Pfizer]]
 - [[Merck & Co.]]
 - [[AbbVie]]
 - [[Bristol-Myers Squibb]]
-- [[Amgen]]
+- [[Novartis]]
 
 ### 核心产品
 - [[Tylenol]]
 - [[Band-Aid]]
 - [[Neutrogena]]
 - [[Remicade]]
-- [[Xarelto]]
+- [[Zolgensma]]
 
 ## 数据来源
 
 - [Johnson & Johnson](https://en.wikipedia.org/wiki/Johnson_&_Johnson)
+- [Johnson & Johnson suppliers manufacturers](https://en.wikipedia.org/wiki/Johnson_&_Johnson)
 - [Johnson & Johnson suppliers manufacturers](https://www.jnj.com/suppliers)
-- [Johnson & Johnson suppliers manufacturers](https://www.go4worldbusiness.com/find?searchText=johnson-and-johnson&FindSuppliers=)
-- [Johnson & Johnson major customers clients](https://www.marketbeat.com/stocks/NYSE/JNJ/institutional-ownership/)
-- [Johnson & Johnson major customers clients](https://www.drugwatch.com/manufacturers/johnson-and-johnson/)
+- [Johnson & Johnson major customers clients](https://csimarket.com/stocks/JNJ-Customers)
+- [Johnson & Johnson major customers clients](https://pestel-analysis.com/blogs/target-market/jnj)
 
 ## 元数据
 
-- **更新日期**: 2026-07-07
+- **更新日期**: 2026-07-08

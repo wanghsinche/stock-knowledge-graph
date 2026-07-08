@@ -3,8 +3,8 @@ ticker: STX
 company: Seagate Technology Holdings plc
 sector: Technology
 industry: Computer Hardware
-extracted_at: 2026-07-07 17:57:40
-last_updated: 2026-07-07
+extracted_at: 2026-07-08 17:26:46
+last_updated: 2026-07-08
 ---
 
 # STX - Seagate Technology Holdings plc
@@ -12,7 +12,7 @@ last_updated: 2026-07-07
 ## 基本信息
 
 - **所属行业**: Technology / Computer Hardware
-- **提取时间**: 2026-07-07 17:57:40
+- **提取时间**: 2026-07-08 17:26:46
 
 ## 产业链关系
 
@@ -20,8 +20,8 @@ last_updated: 2026-07-07
 - [[005930.KS]]
 - [[MU]]
 - [[SK Hynix]]
-- [[TDK Corporation]]
-- [[LG Electronics]]
+- [[Toshiba]]
+- [[SONY]]
 
 ### 下游客户
 - [[DELL]]
@@ -32,26 +32,26 @@ last_updated: 2026-07-07
 
 ### 竞争对手
 - [[WDC]]
-- [[Toshiba Corporation]]
+- [[Toshiba]]
 - [[005930.KS]]
 - [[IBM]]
-- [[Hitachi Global Storage Technologies]]
+- [[MU]]
 
 ### 核心产品
-- [[Hard Disk Drives]]
-- [[Solid State Drives]]
+- [[Hard Disk Drives (HDD)]]
+- [[Solid State Drives (SSD)]]
 - [[Enterprise Storage Solutions]]
-- [[Cloud Storage Infrastructure]]
+- [[Cloud Storage Systems]]
 - [[Data Center Storage]]
 
 ## 数据来源
 
 - 
-- [Seagate Technology Holdings plc suppliers manufacturers](http://www.seagate.com/)
-- [Seagate Technology Holdings plc suppliers manufacturers](https://optioncharts.io/options/STX/expected-move)
-- [Seagate Technology Holdings plc major customers clients](http://www.seagate.com/)
-- [Seagate Technology Holdings plc major customers clients](https://www.insidermonkey.com/blog/morgan-stanley-calls-seagate-technology-holdings-stx-a-top-pick-1756185/)
+- [Seagate Technology Holdings plc suppliers manufacturers](https://en.wikipedia.org/wiki/Seagate_Technology)
+- [Seagate Technology Holdings plc suppliers manufacturers](https://csimarket.com/stocks/STX-Suppliers)
+- [Seagate Technology Holdings plc major customers clients](https://en.wikipedia.org/wiki/Seagate_Technology)
+- [Seagate Technology Holdings plc major customers clients](https://csimarket.com/stocks/STX-Customers)
 
 ## 元数据
 
-- **更新日期**: 2026-07-07
+- **更新日期**: 2026-07-08

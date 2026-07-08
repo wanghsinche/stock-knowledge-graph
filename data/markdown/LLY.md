@@ -3,8 +3,8 @@ ticker: LLY
 company: Eli Lilly and Company
 sector: Healthcare
 industry: Drug Manufacturers - General
-extracted_at: 2026-07-07 17:58:12
-last_updated: 2026-07-07
+extracted_at: 2026-07-08 17:27:52
+last_updated: 2026-07-08
 ---
 
 # LLY - Eli Lilly and Company
@@ -12,46 +12,46 @@ last_updated: 2026-07-07
 ## 基本信息
 
 - **所属行业**: Healthcare / Drug Manufacturers - General
-- **提取时间**: 2026-07-07 17:58:12
+- **提取时间**: 2026-07-08 17:27:52
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Lonza]]
-- [[Thermo Fisher Scientific]]
-- [[Merck KGaA]]
 - [[BASF]]
-- [[Bayer AG]]
+- [[Dow Chemical]]
+- [[DuPont]]
+- [[Ciba]]
+- [[Merck KGaA]]
 
 ### 下游客户
-- [[UnitedHealth Group]]
-- [[Kaiser Permanente]]
-- [[Mayo Clinic]]
-- [[CVS Health]]
-- [[Walgreens]]
+- [[United States Department of Veterans Affairs]]
+- [[National Institutes of Health]]
+- [[Hospitals]]
+- [[Pharmacies]]
+- [[Health Systems]]
 
 ### 竞争对手
 - [[Pfizer]]
 - [[Johnson & Johnson]]
 - [[Novartis]]
 - [[Merck & Co.]]
-- [[Bristol Myers Squibb]]
+- [[GlaxoSmithKline]]
 
 ### 核心产品
-- [[Humira (adalimumab)]]
-- [[Trulicity (dulaglutide)]]
-- [[Mounjaro (tirzepatide)]]
-- [[Jardiance (empagliflozin)]]
-- [[Cytokine therapies]]
+- [[Humalog]]
+- [[Humulin]]
+- [[Trulicity]]
+- [[Cyramza]]
+- [[Cimzia]]
 
 ## 数据来源
 
 - [Eli Lilly and Company](https://en.wikipedia.org/wiki/Eli_Lilly_and_Company)
-- [Eli Lilly and Company suppliers manufacturers](https://en.wikipedia.org/wiki/Eli_Lilly_and_Company)
-- [Eli Lilly and Company suppliers manufacturers](https://www.lilly.com/)
+- [Eli Lilly and Company suppliers manufacturers](https://www.lilly.com/suppliers)
+- [Eli Lilly and Company suppliers manufacturers](https://www.lilly.com/suppliers/resources)
 - [Eli Lilly and Company major customers clients](https://en.wikipedia.org/wiki/Eli_Lilly_and_Company)
-- [Eli Lilly and Company major customers clients](https://www.linkedin.com/company/eli-lilly-and-company)
+- [Eli Lilly and Company major customers clients](https://csimarket.com/stocks/LLY-Customers)
 
 ## 元数据
 
-- **更新日期**: 2026-07-07
+- **更新日期**: 2026-07-08

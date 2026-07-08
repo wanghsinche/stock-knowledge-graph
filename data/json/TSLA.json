@@ -4,25 +4,25 @@
   "sector": "Consumer Cyclical",
   "industry": "Auto Manufacturers",
   "upstream": [
-    "CAT",
-    "LG Energy Solution",
     "Panasonic",
+    "LG Chem",
+    "CAT",
     "005930.KS",
-    "BYD"
+    "TSLA"
   ],
   "downstream": [
-    "Residential customers",
-    "Commercial fleet operators",
-    "Utility companies",
-    "Government agencies",
-    "Individual consumers"
+    "Individual consumers (private car buyers)",
+    "Fleet operators (e.g., Uber, Lyft)",
+    "Commercial delivery fleets",
+    "Utility companies (grid‑scale storage)",
+    "Government agencies (public vehicle fleets)"
   ],
   "competitors": [
-    "Ford",
     "General Motors",
+    "Ford",
     "Volkswagen",
     "Hyundai",
-    "Toyota"
+    "Lucid Motors"
   ],
   "key_products": [
     "Model S",
@@ -31,7 +31,7 @@
     "Model Y",
     "Powerwall"
   ],
-  "extracted_at": "2026-07-07 17:52:31",
+  "extracted_at": "2026-07-08 17:19:51",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,25 +43,25 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Tesla,_Inc.",
       "query": "Tesla, Inc. suppliers manufacturers",
-      "snippet": "Tesla purchases these batteries from three suppliers , CATL, LG Energy Solution, and Panasonic, the latter of which has co-located some of its battery"
+      "snippet": "2 days ago - The practice of vertical integration ... to suppliers and focus on engine manufacturing and final assembly. Tesla generally allows its co"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/suppliers_glance.php?code=TSLA",
+      "url": "https://en.wikipedia.org/wiki/List_of_Tesla_factories",
       "query": "Tesla, Inc. suppliers manufacturers",
-      "snippet": "Tesla Inc 's Suppliers Performance. TSLA's Supply Chain. Tesla relies on a wide range of suppliers beyond just battery manufacturers to build our elec"
+      "snippet": "May 19, 2026 - Tesla , Inc . manufactures their products worldwide as well as a lithium ore refinery."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Tesla,_Inc.",
+      "url": "https://csimarket.com/stocks/TSLA-Customers",
       "query": "Tesla, Inc. major customers clients",
-      "snippet": "Tesla subsidiary Tesla Energy develops, builds, sells, and installs solar energy generation systems and battery energy storage products (as well as re"
+      "snippet": "Tesla Inc customers and markets, results by customer and performance relative to TSLA, by company and industry - CSIMarket"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.tesla.com/",
+      "url": "https://www.gloomba.com/en/who-is-tesla-main-customer/",
       "query": "Tesla, Inc. major customers clients",
-      "snippet": "Explore limited-time offers on Tesla vehicles. Learn More. Tesla vehicle. Inventory. Find nearby vehicles available for immediate delivery."
+      "snippet": "6 days ago · The expansion of affordable models and increasing global market penetration are key factors in Tesla 's journey toward a more diverse cus"
     }
   ]
 }
