@@ -1,37 +1,37 @@
 {
   "ticker": "SNDK",
-  "company_name": "Sandisk Corporation",
-  "sector": "Technology",
-  "industry": "Computer Hardware",
+  "company_name": "SanDisk Corporation",
+  "sector": "Technology / Computer Hardware",
+  "industry": "Computer Storage Devices",
   "upstream": [
-    "MU",
-    "005930.KS",
-    "SK Hynix",
-    "Nanya Technology",
-    "Kingmax Technology"
+    "ASML",
+    "AMAT",
+    "Tokyo Electron (semiconductor equipment)",
+    "Shin-Etsu (silicon wafer supplier)",
+    "Dow Chemical (chemical materials)"
   ],
   "downstream": [
     "AAPL",
     "MSFT",
-    "GOOGL",
-    "AMZN",
-    "DELL"
+    "005930.KS",
+    "SONY",
+    "GOOGL"
   ],
   "competitors": [
-    "005930.KS",
     "MU",
+    "005930.KS",
+    "SK Hynix",
     "WDC",
-    "Kingston Technology",
-    "Lexar"
+    "Kingston Technology"
   ],
   "key_products": [
     "SanDisk SD Cards",
+    "SanDisk microSD Cards",
     "SanDisk USB Flash Drives",
     "SanDisk SSDs",
-    "SanDisk Memory Stick",
-    "SanDisk Memory Cards"
+    "SanDisk External Hard Drives"
   ],
-  "extracted_at": "2026-07-08 17:19:21",
+  "extracted_at": "2026-07-09 17:48:24",
   "sources": [
     {
       "source": "Wikipedia",
@@ -59,9 +59,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.appsruntheworld.com/customers-database/vendors/view/sandisk",
+      "url": "https://csimarket.com/stocks/SNDK-Customers",
       "query": "Sandisk Corporation major customers clients",
-      "snippet": "List of companies using or evaluating SanDisk applications, with details on their revenues, employees, industries, and locations."
+      "snippet": "Sandisk customers and markets, results by customer and performance relative to SNDK, by company and industry - CSIMarket"
     }
   ]
 }

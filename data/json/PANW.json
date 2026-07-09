@@ -1,37 +1,37 @@
 {
   "ticker": "PANW",
   "company_name": "Palo Alto Networks, Inc.",
-  "sector": "Technology / Software - Infrastructure",
-  "industry": "Cybersecurity",
+  "sector": "Technology",
+  "industry": "Software - Infrastructure",
   "upstream": [
-    "CSCO",
-    "JNPR",
-    "HPQ",
-    "DELL",
-    "IBM"
+    "INTC",
+    "NVDA",
+    "AMZN",
+    "MSFT",
+    "GOOGL"
   ],
   "downstream": [
     "Wipro",
     "Tyson Foods",
-    "GOOGL",
-    "MSFT",
-    "AMZN"
+    "Bank of America",
+    "General Electric",
+    "Fortune 100 companies"
   ],
   "competitors": [
     "CSCO",
     "Fortinet",
     "Check Point Software Technologies",
-    "CrowdStrike",
-    "McAfee"
+    "JNPR",
+    "Sophos"
   ],
   "key_products": [
-    "Next‑Generation Firewall",
-    "Cloud Security (Prisma Cloud)",
-    "Threat Intelligence (Unit 42)",
-    "Endpoint Protection (Cortex XDR)",
-    "Security Automation (Cortex XSOAR)"
+    "Next-Generation Firewall",
+    "Panorama",
+    "Cortex XDR",
+    "WildFire",
+    "Prisma Cloud"
   ],
-  "extracted_at": "2026-07-08 17:27:00",
+  "extracted_at": "2026-07-09 17:59:51",
   "sources": [
     {
       "source": "Wikipedia",

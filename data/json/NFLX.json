@@ -1,37 +1,37 @@
 {
   "ticker": "NFLX",
   "company_name": "Netflix, Inc.",
-  "sector": "Communication Services / Entertainment",
-  "industry": "Streaming Media",
+  "sector": "Communication Services",
+  "industry": "Entertainment",
   "upstream": [
     "Content production studios (e.g., Warner Bros., Disney, HBO)",
-    "SONY",
-    "MSFT",
-    "Digital rights management vendors",
-    "Advertising technology providers"
+    "Independent film and TV production companies",
+    "Music and soundtrack licensing partners",
+    "Technology hardware suppliers (streaming devices, smart TVs)",
+    "GOOGL"
   ],
   "downstream": [
-    "Global subscribers",
-    "Roku",
-    "AMZN",
-    "AAPL",
-    "GOOGL"
+    "Individual subscribers worldwide",
+    "Corporate and institutional streaming bundles",
+    "Advertising partners for ad‑supported tiers",
+    "CAT",
+    "International distribution partners"
   ],
   "competitors": [
     "Disney+",
-    "HBO Max",
     "AMZN",
     "Hulu",
+    "HBO Max",
     "AAPL"
   ],
   "key_products": [
-    "Netflix streaming service",
-    "Original content library (e.g., Stranger Things, The Crown)",
-    "Licensed content library",
-    "Mobile app",
-    "Smart TV app"
+    "Netflix streaming service (SVOD)",
+    "Original series and films (e.g., Stranger Things, The Crown)",
+    "Documentaries and docuseries",
+    "Kids and family content",
+    "Interactive content (e.g., Black Mirror: Bandersnatch)"
   ],
-  "extracted_at": "2026-07-08 17:31:35",
+  "extracted_at": "2026-07-09 18:02:49",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,7 +43,7 @@
       "source": "DuckDuckGo",
       "url": "https://csimarket.com/stocks/NFLX-Suppliers",
       "query": "Netflix, Inc. suppliers manufacturers",
-      "snippet": "1 day ago · Netflix Inc 's Suppliers recorded an increase in sales by 10.66 % year on year in Q1 2026, from the previous quarter, sales fell by -7.92 "
+      "snippet": "2 days ago · Netflix Inc 's Suppliers recorded an increase in sales by 10.66 % year on year in Q1 2026, from the previous quarter, sales fell by -7.92"
     },
     {
       "source": "DuckDuckGo",

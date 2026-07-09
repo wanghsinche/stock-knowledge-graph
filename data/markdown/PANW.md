@@ -1,48 +1,48 @@
 ---
 ticker: PANW
 company: Palo Alto Networks, Inc.
-sector: Technology / Software - Infrastructure
-industry: Cybersecurity
-extracted_at: 2026-07-08 17:27:00
-last_updated: 2026-07-08
+sector: Technology
+industry: Software - Infrastructure
+extracted_at: 2026-07-09 17:59:51
+last_updated: 2026-07-09
 ---
 
 # PANW - Palo Alto Networks, Inc.
 
 ## 基本信息
 
-- **所属行业**: Technology / Software - Infrastructure / Cybersecurity
-- **提取时间**: 2026-07-08 17:27:00
+- **所属行业**: Technology / Software - Infrastructure
+- **提取时间**: 2026-07-09 17:59:51
 
 ## 产业链关系
 
 ### 上游供应商
-- [[CSCO]]
-- [[JNPR]]
-- [[HPQ]]
-- [[DELL]]
-- [[IBM]]
+- [[INTC]]
+- [[NVDA]]
+- [[AMZN]]
+- [[MSFT]]
+- [[GOOGL]]
 
 ### 下游客户
 - [[Wipro]]
 - [[Tyson Foods]]
-- [[GOOGL]]
-- [[MSFT]]
-- [[AMZN]]
+- [[Bank of America]]
+- [[General Electric]]
+- [[Fortune 100 companies]]
 
 ### 竞争对手
 - [[CSCO]]
 - [[Fortinet]]
 - [[Check Point Software Technologies]]
-- [[CrowdStrike]]
-- [[McAfee]]
+- [[JNPR]]
+- [[Sophos]]
 
 ### 核心产品
-- [[Next‑Generation Firewall]]
-- [[Cloud Security (Prisma Cloud)]]
-- [[Threat Intelligence (Unit 42)]]
-- [[Endpoint Protection (Cortex XDR)]]
-- [[Security Automation (Cortex XSOAR)]]
+- [[Next-Generation Firewall]]
+- [[Panorama]]
+- [[Cortex XDR]]
+- [[WildFire]]
+- [[Prisma Cloud]]
 
 ## 数据来源
 
@@ -54,4 +54,4 @@ last_updated: 2026-07-08
 
 ## 元数据
 
-- **更新日期**: 2026-07-08
+- **更新日期**: 2026-07-09

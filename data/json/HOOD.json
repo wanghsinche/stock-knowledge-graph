@@ -4,34 +4,34 @@
   "sector": "Financial Services",
   "industry": "Capital Markets",
   "upstream": [
-    "AMZN",
-    "MSFT",
-    "GOOGL",
-    "Bloomberg",
-    "Stripe"
+    "Cloud service providers (AWS, Azure)",
+    "Market data vendors (Bloomberg, Refinitiv)",
+    "Payment processors (Plaid, Stripe)",
+    "Regulatory technology firms",
+    "Cybersecurity vendors"
   ],
   "downstream": [
     "Retail investors",
-    "Institutional investors",
-    "High‑frequency traders",
-    "Crypto traders",
-    "Financial advisors"
+    "Day traders",
+    "Institutional clients",
+    "High-frequency traders",
+    "Crypto traders"
   ],
   "competitors": [
     "E*TRADE",
+    "TD Ameritrade",
     "Charles Schwab",
     "Fidelity",
-    "TD Ameritrade",
     "Webull"
   ],
   "key_products": [
     "Commission‑free stock trading",
     "Options trading",
     "Cryptocurrency trading",
-    "Margin trading (Robinhood Gold)",
-    "Cash management & interest‑earning accounts"
+    "Margin trading",
+    "Robinhood Gold subscription"
   ],
-  "extracted_at": "2026-07-08 17:32:13",
+  "extracted_at": "2026-07-09 18:00:17",
   "sources": [
     {
       "source": "Wikipedia",
@@ -53,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Robinhood_Markets",
-      "query": "Robinhood Markets, Inc. major customers clients",
-      "snippet": "Robinhood Markets , Inc . is an American financial services company based in Menlo Park, California. It provides an electronic trading platform that f"
-    },
-    {
-      "source": "DuckDuckGo",
       "url": "https://csimarket.com/stocks/HOOD-Customers",
       "query": "Robinhood Markets, Inc. major customers clients",
       "snippet": "Robinhood Markets Inc 's Customers have recorded an advance in their cost of revenue by 2.17 % in the 1 quarter 2026 year on year, sequentially costs "
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://investingintheweb.com/brokers/robinhood-statistics/",
+      "query": "Robinhood Markets, Inc. major customers clients",
+      "snippet": "Jun 23, 2026 · Robinhood revenues Robinhood generates revenues through transaction-based revenues, net interest revenues, and other revenues. Transact"
     }
   ]
 }

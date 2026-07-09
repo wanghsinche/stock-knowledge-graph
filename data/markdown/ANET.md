@@ -3,8 +3,8 @@ ticker: ANET
 company: Arista Networks, Inc.
 sector: Technology
 industry: Computer Hardware
-extracted_at: 2026-07-08 17:34:19
-last_updated: 2026-07-08
+extracted_at: 2026-07-09 18:04:25
+last_updated: 2026-07-09
 ---
 
 # ANET - Arista Networks, Inc.
@@ -12,7 +12,7 @@ last_updated: 2026-07-08
 ## 基本信息
 
 - **所属行业**: Technology / Computer Hardware
-- **提取时间**: 2026-07-08 17:34:19
+- **提取时间**: 2026-07-09 18:04:25
 
 ## 产业链关系
 
@@ -21,7 +21,7 @@ last_updated: 2026-07-08
 - [[INTC]]
 - [[QCOM]]
 - [[MRVL]]
-- [[TXN]]
+- [[TSM]]
 
 ### 下游客户
 - [[AMZN]]
@@ -35,14 +35,14 @@ last_updated: 2026-07-08
 - [[JNPR]]
 - [[HPQ]]
 - [[Huawei]]
-- [[DELL]]
+- [[Extreme Networks]]
 
 ### 核心产品
-- [[7500R Series Switches]]
-- [[7280R Series Switches]]
-- [[7050X Series Switches]]
-- [[7280SR Series Switches]]
-- [[CloudVision SDN Platform]]
+- [[Arista 7280 series switches]]
+- [[Arista 7500 series switches]]
+- [[Arista 7800 series switches]]
+- [[CloudVision]]
+- [[EOS (Extensible Operating System)]]
 
 ## 数据来源
 
@@ -54,4 +54,4 @@ last_updated: 2026-07-08
 
 ## 元数据
 
-- **更新日期**: 2026-07-08
+- **更新日期**: 2026-07-09

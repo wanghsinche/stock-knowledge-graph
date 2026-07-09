@@ -4,34 +4,34 @@
   "sector": "Industrials",
   "industry": "Specialty Industrial Machinery",
   "upstream": [
-    "GE Power",
-    "GE Renewable Energy",
-    "Siemens Energy",
-    "ABB",
-    "Schneider Electric"
+    "Rockwell Automation",
+    "Siemens",
+    "Honeywell",
+    "Schneider Electric",
+    "Mitsubishi Electric"
   ],
   "downstream": [
-    "Shell",
-    "BP",
+    "General Motors",
+    "Boeing",
     "ExxonMobil",
-    "TotalEnergies",
-    "Chevron"
+    "Shell",
+    "Siemens Energy"
   ],
   "competitors": [
-    "Siemens Energy",
+    "Siemens",
+    "Rockwell Automation",
     "ABB",
-    "Schneider Electric",
-    "Mitsubishi Power",
-    "Honeywell"
+    "Honeywell",
+    "Schneider Electric"
   ],
   "key_products": [
-    "Gas turbines",
-    "Steam turbines",
-    "Generators",
-    "Power plant services",
-    "Renewable energy solutions"
+    "Industrial gas turbines",
+    "Power generation equipment",
+    "Industrial automation systems",
+    "Industrial motors",
+    "Industrial control software"
   ],
-  "extracted_at": "2026-07-08 17:29:50",
+  "extracted_at": "2026-07-09 18:06:47",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,15 +41,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/GE_Vernova",
-      "query": "GE Vernova Inc. suppliers manufacturers",
-      "snippet": "GE Vernova , Inc .[2] is an energy equipment manufacturing and services company headquartered in Cambridge, Massachusetts. [3] The company operates th"
-    },
-    {
-      "source": "DuckDuckGo",
       "url": "https://www.gevernova.com/grid-solutions/suppliers",
       "query": "GE Vernova Inc. suppliers manufacturers",
       "snippet": "At GE Vernova , we recognize that our suppliers are critical partners, and play a vital role in the creation of our world-class solutions. We're happy"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.gevernova.com/suppliers",
+      "query": "GE Vernova Inc. suppliers manufacturers",
+      "snippet": "SUPPLIER PORTAL Working With Us Welcome to the GE Vernova Supplier Portal. Partnering with us signifies your commitment to World Class Sourcing, a cor"
     },
     {
       "source": "DuckDuckGo",
@@ -61,7 +61,7 @@
       "source": "DuckDuckGo",
       "url": "https://csimarket.com/stocks/GEV-Customers",
       "query": "GE Vernova Inc. major customers clients",
-      "snippet": "2 days ago · Ge Vernova Inc customers and markets, results by customer and performance relative to GEV, by company and industry - CSIMarket"
+      "snippet": "3 days ago · Ge Vernova Inc customers and markets, results by customer and performance relative to GEV, by company and industry - CSIMarket"
     }
   ]
 }

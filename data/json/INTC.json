@@ -4,34 +4,34 @@
   "sector": "Technology",
   "industry": "Semiconductors",
   "upstream": [
+    "ASML",
     "TSM",
     "005930.KS",
-    "MU",
-    "SK Hynix",
-    "ASE Group"
+    "AMAT",
+    "LRCX"
   ],
   "downstream": [
-    "DELL",
-    "HPQ",
-    "Lenovo Group",
     "AAPL",
-    "MSFT"
+    "MSFT",
+    "DELL",
+    "AMZN",
+    "GOOGL"
   ],
   "competitors": [
     "AMD",
     "NVDA",
     "QCOM",
     "AVGO",
-    "005930.KS"
+    "TXN"
   ],
   "key_products": [
-    "Intel Core processors",
-    "Intel Xeon processors",
-    "Intel Iris Graphics",
-    "Intel Optane memory",
-    "Intel AI accelerators"
+    "Intel Core CPUs",
+    "Intel Xeon Processors",
+    "Intel FPGAs",
+    "Intel Network Processors",
+    "Intel AI Accelerators"
   ],
-  "extracted_at": "2026-07-08 17:20:30",
+  "extracted_at": "2026-07-09 17:50:40",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,15 +41,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/INTC-Suppliers",
+      "url": "https://en.wikipedia.org/wiki/List_of_Intel_manufacturing_sites",
       "query": "Intel Corporation suppliers manufacturers",
-      "snippet": "1 day ago · Intel's Suppliers recorded an increase in sales by 16.34 % year on year in Q1 2026, sequentially sales grew by 8.67 %, Intel recorded incr"
+      "snippet": "List of Intel manufacturing sites Intel is an American multinational corporation and technology company headquartered in Santa Clara, California. Proc"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.accio.com/supplier/intel-supplier",
+      "url": "https://csimarket.com/stocks/INTC-Suppliers",
       "query": "Intel Corporation suppliers manufacturers",
-      "snippet": "Jun 28, 2026 · Need reliable Intel suppliers ? Discover verified vendors offering Core i5, i7, i9 processors, motherboards and graphics cards. Click t"
+      "snippet": "2 days ago · Sources: Intel Corporation 's official press releases and regulatory filings; CSIMarket.com's supply-chain research; and the financial fi"
     },
     {
       "source": "DuckDuckGo",
@@ -61,7 +61,7 @@
       "source": "DuckDuckGo",
       "url": "https://csimarket.com/stocks/INTC-Customers",
       "query": "Intel Corporation major customers clients",
-      "snippet": "2 days ago · Intel customers and markets, results by customer and performance relative to INTC, by company and industry - CSIMarket"
+      "snippet": "3 days ago · Intel customers and markets, results by customer and performance relative to INTC, by company and industry - CSIMarket"
     }
   ]
 }

@@ -6,15 +6,15 @@
   "upstream": [
     "TSM",
     "005930.KS",
-    "GlobalFoundries",
-    "ASE Technology Holding",
-    "MU"
+    "MU",
+    "SK Hynix",
+    "ASE Technology Holding"
   ],
   "downstream": [
+    "SONY",
     "MSFT",
     "AMZN",
     "GOOGL",
-    "SONY",
     "TSLA"
   ],
   "competitors": [
@@ -27,11 +27,11 @@
   "key_products": [
     "GeForce RTX GPUs",
     "Quadro RTX GPUs",
-    "NVIDIA DGX AI systems",
-    "Jetson AI edge platform",
-    "CUDA software platform"
+    "Tesla V100 GPU",
+    "Jetson AI platform",
+    "NVIDIA DRIVE automotive platform"
   ],
-  "extracted_at": "2026-07-08 17:19:03",
+  "extracted_at": "2026-07-09 17:47:54",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,7 +43,7 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Nvidia",
       "query": "NVIDIA Corporation suppliers manufacturers",
-      "snippet": "3 days ago - In August 2025, Nvidia ordered suppliers to halt production of its H20 AI chip following Chinese government directives warning domestic c"
+      "snippet": "4 days ago - In August 2025, Nvidia ordered suppliers to halt production of its H20 AI chip following Chinese government directives warning domestic c"
     },
     {
       "source": "DuckDuckGo",

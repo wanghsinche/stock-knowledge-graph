@@ -4,34 +4,34 @@
   "sector": "Technology",
   "industry": "Software - Application",
   "upstream": [
+    "AMZN",
+    "MSFT",
+    "GOOGL",
+    "DELL",
+    "HPQ"
+  ],
+  "downstream": [
+    "CRM",
     "MSFT",
     "AMZN",
     "GOOGL",
-    "ORCL",
     "IBM"
-  ],
-  "downstream": [
-    "Walmart",
-    "JPMorgan Chase",
-    "AT&T",
-    "Verizon",
-    "Bank of America"
   ],
   "competitors": [
     "CRM",
-    "Workday",
-    "SAP",
+    "MSFT",
+    "SAP SuccessFactors",
     "ORCL",
-    "MSFT"
+    "Workday"
   ],
   "key_products": [
-    "Now Platform",
+    "ServiceNow Platform",
     "IT Service Management (ITSM)",
     "IT Operations Management (ITOM)",
-    "IT Business Management (ITBM)",
-    "Customer Service Management (CSM)"
+    "Customer Service Management (CSM)",
+    "HR Service Delivery"
   ],
-  "extracted_at": "2026-07-07 18:01:50",
+  "extracted_at": "2026-07-09 18:13:21",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.servicenow.com/",
+      "url": "https://www.servicenow.com/company/supplier.html",
       "query": "ServiceNow, Inc. suppliers manufacturers",
-      "snippet": "Supplier Lifecycle Operations. Streamline supplier onboarding, collaboration, and performance management. ServiceNow EmployeeWorks. Stop chasing what "
+      "snippet": "ServiceNow partners with capable and competitive suppliers who commit to diversity, sustainability, and best-in-class goods and services. Learn more h"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.g2.com/sellers/servicenow",
+      "url": "https://csimarket.com/stocks/NOW-Suppliers",
       "query": "ServiceNow, Inc. suppliers manufacturers",
-      "snippet": "Profile Name ServiceNow Integration Hub ServiceNow Manufacturing Connected Workforce"
+      "snippet": "Apr 24, 2026 · Servicenow Inc 's Suppliers recorded an increase in sales by 17.32 % year on year in Q1 2026, sequentially sales grew by 13.42 %, Servi"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.servicenow.com/",
+      "url": "https://www.aventionmedia.com/technology-installed-base/servicenow/",
       "query": "ServiceNow, Inc. major customers clients",
-      "snippet": "Customer Service Management. Empower self- service , boost agent productivity, and speed up resolution.AI Agent Stories. Learn how ServiceNow customer"
+      "snippet": "Discover Avention Media’s accurate and customizable ServiceNow customers list. Our verified ServiceNow data helps you target key decision-makers and c"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.aegissofttech.com/insights/elevating-service-with-servicenow/",
+      "url": "https://data.landbase.com/technology/servicenow/",
       "query": "ServiceNow, Inc. major customers clients",
-      "snippet": "In understanding the underlying foundations of client care, explore through its verifiable setting and follow the advancement of client assumptions. D"
+      "snippet": "Aug 17, 2025 · ServiceNow by ServiceNow, is a cloud-based platform designed for digital workflows. It’s commonly employed to automate and enhance vari"
     }
   ]
 }

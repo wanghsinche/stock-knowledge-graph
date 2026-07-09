@@ -3,8 +3,8 @@ ticker: KLAC
 company: KLA Corporation
 sector: Technology
 industry: Semiconductor Equipment & Materials
-extracted_at: 2026-07-08 17:28:19
-last_updated: 2026-07-08
+extracted_at: 2026-07-09 17:59:01
+last_updated: 2026-07-09
 ---
 
 # KLAC - KLA Corporation
@@ -12,16 +12,16 @@ last_updated: 2026-07-08
 ## 基本信息
 
 - **所属行业**: Technology / Semiconductor Equipment & Materials
-- **提取时间**: 2026-07-08 17:28:19
+- **提取时间**: 2026-07-09 17:59:01
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Silicon wafer suppliers (e.g., Sumitomo, Shin-Etsu)]]
-- [[Chemical and gas suppliers (e.g., Dow, DuPont)]]
-- [[Optical component manufacturers (e.g., Edmund Optics)]]
-- [[TXN]]
-- [[Precision mechanical component suppliers]]
+- [[Silicon wafer suppliers]]
+- [[Optical component manufacturers]]
+- [[Electronic component suppliers]]
+- [[Chemical and process gas providers]]
+- [[Precision machining and tooling vendors]]
 
 ### 下游客户
 - [[TSM]]
@@ -32,17 +32,17 @@ last_updated: 2026-07-08
 
 ### 竞争对手
 - [[AMAT]]
+- [[ASML]]
 - [[LRCX]]
 - [[Tokyo Electron]]
-- [[ASML]]
-- [[Matsushita Electric Industrial Co.]]
+- [[Advantest]]
 
 ### 核心产品
 - [[Wafer inspection systems]]
-- [[Defect inspection and metrology]]
-- [[Reticle inspection solutions]]
-- [[Process control and yield management systems]]
-- [[Integrated circuit (IC) yield management software]]
+- [[Metrology and process control equipment]]
+- [[Yield management software]]
+- [[Reticle inspection tools]]
+- [[Integrated circuit (IC) and packaging production solutions]]
 
 ## 数据来源
 
@@ -54,4 +54,4 @@ last_updated: 2026-07-08
 
 ## 元数据
 
-- **更新日期**: 2026-07-08
+- **更新日期**: 2026-07-09

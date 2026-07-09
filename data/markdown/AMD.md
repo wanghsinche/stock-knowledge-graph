@@ -3,8 +3,8 @@ ticker: AMD
 company: Advanced Micro Devices, Inc.
 sector: Technology
 industry: Semiconductors
-extracted_at: 2026-07-08 17:20:44
-last_updated: 2026-07-08
+extracted_at: 2026-07-09 17:48:49
+last_updated: 2026-07-09
 ---
 
 # AMD - Advanced Micro Devices, Inc.
@@ -12,7 +12,7 @@ last_updated: 2026-07-08
 ## 基本信息
 
 - **所属行业**: Technology / Semiconductors
-- **提取时间**: 2026-07-08 17:20:44
+- **提取时间**: 2026-07-09 17:48:49
 
 ## 产业链关系
 
@@ -21,12 +21,12 @@ last_updated: 2026-07-08
 - [[005930.KS]]
 - [[GlobalFoundries]]
 - [[UMC]]
-- [[ASE Technology Holding]]
+- [[ASE]]
 
 ### 下游客户
 - [[DELL]]
 - [[HPQ]]
-- [[Lenovo Group]]
+- [[Lenovo]]
 - [[SONY]]
 - [[MSFT]]
 
@@ -35,14 +35,14 @@ last_updated: 2026-07-08
 - [[NVDA]]
 - [[QCOM]]
 - [[AVGO]]
-- [[ARM Holdings]]
+- [[005930.KS]]
 
 ### 核心产品
 - [[Ryzen CPUs]]
-- [[EPYC CPUs]]
+- [[EPYC Servers]]
 - [[Radeon GPUs]]
-- [[Xilinx FPGAs]]
-- [[APU SoCs]]
+- [[Radeon Instinct]]
+- [[Radeon Pro]]
 
 ## 数据来源
 
@@ -54,4 +54,4 @@ last_updated: 2026-07-08
 
 ## 元数据
 
-- **更新日期**: 2026-07-08
+- **更新日期**: 2026-07-09

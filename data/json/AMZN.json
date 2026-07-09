@@ -1,37 +1,37 @@
 {
   "ticker": "AMZN",
   "company_name": "Amazon.com, Inc.",
-  "sector": "Consumer Cyclical / Internet Retail",
-  "industry": "E-commerce, Cloud Computing, Digital Advertising, Streaming, AI",
+  "sector": "Consumer Cyclical",
+  "industry": "Internet Retail",
   "upstream": [
-    "AAPL",
-    "Apparel suppliers (e.g., Nike, Adidas)",
-    "Home goods suppliers (e.g., IKEA)",
-    "Book publishers (e.g., Penguin Random House)",
-    "Private‑label product suppliers"
+    "Book publishers",
+    "Consumer electronics manufacturers",
+    "Fashion and apparel brands",
+    "AMZN",
+    "Third‑party product manufacturers"
   ],
   "downstream": [
-    "Individual retail customers worldwide",
-    "NFLX",
-    "GOOGL",
+    "Retail consumers",
     "AMZN",
-    "AMZN"
+    "Prime members",
+    "Advertising clients",
+    "Third‑party sellers"
   ],
   "competitors": [
     "Walmart",
-    "eBay",
     "Alibaba",
+    "eBay",
     "Shopify",
-    "Target"
+    "MSFT"
   ],
   "key_products": [
     "Amazon.com e‑commerce platform",
-    "Amazon Prime subscription",
-    "Amazon Web Services (AWS)",
-    "Amazon Echo (Alexa)",
-    "Amazon Kindle"
+    "Amazon Web Services (cloud computing)",
+    "Amazon Prime Video",
+    "Amazon Echo/Alexa devices",
+    "Amazon Kindle e‑readers"
   ],
-  "extracted_at": "2026-07-08 17:22:12",
+  "extracted_at": "2026-07-09 17:52:32",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,15 +47,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.accio.com/supplier/amazon-suppliers-list",
+      "url": "https://d39w7f4ix9f5s9.cloudfront.net/cb/19/77dfc5b441c892cd6e2be166ba70/final-amazon-supplier-list-2019-11-14-updated-1005am.pdf",
       "query": "Amazon.com, Inc. suppliers manufacturers",
-      "snippet": "2 days ago · Looking for reliable Amazon suppliers ? Explore our curated list of verified manufacturers across electronics, apparel, and supplements. "
+      "snippet": "Nov 14, 2019 · Amazon Supplier List Amazon is strongly committed to conducting its business in a lawful and ethical manner, including engaging with su"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Amazon_(company)",
       "query": "Amazon.com, Inc. major customers clients",
-      "snippet": "Amazon (company) - Wikipedia"
+      "snippet": "Amazon.com, Inc .[1] (doing business as Amazon) [a] is an American multinational technology company engaged in e-commerce, cloud computing, online adv"
     },
     {
       "source": "DuckDuckGo",

@@ -2,36 +2,36 @@
   "ticker": "ORCL",
   "company_name": "Oracle Corporation",
   "sector": "Technology",
-  "industry": "Software – Infrastructure",
+  "industry": "Software - Infrastructure",
   "upstream": [
     "INTC",
     "AMD",
     "NVDA",
-    "DELL",
-    "Hewlett‑Packard Enterprise"
+    "CSCO",
+    "DELL"
   ],
   "downstream": [
-    "AMZN",
-    "MSFT",
-    "GOOGL",
-    "Government agencies (e.g., U.S. Department of Defense)",
-    "Financial services firms (e.g., JPMorgan Chase)"
+    "JPMorgan Chase",
+    "Bank of America",
+    "AT&T",
+    "Walmart",
+    "Verizon"
   ],
   "competitors": [
     "MSFT",
-    "SAP",
-    "IBM",
     "AMZN",
+    "IBM",
+    "SAP",
     "GOOGL"
   ],
   "key_products": [
     "Oracle Database",
     "Oracle Cloud Infrastructure (OCI)",
     "Oracle Autonomous Database",
-    "Oracle ERP Cloud",
+    "Oracle Fusion Applications",
     "Oracle Analytics Cloud"
   ],
-  "extracted_at": "2026-07-08 17:25:51",
+  "extracted_at": "2026-07-09 17:53:12",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,21 +41,21 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/ORCL-Suppliers",
-      "query": "Oracle Corporation suppliers manufacturers",
-      "snippet": "2 days ago · To produce our hardware products, we rely on both our internal manufacturing operations as well as third party manufacturing partners. Ou"
-    },
-    {
-      "source": "DuckDuckGo",
       "url": "https://www.oracle.com/corporate/suppliers/",
       "query": "Oracle Corporation suppliers manufacturers",
       "snippet": "Doing Business with Oracle Oracle iSupplier Portal (iSP) is a secured self-service tool, which provides Oracle 's suppliers with the ability to use a "
     },
     {
       "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/ORCL-Suppliers",
+      "query": "Oracle Corporation suppliers manufacturers",
+      "snippet": "3 days ago · Sources: Oracle Corporation 's official press releases and regulatory filings; CSIMarket.com's supply-chain research; and the financial f"
+    },
+    {
+      "source": "DuckDuckGo",
       "url": "https://csimarket.com/stocks/ORCL-Customers",
       "query": "Oracle Corporation major customers clients",
-      "snippet": "Jun 24, 2026 · By offering our partners access to our product offerings, educational information, technical services, marketing and sales support, the"
+      "snippet": "1 day ago · By offering our partners access to our product offerings, educational information, technical services, marketing and sales support, the Or"
     },
     {
       "source": "DuckDuckGo",

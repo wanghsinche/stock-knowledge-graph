@@ -8,30 +8,30 @@
     "005930.KS",
     "INTC",
     "MU",
-    "ASML"
+    "TXN"
   ],
   "downstream": [
     "CSCO",
-    "JNPR",
     "DELL",
     "AMZN",
-    "MSFT"
+    "MSFT",
+    "AAPL"
   ],
   "competitors": [
     "QCOM",
     "INTC",
     "NVDA",
-    "MRVL",
+    "MediaTek",
     "TXN"
   ],
   "key_products": [
-    "Ethernet and networking chips",
-    "Broadband and Wi‑Fi modules",
-    "Wireless modem and Bluetooth chips",
-    "Data‑center storage controllers",
+    "Wi‑Fi and Bluetooth chips",
+    "Ethernet and network processors",
+    "Broadband modems and RF components",
+    "Storage controllers",
     "Infrastructure software solutions"
   ],
-  "extracted_at": "2026-07-08 17:20:05",
+  "extracted_at": "2026-07-09 17:51:02",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Broadcom_Corporation",
-      "query": "Broadcom Inc. suppliers manufacturers",
-      "snippet": "3 weeks ago - Many Broadcom employees have gone on to take key positions in successful tech enterprises and starts ups, including: Bagher Afshar, who "
-    },
-    {
-      "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Broadcom",
       "query": "Broadcom Inc. suppliers manufacturers",
-      "snippet": "1 week ago - Broadcom Inc . is an American multinational designer, developer, manufacturer , and global supplier of a wide range of semiconductor and "
+      "snippet": "Broadcom Inc . is an American multinational designer, developer, manufacturer , and global supplier of a wide range of semiconductor and infrastructur"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://news.broadcom.com/category/customers",
-      "query": "Broadcom Inc. major customers clients",
-      "snippet": "May 19, 2026 · USSFCU: Powering Financial Wellness with Broadcom ’s Private Cloud and Private AI Broadcom Customer Achievement Awards recognize and ce"
+      "url": "https://csimarket.com/stocks/AVGO-Suppliers",
+      "query": "Broadcom Inc. suppliers manufacturers",
+      "snippet": "2 days ago · Broadcom Inc 's Suppliers recorded an increase in sales by 27.35 % year on year in Q1 2026, sequentially sales grew by 10.79 %, Broadcom "
     },
     {
       "source": "DuckDuckGo",
       "url": "https://csimarket.com/stocks/AVGO-Customers",
       "query": "Broadcom Inc. major customers clients",
       "snippet": "Broadcom Inc 's Comment on Sales, Marketing and Customers We sell our products to leading wired and wireless communications manufacturers. We have als"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://news.broadcom.com/category/customers",
+      "query": "Broadcom Inc. major customers clients",
+      "snippet": "May 19, 2026 · USSFCU: Powering Financial Wellness with Broadcom ’s Private Cloud and Private AI Broadcom Customer Achievement Awards recognize and ce"
     }
   ]
 }

@@ -4,34 +4,34 @@
   "sector": "Financial Services",
   "industry": "Credit Services",
   "upstream": [
-    "Chip and card manufacturers (e.g., Gemalto, IDTech)",
+    "Chip manufacturers (e.g., NXP Semiconductors)",
+    "Card production facilities (e.g., Gemalto)",
     "Payment network infrastructure providers",
-    "Software vendors for transaction processing",
-    "Security and fraud detection service providers",
-    "Data center and cloud service providers"
+    "ORCL",
+    "Data center service providers"
   ],
   "downstream": [
-    "Commercial banks and credit unions",
-    "Retail merchants and e-commerce platforms",
-    "Travel and hospitality companies",
-    "Government agencies",
-    "Consumers using Visa-branded cards"
+    "Commercial banks",
+    "Retail merchants",
+    "Online merchants",
+    "Corporate clients",
+    "Consumers"
   ],
   "competitors": [
     "Mastercard",
     "American Express",
-    "Discover Financial Services",
+    "Discover",
     "PayPal",
     "Square"
   ],
   "key_products": [
-    "Visa payment network (VisaNet)",
-    "Visa-branded credit, debit, and prepaid cards",
-    "Merchant acquiring services",
-    "Fraud and risk management solutions",
-    "Digital payment solutions (e.g., Visa Checkout)"
+    "Visa credit cards",
+    "Visa debit cards",
+    "Visa prepaid cards",
+    "VisaNet payment network",
+    "Visa Direct real-time payments"
   ],
-  "extracted_at": "2026-07-08 17:36:09",
+  "extracted_at": "2026-07-09 18:09:32",
   "sources": [
     {
       "source": "Wikipedia",
@@ -59,9 +59,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://data.landbase.com/technology/visa/",
+      "url": "https://portersfiveforce.com/blogs/target-market/visa",
       "query": "Visa Inc. major customers clients",
-      "snippet": "Aug 17, 2025 · We have data on 149,403 companies that use Visa. Our Visa customers list is available for download and comes enriched with vital compan"
+      "snippet": "Jan 13, 2026 · Visa's customer needs and preferences are distinctly segmented between B2B financial institution clients and end-consumers. Financial p"
     }
   ]
 }

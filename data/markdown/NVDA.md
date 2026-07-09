@@ -3,8 +3,8 @@ ticker: NVDA
 company: NVIDIA Corporation
 sector: Technology
 industry: Semiconductors
-extracted_at: 2026-07-08 17:19:03
-last_updated: 2026-07-08
+extracted_at: 2026-07-09 17:47:54
+last_updated: 2026-07-09
 ---
 
 # NVDA - NVIDIA Corporation
@@ -12,22 +12,22 @@ last_updated: 2026-07-08
 ## 基本信息
 
 - **所属行业**: Technology / Semiconductors
-- **提取时间**: 2026-07-08 17:19:03
+- **提取时间**: 2026-07-09 17:47:54
 
 ## 产业链关系
 
 ### 上游供应商
 - [[TSM]]
 - [[005930.KS]]
-- [[GlobalFoundries]]
-- [[ASE Technology Holding]]
 - [[MU]]
+- [[SK Hynix]]
+- [[ASE Technology Holding]]
 
 ### 下游客户
+- [[SONY]]
 - [[MSFT]]
 - [[AMZN]]
 - [[GOOGL]]
-- [[SONY]]
 - [[TSLA]]
 
 ### 竞争对手
@@ -40,9 +40,9 @@ last_updated: 2026-07-08
 ### 核心产品
 - [[GeForce RTX GPUs]]
 - [[Quadro RTX GPUs]]
-- [[NVIDIA DGX AI systems]]
-- [[Jetson AI edge platform]]
-- [[CUDA software platform]]
+- [[Tesla V100 GPU]]
+- [[Jetson AI platform]]
+- [[NVIDIA DRIVE automotive platform]]
 
 ## 数据来源
 
@@ -54,4 +54,4 @@ last_updated: 2026-07-08
 
 ## 元数据
 
-- **更新日期**: 2026-07-08
+- **更新日期**: 2026-07-09

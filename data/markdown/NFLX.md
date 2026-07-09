@@ -1,48 +1,48 @@
 ---
 ticker: NFLX
 company: Netflix, Inc.
-sector: Communication Services / Entertainment
-industry: Streaming Media
-extracted_at: 2026-07-08 17:31:35
-last_updated: 2026-07-08
+sector: Communication Services
+industry: Entertainment
+extracted_at: 2026-07-09 18:02:49
+last_updated: 2026-07-09
 ---
 
 # NFLX - Netflix, Inc.
 
 ## 基本信息
 
-- **所属行业**: Communication Services / Entertainment / Streaming Media
-- **提取时间**: 2026-07-08 17:31:35
+- **所属行业**: Communication Services / Entertainment
+- **提取时间**: 2026-07-09 18:02:49
 
 ## 产业链关系
 
 ### 上游供应商
 - [[Content production studios (e.g., Warner Bros., Disney, HBO)]]
-- [[SONY]]
-- [[MSFT]]
-- [[Digital rights management vendors]]
-- [[Advertising technology providers]]
+- [[Independent film and TV production companies]]
+- [[Music and soundtrack licensing partners]]
+- [[Technology hardware suppliers (streaming devices, smart TVs)]]
+- [[GOOGL]]
 
 ### 下游客户
-- [[Global subscribers]]
-- [[Roku]]
-- [[AMZN]]
-- [[AAPL]]
-- [[GOOGL]]
+- [[Individual subscribers worldwide]]
+- [[Corporate and institutional streaming bundles]]
+- [[Advertising partners for ad‑supported tiers]]
+- [[CAT]]
+- [[International distribution partners]]
 
 ### 竞争对手
 - [[Disney+]]
-- [[HBO Max]]
 - [[AMZN]]
 - [[Hulu]]
+- [[HBO Max]]
 - [[AAPL]]
 
 ### 核心产品
-- [[Netflix streaming service]]
-- [[Original content library (e.g., Stranger Things, The Crown)]]
-- [[Licensed content library]]
-- [[Mobile app]]
-- [[Smart TV app]]
+- [[Netflix streaming service (SVOD)]]
+- [[Original series and films (e.g., Stranger Things, The Crown)]]
+- [[Documentaries and docuseries]]
+- [[Kids and family content]]
+- [[Interactive content (e.g., Black Mirror: Bandersnatch)]]
 
 ## 数据来源
 
@@ -54,4 +54,4 @@ last_updated: 2026-07-08
 
 ## 元数据
 
-- **更新日期**: 2026-07-08
+- **更新日期**: 2026-07-09

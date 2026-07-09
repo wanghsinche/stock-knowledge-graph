@@ -1,37 +1,37 @@
 {
   "ticker": "WDC",
   "company_name": "Western Digital Corporation",
-  "sector": "Technology",
-  "industry": "Computer Hardware",
+  "sector": "Technology / Computer Hardware",
+  "industry": "Data Storage / Hard Disk Drives",
   "upstream": [
-    "005930.KS",
     "MU",
+    "005930.KS",
     "SK Hynix",
-    "TDK Corporation",
-    "Murata Manufacturing"
+    "Kioxia",
+    "STMicroelectronics"
   ],
   "downstream": [
-    "DELL",
-    "HPQ",
-    "Lenovo Group",
     "AAPL",
-    "AMZN"
+    "MSFT",
+    "AMZN",
+    "GOOGL",
+    "DELL"
   ],
   "competitors": [
     "STX",
-    "Toshiba Corporation",
+    "Toshiba",
     "005930.KS",
     "MU",
     "IBM"
   ],
   "key_products": [
-    "3.5\" HDDs",
-    "2.5\" HDDs",
-    "SSDs",
-    "External portable drives",
-    "NAS devices"
+    "WD Blue",
+    "WD Red",
+    "WD Black",
+    "WD My Passport",
+    "WD Gold"
   ],
-  "extracted_at": "2026-07-08 17:26:26",
+  "extracted_at": "2026-07-09 17:56:34",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,15 +41,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.westerndigital.com/company/distributors",
+      "url": "https://csimarket.com/stocks/WDC-Suppliers",
       "query": "Western Digital Corporation suppliers manufacturers",
-      "snippet": "Find Western Digital authorized Distributors & Resellers Find Distributors & Resellers Purchase from your preferred Western Digital authorized partner"
+      "snippet": "3 days ago · Sources: Western Digital Corporation 's official press releases and regulatory filings; CSIMarket.com's supply-chain research; and the fi"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/WDC-Suppliers",
+      "url": "https://www.westerndigital.com/company/distributors",
       "query": "Western Digital Corporation suppliers manufacturers",
-      "snippet": "2 days ago · Western Digital supply chain, list and performance of Western Digitals' suppliers - CSIMarket"
+      "snippet": "Find Western Digital authorized Distributors & Resellers Find Distributors & Resellers Purchase from your preferred Western Digital authorized partner"
     },
     {
       "source": "DuckDuckGo",

@@ -3,11 +3,35 @@
   "company_name": "Applied Materials, Inc.",
   "sector": "Technology",
   "industry": "Semiconductor Equipment & Materials",
-  "upstream": [],
-  "downstream": [],
-  "competitors": [],
-  "key_products": [],
-  "extracted_at": "2026-07-08 17:25:36",
+  "upstream": [
+    "BASF (chemicals and gases)",
+    "Air Liquide (industrial gases)",
+    "Lumentum (precision optics)",
+    "TXN",
+    "MSFT"
+  ],
+  "downstream": [
+    "TSM",
+    "005930.KS",
+    "INTC",
+    "MU",
+    "GlobalFoundries"
+  ],
+  "competitors": [
+    "ASML",
+    "LRCX",
+    "KLA Corporation",
+    "Tokyo Electron",
+    "AMAT"
+  ],
+  "key_products": [
+    "Lithography equipment",
+    "Etch equipment",
+    "Deposition equipment",
+    "Inspection and metrology tools",
+    "Software and services for semiconductor manufacturing"
+  ],
+  "extracted_at": "2026-07-09 17:52:53",
   "sources": [
     {
       "source": "Wikipedia",
@@ -25,7 +49,19 @@
       "source": "DuckDuckGo",
       "url": "https://csimarket.com/stocks/AMAT-Suppliers",
       "query": "Applied Materials, Inc. suppliers manufacturers",
-      "snippet": "Jun 22, 2026 · Applied Materials Inc 's Comment on Supply Chain Applied’s manufacturing activities consist primarily of assembly, test and integration"
+      "snippet": "2 days ago · Applied Materials Inc 's Comment on Supply Chain Applied’s manufacturing activities consist primarily of assembly, test and integration o"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/Applied_Materials",
+      "query": "Applied Materials, Inc. major customers clients",
+      "snippet": "Applied Materials , Inc . is an American corporation that supplies equipment, services and software for the manufacture of semiconductor (integrated c"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/AMAT-Customers",
+      "query": "Applied Materials, Inc. major customers clients",
+      "snippet": "Applied Materials Inc 's Comment on Sales, Marketing and Customers Because of the highly technical nature of its products, Applied markets and sells p"
     }
   ]
 }

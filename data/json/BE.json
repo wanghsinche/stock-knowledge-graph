@@ -4,34 +4,34 @@
   "sector": "Industrials",
   "industry": "Electrical Equipment & Parts",
   "upstream": [
-    "Natural gas suppliers",
-    "Biogas suppliers",
-    "Hydrogen suppliers",
-    "Electrolyzer component manufacturers",
-    "Fuel cell stack component suppliers"
+    "Air Liquide",
+    "Linde",
+    "Siemens Energy",
+    "Johnson Matthey",
+    "Mitsubishi Heavy Industries"
   ],
   "downstream": [
-    "Data center operators",
-    "Manufacturing plants",
-    "Commercial building owners",
-    "Cloud service providers",
-    "Industrial facilities"
+    "AMZN",
+    "MSFT",
+    "GOOGL",
+    "Facebook",
+    "Walmart"
   ],
   "competitors": [
     "FuelCell Energy",
-    "Plug Power",
-    "Ballard Power Systems",
-    "H2Pro",
-    "PowerCell Sweden"
+    "PowerCell Sweden",
+    "Heliogen",
+    "Enel X",
+    "Siemens Energy"
   ],
   "key_products": [
-    "Solid oxide fuel cells",
+    "Solid oxide fuel cells (SOFC)",
+    "Onsite power systems",
     "Electrolyzers for hydrogen production",
-    "On-site power generation systems",
-    "Power conversion units",
-    "Energy storage solutions"
+    "Fuel cell stacks",
+    "Power generation units"
   ],
-  "extracted_at": "2026-07-08 17:23:57",
+  "extracted_at": "2026-07-09 17:58:36",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Bloom_Energy",
-      "query": "Bloom Energy Corporation suppliers manufacturers",
-      "snippet": "Bloom Energy (formerly, Ion America) is an American public company that designs and manufactures solid oxide fuel cells (SOFCs) which independently pr"
-    },
-    {
-      "source": "DuckDuckGo",
       "url": "https://csimarket.com/stocks/BE-Suppliers",
       "query": "Bloom Energy Corporation suppliers manufacturers",
-      "snippet": "1 day ago · Sources: Bloom Energy Corporation 's official press releases and regulatory filings; CSIMarket.com's supply-chain research; and the financ"
+      "snippet": "2 days ago · Sources: Bloom Energy Corporation 's official press releases and regulatory filings; CSIMarket.com's supply-chain research; and the finan"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Bloom_Energy",
-      "query": "Bloom Energy Corporation major customers clients",
-      "snippet": "Bloom Energy (formerly, Ion America) is an American public company that designs and manufactures solid oxide fuel cells (SOFCs) which independently pr"
+      "url": "https://www.bloomenergy.com/",
+      "query": "Bloom Energy Corporation suppliers manufacturers",
+      "snippet": "Bloom Energy delivers clean, reliable, scalable onsite power to multiple industries, installed in as little as three months."
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.bloomenergy.com/customers/",
       "query": "Bloom Energy Corporation major customers clients",
       "snippet": "Bloom Energy 's customers have important goals: clean energy , dependency, resiliency, reliability, and affordability. We're here to help reach those "
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/BE-Customers",
+      "query": "Bloom Energy Corporation major customers clients",
+      "snippet": "1 day ago · Bloom Energy customers and markets, results by customer and performance relative to BE, by company and industry - CSIMarket"
     }
   ]
 }

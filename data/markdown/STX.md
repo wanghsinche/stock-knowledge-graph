@@ -3,8 +3,8 @@ ticker: STX
 company: Seagate Technology Holdings plc
 sector: Technology
 industry: Computer Hardware
-extracted_at: 2026-07-08 17:26:46
-last_updated: 2026-07-08
+extracted_at: 2026-07-09 17:56:02
+last_updated: 2026-07-09
 ---
 
 # STX - Seagate Technology Holdings plc
@@ -12,23 +12,23 @@ last_updated: 2026-07-08
 ## 基本信息
 
 - **所属行业**: Technology / Computer Hardware
-- **提取时间**: 2026-07-08 17:26:46
+- **提取时间**: 2026-07-09 17:56:02
 
 ## 产业链关系
 
 ### 上游供应商
 - [[005930.KS]]
-- [[MU]]
 - [[SK Hynix]]
+- [[MU]]
 - [[Toshiba]]
 - [[SONY]]
 
 ### 下游客户
-- [[DELL]]
-- [[HPQ]]
-- [[Lenovo Group]]
 - [[AMZN]]
 - [[MSFT]]
+- [[GOOGL]]
+- [[Alibaba Cloud]]
+- [[IBM]]
 
 ### 竞争对手
 - [[WDC]]
@@ -41,8 +41,8 @@ last_updated: 2026-07-08
 - [[Hard Disk Drives (HDD)]]
 - [[Solid State Drives (SSD)]]
 - [[Enterprise Storage Solutions]]
-- [[Cloud Storage Systems]]
-- [[Data Center Storage]]
+- [[Data Storage Systems]]
+- [[Enterprise Disk Drives]]
 
 ## 数据来源
 
@@ -54,4 +54,4 @@ last_updated: 2026-07-08
 
 ## 元数据
 
-- **更新日期**: 2026-07-08
+- **更新日期**: 2026-07-09
