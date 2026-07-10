@@ -6,32 +6,32 @@
   "upstream": [
     "TSM",
     "005930.KS",
-    "INTC",
     "MU",
-    "TXN"
+    "SK Hynix",
+    "INTC"
   ],
   "downstream": [
     "CSCO",
     "DELL",
+    "HPQ",
     "AMZN",
-    "MSFT",
-    "AAPL"
+    "MSFT"
   ],
   "competitors": [
     "QCOM",
     "INTC",
     "NVDA",
-    "MediaTek",
-    "TXN"
+    "TXN",
+    "MRVL"
   ],
   "key_products": [
-    "Wi‑Fi and Bluetooth chips",
-    "Ethernet and network processors",
-    "Broadband modems and RF components",
-    "Storage controllers",
-    "Infrastructure software solutions"
+    "Broadcom BCM Wi‑Fi chips",
+    "Broadcom Ethernet controllers",
+    "Broadcom broadband modems",
+    "Broadcom storage controllers",
+    "Broadcom data center networking ASICs"
   ],
-  "extracted_at": "2026-07-09 17:51:02",
+  "extracted_at": "2026-07-10 17:44:05",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Broadcom",
-      "query": "Broadcom Inc. suppliers manufacturers",
-      "snippet": "Broadcom Inc . is an American multinational designer, developer, manufacturer , and global supplier of a wide range of semiconductor and infrastructur"
-    },
-    {
-      "source": "DuckDuckGo",
       "url": "https://csimarket.com/stocks/AVGO-Suppliers",
       "query": "Broadcom Inc. suppliers manufacturers",
-      "snippet": "2 days ago · Broadcom Inc 's Suppliers recorded an increase in sales by 27.35 % year on year in Q1 2026, sequentially sales grew by 10.79 %, Broadcom "
+      "snippet": "Broadcom Inc supply chain, list and performance of Broadcom Incs ' suppliers - CSIMarket."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/AVGO-Customers",
-      "query": "Broadcom Inc. major customers clients",
-      "snippet": "Broadcom Inc 's Comment on Sales, Marketing and Customers We sell our products to leading wired and wireless communications manufacturers. We have als"
+      "url": "https://www.globalspec.com/supplier/profile/Broadcom",
+      "query": "Broadcom Inc. suppliers manufacturers",
+      "snippet": "Broadcom Inc . business profile on GlobalSpec. Read about Broadcom Inc ., browse product catalogs and product areas.Business Type: Manufacturer . Supp"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://news.broadcom.com/category/customers",
+      "url": "https://www.broadcom.com/",
       "query": "Broadcom Inc. major customers clients",
-      "snippet": "May 19, 2026 · USSFCU: Powering Financial Wellness with Broadcom ’s Private Cloud and Private AI Broadcom Customer Achievement Awards recognize and ce"
+      "snippet": "Broadcom delivers semiconductors and infrastructure software for global enterprises’ most complex, mission-critical needs."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://x.com/Broadcom",
+      "query": "Broadcom Inc. major customers clients",
+      "snippet": "Broadcom Inc .Підтверджений профіль @ Broadcom ."
     }
   ]
 }

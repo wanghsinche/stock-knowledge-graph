@@ -4,64 +4,64 @@
   "sector": "Financial Services",
   "industry": "Credit Services",
   "upstream": [
-    "Payment processors (e.g., Stripe, PayPal)",
-    "Credit bureaus (Experian, Equifax, TransUnion)",
-    "Data analytics providers (e.g., FICO)",
-    "Regulatory bodies (FINRA, SEC)",
-    "Technology infrastructure (AWS, Azure)"
+    "Visa Inc.",
+    "Mastercard Inc.",
+    "Stripe Inc.",
+    "PayPal Holdings Inc.",
+    "Plaid Inc."
   ],
   "downstream": [
-    "Individual borrowers (personal loans, student loan refinancing)",
-    "Investors (investment platform users)",
-    "Mortgage borrowers (refinancing)",
-    "Credit card holders",
-    "Wealth management clients"
+    "Individual borrowers",
+    "Small businesses",
+    "University graduates",
+    "High‑net‑worth individuals",
+    "Retail customers"
   ],
   "competitors": [
-    "LendingClub",
-    "Upstart",
+    "LendingClub Corp.",
+    "Upstart Holdings Inc.",
     "Marcus by Goldman Sachs",
-    "Prosper",
-    "SoFi's competitor: SoFi's own competitor? (e.g., other fintech lenders)"
+    "American Express",
+    "Goldman Sachs"
   ],
   "key_products": [
-    "Personal loans",
     "Student loan refinancing",
-    "Mortgage refinancing",
-    "Investment platform",
-    "Credit cards"
+    "Personal loans",
+    "Mortgage loans",
+    "Credit cards",
+    "Investment platform"
   ],
-  "extracted_at": "2026-06-24 17:54:58",
+  "extracted_at": "2026-07-10 17:49:43",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/SoFi_Technologies,_Inc.",
       "title": "SoFi",
-      "snippet": "SoFi Technologies, Inc. is an American financial technology company operating as a branchless bank. As of 2026, SoFi is the largest U.S.-based online lender, with nearly 15 million customers."
+      "snippet": "SoFi Technologies, Inc. is an American financial technology company. Founded in 2011 to refinance student loans for Stanford University graduates, it operates as a direct bank serving retail customers"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.sofi.com/",
       "query": "SoFi Technologies, Inc. suppliers manufacturers",
-      "snippet": "Why do 12.6M members trust SoFi? Financial solutions for school, marriage, starting a family, home buying, retirement, or whatever's next. Member FDIC"
+      "snippet": "SoFi Credit Cards and SoFi debit cards are issued by SoFi Bank, N.A. pursuant to license by Mastercard® International Incorporated . SoFi Crypto produ"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.sec.gov/Archives/edgar/data/1818874/000181887425000016/sofi-20241231.htm",
+      "url": "https://csimarket.com/stocks/segments.php?code=SOFI",
       "query": "SoFi Technologies, Inc. suppliers manufacturers",
-      "snippet": "SoFi Securities is subject to regulation by FINRA and the SEC and the Company and its affiliates are subject to supervision and examination by various"
+      "snippet": "Sofi Technologies Inc Executive Officers. Economic Indicators. Fundamentals. SOFI Suppliers by Companys' Segments. Competition."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/SoFi",
+      "url": "https://www.sofi.com/",
       "query": "SoFi Technologies, Inc. major customers clients",
-      "snippet": "SoFi Technologies , Inc . (abbreviated as SoFi , short for Social Finance) is an American financial technology company operating as a branchless bank."
+      "snippet": "SoFi Credit Cards and SoFi debit cards are issued by SoFi Bank, N.A. pursuant to license by Mastercard® International Incorporated . SoFi Crypto produ"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/SOFI-Customers",
+      "url": "https://finance.yahoo.com/quote/SOFI/",
       "query": "SoFi Technologies, Inc. major customers clients",
-      "snippet": "6 days ago · Sofi Technologies Inc customers and markets, results by customer and performance relative to SOFI , by company and industry - CSIMarket"
+      "snippet": "SoFi Technologies , Inc . ( SOFI ). Time to buy SOFI ? SoFi Technologies , Inc . provides various financial services in the United States, Latin Ameri"
     }
   ]
 }

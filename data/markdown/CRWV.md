@@ -1,18 +1,18 @@
 ---
 ticker: CRWV
 company: CoreWeave, Inc.
-sector: Technology / Software - Infrastructure
-industry: AI Cloud Computing
-extracted_at: 2026-07-09 18:04:49
-last_updated: 2026-07-09
+sector: Technology
+industry: Software - Infrastructure
+extracted_at: 2026-07-10 17:54:53
+last_updated: 2026-07-10
 ---
 
 # CRWV - CoreWeave, Inc.
 
 ## 基本信息
 
-- **所属行业**: Technology / Software - Infrastructure / AI Cloud Computing
-- **提取时间**: 2026-07-09 18:04:49
+- **所属行业**: Technology / Software - Infrastructure
+- **提取时间**: 2026-07-10 17:54:53
 
 ## 产业链关系
 
@@ -20,38 +20,38 @@ last_updated: 2026-07-09
 - [[NVDA]]
 - [[AMD]]
 - [[INTC]]
-- [[DELL]]
-- [[HPQ]]
+- [[QCOM]]
+- [[005930.KS]]
 
 ### 下游客户
 - [[OpenAI]]
-- [[DeepMind]]
-- [[TSLA]]
-- [[Waymo]]
-- [[NVDA]]
+- [[MSFT]]
+- [[GOOGL]]
+- [[AMZN]]
+- [[IBM]]
 
 ### 竞争对手
 - [[NVDA]]
 - [[GOOGL]]
-- [[AMZN]]
+- [[AWS]]
 - [[MSFT]]
 - [[IBM]]
 
 ### 核心产品
-- [[GPU Compute Instances]]
-- [[GPU Virtualization]]
-- [[AI Training Platform]]
-- [[GPU Management Software]]
-- [[Cloud-based GPU Infrastructure]]
+- [[GPU cloud infrastructure]]
+- [[AI cloud services]]
+- [[chip management software]]
+- [[GPU virtualization]]
+- [[AI training services]]
 
 ## 数据来源
 
 - [CoreWeave](https://en.wikipedia.org/wiki/CoreWeave,_Inc.)
 - [CoreWeave, Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/CoreWeave)
-- [CoreWeave, Inc. suppliers manufacturers](https://www.coreweave.com/)
-- [CoreWeave, Inc. major customers clients](https://www.appsruntheworld.com/customers-database/products/view/coreweave-compute-services)
-- [CoreWeave, Inc. major customers clients](https://www.coreweave.com/case-studies)
+- [CoreWeave, Inc. suppliers manufacturers](https://finance.yahoo.com/markets/stocks/articles/coreweave-inc-crwv-down-nearly-094727562.html)
+- [CoreWeave, Inc. major customers clients](https://en.wikipedia.org/wiki/CoreWeave)
+- [CoreWeave, Inc. major customers clients](https://finance.yahoo.com/markets/stocks/articles/coreweave-inc-crwv-down-nearly-094727562.html)
 
 ## 元数据
 
-- **更新日期**: 2026-07-09
+- **更新日期**: 2026-07-10

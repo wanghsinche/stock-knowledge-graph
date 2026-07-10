@@ -5,17 +5,17 @@
   "industry": "Financial Data & Stock Exchanges",
   "upstream": [
     "AMZN",
-    "Stripe (payment processing)",
     "MSFT",
-    "Coinbase Custody (internal custody platform)",
-    "Blockchain infrastructure providers (e.g., ConsenSys)"
+    "GOOGL",
+    "Stripe",
+    "Plaid"
   ],
   "downstream": [
     "Retail cryptocurrency traders",
     "Institutional investors",
-    "Crypto asset managers",
-    "Merchant payment processors",
-    "Regulated financial institutions"
+    "Merchants accepting crypto payments",
+    "Developers using Coinbase API",
+    "Crypto asset custodians"
   ],
   "competitors": [
     "Binance",
@@ -25,13 +25,13 @@
     "FTX (formerly)"
   ],
   "key_products": [
-    "Cryptocurrency trading platform",
-    "Custody services for institutional clients",
-    "Staking and yield products",
-    "Coinbase Wallet (mobile & web)",
-    "API and developer tools"
+    "Coinbase Wallet",
+    "Coinbase Pro",
+    "Coinbase Earn",
+    "Coinbase Custody",
+    "Coinbase Commerce"
   ],
-  "extracted_at": "2026-06-05 17:54:58",
+  "extracted_at": "2026-07-10 17:57:16",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,9 +41,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Coinbase",
+      "url": "https://www.tradingview.com/symbols/NASDAQ-COIN/",
       "query": "Coinbase Global, Inc. suppliers manufacturers",
-      "snippet": "Coinbase Global , Inc ., branded Coinbase , is an American publicly traded company that operates a cryptocurrency exchange platform. Coinbase is a dis"
+      "snippet": "View live Coinbase Global , Inc . chart to track its stock's price action. Find market predictions, COIN financials and market news."
     },
     {
       "source": "DuckDuckGo",
@@ -53,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Coinbase",
+      "url": "https://www.tradingview.com/symbols/NASDAQ-COIN/",
       "query": "Coinbase Global, Inc. major customers clients",
-      "snippet": "Coinbase Global , Inc ., branded Coinbase , is an American publicly traded company that operates a cryptocurrency exchange platform."
+      "snippet": "View live Coinbase Global , Inc . chart to track its stock's price action. Find market predictions, COIN financials and market news."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.coinbase.com/",
+      "url": "https://finance.yahoo.com/quote/COIN/",
       "query": "Coinbase Global, Inc. major customers clients",
-      "snippet": "Coinbase United States is a secure online platform for buying, selling, transferring, and storing cryptocurrency."
+      "snippet": "Find the latest Coinbase Global , Inc . (COIN) stock quote, history, news and other vital information to help you with your stock trading and investin"
     }
   ]
 }

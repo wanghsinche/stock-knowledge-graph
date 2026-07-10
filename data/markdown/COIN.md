@@ -3,8 +3,8 @@ ticker: COIN
 company: Coinbase Global, Inc.
 sector: Financial Services
 industry: Financial Data & Stock Exchanges
-extracted_at: 2026-06-05 17:54:58
-last_updated: 2026-06-05
+extracted_at: 2026-07-10 17:57:16
+last_updated: 2026-07-10
 ---
 
 # COIN - Coinbase Global, Inc.
@@ -12,23 +12,23 @@ last_updated: 2026-06-05
 ## 基本信息
 
 - **所属行业**: Financial Services / Financial Data & Stock Exchanges
-- **提取时间**: 2026-06-05 17:54:58
+- **提取时间**: 2026-07-10 17:57:16
 
 ## 产业链关系
 
 ### 上游供应商
 - [[AMZN]]
-- [[Stripe (payment processing)]]
 - [[MSFT]]
-- [[Coinbase Custody (internal custody platform)]]
-- [[Blockchain infrastructure providers (e.g., ConsenSys)]]
+- [[GOOGL]]
+- [[Stripe]]
+- [[Plaid]]
 
 ### 下游客户
 - [[Retail cryptocurrency traders]]
 - [[Institutional investors]]
-- [[Crypto asset managers]]
-- [[Merchant payment processors]]
-- [[Regulated financial institutions]]
+- [[Merchants accepting crypto payments]]
+- [[Developers using Coinbase API]]
+- [[Crypto asset custodians]]
 
 ### 竞争对手
 - [[Binance]]
@@ -38,20 +38,20 @@ last_updated: 2026-06-05
 - [[FTX (formerly)]]
 
 ### 核心产品
-- [[Cryptocurrency trading platform]]
-- [[Custody services for institutional clients]]
-- [[Staking and yield products]]
-- [[Coinbase Wallet (mobile & web)]]
-- [[API and developer tools]]
+- [[Coinbase Wallet]]
+- [[Coinbase Pro]]
+- [[Coinbase Earn]]
+- [[Coinbase Custody]]
+- [[Coinbase Commerce]]
 
 ## 数据来源
 
 - [Coinbase](https://en.wikipedia.org/wiki/Coinbase_Global,_Inc.)
-- [Coinbase Global, Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/Coinbase)
+- [Coinbase Global, Inc. suppliers manufacturers](https://www.tradingview.com/symbols/NASDAQ-COIN/)
 - [Coinbase Global, Inc. suppliers manufacturers](https://finance.yahoo.com/quote/COIN/)
-- [Coinbase Global, Inc. major customers clients](https://en.wikipedia.org/wiki/Coinbase)
-- [Coinbase Global, Inc. major customers clients](https://www.coinbase.com/)
+- [Coinbase Global, Inc. major customers clients](https://www.tradingview.com/symbols/NASDAQ-COIN/)
+- [Coinbase Global, Inc. major customers clients](https://finance.yahoo.com/quote/COIN/)
 
 ## 元数据
 
-- **更新日期**: 2026-06-05
+- **更新日期**: 2026-07-10

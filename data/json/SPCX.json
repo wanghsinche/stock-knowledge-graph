@@ -1,37 +1,38 @@
 {
   "ticker": "SPCX",
   "company_name": "Space Exploration Technologies Corp.",
-  "sector": "Industrials",
+  "sector": "Industrials / Aerospace & Defense",
   "industry": "Aerospace & Defense",
   "upstream": [
-    "Boeing (components & avionics)",
-    "Lockheed Martin (propulsion systems)",
-    "Airbus (airframe parts)",
-    "Aerojet Rocketdyne (Merlin engines)",
-    "Blue Origin (Raptor engine development partnership)"
+    "Aerojet Rocketdyne",
+    "Honeywell Aerospace",
+    "Boeing",
+    "Lockheed Martin",
+    "SpaceX internal suppliers (e.g., in-house manufacturing)"
   ],
   "downstream": [
-    "NASA (commercial crew & cargo missions)",
-    "U.S. Department of Defense (military satellite launches)",
-    "INTC",
-    "SES (satellite constellation services)",
-    "Starlink customers (global broadband subscribers)"
+    "NASA",
+    "U.S. Department of Defense",
+    "Commercial satellite operators",
+    "Starlink broadband customers",
+    "SpaceX internal customers (e.g., SpaceX's own missions)"
   ],
   "competitors": [
     "Blue Origin",
     "United Launch Alliance",
     "Rocket Lab",
-    "Arianespace",
-    "Relativity Space"
+    "Virgin Galactic",
+    "Arianespace"
   ],
   "key_products": [
     "Falcon 9 launch vehicle",
     "Falcon Heavy launch vehicle",
     "Starship launch vehicle",
     "Starlink satellite constellation",
-    "SpaceX AI services (Grok, X)"
+    "Starlink broadband service",
+    "Grok AI platform"
   ],
-  "extracted_at": "2026-07-09 17:52:08",
+  "extracted_at": "2026-07-10 17:43:48",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +42,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://grokipedia.com/page/Publicly_traded_SpaceX_suppliers",
+      "url": "https://en.wikipedia.org/wiki/SpaceX",
       "query": "Space Exploration Technologies Corp. suppliers manufacturers",
-      "snippet": "Publicly traded SpaceX suppliers refer to companies listed on major stock exchanges that provide components, services, or related resources to SpaceX,"
+      "snippet": "Space Exploration Technologies Corporation , doing business as SpaceX , is an American spaceflight, telecommunications, and artificial intelligence co"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.listthe.com/manufacturers-of/space-exploration-technologies-corp",
+      "url": "https://ru.wikipedia.org/wiki/SpaceX",
       "query": "Space Exploration Technologies Corp. suppliers manufacturers",
-      "snippet": "Let's check SPACE EXPLORATION TECHNOLOGIES CORP 's supplier list! space exploration technologies corp is a PCB , LAWN MOUNT and ASSY WIFI ROUTER compa"
+      "snippet": "Space Exploration Technologies Corporation , SpaceX (дословно — «Корпорация технологий освоения космоса», «Спейс-Экс») — американская аэрокосмическая "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.fool.com/investing/how-to-invest/stocks/spacex-competitors/",
-      "query": "Space Exploration Technologies Corp. competitors alternatives",
-      "snippet": "Jun 26, 2026 · SpaceX leads in space launch services, AI growth, and profitable connectivity via Starlink. Competitors like Rocket Lab and Blue Origin"
+      "url": "https://en.wikipedia.org/wiki/SpaceX",
+      "query": "Space Exploration Technologies Corp. major customers clients",
+      "snippet": "Space Exploration Technologies Corporation , doing business as SpaceX , is an American spaceflight, telecommunications, and artificial intelligence co"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://seekingalpha.com/symbol/SPCX/peers/comparison",
-      "query": "Space Exploration Technologies Corp. competitors alternatives",
-      "snippet": "Space Exploration Technologies Corp . (SPCX) key stats comparison: compare with other stocks by metrics: valuation, growth, profitability, momentum, E"
+      "url": "https://www.tradingview.com/symbols/NASDAQ-SPCX/",
+      "query": "Space Exploration Technologies Corp. major customers clients",
+      "snippet": "Space Exploration Technologies Corp . ( SpaceX ) designs, manufactures, and launches advanced rockets and spacecraft, including the fully reusable Sta"
     }
   ]
 }

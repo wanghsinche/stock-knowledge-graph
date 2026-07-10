@@ -5,33 +5,33 @@
   "industry": "Semiconductors",
   "upstream": [
     "ASML",
-    "TSM",
-    "005930.KS",
     "AMAT",
-    "LRCX"
+    "LRCX",
+    "Tokyo Electron",
+    "KLA"
   ],
   "downstream": [
+    "DELL",
+    "HPQ",
     "AAPL",
     "MSFT",
-    "DELL",
-    "AMZN",
-    "GOOGL"
+    "AMZN"
   ],
   "competitors": [
     "AMD",
     "NVDA",
     "QCOM",
     "AVGO",
-    "TXN"
+    "005930.KS"
   ],
   "key_products": [
     "Intel Core CPUs",
-    "Intel Xeon Processors",
-    "Intel FPGAs",
-    "Intel Network Processors",
-    "Intel AI Accelerators"
+    "Intel Xeon CPUs",
+    "Intel chipsets",
+    "Intel SSDs",
+    "Intel Optane memory"
   ],
-  "extracted_at": "2026-07-09 17:50:40",
+  "extracted_at": "2026-07-10 17:42:59",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/List_of_Intel_manufacturing_sites",
-      "query": "Intel Corporation suppliers manufacturers",
-      "snippet": "List of Intel manufacturing sites Intel is an American multinational corporation and technology company headquartered in Santa Clara, California. Proc"
-    },
-    {
-      "source": "DuckDuckGo",
       "url": "https://csimarket.com/stocks/INTC-Suppliers",
       "query": "Intel Corporation suppliers manufacturers",
-      "snippet": "2 days ago · Sources: Intel Corporation 's official press releases and regulatory filings; CSIMarket.com's supply-chain research; and the financial fi"
+      "snippet": "Intel supply chain, list and performance of Intels' suppliers - CSIMarket. Intel 's Comment on Supply Chain. We use third-party foundries to manufactu"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.intel.com/content/www/us/en/customer-spotlight/overview.html",
-      "query": "Intel Corporation major customers clients",
-      "snippet": "Jul 20, 2025 · Explore the Intel Customer Spotlight for the latest customer stories, case studies, and testimonials highlighting data-centric innovati"
+      "url": "https://www.globalspec.com/supplier/profile/Intel",
+      "query": "Intel Corporation suppliers manufacturers",
+      "snippet": "Intel Corporation business profile on GlobalSpec. Read about Intel Corporation , browse product catalogs and product areas.(408) 765-9904. Business Ty"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/INTC-Customers",
+      "url": "https://www.tradingview.com/symbols/NASDAQ-INTC/",
       "query": "Intel Corporation major customers clients",
-      "snippet": "3 days ago · Intel customers and markets, results by customer and performance relative to INTC, by company and industry - CSIMarket"
+      "snippet": "View live Intel Corporation chart to track its stock's price action. Find market predictions, INTC financials and market news."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://finance.yahoo.com/quote/INTC/",
+      "query": "Intel Corporation major customers clients",
+      "snippet": "Find the latest Intel Corporation (INTC) stock quote, history, news and other vital information to help you with your stock trading and investing."
     }
   ]
 }

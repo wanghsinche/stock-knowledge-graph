@@ -1,18 +1,18 @@
 ---
 ticker: WMT
 company: Walmart Inc.
-sector: Consumer Defensive / Discount Stores
-industry: Retail - Discount Stores
-extracted_at: 2026-07-08 17:35:38
-last_updated: 2026-07-08
+sector: Consumer Defensive
+industry: Discount Stores
+extracted_at: 2026-07-10 17:55:10
+last_updated: 2026-07-10
 ---
 
 # WMT - Walmart Inc.
 
 ## 基本信息
 
-- **所属行业**: Consumer Defensive / Discount Stores / Retail - Discount Stores
-- **提取时间**: 2026-07-08 17:35:38
+- **所属行业**: Consumer Defensive / Discount Stores
+- **提取时间**: 2026-07-10 17:55:10
 
 ## 产业链关系
 
@@ -21,21 +21,21 @@ last_updated: 2026-07-08
 - [[Coca‑Cola]]
 - [[PepsiCo]]
 - [[Nestlé]]
-- [[Unilever]]
+- [[Tyson Foods]]
 
 ### 下游客户
-- [[US consumers]]
+- [[U.S. consumers]]
 - [[International consumers]]
 - [[Small businesses]]
-- [[Local communities]]
-- [[Online shoppers]]
+- [[Healthcare providers]]
+- [[Government agencies]]
 
 ### 竞争对手
 - [[Target]]
 - [[Costco]]
-- [[AMZN]]
-- [[BJ's Wholesale]]
-- [[Kroger]]
+- [[Dollar General]]
+- [[Aldi]]
+- [[BJ's Wholesale Club]]
 
 ### 核心产品
 - [[Groceries]]
@@ -47,11 +47,11 @@ last_updated: 2026-07-08
 ## 数据来源
 
 - [Walmart](https://en.wikipedia.org/wiki/Walmart_Inc.)
-- [Walmart Inc. suppliers manufacturers](https://corporate.walmart.com/suppliers)
-- [Walmart Inc. suppliers manufacturers](https://solatatech.com/article/5-key-suppliers-of-walmart)
-- [Walmart Inc. major customers clients](https://capitaloneshopping.com/research/walmart-statistics/)
-- [Walmart Inc. major customers clients](https://csimarket.com/stocks/WMT-Customers)
+- [Walmart Inc. suppliers manufacturers](https://csimarket.com/stocks/suppliers_glance.php?code=WMT)
+- [Walmart Inc. suppliers manufacturers](https://www.walmart.com/)
+- [Walmart Inc. major customers clients](https://stock.walmart.com/)
+- [Walmart Inc. major customers clients](https://www.linkedin.com/company/walmart)
 
 ## 元数据
 
-- **更新日期**: 2026-07-08
+- **更新日期**: 2026-07-10

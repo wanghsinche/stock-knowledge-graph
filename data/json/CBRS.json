@@ -4,40 +4,59 @@
   "sector": "Technology",
   "industry": "Semiconductors",
   "upstream": [
-    "Silicon wafer suppliers",
-    "Lithography equipment manufacturers",
-    "Photolithography mask suppliers",
-    "Electronic materials suppliers",
-    "Chip packaging suppliers"
+    "Flex",
+    "Andrew Feldman",
+    "Sam Altman",
+    "Other semiconductor foundries"
   ],
   "downstream": [
-    "INTC",
-    "Cloud service providers",
-    "Enterprise AI solution vendors",
-    "Academic research labs",
-    "High-performance computing centers"
+    "OpenAI"
   ],
   "competitors": [
+    "Graphcore",
     "NVDA",
     "INTC",
-    "Graphcore",
     "AMD",
     "GOOGL"
   ],
   "key_products": [
-    "WSE-3 wafer scale engine",
-    "CS-3 supercomputer",
-    "AI inference cloud API",
-    "AI training cloud API",
-    "Data center solutions"
+    "Wafer Scale Engine (WSE)-3",
+    "CS-3 Supercomputer",
+    "AI Inference Cloud API",
+    "AI Training Cloud API",
+    "Data Center Solutions"
   ],
-  "extracted_at": "2026-06-30 18:24:30",
+  "extracted_at": "2026-07-10 17:54:35",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Cerebras_Systems_Inc.",
       "title": "Cerebras Systems",
       "snippet": "Cerebras Systems Inc., headquartered in Sunnyvale, California, develops semiconductors, supercomputers, and related software to power artificial intelligence deep-learning applications such as inferen"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.cerebras.ai/",
+      "query": "Cerebras Systems Inc. suppliers manufacturers",
+      "snippet": "Andrew Feldman. Co-founder & CEO Cerebras Systems . Sam Altman. Cerebras adds a dedicated low-latency inference solution to our platform. That means f"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://finance.yahoo.com/technology/ai/articles/flex-cerebras-expand-partnership-scale-130500207.html",
+      "query": "Cerebras Systems Inc. suppliers manufacturers",
+      "snippet": "Flex and Cerebras Systems Inc . today announced an expanded manufacturing partnership to scale production of the Cerebras CS-3, one of the world's mos"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.cerebras.ai/",
+      "query": "Cerebras Systems Inc. major customers clients",
+      "snippet": "What customers are saying. OpenAI’s compute strategy is to build a resilient portfolio that matches the right systems to the right workloads. Cerebras"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://siliconangle.com/2026/07/09/inference-speed-gives-cerebras-edge-ai-infrastructure-race-raisesummit/",
+      "query": "Cerebras Systems Inc. major customers clients",
+      "snippet": "Cerebras Systems Inc . recognized that opportunity years before the market validated it, according to Andrew Feldman (pictured), founder and chief exe"
     }
   ]
 }

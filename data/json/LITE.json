@@ -1,13 +1,37 @@
 {
   "ticker": "LITE",
   "company_name": "Lumentum Holdings Inc.",
-  "sector": "Technology",
-  "industry": "Communication Equipment",
-  "upstream": [],
-  "downstream": [],
-  "competitors": [],
-  "key_products": [],
-  "extracted_at": "2026-07-09 17:55:32",
+  "sector": "Technology / Communication Equipment",
+  "industry": "Photonics / Optical Components",
+  "upstream": [
+    "Semiconductor manufacturers (e.g., II‑VI Incorporated, Coherent)",
+    "Optical fiber suppliers (e.g., Corning)",
+    "Laser diode suppliers (e.g., Lattice Semiconductor)",
+    "Photonic integrated circuit vendors (e.g., Lattice Semiconductor)",
+    "AMAT"
+  ],
+  "downstream": [
+    "CSCO",
+    "Huawei Technologies",
+    "Nokia",
+    "Ericsson",
+    "JNPR"
+  ],
+  "competitors": [
+    "Coherent Inc.",
+    "II‑VI Incorporated",
+    "Trumpf GmbH",
+    "Molex",
+    "Thorlabs"
+  ],
+  "key_products": [
+    "Laser diodes",
+    "Optical amplifiers",
+    "Photonic integrated circuits",
+    "Optical transceivers",
+    "Fiber optic components"
+  ],
+  "extracted_at": "2026-07-10 17:48:24",
   "sources": [
     {
       "source": "Wikipedia",
@@ -17,15 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/LITE-Suppliers",
+      "url": "https://csimarket.com/stocks/competitionNO8.php?markets&code=LITE",
       "query": "Lumentum Holdings Inc. suppliers manufacturers",
-      "snippet": "Jun 22, 2026 · Lumentum Holdings Inc 's Comment on Supply Chain We use various suppliers and contract manufacturers to supply parts and components for"
+      "snippet": "Lumentum Holdings Inc 's Price to Book ratio. Lumentum Holdings Inc Executive Officers. Economic Indicators."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.lumentum.com/en/company/supply-chain",
+      "url": "https://www.investing.com/news/swot-analysis/lumentum-holdings-incs-swot-analysis-optical-stock-positioned-for-ai-data-center-growth-93CH-4708678",
       "query": "Lumentum Holdings Inc. suppliers manufacturers",
-      "snippet": "At Lumentum, our global supply chain is the backbone of our ability to deliver advanced photonics technologies that power today’s most connected and d"
+      "snippet": "Lumentum Holdings Inc . (NASDAQ:LITE) has emerged as a critical supplier in the rapidly evolving optical communications market, capitalizing on the tr"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://in.investing.com/news/-4960725",
+      "query": "Lumentum Holdings Inc. major customers clients",
+      "snippet": "Lumentum Holdings Inc . (NASDAQ:LITE), a leading provider of optical and photonic products with a market capitalization of $8.3 billion, has been maki"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.bloomberg.com/profile/company/LITE23:TB",
+      "query": "Lumentum Holdings Inc. major customers clients",
+      "snippet": "Company profile page for Lumentum Holdings Inc including stock price, company news, executives, board members, and contact information."
     }
   ]
 }

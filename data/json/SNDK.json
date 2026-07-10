@@ -1,37 +1,37 @@
 {
   "ticker": "SNDK",
   "company_name": "SanDisk Corporation",
-  "sector": "Technology / Computer Hardware",
-  "industry": "Computer Storage Devices",
+  "sector": "Technology",
+  "industry": "Computer Hardware",
   "upstream": [
-    "ASML",
-    "AMAT",
-    "Tokyo Electron (semiconductor equipment)",
-    "Shin-Etsu (silicon wafer supplier)",
-    "Dow Chemical (chemical materials)"
-  ],
-  "downstream": [
-    "AAPL",
-    "MSFT",
-    "005930.KS",
-    "SONY",
-    "GOOGL"
-  ],
-  "competitors": [
     "MU",
     "005930.KS",
     "SK Hynix",
-    "WDC",
-    "Kingston Technology"
+    "Toshiba Memory",
+    "WDC"
+  ],
+  "downstream": [
+    "DELL",
+    "HPQ",
+    "Lenovo Group",
+    "AAPL",
+    "SONY"
+  ],
+  "competitors": [
+    "Kingston Technology",
+    "Crucial",
+    "Lexar",
+    "005930.KS",
+    "INTC"
   ],
   "key_products": [
-    "SanDisk SD Cards",
-    "SanDisk microSD Cards",
-    "SanDisk USB Flash Drives",
-    "SanDisk SSDs",
-    "SanDisk External Hard Drives"
+    "SD cards",
+    "microSD cards",
+    "USB flash drives",
+    "Solid State Drives (SSDs)",
+    "Portable storage devices"
   ],
-  "extracted_at": "2026-07-09 17:48:24",
+  "extracted_at": "2026-07-10 17:41:43",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,25 +43,25 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/SanDisk",
       "query": "Sandisk Corporation suppliers manufacturers",
-      "snippet": "SanDisk SD Cards 128MB and 32GB 512 MB SanDisk SD card and Sony Memory Stick SanDisk Ultra 32GB MicroSD card with Adapter SanDisk SDHC Card 8GB SanDis"
+      "snippet": "Sandisk Corporation is an American multinational computer technology company based in Milpitas, California, that designs and manufactures flash memory"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.sandisk.com/en-us/company/distributors",
+      "url": "https://www.sandisk.com/",
       "query": "Sandisk Corporation suppliers manufacturers",
-      "snippet": "Find authorized SanDisk distributors and channel partners worldwide for trusted storage solutions and products."
+      "snippet": "Limited to 1 per SANDISK Creator product purchase; subject to acceptance of applicable Terms of Use. Offer must be redeemed by January 31, 2028, or wh"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://data.landbase.com/technology/sandisk/",
+      "url": "https://en.wikipedia.org/wiki/SanDisk",
       "query": "Sandisk Corporation major customers clients",
-      "snippet": "Aug 17, 2025 · We have data on 324 companies that use SanDisk. Our SanDisk customers list is available for download and comes enriched with vital comp"
+      "snippet": "Sandisk Corporation is an American multinational computer technology company based in Milpitas, California, that designs and manufactures flash memory"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/SNDK-Customers",
+      "url": "https://www.sandisk.com/",
       "query": "Sandisk Corporation major customers clients",
-      "snippet": "Sandisk customers and markets, results by customer and performance relative to SNDK, by company and industry - CSIMarket"
+      "snippet": "Sandisk online store members receive free standard shipping on all eligible orders."
     }
   ]
 }

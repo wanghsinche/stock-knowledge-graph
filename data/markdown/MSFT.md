@@ -3,8 +3,8 @@ ticker: MSFT
 company: Microsoft Corporation
 sector: Technology
 industry: Software - Infrastructure
-extracted_at: 2026-07-09 17:51:35
-last_updated: 2026-07-09
+extracted_at: 2026-07-10 17:42:33
+last_updated: 2026-07-10
 ---
 
 # MSFT - Microsoft Corporation
@@ -12,46 +12,46 @@ last_updated: 2026-07-09
 ## 基本信息
 
 - **所属行业**: Technology / Software - Infrastructure
-- **提取时间**: 2026-07-09 17:51:35
+- **提取时间**: 2026-07-10 17:42:33
 
 ## 产业链关系
 
 ### 上游供应商
-- [[MONOLITHIC POWER SYSTEMS, INC.]]
-- [[MURATA MANUFACTURING CO., LTD.]]
-- [[NEWMAX TECHNOLOGY]]
-- [[NVDA]]
 - [[INTC]]
+- [[AMD]]
+- [[NVDA]]
+- [[DELL]]
+- [[HPQ]]
 
 ### 下游客户
-- [[Walmart]]
-- [[JPMorgan Chase]]
-- [[Coca‑Cola]]
-- [[Bank of America]]
-- [[General Electric]]
+- [[Enterprise customers (e.g., banks, government agencies)]]
+- [[DELL]]
+- [[Consumer users of Windows and Office]]
+- [[Cloud service users (Azure)]]
+- [[Gaming community (Xbox)]]
 
 ### 竞争对手
 - [[AAPL]]
 - [[GOOGL]]
 - [[AMZN]]
-- [[IBM]]
 - [[ORCL]]
+- [[IBM]]
 
 ### 核心产品
-- [[Windows Operating System]]
-- [[Microsoft Office Suite]]
-- [[Azure Cloud Services]]
+- [[Windows operating system]]
+- [[Microsoft Office suite]]
+- [[Azure cloud platform]]
 - [[Microsoft Teams]]
-- [[Xbox Gaming Console]]
+- [[Surface hardware line]]
 
 ## 数据来源
 
 - [Microsoft](https://en.wikipedia.org/wiki/Microsoft_Corporation)
-- [Microsoft Corporation suppliers manufacturers](https://csimarket.com/stocks/MSFT-Suppliers)
-- [Microsoft Corporation suppliers manufacturers](https://download.microsoft.com/download/F/3/8/F38AF681-EB3A-4645-A9C4-D4F31B8BA8F2/Microsoft+Top+100+Production+Suppliers.pdf)
-- [Microsoft Corporation major customers clients](https://csimarket.com/stocks/MSFT-Customers)
-- [Microsoft Corporation major customers clients](https://www.appsruntheworld.com/customers-database/vendors/view/microsoft)
+- [Microsoft Corporation suppliers manufacturers](https://en.wikipedia.org/wiki/Microsoft)
+- [Microsoft Corporation suppliers manufacturers](https://csimarket.com/stocks/MSFT-Shares-vs-Suppliers)
+- [Microsoft Corporation major customers clients](https://en.wikipedia.org/wiki/Microsoft)
+- [Microsoft Corporation major customers clients](https://copilot.microsoft.com/)
 
 ## 元数据
 
-- **更新日期**: 2026-07-09
+- **更新日期**: 2026-07-10

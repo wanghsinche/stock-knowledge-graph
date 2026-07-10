@@ -3,8 +3,8 @@ ticker: COST
 company: Costco Wholesale Corporation
 sector: Consumer Defensive
 industry: Discount Stores
-extracted_at: 2026-07-09 17:57:13
-last_updated: 2026-07-09
+extracted_at: 2026-07-10 17:51:29
+last_updated: 2026-07-10
 ---
 
 # COST - Costco Wholesale Corporation
@@ -12,29 +12,29 @@ last_updated: 2026-07-09
 ## 基本信息
 
 - **所属行业**: Consumer Defensive / Discount Stores
-- **提取时间**: 2026-07-09 17:57:13
+- **提取时间**: 2026-07-10 17:51:29
 
 ## 产业链关系
 
 ### 上游供应商
 - [[Tyson Foods]]
 - [[Cargill]]
-- [[Nestlé]]
 - [[PepsiCo]]
-- [[005930.KS]]
+- [[Coca-Cola]]
+- [[Nike]]
 
 ### 下游客户
-- [[U.S. consumers]]
+- [[American consumers]]
 - [[Canadian consumers]]
-- [[Membership holders]]
-- [[Small businesses]]
-- [[Corporate clients]]
+- [[UK consumers]]
+- [[Australian consumers]]
+- [[Global members]]
 
 ### 竞争对手
 - [[Walmart]]
 - [[Target]]
+- [[BJ's Wholesale Club]]
 - [[Sam's Club]]
-- [[BJ's Wholesale]]
 - [[AMZN]]
 
 ### 核心产品
@@ -42,16 +42,16 @@ last_updated: 2026-07-09
 - [[Poultry]]
 - [[Organic produce]]
 - [[Wine]]
-- [[Electronics]]
+- [[Grocery items]]
 
 ## 数据来源
 
 - [Costco](https://en.wikipedia.org/wiki/Costco_Wholesale_Corporation)
-- [Costco Wholesale Corporation suppliers manufacturers](https://csimarket.com/stocks/COST-Suppliers)
-- [Costco Wholesale Corporation suppliers manufacturers](https://www.accio.com/supplier/costco-supplier-website)
-- [Costco Wholesale Corporation major customers clients](https://www.marketingscoop.com/consumer/costco-target-market-demographics/)
-- [Costco Wholesale Corporation major customers clients](https://www.companieshistory.com/costco-target-market/)
+- [Costco Wholesale Corporation suppliers manufacturers](https://www.costco.com/)
+- [Costco Wholesale Corporation suppliers manufacturers](https://matchory.com/company/costco-wholesale-corp)
+- [Costco Wholesale Corporation major customers clients](https://www.costco.com/)
+- [Costco Wholesale Corporation major customers clients](https://www.linkedin.com/company/costco-wholesale)
 
 ## 元数据
 
-- **更新日期**: 2026-07-09
+- **更新日期**: 2026-07-10

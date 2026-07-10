@@ -8,14 +8,14 @@
     "AMZN",
     "GOOGL",
     "ORCL",
-    "SAP Cloud Platform"
+    "SAP Cloud"
   ],
   "downstream": [
-    "Walmart",
-    "JPMorgan Chase",
-    "Bank of America",
-    "AT&T",
-    "CAT"
+    "Financial institutions",
+    "Retail companies",
+    "Healthcare organizations",
+    "Government agencies",
+    "Manufacturing firms"
   ],
   "competitors": [
     "SAP SE Business Objects",
@@ -25,13 +25,13 @@
     "Tableau Software"
   ],
   "key_products": [
-    "MicroStrategy Analytics",
+    "MicroStrategy Desktop",
+    "MicroStrategy Web",
     "MicroStrategy Mobile",
-    "MicroStrategy Cloud",
-    "MicroStrategy Data Warehouse",
-    "MicroStrategy Dashboard"
+    "MicroStrategy Analytics",
+    "MicroStrategy Cloud"
   ],
-  "extracted_at": "2026-07-08 17:37:13",
+  "extracted_at": "2026-07-10 17:50:41",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.strategy.com/press/strategy-announces-legal-name-change-from-microstrategy-incorporated-to-strategy-inc_08-14-2025",
+      "url": "https://finance.yahoo.com/quote/MSTR/",
       "query": "Strategy Inc suppliers manufacturers",
-      "snippet": "Aug 14, 2025 · August 14, 2025 Strategy Announces Legal Name Change from MicroStrategy Incorporated to Strategy Inc Press Release • August 14, 2025"
+      "snippet": "Find the latest Strategy Inc (MSTR) stock quote, history, news and other vital information to help you with your stock trading and investing."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://software.strategy.com/company/contact-us",
+      "url": "https://csimarket.com/stocks/STRF-Officers-Directors.html",
       "query": "Strategy Inc suppliers manufacturers",
-      "snippet": "Reach out to Strategy 's dedicated team for inquiries, support, and partnership opportunities. Whether you have questions about our products, need ass"
+      "snippet": "Strategy Inc 's Free Cash Flow Margin. Strategy Inc 's Receivables Turnover Ratio. Strategy Inc Executive Officers. Economic Indicators. Fundamentals."
     },
     {
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/MicroStrategy",
       "query": "Strategy Inc major customers clients",
-      "snippet": "Strategy Inc ., formerly known as MicroStrategy,[1] is an American company that provides business intelligence (BI) and mobile software. Founded in 19"
+      "snippet": "Strategy Inc ., formerly known as MicroStrategy, is an American company that provides business intelligence and mobile software. Founded in 1989 by Mi"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.featuredcustomers.com/vendor/strategy",
+      "url": "https://finance.yahoo.com/quote/MSTR/",
       "query": "Strategy Inc major customers clients",
-      "snippet": "Learn more about Strategy - use cases, approaches, & end results from real customers ; read customer reviews including 339 testimonials, videos, and c"
+      "snippet": "Find the latest Strategy Inc (MSTR) stock quote, history, news and other vital information to help you with your stock trading and investing."
     }
   ]
 }

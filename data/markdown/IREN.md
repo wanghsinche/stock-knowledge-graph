@@ -2,56 +2,56 @@
 ticker: IREN
 company: IREN Limited
 sector: Financial Services / Capital Markets
-industry: Financial Services
-extracted_at: 2026-07-09 18:08:22
-last_updated: 2026-07-09
+industry: Digital Infrastructure
+extracted_at: 2026-07-10 17:52:01
+last_updated: 2026-07-10
 ---
 
 # IREN - IREN Limited
 
 ## 基本信息
 
-- **所属行业**: Financial Services / Capital Markets / Financial Services
-- **提取时间**: 2026-07-09 18:08:22
+- **所属行业**: Financial Services / Capital Markets / Digital Infrastructure
+- **提取时间**: 2026-07-10 17:52:01
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Renewable energy providers]]
-- [[Data center equipment manufacturers]]
-- [[GPU hardware suppliers]]
-- [[Cloud infrastructure vendors]]
-- [[CAT]]
+- [[Fiber optic cable manufacturers]]
+- [[CSCO]]
+- [[Data center hardware suppliers]]
+- [[Software platform providers]]
+- [[Telecom equipment suppliers]]
 
 ### 下游客户
-- [[Enterprise AI clients]]
-- [[Cloud service customers]]
-- [[Data analytics firms]]
-- [[Financial institutions]]
-- [[Technology startups]]
+- [[CAT]]
+- [[Cloud service providers]]
+- [[Enterprise IT departments]]
+- [[Government agencies]]
+- [[Large content delivery networks]]
 
 ### 竞争对手
-- [[AMZN]]
-- [[MSFT]]
-- [[GOOGL]]
-- [[IBM]]
-- [[ORCL]]
+- [[Aussie Digital Infrastructure]]
+- [[Telecom Infrastructure Providers]]
+- [[Data Center Operators]]
+- [[Cloud Connectivity Companies]]
+- [[Broadband Service Providers]]
 
 ### 核心产品
-- [[AI Cloud services]]
-- [[GPU cluster solutions]]
-- [[Renewable-powered data centers]]
-- [[Cloud infrastructure]]
-- [[Data analytics platforms]]
+- [[Fiber network services]]
+- [[Data center services]]
+- [[Cloud connectivity solutions]]
+- [[Managed network services]]
+- [[Infrastructure leasing]]
 
 ## 数据来源
 
 - 
-- [IREN Limited suppliers manufacturers](https://csimarket.com/stocks/suppliers_glance.php?code=IREN)
-- [IREN Limited suppliers manufacturers](https://www.iren.com/)
-- [IREN Limited major customers clients](https://csimarket.com/stocks/IREN-Customers)
-- [IREN Limited major customers clients](https://finviz.com/news/262618/irens-ai-client-base-expands-is-growth-becoming-more-durable)
+- [IREN Limited suppliers manufacturers](https://www.investing.com/equities/iris-energy)
+- [IREN Limited suppliers manufacturers](https://www.kimi.com/preview/19c1b26c-1b62-85b4-8000-05b796d36d1a)
+- [IREN Limited major customers clients](https://csimarket.com/stocks/markets_glance.php?code=IREN)
+- [IREN Limited major customers clients](https://www.investing.com/equities/iris-energy)
 
 ## 元数据
 
-- **更新日期**: 2026-07-09
+- **更新日期**: 2026-07-10

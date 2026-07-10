@@ -3,35 +3,11 @@
   "company_name": "Nu Holdings Ltd.",
   "sector": "Financial Services",
   "industry": "Banks - Regional",
-  "upstream": [
-    "Visa",
-    "Mastercard",
-    "Stripe",
-    "Plaid",
-    "AWS"
-  ],
-  "downstream": [
-    "Retail consumers in Brazil, Mexico, Colombia",
-    "Small and medium enterprises (SMEs)",
-    "E‑commerce merchants",
-    "Digital wallet users",
-    "Corporate clients"
-  ],
-  "competitors": [
-    "Banco Inter",
-    "Banco do Brasil",
-    "Banco Bradesco",
-    "Banco Itaú",
-    "Banco Santander Brasil"
-  ],
-  "key_products": [
-    "Digital checking accounts",
-    "Credit cards",
-    "Personal loans",
-    "Payment processing services",
-    "Investment and savings products"
-  ],
-  "extracted_at": "2026-06-02 19:46:27",
+  "upstream": [],
+  "downstream": [],
+  "competitors": [],
+  "key_products": [],
+  "extracted_at": "2026-07-10 17:50:23",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +17,15 @@
     },
     {
       "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/fundamentals_glance.php?code=NU",
+      "query": "Nu Holdings Ltd. suppliers manufacturers",
+      "snippet": "Fundamental Analysis on Nu Holdings Ltd Key ratios, Comparisons to Miscellaneous Financial Services Industry, Financial Sector, S&P 500 - CSIMarket. N"
+    },
+    {
+      "source": "DuckDuckGo",
       "url": "https://finance.yahoo.com/quote/NU/",
       "query": "Nu Holdings Ltd. suppliers manufacturers",
       "snippet": "Find the latest Nu Holdings Ltd . ( NU ) stock quote, history, news and other vital information to help you with your stock trading and investing."
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/fundamentals_glance.php?code=NU",
-      "query": "Nu Holdings Ltd. suppliers manufacturers",
-      "snippet": "Fundamental Analysis on Nu Holdings Ltd Key ratios, Comparisons to Miscellaneous Financial Services Industry, Financial Sector, S&P 500 - CSIMarket."
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://international.nubank.com.br/company/nu-holdings-ltd-reports-third-quarter-2025-financial-results/",
-      "query": "Nu Holdings Ltd. major customers clients",
-      "snippet": "Nov 13, 2025 · São Paulo, Brazil, November 13, 2025 – Nu Holdings Ltd . (NYSE: NU ) (“ Nu ” or the “ Company ”), one of the largest digital financial "
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.fool.com/investing/2026/05/29/nu-holdings-more-customers-us-banks-real-question/",
-      "query": "Nu Holdings Ltd. major customers clients",
-      "snippet": "4 days ago · Nu Holdings Already Has More Customers Than Most U.S. Banks. The Real Question Is: What Can It Can Earn From Each One? The Latin American"
     }
   ]
 }

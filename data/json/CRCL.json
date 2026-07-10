@@ -2,42 +2,66 @@
   "ticker": "CRCL",
   "company_name": "Circle Internet Group, Inc.",
   "sector": "Financial Services / Capital Markets",
-  "industry": "Payments Technology",
+  "industry": "Payments Technology / Stablecoin",
   "upstream": [
-    "MSFT",
-    "Blockchain infrastructure and consensus networks",
-    "Payment processing networks (e.g., Visa, Mastercard)",
-    "Regulatory compliance and legal service firms",
-    "Financial data providers (e.g., Bloomberg, Thomson Reuters)"
+    "Ethereum blockchain",
+    "Algorand blockchain",
+    "Solana blockchain",
+    "Fiat currency reserves (bank partners)",
+    "Cloud infrastructure (AWS)"
   ],
   "downstream": [
-    "Cryptocurrency exchanges (e.g., Coinbase, Binance)",
-    "Fintech platforms (e.g., Stripe, Square)",
-    "Banks and financial institutions",
-    "Merchants and e‑commerce businesses",
-    "Institutional investors and asset managers"
+    "Binance",
+    "Coinbase",
+    "Kraken",
+    "PayPal",
+    "Stripe"
   ],
   "competitors": [
     "Coinbase",
-    "PayPal",
-    "Stripe",
-    "Square",
-    "Gemini"
+    "Gemini",
+    "Paxos",
+    "Binance USD (BUSD)",
+    "Tether (USDT)"
   ],
   "key_products": [
     "USDC stablecoin",
     "EURC stablecoin",
     "USYC tokenized money market fund",
-    "Circle Pay (payment app)",
-    "Circle Invest (investment platform)"
+    "Circle API",
+    "Circle Wallet"
   ],
-  "extracted_at": "2026-06-30 18:10:12",
+  "extracted_at": "2026-07-10 17:46:36",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Circle_Internet_Group",
       "title": "Circle Internet Group",
       "snippet": "Circle Internet Group, Inc. is a payments technology company. Founded by Jeremy Allaire and Sean Neville in 2013, it is currently headquartered in New York City and issues two types of stablecoin: USD"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://streetalpha.ru/news/aktsii-circle-internet-group-rukhnuli-na-2026-07-08",
+      "query": "Circle Internet Group suppliers manufacturers",
+      "snippet": "Восстановление и аналитические оценки. Акции Circle Internet Group (NYSE: CRCL) упали на 44,6% в июне 2026 года, по данным S&P Global Market Intellige"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.investors.com/research/circle-internet-group-stock-crcl-stablecoin-cathie-wood-arkk/",
+      "query": "Circle Internet Group suppliers manufacturers",
+      "snippet": "Circle Internet Group stock has shown some wild swings since its debut in early June. The company's revenue continues to climb."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.thestreet.com/crypto/markets/circle-stock-slips-amid-criminal-complaint-in-major-u-s-state",
+      "query": "Circle Internet Group major customers clients",
+      "snippet": "Circle Internet Group (NYSE: CRCL), the crypto company popular for its USDC stablecoin, is facing a criminal complaint in a U.S. state for allegedly r"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://intellectia.ai/news/monitor/circle-internet-group-engages-shareholders-ahead-of-earnings-call",
+      "query": "Circle Internet Group major customers clients",
+      "snippet": "Circle Internet Group Inc. shares rose 5.05% in pre-market trading, reaching a 5-day high. The company announced that it will utilize the Say platform"
     }
   ]
 }

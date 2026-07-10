@@ -3,11 +3,35 @@
   "company_name": "American Airlines Group Inc.",
   "sector": "Industrials",
   "industry": "Airlines",
-  "upstream": [],
-  "downstream": [],
-  "competitors": [],
-  "key_products": [],
-  "extracted_at": "2026-07-09 18:08:59",
+  "upstream": [
+    "Boeing",
+    "Airbus",
+    "CAT",
+    "Honeywell",
+    "United Technologies"
+  ],
+  "downstream": [
+    "Corporate travel agencies",
+    "Leisure travelers",
+    "Frequent flyers",
+    "Government agencies",
+    "International passengers"
+  ],
+  "competitors": [
+    "Delta Air Lines",
+    "United Airlines",
+    "Southwest Airlines",
+    "Alaska Airlines",
+    "JetBlue Airways"
+  ],
+  "key_products": [
+    "Passenger air transport",
+    "Cargo services",
+    "In‑flight entertainment",
+    "AAdvantage loyalty program",
+    "Maintenance & repair services"
+  ],
+  "extracted_at": "2026-07-10 17:53:40",
   "sources": [
     {
       "source": "Wikipedia",
@@ -17,15 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/AAL-Suppliers",
+      "url": "https://en.wikipedia.org/wiki/US_Airways_Group",
       "query": "American Airlines Group Inc. suppliers manufacturers",
-      "snippet": "2 days ago · American Airlines Group Inc recorded increase in cost of sales by 11.24 % year on year, sequentially cost of sales grew by 16.22 % in Q1."
+      "snippet": "US Airways Group Inc . was an airline holding company based in Tempe, Arizona.[2] US Airways Group operated US Airways , along with its subsidiaries P"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/AAL-Shares-vs-Suppliers",
+      "query": "American Airlines Group Inc. suppliers manufacturers",
+      "snippet": "American Airlines Group Inc 's Price to sales ratio PS. American Airlines Group Inc Cash Flow Statement. Suppliers ."
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.aa.com/i18n/customer-service/about-us/american-airlines-group.jsp",
-      "query": "American Airlines Group Inc. suppliers manufacturers",
-      "snippet": "Home About us American Airlines Group American Airlines Group Parent company of American Airlines Overview At American Airlines , our purpose is to ca"
+      "query": "American Airlines Group Inc. major customers clients",
+      "snippet": "In 2016, American Airlines Group Inc . topped Fortune magazine’s list of best business turnarounds, and its stock (NASDAQ: AAL) joined the S&P 500 ind"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://studycorgi.com/american-airlines-and-us-airways-merger/",
+      "query": "American Airlines Group Inc. major customers clients",
+      "snippet": "The American Airline Group Inc . has increased market share, and improved competencies, including financial, managerial, and technological that have r"
     }
   ]
 }

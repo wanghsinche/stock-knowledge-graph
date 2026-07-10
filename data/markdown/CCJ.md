@@ -3,8 +3,8 @@ ticker: CCJ
 company: Cameco Corporation
 sector: Energy
 industry: Uranium
-extracted_at: 2026-07-09 18:14:52
-last_updated: 2026-07-09
+extracted_at: 2026-07-10 17:58:07
+last_updated: 2026-07-10
 ---
 
 # CCJ - Cameco Corporation
@@ -12,46 +12,46 @@ last_updated: 2026-07-09
 ## 基本信息
 
 - **所属行业**: Energy / Uranium
-- **提取时间**: 2026-07-09 18:14:52
+- **提取时间**: 2026-07-10 17:58:07
 
 ## 产业链关系
 
 ### 上游供应商
-- [[CAT]]
-- [[Komatsu Ltd.]]
-- [[Hitachi Construction Machinery]]
-- [[Wolfspeed Inc.]]
-- [[HPQ]]
+- [[Uranium ore suppliers]]
+- [[Mining equipment manufacturers]]
+- [[Fuel processing service providers]]
+- [[Exploration and drilling contractors]]
+- [[Geological survey firms]]
 
 ### 下游客户
-- [[Ontario Power Generation]]
-- [[Canadian Nuclear Laboratories]]
-- [[China National Nuclear Corporation]]
-- [[Rosatom]]
-- [[U.S. Department of Energy]]
+- [[Nuclear power plant operators]]
+- [[Electric utility companies]]
+- [[Government nuclear agencies]]
+- [[CAT]]
+- [[International energy corporations]]
 
 ### 竞争对手
-- [[NexGen Energy Ltd.]]
-- [[Kazakhmys Corporation]]
-- [[Uranium Energy Corp.]]
-- [[Uranium One Ltd.]]
-- [[Orano (formerly Areva)]]
+- [[Kazatomprom]]
+- [[Orano]]
+- [[Uranium Energy Corp]]
+- [[Uranium One]]
+- [[NexGen Energy]]
 
 ### 核心产品
-- [[Uranium ore]]
-- [[Uranium dioxide (UO2)]]
-- [[Enriched uranium fuel]]
+- [[Uranium concentrate (U3O8)]]
 - [[Uranium hexafluoride (UF6)]]
-- [[Uranium metal]]
+- [[Enriched uranium fuel]]
+- [[Fuel assemblies]]
+- [[Uranium processing services]]
 
 ## 数据来源
 
 - [Cameco](https://en.wikipedia.org/wiki/Cameco_Corporation)
-- [Cameco Corporation suppliers manufacturers](https://csimarket.com/stocks/CCJ-Suppliers)
-- [Cameco Corporation suppliers manufacturers](https://www.cameco.com/invest/overview)
-- [Cameco Corporation major customers clients](https://www.cameco.com/invest/markets/cameco-customers)
-- [Cameco Corporation major customers clients](https://csimarket.com/stocks/CCJ-Customers)
+- [Cameco Corporation suppliers manufacturers](https://www.cameco.com/)
+- [Cameco Corporation suppliers manufacturers](https://grokipedia.com/page/Cameco)
+- [Cameco Corporation major customers clients](https://www.cameco.com/)
+- [Cameco Corporation major customers clients](https://www.webull.com/releases/nyse-ccj?index=0&typeIds=)
 
 ## 元数据
 
-- **更新日期**: 2026-07-09
+- **更新日期**: 2026-07-10

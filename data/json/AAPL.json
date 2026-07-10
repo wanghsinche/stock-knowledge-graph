@@ -4,34 +4,34 @@
   "sector": "Technology",
   "industry": "Consumer Electronics",
   "upstream": [
-    "TSM",
+    "Foxconn (Hon Hai Precision)",
+    "Pegatron",
+    "Wistron",
     "005930.KS",
-    "Foxconn (Hon Hai)",
-    "LG Display",
-    "AVGO"
+    "TSM"
   ],
   "downstream": [
-    "iPhone",
-    "IBM",
-    "iPad",
+    "iPhone users",
+    "iPad users",
+    "Mac users",
     "AAPL",
     "AAPL"
   ],
   "competitors": [
     "005930.KS",
-    "GOOGL",
     "MSFT",
-    "AMZN",
-    "SONY"
+    "GOOGL",
+    "SONY",
+    "Xiaomi"
   ],
   "key_products": [
     "iPhone",
-    "Mac",
     "iPad",
+    "MacBook",
     "Apple Watch",
-    "AirPods"
+    "Apple TV"
   ],
-  "extracted_at": "2026-07-09 17:50:15",
+  "extracted_at": "2026-07-10 17:43:12",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,25 +43,25 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/List_of_Apple_Inc._suppliers",
       "query": "Apple Inc. suppliers manufacturers",
-      "snippet": "By 2021, Apple's supplier list had more companies from China than Taiwan. [1]: 337 [4][5] But due to tariffs, labor costs, and the 2022 Shanghai lockd"
+      "snippet": "Apple is an American technology company with a global supply chain. Until 2003, Apple 's own factories in the United States, Singapore, and Ireland we"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.apple.com/supply-chain/",
+      "url": "https://csimarket.com/stocks/suppliers_glance.php?code=AAPL",
       "query": "Apple Inc. suppliers manufacturers",
-      "snippet": "Business should be a force for good. Apple supports people and communities in our global supply chain, and works to protect the planet we all share."
+      "snippet": "Apple Inc supply chain, list and performance of Apple Incs ' suppliers - CSIMarket."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/AAPL-Customers",
+      "url": "https://www.apple.com/",
       "query": "Apple Inc. major customers clients",
-      "snippet": "2 days ago · Apple Inc 's Comment on Sales, Marketing and Customers The Company’s customers are primarily in the consumer, SMB, education, enterprise "
+      "snippet": "Discover the innovative world of Apple and shop everything iPhone, iPad, Apple Watch, Mac, and Apple TV, plus explore accessories, entertainment, and "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.appsruntheworld.com/customers-database/vendors/view/apple",
+      "url": "https://247wallst.com/special-report/2012/04/30/american-companies-with-the-most-customers/",
       "query": "Apple Inc. major customers clients",
-      "snippet": "List of companies using or evaluating Apple applications, with details on their revenues, employees, industries, and locations."
+      "snippet": "2. iTunes > Customers : 225 million > Industry: e-commerce > Parent company: Apple Inc . > Major competitors: Amazon.com (NASDAQ: AMZN), eBay (NASDAQ:"
     }
   ]
 }

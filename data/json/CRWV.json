@@ -1,37 +1,37 @@
 {
   "ticker": "CRWV",
   "company_name": "CoreWeave, Inc.",
-  "sector": "Technology / Software - Infrastructure",
-  "industry": "AI Cloud Computing",
+  "sector": "Technology",
+  "industry": "Software - Infrastructure",
   "upstream": [
     "NVDA",
     "AMD",
     "INTC",
-    "DELL",
-    "HPQ"
+    "QCOM",
+    "005930.KS"
   ],
   "downstream": [
     "OpenAI",
-    "DeepMind",
-    "TSLA",
-    "Waymo",
-    "NVDA"
+    "MSFT",
+    "GOOGL",
+    "AMZN",
+    "IBM"
   ],
   "competitors": [
     "NVDA",
     "GOOGL",
-    "AMZN",
+    "AWS",
     "MSFT",
     "IBM"
   ],
   "key_products": [
-    "GPU Compute Instances",
-    "GPU Virtualization",
-    "AI Training Platform",
-    "GPU Management Software",
-    "Cloud-based GPU Infrastructure"
+    "GPU cloud infrastructure",
+    "AI cloud services",
+    "chip management software",
+    "GPU virtualization",
+    "AI training services"
   ],
-  "extracted_at": "2026-07-09 18:04:49",
+  "extracted_at": "2026-07-10 17:54:53",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,25 +43,25 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/CoreWeave",
       "query": "CoreWeave, Inc. suppliers manufacturers",
-      "snippet": "CoreWeave , Inc . is an American artificial intelligence (AI) cloud-computing company based in Livingston, New Jersey. It specializes in providing clo"
+      "snippet": "CoreWeave , Inc . is an American artificial intelligence cloud-computing company based in Livingston, New Jersey."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.coreweave.com/",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/coreweave-inc-crwv-down-nearly-094727562.html",
       "query": "CoreWeave, Inc. suppliers manufacturers",
-      "snippet": "CoreWeave Cloud is an AI-native platform purpose-built for AI. It combines next-generation infrastructure, intelligent tools, and expert support to po"
+      "snippet": "CoreWeave Inc . (NASDAQ:CRWV) is another stock that Jim Cramer has stuck by despite the weak performance. Being one of the biggest proponents of the A"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.appsruntheworld.com/customers-database/products/view/coreweave-compute-services",
+      "url": "https://en.wikipedia.org/wiki/CoreWeave",
       "query": "CoreWeave, Inc. major customers clients",
-      "snippet": "The CoreWeave Compute Services customer wins are being incorporated in our Enterprise Applications Buyer Insight and Technographics Customer Database "
+      "snippet": "CoreWeave , Inc . is an American artificial intelligence cloud-computing company based in Livingston, New Jersey. It specializes in providing cloud-ba"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.coreweave.com/case-studies",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/coreweave-inc-crwv-down-nearly-094727562.html",
       "query": "CoreWeave, Inc. major customers clients",
-      "snippet": "Customer stories Where Customers Become Pioneers Discover how CoreWeave customers transform ambition into achievement. These pioneers are shaping the "
+      "snippet": "On May 8th, CoreWeave Inc . (NASDAQ:CRWV)'s shares closed 11% lower after the firm reported its fourth quarter earnings. The results saw it post $2.08"
     }
   ]
 }

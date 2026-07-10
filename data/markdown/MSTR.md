@@ -3,8 +3,8 @@ ticker: MSTR
 company: Strategy Inc
 sector: Technology
 industry: Software - Application
-extracted_at: 2026-07-08 17:37:13
-last_updated: 2026-07-08
+extracted_at: 2026-07-10 17:50:41
+last_updated: 2026-07-10
 ---
 
 # MSTR - Strategy Inc
@@ -12,7 +12,7 @@ last_updated: 2026-07-08
 ## 基本信息
 
 - **所属行业**: Technology / Software - Application
-- **提取时间**: 2026-07-08 17:37:13
+- **提取时间**: 2026-07-10 17:50:41
 
 ## 产业链关系
 
@@ -21,14 +21,14 @@ last_updated: 2026-07-08
 - [[AMZN]]
 - [[GOOGL]]
 - [[ORCL]]
-- [[SAP Cloud Platform]]
+- [[SAP Cloud]]
 
 ### 下游客户
-- [[Walmart]]
-- [[JPMorgan Chase]]
-- [[Bank of America]]
-- [[AT&T]]
-- [[CAT]]
+- [[Financial institutions]]
+- [[Retail companies]]
+- [[Healthcare organizations]]
+- [[Government agencies]]
+- [[Manufacturing firms]]
 
 ### 竞争对手
 - [[SAP SE Business Objects]]
@@ -38,20 +38,20 @@ last_updated: 2026-07-08
 - [[Tableau Software]]
 
 ### 核心产品
-- [[MicroStrategy Analytics]]
+- [[MicroStrategy Desktop]]
+- [[MicroStrategy Web]]
 - [[MicroStrategy Mobile]]
+- [[MicroStrategy Analytics]]
 - [[MicroStrategy Cloud]]
-- [[MicroStrategy Data Warehouse]]
-- [[MicroStrategy Dashboard]]
 
 ## 数据来源
 
 - [MicroStrategy](https://en.wikipedia.org/wiki/Strategy_Inc)
-- [Strategy Inc suppliers manufacturers](https://www.strategy.com/press/strategy-announces-legal-name-change-from-microstrategy-incorporated-to-strategy-inc_08-14-2025)
-- [Strategy Inc suppliers manufacturers](https://software.strategy.com/company/contact-us)
+- [Strategy Inc suppliers manufacturers](https://finance.yahoo.com/quote/MSTR/)
+- [Strategy Inc suppliers manufacturers](https://csimarket.com/stocks/STRF-Officers-Directors.html)
 - [Strategy Inc major customers clients](https://en.wikipedia.org/wiki/MicroStrategy)
-- [Strategy Inc major customers clients](https://www.featuredcustomers.com/vendor/strategy)
+- [Strategy Inc major customers clients](https://finance.yahoo.com/quote/MSTR/)
 
 ## 元数据
 
-- **更新日期**: 2026-07-08
+- **更新日期**: 2026-07-10

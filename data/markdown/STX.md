@@ -3,8 +3,8 @@ ticker: STX
 company: Seagate Technology Holdings plc
 sector: Technology
 industry: Computer Hardware
-extracted_at: 2026-07-09 17:56:02
-last_updated: 2026-07-09
+extracted_at: 2026-07-10 17:47:03
+last_updated: 2026-07-10
 ---
 
 # STX - Seagate Technology Holdings plc
@@ -12,46 +12,46 @@ last_updated: 2026-07-09
 ## 基本信息
 
 - **所属行业**: Technology / Computer Hardware
-- **提取时间**: 2026-07-09 17:56:02
+- **提取时间**: 2026-07-10 17:47:03
 
 ## 产业链关系
 
 ### 上游供应商
+- [[MU]]
 - [[005930.KS]]
 - [[SK Hynix]]
-- [[MU]]
+- [[WDC]]
 - [[Toshiba]]
-- [[SONY]]
 
 ### 下游客户
+- [[AAPL]]
+- [[DELL]]
+- [[HPQ]]
+- [[Lenovo Group]]
 - [[AMZN]]
-- [[MSFT]]
-- [[GOOGL]]
-- [[Alibaba Cloud]]
-- [[IBM]]
 
 ### 竞争对手
 - [[WDC]]
 - [[Toshiba]]
-- [[005930.KS]]
+- [[DELL]]
 - [[IBM]]
-- [[MU]]
+- [[NetApp]]
 
 ### 核心产品
 - [[Hard Disk Drives (HDD)]]
 - [[Solid State Drives (SSD)]]
-- [[Enterprise Storage Solutions]]
-- [[Data Storage Systems]]
-- [[Enterprise Disk Drives]]
+- [[Enterprise Storage Systems]]
+- [[Cloud Storage Solutions]]
+- [[Data Management Software]]
 
 ## 数据来源
 
 - 
-- [Seagate Technology Holdings plc suppliers manufacturers](https://en.wikipedia.org/wiki/Seagate_Technology)
-- [Seagate Technology Holdings plc suppliers manufacturers](https://csimarket.com/stocks/STX-Suppliers)
-- [Seagate Technology Holdings plc major customers clients](https://en.wikipedia.org/wiki/Seagate_Technology)
-- [Seagate Technology Holdings plc major customers clients](https://csimarket.com/stocks/STX-Customers)
+- [Seagate Technology Holdings plc suppliers manufacturers](https://www.seagate.com/)
+- [Seagate Technology Holdings plc suppliers manufacturers](https://finance.yahoo.com/markets/stocks/articles/melius-research-starts-coverage-seagate-184935923.html)
+- [Seagate Technology Holdings plc major customers clients](http://www.seagate.com/)
+- [Seagate Technology Holdings plc major customers clients](https://www.insidermonkey.com/blog/bofa-reaffirms-buy-rating-for-seagate-technology-holdings-stx-1796200/)
 
 ## 元数据
 
-- **更新日期**: 2026-07-09
+- **更新日期**: 2026-07-10

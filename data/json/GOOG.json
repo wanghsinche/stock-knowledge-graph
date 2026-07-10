@@ -4,39 +4,34 @@
   "sector": "Communication Services",
   "industry": "Internet Content & Information",
   "upstream": [
-    "INTC",
-    "005930.KS",
-    "QCOM",
     "TSM",
-    "NVDA"
+    "005930.KS",
+    "INTC",
+    "NVDA",
+    "QCOM"
   ],
   "downstream": [
-    "GOOGL",
-    "005930.KS",
+    "Advertisers",
+    "Android device manufacturers",
     "YouTube content creators",
     "GOOGL",
-    "GOOGL"
+    "App developers"
   ],
   "competitors": [
     "MSFT",
     "AMZN",
-    "AAPL",
     "META",
+    "AAPL",
     "Tencent"
   ],
   "key_products": [
     "Google Search",
-    "Android OS",
     "YouTube",
-    "Google Cloud Platform",
-    "Google Workspace",
-    "Google Ads",
-    "Google Maps",
-    "Google Chrome",
-    "Google Assistant",
-    "Google Pixel devices"
+    "Google Cloud",
+    "Android OS",
+    "Google Ads"
   ],
-  "extracted_at": "2026-07-09 17:54:41",
+  "extracted_at": "2026-07-10 17:45:49",
   "sources": [
     {
       "source": "Wikipedia",
@@ -46,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/GOOG-Suppliers",
+      "url": "https://en.wikipedia.org/wiki/Alphabet_Inc.",
       "query": "Alphabet Inc. suppliers manufacturers",
-      "snippet": "2 days ago · Alphabet Inc 's Comment on Supply Chain We rely on third parties to manufacture many of our assemblies and finished products, and we have"
+      "snippet": "Alphabet Inc . is an American multinational technology conglomerate holding company headquartered in Mountain View, California. It was created through"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://evidinvest.com/supply-chain/GOOGL",
+      "url": "https://ru.wikipedia.org/wiki/Alphabet",
       "query": "Alphabet Inc. suppliers manufacturers",
-      "snippet": "Who supplies Alphabet (Google) and who buys from it? Mapped suppliers , customers, partners, and competitors of GOOGL, every relationship anchored to "
+      "snippet": "Alphabet Inc . — холдинговая компания, управляющая компанией Google Inc и её дочерними структурами, а также рядом стартапов. Штаб-квартира расположена"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Alphabet_Inc.",
       "query": "Alphabet Inc. major customers clients",
-      "snippet": "The establishment of Alphabet Inc . was prompted by a desire to make the core Google business \"cleaner and more accountable\" while allowing greater au"
+      "snippet": "Alphabet Inc . is an American multinational technology conglomerate holding company headquartered in Mountain View, California. It was created through"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/GOOG-Customers",
+      "url": "https://pitchgrade.com/companies/alphabet-inc-class-a",
       "query": "Alphabet Inc. major customers clients",
-      "snippet": "Jun 22, 2026 · Alphabet Inc customers and markets, results by customer and performance relative to GOOG, by company and industry - CSIMarket"
+      "snippet": "Customer Segments: Alphabet Inc . (Class A) serves multiple distinct customer segments, which may include consumers, small and medium businesses, ente"
     }
   ]
 }

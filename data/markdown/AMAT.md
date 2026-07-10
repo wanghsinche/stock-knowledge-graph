@@ -3,8 +3,8 @@ ticker: AMAT
 company: Applied Materials, Inc.
 sector: Technology
 industry: Semiconductor Equipment & Materials
-extracted_at: 2026-07-09 17:52:53
-last_updated: 2026-07-09
+extracted_at: 2026-07-10 17:47:45
+last_updated: 2026-07-10
 ---
 
 # AMAT - Applied Materials, Inc.
@@ -12,46 +12,45 @@ last_updated: 2026-07-09
 ## 基本信息
 
 - **所属行业**: Technology / Semiconductor Equipment & Materials
-- **提取时间**: 2026-07-09 17:52:53
+- **提取时间**: 2026-07-10 17:47:45
 
 ## 产业链关系
 
 ### 上游供应商
-- [[BASF (chemicals and gases)]]
-- [[Air Liquide (industrial gases)]]
-- [[Lumentum (precision optics)]]
-- [[TXN]]
-- [[MSFT]]
+- [[Air Liquide]]
+- [[Linde]]
+- [[BASF]]
+- [[Dow Chemical]]
+- [[Sumitomo Chemical]]
 
 ### 下游客户
-- [[TSM]]
-- [[005930.KS]]
 - [[INTC]]
+- [[005930.KS]]
+- [[TSM]]
 - [[MU]]
-- [[GlobalFoundries]]
+- [[SK Hynix]]
 
 ### 竞争对手
 - [[ASML]]
 - [[LRCX]]
-- [[KLA Corporation]]
 - [[Tokyo Electron]]
-- [[AMAT]]
+- [[KLA Corporation]]
 
 ### 核心产品
-- [[Lithography equipment]]
-- [[Etch equipment]]
 - [[Deposition equipment]]
-- [[Inspection and metrology tools]]
-- [[Software and services for semiconductor manufacturing]]
+- [[Etching equipment]]
+- [[Lithography systems]]
+- [[Inspection & metrology tools]]
+- [[Packaging equipment]]
 
 ## 数据来源
 
 - [Applied Materials](https://en.wikipedia.org/wiki/Applied_Materials,_Inc.)
-- [Applied Materials, Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/Applied_Materials)
-- [Applied Materials, Inc. suppliers manufacturers](https://csimarket.com/stocks/AMAT-Suppliers)
-- [Applied Materials, Inc. major customers clients](https://en.wikipedia.org/wiki/Applied_Materials)
-- [Applied Materials, Inc. major customers clients](https://csimarket.com/stocks/AMAT-Customers)
+- [Applied Materials, Inc. suppliers manufacturers](https://www.appliedmaterials.com/us/en.html)
+- [Applied Materials, Inc. suppliers manufacturers](https://www.lbank.info/stock/amat)
+- [Applied Materials, Inc. major customers clients](https://www.appliedmaterials.com/us/en.html)
+- [Applied Materials, Inc. major customers clients](https://247wallst.com/investing/2026/07/07/intel-and-applied-materials-dive-10-amd-craters-8-as-samsung-earnings-trigger-chip-selloff/)
 
 ## 元数据
 
-- **更新日期**: 2026-07-09
+- **更新日期**: 2026-07-10
