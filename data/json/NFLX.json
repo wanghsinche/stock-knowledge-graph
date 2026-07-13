@@ -4,18 +4,18 @@
   "sector": "Communication Services",
   "industry": "Entertainment",
   "upstream": [
-    "Warner Bros. Studios",
-    "Universal Studios",
+    "AMZN",
+    "Akamai Technologies",
     "SONY",
-    "Paramount Pictures",
-    "NFLX"
+    "Warner Bros. Studios",
+    "Universal Studios"
   ],
   "downstream": [
-    "US subscribers",
-    "International subscribers",
+    "Global households",
     "Corporate accounts",
-    "CAT",
-    "Family households"
+    "Smart TV users",
+    "Mobile subscribers",
+    "International markets"
   ],
   "competitors": [
     "Disney+",
@@ -27,11 +27,11 @@
   "key_products": [
     "Netflix streaming service",
     "Netflix Originals",
-    "Documentaries",
-    "Kids & Family content",
-    "Movies"
+    "Mobile app",
+    "Smart TV app",
+    "Web player"
   ],
-  "extracted_at": "2026-07-10 17:47:18",
+  "extracted_at": "2026-07-13 17:53:11",
   "sources": [
     {
       "source": "Wikipedia",
@@ -53,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.fool.com/investing/general/2014/05/25/netflix-is-becoming-very-dominant.aspx",
+      "url": "https://www.researchandmarkets.com/reports/5005636/netflix-inc-company-profile-and-swot-analysis",
       "query": "Netflix, Inc. major customers clients",
-      "snippet": "Netflix is increasingly seeing its share of total usage rise. Netflix has a much longer runway of growth than its Internet TV rivals such as Amazon.co"
+      "snippet": "Assess Netflix Inc . as a prospective partner, vendor or supplier. Support sales activities by understanding your customers ' businesses better. Stay "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.marketresearch.com/GlobalData-v3648/Netflix-NFLX-Financial-Strategic-SWOT-45074809/",
+      "url": "https://about.netflix.com/en",
       "query": "Netflix, Inc. major customers clients",
-      "snippet": "Netflix Inc ( Netflix ) is a subscription-based entertainment service provider. The company offers TV shows and movies including original series, docu"
+      "snippet": "We are here to entertain the world, one fan at a time. Thrilling everyone again and again. Whatever you’re into, whatever your mood, Netflix delivers "
     }
   ]
 }

@@ -3,8 +3,8 @@ ticker: MU
 company: Micron Technology, Inc.
 sector: Technology
 industry: Semiconductors
-extracted_at: 2026-07-10 17:40:43
-last_updated: 2026-07-10
+extracted_at: 2026-07-13 17:48:01
+last_updated: 2026-07-13
 ---
 
 # MU - Micron Technology, Inc.
@@ -12,7 +12,7 @@ last_updated: 2026-07-10
 ## 基本信息
 
 - **所属行业**: Technology / Semiconductors
-- **提取时间**: 2026-07-10 17:40:43
+- **提取时间**: 2026-07-13 17:48:01
 
 ## 产业链关系
 
@@ -25,33 +25,33 @@ last_updated: 2026-07-10
 
 ### 下游客户
 - [[AAPL]]
+- [[005930.KS]]
 - [[DELL]]
 - [[HPQ]]
-- [[Lenovo]]
-- [[AMZN]]
+- [[MSFT]]
 
 ### 竞争对手
 - [[005930.KS]]
 - [[SK Hynix]]
 - [[WDC]]
-- [[STX]]
-- [[Nanya Technology]]
+- [[INTC]]
+- [[Toshiba]]
 
 ### 核心产品
-- [[Dynamic Random-Access Memory (DRAM)]]
-- [[NAND Flash Memory]]
+- [[DRAM]]
+- [[NAND flash memory]]
 - [[High Bandwidth Memory (HBM)]]
-- [[Solid-State Drives (SSDs)]]
-- [[Memory Modules]]
+- [[Solid-state drives (SSDs)]]
+- [[Memory modules]]
 
 ## 数据来源
 
 - [Micron Technology](https://en.wikipedia.org/wiki/Micron_Technology,_Inc.)
-- [Micron Technology, Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/Micron_Technology)
-- [Micron Technology, Inc. suppliers manufacturers](https://www.micron.com/about/company/suppliers)
+- [Micron Technology, Inc. suppliers manufacturers](https://www.micron.com/)
+- [Micron Technology, Inc. suppliers manufacturers](https://finance.yahoo.com/quote/MU/)
 - [Micron Technology, Inc. major customers clients](https://www.micron.com/)
 - [Micron Technology, Inc. major customers clients](https://finance.yahoo.com/quote/MU/)
 
 ## 元数据
 
-- **更新日期**: 2026-07-10
+- **更新日期**: 2026-07-13

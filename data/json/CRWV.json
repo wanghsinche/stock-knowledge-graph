@@ -1,37 +1,37 @@
 {
   "ticker": "CRWV",
   "company_name": "CoreWeave, Inc.",
-  "sector": "Technology",
-  "industry": "Software - Infrastructure",
+  "sector": "Technology / Software - Infrastructure",
+  "industry": "Cloud Computing / AI Infrastructure",
   "upstream": [
     "NVDA",
     "AMD",
     "INTC",
-    "QCOM",
-    "005930.KS"
+    "DELL",
+    "Hewlett‑Packard Enterprise"
   ],
   "downstream": [
     "OpenAI",
+    "Anthropic",
     "MSFT",
     "GOOGL",
-    "AMZN",
-    "IBM"
+    "ADBE"
   ],
   "competitors": [
-    "NVDA",
-    "GOOGL",
-    "AWS",
+    "AMZN",
     "MSFT",
-    "IBM"
+    "GOOGL",
+    "NVDA",
+    "Paperspace"
   ],
   "key_products": [
-    "GPU cloud infrastructure",
-    "AI cloud services",
-    "chip management software",
-    "GPU virtualization",
-    "AI training services"
+    "GPU‑based AI cloud infrastructure",
+    "Custom GPU cluster provisioning",
+    "GPU virtualization services",
+    "AI training and inference workloads",
+    "Chip‑management software"
   ],
-  "extracted_at": "2026-07-10 17:54:53",
+  "extracted_at": "2026-07-13 18:00:25",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,9 +47,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/coreweave-inc-crwv-down-nearly-094727562.html",
+      "url": "https://www.techtimes.com/articles/320239/20260712/nvidia-circular-financing-249b-coreweave-debt-puts-pension-funds-risk.htm",
       "query": "CoreWeave, Inc. suppliers manufacturers",
-      "snippet": "CoreWeave Inc . (NASDAQ:CRWV) is another stock that Jim Cramer has stuck by despite the weak performance. Being one of the biggest proponents of the A"
+      "snippet": "Nvidia circular financing moved AI infrastructure debt into pension portfolios: CoreWeave ’s $8.5B DDTL 4.0, rated A3 by Moody’s in March 2026, was th"
     },
     {
       "source": "DuckDuckGo",
@@ -59,9 +59,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/coreweave-inc-crwv-down-nearly-094727562.html",
+      "url": "https://247wallst.com/investing/2026/07/09/down-40-coreweave-is-being-left-behind-by-the-market/",
       "query": "CoreWeave, Inc. major customers clients",
-      "snippet": "On May 8th, CoreWeave Inc . (NASDAQ:CRWV)'s shares closed 11% lower after the firm reported its fourth quarter earnings. The results saw it post $2.08"
+      "snippet": "CoreWeave (NASDAQ:CRWV) has fallen 40.57% over the past year, even as Nebius Group (NASDAQ:NBIS | NBIS Price Prediction) has surged 359.62% and IREN ("
     }
   ]
 }

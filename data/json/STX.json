@@ -1,37 +1,37 @@
 {
   "ticker": "STX",
   "company_name": "Seagate Technology Holdings plc",
-  "sector": "Technology",
-  "industry": "Computer Hardware",
+  "sector": "Technology / Computer Hardware",
+  "industry": "Storage Solutions / Hard Disk Drives",
   "upstream": [
-    "MU",
     "005930.KS",
-    "SK Hynix",
-    "WDC",
-    "Toshiba"
+    "Magnetic media manufacturers (e.g., Toshiba)",
+    "TXN",
+    "Firmware development partners",
+    "Packaging and assembly suppliers"
   ],
   "downstream": [
-    "AAPL",
     "DELL",
     "HPQ",
     "Lenovo Group",
-    "AMZN"
+    "AAPL",
+    "MSFT"
   ],
   "competitors": [
     "WDC",
-    "Toshiba",
-    "DELL",
-    "IBM",
-    "NetApp"
+    "Toshiba Corporation",
+    "005930.KS",
+    "MU",
+    "IBM"
   ],
   "key_products": [
-    "Hard Disk Drives (HDD)",
-    "Solid State Drives (SSD)",
-    "Enterprise Storage Systems",
-    "Cloud Storage Solutions",
-    "Data Management Software"
+    "Seagate Barracuda HDD",
+    "Seagate IronWolf HDD",
+    "Seagate SkyHawk HDD",
+    "Seagate FireCuda SSD",
+    "Seagate Exos Enterprise HDD"
   ],
-  "extracted_at": "2026-07-10 17:47:03",
+  "extracted_at": "2026-07-13 17:52:01",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,21 +47,21 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/melius-research-starts-coverage-seagate-184935923.html",
+      "url": "https://www.linkedin.com/company/seagate-technology",
       "query": "Seagate Technology Holdings plc suppliers manufacturers",
-      "snippet": "Seagate Technology Holdings plc (NASDAQ:STX) operates as a holding company. It is engaged in the development, production, and distribution of data sto"
+      "snippet": "Seagate Technology . Computer Hardware Manufacturing . Fremont, CA 302,952 followers. Unleash your data’s value with storage that keeps AI running 24/"
     },
     {
       "source": "DuckDuckGo",
-      "url": "http://www.seagate.com/",
+      "url": "https://www.seagate.com/",
       "query": "Seagate Technology Holdings plc major customers clients",
-      "snippet": "Seagate Technology Holdings Plc ."
+      "snippet": "Seagate Technology Holdings PLC ."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.insidermonkey.com/blog/bofa-reaffirms-buy-rating-for-seagate-technology-holdings-stx-1796200/",
+      "url": "https://www.fool.com/investing/2022/07/26/is-seagate-technology-stock-a-buy-now/",
       "query": "Seagate Technology Holdings plc major customers clients",
-      "snippet": "Seagate Technology Holdings plc (NASDAQ:STX) offers data storage technology and infrastructure solutions. Its product line includes mass capacity stor"
+      "snippet": "Seagate Technology Holdings plc . Seagate 's revenue rose 9% to $11.7 billion in fiscal 2022 as more data center and cloud customers expanded their st"
     }
   ]
 }

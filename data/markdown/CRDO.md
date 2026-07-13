@@ -1,57 +1,57 @@
 ---
 ticker: CRDO
 company: Credo Technology Group Holding Ltd
-sector: Technology
-industry: Semiconductors
-extracted_at: 2026-07-09 18:11:21
-last_updated: 2026-07-09
+sector: Technology / Semiconductors
+industry: Semiconductor Equipment & Solutions
+extracted_at: 2026-07-13 18:00:51
+last_updated: 2026-07-13
 ---
 
 # CRDO - Credo Technology Group Holding Ltd
 
 ## 基本信息
 
-- **所属行业**: Technology / Semiconductors
-- **提取时间**: 2026-07-09 18:11:21
+- **所属行业**: Technology / Semiconductors / Semiconductor Equipment & Solutions
+- **提取时间**: 2026-07-13 18:00:51
 
 ## 产业链关系
 
 ### 上游供应商
-- [[ASML]]
-- [[AMAT]]
-- [[LRCX]]
-- [[Tokyo Electron]]
-- [[KLA]]
+- [[TSM]]
+- [[Raw Material Suppliers (e.g., silicon wafer suppliers)]]
+- [[Component Manufacturers (e.g., memory chip makers)]]
+- [[Electronic Design Automation (EDA) Tool Providers]]
+- [[Testing & Measurement Equipment Suppliers]]
 
 ### 下游客户
-- [[AMZN]]
-- [[MSFT]]
-- [[GOOGL]]
-- [[Alibaba Cloud]]
-- [[Tencent Cloud]]
+- [[AI Hardware Manufacturers]]
+- [[Data Center Infrastructure Providers]]
+- [[HPQ]]
+- [[CAT]]
+- [[Cloud Service Providers]]
 
 ### 竞争对手
-- [[TSM]]
-- [[005930.KS]]
-- [[UMC]]
-- [[SMIC]]
-- [[GlobalFoundries]]
+- [[AVGO]]
+- [[MRVL]]
+- [[Cypress Semiconductor (Infineon)]]
+- [[NXP Semiconductors]]
+- [[TXN]]
 
 ### 核心产品
-- [[Advanced semiconductor manufacturing services]]
-- [[28nm, 14nm, 7nm, 5nm, 3nm process nodes]]
-- [[Advanced packaging solutions]]
-- [[Semiconductor design and IP services]]
-- [[Foundry services for AI and high-performance computing]]
+- [[High-speed interconnect solutions]]
+- [[High-bandwidth memory (HBM) interfaces]]
+- [[PCIe switches]]
+- [[NVMe controllers]]
+- [[AI acceleration interconnects]]
 
 ## 数据来源
 
 - 
-- [Credo Technology Group Holding Ltd suppliers manufacturers](https://csimarket.com/stocks/CRDO-Suppliers)
-- [Credo Technology Group Holding Ltd suppliers manufacturers](https://evidinvest.com/supply-chain/CRDO)
-- [Credo Technology Group Holding Ltd major customers clients](https://csimarket.com/stocks/CRDO-Customers)
-- [Credo Technology Group Holding Ltd major customers clients](https://xueqiu.com/7367587733/350203491)
+- [Credo Technology Group Holding Ltd suppliers manufacturers](https://csimarket.com/stocks/news.php?code=CRDO&date=2023-06-24142518)
+- [Credo Technology Group Holding Ltd suppliers manufacturers](https://www.fool.com/earnings/call-transcripts/2026/03/02/credo-tech-crdo-q3-2026-earnings-call-transcript/)
+- [Credo Technology Group Holding Ltd major customers clients](https://finance.yahoo.com/quote/CRDO/)
+- [Credo Technology Group Holding Ltd major customers clients](https://credosemi.com/)
 
 ## 元数据
 
-- **更新日期**: 2026-07-09
+- **更新日期**: 2026-07-13

@@ -4,34 +4,34 @@
   "sector": "Consumer Cyclical",
   "industry": "Auto Manufacturers",
   "upstream": [
-    "CAT",
-    "LG Energy Solution",
+    "LG Chem",
     "Panasonic",
-    "005930.KS",
-    "BYD"
+    "CAT",
+    "Bosch",
+    "Denso"
   ],
   "downstream": [
     "Individual consumers",
-    "Fleet operators",
-    "Government agencies",
-    "Commercial customers",
-    "Energy storage customers"
+    "Commercial fleet operators",
+    "Residential solar customers",
+    "Utility companies",
+    "Government agencies"
   ],
   "competitors": [
     "Ford",
     "General Motors",
-    "Rivian",
-    "Lucid Motors",
-    "NIO"
+    "Volkswagen",
+    "Hyundai",
+    "Nissan"
   ],
   "key_products": [
-    "Model 3",
     "Model S",
+    "Model 3",
     "Model X",
     "Model Y",
-    "Cybertruck"
+    "Powerwall"
   ],
-  "extracted_at": "2026-07-10 17:41:58",
+  "extracted_at": "2026-07-13 17:48:36",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,13 +43,13 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Tesla,_Inc.",
       "query": "Tesla, Inc. suppliers manufacturers",
-      "snippet": "Tesla purchases these batteries from three suppliers , CATL, LG Energy Solution, and Panasonic, the latter of which has co-located some of its battery"
+      "snippet": "1 week ago - The practice of vertical integration ... to suppliers and focus on engine manufacturing and final assembly. Tesla generally allows its co"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/suppliers_glance.php?code=TSLA",
+      "url": "https://www.investopedia.com/ask/answers/052815/who-are-teslas-tsla-main-suppliers.asp",
       "query": "Tesla, Inc. suppliers manufacturers",
-      "snippet": "Tesla Inc 's Suppliers Performance. TSLA's Supply Chain. Tesla relies on a wide range of suppliers beyond just battery manufacturers to build our elec"
+      "snippet": "November 4, 2025 - Tesla manufactures key components like the electric motor, battery pack, and charger, but relies on suppliers for other parts. Key "
     },
     {
       "source": "DuckDuckGo",
@@ -61,7 +61,7 @@
       "source": "DuckDuckGo",
       "url": "https://www.tesla.com/",
       "query": "Tesla, Inc. major customers clients",
-      "snippet": "Tesla is building a world of amazing abundance with AI, electric cars, solar, home batteries and integrated renewable energy solutions for homes and b"
+      "snippet": "Explore limited-time offers on Tesla vehicles. Learn More. Tesla vehicle. Inventory. Find nearby vehicles available for immediate delivery."
     }
   ]
 }

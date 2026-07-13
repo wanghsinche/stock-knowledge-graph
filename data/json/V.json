@@ -4,18 +4,18 @@
   "sector": "Financial Services",
   "industry": "Credit Services",
   "upstream": [
-    "Chip manufacturers (e.g., NXP Semiconductors)",
-    "Card production facilities (e.g., Gemalto)",
-    "Payment network infrastructure providers",
-    "ORCL",
-    "Data center service providers"
+    "Card issuing banks",
+    "Payment processors",
+    "Technology infrastructure providers",
+    "Merchant acquirers",
+    "Regulatory bodies"
   ],
   "downstream": [
-    "Commercial banks",
     "Retail merchants",
-    "Online merchants",
-    "Corporate clients",
-    "Consumers"
+    "E‑commerce platforms",
+    "Travel and hospitality providers",
+    "Financial institutions",
+    "Mobile wallet users"
   ],
   "competitors": [
     "Mastercard",
@@ -25,13 +25,13 @@
     "Square"
   ],
   "key_products": [
-    "Visa credit cards",
-    "Visa debit cards",
-    "Visa prepaid cards",
-    "VisaNet payment network",
-    "Visa Direct real-time payments"
+    "Visa payment network",
+    "Visa Credit Card",
+    "Visa Debit Card",
+    "Visa Prepaid Card",
+    "Visa Direct"
   ],
-  "extracted_at": "2026-07-09 18:09:32",
+  "extracted_at": "2026-07-13 17:58:19",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://usa.visa.com/partner-with-us/info-for-partners/info-for-suppliers.html",
-      "query": "Visa Inc. suppliers manufacturers",
-      "snippet": "Visa recognizes the value of engaging with a broad group of suppliers , including small and micro-sized businesses (SMBs), and provides opportunities "
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.visa.com/splisting/searchGrsp.do",
-      "query": "Visa Inc. suppliers manufacturers",
-      "snippet": "Jun 18, 2026 · For service providers published on the Registry, if Visa does not receive the appropriate revalidation documents: Within 1 - 60 days up"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/V-Customers",
+      "url": "https://en.wikipedia.org/wiki/Visa_Inc.",
       "query": "Visa Inc. major customers clients",
-      "snippet": "Visa also owns and manages additional data centers in the United States and internationally, including those we added with our acquisitions of CyberSo"
+      "snippet": "Visa Inc . is an American multinational payment card services corporation headquartered in San Francisco, California. It facilitates electronic funds "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://portersfiveforce.com/blogs/target-market/visa",
+      "url": "https://investor.visa.com/",
       "query": "Visa Inc. major customers clients",
-      "snippet": "Jan 13, 2026 · Visa's customer needs and preferences are distinctly segmented between B2B financial institution clients and end-consumers. Financial p"
+      "snippet": "Skip to Content. Visa Home.Find a Visa Card. Visa Credit Cards."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://rocketreach.co/visa-inc-competitors_b7ce23efc15adcce",
+      "query": "Visa Inc. competitors alternatives",
+      "snippet": "View Visa Inc .'s top competitors like Adyen, American Express, and Discover."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://pitchgrade.com/companies/visa",
+      "query": "Visa Inc. competitors alternatives",
+      "snippet": "Visa Inc .'s main competitors include Mastercard, American Express, Discover, PayPal. The company operates in the Credit Services segment of the Finan"
     }
   ]
 }

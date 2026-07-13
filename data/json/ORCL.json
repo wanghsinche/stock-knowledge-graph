@@ -4,34 +4,34 @@
   "sector": "Technology",
   "industry": "Software - Infrastructure",
   "upstream": [
-    "INTC",
     "AMD",
-    "NVDA",
-    "CSCO",
-    "DELL"
+    "Cloud Infrastructure Providers (e.g., AWS, Azure)",
+    "Software Component Vendors (e.g., Java, Linux)",
+    "DELL",
+    "Semiconductor Partners"
   ],
   "downstream": [
-    "JPMorgan Chase",
-    "Walmart",
-    "United States Department of Defense",
-    "Bank of America",
-    "AT&T"
+    "Large Enterprises (e.g., Walmart, Coca‑Cola)",
+    "Government Agencies (e.g., U.S. Department of Defense)",
+    "Financial Institutions (e.g., JPMorgan, Goldman Sachs)",
+    "Healthcare Providers (e.g., Cerner)",
+    "Retail Chains (e.g., Target)"
   ],
   "competitors": [
     "MSFT",
     "AMZN",
-    "GOOGL",
     "IBM",
-    "CRM"
+    "SAP",
+    "GOOGL"
   ],
   "key_products": [
     "Oracle Database",
     "Oracle Cloud Infrastructure",
     "Oracle Autonomous Database",
     "Oracle ERP Cloud",
-    "Oracle Fusion Middleware"
+    "Oracle Analytics Cloud"
   ],
-  "extracted_at": "2026-07-10 17:44:57",
+  "extracted_at": "2026-07-13 17:50:34",
   "sources": [
     {
       "source": "Wikipedia",
@@ -55,13 +55,13 @@
       "source": "DuckDuckGo",
       "url": "https://www.oracle.com/",
       "query": "Oracle Corporation major customers clients",
-      "snippet": "Oracle offers a comprehensive and fully integrated stack of cloud applications and cloud platform services..Put the entire Oracle Cloud inside your da"
+      "snippet": "Oracle offers a comprehensive and fully integrated stack of cloud applications and cloud platform services.."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.linkedin.com/company/oracle",
+      "url": "https://www.modernhealthcare.com/digital-health/oracle-cerner-larry-ellison-electronic-health-records-ehrs-losing-customers-sales",
       "query": "Oracle Corporation major customers clients",
-      "snippet": "Oracle is a global leader in AI, delivering the cloud infrastructure, data, and applications that organizations across the world trust to successfully"
+      "snippet": "Oracle Chairman Larry Ellison’s prediction that Cerner would help Oracle woo massive health-industry customers has so far failed to become reality."
     }
   ]
 }

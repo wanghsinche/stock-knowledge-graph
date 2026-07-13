@@ -1,37 +1,37 @@
 {
   "ticker": "WMT",
   "company_name": "Walmart Inc.",
-  "sector": "Consumer Defensive",
+  "sector": "Consumer Defensive / Discount Stores",
   "industry": "Discount Stores",
   "upstream": [
     "Procter & Gamble",
     "Coca‑Cola",
-    "PepsiCo",
     "Nestlé",
-    "Tyson Foods"
+    "PepsiCo",
+    "Walmart’s own distribution partners"
   ],
   "downstream": [
-    "U.S. consumers",
-    "International consumers",
+    "Individual consumers",
     "Small businesses",
+    "Pharmacies",
     "Healthcare providers",
-    "Government agencies"
+    "Medicare beneficiaries"
   ],
   "competitors": [
     "Target",
     "Costco",
     "Dollar General",
     "Aldi",
-    "BJ's Wholesale Club"
+    "BJ’s Wholesale Club"
   ],
   "key_products": [
-    "Groceries",
+    "Grocery items",
+    "Household goods",
     "Apparel",
     "Electronics",
-    "Household goods",
     "Pharmacy products"
   ],
-  "extracted_at": "2026-07-10 17:55:10",
+  "extracted_at": "2026-07-13 18:01:43",
   "sources": [
     {
       "source": "Wikipedia",
@@ -53,9 +53,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://stock.walmart.com/",
+      "url": "https://www.walmart.com/",
       "query": "Walmart Inc. major customers clients",
-      "snippet": "Walmart Inc . (Nasdaq: WMT) is a people-led, tech-powered omnichannel retailer helping people save money and live better — anytime and anywhere — in s"
+      "snippet": "Shop Walmart .com today for Every Day Low Prices. Join Walmart + for unlimited free delivery from your store & free shipping with no order minimum. St"
     },
     {
       "source": "DuckDuckGo",

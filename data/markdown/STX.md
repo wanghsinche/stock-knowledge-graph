@@ -1,57 +1,57 @@
 ---
 ticker: STX
 company: Seagate Technology Holdings plc
-sector: Technology
-industry: Computer Hardware
-extracted_at: 2026-07-10 17:47:03
-last_updated: 2026-07-10
+sector: Technology / Computer Hardware
+industry: Storage Solutions / Hard Disk Drives
+extracted_at: 2026-07-13 17:52:01
+last_updated: 2026-07-13
 ---
 
 # STX - Seagate Technology Holdings plc
 
 ## 基本信息
 
-- **所属行业**: Technology / Computer Hardware
-- **提取时间**: 2026-07-10 17:47:03
+- **所属行业**: Technology / Computer Hardware / Storage Solutions / Hard Disk Drives
+- **提取时间**: 2026-07-13 17:52:01
 
 ## 产业链关系
 
 ### 上游供应商
-- [[MU]]
 - [[005930.KS]]
-- [[SK Hynix]]
-- [[WDC]]
-- [[Toshiba]]
+- [[Magnetic media manufacturers (e.g., Toshiba)]]
+- [[TXN]]
+- [[Firmware development partners]]
+- [[Packaging and assembly suppliers]]
 
 ### 下游客户
-- [[AAPL]]
 - [[DELL]]
 - [[HPQ]]
 - [[Lenovo Group]]
-- [[AMZN]]
+- [[AAPL]]
+- [[MSFT]]
 
 ### 竞争对手
 - [[WDC]]
-- [[Toshiba]]
-- [[DELL]]
+- [[Toshiba Corporation]]
+- [[005930.KS]]
+- [[MU]]
 - [[IBM]]
-- [[NetApp]]
 
 ### 核心产品
-- [[Hard Disk Drives (HDD)]]
-- [[Solid State Drives (SSD)]]
-- [[Enterprise Storage Systems]]
-- [[Cloud Storage Solutions]]
-- [[Data Management Software]]
+- [[Seagate Barracuda HDD]]
+- [[Seagate IronWolf HDD]]
+- [[Seagate SkyHawk HDD]]
+- [[Seagate FireCuda SSD]]
+- [[Seagate Exos Enterprise HDD]]
 
 ## 数据来源
 
 - 
 - [Seagate Technology Holdings plc suppliers manufacturers](https://www.seagate.com/)
-- [Seagate Technology Holdings plc suppliers manufacturers](https://finance.yahoo.com/markets/stocks/articles/melius-research-starts-coverage-seagate-184935923.html)
-- [Seagate Technology Holdings plc major customers clients](http://www.seagate.com/)
-- [Seagate Technology Holdings plc major customers clients](https://www.insidermonkey.com/blog/bofa-reaffirms-buy-rating-for-seagate-technology-holdings-stx-1796200/)
+- [Seagate Technology Holdings plc suppliers manufacturers](https://www.linkedin.com/company/seagate-technology)
+- [Seagate Technology Holdings plc major customers clients](https://www.seagate.com/)
+- [Seagate Technology Holdings plc major customers clients](https://www.fool.com/investing/2022/07/26/is-seagate-technology-stock-a-buy-now/)
 
 ## 元数据
 
-- **更新日期**: 2026-07-10
+- **更新日期**: 2026-07-13

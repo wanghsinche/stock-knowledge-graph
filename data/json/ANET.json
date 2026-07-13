@@ -1,37 +1,37 @@
 {
   "ticker": "ANET",
   "company_name": "Arista Networks, Inc.",
-  "sector": "Technology",
-  "industry": "Computer Hardware",
+  "sector": "Technology / Computer Hardware",
+  "industry": "Networking Equipment",
   "upstream": [
-    "AVGO",
     "INTC",
-    "QCOM",
-    "MRVL",
-    "TSM"
+    "Network interface card suppliers",
+    "Software component vendors",
+    "Data center infrastructure providers",
+    "Cloud service platform partners"
   ],
   "downstream": [
     "AMZN",
     "GOOGL",
     "MSFT",
-    "Facebook",
-    "NFLX"
+    "CAT",
+    "Enterprise data centers"
   ],
   "competitors": [
     "CSCO",
     "JNPR",
     "HPQ",
-    "Huawei",
+    "Huawei Technologies",
     "Extreme Networks"
   ],
   "key_products": [
-    "Arista 7280 series switches",
-    "Arista 7500 series switches",
-    "Arista 7800 series switches",
-    "CloudVision",
-    "EOS (Extensible Operating System)"
+    "Arista 7050X Series Switches",
+    "Arista 7280R Series Switches",
+    "Arista 7500R Series Switches",
+    "Arista CloudVision",
+    "Arista EOS (Extensible Operating System)"
   ],
-  "extracted_at": "2026-07-09 18:04:25",
+  "extracted_at": "2026-07-13 17:58:46",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.listthe.com/manufacturers-of/arista-networks-inc",
-      "query": "Arista Networks, Inc. suppliers manufacturers",
-      "snippet": "Let's check ARISTA NETWORKS INC 's supplier list! arista networks inc is a CHASSISSTEEL SWITCH , WIRELESS LAN PRODUCT and SWITCHING POWER SUPPLY compa"
+      "url": "https://en.wikipedia.org/wiki/Arista_Networks",
+      "query": "Arista Networks, Inc. major customers clients",
+      "snippet": "Arista Networks , Inc . is an American provider of client to cloud networking services for large data center/AI, campus and routing environments. Aris"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.arista.com/en/",
-      "query": "Arista Networks, Inc. suppliers manufacturers",
+      "url": "https://www.arista.com/",
+      "query": "Arista Networks, Inc. major customers clients",
       "snippet": "Arista Networks was founded to pioneer and deliver software-driven cloud networking solutions for large data center storage and computing environments"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.appsruntheworld.com/customers-database/vendors/view/arista-networks",
-      "query": "Arista Networks, Inc. major customers clients",
-      "snippet": "List of companies using or evaluating Arista Networks applications, with details on their revenues, employees, industries, and locations."
+      "url": "https://en.wikipedia.org/wiki/Arista_Networks",
+      "query": "Arista Networks, Inc. competitors alternatives",
+      "snippet": "Arista Networks , Inc . is an American provider of client to cloud networking services for large data center/AI, campus and routing environments.From "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.readycontacts.com/target-account-profiling/arista-networks-2/",
-      "query": "Arista Networks, Inc. major customers clients",
-      "snippet": "Arista Networks is a renowned network company that works on an advanced network operating system. Companies who use Arista Networks get a high perform"
+      "url": "https://simplywall.st/stocks/us/tech/nyse-anet/arista-networks",
+      "query": "Arista Networks, Inc. competitors alternatives",
+      "snippet": "Arista Networks , Inc . Competitors . Arista Networks Inc . provided earnings guidance for the first second of 2026. For the quarter, the company expe"
     }
   ]
 }

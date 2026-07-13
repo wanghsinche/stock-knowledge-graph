@@ -1,37 +1,37 @@
 {
   "ticker": "CRDO",
   "company_name": "Credo Technology Group Holding Ltd",
-  "sector": "Technology",
-  "industry": "Semiconductors",
+  "sector": "Technology / Semiconductors",
+  "industry": "Semiconductor Equipment & Solutions",
   "upstream": [
-    "ASML",
-    "AMAT",
-    "LRCX",
-    "Tokyo Electron",
-    "KLA"
+    "TSM",
+    "Raw Material Suppliers (e.g., silicon wafer suppliers)",
+    "Component Manufacturers (e.g., memory chip makers)",
+    "Electronic Design Automation (EDA) Tool Providers",
+    "Testing & Measurement Equipment Suppliers"
   ],
   "downstream": [
-    "AMZN",
-    "MSFT",
-    "GOOGL",
-    "Alibaba Cloud",
-    "Tencent Cloud"
+    "AI Hardware Manufacturers",
+    "Data Center Infrastructure Providers",
+    "HPQ",
+    "CAT",
+    "Cloud Service Providers"
   ],
   "competitors": [
-    "TSM",
-    "005930.KS",
-    "UMC",
-    "SMIC",
-    "GlobalFoundries"
+    "AVGO",
+    "MRVL",
+    "Cypress Semiconductor (Infineon)",
+    "NXP Semiconductors",
+    "TXN"
   ],
   "key_products": [
-    "Advanced semiconductor manufacturing services",
-    "28nm, 14nm, 7nm, 5nm, 3nm process nodes",
-    "Advanced packaging solutions",
-    "Semiconductor design and IP services",
-    "Foundry services for AI and high-performance computing"
+    "High-speed interconnect solutions",
+    "High-bandwidth memory (HBM) interfaces",
+    "PCIe switches",
+    "NVMe controllers",
+    "AI acceleration interconnects"
   ],
-  "extracted_at": "2026-07-09 18:11:21",
+  "extracted_at": "2026-07-13 18:00:51",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/CRDO-Suppliers",
+      "url": "https://csimarket.com/stocks/news.php?code=CRDO&date=2023-06-24142518",
       "query": "Credo Technology Group Holding Ltd suppliers manufacturers",
-      "snippet": "Jun 22, 2026 · Credo Technology Group Holding Ltd 's Comment on Supply Chain We utilize a fabless business model, working with a network of third part"
+      "snippet": "San Jose, California Credo Technology Group Holding Ltd (Nasdaq: CRDO), known for its innovative contributions to secure and high-speed connectivity s"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://evidinvest.com/supply-chain/CRDO",
+      "url": "https://www.fool.com/earnings/call-transcripts/2026/03/02/credo-tech-crdo-q3-2026-earnings-call-transcript/",
       "query": "Credo Technology Group Holding Ltd suppliers manufacturers",
-      "snippet": "Suppliers Companies that supply Credo Technology Group Holding Ltd , from incoming 'supplies' edges and disclosed customer-of relationships."
+      "snippet": "Credo Technology Group Holding Ltd (CRDO 4.60%) reported record top-line growth and profitability, with pronounced sequential and year-over-year gains"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/CRDO-Customers",
+      "url": "https://finance.yahoo.com/quote/CRDO/",
       "query": "Credo Technology Group Holding Ltd major customers clients",
-      "snippet": "Credo Technology Group Holding Ltd 's Customers have recorded a rise in their cost of revenue by 24.46 % in the 1 quarter 2026 year on year, sequentia"
+      "snippet": "Find the latest Credo Technology Group Holding Ltd (CRDO) stock quote, history, news and other vital information to help you with your stock trading a"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://xueqiu.com/7367587733/350203491",
+      "url": "https://credosemi.com/",
       "query": "Credo Technology Group Holding Ltd major customers clients",
-      "snippet": "Sep 1, 2025 · Major Hyperscale Clients : Credo 's largest and most strategic customers are leading hyper-scalers like Microsoft (MSFT) and Amazon who "
+      "snippet": "Credo delivers high-speed, energy-efficient connectivity solutions powering AI, cloud computing, and hyperscale networks up to 1.6T."
     }
   ]
 }

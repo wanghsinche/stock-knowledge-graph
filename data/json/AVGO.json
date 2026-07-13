@@ -1,37 +1,37 @@
 {
   "ticker": "AVGO",
   "company_name": "Broadcom Inc.",
-  "sector": "Technology",
+  "sector": "Technology / Semiconductors",
   "industry": "Semiconductors",
   "upstream": [
     "TSM",
     "005930.KS",
-    "MU",
-    "SK Hynix",
+    "GlobalFoundries",
+    "UMC",
     "INTC"
   ],
   "downstream": [
     "CSCO",
     "DELL",
-    "HPQ",
     "AMZN",
-    "MSFT"
+    "MSFT",
+    "Ericsson"
   ],
   "competitors": [
     "QCOM",
     "INTC",
-    "NVDA",
-    "TXN",
-    "MRVL"
+    "MediaTek",
+    "MRVL",
+    "NVDA"
   ],
   "key_products": [
-    "Broadcom BCM Wi‑Fi chips",
-    "Broadcom Ethernet controllers",
-    "Broadcom broadband modems",
-    "Broadcom storage controllers",
-    "Broadcom data center networking ASICs"
+    "Ethernet controllers",
+    "Wi‑Fi chips",
+    "LTE/5G modems",
+    "storage controllers",
+    "enterprise software solutions"
   ],
-  "extracted_at": "2026-07-10 17:44:05",
+  "extracted_at": "2026-07-13 17:50:51",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,15 +41,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/AVGO-Suppliers",
+      "url": "https://en.wikipedia.org/wiki/BCM",
       "query": "Broadcom Inc. suppliers manufacturers",
-      "snippet": "Broadcom Inc supply chain, list and performance of Broadcom Incs ' suppliers - CSIMarket."
+      "snippet": "Broadcom Inc ., designer, developer and global supplier of semiconductor products. Broadcom Corporation, subsidiary of Broadcom Inc ."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.globalspec.com/supplier/profile/Broadcom",
+      "url": "https://csimarket.com/stocks/AVGO-Suppliers",
       "query": "Broadcom Inc. suppliers manufacturers",
-      "snippet": "Broadcom Inc . business profile on GlobalSpec. Read about Broadcom Inc ., browse product catalogs and product areas.Business Type: Manufacturer . Supp"
+      "snippet": "Broadcom Inc supply chain, list and performance of Broadcom Incs ' suppliers - CSIMarket."
     },
     {
       "source": "DuckDuckGo",

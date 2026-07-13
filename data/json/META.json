@@ -4,34 +4,36 @@
   "sector": "Communication Services",
   "industry": "Internet Content & Information",
   "upstream": [
-    "QCOM",
-    "INTC",
-    "AMD",
     "NVDA",
-    "005930.KS"
+    "AMD",
+    "Quanta Computer",
+    "005930.KS",
+    "AVGO"
   ],
   "downstream": [
-    "Macmillan",
-    "Hachette",
-    "Cenga",
-    "Facebook advertisers",
-    "Instagram advertisers"
+    "Global advertisers (e.g., Coca‑Cola, Nike, Procter & Gamble)",
+    "Digital marketing agencies (e.g., WPP, Omnicom)",
+    "Media brands (e.g., CNN, BBC)",
+    "E‑commerce platforms (e.g., Shopify, eBay)",
+    "Gaming companies (e.g., Electronic Arts, Activision)"
   ],
   "competitors": [
     "GOOGL",
     "AMZN",
     "AAPL",
     "MSFT",
-    "NVDA"
+    "ByteDance (TikTok)"
   ],
   "key_products": [
     "Facebook",
     "Instagram",
     "WhatsApp",
     "Messenger",
-    "Threads"
+    "Threads",
+    "Meta Ads Platform",
+    "Meta Quest (VR/AR)"
   ],
-  "extracted_at": "2026-07-10 17:41:26",
+  "extracted_at": "2026-07-13 17:49:16",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +43,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ru.wikipedia.org/wiki/Meta_Platforms",
-      "query": "Meta Platforms, Inc. suppliers manufacturers",
-      "snippet": "Meta Platforms , Inc . — американская транснациональная холдинговая компания, владеющая технологическим конгломератом и расположенная в Менло-Парке, К"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://investor.atmeta.com/",
-      "query": "Meta Platforms, Inc. suppliers manufacturers",
-      "snippet": "Investor Education Center. Meta for Business. Meta Ads Guide."
-    },
-    {
-      "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Meta_Platforms",
-      "query": "Meta Platforms, Inc. major customers clients",
-      "snippet": "4 hours ago - In May 2026, major publishers including Macmillan, Hachette, Cengage, Elsevier, and McGraw Hill sued Meta Platforms , alleging that Meta"
+      "query": "Meta Platforms, Inc. suppliers manufacturers",
+      "snippet": "1 day ago - Meta Platforms , Inc . (doing business as Meta ) is an American multinational technology company headquartered in Menlo Park, California. "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.appsruntheworld.com/customers-database/vendors/view/meta",
+      "url": "https://www.makesureiknowit.com/company/meta-platforms",
+      "query": "Meta Platforms, Inc. suppliers manufacturers",
+      "snippet": "1 month ago - Meta Platforms's key suppliers include NVIDIA, AMD and Quanta Computer . They span the manufacturers, raw-material providers and equipme"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.meta.com/about/",
       "query": "Meta Platforms, Inc. major customers clients",
-      "snippet": "May 4, 2026 - The most widely adopted products are Workplace by Meta, Meta Detectron2 and Faiss , each with significant customer counts. Meta adoption"
+      "snippet": "Meta - Social Media Advertising Platform (Facebook & Instagram)."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.metacareers.com/jobs/position-not-available/",
+      "query": "Meta Platforms, Inc. major customers clients",
+      "snippet": "Meet the people who helped build and train the latest in open source AI technology at Meta . How AI research and a culture of sharing shaped Llama 3.1"
     }
   ]
 }

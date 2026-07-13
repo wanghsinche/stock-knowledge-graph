@@ -5,35 +5,33 @@
   "industry": "Computer Hardware",
   "upstream": [
     "INTC",
-    "NVDA",
     "AMD",
+    "NVDA",
     "005930.KS",
-    "TSM"
+    "LG Display"
   ],
   "downstream": [
-    "Enterprise IT departments",
+    "Enterprise IT customers",
     "Government agencies",
     "CAT",
-    "Small and medium businesses",
-    "Individual consumers"
+    "Healthcare providers",
+    "Retail consumers"
   ],
   "competitors": [
     "HPQ",
-    "Lenovo",
+    "Lenovo Group",
+    "Acer Inc.",
     "AAPL",
-    "Acer",
-    "Asus"
+    "CSCO"
   ],
   "key_products": [
-    "Personal computers",
-    "Servers",
-    "Monitors",
-    "Computer software",
-    "Computer security solutions",
-    "Network security solutions",
-    "Information security services"
+    "XPS laptops",
+    "Alienware gaming PCs",
+    "PowerEdge servers",
+    "OptiPlex desktops",
+    "Dell EMC storage solutions"
   ],
-  "extracted_at": "2026-07-10 17:49:55",
+  "extracted_at": "2026-07-13 17:56:24",
   "sources": [
     {
       "source": "Wikipedia",
@@ -45,13 +43,13 @@
       "source": "DuckDuckGo",
       "url": "https://www.dell.com/en-us",
       "query": "Dell Technologies Inc. suppliers manufacturers",
-      "snippet": "Dell provides technology solutions, services & support. Buy Laptops, Touch Screen PCs, Desktops, Servers, Storage, Monitors, Gaming & Accessories."
+      "snippet": "Dell provides technology solutions, services & support. Buy Laptops, Touch Screen PCs, Desktops, Servers, Storage, Monitors, Gaming & Accessories. Del"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.delltechnologies.com/",
+      "url": "https://www.delltechnologies.com/partner/en-us/partner/partner.htm",
       "query": "Dell Technologies Inc. suppliers manufacturers",
-      "snippet": "Dell Services ( FKA ASAP Software Express, Inc )."
+      "snippet": "Partner Program Guide - Dell Technologies US."
     },
     {
       "source": "DuckDuckGo",

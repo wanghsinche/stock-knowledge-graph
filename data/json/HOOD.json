@@ -4,34 +4,34 @@
   "sector": "Financial Services",
   "industry": "Capital Markets",
   "upstream": [
+    "Nasdaq",
     "AMZN",
-    "GOOGL",
+    "Stripe",
     "MSFT",
-    "Bloomberg L.P. (market data)",
-    "Stripe Inc. (payment processing)"
+    "FINRA"
   ],
   "downstream": [
-    "Retail investors using the Robinhood app",
-    "Institutional clients using Robinhood for market data and execution",
-    "Crypto traders using Robinhood Crypto",
-    "Options traders using Robinhood Options",
-    "Cash management users via Robinhood Cash Management"
+    "Retail investors",
+    "Day traders",
+    "Institutional investors",
+    "Crypto traders",
+    "Options traders"
   ],
   "competitors": [
-    "Charles Schwab Corporation",
+    "E*TRADE",
+    "Charles Schwab",
     "Fidelity Investments",
-    "E*TRADE (now part of Morgan Stanley)",
-    "Webull Holdings Inc.",
-    "SoFi Technologies Inc."
+    "TD Ameritrade",
+    "Webull"
   ],
   "key_products": [
     "Commission‑free stock trading",
-    "Robinhood Gold (margin & premium research)",
-    "Cash Management (interest‑earning checking)",
-    "Crypto trading platform",
-    "Options trading platform"
+    "Robinhood Gold (margin)",
+    "Options trading",
+    "Crypto trading",
+    "Cash management"
   ],
-  "extracted_at": "2026-07-10 17:45:30",
+  "extracted_at": "2026-07-13 17:55:33",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,19 +41,19 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://robinhood.com/",
+      "url": "https://pitchgrade.com/companies/robinhood-markets",
       "query": "Robinhood Markets, Inc. suppliers manufacturers",
-      "snippet": "Trade stocks on Robinhood with commission-free investing & advanced trading tools. Access fractional shares, real-time market data, and more."
+      "snippet": "How Robinhood Markets , Inc . generates revenue across its key business segments and the unit economics behind each. A data-backed SWOT analysis cover"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.investing.com/equities/robinhood-markets",
+      "url": "https://robinhood.com/us/en/",
       "query": "Robinhood Markets, Inc. suppliers manufacturers",
-      "snippet": "Robinhood Markets Inc News & Analysis. Summarize HOOD 's latest news. Robinhood Markets , Inc . operates financial services platform in the United Sta"
+      "snippet": "Trade stocks on Robinhood with commission-free investing & advanced trading tools. Access fractional shares, real-time market data, and more.Manage yo"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://robinhood.com/",
+      "url": "https://robinhood.com/us/en/",
       "query": "Robinhood Markets, Inc. major customers clients",
       "snippet": "Trade stocks on Robinhood with commission-free investing & advanced trading tools. Access fractional shares, real-time market data, and more."
     },

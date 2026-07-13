@@ -1,37 +1,37 @@
 {
   "ticker": "IREN",
   "company_name": "IREN Limited",
-  "sector": "Financial Services / Capital Markets",
-  "industry": "Digital Infrastructure",
+  "sector": "Digital Infrastructure",
+  "industry": "Telecommunications / Data Center Services",
   "upstream": [
     "Fiber optic cable manufacturers",
-    "CSCO",
+    "Network equipment vendors",
     "Data center hardware suppliers",
     "Software platform providers",
-    "Telecom equipment suppliers"
+    "Power and cooling equipment suppliers"
   ],
   "downstream": [
-    "CAT",
+    "Enterprise customers",
     "Cloud service providers",
-    "Enterprise IT departments",
+    "CAT",
     "Government agencies",
-    "Large content delivery networks"
+    "Financial institutions"
   ],
   "competitors": [
-    "Aussie Digital Infrastructure",
-    "Telecom Infrastructure Providers",
-    "Data Center Operators",
-    "Cloud Connectivity Companies",
-    "Broadband Service Providers"
+    "Equinix",
+    "Digital Realty",
+    "Cologix",
+    "CyrusOne",
+    "Interxion"
   ],
   "key_products": [
-    "Fiber network services",
+    "Fiber connectivity services",
     "Data center services",
-    "Cloud connectivity solutions",
+    "Cloud connectivity",
     "Managed network services",
-    "Infrastructure leasing"
+    "Edge computing solutions"
   ],
-  "extracted_at": "2026-07-10 17:52:01",
+  "extracted_at": "2026-07-13 17:59:33",
   "sources": [
     {
       "source": "Wikipedia",
@@ -53,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/markets_glance.php?code=IREN",
-      "query": "IREN Limited major customers clients",
-      "snippet": "Iris Energy Ltd 's Customers Performance. IREN . IREN 's Source of Revenues. During the corresponding time, Iris Energy Ltd recorded revenue increase "
-    },
-    {
-      "source": "DuckDuckGo",
       "url": "https://www.investing.com/equities/iris-energy",
       "query": "IREN Limited major customers clients",
       "snippet": "View today's IREN Ltd stock price and latest IREN news and analysis. Create real-time notifications to follow any changes in the live stock price."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/markets_glance.php?code=IREN",
+      "query": "IREN Limited major customers clients",
+      "snippet": "Iris Energy Ltd 's Customers Performance. IREN . IREN 's Source of Revenues. During the corresponding time, Iris Energy Ltd recorded revenue increase "
     }
   ]
 }

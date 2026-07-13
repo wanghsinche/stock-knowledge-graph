@@ -4,18 +4,18 @@
   "sector": "Technology",
   "industry": "Semiconductors",
   "upstream": [
-    "ASML",
-    "AMAT",
-    "LRCX",
-    "Tokyo Electron",
-    "KLA"
+    "TSM",
+    "005930.KS",
+    "MU",
+    "SK Hynix",
+    "GlobalFoundries"
   ],
   "downstream": [
     "DELL",
     "HPQ",
+    "Lenovo Group",
     "AAPL",
-    "MSFT",
-    "AMZN"
+    "MSFT"
   ],
   "competitors": [
     "AMD",
@@ -27,11 +27,11 @@
   "key_products": [
     "Intel Core CPUs",
     "Intel Xeon CPUs",
-    "Intel chipsets",
+    "Intel Arc GPUs",
     "Intel SSDs",
-    "Intel Optane memory"
+    "Intel AI accelerators"
   ],
-  "extracted_at": "2026-07-10 17:42:59",
+  "extracted_at": "2026-07-13 17:50:00",
   "sources": [
     {
       "source": "Wikipedia",
@@ -53,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.tradingview.com/symbols/NASDAQ-INTC/",
-      "query": "Intel Corporation major customers clients",
-      "snippet": "View live Intel Corporation chart to track its stock's price action. Find market predictions, INTC financials and market news."
-    },
-    {
-      "source": "DuckDuckGo",
       "url": "https://finance.yahoo.com/quote/INTC/",
       "query": "Intel Corporation major customers clients",
       "snippet": "Find the latest Intel Corporation (INTC) stock quote, history, news and other vital information to help you with your stock trading and investing."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.marketwatch.com/investing/stock/intc",
+      "query": "Intel Corporation major customers clients",
+      "snippet": "INTC | Complete Intel Corp . stock news by MarketWatch. View real-time stock prices and stock quotes for a full financial overview. Intel Corp . engag"
     }
   ]
 }

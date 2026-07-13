@@ -4,18 +4,18 @@
   "sector": "Financial Services",
   "industry": "Banks - Diversified",
   "upstream": [
-    "Technology vendors",
-    "IT services providers",
-    "Office equipment suppliers",
-    "Security services",
-    "Legal and consulting firms"
+    "MSFT",
+    "Payment processors (e.g., Visa, Mastercard)",
+    "MSFT",
+    "Cybersecurity firms (e.g., Palo Alto Networks, Symantec)",
+    "Data analytics providers (e.g., SAS, Tableau)"
   ],
   "downstream": [
-    "Retail banking customers",
-    "Corporate clients",
-    "Investment banking clients",
-    "Mortgage borrowers",
-    "Small and medium enterprises"
+    "Large corporations and institutional clients",
+    "Small and medium-sized businesses",
+    "Individual consumers",
+    "Government and public sector entities",
+    "High-net-worth individuals and families"
   ],
   "competitors": [
     "JPMorgan Chase",
@@ -26,12 +26,12 @@
   ],
   "key_products": [
     "Retail banking services",
-    "Commercial banking",
-    "Investment banking",
-    "Wealth management",
-    "Mortgage lending"
+    "Commercial banking and lending",
+    "Investment banking and advisory",
+    "Wealth management and private banking",
+    "Credit cards and consumer loans"
   ],
-  "extracted_at": "2026-06-17 18:18:29",
+  "extracted_at": "2026-07-13 18:02:35",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://about.bankofamerica.com/en/our-company/supplier-management",
+      "url": "https://www.bankofamerica.com/",
       "query": "Bank of America Corporation suppliers manufacturers",
-      "snippet": "Bank of America is dedicated to partnering with suppliers who value ethics, inclusion, human rights, and the environment. Learn more about our supplie"
+      "snippet": "At Bank of America , our purpose is to help make financial lives better through the power of every connection.Get it on the App Store. Download the Ba"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/BAC-Suppliers",
+      "url": "https://finance.yahoo.com/quote/BAC/",
       "query": "Bank of America Corporation suppliers manufacturers",
-      "snippet": "4 days ago · For your research, we’ve provided nine additional tables on Bank Of America Corporation ’s suppliers . You can find them in the navigatio"
+      "snippet": "Find the latest Bank of America Corporation (BAC) stock quote, history, news and other vital information to help you with your stock trading and inves"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Bank_of_America",
+      "url": "https://www.bankofamerica.com/",
       "query": "Bank of America Corporation major customers clients",
-      "snippet": "It serves about 10 percent of all American bank deposits, in direct competition with JPMorgan Chase, Citigroup, and Wells Fargo. Its primary financial"
+      "snippet": "At Bank of America , our purpose is to help make financial lives better through the power of every connection.Get it on the App Store. Download the Ba"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://newsroom.bankofamerica.com/content/newsroom/company-overview/bank-of-america-fast-facts.html",
+      "url": "https://stocktwits.com/symbol/bac/about",
       "query": "Bank of America Corporation major customers clients",
-      "snippet": "Apr 16, 2026 · Explore Bank of America Fast Facts for key insights on our global presence, financial services, client reach, and commitment to respons"
+      "snippet": "Bank of America Corp . is a bank and financial holding company, which engages in the provision of banking and nonbank financial services.Industry: Maj"
     }
   ]
 }

@@ -4,18 +4,18 @@
   "sector": "Communication Services",
   "industry": "Internet Content & Information",
   "upstream": [
-    "TSM",
-    "005930.KS",
     "INTC",
     "NVDA",
-    "QCOM"
+    "QCOM",
+    "005930.KS",
+    "TSM"
   ],
   "downstream": [
     "Advertisers",
     "Android device manufacturers",
-    "YouTube content creators",
     "GOOGL",
-    "App developers"
+    "YouTube content creators",
+    "GOOGL"
   ],
   "competitors": [
     "MSFT",
@@ -26,12 +26,12 @@
   ],
   "key_products": [
     "Google Search",
+    "Google Ads",
+    "Google Cloud Platform",
     "YouTube",
-    "Google Cloud",
-    "Android OS",
-    "Google Ads"
+    "Android OS"
   ],
-  "extracted_at": "2026-07-10 17:45:49",
+  "extracted_at": "2026-07-13 17:52:41",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,9 +47,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ru.wikipedia.org/wiki/Alphabet",
+      "url": "https://csimarket.com/stocks/GOOG-Suppliers",
       "query": "Alphabet Inc. suppliers manufacturers",
-      "snippet": "Alphabet Inc . — холдинговая компания, управляющая компанией Google Inc и её дочерними структурами, а также рядом стартапов. Штаб-квартира расположена"
+      "snippet": "Alphabet Inc supply chain, list and performance of Alphabet Incs ' suppliers - CSIMarket."
     },
     {
       "source": "DuckDuckGo",

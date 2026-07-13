@@ -1,37 +1,37 @@
 {
   "ticker": "SNDK",
-  "company_name": "SanDisk Corporation",
+  "company_name": "Sandisk Corporation",
   "sector": "Technology",
   "industry": "Computer Hardware",
   "upstream": [
+    "GIGAPC Corporation",
     "MU",
     "005930.KS",
     "SK Hynix",
-    "Toshiba Memory",
     "WDC"
   ],
   "downstream": [
     "DELL",
     "HPQ",
-    "Lenovo Group",
     "AAPL",
-    "SONY"
+    "Lenovo",
+    "MSFT"
   ],
   "competitors": [
-    "Kingston Technology",
-    "Crucial",
-    "Lexar",
+    "MU",
     "005930.KS",
-    "INTC"
+    "WDC",
+    "Kingston Technology",
+    "MU"
   ],
   "key_products": [
-    "SD cards",
-    "microSD cards",
-    "USB flash drives",
-    "Solid State Drives (SSDs)",
-    "Portable storage devices"
+    "Solid State Drives (SSD)",
+    "USB Flash Drives",
+    "SD and microSD Cards",
+    "External Hard Drives",
+    "Memory Card Readers"
   ],
-  "extracted_at": "2026-07-10 17:41:43",
+  "extracted_at": "2026-07-13 17:48:13",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/SanDisk",
+      "url": "https://en.wikipedia.org/wiki/Sandisk",
       "query": "Sandisk Corporation suppliers manufacturers",
-      "snippet": "Sandisk Corporation is an American multinational computer technology company based in Milpitas, California, that designs and manufactures flash memory"
+      "snippet": "3 weeks ago - Sandisk Corporation (formerly SunDisk Corporation and SanDisk ) is an American multinational computer semiconductor company based in Mil"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.sandisk.com/",
+      "url": "https://www.sandisk.com/company/distributors",
       "query": "Sandisk Corporation suppliers manufacturers",
-      "snippet": "Limited to 1 per SANDISK Creator product purchase; subject to acceptance of applicable Terms of Use. Offer must be redeemed by January 31, 2028, or wh"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/SanDisk",
-      "query": "Sandisk Corporation major customers clients",
-      "snippet": "Sandisk Corporation is an American multinational computer technology company based in Milpitas, California, that designs and manufactures flash memory"
+      "snippet": "GIGAPC Corporation · 430 8th Ave N. Seattle, WA 98109 · Tel: 206-624-1100 · Glazers Camera · 430 8th Ave N. Seattle, WA 98109 · Tel: 206-624-1100 · Gl"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.sandisk.com/",
       "query": "Sandisk Corporation major customers clients",
       "snippet": "Sandisk online store members receive free standard shipping on all eligible orders."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://finance.yahoo.com/quote/SNDK/",
+      "query": "Sandisk Corporation major customers clients",
+      "snippet": "Find the latest Sandisk Corporation (SNDK) stock quote, history, news and other vital information to help you with your stock trading and investing."
     }
   ]
 }

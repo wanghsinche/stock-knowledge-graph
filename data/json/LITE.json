@@ -1,14 +1,14 @@
 {
   "ticker": "LITE",
   "company_name": "Lumentum Holdings Inc.",
-  "sector": "Technology / Communication Equipment",
-  "industry": "Photonics / Optical Components",
+  "sector": "Technology",
+  "industry": "Communication Equipment",
   "upstream": [
-    "Semiconductor manufacturers (e.g., II‑VI Incorporated, Coherent)",
-    "Optical fiber suppliers (e.g., Corning)",
-    "Laser diode suppliers (e.g., Lattice Semiconductor)",
-    "Photonic integrated circuit vendors (e.g., Lattice Semiconductor)",
-    "AMAT"
+    "II-VI Incorporated",
+    "Coherent Inc.",
+    "Lumen Technologies",
+    "Thorlabs",
+    "Molex"
   ],
   "downstream": [
     "CSCO",
@@ -18,20 +18,20 @@
     "JNPR"
   ],
   "competitors": [
+    "II-VI Incorporated",
     "Coherent Inc.",
-    "II‑VI Incorporated",
-    "Trumpf GmbH",
-    "Molex",
-    "Thorlabs"
+    "Lumen Technologies",
+    "Thorlabs",
+    "Molex"
   ],
   "key_products": [
     "Laser diodes",
-    "Optical amplifiers",
-    "Photonic integrated circuits",
     "Optical transceivers",
-    "Fiber optic components"
+    "Photonic integrated circuits",
+    "Fiber optic sensors",
+    "Optical amplifiers"
   ],
-  "extracted_at": "2026-07-10 17:48:24",
+  "extracted_at": "2026-07-13 17:52:57",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,9 +41,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/competitionNO8.php?markets&code=LITE",
+      "url": "https://csimarket.com/stocks/fundamentals_glance.php?code=LITE",
       "query": "Lumentum Holdings Inc. suppliers manufacturers",
-      "snippet": "Lumentum Holdings Inc 's Price to Book ratio. Lumentum Holdings Inc Executive Officers. Economic Indicators."
+      "snippet": "Fundamental Analysis on Lumentum Holdings Inc Key ratios, Comparisons to Communications Equipment Industry, Technology Sector, S&P 500 - CSIMarket.LIT"
     },
     {
       "source": "DuckDuckGo",
@@ -59,9 +59,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.bloomberg.com/profile/company/LITE23:TB",
+      "url": "https://csimarket.com/stocks/fundamentals_glance.php?code=LITE",
       "query": "Lumentum Holdings Inc. major customers clients",
-      "snippet": "Company profile page for Lumentum Holdings Inc including stock price, company news, executives, board members, and contact information."
+      "snippet": "Fundamental Analysis on Lumentum Holdings Inc Key ratios, Comparisons to Communications Equipment Industry, Technology Sector, S&P 500 - CSIMarket."
     }
   ]
 }

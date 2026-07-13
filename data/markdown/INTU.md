@@ -3,8 +3,8 @@ ticker: INTU
 company: Intuit Inc.
 sector: Technology
 industry: Software - Application
-extracted_at: 2026-06-02 19:46:15
-last_updated: 2026-06-02
+extracted_at: 2026-07-13 18:02:06
+last_updated: 2026-07-13
 ---
 
 # INTU - Intuit Inc.
@@ -12,7 +12,7 @@ last_updated: 2026-06-02
 ## 基本信息
 
 - **所属行业**: Technology / Software - Application
-- **提取时间**: 2026-06-02 19:46:15
+- **提取时间**: 2026-07-13 18:02:06
 
 ## 产业链关系
 
@@ -20,37 +20,38 @@ last_updated: 2026-06-02
 - [[AMZN]]
 - [[MSFT]]
 - [[GOOGL]]
-- [[ORCL]]
-- [[Stripe (payment processing)]]
+- [[Experian]]
+- [[Equifax]]
 
 ### 下游客户
-- [[Small and medium‑size businesses]]
-- [[Certified public accountants]]
-- [[Tax preparers]]
+- [[Small businesses]]
 - [[Individual taxpayers]]
-- [[Marketing agencies]]
+- [[Accountants and CPA firms]]
+- [[Financial advisors]]
+- [[Banks and credit unions]]
 
 ### 竞争对手
+- [[H&R Block]]
+- [[TaxAct]]
 - [[Xero]]
 - [[Sage]]
 - [[FreshBooks]]
-- [[Wave]]
-- [[Zoho Books]]
 
 ### 核心产品
 - [[TurboTax]]
 - [[QuickBooks]]
 - [[Credit Karma]]
 - [[Mailchimp]]
+- [[Intuit Payments]]
 
 ## 数据来源
 
 - [Intuit](https://en.wikipedia.org/wiki/Intuit_Inc.)
-- [Intuit Inc. suppliers manufacturers](https://investors.intuit.com/news-events/press-releases/detail/1311/intuit-unlocks-new-phase-of-growth-for-mid-market-businesses-combining-data-and-ai-to-drive-faster-more-profitable-decisions)
-- [Intuit Inc. suppliers manufacturers](https://www.intuit.com/company/)
-- [Intuit Inc. major customers clients](https://en.wikipedia.org/wiki/Intuit)
-- [Intuit Inc. major customers clients](https://www.appsruntheworld.com/customers-database/vendors/view/intuit)
+- [Intuit Inc. suppliers manufacturers](https://www.intuit.com/)
+- [Intuit Inc. suppliers manufacturers](https://csimarket.com/stocks/INTU-Suppliers)
+- [Intuit Inc. major customers clients](https://www.intuit.com/)
+- [Intuit Inc. major customers clients](https://www.linkedin.com/company/intuit)
 
 ## 元数据
 
-- **更新日期**: 2026-06-02
+- **更新日期**: 2026-07-13

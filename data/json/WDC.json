@@ -2,36 +2,36 @@
   "ticker": "WDC",
   "company_name": "Western Digital Corporation",
   "sector": "Technology / Computer Hardware",
-  "industry": "Data Storage",
+  "industry": "Data Storage / Hard Disk Drive Manufacturing",
   "upstream": [
     "MU",
     "005930.KS",
+    "Toshiba Corporation",
     "SK Hynix",
-    "TDK Corporation",
-    "Nanya Technology"
+    "NXP Semiconductors"
   ],
   "downstream": [
     "AAPL",
     "DELL",
     "HPQ",
     "Lenovo Group",
-    "MSFT"
+    "AMZN"
   ],
   "competitors": [
     "STX",
+    "Toshiba Corporation",
     "005930.KS",
-    "Toshiba",
-    "INTC",
+    "MU",
     "SK Hynix"
   ],
   "key_products": [
-    "Hard Disk Drives",
-    "Solid State Drives",
-    "External Hard Drives",
-    "Network Attached Storage",
-    "Enterprise Storage Systems"
+    "WD Blue HDD",
+    "WD Red NAS HDD",
+    "WD Green SSD",
+    "WD Black Performance HDD",
+    "WD My Passport External HDD"
   ],
-  "extracted_at": "2026-07-10 17:49:24",
+  "extracted_at": "2026-07-13 17:53:28",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.kynix.com/productdetails/57215117/westerndigitalcorporation/wd83c805.html",
+      "url": "https://ru.wikipedia.org/wiki/Western_Digital",
       "query": "Western Digital Corporation suppliers manufacturers",
-      "snippet": "Manufacturer Part #: WD 83C805. Manufacturer : Western Digital Corporation . Package: - Quantity: On Order. Attribute. Attribute Value. Manufacturer ."
+      "snippet": "Western Digital Corporation .SSD Western Digital Green 120 Gb. Western Digital Corporation (NASDAQ: WDC. , по-русски «Вестерн Диджитал»[3]) — компания"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://weissratings.com/en/instant-news-alerts/western-digital-corporation-wdc-up-5-7-time-to-commit-before-it-s-too-late",
+      "url": "https://www.kynix.com/productdetails/46878280/westerndigitalcorporation/wd1933p11.html",
       "query": "Western Digital Corporation suppliers manufacturers",
-      "snippet": "Western Digital Corporation (WDC) is a long-established Information Technology company in the Technology Hardware and Equipment industry, focused on d"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/SNDK/",
-      "query": "Western Digital Corporation major customers clients",
-      "snippet": "Find the latest Sandisk Corporation (SNDK) stock quote, history, news and other vital information to help you with your stock trading and investing."
+      "snippet": "Western Digital Corporation WD 1933P-11. No price displayed? Please send an RFQ, and we will respond immediately. Manufacturer Part #: WD 1933P-11. Ma"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://community.wd.com/",
       "query": "Western Digital Corporation major customers clients",
       "snippet": "Western Digital Business Portal. Unlock benefits and tools for your business such as enterprise support, pricing and rebate tools, marketing, loyalty,"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.softportal.com/software-18768-western-digital-data-lifeguard-diagnostic.html",
+      "query": "Western Digital Corporation major customers clients",
+      "snippet": "Бесплатно. Windows. Категория: HDD утилиты. Data Lifeguard Diagnostic - небольшая фирменная утилита компании Western Digital , которая предназначена д"
     }
   ]
 }

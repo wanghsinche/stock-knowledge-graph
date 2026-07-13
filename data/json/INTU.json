@@ -7,30 +7,31 @@
     "AMZN",
     "MSFT",
     "GOOGL",
-    "ORCL",
-    "Stripe (payment processing)"
+    "Experian",
+    "Equifax"
   ],
   "downstream": [
-    "Small and medium‑size businesses",
-    "Certified public accountants",
-    "Tax preparers",
+    "Small businesses",
     "Individual taxpayers",
-    "Marketing agencies"
+    "Accountants and CPA firms",
+    "Financial advisors",
+    "Banks and credit unions"
   ],
   "competitors": [
+    "H&R Block",
+    "TaxAct",
     "Xero",
     "Sage",
-    "FreshBooks",
-    "Wave",
-    "Zoho Books"
+    "FreshBooks"
   ],
   "key_products": [
     "TurboTax",
     "QuickBooks",
     "Credit Karma",
-    "Mailchimp"
+    "Mailchimp",
+    "Intuit Payments"
   ],
-  "extracted_at": "2026-06-02 19:46:15",
+  "extracted_at": "2026-07-13 18:02:06",
   "sources": [
     {
       "source": "Wikipedia",
@@ -40,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://investors.intuit.com/news-events/press-releases/detail/1311/intuit-unlocks-new-phase-of-growth-for-mid-market-businesses-combining-data-and-ai-to-drive-faster-more-profitable-decisions",
+      "url": "https://www.intuit.com/",
       "query": "Intuit Inc. suppliers manufacturers",
-      "snippet": "May 13, 2026 · Intuit Enterprise Suite is transforming how more complex, mid-market businesses grow and scale, eliminating the need for companies to a"
+      "snippet": "A photo of Intuit Enterprise Suite customer, Marsha Morales, Co-Founder, Humble House Inc . Meet Marsha. She scaled her business from a community stap"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.intuit.com/company/",
+      "url": "https://csimarket.com/stocks/INTU-Suppliers",
       "query": "Intuit Inc. suppliers manufacturers",
-      "snippet": "General information about Intuit including our history, values, corporate responsibility initiatives, partners, supplier programs, and more."
+      "snippet": "Intuit Inc supply chain, list and performance of Intuit Incs ' suppliers - CSIMarket."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Intuit",
+      "url": "https://www.intuit.com/",
       "query": "Intuit Inc. major customers clients",
-      "snippet": "Intuit Inc . is an American multinational business software company that specializes in financial software. Headquartered in Mountain View, California"
+      "snippet": "The Intuit platform puts a team of AI agents and trusted experts by your side."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.appsruntheworld.com/customers-database/vendors/view/intuit",
+      "url": "https://www.linkedin.com/company/intuit",
       "query": "Intuit Inc. major customers clients",
-      "snippet": "List of companies using or evaluating Intuit applications, with details on their revenues, employees, industries, and locations."
+      "snippet": "About us. Intuit is a global technology platform that helps our customers and communities overcome their most important financial challenges. Serving "
     }
   ]
 }

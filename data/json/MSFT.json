@@ -7,15 +7,15 @@
     "INTC",
     "AMD",
     "NVDA",
-    "DELL",
-    "HPQ"
+    "TSM",
+    "005930.KS"
   ],
   "downstream": [
-    "Enterprise customers (e.g., banks, government agencies)",
-    "DELL",
-    "Consumer users of Windows and Office",
-    "Cloud service users (Azure)",
-    "Gaming community (Xbox)"
+    "Enterprise customers (e.g., banks, healthcare, manufacturing)",
+    "Government agencies (U.S. federal, state, local)",
+    "005930.KS",
+    "CAT",
+    "Gaming studios (Xbox Live, Game Pass)"
   ],
   "competitors": [
     "AAPL",
@@ -26,12 +26,13 @@
   ],
   "key_products": [
     "Windows operating system",
-    "Microsoft Office suite",
+    "Microsoft Office / Microsoft 365",
     "Azure cloud platform",
-    "Microsoft Teams",
-    "Surface hardware line"
+    "Dynamics 365",
+    "Surface devices",
+    "Xbox console & Game Pass"
   ],
-  "extracted_at": "2026-07-10 17:42:33",
+  "extracted_at": "2026-07-13 17:49:45",
   "sources": [
     {
       "source": "Wikipedia",
@@ -59,9 +60,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://copilot.microsoft.com/",
+      "url": "https://www.microsoft.com/en-us/microsoft-365/buy/compare-all-microsoft-365-products",
       "query": "Microsoft Corporation major customers clients",
-      "snippet": "Microsoft Copilot — ваш компаньон для информирования, развлечения и вдохновения. Получайте советы, отзывы и прямые ответы."
+      "snippet": "Compare Microsoft 365 subscription plans and pricing (formerly Office 365). Choose from Personal, Family and Premium subscriptions with Copilot AI, Wo"
     }
   ]
 }

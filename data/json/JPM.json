@@ -6,16 +6,16 @@
   "upstream": [
     "MSFT",
     "Consulting firms (e.g., Accenture, Deloitte)",
-    "Security services (e.g., Symantec, Palo Alto Networks)",
-    "DELL",
-    "MSFT"
+    "AMZN",
+    "Cybersecurity firms (e.g., Palo Alto Networks)",
+    "Payment processors (e.g., Visa, Mastercard)"
   ],
   "downstream": [
-    "Retail banking customers (individuals)",
-    "Corporate clients (large corporations)",
+    "Retail customers",
+    "Corporate clients",
     "Institutional investors",
     "Government entities",
-    "Wealth management clients"
+    "SMEs"
   ],
   "competitors": [
     "Bank of America",
@@ -26,12 +26,12 @@
   ],
   "key_products": [
     "Retail banking services",
-    "Commercial banking",
     "Investment banking",
     "Asset management",
-    "Wealth management"
+    "Wealth management",
+    "Credit cards"
   ],
-  "extracted_at": "2026-07-09 18:05:13",
+  "extracted_at": "2026-07-13 17:57:17",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.jpmorganchase.com/about/suppliers",
+      "url": "https://en.wikipedia.org/wiki/JPMorgan_Chase",
       "query": "JPMorgan Chase & Co. suppliers manufacturers",
-      "snippet": "Building strong partnerships is the cornerstone of our success. At JPMorganChase , we place particular value in our supplier partnerships. Thanks to t"
+      "snippet": "JPMorgan Chase & Co . (stylized as JPMorganChase ) is an American multinational banking institution headquartered in New York City and incorporated in"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://suppliercentral.jpmchase.com/",
+      "url": "https://www.jpmorganchase.com/",
       "query": "JPMorgan Chase & Co. suppliers manufacturers",
-      "snippet": "Access JPMorgan Chase 's Preferred Supplier portal for streamlined payment solutions, reduced administrative costs, and efficient transactions."
+      "snippet": "Latest news. An Ohio-based company is protecting first responders around the world. With support from JPMorganChase , Fire-Dex is providing protective"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/JPMorgan_Chase",
       "query": "JPMorgan Chase & Co. major customers clients",
-      "snippet": "The JPMorgan Chase logo prior to the 2008 rebranding As of June 2008, the JPMorgan logo used for the company's Investment Banking, Asset Management, a"
+      "snippet": "JPMorgan Chase & Co . (stylized as JPMorganChase ) is an American multinational banking institution headquartered in New York City and incorporated in"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.jpmorganchase.com/",
       "query": "JPMorgan Chase & Co. major customers clients",
-      "snippet": "Committed to service, innovation and growth JPMorganChase serves millions of customers , clients and communities in over 100 global markets. For 225 y"
+      "snippet": "JPMorganChase serves millions of customers , clients and communities in over 100 global markets.Registration opens for San Francisco’s 40th JPMorganCh"
     }
   ]
 }

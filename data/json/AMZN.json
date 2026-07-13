@@ -4,34 +4,34 @@
   "sector": "Consumer Cyclical",
   "industry": "Internet Retail",
   "upstream": [
-    "Consumer electronics manufacturers",
-    "Apparel and fashion manufacturers",
-    "Home goods and furniture manufacturers",
-    "Book publishers and printing companies",
-    "Third‑party seller platforms"
+    "005930.KS",
+    "AAPL",
+    "Nike, Inc.",
+    "SONY",
+    "MSFT"
   ],
   "downstream": [
-    "Individual consumers (Prime members)",
-    "Small and medium‑size businesses",
-    "Enterprise customers (AWS)",
-    "Government agencies and public sector buyers",
-    "International retail partners"
+    "NFLX",
+    "Airbnb",
+    "ADBE",
+    "005930.KS",
+    "MSFT"
   ],
   "competitors": [
-    "Walmart",
     "eBay",
-    "Alibaba Group",
-    "Target",
-    "Shopify"
+    "Walmart",
+    "Alibaba",
+    "Shopify",
+    "MSFT"
   ],
   "key_products": [
-    "Amazon.com e‑commerce marketplace",
-    "Amazon Web Services (cloud computing)",
-    "Amazon Prime Video (streaming)",
-    "Amazon Echo / Alexa (smart home devices)",
-    "Amazon Kindle (e‑reading)"
+    "Amazon.com marketplace",
+    "Amazon Web Services (AWS)",
+    "Amazon Prime",
+    "Amazon Echo (Alexa)",
+    "Amazon Kindle"
   ],
-  "extracted_at": "2026-07-10 17:43:25",
+  "extracted_at": "2026-07-13 17:50:17",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,9 +47,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://us.amazon.com/",
+      "url": "https://ir.aboutamazon.com/",
       "query": "Amazon.com, Inc. suppliers manufacturers",
-      "snippet": "Enjoy low prices and great deals on the largest selection of everyday essentials and other products, including fashion, home, beauty, electronics, Ale"
+      "snippet": "Amazon . com Announces First Quarter Results. Amazon . com , Inc . (NASDAQ: AMZN) today announced financial results for its first quarter ended March "
     },
     {
       "source": "DuckDuckGo",
@@ -59,9 +59,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://us.amazon.com/",
+      "url": "https://www.amazon.com/stores/WeatherTech/page/144FC64A-9BCB-483E-8B71-93AC8A87B223",
       "query": "Amazon.com, Inc. major customers clients",
-      "snippet": "Our Top 100+ picks. Customers ' most-loved."
+      "snippet": "Reach customers wherever they spend their time. 6pm. Score deals on fashion brands."
     }
   ]
 }

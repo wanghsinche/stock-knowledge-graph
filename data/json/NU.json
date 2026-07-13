@@ -2,12 +2,36 @@
   "ticker": "NU",
   "company_name": "Nu Holdings Ltd.",
   "sector": "Financial Services",
-  "industry": "Banks - Regional",
-  "upstream": [],
-  "downstream": [],
-  "competitors": [],
-  "key_products": [],
-  "extracted_at": "2026-07-10 17:50:23",
+  "industry": "Banks - Regional (Neobank)",
+  "upstream": [
+    "Visa",
+    "Mastercard",
+    "Stripe",
+    "Plaid",
+    "AMZN"
+  ],
+  "downstream": [
+    "Retail consumers",
+    "Small and medium enterprises (SMEs)",
+    "E‑commerce merchants",
+    "Digital wallet users",
+    "Corporate clients"
+  ],
+  "competitors": [
+    "Banco Inter",
+    "C6 Bank",
+    "Banco do Brasil",
+    "Banco Bradesco",
+    "Banco Itaú"
+  ],
+  "key_products": [
+    "Digital checking account",
+    "Credit card",
+    "Personal loans",
+    "Payments (domestic & cross‑border)",
+    "Savings account"
+  ],
+  "extracted_at": "2026-07-13 17:55:53",
   "sources": [
     {
       "source": "Wikipedia",
@@ -25,6 +49,18 @@
       "source": "DuckDuckGo",
       "url": "https://finance.yahoo.com/quote/NU/",
       "query": "Nu Holdings Ltd. suppliers manufacturers",
+      "snippet": "Find the latest Nu Holdings Ltd . ( NU ) stock quote, history, news and other vital information to help you with your stock trading and investing."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.investing.com/equities/nu-holdings",
+      "query": "Nu Holdings Ltd. major customers clients",
+      "snippet": "$ NU is a common way to refer to the Nu Holdings Ltd ticker symbol in social media, forums, and online discussions. The dollar sign is a shorthand con"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://finance.yahoo.com/quote/NU/",
+      "query": "Nu Holdings Ltd. major customers clients",
       "snippet": "Find the latest Nu Holdings Ltd . ( NU ) stock quote, history, news and other vital information to help you with your stock trading and investing."
     }
   ]

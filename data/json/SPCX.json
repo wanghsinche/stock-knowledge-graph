@@ -1,38 +1,37 @@
 {
   "ticker": "SPCX",
   "company_name": "Space Exploration Technologies Corp.",
-  "sector": "Industrials / Aerospace & Defense",
+  "sector": "Industrials",
   "industry": "Aerospace & Defense",
   "upstream": [
-    "Aerojet Rocketdyne",
-    "Honeywell Aerospace",
-    "Boeing",
-    "Lockheed Martin",
-    "SpaceX internal suppliers (e.g., in-house manufacturing)"
+    "Rocket Propulsion Systems",
+    "Aerospace Components",
+    "Propellant Suppliers",
+    "Avionics Manufacturers",
+    "Satellite Manufacturers"
   ],
   "downstream": [
     "NASA",
     "U.S. Department of Defense",
-    "Commercial satellite operators",
-    "Starlink broadband customers",
-    "SpaceX internal customers (e.g., SpaceX's own missions)"
+    "Commercial Satellite Operators",
+    "Starlink Broadband Customers",
+    "Private Space Companies"
   ],
   "competitors": [
     "Blue Origin",
     "United Launch Alliance",
     "Rocket Lab",
-    "Virgin Galactic",
-    "Arianespace"
+    "Arianespace",
+    "Virgin Galactic"
   ],
   "key_products": [
-    "Falcon 9 launch vehicle",
-    "Falcon Heavy launch vehicle",
-    "Starship launch vehicle",
-    "Starlink satellite constellation",
-    "Starlink broadband service",
-    "Grok AI platform"
+    "Falcon 9",
+    "Falcon Heavy",
+    "Starship",
+    "Starlink Satellite Constellation",
+    "SpaceX Rockets"
   ],
-  "extracted_at": "2026-07-10 17:43:48",
+  "extracted_at": "2026-07-13 17:49:32",
   "sources": [
     {
       "source": "Wikipedia",
@@ -42,15 +41,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/SpaceX",
+      "url": "https://www.tradingview.com/symbols/NASDAQ-SPCX/",
       "query": "Space Exploration Technologies Corp. suppliers manufacturers",
-      "snippet": "Space Exploration Technologies Corporation , doing business as SpaceX , is an American spaceflight, telecommunications, and artificial intelligence co"
+      "snippet": "Space Exploration Technologies Corp . ( SpaceX ) designs, manufactures , and launches advanced rockets and spacecraft, including the fully reusable St"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ru.wikipedia.org/wiki/SpaceX",
+      "url": "https://finance.yahoo.com/quote/SPCX/",
       "query": "Space Exploration Technologies Corp. suppliers manufacturers",
-      "snippet": "Space Exploration Technologies Corporation , SpaceX (дословно — «Корпорация технологий освоения космоса», «Спейс-Экс») — американская аэрокосмическая "
+      "snippet": "Space Exploration Technologies Corp . provides satellite-based broadband services in the United States, Ireland, Canada, and internationally.Its Space"
     },
     {
       "source": "DuckDuckGo",

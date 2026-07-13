@@ -1,27 +1,27 @@
 ---
 ticker: LITE
 company: Lumentum Holdings Inc.
-sector: Technology / Communication Equipment
-industry: Photonics / Optical Components
-extracted_at: 2026-07-10 17:48:24
-last_updated: 2026-07-10
+sector: Technology
+industry: Communication Equipment
+extracted_at: 2026-07-13 17:52:57
+last_updated: 2026-07-13
 ---
 
 # LITE - Lumentum Holdings Inc.
 
 ## 基本信息
 
-- **所属行业**: Technology / Communication Equipment / Photonics / Optical Components
-- **提取时间**: 2026-07-10 17:48:24
+- **所属行业**: Technology / Communication Equipment
+- **提取时间**: 2026-07-13 17:52:57
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Semiconductor manufacturers (e.g., II‑VI Incorporated, Coherent)]]
-- [[Optical fiber suppliers (e.g., Corning)]]
-- [[Laser diode suppliers (e.g., Lattice Semiconductor)]]
-- [[Photonic integrated circuit vendors (e.g., Lattice Semiconductor)]]
-- [[AMAT]]
+- [[II-VI Incorporated]]
+- [[Coherent Inc.]]
+- [[Lumen Technologies]]
+- [[Thorlabs]]
+- [[Molex]]
 
 ### 下游客户
 - [[CSCO]]
@@ -31,27 +31,27 @@ last_updated: 2026-07-10
 - [[JNPR]]
 
 ### 竞争对手
+- [[II-VI Incorporated]]
 - [[Coherent Inc.]]
-- [[II‑VI Incorporated]]
-- [[Trumpf GmbH]]
-- [[Molex]]
+- [[Lumen Technologies]]
 - [[Thorlabs]]
+- [[Molex]]
 
 ### 核心产品
 - [[Laser diodes]]
-- [[Optical amplifiers]]
-- [[Photonic integrated circuits]]
 - [[Optical transceivers]]
-- [[Fiber optic components]]
+- [[Photonic integrated circuits]]
+- [[Fiber optic sensors]]
+- [[Optical amplifiers]]
 
 ## 数据来源
 
 - 
-- [Lumentum Holdings Inc. suppliers manufacturers](https://csimarket.com/stocks/competitionNO8.php?markets&code=LITE)
+- [Lumentum Holdings Inc. suppliers manufacturers](https://csimarket.com/stocks/fundamentals_glance.php?code=LITE)
 - [Lumentum Holdings Inc. suppliers manufacturers](https://www.investing.com/news/swot-analysis/lumentum-holdings-incs-swot-analysis-optical-stock-positioned-for-ai-data-center-growth-93CH-4708678)
 - [Lumentum Holdings Inc. major customers clients](https://in.investing.com/news/-4960725)
-- [Lumentum Holdings Inc. major customers clients](https://www.bloomberg.com/profile/company/LITE23:TB)
+- [Lumentum Holdings Inc. major customers clients](https://csimarket.com/stocks/fundamentals_glance.php?code=LITE)
 
 ## 元数据
 
-- **更新日期**: 2026-07-10
+- **更新日期**: 2026-07-13

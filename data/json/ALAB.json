@@ -7,31 +7,31 @@
     "TSM",
     "005930.KS",
     "GlobalFoundries",
-    "MU",
-    "ARM Holdings"
+    "INTC",
+    "MU"
   ],
   "downstream": [
+    "CSCO",
     "DELL",
     "HPQ",
     "Lenovo",
-    "CSCO",
-    "NVDA"
+    "MSFT"
   ],
   "competitors": [
     "AVGO",
     "MRVL",
-    "INTC",
-    "AMD",
-    "Synopsys"
+    "QRVO",
+    "ADI",
+    "AMD"
   ],
   "key_products": [
-    "Aster 2.5G/5G/10G/25G/40G/50G/100G Ethernet IP",
-    "Aster PCIe IP",
-    "Aster InfiniBand IP",
-    "Aster Thunderbolt IP",
-    "Aster AI Interconnect Solutions"
+    "Aster 2.5G/5G interface chips",
+    "Aster PCIe interface solutions",
+    "Aster Ethernet interface chips",
+    "Aster 2.5G/5G PCIe bridge",
+    "Aster 2.5G/5G Ethernet bridge"
   ],
-  "extracted_at": "2026-07-07 18:01:37",
+  "extracted_at": "2026-07-13 17:56:40",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/suppliers_glance.php?code=ALAB",
-      "query": "Astera Labs, Inc. suppliers manufacturers",
-      "snippet": "Astera Labs Inc supply chain, list and performance of Astera Labs Incs ' suppliers - CSIMarket."
-    },
-    {
-      "source": "DuckDuckGo",
       "url": "https://www.asteralabs.com/",
       "query": "Astera Labs, Inc. suppliers manufacturers",
       "snippet": "Go to the homepage of ASTERA LABS , INC .Cloud-Scale Interop Lab . Plug-and-play interoperability is critical for deploying rack-scale AI. Astera Labs"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.asteralabs.com/",
-      "query": "Astera Labs, Inc. major customers clients",
-      "snippet": "Go to the homepage of ASTERA LABS , INC .Cloud-Scale Interop Lab . Plug-and-play interoperability is critical for deploying rack-scale AI. Astera Labs"
+      "url": "https://simplify.jobs/p/5b9e82eb-e170-450f-9dfe-62e7281dc8ae/Platform-Applications-Engineer-Intern-Co-op",
+      "query": "Astera Labs, Inc. suppliers manufacturers",
+      "snippet": "Astera labs ' expanded Cloud-Scale Interop Lab will work with platform providers including AMD, Arm, Intel and NVIDIA, and with Taiwan system manufact"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finviz.com/stock?t=ALAB",
+      "url": "https://www.youtube.com/watch?v=vdR1VGj8AYw",
       "query": "Astera Labs, Inc. major customers clients",
-      "snippet": "Astera Labs , Inc . provides rack-scale AI infrastructure through purpose-built connectivity solutions. The company offers a range of semiconductor-ba"
+      "snippet": "'Mad Money' host Jim Cramer does a deep dive into Astera Labs after the company recently went public and shares his outlook for the IPO."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.forbes.com/companies/astera-labs/",
+      "query": "Astera Labs, Inc. major customers clients",
+      "snippet": "Astera Labs , Inc . is a global semiconductor company, which engages in the provision of hardware and software solutions for AI and cloud infrastructu"
     }
   ]
 }
