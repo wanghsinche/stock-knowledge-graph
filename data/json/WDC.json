@@ -1,37 +1,37 @@
 {
   "ticker": "WDC",
   "company_name": "Western Digital Corporation",
-  "sector": "Technology / Computer Hardware",
-  "industry": "Data Storage / Hard Disk Drive Manufacturing",
+  "sector": "Technology",
+  "industry": "Computer Hardware",
   "upstream": [
     "MU",
-    "005930.KS",
-    "Toshiba Corporation",
-    "SK Hynix",
-    "NXP Semiconductors"
+    "Printed circuit board suppliers",
+    "META",
+    "Firmware and software development partners",
+    "Packaging and logistics providers"
   ],
   "downstream": [
-    "AAPL",
     "DELL",
-    "HPQ",
-    "Lenovo Group",
+    "MSFT",
+    "AAPL",
+    "Data center operators (Equinix, Digital Realty)",
     "AMZN"
   ],
   "competitors": [
     "STX",
-    "Toshiba Corporation",
+    "Toshiba",
     "005930.KS",
     "MU",
-    "SK Hynix"
+    "INTC"
   ],
   "key_products": [
-    "WD Blue HDD",
-    "WD Red NAS HDD",
-    "WD Green SSD",
-    "WD Black Performance HDD",
-    "WD My Passport External HDD"
+    "Desktop HDDs",
+    "Enterprise HDDs",
+    "SSD drives",
+    "External storage solutions",
+    "Data center storage arrays"
   ],
-  "extracted_at": "2026-07-13 17:53:28",
+  "extracted_at": "2026-07-14 18:54:51",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ru.wikipedia.org/wiki/Western_Digital",
+      "url": "https://www.westerndigital.com/company/distributors",
       "query": "Western Digital Corporation suppliers manufacturers",
-      "snippet": "Western Digital Corporation .SSD Western Digital Green 120 Gb. Western Digital Corporation (NASDAQ: WDC. , по-русски «Вестерн Диджитал»[3]) — компания"
+      "snippet": "Find Distributors & Resellers Purchase from your preferred Western Digital authorized partner Region Country/Area Brand"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.kynix.com/productdetails/46878280/westerndigitalcorporation/wd1933p11.html",
+      "url": "https://csimarket.com/stocks/WDC-Suppliers",
       "query": "Western Digital Corporation suppliers manufacturers",
-      "snippet": "Western Digital Corporation WD 1933P-11. No price displayed? Please send an RFQ, and we will respond immediately. Manufacturer Part #: WD 1933P-11. Ma"
+      "snippet": "Jul 7, 2026 · Western Digital supply chain, list and performance of Western Digitals ' suppliers - CSIMarket"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://community.wd.com/",
+      "url": "https://csimarket.com/stocks/WDC-Customers",
       "query": "Western Digital Corporation major customers clients",
-      "snippet": "Western Digital Business Portal. Unlock benefits and tools for your business such as enterprise support, pricing and rebate tools, marketing, loyalty,"
+      "snippet": "Focus of this report: Western Digital Corporation ’ s corporate clients . For your research, we’ve provided 9 tables on Western Digital Corporation co"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.softportal.com/software-18768-western-digital-data-lifeguard-diagnostic.html",
+      "url": "https://www.readycontacts.com/target-account-profiling/western-digital/",
       "query": "Western Digital Corporation major customers clients",
-      "snippet": "Бесплатно. Windows. Категория: HDD утилиты. Data Lifeguard Diagnostic - небольшая фирменная утилита компании Western Digital , которая предназначена д"
+      "snippet": "Western Digital is a leading data storage company that develops, manufactures, and provides data technology products, including hard disk drives and s"
     }
   ]
 }

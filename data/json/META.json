@@ -4,36 +4,34 @@
   "sector": "Communication Services",
   "industry": "Internet Content & Information",
   "upstream": [
-    "NVDA",
-    "AMD",
-    "Quanta Computer",
+    "AAPL",
     "005930.KS",
-    "AVGO"
+    "QCOM",
+    "INTC",
+    "NVDA"
   ],
   "downstream": [
-    "Global advertisers (e.g., Coca‑Cola, Nike, Procter & Gamble)",
-    "Digital marketing agencies (e.g., WPP, Omnicom)",
-    "Media brands (e.g., CNN, BBC)",
-    "E‑commerce platforms (e.g., Shopify, eBay)",
-    "Gaming companies (e.g., Electronic Arts, Activision)"
+    "Advertisers (global brands)",
+    "App developers",
+    "Content creators",
+    "Social media users",
+    "Enterprise customers"
   ],
   "competitors": [
     "GOOGL",
     "AMZN",
     "AAPL",
     "MSFT",
-    "ByteDance (TikTok)"
+    "ByteDance Ltd. (TikTok)"
   ],
   "key_products": [
     "Facebook",
     "Instagram",
     "WhatsApp",
     "Messenger",
-    "Threads",
-    "Meta Ads Platform",
-    "Meta Quest (VR/AR)"
+    "Meta Ads Platform"
   ],
-  "extracted_at": "2026-07-13 17:49:16",
+  "extracted_at": "2026-07-14 17:26:18",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/META-Suppliers",
+      "query": "Meta Platforms, Inc. suppliers manufacturers",
+      "snippet": "Jul 7, 2026 · Meta Platforms Inc supply chain, list and performance of Meta Platforms Incs ' suppliers - CSIMarket"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.suppliersmap.com/meta",
+      "query": "Meta Platforms, Inc. suppliers manufacturers",
+      "snippet": "Explore Meta ' s complete supply chain with interactive visualizations showing supplier locations and component breakdowns across Quest, Ray-Ban Meta,"
+    },
+    {
+      "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Meta_Platforms",
-      "query": "Meta Platforms, Inc. suppliers manufacturers",
-      "snippet": "1 day ago - Meta Platforms , Inc . (doing business as Meta ) is an American multinational technology company headquartered in Menlo Park, California. "
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.makesureiknowit.com/company/meta-platforms",
-      "query": "Meta Platforms, Inc. suppliers manufacturers",
-      "snippet": "1 month ago - Meta Platforms's key suppliers include NVIDIA, AMD and Quanta Computer . They span the manufacturers, raw-material providers and equipme"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.meta.com/about/",
       "query": "Meta Platforms, Inc. major customers clients",
-      "snippet": "Meta - Social Media Advertising Platform (Facebook & Instagram)."
+      "snippet": "Meta Platforms , Inc . (doing business as Meta) is an American multinational technology company headquartered in Menlo Park, California. Meta owns and"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.metacareers.com/jobs/position-not-available/",
+      "url": "https://csimarket.com/stocks/META-Customers",
       "query": "Meta Platforms, Inc. major customers clients",
-      "snippet": "Meet the people who helped build and train the latest in open source AI technology at Meta . How AI research and a culture of sharing shaped Llama 3.1"
+      "snippet": "For your research, we’ve provided 9 tables on Meta Platforms Inc corporate clients . You can find them in the navigation menu under Customers & Market"
     }
   ]
 }

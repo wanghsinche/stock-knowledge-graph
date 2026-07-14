@@ -1,36 +1,37 @@
 {
   "ticker": "WFC",
   "company_name": "Wells Fargo & Company",
-  "sector": "Financial Services / Banks - Diversified",
-  "industry": "Banking",
+  "sector": "Financial Services",
+  "industry": "Banks - Diversified",
   "upstream": [
-    "MSFT",
-    "GOOGL",
-    "Payment processors (e.g., Visa, Mastercard)",
-    "Data analytics providers (e.g., Palantir)",
-    "Cybersecurity firms (e.g., Palo Alto Networks)"
+    "Technology vendors",
+    "Office supply providers",
+    "Security service providers",
+    "Data center providers",
+    "Legal and compliance consultants"
   ],
   "downstream": [
     "Retail banking customers",
-    "Small and Medium Enterprises",
+    "Small and medium enterprises",
     "Large corporations",
-    "High net worth individuals",
-    "Government agencies"
+    "Government entities",
+    "High-net-worth individuals"
   ],
   "competitors": [
     "JPMorgan Chase",
     "Bank of America",
     "Citigroup",
-    "Goldman Sachs"
+    "Goldman Sachs",
+    "Morgan Stanley"
   ],
   "key_products": [
-    "Checking accounts",
-    "Savings accounts",
-    "Mortgages",
-    "Credit cards",
-    "Investment services"
+    "Retail banking services",
+    "Commercial banking services",
+    "Wealth management",
+    "Investment banking",
+    "Mortgage lending"
   ],
-  "extracted_at": "2026-04-15 17:02:39",
+  "extracted_at": "2026-07-14 18:49:10",
   "sources": [
     {
       "source": "Wikipedia",
@@ -40,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/WFC-Suppliers",
-      "query": "Wells Fargo & Company suppliers manufacturers",
-      "snippet": "Feb 25, 2026 · For your research, we’ve provided nine additional tables on Wells Fargo and Company ’s suppliers . You can find them in the navigation "
-    },
-    {
-      "source": "DuckDuckGo",
       "url": "https://www.wellsfargo.com/about/supply-chain-management/",
       "query": "Wells Fargo & Company suppliers manufacturers",
       "snippet": "To be considered as a potential supplier , please complete an online supplier profile. Supplier profiles are periodically reviewed to establish initia"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Wells_Fargo",
-      "query": "Wells Fargo & Company major customers clients",
-      "snippet": "Wells Fargo & Company is an American multinational financial services company . [5][8] The company operates in 35 countries and serves more than 70 mi"
+      "url": "https://csimarket.com/stocks/WFC-Suppliers",
+      "query": "Wells Fargo & Company suppliers manufacturers",
+      "snippet": "Jul 7, 2026 · For your research, we’ve provided nine additional tables on Wells Fargo and Company ’s suppliers . You can find them in the navigation m"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://portersfiveforce.com/blogs/target-market/wellsfargo",
+      "url": "https://en.wikipedia.org/wiki/Wells_Fargo",
       "query": "Wells Fargo & Company major customers clients",
-      "snippet": "Jan 22, 2026 · Understand the target market for Wells Fargo 's banking services. Explore how the company serves individuals, small businesses, and lar"
+      "snippet": "Wells Fargo & Company is an American multinational financial services company. [5][8] The company operates in 35 countries and serves more than 70 mil"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/WFC-Customers",
+      "query": "Wells Fargo & Company major customers clients",
+      "snippet": "Jun 18, 2026 · For your research, we’ve provided 9 tables on Wells Fargo and Company corporate clients . You can find them in the navigation menu unde"
     }
   ]
 }

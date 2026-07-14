@@ -1,37 +1,37 @@
 {
   "ticker": "STX",
   "company_name": "Seagate Technology Holdings plc",
-  "sector": "Technology / Computer Hardware",
-  "industry": "Storage Solutions / Hard Disk Drives",
+  "sector": "Technology",
+  "industry": "Computer Hardware",
   "upstream": [
+    "TSM",
     "005930.KS",
-    "Magnetic media manufacturers (e.g., Toshiba)",
-    "TXN",
-    "Firmware development partners",
-    "Packaging and assembly suppliers"
+    "MU",
+    "SK Hynix",
+    "INTC"
   ],
   "downstream": [
     "DELL",
     "HPQ",
     "Lenovo Group",
     "AAPL",
-    "MSFT"
+    "IBM"
   ],
   "competitors": [
     "WDC",
     "Toshiba Corporation",
     "005930.KS",
     "MU",
-    "IBM"
+    "STX"
   ],
   "key_products": [
-    "Seagate Barracuda HDD",
-    "Seagate IronWolf HDD",
-    "Seagate SkyHawk HDD",
-    "Seagate FireCuda SSD",
-    "Seagate Exos Enterprise HDD"
+    "Hard Disk Drives (HDDs)",
+    "Solid State Drives (SSDs)",
+    "Enterprise Storage Systems",
+    "Cloud Storage Solutions",
+    "External Hard Drives"
   ],
-  "extracted_at": "2026-07-13 17:52:01",
+  "extracted_at": "2026-07-14 18:52:00",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.seagate.com/",
+      "url": "https://en.wikipedia.org/wiki/Seagate_Technology",
       "query": "Seagate Technology Holdings plc suppliers manufacturers",
-      "snippet": "Seagate Technology Holdings PLC ."
+      "snippet": "Seagate Technology ... Seagate Technology Holdings plc is an American data storage company. It was incorporated in 1978 as Shugart Technology and comm"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.linkedin.com/company/seagate-technology",
+      "url": "https://www.accio.com/business/seagate-products",
       "query": "Seagate Technology Holdings plc suppliers manufacturers",
-      "snippet": "Seagate Technology . Computer Hardware Manufacturing . Fremont, CA 302,952 followers. Unleash your data’s value with storage that keeps AI running 24/"
+      "snippet": "Apr 6, 2026 · This report provides a comprehensive analysis of Seagate Technology Holdings PLC , focusing on its financial performance, market strateg"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.seagate.com/",
+      "url": "https://csimarket.com/stocks/STX-Customers",
       "query": "Seagate Technology Holdings plc major customers clients",
-      "snippet": "Seagate Technology Holdings PLC ."
+      "snippet": "Seagate Technology Holdings Plc 's Comment on Sales, Marketing and Customers We sell our products to major OEMs, distributors and retailers. OEM custo"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.fool.com/investing/2022/07/26/is-seagate-technology-stock-a-buy-now/",
+      "url": "https://www.appsruntheworld.com/customers-database/vendors/view/seagate-technology",
       "query": "Seagate Technology Holdings plc major customers clients",
-      "snippet": "Seagate Technology Holdings plc . Seagate 's revenue rose 9% to $11.7 billion in fiscal 2022 as more data center and cloud customers expanded their st"
+      "snippet": "List of companies using or evaluating Seagate Technology applications, with details on their revenues, employees, industries, and locations."
     }
   ]
 }

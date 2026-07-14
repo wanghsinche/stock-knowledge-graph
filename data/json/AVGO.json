@@ -1,37 +1,37 @@
 {
   "ticker": "AVGO",
   "company_name": "Broadcom Inc.",
-  "sector": "Technology / Semiconductors",
+  "sector": "Technology",
   "industry": "Semiconductors",
   "upstream": [
     "TSM",
     "005930.KS",
     "GlobalFoundries",
-    "UMC",
-    "INTC"
+    "INTC",
+    "MU"
   ],
   "downstream": [
+    "005930.KS",
     "CSCO",
     "DELL",
-    "AMZN",
-    "MSFT",
-    "Ericsson"
+    "HPQ",
+    "Lenovo"
   ],
   "competitors": [
     "QCOM",
     "INTC",
-    "MediaTek",
     "MRVL",
-    "NVDA"
+    "MU",
+    "TXN"
   ],
   "key_products": [
-    "Ethernet controllers",
-    "Wi‑Fi chips",
-    "LTE/5G modems",
-    "storage controllers",
-    "enterprise software solutions"
+    "802.11 wireless LAN controllers",
+    "Broadband modems",
+    "Network processors",
+    "Storage controllers",
+    "RF components"
   ],
-  "extracted_at": "2026-07-13 17:50:51",
+  "extracted_at": "2026-07-14 17:33:30",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/BCM",
+      "url": "https://en.wikipedia.org/wiki/Broadcom",
       "query": "Broadcom Inc. suppliers manufacturers",
-      "snippet": "Broadcom Inc ., designer, developer and global supplier of semiconductor products. Broadcom Corporation, subsidiary of Broadcom Inc ."
+      "snippet": "Broadcom Inc . is an American multinational designer, developer, manufacturer , and global supplier of a wide range of semiconductor and infrastructur"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://csimarket.com/stocks/AVGO-Suppliers",
       "query": "Broadcom Inc. suppliers manufacturers",
-      "snippet": "Broadcom Inc supply chain, list and performance of Broadcom Incs ' suppliers - CSIMarket."
+      "snippet": "4 days ago · Broadcom Inc 's Suppliers recorded an increase in sales by 27.35 % year on year in Q1 2026, sequentially sales grew by 10.79 %, Broadcom "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.broadcom.com/",
+      "url": "https://news.broadcom.com/category/customers",
       "query": "Broadcom Inc. major customers clients",
-      "snippet": "Broadcom delivers semiconductors and infrastructure software for global enterprises’ most complex, mission-critical needs."
+      "snippet": "May 19, 2026 · This year, Broadcom has recognized the United States Senate Federal Credit Union (USSFCU) with the Innovator award. Innovators are visi"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://x.com/Broadcom",
+      "url": "https://csimarket.com/stocks/AVGO-Customers",
       "query": "Broadcom Inc. major customers clients",
-      "snippet": "Broadcom Inc .Підтверджений профіль @ Broadcom ."
+      "snippet": "Sales to our five largest customers represented 48.3%. Sales to Samsung represented 21.3%. Sales to Apple represented 13.3%."
     }
   ]
 }

@@ -3,8 +3,8 @@ ticker: META
 company: Meta Platforms, Inc.
 sector: Communication Services
 industry: Internet Content & Information
-extracted_at: 2026-07-13 17:49:16
-last_updated: 2026-07-13
+extracted_at: 2026-07-14 17:26:18
+last_updated: 2026-07-14
 ---
 
 # META - Meta Platforms, Inc.
@@ -12,48 +12,46 @@ last_updated: 2026-07-13
 ## 基本信息
 
 - **所属行业**: Communication Services / Internet Content & Information
-- **提取时间**: 2026-07-13 17:49:16
+- **提取时间**: 2026-07-14 17:26:18
 
 ## 产业链关系
 
 ### 上游供应商
-- [[NVDA]]
-- [[AMD]]
-- [[Quanta Computer]]
+- [[AAPL]]
 - [[005930.KS]]
-- [[AVGO]]
+- [[QCOM]]
+- [[INTC]]
+- [[NVDA]]
 
 ### 下游客户
-- [[Global advertisers (e.g., Coca‑Cola, Nike, Procter & Gamble)]]
-- [[Digital marketing agencies (e.g., WPP, Omnicom)]]
-- [[Media brands (e.g., CNN, BBC)]]
-- [[E‑commerce platforms (e.g., Shopify, eBay)]]
-- [[Gaming companies (e.g., Electronic Arts, Activision)]]
+- [[Advertisers (global brands)]]
+- [[App developers]]
+- [[Content creators]]
+- [[Social media users]]
+- [[Enterprise customers]]
 
 ### 竞争对手
 - [[GOOGL]]
 - [[AMZN]]
 - [[AAPL]]
 - [[MSFT]]
-- [[ByteDance (TikTok)]]
+- [[ByteDance Ltd. (TikTok)]]
 
 ### 核心产品
 - [[Facebook]]
 - [[Instagram]]
 - [[WhatsApp]]
 - [[Messenger]]
-- [[Threads]]
 - [[Meta Ads Platform]]
-- [[Meta Quest (VR/AR)]]
 
 ## 数据来源
 
 - [Meta Platforms](https://en.wikipedia.org/wiki/Meta_Platforms,_Inc.)
-- [Meta Platforms, Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/Meta_Platforms)
-- [Meta Platforms, Inc. suppliers manufacturers](https://www.makesureiknowit.com/company/meta-platforms)
-- [Meta Platforms, Inc. major customers clients](https://www.meta.com/about/)
-- [Meta Platforms, Inc. major customers clients](https://www.metacareers.com/jobs/position-not-available/)
+- [Meta Platforms, Inc. suppliers manufacturers](https://csimarket.com/stocks/META-Suppliers)
+- [Meta Platforms, Inc. suppliers manufacturers](https://www.suppliersmap.com/meta)
+- [Meta Platforms, Inc. major customers clients](https://en.wikipedia.org/wiki/Meta_Platforms)
+- [Meta Platforms, Inc. major customers clients](https://csimarket.com/stocks/META-Customers)
 
 ## 元数据
 
-- **更新日期**: 2026-07-13
+- **更新日期**: 2026-07-14

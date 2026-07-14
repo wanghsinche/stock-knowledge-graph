@@ -4,34 +4,34 @@
   "sector": "Consumer Cyclical",
   "industry": "Internet Retail",
   "upstream": [
-    "005930.KS",
-    "AAPL",
-    "Nike, Inc.",
-    "SONY",
-    "MSFT"
+    "Book publishers",
+    "Electronics manufacturers",
+    "Apparel manufacturers",
+    "Third‑party seller suppliers",
+    "Digital content providers"
   ],
   "downstream": [
-    "NFLX",
-    "Airbnb",
-    "ADBE",
-    "005930.KS",
-    "MSFT"
+    "Individual consumers",
+    "AMZN",
+    "AMZN",
+    "Prime members",
+    "AMZN"
   ],
   "competitors": [
-    "eBay",
     "Walmart",
+    "eBay",
     "Alibaba",
     "Shopify",
-    "MSFT"
+    "Target"
   ],
   "key_products": [
     "Amazon.com marketplace",
+    "Amazon Prime subscription",
     "Amazon Web Services (AWS)",
-    "Amazon Prime",
     "Amazon Echo (Alexa)",
     "Amazon Kindle"
   ],
-  "extracted_at": "2026-07-13 17:50:17",
+  "extracted_at": "2026-07-14 17:36:36",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.alibaba.com/",
+      "url": "https://supply.amazon.com/",
       "query": "Amazon.com, Inc. suppliers manufacturers",
-      "snippet": "Find quality Manufacturers , Suppliers , Exporters, Importers, Buyers, Wholesalers, Products and Trade Leads from our award-winning International Trad"
+      "snippet": "Join Amazon' s global network of suppliers to be considered for opportunities to sell Amazon the goods and services necessary to support our retail an"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ir.aboutamazon.com/",
+      "url": "https://supplierconnect.amazon.com/?lang=en-US",
       "query": "Amazon.com, Inc. suppliers manufacturers",
-      "snippet": "Amazon . com Announces First Quarter Results. Amazon . com , Inc . (NASDAQ: AMZN) today announced financial results for its first quarter ended March "
+      "snippet": "Join Amazon' s global network of suppliers to be considered for opportunities to sell Amazon the goods and services necessary to support our retail an"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ir.aboutamazon.com/",
+      "url": "https://en.wikipedia.org/wiki/Amazon_(company)",
       "query": "Amazon.com, Inc. major customers clients",
-      "snippet": "Amazon . com Announces First Quarter Results. Amazon . com , Inc . (NASDAQ: AMZN) today announced financial results for its first quarter ended March "
+      "snippet": "Amazon Logistics, in which Amazon contracts with small businesses (which it calls \"Delivery Service Partners\") to perform deliveries to customers . Ea"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.amazon.com/stores/WeatherTech/page/144FC64A-9BCB-483E-8B71-93AC8A87B223",
+      "url": "https://csimarket.com/stocks/AMZN-Customers",
       "query": "Amazon.com, Inc. major customers clients",
-      "snippet": "Reach customers wherever they spend their time. 6pm. Score deals on fashion brands."
+      "snippet": "While revenue at the Amazon Com Inc 's corporate clients recorded rose by 252.61 % year on year, sequentially revenue grew by 242.17 %. • Customers Mg"
     }
   ]
 }

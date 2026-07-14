@@ -1,37 +1,37 @@
 {
   "ticker": "CRWD",
   "company_name": "CrowdStrike Holdings, Inc.",
-  "sector": "Technology",
-  "industry": "Software - Infrastructure",
+  "sector": "Technology / Software - Infrastructure",
+  "industry": "Cybersecurity / Endpoint Security",
   "upstream": [
     "AMZN",
     "MSFT",
     "GOOGL",
-    "CSCO",
-    "INTC"
+    "DELL",
+    "Lenovo"
   ],
   "downstream": [
-    "Walmart",
-    "JPMorgan Chase",
-    "Bank of America",
-    "U.S. Department of Defense",
-    "MSFT"
+    "Fortune 500 companies",
+    "U.S. federal agencies",
+    "Financial institutions",
+    "Healthcare organizations",
+    "Retail giants"
   ],
   "competitors": [
     "Palo Alto Networks",
-    "Check Point Software Technologies",
-    "Fortinet",
     "SentinelOne",
-    "McAfee"
+    "McAfee",
+    "CSCO",
+    "Fortinet"
   ],
   "key_products": [
-    "CrowdStrike Falcon (endpoint protection)",
+    "CrowdStrike Falcon",
     "Falcon Prevent",
     "Falcon Insight",
-    "Falcon OverWatch",
-    "Falcon X"
+    "Falcon Discover",
+    "Falcon OverWatch"
   ],
-  "extracted_at": "2026-07-10 17:56:13",
+  "extracted_at": "2026-07-14 18:55:36",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/competition2.php?supply&code=CRWD",
+      "url": "https://www.crowdstrike.com/en-us/about-us/suppliers/",
       "query": "CrowdStrike Holdings, Inc. suppliers manufacturers",
-      "snippet": "Crowdstrike Holdings Inc 's Suppliers . Crowdstrike Holdings Inc 's vs. its Suppliers Results. (List of Suppliers , Financial Results 12 Months from t"
+      "snippet": "Our Supplier Portal will improve the way we do business with enhanced transparency and supplier experience. We recognize the important role our suppli"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.home.saxo/markets/stocks/crwd-xnas",
+      "url": "https://www.crowdstrike.com/en-us/about-us/suppliers/doing-business-with-crowdstrike/",
       "query": "CrowdStrike Holdings, Inc. suppliers manufacturers",
-      "snippet": "About CrowdStrike Holdings Inc . CrowdStrike is a cloud-native cybersecurity company specializing in security verticals such as endpoint, cloud worklo"
+      "snippet": "Join us in keeping customers safe from adversaries around the world. We’re committed to developing strong business partnerships with our suppliers and"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://au.finance.yahoo.com/news/analyst-crowdstrike-holdings-crwd-customers-172748552.html",
+      "url": "https://en.wikipedia.org/wiki/CrowdStrike",
       "query": "CrowdStrike Holdings, Inc. major customers clients",
-      "snippet": "In this article, we are going to take a look at where Crowdstrike Holdings Inc (NASDAQ:CRWD) stands against other top AI stocks that should be On your"
+      "snippet": "CrowdStrike Holdings , Inc . is an American cybersecurity technology company based in Austin, Texas. It provides endpoint security, threat intelligenc"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/news/crowdstrike-rises-to-the-top-with-recognition-as-a-leader-in-cloud-security-amid-mixed-signals-for-clients2024-11-04149104",
+      "url": "https://csimarket.com/stocks/CRWD-Customers",
       "query": "CrowdStrike Holdings, Inc. major customers clients",
-      "snippet": "Crowdstrike Holdings Inc Customers Demand.Notable high-fliers include Willdan Group Inc . and Zeta Global Holdings . Corporate clients in Construction"
+      "snippet": "Crowdstrike Holdings Inc 's Comment on Sales, Marketing and Customers Some of the world?s largest enterprises, government organizations, and high prof"
     }
   ]
 }

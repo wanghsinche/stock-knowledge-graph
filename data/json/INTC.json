@@ -4,11 +4,11 @@
   "sector": "Technology",
   "industry": "Semiconductors",
   "upstream": [
-    "TSM",
-    "005930.KS",
-    "MU",
-    "SK Hynix",
-    "GlobalFoundries"
+    "ASML",
+    "AMAT",
+    "LRCX",
+    "Tokyo Electron",
+    "KLA Corporation"
   ],
   "downstream": [
     "DELL",
@@ -28,10 +28,10 @@
     "Intel Core CPUs",
     "Intel Xeon CPUs",
     "Intel Arc GPUs",
-    "Intel SSDs",
-    "Intel AI accelerators"
+    "Intel FPGAs",
+    "Intel Networking Chips"
   ],
-  "extracted_at": "2026-07-13 17:50:00",
+  "extracted_at": "2026-07-14 17:19:44",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
+      "url": "https://www.intel.com/content/www/us/en/partner/showcase/partner-directory/distributor.html",
+      "query": "Intel Corporation suppliers manufacturers",
+      "snippet": "Sell Intel® Products directly sourced from Intel as well as devices manufactured by OEMs."
+    },
+    {
+      "source": "DuckDuckGo",
       "url": "https://csimarket.com/stocks/INTC-Suppliers",
       "query": "Intel Corporation suppliers manufacturers",
-      "snippet": "Intel supply chain, list and performance of Intels' suppliers - CSIMarket. Intel 's Comment on Supply Chain. We use third-party foundries to manufactu"
+      "snippet": "4 days ago · We have thousands of suppliers , including subcontractors, providing our various materials and service needs. We set expectations for sup"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.globalspec.com/supplier/profile/Intel",
-      "query": "Intel Corporation suppliers manufacturers",
-      "snippet": "Intel Corporation business profile on GlobalSpec. Read about Intel Corporation , browse product catalogs and product areas.(408) 765-9904. Business Ty"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/INTC/",
+      "url": "https://csimarket.com/stocks/INTC-Customers",
       "query": "Intel Corporation major customers clients",
-      "snippet": "Find the latest Intel Corporation (INTC) stock quote, history, news and other vital information to help you with your stock trading and investing."
+      "snippet": "Intel customers and markets, results by customer and performance relative to INTC, by company and industry - CSIMarket"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.marketwatch.com/investing/stock/intc",
+      "url": "https://www.intel.com/content/www/us/en/customer-spotlight/overview.html",
       "query": "Intel Corporation major customers clients",
-      "snippet": "INTC | Complete Intel Corp . stock news by MarketWatch. View real-time stock prices and stock quotes for a full financial overview. Intel Corp . engag"
+      "snippet": "Jul 20, 2025 · Explore the Intel Customer Spotlight for the latest customer stories, case studies, and testimonials highlighting data-centric innovati"
     }
   ]
 }

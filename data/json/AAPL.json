@@ -5,24 +5,24 @@
   "industry": "Consumer Electronics",
   "upstream": [
     "TSM",
-    "Foxconn",
     "005930.KS",
-    "LG Display",
+    "Foxconn",
+    "QCOM",
     "AVGO"
   ],
   "downstream": [
-    "iPhone users",
-    "iPad users",
-    "Mac users",
-    "AAPL",
-    "Enterprise customers"
+    "Retail consumers",
+    "Enterprise customers",
+    "App developers",
+    "Content creators",
+    "CAT"
   ],
   "competitors": [
     "005930.KS",
     "GOOGL",
     "MSFT",
     "AMZN",
-    "SONY"
+    "Huawei"
   ],
   "key_products": [
     "iPhone",
@@ -31,7 +31,7 @@
     "Apple Watch",
     "Apple TV"
   ],
-  "extracted_at": "2026-07-13 17:48:49",
+  "extracted_at": "2026-07-14 17:24:39",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,25 +43,25 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/List_of_Apple_Inc._suppliers",
       "query": "Apple Inc. suppliers manufacturers",
-      "snippet": "May 6, 2026 - In 1994, Apple began interviewing manufacturers in Taiwan due to unfavorable economic conditions in Japan. Production for the Newton was"
+      "snippet": "Apple released a list of its major suppliers for the first time in 2012. [13][14][15] The list has generally been released in yearly intervals since. "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Apple_supply_chain",
+      "url": "https://www.investopedia.com/articles/investing/090315/10-major-companies-tied-apple-supply-chain.asp",
       "query": "Apple Inc. suppliers manufacturers",
-      "snippet": "May 21, 2026 - \" Apple 's first target for its $1 billion US manufacturing fund is glass supplier Corning\". The Verge. Vox Media. Retrieved 14 Decembe"
+      "snippet": "Apr 17, 2026 · Discover Apple 's top suppliers and how they enhance product performance and innovation. Learn about Apple 's efficient supply chain an"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.apple.com/",
+      "url": "https://csimarket.com/stocks/AAPL-Customers",
       "query": "Apple Inc. major customers clients",
-      "snippet": "Discover the innovative world of Apple and shop everything iPhone, iPad, Apple Watch, Mac, and Apple TV, plus explore accessories, entertainment, and "
+      "snippet": "Apple Inc customers and markets, results by customer and performance relative to AAPL, by company and industry - CSIMarket"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://247wallst.com/special-report/2012/04/30/american-companies-with-the-most-customers/",
+      "url": "https://www.appsruntheworld.com/customers-database/vendors/view/apple",
       "query": "Apple Inc. major customers clients",
-      "snippet": "2. iTunes > Customers : 225 million > Industry: e-commerce > Parent company: Apple Inc . > Major competitors: Amazon.com (NASDAQ: AMZN), eBay (NASDAQ:"
+      "snippet": "List of companies using or evaluating Apple applications, with details on their revenues, employees, industries, and locations."
     }
   ]
 }

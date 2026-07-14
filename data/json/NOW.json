@@ -1,37 +1,37 @@
 {
   "ticker": "NOW",
   "company_name": "ServiceNow, Inc.",
-  "sector": "Technology / Software - Application",
-  "industry": "Cloud Computing Platforms",
+  "sector": "Technology",
+  "industry": "Software - Application",
   "upstream": [
-    "Supplier Lifecycle Operations",
-    "Advanced partnership with ServiceNow",
-    "Supplier onboarding solutions",
-    "Supplier collaboration platforms",
-    "Supplier management tools"
+    "AMZN",
+    "MSFT",
+    "GOOGL",
+    "ORCL",
+    "VMware"
   ],
   "downstream": [
-    "Customer Service Management",
-    "Enterprise IT departments",
-    "Large enterprises",
-    "Government agencies",
-    "Financial services"
+    "FedEx",
+    "Walmart",
+    "JPMorgan Chase",
+    "UnitedHealth Group",
+    "AT&T"
   ],
   "competitors": [
-    "MSFT",
+    "Atlassian",
+    "BMC Software",
     "IBM",
-    "SAP SuccessFactors",
-    "ORCL",
-    "Workday"
+    "MSFT",
+    "ORCL"
   ],
   "key_products": [
-    "Now Platform",
-    "Now Service Management",
-    "Now Platform for IT Service Management",
-    "Now Platform for HR Service Delivery",
-    "Now Platform for Customer Service Management"
+    "ServiceNow Platform",
+    "IT Service Management (ITSM)",
+    "IT Operations Management (ITOM)",
+    "Customer Service Management (CSM)",
+    "HR Service Delivery"
   ],
-  "extracted_at": "2026-07-13 17:56:12",
+  "extracted_at": "2026-07-14 18:51:00",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.servicenow.com/",
+      "url": "https://www.servicenow.com/company/supplier.html",
       "query": "ServiceNow, Inc. suppliers manufacturers",
-      "snippet": "Supplier Lifecycle Operations. Streamline supplier onboarding, collaboration, and performance management. ServiceNow EmployeeWorks. Stop chasing what "
+      "snippet": "ServiceNow partners with capable and competitive suppliers who commit to diversity, sustainability, and best-in-class goods and services. Learn more h"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://theenterpriseworld.com/10-servicenow-partners-in-2024/",
+      "url": "https://csimarket.com/stocks/NOW-Suppliers",
       "query": "ServiceNow, Inc. suppliers manufacturers",
-      "snippet": "Advanced partnership with ServiceNow , incorporating AI to automate complex workflows.Key Takeaways for CDW Logistics, Inc . 1. Responsive ServiceNow "
+      "snippet": "Apr 24, 2026 · Servicenow Inc supply chain, list and performance of Servicenow Incs ' suppliers - CSIMarket"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.servicenow.com/",
+      "url": "https://www.servicenow.com/customers.html",
       "query": "ServiceNow, Inc. major customers clients",
-      "snippet": "Customer Service Management. Empower self- service , boost agent productivity, and speed up resolution.AI Agent Stories. Learn how ServiceNow customer"
+      "snippet": "ServiceNow Customer Stories · For FedEx, 5M ServiceNow workflows a month help get work done · CVS Health put AI to work for 300,000 colleagues · Bell "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.aegissofttech.com/insights/elevating-service-with-servicenow/",
+      "url": "https://www.reddit.com/r/servicenow/comments/1ctbfyv/how_many_companies_who_have_servicenow_dont/",
       "query": "ServiceNow, Inc. major customers clients",
-      "snippet": "In understanding the underlying foundations of client care, explore through its verifiable setting and follow the advancement of client assumptions. D"
+      "snippet": "May 16, 2024 · I'm almost shocked by the number of companies who have ServiceNow - not the cheapest product on the market by a long shot - and only us"
     }
   ]
 }

@@ -3,8 +3,8 @@ ticker: AMD
 company: Advanced Micro Devices, Inc.
 sector: Technology
 industry: Semiconductors
-extracted_at: 2026-07-13 17:49:02
-last_updated: 2026-07-13
+extracted_at: 2026-07-14 17:17:10
+last_updated: 2026-07-14
 ---
 
 # AMD - Advanced Micro Devices, Inc.
@@ -12,7 +12,7 @@ last_updated: 2026-07-13
 ## 基本信息
 
 - **所属行业**: Technology / Semiconductors
-- **提取时间**: 2026-07-13 17:49:02
+- **提取时间**: 2026-07-14 17:17:10
 
 ## 产业链关系
 
@@ -27,31 +27,31 @@ last_updated: 2026-07-13
 - [[DELL]]
 - [[HPQ]]
 - [[Lenovo]]
-- [[AAPL]]
 - [[SONY]]
+- [[MSFT]]
 
 ### 竞争对手
 - [[INTC]]
 - [[NVDA]]
 - [[QCOM]]
 - [[AVGO]]
-- [[ARM]]
+- [[005930.KS]]
 
 ### 核心产品
 - [[Ryzen CPUs]]
 - [[EPYC CPUs]]
 - [[Radeon GPUs]]
-- [[Xilinx FPGAs]]
-- [[APU SoCs]]
+- [[APU]]
+- [[FPGAs]]
 
 ## 数据来源
 
 - [AMD](https://en.wikipedia.org/wiki/Advanced_Micro_Devices,_Inc.)
-- [Advanced Micro Devices, Inc. suppliers manufacturers](https://www.britannica.com/money/Advanced-Micro-Devices-Inc)
-- [Advanced Micro Devices, Inc. suppliers manufacturers](https://finance.yahoo.com/quote/AMD/)
-- [Advanced Micro Devices, Inc. major customers clients](https://www.britannica.com/money/Advanced-Micro-Devices-Inc)
-- [Advanced Micro Devices, Inc. major customers clients](https://www.tradingview.com/news/marketbeat:26f5a9082094b:0-advanced-micro-devices-shareholders-back-board-as-lisa-su-touts-ai-growth/)
+- [Advanced Micro Devices, Inc. suppliers manufacturers](https://csimarket.com/stocks/AMD-Suppliers)
+- [Advanced Micro Devices, Inc. suppliers manufacturers](https://www.marketscreener.com/quote/stock/AMD-ADVANCED-MICRO-DEVICE-19475876/company-group/)
+- [Advanced Micro Devices, Inc. major customers clients](https://en.wikipedia.org/wiki/AMD)
+- [Advanced Micro Devices, Inc. major customers clients](https://csimarket.com/stocks/AMD-Customers)
 
 ## 元数据
 
-- **更新日期**: 2026-07-13
+- **更新日期**: 2026-07-14

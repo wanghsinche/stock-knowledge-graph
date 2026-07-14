@@ -3,8 +3,8 @@ ticker: NBIS
 company: Nebius Group N.V.
 sector: Communication Services
 industry: Internet Content & Information
-extracted_at: 2026-07-13 17:54:24
-last_updated: 2026-07-13
+extracted_at: 2026-07-14 17:49:03
+last_updated: 2026-07-14
 ---
 
 # NBIS - Nebius Group N.V.
@@ -12,33 +12,33 @@ last_updated: 2026-07-13
 ## 基本信息
 
 - **所属行业**: Communication Services / Internet Content & Information
-- **提取时间**: 2026-07-13 17:54:24
+- **提取时间**: 2026-07-14 17:49:03
 
 ## 产业链关系
 
 ### 上游供应商
 - [[NVDA]]
-- [[INTC]]
-- [[AMD]]
-- [[MU]]
-- [[CSCO]]
+- [[Cloud infrastructure providers (e.g., AWS, Azure, GCP)]]
+- [[AI model providers (e.g., OpenAI, Anthropic)]]
+- [[Data center operators]]
+- [[Networking equipment suppliers]]
 
 ### 下游客户
-- [[GOOGL]]
-- [[AMZN]]
-- [[MSFT]]
-- [[IBM]]
-- [[META]]
+- [[Federal government IT systems (e.g., National Background Investigation Services)]]
+- [[Large enterprises requiring AI infrastructure]]
+- [[Government agencies for personnel processing]]
+- [[Enterprise data analytics firms]]
+- [[Research institutions]]
 
 ### 竞争对手
 - [[OpenAI]]
 - [[Anthropic]]
-- [[DeepMind]]
-- [[Cohere]]
-- [[AI21 Labs]]
+- [[GOOGL]]
+- [[AMZN]]
+- [[MSFT]]
 
 ### 核心产品
-- [[Nebius AI Platform]]
+- [[Nebius AI Infrastructure Platform]]
 - [[Avride]]
 - [[TripleTen]]
 - [[Toloka]]
@@ -47,11 +47,11 @@ last_updated: 2026-07-13
 ## 数据来源
 
 - [Nebius Group](https://en.wikipedia.org/wiki/NBIS)
-- [NBIS suppliers manufacturers](https://csimarket.com/stocks/suppliers_glance.php?code=NBIS)
-- [NBIS suppliers manufacturers](https://www.youtube.com/watch?v=k6hi9ypXEJA)
-- [NBIS major customers clients](https://stocktwits.com/news-articles/markets/equity/nbis-stock-down-about-30-from-peak-amid-meta-ai-cloud-threat-but-retail-still-believes-in-neocloud-opportunity/cZmlOuLR7m0)
-- [NBIS major customers clients](https://www.nasdaq.com/market-activity/stocks/nbis)
+- [NBIS suppliers manufacturers](https://www.dcsa.mil/Systems-Applications/National-Background-Investigation-Services-NBIS/)
+- [NBIS suppliers manufacturers](https://www.dote.osd.mil/Portals/97/pub/reports/FY2024/dod/2024nbis.pdf?ver=XRh6KdVyObJICiJU3oaHRA==)
+- [NBIS major customers clients](https://en.wikipedia.org/wiki/Nebius_Group)
+- [NBIS major customers clients](https://csimarket.com/stocks/NBIS-Customers)
 
 ## 元数据
 
-- **更新日期**: 2026-07-13
+- **更新日期**: 2026-07-14

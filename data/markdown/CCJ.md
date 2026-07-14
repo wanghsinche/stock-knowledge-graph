@@ -3,8 +3,8 @@ ticker: CCJ
 company: Cameco Corporation
 sector: Energy
 industry: Uranium
-extracted_at: 2026-07-13 18:03:36
-last_updated: 2026-07-13
+extracted_at: 2026-07-14 19:11:11
+last_updated: 2026-07-14
 ---
 
 # CCJ - Cameco Corporation
@@ -12,46 +12,46 @@ last_updated: 2026-07-13
 ## 基本信息
 
 - **所属行业**: Energy / Uranium
-- **提取时间**: 2026-07-13 18:03:36
+- **提取时间**: 2026-07-14 19:11:11
 
 ## 产业链关系
 
 ### 上游供应商
-- [[CAT]]
-- [[Komatsu Ltd. (excavators & loaders)]]
-- [[Sandvik AB (mining tools)]]
-- [[Atlas Copco AB (mining equipment)]]
-- [[ABB Ltd. (automation & control systems)]]
+- [[Uranium ore suppliers]]
+- [[Mining equipment manufacturers]]
+- [[Drilling equipment suppliers]]
+- [[Engineering and construction services]]
+- [[Fuel processing equipment providers]]
 
 ### 下游客户
-- [[EDF (France) – nuclear power plants]]
-- [[China National Nuclear Corporation (China)]]
-- [[Ontario Power Generation (Canada)]]
-- [[Nuclear Power Corporation of India Ltd. (India)]]
-- [[Public Service Enterprise Group (US)]]
+- [[Nuclear utilities worldwide]]
+- [[Electricity generation companies]]
+- [[Nuclear power plants in the US, Canada, France, Russia, China]]
+- [[Government nuclear agencies]]
+- [[International Atomic Energy Agency]]
 
 ### 竞争对手
-- [[Kazatomprom (Kazakhstan)]]
-- [[Energy Fuels Inc. (USA)]]
-- [[Uranium Energy Corp. (USA)]]
-- [[Orano SA (France)]]
-- [[Uranium One Ltd. (Russia)]]
+- [[NexGen Energy Ltd.]]
+- [[K+S AG]]
+- [[Uranium Energy Corp]]
+- [[Uranium One]]
+- [[Rio Tinto]]
 
 ### 核心产品
-- [[Uranium concentrate (U3O8)]]
+- [[Uranium concentrate]]
 - [[Uranium hexafluoride (UF6)]]
-- [[Enriched uranium (U235)]]
-- [[Nuclear fuel assemblies]]
-- [[Uranium ore (U3O8 + UF6)]]
+- [[Uranium fuel assemblies]]
+- [[Uranium enrichment services]]
+- [[Uranium ore processing]]
 
 ## 数据来源
 
 - [Cameco](https://en.wikipedia.org/wiki/Cameco_Corporation)
-- [Cameco Corporation suppliers manufacturers](https://www.cameco.com/)
-- [Cameco Corporation suppliers manufacturers](https://grokipedia.com/page/Cameco)
-- [Cameco Corporation competitors alternatives](https://www.cameco.com/)
-- [Cameco Corporation competitors alternatives](https://www.aol.com/articles/oil-geopolitics-cameco-heres-where-033500407.html)
+- [Cameco Corporation suppliers manufacturers](https://en.wikipedia.org/wiki/Cameco)
+- [Cameco Corporation suppliers manufacturers](https://csimarket.com/stocks/CCJ-Suppliers)
+- [Cameco Corporation major customers clients](https://www.cameco.com/invest/markets/cameco-customers)
+- [Cameco Corporation major customers clients](https://csimarket.com/stocks/CCJ-Customers)
 
 ## 元数据
 
-- **更新日期**: 2026-07-13
+- **更新日期**: 2026-07-14

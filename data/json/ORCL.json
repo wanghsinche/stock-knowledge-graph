@@ -4,34 +4,34 @@
   "sector": "Technology",
   "industry": "Software - Infrastructure",
   "upstream": [
-    "AMD",
-    "Cloud Infrastructure Providers (e.g., AWS, Azure)",
-    "Software Component Vendors (e.g., Java, Linux)",
     "DELL",
-    "Semiconductor Partners"
+    "Cloud infrastructure providers (e.g., AWS, Azure)",
+    "Software vendors (e.g., Red Hat, VMware)",
+    "Consulting firms (e.g., Accenture, Deloitte)",
+    "ORCL"
   ],
   "downstream": [
-    "Large Enterprises (e.g., Walmart, Coca‑Cola)",
-    "Government Agencies (e.g., U.S. Department of Defense)",
-    "Financial Institutions (e.g., JPMorgan, Goldman Sachs)",
-    "Healthcare Providers (e.g., Cerner)",
-    "Retail Chains (e.g., Target)"
+    "Government agencies",
+    "Financial institutions",
+    "Healthcare organizations",
+    "Retail companies",
+    "Technology companies"
   ],
   "competitors": [
     "MSFT",
     "AMZN",
     "IBM",
     "SAP",
-    "GOOGL"
+    "MongoDB"
   ],
   "key_products": [
     "Oracle Database",
     "Oracle Cloud Infrastructure",
     "Oracle Autonomous Database",
-    "Oracle ERP Cloud",
-    "Oracle Analytics Cloud"
+    "Oracle Fusion Applications",
+    "Oracle Java"
   ],
-  "extracted_at": "2026-07-13 17:50:34",
+  "extracted_at": "2026-07-14 17:31:13",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://adjkjc.github.io/en.wikipedia.org/wiki/Oracle_Corporation.html",
+      "url": "https://www.oracle.com/corporate/suppliers/",
       "query": "Oracle Corporation suppliers manufacturers",
-      "snippet": "Oracle Corporation is an American multinational computer technology corporation headquartered in Redwood Shores, California. The company sells databas"
+      "snippet": "Doing Business with Oracle Oracle iSupplier Portal (iSP) is a secured self-service tool, which provides Oracle 's suppliers with the ability to use a "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/ORCL-Suppliers",
+      "url": "https://www.oracle.com/partner/find-partner/",
       "query": "Oracle Corporation suppliers manufacturers",
-      "snippet": "Oracle supply chain, list and performance of Oracles ' suppliers - CSIMarket."
+      "snippet": "Easily locate Oracle partners with expertise in building, selling, and providing value-added services for Oracle technology. Search by partner name, c"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.oracle.com/",
+      "url": "https://www.thomsondata.com/customer-base/oracle.php",
       "query": "Oracle Corporation major customers clients",
-      "snippet": "Oracle offers a comprehensive and fully integrated stack of cloud applications and cloud platform services.."
+      "snippet": "Thomson Data makes it easy by offering an accurate and up-to-date list of companies that use Oracle. This list allows you to identify Oracle customers"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.modernhealthcare.com/digital-health/oracle-cerner-larry-ellison-electronic-health-records-ehrs-losing-customers-sales",
+      "url": "https://csimarket.com/stocks/ORCL-Customers",
       "query": "Oracle Corporation major customers clients",
-      "snippet": "Oracle Chairman Larry Ellison’s prediction that Cerner would help Oracle woo massive health-industry customers has so far failed to become reality."
+      "snippet": "For your research, we’ve provided 9 tables on Oracle Corporation corporate clients . You can find them in the navigation menu under Customers & Market"
     }
   ]
 }

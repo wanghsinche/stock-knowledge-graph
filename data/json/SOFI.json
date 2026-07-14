@@ -4,34 +4,34 @@
   "sector": "Financial Services",
   "industry": "Credit Services",
   "upstream": [
-    "Visa Inc.",
-    "Mastercard Inc.",
-    "PayPal Holdings, Inc.",
-    "Stripe Inc.",
-    "SoFi Bank, N.A."
+    "AMZN",
+    "Stripe (payment processing)",
+    "Plaid (financial data aggregation)",
+    "Experian (credit scoring)",
+    "Accenture (consulting & technology services)"
   ],
   "downstream": [
-    "Retail consumers",
-    "Small and medium businesses",
-    "Student loan borrowers",
-    "Mortgage borrowers",
-    "Investment account holders"
+    "Individual consumers refinancing student loans",
+    "Individual consumers applying for personal loans",
+    "Homebuyers seeking mortgage financing",
+    "Small‑business owners seeking working‑capital loans",
+    "Investors using SoFi Invest brokerage platform"
   ],
   "competitors": [
-    "LendingClub Corp.",
-    "Upstart Holdings, Inc.",
+    "LendingClub",
+    "Upstart",
     "Marcus by Goldman Sachs",
-    "SoFi's parent bank competitors (e.g., JPMorgan Chase)",
-    "American Express"
+    "Discover Financial",
+    "Bank of America (online lending arm)"
   ],
   "key_products": [
     "Student loan refinancing",
     "Personal loans",
-    "Mortgage refinancing",
-    "SoFi Credit Card",
-    "SoFi Debit Card"
+    "Mortgage loans",
+    "Credit cards",
+    "Investment brokerage and wealth‑management services"
   ],
-  "extracted_at": "2026-07-13 17:57:44",
+  "extracted_at": "2026-07-14 19:09:26",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.sofi.com/",
+      "url": "https://csimarket.com/stocks/SOFI-Suppliers",
       "query": "SoFi Technologies, Inc. suppliers manufacturers",
-      "snippet": "SoFi Credit Cards and SoFi debit cards are issued by SoFi Bank, N.A. pursuant to license by Mastercard® International Incorporated . SoFi Crypto produ"
+      "snippet": "Jul 7, 2026 · For your research, we’ve provided nine additional tables on Sofi Technologies Inc ’ s suppliers . You can find them in the navigation me"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/SOFI/",
+      "url": "https://www.accio.com/business/sofi",
       "query": "SoFi Technologies, Inc. suppliers manufacturers",
-      "snippet": "SoFi Technologies , Inc . ( SOFI ). Time to buy SOFI ? SoFi Technologies , Inc . provides various financial services in the United States, Latin Ameri"
+      "snippet": "Mar 4, 2026 · Discover top SOFI suppliers in sanitary napkins, fiber optics, and sofas . Get a detailed company analysis report with verified recommen"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.sofi.com/",
+      "url": "https://en.wikipedia.org/wiki/SoFi",
       "query": "SoFi Technologies, Inc. major customers clients",
-      "snippet": "SoFi Credit Cards and SoFi debit cards are issued by SoFi Bank, N.A. pursuant to license by Mastercard® International Incorporated . SoFi Crypto produ"
+      "snippet": "In April 2025, SoFi stated that 41% of its annualized revenues were fee-based, including the fees from the company’s loan platform business, interchan"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/SOFI/",
+      "url": "https://csimarket.com/stocks/SOFI-Customers",
       "query": "SoFi Technologies, Inc. major customers clients",
-      "snippet": "SoFi Technologies , Inc . ( SOFI ). Time to buy SOFI ? SoFi Technologies , Inc . provides various financial services in the United States, Latin Ameri"
+      "snippet": "Jun 18, 2026 · Updated on: Focus of this report: Sofi Technologies Inc ’ s corporate clients . For your research, we’ve provided 9 tables on Sofi Tech"
     }
   ]
 }

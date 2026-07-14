@@ -11,28 +11,26 @@
     "005930.KS"
   ],
   "downstream": [
-    "Enterprise customers (e.g., banks, healthcare, manufacturing)",
-    "Government agencies (U.S. federal, state, local)",
-    "005930.KS",
-    "CAT",
-    "Gaming studios (Xbox Live, Game Pass)"
+    "Enterprises",
+    "Governments",
+    "DELL",
+    "Individual consumers"
   ],
   "competitors": [
     "AAPL",
     "GOOGL",
     "AMZN",
     "ORCL",
-    "IBM"
+    "CRM"
   ],
   "key_products": [
-    "Windows operating system",
-    "Microsoft Office / Microsoft 365",
-    "Azure cloud platform",
-    "Dynamics 365",
-    "Surface devices",
-    "Xbox console & Game Pass"
+    "Windows OS",
+    "Microsoft Office",
+    "Azure Cloud",
+    "Microsoft Teams",
+    "Xbox"
   ],
-  "extracted_at": "2026-07-13 17:49:45",
+  "extracted_at": "2026-07-14 17:22:56",
   "sources": [
     {
       "source": "Wikipedia",
@@ -42,27 +40,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Microsoft",
+      "url": "https://csimarket.com/stocks/MSFT-Suppliers",
       "query": "Microsoft Corporation suppliers manufacturers",
-      "snippet": "Microsoft Corporation is an American multinational technology company headquartered in Redmond, Washington."
+      "snippet": "Jul 7, 2026 · Microsoft supply chain, list and performance of Microsofts' suppliers - CSIMarket"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/MSFT-Shares-vs-Suppliers",
+      "url": "https://www.makesureiknowit.com/company/microsoft",
       "query": "Microsoft Corporation suppliers manufacturers",
-      "snippet": "Microsoft Corporation Cash Flow Statement. Suppliers .Stock Performance at Corporate Suppliers and Business Partners Within Services-Computer Programm"
+      "snippet": "Jun 17, 2026 · Who supplies Microsoft? Its supply chain spans suppliers like NVIDIA, Dell Technologies and customers including OpenAI — plus manufactu"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Microsoft",
+      "url": "https://csimarket.com/stocks/MSFT-Customers",
       "query": "Microsoft Corporation major customers clients",
-      "snippet": "Microsoft Corporation is an American multinational technology company headquartered in Redmond, Washington."
+      "snippet": "Individual consumers obtain these products primarily through retail outlets, such as Wal-Mart, Dixons, and Microsoft retail stores. We distribute our "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.microsoft.com/en-us/microsoft-365/buy/compare-all-microsoft-365-products",
+      "url": "https://www.microsoft.com/en-us/customers/",
       "query": "Microsoft Corporation major customers clients",
-      "snippet": "Compare Microsoft 365 subscription plans and pricing (formerly Office 365). Choose from Personal, Family and Premium subscriptions with Copilot AI, Wo"
+      "snippet": "Explore customer success stories to learn how businesses are overcoming challenges, driving innovation, and achieving more with Microsoft solutions."
     }
   ]
 }

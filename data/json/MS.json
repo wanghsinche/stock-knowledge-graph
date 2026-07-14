@@ -2,20 +2,20 @@
   "ticker": "MS",
   "company_name": "Morgan Stanley",
   "sector": "Financial Services",
-  "industry": "Capital Markets",
+  "industry": "Investment Banking & Capital Markets",
   "upstream": [
-    "Technology vendors (e.g., Bloomberg, Refinitiv)",
-    "Data providers (e.g., FactSet)",
-    "Legal and compliance services",
-    "Risk management software providers",
-    "Cybersecurity firms"
+    "Financial data providers (e.g., Bloomberg, Refinitiv)",
+    "MSFT",
+    "Regulatory bodies (SEC, FINRA)",
+    "Legal and compliance consultants",
+    "Risk management software providers"
   ],
   "downstream": [
-    "Corporations (e.g., Fortune 500 companies)",
+    "AAPL",
     "Governments and sovereign entities",
-    "Institutional investors (pension funds, endowments)",
-    "High-net-worth individuals",
-    "Financial institutions (banks, insurance companies)"
+    "Institutional investors (pension funds, insurance companies)",
+    "High‑net‑worth individuals",
+    "Asset managers and hedge funds"
   ],
   "competitors": [
     "Goldman Sachs",
@@ -26,12 +26,12 @@
   ],
   "key_products": [
     "Investment banking advisory",
-    "Asset management",
-    "Wealth management",
+    "Equity and debt underwriting",
     "Securities trading and brokerage",
-    "Research and analytics"
+    "Wealth management and private banking",
+    "Research and market analytics"
   ],
-  "extracted_at": "2026-04-15 17:02:04",
+  "extracted_at": "2026-07-14 19:08:03",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/MS-Suppliers",
-      "query": "Morgan Stanley suppliers manufacturers",
-      "snippet": "Morgan Stanley supply chain, list and performance of Morgan Stanleys ' suppliers - CSIMarket. Morgan Stanley 's Suppliers Performance. MS's Supply Cha"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.morganstanley.com/",
-      "query": "Morgan Stanley suppliers manufacturers",
-      "snippet": "At Morgan Stanley , we lead with exceptional ideas. Across all our businesses, we offer keen insight on today's most critical issues."
-    },
-    {
-      "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Morgan_Stanley",
       "query": "Morgan Stanley major customers clients",
-      "snippet": "In 2009, Morgan Stanley purchased Smith Barney from Citigroup and the new broker-dealer operates under the name Morgan Stanley Smith Barney, the large"
+      "snippet": "Original founders were J.P. Morgan & Co. partners Henry Sturgis Morgan (a grandson of J.P. Morgan), Harold Stanley , and others. In its first year, th"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.morganstanley.com/about-us-governance/businesssegments",
+      "url": "https://csimarket.com/stocks/MS-Customers",
       "query": "Morgan Stanley major customers clients",
-      "snippet": "Institutional Securities Corporations Governments Financial institutions High-to-ultra high net worth clients Investment banking: Capital raising, inc"
+      "snippet": "For your research, we’ve provided 9 tables on Morgan Stanley corporate clients. You can find them in the navigation menu under Customers & Markets. To"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.marketing91.com/morgan-stanley-competitors/",
+      "query": "Morgan Stanley competitors alternatives",
+      "snippet": "Nov 27, 2024 · Morgan Stanley is an American multinational investment bank and financial services company headquartered in New York City. In this arti"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.brokerage-review.com/wealth-management/competitors/morgan-stanley-competitors.aspx",
+      "query": "Morgan Stanley competitors alternatives",
+      "snippet": "May 25, 2026 · Top Morgan Stanley competitors . Alternative companies like Morgan Stanley for wealth management & financial advisor sercices. Is Morga"
     }
   ]
 }

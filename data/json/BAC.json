@@ -5,33 +5,33 @@
   "industry": "Banks - Diversified",
   "upstream": [
     "MSFT",
-    "Payment processors (e.g., Visa, Mastercard)",
     "MSFT",
     "Cybersecurity firms (e.g., Palo Alto Networks, Symantec)",
-    "Data analytics providers (e.g., SAS, Tableau)"
+    "Data center and hosting services",
+    "Office equipment and furniture suppliers"
   ],
   "downstream": [
-    "Large corporations and institutional clients",
-    "Small and medium-sized businesses",
-    "Individual consumers",
-    "Government and public sector entities",
-    "High-net-worth individuals and families"
+    "Retail banking customers (individuals)",
+    "Corporate banking clients (mid‑size to large enterprises)",
+    "Small and medium‑enterprise (SME) clients",
+    "Wealth management and investment advisory clients",
+    "Mortgage and real‑estate financing customers"
   ],
   "competitors": [
-    "JPMorgan Chase",
-    "Wells Fargo",
-    "Citigroup",
-    "Goldman Sachs",
+    "JPMorgan Chase & Co.",
+    "Citigroup Inc.",
+    "Wells Fargo & Co.",
+    "Goldman Sachs Group Inc.",
     "Morgan Stanley"
   ],
   "key_products": [
-    "Retail banking services",
-    "Commercial banking and lending",
-    "Investment banking and advisory",
+    "Consumer banking and credit cards",
+    "Commercial and corporate banking",
+    "Investment banking and capital markets",
     "Wealth management and private banking",
-    "Credit cards and consumer loans"
+    "Mortgage and real‑estate financing"
   ],
-  "extracted_at": "2026-07-13 18:02:35",
+  "extracted_at": "2026-07-14 18:52:42",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.bankofamerica.com/",
+      "url": "https://about.bankofamerica.com/en/our-company/supplier-management",
       "query": "Bank of America Corporation suppliers manufacturers",
-      "snippet": "At Bank of America , our purpose is to help make financial lives better through the power of every connection.Get it on the App Store. Download the Ba"
+      "snippet": "Bank of America is dedicated to partnering with suppliers who value ethics, inclusion, human rights, and the environment. Learn more about our supplie"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/BAC/",
+      "url": "https://about.bankofamerica.com/content/dam/about/pdfs/Bank_of_America_Supplier_Expectations.pdf",
       "query": "Bank of America Corporation suppliers manufacturers",
-      "snippet": "Find the latest Bank of America Corporation (BAC) stock quote, history, news and other vital information to help you with your stock trading and inves"
+      "snippet": "This description of Supplier Expectations is intended to assist our suppliers in understanding and complying with their contractual obligations with t"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.bankofamerica.com/",
+      "url": "https://en.wikipedia.org/wiki/Bank_of_America",
       "query": "Bank of America Corporation major customers clients",
-      "snippet": "At Bank of America , our purpose is to help make financial lives better through the power of every connection.Get it on the App Store. Download the Ba"
+      "snippet": "It serves about 10 percent of all American bank deposits, in competition with JPMorgan Chase, Citigroup, and Wells Fargo. Its primary financial servic"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://stocktwits.com/symbol/bac/about",
+      "url": "https://newsroom.bankofamerica.com/content/newsroom/company-overview/bank-of-america-fast-facts.html",
       "query": "Bank of America Corporation major customers clients",
-      "snippet": "Bank of America Corp . is a bank and financial holding company, which engages in the provision of banking and nonbank financial services.Industry: Maj"
+      "snippet": "Apr 16, 2026 · Explore Bank of America Fast Facts for key insights on our global presence, financial services, client reach, and commitment to respons"
     }
   ]
 }

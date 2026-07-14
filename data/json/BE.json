@@ -3,11 +3,35 @@
   "company_name": "Bloom Energy Corporation",
   "sector": "Industrials",
   "industry": "Electrical Equipment & Parts",
-  "upstream": [],
-  "downstream": [],
-  "competitors": [],
-  "key_products": [],
-  "extracted_at": "2026-07-13 17:53:56",
+  "upstream": [
+    "Natural gas suppliers",
+    "Biogas producers",
+    "Hydrogen suppliers",
+    "SOFC stack component manufacturers",
+    "Electrolyzer component suppliers"
+  ],
+  "downstream": [
+    "AMZN",
+    "GOOGL",
+    "MSFT",
+    "CAT",
+    "Hospitals"
+  ],
+  "competitors": [
+    "FuelCell Energy",
+    "PowerCell International",
+    "Plug Power",
+    "NextEra Energy",
+    "Bloom Energy (other regional players)"
+  ],
+  "key_products": [
+    "Solid Oxide Fuel Cells (Bloom Energy Server)",
+    "Bloom Energy Power Plant",
+    "Electrolyzers for hydrogen production",
+    "Hydrogen fuel cell systems",
+    "Onsite power generation solutions"
+  ],
+  "extracted_at": "2026-07-14 18:59:21",
   "sources": [
     {
       "source": "Wikipedia",
@@ -17,15 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ca.finance.yahoo.com/quote/BE/",
+      "url": "https://en.wikipedia.org/wiki/Bloom_Energy",
       "query": "Bloom Energy Corporation suppliers manufacturers",
-      "snippet": "Bloom Energy Corporation Overview Electrical Equipment & Parts / Industrials. Bloom Energy Corporation designs, manufactures , sells, and installs sol"
+      "snippet": "Bloom Energy (formerly, Ion America) is an American public company that designs and manufactures solid oxide fuel cells (SOFCs) which independently pr"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.linkedin.com/company/bloom-energy",
+      "url": "https://www.bloomenergy.com/",
       "query": "Bloom Energy Corporation suppliers manufacturers",
-      "snippet": "Bloom Energy empowers businesses and communities to responsibly take charge of their energy . The company’s leading solid-oxide platform for distribut"
+      "snippet": "For over 25 years, Bloom has provided onsite energy solutions that supercharge the world’s most visionary companies. Abundant power is the defining li"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/Bloom_Energy",
+      "query": "Bloom Energy Corporation major customers clients",
+      "snippet": "Bloom Energy (formerly, Ion America) is an American public company that designs and manufactures solid oxide fuel cells (SOFCs) which independently pr"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.bloomenergy.com/customers/",
+      "query": "Bloom Energy Corporation major customers clients",
+      "snippet": "Bloom Energy ' s customers have important goals: clean energy, dependency, resiliency, reliability, and affordability. We're here to help reach those "
     }
   ]
 }

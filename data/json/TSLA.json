@@ -4,25 +4,25 @@
   "sector": "Consumer Cyclical",
   "industry": "Auto Manufacturers",
   "upstream": [
-    "LG Chem",
     "Panasonic",
+    "LG Chem",
     "CAT",
-    "Bosch",
-    "Denso"
+    "005930.KS",
+    "Bosch"
   ],
   "downstream": [
     "Individual consumers",
-    "Commercial fleet operators",
-    "Residential solar customers",
     "Utility companies",
-    "Government agencies"
+    "Commercial fleet operators",
+    "Energy storage customers",
+    "Solar installation customers"
   ],
   "competitors": [
     "Ford",
     "General Motors",
     "Volkswagen",
-    "Hyundai",
-    "Nissan"
+    "Lucid Motors",
+    "Rivian"
   ],
   "key_products": [
     "Model S",
@@ -31,7 +31,7 @@
     "Model Y",
     "Powerwall"
   ],
-  "extracted_at": "2026-07-13 17:48:36",
+  "extracted_at": "2026-07-14 17:21:25",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Tesla,_Inc.",
+      "url": "https://csimarket.com/stocks/TSLA-Suppliers",
       "query": "Tesla, Inc. suppliers manufacturers",
-      "snippet": "1 week ago - The practice of vertical integration ... to suppliers and focus on engine manufacturing and final assembly. Tesla generally allows its co"
+      "snippet": "Jul 7, 2026 · Tesla Inc 's Comment on Supply Chain Model S uses over 2,000 purchased parts which we source globally from over 300 suppliers , the majo"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.investopedia.com/ask/answers/052815/who-are-teslas-tsla-main-suppliers.asp",
       "query": "Tesla, Inc. suppliers manufacturers",
-      "snippet": "November 4, 2025 - Tesla manufactures key components like the electric motor, battery pack, and charger, but relies on suppliers for other parts. Key "
+      "snippet": "Nov 4, 2025 · Discover Tesla's key and rumored parts suppliers . Learn which companies provide essential components for Tesla's electric vehicles and "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Tesla,_Inc.",
+      "url": "https://csimarket.com/stocks/TSLA-Customers",
       "query": "Tesla, Inc. major customers clients",
-      "snippet": "Tesla subsidiary Tesla Energy develops, builds, sells, and installs solar energy generation systems and battery energy storage products (as well as re"
+      "snippet": "We currently sell our cars primarily to individual customers . We have strategic or commercial relationships with Daimler, Toyota, and Panasonic. We c"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.tesla.com/",
+      "url": "https://mungomash.com/orgs/tesla/customers/",
       "query": "Tesla, Inc. major customers clients",
-      "snippet": "Explore limited-time offers on Tesla vehicles. Learn More. Tesla vehicle. Inventory. Find nearby vehicles available for immediate delivery."
+      "snippet": "Named Tesla customers across Energy / Megapack utility-scale deployments, NACS-adoption partner automakers and charging networks, Solar projects, and "
     }
   ]
 }

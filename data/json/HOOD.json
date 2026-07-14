@@ -2,36 +2,36 @@
   "ticker": "HOOD",
   "company_name": "Robinhood Markets, Inc.",
   "sector": "Financial Services",
-  "industry": "Capital Markets",
+  "industry": "Capital Markets / Brokerage",
   "upstream": [
-    "Nasdaq",
     "AMZN",
-    "Stripe",
     "MSFT",
-    "FINRA"
+    "Bloomberg L.P.",
+    "Refinitiv",
+    "Stripe"
   ],
   "downstream": [
     "Retail investors",
-    "Day traders",
+    "High-net-worth individuals",
     "Institutional investors",
-    "Crypto traders",
-    "Options traders"
+    "Day traders",
+    "Crypto traders"
   ],
   "competitors": [
-    "E*TRADE",
-    "Charles Schwab",
-    "Fidelity Investments",
+    "Webull",
+    "eToro",
     "TD Ameritrade",
-    "Webull"
+    "Charles Schwab",
+    "Fidelity"
   ],
   "key_products": [
-    "Commission‑free stock trading",
-    "Robinhood Gold (margin)",
+    "Commission‑free stock trading app",
+    "Robinhood Gold subscription",
+    "Cash Management account",
     "Options trading",
-    "Crypto trading",
-    "Cash management"
+    "Cryptocurrency trading"
   ],
-  "extracted_at": "2026-07-13 17:55:33",
+  "extracted_at": "2026-07-14 19:02:10",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://pitchgrade.com/companies/robinhood-markets",
+      "url": "https://en.wikipedia.org/wiki/Robinhood_Markets",
       "query": "Robinhood Markets, Inc. suppliers manufacturers",
-      "snippet": "How Robinhood Markets , Inc . generates revenue across its key business segments and the unit economics behind each. A data-backed SWOT analysis cover"
+      "snippet": "It provides an electronic trading platform that facilitates trades of stocks, exchange-traded funds (ETFs), options, index options, futures contracts,"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://robinhood.com/us/en/",
+      "url": "https://csimarket.com/stocks/HOOD-Suppliers",
       "query": "Robinhood Markets, Inc. suppliers manufacturers",
-      "snippet": "Trade stocks on Robinhood with commission-free investing & advanced trading tools. Access fractional shares, real-time market data, and more.Manage yo"
+      "snippet": "Jun 22, 2026 · For your research, we’ve provided nine additional tables on Robinhood Markets Inc ’s suppliers . You can find them in the navigation me"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://robinhood.com/us/en/",
+      "url": "https://en.wikipedia.org/wiki/Robinhood_Markets",
       "query": "Robinhood Markets, Inc. major customers clients",
-      "snippet": "Trade stocks on Robinhood with commission-free investing & advanced trading tools. Access fractional shares, real-time market data, and more."
+      "snippet": "Robinhood Markets , Inc . is an American financial services company based in Menlo Park, California. It provides an electronic trading platform that f"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/HOOD/",
+      "url": "https://investingintheweb.com/brokers/robinhood-statistics/",
       "query": "Robinhood Markets, Inc. major customers clients",
-      "snippet": "Find the latest Robinhood Markets , Inc . ( HOOD ) stock quote, history, news and other vital information to help you with your stock trading and inve"
+      "snippet": "Jun 23, 2026 · The platform has gained a massive customer base in the US, making it a major disruptor in the finance industry. In this article, we wil"
     }
   ]
 }

@@ -4,18 +4,18 @@
   "sector": "Financial Services",
   "industry": "Banks - Diversified",
   "upstream": [
-    "MSFT",
     "ORCL",
-    "IBM",
-    "CRM",
-    "Accenture"
+    "Consulting firms (e.g., Accenture, Deloitte)",
+    "Legal service providers",
+    "Data and analytics providers (e.g., Bloomberg, Refinitiv)",
+    "Payment processing partners (e.g., Visa, Mastercard)"
   ],
   "downstream": [
-    "Large multinational corporations",
-    "Government entities",
-    "Small and medium enterprises",
     "Retail banking customers",
-    "High‑net‑worth individuals"
+    "Corporate and institutional clients",
+    "Government and public sector entities",
+    "Small and medium enterprises",
+    "High-net-worth individuals"
   ],
   "competitors": [
     "JPMorgan Chase & Co.",
@@ -26,12 +26,12 @@
   ],
   "key_products": [
     "Investment banking services",
-    "Consumer banking & credit cards",
-    "Wealth management & private banking",
-    "Treasury and cash management",
-    "Capital markets & securities brokerage"
+    "Consumer banking and credit cards",
+    "Wealth and asset management",
+    "Treasury and trade solutions",
+    "Commercial banking and lending"
   ],
-  "extracted_at": "2026-06-17 18:19:03",
+  "extracted_at": "2026-07-14 17:45:09",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Citigroup",
+      "url": "https://www.citigroup.com/global/suppliers/citi-isupplier-portal",
       "query": "Citigroup Inc. suppliers manufacturers",
-      "snippet": "This list only contains chairmen since the formation of Citigroup in 1998; for a full list of chairmen including Citigroup 's predecessors, please see"
+      "snippet": "The Citi iSupplier Portal is an enterprise application for existing approved Citi Suppliers . It enables secure supplier self-service capabilities and"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://csimarket.com/stocks/C-Suppliers",
       "query": "Citigroup Inc. suppliers manufacturers",
-      "snippet": "Citigroup Inc supply chain, list and performance of Citigroup Incs ' suppliers - CSIMarket"
+      "snippet": "Jun 22, 2026 · For your research, we’ve provided nine additional tables on Citigroup inc ’ s suppliers . You can find them in the navigation menu unde"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Citigroup",
       "query": "Citigroup Inc. major customers clients",
-      "snippet": "Citigroup Inc . or Citi is an American multinational investment bank and financial services company based in New York City. The company was formed in "
+      "snippet": "This list only contains chairmen since the formation of Citigroup in 1998; for a full list of chairmen including Citigroup 's predecessors, please see"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.investing.com/equities/citigroup-incorporated-company-profile",
+      "url": "https://csimarket.com/stocks/C-Customers",
       "query": "Citigroup Inc. major customers clients",
-      "snippet": "Citigroup Inc ., a diversified financial service holding company, provides various financial products and services to consumers, corporations, governm"
+      "snippet": "For your research, we’ve provided 9 tables on Citigroup inc corporate clients . You can find them in the navigation menu under Customers & Markets. To"
     }
   ]
 }

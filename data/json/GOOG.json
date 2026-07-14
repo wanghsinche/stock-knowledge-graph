@@ -5,13 +5,13 @@
   "industry": "Internet Content & Information",
   "upstream": [
     "INTC",
+    "AMD",
     "NVDA",
     "QCOM",
-    "005930.KS",
     "TSM"
   ],
   "downstream": [
-    "Advertisers",
+    "GOOGL",
     "Android device manufacturers",
     "GOOGL",
     "YouTube content creators",
@@ -26,12 +26,12 @@
   ],
   "key_products": [
     "Google Search",
-    "Google Ads",
-    "Google Cloud Platform",
     "YouTube",
-    "Android OS"
+    "Google Cloud Platform",
+    "Android OS",
+    "Google Workspace"
   ],
-  "extracted_at": "2026-07-13 17:52:41",
+  "extracted_at": "2026-07-14 18:46:19",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,25 +43,25 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Alphabet_Inc.",
       "query": "Alphabet Inc. suppliers manufacturers",
-      "snippet": "Alphabet Inc . is an American multinational technology conglomerate holding company headquartered in Mountain View, California. It was created through"
+      "snippet": "2 days ago - Alphabet Inc . is an American multinational technology conglomerate holding company headquartered in Mountain View, California. It was cr"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/GOOG-Suppliers",
+      "url": "https://en.wikipedia.org/wiki/Category:Alphabet_Inc._subsidiaries",
       "query": "Alphabet Inc. suppliers manufacturers",
-      "snippet": "Alphabet Inc supply chain, list and performance of Alphabet Incs ' suppliers - CSIMarket."
+      "snippet": "Alphabet Inc ."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Alphabet_Inc.",
+      "url": "https://csimarket.com/stocks/GOOG-Customers",
       "query": "Alphabet Inc. major customers clients",
-      "snippet": "Alphabet Inc . is an American multinational technology conglomerate holding company headquartered in Mountain View, California. It was created through"
+      "snippet": "For your research, we’ve provided 9 tables on Alphabet Inc corporate clients . You can find them in the navigation menu under Customers & Markets. To "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://pitchgrade.com/companies/alphabet-inc-class-a",
+      "url": "https://pitchgrade.com/companies/alphabet-inc",
       "query": "Alphabet Inc. major customers clients",
-      "snippet": "Customer Segments: Alphabet Inc . (Class A) serves multiple distinct customer segments, which may include consumers, small and medium businesses, ente"
+      "snippet": "Jan 15, 2026 · Customer Segments: Alphabet Inc . serves multiple distinct customer segments, which may include consumers, small and medium businesses,"
     }
   ]
 }

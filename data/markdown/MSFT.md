@@ -3,8 +3,8 @@ ticker: MSFT
 company: Microsoft Corporation
 sector: Technology
 industry: Software - Infrastructure
-extracted_at: 2026-07-13 17:49:45
-last_updated: 2026-07-13
+extracted_at: 2026-07-14 17:22:56
+last_updated: 2026-07-14
 ---
 
 # MSFT - Microsoft Corporation
@@ -12,7 +12,7 @@ last_updated: 2026-07-13
 ## 基本信息
 
 - **所属行业**: Technology / Software - Infrastructure
-- **提取时间**: 2026-07-13 17:49:45
+- **提取时间**: 2026-07-14 17:22:56
 
 ## 产业链关系
 
@@ -24,35 +24,33 @@ last_updated: 2026-07-13
 - [[005930.KS]]
 
 ### 下游客户
-- [[Enterprise customers (e.g., banks, healthcare, manufacturing)]]
-- [[Government agencies (U.S. federal, state, local)]]
-- [[005930.KS]]
-- [[CAT]]
-- [[Gaming studios (Xbox Live, Game Pass)]]
+- [[Enterprises]]
+- [[Governments]]
+- [[DELL]]
+- [[Individual consumers]]
 
 ### 竞争对手
 - [[AAPL]]
 - [[GOOGL]]
 - [[AMZN]]
 - [[ORCL]]
-- [[IBM]]
+- [[CRM]]
 
 ### 核心产品
-- [[Windows operating system]]
-- [[Microsoft Office / Microsoft 365]]
-- [[Azure cloud platform]]
-- [[Dynamics 365]]
-- [[Surface devices]]
-- [[Xbox console & Game Pass]]
+- [[Windows OS]]
+- [[Microsoft Office]]
+- [[Azure Cloud]]
+- [[Microsoft Teams]]
+- [[Xbox]]
 
 ## 数据来源
 
 - [Microsoft](https://en.wikipedia.org/wiki/Microsoft_Corporation)
-- [Microsoft Corporation suppliers manufacturers](https://en.wikipedia.org/wiki/Microsoft)
-- [Microsoft Corporation suppliers manufacturers](https://csimarket.com/stocks/MSFT-Shares-vs-Suppliers)
-- [Microsoft Corporation major customers clients](https://en.wikipedia.org/wiki/Microsoft)
-- [Microsoft Corporation major customers clients](https://www.microsoft.com/en-us/microsoft-365/buy/compare-all-microsoft-365-products)
+- [Microsoft Corporation suppliers manufacturers](https://csimarket.com/stocks/MSFT-Suppliers)
+- [Microsoft Corporation suppliers manufacturers](https://www.makesureiknowit.com/company/microsoft)
+- [Microsoft Corporation major customers clients](https://csimarket.com/stocks/MSFT-Customers)
+- [Microsoft Corporation major customers clients](https://www.microsoft.com/en-us/customers/)
 
 ## 元数据
 
-- **更新日期**: 2026-07-13
+- **更新日期**: 2026-07-14

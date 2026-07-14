@@ -5,33 +5,33 @@
   "industry": "Capital Markets",
   "upstream": [
     "MSFT",
-    "AMZN",
-    "ORCL",
-    "Bloomberg",
-    "Refinitiv"
+    "Data providers (Bloomberg, Refinitiv)",
+    "Legal services (Skadden, Arent, Wachtell, etc.)",
+    "Consulting firms (McKinsey, BCG, Bain)",
+    "Office and infrastructure suppliers (Staples, Office Depot)"
   ],
   "downstream": [
-    "Institutional investors",
-    "Corporations",
-    "Governments",
-    "Pension funds",
-    "High‑net‑worth individuals"
+    "Corporate clients (large multinational corporations)",
+    "Institutional investors (pension funds, mutual funds, endowments)",
+    "Sovereign wealth funds",
+    "Insurance companies",
+    "High‑net‑worth individuals and family offices"
   ],
   "competitors": [
-    "JPMorgan Chase",
+    "J.P. Morgan Chase & Co.",
     "Morgan Stanley",
-    "Bank of America Merrill Lynch",
     "Citigroup",
+    "Bank of America Merrill Lynch",
     "UBS"
   ],
   "key_products": [
-    "Investment banking services",
-    "Asset management",
-    "Securities trading",
-    "Wealth management",
-    "Derivatives and structured finance"
+    "Investment banking advisory and underwriting",
+    "Asset management and wealth management",
+    "Trading and brokerage services",
+    "Capital markets financing and syndication",
+    "Risk management and derivatives"
   ],
-  "extracted_at": "2026-06-26 17:42:10",
+  "extracted_at": "2026-07-14 17:41:40",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.goldmansachs.com/",
+      "url": "https://csimarket.com/stocks/GS-Suppliers",
       "query": "The Goldman Sachs Group, Inc. suppliers manufacturers",
-      "snippet": "The Goldman Sachs Group , Inc . is a leading global investment banking, securities, and asset and wealth management firm that provides a wide range of"
+      "snippet": "Jul 7, 2026 · For your research, we’ve provided nine additional tables on The Goldman Sachs Group Inc ’s suppliers . You can find them in the navigati"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/GS/",
+      "url": "https://www.goldmansachs.com/our-firm/our-vendor-program",
       "query": "The Goldman Sachs Group, Inc. suppliers manufacturers",
-      "snippet": "Find the latest The Goldman Sachs Group , Inc . (GS) stock quote, history, news and other vital information to help you with your stock trading and in"
+      "snippet": "At Goldman Sachs , we partner with a variety of organizations to deliver creative and innovative solutions for our clients and global business. We wor"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.goldmansachs.com/",
+      "url": "https://en.wikipedia.org/wiki/Goldman_Sachs",
       "query": "The Goldman Sachs Group, Inc. major customers clients",
-      "snippet": "The Goldman Sachs Group , Inc . is a leading global investment banking, securities, and asset and wealth management firm that provides a wide range of"
+      "snippet": "Goldman Sachs offers services in investment banking (advisory for mergers and acquisitions and restructuring), securities underwriting, prime brokerag"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/GS/",
+      "url": "https://www.goldmansachs.com/what-we-do/serving-clients",
       "query": "The Goldman Sachs Group, Inc. major customers clients",
-      "snippet": "Find the latest The Goldman Sachs Group , Inc . (GS) stock quote, history, news and other vital information to help you with your stock trading and in"
+      "snippet": "Financing, advisory services, risk distribution, and hedging for our institutional and corporate clients . Advice, investing, and execution for instit"
     }
   ]
 }

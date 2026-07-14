@@ -1,37 +1,37 @@
 {
   "ticker": "PLTR",
   "company_name": "Palantir Technologies Inc.",
-  "sector": "Technology / Software - Infrastructure",
-  "industry": "Data Analytics / AI",
+  "sector": "Technology",
+  "industry": "Software - Infrastructure",
   "upstream": [
     "AMZN",
     "MSFT",
     "GOOGL",
-    "INTC",
-    "NVDA"
+    "Snowflake",
+    "Databricks"
   ],
   "downstream": [
     "U.S. Department of Defense",
-    "INTC",
-    "Walmart",
-    "JPMorgan Chase",
-    "UK Government"
+    "U.S. Department of Homeland Security",
+    "U.S. Department of Justice",
+    "U.S. Department of State",
+    "U.S. Department of Energy"
   ],
   "competitors": [
     "Snowflake",
     "Databricks",
     "Splunk",
-    "Qlik",
-    "Tableau"
+    "IBM",
+    "MSFT"
   ],
   "key_products": [
     "Palantir Foundry",
     "Palantir Gotham",
     "Palantir Apollo",
-    "Palantir Helix",
-    "Palantir Data Integration Platform"
+    "Palantir Helios",
+    "Palantir Atlas"
   ],
-  "extracted_at": "2026-07-13 17:51:23",
+  "extracted_at": "2026-07-14 17:28:43",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Palantir",
+      "url": "https://csimarket.com/stocks/PLTR-Suppliers",
       "query": "Palantir Technologies Inc. suppliers manufacturers",
-      "snippet": "Palantir Technologies Inc . is an American publicly traded company that develops data integration and analytics software. Palantir is headquartered in"
+      "snippet": "Jul 7, 2026 · For your research, we’ve provided nine additional tables on Palantir Technologies Inc ’ s suppliers . You can find them in the navigatio"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.businesswire.com/news/home/20240807171687/en/From-the-Farm-to-the-Frosty-Palantir-and-Wendys-Partner-on-AI-and-Supply-Chain-Digitalization",
+      "url": "https://www.palantir.com/partners/technical/",
       "query": "Palantir Technologies Inc. suppliers manufacturers",
-      "snippet": "Palantir Technologies Inc . (NYSE: PLTR), a leading provider of AI systems, and Wendy’s Quality Supply Chain Co-op (QSCC) today announced they have pa"
+      "snippet": "Palantir Tech nical Partners From hyperscalers to seamless third party integrations, explore our trusted technical Vanguard network."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Palantir",
+      "url": "https://www.readycontacts.com/target-account-profiling/palantir/",
       "query": "Palantir Technologies Inc. major customers clients",
-      "snippet": "Palantir Technologies Inc . is an American publicly traded company that develops data integration and analytics software. Palantir is headquartered in"
+      "snippet": "Jun 21, 2026 · Download a list of 490 verified Palantir customers with the complete company and contact information."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/PLTR/",
+      "url": "https://www.appsruntheworld.com/customers-database/vendors/view/palantir-technologies",
       "query": "Palantir Technologies Inc. major customers clients",
-      "snippet": "Find the latest Palantir Technologies Inc . (PLTR) stock quote, history, news and other vital information to help you with your stock trading and inve"
+      "snippet": "Which Palantir Technologies products have the most recorded customers ? The most widely adopted products are Palantir Foundry, Palantir AIP Platform, "
     }
   ]
 }

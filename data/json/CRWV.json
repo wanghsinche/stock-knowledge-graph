@@ -2,36 +2,36 @@
   "ticker": "CRWV",
   "company_name": "CoreWeave, Inc.",
   "sector": "Technology / Software - Infrastructure",
-  "industry": "Cloud Computing / AI Infrastructure",
+  "industry": "Artificial Intelligence Cloud Computing",
   "upstream": [
     "NVDA",
     "AMD",
     "INTC",
-    "DELL",
-    "Hewlett‑Packard Enterprise"
+    "Xilinx",
+    "AVGO"
   ],
   "downstream": [
     "OpenAI",
-    "Anthropic",
+    "Mistral AI",
+    "IBM",
     "MSFT",
-    "GOOGL",
-    "ADBE"
+    "AMZN"
   ],
   "competitors": [
-    "AMZN",
-    "MSFT",
-    "GOOGL",
     "NVDA",
-    "Paperspace"
+    "AMD",
+    "GOOGL",
+    "AMZN",
+    "MSFT"
   ],
   "key_products": [
-    "GPU‑based AI cloud infrastructure",
-    "Custom GPU cluster provisioning",
-    "GPU virtualization services",
-    "AI training and inference workloads",
-    "Chip‑management software"
+    "GPU-based cloud infrastructure",
+    "GPU compute instances for AI workloads",
+    "GPU virtualization and management software",
+    "AI training and inference services",
+    "Custom GPU cluster orchestration"
   ],
-  "extracted_at": "2026-07-13 18:00:25",
+  "extracted_at": "2026-07-14 19:06:42",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,25 +43,25 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/CoreWeave",
       "query": "CoreWeave, Inc. suppliers manufacturers",
-      "snippet": "CoreWeave , Inc . is an American artificial intelligence cloud-computing company based in Livingston, New Jersey."
+      "snippet": "CoreWeave , Inc . is an American artificial intelligence (AI) cloud-computing company based in Livingston, New Jersey. It specializes in providing clo"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.techtimes.com/articles/320239/20260712/nvidia-circular-financing-249b-coreweave-debt-puts-pension-funds-risk.htm",
+      "url": "https://www.coreweave.com/",
       "query": "CoreWeave, Inc. suppliers manufacturers",
-      "snippet": "Nvidia circular financing moved AI infrastructure debt into pension portfolios: CoreWeave ’s $8.5B DDTL 4.0, rated A3 by Moody’s in March 2026, was th"
+      "snippet": "From leading AI labs like OpenAI and Mistral AI to global giants like IBM, the world’s most ambitious AI innovators build on CoreWeave . Explore how t"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/CoreWeave",
+      "url": "https://www.coreweave.com/case-studies",
       "query": "CoreWeave, Inc. major customers clients",
-      "snippet": "CoreWeave , Inc . is an American artificial intelligence cloud-computing company based in Livingston, New Jersey. It specializes in providing cloud-ba"
+      "snippet": "Learn how CoreWeave customers like OpenAI and IBM are provisioning the GPUs they need and building AI infrastructure on a massive scale with unprecede"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://247wallst.com/investing/2026/07/09/down-40-coreweave-is-being-left-behind-by-the-market/",
+      "url": "https://www.appsruntheworld.com/customers-database/vendors/view/coreweave",
       "query": "CoreWeave, Inc. major customers clients",
-      "snippet": "CoreWeave (NASDAQ:CRWV) has fallen 40.57% over the past year, even as Nebius Group (NASDAQ:NBIS | NBIS Price Prediction) has surged 359.62% and IREN ("
+      "snippet": "List of companies using or evaluating CoreWeave applications, with details on their revenues, employees, industries, and locations."
     }
   ]
 }

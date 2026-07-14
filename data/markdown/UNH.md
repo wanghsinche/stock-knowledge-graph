@@ -2,57 +2,56 @@
 ticker: UNH
 company: UnitedHealth Group Incorporated
 sector: Healthcare
-industry: Health Insurance / Health Plans
-extracted_at: 2026-07-10 17:53:05
-last_updated: 2026-07-10
+industry: Healthcare Plans
+extracted_at: 2026-07-14 19:04:39
+last_updated: 2026-07-14
 ---
 
 # UNH - UnitedHealth Group Incorporated
 
 ## 基本信息
 
-- **所属行业**: Healthcare / Health Insurance / Health Plans
-- **提取时间**: 2026-07-10 17:53:05
+- **所属行业**: Healthcare / Healthcare Plans
+- **提取时间**: 2026-07-14 19:04:39
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Pharmaceutical manufacturers]]
-- [[Medical device manufacturers]]
-- [[Health technology vendors]]
-- [[Pharmacy benefit management providers]]
-- [[Data analytics and IT service providers]]
+- [[Pharmaceutical manufacturers (e.g., Pfizer, Johnson & Johnson)]]
+- [[Medical device manufacturers (e.g., Medtronic, Abbott)]]
+- [[Health IT vendors (e.g., Epic Systems, Cerner)]]
+- [[Pharmacy benefit managers (e.g., Express Scripts, CVS Caremark)]]
+- [[IBM]]
 
 ### 下游客户
-- [[Employers and corporate groups]]
-- [[Government programs (Medicare, Medicaid)]]
-- [[Individual consumers]]
-- [[Health care providers and hospitals]]
-- [[Health plan members]]
+- [[Medicare program]]
+- [[Medicaid program]]
+- [[MSFT]]
+- [[Government health agencies (e.g., Department of Veterans Affairs)]]
+- [[Health care providers (e.g., hospitals, clinics)]]
 
 ### 竞争对手
 - [[Anthem]]
-- [[Aetna]]
+- [[Aetna (CVS Health)]]
 - [[Cigna]]
 - [[Humana]]
-- [[CVS Health (Aetna)]]
+- [[Kaiser Permanente]]
 
 ### 核心产品
-- [[UnitedHealthcare health insurance plans]]
-- [[Medicare Advantage plans]]
-- [[Medicaid plans]]
+- [[UnitedHealthcare insurance plans (individual, group, Medicare Advantage)]]
+- [[Optum health services (clinical, pharmacy, data analytics)]]
 - [[OptumRx pharmacy benefit management]]
-- [[OptumCare health services]]
 - [[OptumInsight data analytics]]
+- [[OptumCare health services]]
 
 ## 数据来源
 
 - [UnitedHealth Group](https://en.wikipedia.org/wiki/UnitedHealth_Group_Incorporated)
-- [UnitedHealth Group Incorporated suppliers manufacturers](https://www.unitedhealthgroup.com/)
-- [UnitedHealth Group Incorporated suppliers manufacturers](https://csimarket.com/stocks/competitionSEG2.php?code=UNH)
-- [UnitedHealth Group Incorporated major customers clients](https://www.unitedhealthgroup.com/)
-- [UnitedHealth Group Incorporated major customers clients](https://csimarket.com/stocks/competitionSEG2.php?code=UNH)
+- [UnitedHealth Group Incorporated suppliers manufacturers](https://www.unitedhealthgroup.com/suppliers/information.html)
+- [UnitedHealth Group Incorporated suppliers manufacturers](https://www.unitedhealthgroup.com/suppliers/information/vendor-portal.html)
+- [UnitedHealth Group Incorporated major customers clients](https://en.wikipedia.org/wiki/UnitedHealth_Group)
+- [UnitedHealth Group Incorporated major customers clients](https://www.unitedhealthgroup.com/uhg/businesses.html)
 
 ## 元数据
 
-- **更新日期**: 2026-07-10
+- **更新日期**: 2026-07-14

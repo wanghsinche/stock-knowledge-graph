@@ -2,33 +2,33 @@
 ticker: MS
 company: Morgan Stanley
 sector: Financial Services
-industry: Capital Markets
-extracted_at: 2026-04-15 17:02:04
-last_updated: 2026-04-15
+industry: Investment Banking & Capital Markets
+extracted_at: 2026-07-14 19:08:03
+last_updated: 2026-07-14
 ---
 
 # MS - Morgan Stanley
 
 ## 基本信息
 
-- **所属行业**: Financial Services / Capital Markets
-- **提取时间**: 2026-04-15 17:02:04
+- **所属行业**: Financial Services / Investment Banking & Capital Markets
+- **提取时间**: 2026-07-14 19:08:03
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Technology vendors (e.g., Bloomberg, Refinitiv)]]
-- [[Data providers (e.g., FactSet)]]
-- [[Legal and compliance services]]
+- [[Financial data providers (e.g., Bloomberg, Refinitiv)]]
+- [[MSFT]]
+- [[Regulatory bodies (SEC, FINRA)]]
+- [[Legal and compliance consultants]]
 - [[Risk management software providers]]
-- [[Cybersecurity firms]]
 
 ### 下游客户
-- [[Corporations (e.g., Fortune 500 companies)]]
+- [[AAPL]]
 - [[Governments and sovereign entities]]
-- [[Institutional investors (pension funds, endowments)]]
-- [[High-net-worth individuals]]
-- [[Financial institutions (banks, insurance companies)]]
+- [[Institutional investors (pension funds, insurance companies)]]
+- [[High‑net‑worth individuals]]
+- [[Asset managers and hedge funds]]
 
 ### 竞争对手
 - [[Goldman Sachs]]
@@ -39,19 +39,19 @@ last_updated: 2026-04-15
 
 ### 核心产品
 - [[Investment banking advisory]]
-- [[Asset management]]
-- [[Wealth management]]
+- [[Equity and debt underwriting]]
 - [[Securities trading and brokerage]]
-- [[Research and analytics]]
+- [[Wealth management and private banking]]
+- [[Research and market analytics]]
 
 ## 数据来源
 
 - [Morgan Stanley](https://en.wikipedia.org/wiki/Morgan_Stanley)
-- [Morgan Stanley suppliers manufacturers](https://csimarket.com/stocks/MS-Suppliers)
-- [Morgan Stanley suppliers manufacturers](https://www.morganstanley.com/)
 - [Morgan Stanley major customers clients](https://en.wikipedia.org/wiki/Morgan_Stanley)
-- [Morgan Stanley major customers clients](https://www.morganstanley.com/about-us-governance/businesssegments)
+- [Morgan Stanley major customers clients](https://csimarket.com/stocks/MS-Customers)
+- [Morgan Stanley competitors alternatives](https://www.marketing91.com/morgan-stanley-competitors/)
+- [Morgan Stanley competitors alternatives](https://www.brokerage-review.com/wealth-management/competitors/morgan-stanley-competitors.aspx)
 
 ## 元数据
 
-- **更新日期**: 2026-04-15
+- **更新日期**: 2026-07-14

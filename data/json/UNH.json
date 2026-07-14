@@ -2,37 +2,36 @@
   "ticker": "UNH",
   "company_name": "UnitedHealth Group Incorporated",
   "sector": "Healthcare",
-  "industry": "Health Insurance / Health Plans",
+  "industry": "Healthcare Plans",
   "upstream": [
-    "Pharmaceutical manufacturers",
-    "Medical device manufacturers",
-    "Health technology vendors",
-    "Pharmacy benefit management providers",
-    "Data analytics and IT service providers"
+    "Pharmaceutical manufacturers (e.g., Pfizer, Johnson & Johnson)",
+    "Medical device manufacturers (e.g., Medtronic, Abbott)",
+    "Health IT vendors (e.g., Epic Systems, Cerner)",
+    "Pharmacy benefit managers (e.g., Express Scripts, CVS Caremark)",
+    "IBM"
   ],
   "downstream": [
-    "Employers and corporate groups",
-    "Government programs (Medicare, Medicaid)",
-    "Individual consumers",
-    "Health care providers and hospitals",
-    "Health plan members"
+    "Medicare program",
+    "Medicaid program",
+    "MSFT",
+    "Government health agencies (e.g., Department of Veterans Affairs)",
+    "Health care providers (e.g., hospitals, clinics)"
   ],
   "competitors": [
     "Anthem",
-    "Aetna",
+    "Aetna (CVS Health)",
     "Cigna",
     "Humana",
-    "CVS Health (Aetna)"
+    "Kaiser Permanente"
   ],
   "key_products": [
-    "UnitedHealthcare health insurance plans",
-    "Medicare Advantage plans",
-    "Medicaid plans",
+    "UnitedHealthcare insurance plans (individual, group, Medicare Advantage)",
+    "Optum health services (clinical, pharmacy, data analytics)",
     "OptumRx pharmacy benefit management",
-    "OptumCare health services",
-    "OptumInsight data analytics"
+    "OptumInsight data analytics",
+    "OptumCare health services"
   ],
-  "extracted_at": "2026-07-10 17:53:05",
+  "extracted_at": "2026-07-14 19:04:39",
   "sources": [
     {
       "source": "Wikipedia",
@@ -42,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.unitedhealthgroup.com/",
+      "url": "https://www.unitedhealthgroup.com/suppliers/information.html",
       "query": "UnitedHealth Group Incorporated suppliers manufacturers",
-      "snippet": "UnitedHealth Group is a health care and well-being company dedicated to improving health outcomes for millions of people around the world. We comprise"
+      "snippet": "Information for UnitedHealth Group suppliers , including access to our vendor portal"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/competitionSEG2.php?code=UNH",
+      "url": "https://www.unitedhealthgroup.com/suppliers/information/vendor-portal.html",
       "query": "UnitedHealth Group Incorporated suppliers manufacturers",
-      "snippet": "To get a more accurate picture of Unitedhealth Group Incorporated 's market divisions, geographic dispersion, segments, products, and services, visit "
+      "snippet": "Information for UnitedHealth Group suppliers , including access to our vendor portal"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.unitedhealthgroup.com/",
+      "url": "https://en.wikipedia.org/wiki/UnitedHealth_Group",
       "query": "UnitedHealth Group Incorporated major customers clients",
-      "snippet": "UnitedHealth Group is a health care and well-being company dedicated to improving health outcomes for millions of people around the world. We comprise"
+      "snippet": "UnitedHealth Group Incorporated is an American multinational for-profit company based in Eden Prairie, Minnesota, specializing in health insurance and"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/competitionSEG2.php?code=UNH",
+      "url": "https://www.unitedhealthgroup.com/uhg/businesses.html",
       "query": "UnitedHealth Group Incorporated major customers clients",
-      "snippet": "To get a more accurate picture of Unitedhealth Group Incorporated 's market divisions, geographic dispersion, segments, products, and services, visit "
+      "snippet": "UnitedHealth Group is a healthcare and well-being company with team members in two distinct and complementary businesses — Optum and UnitedHealthcare "
     }
   ]
 }

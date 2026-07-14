@@ -1,37 +1,37 @@
 {
   "ticker": "SNDK",
-  "company_name": "Sandisk Corporation",
+  "company_name": "SanDisk Corporation",
   "sector": "Technology",
   "industry": "Computer Hardware",
   "upstream": [
-    "GIGAPC Corporation",
     "MU",
     "005930.KS",
     "SK Hynix",
-    "WDC"
+    "Nanya Technology",
+    "Winbond Electronics"
   ],
   "downstream": [
     "DELL",
     "HPQ",
     "AAPL",
-    "Lenovo",
+    "SONY",
     "MSFT"
   ],
   "competitors": [
-    "MU",
-    "005930.KS",
-    "WDC",
     "Kingston Technology",
-    "MU"
+    "Lexar Technologies",
+    "005930.KS",
+    "MU",
+    "WDC"
   ],
   "key_products": [
-    "Solid State Drives (SSD)",
-    "USB Flash Drives",
-    "SD and microSD Cards",
-    "External Hard Drives",
-    "Memory Card Readers"
+    "SD cards",
+    "microSD cards",
+    "USB flash drives",
+    "SSD storage devices",
+    "Memory card adapters"
   ],
-  "extracted_at": "2026-07-13 17:48:13",
+  "extracted_at": "2026-07-14 17:07:40",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/SanDisk",
+      "query": "Sandisk Corporation suppliers manufacturers",
+      "snippet": "SanDisk SD Cards 128MB and 32GB 512 MB SanDisk SD card and Sony Memory Stick SanDisk Ultra 32GB MicroSD card with Adapter SanDisk SDHC Card 8GB SanDis"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.sandisk.com/en-us/company/distributors",
+      "query": "Sandisk Corporation suppliers manufacturers",
+      "snippet": "Find authorized SanDisk distributors and channel partners worldwide for trusted storage solutions and products."
+    },
+    {
+      "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Sandisk",
-      "query": "Sandisk Corporation suppliers manufacturers",
-      "snippet": "3 weeks ago - Sandisk Corporation (formerly SunDisk Corporation and SanDisk ) is an American multinational computer semiconductor company based in Mil"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.sandisk.com/company/distributors",
-      "query": "Sandisk Corporation suppliers manufacturers",
-      "snippet": "GIGAPC Corporation · 430 8th Ave N. Seattle, WA 98109 · Tel: 206-624-1100 · Glazers Camera · 430 8th Ave N. Seattle, WA 98109 · Tel: 206-624-1100 · Gl"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.sandisk.com/",
       "query": "Sandisk Corporation major customers clients",
-      "snippet": "Sandisk online store members receive free standard shipping on all eligible orders."
+      "snippet": "3 weeks ago - On November 8, 1995, SunDisk changed its name to SanDisk to avoid confusion with Sun Microsystems, and went public under the new name vi"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/SNDK/",
+      "url": "https://csimarket.com/stocks/markets_glance.php?code=SNDK",
       "query": "Sandisk Corporation major customers clients",
-      "snippet": "Find the latest Sandisk Corporation (SNDK) stock quote, history, news and other vital information to help you with your stock trading and investing."
+      "snippet": "4 weeks ago - Sandisk customers and markets, results by customer and performance relative to SNDK, by company and industry - CSIMarket"
     }
   ]
 }

@@ -5,17 +5,17 @@
   "industry": "Information Technology Services",
   "upstream": [
     "INTC",
+    "AMD",
     "NVDA",
-    "CSCO",
-    "DELL",
-    "AMZN"
+    "QCOM",
+    "AVGO"
   ],
   "downstream": [
-    "United States Department of Defense",
     "General Electric",
-    "JPMorgan Chase",
+    "Bank of America",
+    "United States Department of Defense",
     "UnitedHealth Group",
-    "AT&T"
+    "NASA"
   ],
   "competitors": [
     "MSFT",
@@ -28,10 +28,10 @@
     "IBM Cloud",
     "IBM Watson",
     "IBM Power Systems",
-    "IBM z Systems",
-    "IBM Security"
+    "IBM Security",
+    "IBM Analytics"
   ],
-  "extracted_at": "2026-07-09 18:10:38",
+  "extracted_at": "2026-07-14 17:09:32",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,15 +41,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.dnb.com/business-directory/company-profiles.international_business_machines_corporation.a7c3420a9b68ab2e561b3712b4b491d9.html",
+      "url": "https://en.wikipedia.org/wiki/IBM",
       "query": "International Business Machines Corporation suppliers manufacturers",
-      "snippet": "Find company research, competitor information, contact details & financial data for INTERNATIONAL BUSINESS MACHINES CORPORATION of Chicago , Illinois "
+      "snippet": "1 hour ago - International Business Machines Corporation , doing business as IBM (nicknamed Big Blue), is an American multinational technology company"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/IBM-Suppliers",
+      "url": "https://en.wikipedia.org/wiki/History_of_IBM",
       "query": "International Business Machines Corporation suppliers manufacturers",
-      "snippet": "Jun 22, 2026 · Sources: International Business Machines Corporation 's official press releases and regulatory filings; CSIMarket.com's supply-chain re"
+      "snippet": "1 month ago - Watson had never liked the hyphenated title of Computing-Tabulating-Recording Company and chose the new name of \" International Business"
     },
     {
       "source": "DuckDuckGo",
@@ -59,9 +59,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/IBM-Customers",
+      "url": "https://www.appsruntheworld.com/customers-database/vendors/view/ibm",
       "query": "International Business Machines Corporation major customers clients",
-      "snippet": "International Business Machines 's Comment on Sales, Marketing and Customers IBM has a significant global presence, operating in more than 175 countri"
+      "snippet": "Which IBM products have the most recorded customers ? The most widely adopted products are IBM Cloud (formerly IBM Bluemix and IBM SoftLayer), IBM Max"
     }
   ]
 }

@@ -5,33 +5,33 @@
   "industry": "Internet Content & Information",
   "upstream": [
     "NVDA",
-    "INTC",
-    "AMD",
-    "MU",
-    "CSCO"
+    "Cloud infrastructure providers (e.g., AWS, Azure, GCP)",
+    "AI model providers (e.g., OpenAI, Anthropic)",
+    "Data center operators",
+    "Networking equipment suppliers"
   ],
   "downstream": [
-    "GOOGL",
-    "AMZN",
-    "MSFT",
-    "IBM",
-    "META"
+    "Federal government IT systems (e.g., National Background Investigation Services)",
+    "Large enterprises requiring AI infrastructure",
+    "Government agencies for personnel processing",
+    "Enterprise data analytics firms",
+    "Research institutions"
   ],
   "competitors": [
     "OpenAI",
     "Anthropic",
-    "DeepMind",
-    "Cohere",
-    "AI21 Labs"
+    "GOOGL",
+    "AMZN",
+    "MSFT"
   ],
   "key_products": [
-    "Nebius AI Platform",
+    "Nebius AI Infrastructure Platform",
     "Avride",
     "TripleTen",
     "Toloka",
     "Clickhouse"
   ],
-  "extracted_at": "2026-07-13 17:54:24",
+  "extracted_at": "2026-07-14 17:49:03",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/suppliers_glance.php?code=NBIS",
+      "url": "https://www.dcsa.mil/Systems-Applications/National-Background-Investigation-Services-NBIS/",
       "query": "NBIS suppliers manufacturers",
-      "snippet": "NBIS 's Suppliers Management Effectiveness. NBIS 's Competitors Results. NBIS 's vs. Suppliers , Data. (Revenue and Income for Trailing 12 Months, in "
+      "snippet": "NBIS is the Federal government’s IT system for end-to-end process for personnel vetting. This starts with the initiation and application for a backgro"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.youtube.com/watch?v=k6hi9ypXEJA",
+      "url": "https://www.dote.osd.mil/Portals/97/pub/reports/FY2024/dod/2024nbis.pdf?ver=XRh6KdVyObJICiJU3oaHRA==",
       "query": "NBIS suppliers manufacturers",
-      "snippet": "There's another name emerging in the tech space. Nebius Group ( NBIS ) is gaining traction through its A.I. infrastructure business."
+      "snippet": "Jan 31, 2025 · In FY24, the National Background Investigation Services ( NBIS ) Program Ofice conducted a comprehensive re-structure of its acquisitio"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://stocktwits.com/news-articles/markets/equity/nbis-stock-down-about-30-from-peak-amid-meta-ai-cloud-threat-but-retail-still-believes-in-neocloud-opportunity/cZmlOuLR7m0",
+      "url": "https://en.wikipedia.org/wiki/Nebius_Group",
       "query": "NBIS major customers clients",
-      "snippet": "On Stocktwits, the retail sentiment for NBIS climbed over the past week and was ‘bullish’ on Tuesday. The message volume for the ticker is up 44% in t"
+      "snippet": "In December 2024, Nebius raised $700 million through private investors, including Nvidia (which acquired 0.5% of Nebius ) and Accel Partners. [5]"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.nasdaq.com/market-activity/stocks/nbis",
+      "url": "https://csimarket.com/stocks/NBIS-Customers",
       "query": "NBIS major customers clients",
-      "snippet": "Show more results ->. NBIS . Summary. Quotes.Data Disclaimer: The Nasdaq Indices and the Major Indices are delayed at least 1 minute."
+      "snippet": "3 days ago · For your research, we’ve provided 9 tables on Nebius Group n v corporate clients . You can find them in the navigation menu under Custome"
     }
   ]
 }

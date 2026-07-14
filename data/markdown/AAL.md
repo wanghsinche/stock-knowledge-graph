@@ -3,8 +3,8 @@ ticker: AAL
 company: American Airlines Group Inc.
 sector: Industrials
 industry: Airlines
-extracted_at: 2026-07-13 17:55:15
-last_updated: 2026-07-13
+extracted_at: 2026-07-14 19:00:22
+last_updated: 2026-07-14
 ---
 
 # AAL - American Airlines Group Inc.
@@ -12,23 +12,21 @@ last_updated: 2026-07-13
 ## 基本信息
 
 - **所属行业**: Industrials / Airlines
-- **提取时间**: 2026-07-13 17:55:15
+- **提取时间**: 2026-07-14 19:00:22
 
 ## 产业链关系
 
 ### 上游供应商
 - [[Boeing]]
 - [[Airbus]]
-- [[CAT]]
+- [[Pratt & Whitney]]
+- [[GE Aviation]]
 - [[Honeywell]]
-- [[United Technologies]]
 
 ### 下游客户
-- [[Corporate travel agencies]]
-- [[Tour operators]]
-- [[Business travelers]]
-- [[Frequent flyers]]
-- [[Cargo shippers]]
+- [[American Eagle]]
+- [[American Airlines]]
+- [[US Airways]]
 
 ### 竞争对手
 - [[Delta Air Lines]]
@@ -40,18 +38,18 @@ last_updated: 2026-07-13
 ### 核心产品
 - [[Passenger air transport]]
 - [[Cargo transport]]
-- [[Maintenance, repair, overhaul (MRO)]]
-- [[Freight services]]
-- [[Loyalty program (AAdvantage)]]
+- [[Maintenance services]]
+- [[Frequent flyer program]]
+- [[In-flight entertainment]]
 
 ## 数据来源
 
 - [American Airlines Group](https://en.wikipedia.org/wiki/American_Airlines_Group_Inc.)
-- [American Airlines Group Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/US_Airways_Group)
-- [American Airlines Group Inc. suppliers manufacturers](https://csimarket.com/stocks/competitionNO6.php?supply&code=AAL)
-- [American Airlines Group Inc. major customers clients](https://www.aa.com/i18n/customer-service/about-us/american-airlines-group.jsp)
-- [American Airlines Group Inc. major customers clients](https://www.linkedin.com/company/american-airlines)
+- [American Airlines Group Inc. suppliers manufacturers](https://csimarket.com/stocks/AAL-Suppliers)
+- [American Airlines Group Inc. suppliers manufacturers](https://www.aa.com/arriving/ponInfSup.html)
+- [American Airlines Group Inc. major customers clients](https://en.wikipedia.org/wiki/American_Airlines)
+- [American Airlines Group Inc. major customers clients](https://en.wikipedia.org/wiki/American_Airlines_Group)
 
 ## 元数据
 
-- **更新日期**: 2026-07-13
+- **更新日期**: 2026-07-14
