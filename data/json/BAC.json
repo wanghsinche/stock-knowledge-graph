@@ -4,18 +4,18 @@
   "sector": "Financial Services",
   "industry": "Banks - Diversified",
   "upstream": [
+    "ORCL",
     "MSFT",
-    "MSFT",
-    "Cybersecurity firms (e.g., Palo Alto Networks, Symantec)",
-    "Data center and hosting services",
-    "Office equipment and furniture suppliers"
+    "IBM",
+    "Visa",
+    "Mastercard"
   ],
   "downstream": [
-    "Retail banking customers (individuals)",
-    "Corporate banking clients (mid‑size to large enterprises)",
-    "Small and medium‑enterprise (SME) clients",
-    "Wealth management and investment advisory clients",
-    "Mortgage and real‑estate financing customers"
+    "Retail consumers",
+    "Small and medium enterprises",
+    "Large corporations",
+    "Institutional investors",
+    "Mortgage borrowers"
   ],
   "competitors": [
     "JPMorgan Chase & Co.",
@@ -26,12 +26,12 @@
   ],
   "key_products": [
     "Consumer banking and credit cards",
-    "Commercial and corporate banking",
-    "Investment banking and capital markets",
+    "Corporate and investment banking",
     "Wealth management and private banking",
-    "Mortgage and real‑estate financing"
+    "Mortgage lending",
+    "Treasury and cash management services"
   ],
-  "extracted_at": "2026-07-14 18:52:42",
+  "extracted_at": "2026-07-15 17:11:46",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://about.bankofamerica.com/en/our-company/supplier-management",
+      "url": "https://www.bankofamerica.com/",
       "query": "Bank of America Corporation suppliers manufacturers",
-      "snippet": "Bank of America is dedicated to partnering with suppliers who value ethics, inclusion, human rights, and the environment. Learn more about our supplie"
+      "snippet": "At Bank of America , our purpose is to help make financial lives better through the power of every connection. Bank of America deposit products: FDIC-"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://about.bankofamerica.com/content/dam/about/pdfs/Bank_of_America_Supplier_Expectations.pdf",
+      "url": "https://finance.yahoo.com/quote/BAC/",
       "query": "Bank of America Corporation suppliers manufacturers",
-      "snippet": "This description of Supplier Expectations is intended to assist our suppliers in understanding and complying with their contractual obligations with t"
+      "snippet": "Find the latest Bank of America Corporation (BAC) stock quote, history, news and other vital information to help you with your stock trading and inves"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Bank_of_America",
-      "query": "Bank of America Corporation major customers clients",
-      "snippet": "It serves about 10 percent of all American bank deposits, in competition with JPMorgan Chase, Citigroup, and Wells Fargo. Its primary financial servic"
+      "url": "https://bullfincher.io/companies/bank-of-america-corporation/competitors",
+      "query": "Bank of America Corporation competitors alternatives",
+      "snippet": "Bank of America Corporation 's competitors include JPMorgan Chase & Co., Citigroup, Wells Fargo & Company and more. Discover more competitors and crea"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://newsroom.bankofamerica.com/content/newsroom/company-overview/bank-of-america-fast-facts.html",
-      "query": "Bank of America Corporation major customers clients",
-      "snippet": "Apr 16, 2026 · Explore Bank of America Fast Facts for key insights on our global presence, financial services, client reach, and commitment to respons"
+      "url": "https://brandhistories.com/alfa-romeo-company-history",
+      "query": "Bank of America Corporation competitors alternatives",
+      "snippet": "• Bank of America Corporation was established in 1904 and is headquartered in Charlotte, North Carolina. •The company operates as a dominant force wit"
     }
   ]
 }

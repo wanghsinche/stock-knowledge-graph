@@ -2,20 +2,20 @@
   "ticker": "CRWV",
   "company_name": "CoreWeave, Inc.",
   "sector": "Technology / Software - Infrastructure",
-  "industry": "Artificial Intelligence Cloud Computing",
+  "industry": "AI Cloud Computing",
   "upstream": [
     "NVDA",
     "AMD",
     "INTC",
-    "Xilinx",
+    "QCOM",
     "AVGO"
   ],
   "downstream": [
     "OpenAI",
-    "Mistral AI",
-    "IBM",
+    "GOOGL",
     "MSFT",
-    "AMZN"
+    "AMZN",
+    "IBM"
   ],
   "competitors": [
     "NVDA",
@@ -25,13 +25,13 @@
     "MSFT"
   ],
   "key_products": [
-    "GPU-based cloud infrastructure",
-    "GPU compute instances for AI workloads",
-    "GPU virtualization and management software",
-    "AI training and inference services",
-    "Custom GPU cluster orchestration"
+    "GPU Cloud Computing Services",
+    "GPU Infrastructure for AI",
+    "Chip Management Software",
+    "GPU Virtualization",
+    "AI Training and Inference Platforms"
   ],
-  "extracted_at": "2026-07-14 19:06:42",
+  "extracted_at": "2026-07-15 17:17:33",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,25 +43,25 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/CoreWeave",
       "query": "CoreWeave, Inc. suppliers manufacturers",
-      "snippet": "CoreWeave , Inc . is an American artificial intelligence (AI) cloud-computing company based in Livingston, New Jersey. It specializes in providing clo"
+      "snippet": "CoreWeave , Inc . is an American artificial intelligence cloud-computing company based in Livingston, New Jersey."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.coreweave.com/",
+      "url": "https://fingreed.com/startups-entrepreneurship/emerging-companies/analyst-report-coreweave-incorporated/",
       "query": "CoreWeave, Inc. suppliers manufacturers",
-      "snippet": "From leading AI labs like OpenAI and Mistral AI to global giants like IBM, the world’s most ambitious AI innovators build on CoreWeave . Explore how t"
+      "snippet": "CoreWeave , Inc .: A Transformative Growth Journey. CoreWeave , Inc ., a company that originally made its name in crypto mining, has successfully pivo"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.coreweave.com/case-studies",
-      "query": "CoreWeave, Inc. major customers clients",
-      "snippet": "Learn how CoreWeave customers like OpenAI and IBM are provisioning the GPUs they need and building AI infrastructure on a massive scale with unprecede"
+      "url": "https://en.wikipedia.org/wiki/CoreWeave",
+      "query": "CoreWeave, Inc. competitors alternatives",
+      "snippet": "CoreWeave , Inc . is an American artificial intelligence cloud-computing company based in Livingston, New Jersey.Not to be confused with CodeWeavers. "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.appsruntheworld.com/customers-database/vendors/view/coreweave",
-      "query": "CoreWeave, Inc. major customers clients",
-      "snippet": "List of companies using or evaluating CoreWeave applications, with details on their revenues, employees, industries, and locations."
+      "url": "https://wemate.ai/blog/coreweave-which-companion-app-understands-you-better.html",
+      "query": "CoreWeave, Inc. competitors alternatives",
+      "snippet": "CoreWeave offers a unique feature that sets it apart from its competitors - app recommendations. By analyzing your preferences and usage history, Core"
     }
   ]
 }

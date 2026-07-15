@@ -6,32 +6,32 @@
   "upstream": [
     "INTC",
     "AMD",
-    "MSFT",
-    "AMZN",
-    "CSCO"
+    "QCOM",
+    "NVDA",
+    "MSFT"
   ],
   "downstream": [
-    "Wipro",
-    "Tyson Foods",
-    "Bank of America",
-    "UnitedHealth Group",
-    "General Motors"
+    "Fortune 100 companies",
+    "U.S. Department of Defense",
+    "GOOGL",
+    "MSFT",
+    "AMZN"
   ],
   "competitors": [
     "CSCO",
     "Fortinet",
     "Check Point Software Technologies",
-    "JNPR",
-    "CrowdStrike"
+    "CrowdStrike",
+    "Sophos"
   ],
   "key_products": [
-    "Next‑Generation Firewall",
-    "Panorama Management Platform",
+    "Next-Generation Firewall",
     "Prisma Cloud",
     "Cortex XDR",
-    "Unit 42 Threat Intelligence"
+    "Cortex XSOAR",
+    "Unit 42 threat intelligence"
   ],
-  "extracted_at": "2026-07-14 18:58:01",
+  "extracted_at": "2026-07-15 17:15:54",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://paloaltonetworks.my.site.com/NextWavePartnerProgram/s/partnerlocator",
+      "url": "https://www.paloaltonetworks.com/",
       "query": "Palo Alto Networks, Inc. suppliers manufacturers",
-      "snippet": "Find a Partner Reseller Resell and integrate Palo Alto Networks products and services to create solutions that deliver positive security outcomes for "
+      "snippet": "Palo Alto Networks : Cloud Security Leader in First-Ever CNAPP Report. The Forrester Wave™: Cloud Workload Security, Q1 2024.KuppingerCole Leadership "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.paloaltonetworks.com/industry/manufacturing",
+      "url": "https://habr.com/ru/companies/mws/articles/280866/",
       "query": "Palo Alto Networks, Inc. suppliers manufacturers",
-      "snippet": "Ensure secure access for suppliers and partners. By addressing the security roadblocks that slow down 5G, IoT, and SD-WAN adoption, Palo Alto Networks"
+      "snippet": "Компания Palo Alto Networks была основана в 2005 году Ниром Зуком (Nir Zuk) и группой старших инженеров компаний, лидирующих в сфере сетевой безопасно"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.paloaltonetworks.com/customers",
+      "url": "https://www.paloaltonetworks.com/",
       "query": "Palo Alto Networks, Inc. major customers clients",
-      "snippet": "Discover how leading global brands like Wipro and Tyson Foods secure their operations with Palo Alto Networks . Explore customer success stories in cy"
+      "snippet": "Palo Alto Networks : Cloud Security Leader in First-Ever CNAPP ReportFrostRadar™ names Palo Alto Networks a CNAPP LeaderOverall leader : 2024 Leadersh"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.appsruntheworld.com/customers-database/vendors/view/palo-alto-networks",
+      "url": "https://www.benzinga.com/general/politics/24/03/37460893/pelosi-loves-palo-alto-networks-stock-so-do-these-other-top-performing-traders-in-congress",
       "query": "Palo Alto Networks, Inc. major customers clients",
-      "snippet": "List of companies using or evaluating Palo Alto Networks applications, with details on their revenues, employees, industries, and locations."
+      "snippet": "PANW Price Action: Palo Alto Networks shares trade at $302.40 versus a 52-week trading range of $176.30 to $380.84. Shares of Palo Alto Network are up"
     }
   ]
 }

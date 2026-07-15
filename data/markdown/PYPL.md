@@ -2,17 +2,17 @@
 ticker: PYPL
 company: PayPal Holdings, Inc.
 sector: Financial Services
-industry: Digital Payments
-extracted_at: 2026-05-05 17:20:31
-last_updated: 2026-05-05
+industry: Credit Services
+extracted_at: 2026-07-15 17:08:06
+last_updated: 2026-07-15
 ---
 
 # PYPL - PayPal Holdings, Inc.
 
 ## 基本信息
 
-- **所属行业**: Financial Services / Digital Payments
-- **提取时间**: 2026-05-05 17:20:31
+- **所属行业**: Financial Services / Credit Services
+- **提取时间**: 2026-07-15 17:08:06
 
 ## 产业链关系
 
@@ -20,38 +20,38 @@ last_updated: 2026-05-05
 - [[Visa]]
 - [[Mastercard]]
 - [[American Express]]
-- [[AMZN]]
-- [[MSFT]]
+- [[Bank of America]]
+- [[Stripe (technology platform)]]
 
 ### 下游客户
 - [[AMZN]]
 - [[eBay]]
-- [[Etsy]]
 - [[Shopify]]
-- [[Airbnb]]
+- [[Etsy]]
+- [[Walmart.com]]
 
 ### 竞争对手
 - [[Stripe]]
 - [[Square]]
 - [[Adyen]]
-- [[Payoneer]]
 - [[AMZN]]
+- [[AAPL]]
 
 ### 核心产品
 - [[PayPal Payments]]
 - [[PayPal Credit]]
 - [[Venmo]]
-- [[PayPal Here]]
-- [[PayPal Business]]
+- [[Braintree]]
+- [[Xoom]]
 
 ## 数据来源
 
 - [PayPal](https://en.wikipedia.org/wiki/PayPal_Holdings,_Inc.)
-- [PayPal Holdings, Inc. suppliers manufacturers](https://csimarket.com/stocks/PYPL-Suppliers)
-- [PayPal Holdings, Inc. suppliers manufacturers](https://www.marketscreener.com/quote/stock/PAYPAL-HOLDINGS-INC-23377703/company-group/)
-- [PayPal Holdings, Inc. major customers clients](https://capitaloneshopping.com/research/paypal-statistics/)
-- [PayPal Holdings, Inc. major customers clients](https://www.demandsage.com/paypal-statistics/)
+- [PayPal Holdings, Inc. major customers clients](https://en.wikipedia.org/wiki/PayPal)
+- [PayPal Holdings, Inc. major customers clients](https://www.investopedia.com/articles/company-insights/082416/top-5-companies-owned-paypal-pypl.asp)
+- [PayPal Holdings, Inc. competitors alternatives](https://seekingalpha.com/symbol/PYPL/peers/comparison)
+- [PayPal Holdings, Inc. competitors alternatives](https://www.globaldata.com/company-profile/paypal-holdings-inc/competitors/)
 
 ## 元数据
 
-- **更新日期**: 2026-05-05
+- **更新日期**: 2026-07-15

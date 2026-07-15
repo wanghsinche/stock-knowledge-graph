@@ -2,17 +2,17 @@
 ticker: CRWV
 company: CoreWeave, Inc.
 sector: Technology / Software - Infrastructure
-industry: Artificial Intelligence Cloud Computing
-extracted_at: 2026-07-14 19:06:42
-last_updated: 2026-07-14
+industry: AI Cloud Computing
+extracted_at: 2026-07-15 17:17:33
+last_updated: 2026-07-15
 ---
 
 # CRWV - CoreWeave, Inc.
 
 ## 基本信息
 
-- **所属行业**: Technology / Software - Infrastructure / Artificial Intelligence Cloud Computing
-- **提取时间**: 2026-07-14 19:06:42
+- **所属行业**: Technology / Software - Infrastructure / AI Cloud Computing
+- **提取时间**: 2026-07-15 17:17:33
 
 ## 产业链关系
 
@@ -20,15 +20,15 @@ last_updated: 2026-07-14
 - [[NVDA]]
 - [[AMD]]
 - [[INTC]]
-- [[Xilinx]]
+- [[QCOM]]
 - [[AVGO]]
 
 ### 下游客户
 - [[OpenAI]]
-- [[Mistral AI]]
-- [[IBM]]
+- [[GOOGL]]
 - [[MSFT]]
 - [[AMZN]]
+- [[IBM]]
 
 ### 竞争对手
 - [[NVDA]]
@@ -38,20 +38,20 @@ last_updated: 2026-07-14
 - [[MSFT]]
 
 ### 核心产品
-- [[GPU-based cloud infrastructure]]
-- [[GPU compute instances for AI workloads]]
-- [[GPU virtualization and management software]]
-- [[AI training and inference services]]
-- [[Custom GPU cluster orchestration]]
+- [[GPU Cloud Computing Services]]
+- [[GPU Infrastructure for AI]]
+- [[Chip Management Software]]
+- [[GPU Virtualization]]
+- [[AI Training and Inference Platforms]]
 
 ## 数据来源
 
 - [CoreWeave](https://en.wikipedia.org/wiki/CoreWeave,_Inc.)
 - [CoreWeave, Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/CoreWeave)
-- [CoreWeave, Inc. suppliers manufacturers](https://www.coreweave.com/)
-- [CoreWeave, Inc. major customers clients](https://www.coreweave.com/case-studies)
-- [CoreWeave, Inc. major customers clients](https://www.appsruntheworld.com/customers-database/vendors/view/coreweave)
+- [CoreWeave, Inc. suppliers manufacturers](https://fingreed.com/startups-entrepreneurship/emerging-companies/analyst-report-coreweave-incorporated/)
+- [CoreWeave, Inc. competitors alternatives](https://en.wikipedia.org/wiki/CoreWeave)
+- [CoreWeave, Inc. competitors alternatives](https://wemate.ai/blog/coreweave-which-companion-app-understands-you-better.html)
 
 ## 元数据
 
-- **更新日期**: 2026-07-14
+- **更新日期**: 2026-07-15

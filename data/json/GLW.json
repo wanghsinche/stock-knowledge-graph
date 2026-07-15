@@ -3,11 +3,35 @@
   "company_name": "Corning Incorporated",
   "sector": "Technology",
   "industry": "Electronic Components",
-  "upstream": [],
-  "downstream": [],
-  "competitors": [],
-  "key_products": [],
-  "extracted_at": "2026-07-10 17:56:47",
+  "upstream": [
+    "Silica sand suppliers",
+    "Chemical feedstock suppliers",
+    "Glass raw material suppliers",
+    "Ceramic material suppliers",
+    "Precision tooling manufacturers"
+  ],
+  "downstream": [
+    "AAPL",
+    "005930.KS",
+    "Canon Inc.",
+    "SONY",
+    "Boeing"
+  ],
+  "competitors": [
+    "Schott AG",
+    "Saint-Gobain",
+    "AGC Inc.",
+    "Lumentum Holdings",
+    "II-VI Incorporated"
+  ],
+  "key_products": [
+    "Optical fiber",
+    "Specialty glass",
+    "Advanced ceramics",
+    "Optical components",
+    "Glass for smartphones"
+  ],
+  "extracted_at": "2026-07-15 17:11:02",
   "sources": [
     {
       "source": "Wikipedia",
@@ -26,6 +50,18 @@
       "url": "https://www.corning.com/worldwide/en.html",
       "query": "Corning Incorporated suppliers manufacturers",
       "snippet": "Corning Incorporated is a global-leading innovator in materials science, with 170 years of life-changing inventions and category-defining products."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/Corning_Inc.",
+      "query": "Corning Incorporated major customers clients",
+      "snippet": "Corning Incorporated is an American multinational technology company specializing in glass, ceramics, and related materials and technologies including"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://simplywall.st/stocks/us/tech/nyse-glw/corning",
+      "query": "Corning Incorporated major customers clients",
+      "snippet": "Corning Incorporated . NYSE:GLW Stock Report. Market Cap: US$158.4b. Corning Secures Major Amazon Fiber Deal and Delivers Strong Q1 Results While Faci"
     }
   ]
 }

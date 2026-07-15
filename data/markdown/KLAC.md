@@ -3,8 +3,8 @@ ticker: KLAC
 company: KLA Corporation
 sector: Technology
 industry: Semiconductor Equipment & Materials
-extracted_at: 2026-07-10 17:53:24
-last_updated: 2026-07-10
+extracted_at: 2026-07-15 17:18:24
+last_updated: 2026-07-15
 ---
 
 # KLAC - KLA Corporation
@@ -12,16 +12,16 @@ last_updated: 2026-07-10
 ## 基本信息
 
 - **所属行业**: Technology / Semiconductor Equipment & Materials
-- **提取时间**: 2026-07-10 17:53:24
+- **提取时间**: 2026-07-15 17:18:24
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Silicon wafer suppliers]]
-- [[Optical component manufacturers]]
-- [[Semiconductor material suppliers]]
-- [[Electronic component vendors]]
-- [[Software and firmware providers]]
+- [[ASML]]
+- [[Nikon]]
+- [[Canon]]
+- [[Dow Chemical]]
+- [[Shin-Etsu Chemical]]
 
 ### 下游客户
 - [[TSM]]
@@ -38,20 +38,20 @@ last_updated: 2026-07-10
 - [[Nikon]]
 
 ### 核心产品
-- [[Inspection tools]]
-- [[Metrology systems]]
-- [[Process control systems]]
-- [[Yield management systems]]
-- [[Reticle inspection tools]]
+- [[Wafer inspection systems]]
+- [[Reticle inspection systems]]
+- [[Process control & yield management systems]]
+- [[Metrology & defect detection]]
+- [[Advanced metrology & monitoring]]
 
 ## 数据来源
 
 - [KLA Corporation](https://en.wikipedia.org/wiki/KLA_Corporation)
-- [KLA Corporation suppliers manufacturers](https://www.kla.com/)
-- [KLA Corporation suppliers manufacturers](https://www.filmetrics.com/locations)
-- [KLA Corporation major customers clients](https://www.kla.com/)
-- [KLA Corporation major customers clients](https://www.cnbc.com/quotes/KLAC)
+- [KLA Corporation suppliers manufacturers](https://www.lbank.com/stock/klac)
+- [KLA Corporation suppliers manufacturers](https://www.kla.com/locations)
+- [KLA Corporation major customers clients](https://www.marketresearch.com/MarketLine-v3883/KLA-Corporation-Company-Profile-SWOT-36355498/)
+- [KLA Corporation major customers clients](https://www.kad8.com/news/tsmc-secures-15-customers-for-2nm-process-driven-by-hpc-and-ai-demand/)
 
 ## 元数据
 
-- **更新日期**: 2026-07-10
+- **更新日期**: 2026-07-15
