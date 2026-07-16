@@ -1,37 +1,37 @@
 {
   "ticker": "NU",
   "company_name": "Nu Holdings Ltd.",
-  "sector": "Financial Services",
-  "industry": "Banks - Regional (Neobank)",
+  "sector": "Financial Services / Banks - Regional",
+  "industry": "Digital Banking / Fintech",
   "upstream": [
     "Visa",
     "Mastercard",
+    "AWS",
     "Stripe",
-    "Plaid",
-    "AMZN"
+    "GOOGL"
   ],
   "downstream": [
-    "Retail consumers",
-    "Small and medium enterprises (SMEs)",
-    "E‑commerce merchants",
-    "Digital wallet users",
+    "Brazilian consumers",
+    "Mexican consumers",
+    "Colombian consumers",
+    "SMEs in Latin America",
     "Corporate clients"
   ],
   "competitors": [
     "Banco Inter",
     "C6 Bank",
-    "Banco do Brasil",
-    "Banco Bradesco",
-    "Banco Itaú"
+    "Banco do Brasil (digital)",
+    "Banco de Crédito",
+    "Revolut"
   ],
   "key_products": [
     "Digital checking account",
     "Credit card",
+    "Debit card",
     "Personal loans",
-    "Payments (domestic & cross‑border)",
-    "Savings account"
+    "Mobile banking app"
   ],
-  "extracted_at": "2026-07-13 17:55:53",
+  "extracted_at": "2026-07-16 17:11:17",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/fundamentals_glance.php?code=NU",
+      "url": "https://stockanalysis.com/stocks/nu/company/",
       "query": "Nu Holdings Ltd. suppliers manufacturers",
-      "snippet": "Fundamental Analysis on Nu Holdings Ltd Key ratios, Comparisons to Miscellaneous Financial Services Industry, Financial Sector, S&P 500 - CSIMarket. N"
+      "snippet": "5 days ago · Company profile for Nu Holdings Ltd. (NU ) stock, with a description, list of executives, contact details and other key facts. More about"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/NU/",
+      "url": "https://finance.yahoo.com/quote/NU/profile/?fr=sycsrp_catchall",
       "query": "Nu Holdings Ltd. suppliers manufacturers",
-      "snippet": "Find the latest Nu Holdings Ltd . ( NU ) stock quote, history, news and other vital information to help you with your stock trading and investing."
+      "snippet": "See the company profile for Nu Holdings Ltd. (NU ) including business summary, industry/sector information, number of employees, business summary, cor"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.investing.com/equities/nu-holdings",
+      "url": "https://international.nubank.com.br/company/nu-holdings-ltd-reports-third-quarter-2025-financial-results/",
       "query": "Nu Holdings Ltd. major customers clients",
-      "snippet": "$ NU is a common way to refer to the Nu Holdings Ltd ticker symbol in social media, forums, and online discussions. The dollar sign is a shorthand con"
+      "snippet": "Nov 13, 2025 · Customer growth: Nu added 4.3 million new customers in Q3’25, a 16% year-over-year (YoY) increase, reaching a total of 127 million cust"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/NU/",
+      "url": "https://international.nubank.com.br/company/nu-holdings-ltd-reports-fourth-quarter-and-full-year-2025-financial-results/",
       "query": "Nu Holdings Ltd. major customers clients",
-      "snippet": "Find the latest Nu Holdings Ltd . ( NU ) stock quote, history, news and other vital information to help you with your stock trading and investing."
+      "snippet": "Feb 25, 2026 · Customer growth – Nu added 4 million customers in Q4’25, and 17 million in FY’25, reaching a total of 131 million customers globally by"
     }
   ]
 }

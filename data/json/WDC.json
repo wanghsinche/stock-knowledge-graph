@@ -4,34 +4,34 @@
   "sector": "Technology",
   "industry": "Computer Hardware",
   "upstream": [
+    "STX",
     "MU",
-    "Printed circuit board suppliers",
-    "META",
-    "Firmware and software development partners",
-    "Packaging and logistics providers"
+    "005930.KS",
+    "SK Hynix",
+    "WDC"
   ],
   "downstream": [
-    "DELL",
-    "MSFT",
     "AAPL",
-    "Data center operators (Equinix, Digital Realty)",
-    "AMZN"
+    "MSFT",
+    "AMZN",
+    "GOOGL",
+    "DELL"
   ],
   "competitors": [
     "STX",
-    "Toshiba",
     "005930.KS",
     "MU",
-    "INTC"
+    "IBM",
+    "ORCL"
   ],
   "key_products": [
-    "Desktop HDDs",
-    "Enterprise HDDs",
-    "SSD drives",
-    "External storage solutions",
-    "Data center storage arrays"
+    "Hard Disk Drives (HDD)",
+    "Solid State Drives (SSD)",
+    "Enterprise Storage Solutions",
+    "Data Center Storage",
+    "Personal Storage Devices"
   ],
-  "extracted_at": "2026-07-14 18:54:51",
+  "extracted_at": "2026-07-16 17:06:22",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,15 +41,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.westerndigital.com/company/distributors",
+      "url": "https://csimarket.com/stocks/WDC-Suppliers",
       "query": "Western Digital Corporation suppliers manufacturers",
-      "snippet": "Find Distributors & Resellers Purchase from your preferred Western Digital authorized partner Region Country/Area Brand"
+      "snippet": "Jul 7, 2026 · Western Digital supply chain, list and performance of Western Digitals' suppliers - CSIMarket"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/WDC-Suppliers",
+      "url": "https://www.westerndigital.com/company/distributors",
       "query": "Western Digital Corporation suppliers manufacturers",
-      "snippet": "Jul 7, 2026 · Western Digital supply chain, list and performance of Western Digitals ' suppliers - CSIMarket"
+      "snippet": "Find Distributors & Resellers Purchase from your preferred Western Digital authorized partner Region Country/Area Brand"
     },
     {
       "source": "DuckDuckGo",
@@ -59,9 +59,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.readycontacts.com/target-account-profiling/western-digital/",
+      "url": "https://data.landbase.com/technology/western-digital/",
       "query": "Western Digital Corporation major customers clients",
-      "snippet": "Western Digital is a leading data storage company that develops, manufactures, and provides data technology products, including hard disk drives and s"
+      "snippet": "Aug 17, 2025 · Our Western Digital customers list is available for download and comes enriched with vital company specifics, including industry classi"
     }
   ]
 }

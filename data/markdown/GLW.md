@@ -3,8 +3,8 @@ ticker: GLW
 company: Corning Incorporated
 sector: Technology
 industry: Electronic Components
-extracted_at: 2026-07-15 17:11:02
-last_updated: 2026-07-15
+extracted_at: 2026-07-16 17:08:42
+last_updated: 2026-07-16
 ---
 
 # GLW - Corning Incorporated
@@ -12,37 +12,37 @@ last_updated: 2026-07-15
 ## 基本信息
 
 - **所属行业**: Technology / Electronic Components
-- **提取时间**: 2026-07-15 17:11:02
+- **提取时间**: 2026-07-16 17:08:42
 
 ## 产业链关系
 
 ### 上游供应商
 - [[Silica sand suppliers]]
-- [[Chemical feedstock suppliers]]
-- [[Glass raw material suppliers]]
-- [[Ceramic material suppliers]]
-- [[Precision tooling manufacturers]]
+- [[Chemical feedstock providers]]
+- [[Glass manufacturing equipment manufacturers]]
+- [[Thermal processing equipment suppliers]]
+- [[Precision machining tool suppliers]]
 
 ### 下游客户
-- [[AAPL]]
-- [[005930.KS]]
-- [[Canon Inc.]]
-- [[SONY]]
-- [[Boeing]]
+- [[CAT]]
+- [[Aerospace and defense contractors]]
+- [[Medical imaging device manufacturers]]
+- [[Display panel manufacturers]]
+- [[Industrial process equipment suppliers]]
 
 ### 竞争对手
-- [[Schott AG]]
-- [[Saint-Gobain]]
-- [[AGC Inc.]]
-- [[Lumentum Holdings]]
-- [[II-VI Incorporated]]
+- [[Saint‑Gobain]]
+- [[Owens Corning]]
+- [[Lumentum]]
+- [[Lattice Semiconductor]]
+- [[Corning’s own internal competitors in specific glass segments (e.g., specialty glass producers)]]
 
 ### 核心产品
-- [[Optical fiber]]
-- [[Specialty glass]]
-- [[Advanced ceramics]]
-- [[Optical components]]
-- [[Glass for smartphones]]
+- [[Optical fiber and cable]]
+- [[High‑performance glass for displays]]
+- [[Glass for medical imaging and diagnostics]]
+- [[Glass for aerospace and defense]]
+- [[Advanced ceramics and glass composites]]
 
 ## 数据来源
 
@@ -54,4 +54,4 @@ last_updated: 2026-07-15
 
 ## 元数据
 
-- **更新日期**: 2026-07-15
+- **更新日期**: 2026-07-16

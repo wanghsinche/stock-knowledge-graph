@@ -3,8 +3,8 @@ ticker: MRNA
 company: Moderna, Inc.
 sector: Healthcare
 industry: Biotechnology
-extracted_at: 2026-07-14 19:10:24
-last_updated: 2026-07-14
+extracted_at: 2026-07-16 17:14:11
+last_updated: 2026-07-16
 ---
 
 # MRNA - Moderna, Inc.
@@ -12,23 +12,23 @@ last_updated: 2026-07-14
 ## 基本信息
 
 - **所属行业**: Healthcare / Biotechnology
-- **提取时间**: 2026-07-14 19:10:24
+- **提取时间**: 2026-07-16 17:14:11
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Contract mRNA synthesis providers]]
-- [[Lipid nanoparticle (LNP) manufacturers]]
-- [[Cell culture media suppliers]]
-- [[Vaccine formulation equipment vendors]]
-- [[Cold‑chain logistics partners]]
+- [[Lonza]]
+- [[CAT]]
+- [[Thermo Fisher Scientific]]
+- [[Boehringer Ingelheim]]
+- [[GSK]]
 
 ### 下游客户
-- [[National procurement agencies]]
-- [[Multilateral organizations (e.g., WHO, Gavi)]]
-- [[Pharmaceutical distributors]]
-- [[Hospitals and vaccination sites]]
-- [[Global vaccine manufacturers]]
+- [[U.S. Department of Health and Human Services]]
+- [[European Medicines Agency]]
+- [[National Health Service (UK)]]
+- [[World Health Organization]]
+- [[Major hospitals and clinics worldwide]]
 
 ### 竞争对手
 - [[Pfizer]]
@@ -41,8 +41,8 @@ last_updated: 2026-07-14
 - [[Spikevax (COVID‑19 mRNA vaccine)]]
 - [[mRNA‑based therapeutics (e.g., mRNA‑LNP for rare diseases)]]
 - [[mRNA vaccine platform technology]]
-- [[Clinical‑grade mRNA manufacturing services]]
-- [[Vaccine delivery systems]]
+- [[mRNA‑based cancer immunotherapies]]
+- [[mRNA‑based antiviral therapeutics]]
 
 ## 数据来源
 
@@ -54,4 +54,4 @@ last_updated: 2026-07-14
 
 ## 元数据
 
-- **更新日期**: 2026-07-14
+- **更新日期**: 2026-07-16

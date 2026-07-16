@@ -3,8 +3,8 @@ ticker: WDC
 company: Western Digital Corporation
 sector: Technology
 industry: Computer Hardware
-extracted_at: 2026-07-14 18:54:51
-last_updated: 2026-07-14
+extracted_at: 2026-07-16 17:06:22
+last_updated: 2026-07-16
 ---
 
 # WDC - Western Digital Corporation
@@ -12,46 +12,46 @@ last_updated: 2026-07-14
 ## 基本信息
 
 - **所属行业**: Technology / Computer Hardware
-- **提取时间**: 2026-07-14 18:54:51
+- **提取时间**: 2026-07-16 17:06:22
 
 ## 产业链关系
 
 ### 上游供应商
+- [[STX]]
 - [[MU]]
-- [[Printed circuit board suppliers]]
-- [[META]]
-- [[Firmware and software development partners]]
-- [[Packaging and logistics providers]]
+- [[005930.KS]]
+- [[SK Hynix]]
+- [[WDC]]
 
 ### 下游客户
-- [[DELL]]
-- [[MSFT]]
 - [[AAPL]]
-- [[Data center operators (Equinix, Digital Realty)]]
+- [[MSFT]]
 - [[AMZN]]
+- [[GOOGL]]
+- [[DELL]]
 
 ### 竞争对手
 - [[STX]]
-- [[Toshiba]]
 - [[005930.KS]]
 - [[MU]]
-- [[INTC]]
+- [[IBM]]
+- [[ORCL]]
 
 ### 核心产品
-- [[Desktop HDDs]]
-- [[Enterprise HDDs]]
-- [[SSD drives]]
-- [[External storage solutions]]
-- [[Data center storage arrays]]
+- [[Hard Disk Drives (HDD)]]
+- [[Solid State Drives (SSD)]]
+- [[Enterprise Storage Solutions]]
+- [[Data Center Storage]]
+- [[Personal Storage Devices]]
 
 ## 数据来源
 
 - [Western Digital](https://en.wikipedia.org/wiki/Western_Digital_Corporation)
-- [Western Digital Corporation suppliers manufacturers](https://www.westerndigital.com/company/distributors)
 - [Western Digital Corporation suppliers manufacturers](https://csimarket.com/stocks/WDC-Suppliers)
+- [Western Digital Corporation suppliers manufacturers](https://www.westerndigital.com/company/distributors)
 - [Western Digital Corporation major customers clients](https://csimarket.com/stocks/WDC-Customers)
-- [Western Digital Corporation major customers clients](https://www.readycontacts.com/target-account-profiling/western-digital/)
+- [Western Digital Corporation major customers clients](https://data.landbase.com/technology/western-digital/)
 
 ## 元数据
 
-- **更新日期**: 2026-07-14
+- **更新日期**: 2026-07-16

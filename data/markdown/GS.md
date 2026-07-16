@@ -3,8 +3,8 @@ ticker: GS
 company: The Goldman Sachs Group, Inc.
 sector: Financial Services
 industry: Capital Markets
-extracted_at: 2026-07-15 17:08:43
-last_updated: 2026-07-15
+extracted_at: 2026-07-16 17:09:54
+last_updated: 2026-07-16
 ---
 
 # GS - The Goldman Sachs Group, Inc.
@@ -12,37 +12,37 @@ last_updated: 2026-07-15
 ## 基本信息
 
 - **所属行业**: Financial Services / Capital Markets
-- **提取时间**: 2026-07-15 17:08:43
+- **提取时间**: 2026-07-16 17:09:54
 
 ## 产业链关系
 
 ### 上游供应商
 - [[Bloomberg]]
-- [[Refinitiv]]
-- [[FactSet]]
 - [[Thomson Reuters]]
-- [[S&P Global]]
+- [[MSFT]]
+- [[ORCL]]
+- [[CRM]]
 
 ### 下游客户
-- [[Corporate clients]]
-- [[Sovereign governments]]
-- [[Institutional investors]]
-- [[Private equity firms]]
+- [[Multinational corporations]]
+- [[Sovereign wealth funds]]
 - [[Pension funds]]
+- [[Insurance companies]]
+- [[Institutional investors]]
 
 ### 竞争对手
-- [[JPMorgan Chase & Co.]]
+- [[JPMorgan Chase]]
 - [[Morgan Stanley]]
-- [[Bank of America Merrill Lynch]]
 - [[Citigroup]]
-- [[UBS]]
+- [[Bank of America Merrill Lynch]]
+- [[Wells Fargo]]
 
 ### 核心产品
-- [[Investment Banking]]
-- [[Securities Underwriting]]
-- [[Asset Management]]
-- [[Wealth Management]]
-- [[Trading & Brokerage]]
+- [[Investment banking advisory]]
+- [[Securities underwriting]]
+- [[Asset management]]
+- [[Wealth management]]
+- [[Trading and brokerage services]]
 
 ## 数据来源
 
@@ -50,8 +50,8 @@ last_updated: 2026-07-15
 - [The Goldman Sachs Group, Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/Goldman_Sachs)
 - [The Goldman Sachs Group, Inc. suppliers manufacturers](https://www.goldmansachs.com/)
 - [The Goldman Sachs Group, Inc. major customers clients](https://en.wikipedia.org/wiki/Goldman_Sachs)
-- [The Goldman Sachs Group, Inc. major customers clients](https://www.goldmansachs.com/)
+- [The Goldman Sachs Group, Inc. major customers clients](https://www.goldmansachs.com/what-we-do/serving-clients)
 
 ## 元数据
 
-- **更新日期**: 2026-07-15
+- **更新日期**: 2026-07-16

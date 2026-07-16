@@ -5,33 +5,33 @@
   "industry": "Communication Equipment",
   "upstream": [
     "INTC",
-    "QCOM",
     "AVGO",
+    "QCOM",
     "TXN",
-    "MU"
+    "NVDA"
   ],
   "downstream": [
-    "Enterprise IT departments",
-    "CAT",
-    "Government agencies",
-    "CAT",
-    "Internet service providers"
+    "AT&T",
+    "Verizon",
+    "Comcast",
+    "Vodafone",
+    "Deutsche Telekom"
   ],
   "competitors": [
     "JNPR",
-    "Huawei Technologies",
     "ANET",
+    "Huawei",
     "Nokia",
     "Ericsson"
   ],
   "key_products": [
-    "Cisco routers",
-    "Cisco switches",
-    "Cisco firewalls",
-    "Cisco Meraki wireless solutions",
-    "Cisco Webex collaboration platform"
+    "Routers",
+    "Switches",
+    "Firewalls",
+    "Webex",
+    "Meraki"
   ],
-  "extracted_at": "2026-07-15 17:15:25",
+  "extracted_at": "2026-07-16 17:11:51",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
+      "url": "https://ru.wikipedia.org/wiki/Cisco",
+      "query": "Cisco Systems, Inc. suppliers manufacturers",
+      "snippet": "Cisco Systems , «Сиско Системз» — американская транснациональная компания, разрабатывающая и продающая сетевое оборудование, предназначенное в основно"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.cisco.com/",
+      "query": "Cisco Systems, Inc. suppliers manufacturers",
+      "snippet": "Cisco is a worldwide technology leader powering an inclusive future for all. Learn more about our products, services, solutions, and innovations.Disco"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://ru.wikipedia.org/wiki/Cisco",
+      "query": "Cisco Systems, Inc. major customers clients",
+      "snippet": "Cisco Systems , «Сиско Системз» — американская транснациональная компания, разрабатывающая и продающая сетевое оборудование, предназначенное в основно"
+    },
+    {
+      "source": "DuckDuckGo",
       "url": "https://www.cisco.com/",
       "query": "Cisco Systems, Inc. major customers clients",
       "snippet": "Cisco is a worldwide technology leader powering an inclusive future for all.Join us to take advantage of the latest networking opportunities with Cisc"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.linkedin.com/company/cisco",
-      "query": "Cisco Systems, Inc. major customers clients",
-      "snippet": "Cisco Meraki Systems Manager. Cisco Meraki Systems Manager. Mobile Device Management (MDM) Software. Cisco Secure Malware Analytics, Threat Intelligen"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.cisco.com/",
-      "query": "Cisco Systems, Inc. products services offerings",
-      "snippet": "Products and Services Home. Save on Cisco products . Future-proof your network with our full-stack offer.Accelerate services offerings . Provide outso"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.linkedin.com/company/cisco",
-      "query": "Cisco Systems, Inc. products services offerings",
-      "snippet": "Cisco Meraki Systems Manager. Cisco Meraki Systems Manager. Mobile Device Management (MDM) Software. Cisco Secure Malware Analytics, Threat Intelligen"
     }
   ]
 }

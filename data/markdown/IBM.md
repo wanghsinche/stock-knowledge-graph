@@ -3,8 +3,8 @@ ticker: IBM
 company: International Business Machines Corporation
 sector: Technology
 industry: Information Technology Services
-extracted_at: 2026-07-14 17:09:32
-last_updated: 2026-07-14
+extracted_at: 2026-07-16 17:06:50
+last_updated: 2026-07-16
 ---
 
 # IBM - International Business Machines Corporation
@@ -12,7 +12,7 @@ last_updated: 2026-07-14
 ## 基本信息
 
 - **所属行业**: Technology / Information Technology Services
-- **提取时间**: 2026-07-14 17:09:32
+- **提取时间**: 2026-07-16 17:06:50
 
 ## 产业链关系
 
@@ -20,22 +20,22 @@ last_updated: 2026-07-14
 - [[INTC]]
 - [[AMD]]
 - [[NVDA]]
-- [[QCOM]]
-- [[AVGO]]
+- [[MU]]
+- [[005930.KS]]
 
 ### 下游客户
-- [[General Electric]]
-- [[Bank of America]]
-- [[United States Department of Defense]]
-- [[UnitedHealth Group]]
-- [[NASA]]
+- [[U.S. Federal Government]]
+- [[Banking & Financial Services]]
+- [[Healthcare & Life Sciences]]
+- [[CAT]]
+- [[Retail & Consumer Goods]]
 
 ### 竞争对手
-- [[MSFT]]
-- [[AMZN]]
-- [[GOOGL]]
-- [[ORCL]]
 - [[Accenture]]
+- [[Capgemini]]
+- [[Deloitte]]
+- [[TCS]]
+- [[Infosys]]
 
 ### 核心产品
 - [[IBM Cloud]]
@@ -47,11 +47,11 @@ last_updated: 2026-07-14
 ## 数据来源
 
 - [IBM](https://en.wikipedia.org/wiki/International_Business_Machines_Corporation)
-- [International Business Machines Corporation suppliers manufacturers](https://en.wikipedia.org/wiki/IBM)
-- [International Business Machines Corporation suppliers manufacturers](https://en.wikipedia.org/wiki/History_of_IBM)
+- [International Business Machines Corporation suppliers manufacturers](https://ru.wikipedia.org/wiki/IBM)
+- [International Business Machines Corporation suppliers manufacturers](https://www.alibaba.com/)
 - [International Business Machines Corporation major customers clients](https://en.wikipedia.org/wiki/IBM)
 - [International Business Machines Corporation major customers clients](https://www.appsruntheworld.com/customers-database/vendors/view/ibm)
 
 ## 元数据
 
-- **更新日期**: 2026-07-14
+- **更新日期**: 2026-07-16

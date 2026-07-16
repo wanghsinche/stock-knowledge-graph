@@ -4,39 +4,34 @@
   "sector": "Consumer Cyclical",
   "industry": "Auto Manufacturers",
   "upstream": [
-    "Panasonic",
-    "LG Chem",
     "CAT",
+    "LG Energy Solution",
+    "Panasonic",
     "005930.KS",
-    "TSLA"
+    "SK Innovation"
   ],
   "downstream": [
     "Individual consumers",
-    "AMZN",
-    "Commercial customers",
+    "Commercial fleet operators",
     "Utility companies",
-    "Government agencies"
+    "Residential customers",
+    "Commercial businesses"
   ],
   "competitors": [
     "General Motors",
     "Ford",
     "Volkswagen",
-    "Toyota",
-    "Rivian"
+    "Hyundai",
+    "Toyota"
   ],
   "key_products": [
     "Model S",
     "Model 3",
     "Model X",
     "Model Y",
-    "Cybertruck",
-    "Semi",
-    "Powerwall",
-    "Powerpack",
-    "Solar Roof",
-    "Solar panels"
+    "Cybertruck"
   ],
-  "extracted_at": "2026-07-15 17:07:27",
+  "extracted_at": "2026-07-16 17:04:07",
   "sources": [
     {
       "source": "Wikipedia",
@@ -48,25 +43,25 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Tesla,_Inc.",
       "query": "Tesla, Inc. suppliers manufacturers",
-      "snippet": "Tesla, Inc. (/ ˈtɛzlə / TEZ-lə or / ˈtɛslə / ⓘ TESS-lə[a]) is an American multinational automotive and clean energy company. Headquartered in Austin, "
+      "snippet": "Tesla purchases these batteries from three suppliers , CATL, LG Energy Solution, and Panasonic, the latter of which has co-located some of its battery"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/TSLA-Suppliers",
+      "url": "https://csimarket.com/stocks/suppliers_glance.php?code=TSLA",
       "query": "Tesla, Inc. suppliers manufacturers",
-      "snippet": "Tesla Inc's Comment on Supply Chain Model S uses over 2,000 purchased parts which we source globally from over 300 suppliers , the majority of whom ar"
+      "snippet": "Tesla Inc 's Suppliers Performance. TSLA's Supply Chain. Tesla relies on a wide range of suppliers beyond just battery manufacturers to build our elec"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Tesla,_Inc.",
       "query": "Tesla, Inc. major customers clients",
-      "snippet": "2 days ago - The majority are located in three regions: Asia Pacific (3,000 stations), North America (3,000), and Europe (1,500). Superchargers can cu"
+      "snippet": "Tesla subsidiary Tesla Energy develops, builds, sells, and installs solar energy generation systems and battery energy storage products (as well as re"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.tesla.com/customer-stories",
+      "url": "https://www.tesla.com/",
       "query": "Tesla, Inc. major customers clients",
-      "snippet": "Incentives · Support · Partner with Tesla · Commercial · Utilities · Learn · LearnShop · LearnFind · LearnOrder · LearnOrder · LearnOrder · Help Me Ch"
+      "snippet": "Video Guides. Customer Stories. Events. Safety.\"Compare Model 3 and Model Y\". \"What's Pet Mode?\" \"What does the Tesla app do?\" \"Where can I drive the "
     }
   ]
 }

@@ -6,32 +6,32 @@
   "upstream": [
     "TSM",
     "005930.KS",
+    "GlobalFoundries",
     "MU",
-    "ASE Group",
-    "Amkor Technology"
+    "SK Hynix"
   ],
   "downstream": [
-    "AMZN",
+    "SONY",
     "MSFT",
-    "GOOGL",
-    "AAPL",
+    "DELL",
+    "AMZN",
     "TSLA"
   ],
   "competitors": [
     "AMD",
     "INTC",
     "QCOM",
-    "AVGO",
-    "AAPL"
+    "AAPL",
+    "005930.KS"
   ],
   "key_products": [
     "GeForce RTX GPUs",
-    "Quadro RTX GPUs",
     "Tesla GPUs",
-    "Jetson SoC",
+    "Jetson SoCs",
+    "DGX AI supercomputers",
     "CUDA platform"
   ],
-  "extracted_at": "2026-07-14 17:06:12",
+  "extracted_at": "2026-07-16 17:03:27",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.suppliersmap.com/nvidia",
+      "url": "https://www.investing.com/equities/nvidia-corp",
       "query": "NVIDIA Corporation suppliers manufacturers",
-      "snippet": "Explore Nvidia 's complete supply chain with interactive visualizations showing supplier locations and component breakdowns across GeForce RTX and oth"
+      "snippet": "View today's NVIDIA Corporation stock price and latest NVDA news and analysis. Create real-time notifications to follow any changes in the live stock "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/NVDA-Suppliers",
+      "url": "https://www.britannica.com/money/NVIDIA-Corporation",
       "query": "NVIDIA Corporation suppliers manufacturers",
-      "snippet": "4 days ago · Nvidia supply chain, list and performance of Nvidias' suppliers - CSIMarket"
+      "snippet": "NVIDIA Corporation (NVDA) is a semiconductor company and a leading global manufacturer of high-end graphics... NVIDIA was also able to accelerate its "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/NVDA-Customers",
+      "url": "https://finance.yahoo.com/news/nvidias-biggest-customers-095700428.html",
       "query": "NVIDIA Corporation major customers clients",
-      "snippet": "Nvidia's Comment on Sales, Marketing and Customers Our worldwide sales and marketing strategy is key to our objective to become the leading supplier o"
+      "snippet": "June 26, 2025 - Nvidia has amassed an impressive list of customers, which includes top AI developers like Amazon, Microsoft, and Alphabet . Nvidia's c"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://stocksandfuturestrading.com/the-complete-list-of-nvidias-suppliers-and-consumers/",
+      "url": "https://finance.yahoo.com/news/nvidias-largest-customers-201900375.html",
       "query": "NVIDIA Corporation major customers clients",
-      "snippet": "NVIDIA has completed one of the most dramatic business transformations in market history — going from a gaming GPU company to the backbone of the glob"
+      "snippet": "May 2, 2024 - However, in its recent 10-K filing, the company did say that one customer represented 13% of its revenue from its compute and networking"
     }
   ]
 }

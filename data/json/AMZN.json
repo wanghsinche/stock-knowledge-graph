@@ -1,37 +1,37 @@
 {
   "ticker": "AMZN",
   "company_name": "Amazon.com, Inc.",
-  "sector": "Consumer Cyclical",
-  "industry": "Internet Retail",
+  "sector": "Consumer Cyclical / Internet Retail",
+  "industry": "E-commerce, Cloud Computing, Online Advertising, Digital Streaming, Entertainment, Artificial Intelligence",
   "upstream": [
-    "Book publishers",
-    "Electronics manufacturers",
-    "Apparel manufacturers",
-    "Third‑party seller suppliers",
-    "Digital content providers"
+    "DELL",
+    "Book publishers and content providers",
+    "AAPL",
+    "Logistics partners (UPS, FedEx, DHL)",
+    "Third‑party product manufacturers"
   ],
   "downstream": [
-    "Individual consumers",
     "AMZN",
     "AMZN",
-    "Prime members",
+    "AMZN",
+    "AMZN",
     "AMZN"
   ],
   "competitors": [
     "Walmart",
+    "Alibaba Group",
     "eBay",
-    "Alibaba",
     "Shopify",
-    "Target"
+    "MSFT"
   ],
   "key_products": [
-    "Amazon.com marketplace",
-    "Amazon Prime subscription",
-    "Amazon Web Services (AWS)",
-    "Amazon Echo (Alexa)",
-    "Amazon Kindle"
+    "Amazon.com e‑commerce platform",
+    "Amazon Web Services (cloud computing)",
+    "Amazon Prime Video (digital streaming)",
+    "Amazon Echo & Alexa (smart home devices)",
+    "Amazon Kindle (e‑reader & content)"
   ],
-  "extracted_at": "2026-07-14 17:36:36",
+  "extracted_at": "2026-07-16 17:04:46",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,15 +41,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://supply.amazon.com/",
+      "url": "https://www.alibaba.com/",
       "query": "Amazon.com, Inc. suppliers manufacturers",
-      "snippet": "Join Amazon' s global network of suppliers to be considered for opportunities to sell Amazon the goods and services necessary to support our retail an"
+      "snippet": "Find quality Manufacturers , Suppliers , Exporters, Importers, Buyers, Wholesalers, Products and Trade Leads from our award-winning International Trad"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://supplierconnect.amazon.com/?lang=en-US",
+      "url": "https://ir.aboutamazon.com/",
       "query": "Amazon.com, Inc. suppliers manufacturers",
-      "snippet": "Join Amazon' s global network of suppliers to be considered for opportunities to sell Amazon the goods and services necessary to support our retail an"
+      "snippet": "Amazon . com Announces First Quarter Results. Amazon . com , Inc . (NASDAQ: AMZN) today announced financial results for its first quarter ended March "
     },
     {
       "source": "DuckDuckGo",

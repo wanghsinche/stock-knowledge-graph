@@ -5,33 +5,33 @@
   "industry": "Banks - Diversified",
   "upstream": [
     "MSFT",
-    "AMZN",
-    "ORCL",
-    "Bloomberg",
-    "Symantec"
+    "Payment processors (e.g., Visa, Mastercard)",
+    "IT consulting firms (e.g., Accenture, Deloitte)",
+    "Data analytics providers (e.g., Palantir, Snowflake)",
+    "Cybersecurity firms (e.g., Palo Alto Networks, CrowdStrike)"
   ],
   "downstream": [
-    "Retail banking customers",
-    "Corporate clients",
-    "Institutional investors",
-    "Government agencies",
-    "Small and medium enterprises"
+    "Retail banking customers (individuals and families)",
+    "Corporate banking clients (mid‑size to large enterprises)",
+    "Institutional investors (pension funds, mutual funds)",
+    "Wealth management clients (high net worth individuals)",
+    "Government and public sector entities"
   ],
   "competitors": [
-    "Bank of America",
-    "Citigroup",
-    "Wells Fargo",
-    "Goldman Sachs",
-    "Morgan Stanley"
+    "Bank of America (BAC)",
+    "Citigroup (C)",
+    "Wells Fargo (WFC)",
+    "Goldman Sachs (GS)",
+    "Morgan Stanley (MS)"
   ],
   "key_products": [
-    "Retail banking services",
-    "Corporate banking",
-    "Investment banking",
-    "Asset management",
-    "Wealth management"
+    "Consumer banking services (checking, savings, mortgages)",
+    "Investment banking (M&A advisory, underwriting)",
+    "Credit cards and payment services",
+    "Wealth management and private banking",
+    "Treasury and cash management solutions"
   ],
-  "extracted_at": "2026-07-14 17:43:49",
+  "extracted_at": "2026-07-16 17:12:34",
   "sources": [
     {
       "source": "Wikipedia",
@@ -59,9 +59,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/JPM-Customers",
+      "url": "https://www.statista.com/topics/10395/jpmorgan-chase/",
       "query": "JPMorgan Chase & Co. major customers clients",
-      "snippet": "For your research, we’ve provided 9 tables on Jpmorgan Chase and Co corporate clients . You can find them in the navigation menu under Customers & Mar"
+      "snippet": "Dec 17, 2025 · JPMorgan Chase - statistics & facts JPMorgan Chase stands as one of the largest and most influential banks in the United States, and it"
     }
   ]
 }

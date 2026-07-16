@@ -5,33 +5,33 @@
   "industry": "Capital Markets / Brokerage",
   "upstream": [
     "AMZN",
+    "GOOGL",
     "MSFT",
-    "Bloomberg L.P.",
-    "Refinitiv",
-    "Stripe"
+    "Bloomberg",
+    "NASDAQ"
   ],
   "downstream": [
     "Retail investors",
-    "High-net-worth individuals",
     "Institutional investors",
-    "Day traders",
-    "Crypto traders"
+    "High‑frequency traders",
+    "Crypto traders",
+    "Options traders"
   ],
   "competitors": [
-    "Webull",
-    "eToro",
-    "TD Ameritrade",
     "Charles Schwab",
-    "Fidelity"
+    "E*TRADE",
+    "Fidelity",
+    "Webull",
+    "SoFi Invest"
   ],
   "key_products": [
     "Commission‑free stock trading app",
-    "Robinhood Gold subscription",
-    "Cash Management account",
-    "Options trading",
-    "Cryptocurrency trading"
+    "Options trading platform",
+    "Cryptocurrency trading",
+    "Margin trading",
+    "Cash management services"
   ],
-  "extracted_at": "2026-07-14 19:02:10",
+  "extracted_at": "2026-07-16 17:08:53",
   "sources": [
     {
       "source": "Wikipedia",
@@ -53,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Robinhood_Markets",
-      "query": "Robinhood Markets, Inc. major customers clients",
-      "snippet": "Robinhood Markets , Inc . is an American financial services company based in Menlo Park, California. It provides an electronic trading platform that f"
-    },
-    {
-      "source": "DuckDuckGo",
       "url": "https://investingintheweb.com/brokers/robinhood-statistics/",
       "query": "Robinhood Markets, Inc. major customers clients",
       "snippet": "Jun 23, 2026 · The platform has gained a massive customer base in the US, making it a major disruptor in the finance industry. In this article, we wil"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/HOOD-Customers",
+      "query": "Robinhood Markets, Inc. major customers clients",
+      "snippet": "For your research, we’ve provided 9 tables on Robinhood Markets Inc corporate clients . You can find them in the navigation menu under Customers & Mar"
     }
   ]
 }

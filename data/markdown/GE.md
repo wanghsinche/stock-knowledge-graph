@@ -1,57 +1,39 @@
 ---
 ticker: GE
-company: General Electric Company
+company: GE Aerospace
 sector: Industrials
 industry: Aerospace & Defense
-extracted_at: 2026-06-24 17:56:06
-last_updated: 2026-06-24
+extracted_at: 2026-07-16 17:12:21
+last_updated: 2026-07-16
 ---
 
-# GE - General Electric Company
+# GE - GE Aerospace
 
 ## 基本信息
 
 - **所属行业**: Industrials / Aerospace & Defense
-- **提取时间**: 2026-06-24 17:56:06
+- **提取时间**: 2026-07-16 17:12:21
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Titanium alloy suppliers]]
-- [[Composite material suppliers]]
-- [[Electronic component suppliers]]
-- [[Fuel system suppliers]]
-- [[Manufacturing equipment suppliers]]
+_暂无数据_
 
 ### 下游客户
-- [[Boeing]]
-- [[Airbus]]
-- [[Lockheed Martin]]
-- [[Northrop Grumman]]
-- [[United Technologies (now Raytheon Technologies)]]
+_暂无数据_
 
 ### 竞争对手
-- [[Pratt & Whitney (RTX)]]
-- [[Rolls‑Royce]]
-- [[Safran]]
-- [[Honeywell Aerospace]]
-- [[MTU Aero Engines]]
+_暂无数据_
 
 ### 核心产品
-- [[GE90]]
-- [[CF6]]
-- [[T700]]
-- [[F110]]
-- [[F414]]
+_暂无数据_
 
 ## 数据来源
 
 - [GE Aerospace](https://en.wikipedia.org/wiki/GE_Aerospace)
-- [GE Aerospace suppliers manufacturers](https://en.wikipedia.org/wiki/GE_Aerospace)
-- [GE Aerospace suppliers manufacturers](https://supplier.geaerospace.com/)
-- [GE Aerospace major customers clients](https://en.wikipedia.org/wiki/GE_Aerospace)
-- [GE Aerospace major customers clients](https://www.nullexposure.com/customers/ge)
+- [GE Aerospace suppliers manufacturers](https://www.geaerospace.com/)
+- [GE Aerospace suppliers manufacturers](https://www.linkedin.com/posts/ant-industries-ltd_aerospace-manufacturing-aviation-activity-7438109145033089024--ltg)
 
 ## 元数据
 
-- **更新日期**: 2026-06-24
+- **更新日期**: 2026-07-16

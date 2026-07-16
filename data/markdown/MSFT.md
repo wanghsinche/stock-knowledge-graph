@@ -3,8 +3,8 @@ ticker: MSFT
 company: Microsoft Corporation
 sector: Technology
 industry: Software - Infrastructure
-extracted_at: 2026-07-14 17:22:56
-last_updated: 2026-07-14
+extracted_at: 2026-07-16 17:04:18
+last_updated: 2026-07-16
 ---
 
 # MSFT - Microsoft Corporation
@@ -12,7 +12,7 @@ last_updated: 2026-07-14
 ## 基本信息
 
 - **所属行业**: Technology / Software - Infrastructure
-- **提取时间**: 2026-07-14 17:22:56
+- **提取时间**: 2026-07-16 17:04:18
 
 ## 产业链关系
 
@@ -20,37 +20,38 @@ last_updated: 2026-07-14
 - [[INTC]]
 - [[AMD]]
 - [[NVDA]]
+- [[QCOM]]
 - [[TSM]]
-- [[005930.KS]]
 
 ### 下游客户
-- [[Enterprises]]
-- [[Governments]]
+- [[Enterprise customers (e.g., banks, government agencies)]]
 - [[DELL]]
-- [[Individual consumers]]
+- [[Consumer users of Windows and Office]]
+- [[Game developers for Xbox]]
+- [[Cloud service users (Azure)]]
 
 ### 竞争对手
 - [[AAPL]]
 - [[GOOGL]]
 - [[AMZN]]
 - [[ORCL]]
-- [[CRM]]
+- [[IBM]]
 
 ### 核心产品
-- [[Windows OS]]
-- [[Microsoft Office]]
-- [[Azure Cloud]]
-- [[Microsoft Teams]]
-- [[Xbox]]
+- [[Windows operating system]]
+- [[Microsoft Office suite]]
+- [[Azure cloud platform]]
+- [[Surface devices]]
+- [[Xbox gaming console]]
 
 ## 数据来源
 
 - [Microsoft](https://en.wikipedia.org/wiki/Microsoft_Corporation)
-- [Microsoft Corporation suppliers manufacturers](https://csimarket.com/stocks/MSFT-Suppliers)
-- [Microsoft Corporation suppliers manufacturers](https://www.makesureiknowit.com/company/microsoft)
-- [Microsoft Corporation major customers clients](https://csimarket.com/stocks/MSFT-Customers)
-- [Microsoft Corporation major customers clients](https://www.microsoft.com/en-us/customers/)
+- [Microsoft Corporation suppliers manufacturers](https://csimarket.com/stocks/MSFT-Shares-vs-Suppliers)
+- [Microsoft Corporation suppliers manufacturers](https://csimarket.com/stocks/suppliers_glance.php?code=MSFT)
+- [Microsoft Corporation major customers clients](https://copilot.microsoft.com/)
+- [Microsoft Corporation major customers clients](https://www.tradingview.com/symbols/NASDAQ-MSFT/)
 
 ## 元数据
 
-- **更新日期**: 2026-07-14
+- **更新日期**: 2026-07-16

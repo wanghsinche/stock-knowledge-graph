@@ -4,11 +4,11 @@
   "sector": "Technology",
   "industry": "Semiconductors",
   "upstream": [
-    "ASML",
-    "AMAT",
-    "LRCX",
-    "Tokyo Electron",
-    "KLA Corporation"
+    "TSM",
+    "005930.KS",
+    "MU",
+    "SK Hynix",
+    "GlobalFoundries"
   ],
   "downstream": [
     "DELL",
@@ -28,10 +28,10 @@
     "Intel Core CPUs",
     "Intel Xeon CPUs",
     "Intel Arc GPUs",
-    "Intel FPGAs",
-    "Intel Networking Chips"
+    "Intel chipsets",
+    "Intel AI accelerators"
   ],
-  "extracted_at": "2026-07-14 17:19:44",
+  "extracted_at": "2026-07-16 17:04:30",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,15 +41,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.intel.com/content/www/us/en/partner/showcase/partner-directory/distributor.html",
+      "url": "https://csimarket.com/stocks/INTC-Suppliers",
       "query": "Intel Corporation suppliers manufacturers",
-      "snippet": "Sell Intel® Products directly sourced from Intel as well as devices manufactured by OEMs."
+      "snippet": "Intel supply chain, list and performance of Intels' suppliers - CSIMarket. Intel 's Comment on Supply Chain. We use third-party foundries to manufactu"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/INTC-Suppliers",
+      "url": "https://www.globalspec.com/supplier/profile/Intel",
       "query": "Intel Corporation suppliers manufacturers",
-      "snippet": "4 days ago · We have thousands of suppliers , including subcontractors, providing our various materials and service needs. We set expectations for sup"
+      "snippet": "Intel Corporation business profile on GlobalSpec. Read about Intel Corporation , browse product catalogs and product areas.(408) 765-9904. Business Ty"
     },
     {
       "source": "DuckDuckGo",
@@ -59,9 +59,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.intel.com/content/www/us/en/customer-spotlight/overview.html",
+      "url": "https://www.appsruntheworld.com/customers-database/vendors/view/intel-corporation",
       "query": "Intel Corporation major customers clients",
-      "snippet": "Jul 20, 2025 · Explore the Intel Customer Spotlight for the latest customer stories, case studies, and testimonials highlighting data-centric innovati"
+      "snippet": "List of companies using or evaluating Intel Corporation applications, with details on their revenues, employees, industries, and locations."
     }
   ]
 }

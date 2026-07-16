@@ -1,43 +1,61 @@
 {
   "ticker": "ASTS",
   "company_name": "AST SpaceMobile, Inc.",
-  "sector": "Technology",
-  "industry": "Communication Equipment",
-  "upstream": [
-    "Satellite component manufacturers",
-    "Launch service providers",
-    "Semiconductor suppliers",
-    "Antenna and RF equipment vendors",
-    "Ground station equipment suppliers"
-  ],
+  "sector": "Technology / Communication Equipment",
+  "industry": "Satellite Communications",
+  "upstream": [],
   "downstream": [
     "Mobile network operators",
-    "Enterprise broadband customers",
+    "Telecom companies",
     "Government agencies",
-    "IoT device manufacturers",
-    "Satellite service users"
+    "Space agencies",
+    "Enterprise customers"
   ],
   "competitors": [
     "SpaceX Starlink",
     "OneWeb",
     "AMZN",
-    "Telesat LEO",
-    "Hughes Network Systems"
+    "Telesat",
+    "Iridium"
   ],
   "key_products": [
-    "SpaceMobile LEO satellites",
-    "Ground station infrastructure",
-    "Satellite broadband services",
-    "Mobile satellite terminals",
-    "Satellite antenna systems"
+    "Satellite communication systems",
+    "Satellite constellations",
+    "Space-based broadband",
+    "Satellite antennas",
+    "Satellite payloads"
   ],
-  "extracted_at": "2026-06-30 18:13:24",
+  "extracted_at": "2026-07-16 17:08:05",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "",
       "title": "",
       "snippet": ""
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/AST_SpaceMobile",
+      "query": "AST SpaceMobile, Inc. suppliers manufacturers",
+      "snippet": "AST SpaceMobile , Inc . is a publicly traded satellite designer and manufacturer based in Midland, Texas, United States. [6][7] The company is buildin"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://ast-science.com/company/",
+      "query": "AST SpaceMobile, Inc. suppliers manufacturers",
+      "snippet": "What is AST SpaceMobile ? AST SpaceMobile is building the first and only space-based cellular broadband network accessible directly by everyday smartp"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/AST_SpaceMobile",
+      "query": "AST SpaceMobile, Inc. major customers clients",
+      "snippet": "AST SpaceMobile , Inc . is a publicly traded satellite designer and manufacturer based in Midland, Texas, United States. The company is building the S"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://ast-science.com/",
+      "query": "AST SpaceMobile, Inc. major customers clients",
+      "snippet": "AST SpaceMobile is working to close that gap. Our space -based technology is designed to connect the unconnected, bringing broadband access directly t"
     }
   ]
 }

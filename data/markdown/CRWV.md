@@ -2,17 +2,17 @@
 ticker: CRWV
 company: CoreWeave, Inc.
 sector: Technology / Software - Infrastructure
-industry: AI Cloud Computing
-extracted_at: 2026-07-15 17:17:33
-last_updated: 2026-07-15
+industry: Cloud Computing / AI Infrastructure
+extracted_at: 2026-07-16 17:13:00
+last_updated: 2026-07-16
 ---
 
 # CRWV - CoreWeave, Inc.
 
 ## 基本信息
 
-- **所属行业**: Technology / Software - Infrastructure / AI Cloud Computing
-- **提取时间**: 2026-07-15 17:17:33
+- **所属行业**: Technology / Software - Infrastructure / Cloud Computing / AI Infrastructure
+- **提取时间**: 2026-07-16 17:13:00
 
 ## 产业链关系
 
@@ -20,38 +20,38 @@ last_updated: 2026-07-15
 - [[NVDA]]
 - [[AMD]]
 - [[INTC]]
-- [[QCOM]]
-- [[AVGO]]
+- [[DELL]]
+- [[HPQ]]
 
 ### 下游客户
 - [[OpenAI]]
-- [[GOOGL]]
-- [[MSFT]]
-- [[AMZN]]
+- [[Mistral AI]]
 - [[IBM]]
+- [[MSFT]]
+- [[GOOGL]]
 
 ### 竞争对手
-- [[NVDA]]
-- [[AMD]]
-- [[GOOGL]]
 - [[AMZN]]
+- [[GOOGL]]
 - [[MSFT]]
+- [[NVDA]]
+- [[Paperspace]]
 
 ### 核心产品
-- [[GPU Cloud Computing Services]]
-- [[GPU Infrastructure for AI]]
-- [[Chip Management Software]]
-- [[GPU Virtualization]]
-- [[AI Training and Inference Platforms]]
+- [[GPU-based AI cloud compute instances]]
+- [[GPU cluster management software]]
+- [[AI training and inference services]]
+- [[Custom GPU infrastructure solutions]]
+- [[Data center GPU deployment services]]
 
 ## 数据来源
 
 - [CoreWeave](https://en.wikipedia.org/wiki/CoreWeave,_Inc.)
 - [CoreWeave, Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/CoreWeave)
-- [CoreWeave, Inc. suppliers manufacturers](https://fingreed.com/startups-entrepreneurship/emerging-companies/analyst-report-coreweave-incorporated/)
-- [CoreWeave, Inc. competitors alternatives](https://en.wikipedia.org/wiki/CoreWeave)
-- [CoreWeave, Inc. competitors alternatives](https://wemate.ai/blog/coreweave-which-companion-app-understands-you-better.html)
+- [CoreWeave, Inc. suppliers manufacturers](https://www.coreweave.com/)
+- [CoreWeave, Inc. major customers clients](https://en.wikipedia.org/wiki/CoreWeave)
+- [CoreWeave, Inc. major customers clients](https://www.fool.com/investing/2026/07/13/cathie-wood-is-doubling-down-on-this-ai-stock-duri/)
 
 ## 元数据
 
-- **更新日期**: 2026-07-15
+- **更新日期**: 2026-07-16

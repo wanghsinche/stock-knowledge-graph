@@ -4,35 +4,34 @@
   "sector": "Industrials",
   "industry": "Aerospace & Defense",
   "upstream": [
+    "STMicroelectronics N.V.",
     "Boeing",
+    "Honeywell",
     "Lockheed Martin",
-    "Northrop Grumman",
-    "Airbus",
-    "Thales"
+    "Raytheon Technologies"
   ],
   "downstream": [
     "NASA",
-    "United States Space Force",
     "United States Department of Defense",
     "Commercial satellite operators",
-    "Starlink subscribers"
+    "SpaceX's Starlink customers",
+    "Private launch customers"
   ],
   "competitors": [
-    "Blue Origin",
     "United Launch Alliance",
     "Arianespace",
     "Rocket Lab",
-    "Boeing (launch services)"
+    "Blue Origin",
+    "Virgin Orbit"
   ],
   "key_products": [
     "Falcon 9",
     "Falcon Heavy",
     "Starship",
-    "Starlink satellites",
-    "Dragon spacecraft",
-    "Raptor engine"
+    "Starlink satellite constellation",
+    "Grok AI platform"
   ],
-  "extracted_at": "2026-07-14 17:35:10",
+  "extracted_at": "2026-07-16 17:05:14",
   "sources": [
     {
       "source": "Wikipedia",
@@ -42,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
+      "url": "https://grokipedia.com/page/Publicly_traded_SpaceX_suppliers",
+      "query": "Space Exploration Technologies Corp. suppliers manufacturers",
+      "snippet": "STMicroelectronics N.V. (NYSE: STM), a multinational semiconductor company headquartered in Geneva, Switzerland, serves as a critical supplier of spec"
+    },
+    {
+      "source": "DuckDuckGo",
       "url": "https://www.listthe.com/manufacturers-of/space-exploration-technologies-corp",
       "query": "Space Exploration Technologies Corp. suppliers manufacturers",
       "snippet": "This page shows the major manufacturers of SPACE EXPLORATION TECHNOLOGIES CORP . Results are limited to 15 suppliers, if you want to see more supplier"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://sky-brokers.com/supplier/space-exploration-technologies-corp/",
-      "query": "Space Exploration Technologies Corp. suppliers manufacturers",
-      "snippet": "Space Exploration Technologies Corp . (SpaceX) is a US based aerospace manufacturer and space transportation company headquartered in Hawthorne, Calif"
-    },
-    {
-      "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/SpaceX",
       "query": "Space Exploration Technologies Corp. major customers clients",
-      "snippet": "The company's largest customers include NASA, the United States Space Force, and the National Reconnaissance Office. Elon Musk owns 42% of the outstan"
+      "snippet": "Space Exploration Technologies Corporation , doing business as SpaceX , is an American spaceflight, telecommunications, and artificial intelligence co"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://stockanalysis.com/stocks/spcx/company/",
+      "url": "https://www.tradingview.com/symbols/NASDAQ-SPCX/",
       "query": "Space Exploration Technologies Corp. major customers clients",
-      "snippet": "2 hours ago · Space Exploration Technologies Corp . provides satellite-based broadband services in the United States, Ireland, Canada, and internation"
+      "snippet": "Space Exploration Technologies Corp . ( SpaceX ) designs, manufactures, and launches advanced rockets and spacecraft, including the fully reusable Sta"
     }
   ]
 }

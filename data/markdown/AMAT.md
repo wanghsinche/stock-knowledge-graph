@@ -3,8 +3,8 @@ ticker: AMAT
 company: Applied Materials, Inc.
 sector: Technology
 industry: Semiconductor Equipment & Materials
-extracted_at: 2026-07-14 18:34:35
-last_updated: 2026-07-14
+extracted_at: 2026-07-16 17:07:52
+last_updated: 2026-07-16
 ---
 
 # AMAT - Applied Materials, Inc.
@@ -12,28 +12,45 @@ last_updated: 2026-07-14
 ## 基本信息
 
 - **所属行业**: Technology / Semiconductor Equipment & Materials
-- **提取时间**: 2026-07-14 18:34:35
+- **提取时间**: 2026-07-16 17:07:52
 
 ## 产业链关系
 
 ### 上游供应商
-_暂无数据_
+- [[Contract manufacturers]]
+- [[Component suppliers]]
+- [[Raw material suppliers]]
+- [[Software vendors]]
+- [[Service providers]]
 
 ### 下游客户
-_暂无数据_
+- [[INTC]]
+- [[005930.KS]]
+- [[TSM]]
+- [[MU]]
+- [[SK Hynix]]
 
 ### 竞争对手
-_暂无数据_
+- [[ASML]]
+- [[LRCX]]
+- [[Tokyo Electron]]
+- [[KLA]]
 
 ### 核心产品
-_暂无数据_
+- [[Semiconductor fabrication equipment]]
+- [[Lithography systems]]
+- [[Etch and deposition tools]]
+- [[Cleaning and metrology instruments]]
+- [[Display manufacturing equipment]]
 
 ## 数据来源
 
 - [Applied Materials](https://en.wikipedia.org/wiki/Applied_Materials,_Inc.)
 - [Applied Materials, Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/Applied_Materials)
-- [Applied Materials, Inc. suppliers manufacturers](https://ir.appliedmaterials.com/news-releases/news-release-details/applied-materials-awards-suppliers-outstanding-performance-1)
+- [Applied Materials, Inc. suppliers manufacturers](https://csimarket.com/stocks/AMAT-Suppliers)
+- [Applied Materials, Inc. major customers clients](https://www.marketresearch.com/MarketLine-v3883/Applied-Materials-Company-Profile-SWOT-41412828/)
+- [Applied Materials, Inc. major customers clients](https://parameter.io/applied-materials-amat-ai-demand-2026-outlook/)
 
 ## 元数据
 
-- **更新日期**: 2026-07-14
+- **更新日期**: 2026-07-16

@@ -8,30 +8,30 @@
     "MSFT",
     "GOOGL",
     "ORCL",
-    "VMware"
+    "IBM"
   ],
   "downstream": [
-    "FedEx",
     "Walmart",
     "JPMorgan Chase",
-    "UnitedHealth Group",
-    "AT&T"
+    "AT&T",
+    "Bank of America",
+    "Coca‑Cola"
   ],
   "competitors": [
-    "Atlassian",
-    "BMC Software",
-    "IBM",
+    "CRM",
+    "SAP SuccessFactors",
     "MSFT",
+    "IBM",
     "ORCL"
   ],
   "key_products": [
-    "ServiceNow Platform",
+    "Now Platform",
     "IT Service Management (ITSM)",
     "IT Operations Management (ITOM)",
-    "Customer Service Management (CSM)",
-    "HR Service Delivery"
+    "IT Business Management (ITBM)",
+    "Customer Service Management (CSM)"
   ],
-  "extracted_at": "2026-07-14 18:51:00",
+  "extracted_at": "2026-07-16 17:11:39",
   "sources": [
     {
       "source": "Wikipedia",
@@ -53,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.servicenow.com/customers.html",
+      "url": "https://data.landbase.com/technology/servicenow/",
       "query": "ServiceNow, Inc. major customers clients",
-      "snippet": "ServiceNow Customer Stories · For FedEx, 5M ServiceNow workflows a month help get work done · CVS Health put AI to work for 300,000 colleagues · Bell "
+      "snippet": "Aug 17, 2025 · Our ServiceNow customers list is available for download and comes enriched with vital company specifics, including industry classificat"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.reddit.com/r/servicenow/comments/1ctbfyv/how_many_companies_who_have_servicenow_dont/",
+      "url": "https://www.aventionmedia.com/technology-installed-base/servicenow/",
       "query": "ServiceNow, Inc. major customers clients",
-      "snippet": "May 16, 2024 · I'm almost shocked by the number of companies who have ServiceNow - not the cheapest product on the market by a long shot - and only us"
+      "snippet": "Businesses whose solutions and services can help Cloud- Service Customers achieve any of their business requirements can make use of our List of Compa"
     }
   ]
 }

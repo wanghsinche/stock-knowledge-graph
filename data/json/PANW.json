@@ -1,37 +1,37 @@
 {
   "ticker": "PANW",
   "company_name": "Palo Alto Networks, Inc.",
-  "sector": "Technology",
-  "industry": "Software - Infrastructure",
+  "sector": "Technology / Software - Infrastructure",
+  "industry": "Cybersecurity Software",
   "upstream": [
     "INTC",
     "AMD",
-    "QCOM",
     "NVDA",
-    "MSFT"
+    "AVGO",
+    "QCOM"
   ],
   "downstream": [
-    "Fortune 100 companies",
-    "U.S. Department of Defense",
-    "GOOGL",
-    "MSFT",
-    "AMZN"
+    "Wipro",
+    "Tyson Foods",
+    "Grupo Bimbo",
+    "Putnam Investments",
+    "Fortune 100 companies"
   ],
   "competitors": [
     "CSCO",
     "Fortinet",
-    "Check Point Software Technologies",
-    "CrowdStrike",
+    "Check Point",
+    "JNPR",
     "Sophos"
   ],
   "key_products": [
     "Next-Generation Firewall",
     "Prisma Cloud",
     "Cortex XDR",
-    "Cortex XSOAR",
-    "Unit 42 threat intelligence"
+    "Unit 42 threat intelligence",
+    "Firewalls"
   ],
-  "extracted_at": "2026-07-15 17:15:54",
+  "extracted_at": "2026-07-16 17:13:12",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,25 +43,25 @@
       "source": "DuckDuckGo",
       "url": "https://www.paloaltonetworks.com/",
       "query": "Palo Alto Networks, Inc. suppliers manufacturers",
-      "snippet": "Palo Alto Networks : Cloud Security Leader in First-Ever CNAPP Report. The Forrester Wave™: Cloud Workload Security, Q1 2024.KuppingerCole Leadership "
+      "snippet": "Palo Alto Networks : Cloud Security Leader in First-Ever CNAPP Report. The Forrester Wave™: Cloud Workload Security, Q1 2024. Frost Radar™: Cloud Secu"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://habr.com/ru/companies/mws/articles/280866/",
+      "url": "https://csimarket.com/news/earnings/_1_6_billion_tax_provisions_drive_earnings_surge_for_palo_alto_networks_inc-2024-02-21204422",
       "query": "Palo Alto Networks, Inc. suppliers manufacturers",
-      "snippet": "Компания Palo Alto Networks была основана в 2005 году Ниром Зуком (Nir Zuk) и группой старших инженеров компаний, лидирующих в сфере сетевой безопасно"
+      "snippet": "Palo Alto Networks Inc Executive Officers. Economic Indicators. Fundamentals. Palo Alto Networks Inc Cash Flow Statement. Suppliers ."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.paloaltonetworks.com/",
+      "url": "https://www.paloaltonetworks.com/customers",
       "query": "Palo Alto Networks, Inc. major customers clients",
-      "snippet": "Palo Alto Networks : Cloud Security Leader in First-Ever CNAPP ReportFrostRadar™ names Palo Alto Networks a CNAPP LeaderOverall leader : 2024 Leadersh"
+      "snippet": "Discover how leading global brands like Wipro and Tyson Foods secure their operations with Palo Alto Networks . Explore customer success stories in cy"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.benzinga.com/general/politics/24/03/37460893/pelosi-loves-palo-alto-networks-stock-so-do-these-other-top-performing-traders-in-congress",
+      "url": "https://www.paloaltonetworks.com/network-security/customer-stories",
       "query": "Palo Alto Networks, Inc. major customers clients",
-      "snippet": "PANW Price Action: Palo Alto Networks shares trade at $302.40 versus a 52-week trading range of $176.30 to $380.84. Shares of Palo Alto Network are up"
+      "snippet": "Explore how top companies like Grupo Bimbo and Putnam Investments enhance network security with Palo Alto Networks ."
     }
   ]
 }

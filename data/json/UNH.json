@@ -2,36 +2,36 @@
   "ticker": "UNH",
   "company_name": "UnitedHealth Group Incorporated",
   "sector": "Healthcare",
-  "industry": "Healthcare Plans",
+  "industry": "Health Insurance / Health Care Services",
   "upstream": [
-    "Pharmaceutical manufacturers (e.g., Pfizer, Johnson & Johnson)",
-    "Medical device manufacturers (e.g., Medtronic, Abbott)",
-    "Health IT vendors (e.g., Epic Systems, Cerner)",
-    "Pharmacy benefit managers (e.g., Express Scripts, CVS Caremark)",
-    "IBM"
+    "Pharmaceutical manufacturers",
+    "Medical device manufacturers",
+    "Health technology vendors",
+    "Pharmacy benefit management providers",
+    "Data analytics and IT service firms"
   ],
   "downstream": [
-    "Medicare program",
-    "Medicaid program",
-    "MSFT",
-    "Government health agencies (e.g., Department of Veterans Affairs)",
-    "Health care providers (e.g., hospitals, clinics)"
+    "Large corporate employers",
+    "Government agencies (Medicare, Medicaid)",
+    "Individual consumers",
+    "Small and medium-sized businesses",
+    "Health care providers (hospitals, clinics)"
   ],
   "competitors": [
-    "Anthem",
+    "Anthem, Inc.",
     "Aetna (CVS Health)",
-    "Cigna",
-    "Humana",
+    "Cigna Corporation",
+    "Humana Inc.",
     "Kaiser Permanente"
   ],
   "key_products": [
-    "UnitedHealthcare insurance plans (individual, group, Medicare Advantage)",
-    "Optum health services (clinical, pharmacy, data analytics)",
+    "Commercial health insurance plans",
+    "Medicare Advantage and Medicare Supplement plans",
+    "Medicaid managed care plans",
     "OptumRx pharmacy benefit management",
-    "OptumInsight data analytics",
-    "OptumCare health services"
+    "OptumCare health services and care delivery"
   ],
-  "extracted_at": "2026-07-14 19:04:39",
+  "extracted_at": "2026-07-16 17:05:23",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,15 +41,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.unitedhealthgroup.com/suppliers/information.html",
+      "url": "https://www.alpha-sense.com/earnings/unh/",
       "query": "UnitedHealth Group Incorporated suppliers manufacturers",
-      "snippet": "Information for UnitedHealth Group suppliers , including access to our vendor portal"
+      "snippet": "Unitedhealth Group Inc . unitedhealthgroup .com. UnitedHealth Group is one of the largest private health insurers and provides medical benefits to abo"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.unitedhealthgroup.com/suppliers/information/vendor-portal.html",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-burney-co-has-556-million-stock-holdings-in-unitedhealth-group-incorporated-unh-2026-07-07/",
       "query": "UnitedHealth Group Incorporated suppliers manufacturers",
-      "snippet": "Information for UnitedHealth Group suppliers , including access to our vendor portal"
+      "snippet": "UnitedHealth Group Inc is a diversified health care company headquartered in Minnetonka, Minnesota, that operates two primary business platforms: Unit"
     },
     {
       "source": "DuckDuckGo",

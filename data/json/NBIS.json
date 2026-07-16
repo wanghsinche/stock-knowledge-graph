@@ -1,37 +1,37 @@
 {
   "ticker": "NBIS",
   "company_name": "Nebius Group N.V.",
-  "sector": "Communication Services",
-  "industry": "Internet Content & Information",
+  "sector": "Communication Services / Internet Content & Information",
+  "industry": "Artificial Intelligence Infrastructure",
   "upstream": [
-    "NVDA",
-    "Cloud infrastructure providers (e.g., AWS, Azure, GCP)",
-    "AI model providers (e.g., OpenAI, Anthropic)",
-    "Data center operators",
-    "Networking equipment suppliers"
+    "MSFT",
+    "AMZN",
+    "GOOGL",
+    "IBM",
+    "ORCL"
   ],
   "downstream": [
-    "Federal government IT systems (e.g., National Background Investigation Services)",
-    "Large enterprises requiring AI infrastructure",
-    "Government agencies for personnel processing",
-    "Enterprise data analytics firms",
-    "Research institutions"
+    "U.S. Department of Defense",
+    "U.S. Department of Homeland Security",
+    "U.S. Department of State",
+    "U.S. Department of Justice",
+    "Federal Government Agencies"
   ],
   "competitors": [
-    "OpenAI",
-    "Anthropic",
-    "GOOGL",
-    "AMZN",
-    "MSFT"
+    "Clearance Services",
+    "HireRight",
+    "Checkr",
+    "First Advantage",
+    "Background Check Company"
   ],
   "key_products": [
-    "Nebius AI Infrastructure Platform",
-    "Avride",
-    "TripleTen",
-    "Toloka",
-    "Clickhouse"
+    "AI Infrastructure Platform",
+    "Background Investigation System",
+    "Personnel Security Clearance Solution",
+    "Data Analytics & Risk Assessment Tool",
+    "TripleTen AI Analytics Suite"
   ],
-  "extracted_at": "2026-07-14 17:49:03",
+  "extracted_at": "2026-07-16 17:07:14",
   "sources": [
     {
       "source": "Wikipedia",
@@ -53,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Nebius_Group",
+      "url": "https://www.tradingview.com/symbols/NASDAQ-NBIS/ideas/page-2/",
       "query": "NBIS major customers clients",
-      "snippet": "In December 2024, Nebius raised $700 million through private investors, including Nvidia (which acquired 0.5% of Nebius ) and Accel Partners. [5]"
+      "snippet": "NBIS setup bullish I have added another 100 shares in the last few days we we dipped back into the demand zone and teal trend."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/NBIS-Customers",
+      "url": "https://www.marketbeat.com/stocks/NASDAQ/NBIS/institutional-ownership/",
       "query": "NBIS major customers clients",
-      "snippet": "3 days ago · For your research, we’ve provided 9 tables on Nebius Group n v corporate clients . You can find them in the navigation menu under Custome"
+      "snippet": "Which shareholders are buying/selling shares of Nebius Group (NASDAQ: NBIS ) stock? View NBIS institutional ownership (13F) transactions at MarketBeat"
     }
   ]
 }

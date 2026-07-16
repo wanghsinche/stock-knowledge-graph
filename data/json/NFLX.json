@@ -4,18 +4,18 @@
   "sector": "Communication Services",
   "industry": "Entertainment",
   "upstream": [
-    "Warner Bros. Pictures",
-    "SONY",
-    "Universal Studios",
-    "Paramount Pictures",
-    "Disney Studios"
+    "Visual Data (UK) – Preferred Vendor for technical and PR services",
+    "ADBE",
+    "AMZN",
+    "MSFT",
+    "GOOGL"
   ],
   "downstream": [
-    "Individual subscribers",
-    "Household accounts",
-    "Corporate accounts",
-    "Smart TV manufacturers",
-    "Streaming device manufacturers"
+    "Global subscribers (over 300 million)",
+    "Corporate clients (enterprise streaming solutions)",
+    "GOOGL",
+    "AAPL",
+    "Telecom providers (e.g., AT&T, Verizon)"
   ],
   "competitors": [
     "Disney+",
@@ -25,13 +25,13 @@
     "AAPL"
   ],
   "key_products": [
-    "Over-the-top streaming service",
-    "Original series and films",
+    "Netflix streaming service (OTT)",
+    "Original programming (e.g., Stranger Things, The Crown)",
     "Licensed third‑party content",
     "Mobile and web applications",
-    "Smart TV and console apps"
+    "Content recommendation engine"
   ],
-  "extracted_at": "2026-07-15 17:13:52",
+  "extracted_at": "2026-07-16 17:10:31",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.marketresearch.com/GlobalData-v3648/Netflix-NFLX-Financial-Strategic-SWOT-36870770/",
+      "url": "https://csimarket.com/stocks/NFLX-Suppliers",
+      "query": "Netflix, Inc. suppliers manufacturers",
+      "snippet": "Jul 7, 2026 · Netflix Inc supply chain, list and performance of Netflix Incs ' suppliers - CSIMarket"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://npfp.netflixstudios.com/region/global/",
+      "query": "Netflix, Inc. suppliers manufacturers",
+      "snippet": "Visual Data (UK) became a Netflix Preferred Vendor in 2013 and its technical, professional and service standards are among the highest in the industry"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/NFLX-Customers",
       "query": "Netflix, Inc. major customers clients",
-      "snippet": "Netflix Inc ( Netflix ) is a provider of entertainment services. The company offers TV shows and movies such as original series, documentaries, anime,"
+      "snippet": "Updated on: Focus of this report: Netflix Inc ’ s corporate clients . For your research, we’ve provided 9 tables on Netflix Inc corporate clients . Yo"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.fool.com/investing/general/2014/05/25/netflix-is-becoming-very-dominant.aspx",
+      "url": "https://ir.netflix.net/ir-overview/profile/default.aspx",
       "query": "Netflix, Inc. major customers clients",
-      "snippet": "Netflix is increasingly seeing its share of total usage rise. Netflix has a much longer runway of growth than its Internet TV rivals such as Amazon.co"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://companiesrelated.com/company/netflix",
-      "query": "Netflix, Inc. competitors alternatives",
-      "snippet": "Disney+ competes directly with Netflix for streaming subscribers, offering a vast library of Disney, Pixar, Marvel, Star Wars, and National Geographic"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/NFLX-Competitors",
-      "query": "Netflix, Inc. competitors alternatives",
-      "snippet": "The sales growth was above Netflix Inc 's competitors ' average revenue growth of 13.59 %, achieved in the same quarter.Overall company sales advanced"
+      "snippet": "Jun 4, 2026 · Netflix is one of the world’s leading entertainment services offering TV series, films, games and live programming across a wide variety"
     }
   ]
 }

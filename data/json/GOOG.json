@@ -5,33 +5,33 @@
   "industry": "Internet Content & Information",
   "upstream": [
     "INTC",
-    "AMD",
-    "NVDA",
     "QCOM",
-    "TSM"
+    "005930.KS",
+    "TSM",
+    "NVDA"
   ],
   "downstream": [
-    "GOOGL",
+    "Advertisers",
     "Android device manufacturers",
+    "App developers",
     "GOOGL",
-    "YouTube content creators",
-    "GOOGL"
+    "YouTube content creators"
   ],
   "competitors": [
     "MSFT",
     "AMZN",
     "META",
     "AAPL",
-    "Tencent"
+    "NFLX"
   ],
   "key_products": [
     "Google Search",
     "YouTube",
-    "Google Cloud Platform",
-    "Android OS",
-    "Google Workspace"
+    "Android",
+    "Google Cloud",
+    "Google Ads"
   ],
-  "extracted_at": "2026-07-14 18:46:19",
+  "extracted_at": "2026-07-16 17:06:13",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/GOOG-Suppliers",
+      "query": "Alphabet Inc. suppliers manufacturers",
+      "snippet": "Jul 7, 2026 · Alphabet Inc supply chain, list and performance of Alphabet Incs ' suppliers - CSIMarket"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/GOOGL-Suppliers",
+      "query": "Alphabet Inc. suppliers manufacturers",
+      "snippet": "Jul 6, 2026 · Alphabet Inc supply chain, list and performance of Alphabet Incs ' suppliers - CSIMarket"
+    },
+    {
+      "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Alphabet_Inc.",
-      "query": "Alphabet Inc. suppliers manufacturers",
-      "snippet": "2 days ago - Alphabet Inc . is an American multinational technology conglomerate holding company headquartered in Mountain View, California. It was cr"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Category:Alphabet_Inc._subsidiaries",
-      "query": "Alphabet Inc. suppliers manufacturers",
-      "snippet": "Alphabet Inc ."
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/GOOG-Customers",
       "query": "Alphabet Inc. major customers clients",
-      "snippet": "For your research, we’ve provided 9 tables on Alphabet Inc corporate clients . You can find them in the navigation menu under Customers & Markets. To "
+      "snippet": "Alphabet Inc . is an American multinational technology conglomerate holding company headquartered in Mountain View, California. It was created through"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://pitchgrade.com/companies/alphabet-inc",
+      "url": "https://pitchgrade.com/companies/alphabet-inc-class-a",
       "query": "Alphabet Inc. major customers clients",
-      "snippet": "Jan 15, 2026 · Customer Segments: Alphabet Inc . serves multiple distinct customer segments, which may include consumers, small and medium businesses,"
+      "snippet": "Customer Segments: Alphabet Inc . (Class A) serves multiple distinct customer segments, which may include consumers, small and medium businesses, ente"
     }
   ]
 }

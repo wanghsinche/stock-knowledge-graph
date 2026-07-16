@@ -3,8 +3,8 @@ ticker: QCOM
 company: Qualcomm Incorporated
 sector: Technology
 industry: Semiconductors
-extracted_at: 2026-07-14 18:58:34
-last_updated: 2026-07-14
+extracted_at: 2026-07-16 17:13:32
+last_updated: 2026-07-16
 ---
 
 # QCOM - Qualcomm Incorporated
@@ -12,7 +12,7 @@ last_updated: 2026-07-14
 ## 基本信息
 
 - **所属行业**: Technology / Semiconductors
-- **提取时间**: 2026-07-14 18:58:34
+- **提取时间**: 2026-07-16 17:13:32
 
 ## 产业链关系
 
@@ -21,37 +21,37 @@ last_updated: 2026-07-14
 - [[005930.KS]]
 - [[GlobalFoundries]]
 - [[UMC]]
-- [[ASE Group]]
+- [[NXP Semiconductors]]
 
 ### 下游客户
 - [[AAPL]]
 - [[005930.KS]]
-- [[Huawei]]
-- [[GOOGL]]
-- [[AT&T]]
+- [[Huawei Technologies]]
+- [[Xiaomi Corporation]]
+- [[Ericsson AB]]
 
 ### 竞争对手
-- [[MediaTek]]
+- [[MediaTek Inc.]]
 - [[AVGO]]
-- [[INTC]]
-- [[NVDA]]
 - [[AAPL]]
+- [[005930.KS]]
+- [[INTC]]
 
 ### 核心产品
 - [[Snapdragon mobile processors]]
 - [[5G and 4G modems]]
-- [[AI chips]]
-- [[RF front‑end solutions]]
+- [[AI inference chips]]
+- [[RF front‑end modules]]
 - [[Baseband processors]]
 
 ## 数据来源
 
 - [Qualcomm](https://en.wikipedia.org/wiki/QUALCOMM_Incorporated)
-- [QUALCOMM Incorporated suppliers manufacturers](https://csimarket.com/stocks/QCOM-Suppliers)
-- [QUALCOMM Incorporated suppliers manufacturers](https://www.qualcomm.com/info/manufacturers)
+- [QUALCOMM Incorporated suppliers manufacturers](https://companiesrelated.com/company/qualcomm)
+- [QUALCOMM Incorporated suppliers manufacturers](https://finance.yahoo.com/quote/QCOM/)
 - [QUALCOMM Incorporated major customers clients](https://csimarket.com/stocks/QCOM-Customers)
 - [QUALCOMM Incorporated major customers clients](https://www.appsruntheworld.com/customers-database/vendors/view/qualcomm)
 
 ## 元数据
 
-- **更新日期**: 2026-07-14
+- **更新日期**: 2026-07-16

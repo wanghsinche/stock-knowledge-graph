@@ -7,31 +7,31 @@
     "Visa",
     "Mastercard",
     "American Express",
-    "Bank of America",
-    "Stripe (technology platform)"
+    "JPMorgan Chase",
+    "Bank of America"
   ],
   "downstream": [
     "AMZN",
     "eBay",
     "Shopify",
     "Etsy",
-    "Walmart.com"
+    "Walmart"
   ],
   "competitors": [
     "Stripe",
     "Square",
     "Adyen",
     "AMZN",
-    "AAPL"
+    "GOOGL"
   ],
   "key_products": [
     "PayPal Payments",
     "PayPal Credit",
     "Venmo",
     "Braintree",
-    "Xoom"
+    "PayPal Checkout"
   ],
-  "extracted_at": "2026-07-15 17:08:06",
+  "extracted_at": "2026-07-16 17:12:49",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/PayPal",
+      "url": "https://uk.wikipedia.org/wiki/PayPal",
+      "query": "PayPal Holdings, Inc. suppliers manufacturers",
+      "snippet": "PayPal ) — міжнародна електронна платіжна система, яка надає послуги в транскордонному режимі будь-якій людині у світі, у якої є банківська картка."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://investor.pypl.com/",
+      "query": "PayPal Holdings, Inc. suppliers manufacturers",
+      "snippet": "Investor Relations. Creating innovative experiences that make moving money, selling, and shopping simple, personalized, and secure, PayPal empowers co"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://capitaloneshopping.com/research/paypal-statistics/",
       "query": "PayPal Holdings, Inc. major customers clients",
-      "snippet": "2 weeks ago - PayPal Holdings , Inc . is an American multinational financial technology company operating an online payments system in the majority of"
+      "snippet": "Mar 3, 2026 · Latest available data on PayPal ' s number of users ( customers and merchants), transaction volume, revenue, market share and more."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.investopedia.com/articles/company-insights/082416/top-5-companies-owned-paypal-pypl.asp",
+      "url": "https://csimarket.com/stocks/PYPL-Customers",
       "query": "PayPal Holdings, Inc. major customers clients",
-      "snippet": "April 7, 2026 - At the time of the deal, Xoom had more than 1.3 million active U.S. customers who used its platform to send international remittances "
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://seekingalpha.com/symbol/PYPL/peers/comparison",
-      "query": "PayPal Holdings, Inc. competitors alternatives",
-      "snippet": "May 14, 2026 - PayPal Holdings, Inc. (PYPL) key stats comparison: compare with other stocks by metrics: valuation, growth, profitability, momentum, EP"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.globaldata.com/company-profile/paypal-holdings-inc/competitors/",
-      "query": "PayPal Holdings, Inc. competitors alternatives",
-      "snippet": "PayPal Holdings Inc peers and key competitor information including headquarters, annual revenue and number of employees."
+      "snippet": "For your research, we’ve provided 9 tables on Paypal Holdings Inc corporate clients . You can find them in the navigation menu under Customers & Marke"
     }
   ]
 }

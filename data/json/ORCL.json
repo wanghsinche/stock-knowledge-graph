@@ -4,34 +4,34 @@
   "sector": "Technology",
   "industry": "Software - Infrastructure",
   "upstream": [
-    "DELL",
-    "Cloud infrastructure providers (e.g., AWS, Azure)",
-    "Software vendors (e.g., Red Hat, VMware)",
-    "Consulting firms (e.g., Accenture, Deloitte)",
-    "ORCL"
+    "INTC",
+    "AMD",
+    "NVDA",
+    "CSCO",
+    "DELL"
   ],
   "downstream": [
-    "Government agencies",
-    "Financial institutions",
-    "Healthcare organizations",
-    "Retail companies",
-    "Technology companies"
+    "JPMorgan Chase",
+    "Bank of America",
+    "Walmart",
+    "UnitedHealth Group",
+    "General Electric"
   ],
   "competitors": [
     "MSFT",
     "AMZN",
     "IBM",
     "SAP",
-    "MongoDB"
+    "GOOGL"
   ],
   "key_products": [
     "Oracle Database",
     "Oracle Cloud Infrastructure",
     "Oracle Autonomous Database",
-    "Oracle Fusion Applications",
-    "Oracle Java"
+    "Oracle E-Business Suite",
+    "Oracle Fusion Middleware"
   ],
-  "extracted_at": "2026-07-14 17:31:13",
+  "extracted_at": "2026-07-16 17:06:01",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,15 +41,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.oracle.com/corporate/suppliers/",
+      "url": "https://adjkjc.github.io/en.wikipedia.org/wiki/Oracle_Corporation.html",
       "query": "Oracle Corporation suppliers manufacturers",
-      "snippet": "Doing Business with Oracle Oracle iSupplier Portal (iSP) is a secured self-service tool, which provides Oracle 's suppliers with the ability to use a "
+      "snippet": "Oracle Corporation is an American multinational computer technology corporation headquartered in Redwood Shores, California. The company sells databas"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.oracle.com/partner/find-partner/",
+      "url": "https://www.oracle.com/corporate/suppliers/",
       "query": "Oracle Corporation suppliers manufacturers",
-      "snippet": "Easily locate Oracle partners with expertise in building, selling, and providing value-added services for Oracle technology. Search by partner name, c"
+      "snippet": "Oracle is always looking for suppliers who can meet our high quality standards and satisfy our ever-evolving business needs. We believe in the importa"
     },
     {
       "source": "DuckDuckGo",
@@ -59,9 +59,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/ORCL-Customers",
+      "url": "https://www.oracle.com/customers/",
       "query": "Oracle Corporation major customers clients",
-      "snippet": "For your research, we’ve provided 9 tables on Oracle Corporation corporate clients . You can find them in the navigation menu under Customers & Market"
+      "snippet": "Innovation, ease of use, better results—those are just some of the reasons organizations in all industries and of all sizes rely on Oracle to help the"
     }
   ]
 }
