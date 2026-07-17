@@ -6,23 +6,23 @@
   "upstream": [
     "INTC",
     "AMD",
-    "NVDA",
-    "MU",
-    "005930.KS"
+    "TSM",
+    "005930.KS",
+    "CSCO"
   ],
   "downstream": [
     "U.S. Federal Government",
-    "Banking & Financial Services",
-    "Healthcare & Life Sciences",
-    "CAT",
-    "Retail & Consumer Goods"
+    "JPMorgan Chase",
+    "AT&T",
+    "Walmart",
+    "UnitedHealth"
   ],
   "competitors": [
-    "Accenture",
-    "Capgemini",
-    "Deloitte",
-    "TCS",
-    "Infosys"
+    "MSFT",
+    "AMZN",
+    "GOOGL",
+    "ORCL",
+    "SAP"
   ],
   "key_products": [
     "IBM Cloud",
@@ -31,7 +31,7 @@
     "IBM Security",
     "IBM Analytics"
   ],
-  "extracted_at": "2026-07-16 17:06:50",
+  "extracted_at": "2026-07-17 17:05:48",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,15 +41,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ru.wikipedia.org/wiki/IBM",
+      "url": "https://en.wikipedia.org/wiki/IBM",
       "query": "International Business Machines Corporation suppliers manufacturers",
-      "snippet": "International Business Machines ) — американская компания со штаб-квартирой в Армонке[англ.] (штат Нью-Йорк), один из крупнейших в мире производителей"
+      "snippet": "IBM was founded in 1911 as the Computing-Tabulating-Recording Company (CTR), a holding company of manufacturers of record-keeping and measuring system"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.alibaba.com/",
+      "url": "https://csimarket.com/stocks/IBM-Suppliers",
       "query": "International Business Machines Corporation suppliers manufacturers",
-      "snippet": "Find quality Manufacturers , Suppliers , Exporters, Importers, Buyers, Wholesalers, Products and Trade Leads from our award-winning International Trad"
+      "snippet": "Jul 7, 2026 · International Business Machines 's Comment on Supply Chain IBM has an extensive integrated supply chain, procuring materials and service"
     },
     {
       "source": "DuckDuckGo",
@@ -59,9 +59,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.appsruntheworld.com/customers-database/vendors/view/ibm",
+      "url": "https://csimarket.com/stocks/IBM-Customers",
       "query": "International Business Machines Corporation major customers clients",
-      "snippet": "Which IBM products have the most recorded customers ? The most widely adopted products are IBM Cloud (formerly IBM Bluemix and IBM SoftLayer), IBM Max"
+      "snippet": "International Business Machines 's Comment on Sales, Marketing and Customers IBM has a significant global presence, operating in more than 175 countri"
     }
   ]
 }

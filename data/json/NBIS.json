@@ -2,36 +2,36 @@
   "ticker": "NBIS",
   "company_name": "Nebius Group N.V.",
   "sector": "Communication Services / Internet Content & Information",
-  "industry": "Artificial Intelligence Infrastructure",
+  "industry": "Internet Content & Information",
   "upstream": [
-    "MSFT",
+    "NVDA",
+    "AMD",
+    "INTC",
     "AMZN",
-    "GOOGL",
-    "IBM",
-    "ORCL"
+    "MSFT"
   ],
   "downstream": [
-    "U.S. Department of Defense",
-    "U.S. Department of Homeland Security",
-    "U.S. Department of State",
-    "U.S. Department of Justice",
-    "Federal Government Agencies"
+    "Financial institutions",
+    "Automotive OEMs",
+    "Healthcare providers",
+    "Technology enterprises",
+    "Research institutions"
   ],
   "competitors": [
-    "Clearance Services",
-    "HireRight",
-    "Checkr",
-    "First Advantage",
-    "Background Check Company"
+    "NVDA",
+    "AMD",
+    "INTC",
+    "GOOGL",
+    "MSFT"
   ],
   "key_products": [
-    "AI Infrastructure Platform",
-    "Background Investigation System",
-    "Personnel Security Clearance Solution",
-    "Data Analytics & Risk Assessment Tool",
-    "TripleTen AI Analytics Suite"
+    "Nebius AI Platform",
+    "Avride",
+    "TripleTen",
+    "Toloka",
+    "Clickhouse"
   ],
-  "extracted_at": "2026-07-16 17:07:14",
+  "extracted_at": "2026-07-17 17:02:55",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.dcsa.mil/Systems-Applications/National-Background-Investigation-Services-NBIS/",
+      "url": "https://csimarket.com/stocks/suppliers_glance.php?code=NBIS",
       "query": "NBIS suppliers manufacturers",
-      "snippet": "NBIS is the Federal government’s IT system for end-to-end process for personnel vetting. This starts with the initiation and application for a backgro"
+      "snippet": "NBIS 's Suppliers Management Effectiveness. NBIS 's Competitors Results. NBIS 's vs. Suppliers , Data. (Revenue and Income for Trailing 12 Months, in "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.dote.osd.mil/Portals/97/pub/reports/FY2024/dod/2024nbis.pdf?ver=XRh6KdVyObJICiJU3oaHRA==",
+      "url": "https://finance.yahoo.com/quote/NBIS/",
       "query": "NBIS suppliers manufacturers",
-      "snippet": "Jan 31, 2025 · In FY24, the National Background Investigation Services ( NBIS ) Program Ofice conducted a comprehensive re-structure of its acquisitio"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.tradingview.com/symbols/NASDAQ-NBIS/ideas/page-2/",
-      "query": "NBIS major customers clients",
-      "snippet": "NBIS setup bullish I have added another 100 shares in the last few days we we dipped back into the demand zone and teal trend."
+      "snippet": "Find the latest Nebius Group N.V. ( NBIS ) stock quote, history, news and other vital information to help you with your stock trading and investing."
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.marketbeat.com/stocks/NASDAQ/NBIS/institutional-ownership/",
       "query": "NBIS major customers clients",
       "snippet": "Which shareholders are buying/selling shares of Nebius Group (NASDAQ: NBIS ) stock? View NBIS institutional ownership (13F) transactions at MarketBeat"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.nasdaq.com/market-activity/stocks/nbis",
+      "query": "NBIS major customers clients",
+      "snippet": "Show more results ->. NBIS . Summary. Quotes.Data Disclaimer: The Nasdaq Indices and the Major Indices are delayed at least 1 minute."
     }
   ]
 }

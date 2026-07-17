@@ -1,67 +1,67 @@
 {
   "ticker": "SPCX",
   "company_name": "Space Exploration Technologies Corp.",
-  "sector": "Industrials",
+  "sector": "Industrials / Aerospace & Defense",
   "industry": "Aerospace & Defense",
   "upstream": [
-    "STMicroelectronics N.V.",
     "Boeing",
-    "Honeywell",
     "Lockheed Martin",
-    "Raytheon Technologies"
+    "Northrop Grumman",
+    "Aerojet Rocketdyne",
+    "SpaceX's own manufacturing facilities"
   ],
   "downstream": [
     "NASA",
-    "United States Department of Defense",
+    "U.S. Department of Defense",
     "Commercial satellite operators",
-    "SpaceX's Starlink customers",
-    "Private launch customers"
+    "AMZN",
+    "SpaceX's own Starlink customers"
   ],
   "competitors": [
-    "United Launch Alliance",
-    "Arianespace",
-    "Rocket Lab",
     "Blue Origin",
-    "Virgin Orbit"
+    "Boeing",
+    "Lockheed Martin",
+    "Northrop Grumman",
+    "Virgin Galactic"
   ],
   "key_products": [
-    "Falcon 9",
-    "Falcon Heavy",
-    "Starship",
-    "Starlink satellite constellation",
-    "Grok AI platform"
+    "Falcon 9 launch vehicle",
+    "Falcon Heavy launch vehicle",
+    "Starship launch vehicle",
+    "Dragon spacecraft",
+    "Starlink satellite constellation"
   ],
-  "extracted_at": "2026-07-16 17:05:14",
+  "extracted_at": "2026-07-17 17:01:11",
   "sources": [
     {
       "source": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Space_Exploration_Technologies_Corp.",
-      "title": "SpaceX",
-      "snippet": "Space Exploration Technologies Corp., doing business as SpaceX, is an American spaceflight, telecommunications, and artificial intelligence company headquartered at the Starbase development site in St"
+      "url": "",
+      "title": "",
+      "snippet": ""
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www3.nasa.gov/specials/ESDSuppliersMap/",
+      "query": "Space Exploration Technologies Corp. suppliers manufacturers",
+      "snippet": "2019 Deep Space Exploration Systems Supplier Locations State Information:"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://grokipedia.com/page/Publicly_traded_SpaceX_suppliers",
       "query": "Space Exploration Technologies Corp. suppliers manufacturers",
-      "snippet": "STMicroelectronics N.V. (NYSE: STM), a multinational semiconductor company headquartered in Geneva, Switzerland, serves as a critical supplier of spec"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.listthe.com/manufacturers-of/space-exploration-technologies-corp",
-      "query": "Space Exploration Technologies Corp. suppliers manufacturers",
-      "snippet": "This page shows the major manufacturers of SPACE EXPLORATION TECHNOLOGIES CORP . Results are limited to 15 suppliers, if you want to see more supplier"
+      "snippet": "Publicly traded SpaceX suppliers refer to companies listed on major stock exchanges that provide components, services, or related resources to SpaceX,"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/SpaceX",
       "query": "Space Exploration Technologies Corp. major customers clients",
-      "snippet": "Space Exploration Technologies Corporation , doing business as SpaceX , is an American spaceflight, telecommunications, and artificial intelligence co"
+      "snippet": "Space Exploration Technologies Corp ., doing business as SpaceX, is an American spaceflight, telecommunications, and artificial intelligence company h"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.tradingview.com/symbols/NASDAQ-SPCX/",
+      "url": "https://nypost.com/2026/06/04/business/jpmorgans-jamie-dimon-to-pitch-elon-musks-spacex-ipo-to-uber-rich-clients/",
       "query": "Space Exploration Technologies Corp. major customers clients",
-      "snippet": "Space Exploration Technologies Corp . ( SpaceX ) designs, manufactures, and launches advanced rockets and spacecraft, including the fully reusable Sta"
+      "snippet": "Jun 4, 2026 · JPMorgan Chase CEO Jamie Dimon will lead an unprecedented nationwide pitch for SpaceX’s massive initial public offering to thousands of "
     }
   ]
 }

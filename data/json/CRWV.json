@@ -1,37 +1,37 @@
 {
   "ticker": "CRWV",
   "company_name": "CoreWeave, Inc.",
-  "sector": "Technology / Software - Infrastructure",
-  "industry": "Cloud Computing / AI Infrastructure",
+  "sector": "Technology",
+  "industry": "Software - Infrastructure",
   "upstream": [
+    "SK hynix Inc.",
     "NVDA",
     "AMD",
     "INTC",
-    "DELL",
-    "HPQ"
+    "QCOM"
   ],
   "downstream": [
-    "OpenAI",
-    "Mistral AI",
-    "IBM",
-    "MSFT",
-    "GOOGL"
+    "AI developers",
+    "Enterprise AI teams",
+    "Tech startups",
+    "Research institutions",
+    "Gaming companies"
   ],
   "competitors": [
     "AMZN",
     "GOOGL",
     "MSFT",
-    "NVDA",
-    "Paperspace"
+    "IBM",
+    "ORCL"
   ],
   "key_products": [
-    "GPU-based AI cloud compute instances",
-    "GPU cluster management software",
-    "AI training and inference services",
-    "Custom GPU infrastructure solutions",
-    "Data center GPU deployment services"
+    "GPU‑based AI cloud infrastructure",
+    "Chip management software",
+    "Custom AI workloads",
+    "High‑performance computing services",
+    "Data center solutions"
   ],
-  "extracted_at": "2026-07-16 17:13:00",
+  "extracted_at": "2026-07-17 17:04:35",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,25 +43,25 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/CoreWeave",
       "query": "CoreWeave, Inc. suppliers manufacturers",
-      "snippet": "CoreWeave , Inc . is an American artificial intelligence (AI) cloud-computing company based in Livingston, New Jersey. It specializes in providing clo"
+      "snippet": "CoreWeave , Inc . is an American artificial intelligence cloud-computing company based in Livingston, New Jersey."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.coreweave.com/",
+      "url": "https://www.marketscreener.com/news/ai-cloud-company-coreweave-explores-wall-street-playbook-to-hedge-memory-chip-price-risk-ce7f5edddc8df323",
       "query": "CoreWeave, Inc. suppliers manufacturers",
-      "snippet": "From leading AI labs like OpenAI and Mistral AI to global giants like IBM, the world’s most ambitious AI innovators build on CoreWeave . Explore how t"
+      "snippet": "Stock CoreWeave , Inc . Sk hynix inc . CoreWeave , Inc . is an American technology company founded in 2017, specializing in cloud infrastructure desig"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/CoreWeave",
       "query": "CoreWeave, Inc. major customers clients",
-      "snippet": "CoreWeave , Inc . is an American artificial intelligence cloud-computing company based in Livingston, New Jersey. It specializes in providing cloud-ba"
+      "snippet": "CoreWeave , Inc . is an American artificial intelligence (AI) cloud-computing company based in Livingston, New Jersey. It specializes in providing clo"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.fool.com/investing/2026/07/13/cathie-wood-is-doubling-down-on-this-ai-stock-duri/",
+      "url": "https://www.appsruntheworld.com/customers-database/vendors/view/coreweave",
       "query": "CoreWeave, Inc. major customers clients",
-      "snippet": "CoreWeave is also unprofitable, reporting a net loss of $740 million in the quarter, up from $315 million in Q1 2025. Another recent concern is the ne"
+      "snippet": "List of companies using or evaluating CoreWeave applications, with details on their revenues, employees, industries, and locations."
     }
   ]
 }

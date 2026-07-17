@@ -7,15 +7,15 @@
     "INTC",
     "AMD",
     "NVDA",
-    "CSCO",
-    "DELL"
+    "DELL",
+    "CSCO"
   ],
   "downstream": [
-    "JPMorgan Chase",
     "Bank of America",
-    "Walmart",
     "UnitedHealth Group",
-    "General Electric"
+    "Walmart",
+    "Airbnb",
+    "U.S. Department of Defense"
   ],
   "competitors": [
     "MSFT",
@@ -28,10 +28,10 @@
     "Oracle Database",
     "Oracle Cloud Infrastructure",
     "Oracle Autonomous Database",
-    "Oracle E-Business Suite",
-    "Oracle Fusion Middleware"
+    "Oracle Fusion Applications",
+    "Oracle ERP Cloud"
   ],
-  "extracted_at": "2026-07-16 17:06:01",
+  "extracted_at": "2026-07-17 17:02:31",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,21 +47,21 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.oracle.com/corporate/suppliers/",
+      "url": "https://csimarket.com/stocks/ORCL-Suppliers",
       "query": "Oracle Corporation suppliers manufacturers",
-      "snippet": "Oracle is always looking for suppliers who can meet our high quality standards and satisfy our ever-evolving business needs. We believe in the importa"
+      "snippet": "Oracle supply chain, list and performance of Oracles ' suppliers - CSIMarket."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.thomsondata.com/customer-base/oracle.php",
+      "url": "https://www.oracle.com/",
       "query": "Oracle Corporation major customers clients",
-      "snippet": "Thomson Data makes it easy by offering an accurate and up-to-date list of companies that use Oracle. This list allows you to identify Oracle customers"
+      "snippet": "Oracle offers a comprehensive and fully integrated stack of cloud applications and cloud platform services.."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.oracle.com/customers/",
+      "url": "https://finance.yahoo.com/quote/ORCL/",
       "query": "Oracle Corporation major customers clients",
-      "snippet": "Innovation, ease of use, better results—those are just some of the reasons organizations in all industries and of all sizes rely on Oracle to help the"
+      "snippet": "Find the latest Oracle Corporation (ORCL) stock quote, history, news and other vital information to help you with your stock trading and investing."
     }
   ]
 }

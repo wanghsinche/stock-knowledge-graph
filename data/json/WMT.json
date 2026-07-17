@@ -1,37 +1,39 @@
 {
   "ticker": "WMT",
   "company_name": "Walmart Inc.",
-  "sector": "Consumer Defensive / Discount Stores",
-  "industry": "Retail - Discount Stores",
+  "sector": "Consumer Defensive",
+  "industry": "Discount Stores",
   "upstream": [
     "Procter & Gamble",
     "Coca‑Cola",
-    "Nestlé",
     "PepsiCo",
-    "Johnson & Johnson"
+    "Nestlé",
+    "Walmart's private‑label suppliers"
   ],
   "downstream": [
-    "280 million U.S. and international consumers",
-    "Sam’s Club members",
-    "Online shoppers via Walmart.com",
-    "Pharmacy customers",
-    "Gas station patrons"
+    "Individual consumers",
+    "Small businesses",
+    "Online shoppers",
+    "Grocery shoppers",
+    "Pharmacy customers"
   ],
   "competitors": [
     "Target",
     "Costco",
-    "AMZN",
-    "BJ’s Wholesale Club",
-    "Dollar General"
+    "Dollar General",
+    "Aldi",
+    "BJ's Wholesale Club"
   ],
   "key_products": [
     "Groceries",
     "Household goods",
     "Apparel",
     "Electronics",
-    "Pharmacy products"
+    "Pharmacy products",
+    "Gasoline",
+    "Private‑label items"
   ],
-  "extracted_at": "2026-07-16 17:13:21",
+  "extracted_at": "2026-07-17 17:06:52",
   "sources": [
     {
       "source": "Wikipedia",
@@ -53,15 +55,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Walmart",
+      "url": "https://capitaloneshopping.com/research/walmart-statistics/",
       "query": "Walmart Inc. major customers clients",
-      "snippet": "It is a core member of major indices, including Dow Jones Global Titans 50 and S&P 500. including Uber, Lyft, and Deliv, Operating divisions · Corpora"
+      "snippet": "Jun 10, 2026 · Latest available data on Walmart 's size and market share, both offline and online, with total sales and revenue breakdowns by year."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://corporate.walmart.com/about",
+      "url": "https://businessmodelanalyst.com/walmart-target-market/",
       "query": "Walmart Inc. major customers clients",
-      "snippet": "Each week, approximately 280 million customers and members visit our more than 10,900 stores and numerous eCommerce websites in 19 countries."
+      "snippet": "Jun 9, 2026 · This article will examine Walmart target market and approach to reaching a broad yet carefully segmented customer base."
     }
   ]
 }

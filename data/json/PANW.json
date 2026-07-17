@@ -2,36 +2,36 @@
   "ticker": "PANW",
   "company_name": "Palo Alto Networks, Inc.",
   "sector": "Technology / Software - Infrastructure",
-  "industry": "Cybersecurity Software",
+  "industry": "Cybersecurity / Network Security",
   "upstream": [
     "INTC",
-    "AMD",
-    "NVDA",
+    "QCOM",
     "AVGO",
-    "QCOM"
+    "NVDA",
+    "MSFT"
   ],
   "downstream": [
     "Wipro",
     "Tyson Foods",
-    "Grupo Bimbo",
-    "Putnam Investments",
-    "Fortune 100 companies"
+    "Bank of America",
+    "Coca-Cola",
+    "MSFT"
   ],
   "competitors": [
     "CSCO",
     "Fortinet",
     "Check Point",
-    "JNPR",
+    "CrowdStrike",
     "Sophos"
   ],
   "key_products": [
     "Next-Generation Firewall",
     "Prisma Cloud",
     "Cortex XDR",
-    "Unit 42 threat intelligence",
-    "Firewalls"
+    "Unit 42",
+    "Panorama"
   ],
-  "extracted_at": "2026-07-16 17:13:12",
+  "extracted_at": "2026-07-17 17:05:37",
   "sources": [
     {
       "source": "Wikipedia",
@@ -59,9 +59,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.paloaltonetworks.com/network-security/customer-stories",
+      "url": "https://www.appsruntheworld.com/customers-database/vendors/view/palo-alto-networks",
       "query": "Palo Alto Networks, Inc. major customers clients",
-      "snippet": "Explore how top companies like Grupo Bimbo and Putnam Investments enhance network security with Palo Alto Networks ."
+      "snippet": "List of companies using or evaluating Palo Alto Networks applications, with details on their revenues, employees, industries, and locations."
     }
   ]
 }

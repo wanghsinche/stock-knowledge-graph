@@ -4,34 +4,34 @@
   "sector": "Technology",
   "industry": "Consumer Electronics",
   "upstream": [
-    "Foxconn (Hon Hai Precision)",
+    "Foxconn (Hon Hai Precision Industry)",
     "Pegatron",
     "Wistron",
     "TSM",
     "005930.KS"
   ],
   "downstream": [
-    "iPhone users",
-    "iPad users",
-    "Mac users",
-    "AAPL",
+    "Individual consumers",
+    "Enterprise customers",
+    "CAT",
+    "Government agencies",
     "AAPL"
   ],
   "competitors": [
     "005930.KS",
     "GOOGL",
     "MSFT",
-    "AMZN",
-    "SONY"
+    "SONY",
+    "Xiaomi"
   ],
   "key_products": [
     "iPhone",
     "iPad",
     "Mac",
     "Apple Watch",
-    "Apple TV"
+    "AirPods"
   ],
-  "extracted_at": "2026-07-16 17:03:38",
+  "extracted_at": "2026-07-17 16:59:55",
   "sources": [
     {
       "source": "Wikipedia",
@@ -53,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.apple.com/",
+      "url": "https://csimarket.com/stocks/AAPL-Customers",
       "query": "Apple Inc. major customers clients",
-      "snippet": "Discover the innovative world of Apple and shop everything iPhone, iPad, Apple Watch, Mac, and Apple TV, plus explore accessories, entertainment, and "
+      "snippet": "Apple Inc 's Comment on Sales, Marketing and Customers The Company’s customers are primarily in the consumer, SMB, education, enterprise and governmen"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://support.apple.com/",
+      "url": "https://www.appsruntheworld.com/customers-database/vendors/view/apple",
       "query": "Apple Inc. major customers clients",
-      "snippet": "Learn more about popular features and topics, and find resources that will help you with all of your Apple products."
+      "snippet": "List of companies using or evaluating Apple applications, with details on their revenues, employees, industries, and locations."
     }
   ]
 }

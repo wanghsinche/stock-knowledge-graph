@@ -6,16 +6,16 @@
   "upstream": [
     "Boeing",
     "Airbus",
-    "GE Aviation",
     "Pratt & Whitney",
-    "Rolls‑Royce"
+    "GE Aviation",
+    "Honeywell"
   ],
   "downstream": [
-    "Individual passengers",
-    "Corporate travel agencies",
-    "Government agencies",
+    "Passengers",
+    "Corporate travel clients",
     "Travel agencies",
-    "Freight customers"
+    "Freight customers",
+    "Government agencies"
   ],
   "competitors": [
     "Delta Air Lines",
@@ -25,13 +25,13 @@
     "JetBlue Airways"
   ],
   "key_products": [
-    "Passenger air transport",
+    "Passenger flights",
     "Cargo services",
-    "Maintenance, repair, and overhaul (MRO)",
+    "Maintenance, Repair, and Overhaul (MRO)",
     "AAdvantage loyalty program",
-    "In‑flight services"
+    "Aircraft leasing"
   ],
-  "extracted_at": "2026-07-16 17:09:24",
+  "extracted_at": "2026-07-17 17:07:49",
   "sources": [
     {
       "source": "Wikipedia",
@@ -53,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.aa.com/i18n/customer-service/about-us/american-airlines-group.jsp",
+      "url": "https://en.wikipedia.org/wiki/American_Airlines",
       "query": "American Airlines Group Inc. major customers clients",
-      "snippet": "In 2016, American Airlines Group Inc . topped Fortune magazine’s list of best business turnarounds, and its stock (NASDAQ: AAL) joined the S&P 500 ind"
+      "snippet": "American Airlines , Inc . is a major airline in the United States headquartered in Fort Worth, Texas, within the Dallas–Fort Worth metroplex, and is t"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.thestreet.com/markets/here-s-why-american-airlines-aal-stock-is-getting-a-lift-today-13384781",
+      "url": "https://www.aa.com/i18n/customer-service/about-us/american-airlines-group.jsp",
       "query": "American Airlines Group Inc. major customers clients",
-      "snippet": "AMERICAN AIRLINES GROUP INC reported significant earnings per share improvement in the most recent quarter compared to the same quarter a year ago. Th"
+      "snippet": "Home About us American Airlines Group American Airlines Group Parent company of American Airlines Overview At American Airlines , our purpose is to ca"
     }
   ]
 }

@@ -1,37 +1,37 @@
 {
   "ticker": "AMZN",
   "company_name": "Amazon.com, Inc.",
-  "sector": "Consumer Cyclical / Internet Retail",
-  "industry": "E-commerce, Cloud Computing, Online Advertising, Digital Streaming, Entertainment, Artificial Intelligence",
+  "sector": "Consumer Cyclical",
+  "industry": "Internet Retail",
   "upstream": [
-    "DELL",
-    "Book publishers and content providers",
-    "AAPL",
-    "Logistics partners (UPS, FedEx, DHL)",
-    "Third‑party product manufacturers"
+    "Book publishers",
+    "Electronics manufacturers",
+    "Apparel brands",
+    "Third‑party sellers",
+    "AMZN"
   ],
   "downstream": [
-    "AMZN",
-    "AMZN",
-    "AMZN",
-    "AMZN",
-    "AMZN"
+    "Individual consumers",
+    "Small businesses",
+    "Large enterprises",
+    "Advertisers",
+    "Streaming subscribers"
   ],
   "competitors": [
     "Walmart",
-    "Alibaba Group",
     "eBay",
+    "Alibaba",
     "Shopify",
-    "MSFT"
+    "Target"
   ],
   "key_products": [
-    "Amazon.com e‑commerce platform",
-    "Amazon Web Services (cloud computing)",
-    "Amazon Prime Video (digital streaming)",
-    "Amazon Echo & Alexa (smart home devices)",
-    "Amazon Kindle (e‑reader & content)"
+    "E‑commerce marketplace",
+    "Amazon Web Services (AWS)",
+    "Amazon Prime Video",
+    "Amazon Advertising",
+    "Amazon Kindle"
   ],
-  "extracted_at": "2026-07-16 17:04:46",
+  "extracted_at": "2026-07-17 17:01:20",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.alibaba.com/",
+      "url": "https://supply.amazon.com/",
       "query": "Amazon.com, Inc. suppliers manufacturers",
-      "snippet": "Find quality Manufacturers , Suppliers , Exporters, Importers, Buyers, Wholesalers, Products and Trade Leads from our award-winning International Trad"
+      "snippet": "At Amazon, we look for suppliers who want to become partners on our road to being earth’s most customer-centric company. Supplier Connect enables supp"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.thesellingguys.com/online-sourcing-buying-wholesalers-distributors/",
+      "query": "Amazon.com, Inc. suppliers manufacturers",
+      "snippet": "So what is the “secret sauce“ to finding the best authorized Amazon FBA wholesale suppliers ? ⏳ In a rush? Click here to jump straight to our lists of"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://ir.aboutamazon.com/",
-      "query": "Amazon.com, Inc. suppliers manufacturers",
+      "query": "Amazon.com, Inc. major customers clients",
       "snippet": "Amazon . com Announces First Quarter Results. Amazon . com , Inc . (NASDAQ: AMZN) today announced financial results for its first quarter ended March "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Amazon_(company)",
+      "url": "https://www.amazon.com/Amazon-eGift-Card-Logo/dp/B07PCMWTSG",
       "query": "Amazon.com, Inc. major customers clients",
-      "snippet": "Amazon Logistics, in which Amazon contracts with small businesses (which it calls \"Delivery Service Partners\") to perform deliveries to customers . Ea"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/AMZN-Customers",
-      "query": "Amazon.com, Inc. major customers clients",
-      "snippet": "While revenue at the Amazon Com Inc 's corporate clients recorded rose by 252.61 % year on year, sequentially revenue grew by 242.17 %. • Customers Mg"
+      "snippet": "Amazon . com Gift Cards never expire and carry no fees. Multiple gift card designs and denominations to choose from. Redeemable towards millions of it"
     }
   ]
 }

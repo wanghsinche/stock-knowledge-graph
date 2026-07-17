@@ -3,8 +3,8 @@ ticker: XOM
 company: ExxonMobil Holdings Corporation
 sector: Energy
 industry: Oil & Gas Integrated
-extracted_at: 2026-07-14 19:10:01
-last_updated: 2026-07-14
+extracted_at: 2026-07-17 17:06:29
+last_updated: 2026-07-17
 ---
 
 # XOM - ExxonMobil Holdings Corporation
@@ -12,46 +12,46 @@ last_updated: 2026-07-14
 ## 基本信息
 
 - **所属行业**: Energy / Oil & Gas Integrated
-- **提取时间**: 2026-07-14 19:10:01
+- **提取时间**: 2026-07-17 17:06:29
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Crude oil producers]]
-- [[Petrochemical raw material suppliers]]
-- [[Equipment manufacturers]]
-- [[Pipeline operators]]
-- [[Exploration service providers]]
+- [[Saudi Aramco]]
+- [[BP]]
+- [[Chevron]]
+- [[TotalEnergies]]
+- [[Gazprom]]
 
 ### 下游客户
-- [[Automotive manufacturers]]
-- [[Airlines and aviation fuel suppliers]]
-- [[Industrial chemical producers]]
-- [[Retail fuel stations]]
-- [[Consumer goods manufacturers]]
+- [[Shell]]
+- [[Chevron]]
+- [[BP]]
+- [[Dow Chemical]]
+- [[United Airlines]]
 
 ### 竞争对手
 - [[Chevron]]
-- [[Royal Dutch Shell]]
 - [[BP]]
+- [[Shell]]
 - [[TotalEnergies]]
 - [[ConocoPhillips]]
 
 ### 核心产品
 - [[Crude oil]]
 - [[Natural gas]]
-- [[Refined petroleum products (gasoline, diesel, jet fuel)]]
-- [[Petrochemicals]]
-- [[Liquefied natural gas (LNG)]]
+- [[Gasoline]]
+- [[Jet fuel]]
+- [[Petrochemicals (ethylene, propylene)]]
 
 ## 数据来源
 
-- 
-- [ExxonMobil Holdings Corporation suppliers manufacturers](https://corporate.exxonmobil.com/)
-- [ExxonMobil Holdings Corporation suppliers manufacturers](https://www.accio.com/supplier/exxonmobil-approved-manufacturer-list)
+- [ExxonMobil](https://en.wikipedia.org/wiki/ExxonMobil_Holdings_Corporation)
+- [ExxonMobil Holdings Corporation suppliers manufacturers](https://seekingalpha.com/symbol/XOM)
+- [ExxonMobil Holdings Corporation suppliers manufacturers](https://www.gurufocus.com/stock/XOM/summary)
 - [ExxonMobil Holdings Corporation major customers clients](https://csimarket.com/stocks/XOM-Customers)
 - [ExxonMobil Holdings Corporation major customers clients](https://corporate.exxonmobil.com/)
 
 ## 元数据
 
-- **更新日期**: 2026-07-14
+- **更新日期**: 2026-07-17

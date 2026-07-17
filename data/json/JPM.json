@@ -5,33 +5,33 @@
   "industry": "Banks - Diversified",
   "upstream": [
     "MSFT",
-    "Payment processors (e.g., Visa, Mastercard)",
-    "IT consulting firms (e.g., Accenture, Deloitte)",
-    "Data analytics providers (e.g., Palantir, Snowflake)",
-    "Cybersecurity firms (e.g., Palo Alto Networks, CrowdStrike)"
+    "CSCO",
+    "Security and cybersecurity firms (e.g., Palo Alto Networks)",
+    "Consulting and advisory services (e.g., Accenture)",
+    "Office and facility suppliers (e.g., Staples, local contractors)"
   ],
   "downstream": [
-    "Retail banking customers (individuals and families)",
-    "Corporate banking clients (mid‑size to large enterprises)",
-    "Institutional investors (pension funds, mutual funds)",
-    "Wealth management clients (high net worth individuals)",
-    "Government and public sector entities"
+    "Retail banking customers",
+    "Corporate and institutional clients",
+    "Wealth management and private banking clients",
+    "Small and medium‑enterprise (SME) borrowers",
+    "Mortgage and real‑estate borrowers"
   ],
   "competitors": [
-    "Bank of America (BAC)",
-    "Citigroup (C)",
-    "Wells Fargo (WFC)",
-    "Goldman Sachs (GS)",
-    "Morgan Stanley (MS)"
+    "Bank of America",
+    "Citigroup",
+    "Wells Fargo",
+    "Goldman Sachs",
+    "Morgan Stanley"
   ],
   "key_products": [
-    "Consumer banking services (checking, savings, mortgages)",
-    "Investment banking (M&A advisory, underwriting)",
-    "Credit cards and payment services",
-    "Wealth management and private banking",
-    "Treasury and cash management solutions"
+    "Retail banking services",
+    "Investment banking and advisory",
+    "Asset and wealth management",
+    "Credit card and consumer lending",
+    "Treasury and cash management"
   ],
-  "extracted_at": "2026-07-16 17:12:34",
+  "extracted_at": "2026-07-17 17:05:58",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,25 +43,25 @@
       "source": "DuckDuckGo",
       "url": "https://www.jpmorganchase.com/about/suppliers",
       "query": "JPMorgan Chase & Co. suppliers manufacturers",
-      "snippet": "Suppliers An inclusive supply chain where every business, including but not limited to small and diverse businesses, has the opportunity to be conside"
+      "snippet": "Building strong partnerships is the cornerstone of our success. At JPMorganChase , we place particular value in our supplier partnerships. Thanks to t"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://jpmorganchase.suppliergateway.com/",
+      "url": "https://suppliercentral.jpmchase.com/",
       "query": "JPMorgan Chase & Co. suppliers manufacturers",
-      "snippet": "To provide opportunities for JPMorganChase to engage with a wide range suppliers , we have created a Supplier Network through which all prospective su"
+      "snippet": "Access JPMorgan Chase 's Preferred Supplier portal for streamlined payment solutions, reduced administrative costs, and efficient transactions."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/JPMorgan_Chase",
+      "query": "JPMorgan Chase & Co. major customers clients",
+      "snippet": "JPMorgan Chase & Co . (stylized as JPMorganChase ) is an American multinational banking institution headquartered in New York City and incorporated in"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.jpmorganchase.com/",
       "query": "JPMorgan Chase & Co. major customers clients",
-      "snippet": "JPMorganChase serves millions of customers , clients and communities in over 100 global markets. For 225 years, our work has been guided by principles"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.statista.com/topics/10395/jpmorgan-chase/",
-      "query": "JPMorgan Chase & Co. major customers clients",
-      "snippet": "Dec 17, 2025 · JPMorgan Chase - statistics & facts JPMorgan Chase stands as one of the largest and most influential banks in the United States, and it"
+      "snippet": "JPMorganChase serves millions of customers , clients and communities in over 100 global markets.Registration opens for San Francisco’s 40th JPMorganCh"
     }
   ]
 }

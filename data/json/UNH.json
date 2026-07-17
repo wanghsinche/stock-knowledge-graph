@@ -4,34 +4,34 @@
   "sector": "Healthcare",
   "industry": "Health Insurance / Health Care Services",
   "upstream": [
-    "Pharmaceutical manufacturers",
     "Medical device manufacturers",
-    "Health technology vendors",
-    "Pharmacy benefit management providers",
-    "Data analytics and IT service firms"
+    "Pharmaceutical companies",
+    "Health IT vendors",
+    "Pharmacy benefit managers",
+    "Data analytics providers"
   ],
   "downstream": [
-    "Large corporate employers",
+    "Employers and corporate clients",
     "Government agencies (Medicare, Medicaid)",
-    "Individual consumers",
-    "Small and medium-sized businesses",
-    "Health care providers (hospitals, clinics)"
+    "Individual health plan members",
+    "Small and medium businesses",
+    "Large multinational corporations"
   ],
   "competitors": [
-    "Anthem, Inc.",
-    "Aetna (CVS Health)",
-    "Cigna Corporation",
-    "Humana Inc.",
-    "Kaiser Permanente"
+    "Anthem",
+    "Aetna",
+    "Cigna",
+    "Humana",
+    "Molina Healthcare"
   ],
   "key_products": [
-    "Commercial health insurance plans",
-    "Medicare Advantage and Medicare Supplement plans",
-    "Medicaid managed care plans",
+    "UnitedHealthcare health insurance plans",
     "OptumRx pharmacy benefit management",
-    "OptumCare health services and care delivery"
+    "OptumLabs data analytics",
+    "OptumCare health services",
+    "Medicare Advantage plans"
   ],
-  "extracted_at": "2026-07-16 17:05:23",
+  "extracted_at": "2026-07-17 17:04:45",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,15 +41,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.alpha-sense.com/earnings/unh/",
+      "url": "https://www.unitedhealthgroup.com/suppliers/information.html",
       "query": "UnitedHealth Group Incorporated suppliers manufacturers",
-      "snippet": "Unitedhealth Group Inc . unitedhealthgroup .com. UnitedHealth Group is one of the largest private health insurers and provides medical benefits to abo"
+      "snippet": "Supplier Community Portal At UnitedHealth Group , we search for suppliers that help us deliver best-in-class services to our customers. These partners"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-burney-co-has-556-million-stock-holdings-in-unitedhealth-group-incorporated-unh-2026-07-07/",
+      "url": "https://www.unitedhealthgroup.com/suppliers/information/vendor-portal.html",
       "query": "UnitedHealth Group Incorporated suppliers manufacturers",
-      "snippet": "UnitedHealth Group Inc is a diversified health care company headquartered in Minnetonka, Minnesota, that operates two primary business platforms: Unit"
+      "snippet": "Vendor Portal Information for Current Suppliers UnitedHealth Group uses the eGRC (Enterprise Governance, Risk & Compliance) External Vendor Portal to "
     },
     {
       "source": "DuckDuckGo",

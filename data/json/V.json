@@ -4,34 +4,34 @@
   "sector": "Financial Services",
   "industry": "Credit Services",
   "upstream": [
-    "Gemalto",
-    "IDEMIA",
-    "NXP Semiconductors",
-    "STMicroelectronics",
-    "Visa's own payment network infrastructure"
+    "Card issuing banks",
+    "Chip and card manufacturing vendors",
+    "Payment processing technology providers",
+    "Network infrastructure suppliers",
+    "Security and fraud‑prevention vendors"
   ],
   "downstream": [
-    "JPMorgan Chase",
-    "Bank of America",
-    "Citigroup",
-    "Wells Fargo",
-    "AMZN"
+    "Retail merchants",
+    "E‑commerce platforms",
+    "Cardholders (individual consumers)",
+    "Financial institutions (banks, credit unions)",
+    "Payment gateway partners"
   ],
   "competitors": [
     "Mastercard",
     "American Express",
-    "Discover",
-    "JCB",
-    "UnionPay"
+    "Discover Financial",
+    "PayPal",
+    "Square"
   ],
   "key_products": [
-    "Visa credit cards",
-    "Visa debit cards",
-    "Visa prepaid cards",
-    "VisaNet payment network",
-    "Visa Direct"
+    "Visa payment network",
+    "Credit card services",
+    "Debit card services",
+    "Prepaid card solutions",
+    "Digital wallet and tokenization services"
   ],
-  "extracted_at": "2026-07-15 17:14:40",
+  "extracted_at": "2026-07-17 17:06:19",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Visa_Inc.",
+      "url": "https://www.visa.com.bz/support/merchant/library.html",
       "query": "Visa Inc. suppliers manufacturers",
-      "snippet": "Visa Inc . is an American multinational payment card services corporation headquartered in San Francisco, California. It facilitates electronic funds "
+      "snippet": "The merchant resource library contains in-depth information designed to help Visa merchants navigate acceptance, fraud, data security, authorization a"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/V-Suppliers",
+      "url": "https://content.edgar-online.com/ExternalLink/EDGAR/0001403161-21-000060.html?hash=24307cb59ee509f15931a0922b3d130654be76583873b4dec8908e12195683a2",
       "query": "Visa Inc. suppliers manufacturers",
-      "snippet": "Visa Inc supply chain, list and performance of Visa Incs ' suppliers - CSIMarket."
+      "snippet": "Value Added Products and Service Providers: We face competition from companies that provide alternatives to our value added products and services, inc"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Visa_Inc.",
+      "url": "https://csimarket.com/stocks/V-Customers",
       "query": "Visa Inc. major customers clients",
-      "snippet": "Visa Inc . is an American multinational payment card services corporation headquartered in San Francisco, California. It facilitates electronic funds "
+      "snippet": "Visa also owns and manages additional data centers in the United States and internationally, including those we added with our acquisitions of CyberSo"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://investor.visa.com/",
+      "url": "https://data.landbase.com/technology/visa/",
       "query": "Visa Inc. major customers clients",
-      "snippet": "Skip to Content. Visa Home.Find a Visa Card. Visa Credit Cards."
+      "snippet": "Aug 17, 2025 · We have data on 149,403 companies that use Visa. Our Visa customers list is available for download and comes enriched with vital compan"
     }
   ]
 }

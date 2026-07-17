@@ -1,18 +1,18 @@
 ---
 ticker: CRWD
 company: CrowdStrike Holdings, Inc.
-sector: Technology / Software - Infrastructure
-industry: Cybersecurity / Endpoint Security
-extracted_at: 2026-07-14 18:55:36
-last_updated: 2026-07-14
+sector: Technology
+industry: Software - Infrastructure
+extracted_at: 2026-07-17 17:08:43
+last_updated: 2026-07-17
 ---
 
 # CRWD - CrowdStrike Holdings, Inc.
 
 ## 基本信息
 
-- **所属行业**: Technology / Software - Infrastructure / Cybersecurity / Endpoint Security
-- **提取时间**: 2026-07-14 18:55:36
+- **所属行业**: Technology / Software - Infrastructure
+- **提取时间**: 2026-07-17 17:08:43
 
 ## 产业链关系
 
@@ -21,37 +21,37 @@ last_updated: 2026-07-14
 - [[MSFT]]
 - [[GOOGL]]
 - [[DELL]]
-- [[Lenovo]]
+- [[HPQ]]
 
 ### 下游客户
-- [[Fortune 500 companies]]
-- [[U.S. federal agencies]]
-- [[Financial institutions]]
-- [[Healthcare organizations]]
-- [[Retail giants]]
+- [[United States Department of Defense]]
+- [[Bank of America]]
+- [[Walmart]]
+- [[Citigroup]]
+- [[General Electric]]
 
 ### 竞争对手
 - [[Palo Alto Networks]]
-- [[SentinelOne]]
-- [[McAfee]]
-- [[CSCO]]
 - [[Fortinet]]
+- [[Check Point Software Technologies]]
+- [[CSCO]]
+- [[SentinelOne]]
 
 ### 核心产品
-- [[CrowdStrike Falcon]]
+- [[CrowdStrike Falcon Platform]]
 - [[Falcon Prevent]]
 - [[Falcon Insight]]
-- [[Falcon Discover]]
 - [[Falcon OverWatch]]
+- [[Falcon X]]
 
 ## 数据来源
 
 - [CrowdStrike](https://en.wikipedia.org/wiki/CrowdStrike_Holdings,_Inc.)
-- [CrowdStrike Holdings, Inc. suppliers manufacturers](https://www.crowdstrike.com/en-us/about-us/suppliers/)
-- [CrowdStrike Holdings, Inc. suppliers manufacturers](https://www.crowdstrike.com/en-us/about-us/suppliers/doing-business-with-crowdstrike/)
+- [CrowdStrike Holdings, Inc. suppliers manufacturers](https://ru.wikipedia.org/wiki/CrowdStrike)
+- [CrowdStrike Holdings, Inc. suppliers manufacturers](https://csimarket.com/news/tata-consultancy-services-and-crowdstrike-form-strategic-partnership-as-crowdstrike-s-client-s-revenue-declines2024-05-02144475)
 - [CrowdStrike Holdings, Inc. major customers clients](https://en.wikipedia.org/wiki/CrowdStrike)
 - [CrowdStrike Holdings, Inc. major customers clients](https://csimarket.com/stocks/CRWD-Customers)
 
 ## 元数据
 
-- **更新日期**: 2026-07-14
+- **更新日期**: 2026-07-17

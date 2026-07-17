@@ -5,16 +5,16 @@
   "industry": "Semiconductors",
   "upstream": [
     "AMAT",
+    "ASML",
     "LRCX",
     "Tokyo Electron",
-    "ASML",
-    "KLA"
+    "KLA Corporation"
   ],
   "downstream": [
+    "AAPL",
     "CSCO",
-    "IBM",
     "DELL",
-    "HPQ",
+    "MSFT",
     "AMZN"
   ],
   "competitors": [
@@ -25,13 +25,13 @@
     "TXN"
   ],
   "key_products": [
-    "Networking chips (Ethernet, Wi-Fi, 5G)",
-    "Storage controllers (SAS, NVMe)",
-    "Infrastructure software (Broadcom Enterprise Software)",
-    "Broadcom Wi-Fi chips",
-    "Broadcom Ethernet controllers"
+    "Wireless communication chips",
+    "Broadband and networking chips",
+    "Data center processors",
+    "Infrastructure software",
+    "Industrial control solutions"
   ],
-  "extracted_at": "2026-07-16 17:06:38",
+  "extracted_at": "2026-07-17 17:01:33",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,15 +41,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/AVGO-Suppliers",
+      "url": "https://en.wikipedia.org/wiki/Broadcom",
       "query": "Broadcom Inc. suppliers manufacturers",
-      "snippet": "Broadcom Inc supply chain, list and performance of Broadcom Incs ' suppliers - CSIMarket."
+      "snippet": "Broadcom Inc . is an American multinational designer, developer, manufacturer , and global supplier of a wide range of semiconductor and infrastructur"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://companiesrelated.com/company/broadcom",
+      "url": "https://www.broadcom.com/how-to-buy/partner-distributor-lookup",
       "query": "Broadcom Inc. suppliers manufacturers",
-      "snippet": "Applied Materials Inc . medium75% confidence. Equipment supplier enabling Broadcom 's foundry partners to manufacture chips.Critical supplier in the s"
+      "snippet": "Find a local reseller or global distributor of every Broadcom software solution for your business or enterprise, spanning the desktop to the Mainframe"
     },
     {
       "source": "DuckDuckGo",

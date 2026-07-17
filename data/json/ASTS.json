@@ -2,30 +2,36 @@
   "ticker": "ASTS",
   "company_name": "AST SpaceMobile, Inc.",
   "sector": "Technology / Communication Equipment",
-  "industry": "Satellite Communications",
-  "upstream": [],
+  "industry": "Satellite Communications Equipment",
+  "upstream": [
+    "SpaceX",
+    "Lockheed Martin",
+    "Boeing",
+    "Northrop Grumman",
+    "Thales Alenia Space"
+  ],
   "downstream": [
-    "Mobile network operators",
-    "Telecom companies",
+    "Telecom operators",
     "Government agencies",
-    "Space agencies",
-    "Enterprise customers"
+    "Military",
+    "Enterprise broadband customers",
+    "IoT service providers"
   ],
   "competitors": [
     "SpaceX Starlink",
     "OneWeb",
-    "AMZN",
-    "Telesat",
-    "Iridium"
+    "Telesat LEO",
+    "Iridium",
+    "Globalstar"
   ],
   "key_products": [
-    "Satellite communication systems",
-    "Satellite constellations",
-    "Space-based broadband",
-    "Satellite antennas",
-    "Satellite payloads"
+    "LEO satellite constellation",
+    "High‑speed broadband",
+    "Satellite‑based internet",
+    "Satellite communications terminals",
+    "Ground station infrastructure"
   ],
-  "extracted_at": "2026-07-16 17:08:05",
+  "extracted_at": "2026-07-17 17:07:27",
   "sources": [
     {
       "source": "Wikipedia",
@@ -37,13 +43,13 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/AST_SpaceMobile",
       "query": "AST SpaceMobile, Inc. suppliers manufacturers",
-      "snippet": "AST SpaceMobile , Inc . is a publicly traded satellite designer and manufacturer based in Midland, Texas, United States. [6][7] The company is buildin"
+      "snippet": "AST SpaceMobile , Inc . is a publicly traded satellite designer and manufacturer based in Midland, Texas, United States.American satellite manufacture"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ast-science.com/company/",
+      "url": "https://ast-science.com/",
       "query": "AST SpaceMobile, Inc. suppliers manufacturers",
-      "snippet": "What is AST SpaceMobile ? AST SpaceMobile is building the first and only space-based cellular broadband network accessible directly by everyday smartp"
+      "snippet": "AST SpaceMobile is working to close that gap. Our space -based technology is designed to connect the unconnected, bringing broadband access directly t"
     },
     {
       "source": "DuckDuckGo",
@@ -53,9 +59,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ast-science.com/",
+      "url": "https://finance.yahoo.com/quote/ASTS/",
       "query": "AST SpaceMobile, Inc. major customers clients",
-      "snippet": "AST SpaceMobile is working to close that gap. Our space -based technology is designed to connect the unconnected, bringing broadband access directly t"
+      "snippet": "Find the latest AST SpaceMobile , Inc . (ASTS) stock quote, history, news and other vital information to help you with your stock trading and investin"
     }
   ]
 }

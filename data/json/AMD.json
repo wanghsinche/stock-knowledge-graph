@@ -5,33 +5,33 @@
   "industry": "Semiconductors",
   "upstream": [
     "TSM",
-    "005930.KS",
     "GlobalFoundries",
+    "005930.KS",
     "UMC",
-    "INTC"
+    "Tower Semiconductor"
   ],
   "downstream": [
     "DELL",
     "HPQ",
-    "Lenovo",
+    "Lenovo Group",
     "MSFT",
-    "SONY"
+    "AMZN"
   ],
   "competitors": [
     "INTC",
     "NVDA",
     "QCOM",
     "AVGO",
-    "ARM"
+    "005930.KS"
   ],
   "key_products": [
     "Ryzen CPUs",
-    "EPYC CPUs",
+    "EPYC server processors",
     "Radeon GPUs",
     "Radeon Instinct accelerators",
-    "SoC solutions"
+    "AMD SoCs for embedded systems"
   ],
-  "extracted_at": "2026-07-16 17:03:53",
+  "extracted_at": "2026-07-17 17:00:04",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/AMD-Suppliers",
-      "query": "Advanced Micro Devices, Inc. suppliers manufacturers",
-      "snippet": "Jul 7, 2026 · For your research, we’ve provided nine additional tables on Advanced Micro Devices Inc ’s suppliers . You can find them in the navigatio"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://fintel.io/doc/sec-advanced-micro-devices-inc-2488-ex21-2025-february-05-20124-5584",
-      "query": "Advanced Micro Devices, Inc. suppliers manufacturers",
-      "snippet": "ADVANCED MICRO DEVICES , INC . AMD (EMEA) LTD. In the process of being dissolved."
-    },
-    {
-      "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/AMD",
-      "query": "Advanced Micro Devices, Inc. major customers clients",
-      "snippet": "2 weeks ago - Advanced Micro Devices , Inc . (AMD) is an American multinational semiconductor company headquartered in Santa Clara, California. It dev"
+      "query": "Advanced Micro Devices, Inc. suppliers manufacturers",
+      "snippet": "Advanced Micro Devices , Inc . (AMD) is an American multinational semiconductor company headquartered in Santa Clara, California. It develops central "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/markets_glance.php?code=AMD",
+      "url": "https://en.wikipedia.org/wiki/List_of_semiconductor_fabrication_plants",
+      "query": "Advanced Micro Devices, Inc. suppliers manufacturers",
+      "snippet": "They are either operated by Integrated Device Manufacturers (IDMs) that design and manufacture ICs in-house and may also manufacture designs from desi"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://ir.amd.com/",
       "query": "Advanced Micro Devices, Inc. major customers clients",
-      "snippet": "3 weeks ago - Advanced Micro Devices Inc customers and markets, results by customer and performance relative to AMD, by company and industry - CSIMark"
+      "snippet": "Advanced Micro Devices , Inc . IR Overview. Investor Relations. AMD Expands AI Leadership Across Client , Graphics, and Software with New Ryzen, Ryzen"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.britannica.com/money/Advanced-Micro-Devices-Inc",
+      "query": "Advanced Micro Devices, Inc. major customers clients",
+      "snippet": "Advanced Micro Devices , Inc . ( AMD ) is an American semiconductor designer and global supplier of computing and graphics technologies used in data c"
     }
   ]
 }

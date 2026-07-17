@@ -7,31 +7,31 @@
     "TSM",
     "005930.KS",
     "GlobalFoundries",
-    "MU",
-    "SK Hynix"
+    "UMC",
+    "ASE Technology Holding"
   ],
   "downstream": [
-    "SONY",
     "MSFT",
-    "DELL",
+    "GOOGL",
     "AMZN",
-    "TSLA"
+    "AAPL",
+    "DELL"
   ],
   "competitors": [
     "AMD",
     "INTC",
     "QCOM",
-    "AAPL",
+    "AVGO",
     "005930.KS"
   ],
   "key_products": [
-    "GeForce RTX GPUs",
+    "GeForce GPUs",
+    "Quadro GPUs",
     "Tesla GPUs",
     "Jetson SoCs",
-    "DGX AI supercomputers",
-    "CUDA platform"
+    "CUDA API"
   ],
-  "extracted_at": "2026-07-16 17:03:27",
+  "extracted_at": "2026-07-17 16:59:45",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.investing.com/equities/nvidia-corp",
+      "url": "https://en.wikipedia.org/wiki/Nvidia",
       "query": "NVIDIA Corporation suppliers manufacturers",
-      "snippet": "View today's NVIDIA Corporation stock price and latest NVDA news and analysis. Create real-time notifications to follow any changes in the live stock "
+      "snippet": "4 days ago - In August 2025, Nvidia ordered suppliers to halt production of its H20 AI chip following Chinese government directives warning domestic c"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.britannica.com/money/NVIDIA-Corporation",
+      "url": "https://www.moomoo.com/community/feed/nvidia-s-supply-chain-empire-who-powers-the-ai-s-114771677478918",
       "query": "NVIDIA Corporation suppliers manufacturers",
-      "snippet": "NVIDIA Corporation (NVDA) is a semiconductor company and a leading global manufacturer of high-end graphics... NVIDIA was also able to accelerate its "
+      "snippet": "June 30, 2025 - NVIDIA’s suppliers include TSMC in the semiconductor manufacturing field, SK Hynix and $Micron Technology (MU.US)$ in the storage chip"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/news/nvidias-biggest-customers-095700428.html",
+      "url": "https://en.wikipedia.org/wiki/Nvidia",
       "query": "NVIDIA Corporation major customers clients",
-      "snippet": "June 26, 2025 - Nvidia has amassed an impressive list of customers, which includes top AI developers like Amazon, Microsoft, and Alphabet . Nvidia's c"
+      "snippet": "Nvidia held a 92% share of the discrete desktop and laptop GPU market. Nvidia announced it would invest $5 billion in Intel, backing the struggling U."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/news/nvidias-largest-customers-201900375.html",
+      "url": "https://www.linkedin.com/posts/jasoncalacanis_nvidia-is-the-worlds-most-valuable-company-activity-7367360878221877249-Jwbn",
       "query": "NVIDIA Corporation major customers clients",
-      "snippet": "May 2, 2024 - However, in its recent 10-K filing, the company did say that one customer represented 13% of its revenue from its compute and networking"
+      "snippet": "Aug 29, 2025 · Just ONE MYSTERY CUSTOMER. OpenAI or Microsoft, right?) is responsible for 23% of Nvidia's revenue, 23% of revenue in their last quarte"
     }
   ]
 }

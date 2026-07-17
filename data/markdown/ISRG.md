@@ -3,8 +3,8 @@ ticker: ISRG
 company: Intuitive Surgical, Inc.
 sector: Healthcare
 industry: Medical Instruments & Supplies
-extracted_at: 2026-07-14 18:57:30
-last_updated: 2026-07-14
+extracted_at: 2026-07-17 17:03:20
+last_updated: 2026-07-17
 ---
 
 # ISRG - Intuitive Surgical, Inc.
@@ -12,37 +12,37 @@ last_updated: 2026-07-14
 ## 基本信息
 
 - **所属行业**: Healthcare / Medical Instruments & Supplies
-- **提取时间**: 2026-07-14 18:57:30
+- **提取时间**: 2026-07-17 17:03:20
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Surgical instrument manufacturers (e.g., Medtronic, Stryker)]]
-- [[TXN]]
-- [[Electronic component suppliers (e.g., STMicroelectronics, NXP Semiconductors)]]
-- [[MSFT]]
-- [[Medical device material suppliers (e.g., Johnson & Johnson, B. Braun)]]
+- [[Electronics component suppliers]]
+- [[Robotics hardware suppliers]]
+- [[Medical device component suppliers]]
+- [[Software vendors]]
+- [[Logistics providers]]
 
 ### 下游客户
-- [[Major U.S. hospitals (e.g., Mayo Clinic, Cleveland Clinic)]]
-- [[Academic medical centers (e.g., Johns Hopkins, Stanford Health Care)]]
-- [[Private surgical practices]]
-- [[Government health agencies (e.g., Veterans Affairs)]]
-- [[International health organizations]]
+- [[Hospitals]]
+- [[Academic medical centers]]
+- [[Surgical specialty centers]]
+- [[Private practices]]
+- [[Health systems]]
 
 ### 竞争对手
-- [[Stryker Corporation]]
+- [[Stryker]]
 - [[Medtronic]]
-- [[Johnson & Johnson (Ethicon)]]
-- [[B. Braun]]
+- [[Johnson & Johnson]]
 - [[Zimmer Biomet]]
+- [[Hologic]]
 
 ### 核心产品
 - [[da Vinci Surgical System]]
 - [[da Vinci Xi]]
 - [[da Vinci X]]
+- [[da Vinci Si]]
 - [[da Vinci SP]]
-- [[da Vinci Surgical System accessories and consumables]]
 
 ## 数据来源
 
@@ -54,4 +54,4 @@ last_updated: 2026-07-14
 
 ## 元数据
 
-- **更新日期**: 2026-07-14
+- **更新日期**: 2026-07-17

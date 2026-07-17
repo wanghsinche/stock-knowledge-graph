@@ -4,34 +4,34 @@
   "sector": "Technology",
   "industry": "Computer Hardware",
   "upstream": [
-    "MU",
     "005930.KS",
-    "TDK Corporation",
-    "NXP Semiconductors",
-    "Kioxia (formerly Toshiba Memory)"
+    "MU",
+    "INTC",
+    "Toshiba Corporation",
+    "LG Electronics"
   ],
   "downstream": [
     "DELL",
     "HPQ",
     "Lenovo Group",
     "AAPL",
-    "AMZN"
+    "MSFT"
   ],
   "competitors": [
     "WDC",
-    "Kioxia",
+    "Toshiba Corporation",
     "005930.KS",
     "MU",
-    "STX"
+    "IBM"
   ],
   "key_products": [
-    "3.5\" HDD",
-    "2.5\" HDD",
-    "1.5\" HDD",
-    "Enterprise HDD",
-    "SSD"
+    "Hard Disk Drives (HDD)",
+    "Solid State Drives (SSD)",
+    "Enterprise Storage Solutions",
+    "Cloud Storage Solutions",
+    "Data Center Storage"
   ],
-  "extracted_at": "2026-07-16 17:07:01",
+  "extracted_at": "2026-07-17 17:02:20",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.marketscreener.com/quote/stock/SEAGATE-TECHNOLOGY-HOLDIN-182801117/company-group/",
+      "url": "https://www.seagate.com/",
       "query": "Seagate Technology Holdings plc suppliers manufacturers",
-      "snippet": "2 hours ago · Find the group structure chart of Seagate Technology Holdings PLC , with the list of companies belonging to the same group as Seagate Te"
+      "snippet": "Seagate Technology Holdings PLC ."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/STX-Suppliers",
+      "url": "https://ru.investing.com/equities/seagate-technology",
       "query": "Seagate Technology Holdings plc suppliers manufacturers",
-      "snippet": "6 days ago · For your research, we’ve provided nine additional tables on Seagate Technology Holdings Plc ’s suppliers . You can find them in the navig"
+      "snippet": "Акции Seagate Technology PLC (STX): курс сегодня, актуальная цена онлайн, графики, мнения, технический анализ, отчеты и другое о Seagate ."
     },
     {
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Seagate_Technology",
       "query": "Seagate Technology Holdings plc major customers clients",
-      "snippet": "In 1989, Seagate acquired Control Data Corporation 's Imprimis division, the makers of CDC's HDD products. Seagate acquired Conner Peripherals in 1996"
+      "snippet": "Seagate Technology Holdings plc is an American data storage company. It was incorporated in 1978 as Shugart Technology and commenced business in 1979."
     },
     {
       "source": "DuckDuckGo",
       "url": "https://csimarket.com/stocks/STX-Customers",
       "query": "Seagate Technology Holdings plc major customers clients",
-      "snippet": "For your research, we’ve provided 9 tables on Seagate Technology Holdings Plc corporate clients . You can find them in the navigation menu under Custo"
+      "snippet": "Seagate Technology Holdings Plc 's Comment on Sales, Marketing and Customers We sell our products to major OEMs, distributors and retailers. OEM custo"
     }
   ]
 }

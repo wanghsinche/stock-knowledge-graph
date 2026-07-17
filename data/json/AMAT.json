@@ -4,33 +4,34 @@
   "sector": "Technology",
   "industry": "Semiconductor Equipment & Materials",
   "upstream": [
-    "Contract manufacturers",
-    "Component suppliers",
-    "Raw material suppliers",
-    "Software vendors",
-    "Service providers"
+    "Silicon wafer manufacturers",
+    "Chemical precursor suppliers",
+    "META",
+    "Photolithography chemical suppliers",
+    "Cleanroom equipment providers"
   ],
   "downstream": [
     "INTC",
-    "005930.KS",
     "TSM",
+    "005930.KS",
     "MU",
-    "SK Hynix"
+    "QCOM"
   ],
   "competitors": [
     "ASML",
     "LRCX",
-    "Tokyo Electron",
-    "KLA"
+    "Tokyo Electron Limited",
+    "KLA Corporation",
+    "AMAT"
   ],
   "key_products": [
-    "Semiconductor fabrication equipment",
-    "Lithography systems",
-    "Etch and deposition tools",
-    "Cleaning and metrology instruments",
-    "Display manufacturing equipment"
+    "Semiconductor processing equipment",
+    "Lithography tools",
+    "Etching equipment",
+    "Deposition systems",
+    "Inspection & metrology tools"
   ],
-  "extracted_at": "2026-07-16 17:07:52",
+  "extracted_at": "2026-07-17 17:02:42",
   "sources": [
     {
       "source": "Wikipedia",
@@ -40,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Applied_Materials",
+      "url": "https://www.appliedmaterials.com/us/en.html",
       "query": "Applied Materials, Inc. suppliers manufacturers",
-      "snippet": "Applied Materials , Inc . is an American corporation that supplies equipment, services and software for the manufacture of semiconductor (integrated c"
+      "snippet": "Applied Materials , Inc . is the leader in materials engineering solutions that are at the foundation of virtually every new semiconductor and advance"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/AMAT-Suppliers",
+      "url": "https://www.barrons.com/market-data/stocks/amat/company-people?%25252525253Bmod=quotes&%2525252525253Bmod=quotes",
       "query": "Applied Materials, Inc. suppliers manufacturers",
-      "snippet": "Jul 7, 2026 · Applied uses numerous vendors , including contract manufacturers , to supply parts and assembly services for the manufacture and support"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.marketresearch.com/MarketLine-v3883/Applied-Materials-Company-Profile-SWOT-41412828/",
-      "query": "Applied Materials, Inc. major customers clients",
-      "snippet": "Key Highlights. Applied Materials , Inc . ( Applied Materials or 'the company') provides manufacturing equipment, software, and services to the semico"
+      "snippet": "Applied Materials Inc . company and executive profile by Barron's. View the latest AMAT company infomation and executive bios."
     },
     {
       "source": "DuckDuckGo",
       "url": "https://parameter.io/applied-materials-amat-ai-demand-2026-outlook/",
       "query": "Applied Materials, Inc. major customers clients",
       "snippet": "AMAT Stock Card Applied Materials , Inc ., AMAT . A Mild Pause After Big Gains. AMAT eased slightly on December 9, slipping less than half a percent d"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.thestreet.com/markets/will-applied-materials-amat-stock-be-helped-by-keybanc-comments-13490098",
+      "query": "Applied Materials, Inc. major customers clients",
+      "snippet": "Applied Materials ' ( AMAT ) price target was lifted by analysts at KeyBanc Capital who made bullish comments about the company's future."
     }
   ]
 }

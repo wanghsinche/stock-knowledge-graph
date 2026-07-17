@@ -3,8 +3,8 @@ ticker: INTC
 company: Intel Corporation
 sector: Technology
 industry: Semiconductors
-extracted_at: 2026-07-16 17:04:30
-last_updated: 2026-07-16
+extracted_at: 2026-07-17 17:00:25
+last_updated: 2026-07-17
 ---
 
 # INTC - Intel Corporation
@@ -12,7 +12,7 @@ last_updated: 2026-07-16
 ## 基本信息
 
 - **所属行业**: Technology / Semiconductors
-- **提取时间**: 2026-07-16 17:04:30
+- **提取时间**: 2026-07-17 17:00:25
 
 ## 产业链关系
 
@@ -24,25 +24,25 @@ last_updated: 2026-07-16
 - [[GlobalFoundries]]
 
 ### 下游客户
+- [[AAPL]]
 - [[DELL]]
 - [[HPQ]]
-- [[Lenovo Group]]
-- [[AAPL]]
 - [[MSFT]]
+- [[Lenovo Group]]
 
 ### 竞争对手
 - [[AMD]]
 - [[NVDA]]
 - [[QCOM]]
 - [[AVGO]]
-- [[005930.KS]]
+- [[TSM]]
 
 ### 核心产品
-- [[Intel Core CPUs]]
+- [[Intel Core i7/i9 CPUs]]
 - [[Intel Xeon CPUs]]
+- [[Intel Optane Memory]]
 - [[Intel Arc GPUs]]
-- [[Intel chipsets]]
-- [[Intel AI accelerators]]
+- [[Intel 10nm Processors]]
 
 ## 数据来源
 
@@ -54,4 +54,4 @@ last_updated: 2026-07-16
 
 ## 元数据
 
-- **更新日期**: 2026-07-16
+- **更新日期**: 2026-07-17

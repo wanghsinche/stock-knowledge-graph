@@ -4,33 +4,34 @@
   "sector": "Technology",
   "industry": "Computer Hardware",
   "upstream": [
-    "MU",
     "005930.KS",
-    "TDK",
-    "Toshiba",
-    "SK Hynix"
+    "MU",
+    "SK Hynix",
+    "WDC",
+    "Toshiba Memory"
   ],
   "downstream": [
     "AAPL",
     "DELL",
     "HPQ",
-    "Lenovo",
-    "005930.KS"
+    "MSFT",
+    "SONY"
   ],
   "competitors": [
     "Kingston Technology",
-    "Lexar",
-    "Crucial",
+    "Lexar Corp.",
+    "MU",
     "Corsair",
     "WDC"
   ],
   "key_products": [
-    "NAND flash memory",
-    "Solid State Drives (SSDs)",
-    "Memory cards",
-    "USB flash drives"
+    "NAND flash memory chips",
+    "Solid‑state drives (SSDs)",
+    "USB flash drives",
+    "SD and microSD cards",
+    "External storage devices"
   ],
-  "extracted_at": "2026-07-16 17:03:14",
+  "extracted_at": "2026-07-17 16:59:36",
   "sources": [
     {
       "source": "Wikipedia",
@@ -48,19 +49,19 @@
       "source": "DuckDuckGo",
       "url": "https://www.accio.com/supplier/sandisk-manufacturer",
       "query": "Sandisk Corporation suppliers manufacturers",
-      "snippet": "2 days ago · Looking for SanDisk manufacturers ? Discover trusted suppliers of USB drives, memory cards, and SSDs. Click to connect with top providers"
+      "snippet": "3 days ago · Selecting top SanDisk suppliers requires comparison across key performance and service metrics. Below is a detailed table of leading supp"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Sandisk",
+      "url": "https://data.landbase.com/technology/sandisk/",
       "query": "Sandisk Corporation major customers clients",
-      "snippet": "1 month ago - On November 8, 1995, SunDisk changed its name to SanDisk to avoid confusion with Sun Microsystems, and went public under the new name vi"
+      "snippet": "Aug 17, 2025 · We have data on 324 companies that use SanDisk. Our SanDisk customers list is available for download and comes enriched with vital comp"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/markets_glance.php?code=SNDK",
+      "url": "https://www.appsruntheworld.com/customers-database/vendors/view/sandisk",
       "query": "Sandisk Corporation major customers clients",
-      "snippet": "1 month ago - Sandisk customers and markets, results by customer and performance relative to SNDK, by company and industry - CSIMarket"
+      "snippet": "List of companies using or evaluating SanDisk applications, with details on their revenues, employees, industries, and locations."
     }
   ]
 }

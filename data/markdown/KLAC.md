@@ -3,8 +3,8 @@ ticker: KLAC
 company: KLA Corporation
 sector: Technology
 industry: Semiconductor Equipment & Materials
-extracted_at: 2026-07-15 17:18:24
-last_updated: 2026-07-15
+extracted_at: 2026-07-17 17:07:03
+last_updated: 2026-07-17
 ---
 
 # KLAC - KLA Corporation
@@ -12,46 +12,46 @@ last_updated: 2026-07-15
 ## 基本信息
 
 - **所属行业**: Technology / Semiconductor Equipment & Materials
-- **提取时间**: 2026-07-15 17:18:24
+- **提取时间**: 2026-07-17 17:07:03
 
 ## 产业链关系
 
 ### 上游供应商
-- [[ASML]]
-- [[Nikon]]
-- [[Canon]]
-- [[Dow Chemical]]
-- [[Shin-Etsu Chemical]]
+- [[Optics manufacturers (e.g., Edmund Optics, Nikon)]]
+- [[TXN]]
+- [[Semiconductor process chemicals providers (e.g., DuPont, Dow Corning)]]
+- [[Electronics component suppliers (e.g., Infineon, STMicroelectronics)]]
+- [[IBM]]
 
 ### 下游客户
 - [[TSM]]
 - [[005930.KS]]
 - [[INTC]]
-- [[MU]]
 - [[GlobalFoundries]]
+- [[MU]]
 
 ### 竞争对手
-- [[ASML]]
 - [[AMAT]]
 - [[LRCX]]
 - [[Tokyo Electron]]
-- [[Nikon]]
+- [[ASML]]
+- [[ASMI]]
 
 ### 核心产品
 - [[Wafer inspection systems]]
-- [[Reticle inspection systems]]
-- [[Process control & yield management systems]]
-- [[Metrology & defect detection]]
-- [[Advanced metrology & monitoring]]
+- [[Defect review systems]]
+- [[Metrology and process control systems]]
+- [[Yield management solutions]]
+- [[Reticle and IC packaging inspection tools]]
 
 ## 数据来源
 
 - [KLA Corporation](https://en.wikipedia.org/wiki/KLA_Corporation)
-- [KLA Corporation suppliers manufacturers](https://www.lbank.com/stock/klac)
-- [KLA Corporation suppliers manufacturers](https://www.kla.com/locations)
-- [KLA Corporation major customers clients](https://www.marketresearch.com/MarketLine-v3883/KLA-Corporation-Company-Profile-SWOT-36355498/)
-- [KLA Corporation major customers clients](https://www.kad8.com/news/tsmc-secures-15-customers-for-2nm-process-driven-by-hpc-and-ai-demand/)
+- [KLA Corporation suppliers manufacturers](https://en.wikipedia.org/wiki/KLA_Corporation)
+- [KLA Corporation suppliers manufacturers](https://ir.kla.com/news-events/press-releases/detail/170/kla-tencor-corporation-receives-intels-preferred-quality)
+- [KLA Corporation major customers clients](https://en.wikipedia.org/wiki/KLA_Corporation)
+- [KLA Corporation major customers clients](https://csimarket.com/stocks/KLAC-Customers)
 
 ## 元数据
 
-- **更新日期**: 2026-07-15
+- **更新日期**: 2026-07-17
