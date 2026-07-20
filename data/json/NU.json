@@ -1,37 +1,37 @@
 {
   "ticker": "NU",
   "company_name": "Nu Holdings Ltd.",
-  "sector": "Financial Services / Banks - Regional",
-  "industry": "Digital Banking / Fintech",
+  "sector": "Financial Services",
+  "industry": "Banks - Regional",
   "upstream": [
-    "Visa",
-    "Mastercard",
-    "AWS",
-    "Stripe",
-    "GOOGL"
+    "Nu-Way Industries (manufacturing services)",
+    "Visa (card network)",
+    "Mastercard (card network)",
+    "Stripe (payment processing)",
+    "AWS (cloud infrastructure)"
   ],
   "downstream": [
     "Brazilian consumers",
     "Mexican consumers",
     "Colombian consumers",
-    "SMEs in Latin America",
+    "Retail merchants",
     "Corporate clients"
   ],
   "competitors": [
     "Banco Inter",
     "C6 Bank",
-    "Banco do Brasil (digital)",
-    "Banco de Crédito",
-    "Revolut"
+    "Banco do Brasil",
+    "BBVA",
+    "Banco Santander"
   ],
   "key_products": [
-    "Digital checking account",
-    "Credit card",
-    "Debit card",
+    "Digital banking services",
+    "Credit cards",
     "Personal loans",
-    "Mobile banking app"
+    "Digital payments",
+    "Savings accounts"
   ],
-  "extracted_at": "2026-07-16 17:11:17",
+  "extracted_at": "2026-07-20 17:28:49",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://stockanalysis.com/stocks/nu/company/",
+      "url": "https://www.nuwayindustries.com/",
       "query": "Nu Holdings Ltd. suppliers manufacturers",
-      "snippet": "5 days ago · Company profile for Nu Holdings Ltd. (NU ) stock, with a description, list of executives, contact details and other key facts. More about"
+      "snippet": "Nu -Way Industries manufacturing services provides its customers with unmatched outsourcing services for custom fabricated metal products. Nu -Way off"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/NU/profile/?fr=sycsrp_catchall",
+      "url": "https://www.investidores.nu/financials/results-center/",
       "query": "Nu Holdings Ltd. suppliers manufacturers",
-      "snippet": "See the company profile for Nu Holdings Ltd. (NU ) including business summary, industry/sector information, number of employees, business summary, cor"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://international.nubank.com.br/company/nu-holdings-ltd-reports-third-quarter-2025-financial-results/",
-      "query": "Nu Holdings Ltd. major customers clients",
-      "snippet": "Nov 13, 2025 · Customer growth: Nu added 4.3 million new customers in Q3’25, a 16% year-over-year (YoY) increase, reaching a total of 127 million cust"
+      "snippet": "Investor Relations Why Invest? Follow our Journey FAQs (Frequently Asked Questions) Glossary Governance Overview Documents Board of Directors Committe"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://international.nubank.com.br/company/nu-holdings-ltd-reports-fourth-quarter-and-full-year-2025-financial-results/",
       "query": "Nu Holdings Ltd. major customers clients",
-      "snippet": "Feb 25, 2026 · Customer growth – Nu added 4 million customers in Q4’25, and 17 million in FY’25, reaching a total of 131 million customers globally by"
+      "snippet": "Feb 25, 2026 · Nu Holdings Ltd . Reports Fourth Quarter and Full Year 2025 Financial Results \"In Q4'25, we increased scale, deepened engagement, and e"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.fool.com/investing/2026/05/29/nu-holdings-more-customers-us-banks-real-question/",
+      "query": "Nu Holdings Ltd. major customers clients",
+      "snippet": "May 29, 2026 · Nu Holdings Already Has More Customers Than Most U.S. Banks. The Real Question Is: What Can It Can Earn From Each One? The Latin Americ"
     }
   ]
 }

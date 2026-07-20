@@ -1,37 +1,37 @@
 {
   "ticker": "NBIS",
   "company_name": "Nebius Group N.V.",
-  "sector": "Communication Services / Internet Content & Information",
+  "sector": "Communication Services",
   "industry": "Internet Content & Information",
   "upstream": [
     "NVDA",
-    "AMD",
     "INTC",
+    "AMD",
     "AMZN",
     "MSFT"
   ],
   "downstream": [
-    "Financial institutions",
-    "Automotive OEMs",
-    "Healthcare providers",
-    "Technology enterprises",
-    "Research institutions"
+    "Large enterprises",
+    "AI startups",
+    "Research institutions",
+    "Cloud service providers",
+    "Data centers"
   ],
   "competitors": [
     "NVDA",
-    "AMD",
-    "INTC",
     "GOOGL",
-    "MSFT"
+    "AMZN",
+    "MSFT",
+    "OpenAI"
   ],
   "key_products": [
-    "Nebius AI Platform",
+    "AI infrastructure platform",
     "Avride",
     "TripleTen",
     "Toloka",
     "Clickhouse"
   ],
-  "extracted_at": "2026-07-17 17:02:55",
+  "extracted_at": "2026-07-20 17:26:58",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,15 +41,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/suppliers_glance.php?code=NBIS",
+      "url": "https://en.wikipedia.org/wiki/Nebius_Group",
       "query": "NBIS suppliers manufacturers",
-      "snippet": "NBIS 's Suppliers Management Effectiveness. NBIS 's Competitors Results. NBIS 's vs. Suppliers , Data. (Revenue and Income for Trailing 12 Months, in "
+      "snippet": "Nebius Group N.V., headquartered in Amsterdam, is a technology company [3] that provides artificial intelligence infrastructure. [4] The company also "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/NBIS/",
+      "url": "https://www.dcsa.mil/Systems-Applications/National-Background-Investigation-Services-NBIS/",
       "query": "NBIS suppliers manufacturers",
-      "snippet": "Find the latest Nebius Group N.V. ( NBIS ) stock quote, history, news and other vital information to help you with your stock trading and investing."
+      "snippet": "NBIS improves efficiency by automating manual practices and removing paper from the background investigation process. While NBIS is the modernized, in"
     },
     {
       "source": "DuckDuckGo",
@@ -59,9 +59,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.nasdaq.com/market-activity/stocks/nbis",
+      "url": "https://seekingalpha.com/symbol/NBIS",
       "query": "NBIS major customers clients",
-      "snippet": "Show more results ->. NBIS . Summary. Quotes.Data Disclaimer: The Nasdaq Indices and the Major Indices are delayed at least 1 minute."
+      "snippet": "View ( NBIS ) real-time stock price, chart, news, analysis, analyst reviews and more."
     }
   ]
 }

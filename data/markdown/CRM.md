@@ -1,57 +1,39 @@
 ---
 ticker: CRM
-company: Salesforce, Inc.
+company: CRM
 sector: Technology
 industry: Software - Application
-extracted_at: 2026-07-14 18:54:04
-last_updated: 2026-07-14
+extracted_at: 2026-07-20 17:34:55
+last_updated: 2026-07-20
 ---
 
-# CRM - Salesforce, Inc.
+# CRM - CRM
 
 ## 基本信息
 
 - **所属行业**: Technology / Software - Application
-- **提取时间**: 2026-07-14 18:54:04
+- **提取时间**: 2026-07-20 17:34:55
 
 ## 产业链关系
 
 ### 上游供应商
-- [[AMZN]]
-- [[MSFT]]
-- [[GOOGL]]
-- [[DELL]]
-- [[HPQ]]
+_暂无数据_
 
 ### 下游客户
-- [[Coca‑Cola]]
-- [[Toyota]]
-- [[American Express]]
-- [[AT&T]]
-- [[Bank of America]]
+_暂无数据_
 
 ### 竞争对手
-- [[MSFT]]
-- [[SAP Customer Experience]]
-- [[ORCL]]
-- [[HubSpot]]
-- [[Zoho CRM]]
+_暂无数据_
 
 ### 核心产品
-- [[Sales Cloud]]
-- [[Service Cloud]]
-- [[Marketing Cloud]]
-- [[Commerce Cloud]]
-- [[Einstein AI]]
+_暂无数据_
 
 ## 数据来源
 
-- [Salesforce](https://en.wikipedia.org/wiki/Salesforce,_Inc.)
-- [Salesforce, Inc. suppliers manufacturers](https://csimarket.com/stocks/CRM-Suppliers)
-- [Salesforce, Inc. suppliers manufacturers](https://www.marketscreener.com/quote/stock/SALESFORCE-INC-12180/company-group/)
-- [Salesforce, Inc. major customers clients](https://enway.com/journal/salesforce-consultants/salesforce-statistics-all-the-facts-you-need-to-know/)
-- [Salesforce, Inc. major customers clients](https://csimarket.com/stocks/CRM-Customers)
+- [CRM](https://en.wikipedia.org/wiki/CRM)
+- [CRM suppliers manufacturers](https://www.discovercrm.com/crm-vendor-directory.html)
+- [CRM suppliers manufacturers](https://www.accio.com/supplier/crm-manufacturer)
 
 ## 元数据
 
-- **更新日期**: 2026-07-14
+- **更新日期**: 2026-07-20

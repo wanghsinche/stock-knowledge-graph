@@ -4,34 +4,34 @@
   "sector": "Technology",
   "industry": "Software - Infrastructure",
   "upstream": [
-    "SK hynix Inc.",
     "NVDA",
     "AMD",
     "INTC",
-    "QCOM"
+    "TSM",
+    "005930.KS"
   ],
   "downstream": [
-    "AI developers",
-    "Enterprise AI teams",
-    "Tech startups",
-    "Research institutions",
-    "Gaming companies"
+    "OpenAI",
+    "GOOGL",
+    "MSFT",
+    "AMZN",
+    "META"
   ],
   "competitors": [
+    "NVDA",
     "AMZN",
     "GOOGL",
     "MSFT",
-    "IBM",
-    "ORCL"
+    "IBM"
   ],
   "key_products": [
-    "GPU‑based AI cloud infrastructure",
-    "Chip management software",
-    "Custom AI workloads",
-    "High‑performance computing services",
-    "Data center solutions"
+    "GPU cloud infrastructure",
+    "AI-native platform",
+    "chip management software",
+    "GPU instances for AI workloads",
+    "AI workload optimization tools"
   ],
-  "extracted_at": "2026-07-17 17:04:35",
+  "extracted_at": "2026-07-20 17:31:10",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,13 +43,13 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/CoreWeave",
       "query": "CoreWeave, Inc. suppliers manufacturers",
-      "snippet": "CoreWeave , Inc . is an American artificial intelligence cloud-computing company based in Livingston, New Jersey."
+      "snippet": "CoreWeave , Inc . is an American artificial intelligence (AI) cloud-computing company based in Livingston, New Jersey. It specializes in providing clo"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.marketscreener.com/news/ai-cloud-company-coreweave-explores-wall-street-playbook-to-hedge-memory-chip-price-risk-ce7f5edddc8df323",
+      "url": "https://www.coreweave.com/",
       "query": "CoreWeave, Inc. suppliers manufacturers",
-      "snippet": "Stock CoreWeave , Inc . Sk hynix inc . CoreWeave , Inc . is an American technology company founded in 2017, specializing in cloud infrastructure desig"
+      "snippet": "CoreWeave Cloud is an AI-native platform purpose-built for AI. It combines next-generation infrastructure, intelligent tools, and expert support to po"
     },
     {
       "source": "DuckDuckGo",
@@ -59,9 +59,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.appsruntheworld.com/customers-database/vendors/view/coreweave",
+      "url": "https://www.coreweave.com/case-studies",
       "query": "CoreWeave, Inc. major customers clients",
-      "snippet": "List of companies using or evaluating CoreWeave applications, with details on their revenues, employees, industries, and locations."
+      "snippet": "Customer stories Where Customers Become Pioneers Discover how CoreWeave customers transform ambition into achievement. These pioneers are shaping the "
     }
   ]
 }

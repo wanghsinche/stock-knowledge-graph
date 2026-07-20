@@ -4,34 +4,34 @@
   "sector": "Communication Services",
   "industry": "Entertainment",
   "upstream": [
+    "Warner Bros.",
     "Disney",
-    "Warner Bros. Discovery",
-    "Universal Studios",
     "SONY",
-    "AMZN"
+    "Universal Studios",
+    "Paramount Pictures"
   ],
   "downstream": [
-    "Individual subscribers",
-    "Households",
-    "Corporate accounts",
-    "Roku",
-    "AAPL"
+    "Global subscribers",
+    "Corporate clients",
+    "AAPL",
+    "Smart TV manufacturers",
+    "Gaming console users"
   ],
   "competitors": [
     "Disney+",
-    "HBO Max",
     "AMZN",
     "Hulu",
+    "HBO Max",
     "AAPL"
   ],
   "key_products": [
-    "Netflix Original Series",
-    "Netflix Original Films",
-    "Licensed TV shows",
-    "Licensed movies",
-    "Netflix Original Documentaries"
+    "Netflix streaming service",
+    "Netflix Originals",
+    "Subscription plans",
+    "Mobile app",
+    "Web platform"
   ],
-  "extracted_at": "2026-07-17 17:00:58",
+  "extracted_at": "2026-07-20 17:25:13",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,9 +47,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/NFLX/",
+      "url": "https://porteranalysis.com/porters-five-forces-of-netflix/",
       "query": "Netflix, Inc. suppliers manufacturers",
-      "snippet": "Netflix , Inc . provides entertainment services worldwide. The company offers television (TV) series, documentaries, feature films, games, and live pr"
+      "snippet": "Likewise, the suppliers have a weaker bargaining power while dealing with the traditional broadcasting businesses, but online distributors like Netfli"
     },
     {
       "source": "DuckDuckGo",
@@ -61,7 +61,7 @@
       "source": "DuckDuckGo",
       "url": "https://ir.netflix.net/ir-overview/profile/default.aspx",
       "query": "Netflix, Inc. major customers clients",
-      "snippet": "Jun 4, 2026 · Netflix is one of the world’s leading entertainment services offering TV series, films, games and live programming across a wide variety"
+      "snippet": "4 days ago · Netflix is one of the world’s leading entertainment services offering TV series, films, games and live programming across a wide variety "
     }
   ]
 }

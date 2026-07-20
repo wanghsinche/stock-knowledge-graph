@@ -6,32 +6,32 @@
   "upstream": [
     "TSM",
     "005930.KS",
-    "MU",
-    "SK Hynix",
-    "GlobalFoundries"
+    "GlobalFoundries",
+    "ASE Technology Holding",
+    "Amkor Technology"
   ],
   "downstream": [
-    "AAPL",
     "DELL",
     "HPQ",
-    "MSFT",
-    "Lenovo Group"
+    "Lenovo Group",
+    "AAPL",
+    "MSFT"
   ],
   "competitors": [
     "AMD",
     "NVDA",
     "QCOM",
     "AVGO",
-    "TSM"
+    "MU"
   ],
   "key_products": [
-    "Intel Core i7/i9 CPUs",
-    "Intel Xeon CPUs",
-    "Intel Optane Memory",
-    "Intel Arc GPUs",
-    "Intel 10nm Processors"
+    "Intel Core processors",
+    "Intel Xeon processors",
+    "Intel Atom processors",
+    "Intel chipsets",
+    "Intel FPGAs (Stratix, Arria)"
   ],
-  "extracted_at": "2026-07-17 17:00:25",
+  "extracted_at": "2026-07-20 17:23:40",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,25 +43,25 @@
       "source": "DuckDuckGo",
       "url": "https://csimarket.com/stocks/INTC-Suppliers",
       "query": "Intel Corporation suppliers manufacturers",
-      "snippet": "Intel supply chain, list and performance of Intels' suppliers - CSIMarket. Intel 's Comment on Supply Chain. We use third-party foundries to manufactu"
+      "snippet": "Jul 10, 2026 · Sources: Intel Corporation 's official press releases and regulatory filings; CSIMarket.com's supply-chain research; and the financial "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.globalspec.com/supplier/profile/Intel",
+      "url": "https://www.accio.com/supplier/intel-supplier",
       "query": "Intel Corporation suppliers manufacturers",
-      "snippet": "Intel Corporation business profile on GlobalSpec. Read about Intel Corporation , browse product catalogs and product areas.(408) 765-9904. Business Ty"
+      "snippet": "Jul 13, 2026 · Need reliable Intel suppliers ? Discover verified vendors offering Core i5, i7, i9 processors, motherboards and graphics cards. Click t"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/INTC-Customers",
+      "url": "https://finance.yahoo.com/quote/INTC/",
       "query": "Intel Corporation major customers clients",
-      "snippet": "Intel customers and markets, results by customer and performance relative to INTC, by company and industry - CSIMarket"
+      "snippet": "Find the latest Intel Corporation (INTC) stock quote, history, news and other vital information to help you with your stock trading and investing."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.appsruntheworld.com/customers-database/vendors/view/intel-corporation",
+      "url": "https://www.linkedin.com/company/intel-corporation",
       "query": "Intel Corporation major customers clients",
-      "snippet": "List of companies using or evaluating Intel Corporation applications, with details on their revenues, employees, industries, and locations."
+      "snippet": "Intel | 4,268,857 followers on LinkedIn. Our mission is to shape the future of technology to help create a better future for the entire world, that’s "
     }
   ]
 }

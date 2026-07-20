@@ -3,8 +3,8 @@ ticker: CRWV
 company: CoreWeave, Inc.
 sector: Technology
 industry: Software - Infrastructure
-extracted_at: 2026-07-17 17:04:35
-last_updated: 2026-07-17
+extracted_at: 2026-07-20 17:31:10
+last_updated: 2026-07-20
 ---
 
 # CRWV - CoreWeave, Inc.
@@ -12,46 +12,46 @@ last_updated: 2026-07-17
 ## 基本信息
 
 - **所属行业**: Technology / Software - Infrastructure
-- **提取时间**: 2026-07-17 17:04:35
+- **提取时间**: 2026-07-20 17:31:10
 
 ## 产业链关系
 
 ### 上游供应商
-- [[SK hynix Inc.]]
 - [[NVDA]]
 - [[AMD]]
 - [[INTC]]
-- [[QCOM]]
+- [[TSM]]
+- [[005930.KS]]
 
 ### 下游客户
-- [[AI developers]]
-- [[Enterprise AI teams]]
-- [[Tech startups]]
-- [[Research institutions]]
-- [[Gaming companies]]
+- [[OpenAI]]
+- [[GOOGL]]
+- [[MSFT]]
+- [[AMZN]]
+- [[META]]
 
 ### 竞争对手
+- [[NVDA]]
 - [[AMZN]]
 - [[GOOGL]]
 - [[MSFT]]
 - [[IBM]]
-- [[ORCL]]
 
 ### 核心产品
-- [[GPU‑based AI cloud infrastructure]]
-- [[Chip management software]]
-- [[Custom AI workloads]]
-- [[High‑performance computing services]]
-- [[Data center solutions]]
+- [[GPU cloud infrastructure]]
+- [[AI-native platform]]
+- [[chip management software]]
+- [[GPU instances for AI workloads]]
+- [[AI workload optimization tools]]
 
 ## 数据来源
 
 - [CoreWeave](https://en.wikipedia.org/wiki/CoreWeave,_Inc.)
 - [CoreWeave, Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/CoreWeave)
-- [CoreWeave, Inc. suppliers manufacturers](https://www.marketscreener.com/news/ai-cloud-company-coreweave-explores-wall-street-playbook-to-hedge-memory-chip-price-risk-ce7f5edddc8df323)
+- [CoreWeave, Inc. suppliers manufacturers](https://www.coreweave.com/)
 - [CoreWeave, Inc. major customers clients](https://en.wikipedia.org/wiki/CoreWeave)
-- [CoreWeave, Inc. major customers clients](https://www.appsruntheworld.com/customers-database/vendors/view/coreweave)
+- [CoreWeave, Inc. major customers clients](https://www.coreweave.com/case-studies)
 
 ## 元数据
 
-- **更新日期**: 2026-07-17
+- **更新日期**: 2026-07-20

@@ -1,37 +1,21 @@
 {
   "ticker": "MSTR",
   "company_name": "Strategy Inc",
-  "sector": "Technology / Software - Application",
-  "industry": "Business Intelligence & Analytics",
-  "upstream": [
-    "Cloud infrastructure providers (AWS, Azure, GCP)",
-    "Data integration vendors (Informatica, Talend)",
-    "DELL",
-    "ORCL",
-    "Data providers (Bloomberg, Thomson Reuters)"
-  ],
-  "downstream": [
-    "Financial services firms (JPMorgan, Goldman Sachs)",
-    "Retail giants (Walmart, Target)",
-    "Manufacturing enterprises (General Electric, Siemens)",
-    "Healthcare organizations (Mayo Clinic, UnitedHealth)",
-    "Government agencies (U.S. Department of Defense, IRS)"
-  ],
+  "sector": "Technology",
+  "industry": "Software - Application",
+  "upstream": [],
+  "downstream": [],
   "competitors": [
     "SAP SE Business Objects",
     "IBM",
-    "ORCL",
-    "MSFT",
-    "Tableau Software"
+    "ORCL"
   ],
   "key_products": [
-    "MicroStrategy Analytics",
-    "MicroStrategy Mobile",
-    "MicroStrategy Cloud",
-    "MicroStrategy Data Warehouse",
-    "MicroStrategy Dashboard"
+    "Business Intelligence (BI) software",
+    "Mobile analytics applications",
+    "Enterprise data analysis platform"
   ],
-  "extracted_at": "2026-07-14 19:07:24",
+  "extracted_at": "2026-07-20 17:35:07",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,25 +27,25 @@
       "source": "DuckDuckGo",
       "url": "https://www.strategyinc.net/",
       "query": "Strategy Inc suppliers manufacturers",
-      "snippet": "Strategy Inc . provides medical device consulting services to venture capitalists, emerging technology companies, law firms specializing in emerging b"
+      "snippet": "Strategy Inc . provides medical device consulting services to venture capitalists, emerging technology companies , law firms specializing in emerging "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://stockanalysis.com/stocks/mstr/company/",
+      "url": "https://markets.ft.com/data/equities/tearsheet/profile?s=MSTR",
       "query": "Strategy Inc suppliers manufacturers",
-      "snippet": "4 days ago · Company profile for Strategy Inc (MSTR) stock, with a description, list of executives, contact details and other key facts. 19 hours ago "
+      "snippet": "17 hours ago · Strategy Inc (MSTR:NSQ) company profile with history, revenue, mergers & acquisitions, peer analysis, institutional shareholders and mo"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/MicroStrategy",
+      "url": "https://finance.yahoo.com/quote/MSTR/",
       "query": "Strategy Inc major customers clients",
-      "snippet": "Strategy has launched four credit instruments in the second and third quarter of 2025 worth $4 billion, with more to come. Michael Saylor told Bloombe"
+      "snippet": "Find the latest Strategy Inc (MSTR) stock quote, history, news and other vital information to help you with your stock trading and investing."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.featuredcustomers.com/vendor/strategy",
+      "url": "https://www.marketwatch.com/investing/stock/mstr",
       "query": "Strategy Inc major customers clients",
-      "snippet": "Read 225 Strategy reviews and testimonials from customers , explore 70 case studies and customer success stories, and watch 44 customer videos to see "
+      "snippet": "MSTR | Complete Strategy Inc . stock news by MarketWatch. View real-time stock prices and stock quotes for a full financial overview."
     }
   ]
 }

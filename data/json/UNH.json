@@ -2,36 +2,36 @@
   "ticker": "UNH",
   "company_name": "UnitedHealth Group Incorporated",
   "sector": "Healthcare",
-  "industry": "Health Insurance / Health Care Services",
+  "industry": "Healthcare Plans",
   "upstream": [
     "Medical device manufacturers",
-    "Pharmaceutical companies",
-    "Health IT vendors",
-    "Pharmacy benefit managers",
-    "Data analytics providers"
+    "Pharmaceutical suppliers",
+    "Health technology vendors",
+    "IT service providers",
+    "Hospital equipment suppliers"
   ],
   "downstream": [
-    "Employers and corporate clients",
-    "Government agencies (Medicare, Medicaid)",
-    "Individual health plan members",
-    "Small and medium businesses",
-    "Large multinational corporations"
+    "Employers",
+    "Government agencies",
+    "Individual policyholders",
+    "Healthcare providers",
+    "Health plan partners"
   ],
   "competitors": [
-    "Anthem",
+    "Kaiser Permanente",
     "Aetna",
     "Cigna",
     "Humana",
-    "Molina Healthcare"
+    "Blue Cross Blue Shield"
   ],
   "key_products": [
-    "UnitedHealthcare health insurance plans",
-    "OptumRx pharmacy benefit management",
-    "OptumLabs data analytics",
-    "OptumCare health services",
-    "Medicare Advantage plans"
+    "Health insurance plans",
+    "Health management services",
+    "Pharmacy benefit management",
+    "Clinical services",
+    "Data analytics and population health solutions"
   ],
-  "extracted_at": "2026-07-17 17:04:45",
+  "extracted_at": "2026-07-20 17:34:05",
   "sources": [
     {
       "source": "Wikipedia",
@@ -53,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/UnitedHealth_Group",
+      "url": "https://www.unitedhealthgroup.com/",
       "query": "UnitedHealth Group Incorporated major customers clients",
-      "snippet": "UnitedHealth Group Incorporated is an American multinational for-profit company based in Eden Prairie, Minnesota, specializing in health insurance and"
+      "snippet": "UnitedHealth Group is a health care and well-being company dedicated to improving health outcomes for millions of people around the world. We comprise"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.unitedhealthgroup.com/uhg/businesses.html",
+      "url": "https://www.alpha-sense.com/earnings/unh/",
       "query": "UnitedHealth Group Incorporated major customers clients",
-      "snippet": "UnitedHealth Group is a healthcare and well-being company with team members in two distinct and complementary businesses — Optum and UnitedHealthcare "
+      "snippet": "Unitedhealth Group Inc . unitedhealthgroup .com. UnitedHealth Group is one of the largest private health insurers and provides medical benefits to abo"
     }
   ]
 }

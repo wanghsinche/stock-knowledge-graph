@@ -1,57 +1,41 @@
 ---
 ticker: V
-company: Visa Inc.
-sector: Financial Services
-industry: Credit Services
-extracted_at: 2026-07-17 17:06:19
-last_updated: 2026-07-17
+company: V
+sector: Financial Services / Credit Services
+industry: Financial Services
+extracted_at: 2026-07-20 17:30:28
+last_updated: 2026-07-20
 ---
 
-# V - Visa Inc.
+# V - V
 
 ## 基本信息
 
-- **所属行业**: Financial Services / Credit Services
-- **提取时间**: 2026-07-17 17:06:19
+- **所属行业**: Financial Services / Credit Services / Financial Services
+- **提取时间**: 2026-07-20 17:30:28
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Card issuing banks]]
-- [[Chip and card manufacturing vendors]]
-- [[Payment processing technology providers]]
-- [[Network infrastructure suppliers]]
-- [[Security and fraud‑prevention vendors]]
+_暂无数据_
 
 ### 下游客户
-- [[Retail merchants]]
-- [[E‑commerce platforms]]
-- [[Cardholders (individual consumers)]]
-- [[Financial institutions (banks, credit unions)]]
-- [[Payment gateway partners]]
+_暂无数据_
 
 ### 竞争对手
-- [[Mastercard]]
-- [[American Express]]
-- [[Discover Financial]]
-- [[PayPal]]
-- [[Square]]
+_暂无数据_
 
 ### 核心产品
-- [[Visa payment network]]
-- [[Credit card services]]
-- [[Debit card services]]
-- [[Prepaid card solutions]]
-- [[Digital wallet and tokenization services]]
+_暂无数据_
 
 ## 数据来源
 
-- [Visa Inc.](https://en.wikipedia.org/wiki/Visa_Inc.)
-- [Visa Inc. suppliers manufacturers](https://www.visa.com.bz/support/merchant/library.html)
-- [Visa Inc. suppliers manufacturers](https://content.edgar-online.com/ExternalLink/EDGAR/0001403161-21-000060.html?hash=24307cb59ee509f15931a0922b3d130654be76583873b4dec8908e12195683a2)
-- [Visa Inc. major customers clients](https://csimarket.com/stocks/V-Customers)
-- [Visa Inc. major customers clients](https://data.landbase.com/technology/visa/)
+- [V](https://en.wikipedia.org/wiki/V)
+- [V suppliers manufacturers](https://www.globalspec.com/local/332/C_US/IL)
+- [V suppliers manufacturers](https://www.thomasnet.com/suppliers/usa/v-belts-belting-4770400)
+- [V major customers clients](https://www.youtube.com/watch?v=QWeEOIYiAO0)
+- [V major customers clients](https://www.dns-shop.ru/product/1bcc3ef42c7dd582/besprovodnyeprovodnye-nausniki-marshall-major-v-cernyj-2024/)
 
 ## 元数据
 
-- **更新日期**: 2026-07-17
+- **更新日期**: 2026-07-20

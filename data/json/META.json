@@ -4,34 +4,37 @@
   "sector": "Communication Services",
   "industry": "Internet Content & Information",
   "upstream": [
-    "QCOM",
-    "INTC",
-    "NVDA",
-    "AMD",
-    "005930.KS"
+    "AMZN",
+    "GOOGL",
+    "MSFT",
+    "CSCO",
+    "DELL"
   ],
   "downstream": [
-    "Advertisers (large brands)",
+    "Advertisers (brands, agencies)",
+    "Businesses (B2B marketing)",
     "App developers",
     "Content creators",
-    "E‑commerce merchants",
-    "Gaming companies"
+    "Media partners"
   ],
   "competitors": [
     "GOOGL",
     "AMZN",
     "AAPL",
     "MSFT",
-    "TikTok (ByteDance)"
+    "NVDA"
   ],
   "key_products": [
     "Facebook",
     "Instagram",
     "WhatsApp",
     "Messenger",
-    "Meta Ads"
+    "Threads",
+    "Meta Ads Platform",
+    "Meta Quest (VR)",
+    "Meta Portal"
   ],
-  "extracted_at": "2026-07-17 17:00:14",
+  "extracted_at": "2026-07-20 17:24:14",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +44,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ru.wikipedia.org/wiki/Meta_Platforms",
+      "url": "https://www.meta.com/about/",
       "query": "Meta Platforms, Inc. suppliers manufacturers",
-      "snippet": "Meta Platforms , Inc . — американская транснациональная холдинговая компания, владеющая технологическим конгломератом и расположенная в Менло-Парке, К"
+      "snippet": "Meta - Social Media Advertising Platform (Facebook & Instagram)."
     },
     {
       "source": "DuckDuckGo",
       "url": "https://investor.atmeta.com/",
       "query": "Meta Platforms, Inc. suppliers manufacturers",
-      "snippet": "Investor Education Center. Meta for Business. Meta Ads Guide."
+      "snippet": "Meta to Participate in the Morgan Stanley Technology, Media & Telecom Conference. February 25, 2026."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Meta_Platforms",
+      "url": "https://www.meta.com/about/",
       "query": "Meta Platforms, Inc. major customers clients",
-      "snippet": "Meta Platforms , Inc . (doing business as Meta) is an American multinational technology company headquartered in Menlo Park, California. Meta owns and"
+      "snippet": "Meta - Social Media Advertising Platform (Facebook & Instagram)."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/META-Customers",
+      "url": "https://parameter.io/meta-platforms-inc-meta-stock-slides-as-10-billion-anthropic-deal-could-transform-ai-infrastructure-strategy/",
       "query": "Meta Platforms, Inc. major customers clients",
-      "snippet": "Meta Platforms Inc 's Comment on Sales, Marketing and Customers The majority of our marketers use our self-service ad platform to establish accounts a"
+      "snippet": "Meta Platforms , Inc . ( META ) shares traded at $643.99, down 3.09%, after reports linked the company with a potential $10 billion Anthropic computin"
     }
   ]
 }

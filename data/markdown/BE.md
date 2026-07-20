@@ -3,8 +3,8 @@ ticker: BE
 company: Bloom Energy Corporation
 sector: Industrials
 industry: Electrical Equipment & Parts
-extracted_at: 2026-07-17 17:03:34
-last_updated: 2026-07-17
+extracted_at: 2026-07-20 17:27:11
+last_updated: 2026-07-20
 ---
 
 # BE - Bloom Energy Corporation
@@ -12,46 +12,45 @@ last_updated: 2026-07-17
 ## 基本信息
 
 - **所属行业**: Industrials / Electrical Equipment & Parts
-- **提取时间**: 2026-07-17 17:03:34
+- **提取时间**: 2026-07-20 17:27:11
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Ceramic material suppliers (e.g., zirconia, lanthanum strontium manganite)]]
-- [[Electrolyte and anode material manufacturers]]
-- [[Fuel cell stack component suppliers]]
-- [[Power electronics and control system vendors]]
-- [[Natural gas and biogas suppliers]]
+- [[Natural gas suppliers (e.g., Chevron, ExxonMobil)]]
+- [[Biogas producers (e.g., local utilities)]]
+- [[Hydrogen suppliers (e.g., Air Liquide, Linde)]]
+- [[Ceramic material suppliers (e.g., Heraeus, KEMET)]]
+- [[Electrolyte material suppliers (e.g., 3M, DuPont)]]
 
 ### 下游客户
 - [[AMZN]]
-- [[MSFT]]
 - [[GOOGL]]
-- [[CAT]]
-- [[Industrial manufacturing plants (e.g., automotive, semiconductor)]]
+- [[MSFT]]
+- [[INTC]]
+- [[Pacific Gas & Electric]]
 
 ### 竞争对手
 - [[FuelCell Energy]]
 - [[Plug Power]]
 - [[Heliogen]]
-- [[PowerCell]]
-- [[Bloom Energy's own internal R&D teams (e.g., Ion America)]]
+- [[PowerCell Sweden]]
 
 ### 核心产品
-- [[Bloom Energy Server (solid oxide fuel cell stack)]]
-- [[Bloom Energy Power Plant (modular power generation)]]
-- [[Bloom Energy Electrolyzer (hydrogen production)]]
-- [[Bloom Energy Power Modules (scalable power units)]]
-- [[Bloom Energy Hydrogen Production System]]
+- [[Solid Oxide Fuel Cells (SOFC)]]
+- [[On‑site Power Systems]]
+- [[Electrolyzers for Hydrogen Production]]
+- [[Power Generation Units]]
+- [[Fuel Cell Modules]]
 
 ## 数据来源
 
 - [Bloom Energy](https://en.wikipedia.org/wiki/Bloom_Energy_Corporation)
 - [Bloom Energy Corporation suppliers manufacturers](https://en.wikipedia.org/wiki/Bloom_Energy)
-- [Bloom Energy Corporation suppliers manufacturers](https://www.bloomenergy.com/)
-- [Bloom Energy Corporation major customers clients](https://en.wikipedia.org/wiki/Bloom_Energy)
-- [Bloom Energy Corporation major customers clients](https://www.bloomenergy.com/customers/)
+- [Bloom Energy Corporation suppliers manufacturers](https://csimarket.com/stocks/BE-Suppliers)
+- [Bloom Energy Corporation major customers clients](https://www.bloomenergy.com/)
+- [Bloom Energy Corporation major customers clients](https://www.linkedin.com/company/bloom-energy)
 
 ## 元数据
 
-- **更新日期**: 2026-07-17
+- **更新日期**: 2026-07-20

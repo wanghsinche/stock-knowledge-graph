@@ -6,32 +6,32 @@
   "upstream": [
     "INTC",
     "AMD",
+    "NVDA",
     "TSM",
-    "005930.KS",
-    "CSCO"
+    "005930.KS"
   ],
   "downstream": [
-    "U.S. Federal Government",
-    "JPMorgan Chase",
-    "AT&T",
+    "AMZN",
+    "MSFT",
+    "GOOGL",
     "Walmart",
-    "UnitedHealth"
+    "JPMorgan Chase"
   ],
   "competitors": [
     "MSFT",
-    "AMZN",
-    "GOOGL",
+    "Accenture",
     "ORCL",
-    "SAP"
+    "SAP",
+    "CSCO"
   ],
   "key_products": [
     "IBM Cloud",
     "IBM Watson",
     "IBM Power Systems",
-    "IBM Security",
-    "IBM Analytics"
+    "IBM z Systems",
+    "IBM Security"
   ],
-  "extracted_at": "2026-07-17 17:05:48",
+  "extracted_at": "2026-07-20 17:30:09",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,15 +41,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/IBM",
+      "url": "https://csimarket.com/stocks/IBM-Suppliers",
       "query": "International Business Machines Corporation suppliers manufacturers",
-      "snippet": "IBM was founded in 1911 as the Computing-Tabulating-Recording Company (CTR), a holding company of manufacturers of record-keeping and measuring system"
+      "snippet": "Jul 7, 2026 · Sources: International Business Machines Corporation 's official press releases and regulatory filings; CSIMarket.com's supply-chain res"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/IBM-Suppliers",
+      "url": "https://www.dnb.com/business-directory/company-profiles.international_business_machines_corporation.a7c3420a9b68ab2e561b3712b4b491d9.html",
       "query": "International Business Machines Corporation suppliers manufacturers",
-      "snippet": "Jul 7, 2026 · International Business Machines 's Comment on Supply Chain IBM has an extensive integrated supply chain, procuring materials and service"
+      "snippet": "Find company research, competitor information, contact details & financial data for INTERNATIONAL BUSINESS MACHINES CORPORATION of Chicago , Illinois "
     },
     {
       "source": "DuckDuckGo",
@@ -61,7 +61,7 @@
       "source": "DuckDuckGo",
       "url": "https://csimarket.com/stocks/IBM-Customers",
       "query": "International Business Machines Corporation major customers clients",
-      "snippet": "International Business Machines 's Comment on Sales, Marketing and Customers IBM has a significant global presence, operating in more than 175 countri"
+      "snippet": "1 day ago · International Business Machines 's Comment on Sales, Marketing and Customers IBM has a significant global presence, operating in more than"
     }
   ]
 }

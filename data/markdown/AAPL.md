@@ -3,8 +3,8 @@ ticker: AAPL
 company: Apple Inc.
 sector: Technology
 industry: Consumer Electronics
-extracted_at: 2026-07-17 16:59:55
-last_updated: 2026-07-17
+extracted_at: 2026-07-20 17:22:58
+last_updated: 2026-07-20
 ---
 
 # AAPL - Apple Inc.
@@ -12,29 +12,29 @@ last_updated: 2026-07-17
 ## 基本信息
 
 - **所属行业**: Technology / Consumer Electronics
-- **提取时间**: 2026-07-17 16:59:55
+- **提取时间**: 2026-07-20 17:22:58
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Foxconn (Hon Hai Precision Industry)]]
-- [[Pegatron]]
-- [[Wistron]]
+- [[Foxconn]]
 - [[TSM]]
 - [[005930.KS]]
+- [[ASE Technology]]
+- [[Pegatron]]
 
 ### 下游客户
-- [[Individual consumers]]
-- [[Enterprise customers]]
-- [[CAT]]
-- [[Government agencies]]
+- [[iPhone users]]
+- [[iPad users]]
+- [[Mac users]]
+- [[AAPL]]
 - [[AAPL]]
 
 ### 竞争对手
 - [[005930.KS]]
 - [[GOOGL]]
 - [[MSFT]]
-- [[SONY]]
+- [[Huawei]]
 - [[Xiaomi]]
 
 ### 核心产品
@@ -42,7 +42,10 @@ last_updated: 2026-07-17
 - [[iPad]]
 - [[Mac]]
 - [[Apple Watch]]
+- [[Apple TV]]
 - [[AirPods]]
+- [[iOS]]
+- [[macOS]]
 
 ## 数据来源
 
@@ -54,4 +57,4 @@ last_updated: 2026-07-17
 
 ## 元数据
 
-- **更新日期**: 2026-07-17
+- **更新日期**: 2026-07-20

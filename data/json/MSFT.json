@@ -4,18 +4,18 @@
   "sector": "Technology",
   "industry": "Software - Infrastructure",
   "upstream": [
-    "ELLINGTON ELECTRONICS TECHNOLOGY",
-    "FAIRCHILD SEMICONDUCTOR CORPORATION",
-    "FLEXTRONICS",
     "NVDA",
-    "INTC"
+    "TSM",
+    "GOOGL",
+    "Software tool vendors (e.g., GitHub, Visual Studio)",
+    "CAT"
   ],
   "downstream": [
-    "AMZN",
-    "GOOGL",
-    "IBM",
-    "Walmart",
-    "Coca‑Cola"
+    "Enterprise customers (e.g., Fortune 500 companies)",
+    "Government agencies",
+    "DELL",
+    "Consumer users of Windows, Office, Xbox",
+    "CAT"
   ],
   "competitors": [
     "AAPL",
@@ -25,13 +25,13 @@
     "IBM"
   ],
   "key_products": [
-    "Windows",
-    "Microsoft Office",
-    "Azure",
-    "Xbox",
-    "Surface"
+    "Windows operating system",
+    "Microsoft Office suite",
+    "Azure cloud platform",
+    "Microsoft Teams",
+    "Xbox gaming console"
   ],
-  "extracted_at": "2026-07-17 17:00:46",
+  "extracted_at": "2026-07-20 17:23:31",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/MSFT-Suppliers",
+      "url": "https://csimarket.com/stocks/suppliers_glance.php?code=MSFT",
       "query": "Microsoft Corporation suppliers manufacturers",
-      "snippet": "Jul 7, 2026 · Microsoft's Comment on Supply Chain We develop most of our products and services internally through four primary engineering groups. App"
+      "snippet": "News about Microsoft Corporation Contracts. Microsoft 's Comment on Supply Chain. We develop most of our products and services internally through four"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://download.microsoft.com/download/F/3/8/F38AF681-EB3A-4645-A9C4-D4F31B8BA8F2/Microsoft+Top+100+Production+Suppliers.pdf",
+      "url": "https://csimarket.com/stocks/MSFT-Shares-vs-Suppliers",
       "query": "Microsoft Corporation suppliers manufacturers",
-      "snippet": "ELLINGTON ELECTRONICS TECHNOLOGY FAIRCHILD SEMICONDUCTOR CORPORATION FLEXTRONICS FOXCONN FOXLINK FREESCALE GOERTEK, INC. HANNSTAR BOARD HITACHI-LG DAT"
+      "snippet": "Microsoft Corporation Cash Flow Statement. Suppliers .Stock Performance at Corporate Suppliers and Business Partners Within Services-Computer Programm"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/MSFT-Customers",
+      "url": "https://copilot.microsoft.com/",
       "query": "Microsoft Corporation major customers clients",
-      "snippet": "Microsoft customers and markets, results by customer and performance relative to MSFT, by company and industry - CSIMarket"
+      "snippet": "Microsoft Copilot — ваш компаньон для информирования, развлечения и вдохновения. Получайте советы, отзывы и прямые ответы."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.appsruntheworld.com/customers-database/vendors/view/microsoft",
+      "url": "https://www.tradingview.com/symbols/NASDAQ-MSFT/",
       "query": "Microsoft Corporation major customers clients",
-      "snippet": "List of companies using or evaluating Microsoft applications, with details on their revenues, employees, industries, and locations."
+      "snippet": "View live Microsoft Corp . chart to track its stock's price action. Find market predictions, MSFT financials and market news."
     }
   ]
 }

@@ -2,56 +2,56 @@
 ticker: WDC
 company: Western Digital Corporation
 sector: Technology
-industry: Computer Hardware
-extracted_at: 2026-07-17 17:02:06
-last_updated: 2026-07-17
+industry: Computer Storage
+extracted_at: 2026-07-20 17:27:33
+last_updated: 2026-07-20
 ---
 
 # WDC - Western Digital Corporation
 
 ## 基本信息
 
-- **所属行业**: Technology / Computer Hardware
-- **提取时间**: 2026-07-17 17:02:06
+- **所属行业**: Technology / Computer Storage
+- **提取时间**: 2026-07-20 17:27:33
 
 ## 产业链关系
 
 ### 上游供应商
-- [[005930.KS]]
 - [[MU]]
-- [[SK Hynix]]
-- [[Toshiba]]
-- [[TSM]]
+- [[MRVL]]
+- [[Printed circuit board (PCB) suppliers]]
+- [[Packaging and assembly providers]]
+- [[Power management IC suppliers]]
 
 ### 下游客户
 - [[DELL]]
-- [[HPQ]]
-- [[Lenovo]]
+- [[MSFT]]
+- [[MSFT]]
+- [[DELL]]
 - [[AAPL]]
-- [[AMZN]]
 
 ### 竞争对手
 - [[STX]]
-- [[Toshiba]]
+- [[Toshiba Memory]]
 - [[005930.KS]]
 - [[MU]]
-- [[IBM]]
+- [[SK Hynix]]
 
 ### 核心产品
-- [[Hard Disk Drives (HDD)]]
-- [[Solid State Drives (SSD)]]
-- [[Enterprise Storage Systems]]
-- [[Data Storage Solutions]]
-- [[Cloud Storage Platforms]]
+- [[WD Blue SSDs and HDDs]]
+- [[WD Black performance drives]]
+- [[WD Red NAS drives]]
+- [[WD Gold enterprise drives]]
+- [[WD My Passport portable storage]]
 
 ## 数据来源
 
-- [Western Digital](https://en.wikipedia.org/wiki/Western_Digital_Corporation)
-- [Western Digital Corporation suppliers manufacturers](https://csimarket.com/stocks/WDC-Suppliers)
-- [Western Digital Corporation suppliers manufacturers](https://www.westerndigital.com/company/distributors)
-- [Western Digital Corporation major customers clients](https://csimarket.com/stocks/WDC-Customers)
-- [Western Digital Corporation major customers clients](https://data.landbase.com/technology/western-digital/)
+- [WDC](https://en.wikipedia.org/wiki/WDC)
+- [WDC suppliers manufacturers](https://csimarket.com/stocks/WDC-Suppliers)
+- [WDC suppliers manufacturers](https://www.jotrin.com/product/parts/WD12C20)
+- [WDC major customers clients](https://www.marketbeat.com/stocks/NASDAQ/WDC/institutional-ownership/)
+- [WDC major customers clients](https://www.youtube.com/watch?v=X-YeqTpmXww)
 
 ## 元数据
 
-- **更新日期**: 2026-07-17
+- **更新日期**: 2026-07-20

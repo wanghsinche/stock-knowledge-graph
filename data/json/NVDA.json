@@ -12,26 +12,26 @@
   ],
   "downstream": [
     "MSFT",
-    "GOOGL",
     "AMZN",
-    "AAPL",
-    "DELL"
+    "GOOGL",
+    "SONY",
+    "TSLA"
   ],
   "competitors": [
     "AMD",
     "INTC",
     "QCOM",
     "AVGO",
-    "005930.KS"
+    "AAPL"
   ],
   "key_products": [
-    "GeForce GPUs",
-    "Quadro GPUs",
-    "Tesla GPUs",
-    "Jetson SoCs",
-    "CUDA API"
+    "GeForce RTX GPUs",
+    "Quadro RTX GPUs",
+    "Tesla V100 & A100 GPUs",
+    "NVIDIA DGX AI systems",
+    "CUDA software platform"
   ],
-  "extracted_at": "2026-07-17 16:59:45",
+  "extracted_at": "2026-07-20 17:22:48",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,7 +43,7 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Nvidia",
       "query": "NVIDIA Corporation suppliers manufacturers",
-      "snippet": "4 days ago - In August 2025, Nvidia ordered suppliers to halt production of its H20 AI chip following Chinese government directives warning domestic c"
+      "snippet": "1 week ago - In August 2025, Nvidia ordered suppliers to halt production of its H20 AI chip following Chinese government directives warning domestic c"
     },
     {
       "source": "DuckDuckGo",
@@ -53,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Nvidia",
+      "url": "https://www.fool.com/investing/2024/05/02/who-are-nvidias-largest-customers/",
       "query": "NVIDIA Corporation major customers clients",
-      "snippet": "Nvidia held a 92% share of the discrete desktop and laptop GPU market. Nvidia announced it would invest $5 billion in Intel, backing the struggling U."
+      "snippet": "May 2, 2024 · Nvidia 's top customers Nvidia doesn't disclose who its biggest customer is. That's not surprising since that information would be valua"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.linkedin.com/posts/jasoncalacanis_nvidia-is-the-worlds-most-valuable-company-activity-7367360878221877249-Jwbn",
+      "url": "https://stocksandfuturestrading.com/the-complete-list-of-nvidias-suppliers-and-consumers/",
       "query": "NVIDIA Corporation major customers clients",
-      "snippet": "Aug 29, 2025 · Just ONE MYSTERY CUSTOMER. OpenAI or Microsoft, right?) is responsible for 23% of Nvidia's revenue, 23% of revenue in their last quarte"
+      "snippet": "Nov 22, 2024 · NVIDIA has completed one of the most dramatic business transformations in market history — going from a gaming GPU company to the backb"
     }
   ]
 }

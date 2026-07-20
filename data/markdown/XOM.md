@@ -1,57 +1,57 @@
 ---
 ticker: XOM
-company: ExxonMobil Holdings Corporation
+company: Exxon Mobil Corporation
 sector: Energy
 industry: Oil & Gas Integrated
-extracted_at: 2026-07-17 17:06:29
-last_updated: 2026-07-17
+extracted_at: 2026-07-20 17:35:36
+last_updated: 2026-07-20
 ---
 
-# XOM - ExxonMobil Holdings Corporation
+# XOM - Exxon Mobil Corporation
 
 ## 基本信息
 
 - **所属行业**: Energy / Oil & Gas Integrated
-- **提取时间**: 2026-07-17 17:06:29
+- **提取时间**: 2026-07-20 17:35:36
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Saudi Aramco]]
-- [[BP]]
-- [[Chevron]]
-- [[TotalEnergies]]
-- [[Gazprom]]
+- [[Petroleum refining equipment manufacturers]]
+- [[Drilling rig suppliers]]
+- [[Petrochemical feedstock suppliers]]
+- [[Chemical service providers]]
+- [[Oilfield services companies]]
 
 ### 下游客户
-- [[Shell]]
-- [[Chevron]]
-- [[BP]]
-- [[Dow Chemical]]
-- [[United Airlines]]
+- [[Automotive fuel distributors]]
+- [[Airline fuel suppliers]]
+- [[Industrial petrochemical plants]]
+- [[Retail gasoline stations]]
+- [[Chemical manufacturing firms]]
 
 ### 竞争对手
-- [[Chevron]]
-- [[BP]]
-- [[Shell]]
-- [[TotalEnergies]]
+- [[Chevron Corporation]]
+- [[Royal Dutch Shell]]
+- [[BP plc]]
 - [[ConocoPhillips]]
+- [[TotalEnergies SE]]
 
 ### 核心产品
 - [[Crude oil]]
 - [[Natural gas]]
-- [[Gasoline]]
-- [[Jet fuel]]
-- [[Petrochemicals (ethylene, propylene)]]
+- [[Refined petroleum products]]
+- [[Petrochemicals]]
+- [[Liquefied natural gas (LNG)]]
 
 ## 数据来源
 
-- [ExxonMobil](https://en.wikipedia.org/wiki/ExxonMobil_Holdings_Corporation)
-- [ExxonMobil Holdings Corporation suppliers manufacturers](https://seekingalpha.com/symbol/XOM)
-- [ExxonMobil Holdings Corporation suppliers manufacturers](https://www.gurufocus.com/stock/XOM/summary)
-- [ExxonMobil Holdings Corporation major customers clients](https://csimarket.com/stocks/XOM-Customers)
-- [ExxonMobil Holdings Corporation major customers clients](https://corporate.exxonmobil.com/)
+- [XOM](https://en.wikipedia.org/wiki/XOM)
+- [XOM suppliers manufacturers](https://csimarket.com/stocks/XOM-Suppliers)
+- [XOM suppliers manufacturers](https://evidinvest.com/supply-chain/XOM)
+- [XOM major customers clients](https://www.marketbeat.com/stocks/NYSE/XOM/institutional-ownership/)
+- [XOM major customers clients](https://www.whalestream.com/market-tracker/XOM)
 
 ## 元数据
 
-- **更新日期**: 2026-07-17
+- **更新日期**: 2026-07-20

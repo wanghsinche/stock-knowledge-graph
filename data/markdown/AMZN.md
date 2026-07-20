@@ -3,8 +3,8 @@ ticker: AMZN
 company: Amazon.com, Inc.
 sector: Consumer Cyclical
 industry: Internet Retail
-extracted_at: 2026-07-17 17:01:20
-last_updated: 2026-07-17
+extracted_at: 2026-07-20 17:24:05
+last_updated: 2026-07-20
 ---
 
 # AMZN - Amazon.com, Inc.
@@ -12,46 +12,46 @@ last_updated: 2026-07-17
 ## 基本信息
 
 - **所属行业**: Consumer Cyclical / Internet Retail
-- **提取时间**: 2026-07-17 17:01:20
+- **提取时间**: 2026-07-20 17:24:05
 
 ## 产业链关系
 
 ### 上游供应商
 - [[Book publishers]]
-- [[Electronics manufacturers]]
-- [[Apparel brands]]
+- [[Consumer electronics manufacturers]]
+- [[Fashion retailers]]
 - [[Third‑party sellers]]
-- [[AMZN]]
+- [[Hardware suppliers for AWS]]
 
 ### 下游客户
-- [[Individual consumers]]
-- [[Small businesses]]
-- [[Large enterprises]]
-- [[Advertisers]]
-- [[Streaming subscribers]]
+- [[Global consumers]]
+- [[AMZN]]
+- [[Prime members]]
+- [[Third‑party sellers using the Marketplace]]
+- [[AWS enterprise clients]]
 
 ### 竞争对手
 - [[Walmart]]
-- [[eBay]]
 - [[Alibaba]]
+- [[eBay]]
 - [[Shopify]]
-- [[Target]]
+- [[MSFT]]
 
 ### 核心产品
-- [[E‑commerce marketplace]]
-- [[Amazon Web Services (AWS)]]
+- [[Amazon.com e‑commerce platform]]
 - [[Amazon Prime Video]]
-- [[Amazon Advertising]]
+- [[Amazon Web Services]]
+- [[Amazon Echo/Alexa]]
 - [[Amazon Kindle]]
 
 ## 数据来源
 
 - [Amazon (company)](https://en.wikipedia.org/wiki/Amazon.com,_Inc.)
-- [Amazon.com, Inc. suppliers manufacturers](https://supply.amazon.com/)
 - [Amazon.com, Inc. suppliers manufacturers](https://www.thesellingguys.com/online-sourcing-buying-wholesalers-distributors/)
+- [Amazon.com, Inc. suppliers manufacturers](https://supply.amazon.com/)
 - [Amazon.com, Inc. major customers clients](https://ir.aboutamazon.com/)
-- [Amazon.com, Inc. major customers clients](https://www.amazon.com/Amazon-eGift-Card-Logo/dp/B07PCMWTSG)
+- [Amazon.com, Inc. major customers clients](https://www.amazon.com/stores/OatsOvernight/page/99DAFB76-60AF-4F63-A981-C10B9DE06094)
 
 ## 元数据
 
-- **更新日期**: 2026-07-17
+- **更新日期**: 2026-07-20

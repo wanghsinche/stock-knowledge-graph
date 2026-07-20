@@ -6,32 +6,32 @@
   "upstream": [
     "INTC",
     "AMD",
-    "NVDA",
     "DELL",
+    "HPQ",
     "CSCO"
   ],
   "downstream": [
-    "Bank of America",
-    "UnitedHealth Group",
     "Walmart",
-    "Airbnb",
-    "U.S. Department of Defense"
+    "JPMorgan Chase",
+    "AT&T",
+    "Verizon",
+    "Bank of America"
   ],
   "competitors": [
     "MSFT",
-    "AMZN",
-    "IBM",
     "SAP",
-    "GOOGL"
+    "IBM",
+    "CRM",
+    "AMZN"
   ],
   "key_products": [
     "Oracle Database",
     "Oracle Cloud Infrastructure",
-    "Oracle Autonomous Database",
     "Oracle Fusion Applications",
-    "Oracle ERP Cloud"
+    "Oracle Autonomous Database",
+    "Oracle E-Business Suite"
   ],
-  "extracted_at": "2026-07-17 17:02:31",
+  "extracted_at": "2026-07-20 17:24:37",
   "sources": [
     {
       "source": "Wikipedia",
@@ -53,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.oracle.com/",
+      "url": "https://en.wikipedia.org/wiki/Oracle_Corporation",
       "query": "Oracle Corporation major customers clients",
-      "snippet": "Oracle offers a comprehensive and fully integrated stack of cloud applications and cloud platform services.."
+      "snippet": "Oracle Corporation is an American multinational technology company headquartered in Austin, Texas. Co-founded in Santa Clara, California, in 1977 by B"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/ORCL/",
+      "url": "https://www.oracle.com/",
       "query": "Oracle Corporation major customers clients",
-      "snippet": "Find the latest Oracle Corporation (ORCL) stock quote, history, news and other vital information to help you with your stock trading and investing."
+      "snippet": "Oracle offers a comprehensive and fully integrated stack of cloud applications and cloud platform services.."
     }
   ]
 }

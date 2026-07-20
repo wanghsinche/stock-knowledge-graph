@@ -7,31 +7,31 @@
     "INTC",
     "AVGO",
     "QCOM",
-    "TXN",
-    "NVDA"
+    "NVDA",
+    "TXN"
   ],
   "downstream": [
     "AT&T",
     "Verizon",
-    "Comcast",
-    "Vodafone",
-    "Deutsche Telekom"
+    "GOOGL",
+    "AMZN",
+    "MSFT"
   ],
   "competitors": [
     "JNPR",
-    "ANET",
     "Huawei",
+    "ANET",
     "Nokia",
     "Ericsson"
   ],
   "key_products": [
-    "Routers",
-    "Switches",
-    "Firewalls",
+    "Cisco routers",
+    "Cisco switches",
+    "Cisco security appliances",
     "Webex",
     "Meraki"
   ],
-  "extracted_at": "2026-07-16 17:11:51",
+  "extracted_at": "2026-07-20 17:36:11",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ru.wikipedia.org/wiki/Cisco",
-      "query": "Cisco Systems, Inc. suppliers manufacturers",
-      "snippet": "Cisco Systems , «Сиско Системз» — американская транснациональная компания, разрабатывающая и продающая сетевое оборудование, предназначенное в основно"
-    },
-    {
-      "source": "DuckDuckGo",
       "url": "https://www.cisco.com/",
       "query": "Cisco Systems, Inc. suppliers manufacturers",
-      "snippet": "Cisco is a worldwide technology leader powering an inclusive future for all. Learn more about our products, services, solutions, and innovations.Disco"
+      "snippet": "Cisco is a worldwide technology leader powering an inclusive future for all. Learn more about our products, services, solutions, and innovations. Cisc"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ru.wikipedia.org/wiki/Cisco",
-      "query": "Cisco Systems, Inc. major customers clients",
-      "snippet": "Cisco Systems , «Сиско Системз» — американская транснациональная компания, разрабатывающая и продающая сетевое оборудование, предназначенное в основно"
+      "url": "https://www.linkedin.com/company/cisco",
+      "query": "Cisco Systems, Inc. suppliers manufacturers",
+      "snippet": "Cisco Meraki Systems Manager. Cisco Meraki Systems Manager. Mobile Device Management (MDM) Software. Cisco Secure Malware Analytics, Threat Intelligen"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.cisco.com/",
+      "url": "https://www.cisco.com/site/us/en/about/case-studies-customer-stories/index.html",
       "query": "Cisco Systems, Inc. major customers clients",
-      "snippet": "Cisco is a worldwide technology leader powering an inclusive future for all.Join us to take advantage of the latest networking opportunities with Cisc"
+      "snippet": "Read Cisco case studies and customer success stories highlighting the ways organizations have realized their goals and helped drive outcomes."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.cisco.com/c/en/us/about/case-studies-customer-success-stories/customer-stories-listing.html",
+      "query": "Cisco Systems, Inc. major customers clients",
+      "snippet": "Customer case studies highlighting customer and partner success with Cisco technology and services. Find your Industry."
     }
   ]
 }

@@ -4,18 +4,18 @@
   "sector": "Technology",
   "industry": "Semiconductors",
   "upstream": [
-    "Silicon wafer suppliers",
-    "Photolithography equipment manufacturers",
-    "Chemical and process material suppliers",
-    "EDA tool providers",
-    "Packaging and testing service providers"
+    "TSM",
+    "005930.KS",
+    "GlobalFoundries",
+    "UMC",
+    "SMIC"
   ],
   "downstream": [
+    "AMZN",
+    "GOOGL",
     "MSFT",
-    "CAT",
-    "CSCO",
-    "TSLA",
-    "AAPL"
+    "Alibaba Cloud",
+    "Huawei Cloud"
   ],
   "competitors": [
     "AVGO",
@@ -25,13 +25,13 @@
     "TXN"
   ],
   "key_products": [
-    "Storage controller chips",
-    "Ethernet and networking ASICs",
-    "Wi‑Fi and Bluetooth modules",
-    "5G and LTE modems",
-    "System‑on‑chip (SoC) solutions for automotive and IoT"
+    "Storage controllers",
+    "Network processors",
+    "Ethernet controllers",
+    "Wi-Fi chips",
+    "5G modems"
   ],
-  "extracted_at": "2026-07-17 17:01:56",
+  "extracted_at": "2026-07-20 17:24:25",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,9 +47,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.marvell.com/",
+      "url": "https://csimarket.com/stocks/MRVL-Suppliers",
       "query": "Marvell Technology, Inc. suppliers manufacturers",
-      "snippet": "Watch the latest. Marvell Essential Technology Videos. Marvell designs custom silicon tailored for any application and offers the industry’s most comp"
+      "snippet": "Jul 7, 2026 · Marvell Technology Inc 's Suppliers recorded an increase in sales by 27.29 % year on year in Q1 2026, sequentially sales grew by 12.95 %"
     },
     {
       "source": "DuckDuckGo",

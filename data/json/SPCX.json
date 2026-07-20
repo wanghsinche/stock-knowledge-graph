@@ -1,67 +1,67 @@
 {
   "ticker": "SPCX",
   "company_name": "Space Exploration Technologies Corp.",
-  "sector": "Industrials / Aerospace & Defense",
+  "sector": "Industrials",
   "industry": "Aerospace & Defense",
   "upstream": [
-    "Boeing",
-    "Lockheed Martin",
-    "Northrop Grumman",
-    "Aerojet Rocketdyne",
-    "SpaceX's own manufacturing facilities"
+    "Rocket engine manufacturers (e.g., Aerojet Rocketdyne)",
+    "Propellant suppliers (e.g., Linde, Aerojet Rocketdyne)",
+    "Avionics suppliers (e.g., Honeywell, Rockwell Collins)",
+    "Satellite component suppliers (e.g., Lockheed Martin, Boeing)",
+    "Aerospace component suppliers (e.g., Airbus, Northrop Grumman)"
   ],
   "downstream": [
     "NASA",
     "U.S. Department of Defense",
-    "Commercial satellite operators",
-    "AMZN",
-    "SpaceX's own Starlink customers"
+    "INTC",
+    "Starlink end‑users (residential & enterprise)",
+    "GOOGL"
   ],
   "competitors": [
+    "United Launch Alliance",
+    "Arianespace",
     "Blue Origin",
-    "Boeing",
-    "Lockheed Martin",
-    "Northrop Grumman",
-    "Virgin Galactic"
+    "Rocket Lab",
+    "Virgin Orbit"
   ],
   "key_products": [
     "Falcon 9 launch vehicle",
     "Falcon Heavy launch vehicle",
     "Starship launch vehicle",
-    "Dragon spacecraft",
-    "Starlink satellite constellation"
+    "Starlink satellite constellation",
+    "Satellite‑based broadband service"
   ],
-  "extracted_at": "2026-07-17 17:01:11",
+  "extracted_at": "2026-07-20 17:23:54",
   "sources": [
     {
       "source": "Wikipedia",
-      "url": "",
-      "title": "",
-      "snippet": ""
+      "url": "https://en.wikipedia.org/wiki/Space_Exploration_Technologies_Corp.",
+      "title": "SpaceX",
+      "snippet": "Space Exploration Technologies Corp., doing business as SpaceX, is an American spaceflight, telecommunications, and artificial intelligence company headquartered at the Starbase development site in St"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www3.nasa.gov/specials/ESDSuppliersMap/",
+      "url": "https://www.tradingview.com/symbols/NASDAQ-SPCX/",
       "query": "Space Exploration Technologies Corp. suppliers manufacturers",
-      "snippet": "2019 Deep Space Exploration Systems Supplier Locations State Information:"
+      "snippet": "Space Exploration Technologies Corp . ( SpaceX ) designs, manufactures , and launches advanced rockets and spacecraft, including the fully reusable St"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://grokipedia.com/page/Publicly_traded_SpaceX_suppliers",
+      "url": "https://finance.yahoo.com/quote/SPCX/",
       "query": "Space Exploration Technologies Corp. suppliers manufacturers",
-      "snippet": "Publicly traded SpaceX suppliers refer to companies listed on major stock exchanges that provide components, services, or related resources to SpaceX,"
+      "snippet": "Space Exploration Technologies Corp . provides satellite-based broadband services in the United States, Ireland, Canada, and internationally.Its Space"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/SpaceX",
       "query": "Space Exploration Technologies Corp. major customers clients",
-      "snippet": "Space Exploration Technologies Corp ., doing business as SpaceX, is an American spaceflight, telecommunications, and artificial intelligence company h"
+      "snippet": "Space Exploration Technologies Corporation , doing business as SpaceX , is an American spaceflight, telecommunications, and artificial intelligence co"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://nypost.com/2026/06/04/business/jpmorgans-jamie-dimon-to-pitch-elon-musks-spacex-ipo-to-uber-rich-clients/",
+      "url": "https://www.tradingview.com/symbols/NASDAQ-SPCX/",
       "query": "Space Exploration Technologies Corp. major customers clients",
-      "snippet": "Jun 4, 2026 · JPMorgan Chase CEO Jamie Dimon will lead an unprecedented nationwide pitch for SpaceX’s massive initial public offering to thousands of "
+      "snippet": "Space Exploration Technologies Corp . ( SpaceX ) designs, manufactures, and launches advanced rockets and spacecraft, including the fully reusable Sta"
     }
   ]
 }

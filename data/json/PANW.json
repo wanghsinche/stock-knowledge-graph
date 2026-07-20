@@ -2,36 +2,36 @@
   "ticker": "PANW",
   "company_name": "Palo Alto Networks, Inc.",
   "sector": "Technology / Software - Infrastructure",
-  "industry": "Cybersecurity / Network Security",
+  "industry": "Cybersecurity",
   "upstream": [
-    "INTC",
-    "QCOM",
+    "AMD",
     "AVGO",
     "NVDA",
+    "Manufacturing partners (e.g., Foxconn)",
     "MSFT"
   ],
   "downstream": [
-    "Wipro",
-    "Tyson Foods",
-    "Bank of America",
-    "Coca-Cola",
-    "MSFT"
+    "Fortune 100 enterprises",
+    "Government agencies",
+    "Financial institutions",
+    "Healthcare providers",
+    "Retail chains"
   ],
   "competitors": [
     "CSCO",
     "Fortinet",
-    "Check Point",
-    "CrowdStrike",
-    "Sophos"
+    "Check Point Software Technologies",
+    "JNPR",
+    "CrowdStrike"
   ],
   "key_products": [
     "Next-Generation Firewall",
     "Prisma Cloud",
     "Cortex XDR",
-    "Unit 42",
-    "Panorama"
+    "Unit 42 threat intelligence",
+    "Firewalls"
   ],
-  "extracted_at": "2026-07-17 17:05:37",
+  "extracted_at": "2026-07-20 17:34:32",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
+      "url": "https://paloaltonetworks.my.site.com/NextWavePartnerProgram/s/partnerlocator",
+      "query": "Palo Alto Networks, Inc. suppliers manufacturers",
+      "snippet": "Distributors Extend Palo Alto Networks partners reach to address customer demand for Palo Alto Networks security solutions, services and support on a "
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.linkedin.com/posts/shreyas-cholachgud_inside-palo-alto-networks-the-key-companies-activity-7299791184602808321-MaWo",
+      "query": "Palo Alto Networks, Inc. suppliers manufacturers",
+      "snippet": "Palo Alto Networks relies on several third-party companies for manufacturing its hardware appliances, processors, and other components."
+    },
+    {
+      "source": "DuckDuckGo",
       "url": "https://www.paloaltonetworks.com/",
-      "query": "Palo Alto Networks, Inc. suppliers manufacturers",
-      "snippet": "Palo Alto Networks : Cloud Security Leader in First-Ever CNAPP Report. The Forrester Wave™: Cloud Workload Security, Q1 2024. Frost Radar™: Cloud Secu"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://csimarket.com/news/earnings/_1_6_billion_tax_provisions_drive_earnings_surge_for_palo_alto_networks_inc-2024-02-21204422",
-      "query": "Palo Alto Networks, Inc. suppliers manufacturers",
-      "snippet": "Palo Alto Networks Inc Executive Officers. Economic Indicators. Fundamentals. Palo Alto Networks Inc Cash Flow Statement. Suppliers ."
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.paloaltonetworks.com/customers",
       "query": "Palo Alto Networks, Inc. major customers clients",
-      "snippet": "Discover how leading global brands like Wipro and Tyson Foods secure their operations with Palo Alto Networks . Explore customer success stories in cy"
+      "snippet": "Palo Alto Networks : Cloud Security Leader in First-Ever CNAPP ReportFrostRadar™ names Palo Alto Networks a CNAPP LeaderOverall leader : 2024 Leadersh"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.appsruntheworld.com/customers-database/vendors/view/palo-alto-networks",
+      "url": "https://habr.com/ru/companies/mws/articles/280866/",
       "query": "Palo Alto Networks, Inc. major customers clients",
-      "snippet": "List of companies using or evaluating Palo Alto Networks applications, with details on their revenues, employees, industries, and locations."
+      "snippet": "Компания Palo Alto Networks была основана в 2005 году Ниром Зуком (Nir Zuk) и группой старших инженеров компаний, лидирующих в сфере сетевой безопасно"
     }
   ]
 }

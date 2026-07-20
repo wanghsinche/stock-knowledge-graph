@@ -4,34 +4,34 @@
   "sector": "Communication Services",
   "industry": "Telecom Services",
   "upstream": [
-    "Nokia",
     "Ericsson",
+    "Nokia",
+    "Huawei",
     "CSCO",
-    "JNPR",
-    "QCOM"
+    "JNPR"
   ],
   "downstream": [
     "Enterprise customers",
-    "Small business customers",
-    "Residential customers",
     "Government agencies",
-    "Media and entertainment companies"
+    "Residential consumers",
+    "Small and medium businesses",
+    "Content providers"
   ],
   "competitors": [
     "CAT",
     "T-Mobile US",
     "Comcast",
     "CAT",
-    "Dish Network"
+    "CenturyLink"
   ],
   "key_products": [
-    "Wireless services",
-    "Fiber internet",
-    "AT&T TV",
-    "Broadband",
-    "Cloud and data services"
+    "Wireless voice and data services",
+    "Fiber‑optic broadband",
+    "Digital TV (AT&T TV)",
+    "Enterprise networking solutions",
+    "Cloud and cybersecurity services"
   ],
-  "extracted_at": "2026-07-06 18:15:53",
+  "extracted_at": "2026-07-20 17:30:17",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://about.att.com/sites/supplier_inclusivity/vendor",
+      "url": "https://finance.yahoo.com/quote/T/",
       "query": "AT&T Inc. suppliers manufacturers",
-      "snippet": "Over the years, AT & T Supplier Inclusivity has engaged suppliers to help with the evolution and success of our Global Supply Chain. We connect with c"
+      "snippet": "Find the latest AT & T Inc . ( T ) stock quote, history, news and other vital information to help you with your stock trading and investing. AT & T In"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://attsuppliers.com/Home/ProspectiveRegister",
+      "url": "https://www.alibaba.com/",
       "query": "AT&T Inc. suppliers manufacturers",
-      "snippet": "The prospective supplier registration is an easy process, intended for use by suppliers seeking to do business with AT & T . Please note that registra"
+      "snippet": "Find quality Manufacturers , Suppliers , Exporters, Importers, Buyers, Wholesalers, Products and Trade Leads from our award-winning International Trad"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/AT&T",
+      "query": "AT&T Inc. major customers clients",
+      "snippet": "AT & T is the world's third-largest telecommunications company by revenue, the third-largest wireless carrier in the United States behind T -Mobile an"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://investors.att.com/~/media/Files/A/ATT-IR-V2/financial-reports/annual-reports/2025/2025-annual-report-complete.pdf",
       "query": "AT&T Inc. major customers clients",
       "snippet": "Business Wireline – Our Business Wireline business unit provides services to business customers , including multinational corporations, small and mid-"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://expandedramblings.com/index.php/att-statistics/",
-      "query": "AT&T Inc. major customers clients",
-      "snippet": "Feb 24, 2026 · This page highlights the most useful AT & T metrics that readers search for—revenue, profit, free cash flow, wireless subscribers, fibe"
     }
   ]
 }

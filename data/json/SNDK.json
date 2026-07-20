@@ -1,37 +1,37 @@
 {
   "ticker": "SNDK",
   "company_name": "SanDisk Corporation",
-  "sector": "Technology",
-  "industry": "Computer Hardware",
+  "sector": "Technology / Computer Hardware",
+  "industry": "Semiconductor / Storage Devices",
   "upstream": [
+    "TSM",
     "005930.KS",
     "MU",
     "SK Hynix",
-    "WDC",
-    "Toshiba Memory"
+    "INTC"
   ],
   "downstream": [
     "AAPL",
+    "MSFT",
     "DELL",
     "HPQ",
-    "MSFT",
     "SONY"
   ],
   "competitors": [
-    "Kingston Technology",
-    "Lexar Corp.",
+    "005930.KS",
     "MU",
-    "Corsair",
-    "WDC"
+    "WDC",
+    "Kingston Technology",
+    "STX"
   ],
   "key_products": [
-    "NAND flash memory chips",
-    "Solid‑state drives (SSDs)",
-    "USB flash drives",
-    "SD and microSD cards",
-    "External storage devices"
+    "Solid State Drives (SSDs)",
+    "Flash Memory Cards",
+    "USB Flash Drives",
+    "External Hard Drives",
+    "Embedded Flash Memory"
   ],
-  "extracted_at": "2026-07-17 16:59:36",
+  "extracted_at": "2026-07-20 17:22:39",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,15 +41,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.sandisk.com/en-us/company/distributors",
+      "url": "https://www.sandisk.com/company/distributors",
       "query": "Sandisk Corporation suppliers manufacturers",
-      "snippet": "Find authorized SanDisk distributors and channel partners worldwide for trusted storage solutions and products."
+      "snippet": "Region · Loading Region · Country/Area · Loading Country/Area · Brand · Loading Brand · Distributors | SanDisk"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.accio.com/supplier/sandisk-manufacturer",
       "query": "Sandisk Corporation suppliers manufacturers",
-      "snippet": "3 days ago · Selecting top SanDisk suppliers requires comparison across key performance and service metrics. Below is a detailed table of leading supp"
+      "snippet": "June 4, 2026 - SanDisk was founded in 1988 as SunDisk and became part of Western Digital in 2016. In 2025, Western Digital spun off its flash storage "
     },
     {
       "source": "DuckDuckGo",
@@ -59,9 +59,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.appsruntheworld.com/customers-database/vendors/view/sandisk",
+      "url": "https://csimarket.com/stocks/SNDK-Customers",
       "query": "Sandisk Corporation major customers clients",
-      "snippet": "List of companies using or evaluating SanDisk applications, with details on their revenues, employees, industries, and locations."
+      "snippet": "Sandisk customers and markets, results by customer and performance relative to SNDK, by company and industry - CSIMarket"
     }
   ]
 }
