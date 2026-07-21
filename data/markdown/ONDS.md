@@ -1,57 +1,57 @@
 ---
 ticker: ONDS
 company: Ondas Inc.
-sector: Technology
-industry: Communication Equipment
-extracted_at: 2026-07-20 17:36:27
-last_updated: 2026-07-20
+sector: Technology / Communication Equipment
+industry: Defense Drone & Autonomous Systems
+extracted_at: 2026-07-21 17:15:52
+last_updated: 2026-07-21
 ---
 
 # ONDS - Ondas Inc.
 
 ## 基本信息
 
-- **所属行业**: Technology / Communication Equipment
-- **提取时间**: 2026-07-20 17:36:27
+- **所属行业**: Technology / Communication Equipment / Defense Drone & Autonomous Systems
+- **提取时间**: 2026-07-21 17:15:52
 
 ## 产业链关系
 
 ### 上游供应商
-- [[INTC]]
-- [[QCOM]]
-- [[AVGO]]
-- [[NVDA]]
 - [[TXN]]
+- [[ADI]]
+- [[NXP Semiconductors]]
+- [[STMicroelectronics]]
+- [[Honeywell Aerospace]]
 
 ### 下游客户
-- [[Defense contractors]]
-- [[CAT]]
-- [[Aerospace OEMs]]
-- [[Government agencies]]
-- [[Private aviation companies]]
+- [[U.S. Department of Defense]]
+- [[NATO]]
+- [[U.S. Air Force]]
+- [[U.S. Navy]]
+- [[Commercial Telecom Operators]]
 
 ### 竞争对手
-- [[CSCO]]
-- [[JNPR]]
-- [[ANET]]
-- [[HPQ]]
-- [[Huawei]]
+- [[DJI]]
+- [[AeroVironment]]
+- [[Parrot]]
+- [[Northrop Grumman]]
+- [[Raytheon Technologies]]
 
 ### 核心产品
-- [[Wireless communication equipment]]
-- [[Autonomous drone systems]]
-- [[5G base stations]]
-- [[RF modules]]
-- [[Signal processing units]]
+- [[Unmanned Aerial Vehicles (UAVs)]]
+- [[Autonomous Drone Systems]]
+- [[Secure Communication Networks]]
+- [[Satellite Communication Equipment]]
+- [[Defense Electronics]]
 
 ## 数据来源
 
 - 
 - [Ondas Inc. suppliers manufacturers](https://csimarket.com/stocks/ONDS-Suppliers)
 - [Ondas Inc. suppliers manufacturers](https://www.hawkmontresearch.com/post/ondas-inc-onds-the-supplier-ecosystem-report)
-- [Ondas Inc. major customers clients](https://reportify.ai/companies/US:ONDS/documents)
-- [Ondas Inc. major customers clients](https://finviz.com/news/278627/ondas-hosts-oas-investor-day-ups-2026-revenue-target-to-170-180-million)
+- [Ondas Inc. major customers clients](https://csimarket.com/stocks/ONDS-Customers)
+- [Ondas Inc. major customers clients](https://www.ondas.com/?lang=en)
 
 ## 元数据
 
-- **更新日期**: 2026-07-20
+- **更新日期**: 2026-07-21

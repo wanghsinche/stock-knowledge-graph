@@ -5,33 +5,33 @@
   "industry": "Internet Content & Information",
   "upstream": [
     "TSM",
+    "005930.KS",
     "INTC",
     "NVDA",
-    "QCOM",
-    "005930.KS"
+    "QCOM"
   ],
   "downstream": [
-    "AMZN",
-    "Facebook",
-    "Walmart",
-    "MSFT",
-    "NFLX"
+    "Advertisers",
+    "Android device manufacturers",
+    "GOOGL",
+    "YouTube content creators",
+    "GOOGL"
   ],
   "competitors": [
     "MSFT",
     "AMZN",
-    "Facebook",
     "AAPL",
+    "META",
     "Tencent"
   ],
   "key_products": [
     "Google Search",
-    "YouTube",
     "Google Ads",
     "Google Cloud",
-    "Android OS"
+    "Android OS",
+    "YouTube"
   ],
-  "extracted_at": "2026-07-20 17:25:01",
+  "extracted_at": "2026-07-21 17:10:16",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/GOOG-Suppliers",
+      "url": "https://en.wikipedia.org/wiki/Alphabet_Inc.",
       "query": "Alphabet Inc. suppliers manufacturers",
-      "snippet": "Jul 7, 2026 · Alphabet Inc 's Comment on Supply Chain We rely on third parties to manufacture many of our assemblies and finished products, and we hav"
+      "snippet": "Alphabet Inc . is an American multinational technology conglomerate holding company headquartered in Mountain View, California. It was created through"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://evidinvest.com/supply-chain/GOOGL",
+      "url": "https://ru.wikipedia.org/wiki/Alphabet",
       "query": "Alphabet Inc. suppliers manufacturers",
-      "snippet": "Who supplies Alphabet (Google) and who buys from it? Mapped suppliers , customers, partners, and competitors of GOOGL, every relationship anchored to "
+      "snippet": "Alphabet Inc . — холдинговая компания, управляющая компанией Google Inc и её дочерними структурами, а также рядом стартапов. Штаб-квартира расположена"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://csimarket.com/stocks/GOOGL-Customers",
       "query": "Alphabet Inc. major customers clients",
-      "snippet": "Feb 9, 2026 · Alphabet Inc customers and markets, results by customer and performance relative to GOOGL, by company and industry - CSIMarket"
+      "snippet": "Feb 9, 2026 · Updated on: Focus of this report: Alphabet Inc ’s corporate clients . For your research, we’ve provided 9 tables on Alphabet Inc corpora"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://csimarket.com/stocks/GOOG-Customers",
       "query": "Alphabet Inc. major customers clients",
-      "snippet": "Alphabet Inc customers and markets, results by customer and performance relative to GOOG, by company and industry - CSIMarket"
+      "snippet": "For your research, we’ve provided 9 tables on Alphabet Inc corporate clients . You can find them in the navigation menu under Customers & Markets. To "
     }
   ]
 }

@@ -8,30 +8,30 @@
     "005930.KS",
     "GlobalFoundries",
     "INTC",
-    "MU"
+    "UMC"
   ],
   "downstream": [
     "AAPL",
     "005930.KS",
-    "Xiaomi Corp.",
-    "Huawei Technologies",
-    "Ericsson"
+    "Huawei",
+    "Xiaomi",
+    "GOOGL"
   ],
   "competitors": [
     "MediaTek",
+    "AVGO",
+    "INTC",
     "AAPL",
-    "005930.KS",
-    "Huawei",
-    "INTC"
+    "005930.KS"
   ],
   "key_products": [
     "Snapdragon mobile processors",
-    "5G modems",
-    "AI chips",
-    "RF front‑end modules",
-    "Mobile SoCs"
+    "5G modems (Snapdragon X series)",
+    "AI chips (Snapdragon Neural Processing Engine)",
+    "RF front‑end solutions",
+    "Snapdragon XR and automotive SoCs"
   ],
-  "extracted_at": "2026-07-17 17:07:14",
+  "extracted_at": "2026-07-21 17:16:50",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://companiesrelated.com/company/qualcomm",
-      "query": "QUALCOMM Incorporated suppliers manufacturers",
-      "snippet": "Supply Chain Relationships with QUALCOMM Incorporated .TSMC is Qualcomm 's primary wafer fabrication partner, manufacturing the majority of Snapdragon"
-    },
-    {
-      "source": "DuckDuckGo",
       "url": "https://www.qualcomm.com/company",
       "query": "QUALCOMM Incorporated suppliers manufacturers",
       "snippet": "Review Qualcomm 's corporate history, values, and history of innovation. Qualcomm helps transform industries, create new experiences, and support the "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://companiesrelated.com/company/qualcomm",
-      "query": "QUALCOMM Incorporated major customers clients",
-      "snippet": "Qualcomm Ventures participated in Xiaomi's early funding rounds beginning in 2011, establishing a strategic investment relationship that also supports"
+      "url": "https://stockoscope.com/stock/qcom",
+      "query": "QUALCOMM Incorporated suppliers manufacturers",
+      "snippet": "QUALCOMM Incorporated is a company dedicated to developing and bringing to market fundamental technologies crucial for the global wireless communicati"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.qualcomm.com/company",
       "query": "QUALCOMM Incorporated major customers clients",
       "snippet": "Review Qualcomm 's corporate history, values, and history of innovation. Qualcomm helps transform industries, create new experiences, and support the "
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.linkedin.com/company/qualcomm",
+      "query": "QUALCOMM Incorporated major customers clients",
+      "snippet": "Qualcomm | 2,300,563 followers on LinkedIn. Inspired by 250 years of American ingenuity, we build technologies that expand what’s possible. From wirel"
     }
   ]
 }

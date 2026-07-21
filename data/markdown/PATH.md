@@ -3,8 +3,8 @@ ticker: PATH
 company: UiPath, Inc.
 sector: Technology / Software - Infrastructure
 industry: Robotic Process Automation (RPA)
-extracted_at: 2026-07-20 17:33:23
-last_updated: 2026-07-20
+extracted_at: 2026-07-21 17:15:31
+last_updated: 2026-07-21
 ---
 
 # PATH - UiPath, Inc.
@@ -12,7 +12,7 @@ last_updated: 2026-07-20
 ## 基本信息
 
 - **所属行业**: Technology / Software - Infrastructure / Robotic Process Automation (RPA)
-- **提取时间**: 2026-07-20 17:33:23
+- **提取时间**: 2026-07-21 17:15:31
 
 ## 产业链关系
 
@@ -20,22 +20,22 @@ last_updated: 2026-07-20
 - [[MSFT]]
 - [[AMZN]]
 - [[GOOGL]]
-- [[ORCL]]
-- [[IBM]]
+- [[Docker]]
+- [[Kubernetes]]
 
 ### 下游客户
-- [[MSFT]]
-- [[AMZN]]
-- [[GOOGL]]
-- [[Walmart]]
+- [[JPMorgan Chase]]
 - [[Bank of America]]
+- [[Walmart]]
+- [[General Electric]]
+- [[Accenture]]
 
 ### 竞争对手
 - [[Automation Anywhere]]
 - [[Blue Prism]]
 - [[NICE]]
 - [[Pegasystems]]
-- [[Kofax]]
+- [[WorkFusion]]
 
 ### 核心产品
 - [[UiPath Studio]]
@@ -47,11 +47,11 @@ last_updated: 2026-07-20
 ## 数据来源
 
 - 
-- [UiPath, Inc. suppliers manufacturers](https://investorshub.advfn.com/UiPath-Inc-PATH-40502)
-- [UiPath, Inc. suppliers manufacturers](https://www.uipath.com/blog/product-and-updates/increased-developer-productivity-2023-10-release)
-- [UiPath, Inc. major customers clients](https://www.uipath.com/newsroom)
-- [UiPath, Inc. major customers clients](https://www.linkedin.com/company/uipath)
+- [UiPath, Inc. suppliers manufacturers](https://csimarket.com/stocks/PATH-Suppliers)
+- [UiPath, Inc. suppliers manufacturers](https://www.uipath.com/partners)
+- [UiPath, Inc. major customers clients](https://bloomberry.com/data/uipath/)
+- [UiPath, Inc. major customers clients](https://data.landbase.com/technology/uipath/)
 
 ## 元数据
 
-- **更新日期**: 2026-07-20
+- **更新日期**: 2026-07-21

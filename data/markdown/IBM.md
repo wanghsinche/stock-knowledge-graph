@@ -3,8 +3,8 @@ ticker: IBM
 company: International Business Machines Corporation
 sector: Technology
 industry: Information Technology Services
-extracted_at: 2026-07-20 17:30:09
-last_updated: 2026-07-20
+extracted_at: 2026-07-21 17:12:31
+last_updated: 2026-07-21
 ---
 
 # IBM - International Business Machines Corporation
@@ -12,46 +12,46 @@ last_updated: 2026-07-20
 ## 基本信息
 
 - **所属行业**: Technology / Information Technology Services
-- **提取时间**: 2026-07-20 17:30:09
+- **提取时间**: 2026-07-21 17:12:31
 
 ## 产业链关系
 
 ### 上游供应商
 - [[INTC]]
-- [[AMD]]
 - [[NVDA]]
-- [[TSM]]
-- [[005930.KS]]
+- [[CSCO]]
+- [[DELL]]
+- [[QCOM]]
 
 ### 下游客户
-- [[AMZN]]
-- [[MSFT]]
-- [[GOOGL]]
-- [[Walmart]]
-- [[JPMorgan Chase]]
+- [[U.S. Federal Government]]
+- [[Bank of America]]
+- [[UnitedHealth Group]]
+- [[General Electric]]
+- [[NASA]]
 
 ### 竞争对手
 - [[MSFT]]
 - [[Accenture]]
 - [[ORCL]]
 - [[SAP]]
-- [[CSCO]]
+- [[AMZN]]
 
 ### 核心产品
 - [[IBM Cloud]]
-- [[IBM Watson]]
-- [[IBM Power Systems]]
-- [[IBM z Systems]]
+- [[Watson AI]]
 - [[IBM Security]]
+- [[IBM Power Systems]]
+- [[IBM zSeries]]
 
 ## 数据来源
 
 - [IBM](https://en.wikipedia.org/wiki/International_Business_Machines_Corporation)
 - [International Business Machines Corporation suppliers manufacturers](https://csimarket.com/stocks/IBM-Suppliers)
-- [International Business Machines Corporation suppliers manufacturers](https://www.dnb.com/business-directory/company-profiles.international_business_machines_corporation.a7c3420a9b68ab2e561b3712b4b491d9.html)
-- [International Business Machines Corporation major customers clients](https://en.wikipedia.org/wiki/IBM)
-- [International Business Machines Corporation major customers clients](https://csimarket.com/stocks/IBM-Customers)
+- [International Business Machines Corporation suppliers manufacturers](https://stockanalysis.com/stocks/ibm/company/)
+- [International Business Machines Corporation major customers clients](https://pluang.com/en/compare/axti-vs-ibm)
+- [International Business Machines Corporation major customers clients](https://finance.yahoo.com/quote/IBM/)
 
 ## 元数据
 
-- **更新日期**: 2026-07-20
+- **更新日期**: 2026-07-21

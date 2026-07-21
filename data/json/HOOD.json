@@ -1,37 +1,37 @@
 {
   "ticker": "HOOD",
   "company_name": "Robinhood Markets, Inc.",
-  "sector": "Financial Services",
-  "industry": "Capital Markets",
+  "sector": "Financial Services / Capital Markets",
+  "industry": "Online Brokerage / Retail Trading",
   "upstream": [
     "AMZN",
-    "Plaid",
-    "Stripe",
-    "NASDAQ",
-    "NYSE"
+    "MSFT",
+    "GOOGL",
+    "Bloomberg L.P.",
+    "Refinitiv"
   ],
   "downstream": [
-    "Retail investors",
-    "High‑frequency traders",
-    "Institutional clients",
-    "Crypto traders",
-    "Options traders"
+    "Retail investors in the United States",
+    "High-net-worth individuals",
+    "Institutional investors",
+    "Corporate clients",
+    "Financial advisors"
   ],
   "competitors": [
     "Charles Schwab",
-    "Fidelity",
-    "E*TRADE",
     "TD Ameritrade",
-    "Webull"
+    "E*TRADE",
+    "Fidelity Investments",
+    "Interactive Brokers"
   ],
   "key_products": [
-    "Commission‑free stock trading",
-    "Robinhood Gold (margin & research)",
-    "Options trading",
+    "Commission‑free stock and ETF trading",
+    "Robinhood Gold premium service",
+    "Cash management and interest",
     "Cryptocurrency trading",
-    "Cash management & interest"
+    "Options trading"
   ],
-  "extracted_at": "2026-07-20 17:30:40",
+  "extracted_at": "2026-07-21 17:12:46",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://robinhood.com/",
+      "url": "https://csimarket.com/stocks/HOOD-Suppliers",
       "query": "Robinhood Markets, Inc. suppliers manufacturers",
-      "snippet": "Trade stocks on Robinhood with commission-free investing & advanced trading tools. Access fractional shares, real-time market data, and more."
+      "snippet": "Jun 22, 2026 · For your research, we’ve provided nine additional tables on Robinhood Markets Inc ’s suppliers . You can find them in the navigation me"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/HOOD/",
+      "url": "https://investors.robinhood.com/",
       "query": "Robinhood Markets, Inc. suppliers manufacturers",
-      "snippet": "Robinhood Markets , Inc . OverviewCapital Markets / Financial Services. Robinhood Markets , Inc . operates financial services platform in the United S"
+      "snippet": "May 31, 2026 · Robinhood Markets , Inc . Investor relations (IR) website contains information about our business for stockholders, potential investors"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://investingintheweb.com/brokers/robinhood-statistics/",
       "query": "Robinhood Markets, Inc. major customers clients",
-      "snippet": "Jun 23, 2026 · Robinhood revenues Robinhood generates revenues through transaction-based revenues, net interest revenues, and other revenues. Transact"
+      "snippet": "Jun 23, 2026 · The platform has gained a massive customer base in the US, making it a major disruptor in the finance industry. In this article, we wil"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/HOOD-Customers",
+      "url": "https://investors.robinhood.com/",
       "query": "Robinhood Markets, Inc. major customers clients",
-      "snippet": "Robinhood Markets Inc 's Customers have recorded an advance in their cost of revenue by 2.17 % in the 1 quarter 2026 year on year, sequentially costs "
+      "snippet": "May 31, 2026 · Robinhood Markets , Inc . Investor relations (IR) website contains information about our business for stockholders, potential investors"
     }
   ]
 }

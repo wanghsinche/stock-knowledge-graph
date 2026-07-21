@@ -1,37 +1,37 @@
 {
   "ticker": "ONDS",
   "company_name": "Ondas Inc.",
-  "sector": "Technology",
-  "industry": "Communication Equipment",
+  "sector": "Technology / Communication Equipment",
+  "industry": "Defense Drone & Autonomous Systems",
   "upstream": [
-    "INTC",
-    "QCOM",
-    "AVGO",
-    "NVDA",
-    "TXN"
+    "TXN",
+    "ADI",
+    "NXP Semiconductors",
+    "STMicroelectronics",
+    "Honeywell Aerospace"
   ],
   "downstream": [
-    "Defense contractors",
-    "CAT",
-    "Aerospace OEMs",
-    "Government agencies",
-    "Private aviation companies"
+    "U.S. Department of Defense",
+    "NATO",
+    "U.S. Air Force",
+    "U.S. Navy",
+    "Commercial Telecom Operators"
   ],
   "competitors": [
-    "CSCO",
-    "JNPR",
-    "ANET",
-    "HPQ",
-    "Huawei"
+    "DJI",
+    "AeroVironment",
+    "Parrot",
+    "Northrop Grumman",
+    "Raytheon Technologies"
   ],
   "key_products": [
-    "Wireless communication equipment",
-    "Autonomous drone systems",
-    "5G base stations",
-    "RF modules",
-    "Signal processing units"
+    "Unmanned Aerial Vehicles (UAVs)",
+    "Autonomous Drone Systems",
+    "Secure Communication Networks",
+    "Satellite Communication Equipment",
+    "Defense Electronics"
   ],
-  "extracted_at": "2026-07-20 17:36:27",
+  "extracted_at": "2026-07-21 17:15:52",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,7 +43,7 @@
       "source": "DuckDuckGo",
       "url": "https://csimarket.com/stocks/ONDS-Suppliers",
       "query": "Ondas Inc. suppliers manufacturers",
-      "snippet": "Jun 22, 2026 · Ondas Inc 's Comment on Supply Chain Ondas Networks designs the printed circuit boards and enclosures for our radios and maintains the "
+      "snippet": "Jun 22, 2026 · Ondas Inc supply chain, list and performance of Ondas Incs ' suppliers - CSIMarket"
     },
     {
       "source": "DuckDuckGo",
@@ -53,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://reportify.ai/companies/US:ONDS/documents",
+      "url": "https://csimarket.com/stocks/ONDS-Customers",
       "query": "Ondas Inc. major customers clients",
-      "snippet": "Ondas Incorporated (NASDAQ:ONDS) is one of the 11 best communication equipment stocks according to hedge funds. On January 21, Stifel analyst Jonathan"
+      "snippet": "For your research, we’ve provided 9 tables on Ondas Inc corporate clients . You can find them in the navigation menu under Customers & Markets. To dow"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finviz.com/news/278627/ondas-hosts-oas-investor-day-ups-2026-revenue-target-to-170-180-million",
+      "url": "https://www.ondas.com/?lang=en",
       "query": "Ondas Inc. major customers clients",
-      "snippet": "Ondas Inc . (Nasdaq:ONDS) is a leading provider of autonomous systems and private wireless solutions through its business units Ondas Autonomous Syste"
+      "snippet": "Our two business units, Ondas Networks and Ondas Autonomous Systems, together provide customers in rail, energy, public safety, critical infrastructur"
     }
   ]
 }

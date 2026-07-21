@@ -2,36 +2,36 @@
   "ticker": "PANW",
   "company_name": "Palo Alto Networks, Inc.",
   "sector": "Technology / Software - Infrastructure",
-  "industry": "Cybersecurity",
+  "industry": "Cybersecurity / Network Security",
   "upstream": [
-    "AMD",
+    "INTC",
     "AVGO",
+    "QCOM",
     "NVDA",
-    "Manufacturing partners (e.g., Foxconn)",
     "MSFT"
   ],
   "downstream": [
-    "Fortune 100 enterprises",
-    "Government agencies",
-    "Financial institutions",
-    "Healthcare providers",
-    "Retail chains"
+    "Bank of America",
+    "Citigroup",
+    "UnitedHealth Group",
+    "General Electric",
+    "Walmart"
   ],
   "competitors": [
     "CSCO",
     "Fortinet",
-    "Check Point Software Technologies",
+    "Check Point Software",
     "JNPR",
     "CrowdStrike"
   ],
   "key_products": [
-    "Next-Generation Firewall",
+    "Next‑Gen Firewall",
     "Prisma Cloud",
     "Cortex XDR",
-    "Unit 42 threat intelligence",
-    "Firewalls"
+    "WildFire",
+    "GlobalProtect"
   ],
-  "extracted_at": "2026-07-20 17:34:32",
+  "extracted_at": "2026-07-21 17:13:14",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,15 +41,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://paloaltonetworks.my.site.com/NextWavePartnerProgram/s/partnerlocator",
+      "url": "https://www.paloaltonetworks.com/",
       "query": "Palo Alto Networks, Inc. suppliers manufacturers",
-      "snippet": "Distributors Extend Palo Alto Networks partners reach to address customer demand for Palo Alto Networks security solutions, services and support on a "
+      "snippet": "Palo Alto Networks : Cloud Security Leader in First-Ever CNAPP Report. The Forrester Wave™: Cloud Workload Security, Q1 2024. Frost Radar™: Cloud Secu"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.linkedin.com/posts/shreyas-cholachgud_inside-palo-alto-networks-the-key-companies-activity-7299791184602808321-MaWo",
+      "url": "https://habr.com/ru/companies/mws/articles/280866/",
       "query": "Palo Alto Networks, Inc. suppliers manufacturers",
-      "snippet": "Palo Alto Networks relies on several third-party companies for manufacturing its hardware appliances, processors, and other components."
+      "snippet": "Компания Palo Alto Networks была основана в 2005 году Ниром Зуком (Nir Zuk) и группой старших инженеров компаний, лидирующих в сфере сетевой безопасно"
     },
     {
       "source": "DuckDuckGo",

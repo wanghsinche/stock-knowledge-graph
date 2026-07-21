@@ -8,30 +8,30 @@
     "005930.KS",
     "GlobalFoundries",
     "UMC",
-    "ASE Technology Holding"
+    "SMIC"
   ],
   "downstream": [
-    "MSFT",
-    "AMZN",
-    "GOOGL",
-    "SONY",
-    "TSLA"
+    "DELL",
+    "HPQ",
+    "Lenovo Group",
+    "AAPL",
+    "MSFT"
   ],
   "competitors": [
     "AMD",
     "INTC",
     "QCOM",
     "AVGO",
-    "AAPL"
+    "005930.KS"
   ],
   "key_products": [
-    "GeForce RTX GPUs",
-    "Quadro RTX GPUs",
-    "Tesla V100 & A100 GPUs",
-    "NVIDIA DGX AI systems",
-    "CUDA software platform"
+    "GeForce GPUs",
+    "Quadro GPUs",
+    "Tesla GPUs",
+    "Jetson SoCs",
+    "CUDA API"
   ],
-  "extracted_at": "2026-07-20 17:22:48",
+  "extracted_at": "2026-07-21 17:06:36",
   "sources": [
     {
       "source": "Wikipedia",
@@ -53,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.fool.com/investing/2024/05/02/who-are-nvidias-largest-customers/",
+      "url": "https://www.investing.com/equities/nvidia-corp",
       "query": "NVIDIA Corporation major customers clients",
-      "snippet": "May 2, 2024 · Nvidia 's top customers Nvidia doesn't disclose who its biggest customer is. That's not surprising since that information would be valua"
+      "snippet": "View today's NVIDIA Corporation stock price and latest NVDA news and analysis. Create real-time notifications to follow any changes in the live stock "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://stocksandfuturestrading.com/the-complete-list-of-nvidias-suppliers-and-consumers/",
+      "url": "https://www.tradingview.com/symbols/NASDAQ-NVDA/",
       "query": "NVIDIA Corporation major customers clients",
-      "snippet": "Nov 22, 2024 · NVIDIA has completed one of the most dramatic business transformations in market history — going from a gaming GPU company to the backb"
+      "snippet": "View live NVIDIA Corporation chart to track its stock's price action. Find market predictions, NVDA financials and market news."
     }
   ]
 }

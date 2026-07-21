@@ -4,34 +4,34 @@
   "sector": "Financial Services",
   "industry": "Banks - Regional",
   "upstream": [
-    "Nu-Way Industries (manufacturing services)",
-    "Visa (card network)",
-    "Mastercard (card network)",
-    "Stripe (payment processing)",
-    "AWS (cloud infrastructure)"
+    "Payment processors (e.g., Visa, Mastercard)",
+    "Technology vendors (e.g., cloud providers, fintech platforms)",
+    "Card issuing partners",
+    "Regulatory bodies (Central Bank of Brazil)",
+    "Data analytics providers"
   ],
   "downstream": [
-    "Brazilian consumers",
-    "Mexican consumers",
-    "Colombian consumers",
-    "Retail merchants",
-    "Corporate clients"
+    "Individual retail customers",
+    "Small and medium enterprises",
+    "Merchants using NuPay",
+    "Digital wallet users",
+    "Investors in Nu's savings and investment products"
   ],
   "competitors": [
     "Banco Inter",
-    "C6 Bank",
     "Banco do Brasil",
-    "BBVA",
-    "Banco Santander"
+    "Banco do Nordeste",
+    "Banco Bradesco",
+    "Banco Itaú"
   ],
   "key_products": [
-    "Digital banking services",
+    "Digital checking accounts",
     "Credit cards",
     "Personal loans",
-    "Digital payments",
-    "Savings accounts"
+    "Savings and investment accounts",
+    "Payment processing services (NuPay)"
   ],
-  "extracted_at": "2026-07-20 17:28:49",
+  "extracted_at": "2026-07-21 17:13:26",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,15 +41,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.nuwayindustries.com/",
+      "url": "https://finance.yahoo.com/quote/NU/",
       "query": "Nu Holdings Ltd. suppliers manufacturers",
-      "snippet": "Nu -Way Industries manufacturing services provides its customers with unmatched outsourcing services for custom fabricated metal products. Nu -Way off"
+      "snippet": "Find the latest Nu Holdings Ltd . ( NU ) stock quote, history, news and other vital information to help you with your stock trading and investing."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.investidores.nu/financials/results-center/",
+      "url": "https://www.investing.com/equities/nu-holdings",
       "query": "Nu Holdings Ltd. suppliers manufacturers",
-      "snippet": "Investor Relations Why Invest? Follow our Journey FAQs (Frequently Asked Questions) Glossary Governance Overview Documents Board of Directors Committe"
+      "snippet": "$ NU is a common way to refer to the Nu Holdings Ltd ticker symbol in social media, forums, and online discussions. The dollar sign is a shorthand con"
     },
     {
       "source": "DuckDuckGo",
@@ -59,9 +59,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.fool.com/investing/2026/05/29/nu-holdings-more-customers-us-banks-real-question/",
+      "url": "https://international.nubank.com.br/company/nu-holdings-ltd-reports-third-quarter-2025-financial-results/",
       "query": "Nu Holdings Ltd. major customers clients",
-      "snippet": "May 29, 2026 · Nu Holdings Already Has More Customers Than Most U.S. Banks. The Real Question Is: What Can It Can Earn From Each One? The Latin Americ"
+      "snippet": "Nov 13, 2025 · Customer growth: Nu added 4.3 million new customers in Q3’25, a 16% year-over-year (YoY) increase, reaching a total of 127 million cust"
     }
   ]
 }

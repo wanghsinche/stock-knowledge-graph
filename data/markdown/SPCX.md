@@ -3,8 +3,8 @@ ticker: SPCX
 company: Space Exploration Technologies Corp.
 sector: Industrials
 industry: Aerospace & Defense
-extracted_at: 2026-07-20 17:23:54
-last_updated: 2026-07-20
+extracted_at: 2026-07-21 17:07:21
+last_updated: 2026-07-21
 ---
 
 # SPCX - Space Exploration Technologies Corp.
@@ -12,23 +12,23 @@ last_updated: 2026-07-20
 ## 基本信息
 
 - **所属行业**: Industrials / Aerospace & Defense
-- **提取时间**: 2026-07-20 17:23:54
+- **提取时间**: 2026-07-21 17:07:21
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Rocket engine manufacturers (e.g., Aerojet Rocketdyne)]]
-- [[Propellant suppliers (e.g., Linde, Aerojet Rocketdyne)]]
-- [[Avionics suppliers (e.g., Honeywell, Rockwell Collins)]]
-- [[Satellite component suppliers (e.g., Lockheed Martin, Boeing)]]
-- [[Aerospace component suppliers (e.g., Airbus, Northrop Grumman)]]
+- [[Aerojet Rocketdyne]]
+- [[Lockheed Martin]]
+- [[Boeing]]
+- [[Northrop Grumman]]
+- [[SpaceX internal manufacturing]]
 
 ### 下游客户
 - [[NASA]]
 - [[U.S. Department of Defense]]
-- [[INTC]]
-- [[Starlink end‑users (residential & enterprise)]]
-- [[GOOGL]]
+- [[Commercial satellite operators]]
+- [[Starlink residential customers]]
+- [[Starlink enterprise customers]]
 
 ### 竞争对手
 - [[United Launch Alliance]]
@@ -38,11 +38,11 @@ last_updated: 2026-07-20
 - [[Virgin Orbit]]
 
 ### 核心产品
-- [[Falcon 9 launch vehicle]]
-- [[Falcon Heavy launch vehicle]]
-- [[Starship launch vehicle]]
+- [[Falcon 9 rocket]]
+- [[Falcon Heavy rocket]]
+- [[Starship spacecraft]]
 - [[Starlink satellite constellation]]
-- [[Satellite‑based broadband service]]
+- [[Dragon spacecraft]]
 
 ## 数据来源
 
@@ -54,4 +54,4 @@ last_updated: 2026-07-20
 
 ## 元数据
 
-- **更新日期**: 2026-07-20
+- **更新日期**: 2026-07-21

@@ -2,36 +2,36 @@
   "ticker": "COIN",
   "company_name": "Coinbase Global, Inc.",
   "sector": "Financial Services",
-  "industry": "Financial Data & Stock Exchanges",
+  "industry": "Cryptocurrency Exchange / Financial Data & Stock Exchanges",
   "upstream": [
     "AMZN",
     "MSFT",
     "GOOGL",
-    "Stripe",
-    "Plaid"
+    "Stripe (payment processing)",
+    "Blockchain networks (Bitcoin, Ethereum, etc.)"
   ],
   "downstream": [
     "Retail cryptocurrency traders",
     "Institutional investors",
-    "Merchants accepting crypto payments",
-    "Developers using Coinbase API",
-    "Crypto asset custodians"
+    "Hedge funds and crypto funds",
+    "Corporate treasury departments",
+    "Crypto asset managers"
   ],
   "competitors": [
     "Binance",
     "Kraken",
     "Gemini",
     "Bitstamp",
-    "FTX (formerly)"
+    "eToro"
   ],
   "key_products": [
-    "Coinbase Wallet",
-    "Coinbase Pro",
-    "Coinbase Earn",
-    "Coinbase Custody",
-    "Coinbase Commerce"
+    "Coinbase Pro (advanced trading platform)",
+    "Coinbase Wallet (non‑custodial wallet)",
+    "Coinbase Earn (crypto education & rewards)",
+    "Coinbase Custody (institutional custody)",
+    "Coinbase Prime (institutional trading & financing)"
   ],
-  "extracted_at": "2026-07-10 17:57:16",
+  "extracted_at": "2026-07-21 17:12:07",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.tradingview.com/symbols/NASDAQ-COIN/",
-      "query": "Coinbase Global, Inc. suppliers manufacturers",
-      "snippet": "View live Coinbase Global , Inc . chart to track its stock's price action. Find market predictions, COIN financials and market news."
-    },
-    {
-      "source": "DuckDuckGo",
       "url": "https://finance.yahoo.com/quote/COIN/",
       "query": "Coinbase Global, Inc. suppliers manufacturers",
-      "snippet": "Coinbase Global , Inc . Overview Financial Data & Stock Exchanges / Financial Services. Coinbase Global , Inc . operates platform for crypto assets in"
+      "snippet": "Coinbase Global , Inc . OverviewFinancial Data & Stock Exchanges / Financial Services. Coinbase Global , Inc . operates platform for crypto assets in "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.tradingview.com/symbols/NASDAQ-COIN/",
-      "query": "Coinbase Global, Inc. major customers clients",
-      "snippet": "View live Coinbase Global , Inc . chart to track its stock's price action. Find market predictions, COIN financials and market news."
+      "url": "https://www.gurufocus.com/stock/FRA:1QZ/financials",
+      "query": "Coinbase Global, Inc. suppliers manufacturers",
+      "snippet": "Comprehensive and up-to-date Coinbase Global Inc (FRA:1QZ) stock information, news and insights by GuruFocus."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/COIN/",
+      "url": "https://www.gurufocus.com/stock/MEX:COIN/analysis",
       "query": "Coinbase Global, Inc. major customers clients",
-      "snippet": "Find the latest Coinbase Global , Inc . (COIN) stock quote, history, news and other vital information to help you with your stock trading and investin"
+      "snippet": "Analysis and historical valuations for Coinbase Global Inc are shown here for you to look at this page's features. Take a 7-Day Free Trial."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://paymentpop.com/merchant-accounts/coinbase-reviews/",
+      "query": "Coinbase Global, Inc. major customers clients",
+      "snippet": "Read customer reviews and experiences with Coinbase ’s crypto trading, storage, and payment services."
     }
   ]
 }

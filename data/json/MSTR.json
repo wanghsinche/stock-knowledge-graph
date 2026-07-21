@@ -3,19 +3,35 @@
   "company_name": "Strategy Inc",
   "sector": "Technology",
   "industry": "Software - Application",
-  "upstream": [],
-  "downstream": [],
+  "upstream": [
+    "DELL",
+    "MSFT",
+    "Data storage vendors (e.g., NetApp, EMC)",
+    "MSFT",
+    "CSCO"
+  ],
+  "downstream": [
+    "Financial services firms (e.g., JPMorgan Chase, Goldman Sachs)",
+    "Retail giants (e.g., Walmart, Target)",
+    "CAT",
+    "Healthcare providers (e.g., UnitedHealth Group, Mayo Clinic)",
+    "CAT"
+  ],
   "competitors": [
     "SAP SE Business Objects",
     "IBM",
-    "ORCL"
+    "ORCL",
+    "MSFT",
+    "CRM"
   ],
   "key_products": [
-    "Business Intelligence (BI) software",
-    "Mobile analytics applications",
-    "Enterprise data analysis platform"
+    "MicroStrategy Desktop",
+    "MicroStrategy Server",
+    "MicroStrategy Cloud",
+    "MicroStrategy Mobile",
+    "MicroStrategy Analytics Platform"
   ],
-  "extracted_at": "2026-07-20 17:35:07",
+  "extracted_at": "2026-07-21 17:13:53",
   "sources": [
     {
       "source": "Wikipedia",
@@ -25,15 +41,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.strategyinc.net/",
+      "url": "https://finance.yahoo.com/quote/MSTR/",
       "query": "Strategy Inc suppliers manufacturers",
-      "snippet": "Strategy Inc . provides medical device consulting services to venture capitalists, emerging technology companies , law firms specializing in emerging "
+      "snippet": "Find the latest Strategy Inc (MSTR) stock quote, history, news and other vital information to help you with your stock trading and investing."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://markets.ft.com/data/equities/tearsheet/profile?s=MSTR",
+      "url": "https://ru.tradingview.com/symbols/NASDAQ-MSTR/",
       "query": "Strategy Inc suppliers manufacturers",
-      "snippet": "17 hours ago · Strategy Inc (MSTR:NSQ) company profile with history, revenue, mergers & acquisitions, peer analysis, institutional shareholders and mo"
+      "snippet": "Следите за графиком Strategy Inc , чтобы быть в курсе цены акций. Вы также найдёте прогнозы, отчётность MSTR и новости рынка."
     },
     {
       "source": "DuckDuckGo",
@@ -43,9 +59,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.marketwatch.com/investing/stock/mstr",
+      "url": "https://ru.tradingview.com/symbols/NASDAQ-MSTR/",
       "query": "Strategy Inc major customers clients",
-      "snippet": "MSTR | Complete Strategy Inc . stock news by MarketWatch. View real-time stock prices and stock quotes for a full financial overview."
+      "snippet": "Следите за графиком Strategy Inc , чтобы быть в курсе цены акций. Вы также найдёте прогнозы, отчётность MSTR и новости рынка."
     }
   ]
 }

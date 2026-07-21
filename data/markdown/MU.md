@@ -3,8 +3,8 @@ ticker: MU
 company: Micron Technology, Inc.
 sector: Technology
 industry: Semiconductors
-extracted_at: 2026-07-20 17:22:27
-last_updated: 2026-07-20
+extracted_at: 2026-07-21 17:06:12
+last_updated: 2026-07-21
 ---
 
 # MU - Micron Technology, Inc.
@@ -12,46 +12,46 @@ last_updated: 2026-07-20
 ## 基本信息
 
 - **所属行业**: Technology / Semiconductors
-- **提取时间**: 2026-07-20 17:22:27
+- **提取时间**: 2026-07-21 17:06:12
 
 ## 产业链关系
 
 ### 上游供应商
-- [[TSM]]
-- [[005930.KS]]
-- [[GlobalFoundries]]
-- [[INTC]]
-- [[SK Hynix]]
+- [[Silicon wafer suppliers]]
+- [[CAT]]
+- [[ASML]]
+- [[AMAT]]
+- [[Packaging materials suppliers]]
 
 ### 下游客户
-- [[AAPL]]
 - [[DELL]]
-- [[HPQ]]
-- [[Lenovo Group]]
-- [[005930.KS]]
+- [[AAPL]]
+- [[MSFT]]
+- [[TSLA]]
+- [[Cloud service providers and enterprise storage vendors]]
 
 ### 竞争对手
 - [[005930.KS]]
 - [[SK Hynix]]
-- [[INTC]]
+- [[Nanya Technology]]
 - [[WDC]]
-- [[SK Hynix]]
+- [[Kingston Technology]]
 
 ### 核心产品
-- [[DDR4/DDR5 DRAM]]
+- [[Dynamic Random-Access Memory (DRAM)]]
 - [[NAND Flash Memory]]
-- [[Solid State Drives (SSD)]]
-- [[Memory Modules]]
-- [[Embedded DRAM]]
+- [[High Bandwidth Memory (HBM)]]
+- [[Solid-State Drives (SSDs)]]
+- [[Memory modules and related packaging]]
 
 ## 数据来源
 
-- [MU](https://en.wikipedia.org/wiki/MU)
-- [MU suppliers manufacturers](https://www.mouser.com/manufacturer-category/)
-- [MU suppliers manufacturers](https://www.mouser.com/manufacturer/)
-- [MU major customers clients](https://en.wikipedia.org/wiki/Micron_Technology)
-- [MU major customers clients](https://csimarket.com/stocks/markets_glance.php?code=MU)
+- [Micron Technology](https://en.wikipedia.org/wiki/Micron_Technology,_Inc.)
+- [Micron Technology, Inc. suppliers manufacturers](https://www.micron.com/)
+- [Micron Technology, Inc. suppliers manufacturers](https://finance.yahoo.com/quote/MU/)
+- [Micron Technology, Inc. major customers clients](https://www.micron.com/)
+- [Micron Technology, Inc. major customers clients](https://finance.yahoo.com/quote/MU/)
 
 ## 元数据
 
-- **更新日期**: 2026-07-20
+- **更新日期**: 2026-07-21

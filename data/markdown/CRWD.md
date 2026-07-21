@@ -3,8 +3,8 @@ ticker: CRWD
 company: CrowdStrike Holdings, Inc.
 sector: Technology
 industry: Software - Infrastructure
-extracted_at: 2026-07-17 17:08:43
-last_updated: 2026-07-17
+extracted_at: 2026-07-21 17:17:56
+last_updated: 2026-07-21
 ---
 
 # CRWD - CrowdStrike Holdings, Inc.
@@ -12,33 +12,33 @@ last_updated: 2026-07-17
 ## 基本信息
 
 - **所属行业**: Technology / Software - Infrastructure
-- **提取时间**: 2026-07-17 17:08:43
+- **提取时间**: 2026-07-21 17:17:56
 
 ## 产业链关系
 
 ### 上游供应商
-- [[AMZN]]
 - [[MSFT]]
+- [[AMZN]]
 - [[GOOGL]]
-- [[DELL]]
-- [[HPQ]]
+- [[INTC]]
+- [[AMD]]
 
 ### 下游客户
-- [[United States Department of Defense]]
-- [[Bank of America]]
-- [[Walmart]]
-- [[Citigroup]]
-- [[General Electric]]
+- [[Fortune 500 enterprises]]
+- [[U.S. federal agencies]]
+- [[European Union agencies]]
+- [[Financial services firms]]
+- [[Healthcare providers]]
 
 ### 竞争对手
 - [[Palo Alto Networks]]
-- [[Fortinet]]
-- [[Check Point Software Technologies]]
-- [[CSCO]]
 - [[SentinelOne]]
+- [[Fortinet]]
+- [[Check Point Software]]
+- [[CSCO]]
 
 ### 核心产品
-- [[CrowdStrike Falcon Platform]]
+- [[CrowdStrike Falcon platform]]
 - [[Falcon Prevent]]
 - [[Falcon Insight]]
 - [[Falcon OverWatch]]
@@ -47,11 +47,11 @@ last_updated: 2026-07-17
 ## 数据来源
 
 - [CrowdStrike](https://en.wikipedia.org/wiki/CrowdStrike_Holdings,_Inc.)
-- [CrowdStrike Holdings, Inc. suppliers manufacturers](https://ru.wikipedia.org/wiki/CrowdStrike)
-- [CrowdStrike Holdings, Inc. suppliers manufacturers](https://csimarket.com/news/tata-consultancy-services-and-crowdstrike-form-strategic-partnership-as-crowdstrike-s-client-s-revenue-declines2024-05-02144475)
-- [CrowdStrike Holdings, Inc. major customers clients](https://en.wikipedia.org/wiki/CrowdStrike)
-- [CrowdStrike Holdings, Inc. major customers clients](https://csimarket.com/stocks/CRWD-Customers)
+- [CrowdStrike Holdings, Inc. suppliers manufacturers](https://csimarket.com/stocks/technicals_average.php?code=CRWD&koga=Momentum)
+- [CrowdStrike Holdings, Inc. suppliers manufacturers](https://pluang.com/en/compare/atom-vs-crwd)
+- [CrowdStrike Holdings, Inc. major customers clients](https://brandsownedby.com/companies/crowdstrike/)
+- [CrowdStrike Holdings, Inc. major customers clients](https://d1rf73nqj6wzfm.cloudfront.net/us/instruments/CrowdStrike)
 
 ## 元数据
 
-- **更新日期**: 2026-07-17
+- **更新日期**: 2026-07-21

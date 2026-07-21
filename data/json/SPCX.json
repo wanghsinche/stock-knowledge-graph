@@ -4,18 +4,18 @@
   "sector": "Industrials",
   "industry": "Aerospace & Defense",
   "upstream": [
-    "Rocket engine manufacturers (e.g., Aerojet Rocketdyne)",
-    "Propellant suppliers (e.g., Linde, Aerojet Rocketdyne)",
-    "Avionics suppliers (e.g., Honeywell, Rockwell Collins)",
-    "Satellite component suppliers (e.g., Lockheed Martin, Boeing)",
-    "Aerospace component suppliers (e.g., Airbus, Northrop Grumman)"
+    "Aerojet Rocketdyne",
+    "Lockheed Martin",
+    "Boeing",
+    "Northrop Grumman",
+    "SpaceX internal manufacturing"
   ],
   "downstream": [
     "NASA",
     "U.S. Department of Defense",
-    "INTC",
-    "Starlink end‑users (residential & enterprise)",
-    "GOOGL"
+    "Commercial satellite operators",
+    "Starlink residential customers",
+    "Starlink enterprise customers"
   ],
   "competitors": [
     "United Launch Alliance",
@@ -25,13 +25,13 @@
     "Virgin Orbit"
   ],
   "key_products": [
-    "Falcon 9 launch vehicle",
-    "Falcon Heavy launch vehicle",
-    "Starship launch vehicle",
+    "Falcon 9 rocket",
+    "Falcon Heavy rocket",
+    "Starship spacecraft",
     "Starlink satellite constellation",
-    "Satellite‑based broadband service"
+    "Dragon spacecraft"
   ],
-  "extracted_at": "2026-07-20 17:23:54",
+  "extracted_at": "2026-07-21 17:07:21",
   "sources": [
     {
       "source": "Wikipedia",
@@ -55,7 +55,7 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/SpaceX",
       "query": "Space Exploration Technologies Corp. major customers clients",
-      "snippet": "Space Exploration Technologies Corporation , doing business as SpaceX , is an American spaceflight, telecommunications, and artificial intelligence co"
+      "snippet": "Space Exploration Technologies Corp ., doing business as SpaceX , is an American spaceflight, telecommunications, and artificial intelligence company "
     },
     {
       "source": "DuckDuckGo",

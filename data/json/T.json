@@ -4,34 +4,34 @@
   "sector": "Communication Services",
   "industry": "Telecom Services",
   "upstream": [
-    "Ericsson",
     "Nokia",
+    "Ericsson",
     "Huawei",
     "CSCO",
     "JNPR"
   ],
   "downstream": [
-    "Enterprise customers",
-    "Government agencies",
-    "Residential consumers",
+    "U.S. consumers",
     "Small and medium businesses",
-    "Content providers"
+    "Large enterprises",
+    "Government agencies",
+    "International customers"
   ],
   "competitors": [
     "CAT",
     "T-Mobile US",
     "Comcast",
     "CAT",
-    "CenturyLink"
+    "Dish Network"
   ],
   "key_products": [
     "Wireless voice and data services",
     "Fiber‑optic broadband",
-    "Digital TV (AT&T TV)",
-    "Enterprise networking solutions",
-    "Cloud and cybersecurity services"
+    "AT&T TV (streaming and satellite)",
+    "Business networking and cloud services",
+    "Data center and enterprise solutions"
   ],
-  "extracted_at": "2026-07-20 17:30:17",
+  "extracted_at": "2026-07-21 17:12:19",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
+      "url": "https://globalsupplychain.att.com/attsuppliers.html",
+      "query": "AT&T Inc. suppliers manufacturers",
+      "snippet": "AT&T external supplier sites (https:// attsuppliers .com and https://attpurchasing.com) are now up and running. Please access and bookmark each site a"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://attsuppliers.com/Home/ProspectiveOverview",
+      "query": "AT&T Inc. suppliers manufacturers",
+      "snippet": "Most of AT&T purchases are from suppliers in the telecommunications industry. The opportunities for potential suppliers may be somewhat limited becaus"
+    },
+    {
+      "source": "DuckDuckGo",
       "url": "https://finance.yahoo.com/quote/T/",
-      "query": "AT&T Inc. suppliers manufacturers",
-      "snippet": "Find the latest AT & T Inc . ( T ) stock quote, history, news and other vital information to help you with your stock trading and investing. AT & T In"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.alibaba.com/",
-      "query": "AT&T Inc. suppliers manufacturers",
-      "snippet": "Find quality Manufacturers , Suppliers , Exporters, Importers, Buyers, Wholesalers, Products and Trade Leads from our award-winning International Trad"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/AT&T",
       "query": "AT&T Inc. major customers clients",
-      "snippet": "AT & T is the world's third-largest telecommunications company by revenue, the third-largest wireless carrier in the United States behind T -Mobile an"
+      "snippet": "Find the latest AT & T Inc . ( T ) stock quote, history, news and other vital information to help you with your stock trading and investing."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://investors.att.com/~/media/Files/A/ATT-IR-V2/financial-reports/annual-reports/2025/2025-annual-report-complete.pdf",
+      "url": "https://www.finam.ru/quote/batsns/t/",
       "query": "AT&T Inc. major customers clients",
-      "snippet": "Business Wireline – Our Business Wireline business unit provides services to business customers , including multinational corporations, small and mid-"
+      "snippet": "Стоимость акций AT & T Inc ( T :BATSNS) на американской бирже, графики котировок, цены в режиме реального времени онлайн."
     }
   ]
 }

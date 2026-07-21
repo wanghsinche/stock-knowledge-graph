@@ -4,18 +4,18 @@
   "sector": "Technology",
   "industry": "Software - Infrastructure",
   "upstream": [
+    "INTC",
+    "AMD",
     "NVDA",
-    "TSM",
-    "GOOGL",
-    "Software tool vendors (e.g., GitHub, Visual Studio)",
-    "CAT"
+    "DELL",
+    "CSCO"
   ],
   "downstream": [
-    "Enterprise customers (e.g., Fortune 500 companies)",
+    "Large enterprises (e.g., Walmart, Bank of America)",
     "Government agencies",
-    "DELL",
-    "Consumer users of Windows, Office, Xbox",
-    "CAT"
+    "Consumers using Windows and Office",
+    "Cloud customers (Azure)",
+    "Gaming community (Xbox)"
   ],
   "competitors": [
     "AAPL",
@@ -28,10 +28,10 @@
     "Windows operating system",
     "Microsoft Office suite",
     "Azure cloud platform",
-    "Microsoft Teams",
+    "Microsoft 365",
     "Xbox gaming console"
   ],
-  "extracted_at": "2026-07-20 17:23:31",
+  "extracted_at": "2026-07-21 17:07:43",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,15 +47,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/MSFT-Shares-vs-Suppliers",
+      "url": "https://www.alibaba.com/",
       "query": "Microsoft Corporation suppliers manufacturers",
-      "snippet": "Microsoft Corporation Cash Flow Statement. Suppliers .Stock Performance at Corporate Suppliers and Business Partners Within Services-Computer Programm"
+      "snippet": "Find quality Manufacturers , Suppliers , Exporters, Importers, Buyers, Wholesalers, Products and Trade Leads from our award-winning International Trad"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://copilot.microsoft.com/",
+      "url": "https://www.globaldata.com/company-profile/microsoft-corp/locations/",
       "query": "Microsoft Corporation major customers clients",
-      "snippet": "Microsoft Copilot — ваш компаньон для информирования, развлечения и вдохновения. Получайте советы, отзывы и прямые ответы."
+      "snippet": "Microsoft Corp Locations - Headquarters & Offices."
     },
     {
       "source": "DuckDuckGo",

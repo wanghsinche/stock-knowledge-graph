@@ -1,21 +1,21 @@
 {
   "ticker": "NFLX",
   "company_name": "Netflix, Inc.",
-  "sector": "Communication Services",
-  "industry": "Entertainment",
+  "sector": "Communication Services / Entertainment",
+  "industry": "Streaming Media",
   "upstream": [
-    "Warner Bros.",
-    "Disney",
-    "SONY",
-    "Universal Studios",
-    "Paramount Pictures"
+    "Content production studios (e.g., Warner Bros., Disney, Universal)",
+    "MSFT",
+    "AAPL",
+    "Advertising and marketing agencies",
+    "Cloud infrastructure providers"
   ],
   "downstream": [
-    "Global subscribers",
-    "Corporate clients",
-    "AAPL",
-    "Smart TV manufacturers",
-    "Gaming console users"
+    "Individual subscribers worldwide",
+    "Corporate and institutional customers (e.g., airlines, hotels)",
+    "Device manufacturers (e.g., smart TV OEMs)",
+    "NFLX",
+    "CAT"
   ],
   "competitors": [
     "Disney+",
@@ -26,12 +26,12 @@
   ],
   "key_products": [
     "Netflix streaming service",
-    "Netflix Originals",
-    "Subscription plans",
-    "Mobile app",
-    "Web platform"
+    "Netflix Originals (e.g., Stranger Things, The Crown)",
+    "Licensed third‑party content",
+    "Mobile and web apps",
+    "Smart TV and console apps"
   ],
-  "extracted_at": "2026-07-20 17:25:13",
+  "extracted_at": "2026-07-21 17:11:32",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,25 +43,25 @@
       "source": "DuckDuckGo",
       "url": "https://csimarket.com/stocks/NFLX-Suppliers",
       "query": "Netflix, Inc. suppliers manufacturers",
-      "snippet": "Netflix Inc supply chain, list and performance of Netflix Incs ' suppliers - CSIMarket."
+      "snippet": "2 days ago · Netflix Inc supply chain, list and performance of Netflix Incs ' suppliers - CSIMarket"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://porteranalysis.com/porters-five-forces-of-netflix/",
+      "url": "https://npfp.netflixstudios.com/region/global/",
       "query": "Netflix, Inc. suppliers manufacturers",
-      "snippet": "Likewise, the suppliers have a weaker bargaining power while dealing with the traditional broadcasting businesses, but online distributors like Netfli"
+      "snippet": "Visual Data (UK) became a Netflix Preferred Vendor in 2013 and its technical, professional and service standards are among the highest in the industry"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/NFLX-Customers",
+      "url": "https://www.inc.com/jason-aten/netflix-just-revealed-its-doing-the-1-thing-customers-were-most-afraid-of/91110628",
       "query": "Netflix, Inc. major customers clients",
-      "snippet": "During the corresponding time, Netflix Inc recorded a revenue increase by 16.19 % year on year, sequentially revenue grew by 1.65 %. While revenue at "
+      "snippet": "Look, that’s basically Netflix ’s most reliable strategy. It’s right up there with dumping an entire season of episodes at a time to encourage custome"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ir.netflix.net/ir-overview/profile/default.aspx",
+      "url": "https://about.netflix.com/en",
       "query": "Netflix, Inc. major customers clients",
-      "snippet": "4 days ago · Netflix is one of the world’s leading entertainment services offering TV series, films, games and live programming across a wide variety "
+      "snippet": "We are here to entertain the world, one fan at a time. Thrilling everyone again and again. Whatever you’re into, whatever your mood, Netflix delivers "
     }
   ]
 }

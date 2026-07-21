@@ -1,37 +1,37 @@
 {
   "ticker": "CRCL",
   "company_name": "Circle Internet Group, Inc.",
-  "sector": "Financial Services / Capital Markets",
-  "industry": "Payments Technology / Stablecoin",
+  "sector": "Financial Services",
+  "industry": "Capital Markets / Payments Technology",
   "upstream": [
-    "Ethereum blockchain",
-    "Algorand blockchain",
-    "Solana blockchain",
-    "Fiat currency reserves (bank partners)",
-    "Cloud infrastructure (AWS)"
+    "AMZN",
+    "MSFT",
+    "GOOGL",
+    "Ethereum (blockchain infrastructure)",
+    "Solana (blockchain infrastructure)"
   ],
   "downstream": [
-    "Binance",
-    "Coinbase",
-    "Kraken",
-    "PayPal",
-    "Stripe"
+    "Coinbase (cryptocurrency exchange)",
+    "Binance (cryptocurrency exchange)",
+    "PayPal (digital payments)",
+    "Visa (payment network)",
+    "Mastercard (payment network)"
   ],
   "competitors": [
-    "Coinbase",
-    "Gemini",
-    "Paxos",
-    "Binance USD (BUSD)",
-    "Tether (USDT)"
+    "Paxos (PAX stablecoin)",
+    "Gemini (GUSD stablecoin)",
+    "Binance USD (BUSD stablecoin)",
+    "Tether (USDT stablecoin)",
+    "Coinbase (USD Coin, USDC competitor)"
   ],
   "key_products": [
-    "USDC stablecoin",
-    "EURC stablecoin",
-    "USYC tokenized money market fund",
-    "Circle API",
-    "Circle Wallet"
+    "USDC (USD‑pegged stablecoin)",
+    "EURC (euro‑pegged stablecoin)",
+    "USYC (tokenized money‑market fund)",
+    "Circle Pay API (payments integration)",
+    "Circle Wallet (digital wallet)"
   ],
-  "extracted_at": "2026-07-10 17:46:36",
+  "extracted_at": "2026-07-21 17:17:44",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://streetalpha.ru/news/aktsii-circle-internet-group-rukhnuli-na-2026-07-08",
+      "url": "https://en.wikipedia.org/wiki/Circle_Internet_Group",
       "query": "Circle Internet Group suppliers manufacturers",
-      "snippet": "Восстановление и аналитические оценки. Акции Circle Internet Group (NYSE: CRCL) упали на 44,6% в июне 2026 года, по данным S&P Global Market Intellige"
+      "snippet": "History Founding (2013 – 2017) Circle was founded by Jeremy Allaire and Sean Neville in October 2013 in Boston, Massachusetts, [3][4] with Allaire and"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.investors.com/research/circle-internet-group-stock-crcl-stablecoin-cathie-wood-arkk/",
+      "url": "https://investor.circle.com/overview/default.aspx",
       "query": "Circle Internet Group suppliers manufacturers",
-      "snippet": "Circle Internet Group stock has shown some wild swings since its debut in early June. The company's revenue continues to climb."
+      "snippet": "Jul 10, 2026 · Circle is building the world’s largest, most-widely used, stablecoin network, and issues, through its regulated affiliates, USDC and EU"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.thestreet.com/crypto/markets/circle-stock-slips-amid-criminal-complaint-in-major-u-s-state",
+      "url": "https://en.wikipedia.org/wiki/Circle_Internet_Group",
       "query": "Circle Internet Group major customers clients",
-      "snippet": "Circle Internet Group (NYSE: CRCL), the crypto company popular for its USDC stablecoin, is facing a criminal complaint in a U.S. state for allegedly r"
+      "snippet": "In July 2023, Circle announced layoffs and stated that it had discontinued investments in non-core business areas. [42] In September 2023, the company"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://intellectia.ai/news/monitor/circle-internet-group-engages-shareholders-ahead-of-earnings-call",
+      "url": "https://www.appsruntheworld.com/customers-database/vendors/view/circle-internet-group",
       "query": "Circle Internet Group major customers clients",
-      "snippet": "Circle Internet Group Inc. shares rose 5.05% in pre-market trading, reaching a 5-day high. The company announced that it will utilize the Say platform"
+      "snippet": "List of companies using or evaluating Circle Internet Group applications, with details on their revenues, employees, industries, and locations."
     }
   ]
 }

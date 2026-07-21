@@ -4,34 +4,34 @@
   "sector": "Technology",
   "industry": "Computer Hardware",
   "upstream": [
-    "INTC",
-    "AMD",
-    "NVDA",
-    "005930.KS",
-    "TSM"
+    "Foxconn",
+    "Pegatron",
+    "Wistron",
+    "Quanta",
+    "Compal"
   ],
   "downstream": [
-    "Enterprise IT departments",
-    "Government agencies",
-    "Healthcare providers",
-    "Financial institutions",
-    "CAT"
+    "AMZN",
+    "MSFT",
+    "GOOGL",
+    "IBM",
+    "HPQ"
   ],
   "competitors": [
     "HPQ",
     "Lenovo",
-    "AAPL",
+    "Acer",
     "Asus",
-    "MSFT"
+    "AAPL"
   ],
   "key_products": [
-    "XPS laptops",
-    "Alienware gaming PCs",
-    "PowerEdge servers",
-    "OptiPlex desktops",
-    "Dell EMC storage solutions"
+    "Personal Computers",
+    "Servers",
+    "Storage Systems",
+    "Networking Equipment",
+    "Security Software"
   ],
-  "extracted_at": "2026-07-20 17:33:09",
+  "extracted_at": "2026-07-21 17:15:05",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.dell.com/en-us",
+      "url": "https://www.delltechnologies.com/asset/pl-pl/solutions/business-solutions/briefs-summaries/dell-public-supplier-list.pdf",
       "query": "Dell Technologies Inc. suppliers manufacturers",
-      "snippet": "Dell provides technology solutions, services & support. Buy Laptops, Touch Screen PCs, Desktops, Servers, Storage, Monitors, Gaming & Accessories. Del"
+      "snippet": "The list of supplier facilities includes original design manufacturers (ODMs), final assembly and material suppliers that Dell buys from directly and/"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/DELL/",
+      "url": "https://csimarket.com/stocks/DELL-Suppliers",
       "query": "Dell Technologies Inc. suppliers manufacturers",
-      "snippet": "Dell Technologies Inc . ( DELL ). Get top stock picks. Dell Technologies Inc . designs, develops, manufactures , markets, sells, and supports various "
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Dell_Technologies",
-      "query": "Dell Technologies Inc. major customers clients",
-      "snippet": "Dell Technologies Inc . is an American multinational technology company that has been headquartered in Round Rock, Texas, since 1994. [3] It was forme"
+      "snippet": "Jul 7, 2026 · Dell Technologies Inc supply chain, list and performance of Dell Technologies Incs ' suppliers - CSIMarket"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://csimarket.com/stocks/DELL-Customers",
       "query": "Dell Technologies Inc. major customers clients",
-      "snippet": "1 day ago · Dell Technologies Inc customers and markets, results by customer and performance relative to DELL, by company and industry - CSIMarket"
+      "snippet": "2 days ago · For your research, we’ve provided 9 tables on Dell Technologies Inc corporate clients . You can find them in the navigation menu under Cu"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.dell.com/en-us/lp/dt/customer-stories",
+      "query": "Dell Technologies Inc. major customers clients",
+      "snippet": "The Dell Technologies digital transformation library showcases how some of the largest brands bring their ideas to life, and their products to market."
     }
   ]
 }

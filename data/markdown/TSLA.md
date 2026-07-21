@@ -3,8 +3,8 @@ ticker: TSLA
 company: Tesla, Inc.
 sector: Consumer Cyclical
 industry: Auto Manufacturers
-extracted_at: 2026-07-20 17:23:17
-last_updated: 2026-07-20
+extracted_at: 2026-07-21 17:06:59
+last_updated: 2026-07-21
 ---
 
 # TSLA - Tesla, Inc.
@@ -12,7 +12,7 @@ last_updated: 2026-07-20
 ## 基本信息
 
 - **所属行业**: Consumer Cyclical / Auto Manufacturers
-- **提取时间**: 2026-07-20 17:23:17
+- **提取时间**: 2026-07-21 17:06:59
 
 ## 产业链关系
 
@@ -21,37 +21,37 @@ last_updated: 2026-07-20
 - [[LG Energy Solution]]
 - [[Panasonic]]
 - [[005930.KS]]
-- [[SK Innovation]]
+- [[BYD]]
 
 ### 下游客户
-- [[Individual vehicle buyers]]
-- [[Fleet operators]]
-- [[Utility companies]]
-- [[Commercial businesses]]
+- [[Individual consumers]]
+- [[Commercial fleet operators]]
+- [[Utility companies (Megapack deployments)]]
+- [[Corporate fleet customers]]
 - [[Government agencies]]
 
 ### 竞争对手
-- [[Ford]]
 - [[General Motors]]
+- [[Ford]]
 - [[Volkswagen]]
 - [[Hyundai]]
 - [[Nissan]]
 
 ### 核心产品
-- [[Model S]]
 - [[Model 3]]
-- [[Model X]]
 - [[Model Y]]
+- [[Cybertruck]]
 - [[Powerwall]]
+- [[Solar Roof]]
 
 ## 数据来源
 
 - [Tesla, Inc.](https://en.wikipedia.org/wiki/Tesla,_Inc.)
 - [Tesla, Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/Tesla,_Inc.)
 - [Tesla, Inc. suppliers manufacturers](https://csimarket.com/stocks/suppliers_glance.php?code=TSLA)
-- [Tesla, Inc. major customers clients](https://en.wikipedia.org/wiki/Tesla,_Inc.)
-- [Tesla, Inc. major customers clients](https://www.tesla.com/)
+- [Tesla, Inc. major customers clients](https://csimarket.com/stocks/TSLA-Customers)
+- [Tesla, Inc. major customers clients](https://mungomash.com/orgs/tesla/customers/)
 
 ## 元数据
 
-- **更新日期**: 2026-07-20
+- **更新日期**: 2026-07-21

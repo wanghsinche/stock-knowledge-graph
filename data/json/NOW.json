@@ -4,34 +4,34 @@
   "sector": "Technology",
   "industry": "Software - Application",
   "upstream": [
-    "AMZN",
-    "MSFT",
-    "GOOGL",
-    "DELL",
-    "CSCO"
+    "Supplier Lifecycle Operations",
+    "AXT Inc",
+    "Cloud infrastructure providers",
+    "Hardware vendors",
+    "Software component suppliers"
   ],
   "downstream": [
-    "Walmart",
-    "JPMorgan Chase",
-    "AT&T",
-    "Bank of America",
-    "General Motors"
+    "Large enterprises",
+    "Financial services firms",
+    "Healthcare organizations",
+    "Retail chains",
+    "Government agencies"
   ],
   "competitors": [
-    "CRM",
-    "SAP",
     "MSFT",
+    "IBM",
     "ORCL",
-    "IBM"
+    "SAP SuccessFactors",
+    "Workday"
   ],
   "key_products": [
-    "Now Platform (IT Service Management)",
-    "IT Operations Management",
-    "HR Service Delivery",
-    "Customer Service Management",
-    "Security Operations"
+    "Now Platform",
+    "IT Service Management (ITSM)",
+    "IT Operations Management (ITOM)",
+    "IT Business Management (ITBM)",
+    "Customer Service Management (CSM)"
   ],
-  "extracted_at": "2026-07-20 17:29:48",
+  "extracted_at": "2026-07-21 17:14:35",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.servicenow.com/company/supplier.html",
+      "url": "https://www.servicenow.com/",
       "query": "ServiceNow, Inc. suppliers manufacturers",
-      "snippet": "ServiceNow partners with capable and competitive suppliers who commit to diversity, sustainability, and best-in-class goods and services. Learn more h"
+      "snippet": "Supplier Lifecycle Operations. Streamline supplier onboarding, collaboration, and performance management. ServiceNow EmployeeWorks. Stop chasing what "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/NOW-Suppliers",
+      "url": "https://pluang.com/en/compare/axti-vs-now",
       "query": "ServiceNow, Inc. suppliers manufacturers",
-      "snippet": "Apr 24, 2026 · Servicenow Inc 's Suppliers recorded an increase in sales by 17.32 % year on year in Q1 2026, sequentially sales grew by 13.42 %, Servi"
+      "snippet": "Compare AXT Inc and ServiceNow Inc side by side — live prices, performance, key stats, technicals, Aura AI signals and investor sentiment on Pluang."
     },
     {
       "source": "DuckDuckGo",
       "url": "https://data.landbase.com/technology/servicenow/",
       "query": "ServiceNow, Inc. major customers clients",
-      "snippet": "Aug 17, 2025 · ServiceNow by ServiceNow, is a cloud-based platform designed for digital workflows. It’s commonly employed to automate and enhance vari"
+      "snippet": "Aug 17, 2025 · Our ServiceNow customers list is available for download and comes enriched with vital company specifics, including industry classificat"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.aventionmedia.com/technology-installed-base/servicenow/",
       "query": "ServiceNow, Inc. major customers clients",
-      "snippet": "Discover Avention Media’s accurate and customizable ServiceNow customers list. Our verified ServiceNow data helps you target key decision-makers and c"
+      "snippet": "Businesses whose solutions and services can help Cloud- Service Customers achieve any of their business requirements can make use of our List of Compa"
     }
   ]
 }

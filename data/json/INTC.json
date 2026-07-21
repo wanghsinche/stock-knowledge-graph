@@ -7,8 +7,8 @@
     "TSM",
     "005930.KS",
     "GlobalFoundries",
-    "ASE Technology Holding",
-    "Amkor Technology"
+    "MU",
+    "NVDA"
   ],
   "downstream": [
     "DELL",
@@ -22,16 +22,16 @@
     "NVDA",
     "QCOM",
     "AVGO",
-    "MU"
+    "005930.KS"
   ],
   "key_products": [
     "Intel Core processors",
     "Intel Xeon processors",
-    "Intel Atom processors",
-    "Intel chipsets",
-    "Intel FPGAs (Stratix, Arria)"
+    "Intel Arc GPUs",
+    "Intel chipsets (Z, B, H series)",
+    "Intel Optane memory"
   ],
-  "extracted_at": "2026-07-20 17:23:40",
+  "extracted_at": "2026-07-21 17:07:33",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,15 +41,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/INTC-Suppliers",
+      "url": "https://www.intel.com/content/www/us/en/partner/showcase/partner-directory/distributor.html",
       "query": "Intel Corporation suppliers manufacturers",
-      "snippet": "Jul 10, 2026 · Sources: Intel Corporation 's official press releases and regulatory filings; CSIMarket.com's supply-chain research; and the financial "
+      "snippet": "Sell Intel® Products directly sourced from Intel as well as devices manufactured by OEMs."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.accio.com/supplier/intel-supplier",
+      "url": "https://www.intel.com/content/www/us/en/supplier/overview.html",
       "query": "Intel Corporation suppliers manufacturers",
-      "snippet": "Jul 13, 2026 · Need reliable Intel suppliers ? Discover verified vendors offering Core i5, i7, i9 processors, motherboards and graphics cards. Click t"
+      "snippet": "Existing Suppliers Enter here for the most current announcements, guides, forms, information on technology, accounts payable, and training to effectiv"
     },
     {
       "source": "DuckDuckGo",
@@ -59,9 +59,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.linkedin.com/company/intel-corporation",
+      "url": "https://www.tradingview.com/symbols/NASDAQ-INTC/",
       "query": "Intel Corporation major customers clients",
-      "snippet": "Intel | 4,268,857 followers on LinkedIn. Our mission is to shape the future of technology to help create a better future for the entire world, that’s "
+      "snippet": "View live Intel Corporation chart to track its stock's price action. Find market predictions, INTC financials and market news."
     }
   ]
 }

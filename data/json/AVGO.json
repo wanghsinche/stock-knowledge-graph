@@ -4,34 +4,34 @@
   "sector": "Technology",
   "industry": "Semiconductors",
   "upstream": [
+    "TSM",
+    "005930.KS",
+    "GlobalFoundries",
     "ASML",
-    "AMAT",
-    "LRCX",
-    "Tokyo Electron",
-    "KLA Corporation"
+    "AMAT"
   ],
   "downstream": [
-    "AMZN",
-    "MSFT",
-    "GOOGL",
+    "AAPL",
     "CSCO",
-    "DELL"
+    "DELL",
+    "HPQ",
+    "005930.KS"
   ],
   "competitors": [
-    "INTC",
     "QCOM",
+    "INTC",
     "NVDA",
-    "MRVL",
-    "TXN"
+    "TXN",
+    "MediaTek"
   ],
   "key_products": [
-    "Ethernet controllers",
     "Wi‑Fi and Bluetooth chips",
-    "Broadband modems",
-    "Storage controller ASICs",
-    "Network processors"
+    "Ethernet and networking ASICs",
+    "Broadband modem and router chips",
+    "Data center processors",
+    "Storage controller chips"
   ],
-  "extracted_at": "2026-07-20 17:24:48",
+  "extracted_at": "2026-07-21 17:09:07",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,15 +41,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Broadcom",
+      "url": "https://csimarket.com/stocks/AVGO-Suppliers",
       "query": "Broadcom Inc. suppliers manufacturers",
-      "snippet": "Broadcom Inc . is an American multinational designer, developer, manufacturer , and global supplier of a wide range of semiconductor and infrastructur"
+      "snippet": "Jul 10, 2026 · Broadcom Inc supply chain, list and performance of Broadcom Incs ' suppliers - CSIMarket"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/AVGO-Suppliers",
+      "url": "https://csimarket.com/stocks/BRCM-Suppliers",
       "query": "Broadcom Inc. suppliers manufacturers",
-      "snippet": "Jul 10, 2026 · Broadcom Inc 's Suppliers recorded an increase in sales by 27.35 % year on year in Q1 2026, sequentially sales grew by 10.79 %, Broadco"
+      "snippet": "Jul 6, 2026 · For your research, we’ve provided nine additional tables on Broadcom Corp’s suppliers . You can find them in the navigation menu under S"
     },
     {
       "source": "DuckDuckGo",
@@ -59,9 +59,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://news.broadcom.com/category/customers",
+      "url": "https://csimarket.com/stocks/AVGO-Customers",
       "query": "Broadcom Inc. major customers clients",
-      "snippet": "May 19, 2026 · USSFCU: Powering Financial Wellness with Broadcom ’s Private Cloud and Private AI Broadcom Customer Achievement Awards recognize and ce"
+      "snippet": "Sales to our five largest customers represented 48.3%. Sales to Samsung represented 21.3%. Sales to Apple represented 13.3%."
     }
   ]
 }

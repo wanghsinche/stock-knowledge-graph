@@ -1,57 +1,57 @@
 ---
 ticker: HOOD
 company: Robinhood Markets, Inc.
-sector: Financial Services
-industry: Capital Markets
-extracted_at: 2026-07-20 17:30:40
-last_updated: 2026-07-20
+sector: Financial Services / Capital Markets
+industry: Online Brokerage / Retail Trading
+extracted_at: 2026-07-21 17:12:46
+last_updated: 2026-07-21
 ---
 
 # HOOD - Robinhood Markets, Inc.
 
 ## 基本信息
 
-- **所属行业**: Financial Services / Capital Markets
-- **提取时间**: 2026-07-20 17:30:40
+- **所属行业**: Financial Services / Capital Markets / Online Brokerage / Retail Trading
+- **提取时间**: 2026-07-21 17:12:46
 
 ## 产业链关系
 
 ### 上游供应商
 - [[AMZN]]
-- [[Plaid]]
-- [[Stripe]]
-- [[NASDAQ]]
-- [[NYSE]]
+- [[MSFT]]
+- [[GOOGL]]
+- [[Bloomberg L.P.]]
+- [[Refinitiv]]
 
 ### 下游客户
-- [[Retail investors]]
-- [[High‑frequency traders]]
-- [[Institutional clients]]
-- [[Crypto traders]]
-- [[Options traders]]
+- [[Retail investors in the United States]]
+- [[High-net-worth individuals]]
+- [[Institutional investors]]
+- [[Corporate clients]]
+- [[Financial advisors]]
 
 ### 竞争对手
 - [[Charles Schwab]]
-- [[Fidelity]]
-- [[E*TRADE]]
 - [[TD Ameritrade]]
-- [[Webull]]
+- [[E*TRADE]]
+- [[Fidelity Investments]]
+- [[Interactive Brokers]]
 
 ### 核心产品
-- [[Commission‑free stock trading]]
-- [[Robinhood Gold (margin & research)]]
-- [[Options trading]]
+- [[Commission‑free stock and ETF trading]]
+- [[Robinhood Gold premium service]]
+- [[Cash management and interest]]
 - [[Cryptocurrency trading]]
-- [[Cash management & interest]]
+- [[Options trading]]
 
 ## 数据来源
 
 - 
-- [Robinhood Markets, Inc. suppliers manufacturers](https://robinhood.com/)
-- [Robinhood Markets, Inc. suppliers manufacturers](https://finance.yahoo.com/quote/HOOD/)
+- [Robinhood Markets, Inc. suppliers manufacturers](https://csimarket.com/stocks/HOOD-Suppliers)
+- [Robinhood Markets, Inc. suppliers manufacturers](https://investors.robinhood.com/)
 - [Robinhood Markets, Inc. major customers clients](https://investingintheweb.com/brokers/robinhood-statistics/)
-- [Robinhood Markets, Inc. major customers clients](https://csimarket.com/stocks/HOOD-Customers)
+- [Robinhood Markets, Inc. major customers clients](https://investors.robinhood.com/)
 
 ## 元数据
 
-- **更新日期**: 2026-07-20
+- **更新日期**: 2026-07-21

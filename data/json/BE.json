@@ -4,33 +4,34 @@
   "sector": "Industrials",
   "industry": "Electrical Equipment & Parts",
   "upstream": [
-    "Natural gas suppliers (e.g., Chevron, ExxonMobil)",
-    "Biogas producers (e.g., local utilities)",
-    "Hydrogen suppliers (e.g., Air Liquide, Linde)",
-    "Ceramic material suppliers (e.g., Heraeus, KEMET)",
-    "Electrolyte material suppliers (e.g., 3M, DuPont)"
+    "Natural gas suppliers",
+    "Biogas producers",
+    "Hydrogen providers",
+    "Fuel cell stack component manufacturers",
+    "Electrolyzer component suppliers"
   ],
   "downstream": [
-    "AMZN",
-    "GOOGL",
     "MSFT",
-    "INTC",
-    "Pacific Gas & Electric"
+    "Manufacturing facilities",
+    "Commercial building owners",
+    "Industrial power users",
+    "Utility-scale power customers"
   ],
   "competitors": [
     "FuelCell Energy",
     "Plug Power",
-    "Heliogen",
-    "PowerCell Sweden"
+    "Ballard Power Systems",
+    "Bloom Energy’s own internal competitors",
+    "Other solid oxide fuel cell developers"
   ],
   "key_products": [
-    "Solid Oxide Fuel Cells (SOFC)",
-    "On‑site Power Systems",
-    "Electrolyzers for Hydrogen Production",
-    "Power Generation Units",
-    "Fuel Cell Modules"
+    "Solid Oxide Fuel Cells (SOFCs)",
+    "Electrolyzers for hydrogen production",
+    "Integrated onsite power modules",
+    "Power management software",
+    "Fuel cell stack assemblies"
   ],
-  "extracted_at": "2026-07-20 17:27:11",
+  "extracted_at": "2026-07-21 17:11:03",
   "sources": [
     {
       "source": "Wikipedia",
@@ -40,15 +41,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Bloom_Energy",
+      "url": "https://www.bloomenergy.com/supplychain/",
       "query": "Bloom Energy Corporation suppliers manufacturers",
-      "snippet": "Bloom Energy (formerly, Ion America) is an American public company that designs and manufactures solid oxide fuel cells (SOFCs) which independently pr"
+      "snippet": "©2026 Bloom Energy . All rights reserved."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/BE-Suppliers",
+      "url": "https://www.bloomenergy.com/",
       "query": "Bloom Energy Corporation suppliers manufacturers",
-      "snippet": "Jul 7, 2026 · Sources: Bloom Energy Corporation 's official press releases and regulatory filings; CSIMarket.com's supply-chain research; and the fina"
+      "snippet": "Bloom Energy delivers clean, reliable, scalable onsite power to multiple industries, installed in as little as three months."
     },
     {
       "source": "DuckDuckGo",

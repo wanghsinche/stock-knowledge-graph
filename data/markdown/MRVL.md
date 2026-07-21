@@ -3,8 +3,8 @@ ticker: MRVL
 company: Marvell Technology, Inc.
 sector: Technology
 industry: Semiconductors
-extracted_at: 2026-07-20 17:24:25
-last_updated: 2026-07-20
+extracted_at: 2026-07-21 17:08:53
+last_updated: 2026-07-21
 ---
 
 # MRVL - Marvell Technology, Inc.
@@ -12,7 +12,7 @@ last_updated: 2026-07-20
 ## 基本信息
 
 - **所属行业**: Technology / Semiconductors
-- **提取时间**: 2026-07-20 17:24:25
+- **提取时间**: 2026-07-21 17:08:53
 
 ## 产业链关系
 
@@ -20,38 +20,38 @@ last_updated: 2026-07-20
 - [[TSM]]
 - [[005930.KS]]
 - [[GlobalFoundries]]
-- [[UMC]]
-- [[SMIC]]
+- [[INTC]]
+- [[MU]]
 
 ### 下游客户
-- [[AMZN]]
-- [[GOOGL]]
-- [[MSFT]]
-- [[Alibaba Cloud]]
-- [[Huawei Cloud]]
+- [[CSCO]]
+- [[DELL]]
+- [[NetApp]]
+- [[Huawei]]
+- [[005930.KS]]
 
 ### 竞争对手
 - [[AVGO]]
-- [[QCOM]]
 - [[INTC]]
+- [[QCOM]]
+- [[MediaTek]]
 - [[NVDA]]
-- [[TXN]]
 
 ### 核心产品
-- [[Storage controllers]]
-- [[Network processors]]
 - [[Ethernet controllers]]
-- [[Wi-Fi chips]]
-- [[5G modems]]
+- [[Storage controllers]]
+- [[Wi‑Fi and Bluetooth chips]]
+- [[5G modem solutions]]
+- [[Network interface controllers]]
 
 ## 数据来源
 
 - [Marvell Technology](https://en.wikipedia.org/wiki/Marvell_Technology,_Inc.)
-- [Marvell Technology, Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/Marvell_Technology)
-- [Marvell Technology, Inc. suppliers manufacturers](https://csimarket.com/stocks/MRVL-Suppliers)
-- [Marvell Technology, Inc. major customers clients](https://csimarket.com/stocks/MRVL-Customers)
-- [Marvell Technology, Inc. major customers clients](https://matrixbcg.com/blogs/target-market/marvell)
+- [Marvell Technology, Inc. suppliers manufacturers](https://www.marvell.com/)
+- [Marvell Technology, Inc. suppliers manufacturers](https://csimarket.com/stocks/competitionSEG3.php?inc&supply&code=MRVL)
+- [Marvell Technology, Inc. major customers clients](https://en.wikipedia.org/wiki/Marvell_Technology)
+- [Marvell Technology, Inc. major customers clients](https://www.marvell.com/)
 
 ## 元数据
 
-- **更新日期**: 2026-07-20
+- **更新日期**: 2026-07-21
