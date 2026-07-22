@@ -5,17 +5,17 @@
   "industry": "Banks - Diversified",
   "upstream": [
     "MSFT",
-    "Consulting firms (e.g., Accenture, Deloitte)",
-    "Legal service providers",
-    "Office supply and equipment suppliers",
-    "Cybersecurity firms"
+    "Data providers (e.g., Bloomberg, Thomson Reuters)",
+    "Payment networks (e.g., Visa, Mastercard)",
+    "AMZN",
+    "Cybersecurity firms (e.g., Palo Alto Networks)"
   ],
   "downstream": [
-    "Retail banking customers (individuals)",
-    "Corporate clients (mid‑size to multinational)",
-    "Institutional investors (mutual funds, pension funds)",
-    "Wealth management clients",
-    "Mortgage borrowers"
+    "Retail banking customers",
+    "Small and medium-sized business clients",
+    "Large corporate clients",
+    "Institutional investors",
+    "Government and public sector entities"
   ],
   "competitors": [
     "Bank of America",
@@ -25,43 +25,43 @@
     "Morgan Stanley"
   ],
   "key_products": [
-    "Consumer banking (checking, savings, credit cards)",
-    "Commercial banking (loans, treasury services)",
-    "Investment banking (M&A, underwriting)",
-    "Asset management and wealth management",
-    "Mortgage and real‑estate financing"
+    "Retail banking services",
+    "Commercial and investment banking",
+    "Wealth and asset management",
+    "Credit cards and consumer loans",
+    "Treasury and cash management"
   ],
-  "extracted_at": "2026-07-20 17:33:35",
+  "extracted_at": "2026-07-22 17:20:45",
   "sources": [
     {
       "source": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/JPM",
-      "title": "JPM",
-      "snippet": "JPM may refer to:"
+      "url": "https://en.wikipedia.org/wiki/JPMorgan_Chase_&_Co.",
+      "title": "JPMorgan Chase",
+      "snippet": "JPMorgan Chase & Co. is an American multinational banking institution headquartered in New York City and incorporated in Delaware. It is the largest bank in the United States, and the world's largest "
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/JPMorgan_Chase",
+      "query": "JPMorgan Chase & Co. suppliers manufacturers",
+      "snippet": "JPMorgan Chase & Co . (stylized as JPMorganChase ) is an American multinational banking institution headquartered in New York City and incorporated in"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.jpmorganchase.com/about/suppliers",
-      "query": "JPM suppliers manufacturers",
-      "snippet": "Suppliers An inclusive supply chain where every business, including but not limited to small and diverse businesses, has the opportunity to be conside"
+      "query": "JPMorgan Chase & Co. suppliers manufacturers",
+      "snippet": "Building strong partnerships is the cornerstone of our success. At JPMorganChase , we place particular value in our supplier partnerships. Thanks to t"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://jpmorganchase.suppliergateway.com/",
-      "query": "JPM suppliers manufacturers",
-      "snippet": "Supplier Network Registration JPMorganChase is dedicated to building an inclusive supply chain that enables our firm, business partners, and communiti"
+      "url": "https://en.wikipedia.org/wiki/JPMorgan_Chase",
+      "query": "JPMorgan Chase & Co. major customers clients",
+      "snippet": "The JPMorgan Chase logo prior to the 2008 rebranding As of June 2008, the JPMorgan logo used for the company's Investment Banking, Asset Management, a"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.marketwatch.com/investing/stock/jpm?mod=canadian-markets",
-      "query": "JPM major customers clients",
-      "snippet": "JPM | Complete JPMorgan Chase & Co. stock news by MarketWatch. View real-time stock prices and stock quotes for a full financial overview.The CIB segm"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/JPM/holders/?ltr=1",
-      "query": "JPM major customers clients",
-      "snippet": "Find out the direct holders, institutional holders and mutual fund holders for JPMorgan Chase & Co. ( JPM ). JPM : Risk or rebound? Recent transaction"
+      "url": "https://csimarket.com/stocks/JPM-Customers",
+      "query": "JPMorgan Chase & Co. major customers clients",
+      "snippet": "Jpmorgan Chase And Co 's Comment on Sales, Marketing and Customers JPMorgan Chase serves customers primarily in the United States and includes corpora"
     }
   ]
 }

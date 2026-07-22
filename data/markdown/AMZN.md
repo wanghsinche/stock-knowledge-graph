@@ -3,8 +3,8 @@ ticker: AMZN
 company: Amazon.com, Inc.
 sector: Consumer Cyclical
 industry: Internet Retail
-extracted_at: 2026-07-21 17:07:57
-last_updated: 2026-07-21
+extracted_at: 2026-07-22 17:09:52
+last_updated: 2026-07-22
 ---
 
 # AMZN - Amazon.com, Inc.
@@ -12,46 +12,46 @@ last_updated: 2026-07-21
 ## 基本信息
 
 - **所属行业**: Consumer Cyclical / Internet Retail
-- **提取时间**: 2026-07-21 17:07:57
+- **提取时间**: 2026-07-22 17:09:52
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Consumer goods manufacturers]]
+- [[Book publishers]]
 - [[Electronics manufacturers]]
-- [[Apparel manufacturers]]
+- [[Apparel suppliers]]
 - [[Home goods manufacturers]]
 - [[Third‑party sellers]]
 
 ### 下游客户
-- [[Retail consumers]]
-- [[Business customers]]
+- [[Individual consumers]]
+- [[Small and medium businesses using AWS]]
 - [[Prime members]]
-- [[Enterprise customers (AWS)]]
-- [[Government agencies]]
+- [[AMZN]]
+- [[AMZN]]
 
 ### 竞争对手
 - [[Walmart]]
-- [[eBay]]
 - [[Alibaba]]
-- [[Target]]
+- [[eBay]]
 - [[Shopify]]
+- [[MSFT]]
 
 ### 核心产品
 - [[Amazon.com e‑commerce platform]]
-- [[Amazon Web Services (AWS)]]
-- [[Amazon Prime subscription]]
-- [[Amazon Devices (Echo, Kindle, Fire)]]
-- [[Amazon Advertising]]
+- [[Amazon Web Services (cloud computing)]]
+- [[Amazon Prime Video (streaming)]]
+- [[Amazon Kindle (e‑books)]]
+- [[Amazon Echo/Alexa (smart home devices)]]
 
 ## 数据来源
 
 - [Amazon (company)](https://en.wikipedia.org/wiki/Amazon.com,_Inc.)
-- [Amazon.com, Inc. suppliers manufacturers](https://supply.amazon.com/)
-- [Amazon.com, Inc. suppliers manufacturers](https://www.thesellingguys.com/online-sourcing-buying-wholesalers-distributors/)
-- [Amazon.com, Inc. major customers clients](https://ir.aboutamazon.com/)
-- [Amazon.com, Inc. major customers clients](https://www.amazon.com/stores/OatsOvernight/page/99DAFB76-60AF-4F63-A981-C10B9DE06094)
+- [Amazon.com, Inc. suppliers manufacturers](https://www.alibaba.com/)
+- [Amazon.com, Inc. suppliers manufacturers](https://ir.aboutamazon.com/)
+- [Amazon.com, Inc. major customers clients](https://en.wikipedia.org/wiki/Amazon_(company))
+- [Amazon.com, Inc. major customers clients](https://aws.amazon.com/about-aws/our-customers-and-partners/)
 
 ## 元数据
 
-- **更新日期**: 2026-07-21
+- **更新日期**: 2026-07-22

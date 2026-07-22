@@ -3,8 +3,8 @@ ticker: LITE
 company: Lumentum Holdings Inc.
 sector: Technology
 industry: Communication Equipment
-extracted_at: 2026-07-21 17:10:34
-last_updated: 2026-07-21
+extracted_at: 2026-07-22 17:15:01
+last_updated: 2026-07-22
 ---
 
 # LITE - Lumentum Holdings Inc.
@@ -12,28 +12,46 @@ last_updated: 2026-07-21
 ## 基本信息
 
 - **所属行业**: Technology / Communication Equipment
-- **提取时间**: 2026-07-21 17:10:34
+- **提取时间**: 2026-07-22 17:15:01
 
 ## 产业链关系
 
 ### 上游供应商
-_暂无数据_
+- [[Optical fiber manufacturers]]
+- [[Laser diode suppliers]]
+- [[Semiconductor component suppliers]]
+- [[Photonic integrated circuit suppliers]]
+- [[Optical lens manufacturers]]
 
 ### 下游客户
-_暂无数据_
+- [[CAT]]
+- [[Data center infrastructure vendors]]
+- [[Aerospace and defense contractors]]
+- [[Medical device manufacturers]]
+- [[Semiconductor equipment manufacturers]]
 
 ### 竞争对手
-_暂无数据_
+- [[Coherent Inc.]]
+- [[II-VI Incorporated]]
+- [[Trumpf GmbH & Co. KG]]
+- [[Lumenis Ltd.]]
+- [[OptoSigma Inc.]]
 
 ### 核心产品
-_暂无数据_
+- [[Optical transceivers]]
+- [[Laser modules]]
+- [[Photonic integrated circuits]]
+- [[Optical amplifiers]]
+- [[Fiber optic components]]
 
 ## 数据来源
 
 - 
-- [Lumentum Holdings Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/Lumentum)
-- [Lumentum Holdings Inc. suppliers manufacturers](https://csimarket.com/stocks/LITE-Suppliers)
+- [Lumentum Holdings Inc. suppliers manufacturers](https://csimarket.com/stocks/fundamentals_glance.php?code=LITE)
+- [Lumentum Holdings Inc. suppliers manufacturers](https://www.aaii.com/stock/ticker/LITE)
+- [Lumentum Holdings Inc. major customers clients](https://en.wikipedia.org/wiki/Lumentum)
+- [Lumentum Holdings Inc. major customers clients](https://csimarket.com/stocks/LITE-Customers)
 
 ## 元数据
 
-- **更新日期**: 2026-07-21
+- **更新日期**: 2026-07-22

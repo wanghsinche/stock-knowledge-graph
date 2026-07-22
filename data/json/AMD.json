@@ -8,12 +8,12 @@
     "005930.KS",
     "GlobalFoundries",
     "UMC",
-    "ASE Technology Holding"
+    "TSM"
   ],
   "downstream": [
     "DELL",
     "HPQ",
-    "Lenovo Group",
+    "Lenovo",
     "MSFT",
     "SONY"
   ],
@@ -28,10 +28,10 @@
     "Ryzen CPUs",
     "EPYC CPUs",
     "Radeon GPUs",
-    "Xilinx FPGAs",
-    "SoC solutions"
+    "Radeon Instinct GPUs",
+    "Xilinx FPGAs"
   ],
-  "extracted_at": "2026-07-21 17:06:47",
+  "extracted_at": "2026-07-22 17:07:45",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/AMD",
+      "query": "Advanced Micro Devices, Inc. suppliers manufacturers",
+      "snippet": "5 days ago - To immediately secure a customer ... source supplier of microchips designed by Fairchild (the 5 V TTL \"9300\" logic series) and National S"
+    },
+    {
+      "source": "DuckDuckGo",
       "url": "https://www.britannica.com/money/Advanced-Micro-Devices-Inc",
       "query": "Advanced Micro Devices, Inc. suppliers manufacturers",
       "snippet": "Advanced Micro Devices , Inc . ( AMD ) is an American semiconductor designer and global supplier of computing and graphics technologies used in data c"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/AMD/",
-      "query": "Advanced Micro Devices, Inc. suppliers manufacturers",
-      "snippet": "Find the latest Advanced Micro Devices , Inc . ( AMD ) stock quote, history, news and other vital information to help you with your stock trading and "
+      "url": "https://en.wikipedia.org/wiki/AMD",
+      "query": "Advanced Micro Devices, Inc. major customers clients",
+      "snippet": "5 days ago - Advanced Micro Devices , Inc . (AMD) is an American multinational semiconductor company headquartered in Santa Clara, California. It deve"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.britannica.com/money/Advanced-Micro-Devices-Inc",
+      "url": "https://csimarket.com/stocks/markets_glance.php?code=AMD",
       "query": "Advanced Micro Devices, Inc. major customers clients",
-      "snippet": "Advanced Micro Devices , Inc . ( AMD ) is an American semiconductor designer and global supplier of computing and graphics technologies used in data c"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/AMD/",
-      "query": "Advanced Micro Devices, Inc. major customers clients",
-      "snippet": "Find the latest Advanced Micro Devices , Inc . ( AMD ) stock quote, history, news and other vital information to help you with your stock trading and "
+      "snippet": "1 month ago - Advanced Micro Devices Inc customers and markets, results by customer and performance relative to AMD, by company and industry - CSIMark"
     }
   ]
 }

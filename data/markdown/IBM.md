@@ -3,8 +3,8 @@ ticker: IBM
 company: International Business Machines Corporation
 sector: Technology
 industry: Information Technology Services
-extracted_at: 2026-07-21 17:12:31
-last_updated: 2026-07-21
+extracted_at: 2026-07-22 17:16:25
+last_updated: 2026-07-22
 ---
 
 # IBM - International Business Machines Corporation
@@ -12,46 +12,43 @@ last_updated: 2026-07-21
 ## 基本信息
 
 - **所属行业**: Technology / Information Technology Services
-- **提取时间**: 2026-07-21 17:12:31
+- **提取时间**: 2026-07-22 17:16:25
 
 ## 产业链关系
 
 ### 上游供应商
-- [[INTC]]
-- [[NVDA]]
-- [[CSCO]]
-- [[DELL]]
-- [[QCOM]]
+- [[Bundy Manufacturing Company]]
+- [[IBM]]
 
 ### 下游客户
-- [[U.S. Federal Government]]
+- [[U.S. federal government]]
+- [[European Union]]
 - [[Bank of America]]
-- [[UnitedHealth Group]]
-- [[General Electric]]
-- [[NASA]]
+- [[Walmart]]
+- [[United Nations]]
 
 ### 竞争对手
 - [[MSFT]]
-- [[Accenture]]
-- [[ORCL]]
-- [[SAP]]
 - [[AMZN]]
+- [[GOOGL]]
+- [[ORCL]]
+- [[Accenture]]
 
 ### 核心产品
 - [[IBM Cloud]]
-- [[Watson AI]]
-- [[IBM Security]]
+- [[IBM Watson]]
 - [[IBM Power Systems]]
-- [[IBM zSeries]]
+- [[IBM z Systems]]
+- [[IBM Security]]
 
 ## 数据来源
 
 - [IBM](https://en.wikipedia.org/wiki/International_Business_Machines_Corporation)
-- [International Business Machines Corporation suppliers manufacturers](https://csimarket.com/stocks/IBM-Suppliers)
-- [International Business Machines Corporation suppliers manufacturers](https://stockanalysis.com/stocks/ibm/company/)
-- [International Business Machines Corporation major customers clients](https://pluang.com/en/compare/axti-vs-ibm)
+- [International Business Machines Corporation suppliers manufacturers](https://en.wikipedia.org/wiki/List_of_mergers_and_acquisitions_by_IBM)
+- [International Business Machines Corporation suppliers manufacturers](https://en.wikipedia.org/wiki/IBM_Microelectronics)
 - [International Business Machines Corporation major customers clients](https://finance.yahoo.com/quote/IBM/)
+- [International Business Machines Corporation major customers clients](https://pluang.com/en/compare/axti-vs-ibm)
 
 ## 元数据
 
-- **更新日期**: 2026-07-21
+- **更新日期**: 2026-07-22

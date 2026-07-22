@@ -1,57 +1,57 @@
 ---
 ticker: XOM
-company: Exxon Mobil Corporation
+company: ExxonMobil Holdings Corporation
 sector: Energy
 industry: Oil & Gas Integrated
-extracted_at: 2026-07-20 17:35:36
-last_updated: 2026-07-20
+extracted_at: 2026-07-22 17:19:31
+last_updated: 2026-07-22
 ---
 
-# XOM - Exxon Mobil Corporation
+# XOM - ExxonMobil Holdings Corporation
 
 ## 基本信息
 
 - **所属行业**: Energy / Oil & Gas Integrated
-- **提取时间**: 2026-07-20 17:35:36
+- **提取时间**: 2026-07-22 17:19:31
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Petroleum refining equipment manufacturers]]
-- [[Drilling rig suppliers]]
+- [[Crude oil producers]]
+- [[Drilling equipment manufacturers]]
 - [[Petrochemical feedstock suppliers]]
-- [[Chemical service providers]]
-- [[Oilfield services companies]]
+- [[Exploration service providers]]
+- [[Oilfield chemicals suppliers]]
 
 ### 下游客户
 - [[Automotive fuel distributors]]
-- [[Airline fuel suppliers]]
+- [[Aviation fuel suppliers]]
 - [[Industrial petrochemical plants]]
 - [[Retail gasoline stations]]
-- [[Chemical manufacturing firms]]
+- [[Chemical manufacturing customers]]
 
 ### 竞争对手
 - [[Chevron Corporation]]
 - [[Royal Dutch Shell]]
 - [[BP plc]]
-- [[ConocoPhillips]]
 - [[TotalEnergies SE]]
+- [[ConocoPhillips]]
 
 ### 核心产品
 - [[Crude oil]]
 - [[Natural gas]]
-- [[Refined petroleum products]]
-- [[Petrochemicals]]
-- [[Liquefied natural gas (LNG)]]
+- [[Gasoline]]
+- [[Diesel]]
+- [[Jet fuel]]
 
 ## 数据来源
 
-- [XOM](https://en.wikipedia.org/wiki/XOM)
-- [XOM suppliers manufacturers](https://csimarket.com/stocks/XOM-Suppliers)
-- [XOM suppliers manufacturers](https://evidinvest.com/supply-chain/XOM)
-- [XOM major customers clients](https://www.marketbeat.com/stocks/NYSE/XOM/institutional-ownership/)
-- [XOM major customers clients](https://www.whalestream.com/market-tracker/XOM)
+- [ExxonMobil](https://en.wikipedia.org/wiki/ExxonMobil_Holdings_Corporation)
+- [ExxonMobil Holdings Corporation suppliers manufacturers](https://uk.finance.yahoo.com/quote/XOM.SN/profile/)
+- [ExxonMobil Holdings Corporation suppliers manufacturers](https://www.exxonmobil.com/en/home)
+- [ExxonMobil Holdings Corporation major customers clients](https://money.usnews.com/investing/stocks/xom-exxonmobil-holdings-corp)
+- [ExxonMobil Holdings Corporation major customers clients](https://www.bloomberg.com/profile/company/XOMUSD:SW)
 
 ## 元数据
 
-- **更新日期**: 2026-07-20
+- **更新日期**: 2026-07-22

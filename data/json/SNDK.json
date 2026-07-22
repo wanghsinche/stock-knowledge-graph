@@ -1,37 +1,37 @@
 {
   "ticker": "SNDK",
-  "company_name": "SanDisk Corporation",
+  "company_name": "Sandisk Corporation",
   "sector": "Technology",
   "industry": "Computer Hardware",
   "upstream": [
+    "005930.KS",
     "MU",
-    "Controller IC suppliers (e.g., Cypress, Renesas)",
-    "CAT",
-    "Packaging and encapsulation providers",
-    "Test and inspection equipment suppliers"
+    "SK Hynix",
+    "Toshiba Memory",
+    "INTC"
   ],
   "downstream": [
-    "AAPL",
-    "MSFT",
     "DELL",
-    "SONY",
-    "Automotive OEMs (for in‑vehicle infotainment systems)"
+    "HPQ",
+    "Lenovo Group",
+    "AAPL",
+    "SONY"
   ],
   "competitors": [
     "Kingston Technology",
-    "Lexar Technologies",
-    "005930.KS",
     "MU",
-    "WDC"
+    "Lexar Technologies",
+    "Corsair",
+    "PNY Technologies"
   ],
   "key_products": [
-    "SD and microSD memory cards",
-    "USB flash drives",
-    "Solid‑state drives (SSDs)",
-    "Embedded storage modules",
-    "Memory card readers"
+    "Solid State Drives (SSDs)",
+    "USB Flash Drives",
+    "SD Card Memory",
+    "microSD Card Memory",
+    "External Hard Drives"
   ],
-  "extracted_at": "2026-07-21 17:06:25",
+  "extracted_at": "2026-07-22 17:07:27",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.sandisk.com/en-us/company/distributors",
+      "url": "https://es.wikipedia.org/wiki/SanDisk",
       "query": "Sandisk Corporation suppliers manufacturers",
-      "snippet": "Find authorized SanDisk distributors and channel partners worldwide for trusted storage solutions and products."
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.accio.com/supplier/sandisk-manufacturer",
-      "query": "Sandisk Corporation suppliers manufacturers",
-      "snippet": "Jul 14, 2026 · Looking for SanDisk manufacturers ? Discover trusted suppliers of USB drives, memory cards, and SSDs. Click to connect with top provide"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/SNDK/",
-      "query": "Sandisk Corporation major customers clients",
-      "snippet": "Find the latest Sandisk Corporation (SNDK) stock quote, history, news and other vital information to help you with your stock trading and investing."
+      "snippet": "SanDisk es una empresa tecnológica con sede en Milpitas, Estados Unidos, dedicada al desarrollo y fabricación de dispositivos de almacenamiento de mem"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.sandisk.com/",
+      "query": "Sandisk Corporation suppliers manufacturers",
+      "snippet": "Limited to 1 per SANDISK Creator product purchase; subject to acceptance of applicable Terms of Use. Offer must be redeemed by January 31, 2028, or wh"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/Sandisk",
       "query": "Sandisk Corporation major customers clients",
-      "snippet": "Sandisk online store members receive free standard shipping on all eligible orders."
+      "snippet": "June 21, 2026 - On November 8, 1995, SunDisk changed its name to SanDisk to avoid confusion with Sun Microsystems, and went public under the new name "
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/markets_glance.php?code=SNDK",
+      "query": "Sandisk Corporation major customers clients",
+      "snippet": "June 20, 2026 - Sandisk customers and markets, results by customer and performance relative to SNDK, by company and industry - CSIMarket"
     }
   ]
 }

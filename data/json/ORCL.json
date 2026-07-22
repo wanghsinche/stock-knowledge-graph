@@ -6,32 +6,32 @@
   "upstream": [
     "INTC",
     "AMD",
-    "DELL",
-    "HPQ",
-    "IBM"
+    "NVDA",
+    "005930.KS",
+    "MU"
   ],
   "downstream": [
+    "AMZN",
+    "GOOGL",
     "Walmart",
-    "Coca‑Cola",
     "JPMorgan Chase",
-    "Bank of America",
-    "UnitedHealth Group"
+    "Bank of America"
   ],
   "competitors": [
     "MSFT",
     "SAP",
     "IBM",
-    "CRM",
-    "AMZN"
+    "AMZN",
+    "GOOGL"
   ],
   "key_products": [
     "Oracle Database",
     "Oracle Cloud Infrastructure",
+    "Oracle Autonomous Database",
     "Oracle ERP Cloud",
-    "Oracle Analytics Cloud",
-    "Oracle Autonomous Database"
+    "Oracle Analytics Cloud"
   ],
-  "extracted_at": "2026-07-21 17:11:53",
+  "extracted_at": "2026-07-22 17:14:43",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/ORCL-Suppliers",
+      "query": "Oracle Corporation suppliers manufacturers",
+      "snippet": "Jul 7, 2026 · To produce our hardware products, we rely on both our internal manufacturing operations as well as third party manufacturing partners. O"
+    },
+    {
+      "source": "DuckDuckGo",
       "url": "https://www.oracle.com/corporate/suppliers/",
       "query": "Oracle Corporation suppliers manufacturers",
       "snippet": "Doing Business with Oracle Oracle iSupplier Portal (iSP) is a secured self-service tool, which provides Oracle 's suppliers with the ability to use a "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/ORCL-Suppliers",
-      "query": "Oracle Corporation suppliers manufacturers",
-      "snippet": "Jul 7, 2026 · Oracle supply chain, list and performance of Oracles' suppliers - CSIMarket"
+      "url": "https://www.thomsondata.com/customer-base/oracle.php",
+      "query": "Oracle Corporation major customers clients",
+      "snippet": "An Oracle customers list is a data set that provides contact leads for marketing and promotional efforts. In the context of Oracle, such lists host in"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.oracle.com/",
+      "url": "https://www.appsruntheworld.com/customers-database/vendors/view/oracle",
       "query": "Oracle Corporation major customers clients",
-      "snippet": "Oracle offers a comprehensive and fully integrated stack of cloud applications and cloud platform services.."
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.britannica.com/money/Oracle-Corporation",
-      "query": "Oracle Corporation major customers clients",
-      "snippet": "Oracle is global corporation that develops and markets software applications for business.The relocation placed Oracle among several major technology "
+      "snippet": "List of companies using or evaluating Oracle applications, with details on their revenues, employees, industries, and locations."
     }
   ]
 }

@@ -1,18 +1,18 @@
 ---
 ticker: CRWV
 company: CoreWeave, Inc.
-sector: Technology / Software - Infrastructure
-industry: Artificial Intelligence Cloud Computing
-extracted_at: 2026-07-21 17:14:51
-last_updated: 2026-07-21
+sector: Technology
+industry: Software - Infrastructure
+extracted_at: 2026-07-22 17:15:28
+last_updated: 2026-07-22
 ---
 
 # CRWV - CoreWeave, Inc.
 
 ## 基本信息
 
-- **所属行业**: Technology / Software - Infrastructure / Artificial Intelligence Cloud Computing
-- **提取时间**: 2026-07-21 17:14:51
+- **所属行业**: Technology / Software - Infrastructure
+- **提取时间**: 2026-07-22 17:15:28
 
 ## 产业链关系
 
@@ -20,38 +20,38 @@ last_updated: 2026-07-21
 - [[NVDA]]
 - [[AMD]]
 - [[INTC]]
-- [[Supermicro]]
-- [[QCOM]]
+- [[TSM]]
+- [[005930.KS]]
 
 ### 下游客户
 - [[OpenAI]]
-- [[Mistral AI]]
-- [[IBM]]
+- [[Anthropic]]
 - [[MSFT]]
 - [[GOOGL]]
+- [[IBM]]
 
 ### 竞争对手
-- [[AMZN]]
-- [[MSFT]]
-- [[GOOGL]]
 - [[NVDA]]
-- [[Lambda Labs]]
+- [[AMZN]]
+- [[GOOGL]]
+- [[MSFT]]
+- [[IBM]]
 
 ### 核心产品
-- [[GPU Cloud Compute Services]]
-- [[AI Infrastructure]]
-- [[Chip Management Software]]
-- [[GPU Cluster Management]]
-- [[AI Workload Optimization]]
+- [[GPU‑based cloud infrastructure]]
+- [[GPU management software]]
+- [[AI compute services]]
+- [[Custom GPU instances]]
+- [[GPU virtualization]]
 
 ## 数据来源
 
 - [CoreWeave](https://en.wikipedia.org/wiki/CoreWeave,_Inc.)
 - [CoreWeave, Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/CoreWeave)
-- [CoreWeave, Inc. suppliers manufacturers](https://www.coreweave.com/)
-- [CoreWeave, Inc. major customers clients](https://www.appsruntheworld.com/customers-database/vendors/view/coreweave)
-- [CoreWeave, Inc. major customers clients](https://www.appsruntheworld.com/customers-database/products/view/coreweave-compute-services)
+- [CoreWeave, Inc. suppliers manufacturers](https://www.gurufocus.com/stock/FRA:I1V0/financials)
+- [CoreWeave, Inc. major customers clients](https://en.wikipedia.org/wiki/CoreWeave)
+- [CoreWeave, Inc. major customers clients](https://www.bloomberg.com/news/articles/2026-07-21/nvidia-touts-progress-getting-new-rubin-design-to-customers)
 
 ## 元数据
 
-- **更新日期**: 2026-07-21
+- **更新日期**: 2026-07-22

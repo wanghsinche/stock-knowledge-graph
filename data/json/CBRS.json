@@ -1,32 +1,37 @@
 {
   "ticker": "CBRS",
   "company_name": "Cerebras Systems Inc.",
-  "sector": "Technology",
-  "industry": "Semiconductors",
+  "sector": "Technology / Semiconductors",
+  "industry": "Semiconductor Equipment & AI Hardware",
   "upstream": [
-    "Flex",
-    "Andrew Feldman",
-    "Sam Altman",
-    "Other semiconductor foundries"
+    "TSM",
+    "005930.KS",
+    "MU",
+    "ASE Group",
+    "Amkor Technology"
   ],
   "downstream": [
-    "OpenAI"
+    "GOOGL",
+    "AMZN",
+    "MSFT",
+    "NVDA",
+    "IBM"
   ],
   "competitors": [
-    "Graphcore",
     "NVDA",
+    "Graphcore",
     "INTC",
     "AMD",
     "GOOGL"
   ],
   "key_products": [
-    "Wafer Scale Engine (WSE)-3",
-    "CS-3 Supercomputer",
+    "WSE‑3 Wafer Scale Engine",
+    "CS‑3 Supercomputer",
     "AI Inference Cloud API",
     "AI Training Cloud API",
-    "Data Center Solutions"
+    "Cerebras Data Center Solutions"
   ],
-  "extracted_at": "2026-07-10 17:54:35",
+  "extracted_at": "2026-07-22 17:13:27",
   "sources": [
     {
       "source": "Wikipedia",
@@ -36,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.cerebras.ai/",
+      "url": "https://en.wikipedia.org/wiki/Cerebras_Systems",
       "query": "Cerebras Systems Inc. suppliers manufacturers",
-      "snippet": "Andrew Feldman. Co-founder & CEO Cerebras Systems . Sam Altman. Cerebras adds a dedicated low-latency inference solution to our platform. That means f"
+      "snippet": "Cerebras Systems Inc ., headquartered in Sunnyvale, California, develops semiconductors, supercomputers, and related software to power artificial inte"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/technology/ai/articles/flex-cerebras-expand-partnership-scale-130500207.html",
+      "url": "https://www.aichipmap.com/en/company/cerebras/",
       "query": "Cerebras Systems Inc. suppliers manufacturers",
-      "snippet": "Flex and Cerebras Systems Inc . today announced an expanded manufacturing partnership to scale production of the Cerebras CS-3, one of the world's mos"
+      "snippet": "QWho supplies Cerebras Systems ? Cerebras Systems relies on 3 upstream suppliers across the AI chip supply chain."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.cerebras.ai/",
+      "url": "https://www.appsruntheworld.com/customers-database/vendors/view/cerebras-systems",
       "query": "Cerebras Systems Inc. major customers clients",
-      "snippet": "What customers are saying. OpenAI’s compute strategy is to build a resilient portfolio that matches the right systems to the right workloads. Cerebras"
+      "snippet": "List of companies using or evaluating Cerebras Systems applications, with details on their revenues, employees, industries, and locations."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://siliconangle.com/2026/07/09/inference-speed-gives-cerebras-edge-ai-infrastructure-race-raisesummit/",
+      "url": "https://whowinsthefuture.substack.com/p/cerebras-has-two-customers-and-a",
       "query": "Cerebras Systems Inc. major customers clients",
-      "snippet": "Cerebras Systems Inc . recognized that opportunity years before the market validated it, according to Andrew Feldman (pictured), founder and chief exe"
+      "snippet": "May 27, 2026 · The Third Customer Owns Stock in the First The third major customer is OpenAI, signed in January 2026. Most of Cerebras ’s $24.6 billio"
     }
   ]
 }

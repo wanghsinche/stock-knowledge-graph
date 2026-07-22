@@ -1,37 +1,37 @@
 {
   "ticker": "NFLX",
   "company_name": "Netflix, Inc.",
-  "sector": "Communication Services / Entertainment",
-  "industry": "Streaming Media",
+  "sector": "Communication Services",
+  "industry": "Entertainment",
   "upstream": [
-    "Content production studios (e.g., Warner Bros., Disney, Universal)",
-    "MSFT",
-    "AAPL",
-    "Advertising and marketing agencies",
-    "Cloud infrastructure providers"
+    "Disney",
+    "Warner Bros. Discovery",
+    "SONY",
+    "Universal Studios",
+    "AMZN"
   ],
   "downstream": [
-    "Individual subscribers worldwide",
-    "Corporate and institutional customers (e.g., airlines, hotels)",
-    "Device manufacturers (e.g., smart TV OEMs)",
-    "NFLX",
-    "CAT"
+    "Individual consumers worldwide",
+    "Corporate subscription accounts",
+    "CAT",
+    "Telecom partners",
+    "Streaming device manufacturers"
   ],
   "competitors": [
     "Disney+",
+    "HBO Max",
     "AMZN",
     "Hulu",
-    "HBO Max",
     "AAPL"
   ],
   "key_products": [
-    "Netflix streaming service",
-    "Netflix Originals (e.g., Stranger Things, The Crown)",
+    "Subscription Video on Demand (SVOD) streaming service",
+    "Original series and films",
     "Licensed third‑party content",
-    "Mobile and web apps",
-    "Smart TV and console apps"
+    "Interactive content (e.g., Black Mirror: Bandersnatch)",
+    "Mobile and offline viewing apps"
   ],
-  "extracted_at": "2026-07-21 17:11:32",
+  "extracted_at": "2026-07-22 17:15:11",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/NFLX-Suppliers",
+      "url": "https://csimarket.com/stocks/fundamentals_glance.php?code=NFLX",
       "query": "Netflix, Inc. suppliers manufacturers",
-      "snippet": "2 days ago · Netflix Inc supply chain, list and performance of Netflix Incs ' suppliers - CSIMarket"
+      "snippet": "Netflix Inc Suppliers Performance. Netflix Inc 's net income grew by 7.76 % in third quarter of 2025 year on year, above company average, • More on NF"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://npfp.netflixstudios.com/region/global/",
+      "url": "https://www.stock-analysis-on.net/NASDAQ/Company/Netflix-Inc",
       "query": "Netflix, Inc. suppliers manufacturers",
-      "snippet": "Visual Data (UK) became a Netflix Preferred Vendor in 2013 and its technical, professional and service standards are among the highest in the industry"
+      "snippet": "Netflix Inc . (NASDAQ:NFLX). The Company Profile. Financial Statements.An approach to decomposing Netflix Inc . return on equity, return on assets, an"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.inc.com/jason-aten/netflix-just-revealed-its-doing-the-1-thing-customers-were-most-afraid-of/91110628",
+      "url": "https://csimarket.com/stocks/NFLX-Customers",
       "query": "Netflix, Inc. major customers clients",
-      "snippet": "Look, that’s basically Netflix ’s most reliable strategy. It’s right up there with dumping an entire season of episodes at a time to encourage custome"
+      "snippet": "During the corresponding time, Netflix Inc recorded a revenue increase by 16.19 % year on year, sequentially revenue grew by 1.65 %. While revenue at "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://about.netflix.com/en",
+      "url": "https://ir.netflix.net/ir-overview/profile/default.aspx",
       "query": "Netflix, Inc. major customers clients",
-      "snippet": "We are here to entertain the world, one fan at a time. Thrilling everyone again and again. Whatever you’re into, whatever your mood, Netflix delivers "
+      "snippet": "6 days ago · Netflix is one of the world’s leading entertainment services offering TV series, films, games and live programming across a wide variety "
     }
   ]
 }

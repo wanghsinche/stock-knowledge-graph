@@ -2,56 +2,56 @@
 ticker: ONDS
 company: Ondas Inc.
 sector: Technology / Communication Equipment
-industry: Defense Drone & Autonomous Systems
-extracted_at: 2026-07-21 17:15:52
-last_updated: 2026-07-21
+industry: Autonomous Systems & Communication Equipment
+extracted_at: 2026-07-22 17:19:06
+last_updated: 2026-07-22
 ---
 
 # ONDS - Ondas Inc.
 
 ## 基本信息
 
-- **所属行业**: Technology / Communication Equipment / Defense Drone & Autonomous Systems
-- **提取时间**: 2026-07-21 17:15:52
+- **所属行业**: Technology / Communication Equipment / Autonomous Systems & Communication Equipment
+- **提取时间**: 2026-07-22 17:19:06
 
 ## 产业链关系
 
 ### 上游供应商
-- [[TXN]]
-- [[ADI]]
-- [[NXP Semiconductors]]
-- [[STMicroelectronics]]
-- [[Honeywell Aerospace]]
+- [[INTC]]
+- [[NVDA]]
+- [[QCOM]]
+- [[CSCO]]
+- [[JNPR]]
 
 ### 下游客户
-- [[U.S. Department of Defense]]
-- [[NATO]]
-- [[U.S. Air Force]]
-- [[U.S. Navy]]
-- [[Commercial Telecom Operators]]
+- [[Government agencies]]
+- [[Defense contractors]]
+- [[CAT]]
+- [[Automotive OEMs]]
+- [[Enterprise customers]]
 
 ### 竞争对手
-- [[DJI]]
-- [[AeroVironment]]
-- [[Parrot]]
-- [[Northrop Grumman]]
-- [[Raytheon Technologies]]
+- [[Waymo]]
+- [[TSLA]]
+- [[NVDA]]
+- [[Mobileye]]
+- [[Aurora]]
 
 ### 核心产品
-- [[Unmanned Aerial Vehicles (UAVs)]]
-- [[Autonomous Drone Systems]]
-- [[Secure Communication Networks]]
-- [[Satellite Communication Equipment]]
-- [[Defense Electronics]]
+- [[Autonomous navigation systems]]
+- [[Communication modules]]
+- [[Edge computing platforms]]
+- [[Sensor fusion software]]
+- [[Vehicle-to-everything (V2X) solutions]]
 
 ## 数据来源
 
 - 
 - [Ondas Inc. suppliers manufacturers](https://csimarket.com/stocks/ONDS-Suppliers)
-- [Ondas Inc. suppliers manufacturers](https://www.hawkmontresearch.com/post/ondas-inc-onds-the-supplier-ecosystem-report)
+- [Ondas Inc. suppliers manufacturers](https://www.ondas.com/?lang=en)
 - [Ondas Inc. major customers clients](https://csimarket.com/stocks/ONDS-Customers)
 - [Ondas Inc. major customers clients](https://www.ondas.com/?lang=en)
 
 ## 元数据
 
-- **更新日期**: 2026-07-21
+- **更新日期**: 2026-07-22

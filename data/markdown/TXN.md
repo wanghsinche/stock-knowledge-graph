@@ -3,8 +3,8 @@ ticker: TXN
 company: Texas Instruments Incorporated
 sector: Technology
 industry: Semiconductors
-extracted_at: 2026-07-08 17:34:43
-last_updated: 2026-07-08
+extracted_at: 2026-07-22 17:18:27
+last_updated: 2026-07-22
 ---
 
 # TXN - Texas Instruments Incorporated
@@ -12,36 +12,36 @@ last_updated: 2026-07-08
 ## 基本信息
 
 - **所属行业**: Technology / Semiconductors
-- **提取时间**: 2026-07-08 17:34:43
+- **提取时间**: 2026-07-22 17:18:27
 
 ## 产业链关系
 
 ### 上游供应商
-- [[AMAT]]
-- [[ASML]]
-- [[LRCX]]
-- [[Tokyo Electron]]
-- [[KLA Corporation]]
+- [[TSM]]
+- [[GlobalFoundries]]
+- [[005930.KS]]
+- [[UMC]]
+- [[SMIC]]
 
 ### 下游客户
 - [[Automotive OEMs]]
-- [[Industrial automation companies]]
 - [[Consumer electronics manufacturers]]
+- [[Industrial automation companies]]
 - [[CAT]]
 - [[Aerospace and defense contractors]]
 
 ### 竞争对手
 - [[ADI]]
+- [[Maxim Integrated]]
 - [[NXP Semiconductors]]
-- [[STMicroelectronics]]
 - [[Infineon Technologies]]
-- [[ON Semiconductor]]
+- [[STMicroelectronics]]
 
 ### 核心产品
 - [[Analog integrated circuits]]
 - [[Embedded processors]]
 - [[Digital Light Processing (DLP) technology]]
-- [[Calculators]]
+- [[Graphing calculators]]
 - [[Microcontrollers]]
 
 ## 数据来源
@@ -54,4 +54,4 @@ last_updated: 2026-07-08
 
 ## 元数据
 
-- **更新日期**: 2026-07-08
+- **更新日期**: 2026-07-22

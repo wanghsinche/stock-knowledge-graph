@@ -1,0 +1,67 @@
+{
+  "ticker": "COF",
+  "company_name": "Capital One Financial Corporation",
+  "sector": "Financial Services",
+  "industry": "Credit Services",
+  "upstream": [
+    "ORCL",
+    "MSFT",
+    "IBM",
+    "AMZN",
+    "Visa"
+  ],
+  "downstream": [
+    "Individual consumers",
+    "Small businesses",
+    "Large corporations",
+    "Car finance customers",
+    "Credit card holders"
+  ],
+  "competitors": [
+    "JPMorgan Chase",
+    "Bank of America",
+    "Citigroup",
+    "Wells Fargo",
+    "American Express"
+  ],
+  "key_products": [
+    "Capital One credit cards",
+    "Discover Card",
+    "Diners Club",
+    "Consumer banking services",
+    "Commercial banking services"
+  ],
+  "extracted_at": "2026-07-22 17:21:25",
+  "sources": [
+    {
+      "source": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Capital_One_Financial_Corporation",
+      "title": "Capital One",
+      "snippet": "Capital One Financial Corporation is an American bank holding company headquartered in Tysons, Virginia, with operations in the United States, Canada, and the United Kingdom. It is one of the largest "
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/Capital_One",
+      "query": "Capital One Financial Corporation suppliers manufacturers",
+      "snippet": "Capital One Financial Corporation is an American bank holding company headquartered in Tysons, Virginia , with operations in the United States, Canada"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.capitalone.com/about/corporate-information/purchasing-orders-invoicing/",
+      "query": "Capital One Financial Corporation suppliers manufacturers",
+      "snippet": "If you are already doing business with Capital One , we have information available to help you learn more about the supplier setup process, purchase o"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.capitalone.com/",
+      "query": "Capital One Financial Corporation major customers clients",
+      "snippet": "Learn how banking with Capital One can help you meet your financial goals.Explore Capital One accounts for you and your business - including credit ca"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.capitalone.ca/sign-in/",
+      "query": "Capital One Financial Corporation major customers clients",
+      "snippet": "Sign up or sign in to online banking. Access your Capital One credit card account and keep track of your credit score with Credit Keeper."
+    }
+  ]
+}

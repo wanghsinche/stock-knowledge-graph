@@ -1,37 +1,40 @@
 {
   "ticker": "TSLA",
   "company_name": "Tesla, Inc.",
-  "sector": "Consumer Cyclical",
-  "industry": "Auto Manufacturers",
+  "sector": "Consumer Cyclical / Auto Manufacturers",
+  "industry": "Automotive & Clean Energy",
   "upstream": [
     "CAT",
-    "LG Energy Solution",
     "Panasonic",
     "005930.KS",
-    "BYD"
+    "LG Chem",
+    "Bosch"
   ],
   "downstream": [
     "Individual consumers",
     "Commercial fleet operators",
-    "Utility companies (Megapack deployments)",
-    "Corporate fleet customers",
-    "Government agencies"
+    "Government agencies",
+    "Energy storage customers",
+    "Solar installation partners"
   ],
   "competitors": [
+    "Ford Motor Company",
     "General Motors",
-    "Ford",
-    "Volkswagen",
-    "Hyundai",
-    "Nissan"
+    "Volkswagen AG",
+    "Nissan Motor Co.",
+    "Hyundai Motor Group"
   ],
   "key_products": [
+    "Model S",
     "Model 3",
+    "Model X",
     "Model Y",
     "Cybertruck",
     "Powerwall",
-    "Solar Roof"
+    "Solar Roof",
+    "Semi"
   ],
-  "extracted_at": "2026-07-21 17:06:59",
+  "extracted_at": "2026-07-22 17:08:52",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +44,27 @@
     },
     {
       "source": "DuckDuckGo",
+      "url": "https://www.suppliersmap.com/tesla",
+      "query": "Tesla, Inc. suppliers manufacturers",
+      "snippet": "Explore Tesla's key suppliers including CATL and Panasonic for batteries, Samsung for chips, Bosch for braking systems, and STMicroelectronics for pow"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.investopedia.com/ask/answers/052815/who-are-teslas-tsla-main-suppliers.asp",
+      "query": "Tesla, Inc. suppliers manufacturers",
+      "snippet": "Nov 4, 2025 · Discover Tesla's key and rumored parts suppliers . Learn which companies provide essential components for Tesla's electric vehicles and "
+    },
+    {
+      "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Tesla,_Inc.",
-      "query": "Tesla, Inc. suppliers manufacturers",
-      "snippet": "Tesla purchases these batteries from three suppliers , CATL, LG Energy Solution, and Panasonic, the latter of which has co-located some of its battery"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/suppliers_glance.php?code=TSLA",
-      "query": "Tesla, Inc. suppliers manufacturers",
-      "snippet": "Tesla Inc 's Suppliers Performance. TSLA's Supply Chain. Tesla relies on a wide range of suppliers beyond just battery manufacturers to build our elec"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/TSLA-Customers",
       "query": "Tesla, Inc. major customers clients",
-      "snippet": "We currently sell our cars primarily to individual customers . We have strategic or commercial relationships with Daimler, Toyota, and Panasonic. We c"
+      "snippet": "Tesla subsidiary Tesla Energy develops, builds, sells, and installs solar energy generation systems and battery energy storage products (as well as re"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://mungomash.com/orgs/tesla/customers/",
+      "url": "https://www.tesla.com/",
       "query": "Tesla, Inc. major customers clients",
-      "snippet": "Named Tesla customers across Energy / Megapack utility-scale deployments, NACS-adoption partner automakers and charging networks, Solar projects, and "
+      "snippet": "Explore limited-time offers on Tesla vehicles. Learn More. Tesla vehicle. Inventory. Find nearby vehicles available for immediate delivery."
     }
   ]
 }

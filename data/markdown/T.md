@@ -3,8 +3,8 @@ ticker: T
 company: AT&T Inc.
 sector: Communication Services
 industry: Telecom Services
-extracted_at: 2026-07-21 17:12:19
-last_updated: 2026-07-21
+extracted_at: 2026-07-22 17:13:11
+last_updated: 2026-07-22
 ---
 
 # T - AT&T Inc.
@@ -12,7 +12,7 @@ last_updated: 2026-07-21
 ## 基本信息
 
 - **所属行业**: Communication Services / Telecom Services
-- **提取时间**: 2026-07-21 17:12:19
+- **提取时间**: 2026-07-22 17:13:11
 
 ## 产业链关系
 
@@ -39,10 +39,10 @@ last_updated: 2026-07-21
 
 ### 核心产品
 - [[Wireless voice and data services]]
-- [[Fiber‑optic broadband]]
-- [[AT&T TV (streaming and satellite)]]
-- [[Business networking and cloud services]]
-- [[Data center and enterprise solutions]]
+- [[Fiber optic broadband]]
+- [[DirecTV satellite TV]]
+- [[AT&T Business services]]
+- [[AT&T Cloud services]]
 
 ## 数据来源
 
@@ -50,8 +50,8 @@ last_updated: 2026-07-21
 - [AT&T Inc. suppliers manufacturers](https://globalsupplychain.att.com/attsuppliers.html)
 - [AT&T Inc. suppliers manufacturers](https://attsuppliers.com/Home/ProspectiveOverview)
 - [AT&T Inc. major customers clients](https://finance.yahoo.com/quote/T/)
-- [AT&T Inc. major customers clients](https://www.finam.ru/quote/batsns/t/)
+- [AT&T Inc. major customers clients](https://www.youtube.com/watch?v=bp1PJJR-xC0)
 
 ## 元数据
 
-- **更新日期**: 2026-07-21
+- **更新日期**: 2026-07-22

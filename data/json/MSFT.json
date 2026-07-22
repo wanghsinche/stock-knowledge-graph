@@ -7,15 +7,15 @@
     "INTC",
     "AMD",
     "NVDA",
-    "DELL",
-    "CSCO"
+    "STX",
+    "WDC"
   ],
   "downstream": [
-    "Large enterprises (e.g., Walmart, Bank of America)",
-    "Government agencies",
-    "Consumers using Windows and Office",
-    "Cloud customers (Azure)",
-    "Gaming community (Xbox)"
+    "Enterprise customers (e.g., banks, government agencies)",
+    "DELL",
+    "Consumer users (Windows, Office, Xbox)",
+    "Cloud service users (Azure)",
+    "MSFT"
   ],
   "competitors": [
     "AAPL",
@@ -28,10 +28,10 @@
     "Windows operating system",
     "Microsoft Office suite",
     "Azure cloud platform",
-    "Microsoft 365",
+    "Microsoft Teams",
     "Xbox gaming console"
   ],
-  "extracted_at": "2026-07-21 17:07:43",
+  "extracted_at": "2026-07-22 17:08:27",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/suppliers_glance.php?code=MSFT",
+      "url": "https://csimarket.com/stocks/MSFT-Suppliers",
       "query": "Microsoft Corporation suppliers manufacturers",
-      "snippet": "News about Microsoft Corporation Contracts. Microsoft 's Comment on Supply Chain. We develop most of our products and services internally through four"
+      "snippet": "Jul 7, 2026 · Microsoft's Suppliers recorded an increase in sales by 41.5 % year on year in Q1 2026, sequentially sales grew by 10.71 %, Microsoft rec"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.alibaba.com/",
+      "url": "https://www.microsoft.com/en-us/procurement",
       "query": "Microsoft Corporation suppliers manufacturers",
-      "snippet": "Find quality Manufacturers , Suppliers , Exporters, Importers, Buyers, Wholesalers, Products and Trade Leads from our award-winning International Trad"
+      "snippet": "Microsoft Procurement is committed to building a diverse global supplier base that reflects the global diversity of our customers and provides all typ"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.globaldata.com/company-profile/microsoft-corp/locations/",
+      "url": "https://csimarket.com/stocks/MSFT-Customers",
       "query": "Microsoft Corporation major customers clients",
-      "snippet": "Microsoft Corp Locations - Headquarters & Offices."
+      "snippet": "Microsoft customers and markets, results by customer and performance relative to MSFT, by company and industry - CSIMarket"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.tradingview.com/symbols/NASDAQ-MSFT/",
+      "url": "https://www.appsruntheworld.com/customers-database/vendors/view/microsoft",
       "query": "Microsoft Corporation major customers clients",
-      "snippet": "View live Microsoft Corp . chart to track its stock's price action. Find market predictions, MSFT financials and market news."
+      "snippet": "List of companies using or evaluating Microsoft applications, with details on their revenues, employees, industries, and locations."
     }
   ]
 }

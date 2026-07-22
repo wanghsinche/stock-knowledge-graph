@@ -4,34 +4,31 @@
   "sector": "Technology",
   "industry": "Information Technology Services",
   "upstream": [
-    "INTC",
-    "NVDA",
-    "CSCO",
-    "DELL",
-    "QCOM"
+    "Bundy Manufacturing Company",
+    "IBM"
   ],
   "downstream": [
-    "U.S. Federal Government",
+    "U.S. federal government",
+    "European Union",
     "Bank of America",
-    "UnitedHealth Group",
-    "General Electric",
-    "NASA"
+    "Walmart",
+    "United Nations"
   ],
   "competitors": [
     "MSFT",
-    "Accenture",
+    "AMZN",
+    "GOOGL",
     "ORCL",
-    "SAP",
-    "AMZN"
+    "Accenture"
   ],
   "key_products": [
     "IBM Cloud",
-    "Watson AI",
-    "IBM Security",
+    "IBM Watson",
     "IBM Power Systems",
-    "IBM zSeries"
+    "IBM z Systems",
+    "IBM Security"
   ],
-  "extracted_at": "2026-07-21 17:12:31",
+  "extracted_at": "2026-07-22 17:16:25",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +38,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/IBM-Suppliers",
+      "url": "https://en.wikipedia.org/wiki/List_of_mergers_and_acquisitions_by_IBM",
       "query": "International Business Machines Corporation suppliers manufacturers",
-      "snippet": "Jul 7, 2026 · For your research, we’ve provided nine additional tables on International Business Machines Corporation ’s suppliers . You can find them"
+      "snippet": "The 1911 CTR stock prospectus states that the Bundy Manufacturing Company was also included. [7] While ITR had acquired its time recording business in"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://stockanalysis.com/stocks/ibm/company/",
+      "url": "https://en.wikipedia.org/wiki/IBM_Microelectronics",
       "query": "International Business Machines Corporation suppliers manufacturers",
-      "snippet": "3 days ago · Company profile for International Business Machines Corporation (IBM ) stock, with a description, list of executives, contact details and"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://pluang.com/en/compare/axti-vs-ibm",
-      "query": "International Business Machines Corporation major customers clients",
-      "snippet": "International Business Machines Corporation (IBM) provides computer solutions.Compare AXT Inc vs International Business Machines Corp stock side by si"
+      "snippet": "IBM Microelectronics Division was the semiconductor arm of International Business Machines Corporation (IBM) from 1966 to 2015. Two facilities in Esse"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://finance.yahoo.com/quote/IBM/",
       "query": "International Business Machines Corporation major customers clients",
       "snippet": "Find the latest International Business Machines Corporation (IBM) stock quote, history, news and other vital information to help you with your stock t"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://pluang.com/en/compare/axti-vs-ibm",
+      "query": "International Business Machines Corporation major customers clients",
+      "snippet": "International Business Machines Corporation (IBM) provides computer solutions.Compare AXT Inc vs International Business Machines Corp stock side by si"
     }
   ]
 }

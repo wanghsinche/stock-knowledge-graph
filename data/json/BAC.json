@@ -4,18 +4,18 @@
   "sector": "Financial Services",
   "industry": "Banks - Diversified",
   "upstream": [
-    "MSFT",
-    "Data providers (Bloomberg, Reuters)",
-    "Payment processors (Visa, Mastercard)",
-    "Regulatory bodies (Federal Reserve, OCC)",
-    "Insurance partners (AIG, Prudential)"
+    "Technology vendors",
+    "Consulting firms",
+    "Legal services",
+    "Office supply vendors",
+    "Security services"
   ],
   "downstream": [
-    "Retail customers (individuals)",
-    "Small and medium enterprises",
-    "Large corporations",
-    "Government entities",
-    "High net worth individuals"
+    "Retail banking customers",
+    "Corporate banking customers",
+    "Investment banking clients",
+    "Mortgage borrowers",
+    "SMEs"
   ],
   "competitors": [
     "JPMorgan Chase",
@@ -27,11 +27,11 @@
   "key_products": [
     "Retail banking services",
     "Commercial banking services",
-    "Investment banking",
+    "Investment banking services",
     "Wealth management",
     "Credit cards"
   ],
-  "extracted_at": "2026-07-21 17:15:17",
+  "extracted_at": "2026-07-22 17:21:03",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.bankofamerica.com/",
+      "url": "https://about.bankofamerica.com/en/our-company/supplier-management",
       "query": "Bank of America Corporation suppliers manufacturers",
+      "snippet": "Supplier management We are dedicated to doing business with suppliers that respect ethics, human rights, opportunity and inclusion, and the environmen"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/BAC-Suppliers",
+      "query": "Bank of America Corporation suppliers manufacturers",
+      "snippet": "Jun 17, 2026 · Bank Of America 's Suppliers recorded an increase in sales by 14.18 % year on year in Q1 2026, sequentially sales grew by 8.57 %, while"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.bankofamerica.com/",
+      "query": "Bank of America Corporation major customers clients",
       "snippet": "At Bank of America , our purpose is to help make financial lives better through the power of every connection.Get it on the App Store. Download the Ba"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.britannica.com/money/Bank-of-America-Corporation",
-      "query": "Bank of America Corporation suppliers manufacturers",
-      "snippet": "Bank of America . American corporation . Print. Cite. Share. Links. Also known as: Bank of America Corporation , BankAmerica Corporation . Written and"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/BAC-Customers",
+      "url": "https://pluang.com/en/compare/bac-vs-plby",
       "query": "Bank of America Corporation major customers clients",
-      "snippet": "For your research, we’ve provided 9 tables on Bank Of America Corporation corporate clients . You can find them in the navigation menu under Customers"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://newsroom.bankofamerica.com/content/newsroom/company-overview/bank-of-america-fast-facts.html",
-      "query": "Bank of America Corporation major customers clients",
-      "snippet": "Jul 14, 2026 · Explore Bank of America Fast Facts for key insights on our global presence, financial services, client reach, and commitment to respons"
+      "snippet": "Compare Bank of America Corp and Plby Group Inc side by side — live prices, performance, key stats, technicals, Aura AI signals and investor sentiment"
     }
   ]
 }

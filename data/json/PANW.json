@@ -1,37 +1,37 @@
 {
   "ticker": "PANW",
   "company_name": "Palo Alto Networks, Inc.",
-  "sector": "Technology / Software - Infrastructure",
-  "industry": "Cybersecurity / Network Security",
+  "sector": "Technology",
+  "industry": "Software - Infrastructure",
   "upstream": [
     "INTC",
-    "AVGO",
     "QCOM",
     "NVDA",
-    "MSFT"
+    "MSFT",
+    "AMZN"
   ],
   "downstream": [
+    "JPMorgan Chase",
+    "Walmart",
     "Bank of America",
-    "Citigroup",
-    "UnitedHealth Group",
-    "General Electric",
-    "Walmart"
+    "UnitedHealth",
+    "AT&T"
   ],
   "competitors": [
     "CSCO",
     "Fortinet",
-    "Check Point Software",
-    "JNPR",
-    "CrowdStrike"
+    "Check Point Software Technologies",
+    "CrowdStrike",
+    "McAfee"
   ],
   "key_products": [
-    "Next‑Gen Firewall",
+    "Next-Generation Firewall",
     "Prisma Cloud",
     "Cortex XDR",
-    "WildFire",
-    "GlobalProtect"
+    "Unit 42 threat intelligence",
+    "GlobalProtect VPN"
   ],
-  "extracted_at": "2026-07-21 17:13:14",
+  "extracted_at": "2026-07-22 17:17:58",
   "sources": [
     {
       "source": "Wikipedia",
@@ -59,9 +59,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://habr.com/ru/companies/mws/articles/280866/",
+      "url": "https://www.thestreet.com/markets/watch-out-barbarians-at-the-gate-for-palo-alto-networks-panw-12111602",
       "query": "Palo Alto Networks, Inc. major customers clients",
-      "snippet": "Компания Palo Alto Networks была основана в 2005 году Ниром Зуком (Nir Zuk) и группой старших инженеров компаний, лидирующих в сфере сетевой безопасно"
+      "snippet": "Palo Alto Networks , Inc . offers a network security platform in the Americas, Europe, the Middle East, Africa, the Asia Pacific, and Japan. The compa"
     }
   ]
 }

@@ -1,37 +1,37 @@
 {
   "ticker": "CRWV",
   "company_name": "CoreWeave, Inc.",
-  "sector": "Technology / Software - Infrastructure",
-  "industry": "Artificial Intelligence Cloud Computing",
+  "sector": "Technology",
+  "industry": "Software - Infrastructure",
   "upstream": [
     "NVDA",
     "AMD",
     "INTC",
-    "Supermicro",
-    "QCOM"
+    "TSM",
+    "005930.KS"
   ],
   "downstream": [
     "OpenAI",
-    "Mistral AI",
-    "IBM",
-    "MSFT",
-    "GOOGL"
-  ],
-  "competitors": [
-    "AMZN",
+    "Anthropic",
     "MSFT",
     "GOOGL",
+    "IBM"
+  ],
+  "competitors": [
     "NVDA",
-    "Lambda Labs"
+    "AMZN",
+    "GOOGL",
+    "MSFT",
+    "IBM"
   ],
   "key_products": [
-    "GPU Cloud Compute Services",
-    "AI Infrastructure",
-    "Chip Management Software",
-    "GPU Cluster Management",
-    "AI Workload Optimization"
+    "GPU‑based cloud infrastructure",
+    "GPU management software",
+    "AI compute services",
+    "Custom GPU instances",
+    "GPU virtualization"
   ],
-  "extracted_at": "2026-07-21 17:14:51",
+  "extracted_at": "2026-07-22 17:15:28",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,25 +43,25 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/CoreWeave",
       "query": "CoreWeave, Inc. suppliers manufacturers",
-      "snippet": "CoreWeave , Inc . is an American artificial intelligence (AI) cloud-computing company based in Livingston, New Jersey. It specializes in providing clo"
+      "snippet": "CoreWeave , Inc . is an American artificial intelligence cloud-computing company based in Livingston, New Jersey."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.coreweave.com/",
+      "url": "https://www.gurufocus.com/stock/FRA:I1V0/financials",
       "query": "CoreWeave, Inc. suppliers manufacturers",
-      "snippet": "From leading AI labs like OpenAI and Mistral AI to global giants like IBM, the world’s most ambitious AI innovators build on CoreWeave . Explore how t"
+      "snippet": "Comprehensive and up-to-date CoreWeave Inc (FRA:I1V0) stock information, news and insights by GuruFocus."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.appsruntheworld.com/customers-database/vendors/view/coreweave",
+      "url": "https://en.wikipedia.org/wiki/CoreWeave",
       "query": "CoreWeave, Inc. major customers clients",
-      "snippet": "List of companies using or evaluating CoreWeave applications, with details on their revenues, employees, industries, and locations."
+      "snippet": "CoreWeave , Inc . is an American artificial intelligence cloud-computing company based in Livingston, New Jersey. It specializes in providing cloud-ba"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.appsruntheworld.com/customers-database/products/view/coreweave-compute-services",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-21/nvidia-touts-progress-getting-new-rubin-design-to-customers",
       "query": "CoreWeave, Inc. major customers clients",
-      "snippet": "Who uses CoreWeave Compute Services for AI infrastructure? Companies worldwide use CoreWeave Compute Services, from small firms to large enterprises a"
+      "snippet": "OpenAI, the maker of ChatGPT, plans to adopt Vera Rubin “at scale” in the third quarter, Nvidia said. CoreWeave Inc ., Alphabet Inc .’s Google Cloud, "
     }
   ]
 }

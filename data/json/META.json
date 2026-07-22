@@ -4,34 +4,36 @@
   "sector": "Communication Services",
   "industry": "Internet Content & Information",
   "upstream": [
-    "DELL",
-    "HPQ",
-    "CSCO",
     "NVDA",
-    "INTC"
+    "QCOM",
+    "INTC",
+    "005930.KS",
+    "TSM"
   ],
   "downstream": [
-    "Coca‑Cola",
-    "Nike",
-    "005930.KS",
-    "AMZN",
-    "GOOGL"
+    "Global advertisers (e.g., Coca‑Cola, Nike)",
+    "Digital marketing agencies",
+    "Media brands",
+    "E‑commerce platforms",
+    "Gaming companies"
   ],
   "competitors": [
-    "GOOGL",
-    "AMZN",
-    "AAPL",
+    "X Corp (Twitter)",
+    "Snap Inc.",
+    "ByteDance (TikTok)",
     "MSFT",
-    "ByteDance (TikTok)"
+    "Pinterest"
   ],
   "key_products": [
     "Facebook",
     "Instagram",
     "WhatsApp",
     "Messenger",
-    "Threads"
+    "Threads",
+    "Meta Ads",
+    "Meta Quest"
   ],
-  "extracted_at": "2026-07-21 17:09:47",
+  "extracted_at": "2026-07-22 17:10:17",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +43,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/META-Suppliers",
+      "url": "https://www.meta.com/about/",
       "query": "Meta Platforms, Inc. suppliers manufacturers",
-      "snippet": "Jul 7, 2026 · Meta Platforms Inc 's Suppliers recorded an increase in sales by 14.3 % year on year in Q1 2026, sequentially sales grew by 13.44 %, Met"
+      "snippet": "Meta - Social Media Advertising Platform (Facebook & Instagram)."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.makesureiknowit.com/company/meta-platforms",
+      "url": "https://pluang.com/en/compare/azo-vs-meta",
       "query": "Meta Platforms, Inc. suppliers manufacturers",
-      "snippet": "Jun 17, 2026 · Operates one of the world's largest AI-compute footprints, combining millions of GPUs with its own MTIA silicon and $115-135B in 2026 c"
+      "snippet": "Compare Autozone Inc and Meta Platforms Inc side by side — live prices, performance, key stats, technicals, Aura AI signals and investor sentiment on "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Meta_Platforms",
+      "url": "https://www.meta.com/about/",
       "query": "Meta Platforms, Inc. major customers clients",
-      "snippet": "Meta Platforms , Inc . (doing business as Meta) is an American multinational technology company headquartered in Menlo Park, California. Meta owns and"
+      "snippet": "Meta - Social Media Advertising Platform (Facebook & Instagram)."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/META-Customers",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-maytech-global-investments-llc-increases-stock-position-in-meta-platforms-inc-meta-2026-06-16/",
       "query": "Meta Platforms, Inc. major customers clients",
-      "snippet": "For your research, we’ve provided 9 tables on Meta Platforms Inc corporate clients . You can find them in the navigation menu under Customers & Market"
+      "snippet": "MayTech Global Investments LLC lifted its position in Meta Platforms , Inc . (NASDAQ: META - Free Report) by 0.8% during the 4th quarter, according to"
     }
   ]
 }

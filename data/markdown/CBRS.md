@@ -1,52 +1,57 @@
 ---
 ticker: CBRS
 company: Cerebras Systems Inc.
-sector: Technology
-industry: Semiconductors
-extracted_at: 2026-07-10 17:54:35
-last_updated: 2026-07-10
+sector: Technology / Semiconductors
+industry: Semiconductor Equipment & AI Hardware
+extracted_at: 2026-07-22 17:13:27
+last_updated: 2026-07-22
 ---
 
 # CBRS - Cerebras Systems Inc.
 
 ## 基本信息
 
-- **所属行业**: Technology / Semiconductors
-- **提取时间**: 2026-07-10 17:54:35
+- **所属行业**: Technology / Semiconductors / Semiconductor Equipment & AI Hardware
+- **提取时间**: 2026-07-22 17:13:27
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Flex]]
-- [[Andrew Feldman]]
-- [[Sam Altman]]
-- [[Other semiconductor foundries]]
+- [[TSM]]
+- [[005930.KS]]
+- [[MU]]
+- [[ASE Group]]
+- [[Amkor Technology]]
 
 ### 下游客户
-- [[OpenAI]]
+- [[GOOGL]]
+- [[AMZN]]
+- [[MSFT]]
+- [[NVDA]]
+- [[IBM]]
 
 ### 竞争对手
-- [[Graphcore]]
 - [[NVDA]]
+- [[Graphcore]]
 - [[INTC]]
 - [[AMD]]
 - [[GOOGL]]
 
 ### 核心产品
-- [[Wafer Scale Engine (WSE)-3]]
-- [[CS-3 Supercomputer]]
+- [[WSE‑3 Wafer Scale Engine]]
+- [[CS‑3 Supercomputer]]
 - [[AI Inference Cloud API]]
 - [[AI Training Cloud API]]
-- [[Data Center Solutions]]
+- [[Cerebras Data Center Solutions]]
 
 ## 数据来源
 
 - [Cerebras Systems](https://en.wikipedia.org/wiki/Cerebras_Systems_Inc.)
-- [Cerebras Systems Inc. suppliers manufacturers](https://www.cerebras.ai/)
-- [Cerebras Systems Inc. suppliers manufacturers](https://finance.yahoo.com/technology/ai/articles/flex-cerebras-expand-partnership-scale-130500207.html)
-- [Cerebras Systems Inc. major customers clients](https://www.cerebras.ai/)
-- [Cerebras Systems Inc. major customers clients](https://siliconangle.com/2026/07/09/inference-speed-gives-cerebras-edge-ai-infrastructure-race-raisesummit/)
+- [Cerebras Systems Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/Cerebras_Systems)
+- [Cerebras Systems Inc. suppliers manufacturers](https://www.aichipmap.com/en/company/cerebras/)
+- [Cerebras Systems Inc. major customers clients](https://www.appsruntheworld.com/customers-database/vendors/view/cerebras-systems)
+- [Cerebras Systems Inc. major customers clients](https://whowinsthefuture.substack.com/p/cerebras-has-two-customers-and-a)
 
 ## 元数据
 
-- **更新日期**: 2026-07-10
+- **更新日期**: 2026-07-22

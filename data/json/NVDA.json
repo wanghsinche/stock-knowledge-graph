@@ -7,15 +7,15 @@
     "TSM",
     "005930.KS",
     "GlobalFoundries",
-    "UMC",
-    "SMIC"
+    "INTC",
+    "MU"
   ],
   "downstream": [
-    "DELL",
-    "HPQ",
-    "Lenovo Group",
-    "AAPL",
-    "MSFT"
+    "SONY",
+    "MSFT",
+    "AMZN",
+    "GOOGL",
+    "TSLA"
   ],
   "competitors": [
     "AMD",
@@ -25,13 +25,13 @@
     "005930.KS"
   ],
   "key_products": [
-    "GeForce GPUs",
-    "Quadro GPUs",
-    "Tesla GPUs",
-    "Jetson SoCs",
-    "CUDA API"
+    "GeForce RTX GPUs",
+    "NVIDIA A100 & H100 AI GPUs",
+    "NVIDIA DRIVE SoC for automotive",
+    "CUDA API",
+    "NVIDIA DGX AI systems"
   ],
-  "extracted_at": "2026-07-21 17:06:36",
+  "extracted_at": "2026-07-22 17:07:14",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Nvidia",
+      "url": "https://csimarket.com/stocks/NVDA-Suppliers",
       "query": "NVIDIA Corporation suppliers manufacturers",
-      "snippet": "1 week ago - In August 2025, Nvidia ordered suppliers to halt production of its H20 AI chip following Chinese government directives warning domestic c"
+      "snippet": "Jul 10, 2026 · Nvidia supply chain, list and performance of Nvidias' suppliers - CSIMarket"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.moomoo.com/community/feed/nvidia-s-supply-chain-empire-who-powers-the-ai-s-114771677478918",
+      "url": "https://www.suppliersmap.com/nvidia",
       "query": "NVIDIA Corporation suppliers manufacturers",
-      "snippet": "June 30, 2025 - NVIDIA’s suppliers include TSMC in the semiconductor manufacturing field, SK Hynix and $Micron Technology (MU.US)$ in the storage chip"
+      "snippet": "Nvidia Nvidia works with leading semiconductor manufacturers for its GPU products, including TSMC for advanced chip fabrication, Samsung and Micron fo"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.investing.com/equities/nvidia-corp",
+      "url": "https://www.fool.com/investing/2024/05/02/who-are-nvidias-largest-customers/",
       "query": "NVIDIA Corporation major customers clients",
-      "snippet": "View today's NVIDIA Corporation stock price and latest NVDA news and analysis. Create real-time notifications to follow any changes in the live stock "
+      "snippet": "May 2, 2024 · Nvidia 's top customers Nvidia doesn't disclose who its biggest customer is. That's not surprising since that information would be valua"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.tradingview.com/symbols/NASDAQ-NVDA/",
+      "url": "https://csimarket.com/stocks/NVDA-Customers",
       "query": "NVIDIA Corporation major customers clients",
-      "snippet": "View live NVIDIA Corporation chart to track its stock's price action. Find market predictions, NVDA financials and market news."
+      "snippet": "Nvidia 's Comment on Sales, Marketing and Customers Our worldwide sales and marketing strategy is key to our objective to become the leading supplier "
     }
   ]
 }

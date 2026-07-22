@@ -7,31 +7,31 @@
     "AMZN",
     "MSFT",
     "GOOGL",
-    "IBM",
-    "ORCL"
+    "Data providers (government and commercial)",
+    "Hardware vendors (servers, storage)"
   ],
   "downstream": [
     "U.S. Department of Defense",
     "INTC",
     "JPMorgan Chase",
-    "Boeing",
-    "Lockheed Martin"
+    "Walmart",
+    "Bank of America"
   ],
   "competitors": [
     "Snowflake",
     "Databricks",
     "Splunk",
-    "MSFT",
-    "Tableau"
+    "Tableau",
+    "MSFT"
   ],
   "key_products": [
     "Palantir Foundry",
     "Palantir Gotham",
     "Palantir Apollo",
-    "Palantir Helios",
-    "Palantir Platform"
+    "Palantir Helix",
+    "Palantir Platform (data integration & analytics)"
   ],
-  "extracted_at": "2026-07-21 17:11:21",
+  "extracted_at": "2026-07-22 17:12:18",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/PLTR-Suppliers",
-      "query": "Palantir Technologies Inc. suppliers manufacturers",
-      "snippet": "Jul 7, 2026 · For your research, we’ve provided nine additional tables on Palantir Technologies Inc ’ s suppliers . You can find them in the navigatio"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://fintel.io/doc/sec-palantir-technologies-inc-1321655-ex211-2023-february-21-19410-4071",
-      "query": "Palantir Technologies Inc. suppliers manufacturers",
-      "snippet": "Pursuant to Item 601 (b) (21) (ii) of Regulation S-K, the names of other subsidiaries of Palantir Technologies Inc . are omitted because, considered i"
-    },
-    {
-      "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Palantir",
-      "query": "Palantir Technologies Inc. major customers clients",
+      "query": "Palantir Technologies Inc. suppliers manufacturers",
       "snippet": "Palantir Technologies Inc . is an American publicly traded company that develops data integration and analytics software. Palantir is headquartered in"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://finance.yahoo.com/quote/PLTR/",
-      "query": "Palantir Technologies Inc. major customers clients",
+      "query": "Palantir Technologies Inc. suppliers manufacturers",
       "snippet": "Find the latest Palantir Technologies Inc . (PLTR) stock quote, history, news and other vital information to help you with your stock trading and inve"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://data.landbase.com/technology/palantir/",
+      "query": "Palantir Technologies Inc. major customers clients",
+      "snippet": "Aug 17, 2025 · Companies using Palantir by Palantir Technologies Inc in 2026 As of 2026, 1,479 verified companies use Palantir – across industries, co"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://financhill.com/blog/investing/who-are-palantir-biggest-customers",
+      "query": "Palantir Technologies Inc. major customers clients",
+      "snippet": "Jun 12, 2024 · So, who are Palantir’s biggest customers ? The US Department of Defense was historically Palantir’s biggest customer but the Army award"
     }
   ]
 }

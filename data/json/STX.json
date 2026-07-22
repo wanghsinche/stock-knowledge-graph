@@ -1,31 +1,37 @@
 {
   "ticker": "STX",
   "company_name": "Seagate Technology Holdings plc",
-  "sector": "Technology / Computer Hardware",
-  "industry": "Computer Storage",
-  "upstream": [],
+  "sector": "Technology",
+  "industry": "Computer Hardware",
+  "upstream": [
+    "MU",
+    "005930.KS",
+    "Toshiba Corporation",
+    "WDC",
+    "Panasonic"
+  ],
   "downstream": [
     "DELL",
     "HPQ",
     "Lenovo Group",
-    "AMZN",
+    "AAPL",
     "MSFT"
   ],
   "competitors": [
     "WDC",
     "Toshiba",
     "005930.KS",
-    "MU",
-    "IBM"
+    "IBM",
+    "Hitachi"
   ],
   "key_products": [
-    "Seagate Barracuda HDD",
-    "Seagate Exos HDD",
-    "Seagate IronWolf HDD",
-    "Seagate SkyHawk HDD",
-    "Seagate FireCuda SSD"
+    "Internal Hard Disk Drives (HDDs)",
+    "Solid State Drives (SSDs)",
+    "Enterprise Storage Systems",
+    "External Storage Devices",
+    "Cloud Storage Solutions"
   ],
-  "extracted_at": "2026-07-21 17:08:40",
+  "extracted_at": "2026-07-22 17:11:00",
   "sources": [
     {
       "source": "Wikipedia",
@@ -35,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.seagate.com/",
+      "url": "https://csimarket.com/stocks/STX-Suppliers",
       "query": "Seagate Technology Holdings plc suppliers manufacturers",
+      "snippet": "Jul 10, 2026 · Sources: Seagate Technology Holdings Plc 's official press releases and regulatory filings; CSIMarket.com's supply -chain research; and"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.marketscreener.com/quote/stock/SEAGATE-TECHNOLOGY-HOLDIN-14501/company-group/",
+      "query": "Seagate Technology Holdings plc suppliers manufacturers",
+      "snippet": "2 days ago · Find the group structure chart of Seagate Technology Holdings PLC , with the list of companies belonging to the same group as Seagate Tec"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.seagate.com/",
+      "query": "Seagate Technology Holdings plc major customers clients",
       "snippet": "Seagate Technology Holdings PLC ."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://optioncharts.io/options/STX/expected-move",
-      "query": "Seagate Technology Holdings plc suppliers manufacturers",
-      "snippet": "View STX: Seagate Technology Holdings Plc Options Expected Move chart showing anticipated price movement."
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "http://www.seagate.com/",
+      "url": "https://www.insidermonkey.com/blog/morgan-stanley-calls-seagate-technology-holdings-stx-a-top-pick-1756185/",
       "query": "Seagate Technology Holdings plc major customers clients",
-      "snippet": "Seagate Technology Holdings Plc ."
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.msn.com/en-us/technology/tech-companies/seagate-technology-holdings-plc-stock-outperforms-competitors-despite-losses-on-the-day/ar-AA27Zd0e",
-      "query": "Seagate Technology Holdings plc major customers clients",
-      "snippet": "Shares of Seagate Technology Holdings PLC slid 5.69% to $828.30 Wednesday, on what proved to be an all-around favorable trading session for the stock "
+      "snippet": "Seagate Technology Holdings Plc (NASDAQ:STX) is a holding company that develops, produces, and distributes data storage products and electronic data s"
     }
   ]
 }

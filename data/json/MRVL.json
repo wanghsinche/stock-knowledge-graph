@@ -7,31 +7,30 @@
     "TSM",
     "005930.KS",
     "GlobalFoundries",
-    "INTC",
-    "MU"
+    "UMC"
   ],
   "downstream": [
     "CSCO",
-    "DELL",
-    "NetApp",
     "Huawei",
-    "005930.KS"
+    "DELL",
+    "Lenovo",
+    "HPQ"
   ],
   "competitors": [
     "AVGO",
-    "INTC",
     "QCOM",
-    "MediaTek",
-    "NVDA"
+    "INTC",
+    "NVDA",
+    "MediaTek"
   ],
   "key_products": [
     "Ethernet controllers",
+    "Network processors",
     "Storage controllers",
-    "Wi‑Fi and Bluetooth chips",
-    "5G modem solutions",
-    "Network interface controllers"
+    "Wi‑Fi chips",
+    "5G modems"
   ],
-  "extracted_at": "2026-07-21 17:08:53",
+  "extracted_at": "2026-07-22 17:12:32",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +40,27 @@
     },
     {
       "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/Marvell_Technology",
+      "query": "Marvell Technology, Inc. suppliers manufacturers",
+      "snippet": "Marvell Technology , Inc . is an American company, headquartered in Santa Clara, California, which develops and produces semiconductors and related te"
+    },
+    {
+      "source": "DuckDuckGo",
       "url": "https://www.marvell.com/",
       "query": "Marvell Technology, Inc. suppliers manufacturers",
       "snippet": "Watch the latest. Marvell Essential Technology Videos. Marvell designs custom silicon tailored for any application and offers the industry’s most comp"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/competitionSEG3.php?inc&supply&code=MRVL",
-      "query": "Marvell Technology, Inc. suppliers manufacturers",
-      "snippet": "Marvell Technology Inc Executive Officers. Economic Indicators. Marvell Technology Inc 's Markets & Customers."
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Marvell_Technology",
-      "query": "Marvell Technology, Inc. major customers clients",
-      "snippet": "Marvell Technology , Inc . is an American company, headquartered in Santa Clara, California, which develops and produces semiconductors and related te"
-    },
-    {
-      "source": "DuckDuckGo",
       "url": "https://www.marvell.com/",
       "query": "Marvell Technology, Inc. major customers clients",
       "snippet": "Designed for your current needs and future ambitions, Marvell delivers the data infrastructure technology transforming tomorrow’s enterprise, cloud, a"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://finance.yahoo.com/quote/MRVL/",
+      "query": "Marvell Technology, Inc. major customers clients",
+      "snippet": "Find the latest Marvell Technology , Inc . (MRVL) stock quote, history, news and other vital information to help you with your stock trading and inves"
     }
   ]
 }

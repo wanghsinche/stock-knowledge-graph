@@ -3,8 +3,8 @@ ticker: CRWD
 company: CrowdStrike Holdings, Inc.
 sector: Technology
 industry: Software - Infrastructure
-extracted_at: 2026-07-21 17:17:56
-last_updated: 2026-07-21
+extracted_at: 2026-07-22 17:21:44
+last_updated: 2026-07-22
 ---
 
 # CRWD - CrowdStrike Holdings, Inc.
@@ -12,7 +12,7 @@ last_updated: 2026-07-21
 ## 基本信息
 
 - **所属行业**: Technology / Software - Infrastructure
-- **提取时间**: 2026-07-21 17:17:56
+- **提取时间**: 2026-07-22 17:21:44
 
 ## 产业链关系
 
@@ -20,25 +20,25 @@ last_updated: 2026-07-21
 - [[MSFT]]
 - [[AMZN]]
 - [[GOOGL]]
-- [[INTC]]
-- [[AMD]]
+- [[VMware]]
+- [[CSCO]]
 
 ### 下游客户
-- [[Fortune 500 enterprises]]
-- [[U.S. federal agencies]]
-- [[European Union agencies]]
-- [[Financial services firms]]
-- [[Healthcare providers]]
+- [[MSFT]]
+- [[AMZN]]
+- [[Walmart]]
+- [[JPMorgan Chase]]
+- [[Bank of America]]
 
 ### 竞争对手
 - [[Palo Alto Networks]]
 - [[SentinelOne]]
-- [[Fortinet]]
-- [[Check Point Software]]
-- [[CSCO]]
+- [[McAfee]]
+- [[AVGO]]
+- [[Sophos]]
 
 ### 核心产品
-- [[CrowdStrike Falcon platform]]
+- [[CrowdStrike Falcon Platform]]
 - [[Falcon Prevent]]
 - [[Falcon Insight]]
 - [[Falcon OverWatch]]
@@ -47,11 +47,11 @@ last_updated: 2026-07-21
 ## 数据来源
 
 - [CrowdStrike](https://en.wikipedia.org/wiki/CrowdStrike_Holdings,_Inc.)
-- [CrowdStrike Holdings, Inc. suppliers manufacturers](https://csimarket.com/stocks/technicals_average.php?code=CRWD&koga=Momentum)
-- [CrowdStrike Holdings, Inc. suppliers manufacturers](https://pluang.com/en/compare/atom-vs-crwd)
-- [CrowdStrike Holdings, Inc. major customers clients](https://brandsownedby.com/companies/crowdstrike/)
-- [CrowdStrike Holdings, Inc. major customers clients](https://d1rf73nqj6wzfm.cloudfront.net/us/instruments/CrowdStrike)
+- [CrowdStrike Holdings, Inc. suppliers manufacturers](https://www.crowdstrike.com/en-us/about-us/suppliers/)
+- [CrowdStrike Holdings, Inc. suppliers manufacturers](https://csimarket.com/stocks/CRWD-Suppliers)
+- [CrowdStrike Holdings, Inc. major customers clients](https://csimarket.com/stocks/CRWD-Customers)
+- [CrowdStrike Holdings, Inc. major customers clients](https://ir.crowdstrike.com/news-releases/news-release-details/crowdstrike-honors-top-customers-and-partners-driving-innovation)
 
 ## 元数据
 
-- **更新日期**: 2026-07-21
+- **更新日期**: 2026-07-22

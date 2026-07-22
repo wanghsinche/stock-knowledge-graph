@@ -7,31 +7,31 @@
     "TSM",
     "005930.KS",
     "INTC",
-    "NVDA",
-    "QCOM"
+    "QCOM",
+    "NVDA"
   ],
   "downstream": [
-    "Advertisers",
-    "Android device manufacturers",
-    "GOOGL",
+    "Advertisers (e.g., Coca‑Cola, Nike)",
+    "005930.KS",
     "YouTube content creators",
+    "GOOGL",
     "GOOGL"
   ],
   "competitors": [
-    "MSFT",
-    "AMZN",
-    "AAPL",
     "META",
-    "Tencent"
+    "AMZN",
+    "MSFT",
+    "AAPL",
+    "Facebook"
   ],
   "key_products": [
     "Google Search",
-    "Google Ads",
-    "Google Cloud",
+    "YouTube",
+    "Google Cloud Platform",
     "Android OS",
-    "YouTube"
+    "Google Ads"
   ],
-  "extracted_at": "2026-07-21 17:10:16",
+  "extracted_at": "2026-07-22 17:11:16",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Alphabet_Inc.",
+      "url": "https://csimarket.com/stocks/GOOG-Suppliers",
       "query": "Alphabet Inc. suppliers manufacturers",
+      "snippet": "Jul 7, 2026 · Alphabet Inc 's Comment on Supply Chain We rely on third parties to manufacture many of our assemblies and finished products, and we hav"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/GOOGL-Suppliers",
+      "query": "Alphabet Inc. suppliers manufacturers",
+      "snippet": "Jul 6, 2026 · Sources: Alphabet Inc 's official press releases and regulatory filings; CSIMarket.com's supply -chain research; and the financial filin"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/Alphabet_Inc.",
+      "query": "Alphabet Inc. major customers clients",
       "snippet": "Alphabet Inc . is an American multinational technology conglomerate holding company headquartered in Mountain View, California. It was created through"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ru.wikipedia.org/wiki/Alphabet",
-      "query": "Alphabet Inc. suppliers manufacturers",
-      "snippet": "Alphabet Inc . — холдинговая компания, управляющая компанией Google Inc и её дочерними структурами, а также рядом стартапов. Штаб-квартира расположена"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/GOOGL-Customers",
+      "url": "https://oakresearch.io/en/tradfi/ticker/GOOGL/vs/LRCX",
       "query": "Alphabet Inc. major customers clients",
-      "snippet": "Feb 9, 2026 · Updated on: Focus of this report: Alphabet Inc ’s corporate clients . For your research, we’ve provided 9 tables on Alphabet Inc corpora"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/GOOG-Customers",
-      "query": "Alphabet Inc. major customers clients",
-      "snippet": "For your research, we’ve provided 9 tables on Alphabet Inc corporate clients . You can find them in the navigation menu under Customers & Markets. To "
+      "snippet": "Compare Alphabet Inc . and Lam Research Corporation across market cap, price, volume and performance to make an informed decision."
     }
   ]
 }
