@@ -4,34 +4,34 @@
   "sector": "Communication Services",
   "industry": "Internet Content & Information",
   "upstream": [
-    "TSM",
-    "005930.KS",
     "INTC",
     "QCOM",
-    "NVDA"
+    "005930.KS",
+    "NVDA",
+    "AVGO"
   ],
   "downstream": [
-    "Advertisers (e.g., Coca‑Cola, Nike)",
-    "005930.KS",
+    "GOOGL",
+    "Android device manufacturers",
     "YouTube content creators",
     "GOOGL",
     "GOOGL"
   ],
   "competitors": [
-    "META",
-    "AMZN",
     "MSFT",
+    "AMZN",
+    "META",
     "AAPL",
-    "Facebook"
+    "Tencent"
   ],
   "key_products": [
     "Google Search",
     "YouTube",
+    "Google Ads",
     "Google Cloud Platform",
-    "Android OS",
-    "Google Ads"
+    "Android OS"
   ],
-  "extracted_at": "2026-07-22 17:11:16",
+  "extracted_at": "2026-07-23 17:09:31",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,15 +41,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/GOOG-Suppliers",
+      "url": "https://en.wikipedia.org/wiki/Alphabet_Inc.",
       "query": "Alphabet Inc. suppliers manufacturers",
-      "snippet": "Jul 7, 2026 · Alphabet Inc 's Comment on Supply Chain We rely on third parties to manufacture many of our assemblies and finished products, and we hav"
+      "snippet": "Alphabet Inc . is an American multinational technology conglomerate holding company headquartered in Mountain View, California. It was created through"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/GOOGL-Suppliers",
+      "url": "https://csimarket.com/stocks/GOOG-Suppliers",
       "query": "Alphabet Inc. suppliers manufacturers",
-      "snippet": "Jul 6, 2026 · Sources: Alphabet Inc 's official press releases and regulatory filings; CSIMarket.com's supply -chain research; and the financial filin"
+      "snippet": "Alphabet Inc supply chain, list and performance of Alphabet Incs ' suppliers - CSIMarket."
     },
     {
       "source": "DuckDuckGo",
@@ -59,9 +59,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://oakresearch.io/en/tradfi/ticker/GOOGL/vs/LRCX",
+      "url": "https://finance.yahoo.com/quote/GOOG/",
       "query": "Alphabet Inc. major customers clients",
-      "snippet": "Compare Alphabet Inc . and Lam Research Corporation across market cap, price, volume and performance to make an informed decision."
+      "snippet": "Find the latest Alphabet Inc . (GOOG) stock quote, history, news and other vital information to help you with your stock trading and investing. Alphab"
     }
   ]
 }

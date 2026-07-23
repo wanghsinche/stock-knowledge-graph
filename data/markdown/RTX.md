@@ -3,8 +3,8 @@ ticker: RTX
 company: RTX Corporation
 sector: Industrials
 industry: Aerospace & Defense
-extracted_at: 2026-03-02 16:40:54
-last_updated: 2026-03-02
+extracted_at: 2026-07-23 17:15:07
+last_updated: 2026-07-23
 ---
 
 # RTX - RTX Corporation
@@ -12,46 +12,48 @@ last_updated: 2026-03-02
 ## 基本信息
 
 - **所属行业**: Industrials / Aerospace & Defense
-- **提取时间**: 2026-03-02 16:40:54
+- **提取时间**: 2026-07-23 17:15:07
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Honeywell International]]
-- [[General Electric Aerospace]]
-- [[Boeing]]
-- [[Northrop Grumman]]
-- [[Boeing Defense]]
+- [[Titanium alloy suppliers]]
+- [[Composite material manufacturers]]
+- [[Electronic component suppliers (sensors, avionics)]]
+- [[Software and cybersecurity vendors]]
+- [[Precision machining and tooling providers]]
 
 ### 下游客户
 - [[U.S. Department of Defense]]
 - [[U.S. Navy]]
 - [[U.S. Air Force]]
-- [[U.S. Space Force]]
-- [[European Space Agency]]
+- [[Commercial airlines (e.g., Delta, United, American)]]
+- [[International defense ministries (NATO members)]]
 
 ### 竞争对手
 - [[Lockheed Martin]]
 - [[Boeing]]
 - [[Northrop Grumman]]
 - [[General Dynamics]]
-- [[Airbus]]
+- [[GE Aviation]]
 
 ### 核心产品
-- [[Aircraft engines]]
-- [[Avionics]]
+- [[Aircraft engines (Pratt & Whitney)]]
+- [[Avionics systems]]
 - [[Aerostructures]]
-- [[Guided missiles]]
+- [[Cybersecurity solutions]]
+- [[Guided missiles and air defense systems]]
 - [[Satellites]]
+- [[Drones]]
 
 ## 数据来源
 
 - [RTX Corporation](https://en.wikipedia.org/wiki/RTX_Corporation)
-- [RTX Corporation suppliers manufacturers](https://en.wikipedia.org/wiki/RTX_Corporation)
-- [RTX Corporation suppliers manufacturers](https://www.rtx.com/suppliers)
-- [RTX Corporation major customers clients](https://en.wikipedia.org/wiki/RTX_Corporation)
-- [RTX Corporation major customers clients](https://www.rtx.com/raytheon/eagle/customers)
+- [RTX Corporation suppliers manufacturers](https://www.rtx.com/)
+- [RTX Corporation suppliers manufacturers](https://www.youtube.com/watch?v=DfBRRQNncVA)
+- [RTX Corporation major customers clients](https://www.rtx.com/)
+- [RTX Corporation major customers clients](https://www.cnbc.com/quotes/RTX)
 
 ## 元数据
 
-- **更新日期**: 2026-03-02
+- **更新日期**: 2026-07-23

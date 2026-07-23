@@ -6,32 +6,32 @@
   "upstream": [
     "MU",
     "005930.KS",
-    "Toshiba Corporation",
-    "WDC",
-    "Panasonic"
+    "SK Hynix",
+    "TDK Corporation",
+    "Toshiba Corporation"
   ],
   "downstream": [
-    "DELL",
-    "HPQ",
-    "Lenovo Group",
-    "AAPL",
-    "MSFT"
+    "AMZN",
+    "MSFT",
+    "GOOGL",
+    "Alibaba Cloud",
+    "IBM"
   ],
   "competitors": [
     "WDC",
     "Toshiba",
     "005930.KS",
     "IBM",
-    "Hitachi"
+    "MU"
   ],
   "key_products": [
-    "Internal Hard Disk Drives (HDDs)",
+    "Enterprise Hard Disk Drives (HDDs)",
+    "Consumer Hard Disk Drives (HDDs)",
     "Solid State Drives (SSDs)",
-    "Enterprise Storage Systems",
-    "External Storage Devices",
-    "Cloud Storage Solutions"
+    "HAMR (Heat-Assisted Magnetic Recording) Drives",
+    "Data Center Storage Solutions"
   ],
-  "extracted_at": "2026-07-22 17:11:00",
+  "extracted_at": "2026-07-23 17:12:08",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/STX-Suppliers",
-      "query": "Seagate Technology Holdings plc suppliers manufacturers",
-      "snippet": "Jul 10, 2026 · Sources: Seagate Technology Holdings Plc 's official press releases and regulatory filings; CSIMarket.com's supply -chain research; and"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.marketscreener.com/quote/stock/SEAGATE-TECHNOLOGY-HOLDIN-14501/company-group/",
-      "query": "Seagate Technology Holdings plc suppliers manufacturers",
-      "snippet": "2 days ago · Find the group structure chart of Seagate Technology Holdings PLC , with the list of companies belonging to the same group as Seagate Tec"
-    },
-    {
-      "source": "DuckDuckGo",
       "url": "https://www.seagate.com/",
-      "query": "Seagate Technology Holdings plc major customers clients",
+      "query": "Seagate Technology Holdings plc suppliers manufacturers",
       "snippet": "Seagate Technology Holdings PLC ."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.insidermonkey.com/blog/morgan-stanley-calls-seagate-technology-holdings-stx-a-top-pick-1756185/",
+      "url": "https://finviz.com/news/304026/the-zacks-analyst-blog-highlights-micron-technology-mongodb-amphenol-ciena-and-seagate-technology",
+      "query": "Seagate Technology Holdings plc suppliers manufacturers",
+      "snippet": "Seagate Technology Holdings Plc .Stocks recently featured in the blog include: Micron Technology Inc. MU, MongoDB Inc. MDB, Amphenol Corp. APH, Ciena "
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://stocktwits.com/news-articles/markets/equity/seagate-stock-draws-investor-attention-as-morgan-stanley-sees-strong-storage-drive-demand-through-2028/cZJ4p4cRIYQ",
       "query": "Seagate Technology Holdings plc major customers clients",
-      "snippet": "Seagate Technology Holdings Plc (NASDAQ:STX) is a holding company that develops, produces, and distributes data storage products and electronic data s"
+      "snippet": "Apr 6, 2026 · The firm pointed to strong demand from large-scale data center clients, longer-term clarity for major customers, and more stable pricing"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://finance.yahoo.com/news/seagate-stock-surges-153-4-154100369.html",
+      "query": "Seagate Technology Holdings plc major customers clients",
+      "snippet": "Sep 22, 2025 · Management highlighted the successful ramp of its HAMR-based Mozaic products, with three major cloud customers already qualified and mo"
     }
   ]
 }

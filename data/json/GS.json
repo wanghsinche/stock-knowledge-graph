@@ -4,34 +4,34 @@
   "sector": "Financial Services",
   "industry": "Capital Markets",
   "upstream": [
-    "Technology vendors",
-    "Office supply vendors",
-    "Legal service providers",
-    "Consulting firms",
-    "Data providers"
+    "MSFT",
+    "Data providers (Bloomberg, FactSet)",
+    "Legal service firms (DLA Piper, Skadden)",
+    "Consulting firms (McKinsey, BCG)",
+    "Cloud infrastructure providers (AWS, Azure)"
   ],
   "downstream": [
-    "Corporations",
-    "Governments",
-    "Institutional investors",
+    "AAPL",
+    "Government entities (U.S. Treasury, European Central Bank)",
+    "Institutional investors (Pension funds, Mutual funds)",
     "Hedge funds",
-    "Pension funds"
+    "Private equity firms"
   ],
   "competitors": [
-    "J.P. Morgan Chase & Co.",
+    "JPMorgan Chase",
     "Morgan Stanley",
-    "Bank of America Merrill Lynch",
+    "Bank of America",
     "Citigroup",
     "Wells Fargo"
   ],
   "key_products": [
     "Investment banking services",
-    "Securities trading",
+    "Securities underwriting",
     "Asset management",
     "Wealth management",
-    "Capital markets solutions"
+    "Trading and brokerage services"
   ],
-  "extracted_at": "2026-07-17 17:06:42",
+  "extracted_at": "2026-07-23 17:19:01",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,15 +41,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.goldmansachs.com/our-firm/our-vendor-program",
+      "url": "https://en.wikipedia.org/wiki/Goldman_Sachs",
       "query": "The Goldman Sachs Group, Inc. suppliers manufacturers",
-      "snippet": "At Goldman Sachs , we view our suppliers not merely as providers of goods and services, but as valued partners who share our commitment to excellence."
+      "snippet": "The Goldman Sachs Group , Inc . is an American multinational investment bank and financial services company. The Goldman Sachs Group , Inc . Headquart"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/GS-Suppliers",
+      "url": "https://www.goldmansachs.com/",
       "query": "The Goldman Sachs Group, Inc. suppliers manufacturers",
-      "snippet": "Jul 7, 2026 · Sources: The Goldman Sachs Group Inc 's official press releases and regulatory filings; CSIMarket.com's supply -chain research; and the "
+      "snippet": "The Goldman Sachs Group , Inc . is a leading global investment banking, securities, and asset and wealth management firm that provides a wide range of"
     },
     {
       "source": "DuckDuckGo",

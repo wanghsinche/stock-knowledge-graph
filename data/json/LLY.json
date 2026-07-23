@@ -5,33 +5,33 @@
   "industry": "Drug Manufacturers - General",
   "upstream": [
     "Contract drug manufacturers",
-    "Active pharmaceutical ingredient (API) suppliers",
-    "Biotechnology research partners",
-    "Chemical suppliers",
-    "Clinical trial sites"
+    "Raw material suppliers (chemicals, biologics)",
+    "Biotech research partners",
+    "Clinical trial sites",
+    "Packaging suppliers"
   ],
   "downstream": [
-    "Hospitals",
-    "Pharmacies",
-    "Health insurance providers",
+    "Hospitals and health systems",
+    "Pharmacies (retail and wholesale)",
     "Government health agencies",
-    "Retail drug stores"
+    "Insurance providers",
+    "International health organizations"
   ],
   "competitors": [
     "Pfizer",
     "Johnson & Johnson",
     "Merck & Co.",
-    "AbbVie",
-    "Bristol-Myers Squibb"
+    "Novartis",
+    "Roche"
   ],
   "key_products": [
-    "Humulin (insulin)",
-    "Trulicity (diabetes)",
-    "Mounjaro (diabetes)",
-    "Cyramza (cancer therapy)",
-    "Humira (autoimmune disease)"
+    "Humalog (insulin lispro)",
+    "Lantus (insulin glargine)",
+    "Cialis (tadalafil)",
+    "Zyprexa (olanzapine)",
+    "Trulicity (dulaglutide)"
   ],
-  "extracted_at": "2026-07-21 17:17:03",
+  "extracted_at": "2026-07-23 17:16:13",
   "sources": [
     {
       "source": "Wikipedia",
@@ -53,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Eli_Lilly_and_Company",
+      "url": "https://csimarket.com/stocks/LLY-Customers",
       "query": "Eli Lilly and Company major customers clients",
-      "snippet": "Eli Lilly and Company ... David Ricks, CEO of Lilly since 2016 Eli Lilly and Company , doing business as Lilly , is an American multinational pharmace"
+      "snippet": "Sign in to see all corporate customers for Eli Lilly And Company. ... For your research, we've provided 9 tables on Eli Lilly And Company corporate cl"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/LLY-Customers",
+      "url": "https://www.lilly.com/medicines/current",
       "query": "Eli Lilly and Company major customers clients",
-      "snippet": "Eli Lilly customers and markets, results by customer and performance relative to LLY, by company and industry - CSIMarket"
+      "snippet": "Find a list of current Lilly medicines, and filter by commonly prescribed, most recently available, and therapeutic area."
     }
   ]
 }

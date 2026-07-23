@@ -4,36 +4,34 @@
   "sector": "Communication Services",
   "industry": "Internet Content & Information",
   "upstream": [
-    "NVDA",
-    "QCOM",
-    "INTC",
-    "005930.KS",
-    "TSM"
+    "Foxconn",
+    "Pegatron",
+    "Wistron",
+    "Flex",
+    "Jabil"
   ],
   "downstream": [
-    "Global advertisers (e.g., Coca‑Cola, Nike)",
-    "Digital marketing agencies",
-    "Media brands",
-    "E‑commerce platforms",
-    "Gaming companies"
+    "AMZN",
+    "Coca‑Cola",
+    "Nike",
+    "McDonald’s",
+    "MSFT"
   ],
   "competitors": [
-    "X Corp (Twitter)",
+    "GOOGL",
+    "X (Twitter)",
     "Snap Inc.",
     "ByteDance (TikTok)",
-    "MSFT",
-    "Pinterest"
+    "MSFT"
   ],
   "key_products": [
     "Facebook",
     "Instagram",
     "WhatsApp",
     "Messenger",
-    "Threads",
-    "Meta Ads",
-    "Meta Quest"
+    "Meta Ads"
   ],
-  "extracted_at": "2026-07-22 17:10:17",
+  "extracted_at": "2026-07-23 17:10:46",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,15 +41,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.meta.com/about/",
+      "url": "https://sustainability.atmeta.com/asset/2024-conflict-minerals-report/",
       "query": "Meta Platforms, Inc. suppliers manufacturers",
-      "snippet": "Meta - Social Media Advertising Platform (Facebook & Instagram)."
+      "snippet": "We outsourced the manufacturing of these Products to third-party contract manufacturers during 2023. For purposes of this CMR, “Suppliers” refers to t"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://pluang.com/en/compare/azo-vs-meta",
+      "url": "https://www.trademo.com/companies/meta-platforms-inc/32808448",
       "query": "Meta Platforms, Inc. suppliers manufacturers",
-      "snippet": "Compare Autozone Inc and Meta Platforms Inc side by side — live prices, performance, key stats, technicals, Aura AI signals and investor sentiment on "
+      "snippet": "Find shipment details and trends, top products imported and exported, buyers, suppliers, contact details of Meta Platforms Inc, and much more with Tra"
     },
     {
       "source": "DuckDuckGo",
@@ -61,9 +59,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-maytech-global-investments-llc-increases-stock-position-in-meta-platforms-inc-meta-2026-06-16/",
+      "url": "https://pluang.com/en/compare/au-vs-meta",
       "query": "Meta Platforms, Inc. major customers clients",
-      "snippet": "MayTech Global Investments LLC lifted its position in Meta Platforms , Inc . (NASDAQ: META - Free Report) by 0.8% during the 4th quarter, according to"
+      "snippet": "Meta Platforms Inc ., doing business as Meta and previously known as Facebook Inc . It's a company that acts as a parent platform for Facebook, Messen"
     }
   ]
 }

@@ -1,31 +1,67 @@
 {
   "ticker": "CRM",
-  "company_name": "CRM",
+  "company_name": "Salesforce, Inc.",
   "sector": "Technology",
   "industry": "Software - Application",
-  "upstream": [],
-  "downstream": [],
-  "competitors": [],
-  "key_products": [],
-  "extracted_at": "2026-07-20 17:34:55",
+  "upstream": [
+    "MSFT",
+    "AMZN",
+    "GOOGL",
+    "ORCL",
+    "IBM"
+  ],
+  "downstream": [
+    "Walmart Inc.",
+    "AMZN",
+    "eBay Inc.",
+    "Bank of America",
+    "Coca‑Cola"
+  ],
+  "competitors": [
+    "MSFT",
+    "ORCL",
+    "SAP CRM",
+    "HubSpot",
+    "Zoho CRM"
+  ],
+  "key_products": [
+    "Sales Cloud",
+    "Service Cloud",
+    "Marketing Cloud",
+    "Commerce Cloud",
+    "Einstein AI"
+  ],
+  "extracted_at": "2026-07-23 17:16:39",
   "sources": [
     {
       "source": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/CRM",
-      "title": "CRM",
-      "snippet": "CRM may refer to:"
+      "url": "https://en.wikipedia.org/wiki/Salesforce,_Inc.",
+      "title": "Salesforce",
+      "snippet": "Salesforce, Inc., is an American cloud-based software company headquartered in San Francisco, California. It is primarily known for its customer relationship management software and related applicatio"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.discovercrm.com/crm-vendor-directory.html",
-      "query": "CRM suppliers manufacturers",
-      "snippet": "Your comprehensive CRM software vendor database. Research your shortlisted CRM providers and their CRM applications including pricing, software featur"
+      "url": "https://csimarket.com/stocks/CRM-Suppliers",
+      "query": "Salesforce, Inc. suppliers manufacturers",
+      "snippet": "Salesforce Inc supply chain, list and performance of Salesforce Incs ' suppliers - CSIMarket."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.accio.com/supplier/crm-manufacturer",
-      "query": "CRM suppliers manufacturers",
-      "snippet": "6 days ago · Need reliable CRM manufacturers ? Discover leading suppliers offering custom CRM software, sales automation tools, and enterprise solutio"
+      "url": "https://www.salesforce.com/",
+      "query": "Salesforce, Inc. suppliers manufacturers",
+      "snippet": "ExactTarget Inc ."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/Salesforce",
+      "query": "Salesforce, Inc. major customers clients",
+      "snippet": "It is primarily known for its customer relationship management software. U.S. Key people Marc Benioff (chairman & CEO) Parker $1 billion and $1.5 bill"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://ascendix.com/blog/how-many-companies-use-salesforce/",
+      "query": "Salesforce, Inc. major customers clients",
+      "snippet": "Rating 4.8 (27) Mar 25, 2025 · Walmart Inc. and Amazon are among the largest Salesforce customers, with revenues amounting to $611B and $538B, respect"
     }
   ]
 }

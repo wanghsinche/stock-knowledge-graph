@@ -7,31 +7,31 @@
     "INTC",
     "AMD",
     "NVDA",
-    "STX",
-    "WDC"
+    "QCOM",
+    "005930.KS"
   ],
   "downstream": [
-    "Enterprise customers (e.g., banks, government agencies)",
-    "DELL",
-    "Consumer users (Windows, Office, Xbox)",
-    "Cloud service users (Azure)",
-    "MSFT"
+    "Walmart",
+    "Bank of America",
+    "U.S. Department of Defense",
+    "NASA",
+    "General Motors"
   ],
   "competitors": [
     "AAPL",
     "GOOGL",
     "AMZN",
     "ORCL",
-    "IBM"
+    "CRM"
   ],
   "key_products": [
-    "Windows operating system",
-    "Microsoft Office suite",
-    "Azure cloud platform",
+    "Windows Operating System",
+    "Microsoft Office Suite",
+    "Azure Cloud Platform",
     "Microsoft Teams",
-    "Xbox gaming console"
+    "Surface Devices"
   ],
-  "extracted_at": "2026-07-22 17:08:27",
+  "extracted_at": "2026-07-23 17:10:02",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/MSFT-Suppliers",
+      "url": "https://download.microsoft.com/download/F/3/8/F38AF681-EB3A-4645-A9C4-D4F31B8BA8F2/Microsoft+Top+100+Production+Suppliers.pdf",
       "query": "Microsoft Corporation suppliers manufacturers",
-      "snippet": "Jul 7, 2026 · Microsoft's Suppliers recorded an increase in sales by 41.5 % year on year in Q1 2026, sequentially sales grew by 10.71 %, Microsoft rec"
+      "snippet": "The official Microsoft Download Center. Featuring the latest software updates and drivers for Windows, Office, Xbox and more. Operating systems includ"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.microsoft.com/en-us/procurement",
+      "url": "https://www.microsoft.com/en-us/download/details.aspx?id=50426",
       "query": "Microsoft Corporation suppliers manufacturers",
-      "snippet": "Microsoft Procurement is committed to building a diverse global supplier base that reflects the global diversity of our customers and provides all typ"
+      "snippet": "June 2, 2026 - A detail listing of corporate and subsidiary suppliers for reference."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/MSFT-Customers",
+      "url": "https://copilot.microsoft.com/",
       "query": "Microsoft Corporation major customers clients",
-      "snippet": "Microsoft customers and markets, results by customer and performance relative to MSFT, by company and industry - CSIMarket"
+      "snippet": "Microsoft Copilot — ваш компаньон для информирования, развлечения и вдохновения. Получайте советы, отзывы и прямые ответы."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.appsruntheworld.com/customers-database/vendors/view/microsoft",
+      "url": "https://www.linkedin.com/company/microsoft",
       "query": "Microsoft Corporation major customers clients",
-      "snippet": "List of companies using or evaluating Microsoft applications, with details on their revenues, employees, industries, and locations."
+      "snippet": "Microsoft | 28,644,886 followers on LinkedIn. Every company has a mission. What's ours? To empower every person and every organization to achieve more"
     }
   ]
 }

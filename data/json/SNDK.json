@@ -1,37 +1,37 @@
 {
   "ticker": "SNDK",
-  "company_name": "Sandisk Corporation",
+  "company_name": "SanDisk Corporation",
   "sector": "Technology",
   "industry": "Computer Hardware",
   "upstream": [
+    "TSM",
     "005930.KS",
     "MU",
     "SK Hynix",
-    "Toshiba Memory",
-    "INTC"
+    "GlobalFoundries"
   ],
   "downstream": [
+    "AAPL",
     "DELL",
     "HPQ",
     "Lenovo Group",
-    "AAPL",
-    "SONY"
+    "MSFT"
   ],
   "competitors": [
     "Kingston Technology",
+    "005930.KS",
     "MU",
-    "Lexar Technologies",
-    "Corsair",
-    "PNY Technologies"
+    "Lexar Corporation",
+    "MU"
   ],
   "key_products": [
+    "NAND flash memory chips",
     "Solid State Drives (SSDs)",
-    "USB Flash Drives",
-    "SD Card Memory",
-    "microSD Card Memory",
-    "External Hard Drives"
+    "USB flash drives",
+    "SD/SDXC memory cards",
+    "External hard drives"
   ],
-  "extracted_at": "2026-07-22 17:07:27",
+  "extracted_at": "2026-07-23 17:09:10",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://es.wikipedia.org/wiki/SanDisk",
+      "url": "https://www.sandisk.com/en-us/company/distributors",
       "query": "Sandisk Corporation suppliers manufacturers",
-      "snippet": "SanDisk es una empresa tecnológica con sede en Milpitas, Estados Unidos, dedicada al desarrollo y fabricación de dispositivos de almacenamiento de mem"
+      "snippet": "Find authorized SanDisk distributors and channel partners worldwide for trusted storage solutions and products."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/SNDK-Suppliers",
+      "query": "Sandisk Corporation suppliers manufacturers",
+      "snippet": "Sources: Sandisk Corporation's official press releases and regulatory filings; CSIMarket.com's supply-chain research; and the financial filings and pr"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/SanDisk",
+      "query": "Sandisk Corporation major customers clients",
+      "snippet": "Sandisk Corporation is an American multinational computer technology company based in Milpitas, California, that designs and manufactures flash memory"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.sandisk.com/",
-      "query": "Sandisk Corporation suppliers manufacturers",
-      "snippet": "Limited to 1 per SANDISK Creator product purchase; subject to acceptance of applicable Terms of Use. Offer must be redeemed by January 31, 2028, or wh"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Sandisk",
       "query": "Sandisk Corporation major customers clients",
-      "snippet": "June 21, 2026 - On November 8, 1995, SunDisk changed its name to SanDisk to avoid confusion with Sun Microsystems, and went public under the new name "
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/markets_glance.php?code=SNDK",
-      "query": "Sandisk Corporation major customers clients",
-      "snippet": "June 20, 2026 - Sandisk customers and markets, results by customer and performance relative to SNDK, by company and industry - CSIMarket"
+      "snippet": "Sandisk online store members receive free standard shipping on all eligible orders."
     }
   ]
 }

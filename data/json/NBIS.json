@@ -5,33 +5,33 @@
   "industry": "Internet Content & Information",
   "upstream": [
     "NVDA",
-    "AMD",
     "INTC",
-    "AWS",
+    "AMD",
+    "QCOM",
     "MSFT"
   ],
   "downstream": [
     "GOOGL",
-    "MSFT",
     "AMZN",
-    "Financial institutions",
-    "Healthcare companies"
+    "MSFT",
+    "META",
+    "Alibaba Cloud"
   ],
   "competitors": [
     "OpenAI",
-    "GOOGL",
-    "MSFT",
-    "AMZN",
-    "IBM"
+    "Anthropic",
+    "Cohere",
+    "DeepMind",
+    "Hugging Face"
   ],
   "key_products": [
-    "Nebius AI Platform",
-    "Avride",
-    "TripleTen",
-    "Toloka",
-    "Clickhouse"
+    "Nebius AI Infrastructure Platform",
+    "Avride AI Service",
+    "TripleTen AI Solutions",
+    "Toloka Crowdsourcing Platform",
+    "Clickhouse Analytics Engine"
   ],
-  "extracted_at": "2026-07-22 17:11:56",
+  "extracted_at": "2026-07-23 17:11:38",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Nebius_Group",
+      "url": "https://csimarket.com/stocks/suppliers_glance.php?code=NBIS",
       "query": "NBIS suppliers manufacturers",
-      "snippet": "Nebius Group N.V., headquartered in Amsterdam, is a technology company [3] that provides artificial intelligence infrastructure. [4] The company also "
+      "snippet": "NBIS 's Suppliers Management Effectiveness. NBIS 's Competitors Results. NBIS 's vs. Suppliers , Data. (Revenue and Income for Trailing 12 Months, in "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://stockanalysis.com/stocks/nbis/company/",
+      "url": "https://ru.investing.com/equities/yandex-nv",
       "query": "NBIS suppliers manufacturers",
-      "snippet": "21 hours ago · Company profile for Nebius Group N.V. ( NBIS ) stock, with a description, list of executives, contact details and other key facts. Jan "
+      "snippet": "Акции Nebius Group NV ( NBIS ): курс сегодня, актуальная цена онлайн, графики, мнения, технический анализ, отчеты и другое о Nebius NV."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.marketbeat.com/stocks/NASDAQ/NBIS/institutional-ownership/",
+      "url": "https://finance.yahoo.com/quote/NBIS/",
       "query": "NBIS major customers clients",
-      "snippet": "Which shareholders are buying/selling shares of Nebius Group (NASDAQ: NBIS ) stock? View NBIS institutional ownership (13F) transactions at MarketBeat"
+      "snippet": "Find the latest Nebius Group N.V. ( NBIS ) stock quote, history, news and other vital information to help you with your stock trading and investing."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://seekingalpha.com/symbol/NBIS",
+      "url": "https://stockanalysis.com/stocks/nbis/",
       "query": "NBIS major customers clients",
-      "snippet": "View ( NBIS ) real-time stock price, chart, news, analysis, analyst reviews and more."
+      "snippet": "A detailed overview of Nebius Group N.V. ( NBIS ) stock, including real-time price, chart, key statistics, news, and more."
     }
   ]
 }

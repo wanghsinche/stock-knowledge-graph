@@ -3,8 +3,8 @@ ticker: NOW
 company: ServiceNow, Inc.
 sector: Technology
 industry: Software - Application
-extracted_at: 2026-07-22 17:13:48
-last_updated: 2026-07-22
+extracted_at: 2026-07-23 17:10:55
+last_updated: 2026-07-23
 ---
 
 # NOW - ServiceNow, Inc.
@@ -12,7 +12,7 @@ last_updated: 2026-07-22
 ## 基本信息
 
 - **所属行业**: Technology / Software - Application
-- **提取时间**: 2026-07-22 17:13:48
+- **提取时间**: 2026-07-23 17:10:55
 
 ## 产业链关系
 
@@ -24,34 +24,34 @@ last_updated: 2026-07-22
 - [[IBM]]
 
 ### 下游客户
-- [[Walmart]]
-- [[JPMorgan Chase]]
-- [[AT&T]]
-- [[Verizon]]
-- [[U.S. Department of Defense]]
+- [[FedEx]]
+- [[CVS Health]]
+- [[AMZN]]
+- [[Mattel]]
+- [[HSBC]]
 
 ### 竞争对手
 - [[CRM]]
-- [[SAP]]
 - [[MSFT]]
-- [[ORCL]]
+- [[SAP SuccessFactors]]
 - [[Workday]]
+- [[ORCL]]
 
 ### 核心产品
 - [[Now Platform]]
 - [[IT Service Management (ITSM)]]
 - [[IT Operations Management (ITOM)]]
-- [[IT Business Management (ITBM)]]
 - [[Customer Service Management (CSM)]]
+- [[HR Service Delivery]]
 
 ## 数据来源
 
 - [ServiceNow](https://en.wikipedia.org/wiki/ServiceNow,_Inc.)
 - [ServiceNow, Inc. suppliers manufacturers](https://www.servicenow.com/company/supplier.html)
-- [ServiceNow, Inc. suppliers manufacturers](https://csimarket.com/stocks/NOW-Suppliers)
-- [ServiceNow, Inc. major customers clients](https://data.landbase.com/technology/servicenow/)
-- [ServiceNow, Inc. major customers clients](https://www.aventionmedia.com/technology-installed-base/servicenow/)
+- [ServiceNow, Inc. suppliers manufacturers](https://www.servicenow.com/)
+- [ServiceNow, Inc. major customers clients](https://www.servicenow.com/customers.html)
+- [ServiceNow, Inc. major customers clients](https://bloomberry.com/data/servicenow/)
 
 ## 元数据
 
-- **更新日期**: 2026-07-22
+- **更新日期**: 2026-07-23

@@ -3,8 +3,8 @@ ticker: APP
 company: AppLovin Corporation
 sector: Communication Services
 industry: Advertising Agencies
-extracted_at: 2026-07-22 17:14:23
-last_updated: 2026-07-22
+extracted_at: 2026-07-23 17:16:47
+last_updated: 2026-07-23
 ---
 
 # APP - AppLovin Corporation
@@ -12,46 +12,46 @@ last_updated: 2026-07-22
 ## 基本信息
 
 - **所属行业**: Communication Services / Advertising Agencies
-- **提取时间**: 2026-07-22 17:14:23
+- **提取时间**: 2026-07-23 17:16:47
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Mobile ad technology platforms]]
-- [[App development tool providers]]
-- [[Data analytics and attribution services]]
-- [[Cloud infrastructure providers]]
-- [[Digital media content suppliers]]
+- [[Mobile ad platform providers]]
+- [[Cloud service providers]]
+- [[Data analytics vendors]]
+- [[App development tool suppliers]]
+- [[Advertising network partners]]
 
 ### 下游客户
-- [[Mobile app developers]]
-- [[Gaming companies]]
-- [[Social media platforms]]
-- [[E‑commerce app operators]]
-- [[Video streaming services]]
+- [[Opentable]]
+- [[Spotify]]
+- [[Snapchat]]
+- [[GOOGL]]
+- [[Facebook]]
 
 ### 竞争对手
-- [[Unity Ads]]
-- [[GOOGL]]
-- [[Facebook Audience Network]]
+- [[Unity Technologies]]
 - [[IronSource]]
+- [[AdColony]]
 - [[Vungle]]
+- [[Chartboost]]
 
 ### 核心产品
 - [[Mobile advertising platform]]
-- [[In‑app video advertising]]
-- [[App discovery and recommendation engine]]
-- [[App monetization solutions]]
-- [[Data‑driven ad targeting]]
+- [[App discovery service]]
+- [[In‑app advertising solutions]]
+- [[Ad mediation network]]
+- [[Analytics and monetization tools]]
 
 ## 数据来源
 
 - 
-- [AppLovin Corporation suppliers manufacturers](https://en.wikipedia.org/wiki/AppLovin)
-- [AppLovin Corporation suppliers manufacturers](https://csimarket.com/stocks/APP-Suppliers)
-- [AppLovin Corporation major customers clients](https://www.applovin.com/)
-- [AppLovin Corporation major customers clients](https://www.bitget.com/wiki/app-loving-stock)
+- [AppLovin Corporation suppliers manufacturers](https://umbrex.com/resources/company-profiles/applovin/)
+- [AppLovin Corporation suppliers manufacturers](https://www.marketbeat.com/instant-alerts/filing-applovin-corporation-app-is-wcm-investment-management-llcs-4th-largest-position-2026-07-20/)
+- [AppLovin Corporation major customers clients](https://en.wikipedia.org/wiki/AppLovin)
+- [AppLovin Corporation major customers clients](https://investors.applovin.com/news/news-details/2024/AppLovin-Finds-Customers-Acquired-Through-In-App-Ads-More-Engaged-Loyal-Than-Those-Acquired-By-Social-Media/default.aspx)
 
 ## 元数据
 
-- **更新日期**: 2026-07-22
+- **更新日期**: 2026-07-23

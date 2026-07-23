@@ -3,8 +3,8 @@ ticker: CCJ
 company: Cameco Corporation
 sector: Energy
 industry: Uranium
-extracted_at: 2026-07-22 17:23:29
-last_updated: 2026-07-22
+extracted_at: 2026-07-23 17:19:53
+last_updated: 2026-07-23
 ---
 
 # CCJ - Cameco Corporation
@@ -12,23 +12,23 @@ last_updated: 2026-07-22
 ## 基本信息
 
 - **所属行业**: Energy / Uranium
-- **提取时间**: 2026-07-22 17:23:29
+- **提取时间**: 2026-07-23 17:19:53
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Uranium ore deposits]]
-- [[Mining equipment suppliers]]
-- [[Exploration service providers]]
+- [[Uranium ore suppliers]]
+- [[Mining equipment manufacturers]]
 - [[Drilling contractors]]
-- [[Geological survey companies]]
+- [[Mining services companies]]
+- [[Exploration firms]]
 
 ### 下游客户
-- [[Nuclear power plants]]
-- [[Electric utilities]]
-- [[Government nuclear agencies]]
+- [[Nuclear power plant operators]]
 - [[Nuclear fuel cycle companies]]
-- [[International Atomic Energy Agency]]
+- [[Utility companies]]
+- [[Government nuclear agencies]]
+- [[Nuclear fuel suppliers]]
 
 ### 竞争对手
 - [[Kazatomprom]]
@@ -38,20 +38,20 @@ last_updated: 2026-07-22
 - [[Uranium One]]
 
 ### 核心产品
-- [[Uranium ore]]
+- [[Uranium concentrate]]
 - [[Uranium hexafluoride (UF6)]]
 - [[Enriched uranium fuel]]
-- [[Uranium concentrate]]
+- [[Uranium ore]]
 - [[Uranium fuel assemblies]]
 
 ## 数据来源
 
 - [Cameco](https://en.wikipedia.org/wiki/Cameco_Corporation)
-- [Cameco Corporation suppliers manufacturers](https://www.cameco.com/about)
-- [Cameco Corporation suppliers manufacturers](https://grokipedia.com/page/Cameco)
+- [Cameco Corporation major customers clients](https://www.cameco.com/)
 - [Cameco Corporation major customers clients](https://www.cameco.com/about)
-- [Cameco Corporation major customers clients](https://www.webull.com/releases/nyse-ccj?index=0&typeIds=)
+- [Cameco Corporation competitors alternatives](https://www.cameco.com/)
+- [Cameco Corporation competitors alternatives](https://www.linkedin.com/posts/cameco-corporation_three-teams-represented-cameco-at-the-54th-activity-7203803605470978050-4awl)
 
 ## 元数据
 
-- **更新日期**: 2026-07-22
+- **更新日期**: 2026-07-23

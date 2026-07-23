@@ -4,18 +4,18 @@
   "sector": "Technology",
   "industry": "Consumer Electronics",
   "upstream": [
+    "Foxconn (Hon Hai Precision Industry Co.)",
+    "TSM",
+    "005930.KS",
     "SONY",
-    "Foxconn",
-    "Pegatron",
-    "Wistron",
-    "Tianma"
+    "LG Display"
   ],
   "downstream": [
-    "iPhone users",
-    "iPad users",
-    "Mac users",
+    "AMZN",
+    "Enterprise customers (e.g., government agencies, universities)",
+    "Mobile carriers (e.g., Verizon, AT&T, T-Mobile)",
     "AAPL",
-    "AAPL"
+    "OEM partners for accessories (e.g., Belkin, Anker)"
   ],
   "competitors": [
     "005930.KS",
@@ -29,9 +29,9 @@
     "iPad",
     "Mac",
     "Apple Watch",
-    "Apple TV"
+    "AirPods"
   ],
-  "extracted_at": "2026-07-22 17:08:10",
+  "extracted_at": "2026-07-23 17:10:24",
   "sources": [
     {
       "source": "Wikipedia",
@@ -53,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/AAPL-Customers",
+      "url": "https://finance.yahoo.com/video/teslas-robotaxi-struggle-akin-apple-151500987.html",
       "query": "Apple Inc. major customers clients",
-      "snippet": "Apple Inc 's Comment on Sales, Marketing and Customers The Company’s customers are primarily in the consumer, SMB, education, enterprise and governmen"
+      "snippet": "2 hours ago · Today Apple Maps is great, but then Google Maps already has the customer secured. ... Amazon.com, Inc. EquityNMS. LMT. Lockheed Martin C"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.appsruntheworld.com/customers-database/vendors/view/apple",
+      "url": "https://www.reddit.com/r/MacOSBeta/comments/1v30dv9/apples_hidden_siri_voice_pad_blends_13_voices/",
       "query": "Apple Inc. major customers clients",
-      "snippet": "List of companies using or evaluating Apple applications, with details on their revenues, employees, industries, and locations."
+      "snippet": "2 days ago · Skip to main content Apple's hidden Siri “Voice Pad” blends 13 ... i want my computer to be creepy, off-putting and generally unpleasant "
     }
   ]
 }

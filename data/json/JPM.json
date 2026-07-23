@@ -2,20 +2,20 @@
   "ticker": "JPM",
   "company_name": "JPMorgan Chase & Co.",
   "sector": "Financial Services",
-  "industry": "Banks - Diversified",
+  "industry": "Diversified Banks",
   "upstream": [
     "MSFT",
-    "Data providers (e.g., Bloomberg, Thomson Reuters)",
-    "Payment networks (e.g., Visa, Mastercard)",
+    "IBM",
+    "ORCL",
     "AMZN",
-    "Cybersecurity firms (e.g., Palo Alto Networks)"
+    "Palo Alto Networks"
   ],
   "downstream": [
-    "Retail banking customers",
-    "Small and medium-sized business clients",
-    "Large corporate clients",
+    "Retail customers",
+    "Small businesses",
+    "Large corporations",
     "Institutional investors",
-    "Government and public sector entities"
+    "Government entities"
   ],
   "competitors": [
     "Bank of America",
@@ -25,13 +25,13 @@
     "Morgan Stanley"
   ],
   "key_products": [
-    "Retail banking services",
-    "Commercial and investment banking",
-    "Wealth and asset management",
-    "Credit cards and consumer loans",
-    "Treasury and cash management"
+    "Retail banking",
+    "Commercial banking",
+    "Investment banking",
+    "Asset management",
+    "Wealth management"
   ],
-  "extracted_at": "2026-07-22 17:20:45",
+  "extracted_at": "2026-07-23 17:18:33",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,21 +47,21 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.jpmorganchase.com/about/suppliers",
+      "url": "https://www.jpmorganchase.com/",
       "query": "JPMorgan Chase & Co. suppliers manufacturers",
-      "snippet": "Building strong partnerships is the cornerstone of our success. At JPMorganChase , we place particular value in our supplier partnerships. Thanks to t"
+      "snippet": "Latest news. An Ohio-based company is protecting first responders around the world. With support from JPMorganChase , Fire-Dex is providing protective"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/JPMorgan_Chase",
       "query": "JPMorgan Chase & Co. major customers clients",
-      "snippet": "The JPMorgan Chase logo prior to the 2008 rebranding As of June 2008, the JPMorgan logo used for the company's Investment Banking, Asset Management, a"
+      "snippet": "JPMorgan Chase & Co . (stylized as JPMorganChase ) is an American multinational banking institution headquartered in New York City and incorporated in"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/JPM-Customers",
+      "url": "https://www.jpmorganchase.com/",
       "query": "JPMorgan Chase & Co. major customers clients",
-      "snippet": "Jpmorgan Chase And Co 's Comment on Sales, Marketing and Customers JPMorgan Chase serves customers primarily in the United States and includes corpora"
+      "snippet": "JPMorganChase serves millions of customers , clients and communities in over 100 global markets.Registration opens for San Francisco’s 40th JPMorganCh"
     }
   ]
 }

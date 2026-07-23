@@ -8,30 +8,30 @@
     "005930.KS",
     "GlobalFoundries",
     "MU",
-    "ASML"
+    "SK Hynix"
   ],
   "downstream": [
-    "AAPL",
     "DELL",
     "HPQ",
-    "MSFT",
-    "AMZN"
+    "Lenovo Group",
+    "AAPL",
+    "MSFT"
   ],
   "competitors": [
     "AMD",
     "NVDA",
     "QCOM",
     "AVGO",
-    "TXN"
+    "005930.KS"
   ],
   "key_products": [
-    "Intel Core processors",
-    "Intel Xeon processors",
-    "Intel Atom processors",
-    "Intel Optane memory",
-    "Intel 10nm and 7nm chip technologies"
+    "Intel Core CPUs",
+    "Intel Xeon CPUs",
+    "Intel chipsets",
+    "Intel SSDs",
+    "Intel AI accelerators"
   ],
-  "extracted_at": "2026-07-22 17:08:37",
+  "extracted_at": "2026-07-23 17:10:34",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/INTC-Suppliers",
+      "url": "https://en.wikipedia.org/wiki/Intel",
       "query": "Intel Corporation suppliers manufacturers",
-      "snippet": "Intel supply chain, list and performance of Intels' suppliers - CSIMarket. Intel 's Comment on Supply Chain. We use third-party foundries to manufactu"
+      "snippet": "Intel Corporation is an American multinational technology company headquartered in Santa Clara, California. It designs, manufactures, and sells comput"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.globalspec.com/supplier/profile/Intel",
+      "url": "https://www.intel.com/content/www/us/en/partner/showcase/partner-directory/distributor.html",
       "query": "Intel Corporation suppliers manufacturers",
-      "snippet": "Intel Corporation business profile on GlobalSpec. Read about Intel Corporation , browse product catalogs and product areas.(408) 765-9904. Business Ty"
+      "snippet": "Distributor Partner Directory. Sell Intel® Products directly sourced from Intel as well as devices manufactured by OEMs."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.intel.com/content/www/us/en/customer-spotlight/overview.html",
+      "url": "https://finance.yahoo.com/quote/INTC/",
       "query": "Intel Corporation major customers clients",
-      "snippet": "Jul 20, 2025 · Explore the Intel Customer Spotlight for the latest customer stories, case studies, and testimonials highlighting data-centric innovati"
+      "snippet": "Find the latest Intel Corporation (INTC) stock quote, history, news and other vital information to help you with your stock trading and investing."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/INTC-Customers",
+      "url": "https://www.tradingview.com/symbols/NASDAQ-INTC/",
       "query": "Intel Corporation major customers clients",
-      "snippet": "Intel customers and markets, results by customer and performance relative to INTC, by company and industry - CSIMarket"
+      "snippet": "View live Intel Corporation chart to track its stock's price action. Find market predictions, INTC financials and market news."
     }
   ]
 }

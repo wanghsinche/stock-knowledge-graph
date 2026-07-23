@@ -4,34 +4,34 @@
   "sector": "Industrials",
   "industry": "Aerospace & Defense",
   "upstream": [
-    "Aerojet Rocketdyne",
-    "Honeywell",
-    "Boeing",
-    "Lockheed Martin",
-    "Northrop Grumman"
+    "Rocketdyne (rocket engines)",
+    "Honeywell (avionics & guidance systems)",
+    "Hexcel (composite materials)",
+    "TXN",
+    "Lockheed Martin (satellite components)"
   ],
   "downstream": [
-    "NASA",
-    "U.S. Department of Defense",
-    "AMZN",
+    "NASA (government contracts)",
+    "U.S. Department of Defense (military launches)",
     "GOOGL",
-    "Starlink residential and commercial customers"
+    "Starlink subscribers (global broadband users)",
+    "Private spaceflight customers (e.g., SpaceX Crew Dragon missions)"
   ],
   "competitors": [
-    "United Launch Alliance",
-    "Arianespace",
-    "Rocket Lab",
     "Blue Origin",
-    "Virgin Galactic"
+    "United Launch Alliance",
+    "Rocket Lab",
+    "Virgin Galactic",
+    "Relativity Space"
   ],
   "key_products": [
-    "Falcon 9",
-    "Falcon Heavy",
-    "Starship",
+    "Falcon 9 launch vehicle",
+    "Falcon Heavy launch vehicle",
+    "Starship launch vehicle",
     "Starlink satellite constellation",
     "Grok AI platform"
   ],
-  "extracted_at": "2026-07-22 17:09:41",
+  "extracted_at": "2026-07-23 17:10:12",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.spacex.com/supplier",
+      "url": "https://www.tradingview.com/symbols/NASDAQ-SPCX/",
       "query": "Space Exploration Technologies Corp. suppliers manufacturers",
-      "snippet": "Becoming a supplier SpaceX is committed to including diverse suppliers in our sourcing process, which enhances our ability to provide the most reliabl"
+      "snippet": "Space Exploration Technologies Corp . ( SpaceX ) designs, manufactures , and launches advanced rockets and spacecraft, including the fully reusable St"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.spacexcapex.com/",
+      "url": "https://finance.yahoo.com/quote/SPCX/",
       "query": "Space Exploration Technologies Corp. suppliers manufacturers",
-      "snippet": "17 hours ago · The definitive SpaceX supplier and contractor company directory. Browse fabricators, equipment operators, and logistics carriers active"
+      "snippet": "Space Exploration Technologies Corp . provides satellite-based broadband services in the United States, Ireland, Canada, and internationally.Its Space"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/SpaceX",
+      "url": "https://www.spacex.com/",
       "query": "Space Exploration Technologies Corp. major customers clients",
-      "snippet": "Space Exploration Technologies Corp ., doing business as SpaceX, is an American spaceflight, telecommunications, and artificial intelligence company h"
+      "snippet": "SpaceX designs, manufactures and launches advanced rockets and spacecraft. The company was founded in 2002 to revolutionize space technology, ..."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://content.spacex.com/cms-assets/FINAL_Documents+and+Updates/SpaceX+-+EU+Prospectus+(Approved+by+Bafin)+-+June+5,+2026.pdf",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-biggest-customer-biggest-ipo-074011900.html",
       "query": "Space Exploration Technologies Corp. major customers clients",
-      "snippet": "May 12, 2026 · We offer launch services to commercial, civil, and government customers through our reusable Falcon 9 and Falcon Heavy rockets for sate"
+      "snippet": "Jun 5, 2026 · Goldman Sachs holds the lead position on SpaceX's offering. Morgan Stanley manages a direct share program that reserves 5% of IPO stock "
     }
   ]
 }

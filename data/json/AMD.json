@@ -14,8 +14,8 @@
     "DELL",
     "HPQ",
     "Lenovo",
-    "MSFT",
-    "SONY"
+    "AAPL",
+    "MSFT"
   ],
   "competitors": [
     "INTC",
@@ -28,10 +28,10 @@
     "Ryzen CPUs",
     "EPYC CPUs",
     "Radeon GPUs",
-    "Radeon Instinct GPUs",
-    "Xilinx FPGAs"
+    "Instinct GPUs",
+    "SoCs"
   ],
-  "extracted_at": "2026-07-22 17:07:45",
+  "extracted_at": "2026-07-23 17:09:41",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,25 +43,25 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/AMD",
       "query": "Advanced Micro Devices, Inc. suppliers manufacturers",
-      "snippet": "5 days ago - To immediately secure a customer ... source supplier of microchips designed by Fairchild (the 5 V TTL \"9300\" logic series) and National S"
+      "snippet": "Advanced Micro Devices, Inc. (AMD) is an American multinational semiconductor company headquartered in Santa Clara, California."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/AMD-Suppliers",
+      "query": "Advanced Micro Devices, Inc. suppliers manufacturers",
+      "snippet": "Jul 7, 2026 · Advanced Micro Devices Inc's Suppliers recorded an increase in sales by 9.44 % year on year in Q1 2026, sequentially sales grew by 5.04 "
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://finviz.com/stock?t=AMD",
+      "query": "Advanced Micro Devices, Inc. major customers clients",
+      "snippet": "Advanced Micro Devices , Inc . engages in the semiconductor business. Its products include processors, accelerators, graphics, adaptive SoCs, FPGAs, a"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.britannica.com/money/Advanced-Micro-Devices-Inc",
-      "query": "Advanced Micro Devices, Inc. suppliers manufacturers",
+      "query": "Advanced Micro Devices, Inc. major customers clients",
       "snippet": "Advanced Micro Devices , Inc . ( AMD ) is an American semiconductor designer and global supplier of computing and graphics technologies used in data c"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/AMD",
-      "query": "Advanced Micro Devices, Inc. major customers clients",
-      "snippet": "5 days ago - Advanced Micro Devices , Inc . (AMD) is an American multinational semiconductor company headquartered in Santa Clara, California. It deve"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/markets_glance.php?code=AMD",
-      "query": "Advanced Micro Devices, Inc. major customers clients",
-      "snippet": "1 month ago - Advanced Micro Devices Inc customers and markets, results by customer and performance relative to AMD, by company and industry - CSIMark"
     }
   ]
 }
