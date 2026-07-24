@@ -8,13 +8,13 @@
     "005930.KS",
     "GlobalFoundries",
     "UMC",
-    "TSM"
+    "INTC"
   ],
   "downstream": [
     "DELL",
     "HPQ",
     "Lenovo",
-    "AAPL",
+    "SONY",
     "MSFT"
   ],
   "competitors": [
@@ -22,16 +22,16 @@
     "NVDA",
     "QCOM",
     "AVGO",
-    "005930.KS"
+    "ARM"
   ],
   "key_products": [
     "Ryzen CPUs",
-    "EPYC CPUs",
+    "EPYC servers",
     "Radeon GPUs",
     "Instinct GPUs",
-    "SoCs"
+    "Xilinx FPGAs"
   ],
-  "extracted_at": "2026-07-23 17:09:41",
+  "extracted_at": "2026-07-24 17:21:11",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,21 +41,21 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/AMD",
-      "query": "Advanced Micro Devices, Inc. suppliers manufacturers",
-      "snippet": "Advanced Micro Devices, Inc. (AMD) is an American multinational semiconductor company headquartered in Santa Clara, California."
-    },
-    {
-      "source": "DuckDuckGo",
       "url": "https://csimarket.com/stocks/AMD-Suppliers",
       "query": "Advanced Micro Devices, Inc. suppliers manufacturers",
-      "snippet": "Jul 7, 2026 · Advanced Micro Devices Inc's Suppliers recorded an increase in sales by 9.44 % year on year in Q1 2026, sequentially sales grew by 5.04 "
+      "snippet": "Jul 7, 2026 · For your research, we’ve provided nine additional tables on Advanced Micro Devices Inc ’s suppliers . You can find them in the navigatio"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finviz.com/stock?t=AMD",
+      "url": "https://thepartsdirect.com/advancedmicrodevicesamd/distributors-and-vendors",
+      "query": "Advanced Micro Devices, Inc. suppliers manufacturers",
+      "snippet": "144 Distributors & Vendors, 1 Locations associated to Advanced Micro Devices (AMD)"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://ir.amd.com/",
       "query": "Advanced Micro Devices, Inc. major customers clients",
-      "snippet": "Advanced Micro Devices , Inc . engages in the semiconductor business. Its products include processors, accelerators, graphics, adaptive SoCs, FPGAs, a"
+      "snippet": "Advanced Micro Devices , Inc . IR Overview. Investor Relations. AMD Expands AI Leadership Across Client , Graphics, and Software with New Ryzen, Ryzen"
     },
     {
       "source": "DuckDuckGo",

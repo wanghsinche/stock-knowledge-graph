@@ -4,34 +4,34 @@
   "sector": "Industrials",
   "industry": "Aerospace & Defense",
   "upstream": [
-    "Rocketdyne (rocket engines)",
-    "Honeywell (avionics & guidance systems)",
-    "Hexcel (composite materials)",
-    "TXN",
-    "Lockheed Martin (satellite components)"
+    "STMicroelectronics N.V.",
+    "Boeing",
+    "Lockheed Martin",
+    "Northrop Grumman",
+    "Honeywell"
   ],
   "downstream": [
-    "NASA (government contracts)",
-    "U.S. Department of Defense (military launches)",
-    "GOOGL",
-    "Starlink subscribers (global broadband users)",
-    "Private spaceflight customers (e.g., SpaceX Crew Dragon missions)"
+    "NASA",
+    "United States Space Force",
+    "Starlink subscribers",
+    "United Nations Office for Outer Space Affairs",
+    "Commercial satellite operators"
   ],
   "competitors": [
     "Blue Origin",
-    "United Launch Alliance",
+    "United Launch Alliance (ULA)",
+    "Arianespace",
     "Rocket Lab",
-    "Virgin Galactic",
     "Relativity Space"
   ],
   "key_products": [
-    "Falcon 9 launch vehicle",
-    "Falcon Heavy launch vehicle",
-    "Starship launch vehicle",
+    "Falcon 9",
+    "Falcon Heavy",
+    "Starship",
     "Starlink satellite constellation",
     "Grok AI platform"
   ],
-  "extracted_at": "2026-07-23 17:10:12",
+  "extracted_at": "2026-07-24 17:22:09",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.tradingview.com/symbols/NASDAQ-SPCX/",
+      "url": "https://grokipedia.com/page/Publicly_traded_SpaceX_suppliers",
       "query": "Space Exploration Technologies Corp. suppliers manufacturers",
-      "snippet": "Space Exploration Technologies Corp . ( SpaceX ) designs, manufactures , and launches advanced rockets and spacecraft, including the fully reusable St"
+      "snippet": "STMicroelectronics N.V. (NYSE: STM), a multinational semiconductor company headquartered in Geneva, Switzerland, serves as a critical supplier of spec"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/SPCX/",
+      "url": "https://www.spacex.com/supplier",
       "query": "Space Exploration Technologies Corp. suppliers manufacturers",
-      "snippet": "Space Exploration Technologies Corp . provides satellite-based broadband services in the United States, Ireland, Canada, and internationally.Its Space"
+      "snippet": "While SpaceX develops and manufactures its technologies and products in-house, often times we can leverage specialized, small, nimble, or local suppli"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/SpaceX",
+      "query": "Space Exploration Technologies Corp. major customers clients",
+      "snippet": "The company's largest customers include NASA, the United States Space Force, and the National Reconnaissance Office. Elon Musk owns 42% of the outstan"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.spacex.com/",
       "query": "Space Exploration Technologies Corp. major customers clients",
-      "snippet": "SpaceX designs, manufactures and launches advanced rockets and spacecraft. The company was founded in 2002 to revolutionize space technology, ..."
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-biggest-customer-biggest-ipo-074011900.html",
-      "query": "Space Exploration Technologies Corp. major customers clients",
-      "snippet": "Jun 5, 2026 · Goldman Sachs holds the lead position on SpaceX's offering. Morgan Stanley manages a direct share program that reserves 5% of IPO stock "
+      "snippet": "Jul 10, 2026 · SpaceX designs, manufactures and launches advanced rockets and spacecraft. The company was founded in 2002 to revolutionize space techn"
     }
   ]
 }

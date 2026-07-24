@@ -2,56 +2,38 @@
 ticker: NU
 company: Nu Holdings Ltd.
 sector: Financial Services
-industry: Digital Banking / Fintech
-extracted_at: 2026-07-23 17:13:52
-last_updated: 2026-07-23
+industry: Banks - Regional
+extracted_at: 2026-07-24 17:30:22
+last_updated: 2026-07-24
 ---
 
 # NU - Nu Holdings Ltd.
 
 ## 基本信息
 
-- **所属行业**: Financial Services / Digital Banking / Fintech
-- **提取时间**: 2026-07-23 17:13:52
+- **所属行业**: Financial Services / Banks - Regional
+- **提取时间**: 2026-07-24 17:30:22
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Visa]]
-- [[Mastercard]]
-- [[Stripe]]
-- [[Plaid]]
-- [[AMZN]]
+_暂无数据_
 
 ### 下游客户
-- [[Individual consumers in Brazil, Mexico, Colombia]]
-- [[SMEs in Brazil]]
-- [[Merchants using NuPay]]
-- [[Digital wallet users]]
-- [[Credit card holders]]
+_暂无数据_
 
 ### 竞争对手
-- [[Banco Inter]]
-- [[Banco do Brasil]]
-- [[Itaú Unibanco]]
-- [[Banco Bradesco]]
-- [[C6 Bank]]
+_暂无数据_
 
 ### 核心产品
-- [[Digital checking account]]
-- [[Credit card]]
-- [[Personal loans]]
-- [[Payment services (NuPay)]]
-- [[Investment platform]]
+_暂无数据_
 
 ## 数据来源
 
 - [Nubank](https://en.wikipedia.org/wiki/Nu_Holdings_Ltd.)
-- [Nu Holdings Ltd. suppliers manufacturers](https://csimarket.com/stocks/fundamentals_glance.php?code=NU)
+- [Nu Holdings Ltd. suppliers manufacturers](https://csimarket.com/stocks/NU-Suppliers)
 - [Nu Holdings Ltd. suppliers manufacturers](https://finance.yahoo.com/quote/NU/)
-- [Nu Holdings Ltd. major customers clients](https://finance.yahoo.com/quote/NU/)
-- [Nu Holdings Ltd. major customers clients](https://www.investing.com/equities/nu-holdings)
 
 ## 元数据
 
-- **更新日期**: 2026-07-23
+- **更新日期**: 2026-07-24

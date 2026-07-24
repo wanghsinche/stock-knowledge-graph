@@ -2,42 +2,66 @@
   "ticker": "DLR",
   "company_name": "Digital Realty Trust, Inc.",
   "sector": "Real Estate",
-  "industry": "REIT - Specialty",
+  "industry": "Real Estate Investment Trusts (REIT) - Specialty",
   "upstream": [
     "CSCO",
     "JNPR",
     "DELL",
     "HPQ",
-    "Siemens Energy"
+    "NetApp"
   ],
   "downstream": [
     "AMZN",
     "MSFT",
     "GOOGL",
-    "AT&T",
-    "CAT"
+    "IBM",
+    "ORCL"
   ],
   "competitors": [
     "Equinix",
     "CyrusOne",
-    "CoreSite",
     "QTS Realty Trust",
-    "Switch"
+    "CoreSite Realty",
+    "Rackspace Technology"
   ],
   "key_products": [
-    "Data center colocation",
-    "Interconnection services",
-    "Carrier‑neutral services",
-    "Cloud connectivity",
-    "Managed services"
+    "Carrier‑neutral data center services",
+    "Colocation",
+    "Interconnection & edge services",
+    "Cloud connectivity solutions",
+    "Managed IT services"
   ],
-  "extracted_at": "2026-06-30 18:22:42",
+  "extracted_at": "2026-07-24 17:24:26",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Digital_Realty_Trust,_Inc.",
       "title": "Digital Realty",
       "snippet": "Digital Realty is a real estate investment trust that owns, operates, and invests in carrier-neutral data centers across the world. The company offers data center, colocation, and interconnection serv"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/Digital_Realty",
+      "query": "Digital Realty Trust, Inc. suppliers manufacturers",
+      "snippet": "Digital Realty is a real estate investment trust that owns, operates, and invests in carrier-neutral data centers across the world. The company offers"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.digitalrealty.com/partners/partner-directory",
+      "query": "Digital Realty Trust, Inc. suppliers manufacturers",
+      "snippet": "Explore our comprehensive directory of partners and collaborators working with Digital Realty. A list of trusted technology partners, clouds, service "
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://dcfanalyst.com/products/dlr-marketing-mix",
+      "query": "Digital Realty Trust, Inc. major customers clients",
+      "snippet": "Digital Realty Trust , Inc . sells a global data center product set built around PlatformDIGITAL, colocation, and interconnection. Its 300+ data cente"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://pluang.com/en/compare/azo-vs-dlr",
+      "query": "Digital Realty Trust, Inc. major customers clients",
+      "snippet": "Compare Autozone Inc and Digital Realty Trust , Inc . side by side — live prices, performance, key stats, technicals, Aura AI signals and investor sen"
     }
   ]
 }

@@ -1,37 +1,37 @@
 {
   "ticker": "CSCO",
   "company_name": "Cisco Systems, Inc.",
-  "sector": "Technology",
-  "industry": "Communication Equipment",
+  "sector": "Technology / Communication Equipment",
+  "industry": "Networking & Telecommunications Equipment",
   "upstream": [
-    "INTC",
-    "AVGO",
-    "QCOM",
-    "NVDA",
-    "TXN"
+    "Jabil",
+    "Flex",
+    "Foxconn",
+    "Wistron",
+    "Celestica"
   ],
   "downstream": [
     "AT&T",
     "Verizon",
     "GOOGL",
-    "AMZN",
-    "MSFT"
+    "MSFT",
+    "AMZN"
   ],
   "competitors": [
     "JNPR",
-    "Huawei",
     "ANET",
-    "Nokia",
-    "Ericsson"
+    "Huawei",
+    "Netgear",
+    "HPQ"
   ],
   "key_products": [
     "Cisco routers",
     "Cisco switches",
-    "Cisco security appliances",
-    "Webex",
-    "Meraki"
+    "Cisco Webex",
+    "Cisco Meraki",
+    "Cisco ASA firewall"
   ],
-  "extracted_at": "2026-07-20 17:36:11",
+  "extracted_at": "2026-07-24 17:31:58",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,15 +41,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.cisco.com/",
+      "url": "https://www.cisco.com/c/dam/en_us/about/supply-chain/cisco-supplier-list.pdf",
       "query": "Cisco Systems, Inc. suppliers manufacturers",
-      "snippet": "Cisco is a worldwide technology leader powering an inclusive future for all. Learn more about our products, services, solutions, and innovations. Cisc"
+      "snippet": "Below is an alphabetical list of Cisco Contract Manufacturers , strategic Original Design Manufacturers , Joint Development Manufacturers , and Compon"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.linkedin.com/company/cisco",
+      "url": "https://www.cisco.com/c/en/us/about/suppliers.html",
       "query": "Cisco Systems, Inc. suppliers manufacturers",
-      "snippet": "Cisco Meraki Systems Manager. Cisco Meraki Systems Manager. Mobile Device Management (MDM) Software. Cisco Secure Malware Analytics, Threat Intelligen"
+      "snippet": "Access Cisco’ s supplier platforms and the most-used resources. Cisco leverages a premier, strategic supplier network for our goods and services and h"
     },
     {
       "source": "DuckDuckGo",

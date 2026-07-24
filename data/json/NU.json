@@ -2,36 +2,12 @@
   "ticker": "NU",
   "company_name": "Nu Holdings Ltd.",
   "sector": "Financial Services",
-  "industry": "Digital Banking / Fintech",
-  "upstream": [
-    "Visa",
-    "Mastercard",
-    "Stripe",
-    "Plaid",
-    "AMZN"
-  ],
-  "downstream": [
-    "Individual consumers in Brazil, Mexico, Colombia",
-    "SMEs in Brazil",
-    "Merchants using NuPay",
-    "Digital wallet users",
-    "Credit card holders"
-  ],
-  "competitors": [
-    "Banco Inter",
-    "Banco do Brasil",
-    "Itaú Unibanco",
-    "Banco Bradesco",
-    "C6 Bank"
-  ],
-  "key_products": [
-    "Digital checking account",
-    "Credit card",
-    "Personal loans",
-    "Payment services (NuPay)",
-    "Investment platform"
-  ],
-  "extracted_at": "2026-07-23 17:13:52",
+  "industry": "Banks - Regional",
+  "upstream": [],
+  "downstream": [],
+  "competitors": [],
+  "key_products": [],
+  "extracted_at": "2026-07-24 17:30:22",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +17,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/fundamentals_glance.php?code=NU",
+      "url": "https://csimarket.com/stocks/NU-Suppliers",
       "query": "Nu Holdings Ltd. suppliers manufacturers",
-      "snippet": "Fundamental Analysis on Nu Holdings Ltd Key ratios, Comparisons to Miscellaneous Financial Services Industry, Financial Sector, S&P 500 - CSIMarket. N"
+      "snippet": "Nu Holdings Ltd 's Suppliers Performance. NU 's Supply Chain. Download as CSV.Sources: Nu Holdings Ltd 's official press releases and regulatory filin"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://finance.yahoo.com/quote/NU/",
       "query": "Nu Holdings Ltd. suppliers manufacturers",
       "snippet": "Find the latest Nu Holdings Ltd . ( NU ) stock quote, history, news and other vital information to help you with your stock trading and investing."
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/NU/",
-      "query": "Nu Holdings Ltd. major customers clients",
-      "snippet": "Find the latest Nu Holdings Ltd . ( NU ) stock quote, history, news and other vital information to help you with your stock trading and investing."
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.investing.com/equities/nu-holdings",
-      "query": "Nu Holdings Ltd. major customers clients",
-      "snippet": "$ NU is a common way to refer to the Nu Holdings Ltd ticker symbol in social media, forums, and online discussions. The dollar sign is a shorthand con"
     }
   ]
 }

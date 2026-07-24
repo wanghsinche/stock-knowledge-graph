@@ -4,33 +4,34 @@
   "sector": "Technology",
   "industry": "Semiconductor Equipment & Materials",
   "upstream": [
-    "Optical component suppliers",
-    "Semiconductor material suppliers",
-    "Precision machining suppliers",
-    "Electronic component vendors",
-    "Software solution providers"
+    "Semiconductor equipment components",
+    "Precision engineering parts",
+    "High‑purity chemicals",
+    "Advanced optics",
+    "Electronic components"
   ],
   "downstream": [
-    "TSM",
-    "005930.KS",
     "INTC",
+    "005930.KS",
+    "TSM",
     "MU",
-    "GlobalFoundries"
+    "SK Hynix"
   ],
   "competitors": [
     "ASML",
-    "Tokyo Electron",
     "LRCX",
-    "KLA"
+    "Tokyo Electron",
+    "KLA Corporation",
+    "AMAT"
   ],
   "key_products": [
-    "Lithography equipment",
-    "Etch equipment",
-    "Deposition equipment",
-    "Inspection and metrology tools",
-    "Software solutions for semiconductor manufacturing"
+    "Deposition equipment (CVD, ALD, PVD)",
+    "Etching equipment (plasma, wet)",
+    "Metrology tools (SEM, AFM, ellipsometry)",
+    "Inspection tools (optical, electron)",
+    "Chemical‑mechanical planarization (CMP) equipment"
   ],
-  "extracted_at": "2026-07-23 17:14:12",
+  "extracted_at": "2026-07-24 17:25:18",
   "sources": [
     {
       "source": "Wikipedia",
@@ -40,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.appliedmaterials.com/us/en.html",
+      "url": "https://csimarket.com/stocks/AMAT-Suppliers",
+      "query": "Applied Materials, Inc. suppliers manufacturers",
+      "snippet": "Jul 7, 2026 · Applied uses numerous vendors , including contract manufacturers , to supply parts and assembly services for the manufacture and support"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.appliedmaterials.com/",
       "query": "Applied Materials, Inc. suppliers manufacturers",
       "snippet": "Applied Materials , Inc . is the leader in materials engineering solutions that are at the foundation of virtually every new semiconductor and advance"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/why-applied-materials-inc-amat-185920007.html",
-      "query": "Applied Materials, Inc. suppliers manufacturers",
-      "snippet": "Applied Materials Inc (NASDAQ: AMAT ) is one of billionaire Ken Fisher’s top high growth stock picks.To strengthen its supply chain resilience, Applie"
+      "url": "https://247wallst.com/investing/2025/08/14/live-will-applied-materials-amat-pop-after-tonights-earnings/",
+      "query": "Applied Materials, Inc. major customers clients",
+      "snippet": "Here’ s what AMAT CEO Gary Dickerson had to say about the company’s guidance and defense of their long term opportunity: “For Applied ’s business, the"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Applied_Materials",
+      "url": "https://parameter.io/applied-materials-amat-ai-demand-2026-outlook/",
       "query": "Applied Materials, Inc. major customers clients",
-      "snippet": "Applied is organized into three major business sectors: Semiconductor Products, Applied Global Services, and ] with sales of $797M."
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.appliedmaterials.com/us/en/about.html",
-      "query": "Applied Materials, Inc. major customers clients",
-      "snippet": "We foster an innovation network through venture investments and joint research and development programs with universities, customers, partners, and re"
+      "snippet": "AMAT Stock Card Applied Materials , Inc ., AMAT . A Mild Pause After Big Gains. AMAT eased slightly on December 9, slipping less than half a percent d"
     }
   ]
 }

@@ -1,37 +1,37 @@
 {
   "ticker": "PLTR",
   "company_name": "Palantir Technologies Inc.",
-  "sector": "Technology / Software - Infrastructure",
+  "sector": "Technology",
   "industry": "Software - Infrastructure",
   "upstream": [
-    "AMZN",
+    "DELL",
     "MSFT",
-    "GOOGL",
-    "IBM",
-    "ORCL"
+    "Data storage vendors (e.g., NetApp, EMC)",
+    "Cybersecurity solution providers",
+    "Enterprise software integrators"
   ],
   "downstream": [
-    "U.S. Department of Defense",
-    "U.S. Department of Homeland Security",
+    "U.S. federal government agencies (e.g., Department of Defense, FBI)",
     "INTC",
-    "Bank of America",
-    "JP Morgan"
+    "Financial services firms (e.g., banks, hedge funds)",
+    "Healthcare providers and research institutions",
+    "Energy and utilities companies"
   ],
   "competitors": [
     "Splunk",
     "Snowflake",
     "Databricks",
-    "MSFT",
-    "IBM"
+    "IBM",
+    "MSFT"
   ],
   "key_products": [
     "Palantir Foundry",
     "Palantir Gotham",
     "Palantir Apollo",
     "Palantir Helix",
-    "Palantir Metropolis"
+    "Palantir Platform (data integration & analytics suite)"
   ],
-  "extracted_at": "2026-07-23 17:13:28",
+  "extracted_at": "2026-07-24 17:26:08",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,9 +47,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.marketwatch.com/investing/stock/pltr",
+      "url": "https://finance.yahoo.com/quote/PLTR/",
       "query": "Palantir Technologies Inc. suppliers manufacturers",
-      "snippet": "PLTR | Complete Palantir Technologies Inc . stock news by MarketWatch. View real-time stock prices and stock quotes for a full financial overview. Pal"
+      "snippet": "Find the latest Palantir Technologies Inc . (PLTR) stock quote, history, news and other vital information to help you with your stock trading and inve"
     },
     {
       "source": "DuckDuckGo",

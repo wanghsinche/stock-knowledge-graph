@@ -4,34 +4,34 @@
   "sector": "Consumer Cyclical",
   "industry": "Internet Retail",
   "upstream": [
-    "AAPL",
-    "005930.KS",
-    "Nike, Inc.",
-    "Adidas AG",
-    "SONY"
+    "Book publishers",
+    "Electronics manufacturers",
+    "Third‑party seller suppliers",
+    "Logistics equipment providers",
+    "Cloud hardware vendors"
   ],
   "downstream": [
-    "NFLX",
-    "Airbnb, Inc.",
-    "MSFT",
-    "ADBE",
-    "GOOGL"
+    "Individual retail customers",
+    "Business customers using AWS",
+    "AMZN",
+    "Prime Video subscribers",
+    "AMZN"
   ],
   "competitors": [
-    "Walmart Inc.",
-    "eBay Inc.",
-    "Alibaba Group Holding Ltd.",
-    "Shopify Inc.",
-    "Target Corporation"
+    "Walmart",
+    "eBay",
+    "Alibaba",
+    "Shopify",
+    "MSFT"
   ],
   "key_products": [
     "Amazon.com marketplace",
+    "Amazon Prime",
     "Amazon Web Services (AWS)",
-    "Amazon Prime Video",
     "Amazon Echo (Alexa)",
-    "Amazon Kindle"
+    "Kindle e‑readers"
   ],
-  "extracted_at": "2026-07-23 17:09:52",
+  "extracted_at": "2026-07-24 17:21:44",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
+      "url": "https://ir.aboutamazon.com/",
+      "query": "Amazon.com, Inc. suppliers manufacturers",
+      "snippet": "The Spheres. Select awards and recognition. Amazon . com Conditions of Use © 1996- Amazon . com , Inc . - IR or its affiliates."
+    },
+    {
+      "source": "DuckDuckGo",
       "url": "https://www.alibaba.com/",
       "query": "Amazon.com, Inc. suppliers manufacturers",
       "snippet": "Find quality Manufacturers , Suppliers , Exporters, Importers, Buyers, Wholesalers, Products and Trade Leads from our award-winning International Trad"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ir.aboutamazon.com/",
-      "query": "Amazon.com, Inc. suppliers manufacturers",
-      "snippet": "Amazon . com , Inc . (NASDAQ: AMZN) today announced financial results for its first quarter ended March 31, 2026."
+      "url": "https://en.wikipedia.org/wiki/Amazon_(company)",
+      "query": "Amazon.com, Inc. major customers clients",
+      "snippet": "Toggle Products and services subsection. 2. 1Amazon .com. 2.1.1Merchant partnerships. 2.1.2Private-label products. 2.1.3Third-party sellers."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ir.aboutamazon.com/",
+      "url": "https://aws.amazon.com/about-aws/our-customers-and-partners/",
       "query": "Amazon.com, Inc. major customers clients",
-      "snippet": "Amazon . com , Inc . (NASDAQ: AMZN) today announced financial results for its first quarter ended March 31, 2026."
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.linkedin.com/company/amazon/",
-      "query": "Amazon.com, Inc. major customers clients",
-      "snippet": "Amazon | 36,940,598 followers on LinkedIn. Amazon is guided by four principles: customer obsession rather than competitor focus, passion for invention"
+      "snippet": "Every day, our customers and partners around use AWS to launch new businesses, reinvent themselves and their industries, serve their communities more "
     }
   ]
 }

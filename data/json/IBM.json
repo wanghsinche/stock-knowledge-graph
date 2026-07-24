@@ -4,34 +4,34 @@
   "sector": "Technology",
   "industry": "Information Technology Services",
   "upstream": [
-    "INTC",
     "AMD",
     "NVDA",
-    "CSCO",
+    "MSFT",
+    "Software platform vendors (e.g., Red Hat, SAP)",
     "DELL"
   ],
   "downstream": [
-    "U.S. Federal Government",
-    "Bank of America",
-    "General Electric",
-    "UnitedHealth Group",
-    "AT&T"
+    "Large multinational corporations (e.g., Walmart, Coca‑Cola)",
+    "Government agencies (e.g., U.S. Department of Defense, U.K. Ministry of Defence)",
+    "Financial institutions (e.g., JPMorgan Chase, HSBC)",
+    "Healthcare providers (e.g., Mayo Clinic, UnitedHealth Group)",
+    "CAT"
   ],
   "competitors": [
     "MSFT",
-    "AMZN",
-    "GOOGL",
+    "Accenture",
     "ORCL",
-    "Accenture"
+    "AMZN",
+    "SAP"
   ],
   "key_products": [
     "IBM Cloud",
-    "IBM Watson",
+    "IBM Watson AI",
     "IBM Power Systems",
-    "IBM z Systems",
-    "IBM Security"
+    "IBM Security",
+    "IBM Quantum"
   ],
-  "extracted_at": "2026-07-23 17:12:45",
+  "extracted_at": "2026-07-24 17:26:20",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,21 +47,21 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://pluang.com/en/compare/axti-vs-ibm",
+      "url": "https://finviz.com/stock?t=IBM",
       "query": "International Business Machines Corporation suppliers manufacturers",
-      "snippet": "International Business Machines Corporation (IBM) provides computer solutions.Compare AXT Inc vs International Business Machines Corp stock side by si"
+      "snippet": "International Business Machines Corp . Last Close. 289.52. International Business Machines Corp . is an information technology company, which engages "
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://finviz.com/stock?t=IBM",
+      "query": "International Business Machines Corporation major customers clients",
+      "snippet": "International Business Machines Corp . Last Close. 289.52. International Business Machines Corp . is an information technology company, which engages "
     },
     {
       "source": "DuckDuckGo",
       "url": "https://finance.yahoo.com/quote/IBM/",
       "query": "International Business Machines Corporation major customers clients",
       "snippet": "Find the latest International Business Machines Corporation (IBM) stock quote, history, news and other vital information to help you with your stock t"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://fernfortuniversity.com/essay/bmc_usa/international-business-machines-corporation-40",
-      "query": "International Business Machines Corporation major customers clients",
-      "snippet": "Business Model Canvas - Corporate Level. The International Business Machines Corporation (IBM) operates a multifaceted business model that has evolved"
     }
   ]
 }

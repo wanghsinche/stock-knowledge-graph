@@ -11,27 +11,27 @@
     "SMIC"
   ],
   "downstream": [
+    "AAPL",
+    "GOOGL",
+    "AMZN",
     "CSCO",
-    "Huawei",
-    "Nokia",
-    "JNPR",
-    "ANET"
+    "DELL"
   ],
   "competitors": [
     "AVGO",
     "QCOM",
+    "MediaTek Inc.",
     "INTC",
-    "MediaTek",
     "NVDA"
   ],
   "key_products": [
-    "Ethernet controllers",
-    "Wi-Fi and Bluetooth chips",
-    "5G modems",
-    "Storage controllers",
-    "Network processors"
+    "Marvell 88E Ethernet controllers",
+    "Marvell 88E Wi-Fi and Bluetooth modules",
+    "Marvell 88E NVMe SSD controllers",
+    "Marvell 88E 5G modem SoCs",
+    "Marvell 88E storage and networking SoCs"
   ],
-  "extracted_at": "2026-07-23 17:13:11",
+  "extracted_at": "2026-07-24 17:23:23",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,21 +47,21 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.marvell.com/",
+      "url": "https://www.marvell.com/company/sales.html",
       "query": "Marvell Technology, Inc. suppliers manufacturers",
-      "snippet": "Watch the latest. Marvell Essential Technology Videos. Marvell designs custom silicon tailored for any application and offers the industry’s most comp"
+      "snippet": "Search below for a list of the nearest Marvell representatives, distributors and direct sales offices in your vicinity or submit our Request for Infor"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/Marvell_Technology",
+      "query": "Marvell Technology, Inc. major customers clients",
+      "snippet": "Marvell Technology , Inc . is an American company, headquartered in Santa Clara, California, which develops and produces semiconductors and related te"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.marvell.com/",
       "query": "Marvell Technology, Inc. major customers clients",
       "snippet": "Designed for your current needs and future ambitions, Marvell delivers the data infrastructure technology transforming tomorrow’s enterprise, cloud, a"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/MRVL/",
-      "query": "Marvell Technology, Inc. major customers clients",
-      "snippet": "Find the latest Marvell Technology , Inc . (MRVL) stock quote, history, news and other vital information to help you with your stock trading and inves"
     }
   ]
 }

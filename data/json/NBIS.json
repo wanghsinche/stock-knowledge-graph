@@ -5,33 +5,33 @@
   "industry": "Internet Content & Information",
   "upstream": [
     "NVDA",
-    "INTC",
     "AMD",
-    "QCOM",
-    "MSFT"
+    "INTC",
+    "GOOGL",
+    "AMZN"
   ],
   "downstream": [
-    "GOOGL",
-    "AMZN",
-    "MSFT",
-    "META",
-    "Alibaba Cloud"
+    "Large enterprises using AI infrastructure",
+    "CAT",
+    "Financial institutions",
+    "E-commerce platforms",
+    "Government agencies"
   ],
   "competitors": [
-    "OpenAI",
-    "Anthropic",
-    "Cohere",
-    "DeepMind",
-    "Hugging Face"
+    "NVDA",
+    "AMD",
+    "INTC",
+    "GOOGL",
+    "AMZN"
   ],
   "key_products": [
-    "Nebius AI Infrastructure Platform",
-    "Avride AI Service",
-    "TripleTen AI Solutions",
-    "Toloka Crowdsourcing Platform",
-    "Clickhouse Analytics Engine"
+    "AI infrastructure platform",
+    "Avride",
+    "TripleTen",
+    "Toloka",
+    "Clickhouse"
   ],
-  "extracted_at": "2026-07-23 17:11:38",
+  "extracted_at": "2026-07-24 17:22:53",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,21 +47,21 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ru.investing.com/equities/yandex-nv",
-      "query": "NBIS suppliers manufacturers",
-      "snippet": "Акции Nebius Group NV ( NBIS ): курс сегодня, актуальная цена онлайн, графики, мнения, технический анализ, отчеты и другое о Nebius NV."
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/NBIS/",
-      "query": "NBIS major customers clients",
-      "snippet": "Find the latest Nebius Group N.V. ( NBIS ) stock quote, history, news and other vital information to help you with your stock trading and investing."
-    },
-    {
-      "source": "DuckDuckGo",
       "url": "https://stockanalysis.com/stocks/nbis/",
-      "query": "NBIS major customers clients",
+      "query": "NBIS suppliers manufacturers",
       "snippet": "A detailed overview of Nebius Group N.V. ( NBIS ) stock, including real-time price, chart, key statistics, news, and more."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/Nebius_Group",
+      "query": "NBIS major customers clients",
+      "snippet": "In December 2024, Nebius raised $700 million through private investors, including Nvidia (which acquired 0.5% of Nebius ) and Accel Partners. [5]"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/NBIS-Customers",
+      "query": "NBIS major customers clients",
+      "snippet": "2 days ago · For your research, we’ve provided 9 tables on Nebius Group n v corporate clients . You can find them in the navigation menu under Custome"
     }
   ]
 }

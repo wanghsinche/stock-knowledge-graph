@@ -1,37 +1,37 @@
 {
   "ticker": "NFLX",
   "company_name": "Netflix, Inc.",
-  "sector": "Communication Services / Entertainment",
-  "industry": "Streaming Media",
+  "sector": "Communication Services",
+  "industry": "Entertainment",
   "upstream": [
+    "Warner Bros. Television",
+    "Disney Television Studios",
     "SONY",
-    "Warner Bros. Discovery",
-    "Disney Studios",
-    "Universal Studios",
-    "Paramount Pictures"
+    "Universal Television",
+    "Paramount Television"
   ],
   "downstream": [
-    "U.S. households",
-    "U.K. households",
-    "Canada",
-    "Australia",
-    "India"
+    "US households",
+    "European households",
+    "Asian households",
+    "Corporate accounts",
+    "CAT"
   ],
   "competitors": [
     "Disney+",
+    "HBO Max",
     "AMZN",
     "Hulu",
-    "HBO Max",
     "AAPL"
   ],
   "key_products": [
     "Netflix streaming service",
     "Netflix Originals",
-    "Licensed movies and TV shows",
+    "Licensed content library",
     "Mobile app",
     "Smart TV app"
   ],
-  "extracted_at": "2026-07-23 17:14:24",
+  "extracted_at": "2026-07-24 17:26:47",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://netflixtechblog.com/complexity-in-the-digital-supply-chain-958384cbd70b",
+      "url": "https://csimarket.com/stocks/NFLX-Suppliers",
       "query": "Netflix, Inc. suppliers manufacturers",
-      "snippet": "Dec 17, 2012 · Netflix needs to innovate on the supply chain so that we can effectively increase licensing spending to create an outstanding member ex"
+      "snippet": "5 days ago · Netflix Inc supply chain, list and performance of Netflix Incs ' suppliers - CSIMarket"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.prnewswire.com/news-releases/warner-bros-and-netflix-announce-expanded-agreement-covering-streaming-content-98487264.html",
+      "url": "https://npfp.netflixstudios.com/region/global/",
       "query": "Netflix, Inc. suppliers manufacturers",
-      "snippet": "Jul 15, 2010 · Home Entertainment Group and Netflix, Inc. (Nasdaq: NFLX) today announced an expansion of the companies' existing streaming content agr"
+      "snippet": "Visual Data (UK) became a Netflix Preferred Vendor in 2013 and its technical, professional and service standards are among the highest in the industry"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.marketresearch.com/GlobalData-v3648/Netflix-NFLX-Financial-Strategic-SWOT-36870770/",
+      "url": "https://csimarket.com/stocks/NFLX-Customers",
       "query": "Netflix, Inc. major customers clients",
-      "snippet": "Netflix Inc ( Netflix ) is a provider of entertainment services. The company offers TV shows and movies such as original series, documentaries, anime,"
+      "snippet": "Updated on: Focus of this report: Netflix Inc ’ s corporate clients . For your research, we’ve provided 9 tables on Netflix Inc corporate clients . Yo"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://about.netflix.com/en",
+      "url": "https://ir.netflix.net/ir-overview/profile/default.aspx",
       "query": "Netflix, Inc. major customers clients",
-      "snippet": "We are here to entertain the world, one fan at a time. Thrilling everyone again and again. Whatever you’re into, whatever your mood, Netflix delivers "
+      "snippet": "Jul 16, 2026 · Netflix is one of the world’s leading entertainment services offering TV series, films, games and live programming across a wide variet"
     }
   ]
 }

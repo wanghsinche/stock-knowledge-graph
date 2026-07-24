@@ -1,37 +1,37 @@
 {
   "ticker": "GS",
   "company_name": "The Goldman Sachs Group, Inc.",
-  "sector": "Financial Services",
-  "industry": "Capital Markets",
+  "sector": "Financial Services / Capital Markets",
+  "industry": "Investment Banking",
   "upstream": [
-    "MSFT",
-    "Data providers (Bloomberg, FactSet)",
-    "Legal service firms (DLA Piper, Skadden)",
-    "Consulting firms (McKinsey, BCG)",
-    "Cloud infrastructure providers (AWS, Azure)"
+    "Bloomberg",
+    "Thomson Reuters",
+    "FactSet",
+    "INTC",
+    "AMZN"
   ],
   "downstream": [
-    "AAPL",
-    "Government entities (U.S. Treasury, European Central Bank)",
-    "Institutional investors (Pension funds, Mutual funds)",
-    "Hedge funds",
+    "Corporate clients",
+    "Government entities",
+    "Institutional investors",
+    "Pension funds",
     "Private equity firms"
   ],
   "competitors": [
-    "JPMorgan Chase",
+    "JPMorgan Chase & Co.",
     "Morgan Stanley",
-    "Bank of America",
+    "Bank of America Merrill Lynch",
     "Citigroup",
-    "Wells Fargo"
+    "UBS"
   ],
   "key_products": [
-    "Investment banking services",
+    "Investment banking advisory",
     "Securities underwriting",
     "Asset management",
     "Wealth management",
-    "Trading and brokerage services"
+    "Trading & execution services"
   ],
-  "extracted_at": "2026-07-23 17:19:01",
+  "extracted_at": "2026-07-24 17:31:44",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Goldman_Sachs",
-      "query": "The Goldman Sachs Group, Inc. suppliers manufacturers",
-      "snippet": "The Goldman Sachs Group , Inc . is an American multinational investment bank and financial services company. The Goldman Sachs Group , Inc . Headquart"
-    },
-    {
-      "source": "DuckDuckGo",
       "url": "https://www.goldmansachs.com/",
       "query": "The Goldman Sachs Group, Inc. suppliers manufacturers",
       "snippet": "The Goldman Sachs Group , Inc . is a leading global investment banking, securities, and asset and wealth management firm that provides a wide range of"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Goldman_Sachs",
-      "query": "The Goldman Sachs Group, Inc. major customers clients",
-      "snippet": "The Goldman Sachs Group , Inc . is an American multinational investment bank and financial services company. The Goldman Sachs Group , Inc . Headquart"
+      "url": "https://x.com/goldmansachs",
+      "query": "The Goldman Sachs Group, Inc. suppliers manufacturers",
+      "snippet": "Tweets by The Goldman Sachs Group , Inc ."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.goldmansachs.com/",
+      "url": "https://en.wikipedia.org/wiki/Goldman_Sachs",
       "query": "The Goldman Sachs Group, Inc. major customers clients",
-      "snippet": "The Goldman Sachs Group , Inc . is a leading global investment banking, securities, and asset and wealth management firm that provides a wide range of"
+      "snippet": "Goldman Sachs offers services in investment banking (advisory for mergers and acquisitions and restructuring), securities underwriting, prime brokerag"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/GS-Customers",
+      "query": "The Goldman Sachs Group, Inc. major customers clients",
+      "snippet": "For your research, we’ve provided 9 tables on The Goldman Sachs Group Inc corporate clients . You can find them in the navigation menu under Customers"
     }
   ]
 }

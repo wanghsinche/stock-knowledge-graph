@@ -4,25 +4,25 @@
   "sector": "Technology",
   "industry": "Software - Infrastructure",
   "upstream": [
-    "INTC",
-    "AMD",
-    "NVDA",
     "DELL",
-    "HPQ"
+    "Data center infrastructure providers (e.g., Equinix)",
+    "MSFT",
+    "ORCL",
+    "CSCO"
   ],
   "downstream": [
-    "JPMorgan Chase",
-    "Bank of America",
-    "Walmart",
-    "AT&T",
-    "Verizon"
+    "Large enterprises (e.g., banks, insurance, manufacturing)",
+    "Government agencies (e.g., U.S. federal, state, local)",
+    "Healthcare organizations",
+    "Retail and e‑commerce companies",
+    "CAT"
   ],
   "competitors": [
     "MSFT",
-    "AMZN",
-    "IBM",
     "SAP",
-    "CRM"
+    "IBM",
+    "AMZN",
+    "GOOGL"
   ],
   "key_products": [
     "Oracle Database",
@@ -31,7 +31,7 @@
     "Oracle ERP Cloud",
     "Oracle Analytics Cloud"
   ],
-  "extracted_at": "2026-07-23 17:12:57",
+  "extracted_at": "2026-07-24 17:22:39",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://adjkjc.github.io/en.wikipedia.org/wiki/Oracle_Corporation.html",
+      "url": "https://www.oracle.com/corporate/suppliers/",
       "query": "Oracle Corporation suppliers manufacturers",
-      "snippet": "Oracle Corporation is an American multinational computer technology corporation headquartered in Redwood Shores, California. The company sells databas"
+      "snippet": "Doing Business with Oracle Oracle iSupplier Portal (iSP) is a secured self-service tool, which provides Oracle 's suppliers with the ability to use a "
     },
     {
       "source": "DuckDuckGo",
       "url": "https://csimarket.com/stocks/ORCL-Suppliers",
       "query": "Oracle Corporation suppliers manufacturers",
-      "snippet": "Oracle supply chain, list and performance of Oracles ' suppliers - CSIMarket."
+      "snippet": "Jul 7, 2026 · Oracle 's Comment on Supply Chain To produce our hardware products, we rely on both our internal manufacturing operations as well as thi"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.oracle.com/",
       "query": "Oracle Corporation major customers clients",
-      "snippet": "Oracle offers a comprehensive and fully integrated stack of cloud applications and cloud platform services.."
+      "snippet": "Oracle offers the highest-performing cloud services at the lowest cost. That's why so many of the world's biggest technology companies use OCI. OCI Te"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.youtube.com/channel/UCHCThmyZ-2yWkv0UVeBDdnQ",
+      "url": "https://www.linkedin.com/company/oracle",
       "query": "Oracle Corporation major customers clients",
-      "snippet": "We built the world’s first database that uses AI to autonomously manage and secure customer data while helping craft extraordinary insights.Hear from "
+      "snippet": "Oracle is a global leader in AI, delivering the cloud infrastructure, data, and applications that organizations across the world trust to successfully"
     }
   ]
 }

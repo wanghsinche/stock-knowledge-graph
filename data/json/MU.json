@@ -3,25 +3,35 @@
   "company_name": "Micron Technology, Inc.",
   "sector": "Technology",
   "industry": "Semiconductors",
-  "upstream": [],
+  "upstream": [
+    "ASML",
+    "AMAT",
+    "LRCX",
+    "Tokyo Electron",
+    "KLA"
+  ],
   "downstream": [
     "AAPL",
     "DELL",
-    "Lenovo",
-    "INTC",
-    "AMD"
+    "HPQ",
+    "MSFT",
+    "NVDA"
   ],
   "competitors": [
     "005930.KS",
-    "SK Hynix"
+    "SK Hynix",
+    "WDC",
+    "STX",
+    "Nanya Technology"
   ],
   "key_products": [
     "DRAM",
-    "Flash memory",
+    "NAND Flash",
     "High Bandwidth Memory (HBM)",
-    "Solid-state drives (SSDs)"
+    "Solid-State Drives (SSDs)",
+    "Memory Modules"
   ],
-  "extracted_at": "2026-07-23 17:08:50",
+  "extracted_at": "2026-07-24 17:20:04",
   "sources": [
     {
       "source": "Wikipedia",
@@ -37,21 +47,21 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.linkedin.com/posts/andrewyhchan_micron-technology-ecosystem-key-suppliers-activity-7484909988843397121-xwF_",
+      "url": "https://finance.yahoo.com/quote/MU/",
       "query": "Micron Technology, Inc. suppliers manufacturers",
-      "snippet": "I share semiconductor, AI and technology insights every day. Follow me Andrew Chan Yik Hong. For strategic perspectives on geopolitics, global supply "
+      "snippet": "Micron Technology , Inc . designs, develops, manufactures , and sells memory and storage products in the United States, Taiwan, Japan, Mainland China,"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Micron_Technology",
       "query": "Micron Technology, Inc. major customers clients",
-      "snippet": "\"Big Three\" computer memory manufacturers, along with the South Korean companies Samsung Electronics and SK Hynix. supplier to Apple Inc."
+      "snippet": "Micron Technology , Inc . is an American multinational semiconductor company that manufactures computer memory and computer data storage products, inc"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.babson.edu/media/babson/assets/cutler-center/micron-technology.pdf",
+      "url": "https://www.micron.com/markets-industries/customer-and-partner-storage-success",
       "query": "Micron Technology, Inc. major customers clients",
-      "snippet": "Some of their largest customers include Apple, Dell, Lenovo, Intel, AMD, Nvidia, Qualcomm, Microsoft, IBM, and Cisco."
+      "snippet": "Explore how Micron Technology collaborates with customers and partners to create storage solutions that enable the world's most advanced workloads."
     }
   ]
 }

@@ -4,34 +4,34 @@
   "sector": "Technology",
   "industry": "Computer Hardware",
   "upstream": [
-    "TSM",
-    "005930.KS",
+    "NXP Semiconductors",
     "MU",
+    "005930.KS",
     "SK Hynix",
-    "GlobalFoundries"
+    "INTC"
   ],
   "downstream": [
     "AAPL",
     "DELL",
     "HPQ",
-    "Lenovo Group",
-    "MSFT"
+    "MSFT",
+    "005930.KS"
   ],
   "competitors": [
-    "Kingston Technology",
-    "005930.KS",
     "MU",
-    "Lexar Corporation",
-    "MU"
+    "005930.KS",
+    "Kingston Technology",
+    "WDC",
+    "Toshiba"
   ],
   "key_products": [
-    "NAND flash memory chips",
-    "Solid State Drives (SSDs)",
     "USB flash drives",
     "SD/SDXC memory cards",
-    "External hard drives"
+    "Solid State Drives (SSDs)",
+    "Enterprise flash storage",
+    "Embedded flash solutions"
   ],
-  "extracted_at": "2026-07-23 17:09:10",
+  "extracted_at": "2026-07-24 17:20:41",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.sandisk.com/en-us/company/distributors",
+      "url": "https://www.sandisk.com/company/distributors",
       "query": "Sandisk Corporation suppliers manufacturers",
-      "snippet": "Find authorized SanDisk distributors and channel partners worldwide for trusted storage solutions and products."
+      "snippet": "Region · Loading Region · Country/Area · Loading Country/Area · Brand · Loading Brand · Distributors | SanDisk"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/SNDK-Suppliers",
+      "url": "https://www.trustedparts.com/en/manufacturers/sandisk",
       "query": "Sandisk Corporation suppliers manufacturers",
-      "snippet": "Sources: Sandisk Corporation's official press releases and regulatory filings; CSIMarket.com's supply-chain research; and the financial filings and pr"
+      "snippet": "SanDisk distributor stock, prices & datasheets from authorized distributors. Search authorized SanDisk inventory."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/SanDisk",
+      "url": "https://data.landbase.com/technology/sandisk/",
       "query": "Sandisk Corporation major customers clients",
-      "snippet": "Sandisk Corporation is an American multinational computer technology company based in Milpitas, California, that designs and manufactures flash memory"
+      "snippet": "Aug 17, 2025 · Our SanDisk customers list is available for download and comes enriched with vital company specifics, including industry classification"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.sandisk.com/",
+      "url": "https://www.appsruntheworld.com/customers-database/vendors/view/sandisk",
       "query": "Sandisk Corporation major customers clients",
-      "snippet": "Sandisk online store members receive free standard shipping on all eligible orders."
+      "snippet": "List of companies using or evaluating SanDisk applications, with details on their revenues, employees, industries, and locations."
     }
   ]
 }

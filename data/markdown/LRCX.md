@@ -3,8 +3,8 @@ ticker: LRCX
 company: Lam Research Corporation
 sector: Technology
 industry: Semiconductor Equipment & Materials
-extracted_at: 2026-07-22 17:22:30
-last_updated: 2026-07-22
+extracted_at: 2026-07-24 17:27:50
+last_updated: 2026-07-24
 ---
 
 # LRCX - Lam Research Corporation
@@ -12,16 +12,16 @@ last_updated: 2026-07-22
 ## 基本信息
 
 - **所属行业**: Technology / Semiconductor Equipment & Materials
-- **提取时间**: 2026-07-22 17:22:30
+- **提取时间**: 2026-07-24 17:27:50
 
 ## 产业链关系
 
 ### 上游供应商
-- [[MKS Inc]]
+- [[Siltronic AG]]
+- [[Sumitomo Silicon]]
 - [[AMAT]]
-- [[KLA‑Tencor]]
 - [[Tokyo Electron]]
-- [[ASML]]
+- [[KLA Corporation]]
 
 ### 下游客户
 - [[INTC]]
@@ -32,25 +32,26 @@ last_updated: 2026-07-22
 
 ### 竞争对手
 - [[AMAT]]
-- [[KLA‑Tencor]]
 - [[Tokyo Electron]]
+- [[KLA Corporation]]
 - [[ASML]]
+- [[ASM International]]
 
 ### 核心产品
-- [[Plasma etch systems]]
+- [[Etch systems]]
 - [[Deposition systems]]
-- [[Wafer cleaning systems]]
-- [[Wafer‑level packaging equipment]]
-- [[MEMS packaging equipment]]
+- [[Wafer cleaning equipment]]
+- [[Back-end wafer-level packaging (WLP) equipment]]
+- [[MEMS fabrication equipment]]
 
 ## 数据来源
 
 - [Lam Research](https://en.wikipedia.org/wiki/Lam_Research_Corporation)
-- [Lam Research Corporation suppliers manufacturers](https://en.wikipedia.org/wiki/Lam_Research)
-- [Lam Research Corporation suppliers manufacturers](https://www.makesureiknowit.com/company/lam-research)
-- [Lam Research Corporation major customers clients](https://en.wikipedia.org/wiki/Lam_Research)
+- [Lam Research Corporation suppliers manufacturers](https://www.insidermonkey.com/blog/heres-why-lam-research-corporation-lrcx-is-rallying-1803314/)
+- [Lam Research Corporation suppliers manufacturers](https://aijourn.com/lam-research-deepens-investment-in-boise-to-support-projected-growth-in-u-s-semiconductor-manufacturing/)
 - [Lam Research Corporation major customers clients](https://csimarket.com/stocks/LRCX-Customers)
+- [Lam Research Corporation major customers clients](https://www.makesureiknowit.com/blog/who-are-lam-research-customers)
 
 ## 元数据
 
-- **更新日期**: 2026-07-22
+- **更新日期**: 2026-07-24

@@ -3,8 +3,8 @@ ticker: AXP
 company: American Express Company
 sector: Financial Services
 industry: Credit Services
-extracted_at: 2026-03-02 16:44:57
-last_updated: 2026-03-02
+extracted_at: 2026-07-24 17:25:57
+last_updated: 2026-07-24
 ---
 
 # AXP - American Express Company
@@ -12,22 +12,22 @@ last_updated: 2026-03-02
 ## 基本信息
 
 - **所属行业**: Financial Services / Credit Services
-- **提取时间**: 2026-03-02 16:44:57
+- **提取时间**: 2026-07-24 17:25:57
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Card manufacturing suppliers]]
+- [[Visa]]
+- [[Mastercard]]
+- [[JCB]]
+- [[Discover]]
 - [[Payment processing technology vendors]]
-- [[Data security and encryption providers]]
-- [[Credit rating agencies]]
-- [[Insurance partners]]
 
 ### 下游客户
-- [[Individual consumers]]
-- [[Small and medium‑size businesses]]
-- [[Large corporate clients]]
-- [[Travel agencies and airlines]]
+- [[Retail merchants]]
+- [[Travel agencies]]
+- [[Airlines]]
+- [[Hotels]]
 - [[Online merchants]]
 
 ### 竞争对手
@@ -35,23 +35,23 @@ last_updated: 2026-03-02
 - [[Mastercard Inc.]]
 - [[Discover Financial Services]]
 - [[Capital One]]
-- [[PayPal]]
+- [[Citigroup]]
 
 ### 核心产品
-- [[American Express charge cards]]
-- [[American Express credit cards]]
-- [[Travel and concierge services]]
-- [[Merchant services and payment solutions]]
-- [[Rewards and loyalty programs]]
+- [[Charge cards]]
+- [[Credit cards]]
+- [[Gift cards]]
+- [[Rewards programs]]
+- [[Travel services]]
 
 ## 数据来源
 
 - [American Express](https://en.wikipedia.org/wiki/American_Express_Company)
-- [American Express Company suppliers manufacturers](https://www.americanexpress.com/en-us/company/supplier-management/)
-- [American Express Company suppliers manufacturers](https://www.americanexpress.com/content/dam/amex/uk/business/Trends-insights/PDF/American+Express+Coverage+Manufacturing.pdf)
-- [American Express Company major customers clients](https://en.wikipedia.org/wiki/American_Express)
-- [American Express Company major customers clients](https://ru.wikipedia.org/wiki/American_Express)
+- [American Express Company suppliers manufacturers](https://www.americanexpress.com/)
+- [American Express Company suppliers manufacturers](https://www.comparably.com/companies/americanexpress)
+- [American Express Company major customers clients](https://www.americanexpress.com/)
+- [American Express Company major customers clients](https://www.investopedia.com/company-profiles-4689825)
 
 ## 元数据
 
-- **更新日期**: 2026-03-02
+- **更新日期**: 2026-07-24

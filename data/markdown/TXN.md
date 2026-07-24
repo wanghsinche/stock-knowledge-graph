@@ -3,8 +3,8 @@ ticker: TXN
 company: Texas Instruments Incorporated
 sector: Technology
 industry: Semiconductors
-extracted_at: 2026-07-23 17:14:02
-last_updated: 2026-07-23
+extracted_at: 2026-07-24 17:28:26
+last_updated: 2026-07-24
 ---
 
 # TXN - Texas Instruments Incorporated
@@ -12,46 +12,46 @@ last_updated: 2026-07-23
 ## 基本信息
 
 - **所属行业**: Technology / Semiconductors
-- **提取时间**: 2026-07-23 17:14:02
+- **提取时间**: 2026-07-24 17:28:26
 
 ## 产业链关系
 
 ### 上游供应商
 - [[TSM]]
-- [[Raw material suppliers (e.g., silicon wafer manufacturers)]]
-- [[AMAT]]
-- [[Packaging and testing service providers]]
-- [[Electronic component distributors]]
+- [[GlobalFoundries]]
+- [[005930.KS]]
+- [[INTC]]
+- [[MU]]
 
 ### 下游客户
-- [[Automotive electronics manufacturers]]
-- [[Industrial automation and control companies]]
-- [[Consumer electronics firms (e.g., smartphone, tablet OEMs)]]
-- [[Medical device manufacturers]]
-- [[CAT]]
+- [[General Motors]]
+- [[Ford Motor Company]]
+- [[Bosch]]
+- [[005930.KS]]
+- [[AAPL]]
 
 ### 竞争对手
 - [[ADI]]
-- [[ADI]]
-- [[ON Semiconductor]]
-- [[Infineon Technologies]]
 - [[NXP Semiconductors]]
+- [[Infineon Technologies]]
+- [[STMicroelectronics]]
+- [[AVGO]]
 
 ### 核心产品
-- [[Analog integrated circuits]]
-- [[Embedded processors (e.g., Sitara, C2000)]]
+- [[Analog chips]]
+- [[Embedded processors]]
 - [[Digital Light Processing (DLP) technology]]
-- [[Graphing calculators]]
-- [[Microcontrollers and multi-core processors]]
+- [[Calculators]]
+- [[Microcontrollers]]
 
 ## 数据来源
 
 - [Texas Instruments](https://en.wikipedia.org/wiki/Texas_Instruments_Incorporated)
 - [Texas Instruments Incorporated suppliers manufacturers](https://www.oemstock.com/manufacturer/texas-instruments)
 - [Texas Instruments Incorporated suppliers manufacturers](https://finance.yahoo.com/quote/TXN/)
-- [Texas Instruments Incorporated major customers clients](https://en.wikipedia.org/wiki/Texas_Instruments)
-- [Texas Instruments Incorporated major customers clients](https://www.ti.com/about-ti.html?srsltid=AfmBOor0Kr3q5Ur6NNeIQbyvrGPivCJkFq5SMqJ_LNiz6uPCNKGcNeFE)
+- [Texas Instruments Incorporated major customers clients](https://finance.yahoo.com/quote/TXN/)
+- [Texas Instruments Incorporated major customers clients](https://www.youtube.com/user/texasinstruments)
 
 ## 元数据
 
-- **更新日期**: 2026-07-23
+- **更新日期**: 2026-07-24

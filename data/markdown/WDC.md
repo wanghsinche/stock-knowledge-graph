@@ -1,57 +1,57 @@
 ---
 ticker: WDC
 company: Western Digital Corporation
-sector: Technology
-industry: Computer Hardware
-extracted_at: 2026-07-23 17:11:56
-last_updated: 2026-07-23
+sector: Technology / Computer Hardware
+industry: Hard Disk Drive Manufacturing
+extracted_at: 2026-07-24 17:25:34
+last_updated: 2026-07-24
 ---
 
 # WDC - Western Digital Corporation
 
 ## 基本信息
 
-- **所属行业**: Technology / Computer Hardware
-- **提取时间**: 2026-07-23 17:11:56
+- **所属行业**: Technology / Computer Hardware / Hard Disk Drive Manufacturing
+- **提取时间**: 2026-07-24 17:25:34
 
 ## 产业链关系
 
 ### 上游供应商
-- [[005930.KS]]
 - [[MU]]
+- [[005930.KS]]
 - [[SK Hynix]]
-- [[Toshiba Corporation]]
-- [[INTC]]
+- [[Toshiba]]
+- [[IBM]]
 
 ### 下游客户
 - [[DELL]]
 - [[HPQ]]
-- [[Lenovo Group]]
+- [[Lenovo]]
 - [[AAPL]]
-- [[MSFT]]
+- [[AMZN]]
 
 ### 竞争对手
 - [[STX]]
-- [[Toshiba Corporation]]
+- [[Toshiba]]
 - [[005930.KS]]
 - [[MU]]
-- [[IBM]]
+- [[SK Hynix]]
 
 ### 核心产品
-- [[Hard Disk Drives (HDD)]]
-- [[Solid State Drives (SSD)]]
-- [[External Storage Devices]]
-- [[Network Attached Storage (NAS)]]
-- [[Enterprise Storage Solutions]]
+- [[WD Blue]]
+- [[WD Red]]
+- [[WD Black]]
+- [[WD Green]]
+- [[WD Ultrastar]]
 
 ## 数据来源
 
 - [Western Digital](https://en.wikipedia.org/wiki/Western_Digital_Corporation)
-- [Western Digital Corporation suppliers manufacturers](https://www.kynix.com/productdetails/47061814/westerndigitalcorporation/wd5011pl.html)
-- [Western Digital Corporation suppliers manufacturers](https://www-westerndigital-com-h9i4.imagizer.com/ru-ru/support)
+- [Western Digital Corporation suppliers manufacturers](https://en.wikipedia.org/wiki/Western_Digital)
+- [Western Digital Corporation suppliers manufacturers](https://ru.wikipedia.org/wiki/Western_Digital)
+- [Western Digital Corporation major customers clients](https://www.youtube.com/watch?v=FNl_fCXZq6o)
 - [Western Digital Corporation major customers clients](https://community.wd.com/)
-- [Western Digital Corporation major customers clients](https://www.wikidata.org/wiki/Q738770)
 
 ## 元数据
 
-- **更新日期**: 2026-07-23
+- **更新日期**: 2026-07-24
