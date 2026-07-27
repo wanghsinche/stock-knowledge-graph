@@ -4,40 +4,34 @@
   "sector": "Consumer Cyclical",
   "industry": "Auto Manufacturers",
   "upstream": [
-    "Panasonic",
-    "LG Chem",
-    "CAT",
-    "005930.KS",
-    "BYD"
+    "Battery cell suppliers (e.g., Panasonic, LG Chem)",
+    "Motor component suppliers",
+    "Electronic control unit suppliers",
+    "Raw material suppliers (lithium, cobalt)",
+    "Software and AI component suppliers"
   ],
   "downstream": [
     "Individual consumers",
-    "Commercial fleet operators",
-    "Utility companies (Megapack deployments)",
+    "Fleet operators",
     "Government agencies",
-    "Energy storage customers"
+    "Electric vehicle charging infrastructure providers",
+    "Commercial fleet operators"
   ],
   "competitors": [
-    "Ford Motor Company",
     "General Motors",
+    "Ford",
     "Volkswagen",
-    "Hyundai Motor Group",
-    "Nissan Motor Co."
+    "Hyundai",
+    "Toyota"
   ],
   "key_products": [
     "Model S",
     "Model 3",
-    "Model X",
-    "Model Y",
-    "Cybertruck",
-    "Semi",
     "Powerwall",
     "Powerpack",
-    "Megapack",
-    "Solar Roof",
-    "Solar Panels"
+    "Solar panels"
   ],
-  "extracted_at": "2026-07-24 17:20:15",
+  "extracted_at": "2026-07-27 17:30:35",
   "sources": [
     {
       "source": "Wikipedia",
@@ -49,7 +43,7 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Tesla,_Inc.",
       "query": "Tesla, Inc. suppliers manufacturers",
-      "snippet": "1 day ago - The practice of vertical integration ... to suppliers and focus on engine manufacturing and final assembly. Tesla generally allows its com"
+      "snippet": "3 days ago - The practice of vertical integration ... to suppliers and focus on engine manufacturing and final assembly. Tesla generally allows its co"
     },
     {
       "source": "DuckDuckGo",
@@ -59,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/TSLA-Customers",
+      "url": "https://www.tesla.com/",
       "query": "Tesla, Inc. major customers clients",
-      "snippet": "We currently sell our cars primarily to individual customers . We have strategic or commercial relationships with Daimler, Toyota, and Panasonic. We c"
+      "snippet": "Explore limited-time offers on Tesla vehicles. Learn More. Tesla vehicle. Inventory. Find nearby vehicles available for immediate delivery."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://mungomash.com/orgs/tesla/customers/",
+      "url": "https://x.com/Tesla",
       "query": "Tesla, Inc. major customers clients",
-      "snippet": "Named Tesla customers across Energy / Megapack utility-scale deployments, NACS-adoption partner automakers and charging networks, Solar projects, and "
+      "snippet": "post from Tesla 's official account."
     }
   ]
 }

@@ -4,34 +4,34 @@
   "sector": "Communication Services",
   "industry": "Advertising Agencies",
   "upstream": [
-    "MSFT",
-    "Data analytics vendors",
-    "Hardware manufacturers (smartphone OEMs)",
+    "AAPL",
     "GOOGL",
-    "Content delivery networks (CDNs)"
+    "Data providers (Acxiom, Experian)",
+    "MSFT",
+    "App development platforms (Unity, Unreal Engine)"
   ],
   "downstream": [
-    "Mobile app developers",
-    "Game developers",
-    "Advertisers and brands",
-    "Media agencies",
-    "Publishers"
+    "Mobile game developers (Supercell, King)",
+    "App publishers (Zynga, Rovio)",
+    "Social media apps (TikTok, Snapchat)",
+    "AMZN",
+    "NFLX"
   ],
   "competitors": [
+    "GOOGL",
+    "Facebook Audience Network",
     "Unity Ads",
     "Vungle",
-    "AdColony",
-    "IronSource",
     "Chartboost"
   ],
   "key_products": [
-    "Mobile advertising SDK",
-    "User acquisition platform",
-    "Data analytics and attribution",
-    "Monetization solutions",
-    "App store optimization tools"
+    "AppLovin MAX",
+    "AppLovin SDK",
+    "AppLovin Marketing Solutions",
+    "AppLovin Analytics",
+    "AppLovin Audience Network"
   ],
-  "extracted_at": "2026-07-24 17:30:38",
+  "extracted_at": "2026-07-27 17:39:21",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.applovin.com/",
+      "url": "https://en.wikipedia.org/wiki/AppLovin",
       "query": "AppLovin Corporation suppliers manufacturers",
-      "snippet": "Let's get you in front of a billion customers. We built AppLovin for businesses like yours. Jewelry, furniture, fitness subscriptions, word games. Wha"
+      "snippet": "On April 15, 2021, AppLovin became a public company, trading on the Nasdaq under the ticker APP; it began trading at US$70 per share, with a total val"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/technicals_candle.php?code=APP",
+      "url": "https://csimarket.com/stocks/APP-Suppliers",
       "query": "AppLovin Corporation suppliers manufacturers",
-      "snippet": "Applovin Corporation Geographic Information. Suppliers . Applovin Corporation Competitors Results. APP Competitors Stock Performance."
+      "snippet": "May 9, 2026 · For your research, we’ve provided nine additional tables on Applovin Corporation ’ s suppliers . You can find them in the navigation men"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.applovin.com/",
+      "url": "https://en.wikipedia.org/wiki/AppLovin",
       "query": "AppLovin Corporation major customers clients",
-      "snippet": "Let's get you in front of a billion customers . We built AppLovin for businesses like yours. Jewelry, furniture, fitness subscriptions, word games. Wh"
+      "snippet": "Before emerging from stealth mode, AppLovin acquired customers , including Opentable and Spotify. [9][10] The company was ranked #10 on the 2016 Deloi"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://bullfincher.io/companies/applovin-corporation/overview",
+      "url": "https://www.appsruntheworld.com/customers-database/vendors/view/applovin",
       "query": "AppLovin Corporation major customers clients",
-      "snippet": "AppLovin Corporation provides a specialized software platform focused on empowering mobile application developers to enhance the marketing and revenue"
+      "snippet": "List of companies using or evaluating Applovin applications, with details on their revenues, employees, industries, and locations."
     }
   ]
 }

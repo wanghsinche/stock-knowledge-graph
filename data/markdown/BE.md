@@ -3,8 +3,8 @@ ticker: BE
 company: Bloom Energy Corporation
 sector: Industrials
 industry: Electrical Equipment & Parts
-extracted_at: 2026-07-24 17:26:34
-last_updated: 2026-07-24
+extracted_at: 2026-07-27 17:35:25
+last_updated: 2026-07-27
 ---
 
 # BE - Bloom Energy Corporation
@@ -12,46 +12,28 @@ last_updated: 2026-07-24
 ## 基本信息
 
 - **所属行业**: Industrials / Electrical Equipment & Parts
-- **提取时间**: 2026-07-24 17:26:34
+- **提取时间**: 2026-07-27 17:35:25
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Fuel suppliers (natural gas, biogas, hydrogen)]]
-- [[Electrolyte manufacturers]]
-- [[CAT]]
-- [[Membrane producers]]
-- [[Power electronics component suppliers]]
+_暂无数据_
 
 ### 下游客户
-- [[Data center operators]]
-- [[Manufacturing facilities]]
-- [[CAT]]
-- [[Hospital and healthcare providers]]
-- [[Government and municipal facilities]]
+_暂无数据_
 
 ### 竞争对手
-- [[Plug Power]]
-- [[FuelCell Energy]]
-- [[ITM Power]]
-- [[Ballard Power Systems]]
-- [[Hydrogenics]]
+_暂无数据_
 
 ### 核心产品
-- [[Solid Oxide Fuel Cells (SOFCs)]]
-- [[Bloom Energy Server]]
-- [[Bloom Energy Power Plant]]
-- [[Electrolyzers for hydrogen production]]
-- [[Hydrogen generation systems]]
+_暂无数据_
 
 ## 数据来源
 
 - [Bloom Energy](https://en.wikipedia.org/wiki/Bloom_Energy_Corporation)
-- [Bloom Energy Corporation suppliers manufacturers](https://www.linkedin.com/company/bloom-energy)
-- [Bloom Energy Corporation suppliers manufacturers](https://seekingalpha.com/symbol/BE)
-- [Bloom Energy Corporation major customers clients](https://en.wikipedia.org/wiki/Bloom_Energy)
-- [Bloom Energy Corporation major customers clients](https://www.bloomenergy.com/customers/)
+- [Bloom Energy Corporation suppliers manufacturers](https://en.wikipedia.org/wiki/Bloom_Energy)
+- [Bloom Energy Corporation suppliers manufacturers](https://www.bloomenergy.com/supplychain/)
 
 ## 元数据
 
-- **更新日期**: 2026-07-24
+- **更新日期**: 2026-07-27

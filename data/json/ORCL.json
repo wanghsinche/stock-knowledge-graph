@@ -4,34 +4,34 @@
   "sector": "Technology",
   "industry": "Software - Infrastructure",
   "upstream": [
+    "INTC",
+    "AMD",
+    "NVDA",
     "DELL",
-    "Data center infrastructure providers (e.g., Equinix)",
-    "MSFT",
-    "ORCL",
-    "CSCO"
+    "HPQ"
   ],
   "downstream": [
-    "Large enterprises (e.g., banks, insurance, manufacturing)",
-    "Government agencies (e.g., U.S. federal, state, local)",
-    "Healthcare organizations",
-    "Retail and e‑commerce companies",
-    "CAT"
+    "Walmart",
+    "JPMorgan Chase",
+    "Bank of America",
+    "AT&T",
+    "Verizon"
   ],
   "competitors": [
     "MSFT",
-    "SAP",
-    "IBM",
     "AMZN",
-    "GOOGL"
+    "IBM",
+    "SAP",
+    "CRM"
   ],
   "key_products": [
     "Oracle Database",
     "Oracle Cloud Infrastructure",
-    "Oracle Autonomous Database",
     "Oracle ERP Cloud",
+    "Oracle Autonomous Database",
     "Oracle Analytics Cloud"
   ],
-  "extracted_at": "2026-07-24 17:22:39",
+  "extracted_at": "2026-07-27 17:32:25",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,25 +43,25 @@
       "source": "DuckDuckGo",
       "url": "https://www.oracle.com/corporate/suppliers/",
       "query": "Oracle Corporation suppliers manufacturers",
-      "snippet": "Doing Business with Oracle Oracle iSupplier Portal (iSP) is a secured self-service tool, which provides Oracle 's suppliers with the ability to use a "
+      "snippet": "Oracle is always looking for suppliers who can meet our high quality standards and satisfy our ever-evolving business needs. We believe in the importa"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/ORCL-Suppliers",
+      "url": "https://www.marketscreener.com/quote/stock/ORACLE-CORPORATION-13620698/company-group/",
       "query": "Oracle Corporation suppliers manufacturers",
-      "snippet": "Jul 7, 2026 · Oracle 's Comment on Supply Chain To produce our hardware products, we rely on both our internal manufacturing operations as well as thi"
+      "snippet": "13 hours ago · Find the group structure chart of Oracle Corporation , with the list of companies belonging to the same group as Oracle Corporation , a"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.oracle.com/",
+      "url": "https://csimarket.com/stocks/ORCL-Customers",
       "query": "Oracle Corporation major customers clients",
-      "snippet": "Oracle offers the highest-performing cloud services at the lowest cost. That's why so many of the world's biggest technology companies use OCI. OCI Te"
+      "snippet": "17 hours ago · For your research, we’ve provided 9 tables on Oracle Corporation corporate clients . You can find them in the navigation menu under Cus"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.linkedin.com/company/oracle",
+      "url": "https://www.thomsondata.com/customer-base/oracle.php",
       "query": "Oracle Corporation major customers clients",
-      "snippet": "Oracle is a global leader in AI, delivering the cloud infrastructure, data, and applications that organizations across the world trust to successfully"
+      "snippet": "Thomson Data makes it easy by offering an accurate and up-to-date list of companies that use Oracle. This list allows you to identify Oracle customers"
     }
   ]
 }

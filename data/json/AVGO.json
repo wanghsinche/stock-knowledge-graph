@@ -7,31 +7,31 @@
     "TSM",
     "005930.KS",
     "GlobalFoundries",
-    "ASE Technology Holding",
-    "NXP Semiconductors"
-  ],
-  "downstream": [
-    "AAPL",
-    "CSCO",
-    "DELL",
-    "MSFT",
-    "AMZN"
-  ],
-  "competitors": [
     "INTC",
-    "QCOM",
-    "NVDA",
-    "TXN",
     "MU"
   ],
-  "key_products": [
-    "Broadcom BCM series networking chips",
-    "Wi‑Fi and Bluetooth modules",
-    "Ethernet controllers",
-    "Broadband modem chips",
-    "Storage controller ASICs"
+  "downstream": [
+    "CSCO",
+    "DELL",
+    "HPQ",
+    "AMZN",
+    "MSFT"
   ],
-  "extracted_at": "2026-07-24 17:23:39",
+  "competitors": [
+    "QCOM",
+    "INTC",
+    "NVDA",
+    "TXN",
+    "MRVL"
+  ],
+  "key_products": [
+    "RF and analog chips",
+    "Ethernet controllers",
+    "Wi‑Fi chips",
+    "Broadband modems",
+    "Storage controllers"
+  ],
+  "extracted_at": "2026-07-27 17:32:08",
   "sources": [
     {
       "source": "Wikipedia",
@@ -53,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://news.broadcom.com/category/customers",
+      "url": "https://ru.wikipedia.org/wiki/Broadcom_Inc.",
       "query": "Broadcom Inc. major customers clients",
-      "snippet": "May 19, 2026 · This year, Broadcom has recognized the United States Senate Federal Credit Union (USSFCU) with the Innovator award. Innovators are visi"
+      "snippet": "Broadcom Inc . — американская компания по разработке полупроводниковой продукции и программного обеспечения со штаб-квартирой в Пало-Алто. На счету ко"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/AVGO-Customers",
+      "url": "https://www.broadcom.com/",
       "query": "Broadcom Inc. major customers clients",
-      "snippet": "1 day ago · Sales to our five largest customers represented 48.3%. Sales to Samsung represented 21.3%. Sales to Apple represented 13.3%."
+      "snippet": "Broadcom delivers semiconductors and infrastructure software for global enterprises’ most complex, mission-critical needs."
     }
   ]
 }

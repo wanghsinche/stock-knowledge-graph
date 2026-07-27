@@ -1,37 +1,37 @@
 {
   "ticker": "WDC",
   "company_name": "Western Digital Corporation",
-  "sector": "Technology / Computer Hardware",
-  "industry": "Hard Disk Drive Manufacturing",
+  "sector": "Technology",
+  "industry": "Computer Hardware",
   "upstream": [
-    "MU",
     "005930.KS",
     "SK Hynix",
+    "MU",
     "Toshiba",
-    "IBM"
+    "Panasonic"
   ],
   "downstream": [
     "DELL",
     "HPQ",
-    "Lenovo",
+    "Lenovo Group",
     "AAPL",
-    "AMZN"
+    "MSFT"
   ],
   "competitors": [
     "STX",
-    "Toshiba",
+    "Toshiba Corporation",
     "005930.KS",
     "MU",
-    "SK Hynix"
+    "IBM"
   ],
   "key_products": [
-    "WD Blue",
-    "WD Red",
-    "WD Black",
-    "WD Green",
-    "WD Ultrastar"
+    "Hard Disk Drives (HDDs)",
+    "Solid State Drives (SSDs)",
+    "External Storage Devices",
+    "Network Attached Storage (NAS) Solutions",
+    "Enterprise Storage Systems"
   ],
-  "extracted_at": "2026-07-24 17:25:34",
+  "extracted_at": "2026-07-27 17:34:09",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Western_Digital",
+      "url": "https://csimarket.com/stocks/WDC-Suppliers",
       "query": "Western Digital Corporation suppliers manufacturers",
-      "snippet": "Western Digital Corporation , doing business as WD , is an American data storage company headquartered in San Jose, California. Established in 1970, t"
+      "snippet": "Jul 7, 2026 · Western Digital supply chain, list and performance of Western Digitals ' suppliers - CSIMarket"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ru.wikipedia.org/wiki/Western_Digital",
+      "url": "https://www.westerndigital.com/company/distributors",
       "query": "Western Digital Corporation suppliers manufacturers",
-      "snippet": "Western Digital Corporation .SSD Western Digital Green 120 Gb. Western Digital Corporation (NASDAQ: WDC. , по-русски «Вестерн Диджитал»[3]) — компания"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.youtube.com/watch?v=FNl_fCXZq6o",
-      "query": "Western Digital Corporation major customers clients",
-      "snippet": "Check it out here: https://buy-sm.art/dp/B08KTRKB6S. In today's video, we delve into the Western Digital 16TB Elements Desktop External Hard Drive, re"
+      "snippet": "Find Western Digital authorized Distributors & Resellers Let us help you find a solutions to fit your needs. *Product Category Hard Drives (HDDs) Data"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://community.wd.com/",
       "query": "Western Digital Corporation major customers clients",
       "snippet": "Western Digital Business Portal. Unlock benefits and tools for your business such as enterprise support, pricing and rebate tools, marketing, loyalty,"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.wikidata.org/wiki/Q738770",
+      "query": "Western Digital Corporation major customers clients",
+      "snippet": "Western Digital Corporation . WD . WD Corp . Western Digital Technologies, Inc. (San Jose, CA). edit."
     }
   ]
 }

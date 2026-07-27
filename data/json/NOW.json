@@ -7,8 +7,8 @@
     "AMZN",
     "MSFT",
     "GOOGL",
-    "ORCL",
-    "IBM"
+    "DELL",
+    "HPQ"
   ],
   "downstream": [
     "Walmart",
@@ -18,20 +18,20 @@
     "Bank of America"
   ],
   "competitors": [
-    "CRM",
     "MSFT",
-    "SAP",
-    "ORCL",
-    "Workday"
+    "Atlassian Jira Service Management",
+    "BMC Software",
+    "IBM",
+    "ORCL"
   ],
   "key_products": [
-    "ServiceNow Platform",
+    "Now Platform",
     "IT Service Management (ITSM)",
     "IT Operations Management (ITOM)",
     "IT Business Management (ITBM)",
     "Customer Service Management (CSM)"
   ],
-  "extracted_at": "2026-07-24 17:23:52",
+  "extracted_at": "2026-07-27 17:34:52",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.servicenow.com/",
+      "url": "https://www.servicenow.com/company/supplier.html",
       "query": "ServiceNow, Inc. suppliers manufacturers",
-      "snippet": "Supplier Lifecycle Operations. Streamline supplier onboarding, collaboration, and performance management. ServiceNow EmployeeWorks. Stop chasing what "
+      "snippet": "ServiceNow partners with capable and competitive suppliers who commit to diversity, sustainability, and best-in-class goods and services. Learn more h"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://pluang.com/en/compare/ater-vs-now",
+      "url": "https://csimarket.com/stocks/NOW-Suppliers",
       "query": "ServiceNow, Inc. suppliers manufacturers",
-      "snippet": "Compare Aterian Inc and ServiceNow Inc side by side — live prices, performance, key stats, technicals, Aura AI signals and investor sentiment on Pluan"
+      "snippet": "Apr 24, 2026 · Servicenow Inc supply chain, list and performance of Servicenow Incs ' suppliers - CSIMarket"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.servicenow.com/",
       "query": "ServiceNow, Inc. major customers clients",
-      "snippet": "Customer Service Management. Empower self- service , boost agent productivity, and speed up resolution. Strategic Portfolio Management.Learn how Servi"
+      "snippet": "Customer Service Management. Empower self- service , boost agent productivity, and speed up resolution.AI Agent Stories. Learn how ServiceNow customer"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://pluang.com/en/compare/ater-vs-now",
+      "url": "https://learn.microsoft.com/en-us/defender-cloud-apps/protect-servicenow",
       "query": "ServiceNow, Inc. major customers clients",
-      "snippet": "Compare Aterian Inc and ServiceNow Inc side by side — live prices, performance, key stats, technicals, Aura AI signals and investor sentiment on Pluan"
+      "snippet": "As a major CRM cloud provider, ServiceNow incorporates large amounts of sensitive information about customers , internal processes, incidents, and rep"
     }
   ]
 }

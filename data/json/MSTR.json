@@ -4,32 +4,34 @@
   "sector": "Technology",
   "industry": "Software - Application",
   "upstream": [
-    "INTC",
-    "NVDA",
     "MSFT",
     "AMZN",
-    "ORCL"
+    "GOOGL",
+    "ORCL",
+    "IBM"
   ],
   "downstream": [
-    "Walmart",
-    "JPMorgan Chase",
     "Bank of America",
+    "Walmart",
     "Coca‑Cola",
-    "U.S. Department of Defense"
+    "General Electric",
+    "Procter & Gamble"
   ],
   "competitors": [
-    "SAP SE Business Objects",
+    "SAP SE",
     "IBM",
-    "ORCL"
+    "ORCL",
+    "MSFT",
+    "Tableau"
   ],
   "key_products": [
     "MicroStrategy Analytics Platform",
     "MicroStrategy Mobile",
     "MicroStrategy Cloud",
-    "MicroStrategy Desktop",
-    "MicroStrategy Data Warehouse"
+    "MicroStrategy Data Visualization",
+    "MicroStrategy AI"
   ],
-  "extracted_at": "2026-07-22 17:22:55",
+  "extracted_at": "2026-07-27 17:40:52",
   "sources": [
     {
       "source": "Wikipedia",
@@ -45,9 +47,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.alibaba.com/",
+      "url": "https://ru.tradingview.com/symbols/NASDAQ-MSTR/",
       "query": "Strategy Inc suppliers manufacturers",
-      "snippet": "Find quality Manufacturers , Suppliers , Exporters, Importers, Buyers, Wholesalers, Products and Trade Leads from our award-winning International Trad"
+      "snippet": "Следите за графиком Strategy Inc , чтобы быть в курсе цены акций. Вы также найдёте прогнозы, отчётность MSTR и новости рынка."
     },
     {
       "source": "DuckDuckGo",
@@ -59,7 +61,7 @@
       "source": "DuckDuckGo",
       "url": "https://www.strategy.com/press/strategy-recognized-customers-choice-gartner-peer-insights-through-user-feedback-for-fourth-consecutive-year_12-11-2025",
       "query": "Strategy Inc major customers clients",
-      "snippet": "Dec 11, 2025 · Strategy is the only Analytics & Business Intelligence Platforms vendor to receive this distinction for four years in a row based on ra"
+      "snippet": "Dec 11, 2025 · Strategy , a pioneer in AI-powered data analytics and semantic modeling, is one of only four vendors named as a Customers ’ Choice in t"
     }
   ]
 }

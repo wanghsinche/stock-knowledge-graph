@@ -6,32 +6,32 @@
   "upstream": [
     "Book publishers",
     "Electronics manufacturers",
-    "Third‑party seller suppliers",
-    "Logistics equipment providers",
-    "Cloud hardware vendors"
+    "Apparel brands",
+    "Consumer electronics makers",
+    "Third‑party sellers"
   ],
   "downstream": [
-    "Individual retail customers",
-    "Business customers using AWS",
+    "Individual consumers",
+    "Small and medium businesses",
     "AMZN",
-    "Prime Video subscribers",
-    "AMZN"
+    "AMZN",
+    "Digital content subscribers"
   ],
   "competitors": [
     "Walmart",
     "eBay",
     "Alibaba",
     "Shopify",
-    "MSFT"
+    "Target"
   ],
   "key_products": [
-    "Amazon.com marketplace",
-    "Amazon Prime",
+    "Amazon.com e‑commerce platform",
+    "Amazon Prime subscription",
     "Amazon Web Services (AWS)",
-    "Amazon Echo (Alexa)",
-    "Kindle e‑readers"
+    "Amazon Devices (Echo, Kindle, Fire)",
+    "Amazon Advertising"
   ],
-  "extracted_at": "2026-07-24 17:21:44",
+  "extracted_at": "2026-07-27 17:31:45",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ir.aboutamazon.com/",
-      "query": "Amazon.com, Inc. suppliers manufacturers",
-      "snippet": "The Spheres. Select awards and recognition. Amazon . com Conditions of Use © 1996- Amazon . com , Inc . - IR or its affiliates."
-    },
-    {
-      "source": "DuckDuckGo",
       "url": "https://www.alibaba.com/",
       "query": "Amazon.com, Inc. suppliers manufacturers",
       "snippet": "Find quality Manufacturers , Suppliers , Exporters, Importers, Buyers, Wholesalers, Products and Trade Leads from our award-winning International Trad"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Amazon_(company)",
-      "query": "Amazon.com, Inc. major customers clients",
-      "snippet": "Toggle Products and services subsection. 2. 1Amazon .com. 2.1.1Merchant partnerships. 2.1.2Private-label products. 2.1.3Third-party sellers."
+      "url": "https://www.amazon.com/Ooni-Karu-Multi-Fuel-Outdoor-Pizza/dp/B0CB4S7BN9",
+      "query": "Amazon.com, Inc. suppliers manufacturers",
+      "snippet": "Amazon . com Return Policy: Amazon . com Voluntary 30-Day Return Guarantee: You can return many items you have purchased within 30 days following deli"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://aws.amazon.com/about-aws/our-customers-and-partners/",
+      "url": "https://ir.aboutamazon.com/",
       "query": "Amazon.com, Inc. major customers clients",
-      "snippet": "Every day, our customers and partners around use AWS to launch new businesses, reinvent themselves and their industries, serve their communities more "
+      "snippet": "Amazon . com , Inc . (NASDAQ: AMZN) today announced financial results for its first quarter ended March 31, 2026."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.linkedin.com/company/amazon/",
+      "query": "Amazon.com, Inc. major customers clients",
+      "snippet": "Amazon | 36,940,598 followers on LinkedIn. Amazon is guided by four principles: customer obsession rather than competitor focus, passion for invention"
     }
   ]
 }

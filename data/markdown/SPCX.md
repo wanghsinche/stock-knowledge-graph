@@ -3,8 +3,8 @@ ticker: SPCX
 company: Space Exploration Technologies Corp.
 sector: Industrials
 industry: Aerospace & Defense
-extracted_at: 2026-07-24 17:22:09
-last_updated: 2026-07-24
+extracted_at: 2026-07-27 17:31:16
+last_updated: 2026-07-27
 ---
 
 # SPCX - Space Exploration Technologies Corp.
@@ -12,46 +12,46 @@ last_updated: 2026-07-24
 ## 基本信息
 
 - **所属行业**: Industrials / Aerospace & Defense
-- **提取时间**: 2026-07-24 17:22:09
+- **提取时间**: 2026-07-27 17:31:16
 
 ## 产业链关系
 
 ### 上游供应商
-- [[STMicroelectronics N.V.]]
-- [[Boeing]]
-- [[Lockheed Martin]]
-- [[Northrop Grumman]]
-- [[Honeywell]]
+- [[Steel and aluminum suppliers]]
+- [[Composite material manufacturers]]
+- [[Propellant suppliers]]
+- [[Electronic component suppliers]]
+- [[Avionics and guidance system vendors]]
 
 ### 下游客户
 - [[NASA]]
 - [[United States Space Force]]
-- [[Starlink subscribers]]
-- [[United Nations Office for Outer Space Affairs]]
 - [[Commercial satellite operators]]
+- [[Starlink customers (residential and enterprise)]]
+- [[International space agencies (e.g., ESA, JAXA)]]
 
 ### 竞争对手
 - [[Blue Origin]]
-- [[United Launch Alliance (ULA)]]
+- [[United Launch Alliance]]
 - [[Arianespace]]
 - [[Rocket Lab]]
 - [[Relativity Space]]
 
 ### 核心产品
-- [[Falcon 9]]
-- [[Falcon Heavy]]
-- [[Starship]]
+- [[Falcon 9 rocket]]
+- [[Falcon Heavy rocket]]
+- [[Starship launch vehicle]]
 - [[Starlink satellite constellation]]
-- [[Grok AI platform]]
+- [[SpaceX AI and data center services]]
 
 ## 数据来源
 
 - [SpaceX](https://en.wikipedia.org/wiki/Space_Exploration_Technologies_Corp.)
-- [Space Exploration Technologies Corp. suppliers manufacturers](https://grokipedia.com/page/Publicly_traded_SpaceX_suppliers)
 - [Space Exploration Technologies Corp. suppliers manufacturers](https://www.spacex.com/supplier)
+- [Space Exploration Technologies Corp. suppliers manufacturers](https://www.makesureiknowit.com/company/spacex)
 - [Space Exploration Technologies Corp. major customers clients](https://en.wikipedia.org/wiki/SpaceX)
-- [Space Exploration Technologies Corp. major customers clients](https://www.spacex.com/)
+- [Space Exploration Technologies Corp. major customers clients](https://spaceexplorationtechnologies.com/)
 
 ## 元数据
 
-- **更新日期**: 2026-07-24
+- **更新日期**: 2026-07-27

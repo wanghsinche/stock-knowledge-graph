@@ -2,36 +2,36 @@
   "ticker": "WMT",
   "company_name": "Walmart Inc.",
   "sector": "Consumer Defensive / Discount Stores",
-  "industry": "Retail - Discount Stores",
+  "industry": "Discount Stores",
   "upstream": [
-    "Food manufacturers",
-    "Apparel manufacturers",
-    "Electronics manufacturers",
-    "Pharmaceutical manufacturers",
-    "Fuel suppliers"
+    "Procter & Gamble",
+    "Coca‑Cola",
+    "PepsiCo",
+    "Johnson & Johnson",
+    "Unilever"
   ],
   "downstream": [
-    "US consumers",
-    "International consumers",
-    "Small business customers",
-    "Pharmacy customers",
-    "Fuel station customers"
+    "U.S. consumers",
+    "International shoppers",
+    "Online shoppers",
+    "Private‑label customers",
+    "Small‑business retailers"
   ],
   "competitors": [
     "Target",
     "Costco",
-    "Kroger",
-    "AMZN",
-    "Dollar General"
+    "Dollar General",
+    "Aldi",
+    "BJ’s Wholesale Club"
   ],
   "key_products": [
-    "General merchandise",
-    "Groceries",
+    "Grocery items",
     "Pharmacy products",
-    "Fuel",
-    "Sam's Club membership"
+    "Electronics",
+    "Clothing",
+    "Home goods"
   ],
-  "extracted_at": "2026-07-24 17:29:28",
+  "extracted_at": "2026-07-27 17:37:54",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/suppliers_glance.php?code=WMT",
+      "url": "https://corporate.walmart.com/suppliers",
       "query": "Walmart Inc. suppliers manufacturers",
-      "snippet": "Walmart Inc supply chain, list and performance of Walmart Incs ' suppliers - CSIMarket.Among Walmart Inc suppliers , the revenue of Interface Inc has "
+      "snippet": "Supplier Requirements All Walmart and Sam's Club suppliers and their manufacturing facilities, including all subcontracting and packaging facilities, "
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://solatatech.com/article/5-key-suppliers-of-walmart",
+      "query": "Walmart Inc. suppliers manufacturers",
+      "snippet": "17 hours ago · Walmart is the second largest retailer in the world, following Amazon. There are over 100,000 Walmart suppliers across the globe. Walma"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.walmart.com/",
-      "query": "Walmart Inc. suppliers manufacturers",
+      "query": "Walmart Inc. major customers clients",
       "snippet": "Shop Walmart .com today for Every Day Low Prices. Join Walmart + for unlimited free delivery from your store & free shipping with no order minimum. St"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://capitaloneshopping.com/research/walmart-statistics/",
+      "url": "https://www.linkedin.com/company/walmart",
       "query": "Walmart Inc. major customers clients",
-      "snippet": "Jun 10, 2026 · Latest available data on Walmart ' s size and market share, both offline and online, with total sales and revenue breakdowns by year."
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://businessmodelanalyst.com/walmart-target-market/",
-      "query": "Walmart Inc. major customers clients",
-      "snippet": "Jun 9, 2026 · This article will examine Walmart target market and approach to reaching a broad yet carefully segmented customer base."
+      "snippet": "Our 2.1 million associates are the engine behind what we do — serving customers and members in communities spanning 19 countries, in stores and clubs,"
     }
   ]
 }

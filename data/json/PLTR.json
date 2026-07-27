@@ -1,37 +1,36 @@
 {
   "ticker": "PLTR",
   "company_name": "Palantir Technologies Inc.",
-  "sector": "Technology",
-  "industry": "Software - Infrastructure",
+  "sector": "Technology / Software - Infrastructure",
+  "industry": "Data Integration & Analytics Software",
   "upstream": [
-    "DELL",
+    "AMZN",
     "MSFT",
-    "Data storage vendors (e.g., NetApp, EMC)",
-    "Cybersecurity solution providers",
-    "Enterprise software integrators"
+    "GOOGL",
+    "IBM",
+    "ORCL"
   ],
   "downstream": [
-    "U.S. federal government agencies (e.g., Department of Defense, FBI)",
-    "INTC",
-    "Financial services firms (e.g., banks, hedge funds)",
-    "Healthcare providers and research institutions",
-    "Energy and utilities companies"
+    "U.S. Department of Defense",
+    "Federal Bureau of Investigation",
+    "JPMorgan Chase",
+    "Walmart",
+    "Airbus"
   ],
   "competitors": [
-    "Splunk",
     "Snowflake",
     "Databricks",
-    "IBM",
-    "MSFT"
+    "Splunk",
+    "CRM",
+    "Qlik"
   ],
   "key_products": [
     "Palantir Foundry",
     "Palantir Gotham",
     "Palantir Apollo",
-    "Palantir Helix",
-    "Palantir Platform (data integration & analytics suite)"
+    "Palantir Helix"
   ],
-  "extracted_at": "2026-07-24 17:26:08",
+  "extracted_at": "2026-07-27 17:32:37",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,15 +40,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Palantir",
+      "url": "https://csimarket.com/stocks/PLTR-Suppliers",
       "query": "Palantir Technologies Inc. suppliers manufacturers",
-      "snippet": "Palantir Technologies Inc . is an American publicly traded company that develops data integration and analytics software. Palantir is headquartered in"
+      "snippet": "Jul 7, 2026 · For your research, we’ve provided nine additional tables on Palantir Technologies Inc ’ s suppliers . You can find them in the navigatio"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/PLTR/",
+      "url": "https://fintel.io/doc/sec-palantir-technologies-inc-1321655-ex211-2023-february-21-19410-4071",
       "query": "Palantir Technologies Inc. suppliers manufacturers",
-      "snippet": "Find the latest Palantir Technologies Inc . (PLTR) stock quote, history, news and other vital information to help you with your stock trading and inve"
+      "snippet": "Pursuant to Item 601 (b) (21) (ii) of Regulation S-K, the names of other subsidiaries of Palantir Technologies Inc . are omitted because, considered i"
     },
     {
       "source": "DuckDuckGo",

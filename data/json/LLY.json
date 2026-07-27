@@ -4,34 +4,34 @@
   "sector": "Healthcare",
   "industry": "Drug Manufacturers - General",
   "upstream": [
-    "BASF",
-    "Dow Chemical",
-    "Lonza",
     "Thermo Fisher Scientific",
-    "Corteva"
+    "Merck KGaA",
+    "Lonza Group",
+    "CAT",
+    "WuXi AppTec"
   ],
   "downstream": [
     "UnitedHealth Group",
+    "CVS Health",
+    "Walgreens Boots Alliance",
     "Kaiser Permanente",
-    "Mayo Clinic",
-    "Cleveland Clinic",
-    "US Department of Veterans Affairs"
+    "HealthCare.gov (government programs)"
   ],
   "competitors": [
     "Pfizer",
     "Johnson & Johnson",
+    "Novartis",
     "Merck & Co.",
-    "AbbVie",
-    "Novartis"
+    "Sanofi"
   ],
   "key_products": [
-    "Humalog (insulin lispro)",
+    "Humulin (insulin)",
     "Lantus (insulin glargine)",
     "Trulicity (dulaglutide)",
-    "Cymbalta (duloxetine)",
-    "Zyprexa (olanzapine)"
+    "Empagliflozin (Jardiance)",
+    "Mounjaro (tirzepatide)"
   ],
-  "extracted_at": "2026-07-24 17:27:20",
+  "extracted_at": "2026-07-27 17:41:50",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,9 +47,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.lilly.com/",
+      "url": "https://www.lilly.com/suppliers",
       "query": "Eli Lilly and Company suppliers manufacturers",
-      "snippet": "Lilly is a medicine company that puts health above all. Learn about our medicines, view condition support, find care, and much more. Lilly employee wo"
+      "snippet": "View supplier resources including accounts payable, invoicing, payments, new and existing supplier guidance, and the Lilly Supplier portal."
     },
     {
       "source": "DuckDuckGo",

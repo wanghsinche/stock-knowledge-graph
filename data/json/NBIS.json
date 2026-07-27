@@ -5,33 +5,33 @@
   "industry": "Internet Content & Information",
   "upstream": [
     "NVDA",
-    "AMD",
     "INTC",
-    "GOOGL",
-    "AMZN"
+    "AMD",
+    "AMZN",
+    "GOOGL"
   ],
   "downstream": [
-    "Large enterprises using AI infrastructure",
-    "CAT",
     "Financial institutions",
+    "CAT",
     "E-commerce platforms",
-    "Government agencies"
+    "Healthcare providers",
+    "Automotive manufacturers"
   ],
   "competitors": [
     "NVDA",
-    "AMD",
     "INTC",
+    "AMD",
     "GOOGL",
     "AMZN"
   ],
   "key_products": [
-    "AI infrastructure platform",
-    "Avride",
-    "TripleTen",
-    "Toloka",
-    "Clickhouse"
+    "Nebius AI Platform",
+    "Nebius AI Training",
+    "Nebius AI Inference",
+    "Toloka Data Labeling",
+    "Clickhouse Analytics"
   ],
-  "extracted_at": "2026-07-24 17:22:53",
+  "extracted_at": "2026-07-27 17:33:29",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,21 +47,21 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://stockanalysis.com/stocks/nbis/",
+      "url": "https://finance.yahoo.com/quote/NBIS/",
       "query": "NBIS suppliers manufacturers",
-      "snippet": "A detailed overview of Nebius Group N.V. ( NBIS ) stock, including real-time price, chart, key statistics, news, and more."
+      "snippet": "Find the latest Nebius Group N.V. ( NBIS ) stock quote, history, news and other vital information to help you with your stock trading and investing."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Nebius_Group",
+      "url": "https://finance.yahoo.com/quote/NBIS/",
       "query": "NBIS major customers clients",
-      "snippet": "In December 2024, Nebius raised $700 million through private investors, including Nvidia (which acquired 0.5% of Nebius ) and Accel Partners. [5]"
+      "snippet": "Find the latest Nebius Group N.V. ( NBIS ) stock quote, history, news and other vital information to help you with your stock trading and investing."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/NBIS-Customers",
+      "url": "https://www.marketbeat.com/stocks/NASDAQ/NBIS/institutional-ownership/",
       "query": "NBIS major customers clients",
-      "snippet": "2 days ago · For your research, we’ve provided 9 tables on Nebius Group n v corporate clients . You can find them in the navigation menu under Custome"
+      "snippet": "Which shareholders are buying/selling shares of Nebius Group (NASDAQ: NBIS ) stock? View NBIS institutional ownership (13F) transactions at MarketBeat"
     }
   ]
 }

@@ -7,31 +7,31 @@
     "Foxconn",
     "Pegatron",
     "Wistron",
-    "Jabil",
-    "Flex"
+    "Quanta Computer",
+    "Compal Electronics"
   ],
   "downstream": [
-    "United States Department of Defense",
-    "NASA",
-    "Walmart",
-    "AMZN",
-    "MSFT"
+    "Enterprise IT departments",
+    "Government agencies",
+    "CAT",
+    "Healthcare providers",
+    "Retail and e‑commerce companies"
   ],
   "competitors": [
     "HPQ",
     "Lenovo",
     "AAPL",
     "Acer",
-    "Asus"
+    "MSFT"
   ],
   "key_products": [
-    "Laptops",
-    "Desktops",
-    "Servers",
-    "Monitors",
-    "Storage solutions"
+    "Personal computers (desktops & laptops)",
+    "Servers (PowerEdge)",
+    "Storage solutions (Dell EMC)",
+    "Networking equipment (Dell Networking)",
+    "Security & cloud services"
   ],
-  "extracted_at": "2026-07-24 17:26:57",
+  "extracted_at": "2026-07-27 17:36:45",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/DELL-Suppliers",
-      "query": "Dell Technologies Inc. suppliers manufacturers",
-      "snippet": "Jul 7, 2026 · Dell Technologies Inc supply chain, list and performance of Dell Technologies Incs ' suppliers - CSIMarket"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.delltechnologies.com/asset/en-in/solutions/business-solutions/briefs-summaries/dell-public-supplier-list.pdf",
+      "url": "https://www.delltechnologies.com/asset/pl-pl/solutions/business-solutions/briefs-summaries/dell-public-supplier-list.pdf",
       "query": "Dell Technologies Inc. suppliers manufacturers",
       "snippet": "The list of supplier facilities includes original design manufacturers (ODMs), final assembly and material suppliers that Dell buys from directly and/"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.dell.com/en-us",
-      "query": "Dell Technologies Inc. major customers clients",
-      "snippet": "Dell provides technology solutions, services & support. Buy Laptops, Touch Screen PCs, Desktops, Servers, Storage, Monitors, Gaming & Accessories. Del"
+      "url": "https://csimarket.com/stocks/DELL-Suppliers",
+      "query": "Dell Technologies Inc. suppliers manufacturers",
+      "snippet": "Jul 7, 2026 · Dell Technologies Inc 's Comment on Supply Chain The company procures materials, supplies , product components, and products from numero"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.cnbc.com/quotes/DELL",
+      "url": "https://csimarket.com/stocks/DELL-Customers",
       "query": "Dell Technologies Inc. major customers clients",
-      "snippet": "DELL : Dell Technologies Inc - Stock Price, Quote and News - CNBC."
+      "snippet": "2 days ago · For your research, we’ve provided 9 tables on Dell Technologies Inc corporate clients . You can find them in the navigation menu under Cu"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.dell.com/en-us/lp/dt/customer-stories",
+      "query": "Dell Technologies Inc. major customers clients",
+      "snippet": "The Dell Technologies digital transformation library showcases how some of the largest brands bring their ideas to life, and their products to market."
     }
   ]
 }

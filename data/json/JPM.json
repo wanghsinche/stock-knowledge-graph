@@ -5,17 +5,17 @@
   "industry": "Banks - Diversified",
   "upstream": [
     "MSFT",
-    "MSFT",
-    "Payment processors (e.g., Visa, Mastercard)",
-    "Data providers (e.g., Bloomberg, Thomson Reuters)",
-    "Cybersecurity firms (e.g., Palo Alto Networks, Symantec)"
+    "Consulting firms (e.g., Accenture, Deloitte)",
+    "Legal and compliance service providers",
+    "Cybersecurity vendors",
+    "Financial data providers (e.g., Bloomberg, Refinitiv)"
   ],
   "downstream": [
     "Retail banking customers",
-    "Corporate and institutional clients",
-    "Wealth management and private banking clients",
-    "Small and medium‑enterprise customers",
-    "Mortgage borrowers"
+    "Small and medium business clients",
+    "Large corporate clients",
+    "Institutional investors",
+    "Government and public sector entities"
   ],
   "competitors": [
     "Bank of America",
@@ -26,12 +26,12 @@
   ],
   "key_products": [
     "Retail banking services",
-    "Investment banking and advisory",
-    "Wealth management and private banking",
+    "Corporate and investment banking",
+    "Wealth and asset management",
     "Credit card and consumer lending",
-    "Mortgage and real‑estate financing"
+    "Treasury and cash management"
   ],
-  "extracted_at": "2026-07-24 17:25:46",
+  "extracted_at": "2026-07-27 17:37:22",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.jpmorganchase.com/about/suppliers",
+      "url": "https://en.wikipedia.org/wiki/JPMorgan_Chase",
       "query": "JPMorgan Chase & Co. suppliers manufacturers",
-      "snippet": "Suppliers An inclusive supply chain where every business, including but not limited to small and diverse businesses, has the opportunity to be conside"
+      "snippet": "JPMorgan Chase & Co . (stylized as JPMorganChase ) is an American multinational banking institution headquartered in New York City and incorporated in"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://jpmorganchase.suppliergateway.com/",
+      "url": "https://ru.wikipedia.org/wiki/JPMorgan_Chase",
       "query": "JPMorgan Chase & Co. suppliers manufacturers",
-      "snippet": "To provide opportunities for JPMorganChase to engage with a wide range suppliers , we have created a Supplier Network through which all prospective su"
+      "snippet": "JPMorgan Chase & Co , «Дж. П. Морган Чейз и Ко.» — американский транснациональный финансовый конгломерат, один из крупнейших банков мира. Штаб-квартир"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/JPM-Customers",
+      "url": "https://en.wikipedia.org/wiki/JPMorgan_Chase",
       "query": "JPMorgan Chase & Co. major customers clients",
-      "snippet": "JPMorgan Chase serves customers primarily in the United States and includes corporate, institutional, and government clients globally. Its principal b"
+      "snippet": "JPMorgan Chase & Co . (stylized as JPMorganChase ) is an American multinational banking institution headquartered in New York City and incorporated in"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.jpmorganchase.com/",
       "query": "JPMorgan Chase & Co. major customers clients",
-      "snippet": "JPMorganChase serves millions of customers , clients and communities in over 100 global markets. For 225 years, our work has been guided by principles"
+      "snippet": "JPMorganChase serves millions of customers , clients and communities in over 100 global markets.Registration opens for San Francisco’s 40th JPMorganCh"
     }
   ]
 }

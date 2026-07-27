@@ -3,8 +3,8 @@ ticker: T
 company: AT&T Inc.
 sector: Communication Services
 industry: Telecom Services
-extracted_at: 2026-07-24 17:27:32
-last_updated: 2026-07-24
+extracted_at: 2026-07-27 17:41:17
+last_updated: 2026-07-27
 ---
 
 # T - AT&T Inc.
@@ -12,23 +12,23 @@ last_updated: 2026-07-24
 ## 基本信息
 
 - **所属行业**: Communication Services / Telecom Services
-- **提取时间**: 2026-07-24 17:27:32
+- **提取时间**: 2026-07-27 17:41:17
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Ericsson]]
 - [[Nokia]]
-- [[Huawei]]
+- [[Ericsson]]
 - [[CSCO]]
 - [[JNPR]]
+- [[QCOM]]
 
 ### 下游客户
 - [[Individual consumers]]
-- [[Small and medium businesses]]
+- [[Small & Medium Businesses]]
 - [[Large enterprises]]
 - [[Government agencies]]
-- [[CAT]]
+- [[Content providers]]
 
 ### 竞争对手
 - [[CAT]]
@@ -39,19 +39,19 @@ last_updated: 2026-07-24
 
 ### 核心产品
 - [[Wireless voice and data services]]
-- [[Fiber‑optic broadband Internet]]
-- [[AT&T TV (streaming and satellite)]]
-- [[Enterprise networking and cloud services]]
-- [[Security and managed services]]
+- [[Fiber broadband]]
+- [[AT&T TV]]
+- [[Enterprise networking solutions]]
+- [[5G infrastructure]]
 
 ## 数据来源
 
 - [AT&T](https://en.wikipedia.org/wiki/AT&T_Inc.)
-- [AT&T Inc. suppliers manufacturers](https://ru.wikipedia.org/wiki/AT&T)
-- [AT&T Inc. suppliers manufacturers](https://finance.yahoo.com/quote/T/)
-- [AT&T Inc. major customers clients](https://finance.yahoo.com/quote/T/)
-- [AT&T Inc. major customers clients](https://www.youtube.com/watch?v=bp1PJJR-xC0)
+- [AT&T Inc. suppliers manufacturers](https://globalsupplychain.att.com/attsuppliers.html)
+- [AT&T Inc. suppliers manufacturers](https://attsuppliers.com/Home/ProspectiveOverview)
+- [AT&T Inc. major customers clients](https://en.wikipedia.org/wiki/AT&T)
+- [AT&T Inc. major customers clients](https://investors.att.com/~/media/Files/A/ATT-IR-V2/financial-reports/annual-reports/2025/2025-annual-report-complete.pdf)
 
 ## 元数据
 
-- **更新日期**: 2026-07-24
+- **更新日期**: 2026-07-27

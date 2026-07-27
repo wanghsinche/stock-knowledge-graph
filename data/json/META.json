@@ -5,33 +5,38 @@
   "industry": "Internet Content & Information",
   "upstream": [
     "NVDA",
-    "AMD",
-    "INTC",
-    "CSCO",
-    "DELL"
+    "GOOGL",
+    "CAT",
+    "QCOM",
+    "CSCO"
   ],
   "downstream": [
-    "Coca‑Cola",
-    "Nike",
-    "Walmart",
-    "Procter & Gamble",
-    "MSFT"
+    "Advertisers (global brands, agencies)",
+    "App developers and publishers",
+    "Content creators and influencers",
+    "META",
+    "META"
   ],
   "competitors": [
     "GOOGL",
     "AMZN",
     "AAPL",
-    "MSFT",
-    "TikTok (ByteDance)"
+    "ByteDance (TikTok)",
+    "Snap Inc. (Snapchat)",
+    "X Corp. (Twitter)"
   ],
   "key_products": [
     "Facebook",
     "Instagram",
     "WhatsApp",
     "Messenger",
-    "Meta Ads"
+    "Threads",
+    "Meta Ads",
+    "Meta Business Suite",
+    "Meta Quest (VR hardware)",
+    "Meta Horizon Worlds"
   ],
-  "extracted_at": "2026-07-24 17:22:20",
+  "extracted_at": "2026-07-27 17:31:56",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,15 +46,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/META-Suppliers",
+      "url": "https://ru.wikipedia.org/wiki/Meta_Platforms",
       "query": "Meta Platforms, Inc. suppliers manufacturers",
-      "snippet": "Jul 7, 2026 · Meta Platforms Inc supply chain, list and performance of Meta Platforms Incs ' suppliers - CSIMarket"
+      "snippet": "Meta Platforms , Inc . — американская транснациональная холдинговая компания, владеющая технологическим конгломератом и расположенная в Менло-Парке, К"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.makesureiknowit.com/company/meta-platforms",
+      "url": "https://investor.atmeta.com/",
       "query": "Meta Platforms, Inc. suppliers manufacturers",
-      "snippet": "Jun 17, 2026 · Operates one of the world's largest AI-compute footprints, combining millions of GPUs with its own MTIA silicon and $115-135B in 2026 c"
+      "snippet": "Investor Education Center. Meta for Business. Meta Ads Guide."
     },
     {
       "source": "DuckDuckGo",

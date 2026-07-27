@@ -3,8 +3,8 @@ ticker: NOW
 company: ServiceNow, Inc.
 sector: Technology
 industry: Software - Application
-extracted_at: 2026-07-24 17:23:52
-last_updated: 2026-07-24
+extracted_at: 2026-07-27 17:34:52
+last_updated: 2026-07-27
 ---
 
 # NOW - ServiceNow, Inc.
@@ -12,7 +12,7 @@ last_updated: 2026-07-24
 ## 基本信息
 
 - **所属行业**: Technology / Software - Application
-- **提取时间**: 2026-07-24 17:23:52
+- **提取时间**: 2026-07-27 17:34:52
 
 ## 产业链关系
 
@@ -20,8 +20,8 @@ last_updated: 2026-07-24
 - [[AMZN]]
 - [[MSFT]]
 - [[GOOGL]]
-- [[ORCL]]
-- [[IBM]]
+- [[DELL]]
+- [[HPQ]]
 
 ### 下游客户
 - [[Walmart]]
@@ -31,14 +31,14 @@ last_updated: 2026-07-24
 - [[Bank of America]]
 
 ### 竞争对手
-- [[CRM]]
 - [[MSFT]]
-- [[SAP]]
+- [[Atlassian Jira Service Management]]
+- [[BMC Software]]
+- [[IBM]]
 - [[ORCL]]
-- [[Workday]]
 
 ### 核心产品
-- [[ServiceNow Platform]]
+- [[Now Platform]]
 - [[IT Service Management (ITSM)]]
 - [[IT Operations Management (ITOM)]]
 - [[IT Business Management (ITBM)]]
@@ -47,11 +47,11 @@ last_updated: 2026-07-24
 ## 数据来源
 
 - [ServiceNow](https://en.wikipedia.org/wiki/ServiceNow,_Inc.)
-- [ServiceNow, Inc. suppliers manufacturers](https://www.servicenow.com/)
-- [ServiceNow, Inc. suppliers manufacturers](https://pluang.com/en/compare/ater-vs-now)
+- [ServiceNow, Inc. suppliers manufacturers](https://www.servicenow.com/company/supplier.html)
+- [ServiceNow, Inc. suppliers manufacturers](https://csimarket.com/stocks/NOW-Suppliers)
 - [ServiceNow, Inc. major customers clients](https://www.servicenow.com/)
-- [ServiceNow, Inc. major customers clients](https://pluang.com/en/compare/ater-vs-now)
+- [ServiceNow, Inc. major customers clients](https://learn.microsoft.com/en-us/defender-cloud-apps/protect-servicenow)
 
 ## 元数据
 
-- **更新日期**: 2026-07-24
+- **更新日期**: 2026-07-27

@@ -3,8 +3,8 @@ ticker: NFLX
 company: Netflix, Inc.
 sector: Communication Services
 industry: Entertainment
-extracted_at: 2026-07-24 17:26:47
-last_updated: 2026-07-24
+extracted_at: 2026-07-27 17:36:34
+last_updated: 2026-07-27
 ---
 
 # NFLX - Netflix, Inc.
@@ -12,16 +12,16 @@ last_updated: 2026-07-24
 ## 基本信息
 
 - **所属行业**: Communication Services / Entertainment
-- **提取时间**: 2026-07-24 17:26:47
+- **提取时间**: 2026-07-27 17:36:34
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Warner Bros. Television]]
-- [[Disney Television Studios]]
+- [[Warner Bros. Discovery]]
+- [[Disney]]
+- [[AMZN]]
 - [[SONY]]
-- [[Universal Television]]
-- [[Paramount Television]]
+- [[Universal Studios]]
 
 ### 下游客户
 - [[US households]]
@@ -32,26 +32,26 @@ last_updated: 2026-07-24
 
 ### 竞争对手
 - [[Disney+]]
-- [[HBO Max]]
-- [[AMZN]]
 - [[Hulu]]
+- [[AMZN]]
+- [[HBO Max]]
 - [[AAPL]]
 
 ### 核心产品
-- [[Netflix streaming service]]
-- [[Netflix Originals]]
-- [[Licensed content library]]
-- [[Mobile app]]
-- [[Smart TV app]]
+- [[Netflix streaming platform]]
+- [[Original series]]
+- [[Original films]]
+- [[Licensed movies]]
+- [[Mobile and web apps]]
 
 ## 数据来源
 
 - [Netflix, Inc.](https://en.wikipedia.org/wiki/Netflix,_Inc.)
 - [Netflix, Inc. suppliers manufacturers](https://csimarket.com/stocks/NFLX-Suppliers)
-- [Netflix, Inc. suppliers manufacturers](https://npfp.netflixstudios.com/region/global/)
-- [Netflix, Inc. major customers clients](https://csimarket.com/stocks/NFLX-Customers)
-- [Netflix, Inc. major customers clients](https://ir.netflix.net/ir-overview/profile/default.aspx)
+- [Netflix, Inc. suppliers manufacturers](https://npfp.netflixstudios.com/)
+- [Netflix, Inc. major customers clients](https://www.marketresearch.com/GlobalData-v3648/Netflix-NFLX-Financial-Strategic-SWOT-45074809/)
+- [Netflix, Inc. major customers clients](https://www.marketresearchreports.com/marketline/netflix-inc-strategy-swot-and-corporate-finance-report)
 
 ## 元数据
 
-- **更新日期**: 2026-07-24
+- **更新日期**: 2026-07-27

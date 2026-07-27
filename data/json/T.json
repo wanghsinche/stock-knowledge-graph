@@ -4,18 +4,18 @@
   "sector": "Communication Services",
   "industry": "Telecom Services",
   "upstream": [
-    "Ericsson",
     "Nokia",
-    "Huawei",
+    "Ericsson",
     "CSCO",
-    "JNPR"
+    "JNPR",
+    "QCOM"
   ],
   "downstream": [
     "Individual consumers",
-    "Small and medium businesses",
+    "Small & Medium Businesses",
     "Large enterprises",
     "Government agencies",
-    "CAT"
+    "Content providers"
   ],
   "competitors": [
     "CAT",
@@ -26,12 +26,12 @@
   ],
   "key_products": [
     "Wireless voice and data services",
-    "Fiber‑optic broadband Internet",
-    "AT&T TV (streaming and satellite)",
-    "Enterprise networking and cloud services",
-    "Security and managed services"
+    "Fiber broadband",
+    "AT&T TV",
+    "Enterprise networking solutions",
+    "5G infrastructure"
   ],
-  "extracted_at": "2026-07-24 17:27:32",
+  "extracted_at": "2026-07-27 17:41:17",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ru.wikipedia.org/wiki/AT&T",
+      "url": "https://globalsupplychain.att.com/attsuppliers.html",
       "query": "AT&T Inc. suppliers manufacturers",
-      "snippet": "AT & T Inc . — американский транснациональный телекоммуникационный конгломерат со штаб-квартирой в Далласе, штат Техас. Крупнейшая в мире телекоммуник"
+      "snippet": "AT&T external supplier sites (https:// attsuppliers .com and https://attpurchasing.com) are now up and running. Please access and bookmark each site a"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/T/",
+      "url": "https://attsuppliers.com/Home/ProspectiveOverview",
       "query": "AT&T Inc. suppliers manufacturers",
-      "snippet": "Find the latest AT & T Inc . ( T ) stock quote, history, news and other vital information to help you with your stock trading and investing. AT & T In"
+      "snippet": "Most of AT&T purchases are from suppliers in the telecommunications industry. The opportunities for potential suppliers may be somewhat limited becaus"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/T/",
+      "url": "https://en.wikipedia.org/wiki/AT&T",
       "query": "AT&T Inc. major customers clients",
-      "snippet": "Find the latest AT & T Inc . ( T ) stock quote, history, news and other vital information to help you with your stock trading and investing."
+      "snippet": "Today, AT & T is focusing its efforts on 5G connectivity and fiber networks. American Telephone and Telegraph corporation is founded as the long-dista"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.youtube.com/watch?v=bp1PJJR-xC0",
+      "url": "https://investors.att.com/~/media/Files/A/ATT-IR-V2/financial-reports/annual-reports/2025/2025-annual-report-complete.pdf",
       "query": "AT&T Inc. major customers clients",
-      "snippet": "CLIENTS This music to attract customers and money in 1 day 2026."
+      "snippet": "Business Wireline – Our Business Wireline business unit provides services to business customers , including multinational corporations, small and mid-"
     }
   ]
 }

@@ -3,8 +3,8 @@ ticker: STX
 company: Seagate Technology Holdings plc
 sector: Technology
 industry: Computer Hardware
-extracted_at: 2026-07-24 17:23:07
-last_updated: 2026-07-24
+extracted_at: 2026-07-27 17:33:13
+last_updated: 2026-07-27
 ---
 
 # STX - Seagate Technology Holdings plc
@@ -12,46 +12,46 @@ last_updated: 2026-07-24
 ## 基本信息
 
 - **所属行业**: Technology / Computer Hardware
-- **提取时间**: 2026-07-24 17:23:07
+- **提取时间**: 2026-07-27 17:33:13
 
 ## 产业链关系
 
 ### 上游供应商
-- [[STX]]
-- [[STX]]
-- [[STX]]
-- [[STX]]
-- [[STX]]
+- [[005930.KS]]
+- [[MU]]
+- [[SK Hynix]]
+- [[INTC]]
+- [[TDK Corporation]]
 
 ### 下游客户
 - [[DELL]]
 - [[HPQ]]
 - [[Lenovo Group]]
+- [[AAPL]]
 - [[AMZN]]
-- [[MSFT]]
 
 ### 竞争对手
 - [[WDC]]
 - [[Toshiba]]
 - [[005930.KS]]
-- [[MU]]
 - [[IBM]]
+- [[MU]]
 
 ### 核心产品
-- [[Seagate 3.5‑inch HDD]]
-- [[Seagate 2.5‑inch HDD]]
-- [[Seagate SSD]]
-- [[Seagate Enterprise Storage Solutions]]
-- [[Seagate Cloud Storage Solutions]]
+- [[Hard Disk Drives]]
+- [[Solid State Drives]]
+- [[Enterprise storage solutions]]
+- [[Seagate Barracuda]]
+- [[Seagate IronWolf]]
 
 ## 数据来源
 
 - 
 - [Seagate Technology Holdings plc suppliers manufacturers](https://www.seagate.com/)
-- [Seagate Technology Holdings plc suppliers manufacturers](https://pluang.com/compare/axp-vs-stx)
+- [Seagate Technology Holdings plc suppliers manufacturers](https://www.comss.ru/page.php?id=5734)
 - [Seagate Technology Holdings plc major customers clients](https://www.seagate.com/)
-- [Seagate Technology Holdings plc major customers clients](https://brandhistories.com/compare/seagate-vs-simon-property)
+- [Seagate Technology Holdings plc major customers clients](https://chang.aevumnews.com/en/seagate-poised-for-ai-driven-growth-amidst-market-caution)
 
 ## 元数据
 
-- **更新日期**: 2026-07-24
+- **更新日期**: 2026-07-27

@@ -1,37 +1,37 @@
 {
   "ticker": "SNDK",
-  "company_name": "SanDisk Corporation",
-  "sector": "Technology",
-  "industry": "Computer Hardware",
+  "company_name": "Sandisk Corporation",
+  "sector": "Technology / Computer Hardware",
+  "industry": "Semiconductors / Flash Memory",
   "upstream": [
-    "NXP Semiconductors",
     "MU",
     "005930.KS",
     "SK Hynix",
+    "Kioxia",
     "INTC"
   ],
   "downstream": [
     "AAPL",
+    "MSFT",
     "DELL",
     "HPQ",
-    "MSFT",
-    "005930.KS"
+    "Lenovo Group"
   ],
   "competitors": [
     "MU",
     "005930.KS",
-    "Kingston Technology",
-    "WDC",
-    "Toshiba"
+    "SK Hynix",
+    "Kioxia",
+    "INTC"
   ],
   "key_products": [
+    "NAND flash memory",
+    "SSD drives",
     "USB flash drives",
-    "SD/SDXC memory cards",
-    "Solid State Drives (SSDs)",
-    "Enterprise flash storage",
-    "Embedded flash solutions"
+    "SD cards",
+    "microSD cards"
   ],
-  "extracted_at": "2026-07-24 17:20:41",
+  "extracted_at": "2026-07-27 17:29:40",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,15 +41,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.sandisk.com/company/distributors",
+      "url": "https://en.wikipedia.org/wiki/SanDisk",
       "query": "Sandisk Corporation suppliers manufacturers",
-      "snippet": "Region · Loading Region · Country/Area · Loading Country/Area · Brand · Loading Brand · Distributors | SanDisk"
+      "snippet": "Founded in 1988, [4] it designs and manufactures flash memory products, including memory cards, USB flash drives, and solid-state drives (SSDs). The c"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.trustedparts.com/en/manufacturers/sandisk",
+      "url": "https://www.sandisk.com/en-us/company/distributors",
       "query": "Sandisk Corporation suppliers manufacturers",
-      "snippet": "SanDisk distributor stock, prices & datasheets from authorized distributors. Search authorized SanDisk inventory."
+      "snippet": "Find authorized SanDisk distributors and channel partners worldwide for trusted storage solutions and products."
     },
     {
       "source": "DuckDuckGo",
@@ -59,9 +59,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.appsruntheworld.com/customers-database/vendors/view/sandisk",
+      "url": "https://csimarket.com/stocks/SNDK-Customers",
       "query": "Sandisk Corporation major customers clients",
-      "snippet": "List of companies using or evaluating SanDisk applications, with details on their revenues, employees, industries, and locations."
+      "snippet": "17 hours ago · For your research, we’ve provided 9 tables on Sandisk Corporation corporate clients . You can find them in the navigation menu under Cu"
     }
   ]
 }

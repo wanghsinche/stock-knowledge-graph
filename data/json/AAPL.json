@@ -4,24 +4,24 @@
   "sector": "Technology",
   "industry": "Consumer Electronics",
   "upstream": [
+    "Foxconn (Hon Hai Precision Industry)",
     "TSM",
     "005930.KS",
-    "Foxconn",
-    "Pegatron",
-    "Wistron"
+    "LG Display",
+    "ASE Group"
   ],
   "downstream": [
-    "Best Buy",
-    "AMZN",
-    "Walmart",
-    "Target",
-    "Costco"
+    "iPhone users",
+    "iPad users",
+    "Mac users",
+    "AAPL",
+    "Enterprise customers"
   ],
   "competitors": [
     "005930.KS",
     "GOOGL",
     "MSFT",
-    "AMZN",
+    "DELL",
     "SONY"
   ],
   "key_products": [
@@ -29,9 +29,12 @@
     "iPad",
     "Mac",
     "Apple Watch",
-    "Apple TV"
+    "Apple TV",
+    "AirPods",
+    "Apple Music",
+    "iCloud"
   ],
-  "extracted_at": "2026-07-24 17:21:21",
+  "extracted_at": "2026-07-27 17:30:19",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,13 +46,13 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/List_of_Apple_Inc._suppliers",
       "query": "Apple Inc. suppliers manufacturers",
-      "snippet": "Apple released a list of its major suppliers for the first time in 2012. [13][14][15] The list has generally been released in yearly intervals since. "
+      "snippet": "2 weeks ago - In 1994, Apple began interviewing manufacturers in Taiwan due to unfavorable economic conditions in Japan. Production for the Newton was"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.apple.com/supply-chain/",
+      "url": "https://en.wikipedia.org/wiki/Apple_supply_chain",
       "query": "Apple Inc. suppliers manufacturers",
-      "snippet": "Apple products are designed in California and built by people all over the world. We strive to uphold our high standards everywhere we operate, suppor"
+      "snippet": "May 21, 2026 - \" Apple 's first target for its $1 billion US manufacturing fund is glass supplier Corning\". The Verge. Vox Media. Retrieved 14 Decembe"
     },
     {
       "source": "DuckDuckGo",

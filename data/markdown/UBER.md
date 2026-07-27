@@ -1,57 +1,57 @@
 ---
 ticker: UBER
 company: Uber Technologies, Inc.
-sector: Technology / Software - Application
-industry: Transportation Network Company
-extracted_at: 2026-06-24 17:54:20
-last_updated: 2026-06-24
+sector: Technology
+industry: Software - Application
+extracted_at: 2026-07-27 17:39:54
+last_updated: 2026-07-27
 ---
 
 # UBER - Uber Technologies, Inc.
 
 ## 基本信息
 
-- **所属行业**: Technology / Software - Application / Transportation Network Company
-- **提取时间**: 2026-06-24 17:54:20
+- **所属行业**: Technology / Software - Application
+- **提取时间**: 2026-07-27 17:39:54
 
 ## 产业链关系
 
 ### 上游供应商
-- [[TSLA]]
-- [[AAPL]]
-- [[GOOGL]]
-- [[Payment processors (Visa, Mastercard, Stripe)]]
-- [[GOOGL]]
+- [[Toyota]]
+- [[Ford]]
+- [[General Motors]]
+- [[Hyundai]]
+- [[Nissan]]
 
 ### 下游客户
 - [[Individual riders]]
-- [[Drivers and couriers]]
-- [[Food delivery customers (Uber Eats)]]
-- [[Freight shippers (Uber Freight)]]
-- [[Corporate clients (Uber for Business)]]
+- [[Drivers]]
+- [[Couriers]]
+- [[Corporate clients (Uber Freight)]]
+- [[Restaurants (Uber Eats)]]
 
 ### 竞争对手
 - [[Lyft]]
-- [[Didi Chuxing]]
+- [[DiDi]]
 - [[Grab]]
 - [[Ola]]
-- [[Via]]
+- [[Bolt]]
 
 ### 核心产品
-- [[Ride-hailing service]]
-- [[Uber Eats food delivery]]
-- [[Uber Freight logistics]]
+- [[Uber Ride (UberX, UberPOOL)]]
+- [[Uber Eats]]
+- [[Uber Freight]]
 - [[Uber for Business]]
 - [[Uber Health]]
 
 ## 数据来源
 
 - [Uber](https://en.wikipedia.org/wiki/Uber_Technologies,_Inc.)
-- [Uber Technologies, Inc. suppliers manufacturers](https://ru.wikipedia.org/wiki/Uber)
-- [Uber Technologies, Inc. suppliers manufacturers](https://in.tradingview.com/symbols/EUROTLX-4UBER/)
+- [Uber Technologies, Inc. suppliers manufacturers](https://csimarket.com/stocks/UBER-Suppliers)
+- [Uber Technologies, Inc. suppliers manufacturers](https://www.uber.com/us/en/suppliers/)
+- [Uber Technologies, Inc. major customers clients](https://en.wikipedia.org/wiki/Uber)
 - [Uber Technologies, Inc. major customers clients](https://csimarket.com/stocks/UBER-Customers)
-- [Uber Technologies, Inc. major customers clients](https://www.uber.com/us/en/about/)
 
 ## 元数据
 
-- **更新日期**: 2026-06-24
+- **更新日期**: 2026-07-27
