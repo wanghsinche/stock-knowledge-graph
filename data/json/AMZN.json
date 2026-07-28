@@ -7,31 +7,31 @@
     "Book publishers",
     "Electronics manufacturers",
     "Apparel brands",
-    "Consumer electronics makers",
-    "Third‑party sellers"
+    "Third‑party sellers",
+    "AMZN"
   ],
   "downstream": [
     "Individual consumers",
-    "Small and medium businesses",
+    "Small businesses",
+    "Enterprise AWS customers",
     "AMZN",
-    "AMZN",
-    "Digital content subscribers"
+    "Prime Video subscribers"
   ],
   "competitors": [
-    "Walmart",
     "eBay",
+    "Walmart",
     "Alibaba",
     "Shopify",
-    "Target"
+    "MSFT"
   ],
   "key_products": [
     "Amazon.com e‑commerce platform",
-    "Amazon Prime subscription",
     "Amazon Web Services (AWS)",
-    "Amazon Devices (Echo, Kindle, Fire)",
-    "Amazon Advertising"
+    "Amazon Prime membership",
+    "Amazon Advertising",
+    "Amazon Echo (Alexa devices)"
   ],
-  "extracted_at": "2026-07-27 17:31:45",
+  "extracted_at": "2026-07-28 17:21:06",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,15 +41,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.alibaba.com/",
+      "url": "https://supply.amazon.com/",
       "query": "Amazon.com, Inc. suppliers manufacturers",
-      "snippet": "Find quality Manufacturers , Suppliers , Exporters, Importers, Buyers, Wholesalers, Products and Trade Leads from our award-winning International Trad"
+      "snippet": "At Amazon, we look for suppliers who want to become partners on our road to being earth’s most customer-centric company. Supplier Connect enables supp"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.amazon.com/Ooni-Karu-Multi-Fuel-Outdoor-Pizza/dp/B0CB4S7BN9",
+      "url": "https://www.thesellingguys.com/online-sourcing-buying-wholesalers-distributors/",
       "query": "Amazon.com, Inc. suppliers manufacturers",
-      "snippet": "Amazon . com Return Policy: Amazon . com Voluntary 30-Day Return Guarantee: You can return many items you have purchased within 30 days following deli"
+      "snippet": "So what is the “secret sauce“ to finding the best authorized Amazon FBA wholesale suppliers ? ⏳ In a rush? Click here to jump straight to our lists of"
     },
     {
       "source": "DuckDuckGo",
@@ -59,9 +59,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.linkedin.com/company/amazon/",
+      "url": "https://aws.amazon.com/",
       "query": "Amazon.com, Inc. major customers clients",
-      "snippet": "Amazon | 36,940,598 followers on LinkedIn. Amazon is guided by four principles: customer obsession rather than competitor focus, passion for invention"
+      "snippet": "Amazon Web Services offers reliable, scalable, and inexpensive cloud computing services. Free to join, pay only for what you use."
     }
   ]
 }

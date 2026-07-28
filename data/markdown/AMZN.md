@@ -3,8 +3,8 @@ ticker: AMZN
 company: Amazon.com, Inc.
 sector: Consumer Cyclical
 industry: Internet Retail
-extracted_at: 2026-07-27 17:31:45
-last_updated: 2026-07-27
+extracted_at: 2026-07-28 17:21:06
+last_updated: 2026-07-28
 ---
 
 # AMZN - Amazon.com, Inc.
@@ -12,7 +12,7 @@ last_updated: 2026-07-27
 ## 基本信息
 
 - **所属行业**: Consumer Cyclical / Internet Retail
-- **提取时间**: 2026-07-27 17:31:45
+- **提取时间**: 2026-07-28 17:21:06
 
 ## 产业链关系
 
@@ -20,38 +20,38 @@ last_updated: 2026-07-27
 - [[Book publishers]]
 - [[Electronics manufacturers]]
 - [[Apparel brands]]
-- [[Consumer electronics makers]]
 - [[Third‑party sellers]]
+- [[AMZN]]
 
 ### 下游客户
 - [[Individual consumers]]
-- [[Small and medium businesses]]
+- [[Small businesses]]
+- [[Enterprise AWS customers]]
 - [[AMZN]]
-- [[AMZN]]
-- [[Digital content subscribers]]
+- [[Prime Video subscribers]]
 
 ### 竞争对手
-- [[Walmart]]
 - [[eBay]]
+- [[Walmart]]
 - [[Alibaba]]
 - [[Shopify]]
-- [[Target]]
+- [[MSFT]]
 
 ### 核心产品
 - [[Amazon.com e‑commerce platform]]
-- [[Amazon Prime subscription]]
 - [[Amazon Web Services (AWS)]]
-- [[Amazon Devices (Echo, Kindle, Fire)]]
+- [[Amazon Prime membership]]
 - [[Amazon Advertising]]
+- [[Amazon Echo (Alexa devices)]]
 
 ## 数据来源
 
 - [Amazon (company)](https://en.wikipedia.org/wiki/Amazon.com,_Inc.)
-- [Amazon.com, Inc. suppliers manufacturers](https://www.alibaba.com/)
-- [Amazon.com, Inc. suppliers manufacturers](https://www.amazon.com/Ooni-Karu-Multi-Fuel-Outdoor-Pizza/dp/B0CB4S7BN9)
+- [Amazon.com, Inc. suppliers manufacturers](https://supply.amazon.com/)
+- [Amazon.com, Inc. suppliers manufacturers](https://www.thesellingguys.com/online-sourcing-buying-wholesalers-distributors/)
 - [Amazon.com, Inc. major customers clients](https://ir.aboutamazon.com/)
-- [Amazon.com, Inc. major customers clients](https://www.linkedin.com/company/amazon/)
+- [Amazon.com, Inc. major customers clients](https://aws.amazon.com/)
 
 ## 元数据
 
-- **更新日期**: 2026-07-27
+- **更新日期**: 2026-07-28

@@ -4,34 +4,34 @@
   "sector": "Financial Services",
   "industry": "Capital Markets",
   "upstream": [
-    "Market data providers (e.g., Bloomberg, Refinitiv)",
-    "AMZN",
-    "Payment processors (e.g., Stripe, Plaid)",
-    "Regulatory technology vendors",
-    "Cybersecurity solutions"
+    "NASDAQ",
+    "NYSE",
+    "Cboe Global Markets",
+    "Bloomberg",
+    "Stripe"
   ],
   "downstream": [
     "Retail investors",
+    "Day traders",
     "High‑frequency traders",
-    "Institutional clients",
-    "Financial advisors",
-    "Corporate clients"
+    "Crypto traders",
+    "Institutional clients (via Robinhood Institutional)"
   ],
   "competitors": [
     "Charles Schwab",
-    "Fidelity Investments",
-    "TD Ameritrade",
     "E*TRADE",
+    "Fidelity",
+    "TD Ameritrade",
     "Webull"
   ],
   "key_products": [
-    "Commission‑free stock trading",
-    "Robinhood Gold premium services",
-    "Options trading",
+    "Commission‑free stock & ETF trading",
+    "Robinhood Gold (margin & extended hours)",
+    "Cash management & debit card",
     "Cryptocurrency trading",
-    "Cash management and interest"
+    "Options trading"
   ],
-  "extracted_at": "2026-07-27 17:39:36",
+  "extracted_at": "2026-07-28 17:30:39",
   "sources": [
     {
       "source": "Wikipedia",
@@ -53,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://investingintheweb.com/brokers/robinhood-statistics/",
+      "url": "https://robinhood.com/",
       "query": "Robinhood Markets, Inc. major customers clients",
-      "snippet": "Jun 23, 2026 · The platform has gained a massive customer base in the US, making it a major disruptor in the finance industry. In this article, we wil"
+      "snippet": "Trade stocks on Robinhood with commission-free investing & advanced trading tools. Access fractional shares, real-time market data, and more."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://investors.robinhood.com/",
+      "url": "https://finance.yahoo.com/quote/HOOD/",
       "query": "Robinhood Markets, Inc. major customers clients",
-      "snippet": "May 31, 2026 · Robinhood Markets , Inc . Investor relations (IR) website contains information about our business for stockholders, potential investors"
+      "snippet": "Find the latest Robinhood Markets , Inc . ( HOOD ) stock quote, history, news and other vital information to help you with your stock trading and inve"
     }
   ]
 }

@@ -4,34 +4,34 @@
   "sector": "Consumer Cyclical",
   "industry": "Auto Manufacturers",
   "upstream": [
-    "Battery cell suppliers (e.g., Panasonic, LG Chem)",
-    "Motor component suppliers",
-    "Electronic control unit suppliers",
-    "Raw material suppliers (lithium, cobalt)",
-    "Software and AI component suppliers"
+    "CAT",
+    "Panasonic",
+    "005930.KS",
+    "LG Chem",
+    "BYD"
   ],
   "downstream": [
     "Individual consumers",
     "Fleet operators",
+    "Utility companies",
     "Government agencies",
-    "Electric vehicle charging infrastructure providers",
-    "Commercial fleet operators"
+    "Commercial businesses"
   ],
   "competitors": [
-    "General Motors",
     "Ford",
+    "General Motors",
     "Volkswagen",
-    "Hyundai",
-    "Toyota"
+    "Toyota",
+    "NIO"
   ],
   "key_products": [
     "Model S",
     "Model 3",
-    "Powerwall",
-    "Powerpack",
-    "Solar panels"
+    "Model X",
+    "Model Y",
+    "Powerwall"
   ],
-  "extracted_at": "2026-07-27 17:30:35",
+  "extracted_at": "2026-07-28 17:20:05",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Tesla,_Inc.",
+      "url": "https://www.suppliersmap.com/tesla",
       "query": "Tesla, Inc. suppliers manufacturers",
-      "snippet": "3 days ago - The practice of vertical integration ... to suppliers and focus on engine manufacturing and final assembly. Tesla generally allows its co"
+      "snippet": "Explore Tesla's key suppliers including CATL and Panasonic for batteries, Samsung for chips, Bosch for braking systems, and STMicroelectronics for pow"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.investopedia.com/ask/answers/052815/who-are-teslas-tsla-main-suppliers.asp",
+      "url": "https://csimarket.com/stocks/TSLA-Suppliers",
       "query": "Tesla, Inc. suppliers manufacturers",
-      "snippet": "November 4, 2025 - Tesla manufactures key components like the electric motor, battery pack, and charger, but relies on suppliers for other parts. Key "
+      "snippet": "4 days ago · Tesla Inc 's Comment on Supply Chain Model S uses over 2,000 purchased parts which we source globally from over 300 suppliers , the major"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/Tesla,_Inc.",
+      "query": "Tesla, Inc. major customers clients",
+      "snippet": "Tesla subsidiary Tesla Energy develops, builds, sells, and installs solar energy generation systems and battery energy storage products (as well as re"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.tesla.com/",
       "query": "Tesla, Inc. major customers clients",
-      "snippet": "Explore limited-time offers on Tesla vehicles. Learn More. Tesla vehicle. Inventory. Find nearby vehicles available for immediate delivery."
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://x.com/Tesla",
-      "query": "Tesla, Inc. major customers clients",
-      "snippet": "post from Tesla 's official account."
+      "snippet": "Tesla is building a world of amazing abundance with AI, electric cars, solar, home batteries and integrated renewable energy solutions for homes and b"
     }
   ]
 }

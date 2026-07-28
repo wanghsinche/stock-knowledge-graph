@@ -3,8 +3,8 @@ ticker: CSCO
 company: Cisco Systems, Inc.
 sector: Technology / Communication Equipment
 industry: Networking & Telecommunications Equipment
-extracted_at: 2026-07-24 17:31:58
-last_updated: 2026-07-24
+extracted_at: 2026-07-28 17:28:43
+last_updated: 2026-07-28
 ---
 
 # CSCO - Cisco Systems, Inc.
@@ -12,46 +12,46 @@ last_updated: 2026-07-24
 ## 基本信息
 
 - **所属行业**: Technology / Communication Equipment / Networking & Telecommunications Equipment
-- **提取时间**: 2026-07-24 17:31:58
+- **提取时间**: 2026-07-28 17:28:43
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Jabil]]
-- [[Flex]]
-- [[Foxconn]]
-- [[Wistron]]
-- [[Celestica]]
+- [[INTC]]
+- [[AVGO]]
+- [[QCOM]]
+- [[TXN]]
+- [[MU]]
 
 ### 下游客户
-- [[AT&T]]
-- [[Verizon]]
-- [[GOOGL]]
-- [[MSFT]]
-- [[AMZN]]
+- [[Enterprise IT departments]]
+- [[CAT]]
+- [[Government agencies]]
+- [[CAT]]
+- [[Large enterprises]]
 
 ### 竞争对手
 - [[JNPR]]
 - [[ANET]]
 - [[Huawei]]
-- [[Netgear]]
-- [[HPQ]]
+- [[Nokia]]
+- [[Ericsson]]
 
 ### 核心产品
 - [[Cisco routers]]
 - [[Cisco switches]]
-- [[Cisco Webex]]
+- [[Cisco firewalls (ASA)]]
+- [[Webex]]
 - [[Cisco Meraki]]
-- [[Cisco ASA firewall]]
 
 ## 数据来源
 
 - [Cisco](https://en.wikipedia.org/wiki/Cisco_Systems,_Inc.)
 - [Cisco Systems, Inc. suppliers manufacturers](https://www.cisco.com/c/dam/en_us/about/supply-chain/cisco-supplier-list.pdf)
 - [Cisco Systems, Inc. suppliers manufacturers](https://www.cisco.com/c/en/us/about/suppliers.html)
-- [Cisco Systems, Inc. major customers clients](https://www.cisco.com/site/us/en/about/case-studies-customer-stories/index.html)
-- [Cisco Systems, Inc. major customers clients](https://www.cisco.com/c/en/us/about/case-studies-customer-success-stories/customer-stories-listing.html)
+- [Cisco Systems, Inc. major customers clients](https://www.cisco.com/)
+- [Cisco Systems, Inc. major customers clients](https://www.linkedin.com/company/cisco)
 
 ## 元数据
 
-- **更新日期**: 2026-07-24
+- **更新日期**: 2026-07-28

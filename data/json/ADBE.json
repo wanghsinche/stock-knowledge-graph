@@ -1,8 +1,8 @@
 {
   "ticker": "ADBE",
   "company_name": "Adobe Inc.",
-  "sector": "Technology",
-  "industry": "Software - Application",
+  "sector": "Technology / Software - Application",
+  "industry": "Computer Software",
   "upstream": [
     "AMZN",
     "MSFT",
@@ -12,30 +12,26 @@
   ],
   "downstream": [
     "ADBE",
-    "ADBE",
-    "ADBE",
-    "ADBE",
-    "ADBE"
+    "Advertising agencies",
+    "Film studios",
+    "CAT",
+    "Media companies"
   ],
   "competitors": [
-    "Corel Corporation",
     "Autodesk",
+    "Corel",
     "MSFT",
     "AAPL",
-    "GOOGL"
+    "Avid"
   ],
   "key_products": [
     "Adobe Photoshop",
     "Adobe Illustrator",
-    "Adobe Acrobat",
+    "Adobe InDesign",
     "Adobe Premiere Pro",
-    "Adobe After Effects",
-    "Adobe Lightroom",
-    "Adobe Creative Cloud",
-    "Adobe Document Cloud",
-    "Adobe Experience Cloud"
+    "Adobe After Effects"
   ],
-  "extracted_at": "2026-07-07 18:07:29",
+  "extracted_at": "2026-07-28 17:31:25",
   "sources": [
     {
       "source": "Wikipedia",
@@ -57,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://pitchgrade.com/companies/adobe",
-      "query": "Adobe Inc. competitors alternatives",
-      "snippet": "Adobe Inc .'s main competitors include Corel Corporation. The company operates in the Software - Application segment of the Technology sector where co"
+      "url": "https://business.adobe.com/customer-success-stories.html",
+      "query": "Adobe Inc. major customers clients",
+      "snippet": "Learn how the world’s leading brands use Adobe for Business to build stronger customer experience, increase productivity and transform the way they do"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.g2.com/products/adobe-after-effects/competitors/alternatives",
-      "query": "Adobe Inc. competitors alternatives",
-      "snippet": "The best Adobe After Effects alternatives are Blender, Unity, and Maya. Find top-ranking free & paid apps similar to Adobe After Effects for your Vide"
+      "url": "https://csimarket.com/stocks/ADBE-Customers",
+      "query": "Adobe Inc. major customers clients",
+      "snippet": "This major update brings unparalleled creativity and productivity to the world of digital documents.Starting from June 18th, Acrobat customers will ga"
     }
   ]
 }

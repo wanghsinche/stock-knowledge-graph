@@ -1,18 +1,18 @@
 ---
 ticker: ADBE
 company: Adobe Inc.
-sector: Technology
-industry: Software - Application
-extracted_at: 2026-07-07 18:07:29
-last_updated: 2026-07-07
+sector: Technology / Software - Application
+industry: Computer Software
+extracted_at: 2026-07-28 17:31:25
+last_updated: 2026-07-28
 ---
 
 # ADBE - Adobe Inc.
 
 ## 基本信息
 
-- **所属行业**: Technology / Software - Application
-- **提取时间**: 2026-07-07 18:07:29
+- **所属行业**: Technology / Software - Application / Computer Software
+- **提取时间**: 2026-07-28 17:31:25
 
 ## 产业链关系
 
@@ -25,37 +25,33 @@ last_updated: 2026-07-07
 
 ### 下游客户
 - [[ADBE]]
-- [[ADBE]]
-- [[ADBE]]
-- [[ADBE]]
-- [[ADBE]]
+- [[Advertising agencies]]
+- [[Film studios]]
+- [[CAT]]
+- [[Media companies]]
 
 ### 竞争对手
-- [[Corel Corporation]]
 - [[Autodesk]]
+- [[Corel]]
 - [[MSFT]]
 - [[AAPL]]
-- [[GOOGL]]
+- [[Avid]]
 
 ### 核心产品
 - [[Adobe Photoshop]]
 - [[Adobe Illustrator]]
-- [[Adobe Acrobat]]
+- [[Adobe InDesign]]
 - [[Adobe Premiere Pro]]
 - [[Adobe After Effects]]
-- [[Adobe Lightroom]]
-- [[Adobe Creative Cloud]]
-- [[Adobe Document Cloud]]
-- [[Adobe Experience Cloud]]
 
 ## 数据来源
 
 - [Adobe Inc.](https://en.wikipedia.org/wiki/Adobe_Inc.)
 - [Adobe Inc. suppliers manufacturers](https://csimarket.com/stocks/ADBE-Suppliers)
 - [Adobe Inc. suppliers manufacturers](https://www.adobe.com/)
-- [Adobe Inc. competitors alternatives](https://pitchgrade.com/companies/adobe)
-- [Adobe Inc. competitors alternatives](https://www.g2.com/products/adobe-after-effects/competitors/alternatives)
+- [Adobe Inc. major customers clients](https://business.adobe.com/customer-success-stories.html)
+- [Adobe Inc. major customers clients](https://csimarket.com/stocks/ADBE-Customers)
 
 ## 元数据
 
-- **更新日期**: 2026-07-07
+- **更新日期**: 2026-07-28

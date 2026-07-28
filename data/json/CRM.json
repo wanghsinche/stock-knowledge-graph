@@ -4,25 +4,25 @@
   "sector": "Technology",
   "industry": "Software - Application",
   "upstream": [
-    "AMZN",
     "MSFT",
+    "AMZN",
     "GOOGL",
     "ORCL",
     "IBM"
   ],
   "downstream": [
-    "Deloitte",
-    "Accenture",
-    "PwC",
-    "KPMG",
-    "EY"
+    "AMZN",
+    "Coca‑Cola",
+    "Toyota",
+    "Unilever",
+    "Walmart"
   ],
   "competitors": [
     "MSFT",
     "ORCL",
     "SAP Sales Cloud",
     "HubSpot",
-    "Zoho CRM"
+    "Zendesk"
   ],
   "key_products": [
     "Sales Cloud",
@@ -31,7 +31,7 @@
     "Commerce Cloud",
     "Einstein AI"
   ],
-  "extracted_at": "2026-07-27 17:38:07",
+  "extracted_at": "2026-07-28 17:27:33",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/Salesforce",
+      "query": "Salesforce, Inc. suppliers manufacturers",
+      "snippet": "Salesforce, Inc ., is an American cloud -based software company headquartered in San Francisco, California. It is primarily known for its customer rel"
+    },
+    {
+      "source": "DuckDuckGo",
       "url": "https://csimarket.com/stocks/CRM-Suppliers",
       "query": "Salesforce, Inc. suppliers manufacturers",
-      "snippet": "Jul 7, 2026 · For your research, we’ve provided nine additional tables on Salesforce Inc ’s suppliers . You can find them in the navigation menu under"
+      "snippet": "Jul 7, 2026 · Sources: Salesforce Inc 's official press releases and regulatory filings; CSIMarket.com's supply -chain research; and the financial fil"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.accio.com/supplier/salesforce-supplier",
-      "query": "Salesforce, Inc. suppliers manufacturers",
-      "snippet": "Apr 29, 2026 · Need Salesforce implementation or customization? Discover 4800+ verified suppliers offering CRM software and support services. Click to"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.linkedin.com/company/salesforce",
+      "url": "https://www.ibirdsservices.com/how-many-companies-use-salesforce-stats-growth-report/",
       "query": "Salesforce, Inc. major customers clients",
-      "snippet": "Salesforce | 6,674,594 followers on LinkedIn. We're the #1 AI CRM—where humans with agents drive customer success together with AI, data, and Customer"
+      "snippet": "Dec 26, 2025 · As of 2025, Salesforce is used by over 150,000 companies worldwide. Its customers include startups, mid-sized businesses, and more than"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://blog.techdatapark.com/top-companies-that-use-salesforce/",
+      "url": "https://www.salesforce.com/customer-stories/",
       "query": "Salesforce, Inc. major customers clients",
-      "snippet": "Deloitte incorporates Salesforce in multiple areas to manage clients and internal workflows. US Bank utilizes Salesforce to improve customer service a"
+      "snippet": "Discover how Salesforce helps 150,000+ companies increase productivity, customer loyalty, and sales revenue — every day."
     }
   ]
 }

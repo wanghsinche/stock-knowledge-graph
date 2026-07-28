@@ -3,8 +3,8 @@ ticker: SPCX
 company: Space Exploration Technologies Corp.
 sector: Industrials
 industry: Aerospace & Defense
-extracted_at: 2026-07-27 17:31:16
-last_updated: 2026-07-27
+extracted_at: 2026-07-28 17:20:46
+last_updated: 2026-07-28
 ---
 
 # SPCX - Space Exploration Technologies Corp.
@@ -12,46 +12,46 @@ last_updated: 2026-07-27
 ## 基本信息
 
 - **所属行业**: Industrials / Aerospace & Defense
-- **提取时间**: 2026-07-27 17:31:16
+- **提取时间**: 2026-07-28 17:20:46
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Steel and aluminum suppliers]]
-- [[Composite material manufacturers]]
-- [[Propellant suppliers]]
-- [[Electronic component suppliers]]
-- [[Avionics and guidance system vendors]]
+- [[Aerojet Rocketdyne]]
+- [[Honeywell Aerospace]]
+- [[Boeing]]
+- [[Lockheed Martin]]
+- [[Northrop Grumman]]
 
 ### 下游客户
 - [[NASA]]
-- [[United States Space Force]]
-- [[Commercial satellite operators]]
-- [[Starlink customers (residential and enterprise)]]
-- [[International space agencies (e.g., ESA, JAXA)]]
+- [[U.S. Department of Defense]]
+- [[Starlink residential and enterprise customers]]
+- [[INTC]]
+- [[Private launch customers (e.g., SpaceX's own launch clients)]]
 
 ### 竞争对手
-- [[Blue Origin]]
 - [[United Launch Alliance]]
 - [[Arianespace]]
+- [[Blue Origin]]
 - [[Rocket Lab]]
-- [[Relativity Space]]
+- [[Virgin Orbit]]
 
 ### 核心产品
-- [[Falcon 9 rocket]]
-- [[Falcon Heavy rocket]]
+- [[Falcon 9 launch vehicle]]
+- [[Falcon Heavy launch vehicle]]
 - [[Starship launch vehicle]]
 - [[Starlink satellite constellation]]
-- [[SpaceX AI and data center services]]
+- [[Grok AI platform]]
 
 ## 数据来源
 
 - [SpaceX](https://en.wikipedia.org/wiki/Space_Exploration_Technologies_Corp.)
-- [Space Exploration Technologies Corp. suppliers manufacturers](https://www.spacex.com/supplier)
-- [Space Exploration Technologies Corp. suppliers manufacturers](https://www.makesureiknowit.com/company/spacex)
+- [Space Exploration Technologies Corp. suppliers manufacturers](https://www.tradingview.com/symbols/NASDAQ-SPCX/)
+- [Space Exploration Technologies Corp. suppliers manufacturers](https://finance.yahoo.com/quote/SPCX/)
 - [Space Exploration Technologies Corp. major customers clients](https://en.wikipedia.org/wiki/SpaceX)
-- [Space Exploration Technologies Corp. major customers clients](https://spaceexplorationtechnologies.com/)
+- [Space Exploration Technologies Corp. major customers clients](https://stockanalysis.com/stocks/spcx/company/)
 
 ## 元数据
 
-- **更新日期**: 2026-07-27
+- **更新日期**: 2026-07-28

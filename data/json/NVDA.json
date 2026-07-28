@@ -6,16 +6,16 @@
   "upstream": [
     "TSM",
     "005930.KS",
-    "GlobalFoundries",
-    "UMC",
-    "ASE"
+    "MU",
+    "SK Hynix",
+    "INTC"
   ],
   "downstream": [
+    "Gaming PC manufacturers (e.g., ASUS, MSI, Gigabyte)",
     "DELL",
-    "HPQ",
-    "Lenovo Group",
     "TSLA",
-    "Ford Motor Co."
+    "MSFT",
+    "Enterprise AI customers (e.g., data‑center operators, research institutions)"
   ],
   "competitors": [
     "AMD",
@@ -26,12 +26,12 @@
   ],
   "key_products": [
     "GeForce RTX GPUs",
-    "Tesla GPUs",
-    "Quadro GPUs",
-    "Jetson SoCs",
-    "CUDA API"
+    "NVIDIA A100 Tensor Core GPU",
+    "NVIDIA DGX AI systems",
+    "NVIDIA Jetson embedded AI platform",
+    "NVIDIA Drive automotive platform"
   ],
-  "extracted_at": "2026-07-27 17:29:49",
+  "extracted_at": "2026-07-28 17:18:59",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,25 +43,25 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Nvidia",
       "query": "NVIDIA Corporation suppliers manufacturers",
-      "snippet": "18 hours ago - In August 2025, Nvidia ordered suppliers to halt production of its H20 AI chip following Chinese government directives warning domestic"
+      "snippet": "15 hours ago - In August 2025, Nvidia ordered suppliers to halt production of its H20 AI chip following Chinese government directives warning domestic"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.moomoo.com/community/feed/nvidia-s-supply-chain-empire-who-powers-the-ai-s-114771677478918",
+      "url": "https://www.accio.com/supplier/nvidia-supplier-list",
       "query": "NVIDIA Corporation suppliers manufacturers",
-      "snippet": "June 30, 2025 - NVIDIA’s suppliers include TSMC in the semiconductor manufacturing field, SK Hynix and $Micron Technology (MU.US)$ in the storage chip"
+      "snippet": "April 24, 2026 - NVIDIA's key suppliers span various critical areas of semiconductor manufacturing and assembly. These include TSMC (Taiwan Semiconduc"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/NVDA-Customers",
+      "url": "https://www.nvidia.com/",
       "query": "NVIDIA Corporation major customers clients",
-      "snippet": "Nvidia customers and markets, results by customer and performance relative to NVDA, by company and industry - CSIMarket"
+      "snippet": "NVIDIA invents the GPU and drives advances in AI, HPC, gaming, creative design, autonomous vehicles, and robotics."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://economictimes.indiatimes.com/news/international/us/two-mystery-customers-made-up-40-of-nvidias-revenue-who-are-they/articleshow/123635412.cms",
+      "url": "https://www.investing.com/equities/nvidia-corp",
       "query": "NVIDIA Corporation major customers clients",
-      "snippet": "Sep 1, 2025 · Nvidia ’s latest earnings grabbed headlines with a jaw-dropping $46.7 billion in quarterly revenue, but buried inside the SEC filing was"
+      "snippet": "View today's NVIDIA Corporation stock price and latest NVDA news and analysis. Create real-time notifications to follow any changes in the live stock "
     }
   ]
 }

@@ -3,11 +3,35 @@
   "company_name": "Lumentum Holdings Inc.",
   "sector": "Technology",
   "industry": "Communication Equipment",
-  "upstream": [],
-  "downstream": [],
-  "competitors": [],
-  "key_products": [],
-  "extracted_at": "2026-07-27 17:35:48",
+  "upstream": [
+    "II-VI Incorporated",
+    "Coherent Inc.",
+    "Lattice Photonics",
+    "Trumpf GmbH + Co. KG",
+    "Lumen Technologies"
+  ],
+  "downstream": [
+    "CSCO",
+    "Huawei Technologies",
+    "Nokia",
+    "JNPR",
+    "Boeing"
+  ],
+  "competitors": [
+    "Coherent Inc.",
+    "II-VI Incorporated",
+    "Trumpf GmbH + Co. KG",
+    "Lattice Photonics",
+    "Lumen Technologies"
+  ],
+  "key_products": [
+    "Laser diodes",
+    "Optical amplifiers",
+    "Photonic integrated circuits",
+    "Fiber‑optic transceivers",
+    "LiDAR components"
+  ],
+  "extracted_at": "2026-07-28 17:23:45",
   "sources": [
     {
       "source": "Wikipedia",
@@ -17,15 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.lumentum.com/",
+      "url": "https://csimarket.com/stocks/LITE-Suppliers",
       "query": "Lumentum Holdings Inc. suppliers manufacturers",
-      "snippet": "Discover how Lumentum enables innovation through optical and photonic technologies for cloud networking, 3D sensing, lasers, and advanced manufacturin"
+      "snippet": "Jul 7, 2026 · Lumentum Holdings Inc supply chain, list and performance of Lumentum Holdings Incs ' suppliers - CSIMarket"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://au.finance.yahoo.com/quote/0JVV.L/profile/",
+      "url": "https://www.lumentum.com/en",
       "query": "Lumentum Holdings Inc. suppliers manufacturers",
-      "snippet": "Lumentum Holdings Inc . manufactures and sells optical and photonic products in the Americas, the Asia-Pacific, Europe, the Middle East, and Africa.Th"
+      "snippet": "Explore the latest news, investor events, and earnings results. Discover how Lumentum enables innovation through optical and photonic technologies for"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://pitchgrade.com/companies/lumentum",
+      "query": "Lumentum Holdings Inc. major customers clients",
+      "snippet": "Customer Segments: Lumentum Holdings Inc . serves multiple distinct customer segments, which may include consumers, small and medium businesses, enter"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.lumentum.com/",
+      "query": "Lumentum Holdings Inc. major customers clients",
+      "snippet": "Discover how Lumentum enables innovation through optical and photonic technologies for cloud networking, 3D sensing, lasers, and advanced manufacturin"
     }
   ]
 }

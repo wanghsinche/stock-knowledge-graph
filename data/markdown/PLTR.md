@@ -1,18 +1,18 @@
 ---
 ticker: PLTR
 company: Palantir Technologies Inc.
-sector: Technology / Software - Infrastructure
-industry: Data Integration & Analytics Software
-extracted_at: 2026-07-27 17:32:37
-last_updated: 2026-07-27
+sector: Technology
+industry: Software - Infrastructure
+extracted_at: 2026-07-28 17:22:15
+last_updated: 2026-07-28
 ---
 
 # PLTR - Palantir Technologies Inc.
 
 ## 基本信息
 
-- **所属行业**: Technology / Software - Infrastructure / Data Integration & Analytics Software
-- **提取时间**: 2026-07-27 17:32:37
+- **所属行业**: Technology / Software - Infrastructure
+- **提取时间**: 2026-07-28 17:22:15
 
 ## 产业链关系
 
@@ -20,37 +20,38 @@ last_updated: 2026-07-27
 - [[AMZN]]
 - [[MSFT]]
 - [[GOOGL]]
-- [[IBM]]
 - [[ORCL]]
+- [[IBM]]
 
 ### 下游客户
 - [[U.S. Department of Defense]]
-- [[Federal Bureau of Investigation]]
-- [[JPMorgan Chase]]
-- [[Walmart]]
-- [[Airbus]]
+- [[U.S. Department of Justice]]
+- [[Financial institutions (e.g., JPMorgan Chase)]]
+- [[Healthcare providers (e.g., Mayo Clinic)]]
+- [[Construction & engineering firms]]
 
 ### 竞争对手
 - [[Snowflake]]
 - [[Databricks]]
-- [[Splunk]]
-- [[CRM]]
-- [[Qlik]]
+- [[MSFT]]
+- [[IBM]]
+- [[SAS Institute]]
 
 ### 核心产品
 - [[Palantir Foundry]]
 - [[Palantir Gotham]]
 - [[Palantir Apollo]]
 - [[Palantir Helix]]
+- [[Palantir Data Lake]]
 
 ## 数据来源
 
 - [Palantir](https://en.wikipedia.org/wiki/Palantir_Technologies_Inc.)
 - [Palantir Technologies Inc. suppliers manufacturers](https://csimarket.com/stocks/PLTR-Suppliers)
-- [Palantir Technologies Inc. suppliers manufacturers](https://fintel.io/doc/sec-palantir-technologies-inc-1321655-ex211-2023-february-21-19410-4071)
-- [Palantir Technologies Inc. major customers clients](https://en.wikipedia.org/wiki/Palantir)
-- [Palantir Technologies Inc. major customers clients](https://finance.yahoo.com/quote/PLTR/)
+- [Palantir Technologies Inc. suppliers manufacturers](https://www.palantir.com/partners/technical/)
+- [Palantir Technologies Inc. major customers clients](https://csimarket.com/stocks/PLTR-Customers)
+- [Palantir Technologies Inc. major customers clients](https://data.landbase.com/technology/palantir/)
 
 ## 元数据
 
-- **更新日期**: 2026-07-27
+- **更新日期**: 2026-07-28

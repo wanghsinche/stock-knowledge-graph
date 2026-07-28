@@ -3,11 +3,35 @@
   "company_name": "Bloom Energy Corporation",
   "sector": "Industrials",
   "industry": "Electrical Equipment & Parts",
-  "upstream": [],
-  "downstream": [],
-  "competitors": [],
-  "key_products": [],
-  "extracted_at": "2026-07-27 17:35:25",
+  "upstream": [
+    "Hydrogen suppliers",
+    "Natural gas suppliers",
+    "Electrolyzer component manufacturers",
+    "Fuel cell stack suppliers",
+    "META"
+  ],
+  "downstream": [
+    "AMZN",
+    "GOOGL",
+    "MSFT",
+    "IBM",
+    "META"
+  ],
+  "competitors": [
+    "Plug Power",
+    "FuelCell Energy",
+    "NexGen Energy",
+    "PowerCell",
+    "Sierra Energy"
+  ],
+  "key_products": [
+    "Solid Oxide Fuel Cells (SOFCs)",
+    "Electrolyzers for hydrogen production",
+    "On‑site power generation units",
+    "Hydrogen production systems",
+    "Power management software"
+  ],
+  "extracted_at": "2026-07-28 17:25:57",
   "sources": [
     {
       "source": "Wikipedia",
@@ -17,15 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Bloom_Energy",
+      "url": "https://www.petrochemical.com/suppliers/bloom-energy-corporation",
       "query": "Bloom Energy Corporation suppliers manufacturers",
-      "snippet": "Bloom Energy (formerly, Ion America) is an American public company that designs and manufactures solid oxide fuel cells (SOFCs) which independently pr"
+      "snippet": "Bloom Energy Corporation is a Hydrogen supplier based in San Jose, United States of America. View company profile, contact details, and related suppli"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.bloomenergy.com/supplychain/",
+      "url": "https://ca.finance.yahoo.com/quote/BE/",
       "query": "Bloom Energy Corporation suppliers manufacturers",
-      "snippet": "©2026 Bloom Energy . All rights reserved."
+      "snippet": "Bloom Energy Corporation OverviewElectrical Equipment & Parts / Industrials. Bloom Energy Corporation designs, manufactures , sells, and installs soli"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.bloomenergy.com/",
+      "query": "Bloom Energy Corporation major customers clients",
+      "snippet": "Bloom Energy delivers clean, reliable, scalable onsite power to multiple industries, installed in as little as three months.Fast to Deploy. Bloom ’s E"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://tickerspark.ai/research/be",
+      "query": "Bloom Energy Corporation major customers clients",
+      "snippet": "Bloom Energy is scaling fast on surging AI and industrial demand, with record revenue, a $6B product backlog, and raised 2026 guidance. The stock look"
     }
   ]
 }

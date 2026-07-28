@@ -2,36 +2,36 @@
   "ticker": "VRT",
   "company_name": "Vertiv Holdings Co",
   "sector": "Industrials / Electrical Equipment & Parts",
-  "industry": "Data Center Infrastructure",
+  "industry": "Data Center Infrastructure & Electrical Equipment",
   "upstream": [
-    "Power supply manufacturers",
+    "Power electronics manufacturers",
     "Cooling system suppliers",
-    "Networking equipment vendors",
     "Electronic component suppliers",
-    "Industrial automation providers"
+    "Industrial equipment suppliers",
+    "Software platform providers"
   ],
   "downstream": [
-    "Data center operators",
-    "CAT",
-    "Cloud service providers",
-    "Enterprise IT departments",
-    "Government agencies"
+    "AMZN",
+    "GOOGL",
+    "MSFT",
+    "Telecom operators",
+    "Financial institutions"
   ],
   "competitors": [
     "Schneider Electric",
-    "Eaton",
     "ABB",
-    "CSCO",
-    "HPQ"
+    "Eaton",
+    "Delta Electronics",
+    "Rittal"
   ],
   "key_products": [
     "Uninterruptible Power Supplies (UPS)",
-    "Rack‑mount power distribution units",
-    "Data center cooling systems",
-    "Environmental monitoring solutions",
-    "Network infrastructure equipment"
+    "Power Distribution Units (PDUs)",
+    "Cooling systems",
+    "Rack‑mount infrastructure",
+    "Environmental monitoring solutions"
   ],
-  "extracted_at": "2026-07-17 17:08:31",
+  "extracted_at": "2026-07-28 17:30:12",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.vertiv.com/en-emea/",
+      "url": "https://www.vertiv.com/en-us/about/supplier/",
       "query": "Vertiv Holdings Co suppliers manufacturers",
-      "snippet": "Vertiv is a global leader in critical digital infrastructure for applications in data centers, communication networks, and commercial and industrial e"
+      "snippet": "Actively support all Vertiv quality requirements and standards Demonstrate a commitment to superior customer service through the application of perfor"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/technology/ai/articles/vertiv-vrt-buys-thermokey-grow-130831711.html",
+      "url": "https://partners.vertiv.com/English/directory",
       "query": "Vertiv Holdings Co suppliers manufacturers",
-      "snippet": "Vertiv Holdings Co (NYSE:VRT) has completed its acquisition of Italian cooling specialist ThermoKey. The deal adds dry coolers and heat exchangers com"
+      "snippet": "Easily find Vertiv partners and distributors worldwide using the comprehensive Partner Locator tool."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Vertiv",
+      "url": "https://www.stockjabber.com/company/VRT/company-insights",
       "query": "Vertiv Holdings Co major customers clients",
-      "snippet": "Vertiv Holdings Co . is an American provider of infrastructure and services for data centers, communication networks, and commercial and industrial en"
+      "snippet": "Explore Vertiv Holdings Co 's business overview, products, customer base, competitors, revenue model, specialties, and geographic presence in one deta"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.appsruntheworld.com/customers-database/vendors/view/vertiv",
+      "url": "https://247wallst.com/investing/2026/07/25/3-major-reasons-to-buy-vertiv-before-july-29-q2-earnings/",
       "query": "Vertiv Holdings Co major customers clients",
-      "snippet": "List of companies using or evaluating Vertiv applications, with details on their revenues, employees, industries, and locations."
+      "snippet": "Vertiv Holdings (NYSE:VRT | VRT Price Prediction) reports Q2 2026 earnings on July 29 with a $15 billion backlog and management forecasting 50% to 52%"
     }
   ]
 }

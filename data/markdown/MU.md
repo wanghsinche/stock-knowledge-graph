@@ -3,8 +3,8 @@ ticker: MU
 company: Micron Technology, Inc.
 sector: Technology
 industry: Semiconductors
-extracted_at: 2026-07-27 17:29:27
-last_updated: 2026-07-27
+extracted_at: 2026-07-28 17:18:27
+last_updated: 2026-07-28
 ---
 
 # MU - Micron Technology, Inc.
@@ -12,7 +12,7 @@ last_updated: 2026-07-27
 ## 基本信息
 
 - **所属行业**: Technology / Semiconductors
-- **提取时间**: 2026-07-27 17:29:27
+- **提取时间**: 2026-07-28 17:18:27
 
 ## 产业链关系
 
@@ -25,33 +25,33 @@ last_updated: 2026-07-27
 
 ### 下游客户
 - [[AAPL]]
-- [[005930.KS]]
 - [[DELL]]
 - [[HPQ]]
-- [[NVDA]]
+- [[Lenovo]]
+- [[005930.KS]]
 
 ### 竞争对手
 - [[005930.KS]]
 - [[SK Hynix]]
 - [[WDC]]
-- [[STX]]
 - [[INTC]]
+- [[NVDA]]
 
 ### 核心产品
 - [[Dynamic Random-Access Memory (DRAM)]]
 - [[NAND Flash Memory]]
 - [[High Bandwidth Memory (HBM)]]
 - [[Solid-State Drives (SSDs)]]
-- [[Embedded DRAM (eDRAM)]]
+- [[Memory Modules]]
 
 ## 数据来源
 
 - [Micron Technology](https://en.wikipedia.org/wiki/Micron_Technology,_Inc.)
-- [Micron Technology, Inc. suppliers manufacturers](https://www.micron.com/about/company/suppliers)
-- [Micron Technology, Inc. suppliers manufacturers](https://www.micron.com/sales-support/sales-network/find-a-manufacturer)
-- [Micron Technology, Inc. major customers clients](https://www.micron.com/)
-- [Micron Technology, Inc. major customers clients](https://finance.yahoo.com/quote/MU/)
+- [Micron Technology, Inc. suppliers manufacturers](https://www.micron.com/)
+- [Micron Technology, Inc. suppliers manufacturers](https://finance.yahoo.com/quote/MU/)
+- [Micron Technology, Inc. major customers clients](https://en.wikipedia.org/wiki/Micron_Technology)
+- [Micron Technology, Inc. major customers clients](https://csimarket.com/stocks/markets_glance.php?code=MU)
 
 ## 元数据
 
-- **更新日期**: 2026-07-27
+- **更新日期**: 2026-07-28

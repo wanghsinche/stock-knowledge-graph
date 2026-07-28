@@ -3,8 +3,8 @@ ticker: IBM
 company: International Business Machines Corporation
 sector: Technology
 industry: Information Technology Services
-extracted_at: 2026-07-27 17:40:07
-last_updated: 2026-07-27
+extracted_at: 2026-07-28 17:27:20
+last_updated: 2026-07-28
 ---
 
 # IBM - International Business Machines Corporation
@@ -12,7 +12,7 @@ last_updated: 2026-07-27
 ## 基本信息
 
 - **所属行业**: Technology / Information Technology Services
-- **提取时间**: 2026-07-27 17:40:07
+- **提取时间**: 2026-07-28 17:27:20
 
 ## 产业链关系
 
@@ -20,22 +20,22 @@ last_updated: 2026-07-27
 - [[INTC]]
 - [[AMD]]
 - [[NVDA]]
-- [[CSCO]]
 - [[DELL]]
+- [[CSCO]]
 
 ### 下游客户
-- [[U.S. Department of Defense]]
+- [[U.S. Federal Government]]
+- [[European Union]]
 - [[JPMorgan Chase]]
-- [[Bank of America]]
-- [[UnitedHealth Group]]
-- [[NASA]]
+- [[Mayo Clinic]]
+- [[AT&T]]
 
 ### 竞争对手
-- [[MSFT]]
-- [[AMZN]]
-- [[GOOGL]]
-- [[ORCL]]
 - [[Accenture]]
+- [[Deloitte]]
+- [[Capgemini]]
+- [[Tata Consultancy Services]]
+- [[Infosys]]
 
 ### 核心产品
 - [[IBM Cloud]]
@@ -47,11 +47,11 @@ last_updated: 2026-07-27
 ## 数据来源
 
 - [IBM](https://en.wikipedia.org/wiki/International_Business_Machines_Corporation)
+- [International Business Machines Corporation suppliers manufacturers](https://ru.wikipedia.org/wiki/IBM)
 - [International Business Machines Corporation suppliers manufacturers](https://finance.yahoo.com/quote/IBM/)
-- [International Business Machines Corporation suppliers manufacturers](https://finviz.com/stock?t=IBM)
-- [International Business Machines Corporation major customers clients](https://en.wikipedia.org/wiki/IBM)
-- [International Business Machines Corporation major customers clients](https://csimarket.com/stocks/IBM-Customers)
+- [International Business Machines Corporation major customers clients](https://finance.yahoo.com/quote/IBM/)
+- [International Business Machines Corporation major customers clients](https://finviz.com/stock?t=IBM)
 
 ## 元数据
 
-- **更新日期**: 2026-07-27
+- **更新日期**: 2026-07-28

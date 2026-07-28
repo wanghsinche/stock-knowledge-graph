@@ -4,34 +4,34 @@
   "sector": "Technology / Communication Equipment",
   "industry": "Networking & Telecommunications Equipment",
   "upstream": [
-    "Jabil",
-    "Flex",
-    "Foxconn",
-    "Wistron",
-    "Celestica"
+    "INTC",
+    "AVGO",
+    "QCOM",
+    "TXN",
+    "MU"
   ],
   "downstream": [
-    "AT&T",
-    "Verizon",
-    "GOOGL",
-    "MSFT",
-    "AMZN"
+    "Enterprise IT departments",
+    "CAT",
+    "Government agencies",
+    "CAT",
+    "Large enterprises"
   ],
   "competitors": [
     "JNPR",
     "ANET",
     "Huawei",
-    "Netgear",
-    "HPQ"
+    "Nokia",
+    "Ericsson"
   ],
   "key_products": [
     "Cisco routers",
     "Cisco switches",
-    "Cisco Webex",
-    "Cisco Meraki",
-    "Cisco ASA firewall"
+    "Cisco firewalls (ASA)",
+    "Webex",
+    "Cisco Meraki"
   ],
-  "extracted_at": "2026-07-24 17:31:58",
+  "extracted_at": "2026-07-28 17:28:43",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,25 +43,25 @@
       "source": "DuckDuckGo",
       "url": "https://www.cisco.com/c/dam/en_us/about/supply-chain/cisco-supplier-list.pdf",
       "query": "Cisco Systems, Inc. suppliers manufacturers",
-      "snippet": "Below is an alphabetical list of Cisco Contract Manufacturers , strategic Original Design Manufacturers , Joint Development Manufacturers , and Compon"
+      "snippet": "Cisco Supplier List Cisco products are made by a complex global network of manufacturing partners and component suppliers . To learn more about how we"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.cisco.com/c/en/us/about/suppliers.html",
       "query": "Cisco Systems, Inc. suppliers manufacturers",
-      "snippet": "Access Cisco’ s supplier platforms and the most-used resources. Cisco leverages a premier, strategic supplier network for our goods and services and h"
+      "snippet": "As a worldwide technology leader, Cisco leverages a premier, strategic supplier network across our business operations—managed by Global Procurement S"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.cisco.com/site/us/en/about/case-studies-customer-stories/index.html",
+      "url": "https://www.cisco.com/",
       "query": "Cisco Systems, Inc. major customers clients",
-      "snippet": "Read Cisco case studies and customer success stories highlighting the ways organizations have realized their goals and helped drive outcomes."
+      "snippet": "Cisco is a worldwide technology leader powering an inclusive future for all. Learn more about our products, services, solutions, and innovations.39M N"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.cisco.com/c/en/us/about/case-studies-customer-success-stories/customer-stories-listing.html",
+      "url": "https://www.linkedin.com/company/cisco",
       "query": "Cisco Systems, Inc. major customers clients",
-      "snippet": "Customer case studies highlighting customer and partner success with Cisco technology and services. Find your Industry."
+      "snippet": "Cisco Meraki Systems Manager. Cisco Meraki Systems Manager. Mobile Device Management (MDM) Software. Cisco Secure Malware Analytics, Threat Intelligen"
     }
   ]
 }

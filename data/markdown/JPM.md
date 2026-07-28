@@ -3,8 +3,8 @@ ticker: JPM
 company: JPMorgan Chase & Co.
 sector: Financial Services
 industry: Banks - Diversified
-extracted_at: 2026-07-27 17:37:22
-last_updated: 2026-07-27
+extracted_at: 2026-07-28 17:31:59
+last_updated: 2026-07-28
 ---
 
 # JPM - JPMorgan Chase & Co.
@@ -12,23 +12,23 @@ last_updated: 2026-07-27
 ## 基本信息
 
 - **所属行业**: Financial Services / Banks - Diversified
-- **提取时间**: 2026-07-27 17:37:22
+- **提取时间**: 2026-07-28 17:31:59
 
 ## 产业链关系
 
 ### 上游供应商
 - [[MSFT]]
-- [[Consulting firms (e.g., Accenture, Deloitte)]]
-- [[Legal and compliance service providers]]
-- [[Cybersecurity vendors]]
-- [[Financial data providers (e.g., Bloomberg, Refinitiv)]]
+- [[ORCL]]
+- [[Accenture]]
+- [[Deloitte]]
+- [[Equinix]]
 
 ### 下游客户
-- [[Retail banking customers]]
-- [[Small and medium business clients]]
-- [[Large corporate clients]]
-- [[Institutional investors]]
-- [[Government and public sector entities]]
+- [[Retail customers]]
+- [[Corporate clients]]
+- [[Government agencies]]
+- [[High net worth individuals]]
+- [[SMEs]]
 
 ### 竞争对手
 - [[Bank of America]]
@@ -39,19 +39,19 @@ last_updated: 2026-07-27
 
 ### 核心产品
 - [[Retail banking services]]
-- [[Corporate and investment banking]]
-- [[Wealth and asset management]]
-- [[Credit card and consumer lending]]
-- [[Treasury and cash management]]
+- [[Commercial banking services]]
+- [[Investment banking and advisory]]
+- [[Asset management]]
+- [[Wealth management]]
 
 ## 数据来源
 
 - [JPMorgan Chase](https://en.wikipedia.org/wiki/JPMorgan_Chase_&_Co.)
-- [JPMorgan Chase & Co. suppliers manufacturers](https://en.wikipedia.org/wiki/JPMorgan_Chase)
-- [JPMorgan Chase & Co. suppliers manufacturers](https://ru.wikipedia.org/wiki/JPMorgan_Chase)
+- [JPMorgan Chase & Co. suppliers manufacturers](https://suppliercentral.jpmchase.com/)
+- [JPMorgan Chase & Co. suppliers manufacturers](https://jpmorganchase.suppliergateway.com/)
 - [JPMorgan Chase & Co. major customers clients](https://en.wikipedia.org/wiki/JPMorgan_Chase)
-- [JPMorgan Chase & Co. major customers clients](https://www.jpmorganchase.com/)
+- [JPMorgan Chase & Co. major customers clients](https://csimarket.com/stocks/JPM-Customers)
 
 ## 元数据
 
-- **更新日期**: 2026-07-27
+- **更新日期**: 2026-07-28

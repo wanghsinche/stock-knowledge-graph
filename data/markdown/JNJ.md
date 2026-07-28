@@ -3,8 +3,8 @@ ticker: JNJ
 company: Johnson & Johnson
 sector: Healthcare
 industry: Drug Manufacturers - General
-extracted_at: 2026-07-27 17:42:30
-last_updated: 2026-07-27
+extracted_at: 2026-07-28 17:30:29
+last_updated: 2026-07-28
 ---
 
 # JNJ - Johnson & Johnson
@@ -12,37 +12,37 @@ last_updated: 2026-07-27
 ## 基本信息
 
 - **所属行业**: Healthcare / Drug Manufacturers - General
-- **提取时间**: 2026-07-27 17:42:30
+- **提取时间**: 2026-07-28 17:30:29
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Active pharmaceutical ingredient (API) suppliers]]
-- [[Biotechnology contract manufacturers]]
+- [[Active Pharmaceutical Ingredient (API) manufacturers]]
+- [[Chemical raw material suppliers]]
+- [[Packaging suppliers]]
+- [[Contract manufacturing organizations (CMOs)]]
 - [[Medical device component suppliers]]
-- [[Packaging and labeling vendors]]
-- [[Raw material suppliers (chemicals, polymers)]]
 
 ### 下游客户
 - [[Hospitals and health systems]]
-- [[Pharmacies and drugstores]]
-- [[Healthcare providers (clinics, outpatient centers)]]
-- [[Retail consumers (over‑the‑counter products)]]
-- [[Government health agencies]]
+- [[Retail pharmacies (e.g., CVS, Walgreens)]]
+- [[Health insurance providers]]
+- [[Government health agencies (e.g., Medicare, Medicaid)]]
+- [[International healthcare distributors]]
 
 ### 竞争对手
 - [[Pfizer]]
 - [[Merck & Co.]]
 - [[AbbVie]]
-- [[Bristol‑Myers Squibb]]
+- [[Bristol Myers Squibb]]
 - [[Amgen]]
 
 ### 核心产品
-- [[Remicade (infliximab) – biologic therapy]]
-- [[Stelara (ustekinumab) – immunology drug]]
-- [[Tylenol (acetaminophen) – OTC pain reliever]]
-- [[Band‑Aid adhesive bandages – consumer health]]
-- [[Acuvue contact lenses – vision care]]
+- [[Tylenol (acetaminophen)]]
+- [[Band-Aid (adhesive bandages)]]
+- [[Neutrogena skincare]]
+- [[Remicade (infliximab)]]
+- [[Xarelto (apixaban)]]
 
 ## 数据来源
 
@@ -54,4 +54,4 @@ last_updated: 2026-07-27
 
 ## 元数据
 
-- **更新日期**: 2026-07-27
+- **更新日期**: 2026-07-28

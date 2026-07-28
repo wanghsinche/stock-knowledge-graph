@@ -4,34 +4,34 @@
   "sector": "Technology",
   "industry": "Software - Infrastructure",
   "upstream": [
-    "INTC",
-    "AMD",
+    "DELL",
     "NVDA",
-    "QCOM",
-    "TSM"
+    "GOOGL",
+    "Software component vendors (e.g., Red Hat, VMware)",
+    "CAT"
   ],
   "downstream": [
-    "AMZN",
-    "GOOGL",
-    "005930.KS",
-    "SONY",
-    "Enterprise customers"
+    "Enterprise customers (e.g., banks, government agencies)",
+    "Small and medium businesses using Office 365",
+    "Consumers purchasing Windows PCs and Surface devices",
+    "Game developers and publishers using Xbox Live",
+    "MSFT"
   ],
   "competitors": [
     "AAPL",
     "GOOGL",
     "AMZN",
     "ORCL",
-    "CRM"
+    "IBM"
   ],
   "key_products": [
-    "Windows",
-    "Microsoft Office",
-    "Azure",
-    "Xbox",
-    "Teams"
+    "Windows operating system",
+    "Microsoft Office suite",
+    "Azure cloud platform",
+    "Microsoft 365 productivity services",
+    "Xbox gaming console and services"
   ],
-  "extracted_at": "2026-07-27 17:31:05",
+  "extracted_at": "2026-07-28 17:20:20",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/markets_glance.php?code=MSFT",
+      "url": "https://csimarket.com/stocks/MSFT-Suppliers",
       "query": "Microsoft Corporation suppliers manufacturers",
-      "snippet": "Microsoft customers and markets, results by customer and performance relative to MSFT, by company and industry - CSIMarket."
+      "snippet": "Jul 7, 2026 · Microsoft's Suppliers recorded an increase in sales by 41.5 % year on year in Q1 2026, sequentially sales grew by 10.71 %, Microsoft rec"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://marketplace.diaglobal.org/listing/microsoft-corporation",
+      "url": "https://evidinvest.com/supply-chain/MSFT",
       "query": "Microsoft Corporation suppliers manufacturers",
-      "snippet": "Home Suppliers Microsoft Corporation . Microsoft Corporation . Sorry, but we don't have an email address for this listing."
+      "snippet": "Who supplies Microsoft Corporation and who buys from it? Mapped suppliers , customers, partners, and competitors of MSFT, every relationship anchored "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://copilot.microsoft.com/",
+      "url": "https://csimarket.com/stocks/MSFT-Customers",
       "query": "Microsoft Corporation major customers clients",
-      "snippet": "Microsoft Copilot — ваш компаньон для информирования, развлечения и вдохновения. Получайте советы, отзывы и прямые ответы."
+      "snippet": "3 days ago · Microsoft customers and markets, results by customer and performance relative to MSFT, by company and industry - CSIMarket"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.linkedin.com/company/microsoft",
+      "url": "https://www.microsoft.com/en-us/customers/",
       "query": "Microsoft Corporation major customers clients",
-      "snippet": "Microsoft | 28,678,934 followers on LinkedIn. Every company has a mission. What's ours? To empower every person and every organization to achieve more"
+      "snippet": "Explore customer success stories to learn how businesses are overcoming challenges, driving innovation, and achieving more with Microsoft solutions."
     }
   ]
 }

@@ -3,11 +3,35 @@
   "company_name": "Coherent Corp.",
   "sector": "Technology",
   "industry": "Scientific & Technical Instruments",
-  "upstream": [],
-  "downstream": [],
-  "competitors": [],
-  "key_products": [],
-  "extracted_at": "2026-07-10 17:55:39",
+  "upstream": [
+    "Optical glass manufacturers",
+    "CAT",
+    "Laser diode component suppliers",
+    "Photonic integrated circuit (PIC) material providers",
+    "Fiber optic cable manufacturers"
+  ],
+  "downstream": [
+    "CAT",
+    "Aerospace and defense contractors",
+    "Medical imaging equipment manufacturers",
+    "Industrial laser system integrators",
+    "Scientific research laboratories"
+  ],
+  "competitors": [
+    "Lumentum Holdings",
+    "II-VI Incorporated",
+    "Trumpf GmbH + Co. KG",
+    "Coherent, Inc. (pre‑acquisition)",
+    "Coherent Technologies"
+  ],
+  "key_products": [
+    "High‑power fiber lasers",
+    "Laser diodes and modules",
+    "Photonic integrated circuits (PICs)",
+    "Optical components (lenses, mirrors, gratings)",
+    "Laser systems for industrial and scientific use"
+  ],
+  "extracted_at": "2026-07-28 17:31:07",
   "sources": [
     {
       "source": "Wikipedia",
@@ -17,15 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Coherent_Corp.",
+      "url": "https://www.coherent.com/company",
       "query": "Coherent Corp. suppliers manufacturers",
+      "snippet": "Coherent is the global photonics leader. We harness photons to drive innovation. Industry leaders in the datacenter, communications, and industrial ma"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.coherent.com/legal/list-of-the-subsidiaries",
+      "query": "Coherent Corp. suppliers manufacturers",
+      "snippet": "Coherent Corp . operates a global network of subsidiary companies."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/Coherent_Corp.",
+      "query": "Coherent Corp. major customers clients",
       "snippet": "Coherent Corp . is an American manufacturer of optical materials and semiconductors. As of 2023, the company had 26,622 employees. Its stock is listed"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.coherent.com/",
-      "query": "Coherent Corp. suppliers manufacturers",
-      "snippet": "Learn how Coherent empowers innovations and breakthrough technologies for the industrial, communications, electronics, and instrumentation markets."
+      "url": "https://csimarket.com/stocks/COHR-Customers",
+      "query": "Coherent Corp. major customers clients",
+      "snippet": "Coherent customers and markets, results by customer and performance relative to COHR, by company and industry - CSIMarket.For your research, we’ve pro"
     }
   ]
 }

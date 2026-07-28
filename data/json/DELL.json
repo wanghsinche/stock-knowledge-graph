@@ -4,34 +4,34 @@
   "sector": "Technology",
   "industry": "Computer Hardware",
   "upstream": [
-    "Foxconn",
-    "Pegatron",
-    "Wistron",
-    "Quanta Computer",
-    "Compal Electronics"
+    "INTC",
+    "AMD",
+    "NVDA",
+    "005930.KS",
+    "MU"
   ],
   "downstream": [
-    "Enterprise IT departments",
     "Government agencies",
+    "Enterprise IT customers",
     "CAT",
-    "Healthcare providers",
-    "Retail and e‑commerce companies"
+    "Healthcare organizations",
+    "Retailers"
   ],
   "competitors": [
     "HPQ",
-    "Lenovo",
+    "Lenovo Group",
     "AAPL",
-    "Acer",
-    "MSFT"
+    "IBM",
+    "CSCO"
   ],
   "key_products": [
-    "Personal computers (desktops & laptops)",
-    "Servers (PowerEdge)",
-    "Storage solutions (Dell EMC)",
-    "Networking equipment (Dell Networking)",
-    "Security & cloud services"
+    "Personal computers",
+    "Servers",
+    "Monitors",
+    "Computer software",
+    "Computer security"
   ],
-  "extracted_at": "2026-07-27 17:36:45",
+  "extracted_at": "2026-07-28 17:23:56",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,25 +41,25 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.delltechnologies.com/asset/pl-pl/solutions/business-solutions/briefs-summaries/dell-public-supplier-list.pdf",
+      "url": "https://www.dell.com/en-us",
       "query": "Dell Technologies Inc. suppliers manufacturers",
-      "snippet": "The list of supplier facilities includes original design manufacturers (ODMs), final assembly and material suppliers that Dell buys from directly and/"
+      "snippet": "Dell provides technology solutions, services & support. Buy Laptops, Touch Screen PCs, Desktops, Servers, Storage, Monitors, Gaming & Accessories."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/DELL-Suppliers",
+      "url": "https://scminsight.com/value-chain-analysis-of-dell/",
       "query": "Dell Technologies Inc. suppliers manufacturers",
-      "snippet": "Jul 7, 2026 · Dell Technologies Inc 's Comment on Supply Chain The company procures materials, supplies , product components, and products from numero"
+      "snippet": "Dell Technologies Inc . is an American technology and computer-related products and services providing multinational company.They’re material supplier"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://csimarket.com/stocks/DELL-Customers",
       "query": "Dell Technologies Inc. major customers clients",
-      "snippet": "2 days ago · For your research, we’ve provided 9 tables on Dell Technologies Inc corporate clients . You can find them in the navigation menu under Cu"
+      "snippet": "1 day ago · Dell Technologies operates in over 170 countries, delivering AI-optimized, software-defined, and cloud-native infrastructure solutions. Th"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.dell.com/en-us/lp/dt/customer-stories",
+      "url": "https://www.dell.com/en-us/dt/case-studies-customer-stories/index.htm",
       "query": "Dell Technologies Inc. major customers clients",
       "snippet": "The Dell Technologies digital transformation library showcases how some of the largest brands bring their ideas to life, and their products to market."
     }

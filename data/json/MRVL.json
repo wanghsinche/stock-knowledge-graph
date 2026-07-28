@@ -4,33 +4,34 @@
   "sector": "Technology",
   "industry": "Semiconductors",
   "upstream": [
-    "TSM",
-    "005930.KS",
-    "GlobalFoundries",
-    "UMC"
+    "ASML",
+    "AMAT",
+    "LRCX",
+    "Tokyo Electron",
+    "KLA"
   ],
   "downstream": [
+    "AAPL",
     "CSCO",
-    "Huawei",
-    "DELL",
-    "Lenovo",
-    "JNPR"
+    "005930.KS",
+    "QCOM",
+    "Huawei"
   ],
   "competitors": [
     "AVGO",
     "QCOM",
     "INTC",
     "NVDA",
-    "MediaTek"
+    "TXN"
   ],
   "key_products": [
-    "Network processors",
-    "Ethernet controllers",
-    "Wi‑Fi chips",
+    "System-on-Chip (SoC) solutions",
+    "Networking and Ethernet controllers",
     "Storage controllers",
-    "5G modems"
+    "5G modem solutions",
+    "Wi-Fi and Bluetooth chips"
   ],
-  "extracted_at": "2026-07-27 17:32:55",
+  "extracted_at": "2026-07-28 17:22:48",
   "sources": [
     {
       "source": "Wikipedia",
@@ -46,9 +47,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://evidinvest.com/supply-chain/MRVL",
+      "url": "https://csimarket.com/stocks/MRVL-Suppliers",
       "query": "Marvell Technology, Inc. suppliers manufacturers",
-      "snippet": "Who supplies Marvell Technology and who buys from it? Mapped suppliers , customers, partners, and competitors of MRVL, every relationship anchored to "
+      "snippet": "Jul 7, 2026 · Marvell Technology Inc 's Suppliers recorded an increase in sales by 27.29 % year on year in Q1 2026, sequentially sales grew by 12.95 %"
     },
     {
       "source": "DuckDuckGo",
@@ -58,9 +59,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/MRVL-Customers",
+      "url": "https://www.marvell.com/",
       "query": "Marvell Technology, Inc. major customers clients",
-      "snippet": "2 days ago · Our target customers are original equipment manufacturers and original design manufacturers, both of which design and manufacture end mar"
+      "snippet": "Designed for your current needs and future ambitions, Marvell delivers the data infrastructure technology transforming tomorrow’s enterprise, cloud, a"
     }
   ]
 }

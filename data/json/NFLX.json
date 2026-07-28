@@ -4,34 +4,34 @@
   "sector": "Communication Services",
   "industry": "Entertainment",
   "upstream": [
-    "Warner Bros. Discovery",
-    "Disney",
-    "AMZN",
-    "SONY",
-    "Universal Studios"
+    "Content production studios (e.g., Warner Bros., Disney, Universal)",
+    "005930.KS",
+    "MSFT",
+    "AAPL",
+    "Content licensing agencies and distributors"
   ],
   "downstream": [
-    "US households",
-    "European households",
-    "Asian households",
-    "Corporate accounts",
-    "CAT"
+    "U.S. households",
+    "International households",
+    "Corporate streaming accounts",
+    "NFLX",
+    "Mobile and smart TV users"
   ],
   "competitors": [
     "Disney+",
-    "Hulu",
     "AMZN",
+    "Hulu",
     "HBO Max",
     "AAPL"
   ],
   "key_products": [
-    "Netflix streaming platform",
-    "Original series",
-    "Original films",
-    "Licensed movies",
-    "Mobile and web apps"
+    "Over-the-top subscription video on demand service",
+    "Original series and films",
+    "Licensed movies and TV shows",
+    "Mobile and web applications",
+    "Offline download feature"
   ],
-  "extracted_at": "2026-07-27 17:36:34",
+  "extracted_at": "2026-07-28 17:27:02",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,13 +43,13 @@
       "source": "DuckDuckGo",
       "url": "https://csimarket.com/stocks/NFLX-Suppliers",
       "query": "Netflix, Inc. suppliers manufacturers",
-      "snippet": "Jul 19, 2026 · Netflix Inc supply chain, list and performance of Netflix Incs ' suppliers - CSIMarket"
+      "snippet": "Netflix Inc supply chain, list and performance of Netflix Incs ' suppliers - CSIMarket."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://npfp.netflixstudios.com/",
+      "url": "https://csimarket.com/stocks/competition2.php?supply&code=NFLX",
       "query": "Netflix, Inc. suppliers manufacturers",
-      "snippet": "The Netflix Preferred Fulfillment Partner (NPFP) program represents a worldwide network of elite media fulfillment companies . After meeting strict st"
+      "snippet": "List of Netflix Inc 's Suppliers comparisons of 12 Months Sales, Income, Profitability, Cash flow from MRQ."
     },
     {
       "source": "DuckDuckGo",
@@ -59,9 +59,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.marketresearchreports.com/marketline/netflix-inc-strategy-swot-and-corporate-finance-report",
+      "url": "https://about.netflix.com/en",
       "query": "Netflix, Inc. major customers clients",
-      "snippet": "Netflix Inc . ( Netflix or ‘the company’) is an online television network streaming TV shows and movies. The company offers DVDs and Blu-ray titles to"
+      "snippet": "We are here to entertain the world, one fan at a time. Thrilling everyone again and again. Whatever you’re into, whatever your mood, Netflix delivers "
     }
   ]
 }

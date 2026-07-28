@@ -7,22 +7,22 @@
     "INTC",
     "AMD",
     "NVDA",
-    "CSCO",
-    "DELL"
+    "DELL",
+    "CSCO"
   ],
   "downstream": [
-    "U.S. Department of Defense",
+    "U.S. Federal Government",
+    "European Union",
     "JPMorgan Chase",
-    "Bank of America",
-    "UnitedHealth Group",
-    "NASA"
+    "Mayo Clinic",
+    "AT&T"
   ],
   "competitors": [
-    "MSFT",
-    "AMZN",
-    "GOOGL",
-    "ORCL",
-    "Accenture"
+    "Accenture",
+    "Deloitte",
+    "Capgemini",
+    "Tata Consultancy Services",
+    "Infosys"
   ],
   "key_products": [
     "IBM Cloud",
@@ -31,7 +31,7 @@
     "IBM z Systems",
     "IBM Security"
   ],
-  "extracted_at": "2026-07-27 17:40:07",
+  "extracted_at": "2026-07-28 17:27:20",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
+      "url": "https://ru.wikipedia.org/wiki/IBM",
+      "query": "International Business Machines Corporation suppliers manufacturers",
+      "snippet": "International Business Machines ) — американская компания со штаб-квартирой в Армонке[англ.] (штат Нью-Йорк), один из крупнейших в мире производителей"
+    },
+    {
+      "source": "DuckDuckGo",
       "url": "https://finance.yahoo.com/quote/IBM/",
       "query": "International Business Machines Corporation suppliers manufacturers",
       "snippet": "International Business Machines Corporation , together with its subsidiaries, provides integrated solutions and services in the Americas, Europe, the "
     },
     {
       "source": "DuckDuckGo",
+      "url": "https://finance.yahoo.com/quote/IBM/",
+      "query": "International Business Machines Corporation major customers clients",
+      "snippet": "Find the latest International Business Machines Corporation (IBM) stock quote, history, news and other vital information to help you with your stock t"
+    },
+    {
+      "source": "DuckDuckGo",
       "url": "https://finviz.com/stock?t=IBM",
-      "query": "International Business Machines Corporation suppliers manufacturers",
+      "query": "International Business Machines Corporation major customers clients",
       "snippet": "International Business Machines Corp . Last Close. 205.77. International Business Machines Corp . is an information technology company, which engages "
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/IBM",
-      "query": "International Business Machines Corporation major customers clients",
-      "snippet": "IBM was founded in 1911 as the Computing-Tabulating-Recording Company (CTR), a holding company of manufacturers of record-keeping and measuring system"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/IBM-Customers",
-      "query": "International Business Machines Corporation major customers clients",
-      "snippet": "2 days ago · For your research, we’ve provided 9 tables on International Business Machines Corporation corporate clients . You can find them in the na"
     }
   ]
 }

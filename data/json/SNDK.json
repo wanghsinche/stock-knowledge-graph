@@ -2,36 +2,36 @@
   "ticker": "SNDK",
   "company_name": "Sandisk Corporation",
   "sector": "Technology / Computer Hardware",
-  "industry": "Semiconductors / Flash Memory",
+  "industry": "Semiconductors",
   "upstream": [
+    "SanDisk",
+    "SONY",
     "MU",
     "005930.KS",
-    "SK Hynix",
-    "Kioxia",
-    "INTC"
+    "WDC"
   ],
   "downstream": [
-    "AAPL",
+    "SONY",
     "MSFT",
-    "DELL",
-    "HPQ",
-    "Lenovo Group"
+    "AAPL",
+    "GOOGL",
+    "AMZN"
   ],
   "competitors": [
     "MU",
     "005930.KS",
-    "SK Hynix",
-    "Kioxia",
-    "INTC"
+    "WDC",
+    "Kingston",
+    "Crucial"
   ],
   "key_products": [
-    "NAND flash memory",
-    "SSD drives",
-    "USB flash drives",
     "SD cards",
-    "microSD cards"
+    "USB flash drives",
+    "SSD",
+    "Memory cards",
+    "Memory modules"
   ],
-  "extracted_at": "2026-07-27 17:29:40",
+  "extracted_at": "2026-07-28 17:18:42",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,25 +43,25 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/SanDisk",
       "query": "Sandisk Corporation suppliers manufacturers",
-      "snippet": "Founded in 1988, [4] it designs and manufactures flash memory products, including memory cards, USB flash drives, and solid-state drives (SSDs). The c"
+      "snippet": "SanDisk SD Cards 128MB and 32GB 512 MB SanDisk SD card and Sony Memory Stick SanDisk Ultra 32GB MicroSD card with Adapter SanDisk SDHC Card 8GB SanDis"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.sandisk.com/en-us/company/distributors",
+      "url": "https://www.accio.com/supplier/sandisk-manufacturer",
       "query": "Sandisk Corporation suppliers manufacturers",
-      "snippet": "Find authorized SanDisk distributors and channel partners worldwide for trusted storage solutions and products."
+      "snippet": "Jul 14, 2026 · Selecting top SanDisk suppliers requires comparison across key performance and service metrics. Below is a detailed table of leading su"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://data.landbase.com/technology/sandisk/",
+      "url": "https://finance.yahoo.com/quote/SNDK/",
       "query": "Sandisk Corporation major customers clients",
-      "snippet": "Aug 17, 2025 · Our SanDisk customers list is available for download and comes enriched with vital company specifics, including industry classification"
+      "snippet": "Find the latest Sandisk Corporation (SNDK) stock quote, history, news and other vital information to help you with your stock trading and investing."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/SNDK-Customers",
+      "url": "https://www.sandisk.com/",
       "query": "Sandisk Corporation major customers clients",
-      "snippet": "17 hours ago · For your research, we’ve provided 9 tables on Sandisk Corporation corporate clients . You can find them in the navigation menu under Cu"
+      "snippet": "Sandisk online store members receive free standard shipping on all eligible orders."
     }
   ]
 }

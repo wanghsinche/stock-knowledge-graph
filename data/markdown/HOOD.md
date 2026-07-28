@@ -3,8 +3,8 @@ ticker: HOOD
 company: Robinhood Markets, Inc.
 sector: Financial Services
 industry: Capital Markets
-extracted_at: 2026-07-27 17:39:36
-last_updated: 2026-07-27
+extracted_at: 2026-07-28 17:30:39
+last_updated: 2026-07-28
 ---
 
 # HOOD - Robinhood Markets, Inc.
@@ -12,46 +12,46 @@ last_updated: 2026-07-27
 ## 基本信息
 
 - **所属行业**: Financial Services / Capital Markets
-- **提取时间**: 2026-07-27 17:39:36
+- **提取时间**: 2026-07-28 17:30:39
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Market data providers (e.g., Bloomberg, Refinitiv)]]
-- [[AMZN]]
-- [[Payment processors (e.g., Stripe, Plaid)]]
-- [[Regulatory technology vendors]]
-- [[Cybersecurity solutions]]
+- [[NASDAQ]]
+- [[NYSE]]
+- [[Cboe Global Markets]]
+- [[Bloomberg]]
+- [[Stripe]]
 
 ### 下游客户
 - [[Retail investors]]
+- [[Day traders]]
 - [[High‑frequency traders]]
-- [[Institutional clients]]
-- [[Financial advisors]]
-- [[Corporate clients]]
+- [[Crypto traders]]
+- [[Institutional clients (via Robinhood Institutional)]]
 
 ### 竞争对手
 - [[Charles Schwab]]
-- [[Fidelity Investments]]
-- [[TD Ameritrade]]
 - [[E*TRADE]]
+- [[Fidelity]]
+- [[TD Ameritrade]]
 - [[Webull]]
 
 ### 核心产品
-- [[Commission‑free stock trading]]
-- [[Robinhood Gold premium services]]
-- [[Options trading]]
+- [[Commission‑free stock & ETF trading]]
+- [[Robinhood Gold (margin & extended hours)]]
+- [[Cash management & debit card]]
 - [[Cryptocurrency trading]]
-- [[Cash management and interest]]
+- [[Options trading]]
 
 ## 数据来源
 
 - 
 - [Robinhood Markets, Inc. suppliers manufacturers](https://robinhood.com/)
 - [Robinhood Markets, Inc. suppliers manufacturers](https://finance.yahoo.com/quote/HOOD/)
-- [Robinhood Markets, Inc. major customers clients](https://investingintheweb.com/brokers/robinhood-statistics/)
-- [Robinhood Markets, Inc. major customers clients](https://investors.robinhood.com/)
+- [Robinhood Markets, Inc. major customers clients](https://robinhood.com/)
+- [Robinhood Markets, Inc. major customers clients](https://finance.yahoo.com/quote/HOOD/)
 
 ## 元数据
 
-- **更新日期**: 2026-07-27
+- **更新日期**: 2026-07-28

@@ -7,15 +7,15 @@
     "INTC",
     "AMD",
     "NVDA",
-    "DELL",
-    "HPQ"
+    "CSCO",
+    "DELL"
   ],
   "downstream": [
-    "Walmart",
-    "JPMorgan Chase",
-    "Bank of America",
-    "AT&T",
-    "Verizon"
+    "Government agencies",
+    "Financial institutions",
+    "Retail companies",
+    "CAT",
+    "Healthcare organizations"
   ],
   "competitors": [
     "MSFT",
@@ -27,11 +27,11 @@
   "key_products": [
     "Oracle Database",
     "Oracle Cloud Infrastructure",
-    "Oracle ERP Cloud",
     "Oracle Autonomous Database",
-    "Oracle Analytics Cloud"
+    "Oracle ERP Cloud",
+    "Oracle E-Business Suite"
   ],
-  "extracted_at": "2026-07-27 17:32:25",
+  "extracted_at": "2026-07-28 17:26:25",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.oracle.com/corporate/suppliers/",
+      "url": "https://adjkjc.github.io/en.wikipedia.org/wiki/Oracle_Corporation.html",
       "query": "Oracle Corporation suppliers manufacturers",
-      "snippet": "Oracle is always looking for suppliers who can meet our high quality standards and satisfy our ever-evolving business needs. We believe in the importa"
+      "snippet": "Oracle Corporation is an American multinational computer technology corporation headquartered in Redwood Shores, California. The company sells databas"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.marketscreener.com/quote/stock/ORACLE-CORPORATION-13620698/company-group/",
+      "url": "https://csimarket.com/stocks/ORCL-Suppliers",
       "query": "Oracle Corporation suppliers manufacturers",
-      "snippet": "13 hours ago · Find the group structure chart of Oracle Corporation , with the list of companies belonging to the same group as Oracle Corporation , a"
+      "snippet": "Oracle supply chain, list and performance of Oracles ' suppliers - CSIMarket."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/ORCL-Customers",
+      "url": "https://www.oracle.com/corporate/",
       "query": "Oracle Corporation major customers clients",
-      "snippet": "17 hours ago · For your research, we’ve provided 9 tables on Oracle Corporation corporate clients . You can find them in the navigation menu under Cus"
+      "snippet": "Oracle is pleased to provide information about our company, customers , partners, events, communities, press, analysts, investors, and careers.The com"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.thomsondata.com/customer-base/oracle.php",
+      "url": "https://www.britannica.com/money/Oracle-Corporation",
       "query": "Oracle Corporation major customers clients",
-      "snippet": "Thomson Data makes it easy by offering an accurate and up-to-date list of companies that use Oracle. This list allows you to identify Oracle customers"
+      "snippet": "Oracle is global corporation that develops and markets software applications for business.The relocation placed Oracle among several major technology "
     }
   ]
 }

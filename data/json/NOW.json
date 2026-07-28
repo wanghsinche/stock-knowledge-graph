@@ -7,31 +7,31 @@
     "AMZN",
     "MSFT",
     "GOOGL",
-    "DELL",
-    "HPQ"
+    "ORCL",
+    "IBM"
   ],
   "downstream": [
     "Walmart",
     "JPMorgan Chase",
     "AT&T",
     "Verizon",
-    "Bank of America"
+    "CSCO"
   ],
   "competitors": [
-    "MSFT",
-    "Atlassian Jira Service Management",
+    "Atlassian",
     "BMC Software",
-    "IBM",
-    "ORCL"
+    "Ivanti",
+    "Cherwell Software",
+    "MSFT"
   ],
   "key_products": [
-    "Now Platform",
     "IT Service Management (ITSM)",
     "IT Operations Management (ITOM)",
-    "IT Business Management (ITBM)",
-    "Customer Service Management (CSM)"
+    "Customer Service Management (CSM)",
+    "HR Service Delivery",
+    "Security Operations"
   ],
-  "extracted_at": "2026-07-27 17:34:52",
+  "extracted_at": "2026-07-28 17:25:24",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.servicenow.com/company/supplier.html",
-      "query": "ServiceNow, Inc. suppliers manufacturers",
-      "snippet": "ServiceNow partners with capable and competitive suppliers who commit to diversity, sustainability, and best-in-class goods and services. Learn more h"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/NOW-Suppliers",
-      "query": "ServiceNow, Inc. suppliers manufacturers",
-      "snippet": "Apr 24, 2026 · Servicenow Inc supply chain, list and performance of Servicenow Incs ' suppliers - CSIMarket"
-    },
-    {
-      "source": "DuckDuckGo",
       "url": "https://www.servicenow.com/",
-      "query": "ServiceNow, Inc. major customers clients",
-      "snippet": "Customer Service Management. Empower self- service , boost agent productivity, and speed up resolution.AI Agent Stories. Learn how ServiceNow customer"
+      "query": "ServiceNow, Inc. suppliers manufacturers",
+      "snippet": "Supplier Lifecycle Operations. Streamline supplier onboarding, collaboration, and performance management. ServiceNow EmployeeWorks. Stop chasing what "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://learn.microsoft.com/en-us/defender-cloud-apps/protect-servicenow",
+      "url": "https://nd.service-now.com/login.do",
+      "query": "ServiceNow, Inc. suppliers manufacturers",
+      "snippet": "ServiceNow ServiceNow Home Page. Login."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://data.landbase.com/technology/servicenow/",
       "query": "ServiceNow, Inc. major customers clients",
-      "snippet": "As a major CRM cloud provider, ServiceNow incorporates large amounts of sensitive information about customers , internal processes, incidents, and rep"
+      "snippet": "Aug 17, 2025 · ServiceNow by ServiceNow, is a cloud-based platform designed for digital workflows. It’s commonly employed to automate and enhance vari"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://bloomberry.com/data/servicenow/",
+      "query": "ServiceNow, Inc. major customers clients",
+      "snippet": "1 day ago · We detected 5,280 companies using Servicenow and 34 customers with upcoming renewal in the next 3 months. The most common industry is Fina"
     }
   ]
 }
