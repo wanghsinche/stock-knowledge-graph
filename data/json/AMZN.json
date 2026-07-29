@@ -1,37 +1,37 @@
 {
   "ticker": "AMZN",
   "company_name": "Amazon.com, Inc.",
-  "sector": "Consumer Cyclical",
+  "sector": "Consumer Discretionary",
   "industry": "Internet Retail",
   "upstream": [
     "Book publishers",
+    "Clothing manufacturers",
     "Electronics manufacturers",
-    "Apparel brands",
-    "Third‑party sellers",
-    "AMZN"
+    "Home goods manufacturers",
+    "Third‑party sellers"
   ],
   "downstream": [
-    "Individual consumers",
-    "Small businesses",
-    "Enterprise AWS customers",
-    "AMZN",
-    "Prime Video subscribers"
+    "Retail consumers",
+    "Enterprise customers (AWS)",
+    "Advertising clients",
+    "Prime members",
+    "Third‑party sellers"
   ],
   "competitors": [
-    "eBay",
     "Walmart",
     "Alibaba",
+    "eBay",
     "Shopify",
     "MSFT"
   ],
   "key_products": [
-    "Amazon.com e‑commerce platform",
-    "Amazon Web Services (AWS)",
-    "Amazon Prime membership",
-    "Amazon Advertising",
-    "Amazon Echo (Alexa devices)"
+    "Amazon.com marketplace",
+    "Amazon Web Services",
+    "Amazon Prime",
+    "Amazon Echo (Alexa)",
+    "Amazon Kindle"
   ],
-  "extracted_at": "2026-07-28 17:21:06",
+  "extracted_at": "2026-07-29 17:08:49",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://supply.amazon.com/",
+      "url": "https://www.alibaba.com/",
       "query": "Amazon.com, Inc. suppliers manufacturers",
-      "snippet": "At Amazon, we look for suppliers who want to become partners on our road to being earth’s most customer-centric company. Supplier Connect enables supp"
+      "snippet": "Find quality Manufacturers , Suppliers , Exporters, Importers, Buyers, Wholesalers, Products and Trade Leads from our award-winning International Trad"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.thesellingguys.com/online-sourcing-buying-wholesalers-distributors/",
+      "url": "https://ir.aboutamazon.com/",
       "query": "Amazon.com, Inc. suppliers manufacturers",
-      "snippet": "So what is the “secret sauce“ to finding the best authorized Amazon FBA wholesale suppliers ? ⏳ In a rush? Click here to jump straight to our lists of"
+      "snippet": "The Spheres. Select awards and recognition. Amazon . com Conditions of Use © 1996- Amazon . com , Inc . - IR or its affiliates."
     },
     {
       "source": "DuckDuckGo",
       "url": "https://ir.aboutamazon.com/",
       "query": "Amazon.com, Inc. major customers clients",
-      "snippet": "Amazon . com , Inc . (NASDAQ: AMZN) today announced financial results for its first quarter ended March 31, 2026."
+      "snippet": "The Spheres. Select awards and recognition. Amazon . com Conditions of Use © 1996- Amazon . com , Inc . - IR or its affiliates."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://aws.amazon.com/",
+      "url": "https://www.amazon.com/Mighty-Mint/dp/B0BG3GY6QP",
       "query": "Amazon.com, Inc. major customers clients",
-      "snippet": "Amazon Web Services offers reliable, scalable, and inexpensive cloud computing services. Free to join, pay only for what you use."
+      "snippet": "Information and statements regarding dietary supplements have not been evaluated by the Food and Drug Administration and are not intended to diagnose,"
     }
   ]
 }

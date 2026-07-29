@@ -3,8 +3,8 @@ ticker: BSX
 company: Boston Scientific Corporation
 sector: Healthcare
 industry: Medical Devices
-extracted_at: 2026-05-28 18:43:46
-last_updated: 2026-05-28
+extracted_at: 2026-07-29 17:18:36
+last_updated: 2026-07-29
 ---
 
 # BSX - Boston Scientific Corporation
@@ -12,28 +12,46 @@ last_updated: 2026-05-28
 ## 基本信息
 
 - **所属行业**: Healthcare / Medical Devices
-- **提取时间**: 2026-05-28 18:43:46
+- **提取时间**: 2026-07-29 17:18:36
 
 ## 产业链关系
 
 ### 上游供应商
-_暂无数据_
+- [[3M]]
+- [[Johnson & Johnson]]
+- [[Abbott]]
+- [[Siemens Healthineers]]
+- [[Becton, Dickinson & Company]]
 
 ### 下游客户
-_暂无数据_
+- [[Hospitals]]
+- [[Health systems]]
+- [[Physician practices]]
+- [[Medical device distributors]]
+- [[Clinical research organizations]]
 
 ### 竞争对手
-_暂无数据_
+- [[Medtronic]]
+- [[Abbott]]
+- [[Johnson & Johnson]]
+- [[Stryker]]
+- [[Edwards Lifesciences]]
 
 ### 核心产品
-_暂无数据_
+- [[Coronary stents]]
+- [[Pacemakers]]
+- [[Electrophysiology catheters]]
+- [[Vascular closure devices]]
+- [[Neurovascular stents]]
 
 ## 数据来源
 
 - [Boston Scientific](https://en.wikipedia.org/wiki/Boston_Scientific_Corporation)
-- [Boston Scientific Corporation suppliers manufacturers](https://en.wikipedia.org/wiki/Boston_Scientific)
-- [Boston Scientific Corporation suppliers manufacturers](https://ru.wikipedia.org/wiki/Boston_Scientific)
+- [Boston Scientific Corporation suppliers manufacturers](https://www.bostonscientific.com/)
+- [Boston Scientific Corporation suppliers manufacturers](https://www.drugwatch.com/manufacturers/boston-scientific/)
+- [Boston Scientific Corporation major customers clients](https://www.bostonscientific.com/)
+- [Boston Scientific Corporation major customers clients](https://www.drugwatch.com/manufacturers/boston-scientific/)
 
 ## 元数据
 
-- **更新日期**: 2026-05-28
+- **更新日期**: 2026-07-29

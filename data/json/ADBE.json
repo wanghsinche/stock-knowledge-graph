@@ -1,37 +1,37 @@
 {
   "ticker": "ADBE",
   "company_name": "Adobe Inc.",
-  "sector": "Technology / Software - Application",
-  "industry": "Computer Software",
+  "sector": "Technology",
+  "industry": "Software - Application",
   "upstream": [
-    "AMZN",
-    "MSFT",
-    "GOOGL",
     "INTC",
-    "NVDA"
+    "NVDA",
+    "AMD",
+    "AMZN",
+    "MSFT"
   ],
   "downstream": [
     "ADBE",
-    "Advertising agencies",
-    "Film studios",
-    "CAT",
-    "Media companies"
+    "ADBE",
+    "ADBE",
+    "ADBE",
+    "ADBE"
   ],
   "competitors": [
     "Autodesk",
     "Corel",
-    "MSFT",
-    "AAPL",
-    "Avid"
+    "Serif",
+    "Affinity",
+    "MSFT"
   ],
   "key_products": [
     "Adobe Photoshop",
     "Adobe Illustrator",
     "Adobe InDesign",
     "Adobe Premiere Pro",
-    "Adobe After Effects"
+    "Adobe Acrobat Reader"
   ],
-  "extracted_at": "2026-07-28 17:31:25",
+  "extracted_at": "2026-07-29 17:19:29",
   "sources": [
     {
       "source": "Wikipedia",
@@ -53,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://business.adobe.com/customer-success-stories.html",
+      "url": "https://www.adobe.com/",
       "query": "Adobe Inc. major customers clients",
-      "snippet": "Learn how the world’s leading brands use Adobe for Business to build stronger customer experience, increase productivity and transform the way they do"
+      "snippet": "Adobe for Business. Orchestrate customer experiences. Deliver business impact, move faster, and personalize at scale.Turn AI signals into business imp"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/ADBE-Customers",
+      "url": "https://www.britannica.com/money/Adobe-Systems-Incorporated",
       "query": "Adobe Inc. major customers clients",
-      "snippet": "This major update brings unparalleled creativity and productivity to the world of digital documents.Starting from June 18th, Acrobat customers will ga"
+      "snippet": "Adobe Inc ., American developer of printing, publishing, and graphics software. Adobe was instrumental in the creation of the desktop publishing indus"
     }
   ]
 }

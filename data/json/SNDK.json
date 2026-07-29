@@ -1,37 +1,37 @@
 {
   "ticker": "SNDK",
   "company_name": "Sandisk Corporation",
-  "sector": "Technology / Computer Hardware",
-  "industry": "Semiconductors",
+  "sector": "Technology",
+  "industry": "Computer Hardware",
   "upstream": [
-    "SanDisk",
-    "SONY",
-    "MU",
+    "TSM",
     "005930.KS",
-    "WDC"
+    "MU",
+    "INTC",
+    "SK Hynix"
   ],
   "downstream": [
-    "SONY",
-    "MSFT",
     "AAPL",
-    "GOOGL",
-    "AMZN"
+    "005930.KS",
+    "HPQ",
+    "DELL",
+    "SONY"
   ],
   "competitors": [
-    "MU",
-    "005930.KS",
     "WDC",
-    "Kingston",
-    "Crucial"
+    "Kingston Technology",
+    "Lexar",
+    "MU",
+    "005930.KS"
   ],
   "key_products": [
-    "SD cards",
+    "Flash memory cards",
     "USB flash drives",
-    "SSD",
-    "Memory cards",
-    "Memory modules"
+    "Solid‑state drives (SSDs)",
+    "Embedded flash memory",
+    "Memory modules for PCs"
   ],
-  "extracted_at": "2026-07-28 17:18:42",
+  "extracted_at": "2026-07-29 17:04:12",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/SanDisk",
+      "url": "https://www.sandisk.com/company/distributors",
       "query": "Sandisk Corporation suppliers manufacturers",
-      "snippet": "SanDisk SD Cards 128MB and 32GB 512 MB SanDisk SD card and Sony Memory Stick SanDisk Ultra 32GB MicroSD card with Adapter SanDisk SDHC Card 8GB SanDis"
+      "snippet": "Region · Loading Region · Country/Area · Loading Country/Area · Brand · Loading Brand · Distributors | SanDisk"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.accio.com/supplier/sandisk-manufacturer",
+      "url": "https://www.trustedparts.com/en/manufacturers/sandisk",
       "query": "Sandisk Corporation suppliers manufacturers",
-      "snippet": "Jul 14, 2026 · Selecting top SanDisk suppliers requires comparison across key performance and service metrics. Below is a detailed table of leading su"
+      "snippet": "SanDisk distributor stock, prices & datasheets from authorized distributors. Search authorized SanDisk inventory."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/SNDK/",
+      "url": "https://en.wikipedia.org/wiki/Sandisk",
       "query": "Sandisk Corporation major customers clients",
-      "snippet": "Find the latest Sandisk Corporation (SNDK) stock quote, history, news and other vital information to help you with your stock trading and investing."
+      "snippet": "June 21, 2026 - On November 8, 1995, SunDisk changed its name to SanDisk to avoid confusion with Sun Microsystems, and went public under the new name "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.sandisk.com/",
+      "url": "https://csimarket.com/stocks/markets_glance.php?code=SNDK",
       "query": "Sandisk Corporation major customers clients",
-      "snippet": "Sandisk online store members receive free standard shipping on all eligible orders."
+      "snippet": "June 20, 2026 - Sandisk customers and markets, results by customer and performance relative to SNDK, by company and industry - CSIMarket"
     }
   ]
 }

@@ -2,36 +2,36 @@
   "ticker": "WDC",
   "company_name": "Western Digital Corporation",
   "sector": "Technology",
-  "industry": "Data Storage",
+  "industry": "Computer Hardware",
   "upstream": [
-    "Semiconductor manufacturers",
-    "Printed circuit board (PCB) suppliers",
-    "Electronic component suppliers",
-    "Materials suppliers (e.g., silicon, rare earths)",
-    "Assembly and testing service providers"
+    "005930.KS",
+    "SK Hynix",
+    "MU",
+    "TSM",
+    "Amkor Technology"
   ],
   "downstream": [
     "DELL",
-    "DELL",
-    "MSFT",
+    "HPQ",
+    "Lenovo",
     "AAPL",
-    "MSFT"
+    "AMZN"
   ],
   "competitors": [
     "STX",
-    "Toshiba",
+    "Toshiba (Kioxia)",
     "005930.KS",
     "MU",
-    "SK Hynix"
+    "INTC"
   ],
   "key_products": [
     "Hard Disk Drives (HDDs)",
     "Solid State Drives (SSDs)",
-    "Enterprise storage solutions",
-    "Data center storage systems",
-    "External portable drives"
+    "Enterprise Storage Systems",
+    "Cloud Storage Solutions",
+    "Data Storage Solutions"
   ],
-  "extracted_at": "2026-07-28 17:23:34",
+  "extracted_at": "2026-07-29 17:10:41",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,21 +47,21 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.kynix.com/productdetails/67965435/westerndigitalcorporation/wd70c22gp0001.html",
+      "url": "https://ru.wikipedia.org/wiki/Western_Digital",
       "query": "Western Digital Corporation suppliers manufacturers",
-      "snippet": "Attribute Value. Manufacturer . Western Digital Corporation . Product Category.You can ask a question about the product WD 70C22-GP-00-01 by clicking "
+      "snippet": "Western Digital Corporation .SSD Western Digital Green 120 Gb. Western Digital Corporation (NASDAQ: WDC. , по-русски «Вестерн Диджитал»[3]) — компания"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/WDC-Customers",
+      "url": "https://www.wikidata.org/wiki/Q738770",
       "query": "Western Digital Corporation major customers clients",
-      "snippet": "Western Digital 's Comment on Sales, Marketing and Customers We maintain sales offices in selected parts of the world including the major geographies "
+      "snippet": "Western Digital Corporation . WD . WD Corp . Western Digital Technologies, Inc. (San Jose, CA). edit."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://data.landbase.com/technology/western-digital/",
+      "url": "https://community.wd.com/",
       "query": "Western Digital Corporation major customers clients",
-      "snippet": "Aug 17, 2025 · Companies using Western Digital by Western Digital Corporation in 2026 As of 2026, 354 verified companies use Western Digital – across "
+      "snippet": "Western Digital Business Portal. Unlock benefits and tools for your business such as enterprise support, pricing and rebate tools, marketing, loyalty,"
     }
   ]
 }

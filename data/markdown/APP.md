@@ -3,8 +3,8 @@ ticker: APP
 company: AppLovin Corporation
 sector: Communication Services
 industry: Advertising Agencies
-extracted_at: 2026-07-28 17:30:54
-last_updated: 2026-07-28
+extracted_at: 2026-07-29 17:23:11
+last_updated: 2026-07-29
 ---
 
 # APP - AppLovin Corporation
@@ -12,37 +12,37 @@ last_updated: 2026-07-28
 ## 基本信息
 
 - **所属行业**: Communication Services / Advertising Agencies
-- **提取时间**: 2026-07-28 17:30:54
+- **提取时间**: 2026-07-29 17:23:11
 
 ## 产业链关系
 
 ### 上游供应商
-- [[GOOGL]]
 - [[AAPL]]
-- [[Data analytics and attribution platforms]]
-- [[Ad exchange partners]]
-- [[Mobile SDK development tools]]
+- [[Data and analytics vendors]]
+- [[Ad tech infrastructure suppliers]]
+- [[Cloud service providers]]
+- [[Digital media content creators]]
 
 ### 下游客户
-- [[Mobile app developers]]
-- [[Game developers]]
-- [[Digital marketing agencies]]
-- [[Brand advertisers]]
-- [[E‑commerce app owners]]
+- [[App developers]]
+- [[Advertisers and brands]]
+- [[Media agencies]]
+- [[Gaming studios]]
+- [[E‑commerce platforms]]
 
 ### 竞争对手
+- [[The Trade Desk]]
 - [[Unity Ads]]
-- [[Chartboost]]
 - [[Vungle]]
 - [[AdColony]]
-- [[Tapjoy]]
+- [[AppNexus (now part of Xandr)]]
 
 ### 核心产品
-- [[AppLovin Mobile Advertising Platform]]
-- [[User Acquisition & Retargeting solutions]]
-- [[App monetization SDK]]
-- [[Data-driven creative optimization]]
-- [[Analytics & attribution tools]]
+- [[Mobile advertising platform]]
+- [[AppLovin SDK]]
+- [[AppLovin Marketing Cloud]]
+- [[AppLovin Data Platform]]
+- [[Audience Network]]
 
 ## 数据来源
 
@@ -50,8 +50,8 @@ last_updated: 2026-07-28
 - [AppLovin Corporation suppliers manufacturers](https://www.applovin.com/)
 - [AppLovin Corporation suppliers manufacturers](https://pitchgrade.com/companies/applovin)
 - [AppLovin Corporation major customers clients](https://www.applovin.com/)
-- [AppLovin Corporation major customers clients](https://www.youtube.com/watch?v=BUIaqwK23qs)
+- [AppLovin Corporation major customers clients](https://www.bitget.com/wiki/app-loving-stock)
 
 ## 元数据
 
-- **更新日期**: 2026-07-28
+- **更新日期**: 2026-07-29

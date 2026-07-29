@@ -4,29 +4,34 @@
   "sector": "Communication Services",
   "industry": "Internet Content & Information",
   "upstream": [
-    "Nebius Group N.V."
+    "NVDA",
+    "AMD",
+    "AMZN",
+    "MSFT",
+    "GOOGL"
   ],
   "downstream": [
-    "Avride",
-    "TripleTen",
-    "Toloka",
-    "Clickhouse"
+    "Fortune 500 enterprises",
+    "AI research laboratories",
+    "Government agencies",
+    "Universities and research institutions",
+    "Large technology firms"
   ],
   "competitors": [
-    "OpenAI",
+    "NVDA",
+    "AMD",
+    "INTC",
     "GOOGL",
-    "MSFT",
-    "AMZN",
-    "IBM"
+    "AMZN"
   ],
   "key_products": [
-    "AI infrastructure platform",
-    "AI services",
-    "AI solutions for enterprises",
-    "AI data processing",
-    "AI analytics"
+    "Nebius AI Infrastructure Platform",
+    "Nebius Cloud AI Services",
+    "Nebius AI Training Infrastructure",
+    "Nebius AI Inference Services",
+    "Nebius AI Data Management Suite"
   ],
-  "extracted_at": "2026-07-28 17:23:09",
+  "extracted_at": "2026-07-29 17:09:08",
   "sources": [
     {
       "source": "Wikipedia",
@@ -36,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Nebius_Group",
+      "url": "https://csimarket.com/stocks/suppliers_glance.php?code=NBIS",
       "query": "NBIS suppliers manufacturers",
-      "snippet": "Nebius Group N.V., headquartered in Amsterdam, is a technology company [3] that provides artificial intelligence infrastructure. [4] The company also "
+      "snippet": "NBIS 's Suppliers Management Effectiveness. NBIS 's Competitors Results. NBIS 's vs. Suppliers , Data. (Revenue and Income for Trailing 12 Months, in "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/NBIS-Suppliers",
+      "url": "https://finance.yahoo.com/quote/NBIS/",
       "query": "NBIS suppliers manufacturers",
-      "snippet": "Jul 7, 2026 · Nebius Group N V's Comment on Supply Chain The company encounters challenges in suppliers , sourcing, and raw materials primarily relate"
+      "snippet": "Find the latest Nebius Group N.V. ( NBIS ) stock quote, history, news and other vital information to help you with your stock trading and investing."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Nebius_Group",
+      "url": "https://finance.yahoo.com/quote/NBIS/",
       "query": "NBIS major customers clients",
-      "snippet": "Nebius Group N.V., headquartered in Amsterdam, is a technology company [3] that provides artificial intelligence infrastructure. [4] The company also "
+      "snippet": "Find the latest Nebius Group N.V. ( NBIS ) stock quote, history, news and other vital information to help you with your stock trading and investing."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/NBIS-Customers",
+      "url": "https://www.nasdaq.com/market-activity/stocks/nbis",
       "query": "NBIS major customers clients",
-      "snippet": "2 days ago · Nebius Group N V customers and markets, results by customer and performance relative to NBIS , by company and industry - CSIMarket"
+      "snippet": "Nasdaq Listed ETFs where NBIS is a top 10 holding*. Symbol.Data Disclaimer: The Nasdaq Indices and the Major Indices are delayed at least 1 minute. Re"
     }
   ]
 }

@@ -6,32 +6,32 @@
   "upstream": [
     "TSM",
     "005930.KS",
-    "MU",
-    "SK Hynix",
-    "INTC"
+    "GlobalFoundries",
+    "UMC",
+    "MU"
   ],
   "downstream": [
-    "Gaming PC manufacturers (e.g., ASUS, MSI, Gigabyte)",
-    "DELL",
-    "TSLA",
     "MSFT",
-    "Enterprise AI customers (e.g., data‑center operators, research institutions)"
+    "AMZN",
+    "GOOGL",
+    "SONY",
+    "TSLA"
   ],
   "competitors": [
     "AMD",
     "INTC",
     "QCOM",
-    "AVGO",
-    "AAPL"
+    "AAPL",
+    "GOOGL"
   ],
   "key_products": [
-    "GeForce RTX GPUs",
-    "NVIDIA A100 Tensor Core GPU",
-    "NVIDIA DGX AI systems",
-    "NVIDIA Jetson embedded AI platform",
-    "NVIDIA Drive automotive platform"
+    "GeForce RTX 40 Series",
+    "NVIDIA A100 GPU",
+    "NVIDIA Jetson",
+    "NVIDIA DGX A100",
+    "CUDA Toolkit"
   ],
-  "extracted_at": "2026-07-28 17:18:59",
+  "extracted_at": "2026-07-29 17:05:05",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Nvidia",
+      "url": "https://finance.yahoo.com/quote/NVDA/",
       "query": "NVIDIA Corporation suppliers manufacturers",
-      "snippet": "15 hours ago - In August 2025, Nvidia ordered suppliers to halt production of its H20 AI chip following Chinese government directives warning domestic"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.accio.com/supplier/nvidia-supplier-list",
-      "query": "NVIDIA Corporation suppliers manufacturers",
-      "snippet": "April 24, 2026 - NVIDIA's key suppliers span various critical areas of semiconductor manufacturing and assembly. These include TSMC (Taiwan Semiconduc"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.nvidia.com/",
-      "query": "NVIDIA Corporation major customers clients",
-      "snippet": "NVIDIA invents the GPU and drives advances in AI, HPC, gaming, creative design, autonomous vehicles, and robotics."
+      "snippet": "Find the latest NVIDIA Corporation (NVDA) stock quote, history, news and other vital information to help you with your stock trading and investing."
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.investing.com/equities/nvidia-corp",
-      "query": "NVIDIA Corporation major customers clients",
+      "query": "NVIDIA Corporation suppliers manufacturers",
       "snippet": "View today's NVIDIA Corporation stock price and latest NVDA news and analysis. Create real-time notifications to follow any changes in the live stock "
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://finance.yahoo.com/news/nvidias-biggest-customers-095700428.html",
+      "query": "NVIDIA Corporation major customers clients",
+      "snippet": "June 26, 2025 - Nvidia has amassed an impressive list of customers, which includes top AI developers like Amazon, Microsoft, and Alphabet . Nvidia's c"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://finance.yahoo.com/news/nvidias-largest-customers-201900375.html",
+      "query": "NVIDIA Corporation major customers clients",
+      "snippet": "May 2, 2024 - However, in its recent 10-K filing, the company did say that one customer represented 13% of its revenue from its compute and networking"
     }
   ]
 }

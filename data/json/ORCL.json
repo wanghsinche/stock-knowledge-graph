@@ -4,34 +4,34 @@
   "sector": "Technology",
   "industry": "Software - Infrastructure",
   "upstream": [
-    "INTC",
-    "AMD",
-    "NVDA",
+    "DELL",
+    "HPQ",
     "CSCO",
-    "DELL"
+    "IBM",
+    "INTC"
   ],
   "downstream": [
-    "Government agencies",
-    "Financial institutions",
-    "Retail companies",
-    "CAT",
-    "Healthcare organizations"
+    "Financial Services (e.g., JPMorgan Chase, Goldman Sachs)",
+    "Government Agencies (e.g., U.S. Department of Defense, NASA)",
+    "Healthcare Providers (e.g., Mayo Clinic, UnitedHealth)",
+    "Retail Chains (e.g., Walmart, Target)",
+    "CAT"
   ],
   "competitors": [
     "MSFT",
-    "AMZN",
-    "IBM",
     "SAP",
-    "CRM"
+    "IBM",
+    "AMZN",
+    "GOOGL"
   ],
   "key_products": [
     "Oracle Database",
     "Oracle Cloud Infrastructure",
     "Oracle Autonomous Database",
-    "Oracle ERP Cloud",
-    "Oracle E-Business Suite"
+    "Oracle Applications (E-Business Suite, Fusion)",
+    "Oracle Java"
   ],
-  "extracted_at": "2026-07-28 17:26:25",
+  "extracted_at": "2026-07-29 17:18:52",
   "sources": [
     {
       "source": "Wikipedia",
@@ -59,9 +59,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.britannica.com/money/Oracle-Corporation",
+      "url": "https://www.youtube.com/watch?v=ll7_VcwePN4",
       "query": "Oracle Corporation major customers clients",
-      "snippet": "Oracle is global corporation that develops and markets software applications for business.The relocation placed Oracle among several major technology "
+      "snippet": "In this video, I'm going to show you how to install oracle 21c instant client on the windows platform step by step.#instantclient #oracleclientWebsite"
     }
   ]
 }

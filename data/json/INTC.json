@@ -4,18 +4,18 @@
   "sector": "Technology",
   "industry": "Semiconductors",
   "upstream": [
-    "ASML",
-    "AMAT",
-    "LRCX",
-    "Tokyo Electron",
-    "KLA"
+    "TSM",
+    "GlobalFoundries",
+    "005930.KS",
+    "MU",
+    "NVDA"
   ],
   "downstream": [
+    "MSFT",
     "DELL",
     "HPQ",
-    "Lenovo",
-    "AAPL",
-    "MSFT"
+    "Lenovo Group",
+    "AMZN"
   ],
   "competitors": [
     "AMD",
@@ -25,13 +25,13 @@
     "TSM"
   ],
   "key_products": [
-    "Intel Core i7",
-    "Intel Xeon",
-    "Intel Atom",
-    "Intel Optane",
-    "Intel 10nm CPU"
+    "Intel Core CPUs",
+    "Intel Xeon processors",
+    "Intel Optane memory",
+    "Intel Atom processors",
+    "Intel 10nm process chips"
   ],
-  "extracted_at": "2026-07-28 17:19:47",
+  "extracted_at": "2026-07-29 17:07:15",
   "sources": [
     {
       "source": "Wikipedia",
@@ -53,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/INTC-Customers",
+      "url": "https://finance.yahoo.com/quote/INTC/",
       "query": "Intel Corporation major customers clients",
-      "snippet": "17 hours ago · Intel customers and markets, results by customer and performance relative to INTC, by company and industry - CSIMarket"
+      "snippet": "Find the latest Intel Corporation (INTC) stock quote, history, news and other vital information to help you with your stock trading and investing."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.intel.com/content/www/us/en/customer-spotlight/overview.html",
+      "url": "https://www.tradingview.com/symbols/NASDAQ-INTC/",
       "query": "Intel Corporation major customers clients",
-      "snippet": "Jul 20, 2025 · Explore the Intel Customer Spotlight for the latest customer stories, case studies, and testimonials highlighting data-centric innovati"
+      "snippet": "View live Intel Corporation chart to track its stock's price action. Find market predictions, INTC financials and market news."
     }
   ]
 }

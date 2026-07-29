@@ -1,18 +1,18 @@
 ---
 ticker: CRWV
 company: CoreWeave, Inc.
-sector: Technology
-industry: Software - Infrastructure
-extracted_at: 2026-07-28 17:29:13
-last_updated: 2026-07-28
+sector: Technology / Software - Infrastructure
+industry: AI Cloud Computing / GPU Infrastructure
+extracted_at: 2026-07-29 17:20:46
+last_updated: 2026-07-29
 ---
 
 # CRWV - CoreWeave, Inc.
 
 ## 基本信息
 
-- **所属行业**: Technology / Software - Infrastructure
-- **提取时间**: 2026-07-28 17:29:13
+- **所属行业**: Technology / Software - Infrastructure / AI Cloud Computing / GPU Infrastructure
+- **提取时间**: 2026-07-29 17:20:46
 
 ## 产业链关系
 
@@ -20,38 +20,38 @@ last_updated: 2026-07-28
 - [[NVDA]]
 - [[AMD]]
 - [[INTC]]
-- [[TSM]]
-- [[QCOM]]
+- [[DELL]]
+- [[Supermicro]]
 
 ### 下游客户
-- [[AI research labs]]
-- [[Hyperscalers]]
-- [[Enterprise AI developers]]
-- [[Start‑up AI companies]]
-- [[Gaming and simulation firms]]
+- [[OpenAI]]
+- [[GOOGL]]
+- [[MSFT]]
+- [[AMZN]]
+- [[NVDA]]
 
 ### 竞争对手
 - [[NVDA]]
 - [[GOOGL]]
 - [[AMZN]]
 - [[MSFT]]
-- [[Lambda Labs]]
+- [[IBM]]
 
 ### 核心产品
-- [[GPU‑based AI cloud infrastructure]]
-- [[CoreWeave AI‑native platform]]
-- [[Chip management software]]
-- [[GPU‑accelerated compute instances]]
-- [[Data‑center scale GPU clusters]]
+- [[GPU cloud infrastructure]]
+- [[GPU instances]]
+- [[GPU clusters]]
+- [[AI compute services]]
+- [[GPU management software]]
 
 ## 数据来源
 
 - [CoreWeave](https://en.wikipedia.org/wiki/CoreWeave,_Inc.)
 - [CoreWeave, Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/CoreWeave)
-- [CoreWeave, Inc. suppliers manufacturers](https://www.coreweave.com/)
+- [CoreWeave, Inc. suppliers manufacturers](https://itrusty.io/en/tokenized-stocks/assets/crwv)
 - [CoreWeave, Inc. major customers clients](https://en.wikipedia.org/wiki/CoreWeave)
-- [CoreWeave, Inc. major customers clients](https://247wallst.com/investing/2026/07/27/coreweave-is-71-after-falling-43-in-a-year-one-analyst-thinks-it-can-rocket-to-250/)
+- [CoreWeave, Inc. major customers clients](https://itrusty.io/en/tokenized-stocks/assets/crwv)
 
 ## 元数据
 
-- **更新日期**: 2026-07-28
+- **更新日期**: 2026-07-29

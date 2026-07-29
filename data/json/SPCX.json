@@ -1,37 +1,37 @@
 {
   "ticker": "SPCX",
   "company_name": "Space Exploration Technologies Corp.",
-  "sector": "Industrials",
+  "sector": "Industrials / Aerospace & Defense",
   "industry": "Aerospace & Defense",
   "upstream": [
-    "Aerojet Rocketdyne",
-    "Honeywell Aerospace",
-    "Boeing",
-    "Lockheed Martin",
-    "Northrop Grumman"
+    "Rocket engine manufacturers",
+    "Propellant suppliers",
+    "Avionics and electronics vendors",
+    "Satellite component suppliers",
+    "Manufacturing and assembly facilities"
   ],
   "downstream": [
     "NASA",
     "U.S. Department of Defense",
-    "Starlink residential and enterprise customers",
-    "INTC",
-    "Private launch customers (e.g., SpaceX's own launch clients)"
+    "Commercial satellite operators",
+    "CAT",
+    "Starlink broadband customers"
   ],
   "competitors": [
-    "United Launch Alliance",
-    "Arianespace",
     "Blue Origin",
+    "United Launch Alliance",
     "Rocket Lab",
-    "Virgin Orbit"
+    "Virgin Galactic",
+    "Arianespace"
   ],
   "key_products": [
     "Falcon 9 launch vehicle",
     "Falcon Heavy launch vehicle",
     "Starship launch vehicle",
     "Starlink satellite constellation",
-    "Grok AI platform"
+    "Satellite-based broadband services"
   ],
-  "extracted_at": "2026-07-28 17:20:46",
+  "extracted_at": "2026-07-29 17:09:36",
   "sources": [
     {
       "source": "Wikipedia",
@@ -49,19 +49,19 @@
       "source": "DuckDuckGo",
       "url": "https://finance.yahoo.com/quote/SPCX/",
       "query": "Space Exploration Technologies Corp. suppliers manufacturers",
-      "snippet": "Space Exploration Technologies Corp . provides satellite-based broadband services in the United States, Ireland, Canada, and internationally.Its Space"
+      "snippet": "Space Exploration Technologies Corp . provides satellite-based broadband services in the United States, Ireland, Canada, and internationally. It opera"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/SpaceX",
       "query": "Space Exploration Technologies Corp. major customers clients",
-      "snippet": "Space Exploration Technologies Corp ., doing business as SpaceX, is an American spaceflight, telecommunications, and artificial intelligence company h"
+      "snippet": "Space Exploration Technologies Corp ., doing business as SpaceX , is an American spaceflight, telecommunications, and artificial intelligence company "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://stockanalysis.com/stocks/spcx/company/",
+      "url": "https://www.tradingview.com/symbols/NASDAQ-SPCX/",
       "query": "Space Exploration Technologies Corp. major customers clients",
-      "snippet": "21 hours ago · Company profile for Space Exploration Technologies Corp . (SPCX) stock, with a description, list of executives, contact details and oth"
+      "snippet": "Space Exploration Technologies Corp . ( SpaceX ) designs, manufactures, and launches advanced rockets and spacecraft, including the fully reusable Sta"
     }
   ]
 }

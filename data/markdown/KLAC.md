@@ -3,8 +3,8 @@ ticker: KLAC
 company: KLA Corporation
 sector: Technology
 industry: Semiconductor Equipment & Materials
-extracted_at: 2026-07-28 17:28:17
-last_updated: 2026-07-28
+extracted_at: 2026-07-29 17:13:37
+last_updated: 2026-07-29
 ---
 
 # KLAC - KLA Corporation
@@ -12,46 +12,28 @@ last_updated: 2026-07-28
 ## 基本信息
 
 - **所属行业**: Technology / Semiconductor Equipment & Materials
-- **提取时间**: 2026-07-28 17:28:17
+- **提取时间**: 2026-07-29 17:13:37
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Semiconductor equipment manufacturers]]
-- [[Metrology equipment suppliers]]
-- [[Photolithography equipment suppliers]]
-- [[CAT]]
-- [[Silicon wafer suppliers]]
+_暂无数据_
 
 ### 下游客户
-- [[INTC]]
-- [[TSM]]
-- [[005930.KS]]
-- [[MU]]
-- [[GlobalFoundries]]
+_暂无数据_
 
 ### 竞争对手
-- [[AMAT]]
-- [[ASML]]
-- [[LRCX]]
-- [[Tokyo Electron]]
-- [[Teradyne]]
+_暂无数据_
 
 ### 核心产品
-- [[Advanced inspection tools]]
-- [[Metrology systems]]
-- [[Process control software]]
-- [[Yield management solutions]]
-- [[Reticle inspection systems]]
+_暂无数据_
 
 ## 数据来源
 
 - [KLA Corporation](https://en.wikipedia.org/wiki/KLA_Corporation)
 - [KLA Corporation suppliers manufacturers](https://www.kla.com/)
 - [KLA Corporation suppliers manufacturers](https://www.filmetrics.com/locations)
-- [KLA Corporation major customers clients](https://www.kla.com/)
-- [KLA Corporation major customers clients](https://www.marketresearchreports.com/marketline/kla-corporation-strategy-swot-and-corporate-finance-report)
 
 ## 元数据
 
-- **更新日期**: 2026-07-28
+- **更新日期**: 2026-07-29

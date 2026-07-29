@@ -3,8 +3,8 @@ ticker: STX
 company: Seagate Technology Holdings plc
 sector: Technology
 industry: Computer Hardware
-extracted_at: 2026-07-28 17:22:31
-last_updated: 2026-07-28
+extracted_at: 2026-07-29 17:08:18
+last_updated: 2026-07-29
 ---
 
 # STX - Seagate Technology Holdings plc
@@ -12,46 +12,46 @@ last_updated: 2026-07-28
 ## 基本信息
 
 - **所属行业**: Technology / Computer Hardware
-- **提取时间**: 2026-07-28 17:22:31
+- **提取时间**: 2026-07-29 17:08:18
 
 ## 产业链关系
 
 ### 上游供应商
 - [[Silicon wafer suppliers]]
-- [[META]]
+- [[Magnetic material manufacturers]]
 - [[Electronic component suppliers]]
-- [[Packaging material providers]]
-- [[Precision tooling manufacturers]]
+- [[Firmware and software providers]]
+- [[Precision machining and assembly equipment suppliers]]
 
 ### 下游客户
 - [[DELL]]
 - [[HPQ]]
 - [[Lenovo Group]]
 - [[AAPL]]
-- [[AMZN]]
+- [[005930.KS]]
 
 ### 竞争对手
 - [[WDC]]
-- [[Toshiba]]
+- [[Toshiba Corporation]]
 - [[005930.KS]]
 - [[MU]]
-- [[SK Hynix]]
+- [[IBM]]
 
 ### 核心产品
 - [[Enterprise HDDs]]
-- [[Enterprise SSDs]]
-- [[NAS and SAN solutions]]
-- [[Cloud storage infrastructure]]
-- [[Data center storage arrays]]
+- [[Consumer HDDs]]
+- [[External hard drives]]
+- [[SSD solutions]]
+- [[Storage management software]]
 
 ## 数据来源
 
 - 
-- [Seagate Technology Holdings plc suppliers manufacturers](https://csimarket.com/stocks/STX-Suppliers)
-- [Seagate Technology Holdings plc suppliers manufacturers](https://www.accio.com/business/seagate-products)
-- [Seagate Technology Holdings plc major customers clients](https://www.seagate.com/)
-- [Seagate Technology Holdings plc major customers clients](https://www.insidermonkey.com/blog/seagate-technology-stx-sees-ai-driven-storage-demand-lifting-outlook-1749303/)
+- [Seagate Technology Holdings plc suppliers manufacturers](http://www.seagate.com/)
+- [Seagate Technology Holdings plc suppliers manufacturers](https://aheha.com/seagate-technology-holdings-plcs-stx)
+- [Seagate Technology Holdings plc major customers clients](http://www.seagate.com/)
+- [Seagate Technology Holdings plc major customers clients](https://www.morningstar.com/company-reports/1304503-unrelenting-ai-demand-is-turning-the-tide-for-seagate-and-the-hdd-industry)
 
 ## 元数据
 
-- **更新日期**: 2026-07-28
+- **更新日期**: 2026-07-29

@@ -4,34 +4,33 @@
   "sector": "Technology",
   "industry": "Semiconductor Equipment & Materials",
   "upstream": [
-    "BASF",
-    "Air Liquide",
-    "Wacker Chemie AG",
-    "Mitsubishi Chemical",
-    "Dow Chemical"
+    "Silicon wafer suppliers",
+    "Chemical gas suppliers",
+    "META",
+    "Photomask manufacturers",
+    "Component parts suppliers"
   ],
   "downstream": [
-    "INTC",
-    "005930.KS",
     "TSM",
+    "005930.KS",
+    "INTC",
     "MU",
-    "SK Hynix"
+    "GlobalFoundries"
   ],
   "competitors": [
     "ASML",
     "LRCX",
     "Tokyo Electron",
-    "KLA Corporation",
-    "AMAT"
+    "KLA Corporation"
   ],
   "key_products": [
-    "Lithography equipment",
     "Deposition equipment",
-    "Etching equipment",
-    "Inspection & metrology systems",
-    "Wafer processing equipment"
+    "Etch systems",
+    "Lithography equipment",
+    "Coating systems",
+    "Wafer processing tools"
   ],
-  "extracted_at": "2026-07-28 17:24:35",
+  "extracted_at": "2026-07-29 17:13:10",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,14 +40,20 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/AMAT-Suppliers",
+      "url": "https://www.appliedmaterials.com/us/en.html",
       "query": "Applied Materials, Inc. suppliers manufacturers",
-      "snippet": "Jul 7, 2026 · Applied Materials Inc 's Comment on Supply Chain Applied’s manufacturing activities consist primarily of assembly, test and integration "
+      "snippet": "Applied Materials , Inc . is the leader in materials engineering solutions that are at the foundation of virtually every new semiconductor and advance"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.appliedmaterials.com/",
+      "url": "https://ebusiness.com/report/appliedmaterials.com",
       "query": "Applied Materials, Inc. suppliers manufacturers",
+      "snippet": "Applied Materials , Inc . We deliver material innovation that changes the world. Last updated: August 26, 2025.It analyzes multiple factors including "
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.appliedmaterials.com/us/en.html",
+      "query": "Applied Materials, Inc. major customers clients",
       "snippet": "Applied Materials , Inc . is the leader in materials engineering solutions that are at the foundation of virtually every new semiconductor and advance"
     },
     {
@@ -56,12 +61,6 @@
       "url": "https://finviz.com/news/145915/5-must-read-analyst-questions-from-applied-materialss-q2-earnings-call",
       "query": "Applied Materials, Inc. major customers clients",
       "snippet": "Applied Materials ( AMAT ) Q2 CY2025 Highlights: Revenue: $7.30 billion vs analyst estimates of $7.22 billion (7.7% year-on-year growth, 1.2% beat)."
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.appliedmaterials.com/us/en/newsroom/blogs/iconic-innovator-steve-wozniak-visits-applied-materials.html",
-      "query": "Applied Materials, Inc. major customers clients",
-      "snippet": "Woz’s visit to Applied Materials highlights our company’s foundational role in the semiconductor industry and underscores our materials engineering so"
     }
   ]
 }

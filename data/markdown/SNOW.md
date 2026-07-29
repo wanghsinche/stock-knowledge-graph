@@ -3,8 +3,8 @@ ticker: SNOW
 company: Snowflake Inc.
 sector: Technology
 industry: Software - Application
-extracted_at: 2026-06-11 18:49:20
-last_updated: 2026-06-11
+extracted_at: 2026-07-29 17:20:01
+last_updated: 2026-07-29
 ---
 
 # SNOW - Snowflake Inc.
@@ -12,7 +12,7 @@ last_updated: 2026-06-11
 ## 基本信息
 
 - **所属行业**: Technology / Software - Application
-- **提取时间**: 2026-06-11 18:49:20
+- **提取时间**: 2026-07-29 17:20:01
 
 ## 产业链关系
 
@@ -20,38 +20,38 @@ last_updated: 2026-06-11
 - [[AMZN]]
 - [[MSFT]]
 - [[GOOGL]]
-- [[INTC]]
-- [[NVDA]]
+- [[ORCL]]
+- [[IBM]]
 
 ### 下游客户
 - [[Capital One]]
-- [[SONY]]
-- [[eBay]]
-- [[Target]]
 - [[ADBE]]
+- [[eBay]]
+- [[SONY]]
+- [[NFLX]]
 
 ### 竞争对手
 - [[AMZN]]
 - [[GOOGL]]
 - [[MSFT]]
 - [[Databricks]]
-- [[Snowpark]]
+- [[Teradata]]
 
 ### 核心产品
 - [[Snowflake Data Cloud]]
 - [[Snowflake Data Warehouse]]
 - [[Snowflake Data Marketplace]]
 - [[Snowflake Data Exchange]]
-- [[Snowpark]]
+- [[Snowflake Data Sharing]]
 
 ## 数据来源
 
 - [Snowflake Inc.](https://en.wikipedia.org/wiki/Snowflake_Inc.)
-- [Snowflake Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/Snowflake_Inc.)
-- [Snowflake Inc. suppliers manufacturers](https://csimarket.com/stocks/SNOW-Suppliers)
-- [Snowflake Inc. major customers clients](https://www.snowflake.com/en/customers/all-customers/)
-- [Snowflake Inc. major customers clients](https://www.appsruntheworld.com/customers-database/vendors/view/snowflake-inc)
+- [Snowflake Inc. suppliers manufacturers](https://de.wikipedia.org/wiki/Snowflake_Inc.)
+- [Snowflake Inc. suppliers manufacturers](https://www.snowflake.com/)
+- [Snowflake Inc. major customers clients](https://www.snowflake.com/)
+- [Snowflake Inc. major customers clients](https://businesschronicler.com/competitors/snowflake-competitors-analysis/)
 
 ## 元数据
 
-- **更新日期**: 2026-06-11
+- **更新日期**: 2026-07-29

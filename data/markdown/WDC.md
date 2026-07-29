@@ -2,56 +2,56 @@
 ticker: WDC
 company: Western Digital Corporation
 sector: Technology
-industry: Data Storage
-extracted_at: 2026-07-28 17:23:34
-last_updated: 2026-07-28
+industry: Computer Hardware
+extracted_at: 2026-07-29 17:10:41
+last_updated: 2026-07-29
 ---
 
 # WDC - Western Digital Corporation
 
 ## 基本信息
 
-- **所属行业**: Technology / Data Storage
-- **提取时间**: 2026-07-28 17:23:34
+- **所属行业**: Technology / Computer Hardware
+- **提取时间**: 2026-07-29 17:10:41
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Semiconductor manufacturers]]
-- [[Printed circuit board (PCB) suppliers]]
-- [[Electronic component suppliers]]
-- [[Materials suppliers (e.g., silicon, rare earths)]]
-- [[Assembly and testing service providers]]
+- [[005930.KS]]
+- [[SK Hynix]]
+- [[MU]]
+- [[TSM]]
+- [[Amkor Technology]]
 
 ### 下游客户
 - [[DELL]]
-- [[DELL]]
-- [[MSFT]]
+- [[HPQ]]
+- [[Lenovo]]
 - [[AAPL]]
-- [[MSFT]]
+- [[AMZN]]
 
 ### 竞争对手
 - [[STX]]
-- [[Toshiba]]
+- [[Toshiba (Kioxia)]]
 - [[005930.KS]]
 - [[MU]]
-- [[SK Hynix]]
+- [[INTC]]
 
 ### 核心产品
 - [[Hard Disk Drives (HDDs)]]
 - [[Solid State Drives (SSDs)]]
-- [[Enterprise storage solutions]]
-- [[Data center storage systems]]
-- [[External portable drives]]
+- [[Enterprise Storage Systems]]
+- [[Cloud Storage Solutions]]
+- [[Data Storage Solutions]]
 
 ## 数据来源
 
 - [Western Digital](https://en.wikipedia.org/wiki/Western_Digital_Corporation)
 - [Western Digital Corporation suppliers manufacturers](https://en.wikipedia.org/wiki/Western_Digital)
-- [Western Digital Corporation suppliers manufacturers](https://www.kynix.com/productdetails/67965435/westerndigitalcorporation/wd70c22gp0001.html)
-- [Western Digital Corporation major customers clients](https://csimarket.com/stocks/WDC-Customers)
-- [Western Digital Corporation major customers clients](https://data.landbase.com/technology/western-digital/)
+- [Western Digital Corporation suppliers manufacturers](https://ru.wikipedia.org/wiki/Western_Digital)
+- [Western Digital Corporation major customers clients](https://www.wikidata.org/wiki/Q738770)
+- [Western Digital Corporation major customers clients](https://community.wd.com/)
 
 ## 元数据
 
-- **更新日期**: 2026-07-28
+- **更新日期**: 2026-07-29

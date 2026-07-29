@@ -5,33 +5,33 @@
   "industry": "Auto Manufacturers",
   "upstream": [
     "CAT",
+    "LG Energy Solution",
     "Panasonic",
     "005930.KS",
-    "LG Chem",
     "BYD"
   ],
   "downstream": [
     "Individual consumers",
-    "Fleet operators",
+    "Commercial fleet operators",
     "Utility companies",
     "Government agencies",
-    "Commercial businesses"
+    "Corporate leasing firms"
   ],
   "competitors": [
     "Ford",
     "General Motors",
     "Volkswagen",
     "Toyota",
-    "NIO"
+    "Hyundai"
   ],
   "key_products": [
-    "Model S",
     "Model 3",
+    "Model S",
     "Model X",
     "Model Y",
     "Powerwall"
   ],
-  "extracted_at": "2026-07-28 17:20:05",
+  "extracted_at": "2026-07-29 17:07:00",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,15 +41,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.suppliersmap.com/tesla",
+      "url": "https://en.wikipedia.org/wiki/Tesla,_Inc.",
       "query": "Tesla, Inc. suppliers manufacturers",
-      "snippet": "Explore Tesla's key suppliers including CATL and Panasonic for batteries, Samsung for chips, Bosch for braking systems, and STMicroelectronics for pow"
+      "snippet": "Tesla purchases these batteries from three suppliers , CATL, LG Energy Solution, and Panasonic, the latter of which has co-located some of its battery"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/TSLA-Suppliers",
+      "url": "https://csimarket.com/stocks/suppliers_glance.php?code=TSLA",
       "query": "Tesla, Inc. suppliers manufacturers",
-      "snippet": "4 days ago · Tesla Inc 's Comment on Supply Chain Model S uses over 2,000 purchased parts which we source globally from over 300 suppliers , the major"
+      "snippet": "Tesla Inc 's Suppliers Performance. TSLA's Supply Chain. Tesla relies on a wide range of suppliers beyond just battery manufacturers to build our elec"
     },
     {
       "source": "DuckDuckGo",

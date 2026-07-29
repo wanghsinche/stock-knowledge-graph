@@ -3,8 +3,8 @@ ticker: GS
 company: The Goldman Sachs Group, Inc.
 sector: Financial Services
 industry: Capital Markets
-extracted_at: 2026-07-28 17:31:42
-last_updated: 2026-07-28
+extracted_at: 2026-07-29 17:19:10
+last_updated: 2026-07-29
 ---
 
 # GS - The Goldman Sachs Group, Inc.
@@ -12,37 +12,37 @@ last_updated: 2026-07-28
 ## 基本信息
 
 - **所属行业**: Financial Services / Capital Markets
-- **提取时间**: 2026-07-28 17:31:42
+- **提取时间**: 2026-07-29 17:19:10
 
 ## 产业链关系
 
 ### 上游供应商
 - [[Technology vendors (e.g., Bloomberg, Refinitiv)]]
-- [[Data providers (e.g., S&P Global, Moody’s)]]
+- [[Data providers (e.g., FactSet)]]
 - [[Legal and compliance service firms]]
 - [[Risk management software providers]]
-- [[Infrastructure and cloud service providers]]
+- [[Cloud infrastructure providers (e.g., AWS, Azure)]]
 
 ### 下游客户
-- [[Corporations seeking M&A advisory]]
+- [[Corporate clients (e.g., Fortune 500 companies)]]
 - [[Sovereign and municipal governments]]
-- [[Institutional investors (pension funds, endowments)]]
+- [[Institutional investors (pension funds, mutual funds)]]
 - [[High‑net‑worth individuals]]
-- [[Asset‑management firms]]
+- [[Retail investors via brokerage platforms]]
 
 ### 竞争对手
 - [[JPMorgan Chase & Co.]]
 - [[Morgan Stanley]]
 - [[Bank of America Merrill Lynch]]
-- [[Citigroup]]
-- [[UBS]]
+- [[Citigroup Inc.]]
+- [[Credit Suisse]]
 
 ### 核心产品
 - [[Investment banking advisory]]
 - [[Securities underwriting]]
 - [[Asset management]]
 - [[Wealth management]]
-- [[Prime brokerage and trading]]
+- [[Trading and market making]]
 
 ## 数据来源
 
@@ -50,8 +50,8 @@ last_updated: 2026-07-28
 - [The Goldman Sachs Group, Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/Goldman_Sachs)
 - [The Goldman Sachs Group, Inc. suppliers manufacturers](https://www.goldmansachs.com/)
 - [The Goldman Sachs Group, Inc. major customers clients](https://en.wikipedia.org/wiki/Goldman_Sachs)
-- [The Goldman Sachs Group, Inc. major customers clients](https://csimarket.com/stocks/GS-Customers)
+- [The Goldman Sachs Group, Inc. major customers clients](https://www.goldmansachs.com/)
 
 ## 元数据
 
-- **更新日期**: 2026-07-28
+- **更新日期**: 2026-07-29

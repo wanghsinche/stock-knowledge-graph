@@ -1,37 +1,37 @@
 {
   "ticker": "CRWV",
   "company_name": "CoreWeave, Inc.",
-  "sector": "Technology",
-  "industry": "Software - Infrastructure",
+  "sector": "Technology / Software - Infrastructure",
+  "industry": "AI Cloud Computing / GPU Infrastructure",
   "upstream": [
     "NVDA",
     "AMD",
     "INTC",
-    "TSM",
-    "QCOM"
+    "DELL",
+    "Supermicro"
   ],
   "downstream": [
-    "AI research labs",
-    "Hyperscalers",
-    "Enterprise AI developers",
-    "Start‑up AI companies",
-    "Gaming and simulation firms"
+    "OpenAI",
+    "GOOGL",
+    "MSFT",
+    "AMZN",
+    "NVDA"
   ],
   "competitors": [
     "NVDA",
     "GOOGL",
     "AMZN",
     "MSFT",
-    "Lambda Labs"
+    "IBM"
   ],
   "key_products": [
-    "GPU‑based AI cloud infrastructure",
-    "CoreWeave AI‑native platform",
-    "Chip management software",
-    "GPU‑accelerated compute instances",
-    "Data‑center scale GPU clusters"
+    "GPU cloud infrastructure",
+    "GPU instances",
+    "GPU clusters",
+    "AI compute services",
+    "GPU management software"
   ],
-  "extracted_at": "2026-07-28 17:29:13",
+  "extracted_at": "2026-07-29 17:20:46",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,13 +43,13 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/CoreWeave",
       "query": "CoreWeave, Inc. suppliers manufacturers",
-      "snippet": "CoreWeave , Inc . is an American artificial intelligence (AI) cloud-computing company based in Livingston, New Jersey. It specializes in providing clo"
+      "snippet": "CoreWeave , Inc . is an American artificial intelligence (AI) cloud-computing company based in Livingston, New Jersey."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.coreweave.com/",
+      "url": "https://itrusty.io/en/tokenized-stocks/assets/crwv",
       "query": "CoreWeave, Inc. suppliers manufacturers",
-      "snippet": "CoreWeave Cloud is an AI-native platform purpose-built for AI. It combines next-generation infrastructure, intelligent tools, and expert support to po"
+      "snippet": "CoreWeave , Inc . is a U.S.-based AI cloud infrastructure company whose CoreWeave Cloud platform provides large-scale GPU compute, storage, and networ"
     },
     {
       "source": "DuckDuckGo",
@@ -59,9 +59,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://247wallst.com/investing/2026/07/27/coreweave-is-71-after-falling-43-in-a-year-one-analyst-thinks-it-can-rocket-to-250/",
+      "url": "https://itrusty.io/en/tokenized-stocks/assets/crwv",
       "query": "CoreWeave, Inc. major customers clients",
-      "snippet": "CoreWeave rents GPU-accelerated compute to AI labs and hyperscalers, with named customers including Meta, Anthropic, Cohere, Mistral, and Perplexity."
+      "snippet": "CoreWeave , Inc . is a U.S.-based AI cloud infrastructure company whose CoreWeave Cloud platform provides large-scale GPU compute, storage, and networ"
     }
   ]
 }

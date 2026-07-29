@@ -1,37 +1,37 @@
 {
   "ticker": "VRT",
   "company_name": "Vertiv Holdings Co",
-  "sector": "Industrials / Electrical Equipment & Parts",
-  "industry": "Data Center Infrastructure & Electrical Equipment",
+  "sector": "Industrials",
+  "industry": "Electrical Equipment & Parts",
   "upstream": [
-    "Power electronics manufacturers",
+    "Power supply manufacturers",
     "Cooling system suppliers",
-    "Electronic component suppliers",
-    "Industrial equipment suppliers",
-    "Software platform providers"
+    "Rack and enclosure suppliers",
+    "Networking equipment manufacturers",
+    "Component suppliers (semiconductors)"
   ],
   "downstream": [
-    "AMZN",
-    "GOOGL",
-    "MSFT",
-    "Telecom operators",
-    "Financial institutions"
+    "Data center operators",
+    "CAT",
+    "Cloud service providers",
+    "Enterprise IT departments",
+    "Government agencies"
   ],
   "competitors": [
     "Schneider Electric",
-    "ABB",
     "Eaton",
-    "Delta Electronics",
+    "ABB",
+    "Emerson",
     "Rittal"
   ],
   "key_products": [
-    "Uninterruptible Power Supplies (UPS)",
-    "Power Distribution Units (PDUs)",
-    "Cooling systems",
-    "Rack‑mount infrastructure",
-    "Environmental monitoring solutions"
+    "Power distribution units (PDUs)",
+    "Uninterruptible power supplies (UPS)",
+    "Data center cooling systems",
+    "Racks and enclosures",
+    "Data center infrastructure management (DCIM) software"
   ],
-  "extracted_at": "2026-07-28 17:30:12",
+  "extracted_at": "2026-07-29 17:09:24",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.vertiv.com/en-us/about/supplier/",
+      "url": "https://www.vertiv.com/en-emea/",
       "query": "Vertiv Holdings Co suppliers manufacturers",
-      "snippet": "Actively support all Vertiv quality requirements and standards Demonstrate a commitment to superior customer service through the application of perfor"
+      "snippet": "Vertiv is a global leader in critical digital infrastructure for applications in data centers, communication networks, and commercial and industrial e"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://partners.vertiv.com/English/directory",
+      "url": "https://ca.finance.yahoo.com/news/jim-cramer-vertiv-holdings-one-133455922.html",
       "query": "Vertiv Holdings Co suppliers manufacturers",
-      "snippet": "Easily find Vertiv partners and distributors worldwide using the comprehensive Partner Locator tool."
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.stockjabber.com/company/VRT/company-insights",
-      "query": "Vertiv Holdings Co major customers clients",
-      "snippet": "Explore Vertiv Holdings Co 's business overview, products, customer base, competitors, revenue model, specialties, and geographic presence in one deta"
+      "snippet": "Vertiv Holdings Co (NYSE:VRT) is one of Jim Cramer’s latest stock calls as oil drops and the U.S. market rises. Vertiv Holdings Co (NYSE:VRT) designs,"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://247wallst.com/investing/2026/07/25/3-major-reasons-to-buy-vertiv-before-july-29-q2-earnings/",
       "query": "Vertiv Holdings Co major customers clients",
       "snippet": "Vertiv Holdings (NYSE:VRT | VRT Price Prediction) reports Q2 2026 earnings on July 29 with a $15 billion backlog and management forecasting 50% to 52%"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.insidermonkey.com/blog/vertiv-holdings-co-vrt-continues-to-add-strong-backlogs-1794300/",
+      "query": "Vertiv Holdings Co major customers clients",
+      "snippet": "Vertiv Holdings Co (NYSE:VRT) is ranked 38th on our list of 40 Most Popular Stocks Among Hedge Funds Heading Into 2026. According to our database, 96 "
     }
   ]
 }

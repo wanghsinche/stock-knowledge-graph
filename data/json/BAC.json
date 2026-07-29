@@ -4,35 +4,34 @@
   "sector": "Financial Services",
   "industry": "Banks - Diversified",
   "upstream": [
-    "Technology vendors (software & hardware)",
-    "Consulting & advisory firms",
-    "Office equipment suppliers",
-    "Cybersecurity service providers",
-    "Data center & cloud infrastructure providers"
+    "MSFT",
+    "Payment processors (e.g., Visa, Mastercard)",
+    "Data providers (e.g., Bloomberg, Thomson Reuters)",
+    "Credit card processors (e.g., Visa, Mastercard)",
+    "Regulatory bodies (e.g., Federal Reserve, OCC)"
   ],
   "downstream": [
-    "Retail banking customers",
-    "Small‑to‑medium business clients",
-    "Corporate & institutional banking clients",
-    "Mortgage borrowers",
-    "Wealth management and investment advisory clients"
+    "Retail customers (individuals)",
+    "Corporate clients (mid‑size to large enterprises)",
+    "Government agencies and public sector entities",
+    "Small and medium enterprises (SMEs)",
+    "High‑net‑worth individuals (wealth management)"
   ],
   "competitors": [
-    "JPMorgan Chase & Co.",
-    "Wells Fargo & Co.",
-    "Citigroup Inc.",
-    "Goldman Sachs Group Inc.",
+    "JPMorgan Chase",
+    "Wells Fargo",
+    "Citigroup",
+    "Goldman Sachs",
     "Morgan Stanley"
   ],
   "key_products": [
-    "Consumer checking and savings accounts",
-    "Credit card products",
-    "Mortgage and home equity loans",
-    "Commercial and corporate banking services",
-    "Investment banking and capital markets",
-    "Wealth management and private banking"
+    "Retail banking services (checking, savings)",
+    "Commercial banking and lending",
+    "Investment banking and advisory",
+    "Wealth management and private banking",
+    "Credit cards and payment services"
   ],
-  "extracted_at": "2026-07-27 17:37:08",
+  "extracted_at": "2026-07-29 17:22:35",
   "sources": [
     {
       "source": "Wikipedia",
@@ -42,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://about.bankofamerica.com/en/our-company/supplier-management",
+      "url": "https://www.bankofamerica.com/",
       "query": "Bank of America Corporation suppliers manufacturers",
-      "snippet": "Bank of America is dedicated to partnering with suppliers who value ethics, inclusion, human rights, and the environment. Learn more about our supplie"
+      "snippet": "At Bank of America , our purpose is to help make financial lives better through the power of every connection.Get it on the App Store. Download the Ba"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/BAC-Suppliers",
+      "url": "https://www.britannica.com/money/Bank-of-America-Corporation",
       "query": "Bank of America Corporation suppliers manufacturers",
-      "snippet": "Jun 17, 2026 · For your research, we’ve provided nine additional tables on Bank Of America Corporation ’s suppliers . You can find them in the navigat"
+      "snippet": "Bank of America . American corporation . Print. Cite. Share. Links. Also known as: Bank of America Corporation , BankAmerica Corporation . Written and"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.bankofamerica.com/",
       "query": "Bank of America Corporation major customers clients",
-      "snippet": "At Bank of America , our purpose is to help make financial lives better through the power of every connection.Merrill Lynch Wealth Management Clients "
+      "snippet": "At Bank of America , our purpose is to help make financial lives better through the power of every connection.Get it on the App Store. Download the Ba"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.marketwatch.com/investing/stock/bac",
       "query": "Bank of America Corporation major customers clients",
-      "snippet": "Bank of America (BAC) Sees Over 3 Million Clients Join BofA Rewards Program. Bank of America Corp . is a bank and financial holding company, which eng"
+      "snippet": "Bank of America Corp . is a bank and financial holding company, which engages in the provision of banking and nonbank financial services. It operates "
     }
   ]
 }

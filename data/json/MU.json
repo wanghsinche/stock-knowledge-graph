@@ -3,35 +3,11 @@
   "company_name": "Micron Technology, Inc.",
   "sector": "Technology",
   "industry": "Semiconductors",
-  "upstream": [
-    "AMAT",
-    "ASML",
-    "LRCX",
-    "Tokyo Electron",
-    "KLA"
-  ],
-  "downstream": [
-    "AAPL",
-    "DELL",
-    "HPQ",
-    "Lenovo",
-    "005930.KS"
-  ],
-  "competitors": [
-    "005930.KS",
-    "SK Hynix",
-    "WDC",
-    "INTC",
-    "NVDA"
-  ],
-  "key_products": [
-    "Dynamic Random-Access Memory (DRAM)",
-    "NAND Flash Memory",
-    "High Bandwidth Memory (HBM)",
-    "Solid-State Drives (SSDs)",
-    "Memory Modules"
-  ],
-  "extracted_at": "2026-07-28 17:18:27",
+  "upstream": [],
+  "downstream": [],
+  "competitors": [],
+  "key_products": [],
+  "extracted_at": "2026-07-29 17:04:00",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +17,15 @@
     },
     {
       "source": "DuckDuckGo",
+      "url": "https://ru.wikipedia.org/wiki/Micron_Technology",
+      "query": "Micron Technology, Inc. suppliers manufacturers",
+      "snippet": "Micron Technology , Inc . Micron Technology — американская транснациональная корпорация, известная своей полупроводниковой продукцией, основную часть "
+    },
+    {
+      "source": "DuckDuckGo",
       "url": "https://www.micron.com/",
       "query": "Micron Technology, Inc. suppliers manufacturers",
       "snippet": "Explore Micron Technology , leading in semiconductors with a broad range of performance-enhancing memory and storage solutions.Learn about and enroll "
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/MU/",
-      "query": "Micron Technology, Inc. suppliers manufacturers",
-      "snippet": "Micron Technology , Inc . designs, develops, manufactures , and sells memory and storage products in the United States, Taiwan, Japan, Mainland China,"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Micron_Technology",
-      "query": "Micron Technology, Inc. major customers clients",
-      "snippet": "3 hours ago - Micron Technology , Inc . is an American multinational semiconductor company that manufactures computer memory and computer data storage"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/markets_glance.php?code=MU",
-      "query": "Micron Technology, Inc. major customers clients",
-      "snippet": "June 26, 2026 - Micron Technology Inc customers and markets, results by customer and performance relative to MU, by company and industry - CSIMarket"
     }
   ]
 }

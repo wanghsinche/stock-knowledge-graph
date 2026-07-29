@@ -3,17 +3,47 @@
   "company_name": "Broadcom Inc.",
   "sector": "Technology",
   "industry": "Semiconductors",
-  "upstream": [],
-  "downstream": [],
-  "competitors": [],
-  "key_products": [],
-  "extracted_at": "2026-07-28 17:22:03",
+  "upstream": [
+    "AMAT",
+    "ASML",
+    "LRCX",
+    "Tokyo Electron",
+    "KLA"
+  ],
+  "downstream": [
+    "CSCO",
+    "DELL",
+    "HPQ",
+    "AMZN",
+    "MSFT"
+  ],
+  "competitors": [
+    "INTC",
+    "QCOM",
+    "NVDA",
+    "TXN",
+    "AMD"
+  ],
+  "key_products": [
+    "Ethernet controllers",
+    "Wi‑Fi chips",
+    "Broadband modems",
+    "Storage controllers",
+    "Network processors"
+  ],
+  "extracted_at": "2026-07-29 17:09:54",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Broadcom_Inc.",
       "title": "Broadcom",
       "snippet": "Broadcom Inc. is an American multinational designer, developer, manufacturer, and global supplier of a wide range of semiconductor and infrastructure software products. Broadcom's product offerings se"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/BCM",
+      "query": "Broadcom Inc. suppliers manufacturers",
+      "snippet": "Broadcom Inc ., designer, developer and global supplier of semiconductor products. Broadcom Corporation, subsidiary of Broadcom Inc . Banks."
     },
     {
       "source": "DuckDuckGo",
@@ -24,8 +54,14 @@
     {
       "source": "DuckDuckGo",
       "url": "https://www.broadcom.com/",
-      "query": "Broadcom Inc. suppliers manufacturers",
+      "query": "Broadcom Inc. major customers clients",
       "snippet": "Broadcom delivers semiconductors and infrastructure software for global enterprises’ most complex, mission-critical needs."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://x.com/Broadcom",
+      "query": "Broadcom Inc. major customers clients",
+      "snippet": "Broadcom Inc .Підтверджений профіль @ Broadcom ."
     }
   ]
 }

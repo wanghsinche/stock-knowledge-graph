@@ -4,25 +4,25 @@
   "sector": "Communication Services",
   "industry": "Internet Content & Information",
   "upstream": [
-    "NVDA",
-    "AMD",
     "QCOM",
     "INTC",
-    "005930.KS"
+    "NVDA",
+    "AMD",
+    "CSCO"
   ],
   "downstream": [
-    "Advertisers (brands & agencies)",
-    "Media companies",
-    "E‑commerce merchants",
-    "Game developers",
-    "Content creators"
+    "Coca‑Cola",
+    "Nike",
+    "005930.KS",
+    "Procter & Gamble",
+    "GOOGL"
   ],
   "competitors": [
     "GOOGL",
-    "AMZN",
-    "AAPL",
-    "MSFT",
-    "Snap Inc. (Snapchat)"
+    "ByteDance (TikTok)",
+    "Snap Inc.",
+    "X Corp (Twitter)",
+    "Pinterest"
   ],
   "key_products": [
     "Facebook",
@@ -31,7 +31,7 @@
     "Messenger",
     "Meta Ads"
   ],
-  "extracted_at": "2026-07-28 17:23:20",
+  "extracted_at": "2026-07-29 17:08:33",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/META-Suppliers",
+      "url": "https://ru.wikipedia.org/wiki/Meta_Platforms",
       "query": "Meta Platforms, Inc. suppliers manufacturers",
-      "snippet": "Jul 7, 2026 · Meta Platforms Inc 's Suppliers recorded an increase in sales by 14.3 % year on year in Q1 2026, sequentially sales grew by 13.44 %, Met"
+      "snippet": "Meta Platforms , Inc . — американская транснациональная холдинговая компания, владеющая технологическим конгломератом и расположенная в Менло-Парке, К"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.makesureiknowit.com/company/meta-platforms",
+      "url": "https://www.meta.com/about/",
       "query": "Meta Platforms, Inc. suppliers manufacturers",
-      "snippet": "Who supplies Meta Platforms ? Its supply chain spans suppliers like NVIDIA, AMD and more — see the full tier-by-tier map with live stock tickers."
+      "snippet": "Meta - Social Media Advertising Platform (Facebook & Instagram)."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Meta_Platforms",
+      "url": "https://www.meta.com/about/",
       "query": "Meta Platforms, Inc. major customers clients",
-      "snippet": "Meta Platforms , Inc . (doing business as Meta) is an American multinational technology company headquartered in Menlo Park, California. Meta owns and"
+      "snippet": "Meta - Social Media Advertising Platform (Facebook & Instagram)."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/META-Customers",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-andra-ap-fonden-buys-181412-shares-of-meta-platforms-inc-meta-2026-07-26/",
       "query": "Meta Platforms, Inc. major customers clients",
-      "snippet": "Meta Platforms Inc 's Comment on Sales, Marketing and Customers The majority of our marketers use our self-service ad platform to establish accounts a"
+      "snippet": "Vanguard Group Inc . boosted its holdings in Meta Platforms by 3.8% in the 4th quarter. Vanguard Group Inc . now owns 199,995,630 shares of the social"
     }
   ]
 }
