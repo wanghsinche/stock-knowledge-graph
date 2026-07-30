@@ -1,37 +1,37 @@
 {
   "ticker": "SNDK",
-  "company_name": "Sandisk Corporation",
+  "company_name": "SanDisk Corporation",
   "sector": "Technology",
   "industry": "Computer Hardware",
   "upstream": [
-    "TSM",
-    "005930.KS",
-    "MU",
-    "INTC",
-    "SK Hynix"
+    "Semiconductor manufacturers",
+    "Memory chip suppliers",
+    "Packaging and assembly providers",
+    "Electronic component suppliers",
+    "Raw material suppliers"
   ],
   "downstream": [
-    "AAPL",
-    "005930.KS",
-    "HPQ",
-    "DELL",
-    "SONY"
+    "PC manufacturers",
+    "Smartphone OEMs",
+    "Enterprise storage vendors",
+    "Consumer electronics retailers",
+    "Cloud service providers"
   ],
   "competitors": [
     "WDC",
+    "STX",
     "Kingston Technology",
-    "Lexar",
-    "MU",
-    "005930.KS"
+    "005930.KS",
+    "MU"
   ],
   "key_products": [
-    "Flash memory cards",
     "USB flash drives",
-    "Solid‑state drives (SSDs)",
-    "Embedded flash memory",
-    "Memory modules for PCs"
+    "SD memory cards",
+    "SSD drives",
+    "External hard drives",
+    "Memory modules"
   ],
-  "extracted_at": "2026-07-29 17:04:12",
+  "extracted_at": "2026-07-30 17:15:25",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,15 +41,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.sandisk.com/company/distributors",
+      "url": "https://www.sandisk.com/",
       "query": "Sandisk Corporation suppliers manufacturers",
-      "snippet": "Region · Loading Region · Country/Area · Loading Country/Area · Brand · Loading Brand · Distributors | SanDisk"
+      "snippet": "Sandisk online store members receive free standard shipping on all eligible orders.Offer must be redeemed by January 31, 2028, or while activation cod"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.trustedparts.com/en/manufacturers/sandisk",
+      "url": "https://finance.yahoo.com/quote/SNDK/",
       "query": "Sandisk Corporation suppliers manufacturers",
-      "snippet": "SanDisk distributor stock, prices & datasheets from authorized distributors. Search authorized SanDisk inventory."
+      "snippet": "Sandisk Corporation develops, manufactures , and sells data storage devices and solutions using NAND flash technology in the United States, Europe, th"
     },
     {
       "source": "DuckDuckGo",

@@ -7,30 +7,31 @@
     "AMZN",
     "MSFT",
     "GOOGL",
-    "DELL",
+    "ORCL",
     "IBM"
   ],
   "downstream": [
     "U.S. Department of Defense",
-    "Federal Bureau of Investigation",
-    "J.P. Morgan Chase",
+    "INTC",
+    "JPMorgan Chase",
     "Walmart",
-    "Airbus"
+    "Airbnb"
   ],
   "competitors": [
     "Snowflake",
     "Databricks",
     "Splunk",
-    "Tableau Software",
+    "Tableau",
     "MSFT"
   ],
   "key_products": [
-    "Palantir Foundry",
-    "Palantir Gotham",
+    "Foundry",
+    "Gotham",
     "Palantir Apollo",
-    "Palantir Helix"
+    "Palantir Platform",
+    "Palantir Data Lake"
   ],
-  "extracted_at": "2026-07-29 17:18:18",
+  "extracted_at": "2026-07-30 17:25:27",
   "sources": [
     {
       "source": "Wikipedia",
@@ -58,9 +59,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/PLTR/",
+      "url": "https://www.marketwatch.com/investing/stock/pltr",
       "query": "Palantir Technologies Inc. major customers clients",
-      "snippet": "Find the latest Palantir Technologies Inc . (PLTR) stock quote, history, news and other vital information to help you with your stock trading and inve"
+      "snippet": "PLTR | Complete Palantir Technologies Inc . stock news by MarketWatch. View real-time stock prices and stock quotes for a full financial overview."
     }
   ]
 }

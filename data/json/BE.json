@@ -3,11 +3,35 @@
   "company_name": "Bloom Energy Corporation",
   "sector": "Industrials",
   "industry": "Electrical Equipment & Parts",
-  "upstream": [],
-  "downstream": [],
-  "competitors": [],
-  "key_products": [],
-  "extracted_at": "2026-07-29 17:07:40",
+  "upstream": [
+    "Natural gas suppliers",
+    "Hydrogen suppliers",
+    "Electrolyzer component suppliers",
+    "Fuel cell stack component suppliers",
+    "Materials suppliers (zirconia, platinum, etc.)"
+  ],
+  "downstream": [
+    "MSFT",
+    "Manufacturing facilities",
+    "Commercial building operators",
+    "Utilities",
+    "Government agencies"
+  ],
+  "competitors": [
+    "FuelCell Energy",
+    "Plug Power",
+    "ITM Power",
+    "Ballard Power Systems",
+    "NRG Energy"
+  ],
+  "key_products": [
+    "Solid oxide fuel cells (SOFC)",
+    "On‑site fuel cell power systems",
+    "Electrolyzers for hydrogen production",
+    "Hydrogen fuel cell systems",
+    "Power generation solutions for data centers and manufacturing"
+  ],
+  "extracted_at": "2026-07-30 17:18:02",
   "sources": [
     {
       "source": "Wikipedia",
@@ -17,15 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.bloomenergy.com/",
-      "query": "Bloom Energy Corporation suppliers manufacturers",
-      "snippet": "Bloom Energy delivers clean, reliable, scalable onsite power to multiple industries, installed in as little as three months.Fast to Deploy. Bloom ’s E"
-    },
-    {
-      "source": "DuckDuckGo",
       "url": "https://www.petrochemical.com/suppliers/bloom-energy-corporation",
       "query": "Bloom Energy Corporation suppliers manufacturers",
       "snippet": "Bloom Energy Corporation is a Hydrogen supplier based in San Jose, United States of America. View company profile, contact details, and related suppli"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.linkedin.com/company/bloom-energy",
+      "query": "Bloom Energy Corporation suppliers manufacturers",
+      "snippet": "Bloom Energy . Fuel Cell Manufacturing . San Jose, California 159,535 followers.As grid constraints and rising energy costs persist, more manufacturer"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/Bloom_Energy",
+      "query": "Bloom Energy Corporation major customers clients",
+      "snippet": "Bloom Energy Corporation (formerly, Ion America Corp.) is an American public company that designs and manufactures solid oxide fuel cells (SOFCs) whic"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.bloomenergy.com/customers/",
+      "query": "Bloom Energy Corporation major customers clients",
+      "snippet": "Bloom Energy's customers have important goals: clean energy, dependency, resiliency, reliability, and affordability. We're here to help reach those go"
     }
   ]
 }

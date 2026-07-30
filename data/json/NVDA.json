@@ -8,30 +8,30 @@
     "005930.KS",
     "GlobalFoundries",
     "UMC",
-    "MU"
+    "ASE Group"
   ],
   "downstream": [
-    "MSFT",
-    "AMZN",
-    "GOOGL",
     "SONY",
+    "MSFT",
+    "DELL",
+    "AMZN",
     "TSLA"
   ],
   "competitors": [
     "AMD",
     "INTC",
     "QCOM",
-    "AAPL",
-    "GOOGL"
+    "AVGO",
+    "AAPL"
   ],
   "key_products": [
-    "GeForce RTX 40 Series",
-    "NVIDIA A100 GPU",
-    "NVIDIA Jetson",
-    "NVIDIA DGX A100",
-    "CUDA Toolkit"
+    "GeForce RTX GPUs",
+    "Quadro RTX GPUs",
+    "Tesla AI GPUs",
+    "Jetson SoCs",
+    "DGX AI supercomputers"
   ],
-  "extracted_at": "2026-07-29 17:05:05",
+  "extracted_at": "2026-07-30 17:15:55",
   "sources": [
     {
       "source": "Wikipedia",
@@ -53,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/news/nvidias-biggest-customers-095700428.html",
+      "url": "https://finance.yahoo.com/quote/NVDA/",
       "query": "NVIDIA Corporation major customers clients",
-      "snippet": "June 26, 2025 - Nvidia has amassed an impressive list of customers, which includes top AI developers like Amazon, Microsoft, and Alphabet . Nvidia's c"
+      "snippet": "Find the latest NVIDIA Corporation (NVDA) stock quote, history, news and other vital information to help you with your stock trading and investing."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/news/nvidias-largest-customers-201900375.html",
+      "url": "https://www.tradingview.com/symbols/NASDAQ-NVDA/",
       "query": "NVIDIA Corporation major customers clients",
-      "snippet": "May 2, 2024 - However, in its recent 10-K filing, the company did say that one customer represented 13% of its revenue from its compute and networking"
+      "snippet": "View live NVIDIA Corporation chart to track its stock's price action. Find market predictions, NVDA financials and market news."
     }
   ]
 }

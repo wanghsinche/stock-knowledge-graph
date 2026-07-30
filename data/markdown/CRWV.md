@@ -1,18 +1,18 @@
 ---
 ticker: CRWV
 company: CoreWeave, Inc.
-sector: Technology / Software - Infrastructure
-industry: AI Cloud Computing / GPU Infrastructure
-extracted_at: 2026-07-29 17:20:46
-last_updated: 2026-07-29
+sector: Technology
+industry: Software - Infrastructure
+extracted_at: 2026-07-30 17:21:13
+last_updated: 2026-07-30
 ---
 
 # CRWV - CoreWeave, Inc.
 
 ## 基本信息
 
-- **所属行业**: Technology / Software - Infrastructure / AI Cloud Computing / GPU Infrastructure
-- **提取时间**: 2026-07-29 17:20:46
+- **所属行业**: Technology / Software - Infrastructure
+- **提取时间**: 2026-07-30 17:21:13
 
 ## 产业链关系
 
@@ -20,38 +20,38 @@ last_updated: 2026-07-29
 - [[NVDA]]
 - [[AMD]]
 - [[INTC]]
-- [[DELL]]
-- [[Supermicro]]
+- [[MU]]
+- [[005930.KS]]
 
 ### 下游客户
 - [[OpenAI]]
-- [[GOOGL]]
+- [[IBM]]
 - [[MSFT]]
+- [[GOOGL]]
 - [[AMZN]]
-- [[NVDA]]
 
 ### 竞争对手
 - [[NVDA]]
-- [[GOOGL]]
-- [[AMZN]]
+- [[AMD]]
+- [[AWS GPU Instances]]
 - [[MSFT]]
-- [[IBM]]
+- [[GOOGL]]
 
 ### 核心产品
 - [[GPU cloud infrastructure]]
-- [[GPU instances]]
-- [[GPU clusters]]
-- [[AI compute services]]
+- [[GPU-as-a-service]]
+- [[AI cloud computing]]
 - [[GPU management software]]
+- [[custom GPU clusters]]
 
 ## 数据来源
 
 - [CoreWeave](https://en.wikipedia.org/wiki/CoreWeave,_Inc.)
 - [CoreWeave, Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/CoreWeave)
-- [CoreWeave, Inc. suppliers manufacturers](https://itrusty.io/en/tokenized-stocks/assets/crwv)
+- [CoreWeave, Inc. suppliers manufacturers](https://www.alibaba.com/?src)
 - [CoreWeave, Inc. major customers clients](https://en.wikipedia.org/wiki/CoreWeave)
-- [CoreWeave, Inc. major customers clients](https://itrusty.io/en/tokenized-stocks/assets/crwv)
+- [CoreWeave, Inc. major customers clients](https://www.coreweave.com/case-studies)
 
 ## 元数据
 
-- **更新日期**: 2026-07-29
+- **更新日期**: 2026-07-30

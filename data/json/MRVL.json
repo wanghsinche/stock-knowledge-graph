@@ -4,34 +4,34 @@
   "sector": "Technology",
   "industry": "Semiconductors",
   "upstream": [
-    "ASML",
-    "AMAT",
-    "LRCX",
-    "Tokyo Electron",
-    "KLA"
+    "TSM",
+    "005930.KS",
+    "GlobalFoundries",
+    "UMC",
+    "SMIC"
   ],
   "downstream": [
     "CSCO",
-    "DELL",
-    "Lenovo",
-    "NetApp",
-    "005930.KS"
+    "Huawei Technologies",
+    "Nokia",
+    "AMZN",
+    "MSFT"
   ],
   "competitors": [
     "AVGO",
-    "INTC",
     "QCOM",
-    "NVDA",
-    "MediaTek"
+    "INTC",
+    "MediaTek Inc.",
+    "NVDA"
   ],
   "key_products": [
-    "SATA/SAS storage controllers",
-    "NVMe SSD controllers",
+    "5G modem chips",
     "Ethernet controllers",
-    "Wi‑Fi 6/6E chips",
-    "5G modem chips"
+    "NVMe SSD controllers",
+    "Wi‑Fi chips",
+    "Network processors"
   ],
-  "extracted_at": "2026-07-29 17:12:25",
+  "extracted_at": "2026-07-30 17:21:00",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,9 +47,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.linkedin.com/company/marvell",
+      "url": "https://finance.yahoo.com/quote/MRVL/",
       "query": "Marvell Technology, Inc. suppliers manufacturers",
-      "snippet": "Marvell Technology | 480,342 followers on LinkedIn. We believe that infrastructure powers progress."
+      "snippet": "Marvell Technology , Inc ., together with its subsidiaries, provides data infrastructure semiconductor solutions and spanning the data center core to "
     },
     {
       "source": "DuckDuckGo",
@@ -59,9 +59,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.barrons.com/market-data/stocks/mrvl",
+      "url": "https://finance.yahoo.com/quote/MRVL/",
       "query": "Marvell Technology, Inc. major customers clients",
-      "snippet": "Complete Marvell Technology Inc . stock information by Barron's. View real-time MRVL stock price and news, along with industry-best analysis. Marvell "
+      "snippet": "Find the latest Marvell Technology , Inc . (MRVL) stock quote, history, news and other vital information to help you with your stock trading and inves"
     }
   ]
 }

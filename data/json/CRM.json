@@ -1,26 +1,26 @@
 {
   "ticker": "CRM",
-  "company_name": "Salesforce, Inc.",
+  "company_name": "Salesforce.com, Inc.",
   "sector": "Technology",
   "industry": "Software - Application",
   "upstream": [
-    "ExactTarget Inc.",
-    "MSFT",
     "AMZN",
+    "MSFT",
     "GOOGL",
-    "ORCL"
+    "ORCL",
+    "IBM"
   ],
   "downstream": [
-    "Deloitte",
-    "Accenture",
-    "IBM",
-    "Walmart",
-    "Coca‑Cola"
+    "Coca‑Cola",
+    "Toyota",
+    "American Express",
+    "AT&T",
+    "Unilever"
   ],
   "competitors": [
     "MSFT",
-    "ORCL",
     "SAP Sales Cloud",
+    "ORCL",
     "HubSpot",
     "Zoho CRM"
   ],
@@ -31,37 +31,37 @@
     "Commerce Cloud",
     "Einstein AI"
   ],
-  "extracted_at": "2026-07-29 17:16:50",
+  "extracted_at": "2026-07-30 17:30:39",
   "sources": [
     {
       "source": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Salesforce,_Inc.",
-      "title": "Salesforce",
-      "snippet": "Salesforce, Inc., is an American cloud-based software company headquartered in San Francisco, California. It is primarily known for its customer relationship management software and related applicatio"
+      "url": "https://en.wikipedia.org/wiki/CRM",
+      "title": "CRM",
+      "snippet": "CRM may refer to:"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/CRM-Suppliers",
-      "query": "Salesforce, Inc. suppliers manufacturers",
-      "snippet": "Salesforce Inc supply chain, list and performance of Salesforce Incs ' suppliers - CSIMarket."
+      "url": "https://www.alibaba.com/crm-suppliers.html",
+      "query": "CRM suppliers manufacturers",
+      "snippet": "Crm , Crm Suppliers Directory - Find variety Crm Suppliers , Manufacturers , Companies from around the World at customer relationship management crm ,"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.salesforce.com/",
-      "query": "Salesforce, Inc. suppliers manufacturers",
-      "snippet": "ExactTarget Inc ."
+      "url": "https://panjiva.com/Manufacturers-Of/crm",
+      "query": "CRM suppliers manufacturers",
+      "snippet": "manufacturers and suppliers of crm from around the world. Panjiva uses over 30 international data sources to help you find qualified vendors of crm ."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://simplywall.st/stocks/us/software/nyse-crm/salesforce/management",
-      "query": "Salesforce, Inc. major customers clients",
-      "snippet": "Learn about Salesforce , Inc . (CRM) stock's management team. Comprehensive performance, salary and tenure analysis for the CEO, board and leadership "
+      "url": "https://www.educba.com/ai-in-crm/",
+      "query": "CRM major customers clients",
+      "snippet": "AI in CRM uses machine learning and natural language processing to analyze customer data, predict behaviors such as churn and purchase likelihood, aut"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://blog.techdatapark.com/top-companies-that-use-salesforce/",
-      "query": "Salesforce, Inc. major customers clients",
-      "snippet": "Deloitte incorporates Salesforce in multiple areas to manage clients and internal workflows. US Bank utilizes Salesforce to improve customer service a"
+      "url": "https://www.insightly.com/blog/cloud-based-crm/",
+      "query": "CRM major customers clients",
+      "snippet": "In practice, your sensitive customer data and customer information are often safer with a major CRM provider than on an under-maintained company serve"
     }
   ]
 }

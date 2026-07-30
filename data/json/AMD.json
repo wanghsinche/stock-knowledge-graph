@@ -5,63 +5,63 @@
   "industry": "Semiconductors",
   "upstream": [
     "TSM",
-    "005930.KS",
     "GlobalFoundries",
+    "005930.KS",
     "UMC",
-    "INTC"
+    "SMIC"
   ],
   "downstream": [
     "DELL",
     "HPQ",
-    "Lenovo Group",
-    "MSFT",
-    "SONY"
+    "Lenovo",
+    "SONY",
+    "MSFT"
   ],
   "competitors": [
     "INTC",
     "NVDA",
     "QCOM",
     "AVGO",
-    "TXN"
+    "005930.KS"
   ],
   "key_products": [
     "Ryzen CPUs",
     "EPYC CPUs",
     "Radeon GPUs",
-    "Xilinx FPGAs",
+    "Radeon Pro GPUs",
     "Radeon Instinct GPUs"
   ],
-  "extracted_at": "2026-07-29 17:06:28",
+  "extracted_at": "2026-07-30 17:16:13",
   "sources": [
     {
       "source": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Advanced_Micro_Devices,_Inc.",
+      "url": "https://en.wikipedia.org/wiki/AMD",
       "title": "AMD",
       "snippet": "Advanced Micro Devices, Inc. (AMD) is an American multinational semiconductor company headquartered in Santa Clara, California. It develops central processing units (CPUs), graphics processing units ("
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.britannica.com/money/Advanced-Micro-Devices-Inc",
-      "query": "Advanced Micro Devices, Inc. suppliers manufacturers",
-      "snippet": "Advanced Micro Devices , Inc . ( AMD ) is an American semiconductor designer and global supplier of computing and graphics technologies used in data c"
+      "url": "https://csimarket.com/stocks/suppliers_glance.php?code=AMD",
+      "query": "AMD suppliers manufacturers",
+      "snippet": "Advanced Micro Devices Inc supply chain, list and performance of Advanced Micro Devices Incs' suppliers - CSIMarket."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/AMD/",
-      "query": "Advanced Micro Devices, Inc. suppliers manufacturers",
-      "snippet": "Find the latest Advanced Micro Devices , Inc . ( AMD ) stock quote, history, news and other vital information to help you with your stock trading and "
+      "url": "https://www.alibaba.com/amd-suppliers.html",
+      "query": "AMD suppliers manufacturers",
+      "snippet": "Amd , Amd Suppliers Directory - Find variety Amd Suppliers , Manufacturers , Companies from around the World at amd ryzen 7 , amd radeon vii 16gb hbm2"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.britannica.com/money/Advanced-Micro-Devices-Inc",
-      "query": "Advanced Micro Devices, Inc. major customers clients",
-      "snippet": "Advanced Micro Devices , Inc . ( AMD ) is an American semiconductor designer and global supplier of computing and graphics technologies used in data c"
+      "url": "https://www.thestreet.com/investing/amd-advanced-micro-devices-stock-buy-the-dip-trading",
+      "query": "AMD major customers clients",
+      "snippet": "Shares of Advanced Micro Devices ( AMD ) have been giving traders a series of fits and starts."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ir.amd.com/",
-      "query": "Advanced Micro Devices, Inc. major customers clients",
-      "snippet": "Advanced Micro Devices , Inc . IR Overview. Investor Relations. AMD Expands AI Leadership Across Client , Graphics, and Software with New Ryzen, Ryzen"
+      "url": "https://moorinsightsstrategy.com/amd-ceo-lisa-su-and-the-art-of-a-turnaround/",
+      "query": "AMD major customers clients",
+      "snippet": "AMD CEO Dr. Lisa Su discusses the company’s upcoming “Zen” core architecture (Credit: AMD ) When Advanced Micro Devices CEO and President Lisa Su join"
     }
   ]
 }

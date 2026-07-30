@@ -1,37 +1,37 @@
 {
   "ticker": "VRT",
   "company_name": "Vertiv Holdings Co",
-  "sector": "Industrials",
-  "industry": "Electrical Equipment & Parts",
+  "sector": "Industrials / Electrical Equipment & Parts",
+  "industry": "Data Center Infrastructure",
   "upstream": [
-    "Power supply manufacturers",
-    "Cooling system suppliers",
-    "Rack and enclosure suppliers",
-    "Networking equipment manufacturers",
-    "Component suppliers (semiconductors)"
+    "Schneider Electric",
+    "ABB",
+    "Eaton",
+    "Siemens",
+    "Honeywell"
   ],
   "downstream": [
-    "Data center operators",
-    "CAT",
-    "Cloud service providers",
-    "Enterprise IT departments",
-    "Government agencies"
+    "AMZN",
+    "GOOGL",
+    "MSFT",
+    "Equinix",
+    "AT&T"
   ],
   "competitors": [
     "Schneider Electric",
-    "Eaton",
     "ABB",
-    "Emerson",
-    "Rittal"
+    "Eaton",
+    "CSCO",
+    "DELL"
   ],
   "key_products": [
-    "Power distribution units (PDUs)",
-    "Uninterruptible power supplies (UPS)",
-    "Data center cooling systems",
-    "Racks and enclosures",
-    "Data center infrastructure management (DCIM) software"
+    "Power Distribution Units (PDUs)",
+    "Uninterruptible Power Supplies (UPS)",
+    "Computer Room Air Conditioning (CRAC) units",
+    "Rack Enclosures",
+    "Data Center Infrastructure Management (DCIM) software"
   ],
-  "extracted_at": "2026-07-29 17:09:24",
+  "extracted_at": "2026-07-30 17:23:36",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,9 +47,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ca.finance.yahoo.com/news/jim-cramer-vertiv-holdings-one-133455922.html",
+      "url": "https://www.stockjabber.com/company/VRT/company-insights",
       "query": "Vertiv Holdings Co suppliers manufacturers",
-      "snippet": "Vertiv Holdings Co (NYSE:VRT) is one of Jim Cramer’s latest stock calls as oil drops and the U.S. market rises. Vertiv Holdings Co (NYSE:VRT) designs,"
+      "snippet": "Explore Vertiv Holdings Co 's business overview, products, customer base, competitors, revenue model, specialties, and geographic presence in one deta"
     },
     {
       "source": "DuckDuckGo",

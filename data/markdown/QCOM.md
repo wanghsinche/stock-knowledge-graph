@@ -3,8 +3,8 @@ ticker: QCOM
 company: Qualcomm Incorporated
 sector: Technology
 industry: Semiconductors
-extracted_at: 2026-07-29 17:21:54
-last_updated: 2026-07-29
+extracted_at: 2026-07-30 17:22:13
+last_updated: 2026-07-30
 ---
 
 # QCOM - Qualcomm Incorporated
@@ -12,7 +12,7 @@ last_updated: 2026-07-29
 ## 基本信息
 
 - **所属行业**: Technology / Semiconductors
-- **提取时间**: 2026-07-29 17:21:54
+- **提取时间**: 2026-07-30 17:22:13
 
 ## 产业链关系
 
@@ -20,29 +20,29 @@ last_updated: 2026-07-29
 - [[TSM]]
 - [[005930.KS]]
 - [[GlobalFoundries]]
-- [[INTC]]
 - [[MU]]
+- [[ADI]]
 
 ### 下游客户
 - [[AAPL]]
 - [[005930.KS]]
+- [[Xiaomi Inc.]]
 - [[Huawei Technologies]]
-- [[Xiaomi]]
-- [[TSLA]]
+- [[Ericsson AB]]
 
 ### 竞争对手
-- [[MediaTek]]
+- [[MediaTek Inc.]]
 - [[AAPL]]
 - [[005930.KS]]
-- [[INTC]]
 - [[AVGO]]
+- [[NVDA]]
 
 ### 核心产品
 - [[Snapdragon mobile processors]]
 - [[5G modems]]
-- [[AI processors]]
+- [[AI inference chips]]
 - [[RF front‑end modules]]
-- [[Baseband processors]]
+- [[Mobile SoCs]]
 
 ## 数据来源
 
@@ -54,4 +54,4 @@ last_updated: 2026-07-29
 
 ## 元数据
 
-- **更新日期**: 2026-07-29
+- **更新日期**: 2026-07-30

@@ -1,37 +1,37 @@
 {
   "ticker": "CRWV",
   "company_name": "CoreWeave, Inc.",
-  "sector": "Technology / Software - Infrastructure",
-  "industry": "AI Cloud Computing / GPU Infrastructure",
+  "sector": "Technology",
+  "industry": "Software - Infrastructure",
   "upstream": [
     "NVDA",
     "AMD",
     "INTC",
-    "DELL",
-    "Supermicro"
+    "MU",
+    "005930.KS"
   ],
   "downstream": [
     "OpenAI",
-    "GOOGL",
+    "IBM",
     "MSFT",
-    "AMZN",
-    "NVDA"
+    "GOOGL",
+    "AMZN"
   ],
   "competitors": [
     "NVDA",
-    "GOOGL",
-    "AMZN",
+    "AMD",
+    "AWS GPU Instances",
     "MSFT",
-    "IBM"
+    "GOOGL"
   ],
   "key_products": [
     "GPU cloud infrastructure",
-    "GPU instances",
-    "GPU clusters",
-    "AI compute services",
-    "GPU management software"
+    "GPU-as-a-service",
+    "AI cloud computing",
+    "GPU management software",
+    "custom GPU clusters"
   ],
-  "extracted_at": "2026-07-29 17:20:46",
+  "extracted_at": "2026-07-30 17:21:13",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,21 +47,21 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://itrusty.io/en/tokenized-stocks/assets/crwv",
+      "url": "https://www.alibaba.com/?src",
       "query": "CoreWeave, Inc. suppliers manufacturers",
-      "snippet": "CoreWeave , Inc . is a U.S.-based AI cloud infrastructure company whose CoreWeave Cloud platform provides large-scale GPU compute, storage, and networ"
+      "snippet": "Find quality Manufacturers , Suppliers , Exporters, Importers, Buyers, Wholesalers, Products and Trade Leads from our award-winning International Trad"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/CoreWeave",
       "query": "CoreWeave, Inc. major customers clients",
-      "snippet": "CoreWeave , Inc . is an American artificial intelligence cloud-computing company based in Livingston, New Jersey. It specializes in providing cloud-ba"
+      "snippet": "It specializes in providing cloud-based graphics processing unit (GPU) infrastructure to AI developers and enterprises, and also develops its own chip"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://itrusty.io/en/tokenized-stocks/assets/crwv",
+      "url": "https://www.coreweave.com/case-studies",
       "query": "CoreWeave, Inc. major customers clients",
-      "snippet": "CoreWeave , Inc . is a U.S.-based AI cloud infrastructure company whose CoreWeave Cloud platform provides large-scale GPU compute, storage, and networ"
+      "snippet": "Learn how CoreWeave customers like OpenAI and IBM are provisioning the GPUs they need and building AI infrastructure on a massive scale with unprecede"
     }
   ]
 }

@@ -1,34 +1,34 @@
 ---
 ticker: STX
-company: Seagate Technology Holdings plc
+company: Seagate Technology Holdings Inc.
 sector: Technology
 industry: Computer Hardware
-extracted_at: 2026-07-29 17:08:18
-last_updated: 2026-07-29
+extracted_at: 2026-07-30 17:19:17
+last_updated: 2026-07-30
 ---
 
-# STX - Seagate Technology Holdings plc
+# STX - Seagate Technology Holdings Inc.
 
 ## 基本信息
 
 - **所属行业**: Technology / Computer Hardware
-- **提取时间**: 2026-07-29 17:08:18
+- **提取时间**: 2026-07-30 17:19:17
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Silicon wafer suppliers]]
-- [[Magnetic material manufacturers]]
-- [[Electronic component suppliers]]
-- [[Firmware and software providers]]
-- [[Precision machining and assembly equipment suppliers]]
+- [[MU]]
+- [[005930.KS]]
+- [[SK Hynix]]
+- [[Toshiba]]
+- [[INTC]]
 
 ### 下游客户
 - [[DELL]]
 - [[HPQ]]
 - [[Lenovo Group]]
 - [[AAPL]]
-- [[005930.KS]]
+- [[AMZN]]
 
 ### 竞争对手
 - [[WDC]]
@@ -38,20 +38,20 @@ last_updated: 2026-07-29
 - [[IBM]]
 
 ### 核心产品
-- [[Enterprise HDDs]]
-- [[Consumer HDDs]]
-- [[External hard drives]]
-- [[SSD solutions]]
-- [[Storage management software]]
+- [[Hard Disk Drives]]
+- [[Solid State Drives]]
+- [[Enterprise Storage Solutions]]
+- [[Network Attached Storage]]
+- [[External Storage Devices]]
 
 ## 数据来源
 
-- 
-- [Seagate Technology Holdings plc suppliers manufacturers](http://www.seagate.com/)
-- [Seagate Technology Holdings plc suppliers manufacturers](https://aheha.com/seagate-technology-holdings-plcs-stx)
-- [Seagate Technology Holdings plc major customers clients](http://www.seagate.com/)
-- [Seagate Technology Holdings plc major customers clients](https://www.morningstar.com/company-reports/1304503-unrelenting-ai-demand-is-turning-the-tide-for-seagate-and-the-hdd-industry)
+- [STX](https://en.wikipedia.org/wiki/STX)
+- [STX suppliers manufacturers](https://csimarket.com/stocks/STX-Suppliers)
+- [STX suppliers manufacturers](https://panjiva.com/Manufacturers-Of/stx)
+- [STX major customers clients](https://finance.yahoo.com/quote/STX/holders/?ltr=1)
+- [STX major customers clients](https://www.marketbeat.com/stocks/NASDAQ/STX/institutional-ownership/)
 
 ## 元数据
 
-- **更新日期**: 2026-07-29
+- **更新日期**: 2026-07-30

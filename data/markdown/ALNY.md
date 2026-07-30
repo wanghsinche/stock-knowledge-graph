@@ -3,8 +3,8 @@ ticker: ALNY
 company: Alnylam Pharmaceuticals, Inc.
 sector: Healthcare
 industry: Biotechnology
-extracted_at: 2026-07-09 18:01:21
-last_updated: 2026-07-09
+extracted_at: 2026-07-30 17:31:29
+last_updated: 2026-07-30
 ---
 
 # ALNY - Alnylam Pharmaceuticals, Inc.
@@ -12,45 +12,46 @@ last_updated: 2026-07-09
 ## 基本信息
 
 - **所属行业**: Healthcare / Biotechnology
-- **提取时间**: 2026-07-09 18:01:21
+- **提取时间**: 2026-07-30 17:31:29
 
 ## 产业链关系
 
 ### 上游供应商
-- [[RNAi platform technology providers]]
+- [[RNAi technology providers]]
 - [[Contract manufacturing organizations (CMOs)]]
 - [[Biotech equipment suppliers]]
-- [[Genomics and sequencing service providers]]
 - [[Pharmaceutical ingredient suppliers]]
+- [[Research and development partners]]
 
 ### 下游客户
-- [[Hospitals and clinical care facilities]]
-- [[Pharmaceutical distributors]]
-- [[Academic and research institutions]]
+- [[Pharmaceutical companies]]
+- [[Hospitals and clinical centers]]
+- [[Academic research institutions]]
+- [[Biotech firms]]
 - [[Government health agencies]]
-- [[International health organizations]]
 
 ### 竞争对手
-- [[Arrowhead Pharmaceuticals]]
-- [[Silence Therapeutics]]
-- [[Sangamo Therapeutics]]
-- [[BioMarin Pharmaceutical]]
-- [[Pfizer (RNAi research arm)]]
+- [[Ionis Pharmaceuticals]]
+- [[Genentech]]
+- [[Novartis]]
+- [[Pfizer]]
+- [[Merck]]
 
 ### 核心产品
 - [[Onpattro (patisiran)]]
 - [[Givlaari (givosiran)]]
 - [[Leqvio (inclisiran)]]
-- [[ALN-PCS (preclinical RNAi therapeutic)]]
+- [[Lumasiran]]
+- [[ALN-PCS (preclinical RNAi platform)]]
 
 ## 数据来源
 
 - [Alnylam Pharmaceuticals](https://en.wikipedia.org/wiki/Alnylam_Pharmaceuticals,_Inc.)
 - [Alnylam Pharmaceuticals, Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/Alnylam_Pharmaceuticals)
-- [Alnylam Pharmaceuticals, Inc. suppliers manufacturers](https://csimarket.com/stocks/ALNY-Suppliers)
-- [Alnylam Pharmaceuticals, Inc. major customers clients](https://csimarket.com/stocks/ALNY-Customers)
+- [Alnylam Pharmaceuticals, Inc. suppliers manufacturers](https://www.alnylam.com/)
+- [Alnylam Pharmaceuticals, Inc. major customers clients](https://en.wikipedia.org/wiki/Alnylam_Pharmaceuticals)
 - [Alnylam Pharmaceuticals, Inc. major customers clients](https://www.alnylam.com/)
 
 ## 元数据
 
-- **更新日期**: 2026-07-09
+- **更新日期**: 2026-07-30

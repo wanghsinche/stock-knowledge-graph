@@ -3,8 +3,8 @@ ticker: JNJ
 company: Johnson & Johnson
 sector: Healthcare
 industry: Drug Manufacturers - General
-extracted_at: 2026-07-28 17:30:29
-last_updated: 2026-07-28
+extracted_at: 2026-07-30 17:32:42
+last_updated: 2026-07-30
 ---
 
 # JNJ - Johnson & Johnson
@@ -12,46 +12,47 @@ last_updated: 2026-07-28
 ## 基本信息
 
 - **所属行业**: Healthcare / Drug Manufacturers - General
-- **提取时间**: 2026-07-28 17:30:29
+- **提取时间**: 2026-07-30 17:32:42
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Active Pharmaceutical Ingredient (API) manufacturers]]
-- [[Chemical raw material suppliers]]
-- [[Packaging suppliers]]
-- [[Contract manufacturing organizations (CMOs)]]
-- [[Medical device component suppliers]]
+- [[BASF]]
+- [[Dow Chemical]]
+- [[Merck & Co.]]
+- [[Bayer AG]]
+- [[Ciba Specialty]]
 
 ### 下游客户
-- [[Hospitals and health systems]]
-- [[Retail pharmacies (e.g., CVS, Walgreens)]]
-- [[Health insurance providers]]
-- [[Government health agencies (e.g., Medicare, Medicaid)]]
-- [[International healthcare distributors]]
+- [[Hospitals]]
+- [[Pharmacies]]
+- [[Health care providers]]
+- [[Government agencies]]
+- [[Retail chains (e.g., CVS, Walgreens, Walmart)]]
 
 ### 竞争对手
 - [[Pfizer]]
 - [[Merck & Co.]]
 - [[AbbVie]]
-- [[Bristol Myers Squibb]]
+- [[Bristol-Myers Squibb]]
 - [[Amgen]]
 
 ### 核心产品
 - [[Tylenol (acetaminophen)]]
-- [[Band-Aid (adhesive bandages)]]
+- [[Band-Aid]]
 - [[Neutrogena skincare]]
-- [[Remicade (infliximab)]]
-- [[Xarelto (apixaban)]]
+- [[Stelara]]
+- [[Xarelto]]
+- [[Remicade]]
 
 ## 数据来源
 
 - [Johnson & Johnson](https://en.wikipedia.org/wiki/Johnson_&_Johnson)
 - [Johnson & Johnson suppliers manufacturers](https://www.jnj.com/suppliers)
-- [Johnson & Johnson suppliers manufacturers](https://csimarket.com/stocks/JNJ-Suppliers)
-- [Johnson & Johnson major customers clients](https://csimarket.com/stocks/JNJ-Customers)
-- [Johnson & Johnson major customers clients](https://growthsharematrix.com/blogs/target-market/jnj)
+- [Johnson & Johnson suppliers manufacturers](https://www.go4worldbusiness.com/find?searchText=johnson-and-johnson&BuyersOrSuppliers=suppliers)
+- [Johnson & Johnson major customers clients](https://en.wikipedia.org/wiki/Tom_Emmer)
+- [Johnson & Johnson major customers clients](https://www.linkedin.com/company/johnson-&-johnson)
 
 ## 元数据
 
-- **更新日期**: 2026-07-28
+- **更新日期**: 2026-07-30

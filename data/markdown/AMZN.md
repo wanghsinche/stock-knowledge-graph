@@ -1,48 +1,48 @@
 ---
 ticker: AMZN
 company: Amazon.com, Inc.
-sector: Consumer Discretionary
+sector: Consumer Cyclical
 industry: Internet Retail
-extracted_at: 2026-07-29 17:08:49
-last_updated: 2026-07-29
+extracted_at: 2026-07-30 17:16:50
+last_updated: 2026-07-30
 ---
 
 # AMZN - Amazon.com, Inc.
 
 ## 基本信息
 
-- **所属行业**: Consumer Discretionary / Internet Retail
-- **提取时间**: 2026-07-29 17:08:49
+- **所属行业**: Consumer Cyclical / Internet Retail
+- **提取时间**: 2026-07-30 17:16:50
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Book publishers]]
-- [[Clothing manufacturers]]
-- [[Electronics manufacturers]]
-- [[Home goods manufacturers]]
-- [[Third‑party sellers]]
+- [[005930.KS]]
+- [[AAPL]]
+- [[SONY]]
+- [[Nike, Inc.]]
+- [[Adidas AG]]
 
 ### 下游客户
-- [[Retail consumers]]
-- [[Enterprise customers (AWS)]]
-- [[Advertising clients]]
-- [[Prime members]]
-- [[Third‑party sellers]]
+- [[NFLX]]
+- [[Airbnb, Inc.]]
+- [[005930.KS]]
+- [[ADBE]]
+- [[CRM]]
 
 ### 竞争对手
-- [[Walmart]]
-- [[Alibaba]]
-- [[eBay]]
-- [[Shopify]]
+- [[eBay Inc.]]
+- [[Walmart Inc.]]
+- [[Alibaba Group Holding Ltd.]]
+- [[Shopify Inc.]]
 - [[MSFT]]
 
 ### 核心产品
-- [[Amazon.com marketplace]]
-- [[Amazon Web Services]]
+- [[Amazon Marketplace]]
 - [[Amazon Prime]]
-- [[Amazon Echo (Alexa)]]
+- [[Amazon Web Services (AWS)]]
 - [[Amazon Kindle]]
+- [[Amazon Echo/Alexa]]
 
 ## 数据来源
 
@@ -50,8 +50,8 @@ last_updated: 2026-07-29
 - [Amazon.com, Inc. suppliers manufacturers](https://www.alibaba.com/)
 - [Amazon.com, Inc. suppliers manufacturers](https://ir.aboutamazon.com/)
 - [Amazon.com, Inc. major customers clients](https://ir.aboutamazon.com/)
-- [Amazon.com, Inc. major customers clients](https://www.amazon.com/Mighty-Mint/dp/B0BG3GY6QP)
+- [Amazon.com, Inc. major customers clients](https://www.linkedin.com/company/amazon/)
 
 ## 元数据
 
-- **更新日期**: 2026-07-29
+- **更新日期**: 2026-07-30

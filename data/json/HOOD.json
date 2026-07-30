@@ -4,34 +4,34 @@
   "sector": "Financial Services",
   "industry": "Capital Markets",
   "upstream": [
-    "NASDAQ",
-    "NYSE",
-    "Cboe Global Markets",
     "Bloomberg",
-    "Stripe"
+    "Refinitiv",
+    "AMZN",
+    "GOOGL",
+    "MSFT"
   ],
   "downstream": [
     "Retail investors",
-    "Day traders",
-    "High‑frequency traders",
-    "Crypto traders",
-    "Institutional clients (via Robinhood Institutional)"
+    "High‑net‑worth individuals",
+    "Institutional clients",
+    "Financial advisors",
+    "Day traders"
   ],
   "competitors": [
     "Charles Schwab",
     "E*TRADE",
-    "Fidelity",
     "TD Ameritrade",
+    "Fidelity",
     "Webull"
   ],
   "key_products": [
-    "Commission‑free stock & ETF trading",
-    "Robinhood Gold (margin & extended hours)",
-    "Cash management & debit card",
+    "Commission‑free stock trading",
+    "Options trading",
     "Cryptocurrency trading",
-    "Options trading"
+    "Margin trading",
+    "Cash management"
   ],
-  "extracted_at": "2026-07-28 17:30:39",
+  "extracted_at": "2026-07-30 17:25:46",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,15 +41,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://robinhood.com/",
+      "url": "https://finance.yahoo.com/quote/HOOD/",
       "query": "Robinhood Markets, Inc. suppliers manufacturers",
-      "snippet": "Trade stocks on Robinhood with commission-free investing & advanced trading tools. Access fractional shares, real-time market data, and more.Manage yo"
+      "snippet": "Robinhood Markets , Inc . OverviewCapital Markets / Financial Services. Robinhood Markets , Inc . operates financial services platform in the United S"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/HOOD/",
+      "url": "https://robinhood.com/",
       "query": "Robinhood Markets, Inc. suppliers manufacturers",
-      "snippet": "Robinhood Markets , Inc . ( HOOD ). Is HOOD a long-term buy? Robinhood Markets , Inc . operates financial services platform in the United States. The "
+      "snippet": "Trade stocks on Robinhood with commission-free investing & advanced trading tools. Access fractional shares, real-time market data, and more."
     },
     {
       "source": "DuckDuckGo",

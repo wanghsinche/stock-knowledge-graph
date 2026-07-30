@@ -5,16 +5,16 @@
   "industry": "Internet Content & Information",
   "upstream": [
     "INTC",
-    "NVDA",
     "QCOM",
     "005930.KS",
-    "TSM"
+    "TSM",
+    "NVDA"
   ],
   "downstream": [
-    "005930.KS",
+    "Advertisers",
+    "Android app developers",
     "GOOGL",
-    "YouTube advertisers",
-    "GOOGL",
+    "YouTube content creators",
     "GOOGL"
   ],
   "competitors": [
@@ -27,14 +27,11 @@
   "key_products": [
     "Google Search",
     "Android OS",
-    "Google Cloud Platform",
     "YouTube",
-    "Google Ads",
-    "Google Maps",
-    "Google Chrome",
-    "Google Workspace"
+    "Google Cloud Platform",
+    "Google Ads"
   ],
-  "extracted_at": "2026-07-29 17:11:12",
+  "extracted_at": "2026-07-30 17:20:00",
   "sources": [
     {
       "source": "Wikipedia",
@@ -62,9 +59,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.investing.com/equities/google-inc",
+      "url": "https://pitchgrade.com/companies/alphabet-inc-class-a",
       "query": "Alphabet Inc. major customers clients",
-      "snippet": "Get detailed information about the Alphabet Inc . stock (GOOGL) including Price, Charts, Technical Analysis, Historical data, Alphabet Reports and mor"
+      "snippet": "Customer Segments: Alphabet Inc . (Class A) serves multiple distinct customer segments, which may include consumers, small and medium businesses, ente"
     }
   ]
 }

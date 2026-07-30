@@ -6,15 +6,13 @@
   "upstream": [
     "AMZN",
     "MSFT",
-    "GOOGL",
-    "ORCL",
-    "IBM"
+    "GOOGL"
   ],
   "downstream": [
     "Capital One",
+    "SONY",
     "ADBE",
     "eBay",
-    "SONY",
     "NFLX"
   ],
   "competitors": [
@@ -28,10 +26,10 @@
     "Snowflake Data Cloud",
     "Snowflake Data Warehouse",
     "Snowflake Data Marketplace",
-    "Snowflake Data Exchange",
-    "Snowflake Data Sharing"
+    "Snowflake Data Sharing",
+    "Snowflake Data Engineering"
   ],
-  "extracted_at": "2026-07-29 17:20:01",
+  "extracted_at": "2026-07-30 17:32:19",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,15 +39,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://de.wikipedia.org/wiki/Snowflake_Inc.",
-      "query": "Snowflake Inc. suppliers manufacturers",
-      "snippet": "Snowflake Inc . ist ein Cloud-basiertes Software-as-a-Service-Unternehmen, das 2012 gegründet wurde. Snowflake Inc . wurde 2012 in San Mateo, Kaliforn"
-    },
-    {
-      "source": "DuckDuckGo",
       "url": "https://www.snowflake.com/",
       "query": "Snowflake Inc. suppliers manufacturers",
       "snippet": "Snowflake powers AI, data engineering, applications, and analytics on a trusted, scalable AI Data Cloud—eliminating silos and accelerating innovation."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.youtube.com/channel/UCs10x-muRrTQMJ4Ya-fmIlw",
+      "query": "Snowflake Inc. suppliers manufacturers",
+      "snippet": "Snowflake securely connects businesses globally across any type or scale of data to productize AI, applications, and more in the enterprise."
     },
     {
       "source": "DuckDuckGo",

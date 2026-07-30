@@ -4,34 +4,34 @@
   "sector": "Communication Services",
   "industry": "Internet Content & Information",
   "upstream": [
-    "QCOM",
-    "INTC",
     "NVDA",
     "AMD",
-    "CSCO"
+    "INTC",
+    "CSCO",
+    "DELL"
   ],
   "downstream": [
-    "Coca‑Cola",
-    "Nike",
-    "005930.KS",
-    "Procter & Gamble",
-    "GOOGL"
+    "Advertisers",
+    "Businesses",
+    "App developers",
+    "Content creators",
+    "Consumers"
   ],
   "competitors": [
     "GOOGL",
-    "ByteDance (TikTok)",
-    "Snap Inc.",
-    "X Corp (Twitter)",
-    "Pinterest"
+    "AMZN",
+    "AAPL",
+    "MSFT",
+    "ByteDance (TikTok)"
   ],
   "key_products": [
     "Facebook",
     "Instagram",
     "WhatsApp",
     "Messenger",
-    "Meta Ads"
+    "Meta Quest"
   ],
-  "extracted_at": "2026-07-29 17:08:33",
+  "extracted_at": "2026-07-30 17:15:42",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,21 +47,21 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.meta.com/about/",
+      "url": "https://investor.atmeta.com/",
       "query": "Meta Platforms, Inc. suppliers manufacturers",
-      "snippet": "Meta - Social Media Advertising Platform (Facebook & Instagram)."
+      "snippet": "Meta to Participate in the Morgan Stanley Technology, Media & Telecom Conference. February 25, 2026."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.meta.com/about/",
+      "url": "https://www.dumblittleman.com/meta/",
       "query": "Meta Platforms, Inc. major customers clients",
-      "snippet": "Meta - Social Media Advertising Platform (Facebook & Instagram)."
+      "snippet": "How Meta Platforms Stand Out. It's not the only company investing heavily in virtual reality and AI, but what sets it apart is its unique position in "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-andra-ap-fonden-buys-181412-shares-of-meta-platforms-inc-meta-2026-07-26/",
+      "url": "https://www.thestreet.com/technology/meta-warns-glasses-instagram-ban-policy-pervert",
       "query": "Meta Platforms, Inc. major customers clients",
-      "snippet": "Vanguard Group Inc . boosted its holdings in Meta Platforms by 3.8% in the 4th quarter. Vanguard Group Inc . now owns 199,995,630 shares of the social"
+      "snippet": "A booth displaying Meta Platforms ' AI smart glasses at the VivaTech conference in Paris, France, on Thursday, June 18, 2026. Instagram deletes a pick"
     }
   ]
 }

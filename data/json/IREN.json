@@ -3,11 +3,35 @@
   "company_name": "IREN Limited",
   "sector": "Financial Services",
   "industry": "Capital Markets",
-  "upstream": [],
-  "downstream": [],
-  "competitors": [],
-  "key_products": [],
-  "extracted_at": "2026-07-29 17:24:16",
+  "upstream": [
+    "Cloud service providers (AWS, Azure, GCP)",
+    "Technology vendors",
+    "Data providers",
+    "Regulatory bodies",
+    "Financial data aggregators"
+  ],
+  "downstream": [
+    "AI cloud customers",
+    "Enterprise clients",
+    "Retail investors",
+    "Institutional investors",
+    "Financial advisors"
+  ],
+  "competitors": [
+    "Interactive Brokers",
+    "E*TRADE",
+    "Charles Schwab",
+    "TD Ameritrade",
+    "Morgan Stanley"
+  ],
+  "key_products": [
+    "Brokerage services",
+    "Trading platform",
+    "Investment research",
+    "Wealth management",
+    "Capital markets solutions"
+  ],
+  "extracted_at": "2026-07-30 17:24:32",
   "sources": [
     {
       "source": "Wikipedia",
@@ -23,9 +47,21 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.kimi.com/preview/19c1b26c-1b62-85b4-8000-05b796d36d1a",
+      "url": "https://www.barrons.com/market-data/stocks/iren",
       "query": "IREN Limited suppliers manufacturers",
-      "snippet": "IREN Limited is an Australian-founded, Nasdaq-listed digital infrastructure company that has transformed from a pure-play Bitcoin miner into a diversi"
+      "snippet": "Complete IREN Ltd . stock information by Barron's. View real-time IREN stock price and news, along with industry-best analysis. IREN Ltd . is a vertic"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://finance.yahoo.com/news/irens-ai-client-expands-growth-162300898.html",
+      "query": "IREN Limited major customers clients",
+      "snippet": "Dec 26, 2025 · the company has added several multi-year AI cloud customers, including Together AI, Fluidstack and Fireworks AI. as OpenAI, Meta and mu"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://iren.com/",
+      "query": "IREN Limited major customers clients",
+      "snippet": "24/7 CUSTOMER SUPPORT. With an onsite team ready to respond anytime, we deliver smooth, reliable service for your critical workloads. The IREN differe"
     }
   ]
 }

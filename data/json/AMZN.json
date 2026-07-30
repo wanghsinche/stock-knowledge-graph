@@ -1,37 +1,37 @@
 {
   "ticker": "AMZN",
   "company_name": "Amazon.com, Inc.",
-  "sector": "Consumer Discretionary",
+  "sector": "Consumer Cyclical",
   "industry": "Internet Retail",
   "upstream": [
-    "Book publishers",
-    "Clothing manufacturers",
-    "Electronics manufacturers",
-    "Home goods manufacturers",
-    "Third‑party sellers"
+    "005930.KS",
+    "AAPL",
+    "SONY",
+    "Nike, Inc.",
+    "Adidas AG"
   ],
   "downstream": [
-    "Retail consumers",
-    "Enterprise customers (AWS)",
-    "Advertising clients",
-    "Prime members",
-    "Third‑party sellers"
+    "NFLX",
+    "Airbnb, Inc.",
+    "005930.KS",
+    "ADBE",
+    "CRM"
   ],
   "competitors": [
-    "Walmart",
-    "Alibaba",
-    "eBay",
-    "Shopify",
+    "eBay Inc.",
+    "Walmart Inc.",
+    "Alibaba Group Holding Ltd.",
+    "Shopify Inc.",
     "MSFT"
   ],
   "key_products": [
-    "Amazon.com marketplace",
-    "Amazon Web Services",
+    "Amazon Marketplace",
     "Amazon Prime",
-    "Amazon Echo (Alexa)",
-    "Amazon Kindle"
+    "Amazon Web Services (AWS)",
+    "Amazon Kindle",
+    "Amazon Echo/Alexa"
   ],
-  "extracted_at": "2026-07-29 17:08:49",
+  "extracted_at": "2026-07-30 17:16:50",
   "sources": [
     {
       "source": "Wikipedia",
@@ -49,19 +49,19 @@
       "source": "DuckDuckGo",
       "url": "https://ir.aboutamazon.com/",
       "query": "Amazon.com, Inc. suppliers manufacturers",
-      "snippet": "The Spheres. Select awards and recognition. Amazon . com Conditions of Use © 1996- Amazon . com , Inc . - IR or its affiliates."
+      "snippet": "Amazon . com , Inc . (NASDAQ: AMZN) today announced financial results for its first quarter ended March 31, 2026."
     },
     {
       "source": "DuckDuckGo",
       "url": "https://ir.aboutamazon.com/",
       "query": "Amazon.com, Inc. major customers clients",
-      "snippet": "The Spheres. Select awards and recognition. Amazon . com Conditions of Use © 1996- Amazon . com , Inc . - IR or its affiliates."
+      "snippet": "Amazon . com , Inc . (NASDAQ: AMZN) today announced financial results for its first quarter ended March 31, 2026."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.amazon.com/Mighty-Mint/dp/B0BG3GY6QP",
+      "url": "https://www.linkedin.com/company/amazon/",
       "query": "Amazon.com, Inc. major customers clients",
-      "snippet": "Information and statements regarding dietary supplements have not been evaluated by the Food and Drug Administration and are not intended to diagnose,"
+      "snippet": "Amazon | 36,940,598 followers on LinkedIn. Amazon is guided by four principles: customer obsession rather than competitor focus, passion for invention"
     }
   ]
 }

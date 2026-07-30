@@ -5,33 +5,33 @@
   "industry": "Semiconductors",
   "upstream": [
     "TSM",
-    "GlobalFoundries",
     "005930.KS",
     "MU",
-    "NVDA"
+    "ASML",
+    "AMAT"
   ],
   "downstream": [
-    "MSFT",
     "DELL",
     "HPQ",
-    "Lenovo Group",
-    "AMZN"
+    "Lenovo",
+    "AAPL",
+    "MSFT"
   ],
   "competitors": [
     "AMD",
     "NVDA",
     "QCOM",
     "AVGO",
-    "TSM"
+    "005930.KS"
   ],
   "key_products": [
-    "Intel Core CPUs",
-    "Intel Xeon processors",
-    "Intel Optane memory",
-    "Intel Atom processors",
-    "Intel 10nm process chips"
+    "Intel Core i7/i5/i3 CPUs",
+    "Intel Xeon CPUs",
+    "Intel Xe GPUs",
+    "Intel Iris Graphics",
+    "Intel Optane memory"
   ],
-  "extracted_at": "2026-07-29 17:07:15",
+  "extracted_at": "2026-07-30 17:17:06",
   "sources": [
     {
       "source": "Wikipedia",

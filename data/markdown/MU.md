@@ -3,8 +3,8 @@ ticker: MU
 company: Micron Technology, Inc.
 sector: Technology
 industry: Semiconductors
-extracted_at: 2026-07-29 17:04:00
-last_updated: 2026-07-29
+extracted_at: 2026-07-30 17:15:04
+last_updated: 2026-07-30
 ---
 
 # MU - Micron Technology, Inc.
@@ -12,28 +12,46 @@ last_updated: 2026-07-29
 ## 基本信息
 
 - **所属行业**: Technology / Semiconductors
-- **提取时间**: 2026-07-29 17:04:00
+- **提取时间**: 2026-07-30 17:15:04
 
 ## 产业链关系
 
 ### 上游供应商
-_暂无数据_
+- [[ASML]]
+- [[AMAT]]
+- [[LRCX]]
+- [[Tokyo Electron]]
+- [[KLA]]
 
 ### 下游客户
-_暂无数据_
+- [[AAPL]]
+- [[MSFT]]
+- [[AMZN]]
+- [[GOOGL]]
+- [[005930.KS]]
 
 ### 竞争对手
-_暂无数据_
+- [[005930.KS]]
+- [[SK Hynix]]
+- [[INTC]]
+- [[NVDA]]
+- [[WDC]]
 
 ### 核心产品
-_暂无数据_
+- [[DRAM]]
+- [[NAND Flash]]
+- [[3D NAND]]
+- [[SSD]]
+- [[Memory Solutions]]
 
 ## 数据来源
 
-- [Micron Technology](https://en.wikipedia.org/wiki/Micron_Technology,_Inc.)
-- [Micron Technology, Inc. suppliers manufacturers](https://ru.wikipedia.org/wiki/Micron_Technology)
-- [Micron Technology, Inc. suppliers manufacturers](https://www.micron.com/)
+- [MU](https://en.wikipedia.org/wiki/MU)
+- [MU suppliers manufacturers](https://www.ec21.com/ec-market/mu.html)
+- [MU suppliers manufacturers](https://panjiva.com/Manufacturers-Of/Mu)
+- [MU major customers clients](https://www.youtube.com/watch?v=bp1PJJR-xC0)
+- [MU major customers clients](https://major.tg/marketplace)
 
 ## 元数据
 
-- **更新日期**: 2026-07-29
+- **更新日期**: 2026-07-30

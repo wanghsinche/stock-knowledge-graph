@@ -4,18 +4,18 @@
   "sector": "Communication Services",
   "industry": "Entertainment",
   "upstream": [
-    "AMZN",
+    "Content production studios",
+    "Film and television production companies",
     "GOOGL",
-    "MSFT",
-    "Roku",
-    "AAPL"
+    "Hardware and infrastructure vendors",
+    "NFLX"
   ],
   "downstream": [
-    "Household consumers",
-    "Corporate subscription accounts",
-    "Airline in‑flight entertainment systems",
-    "Hotel room entertainment services",
-    "CAT"
+    "Global subscribers",
+    "US households",
+    "International households",
+    "Mobile app users",
+    "Smart TV users"
   ],
   "competitors": [
     "Disney+",
@@ -27,11 +27,11 @@
   "key_products": [
     "Netflix streaming service",
     "Netflix Originals",
-    "Mobile & web apps",
-    "Subscription plans",
-    "Content licensing platform"
+    "Mobile app",
+    "Offline download feature",
+    "Smart TV app"
   ],
-  "extracted_at": "2026-07-29 17:17:14",
+  "extracted_at": "2026-07-30 17:23:16",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,21 +47,21 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/competition2.php?supply&code=NFLX",
+      "url": "https://stockanalysis.com/stocks/nflx/",
       "query": "Netflix, Inc. suppliers manufacturers",
-      "snippet": "List of Netflix Inc 's Suppliers comparisons of 12 Months Sales, Income, Profitability, Cash flow from MRQ."
+      "snippet": "A detailed overview of Netflix , Inc . (NFLX) stock, including real-time price, chart, key statistics, news, and more."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.marketresearch.com/GlobalData-v3648/Netflix-NFLX-Financial-Strategic-SWOT-36870770/",
+      "url": "https://en.wikipedia.org/wiki/Netflix,_Inc.",
       "query": "Netflix, Inc. major customers clients",
-      "snippet": "Netflix Inc ( Netflix ) is a provider of entertainment services. The company offers TV shows and movies such as original series, documentaries, anime,"
+      "snippet": "It is the largest entertainment/media company by market capitalization as of 2026 estimated at $450 billion. In 2021, Netflix was ranked as the eighth"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://about.netflix.com/en",
+      "url": "https://ir.netflix.net/ir-overview/profile/default.aspx",
       "query": "Netflix, Inc. major customers clients",
-      "snippet": "We are here to entertain the world, one fan at a time. Thrilling everyone again and again. Whatever you’re into, whatever your mood, Netflix delivers "
+      "snippet": "Netflix is one of the world's leading entertainment services offering TV series, films, games and live programming"
     }
   ]
 }

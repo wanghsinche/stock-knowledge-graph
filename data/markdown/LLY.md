@@ -3,8 +3,8 @@ ticker: LLY
 company: Eli Lilly and Company
 sector: Healthcare
 industry: Drug Manufacturers - General
-extracted_at: 2026-07-29 17:25:56
-last_updated: 2026-07-29
+extracted_at: 2026-07-30 17:25:11
+last_updated: 2026-07-30
 ---
 
 # LLY - Eli Lilly and Company
@@ -12,23 +12,23 @@ last_updated: 2026-07-29
 ## 基本信息
 
 - **所属行业**: Healthcare / Drug Manufacturers - General
-- **提取时间**: 2026-07-29 17:25:56
+- **提取时间**: 2026-07-30 17:25:11
 
 ## 产业链关系
 
 ### 上游供应商
 - [[BASF]]
-- [[Bayer]]
-- [[Ciba Specialty Chemicals]]
 - [[Merck KGaA]]
-- [[Johnson & Johnson (Pharma)]]
+- [[Thermo Fisher Scientific]]
+- [[VWR International]]
+- [[Synthetix Pharma]]
 
 ### 下游客户
 - [[United States Department of Veterans Affairs]]
-- [[United States Department of Defense]]
-- [[National Institutes of Health]]
-- [[United Kingdom National Health Service (NHS)]]
-- [[Canadian Health Services]]
+- [[UnitedHealth Group]]
+- [[Kaiser Permanente]]
+- [[Mayo Clinic]]
+- [[Cleveland Clinic]]
 
 ### 竞争对手
 - [[Pfizer]]
@@ -38,20 +38,20 @@ last_updated: 2026-07-29
 - [[Bristol-Myers Squibb]]
 
 ### 核心产品
-- [[Trulicity]]
-- [[Cymbalta]]
-- [[Cialis]]
 - [[Humira]]
+- [[Cymbalta]]
 - [[Zyprexa]]
+- [[Trulicity]]
+- [[Mounjaro]]
 
 ## 数据来源
 
-- [Eli Lilly and Company](https://en.wikipedia.org/wiki/Eli_Lilly_and_Company)
-- [Eli Lilly and Company suppliers manufacturers](https://en.wikipedia.org/wiki/Eli_Lilly_and_Company)
-- [Eli Lilly and Company suppliers manufacturers](https://www.lilly.com/)
-- [Eli Lilly and Company major customers clients](https://en.wikipedia.org/wiki/Eli_Lilly_and_Company)
-- [Eli Lilly and Company major customers clients](https://finance.yahoo.com/quote/LLY/)
+- [LLY](https://en.wikipedia.org/wiki/LLY)
+- [LLY suppliers manufacturers](https://csimarket.com/stocks/LLY-Suppliers)
+- [LLY suppliers manufacturers](https://chinacorrugator.en.alibaba.com/en_US/company_profile.html)
+- [LLY major customers clients](https://fintel.io/so/us/lly)
+- [LLY major customers clients](https://www.litefinance.org/blog/for-investors/how-to-trade-stocks/how-to-buy-eli-lilly-stock/)
 
 ## 元数据
 
-- **更新日期**: 2026-07-29
+- **更新日期**: 2026-07-30

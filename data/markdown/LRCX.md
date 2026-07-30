@@ -3,8 +3,8 @@ ticker: LRCX
 company: Lam Research Corporation
 sector: Technology
 industry: Semiconductor Equipment & Materials
-extracted_at: 2026-07-29 17:16:37
-last_updated: 2026-07-29
+extracted_at: 2026-07-30 17:18:51
+last_updated: 2026-07-30
 ---
 
 # LRCX - Lam Research Corporation
@@ -12,16 +12,16 @@ last_updated: 2026-07-29
 ## 基本信息
 
 - **所属行业**: Technology / Semiconductor Equipment & Materials
-- **提取时间**: 2026-07-29 17:16:37
+- **提取时间**: 2026-07-30 17:18:51
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Silicon wafer suppliers]]
-- [[Chemical gas suppliers]]
-- [[Plasma source manufacturers]]
-- [[Precision mechanical component suppliers]]
-- [[Electronic control system suppliers]]
+- [[Silicon wafer manufacturers]]
+- [[Chemical suppliers]]
+- [[Gas suppliers]]
+- [[Metrology equipment suppliers]]
+- [[Cleanroom equipment suppliers]]
 
 ### 下游客户
 - [[INTC]]
@@ -33,25 +33,25 @@ last_updated: 2026-07-29
 ### 竞争对手
 - [[AMAT]]
 - [[Tokyo Electron]]
-- [[ASM Pacific Technology]]
 - [[KLA Corporation]]
+- [[ASML]]
 - [[LRCX]]
 
 ### 核心产品
-- [[Plasma etch systems]]
-- [[Deposition systems]]
-- [[Wafer cleaning systems]]
-- [[Back‑end packaging equipment]]
-- [[Advanced process control solutions]]
+- [[Etching equipment]]
+- [[Deposition equipment]]
+- [[Wafer cleaning equipment]]
+- [[Back‑end wafer‑level packaging equipment]]
+- [[Metrology tools]]
 
 ## 数据来源
 
 - [Lam Research](https://en.wikipedia.org/wiki/Lam_Research_Corporation)
-- [Lam Research Corporation suppliers manufacturers](https://www.marketbeat.com/instant-alerts/filing-triangle-securities-wealth-management-sells-5454-shares-of-lam-research-corporation-lrcx-2026-06-26/)
+- [Lam Research Corporation suppliers manufacturers](https://aijourn.com/lam-research-deepens-investment-in-boise-to-support-projected-growth-in-u-s-semiconductor-manufacturing/)
 - [Lam Research Corporation suppliers manufacturers](https://newsroom.lamresearch.com/2025-01-14-Lam-Research-Establishes-28nm-Pitch-in-High-Resolution-Patterning-Through-Dry-Photoresist-Technology)
-- [Lam Research Corporation major customers clients](https://www.ad-hoc-news.de/boerse/news/ueberblick/lam-research-stock-trades-steady-as-equipment-demand-and-memory-recovery/69884229)
-- [Lam Research Corporation major customers clients](https://www.aol.com/articles/3-reasons-lam-research-worth-181607000.html)
+- [Lam Research Corporation major customers clients](https://www.marketresearch.com/MarketLine-v3883/Lam-Research-Corporation-Company-Profile-43331218/)
+- [Lam Research Corporation major customers clients](https://247wallst.com/investing/2026/07/27/3-reasons-lam-research-is-worth-a-closer-look-before-july-29-q4-earnings/)
 
 ## 元数据
 
-- **更新日期**: 2026-07-29
+- **更新日期**: 2026-07-30

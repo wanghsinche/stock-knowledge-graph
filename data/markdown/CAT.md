@@ -3,8 +3,8 @@ ticker: CAT
 company: Caterpillar Inc.
 sector: Industrials
 industry: Farm & Heavy Construction Machinery
-extracted_at: 2026-07-29 17:12:10
-last_updated: 2026-07-29
+extracted_at: 2026-07-30 17:27:13
+last_updated: 2026-07-30
 ---
 
 # CAT - Caterpillar Inc.
@@ -12,46 +12,46 @@ last_updated: 2026-07-29
 ## 基本信息
 
 - **所属行业**: Industrials / Farm & Heavy Construction Machinery
-- **提取时间**: 2026-07-29 17:12:10
+- **提取时间**: 2026-07-30 17:27:13
 
 ## 产业链关系
 
 ### 上游供应商
-- [[ArcelorMittal]]
-- [[Alcoa]]
-- [[BASF]]
-- [[Dow Chemical]]
-- [[Boeing]]
+- [[Steel & alloy suppliers]]
+- [[Aluminum producers]]
+- [[Plastic & composite manufacturers]]
+- [[Electronic component suppliers]]
+- [[Hydraulic fluid & component suppliers]]
 
 ### 下游客户
-- [[United States Army]]
-- [[United States Navy]]
-- [[Rio Tinto]]
-- [[HPQ]]
-- [[Construction companies (e.g., Bechtel)]]
+- [[Construction equipment dealers]]
+- [[Mining and quarry operators]]
+- [[Agricultural machinery distributors]]
+- [[Government and defense contractors]]
+- [[Infrastructure development firms]]
 
 ### 竞争对手
-- [[Komatsu]]
+- [[Komatsu Ltd.]]
+- [[Volvo Construction Equipment]]
 - [[DE]]
 - [[CNH Industrial]]
-- [[Volvo Construction Equipment]]
-- [[Hitachi Construction Machinery]]
+- [[Doosan Infracore]]
 
 ### 核心产品
-- [[Excavators]]
 - [[Bulldozers]]
-- [[Wheel Loaders]]
-- [[Backhoe Loaders]]
-- [[Mining Trucks]]
+- [[Excavators]]
+- [[Wheel loaders]]
+- [[Backhoes]]
+- [[Mining trucks]]
 
 ## 数据来源
 
-- [Caterpillar Inc.](https://en.wikipedia.org/wiki/Caterpillar_Inc.)
-- [Caterpillar Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/Caterpillar_Inc.)
-- [Caterpillar Inc. suppliers manufacturers](https://csimarket.com/stocks/CAT-Suppliers)
-- [Caterpillar Inc. major customers clients](https://en.wikipedia.org/wiki/Caterpillar_Inc.)
-- [Caterpillar Inc. major customers clients](https://www.linkedin.com/company/caterpillar-inc)
+- [Cat (disambiguation)](https://en.wikipedia.org/wiki/CAT)
+- [CAT suppliers manufacturers](https://www.alibaba.com/cat-manufacture-suppliers.html)
+- [CAT suppliers manufacturers](https://www.made-in-china.com/manufacturers/cat-products.html)
+- [CAT major customers clients](https://www.youtube.com/watch?v=W_pFq2j33AY)
+- [CAT major customers clients](https://major.tg/marketplace)
 
 ## 元数据
 
-- **更新日期**: 2026-07-29
+- **更新日期**: 2026-07-30

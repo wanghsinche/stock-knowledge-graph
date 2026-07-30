@@ -3,11 +3,35 @@
   "company_name": "KLA Corporation",
   "sector": "Technology",
   "industry": "Semiconductor Equipment & Materials",
-  "upstream": [],
-  "downstream": [],
-  "competitors": [],
-  "key_products": [],
-  "extracted_at": "2026-07-29 17:13:37",
+  "upstream": [
+    "AMAT",
+    "LRCX",
+    "Tokyo Electron",
+    "ASML",
+    "Nikon"
+  ],
+  "downstream": [
+    "INTC",
+    "005930.KS",
+    "TSM",
+    "MU",
+    "GlobalFoundries"
+  ],
+  "competitors": [
+    "AMAT",
+    "LRCX",
+    "Tokyo Electron",
+    "ASML",
+    "Nikon"
+  ],
+  "key_products": [
+    "Wafer inspection systems",
+    "Defect review systems",
+    "Metrology tools",
+    "Reticle inspection equipment",
+    "IC packaging inspection systems"
+  ],
+  "extracted_at": "2026-07-30 17:29:11",
   "sources": [
     {
       "source": "Wikipedia",
@@ -17,15 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.kla.com/",
+      "url": "https://www.getfinvest.com/companies/klac/",
       "query": "KLA Corporation suppliers manufacturers",
-      "snippet": "KLA is a leader in process control using advanced inspection tools, metrology systems, and computational analytics. Corporate Governance. Compliance. "
+      "snippet": "KLAC Semiconductors · Semicap equipment · AI supply chain · Quality compounder · Thesis updated June 11, 2026. KLA is essential, but the price matters"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.filmetrics.com/locations",
+      "url": "https://www.kla.com/locations",
       "query": "KLA Corporation suppliers manufacturers",
-      "snippet": "Find the address and contact information for the KLA domestic and international sites. Corporate Governance. Compliance. Suppliers . Standards of Busi"
+      "snippet": "Corporate Governance. Compliance. Suppliers . Standards of Business Conduct. Events.Wafer Manufacturing . Defect Inspection and Review. In Situ Proces"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.getfinvest.com/companies/klac/",
+      "query": "KLA Corporation major customers clients",
+      "snippet": "Once KLA tools are built into a customer 's research lab or factory line, customers need service, upgrades, software, parts, and support. In Q3 FY26, "
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.marketresearch.com/MarketLine-v3883/KLA-Corporation-Company-Profile-SWOT-42343651/",
+      "query": "KLA Corporation major customers clients",
+      "snippet": "Assess KLA Corporation as a prospective partner, vendor or supplier.Support sales activities by understanding your customers ' businesses better.Stay "
     }
   ]
 }

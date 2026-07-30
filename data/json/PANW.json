@@ -1,37 +1,37 @@
 {
   "ticker": "PANW",
   "company_name": "Palo Alto Networks, Inc.",
-  "sector": "Technology / Software - Infrastructure",
-  "industry": "Cybersecurity / Network Security",
+  "sector": "Technology",
+  "industry": "Software - Infrastructure",
   "upstream": [
-    "INTC",
-    "AMD",
     "CSCO",
+    "INTC",
     "MSFT",
-    "AMZN"
+    "AMZN",
+    "NVDA"
   ],
   "downstream": [
-    "JPMorgan Chase & Co.",
+    "MSFT",
+    "GOOGL",
+    "AMZN",
     "Bank of America",
-    "United States Department of Defense",
-    "Walmart Inc.",
-    "AT&T Inc."
+    "U.S. Department of Defense"
   ],
   "competitors": [
     "CSCO",
     "Fortinet",
     "Check Point Software Technologies",
-    "JNPR",
-    "CrowdStrike"
+    "CrowdStrike",
+    "Sophos"
   ],
   "key_products": [
-    "Next‑Generation Firewall",
-    "Panorama (management platform)",
-    "Cortex XDR (extended detection & response)",
-    "Prisma Cloud (cloud security)",
-    "GlobalProtect (secure VPN)"
+    "Next-Generation Firewall",
+    "Prisma Cloud",
+    "Cortex XDR",
+    "Unit 42 threat intelligence",
+    "GlobalProtect VPN"
   ],
-  "extracted_at": "2026-07-23 17:17:48",
+  "extracted_at": "2026-07-30 17:31:09",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,9 +47,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://habr.com/ru/companies/mws/articles/280866/",
+      "url": "https://getuniqcli.com/catalog/palo-alto-networks/pan-pa-3060-pwr-ac",
       "query": "Palo Alto Networks, Inc. suppliers manufacturers",
-      "snippet": "Компания Palo Alto Networks была основана в 2005 году Ниром Зуком (Nir Zuk) и группой старших инженеров компаний, лидирующих в сфере сетевой безопасно"
+      "snippet": "Manufacturer . Palo Alto Networks . Product Name. Proprietary Power Supply .“ Palo Alto Proprietary Power Supply ”. Get a Palo Alto Networks quote. Se"
     },
     {
       "source": "DuckDuckGo",
@@ -59,9 +59,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://habr.com/ru/companies/mws/articles/280866/",
+      "url": "https://investors.paloaltonetworks.com/",
       "query": "Palo Alto Networks, Inc. major customers clients",
-      "snippet": "Компания Palo Alto Networks была основана в 2005 году Ниром Зуком (Nir Zuk) и группой старших инженеров компаний, лидирующих в сфере сетевой безопасно"
+      "snippet": "Palo Alto Networks is the world’s cybersecurity leader."
     }
   ]
 }

@@ -4,18 +4,18 @@
   "sector": "Consumer Cyclical",
   "industry": "Auto & Truck Dealerships",
   "upstream": [
+    "Toyota Motor Corporation",
     "Ford Motor Company",
     "General Motors",
-    "Toyota Motor Corporation",
     "Honda Motor Co.",
     "Nissan Motor Co."
   ],
   "downstream": [
     "Individual consumers",
-    "Fleet buyers (corporate fleets)",
-    "Rental companies",
-    "Car leasing firms",
-    "Private car sellers"
+    "Corporate fleet buyers",
+    "Carvana financing customers",
+    "Delivery service customers",
+    "Online used‑car buyers"
   ],
   "competitors": [
     "CarMax",
@@ -25,19 +25,25 @@
     "Cox Automotive"
   ],
   "key_products": [
-    "Online used car marketplace",
-    "Vehicle delivery and pickup services",
-    "Financing and leasing options",
-    "Carvana Vending Machines",
-    "Vehicle inspection and reconditioning"
+    "Used cars",
+    "Certified pre‑owned vehicles",
+    "Vending machine delivery",
+    "Online car‑buying platform",
+    "Financing and insurance services"
   ],
-  "extracted_at": "2026-05-01 16:53:23",
+  "extracted_at": "2026-07-30 17:29:57",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Carvana_Co.",
       "title": "Carvana",
-      "snippet": "Carvana Co. is an American online used car retailer based in Tempe, Arizona. Carvana was named to the 2021 Fortune 500 list, one of the youngest companies to be added to the list."
+      "snippet": "Carvana Co. is an American online car retailer based in Tempe, Arizona. Carvana was named to the 2021 Fortune 500 list, one of the youngest companies to be added to the list."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/Carvana",
+      "query": "Carvana Co. suppliers manufacturers",
+      "snippet": "Carvana Co . is an American online car retailer based in Tempe, Arizona. Carvana was named to the 2021 Fortune 500 list, one of the youngest companies"
     },
     {
       "source": "DuckDuckGo",
@@ -47,15 +53,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/CVNA/",
-      "query": "Carvana Co. suppliers manufacturers",
-      "snippet": "Find the latest Carvana Co . (CVNA) stock quote, history, news and other vital information to help you with your stock trading and investing.The compa"
-    },
-    {
-      "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Carvana",
       "query": "Carvana Co. major customers clients",
-      "snippet": "Carvana Co . is an American online used car retailer based in Tempe, Arizona.[2] Carvana was named to the 2021 Fortune 500 list, one of the youngest c"
+      "snippet": "Carvana Co . is an American online car retailer based in Tempe, Arizona. Carvana was named to the 2021 Fortune 500 list, one of the youngest companies"
     },
     {
       "source": "DuckDuckGo",

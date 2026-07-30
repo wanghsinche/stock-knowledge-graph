@@ -5,33 +5,33 @@
   "industry": "Software - Infrastructure",
   "upstream": [
     "DELL",
-    "HPQ",
+    "MSFT",
     "CSCO",
-    "IBM",
-    "INTC"
+    "AMD",
+    "MSFT"
   ],
   "downstream": [
-    "Financial Services (e.g., JPMorgan Chase, Goldman Sachs)",
-    "Government Agencies (e.g., U.S. Department of Defense, NASA)",
-    "Healthcare Providers (e.g., Mayo Clinic, UnitedHealth)",
-    "Retail Chains (e.g., Walmart, Target)",
+    "Large enterprises (e.g., JPMorgan Chase, Walmart, Coca‑Cola)",
+    "Government agencies (e.g., U.S. Department of Defense, NASA)",
+    "Financial institutions (e.g., Goldman Sachs, Morgan Stanley)",
+    "Retail giants (e.g., Walmart, Target)",
     "CAT"
   ],
   "competitors": [
     "MSFT",
-    "SAP",
-    "IBM",
     "AMZN",
+    "IBM",
+    "SAP (HANA)",
     "GOOGL"
   ],
   "key_products": [
     "Oracle Database",
-    "Oracle Cloud Infrastructure",
+    "Oracle Cloud Infrastructure (OCI)",
     "Oracle Autonomous Database",
-    "Oracle Applications (E-Business Suite, Fusion)",
-    "Oracle Java"
+    "Oracle Fusion Applications",
+    "Oracle Exadata"
   ],
-  "extracted_at": "2026-07-29 17:18:52",
+  "extracted_at": "2026-07-30 17:20:41",
   "sources": [
     {
       "source": "Wikipedia",
@@ -53,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.oracle.com/corporate/",
+      "url": "https://en.wikipedia.org/wiki/Oracle_Corporation",
       "query": "Oracle Corporation major customers clients",
-      "snippet": "Oracle is pleased to provide information about our company, customers , partners, events, communities, press, analysts, investors, and careers.The com"
+      "snippet": "The company sells database software (particularly the Oracle Database), enterprise applications, and cloud infrastructure and hardware. Oracle's core "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.youtube.com/watch?v=ll7_VcwePN4",
+      "url": "https://www.oracle.com/",
       "query": "Oracle Corporation major customers clients",
-      "snippet": "In this video, I'm going to show you how to install oracle 21c instant client on the windows platform step by step.#instantclient #oracleclientWebsite"
+      "snippet": "Infrastructure · Applications · Oracle Cloud Infrastructure · Multicloud AI Database · AI Data Platform · Cloud@Customer · Fusion Applications · Healt"
     }
   ]
 }

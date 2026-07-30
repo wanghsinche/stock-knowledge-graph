@@ -1,37 +1,37 @@
 {
   "ticker": "SPCX",
   "company_name": "Space Exploration Technologies Corp.",
-  "sector": "Industrials / Aerospace & Defense",
+  "sector": "Industrials",
   "industry": "Aerospace & Defense",
   "upstream": [
-    "Rocket engine manufacturers",
-    "Propellant suppliers",
-    "Avionics and electronics vendors",
+    "Aerospace component manufacturers",
+    "Rocket engine suppliers",
+    "Avionics suppliers",
     "Satellite component suppliers",
-    "Manufacturing and assembly facilities"
+    "Propulsion system manufacturers"
   ],
   "downstream": [
     "NASA",
     "U.S. Department of Defense",
     "Commercial satellite operators",
-    "CAT",
-    "Starlink broadband customers"
+    "Telecom operators",
+    "International space agencies"
   ],
   "competitors": [
-    "Blue Origin",
     "United Launch Alliance",
+    "Arianespace",
+    "Blue Origin",
     "Rocket Lab",
-    "Virgin Galactic",
-    "Arianespace"
+    "Virgin Orbit"
   ],
   "key_products": [
-    "Falcon 9 launch vehicle",
-    "Falcon Heavy launch vehicle",
-    "Starship launch vehicle",
+    "Falcon 9 rocket",
+    "Falcon Heavy rocket",
+    "Starship",
     "Starlink satellite constellation",
-    "Satellite-based broadband services"
+    "Satellite broadband services"
   ],
-  "extracted_at": "2026-07-29 17:09:36",
+  "extracted_at": "2026-07-30 17:18:32",
   "sources": [
     {
       "source": "Wikipedia",
@@ -49,7 +49,7 @@
       "source": "DuckDuckGo",
       "url": "https://finance.yahoo.com/quote/SPCX/",
       "query": "Space Exploration Technologies Corp. suppliers manufacturers",
-      "snippet": "Space Exploration Technologies Corp . provides satellite-based broadband services in the United States, Ireland, Canada, and internationally. It opera"
+      "snippet": "Space Exploration Technologies Corp . provides satellite-based broadband services in the United States, Ireland, Canada, and internationally.Its Space"
     },
     {
       "source": "DuckDuckGo",

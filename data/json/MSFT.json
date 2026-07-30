@@ -6,32 +6,32 @@
   "upstream": [
     "INTC",
     "AMD",
-    "NVDA",
-    "CSCO",
-    "DELL"
+    "005930.KS",
+    "MU",
+    "STX"
   ],
   "downstream": [
-    "Enterprise customers (e.g., banks, government agencies)",
+    "AMZN",
+    "GOOGL",
+    "AAPL",
     "DELL",
-    "Cloud service users (Azure, Office 365)",
-    "Gaming consumers (Xbox)",
-    "Small and medium businesses"
+    "005930.KS"
   ],
   "competitors": [
     "AAPL",
     "GOOGL",
     "AMZN",
     "ORCL",
-    "IBM"
+    "CRM"
   ],
   "key_products": [
-    "Windows operating system",
-    "Microsoft Office Suite",
-    "Azure cloud platform",
-    "Surface devices",
-    "Xbox gaming console"
+    "Windows OS",
+    "Microsoft Office",
+    "Azure",
+    "Microsoft 365",
+    "Xbox"
   ],
-  "extracted_at": "2026-07-29 17:06:45",
+  "extracted_at": "2026-07-30 17:14:47",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/suppliers_glance.php?code=MSFT",
+      "url": "https://download.microsoft.com/download/F/3/8/F38AF681-EB3A-4645-A9C4-D4F31B8BA8F2/Microsoft+Top+100+Production+Suppliers.pdf",
       "query": "Microsoft Corporation suppliers manufacturers",
-      "snippet": "News about Microsoft Corporation Contracts. Microsoft 's Comment on Supply Chain. We develop most of our products and services internally through four"
+      "snippet": "The official Microsoft Download Center. Featuring the latest software updates and drivers for Windows, Office, Xbox and more. Operating systems includ"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.alibaba.com/",
+      "url": "https://data.ark.ai/analysis/suppliers/microsoft-corporation-supplier-profile-overview",
       "query": "Microsoft Corporation suppliers manufacturers",
-      "snippet": "Find quality Manufacturers , Suppliers , Exporters, Importers, Buyers, Wholesalers, Products and Trade Leads from our award-winning International Trad"
+      "snippet": "The resulting vendor analysis and supplier profile includes a supply chain analysis, an evaluation of key subcontractors and prime contractors, and an"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.tradingview.com/symbols/NASDAQ-MSFT/",
+      "url": "https://csimarket.com/stocks/markets_glance.php?code=MSFT",
       "query": "Microsoft Corporation major customers clients",
-      "snippet": "View live Microsoft Corp . chart to track its stock's price action. Find market predictions, MSFT financials and market news."
+      "snippet": "1 week ago - Microsoft customers and markets, results by customer and performance relative to MSFT, by company and industry - CSIMarket"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://businessaccount.microsoft.com/",
+      "url": "https://www.appsruntheworld.com/customers-database/vendors/view/microsoft",
       "query": "Microsoft Corporation major customers clients",
-      "snippet": "Business Center. Sign In. For customers ."
+      "snippet": "June 8, 2026 - Each quarter our research team identifies companies that are using Microsoft applications such as Microsoft 365 for Collaboration, Micr"
     }
   ]
 }
