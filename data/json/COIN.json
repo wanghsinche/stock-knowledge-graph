@@ -2,36 +2,36 @@
   "ticker": "COIN",
   "company_name": "Coinbase Global, Inc.",
   "sector": "Financial Services",
-  "industry": "Cryptocurrency Exchange / Financial Data & Stock Exchanges",
+  "industry": "Financial Data & Stock Exchanges",
   "upstream": [
     "AMZN",
     "MSFT",
     "GOOGL",
-    "Stripe (payment processing)",
-    "Blockchain networks (Bitcoin, Ethereum, etc.)"
+    "Blockchain infrastructure providers",
+    "Security and compliance vendors"
   ],
   "downstream": [
     "Retail cryptocurrency traders",
     "Institutional investors",
-    "Hedge funds and crypto funds",
-    "Corporate treasury departments",
-    "Crypto asset managers"
+    "Crypto merchants",
+    "DeFi platforms",
+    "Financial institutions"
   ],
   "competitors": [
     "Binance",
     "Kraken",
     "Gemini",
     "Bitstamp",
-    "eToro"
+    "FTX (historical competitor)"
   ],
   "key_products": [
-    "Coinbase Pro (advanced trading platform)",
-    "Coinbase Wallet (non‑custodial wallet)",
-    "Coinbase Earn (crypto education & rewards)",
-    "Coinbase Custody (institutional custody)",
-    "Coinbase Prime (institutional trading & financing)"
+    "Coinbase Exchange",
+    "Coinbase Wallet",
+    "Coinbase Custody",
+    "Coinbase Earn",
+    "Coinbase Pro"
   ],
-  "extracted_at": "2026-07-21 17:12:07",
+  "extracted_at": "2026-07-31 17:24:20",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,21 +47,21 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.gurufocus.com/stock/FRA:1QZ/financials",
+      "url": "https://coinmarketcap.com/exchanges/coinbase-exchange/",
       "query": "Coinbase Global, Inc. suppliers manufacturers",
-      "snippet": "Comprehensive and up-to-date Coinbase Global Inc (FRA:1QZ) stock information, news and insights by GuruFocus."
+      "snippet": "Coinbase Global , Inc . was established in June 2012 in San Francisco, California, U.S. Where Is Coinbase Exchange Located?"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.gurufocus.com/stock/MEX:COIN/analysis",
+      "url": "https://en.wikipedia.org/wiki/Coinbase",
       "query": "Coinbase Global, Inc. major customers clients",
-      "snippet": "Analysis and historical valuations for Coinbase Global Inc are shown here for you to look at this page's features. Take a 7-Day Free Trial."
+      "snippet": "Coinbase Global , Inc . is an American cryptocurrency exchange. [4][5][6] It was founded in 2012 by Brian Armstrong and Fred Ehrsam. [1] Coinbase has "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://paymentpop.com/merchant-accounts/coinbase-reviews/",
+      "url": "https://csimarket.com/stocks/COIN-Customers",
       "query": "Coinbase Global, Inc. major customers clients",
-      "snippet": "Read customer reviews and experiences with Coinbase ’s crypto trading, storage, and payment services."
+      "snippet": "Coinbase Global Inc 's Comment on Sales, Marketing and Customers Any person or business with an internet connection that is looking to access or inter"
     }
   ]
 }

@@ -1,37 +1,37 @@
 {
   "ticker": "NOW",
   "company_name": "ServiceNow, Inc.",
-  "sector": "Technology",
-  "industry": "Software - Application",
+  "sector": "Technology / Software",
+  "industry": "Application",
   "upstream": [
-    "AMZN",
     "MSFT",
+    "AMZN",
     "GOOGL",
-    "ORCL",
-    "IBM"
+    "IBM",
+    "ORCL"
   ],
   "downstream": [
-    "Walmart",
-    "JPMorgan Chase",
-    "AT&T",
-    "Verizon",
-    "General Motors"
+    "GOOGL",
+    "MSFT",
+    "AMZN",
+    "Bank of America",
+    "Coca‑Cola"
   ],
   "competitors": [
-    "BMC Software",
-    "IBM",
+    "CRM",
+    "SAP",
+    "ORCL",
     "MSFT",
-    "Atlassian",
-    "CRM"
+    "IBM"
   ],
   "key_products": [
-    "IT Service Management (ITSM)",
-    "IT Operations Management (ITOM)",
-    "IT Business Management (ITBM)",
-    "Customer Service Management (CSM)",
-    "Security Operations (SecOps)"
+    "Now Platform",
+    "IT Service Management",
+    "IT Operations Management",
+    "IT Business Management",
+    "Customer Service Management"
   ],
-  "extracted_at": "2026-07-30 17:22:28",
+  "extracted_at": "2026-07-31 17:26:32",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,9 +47,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://nd.service-now.com/login.do",
+      "url": "https://www.insidermonkey.com/blog/analyzing-servicenows-now-unique-position-in-workflow-automation-1805859/",
       "query": "ServiceNow, Inc. suppliers manufacturers",
-      "snippet": "ServiceNow ServiceNow Home Page. Login."
+      "snippet": "ServiceNow , Inc . (NYSE: NOW ) is a cloud-based software company that provides a platform for automating and managing digital workflows. On July 29, "
     },
     {
       "source": "DuckDuckGo",

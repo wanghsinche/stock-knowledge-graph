@@ -1,18 +1,18 @@
 ---
 ticker: MSTR
-company: Strategy Inc
+company: Strategy Inc.
 sector: Technology
 industry: Software - Application
-extracted_at: 2026-07-27 17:40:52
-last_updated: 2026-07-27
+extracted_at: 2026-07-31 17:28:33
+last_updated: 2026-07-31
 ---
 
-# MSTR - Strategy Inc
+# MSTR - Strategy Inc.
 
 ## 基本信息
 
 - **所属行业**: Technology / Software - Application
-- **提取时间**: 2026-07-27 17:40:52
+- **提取时间**: 2026-07-31 17:28:33
 
 ## 产业链关系
 
@@ -21,37 +21,37 @@ last_updated: 2026-07-27
 - [[AMZN]]
 - [[GOOGL]]
 - [[ORCL]]
-- [[IBM]]
+- [[Bloomberg Data Services]]
 
 ### 下游客户
-- [[Bank of America]]
 - [[Walmart]]
-- [[Coca‑Cola]]
-- [[General Electric]]
-- [[Procter & Gamble]]
+- [[JPMorgan Chase]]
+- [[Bank of America]]
+- [[AT&T]]
+- [[Verizon]]
 
 ### 竞争对手
-- [[SAP SE]]
+- [[SAP SE Business Objects]]
 - [[IBM]]
 - [[ORCL]]
 - [[MSFT]]
-- [[Tableau]]
+- [[Tableau Software]]
 
 ### 核心产品
-- [[MicroStrategy Analytics Platform]]
-- [[MicroStrategy Mobile]]
+- [[MicroStrategy Desktop]]
+- [[MicroStrategy Server]]
 - [[MicroStrategy Cloud]]
-- [[MicroStrategy Data Visualization]]
-- [[MicroStrategy AI]]
+- [[MicroStrategy Mobile]]
+- [[MicroStrategy Analytics Platform]]
 
 ## 数据来源
 
 - [MicroStrategy](https://en.wikipedia.org/wiki/Strategy_Inc)
-- [Strategy Inc suppliers manufacturers](https://finance.yahoo.com/quote/MSTR/)
-- [Strategy Inc suppliers manufacturers](https://ru.tradingview.com/symbols/NASDAQ-MSTR/)
-- [Strategy Inc major customers clients](https://www.featuredcustomers.com/vendor/strategy)
-- [Strategy Inc major customers clients](https://www.strategy.com/press/strategy-recognized-customers-choice-gartner-peer-insights-through-user-feedback-for-fourth-consecutive-year_12-11-2025)
+- [Strategy Inc suppliers manufacturers](https://www.strategy.com/company)
+- [Strategy Inc suppliers manufacturers](https://www.strategy.com/press/strategy-announces-legal-name-change-from-microstrategy-incorporated-to-strategy-inc_08-14-2025)
+- [Strategy Inc major customers clients](https://finance.yahoo.com/quote/MSTR/)
+- [Strategy Inc major customers clients](https://www.linkedin.com/pulse/strategy-service-why-isnt-slide-deck-what-actually-maria-tsarkova-6yw8e)
 
 ## 元数据
 
-- **更新日期**: 2026-07-27
+- **更新日期**: 2026-07-31

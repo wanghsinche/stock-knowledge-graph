@@ -3,8 +3,8 @@ ticker: MA
 company: Mastercard Incorporated
 sector: Financial Services
 industry: Credit Services
-extracted_at: 2026-07-30 17:26:19
-last_updated: 2026-07-30
+extracted_at: 2026-07-31 17:27:38
+last_updated: 2026-07-31
 ---
 
 # MA - Mastercard Incorporated
@@ -12,46 +12,46 @@ last_updated: 2026-07-30
 ## 基本信息
 
 - **所属行业**: Financial Services / Credit Services
-- **提取时间**: 2026-07-30 17:26:19
+- **提取时间**: 2026-07-31 17:27:38
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Chip manufacturers (e.g., NXP, STMicroelectronics)]]
-- [[Payment network infrastructure providers]]
-- [[Software vendors for transaction processing]]
-- [[Security and fraud‑prevention technology firms]]
-- [[Data center and cloud service providers]]
+- [[NXP Semiconductors]]
+- [[STMicroelectronics]]
+- [[Fiserv]]
+- [[ORCL]]
+- [[IBM]]
 
 ### 下游客户
-- [[Commercial banks and credit unions]]
-- [[Retail merchants and e‑commerce platforms]]
-- [[Financial technology (fintech) companies]]
-- [[Consumer mobile wallet providers]]
-- [[Large multinational corporations using corporate cards]]
+- [[JPMorgan Chase]]
+- [[Bank of America]]
+- [[Walmart]]
+- [[AMZN]]
+- [[AAPL]]
 
 ### 竞争对手
-- [[Visa Inc.]]
-- [[American Express Co.]]
-- [[Discover Financial Services]]
+- [[Visa]]
+- [[American Express]]
+- [[Discover]]
+- [[JCB]]
 - [[UnionPay]]
-- [[PayPal Holdings Inc.]]
 
 ### 核心产品
-- [[Mastercard payment network]]
-- [[Credit and debit card products]]
-- [[Mobile payment solutions (Mastercard Pay)]]
-- [[Fraud‑prevention and risk‑management services]]
-- [[Data analytics and insights platform]]
+- [[Payment processing network]]
+- [[Credit card services]]
+- [[Debit card services]]
+- [[Digital wallet solutions]]
+- [[Tokenization services]]
 
 ## 数据来源
 
 - [MA](https://en.wikipedia.org/wiki/MA)
-- [MA suppliers manufacturers](https://www.industrynet.com/massachusetts)
-- [MA suppliers manufacturers](https://www.alibaba.com/)
-- [MA major customers clients](https://www.youtube.com/watch?v=1Qb88ULZEjw)
-- [MA major customers clients](https://major.tg/marketplace)
+- [MA suppliers manufacturers](https://www.mni.net/info/massachusetts-manufacturers-register)
+- [MA suppliers manufacturers](https://www.manufacturersnearme.com/united-states/massachusetts)
+- [MA major customers clients](https://bluecanyonpartners.com/major-customers/)
+- [MA major customers clients](https://www.wisdomlib.org/concept/major-customers)
 
 ## 元数据
 
-- **更新日期**: 2026-07-30
+- **更新日期**: 2026-07-31

@@ -3,8 +3,8 @@ ticker: AXTI
 company: AXT, Inc.
 sector: Technology
 industry: Semiconductor Equipment & Materials
-extracted_at: 2026-05-01 16:51:06
-last_updated: 2026-05-01
+extracted_at: 2026-07-31 17:26:09
+last_updated: 2026-07-31
 ---
 
 # AXTI - AXT, Inc.
@@ -12,28 +12,46 @@ last_updated: 2026-05-01
 ## 基本信息
 
 - **所属行业**: Technology / Semiconductor Equipment & Materials
-- **提取时间**: 2026-05-01 16:51:06
+- **提取时间**: 2026-07-31 17:26:09
 
 ## 产业链关系
 
 ### 上游供应商
-_暂无数据_
+- [[AMAT]]
+- [[Tokyo Electron]]
+- [[LRCX]]
+- [[KLA]]
+- [[ASML]]
 
 ### 下游客户
-_暂无数据_
+- [[GlobalFoundries]]
+- [[TSM]]
+- [[INTC]]
+- [[005930.KS]]
+- [[NXP Semiconductors]]
 
 ### 竞争对手
-_暂无数据_
+- [[AMAT]]
+- [[LRCX]]
+- [[Tokyo Electron]]
+- [[ASML]]
+- [[KLA]]
 
 ### 核心产品
-_暂无数据_
+- [[Compound semiconductor wafers]]
+- [[Epitaxial growth equipment]]
+- [[CVD systems]]
+- [[MOCVD equipment]]
+- [[Semiconductor materials]]
 
 ## 数据来源
 
 - 
-- [AXT, Inc. suppliers manufacturers](https://csimarket.com/stocks/suppliers_glance.php?code=AXTI)
-- [AXT, Inc. suppliers manufacturers](https://finance.yahoo.com/markets/stocks/articles/axt-inc-announces-first-quarter-200500218.html)
+- [AXT, Inc. suppliers manufacturers](https://csimarket.com/stocks/AXTI-Suppliers)
+- [AXT, Inc. suppliers manufacturers](https://investors.axt.com/Investors/Overview/default.aspx)
+- [AXT, Inc. major customers clients](https://csimarket.com/stocks/AXTI-Customers)
+- [AXT, Inc. major customers clients](https://investors.axt.com/investors/news/news-details/2026/axt-inc--announces-second-quarter-2026-financial-results/default.aspx)
 
 ## 元数据
 
-- **更新日期**: 2026-05-01
+- **更新日期**: 2026-07-31

@@ -3,8 +3,8 @@ ticker: NBIS
 company: Nebius Group N.V.
 sector: Communication Services
 industry: Internet Content & Information
-extracted_at: 2026-07-30 17:17:44
-last_updated: 2026-07-30
+extracted_at: 2026-07-31 17:21:05
+last_updated: 2026-07-31
 ---
 
 # NBIS - Nebius Group N.V.
@@ -12,33 +12,21 @@ last_updated: 2026-07-30
 ## 基本信息
 
 - **所属行业**: Communication Services / Internet Content & Information
-- **提取时间**: 2026-07-30 17:17:44
+- **提取时间**: 2026-07-31 17:21:05
 
 ## 产业链关系
 
 ### 上游供应商
-- [[NVDA]]
-- [[INTC]]
-- [[AMD]]
-- [[GOOGL]]
-- [[AMZN]]
+- [[Nebius Group N.V.]]
 
 ### 下游客户
-- [[CAT]]
-- [[Financial institutions]]
-- [[E-commerce platforms]]
-- [[Healthcare organizations]]
-- [[Government agencies]]
+- [[Mistral AI]]
 
 ### 竞争对手
-- [[Palantir Technologies]]
-- [[Dataiku]]
-- [[H2O.ai]]
-- [[C3.ai]]
-- [[Snowflake]]
+_暂无数据_
 
 ### 核心产品
-- [[Nebius AI Infrastructure Platform]]
+- [[AI infrastructure]]
 - [[Avride]]
 - [[TripleTen]]
 - [[Toloka]]
@@ -47,11 +35,11 @@ last_updated: 2026-07-30
 ## 数据来源
 
 - [Nebius Group](https://en.wikipedia.org/wiki/NBIS)
-- [NBIS suppliers manufacturers](https://csimarket.com/stocks/suppliers_glance.php?code=NBIS)
-- [NBIS suppliers manufacturers](https://finance.yahoo.com/quote/NBIS/)
-- [NBIS major customers clients](https://finance.yahoo.com/quote/NBIS/)
-- [NBIS major customers clients](https://www.marketbeat.com/stocks/NASDAQ/NBIS/institutional-ownership/)
+- [NBIS suppliers manufacturers](https://en.wikipedia.org/wiki/Nebius_Group)
+- [NBIS suppliers manufacturers](https://www.dcsa.mil/Systems-Applications/National-Background-Investigation-Services-NBIS/)
+- [NBIS major customers clients](https://en.wikipedia.org/wiki/Nebius_Group)
+- [NBIS major customers clients](https://www.reddit.com/r/NBIS_Stock/comments/1j4abth/who_are_nebius_customers/)
 
 ## 元数据
 
-- **更新日期**: 2026-07-30
+- **更新日期**: 2026-07-31

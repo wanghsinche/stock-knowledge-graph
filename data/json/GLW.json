@@ -1,13 +1,37 @@
 {
   "ticker": "GLW",
-  "company_name": "GLW",
+  "company_name": "Corning Inc.",
   "sector": "Technology",
   "industry": "Electronic Components",
-  "upstream": [],
-  "downstream": [],
-  "competitors": [],
-  "key_products": [],
-  "extracted_at": "2026-07-30 17:27:46",
+  "upstream": [
+    "Silica sand suppliers",
+    "Chemical feedstock providers",
+    "META",
+    "Glass fiber production equipment suppliers",
+    "Energy and utilities"
+  ],
+  "downstream": [
+    "CAT",
+    "Smartphone and tablet manufacturers",
+    "Automotive glass and optics suppliers",
+    "Aerospace and defense contractors",
+    "Medical device and diagnostic equipment producers"
+  ],
+  "competitors": [
+    "Lumentum Holdings",
+    "II-VI Incorporated",
+    "Saint‑Gobain",
+    "Owens Corning",
+    "005930.KS"
+  ],
+  "key_products": [
+    "Optical fiber and cable",
+    "Flat and specialty glass",
+    "Photonic and optical components",
+    "Display glass for smartphones",
+    "Automotive and aerospace glass"
+  ],
+  "extracted_at": "2026-07-31 17:28:58",
   "sources": [
     {
       "source": "Wikipedia",
@@ -23,9 +47,21 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://tpqe.com/engtpqe_products_detail.asp?id=1089",
+      "url": "https://tpqe.com/engtpqe_products_detail.asp?id=1090",
       "query": "GLW suppliers manufacturers",
-      "snippet": "GLW Crimper Abisolieren GLW Locator. Telemecanique Sensors.Mail：tpqe@tpqe.com. GLW Introduction. We focus on the professional processing of electrical"
+      "snippet": "» Datasheet Catlog PDF Download. » Supplier ： GLW . GLW Introduction. We focus on the professional processing of electrical contacts."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/GLW-Customers",
+      "query": "GLW major customers clients",
+      "snippet": "1 day ago · Corning Inc customers and markets, results by customer and performance relative to GLW , by company and industry - CSIMarket"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.nullexposure.com/customers/glw",
+      "query": "GLW major customers clients",
+      "snippet": "Corning ( GLW ): Customer Relationships Driving an AI and Mobile Materials Re‑rating Corning monetizes advanced glass, ceramics and fiber‑optic produc"
     }
   ]
 }

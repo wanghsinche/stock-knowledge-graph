@@ -5,33 +5,33 @@
   "industry": "Internet Content & Information",
   "upstream": [
     "NVDA",
-    "AMD",
     "INTC",
-    "CSCO",
-    "DELL"
+    "QCOM",
+    "005930.KS",
+    "TSM"
   ],
   "downstream": [
     "Advertisers",
-    "Businesses",
     "App developers",
-    "Content creators",
-    "Consumers"
+    "Businesses",
+    "Users",
+    "Third‑party content creators"
   ],
   "competitors": [
-    "GOOGL",
-    "AMZN",
-    "AAPL",
+    "X (Twitter)",
+    "Snap Inc.",
+    "TikTok (ByteDance)",
     "MSFT",
-    "ByteDance (TikTok)"
+    "GOOGL"
   ],
   "key_products": [
     "Facebook",
     "Instagram",
     "WhatsApp",
     "Messenger",
-    "Meta Quest"
+    "Threads"
   ],
-  "extracted_at": "2026-07-30 17:15:42",
+  "extracted_at": "2026-07-31 17:20:15",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ru.wikipedia.org/wiki/Meta_Platforms",
-      "query": "Meta Platforms, Inc. suppliers manufacturers",
-      "snippet": "Meta Platforms , Inc . — американская транснациональная холдинговая компания, владеющая технологическим конгломератом и расположенная в Менло-Парке, К"
-    },
-    {
-      "source": "DuckDuckGo",
       "url": "https://investor.atmeta.com/",
       "query": "Meta Platforms, Inc. suppliers manufacturers",
       "snippet": "Meta to Participate in the Morgan Stanley Technology, Media & Telecom Conference. February 25, 2026."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.dumblittleman.com/meta/",
-      "query": "Meta Platforms, Inc. major customers clients",
-      "snippet": "How Meta Platforms Stand Out. It's not the only company investing heavily in virtual reality and AI, but what sets it apart is its unique position in "
+      "url": "https://www.alibaba.com/",
+      "query": "Meta Platforms, Inc. suppliers manufacturers",
+      "snippet": "Find quality Manufacturers , Suppliers , Exporters, Importers, Buyers, Wholesalers, Products and Trade Leads from our award-winning International Trad"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.thestreet.com/technology/meta-warns-glasses-instagram-ban-policy-pervert",
+      "url": "https://marketontology.com/equities/META",
       "query": "Meta Platforms, Inc. major customers clients",
-      "snippet": "A booth displaying Meta Platforms ' AI smart glasses at the VivaTech conference in Paris, France, on Thursday, June 18, 2026. Instagram deletes a pick"
+      "snippet": "Meta Platforms , Inc . META · 76 events mapped.Continuous coverage for META with alerts, structural playbooks, and options routing lives in the platfo"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://developers.meta.com/",
+      "query": "Meta Platforms, Inc. major customers clients",
+      "snippet": "Build on every platform with Meta . Develop with Meta to create successful apps and projects, and grow your business.LAFISE Bank. Providing fast, more"
     }
   ]
 }

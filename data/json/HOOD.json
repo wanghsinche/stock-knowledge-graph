@@ -4,34 +4,34 @@
   "sector": "Financial Services",
   "industry": "Capital Markets",
   "upstream": [
-    "Bloomberg",
-    "Refinitiv",
     "AMZN",
     "GOOGL",
-    "MSFT"
+    "Bloomberg Data Services",
+    "Stripe",
+    "Plaid"
   ],
   "downstream": [
     "Retail investors",
-    "High‑net‑worth individuals",
+    "High‑frequency traders",
     "Institutional clients",
-    "Financial advisors",
-    "Day traders"
+    "Crypto traders",
+    "Options traders"
   ],
   "competitors": [
     "Charles Schwab",
-    "E*TRADE",
+    "Fidelity Investments",
     "TD Ameritrade",
-    "Fidelity",
+    "E*TRADE",
     "Webull"
   ],
   "key_products": [
     "Commission‑free stock trading",
-    "Options trading",
-    "Cryptocurrency trading",
+    "Crypto trading",
     "Margin trading",
-    "Cash management"
+    "Options trading",
+    "Robinhood Gold subscription"
   ],
-  "extracted_at": "2026-07-30 17:25:46",
+  "extracted_at": "2026-07-31 17:27:23",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,15 +41,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/HOOD/",
+      "url": "https://csimarket.com/stocks/HOOD-Suppliers",
       "query": "Robinhood Markets, Inc. suppliers manufacturers",
-      "snippet": "Robinhood Markets , Inc . OverviewCapital Markets / Financial Services. Robinhood Markets , Inc . operates financial services platform in the United S"
+      "snippet": "Jun 22, 2026 · Sources: Robinhood Markets Inc 's official press releases and regulatory filings; CSIMarket.com's supply -chain research; and the finan"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://robinhood.com/",
+      "url": "https://investors.robinhood.com/",
       "query": "Robinhood Markets, Inc. suppliers manufacturers",
-      "snippet": "Trade stocks on Robinhood with commission-free investing & advanced trading tools. Access fractional shares, real-time market data, and more."
+      "snippet": "Jun 30, 2026 · Robinhood Markets , Inc . Investor relations (IR) website contains information about our business for stockholders, potential investors"
     },
     {
       "source": "DuckDuckGo",

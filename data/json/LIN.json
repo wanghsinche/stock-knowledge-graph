@@ -1,37 +1,39 @@
 {
   "ticker": "LIN",
   "company_name": "Linde plc",
-  "sector": "Basic Materials",
-  "industry": "Specialty Chemicals",
+  "sector": "Basic Materials / Specialty Chemicals",
+  "industry": "Industrial Gases",
   "upstream": [
     "Natural gas",
-    "Air",
-    "Hydrogen feedstock",
-    "Industrial gas suppliers",
-    "Chemical raw materials"
+    "Air (for nitrogen, oxygen, argon)",
+    "Helium",
+    "Hydrogen",
+    "Methane"
   ],
   "downstream": [
-    "Aerospace and defense",
-    "Medical and healthcare",
-    "Food and beverage",
-    "Electronics manufacturing",
-    "Automotive and transportation"
+    "Hospitals and medical facilities",
+    "Food and beverage processing",
+    "Oil & gas exploration and production",
+    "Semiconductor and electronics manufacturing",
+    "Chemical and petrochemical plants"
   ],
   "competitors": [
     "Air Liquide",
     "Air Products & Chemicals",
     "Praxair (pre-merger)",
-    "Baker Hughes",
-    "Sinopec"
+    "Baker Hughes (gas solutions)",
+    "Mitsubishi Gas Chemical"
   ],
   "key_products": [
     "Oxygen",
     "Nitrogen",
     "Argon",
     "Hydrogen",
-    "Specialty gases"
+    "Helium",
+    "Specialty gases for electronics",
+    "Gas delivery equipment"
   ],
-  "extracted_at": "2026-03-20 16:41:30",
+  "extracted_at": "2026-07-31 17:25:24",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +43,27 @@
     },
     {
       "source": "DuckDuckGo",
+      "url": "https://www.marketscreener.com/quote/stock/LINDE-PLC-46923083/company-group/",
+      "query": "Linde plc suppliers manufacturers",
+      "snippet": "3 hours ago · Find the group structure chart of Linde plc , with the list of companies belonging to the same group as Linde plc , as well as the execu"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.linde.com/about-us/procurement",
+      "query": "Linde plc suppliers manufacturers",
+      "snippet": "Procurement Supplier Guidance and Standards Our procurement teams worldwide make a significant contribution to the performance of Linde and are accoun"
+    },
+    {
+      "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Linde_plc",
-      "query": "Linde plc suppliers manufacturers",
-      "snippet": "Linde is a global multinational chemical company and the world's largest industrial gas supplier by market share and revenue. Founded by German scient"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://stores.lindedirect.com/ca/",
-      "query": "Linde plc suppliers manufacturers",
-      "snippet": "The Linde Welding Gas & Equipment Centers in California offer a wide range of welding supply products by top manufacturers like Lincoln Electric®, Mil"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/news/top-analyst-reports-sap-linde-211900134.html?pl2=qsp-recent-news_All",
       "query": "Linde plc major customers clients",
-      "snippet": "SAP, Linde and Parker-Hannifin headline Zacks' top analyst picks, highlighting cloud growth, record backlogs and aerospace strength."
+      "snippet": "Linde plc was formed in 2018 through the merger of Linde AG and Praxair, which was founded in 1907 in the United States as Linde Air Products Company."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.gurufocus.com/news/3028957/decoding-linde-plc-lin-a-strategic-swot-insight",
+      "url": "https://csimarket.com/stocks/LIN-Customers",
       "query": "Linde plc major customers clients",
-      "snippet": "Linde PLC (LIN) showcases robust financial performance with a 6% increase in net income. Strategic positioning as the leading industrial gas supplier "
+      "snippet": "17 hours ago · Linde Plc 's Comment on Sales, Marketing and Customers Linde provides gas production and processing services for olefin plants, natural"
     }
   ]
 }

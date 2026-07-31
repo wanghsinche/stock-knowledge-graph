@@ -5,10 +5,10 @@
   "industry": "Semiconductor Equipment & Materials",
   "upstream": [
     "Silicon wafer suppliers",
-    "Chemical and photoresist manufacturers",
-    "META",
-    "Cleanroom and environmental control equipment",
-    "Semiconductor process chemicals"
+    "Chemical and process gas vendors",
+    "Precision optics manufacturers",
+    "Electronics component suppliers",
+    "Software and control system providers"
   ],
   "downstream": [
     "TSM",
@@ -21,17 +21,17 @@
     "ASML",
     "LRCX",
     "Tokyo Electron",
-    "KLA Corporation",
+    "KLA",
     "AMAT"
   ],
   "key_products": [
-    "Semiconductor deposition equipment",
-    "Etching and cleaning systems",
-    "Lithography and patterning tools",
-    "Metrology and inspection instruments",
-    "Software and services for process optimization"
+    "Deposition systems (CVD, ALD)",
+    "Etch and plasma systems",
+    "Ion implantation equipment",
+    "Lithography and metrology tools",
+    "Display manufacturing equipment"
   ],
-  "extracted_at": "2026-07-30 17:19:45",
+  "extracted_at": "2026-07-31 17:23:20",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/AMAT-Suppliers",
+      "query": "Applied Materials, Inc. suppliers manufacturers",
+      "snippet": "Jul 7, 2026 · Applied Materials Inc 's Comment on Supply Chain Applied’s manufacturing activities consist primarily of assembly, test and integration "
+    },
+    {
+      "source": "DuckDuckGo",
       "url": "https://www.appliedmaterials.com/us/en.html",
       "query": "Applied Materials, Inc. suppliers manufacturers",
       "snippet": "Applied Materials , Inc . is the leader in materials engineering solutions that are at the foundation of virtually every new semiconductor and advance"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.getfinvest.com/companies/amat/",
-      "query": "Applied Materials, Inc. suppliers manufacturers",
-      "snippet": "Applied Materials is one of the key suppliers behind the AI chip buildout. Chipmakers use its tools to shape, add, remove, measure, and connect tiny l"
+      "url": "https://en.wikipedia.org/wiki/Applied_Materials",
+      "query": "Applied Materials, Inc. major customers clients",
+      "snippet": "Applied Materials , Inc . is an American corporation that supplies equipment, services and software for the manufacture of semiconductor (integrated c"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.appliedmaterials.com/us/en.html",
+      "url": "https://csimarket.com/stocks/AMAT-Customers",
       "query": "Applied Materials, Inc. major customers clients",
-      "snippet": "Applied Materials , Inc . is the leader in materials engineering solutions that are at the foundation of virtually every new semiconductor and advance"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.fool.com/earnings/call-transcripts/2018/11/15/applied-materials-inc-amat-q4-2018-earnings-confer.aspx",
-      "query": "Applied Materials, Inc. major customers clients",
-      "snippet": "Welcome to the Applied Materials earnings conference call. During the presentation, all participants will be in a listen-only mode. Afterwards, you wi"
+      "snippet": "2 days ago · Applied Materials Inc 's Comment on Sales, Marketing and Customers Because of the highly technical nature of its products, Applied market"
     }
   ]
 }

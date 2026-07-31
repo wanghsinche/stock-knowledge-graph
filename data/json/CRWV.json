@@ -1,37 +1,37 @@
 {
   "ticker": "CRWV",
   "company_name": "CoreWeave, Inc.",
-  "sector": "Technology",
-  "industry": "Software - Infrastructure",
+  "sector": "Technology / Software - Infrastructure",
+  "industry": "Artificial Intelligence Cloud Computing",
   "upstream": [
     "NVDA",
     "AMD",
     "INTC",
-    "MU",
-    "005930.KS"
+    "DELL",
+    "HPQ"
   ],
   "downstream": [
     "OpenAI",
-    "IBM",
-    "MSFT",
     "GOOGL",
-    "AMZN"
+    "MSFT",
+    "AMZN",
+    "DeepMind"
   ],
   "competitors": [
-    "NVDA",
-    "AMD",
-    "AWS GPU Instances",
+    "AMZN",
     "MSFT",
-    "GOOGL"
+    "GOOGL",
+    "NVDA",
+    "Paperspace"
   ],
   "key_products": [
-    "GPU cloud infrastructure",
-    "GPU-as-a-service",
-    "AI cloud computing",
-    "GPU management software",
-    "custom GPU clusters"
+    "GPU‑based AI compute instances",
+    "GPU cloud infrastructure platform",
+    "Chip management software",
+    "GPU virtualization services",
+    "AI workload orchestration"
   ],
-  "extracted_at": "2026-07-30 17:21:13",
+  "extracted_at": "2026-07-31 17:26:21",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,21 +47,21 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.alibaba.com/?src",
+      "url": "https://www.getfinvest.com/companies/crwv/",
       "query": "CoreWeave, Inc. suppliers manufacturers",
-      "snippet": "Find quality Manufacturers , Suppliers , Exporters, Importers, Buyers, Wholesalers, Products and Trade Leads from our award-winning International Trad"
+      "snippet": "01 Running thesis. Demand is real, costs are brutal. CoreWeave is one of the clearest public ways to invest in the AI compute shortage. Customers want"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/CoreWeave",
       "query": "CoreWeave, Inc. major customers clients",
-      "snippet": "It specializes in providing cloud-based graphics processing unit (GPU) infrastructure to AI developers and enterprises, and also develops its own chip"
+      "snippet": "CoreWeave , Inc . is an American artificial intelligence cloud-computing company based in Livingston, New Jersey. It specializes in providing cloud-ba"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.coreweave.com/case-studies",
+      "url": "https://www.getfinvest.com/companies/crwv/",
       "query": "CoreWeave, Inc. major customers clients",
-      "snippet": "Learn how CoreWeave customers like OpenAI and IBM are provisioning the GPUs they need and building AI infrastructure on a massive scale with unprecede"
+      "snippet": "CoreWeave is one of the clearest public ways to invest in the AI compute shortage. Customers want access to high-end NVIDIA GPU clusters, and CoreWeav"
     }
   ]
 }

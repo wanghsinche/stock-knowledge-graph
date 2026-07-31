@@ -3,11 +3,35 @@
   "company_name": "Lumentum Holdings Inc.",
   "sector": "Technology",
   "industry": "Communication Equipment",
-  "upstream": [],
-  "downstream": [],
-  "competitors": [],
-  "key_products": [],
-  "extracted_at": "2026-07-30 17:21:52",
+  "upstream": [
+    "Semiconductor manufacturers",
+    "Optical fiber manufacturers",
+    "Laser diode suppliers",
+    "Photonic integrated circuit vendors",
+    "Precision optics suppliers"
+  ],
+  "downstream": [
+    "Telecom equipment manufacturers",
+    "Data center infrastructure providers",
+    "Industrial automation firms",
+    "Medical imaging companies",
+    "Defense contractors"
+  ],
+  "competitors": [
+    "Coherent Inc.",
+    "II-VI Incorporated",
+    "Trumpf GmbH",
+    "Lumen Technologies",
+    "Infinera Corp."
+  ],
+  "key_products": [
+    "Laser diodes",
+    "Optical amplifiers",
+    "Photonic integrated circuits",
+    "Optical transceivers",
+    "Fiber optic components"
+  ],
+  "extracted_at": "2026-07-31 17:23:09",
   "sources": [
     {
       "source": "Wikipedia",
@@ -17,15 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Lumentum",
+      "url": "https://www.lumentum.com/",
       "query": "Lumentum Holdings Inc. suppliers manufacturers",
-      "snippet": "Lumentum Holdings Inc. is an American manufacturer of optical and photonic products. It was created in 2015 as a spinoff from JDSU."
+      "snippet": "Discover how Lumentum enables innovation through optical and photonic technologies for cloud networking, 3D sensing, lasers, and advanced manufacturin"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.lumentum.com/en/company/supply-chain",
+      "url": "https://www.bloomberg.com/quote/LITE1:SW",
       "query": "Lumentum Holdings Inc. suppliers manufacturers",
-      "snippet": "Lumentum's suppliers are more than vendors; they are our collaborators in innovation. We partner closely with a diverse network of 900+ suppliers and "
+      "snippet": "Stock analysis for Lumentum Holdings Inc (LITE1:BX Worldcaps) including stock price, stock chart, company news, key statistics, fundamentals and compa"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.lumentum.com/",
+      "query": "Lumentum Holdings Inc. major customers clients",
+      "snippet": "Discover how Lumentum enables innovation through optical and photonic technologies for cloud networking, 3D sensing, lasers, and advanced manufacturin"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.bloomberg.com/quote/LITE1:SW",
+      "query": "Lumentum Holdings Inc. major customers clients",
+      "snippet": "Stock analysis for Lumentum Holdings Inc (LITE1:BX Worldcaps) including stock price, stock chart, company news, key statistics, fundamentals and compa"
     }
   ]
 }

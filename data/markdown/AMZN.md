@@ -3,8 +3,8 @@ ticker: AMZN
 company: Amazon.com, Inc.
 sector: Consumer Cyclical
 industry: Internet Retail
-extracted_at: 2026-07-30 17:16:50
-last_updated: 2026-07-30
+extracted_at: 2026-07-31 17:18:54
+last_updated: 2026-07-31
 ---
 
 # AMZN - Amazon.com, Inc.
@@ -12,7 +12,7 @@ last_updated: 2026-07-30
 ## 基本信息
 
 - **所属行业**: Consumer Cyclical / Internet Retail
-- **提取时间**: 2026-07-30 17:16:50
+- **提取时间**: 2026-07-31 17:18:54
 
 ## 产业链关系
 
@@ -20,38 +20,38 @@ last_updated: 2026-07-30
 - [[005930.KS]]
 - [[AAPL]]
 - [[SONY]]
-- [[Nike, Inc.]]
-- [[Adidas AG]]
+- [[DELL]]
+- [[HPQ]]
 
 ### 下游客户
 - [[NFLX]]
 - [[Airbnb, Inc.]]
-- [[005930.KS]]
 - [[ADBE]]
 - [[CRM]]
+- [[MSFT]]
 
 ### 竞争对手
 - [[eBay Inc.]]
 - [[Walmart Inc.]]
 - [[Alibaba Group Holding Ltd.]]
 - [[Shopify Inc.]]
-- [[MSFT]]
+- [[Target Corp.]]
 
 ### 核心产品
-- [[Amazon Marketplace]]
+- [[Amazon.com Marketplace]]
 - [[Amazon Prime]]
 - [[Amazon Web Services (AWS)]]
+- [[Amazon Echo (Alexa)]]
 - [[Amazon Kindle]]
-- [[Amazon Echo/Alexa]]
 
 ## 数据来源
 
 - [Amazon (company)](https://en.wikipedia.org/wiki/Amazon.com,_Inc.)
-- [Amazon.com, Inc. suppliers manufacturers](https://www.alibaba.com/)
-- [Amazon.com, Inc. suppliers manufacturers](https://ir.aboutamazon.com/)
-- [Amazon.com, Inc. major customers clients](https://ir.aboutamazon.com/)
-- [Amazon.com, Inc. major customers clients](https://www.linkedin.com/company/amazon/)
+- [Amazon.com, Inc. suppliers manufacturers](https://supply.amazon.com/)
+- [Amazon.com, Inc. suppliers manufacturers](https://www.thesellingguys.com/online-sourcing-buying-wholesalers-distributors/)
+- [Amazon.com, Inc. major customers clients](https://en.wikipedia.org/wiki/Amazon_(company))
+- [Amazon.com, Inc. major customers clients](https://capitaloneshopping.com/research/amazon-statistics/)
 
 ## 元数据
 
-- **更新日期**: 2026-07-30
+- **更新日期**: 2026-07-31

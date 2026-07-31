@@ -1,55 +1,57 @@
 ---
 ticker: RBLX
 company: Roblox Corporation
-sector: Communication Services
+sector: Communication Services / Electronic Gaming & Multimedia
 industry: Electronic Gaming & Multimedia
-extracted_at: 2026-05-01 16:49:27
-last_updated: 2026-05-01
+extracted_at: 2026-07-31 17:25:13
+last_updated: 2026-07-31
 ---
 
 # RBLX - Roblox Corporation
 
 ## 基本信息
 
-- **所属行业**: Communication Services / Electronic Gaming & Multimedia
-- **提取时间**: 2026-05-01 16:49:27
+- **所属行业**: Communication Services / Electronic Gaming & Multimedia / Electronic Gaming & Multimedia
+- **提取时间**: 2026-07-31 17:25:13
 
 ## 产业链关系
 
 ### 上游供应商
-- [[AMZN]]
 - [[MSFT]]
-- [[GOOGL]]
-- [[Cloudflare]]
-- [[Stripe]]
+- [[Hardware manufacturers (e.g., GPU and CPU suppliers)]]
+- [[Payment processors (e.g., Stripe, PayPal)]]
+- [[Advertising technology partners]]
+- [[Content delivery network providers]]
 
 ### 下游客户
-- [[Players (millions of users)]]
-- [[Game developers]]
-- [[Advertisers]]
-- [[Brands]]
-- [[Platform partners]]
+- [[Gamers worldwide]]
+- [[Independent developers using Roblox Studio]]
+- [[Advertisers targeting the Roblox audience]]
+- [[Virtual event organizers]]
+- [[CAT]]
 
 ### 竞争对手
+- [[Unity Technologies]]
 - [[Epic Games]]
-- [[Unity]]
-- [[Minecraft]]
+- [[MSFT]]
+- [[SONY]]
+- [[Nintendo]]
 
 ### 核心产品
-- [[Roblox platform]]
-- [[Roblox Studio]]
+- [[Roblox platform (web and mobile)]]
+- [[Roblox Studio (game development tool)]]
 - [[Roblox mobile app]]
-- [[Roblox virtual economy]]
-- [[Roblox avatar system]]
+- [[Roblox virtual economy (Robux, developer exchange)]]
+- [[Roblox events and virtual concerts]]
 
 ## 数据来源
 
 - [Roblox Corporation](https://en.wikipedia.org/wiki/Roblox_Corporation)
 - [Roblox Corporation suppliers manufacturers](https://en.wikipedia.org/wiki/Roblox_Corporation)
-- [Roblox Corporation suppliers manufacturers](https://www.youtube.com/watch?v=alTjCLRxZr0)
-- [Roblox Corporation competitors alternatives](https://www.youtube.com/watch?v=alTjCLRxZr0)
-- [Roblox Corporation competitors alternatives](https://simplywall.st/stocks/de/media/fra-ro7/roblox-shares)
+- [Roblox Corporation suppliers manufacturers](https://csimarket.com/stocks/RBLX-Suppliers)
+- [Roblox Corporation major customers clients](https://www.roblox.com/)
+- [Roblox Corporation major customers clients](https://www.linkedin.com/company/roblox)
 
 ## 元数据
 
-- **更新日期**: 2026-05-01
+- **更新日期**: 2026-07-31

@@ -4,18 +4,18 @@
   "sector": "Technology",
   "industry": "Semiconductors",
   "upstream": [
-    "TSM",
-    "005930.KS",
-    "GlobalFoundries",
-    "UMC",
-    "SMIC"
+    "ASML",
+    "AMAT",
+    "LRCX",
+    "Tokyo Electron (semiconductor manufacturing equipment)",
+    "Silicon wafer suppliers (e.g., Siltronic, GlobalWafers)"
   ],
   "downstream": [
-    "Toyota Motor Corporation",
-    "Ford Motor Company",
+    "Automotive OEMs (e.g., Ford, General Motors, Toyota)",
+    "Industrial automation firms (e.g., Siemens, Rockwell Automation)",
     "AAPL",
-    "Siemens AG",
-    "Ericsson AB"
+    "DELL",
+    "CAT"
   ],
   "competitors": [
     "TXN",
@@ -26,12 +26,12 @@
   ],
   "key_products": [
     "DC‑DC converters",
-    "Linear regulators",
-    "Power management ICs",
-    "Automotive power modules",
-    "Industrial power solutions"
+    "Linear voltage regulators",
+    "Power management ICs for automotive",
+    "Power management solutions for industrial automation",
+    "High‑efficiency power modules for data centers"
   ],
-  "extracted_at": "2026-05-01 16:54:42",
+  "extracted_at": "2026-07-31 17:27:11",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,13 +43,13 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Monolithic_Power_Systems",
       "query": "Monolithic Power Systems, Inc. suppliers manufacturers",
-      "snippet": "Monolithic Power Systems , Inc . is an American, publicly traded company headquartered in West Palm Beach, Florida. It operates in more than 15 locati"
+      "snippet": "Monolithic Power Systems markets its products through third-party distributors and value-added resellers. It directly markets to original equipment ma"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.monolithicpower.com/",
+      "url": "https://www.monolithicpower.com/en/manufacturers-representatives",
       "query": "Monolithic Power Systems, Inc. suppliers manufacturers",
-      "snippet": "Monolithic Power Systems , Inc . (MPS) provides small, highly energy efficient, easy-to-use power management solutions for electronic systems found in"
+      "snippet": "Monolithic Power Systems The highest quality power solutions for Industrial Applications, Telecom Infrastructures, Cloud Computing, Automotive, and Co"
     },
     {
       "source": "DuckDuckGo",
@@ -59,9 +59,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.monolithicpower.com/",
+      "url": "https://csimarket.com/stocks/MPWR-Customers",
       "query": "Monolithic Power Systems, Inc. major customers clients",
-      "snippet": "Monolithic Power Systems , Inc . (MPS) provides small, highly energy efficient, easy-to-use power management solutions for electronic systems found in"
+      "snippet": "Monolithic Power Systems Inc 's Comment on Sales, Marketing and Customers We sell our products through third-party distributors, value-added resellers"
     }
   ]
 }

@@ -4,34 +4,35 @@
   "sector": "Technology",
   "industry": "Consumer Electronics",
   "upstream": [
-    "SONY",
-    "Foxconn",
+    "Foxconn (Hon Hai Precision Industry Co., Ltd.)",
     "TSM",
-    "005930.KS",
-    "LG Display"
+    "SONY",
+    "LG Electronics",
+    "005930.KS"
   ],
   "downstream": [
-    "iPhone users",
-    "iPad users",
-    "MacBook users",
-    "AAPL",
-    "Enterprise clients"
+    "AMZN",
+    "MSFT",
+    "CAT",
+    "Government agencies",
+    "Individual consumers"
   ],
   "competitors": [
     "005930.KS",
     "GOOGL",
     "MSFT",
     "Huawei",
-    "Xiaomi"
+    "SONY"
   ],
   "key_products": [
     "iPhone",
     "iPad",
-    "MacBook",
+    "Mac (MacBook, iMac, Mac Pro)",
     "Apple Watch",
-    "AirPods"
+    "Apple TV",
+    "Services (iCloud, Apple Music, Apple Pay, App Store)"
   ],
-  "extracted_at": "2026-07-30 17:16:30",
+  "extracted_at": "2026-07-31 17:19:07",
   "sources": [
     {
       "source": "Wikipedia",
@@ -53,15 +54,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.apple.com/",
+      "url": "https://en.wikipedia.org/wiki/Apple_Inc.",
       "query": "Apple Inc. major customers clients",
-      "snippet": "Discover the innovative world of Apple and shop everything iPhone, iPad, Apple Watch, Mac, and Apple TV, plus explore accessories, entertainment, and "
+      "snippet": "1 day ago - Apple introduced the Disk II 5+1⁄4-inch floppy disk drive in 1978, replacing cassette tape storage with faster and more reliable removable"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://account.apple.com/account",
+      "url": "https://csimarket.com/stocks/markets_glance.php?code=AAPL",
       "query": "Apple Inc. major customers clients",
-      "snippet": "Your account you use for all Apple services."
+      "snippet": "4 weeks ago - Apple Inc customers and markets, results by customer and performance relative to AAPL, by company and industry - CSIMarket"
     }
   ]
 }

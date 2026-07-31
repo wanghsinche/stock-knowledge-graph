@@ -6,32 +6,32 @@
   "upstream": [
     "INTC",
     "AMD",
-    "005930.KS",
-    "MU",
-    "STX"
+    "NVDA",
+    "DELL",
+    "CSCO"
   ],
   "downstream": [
-    "AMZN",
-    "GOOGL",
-    "AAPL",
-    "DELL",
-    "005930.KS"
+    "Fortune 500 companies",
+    "U.S. federal government",
+    "CAT",
+    "Small businesses",
+    "Gaming community"
   ],
   "competitors": [
     "AAPL",
     "GOOGL",
     "AMZN",
     "ORCL",
-    "CRM"
+    "IBM"
   ],
   "key_products": [
     "Windows OS",
     "Microsoft Office",
-    "Azure",
-    "Microsoft 365",
-    "Xbox"
+    "Azure cloud",
+    "Xbox consoles",
+    "Microsoft Surface"
   ],
-  "extracted_at": "2026-07-30 17:14:47",
+  "extracted_at": "2026-07-31 17:19:34",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,15 +41,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://download.microsoft.com/download/F/3/8/F38AF681-EB3A-4645-A9C4-D4F31B8BA8F2/Microsoft+Top+100+Production+Suppliers.pdf",
+      "url": "https://csimarket.com/stocks/suppliers_glance.php?code=MSFT",
       "query": "Microsoft Corporation suppliers manufacturers",
-      "snippet": "The official Microsoft Download Center. Featuring the latest software updates and drivers for Windows, Office, Xbox and more. Operating systems includ"
+      "snippet": "News about Microsoft Corporation Contracts. Microsoft 's Comment on Supply Chain. We develop most of our products and services internally through four"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://data.ark.ai/analysis/suppliers/microsoft-corporation-supplier-profile-overview",
+      "url": "https://www.microsoft.com/en-us",
       "query": "Microsoft Corporation suppliers manufacturers",
-      "snippet": "The resulting vendor analysis and supplier profile includes a supply chain analysis, an evaluation of key subcontractors and prime contractors, and an"
+      "snippet": "Explore Microsoft products and services and support for your home or business. Shop Microsoft 365, Copilot, Teams, Xbox, Windows, Azure, Surface and m"
     },
     {
       "source": "DuckDuckGo",

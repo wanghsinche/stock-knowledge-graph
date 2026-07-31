@@ -1,37 +1,37 @@
 {
   "ticker": "SNDK",
   "company_name": "SanDisk Corporation",
-  "sector": "Technology",
-  "industry": "Computer Hardware",
+  "sector": "Technology / Computer Hardware",
+  "industry": "Computer Storage",
   "upstream": [
-    "Semiconductor manufacturers",
-    "Memory chip suppliers",
-    "Packaging and assembly providers",
-    "Electronic component suppliers",
-    "Raw material suppliers"
+    "Semiconductor suppliers",
+    "Memory chip manufacturers",
+    "CAT",
+    "Packaging and testing services",
+    "Component distributors"
   ],
   "downstream": [
-    "PC manufacturers",
-    "Smartphone OEMs",
-    "Enterprise storage vendors",
-    "Consumer electronics retailers",
-    "Cloud service providers"
+    "Authorized distributors",
+    "Channel partners",
+    "Retailers",
+    "OEMs",
+    "End consumers"
   ],
   "competitors": [
-    "WDC",
-    "STX",
-    "Kingston Technology",
-    "005930.KS",
-    "MU"
+    "SONY",
+    "Kingston",
+    "Lexar",
+    "Transcend",
+    "Corsair"
   ],
   "key_products": [
+    "SD cards",
+    "MicroSD cards",
     "USB flash drives",
-    "SD memory cards",
-    "SSD drives",
-    "External hard drives",
-    "Memory modules"
+    "Solid‑state drives",
+    "Memory cards"
   ],
-  "extracted_at": "2026-07-30 17:15:25",
+  "extracted_at": "2026-07-31 17:19:24",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.sandisk.com/",
+      "url": "https://en.wikipedia.org/wiki/SanDisk",
       "query": "Sandisk Corporation suppliers manufacturers",
-      "snippet": "Sandisk online store members receive free standard shipping on all eligible orders.Offer must be redeemed by January 31, 2028, or while activation cod"
+      "snippet": "SanDisk SD Cards 128MB and 32GB 512 MB SanDisk SD card and Sony Memory Stick SanDisk Ultra 32GB MicroSD card with Adapter SanDisk SDHC Card 8GB SanDis"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.sandisk.com/en-us/company/distributors",
+      "query": "Sandisk Corporation suppliers manufacturers",
+      "snippet": "Find authorized SanDisk distributors and channel partners worldwide for trusted storage solutions and products."
     },
     {
       "source": "DuckDuckGo",
       "url": "https://finance.yahoo.com/quote/SNDK/",
-      "query": "Sandisk Corporation suppliers manufacturers",
-      "snippet": "Sandisk Corporation develops, manufactures , and sells data storage devices and solutions using NAND flash technology in the United States, Europe, th"
+      "query": "Sandisk Corporation major customers clients",
+      "snippet": "Find the latest Sandisk Corporation (SNDK) stock quote, history, news and other vital information to help you with your stock trading and investing."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Sandisk",
+      "url": "https://www.sandisk.com/",
       "query": "Sandisk Corporation major customers clients",
-      "snippet": "June 21, 2026 - On November 8, 1995, SunDisk changed its name to SanDisk to avoid confusion with Sun Microsystems, and went public under the new name "
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/markets_glance.php?code=SNDK",
-      "query": "Sandisk Corporation major customers clients",
-      "snippet": "June 20, 2026 - Sandisk customers and markets, results by customer and performance relative to SNDK, by company and industry - CSIMarket"
+      "snippet": "Sandisk online store members receive free standard shipping on all eligible orders."
     }
   ]
 }

@@ -7,13 +7,13 @@
     "TSM",
     "005930.KS",
     "MU",
-    "ASML",
-    "AMAT"
+    "SK Hynix",
+    "GlobalFoundries"
   ],
   "downstream": [
     "DELL",
     "HPQ",
-    "Lenovo",
+    "Lenovo Group",
     "AAPL",
     "MSFT"
   ],
@@ -25,13 +25,13 @@
     "005930.KS"
   ],
   "key_products": [
-    "Intel Core i7/i5/i3 CPUs",
+    "Intel Core CPUs",
     "Intel Xeon CPUs",
-    "Intel Xe GPUs",
-    "Intel Iris Graphics",
-    "Intel Optane memory"
+    "Intel Arc GPUs",
+    "Intel Ethernet and networking chips",
+    "Intel AI inference chips"
   ],
-  "extracted_at": "2026-07-30 17:17:06",
+  "extracted_at": "2026-07-31 17:20:36",
   "sources": [
     {
       "source": "Wikipedia",
@@ -53,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/INTC/",
-      "query": "Intel Corporation major customers clients",
-      "snippet": "Find the latest Intel Corporation (INTC) stock quote, history, news and other vital information to help you with your stock trading and investing."
-    },
-    {
-      "source": "DuckDuckGo",
       "url": "https://www.tradingview.com/symbols/NASDAQ-INTC/",
       "query": "Intel Corporation major customers clients",
       "snippet": "View live Intel Corporation chart to track its stock's price action. Find market predictions, INTC financials and market news."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://finance.yahoo.com/quote/INTC/",
+      "query": "Intel Corporation major customers clients",
+      "snippet": "Find the latest Intel Corporation (INTC) stock quote, history, news and other vital information to help you with your stock trading and investing."
     }
   ]
 }

@@ -3,8 +3,8 @@ ticker: MPWR
 company: Monolithic Power Systems, Inc.
 sector: Technology
 industry: Semiconductors
-extracted_at: 2026-05-01 16:54:42
-last_updated: 2026-05-01
+extracted_at: 2026-07-31 17:27:11
+last_updated: 2026-07-31
 ---
 
 # MPWR - Monolithic Power Systems, Inc.
@@ -12,23 +12,23 @@ last_updated: 2026-05-01
 ## 基本信息
 
 - **所属行业**: Technology / Semiconductors
-- **提取时间**: 2026-05-01 16:54:42
+- **提取时间**: 2026-07-31 17:27:11
 
 ## 产业链关系
 
 ### 上游供应商
-- [[TSM]]
-- [[005930.KS]]
-- [[GlobalFoundries]]
-- [[UMC]]
-- [[SMIC]]
+- [[ASML]]
+- [[AMAT]]
+- [[LRCX]]
+- [[Tokyo Electron (semiconductor manufacturing equipment)]]
+- [[Silicon wafer suppliers (e.g., Siltronic, GlobalWafers)]]
 
 ### 下游客户
-- [[Toyota Motor Corporation]]
-- [[Ford Motor Company]]
+- [[Automotive OEMs (e.g., Ford, General Motors, Toyota)]]
+- [[Industrial automation firms (e.g., Siemens, Rockwell Automation)]]
 - [[AAPL]]
-- [[Siemens AG]]
-- [[Ericsson AB]]
+- [[DELL]]
+- [[CAT]]
 
 ### 竞争对手
 - [[TXN]]
@@ -39,19 +39,19 @@ last_updated: 2026-05-01
 
 ### 核心产品
 - [[DC‑DC converters]]
-- [[Linear regulators]]
-- [[Power management ICs]]
-- [[Automotive power modules]]
-- [[Industrial power solutions]]
+- [[Linear voltage regulators]]
+- [[Power management ICs for automotive]]
+- [[Power management solutions for industrial automation]]
+- [[High‑efficiency power modules for data centers]]
 
 ## 数据来源
 
 - [Monolithic Power Systems](https://en.wikipedia.org/wiki/Monolithic_Power_Systems,_Inc.)
 - [Monolithic Power Systems, Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/Monolithic_Power_Systems)
-- [Monolithic Power Systems, Inc. suppliers manufacturers](https://www.monolithicpower.com/)
+- [Monolithic Power Systems, Inc. suppliers manufacturers](https://www.monolithicpower.com/en/manufacturers-representatives)
 - [Monolithic Power Systems, Inc. major customers clients](https://en.wikipedia.org/wiki/Monolithic_Power_Systems)
-- [Monolithic Power Systems, Inc. major customers clients](https://www.monolithicpower.com/)
+- [Monolithic Power Systems, Inc. major customers clients](https://csimarket.com/stocks/MPWR-Customers)
 
 ## 元数据
 
-- **更新日期**: 2026-05-01
+- **更新日期**: 2026-07-31

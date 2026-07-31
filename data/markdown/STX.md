@@ -1,57 +1,57 @@
 ---
 ticker: STX
-company: Seagate Technology Holdings Inc.
-sector: Technology
-industry: Computer Hardware
-extracted_at: 2026-07-30 17:19:17
-last_updated: 2026-07-30
+company: STX Corporation
+sector: Technology / Computer Hardware
+industry: Trading / Industrial Goods
+extracted_at: 2026-07-31 17:22:34
+last_updated: 2026-07-31
 ---
 
-# STX - Seagate Technology Holdings Inc.
+# STX - STX Corporation
 
 ## 基本信息
 
-- **所属行业**: Technology / Computer Hardware
-- **提取时间**: 2026-07-30 17:19:17
+- **所属行业**: Technology / Computer Hardware / Trading / Industrial Goods
+- **提取时间**: 2026-07-31 17:22:34
 
 ## 产业链关系
 
 ### 上游供应商
-- [[MU]]
-- [[005930.KS]]
-- [[SK Hynix]]
-- [[Toshiba]]
-- [[INTC]]
+- [[Steel producers]]
+- [[Chemical manufacturers]]
+- [[Energy suppliers]]
+- [[Electronics component suppliers]]
+- [[Raw material suppliers]]
 
 ### 下游客户
-- [[DELL]]
-- [[HPQ]]
-- [[Lenovo Group]]
-- [[AAPL]]
-- [[AMZN]]
+- [[Manufacturing companies]]
+- [[Industrial users]]
+- [[Construction firms]]
+- [[Automotive manufacturers]]
+- [[Electronics manufacturers]]
 
 ### 竞争对手
-- [[WDC]]
-- [[Toshiba Corporation]]
+- [[POSCO Trading]]
+- [[Hyundai Trading]]
 - [[005930.KS]]
-- [[MU]]
-- [[IBM]]
+- [[LG Energy Solution]]
+- [[Korea Zinc]]
 
 ### 核心产品
-- [[Hard Disk Drives]]
-- [[Solid State Drives]]
-- [[Enterprise Storage Solutions]]
-- [[Network Attached Storage]]
-- [[External Storage Devices]]
+- [[Steel products]]
+- [[Chemical products]]
+- [[Energy products]]
+- [[Electronics components]]
+- [[Industrial equipment]]
 
 ## 数据来源
 
 - [STX](https://en.wikipedia.org/wiki/STX)
-- [STX suppliers manufacturers](https://csimarket.com/stocks/STX-Suppliers)
 - [STX suppliers manufacturers](https://panjiva.com/Manufacturers-Of/stx)
-- [STX major customers clients](https://finance.yahoo.com/quote/STX/holders/?ltr=1)
-- [STX major customers clients](https://www.marketbeat.com/stocks/NASDAQ/STX/institutional-ownership/)
+- [STX suppliers manufacturers](https://www.whxcable.com/stx/)
+- [STX major customers clients](https://en.wikipedia.org/wiki/STX_Corporation)
+- [STX major customers clients](https://portersfiveforce.com/blogs/target-market/stx)
 
 ## 元数据
 
-- **更新日期**: 2026-07-30
+- **更新日期**: 2026-07-31

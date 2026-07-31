@@ -4,34 +4,34 @@
   "sector": "Communication Services",
   "industry": "Internet Content & Information",
   "upstream": [
-    "Advertising partners",
-    "Technology vendors (cloud, CDN)",
-    "Content providers (media outlets)",
-    "Payment processors",
-    "Legal & compliance service firms"
-  ],
-  "downstream": [
+    "AMZN",
     "GOOGL",
     "MSFT",
-    "AMZN",
-    "NFLX",
-    "Spotify"
+    "Cloudflare",
+    "DELL"
+  ],
+  "downstream": [
+    "Advertisers (brands and agencies)",
+    "Media companies",
+    "Gaming companies",
+    "Political campaigns",
+    "Influencer marketing partners"
   ],
   "competitors": [
     "META",
     "Twitter (X)",
     "TikTok",
     "Discord",
-    "LinkedIn"
+    "YouTube"
   ],
   "key_products": [
-    "Reddit platform (social news aggregation)",
+    "Reddit website",
+    "Reddit mobile app",
     "Reddit Premium subscription",
-    "Reddit Gold rewards",
-    "Advertising and promoted posts",
-    "Data analytics & insights services"
+    "Reddit Ads platform",
+    "Reddit Live streaming"
   ],
-  "extracted_at": "2026-07-22 17:16:15",
+  "extracted_at": "2026-07-31 17:22:46",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://vendor.reddithelp.com/hc/en-us",
+      "url": "https://csimarket.com/stocks/suppliers_glance.php?code=RDDT",
       "query": "Reddit, Inc. suppliers manufacturers",
-      "snippet": "Working with Reddit Contractors (aka r/flex) Promoted articles Supplier Code of Conduct General Purchase Order Terms and Conditions"
+      "snippet": "Reddit Inc supply chain, list and performance of Reddit Incs ' suppliers - CSIMarket."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://vendor.reddithelp.com/hc/en-us/sections/24862843032219-Supplier-Portal",
+      "url": "https://redditinc.com/",
       "query": "Reddit, Inc. suppliers manufacturers",
-      "snippet": "Coupa Supplier Portal Company About Advertising Careers Investors Press Reddit Blog Reddit Help Center Resources Policies Developer Platform Reddit Ap"
+      "snippet": "Reddit rules. Press inquiries. Legal requests.Visit Reddit . This is a search field with an auto-suggest feature attached."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://technologychecker.io/technology/reddit",
+      "url": "https://redditinc.com/",
       "query": "Reddit, Inc. major customers clients",
-      "snippet": "Mar 12, 2026 · Explore our verified list of 83,944 companies using Reddit , including Fortune 500 brands. See market share (0%), industry breakdowns, "
+      "snippet": "Reddit rules. Press inquiries. Legal requests."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.inc.com/diana-bocco/reddit-customer-pain-point-founders-best-product-ideas/91352669",
+      "url": "https://www.fool.com/investing/2026/07/27/reddit-incs-next-earnings-report-on-july-30-could-send-the-stock-soaring-heres-why/",
       "query": "Reddit, Inc. major customers clients",
-      "snippet": "May 30, 2026 · Reddit Is a Goldmine for Customer Pain Points. Here’s How Savvy Founders Use It to Find Their Best Product Ideas If you know where to l"
+      "snippet": "The vast majority of Reddit ’s revenue still comes from advertising, but its potential in data licensing has helped expand the stock’s valuation and a"
     }
   ]
 }

@@ -1,65 +1,67 @@
 {
   "ticker": "RBLX",
   "company_name": "Roblox Corporation",
-  "sector": "Communication Services",
+  "sector": "Communication Services / Electronic Gaming & Multimedia",
   "industry": "Electronic Gaming & Multimedia",
   "upstream": [
-    "AMZN",
     "MSFT",
-    "GOOGL",
-    "Cloudflare",
-    "Stripe"
+    "Hardware manufacturers (e.g., GPU and CPU suppliers)",
+    "Payment processors (e.g., Stripe, PayPal)",
+    "Advertising technology partners",
+    "Content delivery network providers"
   ],
   "downstream": [
-    "Players (millions of users)",
-    "Game developers",
-    "Advertisers",
-    "Brands",
-    "Platform partners"
+    "Gamers worldwide",
+    "Independent developers using Roblox Studio",
+    "Advertisers targeting the Roblox audience",
+    "Virtual event organizers",
+    "CAT"
   ],
   "competitors": [
+    "Unity Technologies",
     "Epic Games",
-    "Unity",
-    "Minecraft"
+    "MSFT",
+    "SONY",
+    "Nintendo"
   ],
   "key_products": [
-    "Roblox platform",
-    "Roblox Studio",
+    "Roblox platform (web and mobile)",
+    "Roblox Studio (game development tool)",
     "Roblox mobile app",
-    "Roblox virtual economy",
-    "Roblox avatar system"
+    "Roblox virtual economy (Robux, developer exchange)",
+    "Roblox events and virtual concerts"
   ],
-  "extracted_at": "2026-05-01 16:49:27",
+  "extracted_at": "2026-07-31 17:25:13",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Roblox_Corporation",
       "title": "Roblox Corporation",
-      "snippet": "Roblox Corporation is an American video game developer based in San Mateo, California. Founded in 2004 by David Baszucki and Erik Cassel, the company is the developer of Roblox, a game platform, which"
+      "snippet": "The Roblox Corporation is an American video game development company based in San Mateo, California. Founded in 2004 by David Baszucki and Erik Cassel, the company is the developer of Roblox, a game p"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Roblox_Corporation",
       "query": "Roblox Corporation suppliers manufacturers",
-      "snippet": "Website. corp . roblox .com. Roblox Corporation rolled out a \" Roblox Partner Program\" with seven initial developers partnered to create playable Robl"
+      "snippet": "corp . roblox .com Edit this at Wikidata. Roblox Corporation was founded by David Baszucki and Erik Cassel. Baszucki had previously founded Knowledge "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.youtube.com/watch?v=alTjCLRxZr0",
+      "url": "https://csimarket.com/stocks/RBLX-Suppliers",
       "query": "Roblox Corporation suppliers manufacturers",
-      "snippet": "Companies will do anything to broaden their reach, and hiring developers to make a Roblox game for them is no exception. Join me and Bitti as we go th"
+      "snippet": "Roblox supply chain, list and performance of Robloxs' suppliers - CSIMarket.Updated on: Monday, June 22, 2026 8:36 PM For your research, we’ve provide"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.youtube.com/watch?v=alTjCLRxZr0",
-      "query": "Roblox Corporation competitors alternatives",
-      "snippet": "Companies will do anything to broaden their reach, and hiring developers to make a Roblox game for them is no exception."
+      "url": "https://www.roblox.com/",
+      "query": "Roblox Corporation major customers clients",
+      "snippet": "Roblox is the ultimate virtual universe that lets you create, share experiences with friends, and be anything you can imagine. Join millions of people"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://simplywall.st/stocks/de/media/fra-ro7/roblox-shares",
-      "query": "Roblox Corporation competitors alternatives",
-      "snippet": "Roblox Corporation Competitors .Dave Baszucki. corp . roblox .com. Roblox Corporation operates an immersive platform for connection and communication "
+      "url": "https://www.linkedin.com/company/roblox",
+      "query": "Roblox Corporation major customers clients",
+      "snippet": "Roblox 's vision is to reimagine the way people come together. Our mission is to connect a billion people with optimism and civility.Server Authority "
     }
   ]
 }

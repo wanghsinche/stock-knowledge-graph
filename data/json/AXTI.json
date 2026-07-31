@@ -3,11 +3,35 @@
   "company_name": "AXT, Inc.",
   "sector": "Technology",
   "industry": "Semiconductor Equipment & Materials",
-  "upstream": [],
-  "downstream": [],
-  "competitors": [],
-  "key_products": [],
-  "extracted_at": "2026-05-01 16:51:06",
+  "upstream": [
+    "AMAT",
+    "Tokyo Electron",
+    "LRCX",
+    "KLA",
+    "ASML"
+  ],
+  "downstream": [
+    "GlobalFoundries",
+    "TSM",
+    "INTC",
+    "005930.KS",
+    "NXP Semiconductors"
+  ],
+  "competitors": [
+    "AMAT",
+    "LRCX",
+    "Tokyo Electron",
+    "ASML",
+    "KLA"
+  ],
+  "key_products": [
+    "Compound semiconductor wafers",
+    "Epitaxial growth equipment",
+    "CVD systems",
+    "MOCVD equipment",
+    "Semiconductor materials"
+  ],
+  "extracted_at": "2026-07-31 17:26:09",
   "sources": [
     {
       "source": "Wikipedia",
@@ -17,15 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/suppliers_glance.php?code=AXTI",
+      "url": "https://csimarket.com/stocks/AXTI-Suppliers",
       "query": "AXT, Inc. suppliers manufacturers",
-      "snippet": "Axt Inc 's Comment on Supply Chain. We manufacture all of our products in the People’s Republic of China (PRC or China), which generally has favorable"
+      "snippet": "Jul 7, 2026 · Axt Inc 's Comment on Supply Chain We manufacture all of our products in the People’s Republic of China (PRC or China), which generally "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/axt-inc-announces-first-quarter-200500218.html",
+      "url": "https://investors.axt.com/Investors/Overview/default.aspx",
       "query": "AXT, Inc. suppliers manufacturers",
-      "snippet": "FREMONT, Calif., April 30, 2026-- AXT , Inc . (NasdaqGS: AXTI ), a leading manufacturer of compound semiconductor wafer substrates, today reported fin"
+      "snippet": "17 hours ago · AXT’s subsidiary in China (“Tongmei”) has similar functions as well as manufacturing facilities to produce wafer substrates. In additio"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/AXTI-Customers",
+      "query": "AXT, Inc. major customers clients",
+      "snippet": "Axt Inc customers and markets, results by customer and performance relative to AXTI, by company and industry - CSIMarket"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://investors.axt.com/investors/news/news-details/2026/axt-inc--announces-second-quarter-2026-financial-results/default.aspx",
+      "query": "AXT, Inc. major customers clients",
+      "snippet": "AXT, Inc . (NasdaqGS: AXTI), a leading manufacturer of compound semiconductor wafer substrates, today reported financial results for the second quarte"
     }
   ]
 }

@@ -10,10 +10,10 @@
   ],
   "downstream": [
     "Capital One",
-    "SONY",
     "ADBE",
+    "SONY",
     "eBay",
-    "NFLX"
+    "Target"
   ],
   "competitors": [
     "AMZN",
@@ -24,12 +24,12 @@
   ],
   "key_products": [
     "Snowflake Data Cloud",
-    "Snowflake Data Warehouse",
     "Snowflake Data Marketplace",
     "Snowflake Data Sharing",
-    "Snowflake Data Engineering"
+    "Snowflake Data Engineering",
+    "Snowflake Data Lake"
   ],
-  "extracted_at": "2026-07-30 17:32:19",
+  "extracted_at": "2026-07-31 17:28:46",
   "sources": [
     {
       "source": "Wikipedia",
@@ -39,27 +39,27 @@
     },
     {
       "source": "DuckDuckGo",
+      "url": "https://de.wikipedia.org/wiki/Snowflake_Inc.",
+      "query": "Snowflake Inc. suppliers manufacturers",
+      "snippet": "Snowflake Inc . ist ein Cloud-basiertes Software-as-a-Service-Unternehmen, das 2012 gegründet wurde. Snowflake Inc . wurde 2012 in San Mateo, Kaliforn"
+    },
+    {
+      "source": "DuckDuckGo",
       "url": "https://www.snowflake.com/",
       "query": "Snowflake Inc. suppliers manufacturers",
       "snippet": "Snowflake powers AI, data engineering, applications, and analytics on a trusted, scalable AI Data Cloud—eliminating silos and accelerating innovation."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.youtube.com/channel/UCs10x-muRrTQMJ4Ya-fmIlw",
-      "query": "Snowflake Inc. suppliers manufacturers",
-      "snippet": "Snowflake securely connects businesses globally across any type or scale of data to productize AI, applications, and more in the enterprise."
+      "url": "https://www.snowflake.com/en/customers/all-customers/",
+      "query": "Snowflake Inc. major customers clients",
+      "snippet": "Leading Organizations Choose Snowflake . Discover how organizations are using the Snowflake AI Data Cloud, to easily transform, integrate, and analyze"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.snowflake.com/",
+      "url": "https://www.snowflake.com/en/customers/",
       "query": "Snowflake Inc. major customers clients",
-      "snippet": "Snowflake enables organizations to collaborate, build AI-powered data apps, and unlock data insights—all within a secure and scalable AI Data Cloud."
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://businesschronicler.com/competitors/snowflake-competitors-analysis/",
-      "query": "Snowflake Inc. major customers clients",
-      "snippet": "Having an existing customer base is essential for Snowflake ’s bottom line. Snowflake ’s client base provides a consistent revenue cycle and allows th"
+      "snippet": "Thousands of customers - rely on Snowflake to simplify their data foundation, power AI strategy and scale with apps."
     }
   ]
 }

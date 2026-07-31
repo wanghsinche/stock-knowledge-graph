@@ -4,34 +4,34 @@
   "sector": "Technology",
   "industry": "Software - Infrastructure",
   "upstream": [
-    "DELL",
-    "MSFT",
-    "CSCO",
-    "AMD",
-    "MSFT"
+    "Hardware component suppliers",
+    "Cloud infrastructure providers",
+    "Software vendors",
+    "Data center equipment manufacturers",
+    "Consulting and integration partners"
   ],
   "downstream": [
-    "Large enterprises (e.g., JPMorgan Chase, Walmart, Coca‑Cola)",
-    "Government agencies (e.g., U.S. Department of Defense, NASA)",
-    "Financial institutions (e.g., Goldman Sachs, Morgan Stanley)",
-    "Retail giants (e.g., Walmart, Target)",
+    "Enterprise customers (finance, manufacturing, retail)",
+    "Government agencies and public sector",
+    "Healthcare and life‑science organizations",
+    "CAT",
     "CAT"
   ],
   "competitors": [
     "MSFT",
     "AMZN",
     "IBM",
-    "SAP (HANA)",
+    "SAP",
     "GOOGL"
   ],
   "key_products": [
     "Oracle Database",
     "Oracle Cloud Infrastructure (OCI)",
     "Oracle Autonomous Database",
-    "Oracle Fusion Applications",
-    "Oracle Exadata"
+    "Oracle Applications (E-Business Suite, Fusion)",
+    "Oracle Enterprise Manager"
   ],
-  "extracted_at": "2026-07-30 17:20:41",
+  "extracted_at": "2026-07-31 17:22:58",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://adjkjc.github.io/en.wikipedia.org/wiki/Oracle_Corporation.html",
+      "url": "https://www.oracle.com/corporate/suppliers/",
       "query": "Oracle Corporation suppliers manufacturers",
-      "snippet": "Oracle Corporation is an American multinational computer technology corporation headquartered in Redwood Shores, California. The company sells databas"
+      "snippet": "Doing Business with Oracle Oracle iSupplier Portal (iSP) is a secured self-service tool, which provides Oracle's suppliers with the ability to use a s"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://csimarket.com/stocks/ORCL-Suppliers",
       "query": "Oracle Corporation suppliers manufacturers",
-      "snippet": "Oracle supply chain, list and performance of Oracles ' suppliers - CSIMarket."
+      "snippet": "Jul 7, 2026 · To produce our hardware products, we rely on both our internal manufacturing operations as well as third party manufacturing partners. O"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Oracle_Corporation",
+      "url": "https://www.oracle.com/corporate/",
       "query": "Oracle Corporation major customers clients",
-      "snippet": "The company sells database software (particularly the Oracle Database), enterprise applications, and cloud infrastructure and hardware. Oracle's core "
+      "snippet": "Oracle is pleased to provide information about our company, customers , partners, events, communities, press, analysts, investors, and careers.The com"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.oracle.com/",
+      "url": "https://www.youtube.com/watch?v=ll7_VcwePN4",
       "query": "Oracle Corporation major customers clients",
-      "snippet": "Infrastructure · Applications · Oracle Cloud Infrastructure · Multicloud AI Database · AI Data Platform · Cloud@Customer · Fusion Applications · Healt"
+      "snippet": "In this video, I'm going to show you how to install oracle 21c instant client on the windows platform step by step.#instantclient #oracleclientWebsite"
     }
   ]
 }

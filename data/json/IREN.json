@@ -1,37 +1,37 @@
 {
   "ticker": "IREN",
   "company_name": "IREN Limited",
-  "sector": "Financial Services",
-  "industry": "Capital Markets",
+  "sector": "Technology",
+  "industry": "Data Center Services",
   "upstream": [
-    "Cloud service providers (AWS, Azure, GCP)",
-    "Technology vendors",
-    "Data providers",
-    "Regulatory bodies",
-    "Financial data aggregators"
+    "DELL",
+    "HPQ",
+    "CSCO",
+    "NVDA",
+    "Schneider Electric"
   ],
   "downstream": [
-    "AI cloud customers",
-    "Enterprise clients",
-    "Retail investors",
-    "Institutional investors",
-    "Financial advisors"
+    "Financial institutions (e.g., HSBC, Barclays)",
+    "MSFT",
+    "Government agencies",
+    "Enterprise IT departments",
+    "E‑commerce companies"
   ],
   "competitors": [
-    "Interactive Brokers",
-    "E*TRADE",
-    "Charles Schwab",
-    "TD Ameritrade",
-    "Morgan Stanley"
+    "Equinix",
+    "Digital Realty",
+    "Interxion",
+    "CAT",
+    "CyrusOne"
   ],
   "key_products": [
-    "Brokerage services",
-    "Trading platform",
-    "Investment research",
-    "Wealth management",
-    "Capital markets solutions"
+    "Colocation services",
+    "Infrastructure-as-a-Service (IaaS) cloud solutions",
+    "Managed IT services",
+    "High‑speed network connectivity",
+    "Renewable‑energy‑powered data center solutions"
   ],
-  "extracted_at": "2026-07-30 17:24:32",
+  "extracted_at": "2026-07-31 17:25:03",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
+      "url": "https://www.iren.com/",
+      "query": "IREN Limited suppliers manufacturers",
+      "snippet": "Explore IREN 's 100% renewable-powered data centers offering AI Cloud, GPU clusters, colocation, and build-to-suit infrastructure for scalable compute"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/IREN-Customers",
+      "query": "IREN Limited suppliers manufacturers",
+      "snippet": "1 day ago · Iren Limited 's Comment on Sales, Marketing and Customers The company provides AI training and inference workload services, owning and ope"
+    },
+    {
+      "source": "DuckDuckGo",
       "url": "https://www.investing.com/equities/iris-energy",
-      "query": "IREN Limited suppliers manufacturers",
-      "snippet": "IREN Ltd stock price live, this page displays NASDAQ IREN stock exchange data. View the IREN premarket stock price ahead of the market session or asse"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.barrons.com/market-data/stocks/iren",
-      "query": "IREN Limited suppliers manufacturers",
-      "snippet": "Complete IREN Ltd . stock information by Barron's. View real-time IREN stock price and news, along with industry-best analysis. IREN Ltd . is a vertic"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/news/irens-ai-client-expands-growth-162300898.html",
       "query": "IREN Limited major customers clients",
-      "snippet": "Dec 26, 2025 · the company has added several multi-year AI cloud customers, including Together AI, Fluidstack and Fireworks AI. as OpenAI, Meta and mu"
+      "snippet": "View today's IREN Ltd stock price and latest IREN news and analysis. Create real-time notifications to follow any changes in the live stock price."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://iren.com/",
+      "url": "https://www.lbank.com/stock/iren",
       "query": "IREN Limited major customers clients",
-      "snippet": "24/7 CUSTOMER SUPPORT. With an onsite team ready to respond anytime, we deliver smooth, reliable service for your critical workloads. The IREN differe"
+      "snippet": "IREN Ltd ( IREN ). 24HHigh$42.6124HLow$39.97. $41.12. IREN Limited (Ticker: IREN ) is a vertically integrated data-center and digital infrastructure c"
     }
   ]
 }
