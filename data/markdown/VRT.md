@@ -3,8 +3,8 @@ ticker: VRT
 company: Vertiv Holdings Co
 sector: Industrials
 industry: Electrical Equipment & Parts
-extracted_at: 2026-07-31 17:24:30
-last_updated: 2026-07-31
+extracted_at: 2026-08-03 19:31:15
+last_updated: 2026-08-03
 ---
 
 # VRT - Vertiv Holdings Co
@@ -12,46 +12,46 @@ last_updated: 2026-07-31
 ## 基本信息
 
 - **所属行业**: Industrials / Electrical Equipment & Parts
-- **提取时间**: 2026-07-31 17:24:30
+- **提取时间**: 2026-08-03 19:31:15
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Power supply manufacturers]]
-- [[Cooling system component suppliers]]
-- [[Networking equipment vendors]]
-- [[Electronic component suppliers]]
-- [[Industrial automation suppliers]]
+- [[Cooling system manufacturers]]
+- [[Power distribution unit (PDU) suppliers]]
+- [[Environmental monitoring equipment makers]]
+- [[Data center infrastructure component suppliers]]
+- [[Networking equipment manufacturers]]
 
 ### 下游客户
 - [[Data center operators]]
 - [[CAT]]
-- [[Enterprise IT infrastructure managers]]
 - [[Cloud service providers]]
-- [[Industrial automation customers]]
+- [[Enterprise IT departments]]
+- [[Industrial automation firms]]
 
 ### 竞争对手
 - [[Schneider Electric]]
 - [[Eaton]]
 - [[ABB]]
 - [[Siemens]]
-- [[CSCO]]
+- [[APC by Schneider]]
 
 ### 核心产品
 - [[Power distribution units (PDUs)]]
-- [[Data center cooling solutions]]
-- [[Infrastructure management software]]
+- [[Cooling and HVAC solutions]]
 - [[Uninterruptible power supplies (UPS)]]
-- [[Rack-mounted power and cooling equipment]]
+- [[Data center infrastructure management (DCIM) software]]
+- [[Environmental monitoring and control systems]]
 
 ## 数据来源
 
 - [Vertiv](https://en.wikipedia.org/wiki/Vertiv_Holdings_Co)
-- [Vertiv Holdings Co suppliers manufacturers](https://www.vertiv.com/en-emea/)
-- [Vertiv Holdings Co suppliers manufacturers](https://www.okx.com/en-br/price-prediction/vertiv-holdings,-llc-xvrt)
-- [Vertiv Holdings Co major customers clients](https://www.okx.com/price-prediction/vertiv-holdings,-llc-xvrt)
-- [Vertiv Holdings Co major customers clients](https://www.insidermonkey.com/blog/vertiv-holdings-vrt-sees-robust-growth-ahead-as-ai-infrastructure-spending-accelerates-1805890/)
+- [Vertiv Holdings Co suppliers manufacturers](https://markets.financialcontent.com/stocks/article/finterra-2026-4-7-vertiv-holdings-co-vrt-the-critical-infrastructure-behind-the-ai-boom)
+- [Vertiv Holdings Co suppliers manufacturers](https://puffling.co/companies/vrt/)
+- [Vertiv Holdings Co major customers clients](https://en.wikipedia.org/wiki/Vertiv)
+- [Vertiv Holdings Co major customers clients](https://csimarket.com/stocks/VRT-Customers)
 
 ## 元数据
 
-- **更新日期**: 2026-07-31
+- **更新日期**: 2026-08-03

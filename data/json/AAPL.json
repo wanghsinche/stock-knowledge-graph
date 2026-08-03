@@ -4,35 +4,34 @@
   "sector": "Technology",
   "industry": "Consumer Electronics",
   "upstream": [
-    "Foxconn (Hon Hai Precision Industry Co., Ltd.)",
+    "Foxconn Technology Group",
+    "Pegatron Corporation",
+    "Wistron Corporation",
     "TSM",
-    "SONY",
-    "LG Electronics",
     "005930.KS"
   ],
   "downstream": [
-    "AMZN",
-    "MSFT",
+    "Consumers worldwide",
     "CAT",
-    "Government agencies",
-    "Individual consumers"
+    "Retail partners (e.g., Best Buy, Walmart)",
+    "App developers",
+    "AAPL"
   ],
   "competitors": [
     "005930.KS",
-    "GOOGL",
     "MSFT",
+    "GOOGL",
     "Huawei",
-    "SONY"
+    "DELL"
   ],
   "key_products": [
     "iPhone",
     "iPad",
-    "Mac (MacBook, iMac, Mac Pro)",
+    "Mac",
     "Apple Watch",
-    "Apple TV",
-    "Services (iCloud, Apple Music, Apple Pay, App Store)"
+    "AirPods"
   ],
-  "extracted_at": "2026-07-31 17:19:07",
+  "extracted_at": "2026-08-03 18:08:48",
   "sources": [
     {
       "source": "Wikipedia",
@@ -44,7 +43,7 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/List_of_Apple_Inc._suppliers",
       "query": "Apple Inc. suppliers manufacturers",
-      "snippet": "engineering and manufacturing was outsourced to Sony.[1]: 41–42 [2]: 255 In 1994, Apple began interviewing manufacturers in Taiwan due to unfavorable "
+      "snippet": "Toggle the table of contents. List of Apple Inc . suppliers . Add languages.engineering and manufacturing was outsourced to Sony.[1]: 41–42 [2]: 255 I"
     },
     {
       "source": "DuckDuckGo",
@@ -54,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Apple_Inc.",
+      "url": "https://csimarket.com/stocks/AAPL-Customers",
       "query": "Apple Inc. major customers clients",
-      "snippet": "1 day ago - Apple introduced the Disk II 5+1⁄4-inch floppy disk drive in 1978, replacing cassette tape storage with faster and more reliable removable"
+      "snippet": "Apple Inc 's Comment on Sales, Marketing and Customers The Company’s customers are primarily in the consumer, SMB, education, enterprise and governmen"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/markets_glance.php?code=AAPL",
+      "url": "https://www.appsruntheworld.com/customers-database/vendors/view/apple",
       "query": "Apple Inc. major customers clients",
-      "snippet": "4 weeks ago - Apple Inc customers and markets, results by customer and performance relative to AAPL, by company and industry - CSIMarket"
+      "snippet": "List of companies using or evaluating Apple applications, with details on their revenues, employees, industries, and locations."
     }
   ]
 }

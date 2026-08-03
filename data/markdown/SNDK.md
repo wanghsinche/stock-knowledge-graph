@@ -1,57 +1,57 @@
 ---
 ticker: SNDK
-company: SanDisk Corporation
-sector: Technology / Computer Hardware
-industry: Computer Storage
-extracted_at: 2026-07-31 17:19:24
-last_updated: 2026-07-31
+company: Sandisk Corporation
+sector: Technology
+industry: Computer Hardware
+extracted_at: 2026-08-03 18:01:57
+last_updated: 2026-08-03
 ---
 
-# SNDK - SanDisk Corporation
+# SNDK - Sandisk Corporation
 
 ## 基本信息
 
-- **所属行业**: Technology / Computer Hardware / Computer Storage
-- **提取时间**: 2026-07-31 17:19:24
+- **所属行业**: Technology / Computer Hardware
+- **提取时间**: 2026-08-03 18:01:57
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Semiconductor suppliers]]
-- [[Memory chip manufacturers]]
-- [[CAT]]
-- [[Packaging and testing services]]
-- [[Component distributors]]
+- [[TSM]]
+- [[005930.KS]]
+- [[MU]]
+- [[SK Hynix]]
+- [[INTC]]
 
 ### 下游客户
-- [[Authorized distributors]]
-- [[Channel partners]]
-- [[Retailers]]
-- [[OEMs]]
-- [[End consumers]]
+- [[AAPL]]
+- [[DELL]]
+- [[HPQ]]
+- [[Lenovo]]
+- [[SONY]]
 
 ### 竞争对手
-- [[SONY]]
-- [[Kingston]]
-- [[Lexar]]
-- [[Transcend]]
-- [[Corsair]]
+- [[005930.KS]]
+- [[MU]]
+- [[INTC]]
+- [[WDC]]
+- [[Kingston Technology]]
 
 ### 核心产品
-- [[SD cards]]
-- [[MicroSD cards]]
-- [[USB flash drives]]
-- [[Solid‑state drives]]
+- [[NAND flash memory]]
+- [[Solid-state drives (SSDs)]]
 - [[Memory cards]]
+- [[USB flash drives]]
+- [[Embedded storage solutions]]
 
 ## 数据来源
 
 - [Sandisk](https://en.wikipedia.org/wiki/Sandisk_Corporation)
-- [Sandisk Corporation suppliers manufacturers](https://en.wikipedia.org/wiki/SanDisk)
-- [Sandisk Corporation suppliers manufacturers](https://www.sandisk.com/en-us/company/distributors)
-- [Sandisk Corporation major customers clients](https://finance.yahoo.com/quote/SNDK/)
+- [Sandisk Corporation suppliers manufacturers](https://en.wikipedia.org/wiki/Sandisk)
+- [Sandisk Corporation suppliers manufacturers](https://www.sandisk.com/company/distributors)
 - [Sandisk Corporation major customers clients](https://www.sandisk.com/)
+- [Sandisk Corporation major customers clients](https://finance.yahoo.com/quote/SNDK/)
 
 ## 元数据
 
-- **更新日期**: 2026-07-31
+- **更新日期**: 2026-08-03

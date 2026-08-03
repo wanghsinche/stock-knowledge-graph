@@ -4,40 +4,46 @@
   "sector": "Technology",
   "industry": "Semiconductor Equipment & Materials",
   "upstream": [
-    "Silicon wafer suppliers",
-    "Chemical and process gas vendors",
-    "Precision optics manufacturers",
-    "Electronics component suppliers",
-    "Software and control system providers"
+    "Air Liquide",
+    "Linde",
+    "Sumitomo Chemical",
+    "Shin-Etsu Chemical",
+    "BASF"
   ],
   "downstream": [
     "TSM",
     "005930.KS",
     "INTC",
-    "GlobalFoundries",
+    "SK Hynix",
     "MU"
   ],
   "competitors": [
     "ASML",
-    "LRCX",
     "Tokyo Electron",
-    "KLA",
+    "LRCX",
+    "KLA Corporation",
     "AMAT"
   ],
   "key_products": [
-    "Deposition systems (CVD, ALD)",
-    "Etch and plasma systems",
-    "Ion implantation equipment",
-    "Lithography and metrology tools",
-    "Display manufacturing equipment"
+    "etching equipment",
+    "deposition equipment",
+    "metrology tools",
+    "cleaning equipment",
+    "laser processing equipment"
   ],
-  "extracted_at": "2026-07-31 17:23:20",
+  "extracted_at": "2026-08-03 19:22:22",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Applied_Materials,_Inc.",
       "title": "Applied Materials",
       "snippet": "Applied Materials, Inc. is an American corporation that supplies equipment, services and software for the manufacture of semiconductor chips for electronics, flat panel displays for computers, smartph"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/Applied_Materials",
+      "query": "Applied Materials, Inc. suppliers manufacturers",
+      "snippet": "Applied Materials , Inc . is an American corporation that supplies equipment, services and software for the manufacture of semiconductor (integrated c"
     },
     {
       "source": "DuckDuckGo",
@@ -48,20 +54,14 @@
     {
       "source": "DuckDuckGo",
       "url": "https://www.appliedmaterials.com/us/en.html",
-      "query": "Applied Materials, Inc. suppliers manufacturers",
+      "query": "Applied Materials, Inc. major customers clients",
       "snippet": "Applied Materials , Inc . is the leader in materials engineering solutions that are at the foundation of virtually every new semiconductor and advance"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Applied_Materials",
+      "url": "https://aiwiki.ai/wiki/applied_materials",
       "query": "Applied Materials, Inc. major customers clients",
-      "snippet": "Applied Materials , Inc . is an American corporation that supplies equipment, services and software for the manufacture of semiconductor (integrated c"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/AMAT-Customers",
-      "query": "Applied Materials, Inc. major customers clients",
-      "snippet": "2 days ago · Applied Materials Inc 's Comment on Sales, Marketing and Customers Because of the highly technical nature of its products, Applied market"
+      "snippet": "Applied Materials , Inc . (Nasdaq: AMAT ) is an American maker of semiconductor manufacturing equipment, incorporated in 1967 as a Delaware corporatio"
     }
   ]
 }

@@ -3,8 +3,8 @@ ticker: MPWR
 company: Monolithic Power Systems, Inc.
 sector: Technology
 industry: Semiconductors
-extracted_at: 2026-07-31 17:27:11
-last_updated: 2026-07-31
+extracted_at: 2026-08-03 19:48:50
+last_updated: 2026-08-03
 ---
 
 # MPWR - Monolithic Power Systems, Inc.
@@ -12,37 +12,37 @@ last_updated: 2026-07-31
 ## 基本信息
 
 - **所属行业**: Technology / Semiconductors
-- **提取时间**: 2026-07-31 17:27:11
+- **提取时间**: 2026-08-03 19:48:50
 
 ## 产业链关系
 
 ### 上游供应商
-- [[ASML]]
-- [[AMAT]]
-- [[LRCX]]
-- [[Tokyo Electron (semiconductor manufacturing equipment)]]
-- [[Silicon wafer suppliers (e.g., Siltronic, GlobalWafers)]]
+- [[Silicon wafer suppliers]]
+- [[Packaging material manufacturers]]
+- [[Photolithography equipment vendors]]
+- [[CAT]]
+- [[Test and measurement equipment providers]]
 
 ### 下游客户
-- [[Automotive OEMs (e.g., Ford, General Motors, Toyota)]]
-- [[Industrial automation firms (e.g., Siemens, Rockwell Automation)]]
-- [[AAPL]]
-- [[DELL]]
+- [[Automotive OEMs (e.g., Ford, GM)]]
+- [[Industrial automation companies]]
+- [[Consumer electronics manufacturers]]
 - [[CAT]]
+- [[Energy management system integrators]]
 
 ### 竞争对手
 - [[TXN]]
 - [[ADI]]
+- [[Maxim Integrated]]
 - [[ON Semiconductor]]
 - [[Infineon Technologies]]
-- [[STMicroelectronics]]
 
 ### 核心产品
 - [[DC‑DC converters]]
-- [[Linear voltage regulators]]
-- [[Power management ICs for automotive]]
-- [[Power management solutions for industrial automation]]
-- [[High‑efficiency power modules for data centers]]
+- [[Linear regulators]]
+- [[Power management ICs]]
+- [[Battery management solutions]]
+- [[High‑efficiency power modules]]
 
 ## 数据来源
 
@@ -54,4 +54,4 @@ last_updated: 2026-07-31
 
 ## 元数据
 
-- **更新日期**: 2026-07-31
+- **更新日期**: 2026-08-03

@@ -4,34 +4,34 @@
   "sector": "Technology",
   "industry": "Semiconductors",
   "upstream": [
-    "TSM",
-    "005930.KS",
-    "GlobalFoundries",
+    "ASML",
     "AMAT",
-    "ASML"
+    "LRCX",
+    "Tokyo Electron",
+    "KLA Corporation"
   ],
   "downstream": [
+    "CSCO",
+    "DELL",
     "AMZN",
     "MSFT",
-    "GOOGL",
-    "CSCO",
-    "DELL"
+    "AAPL"
   ],
   "competitors": [
     "INTC",
     "QCOM",
-    "NVDA",
     "MRVL",
-    "TXN"
+    "TXN",
+    "MediaTek"
   ],
   "key_products": [
-    "Broadcom ASICs",
-    "RF chips",
+    "RF and Wi-Fi chips",
     "Ethernet controllers",
-    "Wi-Fi chips",
-    "Broadband modems"
+    "Broadband modems",
+    "Storage controllers",
+    "Network processors"
   ],
-  "extracted_at": "2026-07-31 17:21:33",
+  "extracted_at": "2026-08-03 18:41:23",
   "sources": [
     {
       "source": "Wikipedia",

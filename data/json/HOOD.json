@@ -6,13 +6,13 @@
   "upstream": [
     "AMZN",
     "GOOGL",
-    "Bloomberg Data Services",
-    "Stripe",
-    "Plaid"
+    "Bloomberg L.P.",
+    "Refinitiv",
+    "Stripe"
   ],
   "downstream": [
     "Retail investors",
-    "High‑frequency traders",
+    "High-net-worth individuals",
     "Institutional clients",
     "Crypto traders",
     "Options traders"
@@ -25,13 +25,13 @@
     "Webull"
   ],
   "key_products": [
-    "Commission‑free stock trading",
-    "Crypto trading",
-    "Margin trading",
+    "Robinhood app",
+    "Robinhood Gold",
+    "Cash management",
     "Options trading",
-    "Robinhood Gold subscription"
+    "Crypto trading"
   ],
-  "extracted_at": "2026-07-31 17:27:23",
+  "extracted_at": "2026-08-03 19:43:46",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/HOOD-Suppliers",
-      "query": "Robinhood Markets, Inc. suppliers manufacturers",
-      "snippet": "Jun 22, 2026 · Sources: Robinhood Markets Inc 's official press releases and regulatory filings; CSIMarket.com's supply -chain research; and the finan"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://investors.robinhood.com/",
-      "query": "Robinhood Markets, Inc. suppliers manufacturers",
-      "snippet": "Jun 30, 2026 · Robinhood Markets , Inc . Investor relations (IR) website contains information about our business for stockholders, potential investors"
-    },
-    {
-      "source": "DuckDuckGo",
       "url": "https://robinhood.com/",
-      "query": "Robinhood Markets, Inc. major customers clients",
+      "query": "Robinhood Markets, Inc. suppliers manufacturers",
       "snippet": "Trade stocks on Robinhood with commission-free investing & advanced trading tools. Access fractional shares, real-time market data, and more."
     },
     {
       "source": "DuckDuckGo",
       "url": "https://finance.yahoo.com/quote/HOOD/",
+      "query": "Robinhood Markets, Inc. suppliers manufacturers",
+      "snippet": "Robinhood Markets , Inc . ( HOOD ). Is HOOD a long-term buy? Robinhood Markets , Inc . operates financial services platform in the United States. The "
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/Robinhood_Markets",
       "query": "Robinhood Markets, Inc. major customers clients",
-      "snippet": "Find the latest Robinhood Markets , Inc . ( HOOD ) stock quote, history, news and other vital information to help you with your stock trading and inve"
+      "snippet": "Robinhood Markets , Inc . is an American financial services company based in Menlo Park, California. It provides an electronic trading platform that f"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/HOOD-Customers",
+      "query": "Robinhood Markets, Inc. major customers clients",
+      "snippet": "Robinhood Markets Inc 's Customers have recorded an advance in their cost of revenue by 2.17 % in the 1 quarter 2026 year on year, sequentially costs "
     }
   ]
 }

@@ -5,33 +5,33 @@
   "industry": "Auto Manufacturers",
   "upstream": [
     "CAT",
+    "LG Energy Solution",
     "Panasonic",
-    "LG Chem",
     "005930.KS",
-    "SK Innovation"
+    "BYD"
   ],
   "downstream": [
     "Individual consumers",
-    "Corporate fleet operators",
-    "Ride‑hailing companies (Uber, Lyft)",
+    "Fleet operators",
+    "Corporate customers",
     "Government agencies",
-    "Commercial logistics firms"
+    "Commercial customers"
   ],
   "competitors": [
-    "Ford Motor Company",
     "General Motors",
-    "Volkswagen AG",
-    "Lucid Motors",
-    "Rivian Automotive"
+    "Ford",
+    "Volkswagen",
+    "Hyundai",
+    "Toyota"
   ],
   "key_products": [
     "Model S",
     "Model 3",
     "Model X",
     "Model Y",
-    "Cybertruck"
+    "Powerwall"
   ],
-  "extracted_at": "2026-07-31 17:20:24",
+  "extracted_at": "2026-08-03 18:13:11",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,15 +41,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.suppliersmap.com/tesla",
+      "url": "https://en.wikipedia.org/wiki/Tesla,_Inc.",
       "query": "Tesla, Inc. suppliers manufacturers",
-      "snippet": "Explore Tesla's key suppliers including CATL and Panasonic for batteries, Samsung for chips, Bosch for braking systems, and STMicroelectronics for pow"
+      "snippet": "Tesla purchases these batteries from three suppliers , CATL, LG Energy Solution, and Panasonic, the latter of which has co-located some of its battery"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.investopedia.com/ask/answers/052815/who-are-teslas-tsla-main-suppliers.asp",
+      "url": "https://csimarket.com/stocks/suppliers_glance.php?code=TSLA",
       "query": "Tesla, Inc. suppliers manufacturers",
-      "snippet": "Nov 4, 2025 · Discover Tesla's key and rumored parts suppliers . Learn which companies provide essential components for Tesla's electric vehicles and "
+      "snippet": "Tesla Inc 's Suppliers Performance. TSLA's Supply Chain. Tesla relies on a wide range of suppliers beyond just battery manufacturers to build our elec"
     },
     {
       "source": "DuckDuckGo",

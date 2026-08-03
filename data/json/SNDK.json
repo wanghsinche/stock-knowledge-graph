@@ -1,37 +1,37 @@
 {
   "ticker": "SNDK",
-  "company_name": "SanDisk Corporation",
-  "sector": "Technology / Computer Hardware",
-  "industry": "Computer Storage",
+  "company_name": "Sandisk Corporation",
+  "sector": "Technology",
+  "industry": "Computer Hardware",
   "upstream": [
-    "Semiconductor suppliers",
-    "Memory chip manufacturers",
-    "CAT",
-    "Packaging and testing services",
-    "Component distributors"
+    "TSM",
+    "005930.KS",
+    "MU",
+    "SK Hynix",
+    "INTC"
   ],
   "downstream": [
-    "Authorized distributors",
-    "Channel partners",
-    "Retailers",
-    "OEMs",
-    "End consumers"
+    "AAPL",
+    "DELL",
+    "HPQ",
+    "Lenovo",
+    "SONY"
   ],
   "competitors": [
-    "SONY",
-    "Kingston",
-    "Lexar",
-    "Transcend",
-    "Corsair"
+    "005930.KS",
+    "MU",
+    "INTC",
+    "WDC",
+    "Kingston Technology"
   ],
   "key_products": [
-    "SD cards",
-    "MicroSD cards",
+    "NAND flash memory",
+    "Solid-state drives (SSDs)",
+    "Memory cards",
     "USB flash drives",
-    "Solid‑state drives",
-    "Memory cards"
+    "Embedded storage solutions"
   ],
-  "extracted_at": "2026-07-31 17:19:24",
+  "extracted_at": "2026-08-03 18:01:57",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/SanDisk",
+      "url": "https://en.wikipedia.org/wiki/Sandisk",
       "query": "Sandisk Corporation suppliers manufacturers",
-      "snippet": "SanDisk SD Cards 128MB and 32GB 512 MB SanDisk SD card and Sony Memory Stick SanDisk Ultra 32GB MicroSD card with Adapter SanDisk SDHC Card 8GB SanDis"
+      "snippet": "4 days ago - Sandisk Corporation (formerly SunDisk Corporation and SanDisk ) is an American multinational computer semiconductor company based in Milp"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.sandisk.com/en-us/company/distributors",
+      "url": "https://www.sandisk.com/company/distributors",
       "query": "Sandisk Corporation suppliers manufacturers",
-      "snippet": "Find authorized SanDisk distributors and channel partners worldwide for trusted storage solutions and products."
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/SNDK/",
-      "query": "Sandisk Corporation major customers clients",
-      "snippet": "Find the latest Sandisk Corporation (SNDK) stock quote, history, news and other vital information to help you with your stock trading and investing."
+      "snippet": "Region · Loading Region · Country/Area · Loading Country/Area · Brand · Loading Brand · Distributors | SanDisk"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.sandisk.com/",
       "query": "Sandisk Corporation major customers clients",
       "snippet": "Sandisk online store members receive free standard shipping on all eligible orders."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://finance.yahoo.com/quote/SNDK/",
+      "query": "Sandisk Corporation major customers clients",
+      "snippet": "Find the latest Sandisk Corporation (SNDK) stock quote, history, news and other vital information to help you with your stock trading and investing."
     }
   ]
 }

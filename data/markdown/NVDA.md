@@ -3,8 +3,8 @@ ticker: NVDA
 company: NVIDIA Corporation
 sector: Technology
 industry: Semiconductors
-extracted_at: 2026-07-31 17:19:45
-last_updated: 2026-07-31
+extracted_at: 2026-08-03 17:59:21
+last_updated: 2026-08-03
 ---
 
 # NVDA - NVIDIA Corporation
@@ -12,7 +12,7 @@ last_updated: 2026-07-31
 ## 基本信息
 
 - **所属行业**: Technology / Semiconductors
-- **提取时间**: 2026-07-31 17:19:45
+- **提取时间**: 2026-08-03 17:59:21
 
 ## 产业链关系
 
@@ -24,25 +24,25 @@ last_updated: 2026-07-31
 - [[MU]]
 
 ### 下游客户
-- [[SONY]]
-- [[MSFT]]
-- [[Nintendo]]
-- [[DELL]]
 - [[AMZN]]
+- [[MSFT]]
+- [[GOOGL]]
+- [[SONY]]
+- [[TSLA]]
 
 ### 竞争对手
 - [[AMD]]
 - [[INTC]]
 - [[QCOM]]
 - [[AVGO]]
-- [[AAPL]]
+- [[005930.KS]]
 
 ### 核心产品
-- [[GeForce RTX GPUs]]
-- [[Quadro RTX GPUs]]
-- [[Tesla GPUs]]
-- [[Jetson SoCs]]
-- [[CUDA API]]
+- [[GeForce RTX 30 series]]
+- [[Tesla A100]]
+- [[Tesla A30]]
+- [[Tesla A40]]
+- [[RTX A6000]]
 
 ## 数据来源
 
@@ -54,4 +54,4 @@ last_updated: 2026-07-31
 
 ## 元数据
 
-- **更新日期**: 2026-07-31
+- **更新日期**: 2026-08-03

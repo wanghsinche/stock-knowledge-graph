@@ -1,57 +1,57 @@
 ---
 ticker: COHR
 company: Coherent Corp.
-sector: Technology
-industry: Scientific & Technical Instruments
-extracted_at: 2026-07-28 17:31:07
-last_updated: 2026-07-28
+sector: Technology / Scientific & Technical Instruments
+industry: Optical Instruments
+extracted_at: 2026-08-03 19:48:19
+last_updated: 2026-08-03
 ---
 
 # COHR - Coherent Corp.
 
 ## 基本信息
 
-- **所属行业**: Technology / Scientific & Technical Instruments
-- **提取时间**: 2026-07-28 17:31:07
+- **所属行业**: Technology / Scientific & Technical Instruments / Optical Instruments
+- **提取时间**: 2026-08-03 19:48:19
 
 ## 产业链关系
 
 ### 上游供应商
+- [[Laser component suppliers]]
+- [[Semiconductor wafer suppliers]]
+- [[META]]
 - [[Optical glass manufacturers]]
-- [[CAT]]
-- [[Laser diode component suppliers]]
-- [[Photonic integrated circuit (PIC) material providers]]
-- [[Fiber optic cable manufacturers]]
+- [[Photonic material suppliers]]
 
 ### 下游客户
+- [[Aerospace companies]]
+- [[Life sciences firms]]
+- [[Manufacturing equipment suppliers]]
+- [[Defense contractors]]
 - [[CAT]]
-- [[Aerospace and defense contractors]]
-- [[Medical imaging equipment manufacturers]]
-- [[Industrial laser system integrators]]
-- [[Scientific research laboratories]]
 
 ### 竞争对手
-- [[Lumentum Holdings]]
+- [[Thorlabs]]
+- [[Edmund Optics]]
 - [[II-VI Incorporated]]
-- [[Trumpf GmbH + Co. KG]]
-- [[Coherent, Inc. (pre‑acquisition)]]
-- [[Coherent Technologies]]
+- [[Lumentum]]
+- [[MKS Instruments]]
 
 ### 核心产品
-- [[High‑power fiber lasers]]
-- [[Laser diodes and modules]]
-- [[Photonic integrated circuits (PICs)]]
-- [[Optical components (lenses, mirrors, gratings)]]
-- [[Laser systems for industrial and scientific use]]
+- [[Laser diodes]]
+- [[Optical fibers]]
+- [[Photonic integrated circuits]]
+- [[Optical modulators]]
+- [[Photodetectors]]
 
 ## 数据来源
 
 - [Coherent Corp.](https://en.wikipedia.org/wiki/Coherent_Corp.)
-- [Coherent Corp. suppliers manufacturers](https://www.coherent.com/company)
-- [Coherent Corp. suppliers manufacturers](https://www.coherent.com/legal/list-of-the-subsidiaries)
-- [Coherent Corp. major customers clients](https://en.wikipedia.org/wiki/Coherent_Corp.)
+- [Coherent Corp. suppliers manufacturers](https://en.wikipedia.org/wiki/Coherent_Corp.)
+- [Coherent Corp. suppliers manufacturers](https://www.coherent.com/)
+- [Coherent Corp. major customers clients](https://www.coherent.com/news/success-stories)
 - [Coherent Corp. major customers clients](https://csimarket.com/stocks/COHR-Customers)
 
 ## 元数据
 
-- **更新日期**: 2026-07-28
+- **更新日期**: 2026-08-03

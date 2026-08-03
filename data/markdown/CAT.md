@@ -3,8 +3,8 @@ ticker: CAT
 company: Caterpillar Inc.
 sector: Industrials
 industry: Farm & Heavy Construction Machinery
-extracted_at: 2026-07-30 17:27:13
-last_updated: 2026-07-30
+extracted_at: 2026-08-03 19:36:05
+last_updated: 2026-08-03
 ---
 
 # CAT - Caterpillar Inc.
@@ -12,23 +12,23 @@ last_updated: 2026-07-30
 ## 基本信息
 
 - **所属行业**: Industrials / Farm & Heavy Construction Machinery
-- **提取时间**: 2026-07-30 17:27:13
+- **提取时间**: 2026-08-03 19:36:05
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Steel & alloy suppliers]]
-- [[Aluminum producers]]
-- [[Plastic & composite manufacturers]]
+- [[Steel suppliers]]
+- [[Aluminum suppliers]]
+- [[Rubber and tire manufacturers]]
 - [[Electronic component suppliers]]
-- [[Hydraulic fluid & component suppliers]]
+- [[Engine component suppliers]]
 
 ### 下游客户
-- [[Construction equipment dealers]]
-- [[Mining and quarry operators]]
-- [[Agricultural machinery distributors]]
-- [[Government and defense contractors]]
-- [[Infrastructure development firms]]
+- [[Construction companies]]
+- [[Mining companies]]
+- [[Agricultural equipment users]]
+- [[Government infrastructure projects]]
+- [[Oil & gas exploration firms]]
 
 ### 竞争对手
 - [[Komatsu Ltd.]]
@@ -41,17 +41,17 @@ last_updated: 2026-07-30
 - [[Bulldozers]]
 - [[Excavators]]
 - [[Wheel loaders]]
-- [[Backhoes]]
 - [[Mining trucks]]
+- [[Generators & power systems]]
 
 ## 数据来源
 
 - [Cat (disambiguation)](https://en.wikipedia.org/wiki/CAT)
-- [CAT suppliers manufacturers](https://www.alibaba.com/cat-manufacture-suppliers.html)
-- [CAT suppliers manufacturers](https://www.made-in-china.com/manufacturers/cat-products.html)
-- [CAT major customers clients](https://www.youtube.com/watch?v=W_pFq2j33AY)
-- [CAT major customers clients](https://major.tg/marketplace)
+- [CAT suppliers manufacturers](https://www.caterpillar.com/en/company/working-together/suppliers.html)
+- [CAT suppliers manufacturers](https://www.goldsupplier.com/discover/top-10-caterpillar-suppliers-manufacturers-in-the-united-states/)
+- [CAT major customers clients](https://csimarket.com/stocks/CAT-Customers)
+- [CAT major customers clients](https://www.caterpillar.com/en/news/caterpillarNews/2025/what-our-customers-make-possible.html)
 
 ## 元数据
 
-- **更新日期**: 2026-07-30
+- **更新日期**: 2026-08-03

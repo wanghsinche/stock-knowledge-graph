@@ -3,8 +3,8 @@ ticker: AMD
 company: Advanced Micro Devices, Inc.
 sector: Technology
 industry: Semiconductors
-extracted_at: 2026-07-31 17:20:00
-last_updated: 2026-07-31
+extracted_at: 2026-08-03 18:16:54
+last_updated: 2026-08-03
 ---
 
 # AMD - Advanced Micro Devices, Inc.
@@ -12,7 +12,7 @@ last_updated: 2026-07-31
 ## 基本信息
 
 - **所属行业**: Technology / Semiconductors
-- **提取时间**: 2026-07-31 17:20:00
+- **提取时间**: 2026-08-03 18:16:54
 
 ## 产业链关系
 
@@ -20,38 +20,38 @@ last_updated: 2026-07-31
 - [[TSM]]
 - [[005930.KS]]
 - [[GlobalFoundries]]
-- [[UMC]]
-- [[ASE Technology Holding]]
+- [[INTC]]
+- [[MU]]
 
 ### 下游客户
 - [[DELL]]
 - [[HPQ]]
-- [[Lenovo Group]]
+- [[Lenovo]]
+- [[SONY]]
 - [[MSFT]]
-- [[AMZN]]
 
 ### 竞争对手
 - [[INTC]]
 - [[NVDA]]
 - [[QCOM]]
 - [[AVGO]]
-- [[MediaTek]]
+- [[ARM]]
 
 ### 核心产品
 - [[Ryzen CPUs]]
+- [[EPYC servers]]
 - [[Radeon GPUs]]
-- [[EPYC CPUs]]
-- [[Xilinx FPGAs]]
-- [[SoC solutions]]
+- [[Radeon Instinct accelerators]]
+- [[AMD GPUs for gaming and data centers]]
 
 ## 数据来源
 
 - [AMD](https://en.wikipedia.org/wiki/AMD)
-- [AMD suppliers manufacturers](https://www.made-in-china.com/manufacturers/amd.html)
-- [AMD suppliers manufacturers](https://www.globalsources.com/china-suppliers/amd-ryzen.htm)
-- [AMD major customers clients](https://www.fool.com/investing/2025/03/29/down-50-should-you-buy-amd-stock-on-the-dip/)
-- [AMD major customers clients](https://www.youtube.com/watch?v=2d6Yl2SKtkE)
+- [AMD suppliers manufacturers](https://csimarket.com/stocks/AMD-Suppliers)
+- [AMD suppliers manufacturers](https://www.amd.com/en/partner/about-partners/authorized-distributors.html)
+- [AMD major customers clients](https://finviz.com/stock?t=AMD)
+- [AMD major customers clients](https://www.thestreet.com/investing/stocks/amd-ceo-doubles-down-on-ai-stock-market-cpu-meaningful-work)
 
 ## 元数据
 
-- **更新日期**: 2026-07-31
+- **更新日期**: 2026-08-03

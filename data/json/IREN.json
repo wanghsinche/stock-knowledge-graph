@@ -1,37 +1,37 @@
 {
   "ticker": "IREN",
   "company_name": "IREN Limited",
-  "sector": "Technology",
+  "sector": "Financial Services / Capital Markets",
   "industry": "Data Center Services",
   "upstream": [
     "DELL",
     "HPQ",
     "CSCO",
     "NVDA",
-    "Schneider Electric"
+    "NetApp"
   ],
   "downstream": [
-    "Financial institutions (e.g., HSBC, Barclays)",
-    "MSFT",
-    "Government agencies",
-    "Enterprise IT departments",
-    "E‑commerce companies"
+    "Australian Government Agencies",
+    "Financial Institutions",
+    "Technology Startups",
+    "Cloud Service Providers",
+    "AI Research Labs"
   ],
   "competitors": [
     "Equinix",
     "Digital Realty",
-    "Interxion",
-    "CAT",
-    "CyrusOne"
+    "Australian Data Centres",
+    "Data#",
+    "Aussie Cloud"
   ],
   "key_products": [
-    "Colocation services",
-    "Infrastructure-as-a-Service (IaaS) cloud solutions",
-    "Managed IT services",
-    "High‑speed network connectivity",
-    "Renewable‑energy‑powered data center solutions"
+    "Colocation Services",
+    "AI Cloud Platform",
+    "GPU Clusters",
+    "Edge Computing Solutions",
+    "Managed IT Services"
   ],
-  "extracted_at": "2026-07-31 17:25:03",
+  "extracted_at": "2026-08-03 19:44:13",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,21 +47,21 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/IREN-Customers",
+      "url": "https://iren.com/legal/supplier-code-of-conduct",
       "query": "IREN Limited suppliers manufacturers",
-      "snippet": "1 day ago · Iren Limited 's Comment on Sales, Marketing and Customers The company provides AI training and inference workload services, owning and ope"
+      "snippet": "Jun 17, 2025 · 1 Introduction The Supplier Code of Conduct (Code) outlines our minimum expectations of suppliers providing goods and services to IREN "
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.tradingview.com/symbols/NASDAQ-IREN/",
+      "query": "IREN Limited major customers clients",
+      "snippet": "View live IREN Limited chart to track its stock's price action. Find market predictions, IREN financials and market news."
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.investing.com/equities/iris-energy",
       "query": "IREN Limited major customers clients",
       "snippet": "View today's IREN Ltd stock price and latest IREN news and analysis. Create real-time notifications to follow any changes in the live stock price."
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.lbank.com/stock/iren",
-      "query": "IREN Limited major customers clients",
-      "snippet": "IREN Ltd ( IREN ). 24HHigh$42.6124HLow$39.97. $41.12. IREN Limited (Ticker: IREN ) is a vertically integrated data-center and digital infrastructure c"
     }
   ]
 }

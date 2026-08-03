@@ -4,20 +4,34 @@
   "sector": "Communication Services",
   "industry": "Internet Content & Information",
   "upstream": [
-    "Nebius Group N.V."
+    "NVDA",
+    "INTC",
+    "AMD",
+    "DELL",
+    "HPQ"
   ],
   "downstream": [
-    "Mistral AI"
+    "Large enterprises",
+    "AI startups",
+    "Research institutions",
+    "Cloud service providers",
+    "Financial institutions"
   ],
-  "competitors": [],
+  "competitors": [
+    "OpenAI",
+    "Anthropic",
+    "GOOGL",
+    "AMZN",
+    "MSFT"
+  ],
   "key_products": [
-    "AI infrastructure",
+    "Nebius AI Infrastructure Platform",
     "Avride",
     "TripleTen",
     "Toloka",
     "Clickhouse"
   ],
-  "extracted_at": "2026-07-31 17:21:05",
+  "extracted_at": "2026-08-03 18:37:36",
   "sources": [
     {
       "source": "Wikipedia",
@@ -27,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Nebius_Group",
+      "url": "https://csimarket.com/stocks/suppliers_glance.php?code=NBIS",
       "query": "NBIS suppliers manufacturers",
+      "snippet": "NBIS 's Suppliers Management Effectiveness. NBIS 's Competitors Results. NBIS 's vs. Suppliers , Data. (Revenue and Income for Trailing 12 Months, in "
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://finance.yahoo.com/quote/NBIS/",
+      "query": "NBIS suppliers manufacturers",
+      "snippet": "Find the latest Nebius Group N.V. ( NBIS ) stock quote, history, news and other vital information to help you with your stock trading and investing."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/Nebius_Group",
+      "query": "NBIS major customers clients",
       "snippet": "Nebius Group N.V., headquartered in Amsterdam, is a technology company [3] that provides artificial intelligence infrastructure. [4] The company also "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.dcsa.mil/Systems-Applications/National-Background-Investigation-Services-NBIS/",
-      "query": "NBIS suppliers manufacturers",
-      "snippet": "NBIS improves efficiency by automating manual practices and removing paper from the background investigation process. While NBIS is the modernized, in"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Nebius_Group",
+      "url": "https://csimarket.com/stocks/NBIS-Customers",
       "query": "NBIS major customers clients",
-      "snippet": "Nebius Group N.V., headquartered in Amsterdam, is a technology company that provides artificial intelligence infrastructure. The company also owns Avr"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.reddit.com/r/NBIS_Stock/comments/1j4abth/who_are_nebius_customers/",
-      "query": "NBIS major customers clients",
-      "snippet": "Mar 5, 2025 · Mistral AI is probably the most famous one. Other good customer stories here: https://nebius.com/customer-stories If and when Nebius ann"
+      "snippet": "2 days ago · Nebius Group N V customers and markets, results by customer and performance relative to NBIS , by company and industry - CSIMarket"
     }
   ]
 }

@@ -2,36 +2,36 @@
   "ticker": "CRWV",
   "company_name": "CoreWeave, Inc.",
   "sector": "Technology / Software - Infrastructure",
-  "industry": "Artificial Intelligence Cloud Computing",
+  "industry": "AI Cloud Computing",
   "upstream": [
     "NVDA",
     "AMD",
     "INTC",
-    "DELL",
-    "HPQ"
+    "QCOM",
+    "Xilinx"
   ],
   "downstream": [
     "OpenAI",
     "GOOGL",
     "MSFT",
     "AMZN",
-    "DeepMind"
+    "TSLA"
   ],
   "competitors": [
+    "NVDA",
+    "GOOGL",
     "AMZN",
     "MSFT",
-    "GOOGL",
-    "NVDA",
     "Paperspace"
   ],
   "key_products": [
-    "GPU‑based AI compute instances",
-    "GPU cloud infrastructure platform",
-    "Chip management software",
-    "GPU virtualization services",
-    "AI workload orchestration"
+    "GPU Cloud Infrastructure",
+    "GPU-as-a-Service",
+    "AI Compute Instances",
+    "GPU Cluster Management Software",
+    "Chip Management Software"
   ],
-  "extracted_at": "2026-07-31 17:26:21",
+  "extracted_at": "2026-08-03 19:06:32",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,21 +47,21 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.getfinvest.com/companies/crwv/",
+      "url": "https://www.tradingview.com/symbols/NASDAQ-CRWV/forecast-actuals-and-estimates/",
       "query": "CoreWeave, Inc. suppliers manufacturers",
-      "snippet": "01 Running thesis. Demand is real, costs are brutal. CoreWeave is one of the clearest public ways to invest in the AI compute shortage. Customers want"
+      "snippet": "See how CoreWeave , Inc . Class A performed against analyst expectations and compare actual results with revenue, earnings, cash flow, and valuation e"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/CoreWeave",
+      "url": "https://www.coreweave.com/case-studies",
       "query": "CoreWeave, Inc. major customers clients",
-      "snippet": "CoreWeave , Inc . is an American artificial intelligence cloud-computing company based in Livingston, New Jersey. It specializes in providing cloud-ba"
+      "snippet": "Customer stories Where Customers Become Pioneers Discover how CoreWeave customers transform ambition into achievement. These pioneers are shaping the "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.getfinvest.com/companies/crwv/",
+      "url": "https://csimarket.com/stocks/CRWV-Customers",
       "query": "CoreWeave, Inc. major customers clients",
-      "snippet": "CoreWeave is one of the clearest public ways to invest in the AI compute shortage. Customers want access to high-end NVIDIA GPU clusters, and CoreWeav"
+      "snippet": "19 hours ago · Coreweave Inc customers and markets, results by customer and performance relative to CRWV, by company and industry - CSIMarket"
     }
   ]
 }

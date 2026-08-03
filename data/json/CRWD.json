@@ -1,37 +1,37 @@
 {
   "ticker": "CRWD",
   "company_name": "CrowdStrike Holdings, Inc.",
-  "sector": "Technology",
-  "industry": "Software - Infrastructure",
+  "sector": "Technology / Software - Infrastructure",
+  "industry": "Cybersecurity",
   "upstream": [
+    "DELL",
+    "Cloud service providers (AWS, Azure, GCP)",
     "MSFT",
-    "AMZN",
-    "GOOGL",
-    "VMware",
-    "CSCO"
+    "CSCO",
+    "Consulting firms (Accenture, Deloitte)"
   ],
   "downstream": [
+    "Government agencies (U.S. Department of Defense, DHS)",
+    "Financial institutions (JP Morgan, Goldman Sachs)",
+    "Retail giants (Walmart, Target)",
     "MSFT",
-    "AMZN",
-    "Walmart",
-    "JPMorgan Chase",
-    "Bank of America"
+    "Healthcare organizations (UnitedHealth, Mayo Clinic)"
   ],
   "competitors": [
     "Palo Alto Networks",
     "SentinelOne",
-    "McAfee",
-    "AVGO",
-    "Sophos"
+    "FireEye (Mandiant)",
+    "Fortinet",
+    "McAfee"
   ],
   "key_products": [
-    "CrowdStrike Falcon Platform",
-    "Falcon Prevent",
-    "Falcon Insight",
+    "Falcon Endpoint Protection",
+    "Falcon Threat Intelligence",
     "Falcon OverWatch",
+    "Falcon Complete",
     "Falcon X"
   ],
-  "extracted_at": "2026-07-22 17:21:44",
+  "extracted_at": "2026-08-03 19:47:26",
   "sources": [
     {
       "source": "Wikipedia",
@@ -53,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/CRWD-Customers",
+      "url": "https://en.wikipedia.org/wiki/CrowdStrike",
       "query": "CrowdStrike Holdings, Inc. major customers clients",
-      "snippet": "Crowdstrike Holdings Inc 's Comment on Sales, Marketing and Customers Some of the world?s largest enterprises, government organizations, and high prof"
+      "snippet": "CrowdStrike Holdings , Inc . is an American cybersecurity technology company based in Austin, Texas. It provides endpoint security, threat intelligenc"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ir.crowdstrike.com/news-releases/news-release-details/crowdstrike-honors-top-customers-and-partners-driving-innovation",
+      "url": "https://csimarket.com/stocks/CRWD-Customers",
       "query": "CrowdStrike Holdings, Inc. major customers clients",
-      "snippet": "Sep 19, 2025 · The awards recognize customers and partners who are advancing cybersecurity innovation and delivering exceptional protection outcomes o"
+      "snippet": "Crowdstrike Holdings Inc 's Comment on Sales, Marketing and Customers Some of the world?s largest enterprises, government organizations, and high prof"
     }
   ]
 }

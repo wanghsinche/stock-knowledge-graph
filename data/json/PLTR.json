@@ -7,31 +7,31 @@
     "AMZN",
     "MSFT",
     "GOOGL",
-    "IBM",
-    "ORCL"
+    "ORCL",
+    "IBM"
   ],
   "downstream": [
     "U.S. Department of Defense",
-    "INTC",
-    "Law Enforcement Agencies",
-    "Financial Services Firms",
-    "Healthcare Providers"
+    "U.S. Department of Homeland Security",
+    "JPMorgan Chase",
+    "Walmart",
+    "Airbus"
   ],
   "competitors": [
     "Snowflake",
     "Databricks",
     "Splunk",
-    "Tableau",
+    "IBM",
     "MSFT"
   ],
   "key_products": [
-    "Palantir Gotham",
     "Palantir Foundry",
+    "Palantir Gotham",
     "Palantir Apollo",
     "Palantir Helix",
     "Palantir Data Lake"
   ],
-  "extracted_at": "2026-07-31 17:24:02",
+  "extracted_at": "2026-08-03 18:43:14",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,15 +41,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/PLTR-Suppliers",
+      "url": "https://en.wikipedia.org/wiki/Palantir",
       "query": "Palantir Technologies Inc. suppliers manufacturers",
-      "snippet": "Jul 7, 2026 · Palantir Technologies Inc 's Suppliers recorded an increase in sales by 33.09 % year on year in Q1 2026, sequentially sales grew by 3.39"
+      "snippet": "Palantir Technologies Inc . is an American publicly traded company that develops data integration and analytics software. Palantir is headquartered in"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.palantir.com/partners/technical/",
+      "url": "https://finance.yahoo.com/quote/PLTR/",
       "query": "Palantir Technologies Inc. suppliers manufacturers",
-      "snippet": "Food & Beverage Palantir for Builders Govt Financial Management Hospital Operations Insurance Intelligence Life Sciences Mission Manager Procurement R"
+      "snippet": "Find the latest Palantir Technologies Inc . (PLTR) stock quote, history, news and other vital information to help you with your stock trading and inve"
     },
     {
       "source": "DuckDuckGo",
@@ -59,9 +59,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.marketwatch.com/investing/stock/pltr",
+      "url": "https://explore.nemo.money/en/stocks/PLTR",
       "query": "Palantir Technologies Inc. major customers clients",
-      "snippet": "PLTR | Complete Palantir Technologies Inc . stock news by MarketWatch. View real-time stock prices and stock quotes for a full financial overview."
+      "snippet": "Palantir Technologies (PLTR) is a software company that builds data-integration and analytics platforms — primarily Foundry for commercial clients and"
     }
   ]
 }

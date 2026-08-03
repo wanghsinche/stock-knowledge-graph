@@ -1,57 +1,57 @@
 ---
 ticker: STX
-company: STX Corporation
-sector: Technology / Computer Hardware
-industry: Trading / Industrial Goods
-extracted_at: 2026-07-31 17:22:34
-last_updated: 2026-07-31
+company: STX
+sector: Technology
+industry: Computer Hardware
+extracted_at: 2026-08-03 18:57:42
+last_updated: 2026-08-03
 ---
 
-# STX - STX Corporation
+# STX - STX
 
 ## 基本信息
 
-- **所属行业**: Technology / Computer Hardware / Trading / Industrial Goods
-- **提取时间**: 2026-07-31 17:22:34
+- **所属行业**: Technology / Computer Hardware
+- **提取时间**: 2026-08-03 18:57:42
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Steel producers]]
-- [[Chemical manufacturers]]
-- [[Energy suppliers]]
-- [[Electronics component suppliers]]
-- [[Raw material suppliers]]
+- [[Semiconductor suppliers]]
+- [[Printed circuit board (PCB) manufacturers]]
+- [[Component distributors]]
+- [[Plastic injection molding plants]]
+- [[Logistics and transportation providers]]
 
 ### 下游客户
-- [[Manufacturing companies]]
-- [[Industrial users]]
-- [[Construction firms]]
-- [[Automotive manufacturers]]
-- [[Electronics manufacturers]]
+- [[Retail electronics stores]]
+- [[OEM partners]]
+- [[Enterprise IT departments]]
+- [[Online marketplaces]]
+- [[System integrators]]
 
 ### 竞争对手
-- [[POSCO Trading]]
-- [[Hyundai Trading]]
-- [[005930.KS]]
-- [[LG Energy Solution]]
-- [[Korea Zinc]]
+- [[DELL]]
+- [[HPQ]]
+- [[Lenovo]]
+- [[ASUS]]
+- [[Acer]]
 
 ### 核心产品
-- [[Steel products]]
-- [[Chemical products]]
-- [[Energy products]]
-- [[Electronics components]]
-- [[Industrial equipment]]
+- [[Desktop computers]]
+- [[Laptops]]
+- [[Servers]]
+- [[Monitors]]
+- [[Computer peripherals]]
 
 ## 数据来源
 
 - [STX](https://en.wikipedia.org/wiki/STX)
-- [STX suppliers manufacturers](https://panjiva.com/Manufacturers-Of/stx)
-- [STX suppliers manufacturers](https://www.whxcable.com/stx/)
-- [STX major customers clients](https://en.wikipedia.org/wiki/STX_Corporation)
-- [STX major customers clients](https://portersfiveforce.com/blogs/target-market/stx)
+- [STX suppliers manufacturers](https://en.wikipedia.org/wiki/STX_(sports_manufacturer))
+- [STX suppliers manufacturers](https://stx.com/)
+- [STX major customers clients](https://portersfiveforce.com/blogs/owners/stx)
+- [STX major customers clients](https://finance.yahoo.com/quote/STX/holders/?ltr=1)
 
 ## 元数据
 
-- **更新日期**: 2026-07-31
+- **更新日期**: 2026-08-03

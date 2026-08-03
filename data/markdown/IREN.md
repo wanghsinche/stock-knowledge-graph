@@ -1,18 +1,18 @@
 ---
 ticker: IREN
 company: IREN Limited
-sector: Technology
+sector: Financial Services / Capital Markets
 industry: Data Center Services
-extracted_at: 2026-07-31 17:25:03
-last_updated: 2026-07-31
+extracted_at: 2026-08-03 19:44:13
+last_updated: 2026-08-03
 ---
 
 # IREN - IREN Limited
 
 ## 基本信息
 
-- **所属行业**: Technology / Data Center Services
-- **提取时间**: 2026-07-31 17:25:03
+- **所属行业**: Financial Services / Capital Markets / Data Center Services
+- **提取时间**: 2026-08-03 19:44:13
 
 ## 产业链关系
 
@@ -21,37 +21,37 @@ last_updated: 2026-07-31
 - [[HPQ]]
 - [[CSCO]]
 - [[NVDA]]
-- [[Schneider Electric]]
+- [[NetApp]]
 
 ### 下游客户
-- [[Financial institutions (e.g., HSBC, Barclays)]]
-- [[MSFT]]
-- [[Government agencies]]
-- [[Enterprise IT departments]]
-- [[E‑commerce companies]]
+- [[Australian Government Agencies]]
+- [[Financial Institutions]]
+- [[Technology Startups]]
+- [[Cloud Service Providers]]
+- [[AI Research Labs]]
 
 ### 竞争对手
 - [[Equinix]]
 - [[Digital Realty]]
-- [[Interxion]]
-- [[CAT]]
-- [[CyrusOne]]
+- [[Australian Data Centres]]
+- [[Data#]]
+- [[Aussie Cloud]]
 
 ### 核心产品
-- [[Colocation services]]
-- [[Infrastructure-as-a-Service (IaaS) cloud solutions]]
-- [[Managed IT services]]
-- [[High‑speed network connectivity]]
-- [[Renewable‑energy‑powered data center solutions]]
+- [[Colocation Services]]
+- [[AI Cloud Platform]]
+- [[GPU Clusters]]
+- [[Edge Computing Solutions]]
+- [[Managed IT Services]]
 
 ## 数据来源
 
 - 
 - [IREN Limited suppliers manufacturers](https://www.iren.com/)
-- [IREN Limited suppliers manufacturers](https://csimarket.com/stocks/IREN-Customers)
+- [IREN Limited suppliers manufacturers](https://iren.com/legal/supplier-code-of-conduct)
+- [IREN Limited major customers clients](https://www.tradingview.com/symbols/NASDAQ-IREN/)
 - [IREN Limited major customers clients](https://www.investing.com/equities/iris-energy)
-- [IREN Limited major customers clients](https://www.lbank.com/stock/iren)
 
 ## 元数据
 
-- **更新日期**: 2026-07-31
+- **更新日期**: 2026-08-03

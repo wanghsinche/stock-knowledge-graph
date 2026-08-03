@@ -3,8 +3,8 @@ ticker: MSFT
 company: Microsoft Corporation
 sector: Technology
 industry: Software - Infrastructure
-extracted_at: 2026-07-31 17:19:34
-last_updated: 2026-07-31
+extracted_at: 2026-08-03 17:53:25
+last_updated: 2026-08-03
 ---
 
 # MSFT - Microsoft Corporation
@@ -12,7 +12,7 @@ last_updated: 2026-07-31
 ## 基本信息
 
 - **所属行业**: Technology / Software - Infrastructure
-- **提取时间**: 2026-07-31 17:19:34
+- **提取时间**: 2026-08-03 17:53:25
 
 ## 产业链关系
 
@@ -20,38 +20,38 @@ last_updated: 2026-07-31
 - [[INTC]]
 - [[AMD]]
 - [[NVDA]]
-- [[DELL]]
-- [[CSCO]]
+- [[TSM]]
+- [[QCOM]]
 
 ### 下游客户
-- [[Fortune 500 companies]]
-- [[U.S. federal government]]
-- [[CAT]]
-- [[Small businesses]]
-- [[Gaming community]]
+- [[Enterprise customers (e.g., banks, government agencies)]]
+- [[DELL]]
+- [[Cloud service users (Azure)]]
+- [[Consumers (Windows PCs, Surface, Xbox)]]
+- [[MSFT]]
 
 ### 竞争对手
 - [[AAPL]]
 - [[GOOGL]]
 - [[AMZN]]
-- [[ORCL]]
 - [[IBM]]
+- [[ORCL]]
 
 ### 核心产品
-- [[Windows OS]]
-- [[Microsoft Office]]
-- [[Azure cloud]]
-- [[Xbox consoles]]
-- [[Microsoft Surface]]
+- [[Windows operating system]]
+- [[Microsoft Office Suite]]
+- [[Azure cloud platform]]
+- [[Surface hardware line]]
+- [[Xbox gaming console]]
 
 ## 数据来源
 
 - [Microsoft](https://en.wikipedia.org/wiki/Microsoft_Corporation)
 - [Microsoft Corporation suppliers manufacturers](https://csimarket.com/stocks/suppliers_glance.php?code=MSFT)
-- [Microsoft Corporation suppliers manufacturers](https://www.microsoft.com/en-us)
-- [Microsoft Corporation major customers clients](https://csimarket.com/stocks/markets_glance.php?code=MSFT)
-- [Microsoft Corporation major customers clients](https://www.appsruntheworld.com/customers-database/vendors/view/microsoft)
+- [Microsoft Corporation suppliers manufacturers](https://www.alibaba.com/)
+- [Microsoft Corporation major customers clients](https://copilot.microsoft.com/)
+- [Microsoft Corporation major customers clients](https://www.tradingview.com/symbols/NASDAQ-MSFT/)
 
 ## 元数据
 
-- **更新日期**: 2026-07-31
+- **更新日期**: 2026-08-03

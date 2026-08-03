@@ -4,18 +4,18 @@
   "sector": "Technology",
   "industry": "Semiconductors",
   "upstream": [
-    "TSM",
-    "005930.KS",
-    "GlobalFoundries",
-    "MU",
-    "INTC"
+    "AMAT",
+    "ASML",
+    "LRCX",
+    "Tokyo Electron",
+    "KLA"
   ],
   "downstream": [
     "Ford Motor Company",
     "General Motors",
-    "Bosch",
     "AAPL",
-    "MSFT"
+    "005930.KS",
+    "Bosch Group"
   ],
   "competitors": [
     "ADI",
@@ -26,12 +26,12 @@
   ],
   "key_products": [
     "Analog integrated circuits",
-    "Embedded processors (C2000, Sitara)",
+    "Embedded processors",
     "Digital Light Processing (DLP) technology",
-    "Texas Instruments calculators",
-    "Microcontrollers and multi‑core processors"
+    "Calculators",
+    "Microcontrollers"
   ],
-  "extracted_at": "2026-07-28 17:29:26",
+  "extracted_at": "2026-08-03 19:46:11",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.ti.com/about-ti/suppliers/supplier-overview.html/",
-      "query": "Texas Instruments Incorporated suppliers manufacturers",
-      "snippet": "Suppliers Use the information and resources on this site to understand and meet our supplier expectations."
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://thepartsdirect.com/texasinstrumentsti/linecard",
-      "query": "Texas Instruments Incorporated suppliers manufacturers",
-      "snippet": "Texas Instruments (TI) Manufacturer & Distributor Also known as: Burr-Brown, Chipcon, Comlinear, Luminary Micro, Power Trends, Unitrode Products inclu"
-    },
-    {
-      "source": "DuckDuckGo",
       "url": "https://finance.yahoo.com/quote/TXN/",
-      "query": "Texas Instruments Incorporated major customers clients",
+      "query": "Texas Instruments Incorporated suppliers manufacturers",
       "snippet": "Find the latest Texas Instruments Incorporated (TXN) stock quote, history, news and other vital information to help you with your stock trading and in"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.marketbeat.com/stocks/NASDAQ/TXN/",
+      "url": "https://www.britannica.com/money/Texas-Instruments-Incorporated",
+      "query": "Texas Instruments Incorporated suppliers manufacturers",
+      "snippet": "Texas Instruments Incorporated ( TI ), American manufacturer of calculators, microprocessors, and digital signal processors with its headquarters in D"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/Texas_Instruments",
       "query": "Texas Instruments Incorporated major customers clients",
-      "snippet": "Texas Instruments Incorporated (NASDAQ:TXN) announced its earnings results on Wednesday, April, 22nd. The semiconductor company reported $1.68 earning"
+      "snippet": "Texas Instruments Incorporated (TI) is an American multinational semiconductor company headquartered in Dallas, Texas. [5] It is one of the top 10 sem"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/TXN-Customers",
+      "query": "Texas Instruments Incorporated major customers clients",
+      "snippet": "Texas Instruments Incorporated 's Comment on Sales, Marketing and Customers Our products are sold to original equipment manufacturers (OEMs), original"
     }
   ]
 }

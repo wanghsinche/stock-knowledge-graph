@@ -3,8 +3,8 @@ ticker: LITE
 company: Lumentum Holdings Inc.
 sector: Technology
 industry: Communication Equipment
-extracted_at: 2026-07-31 17:23:09
-last_updated: 2026-07-31
+extracted_at: 2026-08-03 19:12:05
+last_updated: 2026-08-03
 ---
 
 # LITE - Lumentum Holdings Inc.
@@ -12,46 +12,28 @@ last_updated: 2026-07-31
 ## 基本信息
 
 - **所属行业**: Technology / Communication Equipment
-- **提取时间**: 2026-07-31 17:23:09
+- **提取时间**: 2026-08-03 19:12:05
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Semiconductor manufacturers]]
-- [[Optical fiber manufacturers]]
-- [[Laser diode suppliers]]
-- [[Photonic integrated circuit vendors]]
-- [[Precision optics suppliers]]
+_暂无数据_
 
 ### 下游客户
-- [[Telecom equipment manufacturers]]
-- [[Data center infrastructure providers]]
-- [[Industrial automation firms]]
-- [[Medical imaging companies]]
-- [[Defense contractors]]
+_暂无数据_
 
 ### 竞争对手
-- [[Coherent Inc.]]
-- [[II-VI Incorporated]]
-- [[Trumpf GmbH]]
-- [[Lumen Technologies]]
-- [[Infinera Corp.]]
+_暂无数据_
 
 ### 核心产品
-- [[Laser diodes]]
-- [[Optical amplifiers]]
-- [[Photonic integrated circuits]]
-- [[Optical transceivers]]
-- [[Fiber optic components]]
+_暂无数据_
 
 ## 数据来源
 
 - 
 - [Lumentum Holdings Inc. suppliers manufacturers](https://www.lumentum.com/)
-- [Lumentum Holdings Inc. suppliers manufacturers](https://www.bloomberg.com/quote/LITE1:SW)
-- [Lumentum Holdings Inc. major customers clients](https://www.lumentum.com/)
-- [Lumentum Holdings Inc. major customers clients](https://www.bloomberg.com/quote/LITE1:SW)
+- [Lumentum Holdings Inc. suppliers manufacturers](https://csimarket.com/stocks/LITE-Financial-Strength-Comparisons.html)
 
 ## 元数据
 
-- **更新日期**: 2026-07-31
+- **更新日期**: 2026-08-03

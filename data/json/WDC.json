@@ -1,14 +1,14 @@
 {
   "ticker": "WDC",
   "company_name": "Western Digital Corporation",
-  "sector": "Technology / Computer Hardware",
-  "industry": "Storage Solutions",
+  "sector": "Technology",
+  "industry": "Computer Hardware",
   "upstream": [
-    "MU",
-    "005930.KS",
-    "SK Hynix",
-    "Nanya Technology",
-    "Toshiba Memory"
+    "NAND flash memory suppliers",
+    "SSD controller manufacturers",
+    "Silicon wafer suppliers",
+    "Packaging and assembly providers",
+    "Power management IC suppliers"
   ],
   "downstream": [
     "DELL",
@@ -19,19 +19,19 @@
   ],
   "competitors": [
     "STX",
-    "Toshiba Corporation",
-    "005930.KS",
+    "Toshiba (Kioxia)",
     "MU",
-    "SK Hynix"
+    "005930.KS",
+    "INTC"
   ],
   "key_products": [
-    "3.5-inch HDDs",
-    "2.5-inch SSDs",
-    "Enterprise NAS solutions",
-    "Cloud storage platforms",
-    "Solid State Drives for PCs"
+    "3.5\" HDDs",
+    "2.5\" HDDs",
+    "SATA SSDs",
+    "NVMe SSDs",
+    "Enterprise storage solutions"
   ],
-  "extracted_at": "2026-07-31 17:22:15",
+  "extracted_at": "2026-08-03 19:08:50",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
+      "url": "https://www.made-in-china.com/manufacturers/wdc.html",
+      "query": "WDC suppliers manufacturers",
+      "snippet": "wdc manufacturers / supplier , China wdc manufacturer & factory list, find best price in Chinese wdc manufacturers , suppliers , factories, exporters "
+    },
+    {
+      "source": "DuckDuckGo",
       "url": "https://csimarket.com/stocks/WDC-Suppliers",
       "query": "WDC suppliers manufacturers",
-      "snippet": "Jul 7, 2026 · Western Digital recorded increase in cost of sales by 20.19 % year on year, sequentially cost of sales grew by 1.47 % in Q1. • More on W"
+      "snippet": "WDC Costs vs Sales of Suppliers Growth.The NAND flash products used in our SSDs are sourced from multiple tier-one NAND manufacturers ."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.accio.com/supplier/wd-manufacturer",
-      "query": "WDC suppliers manufacturers",
-      "snippet": "Jul 23, 2026 · Need reliable WD storage solutions? Discover certified manufacturers of HDDs, SSDs, and NAS drives for gaming, surveillance, and data c"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/WDC-Customers",
+      "url": "https://www.marketbeat.com/stocks/NASDAQ/WDC/institutional-ownership/",
       "query": "WDC major customers clients",
-      "snippet": "Western Digital's Comment on Sales, Marketing and Customers We maintain sales offices in selected parts of the world including the major geographies o"
+      "snippet": "Which shareholders are buying/selling shares of Western Digital (NASDAQ: WDC ) stock? View WDC institutional ownership (13F) transactions at MarketBea"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.readycontacts.com/target-account-profiling/western-digital/",
+      "url": "https://ca.finance.yahoo.com/quote/WDC/holders/?p=WDC",
       "query": "WDC major customers clients",
-      "snippet": "Western Digital is a leading data storage company that develops, manufactures, and provides data technology products, including hard disk drives and s"
+      "snippet": "Find out the direct holders, institutional holders and mutual fund holders for Western Digital Corporation ( WDC )."
     }
   ]
 }

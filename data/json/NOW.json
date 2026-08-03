@@ -1,37 +1,37 @@
 {
   "ticker": "NOW",
   "company_name": "ServiceNow, Inc.",
-  "sector": "Technology / Software",
-  "industry": "Application",
+  "sector": "Technology",
+  "industry": "Software - Application",
   "upstream": [
-    "MSFT",
     "AMZN",
+    "MSFT",
     "GOOGL",
-    "IBM",
-    "ORCL"
+    "ORCL",
+    "IBM"
   ],
   "downstream": [
-    "GOOGL",
-    "MSFT",
-    "AMZN",
+    "Walmart",
+    "AT&T",
+    "JPMorgan Chase",
     "Bank of America",
     "Coca‑Cola"
   ],
   "competitors": [
     "CRM",
-    "SAP",
-    "ORCL",
     "MSFT",
+    "SAP SuccessFactors",
+    "ORCL",
     "IBM"
   ],
   "key_products": [
-    "Now Platform",
-    "IT Service Management",
-    "IT Operations Management",
-    "IT Business Management",
-    "Customer Service Management"
+    "ServiceNow Platform",
+    "IT Service Management (ITSM)",
+    "IT Operations Management (ITOM)",
+    "Customer Service Management (CSM)",
+    "HR Service Delivery"
   ],
-  "extracted_at": "2026-07-31 17:26:32",
+  "extracted_at": "2026-08-03 19:17:26",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,9 +47,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.insidermonkey.com/blog/analyzing-servicenows-now-unique-position-in-workflow-automation-1805859/",
+      "url": "https://www.youtube.com/watch?v=eftWvqkeiTg",
       "query": "ServiceNow, Inc. suppliers manufacturers",
-      "snippet": "ServiceNow , Inc . (NYSE: NOW ) is a cloud-based software company that provides a platform for automating and managing digital workflows. On July 29, "
+      "snippet": "...[https://buymeacoffee.com/pradipg] Even a small coffee keeps me motivated to create more insights for you! NOW Stock Analysis | Servicenow , Inc . "
     },
     {
       "source": "DuckDuckGo",
@@ -59,9 +59,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://nd.service-now.com/login.do",
+      "url": "https://puffling.co/companies/now/",
       "query": "ServiceNow, Inc. major customers clients",
-      "snippet": "ServiceNow ServiceNow Home Page. Login."
+      "snippet": "ServiceNow , Inc . ( NOW ): Plain-English company profile built from SEC filings. Business model, financials, risks, and insider transactions."
     }
   ]
 }

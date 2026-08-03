@@ -3,8 +3,8 @@ ticker: APP
 company: AppLovin Corporation
 sector: Communication Services
 industry: Advertising Agencies
-extracted_at: 2026-07-31 17:25:53
-last_updated: 2026-07-31
+extracted_at: 2026-08-03 19:43:16
+last_updated: 2026-08-03
 ---
 
 # APP - AppLovin Corporation
@@ -12,46 +12,46 @@ last_updated: 2026-07-31
 ## 基本信息
 
 - **所属行业**: Communication Services / Advertising Agencies
-- **提取时间**: 2026-07-31 17:25:53
+- **提取时间**: 2026-08-03 19:43:16
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Hardware manufacturers (smartphone OEMs)]]
-- [[Software platform providers (iOS, Android)]]
-- [[Data analytics vendors]]
-- [[Cloud infrastructure providers]]
-- [[Ad network partners]]
+- [[AMZN]]
+- [[GOOGL]]
+- [[MSFT]]
+- [[ADBE]]
+- [[Stripe (payment processing)]]
 
 ### 下游客户
-- [[Mobile app developers]]
-- [[Game studios]]
-- [[E‑commerce brands]]
-- [[Digital marketing agencies]]
-- [[Advertisers (B2B and B2C)]]
+- [[Mobile game developers (e.g., Supercell, King)]]
+- [[App developers (e.g., TikTok, Snapchat)]]
+- [[Digital advertisers (brands & agencies)]]
+- [[Publishers of mobile content]]
+- [[E‑commerce app operators]]
 
 ### 竞争对手
+- [[The Trade Desk]]
 - [[Unity Ads]]
+- [[IronSource]]
 - [[Vungle]]
-- [[AdColony]]
 - [[GOOGL]]
-- [[Facebook Audience Network]]
 
 ### 核心产品
-- [[Mobile advertising SDK]]
-- [[App monetization platform]]
-- [[User acquisition solutions]]
-- [[Data analytics & attribution tools]]
-- [[Cross‑platform ad serving]]
+- [[AppLovin SDK (mobile advertising)]]
+- [[MAX (mobile ad mediation platform)]]
+- [[AppDiscovery (app discovery & acquisition)]]
+- [[LTV (Lifetime Value) analytics suite]]
+- [[AI‑driven ad optimization tools]]
 
 ## 数据来源
 
 - 
-- [AppLovin Corporation suppliers manufacturers](https://en.wikipedia.org/wiki/AppLovin)
-- [AppLovin Corporation suppliers manufacturers](https://csimarket.com/stocks/APP-Suppliers)
+- [AppLovin Corporation suppliers manufacturers](https://www.applovin.com/)
+- [AppLovin Corporation suppliers manufacturers](https://pitchgrade.com/companies/applovin)
 - [AppLovin Corporation major customers clients](https://www.applovin.com/)
-- [AppLovin Corporation major customers clients](https://www.tipranks.com/stocks/app/stock-analysis)
+- [AppLovin Corporation major customers clients](https://bullfincher.io/companies/applovin-corporation/overview)
 
 ## 元数据
 
-- **更新日期**: 2026-07-31
+- **更新日期**: 2026-08-03

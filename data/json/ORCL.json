@@ -4,18 +4,18 @@
   "sector": "Technology",
   "industry": "Software - Infrastructure",
   "upstream": [
-    "Hardware component suppliers",
-    "Cloud infrastructure providers",
-    "Software vendors",
-    "Data center equipment manufacturers",
-    "Consulting and integration partners"
+    "INTC",
+    "005930.KS",
+    "NVDA",
+    "CSCO",
+    "DELL"
   ],
   "downstream": [
-    "Enterprise customers (finance, manufacturing, retail)",
-    "Government agencies and public sector",
-    "Healthcare and life‑science organizations",
-    "CAT",
-    "CAT"
+    "AMZN",
+    "GOOGL",
+    "MSFT",
+    "Bank of America",
+    "Walmart"
   ],
   "competitors": [
     "MSFT",
@@ -26,12 +26,12 @@
   ],
   "key_products": [
     "Oracle Database",
-    "Oracle Cloud Infrastructure (OCI)",
+    "Oracle Cloud Infrastructure",
     "Oracle Autonomous Database",
-    "Oracle Applications (E-Business Suite, Fusion)",
-    "Oracle Enterprise Manager"
+    "Oracle E-Business Suite",
+    "Oracle Fusion Middleware"
   ],
-  "extracted_at": "2026-07-31 17:22:58",
+  "extracted_at": "2026-08-03 18:34:32",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,7 +43,7 @@
       "source": "DuckDuckGo",
       "url": "https://www.oracle.com/corporate/suppliers/",
       "query": "Oracle Corporation suppliers manufacturers",
-      "snippet": "Doing Business with Oracle Oracle iSupplier Portal (iSP) is a secured self-service tool, which provides Oracle's suppliers with the ability to use a s"
+      "snippet": "Doing Business with Oracle Oracle iSupplier Portal (iSP) is a secured self-service tool, which provides Oracle 's suppliers with the ability to use a "
     },
     {
       "source": "DuckDuckGo",
@@ -53,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.oracle.com/corporate/",
+      "url": "https://www.thomsondata.com/customer-base/oracle.php",
       "query": "Oracle Corporation major customers clients",
-      "snippet": "Oracle is pleased to provide information about our company, customers , partners, events, communities, press, analysts, investors, and careers.The com"
+      "snippet": "An Oracle customers list is a data set that provides contact leads for marketing and promotional efforts. In the context of Oracle, such lists host in"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.youtube.com/watch?v=ll7_VcwePN4",
+      "url": "https://www.oracle.com/customers/",
       "query": "Oracle Corporation major customers clients",
-      "snippet": "In this video, I'm going to show you how to install oracle 21c instant client on the windows platform step by step.#instantclient #oracleclientWebsite"
+      "snippet": "Oracle Customer Successes Innovation, ease of use, better results—those are just some of the reasons organizations in all industries and of all sizes "
     }
   ]
 }
