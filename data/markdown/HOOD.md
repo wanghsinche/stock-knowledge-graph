@@ -3,8 +3,8 @@ ticker: HOOD
 company: Robinhood Markets, Inc.
 sector: Financial Services
 industry: Capital Markets
-extracted_at: 2026-08-03 19:43:46
-last_updated: 2026-08-03
+extracted_at: 2026-08-04 17:39:05
+last_updated: 2026-08-04
 ---
 
 # HOOD - Robinhood Markets, Inc.
@@ -12,37 +12,37 @@ last_updated: 2026-08-03
 ## 基本信息
 
 - **所属行业**: Financial Services / Capital Markets
-- **提取时间**: 2026-08-03 19:43:46
+- **提取时间**: 2026-08-04 17:39:05
 
 ## 产业链关系
 
 ### 上游供应商
-- [[AMZN]]
-- [[GOOGL]]
-- [[Bloomberg L.P.]]
-- [[Refinitiv]]
-- [[Stripe]]
+- [[MSFT]]
+- [[Market data vendors (e.g., Bloomberg, Refinitiv)]]
+- [[Payment processors (e.g., Stripe, PayPal)]]
+- [[Technology infrastructure providers (e.g., Twilio, Plaid)]]
+- [[Security and compliance vendors (e.g., Okta, Symantec)]]
 
 ### 下游客户
-- [[Retail investors]]
-- [[High-net-worth individuals]]
-- [[Institutional clients]]
-- [[Crypto traders]]
-- [[Options traders]]
+- [[Retail investors using the Robinhood app]]
+- [[Institutional clients via Robinhood Institutional]]
+- [[Cryptocurrency traders on the platform]]
+- [[Options traders using Robinhood’s options platform]]
+- [[Customers of Robinhood Gold (premium subscription users)]]
 
 ### 竞争对手
 - [[Charles Schwab]]
+- [[E*TRADE]]
 - [[Fidelity Investments]]
 - [[TD Ameritrade]]
-- [[E*TRADE]]
 - [[Webull]]
 
 ### 核心产品
-- [[Robinhood app]]
-- [[Robinhood Gold]]
-- [[Cash management]]
-- [[Options trading]]
-- [[Crypto trading]]
+- [[Commission‑free stock and ETF trading]]
+- [[Options trading platform]]
+- [[Cryptocurrency trading]]
+- [[Margin trading (Robinhood Gold)]]
+- [[Cash management and debit card services]]
 
 ## 数据来源
 
@@ -54,4 +54,4 @@ last_updated: 2026-08-03
 
 ## 元数据
 
-- **更新日期**: 2026-08-03
+- **更新日期**: 2026-08-04

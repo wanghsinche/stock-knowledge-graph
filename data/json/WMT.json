@@ -1,37 +1,37 @@
 {
   "ticker": "WMT",
   "company_name": "Walmart Inc.",
-  "sector": "Consumer Defensive",
-  "industry": "Discount Stores",
+  "sector": "Consumer Defensive / Discount Stores",
+  "industry": "Retail - Discount Stores",
   "upstream": [
-    "Food manufacturers",
-    "Apparel manufacturers",
-    "Electronics manufacturers",
-    "Pharmacy suppliers",
-    "Fuel suppliers"
+    "Procter & Gamble",
+    "Coca‑Cola",
+    "Nike",
+    "Johnson & Johnson",
+    "General Mills"
   ],
   "downstream": [
     "Individual consumers",
-    "Online shoppers",
     "Small businesses",
-    "Corporate clients",
-    "Government agencies"
+    "Local grocery stores",
+    "Pharmacy customers",
+    "Online shoppers"
   ],
   "competitors": [
     "Target",
     "Costco",
-    "Dollar General",
-    "Aldi",
-    "BJ's Wholesale Club"
+    "AMZN",
+    "BJ’s Wholesale Club",
+    "Kroger"
   ],
   "key_products": [
     "Groceries",
+    "Household goods",
     "Apparel",
     "Electronics",
-    "Household goods",
     "Pharmacy products"
   ],
-  "extracted_at": "2026-08-03 19:33:29",
+  "extracted_at": "2026-08-04 17:37:53",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://corporate.walmart.com/suppliers",
+      "url": "https://csimarket.com/stocks/suppliers_glance.php?code=WMT",
       "query": "Walmart Inc. suppliers manufacturers",
-      "snippet": "The Walmart Sustainability Hub is a destination for Walmart suppliers to access resources and learn about opportunities to collaborate with Walmart, j"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/WMT-Suppliers",
-      "query": "Walmart Inc. suppliers manufacturers",
-      "snippet": "Jul 10, 2026 · Walmart Inc 's Comment on Supply Chain Walmart International develops relationships with regional and local suppliers in each market to"
+      "snippet": "Walmart Inc supply chain, list and performance of Walmart Incs ' suppliers - CSIMarket.Among Walmart Inc suppliers , the revenue of Interface Inc has "
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.walmart.com/",
-      "query": "Walmart Inc. major customers clients",
-      "snippet": "Shop Walmart .com today for Every Day Low Prices. Join Walmart + for unlimited free delivery from your store & free shipping with no order minimum.A m"
+      "query": "Walmart Inc. suppliers manufacturers",
+      "snippet": "Shop Walmart .com today for Every Day Low Prices. Join Walmart + for unlimited free delivery from your store & free shipping with no order minimum. St"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.walmart.ca/",
+      "url": "https://capitaloneshopping.com/research/walmart-statistics/",
       "query": "Walmart Inc. major customers clients",
-      "snippet": "Online Shopping in Canada at Walmart .ca. A great selection of online electronics, baby, video games & much more. Shop online at everyday low prices!"
+      "snippet": "Jun 10, 2026 · Latest available data on Walmart ' s size and market share, both offline and online, with total sales and revenue breakdowns by year."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/WMT-Customers",
+      "query": "Walmart Inc. major customers clients",
+      "snippet": "For your research, we’ve provided 9 tables on Walmart Inc corporate clients . You can find them in the navigation menu under Customers & Markets. To d"
     }
   ]
 }

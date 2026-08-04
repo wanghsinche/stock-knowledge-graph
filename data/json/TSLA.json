@@ -1,28 +1,28 @@
 {
   "ticker": "TSLA",
   "company_name": "Tesla, Inc.",
-  "sector": "Consumer Cyclical",
-  "industry": "Auto Manufacturers",
+  "sector": "Consumer Cyclical / Auto Manufacturers",
+  "industry": "Electric Vehicle Manufacturers",
   "upstream": [
-    "CAT",
-    "LG Energy Solution",
     "Panasonic",
+    "LG Chem",
+    "CAT",
     "005930.KS",
-    "BYD"
+    "Bosch"
   ],
   "downstream": [
     "Individual consumers",
     "Fleet operators",
-    "Corporate customers",
+    "Commercial customers",
     "Government agencies",
-    "Commercial customers"
+    "Energy storage customers"
   ],
   "competitors": [
-    "General Motors",
     "Ford",
-    "Volkswagen",
-    "Hyundai",
-    "Toyota"
+    "General Motors",
+    "Rivian",
+    "Lucid Motors",
+    "NIO"
   ],
   "key_products": [
     "Model S",
@@ -31,7 +31,7 @@
     "Model Y",
     "Powerwall"
   ],
-  "extracted_at": "2026-08-03 18:13:11",
+  "extracted_at": "2026-08-04 17:30:59",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Tesla,_Inc.",
-      "query": "Tesla, Inc. suppliers manufacturers",
-      "snippet": "Tesla purchases these batteries from three suppliers , CATL, LG Energy Solution, and Panasonic, the latter of which has co-located some of its battery"
-    },
-    {
-      "source": "DuckDuckGo",
       "url": "https://csimarket.com/stocks/suppliers_glance.php?code=TSLA",
       "query": "Tesla, Inc. suppliers manufacturers",
       "snippet": "Tesla Inc 's Suppliers Performance. TSLA's Supply Chain. Tesla relies on a wide range of suppliers beyond just battery manufacturers to build our elec"
     },
     {
       "source": "DuckDuckGo",
+      "url": "https://www.tesla.com/",
+      "query": "Tesla, Inc. suppliers manufacturers",
+      "snippet": "Tesla is building a world of amazing abundance with AI, electric cars, solar, home batteries and integrated renewable energy solutions for homes and b"
+    },
+    {
+      "source": "DuckDuckGo",
       "url": "https://csimarket.com/stocks/TSLA-Customers",
       "query": "Tesla, Inc. major customers clients",
-      "snippet": "Tesla Inc customers and markets, results by customer and performance relative to TSLA, by company and industry - CSIMarket"
+      "snippet": "We currently sell our cars primarily to individual customers . We have strategic or commercial relationships with Daimler, Toyota, and Panasonic. We c"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.growthnavigate.com/tesla-target-customers",
       "query": "Tesla, Inc. major customers clients",
-      "snippet": "May 27, 2026 · Tesla target customers are typically affluent, tech-savvy, and environmentally conscious buyers. This guide breaks down who buys Tesla "
+      "snippet": "May 27, 2026 · Tesla target customers are typically affluent, tech-savvy, and environmentally conscious buyers . This guide breaks down who buys Tesla"
     }
   ]
 }

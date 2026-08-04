@@ -3,8 +3,8 @@ ticker: WDC
 company: Western Digital Corporation
 sector: Technology
 industry: Computer Hardware
-extracted_at: 2026-08-03 19:08:50
-last_updated: 2026-08-03
+extracted_at: 2026-08-04 17:33:27
+last_updated: 2026-08-04
 ---
 
 # WDC - Western Digital Corporation
@@ -12,16 +12,16 @@ last_updated: 2026-08-03
 ## 基本信息
 
 - **所属行业**: Technology / Computer Hardware
-- **提取时间**: 2026-08-03 19:08:50
+- **提取时间**: 2026-08-04 17:33:27
 
 ## 产业链关系
 
 ### 上游供应商
-- [[NAND flash memory suppliers]]
-- [[SSD controller manufacturers]]
-- [[Silicon wafer suppliers]]
-- [[Packaging and assembly providers]]
-- [[Power management IC suppliers]]
+- [[MU]]
+- [[Printed circuit board (PCB) suppliers]]
+- [[Magnetic media suppliers]]
+- [[Electronic component suppliers (capacitors, resistors, etc.)]]
+- [[Packaging and logistics providers]]
 
 ### 下游客户
 - [[DELL]]
@@ -32,26 +32,26 @@ last_updated: 2026-08-03
 
 ### 竞争对手
 - [[STX]]
-- [[Toshiba (Kioxia)]]
-- [[MU]]
+- [[Toshiba Corporation]]
 - [[005930.KS]]
-- [[INTC]]
+- [[MU]]
+- [[SK Hynix]]
 
 ### 核心产品
-- [[3.5" HDDs]]
-- [[2.5" HDDs]]
-- [[SATA SSDs]]
-- [[NVMe SSDs]]
-- [[Enterprise storage solutions]]
+- [[Hard Disk Drives (HDD)]]
+- [[Solid State Drives (SSD)]]
+- [[Enterprise Storage Systems]]
+- [[Network Attached Storage (NAS)]]
+- [[Cloud Storage Solutions]]
 
 ## 数据来源
 
 - [WDC](https://en.wikipedia.org/wiki/WDC)
-- [WDC suppliers manufacturers](https://www.made-in-china.com/manufacturers/wdc.html)
 - [WDC suppliers manufacturers](https://csimarket.com/stocks/WDC-Suppliers)
-- [WDC major customers clients](https://www.marketbeat.com/stocks/NASDAQ/WDC/institutional-ownership/)
-- [WDC major customers clients](https://ca.finance.yahoo.com/quote/WDC/holders/?p=WDC)
+- [WDC suppliers manufacturers](https://www.accio.com/supplier/wd-manufacturer)
+- [WDC major customers clients](https://csimarket.com/stocks/WDC-Customers)
+- [WDC major customers clients](https://www.readycontacts.com/target-account-profiling/western-digital/)
 
 ## 元数据
 
-- **更新日期**: 2026-08-03
+- **更新日期**: 2026-08-04

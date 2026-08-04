@@ -1,34 +1,34 @@
 ---
 ticker: MCD
 company: McDonald's Corporation
-sector: Consumer Cyclical / Restaurants
-industry: Fast Food Restaurants
-extracted_at: 2026-05-07 17:50:26
-last_updated: 2026-05-07
+sector: Consumer Cyclical
+industry: Restaurants
+extracted_at: 2026-08-04 17:40:49
+last_updated: 2026-08-04
 ---
 
 # MCD - McDonald's Corporation
 
 ## 基本信息
 
-- **所属行业**: Consumer Cyclical / Restaurants / Fast Food Restaurants
-- **提取时间**: 2026-05-07 17:50:26
+- **所属行业**: Consumer Cyclical / Restaurants
+- **提取时间**: 2026-08-04 17:40:49
 
 ## 产业链关系
 
 ### 上游供应商
-- [[McCain Foods (fries)]]
-- [[Tyson Foods (beef)]]
+- [[McCain Foods (potatoes)]]
+- [[Tyson Foods (chicken)]]
 - [[Cargill (beef)]]
-- [[Hormel Foods (chicken)]]
-- [[Bunge Limited (vegetables)]]
+- [[McCormick & Company (spices)]]
+- [[Nestlé (coffee)]]
 
 ### 下游客户
-- [[Global consumer base]]
 - [[Franchisee restaurants]]
-- [[Corporate office clients]]
-- [[Online delivery partners]]
+- [[Corporate-owned restaurants]]
 - [[CAT]]
+- [[Online delivery partners]]
+- [[Corporate events]]
 
 ### 竞争对手
 - [[Burger King]]
@@ -40,18 +40,18 @@ last_updated: 2026-05-07
 ### 核心产品
 - [[Big Mac]]
 - [[Quarter Pounder with Cheese]]
-- [[Chicken McNuggets]]
 - [[McChicken]]
-- [[Filet‑O‑Fish]]
+- [[McFlurry]]
+- [[McCafe coffee]]
 
 ## 数据来源
 
-- [McDonald's](https://en.wikipedia.org/wiki/McDonald's_Corporation)
-- [McDonald's Corporation suppliers manufacturers](https://en.wikipedia.org/wiki/McDonald's)
-- [McDonald's Corporation suppliers manufacturers](https://www.youtube.com/channel/UCNQq5T_iBwM6zi2_lOGPnGA)
-- [McDonald's Corporation major customers clients](https://en.wikipedia.org/wiki/McDonald's)
-- [McDonald's Corporation major customers clients](https://corporate.mcdonalds.com/content/dam/sites/corp/nfl/pdf/McD+-+2024+Annual+Report+to+Shareholders.pdf)
+- [MCD](https://en.wikipedia.org/wiki/MCD)
+- [MCD suppliers manufacturers](https://www.mcdoven.com/)
+- [MCD suppliers manufacturers](https://csimarket.com/stocks/suppliers_glance.php?code=MCD)
+- [MCD major customers clients](https://csimarket.com/stocks/MCD-Customers)
+- [MCD major customers clients](https://businessmodelanalyst.com/mcdonalds-target-market/)
 
 ## 元数据
 
-- **更新日期**: 2026-05-07
+- **更新日期**: 2026-08-04

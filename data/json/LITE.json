@@ -2,12 +2,36 @@
   "ticker": "LITE",
   "company_name": "Lumentum Holdings Inc.",
   "sector": "Technology",
-  "industry": "Communication Equipment",
-  "upstream": [],
-  "downstream": [],
-  "competitors": [],
-  "key_products": [],
-  "extracted_at": "2026-08-03 19:12:05",
+  "industry": "Optical Components / Photonics",
+  "upstream": [
+    "Silica fiber manufacturers",
+    "Laser diode manufacturers",
+    "Rare earth element suppliers",
+    "Photonic crystal manufacturers",
+    "Optical glass suppliers"
+  ],
+  "downstream": [
+    "CSCO",
+    "Data center infrastructure providers",
+    "Semiconductor manufacturers",
+    "Defense and aerospace contractors",
+    "Medical imaging equipment manufacturers"
+  ],
+  "competitors": [
+    "II-VI Incorporated",
+    "Coherent Inc.",
+    "Trumpf GmbH + Co. KG",
+    "Lumen Technologies",
+    "Thorlabs"
+  ],
+  "key_products": [
+    "Optical transceivers",
+    "Photonic integrated circuits",
+    "Laser diodes",
+    "Optical amplifiers",
+    "Fiber optic components"
+  ],
+  "extracted_at": "2026-08-04 17:32:00",
   "sources": [
     {
       "source": "Wikipedia",
@@ -17,15 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.lumentum.com/",
+      "url": "https://en.wikipedia.org/wiki/Lumentum",
       "query": "Lumentum Holdings Inc. suppliers manufacturers",
+      "snippet": "Lumentum Holdings Inc . is an American manufacturer of optical and photonic products. It was created in 2015 as a spinoff from JDSU."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/LITE-Suppliers",
+      "query": "Lumentum Holdings Inc. suppliers manufacturers",
+      "snippet": "Jul 7, 2026 · Lumentum Holdings Inc supply chain, list and performance of Lumentum Holdings Incs ' suppliers - CSIMarket"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.lumentum.com/",
+      "query": "Lumentum Holdings Inc. major customers clients",
       "snippet": "Discover how Lumentum enables innovation through optical and photonic technologies for cloud networking, 3D sensing, lasers, and advanced manufacturin"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/LITE-Financial-Strength-Comparisons.html",
-      "query": "Lumentum Holdings Inc. suppliers manufacturers",
-      "snippet": "Lumentum Holdings Inc 's Quick, Working Capital, Debt to Equity, Leverage and Interest Coverage Ratio, Comparisons to Industry Sector and S&P. Lumentu"
+      "url": "https://in.investing.com/news/swot-analysis/lumentum-holdings-incs-swot-analysis-optical-stock-rides-ai-wave-93CH-5414541",
+      "query": "Lumentum Holdings Inc. major customers clients",
+      "snippet": "Lumentum Holdings Inc . (NASDAQ:LITE) has emerged as a critical supplier in the rapidly expanding artificial intelligence infrastructure market, posit"
     }
   ]
 }

@@ -3,8 +3,8 @@ ticker: LLY
 company: Eli Lilly and Company
 sector: Healthcare
 industry: Drug Manufacturers - General
-extracted_at: 2026-08-03 19:20:09
-last_updated: 2026-08-03
+extracted_at: 2026-08-04 17:34:38
+last_updated: 2026-08-04
 ---
 
 # LLY - Eli Lilly and Company
@@ -12,46 +12,46 @@ last_updated: 2026-08-03
 ## 基本信息
 
 - **所属行业**: Healthcare / Drug Manufacturers - General
-- **提取时间**: 2026-08-03 19:20:09
+- **提取时间**: 2026-08-04 17:34:38
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Active Pharmaceutical Ingredient (API) suppliers]]
-- [[Contract manufacturing organizations (CMOs)]]
-- [[Packaging material suppliers]]
-- [[Laboratory equipment manufacturers]]
-- [[Chemical raw material suppliers]]
+- [[Lonza Group AG]]
+- [[CAT]]
+- [[Thermo Fisher Scientific]]
+- [[Merck KGaA]]
+- [[Boehringer Ingelheim]]
 
 ### 下游客户
-- [[Hospitals and health systems]]
-- [[Pharmacies and drugstores]]
-- [[Government health agencies (e.g., FDA, CDC)]]
-- [[International health organizations (e.g., WHO)]]
-- [[Retail pharmaceutical distributors]]
+- [[UnitedHealth Group]]
+- [[Kaiser Permanente]]
+- [[CVS Health]]
+- [[Walgreens Boots Alliance]]
+- [[McKesson Corporation]]
 
 ### 竞争对手
-- [[Pfizer]]
+- [[Pfizer Inc.]]
 - [[Johnson & Johnson]]
 - [[Merck & Co.]]
-- [[Novartis]]
-- [[AbbVie]]
+- [[Novartis AG]]
+- [[Roche Holding AG]]
 
 ### 核心产品
 - [[Humira (adalimumab)]]
-- [[Mounjaro (tirzepatide)]]
-- [[Lantus (insulin glargine)]]
-- [[Humalog (insulin lispro)]]
-- [[Alimta (pemetrexed)]]
+- [[Cymbalta (duloxetine)]]
+- [[Zyprexa (olanzapine)]]
+- [[Cialis (tadalafil)]]
+- [[Trulicity (dulaglutide)]]
 
 ## 数据来源
 
 - [LLY](https://en.wikipedia.org/wiki/LLY)
+- [LLY suppliers manufacturers](https://en.wikipedia.org/wiki/Eli_Lilly_and_Company)
 - [LLY suppliers manufacturers](https://csimarket.com/stocks/LLY-Suppliers)
-- [LLY suppliers manufacturers](https://chinacorrugator.en.alibaba.com/en_US/company_profile.html)
-- [LLY major customers clients](https://www.13radar.com/stock/lly)
-- [LLY major customers clients](https://www.tradingview.com/symbols/NYSE-LLY/)
+- [LLY major customers clients](https://www.nullexposure.com/customers/lly)
+- [LLY major customers clients](https://www.stockjabber.com/company/LLY/company-insights)
 
 ## 元数据
 
-- **更新日期**: 2026-08-03
+- **更新日期**: 2026-08-04

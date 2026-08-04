@@ -5,33 +5,33 @@
   "industry": "Cybersecurity",
   "upstream": [
     "INTC",
-    "QCOM",
-    "005930.KS",
-    "MU",
-    "AVGO"
+    "AMD",
+    "CSCO",
+    "DELL",
+    "HPQ"
   ],
   "downstream": [
-    "Wipro",
-    "Tyson Foods",
-    "Citigroup",
     "Bank of America",
-    "UnitedHealth"
+    "Walmart",
+    "MSFT",
+    "AMZN",
+    "GOOGL"
   ],
   "competitors": [
     "CSCO",
     "Fortinet",
     "Check Point Software Technologies",
-    "JNPR",
-    "CrowdStrike"
+    "CrowdStrike",
+    "Sophos"
   ],
   "key_products": [
     "Next-Generation Firewall",
     "Prisma Cloud",
     "Cortex XDR",
     "Cortex XSOAR",
-    "Unit 42"
+    "Unit 42 threat intelligence"
   ],
-  "extracted_at": "2026-08-03 19:42:19",
+  "extracted_at": "2026-08-04 17:38:19",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.paloaltonetworks.com/industry/manufacturing",
-      "query": "Palo Alto Networks, Inc. suppliers manufacturers",
-      "snippet": "As Industry 4.0 unfolds and the internet of things (IoT) expands, manufacturers are deploying next-gen technologies at scale. Despite the do-or-die pa"
-    },
-    {
-      "source": "DuckDuckGo",
       "url": "https://paloaltonetworks.my.site.com/NextWavePartnerProgram/s/partnerlocator",
       "query": "Palo Alto Networks, Inc. suppliers manufacturers",
-      "snippet": "Distributors Extend Palo Alto Networks partners reach to address customer demand for Palo Alto Networks security solutions, services and support on a "
+      "snippet": "Find a Partner Reseller Resell and integrate Palo Alto Networks products and services to create solutions that deliver positive security outcomes for "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.paloaltonetworks.com/customers",
-      "query": "Palo Alto Networks, Inc. major customers clients",
-      "snippet": "Discover how leading global brands like Wipro and Tyson Foods secure their operations with Palo Alto Networks . Explore customer success stories in cy"
+      "url": "https://www.paloaltonetworks.com/industry/manufacturing",
+      "query": "Palo Alto Networks, Inc. suppliers manufacturers",
+      "snippet": "Ensure secure access for suppliers and partners. By addressing the security roadblocks that slow down 5G, IoT, and SD-WAN adoption, Palo Alto Networks"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.appsruntheworld.com/customers-database/vendors/view/palo-alto-networks",
+      "url": "https://www.paloaltonetworks.com/",
       "query": "Palo Alto Networks, Inc. major customers clients",
-      "snippet": "List of companies using or evaluating Palo Alto Networks applications, with details on their revenues, employees, industries, and locations."
+      "snippet": "Palo Alto Networks : Cloud Security Leader in First-Ever CNAPP ReportFrostRadar™ names Palo Alto Networks a CNAPP LeaderOverall leader : 2024 Leadersh"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://finance.yahoo.com/news/palo-alto-networks-panw-guys-143454301.html",
+      "query": "Palo Alto Networks, Inc. major customers clients",
+      "snippet": "Palo Alto Networks , Inc . (NASDAQ:PANW) is one of the stocks Jim Cramer recently discussed.So you call Nitesh Arora, Palo Alto . . . . These guys are"
     }
   ]
 }

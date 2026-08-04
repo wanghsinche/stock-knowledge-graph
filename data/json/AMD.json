@@ -7,8 +7,8 @@
     "TSM",
     "005930.KS",
     "GlobalFoundries",
-    "INTC",
-    "MU"
+    "UMC",
+    "SMIC"
   ],
   "downstream": [
     "DELL",
@@ -22,16 +22,16 @@
     "NVDA",
     "QCOM",
     "AVGO",
-    "ARM"
+    "TXN"
   ],
   "key_products": [
     "Ryzen CPUs",
-    "EPYC servers",
+    "EPYC server CPUs",
     "Radeon GPUs",
-    "Radeon Instinct accelerators",
-    "AMD GPUs for gaming and data centers"
+    "Xilinx FPGAs",
+    "Radeon Instinct accelerators"
   ],
-  "extracted_at": "2026-08-03 18:16:54",
+  "extracted_at": "2026-08-04 17:29:58",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/AMD-Suppliers",
-      "query": "AMD suppliers manufacturers",
-      "snippet": "Jul 7, 2026 · Advanced Micro Devices Inc's Suppliers Performance AMD 's Supply Chain Download as CSV Commercial Data Licensing & OEM Annual commercial"
-    },
-    {
-      "source": "DuckDuckGo",
       "url": "https://www.amd.com/en/partner/about-partners/authorized-distributors.html",
       "query": "AMD suppliers manufacturers",
       "snippet": "Explore authorized AMD master distributors of consumer, commercial, server, and embedded AMD components, including CPUs, GPUs, cooling solutions, and "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finviz.com/stock?t=AMD",
-      "query": "AMD major customers clients",
-      "snippet": "Advanced Micro Devices Inc. Last Close. 521.95.Intel and AMD are locking in Chinese data-center customers with long-term server chip deals as prices s"
+      "url": "https://csimarket.com/stocks/AMD-Suppliers",
+      "query": "AMD suppliers manufacturers",
+      "snippet": "Jul 7, 2026 · Advanced Micro Devices Inc's Suppliers Performance AMD 's Supply Chain Download as CSV Commercial Data Licensing & OEM Annual commercial"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.thestreet.com/investing/stocks/amd-ceo-doubles-down-on-ai-stock-market-cpu-meaningful-work",
+      "url": "https://csimarket.com/stocks/markets_glance.php?code=AMD",
       "query": "AMD major customers clients",
-      "snippet": "AMD CEO Lisa Su says AI has hit an inflection point as inference surpasses training. Here's what it means for AMD stock, the Anthropic deal, and Q2 ea"
+      "snippet": "June 23, 2026 - Advanced Micro Devices Inc customers and markets, results by customer and performance relative to AMD, by company and industry - CSIMa"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.amd.com/en/resources/case-studies.html",
+      "query": "AMD major customers clients",
+      "snippet": "March 19, 2024 - Explore how customers are driving innovation and advancing their business with AMD and partner-driven solutions."
     }
   ]
 }

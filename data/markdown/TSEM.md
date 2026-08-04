@@ -3,8 +3,8 @@ ticker: TSEM
 company: Tower Semiconductor Ltd.
 sector: Technology
 industry: Semiconductors
-extracted_at: 2026-05-13 18:03:26
-last_updated: 2026-05-13
+extracted_at: 2026-08-04 17:41:06
+last_updated: 2026-08-04
 ---
 
 # TSEM - Tower Semiconductor Ltd.
@@ -12,46 +12,46 @@ last_updated: 2026-05-13
 ## 基本信息
 
 - **所属行业**: Technology / Semiconductors
-- **提取时间**: 2026-05-13 18:03:26
+- **提取时间**: 2026-08-04 17:41:06
 
 ## 产业链关系
 
 ### 上游供应商
+- [[Silicon wafer suppliers]]
+- [[Chemical suppliers]]
 - [[AMAT]]
-- [[Tokyo Electron]]
-- [[LRCX]]
-- [[ASML]]
-- [[KLA Corporation]]
+- [[Photolithography equipment]]
+- [[Cleanroom facilities]]
 
 ### 下游客户
 - [[QCOM]]
 - [[AVGO]]
-- [[AAPL]]
-- [[NVDA]]
-- [[INTC]]
+- [[ADI]]
+- [[TXN]]
+- [[NXP Semiconductors]]
 
 ### 竞争对手
 - [[GlobalFoundries]]
 - [[TSM]]
 - [[UMC]]
 - [[005930.KS]]
-- [[SMIC]]
+- [[INTC]]
 
 ### 核心产品
-- [[300mm analog foundry wafers]]
-- [[RF and power management chips]]
-- [[MEMS fabrication]]
-- [[High-performance analog ICs]]
-- [[Advanced packaging services]]
+- [[Advanced semiconductor foundry services]]
+- [[Analog/mixed-signal process nodes]]
+- [[Power management chips]]
+- [[RF and high‑frequency devices]]
+- [[Specialty process technologies (e.g., 300mm wafers)]]
 
 ## 数据来源
 
 - 
-- [Tower Semiconductor Ltd. suppliers manufacturers](https://en.wikipedia.org/wiki/Tower_Semiconductor)
-- [Tower Semiconductor Ltd. suppliers manufacturers](https://towersemi.com/)
-- [Tower Semiconductor Ltd. major customers clients](https://www.centralcharts.com/en/5968-tower-semiconductor/news/5602259-tower-semiconductor-signs-customer-contracts-for-1-3-billion-silicon-photonics-revenue-for-2027)
-- [Tower Semiconductor Ltd. major customers clients](https://www.fool.com/investing/2026/05/09/why-tower-semiconductor-rallied-in-april/)
+- [Tower Semiconductor Ltd. suppliers manufacturers](https://www.iqep.com/media/press-releases/2026/iqe-and-tower-semiconductor-announce-multi-year-inp-epiwafer-supply-agreement/)
+- [Tower Semiconductor Ltd. suppliers manufacturers](https://www.design-reuse.com/news/202517108-dongwoon-anatech-selects-tower-semiconductor-as-sole-manufacturing-partner-for-high-volume-led-lighting-devices-/)
+- [Tower Semiconductor Ltd. major customers clients](https://en.wikipedia.org/wiki/Tower_Semiconductor)
+- [Tower Semiconductor Ltd. major customers clients](https://csimarket.com/stocks/TSEM-Customers)
 
 ## 元数据
 
-- **更新日期**: 2026-05-13
+- **更新日期**: 2026-08-04

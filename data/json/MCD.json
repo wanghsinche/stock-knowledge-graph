@@ -1,21 +1,21 @@
 {
   "ticker": "MCD",
   "company_name": "McDonald's Corporation",
-  "sector": "Consumer Cyclical / Restaurants",
-  "industry": "Fast Food Restaurants",
+  "sector": "Consumer Cyclical",
+  "industry": "Restaurants",
   "upstream": [
-    "McCain Foods (fries)",
-    "Tyson Foods (beef)",
+    "McCain Foods (potatoes)",
+    "Tyson Foods (chicken)",
     "Cargill (beef)",
-    "Hormel Foods (chicken)",
-    "Bunge Limited (vegetables)"
+    "McCormick & Company (spices)",
+    "Nestlé (coffee)"
   ],
   "downstream": [
-    "Global consumer base",
     "Franchisee restaurants",
-    "Corporate office clients",
+    "Corporate-owned restaurants",
+    "CAT",
     "Online delivery partners",
-    "CAT"
+    "Corporate events"
   ],
   "competitors": [
     "Burger King",
@@ -27,41 +27,41 @@
   "key_products": [
     "Big Mac",
     "Quarter Pounder with Cheese",
-    "Chicken McNuggets",
     "McChicken",
-    "Filet‑O‑Fish"
+    "McFlurry",
+    "McCafe coffee"
   ],
-  "extracted_at": "2026-05-07 17:50:26",
+  "extracted_at": "2026-08-04 17:40:49",
   "sources": [
     {
       "source": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/McDonald's_Corporation",
-      "title": "McDonald's",
-      "snippet": "McDonald's Corporation, doing business as McDonald's, is an American multinational fast food restaurant chain. As of 2024, it is the largest by revenue and second-largest by number of locations in the"
+      "url": "https://en.wikipedia.org/wiki/MCD",
+      "title": "MCD",
+      "snippet": "MCD, Mcd or mcd may refer to:"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/McDonald's",
-      "query": "McDonald's Corporation suppliers manufacturers",
-      "snippet": "McDonald ' s Corporation , doing business as McDonald ' s , is an American multinational fast food restaurant chain. As of 2024, it is the largest by "
+      "url": "https://www.mcdoven.com/",
+      "query": "MCD suppliers manufacturers",
+      "snippet": "MCD KAMADO is a bbq products and bbq grill supplier in China, with more than 10 years of manufacturing experience. Our products are mainly ceramic Kam"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.youtube.com/channel/UCNQq5T_iBwM6zi2_lOGPnGA",
-      "query": "McDonald's Corporation suppliers manufacturers",
-      "snippet": "McDonald ' s Corporation . @mcdonaldscorp. • 64.6K subscribers • 269 videos. McDonald ’ s is the world’s leading global foodservice retailer with over"
+      "url": "https://csimarket.com/stocks/suppliers_glance.php?code=MCD",
+      "query": "MCD suppliers manufacturers",
+      "snippet": "Mcdonald S supply chain, list and performance of Mcdonald Ss' suppliers - CSIMarket."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/McDonald's",
-      "query": "McDonald's Corporation major customers clients",
-      "snippet": "McDonald's Corporation , doing business as McDonald's , is an American multinational fast food restaurant chain. As of 2024, it is the largest by reve"
+      "url": "https://csimarket.com/stocks/MCD-Customers",
+      "query": "MCD major customers clients",
+      "snippet": "For your research, we’ve provided 9 tables on Mcdonald s Corporation corporate clients . You can find them in the navigation menu under Customers & Ma"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://corporate.mcdonalds.com/content/dam/sites/corp/nfl/pdf/McD+-+2024+Annual+Report+to+Shareholders.pdf",
-      "query": "McDonald's Corporation major customers clients",
-      "snippet": "This was especially evident this past year, as we navigated various headwinds like the impact of infl ation for our customers , geopolitical events, a"
+      "url": "https://businessmodelanalyst.com/mcdonalds-target-market/",
+      "query": "MCD major customers clients",
+      "snippet": "Jun 1, 2026 · This article explores the various dimensions of McDonald ' s target market, shedding light on the demographic and psychographic factors "
     }
   ]
 }

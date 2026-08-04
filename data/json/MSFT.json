@@ -4,34 +4,34 @@
   "sector": "Technology",
   "industry": "Software - Infrastructure",
   "upstream": [
+    "DELL",
+    "HPQ",
+    "Lenovo Group",
     "INTC",
-    "AMD",
-    "NVDA",
-    "TSM",
-    "QCOM"
+    "NVDA"
   ],
   "downstream": [
-    "Enterprise customers (e.g., banks, government agencies)",
+    "Enterprise customers",
+    "Government agencies",
     "DELL",
-    "Cloud service users (Azure)",
-    "Consumers (Windows PCs, Surface, Xbox)",
-    "MSFT"
+    "Gamers",
+    "Small and medium businesses"
   ],
   "competitors": [
     "AAPL",
     "GOOGL",
     "AMZN",
-    "IBM",
-    "ORCL"
+    "ORCL",
+    "IBM"
   ],
   "key_products": [
-    "Windows operating system",
-    "Microsoft Office Suite",
-    "Azure cloud platform",
-    "Surface hardware line",
-    "Xbox gaming console"
+    "Windows OS",
+    "Microsoft Office",
+    "Azure Cloud",
+    "Surface devices",
+    "Xbox"
   ],
-  "extracted_at": "2026-08-03 17:53:25",
+  "extracted_at": "2026-08-04 17:29:17",
   "sources": [
     {
       "source": "Wikipedia",
@@ -53,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://copilot.microsoft.com/",
+      "url": "https://csimarket.com/stocks/MSFT-Customers",
       "query": "Microsoft Corporation major customers clients",
-      "snippet": "Microsoft Copilot — ваш компаньон для информирования, развлечения и вдохновения. Получайте советы, отзывы и прямые ответы."
+      "snippet": "For your research, we’ve provided 9 tables on Microsoft Corporation corporate clients . You can find them in the navigation menu under Customers & Mar"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.tradingview.com/symbols/NASDAQ-MSFT/",
+      "url": "https://www.microsoft.com/en-us/customers/",
       "query": "Microsoft Corporation major customers clients",
-      "snippet": "View live Microsoft Corp . chart to track its stock's price action. Find market predictions, MSFT financials and market news. Microsoft Corp engages i"
+      "snippet": "Explore customer success stories to learn how businesses are overcoming challenges, driving innovation, and achieving more with Microsoft solutions."
     }
   ]
 }

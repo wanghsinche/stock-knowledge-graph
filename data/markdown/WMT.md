@@ -1,57 +1,57 @@
 ---
 ticker: WMT
 company: Walmart Inc.
-sector: Consumer Defensive
-industry: Discount Stores
-extracted_at: 2026-08-03 19:33:29
-last_updated: 2026-08-03
+sector: Consumer Defensive / Discount Stores
+industry: Retail - Discount Stores
+extracted_at: 2026-08-04 17:37:53
+last_updated: 2026-08-04
 ---
 
 # WMT - Walmart Inc.
 
 ## 基本信息
 
-- **所属行业**: Consumer Defensive / Discount Stores
-- **提取时间**: 2026-08-03 19:33:29
+- **所属行业**: Consumer Defensive / Discount Stores / Retail - Discount Stores
+- **提取时间**: 2026-08-04 17:37:53
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Food manufacturers]]
-- [[Apparel manufacturers]]
-- [[Electronics manufacturers]]
-- [[Pharmacy suppliers]]
-- [[Fuel suppliers]]
+- [[Procter & Gamble]]
+- [[Coca‑Cola]]
+- [[Nike]]
+- [[Johnson & Johnson]]
+- [[General Mills]]
 
 ### 下游客户
 - [[Individual consumers]]
-- [[Online shoppers]]
 - [[Small businesses]]
-- [[Corporate clients]]
-- [[Government agencies]]
+- [[Local grocery stores]]
+- [[Pharmacy customers]]
+- [[Online shoppers]]
 
 ### 竞争对手
 - [[Target]]
 - [[Costco]]
-- [[Dollar General]]
-- [[Aldi]]
-- [[BJ's Wholesale Club]]
+- [[AMZN]]
+- [[BJ’s Wholesale Club]]
+- [[Kroger]]
 
 ### 核心产品
 - [[Groceries]]
+- [[Household goods]]
 - [[Apparel]]
 - [[Electronics]]
-- [[Household goods]]
 - [[Pharmacy products]]
 
 ## 数据来源
 
 - [Walmart](https://en.wikipedia.org/wiki/Walmart_Inc.)
-- [Walmart Inc. suppliers manufacturers](https://corporate.walmart.com/suppliers)
-- [Walmart Inc. suppliers manufacturers](https://csimarket.com/stocks/WMT-Suppliers)
-- [Walmart Inc. major customers clients](https://www.walmart.com/)
-- [Walmart Inc. major customers clients](https://www.walmart.ca/)
+- [Walmart Inc. suppliers manufacturers](https://csimarket.com/stocks/suppliers_glance.php?code=WMT)
+- [Walmart Inc. suppliers manufacturers](https://www.walmart.com/)
+- [Walmart Inc. major customers clients](https://capitaloneshopping.com/research/walmart-statistics/)
+- [Walmart Inc. major customers clients](https://csimarket.com/stocks/WMT-Customers)
 
 ## 元数据
 
-- **更新日期**: 2026-08-03
+- **更新日期**: 2026-08-04

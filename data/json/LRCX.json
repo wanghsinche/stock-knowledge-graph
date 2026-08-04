@@ -4,34 +4,34 @@
   "sector": "Technology",
   "industry": "Semiconductor Equipment & Materials",
   "upstream": [
-    "AMAT",
-    "Tokyo Electron",
-    "KLA",
-    "ASML",
-    "3M"
+    "Silicon wafer manufacturers (e.g., Shin-Etsu Chemical, Sumitomo Chemical)",
+    "Chemical suppliers (e.g., Air Liquide, Linde)",
+    "Gaseous process suppliers (e.g., Air Liquide, Linde)",
+    "Equipment parts suppliers (e.g., ABB, Siemens)",
+    "META"
   ],
   "downstream": [
-    "INTC",
     "TSM",
     "005930.KS",
+    "INTC",
     "MU",
     "GlobalFoundries"
   ],
   "competitors": [
     "AMAT",
     "Tokyo Electron",
-    "KLA",
+    "KLA Corporation",
     "ASML",
     "LRCX"
   ],
   "key_products": [
-    "Etch systems",
+    "Plasma etch systems",
     "Deposition systems",
     "Wafer cleaning equipment",
-    "Plasma etch tools",
-    "Wafer-level packaging (WLP) equipment"
+    "Back‑end wafer‑level packaging (WLP) tools",
+    "MEMS manufacturing equipment"
   ],
-  "extracted_at": "2026-08-03 19:27:19",
+  "extracted_at": "2026-08-04 17:36:05",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,7 +43,7 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Lam_Research",
       "query": "Lam Research Corporation suppliers manufacturers",
-      "snippet": "Lam Research Corporation is an American supplier of wafer-fabrication equipment and related services to the semiconductor industry . [2] Its products "
+      "snippet": "Lam Research designs and builds products for semiconductor manufacturing, including equipment for thin film deposition, plasma etch, photoresist strip"
     },
     {
       "source": "DuckDuckGo",
@@ -53,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/LRCX-Customers",
+      "url": "https://www.marketscreener.com/news/lam-research-beats-expectations-forecasts-sustained-growth-fueled-by-ai-ce7f51d3de8cf124",
       "query": "Lam Research Corporation major customers clients",
-      "snippet": "5 days ago · Lam Research 's Comment on Sales, Marketing and Customers Our marketing, sales, and service efforts are focused on building long-term rel"
+      "snippet": "Lam Research Corporation is a global supplier of wafer fabrication equipment and services to the semiconductor industry. The Company designs, manufact"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.makesureiknowit.com/blog/who-are-lam-research-customers",
+      "url": "https://investor.lamresearch.com/2026-07-29-Lam-Research-Corporation-Reports-Financial-Results-for-the-Quarter-Ended-June-28,-2026",
       "query": "Lam Research Corporation major customers clients",
-      "snippet": "Jul 2, 2026 · Lam Research sells the etch and deposition machines that make modern memory chips possible — so its customers are the world's biggest me"
+      "snippet": "LAM RESEARCH CORPORATION CONDENSED CONSOLIDATED BALANCE SHEETS (in thousands). June 28, 2026. March 29, 2026. Lam Research Corporation Contact: Ram Ga"
     }
   ]
 }

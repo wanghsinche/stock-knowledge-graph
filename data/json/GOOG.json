@@ -4,17 +4,17 @@
   "sector": "Communication Services",
   "industry": "Internet Content & Information",
   "upstream": [
+    "TSM",
     "INTC",
-    "005930.KS",
     "QCOM",
     "NVDA",
-    "AVGO"
+    "005930.KS"
   ],
   "downstream": [
     "GOOGL",
+    "GOOGL",
     "Android device manufacturers",
     "YouTube content creators",
-    "GOOGL",
     "GOOGL"
   ],
   "competitors": [
@@ -27,11 +27,11 @@
   "key_products": [
     "Google Search",
     "Android OS",
-    "Google Cloud Platform",
     "YouTube",
+    "Google Cloud Platform",
     "Google Ads"
   ],
-  "extracted_at": "2026-08-03 18:27:33",
+  "extracted_at": "2026-08-04 17:32:30",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/GOOG-Suppliers",
+      "url": "https://en.wikipedia.org/wiki/Alphabet_Inc.",
       "query": "Alphabet Inc. suppliers manufacturers",
-      "snippet": "Jul 24, 2026 · Alphabet Inc 's Comment on Supply Chain We rely on third parties to manufacture many of our assemblies and finished products, and we ha"
+      "snippet": "Alphabet Inc. is an American multinational technology conglomerate holding company headquartered in Mountain View, California."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/GOOGL-Suppliers",
+      "url": "https://www.investopedia.com/investing/companies-owned-by-google/",
       "query": "Alphabet Inc. suppliers manufacturers",
-      "snippet": "Jul 24, 2026 · Sources: Alphabet Inc 's official press releases and regulatory filings; CSIMarket.com's supply -chain research; and the financial fili"
+      "snippet": "Seven major companies owned by Alphabet are YouTube, Waze, DoubleClick, Nest, Looker, Fitbit, and Mandiant."
     },
     {
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Alphabet_Inc.",
       "query": "Alphabet Inc. major customers clients",
-      "snippet": "Alphabet Inc . is an American multinational technology conglomerate holding company headquartered in Mountain View, California. It was created through"
+      "snippet": "Alphabet Inc . has faced numerous legal and ethical controversies, including a 2017 lawsuit against Uber over stolen self-driving technology, a 2020 p"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://csimarket.com/stocks/GOOGL-Customers",
       "query": "Alphabet Inc. major customers clients",
-      "snippet": "Feb 9, 2026 · Alphabet Inc customers and markets, results by customer and performance relative to GOOGL, by company and industry - CSIMarket"
+      "snippet": "Feb 9, 2026 · Updated on: Focus of this report: Alphabet Inc ’s corporate clients . For your research, we’ve provided 9 tables on Alphabet Inc corpora"
     }
   ]
 }

@@ -5,17 +5,17 @@
   "industry": "Software - Infrastructure",
   "upstream": [
     "INTC",
-    "005930.KS",
+    "AMD",
     "NVDA",
-    "CSCO",
-    "DELL"
+    "005930.KS",
+    "SK Hynix"
   ],
   "downstream": [
-    "AMZN",
-    "GOOGL",
-    "MSFT",
-    "Bank of America",
-    "Walmart"
+    "Financial services firms",
+    "Government agencies",
+    "Healthcare providers",
+    "Retail enterprises",
+    "CAT"
   ],
   "competitors": [
     "MSFT",
@@ -28,10 +28,10 @@
     "Oracle Database",
     "Oracle Cloud Infrastructure",
     "Oracle Autonomous Database",
-    "Oracle E-Business Suite",
-    "Oracle Fusion Middleware"
+    "Oracle Fusion Cloud ERP",
+    "Oracle Analytics Cloud"
   ],
-  "extracted_at": "2026-08-03 18:34:32",
+  "extracted_at": "2026-08-04 17:32:18",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.oracle.com/corporate/suppliers/",
+      "url": "https://adjkjc.github.io/en.wikipedia.org/wiki/Oracle_Corporation.html",
       "query": "Oracle Corporation suppliers manufacturers",
-      "snippet": "Doing Business with Oracle Oracle iSupplier Portal (iSP) is a secured self-service tool, which provides Oracle 's suppliers with the ability to use a "
+      "snippet": "Oracle designs, manufactures , and sells both software and hardware products, as well as offering services that complement them (such as financing, tr"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/ORCL-Suppliers",
+      "url": "https://ru.wikipedia.org/wiki/Oracle",
       "query": "Oracle Corporation suppliers manufacturers",
-      "snippet": "Jul 7, 2026 · To produce our hardware products, we rely on both our internal manufacturing operations as well as third party manufacturing partners. O"
+      "snippet": "Oracle ( Oracle Corporation ) — американская корпорация, второй по размеру выручки разработчик программного обеспечения (после Microsoft), четвёртая к"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/ORCL-Customers",
+      "query": "Oracle Corporation major customers clients",
+      "snippet": "For your research, we’ve provided 9 tables on Oracle Corporation corporate clients . You can find them in the navigation menu under Customers & Market"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.thomsondata.com/customer-base/oracle.php",
       "query": "Oracle Corporation major customers clients",
-      "snippet": "An Oracle customers list is a data set that provides contact leads for marketing and promotional efforts. In the context of Oracle, such lists host in"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.oracle.com/customers/",
-      "query": "Oracle Corporation major customers clients",
-      "snippet": "Oracle Customer Successes Innovation, ease of use, better results—those are just some of the reasons organizations in all industries and of all sizes "
+      "snippet": "Thomson Data makes it easy by offering an accurate and up-to-date list of companies that use Oracle. This list allows you to identify Oracle customers"
     }
   ]
 }

@@ -3,8 +3,8 @@ ticker: NOW
 company: ServiceNow, Inc.
 sector: Technology
 industry: Software - Application
-extracted_at: 2026-08-03 19:17:26
-last_updated: 2026-08-03
+extracted_at: 2026-08-04 17:39:29
+last_updated: 2026-08-04
 ---
 
 # NOW - ServiceNow, Inc.
@@ -12,7 +12,7 @@ last_updated: 2026-08-03
 ## 基本信息
 
 - **所属行业**: Technology / Software - Application
-- **提取时间**: 2026-08-03 19:17:26
+- **提取时间**: 2026-08-04 17:39:29
 
 ## 产业链关系
 
@@ -20,38 +20,38 @@ last_updated: 2026-08-03
 - [[AMZN]]
 - [[MSFT]]
 - [[GOOGL]]
-- [[ORCL]]
 - [[IBM]]
+- [[DELL]]
 
 ### 下游客户
 - [[Walmart]]
-- [[AT&T]]
 - [[JPMorgan Chase]]
-- [[Bank of America]]
-- [[Coca‑Cola]]
+- [[AT&T]]
+- [[Verizon]]
+- [[CSCO]]
 
 ### 竞争对手
 - [[CRM]]
 - [[MSFT]]
 - [[SAP SuccessFactors]]
 - [[ORCL]]
-- [[IBM]]
+- [[Workday]]
 
 ### 核心产品
-- [[ServiceNow Platform]]
+- [[Now Platform]]
 - [[IT Service Management (ITSM)]]
 - [[IT Operations Management (ITOM)]]
+- [[IT Business Management (ITBM)]]
 - [[Customer Service Management (CSM)]]
-- [[HR Service Delivery]]
 
 ## 数据来源
 
 - [ServiceNow](https://en.wikipedia.org/wiki/ServiceNow,_Inc.)
 - [ServiceNow, Inc. suppliers manufacturers](https://www.servicenow.com/)
-- [ServiceNow, Inc. suppliers manufacturers](https://www.youtube.com/watch?v=eftWvqkeiTg)
+- [ServiceNow, Inc. suppliers manufacturers](https://www.insidermonkey.com/blog/analyzing-servicenows-now-unique-position-in-workflow-automation-1805859/)
 - [ServiceNow, Inc. major customers clients](https://www.servicenow.com/)
-- [ServiceNow, Inc. major customers clients](https://puffling.co/companies/now/)
+- [ServiceNow, Inc. major customers clients](https://www.investing.com/equities/servicenow-inc?cid=1248131)
 
 ## 元数据
 
-- **更新日期**: 2026-08-03
+- **更新日期**: 2026-08-04

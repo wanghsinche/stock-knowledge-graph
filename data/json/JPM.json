@@ -5,65 +5,63 @@
   "industry": "Banks - Diversified",
   "upstream": [
     "MSFT",
-    "Consulting firms (Accenture, Deloitte)",
-    "Payment processors (Visa, Mastercard)",
-    "Data providers (Bloomberg, Thomson Reuters)",
-    "Legal and compliance service providers"
+    "Payment processors (e.g., Visa, Mastercard)",
+    "Data providers (e.g., Bloomberg, Thomson Reuters)",
+    "Cloud service providers (e.g., AWS, Azure)",
+    "Regulatory bodies (e.g., Federal Reserve)"
   ],
   "downstream": [
     "Retail banking customers",
     "Corporate clients",
     "Institutional investors",
-    "Small and medium-sized businesses",
-    "Wealth management clients"
+    "Wealth management clients",
+    "Credit card holders"
   ],
   "competitors": [
-    "Bank of America (BAC)",
-    "Citigroup (C)",
-    "Wells Fargo (WFC)",
-    "Goldman Sachs (GS)",
-    "Morgan Stanley (MS)"
+    "Bank of America",
+    "Citigroup",
+    "Wells Fargo",
+    "Goldman Sachs",
+    "Morgan Stanley"
   ],
   "key_products": [
     "Retail banking services",
     "Investment banking",
     "Asset management",
     "Wealth management",
-    "Credit cards and consumer lending",
-    "Mortgage lending",
-    "Treasury and cash management"
+    "Credit cards"
   ],
-  "extracted_at": "2026-07-29 17:19:46",
+  "extracted_at": "2026-08-04 17:37:38",
   "sources": [
     {
       "source": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/JPMorgan_Chase_&_Co.",
-      "title": "JPMorgan Chase",
-      "snippet": "JPMorgan Chase & Co. is an American multinational banking institution headquartered in New York City and incorporated in Delaware. It is the largest bank in the United States, and the world's largest "
+      "url": "https://en.wikipedia.org/wiki/JPM",
+      "title": "JPM",
+      "snippet": "JPM may refer to:"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.jpmorganchase.com/about/suppliers",
+      "query": "JPM suppliers manufacturers",
+      "snippet": "At JPMorganChase , we place particular value in our supplier partnerships. Thanks to the help of a diverse range of suppliers and advisors, we are abl"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://csimarket.com/stocks/JPM-Suppliers",
+      "query": "JPM suppliers manufacturers",
+      "snippet": "Jun 14, 2026 · For your research, we’ve provided nine additional tables on Jpmorgan Chase and Co’s suppliers . You can find them in the navigation men"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/JPMorgan_Chase",
-      "query": "JPMorgan Chase & Co. suppliers manufacturers",
-      "snippet": "JPMorgan Chase & Co . (stylized as JPMorganChase ) is an American multinational banking institution headquartered in New York City and incorporated in"
+      "query": "JPM major customers clients",
+      "snippet": "JPMorgan Chase is the result of the combination of several large U.S. banking companies that merged since 1996, combining Chase Manhattan Bank, J . P "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ru.wikipedia.org/wiki/JPMorgan_Chase",
-      "query": "JPMorgan Chase & Co. suppliers manufacturers",
-      "snippet": "JPMorgan Chase & Co , «Дж. П. Морган Чейз и Ко.» — американский транснациональный финансовый конгломерат, один из крупнейших банков мира. Штаб-квартир"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/JPMorgan_Chase",
-      "query": "JPMorgan Chase & Co. major customers clients",
-      "snippet": "JPMorgan Chase & Co . (stylized as JPMorganChase ) is an American multinational banking institution headquartered in New York City and incorporated in"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.jpmorganchase.com/",
-      "query": "JPMorgan Chase & Co. major customers clients",
-      "snippet": "JPMorganChase serves millions of customers , clients and communities in over 100 global markets.Registration opens for San Francisco’s 40th JPMorganCh"
+      "url": "https://www.jpmorgan.com/login",
+      "query": "JPM major customers clients",
+      "snippet": "Morgan Money J.P Morgan Asset Management’s institutional liquidity management platform, Morgan Money, is a multi-currency, open architecture trading a"
     }
   ]
 }

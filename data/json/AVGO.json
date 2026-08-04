@@ -4,34 +4,34 @@
   "sector": "Technology",
   "industry": "Semiconductors",
   "upstream": [
-    "ASML",
-    "AMAT",
-    "LRCX",
-    "Tokyo Electron",
-    "KLA Corporation"
+    "TSM",
+    "005930.KS",
+    "GlobalFoundries",
+    "UMC",
+    "SMIC"
   ],
   "downstream": [
-    "CSCO",
-    "DELL",
     "AMZN",
     "MSFT",
-    "AAPL"
+    "GOOGL",
+    "CSCO",
+    "DELL"
   ],
   "competitors": [
     "INTC",
     "QCOM",
-    "MRVL",
+    "NVDA",
     "TXN",
-    "MediaTek"
+    "MRVL"
   ],
   "key_products": [
-    "RF and Wi-Fi chips",
-    "Ethernet controllers",
-    "Broadband modems",
-    "Storage controllers",
-    "Network processors"
+    "Broadcom BCM5700 Ethernet controller",
+    "Broadcom Wi‑Fi 6 chip",
+    "Broadcom LTE modem",
+    "Broadcom storage controller",
+    "Broadcom VMware software"
   ],
-  "extracted_at": "2026-08-03 18:41:23",
+  "extracted_at": "2026-08-04 17:31:33",
   "sources": [
     {
       "source": "Wikipedia",
@@ -53,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.broadcom.com/",
+      "url": "https://en.wikipedia.org/wiki/Broadcom",
       "query": "Broadcom Inc. major customers clients",
-      "snippet": "Broadcom delivers semiconductors and infrastructure software for global enterprises’ most complex, mission-critical needs."
+      "snippet": "Broadcom Inc . is an American multinational designer, developer, manufacturer, and global supplier of a wide range of semiconductor and infrastructure"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://x.com/Broadcom",
+      "url": "https://news.broadcom.com/category/customers",
       "query": "Broadcom Inc. major customers clients",
-      "snippet": "Broadcom Inc .Підтверджений профіль @ Broadcom ."
+      "snippet": "Jul 20, 2026 · Since Broadcom ’s acquisition of VMware at the end of 2023, organizations from home lab builders to midsize banks and large enterprises"
     }
   ]
 }

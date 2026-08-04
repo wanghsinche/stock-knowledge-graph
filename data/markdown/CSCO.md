@@ -2,17 +2,17 @@
 ticker: CSCO
 company: Cisco Systems, Inc.
 sector: Technology / Communication Equipment
-industry: Networking & Telecommunications Equipment
-extracted_at: 2026-07-28 17:28:43
-last_updated: 2026-07-28
+industry: Networking Equipment
+extracted_at: 2026-08-04 17:40:20
+last_updated: 2026-08-04
 ---
 
 # CSCO - Cisco Systems, Inc.
 
 ## 基本信息
 
-- **所属行业**: Technology / Communication Equipment / Networking & Telecommunications Equipment
-- **提取时间**: 2026-07-28 17:28:43
+- **所属行业**: Technology / Communication Equipment / Networking Equipment
+- **提取时间**: 2026-08-04 17:40:20
 
 ## 产业链关系
 
@@ -21,14 +21,14 @@ last_updated: 2026-07-28
 - [[AVGO]]
 - [[QCOM]]
 - [[TXN]]
-- [[MU]]
+- [[MRVL]]
 
 ### 下游客户
-- [[Enterprise IT departments]]
 - [[CAT]]
-- [[Government agencies]]
+- [[Enterprise IT Departments]]
+- [[Government Agencies]]
+- [[Internet Service Providers]]
 - [[CAT]]
-- [[Large enterprises]]
 
 ### 竞争对手
 - [[JNPR]]
@@ -38,20 +38,20 @@ last_updated: 2026-07-28
 - [[Ericsson]]
 
 ### 核心产品
-- [[Cisco routers]]
-- [[Cisco switches]]
-- [[Cisco firewalls (ASA)]]
-- [[Webex]]
+- [[Cisco IOS]]
+- [[Cisco Catalyst Switches]]
 - [[Cisco Meraki]]
+- [[Cisco Webex]]
+- [[Cisco OpenDNS]]
 
 ## 数据来源
 
 - [Cisco](https://en.wikipedia.org/wiki/Cisco_Systems,_Inc.)
-- [Cisco Systems, Inc. suppliers manufacturers](https://www.cisco.com/c/dam/en_us/about/supply-chain/cisco-supplier-list.pdf)
-- [Cisco Systems, Inc. suppliers manufacturers](https://www.cisco.com/c/en/us/about/suppliers.html)
-- [Cisco Systems, Inc. major customers clients](https://www.cisco.com/)
-- [Cisco Systems, Inc. major customers clients](https://www.linkedin.com/company/cisco)
+- [Cisco Systems, Inc. suppliers manufacturers](https://ru.wikipedia.org/wiki/Cisco)
+- [Cisco Systems, Inc. suppliers manufacturers](https://www.cisco.com/)
+- [Cisco Systems, Inc. major customers clients](https://ru.wikipedia.org/wiki/Cisco)
+- [Cisco Systems, Inc. major customers clients](https://cisco.com/)
 
 ## 元数据
 
-- **更新日期**: 2026-07-28
+- **更新日期**: 2026-08-04

@@ -1,37 +1,37 @@
 {
   "ticker": "SNDK",
-  "company_name": "Sandisk Corporation",
-  "sector": "Technology",
-  "industry": "Computer Hardware",
+  "company_name": "SanDisk Corporation",
+  "sector": "Technology / Computer Hardware",
+  "industry": "Semiconductor / Flash Memory",
   "upstream": [
-    "TSM",
-    "005930.KS",
-    "MU",
-    "SK Hynix",
-    "INTC"
+    "NAND flash memory manufacturers",
+    "Memory chip suppliers",
+    "Electronic component suppliers",
+    "PCB manufacturers",
+    "Packaging suppliers"
   ],
   "downstream": [
-    "AAPL",
     "DELL",
-    "HPQ",
-    "Lenovo",
-    "SONY"
+    "AAPL",
+    "Mobile device manufacturers",
+    "MSFT",
+    "Enterprise storage vendors"
   ],
   "competitors": [
     "005930.KS",
     "MU",
+    "SK Hynix",
     "INTC",
-    "WDC",
     "Kingston Technology"
   ],
   "key_products": [
-    "NAND flash memory",
-    "Solid-state drives (SSDs)",
-    "Memory cards",
+    "SD cards",
     "USB flash drives",
+    "Solid State Drives (SSDs)",
+    "Memory cards for cameras",
     "Embedded storage solutions"
   ],
-  "extracted_at": "2026-08-03 18:01:57",
+  "extracted_at": "2026-08-04 17:29:02",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Sandisk",
+      "url": "https://ru.wikipedia.org/wiki/SanDisk",
       "query": "Sandisk Corporation suppliers manufacturers",
-      "snippet": "4 days ago - Sandisk Corporation (formerly SunDisk Corporation and SanDisk ) is an American multinational computer semiconductor company based in Milp"
+      "snippet": "SanDisk — американская корпорация, занимавшаяся разработкой и производством носителей информации на базе флеш-памяти. Корпорация была основана в 1988 "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.sandisk.com/company/distributors",
+      "url": "https://www.sandisk.com/",
       "query": "Sandisk Corporation suppliers manufacturers",
-      "snippet": "Region · Loading Region · Country/Area · Loading Country/Area · Brand · Loading Brand · Distributors | SanDisk"
+      "snippet": "Sandisk online store members receive free standard shipping on all eligible orders.Offer must be redeemed by January 31, 2028, or while activation cod"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://ru.wikipedia.org/wiki/SanDisk",
+      "query": "Sandisk Corporation major customers clients",
+      "snippet": "SanDisk — американская корпорация, занимавшаяся разработкой и производством носителей информации на базе флеш-памяти. Корпорация была основана в 1988 "
     },
     {
       "source": "DuckDuckGo",
       "url": "https://www.sandisk.com/",
       "query": "Sandisk Corporation major customers clients",
       "snippet": "Sandisk online store members receive free standard shipping on all eligible orders."
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/SNDK/",
-      "query": "Sandisk Corporation major customers clients",
-      "snippet": "Find the latest Sandisk Corporation (SNDK) stock quote, history, news and other vital information to help you with your stock trading and investing."
     }
   ]
 }

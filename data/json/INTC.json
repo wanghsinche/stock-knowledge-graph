@@ -4,34 +4,34 @@
   "sector": "Technology",
   "industry": "Semiconductors",
   "upstream": [
-    "ASML",
-    "AMAT",
-    "LRCX",
-    "Tokyo Electron",
-    "KLA"
+    "TSM",
+    "005930.KS",
+    "GlobalFoundries",
+    "ASE Group",
+    "LRCX"
   ],
   "downstream": [
+    "AAPL",
     "DELL",
-    "HPQ",
-    "Lenovo Group",
     "MSFT",
-    "AMZN"
+    "AMZN",
+    "005930.KS"
   ],
   "competitors": [
     "AMD",
     "NVDA",
     "QCOM",
     "AVGO",
-    "TSM"
+    "005930.KS"
   ],
   "key_products": [
     "Intel Core CPUs",
     "Intel Xeon CPUs",
+    "Intel FPGAs",
     "Intel chipsets",
-    "Intel Optane memory",
-    "Intel AI/ML accelerators"
+    "Intel network processors"
   ],
-  "extracted_at": "2026-08-03 18:30:16",
+  "extracted_at": "2026-08-04 17:30:47",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,15 +41,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Intel",
+      "url": "https://csimarket.com/stocks/INTC-Suppliers",
       "query": "Intel Corporation suppliers manufacturers",
-      "snippet": "5 days ago - Intel Corporation is an American multinational technology company headquartered in Santa Clara, California. It designs, manufactures , an"
+      "snippet": "Intel supply chain, list and performance of Intels' suppliers - CSIMarket. Intel 's Comment on Supply Chain. We use third-party foundries to manufactu"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/suppliers_glance.php?code=INTC",
+      "url": "https://www.tradingview.com/symbols/NASDAQ-INTC/",
       "query": "Intel Corporation suppliers manufacturers",
-      "snippet": "3 weeks ago - Intel supply chain, list and performance of Intels' suppliers - CSIMarket"
+      "snippet": "View live Intel Corporation chart to track its stock's price action. Find market predictions, INTC financials and market news."
     },
     {
       "source": "DuckDuckGo",

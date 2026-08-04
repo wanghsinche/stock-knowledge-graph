@@ -4,18 +4,18 @@
   "sector": "Communication Services",
   "industry": "Internet Content & Information",
   "upstream": [
+    "Universal Music Group",
+    "SONY",
+    "Warner Music Group",
     "AMZN",
-    "MSFT",
-    "GOOGL",
-    "CDN providers (e.g., Akamai)",
-    "Hardware manufacturers (servers, networking equipment)"
+    "GOOGL"
   ],
   "downstream": [
-    "Advertisers on ad‑supported tier",
-    "Advertisers on podcast platform",
-    "Advertisers on partner apps",
-    "Advertisers on music streaming tier",
-    "Advertisers on premium tier (indirect via brand exposure)"
+    "MSFT",
+    "AAPL",
+    "GOOGL",
+    "005930.KS",
+    "AMZN"
   ],
   "competitors": [
     "AAPL",
@@ -25,43 +25,43 @@
     "Pandora"
   ],
   "key_products": [
-    "Spotify Music Streaming",
+    "Spotify Free (ad-supported streaming)",
+    "Spotify Premium (subscription)",
+    "Spotify for Artists",
     "Spotify Podcasts",
-    "Spotify Ad‑Supported Tier",
-    "Spotify Premium",
-    "Spotify for Artists"
+    "Spotify Wrapped"
   ],
-  "extracted_at": "2026-05-25 17:34:10",
+  "extracted_at": "2026-08-04 17:36:54",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Spotify_Technology_S.A.",
       "title": "Spotify",
-      "snippet": "Spotify is a Swedish audio streaming and media service provider founded in April 2006 by the businessmen Daniel Ek and Martin Lorentzon. As of March 2026, it was one of the largest providers of music "
+      "snippet": "Spotify is a freemium music streaming service provider founded in April 2006 by Daniel Ek and Martin Lorentzon. As of March 2026, it was one of the largest providers of music streaming services, with "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Spotify",
+      "url": "https://evidinvest.com/supply-chain/SPOT",
       "query": "Spotify Technology S.A. suppliers manufacturers",
-      "snippet": "Spotify is a Swedish audio streaming and media service provider founded in April 2006 by the businessmen Daniel Ek and Martin Lorentzon."
+      "snippet": "Who supplies Spotify Technology S.A. and who buys from it? Mapped suppliers , customers, partners, and competitors of SPOT, every relationship anchore"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.case48.com/porter-analysis/15464-Spotify-Technology-S-A",
+      "url": "https://csimarket.com/stocks/SPOT-Suppliers",
       "query": "Spotify Technology S.A. suppliers manufacturers",
-      "snippet": "Spotify Technology S A is highly price sensitive and has adequate market knowledge. There is no threat of forward integration by suppliers . How Spoti"
+      "snippet": "Mar 5, 2026 · For your research, we’ve provided nine additional tables on Spotify Technology S a ’s suppliers . You can find them in the navigation me"
     },
     {
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Spotify",
       "query": "Spotify Technology S.A. major customers clients",
-      "snippet": "Spotify Technology S . A . Spotify has client software currently available for Windows, macOS, Wear OS, Android, iOS, watchOS, iPadOS, PlayStation 3, "
+      "snippet": "Spotify has client software currently available for Windows, macOS, Wear OS, Android, IOS, watchOS, iPadOS, PlayStation 3, PlayStation 4, PlayStation "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/spotify-technology-spot-growth-story-091229089.html",
+      "url": "https://engineering.atspotify.com/",
       "query": "Spotify Technology S.A. major customers clients",
-      "snippet": "Spotify Technology S . A . (NYSE:SPOT) is one of the best large cap stocks to buy in 2026 according to billionaire Dan Loeb. On April 29, Benchmark lo"
+      "snippet": "Our R&D teams tell the stories behind how we build at Spotify . AI, mobile, web, data science, experimentation, developer tools, design, open source, "
     }
   ]
 }

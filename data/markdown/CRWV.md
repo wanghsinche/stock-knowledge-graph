@@ -2,17 +2,17 @@
 ticker: CRWV
 company: CoreWeave, Inc.
 sector: Technology / Software - Infrastructure
-industry: AI Cloud Computing
-extracted_at: 2026-08-03 19:06:32
-last_updated: 2026-08-03
+industry: Artificial Intelligence Cloud Computing
+extracted_at: 2026-08-04 17:34:57
+last_updated: 2026-08-04
 ---
 
 # CRWV - CoreWeave, Inc.
 
 ## 基本信息
 
-- **所属行业**: Technology / Software - Infrastructure / AI Cloud Computing
-- **提取时间**: 2026-08-03 19:06:32
+- **所属行业**: Technology / Software - Infrastructure / Artificial Intelligence Cloud Computing
+- **提取时间**: 2026-08-04 17:34:57
 
 ## 产业链关系
 
@@ -20,38 +20,38 @@ last_updated: 2026-08-03
 - [[NVDA]]
 - [[AMD]]
 - [[INTC]]
-- [[QCOM]]
-- [[Xilinx]]
+- [[DELL]]
+- [[HPQ]]
 
 ### 下游客户
 - [[OpenAI]]
-- [[GOOGL]]
+- [[Mistral AI]]
+- [[IBM]]
 - [[MSFT]]
-- [[AMZN]]
-- [[TSLA]]
+- [[GOOGL]]
 
 ### 竞争对手
-- [[NVDA]]
-- [[GOOGL]]
-- [[AMZN]]
+- [[Lambda Labs]]
+- [[Cerebras Systems]]
+- [[AWS EC2 GPU]]
 - [[MSFT]]
-- [[Paperspace]]
+- [[GOOGL]]
 
 ### 核心产品
-- [[GPU Cloud Infrastructure]]
-- [[GPU-as-a-Service]]
-- [[AI Compute Instances]]
-- [[GPU Cluster Management Software]]
-- [[Chip Management Software]]
+- [[GPU-based AI cloud infrastructure]]
+- [[GPU instance offerings]]
+- [[AI compute services]]
+- [[Chip management software]]
+- [[AI training and inference services]]
 
 ## 数据来源
 
 - [CoreWeave](https://en.wikipedia.org/wiki/CoreWeave,_Inc.)
 - [CoreWeave, Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/CoreWeave)
-- [CoreWeave, Inc. suppliers manufacturers](https://www.tradingview.com/symbols/NASDAQ-CRWV/forecast-actuals-and-estimates/)
-- [CoreWeave, Inc. major customers clients](https://www.coreweave.com/case-studies)
-- [CoreWeave, Inc. major customers clients](https://csimarket.com/stocks/CRWV-Customers)
+- [CoreWeave, Inc. suppliers manufacturers](https://www.coreweave.com/)
+- [CoreWeave, Inc. major customers clients](https://www.bloomberg.com/news/articles/2026-08-04/coreweave-to-enter-asian-market-with-indonesian-data-centers)
+- [CoreWeave, Inc. major customers clients](https://www.youtube.com/watch?v=bp1PJJR-xC0)
 
 ## 元数据
 
-- **更新日期**: 2026-08-03
+- **更新日期**: 2026-08-04
