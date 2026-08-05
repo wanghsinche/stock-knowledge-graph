@@ -1,37 +1,37 @@
 {
   "ticker": "CRCL",
   "company_name": "Circle Internet Group, Inc.",
-  "sector": "Financial Services",
-  "industry": "Capital Markets / Payments Technology",
+  "sector": "Financial Services / Capital Markets",
+  "industry": "Payments Technology",
   "upstream": [
     "AMZN",
     "MSFT",
     "GOOGL",
-    "Ethereum (blockchain infrastructure)",
-    "Solana (blockchain infrastructure)"
+    "ORCL",
+    "IBM"
   ],
   "downstream": [
-    "Coinbase (cryptocurrency exchange)",
-    "Binance (cryptocurrency exchange)",
-    "PayPal (digital payments)",
-    "Visa (payment network)",
-    "Mastercard (payment network)"
+    "Coinbase",
+    "Binance",
+    "PayPal",
+    "Stripe",
+    "DeFi protocols"
   ],
   "competitors": [
-    "Paxos (PAX stablecoin)",
-    "Gemini (GUSD stablecoin)",
-    "Binance USD (BUSD stablecoin)",
-    "Tether (USDT stablecoin)",
-    "Coinbase (USD Coin, USDC competitor)"
+    "Coinbase",
+    "Tether (USDT)",
+    "Binance USD (BUSD)",
+    "Paxos Standard (PAX)",
+    "Gemini Dollar (GUSD)"
   ],
   "key_products": [
-    "USDC (USD‑pegged stablecoin)",
-    "EURC (euro‑pegged stablecoin)",
-    "USYC (tokenized money‑market fund)",
-    "Circle Pay API (payments integration)",
-    "Circle Wallet (digital wallet)"
+    "USDC stablecoin",
+    "EURC stablecoin",
+    "USYC tokenized money market fund",
+    "Circle Pay",
+    "Circle Invest"
   ],
-  "extracted_at": "2026-07-21 17:17:44",
+  "extracted_at": "2026-08-05 17:36:48",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Circle_Internet_Group",
+      "url": "https://www.youtube.com/watch?v=gVGfnYMRwv0",
       "query": "Circle Internet Group suppliers manufacturers",
-      "snippet": "History Founding (2013 – 2017) Circle was founded by Jeremy Allaire and Sean Neville in October 2013 in Boston, Massachusetts, [3][4] with Allaire and"
+      "snippet": "IBD's Alexis Garcia and Ed Carson preview key upcoming earnings reports from Viking Holdings, Applied Materials and Circle Internet Group ."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://investor.circle.com/overview/default.aspx",
+      "url": "https://www.hekimsinan.com/finance/circle-internet-group",
       "query": "Circle Internet Group suppliers manufacturers",
-      "snippet": "Jul 10, 2026 · Circle is building the world’s largest, most-widely used, stablecoin network, and issues, through its regulated affiliates, USDC and EU"
+      "snippet": "Circle Internet Group stock tends to react to macro-crypto narratives rather than short-term speculation. Key drivers include: Growth or contraction i"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Circle_Internet_Group",
+      "url": "https://www.fool.com/investing/2025/06/27/why-circle-internet-stock-imploded-this-week/",
       "query": "Circle Internet Group major customers clients",
-      "snippet": "In July 2023, Circle announced layoffs and stated that it had discontinued investments in non-core business areas. [42] In September 2023, the company"
+      "snippet": "Shares of Circle Internet Group (CRCL+5.30%) fell this week, down 24.9% as of market close on Friday.A major valuation is making many nervous. Even af"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.appsruntheworld.com/customers-database/vendors/view/circle-internet-group",
+      "url": "https://intellectia.ai/news/monitor/circle-internet-group-engages-shareholders-ahead-of-earnings-call",
       "query": "Circle Internet Group major customers clients",
-      "snippet": "List of companies using or evaluating Circle Internet Group applications, with details on their revenues, employees, industries, and locations."
+      "snippet": "Circle Internet Group Inc. shares rose 5.05% in pre-market trading, reaching a 5-day high. The company announced that it will utilize the Say platform"
     }
   ]
 }

@@ -4,25 +4,25 @@
   "sector": "Communication Services",
   "industry": "Internet Content & Information",
   "upstream": [
-    "NVDA",
     "QCOM",
+    "INTC",
+    "NVDA",
     "005930.KS",
-    "AAPL",
-    "GOOGL"
+    "AAPL"
   ],
   "downstream": [
     "Advertisers",
     "App developers",
-    "Third‑party advertisers",
-    "Mobile app developers",
-    "Digital marketers"
+    "Content creators",
+    "Game developers",
+    "E‑commerce merchants"
   ],
   "competitors": [
     "GOOGL",
     "AMZN",
     "AAPL",
     "MSFT",
-    "TikTok (ByteDance)"
+    "NVDA"
   ],
   "key_products": [
     "Facebook",
@@ -30,9 +30,10 @@
     "WhatsApp",
     "Messenger",
     "Threads",
-    "Meta Advertising Platform"
+    "Meta Ads",
+    "Meta Quest"
   ],
-  "extracted_at": "2026-08-04 17:31:15",
+  "extracted_at": "2026-08-05 17:24:19",
   "sources": [
     {
       "source": "Wikipedia",
@@ -42,27 +43,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/META-Suppliers",
-      "query": "Meta Platforms, Inc. suppliers manufacturers",
-      "snippet": "Jul 7, 2026 · Meta Platforms Inc supply chain, list and performance of Meta Platforms Incs ' suppliers - CSIMarket"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.makesureiknowit.com/company/meta-platforms",
-      "query": "Meta Platforms, Inc. suppliers manufacturers",
-      "snippet": "Meta Platforms's supply chain spans 4 companies. Its key suppliers include NVIDIA, AMD and Quanta Computer . Below is the full map, broken down tier b"
-    },
-    {
-      "source": "DuckDuckGo",
       "url": "https://ru.wikipedia.org/wiki/Meta_Platforms",
-      "query": "Meta Platforms, Inc. major customers clients",
+      "query": "Meta Platforms, Inc. suppliers manufacturers",
       "snippet": "Meta Platforms , Inc . — американская транснациональная холдинговая компания, владеющая технологическим конгломератом и расположенная в Менло-Парке, К"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.fool.com/investing/2026/07/31/everyone-just-missed-a-major-meta-announcement/",
+      "url": "https://investor.atmeta.com/",
+      "query": "Meta Platforms, Inc. suppliers manufacturers",
+      "snippet": "Meta is Signing the EU AI Act Code of Practice on Transparency of AI-Generated Content.Investor Education Center. Meta for Business. Meta Ads Guide."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://developers.meta.com/",
       "query": "Meta Platforms, Inc. major customers clients",
-      "snippet": "Meta Platforms ( META +6.02%) just reported second-quarter results, and the market is quite disappointed. The stock tumbled the day after earnings, ma"
+      "snippet": "Build on every platform with Meta . Develop with Meta to create successful apps and projects, and grow your business.LAFISE Bank. Providing fast, more"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.metacareers.com/jobs/position-not-available/",
+      "query": "Meta Platforms, Inc. major customers clients",
+      "snippet": "Meet the people who helped build and train the latest in open source AI technology at Meta . How AI research and a culture of sharing shaped Llama 3.1"
     }
   ]
 }

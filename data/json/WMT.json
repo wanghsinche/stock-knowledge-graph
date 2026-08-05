@@ -5,33 +5,32 @@
   "industry": "Retail - Discount Stores",
   "upstream": [
     "Procter & Gamble",
-    "Coca‑Cola",
-    "Nike",
-    "Johnson & Johnson",
-    "General Mills"
+    "Coca-Cola",
+    "PepsiCo",
+    "Nestlé",
+    "Unilever"
   ],
   "downstream": [
-    "Individual consumers",
+    "Consumers",
     "Small businesses",
-    "Local grocery stores",
-    "Pharmacy customers",
-    "Online shoppers"
+    "Online shoppers",
+    "Local communities"
   ],
   "competitors": [
     "Target",
     "Costco",
-    "AMZN",
-    "BJ’s Wholesale Club",
-    "Kroger"
+    "Dollar General",
+    "Aldi",
+    "BJ's Wholesale Club"
   ],
   "key_products": [
     "Groceries",
     "Household goods",
     "Apparel",
     "Electronics",
-    "Pharmacy products"
+    "Pharmacy"
   ],
-  "extracted_at": "2026-08-04 17:37:53",
+  "extracted_at": "2026-08-05 17:35:11",
   "sources": [
     {
       "source": "Wikipedia",
@@ -53,15 +52,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://capitaloneshopping.com/research/walmart-statistics/",
+      "url": "https://www.walmart.com/",
       "query": "Walmart Inc. major customers clients",
-      "snippet": "Jun 10, 2026 · Latest available data on Walmart ' s size and market share, both offline and online, with total sales and revenue breakdowns by year."
+      "snippet": "Shop Walmart .com today for Every Day Low Prices. Join Walmart + for unlimited free delivery from your store & free shipping with no order minimum. St"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/WMT-Customers",
+      "url": "https://www.walmart.ca/",
       "query": "Walmart Inc. major customers clients",
-      "snippet": "For your research, we’ve provided 9 tables on Walmart Inc corporate clients . You can find them in the navigation menu under Customers & Markets. To d"
+      "snippet": "Online Shopping in Canada at Walmart .ca. A great selection of online electronics, baby, video games & much more. Shop online at everyday low prices!"
     }
   ]
 }

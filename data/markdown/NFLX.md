@@ -2,56 +2,56 @@
 ticker: NFLX
 company: Netflix, Inc.
 sector: Communication Services
-industry: Entertainment
-extracted_at: 2026-08-04 17:38:06
-last_updated: 2026-08-04
+industry: Entertainment / Streaming Media
+extracted_at: 2026-08-05 17:34:21
+last_updated: 2026-08-05
 ---
 
 # NFLX - Netflix, Inc.
 
 ## 基本信息
 
-- **所属行业**: Communication Services / Entertainment
-- **提取时间**: 2026-08-04 17:38:06
+- **所属行业**: Communication Services / Entertainment / Streaming Media
+- **提取时间**: 2026-08-05 17:34:21
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Content producers (e.g., Warner Bros., Disney, NBCUniversal)]]
-- [[MSFT]]
-- [[Content delivery network providers (Akamai, Cloudflare)]]
+- [[Major film and television studios (e.g., Warner Bros., Disney)]]
+- [[Independent production companies]]
+- [[Content licensing agencies]]
+- [[AMZN]]
 - [[AAPL]]
-- [[Marketing and distribution partners]]
 
 ### 下游客户
-- [[Individual subscribers worldwide]]
-- [[Corporate accounts (e.g., enterprise streaming solutions)]]
+- [[U.S. household subscribers]]
+- [[International household subscribers]]
+- [[Corporate and institutional accounts]]
 - [[005930.KS]]
-- [[AAPL]]
-- [[Telecom carriers offering bundled services]]
+- [[Smart TV and streaming device platforms]]
 
 ### 竞争对手
 - [[Disney+]]
-- [[Hulu]]
 - [[AMZN]]
+- [[Hulu]]
 - [[HBO Max]]
-- [[Peacock]]
+- [[AAPL]]
 
 ### 核心产品
-- [[Netflix streaming service]]
-- [[Netflix Originals]]
-- [[Licensed third‑party content library]]
-- [[Netflix Studios production]]
-- [[Netflix mobile and web apps]]
+- [[Netflix streaming service (web, mobile, TV)]]
+- [[Original programming (e.g., Stranger Things, The Crown)]]
+- [[Licensed TV shows and movies]]
+- [[Mobile and offline download features]]
+- [[User interface and recommendation engine]]
 
 ## 数据来源
 
 - [Netflix, Inc.](https://en.wikipedia.org/wiki/Netflix,_Inc.)
 - [Netflix, Inc. suppliers manufacturers](https://csimarket.com/stocks/NFLX-Suppliers)
-- [Netflix, Inc. suppliers manufacturers](https://npfp.netflixstudios.com/)
-- [Netflix, Inc. major customers clients](https://csimarket.com/stocks/NFLX-Customers)
-- [Netflix, Inc. major customers clients](https://ir.netflix.net/ir-overview/profile/default.aspx)
+- [Netflix, Inc. suppliers manufacturers](http://about.netflix.com/)
+- [Netflix, Inc. major customers clients](http://about.netflix.com/)
+- [Netflix, Inc. major customers clients](https://www.marketresearch.com/GlobalData-v3648/Netflix-NFLX-Financial-Strategic-SWOT-45074809/)
 
 ## 元数据
 
-- **更新日期**: 2026-08-04
+- **更新日期**: 2026-08-05

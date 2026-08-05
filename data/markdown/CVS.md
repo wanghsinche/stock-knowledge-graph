@@ -3,8 +3,8 @@ ticker: CVS
 company: CVS Health Corporation
 sector: Healthcare
 industry: Healthcare Plans
-extracted_at: 2026-04-07 16:52:50
-last_updated: 2026-04-07
+extracted_at: 2026-08-05 17:34:00
+last_updated: 2026-08-05
 ---
 
 # CVS - CVS Health Corporation
@@ -12,7 +12,7 @@ last_updated: 2026-04-07
 ## 基本信息
 
 - **所属行业**: Healthcare / Healthcare Plans
-- **提取时间**: 2026-04-07 16:52:50
+- **提取时间**: 2026-08-05 17:34:00
 
 ## 产业链关系
 
@@ -20,38 +20,38 @@ last_updated: 2026-04-07
 - [[Pfizer]]
 - [[Johnson & Johnson]]
 - [[Merck & Co.]]
-- [[GlaxoSmithKline]]
+- [[AbbVie]]
 - [[Amgen]]
 
 ### 下游客户
-- [[Employees of CVS Pharmacy]]
-- [[Employer health plans]]
-- [[Government health programs]]
-- [[Individual consumers]]
-- [[Health insurers]]
+- [[UnitedHealth Group]]
+- [[Anthem]]
+- [[Cigna]]
+- [[Blue Cross Blue Shield]]
+- [[Aetna]]
 
 ### 竞争对手
 - [[UnitedHealth Group]]
 - [[Cigna]]
 - [[Anthem]]
-- [[Humana]]
 - [[Walgreens Boots Alliance]]
+- [[Walmart]]
 
 ### 核心产品
-- [[Prescription medications]]
-- [[Over‑the‑counter drugs]]
+- [[Prescription drugs]]
+- [[Over-the-counter drugs]]
 - [[Health insurance plans]]
-- [[Pharmacy benefits management services]]
+- [[Pharmacy benefits management]]
 - [[Retail pharmacy services]]
 
 ## 数据来源
 
 - [CVS Health](https://en.wikipedia.org/wiki/CVS_Health_Corporation)
-- [CVS Health Corporation suppliers manufacturers](https://www.cvssuppliers.com/)
-- [CVS Health Corporation suppliers manufacturers](https://www.unisco.com/channels/cvs-health-corporation)
+- [CVS Health Corporation suppliers manufacturers](https://en.wikipedia.org/wiki/CVS_Health)
+- [CVS Health Corporation suppliers manufacturers](https://csimarket.com/stocks/suppliers_glance.php?code=CVS)
 - [CVS Health Corporation major customers clients](https://en.wikipedia.org/wiki/CVS_Health)
-- [CVS Health Corporation major customers clients](https://www.ebsco.com/research-starters/consumer-health/cvs-health-corporation)
+- [CVS Health Corporation major customers clients](https://www.cnbc.com/quotes/CVS)
 
 ## 元数据
 
-- **更新日期**: 2026-04-07
+- **更新日期**: 2026-08-05

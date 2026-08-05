@@ -1,41 +1,34 @@
 ---
 ticker: CRM
-company: Salesforce.com, Inc.
+company: Salesforce, Inc.
 sector: Technology
 industry: Software - Application
-extracted_at: 2026-08-03 19:45:30
-last_updated: 2026-08-03
+extracted_at: 2026-08-05 17:38:43
+last_updated: 2026-08-05
 ---
 
-# CRM - Salesforce.com, Inc.
+# CRM - Salesforce, Inc.
 
 ## 基本信息
 
 - **所属行业**: Technology / Software - Application
-- **提取时间**: 2026-08-03 19:45:30
+- **提取时间**: 2026-08-05 17:38:43
 
 ## 产业链关系
 
 ### 上游供应商
-- [[AMZN]]
-- [[MSFT]]
-- [[GOOGL]]
-- [[ORCL]]
-- [[IBM]]
+- [[ExactTarget Inc.]]
 
 ### 下游客户
-- [[Bank of America]]
-- [[Walmart]]
-- [[Toyota]]
-- [[Coca‑Cola]]
-- [[General Electric]]
+- [[Deloitte]]
+- [[Databricks]]
 
 ### 竞争对手
 - [[MSFT]]
+- [[SAP]]
 - [[ORCL]]
-- [[SAP Sales Cloud]]
 - [[HubSpot]]
-- [[Zoho CRM]]
+- [[Zoho]]
 
 ### 核心产品
 - [[Sales Cloud]]
@@ -46,12 +39,12 @@ last_updated: 2026-08-03
 
 ## 数据来源
 
-- [CRM](https://en.wikipedia.org/wiki/CRM)
-- [CRM suppliers manufacturers](https://www.method.me/blog/crm-for-manufacturing-industry/)
-- [CRM suppliers manufacturers](https://blog.hubspot.com/marketing/best-crm-for-manufacturing)
-- [CRM major customers clients](https://crmside.com/crm-case-studies/)
-- [CRM major customers clients](https://www.forbes.com/advisor/business/software/best-crm-software/)
+- [Salesforce](https://en.wikipedia.org/wiki/Salesforce,_Inc.)
+- [Salesforce, Inc. suppliers manufacturers](https://csimarket.com/stocks/CRM-Suppliers)
+- [Salesforce, Inc. suppliers manufacturers](https://www.salesforce.com/)
+- [Salesforce, Inc. major customers clients](https://blog.techdatapark.com/top-companies-that-use-salesforce/)
+- [Salesforce, Inc. major customers clients](https://siliconangle.com/2025/05/12/salesforce-agentforce-data-cloud-path-software-hyperscaler/?trk=article-ssr-frontend-pulse_little-text-block)
 
 ## 元数据
 
-- **更新日期**: 2026-08-03
+- **更新日期**: 2026-08-05

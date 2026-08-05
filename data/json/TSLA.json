@@ -1,28 +1,28 @@
 {
   "ticker": "TSLA",
   "company_name": "Tesla, Inc.",
-  "sector": "Consumer Cyclical / Auto Manufacturers",
-  "industry": "Electric Vehicle Manufacturers",
+  "sector": "Consumer Cyclical",
+  "industry": "Auto Manufacturers",
   "upstream": [
-    "Panasonic",
-    "LG Chem",
     "CAT",
-    "005930.KS",
-    "Bosch"
+    "Lithium and cobalt mining companies",
+    "Electric motor manufacturers",
+    "Semiconductor and electronics suppliers",
+    "Automotive parts suppliers (e.g., Bosch, Denso)"
   ],
   "downstream": [
-    "Individual consumers",
-    "Fleet operators",
-    "Commercial customers",
-    "Government agencies",
-    "Energy storage customers"
+    "Individual vehicle buyers",
+    "Commercial fleet operators",
+    "Energy storage customers (Powerwall, Powerpack)",
+    "Solar product customers (Solar Roof, panels)",
+    "Autonomous driving service users"
   ],
   "competitors": [
-    "Ford",
+    "Ford Motor Company",
     "General Motors",
-    "Rivian",
-    "Lucid Motors",
-    "NIO"
+    "Volkswagen Group",
+    "Rivian Automotive",
+    "Lucid Motors"
   ],
   "key_products": [
     "Model S",
@@ -31,7 +31,7 @@
     "Model Y",
     "Powerwall"
   ],
-  "extracted_at": "2026-08-04 17:30:59",
+  "extracted_at": "2026-08-05 17:23:53",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/Tesla,_Inc.",
+      "query": "Tesla, Inc. suppliers manufacturers",
+      "snippet": "Tesla , Inc . is an American multinational automotive and clean energy company.The company was incorporated in July 2003 by Martin Eberhard and Marc T"
+    },
+    {
+      "source": "DuckDuckGo",
       "url": "https://csimarket.com/stocks/suppliers_glance.php?code=TSLA",
       "query": "Tesla, Inc. suppliers manufacturers",
       "snippet": "Tesla Inc 's Suppliers Performance. TSLA's Supply Chain. Tesla relies on a wide range of suppliers beyond just battery manufacturers to build our elec"
     },
     {
       "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/Tesla,_Inc.",
+      "query": "Tesla, Inc. major customers clients",
+      "snippet": "Tesla , Inc . is an American multinational automotive and clean energy company.The company was incorporated in July 2003 by Martin Eberhard and Marc T"
+    },
+    {
+      "source": "DuckDuckGo",
       "url": "https://www.tesla.com/",
-      "query": "Tesla, Inc. suppliers manufacturers",
+      "query": "Tesla, Inc. major customers clients",
       "snippet": "Tesla is building a world of amazing abundance with AI, electric cars, solar, home batteries and integrated renewable energy solutions for homes and b"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/TSLA-Customers",
-      "query": "Tesla, Inc. major customers clients",
-      "snippet": "We currently sell our cars primarily to individual customers . We have strategic or commercial relationships with Daimler, Toyota, and Panasonic. We c"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.growthnavigate.com/tesla-target-customers",
-      "query": "Tesla, Inc. major customers clients",
-      "snippet": "May 27, 2026 · Tesla target customers are typically affluent, tech-savvy, and environmentally conscious buyers . This guide breaks down who buys Tesla"
     }
   ]
 }

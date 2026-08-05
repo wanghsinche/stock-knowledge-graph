@@ -1,43 +1,49 @@
 {
   "ticker": "VZ",
   "company_name": "Verizon Communications Inc.",
-  "sector": "Communication Services",
-  "industry": "Telecom Services",
+  "sector": "Communication Services / Telecom Services",
+  "industry": "Telecommunications Services",
   "upstream": [
-    "Nokia",
     "Ericsson",
+    "Nokia",
     "Huawei",
-    "ZTE",
-    "005930.KS"
+    "CSCO",
+    "JNPR"
   ],
   "downstream": [
-    "CAT",
-    "Residential broadband subscribers",
-    "Mobile device users",
+    "Individual consumers",
     "Small and medium businesses",
-    "Content providers (streaming services)"
+    "Large enterprises",
+    "Government agencies",
+    "Internet of Things (IoT) customers"
   ],
   "competitors": [
     "AT&T",
     "T-Mobile US",
     "Comcast",
     "CAT",
-    "Sprint (now part of T-Mobile)"
+    "CAT"
   ],
   "key_products": [
     "Wireless voice and data services",
-    "Broadband and fiber‑optic Internet",
-    "Enterprise networking solutions",
-    "Cloud and cybersecurity services",
-    "Digital TV and streaming platforms"
+    "Fixed broadband",
+    "Fiber-to-the-home (FTTH)",
+    "Cloud services",
+    "Network infrastructure"
   ],
-  "extracted_at": "2026-07-24 17:28:13",
+  "extracted_at": "2026-08-05 17:40:02",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Verizon_Communications_Inc.",
       "title": "Verizon",
-      "snippet": "Verizon Communications Inc. is an American telecommunications company headquartered in New York City. It is the world's second-largest telecommunications company by revenue and its mobile network is t"
+      "snippet": "Verizon Communications, Inc. is an American telecommunications company headquartered in New York City. It is the world's second-largest telecommunications company by revenue and its mobile network is "
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://ru.wikipedia.org/wiki/Verizon_Communications",
+      "query": "Verizon Communications Inc. suppliers manufacturers",
+      "snippet": "Verizon Communications , Inc . Изображение логотипа.С 2005 года Verizon Communications начала сокращать сеть проводной телефонии, сконцентрировавшись "
     },
     {
       "source": "DuckDuckGo",
@@ -47,21 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://pluang.com/en/compare/atom-vs-vz",
-      "query": "Verizon Communications Inc. suppliers manufacturers",
-      "snippet": "Compare Atomera Incorporated and Verizon Communications Inc side by side — live prices, performance, key stats, technicals, Aura AI signals and invest"
+      "url": "https://www.verizon.com/about",
+      "query": "Verizon Communications Inc. major customers clients",
+      "snippet": "Learn about Verizon 's core values, leadership, investor relations, career opportunities, outreach programs, and the latest news on our products and n"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/VZ-Customers",
+      "url": "https://www.bloomberg.com/quote/VZ:US",
       "query": "Verizon Communications Inc. major customers clients",
-      "snippet": "For your research, we’ve provided 9 tables on Verizon Communications Inc corporate clients . You can find them in the navigation menu under Customers "
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.verizon.com/about/our-company/verizon-fact-sheet",
-      "query": "Verizon Communications Inc. major customers clients",
-      "snippet": "Headquartered in New York City, serving countries worldwide and nearly all of the Fortune 500, Verizon generated revenues of $138.2 billion in 2025. V"
+      "snippet": "Stock analysis for Verizon Communications Inc (VZ:New York) including stock price, stock chart, company news, key statistics, fundamentals and company"
     }
   ]
 }

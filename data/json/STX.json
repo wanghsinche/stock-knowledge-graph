@@ -1,31 +1,67 @@
 {
   "ticker": "STX",
-  "company_name": "STX",
+  "company_name": "Seagate Technology Holdings plc",
   "sector": "Technology",
   "industry": "Computer Hardware",
-  "upstream": [],
-  "downstream": [],
-  "competitors": [],
-  "key_products": [],
-  "extracted_at": "2026-08-04 17:35:48",
+  "upstream": [
+    "MU",
+    "005930.KS",
+    "TSM",
+    "Foxconn",
+    "Kioxia"
+  ],
+  "downstream": [
+    "DELL",
+    "HPQ",
+    "Lenovo Group",
+    "AAPL",
+    "AMZN"
+  ],
+  "competitors": [
+    "WDC",
+    "Toshiba",
+    "005930.KS",
+    "MU",
+    "IBM"
+  ],
+  "key_products": [
+    "Enterprise HDDs",
+    "Enterprise SSDs",
+    "NAS Drives",
+    "External Hard Drives",
+    "Cloud Storage Solutions"
+  ],
+  "extracted_at": "2026-08-05 17:28:46",
   "sources": [
     {
       "source": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/STX",
-      "title": "STX",
-      "snippet": "STX may refer to:"
+      "url": "",
+      "title": "",
+      "snippet": ""
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://stx.com/",
-      "query": "STX suppliers manufacturers",
-      "snippet": "Shop the offical store for STX - a global sporting goods leader in lacrosse and field hockey. Get our full lineup from sticks to pads and more, plus g"
+      "url": "https://www.seagate.com/",
+      "query": "Seagate Technology Holdings plc suppliers manufacturers",
+      "snippet": "Seagate is a leader in mass-capacity data storage. We’ve delivered more than four billion terabytes of capacity over the past four decades."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.shipserv.com/brand/stx/1763",
-      "query": "STX suppliers manufacturers",
-      "snippet": "Authorized dealer of STX Engine spare parts since 1997. Supplying parts for Everllance (formerly MAN) and providing on-site technical service. 24/7 To"
+      "url": "https://www.tradingkey.com/markets/stocks/stx",
+      "query": "Seagate Technology Holdings plc suppliers manufacturers",
+      "snippet": "Seagate Technology Holdings plc provides mass-data storage infrastructure solution.Its systems portfolio includes storage subsystems for enterprises, "
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://s24.q4cdn.com/101481333/files/doc_financials/2026/q4/STX-US-CORRECTED-TRANSCRIPT-Seagate-Technology-Holdings-PlcSTXUS-Q4-2026-Earnings-Call-28-ET-PM-27-07-2026-2026-07-27-0.pdf",
+      "query": "Seagate Technology Holdings plc major customers clients",
+      "snippet": "Seagate Technology Holdings Plc . (STX). Q4 2026 Earnings Call.Chairman & Chief Executive Officer, Seagate Technology Holdings Plc . Thanks, Shanye, a"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "http://www.seagate.com/",
+      "query": "Seagate Technology Holdings plc major customers clients",
+      "snippet": "Seagate Technology Holdings Plc ."
     }
   ]
 }

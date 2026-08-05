@@ -7,31 +7,31 @@
     "INTC",
     "AMD",
     "NVDA",
-    "005930.KS",
-    "SK Hynix"
+    "CSCO",
+    "DELL"
   ],
   "downstream": [
-    "Financial services firms",
-    "Government agencies",
-    "Healthcare providers",
-    "Retail enterprises",
-    "CAT"
+    "JPMorgan Chase",
+    "Bank of America",
+    "Walmart",
+    "AT&T",
+    "UnitedHealth Group"
   ],
   "competitors": [
     "MSFT",
     "AMZN",
+    "GOOGL",
     "IBM",
-    "SAP",
-    "GOOGL"
+    "SAP"
   ],
   "key_products": [
     "Oracle Database",
     "Oracle Cloud Infrastructure",
     "Oracle Autonomous Database",
-    "Oracle Fusion Cloud ERP",
-    "Oracle Analytics Cloud"
+    "Oracle Exadata",
+    "Oracle Fusion Cloud Applications"
   ],
-  "extracted_at": "2026-08-04 17:32:18",
+  "extracted_at": "2026-08-05 17:29:28",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,21 +47,21 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ru.wikipedia.org/wiki/Oracle",
+      "url": "https://csimarket.com/stocks/ORCL-Suppliers",
       "query": "Oracle Corporation suppliers manufacturers",
-      "snippet": "Oracle ( Oracle Corporation ) — американская корпорация, второй по размеру выручки разработчик программного обеспечения (после Microsoft), четвёртая к"
+      "snippet": "Oracle supply chain, list and performance of Oracles ' suppliers - CSIMarket."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/ORCL-Customers",
+      "url": "https://www.oracle.com/",
       "query": "Oracle Corporation major customers clients",
-      "snippet": "For your research, we’ve provided 9 tables on Oracle Corporation corporate clients . You can find them in the navigation menu under Customers & Market"
+      "snippet": "Oracle offers the highest-performing cloud services at the lowest cost. That's why so many of the world's biggest technology companies use OCI. OCI Te"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.thomsondata.com/customer-base/oracle.php",
+      "url": "https://finance.yahoo.com/quote/ORCL/",
       "query": "Oracle Corporation major customers clients",
-      "snippet": "Thomson Data makes it easy by offering an accurate and up-to-date list of companies that use Oracle. This list allows you to identify Oracle customers"
+      "snippet": "Find the latest Oracle Corporation (ORCL) stock quote, history, news and other vital information to help you with your stock trading and investing."
     }
   ]
 }

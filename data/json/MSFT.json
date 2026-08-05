@@ -1,21 +1,21 @@
 {
   "ticker": "MSFT",
   "company_name": "Microsoft Corporation",
-  "sector": "Technology",
+  "sector": "Technology / Software - Infrastructure",
   "industry": "Software - Infrastructure",
   "upstream": [
-    "DELL",
-    "HPQ",
-    "Lenovo Group",
     "INTC",
-    "NVDA"
+    "AMD",
+    "NVDA",
+    "TSM",
+    "005930.KS"
   ],
   "downstream": [
-    "Enterprise customers",
+    "Fortune 500 companies",
     "Government agencies",
-    "DELL",
-    "Gamers",
-    "Small and medium businesses"
+    "Small and medium businesses",
+    "Gamers (Xbox)",
+    "CAT"
   ],
   "competitors": [
     "AAPL",
@@ -25,13 +25,13 @@
     "IBM"
   ],
   "key_products": [
-    "Windows OS",
-    "Microsoft Office",
-    "Azure Cloud",
-    "Surface devices",
-    "Xbox"
+    "Windows",
+    "Office",
+    "Azure",
+    "Xbox",
+    "LinkedIn"
   ],
-  "extracted_at": "2026-08-04 17:29:17",
+  "extracted_at": "2026-08-05 17:22:06",
   "sources": [
     {
       "source": "Wikipedia",
@@ -53,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/MSFT-Customers",
+      "url": "https://www.linkedin.com/company/microsoft",
       "query": "Microsoft Corporation major customers clients",
-      "snippet": "For your research, we’ve provided 9 tables on Microsoft Corporation corporate clients . You can find them in the navigation menu under Customers & Mar"
+      "snippet": "Microsoft | 28,760,770 followers on LinkedIn. Every company has a mission. What's ours? To empower every person and every organization to achieve more"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.microsoft.com/en-us/customers/",
+      "url": "https://businessaccount.microsoft.com/",
       "query": "Microsoft Corporation major customers clients",
-      "snippet": "Explore customer success stories to learn how businesses are overcoming challenges, driving innovation, and achieving more with Microsoft solutions."
+      "snippet": "Business Center. Sign In. For customers ."
     }
   ]
 }

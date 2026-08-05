@@ -5,17 +5,17 @@
   "industry": "Consumer Electronics",
   "upstream": [
     "TSM",
-    "Foxconn",
     "005930.KS",
-    "AVGO",
-    "QCOM"
+    "Foxconn (Hon Hai)",
+    "LG Display",
+    "NVDA"
   ],
   "downstream": [
     "iPhone users",
-    "Enterprise customers",
-    "CAT",
-    "Retail partners",
-    "App developers"
+    "iPad users",
+    "Mac users",
+    "AAPL",
+    "Enterprise clients"
   ],
   "competitors": [
     "005930.KS",
@@ -29,12 +29,9 @@
     "iPad",
     "Mac",
     "Apple Watch",
-    "Apple TV",
-    "App Store",
-    "iCloud",
-    "Apple Music"
+    "Apple TV"
   ],
-  "extracted_at": "2026-08-04 17:30:09",
+  "extracted_at": "2026-08-05 17:22:21",
   "sources": [
     {
       "source": "Wikipedia",
@@ -46,25 +43,25 @@
       "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/List_of_Apple_Inc._suppliers",
       "query": "Apple Inc. suppliers manufacturers",
-      "snippet": "By 2021, Apple's supplier list had more companies from China than Taiwan. [1]: 337 [4][5] But due to tariffs, labor costs, and the 2022 Shanghai lockd"
+      "snippet": "Toggle the table of contents. List of Apple Inc . suppliers . Add languages.engineering and manufacturing was outsourced to Sony.[1]: 41–42 [2]: 255 I"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.suppliersmap.com/apple",
+      "url": "https://csimarket.com/stocks/suppliers_glance.php?code=AAPL",
       "query": "Apple Inc. suppliers manufacturers",
-      "snippet": "Apple Apple works with 40+ key suppliers across its product lineup, including TSMC for A-series chips, Sony for camera sensors, Samsung and LG for dis"
+      "snippet": "Apple Inc supply chain, list and performance of Apple Incs ' suppliers - CSIMarket."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/AAPL-Customers",
+      "url": "https://www.apple.com/",
       "query": "Apple Inc. major customers clients",
-      "snippet": "Apple Inc customers and markets, results by customer and performance relative to AAPL, by company and industry - CSIMarket"
+      "snippet": "Discover the innovative world of Apple and shop everything iPhone, iPad, Apple Watch, Mac, and Apple TV, plus explore accessories, entertainment, and "
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.appsruntheworld.com/customers-database/vendors/view/apple",
+      "url": "https://account.apple.com/account",
       "query": "Apple Inc. major customers clients",
-      "snippet": "List of companies using or evaluating Apple applications, with details on their revenues, employees, industries, and locations."
+      "snippet": "Your account you use for all Apple services."
     }
   ]
 }

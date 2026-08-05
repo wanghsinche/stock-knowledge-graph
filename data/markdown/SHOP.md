@@ -3,8 +3,8 @@ ticker: SHOP
 company: Shopify Inc.
 sector: Technology
 industry: Software - Application
-extracted_at: 2026-08-04 17:39:18
-last_updated: 2026-08-04
+extracted_at: 2026-08-05 17:25:00
+last_updated: 2026-08-05
 ---
 
 # SHOP - Shopify Inc.
@@ -12,7 +12,7 @@ last_updated: 2026-08-04
 ## 基本信息
 
 - **所属行业**: Technology / Software - Application
-- **提取时间**: 2026-08-04 17:39:18
+- **提取时间**: 2026-08-05 17:25:00
 
 ## 产业链关系
 
@@ -20,8 +20,6 @@ last_updated: 2026-08-04
 - [[AMZN]]
 - [[MSFT]]
 - [[GOOGL]]
-- [[Shopify POS hardware partners]]
-- [[Stripe]]
 
 ### 下游客户
 - [[TSLA]]
@@ -33,7 +31,7 @@ last_updated: 2026-08-04
 ### 竞争对手
 - [[BigCommerce]]
 - [[WooCommerce]]
-- [[ADBE]]
+- [[Magento]]
 - [[Wix]]
 - [[Squarespace]]
 
@@ -41,17 +39,17 @@ last_updated: 2026-08-04
 - [[Shopify e-commerce platform]]
 - [[Shopify POS]]
 - [[Shopify Payments]]
-- [[Shopify App Store]]
 - [[Shopify Fulfillment Network]]
+- [[Shopify Capital]]
 
 ## 数据来源
 
 - [Shopify](https://en.wikipedia.org/wiki/Shopify_Inc.)
 - [Shopify Inc. suppliers manufacturers](https://csimarket.com/stocks/SHOP-Suppliers)
 - [Shopify Inc. suppliers manufacturers](https://www.shopify.com/)
-- [Shopify Inc. major customers clients](https://www.thomsondata.com/customer-base/shopify-customers.php)
-- [Shopify Inc. major customers clients](https://technologychecker.io/technology/shopify)
+- [Shopify Inc. major customers clients](https://www.shopify.com/)
+- [Shopify Inc. major customers clients](https://www.shopifyacademy.com/?page=1)
 
 ## 元数据
 
-- **更新日期**: 2026-08-04
+- **更新日期**: 2026-08-05

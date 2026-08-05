@@ -3,8 +3,8 @@ ticker: ANET
 company: Arista Networks, Inc.
 sector: Technology
 industry: Computer Hardware
-extracted_at: 2026-08-04 17:40:05
-last_updated: 2026-08-04
+extracted_at: 2026-08-05 17:25:37
+last_updated: 2026-08-05
 ---
 
 # ANET - Arista Networks, Inc.
@@ -12,46 +12,46 @@ last_updated: 2026-08-04
 ## 基本信息
 
 - **所属行业**: Technology / Computer Hardware
-- **提取时间**: 2026-08-04 17:40:05
+- **提取时间**: 2026-08-05 17:25:37
 
 ## 产业链关系
 
 ### 上游供应商
-- [[AVGO]]
 - [[INTC]]
+- [[AVGO]]
 - [[QCOM]]
 - [[MRVL]]
-- [[NVDA]]
+- [[TXN]]
 
 ### 下游客户
 - [[AMZN]]
 - [[GOOGL]]
 - [[MSFT]]
 - [[Facebook]]
-- [[NFLX]]
+- [[Alibaba]]
 
 ### 竞争对手
 - [[CSCO]]
 - [[JNPR]]
-- [[Extreme Networks]]
 - [[HPQ]]
-- [[Ciena]]
+- [[Extreme Networks]]
+- [[Huawei]]
 
 ### 核心产品
 - [[Arista 7280R Series]]
 - [[Arista 7500R Series]]
-- [[Arista 7050X3 Series]]
-- [[Arista 7280C Series]]
-- [[Arista EOS Software]]
+- [[Arista 7500R-X Series]]
+- [[Arista 7050X Series]]
+- [[CloudVision Platform]]
 
 ## 数据来源
 
 - [Arista Networks](https://en.wikipedia.org/wiki/Arista_Networks,_Inc.)
-- [Arista Networks, Inc. suppliers manufacturers](https://csimarket.com/stocks/ANET-Suppliers)
-- [Arista Networks, Inc. suppliers manufacturers](https://www.arista.com/en/)
-- [Arista Networks, Inc. major customers clients](https://stockanalysis.com/stocks/anet/)
-- [Arista Networks, Inc. major customers clients](https://www.comparably.com/companies/arista-networks)
+- [Arista Networks, Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/Arista_Networks)
+- [Arista Networks, Inc. suppliers manufacturers](https://www.arista.com/en/products)
+- [Arista Networks, Inc. major customers clients](https://en.wikipedia.org/wiki/Arista_Networks)
+- [Arista Networks, Inc. major customers clients](https://www.linkedin.com/company/arista-networks-inc)
 
 ## 元数据
 
-- **更新日期**: 2026-08-04
+- **更新日期**: 2026-08-05

@@ -1,28 +1,28 @@
 {
   "ticker": "NBIS",
   "company_name": "Nebius Group N.V.",
-  "sector": "Communication Services / Internet Content & Information",
-  "industry": "Artificial Intelligence Infrastructure",
+  "sector": "Communication Services",
+  "industry": "Internet Content & Information",
   "upstream": [
     "NVDA",
-    "INTC",
     "AMD",
+    "INTC",
     "GOOGL",
-    "AMZN"
+    "MSFT"
   ],
   "downstream": [
-    "MSFT",
-    "AMZN",
     "GOOGL",
-    "Facebook",
-    "Alibaba"
+    "AMZN",
+    "MSFT",
+    "Alibaba Cloud",
+    "IBM"
   ],
   "competitors": [
     "OpenAI",
     "Anthropic",
-    "DeepMind",
-    "IBM",
-    "MSFT"
+    "Cohere",
+    "Hugging Face",
+    "DeepMind"
   ],
   "key_products": [
     "Nebius AI Platform",
@@ -31,7 +31,7 @@
     "Toloka",
     "Clickhouse"
   ],
-  "extracted_at": "2026-08-04 17:32:55",
+  "extracted_at": "2026-08-05 17:26:16",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,9 +47,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/NBIS/",
+      "url": "https://stockanalysis.com/stocks/nbis/",
       "query": "NBIS suppliers manufacturers",
-      "snippet": "Find the latest Nebius Group N.V. ( NBIS ) stock quote, history, news and other vital information to help you with your stock trading and investing."
+      "snippet": "A detailed overview of Nebius Group N.V. ( NBIS ) stock, including real-time price, chart, key statistics, news, and more."
     },
     {
       "source": "DuckDuckGo",

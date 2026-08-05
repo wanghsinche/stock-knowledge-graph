@@ -4,34 +4,34 @@
   "sector": "Technology",
   "industry": "Computer Hardware",
   "upstream": [
-    "AVGO",
     "INTC",
+    "AVGO",
     "QCOM",
     "MRVL",
-    "NVDA"
+    "TXN"
   ],
   "downstream": [
     "AMZN",
     "GOOGL",
     "MSFT",
     "Facebook",
-    "NFLX"
+    "Alibaba"
   ],
   "competitors": [
     "CSCO",
     "JNPR",
-    "Extreme Networks",
     "HPQ",
-    "Ciena"
+    "Extreme Networks",
+    "Huawei"
   ],
   "key_products": [
     "Arista 7280R Series",
     "Arista 7500R Series",
-    "Arista 7050X3 Series",
-    "Arista 7280C Series",
-    "Arista EOS Software"
+    "Arista 7500R-X Series",
+    "Arista 7050X Series",
+    "CloudVision Platform"
   ],
-  "extracted_at": "2026-08-04 17:40:05",
+  "extracted_at": "2026-08-05 17:25:37",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/ANET-Suppliers",
+      "url": "https://en.wikipedia.org/wiki/Arista_Networks",
       "query": "Arista Networks, Inc. suppliers manufacturers",
-      "snippet": "For your research, we’ve provided nine additional tables on Arista Networks inc ’ s suppliers . You can find them in the navigation menu under Supplie"
+      "snippet": "Arista Networks , Inc . is an American provider of client to cloud networking services for large data center/AI, campus and routing environments."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.arista.com/en/",
+      "url": "https://www.arista.com/en/products",
       "query": "Arista Networks, Inc. suppliers manufacturers",
-      "snippet": "17 hours ago · Arista Networks was founded to pioneer and deliver software-driven cloud networking solutions for large data center storage and computi"
+      "snippet": "Arista Data Center Switches deliver efficient, reliable, high performance Cloud Network Infrastructure and Architectures on 40GbE - 100GbE switching p"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://stockanalysis.com/stocks/anet/",
+      "url": "https://en.wikipedia.org/wiki/Arista_Networks",
       "query": "Arista Networks, Inc. major customers clients",
-      "snippet": "About ANET. Arista Networks , Inc . engages in the development, marketing, and sale of data-driven, client to cloud networking solutions for AI, data "
+      "snippet": "Arista Networks , Inc . is an American provider of client to cloud networking services for large data center/AI, campus and routing environments.Ameri"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.comparably.com/companies/arista-networks",
+      "url": "https://www.linkedin.com/company/arista-networks-inc",
       "query": "Arista Networks, Inc. major customers clients",
-      "snippet": "Arista Networks 1st."
+      "snippet": "Arista Networks is an industry leader in data-driven, client to cloud networking for large data center/AI, campus and routing environments."
     }
   ]
 }

@@ -3,8 +3,8 @@ ticker: AMAT
 company: Applied Materials, Inc.
 sector: Technology
 industry: Semiconductor Equipment & Materials
-extracted_at: 2026-08-04 17:36:39
-last_updated: 2026-08-04
+extracted_at: 2026-08-05 17:30:38
+last_updated: 2026-08-05
 ---
 
 # AMAT - Applied Materials, Inc.
@@ -12,45 +12,45 @@ last_updated: 2026-08-04
 ## 基本信息
 
 - **所属行业**: Technology / Semiconductor Equipment & Materials
-- **提取时间**: 2026-08-04 17:36:39
+- **提取时间**: 2026-08-05 17:30:38
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Silicon wafer suppliers]]
-- [[Chemical and process material vendors]]
-- [[META]]
-- [[Contract manufacturing partners]]
-- [[Electronic component distributors]]
+- [[BASF]]
+- [[Air Liquide]]
+- [[Linde]]
+- [[Parker Hannifin]]
+- [[DuPont]]
 
 ### 下游客户
 - [[TSM]]
 - [[005930.KS]]
 - [[INTC]]
 - [[MU]]
-- [[GlobalFoundries]]
+- [[SK Hynix]]
 
 ### 竞争对手
 - [[ASML]]
 - [[Tokyo Electron]]
 - [[LRCX]]
-- [[KLA Corporation]]
+- [[KLA]]
 
 ### 核心产品
-- [[Lithography equipment]]
-- [[Deposition and etch systems]]
-- [[Wafer cleaning and inspection tools]]
-- [[Display manufacturing equipment]]
-- [[Solar cell processing systems]]
+- [[Deposition equipment]]
+- [[Etching equipment]]
+- [[Inspection & metrology]]
+- [[Cleaning equipment]]
+- [[Laser trimming]]
 
 ## 数据来源
 
 - [Applied Materials](https://en.wikipedia.org/wiki/Applied_Materials,_Inc.)
-- [Applied Materials, Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/Applied_Materials)
-- [Applied Materials, Inc. suppliers manufacturers](https://csimarket.com/stocks/AMAT-Suppliers)
-- [Applied Materials, Inc. major customers clients](https://en.wikipedia.org/wiki/Applied_Materials)
-- [Applied Materials, Inc. major customers clients](https://csimarket.com/stocks/AMAT-Customers)
+- [Applied Materials, Inc. suppliers manufacturers](https://www.appliedmaterials.com/us/en.html)
+- [Applied Materials, Inc. suppliers manufacturers](https://www.gurufocus.com/news/4068593/decoding-applied-materials-inc-amat-a-strategic-swot-insight)
+- [Applied Materials, Inc. major customers clients](https://www.appliedmaterials.com/us/en.html)
+- [Applied Materials, Inc. major customers clients](https://www.bloomberg.com/quote/AMAT:US)
 
 ## 元数据
 
-- **更新日期**: 2026-08-04
+- **更新日期**: 2026-08-05

@@ -2,36 +2,36 @@
   "ticker": "NFLX",
   "company_name": "Netflix, Inc.",
   "sector": "Communication Services",
-  "industry": "Entertainment",
+  "industry": "Entertainment / Streaming Media",
   "upstream": [
-    "Content producers (e.g., Warner Bros., Disney, NBCUniversal)",
-    "MSFT",
-    "Content delivery network providers (Akamai, Cloudflare)",
-    "AAPL",
-    "Marketing and distribution partners"
+    "Major film and television studios (e.g., Warner Bros., Disney)",
+    "Independent production companies",
+    "Content licensing agencies",
+    "AMZN",
+    "AAPL"
   ],
   "downstream": [
-    "Individual subscribers worldwide",
-    "Corporate accounts (e.g., enterprise streaming solutions)",
+    "U.S. household subscribers",
+    "International household subscribers",
+    "Corporate and institutional accounts",
     "005930.KS",
-    "AAPL",
-    "Telecom carriers offering bundled services"
+    "Smart TV and streaming device platforms"
   ],
   "competitors": [
     "Disney+",
-    "Hulu",
     "AMZN",
+    "Hulu",
     "HBO Max",
-    "Peacock"
+    "AAPL"
   ],
   "key_products": [
-    "Netflix streaming service",
-    "Netflix Originals",
-    "Licensed third‑party content library",
-    "Netflix Studios production",
-    "Netflix mobile and web apps"
+    "Netflix streaming service (web, mobile, TV)",
+    "Original programming (e.g., Stranger Things, The Crown)",
+    "Licensed TV shows and movies",
+    "Mobile and offline download features",
+    "User interface and recommendation engine"
   ],
-  "extracted_at": "2026-08-04 17:38:06",
+  "extracted_at": "2026-08-05 17:34:21",
   "sources": [
     {
       "source": "Wikipedia",
@@ -43,25 +43,25 @@
       "source": "DuckDuckGo",
       "url": "https://csimarket.com/stocks/NFLX-Suppliers",
       "query": "Netflix, Inc. suppliers manufacturers",
-      "snippet": "Jul 19, 2026 · Netflix Inc supply chain, list and performance of Netflix Incs ' suppliers - CSIMarket"
+      "snippet": "Netflix Inc supply chain, list and performance of Netflix Incs ' suppliers - CSIMarket."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://npfp.netflixstudios.com/",
+      "url": "http://about.netflix.com/",
       "query": "Netflix, Inc. suppliers manufacturers",
-      "snippet": "The Netflix Preferred Fulfillment Partner (NPFP) program represents a worldwide network of elite media fulfillment companies . After meeting strict st"
+      "snippet": "Discover more about Netflix and the great stories we’re telling around the world.Whatever you’re into, whatever your mood, Netflix delivers the next s"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/NFLX-Customers",
+      "url": "http://about.netflix.com/",
       "query": "Netflix, Inc. major customers clients",
-      "snippet": "Jun 20, 2026 · During the corresponding time, Netflix Inc recorded a revenue increase by 16.19 % year on year, sequentially revenue grew by 1.65 %. Wh"
+      "snippet": "Discover more about Netflix and the great stories we’re telling around the world.Whatever you’re into, whatever your mood, Netflix delivers the next s"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ir.netflix.net/ir-overview/profile/default.aspx",
+      "url": "https://www.marketresearch.com/GlobalData-v3648/Netflix-NFLX-Financial-Strategic-SWOT-45074809/",
       "query": "Netflix, Inc. major customers clients",
-      "snippet": "Jul 16, 2026 · Netflix is one of the world’s leading entertainment services offering TV series, films, games and live programming across a wide variet"
+      "snippet": "Netflix Inc ( Netflix ) is a subscription-based entertainment service provider. The company offers TV shows and movies including original series, docu"
     }
   ]
 }

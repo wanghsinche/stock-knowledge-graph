@@ -3,8 +3,8 @@ ticker: CAT
 company: Caterpillar Inc.
 sector: Industrials
 industry: Farm & Heavy Construction Machinery
-extracted_at: 2026-08-04 17:32:40
-last_updated: 2026-08-04
+extracted_at: 2026-08-05 17:30:08
+last_updated: 2026-08-05
 ---
 
 # CAT - Caterpillar Inc.
@@ -12,46 +12,49 @@ last_updated: 2026-08-04
 ## 基本信息
 
 - **所属行业**: Industrials / Farm & Heavy Construction Machinery
-- **提取时间**: 2026-08-04 17:32:40
+- **提取时间**: 2026-08-05 17:30:08
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Steel & alloy suppliers]]
-- [[Aluminum producers]]
-- [[Rubber & tire manufacturers]]
-- [[Electronic component suppliers]]
-- [[Hydraulic fluid and pump manufacturers]]
+- [[Alcoa (steel)]]
+- [[Dow Chemical (plastics)]]
+- [[Honeywell (electronics)]]
+- [[Eaton (hydraulics)]]
+- [[Bosch (components)]]
 
 ### 下游客户
-- [[Construction and civil engineering firms]]
-- [[Mining and quarry operators]]
-- [[Agricultural equipment users]]
-- [[Oil and gas exploration companies]]
-- [[Government and municipal infrastructure projects]]
+- [[HPQ]]
+- [[Rio Tinto (mining)]]
+- [[Bechtel (construction)]]
+- [[Fluor (engineering)]]
+- [[Construction contractors worldwide]]
 
 ### 竞争对手
-- [[Komatsu Ltd.]]
+- [[Komatsu]]
 - [[Volvo Construction Equipment]]
-- [[DE]]
 - [[CNH Industrial]]
-- [[Doosan Infracore]]
+- [[DE]]
+- [[Hitachi Construction Machinery]]
 
 ### 核心产品
 - [[Excavators]]
 - [[Bulldozers]]
-- [[Wheel loaders]]
 - [[Backhoes]]
+- [[Wheel loaders]]
 - [[Mining trucks]]
+- [[Diesel engines]]
+- [[Generators]]
+- [[Hydraulic equipment]]
 
 ## 数据来源
 
-- [Cat (disambiguation)](https://en.wikipedia.org/wiki/CAT)
-- [CAT suppliers manufacturers](https://www.cat.com/en_US/support/dealer-locator.html)
-- [CAT suppliers manufacturers](https://www.caterpillar.com/en/company/working-together/suppliers.html)
-- [CAT major customers clients](https://www.youtube.com/watch?v=bp1PJJR-xC0)
-- [CAT major customers clients](https://www.ttecjobs.com/en/work-from-home)
+- [Caterpillar Inc.](https://en.wikipedia.org/wiki/Caterpillar_Inc.)
+- [Caterpillar Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/Caterpillar_Inc.)
+- [Caterpillar Inc. suppliers manufacturers](https://csimarket.com/stocks/CAT-Suppliers)
+- [Caterpillar Inc. major customers clients](https://en.wikipedia.org/wiki/Caterpillar_Inc.)
+- [Caterpillar Inc. major customers clients](https://www.linkedin.com/company/caterpillar-inc)
 
 ## 元数据
 
-- **更新日期**: 2026-08-04
+- **更新日期**: 2026-08-05

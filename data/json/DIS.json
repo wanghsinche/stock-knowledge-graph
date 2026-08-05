@@ -1,43 +1,67 @@
 {
   "ticker": "DIS",
   "company_name": "The Walt Disney Company",
-  "sector": "Communication Services / Entertainment",
-  "industry": "Mass Media & Entertainment",
+  "sector": "Communication Services",
+  "industry": "Entertainment",
   "upstream": [
-    "Film & animation equipment suppliers",
-    "Special effects and visual‑effects vendors",
-    "Music and sound production companies",
-    "Theme park ride and attraction manufacturers",
-    "Merchandise and licensing partners"
+    "ADBE",
+    "Autodesk (3D modeling & animation tools)",
+    "Weta Digital (special effects & visual effects)",
+    "SONY",
+    "MSFT"
   ],
   "downstream": [
-    "Cable and satellite TV providers",
-    "Streaming platform subscribers (Disney+)",
-    "Theme park visitors",
-    "Merchandise consumers",
-    "Broadcast and cable networks"
+    "Disney+ subscribers",
+    "Theme park visitors (Disneyland, Disney World, etc.)",
+    "ABC Television Network viewers",
+    "Movie theater audiences (Disney Studios releases)",
+    "Merchandise buyers (Disney brand products)"
   ],
   "competitors": [
     "NFLX",
-    "Comcast Corporation",
-    "AMZN",
+    "Comcast/NBCUniversal",
     "Warner Bros. Discovery",
-    "Universal Studios (NBCUniversal)"
+    "SONY",
+    "AMZN"
   ],
   "key_products": [
-    "Feature films and animated movies",
-    "Television series and networks",
     "Disney+ streaming service",
-    "Theme parks and resorts",
-    "Consumer merchandise and licensing"
+    "Marvel Cinematic Universe films",
+    "Pixar animated movies",
+    "ABC Television Network",
+    "ESPN sports network"
   ],
-  "extracted_at": "2026-05-06 17:33:56",
+  "extracted_at": "2026-08-05 17:33:27",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/The_Walt_Disney_Company",
       "title": "The Walt Disney Company",
-      "snippet": "The Walt Disney Company (TWDC), commonly known as simply Disney, is an American multinational mass media and entertainment conglomerate headquartered at the Walt Disney Studios complex in Burbank, Cal"
+      "snippet": "The Walt Disney Company, commonly and globally known as simply Disney, is an American multinational mass media and entertainment conglomerate headquartered at the Walt Disney Studios complex in Burban"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://ru.wikipedia.org/wiki/Дисней,_Уолт",
+      "query": "The Walt Disney Company suppliers manufacturers",
+      "snippet": "Walter Elias Disney , Walt Disney , МФА: [ˈwɔltɚ ɪˈlaɪəs ˈdɪzni]; 5 декабря 1901, Чикаго, Иллинойс — 15 декабря 1966, Бербанк, Калифорния) — американс"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://thewaltdisneycompany.com/",
+      "query": "The Walt Disney Company suppliers manufacturers",
+      "snippet": "About The Walt Disney Company . Disney 's mission is to entertain, inform, and inspire people around the world through the power of unparalleled story"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://thewaltdisneycompany.com/",
+      "query": "The Walt Disney Company major customers clients",
+      "snippet": "About The Walt Disney Company . Disney 's mission is to entertain, inform, and inspire people around the world through the power of unparalleled story"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.conservapedia.com/The_Walt_Disney_Company",
+      "query": "The Walt Disney Company major customers clients",
+      "snippet": "The Walt Disney Company was founded by Walt Disney and his brother Roy in 1923. A huge company , more of a corporation by now, it includes making movi"
     }
   ]
 }

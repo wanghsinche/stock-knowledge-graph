@@ -1,37 +1,37 @@
 {
   "ticker": "CSCO",
   "company_name": "Cisco Systems, Inc.",
-  "sector": "Technology / Communication Equipment",
-  "industry": "Networking Equipment",
+  "sector": "Technology",
+  "industry": "Communication Equipment",
   "upstream": [
     "INTC",
-    "AVGO",
     "QCOM",
+    "AVGO",
     "TXN",
-    "MRVL"
+    "NVDA"
   ],
   "downstream": [
-    "CAT",
-    "Enterprise IT Departments",
-    "Government Agencies",
-    "Internet Service Providers",
-    "CAT"
+    "AT&T",
+    "Verizon",
+    "Comcast",
+    "MSFT",
+    "AMZN"
   ],
   "competitors": [
     "JNPR",
-    "ANET",
     "Huawei",
+    "ANET",
     "Nokia",
     "Ericsson"
   ],
   "key_products": [
-    "Cisco IOS",
-    "Cisco Catalyst Switches",
-    "Cisco Meraki",
-    "Cisco Webex",
-    "Cisco OpenDNS"
+    "Cisco routers",
+    "Cisco switches",
+    "Cisco security appliances",
+    "Webex",
+    "OpenDNS"
   ],
-  "extracted_at": "2026-08-04 17:40:20",
+  "extracted_at": "2026-08-05 17:37:16",
   "sources": [
     {
       "source": "Wikipedia",
@@ -53,15 +53,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://ru.wikipedia.org/wiki/Cisco",
+      "url": "https://www.cisco.com/",
       "query": "Cisco Systems, Inc. major customers clients",
-      "snippet": "Cisco Systems , «Сиско Системз» — американская транснациональная компания, разрабатывающая и продающая сетевое оборудование, предназначенное в основно"
+      "snippet": "Cisco is a worldwide technology leader powering an inclusive future for all. Learn more about our products, services, solutions, and innovations.39M N"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://cisco.com/",
+      "url": "https://destinykey.org/en/companies/cisco-systems",
       "query": "Cisco Systems, Inc. major customers clients",
-      "snippet": "Скачать Cisco Wireless Control System ."
+      "snippet": "Cisco Systems entered the public market on February 16, 1990, with a chart where a giant stellium of five planets in Capricorn — Mars, Venus, Saturn, "
     }
   ]
 }

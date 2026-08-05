@@ -2,36 +2,36 @@
   "ticker": "UNH",
   "company_name": "UnitedHealth Group Incorporated",
   "sector": "Healthcare",
-  "industry": "Healthcare Plans",
+  "industry": "Health Insurance / Health Care Services",
   "upstream": [
     "Pharmaceutical manufacturers",
     "Medical device manufacturers",
     "Health IT vendors",
     "Pharmacy benefit managers",
-    "Health data analytics providers"
+    "Healthcare technology providers"
   ],
   "downstream": [
     "Large employers",
-    "Government agencies (e.g., Medicare, Medicaid)",
-    "Small businesses",
+    "Government programs (Medicare, Medicaid)",
+    "Self‑insured corporations",
     "Individual consumers",
-    "Other health plans"
+    "Health care providers (hospitals, clinics)"
   ],
   "competitors": [
-    "Kaiser Permanente",
+    "Anthem",
     "Aetna",
     "Cigna",
-    "Blue Cross Blue Shield",
-    "Humana"
+    "Humana",
+    "Molina Healthcare"
   ],
   "key_products": [
-    "Health insurance plans",
-    "Health care services (Optum)",
-    "Pharmacy benefit management",
-    "Health data analytics",
-    "Wellness and preventive programs"
+    "UnitedHealthcare insurance plans",
+    "OptumHealth services",
+    "OptumInsight analytics",
+    "OptumRx pharmacy benefit management",
+    "OptumCare clinical services"
   ],
-  "extracted_at": "2026-07-23 17:18:20",
+  "extracted_at": "2026-08-05 17:36:00",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +41,27 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/UNH-technical-analysis",
-      "query": "UnitedHealth Group Incorporated suppliers manufacturers",
-      "snippet": "Analyse Unitedhealth Group Incorporated 's stock charts with over 30 different indicators - CSIMarket."
-    },
-    {
-      "source": "DuckDuckGo",
       "url": "https://www.uhc.com/sign-in",
       "query": "UnitedHealth Group Incorporated suppliers manufacturers",
       "snippet": "Ready to login or register for a health plan account? Find links for UnitedHealthcare's secure sites for members, employers, brokers or providers."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://pluang.com/en/compare/bbw-vs-unh",
-      "query": "UnitedHealth Group Incorporated major customers clients",
-      "snippet": "Compare Build A Bear Workshop Inc and UnitedHealth Group Inc side by side — live prices, performance, key stats, technicals, Aura AI signals and inves"
+      "url": "https://www.marketbeat.com/instant-alerts/filing-dala-group-llc-takes-110-million-position-in-unitedhealth-group-incorporated-unh-2026-08-02/",
+      "query": "UnitedHealth Group Incorporated suppliers manufacturers",
+      "snippet": "Dala Group LLC bought a new position in UnitedHealth Group Incorporated (NYSE:UNH - Free Report) during the 1st quarter, according to the company in i"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.alpha-sense.com/earnings/unh/",
+      "url": "https://www.marketresearch.com/MarketLine-v3883/UnitedHealth-Group-Incorporated-Company-Profile-38951281/",
       "query": "UnitedHealth Group Incorporated major customers clients",
-      "snippet": "Unitedhealth Group Inc . unitedhealthgroup .com. UnitedHealth Group is one of the largest private health insurers and provides medical benefits to abo"
+      "snippet": "UnitedHealth Group Incorporated ( UnitedHealth Group or 'the company) is a health care company. The company provides health care benefits and services"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.tradingview.com/news/zacks:ea111cb93094b:0-unitedhealth-vs-centene-which-managed-care-stock-is-the-better-buy/",
+      "query": "UnitedHealth Group Incorporated major customers clients",
+      "snippet": "UnitedHealth Group Incorporated UNH and Centene Corporation CNC are two leading managed care companies with meaningful exposure to Medicare and Medica"
     }
   ]
 }

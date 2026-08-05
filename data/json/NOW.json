@@ -7,22 +7,22 @@
     "AMZN",
     "MSFT",
     "GOOGL",
-    "IBM",
-    "DELL"
-  ],
-  "downstream": [
-    "Walmart",
-    "JPMorgan Chase",
-    "AT&T",
-    "Verizon",
+    "DELL",
     "CSCO"
   ],
+  "downstream": [
+    "Government agencies",
+    "Financial institutions",
+    "Healthcare organizations",
+    "Retail companies",
+    "Manufacturing firms"
+  ],
   "competitors": [
-    "CRM",
     "MSFT",
+    "CRM",
+    "Workday",
     "SAP SuccessFactors",
-    "ORCL",
-    "Workday"
+    "ORCL"
   ],
   "key_products": [
     "Now Platform",
@@ -31,7 +31,7 @@
     "IT Business Management (ITBM)",
     "Customer Service Management (CSM)"
   ],
-  "extracted_at": "2026-08-04 17:39:29",
+  "extracted_at": "2026-08-05 17:38:21",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,9 +47,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.insidermonkey.com/blog/analyzing-servicenows-now-unique-position-in-workflow-automation-1805859/",
+      "url": "https://www.investing.com/equities/servicenow-inc?cid=1248131",
       "query": "ServiceNow, Inc. suppliers manufacturers",
-      "snippet": "ServiceNow , Inc . (NYSE: NOW ) is a cloud-based software company that provides a platform for automating and managing digital workflows. On July 29, "
+      "snippet": "ServiceNow Inc stock price live, this page displays NYSE NOW stock exchange data. View the NOW premarket stock price ahead of the market session or as"
     },
     {
       "source": "DuckDuckGo",

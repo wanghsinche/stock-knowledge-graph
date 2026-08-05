@@ -3,8 +3,8 @@ ticker: BAC
 company: Bank of America Corporation
 sector: Financial Services
 industry: Banks - Diversified
-extracted_at: 2026-07-29 17:22:35
-last_updated: 2026-07-29
+extracted_at: 2026-08-05 17:37:50
+last_updated: 2026-08-05
 ---
 
 # BAC - Bank of America Corporation
@@ -12,46 +12,46 @@ last_updated: 2026-07-29
 ## 基本信息
 
 - **所属行业**: Financial Services / Banks - Diversified
-- **提取时间**: 2026-07-29 17:22:35
+- **提取时间**: 2026-08-05 17:37:50
 
 ## 产业链关系
 
 ### 上游供应商
-- [[MSFT]]
-- [[Payment processors (e.g., Visa, Mastercard)]]
-- [[Data providers (e.g., Bloomberg, Thomson Reuters)]]
-- [[Credit card processors (e.g., Visa, Mastercard)]]
-- [[Regulatory bodies (e.g., Federal Reserve, OCC)]]
+- [[Visa Inc.]]
+- [[Mastercard Inc.]]
+- [[PayPal Holdings Inc.]]
+- [[FIS Global]]
+- [[Fiserv Inc.]]
 
 ### 下游客户
-- [[Retail customers (individuals)]]
-- [[Corporate clients (mid‑size to large enterprises)]]
-- [[Government agencies and public sector entities]]
-- [[Small and medium enterprises (SMEs)]]
-- [[High‑net‑worth individuals (wealth management)]]
+- [[Retail consumers]]
+- [[Small and medium enterprises]]
+- [[Large corporations]]
+- [[Institutional investors]]
+- [[Mortgage borrowers]]
 
 ### 竞争对手
-- [[JPMorgan Chase]]
-- [[Wells Fargo]]
-- [[Citigroup]]
-- [[Goldman Sachs]]
+- [[JPMorgan Chase & Co.]]
+- [[Citigroup Inc.]]
+- [[Wells Fargo & Co.]]
+- [[Goldman Sachs Group Inc.]]
 - [[Morgan Stanley]]
 
 ### 核心产品
-- [[Retail banking services (checking, savings)]]
-- [[Commercial banking and lending]]
-- [[Investment banking and advisory]]
-- [[Wealth management and private banking]]
-- [[Credit cards and payment services]]
+- [[Retail banking services]]
+- [[Commercial banking services]]
+- [[Investment banking and capital markets]]
+- [[Wealth management and trust services]]
+- [[Mortgage and home equity products]]
 
 ## 数据来源
 
 - [Bank of America](https://en.wikipedia.org/wiki/Bank_of_America_Corporation)
 - [Bank of America Corporation suppliers manufacturers](https://www.bankofamerica.com/)
-- [Bank of America Corporation suppliers manufacturers](https://www.britannica.com/money/Bank-of-America-Corporation)
-- [Bank of America Corporation major customers clients](https://www.bankofamerica.com/)
-- [Bank of America Corporation major customers clients](https://www.marketwatch.com/investing/stock/bac)
+- [Bank of America Corporation suppliers manufacturers](https://finance.yahoo.com/quote/BAC/)
+- [Bank of America Corporation competitors alternatives](https://bullfincher.io/companies/bank-of-america-corporation/competitors)
+- [Bank of America Corporation competitors alternatives](https://brandhistories.com/printify-company-history)
 
 ## 元数据
 
-- **更新日期**: 2026-07-29
+- **更新日期**: 2026-08-05
