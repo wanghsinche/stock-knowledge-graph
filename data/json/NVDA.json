@@ -3,35 +3,11 @@
   "company_name": "NVIDIA Corporation",
   "sector": "Technology",
   "industry": "Semiconductors",
-  "upstream": [
-    "TSM",
-    "005930.KS",
-    "GlobalFoundries",
-    "ASE Technology Holding",
-    "Amkor Technology"
-  ],
-  "downstream": [
-    "SONY",
-    "MSFT",
-    "AMZN",
-    "GOOGL",
-    "TSLA"
-  ],
-  "competitors": [
-    "AMD",
-    "INTC",
-    "QCOM",
-    "AVGO",
-    "AAPL"
-  ],
-  "key_products": [
-    "GeForce GPUs",
-    "Quadro GPUs",
-    "Tesla GPUs",
-    "NVIDIA DRIVE SoC",
-    "NVIDIA Jetson SoC"
-  ],
-  "extracted_at": "2026-08-05 17:19:19",
+  "upstream": [],
+  "downstream": [],
+  "competitors": [],
+  "key_products": [],
+  "extracted_at": "2026-08-07 16:41:40",
   "sources": [
     {
       "source": "Wikipedia",
@@ -50,18 +26,6 @@
       "url": "https://www.investing.com/equities/nvidia-corp",
       "query": "NVIDIA Corporation suppliers manufacturers",
       "snippet": "View today's NVIDIA Corporation stock price and latest NVDA news and analysis. Create real-time notifications to follow any changes in the live stock "
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/news/nvidias-largest-customers-201900375.html",
-      "query": "NVIDIA Corporation major customers clients",
-      "snippet": "May 2, 2024 - However, in its recent 10-K filing, the company did say that one customer represented 13% of its revenue from its compute and networking"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/news/nvidias-biggest-customers-095700428.html",
-      "query": "NVIDIA Corporation major customers clients",
-      "snippet": "June 26, 2025 - Nvidia has amassed an impressive list of customers, which includes top AI developers like Amazon, Microsoft, and Alphabet . Nvidia's c"
     }
   ]
 }

@@ -3,8 +3,8 @@ ticker: CCJ
 company: Cameco Corporation
 sector: Energy
 industry: Uranium
-extracted_at: 2026-08-05 17:41:16
-last_updated: 2026-08-05
+extracted_at: 2026-08-07 16:48:17
+last_updated: 2026-08-07
 ---
 
 # CCJ - Cameco Corporation
@@ -12,46 +12,28 @@ last_updated: 2026-08-05
 ## 基本信息
 
 - **所属行业**: Energy / Uranium
-- **提取时间**: 2026-08-05 17:41:16
+- **提取时间**: 2026-08-07 16:48:17
 
 ## 产业链关系
 
 ### 上游供应商
-- [[CAT]]
-- [[Komatsu Ltd.]]
-- [[Uranium Mining Equipment Ltd.]]
-- [[Uranium Processing Equipment Inc.]]
-- [[CAT]]
+_暂无数据_
 
 ### 下游客户
-- [[U.S. nuclear utilities]]
-- [[Canadian nuclear utilities]]
-- [[French nuclear utilities]]
-- [[Russian nuclear utilities]]
-- [[Chinese nuclear utilities]]
+_暂无数据_
 
 ### 竞争对手
-- [[Kazatomprom]]
-- [[Energy Fuels Inc.]]
-- [[Uranium Energy Corp.]]
-- [[Uranium One]]
-- [[Nornickel]]
+_暂无数据_
 
 ### 核心产品
-- [[Uranium concentrate]]
-- [[Uranium hexafluoride (UF6)]]
-- [[Enriched uranium fuel]]
-- [[Depleted uranium]]
-- [[Uranium ore]]
+_暂无数据_
 
 ## 数据来源
 
 - [Cameco](https://en.wikipedia.org/wiki/Cameco_Corporation)
 - [Cameco Corporation suppliers manufacturers](https://www.cameco.com/)
-- [Cameco Corporation suppliers manufacturers](https://www.lbank.com/stock/ccj)
-- [Cameco Corporation major customers clients](https://www.cameco.com/)
-- [Cameco Corporation major customers clients](https://www.lbank.com/stock/ccj)
+- [Cameco Corporation suppliers manufacturers](https://www.banktrack.org/download/cameco_corporate_factsheet/cameco_corporate_fact_sheet.pdf)
 
 ## 元数据
 
-- **更新日期**: 2026-08-05
+- **更新日期**: 2026-08-07

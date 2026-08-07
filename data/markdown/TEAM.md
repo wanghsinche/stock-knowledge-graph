@@ -3,8 +3,8 @@ ticker: TEAM
 company: Atlassian Corporation
 sector: Technology
 industry: Software - Application
-extracted_at: 2026-05-04 17:29:38
-last_updated: 2026-05-04
+extracted_at: 2026-08-07 16:44:33
+last_updated: 2026-08-07
 ---
 
 # TEAM - Atlassian Corporation
@@ -12,46 +12,28 @@ last_updated: 2026-05-04
 ## 基本信息
 
 - **所属行业**: Technology / Software - Application
-- **提取时间**: 2026-05-04 17:29:38
+- **提取时间**: 2026-08-07 16:44:33
 
 ## 产业链关系
 
 ### 上游供应商
-- [[AMZN]]
-- [[MSFT]]
-- [[GOOGL]]
-- [[DELL]]
-- [[HPQ]]
+_暂无数据_
 
 ### 下游客户
-- [[Enterprise IT departments]]
-- [[Software development teams]]
-- [[Project management teams]]
-- [[Product teams]]
-- [[Customer support teams]]
+_暂无数据_
 
 ### 竞争对手
-- [[MSFT]]
-- [[Slack]]
-- [[Asana]]
-- [[Monday.com]]
-- [[Notion]]
+_暂无数据_
 
 ### 核心产品
-- [[Jira]]
-- [[Confluence]]
-- [[Trello]]
-- [[Bitbucket]]
-- [[Opsgenie]]
+_暂无数据_
 
 ## 数据来源
 
-- 
-- [Atlassian Corporation suppliers manufacturers](https://www.atlassian.com/)
-- [Atlassian Corporation suppliers manufacturers](https://csimarket.com/stocks/TEAM-Efficiency-Comparisons.html)
-- [Atlassian Corporation major customers clients](https://www.atlassian.com/company/contact)
-- [Atlassian Corporation major customers clients](https://parameter.io/atlassian-corporation-team-stock-jumps-to-80-after-robust-revenue-growth-and-ai-momentum/)
+- [Atlassian](https://en.wikipedia.org/wiki/Atlassian_Corporation)
+- [Atlassian Corporation suppliers manufacturers](https://www.atlassian.com/company/contact/suppliers)
+- [Atlassian Corporation suppliers manufacturers](https://csimarket.com/stocks/TEAM-Suppliers)
 
 ## 元数据
 
-- **更新日期**: 2026-05-04
+- **更新日期**: 2026-08-07

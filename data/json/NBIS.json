@@ -1,37 +1,13 @@
 {
   "ticker": "NBIS",
-  "company_name": "Nebius Group N.V.",
+  "company_name": "NBIS",
   "sector": "Communication Services",
   "industry": "Internet Content & Information",
-  "upstream": [
-    "NVDA",
-    "AMD",
-    "INTC",
-    "GOOGL",
-    "MSFT"
-  ],
-  "downstream": [
-    "GOOGL",
-    "AMZN",
-    "MSFT",
-    "Alibaba Cloud",
-    "IBM"
-  ],
-  "competitors": [
-    "OpenAI",
-    "Anthropic",
-    "Cohere",
-    "Hugging Face",
-    "DeepMind"
-  ],
-  "key_products": [
-    "Nebius AI Platform",
-    "Avride",
-    "TripleTen",
-    "Toloka",
-    "Clickhouse"
-  ],
-  "extracted_at": "2026-08-05 17:26:16",
+  "upstream": [],
+  "downstream": [],
+  "competitors": [],
+  "key_products": [],
+  "extracted_at": "2026-08-07 16:43:19",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,21 +23,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://stockanalysis.com/stocks/nbis/",
+      "url": "https://finance.yahoo.com/quote/NBIS/",
       "query": "NBIS suppliers manufacturers",
-      "snippet": "A detailed overview of Nebius Group N.V. ( NBIS ) stock, including real-time price, chart, key statistics, news, and more."
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://stockanalysis.com/stocks/nbis/",
-      "query": "NBIS major customers clients",
-      "snippet": "A detailed overview of Nebius Group N.V. ( NBIS ) stock, including real-time price, chart, key statistics, news, and more."
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.nasdaq.com/market-activity/stocks/nbis",
-      "query": "NBIS major customers clients",
-      "snippet": "Show more results ->. NBIS . Summary. Quotes.Data Disclaimer: The Nasdaq Indices and the Major Indices are delayed at least 1 minute."
+      "snippet": "Find the latest Nebius Group N.V. ( NBIS ) stock quote, history, news and other vital information to help you with your stock trading and investing."
     }
   ]
 }

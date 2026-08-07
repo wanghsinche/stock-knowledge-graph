@@ -2,36 +2,12 @@
   "ticker": "NFLX",
   "company_name": "Netflix, Inc.",
   "sector": "Communication Services",
-  "industry": "Entertainment / Streaming Media",
-  "upstream": [
-    "Major film and television studios (e.g., Warner Bros., Disney)",
-    "Independent production companies",
-    "Content licensing agencies",
-    "AMZN",
-    "AAPL"
-  ],
-  "downstream": [
-    "U.S. household subscribers",
-    "International household subscribers",
-    "Corporate and institutional accounts",
-    "005930.KS",
-    "Smart TV and streaming device platforms"
-  ],
-  "competitors": [
-    "Disney+",
-    "AMZN",
-    "Hulu",
-    "HBO Max",
-    "AAPL"
-  ],
-  "key_products": [
-    "Netflix streaming service (web, mobile, TV)",
-    "Original programming (e.g., Stranger Things, The Crown)",
-    "Licensed TV shows and movies",
-    "Mobile and offline download features",
-    "User interface and recommendation engine"
-  ],
-  "extracted_at": "2026-08-05 17:34:21",
+  "industry": "Entertainment",
+  "upstream": [],
+  "downstream": [],
+  "competitors": [],
+  "key_products": [],
+  "extracted_at": "2026-08-07 16:47:19",
   "sources": [
     {
       "source": "Wikipedia",
@@ -47,21 +23,9 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "http://about.netflix.com/",
+      "url": "https://www.stock-analysis-on.net/NASDAQ/Company/Netflix-Inc",
       "query": "Netflix, Inc. suppliers manufacturers",
-      "snippet": "Discover more about Netflix and the great stories we’re telling around the world.Whatever you’re into, whatever your mood, Netflix delivers the next s"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "http://about.netflix.com/",
-      "query": "Netflix, Inc. major customers clients",
-      "snippet": "Discover more about Netflix and the great stories we’re telling around the world.Whatever you’re into, whatever your mood, Netflix delivers the next s"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.marketresearch.com/GlobalData-v3648/Netflix-NFLX-Financial-Strategic-SWOT-45074809/",
-      "query": "Netflix, Inc. major customers clients",
-      "snippet": "Netflix Inc ( Netflix ) is a subscription-based entertainment service provider. The company offers TV shows and movies including original series, docu"
+      "snippet": "Netflix Inc . (NASDAQ:NFLX). The Company Profile. Financial Statements.Examines Netflix Inc . capital structure in terms of the mix of its financing s"
     }
   ]
 }

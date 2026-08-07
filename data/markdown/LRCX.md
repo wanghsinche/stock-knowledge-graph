@@ -3,8 +3,8 @@ ticker: LRCX
 company: Lam Research Corporation
 sector: Technology
 industry: Semiconductor Equipment & Materials
-extracted_at: 2026-08-05 17:31:59
-last_updated: 2026-08-05
+extracted_at: 2026-08-07 16:47:29
+last_updated: 2026-08-07
 ---
 
 # LRCX - Lam Research Corporation
@@ -12,46 +12,28 @@ last_updated: 2026-08-05
 ## 基本信息
 
 - **所属行业**: Technology / Semiconductor Equipment & Materials
-- **提取时间**: 2026-08-05 17:31:59
+- **提取时间**: 2026-08-07 16:47:29
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Silicon wafer suppliers]]
-- [[Chemical and gas suppliers]]
-- [[META]]
-- [[Precision tool and sensor suppliers]]
-- [[Cleanroom and environmental control equipment providers]]
+_暂无数据_
 
 ### 下游客户
-- [[TSM]]
-- [[005930.KS]]
-- [[INTC]]
-- [[MU]]
-- [[GlobalFoundries]]
+_暂无数据_
 
 ### 竞争对手
-- [[AMAT]]
-- [[ASML]]
-- [[Tokyo Electron]]
-- [[KLA Corporation]]
-- [[LRCX]]
+_暂无数据_
 
 ### 核心产品
-- [[Front‑end etch systems]]
-- [[Front‑end deposition systems]]
-- [[Wafer cleaning and surface preparation equipment]]
-- [[Back‑end wafer‑level packaging (WLP) tools]]
-- [[MEMS fabrication equipment]]
+_暂无数据_
 
 ## 数据来源
 
 - [Lam Research](https://en.wikipedia.org/wiki/Lam_Research_Corporation)
 - [Lam Research Corporation suppliers manufacturers](https://www.marketbeat.com/instant-alerts/filing-triangle-securities-wealth-management-sells-5454-shares-of-lam-research-corporation-lrcx-2026-06-26/)
-- [Lam Research Corporation suppliers manufacturers](https://investor.lamresearch.com/2026-07-29-Lam-Research-Corporation-Reports-Financial-Results-for-the-Quarter-Ended-June-28,-2026)
-- [Lam Research Corporation major customers clients](https://investor.lamresearch.com/2026-07-29-Lam-Research-Corporation-Reports-Financial-Results-for-the-Quarter-Ended-June-28,-2026)
-- [Lam Research Corporation major customers clients](https://www.marketresearch.com/MarketLine-v3883/Lam-Research-Corporation-Company-Profile-43331218/)
+- [Lam Research Corporation suppliers manufacturers](https://news.thomasnet.com/fullstory/lam-research-corporation-ships-first-300-mm-2300-syndion-tm-system-for-3-d-ic-through-silicon-via-etch-528829)
 
 ## 元数据
 
-- **更新日期**: 2026-08-05
+- **更新日期**: 2026-08-07

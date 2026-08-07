@@ -1,37 +1,13 @@
 {
   "ticker": "MSTR",
-  "company_name": "Strategy Inc.",
+  "company_name": "Strategy Inc",
   "sector": "Technology",
   "industry": "Software - Application",
-  "upstream": [
-    "MSFT",
-    "AMZN",
-    "GOOGL",
-    "ORCL",
-    "Bloomberg Data Services"
-  ],
-  "downstream": [
-    "Walmart",
-    "JPMorgan Chase",
-    "Bank of America",
-    "AT&T",
-    "Verizon"
-  ],
-  "competitors": [
-    "SAP SE Business Objects",
-    "IBM",
-    "ORCL",
-    "MSFT",
-    "Tableau Software"
-  ],
-  "key_products": [
-    "MicroStrategy Desktop",
-    "MicroStrategy Server",
-    "MicroStrategy Cloud",
-    "MicroStrategy Mobile",
-    "MicroStrategy Analytics Platform"
-  ],
-  "extracted_at": "2026-07-31 17:28:33",
+  "upstream": [],
+  "downstream": [],
+  "competitors": [],
+  "key_products": [],
+  "extracted_at": "2026-08-07 16:44:48",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +17,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.strategy.com/company",
-      "query": "Strategy Inc suppliers manufacturers",
-      "snippet": "Uncover the narrative of Strategy , a world-renowned leader in analytics and business intelligence. Delve into our mission, values, and dedication to "
-    },
-    {
-      "source": "DuckDuckGo",
       "url": "https://www.strategy.com/press/strategy-announces-legal-name-change-from-microstrategy-incorporated-to-strategy-inc_08-14-2025",
       "query": "Strategy Inc suppliers manufacturers",
       "snippet": "Aug 14, 2025 · August 14, 2025 Strategy Announces Legal Name Change from MicroStrategy Incorporated to Strategy Inc Press Release • August 14, 2025"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://finance.yahoo.com/quote/MSTR/",
-      "query": "Strategy Inc major customers clients",
-      "snippet": "Find the latest Strategy Inc (MSTR) stock quote, history, news and other vital information to help you with your stock trading and investing."
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.linkedin.com/pulse/strategy-service-why-isnt-slide-deck-what-actually-maria-tsarkova-6yw8e",
-      "query": "Strategy Inc major customers clients",
-      "snippet": "For many clients , this is the single biggest ROI of strategy : scaling down ambition in line with what they’re actually willing (and able) to invest."
+      "url": "https://finance.yahoo.com/quote/STRC/profile/?fr=sycsrp_catchall",
+      "query": "Strategy Inc suppliers manufacturers",
+      "snippet": "See the company profile for Strategy Inc (STRC) including business summary, industry/sector information, number of employees, business summary, corpor"
     }
   ]
 }

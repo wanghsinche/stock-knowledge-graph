@@ -3,28 +3,11 @@
   "company_name": "Salesforce, Inc.",
   "sector": "Technology",
   "industry": "Software - Application",
-  "upstream": [
-    "ExactTarget Inc."
-  ],
-  "downstream": [
-    "Deloitte",
-    "Databricks"
-  ],
-  "competitors": [
-    "MSFT",
-    "SAP",
-    "ORCL",
-    "HubSpot",
-    "Zoho"
-  ],
-  "key_products": [
-    "Sales Cloud",
-    "Service Cloud",
-    "Marketing Cloud",
-    "Commerce Cloud",
-    "Einstein AI"
-  ],
-  "extracted_at": "2026-08-05 17:38:43",
+  "upstream": [],
+  "downstream": [],
+  "competitors": [],
+  "key_products": [],
+  "extracted_at": "2026-08-07 16:47:44",
   "sources": [
     {
       "source": "Wikipedia",
@@ -34,27 +17,15 @@
     },
     {
       "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/Salesforce",
+      "query": "Salesforce, Inc. suppliers manufacturers",
+      "snippet": "Salesforce, Inc . is an American cloud -based software company headquartered in San Francisco, California. It is primarily known for its customer rela"
+    },
+    {
+      "source": "DuckDuckGo",
       "url": "https://csimarket.com/stocks/CRM-Suppliers",
       "query": "Salesforce, Inc. suppliers manufacturers",
-      "snippet": "Salesforce Inc supply chain, list and performance of Salesforce Incs ' suppliers - CSIMarket."
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.salesforce.com/",
-      "query": "Salesforce, Inc. suppliers manufacturers",
-      "snippet": "ExactTarget Inc ."
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://blog.techdatapark.com/top-companies-that-use-salesforce/",
-      "query": "Salesforce, Inc. major customers clients",
-      "snippet": "Deloitte incorporates Salesforce in multiple areas to manage clients and internal workflows. US Bank utilizes Salesforce to improve customer service a"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://siliconangle.com/2025/05/12/salesforce-agentforce-data-cloud-path-software-hyperscaler/?trk=article-ssr-frontend-pulse_little-text-block",
-      "query": "Salesforce, Inc. major customers clients",
-      "snippet": "Salesforce touts a similar partnership with Databricks Inc . to bring Lakehouse data into the fold, where customers can merge Databricks’ lake data wi"
+      "snippet": "Jul 7, 2026 · For your research, we’ve provided nine additional tables on Salesforce Inc ’s suppliers . You can find them in the navigation menu under"
     }
   ]
 }

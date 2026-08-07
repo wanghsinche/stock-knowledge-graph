@@ -1,36 +1,13 @@
 {
   "ticker": "WMT",
   "company_name": "Walmart Inc.",
-  "sector": "Consumer Defensive / Discount Stores",
-  "industry": "Retail - Discount Stores",
-  "upstream": [
-    "Procter & Gamble",
-    "Coca-Cola",
-    "PepsiCo",
-    "Nestlé",
-    "Unilever"
-  ],
-  "downstream": [
-    "Consumers",
-    "Small businesses",
-    "Online shoppers",
-    "Local communities"
-  ],
-  "competitors": [
-    "Target",
-    "Costco",
-    "Dollar General",
-    "Aldi",
-    "BJ's Wholesale Club"
-  ],
-  "key_products": [
-    "Groceries",
-    "Household goods",
-    "Apparel",
-    "Electronics",
-    "Pharmacy"
-  ],
-  "extracted_at": "2026-08-05 17:35:11",
+  "sector": "Consumer Defensive",
+  "industry": "Discount Stores",
+  "upstream": [],
+  "downstream": [],
+  "competitors": [],
+  "key_products": [],
+  "extracted_at": "2026-08-07 16:48:01",
   "sources": [
     {
       "source": "Wikipedia",
@@ -49,18 +26,6 @@
       "url": "https://www.walmart.com/",
       "query": "Walmart Inc. suppliers manufacturers",
       "snippet": "Shop Walmart .com today for Every Day Low Prices. Join Walmart + for unlimited free delivery from your store & free shipping with no order minimum. St"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.walmart.com/",
-      "query": "Walmart Inc. major customers clients",
-      "snippet": "Shop Walmart .com today for Every Day Low Prices. Join Walmart + for unlimited free delivery from your store & free shipping with no order minimum. St"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.walmart.ca/",
-      "query": "Walmart Inc. major customers clients",
-      "snippet": "Online Shopping in Canada at Walmart .ca. A great selection of online electronics, baby, video games & much more. Shop online at everyday low prices!"
     }
   ]
 }

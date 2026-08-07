@@ -1,57 +1,39 @@
 ---
 ticker: MSFT
 company: Microsoft Corporation
-sector: Technology / Software - Infrastructure
+sector: Technology
 industry: Software - Infrastructure
-extracted_at: 2026-08-05 17:22:06
-last_updated: 2026-08-05
+extracted_at: 2026-08-07 16:42:13
+last_updated: 2026-08-07
 ---
 
 # MSFT - Microsoft Corporation
 
 ## 基本信息
 
-- **所属行业**: Technology / Software - Infrastructure / Software - Infrastructure
-- **提取时间**: 2026-08-05 17:22:06
+- **所属行业**: Technology / Software - Infrastructure
+- **提取时间**: 2026-08-07 16:42:13
 
 ## 产业链关系
 
 ### 上游供应商
-- [[INTC]]
-- [[AMD]]
-- [[NVDA]]
-- [[TSM]]
-- [[005930.KS]]
+_暂无数据_
 
 ### 下游客户
-- [[Fortune 500 companies]]
-- [[Government agencies]]
-- [[Small and medium businesses]]
-- [[Gamers (Xbox)]]
-- [[CAT]]
+_暂无数据_
 
 ### 竞争对手
-- [[AAPL]]
-- [[GOOGL]]
-- [[AMZN]]
-- [[ORCL]]
-- [[IBM]]
+_暂无数据_
 
 ### 核心产品
-- [[Windows]]
-- [[Office]]
-- [[Azure]]
-- [[Xbox]]
-- [[LinkedIn]]
+_暂无数据_
 
 ## 数据来源
 
 - [Microsoft](https://en.wikipedia.org/wiki/Microsoft_Corporation)
-- [Microsoft Corporation suppliers manufacturers](https://csimarket.com/stocks/suppliers_glance.php?code=MSFT)
-- [Microsoft Corporation suppliers manufacturers](https://www.alibaba.com/)
-- [Microsoft Corporation major customers clients](https://www.linkedin.com/company/microsoft)
-- [Microsoft Corporation major customers clients](https://businessaccount.microsoft.com/)
+- [Microsoft Corporation suppliers manufacturers](https://csimarket.com/stocks/MSFT-Suppliers)
+- [Microsoft Corporation suppliers manufacturers](https://download.microsoft.com/download/F/3/8/F38AF681-EB3A-4645-A9C4-D4F31B8BA8F2/Microsoft+Top+100+Production+Suppliers.pdf)
 
 ## 元数据
 
-- **更新日期**: 2026-08-05
+- **更新日期**: 2026-08-07
