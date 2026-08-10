@@ -3,8 +3,8 @@ ticker: DASH
 company: DoorDash, Inc.
 sector: Consumer Cyclical
 industry: Internet Retail
-extracted_at: 2026-05-07 17:48:44
-last_updated: 2026-05-07
+extracted_at: 2026-08-10 16:53:09
+last_updated: 2026-08-10
 ---
 
 # DASH - DoorDash, Inc.
@@ -12,46 +12,28 @@ last_updated: 2026-05-07
 ## 基本信息
 
 - **所属行业**: Consumer Cyclical / Internet Retail
-- **提取时间**: 2026-05-07 17:48:44
+- **提取时间**: 2026-08-10 16:53:09
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Restaurant partners]]
-- [[Food suppliers]]
-- [[Kitchen equipment manufacturers]]
-- [[Payment processors]]
-- [[Logistics software providers]]
+_暂无数据_
 
 ### 下游客户
-- [[Consumer app users]]
-- [[Merchant restaurants]]
-- [[Delivery couriers]]
-- [[Grocery retailers]]
-- [[Convenience store partners]]
+_暂无数据_
 
 ### 竞争对手
-- [[Uber Eats]]
-- [[Grubhub]]
-- [[Postmates (Uber Eats)]]
-- [[Seamless]]
-- [[Caviar]]
+_暂无数据_
 
 ### 核心产品
-- [[DoorDash consumer app]]
-- [[DoorDash for Restaurants]]
-- [[DoorDash Drive]]
-- [[DoorDash for Grocery]]
-- [[DoorDash for Convenience]]
+_暂无数据_
 
 ## 数据来源
 
 - [DoorDash](https://en.wikipedia.org/wiki/DoorDash,_Inc.)
-- [DoorDash, Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/DoorDash)
-- [DoorDash, Inc. suppliers manufacturers](https://labs.doordash.com/)
-- [DoorDash, Inc. major customers clients](https://businessmodelanalyst.com/doordash-target-market-analysis/)
-- [DoorDash, Inc. major customers clients](https://csimarket.com/stocks/DASH-Customers)
+- [DoorDash, Inc. suppliers manufacturers](https://interfishmarket.com/en/company.aspx?id=74808)
+- [DoorDash, Inc. suppliers manufacturers](https://www.gurufocus.com/news/8629961/decoding-doordash-inc-dash-a-strategic-swot-insight)
 
 ## 元数据
 
-- **更新日期**: 2026-05-07
+- **更新日期**: 2026-08-10

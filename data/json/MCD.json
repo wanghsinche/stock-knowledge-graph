@@ -1,37 +1,13 @@
 {
   "ticker": "MCD",
-  "company_name": "McDonald's Corporation",
+  "company_name": "MCD",
   "sector": "Consumer Cyclical",
   "industry": "Restaurants",
-  "upstream": [
-    "McCain Foods (potatoes)",
-    "Tyson Foods (chicken)",
-    "Cargill (beef)",
-    "McCormick & Company (spices)",
-    "Nestlé (coffee)"
-  ],
-  "downstream": [
-    "Franchisee restaurants",
-    "Corporate-owned restaurants",
-    "CAT",
-    "Online delivery partners",
-    "Corporate events"
-  ],
-  "competitors": [
-    "Burger King",
-    "Wendy's",
-    "KFC",
-    "Taco Bell",
-    "Chick-fil-A"
-  ],
-  "key_products": [
-    "Big Mac",
-    "Quarter Pounder with Cheese",
-    "McChicken",
-    "McFlurry",
-    "McCafe coffee"
-  ],
-  "extracted_at": "2026-08-04 17:40:49",
+  "upstream": [],
+  "downstream": [],
+  "competitors": [],
+  "key_products": [],
+  "extracted_at": "2026-08-10 16:54:25",
   "sources": [
     {
       "source": "Wikipedia",
@@ -50,18 +26,6 @@
       "url": "https://csimarket.com/stocks/suppliers_glance.php?code=MCD",
       "query": "MCD suppliers manufacturers",
       "snippet": "Mcdonald S supply chain, list and performance of Mcdonald Ss' suppliers - CSIMarket."
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/MCD-Customers",
-      "query": "MCD major customers clients",
-      "snippet": "For your research, we’ve provided 9 tables on Mcdonald s Corporation corporate clients . You can find them in the navigation menu under Customers & Ma"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://businessmodelanalyst.com/mcdonalds-target-market/",
-      "query": "MCD major customers clients",
-      "snippet": "Jun 1, 2026 · This article explores the various dimensions of McDonald ' s target market, shedding light on the demographic and psychographic factors "
     }
   ]
 }
