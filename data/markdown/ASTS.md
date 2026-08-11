@@ -1,57 +1,39 @@
 ---
 ticker: ASTS
 company: AST SpaceMobile, Inc.
-sector: Technology / Communication Equipment
-industry: Satellite Communications Equipment
-extracted_at: 2026-07-17 17:07:27
-last_updated: 2026-07-17
+sector: Technology
+industry: Communication Equipment
+extracted_at: 2026-08-11 16:55:29
+last_updated: 2026-08-11
 ---
 
 # ASTS - AST SpaceMobile, Inc.
 
 ## 基本信息
 
-- **所属行业**: Technology / Communication Equipment / Satellite Communications Equipment
-- **提取时间**: 2026-07-17 17:07:27
+- **所属行业**: Technology / Communication Equipment
+- **提取时间**: 2026-08-11 16:55:29
 
 ## 产业链关系
 
 ### 上游供应商
-- [[SpaceX]]
-- [[Lockheed Martin]]
-- [[Boeing]]
-- [[Northrop Grumman]]
-- [[Thales Alenia Space]]
+_暂无数据_
 
 ### 下游客户
-- [[Telecom operators]]
-- [[Government agencies]]
-- [[Military]]
-- [[Enterprise broadband customers]]
-- [[IoT service providers]]
+_暂无数据_
 
 ### 竞争对手
-- [[SpaceX Starlink]]
-- [[OneWeb]]
-- [[Telesat LEO]]
-- [[Iridium]]
-- [[Globalstar]]
+_暂无数据_
 
 ### 核心产品
-- [[LEO satellite constellation]]
-- [[High‑speed broadband]]
-- [[Satellite‑based internet]]
-- [[Satellite communications terminals]]
-- [[Ground station infrastructure]]
+_暂无数据_
 
 ## 数据来源
 
 - 
-- [AST SpaceMobile, Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/AST_SpaceMobile)
-- [AST SpaceMobile, Inc. suppliers manufacturers](https://ast-science.com/)
-- [AST SpaceMobile, Inc. major customers clients](https://en.wikipedia.org/wiki/AST_SpaceMobile)
-- [AST SpaceMobile, Inc. major customers clients](https://finance.yahoo.com/quote/ASTS/)
+- [AST SpaceMobile, Inc. suppliers manufacturers](https://www.businesswire.com/news/home/20260513491108/en/AST-SpaceMobile-Commends-Proposed-Direct-to-Device-Joint-Venture-by-U.S.-Mobile-Network-Operators)
+- [AST SpaceMobile, Inc. suppliers manufacturers](https://www.aaii.com/investingideas/article/504934-why-ast-spacemobile-inc8217s-asts-stock-is-up-1006)
 
 ## 元数据
 
-- **更新日期**: 2026-07-17
+- **更新日期**: 2026-08-11

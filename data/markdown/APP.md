@@ -3,8 +3,8 @@ ticker: APP
 company: AppLovin Corporation
 sector: Communication Services
 industry: Advertising Agencies
-extracted_at: 2026-08-10 16:49:30
-last_updated: 2026-08-10
+extracted_at: 2026-08-11 16:49:16
+last_updated: 2026-08-11
 ---
 
 # APP - AppLovin Corporation
@@ -12,7 +12,7 @@ last_updated: 2026-08-10
 ## 基本信息
 
 - **所属行业**: Communication Services / Advertising Agencies
-- **提取时间**: 2026-08-10 16:49:30
+- **提取时间**: 2026-08-11 16:49:16
 
 ## 产业链关系
 
@@ -36,4 +36,4 @@ _暂无数据_
 
 ## 元数据
 
-- **更新日期**: 2026-08-10
+- **更新日期**: 2026-08-11
