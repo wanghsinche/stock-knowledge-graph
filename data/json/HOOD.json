@@ -3,35 +3,11 @@
   "company_name": "Robinhood Markets, Inc.",
   "sector": "Financial Services",
   "industry": "Capital Markets",
-  "upstream": [
-    "MSFT",
-    "Market data vendors (e.g., Bloomberg, Refinitiv)",
-    "Payment processors (e.g., Stripe, PayPal)",
-    "Technology infrastructure providers (e.g., Twilio, Plaid)",
-    "Security and compliance vendors (e.g., Okta, Symantec)"
-  ],
-  "downstream": [
-    "Retail investors using the Robinhood app",
-    "Institutional clients via Robinhood Institutional",
-    "Cryptocurrency traders on the platform",
-    "Options traders using Robinhood’s options platform",
-    "Customers of Robinhood Gold (premium subscription users)"
-  ],
-  "competitors": [
-    "Charles Schwab",
-    "E*TRADE",
-    "Fidelity Investments",
-    "TD Ameritrade",
-    "Webull"
-  ],
-  "key_products": [
-    "Commission‑free stock and ETF trading",
-    "Options trading platform",
-    "Cryptocurrency trading",
-    "Margin trading (Robinhood Gold)",
-    "Cash management and debit card services"
-  ],
-  "extracted_at": "2026-08-04 17:39:05",
+  "upstream": [],
+  "downstream": [],
+  "competitors": [],
+  "key_products": [],
+  "extracted_at": "2026-08-12 16:51:01",
   "sources": [
     {
       "source": "Wikipedia",
@@ -50,18 +26,6 @@
       "url": "https://finance.yahoo.com/quote/HOOD/",
       "query": "Robinhood Markets, Inc. suppliers manufacturers",
       "snippet": "Robinhood Markets , Inc . Overview Capital Markets / Financial Services. Robinhood Markets , Inc . operates financial services platform in the United "
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Robinhood_Markets",
-      "query": "Robinhood Markets, Inc. major customers clients",
-      "snippet": "Robinhood Markets , Inc . is an American financial services company based in Menlo Park, California. It provides an electronic trading platform that f"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/HOOD-Customers",
-      "query": "Robinhood Markets, Inc. major customers clients",
-      "snippet": "For your research, we’ve provided 9 tables on Robinhood Markets Inc corporate clients . You can find them in the navigation menu under Customers & Mar"
     }
   ]
 }

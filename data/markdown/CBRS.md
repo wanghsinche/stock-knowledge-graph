@@ -1,57 +1,39 @@
 ---
 ticker: CBRS
 company: Cerebras Systems Inc.
-sector: Technology / Semiconductors
-industry: Semiconductor Equipment & AI Hardware
-extracted_at: 2026-07-22 17:13:27
-last_updated: 2026-07-22
+sector: Technology
+industry: Semiconductors
+extracted_at: 2026-08-12 16:48:49
+last_updated: 2026-08-12
 ---
 
 # CBRS - Cerebras Systems Inc.
 
 ## 基本信息
 
-- **所属行业**: Technology / Semiconductors / Semiconductor Equipment & AI Hardware
-- **提取时间**: 2026-07-22 17:13:27
+- **所属行业**: Technology / Semiconductors
+- **提取时间**: 2026-08-12 16:48:49
 
 ## 产业链关系
 
 ### 上游供应商
-- [[TSM]]
-- [[005930.KS]]
-- [[MU]]
-- [[ASE Group]]
-- [[Amkor Technology]]
+_暂无数据_
 
 ### 下游客户
-- [[GOOGL]]
-- [[AMZN]]
-- [[MSFT]]
-- [[NVDA]]
-- [[IBM]]
+_暂无数据_
 
 ### 竞争对手
-- [[NVDA]]
-- [[Graphcore]]
-- [[INTC]]
-- [[AMD]]
-- [[GOOGL]]
+_暂无数据_
 
 ### 核心产品
-- [[WSE‑3 Wafer Scale Engine]]
-- [[CS‑3 Supercomputer]]
-- [[AI Inference Cloud API]]
-- [[AI Training Cloud API]]
-- [[Cerebras Data Center Solutions]]
+_暂无数据_
 
 ## 数据来源
 
-- [Cerebras Systems](https://en.wikipedia.org/wiki/Cerebras_Systems_Inc.)
-- [Cerebras Systems Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/Cerebras_Systems)
-- [Cerebras Systems Inc. suppliers manufacturers](https://www.aichipmap.com/en/company/cerebras/)
-- [Cerebras Systems Inc. major customers clients](https://www.appsruntheworld.com/customers-database/vendors/view/cerebras-systems)
-- [Cerebras Systems Inc. major customers clients](https://whowinsthefuture.substack.com/p/cerebras-has-two-customers-and-a)
+- 
+- [Cerebras Systems Inc. suppliers manufacturers](https://www.cerebras.ai/)
+- [Cerebras Systems Inc. suppliers manufacturers](https://stockcircle.com/stocks/cbrs)
 
 ## 元数据
 
-- **更新日期**: 2026-07-22
+- **更新日期**: 2026-08-12

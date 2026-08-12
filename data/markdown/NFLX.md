@@ -3,8 +3,8 @@ ticker: NFLX
 company: Netflix, Inc.
 sector: Communication Services
 industry: Entertainment
-extracted_at: 2026-08-11 16:51:34
-last_updated: 2026-08-11
+extracted_at: 2026-08-12 16:51:08
+last_updated: 2026-08-12
 ---
 
 # NFLX - Netflix, Inc.
@@ -12,7 +12,7 @@ last_updated: 2026-08-11
 ## 基本信息
 
 - **所属行业**: Communication Services / Entertainment
-- **提取时间**: 2026-08-11 16:51:34
+- **提取时间**: 2026-08-12 16:51:08
 
 ## 产业链关系
 
@@ -32,8 +32,8 @@ _暂无数据_
 
 - [Netflix, Inc.](https://en.wikipedia.org/wiki/Netflix,_Inc.)
 - [Netflix, Inc. suppliers manufacturers](https://csimarket.com/stocks/NFLX-Suppliers)
-- [Netflix, Inc. suppliers manufacturers](https://www.stock-analysis-on.net/NASDAQ/Company/Netflix-Inc)
+- [Netflix, Inc. suppliers manufacturers](https://csimarket.com/stocks/competition2.php?supply&code=NFLX)
 
 ## 元数据
 
-- **更新日期**: 2026-08-11
+- **更新日期**: 2026-08-12

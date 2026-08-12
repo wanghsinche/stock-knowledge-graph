@@ -1,37 +1,13 @@
 {
   "ticker": "JPM",
-  "company_name": "JPMorgan Chase & Co.",
+  "company_name": "JPM",
   "sector": "Financial Services",
   "industry": "Banks - Diversified",
-  "upstream": [
-    "MSFT",
-    "Payment processors (e.g., Visa, Mastercard)",
-    "Data providers (e.g., Bloomberg, Thomson Reuters)",
-    "Cloud service providers (e.g., AWS, Azure)",
-    "Regulatory bodies (e.g., Federal Reserve)"
-  ],
-  "downstream": [
-    "Retail banking customers",
-    "Corporate clients",
-    "Institutional investors",
-    "Wealth management clients",
-    "Credit card holders"
-  ],
-  "competitors": [
-    "Bank of America",
-    "Citigroup",
-    "Wells Fargo",
-    "Goldman Sachs",
-    "Morgan Stanley"
-  ],
-  "key_products": [
-    "Retail banking services",
-    "Investment banking",
-    "Asset management",
-    "Wealth management",
-    "Credit cards"
-  ],
-  "extracted_at": "2026-08-04 17:37:38",
+  "upstream": [],
+  "downstream": [],
+  "competitors": [],
+  "key_products": [],
+  "extracted_at": "2026-08-12 16:51:17",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +17,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.jpmorganchase.com/about/suppliers",
-      "query": "JPM suppliers manufacturers",
-      "snippet": "At JPMorganChase , we place particular value in our supplier partnerships. Thanks to the help of a diverse range of suppliers and advisors, we are abl"
-    },
-    {
-      "source": "DuckDuckGo",
       "url": "https://csimarket.com/stocks/JPM-Suppliers",
       "query": "JPM suppliers manufacturers",
-      "snippet": "Jun 14, 2026 · For your research, we’ve provided nine additional tables on Jpmorgan Chase and Co’s suppliers . You can find them in the navigation men"
+      "snippet": "Jpmorgan Chase And Co supply chain, list and performance of Jpmorgan Chase And Cos' suppliers - CSIMarket."
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/JPMorgan_Chase",
-      "query": "JPM major customers clients",
-      "snippet": "JPMorgan Chase is the result of the combination of several large U.S. banking companies that merged since 1996, combining Chase Manhattan Bank, J . P "
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.jpmorgan.com/login",
-      "query": "JPM major customers clients",
-      "snippet": "Morgan Money J.P Morgan Asset Management’s institutional liquidity management platform, Morgan Money, is a multi-currency, open architecture trading a"
+      "url": "https://www.jpmorganchase.com/about/suppliers/supplier-diversity",
+      "query": "JPM suppliers manufacturers",
+      "snippet": "Supplier SustainabilitySupplier Sustainability. Supply Diversity. For more than three decades JPMorganChase has been building a strong and inclusive s"
     }
   ]
 }

@@ -3,8 +3,8 @@ ticker: AXTI
 company: AXT, Inc.
 sector: Technology
 industry: Semiconductor Equipment & Materials
-extracted_at: 2026-08-10 16:52:18
-last_updated: 2026-08-10
+extracted_at: 2026-08-12 16:51:34
+last_updated: 2026-08-12
 ---
 
 # AXTI - AXT, Inc.
@@ -12,7 +12,7 @@ last_updated: 2026-08-10
 ## 基本信息
 
 - **所属行业**: Technology / Semiconductor Equipment & Materials
-- **提取时间**: 2026-08-10 16:52:18
+- **提取时间**: 2026-08-12 16:51:34
 
 ## 产业链关系
 
@@ -31,9 +31,9 @@ _暂无数据_
 ## 数据来源
 
 - 
-- [AXT, Inc. major customers clients](https://investors.axt.com/Investors/news/news-details/2021/AXT-Inc.-Supplies-First-8-Inch-Gallium-Arsenide-Wafers-to-Major-Customer/default.aspx)
-- [AXT, Inc. major customers clients](https://www.linkedin.com/company/axt-inc.)
+- [AXT, Inc. suppliers manufacturers](https://www.axt.com/)
+- [AXT, Inc. suppliers manufacturers](https://investors.axt.com/Investors/Overview/default.aspx)
 
 ## 元数据
 
-- **更新日期**: 2026-08-10
+- **更新日期**: 2026-08-12

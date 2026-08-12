@@ -3,8 +3,8 @@ ticker: ISRG
 company: Intuitive Surgical, Inc.
 sector: Healthcare
 industry: Medical Instruments & Supplies
-extracted_at: 2026-08-11 16:54:49
-last_updated: 2026-08-11
+extracted_at: 2026-08-12 16:50:52
+last_updated: 2026-08-12
 ---
 
 # ISRG - Intuitive Surgical, Inc.
@@ -12,7 +12,7 @@ last_updated: 2026-08-11
 ## 基本信息
 
 - **所属行业**: Healthcare / Medical Instruments & Supplies
-- **提取时间**: 2026-08-11 16:54:49
+- **提取时间**: 2026-08-12 16:50:52
 
 ## 产业链关系
 
@@ -36,4 +36,4 @@ _暂无数据_
 
 ## 元数据
 
-- **更新日期**: 2026-08-11
+- **更新日期**: 2026-08-12
