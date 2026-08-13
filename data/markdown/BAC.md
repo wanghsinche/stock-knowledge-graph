@@ -1,18 +1,18 @@
 ---
 ticker: BAC
-company: BAC
+company: Bank of America Corporation
 sector: Financial Services
 industry: Banks - Diversified
-extracted_at: 2026-08-12 16:49:50
-last_updated: 2026-08-12
+extracted_at: 2026-08-13 16:50:53
+last_updated: 2026-08-13
 ---
 
-# BAC - BAC
+# BAC - Bank of America Corporation
 
 ## 基本信息
 
 - **所属行业**: Financial Services / Banks - Diversified
-- **提取时间**: 2026-08-12 16:49:50
+- **提取时间**: 2026-08-13 16:50:53
 
 ## 产业链关系
 
@@ -30,10 +30,10 @@ _暂无数据_
 
 ## 数据来源
 
-- [BAC](https://en.wikipedia.org/wiki/BAC)
-- [BAC suppliers manufacturers](https://www.accio.com/supplier/benzalkonium-chloride-manufacturers)
-- [BAC suppliers manufacturers](https://baltimoreaircoil.com/)
+- [Bank of America](https://en.wikipedia.org/wiki/Bank_of_America_Corporation)
+- [Bank of America Corporation suppliers manufacturers](https://www.bankofamerica.com/)
+- [Bank of America Corporation suppliers manufacturers](https://www.britannica.com/money/Bank-of-America-Corporation)
 
 ## 元数据
 
-- **更新日期**: 2026-08-12
+- **更新日期**: 2026-08-13
