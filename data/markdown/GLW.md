@@ -3,8 +3,8 @@ ticker: GLW
 company: GLW
 sector: Technology
 industry: Electronic Components
-extracted_at: 2026-08-12 16:50:14
-last_updated: 2026-08-12
+extracted_at: 2026-08-14 16:45:06
+last_updated: 2026-08-14
 ---
 
 # GLW - GLW
@@ -12,7 +12,7 @@ last_updated: 2026-08-12
 ## 基本信息
 
 - **所属行业**: Technology / Electronic Components
-- **提取时间**: 2026-08-12 16:50:14
+- **提取时间**: 2026-08-14 16:45:06
 
 ## 产业链关系
 
@@ -32,8 +32,8 @@ _暂无数据_
 
 - [GLW](https://en.wikipedia.org/wiki/GLW)
 - [GLW suppliers manufacturers](https://csimarket.com/stocks/GLW-Suppliers)
-- [GLW suppliers manufacturers](https://glw-feeds.co.uk/)
+- [GLW suppliers manufacturers](https://www.glw.de/en/)
 
 ## 元数据
 
-- **更新日期**: 2026-08-12
+- **更新日期**: 2026-08-14

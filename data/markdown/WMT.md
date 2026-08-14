@@ -3,8 +3,8 @@ ticker: WMT
 company: Walmart Inc.
 sector: Consumer Defensive
 industry: Discount Stores
-extracted_at: 2026-08-13 16:50:43
-last_updated: 2026-08-13
+extracted_at: 2026-08-14 16:46:20
+last_updated: 2026-08-14
 ---
 
 # WMT - Walmart Inc.
@@ -12,7 +12,7 @@ last_updated: 2026-08-13
 ## 基本信息
 
 - **所属行业**: Consumer Defensive / Discount Stores
-- **提取时间**: 2026-08-13 16:50:43
+- **提取时间**: 2026-08-14 16:46:20
 
 ## 产业链关系
 
@@ -36,4 +36,4 @@ _暂无数据_
 
 ## 元数据
 
-- **更新日期**: 2026-08-13
+- **更新日期**: 2026-08-14

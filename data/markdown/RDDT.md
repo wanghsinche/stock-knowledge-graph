@@ -3,8 +3,8 @@ ticker: RDDT
 company: Reddit, Inc.
 sector: Communication Services
 industry: Internet Content & Information
-extracted_at: 2026-08-03 19:45:07
-last_updated: 2026-08-03
+extracted_at: 2026-08-14 16:42:32
+last_updated: 2026-08-14
 ---
 
 # RDDT - Reddit, Inc.
@@ -12,46 +12,28 @@ last_updated: 2026-08-03
 ## 基本信息
 
 - **所属行业**: Communication Services / Internet Content & Information
-- **提取时间**: 2026-08-03 19:45:07
+- **提取时间**: 2026-08-14 16:42:32
 
 ## 产业链关系
 
 ### 上游供应商
-- [[AMZN]]
-- [[MSFT]]
-- [[GOOGL]]
-- [[Cloudflare]]
-- [[Netlify]]
+_暂无数据_
 
 ### 下游客户
-- [[Advertisers (e.g., Nike, Coca‑Cola)]]
-- [[Media companies (e.g., The New York Times)]]
-- [[Gaming companies (e.g., Riot Games)]]
-- [[Tech startups]]
-- [[E‑commerce brands]]
+_暂无数据_
 
 ### 竞争对手
-- [[META]]
-- [[Twitter (X)]]
-- [[TikTok]]
-- [[Discord]]
-- [[YouTube]]
+_暂无数据_
 
 ### 核心产品
-- [[Reddit web and mobile app]]
-- [[Reddit Premium]]
-- [[Reddit Gold]]
-- [[Reddit Ads]]
-- [[Reddit API]]
+_暂无数据_
 
 ## 数据来源
 
 - [Reddit](https://en.wikipedia.org/wiki/Reddit,_Inc.)
-- [Reddit, Inc. suppliers manufacturers](https://csimarket.com/stocks/technicals_line.php?code=RDDT)
-- [Reddit, Inc. suppliers manufacturers](https://www.alibaba.com/)
-- [Reddit, Inc. major customers clients](https://en.wikipedia.org/wiki/Reddit)
-- [Reddit, Inc. major customers clients](https://technologychecker.io/technology/reddit)
+- [Reddit, Inc. suppliers manufacturers](https://vendor.reddithelp.com/hc/en-us)
+- [Reddit, Inc. suppliers manufacturers](https://redditinc.com/)
 
 ## 元数据
 
-- **更新日期**: 2026-08-03
+- **更新日期**: 2026-08-14

@@ -1,18 +1,18 @@
 ---
 ticker: CRM
-company: Salesforce, Inc.
+company: CRM
 sector: Technology
 industry: Software - Application
-extracted_at: 2026-08-13 16:50:25
-last_updated: 2026-08-13
+extracted_at: 2026-08-14 16:45:50
+last_updated: 2026-08-14
 ---
 
-# CRM - Salesforce, Inc.
+# CRM - CRM
 
 ## 基本信息
 
 - **所属行业**: Technology / Software - Application
-- **提取时间**: 2026-08-13 16:50:25
+- **提取时间**: 2026-08-14 16:45:50
 
 ## 产业链关系
 
@@ -30,10 +30,10 @@ _暂无数据_
 
 ## 数据来源
 
-- [Salesforce](https://en.wikipedia.org/wiki/Salesforce,_Inc.)
-- [Salesforce, Inc. suppliers manufacturers](https://csimarket.com/stocks/CRM-Suppliers)
-- [Salesforce, Inc. suppliers manufacturers](https://www.salesforce.com/company/our-brands/)
+- [CRM](https://en.wikipedia.org/wiki/CRM)
+- [CRM suppliers manufacturers](https://www.method.me/blog/crm-for-manufacturing-industry/)
+- [CRM suppliers manufacturers](https://www.accio.com/supplier/crm-manufacturer)
 
 ## 元数据
 
-- **更新日期**: 2026-08-13
+- **更新日期**: 2026-08-14
