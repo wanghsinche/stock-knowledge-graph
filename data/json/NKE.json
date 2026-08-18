@@ -1,37 +1,13 @@
 {
   "ticker": "NKE",
-  "company_name": "Nike, Inc.",
+  "company_name": "NIKE, Inc.",
   "sector": "Consumer Cyclical",
   "industry": "Footwear & Accessories",
-  "upstream": [
-    "Nike’s independent contractors",
-    "Nike’s raw material suppliers",
-    "Nike’s manufacturing partners",
-    "Nike’s textile suppliers",
-    "Nike’s component suppliers"
-  ],
-  "downstream": [
-    "Foot Locker",
-    "Dick’s Sporting Goods",
-    "AMZN",
-    "Walmart",
-    "Target"
-  ],
-  "competitors": [
-    "Adidas",
-    "Under Armour",
-    "Puma",
-    "New Balance",
-    "Skechers"
-  ],
-  "key_products": [
-    "Athletic shoes",
-    "Sports apparel",
-    "Sports equipment",
-    "Sneakers",
-    "Sportswear"
-  ],
-  "extracted_at": "2026-07-01 17:58:17",
+  "upstream": [],
+  "downstream": [],
+  "competitors": [],
+  "key_products": [],
+  "extracted_at": "2026-08-18 16:24:42",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +17,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/NKE-Suppliers",
-      "query": "NIKE, Inc. suppliers manufacturers",
-      "snippet": "Jun 22, 2026 · NIKE’s independent contractors and suppliers buy raw materials in bulk for the manufacturing of our footwear, apparel, and equipment pr"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://about.nike.com/en/resources/supplier-relationships",
-      "query": "NIKE, Inc. suppliers manufacturers",
-      "snippet": "Our Approach to Sourcing At Nike, we build long-term relationships with our contract manufacturing suppliers ( suppliers ) because we know having trus"
-    },
-    {
-      "source": "DuckDuckGo",
       "url": "https://en.wikipedia.org/wiki/Nike,_Inc.",
-      "query": "NIKE, Inc. major customers clients",
+      "query": "NIKE, Inc. suppliers manufacturers",
       "snippet": "Nike , Inc . is an American athletic footwear and apparel corporation headquartered near Beaverton, Oregon. It is the world's largest supplier of athl"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://about.nike.com/en/company",
-      "query": "NIKE, Inc. major customers clients",
-      "snippet": "NIKE , Inc . is a team comprised of the Nike , Jordan and Converse brands driven by a shared purpose to leave an enduring impact. Who We Are. NIKE , I"
+      "url": "https://manufacturingmap.nikeinc.com/",
+      "query": "NIKE, Inc. suppliers manufacturers",
+      "snippet": "Nike Manufacturing Map: Transparency is fundamental to NIKE , Inc . business and our approach to sustainability. This site is a tool to learn about th"
     }
   ]
 }

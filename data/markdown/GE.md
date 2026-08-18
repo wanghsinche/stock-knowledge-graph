@@ -3,8 +3,8 @@ ticker: GE
 company: GE Aerospace
 sector: Industrials
 industry: Aerospace & Defense
-extracted_at: 2026-07-16 17:12:21
-last_updated: 2026-07-16
+extracted_at: 2026-08-18 16:25:42
+last_updated: 2026-08-18
 ---
 
 # GE - GE Aerospace
@@ -12,7 +12,7 @@ last_updated: 2026-07-16
 ## 基本信息
 
 - **所属行业**: Industrials / Aerospace & Defense
-- **提取时间**: 2026-07-16 17:12:21
+- **提取时间**: 2026-08-18 16:25:42
 
 ## 产业链关系
 
@@ -31,9 +31,9 @@ _暂无数据_
 ## 数据来源
 
 - [GE Aerospace](https://en.wikipedia.org/wiki/GE_Aerospace)
-- [GE Aerospace suppliers manufacturers](https://www.geaerospace.com/)
-- [GE Aerospace suppliers manufacturers](https://www.linkedin.com/posts/ant-industries-ltd_aerospace-manufacturing-aviation-activity-7438109145033089024--ltg)
+- [GE Aerospace suppliers manufacturers](https://en.wikipedia.org/wiki/GE_Aerospace)
+- [GE Aerospace suppliers manufacturers](https://supplier.geaerospace.com/)
 
 ## 元数据
 
-- **更新日期**: 2026-07-16
+- **更新日期**: 2026-08-18

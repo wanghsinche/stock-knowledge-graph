@@ -1,57 +1,39 @@
 ---
 ticker: NKE
-company: Nike, Inc.
+company: NIKE, Inc.
 sector: Consumer Cyclical
 industry: Footwear & Accessories
-extracted_at: 2026-07-01 17:58:17
-last_updated: 2026-07-01
+extracted_at: 2026-08-18 16:24:42
+last_updated: 2026-08-18
 ---
 
-# NKE - Nike, Inc.
+# NKE - NIKE, Inc.
 
 ## 基本信息
 
 - **所属行业**: Consumer Cyclical / Footwear & Accessories
-- **提取时间**: 2026-07-01 17:58:17
+- **提取时间**: 2026-08-18 16:24:42
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Nike’s independent contractors]]
-- [[Nike’s raw material suppliers]]
-- [[Nike’s manufacturing partners]]
-- [[Nike’s textile suppliers]]
-- [[Nike’s component suppliers]]
+_暂无数据_
 
 ### 下游客户
-- [[Foot Locker]]
-- [[Dick’s Sporting Goods]]
-- [[AMZN]]
-- [[Walmart]]
-- [[Target]]
+_暂无数据_
 
 ### 竞争对手
-- [[Adidas]]
-- [[Under Armour]]
-- [[Puma]]
-- [[New Balance]]
-- [[Skechers]]
+_暂无数据_
 
 ### 核心产品
-- [[Athletic shoes]]
-- [[Sports apparel]]
-- [[Sports equipment]]
-- [[Sneakers]]
-- [[Sportswear]]
+_暂无数据_
 
 ## 数据来源
 
 - [Nike, Inc.](https://en.wikipedia.org/wiki/NIKE,_Inc.)
-- [NIKE, Inc. suppliers manufacturers](https://csimarket.com/stocks/NKE-Suppliers)
-- [NIKE, Inc. suppliers manufacturers](https://about.nike.com/en/resources/supplier-relationships)
-- [NIKE, Inc. major customers clients](https://en.wikipedia.org/wiki/Nike,_Inc.)
-- [NIKE, Inc. major customers clients](https://about.nike.com/en/company)
+- [NIKE, Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/Nike,_Inc.)
+- [NIKE, Inc. suppliers manufacturers](https://manufacturingmap.nikeinc.com/)
 
 ## 元数据
 
-- **更新日期**: 2026-07-01
+- **更新日期**: 2026-08-18

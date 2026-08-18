@@ -1,18 +1,18 @@
 ---
 ticker: GLW
-company: GLW
+company: Corning Incorporated
 sector: Technology
 industry: Electronic Components
-extracted_at: 2026-08-14 16:45:06
-last_updated: 2026-08-14
+extracted_at: 2026-08-18 16:24:33
+last_updated: 2026-08-18
 ---
 
-# GLW - GLW
+# GLW - Corning Incorporated
 
 ## 基本信息
 
 - **所属行业**: Technology / Electronic Components
-- **提取时间**: 2026-08-14 16:45:06
+- **提取时间**: 2026-08-18 16:24:33
 
 ## 产业链关系
 
@@ -30,10 +30,10 @@ _暂无数据_
 
 ## 数据来源
 
-- [GLW](https://en.wikipedia.org/wiki/GLW)
-- [GLW suppliers manufacturers](https://csimarket.com/stocks/GLW-Suppliers)
-- [GLW suppliers manufacturers](https://www.glw.de/en/)
+- [Corning Inc.](https://en.wikipedia.org/wiki/Corning_Incorporated)
+- [Corning Incorporated suppliers manufacturers](https://en.wikipedia.org/wiki/Corning_Inc.)
+- [Corning Incorporated suppliers manufacturers](https://www.corning.com/worldwide/en.html)
 
 ## 元数据
 
-- **更新日期**: 2026-08-14
+- **更新日期**: 2026-08-18
