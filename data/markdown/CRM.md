@@ -3,8 +3,8 @@ ticker: CRM
 company: CRM
 sector: Technology
 industry: Software - Application
-extracted_at: 2026-08-14 16:45:50
-last_updated: 2026-08-14
+extracted_at: 2026-08-19 16:21:40
+last_updated: 2026-08-19
 ---
 
 # CRM - CRM
@@ -12,7 +12,7 @@ last_updated: 2026-08-14
 ## 基本信息
 
 - **所属行业**: Technology / Software - Application
-- **提取时间**: 2026-08-14 16:45:50
+- **提取时间**: 2026-08-19 16:21:40
 
 ## 产业链关系
 
@@ -32,8 +32,8 @@ _暂无数据_
 
 - [CRM](https://en.wikipedia.org/wiki/CRM)
 - [CRM suppliers manufacturers](https://www.method.me/blog/crm-for-manufacturing-industry/)
-- [CRM suppliers manufacturers](https://www.accio.com/supplier/crm-manufacturer)
+- [CRM suppliers manufacturers](https://blog.hubspot.com/marketing/best-crm-for-manufacturing)
 
 ## 元数据
 
-- **更新日期**: 2026-08-14
+- **更新日期**: 2026-08-19

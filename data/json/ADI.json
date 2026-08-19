@@ -1,43 +1,31 @@
 {
   "ticker": "ADI",
-  "company_name": "Analog Devices, Inc.",
+  "company_name": "ADI",
   "sector": "Technology",
   "industry": "Semiconductors",
-  "upstream": [
-    "TSM",
-    "META",
-    "Electronic component suppliers (passives, connectors)",
-    "Design IP providers",
-    "Testing & packaging services"
-  ],
-  "downstream": [
-    "Automotive electronics manufacturers",
-    "Industrial automation firms",
-    "Consumer electronics companies",
-    "CAT",
-    "Medical device manufacturers"
-  ],
-  "competitors": [
-    "TXN",
-    "Maxim Integrated",
-    "ON Semiconductor",
-    "Infineon Technologies",
-    "STMicroelectronics"
-  ],
-  "key_products": [
-    "Analog-to-digital converters (ADCs)",
-    "Digital-to-analog converters (DACs)",
-    "Operational amplifiers",
-    "Signal processing ICs",
-    "Power management ICs"
-  ],
-  "extracted_at": "2026-07-03 17:57:48",
+  "upstream": [],
+  "downstream": [],
+  "competitors": [],
+  "key_products": [],
+  "extracted_at": "2026-08-19 16:24:33",
   "sources": [
     {
       "source": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Analog_Devices,_Inc.",
-      "title": "Analog Devices",
-      "snippet": "Analog Devices, Inc. (ADI), also known simply as Analog, is an American multinational semiconductor company specializing in data conversion, signal processing, and power management technology, headqua"
+      "url": "https://en.wikipedia.org/wiki/ADI",
+      "title": "Adi",
+      "snippet": "Adi or ADI may refer to:"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.autodistribution.international/",
+      "query": "ADI suppliers manufacturers",
+      "snippet": "Our Suppliers . ADI ’s supplier portfolio counts nearly 60 leading parts manufacturers , all with OE pedigree."
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.made-in-china.com/manufacturers/adi-semiconductor.html",
+      "query": "ADI suppliers manufacturers",
+      "snippet": "adi semiconductor manufacturers / supplier , China adi semiconductor manufacturer & factory list, find best price in Chinese adi semiconductor manufac"
     }
   ]
 }

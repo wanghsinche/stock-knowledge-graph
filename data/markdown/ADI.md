@@ -1,53 +1,39 @@
 ---
 ticker: ADI
-company: Analog Devices, Inc.
+company: ADI
 sector: Technology
 industry: Semiconductors
-extracted_at: 2026-07-03 17:57:48
-last_updated: 2026-07-03
+extracted_at: 2026-08-19 16:24:33
+last_updated: 2026-08-19
 ---
 
-# ADI - Analog Devices, Inc.
+# ADI - ADI
 
 ## 基本信息
 
 - **所属行业**: Technology / Semiconductors
-- **提取时间**: 2026-07-03 17:57:48
+- **提取时间**: 2026-08-19 16:24:33
 
 ## 产业链关系
 
 ### 上游供应商
-- [[TSM]]
-- [[META]]
-- [[Electronic component suppliers (passives, connectors)]]
-- [[Design IP providers]]
-- [[Testing & packaging services]]
+_暂无数据_
 
 ### 下游客户
-- [[Automotive electronics manufacturers]]
-- [[Industrial automation firms]]
-- [[Consumer electronics companies]]
-- [[CAT]]
-- [[Medical device manufacturers]]
+_暂无数据_
 
 ### 竞争对手
-- [[TXN]]
-- [[Maxim Integrated]]
-- [[ON Semiconductor]]
-- [[Infineon Technologies]]
-- [[STMicroelectronics]]
+_暂无数据_
 
 ### 核心产品
-- [[Analog-to-digital converters (ADCs)]]
-- [[Digital-to-analog converters (DACs)]]
-- [[Operational amplifiers]]
-- [[Signal processing ICs]]
-- [[Power management ICs]]
+_暂无数据_
 
 ## 数据来源
 
-- [Analog Devices](https://en.wikipedia.org/wiki/Analog_Devices,_Inc.)
+- [Adi](https://en.wikipedia.org/wiki/ADI)
+- [ADI suppliers manufacturers](https://www.autodistribution.international/)
+- [ADI suppliers manufacturers](https://www.made-in-china.com/manufacturers/adi-semiconductor.html)
 
 ## 元数据
 
-- **更新日期**: 2026-07-03
+- **更新日期**: 2026-08-19

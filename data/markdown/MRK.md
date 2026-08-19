@@ -1,57 +1,39 @@
 ---
 ticker: MRK
-company: Merck & Co., Inc.
+company: MRK
 sector: Healthcare
 industry: Drug Manufacturers - General
-extracted_at: 2026-05-22 17:55:00
-last_updated: 2026-05-22
+extracted_at: 2026-08-19 16:21:01
+last_updated: 2026-08-19
 ---
 
-# MRK - Merck & Co., Inc.
+# MRK - MRK
 
 ## 基本信息
 
 - **所属行业**: Healthcare / Drug Manufacturers - General
-- **提取时间**: 2026-05-22 17:55:00
+- **提取时间**: 2026-08-19 16:21:01
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Active Pharmaceutical Ingredient (API) suppliers]]
-- [[Contract manufacturing organizations (CMOs)]]
-- [[Chemical raw material suppliers]]
-- [[Biotechnology research partners]]
-- [[Packaging and labeling vendors]]
+_暂无数据_
 
 ### 下游客户
-- [[Hospitals and health systems]]
-- [[Pharmacies and retail chains]]
-- [[Government health agencies]]
-- [[International health organizations]]
-- [[Other pharmaceutical companies (co‑marketing partners)]]
+_暂无数据_
 
 ### 竞争对手
-- [[Pfizer Inc.]]
-- [[Johnson & Johnson]]
-- [[Novartis AG]]
-- [[Roche Holding AG]]
-- [[Sanofi S.A.]]
+_暂无数据_
 
 ### 核心产品
-- [[Keytruda (pembrolizumab) – cancer immunotherapy]]
-- [[Januvia (sitagliptin) – type 2 diabetes]]
-- [[Lantus (insulin glargine) – diabetes management]]
-- [[Vectibix (panitumumab) – colorectal cancer]]
-- [[Merck’s generic drug portfolio (e.g., acetaminophen, amoxicillin)]]
+_暂无数据_
 
 ## 数据来源
 
-- [Merck & Co.](https://en.wikipedia.org/wiki/Merck_&_Co.,_Inc.)
-- [Merck & Co., Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/Merck_&_Co.)
-- [Merck & Co., Inc. suppliers manufacturers](https://www.merck.com/)
-- [Merck & Co., Inc. major customers clients](https://en.wikipedia.org/wiki/Merck_&_Co.)
-- [Merck & Co., Inc. major customers clients](https://www.merck.com/)
+- [MRK](https://en.wikipedia.org/wiki/MRK)
+- [MRK suppliers manufacturers](https://en.wikipedia.org/wiki/Merck_Group)
+- [MRK suppliers manufacturers](http://mrksales.net/)
 
 ## 元数据
 
-- **更新日期**: 2026-05-22
+- **更新日期**: 2026-08-19
