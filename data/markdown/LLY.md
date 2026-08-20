@@ -3,8 +3,8 @@ ticker: LLY
 company: LLY
 sector: Healthcare
 industry: Drug Manufacturers - General
-extracted_at: 2026-08-19 16:20:51
-last_updated: 2026-08-19
+extracted_at: 2026-08-20 16:24:48
+last_updated: 2026-08-20
 ---
 
 # LLY - LLY
@@ -12,7 +12,7 @@ last_updated: 2026-08-19
 ## 基本信息
 
 - **所属行业**: Healthcare / Drug Manufacturers - General
-- **提取时间**: 2026-08-19 16:20:51
+- **提取时间**: 2026-08-20 16:24:48
 
 ## 产业链关系
 
@@ -36,4 +36,4 @@ _暂无数据_
 
 ## 元数据
 
-- **更新日期**: 2026-08-19
+- **更新日期**: 2026-08-20

@@ -3,8 +3,8 @@ ticker: WDC
 company: WDC
 sector: Technology
 industry: Computer Hardware
-extracted_at: 2026-08-19 16:21:56
-last_updated: 2026-08-19
+extracted_at: 2026-08-20 16:24:28
+last_updated: 2026-08-20
 ---
 
 # WDC - WDC
@@ -12,7 +12,7 @@ last_updated: 2026-08-19
 ## 基本信息
 
 - **所属行业**: Technology / Computer Hardware
-- **提取时间**: 2026-08-19 16:21:56
+- **提取时间**: 2026-08-20 16:24:28
 
 ## 产业链关系
 
@@ -36,4 +36,4 @@ _暂无数据_
 
 ## 元数据
 
-- **更新日期**: 2026-08-19
+- **更新日期**: 2026-08-20

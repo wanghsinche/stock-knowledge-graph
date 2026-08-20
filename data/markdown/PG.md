@@ -1,57 +1,39 @@
 ---
 ticker: PG
-company: The Procter & Gamble Company
+company: PG
 sector: Consumer Defensive
 industry: Household & Personal Products
-extracted_at: 2026-07-29 17:21:05
-last_updated: 2026-07-29
+extracted_at: 2026-08-20 16:26:14
+last_updated: 2026-08-20
 ---
 
-# PG - The Procter & Gamble Company
+# PG - PG
 
 ## 基本信息
 
 - **所属行业**: Consumer Defensive / Household & Personal Products
-- **提取时间**: 2026-07-29 17:21:05
+- **提取时间**: 2026-08-20 16:26:14
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Chemical manufacturers]]
-- [[Packaging suppliers]]
-- [[Plastic and polymer producers]]
-- [[Paper and cardboard suppliers]]
-- [[Fabric and textile suppliers]]
+_暂无数据_
 
 ### 下游客户
-- [[Walmart]]
-- [[Target]]
-- [[Costco]]
-- [[AMZN]]
-- [[Local grocery chains]]
+_暂无数据_
 
 ### 竞争对手
-- [[Unilever]]
-- [[Johnson & Johnson]]
-- [[Colgate-Palmolive]]
-- [[Reckitt Benckiser]]
-- [[Kimberly-Clark]]
+_暂无数据_
 
 ### 核心产品
-- [[Tide detergent]]
-- [[Pampers diapers]]
-- [[Gillette razors]]
-- [[Olay skincare]]
-- [[Pantene haircare]]
+_暂无数据_
 
 ## 数据来源
 
-- [Procter & Gamble](https://en.wikipedia.org/wiki/The_Procter_&_Gamble_Company)
-- [The Procter & Gamble Company suppliers manufacturers](https://us.pg.com/)
-- [The Procter & Gamble Company suppliers manufacturers](https://www.pg.co.uk/)
-- [The Procter & Gamble Company major customers clients](https://us.pg.com/)
-- [The Procter & Gamble Company major customers clients](https://www.findmymoat.com/stocks/XNYS:PG)
+- [PG](https://en.wikipedia.org/wiki/PG)
+- [PG suppliers manufacturers](https://us.pg.com/blogs/partner-of-the-year/)
+- [PG suppliers manufacturers](https://www.pge.com/en/about/doing-business-with-pge/purchase-programs/suppliers.html)
 
 ## 元数据
 
-- **更新日期**: 2026-07-29
+- **更新日期**: 2026-08-20

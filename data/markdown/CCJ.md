@@ -3,8 +3,8 @@ ticker: CCJ
 company: CCJ
 sector: Energy
 industry: Uranium
-extracted_at: 2026-08-19 16:25:08
-last_updated: 2026-08-19
+extracted_at: 2026-08-20 16:27:30
+last_updated: 2026-08-20
 ---
 
 # CCJ - CCJ
@@ -12,7 +12,7 @@ last_updated: 2026-08-19
 ## 基本信息
 
 - **所属行业**: Energy / Uranium
-- **提取时间**: 2026-08-19 16:25:08
+- **提取时间**: 2026-08-20 16:27:30
 
 ## 产业链关系
 
@@ -31,9 +31,9 @@ _暂无数据_
 ## 数据来源
 
 - [CCJ](https://en.wikipedia.org/wiki/CCJ)
-- [CCJ suppliers manufacturers](https://www.ccj-online.com/fix-a-plant/)
-- [CCJ suppliers manufacturers](https://www.asahi-kasei.co.jp/baclad/en/product/ccj.html)
+- [CCJ suppliers manufacturers](https://www.globalsources.com/)
+- [CCJ suppliers manufacturers](https://www.aliexpress.com/)
 
 ## 元数据
 
-- **更新日期**: 2026-08-19
+- **更新日期**: 2026-08-20

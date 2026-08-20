@@ -3,8 +3,8 @@ ticker: MRK
 company: MRK
 sector: Healthcare
 industry: Drug Manufacturers - General
-extracted_at: 2026-08-19 16:21:01
-last_updated: 2026-08-19
+extracted_at: 2026-08-20 16:25:03
+last_updated: 2026-08-20
 ---
 
 # MRK - MRK
@@ -12,7 +12,7 @@ last_updated: 2026-08-19
 ## 基本信息
 
 - **所属行业**: Healthcare / Drug Manufacturers - General
-- **提取时间**: 2026-08-19 16:21:01
+- **提取时间**: 2026-08-20 16:25:03
 
 ## 产业链关系
 
@@ -30,10 +30,10 @@ _暂无数据_
 
 ## 数据来源
 
-- [MRK](https://en.wikipedia.org/wiki/MRK)
-- [MRK suppliers manufacturers](https://en.wikipedia.org/wiki/Merck_Group)
-- [MRK suppliers manufacturers](http://mrksales.net/)
+- 
+- [MRK suppliers manufacturers](https://www.alibaba.com/showroom/mrk-terminal-block.html)
+- [MRK suppliers manufacturers](https://csimarket.com/stocks/MRK-Suppliers)
 
 ## 元数据
 
-- **更新日期**: 2026-08-19
+- **更新日期**: 2026-08-20

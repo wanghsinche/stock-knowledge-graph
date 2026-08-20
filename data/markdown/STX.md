@@ -3,8 +3,8 @@ ticker: STX
 company: STX
 sector: Technology
 industry: Computer Hardware
-extracted_at: 2026-08-19 16:21:23
-last_updated: 2026-08-19
+extracted_at: 2026-08-20 16:24:15
+last_updated: 2026-08-20
 ---
 
 # STX - STX
@@ -12,7 +12,7 @@ last_updated: 2026-08-19
 ## 基本信息
 
 - **所属行业**: Technology / Computer Hardware
-- **提取时间**: 2026-08-19 16:21:23
+- **提取时间**: 2026-08-20 16:24:15
 
 ## 产业链关系
 
@@ -31,9 +31,9 @@ _暂无数据_
 ## 数据来源
 
 - [STX](https://en.wikipedia.org/wiki/STX)
-- [STX suppliers manufacturers](https://en.wikipedia.org/wiki/STX_(sports_manufacturer))
-- [STX suppliers manufacturers](https://stx.com/)
+- [STX suppliers manufacturers](https://panjiva.com/Manufacturers-Of/stx)
+- [STX suppliers manufacturers](https://www.shipserv.com/brand/stx/india/IN/1763)
 
 ## 元数据
 
-- **更新日期**: 2026-08-19
+- **更新日期**: 2026-08-20
