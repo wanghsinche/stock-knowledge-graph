@@ -1,18 +1,18 @@
 ---
 ticker: WDC
-company: WDC
+company: Western Digital Corporation
 sector: Technology
 industry: Computer Hardware
-extracted_at: 2026-08-20 16:24:28
-last_updated: 2026-08-20
+extracted_at: 2026-08-21 16:25:24
+last_updated: 2026-08-21
 ---
 
-# WDC - WDC
+# WDC - Western Digital Corporation
 
 ## 基本信息
 
 - **所属行业**: Technology / Computer Hardware
-- **提取时间**: 2026-08-20 16:24:28
+- **提取时间**: 2026-08-21 16:25:24
 
 ## 产业链关系
 
@@ -30,10 +30,10 @@ _暂无数据_
 
 ## 数据来源
 
-- [WDC](https://en.wikipedia.org/wiki/WDC)
-- [WDC suppliers manufacturers](https://www.made-in-china.com/manufacturers/wdc.html)
-- [WDC suppliers manufacturers](https://csimarket.com/stocks/WDC-Suppliers)
+- [Western Digital](https://en.wikipedia.org/wiki/Western_Digital_Corporation)
+- [Western Digital Corporation suppliers manufacturers](https://www.alibaba.com/)
+- [Western Digital Corporation suppliers manufacturers](https://www.dns-shop.ru/catalog/recipe/3b4511c808617ae1/zestkie-diski-western-digital/)
 
 ## 元数据
 
-- **更新日期**: 2026-08-20
+- **更新日期**: 2026-08-21
