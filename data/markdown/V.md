@@ -1,18 +1,18 @@
 ---
 ticker: V
-company: Visa Inc.
+company: V
 sector: Financial Services
 industry: Credit Services
-extracted_at: 2026-08-21 16:25:58
-last_updated: 2026-08-21
+extracted_at: 2026-08-24 16:28:12
+last_updated: 2026-08-24
 ---
 
-# V - Visa Inc.
+# V - V
 
 ## 基本信息
 
 - **所属行业**: Financial Services / Credit Services
-- **提取时间**: 2026-08-21 16:25:58
+- **提取时间**: 2026-08-24 16:28:12
 
 ## 产业链关系
 
@@ -30,10 +30,10 @@ _暂无数据_
 
 ## 数据来源
 
-- [Visa Inc.](https://en.wikipedia.org/wiki/Visa_Inc.)
-- [Visa Inc. suppliers manufacturers](https://ru.wikipedia.org/wiki/Visa)
-- [Visa Inc. suppliers manufacturers](https://www.britannica.com/money/Visa-Inc)
+- [V](https://en.wikipedia.org/wiki/V)
+- [V suppliers manufacturers](https://www.alibaba.com/)
+- [V suppliers manufacturers](https://www.globalsources.com/china-suppliers/inverter-v.htm)
 
 ## 元数据
 
-- **更新日期**: 2026-08-21
+- **更新日期**: 2026-08-24

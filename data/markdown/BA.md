@@ -3,8 +3,8 @@ ticker: BA
 company: The Boeing Company
 sector: Industrials
 industry: Aerospace & Defense
-extracted_at: 2026-08-03 19:29:10
-last_updated: 2026-08-03
+extracted_at: 2026-08-24 16:32:08
+last_updated: 2026-08-24
 ---
 
 # BA - The Boeing Company
@@ -12,46 +12,28 @@ last_updated: 2026-08-03
 ## 基本信息
 
 - **所属行业**: Industrials / Aerospace & Defense
-- **提取时间**: 2026-08-03 19:29:10
+- **提取时间**: 2026-08-24 16:32:08
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Spirit AeroSystems]]
-- [[Pratt & Whitney]]
-- [[GE Aviation]]
-- [[Honeywell]]
-- [[Collins Aerospace]]
+_暂无数据_
 
 ### 下游客户
-- [[United States Department of Defense]]
-- [[United States Air Force]]
-- [[United States Navy]]
-- [[United Airlines]]
-- [[Delta Air Lines]]
+_暂无数据_
 
 ### 竞争对手
-- [[Airbus]]
-- [[Lockheed Martin]]
-- [[Northrop Grumman]]
-- [[Raytheon Technologies]]
-- [[BAE Systems]]
+_暂无数据_
 
 ### 核心产品
-- [[Commercial aircraft (737, 747, 767, 777, 787)]]
-- [[Military aircraft (F‑15, F/A‑18, KC‑46)]]
-- [[Spacecraft (satellites, rockets)]]
-- [[Helicopters (CH‑47, AH‑64)]]
-- [[Defense systems (missiles, UAVs)]]
+_暂无数据_
 
 ## 数据来源
 
 - [Boeing](https://en.wikipedia.org/wiki/The_Boeing_Company)
-- [The Boeing Company suppliers manufacturers](https://csimarket.com/stocks/BA-Suppliers)
-- [The Boeing Company suppliers manufacturers](https://www.boeingsuppliers.com/)
-- [The Boeing Company major customers clients](https://csimarket.com/stocks/BA-Customers)
-- [The Boeing Company major customers clients](https://simpleflying.com/boeing-biggest-customers/)
+- [The Boeing Company suppliers manufacturers](https://www.boeing.com/)
+- [The Boeing Company suppliers manufacturers](https://aerocorner.com/manufacturers/boeing/)
 
 ## 元数据
 
-- **更新日期**: 2026-08-03
+- **更新日期**: 2026-08-24

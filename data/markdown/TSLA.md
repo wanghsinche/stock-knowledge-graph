@@ -3,8 +3,8 @@ ticker: TSLA
 company: Tesla, Inc.
 sector: Consumer Cyclical
 industry: Auto Manufacturers
-extracted_at: 2026-08-21 16:20:11
-last_updated: 2026-08-21
+extracted_at: 2026-08-24 16:23:46
+last_updated: 2026-08-24
 ---
 
 # TSLA - Tesla, Inc.
@@ -12,7 +12,7 @@ last_updated: 2026-08-21
 ## 基本信息
 
 - **所属行业**: Consumer Cyclical / Auto Manufacturers
-- **提取时间**: 2026-08-21 16:20:11
+- **提取时间**: 2026-08-24 16:23:46
 
 ## 产业链关系
 
@@ -31,9 +31,9 @@ _暂无数据_
 ## 数据来源
 
 - [Tesla, Inc.](https://en.wikipedia.org/wiki/Tesla,_Inc.)
+- [Tesla, Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/Tesla,_Inc.)
 - [Tesla, Inc. suppliers manufacturers](https://csimarket.com/stocks/TSLA-Suppliers)
-- [Tesla, Inc. suppliers manufacturers](https://www.suppliersmap.com/tesla)
 
 ## 元数据
 
-- **更新日期**: 2026-08-21
+- **更新日期**: 2026-08-24

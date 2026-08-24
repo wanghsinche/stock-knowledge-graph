@@ -3,8 +3,8 @@ ticker: AAOI
 company: Applied Optoelectronics, Inc.
 sector: Technology
 industry: Communication Equipment
-extracted_at: 2026-08-20 16:27:09
-last_updated: 2026-08-20
+extracted_at: 2026-08-24 16:28:37
+last_updated: 2026-08-24
 ---
 
 # AAOI - Applied Optoelectronics, Inc.
@@ -12,7 +12,7 @@ last_updated: 2026-08-20
 ## 基本信息
 
 - **所属行业**: Technology / Communication Equipment
-- **提取时间**: 2026-08-20 16:27:09
+- **提取时间**: 2026-08-24 16:28:37
 
 ## 产业链关系
 
@@ -31,9 +31,9 @@ _暂无数据_
 ## 数据来源
 
 - 
-- [Applied Optoelectronics, Inc. suppliers manufacturers](https://csimarket.com/stocks/AAOI-Suppliers)
-- [Applied Optoelectronics, Inc. suppliers manufacturers](https://abachy.com/catalog/electronic-system-design/foundry-fab-services/applied-optoelectronics-inc-aoi)
+- [Applied Optoelectronics, Inc. suppliers manufacturers](https://stockanalysis.com/stocks/aaoi/)
+- [Applied Optoelectronics, Inc. suppliers manufacturers](https://marketradar.finance/stocks/aaoi)
 
 ## 元数据
 
-- **更新日期**: 2026-08-20
+- **更新日期**: 2026-08-24

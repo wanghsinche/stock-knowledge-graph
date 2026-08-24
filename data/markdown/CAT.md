@@ -1,18 +1,18 @@
 ---
 ticker: CAT
-company: Caterpillar Inc.
+company: CAT
 sector: Industrials
 industry: Farm & Heavy Construction Machinery
-extracted_at: 2026-08-21 16:26:48
-last_updated: 2026-08-21
+extracted_at: 2026-08-24 16:31:33
+last_updated: 2026-08-24
 ---
 
-# CAT - Caterpillar Inc.
+# CAT - CAT
 
 ## 基本信息
 
 - **所属行业**: Industrials / Farm & Heavy Construction Machinery
-- **提取时间**: 2026-08-21 16:26:48
+- **提取时间**: 2026-08-24 16:31:33
 
 ## 产业链关系
 
@@ -30,10 +30,10 @@ _暂无数据_
 
 ## 数据来源
 
-- [Caterpillar Inc.](https://en.wikipedia.org/wiki/Caterpillar_Inc.)
-- [Caterpillar Inc. suppliers manufacturers](https://www.caterpillar.com/en/company/working-together/suppliers.html)
-- [Caterpillar Inc. suppliers manufacturers](https://csimarket.com/stocks/CAT-Suppliers)
+- [Cat (disambiguation)](https://en.wikipedia.org/wiki/CAT)
+- [CAT suppliers manufacturers](https://www.globalsources.com/china-suppliers/cat.htm)
+- [CAT suppliers manufacturers](https://www.made-in-china.com/manufacturers/cat-supplies.html)
 
 ## 元数据
 
-- **更新日期**: 2026-08-21
+- **更新日期**: 2026-08-24
