@@ -3,8 +3,8 @@ ticker: NVDA
 company: NVIDIA Corporation
 sector: Technology
 industry: Semiconductors
-extracted_at: 2026-08-24 16:23:27
-last_updated: 2026-08-24
+extracted_at: 2026-08-25 16:24:01
+last_updated: 2026-08-25
 ---
 
 # NVDA - NVIDIA Corporation
@@ -12,7 +12,7 @@ last_updated: 2026-08-24
 ## 基本信息
 
 - **所属行业**: Technology / Semiconductors
-- **提取时间**: 2026-08-24 16:23:27
+- **提取时间**: 2026-08-25 16:24:01
 
 ## 产业链关系
 
@@ -32,8 +32,8 @@ _暂无数据_
 
 - [Nvidia](https://en.wikipedia.org/wiki/NVIDIA_Corporation)
 - [NVIDIA Corporation suppliers manufacturers](https://en.wikipedia.org/wiki/Nvidia)
-- [NVIDIA Corporation suppliers manufacturers](https://csimarket.com/stocks/suppliers_glance.php?code=NVDA)
+- [NVIDIA Corporation suppliers manufacturers](http://www.nvidia.com/page/home.html)
 
 ## 元数据
 
-- **更新日期**: 2026-08-24
+- **更新日期**: 2026-08-25

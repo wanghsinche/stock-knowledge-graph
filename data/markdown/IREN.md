@@ -3,8 +3,8 @@ ticker: IREN
 company: IREN Limited
 sector: Financial Services
 industry: Capital Markets
-extracted_at: 2026-08-24 16:32:53
-last_updated: 2026-08-24
+extracted_at: 2026-08-25 16:28:59
+last_updated: 2026-08-25
 ---
 
 # IREN - IREN Limited
@@ -12,7 +12,7 @@ last_updated: 2026-08-24
 ## 基本信息
 
 - **所属行业**: Financial Services / Capital Markets
-- **提取时间**: 2026-08-24 16:32:53
+- **提取时间**: 2026-08-25 16:28:59
 
 ## 产业链关系
 
@@ -32,8 +32,8 @@ _暂无数据_
 
 - 
 - [IREN Limited suppliers manufacturers](https://varamir.com/q/IREN)
-- [IREN Limited suppliers manufacturers](https://www.gurufocus.com/stock/IREN/summary)
+- [IREN Limited suppliers manufacturers](https://www.investing.com/equities/iris-energy)
 
 ## 元数据
 
-- **更新日期**: 2026-08-24
+- **更新日期**: 2026-08-25

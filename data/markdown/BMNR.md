@@ -3,8 +3,8 @@ ticker: BMNR
 company: Bitmine Immersion Technologies, Inc.
 sector: Financial Services
 industry: Capital Markets
-extracted_at: 2026-08-24 16:29:16
-last_updated: 2026-08-24
+extracted_at: 2026-08-25 16:26:55
+last_updated: 2026-08-25
 ---
 
 # BMNR - Bitmine Immersion Technologies, Inc.
@@ -12,7 +12,7 @@ last_updated: 2026-08-24
 ## 基本信息
 
 - **所属行业**: Financial Services / Capital Markets
-- **提取时间**: 2026-08-24 16:29:16
+- **提取时间**: 2026-08-25 16:26:55
 
 ## 产业链关系
 
@@ -31,9 +31,9 @@ _暂无数据_
 ## 数据来源
 
 - 
-- [Bitmine Immersion Technologies, Inc. suppliers manufacturers](https://finance.yahoo.com/quote/BMNR/)
-- [Bitmine Immersion Technologies, Inc. suppliers manufacturers](https://www.bitminetech.io/)
+- [Bitmine Immersion Technologies, Inc. suppliers manufacturers](https://www.bitminetech.io/about)
+- [Bitmine Immersion Technologies, Inc. suppliers manufacturers](https://ru.investing.com/equities/bitmine-immersion-tech)
 
 ## 元数据
 
-- **更新日期**: 2026-08-24
+- **更新日期**: 2026-08-25
