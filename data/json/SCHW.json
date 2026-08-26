@@ -3,35 +3,11 @@
   "company_name": "The Charles Schwab Corporation",
   "sector": "Financial Services",
   "industry": "Capital Markets",
-  "upstream": [
-    "MSFT",
-    "Financial data providers (e.g., Bloomberg, Refinitiv)",
-    "Payment processors (e.g., Visa, Mastercard)",
-    "GOOGL",
-    "Regulatory compliance software (e.g., NICE, FIS)"
-  ],
-  "downstream": [
-    "Retail investors",
-    "Institutional clients (e.g., pension funds, endowments)",
-    "Workplace retirement plan participants",
-    "Corporate clients for banking services",
-    "Clients of donor‑advised funds"
-  ],
-  "competitors": [
-    "Fidelity Investments",
-    "Vanguard Group",
-    "E*TRADE (Morgan Stanley)",
-    "TD Ameritrade (Charles Schwab)",
-    "Merrill Edge (Bank of America)"
-  ],
-  "key_products": [
-    "Brokerage services (online trading platform)",
-    "Banking services (checking, savings, mortgages)",
-    "Wealth management advisory",
-    "Retirement plan administration",
-    "Donor‑advised fund platform"
-  ],
-  "extracted_at": "2026-04-17 16:52:37",
+  "upstream": [],
+  "downstream": [],
+  "competitors": [],
+  "key_products": [],
+  "extracted_at": "2026-08-26 16:47:42",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +17,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://en.wikipedia.org/wiki/Charles_M._Schwab",
+      "url": "https://en.wikipedia.org/wiki/Charles_Schwab_Corporation",
       "query": "The Charles Schwab Corporation suppliers manufacturers",
-      "snippet": "Under his leadership, Bethlehem Steel became the second-largest steel maker in the United States, and one of the most important heavy manufacturers in"
+      "snippet": "The Charles Schwab Corporation is an American multinational financial services company. It offers banking, commercial banking, investing and related s"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.aboutschwab.com/our-company",
+      "url": "https://www.schwab.com/",
       "query": "The Charles Schwab Corporation suppliers manufacturers",
-      "snippet": "The Charles Schwab Corporation provides a full range of brokerage, banking and financial advisory services through its operating subsidiaries. Missing"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://content.schwab.com/web/retail/public/about-schwab/schwab_annual_report_2025.pdf",
-      "query": "The Charles Schwab Corporation major customers clients",
-      "snippet": "Millions of investors consumed our educational resources and research insights. Our service professionals answered 30 million client calls, in an aver"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://pressroom.aboutschwab.com/press-releases/press-release/2026/Client-Growth--Engagement-Drive-Record-Schwab-1Q-Results/default.aspx",
-      "query": "The Charles Schwab Corporation major customers clients",
-      "snippet": "1 day ago · The Charles Schwab Corporation (NYSE: SCHW) is a leading provider of financial services, with 39.1 million active brokerage accounts, 5.8 "
+      "snippet": "The Charles Schwab Corporation provides a full range of brokerage, banking and financial advisory services through its operating subsidiaries. Its bro"
     }
   ]
 }

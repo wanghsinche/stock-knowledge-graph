@@ -1,18 +1,18 @@
 ---
 ticker: FCX
-company: FCX
+company: Freeport-McMoRan Inc.
 sector: Basic Materials
 industry: Copper
-extracted_at: 2026-08-24 16:31:07
-last_updated: 2026-08-24
+extracted_at: 2026-08-26 16:48:25
+last_updated: 2026-08-26
 ---
 
-# FCX - FCX
+# FCX - Freeport-McMoRan Inc.
 
 ## 基本信息
 
 - **所属行业**: Basic Materials / Copper
-- **提取时间**: 2026-08-24 16:31:07
+- **提取时间**: 2026-08-26 16:48:25
 
 ## 产业链关系
 
@@ -30,10 +30,10 @@ _暂无数据_
 
 ## 数据来源
 
-- [FCX](https://en.wikipedia.org/wiki/FCX)
-- [FCX suppliers manufacturers](https://panjiva.com/Manufacturers-Of/fcx)
-- [FCX suppliers manufacturers](https://fcxinc.com/)
+- [Freeport-McMoRan](https://en.wikipedia.org/wiki/Freeport-McMoRan_Inc.)
+- [Freeport-McMoRan Inc. suppliers manufacturers](https://fcx.com/about)
+- [Freeport-McMoRan Inc. suppliers manufacturers](https://www.marketbeat.com/stocks/NYSE/FCX/)
 
 ## 元数据
 
-- **更新日期**: 2026-08-24
+- **更新日期**: 2026-08-26
