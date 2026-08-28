@@ -3,8 +3,8 @@ ticker: ADBE
 company: Adobe Inc.
 sector: Technology
 industry: Software - Application
-extracted_at: 2026-07-29 17:19:29
-last_updated: 2026-07-29
+extracted_at: 2026-08-28 00:48:18
+last_updated: 2026-08-28
 ---
 
 # ADBE - Adobe Inc.
@@ -12,46 +12,28 @@ last_updated: 2026-07-29
 ## 基本信息
 
 - **所属行业**: Technology / Software - Application
-- **提取时间**: 2026-07-29 17:19:29
+- **提取时间**: 2026-08-28 00:48:18
 
 ## 产业链关系
 
 ### 上游供应商
-- [[INTC]]
-- [[NVDA]]
-- [[AMD]]
-- [[AMZN]]
-- [[MSFT]]
+_暂无数据_
 
 ### 下游客户
-- [[ADBE]]
-- [[ADBE]]
-- [[ADBE]]
-- [[ADBE]]
-- [[ADBE]]
+_暂无数据_
 
 ### 竞争对手
-- [[Autodesk]]
-- [[Corel]]
-- [[Serif]]
-- [[Affinity]]
-- [[MSFT]]
+_暂无数据_
 
 ### 核心产品
-- [[Adobe Photoshop]]
-- [[Adobe Illustrator]]
-- [[Adobe InDesign]]
-- [[Adobe Premiere Pro]]
-- [[Adobe Acrobat Reader]]
+_暂无数据_
 
 ## 数据来源
 
 - [Adobe Inc.](https://en.wikipedia.org/wiki/Adobe_Inc.)
 - [Adobe Inc. suppliers manufacturers](https://csimarket.com/stocks/ADBE-Suppliers)
 - [Adobe Inc. suppliers manufacturers](https://www.adobe.com/)
-- [Adobe Inc. major customers clients](https://www.adobe.com/)
-- [Adobe Inc. major customers clients](https://www.britannica.com/money/Adobe-Systems-Incorporated)
 
 ## 元数据
 
-- **更新日期**: 2026-07-29
+- **更新日期**: 2026-08-28

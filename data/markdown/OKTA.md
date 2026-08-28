@@ -1,18 +1,18 @@
 ---
-ticker: SNPS
-company: Synopsys, Inc.
+ticker: OKTA
+company: Okta, Inc.
 sector: Technology
 industry: Software - Infrastructure
-extracted_at: 2026-08-28 00:47:57
+extracted_at: 2026-08-28 00:45:28
 last_updated: 2026-08-28
 ---
 
-# SNPS - Synopsys, Inc.
+# OKTA - Okta, Inc.
 
 ## 基本信息
 
 - **所属行业**: Technology / Software - Infrastructure
-- **提取时间**: 2026-08-28 00:47:57
+- **提取时间**: 2026-08-28 00:45:28
 
 ## 产业链关系
 
@@ -30,9 +30,9 @@ _暂无数据_
 
 ## 数据来源
 
-- [Synopsys](https://en.wikipedia.org/wiki/Synopsys,_Inc.)
-- [Synopsys, Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/Synopsys)
-- [Synopsys, Inc. suppliers manufacturers](https://csimarket.com/stocks/SNPS-Suppliers)
+- [Okta, Inc.](https://en.wikipedia.org/wiki/Okta,_Inc.)
+- [Okta, Inc. suppliers manufacturers](https://www.okta.com/)
+- [Okta, Inc. suppliers manufacturers](https://tgmcharts.com/stocks/OKTA)
 
 ## 元数据
 
