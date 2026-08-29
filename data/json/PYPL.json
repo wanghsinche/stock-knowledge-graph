@@ -3,35 +3,11 @@
   "company_name": "PayPal Holdings, Inc.",
   "sector": "Financial Services",
   "industry": "Credit Services",
-  "upstream": [
-    "Visa",
-    "Mastercard",
-    "American Express",
-    "JPMorgan Chase",
-    "Bank of America"
-  ],
-  "downstream": [
-    "AMZN",
-    "eBay",
-    "Shopify",
-    "Etsy",
-    "Walmart"
-  ],
-  "competitors": [
-    "Stripe",
-    "Square",
-    "Adyen",
-    "AMZN",
-    "GOOGL"
-  ],
-  "key_products": [
-    "PayPal Payments",
-    "PayPal Credit",
-    "Venmo",
-    "Braintree",
-    "PayPal Checkout"
-  ],
-  "extracted_at": "2026-07-16 17:12:49",
+  "upstream": [],
+  "downstream": [],
+  "competitors": [],
+  "key_products": [],
+  "extracted_at": "2026-08-29 00:20:32",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +17,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://uk.wikipedia.org/wiki/PayPal",
+      "url": "https://finance.yahoo.com/quote/PYPL/",
       "query": "PayPal Holdings, Inc. suppliers manufacturers",
-      "snippet": "PayPal ) — міжнародна електронна платіжна система, яка надає послуги в транскордонному режимі будь-якій людині у світі, у якої є банківська картка."
+      "snippet": "Find the latest PayPal Holdings , Inc . (PYPL) stock quote, history, news and other vital information to help you with your stock trading and investin"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://investor.pypl.com/",
+      "url": "https://www.paypal.com/za/home",
       "query": "PayPal Holdings, Inc. suppliers manufacturers",
-      "snippet": "Investor Relations. Creating innovative experiences that make moving money, selling, and shopping simple, personalized, and secure, PayPal empowers co"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://capitaloneshopping.com/research/paypal-statistics/",
-      "query": "PayPal Holdings, Inc. major customers clients",
-      "snippet": "Mar 3, 2026 · Latest available data on PayPal ' s number of users ( customers and merchants), transaction volume, revenue, market share and more."
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/PYPL-Customers",
-      "query": "PayPal Holdings, Inc. major customers clients",
-      "snippet": "For your research, we’ve provided 9 tables on Paypal Holdings Inc corporate clients . You can find them in the navigation menu under Customers & Marke"
+      "snippet": "Securely send and request money, shop online, and manage your payments in one place with PayPal . Fast, easy, and trusted worldwide."
     }
   ]
 }

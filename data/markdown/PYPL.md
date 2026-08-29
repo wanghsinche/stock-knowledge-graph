@@ -3,8 +3,8 @@ ticker: PYPL
 company: PayPal Holdings, Inc.
 sector: Financial Services
 industry: Credit Services
-extracted_at: 2026-07-16 17:12:49
-last_updated: 2026-07-16
+extracted_at: 2026-08-29 00:20:32
+last_updated: 2026-08-29
 ---
 
 # PYPL - PayPal Holdings, Inc.
@@ -12,46 +12,28 @@ last_updated: 2026-07-16
 ## 基本信息
 
 - **所属行业**: Financial Services / Credit Services
-- **提取时间**: 2026-07-16 17:12:49
+- **提取时间**: 2026-08-29 00:20:32
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Visa]]
-- [[Mastercard]]
-- [[American Express]]
-- [[JPMorgan Chase]]
-- [[Bank of America]]
+_暂无数据_
 
 ### 下游客户
-- [[AMZN]]
-- [[eBay]]
-- [[Shopify]]
-- [[Etsy]]
-- [[Walmart]]
+_暂无数据_
 
 ### 竞争对手
-- [[Stripe]]
-- [[Square]]
-- [[Adyen]]
-- [[AMZN]]
-- [[GOOGL]]
+_暂无数据_
 
 ### 核心产品
-- [[PayPal Payments]]
-- [[PayPal Credit]]
-- [[Venmo]]
-- [[Braintree]]
-- [[PayPal Checkout]]
+_暂无数据_
 
 ## 数据来源
 
 - [PayPal](https://en.wikipedia.org/wiki/PayPal_Holdings,_Inc.)
-- [PayPal Holdings, Inc. suppliers manufacturers](https://uk.wikipedia.org/wiki/PayPal)
-- [PayPal Holdings, Inc. suppliers manufacturers](https://investor.pypl.com/)
-- [PayPal Holdings, Inc. major customers clients](https://capitaloneshopping.com/research/paypal-statistics/)
-- [PayPal Holdings, Inc. major customers clients](https://csimarket.com/stocks/PYPL-Customers)
+- [PayPal Holdings, Inc. suppliers manufacturers](https://finance.yahoo.com/quote/PYPL/)
+- [PayPal Holdings, Inc. suppliers manufacturers](https://www.paypal.com/za/home)
 
 ## 元数据
 
-- **更新日期**: 2026-07-16
+- **更新日期**: 2026-08-29
