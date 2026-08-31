@@ -3,8 +3,8 @@ ticker: SLB
 company: SLB N.V.
 sector: Energy
 industry: Oil & Gas Equipment & Services
-extracted_at: 2026-07-24 17:29:16
-last_updated: 2026-07-24
+extracted_at: 2026-08-31 21:22:01
+last_updated: 2026-08-31
 ---
 
 # SLB - SLB N.V.
@@ -12,46 +12,28 @@ last_updated: 2026-07-24
 ## 基本信息
 
 - **所属行业**: Energy / Oil & Gas Equipment & Services
-- **提取时间**: 2026-07-24 17:29:16
+- **提取时间**: 2026-08-31 21:22:01
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Drilling equipment manufacturers]]
-- [[Software and technology providers]]
-- [[Subsea equipment suppliers]]
-- [[Well services equipment manufacturers]]
-- [[Petroleum engineering firms]]
+_暂无数据_
 
 ### 下游客户
-- [[ExxonMobil]]
-- [[Shell]]
-- [[BP]]
-- [[Chevron]]
-- [[TotalEnergies]]
+_暂无数据_
 
 ### 竞争对手
-- [[Baker Hughes]]
-- [[National Oilwell Varco]]
-- [[Weatherford]]
-- [[Halliburton]]
-- [[TechnipFMC]]
+_暂无数据_
 
 ### 核心产品
-- [[Drilling rigs]]
-- [[Well services equipment]]
-- [[Subsea solutions]]
-- [[Digital oilfield software]]
-- [[Reservoir management services]]
+_暂无数据_
 
 ## 数据来源
 
 - 
-- [SLB N.V. suppliers manufacturers](https://www.slb.com/Contact-Us)
-- [SLB N.V. suppliers manufacturers](https://www.slb.com/partners/embedded-partners-and-suppliers/become-a-supplier)
-- [SLB N.V. major customers clients](https://csimarket.com/stocks/SLB-Customers)
-- [SLB N.V. major customers clients](https://www.nullexposure.com/customers/slb)
+- [SLB N.V. suppliers manufacturers](https://www.investing.com/equities/schlumberger-ltd)
+- [SLB N.V. suppliers manufacturers](https://www.slb.com/)
 
 ## 元数据
 
-- **更新日期**: 2026-07-24
+- **更新日期**: 2026-08-31

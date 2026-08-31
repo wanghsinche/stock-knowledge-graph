@@ -3,8 +3,8 @@ ticker: LITE
 company: Lumentum Holdings Inc.
 sector: Technology
 industry: Communication Equipment
-extracted_at: 2026-08-29 00:17:55
-last_updated: 2026-08-29
+extracted_at: 2026-08-31 21:16:58
+last_updated: 2026-08-31
 ---
 
 # LITE - Lumentum Holdings Inc.
@@ -12,7 +12,7 @@ last_updated: 2026-08-29
 ## 基本信息
 
 - **所属行业**: Technology / Communication Equipment
-- **提取时间**: 2026-08-29 00:17:55
+- **提取时间**: 2026-08-31 21:16:58
 
 ## 产业链关系
 
@@ -36,4 +36,4 @@ _暂无数据_
 
 ## 元数据
 
-- **更新日期**: 2026-08-29
+- **更新日期**: 2026-08-31
