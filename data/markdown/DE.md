@@ -3,8 +3,8 @@ ticker: DE
 company: Deere & Company
 sector: Industrials
 industry: Farm & Heavy Construction Machinery
-extracted_at: 2026-08-20 16:24:56
-last_updated: 2026-08-20
+extracted_at: 2026-09-01 19:06:53
+last_updated: 2026-09-01
 ---
 
 # DE - Deere & Company
@@ -12,7 +12,7 @@ last_updated: 2026-08-20
 ## 基本信息
 
 - **所属行业**: Industrials / Farm & Heavy Construction Machinery
-- **提取时间**: 2026-08-20 16:24:56
+- **提取时间**: 2026-09-01 19:06:53
 
 ## 产业链关系
 
@@ -31,9 +31,9 @@ _暂无数据_
 ## 数据来源
 
 - [John Deere](https://en.wikipedia.org/wiki/Deere_&_Company)
-- [Deere & Company suppliers manufacturers](https://csimarket.com/stocks/DE-Suppliers)
-- [Deere & Company suppliers manufacturers](https://jdsn.deere.com/)
+- [Deere & Company suppliers manufacturers](https://www.deere.com/)
+- [Deere & Company suppliers manufacturers](https://blog.iotcloudplatform.com/top-5-most-trusted-global-agricultural-iot-suppliers/)
 
 ## 元数据
 
-- **更新日期**: 2026-08-20
+- **更新日期**: 2026-09-01
