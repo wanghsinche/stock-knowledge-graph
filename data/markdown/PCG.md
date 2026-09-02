@@ -3,8 +3,8 @@ ticker: PCG
 company: PG&E Corporation
 sector: Utilities
 industry: Utilities - Regulated Electric
-extracted_at: 2026-09-01 19:04:18
-last_updated: 2026-09-01
+extracted_at: 2026-09-02 19:10:05
+last_updated: 2026-09-02
 ---
 
 # PCG - PG&E Corporation
@@ -12,7 +12,7 @@ last_updated: 2026-09-01
 ## 基本信息
 
 - **所属行业**: Utilities / Utilities - Regulated Electric
-- **提取时间**: 2026-09-01 19:04:18
+- **提取时间**: 2026-09-02 19:10:05
 
 ## 产业链关系
 
@@ -30,10 +30,10 @@ _暂无数据_
 
 ## 数据来源
 
-- [Pacific Gas and Electric Company](https://en.wikipedia.org/wiki/PG&E_Corporation)
-- [PG&E Corporation suppliers manufacturers](https://www.pge.com/content/dam/pge/docs/account/service-requests/066211-r-28-pge-approved-electric-distribution-materials-manufacturers.pdf)
-- [PG&E Corporation suppliers manufacturers](https://csimarket.com/stocks/PCG-Suppliers)
+- 
+- [PG&E Corporation suppliers manufacturers](https://en.wikipedia.org/wiki/Pacific_Gas_and_Electric_Company)
+- [PG&E Corporation suppliers manufacturers](https://www.encyclopedia.com/books/politics-and-business-magazines/pge-corporation)
 
 ## 元数据
 
-- **更新日期**: 2026-09-01
+- **更新日期**: 2026-09-02

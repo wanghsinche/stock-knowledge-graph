@@ -1,18 +1,18 @@
 ---
-ticker: MDB
-company: MongoDB, Inc.
+ticker: GTLB
+company: GitLab Inc.
 sector: Technology
 industry: Software - Infrastructure
-extracted_at: 2026-09-02 19:07:28
+extracted_at: 2026-09-02 19:10:29
 last_updated: 2026-09-02
 ---
 
-# MDB - MongoDB, Inc.
+# GTLB - GitLab Inc.
 
 ## 基本信息
 
 - **所属行业**: Technology / Software - Infrastructure
-- **提取时间**: 2026-09-02 19:07:28
+- **提取时间**: 2026-09-02 19:10:29
 
 ## 产业链关系
 
@@ -30,9 +30,9 @@ _暂无数据_
 
 ## 数据来源
 
-- 
-- [MongoDB, Inc. suppliers manufacturers](https://www.mongodb.com/legal/vendors)
-- [MongoDB, Inc. suppliers manufacturers](https://www.mongodb.com/company/partners)
+- [GitLab Inc.](https://en.wikipedia.org/wiki/GitLab_Inc.)
+- [GitLab Inc. suppliers manufacturers](https://ru.wikipedia.org/wiki/GitLab)
+- [GitLab Inc. suppliers manufacturers](https://about.gitlab.com/)
 
 ## 元数据
 
