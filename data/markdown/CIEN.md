@@ -3,8 +3,8 @@ ticker: CIEN
 company: Ciena Corporation
 sector: Technology
 industry: Communication Equipment
-extracted_at: 2026-08-12 16:49:59
-last_updated: 2026-08-12
+extracted_at: 2026-09-03 19:02:37
+last_updated: 2026-09-03
 ---
 
 # CIEN - Ciena Corporation
@@ -12,7 +12,7 @@ last_updated: 2026-08-12
 ## 基本信息
 
 - **所属行业**: Technology / Communication Equipment
-- **提取时间**: 2026-08-12 16:49:59
+- **提取时间**: 2026-09-03 19:02:37
 
 ## 产业链关系
 
@@ -30,10 +30,10 @@ _暂无数据_
 
 ## 数据来源
 
-- 
-- [Ciena Corporation suppliers manufacturers](https://www.ciena.com/)
-- [Ciena Corporation suppliers manufacturers](https://feargreedmeter.com/stock/CIEN)
+- [Ciena](https://en.wikipedia.org/wiki/Ciena_Corporation)
+- [Ciena Corporation suppliers manufacturers](https://en.wikipedia.org/wiki/Ciena)
+- [Ciena Corporation suppliers manufacturers](https://csimarket.com/stocks/CIEN-Suppliers)
 
 ## 元数据
 
-- **更新日期**: 2026-08-12
+- **更新日期**: 2026-09-03
