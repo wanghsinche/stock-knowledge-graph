@@ -3,8 +3,8 @@ ticker: SUNB
 company: Sunbelt Rentals Holdings, Inc.
 sector: Industrials
 industry: Rental & Leasing Services
-extracted_at: 2026-08-31 21:23:55
-last_updated: 2026-08-31
+extracted_at: 2026-09-04 18:45:55
+last_updated: 2026-09-04
 ---
 
 # SUNB - Sunbelt Rentals Holdings, Inc.
@@ -12,7 +12,7 @@ last_updated: 2026-08-31
 ## 基本信息
 
 - **所属行业**: Industrials / Rental & Leasing Services
-- **提取时间**: 2026-08-31 21:23:55
+- **提取时间**: 2026-09-04 18:45:55
 
 ## 产业链关系
 
@@ -31,9 +31,9 @@ _暂无数据_
 ## 数据来源
 
 - 
-- [Sunbelt Rentals Holdings, Inc. suppliers manufacturers](https://www.sunbeltrentals.com/)
-- [Sunbelt Rentals Holdings, Inc. suppliers manufacturers](https://umbrex.com/resources/company-profiles/sunbelt-rentals-holdings-inc/)
+- [Sunbelt Rentals Holdings, Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/Sunbelt_Rentals)
+- [Sunbelt Rentals Holdings, Inc. suppliers manufacturers](https://www.sunbeltrentals.com/about/suppliers-and-partners/)
 
 ## 元数据
 
-- **更新日期**: 2026-08-31
+- **更新日期**: 2026-09-04

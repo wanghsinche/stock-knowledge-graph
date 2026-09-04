@@ -3,8 +3,8 @@ ticker: CRDO
 company: Credo Technology Group Holding Ltd
 sector: Technology
 industry: Semiconductors
-extracted_at: 2026-09-03 19:02:46
-last_updated: 2026-09-03
+extracted_at: 2026-09-04 18:45:35
+last_updated: 2026-09-04
 ---
 
 # CRDO - Credo Technology Group Holding Ltd
@@ -12,7 +12,7 @@ last_updated: 2026-09-03
 ## 基本信息
 
 - **所属行业**: Technology / Semiconductors
-- **提取时间**: 2026-09-03 19:02:46
+- **提取时间**: 2026-09-04 18:45:35
 
 ## 产业链关系
 
@@ -31,9 +31,9 @@ _暂无数据_
 ## 数据来源
 
 - 
-- [Credo Technology Group Holding Ltd suppliers manufacturers](https://csimarket.com/stocks/CRDO-Suppliers)
-- [Credo Technology Group Holding Ltd suppliers manufacturers](https://credosemi.com/)
+- [Credo Technology Group Holding Ltd suppliers manufacturers](https://csimarket.com/stocks/CRDO-Financial-Strength-Comparisons.html)
+- [Credo Technology Group Holding Ltd suppliers manufacturers](https://www.aol.com/articles/credo-tech-crdo-q3-2026-233915039.html)
 
 ## 元数据
 
-- **更新日期**: 2026-09-03
+- **更新日期**: 2026-09-04

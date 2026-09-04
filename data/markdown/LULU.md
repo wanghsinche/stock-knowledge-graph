@@ -1,57 +1,39 @@
 ---
 ticker: LULU
-company: Lululemon Athletica Inc.
-sector: Consumer Cyclical / Apparel Retail
-industry: Athletic Apparel
-extracted_at: 2026-06-05 17:56:00
-last_updated: 2026-06-05
+company: lululemon athletica inc.
+sector: Consumer Cyclical
+industry: Apparel Retail
+extracted_at: 2026-09-04 18:43:18
+last_updated: 2026-09-04
 ---
 
-# LULU - Lululemon Athletica Inc.
+# LULU - lululemon athletica inc.
 
 ## 基本信息
 
-- **所属行业**: Consumer Cyclical / Apparel Retail / Athletic Apparel
-- **提取时间**: 2026-06-05 17:56:00
+- **所属行业**: Consumer Cyclical / Apparel Retail
+- **提取时间**: 2026-09-04 18:43:18
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Textile manufacturers]]
-- [[Fabric suppliers]]
-- [[Footwear manufacturers]]
-- [[Packaging suppliers]]
-- [[Sustainable material partners]]
+_暂无数据_
 
 ### 下游客户
-- [[Fitness enthusiasts]]
-- [[Yoga practitioners]]
-- [[Athletes]]
-- [[Health‑conscious consumers]]
-- [[AMZN]]
+_暂无数据_
 
 ### 竞争对手
-- [[Nike]]
-- [[Adidas]]
-- [[Under Armour]]
-- [[Athleta (Gap)]]
-- [[Puma]]
+_暂无数据_
 
 ### 核心产品
-- [[Yoga pants]]
-- [[Sports bras]]
-- [[Running shorts]]
-- [[Athletic tops]]
-- [[Footwear]]
+_暂无数据_
 
 ## 数据来源
 
-- 
-- [lululemon athletica inc. suppliers manufacturers](https://en.wikipedia.org/wiki/Lululemon)
-- [lululemon athletica inc. suppliers manufacturers](https://shop.lululemon.com/)
-- [lululemon athletica inc. major customers clients](https://en.wikipedia.org/wiki/Lululemon)
-- [lululemon athletica inc. major customers clients](https://shop.lululemon.com/)
+- [Lululemon](https://en.wikipedia.org/wiki/lululemon_athletica_inc.)
+- [lululemon athletica inc. suppliers manufacturers](https://corporate.lululemon.com/~/media/Files/L/Lululemon/lululemon-supplier-list-april-2024.pdf)
+- [lululemon athletica inc. suppliers manufacturers](https://csimarket.com/stocks/LULU-Suppliers)
 
 ## 元数据
 
-- **更新日期**: 2026-06-05
+- **更新日期**: 2026-09-04

@@ -1,37 +1,13 @@
 {
   "ticker": "PATH",
   "company_name": "UiPath, Inc.",
-  "sector": "Technology / Software - Infrastructure",
-  "industry": "Robotic Process Automation (RPA)",
-  "upstream": [
-    "MSFT",
-    "AMZN",
-    "GOOGL",
-    "Docker",
-    "Kubernetes"
-  ],
-  "downstream": [
-    "JPMorgan Chase",
-    "Bank of America",
-    "Walmart",
-    "General Electric",
-    "Accenture"
-  ],
-  "competitors": [
-    "Automation Anywhere",
-    "Blue Prism",
-    "NICE",
-    "Pegasystems",
-    "WorkFusion"
-  ],
-  "key_products": [
-    "UiPath Studio",
-    "UiPath Orchestrator",
-    "UiPath Robots",
-    "UiPath AI Fabric",
-    "UiPath Insights"
-  ],
-  "extracted_at": "2026-07-21 17:15:31",
+  "sector": "Technology",
+  "industry": "Software - Infrastructure",
+  "upstream": [],
+  "downstream": [],
+  "competitors": [],
+  "key_products": [],
+  "extracted_at": "2026-09-04 18:45:42",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +17,15 @@
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://csimarket.com/stocks/PATH-Suppliers",
+      "url": "https://www.uipath.com/",
       "query": "UiPath, Inc. suppliers manufacturers",
-      "snippet": "Mar 28, 2026 · For your research, we’ve provided nine additional tables on Uipath Inc ’ s suppliers . You can find them in the navigation menu under S"
+      "snippet": "Transform enterprise operations with the UiPath Platform™ for business orchestration and automation, enabling AI agents, robots, and people to deliver"
     },
     {
       "source": "DuckDuckGo",
-      "url": "https://www.uipath.com/partners",
+      "url": "https://www.copy.ai/go-to-market-tools/uipath-review",
       "query": "UiPath, Inc. suppliers manufacturers",
-      "snippet": "Ready to expand your business orchestration, automation, and agentic testing services? Join the UiPath Partner ecosystem and accelerate your growth in"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://bloomberry.com/data/uipath/",
-      "query": "UiPath, Inc. major customers clients",
-      "snippet": "1 day ago · I noticed that UiPath ' s typical customers are incredibly diverse operationally, spanning everything from manufacturers of automotive com"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://data.landbase.com/technology/uipath/",
-      "query": "UiPath, Inc. major customers clients",
-      "snippet": "Aug 17, 2025 · Our UiPath customers list is available for download and comes enriched with vital company specifics, including industry classification,"
+      "snippet": "UiPath is a robotic process automation (RPA) platform that helps businesses discover, automate, and operate processes at scale. It is designed for ent"
     }
   ]
 }
