@@ -3,8 +3,8 @@ ticker: ALAB
 company: Astera Labs, Inc.
 sector: Technology
 industry: Semiconductors
-extracted_at: 2026-09-04 18:45:29
-last_updated: 2026-09-04
+extracted_at: 2026-09-07 19:35:40
+last_updated: 2026-09-07
 ---
 
 # ALAB - Astera Labs, Inc.
@@ -12,7 +12,7 @@ last_updated: 2026-09-04
 ## 基本信息
 
 - **所属行业**: Technology / Semiconductors
-- **提取时间**: 2026-09-04 18:45:29
+- **提取时间**: 2026-09-07 19:35:40
 
 ## 产业链关系
 
@@ -32,8 +32,8 @@ _暂无数据_
 
 - 
 - [Astera Labs, Inc. suppliers manufacturers](https://www.asteralabs.com/)
-- [Astera Labs, Inc. suppliers manufacturers](https://ca.finance.yahoo.com/news/astera-labs-alab-surged-accelerating-162905417.html)
+- [Astera Labs, Inc. suppliers manufacturers](https://simplify.jobs/p/5b9e82eb-e170-450f-9dfe-62e7281dc8ae/Platform-Applications-Engineer-Intern-Co-op)
 
 ## 元数据
 
-- **更新日期**: 2026-09-04
+- **更新日期**: 2026-09-07

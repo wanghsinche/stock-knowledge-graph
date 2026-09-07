@@ -3,8 +3,8 @@ ticker: LULU
 company: lululemon athletica inc.
 sector: Consumer Cyclical
 industry: Apparel Retail
-extracted_at: 2026-09-04 18:43:18
-last_updated: 2026-09-04
+extracted_at: 2026-09-07 19:32:05
+last_updated: 2026-09-07
 ---
 
 # LULU - lululemon athletica inc.
@@ -12,7 +12,7 @@ last_updated: 2026-09-04
 ## 基本信息
 
 - **所属行业**: Consumer Cyclical / Apparel Retail
-- **提取时间**: 2026-09-04 18:43:18
+- **提取时间**: 2026-09-07 19:32:05
 
 ## 产业链关系
 
@@ -31,9 +31,9 @@ _暂无数据_
 ## 数据来源
 
 - [Lululemon](https://en.wikipedia.org/wiki/lululemon_athletica_inc.)
-- [lululemon athletica inc. suppliers manufacturers](https://corporate.lululemon.com/~/media/Files/L/Lululemon/lululemon-supplier-list-april-2024.pdf)
-- [lululemon athletica inc. suppliers manufacturers](https://csimarket.com/stocks/LULU-Suppliers)
+- [lululemon athletica inc. suppliers manufacturers](https://www.stockopine.com/p/lululemon-athletica-inc-its-all-about)
+- [lululemon athletica inc. suppliers manufacturers](https://puffling.co/companies/lulu/)
 
 ## 元数据
 
-- **更新日期**: 2026-09-04
+- **更新日期**: 2026-09-07
