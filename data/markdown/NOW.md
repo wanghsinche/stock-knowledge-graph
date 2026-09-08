@@ -3,8 +3,8 @@ ticker: NOW
 company: ServiceNow, Inc.
 sector: Technology
 industry: Software - Application
-extracted_at: 2026-09-07 19:37:43
-last_updated: 2026-09-07
+extracted_at: 2026-09-08 19:13:13
+last_updated: 2026-09-08
 ---
 
 # NOW - ServiceNow, Inc.
@@ -12,7 +12,7 @@ last_updated: 2026-09-07
 ## 基本信息
 
 - **所属行业**: Technology / Software - Application
-- **提取时间**: 2026-09-07 19:37:43
+- **提取时间**: 2026-09-08 19:13:13
 
 ## 产业链关系
 
@@ -36,4 +36,4 @@ _暂无数据_
 
 ## 元数据
 
-- **更新日期**: 2026-09-07
+- **更新日期**: 2026-09-08

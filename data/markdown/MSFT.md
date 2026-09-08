@@ -3,8 +3,8 @@ ticker: MSFT
 company: Microsoft Corporation
 sector: Technology
 industry: Software - Infrastructure
-extracted_at: 2026-09-07 19:30:27
-last_updated: 2026-09-07
+extracted_at: 2026-09-08 19:10:04
+last_updated: 2026-09-08
 ---
 
 # MSFT - Microsoft Corporation
@@ -12,7 +12,7 @@ last_updated: 2026-09-07
 ## 基本信息
 
 - **所属行业**: Technology / Software - Infrastructure
-- **提取时间**: 2026-09-07 19:30:27
+- **提取时间**: 2026-09-08 19:10:04
 
 ## 产业链关系
 
@@ -32,8 +32,8 @@ _暂无数据_
 
 - [Microsoft](https://en.wikipedia.org/wiki/Microsoft_Corporation)
 - [Microsoft Corporation suppliers manufacturers](https://csimarket.com/stocks/suppliers_glance.php?code=MSFT)
-- [Microsoft Corporation suppliers manufacturers](https://www.alibaba.com/)
+- [Microsoft Corporation suppliers manufacturers](https://portal.microsoft.com/adminportal)
 
 ## 元数据
 
-- **更新日期**: 2026-09-07
+- **更新日期**: 2026-09-08

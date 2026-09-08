@@ -3,35 +3,11 @@
   "company_name": "Booking Holdings Inc.",
   "sector": "Consumer Cyclical",
   "industry": "Travel Services",
-  "upstream": [
-    "Hotel chains",
-    "Airlines",
-    "Car rental companies",
-    "Cruise lines",
-    "CAT"
-  ],
-  "downstream": [
-    "Individual travelers",
-    "Corporate travel managers",
-    "Travel agencies",
-    "Travel management companies",
-    "Online travel platforms"
-  ],
-  "competitors": [
-    "Expedia Group",
-    "TripAdvisor",
-    "Airbnb",
-    "Priceline.com",
-    "Kayak"
-  ],
-  "key_products": [
-    "Booking.com",
-    "Priceline.com",
-    "Kayak.com",
-    "Agoda",
-    "Rentalcars.com"
-  ],
-  "extracted_at": "2026-08-05 17:31:08",
+  "upstream": [],
+  "downstream": [],
+  "competitors": [],
+  "key_products": [],
+  "extracted_at": "2026-09-08 19:15:04",
   "sources": [
     {
       "source": "Wikipedia",
@@ -41,27 +17,15 @@
     },
     {
       "source": "DuckDuckGo",
+      "url": "https://en.wikipedia.org/wiki/Booking_Holdings",
+      "query": "Booking Holdings Inc. suppliers manufacturers",
+      "snippet": "Booking Holdings . 14 languages."
+    },
+    {
+      "source": "DuckDuckGo",
       "url": "https://csimarket.com/stocks/BKNG-Suppliers",
       "query": "Booking Holdings Inc. suppliers manufacturers",
-      "snippet": "Booking Holdings Inc supply chain, list and performance of Booking Holdings Incs ' suppliers - CSIMarket."
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://pitchgrade.com/companies/booking-holdings",
-      "query": "Booking Holdings Inc. suppliers manufacturers",
-      "snippet": "Key Partners: Booking Holdings Inc .'s key partners include suppliers , distributors, technology providers, and strategic alliances that enable its co"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://pitchgrade.com/companies/booking-holdings",
-      "query": "Booking Holdings Inc. major customers clients",
-      "snippet": "Customer Segments: Booking Holdings Inc . serves multiple distinct customer segments, which may include consumers, small and medium businesses, enterp"
-    },
-    {
-      "source": "DuckDuckGo",
-      "url": "https://www.booking.com/",
-      "query": "Booking Holdings Inc. major customers clients",
-      "snippet": "Explore the world with Booking .com. Big savings on homes, hotels, flights, car rentals, taxis, and attractions – build your perfect trip on any budge"
+      "snippet": "Aug 14, 2026 · For your research, we’ve provided nine additional tables on Booking Holdings Inc ’s suppliers . You can find them in the navigation men"
     }
   ]
 }
