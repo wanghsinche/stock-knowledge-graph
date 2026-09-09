@@ -1,18 +1,18 @@
 ---
-ticker: CRM
-company: Salesforce, Inc.
+ticker: TTAN
+company: ServiceTitan, Inc.
 sector: Technology
 industry: Software - Application
-extracted_at: 2026-09-09 19:00:46
+extracted_at: 2026-09-09 19:02:35
 last_updated: 2026-09-09
 ---
 
-# CRM - Salesforce, Inc.
+# TTAN - ServiceTitan, Inc.
 
 ## 基本信息
 
 - **所属行业**: Technology / Software - Application
-- **提取时间**: 2026-09-09 19:00:46
+- **提取时间**: 2026-09-09 19:02:35
 
 ## 产业链关系
 
@@ -30,9 +30,9 @@ _暂无数据_
 
 ## 数据来源
 
-- [Salesforce](https://en.wikipedia.org/wiki/Salesforce,_Inc.)
-- [Salesforce, Inc. suppliers manufacturers](https://csimarket.com/stocks/CRM-Suppliers)
-- [Salesforce, Inc. suppliers manufacturers](https://www.salesforce.com/)
+- 
+- [ServiceTitan, Inc. suppliers manufacturers](https://www.marketbeat.com/stocks/NASDAQ/TTAN/)
+- [ServiceTitan, Inc. suppliers manufacturers](https://www.servicetitan.am/)
 
 ## 元数据
 

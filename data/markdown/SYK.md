@@ -3,8 +3,8 @@ ticker: SYK
 company: Stryker Corporation
 sector: Healthcare
 industry: Medical Devices
-extracted_at: 2026-09-08 19:14:04
-last_updated: 2026-09-08
+extracted_at: 2026-09-09 19:04:37
+last_updated: 2026-09-09
 ---
 
 # SYK - Stryker Corporation
@@ -12,7 +12,7 @@ last_updated: 2026-09-08
 ## 基本信息
 
 - **所属行业**: Healthcare / Medical Devices
-- **提取时间**: 2026-09-08 19:14:04
+- **提取时间**: 2026-09-09 19:04:37
 
 ## 产业链关系
 
@@ -31,9 +31,9 @@ _暂无数据_
 ## 数据来源
 
 - [Stryker Corporation](https://en.wikipedia.org/wiki/Stryker_Corporation)
-- [Stryker Corporation suppliers manufacturers](https://www.stryker.com/us/en/about/suppliers.html)
+- [Stryker Corporation suppliers manufacturers](https://en.wikipedia.org/wiki/Stryker_Corporation)
 - [Stryker Corporation suppliers manufacturers](https://www.stryker.com/us/en/index.html)
 
 ## 元数据
 
-- **更新日期**: 2026-09-08
+- **更新日期**: 2026-09-09

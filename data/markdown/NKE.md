@@ -3,8 +3,8 @@ ticker: NKE
 company: NIKE, Inc.
 sector: Consumer Cyclical
 industry: Footwear & Accessories
-extracted_at: 2026-08-26 16:47:29
-last_updated: 2026-08-26
+extracted_at: 2026-09-09 19:05:30
+last_updated: 2026-09-09
 ---
 
 # NKE - NIKE, Inc.
@@ -12,7 +12,7 @@ last_updated: 2026-08-26
 ## 基本信息
 
 - **所属行业**: Consumer Cyclical / Footwear & Accessories
-- **提取时间**: 2026-08-26 16:47:29
+- **提取时间**: 2026-09-09 19:05:30
 
 ## 产业链关系
 
@@ -36,4 +36,4 @@ _暂无数据_
 
 ## 元数据
 
-- **更新日期**: 2026-08-26
+- **更新日期**: 2026-09-09

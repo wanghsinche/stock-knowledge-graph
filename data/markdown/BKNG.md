@@ -3,8 +3,8 @@ ticker: BKNG
 company: Booking Holdings Inc.
 sector: Consumer Cyclical
 industry: Travel Services
-extracted_at: 2026-09-08 19:15:04
-last_updated: 2026-09-08
+extracted_at: 2026-09-09 19:00:23
+last_updated: 2026-09-09
 ---
 
 # BKNG - Booking Holdings Inc.
@@ -12,7 +12,7 @@ last_updated: 2026-09-08
 ## 基本信息
 
 - **所属行业**: Consumer Cyclical / Travel Services
-- **提取时间**: 2026-09-08 19:15:04
+- **提取时间**: 2026-09-09 19:00:23
 
 ## 产业链关系
 
@@ -32,8 +32,8 @@ _暂无数据_
 
 - 
 - [Booking Holdings Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/Booking_Holdings)
-- [Booking Holdings Inc. suppliers manufacturers](https://csimarket.com/stocks/BKNG-Suppliers)
+- [Booking Holdings Inc. suppliers manufacturers](https://zh.wikipedia.org/zh-tw/Booking_Holdings)
 
 ## 元数据
 
-- **更新日期**: 2026-09-08
+- **更新日期**: 2026-09-09
