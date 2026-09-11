@@ -3,8 +3,8 @@ ticker: STX
 company: Seagate Technology Holdings plc
 sector: Technology
 industry: Computer Hardware
-extracted_at: 2026-09-10 18:52:04
-last_updated: 2026-09-10
+extracted_at: 2026-09-11 18:54:01
+last_updated: 2026-09-11
 ---
 
 # STX - Seagate Technology Holdings plc
@@ -12,7 +12,7 @@ last_updated: 2026-09-10
 ## 基本信息
 
 - **所属行业**: Technology / Computer Hardware
-- **提取时间**: 2026-09-10 18:52:04
+- **提取时间**: 2026-09-11 18:54:01
 
 ## 产业链关系
 
@@ -31,9 +31,9 @@ _暂无数据_
 ## 数据来源
 
 - 
-- [Seagate Technology Holdings plc suppliers manufacturers](https://www.seagate.com/)
-- [Seagate Technology Holdings plc suppliers manufacturers](https://mungermode.com/ticker/STX)
+- [Seagate Technology Holdings plc suppliers manufacturers](https://www.bing.com/aclick?ld=e84cSDsRLeVIRnJtK49c5PYTVUCUwxNo1ABgBV450afyi1qDber8XKXOpFe2IymkFo11vCKn4AI6YlnUA-b6fYaYzqLY40Mj-VxIbXqwVtsikJQSkNyge4EDtSu2D4hzaWoVxr5c7gVztXJfysOyGB1o4skFEyJsa42W8Dam67kKBPeFHGvuT-6aQj3xhDlsvz7OuBYHDMhPxF61hwU7O2L-7YiVo&u=aHR0cHMlM2ElMmYlMmZhZC5kb3VibGVjbGljay5uZXQlMmZzZWFyY2hhZHMlMmZsaW5rJTJmY2xpY2slM2ZsaWQlM2Q0MzcwMDA4MzE5MDUyNzMyNCUyNmRzX3Nfa3dnaWQlM2Q1ODcwMDAwOTAwMTg4MjcwNyUyNmRzX2FfY2lkJTNkNzk3OTc0MjcwMyUyNmRzX2FfY2FpZCUzZDIzNTAwNTM1MjQxJTI2ZHNfYV9hZ2lkJTNkMTkyMzMyNDMyMzk3JTI2ZHNfYV9saWQlM2Rrd2QtNTc3Njc5NzA5OTYxJTI2JTI2ZHNfZV9hZGlkJTNkNzMzOTI2NDk4NDE0MzQlMjZkc19lX3RhcmdldF9pZCUzZGt3ZC03MzM5MjU4Mjk2ODM4MSUzYWxvYy0xOTAlMjYlMjZkc19lX25ldHdvcmslM2RvJTI2ZHNfdXJsX3YlM2QyJTI2ZHNfZGVzdF91cmwlM2RodHRwcyUzYSUyZiUyZnBpeGVsLmV2ZXJlc3R0ZWNoLm5ldCUyZjQyMjMlMmZjcSUzZmV2X3NpZCUzZDEwJTI2ZXZfbG4lM2QlMjUyQnNlYWdhdGUlMjUyMCUyNTJCc3lzdGVtcyUyNmV2X2x0eCUzZCUyNmV2X2x4JTNka3dkLTczMzkyNTgyOTY4MzgxJTNhbG9jLTE5MCUyNmV2X2NyeCUzZDczMzkyNjQ5ODQxNDM0JTI2ZXZfbXQlM2RwJTI2ZXZfZHZjJTNkYyUyNmV2X3BoeSUzZDY2NzAyJTI2ZXZfbG9jJTNkJTI2ZXZfY3glM2QzNjE1MTk2ODglMjZldl9heCUzZDExNzQyNzkzMDU2MDgzMjIlMjZldl9leCUzZCUyNmV2X2VmaWQlM2QyNjI3MGU2MDIxYmExOWI0ODcwMzY0YzQ2ZmY4MWM3ZiUzYUclM2FzJTI2dXJsJTNkaHR0cHMlMjUzQSUyNTJGJTI1MkZ3d3cuY2R3LmNvbSUyNTJGY29udGVudCUyNTJGY2R3JTI1MkZlbiUyNTJGYnJhbmQlMjUyRnNlYWdhdGUuaHRtbCUyNTNGY2gxJTI1M0RwYWlkX3NlYXJjaCUyNTI2Y2gyJTI1M0Ryc2ElMjUyNm1lZGlhX3BhcnRuZXIlMjUzRGJpbmclMjUyNmNtX2dvc2lkJTI1M0RCMDAwQTkyOCUyNTI2cGxfZ29zaWQlMjUzREUwMDBKWjdPJTI1MjZzX2t3Y2lkJTI1M0RBTCE0MjIzITEwITczMzkyNjQ5ODQxNDM0ISEhITczMzkyNTgyOTY4MzgxISEzNjE1MTk2ODghMTE3NDI3OTMwNTYwODMyMiUyNTI2ZWZfaWQlMjUzRDI2MjcwZTYwMjFiYTE5YjQ4NzAzNjRjNDZmZjgxYzdmJTI1M0FHJTI1M0FzJTI1MjZnY2xpZCUyNTNEMjYyNzBlNjAyMWJhMTliNDg3MDM2NGM0NmZmODFjN2YlMjUyNmdjbHNyYyUyNTNEM3AuZHMlMjUyNiUyNmdjbGlkJTNkMjYyNzBlNjAyMWJhMTliNDg3MDM2NGM0NmZmODFjN2YlMjZnY2xzcmMlM2QzcC5kcyUyNm1zY2xraWQlM2QyNjI3MGU2MDIxYmExOWI0ODcwMzY0YzQ2ZmY4MWM3Zg&rlid=26270e6021ba19b4870364c46ff81c7f)
+- [Seagate Technology Holdings plc suppliers manufacturers](https://csimarket.com/stocks/STX-Suppliers)
 
 ## 元数据
 
-- **更新日期**: 2026-09-10
+- **更新日期**: 2026-09-11

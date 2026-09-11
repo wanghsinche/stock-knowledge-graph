@@ -3,8 +3,8 @@ ticker: ADBE
 company: Adobe Inc.
 sector: Technology
 industry: Software - Application
-extracted_at: 2026-09-10 18:53:11
-last_updated: 2026-09-10
+extracted_at: 2026-09-11 18:54:22
+last_updated: 2026-09-11
 ---
 
 # ADBE - Adobe Inc.
@@ -12,7 +12,7 @@ last_updated: 2026-09-10
 ## 基本信息
 
 - **所属行业**: Technology / Software - Application
-- **提取时间**: 2026-09-10 18:53:11
+- **提取时间**: 2026-09-11 18:54:22
 
 ## 产业链关系
 
@@ -36,4 +36,4 @@ _暂无数据_
 
 ## 元数据
 
-- **更新日期**: 2026-09-10
+- **更新日期**: 2026-09-11

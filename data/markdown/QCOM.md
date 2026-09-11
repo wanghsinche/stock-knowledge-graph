@@ -3,8 +3,8 @@ ticker: QCOM
 company: QUALCOMM Incorporated
 sector: Technology
 industry: Semiconductors
-extracted_at: 2026-09-10 18:52:12
-last_updated: 2026-09-10
+extracted_at: 2026-09-11 18:55:47
+last_updated: 2026-09-11
 ---
 
 # QCOM - QUALCOMM Incorporated
@@ -12,7 +12,7 @@ last_updated: 2026-09-10
 ## 基本信息
 
 - **所属行业**: Technology / Semiconductors
-- **提取时间**: 2026-09-10 18:52:12
+- **提取时间**: 2026-09-11 18:55:47
 
 ## 产业链关系
 
@@ -30,10 +30,10 @@ _暂无数据_
 
 ## 数据来源
 
-- [Qualcomm](https://en.wikipedia.org/wiki/QUALCOMM_Incorporated)
-- [QUALCOMM Incorporated suppliers manufacturers](https://csimarket.com/stocks/QCOM-Suppliers)
-- [QUALCOMM Incorporated suppliers manufacturers](https://www.makesureiknowit.com/company/qualcomm)
+- 
+- [QUALCOMM Incorporated suppliers manufacturers](https://www.bing.com/aclick?ld=e8LKgM1G677yB1_ZejFGeASTVUCUwfRqPhe2xgem_irrJfwwjXvL7wLtrTf30goPUAYajEtXYrUpCQWfOui9oSLgrxXUm-ScevGoYFFmKS5CS6F26tyHnWtp6yntDapsHOv0icRLkAseaK4W0d8CipB6AeKjueo2pX_VVTebaNvK3SYB5S5YAv1pvr69t8Je6ejSDe2mQSAe2e52avMGeO6muudk0&u=aHR0cHMlM2ElMmYlMmZ3d3cudGhvbWFzbmV0LmNvbSUyZnN1cHBsaWVycyUyZnNlYXJjaCUzZmNvdiUzZE5BJTI2aGVhZGluZyUzZDIxNDA3NzAlMjZoc2FfYWNjJTNkMTU0MDA4NTA1JTI2aHNhX2NhbSUzZDcxMDk3MjM2MyUyNmhzYV9ncnAlM2QxMjUwMTQ2MDkyMDc5MDc5JTI2aHNhX2FkJTNkNzgxMzQyNjU3NDMwNDAlMjZoc2Ffc3JjJTNkbyUyNmhzYV90Z3QlM2Rrd2QtNzgxMzQ1MjIyOTc5NjElM2Fsb2MtMTkwJTI2aHNhX2t3JTNkYXNzZW1ibGllcyUyNTIwbWFudWZhY3R1cmVyJTI2aHNhX210JTNkcCUyNmhzYV9uZXQlM2RiaW5nJTI2aHNhX3ZlciUzZDMlMjZtc2Nsa2lkJTNkN2ZhMTViNjJjNTJhMWQ3OWViYTgzMWM2OGI4NzU1MjklMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2Rtc2Z0X3RuLWJ1eWVyX3NlYXJjaF9ub25icmFuZF9hbGxfYXNzZW1ibGllcyUyNnV0bV90ZXJtJTNkYXNzZW1ibGllcyUyNTIwbWFudWZhY3R1cmVyJTI2dXRtX2NvbnRlbnQlM2Rtc2Z0X3RuLWJ1eWVyX3NlYXJjaF9ub25icmFuZF9hbGxfMjE0MDc3MF9hc3NlbWJsaWVz&rlid=7fa15b62c52a1d79eba831c68b875529)
+- [QUALCOMM Incorporated suppliers manufacturers](https://www.bing.com/aclick?ld=e8TlXywxaB4qJiTfURlwcdKTVUCUyMQHtBVq9p9Xano_9qi7jCTD5hKRb3X0_ij7WO-hDDzm9YZXgB2Jq3kg2t9Do7prU1rAbxKYVCXxHgZJk2qb1TCrYLNZJnoih54cch4EXvD4EMPhfFnl7ClxFDS_41yl4Bwk6zWJTuv1DmjQP2naS_D3Dmn4SWs7MD_CNCCMjGa4IVQ5jQtHsdUDkX-eSNtTo&u=aHR0cHMlM2ElMmYlMmZ3d3cuZ2xvYmFsc3BlYy5jb20lMmZzZWFyY2glMmZwcm9kdWN0cyUzZnRlcm0lM2RJQyUyNTIwbWFudWZhY3R1cmVyJTI2Y3BpZCUzZDUzMzYzMDAyOCUyNmFnaWQlM2QxMzYzMzk3MTQyMTg1NTk4JTI2c25ldCUzZG8lMjZhaWQlM2QlMjZzZSUzZGdna2ElMjZjaWQlM2RwYWlkc2VhcmNoJTI2bXNjbGtpZCUzZDEyYjc3ZTU5YzNkZTE0MzU4NWVlMTRmZDhkNzMzNTkxJTI2dXRtX3NvdXJjZSUzZGJpbmclMjZ1dG1fbWVkaXVtJTNkY3BjJTI2dXRtX2NhbXBhaWduJTNkMjAyNiUyNTIwR2xvYmFsU3BlY19FbGVjdHJpY2FsJTI1MjBDb21wb25lbnRzX01vZGVybml6ZWQlMjZ1dG1fdGVybSUzZElDJTI1MjBtYW51ZmFjdHVyZXIlMjZ1dG1fY29udGVudCUzZElDJTI1MjBTb2NrZXRzJTI1MjBhbmQlMjUyMEhlYWRlcnMlMjUyMC0lMjUyMEdlbmVyYWw&rlid=12b77e59c3de143585ee14fd8d733591)
 
 ## 元数据
 
-- **更新日期**: 2026-09-10
+- **更新日期**: 2026-09-11
