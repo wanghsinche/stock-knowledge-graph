@@ -3,8 +3,8 @@ ticker: AMZN
 company: Amazon.com, Inc.
 sector: Consumer Cyclical
 industry: Internet Retail
-extracted_at: 2026-09-11 18:53:07
-last_updated: 2026-09-11
+extracted_at: 2026-09-14 20:03:25
+last_updated: 2026-09-14
 ---
 
 # AMZN - Amazon.com, Inc.
@@ -12,7 +12,7 @@ last_updated: 2026-09-11
 ## 基本信息
 
 - **所属行业**: Consumer Cyclical / Internet Retail
-- **提取时间**: 2026-09-11 18:53:07
+- **提取时间**: 2026-09-14 20:03:25
 
 ## 产业链关系
 
@@ -31,9 +31,9 @@ _暂无数据_
 ## 数据来源
 
 - [Amazon (company)](https://en.wikipedia.org/wiki/Amazon.com,_Inc.)
-- [Amazon.com, Inc. suppliers manufacturers](https://www.makesureiknowit.com/company/amazoncom-inc)
-- [Amazon.com, Inc. suppliers manufacturers](https://csimarket.com/stocks/AMZN-Suppliers)
+- [Amazon.com, Inc. suppliers manufacturers](https://www.alibaba.com/)
+- [Amazon.com, Inc. suppliers manufacturers](https://www.amazon.com/40-w-smart-bulb/s?k=40+w+smart+bulb)
 
 ## 元数据
 
-- **更新日期**: 2026-09-11
+- **更新日期**: 2026-09-14

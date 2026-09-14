@@ -3,8 +3,8 @@ ticker: CRCL
 company: Circle Internet Group
 sector: Financial Services
 industry: Capital Markets
-extracted_at: 2026-09-04 18:46:19
-last_updated: 2026-09-04
+extracted_at: 2026-09-14 20:08:20
+last_updated: 2026-09-14
 ---
 
 # CRCL - Circle Internet Group
@@ -12,7 +12,7 @@ last_updated: 2026-09-04
 ## 基本信息
 
 - **所属行业**: Financial Services / Capital Markets
-- **提取时间**: 2026-09-04 18:46:19
+- **提取时间**: 2026-09-14 20:08:20
 
 ## 产业链关系
 
@@ -31,9 +31,9 @@ _暂无数据_
 ## 数据来源
 
 - [Circle Internet Group](https://en.wikipedia.org/wiki/Circle_Internet_Group)
-- [Circle Internet Group suppliers manufacturers](https://en.wikipedia.org/wiki/Circle_Internet_Group)
-- [Circle Internet Group suppliers manufacturers](https://investor.circle.com/overview/default.aspx)
+- [Circle Internet Group suppliers manufacturers](https://www.circle.com/)
+- [Circle Internet Group suppliers manufacturers](https://www.benzinga.com/m-a/26/09/61657721/circle-doubles-down-on-stablecoin-payments-with-tazapay-acquisition)
 
 ## 元数据
 
-- **更新日期**: 2026-09-04
+- **更新日期**: 2026-09-14

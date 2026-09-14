@@ -3,8 +3,8 @@ ticker: VRT
 company: Vertiv Holdings Co
 sector: Industrials
 industry: Electrical Equipment & Parts
-extracted_at: 2026-09-11 18:57:34
-last_updated: 2026-09-11
+extracted_at: 2026-09-14 20:05:29
+last_updated: 2026-09-14
 ---
 
 # VRT - Vertiv Holdings Co
@@ -12,7 +12,7 @@ last_updated: 2026-09-11
 ## 基本信息
 
 - **所属行业**: Industrials / Electrical Equipment & Parts
-- **提取时间**: 2026-09-11 18:57:34
+- **提取时间**: 2026-09-14 20:05:29
 
 ## 产业链关系
 
@@ -31,9 +31,9 @@ _暂无数据_
 ## 数据来源
 
 - [Vertiv](https://en.wikipedia.org/wiki/Vertiv_Holdings_Co)
-- [Vertiv Holdings Co suppliers manufacturers](https://www.vertiv.com/en-us/about/supplier/)
-- [Vertiv Holdings Co suppliers manufacturers](https://partners.vertiv.com/English/directory)
+- [Vertiv Holdings Co suppliers manufacturers](https://www.blossomsocial.com/stocks/Vertiv-Holdings-Co__VRT-STOCK-US-USD)
+- [Vertiv Holdings Co suppliers manufacturers](https://www.vertiv.com/en-emea/)
 
 ## 元数据
 
-- **更新日期**: 2026-09-11
+- **更新日期**: 2026-09-14

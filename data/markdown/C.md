@@ -3,8 +3,8 @@ ticker: C
 company: Citigroup Inc.
 sector: Financial Services
 industry: Banks - Diversified
-extracted_at: 2026-08-29 00:22:33
-last_updated: 2026-08-29
+extracted_at: 2026-09-14 20:07:22
+last_updated: 2026-09-14
 ---
 
 # C - Citigroup Inc.
@@ -12,7 +12,7 @@ last_updated: 2026-08-29
 ## 基本信息
 
 - **所属行业**: Financial Services / Banks - Diversified
-- **提取时间**: 2026-08-29 00:22:33
+- **提取时间**: 2026-09-14 20:07:22
 
 ## 产业链关系
 
@@ -31,9 +31,9 @@ _暂无数据_
 ## 数据来源
 
 - [Citigroup](https://en.wikipedia.org/wiki/Citigroup_Inc.)
-- [Citigroup Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/Citigroup)
-- [Citigroup Inc. suppliers manufacturers](https://csimarket.com/stocks/competition2.php?supply&code=C)
+- [Citigroup Inc. suppliers manufacturers](https://csimarket.com/stocks/C-Suppliers)
+- [Citigroup Inc. suppliers manufacturers](https://www.citigroup.com/global/suppliers/citi-isupplier-portal)
 
 ## 元数据
 
-- **更新日期**: 2026-08-29
+- **更新日期**: 2026-09-14
