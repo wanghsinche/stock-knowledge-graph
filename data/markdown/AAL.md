@@ -3,8 +3,8 @@ ticker: AAL
 company: American Airlines Group Inc.
 sector: Industrials
 industry: Airlines
-extracted_at: 2026-07-23 17:16:57
-last_updated: 2026-07-23
+extracted_at: 2026-09-16 19:21:31
+last_updated: 2026-09-16
 ---
 
 # AAL - American Airlines Group Inc.
@@ -12,46 +12,28 @@ last_updated: 2026-07-23
 ## 基本信息
 
 - **所属行业**: Industrials / Airlines
-- **提取时间**: 2026-07-23 17:16:57
+- **提取时间**: 2026-09-16 19:21:31
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Boeing]]
-- [[Airbus]]
-- [[Pratt & Whitney]]
-- [[GE Aviation]]
-- [[Honeywell]]
+_暂无数据_
 
 ### 下游客户
-- [[Corporate travel agencies]]
-- [[Government agencies]]
-- [[Travel agencies]]
-- [[Leisure travelers]]
-- [[Freight customers]]
+_暂无数据_
 
 ### 竞争对手
-- [[Delta Air Lines]]
-- [[United Airlines]]
-- [[Southwest Airlines]]
-- [[Alaska Airlines]]
-- [[JetBlue Airways]]
+_暂无数据_
 
 ### 核心产品
-- [[Passenger air transport]]
-- [[Cargo services]]
-- [[Maintenance, Repair & Overhaul (MRO)]]
-- [[AAdvantage loyalty program]]
-- [[In‑flight entertainment and connectivity]]
+_暂无数据_
 
 ## 数据来源
 
 - [American Airlines Group](https://en.wikipedia.org/wiki/American_Airlines_Group_Inc.)
-- [American Airlines Group Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/American_Airlines)
-- [American Airlines Group Inc. suppliers manufacturers](https://procurementmag.com/sustainability/american-airlines-ethical-sustainable-supply-chain)
-- [American Airlines Group Inc. major customers clients](https://www.tiktok.com/@nicolettedurazzo/video/7665067726787874078)
-- [American Airlines Group Inc. major customers clients](https://www.reddit.com/r/unitedairlines/comments/1uynxya/new_video_follow_up_with_racist_united_airlines/)
+- [American Airlines Group Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/US_Airways_Group)
+- [American Airlines Group Inc. suppliers manufacturers](https://www.aa.com/web/i18n/customer-service/about-us/american-airlines-group.html)
 
 ## 元数据
 
-- **更新日期**: 2026-07-23
+- **更新日期**: 2026-09-16
