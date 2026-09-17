@@ -1,18 +1,18 @@
 ---
-ticker: GEV
-company: GE Vernova Inc.
+ticker: GNRC
+company: Generac Holdings Inc.
 sector: Industrials
 industry: Specialty Industrial Machinery
-extracted_at: 2026-09-17 19:28:17
+extracted_at: 2026-09-17 19:30:40
 last_updated: 2026-09-17
 ---
 
-# GEV - GE Vernova Inc.
+# GNRC - Generac Holdings Inc.
 
 ## 基本信息
 
 - **所属行业**: Industrials / Specialty Industrial Machinery
-- **提取时间**: 2026-09-17 19:28:17
+- **提取时间**: 2026-09-17 19:30:40
 
 ## 产业链关系
 
@@ -30,9 +30,9 @@ _暂无数据_
 
 ## 数据来源
 
-- 
-- [GE Vernova Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/GE_Vernova)
-- [GE Vernova Inc. suppliers manufacturers](https://www.gevernova.com/)
+- [Generac](https://en.wikipedia.org/wiki/Generac_Holdings_Inc.)
+- [Generac Holdings Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/Generac)
+- [Generac Holdings Inc. suppliers manufacturers](https://finance.yahoo.com/quote/GNRC/)
 
 ## 元数据
 

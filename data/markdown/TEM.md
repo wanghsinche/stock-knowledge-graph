@@ -3,8 +3,8 @@ ticker: TEM
 company: Tempus AI, Inc.
 sector: Healthcare
 industry: Health Information Services
-extracted_at: 2026-08-20 16:25:18
-last_updated: 2026-08-20
+extracted_at: 2026-09-17 19:32:57
+last_updated: 2026-09-17
 ---
 
 # TEM - Tempus AI, Inc.
@@ -12,7 +12,7 @@ last_updated: 2026-08-20
 ## 基本信息
 
 - **所属行业**: Healthcare / Health Information Services
-- **提取时间**: 2026-08-20 16:25:18
+- **提取时间**: 2026-09-17 19:32:57
 
 ## 产业链关系
 
@@ -31,9 +31,9 @@ _暂无数据_
 ## 数据来源
 
 - 
-- [Tempus AI, Inc. suppliers manufacturers](https://www.tempus.com/)
-- [Tempus AI, Inc. suppliers manufacturers](https://csimarket.com/stocks/competitionSEG2.php?code=TEM)
+- [Tempus AI, Inc. suppliers manufacturers](https://ca.finance.yahoo.com/quote/TEM/)
+- [Tempus AI, Inc. suppliers manufacturers](https://www.investing.com/equities/tempus-ai)
 
 ## 元数据
 
-- **更新日期**: 2026-08-20
+- **更新日期**: 2026-09-17
