@@ -3,8 +3,8 @@ ticker: CRCL
 company: Circle Internet Group
 sector: Financial Services
 industry: Capital Markets
-extracted_at: 2026-09-16 19:19:18
-last_updated: 2026-09-16
+extracted_at: 2026-09-18 18:55:01
+last_updated: 2026-09-18
 ---
 
 # CRCL - Circle Internet Group
@@ -12,7 +12,7 @@ last_updated: 2026-09-16
 ## 基本信息
 
 - **所属行业**: Financial Services / Capital Markets
-- **提取时间**: 2026-09-16 19:19:18
+- **提取时间**: 2026-09-18 18:55:01
 
 ## 产业链关系
 
@@ -31,9 +31,9 @@ _暂无数据_
 ## 数据来源
 
 - [Circle Internet Group](https://en.wikipedia.org/wiki/Circle_Internet_Group)
-- [Circle Internet Group suppliers manufacturers](https://finance.yahoo.com/quote/CRCL/)
-- [Circle Internet Group suppliers manufacturers](https://seekingalpha.com/symbol/CRCL)
+- [Circle Internet Group suppliers manufacturers](https://www.circle.com/usdc)
+- [Circle Internet Group suppliers manufacturers](https://3commas.io/predictions/circle-internet-group-ondo-tokenized-stock)
 
 ## 元数据
 
-- **更新日期**: 2026-09-16
+- **更新日期**: 2026-09-18
