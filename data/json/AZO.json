@@ -3,41 +3,29 @@
   "company_name": "AutoZone, Inc.",
   "sector": "Consumer Cyclical",
   "industry": "Auto Parts",
-  "upstream": [
-    "Automotive component manufacturers",
-    "Battery producers",
-    "Oil and filter suppliers",
-    "Brake and suspension part suppliers",
-    "Electrical accessory manufacturers"
-  ],
-  "downstream": [
-    "Individual vehicle owners",
-    "Independent automotive repair shops",
-    "Fleet operators",
-    "Car dealerships",
-    "Online automotive retailers"
-  ],
-  "competitors": [
-    "O'Reilly Auto Parts",
-    "NAPA Auto Parts",
-    "Advance Auto Parts",
-    "Carquest",
-    "Auto Parts Warehouse"
-  ],
-  "key_products": [
-    "Aftermarket automotive parts",
-    "Car accessories",
-    "Batteries",
-    "Motor oils and lubricants",
-    "Filters and air conditioning components"
-  ],
-  "extracted_at": "2026-06-30 18:22:02",
+  "upstream": [],
+  "downstream": [],
+  "competitors": [],
+  "key_products": [],
+  "extracted_at": "2026-09-21 20:18:56",
   "sources": [
     {
       "source": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/AutoZone,_Inc.",
       "title": "AutoZone",
       "snippet": "AutoZone, Inc., doing business as AutoZone, is an American retailer of aftermarket automotive parts and accessories, the largest in the United States. Founded in 1979, AutoZone has 7,140 stores across"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://www.nbcnews.com/id/wbna42551000",
+      "query": "AutoZone, Inc. suppliers manufacturers",
+      "snippet": "AutoZone also recognized a special group of suppliers with the company's prestigious Extra Miler Award. Extra Miler suppliers are: Cardone Industries,"
+    },
+    {
+      "source": "DuckDuckGo",
+      "url": "https://wiki2.org/en/AutoZone",
+      "query": "AutoZone, Inc. suppliers manufacturers",
+      "snippet": "AutoZone , Inc . is an American retailer of aftermarket automotive parts and accessories, the largest in the United States. Founded in 1979, AutoZone "
     }
   ]
 }

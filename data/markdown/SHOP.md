@@ -3,8 +3,8 @@ ticker: SHOP
 company: Shopify Inc.
 sector: Technology
 industry: Software - Application
-extracted_at: 2026-09-10 18:56:05
-last_updated: 2026-09-10
+extracted_at: 2026-09-21 20:16:32
+last_updated: 2026-09-21
 ---
 
 # SHOP - Shopify Inc.
@@ -12,7 +12,7 @@ last_updated: 2026-09-10
 ## 基本信息
 
 - **所属行业**: Technology / Software - Application
-- **提取时间**: 2026-09-10 18:56:05
+- **提取时间**: 2026-09-21 20:16:32
 
 ## 产业链关系
 
@@ -31,9 +31,9 @@ _暂无数据_
 ## 数据来源
 
 - [Shopify](https://en.wikipedia.org/wiki/Shopify_Inc.)
-- [Shopify Inc. suppliers manufacturers](https://www.accio.com/supplier/shopify-suppliers)
-- [Shopify Inc. suppliers manufacturers](https://help.shopify.com/en/manual/sell-in-person/shopify-pos/inventory-management/stocky/vendors-and-suppliers)
+- [Shopify Inc. major customers clients](https://www.shopify.com/)
+- [Shopify Inc. major customers clients](https://www.shopifyacademy.com/)
 
 ## 元数据
 
-- **更新日期**: 2026-09-10
+- **更新日期**: 2026-09-21

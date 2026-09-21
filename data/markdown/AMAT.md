@@ -3,8 +3,8 @@ ticker: AMAT
 company: Applied Materials, Inc.
 sector: Technology
 industry: Semiconductor Equipment & Materials
-extracted_at: 2026-09-18 18:48:38
-last_updated: 2026-09-18
+extracted_at: 2026-09-21 20:14:03
+last_updated: 2026-09-21
 ---
 
 # AMAT - Applied Materials, Inc.
@@ -12,7 +12,7 @@ last_updated: 2026-09-18
 ## 基本信息
 
 - **所属行业**: Technology / Semiconductor Equipment & Materials
-- **提取时间**: 2026-09-18 18:48:38
+- **提取时间**: 2026-09-21 20:14:03
 
 ## 产业链关系
 
@@ -30,10 +30,10 @@ _暂无数据_
 
 ## 数据来源
 
-- [Applied Materials](https://en.wikipedia.org/wiki/Applied_Materials,_Inc.)
+- 
 - [Applied Materials, Inc. suppliers manufacturers](https://www.appliedmaterials.com/us/en.html)
-- [Applied Materials, Inc. suppliers manufacturers](https://finance.yahoo.com/markets/stocks/articles/why-applied-materials-inc-amat-185920007.html)
+- [Applied Materials, Inc. suppliers manufacturers](https://leadiq.com/c/applied-materials/5a1d8aa72400002400648cf2)
 
 ## 元数据
 
-- **更新日期**: 2026-09-18
+- **更新日期**: 2026-09-21
