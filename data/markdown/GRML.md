@@ -3,8 +3,8 @@ ticker: GRML
 company: Greenland Mines Ltd
 sector: Basic Materials
 industry: Other Precious Metals & Mining
-extracted_at: 2026-09-21 20:15:56
-last_updated: 2026-09-21
+extracted_at: 2026-09-22 19:33:08
+last_updated: 2026-09-22
 ---
 
 # GRML - Greenland Mines Ltd
@@ -12,7 +12,7 @@ last_updated: 2026-09-21
 ## 基本信息
 
 - **所属行业**: Basic Materials / Other Precious Metals & Mining
-- **提取时间**: 2026-09-21 20:15:56
+- **提取时间**: 2026-09-22 19:33:08
 
 ## 产业链关系
 
@@ -36,4 +36,4 @@ _暂无数据_
 
 ## 元数据
 
-- **更新日期**: 2026-09-21
+- **更新日期**: 2026-09-22
