@@ -3,8 +3,8 @@ ticker: VLO
 company: Valero Energy Corporation
 sector: Energy
 industry: Oil & Gas Refining & Marketing
-extracted_at: 2026-09-22 19:27:57
-last_updated: 2026-09-22
+extracted_at: 2026-09-23 19:22:10
+last_updated: 2026-09-23
 ---
 
 # VLO - Valero Energy Corporation
@@ -12,7 +12,7 @@ last_updated: 2026-09-22
 ## 基本信息
 
 - **所属行业**: Energy / Oil & Gas Refining & Marketing
-- **提取时间**: 2026-09-22 19:27:57
+- **提取时间**: 2026-09-23 19:22:10
 
 ## 产业链关系
 
@@ -31,9 +31,9 @@ _暂无数据_
 ## 数据来源
 
 - [Valero Energy](https://en.wikipedia.org/wiki/Valero_Energy_Corporation)
-- [Valero Energy Corporation suppliers manufacturers](https://investorvalero.com/)
-- [Valero Energy Corporation suppliers manufacturers](https://umushroom.com/en/equity/vlo-valero-energy)
+- [Valero Energy Corporation suppliers manufacturers](https://en.wikipedia.org/wiki/Valero_Energy)
+- [Valero Energy Corporation suppliers manufacturers](https://www.valero.com/about/valero-suppliers)
 
 ## 元数据
 
-- **更新日期**: 2026-09-22
+- **更新日期**: 2026-09-23

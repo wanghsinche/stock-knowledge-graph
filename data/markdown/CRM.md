@@ -3,8 +3,8 @@ ticker: CRM
 company: Salesforce, Inc.
 sector: Technology
 industry: Software - Application
-extracted_at: 2026-09-22 19:28:20
-last_updated: 2026-09-22
+extracted_at: 2026-09-23 19:23:30
+last_updated: 2026-09-23
 ---
 
 # CRM - Salesforce, Inc.
@@ -12,7 +12,7 @@ last_updated: 2026-09-22
 ## 基本信息
 
 - **所属行业**: Technology / Software - Application
-- **提取时间**: 2026-09-22 19:28:20
+- **提取时间**: 2026-09-23 19:23:30
 
 ## 产业链关系
 
@@ -36,4 +36,4 @@ _暂无数据_
 
 ## 元数据
 
-- **更新日期**: 2026-09-22
+- **更新日期**: 2026-09-23

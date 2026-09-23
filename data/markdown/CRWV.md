@@ -3,8 +3,8 @@ ticker: CRWV
 company: CoreWeave, Inc.
 sector: Technology
 industry: Software - Infrastructure
-extracted_at: 2026-09-22 19:28:09
-last_updated: 2026-09-22
+extracted_at: 2026-09-23 19:22:25
+last_updated: 2026-09-23
 ---
 
 # CRWV - CoreWeave, Inc.
@@ -12,7 +12,7 @@ last_updated: 2026-09-22
 ## 基本信息
 
 - **所属行业**: Technology / Software - Infrastructure
-- **提取时间**: 2026-09-22 19:28:09
+- **提取时间**: 2026-09-23 19:22:25
 
 ## 产业链关系
 
@@ -31,9 +31,9 @@ _暂无数据_
 ## 数据来源
 
 - [CoreWeave](https://en.wikipedia.org/wiki/CoreWeave,_Inc.)
-- [CoreWeave, Inc. major customers clients](https://en.wikipedia.org/wiki/CoreWeave)
-- [CoreWeave, Inc. major customers clients](https://stocktwits.com/news-articles/markets/equity/core-weave-brings-multi-rack-nvidia-vera-rubin-nvl-72-cluster-online-to-give-agentic-ai-customers-greater-scale-faster-iteration/cZtY1zaRB26)
+- [CoreWeave, Inc. suppliers manufacturers](https://www.coreweave.com/)
+- [CoreWeave, Inc. suppliers manufacturers](https://www.coreweave.com/about-us)
 
 ## 元数据
 
-- **更新日期**: 2026-09-22
+- **更新日期**: 2026-09-23

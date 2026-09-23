@@ -3,8 +3,8 @@ ticker: MSTR
 company: Strategy Inc
 sector: Technology
 industry: Software - Application
-extracted_at: 2026-09-22 19:26:05
-last_updated: 2026-09-22
+extracted_at: 2026-09-23 19:21:41
+last_updated: 2026-09-23
 ---
 
 # MSTR - Strategy Inc
@@ -12,7 +12,7 @@ last_updated: 2026-09-22
 ## 基本信息
 
 - **所属行业**: Technology / Software - Application
-- **提取时间**: 2026-09-22 19:26:05
+- **提取时间**: 2026-09-23 19:21:41
 
 ## 产业链关系
 
@@ -31,9 +31,9 @@ _暂无数据_
 ## 数据来源
 
 - [MicroStrategy](https://en.wikipedia.org/wiki/Strategy_Inc)
-- [Strategy Inc suppliers manufacturers](https://csimarket.com/stocks/suppliers_glance.php?code=STRF)
-- [Strategy Inc suppliers manufacturers](https://www.strategy.com/)
+- [Strategy Inc suppliers manufacturers](https://www.marketscreener.com/quote/stock/STRATEGY-INC-10105/company-group/)
+- [Strategy Inc suppliers manufacturers](https://www.strategyinc.net/)
 
 ## 元数据
 
-- **更新日期**: 2026-09-22
+- **更新日期**: 2026-09-23

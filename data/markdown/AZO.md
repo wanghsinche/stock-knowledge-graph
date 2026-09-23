@@ -3,8 +3,8 @@ ticker: AZO
 company: AutoZone, Inc.
 sector: Consumer Cyclical
 industry: Auto Parts
-extracted_at: 2026-09-22 19:29:05
-last_updated: 2026-09-22
+extracted_at: 2026-09-23 19:24:00
+last_updated: 2026-09-23
 ---
 
 # AZO - AutoZone, Inc.
@@ -12,7 +12,7 @@ last_updated: 2026-09-22
 ## 基本信息
 
 - **所属行业**: Consumer Cyclical / Auto Parts
-- **提取时间**: 2026-09-22 19:29:05
+- **提取时间**: 2026-09-23 19:24:00
 
 ## 产业链关系
 
@@ -31,9 +31,9 @@ _暂无数据_
 ## 数据来源
 
 - [AutoZone](https://en.wikipedia.org/wiki/AutoZone,_Inc.)
-- [AutoZone, Inc. suppliers manufacturers](https://www.nbcnews.com/id/wbna42551000)
-- [AutoZone, Inc. suppliers manufacturers](https://www.linkedin.com/company/autozone)
+- [AutoZone, Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/AutoZone)
+- [AutoZone, Inc. suppliers manufacturers](https://about.autozone.com/news-releases/news-release-details/autozone-recognizes-top-suppliers-1)
 
 ## 元数据
 
-- **更新日期**: 2026-09-22
+- **更新日期**: 2026-09-23
