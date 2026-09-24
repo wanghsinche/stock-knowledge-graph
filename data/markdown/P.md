@@ -1,18 +1,18 @@
 ---
-ticker: IONQ
-company: IonQ, Inc.
+ticker: P
+company: Everpure, Inc.
 sector: Technology
 industry: Computer Hardware
-extracted_at: 2026-09-24 19:39:24
+extracted_at: 2026-09-24 19:41:54
 last_updated: 2026-09-24
 ---
 
-# IONQ - IonQ, Inc.
+# P - Everpure, Inc.
 
 ## 基本信息
 
 - **所属行业**: Technology / Computer Hardware
-- **提取时间**: 2026-09-24 19:39:24
+- **提取时间**: 2026-09-24 19:41:54
 
 ## 产业链关系
 
@@ -30,9 +30,9 @@ _暂无数据_
 
 ## 数据来源
 
-- [IonQ](https://en.wikipedia.org/wiki/IonQ,_Inc.)
-- [IonQ, Inc. suppliers manufacturers](https://www.ionq.com/)
-- [IonQ, Inc. suppliers manufacturers](https://investorshub.advfn.com/IonQ-Inc-IONQ-39368)
+- 
+- [Everpure, Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/Everpure)
+- [Everpure, Inc. suppliers manufacturers](https://www.everpuredata.com/partners/partner-finder.html)
 
 ## 元数据
 
