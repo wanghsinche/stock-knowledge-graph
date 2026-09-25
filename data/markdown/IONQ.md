@@ -3,8 +3,8 @@ ticker: IONQ
 company: IonQ, Inc.
 sector: Technology
 industry: Computer Hardware
-extracted_at: 2026-09-24 19:39:24
-last_updated: 2026-09-24
+extracted_at: 2026-09-25 19:46:47
+last_updated: 2026-09-25
 ---
 
 # IONQ - IonQ, Inc.
@@ -12,7 +12,7 @@ last_updated: 2026-09-24
 ## 基本信息
 
 - **所属行业**: Technology / Computer Hardware
-- **提取时间**: 2026-09-24 19:39:24
+- **提取时间**: 2026-09-25 19:46:47
 
 ## 产业链关系
 
@@ -31,9 +31,9 @@ _暂无数据_
 ## 数据来源
 
 - [IonQ](https://en.wikipedia.org/wiki/IonQ,_Inc.)
-- [IonQ, Inc. suppliers manufacturers](https://www.ionq.com/)
-- [IonQ, Inc. suppliers manufacturers](https://investorshub.advfn.com/IonQ-Inc-IONQ-39368)
+- [IonQ, Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/IonQ)
+- [IonQ, Inc. suppliers manufacturers](https://www.ionq.com/blog/ionq-and-leading-global-automotive-manufacturer-collaborate-to-advance)
 
 ## 元数据
 
-- **更新日期**: 2026-09-24
+- **更新日期**: 2026-09-25
