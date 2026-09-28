@@ -3,8 +3,8 @@ ticker: MDB
 company: MongoDB, Inc.
 sector: Technology
 industry: Software - Infrastructure
-extracted_at: 2026-09-02 19:07:28
-last_updated: 2026-09-02
+extracted_at: 2026-09-28 21:30:15
+last_updated: 2026-09-28
 ---
 
 # MDB - MongoDB, Inc.
@@ -12,7 +12,7 @@ last_updated: 2026-09-02
 ## 基本信息
 
 - **所属行业**: Technology / Software - Infrastructure
-- **提取时间**: 2026-09-02 19:07:28
+- **提取时间**: 2026-09-28 21:30:15
 
 ## 产业链关系
 
@@ -31,9 +31,9 @@ _暂无数据_
 ## 数据来源
 
 - 
-- [MongoDB, Inc. suppliers manufacturers](https://www.mongodb.com/legal/vendors)
-- [MongoDB, Inc. suppliers manufacturers](https://www.mongodb.com/company/partners)
+- [MongoDB, Inc. suppliers manufacturers](https://csimarket.com/stocks/MDB-Suppliers)
+- [MongoDB, Inc. suppliers manufacturers](https://www.mongodb.com/)
 
 ## 元数据
 
-- **更新日期**: 2026-09-02
+- **更新日期**: 2026-09-28
