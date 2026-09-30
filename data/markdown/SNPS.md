@@ -3,8 +3,8 @@ ticker: SNPS
 company: Synopsys, Inc.
 sector: Technology
 industry: Software - Infrastructure
-extracted_at: 2026-08-28 00:47:57
-last_updated: 2026-08-28
+extracted_at: 2026-09-30 20:30:45
+last_updated: 2026-09-30
 ---
 
 # SNPS - Synopsys, Inc.
@@ -12,7 +12,7 @@ last_updated: 2026-08-28
 ## 基本信息
 
 - **所属行业**: Technology / Software - Infrastructure
-- **提取时间**: 2026-08-28 00:47:57
+- **提取时间**: 2026-09-30 20:30:45
 
 ## 产业链关系
 
@@ -32,8 +32,8 @@ _暂无数据_
 
 - [Synopsys](https://en.wikipedia.org/wiki/Synopsys,_Inc.)
 - [Synopsys, Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/Synopsys)
-- [Synopsys, Inc. suppliers manufacturers](https://csimarket.com/stocks/SNPS-Suppliers)
+- [Synopsys, Inc. suppliers manufacturers](https://csimarket.com/stocks/at_glance.php?code=SNPS)
 
 ## 元数据
 
-- **更新日期**: 2026-08-28
+- **更新日期**: 2026-09-30
