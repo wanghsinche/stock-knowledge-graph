@@ -3,8 +3,8 @@ ticker: META
 company: Meta Platforms, Inc.
 sector: Communication Services
 industry: Internet Content & Information
-extracted_at: 2026-09-30 20:24:19
-last_updated: 2026-09-30
+extracted_at: 2026-10-01 20:41:37
+last_updated: 2026-10-01
 ---
 
 # META - Meta Platforms, Inc.
@@ -12,7 +12,7 @@ last_updated: 2026-09-30
 ## 基本信息
 
 - **所属行业**: Communication Services / Internet Content & Information
-- **提取时间**: 2026-09-30 20:24:19
+- **提取时间**: 2026-10-01 20:41:37
 
 ## 产业链关系
 
@@ -32,8 +32,8 @@ _暂无数据_
 
 - [Meta Platforms](https://en.wikipedia.org/wiki/Meta_Platforms,_Inc.)
 - [Meta Platforms, Inc. suppliers manufacturers](https://www.alibaba.com/)
-- [Meta Platforms, Inc. suppliers manufacturers](https://www.livemint.com/companies/news/metas-muse-fuelled-rally-stock-jumps-36-per-cent-in-september-as-investors-warm-to-its-140-billion-ai-bet-11790522579927.html)
+- [Meta Platforms, Inc. suppliers manufacturers](https://www.fool.com/investing/2022/03/04/why-meta-platforms-fell-by-326-in-february/)
 
 ## 元数据
 
-- **更新日期**: 2026-09-30
+- **更新日期**: 2026-10-01
