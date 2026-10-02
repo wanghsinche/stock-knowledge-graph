@@ -3,8 +3,8 @@ ticker: STX
 company: Seagate Technology Holdings plc
 sector: Technology
 industry: Computer Hardware
-extracted_at: 2026-10-01 20:46:25
-last_updated: 2026-10-01
+extracted_at: 2026-10-02 20:15:12
+last_updated: 2026-10-02
 ---
 
 # STX - Seagate Technology Holdings plc
@@ -12,7 +12,7 @@ last_updated: 2026-10-01
 ## 基本信息
 
 - **所属行业**: Technology / Computer Hardware
-- **提取时间**: 2026-10-01 20:46:25
+- **提取时间**: 2026-10-02 20:15:12
 
 ## 产业链关系
 
@@ -32,8 +32,8 @@ _暂无数据_
 
 - 
 - [Seagate Technology Holdings plc suppliers manufacturers](https://www.seagate.com/)
-- [Seagate Technology Holdings plc suppliers manufacturers](https://coinswitch.co/us-stock-futures/stxx-seagate-technology-holdings-plc)
+- [Seagate Technology Holdings plc suppliers manufacturers](https://flicker.finance/fr/assets/stx/fear-and-greed-index)
 
 ## 元数据
 
-- **更新日期**: 2026-10-01
+- **更新日期**: 2026-10-02

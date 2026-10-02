@@ -3,8 +3,8 @@ ticker: BAC
 company: Bank of America Corporation
 sector: Financial Services
 industry: Banks - Diversified
-extracted_at: 2026-10-01 20:43:06
-last_updated: 2026-10-01
+extracted_at: 2026-10-02 20:22:23
+last_updated: 2026-10-02
 ---
 
 # BAC - Bank of America Corporation
@@ -12,7 +12,7 @@ last_updated: 2026-10-01
 ## 基本信息
 
 - **所属行业**: Financial Services / Banks - Diversified
-- **提取时间**: 2026-10-01 20:43:06
+- **提取时间**: 2026-10-02 20:22:23
 
 ## 产业链关系
 
@@ -32,8 +32,8 @@ _暂无数据_
 
 - [Bank of America](https://en.wikipedia.org/wiki/Bank_of_America_Corporation)
 - [Bank of America Corporation suppliers manufacturers](https://www.bankofamerica.com/)
-- [Bank of America Corporation suppliers manufacturers](https://www.americanbanker.com/)
+- [Bank of America Corporation suppliers manufacturers](https://www.britannica.com/money/Bank-of-America-Corporation)
 
 ## 元数据
 
-- **更新日期**: 2026-10-01
+- **更新日期**: 2026-10-02

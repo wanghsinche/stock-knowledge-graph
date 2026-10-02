@@ -3,8 +3,8 @@ ticker: LRCX
 company: Lam Research Corporation
 sector: Technology
 industry: Semiconductor Equipment & Materials
-extracted_at: 2026-10-01 20:44:43
-last_updated: 2026-10-01
+extracted_at: 2026-10-02 20:18:50
+last_updated: 2026-10-02
 ---
 
 # LRCX - Lam Research Corporation
@@ -12,7 +12,7 @@ last_updated: 2026-10-01
 ## 基本信息
 
 - **所属行业**: Technology / Semiconductor Equipment & Materials
-- **提取时间**: 2026-10-01 20:44:43
+- **提取时间**: 2026-10-02 20:18:50
 
 ## 产业链关系
 
@@ -31,9 +31,9 @@ _暂无数据_
 ## 数据来源
 
 - [Lam Research](https://en.wikipedia.org/wiki/Lam_Research_Corporation)
-- [Lam Research Corporation suppliers manufacturers](https://investor.lamresearch.com/2026-09-30-Lam-Research-Corporation-Announces-September-Quarter-Financial-Conference-Call)
+- [Lam Research Corporation suppliers manufacturers](https://finance.yahoo.com/news/lam-research-deepens-investment-silicon-180000489.html)
 - [Lam Research Corporation suppliers manufacturers](https://supplygraph.ai/company-events/20260420/lam-research-corporation/geopolitical-risk/iran-war-hormuz-strait-shipping-disruption)
 
 ## 元数据
 
-- **更新日期**: 2026-10-01
+- **更新日期**: 2026-10-02
