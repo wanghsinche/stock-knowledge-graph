@@ -3,8 +3,8 @@ ticker: MELI
 company: MercadoLibre, Inc.
 sector: Consumer Cyclical
 industry: Internet Retail
-extracted_at: 2026-09-17 19:34:49
-last_updated: 2026-09-17
+extracted_at: 2026-10-05 22:20:05
+last_updated: 2026-10-05
 ---
 
 # MELI - MercadoLibre, Inc.
@@ -12,7 +12,7 @@ last_updated: 2026-09-17
 ## 基本信息
 
 - **所属行业**: Consumer Cyclical / Internet Retail
-- **提取时间**: 2026-09-17 19:34:49
+- **提取时间**: 2026-10-05 22:20:05
 
 ## 产业链关系
 
@@ -31,9 +31,9 @@ _暂无数据_
 ## 数据来源
 
 - [MercadoLibre](https://en.wikipedia.org/wiki/MercadoLibre,_Inc.)
-- [MercadoLibre, Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/MercadoLibre)
-- [MercadoLibre, Inc. suppliers manufacturers](https://investor.mercadolibre.com/)
+- [MercadoLibre, Inc. suppliers manufacturers](https://csimarket.com/stocks/MELI-Suppliers)
+- [MercadoLibre, Inc. suppliers manufacturers](https://sustentabilidadmercadolibre.com/en/actuacion/suppliers)
 
 ## 元数据
 
-- **更新日期**: 2026-09-17
+- **更新日期**: 2026-10-05

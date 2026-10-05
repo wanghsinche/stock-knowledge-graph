@@ -3,8 +3,8 @@ ticker: WBD
 company: Warner Bros. Discovery, Inc.
 sector: Communication Services
 industry: Entertainment
-extracted_at: 2026-09-30 20:28:32
-last_updated: 2026-09-30
+extracted_at: 2026-10-05 22:15:58
+last_updated: 2026-10-05
 ---
 
 # WBD - Warner Bros. Discovery, Inc.
@@ -12,7 +12,7 @@ last_updated: 2026-09-30
 ## 基本信息
 
 - **所属行业**: Communication Services / Entertainment
-- **提取时间**: 2026-09-30 20:28:32
+- **提取时间**: 2026-10-05 22:15:58
 
 ## 产业链关系
 
@@ -31,9 +31,9 @@ _暂无数据_
 ## 数据来源
 
 - [Warner Bros. Discovery](https://en.wikipedia.org/wiki/Warner_Bros._Discovery,_Inc.)
-- [Warner Bros. Discovery, Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/Warner_Bros._Discovery)
-- [Warner Bros. Discovery, Inc. suppliers manufacturers](https://www.wbd.com/)
+- [Warner Bros. Discovery, Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/List_of_assets_owned_by_Warner_Bros._Discovery)
+- [Warner Bros. Discovery, Inc. suppliers manufacturers](https://www.wbd.com/procurement-strategic-sourcing/)
 
 ## 元数据
 
-- **更新日期**: 2026-09-30
+- **更新日期**: 2026-10-05

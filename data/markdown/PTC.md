@@ -1,18 +1,18 @@
 ---
-ticker: MSTR
-company: Strategy Inc
+ticker: PTC
+company: PTC Inc.
 sector: Technology
 industry: Software - Application
-extracted_at: 2026-10-05 22:18:49
+extracted_at: 2026-10-05 22:17:21
 last_updated: 2026-10-05
 ---
 
-# MSTR - Strategy Inc
+# PTC - PTC Inc.
 
 ## 基本信息
 
 - **所属行业**: Technology / Software - Application
-- **提取时间**: 2026-10-05 22:18:49
+- **提取时间**: 2026-10-05 22:17:21
 
 ## 产业链关系
 
@@ -30,9 +30,9 @@ _暂无数据_
 
 ## 数据来源
 
-- [MicroStrategy](https://en.wikipedia.org/wiki/Strategy_Inc)
-- [Strategy Inc suppliers manufacturers](https://www.strategy.inc/)
-- [Strategy Inc suppliers manufacturers](https://www.strategyinc.net/)
+- [PTC Inc.](https://en.wikipedia.org/wiki/PTC_Inc.)
+- [PTC Inc. suppliers manufacturers](https://www.ptc.com/en)
+- [PTC Inc. suppliers manufacturers](https://www.youtube.com/channel/UCcECp_XO890MXSVfIR19vRg)
 
 ## 元数据
 

@@ -3,8 +3,8 @@ ticker: TWLO
 company: Twilio Inc.
 sector: Technology
 industry: Software - Infrastructure
-extracted_at: 2026-08-07 16:46:39
-last_updated: 2026-08-07
+extracted_at: 2026-10-05 22:16:35
+last_updated: 2026-10-05
 ---
 
 # TWLO - Twilio Inc.
@@ -12,7 +12,7 @@ last_updated: 2026-08-07
 ## 基本信息
 
 - **所属行业**: Technology / Software - Infrastructure
-- **提取时间**: 2026-08-07 16:46:39
+- **提取时间**: 2026-10-05 22:16:35
 
 ## 产业链关系
 
@@ -31,9 +31,9 @@ _暂无数据_
 ## 数据来源
 
 - [Twilio](https://en.wikipedia.org/wiki/Twilio_Inc.)
-- [Twilio Inc. suppliers manufacturers](https://csimarket.com/stocks/TWLO-Suppliers)
-- [Twilio Inc. suppliers manufacturers](https://www.twilio.com/en-us/legal/supplier-code-of-conduct/supplier-information)
+- [Twilio Inc. suppliers manufacturers](https://csimarket.com/stocks/suppliers_glance.php?code=TWLO)
+- [Twilio Inc. suppliers manufacturers](https://www.twilio.com/login)
 
 ## 元数据
 
-- **更新日期**: 2026-08-07
+- **更新日期**: 2026-10-05
