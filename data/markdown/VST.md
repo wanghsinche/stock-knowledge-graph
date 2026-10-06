@@ -3,8 +3,8 @@ ticker: VST
 company: Vistra Corp.
 sector: Utilities
 industry: Utilities - Independent Power Producers
-extracted_at: 2026-10-02 20:21:55
-last_updated: 2026-10-02
+extracted_at: 2026-10-06 20:42:17
+last_updated: 2026-10-06
 ---
 
 # VST - Vistra Corp.
@@ -12,7 +12,7 @@ last_updated: 2026-10-02
 ## 基本信息
 
 - **所属行业**: Utilities / Utilities - Independent Power Producers
-- **提取时间**: 2026-10-02 20:21:55
+- **提取时间**: 2026-10-06 20:42:17
 
 ## 产业链关系
 
@@ -36,4 +36,4 @@ _暂无数据_
 
 ## 元数据
 
-- **更新日期**: 2026-10-02
+- **更新日期**: 2026-10-06

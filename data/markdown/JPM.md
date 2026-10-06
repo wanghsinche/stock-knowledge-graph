@@ -3,8 +3,8 @@ ticker: JPM
 company: JPMorgan Chase & Co.
 sector: Financial Services
 industry: Banks - Diversified
-extracted_at: 2026-10-01 20:45:38
-last_updated: 2026-10-01
+extracted_at: 2026-10-06 20:44:37
+last_updated: 2026-10-06
 ---
 
 # JPM - JPMorgan Chase & Co.
@@ -12,7 +12,7 @@ last_updated: 2026-10-01
 ## 基本信息
 
 - **所属行业**: Financial Services / Banks - Diversified
-- **提取时间**: 2026-10-01 20:45:38
+- **提取时间**: 2026-10-06 20:44:37
 
 ## 产业链关系
 
@@ -31,9 +31,9 @@ _暂无数据_
 ## 数据来源
 
 - [JPMorgan Chase](https://en.wikipedia.org/wiki/JPMorgan_Chase_&_Co.)
-- [JPMorgan Chase & Co. suppliers manufacturers](https://en.wikipedia.org/wiki/JPMorgan_Chase)
-- [JPMorgan Chase & Co. suppliers manufacturers](https://ru.wikipedia.org/wiki/JPMorgan_Chase)
+- [JPMorgan Chase & Co. suppliers manufacturers](https://www.jpmorganchase.com/about/suppliers)
+- [JPMorgan Chase & Co. suppliers manufacturers](https://jpmorganchase.suppliergateway.com/)
 
 ## 元数据
 
-- **更新日期**: 2026-10-01
+- **更新日期**: 2026-10-06
