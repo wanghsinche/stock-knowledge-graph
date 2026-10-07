@@ -3,8 +3,8 @@ ticker: NBIS
 company: NBIS
 sector: Communication Services
 industry: Internet Content & Information
-extracted_at: 2026-10-06 20:40:58
-last_updated: 2026-10-06
+extracted_at: 2026-10-07 20:55:53
+last_updated: 2026-10-07
 ---
 
 # NBIS - NBIS
@@ -12,7 +12,7 @@ last_updated: 2026-10-06
 ## 基本信息
 
 - **所属行业**: Communication Services / Internet Content & Information
-- **提取时间**: 2026-10-06 20:40:58
+- **提取时间**: 2026-10-07 20:55:53
 
 ## 产业链关系
 
@@ -36,4 +36,4 @@ _暂无数据_
 
 ## 元数据
 
-- **更新日期**: 2026-10-06
+- **更新日期**: 2026-10-07

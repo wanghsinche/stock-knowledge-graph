@@ -3,8 +3,8 @@ ticker: PEP
 company: PepsiCo, Inc.
 sector: Consumer Defensive
 industry: Beverages - Non-Alcoholic
-extracted_at: 2026-09-18 18:54:05
-last_updated: 2026-09-18
+extracted_at: 2026-10-07 21:01:28
+last_updated: 2026-10-07
 ---
 
 # PEP - PepsiCo, Inc.
@@ -12,7 +12,7 @@ last_updated: 2026-09-18
 ## 基本信息
 
 - **所属行业**: Consumer Defensive / Beverages - Non-Alcoholic
-- **提取时间**: 2026-09-18 18:54:05
+- **提取时间**: 2026-10-07 21:01:28
 
 ## 产业链关系
 
@@ -36,4 +36,4 @@ _暂无数据_
 
 ## 元数据
 
-- **更新日期**: 2026-09-18
+- **更新日期**: 2026-10-07
