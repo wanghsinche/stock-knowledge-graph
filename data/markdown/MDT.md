@@ -3,8 +3,8 @@ ticker: MDT
 company: Medtronic plc
 sector: Healthcare
 industry: Medical Devices
-extracted_at: 2026-10-07 20:55:44
-last_updated: 2026-10-07
+extracted_at: 2026-10-08 20:56:01
+last_updated: 2026-10-08
 ---
 
 # MDT - Medtronic plc
@@ -12,7 +12,7 @@ last_updated: 2026-10-07
 ## 基本信息
 
 - **所属行业**: Healthcare / Medical Devices
-- **提取时间**: 2026-10-07 20:55:44
+- **提取时间**: 2026-10-08 20:56:01
 
 ## 产业链关系
 
@@ -30,10 +30,10 @@ _暂无数据_
 
 ## 数据来源
 
-- [Medtronic](https://en.wikipedia.org/wiki/Medtronic_plc)
+- 
 - [Medtronic plc suppliers manufacturers](https://csimarket.com/stocks/suppliers_glance.php?code=MDT)
 - [Medtronic plc suppliers manufacturers](https://varamir.com/q/MDT)
 
 ## 元数据
 
-- **更新日期**: 2026-10-07
+- **更新日期**: 2026-10-08

@@ -3,8 +3,8 @@ ticker: HOOD
 company: Robinhood Markets, Inc.
 sector: Financial Services
 industry: Capital Markets
-extracted_at: 2026-10-07 20:58:59
-last_updated: 2026-10-07
+extracted_at: 2026-10-08 20:59:13
+last_updated: 2026-10-08
 ---
 
 # HOOD - Robinhood Markets, Inc.
@@ -12,7 +12,7 @@ last_updated: 2026-10-07
 ## 基本信息
 
 - **所属行业**: Financial Services / Capital Markets
-- **提取时间**: 2026-10-07 20:58:59
+- **提取时间**: 2026-10-08 20:59:13
 
 ## 产业链关系
 
@@ -32,8 +32,8 @@ _暂无数据_
 
 - 
 - [Robinhood Markets, Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/Robinhood_Markets)
-- [Robinhood Markets, Inc. suppliers manufacturers](https://robinhood.com/)
+- [Robinhood Markets, Inc. suppliers manufacturers](https://csimarket.com/stocks/HOOD-Suppliers)
 
 ## 元数据
 
-- **更新日期**: 2026-10-07
+- **更新日期**: 2026-10-08

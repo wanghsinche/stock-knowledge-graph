@@ -3,8 +3,8 @@ ticker: WDC
 company: Western Digital Corporation
 sector: Technology
 industry: Computer Hardware
-extracted_at: 2026-10-07 20:57:03
-last_updated: 2026-10-07
+extracted_at: 2026-10-08 20:57:31
+last_updated: 2026-10-08
 ---
 
 # WDC - Western Digital Corporation
@@ -12,7 +12,7 @@ last_updated: 2026-10-07
 ## 基本信息
 
 - **所属行业**: Technology / Computer Hardware
-- **提取时间**: 2026-10-07 20:57:03
+- **提取时间**: 2026-10-08 20:57:31
 
 ## 产业链关系
 
@@ -32,8 +32,8 @@ _暂无数据_
 
 - [Western Digital](https://en.wikipedia.org/wiki/Western_Digital_Corporation)
 - [Western Digital Corporation suppliers manufacturers](https://en.wikipedia.org/wiki/Western_Digital)
-- [Western Digital Corporation suppliers manufacturers](https://www.kynix.com/productdetails/67965435/westerndigitalcorporation/wd70c22gp0001.html)
+- [Western Digital Corporation suppliers manufacturers](https://www.kynix.com/productdetails/56975312/westerndigitalcorporation/wd76c30aju.html)
 
 ## 元数据
 
-- **更新日期**: 2026-10-07
+- **更新日期**: 2026-10-08

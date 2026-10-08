@@ -3,8 +3,8 @@ ticker: BA
 company: The Boeing Company
 sector: Industrials
 industry: Aerospace & Defense
-extracted_at: 2026-10-02 20:18:20
-last_updated: 2026-10-02
+extracted_at: 2026-10-08 21:00:02
+last_updated: 2026-10-08
 ---
 
 # BA - The Boeing Company
@@ -12,7 +12,7 @@ last_updated: 2026-10-02
 ## 基本信息
 
 - **所属行业**: Industrials / Aerospace & Defense
-- **提取时间**: 2026-10-02 20:18:20
+- **提取时间**: 2026-10-08 21:00:02
 
 ## 产业链关系
 
@@ -30,10 +30,10 @@ _暂无数据_
 
 ## 数据来源
 
-- [Boeing](https://en.wikipedia.org/wiki/The_Boeing_Company)
-- [The Boeing Company suppliers manufacturers](https://www.boeing.com/)
-- [The Boeing Company suppliers manufacturers](https://www.britannica.com/money/Boeing-Company)
+- 
+- [The Boeing Company suppliers manufacturers](https://www.boeingsuppliers.com/)
+- [The Boeing Company suppliers manufacturers](https://boltflight.com/boeing-parts-manufacturers-a-comprehensive-overview-of-key-global-suppliers/)
 
 ## 元数据
 
-- **更新日期**: 2026-10-02
+- **更新日期**: 2026-10-08

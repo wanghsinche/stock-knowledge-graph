@@ -3,8 +3,8 @@ ticker: SBUX
 company: Starbucks Corporation
 sector: Consumer Cyclical
 industry: Restaurants
-extracted_at: 2026-07-30 17:28:16
-last_updated: 2026-07-30
+extracted_at: 2026-10-08 20:58:15
+last_updated: 2026-10-08
 ---
 
 # SBUX - Starbucks Corporation
@@ -12,46 +12,28 @@ last_updated: 2026-07-30
 ## 基本信息
 
 - **所属行业**: Consumer Cyclical / Restaurants
-- **提取时间**: 2026-07-30 17:28:16
+- **提取时间**: 2026-10-08 20:58:15
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Coffee bean growers and cooperatives (e.g., Colombian, Ethiopian, Brazilian farms)]]
-- [[Coffee processing and roasting equipment manufacturers (e.g., Mazola, Rancilio)]]
-- [[Packaging suppliers (e.g., Tetra Pak, Nestlé Packaging)]]
-- [[Coffee bean logistics and freight companies]]
-- [[Sustainable sourcing partners (e.g., Fair Trade, Rainforest Alliance)]]
+_暂无数据_
 
 ### 下游客户
-- [[Individual consumers purchasing in-store or via mobile app]]
-- [[Corporate and institutional clients (e.g., offices, universities, hospitals)]]
-- [[Retail partners for packaged coffee (e.g., grocery chains, supermarkets)]]
-- [[AMZN]]
-- [[Gift card purchasers and loyalty program members]]
+_暂无数据_
 
 ### 竞争对手
-- [[Dunkin' (DNKN)]]
-- [[McDonald's McCafe (via McDonald's Corp.)]]
-- [[Costa Coffee (owned by Coca‑Cola)]]
-- [[Tim Hortons (owned by Restaurant Brands International)]]
-- [[Peet's Coffee (PEET)]]
+_暂无数据_
 
 ### 核心产品
-- [[Espresso‑based beverages (Latte, Cappuccino, Americano)]]
-- [[Brewed coffee (Hot, Iced, Cold Brew)]]
-- [[Packaged whole‑bean and ground coffee]]
-- [[Pastries and baked goods (Croissants, Muffins)]]
-- [[Cold drinks (Frappuccino, Refreshers, Teas)]]
+_暂无数据_
 
 ## 数据来源
 
 - [Starbucks](https://en.wikipedia.org/wiki/Starbucks_Corporation)
-- [Starbucks Corporation suppliers manufacturers](https://ru.wikipedia.org/wiki/Starbucks)
-- [Starbucks Corporation suppliers manufacturers](https://csimarket.com/stocks/suppliers_glance.php?code=SBUX)
-- [Starbucks Corporation major customers clients](https://www.starbucks.com/?n)
-- [Starbucks Corporation major customers clients](https://www.starbucks.co.uk/store-locator)
+- [Starbucks Corporation suppliers manufacturers](https://en.wikipedia.org/wiki/Starbucks)
+- [Starbucks Corporation suppliers manufacturers](https://csimarket.com/stocks/SBUX-Suppliers)
 
 ## 元数据
 
-- **更新日期**: 2026-07-30
+- **更新日期**: 2026-10-08
