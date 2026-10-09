@@ -2,56 +2,38 @@
 ticker: HUM
 company: Humana Inc.
 sector: Healthcare
-industry: Health Insurance / Health Plans
-extracted_at: 2026-04-07 16:53:19
-last_updated: 2026-04-07
+industry: Healthcare Plans
+extracted_at: 2026-10-09 20:28:41
+last_updated: 2026-10-09
 ---
 
 # HUM - Humana Inc.
 
 ## 基本信息
 
-- **所属行业**: Healthcare / Health Insurance / Health Plans
-- **提取时间**: 2026-04-07 16:53:19
+- **所属行业**: Healthcare / Healthcare Plans
+- **提取时间**: 2026-10-09 20:28:41
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Pharmaceutical manufacturers]]
-- [[Medical device manufacturers]]
-- [[Health technology vendors]]
-- [[Data analytics providers]]
-- [[IT infrastructure service providers]]
+_暂无数据_
 
 ### 下游客户
-- [[Individual consumers]]
-- [[Employer-sponsored health plans]]
-- [[Government programs (Medicare, Medicaid)]]
-- [[Health maintenance organizations (HMOs)]]
-- [[Retail pharmacy benefit managers]]
+_暂无数据_
 
 ### 竞争对手
-- [[UnitedHealth Group]]
-- [[Anthem]]
-- [[Cigna]]
-- [[Aetna]]
-- [[Blue Cross Blue Shield]]
+_暂无数据_
 
 ### 核心产品
-- [[Medicare Advantage plans]]
-- [[Medicaid plans]]
-- [[Employer-sponsored health insurance]]
-- [[Health Savings Accounts (HSAs)]]
-- [[Telehealth and wellness services]]
+_暂无数据_
 
 ## 数据来源
 
 - [Humana](https://en.wikipedia.org/wiki/Humana_Inc.)
-- [Humana Inc. suppliers manufacturers](https://corporateofficeheadquarters.org/humana/)
-- [Humana Inc. suppliers manufacturers](https://careers.humana.com/us/en/students-professional-programs)
-- [Humana Inc. major customers clients](https://voymedia.com/humana-marketing-strategy/)
-- [Humana Inc. major customers clients](https://www.smartkarma.com/insights/humana-inc-major-drivers)
+- [Humana Inc. suppliers manufacturers](https://www.encyclopedia.com/social-sciences-and-law/economics-business-and-labor/businesses-and-occupations/humana-inc)
+- [Humana Inc. suppliers manufacturers](https://www.alibaba.com/)
 
 ## 元数据
 
-- **更新日期**: 2026-04-07
+- **更新日期**: 2026-10-09

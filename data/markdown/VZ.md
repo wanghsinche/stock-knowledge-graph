@@ -1,57 +1,39 @@
 ---
 ticker: VZ
 company: Verizon Communications Inc.
-sector: Communication Services / Telecom Services
-industry: Telecommunications Services
-extracted_at: 2026-08-05 17:40:02
-last_updated: 2026-08-05
+sector: Communication Services
+industry: Telecom Services
+extracted_at: 2026-10-09 20:26:22
+last_updated: 2026-10-09
 ---
 
 # VZ - Verizon Communications Inc.
 
 ## 基本信息
 
-- **所属行业**: Communication Services / Telecom Services / Telecommunications Services
-- **提取时间**: 2026-08-05 17:40:02
+- **所属行业**: Communication Services / Telecom Services
+- **提取时间**: 2026-10-09 20:26:22
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Ericsson]]
-- [[Nokia]]
-- [[Huawei]]
-- [[CSCO]]
-- [[JNPR]]
+_暂无数据_
 
 ### 下游客户
-- [[Individual consumers]]
-- [[Small and medium businesses]]
-- [[Large enterprises]]
-- [[Government agencies]]
-- [[Internet of Things (IoT) customers]]
+_暂无数据_
 
 ### 竞争对手
-- [[AT&T]]
-- [[T-Mobile US]]
-- [[Comcast]]
-- [[CAT]]
-- [[CAT]]
+_暂无数据_
 
 ### 核心产品
-- [[Wireless voice and data services]]
-- [[Fixed broadband]]
-- [[Fiber-to-the-home (FTTH)]]
-- [[Cloud services]]
-- [[Network infrastructure]]
+_暂无数据_
 
 ## 数据来源
 
 - [Verizon](https://en.wikipedia.org/wiki/Verizon_Communications_Inc.)
-- [Verizon Communications Inc. suppliers manufacturers](https://ru.wikipedia.org/wiki/Verizon_Communications)
-- [Verizon Communications Inc. suppliers manufacturers](https://www.verizon.com/about)
-- [Verizon Communications Inc. major customers clients](https://www.verizon.com/about)
-- [Verizon Communications Inc. major customers clients](https://www.bloomberg.com/quote/VZ:US)
+- [Verizon Communications Inc. suppliers manufacturers](https://csimarket.com/stocks/VZ-Suppliers)
+- [Verizon Communications Inc. suppliers manufacturers](https://vsource.verizon.com/procurement/index.html)
 
 ## 元数据
 
-- **更新日期**: 2026-08-05
+- **更新日期**: 2026-10-09

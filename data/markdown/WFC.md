@@ -3,8 +3,8 @@ ticker: WFC
 company: Wells Fargo & Company
 sector: Financial Services
 industry: Banks - Diversified
-extracted_at: 2026-09-02 19:11:24
-last_updated: 2026-09-02
+extracted_at: 2026-10-09 20:29:11
+last_updated: 2026-10-09
 ---
 
 # WFC - Wells Fargo & Company
@@ -12,7 +12,7 @@ last_updated: 2026-09-02
 ## 基本信息
 
 - **所属行业**: Financial Services / Banks - Diversified
-- **提取时间**: 2026-09-02 19:11:24
+- **提取时间**: 2026-10-09 20:29:11
 
 ## 产业链关系
 
@@ -32,8 +32,8 @@ _暂无数据_
 
 - [Wells Fargo](https://en.wikipedia.org/wiki/Wells_Fargo_&_Company)
 - [Wells Fargo & Company suppliers manufacturers](https://www.wellsfargo.com/)
-- [Wells Fargo & Company suppliers manufacturers](https://www.youtube.com/channel/UCGcBOP3IhbgHOPBcUFUZRdQ)
+- [Wells Fargo & Company suppliers manufacturers](https://www.linkedin.com/company/wellsfargo)
 
 ## 元数据
 
-- **更新日期**: 2026-09-02
+- **更新日期**: 2026-10-09
