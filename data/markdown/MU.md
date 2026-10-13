@@ -3,8 +3,8 @@ ticker: MU
 company: Micron Technology, Inc.
 sector: Technology
 industry: Semiconductors
-extracted_at: 2026-10-12 22:39:16
-last_updated: 2026-10-12
+extracted_at: 2026-10-13 20:53:31
+last_updated: 2026-10-13
 ---
 
 # MU - Micron Technology, Inc.
@@ -12,7 +12,7 @@ last_updated: 2026-10-12
 ## 基本信息
 
 - **所属行业**: Technology / Semiconductors
-- **提取时间**: 2026-10-12 22:39:16
+- **提取时间**: 2026-10-13 20:53:31
 
 ## 产业链关系
 
@@ -32,8 +32,8 @@ _暂无数据_
 
 - [Micron Technology](https://en.wikipedia.org/wiki/Micron_Technology,_Inc.)
 - [Micron Technology, Inc. suppliers manufacturers](https://www.micron.com/sales-support/sales-network/find-a-manufacturer)
-- [Micron Technology, Inc. suppliers manufacturers](https://www.micron.com/about/company/suppliers)
+- [Micron Technology, Inc. suppliers manufacturers](https://csimarket.com/stocks/MU-Suppliers)
 
 ## 元数据
 
-- **更新日期**: 2026-10-12
+- **更新日期**: 2026-10-13

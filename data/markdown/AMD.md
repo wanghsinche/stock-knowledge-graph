@@ -3,8 +3,8 @@ ticker: AMD
 company: Advanced Micro Devices, Inc.
 sector: Technology
 industry: Semiconductors
-extracted_at: 2026-10-12 22:40:06
-last_updated: 2026-10-12
+extracted_at: 2026-10-13 20:54:26
+last_updated: 2026-10-13
 ---
 
 # AMD - Advanced Micro Devices, Inc.
@@ -12,7 +12,7 @@ last_updated: 2026-10-12
 ## 基本信息
 
 - **所属行业**: Technology / Semiconductors
-- **提取时间**: 2026-10-12 22:40:06
+- **提取时间**: 2026-10-13 20:54:26
 
 ## 产业链关系
 
@@ -30,10 +30,10 @@ _暂无数据_
 
 ## 数据来源
 
-- 
-- [Advanced Micro Devices, Inc. suppliers manufacturers](https://csimarket.com/stocks/AMD-Suppliers)
-- [Advanced Micro Devices, Inc. suppliers manufacturers](https://thepartsdirect.com/advancedmicrodevicesamd/distributors-and-vendors)
+- [AMD](https://en.wikipedia.org/wiki/Advanced_Micro_Devices,_Inc.)
+- [Advanced Micro Devices, Inc. suppliers manufacturers](https://finance.yahoo.com/quote/AMD/)
+- [Advanced Micro Devices, Inc. suppliers manufacturers](https://ir.amd.com/)
 
 ## 元数据
 
-- **更新日期**: 2026-10-12
+- **更新日期**: 2026-10-13
