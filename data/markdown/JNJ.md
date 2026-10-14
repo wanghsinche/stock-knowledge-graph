@@ -3,8 +3,8 @@ ticker: JNJ
 company: Johnson & Johnson
 sector: Healthcare
 industry: Drug Manufacturers - General
-extracted_at: 2026-10-13 20:56:36
-last_updated: 2026-10-13
+extracted_at: 2026-10-14 19:56:31
+last_updated: 2026-10-14
 ---
 
 # JNJ - Johnson & Johnson
@@ -12,7 +12,7 @@ last_updated: 2026-10-13
 ## 基本信息
 
 - **所属行业**: Healthcare / Drug Manufacturers - General
-- **提取时间**: 2026-10-13 20:56:36
+- **提取时间**: 2026-10-14 19:56:31
 
 ## 产业链关系
 
@@ -36,4 +36,4 @@ _暂无数据_
 
 ## 元数据
 
-- **更新日期**: 2026-10-13
+- **更新日期**: 2026-10-14
