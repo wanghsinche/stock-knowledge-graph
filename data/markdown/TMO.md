@@ -3,8 +3,8 @@ ticker: TMO
 company: Thermo Fisher Scientific Inc.
 sector: Healthcare
 industry: Diagnostics & Research
-extracted_at: 2026-10-06 20:45:09
-last_updated: 2026-10-06
+extracted_at: 2026-10-15 19:40:27
+last_updated: 2026-10-15
 ---
 
 # TMO - Thermo Fisher Scientific Inc.
@@ -12,7 +12,7 @@ last_updated: 2026-10-06
 ## 基本信息
 
 - **所属行业**: Healthcare / Diagnostics & Research
-- **提取时间**: 2026-10-06 20:45:09
+- **提取时间**: 2026-10-15 19:40:27
 
 ## 产业链关系
 
@@ -31,9 +31,9 @@ _暂无数据_
 ## 数据来源
 
 - [Thermo Fisher Scientific](https://en.wikipedia.org/wiki/Thermo_Fisher_Scientific_Inc.)
-- [Thermo Fisher Scientific Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/Thermo_Fisher_Scientific)
-- [Thermo Fisher Scientific Inc. suppliers manufacturers](https://www.fishersci.com/)
+- [Thermo Fisher Scientific Inc. suppliers manufacturers](https://corporate.thermofisher.com/us/en/index/about/supplier-hub.html)
+- [Thermo Fisher Scientific Inc. suppliers manufacturers](https://csimarket.com/stocks/TMO-Suppliers)
 
 ## 元数据
 
-- **更新日期**: 2026-10-06
+- **更新日期**: 2026-10-15
