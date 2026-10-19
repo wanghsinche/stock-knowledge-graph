@@ -3,8 +3,8 @@ ticker: ACN
 company: Accenture plc
 sector: Technology
 industry: Information Technology Services
-extracted_at: 2026-10-08 20:59:01
-last_updated: 2026-10-08
+extracted_at: 2026-10-19 20:52:40
+last_updated: 2026-10-19
 ---
 
 # ACN - Accenture plc
@@ -12,7 +12,7 @@ last_updated: 2026-10-08
 ## 基本信息
 
 - **所属行业**: Technology / Information Technology Services
-- **提取时间**: 2026-10-08 20:59:01
+- **提取时间**: 2026-10-19 20:52:40
 
 ## 产业链关系
 
@@ -30,10 +30,10 @@ _暂无数据_
 
 ## 数据来源
 
-- 
+- [Accenture](https://en.wikipedia.org/wiki/Accenture_plc)
 - [Accenture plc suppliers manufacturers](https://csimarket.com/stocks/ACN-Suppliers)
-- [Accenture plc suppliers manufacturers](https://www.accenture.com/en/support/accenture-supplier-connection)
+- [Accenture plc suppliers manufacturers](https://simplywall.st/stocks/us/software/nyse-acn/accenture)
 
 ## 元数据
 
-- **更新日期**: 2026-10-08
+- **更新日期**: 2026-10-19

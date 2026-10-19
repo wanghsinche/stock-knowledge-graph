@@ -3,8 +3,8 @@ ticker: SNOW
 company: Snowflake Inc.
 sector: Technology
 industry: Software - Application
-extracted_at: 2026-10-16 19:10:59
-last_updated: 2026-10-16
+extracted_at: 2026-10-19 20:52:32
+last_updated: 2026-10-19
 ---
 
 # SNOW - Snowflake Inc.
@@ -12,7 +12,7 @@ last_updated: 2026-10-16
 ## 基本信息
 
 - **所属行业**: Technology / Software - Application
-- **提取时间**: 2026-10-16 19:10:59
+- **提取时间**: 2026-10-19 20:52:32
 
 ## 产业链关系
 
@@ -30,10 +30,10 @@ _暂无数据_
 
 ## 数据来源
 
-- 
+- [Snowflake Inc.](https://en.wikipedia.org/wiki/Snowflake_Inc.)
 - [Snowflake Inc. suppliers manufacturers](https://www.snowflake.com/)
 - [Snowflake Inc. suppliers manufacturers](https://www.youtube.com/channel/UCs10x-muRrTQMJ4Ya-fmIlw)
 
 ## 元数据
 
-- **更新日期**: 2026-10-16
+- **更新日期**: 2026-10-19
