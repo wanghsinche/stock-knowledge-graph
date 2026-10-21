@@ -3,8 +3,8 @@ ticker: MRNA
 company: Moderna, Inc.
 sector: Healthcare
 industry: Biotechnology
-extracted_at: 2026-10-20 19:46:06
-last_updated: 2026-10-20
+extracted_at: 2026-10-21 19:48:10
+last_updated: 2026-10-21
 ---
 
 # MRNA - Moderna, Inc.
@@ -12,7 +12,7 @@ last_updated: 2026-10-20
 ## 基本信息
 
 - **所属行业**: Healthcare / Biotechnology
-- **提取时间**: 2026-10-20 19:46:06
+- **提取时间**: 2026-10-21 19:48:10
 
 ## 产业链关系
 
@@ -36,4 +36,4 @@ _暂无数据_
 
 ## 元数据
 
-- **更新日期**: 2026-10-20
+- **更新日期**: 2026-10-21

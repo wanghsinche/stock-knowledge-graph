@@ -3,8 +3,8 @@ ticker: IBM
 company: International Business Machines Corporation
 sector: Technology
 industry: Information Technology Services
-extracted_at: 2026-10-01 20:48:39
-last_updated: 2026-10-01
+extracted_at: 2026-10-21 19:52:17
+last_updated: 2026-10-21
 ---
 
 # IBM - International Business Machines Corporation
@@ -12,7 +12,7 @@ last_updated: 2026-10-01
 ## 基本信息
 
 - **所属行业**: Technology / Information Technology Services
-- **提取时间**: 2026-10-01 20:48:39
+- **提取时间**: 2026-10-21 19:52:17
 
 ## 产业链关系
 
@@ -30,10 +30,10 @@ _暂无数据_
 
 ## 数据来源
 
-- [IBM](https://en.wikipedia.org/wiki/International_Business_Machines_Corporation)
-- [International Business Machines Corporation suppliers manufacturers](https://ru.wikipedia.org/wiki/IBM)
+- 
+- [International Business Machines Corporation suppliers manufacturers](https://fccid.io/ANOYMTNUMAEBI)
 - [International Business Machines Corporation suppliers manufacturers](https://www.alibaba.com/)
 
 ## 元数据
 
-- **更新日期**: 2026-10-01
+- **更新日期**: 2026-10-21

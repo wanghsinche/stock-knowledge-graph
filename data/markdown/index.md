@@ -1,6 +1,6 @@
 ---
 title: 股票知识图谱索引
-last_updated: 2026-10-20
+last_updated: 2026-10-21
 ---
 
 # 股票知识图谱索引
@@ -11,62 +11,62 @@ last_updated: 2026-10-20
 
 - **更新模式**: 活跃股票 + 关注列表
 - **跟踪股票数**: 51
-- **最后更新**: 2026-10-20 19:52:01
+- **最后更新**: 2026-10-21 19:53:04
 
 ## 股票列表
 
 | 股票代码 | 公司名称 | 行业 | 关系数 |
 |---------|---------|------|--------|
+| SPCX | Space Exploration Technologies Corp. | Aerospace & Defense | 0 |
 | MU | Micron Technology, Inc. | Semiconductors | 0 |
 | NVDA | NVIDIA Corporation | Semiconductors | 0 |
-| SPCX | Space Exploration Technologies Corp. | Aerospace & Defense | 0 |
 | TSLA | Tesla, Inc. | Auto Manufacturers | 0 |
 | META | Meta Platforms, Inc. | Internet Content & Information | 0 |
-| AAPL | Apple Inc. | Consumer Electronics | 0 |
 | SNDK | Sandisk Corporation | Computer Hardware | 0 |
-| INTC | Intel Corporation | Semiconductors | 0 |
-| AMZN | Amazon.com, Inc. | Internet Retail | 0 |
 | AMD | Advanced Micro Devices, Inc. | Semiconductors | 0 |
-| CRWV | CoreWeave, Inc. | Software - Infrastructure | 0 |
+| AAPL | Apple Inc. | Consumer Electronics | 0 |
+| AMZN | Amazon.com, Inc. | Internet Retail | 0 |
+| NFLX | Netflix, Inc. | Entertainment | 0 |
+| INTC | Intel Corporation | Semiconductors | 0 |
+| GOOG | Alphabet Inc. | Internet Content & Information | 0 |
 | MSFT | Microsoft Corporation | Software - Infrastructure | 0 |
+| CRWV | CoreWeave, Inc. | Software - Infrastructure | 0 |
 | AVGO | Broadcom Inc. | Semiconductors | 0 |
 | MRNA | Moderna, Inc. | Biotechnology | 0 |
 | NBIS | NBIS | Internet Content & Information | 0 |
+| PLTR | Palantir Technologies Inc. | Software - Infrastructure | 0 |
+| DELL | Dell Technologies Inc. | Computer Hardware | 0 |
 | LITE | Lumentum Holdings Inc. | Communication Equipment | 0 |
-| MRVL | Marvell Technology, Inc. | Semiconductors | 0 |
-| GOOG | Alphabet Inc. | Internet Content & Information | 0 |
-| LLY | Eli Lilly and Company | Drug Manufacturers - General | 0 |
-| BRZE | Braze, Inc. | Software - Application | 0 |
-| NFLX | Netflix, Inc. | Entertainment | 0 |
+| ORCL | Oracle Corporation | Software - Infrastructure | 0 |
+| MSTR | Strategy Inc | Software - Application | 0 |
 | STX | Seagate Technology Holdings plc | Computer Hardware | 0 |
 | WDC | Western Digital Corporation | Computer Hardware | 0 |
-| ORCL | Oracle Corporation | Software - Infrastructure | 0 |
-| UNH | UnitedHealth Group Incorporated | Healthcare Plans | 0 |
-| PLTR | Palantir Technologies Inc. | Software - Infrastructure | 0 |
-| GE | GE Aerospace | Aerospace & Defense | 0 |
-| MSTR | Strategy Inc | Software - Application | 0 |
+| MRVL | Marvell Technology, Inc. | Semiconductors | 0 |
+| SMCI | Super Micro Computer, Inc. | Computer Hardware | 0 |
+| LRCX | Lam Research Corporation | Semiconductor Equipment & Materials | 0 |
 | BE | Bloom Energy Corporation | Electrical Equipment & Parts | 0 |
-| V | Visa Inc. | Credit Services | 0 |
-| DELL | Dell Technologies Inc. | Computer Hardware | 0 |
 | GEV | GE Vernova Inc. | Specialty Industrial Machinery | 0 |
 | TMO | Thermo Fisher Scientific Inc. | Diagnostics & Research | 0 |
-| AMAT | Applied Materials, Inc. | Semiconductor Equipment & Materials | 0 |
+| TXN | Texas Instruments Incorporated | Semiconductors | 0 |
+| CRWD | CrowdStrike Holdings, Inc. | Software - Infrastructure | 0 |
+| ABT | Abbott Laboratories | Medical Devices | 0 |
+| ISRG | Intuitive Surgical, Inc. | Medical Instruments & Supplies | 0 |
 | DHR | Danaher Corporation | Diagnostics & Research | 0 |
-| IREN | IREN Limited | Capital Markets | 0 |
-| BAC | Bank of America Corporation | Banks - Diversified | 0 |
-| WMT | Walmart Inc. | Discount Stores | 0 |
-| GS | The Goldman Sachs Group, Inc. | Capital Markets | 0 |
-| XOM | ExxonMobil Holdings Corporation | Oil & Gas Integrated | 0 |
-| LRCX | Lam Research Corporation | Semiconductor Equipment & Materials | 0 |
-| GM | General Motors Company | Auto Manufacturers | 0 |
-| RTX | RTX Corporation | Aerospace & Defense | 0 |
-| JNJ | Johnson & Johnson | Drug Manufacturers - General | 0 |
-| COST | Costco Wholesale Corporation | Discount Stores | 0 |
-| JPM | JPMorgan Chase & Co. | Banks - Diversified | 0 |
-| CAT | Caterpillar Inc. | Farm & Heavy Construction Machinery | 0 |
-| KLAC | KLA Corporation | Semiconductor Equipment & Materials | 0 |
-| CRM | Salesforce, Inc. | Software - Application | 0 |
+| LLY | Eli Lilly and Company | Drug Manufacturers - General | 0 |
 | NOW | ServiceNow, Inc. | Software - Application | 0 |
+| V | Visa Inc. | Credit Services | 0 |
+| T | AT&T Inc. | Telecom Services | 0 |
+| GE | GE Aerospace | Aerospace & Defense | 0 |
+| AMAT | Applied Materials, Inc. | Semiconductor Equipment & Materials | 0 |
+| GS | The Goldman Sachs Group, Inc. | Capital Markets | 0 |
+| IREN | IREN Limited | Capital Markets | 0 |
+| XOM | ExxonMobil Holdings Corporation | Oil & Gas Integrated | 0 |
+| HOOD | Robinhood Markets, Inc. | Capital Markets | 0 |
+| IBM | International Business Machines Corporation | Information Technology Services | 0 |
+| CAT | Caterpillar Inc. | Farm & Heavy Construction Machinery | 0 |
+| PANW | Palo Alto Networks, Inc. | Software - Infrastructure | 0 |
+| UNH | UnitedHealth Group Incorporated | Healthcare Plans | 0 |
+| VRT | Vertiv Holdings Co | Electrical Equipment & Parts | 0 |
 | CCJ | Cameco Corporation | Uranium | 0 |
 
 ---

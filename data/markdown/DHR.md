@@ -3,8 +3,8 @@ ticker: DHR
 company: Danaher Corporation
 sector: Healthcare
 industry: Diagnostics & Research
-extracted_at: 2026-10-20 19:49:37
-last_updated: 2026-10-20
+extracted_at: 2026-10-21 19:50:43
+last_updated: 2026-10-21
 ---
 
 # DHR - Danaher Corporation
@@ -12,7 +12,7 @@ last_updated: 2026-10-20
 ## 基本信息
 
 - **所属行业**: Healthcare / Diagnostics & Research
-- **提取时间**: 2026-10-20 19:49:37
+- **提取时间**: 2026-10-21 19:50:43
 
 ## 产业链关系
 
@@ -30,10 +30,10 @@ _暂无数据_
 
 ## 数据来源
 
-- [Danaher Corporation](https://en.wikipedia.org/wiki/Danaher_Corporation)
+- 
 - [Danaher Corporation suppliers manufacturers](https://www.danaher.com/governance/suppliers)
 - [Danaher Corporation suppliers manufacturers](https://csimarket.com/stocks/DHR-Suppliers)
 
 ## 元数据
 
-- **更新日期**: 2026-10-20
+- **更新日期**: 2026-10-21

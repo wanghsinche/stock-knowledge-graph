@@ -3,8 +3,8 @@ ticker: GS
 company: The Goldman Sachs Group, Inc.
 sector: Financial Services
 industry: Capital Markets
-extracted_at: 2026-10-20 19:50:11
-last_updated: 2026-10-20
+extracted_at: 2026-10-21 19:51:43
+last_updated: 2026-10-21
 ---
 
 # GS - The Goldman Sachs Group, Inc.
@@ -12,7 +12,7 @@ last_updated: 2026-10-20
 ## 基本信息
 
 - **所属行业**: Financial Services / Capital Markets
-- **提取时间**: 2026-10-20 19:50:11
+- **提取时间**: 2026-10-21 19:51:43
 
 ## 产业链关系
 
@@ -36,4 +36,4 @@ _暂无数据_
 
 ## 元数据
 
-- **更新日期**: 2026-10-20
+- **更新日期**: 2026-10-21
