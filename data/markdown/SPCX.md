@@ -3,8 +3,8 @@ ticker: SPCX
 company: Space Exploration Technologies Corp.
 sector: Industrials
 industry: Aerospace & Defense
-extracted_at: 2026-10-21 19:46:09
-last_updated: 2026-10-21
+extracted_at: 2026-10-22 19:37:23
+last_updated: 2026-10-22
 ---
 
 # SPCX - Space Exploration Technologies Corp.
@@ -12,7 +12,7 @@ last_updated: 2026-10-21
 ## 基本信息
 
 - **所属行业**: Industrials / Aerospace & Defense
-- **提取时间**: 2026-10-21 19:46:09
+- **提取时间**: 2026-10-22 19:37:23
 
 ## 产业链关系
 
@@ -31,9 +31,9 @@ _暂无数据_
 ## 数据来源
 
 - 
+- [Space Exploration Technologies Corp. suppliers manufacturers](https://www.makesureiknowit.com/company/spacex)
 - [Space Exploration Technologies Corp. suppliers manufacturers](https://www.spacex.com/supplier)
-- [Space Exploration Technologies Corp. suppliers manufacturers](https://grokipedia.com/page/Publicly_traded_SpaceX_suppliers)
 
 ## 元数据
 
-- **更新日期**: 2026-10-21
+- **更新日期**: 2026-10-22
