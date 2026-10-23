@@ -3,8 +3,8 @@ ticker: AMT
 company: American Tower Corporation
 sector: Real Estate
 industry: REIT - Specialty
-extracted_at: 2026-10-09 20:30:40
-last_updated: 2026-10-09
+extracted_at: 2026-10-23 19:43:50
+last_updated: 2026-10-23
 ---
 
 # AMT - American Tower Corporation
@@ -12,7 +12,7 @@ last_updated: 2026-10-09
 ## 基本信息
 
 - **所属行业**: Real Estate / REIT - Specialty
-- **提取时间**: 2026-10-09 20:30:40
+- **提取时间**: 2026-10-23 19:43:50
 
 ## 产业链关系
 
@@ -30,10 +30,10 @@ _暂无数据_
 
 ## 数据来源
 
-- [American Tower](https://en.wikipedia.org/wiki/American_Tower_Corporation)
-- [American Tower Corporation suppliers manufacturers](https://www.americantower.com/)
-- [American Tower Corporation suppliers manufacturers](https://www.americantower.com/us/vendors/inquiry-form)
+- 
+- [American Tower Corporation suppliers manufacturers](https://seekingalpha.com/symbol/AMT)
+- [American Tower Corporation suppliers manufacturers](https://www.marketresearch.com/MarketLine-v3883/American-Tower-Corporation-Company-Profile-41697615/)
 
 ## 元数据
 
-- **更新日期**: 2026-10-09
+- **更新日期**: 2026-10-23

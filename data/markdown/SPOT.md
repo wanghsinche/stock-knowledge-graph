@@ -3,8 +3,8 @@ ticker: SPOT
 company: Spotify Technology S.A.
 sector: Communication Services
 industry: Internet Content & Information
-extracted_at: 2026-10-22 19:41:38
-last_updated: 2026-10-22
+extracted_at: 2026-10-23 19:44:48
+last_updated: 2026-10-23
 ---
 
 # SPOT - Spotify Technology S.A.
@@ -12,7 +12,7 @@ last_updated: 2026-10-22
 ## 基本信息
 
 - **所属行业**: Communication Services / Internet Content & Information
-- **提取时间**: 2026-10-22 19:41:38
+- **提取时间**: 2026-10-23 19:44:48
 
 ## 产业链关系
 
@@ -32,8 +32,8 @@ _暂无数据_
 
 - 
 - [Spotify Technology S.A. suppliers manufacturers](https://en.wikipedia.org/wiki/Spotify)
-- [Spotify Technology S.A. suppliers manufacturers](https://csimarket.com/stocks/SPOT-Suppliers)
+- [Spotify Technology S.A. suppliers manufacturers](https://finance.yahoo.com/quote/SPOT/)
 
 ## 元数据
 
-- **更新日期**: 2026-10-22
+- **更新日期**: 2026-10-23

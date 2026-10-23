@@ -3,8 +3,8 @@ ticker: MA
 company: Mastercard Incorporated
 sector: Financial Services
 industry: Credit Services
-extracted_at: 2026-10-22 19:44:20
-last_updated: 2026-10-22
+extracted_at: 2026-10-23 19:45:05
+last_updated: 2026-10-23
 ---
 
 # MA - Mastercard Incorporated
@@ -12,7 +12,7 @@ last_updated: 2026-10-22
 ## 基本信息
 
 - **所属行业**: Financial Services / Credit Services
-- **提取时间**: 2026-10-22 19:44:20
+- **提取时间**: 2026-10-23 19:45:05
 
 ## 产业链关系
 
@@ -36,4 +36,4 @@ _暂无数据_
 
 ## 元数据
 
-- **更新日期**: 2026-10-22
+- **更新日期**: 2026-10-23
