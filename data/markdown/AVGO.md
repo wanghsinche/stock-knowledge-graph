@@ -3,8 +3,8 @@ ticker: AVGO
 company: Broadcom Inc.
 sector: Technology
 industry: Semiconductors
-extracted_at: 2026-10-23 19:40:04
-last_updated: 2026-10-23
+extracted_at: 2026-10-26 20:49:25
+last_updated: 2026-10-26
 ---
 
 # AVGO - Broadcom Inc.
@@ -12,7 +12,7 @@ last_updated: 2026-10-23
 ## 基本信息
 
 - **所属行业**: Technology / Semiconductors
-- **提取时间**: 2026-10-23 19:40:04
+- **提取时间**: 2026-10-26 20:49:25
 
 ## 产业链关系
 
@@ -32,8 +32,8 @@ _暂无数据_
 
 - 
 - [Broadcom Inc. suppliers manufacturers](https://csimarket.com/stocks/AVGO-Suppliers)
-- [Broadcom Inc. suppliers manufacturers](https://www.broadcom.com/how-to-buy/partner-distributor-lookup)
+- [Broadcom Inc. suppliers manufacturers](https://www.makesureiknowit.com/company/broadcom)
 
 ## 元数据
 
-- **更新日期**: 2026-10-23
+- **更新日期**: 2026-10-26

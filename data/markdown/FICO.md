@@ -3,8 +3,8 @@ ticker: FICO
 company: Fair Isaac Corporation
 sector: Technology
 industry: Software - Application
-extracted_at: 2026-10-01 20:49:31
-last_updated: 2026-10-01
+extracted_at: 2026-10-26 20:53:35
+last_updated: 2026-10-26
 ---
 
 # FICO - Fair Isaac Corporation
@@ -12,7 +12,7 @@ last_updated: 2026-10-01
 ## 基本信息
 
 - **所属行业**: Technology / Software - Application
-- **提取时间**: 2026-10-01 20:49:31
+- **提取时间**: 2026-10-26 20:53:35
 
 ## 产业链关系
 
@@ -30,10 +30,10 @@ _暂无数据_
 
 ## 数据来源
 
-- [FICO](https://en.wikipedia.org/wiki/Fair_Isaac_Corporation)
-- [Fair Isaac Corporation suppliers manufacturers](https://www.cnbc.com/quotes/FICO)
+- 
 - [Fair Isaac Corporation suppliers manufacturers](https://www.omg.org/spec/company/fair-isaac-corporation/About-fair-isaac-corporation.rdf)
+- [Fair Isaac Corporation suppliers manufacturers](https://finance.yahoo.com/markets/stocks/articles/does-15-job-cut-materially-133812576.html)
 
 ## 元数据
 
-- **更新日期**: 2026-10-01
+- **更新日期**: 2026-10-26
