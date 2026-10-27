@@ -3,8 +3,8 @@ ticker: CBRS
 company: Cerebras Systems Inc.
 sector: Technology
 industry: Semiconductors
-extracted_at: 2026-10-12 22:42:27
-last_updated: 2026-10-12
+extracted_at: 2026-10-27 20:25:47
+last_updated: 2026-10-27
 ---
 
 # CBRS - Cerebras Systems Inc.
@@ -12,7 +12,7 @@ last_updated: 2026-10-12
 ## 基本信息
 
 - **所属行业**: Technology / Semiconductors
-- **提取时间**: 2026-10-12 22:42:27
+- **提取时间**: 2026-10-27 20:25:47
 
 ## 产业链关系
 
@@ -36,4 +36,4 @@ _暂无数据_
 
 ## 元数据
 
-- **更新日期**: 2026-10-12
+- **更新日期**: 2026-10-27

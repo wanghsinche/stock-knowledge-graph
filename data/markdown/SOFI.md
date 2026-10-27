@@ -3,8 +3,8 @@ ticker: SOFI
 company: SoFi Technologies, Inc.
 sector: Financial Services
 industry: Credit Services
-extracted_at: 2026-09-22 19:30:41
-last_updated: 2026-09-22
+extracted_at: 2026-10-27 20:22:33
+last_updated: 2026-10-27
 ---
 
 # SOFI - SoFi Technologies, Inc.
@@ -12,7 +12,7 @@ last_updated: 2026-09-22
 ## 基本信息
 
 - **所属行业**: Financial Services / Credit Services
-- **提取时间**: 2026-09-22 19:30:41
+- **提取时间**: 2026-10-27 20:22:33
 
 ## 产业链关系
 
@@ -31,9 +31,9 @@ _暂无数据_
 ## 数据来源
 
 - [SoFi](https://en.wikipedia.org/wiki/SoFi_Technologies,_Inc.)
-- [SoFi Technologies, Inc. suppliers manufacturers](https://www.sofi.com/)
-- [SoFi Technologies, Inc. suppliers manufacturers](https://finance.yahoo.com/quote/SOFI/)
+- [SoFi Technologies, Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/SoFi)
+- [SoFi Technologies, Inc. suppliers manufacturers](https://www.accio.com/business/sofi)
 
 ## 元数据
 
-- **更新日期**: 2026-09-22
+- **更新日期**: 2026-10-27

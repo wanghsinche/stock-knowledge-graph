@@ -3,8 +3,8 @@ ticker: GEV
 company: GE Vernova Inc.
 sector: Industrials
 industry: Specialty Industrial Machinery
-extracted_at: 2026-10-26 20:51:22
-last_updated: 2026-10-26
+extracted_at: 2026-10-27 20:22:05
+last_updated: 2026-10-27
 ---
 
 # GEV - GE Vernova Inc.
@@ -12,7 +12,7 @@ last_updated: 2026-10-26
 ## 基本信息
 
 - **所属行业**: Industrials / Specialty Industrial Machinery
-- **提取时间**: 2026-10-26 20:51:22
+- **提取时间**: 2026-10-27 20:22:05
 
 ## 产业链关系
 
@@ -31,9 +31,9 @@ _暂无数据_
 ## 数据来源
 
 - 
-- [GE Vernova Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/GE_Vernova)
 - [GE Vernova Inc. suppliers manufacturers](https://supplierportal.ren.apps.ge.com/)
+- [GE Vernova Inc. suppliers manufacturers](https://www.gevernova.com/electrification/suppliers)
 
 ## 元数据
 
-- **更新日期**: 2026-10-26
+- **更新日期**: 2026-10-27
