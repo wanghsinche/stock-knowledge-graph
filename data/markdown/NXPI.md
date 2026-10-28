@@ -3,8 +3,8 @@ ticker: NXPI
 company: NXP Semiconductors N.V.
 sector: Technology
 industry: Semiconductors
-extracted_at: 2026-04-29 17:22:09
-last_updated: 2026-04-29
+extracted_at: 2026-10-28 20:46:07
+last_updated: 2026-10-28
 ---
 
 # NXPI - NXP Semiconductors N.V.
@@ -12,46 +12,28 @@ last_updated: 2026-04-29
 ## 基本信息
 
 - **所属行业**: Technology / Semiconductors
-- **提取时间**: 2026-04-29 17:22:09
+- **提取时间**: 2026-10-28 20:46:07
 
 ## 产业链关系
 
 ### 上游供应商
-- [[TXN]]
-- [[ADI]]
-- [[Infineon Technologies]]
-- [[STMicroelectronics]]
-- [[ON Semiconductor]]
+_暂无数据_
 
 ### 下游客户
-- [[Volkswagen]]
-- [[Toyota]]
-- [[AAPL]]
-- [[005930.KS]]
-- [[Bosch]]
+_暂无数据_
 
 ### 竞争对手
-- [[AVGO]]
-- [[QCOM]]
-- [[TXN]]
-- [[Infineon Technologies]]
-- [[STMicroelectronics]]
+_暂无数据_
 
 ### 核心产品
-- [[i.MX processors]]
-- [[ARM-based microcontrollers]]
-- [[RFID chips]]
-- [[Secure element chips]]
-- [[Automotive safety chips]]
+_暂无数据_
 
 ## 数据来源
 
 - 
-- [NXP Semiconductors N.V. suppliers manufacturers](https://en.wikipedia.org/wiki/NXP_Semiconductors)
-- [NXP Semiconductors N.V. suppliers manufacturers](https://finance.yahoo.com/quote/NXPI/)
-- [NXP Semiconductors N.V. major customers clients](https://en.wikipedia.org/wiki/NXP_Semiconductors)
-- [NXP Semiconductors N.V. major customers clients](https://www.nxp.com/docs/en/supporting-information/NXP-CORPORATE-OVERVIEW.pdf)
+- [NXP Semiconductors N.V. suppliers manufacturers](https://www.nxp.com/support/sample-and-buy/distributor-network:DISTRIBUTORS)
+- [NXP Semiconductors N.V. suppliers manufacturers](https://www.nxp.com/docs/en/supporting-information/2023-TOP-SUPPLIER-LIST.pdf)
 
 ## 元数据
 
-- **更新日期**: 2026-04-29
+- **更新日期**: 2026-10-28
