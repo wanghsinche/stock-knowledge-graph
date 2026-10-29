@@ -3,8 +3,8 @@ ticker: MRK
 company: Merck & Co., Inc.
 sector: Healthcare
 industry: Drug Manufacturers - General
-extracted_at: 2026-10-26 20:53:20
-last_updated: 2026-10-26
+extracted_at: 2026-10-29 20:49:16
+last_updated: 2026-10-29
 ---
 
 # MRK - Merck & Co., Inc.
@@ -12,7 +12,7 @@ last_updated: 2026-10-26
 ## 基本信息
 
 - **所属行业**: Healthcare / Drug Manufacturers - General
-- **提取时间**: 2026-10-26 20:53:20
+- **提取时间**: 2026-10-29 20:49:16
 
 ## 产业链关系
 
@@ -32,8 +32,8 @@ _暂无数据_
 
 - 
 - [Merck & Co., Inc. suppliers manufacturers](https://www.merck.com/company-overview/suppliers/)
-- [Merck & Co., Inc. suppliers manufacturers](https://www.merck.com/products/distributors/)
+- [Merck & Co., Inc. suppliers manufacturers](https://csimarket.com/stocks/MRK-Suppliers)
 
 ## 元数据
 
-- **更新日期**: 2026-10-26
+- **更新日期**: 2026-10-29

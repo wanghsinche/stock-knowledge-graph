@@ -3,8 +3,8 @@ ticker: BE
 company: Bloom Energy Corporation
 sector: Industrials
 industry: Electrical Equipment & Parts
-extracted_at: 2026-10-28 20:44:51
-last_updated: 2026-10-28
+extracted_at: 2026-10-29 20:48:50
+last_updated: 2026-10-29
 ---
 
 # BE - Bloom Energy Corporation
@@ -12,7 +12,7 @@ last_updated: 2026-10-28
 ## 基本信息
 
 - **所属行业**: Industrials / Electrical Equipment & Parts
-- **提取时间**: 2026-10-28 20:44:51
+- **提取时间**: 2026-10-29 20:48:50
 
 ## 产业链关系
 
@@ -31,9 +31,9 @@ _暂无数据_
 ## 数据来源
 
 - 
-- [Bloom Energy Corporation suppliers manufacturers](https://www.petrochemical.com/suppliers/bloom-energy-corporation)
-- [Bloom Energy Corporation suppliers manufacturers](https://www.linkedin.com/company/bloom-energy)
+- [Bloom Energy Corporation suppliers manufacturers](https://en.wikipedia.org/wiki/Bloom_Energy)
+- [Bloom Energy Corporation suppliers manufacturers](https://www.bloomenergy.com/)
 
 ## 元数据
 
-- **更新日期**: 2026-10-28
+- **更新日期**: 2026-10-29

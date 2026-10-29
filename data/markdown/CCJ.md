@@ -3,8 +3,8 @@ ticker: CCJ
 company: Cameco Corporation
 sector: Energy
 industry: Uranium
-extracted_at: 2026-10-28 20:48:49
-last_updated: 2026-10-28
+extracted_at: 2026-10-29 20:50:22
+last_updated: 2026-10-29
 ---
 
 # CCJ - Cameco Corporation
@@ -12,7 +12,7 @@ last_updated: 2026-10-28
 ## 基本信息
 
 - **所属行业**: Energy / Uranium
-- **提取时间**: 2026-10-28 20:48:49
+- **提取时间**: 2026-10-29 20:50:22
 
 ## 产业链关系
 
@@ -31,9 +31,9 @@ _暂无数据_
 ## 数据来源
 
 - 
-- [Cameco Corporation suppliers manufacturers](https://www.tendata.com/en/buyer/cameco-inc-CANN3ea9f52e3e875bb5b94637fe1f770b12.html)
-- [Cameco Corporation suppliers manufacturers](https://www.camecofuel.com/business/cameco-fuel-manufacturing)
+- [Cameco Corporation suppliers manufacturers](https://en.wikipedia.org/wiki/Cameco)
+- [Cameco Corporation suppliers manufacturers](https://en.nbd.ltd/trader/info/35N100103464)
 
 ## 元数据
 
-- **更新日期**: 2026-10-28
+- **更新日期**: 2026-10-29
