@@ -3,8 +3,8 @@ ticker: COIN
 company: Coinbase Global, Inc.
 sector: Financial Services
 industry: Financial Data & Stock Exchanges
-extracted_at: 2026-10-12 22:45:13
-last_updated: 2026-10-12
+extracted_at: 2026-10-30 20:19:54
+last_updated: 2026-10-30
 ---
 
 # COIN - Coinbase Global, Inc.
@@ -12,7 +12,7 @@ last_updated: 2026-10-12
 ## 基本信息
 
 - **所属行业**: Financial Services / Financial Data & Stock Exchanges
-- **提取时间**: 2026-10-12 22:45:13
+- **提取时间**: 2026-10-30 20:19:54
 
 ## 产业链关系
 
@@ -30,10 +30,10 @@ _暂无数据_
 
 ## 数据来源
 
-- [Coinbase](https://en.wikipedia.org/wiki/Coinbase_Global,_Inc.)
+- 
 - [Coinbase Global, Inc. suppliers manufacturers](https://finance.yahoo.com/quote/COIN/)
 - [Coinbase Global, Inc. suppliers manufacturers](https://www.coinbase.com/signup)
 
 ## 元数据
 
-- **更新日期**: 2026-10-12
+- **更新日期**: 2026-10-30

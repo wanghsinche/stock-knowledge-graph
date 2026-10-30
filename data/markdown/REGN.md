@@ -3,8 +3,8 @@ ticker: REGN
 company: Regeneron Pharmaceuticals, Inc.
 sector: Healthcare
 industry: Biotechnology
-extracted_at: 2026-05-18 18:01:51
-last_updated: 2026-05-18
+extracted_at: 2026-10-30 20:20:32
+last_updated: 2026-10-30
 ---
 
 # REGN - Regeneron Pharmaceuticals, Inc.
@@ -12,43 +12,28 @@ last_updated: 2026-05-18
 ## 基本信息
 
 - **所属行业**: Healthcare / Biotechnology
-- **提取时间**: 2026-05-18 18:01:51
+- **提取时间**: 2026-10-30 20:20:32
 
 ## 产业链关系
 
 ### 上游供应商
-- [[Biotech raw material suppliers]]
-- [[Contract manufacturing organizations (CMOs)]]
-- [[Pharmaceutical ingredient suppliers]]
-- [[Genetic engineering equipment suppliers]]
-- [[Research reagent suppliers]]
+_暂无数据_
 
 ### 下游客户
-- [[Pharmaceutical companies]]
-- [[Hospitals]]
-- [[Clinics]]
-- [[Health insurance providers]]
-- [[Pharmacy chains]]
+_暂无数据_
 
 ### 竞争对手
-- [[Amgen]]
-- [[Genentech]]
-- [[Johnson & Johnson]]
-- [[Pfizer]]
-- [[Bristol-Myers Squibb]]
+_暂无数据_
 
 ### 核心产品
-- [[Eylea (aflibercept)]]
-- [[Dupixent (dupilumab)]]
+_暂无数据_
 
 ## 数据来源
 
-- [Regeneron Pharmaceuticals](https://en.wikipedia.org/wiki/Regeneron_Pharmaceuticals,_Inc.)
+- 
 - [Regeneron Pharmaceuticals, Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/Regeneron_Pharmaceuticals)
 - [Regeneron Pharmaceuticals, Inc. suppliers manufacturers](https://www.regeneron.com/)
-- [Regeneron Pharmaceuticals, Inc. major customers clients](https://en.wikipedia.org/wiki/Regeneron_Pharmaceuticals)
-- [Regeneron Pharmaceuticals, Inc. major customers clients](https://www.regeneron.com/)
 
 ## 元数据
 
-- **更新日期**: 2026-05-18
+- **更新日期**: 2026-10-30

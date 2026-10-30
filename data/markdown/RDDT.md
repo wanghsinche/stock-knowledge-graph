@@ -3,8 +3,8 @@ ticker: RDDT
 company: Reddit, Inc.
 sector: Communication Services
 industry: Internet Content & Information
-extracted_at: 2026-10-29 20:49:08
-last_updated: 2026-10-29
+extracted_at: 2026-10-30 20:19:06
+last_updated: 2026-10-30
 ---
 
 # RDDT - Reddit, Inc.
@@ -12,7 +12,7 @@ last_updated: 2026-10-29
 ## 基本信息
 
 - **所属行业**: Communication Services / Internet Content & Information
-- **提取时间**: 2026-10-29 20:49:08
+- **提取时间**: 2026-10-30 20:19:06
 
 ## 产业链关系
 
@@ -31,9 +31,9 @@ _暂无数据_
 ## 数据来源
 
 - 
-- [Reddit, Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/Reddit)
-- [Reddit, Inc. suppliers manufacturers](https://vendor.reddithelp.com/hc/en-us)
+- [Reddit, Inc. suppliers manufacturers](https://www.alibaba.com/)
+- [Reddit, Inc. suppliers manufacturers](https://www.importyeti.com/)
 
 ## 元数据
 
-- **更新日期**: 2026-10-29
+- **更新日期**: 2026-10-30
