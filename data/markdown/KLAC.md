@@ -3,8 +3,8 @@ ticker: KLAC
 company: KLA Corporation
 sector: Technology
 industry: Semiconductor Equipment & Materials
-extracted_at: 2026-10-30 20:20:24
-last_updated: 2026-10-30
+extracted_at: 2026-11-02 23:26:02
+last_updated: 2026-11-02
 ---
 
 # KLAC - KLA Corporation
@@ -12,7 +12,7 @@ last_updated: 2026-10-30
 ## 基本信息
 
 - **所属行业**: Technology / Semiconductor Equipment & Materials
-- **提取时间**: 2026-10-30 20:20:24
+- **提取时间**: 2026-11-02 23:26:02
 
 ## 产业链关系
 
@@ -30,10 +30,10 @@ _暂无数据_
 
 ## 数据来源
 
-- [KLA Corporation](https://en.wikipedia.org/wiki/KLA_Corporation)
+- 
 - [KLA Corporation suppliers manufacturers](https://www.kla.com/)
 - [KLA Corporation suppliers manufacturers](https://www.tradingview.com/symbols/NASDAQ-KLAC/)
 
 ## 元数据
 
-- **更新日期**: 2026-10-30
+- **更新日期**: 2026-11-02
