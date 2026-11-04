@@ -3,8 +3,8 @@ ticker: CVS
 company: CVS Health Corporation
 sector: Healthcare
 industry: Healthcare Plans
-extracted_at: 2026-11-03 21:27:27
-last_updated: 2026-11-03
+extracted_at: 2026-11-04 21:43:20
+last_updated: 2026-11-04
 ---
 
 # CVS - CVS Health Corporation
@@ -12,7 +12,7 @@ last_updated: 2026-11-03
 ## 基本信息
 
 - **所属行业**: Healthcare / Healthcare Plans
-- **提取时间**: 2026-11-03 21:27:27
+- **提取时间**: 2026-11-04 21:43:20
 
 ## 产业链关系
 
@@ -31,9 +31,9 @@ _暂无数据_
 ## 数据来源
 
 - 
-- [CVS Health Corporation suppliers manufacturers](https://www.cvssuppliers.com/)
-- [CVS Health Corporation suppliers manufacturers](https://www.cvssuppliers.com/become-a-cvs-supplier.html)
+- [CVS Health Corporation suppliers manufacturers](https://en.wikipedia.org/wiki/CVS_Health)
+- [CVS Health Corporation suppliers manufacturers](https://www.tradingview.com/symbols/NYSE-CVS/)
 
 ## 元数据
 
-- **更新日期**: 2026-11-03
+- **更新日期**: 2026-11-04

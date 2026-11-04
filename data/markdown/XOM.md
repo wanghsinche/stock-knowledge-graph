@@ -3,8 +3,8 @@ ticker: XOM
 company: ExxonMobil Holdings Corporation
 sector: Energy
 industry: Oil & Gas Integrated
-extracted_at: 2026-11-03 21:26:25
-last_updated: 2026-11-03
+extracted_at: 2026-11-04 21:40:19
+last_updated: 2026-11-04
 ---
 
 # XOM - ExxonMobil Holdings Corporation
@@ -12,7 +12,7 @@ last_updated: 2026-11-03
 ## 基本信息
 
 - **所属行业**: Energy / Oil & Gas Integrated
-- **提取时间**: 2026-11-03 21:26:25
+- **提取时间**: 2026-11-04 21:40:19
 
 ## 产业链关系
 
@@ -31,9 +31,9 @@ _暂无数据_
 ## 数据来源
 
 - 
-- [ExxonMobil Holdings Corporation suppliers manufacturers](https://corporate.exxonmobil.com/)
-- [ExxonMobil Holdings Corporation suppliers manufacturers](https://gainbot.ai/stocks/XOM)
+- [ExxonMobil Holdings Corporation suppliers manufacturers](https://corporate.exxonmobil.com/procurement/exxonmobil-for-suppliers)
+- [ExxonMobil Holdings Corporation suppliers manufacturers](https://csimarket.com/stocks/XOM-Suppliers)
 
 ## 元数据
 
-- **更新日期**: 2026-11-03
+- **更新日期**: 2026-11-04
