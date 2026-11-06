@@ -3,8 +3,8 @@ ticker: NET
 company: Cloudflare, Inc.
 sector: Technology
 industry: Software - Infrastructure
-extracted_at: 2026-09-09 19:03:13
-last_updated: 2026-09-09
+extracted_at: 2026-11-06 21:13:12
+last_updated: 2026-11-06
 ---
 
 # NET - Cloudflare, Inc.
@@ -12,7 +12,7 @@ last_updated: 2026-09-09
 ## 基本信息
 
 - **所属行业**: Technology / Software - Infrastructure
-- **提取时间**: 2026-09-09 19:03:13
+- **提取时间**: 2026-11-06 21:13:12
 
 ## 产业链关系
 
@@ -30,10 +30,10 @@ _暂无数据_
 
 ## 数据来源
 
-- [Cloudflare](https://en.wikipedia.org/wiki/Cloudflare,_Inc.)
+- 
 - [Cloudflare, Inc. suppliers manufacturers](https://csimarket.com/stocks/NET-Suppliers)
-- [Cloudflare, Inc. suppliers manufacturers](https://www.cloudflare.com/en-ca/partners/)
+- [Cloudflare, Inc. suppliers manufacturers](https://www.cloudflare.com/trademark/)
 
 ## 元数据
 
-- **更新日期**: 2026-09-09
+- **更新日期**: 2026-11-06

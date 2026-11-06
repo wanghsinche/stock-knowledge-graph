@@ -3,8 +3,8 @@ ticker: TXN
 company: Texas Instruments Incorporated
 sector: Technology
 industry: Semiconductors
-extracted_at: 2026-11-05 21:45:04
-last_updated: 2026-11-05
+extracted_at: 2026-11-06 21:14:14
+last_updated: 2026-11-06
 ---
 
 # TXN - Texas Instruments Incorporated
@@ -12,7 +12,7 @@ last_updated: 2026-11-05
 ## 基本信息
 
 - **所属行业**: Technology / Semiconductors
-- **提取时间**: 2026-11-05 21:45:04
+- **提取时间**: 2026-11-06 21:14:14
 
 ## 产业链关系
 
@@ -31,9 +31,9 @@ _暂无数据_
 ## 数据来源
 
 - 
-- [Texas Instruments Incorporated suppliers manufacturers](https://www.okx.com/en-eu/convert/txn-to-mnt)
-- [Texas Instruments Incorporated suppliers manufacturers](https://finance.yahoo.com/news/cantor-fitzgerald-lifts-texas-instruments-153750213.html)
+- [Texas Instruments Incorporated suppliers manufacturers](https://www.ti.com/support/faqs/purchasing-online/authorized-distributors.html)
+- [Texas Instruments Incorporated suppliers manufacturers](https://www.trustedparts.com/en/manufacturers/texas-instruments)
 
 ## 元数据
 
-- **更新日期**: 2026-11-05
+- **更新日期**: 2026-11-06
