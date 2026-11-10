@@ -3,8 +3,8 @@ ticker: INTC
 company: Intel Corporation
 sector: Technology
 industry: Semiconductors
-extracted_at: 2026-11-09 23:55:46
-last_updated: 2026-11-09
+extracted_at: 2026-11-10 21:35:12
+last_updated: 2026-11-10
 ---
 
 # INTC - Intel Corporation
@@ -12,7 +12,7 @@ last_updated: 2026-11-09
 ## 基本信息
 
 - **所属行业**: Technology / Semiconductors
-- **提取时间**: 2026-11-09 23:55:46
+- **提取时间**: 2026-11-10 21:35:12
 
 ## 产业链关系
 
@@ -32,8 +32,8 @@ _暂无数据_
 
 - 
 - [Intel Corporation suppliers manufacturers](https://csimarket.com/stocks/INTC-Suppliers)
-- [Intel Corporation suppliers manufacturers](https://www.intel.com/content/www/us/en/partner/showcase/partner-directory/overview.html)
+- [Intel Corporation suppliers manufacturers](https://www.intel.com/content/www/us/en/supplier/overview.html)
 
 ## 元数据
 
-- **更新日期**: 2026-11-09
+- **更新日期**: 2026-11-10

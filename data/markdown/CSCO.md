@@ -3,7 +3,7 @@ ticker: CSCO
 company: Cisco Systems, Inc.
 sector: Technology
 industry: Communication Equipment
-extracted_at: 2026-11-10 00:00:09
+extracted_at: 2026-11-10 21:40:02
 last_updated: 2026-11-10
 ---
 
@@ -12,7 +12,7 @@ last_updated: 2026-11-10
 ## 基本信息
 
 - **所属行业**: Technology / Communication Equipment
-- **提取时间**: 2026-11-10 00:00:09
+- **提取时间**: 2026-11-10 21:40:02
 
 ## 产业链关系
 
@@ -32,7 +32,7 @@ _暂无数据_
 
 - 
 - [Cisco Systems, Inc. suppliers manufacturers](https://www.cisco.com/)
-- [Cisco Systems, Inc. suppliers manufacturers](https://www.forbes.com/companies/cisco-systems/)
+- [Cisco Systems, Inc. suppliers manufacturers](https://www.slideshare.net/slideshow/cisco-case-study-reverse-logistics-transformation-interlog/4159819)
 
 ## 元数据
 

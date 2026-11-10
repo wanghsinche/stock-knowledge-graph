@@ -3,7 +3,7 @@ ticker: CVX
 company: Chevron Corporation
 sector: Energy
 industry: Oil & Gas Integrated
-extracted_at: 2026-11-10 00:00:16
+extracted_at: 2026-11-10 21:40:13
 last_updated: 2026-11-10
 ---
 
@@ -12,7 +12,7 @@ last_updated: 2026-11-10
 ## 基本信息
 
 - **所属行业**: Energy / Oil & Gas Integrated
-- **提取时间**: 2026-11-10 00:00:16
+- **提取时间**: 2026-11-10 21:40:13
 
 ## 产业链关系
 
@@ -32,7 +32,7 @@ _暂无数据_
 
 - 
 - [Chevron Corporation suppliers manufacturers](https://en.wikipedia.org/wiki/Chevron_Corporation)
-- [Chevron Corporation suppliers manufacturers](https://www.linkedin.com/company/chevron)
+- [Chevron Corporation suppliers manufacturers](https://www.chevron.com/)
 
 ## 元数据
 
