@@ -3,8 +3,8 @@ ticker: GOOGL
 company: Alphabet Inc.
 sector: Communication Services
 industry: Internet Content & Information
-extracted_at: 2026-11-06 21:10:24
-last_updated: 2026-11-06
+extracted_at: 2026-11-09 23:55:38
+last_updated: 2026-11-09
 ---
 
 # GOOGL - Alphabet Inc.
@@ -12,7 +12,7 @@ last_updated: 2026-11-06
 ## 基本信息
 
 - **所属行业**: Communication Services / Internet Content & Information
-- **提取时间**: 2026-11-06 21:10:24
+- **提取时间**: 2026-11-09 23:55:38
 
 ## 产业链关系
 
@@ -30,10 +30,10 @@ _暂无数据_
 
 ## 数据来源
 
-- [Alphabet Inc.](https://en.wikipedia.org/wiki/Alphabet_Inc.)
-- [Alphabet Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/Alphabet_Inc.)
+- 
 - [Alphabet Inc. suppliers manufacturers](https://csimarket.com/stocks/GOOG-Suppliers)
+- [Alphabet Inc. suppliers manufacturers](https://csimarket.com/stocks/GOOGL-Suppliers)
 
 ## 元数据
 
-- **更新日期**: 2026-11-06
+- **更新日期**: 2026-11-09

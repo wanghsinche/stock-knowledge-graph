@@ -3,8 +3,8 @@ ticker: CEG
 company: Constellation Energy Corporation
 sector: Utilities
 industry: Utilities - Independent Power Producers
-extracted_at: 2026-10-07 20:57:57
-last_updated: 2026-10-07
+extracted_at: 2026-11-10 00:00:02
+last_updated: 2026-11-10
 ---
 
 # CEG - Constellation Energy Corporation
@@ -12,7 +12,7 @@ last_updated: 2026-10-07
 ## 基本信息
 
 - **所属行业**: Utilities / Utilities - Independent Power Producers
-- **提取时间**: 2026-10-07 20:57:57
+- **提取时间**: 2026-11-10 00:00:02
 
 ## 产业链关系
 
@@ -30,10 +30,10 @@ _暂无数据_
 
 ## 数据来源
 
-- [Constellation Energy](https://en.wikipedia.org/wiki/Constellation_Energy_Corporation)
-- [Constellation Energy Corporation suppliers manufacturers](https://en.m.wikipedia.org/wiki/Constellation)
-- [Constellation Energy Corporation suppliers manufacturers](https://www.constellation.com/)
+- 
+- [Constellation Energy Corporation suppliers manufacturers](https://www.constellationenergy.com/suppliers/current-supplier-resources.html)
+- [Constellation Energy Corporation suppliers manufacturers](https://www.constellationenergy.com/suppliers.html)
 
 ## 元数据
 
-- **更新日期**: 2026-10-07
+- **更新日期**: 2026-11-10

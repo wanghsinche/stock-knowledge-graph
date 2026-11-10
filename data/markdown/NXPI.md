@@ -3,8 +3,8 @@ ticker: NXPI
 company: NXP Semiconductors N.V.
 sector: Technology
 industry: Semiconductors
-extracted_at: 2026-11-05 21:48:04
-last_updated: 2026-11-05
+extracted_at: 2026-11-09 23:58:45
+last_updated: 2026-11-09
 ---
 
 # NXPI - NXP Semiconductors N.V.
@@ -12,7 +12,7 @@ last_updated: 2026-11-05
 ## 基本信息
 
 - **所属行业**: Technology / Semiconductors
-- **提取时间**: 2026-11-05 21:48:04
+- **提取时间**: 2026-11-09 23:58:45
 
 ## 产业链关系
 
@@ -31,9 +31,9 @@ _暂无数据_
 ## 数据来源
 
 - 
-- [NXP Semiconductors N.V. suppliers manufacturers](https://www.nxp.com/docs/en/supporting-information/2024-TOP-SUPPLIER-LIST.pdf)
-- [NXP Semiconductors N.V. suppliers manufacturers](https://www.nxp.com/docs/en/supporting-information/2023-TOP-SUPPLIER-LIST.pdf)
+- [NXP Semiconductors N.V. suppliers manufacturers](https://finance.yahoo.com/quote/NXPI/)
+- [NXP Semiconductors N.V. suppliers manufacturers](https://www.dasenic.com/product/nxp-usa-inc-mimxrt106advl6br-4678050)
 
 ## 元数据
 
-- **更新日期**: 2026-11-05
+- **更新日期**: 2026-11-09

@@ -3,8 +3,8 @@ ticker: COST
 company: Costco Wholesale Corporation
 sector: Consumer Defensive
 industry: Discount Stores
-extracted_at: 2026-11-06 21:14:38
-last_updated: 2026-11-06
+extracted_at: 2026-11-09 23:59:15
+last_updated: 2026-11-09
 ---
 
 # COST - Costco Wholesale Corporation
@@ -12,7 +12,7 @@ last_updated: 2026-11-06
 ## 基本信息
 
 - **所属行业**: Consumer Defensive / Discount Stores
-- **提取时间**: 2026-11-06 21:14:38
+- **提取时间**: 2026-11-09 23:59:15
 
 ## 产业链关系
 
@@ -32,8 +32,8 @@ _暂无数据_
 
 - 
 - [Costco Wholesale Corporation suppliers manufacturers](https://csimarket.com/stocks/COST-Suppliers)
-- [Costco Wholesale Corporation suppliers manufacturers](https://www.costco.com/f/-/vendor-inquiries)
+- [Costco Wholesale Corporation suppliers manufacturers](https://www.accio.com/supplier/costco-supplier-website)
 
 ## 元数据
 
-- **更新日期**: 2026-11-06
+- **更新日期**: 2026-11-09
