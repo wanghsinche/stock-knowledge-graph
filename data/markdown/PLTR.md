@@ -3,8 +3,8 @@ ticker: PLTR
 company: Palantir Technologies Inc.
 sector: Technology
 industry: Software - Infrastructure
-extracted_at: 2026-11-10 21:35:55
-last_updated: 2026-11-10
+extracted_at: 2026-11-11 22:24:31
+last_updated: 2026-11-11
 ---
 
 # PLTR - Palantir Technologies Inc.
@@ -12,7 +12,7 @@ last_updated: 2026-11-10
 ## 基本信息
 
 - **所属行业**: Technology / Software - Infrastructure
-- **提取时间**: 2026-11-10 21:35:55
+- **提取时间**: 2026-11-11 22:24:31
 
 ## 产业链关系
 
@@ -32,8 +32,8 @@ _暂无数据_
 
 - 
 - [Palantir Technologies Inc. suppliers manufacturers](https://csimarket.com/stocks/PLTR-Suppliers)
-- [Palantir Technologies Inc. suppliers manufacturers](https://aibubble.info/company/PLTR/supply-chain)
+- [Palantir Technologies Inc. suppliers manufacturers](https://www.palantir.com/partners/international/)
 
 ## 元数据
 
-- **更新日期**: 2026-11-10
+- **更新日期**: 2026-11-11

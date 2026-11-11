@@ -3,8 +3,8 @@ ticker: DELL
 company: Dell Technologies Inc.
 sector: Technology
 industry: Computer Hardware
-extracted_at: 2026-11-10 21:37:37
-last_updated: 2026-11-10
+extracted_at: 2026-11-11 22:24:10
+last_updated: 2026-11-11
 ---
 
 # DELL - Dell Technologies Inc.
@@ -12,7 +12,7 @@ last_updated: 2026-11-10
 ## 基本信息
 
 - **所属行业**: Technology / Computer Hardware
-- **提取时间**: 2026-11-10 21:37:37
+- **提取时间**: 2026-11-11 22:24:10
 
 ## 产业链关系
 
@@ -31,9 +31,9 @@ _暂无数据_
 ## 数据来源
 
 - 
-- [Dell Technologies Inc. suppliers manufacturers](https://www.dell.com/en-us)
-- [Dell Technologies Inc. suppliers manufacturers](https://www.tradingview.com/symbols/NYSE-DELL/)
+- [Dell Technologies Inc. suppliers manufacturers](https://csimarket.com/stocks/DELL-Suppliers)
+- [Dell Technologies Inc. suppliers manufacturers](https://www.accio.com/supplier/dell-supplier-list)
 
 ## 元数据
 
-- **更新日期**: 2026-11-10
+- **更新日期**: 2026-11-11
