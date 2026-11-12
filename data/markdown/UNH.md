@@ -3,8 +3,8 @@ ticker: UNH
 company: UnitedHealth Group Incorporated
 sector: Healthcare
 industry: Healthcare Plans
-extracted_at: 2026-11-11 22:26:50
-last_updated: 2026-11-11
+extracted_at: 2026-11-12 22:04:18
+last_updated: 2026-11-12
 ---
 
 # UNH - UnitedHealth Group Incorporated
@@ -12,7 +12,7 @@ last_updated: 2026-11-11
 ## 基本信息
 
 - **所属行业**: Healthcare / Healthcare Plans
-- **提取时间**: 2026-11-11 22:26:50
+- **提取时间**: 2026-11-12 22:04:18
 
 ## 产业链关系
 
@@ -32,8 +32,8 @@ _暂无数据_
 
 - 
 - [UnitedHealth Group Incorporated suppliers manufacturers](https://csimarket.com/stocks/fundamentals_glance.php?code=UNH)
-- [UnitedHealth Group Incorporated suppliers manufacturers](https://americancompanies.com/company/unitedhealth-group-inc/)
+- [UnitedHealth Group Incorporated suppliers manufacturers](https://www.fool.com/quote/nyse/unh/)
 
 ## 元数据
 
-- **更新日期**: 2026-11-11
+- **更新日期**: 2026-11-12

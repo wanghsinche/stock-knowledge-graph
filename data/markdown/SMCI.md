@@ -3,8 +3,8 @@ ticker: SMCI
 company: Super Micro Computer, Inc.
 sector: Technology
 industry: Computer Hardware
-extracted_at: 2026-11-04 21:44:16
-last_updated: 2026-11-04
+extracted_at: 2026-11-12 22:00:25
+last_updated: 2026-11-12
 ---
 
 # SMCI - Super Micro Computer, Inc.
@@ -12,7 +12,7 @@ last_updated: 2026-11-04
 ## 基本信息
 
 - **所属行业**: Technology / Computer Hardware
-- **提取时间**: 2026-11-04 21:44:16
+- **提取时间**: 2026-11-12 22:00:25
 
 ## 产业链关系
 
@@ -31,9 +31,9 @@ _暂无数据_
 ## 数据来源
 
 - 
-- [Super Micro Computer, Inc. suppliers manufacturers](https://csimarket.com/stocks/SMCI-Suppliers)
-- [Super Micro Computer, Inc. suppliers manufacturers](https://thepartsdirect.com/supermicrocomputer/distributors-and-vendors)
+- [Super Micro Computer, Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/Supermicro)
+- [Super Micro Computer, Inc. suppliers manufacturers](https://finance.yahoo.com/quote/SMCI/)
 
 ## 元数据
 
-- **更新日期**: 2026-11-04
+- **更新日期**: 2026-11-12
