@@ -3,7 +3,7 @@ ticker: MA
 company: Mastercard Incorporated
 sector: Financial Services
 industry: Credit Services
-extracted_at: 2026-11-17 00:02:31
+extracted_at: 2026-11-17 23:18:48
 last_updated: 2026-11-17
 ---
 
@@ -12,7 +12,7 @@ last_updated: 2026-11-17
 ## 基本信息
 
 - **所属行业**: Financial Services / Credit Services
-- **提取时间**: 2026-11-17 00:02:31
+- **提取时间**: 2026-11-17 23:18:48
 
 ## 产业链关系
 
@@ -32,7 +32,7 @@ _暂无数据_
 
 - 
 - [Mastercard Incorporated suppliers manufacturers](https://www.mastercard.com/procurement/us/en/informationforsupplier.html)
-- [Mastercard Incorporated suppliers manufacturers](https://csimarket.com/stocks/MA-Suppliers)
+- [Mastercard Incorporated suppliers manufacturers](https://www.mastercard.com/procurement/us/en/home.html)
 
 ## 元数据
 

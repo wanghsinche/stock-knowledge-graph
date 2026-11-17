@@ -3,7 +3,7 @@ ticker: KO
 company: The Coca-Cola Company
 sector: Consumer Defensive
 industry: Beverages - Non-Alcoholic
-extracted_at: 2026-11-17 00:02:07
+extracted_at: 2026-11-17 23:19:00
 last_updated: 2026-11-17
 ---
 
@@ -12,7 +12,7 @@ last_updated: 2026-11-17
 ## 基本信息
 
 - **所属行业**: Consumer Defensive / Beverages - Non-Alcoholic
-- **提取时间**: 2026-11-17 00:02:07
+- **提取时间**: 2026-11-17 23:19:00
 
 ## 产业链关系
 
@@ -31,8 +31,8 @@ _暂无数据_
 ## 数据来源
 
 - 
-- [The Coca-Cola Company suppliers manufacturers](https://summerstirs.com/who-are-the-suppliers-of-coca-cola-company/)
-- [The Coca-Cola Company suppliers manufacturers](https://cocacolaunited.com/suppliers/)
+- [The Coca-Cola Company suppliers manufacturers](https://en.wikipedia.org/wiki/The_Coca-Cola_Company)
+- [The Coca-Cola Company suppliers manufacturers](https://www.coca-colacompany.com/about-us)
 
 ## 元数据
 

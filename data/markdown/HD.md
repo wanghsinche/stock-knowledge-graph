@@ -3,7 +3,7 @@ ticker: HD
 company: The Home Depot, Inc.
 sector: Consumer Cyclical
 industry: Home Improvement Retail
-extracted_at: 2026-11-17 00:00:50
+extracted_at: 2026-11-17 23:17:11
 last_updated: 2026-11-17
 ---
 
@@ -12,7 +12,7 @@ last_updated: 2026-11-17
 ## 基本信息
 
 - **所属行业**: Consumer Cyclical / Home Improvement Retail
-- **提取时间**: 2026-11-17 00:00:50
+- **提取时间**: 2026-11-17 23:17:11
 
 ## 产业链关系
 
@@ -31,8 +31,8 @@ _暂无数据_
 ## 数据来源
 
 - 
-- [The Home Depot, Inc. suppliers manufacturers](https://www.homedepot.com/c/suppliers_and_providers)
 - [The Home Depot, Inc. suppliers manufacturers](https://csimarket.com/stocks/HD-Suppliers)
+- [The Home Depot, Inc. suppliers manufacturers](https://www.britannica.com/money/Home-Depot)
 
 ## 元数据
 
