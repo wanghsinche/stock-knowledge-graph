@@ -3,8 +3,8 @@ ticker: MCD
 company: McDonald's Corporation
 sector: Consumer Cyclical
 industry: Restaurants
-extracted_at: 2026-11-11 22:25:59
-last_updated: 2026-11-11
+extracted_at: 2026-11-17 00:02:46
+last_updated: 2026-11-17
 ---
 
 # MCD - McDonald's Corporation
@@ -12,7 +12,7 @@ last_updated: 2026-11-11
 ## 基本信息
 
 - **所属行业**: Consumer Cyclical / Restaurants
-- **提取时间**: 2026-11-11 22:25:59
+- **提取时间**: 2026-11-17 00:02:46
 
 ## 产业链关系
 
@@ -32,8 +32,8 @@ _暂无数据_
 
 - 
 - [McDonald's Corporation suppliers manufacturers](https://csimarket.com/stocks/MCD-Suppliers)
-- [McDonald's Corporation suppliers manufacturers](https://www.mcdonalds.com/us/en-us/about-our-food/meet-our-suppliers.html)
+- [McDonald's Corporation suppliers manufacturers](https://corporate.mcdonalds.com/corpmcd/our-stories/food/supply-chain.html)
 
 ## 元数据
 
-- **更新日期**: 2026-11-11
+- **更新日期**: 2026-11-17

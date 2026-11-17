@@ -3,8 +3,8 @@ ticker: SNDK
 company: Sandisk Corporation
 sector: Technology
 industry: Computer Hardware
-extracted_at: 2026-11-13 21:44:39
-last_updated: 2026-11-13
+extracted_at: 2026-11-16 23:56:00
+last_updated: 2026-11-16
 ---
 
 # SNDK - Sandisk Corporation
@@ -12,7 +12,7 @@ last_updated: 2026-11-13
 ## 基本信息
 
 - **所属行业**: Technology / Computer Hardware
-- **提取时间**: 2026-11-13 21:44:39
+- **提取时间**: 2026-11-16 23:56:00
 
 ## 产业链关系
 
@@ -32,8 +32,8 @@ _暂无数据_
 
 - 
 - [Sandisk Corporation suppliers manufacturers](https://www.sandisk.com/)
-- [Sandisk Corporation suppliers manufacturers](https://www.bloomberg.com/quote/SNDK:US)
+- [Sandisk Corporation suppliers manufacturers](https://finance.yahoo.com/quote/SNDK/)
 
 ## 元数据
 
-- **更新日期**: 2026-11-13
+- **更新日期**: 2026-11-16

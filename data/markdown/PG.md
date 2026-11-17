@@ -3,8 +3,8 @@ ticker: PG
 company: The Procter & Gamble Company
 sector: Consumer Defensive
 industry: Household & Personal Products
-extracted_at: 2026-10-22 19:41:19
-last_updated: 2026-10-22
+extracted_at: 2026-11-16 23:59:21
+last_updated: 2026-11-16
 ---
 
 # PG - The Procter & Gamble Company
@@ -12,7 +12,7 @@ last_updated: 2026-10-22
 ## 基本信息
 
 - **所属行业**: Consumer Defensive / Household & Personal Products
-- **提取时间**: 2026-10-22 19:41:19
+- **提取时间**: 2026-11-16 23:59:21
 
 ## 产业链关系
 
@@ -31,9 +31,9 @@ _暂无数据_
 ## 数据来源
 
 - 
-- [The Procter & Gamble Company suppliers manufacturers](https://csimarket.com/stocks/PG-Suppliers)
-- [The Procter & Gamble Company suppliers manufacturers](https://www.accio.com/supplier/procter-and-gamble-supplier-portal)
+- [The Procter & Gamble Company suppliers manufacturers](https://www.fool.com/investing/2020/05/13/forget-unilever-procter-gamble-consumer-staples.aspx)
+- [The Procter & Gamble Company suppliers manufacturers](https://www.studymode.com/essays/Procter-Gamble-381741.html)
 
 ## 元数据
 
-- **更新日期**: 2026-10-22
+- **更新日期**: 2026-11-16
