@@ -3,8 +3,8 @@ ticker: PANW
 company: Palo Alto Networks, Inc.
 sector: Technology
 industry: Software - Infrastructure
-extracted_at: 2026-11-17 23:18:09
-last_updated: 2026-11-17
+extracted_at: 2026-11-18 22:47:27
+last_updated: 2026-11-18
 ---
 
 # PANW - Palo Alto Networks, Inc.
@@ -12,7 +12,7 @@ last_updated: 2026-11-17
 ## 基本信息
 
 - **所属行业**: Technology / Software - Infrastructure
-- **提取时间**: 2026-11-17 23:18:09
+- **提取时间**: 2026-11-18 22:47:27
 
 ## 产业链关系
 
@@ -31,9 +31,9 @@ _暂无数据_
 ## 数据来源
 
 - 
-- [Palo Alto Networks, Inc. suppliers manufacturers](https://www.paloaltonetworks.com/)
-- [Palo Alto Networks, Inc. suppliers manufacturers](https://www.linkedin.com/company/palo-alto-networks)
+- [Palo Alto Networks, Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/Palo_(religion))
+- [Palo Alto Networks, Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/Palo_Alto_Networks)
 
 ## 元数据
 
-- **更新日期**: 2026-11-17
+- **更新日期**: 2026-11-18

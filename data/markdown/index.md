@@ -1,6 +1,6 @@
 ---
 title: 股票知识图谱索引
-last_updated: 2026-11-17
+last_updated: 2026-11-18
 ---
 
 # 股票知识图谱索引
@@ -11,7 +11,7 @@ last_updated: 2026-11-17
 
 - **更新模式**: 活跃股票 + 关注列表
 - **跟踪股票数**: 52
-- **最后更新**: 2026-11-17 23:19:48
+- **最后更新**: 2026-11-18 22:52:12
 
 ## 股票列表
 
@@ -20,53 +20,53 @@ last_updated: 2026-11-17
 | NVDA | NVIDIA Corporation | Semiconductors | 0 |
 | MU | Micron Technology, Inc. | Semiconductors | 0 |
 | AMD | Advanced Micro Devices, Inc. | Semiconductors | 0 |
-| MSFT | Microsoft Corporation | Software - Infrastructure | 0 |
-| AAPL | Apple Inc. | Consumer Electronics | 0 |
 | SPCX | Space Exploration Technologies Corp. | Aerospace & Defense | 0 |
-| SNDK | Sandisk Corporation | Computer Hardware | 0 |
+| AAPL | Apple Inc. | Consumer Electronics | 0 |
+| MSFT | Microsoft Corporation | Software - Infrastructure | 0 |
 | AMZN | Amazon.com, Inc. | Internet Retail | 0 |
-| GOOGL | Alphabet Inc. | Internet Content & Information | 0 |
-| AVGO | Broadcom Inc. | Semiconductors | 0 |
 | TSLA | Tesla, Inc. | Auto Manufacturers | 0 |
+| SNDK | Sandisk Corporation | Computer Hardware | 0 |
+| AVGO | Broadcom Inc. | Semiconductors | 0 |
+| GOOGL | Alphabet Inc. | Internet Content & Information | 0 |
 | META | Meta Platforms, Inc. | Internet Content & Information | 0 |
-| INTC | Intel Corporation | Semiconductors | 0 |
-| MRVL | Marvell Technology, Inc. | Semiconductors | 0 |
-| GEV | GE Vernova Inc. | Specialty Industrial Machinery | 0 |
-| LLY | Eli Lilly and Company | Drug Manufacturers - General | 0 |
-| COST | Costco Wholesale Corporation | Discount Stores | 0 |
-| NBIS | NBIS | Internet Content & Information | 0 |
 | UNH | UnitedHealth Group Incorporated | Healthcare Plans | 0 |
-| ORCL | Oracle Corporation | Software - Infrastructure | 0 |
+| PANW | Palo Alto Networks, Inc. | Software - Infrastructure | 0 |
+| INTC | Intel Corporation | Semiconductors | 0 |
+| LLY | Eli Lilly and Company | Drug Manufacturers - General | 0 |
+| WMT | Walmart Inc. | Discount Stores | 0 |
+| V | Visa Inc. | Credit Services | 0 |
+| XOM | ExxonMobil Holdings Corporation | Oil & Gas Integrated | 0 |
 | CRWV | CoreWeave, Inc. | Software - Infrastructure | 0 |
+| CRWD | CrowdStrike Holdings, Inc. | Software - Infrastructure | 0 |
+| MRVL | Marvell Technology, Inc. | Semiconductors | 0 |
+| NBIS | NBIS | Internet Content & Information | 0 |
+| TTWO | Take-Two Interactive Software, Inc. | Electronic Gaming & Multimedia | 0 |
+| TJX | The TJX Companies, Inc. | Apparel Retail | 0 |
+| COST | Costco Wholesale Corporation | Discount Stores | 0 |
+| GEV | GE Vernova Inc. | Specialty Industrial Machinery | 0 |
 | PLTR | Palantir Technologies Inc. | Software - Infrastructure | 0 |
+| MSTR | Strategy Inc | Software - Application | 0 |
 | JPM | JPMorgan Chase & Co. | Banks - Diversified | 0 |
-| LITE | Lumentum Holdings Inc. | Communication Equipment | 0 |
+| JNJ | Johnson & Johnson | Drug Manufacturers - General | 0 |
+| DIS | The Walt Disney Company | Entertainment | 0 |
+| STX | Seagate Technology Holdings plc | Computer Hardware | 0 |
+| CVX | Chevron Corporation | Oil & Gas Integrated | 0 |
+| CSCO | Cisco Systems, Inc. | Communication Equipment | 0 |
+| TGT | Target Corporation | Discount Stores | 0 |
+| DELL | Dell Technologies Inc. | Computer Hardware | 0 |
+| CAT | Caterpillar Inc. | Farm & Heavy Construction Machinery | 0 |
+| BAC | Bank of America Corporation | Banks - Diversified | 0 |
 | CRM | Salesforce, Inc. | Software - Application | 0 |
 | BE | Bloom Energy Corporation | Electrical Equipment & Parts | 0 |
-| WMT | Walmart Inc. | Discount Stores | 0 |
-| JNJ | Johnson & Johnson | Drug Manufacturers - General | 0 |
 | HD | The Home Depot, Inc. | Home Improvement Retail | 0 |
-| NKE | NIKE, Inc. | Footwear & Accessories | 0 |
-| DIS | The Walt Disney Company | Entertainment | 0 |
-| AMAT | Applied Materials, Inc. | Semiconductor Equipment & Materials | 0 |
-| V | Visa Inc. | Credit Services | 0 |
-| LRCX | Lam Research Corporation | Semiconductor Equipment & Materials | 0 |
-| DELL | Dell Technologies Inc. | Computer Hardware | 0 |
-| KLAC | KLA Corporation | Semiconductor Equipment & Materials | 0 |
-| PANW | Palo Alto Networks, Inc. | Software - Infrastructure | 0 |
-| SLS | SELLAS Life Sciences Group, Inc. | Biotechnology | 0 |
-| MSTR | Strategy Inc | Software - Application | 0 |
-| COHR | Coherent Corp. | Scientific & Technical Instruments | 0 |
+| LITE | Lumentum Holdings Inc. | Communication Equipment | 0 |
 | NOW | ServiceNow, Inc. | Software - Application | 0 |
-| NFLX | Netflix, Inc. | Entertainment | 0 |
-| MA | Mastercard Incorporated | Credit Services | 0 |
-| XOM | ExxonMobil Holdings Corporation | Oil & Gas Integrated | 0 |
+| ORCL | Oracle Corporation | Software - Infrastructure | 0 |
+| AMAT | Applied Materials, Inc. | Semiconductor Equipment & Materials | 0 |
 | KO | The Coca-Cola Company | Beverages - Non-Alcoholic | 0 |
-| CSCO | Cisco Systems, Inc. | Communication Equipment | 0 |
-| QCOM | QUALCOMM Incorporated | Semiconductors | 0 |
-| APP | AppLovin Corporation | Advertising Agencies | 0 |
-| CVX | Chevron Corporation | Oil & Gas Integrated | 0 |
-| TXN | Texas Instruments Incorporated | Semiconductors | 0 |
+| LRCX | Lam Research Corporation | Semiconductor Equipment & Materials | 0 |
+| GS | The Goldman Sachs Group, Inc. | Capital Markets | 0 |
+| HUM | Humana Inc. | Healthcare Plans | 0 |
 | MRNA | Moderna, Inc. | Biotechnology | 0 |
 | CCJ | Cameco Corporation | Uranium | 0 |
 
