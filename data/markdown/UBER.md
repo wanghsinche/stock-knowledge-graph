@@ -3,8 +3,8 @@ ticker: UBER
 company: Uber Technologies, Inc.
 sector: Technology
 industry: Software - Application
-extracted_at: 2026-09-11 18:55:33
-last_updated: 2026-09-11
+extracted_at: 2026-11-19 22:55:24
+last_updated: 2026-11-19
 ---
 
 # UBER - Uber Technologies, Inc.
@@ -12,7 +12,7 @@ last_updated: 2026-09-11
 ## 基本信息
 
 - **所属行业**: Technology / Software - Application
-- **提取时间**: 2026-09-11 18:55:33
+- **提取时间**: 2026-11-19 22:55:24
 
 ## 产业链关系
 
@@ -30,10 +30,10 @@ _暂无数据_
 
 ## 数据来源
 
-- [Uber](https://en.wikipedia.org/wiki/Uber_Technologies,_Inc.)
-- [Uber Technologies, Inc. suppliers manufacturers](https://in.tradingview.com/symbols/NYSE-UBER/)
-- [Uber Technologies, Inc. suppliers manufacturers](https://uber.com/)
+- 
+- [Uber Technologies, Inc. suppliers manufacturers](https://www.makesureiknowit.com/company/uber-technologies-inc)
+- [Uber Technologies, Inc. suppliers manufacturers](https://csimarket.com/stocks/UBER-Suppliers)
 
 ## 元数据
 
-- **更新日期**: 2026-09-11
+- **更新日期**: 2026-11-19

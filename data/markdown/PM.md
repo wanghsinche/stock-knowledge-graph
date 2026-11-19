@@ -3,8 +3,8 @@ ticker: PM
 company: Philip Morris International Inc.
 sector: Consumer Defensive
 industry: Tobacco
-extracted_at: 2026-04-01 16:52:36
-last_updated: 2026-04-01
+extracted_at: 2026-11-19 22:55:40
+last_updated: 2026-11-19
 ---
 
 # PM - Philip Morris International Inc.
@@ -12,7 +12,7 @@ last_updated: 2026-04-01
 ## 基本信息
 
 - **所属行业**: Consumer Defensive / Tobacco
-- **提取时间**: 2026-04-01 16:52:36
+- **提取时间**: 2026-11-19 22:55:40
 
 ## 产业链关系
 
@@ -30,10 +30,10 @@ _暂无数据_
 
 ## 数据来源
 
-- [Philip Morris International](https://en.wikipedia.org/wiki/Philip_Morris_International_Inc.)
-- [Philip Morris International Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/Philip_Morris_USA)
-- [Philip Morris International Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/Philip_Morris_International)
+- 
+- [Philip Morris International Inc. suppliers manufacturers](https://www.pmi.com/suppliers/suppliers-who-we-are)
+- [Philip Morris International Inc. suppliers manufacturers](https://csimarket.com/stocks/PM-Suppliers)
 
 ## 元数据
 
-- **更新日期**: 2026-04-01
+- **更新日期**: 2026-11-19

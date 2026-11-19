@@ -3,8 +3,8 @@ ticker: MRVL
 company: Marvell Technology, Inc.
 sector: Technology
 industry: Semiconductors
-extracted_at: 2026-11-18 22:48:25
-last_updated: 2026-11-18
+extracted_at: 2026-11-19 22:51:24
+last_updated: 2026-11-19
 ---
 
 # MRVL - Marvell Technology, Inc.
@@ -12,7 +12,7 @@ last_updated: 2026-11-18
 ## 基本信息
 
 - **所属行业**: Technology / Semiconductors
-- **提取时间**: 2026-11-18 22:48:25
+- **提取时间**: 2026-11-19 22:51:24
 
 ## 产业链关系
 
@@ -31,9 +31,9 @@ _暂无数据_
 ## 数据来源
 
 - 
-- [Marvell Technology, Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/Marvell_Technology)
-- [Marvell Technology, Inc. suppliers manufacturers](https://www.marvell.com/)
+- [Marvell Technology, Inc. suppliers manufacturers](https://rocketreach.co/mohan-dhamodaran-email_5753660)
+- [Marvell Technology, Inc. suppliers manufacturers](https://www.linkedin.com/posts/marvell_welcome-to-the-new-marvell-india-offices-activity-7249495047568572419-Rbqm)
 
 ## 元数据
 
-- **更新日期**: 2026-11-18
+- **更新日期**: 2026-11-19
