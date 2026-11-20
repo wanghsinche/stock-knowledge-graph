@@ -3,8 +3,8 @@ ticker: CCJ
 company: Cameco Corporation
 sector: Energy
 industry: Uranium
-extracted_at: 2026-11-19 22:56:08
-last_updated: 2026-11-19
+extracted_at: 2026-11-20 22:35:33
+last_updated: 2026-11-20
 ---
 
 # CCJ - Cameco Corporation
@@ -12,7 +12,7 @@ last_updated: 2026-11-19
 ## 基本信息
 
 - **所属行业**: Energy / Uranium
-- **提取时间**: 2026-11-19 22:56:08
+- **提取时间**: 2026-11-20 22:35:33
 
 ## 产业链关系
 
@@ -31,9 +31,9 @@ _暂无数据_
 ## 数据来源
 
 - 
+- [Cameco Corporation suppliers manufacturers](https://www.cameco.com/about)
 - [Cameco Corporation suppliers manufacturers](https://www.cameco.com/)
-- [Cameco Corporation suppliers manufacturers](https://elliottwave-forecast.com/stock-market/cameco-ccj-double-correction-targets-support-near-the-47-59-area/)
 
 ## 元数据
 
-- **更新日期**: 2026-11-19
+- **更新日期**: 2026-11-20

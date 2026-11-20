@@ -3,8 +3,8 @@ ticker: ANET
 company: Arista Networks, Inc.
 sector: Technology
 industry: Computer Hardware
-extracted_at: 2026-11-13 21:50:55
-last_updated: 2026-11-13
+extracted_at: 2026-11-20 22:35:04
+last_updated: 2026-11-20
 ---
 
 # ANET - Arista Networks, Inc.
@@ -12,7 +12,7 @@ last_updated: 2026-11-13
 ## 基本信息
 
 - **所属行业**: Technology / Computer Hardware
-- **提取时间**: 2026-11-13 21:50:55
+- **提取时间**: 2026-11-20 22:35:04
 
 ## 产业链关系
 
@@ -31,9 +31,9 @@ _暂无数据_
 ## 数据来源
 
 - 
-- [Arista Networks, Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/Arista_Networks)
-- [Arista Networks, Inc. suppliers manufacturers](https://finance.yahoo.com/quote/ANET/)
+- [Arista Networks, Inc. suppliers manufacturers](https://csimarket.com/stocks/ANET-Suppliers)
+- [Arista Networks, Inc. suppliers manufacturers](https://www.listthe.com/manufacturers-of/arista-networks-inc)
 
 ## 元数据
 
-- **更新日期**: 2026-11-13
+- **更新日期**: 2026-11-20

@@ -3,8 +3,8 @@ ticker: COHR
 company: Coherent Corp.
 sector: Technology
 industry: Scientific & Technical Instruments
-extracted_at: 2026-11-19 22:53:07
-last_updated: 2026-11-19
+extracted_at: 2026-11-20 22:33:10
+last_updated: 2026-11-20
 ---
 
 # COHR - Coherent Corp.
@@ -12,7 +12,7 @@ last_updated: 2026-11-19
 ## 基本信息
 
 - **所属行业**: Technology / Scientific & Technical Instruments
-- **提取时间**: 2026-11-19 22:53:07
+- **提取时间**: 2026-11-20 22:33:10
 
 ## 产业链关系
 
@@ -31,9 +31,9 @@ _暂无数据_
 ## 数据来源
 
 - 
-- [Coherent Corp. suppliers manufacturers](https://www.coherent.com/company/locations)
-- [Coherent Corp. suppliers manufacturers](https://www.coherent.com/legal/supplier-compliance)
+- [Coherent Corp. suppliers manufacturers](https://www.htx.com/news/report-analysis-what-is-coherent-planning-as-cpo-booms-pCJ3zZ3w/)
+- [Coherent Corp. suppliers manufacturers](https://panjiva.com/search)
 
 ## 元数据
 
-- **更新日期**: 2026-11-19
+- **更新日期**: 2026-11-20

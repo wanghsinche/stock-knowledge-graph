@@ -3,8 +3,8 @@ ticker: TXN
 company: Texas Instruments Incorporated
 sector: Technology
 industry: Semiconductors
-extracted_at: 2026-11-17 23:19:34
-last_updated: 2026-11-17
+extracted_at: 2026-11-20 22:33:56
+last_updated: 2026-11-20
 ---
 
 # TXN - Texas Instruments Incorporated
@@ -12,7 +12,7 @@ last_updated: 2026-11-17
 ## 基本信息
 
 - **所属行业**: Technology / Semiconductors
-- **提取时间**: 2026-11-17 23:19:34
+- **提取时间**: 2026-11-20 22:33:56
 
 ## 产业链关系
 
@@ -31,9 +31,9 @@ _暂无数据_
 ## 数据来源
 
 - 
-- [Texas Instruments Incorporated suppliers manufacturers](https://en.wikipedia.org/wiki/Texas_Instruments)
-- [Texas Instruments Incorporated suppliers manufacturers](https://finance.yahoo.com/quote/TXN/)
+- [Texas Instruments Incorporated suppliers manufacturers](/url?opi=89978449&q=CAESbAHEIkXXFwDeOxgdJEllWUngkITLkIOJGSbqJN9VIuP0IKhcmy9Aay6w6g3MsBp66DfgGuLzMK_HhyUjHDOj3jTEFySjZYUN9XX6o2b_HsfBLbQSUaVgcI_VZ7h_fM1jHD6knRqt-1BCDd9Sfg&sa=U&uoh=3&ved=2ahUKEwjv5dm0zZeYAxWjHEQIHTbXNhEQFnoECBsQAg&usg=AOvVaw3oKy5qxGTT6SyaFWYoKRT3+/url?opi=89978449&q=CAESbAHEIkXXFwDeOxgdJEllWUngkITLkIOJGSbqJN9VIuP0IKhcmy9Aay6w6g3MsBp66DfgGuLzMK_HhyUjHDOj3jTEFySjZYUN9XX6o2b_HsfBLbQSUaVgcI_VZ7h_fM1jHD6knRqt-1BCDd9Sfg&sa=U&uoh=3&ved=2ahUKEwjv5dm0zZeYAxWjHEQIHTbXNhEQqa4BegQIGxAD&usg=AOvVaw3Gc30CZUpuQM6zviIvNRq8+/url?opi=89978449&q=CAESdAHEIkXX-XbdBp_2scEy10wnf8qYQEtqXYb-D50G6AH-Ri0XGmCWxW61Nq3u_wMCa9aMiDW8qklNfBCQwIw_HXVM4EZCzgThFIO7gujx8eLZUHxpFiY_ARWV8Y3WTUwnnTfd75xix7lLF2vt0W2Jy-N75Nhl&sa=U&uoh=3&ved=2ahUKEwjv5dm0zZeYAxWjHEQIHTbXNhEQ0gJ6BAgbEAY&usg=AOvVaw3ir7r3OhyCUK6WvE3nnKmO+/url?opi=89978449&q=CAESdQHEIkXXl7zU3gp1ZboeDEoQpY_5u_TsXkkxfzZEFTYSBnh62UEHA3uCa8QcwMf9k1as_UMmDh5s1Fhz14N5idvQRmNnCMoOMNGOm0ZU7JNjqVESMZF2mgLdlYivvsOdtBOSRt8otLdJaW2uPDikw3idlYJBGQ&sa=U&uoh=3&ved=2ahUKEwjv5dm0zZeYAxWjHEQIHTbXNhEQ0gJ6BAgbEAc&usg=AOvVaw0rD0_TD9WqA2anZkwU5pXH+/url?opi=89978449&q=CAESdgHEIkXXkupygCPVVtax7ugo4kkKDfBA-sN1NFB50c4X8_jczJeJK2q5Y752eQxj9CEeeRUQN7etNTjWMvtHH3U1j4GsXw--kWM1eqZ_KB-8wPAYwuqc5Sy0Yj7CwNO-yfSgixTqEmpJyPRE1x8HZglgdCybcMQ&sa=U&uoh=3&ved=2ahUKEwjv5dm0zZeYAxWjHEQIHTbXNhEQ0gJ6BAgbEAg&usg=AOvVaw2-jNwJT7Z8yPp7lU9xPsf-)
+- [Texas Instruments Incorporated suppliers manufacturers](/url?opi=89978449&q=CAESdgHEIkXXl4wtuFBosFOIZ_Bk1G8QHPio_scvRePLBISMkUnn-Yl0AeO30OYirwXZMeiIazQheF2nAFp5r5062V1jEB0GlMxZVv9eGb2DG-GBqtzrCiogwlrOLxI0gQtNEmMn8tQIvwrr4zJGSEJGMaG9hTvCGPQ&sa=U&uoh=3&ved=2ahUKEwjv5dm0zZeYAxWjHEQIHTbXNhEQFnoECAcQAg&usg=AOvVaw2ZSaGu_9Bg1FcTj2ypZka_)
 
 ## 元数据
 
-- **更新日期**: 2026-11-17
+- **更新日期**: 2026-11-20

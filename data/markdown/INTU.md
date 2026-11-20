@@ -3,8 +3,8 @@ ticker: INTU
 company: Intuit Inc.
 sector: Technology
 industry: Software - Application
-extracted_at: 2026-08-29 00:23:48
-last_updated: 2026-08-29
+extracted_at: 2026-11-20 22:33:40
+last_updated: 2026-11-20
 ---
 
 # INTU - Intuit Inc.
@@ -12,7 +12,7 @@ last_updated: 2026-08-29
 ## 基本信息
 
 - **所属行业**: Technology / Software - Application
-- **提取时间**: 2026-08-29 00:23:48
+- **提取时间**: 2026-11-20 22:33:40
 
 ## 产业链关系
 
@@ -30,10 +30,10 @@ _暂无数据_
 
 ## 数据来源
 
-- [Intuit](https://en.wikipedia.org/wiki/Intuit_Inc.)
-- [Intuit Inc. suppliers manufacturers](https://www.intuit.com/)
-- [Intuit Inc. suppliers manufacturers](https://csimarket.com/stocks/INTU-Suppliers)
+- 
+- [Intuit Inc. suppliers manufacturers](https://mercora.ru/news/intuit-publikuet-otchetnost-aktsii-upali-na-2026-11-19)
+- [Intuit Inc. suppliers manufacturers](https://www.alibaba.com/)
 
 ## 元数据
 
-- **更新日期**: 2026-08-29
+- **更新日期**: 2026-11-20
