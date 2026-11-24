@@ -3,8 +3,8 @@ ticker: HPE
 company: Hewlett Packard Enterprise Company
 sector: Technology
 industry: Communication Equipment
-extracted_at: 2026-10-07 20:59:56
-last_updated: 2026-10-07
+extracted_at: 2026-11-24 02:46:32
+last_updated: 2026-11-24
 ---
 
 # HPE - Hewlett Packard Enterprise Company
@@ -12,7 +12,7 @@ last_updated: 2026-10-07
 ## 基本信息
 
 - **所属行业**: Technology / Communication Equipment
-- **提取时间**: 2026-10-07 20:59:56
+- **提取时间**: 2026-11-24 02:46:32
 
 ## 产业链关系
 
@@ -30,10 +30,10 @@ _暂无数据_
 
 ## 数据来源
 
-- [Hewlett Packard Enterprise](https://en.wikipedia.org/wiki/Hewlett_Packard_Enterprise_Company)
-- [Hewlett Packard Enterprise Company suppliers manufacturers](https://en.wikipedia.org/wiki/Hewlett-Packard)
-- [Hewlett Packard Enterprise Company suppliers manufacturers](https://en.wikipedia.org/wiki/HP_Inc.)
+- 
+- [Hewlett Packard Enterprise Company suppliers manufacturers](https://www.localefirenze.it/en/)
+- [Hewlett Packard Enterprise Company suppliers manufacturers](https://www.localefirenze.it/en/bar/)
 
 ## 元数据
 
-- **更新日期**: 2026-10-07
+- **更新日期**: 2026-11-24
