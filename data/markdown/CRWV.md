@@ -3,8 +3,8 @@ ticker: CRWV
 company: CoreWeave, Inc.
 sector: Technology
 industry: Software - Infrastructure
-extracted_at: 2026-11-24 02:42:52
-last_updated: 2026-11-24
+extracted_at: 2026-11-25 00:18:07
+last_updated: 2026-11-25
 ---
 
 # CRWV - CoreWeave, Inc.
@@ -12,7 +12,7 @@ last_updated: 2026-11-24
 ## 基本信息
 
 - **所属行业**: Technology / Software - Infrastructure
-- **提取时间**: 2026-11-24 02:42:52
+- **提取时间**: 2026-11-25 00:18:07
 
 ## 产业链关系
 
@@ -31,9 +31,9 @@ _暂无数据_
 ## 数据来源
 
 - 
-- [CoreWeave, Inc. suppliers manufacturers](https://en.m.wikipedia.org/wiki/CoreWeave)
-- [CoreWeave, Inc. suppliers manufacturers](https://finance.yahoo.com/quote/CRWV/?fr=sycsrp_catchall)
+- [CoreWeave, Inc. suppliers manufacturers](https://www.coreweave.com/)
+- [CoreWeave, Inc. suppliers manufacturers](https://coreweave.com/ai-data-centers)
 
 ## 元数据
 
-- **更新日期**: 2026-11-24
+- **更新日期**: 2026-11-25

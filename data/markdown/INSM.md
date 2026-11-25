@@ -3,8 +3,8 @@ ticker: INSM
 company: Insmed Incorporated
 sector: Healthcare
 industry: Biotechnology
-extracted_at: 2026-11-19 22:55:00
-last_updated: 2026-11-19
+extracted_at: 2026-11-25 00:14:50
+last_updated: 2026-11-25
 ---
 
 # INSM - Insmed Incorporated
@@ -12,7 +12,7 @@ last_updated: 2026-11-19
 ## 基本信息
 
 - **所属行业**: Healthcare / Biotechnology
-- **提取时间**: 2026-11-19 22:55:00
+- **提取时间**: 2026-11-25 00:14:50
 
 ## 产业链关系
 
@@ -31,9 +31,9 @@ _暂无数据_
 ## 数据来源
 
 - 
-- [Insmed Incorporated suppliers manufacturers](https://seekingalpha.com/article/4959300-insmed-incorporated-2026-q3-results-earnings-call-presentation)
-- [Insmed Incorporated suppliers manufacturers](https://buykorea.org/)
+- [Insmed Incorporated suppliers manufacturers](https://insmed.com/company/)
+- [Insmed Incorporated suppliers manufacturers](https://tracxn.com/d/companies/insmed/__jkNW_h7wJm9Ck-9GTfnDYyUIcgKW_bG72WtwYEfZfqw)
 
 ## 元数据
 
-- **更新日期**: 2026-11-19
+- **更新日期**: 2026-11-25
