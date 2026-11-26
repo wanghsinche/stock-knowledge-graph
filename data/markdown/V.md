@@ -3,7 +3,7 @@ ticker: V
 company: Visa Inc.
 sector: Financial Services
 industry: Credit Services
-extracted_at: 2026-11-25 00:18:16
+extracted_at: 2026-11-25 23:57:58
 last_updated: 2026-11-25
 ---
 
@@ -12,7 +12,7 @@ last_updated: 2026-11-25
 ## 基本信息
 
 - **所属行业**: Financial Services / Credit Services
-- **提取时间**: 2026-11-25 00:18:16
+- **提取时间**: 2026-11-25 23:57:58
 
 ## 产业链关系
 
@@ -31,8 +31,8 @@ _暂无数据_
 ## 数据来源
 
 - 
-- [Visa Inc. suppliers manufacturers](https://www.visa.com/en-us/company/suppliers)
-- [Visa Inc. suppliers manufacturers](https://csimarket.com/stocks/V-Suppliers)
+- [Visa Inc. suppliers manufacturers](https://www.visa.com/en-us)
+- [Visa Inc. suppliers manufacturers](https://www.visa.com.my/about-visa.html)
 
 ## 元数据
 

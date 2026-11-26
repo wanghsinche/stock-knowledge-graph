@@ -3,7 +3,7 @@ ticker: TSLA
 company: Tesla, Inc.
 sector: Consumer Cyclical
 industry: Auto Manufacturers
-extracted_at: 2026-11-25 00:15:15
+extracted_at: 2026-11-25 23:54:23
 last_updated: 2026-11-25
 ---
 
@@ -12,7 +12,7 @@ last_updated: 2026-11-25
 ## 基本信息
 
 - **所属行业**: Consumer Cyclical / Auto Manufacturers
-- **提取时间**: 2026-11-25 00:15:15
+- **提取时间**: 2026-11-25 23:54:23
 
 ## 产业链关系
 

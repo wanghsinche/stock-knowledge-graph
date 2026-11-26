@@ -3,8 +3,8 @@ ticker: DIS
 company: The Walt Disney Company
 sector: Communication Services
 industry: Entertainment
-extracted_at: 2026-11-18 22:49:41
-last_updated: 2026-11-18
+extracted_at: 2026-11-25 23:59:55
+last_updated: 2026-11-25
 ---
 
 # DIS - The Walt Disney Company
@@ -12,7 +12,7 @@ last_updated: 2026-11-18
 ## 基本信息
 
 - **所属行业**: Communication Services / Entertainment
-- **提取时间**: 2026-11-18 22:49:41
+- **提取时间**: 2026-11-25 23:59:55
 
 ## 产业链关系
 
@@ -31,9 +31,9 @@ _暂无数据_
 ## 数据来源
 
 - 
-- [The Walt Disney Company suppliers manufacturers](https://en.wikipedia.org/wiki/The_Walt_Disney_Company)
-- [The Walt Disney Company suppliers manufacturers](https://thewaltdisneycompany.com/)
+- [The Walt Disney Company suppliers manufacturers](https://www.youtube.com/watch?v=F-KRvLhOqkw)
+- [The Walt Disney Company suppliers manufacturers](https://www.hongkongdisneyland.com/pages/ho-ho-ho/)
 
 ## 元数据
 
-- **更新日期**: 2026-11-18
+- **更新日期**: 2026-11-25
