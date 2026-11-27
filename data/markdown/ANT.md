@@ -3,7 +3,7 @@ ticker: ANT
 company: Anthropic, PBC Class A Common Stock
 sector: Technology
 industry: Software - Application
-extracted_at: 2026-11-27 00:10:25
+extracted_at: 2026-11-27 23:49:45
 last_updated: 2026-11-27
 ---
 
@@ -12,7 +12,7 @@ last_updated: 2026-11-27
 ## 基本信息
 
 - **所属行业**: Technology / Software - Application
-- **提取时间**: 2026-11-27 00:10:25
+- **提取时间**: 2026-11-27 23:49:45
 
 ## 产业链关系
 
@@ -31,8 +31,8 @@ _暂无数据_
 ## 数据来源
 
 - 
-- [Anthropic, PBC Class A Common Stock suppliers manufacturers](https://stockanalysis.com/stocks/ant/company/)
-- [Anthropic, PBC Class A Common Stock suppliers manufacturers](https://financer.com/invest/anthropic-ipo/)
+- [Anthropic, PBC Class A Common Stock suppliers manufacturers](https://www.anthropic.com/news)
+- [Anthropic, PBC Class A Common Stock suppliers manufacturers](https://www.zerohedge.com/markets/anthropic-prices-83-raises-record-94-billion-its-own-chip-suppliers-holding-floor)
 
 ## 元数据
 

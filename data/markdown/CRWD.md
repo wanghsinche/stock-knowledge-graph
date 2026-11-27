@@ -3,7 +3,7 @@ ticker: CRWD
 company: CrowdStrike Holdings, Inc.
 sector: Technology
 industry: Software - Infrastructure
-extracted_at: 2026-11-27 00:14:06
+extracted_at: 2026-11-27 23:52:05
 last_updated: 2026-11-27
 ---
 
@@ -12,7 +12,7 @@ last_updated: 2026-11-27
 ## 基本信息
 
 - **所属行业**: Technology / Software - Infrastructure
-- **提取时间**: 2026-11-27 00:14:06
+- **提取时间**: 2026-11-27 23:52:05
 
 ## 产业链关系
 
@@ -31,8 +31,8 @@ _暂无数据_
 ## 数据来源
 
 - 
-- [CrowdStrike Holdings, Inc. suppliers manufacturers](https://www.crowdstrike.com/en-us/about-us/suppliers/)
-- [CrowdStrike Holdings, Inc. suppliers manufacturers](https://www.crowdstrike.com/en-us/about-us/suppliers/doing-business-with-crowdstrike/)
+- [CrowdStrike Holdings, Inc. suppliers manufacturers](https://www.mercedesamgf1.com/partners/crowd-strike)
+- [CrowdStrike Holdings, Inc. suppliers manufacturers](https://www.benzinga.com/trading-ideas/long-ideas/24/07/40016868/jim-cramer-joins-multiple-analysts-calling-the-bottom-in-crowdstrike-stock)
 
 ## 元数据
 

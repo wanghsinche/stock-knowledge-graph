@@ -3,8 +3,8 @@ ticker: ABBV
 company: AbbVie Inc.
 sector: Healthcare
 industry: Drug Manufacturers - General
-extracted_at: 2026-11-02 23:23:57
-last_updated: 2026-11-02
+extracted_at: 2026-11-27 23:54:47
+last_updated: 2026-11-27
 ---
 
 # ABBV - AbbVie Inc.
@@ -12,7 +12,7 @@ last_updated: 2026-11-02
 ## 基本信息
 
 - **所属行业**: Healthcare / Drug Manufacturers - General
-- **提取时间**: 2026-11-02 23:23:57
+- **提取时间**: 2026-11-27 23:54:47
 
 ## 产业链关系
 
@@ -31,9 +31,9 @@ _暂无数据_
 ## 数据来源
 
 - 
+- [AbbVie Inc. suppliers manufacturers](https://www.abbvie.com/who-we-are/operating-with-integrity/responsible-supply-chain/supplier-resources.html)
 - [AbbVie Inc. suppliers manufacturers](https://csimarket.com/stocks/ABBV-Suppliers)
-- [AbbVie Inc. suppliers manufacturers](https://www.linkedin.com/company/abbvie)
 
 ## 元数据
 
-- **更新日期**: 2026-11-02
+- **更新日期**: 2026-11-27

@@ -3,7 +3,7 @@ ticker: QCOM
 company: QUALCOMM Incorporated
 sector: Technology
 industry: Semiconductors
-extracted_at: 2026-11-27 00:16:08
+extracted_at: 2026-11-27 23:52:27
 last_updated: 2026-11-27
 ---
 
@@ -12,7 +12,7 @@ last_updated: 2026-11-27
 ## 基本信息
 
 - **所属行业**: Technology / Semiconductors
-- **提取时间**: 2026-11-27 00:16:08
+- **提取时间**: 2026-11-27 23:52:27
 
 ## 产业链关系
 

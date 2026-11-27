@@ -3,7 +3,7 @@ ticker: ORCL
 company: Oracle Corporation
 sector: Technology
 industry: Software - Infrastructure
-extracted_at: 2026-11-27 00:12:37
+extracted_at: 2026-11-27 23:52:35
 last_updated: 2026-11-27
 ---
 
@@ -12,7 +12,7 @@ last_updated: 2026-11-27
 ## 基本信息
 
 - **所属行业**: Technology / Software - Infrastructure
-- **提取时间**: 2026-11-27 00:12:37
+- **提取时间**: 2026-11-27 23:52:35
 
 ## 产业链关系
 
@@ -31,7 +31,7 @@ _暂无数据_
 ## 数据来源
 
 - 
-- [Oracle Corporation suppliers manufacturers](https://en.wikipedia.org/wiki/Oracle_Corporation)
+- [Oracle Corporation suppliers manufacturers](https://www.oracle.com/corporate/suppliers/)
 - [Oracle Corporation suppliers manufacturers](https://csimarket.com/stocks/ORCL-Suppliers)
 
 ## 元数据

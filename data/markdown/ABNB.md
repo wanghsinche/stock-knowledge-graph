@@ -3,8 +3,8 @@ ticker: ABNB
 company: Airbnb, Inc.
 sector: Consumer Cyclical
 industry: Travel Services
-extracted_at: 2026-11-06 21:14:22
-last_updated: 2026-11-06
+extracted_at: 2026-11-27 23:55:40
+last_updated: 2026-11-27
 ---
 
 # ABNB - Airbnb, Inc.
@@ -12,7 +12,7 @@ last_updated: 2026-11-06
 ## 基本信息
 
 - **所属行业**: Consumer Cyclical / Travel Services
-- **提取时间**: 2026-11-06 21:14:22
+- **提取时间**: 2026-11-27 23:55:40
 
 ## 产业链关系
 
@@ -31,9 +31,9 @@ _暂无数据_
 ## 数据来源
 
 - 
-- [Airbnb, Inc. suppliers manufacturers](https://www.airbnb.com/)
-- [Airbnb, Inc. suppliers manufacturers](https://csimarket.com/stocks/markets_glance.php?code=ABNB)
+- [Airbnb, Inc. suppliers manufacturers](https://www.zyberno.com/supply-chain/ABNB/)
+- [Airbnb, Inc. suppliers manufacturers](https://www.airbnb.com/e/procurement)
 
 ## 元数据
 
-- **更新日期**: 2026-11-06
+- **更新日期**: 2026-11-27

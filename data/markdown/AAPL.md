@@ -3,7 +3,7 @@ ticker: AAPL
 company: Apple Inc.
 sector: Technology
 industry: Consumer Electronics
-extracted_at: 2026-11-27 00:10:45
+extracted_at: 2026-11-27 23:50:19
 last_updated: 2026-11-27
 ---
 
@@ -12,7 +12,7 @@ last_updated: 2026-11-27
 ## 基本信息
 
 - **所属行业**: Technology / Consumer Electronics
-- **提取时间**: 2026-11-27 00:10:45
+- **提取时间**: 2026-11-27 23:50:19
 
 ## 产业链关系
 
@@ -31,8 +31,8 @@ _暂无数据_
 ## 数据来源
 
 - 
-- [Apple Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/Apple_Inc.)
-- [Apple Inc. suppliers manufacturers](https://csimarket.com/stocks/suppliers_glance.php?code=AAPL)
+- [Apple Inc. suppliers manufacturers](https://www.alibaba.com/)
+- [Apple Inc. suppliers manufacturers](https://www.inc.com/glenn-leibowitz/apple-ceo-tim-cook-this-is-number-1-reason-we-make-iphones-in-china-its-not-what-you-think.html)
 
 ## 元数据
 
