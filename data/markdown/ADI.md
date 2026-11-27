@@ -3,8 +3,8 @@ ticker: ADI
 company: Analog Devices, Inc.
 sector: Technology
 industry: Semiconductors
-extracted_at: 2026-11-25 23:57:18
-last_updated: 2026-11-25
+extracted_at: 2026-11-27 00:13:58
+last_updated: 2026-11-27
 ---
 
 # ADI - Analog Devices, Inc.
@@ -12,7 +12,7 @@ last_updated: 2026-11-25
 ## 基本信息
 
 - **所属行业**: Technology / Semiconductors
-- **提取时间**: 2026-11-25 23:57:18
+- **提取时间**: 2026-11-27 00:13:58
 
 ## 产业链关系
 
@@ -32,8 +32,8 @@ _暂无数据_
 
 - 
 - [Analog Devices, Inc. suppliers manufacturers](https://en.wikipedia.org/wiki/Analog_Devices)
-- [Analog Devices, Inc. suppliers manufacturers](https://www.analog.com/en/product-category.html)
+- [Analog Devices, Inc. suppliers manufacturers](https://csimarket.com/stocks/ADI-Suppliers)
 
 ## 元数据
 
-- **更新日期**: 2026-11-25
+- **更新日期**: 2026-11-27

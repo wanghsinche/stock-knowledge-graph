@@ -1,6 +1,6 @@
 ---
 title: 股票知识图谱索引
-last_updated: 2026-11-26
+last_updated: 2026-11-27
 ---
 
 # 股票知识图谱索引
@@ -11,7 +11,7 @@ last_updated: 2026-11-26
 
 - **更新模式**: 活跃股票 + 关注列表
 - **跟踪股票数**: 52
-- **最后更新**: 2026-11-26 00:00:51
+- **最后更新**: 2026-11-27 00:17:32
 
 ## 股票列表
 
@@ -19,7 +19,7 @@ last_updated: 2026-11-26
 |---------|---------|------|--------|
 | NVDA | NVIDIA Corporation | Semiconductors | 0 |
 | MU | Micron Technology, Inc. | Semiconductors | 0 |
-| ANT | Anthropic, PBC | Software - Application | 0 |
+| ANT | Anthropic, PBC Class A Common Stock | Software - Application | 0 |
 | AMD | Advanced Micro Devices, Inc. | Semiconductors | 0 |
 | AAPL | Apple Inc. | Consumer Electronics | 0 |
 | SPCX | Space Exploration Technologies Corp. | Aerospace & Defense | 0 |
